@@ -32,23 +32,24 @@ class _MarkPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size size) {
+    // 塗り
     canvas.drawRRect(
       RRect.fromRectAndRadius(Offset.zero & size, const Radius.circular(3)),
       Paint()..color = color,
     );
+    // 黒縁（全薬剤共通）
+    canvas.drawRRect(
+      RRect.fromRectAndRadius(
+        Rect.fromLTWH(0.5, 0.5, size.width - 1, size.height - 1),
+        const Radius.circular(2.5),
+      ),
+      Paint()
+        ..color = Colors.black
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = 1.2,
+    );
+    // 斜線（拮抗薬・降圧薬のみ）
     if (diagonal) {
-      // 黒縁（border）
-      canvas.drawRRect(
-        RRect.fromRectAndRadius(
-          Rect.fromLTWH(0.5, 0.5, size.width - 1, size.height - 1),
-          const Radius.circular(2.5),
-        ),
-        Paint()
-          ..color = Colors.black
-          ..style = PaintingStyle.stroke
-          ..strokeWidth = 1.2,
-      );
-      // 斜線
       canvas.drawLine(
         Offset(size.width * 0.15, size.height * 0.85),
         Offset(size.width * 0.85, size.height * 0.15),
