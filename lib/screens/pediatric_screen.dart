@@ -16,14 +16,6 @@ enum _SedDrug {
   const _SedDrug(this.label);
 }
 
-enum _BarbConc {
-  pct25('2.5%  (25 mg/mL)', 25.0),
-  pct50('5%  (50 mg/mL)', 50.0);
-  final String label;
-  final double mgPerMl;
-  const _BarbConc(this.label, this.mgPerMl);
-}
-
 enum _RocConc {
   original('原液  (10 mg/mL)', 10.0),
   half('2倍希釈  (5 mg/mL)', 5.0);
@@ -33,6 +25,10 @@ enum _RocConc {
   String get shortLabel => switch (this) {
     _RocConc.original => '原液 10mg/mL',
     _RocConc.half     => '2倍希釈 5mg/mL',
+  };
+  String get concLabel => switch (this) {
+    _RocConc.original => '原液 (10mg/mL)',
+    _RocConc.half     => '2倍希釈 (5mg/mL)',
   };
 }
 
@@ -46,14 +42,10 @@ enum _FentConc {
     _FentConc.original => '原液 50μg/mL',
     _FentConc.diluted  => '希釈 10μg/mL',
   };
-}
-
-enum _AtropConc {
-  tenX('10倍希釈  (0.05 mg/mL)', 0.05),
-  original('原液  (0.5 mg/mL)', 0.5);
-  final String label;
-  final double mgPerMl;
-  const _AtropConc(this.label, this.mgPerMl);
+  String get concLabel => switch (this) {
+    _FentConc.original => '原液 (50μg/mL)',
+    _FentConc.diluted  => '希釈 (10μg/mL)',
+  };
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────
@@ -74,10 +66,9 @@ class _PediatricScreenState extends State<PediatricScreen> {
   final _ageCtrl = TextEditingController(text: '6');
 
   // 薬剤設定
-  _SedDrug   _sed      = _SedDrug.thiamylal;
-  _BarbConc  _barbConc = _BarbConc.pct25;
-  _RocConc   _rocConc  = _RocConc.original;
-  _FentConc  _fentConc = _FentConc.original;
+  _SedDrug  _sed      = _SedDrug.thiamylal;
+  _RocConc  _rocConc  = _RocConc.original;
+  _FentConc _fentConc = _FentConc.original;
 
   @override
   void initState() {
@@ -121,11 +112,12 @@ class _PediatricScreenState extends State<PediatricScreen> {
     if (_ageYrs < 1.0) return 3.0;
     return _ageYrs / 4 + 3.5;
   }
-  // 固定長: 身長/11 + 5.5 cm
-  double get _fixLen => _height / 11.0 + 5.5;
+  // 固定長: 身長/11 + 5.5 cm, 0.5cm単位に丸め
+  double get _fixLen =>
+      ((_height / 11.0 + 5.5) * 2).round() / 2.0;
 
-  // 鎮静薬
-  double get _sedConcMgMl => _sed == _SedDrug.propofol ? 10.0 : _barbConc.mgPerMl;
+  // 鎮静薬 (バルビツール固定2.5% = 25mg/mL, プロポ固定10mg/mL)
+  double get _sedConcMgMl => _sed == _SedDrug.propofol ? 10.0 : 25.0;
   double get _sedMinPKg   => _sed == _SedDrug.propofol ? 2.5 : 3.0;
   double get _sedMaxPKg   => _sed == _SedDrug.propofol ? 3.5 : 5.0;
   double get _sedMinMg    => _wt * _sedMinPKg;
@@ -133,13 +125,25 @@ class _PediatricScreenState extends State<PediatricScreen> {
   double get _sedMinMl    => _sedMinMg / _sedConcMgMl;
   double get _sedMaxMl    => _sedMaxMg / _sedConcMgMl;
 
-  /// 整数 mL で投与幅に収まる候補リスト
+  /// 投与幅内で整数 mL になる候補
   List<int> get _sedIntMls {
     final lo = _sedMinMl.ceil();
     final hi = _sedMaxMl.floor();
     if (lo > hi) return [];
     return List.generate(hi - lo + 1, (i) => lo + i);
   }
+
+  /// サマリー用: 投与幅の中央に最も近い整数 mL
+  int get _sedSummaryMl {
+    final intMls = _sedIntMls;
+    if (intMls.isNotEmpty) {
+      final mid = (_sedMinMl + _sedMaxMl) / 2;
+      return intMls.reduce((a, b) =>
+          (a - mid).abs() < (b - mid).abs() ? a : b);
+    }
+    return ((_sedMinMl + _sedMaxMl) / 2).round().clamp(1, 50);
+  }
+  double get _sedSummaryMg => _sedSummaryMl * _sedConcMgMl;
 
   // ロクロニウム (1 mg/kg 固定)
   double get _rocMg => _wt * 1.0;
@@ -150,25 +154,23 @@ class _PediatricScreenState extends State<PediatricScreen> {
   double get _fentMaxMcg => _wt * 2.0;
   double get _fentMinMl  => _fentMinMcg / _fentConc.mcgPerMl;
   double get _fentMaxMl  => _fentMaxMcg / _fentConc.mcgPerMl;
-  /// mL 刻み: 希釈(10μg/mL)→0.5, 原液(50μg/mL)→0.1
   double get _fentStep   => _fentConc == _FentConc.diluted ? 0.5 : 0.1;
 
-  /// 投与幅に収まる最初のステップ mL (浮動小数点ノイズ対策済み)
+  /// 投与幅内の最初のステップ mL
   double? get _fentSuggestMl {
     final step = _fentStep;
-    final minMl = _fentMinMl;
-    final maxMl = _fentMaxMl;
-    // 小数点ノイズを避けるため微小値を加えてから ceil
-    final n = ((minMl / step) + 1e-9).ceil();
-    // step 倍した値を2桁で丸め
+    final n = ((_fentMinMl / step) + 1e-9).ceil();
     final first = double.parse((n * step).toStringAsFixed(2));
-    if (first > maxMl + 1e-9) return null;
+    if (first > _fentMaxMl + 1e-9) return null;
     return first;
   }
+  double get _fentSummaryMl  => _fentSuggestMl ?? _fentMinMl;
+  double get _fentSummaryMcg => _fentSummaryMl * _fentConc.mcgPerMl;
 
-  // アトロピン (≤10kg のみ, mg 表記のみ)
-  bool   get _showAtrop => _weight <= 10;
-  double get _atropMg   => _wt * 0.01;
+  // アトロピン (≤10kg のみ, 固定: 10倍希釈 0.05mg/mL)
+  bool   get _showAtrop  => _weight <= 10;
+  double get _atropMg    => _wt * 0.01;
+  double get _atropMl    => _atropMg / 0.05; // 10倍希釈固定
 
   // ── Build ────────────────────────────────────────────────────────────────
   @override
@@ -195,10 +197,8 @@ class _PediatricScreenState extends State<PediatricScreen> {
           _rocCard(scheme),
           const SizedBox(height: 12),
           _fentCard(scheme),
-          if (_showAtrop) ...[
-            const SizedBox(height: 12),
-            _atropCard(scheme),
-          ],
+          const SizedBox(height: 16),
+          _summaryZone(scheme),
         ],
       ),
     );
@@ -233,7 +233,6 @@ class _PediatricScreenState extends State<PediatricScreen> {
 
   // ── 年齢テキスト入力フィールド ────────────────────────────────────────────
   Widget _ageField() {
-    // ヘルパーテキスト: 解析結果を表示
     final String parsed;
     if (_ageYears == 0 && _ageMonths > 0) {
       parsed = '$_ageMonths ヶ月';
@@ -242,13 +241,12 @@ class _PediatricScreenState extends State<PediatricScreen> {
     } else {
       parsed = '$_ageYears 歳  $_ageMonths ヶ月';
     }
-
     return TextField(
       controller: _ageCtrl,
       keyboardType: TextInputType.text,
       inputFormatters: [
         FilteringTextInputFormatter.allow(RegExp(r'[0-9/]')),
-        LengthLimitingTextInputFormatter(5), // "12/11" max
+        LengthLimitingTextInputFormatter(5),
       ],
       decoration: InputDecoration(
         labelText: '年齢  (yy/mm)',
@@ -269,7 +267,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     );
   }
 
-  // ── 気管チューブ ──────────────────────────────────────────────────────────
+  // ── 気管チューブ (コンパクト表示) ─────────────────────────────────────────
   Widget _tubeCard(ColorScheme scheme) => Card(
     child: Container(
       decoration: BoxDecoration(
@@ -291,29 +289,61 @@ class _PediatricScreenState extends State<PediatricScreen> {
             _warnBadge('1歳未満: 年齢式の精度低下あり. 実測体格で確認を.'),
           ],
           const SizedBox(height: 12),
-          _tubeRow('カフなし ID', '${_tubeCuffless.toStringAsFixed(1)} mm', 'age/4 + 4.0'),
+          // チューブ径
+          _tubeCompactRow(
+            rowLabel: 'チューブ径',
+            leftLabel: 'カフあり',
+            leftVal: _tubeCuffed,
+            rightLabel: 'なし',
+            rightVal: _tubeCuffless,
+            unit: 'mm',
+          ),
           const Divider(height: 14),
-          _tubeRow('カフあり ID', '${_tubeCuffed.toStringAsFixed(1)} mm', 'age/4 + 3.5'),
-          const Divider(height: 14),
-          _tubeRow('固定長 (口角)', '${_fixLen.toStringAsFixed(1)} cm', '身長/11 + 5.5'),
-          const Divider(height: 14),
-          _tubeRow('固定長 (鼻腔)', '${(_fixLen + 2.5).toStringAsFixed(1)} cm', '口角 + 2.5'),
+          // 固定長
+          _tubeCompactRow(
+            rowLabel: '固定長',
+            leftLabel: '口角',
+            leftVal: _fixLen,
+            rightLabel: '鼻腔',
+            rightVal: _fixLen + 2.5,
+            unit: 'cm',
+          ),
+          const SizedBox(height: 4),
+          Text('身長/11 + 5.5  (0.5cm単位)',
+              style: const TextStyle(fontSize: 10, color: Colors.black38)),
         ],
       ),
     ),
   );
 
-  Widget _tubeRow(String label, String value, String formula) => Row(
-    children: [
-      SizedBox(width: 100, child: Text(label,
-          style: const TextStyle(fontSize: 12, color: Colors.black54))),
-      Text(value, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-      const Spacer(),
-      Text(formula, style: const TextStyle(fontSize: 11, color: Colors.black38)),
-    ],
-  );
+  Widget _tubeCompactRow({
+    required String rowLabel,
+    required String leftLabel,
+    required double leftVal,
+    required String rightLabel,
+    required double rightVal,
+    required String unit,
+  }) {
+    final bigStyle   = const TextStyle(fontSize: 22, fontWeight: FontWeight.bold);
+    final smallStyle = const TextStyle(fontSize: 12, color: Colors.black54);
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.baseline,
+      textBaseline: TextBaseline.alphabetic,
+      children: [
+        SizedBox(width: 58,
+            child: Text(rowLabel, style: smallStyle)),
+        Text(leftLabel, style: smallStyle),
+        const SizedBox(width: 4),
+        Text(leftVal.toStringAsFixed(1), style: bigStyle),
+        Text(' $unit', style: smallStyle),
+        Text('  /  $rightLabel ', style: smallStyle),
+        Text(rightVal.toStringAsFixed(1), style: bigStyle),
+        Text(' $unit', style: smallStyle),
+      ],
+    );
+  }
 
-  // ── 鎮静薬 ───────────────────────────────────────────────────────────────
+  // ── 鎮静薬 (選択のみ) ─────────────────────────────────────────────────────
   Widget _sedCard(ColorScheme scheme) {
     final color = DrugCategory.sedative.color;
     return Card(
@@ -325,7 +355,8 @@ class _PediatricScreenState extends State<PediatricScreen> {
             Row(children: [
               CategoryMark(color: color, size: 14),
               const SizedBox(width: 7),
-              const Text('鎮静薬', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+              const Text('鎮静薬',
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
             ]),
             const SizedBox(height: 10),
             _chips<_SedDrug>(
@@ -333,96 +364,34 @@ class _PediatricScreenState extends State<PediatricScreen> {
               label: (d) => d.label,
               onTap: (d) => setState(() => _sed = d),
             ),
-            const SizedBox(height: 10),
-            if (_sed != _SedDrug.propofol) ...[
-              _enumDd<_BarbConc>(
-                label: '希釈濃度', value: _barbConc, items: _BarbConc.values,
-                itemLabel: (c) => c.label,
-                onChanged: (v) => setState(() => _barbConc = v),
-              ),
-              const SizedBox(height: 8),
-              // 押水アラート
-              Container(
-                width: double.infinity,
-                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
-                decoration: BoxDecoration(
-                  color: Colors.red.withValues(alpha: 0.07),
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: Colors.red.shade200),
-                ),
-                child: const Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Icon(Icons.water_drop, size: 14, color: Colors.red),
-                    SizedBox(width: 6),
-                    Expanded(child: Text(
-                      '投与後は必ず押水（生食フラッシュ）を行うこと.\nルート内残留・血管外漏出に注意.',
-                      style: TextStyle(
-                          fontSize: 11, color: Colors.red, height: 1.4),
-                    )),
-                  ],
-                ),
-              ),
-            ] else
+            const SizedBox(height: 8),
+            if (_sed != _SedDrug.propofol)
+              _barbAlert()
+            else
               _propoWarning(),
-            const SizedBox(height: 12),
-            const Divider(height: 1),
-            const SizedBox(height: 12),
-            _sedSuggestSection(color),
           ],
         ),
       ),
     );
   }
 
-  /// 鎮静薬: 整数 mL 推奨投与量 + 投与幅
-  Widget _sedSuggestSection(Color color) {
-    final intMls = _sedIntMls;
-    final conc   = _sedConcMgMl;
-
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        const Text('推奨投与量  (mL が整数になるよう調整)',
-            style: TextStyle(fontSize: 11, color: Colors.black45)),
-        const SizedBox(height: 8),
-
-        // 推奨 chip(s)
-        if (intMls.isEmpty)
-          Text(
-            '整数 mL なし — ${_fmtRange(_sedMinMl)}〜${_fmtRange(_sedMaxMl)} mL で調整',
-            style: const TextStyle(fontSize: 13, color: Colors.black54),
-          )
-        else if (intMls.length > 4)
-          _doseChip(
-            mlText: '${intMls.first}〜${intMls.last} mL',
-            subText: '(${(intMls.first * conc).round()}–${(intMls.last * conc).round()} mg)',
-            color: color,
-          )
-        else
-          Wrap(
-            spacing: 8, runSpacing: 6,
-            children: intMls.map((ml) {
-              final mg = (ml * conc).round();
-              return _doseChip(
-                mlText: '$ml mL',
-                subText: '($mg mg)',
-                color: color,
-              );
-            }).toList(),
-          ),
-
-        const SizedBox(height: 8),
-        // 投与幅ノート
-        Text(
-          '投与幅: ${_sedMinPKg.toStringAsFixed(1)}–${_sedMaxPKg.toStringAsFixed(1)} mg/kg'
-          '  →  ${_fmtMg(_sedMinMg)}–${_fmtMg(_sedMaxMg)} mg'
-          '  /  ${_fmtRange(_sedMinMl)}–${_fmtRange(_sedMaxMl)} mL',
-          style: const TextStyle(fontSize: 11, color: Colors.black38),
-        ),
-      ],
-    );
-  }
+  Widget _barbAlert() => Container(
+    width: double.infinity,
+    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+    decoration: BoxDecoration(
+      color: Colors.red.withValues(alpha: 0.07),
+      borderRadius: BorderRadius.circular(8),
+      border: Border.all(color: Colors.red.shade200),
+    ),
+    child: const Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+      Icon(Icons.water_drop, size: 14, color: Colors.red),
+      SizedBox(width: 6),
+      Expanded(child: Text(
+        '投与後は必ず押水（生食フラッシュ）を行うこと.\nルート内残留・血管外漏出に注意.',
+        style: TextStyle(fontSize: 11, color: Colors.red, height: 1.4),
+      )),
+    ]),
+  );
 
   Widget _propoWarning() => Container(
     width: double.infinity,
@@ -442,7 +411,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     ]),
   );
 
-  // ── ロクロニウム ──────────────────────────────────────────────────────────
+  // ── ロクロニウム (選択のみ) ───────────────────────────────────────────────
   Widget _rocCard(ColorScheme scheme) {
     final color = DrugCategory.muscleRelaxant.color;
     return Card(
@@ -464,145 +433,144 @@ class _PediatricScreenState extends State<PediatricScreen> {
                 onChanged: (v) => setState(() => _rocConc = v),
               ),
             ]),
-            const SizedBox(height: 12),
-            const Divider(height: 1),
-            const SizedBox(height: 12),
-            _mlMgRow(label: '投与量', basis: '1.0 mg/kg',
-              mlValue: _rocMl, mgValue: _rocMg, mgUnit: 'mg'),
             const SizedBox(height: 8),
             _noteBadge('拮抗: スガマデクス 2 mg/kg (通常) / 16 mg/kg (即時)',
-                DrugCategory.muscleRelaxant.color),
+                color),
           ],
         ),
       ),
     );
   }
 
-  // ── フェンタニル ──────────────────────────────────────────────────────────
+  // ── フェンタニル (選択のみ) ───────────────────────────────────────────────
   Widget _fentCard(ColorScheme scheme) {
     final color = DrugCategory.analgesic.color;
     return Card(
       child: Padding(
         padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
+        child: Row(
           children: [
-            Row(children: [
-              CategoryMark(color: color, size: 14),
-              const SizedBox(width: 7),
-              const Expanded(
-                child: Text('鎮痛薬  (フェンタニル)',
-                    style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
-              ),
-              _inlineDd<_FentConc>(
-                value: _fentConc, items: _FentConc.values,
-                itemLabel: (c) => c.shortLabel,
-                onChanged: (v) => setState(() => _fentConc = v),
-              ),
-            ]),
-            const SizedBox(height: 12),
-            const Divider(height: 1),
-            const SizedBox(height: 12),
-            _fentSuggestSection(color),
+            CategoryMark(color: color, size: 14),
+            const SizedBox(width: 7),
+            const Expanded(
+              child: Text('鎮痛薬  (フェンタニル)',
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+            ),
+            _inlineDd<_FentConc>(
+              value: _fentConc, items: _FentConc.values,
+              itemLabel: (c) => c.shortLabel,
+              onChanged: (v) => setState(() => _fentConc = v),
+            ),
           ],
         ),
       ),
     );
   }
 
-  /// フェンタニル: ステップ推奨投与量 + 投与幅
-  Widget _fentSuggestSection(Color color) {
-    final suggestMl = _fentSuggestMl;
-    final step      = _fentStep;
-    final stepStr   = step == 0.5 ? '0.5 mL' : '0.1 mL';
-
+  // ── サマリーゾーン ────────────────────────────────────────────────────────
+  Widget _summaryZone(ColorScheme scheme) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text('推奨投与量  ($stepStr 刻み)',
-            style: const TextStyle(fontSize: 11, color: Colors.black45)),
-        const SizedBox(height: 8),
-
-        if (suggestMl != null)
-          _doseChip(
-            mlText: '${_fmtMl(suggestMl)} mL',
-            subText: '(${_fmtMg(suggestMl * _fentConc.mcgPerMl)} μg)',
-            color: color,
-          )
-        else
-          Text(
-            '$stepStr 刻みなし — ${_fmtRange(_fentMinMl)}〜${_fmtRange(_fentMaxMl)} mL で調整',
-            style: const TextStyle(fontSize: 13, color: Colors.black54),
-          ),
-
-        const SizedBox(height: 8),
-        Text(
-          '投与幅: 1–2 μg/kg'
-          '  →  ${_fmtMg(_fentMinMcg)}–${_fmtMg(_fentMaxMcg)} μg'
-          '  /  ${_fmtRange(_fentMinMl)}–${_fmtRange(_fentMaxMl)} mL',
-          style: const TextStyle(fontSize: 11, color: Colors.black38),
-        ),
+        _dosageCard(scheme),
+        const SizedBox(height: 10),
+        _recordCard(scheme),
       ],
     );
   }
 
-  // ── アトロピン (≤10kg, mg のみ) ──────────────────────────────────────────
-  Widget _atropCard(ColorScheme scheme) => Card(
-    child: Padding(
-      padding: const EdgeInsets.all(16),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Row(children: [
-            Icon(Icons.medication_outlined, size: 16, color: Colors.teal.shade600),
-            const SizedBox(width: 7),
-            Text('アトロピン  (迷走神経反射予防)',
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14,
-                    color: Colors.teal.shade700)),
-          ]),
-          const SizedBox(height: 2),
-          const Text('体重 ≤ 10 kg のみ表示',
-              style: TextStyle(fontSize: 11, color: Colors.black38)),
-          const SizedBox(height: 12),
-          const Divider(height: 1),
-          const SizedBox(height: 12),
-          // mg のみ表示
-          Row(
-            crossAxisAlignment: CrossAxisAlignment.baseline,
-            textBaseline: TextBaseline.alphabetic,
-            children: [
-              const SizedBox(
-                width: 78,
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text('投与量',
-                        style: TextStyle(fontSize: 13, fontWeight: FontWeight.w600)),
-                    Text('0.01 mg/kg',
-                        style: TextStyle(fontSize: 11, color: Colors.black45)),
-                  ],
-                ),
-              ),
-              Expanded(
-                child: RichText(
-                  textAlign: TextAlign.right,
-                  text: TextSpan(
-                    style: DefaultTextStyle.of(context).style,
-                    children: [
-                      TextSpan(text: _fmtMg(_atropMg),
-                          style: const TextStyle(
-                              fontSize: 26, fontWeight: FontWeight.bold)),
-                      const TextSpan(text: ' mg',
-                          style: TextStyle(fontSize: 14, color: Colors.black54)),
-                    ],
-                  ),
-                ),
-              ),
+  /// 投与カード: 薬剤名 + 濃度 + mL
+  Widget _dosageCard(ColorScheme scheme) {
+    final sedLabel = _sed == _SedDrug.propofol
+        ? 'プロポフォール  10mg/mL'
+        : '${_sed.label}  2.5% (25mg/mL)';
+
+    final rows = <(String, String)>[
+      (sedLabel,                              '${_sedSummaryMl} mL'),
+      ('ロクロニウム  ${_rocConc.concLabel}', '${_fmtMl(_rocMl)} mL'),
+      ('フェンタニル  ${_fentConc.concLabel}','${_fmtMl(_fentSummaryMl)} mL'),
+      if (_showAtrop) ('アトロピン  10倍希釈 (0.05mg/mL)', '${_fmtMl(_atropMl)} mL'),
+    ];
+
+    return Card(
+      child: Container(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(14),
+          border: Border(left: BorderSide(color: scheme.primary, width: 4)),
+        ),
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(children: [
+              Icon(Icons.colorize, size: 16, color: scheme.primary),
+              const SizedBox(width: 6),
+              Text('投与量',
+                  style: TextStyle(color: scheme.primary,
+                      fontWeight: FontWeight.bold, fontSize: 15)),
+            ]),
+            const SizedBox(height: 12),
+            for (var i = 0; i < rows.length; i++) ...[
+              if (i > 0) const Divider(height: 16),
+              _summaryRow(rows[i].$1, rows[i].$2),
             ],
-          ),
-        ],
+          ],
+        ),
       ),
-    ),
+    );
+  }
+
+  /// 記載カード: 薬剤名 + mg/μg
+  Widget _recordCard(ColorScheme scheme) {
+    const recordColor = Color(0xFF607D8B); // blue-grey
+
+    final rows = <(String, String)>[
+      (_sed.label,    '${_fmtMg(_sedSummaryMg)} mg'),
+      ('ロクロニウム', '${_fmtMg(_rocMg)} mg'),
+      ('フェンタニル', '${_fmtMg(_fentSummaryMcg)} μg'),
+      if (_showAtrop) ('アトロピン', '${_fmtMg(_atropMg)} mg'),
+    ];
+
+    return Card(
+      child: Container(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(14),
+          border: const Border(left: BorderSide(color: recordColor, width: 4)),
+        ),
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Row(children: [
+              Icon(Icons.edit_note, size: 16, color: recordColor),
+              SizedBox(width: 6),
+              Text('麻酔記録  記載用',
+                  style: TextStyle(color: recordColor,
+                      fontWeight: FontWeight.bold, fontSize: 15)),
+            ]),
+            const SizedBox(height: 12),
+            for (var i = 0; i < rows.length; i++) ...[
+              if (i > 0) const Divider(height: 16),
+              _summaryRow(rows[i].$1, rows[i].$2),
+            ],
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _summaryRow(String label, String value) => Row(
+    crossAxisAlignment: CrossAxisAlignment.baseline,
+    textBaseline: TextBaseline.alphabetic,
+    children: [
+      Expanded(
+        child: Text(label,
+            style: const TextStyle(fontSize: 12, color: Colors.black54)),
+      ),
+      Text(value,
+          style: const TextStyle(
+              fontSize: 20, fontWeight: FontWeight.bold)),
+    ],
   );
 
   // ── 共通 Widgets ──────────────────────────────────────────────────────────
@@ -640,96 +608,6 @@ class _PediatricScreenState extends State<PediatricScreen> {
     );
   }
 
-  /// 推奨投与量チップ
-  Widget _doseChip({
-    required String mlText,
-    required String subText,
-    required Color color,
-  }) {
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-      decoration: BoxDecoration(
-        color: color.withValues(alpha: 0.10),
-        borderRadius: BorderRadius.circular(10),
-        border: Border.all(color: color.withValues(alpha: 0.40)),
-      ),
-      child: RichText(
-        text: TextSpan(
-          style: DefaultTextStyle.of(context).style,
-          children: [
-            TextSpan(text: mlText,
-                style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-            const TextSpan(text: '  '),
-            TextSpan(text: subText,
-                style: const TextStyle(fontSize: 12, color: Colors.black54)),
-          ],
-        ),
-      ),
-    );
-  }
-
-  /// mL (大) + mg/μg (小) の2段表示行
-  Widget _mlMgRow({
-    required String label,
-    required String basis,
-    required double mlValue,
-    required double mgValue,
-    required String mgUnit,
-  }) {
-    return Row(
-      crossAxisAlignment: CrossAxisAlignment.center,
-      children: [
-        SizedBox(
-          width: 78,
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(label,
-                  style: const TextStyle(fontSize: 13, fontWeight: FontWeight.w600)),
-              Text(basis,
-                  style: const TextStyle(fontSize: 11, color: Colors.black45)),
-            ],
-          ),
-        ),
-        const SizedBox(width: 4),
-        Expanded(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.end,
-            children: [
-              // mL — 投与用 (主)
-              RichText(
-                text: TextSpan(
-                  style: DefaultTextStyle.of(context).style,
-                  children: [
-                    TextSpan(text: _fmtMl(mlValue),
-                        style: const TextStyle(
-                            fontSize: 26, fontWeight: FontWeight.bold)),
-                    const TextSpan(text: ' mL',
-                        style: TextStyle(fontSize: 13, color: Colors.black54)),
-                  ],
-                ),
-              ),
-              // mg — 記録用 (副)
-              RichText(
-                text: TextSpan(
-                  style: DefaultTextStyle.of(context).style,
-                  children: [
-                    TextSpan(text: _fmtMg(mgValue),
-                        style: const TextStyle(
-                            fontSize: 15, color: Colors.black45)),
-                    TextSpan(text: ' $mgUnit',
-                        style: const TextStyle(
-                            fontSize: 12, color: Colors.black38)),
-                  ],
-                ),
-              ),
-            ],
-          ),
-        ),
-      ],
-    );
-  }
-
   /// 薬剤選択チップ (汎用)
   Widget _chips<T>({
     required List<T> values,
@@ -739,8 +617,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     required void Function(T) onTap,
   }) {
     return Wrap(
-      spacing: 8,
-      runSpacing: 6,
+      spacing: 8, runSpacing: 6,
       children: values.map((v) {
         final sel = v == selected;
         return GestureDetector(
@@ -749,9 +626,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
             duration: const Duration(milliseconds: 150),
             padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
             decoration: BoxDecoration(
-              color: sel
-                  ? color.withValues(alpha: 0.15)
-                  : const Color(0xFFF0F0F0),
+              color: sel ? color.withValues(alpha: 0.15) : const Color(0xFFF0F0F0),
               borderRadius: BorderRadius.circular(20),
               border: Border.all(
                   color: sel ? color : Colors.transparent, width: 1.5),
@@ -764,40 +639,6 @@ class _PediatricScreenState extends State<PediatricScreen> {
           ),
         );
       }).toList(),
-    );
-  }
-
-  /// enum 用ドロップダウン (希釈選択)
-  Widget _enumDd<T>({
-    required String label,
-    required T value,
-    required List<T> items,
-    required String Function(T) itemLabel,
-    required ValueChanged<T> onChanged,
-  }) {
-    return DropdownButtonFormField<T>(
-      value: value,
-      isExpanded: true,
-      decoration: InputDecoration(
-        labelText: label,
-        isDense: true,
-        filled: true,
-        fillColor: const Color(0xFFF7F9FA),
-        border: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(10),
-          borderSide: BorderSide.none,
-        ),
-        contentPadding:
-            const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-      ),
-      items: items
-          .map((v) => DropdownMenuItem<T>(
-                value: v,
-                child: Text(itemLabel(v),
-                    style: const TextStyle(fontSize: 13)),
-              ))
-          .toList(),
-      onChanged: (v) { if (v != null) onChanged(v); },
     );
   }
 
@@ -863,22 +704,11 @@ class _PediatricScreenState extends State<PediatricScreen> {
 }
 
 // ── 数値フォーマット ──────────────────────────────────────────────────────
-
-/// 投与量表示用 (チップ・行内)
 String _fmtMl(double v) {
   if (v == 0) return '0';
-  if (v < 0.1) return v.toStringAsFixed(2); // 0.04 など
-  if (v < 10)  return v.toStringAsFixed(1); // 0.4, 1.5 など
-  return v.toStringAsFixed(0);              // 12 など
-}
-
-/// 範囲テキスト用 (小数点2桁, 末尾ゼロ省略)
-String _fmtRange(double v) {
-  var s = v.toStringAsFixed(2);
-  if (s.contains('.')) {
-    s = s.replaceAll(RegExp(r'0+$'), '').replaceAll(RegExp(r'\.$'), '');
-  }
-  return s;
+  if (v < 0.1) return v.toStringAsFixed(2);
+  if (v < 10)  return v.toStringAsFixed(1);
+  return v.toStringAsFixed(0);
 }
 
 String _fmtMg(double v) {
