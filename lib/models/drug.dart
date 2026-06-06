@@ -82,6 +82,6 @@ enum DrugCategory {
         DrugCategory.vasopressor => const Color(0xFF8B5CF6),     // PMS 267   : 昇圧薬 バイオレット
         DrugCategory.vasodilator => const Color(0xFF8B5CF6),     // PMS 267   : 降圧薬 (+ 斜線)
         DrugCategory.localAnesthetic => const Color(0xFF97999B), // Cool Gray7 : 局所麻酔薬 標準灰
-        DrugCategory.anticoagulant => const Color(0xFF7B1010),   // 凝固系 : 暗血色 (dark blood red)
+        DrugCategory.anticoagulant => const Color(0xFFB52020),   // 凝固系 : 血色 (blood red)
       };
 }
