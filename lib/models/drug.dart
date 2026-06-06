@@ -48,7 +48,8 @@ class Drug {
   /// 拮抗薬・中和薬・血管拡張薬 → ■マーカーに斜線を重ねる
   bool get isDiagonal =>
       category == DrugCategory.vasodilator ||
-      const {'フルマゼニル', 'スガマデクス', 'ナロキソン'}.contains(name);
+      const {'フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド'}
+          .contains(name);
 }
 
 /// 解説の1セクション
@@ -58,27 +59,28 @@ class DrugNote {
   const DrugNote(this.heading, this.body);
 }
 
-/// 薬剤分類
+/// 薬剤分類（8ジャンル）
 enum DrugCategory {
-  sedative('鎮静薬・BZ拮抗'),
-  muscleRelaxant('筋弛緩薬・拮抗'),
-  opioid('オピオイド・拮抗'),
-  analgesic('鎮痛・制吐'),
-  vasopressor('昇圧薬・カテコラミン'),
-  vasodilator('抗不整脈・血管拡張'),
-  anticoagulant('抗凝固・中和');
+  sedative('鎮静薬'),
+  inhalational('吸入麻酔薬'),
+  muscleRelaxant('筋弛緩薬'),
+  analgesic('鎮痛薬'),
+  vasopressor('昇圧薬'),
+  vasodilator('降圧薬'),
+  localAnesthetic('局所麻酔薬'),
+  anticoagulant('凝固系');
 
   final String label;
   const DrugCategory(this.label);
 
-  /// Excelセル塗りつぶし色 (B18/B30/B37/B57/B99) を引用
   Color get color => switch (this) {
-        DrugCategory.sedative => const Color(0xFFFFC000),      // B18 accent4
-        DrugCategory.muscleRelaxant => const Color(0xFFFF5661), // B30
-        DrugCategory.opioid => const Color(0xFF5B9BD5),         // B37 accent1
-        DrugCategory.analgesic => const Color(0xFF5B9BD5),      // B37 同色
-        DrugCategory.vasopressor => const Color(0xFFD5B0FF),    // B57
-        DrugCategory.vasodilator => const Color(0xFFD5B0FF),    // B57 +斜線
-        DrugCategory.anticoagulant => const Color(0xFFED2341),  // B99
+        DrugCategory.sedative => const Color(0xFFFFC000),        // B18 accent4 黄
+        DrugCategory.inhalational => const Color(0xFFFFE580),    // B18より淡い黄
+        DrugCategory.muscleRelaxant => const Color(0xFFFF5661),  // B30 赤
+        DrugCategory.analgesic => const Color(0xFF5B9BD5),       // B37 青
+        DrugCategory.vasopressor => const Color(0xFFD5B0FF),     // B57 紫
+        DrugCategory.vasodilator => const Color(0xFFD5B0FF),     // B57 +斜線
+        DrugCategory.localAnesthetic => const Color(0xFF9E9E9E), // 灰
+        DrugCategory.anticoagulant => const Color(0xFFED2341),   // B99 赤
       };
 }

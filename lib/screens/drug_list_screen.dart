@@ -176,19 +176,22 @@ class _DrugCard extends StatelessWidget {
                   ),
                 ],
               ),
-              if (drug.dose != null) ...[
-                const SizedBox(height: 8),
-                Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Icon(Icons.colorize, size: 15, color: Colors.black38),
-                    const SizedBox(width: 4),
-                    Expanded(
-                      child: Text(drug.dose!, style: theme.textTheme.bodySmall),
+              const SizedBox(height: 6),
+              Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Icon(Icons.bolt, size: 14, color: Colors.black38),
+                  const SizedBox(width: 4),
+                  Expanded(
+                    child: Text(
+                      drug.mechanism,
+                      style: theme.textTheme.bodySmall,
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
                     ),
-                  ],
-                ),
-              ],
+                  ),
+                ],
+              ),
             ],
           ),
         ),
