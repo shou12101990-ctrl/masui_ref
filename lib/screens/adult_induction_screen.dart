@@ -21,7 +21,7 @@ enum _SedDrug {
 enum _AnalDrug {
   fentanyl('フェンタニル'),
   remifentanil('レミフェンタニル'),
-  fentaRemi('フェンタ＋レミフェ');
+  fentaRemi('フェンタ＋レミ');
 
   final String label;
   const _AnalDrug(this.label);
@@ -145,38 +145,65 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
         padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
         children: [
 
-          // ── 患者情報 ──────────────────────────────────────────────────
+          // ── 患者情報 + 薬剤選択 (2カラム) ────────────────────────────
           Card(
             child: Padding(
               padding: const EdgeInsets.all(16),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  _secTitle('患者情報', scheme),
-                  const SizedBox(height: 12),
                   Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
+                      // 左: 患者情報 (縦並び)
                       Expanded(
-                        child: _ddField<int>(
-                          label: '年齢', suffix: '歳',
-                          value: _age, items: _ageOpts,
-                          onChanged: (v) => setState(() => _age = v),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            _secTitle('患者情報', scheme),
+                            const SizedBox(height: 8),
+                            _ddField<int>(
+                              label: '年齢', suffix: '歳',
+                              value: _age, items: _ageOpts,
+                              onChanged: (v) => setState(() => _age = v),
+                            ),
+                            const SizedBox(height: 8),
+                            _ddField<int>(
+                              label: '身長', suffix: 'cm',
+                              value: _height, items: _heightOpts,
+                              onChanged: (v) => setState(() => _height = v),
+                            ),
+                            const SizedBox(height: 8),
+                            _ddField<int>(
+                              label: '体重', suffix: 'kg',
+                              value: _weight, items: _weightOpts,
+                              onChanged: (v) => setState(() => _weight = v),
+                            ),
+                          ],
                         ),
                       ),
-                      const SizedBox(width: 8),
+                      const SizedBox(width: 14),
+                      // 右: 薬剤選択 (縦並び)
                       Expanded(
-                        child: _ddField<int>(
-                          label: '身長', suffix: 'cm',
-                          value: _height, items: _heightOpts,
-                          onChanged: (v) => setState(() => _height = v),
-                        ),
-                      ),
-                      const SizedBox(width: 8),
-                      Expanded(
-                        child: _ddField<int>(
-                          label: '体重', suffix: 'kg',
-                          value: _weight, items: _weightOpts,
-                          onChanged: (v) => setState(() => _weight = v),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            _secTitle('薬剤', scheme),
+                            const SizedBox(height: 8),
+                            _ddField<_SedDrug>(
+                              label: '鎮静薬', suffix: '',
+                              value: _sed, items: _SedDrug.values,
+                              itemLabel: (d) => d.label,
+                              onChanged: (v) => setState(() => _sed = v),
+                            ),
+                            const SizedBox(height: 8),
+                            _ddField<_AnalDrug>(
+                              label: '鎮痛薬', suffix: '',
+                              value: _anal, items: _AnalDrug.values,
+                              itemLabel: (d) => d.label,
+                              onChanged: (v) => setState(() => _anal = v),
+                            ),
+                          ],
                         ),
                       ),
                     ],
@@ -228,14 +255,8 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
           // ── 鎮静薬 ────────────────────────────────────────────────────
           _DrugClassCard(
             classLabel: '鎮静薬',
+            subtitle: _sed.label,
             color: DrugCategory.sedative.color,
-            chips: _SedDrug.values
-                .map((d) => (
-                      label: d.label,
-                      selected: _sed == d,
-                      onTap: () => setState(() => _sed = d),
-                    ))
-                .toList(),
             doseInfo: _sedInfo,
           ),
           const SizedBox(height: 12),
@@ -243,14 +264,8 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
           // ── 鎮痛薬 ────────────────────────────────────────────────────
           _DrugClassCard(
             classLabel: '鎮痛薬',
+            subtitle: _anal.label,
             color: DrugCategory.analgesic.color,
-            chips: _AnalDrug.values
-                .map((d) => (
-                      label: d.label,
-                      selected: _anal == d,
-                      onTap: () => setState(() => _anal = d),
-                    ))
-                .toList(),
             doseInfo: _analInfo,
           ),
           const SizedBox(height: 12),
@@ -258,8 +273,8 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
           // ── 筋弛緩薬 ──────────────────────────────────────────────────
           _DrugClassCard(
             classLabel: '筋弛緩薬',
+            subtitle: 'ロクロニウム',
             color: DrugCategory.muscleRelaxant.color,
-            chips: [(label: 'ロクロニウム', selected: true, onTap: () {})],
             doseInfo: _relaxInfo,
           ),
           const SizedBox(height: 12),
@@ -282,13 +297,14 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
     required T value,
     required List<T> items,
     required ValueChanged<T> onChanged,
+    String Function(T)? itemLabel,
   }) {
     return DropdownButtonFormField<T>(
       value: value,
       isExpanded: true,
       decoration: InputDecoration(
         labelText: label,
-        suffixText: suffix,
+        suffixText: suffix.isEmpty ? null : suffix,
         isDense: true,
         filled: true,
         fillColor: const Color(0xFFF7F9FA),
@@ -302,7 +318,10 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
       items: items
           .map((v) => DropdownMenuItem<T>(
                 value: v,
-                child: Text('$v', style: const TextStyle(fontSize: 14)),
+                child: Text(
+                  itemLabel != null ? itemLabel(v) : '$v',
+                  style: const TextStyle(fontSize: 13),
+                ),
               ))
           .toList(),
       onChanged: (v) {
@@ -315,14 +334,14 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
 // ── 薬剤クラスカード ──────────────────────────────────────────────────────
 class _DrugClassCard extends StatelessWidget {
   final String classLabel;
+  final String subtitle; // 選択中の薬剤名
   final Color color;
-  final List<({String label, bool selected, VoidCallback onTap})> chips;
   final _DoseInfo doseInfo;
 
   const _DrugClassCard({
     required this.classLabel,
+    required this.subtitle,
     required this.color,
-    required this.chips,
     required this.doseInfo,
   });
 
@@ -335,7 +354,7 @@ class _DrugClassCard extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
 
-            // ヘッダー: ■ + クラス名
+            // ヘッダー: ■ + クラス名 + 薬剤名
             Row(
               children: [
                 CategoryMark(color: color, size: 14),
@@ -343,15 +362,11 @@ class _DrugClassCard extends StatelessWidget {
                 Text(classLabel,
                     style: const TextStyle(
                         fontWeight: FontWeight.bold, fontSize: 14)),
+                const SizedBox(width: 8),
+                Text(subtitle,
+                    style: const TextStyle(
+                        fontSize: 13, color: Colors.black54)),
               ],
-            ),
-            const SizedBox(height: 10),
-
-            // 薬剤チップ
-            Wrap(
-              spacing: 8,
-              runSpacing: 6,
-              children: chips.map((c) => _DrugChip(chip: c, color: color)).toList(),
             ),
             const SizedBox(height: 12),
             const Divider(height: 1),
@@ -378,44 +393,6 @@ class _DrugClassCard extends StatelessWidget {
                       fontSize: 12, color: Colors.black54, height: 1.4)),
             ),
           ],
-        ),
-      ),
-    );
-  }
-}
-
-// ── 薬剤選択チップ ────────────────────────────────────────────────────────
-class _DrugChip extends StatelessWidget {
-  final ({String label, bool selected, VoidCallback onTap}) chip;
-  final Color color;
-  const _DrugChip({required this.chip, required this.color});
-
-  @override
-  Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: chip.onTap,
-      child: AnimatedContainer(
-        duration: const Duration(milliseconds: 150),
-        padding:
-            const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
-        decoration: BoxDecoration(
-          color: chip.selected
-              ? color.withValues(alpha: 0.15)
-              : const Color(0xFFF0F0F0),
-          borderRadius: BorderRadius.circular(20),
-          border: Border.all(
-            color: chip.selected ? color : Colors.transparent,
-            width: 1.5,
-          ),
-        ),
-        child: Text(
-          chip.label,
-          style: TextStyle(
-            fontSize: 13,
-            fontWeight:
-                chip.selected ? FontWeight.bold : FontWeight.normal,
-            color: chip.selected ? Colors.black87 : Colors.black54,
-          ),
         ),
       ),
     );
