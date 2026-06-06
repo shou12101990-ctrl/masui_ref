@@ -64,11 +64,10 @@ class _PediatricScreenState extends State<PediatricScreen> {
   int _weight    = 20;
 
   // 薬剤設定
-  _SedDrug   _sed       = _SedDrug.thiamylal;
-  _BarbConc  _barbConc  = _BarbConc.pct25;
-  _RocConc   _rocConc   = _RocConc.original;
-  _FentConc  _fentConc  = _FentConc.original;
-  _AtropConc _atropConc = _AtropConc.tenX;
+  _SedDrug   _sed      = _SedDrug.thiamylal;
+  _BarbConc  _barbConc = _BarbConc.pct25;
+  _RocConc   _rocConc  = _RocConc.original;
+  _FentConc  _fentConc = _FentConc.original;
 
   // ── Computed ────────────────────────────────────────────────────────────
   double get _ageYrs => _ageYears + _ageMonths / 12.0;
@@ -99,22 +98,17 @@ class _PediatricScreenState extends State<PediatricScreen> {
   double get _sedMinMl    => _sedMinMg / _sedConcMgMl;
   double get _sedMaxMl    => _sedMaxMg / _sedConcMgMl;
 
-  // ロクロニウム
-  double get _rocNormMg => _wt * 0.6;
-  double get _rocRsiMg  => _wt * 1.2;
-  double get _rocNormMl => _rocNormMg / _rocConc.mgPerMl;
-  double get _rocRsiMl  => _rocRsiMg / _rocConc.mgPerMl;
+  // ロクロニウム (1 mg/kg 固定)
+  double get _rocMg => _wt * 1.0;
+  double get _rocMl => _rocMg / _rocConc.mgPerMl;
 
-  // フェンタニル
-  double get _fentMinMcg => _wt * 1.0;
-  double get _fentMaxMcg => _wt * 3.0;
-  double get _fentMinMl  => _fentMinMcg / _fentConc.mcgPerMl;
-  double get _fentMaxMl  => _fentMaxMcg / _fentConc.mcgPerMl;
+  // フェンタニル (1 μg/kg 固定)
+  double get _fentMcg => _wt * 1.0;
+  double get _fentMl  => _fentMcg / _fentConc.mcgPerMl;
 
-  // アトロピン (≤10kg のみ)
+  // アトロピン (≤10kg のみ, mg 表記のみ)
   bool   get _showAtrop => _weight <= 10;
   double get _atropMg   => _wt * 0.01;
-  double get _atropMl   => _atropMg / _atropConc.mgPerMl;
 
   // ── Build ────────────────────────────────────────────────────────────────
   @override
@@ -252,13 +246,36 @@ class _PediatricScreenState extends State<PediatricScreen> {
               onTap: (d) => setState(() => _sed = d),
             ),
             const SizedBox(height: 10),
-            if (_sed != _SedDrug.propofol)
+            if (_sed != _SedDrug.propofol) ...[
               _enumDd<_BarbConc>(
                 label: '希釈濃度', value: _barbConc, items: _BarbConc.values,
                 itemLabel: (c) => c.label,
                 onChanged: (v) => setState(() => _barbConc = v),
-              )
-            else
+              ),
+              const SizedBox(height: 8),
+              // 押水アラート
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+                decoration: BoxDecoration(
+                  color: Colors.red.withValues(alpha: 0.07),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.red.shade200),
+                ),
+                child: const Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Icon(Icons.water_drop, size: 14, color: Colors.red),
+                    SizedBox(width: 6),
+                    Expanded(child: Text(
+                      '投与後は必ず押水（生食フラッシュ）を行うこと.\nルート内残留・血管外漏出に注意.',
+                      style: TextStyle(
+                          fontSize: 11, color: Colors.red, height: 1.4),
+                    )),
+                  ],
+                ),
+              ),
+            ] else
               _propoWarning(),
             const SizedBox(height: 12),
             const Divider(height: 1),
@@ -318,11 +335,8 @@ class _PediatricScreenState extends State<PediatricScreen> {
             const SizedBox(height: 12),
             const Divider(height: 1),
             const SizedBox(height: 12),
-            _mlMgRow(label: '通常', basis: '0.6 mg/kg',
-              mlValue: _rocNormMl, mgValue: _rocNormMg, mgUnit: 'mg'),
-            const SizedBox(height: 10),
-            _mlMgRow(label: 'RSI', basis: '1.2 mg/kg',
-              mlValue: _rocRsiMl, mgValue: _rocRsiMg, mgUnit: 'mg'),
+            _mlMgRow(label: '投与量', basis: '1.0 mg/kg',
+              mlValue: _rocMl, mgValue: _rocMg, mgUnit: 'mg'),
             const SizedBox(height: 8),
             _noteBadge('拮抗: スガマデクス 2 mg/kg (通常) / 16 mg/kg (即時)',
                 DrugCategory.muscleRelaxant.color),
@@ -356,18 +370,15 @@ class _PediatricScreenState extends State<PediatricScreen> {
             const SizedBox(height: 12),
             const Divider(height: 1),
             const SizedBox(height: 12),
-            _mlMgRow(label: '低用量', basis: '1 μg/kg',
-              mlValue: _fentMinMl, mgValue: _fentMinMcg, mgUnit: 'μg'),
-            const SizedBox(height: 10),
-            _mlMgRow(label: '高用量', basis: '3 μg/kg',
-              mlValue: _fentMaxMl, mgValue: _fentMaxMcg, mgUnit: 'μg'),
+            _mlMgRow(label: '投与量', basis: '1 μg/kg',
+              mlValue: _fentMl, mgValue: _fentMcg, mgUnit: 'μg'),
           ],
         ),
       ),
     );
   }
 
-  // ── アトロピン (≤10kg) ────────────────────────────────────────────────────
+  // ── アトロピン (≤10kg, mg のみ) ──────────────────────────────────────────
   Widget _atropCard(ColorScheme scheme) => Card(
     child: Padding(
       padding: const EdgeInsets.all(16),
@@ -384,17 +395,43 @@ class _PediatricScreenState extends State<PediatricScreen> {
           const SizedBox(height: 2),
           const Text('体重 ≤ 10 kg のみ表示',
               style: TextStyle(fontSize: 11, color: Colors.black38)),
-          const SizedBox(height: 10),
-          _enumDd<_AtropConc>(
-            label: '希釈濃度', value: _atropConc, items: _AtropConc.values,
-            itemLabel: (c) => c.label,
-            onChanged: (v) => setState(() => _atropConc = v),
-          ),
           const SizedBox(height: 12),
           const Divider(height: 1),
           const SizedBox(height: 12),
-          _mlMgRow(label: '投与量', basis: '0.01 mg/kg',
-            mlValue: _atropMl, mgValue: _atropMg, mgUnit: 'mg'),
+          // mg のみ表示
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.baseline,
+            textBaseline: TextBaseline.alphabetic,
+            children: [
+              const SizedBox(
+                width: 78,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text('投与量',
+                        style: TextStyle(fontSize: 13, fontWeight: FontWeight.w600)),
+                    Text('0.01 mg/kg',
+                        style: TextStyle(fontSize: 11, color: Colors.black45)),
+                  ],
+                ),
+              ),
+              Expanded(
+                child: RichText(
+                  textAlign: TextAlign.right,
+                  text: TextSpan(
+                    style: DefaultTextStyle.of(context).style,
+                    children: [
+                      TextSpan(text: _fmtMg(_atropMg),
+                          style: const TextStyle(
+                              fontSize: 26, fontWeight: FontWeight.bold)),
+                      const TextSpan(text: ' mg',
+                          style: TextStyle(fontSize: 14, color: Colors.black54)),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
         ],
       ),
     ),
