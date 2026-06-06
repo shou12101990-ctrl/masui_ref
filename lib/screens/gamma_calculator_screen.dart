@@ -42,24 +42,29 @@ class GammaCalculatorScreen extends StatefulWidget {
   State<GammaCalculatorScreen> createState() => _GammaCalculatorScreenState();
 }
 
+// 体重の選択肢: 30〜100 kg, 5 kg 刻み
+const _weightOptions = [
+  30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100,
+];
+
 class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   final _drugMg = TextEditingController(text: '150');
   final _totalMl = TextEditingController(text: '50');
-  final _weight = TextEditingController(text: '60');
   final _value = TextEditingController(text: '3');
+  int _weightKg = 60; // 体重 (ドロップダウン)
   _Unit _inputUnit = _Unit.mlPerH;
 
   @override
   void initState() {
     super.initState();
-    for (final c in [_drugMg, _totalMl, _weight, _value]) {
+    for (final c in [_drugMg, _totalMl, _value]) {
       c.addListener(() => setState(() {}));
     }
   }
 
   @override
   void dispose() {
-    for (final c in [_drugMg, _totalMl, _weight, _value]) {
+    for (final c in [_drugMg, _totalMl, _value]) {
       c.dispose();
     }
     super.dispose();
@@ -76,7 +81,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   // ── 入力値をいったん mg/h に正規化 ──────────────────────────────────
   double? get _normalizedMgPerH {
     final v = double.tryParse(_value.text);
-    final w = double.tryParse(_weight.text);
+    final w = _weightKg.toDouble();
     final c = _concMgPerMl;
     if (v == null) return null;
     switch (_inputUnit) {
@@ -85,16 +90,13 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
         return v * c; // ml/h × mg/ml = mg/h
       case _Unit.gamma:
         // μg/kg/min → mg/h: × W × 60 / 1000
-        if (w == null || w <= 0) return null;
         return v * w * 60 / 1000;
       case _Unit.mgPerH:
         return v;
       case _Unit.mgPerKgPerH:
-        if (w == null || w <= 0) return null;
         return v * w;
       case _Unit.mcgPerKgPerH:
         // μg/kg/h → mg/h: × W / 1000
-        if (w == null || w <= 0) return null;
         return v * w / 1000;
     }
   }
@@ -102,9 +104,9 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   // ── 全単位の結果 ──────────────────────────────────────────────────────
   _Result? get _result {
     final mgH = _normalizedMgPerH;
-    final w = double.tryParse(_weight.text);
+    final w = _weightKg.toDouble();
     final c = _concMgPerMl;
-    if (mgH == null || w == null || w <= 0) return null;
+    if (mgH == null) return null;
     return _Result(
       mlPerH: (c != null && c > 0) ? mgH / c : null,
       gamma: mgH * 1000 / (w * 60), // mg/h → μg/kg/min
@@ -164,7 +166,32 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
             _SectionCard(
               title: '体重',
               scheme: scheme,
-              child: _numField(_weight, '体重', 'kg'),
+              child: DropdownButtonFormField<int>(
+                value: _weightKg,
+                isExpanded: true,
+                decoration: InputDecoration(
+                  suffixText: 'kg',
+                  isDense: true,
+                  filled: true,
+                  fillColor: const Color(0xFFF7F9FA),
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(10),
+                    borderSide: BorderSide.none,
+                  ),
+                  contentPadding:
+                      const EdgeInsets.symmetric(horizontal: 12, vertical: 14),
+                ),
+                items: _weightOptions
+                    .map((w) => DropdownMenuItem(
+                          value: w,
+                          child: Text('$w',
+                              style: const TextStyle(fontSize: 15)),
+                        ))
+                    .toList(),
+                onChanged: (w) {
+                  if (w != null) setState(() => _weightKg = w);
+                },
+              ),
             ),
             const SizedBox(height: 12),
 
