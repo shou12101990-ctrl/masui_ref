@@ -98,57 +98,66 @@ class _DripScreenState extends State<DripScreen> {
           // ── 設定 ────────────────────────────────────────────────────────
           Card(
             child: Padding(
-              padding: const EdgeInsets.all(16),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  _sectionTitle('設定', scheme),
-                  const SizedBox(height: 12),
-                  DropdownButtonFormField<int>(
-                    value: _rateMlH,
-                    isExpanded: true,
-                    decoration: InputDecoration(
-                      labelText: '流量',
-                      suffixText: 'mL/h',
-                      isDense: true,
-                      filled: true,
-                      fillColor: const Color(0xFFF7F9FA),
-                      border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(10),
-                        borderSide: BorderSide.none,
-                      ),
-                      contentPadding: const EdgeInsets.symmetric(
-                          horizontal: 12, vertical: 14),
-                    ),
-                    items: _rateOptions
-                        .map((v) => DropdownMenuItem(
-                              value: v,
-                              child: Text('$v',
-                                  style: const TextStyle(fontSize: 15)),
-                            ))
-                        .toList(),
-                    onChanged: (v) {
-                      if (v != null) {
-                        setState(() => _rateMlH = v);
-                        if (_running) _restartTimer();
-                      }
-                    },
-                  ),
-                  const SizedBox(height: 12),
+                  // 成人 / 小児 セグメント (中央揃え)
                   SegmentedButton<_SetType>(
                     segments: const [
                       ButtonSegment(
                           value: _SetType.adult,
-                          label: Text('成人 (1ml 20滴)')),
+                          label: Text('成人  1ml 20滴')),
                       ButtonSegment(
                           value: _SetType.pediatric,
-                          label: Text('小児 (1ml 60滴)')),
+                          label: Text('小児  1ml 60滴')),
                     ],
                     selected: {_setType},
                     onSelectionChanged: (s) {
                       setState(() => _setType = s.first);
                       if (_running) _restartTimer();
                     },
+                  ),
+                  const SizedBox(width: 14),
+                  // 流量ドロップダウン (コンパクト)
+                  Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      const Text('流量',
+                          style: TextStyle(
+                              fontSize: 11, color: Colors.black54)),
+                      const SizedBox(height: 3),
+                      Container(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 10, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFFF0F0F0),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: DropdownButton<int>(
+                          value: _rateMlH,
+                          isDense: true,
+                          underline: const SizedBox.shrink(),
+                          style: const TextStyle(
+                              fontSize: 15, color: Colors.black87),
+                          icon: const Icon(Icons.expand_more,
+                              size: 18, color: Colors.black45),
+                          items: _rateOptions
+                              .map((v) => DropdownMenuItem(
+                                    value: v,
+                                    child: Text('$v mL/h'),
+                                  ))
+                              .toList(),
+                          onChanged: (v) {
+                            if (v != null) {
+                              setState(() => _rateMlH = v);
+                              if (_running) _restartTimer();
+                            }
+                          },
+                        ),
+                      ),
+                    ],
                   ),
                 ],
               ),
