@@ -218,15 +218,15 @@ class _PediatricScreenState extends State<PediatricScreen> {
         children: [
           _secTitle('患者情報', scheme),
           const SizedBox(height: 12),
-          _ageField(),
-          const SizedBox(height: 8),
           Row(children: [
-            Expanded(child: _ddField<int>(
+            Expanded(flex: 3, child: _ageField()),
+            const SizedBox(width: 8),
+            Expanded(flex: 2, child: _ddField<int>(
               label: '身長', suffix: 'cm', value: _height, items: _heightOpts,
               onChanged: (v) => setState(() => _height = v),
             )),
             const SizedBox(width: 8),
-            Expanded(child: _ddField<int>(
+            Expanded(flex: 2, child: _ddField<int>(
               label: '体重', suffix: 'kg', value: _weight, items: _weightOpts,
               onChanged: (v) => setState(() => _weight = v),
             )),
@@ -238,13 +238,14 @@ class _PediatricScreenState extends State<PediatricScreen> {
 
   // ── 年齢テキスト入力フィールド ────────────────────────────────────────────
   Widget _ageField() {
+    // 解析結果を suffix に表示
     final String parsed;
     if (_ageYears == 0 && _ageMonths > 0) {
       parsed = '$_ageMonths ヶ月';
     } else if (_ageMonths == 0) {
       parsed = '$_ageYears 歳';
     } else {
-      parsed = '$_ageYears 歳  $_ageMonths ヶ月';
+      parsed = '$_ageYears 歳 $_ageMonths ヶ月';
     }
     return TextField(
       controller: _ageCtrl,
@@ -254,11 +255,10 @@ class _PediatricScreenState extends State<PediatricScreen> {
         LengthLimitingTextInputFormatter(5),
       ],
       decoration: InputDecoration(
-        labelText: '年齢  (yy/mm)',
-        hintText: '例: 6/3',
-        helperText: parsed,
-        helperStyle: const TextStyle(fontSize: 11, color: Colors.black54),
-        suffixText: 'y / m',
+        labelText: '年齢 (yy/mm)',
+        hintText: '6/3',
+        suffixText: parsed,
+        suffixStyle: const TextStyle(fontSize: 11, color: Colors.black45),
         isDense: true,
         filled: true,
         fillColor: const Color(0xFFF7F9FA),
