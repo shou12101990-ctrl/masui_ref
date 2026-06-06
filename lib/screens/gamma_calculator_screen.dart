@@ -449,7 +449,7 @@ class _ResultCard extends StatelessWidget {
             ),
             const SizedBox(height: 12),
             for (var i = 0; i < rows.length; i++) ...[
-              if (i > 0) const Divider(height: 16),
+              if (i > 0) const SizedBox(height: 5),
               _ResultRow(
                 label: rows[i].$1,
                 value: rows[i].$2,
@@ -476,20 +476,20 @@ class _ResultRow extends StatelessWidget {
       textBaseline: TextBaseline.alphabetic,
       children: [
         SizedBox(
-          width: 56,
+          width: 50,
           child: Text(label,
-              style: const TextStyle(fontSize: 12, color: Colors.black45)),
+              style: const TextStyle(fontSize: 11, color: Colors.black45)),
         ),
         Expanded(
           child: Text(value,
               textAlign: TextAlign.right,
-              style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
         ),
-        const SizedBox(width: 8),
+        const SizedBox(width: 6),
         SizedBox(
-          width: 88,
-          child:
-              Text(unit, style: const TextStyle(fontSize: 12, color: Colors.black45)),
+          width: 80,
+          child: Text(unit,
+              style: const TextStyle(fontSize: 11, color: Colors.black45)),
         ),
       ],
     );
