@@ -20,7 +20,8 @@ enum _SedDrug {
 
 enum _AnalDrug {
   fentanyl('フェンタニル'),
-  remifentanil('レミフェンタニル');
+  remifentanil('レミフェンタニル'),
+  fentaRemi('フェンタ＋レミフェ');
 
   final String label;
   const _AnalDrug(this.label);
@@ -72,9 +73,9 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
                 _DoseLine('高用量', wt * 1.5, 'mg', '1.5 mg/kg'),
               ], '高齢者用量. 緩徐静注. リドカイン前投与で疼痛軽減.')
             : _DoseInfo([
-                _DoseLine('低用量', wt * 1.5, 'mg', '1.5 mg/kg'),
-                _DoseLine('高用量', wt * 2.5, 'mg', '2.5 mg/kg'),
-              ], '緩徐静注. リドカイン前投与で疼痛軽減.');
+                _DoseLine('低用量', wt * 1.0, 'mg', '1.0 mg/kg'),
+                _DoseLine('高用量', wt * 2.0, 'mg', '2.0 mg/kg'),
+              ], '導入 1–2 mg/kg. 緩徐静注. リドカイン前投与で疼痛軽減.');
       case _SedDrug.remimazolam:
         return _DoseInfo([
           _DoseLine('投与速度', wt * 6.0, 'mg/h', '6 mg/kg/h'),
@@ -106,6 +107,14 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
           _DoseLine('低用量', wt * 0.25, 'μg/min', '0.25 μg/kg/min'),
           _DoseLine('高用量', wt * 0.5,  'μg/min', '0.5 μg/kg/min'),
         ], '持続静注. 挿管後 0.05-0.2 μg/kg/min に減量.');
+      case _AnalDrug.fentaRemi:
+        return _DoseInfo([
+          _DoseLine('F 低', wt * 1.0,  'μg',     '1 μg/kg'),
+          _DoseLine('F 高', wt * 2.0,  'μg',     '2 μg/kg'),
+          _DoseLine('R 低', wt * 0.1,  'μg/min', '0.1 μg/kg/min'),
+          _DoseLine('R 高', wt * 0.25, 'μg/min', '0.25 μg/kg/min'),
+        ], 'F=フェンタニル(導入前ボーラス) / R=レミフェンタニル(持続静注). '
+           '併用時は各々を単独より減量. 挿管後Rは0.05-0.2 μg/kg/minへ.');
     }
   }
 
@@ -490,6 +499,49 @@ class _VentCard extends StatelessWidget {
               ],
             ),
             const SizedBox(height: 12),
+
+            // ⚠️ 絶対禁忌アラート
+            Container(
+              width: double.infinity,
+              padding:
+                  const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+              decoration: BoxDecoration(
+                color: Colors.red.shade50,
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.red.shade300, width: 1),
+              ),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Icon(Icons.warning_amber_rounded,
+                      size: 20, color: Colors.red.shade700),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text.rich(
+                      TextSpan(children: [
+                        TextSpan(
+                          text: '「VC 500 mL・RR 10」の一律設定は絶対禁忌',
+                          style: TextStyle(
+                              fontWeight: FontWeight.bold,
+                              color: Colors.red.shade700,
+                              fontSize: 13,
+                              height: 1.4),
+                        ),
+                        TextSpan(
+                          text: '\n一回換気量は必ずPBW(理想体重)基準で個別に設定すること。',
+                          style: TextStyle(
+                              color: Colors.red.shade700,
+                              fontSize: 12,
+                              height: 1.4),
+                        ),
+                      ]),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 12),
+
             for (var i = 0; i < rows.length; i++) ...[
               if (i > 0) const Divider(height: 14),
               Row(

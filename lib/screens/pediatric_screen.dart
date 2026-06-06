@@ -70,6 +70,9 @@ class _PediatricScreenState extends State<PediatricScreen> {
   _RocConc  _rocConc  = _RocConc.original;
   _FentConc _fentConc = _FentConc.original;
 
+  // 呼吸器設定
+  int _rr = 20; // 呼吸回数 (20/25/30, 5回刻み)
+
   @override
   void initState() {
     super.initState();
@@ -118,8 +121,8 @@ class _PediatricScreenState extends State<PediatricScreen> {
 
   // 鎮静薬 (バルビツール固定2.5% = 25mg/mL, プロポ固定10mg/mL)
   double get _sedConcMgMl => _sed == _SedDrug.propofol ? 10.0 : 25.0;
-  double get _sedMinPKg   => _sed == _SedDrug.propofol ? 2.5 : 3.0;
-  double get _sedMaxPKg   => _sed == _SedDrug.propofol ? 3.5 : 5.0;
+  double get _sedMinPKg   => _sed == _SedDrug.propofol ? 2.0 : 3.0;
+  double get _sedMaxPKg   => _sed == _SedDrug.propofol ? 2.0 : 5.0;
   double get _sedMinMg    => _wt * _sedMinPKg;
   double get _sedMaxMg    => _wt * _sedMaxPKg;
   double get _sedMinMl    => _sedMinMg / _sedConcMgMl;
@@ -191,6 +194,8 @@ class _PediatricScreenState extends State<PediatricScreen> {
           _patientCard(scheme),
           const SizedBox(height: 12),
           _tubeCard(scheme),
+          const SizedBox(height: 12),
+          _ventCard(scheme),
           const SizedBox(height: 12),
           _sedCard(scheme),
           const SizedBox(height: 12),
@@ -342,6 +347,79 @@ class _PediatricScreenState extends State<PediatricScreen> {
       ],
     );
   }
+
+  // ── 呼吸器設定 (PCV) ──────────────────────────────────────────────────────
+  Widget _ventCard(ColorScheme scheme) => Card(
+    child: Container(
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(14),
+        border: Border(left: BorderSide(color: scheme.primary, width: 4)),
+      ),
+      padding: const EdgeInsets.all(16),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(children: [
+            Icon(Icons.air, size: 18, color: scheme.primary),
+            const SizedBox(width: 6),
+            Text('呼吸器設定', style: TextStyle(
+                color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 15)),
+            const SizedBox(width: 8),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+              decoration: BoxDecoration(
+                color: scheme.primary.withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(4),
+              ),
+              child: Text('PCV', style: TextStyle(
+                  fontSize: 10, color: scheme.primary, fontWeight: FontWeight.bold)),
+            ),
+          ]),
+          const SizedBox(height: 12),
+          _ventRow('PEEP', '5', 'cmH₂O', null),
+          const Divider(height: 16),
+          _ventRow('ΔP (駆動圧)', '10', 'cmH₂O', 'Pmax 15'),
+          const Divider(height: 16),
+          // 呼吸回数 (ドロップダウン)
+          Row(children: [
+            const SizedBox(width: 96,
+                child: Text('呼吸回数',
+                    style: TextStyle(fontSize: 13, color: Colors.black54))),
+            _inlineDd<int>(
+              value: _rr, items: const [20, 25, 30],
+              itemLabel: (v) => '$v',
+              onChanged: (v) => setState(() => _rr = v),
+            ),
+            const SizedBox(width: 8),
+            const Text('回/min',
+                style: TextStyle(fontSize: 13, color: Colors.black54)),
+          ]),
+        ],
+      ),
+    ),
+  );
+
+  Widget _ventRow(String label, String value, String unit, String? sub) => Row(
+    crossAxisAlignment: CrossAxisAlignment.baseline,
+    textBaseline: TextBaseline.alphabetic,
+    children: [
+      SizedBox(width: 96,
+          child: Text(label,
+              style: const TextStyle(fontSize: 13, color: Colors.black54))),
+      Text(value,
+          style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+      const SizedBox(width: 4),
+      Text(unit, style: const TextStyle(fontSize: 12, color: Colors.black54)),
+      if (sub != null) ...[
+        const Spacer(),
+        Text(sub,
+            style: const TextStyle(
+                fontSize: 12,
+                color: Colors.black45,
+                fontWeight: FontWeight.w600)),
+      ],
+    ],
+  );
 
   // ── 鎮静薬 (選択のみ) ─────────────────────────────────────────────────────
   Widget _sedCard(ColorScheme scheme) {
