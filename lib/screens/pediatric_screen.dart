@@ -228,100 +228,84 @@ class _PediatricScreenState extends State<PediatricScreen> {
 
   // ── ① 入力カード ──────────────────────────────────────────────────────────
   Widget _inputCard(ColorScheme scheme) {
-    final sedColor = DrugCategory.sedative.color;
-    final rocColor = DrugCategory.muscleRelaxant.color;
-    final fentColor = DrugCategory.analgesic.color;
-
     return Card(
       child: Padding(
         padding: const EdgeInsets.all(14),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // 患者情報
-            _secTitle('患者情報', scheme),
-            const SizedBox(height: 8),
-            Row(children: [
-              Expanded(flex: 3, child: _ageField()),
-              const SizedBox(width: 8),
-              Expanded(
-                  flex: 2,
-                  child: _ddField<int>(
-                    label: '身長',
-                    suffix: 'cm',
-                    value: _height,
-                    items: _heightOpts,
-                    onChanged: (v) => setState(() => _height = v),
-                  )),
-              const SizedBox(width: 8),
-              Expanded(
-                  flex: 2,
-                  child: _ddField<int>(
-                    label: '体重',
-                    suffix: 'kg',
-                    value: _weight,
-                    items: _weightOpts,
-                    onChanged: (v) => setState(() => _weight = v),
-                  )),
-            ]),
-
-            const SizedBox(height: 14),
-            const Divider(height: 1),
-            const SizedBox(height: 12),
-
-            // 使用薬剤
-            Row(children: [
-              CategoryMark(color: sedColor, size: 13),
-              const SizedBox(width: 6),
-              const Text('鎮静薬',
-                  style: TextStyle(
-                      fontWeight: FontWeight.bold, fontSize: 13)),
-              const SizedBox(width: 10),
-              Expanded(
-                child: _chips<_SedDrug>(
-                  values: _SedDrug.values,
-                  selected: _sed,
-                  color: sedColor,
-                  label: (d) => d.label,
-                  onTap: (d) => setState(() => _sed = d),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                // 左: 患者情報 (縦並び)
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      _secTitle('患者情報', scheme),
+                      const SizedBox(height: 8),
+                      _ageField(),
+                      const SizedBox(height: 8),
+                      _ddField<int>(
+                        label: '身長',
+                        suffix: 'cm',
+                        value: _height,
+                        items: _heightOpts,
+                        onChanged: (v) => setState(() => _height = v),
+                      ),
+                      const SizedBox(height: 8),
+                      _ddField<int>(
+                        label: '体重',
+                        suffix: 'kg',
+                        value: _weight,
+                        items: _weightOpts,
+                        onChanged: (v) => setState(() => _weight = v),
+                      ),
+                    ],
+                  ),
                 ),
-              ),
-            ]),
-            const SizedBox(height: 8),
+                const SizedBox(width: 14),
+                // 右: 薬剤設定 (縦並び)
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      _secTitle('薬剤', scheme),
+                      const SizedBox(height: 8),
+                      _ddField<_SedDrug>(
+                        label: '鎮静薬',
+                        suffix: '',
+                        value: _sed,
+                        items: _SedDrug.values,
+                        itemLabel: (d) => d.label,
+                        onChanged: (v) => setState(() => _sed = v),
+                      ),
+                      const SizedBox(height: 8),
+                      _ddField<_RocConc>(
+                        label: 'ロクロニウム',
+                        suffix: '',
+                        value: _rocConc,
+                        items: _RocConc.values,
+                        itemLabel: (c) => c.shortLabel,
+                        onChanged: (v) => setState(() => _rocConc = v),
+                      ),
+                      const SizedBox(height: 8),
+                      _ddField<_FentConc>(
+                        label: 'フェンタニル',
+                        suffix: '',
+                        value: _fentConc,
+                        items: _FentConc.values,
+                        itemLabel: (c) => c.shortLabel,
+                        onChanged: (v) => setState(() => _fentConc = v),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            // 警告 (薬剤選択に応じて切り替え)
+            const SizedBox(height: 10),
             if (_sed != _SedDrug.propofol) _barbAlert() else _propoWarning(),
-
-            const SizedBox(height: 14),
-            const Divider(height: 1),
-            const SizedBox(height: 12),
-
-            // 希釈設定
-            Row(children: [
-              CategoryMark(color: rocColor, size: 13),
-              const SizedBox(width: 5),
-              const Text('ロク',
-                  style: TextStyle(
-                      fontSize: 13, fontWeight: FontWeight.w600)),
-              const SizedBox(width: 6),
-              _inlineDd<_RocConc>(
-                value: _rocConc,
-                items: _RocConc.values,
-                itemLabel: (c) => c.shortLabel,
-                onChanged: (v) => setState(() => _rocConc = v),
-              ),
-              const SizedBox(width: 16),
-              CategoryMark(color: fentColor, size: 13),
-              const SizedBox(width: 5),
-              const Text('フェント',
-                  style: TextStyle(
-                      fontSize: 13, fontWeight: FontWeight.w600)),
-              const SizedBox(width: 6),
-              _inlineDd<_FentConc>(
-                value: _fentConc,
-                items: _FentConc.values,
-                itemLabel: (c) => c.shortLabel,
-                onChanged: (v) => setState(() => _fentConc = v),
-              ),
-            ]),
           ],
         ),
       ),
@@ -654,7 +638,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
               SizedBox(width: 6),
               Expanded(
                   child: Text(
-                '投与後は必ず押水（生食フラッシュ）を行うこと.\nルート内残留・血管外漏出に注意.',
+                'チアラミール・チオペンタールはロクロニウムと結晶化するため押水フラッシュ必須.\nルート内残留・血管外漏出に注意.',
                 style: TextStyle(
                     fontSize: 11, color: Colors.red, height: 1.4),
               )),
@@ -768,13 +752,14 @@ class _PediatricScreenState extends State<PediatricScreen> {
     required T value,
     required List<T> items,
     required ValueChanged<T> onChanged,
+    String Function(T)? itemLabel,
   }) {
     return DropdownButtonFormField<T>(
       value: value,
       isExpanded: true,
       decoration: InputDecoration(
         labelText: label,
-        suffixText: suffix,
+        suffixText: suffix.isEmpty ? null : suffix,
         isDense: true,
         filled: true,
         fillColor: const Color(0xFFF7F9FA),
@@ -788,8 +773,10 @@ class _PediatricScreenState extends State<PediatricScreen> {
       items: items
           .map((v) => DropdownMenuItem<T>(
                 value: v,
-                child:
-                    Text('$v', style: const TextStyle(fontSize: 14)),
+                child: Text(
+                  itemLabel != null ? itemLabel(v) : '$v',
+                  style: const TextStyle(fontSize: 13),
+                ),
               ))
           .toList(),
       onChanged: (v) {
