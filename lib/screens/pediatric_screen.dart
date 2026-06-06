@@ -198,14 +198,29 @@ class _PediatricScreenState extends State<PediatricScreen> {
           // ① 入力 (患者情報 + 使用薬剤 + 希釈)
           _inputCard(scheme),
           const SizedBox(height: 12),
-          // ② 結果サマリー
-          _tubeCard(scheme),
+          // ② 気管チューブ(左) + 呼吸器設定(右)
+          IntrinsicHeight(
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Expanded(child: _tubeCard(scheme)),
+                const SizedBox(width: 10),
+                Expanded(child: _ventCard(scheme)),
+              ],
+            ),
+          ),
           const SizedBox(height: 10),
-          _ventCard(scheme),
-          const SizedBox(height: 10),
-          _dosageCard(scheme),
-          const SizedBox(height: 10),
-          _recordCard(scheme),
+          // ③ 麻酔薬投与量(左) + 記録用(右)
+          IntrinsicHeight(
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Expanded(child: _dosageCard(scheme)),
+                const SizedBox(width: 10),
+                Expanded(child: _recordCard(scheme)),
+              ],
+            ),
+          ),
         ],
       ),
     );
