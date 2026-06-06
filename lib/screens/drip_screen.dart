@@ -1,9 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 /// 点滴流速計算機 + 点滴速度メトロノーム（点滅）
-/// 基準: 成人セット 20 drops/mL → 1 drop/sec = 60 drops/min = 180 mL/h
 class DripScreen extends StatefulWidget {
   const DripScreen({super.key});
 
@@ -11,10 +9,13 @@ class DripScreen extends StatefulWidget {
   State<DripScreen> createState() => _DripScreenState();
 }
 
+// 流速選択肢: 10〜180 mL/h (10刻み)
+final _rateOptions = List.generate(18, (i) => (i + 1) * 10);
+
 enum _SetType { adult, pediatric }
 
 class _DripScreenState extends State<DripScreen> {
-  final _rateCtl = TextEditingController(text: '180');
+  int _rateMlH = 60;          // 流速 (ドロップダウン)
   _SetType _setType = _SetType.adult;
 
   Timer? _timer;
@@ -22,43 +23,25 @@ class _DripScreenState extends State<DripScreen> {
   bool _running = false;
 
   @override
-  void initState() {
-    super.initState();
-    _rateCtl.addListener(() {
-      setState(() {});
-      if (_running) _restartTimer();
-    });
-  }
-
-  @override
   void dispose() {
     _timer?.cancel();
-    _rateCtl.dispose();
     super.dispose();
   }
 
   int get _dropsPerMl => _setType == _SetType.adult ? 20 : 60;
 
-  double? get _rate => double.tryParse(_rateCtl.text);
+  double get _rate => _rateMlH.toDouble();
 
   /// drops/min
-  double? get _dropsPerMin {
-    final r = _rate;
-    if (r == null || r <= 0) return null;
-    return r / 60 * _dropsPerMl;
-  }
+  double get _dropsPerMin => _rate / 60 * _dropsPerMl;
 
   /// 1滴の間隔 (ms)
-  int? get _intervalMs {
-    final dpm = _dropsPerMin;
-    if (dpm == null || dpm <= 0) return null;
-    return (60000 / dpm).round();
-  }
+  int get _intervalMs => (60000 / _dropsPerMin).round();
 
   void _restartTimer() {
     _timer?.cancel();
     final ms = _intervalMs;
-    if (ms == null || ms < 100) return;
+    if (ms < 100) return;
     _timer = Timer.periodic(Duration(milliseconds: ms), (_) {
       setState(() => _lit = !_lit);
     });
@@ -82,7 +65,7 @@ class _DripScreenState extends State<DripScreen> {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
     final dpm = _dropsPerMin;
-    final ms = _intervalMs;
+    final ms  = _intervalMs;
 
     return Scaffold(
       backgroundColor: theme.scaffoldBackgroundColor,
@@ -95,7 +78,7 @@ class _DripScreenState extends State<DripScreen> {
       body: ListView(
         padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
         children: [
-          // 入力
+          // ── 設定 ─────────────────────────────────────────────────────
           Card(
             child: Padding(
               padding: const EdgeInsets.all(16),
@@ -104,7 +87,37 @@ class _DripScreenState extends State<DripScreen> {
                 children: [
                   _sectionTitle('設定', scheme),
                   const SizedBox(height: 12),
-                  _numField(_rateCtl, '流量', 'mL/h'),
+                  // 流速 ドロップダウン
+                  DropdownButtonFormField<int>(
+                    value: _rateMlH,
+                    isExpanded: true,
+                    decoration: InputDecoration(
+                      labelText: '流量',
+                      suffixText: 'mL/h',
+                      isDense: true,
+                      filled: true,
+                      fillColor: const Color(0xFFF7F9FA),
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(10),
+                        borderSide: BorderSide.none,
+                      ),
+                      contentPadding: const EdgeInsets.symmetric(
+                          horizontal: 12, vertical: 14),
+                    ),
+                    items: _rateOptions
+                        .map((v) => DropdownMenuItem(
+                              value: v,
+                              child: Text('$v',
+                                  style: const TextStyle(fontSize: 15)),
+                            ))
+                        .toList(),
+                    onChanged: (v) {
+                      if (v != null) {
+                        setState(() => _rateMlH = v);
+                        if (_running) _restartTimer();
+                      }
+                    },
+                  ),
                   const SizedBox(height: 12),
                   SegmentedButton<_SetType>(
                     segments: const [
@@ -127,7 +140,7 @@ class _DripScreenState extends State<DripScreen> {
           ),
           const SizedBox(height: 12),
 
-          // 計算結果
+          // ── 計算結果 ──────────────────────────────────────────────────
           Card(
             child: Container(
               decoration: BoxDecoration(
@@ -149,27 +162,17 @@ class _DripScreenState extends State<DripScreen> {
                             fontSize: 15)),
                   ]),
                   const SizedBox(height: 14),
-                  if (dpm == null)
-                    const Text('流量を入力してください',
-                        style: TextStyle(color: Colors.black45))
-                  else ...[
-                    _resultRow('滴下速度', '${dpm.toStringAsFixed(1)} 滴/分'),
-                    const Divider(height: 16),
-                    _resultRow('1滴の間隔',
-                        ms != null ? '${(ms / 1000).toStringAsFixed(2)} 秒/滴' : '—'),
-                    const Divider(height: 16),
-                    _resultRow('基準との比較',
-                        _rate != null
-                            ? '180 mL/h = 1 秒/滴 の ${(_rate! / 180).toStringAsFixed(2)} 倍速'
-                            : '—'),
-                  ],
+                  _resultRow('滴下速度', '${dpm.toStringAsFixed(1)} 滴/分'),
+                  const Divider(height: 16),
+                  _resultRow('1滴の間隔',
+                      '${(ms / 1000).toStringAsFixed(2)} 秒/滴'),
                 ],
               ),
             ),
           ),
           const SizedBox(height: 16),
 
-          // メトロノーム
+          // ── メトロノーム ──────────────────────────────────────────────
           Card(
             child: Padding(
               padding: const EdgeInsets.all(16),
@@ -178,7 +181,7 @@ class _DripScreenState extends State<DripScreen> {
                   _sectionTitle('点滴メトロノーム', scheme),
                   const SizedBox(height: 4),
                   Text('ランプに合わせて滴下速度を調節してください',
-                      style: TextStyle(
+                      style: const TextStyle(
                           fontSize: 12, color: Colors.black54)),
                   const SizedBox(height: 20),
 
@@ -212,16 +215,14 @@ class _DripScreenState extends State<DripScreen> {
                   ),
                   const SizedBox(height: 20),
 
-                  // 速度表示
-                  if (dpm != null)
-                    Text(
-                      '${dpm.toStringAsFixed(1)} 滴/分'
-                      '  ·  ${ms != null ? (ms / 1000).toStringAsFixed(2) : "—"} 秒/滴',
-                      style: TextStyle(
-                          fontSize: 14,
-                          color: scheme.primary,
-                          fontWeight: FontWeight.bold),
-                    ),
+                  Text(
+                    '${dpm.toStringAsFixed(1)} 滴/分'
+                    '  ·  ${(ms / 1000).toStringAsFixed(2)} 秒/滴',
+                    style: TextStyle(
+                        fontSize: 14,
+                        color: scheme.primary,
+                        fontWeight: FontWeight.bold),
+                  ),
                   const SizedBox(height: 16),
 
                   ElevatedButton.icon(
@@ -231,17 +232,15 @@ class _DripScreenState extends State<DripScreen> {
                       foregroundColor: Colors.white,
                       minimumSize: const Size(160, 44),
                     ),
-                    onPressed: dpm != null && (ms == null || ms >= 100)
-                        ? _toggleMetronome
-                        : null,
+                    onPressed: ms >= 100 ? _toggleMetronome : null,
                     icon: Icon(_running ? Icons.stop : Icons.play_arrow),
                     label: Text(_running ? '停止' : '開始'),
                   ),
-                  if (ms != null && ms < 100) ...[
+                  if (ms < 100) ...[
                     const SizedBox(height: 8),
                     const Text('流量が速すぎてメトロノームを表示できません',
-                        style: TextStyle(
-                            fontSize: 12, color: Colors.red)),
+                        style:
+                            TextStyle(fontSize: 12, color: Colors.red)),
                   ],
                 ],
               ),
@@ -347,25 +346,4 @@ class _DripScreenState extends State<DripScreen> {
           color: scheme.primary,
           fontWeight: FontWeight.bold,
           fontSize: 14));
-
-  Widget _numField(TextEditingController c, String label, String suffix) {
-    return TextField(
-      controller: c,
-      keyboardType: const TextInputType.numberWithOptions(decimal: true),
-      inputFormatters: [
-        FilteringTextInputFormatter.allow(RegExp(r'[0-9.]')),
-      ],
-      decoration: InputDecoration(
-        labelText: label,
-        suffixText: suffix,
-        isDense: true,
-        filled: true,
-        fillColor: const Color(0xFFF7F9FA),
-        border: OutlineInputBorder(
-          borderRadius: BorderRadius.circular(10),
-          borderSide: BorderSide.none,
-        ),
-      ),
-    );
-  }
 }

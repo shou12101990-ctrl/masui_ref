@@ -253,6 +253,10 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
             chips: [(label: 'ロクロニウム', selected: true, onTap: () {})],
             doseInfo: _relaxInfo,
           ),
+          const SizedBox(height: 12),
+
+          // ── 人工呼吸器 初期設定 ────────────────────────────────────────
+          _VentCard(pbw: _ibw, scheme: scheme),
         ],
       ),
     );
@@ -449,6 +453,68 @@ class _DoseRow extends StatelessWidget {
                   const TextStyle(fontSize: 11, color: Colors.black38)),
         ),
       ],
+    );
+  }
+}
+
+// ── 人工呼吸器初期設定カード ──────────────────────────────────────────────
+class _VentCard extends StatelessWidget {
+  final double pbw;
+  final ColorScheme scheme;
+  const _VentCard({required this.pbw, required this.scheme});
+
+  @override
+  Widget build(BuildContext context) {
+    final tv = pbw * 7;
+    final rows = <(String, String, String)>[
+      ('一回換気量', '${tv.toStringAsFixed(0)} mL', 'PBW × 7 mL/kg'),
+      ('呼吸回数', '14 /min', ''),
+      ('PEEP', '5 cmH₂O', ''),
+      ('I:E 比', '1 : 2', ''),
+    ];
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Icon(Icons.air, size: 16, color: scheme.primary),
+                const SizedBox(width: 6),
+                Text('人工呼吸器 初期設定',
+                    style: TextStyle(
+                        color: scheme.primary,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 14)),
+              ],
+            ),
+            const SizedBox(height: 12),
+            for (var i = 0; i < rows.length; i++) ...[
+              if (i > 0) const Divider(height: 14),
+              Row(
+                children: [
+                  SizedBox(
+                    width: 110,
+                    child: Text(rows[i].$1,
+                        style: const TextStyle(
+                            fontSize: 13, fontWeight: FontWeight.w500)),
+                  ),
+                  Expanded(
+                    child: Text(rows[i].$2,
+                        style: const TextStyle(
+                            fontSize: 16, fontWeight: FontWeight.bold)),
+                  ),
+                  if (rows[i].$3.isNotEmpty)
+                    Text(rows[i].$3,
+                        style: const TextStyle(
+                            fontSize: 11, color: Colors.black38)),
+                ],
+              ),
+            ],
+          ],
+        ),
+      ),
     );
   }
 }
