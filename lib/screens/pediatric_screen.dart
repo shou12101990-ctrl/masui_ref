@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import '../models/drug.dart';
 import '../widgets/category_mark.dart';
 
 // ── 選択肢 ────────────────────────────────────────────────────────────────
-final _ageYearOpts  = List.generate(13, (i) => i);           // 0–12歳
-const _ageMonthOpts = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
-final _heightOpts   = List.generate(23, (i) => 30 + i * 5); // 30–140cm
-final _weightOpts   = List.generate(60, (i) => i + 1);       // 1–60kg
+final _heightOpts = List.generate(23, (i) => 30 + i * 5); // 30–140cm
+final _weightOpts = List.generate(60, (i) => i + 1);       // 1–60kg
 
 // ── 薬剤 enum ─────────────────────────────────────────────────────────────
 enum _SedDrug {
@@ -71,11 +70,41 @@ class _PediatricScreenState extends State<PediatricScreen> {
   int _height    = 115;
   int _weight    = 20;
 
+  // 年齢テキスト入力 (yy/mm 形式)
+  final _ageCtrl = TextEditingController(text: '6');
+
   // 薬剤設定
   _SedDrug   _sed      = _SedDrug.thiamylal;
   _BarbConc  _barbConc = _BarbConc.pct25;
   _RocConc   _rocConc  = _RocConc.original;
   _FentConc  _fentConc = _FentConc.original;
+
+  @override
+  void initState() {
+    super.initState();
+    _ageCtrl.addListener(_parseAge);
+  }
+
+  @override
+  void dispose() {
+    _ageCtrl.dispose();
+    super.dispose();
+  }
+
+  /// "yy/mm" または "yy" の入力を解析して _ageYears / _ageMonths を更新
+  void _parseAge() {
+    final parts = _ageCtrl.text.split('/');
+    final years  = (int.tryParse(parts[0].trim()) ?? 0).clamp(0, 12);
+    final months = parts.length >= 2
+        ? (int.tryParse(parts[1].trim()) ?? 0).clamp(0, 11)
+        : 0;
+    if (_ageYears != years || _ageMonths != months) {
+      setState(() {
+        _ageYears  = years;
+        _ageMonths = months;
+      });
+    }
+  }
 
   // ── Computed ────────────────────────────────────────────────────────────
   double get _ageYrs => _ageYears + _ageMonths / 12.0;
@@ -184,17 +213,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
         children: [
           _secTitle('患者情報', scheme),
           const SizedBox(height: 12),
-          Row(children: [
-            Expanded(child: _ddField<int>(
-              label: '年齢', suffix: '歳', value: _ageYears, items: _ageYearOpts,
-              onChanged: (v) => setState(() => _ageYears = v),
-            )),
-            const SizedBox(width: 8),
-            Expanded(child: _ddField<int>(
-              label: '月齢', suffix: 'ヶ月', value: _ageMonths, items: _ageMonthOpts,
-              onChanged: (v) => setState(() => _ageMonths = v),
-            )),
-          ]),
+          _ageField(),
           const SizedBox(height: 8),
           Row(children: [
             Expanded(child: _ddField<int>(
@@ -211,6 +230,44 @@ class _PediatricScreenState extends State<PediatricScreen> {
       ),
     ),
   );
+
+  // ── 年齢テキスト入力フィールド ────────────────────────────────────────────
+  Widget _ageField() {
+    // ヘルパーテキスト: 解析結果を表示
+    final String parsed;
+    if (_ageYears == 0 && _ageMonths > 0) {
+      parsed = '$_ageMonths ヶ月';
+    } else if (_ageMonths == 0) {
+      parsed = '$_ageYears 歳';
+    } else {
+      parsed = '$_ageYears 歳  $_ageMonths ヶ月';
+    }
+
+    return TextField(
+      controller: _ageCtrl,
+      keyboardType: TextInputType.text,
+      inputFormatters: [
+        FilteringTextInputFormatter.allow(RegExp(r'[0-9/]')),
+        LengthLimitingTextInputFormatter(5), // "12/11" max
+      ],
+      decoration: InputDecoration(
+        labelText: '年齢  (yy/mm)',
+        hintText: '例: 6/3',
+        helperText: parsed,
+        helperStyle: const TextStyle(fontSize: 11, color: Colors.black54),
+        suffixText: 'y / m',
+        isDense: true,
+        filled: true,
+        fillColor: const Color(0xFFF7F9FA),
+        border: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(10),
+          borderSide: BorderSide.none,
+        ),
+        contentPadding:
+            const EdgeInsets.symmetric(horizontal: 10, vertical: 12),
+      ),
+    );
+  }
 
   // ── 気管チューブ ──────────────────────────────────────────────────────────
   Widget _tubeCard(ColorScheme scheme) => Card(
