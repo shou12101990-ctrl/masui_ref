@@ -73,14 +73,15 @@ enum DrugCategory {
   final String label;
   const DrugCategory(this.label);
 
+  /// ISO 26825:2020 麻酔薬ラベル国際標準色 (Pantone → hex 変換)
   Color get color => switch (this) {
-        DrugCategory.sedative => const Color(0xFFFFC000),        // B18 accent4 黄
-        DrugCategory.inhalational => const Color(0xFFFFF6CC),    // B18より淡い黄
-        DrugCategory.muscleRelaxant => const Color(0xFFFF5661),  // B30 赤
-        DrugCategory.analgesic => const Color(0xFF5B9BD5),       // B37 青
-        DrugCategory.vasopressor => const Color(0xFFD5B0FF),     // B57 紫
-        DrugCategory.vasodilator => const Color(0xFFD5B0FF),     // B57 +斜線
-        DrugCategory.localAnesthetic => const Color(0xFF9E9E9E), // 灰
-        DrugCategory.anticoagulant => const Color(0xFFED2341),   // B99 赤
+        DrugCategory.sedative => const Color(0xFFFFD700),        // PMS 109   : 鎮静/誘導薬 標準黄
+        DrugCategory.inhalational => const Color(0xFFFFF0A8),    // PMS 109系 : 吸入麻酔薬 (UI区別のため淡黄)
+        DrugCategory.muscleRelaxant => const Color(0xFFEF3340),  // PMS Red032: 筋弛緩薬 標準赤
+        DrugCategory.analgesic => const Color(0xFF7EC8E3),       // PMS 297   : 鎮痛薬/麻薬 ライトブルー
+        DrugCategory.vasopressor => const Color(0xFF8B5CF6),     // PMS 267   : 昇圧薬 バイオレット
+        DrugCategory.vasodilator => const Color(0xFF8B5CF6),     // PMS 267   : 降圧薬 (+ 斜線)
+        DrugCategory.localAnesthetic => const Color(0xFF97999B), // Cool Gray7 : 局所麻酔薬 標準灰
+        DrugCategory.anticoagulant => const Color(0xFFF5A623),   // ISO外区分  : 凝固系 橙 (赤系との混同回避)
       };
 }
