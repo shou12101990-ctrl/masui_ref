@@ -140,107 +140,140 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                 style: theme.textTheme.bodySmall?.copyWith(color: Colors.black54)),
             const SizedBox(height: 16),
 
-            // ── 薬液設定 ────────────────────────────────────────────────
-            _SectionCard(
-              title: '薬液設定',
-              scheme: scheme,
-              child: Column(
-                children: [
-                  Row(
-                    crossAxisAlignment: CrossAxisAlignment.end,
-                    children: [
-                      Expanded(child: _numField(_drugMg, '薬剤量', 'mg')),
-                      const Padding(
-                        padding: EdgeInsets.fromLTRB(8, 0, 8, 10),
-                        child: Text('/', style: TextStyle(fontSize: 20, color: Colors.black38)),
-                      ),
-                      Expanded(child: _numField(_totalMl, '希釈後総液量', 'ml')),
-                    ],
-                  ),
-                  const SizedBox(height: 10),
-                  _ConcBadge(conc: conc, scheme: scheme),
-                ],
-              ),
-            ),
-            const SizedBox(height: 12),
-
-            // ── 体重 ────────────────────────────────────────────────────
-            _SectionCard(
-              title: '体重',
-              scheme: scheme,
-              child: DropdownButtonFormField<int>(
-                value: _weightKg,
-                isExpanded: true,
-                decoration: InputDecoration(
-                  suffixText: 'kg',
-                  isDense: true,
-                  filled: true,
-                  fillColor: const Color(0xFFF7F9FA),
-                  border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(10),
-                    borderSide: BorderSide.none,
-                  ),
-                  contentPadding:
-                      const EdgeInsets.symmetric(horizontal: 12, vertical: 14),
-                ),
-                items: _weightOptions
-                    .map((w) => DropdownMenuItem(
-                          value: w,
-                          child: Text('$w',
-                              style: const TextStyle(fontSize: 15)),
-                        ))
-                    .toList(),
-                onChanged: (w) {
-                  if (w != null) setState(() => _weightKg = w);
-                },
-              ),
-            ),
-            const SizedBox(height: 12),
-
-            // ── 投与量入力 + 単位選択 ────────────────────────────────────
-            _SectionCard(
-              title: '投与量',
-              scheme: scheme,
-              child: Row(
-                crossAxisAlignment: CrossAxisAlignment.end,
-                children: [
-                  // 数値
-                  Expanded(
-                    flex: 5,
-                    child: _numField(_value, '入力値', ''),
-                  ),
-                  const SizedBox(width: 10),
-                  // 単位ドロップダウン
-                  Expanded(
-                    flex: 6,
-                    child: DropdownButtonFormField<_Unit>(
-                      value: _inputUnit,
-                      isExpanded: true,
-                      decoration: InputDecoration(
-                        labelText: '単位',
-                        isDense: true,
-                        filled: true,
-                        fillColor: const Color(0xFFF7F9FA),
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(10),
-                          borderSide: BorderSide.none,
+            // ── 体重 / 薬剤希釈 / 流速 (1行) ────────────────────────────
+            Card(
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(14, 12, 14, 14),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.end,
+                      children: [
+                        // ─ 体重 ─
+                        Expanded(
+                          flex: 16,
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              _groupLabel('体重', scheme),
+                              const SizedBox(height: 4),
+                              DropdownButtonFormField<int>(
+                                value: _weightKg,
+                                isExpanded: true,
+                                decoration: InputDecoration(
+                                  suffixText: 'kg',
+                                  isDense: true,
+                                  filled: true,
+                                  fillColor: const Color(0xFFF7F9FA),
+                                  border: OutlineInputBorder(
+                                    borderRadius: BorderRadius.circular(10),
+                                    borderSide: BorderSide.none,
+                                  ),
+                                  contentPadding: const EdgeInsets.symmetric(
+                                      horizontal: 10, vertical: 12),
+                                ),
+                                items: _weightOptions
+                                    .map((w) => DropdownMenuItem(
+                                          value: w,
+                                          child: Text('$w',
+                                              style: const TextStyle(fontSize: 14)),
+                                        ))
+                                    .toList(),
+                                onChanged: (w) {
+                                  if (w != null) setState(() => _weightKg = w);
+                                },
+                              ),
+                            ],
+                          ),
                         ),
-                        contentPadding:
-                            const EdgeInsets.symmetric(horizontal: 12, vertical: 14),
-                      ),
-                      items: _Unit.values
-                          .map((u) => DropdownMenuItem(
-                                value: u,
-                                child: Text(u.dropdownLabel,
-                                    style: const TextStyle(fontSize: 13)),
-                              ))
-                          .toList(),
-                      onChanged: (u) {
-                        if (u != null) setState(() => _inputUnit = u);
-                      },
+                        const SizedBox(width: 8),
+                        // ─ 薬剤希釈 ─
+                        Expanded(
+                          flex: 24,
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              _groupLabel('薬剤希釈', scheme),
+                              const SizedBox(height: 4),
+                              Row(
+                                crossAxisAlignment: CrossAxisAlignment.end,
+                                children: [
+                                  Expanded(child: _compactNumField(_drugMg, 'mg')),
+                                  const Padding(
+                                    padding: EdgeInsets.fromLTRB(4, 0, 4, 10),
+                                    child: Text('/',
+                                        style: TextStyle(
+                                            fontSize: 18, color: Colors.black38)),
+                                  ),
+                                  Expanded(child: _compactNumField(_totalMl, 'ml')),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        // ─ 流速 ─
+                        Expanded(
+                          flex: 30,
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              _groupLabel('流速', scheme),
+                              const SizedBox(height: 4),
+                              Row(
+                                crossAxisAlignment: CrossAxisAlignment.end,
+                                children: [
+                                  Expanded(
+                                    flex: 3,
+                                    child: _compactNumField(_value, ''),
+                                  ),
+                                  const SizedBox(width: 6),
+                                  Expanded(
+                                    flex: 5,
+                                    child: DropdownButtonFormField<_Unit>(
+                                      value: _inputUnit,
+                                      isExpanded: true,
+                                      decoration: InputDecoration(
+                                        isDense: true,
+                                        filled: true,
+                                        fillColor: const Color(0xFFF7F9FA),
+                                        border: OutlineInputBorder(
+                                          borderRadius: BorderRadius.circular(10),
+                                          borderSide: BorderSide.none,
+                                        ),
+                                        contentPadding:
+                                            const EdgeInsets.symmetric(
+                                                horizontal: 10, vertical: 12),
+                                      ),
+                                      items: _Unit.values
+                                          .map((u) => DropdownMenuItem(
+                                                value: u,
+                                                child: Text(u.dropdownLabel,
+                                                    style: const TextStyle(
+                                                        fontSize: 12)),
+                                              ))
+                                          .toList(),
+                                      onChanged: (u) {
+                                        if (u != null)
+                                          setState(() => _inputUnit = u);
+                                      },
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
                     ),
-                  ),
-                ],
+                    const SizedBox(height: 10),
+                    _ConcBadge(conc: conc, scheme: scheme),
+                  ],
+                ),
               ),
             ),
             const SizedBox(height: 16),
@@ -269,6 +302,36 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
           borderSide: BorderSide.none,
         ),
       ),
+    );
+  }
+
+  Widget _compactNumField(TextEditingController c, String suffix) {
+    return TextField(
+      controller: c,
+      keyboardType: const TextInputType.numberWithOptions(decimal: true),
+      inputFormatters: [FilteringTextInputFormatter.allow(RegExp(r'[0-9.]'))],
+      style: const TextStyle(fontSize: 14),
+      decoration: InputDecoration(
+        suffixText: suffix.isEmpty ? null : suffix,
+        suffixStyle: const TextStyle(fontSize: 12),
+        isDense: true,
+        filled: true,
+        fillColor: const Color(0xFFF7F9FA),
+        contentPadding:
+            const EdgeInsets.symmetric(horizontal: 10, vertical: 12),
+        border: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(10),
+          borderSide: BorderSide.none,
+        ),
+      ),
+    );
+  }
+
+  Widget _groupLabel(String text, ColorScheme scheme) {
+    return Text(
+      text,
+      style: TextStyle(
+          color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 12),
     );
   }
 }
