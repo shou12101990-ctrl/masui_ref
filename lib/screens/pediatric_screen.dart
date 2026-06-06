@@ -3,9 +3,9 @@ import '../models/drug.dart';
 import '../widgets/category_mark.dart';
 
 // ── 選択肢 ────────────────────────────────────────────────────────────────
-final _ageYearOpts  = List.generate(16, (i) => i);           // 0–15歳
+final _ageYearOpts  = List.generate(13, (i) => i);           // 0–12歳
 const _ageMonthOpts = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
-final _heightOpts   = List.generate(33, (i) => 30 + i * 5); // 30–190cm
+final _heightOpts   = List.generate(23, (i) => 30 + i * 5); // 30–140cm
 final _weightOpts   = List.generate(60, (i) => i + 1);       // 1–60kg
 
 // ── 薬剤 enum ─────────────────────────────────────────────────────────────
@@ -73,7 +73,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
   double get _ageYrs => _ageYears + _ageMonths / 12.0;
   double get _wt     => _weight.toDouble();
 
-  // チューブ
+  // 気管チューブ
   double get _tubeCuffless {
     if (_ageYrs < 0.5) return 3.0;
     if (_ageYrs < 1.0) return 3.5;
@@ -84,10 +84,8 @@ class _PediatricScreenState extends State<PediatricScreen> {
     if (_ageYrs < 1.0) return 3.0;
     return _ageYrs / 4 + 3.5;
   }
-  double get _fixLen {
-    if (_ageYrs < 1.0) return 10.5 + _ageMonths * 0.125;
-    return _ageYrs / 2 + 12.0;
-  }
+  // 固定長: 身長/11 + 5.5 cm
+  double get _fixLen => _height / 11.0 + 5.5;
 
   // 鎮静薬
   double get _sedConcMgMl => _sed == _SedDrug.propofol ? 10.0 : _barbConc.mgPerMl;
@@ -98,13 +96,38 @@ class _PediatricScreenState extends State<PediatricScreen> {
   double get _sedMinMl    => _sedMinMg / _sedConcMgMl;
   double get _sedMaxMl    => _sedMaxMg / _sedConcMgMl;
 
+  /// 整数 mL で投与幅に収まる候補リスト
+  List<int> get _sedIntMls {
+    final lo = _sedMinMl.ceil();
+    final hi = _sedMaxMl.floor();
+    if (lo > hi) return [];
+    return List.generate(hi - lo + 1, (i) => lo + i);
+  }
+
   // ロクロニウム (1 mg/kg 固定)
   double get _rocMg => _wt * 1.0;
   double get _rocMl => _rocMg / _rocConc.mgPerMl;
 
-  // フェンタニル (1 μg/kg 固定)
-  double get _fentMcg => _wt * 1.0;
-  double get _fentMl  => _fentMcg / _fentConc.mcgPerMl;
+  // フェンタニル (1–2 μg/kg 範囲)
+  double get _fentMinMcg => _wt * 1.0;
+  double get _fentMaxMcg => _wt * 2.0;
+  double get _fentMinMl  => _fentMinMcg / _fentConc.mcgPerMl;
+  double get _fentMaxMl  => _fentMaxMcg / _fentConc.mcgPerMl;
+  /// mL 刻み: 希釈(10μg/mL)→0.5, 原液(50μg/mL)→0.1
+  double get _fentStep   => _fentConc == _FentConc.diluted ? 0.5 : 0.1;
+
+  /// 投与幅に収まる最初のステップ mL (浮動小数点ノイズ対策済み)
+  double? get _fentSuggestMl {
+    final step = _fentStep;
+    final minMl = _fentMinMl;
+    final maxMl = _fentMaxMl;
+    // 小数点ノイズを避けるため微小値を加えてから ceil
+    final n = ((minMl / step) + 1e-9).ceil();
+    // step 倍した値を2桁で丸め
+    final first = double.parse((n * step).toStringAsFixed(2));
+    if (first > maxMl + 1e-9) return null;
+    return first;
+  }
 
   // アトロピン (≤10kg のみ, mg 表記のみ)
   bool   get _showAtrop => _weight <= 10;
@@ -181,7 +204,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     ),
   );
 
-  // ── 挿管チューブ ──────────────────────────────────────────────────────────
+  // ── 気管チューブ ──────────────────────────────────────────────────────────
   Widget _tubeCard(ColorScheme scheme) => Card(
     child: Container(
       decoration: BoxDecoration(
@@ -195,7 +218,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
           Row(children: [
             Icon(Icons.airline_seat_recline_extra, size: 18, color: scheme.primary),
             const SizedBox(width: 6),
-            Text('挿管チューブ', style: TextStyle(
+            Text('気管チューブ', style: TextStyle(
                 color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 15)),
           ]),
           if (_ageYrs < 1.0) ...[
@@ -207,7 +230,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
           const Divider(height: 14),
           _tubeRow('カフあり ID', '${_tubeCuffed.toStringAsFixed(1)} mm', 'age/4 + 3.5'),
           const Divider(height: 14),
-          _tubeRow('固定長 (口角)', '${_fixLen.toStringAsFixed(1)} cm', 'age/2 + 12'),
+          _tubeRow('固定長 (口角)', '${_fixLen.toStringAsFixed(1)} cm', '身長/11 + 5.5'),
           const Divider(height: 14),
           _tubeRow('固定長 (鼻腔)', '${(_fixLen + 2.5).toStringAsFixed(1)} cm', '口角 + 2.5'),
         ],
@@ -280,16 +303,59 @@ class _PediatricScreenState extends State<PediatricScreen> {
             const SizedBox(height: 12),
             const Divider(height: 1),
             const SizedBox(height: 12),
-            _mlMgRow(label: '低用量',
-              basis: '${_sedMinPKg.toStringAsFixed(1)} mg/kg',
-              mlValue: _sedMinMl, mgValue: _sedMinMg, mgUnit: 'mg'),
-            const SizedBox(height: 10),
-            _mlMgRow(label: '高用量',
-              basis: '${_sedMaxPKg.toStringAsFixed(1)} mg/kg',
-              mlValue: _sedMaxMl, mgValue: _sedMaxMg, mgUnit: 'mg'),
+            _sedSuggestSection(color),
           ],
         ),
       ),
+    );
+  }
+
+  /// 鎮静薬: 整数 mL 推奨投与量 + 投与幅
+  Widget _sedSuggestSection(Color color) {
+    final intMls = _sedIntMls;
+    final conc   = _sedConcMgMl;
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        const Text('推奨投与量  (mL が整数になるよう調整)',
+            style: TextStyle(fontSize: 11, color: Colors.black45)),
+        const SizedBox(height: 8),
+
+        // 推奨 chip(s)
+        if (intMls.isEmpty)
+          Text(
+            '整数 mL なし — ${_fmtRange(_sedMinMl)}〜${_fmtRange(_sedMaxMl)} mL で調整',
+            style: const TextStyle(fontSize: 13, color: Colors.black54),
+          )
+        else if (intMls.length > 4)
+          _doseChip(
+            mlText: '${intMls.first}〜${intMls.last} mL',
+            subText: '(${(intMls.first * conc).round()}–${(intMls.last * conc).round()} mg)',
+            color: color,
+          )
+        else
+          Wrap(
+            spacing: 8, runSpacing: 6,
+            children: intMls.map((ml) {
+              final mg = (ml * conc).round();
+              return _doseChip(
+                mlText: '$ml mL',
+                subText: '($mg mg)',
+                color: color,
+              );
+            }).toList(),
+          ),
+
+        const SizedBox(height: 8),
+        // 投与幅ノート
+        Text(
+          '投与幅: ${_sedMinPKg.toStringAsFixed(1)}–${_sedMaxPKg.toStringAsFixed(1)} mg/kg'
+          '  →  ${_fmtMg(_sedMinMg)}–${_fmtMg(_sedMaxMg)} mg'
+          '  /  ${_fmtRange(_sedMinMl)}–${_fmtRange(_sedMaxMl)} mL',
+          style: const TextStyle(fontSize: 11, color: Colors.black38),
+        ),
+      ],
     );
   }
 
@@ -370,11 +436,46 @@ class _PediatricScreenState extends State<PediatricScreen> {
             const SizedBox(height: 12),
             const Divider(height: 1),
             const SizedBox(height: 12),
-            _mlMgRow(label: '投与量', basis: '1 μg/kg',
-              mlValue: _fentMl, mgValue: _fentMcg, mgUnit: 'μg'),
+            _fentSuggestSection(color),
           ],
         ),
       ),
+    );
+  }
+
+  /// フェンタニル: ステップ推奨投与量 + 投与幅
+  Widget _fentSuggestSection(Color color) {
+    final suggestMl = _fentSuggestMl;
+    final step      = _fentStep;
+    final stepStr   = step == 0.5 ? '0.5 mL' : '0.1 mL';
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text('推奨投与量  ($stepStr 刻み)',
+            style: const TextStyle(fontSize: 11, color: Colors.black45)),
+        const SizedBox(height: 8),
+
+        if (suggestMl != null)
+          _doseChip(
+            mlText: '${_fmtMl(suggestMl)} mL',
+            subText: '(${_fmtMg(suggestMl * _fentConc.mcgPerMl)} μg)',
+            color: color,
+          )
+        else
+          Text(
+            '$stepStr 刻みなし — ${_fmtRange(_fentMinMl)}〜${_fmtRange(_fentMaxMl)} mL で調整',
+            style: const TextStyle(fontSize: 13, color: Colors.black54),
+          ),
+
+        const SizedBox(height: 8),
+        Text(
+          '投与幅: 1–2 μg/kg'
+          '  →  ${_fmtMg(_fentMinMcg)}–${_fmtMg(_fentMaxMcg)} μg'
+          '  /  ${_fmtRange(_fentMinMl)}–${_fmtRange(_fentMaxMl)} mL',
+          style: const TextStyle(fontSize: 11, color: Colors.black38),
+        ),
+      ],
     );
   }
 
@@ -438,6 +539,34 @@ class _PediatricScreenState extends State<PediatricScreen> {
   );
 
   // ── 共通 Widgets ──────────────────────────────────────────────────────────
+
+  /// 推奨投与量チップ
+  Widget _doseChip({
+    required String mlText,
+    required String subText,
+    required Color color,
+  }) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+      decoration: BoxDecoration(
+        color: color.withValues(alpha: 0.10),
+        borderRadius: BorderRadius.circular(10),
+        border: Border.all(color: color.withValues(alpha: 0.40)),
+      ),
+      child: RichText(
+        text: TextSpan(
+          style: DefaultTextStyle.of(context).style,
+          children: [
+            TextSpan(text: mlText,
+                style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+            const TextSpan(text: '  '),
+            TextSpan(text: subText,
+                style: const TextStyle(fontSize: 12, color: Colors.black54)),
+          ],
+        ),
+      ),
+    );
+  }
 
   /// mL (大) + mg/μg (小) の2段表示行
   Widget _mlMgRow({
@@ -634,11 +763,22 @@ class _PediatricScreenState extends State<PediatricScreen> {
 }
 
 // ── 数値フォーマット ──────────────────────────────────────────────────────
+
+/// 投与量表示用 (チップ・行内)
 String _fmtMl(double v) {
-  if (v < 0.05) return v.toStringAsFixed(2);
-  if (v < 1)    return v.toStringAsFixed(2);
-  if (v < 10)   return v.toStringAsFixed(1);
-  return v.toStringAsFixed(0);
+  if (v == 0) return '0';
+  if (v < 0.1) return v.toStringAsFixed(2); // 0.04 など
+  if (v < 10)  return v.toStringAsFixed(1); // 0.4, 1.5 など
+  return v.toStringAsFixed(0);              // 12 など
+}
+
+/// 範囲テキスト用 (小数点2桁, 末尾ゼロ省略)
+String _fmtRange(double v) {
+  var s = v.toStringAsFixed(2);
+  if (s.contains('.')) {
+    s = s.replaceAll(RegExp(r'0+$'), '').replaceAll(RegExp(r'\.$'), '');
+  }
+  return s;
 }
 
 String _fmtMg(double v) {
