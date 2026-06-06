@@ -1,7 +1,8 @@
 import 'dart:async';
+import 'dart:math' as math;
 import 'package:flutter/material.dart';
 
-/// 点滴流速計算機 + 点滴速度メトロノーム（点滅）
+/// 点滴メトロノーム
 class DripScreen extends StatefulWidget {
   const DripScreen({super.key});
 
@@ -9,50 +10,68 @@ class DripScreen extends StatefulWidget {
   State<DripScreen> createState() => _DripScreenState();
 }
 
-// 流速選択肢: 10〜180 mL/h (10刻み)
+// 流速選択肢: 10–180 mL/h (10刻み)
 final _rateOptions = List.generate(18, (i) => (i + 1) * 10);
 
 enum _SetType { adult, pediatric }
 
 class _DripScreenState extends State<DripScreen> {
-  int _rateMlH = 60;          // 流速 (ドロップダウン)
+  int _rateMlH = 60;
   _SetType _setType = _SetType.adult;
 
   Timer? _timer;
+  Timer? _arcTimer;
   bool _lit = false;
   bool _running = false;
+  DateTime? _lastTickTime;
 
   @override
   void dispose() {
     _timer?.cancel();
+    _arcTimer?.cancel();
     super.dispose();
   }
 
   int get _dropsPerMl => _setType == _SetType.adult ? 20 : 60;
-
-  double get _rate => _rateMlH.toDouble();
-
-  /// drops/min
-  double get _dropsPerMin => _rate / 60 * _dropsPerMl;
-
-  /// 1滴の間隔 (ms)
+  double get _dropsPerMin => _rateMlH / 60.0 * _dropsPerMl;
   int get _intervalMs => (60000 / _dropsPerMin).round();
+
+  /// 次のフラッシュまでの進捗 0.0–1.0
+  double get _arcProgress {
+    if (!_running || _lastTickTime == null) return 0.0;
+    final ms = _intervalMs;
+    if (ms <= 0) return 0.0;
+    final elapsed =
+        DateTime.now().difference(_lastTickTime!).inMilliseconds;
+    return (elapsed / ms).clamp(0.0, 1.0);
+  }
 
   void _restartTimer() {
     _timer?.cancel();
+    _arcTimer?.cancel();
     final ms = _intervalMs;
     if (ms < 100) return;
+    _lastTickTime = DateTime.now();
+    setState(() => _lit = true);
+    // 主タイマー: 1滴ごとに点滅
     _timer = Timer.periodic(Duration(milliseconds: ms), (_) {
+      _lastTickTime = DateTime.now();
       setState(() => _lit = !_lit);
+    });
+    // 弧アニメーション用タイマー (~30 fps)
+    _arcTimer = Timer.periodic(const Duration(milliseconds: 33), (_) {
+      if (mounted) setState(() {});
     });
   }
 
   void _toggleMetronome() {
     if (_running) {
       _timer?.cancel();
+      _arcTimer?.cancel();
       setState(() {
         _running = false;
         _lit = false;
+        _lastTickTime = null;
       });
     } else {
       setState(() => _running = true);
@@ -64,13 +83,11 @@ class _DripScreenState extends State<DripScreen> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
-    final dpm = _dropsPerMin;
-    final ms  = _intervalMs;
 
     return Scaffold(
       backgroundColor: theme.scaffoldBackgroundColor,
       appBar: AppBar(
-        title: const Text('点滴流速 / メトロノーム'),
+        title: const Text('点滴メトロノーム'),
         backgroundColor: scheme.primary,
         foregroundColor: Colors.white,
         elevation: 0,
@@ -78,7 +95,7 @@ class _DripScreenState extends State<DripScreen> {
       body: ListView(
         padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
         children: [
-          // ── 設定 ─────────────────────────────────────────────────────
+          // ── 設定 ────────────────────────────────────────────────────────
           Card(
             child: Padding(
               padding: const EdgeInsets.all(16),
@@ -87,7 +104,6 @@ class _DripScreenState extends State<DripScreen> {
                 children: [
                   _sectionTitle('設定', scheme),
                   const SizedBox(height: 12),
-                  // 流速 ドロップダウン
                   DropdownButtonFormField<int>(
                     value: _rateMlH,
                     isExpanded: true,
@@ -123,10 +139,10 @@ class _DripScreenState extends State<DripScreen> {
                     segments: const [
                       ButtonSegment(
                           value: _SetType.adult,
-                          label: Text('成人セット (20滴/mL)')),
+                          label: Text('成人 (1ml 20滴)')),
                       ButtonSegment(
                           value: _SetType.pediatric,
-                          label: Text('小児セット (60滴/mL)')),
+                          label: Text('小児 (1ml 60滴)')),
                     ],
                     selected: {_setType},
                     onSelectionChanged: (s) {
@@ -138,41 +154,9 @@ class _DripScreenState extends State<DripScreen> {
               ),
             ),
           ),
-          const SizedBox(height: 12),
-
-          // ── 計算結果 ──────────────────────────────────────────────────
-          Card(
-            child: Container(
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(14),
-                border:
-                    Border(left: BorderSide(color: scheme.primary, width: 4)),
-              ),
-              padding: const EdgeInsets.all(16),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Row(children: [
-                    Icon(Icons.opacity, size: 18, color: scheme.primary),
-                    const SizedBox(width: 6),
-                    Text('計算結果',
-                        style: TextStyle(
-                            color: scheme.primary,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 15)),
-                  ]),
-                  const SizedBox(height: 14),
-                  _resultRow('滴下速度', '${dpm.toStringAsFixed(1)} 滴/分'),
-                  const Divider(height: 16),
-                  _resultRow('1滴の間隔',
-                      '${(ms / 1000).toStringAsFixed(2)} 秒/滴'),
-                ],
-              ),
-            ),
-          ),
           const SizedBox(height: 16),
 
-          // ── メトロノーム ──────────────────────────────────────────────
+          // ── メトロノーム ────────────────────────────────────────────────
           Card(
             child: Padding(
               padding: const EdgeInsets.all(16),
@@ -183,161 +167,82 @@ class _DripScreenState extends State<DripScreen> {
                   Text('ランプに合わせて滴下速度を調節してください',
                       style: const TextStyle(
                           fontSize: 12, color: Colors.black54)),
-                  const SizedBox(height: 20),
+                  const SizedBox(height: 24),
 
-                  // 点滅ランプ
-                  AnimatedContainer(
-                    duration: const Duration(milliseconds: 80),
-                    width: 120,
-                    height: 120,
-                    decoration: BoxDecoration(
-                      shape: BoxShape.circle,
-                      color: (_running && _lit)
-                          ? scheme.primary
-                          : scheme.primary.withValues(alpha: 0.12),
-                      boxShadow: (_running && _lit)
-                          ? [
-                              BoxShadow(
-                                color: scheme.primary.withValues(alpha: 0.5),
-                                blurRadius: 24,
-                                spreadRadius: 4,
-                              )
-                            ]
-                          : [],
-                    ),
-                    child: Icon(
-                      Icons.water_drop,
-                      size: 48,
-                      color: (_running && _lit)
-                          ? Colors.white
-                          : scheme.primary.withValues(alpha: 0.4),
-                    ),
+                  // 円弧 + 点滅ランプ
+                  Stack(
+                    alignment: Alignment.center,
+                    children: [
+                      // 進捗弧（次の点滅までのカウントダウン）
+                      SizedBox(
+                        width: 148,
+                        height: 148,
+                        child: CustomPaint(
+                          painter: _ArcPainter(
+                            progress: _running ? _arcProgress : 0.0,
+                            color: scheme.primary,
+                          ),
+                        ),
+                      ),
+                      // 点滅ランプ
+                      AnimatedContainer(
+                        duration: const Duration(milliseconds: 80),
+                        width: 110,
+                        height: 110,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: (_running && _lit)
+                              ? scheme.primary
+                              : scheme.primary.withValues(alpha: 0.12),
+                          boxShadow: (_running && _lit)
+                              ? [
+                                  BoxShadow(
+                                    color: scheme.primary
+                                        .withValues(alpha: 0.5),
+                                    blurRadius: 24,
+                                    spreadRadius: 4,
+                                  )
+                                ]
+                              : [],
+                        ),
+                        child: Icon(
+                          Icons.water_drop,
+                          size: 44,
+                          color: (_running && _lit)
+                              ? Colors.white
+                              : scheme.primary.withValues(alpha: 0.4),
+                        ),
+                      ),
+                    ],
                   ),
-                  const SizedBox(height: 20),
-
-                  Text(
-                    '${dpm.toStringAsFixed(1)} 滴/分'
-                    '  ·  ${(ms / 1000).toStringAsFixed(2)} 秒/滴',
-                    style: TextStyle(
-                        fontSize: 14,
-                        color: scheme.primary,
-                        fontWeight: FontWeight.bold),
-                  ),
-                  const SizedBox(height: 16),
+                  const SizedBox(height: 24),
 
                   ElevatedButton.icon(
                     style: ElevatedButton.styleFrom(
-                      backgroundColor:
-                          _running ? Colors.red.shade400 : scheme.primary,
+                      backgroundColor: _running
+                          ? Colors.red.shade400
+                          : scheme.primary,
                       foregroundColor: Colors.white,
                       minimumSize: const Size(160, 44),
                     ),
-                    onPressed: ms >= 100 ? _toggleMetronome : null,
+                    onPressed:
+                        _intervalMs >= 100 ? _toggleMetronome : null,
                     icon: Icon(_running ? Icons.stop : Icons.play_arrow),
                     label: Text(_running ? '停止' : '開始'),
                   ),
-                  if (ms < 100) ...[
+                  if (_intervalMs < 100) ...[
                     const SizedBox(height: 8),
-                    const Text('流量が速すぎてメトロノームを表示できません',
-                        style:
-                            TextStyle(fontSize: 12, color: Colors.red)),
+                    const Text(
+                      '流量が速すぎてメトロノームを表示できません',
+                      style: TextStyle(fontSize: 12, color: Colors.red),
+                    ),
                   ],
                 ],
               ),
             ),
           ),
-
-          const SizedBox(height: 12),
-          // 参考換算表
-          _refTable(scheme),
         ],
       ),
-    );
-  }
-
-  Widget _refTable(ColorScheme scheme) {
-    const rows = [
-      (30, '10 滴/分', '6 秒/滴'),
-      (60, '20 滴/分', '3 秒/滴'),
-      (90, '30 滴/分', '2 秒/滴'),
-      (120, '40 滴/分', '1.5 秒/滴'),
-      (180, '60 滴/分', '1 秒/滴'),
-      (240, '80 滴/分', '0.75 秒/滴'),
-      (300, '100 滴/分', '0.6 秒/滴'),
-    ];
-    return Card(
-      child: Padding(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            _sectionTitle('参考: 成人セット換算表', scheme),
-            const SizedBox(height: 10),
-            Table(
-              columnWidths: const {
-                0: FlexColumnWidth(1.2),
-                1: FlexColumnWidth(1.5),
-                2: FlexColumnWidth(1.5),
-              },
-              children: [
-                TableRow(
-                  decoration: BoxDecoration(
-                    color: scheme.primary.withValues(alpha: 0.07),
-                  ),
-                  children: [
-                    _th('流量 mL/h'),
-                    _th('滴/分'),
-                    _th('間隔'),
-                  ],
-                ),
-                for (final r in rows)
-                  TableRow(children: [
-                    _td('${r.$1}'),
-                    _td(r.$2),
-                    _td(r.$3,
-                        bold: r.$1 == 180),
-                  ]),
-              ],
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-
-  Widget _th(String text) => Padding(
-        padding: const EdgeInsets.symmetric(vertical: 5, horizontal: 2),
-        child: Text(text,
-            style: const TextStyle(
-                fontSize: 11,
-                fontWeight: FontWeight.bold,
-                color: Colors.black54)),
-      );
-
-  Widget _td(String text, {bool bold = false}) => Padding(
-        padding: const EdgeInsets.symmetric(vertical: 5, horizontal: 2),
-        child: Text(text,
-            style: TextStyle(
-                fontSize: 12,
-                fontWeight: bold ? FontWeight.bold : FontWeight.normal,
-                color: bold ? Colors.teal.shade700 : null)),
-      );
-
-  Widget _resultRow(String label, String value) {
-    return Row(
-      children: [
-        SizedBox(
-          width: 100,
-          child: Text(label,
-              style:
-                  const TextStyle(fontSize: 13, color: Colors.black54)),
-        ),
-        Expanded(
-          child: Text(value,
-              style: const TextStyle(
-                  fontSize: 16, fontWeight: FontWeight.bold)),
-        ),
-      ],
     );
   }
 
@@ -346,4 +251,49 @@ class _DripScreenState extends State<DripScreen> {
           color: scheme.primary,
           fontWeight: FontWeight.bold,
           fontSize: 14));
+}
+
+// ── 円弧 CustomPainter ────────────────────────────────────────────────────
+class _ArcPainter extends CustomPainter {
+  final double progress; // 0.0–1.0
+  final Color color;
+  const _ArcPainter({required this.progress, required this.color});
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final center = Offset(size.width / 2, size.height / 2);
+    final radius = size.width / 2 - 5;
+
+    // 背景リング
+    canvas.drawArc(
+      Rect.fromCircle(center: center, radius: radius),
+      -math.pi / 2,
+      math.pi * 2,
+      false,
+      Paint()
+        ..color = color.withValues(alpha: 0.15)
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = 7
+        ..strokeCap = StrokeCap.round,
+    );
+
+    // 進捗弧
+    if (progress > 0.01) {
+      canvas.drawArc(
+        Rect.fromCircle(center: center, radius: radius),
+        -math.pi / 2,
+        math.pi * 2 * progress,
+        false,
+        Paint()
+          ..color = color
+          ..style = PaintingStyle.stroke
+          ..strokeWidth = 7
+          ..strokeCap = StrokeCap.round,
+      );
+    }
+  }
+
+  @override
+  bool shouldRepaint(_ArcPainter old) =>
+      old.progress != progress || old.color != color;
 }
