@@ -31,6 +31,10 @@ enum _RocConc {
   final String label;
   final double mgPerMl;
   const _RocConc(this.label, this.mgPerMl);
+  String get shortLabel => switch (this) {
+    _RocConc.original => '原液 10mg/mL',
+    _RocConc.half     => '2倍希釈 5mg/mL',
+  };
 }
 
 enum _FentConc {
@@ -39,6 +43,10 @@ enum _FentConc {
   final String label;
   final double mcgPerMl;
   const _FentConc(this.label, this.mcgPerMl);
+  String get shortLabel => switch (this) {
+    _FentConc.original => '原液 50μg/mL',
+    _FentConc.diluted  => '希釈 10μg/mL',
+  };
 }
 
 enum _AtropConc {
@@ -389,15 +397,16 @@ class _PediatricScreenState extends State<PediatricScreen> {
             Row(children: [
               CategoryMark(color: color, size: 14),
               const SizedBox(width: 7),
-              const Text('筋弛緩薬  (ロクロニウム)',
-                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+              const Expanded(
+                child: Text('筋弛緩薬  (ロクロニウム)',
+                    style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+              ),
+              _inlineDd<_RocConc>(
+                value: _rocConc, items: _RocConc.values,
+                itemLabel: (c) => c.shortLabel,
+                onChanged: (v) => setState(() => _rocConc = v),
+              ),
             ]),
-            const SizedBox(height: 10),
-            _enumDd<_RocConc>(
-              label: '希釈濃度', value: _rocConc, items: _RocConc.values,
-              itemLabel: (c) => c.label,
-              onChanged: (v) => setState(() => _rocConc = v),
-            ),
             const SizedBox(height: 12),
             const Divider(height: 1),
             const SizedBox(height: 12),
@@ -424,15 +433,16 @@ class _PediatricScreenState extends State<PediatricScreen> {
             Row(children: [
               CategoryMark(color: color, size: 14),
               const SizedBox(width: 7),
-              const Text('鎮痛薬  (フェンタニル)',
-                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+              const Expanded(
+                child: Text('鎮痛薬  (フェンタニル)',
+                    style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+              ),
+              _inlineDd<_FentConc>(
+                value: _fentConc, items: _FentConc.values,
+                itemLabel: (c) => c.shortLabel,
+                onChanged: (v) => setState(() => _fentConc = v),
+              ),
             ]),
-            const SizedBox(height: 10),
-            _enumDd<_FentConc>(
-              label: '希釈濃度', value: _fentConc, items: _FentConc.values,
-              itemLabel: (c) => c.label,
-              onChanged: (v) => setState(() => _fentConc = v),
-            ),
             const SizedBox(height: 12),
             const Divider(height: 1),
             const SizedBox(height: 12),
@@ -539,6 +549,39 @@ class _PediatricScreenState extends State<PediatricScreen> {
   );
 
   // ── 共通 Widgets ──────────────────────────────────────────────────────────
+
+  /// カードタイトル横に置くコンパクトなインラインドロップダウン
+  Widget _inlineDd<T>({
+    required T value,
+    required List<T> items,
+    required String Function(T) itemLabel,
+    required ValueChanged<T> onChanged,
+  }) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+      decoration: BoxDecoration(
+        color: const Color(0xFFEEEEEE),
+        borderRadius: BorderRadius.circular(8),
+      ),
+      child: DropdownButton<T>(
+        value: value,
+        isDense: true,
+        underline: const SizedBox.shrink(),
+        style: const TextStyle(fontSize: 11, color: Colors.black54),
+        iconSize: 16,
+        icon: const Icon(Icons.expand_more, size: 16, color: Colors.black45),
+        items: items
+            .map((v) => DropdownMenuItem<T>(
+                  value: v,
+                  child: Text(itemLabel(v),
+                      style: const TextStyle(
+                          fontSize: 13, color: Colors.black87)),
+                ))
+            .toList(),
+        onChanged: (v) { if (v != null) onChanged(v); },
+      ),
+    );
+  }
 
   /// 推奨投与量チップ
   Widget _doseChip({

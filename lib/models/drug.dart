@@ -48,8 +48,8 @@ class Drug {
   /// 拮抗薬・中和薬・血管拡張薬 → ■マーカーに斜線を重ねる
   bool get isDiagonal =>
       category == DrugCategory.vasodilator ||
-      const {'フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド'}
-          .contains(name);
+      const ['フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド']
+          .any((s) => name.contains(s));
 }
 
 /// 解説の1セクション
@@ -75,7 +75,7 @@ enum DrugCategory {
 
   Color get color => switch (this) {
         DrugCategory.sedative => const Color(0xFFFFC000),        // B18 accent4 黄
-        DrugCategory.inhalational => const Color(0xFFFFE580),    // B18より淡い黄
+        DrugCategory.inhalational => const Color(0xFFFFF6CC),    // B18より淡い黄
         DrugCategory.muscleRelaxant => const Color(0xFFFF5661),  // B30 赤
         DrugCategory.analgesic => const Color(0xFF5B9BD5),       // B37 青
         DrugCategory.vasopressor => const Color(0xFFD5B0FF),     // B57 紫

@@ -126,14 +126,16 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
 
     return Scaffold(
       backgroundColor: theme.scaffoldBackgroundColor,
+      appBar: AppBar(
+        title: const Text('γ 計算機'),
+        backgroundColor: scheme.primary,
+        foregroundColor: Colors.white,
+        elevation: 0,
+      ),
       body: SafeArea(
         child: ListView(
           padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
           children: [
-            Text('γ計算機',
-                style:
-                    theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold)),
-            const SizedBox(height: 4),
             Text('単位を選んで相互変換 (γ = μg/kg/min)',
                 style: theme.textTheme.bodySmall?.copyWith(color: Colors.black54)),
             const SizedBox(height: 16),
