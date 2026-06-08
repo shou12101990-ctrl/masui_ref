@@ -67,7 +67,7 @@ String _fmtVal(double v) {
 }
 
 String _fmtPct(double c) =>
-    c.toStringAsFixed(2).replaceAll(RegExp(r'0+$'), '').replaceAll(RegExp(r'\.$'), '');
+    c.toStringAsFixed(3).replaceAll(RegExp(r'0+$'), '').replaceAll(RegExp(r'\.$'), '');
 
 String _mgkg(double v) =>
     v % 1 == 0 ? v.toStringAsFixed(0) : v.toStringAsFixed(1);
@@ -77,11 +77,15 @@ Widget _colTitle(String t) => Text(t,
     style: const TextStyle(
         fontSize: 13, fontWeight: FontWeight.bold, color: Color(0xFF6B7280)));
 
-Widget _times() => const Padding(
-      padding: EdgeInsets.only(top: 26, left: 3, right: 3),
-      child: Text('×',
-          style: TextStyle(
-              fontSize: 18, color: Colors.black38, fontWeight: FontWeight.bold)),
+Widget _times() => const Center(
+      child: Padding(
+        padding: EdgeInsets.symmetric(horizontal: 3),
+        child: Text('×',
+            style: TextStyle(
+                fontSize: 18,
+                color: Colors.black38,
+                fontWeight: FontWeight.bold)),
+      ),
     );
 
 // ─── 画面 ─────────────────────────────────────────────────────
@@ -162,8 +166,9 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
             Card(
               child: Padding(
                 padding: const EdgeInsets.all(14),
-                child: Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+                child: IntrinsicHeight(
+                  child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
                     // A: 製剤
                     Expanded(
@@ -187,8 +192,7 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                     ),
                     _times(),
                     // B: 濃度
-                    SizedBox(
-                      width: 76,
+                    Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
@@ -208,8 +212,7 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                     ),
                     _times(),
                     // C: エピ添加
-                    SizedBox(
-                      width: 54,
+                    Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
@@ -232,6 +235,7 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                       ),
                     ),
                   ],
+                  ),
                 ),
               ),
             ),

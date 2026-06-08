@@ -66,7 +66,7 @@ class CalculatorHubScreen extends StatelessWidget {
       _CalcItem(
         icon: Icons.straighten,
         title: 'DLT サイズ選択',
-        subtitle: '身長・性別 / CT実測 → 推奨 Fr',
+        subtitle: 'CT実測 / Brodsky',
         color: const Color(0xFF0E7490),
         page: const DltScreen(),
       ),
