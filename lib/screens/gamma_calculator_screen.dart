@@ -170,7 +170,6 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
 
   // ── タブ1: γ変換（既存機能）────────────────────────────────
   Widget _gammaTab(ThemeData theme, ColorScheme scheme) {
-    final conc = _concMgPerMl;
     return ListView(
           padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
           children: [
@@ -308,8 +307,6 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                         ),
                       ],
                     ),
-                    const SizedBox(height: 10),
-                    _ConcBadge(conc: conc, scheme: scheme),
                   ],
                 ),
               ),
@@ -631,32 +628,6 @@ class _SectionCard extends StatelessWidget {
             child,
           ],
         ),
-      ),
-    );
-  }
-}
-
-// ── 濃度バッジ ────────────────────────────────────────────────────────────
-class _ConcBadge extends StatelessWidget {
-  final double? conc;
-  final ColorScheme scheme;
-  const _ConcBadge({required this.conc, required this.scheme});
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: double.infinity,
-      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 9),
-      decoration: BoxDecoration(
-        color: scheme.primary.withValues(alpha: 0.08),
-        borderRadius: BorderRadius.circular(10),
-      ),
-      child: Text(
-        conc == null
-            ? '濃度：—'
-            : '濃度：${_fmt(conc!)} mg/ml（${_fmt(conc! * 1000)} μg/ml）',
-        style: TextStyle(
-            color: scheme.primary, fontWeight: FontWeight.w600, fontSize: 13),
       ),
     );
   }
