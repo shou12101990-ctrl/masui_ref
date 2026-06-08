@@ -485,7 +485,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
 
   Widget _flowValue(double? f) => SizedBox(
         width: 76,
-        child: Text(f == null ? '—' : _fmt(f),
+        child: Text(f == null ? '—' : '${f.round()}',
             textAlign: TextAlign.right,
             style:
                 const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
