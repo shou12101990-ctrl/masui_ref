@@ -85000,7 +85000,7 @@ case 2:s="F 50 \u03bcg/ml\u3000R 100 \u03bcg/ml"
 break
 default:s=null}return s},
 eZ(a){return a===(a<0?Math.ceil(a):Math.floor(a))?B.j.k(B.c.eV(a)):B.c.R(a,1)},
-E(a){var s,r,q,p,o=this,n=null,m=A.K(a),l=m.ax,k=l.b,j=A.j7(k,n,0,B.m,n,B.a4t),i=A.J("\u60a3\u8005\u60c5\u5831",n,n,n,n,A.aS(n,n,k,n,n,n,n,n,n,n,n,14,n,n,B.p,n,n,!0,n,n,n,n,n,n,n,n),n,n),h=o.vI(new A.ah5(),B.Qx,"\u6027\u5225",new A.ah6(o),"",o.x,t.py),g=o.d,f=t.S
+E(a){var s,r,q,p,o=this,n=null,m=A.K(a),l=m.ax,k=l.b,j=A.j7(k,n,0,B.m,n,B.a4u),i=A.J("\u60a3\u8005\u60c5\u5831",n,n,n,n,A.aS(n,n,k,n,n,n,n,n,n,n,n,14,n,n,B.p,n,n,!0,n,n,n,n,n,n,n,n),n,n),h=o.vI(new A.ah5(),B.Qx,"\u6027\u5225",new A.ah6(o),"",o.x,t.py),g=o.d,f=t.S
 g=o.C0($.aGg(),"\u5e74\u9f62",new A.ah7(o),"\u6b73",g,f)
 s=o.e
 s=o.C0($.aGn(),"\u8eab\u9577",new A.ah8(o),"cm",s,f)
@@ -85159,7 +85159,7 @@ j=A.J("\u5165\u529b",o,o,o,o,j==null?o:j.fZ(B.p),o,o)
 s=t.O9
 s=A.U(new A.V(B.q3,new A.ahg(p),s),s.h("ao.E"))
 r=t.p
-s=A.b([A.bv(new A.am(B.ag,A.az(A.b([j,B.G,new A.vD("\u4f53\u91cd (kg)",p.d,o),new A.vD("\u73fe\u5728\u306e Hb (g/dL)",p.e,o),new A.vD("\u8a31\u5bb9 Hb (g/dL)",p.f,o),B.B0,B.a4x,B.V,A.aC7(B.eD,s,8,8)],r),B.t,B.f,B.k),o),o,o,o,o,o),B.G],r)
+s=A.b([A.bv(new A.am(B.ag,A.az(A.b([j,B.G,new A.vD("\u4f53\u91cd (kg)",p.d,o),new A.vD("\u73fe\u5728\u306e Hb (g/dL)",p.e,o),new A.vD("\u8a31\u5bb9 Hb (g/dL)",p.f,o),B.B0,B.a4y,B.V,A.aC7(B.eD,s,8,8)],r),B.t,B.f,B.k),o),o,o,o,o,o),B.G],r)
 if(m!=null){m=B.hq.cJ(0.06)
 j=A.b([],r)
 if(p.gw5()!=null){q=p.gw5()
@@ -85273,7 +85273,7 @@ A.EF.prototype={
 E(a){var s=this,r=null,q=t.p
 return A.aW(A.b([A.bw(A.az(A.b([A.J(s.c,r,r,r,r,B.BB,r,r),A.J(s.e,r,r,r,r,A.aS(r,r,B.bZ,r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.t,B.f,B.k),1),A.J(B.c.R(s.d,0),r,r,r,r,A.aS(r,r,s.f,r,r,r,r,r,r,r,r,26,r,r,B.p,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.cV,B.a4i],q),B.aX,B.f,B.k,0,B.q)}}
 A.IF.prototype={
-E(a){var s=null,r=A.K(a),q=A.b([new A.hw(B.MZ,"\u6210\u4eba \u9ebb\u9154\u5c0e\u5165\u6642","\u5c0e\u5165\u85ac\u7528\u91cf + \u547c\u5438\u5668\u521d\u671f\u8a2d\u5b9a",B.TT,B.CB),new A.hw(B.N3,"\u03b3 \u8a08\u7b97\u6a5f","\u6d41\u91cf \u21c4 \u03b3 (mcg/kg/min)",B.jZ,B.ME),new A.hw(B.MV,"iv PCA \u8a2d\u8a08","\u30d5\u30a7\u30f3\u30bf\u30cb\u30eb / \u30c9\u30ed\u30da\u30ea\u30c9\u30fc\u30eb / \u751f\u7406\u7684\u98df\u5869\u6c34",B.lT,B.Vl),new A.hw(B.lq,"\u70b9\u6ef4 \u30e1\u30c8\u30ed\u30ce\u30fc\u30e0","\u70b9\u6ec5\u30ac\u30a4\u30c9\u306b\u3088\u308b\u6d41\u901f\u8a2d\u5b9a",B.TU,B.HL),new A.hw(B.MR,"\u5c0f\u5150 \u9ebb\u9154\u8a2d\u8a08","\u5c0e\u5165dose / \u30c1\u30e5\u30fc\u30d6\u30b5\u30a4\u30ba / \u56fa\u5b9a\u9577",B.Gq,B.Vm),new A.hw(B.lp,"\u5c40\u6240\u9ebb\u9154\u85ac \u6975\u91cf\u8a08\u7b97","\u30dc\u30bf\u30f3\u9078\u629e \u2192 \u6700\u5927\u6295\u4e0e\u91cf (mL)",B.cj,B.RX),new A.hw(B.N5,"DLT \u30b5\u30a4\u30ba\u9078\u629e","CT\u5b9f\u6e2c / Brodsky",B.GA,B.HI),new A.hw(B.Ne,"\u9178\u7d20\u8f03\u5dee\u8a08\u7b97\u6a5f","Hb\xb7SaO\u2082\xb7SvO\u2082 \u2192 \u8f03\u5dee \xb7 O\u2082ER",B.dg,B.Ve),new A.hw(B.MM,"\u8a31\u5bb9\u51fa\u8840\u91cf","Hb\xb7\u8a31\u5bb9Hb\xb7\u4f53\u91cd \u2192 \u8a31\u5bb9\u51fa\u8840\u91cf",B.hq,B.CG),new A.hw(B.N1,"\u30e1\u30a4\u30ed\u30f3 BE\u88dc\u6b63","BE\xb7\u4f53\u91cd \u2192 HCO\u2083\u207b\u4e0d\u8db3\u5206 / \u30e1\u30a4\u30ed\u30f3\u91cf",B.f7,B.CR)],t.DR),p=r.ok.r
+E(a){var s=null,r=A.K(a),q=A.b([new A.hw(B.MZ,"\u6210\u4eba \u9ebb\u9154\u5c0e\u5165\u6642","\u5c0e\u5165\u85ac\u7528\u91cf + \u547c\u5438\u5668\u521d\u671f\u8a2d\u5b9a",B.TT,B.CB),new A.hw(B.N3,"\u03b3 \u8a08\u7b97\u6a5f","\u6d41\u91cf \u21c4 \u03b3 (mcg/kg/min)",B.jZ,B.ME),new A.hw(B.MV,"ivPCA","\u8853\u5f8c\u93ae\u75db\u306e\u30c7\u30b6\u30a4\u30f3",B.lT,B.Vl),new A.hw(B.lq,"\u70b9\u6ef4 \u30e1\u30c8\u30ed\u30ce\u30fc\u30e0","\u8f38\u6db2\u7528\u30dd\u30f3\u30d7\u4e0d\u8981\u306e\u6642\u4ee3\u3078\u2500.",B.TU,B.HL),new A.hw(B.MR,"\u5c0f\u5150 \u9ebb\u9154\u8a2d\u8a08","\u5c0e\u5165dose / \u30c1\u30e5\u30fc\u30d6\u30b5\u30a4\u30ba / \u56fa\u5b9a\u9577",B.Gq,B.Vm),new A.hw(B.lp,"\u5c40\u6240\u9ebb\u9154\u85ac \u6975\u91cf\u8a08\u7b97","\u6fc3\u5ea6\u306b\u5fdc\u3058\u305f\u6700\u5927\u5bb9\u91cf\u8a08\u7b97.",B.cj,B.RX),new A.hw(B.N5,"DLT \u30b5\u30a4\u30ba\u9078\u629e","CT\u5b9f\u6e2c / Brodsky",B.GA,B.HI),new A.hw(B.Ne,"\u9178\u7d20\u8f03\u5dee\u8a08\u7b97\u6a5f","\u8f38\u8840\u30ab\u30c3\u30c8\u30aa\u30d5\u306e\u7b97\u51fa.",B.dg,B.Ve),new A.hw(B.MM,"\u8a31\u5bb9\u51fa\u8840\u91cf","A line\u306a\u3057\u3067Hb\u4f4e\u4e0b\u3092\u4e88\u60f3\u3059\u308b.",B.hq,B.CG),new A.hw(B.N1,"\u30e1\u30a4\u30ed\u30f3 BE\u88dc\u6b63","BE\xb7\u4f53\u91cd \u2192 HCO\u2083\u207b\u4e0d\u8db3\u5206 / \u30e1\u30a4\u30ed\u30f3\u91cf",B.f7,B.CR)],t.DR),p=r.ok.r
 return A.fN(s,r.fx,A.ho(!0,A.az(A.b([new A.am(B.p1,A.J("\u6a5f\u80fd",s,s,s,s,p==null?s:p.fZ(B.p),s,s),s),A.bw(A.aA8(new A.a_f(q),10,B.M1,new A.a_g()),1)],t.p),B.t,B.f,B.k),!1,B.Y,!0),s)}}
 A.a_g.prototype={
 $2(a,b){return B.aQ},
@@ -85515,7 +85515,7 @@ s=$.aGJ()
 r=A.W(s).h("V<1,jm>")
 s=A.U(new A.V(s,new A.ak3(k,h),r),r.h("ao.E"))
 r=t.p
-s=A.bv(new A.am(B.LZ,A.az(A.b([e,B.G,A.aC7(B.BZ,s,6,6),B.bs,B.a4w],r),B.v,B.f,B.k),j),j,j,j,j,j)
+s=A.bv(new A.am(B.LZ,A.az(A.b([e,B.G,A.aC7(B.BZ,s,6,6),B.bs,B.a4x],r),B.v,B.f,B.k),j),j,j,j,j,j)
 e=A.J("\u70b9\u6ef4\u30e1\u30c8\u30ed\u30ce\u30fc\u30e0",j,j,j,j,A.aS(j,j,g,j,j,j,j,j,j,j,j,14,j,j,B.p,j,j,!0,j,j,j,j,j,j,j,j),j,j)
 q=A.J("\u30e9\u30f3\u30d7\u306b\u5408\u308f\u305b\u3066\u6ef4\u4e0b\u901f\u5ea6\u3092\u8abf\u7bc0\u3057\u3066\u304f\u3060\u3055\u3044",j,j,j,j,B.aL,j,j)
 p=A.c9(A.hL(j,j,j,new A.PH(k.x?k.ga3R():0,g,j),B.F),148,148)
@@ -86182,7 +86182,7 @@ gjS(){return B.j.cu(B.c.i_(this.f*this.r*24/50)*50,50,500)},
 gPd(){return B.j.dS(B.j.bk(B.j.bk(B.c.am(this.gjS()*this.e/50),10),5),2)},
 gN5(){if(this.f<=0)return 0
 return B.c.eO(this.gjS()/this.f/24/0.5)*0.5},
-E(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d="\u30c9\u30ed\u30ec\u30d7\u30bf\u30f3",c=A.K(a2).ax,b=c.b,a=A.j7(b,B.Zz,0,B.m,e,B.a4B),a0=t.S,a1=f.MM(B.lw,"\u4f53\u91cd",new A.anS(f),"kg",f.d,a0)
+E(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d="\u30c9\u30ed\u30ec\u30d7\u30bf\u30f3",c=A.K(a2).ax,b=c.b,a=A.j7(b,B.Zz,0,B.m,e,B.a4t),a0=t.S,a1=f.MM(B.lw,"\u4f53\u91cd",new A.anS(f),"kg",f.d,a0)
 a0=f.MM(B.Qz,"\u6fc3\u5ea6",new A.anT(f),"\u03bcg/ml",f.e,a0)
 s=t.i
 r=f.CG(new A.anU(),B.RD,"\u6d41\u901f",new A.anV(f),"ml/h",f.f,s)
@@ -86192,7 +86192,7 @@ p=A.U(new A.V($.awN,new A.anW(),p),p.h("ao.E"))
 o=t.p
 n=t.y
 n=A.bv(new A.am(B.cq,A.aW(A.b([A.bw(A.az(A.b([a1,B.V,a0,B.V,r,B.V,f.CG(new A.anX(),p,"\u6295\u4e0e\u65e5\u6570",new A.anY(f),"",q,s)],o),B.t,B.f,B.k),1),B.fX,A.az(A.b([A.J(d,e,e,e,e,A.aS(e,e,b,e,e,e,e,e,e,e,e,12,e,e,B.p,e,e,!0,e,e,e,e,e,e,e,e),e,e),B.V,A.Nr(B.ar,new A.anZ(f),B.Qv,A.bR([f.w],n),!0,A.iq(e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.aX(B.ey,t.RP),B.jc),n)],o),B.v,B.f,B.b7)],o),B.t,B.f,B.k,0,e),e),e,e,e,e,e)
-s=A.bw(f.wZ(A.az(A.b([A.aW(A.b([A.J(B.c.R(f.f*f.e/f.d,2),e,e,e,e,B.a1x,e,e),B.B_,B.a4z],o),B.aX,B.f,B.k,0,B.q),B.bF,A.J("\u6301\u7d9a "+f.wc(f.f)+" ml/h",e,e,e,e,B.aL,e,e),A.J("\u4e88\u6e2c\u671f\u9593 "+f.wc(f.gN5())+" \u65e5",e,e,e,e,B.aL,e,e)],o),B.t,B.f,B.k),c,"\u6295\u4e0e\u901f\u5ea6"),4)
+s=A.bw(f.wZ(A.az(A.b([A.aW(A.b([A.J(B.c.R(f.f*f.e/f.d,2),e,e,e,e,B.a1x,e,e),B.B_,B.a4A],o),B.aX,B.f,B.k,0,B.q),B.bF,A.J("\u6301\u7d9a "+f.wc(f.f)+" ml/h",e,e,e,e,B.aL,e,e),A.J("\u4e88\u6e2c\u671f\u9593 "+f.wc(f.gN5())+" \u65e5",e,e,e,e,B.aL,e,e)],o),B.t,B.f,B.k),c,"\u6295\u4e0e\u901f\u5ea6"),4)
 q=f.e
 p=B.c.eV(f.gjS())
 r=B.c.am(f.gjS()*f.e/50)
@@ -86405,7 +86405,7 @@ gNf(){var s=this,r=s.z,q=r===B.C8?0.5:0.1,p=A.aE6(B.c.R(B.c.i_(s.r/r.d/q+1e-9)*q
 if(p>s.r*2/s.z.d+1e-9)return null
 return p},
 E(a){var s=this,r=null,q=A.K(a),p=q.ax,o=A.j7(p.b,r,0,B.m,r,B.a3Y),n=s.ab2(p),m=s.agl(p),l=s.a5W(p),k=A.bH(14),j=t.p
-return A.fN(o,q.fx,A.fd(A.b([n,B.G,m,B.G,l,B.G,A.bv(A.cu(r,A.az(A.b([B.WZ,B.bs,B.a4D,B.B0,A.aW(A.b([B.YW,A.J(A.at5(s.r*2.5/2.5),r,r,r,r,B.a0h,r,r),B.a4v,B.j_,A.J("("+A.YI(s.r*2.5)+" mg)",r,r,r,r,B.a1j,r,r)],j),B.aX,B.f,B.k,0,B.q),B.aQ,s.SN("\u6295\u4e0e\u91cf\u306e\u76ee\u5b89: \u4ed9\u9aa8\u301c\u4e0b\u80f8\u90e8 0.5\u20131.0 mL/kg\uff08\u5fc5\u305a\u6975\u91cf\u4ee5\u5185\u306b\uff09. \u5438\u5f15\u30c6\u30b9\u30c8\u3067\u8840\u7ba1\u5185\u30fb\u304f\u3082\u819c\u4e0b\u8ff7\u5165\u3092\u78ba\u8a8d\u3057\u5206\u5272\u6295\u4e0e\u3059\u308b.")],j),B.t,B.f,B.k),B.u,r,r,new A.bs(r,r,B.D1,k,r,r,B.I),r,r,r,B.ag,r,r,r),r,r,r,r,r)],j),r,B.cP,r,!1),r)},
+return A.fN(o,q.fx,A.fd(A.b([n,B.G,m,B.G,l,B.G,A.bv(A.cu(r,A.az(A.b([B.WZ,B.bs,B.a4D,B.B0,A.aW(A.b([B.YW,A.J(A.at5(s.r*2.5/2.5),r,r,r,r,B.a0h,r,r),B.a4w,B.j_,A.J("("+A.YI(s.r*2.5)+" mg)",r,r,r,r,B.a1j,r,r)],j),B.aX,B.f,B.k,0,B.q),B.aQ,s.SN("\u6295\u4e0e\u91cf\u306e\u76ee\u5b89: \u4ed9\u9aa8\u301c\u4e0b\u80f8\u90e8 0.5\u20131.0 mL/kg\uff08\u5fc5\u305a\u6975\u91cf\u4ee5\u5185\u306b\uff09. \u5438\u5f15\u30c6\u30b9\u30c8\u3067\u8840\u7ba1\u5185\u30fb\u304f\u3082\u819c\u4e0b\u8ff7\u5165\u3092\u78ba\u8a8d\u3057\u5206\u5272\u6295\u4e0e\u3059\u308b.")],j),B.t,B.f,B.k),B.u,r,r,new A.bs(r,r,B.D1,k,r,r,B.I),r,r,r,B.ag,r,r,r),r,r,r,r,r)],j),r,B.cP,r,!1),r)},
 ab2(a){var s,r,q,p,o,n=this,m=null,l=a.b,k=A.J("\u60a3\u8005\u60c5\u5831",m,m,m,m,A.aS(m,m,l,m,m,m,m,m,m,m,m,14,m,m,B.p,m,m,!0,m,m,m,m,m,m,m,m),m,m),j=n.d
 if(j===0&&n.e>0)s=""+n.e+" \u30f6\u6708"
 else{r=n.e
@@ -86438,7 +86438,7 @@ q=l.cJ(0.1)
 p=A.bH(4)
 j.push(A.aW(A.b([s,B.aP,r,B.aK,A.cu(n,A.J("PCV",n,n,n,n,A.aS(n,n,l,n,n,n,n,n,n,n,n,10,n,n,B.p,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.u,n,n,new A.bs(q,n,n,p,n,n,B.I),n,n,n,B.p3,n,n,n)],k),B.v,B.f,B.k,0,n))
 j.push(B.V)
-j.push(B.a4A)
+j.push(B.a4B)
 j.push(B.G)
 j.push(o.SG("PEEP","5","cmH\u2082O",n))
 j.push(B.dX)
@@ -91324,8 +91324,8 @@ B.eK=new A.ly(0,"adult")
 B.a4G=new A.bd("\u6210\u4eba  1ml 20\u6ef4",null,null,null,null,null,null,null,null,null)
 B.DI=new A.cR(B.eK,B.a4G,t.Kh)
 B.a85=new A.ly(1,"pediatric")
-B.a4y=new A.bd("\u5c0f\u5150  1ml 60\u6ef4",null,null,null,null,null,null,null,null,null)
-B.DK=new A.cR(B.a85,B.a4y,t.Kh)
+B.a4z=new A.bd("\u5c0f\u5150  1ml 60\u6ef4",null,null,null,null,null,null,null,null,null)
+B.DK=new A.cR(B.a85,B.a4z,t.Kh)
 B.P9=s([B.DI,B.DK],A.aj("u<cR<ly>>"))
 B.a6W=new A.fU(0,1)
 B.a70=new A.fU(0.5,1)
@@ -91496,8 +91496,8 @@ B.iJ=new A.er(B.bn,B.iI)
 B.Qu=s([B.DS,B.iJ],A.aj("u<aV>"))
 B.a4E=new A.bd("\u3042\u308a",null,null,null,null,null,null,null,null,null)
 B.DJ=new A.cR(!0,B.a4E,t.Mt)
-B.a4u=new A.bd("\u306a\u3057",null,null,null,null,null,null,null,null,null)
-B.DM=new A.cR(!1,B.a4u,t.Mt)
+B.a4v=new A.bd("\u306a\u3057",null,null,null,null,null,null,null,null,null)
+B.DM=new A.cR(!1,B.a4v,t.Mt)
 B.Qv=s([B.DJ,B.DM],A.aj("u<cR<H>>"))
 B.nm=new A.k1("\u7537\u6027",0,"male")
 B.a86=new A.k1("\u5973\u6027",1,"female")
@@ -93834,15 +93834,15 @@ B.a4o=new A.bd("\u9ad8\u9f62\u8005\u7528\u91cf",null,B.a0q,null,null,null,null,n
 B.a4p=new A.bd("\u4f53\u91cd",null,B.mR,null,null,null,null,null,null,null)
 B.a4q=new A.bd("\u9178\u7d20\u8f03\u5dee\u8a08\u7b97\u6a5f",null,null,null,null,null,null,null,null,null)
 B.a4s=new A.bd("\u8a31\u5bb9\u51fa\u8840\u91cf",null,null,null,null,null,null,null,null,null)
-B.a4t=new A.bd("\u6210\u4eba \u9ebb\u9154\u5c0e\u5165\u6642",null,null,null,null,null,null,null,null,null)
-B.a4v=new A.bd(" mL",null,B.bi,null,null,null,null,null,null,null)
+B.a4t=new A.bd("ivPCA",null,null,null,null,null,null,null,null,null)
+B.a4u=new A.bd("\u6210\u4eba \u9ebb\u9154\u5c0e\u5165\u6642",null,null,null,null,null,null,null,null,null)
+B.a4w=new A.bd(" mL",null,B.bi,null,null,null,null,null,null,null)
 B.a3a=new A.i(!0,B.ci,null,null,null,null,11,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4w=new A.bd("mL/h",null,B.a3a,null,null,null,null,null,null,null)
-B.a4x=new A.bd("\u5faa\u74b0\u8840\u6db2\u91cf \u4fc2\u6570",null,B.h2,null,null,null,null,null,null,null)
-B.a4z=new A.bd("mcg/kg/h",null,B.bi,null,null,null,null,null,null,null)
+B.a4x=new A.bd("mL/h",null,B.a3a,null,null,null,null,null,null,null)
+B.a4y=new A.bd("\u5faa\u74b0\u8840\u6db2\u91cf \u4fc2\u6570",null,B.h2,null,null,null,null,null,null,null)
+B.a4A=new A.bd("mcg/kg/h",null,B.bi,null,null,null,null,null,null,null)
 B.a2u=new A.i(!0,B.fD,null,null,null,null,13,B.p,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a4A=new A.bd("VT \u306f BW \xd7 10 mL \u3092\u76ee\u6307\u3059",null,B.a2u,null,null,null,null,null,null,null)
-B.a4B=new A.bd("iv PCA \u8a2d\u8a08",null,null,null,null,null,null,null,null,null)
+B.a4B=new A.bd("VT \u306f BW \xd7 10 mL \u3092\u76ee\u6307\u3059",null,B.a2u,null,null,null,null,null,null,null)
 B.a4D=new A.bd("\u30ec\u30dc\u30d6\u30d4\u30d0\u30ab\u30a4\u30f3 0.25%  (2.5 mg/mL)",null,B.aL,null,null,null,null,null,null,null)
 B.a4I=new A.bd("\u5c40\u6240\u9ebb\u9154\u85ac \u6975\u91cf\u8a08\u7b97",null,null,null,null,null,null,null,null,null)
 B.a4K=new A.bd("EBV\uff08\u5faa\u74b0\u8840\u6db2\u91cf\uff09= \u4f53\u91cd \xd7 \u4fc2\u6570\n\u8a31\u5bb9\u51fa\u8840\u91cf = EBV \xd7 (Hb\u521d\u671f \u2212 Hb\u8a31\u5bb9) / Hb\u5e73\u5747\n\u3000Hb\u5e73\u5747 = (Hb\u521d\u671f + Hb\u8a31\u5bb9) / 2\n\n\u30fb\u8a31\u5bb9Hb\u306e\u30c7\u30d5\u30a9\u30eb\u30c8\u306f 7 g/dL\uff08\u5fc3\u75be\u60a3\u30fb\u51fa\u8840\u9032\u884c\u4e2d\u306f\u9ad8\u3081\u306b\u8a2d\u5b9a\uff09\u3002\n\u30fb\u3042\u304f\u307e\u3067\u76ee\u5b89\u3002\u5b9f\u969b\u306f\u51fa\u8840\u901f\u5ea6\u30fb\u5fc3\u4e88\u5099\u80fd\u30fb\u51dd\u56fa\u3092\u8003\u616e\u3057\u3066\u8f38\u8840\u3092\u5224\u65ad\u3059\u308b\u3002",null,B.mP,null,null,null,null,null,null,null)
