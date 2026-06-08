@@ -357,26 +357,6 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
                       ],
                     ),
                   ),
-                  const SizedBox(height: 8),
-                  // 吸入麻酔薬 設定
-                  Container(
-                    width: double.infinity,
-                    padding: const EdgeInsets.symmetric(
-                        horizontal: 12, vertical: 8),
-                    decoration: BoxDecoration(
-                      color: Colors.teal.withValues(alpha: 0.08),
-                      borderRadius: BorderRadius.circular(8),
-                    ),
-                    child: Text(
-                      '${_volatile.label}  初期 ${_volatile.initPct.toStringAsFixed(0)}% → '
-                      '飽和後に $_etLabel ${_etTarget.toStringAsFixed(1)}% になるように調節',
-                      style: const TextStyle(
-                          color: Color(0xFF00695C),
-                          fontWeight: FontWeight.w600,
-                          fontSize: 12.5,
-                          height: 1.4),
-                    ),
-                  ),
                 ],
               ),
             ),
@@ -409,6 +389,13 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
               line1: _sedMlStr,
               line2: _sedMlLine2,
               note:  _sedConcNote,
+            ),
+            const Divider(height: 16),
+            _mlRow(
+              label: '吸入麻酔',
+              color: DrugCategory.inhalational.color,
+              line1: '${_volatile.label}  初期 ${_volatile.initPct.toStringAsFixed(0)}%',
+              note:  '飽和後に $_etLabel ${_etTarget.toStringAsFixed(1)}% になるよう調節',
             ),
             const Divider(height: 16),
             _mlRow(
