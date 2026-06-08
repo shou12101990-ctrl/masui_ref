@@ -48,7 +48,7 @@ class Drug {
   /// 拮抗薬・中和薬・血管拡張薬 → ■マーカーに斜線を重ねる
   bool get isDiagonal =>
       category == DrugCategory.vasodilator ||
-      const ['フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド', 'プロタミン']
+      const ['フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド', 'プロタミン', 'ハプトグロビン']
           .any((s) => name.contains(s));
 }
 

@@ -720,20 +720,6 @@ const List<Drug> kDrugs = [
     ],
   ),
   Drug(
-    name: 'プロタミン',
-    brand: 'プロタミン',
-    category: DrugCategory.anticoagulant,
-    spec: '100mg/10ml',
-    dilution: '原液',
-    concentration: '10mg/ml',
-    dose: 'ヘパリン100uあたり1.0-1.5mgを緩徐にiv',
-    mechanism: 'AT-ヘパリン複合体に代わりプロタミン-ヘパリン複合体を形成して拮抗',
-    notes: [
-      DrugNote('補足',
-          'ヘパリン100uあたり1.0-1.5mgを緩徐にiv. 急速投与で低血圧・肺高血圧をきたしうるため緩徐に投与する. '),
-    ],
-  ),
-  Drug(
     name: 'アンチトロンビンIII (AT-III)',
     brand: 'アンスロビンP / ノイアート / 献血ノンスロン',
     category: DrugCategory.anticoagulant,
@@ -752,6 +738,20 @@ const List<Drug> kDrugs = [
       DrugNote('一般的性質',
           'ヘパリンはATを介して作用するため, AT欠乏下ではヘパリンを増量しても効果が出ない（ヘパリン抵抗性）. '
           'この場合はATを補充することでヘパリンが奏効する. '),
+    ],
+  ),
+  Drug(
+    name: 'プロタミン',
+    brand: 'プロタミン',
+    category: DrugCategory.anticoagulant,
+    spec: '100mg/10ml',
+    dilution: '原液',
+    concentration: '10mg/ml',
+    dose: 'ヘパリン100uあたり1.0-1.5mgを緩徐にiv',
+    mechanism: 'AT-ヘパリン複合体に代わりプロタミン-ヘパリン複合体を形成して拮抗',
+    notes: [
+      DrugNote('補足',
+          'ヘパリン100uあたり1.0-1.5mgを緩徐にiv. 急速投与で低血圧・肺高血圧をきたしうるため緩徐に投与する. '),
     ],
   ),
 
@@ -865,8 +865,51 @@ const List<Drug> kDrugs = [
           '・主に消化管・CTZの5-HT3受容体を遮断して作用する.'),
     ],
   ),
+  Drug(
+    name: 'オンダンセトロン',
+    brand: 'ゾフラン',
+    category: DrugCategory.antiemetic,
+    spec: '2mg/1ml/A, 4mg/2ml/A',
+    dilution: '原液 or NS希釈',
+    dose: 'PONV・制吐 4mg iv',
+    mechanism: '選択的5-HT3受容体拮抗による制吐作用',
+    notes: [
+      DrugNote('用量・使い方',
+          '・PONV予防/治療：4mg iv（手術終了前後）. 抗癌剤による悪心嘔吐にも使用.\n'
+          '・グラニセトロンと同系統（5-HT3拮抗薬）. ステロイド・ドロペリドールなどと多剤併用.'),
+      DrugNote('副作用・注意',
+          '・QT延長に注意（特にドロペリドール併用時）. 頭痛・便秘.\n'
+          '・肝代謝（CYP）. 半減期は約3-4時間.'),
+    ],
+  ),
 
   // ───────────────────────── 輸血製剤 ─────────────────────────
+  Drug(
+    name: '5%アルブミン',
+    brand: '献血アルブミン5% / ブミネート',
+    category: DrugCategory.transfusion,
+    spec: '250ml/V（等張）',
+    dose: '循環血漿量の補充（出血・血漿喪失）',
+    mechanism: '等張アルブミン. 膠質浸透圧を保ち循環血漿量を維持',
+    notes: [
+      DrugNote('使い方',
+          '・等張で投与量とほぼ同量の血漿増量効果. 出血・熱傷・敗血症などの volume 補充.\n'
+          '・晶質液で反応不十分な血管内volume不足に.'),
+    ],
+  ),
+  Drug(
+    name: '25%アルブミン',
+    brand: '献血アルブミン25% / ブミネート25%',
+    category: DrugCategory.transfusion,
+    spec: '50ml/V（高張）',
+    dose: '低Alb血症・浮腫を伴う循環血漿量減少',
+    mechanism: '高張アルブミン. 強い膠質浸透圧で間質から血管内へ水を移動させる',
+    notes: [
+      DrugNote('使い方',
+          '・低アルブミン血症で浮腫・腹水を伴う症例の血漿量補正.\n'
+          '・間質から血管内へ水を引き込むため, 脱水・心不全では肺水腫に注意.'),
+    ],
+  ),
   Drug(
     name: '赤血球濃厚液 (RBC)',
     brand: 'RCC-LR（照射赤血球液）',
@@ -915,32 +958,6 @@ const List<Drug> kDrugs = [
       DrugNote('注意',
           '・室温保存・振盪、有効期間が短い（採血後4日）. ABO同型が望ましい.\n'
           '・GVHD予防のため放射線照射製剤を使用.'),
-    ],
-  ),
-  Drug(
-    name: '5%アルブミン',
-    brand: '献血アルブミン5% / ブミネート',
-    category: DrugCategory.transfusion,
-    spec: '250ml/V（等張）',
-    dose: '循環血漿量の補充（出血・血漿喪失）',
-    mechanism: '等張アルブミン. 膠質浸透圧を保ち循環血漿量を維持',
-    notes: [
-      DrugNote('使い方',
-          '・等張で投与量とほぼ同量の血漿増量効果. 出血・熱傷・敗血症などの volume 補充.\n'
-          '・晶質液で反応不十分な血管内volume不足に.'),
-    ],
-  ),
-  Drug(
-    name: '25%アルブミン',
-    brand: '献血アルブミン25% / ブミネート25%',
-    category: DrugCategory.transfusion,
-    spec: '50ml/V（高張）',
-    dose: '低Alb血症・浮腫を伴う循環血漿量減少',
-    mechanism: '高張アルブミン. 強い膠質浸透圧で間質から血管内へ水を移動させる',
-    notes: [
-      DrugNote('使い方',
-          '・低アルブミン血症で浮腫・腹水を伴う症例の血漿量補正.\n'
-          '・間質から血管内へ水を引き込むため, 脱水・心不全では肺水腫に注意.'),
     ],
   ),
   Drug(

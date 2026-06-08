@@ -14,22 +14,22 @@ class ColumnArticle {
   });
 }
 
-// カテゴリ色（NutriCalcのノートと同じ運用）
-const _cGeneral = Color(0xFF4A90D9); // 全般
-const _cSed = Color(0xFF2E7D32); // 鎮静
-const _cOpioid = Color(0xFF1565C0); // 鎮痛・オピオイド
-const _cNmb = Color(0xFF00838F); // 筋弛緩
-const _cCirc = Color(0xFFE67E22); // 循環作動薬
-const _cMonitor = Color(0xFFE91E8C); // モニタリング
-const _cPharm = Color(0xFF9C27B0); // 薬理学
-const _cEmg = Color(0xFFE53935); // 緊急対応
-const _cGL  = Color(0xFF1B5E20); // ガイドライン
-const _cReg = Color(0xFF5D4037); // 区域麻酔
-const _cTrans = Color(0xFFAD1457); // 輸血
+// カテゴリ色（NutriCalcのノートと同じ運用・淡め）
+const _cGeneral = Color(0xFF64B5F6); // 全般
+const _cSed = Color(0xFF66BB6A); // 鎮静
+const _cOpioid = Color(0xFF5C6BC0); // 鎮痛・オピオイド
+const _cNmb = Color(0xFF4DD0E1); // 筋弛緩
+const _cCirc = Color(0xFFFFB74D); // 循環作動薬
+const _cMonitor = Color(0xFFF06292); // モニタリング
+const _cPharm = Color(0xFFBA68C8); // 薬理学
+const _cEmg = Color(0xFFEF5350); // 緊急対応
+const _cGL  = Color(0xFF9CCC65); // 区域麻酔GL
+const _cReg = Color(0xFFA1887F); // 区域麻酔
+const _cTrans = Color(0xFFE0457B); // 輸血
 
 /// カテゴリ → 色（「すべて表示」を含む）
 const Map<String, Color> kColumnCategoryColors = {
-  'すべて表示': Color(0xFF00796B),
+  'すべて表示': Color(0xFF26A69A),
   '全般': _cGeneral,
   '鎮静': _cSed,
   '鎮痛・オピオイド': _cOpioid,
@@ -40,7 +40,7 @@ const Map<String, Color> kColumnCategoryColors = {
   '区域麻酔': _cReg,
   '輸血': _cTrans,
   '緊急対応': _cEmg,
-  'GL': _cGL,
+  '区域麻酔GL': _cGL,
 };
 
 const List<ColumnArticle> kColumns = [
@@ -439,7 +439,7 @@ const List<ColumnArticle> kColumns = [
 
   // ───────── GL（ガイドライン） ─────────
   ColumnArticle(
-    category: 'GL',
+    category: '区域麻酔GL',
     title: '区域麻酔・神経ブロックと抗血栓療法GL（概説）',
     color: _cGL,
     body: '■ ガイドライン概要\n'
@@ -468,7 +468,7 @@ const List<ColumnArticle> kColumns = [
         '添付文書の休薬期間とGLの推奨期間が乖離している薬剤もある点に注意。',
   ),
   ColumnArticle(
-    category: 'GL',
+    category: '区域麻酔GL',
     title: '抗血小板薬の休薬期間（区域麻酔GLより）',
     color: _cGL,
     body: '■ 不可逆的抗血小板薬（血小板寿命 7〜10日まで効果持続）\n\n'
@@ -497,7 +497,7 @@ const List<ColumnArticle> kColumns = [
         '冠動脈ステント留置患者やDAPT（2剤抗血小板療法）中は，休薬による血栓性リスクと区域麻酔の出血リスクを個別に検討する。5日程度の短い休薬も考慮される場合がある。',
   ),
   ColumnArticle(
-    category: 'GL',
+    category: '区域麻酔GL',
     title: '抗凝固薬の休薬期間（区域麻酔GLより）',
     color: _cGL,
     body: '■ 高リスク群の手技に対する休薬期間（表3・表7）\n\n'
