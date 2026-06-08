@@ -465,6 +465,12 @@ class _PediatricScreenState extends State<PediatricScreen> {
                     style: TextStyle(fontSize: 10, color: scheme.primary, fontWeight: FontWeight.bold)),
               ),
             ]),
+            const SizedBox(height: 8),
+            const Text('VT は BW × 10 mL を目指す',
+                style: TextStyle(
+                    color: Colors.red,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 13)),
             const SizedBox(height: 12),
             _ventRow('PEEP', '5', 'cmH₂O', null),
             const Divider(height: 16),
