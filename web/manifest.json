@@ -1,11 +1,11 @@
 {
-    "name": "麻酔薬リファレンス",
-    "short_name": "麻酔薬",
+    "name": "やさしい麻酔科ローテ",
+    "short_name": "麻酔科ローテ",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#00796B",
     "theme_color": "#00796B",
-    "description": "麻酔ローテ研修医向けの麻酔薬リファレンス＋γ計算機",
+    "description": "麻酔科ローテ研修医向けの麻酔薬リファレンス＋計算機ツール",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -19,7 +19,7 @@ class MasuiApp extends StatelessWidget {
       brightness: Brightness.light,
     );
     return MaterialApp(
-      title: '麻酔薬リファレンス',
+      title: 'やさしい麻酔科ローテ',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: scheme,

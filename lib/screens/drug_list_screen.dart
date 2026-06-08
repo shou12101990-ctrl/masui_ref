@@ -45,7 +45,7 @@ class _DrugListScreenState extends State<DrugListScreen> {
               padding: const EdgeInsets.fromLTRB(16, 12, 16, 4),
               child: Row(
                 children: [
-                  Text('麻酔薬リファレンス',
+                  Text('やさしい麻酔科ローテ',
                       style: theme.textTheme.titleLarge
                           ?.copyWith(fontWeight: FontWeight.bold)),
                   const Spacer(),
