@@ -27,6 +27,15 @@ enum _AnalDrug {
   const _AnalDrug(this.label);
 }
 
+enum _Volatile {
+  sevoflurane('セボフルラン', 2.0),
+  desflurane('デスフルラン', 5.0);
+
+  final String label;
+  final double initPct; // 導入後の初期ダイアル設定 (%)
+  const _Volatile(this.label, this.initPct);
+}
+
 enum _Sex {
   male('男性'),
   female('女性');
@@ -64,6 +73,7 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
 
   _SedDrug  _sed  = _SedDrug.propofol;
   _AnalDrug _anal = _AnalDrug.fentanyl;
+  _Volatile _volatile = _Volatile.sevoflurane;
   _Sex      _sex  = _Sex.male;
 
   bool   get _elderly => _age >= 65;
@@ -71,6 +81,14 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
   // Devine式 (性別補正) — IBW: 薬剤投与量基準 / PBW: 換気量設定基準 (同値)
   double get _ibw     => (_sex == _Sex.male ? 50.0 : 45.5) + 0.91 * (_height - 152.4);
   double get _pbw     => _ibw;
+
+  // 吸入麻酔薬 飽和後の目標 et濃度 (年齢補正)
+  // A = 1.7 − 0.01×年齢 (etSev), B = 6.0 − 0.04×年齢 (etDes)
+  double get _etTarget => _volatile == _Volatile.sevoflurane
+      ? 1.7 - 0.01 * _age
+      : 6.0 - 0.04 * _age;
+  String get _etLabel =>
+      _volatile == _Volatile.sevoflurane ? 'etSev' : 'etDes';
 
   // ── 鎮静薬 ─────────────────────────────────────────────────────────────
   _DoseInfo get _sedInfo {
@@ -294,6 +312,13 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
                               itemLabel: (d) => d.label,
                               onChanged: (v) => setState(() => _anal = v),
                             ),
+                            const SizedBox(height: 8),
+                            _ddField<_Volatile>(
+                              label: '吸入麻酔薬', suffix: '',
+                              value: _volatile, items: _Volatile.values,
+                              itemLabel: (d) => d.label,
+                              onChanged: (v) => setState(() => _volatile = v),
+                            ),
                           ],
                         ),
                       ),
@@ -330,6 +355,26 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
                           ),
                         ],
                       ],
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  // 吸入麻酔薬 設定
+                  Container(
+                    width: double.infinity,
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 12, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: Colors.teal.withValues(alpha: 0.08),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: Text(
+                      '${_volatile.label}  初期 ${_volatile.initPct.toStringAsFixed(0)}% → '
+                      '飽和後に $_etLabel ${_etTarget.toStringAsFixed(1)}% になるように調節',
+                      style: const TextStyle(
+                          color: Color(0xFF00695C),
+                          fontWeight: FontWeight.w600,
+                          fontSize: 12.5,
+                          height: 1.4),
                     ),
                   ),
                 ],
