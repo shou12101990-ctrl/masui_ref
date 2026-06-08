@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-// ─── 計算画面 ─────────────────────────────────────────────────
-
+/// 酸素較差計算機（シンプル版）
+/// Hb・SaO2・SvO2 から 動静脈酸素含量較差 (CaO2 − CvO2) と O2ER を算出する。
 class OxygenGapScreen extends StatefulWidget {
   const OxygenGapScreen({super.key});
 
@@ -10,133 +10,73 @@ class OxygenGapScreen extends StatefulWidget {
 }
 
 class _OxygenGapScreenState extends State<OxygenGapScreen> {
-  // FiO2 (0.21〜1.00)
-  double _fio2 = 0.21;
+  static const _accent = Color(0xFF1976D2);
 
-  final _pao2Ctrl  = TextEditingController();
-  final _paco2Ctrl = TextEditingController();
-  final _hbCtrl    = TextEditingController();
-  final _sao2Ctrl  = TextEditingController();
-  final _svo2Ctrl  = TextEditingController();
-  final _hrCtrl    = TextEditingController();
-  final _svCtrl    = TextEditingController();
+  final _hbCtrl   = TextEditingController();
+  final _sao2Ctrl = TextEditingController();
+  final _svo2Ctrl = TextEditingController();
+
+  List<TextEditingController> get _all => [_hbCtrl, _sao2Ctrl, _svo2Ctrl];
 
   @override
   void initState() {
     super.initState();
-    for (final c in _allCtrl) c.addListener(() => setState(() {}));
+    for (final c in _all) {
+      c.addListener(() => setState(() {}));
+    }
   }
 
   @override
   void dispose() {
-    for (final c in _allCtrl) c.dispose();
+    for (final c in _all) {
+      c.dispose();
+    }
     super.dispose();
   }
 
-  List<TextEditingController> get _allCtrl =>
-      [_pao2Ctrl, _paco2Ctrl, _hbCtrl, _sao2Ctrl, _svo2Ctrl, _hrCtrl, _svCtrl];
-
-  double? _parse(TextEditingController c) {
+  double? _p(TextEditingController c) {
     final v = double.tryParse(c.text.trim());
     return (v != null && v > 0) ? v : null;
   }
 
-  double? get _pao2  => _parse(_pao2Ctrl);
-  double? get _paco2 => _parse(_paco2Ctrl);
-  double? get _hb    => _parse(_hbCtrl);
-  double? get _sao2  => _parse(_sao2Ctrl);
-  double? get _svo2  => _parse(_svo2Ctrl);
-  double? get _hr    => _parse(_hrCtrl);
-  double? get _sv    => _parse(_svCtrl);
+  double? get _hb   => _p(_hbCtrl);
+  double? get _sao2 => _p(_sao2Ctrl);
+  double? get _svo2 => _p(_svo2Ctrl);
 
-  // 肺胞気酸素分圧 (FiO2*713 - PaCO2/0.8)
-  double? get _PAO2 {
-    if (_paco2 == null) return null;
-    return _fio2 * 713.0 - _paco2! / 0.8;
+  // 動脈血酸素含量 (溶存O2は無視, mL/dL)
+  double? get _caO2 =>
+      (_hb != null && _sao2 != null) ? 1.34 * _hb! * (_sao2! / 100.0) : null;
+
+  // 混合静脈血酸素含量 (mL/dL)
+  double? get _cvO2 =>
+      (_hb != null && _svo2 != null) ? 1.34 * _hb! * (_svo2! / 100.0) : null;
+
+  // 動静脈酸素含量較差 (mL/dL)
+  double? get _gap =>
+      (_caO2 != null && _cvO2 != null) ? _caO2! - _cvO2! : null;
+
+  // 酸素摂取率 (%)
+  double? get _o2er => (_gap != null && _caO2 != null && _caO2! > 0)
+      ? _gap! / _caO2! * 100.0
+      : null;
+
+  (String, Color, Color) _evalGap(double v) {
+    if (v < 3.5) return ('低い', Colors.blue.shade700, Colors.blue.shade50);
+    if (v <= 5.5) return ('正常', Colors.green.shade700, Colors.green.shade50);
+    return ('開大', Colors.red.shade700, Colors.red.shade50);
   }
 
-  // A-aDO2
-  double? get _AaDO2 {
-    if (_PAO2 == null || _pao2 == null) return null;
-    return _PAO2! - _pao2!;
-  }
-
-  // P/F ratio
-  double? get _PF {
-    if (_pao2 == null) return null;
-    return _pao2! / _fio2;
-  }
-
-  // 動脈血酸素含量 CaO2 (mL/dL)
-  double? get _CaO2 {
-    if (_hb == null || _sao2 == null || _pao2 == null) return null;
-    return 1.34 * _hb! * (_sao2! / 100.0) + 0.0031 * _pao2!;
-  }
-
-  // 混合静脈血酸素含量 CvO2
-  double? get _CvO2 {
-    if (_hb == null || _svo2 == null) return null;
-    return 1.34 * _hb! * (_svo2! / 100.0) + 0.0031 * (_pao2 ?? 40.0);
-  }
-
-  // 心拍出量 CO (L/min)
-  double? get _CO {
-    if (_hr == null || _sv == null) return null;
-    return _hr! * _sv! / 1000.0;
-  }
-
-  // 酸素供給量 DO2 (mL/min)
-  double? get _DO2 {
-    if (_CO == null || _CaO2 == null) return null;
-    return _CO! * _CaO2! * 10.0;
-  }
-
-  // 酸素消費量 VO2 (mL/min)
-  double? get _VO2 {
-    if (_CO == null || _CaO2 == null || _CvO2 == null) return null;
-    return _CO! * (_CaO2! - _CvO2!) * 10.0;
-  }
-
-  // 酸素摂取率 O2ER (%)
-  double? get _O2ER {
-    if (_DO2 == null || _VO2 == null || _DO2! <= 0) return null;
-    return _VO2! / _DO2! * 100.0;
-  }
-
-  // ─── バッジ評価 ───────────────────────────────────────────────
-
-  (String, Color, Color) _evalAaDO2(double v) {
-    if (v < 10) return ('正常', Colors.green.shade700, Colors.green.shade50);
-    if (v < 35) return ('軽度上昇', Colors.orange.shade700, Colors.orange.shade50);
-    return ('著明上昇', Colors.red.shade700, Colors.red.shade50);
-  }
-
-  (String, Color, Color) _evalPF(double v) {
-    if (v >= 300) return ('正常', Colors.green.shade700, Colors.green.shade50);
-    if (v >= 200) return ('軽度低下', Colors.orange.shade700, Colors.orange.shade50);
-    return ('ARDS基準以下', Colors.red.shade700, Colors.red.shade50);
-  }
-
-  (String, Color, Color) _evalDO2(double v) {
-    if (v >= 900) return ('十分', Colors.green.shade700, Colors.green.shade50);
-    if (v >= 600) return ('やや低下', Colors.orange.shade700, Colors.orange.shade50);
-    return ('低下', Colors.red.shade700, Colors.red.shade50);
-  }
-
-  (String, Color, Color) _evalO2ER(double v) {
+  (String, Color, Color) _evalO2er(double v) {
+    if (v < 22) return ('低い', Colors.blue.shade700, Colors.blue.shade50);
     if (v <= 30) return ('正常', Colors.green.shade700, Colors.green.shade50);
-    if (v <= 50) return ('代償範囲', Colors.orange.shade700, Colors.orange.shade50);
+    if (v <= 50) return ('代償域', Colors.orange.shade700, Colors.orange.shade50);
     return ('供給依存', Colors.red.shade700, Colors.red.shade50);
   }
-
-  static final _fio2Opts = [
-    for (double f = 0.21; f <= 1.005; f += 0.01) double.parse(f.toStringAsFixed(2)),
-  ];
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final scheme = theme.colorScheme;
+    final hasResult = _gap != null;
 
     return Scaffold(
       appBar: AppBar(
@@ -149,7 +89,7 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
         child: ListView(
           padding: const EdgeInsets.all(16),
           children: [
-            // ─ 入力カード ─
+            // ── 入力 ──
             Card(
               child: Padding(
                 padding: const EdgeInsets.all(16),
@@ -160,122 +100,63 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                         style: theme.textTheme.titleSmall
                             ?.copyWith(fontWeight: FontWeight.bold)),
                     const SizedBox(height: 12),
-                    // FiO2
-                    Row(crossAxisAlignment: CrossAxisAlignment.center,
-                        children: [
-                      const SizedBox(
-                          width: 120,
-                          child: Text('FiO₂',
-                              style: TextStyle(fontSize: 13))),
-                      DropdownButton<double>(
-                        value: _fio2,
-                        items: _fio2Opts
-                            .map((f) => DropdownMenuItem(
-                                value: f,
-                                child: Text(f.toStringAsFixed(2))))
-                            .toList(),
-                        onChanged: (v) => setState(() => _fio2 = v!),
-                      ),
-                    ]),
-                    const Divider(height: 16),
-                    _InputRow('PaO₂ (mmHg)', _pao2Ctrl),
-                    _InputRow('PaCO₂ (mmHg)', _paco2Ctrl),
                     _InputRow('Hb (g/dL)', _hbCtrl),
                     _InputRow('SaO₂ (%)', _sao2Ctrl),
-                    _InputRow('SvO₂ (%) ※任意', _svo2Ctrl),
-                    const Divider(height: 16),
-                    _InputRow('HR (bpm)', _hrCtrl),
-                    _InputRow('SV (mL)', _svCtrl),
+                    _InputRow('SvO₂ (%)', _svo2Ctrl),
                   ],
                 ),
               ),
             ),
             const SizedBox(height: 12),
 
-            // ─ ガス交換 ─
-            if (_AaDO2 != null || _PF != null)
+            // ── 結果 ──
+            if (hasResult)
               Card(
                 child: Padding(
                   padding: const EdgeInsets.all(16),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text('ガス交換',
+                      Text('結果',
                           style: theme.textTheme.titleSmall
                               ?.copyWith(fontWeight: FontWeight.bold)),
                       const SizedBox(height: 10),
-                      if (_PAO2 != null)
-                        _ResultRow('PAO₂', _PAO2!.toStringAsFixed(1), 'mmHg'),
-                      if (_AaDO2 != null) ...[
-                        _ResultRowWithBadge(
-                          'A-aDO₂',
-                          _AaDO2!.toStringAsFixed(1),
-                          'mmHg',
-                          _evalAaDO2(_AaDO2!),
-                        ),
-                        Padding(
-                          padding: const EdgeInsets.only(left: 16, bottom: 4),
-                          child: Text(
-                            '正常: < 10 mmHg（室内気）, 年齢補正: (年齢/4) + 4',
-                            style: TextStyle(
-                                fontSize: 11, color: Colors.grey.shade600),
-                          ),
-                        ),
-                      ],
-                      if (_PF != null)
-                        _ResultRowWithBadge(
-                          'P/F 比',
-                          _PF!.toStringAsFixed(0),
-                          '',
-                          _evalPF(_PF!),
-                        ),
+                      _ResultRow('CaO₂', _caO2!.toStringAsFixed(2), 'mL/dL'),
+                      _ResultRow('CvO₂', _cvO2!.toStringAsFixed(2), 'mL/dL'),
+                      const Divider(height: 18),
+                      _BigResult(
+                        label: '酸素較差 (CaO₂−CvO₂)',
+                        value: _gap!.toStringAsFixed(2),
+                        unit: 'mL/dL',
+                        badge: _evalGap(_gap!),
+                        accent: _accent,
+                      ),
+                      const SizedBox(height: 10),
+                      _BigResult(
+                        label: 'O₂ER（酸素摂取率）',
+                        value: _o2er!.toStringAsFixed(1),
+                        unit: '%',
+                        badge: _evalO2er(_o2er!),
+                        accent: _accent,
+                      ),
                     ],
                   ),
                 ),
-              ),
-            if (_AaDO2 != null || _PF != null) const SizedBox(height: 12),
-
-            // ─ 酸素需給 ─
-            if (_CaO2 != null || _DO2 != null)
+              )
+            else
               Card(
                 child: Padding(
-                  padding: const EdgeInsets.all(16),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text('酸素需給',
-                          style: theme.textTheme.titleSmall
-                              ?.copyWith(fontWeight: FontWeight.bold)),
-                      const SizedBox(height: 10),
-                      if (_CaO2 != null)
-                        _ResultRow('CaO₂', _CaO2!.toStringAsFixed(2), 'mL/dL'),
-                      if (_CvO2 != null)
-                        _ResultRow('CvO₂', _CvO2!.toStringAsFixed(2), 'mL/dL'),
-                      if (_CO != null)
-                        _ResultRow('CO', _CO!.toStringAsFixed(2), 'L/min'),
-                      if (_DO2 != null)
-                        _ResultRowWithBadge(
-                          'DO₂',
-                          _DO2!.toStringAsFixed(0),
-                          'mL/min',
-                          _evalDO2(_DO2!),
-                        ),
-                      if (_VO2 != null)
-                        _ResultRow('VO₂', _VO2!.toStringAsFixed(0), 'mL/min'),
-                      if (_O2ER != null)
-                        _ResultRowWithBadge(
-                          'O₂ER',
-                          _O2ER!.toStringAsFixed(1),
-                          '%',
-                          _evalO2ER(_O2ER!),
-                        ),
-                    ],
+                  padding: const EdgeInsets.symmetric(
+                      horizontal: 16, vertical: 24),
+                  child: Center(
+                    child: Text('Hb・SaO₂・SvO₂ を入力してください',
+                        style: TextStyle(color: Colors.grey.shade500)),
                   ),
                 ),
               ),
-            if (_CaO2 != null || _DO2 != null) const SizedBox(height: 12),
+            const SizedBox(height: 12),
 
-            // ─ 参考値 ─
+            // ── 参考 ──
             Card(
               color: Colors.grey.shade50,
               child: Padding(
@@ -283,20 +164,19 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('正常値・解釈の目安',
+                    Text('計算式・正常値',
                         style: TextStyle(
                             fontWeight: FontWeight.bold,
                             fontSize: 12,
                             color: Colors.grey.shade700)),
                     const SizedBox(height: 6),
                     const Text(
-                      'PAO₂   : FiO₂×713 − PaCO₂/0.8\n'
-                      'A-aDO₂ : < 10 mmHg（室内気）\n'
-                      'P/F比  : ≥300 正常, <200 ARDS\n'
-                      'CaO₂   : 1.34×Hb×SaO₂/100 + 0.0031×PaO₂\n'
-                      'DO₂    : CO × CaO₂ × 10　（正常: 900〜1200 mL/min）\n'
-                      'VO₂    : CO × (CaO₂−CvO₂) × 10　（正常: 200〜300 mL/min）\n'
-                      'O₂ER   : VO₂/DO₂ × 100　（正常: 25〜30%）',
+                      'CaO₂ = 1.34 × Hb × SaO₂/100\n'
+                      'CvO₂ = 1.34 × Hb × SvO₂/100\n'
+                      '酸素較差 = CaO₂ − CvO₂　（正常 3.5〜5.5 mL/dL）\n'
+                      'O₂ER = 較差 / CaO₂ × 100　（正常 25〜30%）\n\n'
+                      '・較差/O₂ER 開大 → 供給不足 or 需要増加（低心拍出・貧血・低酸素）\n'
+                      '・較差/O₂ER 低下 → 末梢利用障害・シャント（敗血症など）',
                       style: TextStyle(fontSize: 12, height: 1.7),
                     ),
                   ],
@@ -320,11 +200,11 @@ class _InputRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 4),
+      padding: const EdgeInsets.symmetric(vertical: 5),
       child: Row(children: [
         SizedBox(
-            width: 140,
-            child: Text(label, style: const TextStyle(fontSize: 13))),
+            width: 110,
+            child: Text(label, style: const TextStyle(fontSize: 14))),
         Expanded(
           child: TextField(
             controller: ctrl,
@@ -333,10 +213,10 @@ class _InputRow extends StatelessWidget {
             decoration: const InputDecoration(
               isDense: true,
               contentPadding:
-                  EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+                  EdgeInsets.symmetric(horizontal: 10, vertical: 10),
               border: OutlineInputBorder(),
             ),
-            style: const TextStyle(fontSize: 13),
+            style: const TextStyle(fontSize: 15),
           ),
         ),
       ]),
@@ -356,13 +236,12 @@ class _ResultRow extends StatelessWidget {
       padding: const EdgeInsets.symmetric(vertical: 3),
       child: Row(children: [
         SizedBox(
-            width: 80,
+            width: 130,
             child: Text(label,
-                style: const TextStyle(
-                    fontSize: 13, color: Colors.black54))),
+                style: const TextStyle(fontSize: 13, color: Colors.black54))),
         Text(value,
-            style: const TextStyle(
-                fontSize: 15, fontWeight: FontWeight.bold)),
+            style:
+                const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
         const SizedBox(width: 4),
         Text(unit,
             style: const TextStyle(fontSize: 12, color: Colors.black54)),
@@ -371,46 +250,72 @@ class _ResultRow extends StatelessWidget {
   }
 }
 
-class _ResultRowWithBadge extends StatelessWidget {
+class _BigResult extends StatelessWidget {
   final String label;
   final String value;
   final String unit;
   final (String, Color, Color) badge;
-  const _ResultRowWithBadge(
-      this.label, this.value, this.unit, this.badge);
+  final Color accent;
+  const _BigResult({
+    required this.label,
+    required this.value,
+    required this.unit,
+    required this.badge,
+    required this.accent,
+  });
 
   @override
   Widget build(BuildContext context) {
     final (badgeText, badgeFg, badgeBg) = badge;
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 3),
-      child: Row(children: [
-        SizedBox(
-            width: 80,
-            child: Text(label,
-                style: const TextStyle(
-                    fontSize: 13, color: Colors.black54))),
-        Text(value,
-            style: const TextStyle(
-                fontSize: 15, fontWeight: FontWeight.bold)),
-        const SizedBox(width: 4),
-        Text(unit,
-            style: const TextStyle(fontSize: 12, color: Colors.black54)),
-        const SizedBox(width: 8),
-        Container(
-          padding:
-              const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-          decoration: BoxDecoration(
-            color: badgeBg,
-            borderRadius: BorderRadius.circular(20),
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+      decoration: BoxDecoration(
+        color: accent.withValues(alpha: 0.06),
+        borderRadius: BorderRadius.circular(12),
+      ),
+      child: Row(
+        children: [
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(label,
+                    style: const TextStyle(
+                        fontSize: 12, color: Colors.black54)),
+                const SizedBox(height: 2),
+                Row(
+                  crossAxisAlignment: CrossAxisAlignment.baseline,
+                  textBaseline: TextBaseline.alphabetic,
+                  children: [
+                    Text(value,
+                        style: TextStyle(
+                            fontSize: 26,
+                            fontWeight: FontWeight.bold,
+                            color: accent)),
+                    const SizedBox(width: 4),
+                    Text(unit,
+                        style: const TextStyle(
+                            fontSize: 13, color: Colors.black54)),
+                  ],
+                ),
+              ],
+            ),
           ),
-          child: Text(badgeText,
-              style: TextStyle(
-                  fontSize: 11,
-                  color: badgeFg,
-                  fontWeight: FontWeight.bold)),
-        ),
-      ]),
+          Container(
+            padding:
+                const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+            decoration: BoxDecoration(
+              color: badgeBg,
+              borderRadius: BorderRadius.circular(20),
+            ),
+            child: Text(badgeText,
+                style: TextStyle(
+                    fontSize: 12,
+                    color: badgeFg,
+                    fontWeight: FontWeight.bold)),
+          ),
+        ],
+      ),
     );
   }
 }

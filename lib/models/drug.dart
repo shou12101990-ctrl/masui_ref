@@ -59,7 +59,7 @@ class DrugNote {
   const DrugNote(this.heading, this.body);
 }
 
-/// 薬剤分類（8ジャンル）
+/// 薬剤分類
 enum DrugCategory {
   sedative('鎮静薬'),
   inhalational('吸入麻酔薬'),
@@ -69,7 +69,9 @@ enum DrugCategory {
   vasodilator('降圧薬'),
   localAnesthetic('局所麻酔薬'),
   anticoagulant('凝固系'),
-  steroid('ステロイド');
+  steroid('ステロイド'),
+  antiemetic('制吐薬'),
+  transfusion('輸血製剤');
 
   final String label;
   const DrugCategory(this.label);
@@ -85,5 +87,7 @@ enum DrugCategory {
         DrugCategory.localAnesthetic => const Color(0xFF97999B), // Cool Gray7 : 局所麻酔薬 標準灰
         DrugCategory.anticoagulant => const Color(0xFFB52020),   // 凝固系 : 血色 (blood red)
         DrugCategory.steroid => const Color(0xFFEF8C00),         // ステロイド : warm orange
+        DrugCategory.antiemetic => const Color(0xFF26A69A),      // 制吐薬 : teal
+        DrugCategory.transfusion => const Color(0xFFAD1457),     // 輸血製剤 : crimson
       };
 }

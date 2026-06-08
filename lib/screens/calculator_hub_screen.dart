@@ -8,6 +8,8 @@ import 'pediatric_screen.dart';
 import 'local_anesthetic_max_screen.dart';
 import 'dlt_screen.dart';
 import 'oxygen_gap_screen.dart';
+import 'allowable_blood_loss_screen.dart';
+import 'be_correction_screen.dart';
 
 /// 計算機タブのハブ画面 — 8つの計算機へのナビゲーション
 class CalculatorHubScreen extends StatelessWidget {
@@ -57,23 +59,37 @@ class CalculatorHubScreen extends StatelessWidget {
       _CalcItem(
         icon: Icons.vaccines,
         title: '局所麻酔薬 極量',
-        subtitle: '体重・薬剤 → 最大投与量 (mL)',
+        subtitle: 'ボタン選択 → 最大投与量 (mL)',
         color: const Color(0xFF6B7280),
         page: const LocalAnestheticMaxScreen(),
       ),
       _CalcItem(
         icon: Icons.straighten,
         title: 'DLT サイズ選択',
-        subtitle: '身長・性別 → 推奨 Fr / 挿入深さ',
+        subtitle: '身長・性別 / CT実測 → 推奨 Fr',
         color: const Color(0xFF0E7490),
         page: const DltScreen(),
       ),
       _CalcItem(
         icon: Icons.monitor_heart,
         title: '酸素較差計算機',
-        subtitle: 'A-aDO₂ · DO₂ · VO₂ · O₂ER',
+        subtitle: 'Hb·SaO₂·SvO₂ → 較差 · O₂ER',
         color: const Color(0xFF1976D2),
         page: const OxygenGapScreen(),
+      ),
+      _CalcItem(
+        icon: Icons.bloodtype,
+        title: '許容出血量',
+        subtitle: 'Hb·許容Hb·体重 → 許容出血量',
+        color: const Color(0xFFC2185B),
+        page: const AllowableBloodLossScreen(),
+      ),
+      _CalcItem(
+        icon: Icons.science,
+        title: 'メイロン BE補正',
+        subtitle: 'BE·体重 → HCO₃⁻不足分 / メイロン量',
+        color: const Color(0xFF5E35B1),
+        page: const BeCorrectionScreen(),
       ),
     ];
 
@@ -85,7 +101,7 @@ class CalculatorHubScreen extends StatelessWidget {
           children: [
             Padding(
               padding: const EdgeInsets.fromLTRB(16, 16, 16, 8),
-              child: Text('計算機',
+              child: Text('機能',
                   style: theme.textTheme.titleLarge
                       ?.copyWith(fontWeight: FontWeight.bold)),
             ),

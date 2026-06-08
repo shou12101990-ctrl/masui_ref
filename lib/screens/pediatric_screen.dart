@@ -184,6 +184,11 @@ class _PediatricScreenState extends State<PediatricScreen> {
   double get _atropMg => _wt * 0.01;
   double get _atropMl => _atropMg / 0.05;
 
+  // 仙骨硬膜外 (caudal): レボブピバカイン 0.25% (2.5 mg/mL), 極量 2.5 mg/kg
+  double get _caudalConcMgMl => 2.5; // 0.25%
+  double get _caudalMaxMg => _wt * 2.5;
+  double get _caudalMaxMl => _caudalMaxMg / _caudalConcMgMl;
+
   // ── Build ─────────────────────────────────────────────────────────────────
   @override
   Widget build(BuildContext context) {
@@ -208,7 +213,67 @@ class _PediatricScreenState extends State<PediatricScreen> {
           const SizedBox(height: 12),
           // ③ 投与量 + 記録記載 (合体)
           _dosageRecordCard(scheme),
+          const SizedBox(height: 12),
+          // ④ 仙骨硬膜外ブロック (caudal)
+          _caudalCard(scheme),
         ],
+      ),
+    );
+  }
+
+  // ── ④ 仙骨硬膜外ブロック (caudal) ─────────────────────────────────────────
+  Widget _caudalCard(ColorScheme scheme) {
+    const accent = Color(0xFF5D4037);
+    return Card(
+      child: Container(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(14),
+          border: const Border(left: BorderSide(color: accent, width: 4)),
+        ),
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Row(children: [
+              Icon(Icons.vaccines, size: 16, color: accent),
+              SizedBox(width: 6),
+              Text('仙骨硬膜外ブロック (caudal)',
+                  style: TextStyle(
+                      color: accent,
+                      fontWeight: FontWeight.bold,
+                      fontSize: 15)),
+            ]),
+            const SizedBox(height: 4),
+            const Text('レボブピバカイン 0.25%  (2.5 mg/mL)',
+                style: TextStyle(fontSize: 12, color: Colors.black54)),
+            const SizedBox(height: 14),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.baseline,
+              textBaseline: TextBaseline.alphabetic,
+              children: [
+                const SizedBox(
+                  width: 110,
+                  child: Text('極量 2.5 mg/kg',
+                      style:
+                          TextStyle(fontSize: 13, color: Colors.black54)),
+                ),
+                Text(_fmtMl(_caudalMaxMl),
+                    style: const TextStyle(
+                        fontSize: 26, fontWeight: FontWeight.bold)),
+                const Text(' mL',
+                    style: TextStyle(fontSize: 13, color: Colors.black54)),
+                const SizedBox(width: 10),
+                Text('(${_fmtMg(_caudalMaxMg)} mg)',
+                    style: const TextStyle(
+                        fontSize: 12, color: Colors.black45)),
+              ],
+            ),
+            const SizedBox(height: 10),
+            _warnBadge(
+                '投与量の目安: 仙骨〜下胸部 0.5–1.0 mL/kg（必ず極量以内に）. '
+                '吸引テストで血管内・くも膜下迷入を確認し分割投与する.'),
+          ],
+        ),
       ),
     );
   }
