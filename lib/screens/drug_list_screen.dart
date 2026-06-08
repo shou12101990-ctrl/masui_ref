@@ -19,13 +19,8 @@ class _DrugListScreenState extends State<DrugListScreen> {
   List<Drug> get _filtered {
     final q = _query.trim().toLowerCase();
     return kDrugs.where((d) {
-      // 鎮静薬タブは吸入麻酔薬を統合して表示
-      final matchesCategory = _category == null
-          ? true
-          : _category == DrugCategory.sedative
-              ? (d.category == DrugCategory.sedative ||
-                  d.category == DrugCategory.inhalational)
-              : d.category == _category;
+      // クラスは統合せず、各カテゴリ単独で絞り込む
+      final matchesCategory = _category == null || d.category == _category;
       final matchesQuery = q.isEmpty || d.searchText.contains(q);
       return matchesCategory && matchesQuery;
     }).toList();
@@ -73,7 +68,7 @@ class _DrugListScreenState extends State<DrugListScreen> {
               ),
             ),
             SizedBox(
-              height: 44,
+              height: 48,
               child: ListView(
                 scrollDirection: Axis.horizontal,
                 padding: const EdgeInsets.symmetric(horizontal: 12),
@@ -83,14 +78,13 @@ class _DrugListScreenState extends State<DrugListScreen> {
                     selected: _category == null,
                     onTap: () => setState(() => _category = null),
                   ),
+                  // クラスは重ねず全カテゴリを単独表示（横スクロール）
                   for (final c in DrugCategory.values)
-                    // 吸入麻酔薬は鎮静薬タブに統合済み
-                    if (c != DrugCategory.inhalational)
-                      _CategoryChip(
-                        label: c.label,
-                        selected: _category == c,
-                        onTap: () => setState(() => _category = c),
-                      ),
+                    _CategoryChip(
+                      label: c.label,
+                      selected: _category == c,
+                      onTap: () => setState(() => _category = c),
+                    ),
                 ],
               ),
             ),
@@ -125,19 +119,24 @@ class _CategoryChip extends StatelessWidget {
     final scheme = Theme.of(context).colorScheme;
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 4),
-      child: ChoiceChip(
-        label: Text(label),
-        selected: selected,
-        onSelected: (_) => onTap(),
-        showCheckmark: false,
-        selectedColor: scheme.primary,
-        labelStyle: TextStyle(
-          color: selected ? Colors.white : Colors.black87,
-          fontSize: 12.5,
-          fontWeight: selected ? FontWeight.bold : FontWeight.normal,
+      child: Center(
+        child: ChoiceChip(
+          label: Text(label, maxLines: 1, softWrap: false),
+          selected: selected,
+          onSelected: (_) => onTap(),
+          showCheckmark: false,
+          selectedColor: scheme.primary,
+          labelStyle: TextStyle(
+            color: selected ? Colors.white : Colors.black87,
+            fontSize: 12.5,
+            fontWeight: selected ? FontWeight.bold : FontWeight.normal,
+          ),
+          backgroundColor: Colors.white,
+          side: BorderSide(color: scheme.primary.withValues(alpha: 0.3)),
+          visualDensity: VisualDensity.compact,
+          materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+          labelPadding: const EdgeInsets.symmetric(horizontal: 8),
         ),
-        backgroundColor: Colors.white,
-        side: BorderSide(color: scheme.primary.withValues(alpha: 0.3)),
       ),
     );
   }
