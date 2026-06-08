@@ -192,7 +192,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                   _EmergencySection(
                     title: '局所麻酔薬中毒 (LAST)',
                     icon: Icons.vaccines,
-                    color: Color(0xFF00695C),
+                    color: Color(0xFF78797B), // 局所麻酔薬に合わせた灰色
                     protocols: [
                       _Protocol(
                         title: '局所麻酔薬全身毒性 (LAST) の対応',
