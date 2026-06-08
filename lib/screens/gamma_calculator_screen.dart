@@ -55,18 +55,20 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   _Unit _inputUnit = _Unit.mlPerH;
 
   // ── タブ2: 複数製剤の一括流量 ──
-  final _gPhe = TextEditingController();  // フェニレフリン
-  final _gDopa = TextEditingController(); // ドパミン
-  final _gNad = TextEditingController();  // ノルアドレナリン
-  final _gDob = TextEditingController();  // ドブタミン
-  final _gLan = TextEditingController();  // ランジオロール
-  final _gAdr = TextEditingController();  // アドレナリン
+  final _gRoc = TextEditingController(text: '5');    // ロクロニウム
+  final _gPhe = TextEditingController(text: '0.1');  // フェニレフリン
+  final _gDopa = TextEditingController(text: '3');   // ドパミン
+  final _gNad = TextEditingController(text: '0.05'); // ノルアドレナリン
+  final _gDob = TextEditingController(text: '3');    // ドブタミン
+  final _gLan = TextEditingController(text: '5');    // ランジオロール
+  final _gAdr = TextEditingController(text: '0.05'); // アドレナリン
+  final _vAvp = TextEditingController(text: '0.5');  // ピトレシン (u/h)
   double _nadConc = 100;      // ノルアド 濃度(μg/mL) 既定 5mg/50mL
   double _adrConc = 100;      // アドレナリン 濃度(μg/mL) 既定 5mg/50mL
   bool _bulkExpanded = false; // 展開セクション
 
   List<TextEditingController> get _bulkCtrls =>
-      [_gPhe, _gDopa, _gNad, _gDob, _gLan, _gAdr];
+      [_gRoc, _gPhe, _gDopa, _gNad, _gDob, _gLan, _gAdr, _vAvp];
 
   @override
   void initState() {
@@ -376,6 +378,8 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
               children: [
                 _bulkHeader(),
                 const Divider(height: 12),
+                _flowRow('ロクロニウム', '10mg/mL（原液）', 10000, _gRoc),
+                const Divider(height: 14),
                 _flowRow('フェニレフリン', '1mg/10mL', 100, _gPhe),
                 const Divider(height: 14),
                 _flowRow('ドパミン', '150mg/50mL', 3000, _gDopa),
@@ -390,6 +394,8 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                   const Divider(height: 14),
                   _toggleConcRow('アドレナリン', _gAdr, _adrConc,
                       (v) => setState(() => _adrConc = v)),
+                  const Divider(height: 14),
+                  _avpRow(),
                 ],
                 const SizedBox(height: 2),
                 Align(
@@ -461,7 +467,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
         ],
       );
 
-  Widget _gammaField(TextEditingController c) => SizedBox(
+  Widget _gammaField(TextEditingController c, {String hint = 'γ'}) => SizedBox(
         width: 64,
         child: TextField(
           controller: c,
@@ -470,7 +476,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
           textAlign: TextAlign.center,
           style: const TextStyle(fontSize: 14),
           decoration: InputDecoration(
-            hintText: 'γ',
+            hintText: hint,
             isDense: true,
             filled: true,
             fillColor: const Color(0xFFF7F9FA),
@@ -485,7 +491,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
 
   Widget _flowValue(double? f) => SizedBox(
         width: 76,
-        child: Text(f == null ? '—' : '${f.round()}',
+        child: Text(f == null ? '—' : f.toStringAsFixed(1),
             textAlign: TextAlign.right,
             style:
                 const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
@@ -500,6 +506,20 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
         _gammaField(c),
         const SizedBox(width: 8),
         _flowValue(_flow(concMcgPerMl, c)),
+      ],
+    );
+  }
+
+  // ピトレシン (バソプレシン): u/h 入力・1u/mL → mL/h (= u/h)
+  Widget _avpRow() {
+    final v = double.tryParse(_vAvp.text.trim());
+    return Row(
+      children: [
+        Expanded(child: _drugLabel('ピトレシン (AVP)', '1u/mL（u/h入力）')),
+        const SizedBox(width: 8),
+        _gammaField(_vAvp, hint: 'u/h'),
+        const SizedBox(width: 8),
+        _flowValue(v),
       ],
     );
   }
