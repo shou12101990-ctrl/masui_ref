@@ -67,18 +67,17 @@ class _DrugListScreenState extends State<DrugListScreen> {
                 ),
               ),
             ),
-            SizedBox(
-              height: 48,
-              child: ListView(
-                scrollDirection: Axis.horizontal,
-                padding: const EdgeInsets.symmetric(horizontal: 12),
+            // クラスは重ねず全カテゴリを単独表示・ラベル全文表示（横スクロール）
+            SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              padding: const EdgeInsets.fromLTRB(12, 2, 12, 4),
+              child: Row(
                 children: [
                   _CategoryChip(
                     label: 'すべて',
                     selected: _category == null,
                     onTap: () => setState(() => _category = null),
                   ),
-                  // クラスは重ねず全カテゴリを単独表示（横スクロール）
                   for (final c in DrugCategory.values)
                     _CategoryChip(
                       label: c.label,
@@ -119,24 +118,26 @@ class _CategoryChip extends StatelessWidget {
     final scheme = Theme.of(context).colorScheme;
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 4),
-      child: Center(
-        child: ChoiceChip(
-          label: Text(label, maxLines: 1, softWrap: false),
-          selected: selected,
-          onSelected: (_) => onTap(),
-          showCheckmark: false,
-          selectedColor: scheme.primary,
-          labelStyle: TextStyle(
-            color: selected ? Colors.white : Colors.black87,
-            fontSize: 12.5,
-            fontWeight: selected ? FontWeight.bold : FontWeight.normal,
-          ),
-          backgroundColor: Colors.white,
-          side: BorderSide(color: scheme.primary.withValues(alpha: 0.3)),
-          visualDensity: VisualDensity.compact,
-          materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-          labelPadding: const EdgeInsets.symmetric(horizontal: 8),
+      child: ChoiceChip(
+        label: Text(
+          label,
+          softWrap: false,
+          overflow: TextOverflow.visible,
         ),
+        selected: selected,
+        onSelected: (_) => onTap(),
+        showCheckmark: false,
+        selectedColor: scheme.primary,
+        labelStyle: TextStyle(
+          color: selected ? Colors.white : Colors.black87,
+          fontSize: 12.5,
+          fontWeight: selected ? FontWeight.bold : FontWeight.normal,
+        ),
+        backgroundColor: Colors.white,
+        side: BorderSide(color: scheme.primary.withValues(alpha: 0.3)),
+        visualDensity: VisualDensity.compact,
+        materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+        labelPadding: const EdgeInsets.symmetric(horizontal: 8),
       ),
     );
   }
