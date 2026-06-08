@@ -28,6 +28,45 @@ class _PcaScreenState extends State<PcaScreen> {
   double _days = 2.0;
   bool   _drop = false;
 
+  // ── タブ2 (逆算) 入力 ──────────────────────────────────────────
+  final _wt2   = TextEditingController(text: '60');
+  final _fen2  = TextEditingController(text: '20'); // フェンタニル mL
+  final _dro2  = TextEditingController(text: '0');  // ドロレプタン mL
+  final _ns2   = TextEditingController(text: '80'); // 生食 mL
+  final _rate2 = TextEditingController(text: '2');  // 流速 mL/h
+
+  List<TextEditingController> get _ctrl2 =>
+      [_wt2, _fen2, _dro2, _ns2, _rate2];
+
+  @override
+  void initState() {
+    super.initState();
+    for (final c in _ctrl2) {
+      c.addListener(() => setState(() {}));
+    }
+  }
+
+  @override
+  void dispose() {
+    for (final c in _ctrl2) {
+      c.dispose();
+    }
+    super.dispose();
+  }
+
+  double _pv(TextEditingController c) => double.tryParse(c.text.trim()) ?? 0;
+  double get _fentaMcg2 => _pv(_fen2) * 50.0; // 原液 50μg/mL
+  double get _total2 => _pv(_fen2) + _pv(_dro2) + _pv(_ns2);
+  double? get _conc2 => _total2 > 0 ? _fentaMcg2 / _total2 : null;
+  double? get _speed2 {
+    final w = _pv(_wt2), r = _pv(_rate2);
+    return (_conc2 != null && w > 0) ? _conc2! * r / w : null;
+  }
+  double? get _hours2 {
+    final r = _pv(_rate2);
+    return r > 0 ? _total2 / r : null;
+  }
+
   // ── 計算 ──────────────────────────────────────────────────────────────────
   /// 投与速度 (mcg/kg/h)
   double get _mcgKgH => _rate * _conc / _wt;
@@ -74,16 +113,30 @@ class _PcaScreenState extends State<PcaScreen> {
   Widget build(BuildContext context) {
     final scheme = Theme.of(context).colorScheme;
 
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('iv PCA 設計'),
-        backgroundColor: scheme.primary,
-        foregroundColor: Colors.white,
-        elevation: 0,
-      ),
-      body: ListView(
-        padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
-        children: [
+    return DefaultTabController(
+      length: 2,
+      child: Scaffold(
+        appBar: AppBar(
+          title: const Text('iv PCA 設計'),
+          backgroundColor: scheme.primary,
+          foregroundColor: Colors.white,
+          elevation: 0,
+          bottom: const TabBar(
+            labelColor: Colors.white,
+            unselectedLabelColor: Colors.white70,
+            indicatorColor: Colors.white,
+            tabs: [
+              Tab(text: '設計（流速→調製）'),
+              Tab(text: '逆算（調製→速度）'),
+            ],
+          ),
+        ),
+        body: TabBarView(
+          children: [
+            // ── タブ1: 設計 ──
+            ListView(
+              padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
+              children: [
 
           // ── 入力 ──────────────────────────────────────────────────────────
           Card(
@@ -249,8 +302,117 @@ class _PcaScreenState extends State<PcaScreen> {
               ('予測期間',     '${_fmtD(_durDays)} 日'),
             ]),
           ),
-        ],
+              ],
+            ),
+            // ── タブ2: 逆算 ──
+            _reverseTab(scheme),
+          ],
+        ),
       ),
+    );
+  }
+
+  // ── タブ2: 逆算（調製内容 → 速度・もち時間）─────────────────────
+  Widget _reverseTab(ColorScheme scheme) {
+    final hrs = _hours2;
+    String dur = '—';
+    if (hrs != null) {
+      final d = hrs ~/ 24;
+      final h = (hrs - d * 24).round();
+      dur = d > 0 ? '$d 日 $h 時間' : '$h 時間';
+    }
+    return ListView(
+      padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
+      children: [
+        Card(
+          child: Padding(
+            padding: const EdgeInsets.all(16),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text('調製内容を入力',
+                    style: TextStyle(
+                        color: scheme.primary,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 13)),
+                const SizedBox(height: 12),
+                _in2('体重', _wt2, 'kg'),
+                _in2('フェンタニル', _fen2, 'mL'),
+                _in2('ドロレプタン', _dro2, 'mL'),
+                _in2('生食', _ns2, 'mL'),
+                _in2('流速', _rate2, 'mL/h'),
+                const SizedBox(height: 4),
+                Text('※ フェンタニルは原液 50 μg/mL として計算',
+                    style: TextStyle(
+                        fontSize: 11, color: Colors.grey.shade500)),
+              ],
+            ),
+          ),
+        ),
+        const SizedBox(height: 10),
+        _resultCard(
+          scheme: scheme,
+          title: '計算結果  (総液量 ${_total2.toStringAsFixed(0)} mL)',
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              _outRow('濃度', _conc2 == null ? '—' : _conc2!.toStringAsFixed(1),
+                  'μg/mL'),
+              const Divider(height: 18),
+              _outRow('投与速度',
+                  _speed2 == null ? '—' : _speed2!.toStringAsFixed(2),
+                  'μg/kg/h'),
+              const Divider(height: 18),
+              _outRow('もつ時間', dur, ''),
+            ],
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _in2(String label, TextEditingController c, String unit) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 5),
+      child: Row(children: [
+        SizedBox(
+            width: 96,
+            child: Text(label, style: const TextStyle(fontSize: 14))),
+        SizedBox(
+          width: 92,
+          child: TextField(
+            controller: c,
+            keyboardType:
+                const TextInputType.numberWithOptions(decimal: true),
+            decoration: const InputDecoration(
+              isDense: true,
+              contentPadding:
+                  EdgeInsets.symmetric(horizontal: 10, vertical: 10),
+              border: OutlineInputBorder(),
+            ),
+            style: const TextStyle(fontSize: 15),
+          ),
+        ),
+        const SizedBox(width: 8),
+        Text(unit, style: const TextStyle(fontSize: 13, color: Colors.black54)),
+      ]),
+    );
+  }
+
+  Widget _outRow(String label, String value, String unit) {
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.baseline,
+      textBaseline: TextBaseline.alphabetic,
+      children: [
+        SizedBox(
+            width: 90,
+            child: Text(label,
+                style: const TextStyle(fontSize: 13, color: Colors.black54))),
+        Text(value,
+            style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
+        const SizedBox(width: 5),
+        Text(unit, style: const TextStyle(fontSize: 13, color: Colors.black54)),
+      ],
     );
   }
 

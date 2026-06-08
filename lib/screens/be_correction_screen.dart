@@ -17,7 +17,7 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
   static const _conc84 = 1.0;    // 8.4% = 1 mEq/mL
   static const _conc7 = 0.833;   // 7%  = 0.833 mEq/mL
 
-  final _beCtrl = TextEditingController();
+  final _beCtrl = TextEditingController(text: '10');
   final _wtCtrl = TextEditingController(text: '60');
 
   List<TextEditingController> get _all => [_beCtrl, _wtCtrl];
@@ -38,9 +38,10 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
     super.dispose();
   }
 
-  double? get _be {
+  // 入力は正の数（塩基不足の大きさ）。BE = −_beMag として扱う。
+  double? get _beMag {
     final v = double.tryParse(_beCtrl.text.trim());
-    return v;
+    return v == null ? null : v.abs();
   }
 
   double? get _wt {
@@ -48,11 +49,10 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
     return (v != null && v > 0) ? v : null;
   }
 
-  // HCO3⁻不足分 (mEq) — BEが負のときのみ
+  // HCO3⁻不足分 (mEq) = 0.3 × 体重 × |BE|
   double? get _deficit {
-    if (_be == null || _wt == null) return null;
-    if (_be! >= 0) return 0;
-    return 0.3 * _wt! * _be!.abs();
+    if (_beMag == null || _wt == null) return null;
+    return 0.3 * _wt! * _beMag!;
   }
 
   // 半量補正 (mEq)
@@ -77,44 +77,6 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
         child: ListView(
           padding: const EdgeInsets.all(16),
           children: [
-            // ── カテコラミン禁忌 警告 ──
-            Container(
-              padding: const EdgeInsets.all(12),
-              decoration: BoxDecoration(
-                color: Colors.red.shade50,
-                borderRadius: BorderRadius.circular(12),
-                border: Border.all(color: Colors.red.shade300),
-              ),
-              child: Row(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Icon(Icons.warning_amber_rounded,
-                      color: Colors.red.shade700, size: 20),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    child: Text.rich(
-                      TextSpan(children: [
-                        const TextSpan(
-                            text: 'カテコラミンとメイロンの同一ルートからの投与は',
-                            style: TextStyle(fontSize: 12.5, height: 1.5)),
-                        TextSpan(
-                            text: 'カテコラミンが失活するため禁止',
-                            style: TextStyle(
-                                fontSize: 12.5,
-                                height: 1.5,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.red.shade700)),
-                        const TextSpan(
-                            text: '。別ルートから投与すること。',
-                            style: TextStyle(fontSize: 12.5, height: 1.5)),
-                      ]),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-            const SizedBox(height: 12),
-
             // ── 入力 ──
             Card(
               child: Padding(
@@ -126,7 +88,8 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
                         style: theme.textTheme.titleSmall
                             ?.copyWith(fontWeight: FontWeight.bold)),
                     const SizedBox(height: 12),
-                    _InputRow('BE (mEq/L)', _beCtrl, hint: '例: -7', signed: true),
+                    _InputRow('BE（正の数で入力）', _beCtrl,
+                        hint: '例: 10 → BE −10'),
                     _InputRow('体重 (kg)', _wtCtrl),
                   ],
                 ),
@@ -187,7 +150,7 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
                   padding: const EdgeInsets.symmetric(
                       horizontal: 16, vertical: 24),
                   child: Center(
-                    child: Text('BE ≥ 0 のため補正不要',
+                    child: Text('入力が 0 のため補正不要',
                         style: TextStyle(color: Colors.grey.shade600)),
                   ),
                 ),
@@ -232,6 +195,44 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
                     ),
                   ],
                 ),
+              ),
+            ),
+            const SizedBox(height: 12),
+
+            // ── カテコラミン禁忌 警告（下部）──
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.red.shade50,
+                borderRadius: BorderRadius.circular(12),
+                border: Border.all(color: Colors.red.shade300),
+              ),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Icon(Icons.warning_amber_rounded,
+                      color: Colors.red.shade700, size: 20),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text.rich(
+                      TextSpan(children: [
+                        const TextSpan(
+                            text: 'カテコラミンとメイロンの同一ルートからの投与は',
+                            style: TextStyle(fontSize: 12.5, height: 1.5)),
+                        TextSpan(
+                            text: 'カテコラミンが失活するため禁止',
+                            style: TextStyle(
+                                fontSize: 12.5,
+                                height: 1.5,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.red.shade700)),
+                        const TextSpan(
+                            text: '。別ルートから投与すること。',
+                            style: TextStyle(fontSize: 12.5, height: 1.5)),
+                      ]),
+                    ),
+                  ),
+                ],
               ),
             ),
           ],

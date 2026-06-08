@@ -83,8 +83,8 @@ enum DrugCategory {
         DrugCategory.inhalational => const Color(0xFFFFF0A8),    // PMS 109系 : 吸入麻酔薬 (UI区別のため淡黄)
         DrugCategory.muscleRelaxant => const Color(0xFFEF3340),  // PMS Red032: 筋弛緩薬 標準赤
         DrugCategory.analgesic => const Color(0xFF7EC8E3),       // PMS 297   : 鎮痛薬/麻薬 ライトブルー
-        DrugCategory.vasopressor => const Color(0xFF8B5CF6),     // PMS 267   : 昇圧薬 バイオレット
-        DrugCategory.vasodilator => const Color(0xFF8B5CF6),     // PMS 267   : 降圧薬 (+ 斜線)
+        DrugCategory.vasopressor => const Color(0xFFB39DDB),     // 昇圧薬 : 淡い明るいバイオレット
+        DrugCategory.vasodilator => const Color(0xFFB39DDB),     // 降圧薬 : 淡い明るいバイオレット (+ 斜線)
         DrugCategory.localAnesthetic => const Color(0xFF97999B), // Cool Gray7 : 局所麻酔薬 標準灰
         DrugCategory.anticoagulant => const Color(0xFFB52020),   // 凝固系 : 血色 (blood red)
         DrugCategory.steroid => const Color(0xFFEF8C00),         // ステロイド : warm orange
