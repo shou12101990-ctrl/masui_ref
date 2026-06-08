@@ -134,11 +134,12 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
               child: Padding(
                 padding: const EdgeInsets.fromLTRB(16, 12, 16, 12),
                 child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     const Text('体重',
                         style: TextStyle(
                             fontSize: 14, fontWeight: FontWeight.bold)),
-                    const Spacer(),
+                    const SizedBox(width: 16),
                     _RoundBtn(
                       icon: Icons.remove,
                       onTap: () => setState(
@@ -191,45 +192,62 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                       ),
                     ),
                     _times(),
-                    // B: 濃度
+                    // B: 濃度（ボタンは上下中央・タイトルは上）
                     Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
                           _colTitle('濃度'),
                           const SizedBox(height: 8),
-                          for (final c in _concs) ...[
-                            _ChoiceBtn(
-                              label: '${_fmtPct(c)}%',
-                              selected: _conc == c,
-                              color: _accent,
-                              onTap: () => setState(() => _conc = c),
+                          Expanded(
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              crossAxisAlignment: CrossAxisAlignment.stretch,
+                              children: [
+                                for (int i = 0; i < _concs.length; i++) ...[
+                                  if (i > 0) const SizedBox(height: 8),
+                                  _ChoiceBtn(
+                                    label: '${_fmtPct(_concs[i])}%',
+                                    selected: _conc == _concs[i],
+                                    color: _accent,
+                                    onTap: () =>
+                                        setState(() => _conc = _concs[i]),
+                                  ),
+                                ],
+                              ],
                             ),
-                            const SizedBox(height: 8),
-                          ],
+                          ),
                         ],
                       ),
                     ),
                     _times(),
-                    // C: エピ添加
+                    // C: エピ添加（ボタンは上下中央・タイトルは上）
                     Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
                           _colTitle('エピ'),
                           const SizedBox(height: 8),
-                          _ChoiceBtn(
-                            label: 'なし',
-                            selected: !_epi,
-                            color: _accent,
-                            onTap: () => setState(() => _epi = false),
-                          ),
-                          const SizedBox(height: 8),
-                          _ChoiceBtn(
-                            label: 'あり',
-                            selected: _epi,
-                            color: _accent,
-                            onTap: () => setState(() => _epi = true),
+                          Expanded(
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              crossAxisAlignment: CrossAxisAlignment.stretch,
+                              children: [
+                                _ChoiceBtn(
+                                  label: 'なし',
+                                  selected: !_epi,
+                                  color: _accent,
+                                  onTap: () => setState(() => _epi = false),
+                                ),
+                                const SizedBox(height: 8),
+                                _ChoiceBtn(
+                                  label: 'あり',
+                                  selected: _epi,
+                                  color: _accent,
+                                  onTap: () => setState(() => _epi = true),
+                                ),
+                              ],
+                            ),
                           ),
                         ],
                       ),
@@ -294,7 +312,7 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                             color: Colors.grey.shade200, width: 0.8),
                       ),
                       columnWidths: const {
-                        0: FlexColumnWidth(1.7),
+                        0: FlexColumnWidth(2.3),
                         1: FlexColumnWidth(1.0),
                         2: FlexColumnWidth(1.0),
                       },
@@ -315,7 +333,26 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                                     ? _accent.withValues(alpha: 0.10)
                                     : null),
                             children: [
-                              _Cell(d.label, bold: d == _drug),
+                              Padding(
+                                padding: const EdgeInsets.symmetric(
+                                    horizontal: 8, vertical: 7),
+                                child: Column(
+                                  crossAxisAlignment:
+                                      CrossAxisAlignment.start,
+                                  children: [
+                                    Text(d.label,
+                                        style: TextStyle(
+                                            fontSize: 13,
+                                            fontWeight: d == _drug
+                                                ? FontWeight.bold
+                                                : FontWeight.normal)),
+                                    Text('<${d.brand}>',
+                                        style: TextStyle(
+                                            fontSize: 10,
+                                            color: Colors.grey.shade500)),
+                                  ],
+                                ),
+                              ),
                               _Cell(_mgkg(d.maxNoEpi), bold: d == _drug),
                               _Cell(_mgkg(d.maxEpi), bold: d == _drug),
                             ],
