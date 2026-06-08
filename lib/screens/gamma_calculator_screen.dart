@@ -51,20 +51,33 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   final _drugMg = TextEditingController(text: '150');
   final _totalMl = TextEditingController(text: '50');
   final _value = TextEditingController(text: '3');
-  int _weightKg = 60; // 体重 (ドロップダウン)
+  int _weightKg = 60; // 体重 (ドロップダウン) — 両タブ共通
   _Unit _inputUnit = _Unit.mlPerH;
+
+  // ── タブ2: 複数製剤の一括流量 ──
+  final _gPhe = TextEditingController();  // フェニレフリン
+  final _gDopa = TextEditingController(); // ドパミン
+  final _gNad = TextEditingController();  // ノルアドレナリン
+  final _gDob = TextEditingController();  // ドブタミン
+  final _gLan = TextEditingController();  // ランジオロール
+  final _gAdr = TextEditingController();  // アドレナリン
+  bool _nadHigh = true;       // true: 5mg/50mL(100μg/mL) / false: 3mg/50mL(60μg/mL)
+  bool _bulkExpanded = false; // 展開セクション
+
+  List<TextEditingController> get _bulkCtrls =>
+      [_gPhe, _gDopa, _gNad, _gDob, _gLan, _gAdr];
 
   @override
   void initState() {
     super.initState();
-    for (final c in [_drugMg, _totalMl, _value]) {
+    for (final c in [_drugMg, _totalMl, _value, ..._bulkCtrls]) {
       c.addListener(() => setState(() {}));
     }
   }
 
   @override
   void dispose() {
-    for (final c in [_drugMg, _totalMl, _value]) {
+    for (final c in [_drugMg, _totalMl, _value, ..._bulkCtrls]) {
       c.dispose();
     }
     super.dispose();
@@ -122,18 +135,42 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
-    final conc = _concMgPerMl;
 
-    return Scaffold(
-      backgroundColor: theme.scaffoldBackgroundColor,
-      appBar: AppBar(
-        title: const Text('γ 計算機'),
-        backgroundColor: scheme.primary,
-        foregroundColor: Colors.white,
-        elevation: 0,
+    return DefaultTabController(
+      length: 2,
+      child: Scaffold(
+        backgroundColor: theme.scaffoldBackgroundColor,
+        appBar: AppBar(
+          title: const Text('γ 計算機'),
+          backgroundColor: scheme.primary,
+          foregroundColor: Colors.white,
+          elevation: 0,
+          bottom: const TabBar(
+            labelColor: Colors.white,
+            unselectedLabelColor: Colors.white70,
+            indicatorColor: Colors.white,
+            tabs: [
+              Tab(text: 'γ変換'),
+              Tab(text: '一括流量'),
+            ],
+          ),
+        ),
+        body: SafeArea(
+          child: TabBarView(
+            children: [
+              _gammaTab(theme, scheme),
+              _bulkTab(theme, scheme),
+            ],
+          ),
+        ),
       ),
-      body: SafeArea(
-        child: ListView(
+    );
+  }
+
+  // ── タブ1: γ変換（既存機能）────────────────────────────────
+  Widget _gammaTab(ThemeData theme, ColorScheme scheme) {
+    final conc = _concMgPerMl;
+    return ListView(
           padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
           children: [
             Text('単位を選んで相互変換 (γ = μg/kg/min)',
@@ -281,8 +318,224 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
             // ── 換算結果 ─────────────────────────────────────────────────
             _ResultCard(result: _result, inputUnit: _inputUnit),
           ],
+        );
+  }
+
+  // ── タブ2: 複数製剤の一括流量 ───────────────────────────────
+  Widget _bulkTab(ThemeData theme, ColorScheme scheme) {
+    return ListView(
+      padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
+      children: [
+        Text('体重と各製剤のγを入力 → 流量 (mL/h) を一括算出',
+            style: theme.textTheme.bodySmall?.copyWith(color: Colors.black54)),
+        const SizedBox(height: 12),
+        // 体重
+        Card(
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(14, 12, 14, 12),
+            child: Row(
+              children: [
+                _groupLabel('体重', scheme),
+                const SizedBox(width: 14),
+                SizedBox(
+                  width: 120,
+                  child: DropdownButtonFormField<int>(
+                    value: _weightKg,
+                    isExpanded: true,
+                    decoration: InputDecoration(
+                      suffixText: 'kg',
+                      isDense: true,
+                      filled: true,
+                      fillColor: const Color(0xFFF7F9FA),
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(10),
+                        borderSide: BorderSide.none,
+                      ),
+                      contentPadding: const EdgeInsets.symmetric(
+                          horizontal: 10, vertical: 12),
+                    ),
+                    items: _weightOptions
+                        .map((w) => DropdownMenuItem(
+                            value: w,
+                            child: Text('$w',
+                                style: const TextStyle(fontSize: 14))))
+                        .toList(),
+                    onChanged: (w) {
+                      if (w != null) setState(() => _weightKg = w);
+                    },
+                  ),
+                ),
+              ],
+            ),
+          ),
         ),
-      ),
+        const SizedBox(height: 12),
+        // 製剤リスト
+        Card(
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(14, 10, 14, 12),
+            child: Column(
+              children: [
+                _bulkHeader(),
+                const Divider(height: 12),
+                _flowRow('フェニレフリン', '1mg/10mL', 100, _gPhe),
+                const Divider(height: 14),
+                _flowRow('ドパミン', '150mg/50mL', 3000, _gDopa),
+                const Divider(height: 14),
+                _nadRow(),
+                if (_bulkExpanded) ...[
+                  const Divider(height: 14),
+                  _flowRow('ドブタミン', '150mg/50mL', 3000, _gDob),
+                  const Divider(height: 14),
+                  _flowRow('ランジオロール', '150mg/50mL', 3000, _gLan),
+                  const Divider(height: 14),
+                  _flowRow('アドレナリン', '3mg/50mL', 60, _gAdr),
+                ],
+                const SizedBox(height: 2),
+                Align(
+                  alignment: Alignment.centerLeft,
+                  child: TextButton.icon(
+                    onPressed: () =>
+                        setState(() => _bulkExpanded = !_bulkExpanded),
+                    icon: Icon(
+                        _bulkExpanded
+                            ? Icons.expand_less
+                            : Icons.expand_more,
+                        size: 18),
+                    label: Text(_bulkExpanded
+                        ? '閉じる'
+                        : '展開（ドブタミン・ランジオロール・アドレナリン）'),
+                    style: TextButton.styleFrom(
+                        foregroundColor: scheme.primary,
+                        padding: const EdgeInsets.symmetric(horizontal: 4),
+                        textStyle: const TextStyle(fontSize: 12)),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+        const SizedBox(height: 8),
+        Text('流量 (mL/h) = γ × 体重 × 60 ÷ 濃度(μg/mL)',
+            style: TextStyle(fontSize: 11, color: Colors.grey.shade500)),
+      ],
+    );
+  }
+
+  // 流量 (mL/h) = γ × 体重 × 60 / 濃度(μg/mL)
+  double? _flow(double concMcgPerMl, TextEditingController c) {
+    final g = double.tryParse(c.text.trim());
+    if (g == null) return null;
+    return g * _weightKg * 60 / concMcgPerMl;
+  }
+
+  Widget _bulkHeader() => const Padding(
+        padding: EdgeInsets.only(bottom: 2),
+        child: Row(children: [
+          Expanded(
+              child: Text('製剤',
+                  style: TextStyle(fontSize: 11, color: Colors.black45))),
+          SizedBox(width: 8),
+          SizedBox(
+              width: 64,
+              child: Text('γ',
+                  textAlign: TextAlign.center,
+                  style: TextStyle(fontSize: 11, color: Colors.black45))),
+          SizedBox(width: 8),
+          SizedBox(
+              width: 76,
+              child: Text('mL/h',
+                  textAlign: TextAlign.right,
+                  style: TextStyle(fontSize: 11, color: Colors.black45))),
+        ]),
+      );
+
+  Widget _drugLabel(String name, String dilution) => Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(name,
+              style:
+                  const TextStyle(fontSize: 13, fontWeight: FontWeight.w600)),
+          Text(dilution,
+              style: TextStyle(fontSize: 10, color: Colors.grey.shade500)),
+        ],
+      );
+
+  Widget _gammaField(TextEditingController c) => SizedBox(
+        width: 64,
+        child: TextField(
+          controller: c,
+          keyboardType: const TextInputType.numberWithOptions(decimal: true),
+          inputFormatters: [FilteringTextInputFormatter.allow(RegExp(r'[0-9.]'))],
+          textAlign: TextAlign.center,
+          style: const TextStyle(fontSize: 14),
+          decoration: InputDecoration(
+            hintText: 'γ',
+            isDense: true,
+            filled: true,
+            fillColor: const Color(0xFFF7F9FA),
+            contentPadding:
+                const EdgeInsets.symmetric(horizontal: 8, vertical: 10),
+            border: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(8),
+                borderSide: BorderSide.none),
+          ),
+        ),
+      );
+
+  Widget _flowValue(double? f) => SizedBox(
+        width: 76,
+        child: Text(f == null ? '—' : _fmt(f),
+            textAlign: TextAlign.right,
+            style:
+                const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
+      );
+
+  Widget _flowRow(
+      String name, String dilution, double concMcgPerMl, TextEditingController c) {
+    return Row(
+      children: [
+        Expanded(child: _drugLabel(name, dilution)),
+        const SizedBox(width: 8),
+        _gammaField(c),
+        const SizedBox(width: 8),
+        _flowValue(_flow(concMcgPerMl, c)),
+      ],
+    );
+  }
+
+  Widget _nadRow() {
+    final conc = _nadHigh ? 100.0 : 60.0;
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          children: [
+            Expanded(
+                child: _drugLabel(
+                    'ノルアドレナリン', _nadHigh ? '5mg/50mL' : '3mg/50mL')),
+            const SizedBox(width: 8),
+            _gammaField(_gNad),
+            const SizedBox(width: 8),
+            _flowValue(_flow(conc, _gNad)),
+          ],
+        ),
+        const SizedBox(height: 6),
+        SegmentedButton<bool>(
+          segments: const [
+            ButtonSegment(value: true, label: Text('5mg/50mL')),
+            ButtonSegment(value: false, label: Text('3mg/50mL')),
+          ],
+          selected: {_nadHigh},
+          onSelectionChanged: (s) => setState(() => _nadHigh = s.first),
+          style: ButtonStyle(
+            visualDensity: VisualDensity.compact,
+            tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+            textStyle:
+                WidgetStateProperty.all(const TextStyle(fontSize: 11)),
+          ),
+        ),
+      ],
     );
   }
 
