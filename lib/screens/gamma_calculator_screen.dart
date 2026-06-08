@@ -61,7 +61,8 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   final _gDob = TextEditingController();  // ドブタミン
   final _gLan = TextEditingController();  // ランジオロール
   final _gAdr = TextEditingController();  // アドレナリン
-  bool _nadHigh = true;       // true: 5mg/50mL(100μg/mL) / false: 3mg/50mL(60μg/mL)
+  double _nadConc = 100;      // ノルアド 濃度(μg/mL) 既定 5mg/50mL
+  double _adrConc = 100;      // アドレナリン 濃度(μg/mL) 既定 5mg/50mL
   bool _bulkExpanded = false; // 展開セクション
 
   List<TextEditingController> get _bulkCtrls =>
@@ -382,14 +383,16 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                 const Divider(height: 14),
                 _flowRow('ドパミン', '150mg/50mL', 3000, _gDopa),
                 const Divider(height: 14),
-                _nadRow(),
+                _toggleConcRow('ノルアドレナリン', _gNad, _nadConc,
+                    (v) => setState(() => _nadConc = v)),
                 if (_bulkExpanded) ...[
                   const Divider(height: 14),
                   _flowRow('ドブタミン', '150mg/50mL', 3000, _gDob),
                   const Divider(height: 14),
                   _flowRow('ランジオロール', '150mg/50mL', 3000, _gLan),
                   const Divider(height: 14),
-                  _flowRow('アドレナリン', '3mg/50mL', 60, _gAdr),
+                  _toggleConcRow('アドレナリン', _gAdr, _adrConc,
+                      (v) => setState(() => _adrConc = v)),
                 ],
                 const SizedBox(height: 2),
                 Align(
@@ -504,35 +507,50 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
     );
   }
 
-  Widget _nadRow() {
-    final conc = _nadHigh ? 100.0 : 60.0;
+  // 濃度選択肢 (μg/mL, 表示ラベル)
+  static const _concOpts = <(double, String)>[
+    (100.0, '5mg/50mL'),
+    (60.0, '3mg/50mL'),
+    (20.0, '1mg/50mL'),
+  ];
+
+  // 濃度を切替できる製剤行（ノルアド・アドレナリン用）
+  Widget _toggleConcRow(String name, TextEditingController c, double conc,
+      ValueChanged<double> onChanged) {
+    final dilution = _concOpts
+        .firstWhere((e) => e.$1 == conc, orElse: () => _concOpts.first)
+        .$2;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Row(
           children: [
-            Expanded(
-                child: _drugLabel(
-                    'ノルアドレナリン', _nadHigh ? '5mg/50mL' : '3mg/50mL')),
+            Expanded(child: _drugLabel(name, dilution)),
             const SizedBox(width: 8),
-            _gammaField(_gNad),
+            _gammaField(c),
             const SizedBox(width: 8),
-            _flowValue(_flow(conc, _gNad)),
+            _flowValue(_flow(conc, c)),
           ],
         ),
         const SizedBox(height: 6),
-        SegmentedButton<bool>(
-          segments: const [
-            ButtonSegment(value: true, label: Text('5mg/50mL')),
-            ButtonSegment(value: false, label: Text('3mg/50mL')),
-          ],
-          selected: {_nadHigh},
-          onSelectionChanged: (s) => setState(() => _nadHigh = s.first),
-          style: ButtonStyle(
-            visualDensity: VisualDensity.compact,
-            tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-            textStyle:
-                WidgetStateProperty.all(const TextStyle(fontSize: 11)),
+        SizedBox(
+          width: double.infinity,
+          child: SegmentedButton<double>(
+            segments: _concOpts
+                .map((e) =>
+                    ButtonSegment(value: e.$1, label: Text(e.$2)))
+                .toList(),
+            selected: {conc},
+            onSelectionChanged: (s) => onChanged(s.first),
+            showSelectedIcon: false,
+            style: ButtonStyle(
+              visualDensity: VisualDensity.compact,
+              tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+              padding: WidgetStateProperty.all(
+                  const EdgeInsets.symmetric(horizontal: 6)),
+              textStyle:
+                  WidgetStateProperty.all(const TextStyle(fontSize: 10.5)),
+            ),
           ),
         ),
       ],

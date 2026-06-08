@@ -37,14 +37,14 @@ class _MarkPainter extends CustomPainter {
       RRect.fromRectAndRadius(Offset.zero & size, const Radius.circular(3)),
       Paint()..color = color,
     );
-    // 黒縁（全薬剤共通）
+    // チャコールグレー縁（全薬剤共通）
     canvas.drawRRect(
       RRect.fromRectAndRadius(
         Rect.fromLTWH(0.5, 0.5, size.width - 1, size.height - 1),
         const Radius.circular(2.5),
       ),
       Paint()
-        ..color = Colors.black
+        ..color = const Color(0xFF36454F)
         ..style = PaintingStyle.stroke
         ..strokeWidth = 1.2,
     );
