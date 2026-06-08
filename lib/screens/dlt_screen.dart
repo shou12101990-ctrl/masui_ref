@@ -68,7 +68,75 @@ class _DltScreenState extends State<DltScreen> {
         child: ListView(
           padding: const EdgeInsets.all(16),
           children: [
-            // ─ 入力カード ─
+            // ─ CT実測 気管径/気管支径 表（実臨床ではこちらで選ぶことが多い）─
+            Card(
+              child: Padding(
+                padding: const EdgeInsets.all(16),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text('CT実測（気管径・気管支径）',
+                        style: theme.textTheme.titleSmall
+                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    const SizedBox(height: 4),
+                    Text('術前CT・胸部Xpで径を実測できる場合はこちらで選択するのが確実',
+                        style: TextStyle(
+                            fontSize: 11, color: Colors.grey.shade600)),
+                    const SizedBox(height: 10),
+                    Table(
+                      border: TableBorder.symmetric(
+                        inside: BorderSide(
+                            color: Colors.grey.shade200, width: 0.8),
+                      ),
+                      columnWidths: const {
+                        0: FlexColumnWidth(1.1),
+                        1: FlexColumnWidth(1.1),
+                        2: FlexColumnWidth(1.3),
+                      },
+                      children: [
+                        TableRow(
+                          decoration:
+                              BoxDecoration(color: Colors.grey.shade100),
+                          children: const [
+                            _TH('気管径'),
+                            _TH('気管支径'),
+                            _TH('DLT size'),
+                          ],
+                        ),
+                        for (final r in const [
+                          ['> 18 mm', '> 12 mm', '41 or 39 Fr'],
+                          ['> 16 mm', '12 mm', '39 or 37 Fr'],
+                          ['> 15 mm', '11 mm', '37 Fr'],
+                          ['> 14 mm', '10 mm', '35 Fr'],
+                          ['> 12.5 mm', '< 10 mm', '32 Fr'],
+                        ])
+                          TableRow(children: [
+                            _TDStyled(r[0], const TextStyle(fontSize: 13)),
+                            _TDStyled(r[1], const TextStyle(fontSize: 13)),
+                            _TDStyled(
+                                r[2],
+                                const TextStyle(
+                                    fontSize: 13,
+                                    fontWeight: FontWeight.w600)),
+                          ]),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Text(
+                      '※ 左用DLTは左主気管支径から、右用は気管径からも選択する。'
+                      '気管支径は左主気管支径を指す。',
+                      style: TextStyle(
+                          fontSize: 11,
+                          color: Colors.grey.shade600,
+                          height: 1.5),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            const SizedBox(height: 12),
+
+            // ─ 入力カード（身長・性別 / Brodsky法）─
             Card(
               child: Padding(
                 padding: const EdgeInsets.all(16),
@@ -192,74 +260,6 @@ class _DltScreenState extends State<DltScreen> {
                           _buildRow(context, row, scheme),
                         ],
                       ],
-                    ),
-                  ],
-                ),
-              ),
-            ),
-            const SizedBox(height: 12),
-
-            // ─ CT実測 気管径/気管支径 表 ─
-            Card(
-              child: Padding(
-                padding: const EdgeInsets.all(16),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text('CT実測（気管径・気管支径）',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 4),
-                    Text('術前CT・胸部Xpで径を実測できる場合はこちらがより正確',
-                        style: TextStyle(
-                            fontSize: 11, color: Colors.grey.shade600)),
-                    const SizedBox(height: 10),
-                    Table(
-                      border: TableBorder.symmetric(
-                        inside: BorderSide(
-                            color: Colors.grey.shade200, width: 0.8),
-                      ),
-                      columnWidths: const {
-                        0: FlexColumnWidth(1.1),
-                        1: FlexColumnWidth(1.1),
-                        2: FlexColumnWidth(1.3),
-                      },
-                      children: [
-                        TableRow(
-                          decoration:
-                              BoxDecoration(color: Colors.grey.shade100),
-                          children: const [
-                            _TH('気管径'),
-                            _TH('気管支径'),
-                            _TH('DLT size'),
-                          ],
-                        ),
-                        for (final r in const [
-                          ['> 18 mm', '> 12 mm', '41 or 39 Fr'],
-                          ['> 16 mm', '12 mm', '39 or 37 Fr'],
-                          ['> 15 mm', '11 mm', '37 Fr'],
-                          ['> 14 mm', '10 mm', '35 Fr'],
-                          ['> 12.5 mm', '< 10 mm', '32 Fr'],
-                        ])
-                          TableRow(children: [
-                            _TDStyled(r[0], const TextStyle(fontSize: 13)),
-                            _TDStyled(r[1], const TextStyle(fontSize: 13)),
-                            _TDStyled(
-                                r[2],
-                                const TextStyle(
-                                    fontSize: 13,
-                                    fontWeight: FontWeight.w600)),
-                          ]),
-                      ],
-                    ),
-                    const SizedBox(height: 8),
-                    Text(
-                      '※ 左用DLTは左主気管支径から、右用は気管径からも選択する。'
-                      '気管支径は左主気管支径を指す。',
-                      style: TextStyle(
-                          fontSize: 11,
-                          color: Colors.grey.shade600,
-                          height: 1.5),
                     ),
                   ],
                 ),

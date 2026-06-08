@@ -72,6 +72,18 @@ String _fmtPct(double c) =>
 String _mgkg(double v) =>
     v % 1 == 0 ? v.toStringAsFixed(0) : v.toStringAsFixed(1);
 
+Widget _colTitle(String t) => Text(t,
+    textAlign: TextAlign.center,
+    style: const TextStyle(
+        fontSize: 13, fontWeight: FontWeight.bold, color: Color(0xFF6B7280)));
+
+Widget _times() => const Padding(
+      padding: EdgeInsets.only(top: 26, left: 3, right: 3),
+      child: Text('×',
+          style: TextStyle(
+              fontSize: 18, color: Colors.black38, fontWeight: FontWeight.bold)),
+    );
+
 // ─── 画面 ─────────────────────────────────────────────────────
 
 class LocalAnestheticMaxScreen extends StatefulWidget {
@@ -85,21 +97,18 @@ class LocalAnestheticMaxScreen extends StatefulWidget {
 class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
   static const _accent = Color(0xFF6B7280);
 
+  static const _concs = [0.125, 0.25, 0.375, 0.5, 0.75, 1.0];
+
   int _wt = 60;
   _LADrug _drug = _LADrug.lidocaine;
   bool _epi = false;
-  late double _conc = _drug.concList.first;
+  double _conc = 0.25;
 
   double get _maxMg => _wt * _drug.effectiveMax(_epi);
   double get _mgPerMl => _conc * 10.0;
   double get _maxMl => _maxMg / _mgPerMl;
 
-  void _selectDrug(_LADrug d) {
-    setState(() {
-      _drug = d;
-      if (!d.concList.contains(_conc)) _conc = d.concList.first;
-    });
-  }
+  void _selectDrug(_LADrug d) => setState(() => _drug = d);
 
   @override
   Widget build(BuildContext context) {
@@ -149,84 +158,78 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
             ),
             const SizedBox(height: 12),
 
-            // ── 製剤 ──
+            // ── 製剤 × 濃度 × エピ ──
             Card(
               child: Padding(
-                padding: const EdgeInsets.all(16),
-                child: Column(
+                padding: const EdgeInsets.all(14),
+                child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('製剤',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 10),
-                    Wrap(
-                      spacing: 8,
-                      runSpacing: 8,
-                      children: _LADrug.values
-                          .map((d) => _ChoiceBtn(
-                                label: d.label,
-                                sub: '${d.maxNoEpi.toStringAsFixed(d.maxNoEpi % 1 == 0 ? 0 : 1)} mg/kg',
-                                selected: _drug == d,
-                                color: _accent,
-                                onTap: () => _selectDrug(d),
-                              ))
-                          .toList(),
-                    ),
-                    const Divider(height: 24),
-                    Row(
-                      children: [
-                        const Text('エピネフリン',
-                            style: TextStyle(fontSize: 13)),
-                        const SizedBox(width: 12),
-                        SegmentedButton<bool>(
-                          segments: const [
-                            ButtonSegment(value: false, label: Text('なし')),
-                            ButtonSegment(value: true, label: Text('あり')),
+                    // A: 製剤
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          _colTitle('製剤'),
+                          const SizedBox(height: 8),
+                          for (final d in _LADrug.values) ...[
+                            _ChoiceBtn(
+                              label: d.label,
+                              sub: '${_mgkg(d.maxNoEpi)} mg/kg',
+                              selected: _drug == d,
+                              color: _accent,
+                              onTap: () => _selectDrug(d),
+                            ),
+                            const SizedBox(height: 8),
                           ],
-                          selected: {_epi},
-                          onSelectionChanged: (s) =>
-                              setState(() => _epi = s.first),
-                          style: const ButtonStyle(
-                            tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                          ),
-                        ),
-                        const Spacer(),
-                        if (!_drug.epiChangesMax)
-                          const Text('上限変化なし',
-                              style: TextStyle(
-                                  fontSize: 11, color: Colors.black45)),
-                      ],
+                        ],
+                      ),
                     ),
-                  ],
-                ),
-              ),
-            ),
-            const SizedBox(height: 12),
-
-            // ── 濃度 ──
-            Card(
-              child: Padding(
-                padding: const EdgeInsets.all(16),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text('濃度',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 10),
-                    Wrap(
-                      spacing: 8,
-                      runSpacing: 8,
-                      children: _drug.concList
-                          .map((c) => _ChoiceBtn(
-                                label: '${_fmtPct(c)} %',
-                                sub: '${(c * 10).toStringAsFixed(0)} mg/mL',
-                                selected: _conc == c,
-                                color: _accent,
-                                onTap: () => setState(() => _conc = c),
-                              ))
-                          .toList(),
+                    _times(),
+                    // B: 濃度
+                    SizedBox(
+                      width: 76,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          _colTitle('濃度'),
+                          const SizedBox(height: 8),
+                          for (final c in _concs) ...[
+                            _ChoiceBtn(
+                              label: '${_fmtPct(c)}%',
+                              selected: _conc == c,
+                              color: _accent,
+                              onTap: () => setState(() => _conc = c),
+                            ),
+                            const SizedBox(height: 8),
+                          ],
+                        ],
+                      ),
+                    ),
+                    _times(),
+                    // C: エピ添加
+                    SizedBox(
+                      width: 54,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          _colTitle('エピ'),
+                          const SizedBox(height: 8),
+                          _ChoiceBtn(
+                            label: 'なし',
+                            selected: !_epi,
+                            color: _accent,
+                            onTap: () => setState(() => _epi = false),
+                          ),
+                          const SizedBox(height: 8),
+                          _ChoiceBtn(
+                            label: 'あり',
+                            selected: _epi,
+                            color: _accent,
+                            onTap: () => setState(() => _epi = true),
+                          ),
+                        ],
+                      ),
                     ),
                   ],
                 ),
@@ -418,7 +421,7 @@ class _ChoiceBtn extends StatelessWidget {
   final VoidCallback onTap;
   const _ChoiceBtn({
     required this.label,
-    required this.sub,
+    this.sub = '',
     required this.selected,
     required this.color,
     required this.onTap,
@@ -430,7 +433,7 @@ class _ChoiceBtn extends StatelessWidget {
       onTap: onTap,
       child: AnimatedContainer(
         duration: const Duration(milliseconds: 150),
-        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
         decoration: BoxDecoration(
           color: selected ? color.withValues(alpha: 0.14) : const Color(0xFFF0F0F0),
           borderRadius: BorderRadius.circular(12),
@@ -441,15 +444,19 @@ class _ChoiceBtn extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(label,
+                textAlign: TextAlign.center,
                 style: TextStyle(
-                    fontSize: 14,
+                    fontSize: 13,
                     fontWeight: selected ? FontWeight.bold : FontWeight.w500,
                     color: selected ? Colors.black87 : Colors.black54)),
-            const SizedBox(height: 1),
-            Text(sub,
-                style: TextStyle(
-                    fontSize: 10,
-                    color: selected ? color : Colors.black38)),
+            if (sub.isNotEmpty) ...[
+              const SizedBox(height: 1),
+              Text(sub,
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 10,
+                      color: selected ? color : Colors.black38)),
+            ],
           ],
         ),
       ),

@@ -12,9 +12,9 @@ class OxygenGapScreen extends StatefulWidget {
 class _OxygenGapScreenState extends State<OxygenGapScreen> {
   static const _accent = Color(0xFF1976D2);
 
-  final _hbCtrl   = TextEditingController();
-  final _sao2Ctrl = TextEditingController();
-  final _svo2Ctrl = TextEditingController();
+  final _hbCtrl   = TextEditingController(text: '14');
+  final _sao2Ctrl = TextEditingController(text: '98');
+  final _svo2Ctrl = TextEditingController(text: '70');
 
   List<TextEditingController> get _all => [_hbCtrl, _sao2Ctrl, _svo2Ctrl];
 
