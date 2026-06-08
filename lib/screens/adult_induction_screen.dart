@@ -710,21 +710,21 @@ class _VentCardState extends State<_VentCard> {
                 width: double.infinity,
                 padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
                 decoration: BoxDecoration(
-                  color: Colors.amber.shade50,
+                  color: Colors.red.shade50,
                   borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: Colors.amber.shade400),
+                  border: Border.all(color: Colors.red.shade300),
                 ),
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Icon(Icons.info_outline, size: 14, color: Colors.amber.shade800),
+                    Icon(Icons.warning_amber_rounded, size: 15, color: Colors.red.shade700),
                     const SizedBox(width: 6),
                     Expanded(
                       child: Text(
                         '最初の換気量をみて圧調整すること',
                         style: TextStyle(
                             fontSize: 12,
-                            color: Colors.amber.shade900,
+                            color: Colors.red.shade700,
                             fontWeight: FontWeight.w600,
                             height: 1.4),
                       ),

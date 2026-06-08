@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:web_audio' as wa;
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
 
@@ -10,8 +11,11 @@ class DripScreen extends StatefulWidget {
   State<DripScreen> createState() => _DripScreenState();
 }
 
-// 流速選択肢: 10–180 mL/h (10刻み)
-final _rateOptions = List.generate(18, (i) => (i + 1) * 10);
+// 流速選択肢: 10–180 mL/h (10刻み) + 高流量 200–500
+final _rateOptions = [
+  ...List.generate(18, (i) => (i + 1) * 10),
+  200, 300, 400, 500,
+];
 
 enum _SetType { adult, pediatric }
 
@@ -23,13 +27,34 @@ class _DripScreenState extends State<DripScreen> {
   Timer? _arcTimer;
   bool _lit = false;
   bool _running = false;
+  bool _sound = true;
   DateTime? _lastTickTime;
+  wa.AudioContext? _audioCtx;
 
   @override
   void dispose() {
     _timer?.cancel();
     _arcTimer?.cancel();
+    _audioCtx?.close();
     super.dispose();
+  }
+
+  // 1滴ごとの短いビープ (Web Audio)
+  void _beep() {
+    if (!_sound) return;
+    try {
+      _audioCtx ??= wa.AudioContext();
+      final ctx = _audioCtx!;
+      final osc = ctx.createOscillator();
+      final gain = ctx.createGain();
+      osc.frequency!.value = 1000;
+      gain.gain!.value = 0.12;
+      osc.connectNode(gain);
+      gain.connectNode(ctx.destination!);
+      final now = ctx.currentTime!.toDouble();
+      osc.start2(now);
+      osc.stop(now + 0.04);
+    } catch (_) {}
   }
 
   int get _dropsPerMl => _setType == _SetType.adult ? 20 : 60;
@@ -56,6 +81,7 @@ class _DripScreenState extends State<DripScreen> {
     // 主タイマー: 1滴ごとに点滅
     _timer = Timer.periodic(Duration(milliseconds: ms), (_) {
       _lastTickTime = DateTime.now();
+      _beep();
       setState(() => _lit = !_lit);
     });
     // 弧アニメーション用タイマー (~30 fps)
@@ -74,6 +100,11 @@ class _DripScreenState extends State<DripScreen> {
         _lastTickTime = null;
       });
     } else {
+      // ユーザー操作中に AudioContext を起動/再開（自動再生制限の回避）
+      try {
+        _audioCtx ??= wa.AudioContext();
+        _audioCtx!.resume();
+      } catch (_) {}
       setState(() => _running = true);
       _restartTimer();
     }
@@ -171,11 +202,27 @@ class _DripScreenState extends State<DripScreen> {
               padding: const EdgeInsets.all(16),
               child: Column(
                 children: [
-                  _sectionTitle('点滴メトロノーム', scheme),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      _sectionTitle('点滴メトロノーム', scheme),
+                      const SizedBox(width: 8),
+                      IconButton(
+                        visualDensity: VisualDensity.compact,
+                        padding: EdgeInsets.zero,
+                        constraints: const BoxConstraints(),
+                        iconSize: 20,
+                        onPressed: () => setState(() => _sound = !_sound),
+                        tooltip: _sound ? '音オン' : '音オフ',
+                        icon: Icon(
+                            _sound ? Icons.volume_up : Icons.volume_off,
+                            color: _sound ? scheme.primary : Colors.black38),
+                      ),
+                    ],
+                  ),
                   const SizedBox(height: 4),
-                  Text('ランプに合わせて滴下速度を調節してください',
-                      style: const TextStyle(
-                          fontSize: 12, color: Colors.black54)),
+                  const Text('ランプ・音に合わせて滴下速度を調節してください',
+                      style: TextStyle(fontSize: 12, color: Colors.black54)),
                   const SizedBox(height: 24),
 
                   // 円弧 + 点滅ランプ
