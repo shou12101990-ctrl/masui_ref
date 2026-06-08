@@ -116,28 +116,31 @@ class _CategoryChip extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final scheme = Theme.of(context).colorScheme;
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 4),
-      child: ChoiceChip(
-        label: Text(
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        margin: const EdgeInsets.only(right: 8),
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 7),
+        decoration: BoxDecoration(
+          color: selected ? scheme.primary : Colors.white,
+          borderRadius: BorderRadius.circular(6),
+          border: Border.all(
+            color: selected
+                ? scheme.primary
+                : scheme.primary.withValues(alpha: 0.4),
+            width: 1.2,
+          ),
+        ),
+        child: Text(
           label,
           softWrap: false,
           overflow: TextOverflow.visible,
+          style: TextStyle(
+            color: selected ? Colors.white : Colors.black87,
+            fontSize: 12.5,
+            fontWeight: selected ? FontWeight.bold : FontWeight.normal,
+          ),
         ),
-        selected: selected,
-        onSelected: (_) => onTap(),
-        showCheckmark: false,
-        selectedColor: scheme.primary,
-        labelStyle: TextStyle(
-          color: selected ? Colors.white : Colors.black87,
-          fontSize: 12.5,
-          fontWeight: selected ? FontWeight.bold : FontWeight.normal,
-        ),
-        backgroundColor: Colors.white,
-        side: BorderSide(color: scheme.primary.withValues(alpha: 0.3)),
-        visualDensity: VisualDensity.compact,
-        materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-        labelPadding: const EdgeInsets.symmetric(horizontal: 8),
       ),
     );
   }
