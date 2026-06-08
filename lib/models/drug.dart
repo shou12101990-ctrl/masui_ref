@@ -71,7 +71,8 @@ enum DrugCategory {
   anticoagulant('凝固系'),
   steroid('ステロイド'),
   antiemetic('制吐薬'),
-  transfusion('輸血製剤');
+  transfusion('輸血製剤'),
+  other('その他');
 
   final String label;
   const DrugCategory(this.label);
@@ -89,5 +90,6 @@ enum DrugCategory {
         DrugCategory.steroid => const Color(0xFFEF8C00),         // ステロイド : warm orange
         DrugCategory.antiemetic => const Color(0xFF26A69A),      // 制吐薬 : teal
         DrugCategory.transfusion => const Color(0xFFAD1457),     // 輸血製剤 : crimson
+        DrugCategory.other => const Color(0xFF607D8B),           // その他 : blue grey
       };
 }

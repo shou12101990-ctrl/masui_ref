@@ -58,7 +58,7 @@ class CalculatorHubScreen extends StatelessWidget {
       ),
       _CalcItem(
         icon: Icons.vaccines,
-        title: '局所麻酔薬 極量',
+        title: '局所麻酔薬 極量計算',
         subtitle: 'ボタン選択 → 最大投与量 (mL)',
         color: const Color(0xFF6B7280),
         page: const LocalAnestheticMaxScreen(),

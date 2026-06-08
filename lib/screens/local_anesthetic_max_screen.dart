@@ -69,6 +69,9 @@ String _fmtVal(double v) {
 String _fmtPct(double c) =>
     c.toStringAsFixed(2).replaceAll(RegExp(r'0+$'), '').replaceAll(RegExp(r'\.$'), '');
 
+String _mgkg(double v) =>
+    v % 1 == 0 ? v.toStringAsFixed(0) : v.toStringAsFixed(1);
+
 // ─── 画面 ─────────────────────────────────────────────────────
 
 class LocalAnestheticMaxScreen extends StatefulWidget {
@@ -104,7 +107,7 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('局所麻酔薬 極量'),
+        title: const Text('局所麻酔薬 極量計算'),
         backgroundColor: theme.scaffoldBackgroundColor,
         surfaceTintColor: Colors.transparent,
       ),
@@ -267,6 +270,64 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
             ),
             const SizedBox(height: 12),
 
+            // ── 極量 (mg/kg) 一覧 ──
+            Card(
+              child: Padding(
+                padding: const EdgeInsets.all(16),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text('ガイドライン上の極量 (mg/kg)',
+                        style: theme.textTheme.titleSmall
+                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    const SizedBox(height: 10),
+                    Table(
+                      border: TableBorder.symmetric(
+                        inside: BorderSide(
+                            color: Colors.grey.shade200, width: 0.8),
+                      ),
+                      columnWidths: const {
+                        0: FlexColumnWidth(1.7),
+                        1: FlexColumnWidth(1.0),
+                        2: FlexColumnWidth(1.0),
+                      },
+                      children: [
+                        TableRow(
+                          decoration:
+                              BoxDecoration(color: Colors.grey.shade100),
+                          children: const [
+                            _Cell('薬剤', header: true),
+                            _Cell('エピなし', header: true),
+                            _Cell('エピあり', header: true),
+                          ],
+                        ),
+                        for (final d in _LADrug.values)
+                          TableRow(
+                            decoration: BoxDecoration(
+                                color: d == _drug
+                                    ? _accent.withValues(alpha: 0.10)
+                                    : null),
+                            children: [
+                              _Cell(d.label, bold: d == _drug),
+                              _Cell(_mgkg(d.maxNoEpi), bold: d == _drug),
+                              _Cell(_mgkg(d.maxEpi), bold: d == _drug),
+                            ],
+                          ),
+                      ],
+                    ),
+                    const SizedBox(height: 6),
+                    Text(
+                      '単位 mg/kg。エピネフリン添加で上限が上がるのは主にリドカイン。'
+                      '高齢者・低体重では減量を。',
+                      style: TextStyle(
+                          fontSize: 11, color: Colors.grey.shade600),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            const SizedBox(height: 12),
+
             // ── 注意 ──
             Card(
               color: Colors.amber.shade50,
@@ -305,6 +366,25 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
 }
 
 // ─── ヘルパーウィジェット ─────────────────────────────────────
+
+class _Cell extends StatelessWidget {
+  final String text;
+  final bool header;
+  final bool bold;
+  const _Cell(this.text, {this.header = false, this.bold = false});
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 7),
+      child: Text(text,
+          style: TextStyle(
+              fontSize: header ? 12 : 13,
+              fontWeight:
+                  (header || bold) ? FontWeight.bold : FontWeight.normal)),
+    );
+  }
+}
 
 class _RoundBtn extends StatelessWidget {
   final IconData icon;
