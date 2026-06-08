@@ -553,6 +553,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
         SizedBox(
           width: double.infinity,
           child: SegmentedButton<double>(
+            direction: Axis.vertical,
             segments: _concOpts
                 .map((e) =>
                     ButtonSegment(value: e.$1, label: Text(e.$2)))
@@ -564,9 +565,9 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
               visualDensity: VisualDensity.compact,
               tapTargetSize: MaterialTapTargetSize.shrinkWrap,
               padding: WidgetStateProperty.all(
-                  const EdgeInsets.symmetric(horizontal: 6)),
+                  const EdgeInsets.symmetric(horizontal: 6, vertical: 4)),
               textStyle:
-                  WidgetStateProperty.all(const TextStyle(fontSize: 10.5)),
+                  WidgetStateProperty.all(const TextStyle(fontSize: 12)),
             ),
           ),
         ),
