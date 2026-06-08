@@ -5,8 +5,11 @@ import 'gamma_calculator_screen.dart';
 import 'pca_screen.dart';
 import 'drip_screen.dart';
 import 'pediatric_screen.dart';
+import 'local_anesthetic_max_screen.dart';
+import 'dlt_screen.dart';
+import 'oxygen_gap_screen.dart';
 
-/// 計算機タブのハブ画面 — 5つの計算機へのナビゲーション
+/// 計算機タブのハブ画面 — 8つの計算機へのナビゲーション
 class CalculatorHubScreen extends StatelessWidget {
   const CalculatorHubScreen({super.key});
 
@@ -18,7 +21,7 @@ class CalculatorHubScreen extends StatelessWidget {
     final items = [
       _CalcItem(
         icon: Icons.person,
-        title: '成人 導入dose',
+        title: '成人 麻酔導入時',
         subtitle: '導入薬用量 + 呼吸器初期設定',
         color: Colors.indigo,
         page: const AdultInductionScreen(),
@@ -32,24 +35,45 @@ class CalculatorHubScreen extends StatelessWidget {
       ),
       _CalcItem(
         icon: Icons.healing,
-        title: 'PCA 計算機',
-        subtitle: 'フェンタニル / モルヒネ / ヒドロモルフォン',
+        title: 'iv PCA 設計',
+        subtitle: 'フェンタニル / ドロペリドール / 生理的食塩水',
         color: Colors.deepOrange,
         page: const PcaScreen(),
       ),
       _CalcItem(
         icon: Icons.water_drop,
         title: '点滴 メトロノーム',
-        subtitle: '流量 → 滴下速度 + 点滅ガイド',
+        subtitle: '点滅ガイドによる流速設定',
         color: Colors.teal,
         page: const DripScreen(),
       ),
       _CalcItem(
         icon: Icons.child_care,
-        title: '小児麻酔 計算機',
+        title: '小児 麻酔設計',
         subtitle: '導入dose / チューブサイズ / 固定長',
         color: Colors.pink.shade400,
         page: const PediatricScreen(),
+      ),
+      _CalcItem(
+        icon: Icons.vaccines,
+        title: '局所麻酔薬 極量',
+        subtitle: '体重・薬剤 → 最大投与量 (mL)',
+        color: const Color(0xFF6B7280),
+        page: const LocalAnestheticMaxScreen(),
+      ),
+      _CalcItem(
+        icon: Icons.straighten,
+        title: 'DLT サイズ選択',
+        subtitle: '身長・性別 → 推奨 Fr / 挿入深さ',
+        color: const Color(0xFF0E7490),
+        page: const DltScreen(),
+      ),
+      _CalcItem(
+        icon: Icons.monitor_heart,
+        title: '酸素較差計算機',
+        subtitle: 'A-aDO₂ · DO₂ · VO₂ · O₂ER',
+        color: const Color(0xFF1976D2),
+        page: const OxygenGapScreen(),
       ),
     ];
 
@@ -122,16 +146,21 @@ class _HubCard extends StatelessWidget {
               ),
               const SizedBox(width: 14),
               Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.baseline,
+                  textBaseline: TextBaseline.alphabetic,
                   children: [
                     Text(item.title,
                         style: const TextStyle(
                             fontSize: 15, fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 2),
-                    Text(item.subtitle,
-                        style: const TextStyle(
-                            fontSize: 12, color: Colors.black54)),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Text(item.subtitle,
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                          style: const TextStyle(
+                              fontSize: 12, color: Colors.black54)),
+                    ),
                   ],
                 ),
               ),

@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'screens/column_screen.dart';
 import 'screens/drug_list_screen.dart';
 import 'screens/calculator_hub_screen.dart';
+import 'screens/emergency_screen.dart';
 
 void main() {
   runApp(const MasuiApp());
@@ -52,6 +53,7 @@ class _HomeShellState extends State<HomeShell> {
     DrugListScreen(),
     CalculatorHubScreen(),
     ColumnScreen(),
+    EmergencyScreen(),
   ];
 
   @override
@@ -70,12 +72,17 @@ class _HomeShellState extends State<HomeShell> {
           NavigationDestination(
             icon: Icon(Icons.calculate_outlined),
             selectedIcon: Icon(Icons.calculate),
-            label: '計算機',
+            label: '機能',
           ),
           NavigationDestination(
             icon: Icon(Icons.menu_book_outlined),
             selectedIcon: Icon(Icons.menu_book),
             label: '解説',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.emergency_outlined),
+            selectedIcon: Icon(Icons.emergency),
+            label: '緊急対応',
           ),
         ],
       ),

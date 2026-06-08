@@ -67,8 +67,8 @@ class _PediatricScreenState extends State<PediatricScreen> {
   int _height = 115;
   int _weight = 20;
 
-  // 年齢テキスト入力 (yy/mm 形式)
-  final _ageCtrl = TextEditingController(text: '6');
+  // 年齢テキスト入力 (4桁 yymm 形式: 例 0603 = 6歳3ヶ月)
+  final _ageCtrl = TextEditingController(text: '0600');
 
   // 薬剤設定
   _SedDrug _sed = _SedDrug.thiamylal;
@@ -91,11 +91,16 @@ class _PediatricScreenState extends State<PediatricScreen> {
   }
 
   void _parseAge() {
-    final parts = _ageCtrl.text.split('/');
-    final years = (int.tryParse(parts[0].trim()) ?? 0).clamp(0, 12);
-    final months = parts.length >= 2
-        ? (int.tryParse(parts[1].trim()) ?? 0).clamp(0, 11)
-        : 0;
+    final text = _ageCtrl.text;
+    int years = 0, months = 0;
+    if (text.length >= 2) {
+      years  = (int.tryParse(text.substring(0, 2)) ?? 0).clamp(0, 12);
+      months = text.length >= 3
+          ? (int.tryParse(text.substring(2)) ?? 0).clamp(0, 11)
+          : 0;
+    } else if (text.isNotEmpty) {
+      years = (int.tryParse(text) ?? 0).clamp(0, 12);
+    }
     if (_ageYears != years || _ageMonths != months) {
       setState(() {
         _ageYears = years;
@@ -187,7 +192,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     return Scaffold(
       backgroundColor: theme.scaffoldBackgroundColor,
       appBar: AppBar(
-        title: const Text('小児麻酔 計算機'),
+        title: const Text('小児 麻酔設計'),
         backgroundColor: scheme.primary,
         foregroundColor: Colors.white,
         elevation: 0,
@@ -198,29 +203,11 @@ class _PediatricScreenState extends State<PediatricScreen> {
           // ① 入力 (患者情報 + 使用薬剤 + 希釈)
           _inputCard(scheme),
           const SizedBox(height: 12),
-          // ② 気管チューブ(左) + 呼吸器設定(右)
-          IntrinsicHeight(
-            child: Row(
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                Expanded(child: _tubeCard(scheme)),
-                const SizedBox(width: 10),
-                Expanded(child: _ventCard(scheme)),
-              ],
-            ),
-          ),
-          const SizedBox(height: 10),
-          // ③ 麻酔薬投与量(左) + 記録用(右)
-          IntrinsicHeight(
-            child: Row(
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                Expanded(child: _dosageCard(scheme)),
-                const SizedBox(width: 10),
-                Expanded(child: _recordCard(scheme)),
-              ],
-            ),
-          ),
+          // ② チューブ + 呼吸器設定 (合体)
+          _tubeVentCard(scheme),
+          const SizedBox(height: 12),
+          // ③ 投与量 + 記録記載 (合体)
+          _dosageRecordCard(scheme),
         ],
       ),
     );
@@ -312,7 +299,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     );
   }
 
-  // ── 年齢フィールド ────────────────────────────────────────────────────────
+  // ── 年齢フィールド (4桁 yymm) ────────────────────────────────────────────
   Widget _ageField() {
     final String parsed;
     if (_ageYears == 0 && _ageMonths > 0) {
@@ -324,14 +311,14 @@ class _PediatricScreenState extends State<PediatricScreen> {
     }
     return TextField(
       controller: _ageCtrl,
-      keyboardType: TextInputType.text,
+      keyboardType: TextInputType.number,
       inputFormatters: [
-        FilteringTextInputFormatter.allow(RegExp(r'[0-9/]')),
-        LengthLimitingTextInputFormatter(5),
+        FilteringTextInputFormatter.digitsOnly,
+        LengthLimitingTextInputFormatter(4),
       ],
       decoration: InputDecoration(
-        labelText: '年齢 (yy/mm)',
-        hintText: '6/3',
+        labelText: '年齢 (yy mm)',
+        hintText: '0603',
         suffixText: parsed,
         suffixStyle: const TextStyle(fontSize: 11, color: Colors.black45),
         isDense: true,
@@ -347,56 +334,96 @@ class _PediatricScreenState extends State<PediatricScreen> {
     );
   }
 
-  // ── ② 気管チューブ ────────────────────────────────────────────────────────
-  Widget _tubeCard(ColorScheme scheme) => Card(
-        child: Container(
-          decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(14),
-            border: Border(left: BorderSide(color: scheme.primary, width: 4)),
-          ),
-          padding: const EdgeInsets.all(16),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(children: [
-                Icon(Icons.airline_seat_recline_extra,
-                    size: 18, color: scheme.primary),
-                const SizedBox(width: 6),
-                Text('気管チューブ',
-                    style: TextStyle(
-                        color: scheme.primary,
-                        fontWeight: FontWeight.bold,
-                        fontSize: 15)),
-              ]),
-              if (_ageYrs < 1.0) ...[
-                const SizedBox(height: 6),
-                _warnBadge('1歳未満: 年齢式の精度低下あり. 実測体格で確認を.'),
-              ],
-              const SizedBox(height: 12),
-              _tubeRow(
-                rowLabel: 'チューブ径',
-                leftLabel: 'カフあり',
-                leftVal: _tubeCuffed,
-                rightLabel: 'なし',
-                rightVal: _tubeCuffless,
-                unit: 'mm',
-              ),
-              const Divider(height: 14),
-              _tubeRow(
-                rowLabel: '固定長',
-                leftLabel: '口角',
-                leftVal: _fixLen,
-                rightLabel: '鼻腔',
-                rightVal: _fixLen + 2.5,
-                unit: 'cm',
-              ),
-              const SizedBox(height: 4),
-              const Text('身長/11 + 5.5  (0.5 cm単位)',
-                  style: TextStyle(fontSize: 10, color: Colors.black38)),
-            ],
-          ),
+  // ── ② チューブ + 呼吸器設定 (合体) ─────────────────────────────────────────
+  Widget _tubeVentCard(ColorScheme scheme) {
+    return Card(
+      child: Container(
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(14),
+          border: Border(left: BorderSide(color: scheme.primary, width: 4)),
         ),
-      );
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // ── チューブ ──────────────────────────────────────────────────
+            Row(children: [
+              Icon(Icons.airline_seat_recline_extra, size: 18, color: scheme.primary),
+              const SizedBox(width: 6),
+              Text('チューブと呼吸器設定',
+                  style: TextStyle(color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 15)),
+            ]),
+            if (_ageYrs < 1.0) ...[
+              const SizedBox(height: 6),
+              _warnBadge('1歳未満: 年齢式の精度低下あり. 実測体格で確認を.'),
+            ],
+            const SizedBox(height: 12),
+            _tubeRow(
+              rowLabel: 'チューブ径',
+              leftLabel: 'カフあり',
+              leftVal: _tubeCuffed,
+              rightLabel: 'なし',
+              rightVal: _tubeCuffless,
+              unit: 'mm',
+            ),
+            const Divider(height: 14),
+            _tubeRow(
+              rowLabel: '固定長',
+              leftLabel: '口角',
+              leftVal: _fixLen,
+              rightLabel: '鼻腔',
+              rightVal: _fixLen + 2.5,
+              unit: 'cm',
+            ),
+            const SizedBox(height: 4),
+            const Text('身長/11 + 5.5  (0.5 cm単位)',
+                style: TextStyle(fontSize: 10, color: Colors.black38)),
+            // ── 区切り ────────────────────────────────────────────────────
+            const Padding(
+              padding: EdgeInsets.symmetric(vertical: 14),
+              child: Divider(thickness: 1.2),
+            ),
+            // ── 呼吸器 ────────────────────────────────────────────────────
+            Row(children: [
+              Icon(Icons.air, size: 16, color: scheme.primary),
+              const SizedBox(width: 6),
+              Text('呼吸器設定',
+                  style: TextStyle(color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 14)),
+              const SizedBox(width: 8),
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                decoration: BoxDecoration(
+                  color: scheme.primary.withValues(alpha: 0.1),
+                  borderRadius: BorderRadius.circular(4),
+                ),
+                child: Text('PCV',
+                    style: TextStyle(fontSize: 10, color: scheme.primary, fontWeight: FontWeight.bold)),
+              ),
+            ]),
+            const SizedBox(height: 12),
+            _ventRow('PEEP', '5', 'cmH₂O', null),
+            const Divider(height: 16),
+            _ventRow('ΔP (駆動圧)', '10', 'cmH₂O', 'Pmax 15'),
+            const Divider(height: 16),
+            Row(children: [
+              const SizedBox(
+                width: 96,
+                child: Text('呼吸回数', style: TextStyle(fontSize: 13, color: Colors.black54)),
+              ),
+              _inlineDd<int>(
+                value: _rr,
+                items: const [20, 25, 30],
+                itemLabel: (v) => '$v',
+                onChanged: (v) => setState(() => _rr = v),
+              ),
+              const SizedBox(width: 8),
+              const Text('回/min', style: TextStyle(fontSize: 13, color: Colors.black54)),
+            ]),
+          ],
+        ),
+      ),
+    );
+  }
 
   Widget _tubeRow({
     required String rowLabel,
@@ -424,65 +451,6 @@ class _PediatricScreenState extends State<PediatricScreen> {
     );
   }
 
-  // ── ③ 呼吸器設定 ──────────────────────────────────────────────────────────
-  Widget _ventCard(ColorScheme scheme) => Card(
-        child: Container(
-          decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(14),
-            border: Border(left: BorderSide(color: scheme.primary, width: 4)),
-          ),
-          padding: const EdgeInsets.all(16),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(children: [
-                Icon(Icons.air, size: 18, color: scheme.primary),
-                const SizedBox(width: 6),
-                Text('呼吸器設定',
-                    style: TextStyle(
-                        color: scheme.primary,
-                        fontWeight: FontWeight.bold,
-                        fontSize: 15)),
-                const SizedBox(width: 8),
-                Container(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-                  decoration: BoxDecoration(
-                    color: scheme.primary.withValues(alpha: 0.1),
-                    borderRadius: BorderRadius.circular(4),
-                  ),
-                  child: Text('PCV',
-                      style: TextStyle(
-                          fontSize: 10,
-                          color: scheme.primary,
-                          fontWeight: FontWeight.bold)),
-                ),
-              ]),
-              const SizedBox(height: 12),
-              _ventRow('PEEP', '5', 'cmH₂O', null),
-              const Divider(height: 16),
-              _ventRow('ΔP (駆動圧)', '10', 'cmH₂O', 'Pmax 15'),
-              const Divider(height: 16),
-              Row(children: [
-                const SizedBox(
-                  width: 96,
-                  child: Text('呼吸回数',
-                      style: TextStyle(fontSize: 13, color: Colors.black54)),
-                ),
-                _inlineDd<int>(
-                  value: _rr,
-                  items: const [20, 25, 30],
-                  itemLabel: (v) => '$v',
-                  onChanged: (v) => setState(() => _rr = v),
-                ),
-                const SizedBox(width: 8),
-                const Text('回/min',
-                    style: TextStyle(fontSize: 13, color: Colors.black54)),
-              ]),
-            ],
-          ),
-        ),
-      );
 
   Widget _ventRow(String label, String value, String unit, String? sub) => Row(
         crossAxisAlignment: CrossAxisAlignment.baseline,
@@ -510,73 +478,25 @@ class _PediatricScreenState extends State<PediatricScreen> {
         ],
       );
 
-  // ── ④ 投与量カード (mL) ───────────────────────────────────────────────────
-  Widget _dosageCard(ColorScheme scheme) {
+  // ── ③ 投与量 + 記録記載 (合体) ─────────────────────────────────────────────
+  Widget _dosageRecordCard(ColorScheme scheme) {
+    const recordColor = Color(0xFF607D8B);
     final sedLabel = _sed == _SedDrug.propofol
         ? 'プロポフォール  10 mg/mL'
         : '${_sed.label}  2.5% (25 mg/mL)';
-    final rows = <(String, String)>[
+    final mlRows = <(String, String)>[
       (sedLabel, '$_sedSummaryMl mL'),
       ('ロクロニウム  ${_rocConc.concLabel}', '${_fmtMl(_rocMl)} mL'),
       ('フェンタニル  ${_fentConc.concLabel}', '${_fmtMl(_fentSummaryMl)} mL'),
       if (_showAtrop)
         ('アトロピン  10倍希釈 (0.05 mg/mL)', '${_fmtMl(_atropMl)} mL'),
     ];
-    return _resultCard(
-      scheme: scheme,
-      icon: Icons.colorize,
-      title: '投与量',
-      rows: rows,
-    );
-  }
-
-  // ── ⑤ 記録カード (mg / μg) ───────────────────────────────────────────────
-  Widget _recordCard(ColorScheme scheme) {
-    const recordColor = Color(0xFF607D8B);
-    final rows = <(String, String)>[
+    final mgRows = <(String, String)>[
       (_sed.label, '${_fmtMg(_sedSummaryMg)} mg'),
       ('ロクロニウム', '${_fmtMg(_rocMg)} mg'),
       ('フェンタニル', '${_fmtMg(_fentSummaryMcg)} μg'),
       if (_showAtrop) ('アトロピン', '${_fmtMg(_atropMg)} mg'),
     ];
-    return Card(
-      child: Container(
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(14),
-          border:
-              const Border(left: BorderSide(color: recordColor, width: 4)),
-        ),
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            const Row(children: [
-              Icon(Icons.edit_note, size: 16, color: recordColor),
-              SizedBox(width: 6),
-              Text('麻酔記録  記載用',
-                  style: TextStyle(
-                      color: recordColor,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 15)),
-            ]),
-            const SizedBox(height: 12),
-            for (var i = 0; i < rows.length; i++) ...[
-              if (i > 0) const Divider(height: 16),
-              _summaryRow(rows[i].$1, rows[i].$2),
-            ],
-          ],
-        ),
-      ),
-    );
-  }
-
-  // 共通: 左ボーダーカード
-  Widget _resultCard({
-    required ColorScheme scheme,
-    required IconData icon,
-    required String title,
-    required List<(String, String)> rows,
-  }) {
     return Card(
       child: Container(
         decoration: BoxDecoration(
@@ -587,19 +507,34 @@ class _PediatricScreenState extends State<PediatricScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            // ── 投与量 ────────────────────────────────────────────────────
             Row(children: [
-              Icon(icon, size: 16, color: scheme.primary),
+              Icon(Icons.colorize, size: 16, color: scheme.primary),
               const SizedBox(width: 6),
-              Text(title,
-                  style: TextStyle(
-                      color: scheme.primary,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 15)),
+              Text('投与量',
+                  style: TextStyle(color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 15)),
             ]),
             const SizedBox(height: 12),
-            for (var i = 0; i < rows.length; i++) ...[
+            for (var i = 0; i < mlRows.length; i++) ...[
               if (i > 0) const Divider(height: 16),
-              _summaryRow(rows[i].$1, rows[i].$2),
+              _summaryRow(mlRows[i].$1, mlRows[i].$2),
+            ],
+            // ── 区切り ────────────────────────────────────────────────────
+            const Padding(
+              padding: EdgeInsets.symmetric(vertical: 14),
+              child: Divider(thickness: 1.2),
+            ),
+            // ── 記録記載 ──────────────────────────────────────────────────
+            const Row(children: [
+              Icon(Icons.edit_note, size: 16, color: recordColor),
+              SizedBox(width: 6),
+              Text('麻酔記録  記載用',
+                  style: TextStyle(color: recordColor, fontWeight: FontWeight.bold, fontSize: 15)),
+            ]),
+            const SizedBox(height: 12),
+            for (var i = 0; i < mgRows.length; i++) ...[
+              if (i > 0) const Divider(height: 16),
+              _summaryRow(mgRows[i].$1, mgRows[i].$2),
             ],
           ],
         ),

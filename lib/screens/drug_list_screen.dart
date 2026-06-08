@@ -19,7 +19,13 @@ class _DrugListScreenState extends State<DrugListScreen> {
   List<Drug> get _filtered {
     final q = _query.trim().toLowerCase();
     return kDrugs.where((d) {
-      final matchesCategory = _category == null || d.category == _category;
+      // 鎮静薬タブは吸入麻酔薬を統合して表示
+      final matchesCategory = _category == null
+          ? true
+          : _category == DrugCategory.sedative
+              ? (d.category == DrugCategory.sedative ||
+                  d.category == DrugCategory.inhalational)
+              : d.category == _category;
       final matchesQuery = q.isEmpty || d.searchText.contains(q);
       return matchesCategory && matchesQuery;
     }).toList();
@@ -78,11 +84,13 @@ class _DrugListScreenState extends State<DrugListScreen> {
                     onTap: () => setState(() => _category = null),
                   ),
                   for (final c in DrugCategory.values)
-                    _CategoryChip(
-                      label: c.label,
-                      selected: _category == c,
-                      onTap: () => setState(() => _category = c),
-                    ),
+                    // 吸入麻酔薬は鎮静薬タブに統合済み
+                    if (c != DrugCategory.inhalational)
+                      _CategoryChip(
+                        label: c.label,
+                        selected: _category == c,
+                        onTap: () => setState(() => _category = c),
+                      ),
                 ],
               ),
             ),

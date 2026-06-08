@@ -24,7 +24,7 @@ final _dayOpts  = [
 class _PcaScreenState extends State<PcaScreen> {
   int    _wt   = 60;
   int    _conc = 10;   // mcg/ml
-  double _rate = 1.0;  // ml/h
+  double _rate = 2.0;  // ml/h  ← デフォルト 2 ml/h
   double _days = 2.0;
   bool   _drop = false;
 
@@ -76,7 +76,7 @@ class _PcaScreenState extends State<PcaScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('ivPCA'),
+        title: const Text('iv PCA 設計'),
         backgroundColor: scheme.primary,
         foregroundColor: Colors.white,
         elevation: 0,
@@ -89,56 +89,76 @@ class _PcaScreenState extends State<PcaScreen> {
           Card(
             child: Padding(
               padding: const EdgeInsets.all(14),
-              child: Column(
+              child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  // 行1: 体重 / 濃度 / 流速
-                  Row(children: [
-                    Expanded(child: _dd<int>(
-                      label: '体重', suffix: 'kg',
-                      value: _wt, items: _wtOpts,
-                      onChanged: (v) => setState(() => _wt = v),
-                    )),
-                    const SizedBox(width: 8),
-                    Expanded(child: _dd<int>(
-                      label: '濃度', suffix: 'μg/ml',
-                      value: _conc, items: _concOpts,
-                      onChanged: (v) => setState(() => _conc = v),
-                    )),
-                    const SizedBox(width: 8),
-                    Expanded(child: _dd<double>(
-                      label: '流速', suffix: 'ml/h',
-                      value: _rate, items: _rateOpts,
-                      onChanged: (v) => setState(() => _rate = v),
-                      itemLabel: (v) => v.toStringAsFixed(1),
-                    )),
-                  ]),
-                  const SizedBox(height: 8),
-                  // 行2: 投与日数 / ドロレプタン
-                  Row(children: [
-                    Expanded(child: _dd<double>(
-                      label: '投与日数', suffix: '',
-                      value: _days,
-                      items: _dayOpts.map((e) => e.$1).toList(),
-                      onChanged: (v) => setState(() => _days = v),
-                      itemLabel: (v) => _dayOpts.firstWhere((e) => e.$1 == v).$2,
-                    )),
-                    const SizedBox(width: 16),
-                    const Text('ドロレプタン', style: TextStyle(fontSize: 13)),
-                    const SizedBox(width: 8),
-                    SegmentedButton<bool>(
-                      segments: const [
-                        ButtonSegment(value: true,  label: Text('あり')),
-                        ButtonSegment(value: false, label: Text('なし')),
+
+                  // 左: 各ドロップダウン縦並び
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        _dd<int>(
+                          label: '体重', suffix: 'kg',
+                          value: _wt, items: _wtOpts,
+                          onChanged: (v) => setState(() => _wt = v),
+                        ),
+                        const SizedBox(height: 8),
+                        _dd<int>(
+                          label: '濃度', suffix: 'μg/ml',
+                          value: _conc, items: _concOpts,
+                          onChanged: (v) => setState(() => _conc = v),
+                        ),
+                        const SizedBox(height: 8),
+                        _dd<double>(
+                          label: '流速', suffix: 'ml/h',
+                          value: _rate, items: _rateOpts,
+                          onChanged: (v) => setState(() => _rate = v),
+                          itemLabel: (v) => v.toStringAsFixed(1),
+                        ),
+                        const SizedBox(height: 8),
+                        _dd<double>(
+                          label: '投与日数', suffix: '',
+                          value: _days,
+                          items: _dayOpts.map((e) => e.$1).toList(),
+                          onChanged: (v) => setState(() => _days = v),
+                          itemLabel: (v) => _dayOpts.firstWhere((e) => e.$1 == v).$2,
+                        ),
                       ],
-                      selected: {_drop},
-                      onSelectionChanged: (s) => setState(() => _drop = s.first),
-                      style: ButtonStyle(
-                        visualDensity: VisualDensity.compact,
-                        textStyle: WidgetStateProperty.all(const TextStyle(fontSize: 12)),
-                      ),
                     ),
-                  ]),
+                  ),
+                  const SizedBox(width: 14),
+
+                  // 右: ドロレプタン (縦並び)
+                  Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      Text(
+                        'ドロレプタン',
+                        style: TextStyle(
+                          color: scheme.primary,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 12,
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                      SegmentedButton<bool>(
+                        direction: Axis.vertical,
+                        segments: const [
+                          ButtonSegment(value: true,  label: Text('あり')),
+                          ButtonSegment(value: false, label: Text('なし')),
+                        ],
+                        selected: {_drop},
+                        onSelectionChanged: (s) => setState(() => _drop = s.first),
+                        style: ButtonStyle(
+                          visualDensity: VisualDensity.compact,
+                          textStyle: WidgetStateProperty.all(
+                              const TextStyle(fontSize: 12)),
+                        ),
+                      ),
+                    ],
+                  ),
                 ],
               ),
             ),
@@ -165,18 +185,22 @@ class _PcaScreenState extends State<PcaScreen> {
                           children: [
                             Text(
                               _mcgKgH.toStringAsFixed(2),
-                              style: const TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
+                              style: const TextStyle(
+                                  fontSize: 30, fontWeight: FontWeight.bold),
                             ),
                             const SizedBox(width: 5),
                             const Text('mcg/kg/h',
-                                style: TextStyle(fontSize: 13, color: Colors.black54)),
+                                style: TextStyle(
+                                    fontSize: 13, color: Colors.black54)),
                           ],
                         ),
                         const SizedBox(height: 6),
                         Text('持続 ${_fmtD(_rate)} ml/h',
-                            style: const TextStyle(fontSize: 12, color: Colors.black54)),
+                            style: const TextStyle(
+                                fontSize: 12, color: Colors.black54)),
                         Text('予測期間 ${_fmtD(_durDays)} 日',
-                            style: const TextStyle(fontSize: 12, color: Colors.black54)),
+                            style: const TextStyle(
+                                fontSize: 12, color: Colors.black54)),
                       ],
                     ),
                   ),
@@ -196,7 +220,10 @@ class _PcaScreenState extends State<PcaScreen> {
                           sub: _vialStr,
                         ),
                         if (_drop)
-                          _prepRow(label: 'ドロレプタン', value: '1 ml', sub: '2.5 mg'),
+                          _prepRow(
+                              label: 'ドロレプタン',
+                              value: '1 ml',
+                              sub: '2.5 mg'),
                         _prepRow(
                           label: '生食',
                           value: '${_nsMl.toInt()} ml',
@@ -256,7 +283,8 @@ class _PcaScreenState extends State<PcaScreen> {
     );
   }
 
-  Widget _prepRow({required String label, required String value, required String sub}) {
+  Widget _prepRow(
+      {required String label, required String value, required String sub}) {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 4),
       child: Row(
@@ -272,10 +300,12 @@ class _PcaScreenState extends State<PcaScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(value,
-                    style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w600)),
+                    style: const TextStyle(
+                        fontSize: 14, fontWeight: FontWeight.w600)),
                 if (sub.isNotEmpty)
                   Text(sub,
-                      style: const TextStyle(fontSize: 11, color: Colors.black45)),
+                      style: const TextStyle(
+                          fontSize: 11, color: Colors.black45)),
               ],
             ),
           ),

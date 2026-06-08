@@ -88,8 +88,10 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
               ], '導入 1–2 mg/kg. 緩徐静注. リドカイン前投与で疼痛軽減.');
       case _SedDrug.remimazolam:
         return _DoseInfo([
-          _DoseLine('投与速度', wt * 6.0, 'mg/h', '6 mg/kg/h'),
-        ], '意識消失後 1 mg/kg/h に減量. 拮抗薬: フルマゼニル.');
+          _DoseLine('低用量', wt * 1.0, 'mg',   '1 mg/kg'),
+          _DoseLine('高用量', wt * 2.0, 'mg',   '2 mg/kg'),
+          _DoseLine('維持',   wt * 1.0, 'mg/h', '1 mg/kg/h'),
+        ], 'ボーラス 1–2 mg/kg 緩徐静注. 意識消失後 1 mg/kg/h で開始. 拮抗薬: フルマゼニル.');
       case _SedDrug.midazolam:
         return _elderly
             ? _DoseInfo([
@@ -147,7 +149,7 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
         final hi = (_elderly ? wt * 1.5 : wt * 2.0) / 10.0;
         return '${_fmtMl(lo)} 〜 ${_fmtMl(hi)} ml';
       case _SedDrug.remimazolam:
-        return '${_fmtMl(wt * 6.0)} mg/h'; // 希釈濃度により換算
+        return '${_fmtMl(wt * 1.0)} 〜 ${_fmtMl(wt * 2.0)} mg (bolus)';
       case _SedDrug.midazolam:
         final lo = (_elderly ? wt * 0.025 : wt * 0.05) / 5.0;
         final hi = (_elderly ? wt * 0.05  : wt * 0.10) / 5.0;
@@ -155,50 +157,59 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
     }
   }
 
+  /// remimazolam の維持速度行 (他の薬剤は null)
+  String? get _sedMlLine2 {
+    if (_sed != _SedDrug.remimazolam) return null;
+    return '${_fmtMl(_wt * 1.0)} mg/h (維持)';
+  }
+
   String get _sedConcNote => switch (_sed) {
     _SedDrug.propofol    => '10 mg/ml',
-    _SedDrug.remimazolam => 'アネレム (調製濃度で換算)',
+    _SedDrug.remimazolam => 'アネレム (50 mg/vial, 調製濃度で換算)',
     _SedDrug.midazolam   => '5 mg/ml',
   };
 
-  // 鎮痛薬 (行1)
+  // 鎮痛薬 (行1) — ml は 0.5ml 刻み
   String get _analMlLine1 {
     final wt = _wt;
     switch (_anal) {
       case _AnalDrug.fentanyl:
-        return '${_fmtMl(wt * 1.0 / 50.0)} 〜 ${_fmtMl(wt * 3.0 / 50.0)} ml';
+        return '${_fmtMl(_r05(wt * 1.0 / 50.0))} 〜 ${_fmtMl(_r05(wt * 3.0 / 50.0))} ml';
       case _AnalDrug.remifentanil:
-        final lo = wt * 0.25 * 60.0 / 50.0;
-        final hi = wt * 0.5  * 60.0 / 50.0;
+        final lo = _r05(wt * 0.25 * 60.0 / 100.0);
+        final hi = _r05(wt * 0.5  * 60.0 / 100.0);
         return '${_fmtMl(lo)} 〜 ${_fmtMl(hi)} ml/h';
       case _AnalDrug.fentaRemi:
-        return 'F  ${_fmtMl(wt * 1.0 / 50.0)} 〜 ${_fmtMl(wt * 2.0 / 50.0)} ml (bolus)';
+        return 'F  ${_fmtMl(_r05(wt * 1.0 / 50.0))} 〜 ${_fmtMl(_r05(wt * 2.0 / 50.0))} ml (bolus)';
     }
   }
 
-  // 鎮痛薬 (行2: フェンタ+レミのみ)
+  // 鎮痛薬 (行2: フェンタ+レミのみ) — ml は 0.5ml 刻み
   String? get _analMlLine2 {
     if (_anal != _AnalDrug.fentaRemi) return null;
     final wt = _wt;
-    final lo = wt * 0.1  * 60.0 / 50.0;
-    final hi = wt * 0.25 * 60.0 / 50.0;
+    final lo = _r05(wt * 0.1  * 60.0 / 100.0);
+    final hi = _r05(wt * 0.25 * 60.0 / 100.0);
     return 'R  ${_fmtMl(lo)} 〜 ${_fmtMl(hi)} ml/h';
   }
 
   String get _analConcNote => switch (_anal) {
     _AnalDrug.fentanyl     => '50 μg/ml',
-    _AnalDrug.remifentanil => '50 μg/ml (アルチバ 5mg/100ml)',
-    _AnalDrug.fentaRemi    => 'F 50 μg/ml　R 50 μg/ml',
+    _AnalDrug.remifentanil => '100 μg/ml (アルチバ 2mg/20mL)',
+    _AnalDrug.fentaRemi    => 'F 50 μg/ml　R 100 μg/ml',
   };
 
-  // 筋弛緩薬
+  // 筋弛緩薬 — ml は 0.5ml 刻み
   String get _relaxMlStr {
     final wt = _wt;
-    return '${_fmtMl(wt * 0.6 / 10.0)} 〜 ${_fmtMl(wt * 1.2 / 10.0)} ml';
+    return '${_fmtMl(_r05(wt * 0.6 / 10.0))} 〜 ${_fmtMl(_r05(wt * 1.2 / 10.0))} ml';
   }
 
   String _fmtMl(double v) =>
       (v == v.truncateToDouble()) ? v.toInt().toString() : v.toStringAsFixed(1);
+
+  /// 0.5 ml 刻みに丸める
+  double _r05(double v) => (v * 2).round() / 2;
 
   // ── build ───────────────────────────────────────────────────────────────
   @override
@@ -209,7 +220,7 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
     return Scaffold(
       backgroundColor: theme.scaffoldBackgroundColor,
       appBar: AppBar(
-        title: const Text('成人導入 計算機'),
+        title: const Text('成人 麻酔導入時'),
         backgroundColor: scheme.primary,
         foregroundColor: Colors.white,
         elevation: 0,
@@ -327,40 +338,11 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
           ),
           const SizedBox(height: 12),
 
-          // ── 投与量(左) + 人工呼吸器初期設定(右) ──────────────────────
-          IntrinsicHeight(
-            child: Row(
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                Expanded(child: _buildDoseCard(scheme)),
-                const SizedBox(width: 10),
-                Expanded(child: _VentCard(pbw: _pbw, scheme: scheme)),
-              ],
-            ),
-          ),
+          // ── 投与量カード ──────────────────────────────────────────
+          _buildDoseCard(scheme),
           const SizedBox(height: 12),
-
-          // ── 詳細用量カード ────────────────────────────────────────────
-          _DrugClassCard(
-            classLabel: '鎮静薬',
-            subtitle: _sed.label,
-            color: DrugCategory.sedative.color,
-            doseInfo: _sedInfo,
-          ),
-          const SizedBox(height: 12),
-          _DrugClassCard(
-            classLabel: '鎮痛薬',
-            subtitle: _anal.label,
-            color: DrugCategory.analgesic.color,
-            doseInfo: _analInfo,
-          ),
-          const SizedBox(height: 12),
-          _DrugClassCard(
-            classLabel: '筋弛緩薬',
-            subtitle: 'ロクロニウム',
-            color: DrugCategory.muscleRelaxant.color,
-            doseInfo: _relaxInfo,
-          ),
+          // ── 人工呼吸器初期設定カード ─────────────────────────────
+          _VentCard(pbw: _pbw, scheme: scheme),
         ],
       ),
     );
@@ -380,6 +362,7 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
               label: '鎮静薬',
               color: DrugCategory.sedative.color,
               line1: _sedMlStr,
+              line2: _sedMlLine2,
               note:  _sedConcNote,
             ),
             const Divider(height: 16),
@@ -652,11 +635,11 @@ class _VentCardState extends State<_VentCard> {
                     Expanded(
                       child: Text.rich(TextSpan(children: [
                         TextSpan(
-                          text: '「VC 500 mL・RR 10」一律設定は禁忌\n',
+                          text: '初期設定 500 mL のまま乗せない\n',
                           style: TextStyle(fontWeight: FontWeight.bold, color: Colors.red.shade700, fontSize: 12, height: 1.4),
                         ),
                         TextSpan(
-                          text: 'VTは必ずPBW基準で個別設定すること.',
+                          text: 'VT を個別設定（PBW × 7 mL）してから呼吸器に乗せること.',
                           style: TextStyle(color: Colors.red.shade700, fontSize: 11, height: 1.4),
                         ),
                       ])),
@@ -685,6 +668,33 @@ class _VentCardState extends State<_VentCard> {
               _vRow('RR',   '14 /min',    ''),
               const Divider(height: 14),
               _vRow('I:E',  '1 : 2',      ''),
+              const SizedBox(height: 10),
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+                decoration: BoxDecoration(
+                  color: Colors.amber.shade50,
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.amber.shade400),
+                ),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Icon(Icons.info_outline, size: 14, color: Colors.amber.shade800),
+                    const SizedBox(width: 6),
+                    Expanded(
+                      child: Text(
+                        '最初の換気量をみて圧調整すること',
+                        style: TextStyle(
+                            fontSize: 12,
+                            color: Colors.amber.shade900,
+                            fontWeight: FontWeight.w600,
+                            height: 1.4),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
             ],
           ],
         ),

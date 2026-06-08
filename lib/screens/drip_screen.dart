@@ -98,11 +98,10 @@ class _DripScreenState extends State<DripScreen> {
           // ── 設定 ────────────────────────────────────────────────────────
           Card(
             child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
+              padding: const EdgeInsets.fromLTRB(16, 14, 16, 12),
+              child: Column(
                 children: [
-                  // 成人 / 小児 セグメント (中央揃え)
+                  // 成人 / 小児 セグメント
                   SegmentedButton<_SetType>(
                     segments: const [
                       ButtonSegment(
@@ -118,47 +117,48 @@ class _DripScreenState extends State<DripScreen> {
                       if (_running) _restartTimer();
                     },
                   ),
-                  const SizedBox(width: 14),
-                  // 流量ドロップダウン (コンパクト)
-                  Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      const Text('流量',
-                          style: TextStyle(
-                              fontSize: 11, color: Colors.black54)),
-                      const SizedBox(height: 3),
-                      Container(
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 10, vertical: 4),
-                        decoration: BoxDecoration(
-                          color: const Color(0xFFF0F0F0),
-                          borderRadius: BorderRadius.circular(8),
+                  const SizedBox(height: 12),
+                  // 流速ボタングリッド
+                  Wrap(
+                    spacing: 6,
+                    runSpacing: 6,
+                    alignment: WrapAlignment.center,
+                    children: _rateOptions.map((r) {
+                      final sel = _rateMlH == r;
+                      return GestureDetector(
+                        onTap: () {
+                          setState(() => _rateMlH = r);
+                          if (_running) _restartTimer();
+                        },
+                        child: AnimatedContainer(
+                          duration: const Duration(milliseconds: 100),
+                          padding: const EdgeInsets.symmetric(
+                              horizontal: 11, vertical: 7),
+                          decoration: BoxDecoration(
+                            color: sel
+                                ? scheme.primary
+                                : const Color(0xFFF0F0F0),
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                          child: Text(
+                            '$r',
+                            style: TextStyle(
+                              fontSize: 13,
+                              fontWeight: sel
+                                  ? FontWeight.bold
+                                  : FontWeight.normal,
+                              color:
+                                  sel ? Colors.white : Colors.black54,
+                            ),
+                          ),
                         ),
-                        child: DropdownButton<int>(
-                          value: _rateMlH,
-                          isDense: true,
-                          underline: const SizedBox.shrink(),
-                          style: const TextStyle(
-                              fontSize: 15, color: Colors.black87),
-                          icon: const Icon(Icons.expand_more,
-                              size: 18, color: Colors.black45),
-                          items: _rateOptions
-                              .map((v) => DropdownMenuItem(
-                                    value: v,
-                                    child: Text('$v mL/h'),
-                                  ))
-                              .toList(),
-                          onChanged: (v) {
-                            if (v != null) {
-                              setState(() => _rateMlH = v);
-                              if (_running) _restartTimer();
-                            }
-                          },
-                        ),
-                      ),
-                    ],
+                      );
+                    }).toList(),
                   ),
+                  const SizedBox(height: 4),
+                  const Text('mL/h',
+                      style: TextStyle(
+                          fontSize: 11, color: Colors.black38)),
                 ],
               ),
             ),

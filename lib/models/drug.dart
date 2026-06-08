@@ -68,7 +68,8 @@ enum DrugCategory {
   vasopressor('昇圧薬'),
   vasodilator('降圧薬'),
   localAnesthetic('局所麻酔薬'),
-  anticoagulant('凝固系');
+  anticoagulant('凝固系'),
+  steroid('ステロイド');
 
   final String label;
   const DrugCategory(this.label);
@@ -83,5 +84,6 @@ enum DrugCategory {
         DrugCategory.vasodilator => const Color(0xFF8B5CF6),     // PMS 267   : 降圧薬 (+ 斜線)
         DrugCategory.localAnesthetic => const Color(0xFF97999B), // Cool Gray7 : 局所麻酔薬 標準灰
         DrugCategory.anticoagulant => const Color(0xFFB52020),   // 凝固系 : 血色 (blood red)
+        DrugCategory.steroid => const Color(0xFFEF8C00),         // ステロイド : warm orange
       };
 }
