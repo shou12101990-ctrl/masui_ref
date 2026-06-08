@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:web_audio' as wa;
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 /// 点滴メトロノーム
 class DripScreen extends StatefulWidget {
@@ -19,9 +20,17 @@ final _rateOptions = [
 
 enum _SetType { adult, pediatric }
 
+enum _InputMode { rate, volTime }
+
 class _DripScreenState extends State<DripScreen> {
   int _rateMlH = 60;
   _SetType _setType = _SetType.adult;
+
+  // 量・時間モード
+  _InputMode _inputMode = _InputMode.rate;
+  final _volCtrl = TextEditingController(text: '500');
+  final _timeCtrl = TextEditingController(text: '2');
+  bool _timeInHours = true;
 
   Timer? _timer;
   Timer? _arcTimer;
@@ -32,10 +41,24 @@ class _DripScreenState extends State<DripScreen> {
   wa.AudioContext? _audioCtx;
 
   @override
+  void initState() {
+    super.initState();
+    for (final c in [_volCtrl, _timeCtrl]) {
+      c.addListener(() {
+        if (!mounted) return;
+        setState(() {});
+        if (_running) _restartTimer();
+      });
+    }
+  }
+
+  @override
   void dispose() {
     _timer?.cancel();
     _arcTimer?.cancel();
     _audioCtx?.close();
+    _volCtrl.dispose();
+    _timeCtrl.dispose();
     super.dispose();
   }
 
@@ -58,8 +81,26 @@ class _DripScreenState extends State<DripScreen> {
   }
 
   int get _dropsPerMl => _setType == _SetType.adult ? 20 : 60;
-  double get _dropsPerMin => _rateMlH / 60.0 * _dropsPerMl;
-  int get _intervalMs => (60000 / _dropsPerMin).round();
+
+  // 有効流速 (mL/h): 流速モード=ボタン値 / 量・時間モード=製剤量÷時間
+  double get _effectiveRate {
+    if (_inputMode == _InputMode.rate) return _rateMlH.toDouble();
+    final vol = double.tryParse(_volCtrl.text.trim());
+    final t = double.tryParse(_timeCtrl.text.trim());
+    if (vol == null || t == null || t <= 0) return 0;
+    final hours = _timeInHours ? t : t / 60.0;
+    return hours > 0 ? vol / hours : 0;
+  }
+
+  double get _dropsPerMin => _effectiveRate / 60.0 * _dropsPerMl;
+  int get _intervalMs {
+    final dpm = _dropsPerMin;
+    if (dpm <= 0) return 999999;
+    return (60000 / dpm).round();
+  }
+
+  bool get _canRun => _dropsPerMin > 0 && _intervalMs >= 100;
+  bool get _tooFast => _dropsPerMin > 0 && _intervalMs < 100;
 
   /// 次のフラッシュまでの進捗 0.0–1.0
   double get _arcProgress {
@@ -74,8 +115,8 @@ class _DripScreenState extends State<DripScreen> {
   void _restartTimer() {
     _timer?.cancel();
     _arcTimer?.cancel();
+    if (!_canRun) return;
     final ms = _intervalMs;
-    if (ms < 100) return;
     _lastTickTime = DateTime.now();
     setState(() => _lit = true);
     // 主タイマー: 1滴ごとに点滅
@@ -149,6 +190,22 @@ class _DripScreenState extends State<DripScreen> {
                     },
                   ),
                   const SizedBox(height: 12),
+                  // 入力モード切替
+                  SegmentedButton<_InputMode>(
+                    segments: const [
+                      ButtonSegment(
+                          value: _InputMode.rate, label: Text('流速指定')),
+                      ButtonSegment(
+                          value: _InputMode.volTime, label: Text('量・時間')),
+                    ],
+                    selected: {_inputMode},
+                    onSelectionChanged: (s) {
+                      setState(() => _inputMode = s.first);
+                      if (_running) _restartTimer();
+                    },
+                  ),
+                  const SizedBox(height: 12),
+                  if (_inputMode == _InputMode.rate) ...[
                   // 流速ボタングリッド
                   Wrap(
                     spacing: 6,
@@ -190,6 +247,9 @@ class _DripScreenState extends State<DripScreen> {
                   const Text('mL/h',
                       style: TextStyle(
                           fontSize: 11, color: Colors.black38)),
+                  ] else ...[
+                    _volTimeInputs(scheme),
+                  ],
                 ],
               ),
             ),
@@ -281,12 +341,11 @@ class _DripScreenState extends State<DripScreen> {
                       foregroundColor: Colors.white,
                       minimumSize: const Size(160, 44),
                     ),
-                    onPressed:
-                        _intervalMs >= 100 ? _toggleMetronome : null,
+                    onPressed: _canRun ? _toggleMetronome : null,
                     icon: Icon(_running ? Icons.stop : Icons.play_arrow),
                     label: Text(_running ? '停止' : '開始'),
                   ),
-                  if (_intervalMs < 100) ...[
+                  if (_tooFast) ...[
                     const SizedBox(height: 8),
                     const Text(
                       '流量が速すぎてメトロノームを表示できません',
@@ -307,6 +366,87 @@ class _DripScreenState extends State<DripScreen> {
           color: scheme.primary,
           fontWeight: FontWeight.bold,
           fontSize: 14));
+
+  // 量・時間モードの入力UI
+  Widget _volTimeInputs(ColorScheme scheme) {
+    final rate = _effectiveRate;
+    return Column(
+      children: [
+        Row(
+          children: [
+            const SizedBox(
+                width: 70,
+                child: Text('製剤量', style: TextStyle(fontSize: 13))),
+            Expanded(child: _numField(_volCtrl, 'mL')),
+          ],
+        ),
+        const SizedBox(height: 10),
+        Row(
+          children: [
+            const SizedBox(
+                width: 70,
+                child: Text('投与時間', style: TextStyle(fontSize: 13))),
+            Expanded(child: _numField(_timeCtrl, '')),
+            const SizedBox(width: 8),
+            SegmentedButton<bool>(
+              segments: const [
+                ButtonSegment(value: true, label: Text('時間')),
+                ButtonSegment(value: false, label: Text('分')),
+              ],
+              selected: {_timeInHours},
+              onSelectionChanged: (s) {
+                setState(() => _timeInHours = s.first);
+                if (_running) _restartTimer();
+              },
+              style: const ButtonStyle(
+                visualDensity: VisualDensity.compact,
+                tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+              ),
+            ),
+          ],
+        ),
+        const SizedBox(height: 12),
+        Container(
+          width: double.infinity,
+          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+          decoration: BoxDecoration(
+            color: scheme.primary.withValues(alpha: 0.08),
+            borderRadius: BorderRadius.circular(8),
+          ),
+          child: Text(
+            rate > 0
+                ? '→ ${rate.toStringAsFixed(rate >= 100 ? 0 : 1)} mL/h'
+                : '→ 製剤量・投与時間を入力',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+                color: scheme.primary,
+                fontWeight: FontWeight.bold,
+                fontSize: 15),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _numField(TextEditingController c, String suffix) => TextField(
+        controller: c,
+        keyboardType: const TextInputType.numberWithOptions(decimal: true),
+        inputFormatters: [
+          FilteringTextInputFormatter.allow(RegExp(r'[0-9.]'))
+        ],
+        decoration: InputDecoration(
+          suffixText: suffix.isEmpty ? null : suffix,
+          isDense: true,
+          filled: true,
+          fillColor: const Color(0xFFF7F9FA),
+          contentPadding:
+              const EdgeInsets.symmetric(horizontal: 10, vertical: 12),
+          border: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(10),
+            borderSide: BorderSide.none,
+          ),
+        ),
+      );
 }
 
 // ── 円弧 CustomPainter ────────────────────────────────────────────────────
