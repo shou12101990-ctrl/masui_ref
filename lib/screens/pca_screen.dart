@@ -117,7 +117,7 @@ class _PcaScreenState extends State<PcaScreen> {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('iv PCA 設計'),
+          title: const Text('ivPCA'),
           backgroundColor: scheme.primary,
           foregroundColor: Colors.white,
           elevation: 0,
