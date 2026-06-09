@@ -32,7 +32,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                   _EmergencySection(
                     title: '術中不整脈',
                     icon: Icons.favorite,
-                    color: Color(0xFFB71C1C),
+                    color: Color(0xFFE57373),
                     protocols: [
                       _Protocol(
                         title: '洞性徐脈 (HR < 50)',
@@ -91,7 +91,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                   _EmergencySection(
                     title: 'アナフィラキシー',
                     icon: Icons.warning_amber,
-                    color: Color(0xFFE65100),
+                    color: Color(0xFFFFA726),
                     protocols: [
                       _Protocol(
                         title: '術中アナフィラキシー対応プロトコル',
@@ -134,7 +134,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                   _EmergencySection(
                     title: '肺塞栓症 (PE)',
                     icon: Icons.air,
-                    color: Color(0xFF1565C0),
+                    color: Color(0xFF64B5F6),
                     protocols: [
                       _Protocol(
                         title: '術中急性肺塞栓症の診断と初期対応',
@@ -164,7 +164,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                   _EmergencySection(
                     title: '悪性高熱症 (MH)',
                     icon: Icons.thermostat,
-                    color: Color(0xFF6A1B9A),
+                    color: Color(0xFFBA68C8),
                     protocols: [
                       _Protocol(
                         title: '悪性高熱症の診断と対応',
@@ -193,7 +193,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                   _EmergencySection(
                     title: '局所麻酔薬中毒 (LAST)',
                     icon: Icons.vaccines,
-                    color: Color(0xFF78797B), // 局所麻酔薬に合わせた灰色
+                    color: Color(0xFFA5A6A8), // 局所麻酔薬に合わせた灰色（淡め）
                     protocols: [
                       _Protocol(
                         title: '局所麻酔薬全身毒性 (LAST) の対応',
@@ -221,7 +221,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                   _EmergencySection(
                     title: '高K血症の補正',
                     icon: Icons.bolt,
-                    color: Color(0xFF00838F),
+                    color: Color(0xFF4DD0E1),
                     protocols: [
                       _Protocol(
                         title: '高カリウム血症の対応',

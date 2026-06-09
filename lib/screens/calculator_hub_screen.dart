@@ -8,6 +8,7 @@ import 'pediatric_screen.dart';
 import 'local_anesthetic_max_screen.dart';
 import 'dlt_screen.dart';
 import 'oxygen_gap_screen.dart';
+import 'opioid_conversion_screen.dart';
 import 'allowable_blood_loss_screen.dart';
 import 'be_correction_screen.dart';
 
@@ -90,6 +91,13 @@ class CalculatorHubScreen extends StatelessWidget {
         subtitle: 'BE·体重 → HCO₃⁻不足分 / メイロン量',
         color: const Color(0xFF5E35B1),
         page: const BeCorrectionScreen(),
+      ),
+      _CalcItem(
+        icon: Icons.swap_horiz,
+        title: 'オピオイド換算',
+        subtitle: '内服量 → フェンタニル換算 (μg/h)',
+        color: const Color(0xFF1565C0),
+        page: const OpioidConversionScreen(),
       ),
     ];
 

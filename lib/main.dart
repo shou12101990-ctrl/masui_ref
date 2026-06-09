@@ -19,7 +19,7 @@ class MasuiApp extends StatelessWidget {
       brightness: Brightness.light,
     );
     return MaterialApp(
-      title: 'やさしい麻酔科ローテ',
+      title: 'やさしい麻酔科ローテ β',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: scheme,
@@ -80,8 +80,8 @@ class _HomeShellState extends State<HomeShell> {
             label: '解説',
           ),
           NavigationDestination(
-            icon: Icon(Icons.emergency_outlined),
-            selectedIcon: Icon(Icons.emergency),
+            icon: Icon(Icons.emergency_outlined, color: Colors.red),
+            selectedIcon: Icon(Icons.emergency, color: Colors.red),
             label: '緊急対応',
           ),
         ],
