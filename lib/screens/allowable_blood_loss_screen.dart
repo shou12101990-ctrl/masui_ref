@@ -98,26 +98,43 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                         style: theme.textTheme.titleSmall
                             ?.copyWith(fontWeight: FontWeight.bold)),
                     const SizedBox(height: 12),
-                    _InputRow('体重 (kg)', _wtCtrl),
-                    _InputRow('現在の Hb (g/dL)', _hb0Ctrl),
-                    _InputRow('許容 Hb (g/dL)', _hbtCtrl),
-                    const SizedBox(height: 14),
-                    const Text('循環血液量 係数',
-                        style: TextStyle(
-                            fontSize: 13, fontWeight: FontWeight.w600)),
-                    const SizedBox(height: 8),
-                    Wrap(
-                      spacing: 8,
-                      runSpacing: 8,
-                      children: _coefs
-                          .map((c) => _ChoiceBtn(
-                                label: c.label,
-                                sub: '${c.mlPerKg} mL/kg',
-                                selected: _coef == c,
-                                color: _accent,
-                                onTap: () => setState(() => _coef = c),
-                              ))
-                          .toList(),
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Expanded(child: _Field('体重', 'kg', _wtCtrl)),
+                        const SizedBox(width: 8),
+                        Expanded(child: _Field('現在Hb', 'g/dL', _hb0Ctrl)),
+                        const SizedBox(width: 8),
+                        Expanded(child: _Field('許容Hb', 'g/dL', _hbtCtrl)),
+                      ],
+                    ),
+                    const SizedBox(height: 16),
+                    SizedBox(
+                      width: double.infinity,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.center,
+                        children: [
+                          const Text('循環血液量 係数',
+                              style: TextStyle(
+                                  fontSize: 13, fontWeight: FontWeight.w600)),
+                          const SizedBox(height: 8),
+                          Wrap(
+                            spacing: 8,
+                            runSpacing: 8,
+                            alignment: WrapAlignment.center,
+                            children: _coefs
+                                .map((c) => _ChoiceBtn(
+                                      label: c.label,
+                                      sub: '${c.mlPerKg} mL/kg',
+                                      selected: _coef == c,
+                                      color: _accent,
+                                      onTap: () =>
+                                          setState(() => _coef = c),
+                                    ))
+                                .toList(),
+                          ),
+                        ],
+                      ),
                     ),
                   ],
                 ),
@@ -208,34 +225,42 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
 
 // ─── ヘルパーウィジェット ─────────────────────────────────────
 
-class _InputRow extends StatelessWidget {
+class _Field extends StatelessWidget {
   final String label;
+  final String unit;
   final TextEditingController ctrl;
-  const _InputRow(this.label, this.ctrl);
+  const _Field(this.label, this.unit, this.ctrl);
 
   @override
   Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 5),
-      child: Row(children: [
-        SizedBox(
-            width: 130,
-            child: Text(label, style: const TextStyle(fontSize: 14))),
-        Expanded(
-          child: TextField(
-            controller: ctrl,
-            keyboardType:
-                const TextInputType.numberWithOptions(decimal: true),
-            decoration: const InputDecoration(
-              isDense: true,
-              contentPadding:
-                  EdgeInsets.symmetric(horizontal: 10, vertical: 10),
-              border: OutlineInputBorder(),
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(label,
+            style: const TextStyle(fontSize: 12, color: Colors.black54)),
+        const SizedBox(height: 4),
+        TextField(
+          controller: ctrl,
+          keyboardType:
+              const TextInputType.numberWithOptions(decimal: true),
+          textAlign: TextAlign.center,
+          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+          decoration: InputDecoration(
+            suffixText: unit,
+            suffixStyle:
+                const TextStyle(fontSize: 11, color: Colors.black45),
+            isDense: true,
+            filled: true,
+            fillColor: const Color(0xFFF7F9FA),
+            contentPadding:
+                const EdgeInsets.symmetric(horizontal: 8, vertical: 11),
+            border: OutlineInputBorder(
+              borderRadius: BorderRadius.circular(10),
+              borderSide: BorderSide.none,
             ),
-            style: const TextStyle(fontSize: 15),
           ),
         ),
-      ]),
+      ],
     );
   }
 }

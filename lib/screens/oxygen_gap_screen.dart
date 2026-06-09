@@ -100,9 +100,16 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                         style: theme.textTheme.titleSmall
                             ?.copyWith(fontWeight: FontWeight.bold)),
                     const SizedBox(height: 12),
-                    _InputRow('Hb (g/dL)', _hbCtrl),
-                    _InputRow('SaO₂ (%)', _sao2Ctrl),
-                    _InputRow('SvO₂ (%)', _svo2Ctrl),
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Expanded(child: _Field('Hb', 'g/dL', _hbCtrl)),
+                        const SizedBox(width: 8),
+                        Expanded(child: _Field('SaO₂', '%', _sao2Ctrl)),
+                        const SizedBox(width: 8),
+                        Expanded(child: _Field('SvO₂', '%', _svo2Ctrl)),
+                      ],
+                    ),
                   ],
                 ),
               ),
@@ -124,20 +131,29 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                       _ResultRow('CaO₂', _caO2!.toStringAsFixed(2), 'mL/dL'),
                       _ResultRow('CvO₂', _cvO2!.toStringAsFixed(2), 'mL/dL'),
                       const Divider(height: 18),
-                      _BigResult(
-                        label: '酸素較差 (CaO₂−CvO₂)',
-                        value: _gap!.toStringAsFixed(2),
-                        unit: 'mL/dL',
-                        badge: _evalGap(_gap!),
-                        accent: _accent,
-                      ),
-                      const SizedBox(height: 10),
-                      _BigResult(
-                        label: 'O₂ER（酸素摂取率）',
-                        value: _o2er!.toStringAsFixed(1),
-                        unit: '%',
-                        badge: _evalO2er(_o2er!),
-                        accent: _accent,
+                      Row(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          Expanded(
+                            child: _BigResult(
+                              label: '酸素較差',
+                              value: _gap!.toStringAsFixed(2),
+                              unit: 'mL/dL',
+                              badge: _evalGap(_gap!),
+                              accent: _accent,
+                            ),
+                          ),
+                          const SizedBox(width: 10),
+                          Expanded(
+                            child: _BigResult(
+                              label: 'O₂ER',
+                              value: _o2er!.toStringAsFixed(1),
+                              unit: '%',
+                              badge: _evalO2er(_o2er!),
+                              accent: _accent,
+                            ),
+                          ),
+                        ],
                       ),
                     ],
                   ),
@@ -192,34 +208,42 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
 
 // ─── ヘルパーウィジェット ─────────────────────────────────────
 
-class _InputRow extends StatelessWidget {
+class _Field extends StatelessWidget {
   final String label;
+  final String unit;
   final TextEditingController ctrl;
-  const _InputRow(this.label, this.ctrl);
+  const _Field(this.label, this.unit, this.ctrl);
 
   @override
   Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 5),
-      child: Row(children: [
-        SizedBox(
-            width: 110,
-            child: Text(label, style: const TextStyle(fontSize: 14))),
-        Expanded(
-          child: TextField(
-            controller: ctrl,
-            keyboardType:
-                const TextInputType.numberWithOptions(decimal: true),
-            decoration: const InputDecoration(
-              isDense: true,
-              contentPadding:
-                  EdgeInsets.symmetric(horizontal: 10, vertical: 10),
-              border: OutlineInputBorder(),
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(label,
+            style: const TextStyle(fontSize: 12, color: Colors.black54)),
+        const SizedBox(height: 4),
+        TextField(
+          controller: ctrl,
+          keyboardType:
+              const TextInputType.numberWithOptions(decimal: true),
+          textAlign: TextAlign.center,
+          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+          decoration: InputDecoration(
+            suffixText: unit,
+            suffixStyle:
+                const TextStyle(fontSize: 11, color: Colors.black45),
+            isDense: true,
+            filled: true,
+            fillColor: const Color(0xFFF7F9FA),
+            contentPadding:
+                const EdgeInsets.symmetric(horizontal: 8, vertical: 11),
+            border: OutlineInputBorder(
+              borderRadius: BorderRadius.circular(10),
+              borderSide: BorderSide.none,
             ),
-            style: const TextStyle(fontSize: 15),
           ),
         ),
-      ]),
+      ],
     );
   }
 }
@@ -234,11 +258,10 @@ class _ResultRow extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 3),
-      child: Row(children: [
-        SizedBox(
-            width: 130,
-            child: Text(label,
-                style: const TextStyle(fontSize: 13, color: Colors.black54))),
+      child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+        Text(label,
+            style: const TextStyle(fontSize: 13, color: Colors.black54)),
+        const SizedBox(width: 8),
         Text(value,
             style:
                 const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
@@ -268,42 +291,37 @@ class _BigResult extends StatelessWidget {
   Widget build(BuildContext context) {
     final (badgeText, badgeFg, badgeBg) = badge;
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 12),
       decoration: BoxDecoration(
         color: accent.withValues(alpha: 0.06),
         borderRadius: BorderRadius.circular(12),
       ),
-      child: Row(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Expanded(
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(label,
-                    style: const TextStyle(
-                        fontSize: 12, color: Colors.black54)),
-                const SizedBox(height: 2),
-                Row(
-                  crossAxisAlignment: CrossAxisAlignment.baseline,
-                  textBaseline: TextBaseline.alphabetic,
-                  children: [
-                    Text(value,
-                        style: TextStyle(
-                            fontSize: 26,
-                            fontWeight: FontWeight.bold,
-                            color: accent)),
-                    const SizedBox(width: 4),
-                    Text(unit,
-                        style: const TextStyle(
-                            fontSize: 13, color: Colors.black54)),
-                  ],
-                ),
-              ],
-            ),
+          Text(label,
+              textAlign: TextAlign.center,
+              style: const TextStyle(fontSize: 12, color: Colors.black54)),
+          const SizedBox(height: 4),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.baseline,
+            textBaseline: TextBaseline.alphabetic,
+            children: [
+              Text(value,
+                  style: TextStyle(
+                      fontSize: 26,
+                      fontWeight: FontWeight.bold,
+                      color: accent)),
+              const SizedBox(width: 4),
+              Text(unit,
+                  style:
+                      const TextStyle(fontSize: 12, color: Colors.black54)),
+            ],
           ),
+          const SizedBox(height: 6),
           Container(
-            padding:
-                const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 3),
             decoration: BoxDecoration(
               color: badgeBg,
               borderRadius: BorderRadius.circular(20),
