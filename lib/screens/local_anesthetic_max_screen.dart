@@ -27,8 +27,8 @@ enum _LADrug {
   levobupivacaine(
     label: 'レボブピバカイン',
     brand: 'ポプスカイン',
-    maxNoEpi: 3.0,
-    maxEpi: 3.0,
+    maxNoEpi: 2.5,
+    maxEpi: 2.5,
     concList: [0.25, 0.5, 0.75],
   ),
   bupivacaine(
@@ -394,6 +394,7 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                     const Text(
                       '・極量は成人の参考値。高齢者・低体重・肝機能低下では減量。\n'
                       '・エピネフリン添加で吸収が遅くなり上限が緩和されるのは主にリドカイン（ブピバカイン等は変化なし）。\n'
+                      '・レボブピバカインは体重換算と別に1回最大150mgとされる（添付文書）。\n'
                       '・血管内誤注入では極量以下でも中毒(LAST)が起こりうる。\n'
                       '・必ず最新の添付文書を確認すること。',
                       style: TextStyle(fontSize: 12, height: 1.6),

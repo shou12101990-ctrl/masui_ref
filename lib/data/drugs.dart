@@ -649,7 +649,7 @@ const List<Drug> kDrugs = [
     brand: 'ポプスカイン',
     category: DrugCategory.localAnesthetic,
     spec: '2.5mg/ml (0.25%)',
-    dose: '極量 3mg/kg / 硬膜外維持 6ml/h (50kgに対し15mg/h)',
+    dose: '・極量 2.5mg/kg (1回最大150mg)\n・硬膜外維持 6ml/h (50kgに対し15mg/h)',
     mechanism: 'ブピバカインのS(-)-体のみ (光学異性体). 非選択的NaCチャネル遮断 (心毒性軽減)',
     notes: [
       DrugNote('薬物動態',
