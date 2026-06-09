@@ -28,9 +28,9 @@ class _DripScreenState extends State<DripScreen> {
 
   // 量・時間モード
   _InputMode _inputMode = _InputMode.rate;
-  final _volCtrl = TextEditingController(text: '500');
-  final _timeCtrl = TextEditingController(text: '2');
-  bool _timeInHours = true;
+  final _volCtrl = TextEditingController(text: '100');
+  final _timeCtrl = TextEditingController(text: '15');
+  bool _timeInHours = false;
 
   Timer? _timer;
   Timer? _arcTimer;
