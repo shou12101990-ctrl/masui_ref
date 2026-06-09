@@ -809,7 +809,7 @@ const List<Drug> kDrugs = [
     category: DrugCategory.steroid,
     spec: '40mg/V, 125mg/V, 500mg/V, 1000mg/V',
     dilution: '付属溶解液 or NS で溶解',
-    dose: 'アナフィラキシー 125mg iv / パルス療法 500-1000mg/day × 3日',
+    dose: '・アナフィラキシー 125mg iv\n・パルス療法 500-1000mg/day × 3日',
     mechanism: '強力な糖質コルチコイド作用 (鉱質コルチコイド作用なし)',
     notes: [
       DrugNote('使用場面',
@@ -821,7 +821,7 @@ const List<Drug> kDrugs = [
           '・CRP上昇を抑制しAlb低下が抑えられることで, 術後早期回復が見込める (観察研究).\n'
           '・高用量でのACTH抑制により周術期副腎機能の低下に注意.'),
       DrugNote('一般的性質・副作用',
-          '・プレドニゾロンの5-6倍の抗炎症力価. 鉱質コルチコイド作用はほぼなし.\n'
+          '・抗炎症力価はヒドロコルチゾンの約5倍 (プレドニゾロンの約1.25倍). 鉱質コルチコイド作用はほぼなし.\n'
           '・高用量・急速静注で心血管系副作用 (重篤な不整脈)の報告あり→緩徐に投与.\n'
           '・長期投与後の急激な中断で副腎クリーゼ. 血糖・感染に注意.'),
     ],
@@ -832,7 +832,7 @@ const List<Drug> kDrugs = [
     category: DrugCategory.steroid,
     spec: '1.65mg/mL/A, 3.3mg/mL/A (6.6mg/2mL)',
     dilution: '原液または NS 希釈',
-    dose: '制吐 4-8mg iv / 脳浮腫 10mg → 4mg 6hおき',
+    dose: '・制吐 4-8mg iv\n・脳浮腫 10mg → 4mg 6hおき',
     mechanism: '最強力の糖質コルチコイド作用 (鉱質コルチコイド作用なし, 半減期36-54h)',
     notes: [
       DrugNote('PONV予防・制吐',
@@ -842,6 +842,7 @@ const List<Drug> kDrugs = [
           '・PONV予防: 4-8mg 単回. ・術後脳浮腫: 10mg iv 後 4mg 6hおき → 漸減.\n'
           '・抗炎症: 4-10mg ivを1日1-4回.'),
       DrugNote('一般的性質',
+          '・抗炎症力価はヒドロコルチゾンの約25倍 (PSLの約6-7倍, DEX0.5-0.75mg≒PSL5mg).\n'
           '・鉱質コルチコイド作用なし→Na貯留・浮腫を起こさない.\n'
           '・半減期36-54h (長時間型). ACTHへのfeedback抑制が強く, 長期使用で副腎萎縮.\n'
           '・血糖上昇作用が強く, 糖尿病患者では特に注意.'),
