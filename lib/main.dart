@@ -58,32 +58,80 @@ class _HomeShellState extends State<HomeShell> {
 
   @override
   Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
     return Scaffold(
       body: _pages[_index],
-      bottomNavigationBar: NavigationBar(
-        selectedIndex: _index,
-        onDestinationSelected: (i) => setState(() => _index = i),
-        destinations: const [
-          NavigationDestination(
-            icon: Icon(Icons.medication_outlined),
-            selectedIcon: Icon(Icons.medication),
-            label: '薬剤',
+      bottomNavigationBar: _BottomNav(
+        index: _index,
+        scheme: scheme,
+        onTap: (i) => setState(() => _index = i),
+      ),
+    );
+  }
+}
+
+class _NavItem {
+  final IconData icon;
+  final IconData selectedIcon;
+  final String label;
+  final bool emphasis; // 緊急対応など強調（常に赤・太字）
+  const _NavItem(this.icon, this.selectedIcon, this.label,
+      {this.emphasis = false});
+}
+
+class _BottomNav extends StatelessWidget {
+  final int index;
+  final ColorScheme scheme;
+  final ValueChanged<int> onTap;
+  const _BottomNav(
+      {required this.index, required this.scheme, required this.onTap});
+
+  static const _items = [
+    _NavItem(Icons.medication_outlined, Icons.medication, '薬剤'),
+    _NavItem(Icons.calculate_outlined, Icons.calculate, '機能'),
+    _NavItem(Icons.menu_book_outlined, Icons.menu_book, '解説'),
+    _NavItem(Icons.emergency_outlined, Icons.emergency, '緊急対応',
+        emphasis: true),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+      color: Colors.white,
+      elevation: 3,
+      child: SafeArea(
+        top: false,
+        child: SizedBox(
+          height: 64,
+          child: Row(
+            children: [
+              for (int i = 0; i < _items.length; i++)
+                Expanded(child: _tile(_items[i], i)),
+            ],
           ),
-          NavigationDestination(
-            icon: Icon(Icons.calculate_outlined),
-            selectedIcon: Icon(Icons.calculate),
-            label: '機能',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.menu_book_outlined),
-            selectedIcon: Icon(Icons.menu_book),
-            label: '解説',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.emergency_outlined, color: Colors.red),
-            selectedIcon: Icon(Icons.emergency, color: Colors.red),
-            label: '緊急対応',
-          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _tile(_NavItem it, int i) {
+    final selected = index == i;
+    final color = it.emphasis
+        ? Colors.red
+        : (selected ? scheme.primary : Colors.black54);
+    final bold = it.emphasis || selected;
+    return InkWell(
+      onTap: () => onTap(i),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(selected ? it.selectedIcon : it.icon, color: color, size: 24),
+          const SizedBox(height: 4),
+          Text(it.label,
+              style: TextStyle(
+                  fontSize: 11,
+                  color: color,
+                  fontWeight: bold ? FontWeight.bold : FontWeight.w500)),
         ],
       ),
     );
