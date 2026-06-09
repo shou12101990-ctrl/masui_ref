@@ -11,7 +11,7 @@ const List<Drug> kDrugs = [
     spec: '200mg/20ml/A, 500mg/50ml/V',
     dilution: '原液',
     concentration: '10mg/ml',
-    dose: '導入 1.0-2.0mg/kg ショット / 維持 4mg/kg/h〜',
+    dose: '・導入 1.0-2.0mg/kg ショット\n・維持 4mg/kg/h〜',
     mechanism: 'GABA受容体を介した鎮静',
     notes: [
       DrugNote('導入',
@@ -37,7 +37,7 @@ const List<Drug> kDrugs = [
     spec: '500mg/A',
     dilution: 'NSで20mlに希釈',
     concentration: '25mg/ml',
-    dose: '導入 健常成人 3-5mg/kg / 短時間麻酔 2-3mg/kg',
+    dose: '・導入 健常成人 3-5mg/kg\n・短時間麻酔 2-3mg/kg',
     mechanism: 'GABA受容体を介した鎮静 (バルビツール酸誘導体)',
     notes: [
       DrugNote('導入量',
@@ -57,7 +57,7 @@ const List<Drug> kDrugs = [
     spec: '500mg/V',
     dilution: '1V + NS 20ml',
     concentration: '25mg/ml',
-    dose: '3-6γ DC前 / 3mg/kg bolus',
+    dose: '・3-6γ DC前\n・3mg/kg bolus',
     mechanism: 'GABA受容体を介した鎮静 (バルビツール酸誘導体)',
     notes: [
       DrugNote('補足',
@@ -95,7 +95,7 @@ const List<Drug> kDrugs = [
     spec: '50mg/V',
     dilution: '1V を NS 50ml',
     concentration: '1mg/ml',
-    dose: '導入 12mg/kg/h (ASA-PS3以上は6mg/kg/h)/ 維持 1mg/kg/h〜',
+    dose: '・導入 12mg/kg/h (ASA-PS3以上は6mg/kg/h)\n・維持 1mg/kg/h〜',
     mechanism: 'GABA-A受容体のBZ接合部位を介したGABA賦活化による鎮静 (BZ系)',
     notes: [
       DrugNote('全身麻酔での使い方',
@@ -115,7 +115,7 @@ const List<Drug> kDrugs = [
     spec: '200mcg/2ml/V',
     dilution: '1V + NS 48ml',
     concentration: '4mcg/ml',
-    dose: 'ローディング 6mcg/kg/10min → 維持 0.2-0.7mcg/kg/h',
+    dose: '・ローディング 6mcg/kg/10min\n・維持 0.2-0.7mcg/kg/h',
     mechanism: 'α2A受容体を介した鎮静・鎮痛・臓器保護作用',
     notes: [
       DrugNote('用量',
@@ -131,7 +131,7 @@ const List<Drug> kDrugs = [
     brand: 'アネキセート',
     category: DrugCategory.sedative,
     spec: '0.5mg/5ml/A',
-    dose: '0.2mg iv 20分毎 / 最大2-3mg',
+    dose: '・0.2mg iv 20分毎\n・最大2-3mg',
     mechanism: 'BZ受容体に高い親和性をもちBZ系薬剤を競合的に阻害',
     notes: [
       DrugNote('用量',
@@ -192,7 +192,7 @@ const List<Drug> kDrugs = [
     category: DrugCategory.inhalational,
     spec: '20mg/V',
     dilution: '1V + 注射用水60ml',
-    dose: '悪性高熱症 初回2.5mg/kg iv急速→反復し最大10mg/kg / 悪性症候群 初回40mg→最大200mg/day',
+    dose: '・悪性高熱症 初回2.5mg/kg iv急速→反復し最大10mg/kg\n・悪性症候群 初回40mg→最大200mg/day',
     mechanism: '筋小胞体からのCa遊離を抑制し筋の興奮-収縮連関を遮断 (悪性高熱・悪性症候群に使用)',
     notes: [
       DrugNote('悪性高熱症の用量',
@@ -213,7 +213,7 @@ const List<Drug> kDrugs = [
     spec: '50mg/5ml/V',
     dilution: '原液',
     concentration: '10mg/ml',
-    dose: '導入 0.6-1.2mg/kg / 維持 5-7γ程度',
+    dose: '・導入 0.6-1.2mg/kg\n・維持 5-7γ程度',
     mechanism: 'AChによるシナプス後膜の脱分極を競合的に阻害 (非脱分極性筋弛緩 NDMRs)',
     notes: [
       DrugNote('原液持続の目安',
@@ -236,7 +236,7 @@ const List<Drug> kDrugs = [
     category: DrugCategory.muscleRelaxant,
     spec: '200mg/2ml',
     concentration: '100mg/ml',
-    dose: 'TOFに応じて 2-4mg/kg / 緊急 16mg/kg',
+    dose: '・TOFに応じて 2-4mg/kg\n・緊急 16mg/kg',
     mechanism: 'ロクロニウム/ベクロニウムを包接するγシクロデキストリン製剤',
     notes: [
       DrugNote('リバース時の用量',
@@ -260,7 +260,7 @@ const List<Drug> kDrugs = [
     spec: '100mcg/2ml/A',
     dilution: '原液 / 2A+NS40ml(10mcg/ml) / 4A+NS30ml(20mcg/ml)',
     concentration: '50mcg/ml',
-    dose: '導入 2-4mcg/kg / 維持 0.2-2mcg/kg/h',
+    dose: '・導入 2-4mcg/kg\n・維持 0.2-2mcg/kg/h',
     mechanism: 'μ受容体を介した鎮痛',
     notes: [
       DrugNote('用量',
@@ -377,7 +377,7 @@ const List<Drug> kDrugs = [
     brand: 'ナロキソン',
     category: DrugCategory.analgesic,
     spec: '0.2mg/ml/A',
-    dose: '0.2mg iv, 不十分なら2-3分毎に追加 / 呼吸抑制のみ戻すなら0.04mg(1-2mcg/kg)ずつ漸増',
+    dose: '・0.2mg iv, 不十分なら2-3分毎に追加\n・呼吸抑制のみ戻すなら0.04mg(1-2mcg/kg)ずつ漸増',
     mechanism: '選択的μ受容体拮抗薬',
     notes: [
       DrugNote('用量',
@@ -397,7 +397,7 @@ const List<Drug> kDrugs = [
     spec: '1mg/1ml/A',
     dilution: '1A + NS 9ml',
     concentration: '1mg/10ml',
-    dose: 'ショット 0.1-0.2mg / 持続 50kgに7.5ml/hでNAd0.05γ相当',
+    dose: '・ショット 0.1-0.2mg\n・持続 50kgに7.5ml/hでNAd0.05γ相当',
     mechanism: '選択的α1作動薬',
     notes: [
       DrugNote('用量',
@@ -429,7 +429,7 @@ const List<Drug> kDrugs = [
     spec: '1mg/ml/A',
     dilution: '4A+NS36ml(1mg/10ml) / 3A+NS47ml(0.06mg/ml)',
     concentration: '1mg/10ml / 0.06mg/ml',
-    dose: '①0.01-0.02γ ②0.02-0.1γ ③0.1-0.2γ',
+    dose: '①0.01-0.02γ\n②0.02-0.1γ\n③0.1-0.2γ',
     mechanism: 'α1β1β2作動. ①β優位 ②α＋β ③α優位',
     notes: [
       DrugNote('用量',
@@ -449,7 +449,7 @@ const List<Drug> kDrugs = [
     spec: '1mg/ml/A',
     dilution: '4A+NS36ml(1mg/10ml) / 3A+NS47ml(3mg/50ml) / 1A+NS100ml(1mg/100ml)',
     concentration: '1mg/10ml 等',
-    dose: '0.01-0.3γ / ショット 5mcgずつ',
+    dose: '・0.01-0.3γ\n・ショット 5mcgずつ',
     mechanism: 'α1+2(+心臓β1), 末梢を締めて昇圧. β作用で10-15%CO・SV上昇',
     notes: [
       DrugNote('薬物動態',
@@ -486,7 +486,7 @@ const List<Drug> kDrugs = [
     category: DrugCategory.vasopressor,
     spec: '100mg/5ml/A (150mg/50mlシリンジ製剤も)',
     dilution: '5A + NS 25ml',
-    dose: '①1-3γ ②3-10γ ③10-20γ',
+    dose: '①1-3γ\n②3-10γ\n③10-20γ',
     mechanism: '①腎血流増加・利尿 ②β1で心収縮力・HR増加 ③α作用優位で昇圧',
     notes: [
       DrugNote('一般的性質',
@@ -542,7 +542,7 @@ const List<Drug> kDrugs = [
     spec: '2mg/2ml',
     dilution: '原液 / 1A + NS 8ml',
     concentration: '1mg/ml / 0.2mg/ml',
-    dose: 'ショット 10-30mcg/kg or 0.2-1.0mg / 持続 0.5-6γ',
+    dose: '・ショット 10-30mcg/kg or 0.2-1.0mg\n・持続 0.5-6γ',
     mechanism: '血管平滑筋へのCa拮抗作用による動脈拡張',
     notes: [
       DrugNote('用量',
@@ -560,7 +560,7 @@ const List<Drug> kDrugs = [
     spec: '5mg/10ml/A (ミオコール/ニトロ 500mg/100ml 0.05%)',
     dilution: '原液',
     concentration: '1mg/2ml',
-    dose: '心不全 0.17γ前後 / 降圧 0.5γ前後',
+    dose: '・心不全 0.17γ前後\n・降圧 0.5γ前後',
     mechanism: 'NO産生による血管拡張. 冠血管主幹部(>100μm)の拡張',
     notes: [
       DrugNote('用量',
@@ -580,7 +580,7 @@ const List<Drug> kDrugs = [
     spec: '12mg/V',
     dilution: '4V+NS48ml(1mg/ml) / 10V+NS60ml(2mg/ml)',
     concentration: '1mg/ml / 2mg/ml',
-    dose: '不安定狭心症 2-6mg/h / 急性心不全 0.2mg/kg負荷→0.05-0.2mg/kg/h',
+    dose: '・不安定狭心症 2-6mg/h\n・急性心不全 0.2mg/kg負荷→0.05-0.2mg/kg/h',
     mechanism: 'NO産生＋ATP感受性Kチャネル開口による動静脈拡張・冠(細)動脈拡張・冠攣縮抑制 (強心作用はない)',
     notes: [
       DrugNote('用量',
@@ -600,10 +600,15 @@ const List<Drug> kDrugs = [
     spec: '500mcg/V',
     dilution: '1V + NS 48ml',
     concentration: '10mcg/ml',
+    dose: '・調節性低血圧 0.05-0.2γ (2.5-10μg/min)\n・動脈管開存維持(新生児) 50-100ng/kg/min開始→有効最小量',
     mechanism: 'PGE1製剤. cAMP増加による血管拡張作用のみ, 収縮力は下げない',
     notes: [
+      DrugNote('用量',
+          '・調節性低血圧: 2.5-10μg/min (0.05-0.2γ). \n・動脈管依存性CHDの動脈管開存維持(新生児): 50-100ng/kg/min開始→症状に応じ有効最小量(10ng/kg/minでも有効なことあり). '),
       DrugNote('補足',
           'PGE1製剤. cAMP増加による血管拡張作用のみで心収縮力は下げない. アピスタンディン(1V+NS40ml, 50mcg/4ml)もある. '),
+      DrugNote('副作用',
+          '・無呼吸発作(特に新生児の動脈管開存維持時, 用量依存)→呼吸管理可能な施設で投与. \n・低血圧, 顔面紅潮, 発熱, 注射部位の血管痛. '),
     ],
   ),
 
@@ -613,7 +618,7 @@ const List<Drug> kDrugs = [
     brand: 'キシロカイン',
     category: DrugCategory.localAnesthetic,
     spec: '0.5-2.0%製剤',
-    dose: '極量 4mg/kg (E入 7mg/kg)/ iv法 50-100mg / 全身麻酔下 0.8-1.3mg/kg/h',
+    dose: '・極量 4mg/kg (E入 7mg/kg)\n・iv法 50-100mg\n・全身麻酔下 持続 0.8-1.3mg/kg/h',
     mechanism: 'NaCチャネル遮断による鎮痛・抗不整脈作用 (短-中時間作用型, 蛋白結合率64%, pKa 7.8)',
     notes: [
       DrugNote('薬物動態',
@@ -621,8 +626,8 @@ const List<Drug> kDrugs = [
       DrugNote('iv使用',
           '50-100mg(1-2mg/kg)を緩徐にiv. 10-20min毎に投与可能だが300mg/h以下, 4mg/min以上では重篤な副作用のリスク. 全身麻酔下での持続: 0.8-1.3mg/kg/h.'),
       DrugNote('一般的性質',
-          '・ポリアンプは防腐剤添加で局所麻酔用のみ, iv禁. 持続静注で術後オピオイドを減量できる.\n・NaCブロックによる神経伝達抑制に加え好中球の脱顆粒抑制による抗炎症作用もある.\n・悪性高熱の原因となる. ポルフィリン症患者では急性腹症・四肢麻痺等を呈する.\n・脊髄くも膜下投与はTNSリスクが他剤より高く推奨されない.'),
-      DrugNote('副作用', '耳鳴り, PQ延長・QRS幅増大などの心電図変化, 悪性高熱症類似症状.'),
+          '・ポリアンプは防腐剤添加で局所麻酔用のみ, iv禁. 持続静注で術後オピオイドを減量できる.\n・NaCブロックによる神経伝達抑制に加え好中球の脱顆粒抑制による抗炎症作用もある.\n・かつて悪性高熱の誘発が疑われたが, 現在は局所麻酔薬(アミド型含む)はMHを誘発しないとされ誤解は解けている(MHAUS). ポルフィリン症患者では急性腹症・四肢麻痺等を呈しうる.\n・脊髄くも膜下投与はTNSリスクが他剤より高く推奨されない.'),
+      DrugNote('副作用', '耳鳴り・舌口唇のしびれ, PQ延長・QRS幅増大などの心電図変化, 重症で痙攣・心停止 (LAST).'),
     ],
   ),
   Drug(
@@ -630,7 +635,7 @@ const List<Drug> kDrugs = [
     brand: 'マーカイン',
     category: DrugCategory.localAnesthetic,
     spec: '0.25-0.5%製剤',
-    dose: '極量 3mg/kg (0.25%なら体重×0.8 ml)',
+    dose: '極量 2mg/kg (0.25%なら体重×0.8 ml)',
     mechanism: '非選択的NaCチャネル遮断 (長時間作用型, 蛋白結合率93%, pKa 8.2, 心毒性強)',
     notes: [
       DrugNote('薬物動態',
