@@ -348,11 +348,11 @@ const List<Drug> kDrugs = [
     brand: 'アセリオ',
     category: DrugCategory.analgesic,
     spec: '1000mg/100ml (バッグ製剤)',
-    dose: '成人 300-1000mgを15minでiv, 4-6h以上あけて, 最大4000mg/day',
+    dose: '成人 300-1000mgを15minでiv, 4hおき, 最大4000mg/day',
     mechanism: '視床・大脳皮質の痛覚閾値を高めることによる鎮痛と推定',
     notes: [
       DrugNote('用量',
-          '成人疼痛: 300-1000mgを15minでiv, 4-6時間以上あけて, 最大4000mg/day. 50kg未満は15mg/kg/回・最大60mg/kg/day. \n2歳以上: 10-15mg/kg 4-6時間以上あけて・最大60mg/kg/day(成人量を超えない). 2歳未満: 7.5mg/kg 4-6時間以上あけて・最大30mg/kg. '),
+          '成人疼痛: 300-1000mgを15minでiv, 4hおき, 最大4000mg/day. 50kg未満は15mg/kg/回・最大60mg/kg/day. \n2歳以上: 10-15mg/kg 4hおき・最大60mg/kg/day. 2歳未満: 7.5mg/kg 4hおき・最大30mg/kg. '),
       DrugNote('薬物動態 / 相互作用',
           '半減期2.5h. シクロオキシゲナーゼ阻害作用は殆ど無い. アルコール多量常飲者は肝不全に, ワーファリン併用は出血傾向助長のため減量. '),
     ],
