@@ -22,8 +22,8 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
             Padding(
               padding: const EdgeInsets.fromLTRB(16, 16, 16, 8),
               child: Text('緊急対応',
-                  style: theme.textTheme.titleLarge
-                      ?.copyWith(fontWeight: FontWeight.bold)),
+                  style: theme.textTheme.titleLarge?.copyWith(
+                      fontWeight: FontWeight.bold, color: Colors.red)),
             ),
             Expanded(
               child: ListView(
