@@ -373,6 +373,9 @@ class _ProtocolCard extends StatelessWidget {
           tilePadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 2),
           childrenPadding:
               const EdgeInsets.fromLTRB(14, 0, 14, 12),
+          // 展開時の中身を左詰めに(既定の中央寄せだと左が大きく空く)
+          expandedCrossAxisAlignment: CrossAxisAlignment.start,
+          expandedAlignment: Alignment.topLeft,
           title: Text(
             protocol.title,
             style: TextStyle(

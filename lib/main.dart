@@ -125,7 +125,9 @@ class _BottomNav extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Icon(selected ? it.selectedIcon : it.icon, color: color, size: 24),
+          // 強調タブ(緊急対応)は常に塗りつぶしアイコン
+          Icon((it.emphasis || selected) ? it.selectedIcon : it.icon,
+              color: color, size: 24),
           const SizedBox(height: 4),
           Text(it.label,
               style: TextStyle(
