@@ -46,7 +46,7 @@ class CalculatorHubScreen extends StatelessWidget {
       _CalcItem(
         icon: Icons.water_drop,
         title: '点滴 メトロノーム',
-        subtitle: '輸液用ポンプ不要の時代へ─.',
+        subtitle: '輸液用ポンプ不要の時代へ───.',
         color: Colors.teal,
         page: const DripScreen(),
       ),
