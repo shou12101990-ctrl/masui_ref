@@ -1,8 +1,7 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches: [main]
+  # 自動デプロイ停止: push トリガーは無効化. 手動 (workflow_dispatch) のみ.
   workflow_dispatch:
 
 permissions:
