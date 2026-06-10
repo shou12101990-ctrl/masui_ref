@@ -11,7 +11,7 @@ class DrugDetailScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
-    final catColor = drug.category.color;
+    final catColor = drug.markColor;
 
     final specs = <MapEntry<String, String>>[
       if (drug.spec != null) MapEntry('規格', drug.spec!),

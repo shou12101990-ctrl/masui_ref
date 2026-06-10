@@ -50,6 +50,10 @@ class Drug {
       category == DrugCategory.vasodilator ||
       const ['フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド', 'プロタミン', 'ハプトグロビン', 'イダルシズマブ', 'アンデキサネット', 'ビタミンK']
           .any((s) => name.contains(s));
+
+  /// 表示マーカー色。基本はカテゴリ色だが, 一部薬剤は個別に上書きする。
+  Color get markColor =>
+      name.contains('プロカテロール') ? const Color(0xFFC5E1A5) : category.color;
 }
 
 /// 解説の1セクション

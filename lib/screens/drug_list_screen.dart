@@ -153,7 +153,7 @@ class _DrugCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final catColor = drug.category.color;
+    final catColor = drug.markColor;
     return Card(
       child: InkWell(
         borderRadius: BorderRadius.circular(14),
