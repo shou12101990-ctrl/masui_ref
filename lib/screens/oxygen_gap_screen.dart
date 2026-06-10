@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
+import '../domain/calculators/oxygen_gap.dart';
+
 /// 酸素較差計算機（シンプル版）
 /// Hb・SaO2・SvO2 から 動静脈酸素含量較差 (CaO2 − CvO2) と O2ER を算出する。
+/// 計算ロジックは lib/domain/calculators/oxygen_gap.dart に分離。
 class OxygenGapScreen extends StatefulWidget {
   const OxygenGapScreen({super.key});
 
@@ -34,31 +37,14 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
     super.dispose();
   }
 
-  double? _p(TextEditingController c) {
-    final v = double.tryParse(c.text.trim());
-    return (v != null && v > 0) ? v : null;
-  }
+  double? _v(TextEditingController c) => double.tryParse(c.text.trim());
 
-  double? get _hb   => _p(_hbCtrl);
-  double? get _sao2 => _p(_sao2Ctrl);
-  double? get _svo2 => _p(_svo2Ctrl);
-
-  // 動脈血酸素含量 (溶存O2は無視, mL/dL)
-  double? get _caO2 =>
-      (_hb != null && _sao2 != null) ? 1.34 * _hb! * (_sao2! / 100.0) : null;
-
-  // 混合静脈血酸素含量 (mL/dL)
-  double? get _cvO2 =>
-      (_hb != null && _svo2 != null) ? 1.34 * _hb! * (_svo2! / 100.0) : null;
-
-  // 動静脈酸素含量較差 (mL/dL)
-  double? get _gap =>
-      (_caO2 != null && _cvO2 != null) ? _caO2! - _cvO2! : null;
-
-  // 酸素摂取率 (%)
-  double? get _o2er => (_gap != null && _caO2 != null && _caO2! > 0)
-      ? _gap! / _caO2! * 100.0
-      : null;
+  // 計算ロジックは domain 層へ分離 (純粋関数)
+  OxygenGapResult? get _result => computeOxygenGap(
+        hb: _v(_hbCtrl),
+        sao2: _v(_sao2Ctrl),
+        svo2: _v(_svo2Ctrl),
+      );
 
   (String, Color, Color) _evalGap(double v) {
     if (v < 3.5) return ('低い', Colors.blue.shade700, Colors.blue.shade50);
@@ -76,7 +62,8 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final hasResult = _gap != null;
+    final r = _result;
+    final hasResult = r != null;
 
     return Scaffold(
       appBar: AppBar(
@@ -128,8 +115,8 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                           style: theme.textTheme.titleSmall
                               ?.copyWith(fontWeight: FontWeight.bold)),
                       const SizedBox(height: 10),
-                      _ResultRow('CaO₂', _caO2!.toStringAsFixed(2), 'mL/dL'),
-                      _ResultRow('CvO₂', _cvO2!.toStringAsFixed(2), 'mL/dL'),
+                      _ResultRow('CaO₂', r.caO2.toStringAsFixed(2), 'mL/dL'),
+                      _ResultRow('CvO₂', r.cvO2.toStringAsFixed(2), 'mL/dL'),
                       const Divider(height: 18),
                       Row(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -137,9 +124,9 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                           Expanded(
                             child: _BigResult(
                               label: '酸素較差',
-                              value: _gap!.toStringAsFixed(2),
+                              value: r.gap.toStringAsFixed(2),
                               unit: 'mL/dL',
-                              badge: _evalGap(_gap!),
+                              badge: _evalGap(r.gap),
                               accent: _accent,
                             ),
                           ),
@@ -147,9 +134,9 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                           Expanded(
                             child: _BigResult(
                               label: 'O₂ER',
-                              value: _o2er!.toStringAsFixed(1),
+                              value: r.o2er.toStringAsFixed(1),
                               unit: '%',
-                              badge: _evalO2er(_o2er!),
+                              badge: _evalO2er(r.o2er),
                               accent: _accent,
                             ),
                           ),
