@@ -1,0 +1,50 @@
+import '../../models/drug.dart';
+
+/// 薬剤データ: 筋弛緩薬. (lib/data/drugs.dart から分割)
+const List<Drug> kMuscleRelaxantDrugs = [
+  Drug(
+    name: 'ロクロニウム (ROC)',
+    brand: 'エスラックス',
+    category: DrugCategory.muscleRelaxant,
+    spec: '50mg/5ml/V',
+    dilution: '原液',
+    concentration: '10mg/ml',
+    dose: '・導入 0.6-1.2mg/kg\n・維持 5-7γ程度',
+    mechanism: 'AChによるシナプス後膜の脱分極を競合的に阻害 (非脱分極性筋弛緩 NDMRs)',
+    notes: [
+      DrugNote('原液持続の目安',
+          '1mg/kgで導入→TOF 1を確認し0.1mg/kg bolus＋5γで持続→TOF 1になれば0.1mg/kg追加(約1hおき)→クリアランスに問題なければ15-30分でTOF回復. '),
+      DrugNote('薬物動態',
+          '作用発現 1.0-1.5min, 持続 30-60min, Vd 0.18L/kg, logP 0.1. 胆汁排泄なので肝不全では減量. '),
+      DrugNote('一般的性質',
+          '・ACh-Rの競合阻害薬. 咬筋・喉頭筋群・横隔膜はACh-Rが多く高用量が必要(横隔膜ED98 0.5mg/kg)→0.6mg/kgでは挿管に不十分な場合あり. \n・SUXに比べ心血管作用が少なく, スガマデクスで拮抗できる. \n・抗てんかん薬内服患者では効果持続が短縮. 歯磨き粉・シャンプーでも感作されうる(手術室アナフィラキシーでは抗生剤とロクロが最多). \n・MGでは感受性亢進, 熱傷患者では作用抑制. '),
+      DrugNote('PTC(post tetanic count)',
+          'TOFcnt<1の深い筋弛緩の指標. PTC 1なら10分以内, PTC 5なら3-4分, PTC 7ならすぐTOFcntが1になる. ロクロは効果部位濃度1.5以上で効果を発揮(骨格筋). '),
+      DrugNote('喉頭痙攣時(slow導入)',
+          'ROC 1.0-1.8mg/kg もしくは SCC 4ml/kg im. ただしim.は効果発現7min程度・遅発性筋弛緩・酸性製剤による組織障害のリスクあり. '),
+      DrugNote('筋弛緩遷延リスク',
+          'ロクロは肝代謝＋腎排泄. ①上腹部手術(肝血流↓)②低栄養(遊離ロクロ↑)③透析中(尿排泄されず効きっぱなし). 腹腔鏡・気道op・横隔膜周囲opなどでは深い筋弛緩が必須. '),
+    ],
+  ),
+  Drug(
+    name: 'スガマデクス (SGX)',
+    brand: 'ブリディオン',
+    category: DrugCategory.muscleRelaxant,
+    spec: '200mg/2ml',
+    concentration: '100mg/ml',
+    dose: '・TOFに応じて 2-4mg/kg\n・緊急 16mg/kg',
+    mechanism: 'ロクロニウム/ベクロニウムを包接するγシクロデキストリン製剤',
+    notes: [
+      DrugNote('リバース時の用量',
+          'TOF ratio 1.0以上で抜管可. TOF 1以上で2mg/kg, PTC 1以上で4mg/kg, ロクロ投与3分後程度の緊急リバースでは16mg/kg. ＊投与前にTOF2以上はほしい. '),
+      DrugNote('TOF比と臨床症状',
+          'TOF比<0.7: TV未正常化・開眼維持不能・握手不可. 0.7-0.9: 頭/下肢挙上可・舌圧子保持・握手可. >0.9: 臨床所見での判定は不可能. '),
+      DrugNote('薬物動態',
+          '効果発現 1-2min, 最大効果 6min. ROC/VECとの包接複合体は90%が24h以内に腎排泄, 半減期2.3h. 腎不全で36hと著明延長するが再クラーレ化はほぼ考慮不要. '),
+      DrugNote('一般的性質',
+          '・全例 母指内転筋TOFをモニタリングし, TOFが減衰しなくなったことを確認. \n・経口避妊薬は包接で血中濃度低下→飲み忘れと同じ対応. \n・重度腎障害/透析患者では非推奨. 投与後30minでPT/APTTが10-20%延長. '),
+      DrugNote('副作用 / 再筋弛緩',
+          '冠攣縮によるAMI・心停止, 原因不明の低血圧(投与後10分観察), 悪心嘔吐(2%), 過敏反応(4mg/kgで6.6%). 再筋弛緩にはロクロ大量(1.2mg/kg)で全SUGを包接, もしくはSUXを使用. ROCアレルギーには等量SUGで反応を抑制(ROC 50mg=SUG 200mg=各0.09mmol). '),
+    ],
+  ),
+];
