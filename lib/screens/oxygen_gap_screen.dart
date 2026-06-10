@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../domain/calculators/oxygen_gap.dart';
+import '../widgets/calc_parts.dart';
 
 /// 酸素較差計算機（シンプル版）
 /// Hb・SaO2・SvO2 から 動静脈酸素含量較差 (CaO2 − CvO2) と O2ER を算出する。
@@ -90,11 +91,11 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                     Row(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Expanded(child: _Field('Hb', 'g/dL', _hbCtrl)),
+                        Expanded(child: CalcField('Hb', 'g/dL', _hbCtrl)),
                         const SizedBox(width: 8),
-                        Expanded(child: _Field('SaO₂', '%', _sao2Ctrl)),
+                        Expanded(child: CalcField('SaO₂', '%', _sao2Ctrl)),
                         const SizedBox(width: 8),
-                        Expanded(child: _Field('SvO₂', '%', _svo2Ctrl)),
+                        Expanded(child: CalcField('SvO₂', '%', _svo2Ctrl)),
                       ],
                     ),
                   ],
@@ -115,8 +116,10 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                           style: theme.textTheme.titleSmall
                               ?.copyWith(fontWeight: FontWeight.bold)),
                       const SizedBox(height: 10),
-                      _ResultRow('CaO₂', r.caO2.toStringAsFixed(2), 'mL/dL'),
-                      _ResultRow('CvO₂', r.cvO2.toStringAsFixed(2), 'mL/dL'),
+                      CalcResultRow('CaO₂', r.caO2.toStringAsFixed(2), 'mL/dL',
+                          valueSize: 16, verticalPadding: 3),
+                      CalcResultRow('CvO₂', r.cvO2.toStringAsFixed(2), 'mL/dL',
+                          valueSize: 16, verticalPadding: 3),
                       const Divider(height: 18),
                       Row(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -194,71 +197,7 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
 }
 
 // ─── ヘルパーウィジェット ─────────────────────────────────────
-
-class _Field extends StatelessWidget {
-  final String label;
-  final String unit;
-  final TextEditingController ctrl;
-  const _Field(this.label, this.unit, this.ctrl);
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Text(label,
-            style: const TextStyle(fontSize: 12, color: Colors.black54)),
-        const SizedBox(height: 4),
-        TextField(
-          controller: ctrl,
-          keyboardType:
-              const TextInputType.numberWithOptions(decimal: true),
-          textAlign: TextAlign.center,
-          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-          decoration: InputDecoration(
-            suffixText: unit,
-            suffixStyle:
-                const TextStyle(fontSize: 11, color: Colors.black45),
-            isDense: true,
-            filled: true,
-            fillColor: const Color(0xFFF7F9FA),
-            contentPadding:
-                const EdgeInsets.symmetric(horizontal: 8, vertical: 11),
-            border: OutlineInputBorder(
-              borderRadius: BorderRadius.circular(10),
-              borderSide: BorderSide.none,
-            ),
-          ),
-        ),
-      ],
-    );
-  }
-}
-
-class _ResultRow extends StatelessWidget {
-  final String label;
-  final String value;
-  final String unit;
-  const _ResultRow(this.label, this.value, this.unit);
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 3),
-      child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
-        Text(label,
-            style: const TextStyle(fontSize: 13, color: Colors.black54)),
-        const SizedBox(width: 8),
-        Text(value,
-            style:
-                const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
-        const SizedBox(width: 4),
-        Text(unit,
-            style: const TextStyle(fontSize: 12, color: Colors.black54)),
-      ]),
-    );
-  }
-}
+// (入力欄/結果行は lib/widgets/calc_parts.dart の共通実装を使用)
 
 class _BigResult extends StatelessWidget {
   final String label;

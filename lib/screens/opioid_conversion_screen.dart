@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../domain/calculators/opioid_conversion.dart';
+import '../widgets/calc_parts.dart';
 
 /// オピオイド換算計算
 /// 内服オピオイド(mg/日) → 経口モルヒネ換算 → フェンタニル換算(μg/日・μg/h)
@@ -210,14 +211,20 @@ class _OpioidConversionScreenState extends State<OpioidConversionScreen> {
                           decoration:
                               BoxDecoration(color: Colors.grey.shade100),
                           children: const [
-                            _Cell('薬剤', header: true),
-                            _Cell('等鎮痛用量', header: true),
+                            CalcCell('薬剤',
+                                header: true, headerColor: Colors.black54),
+                            CalcCell('等鎮痛用量',
+                                header: true, headerColor: Colors.black54),
                           ],
                         ),
                         for (final r in _table)
                           TableRow(children: [
-                            _Cell(r[0]),
-                            _Cell(r[1], bold: true),
+                            CalcCell(r[0],
+                                bodySize: 12.5, bodyColor: Colors.black87),
+                            CalcCell(r[1],
+                                bold: true,
+                                bodySize: 12.5,
+                                bodyColor: Colors.black87),
                           ]),
                       ],
                     ),
@@ -302,22 +309,4 @@ class _OpioidConversionScreenState extends State<OpioidConversionScreen> {
   }
 }
 
-class _Cell extends StatelessWidget {
-  final String text;
-  final bool header;
-  final bool bold;
-  const _Cell(this.text, {this.header = false, this.bold = false});
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 7),
-      child: Text(text,
-          style: TextStyle(
-              fontSize: header ? 12 : 12.5,
-              fontWeight:
-                  (header || bold) ? FontWeight.bold : FontWeight.normal,
-              color: header ? Colors.black54 : Colors.black87)),
-    );
-  }
-}
+// (表セルは lib/widgets/calc_parts.dart の CalcCell を使用)

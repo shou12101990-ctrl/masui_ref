@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../widgets/calc_parts.dart';
+
 // ─── モデル ──────────────────────────────────────────────────────
 
 enum _LADrug {
@@ -179,12 +181,14 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                           _colTitle('製剤'),
                           const SizedBox(height: 8),
                           for (final d in _LADrug.values) ...[
-                            _ChoiceBtn(
+                            CalcChoiceBtn(
                               label: d.label,
                               sub: '${_mgkg(d.maxNoEpi)} mg/kg',
                               selected: _drug == d,
                               color: _accent,
                               onTap: () => _selectDrug(d),
+                              fontSize: 13,
+                              hPad: 8,
                             ),
                             const SizedBox(height: 8),
                           ],
@@ -206,12 +210,14 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                               children: [
                                 for (int i = 0; i < _concs.length; i++) ...[
                                   if (i > 0) const SizedBox(height: 8),
-                                  _ChoiceBtn(
+                                  CalcChoiceBtn(
                                     label: '${_fmtPct(_concs[i])}%',
                                     selected: _conc == _concs[i],
                                     color: _accent,
                                     onTap: () =>
                                         setState(() => _conc = _concs[i]),
+                                    fontSize: 13,
+                                    hPad: 8,
                                   ),
                                 ],
                               ],
@@ -233,18 +239,22 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                               mainAxisAlignment: MainAxisAlignment.center,
                               crossAxisAlignment: CrossAxisAlignment.stretch,
                               children: [
-                                _ChoiceBtn(
+                                CalcChoiceBtn(
                                   label: 'なし',
                                   selected: !_epi,
                                   color: _accent,
                                   onTap: () => setState(() => _epi = false),
+                                  fontSize: 13,
+                                  hPad: 8,
                                 ),
                                 const SizedBox(height: 8),
-                                _ChoiceBtn(
+                                CalcChoiceBtn(
                                   label: 'あり',
                                   selected: _epi,
                                   color: _accent,
                                   onTap: () => setState(() => _epi = true),
+                                  fontSize: 13,
+                                  hPad: 8,
                                 ),
                               ],
                             ),
@@ -321,9 +331,9 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                           decoration:
                               BoxDecoration(color: Colors.grey.shade100),
                           children: const [
-                            _Cell('薬剤', header: true),
-                            _Cell('エピなし', header: true),
-                            _Cell('エピあり', header: true),
+                            CalcCell('薬剤', header: true),
+                            CalcCell('エピなし', header: true),
+                            CalcCell('エピあり', header: true),
                           ],
                         ),
                         for (final d in _LADrug.values)
@@ -353,8 +363,8 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                                   ],
                                 ),
                               ),
-                              _Cell(_mgkg(d.maxNoEpi), bold: d == _drug),
-                              _Cell(_mgkg(d.maxEpi), bold: d == _drug),
+                              CalcCell(_mgkg(d.maxNoEpi), bold: d == _drug),
+                              CalcCell(_mgkg(d.maxEpi), bold: d == _drug),
                             ],
                           ),
                       ],
@@ -411,25 +421,7 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
 }
 
 // ─── ヘルパーウィジェット ─────────────────────────────────────
-
-class _Cell extends StatelessWidget {
-  final String text;
-  final bool header;
-  final bool bold;
-  const _Cell(this.text, {this.header = false, this.bold = false});
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 7),
-      child: Text(text,
-          style: TextStyle(
-              fontSize: header ? 12 : 13,
-              fontWeight:
-                  (header || bold) ? FontWeight.bold : FontWeight.normal)),
-    );
-  }
-}
+// (セル/選択ボタンは lib/widgets/calc_parts.dart の共通実装を使用)
 
 class _RoundBtn extends StatelessWidget {
   final IconData icon;
@@ -455,53 +447,3 @@ class _RoundBtn extends StatelessWidget {
   }
 }
 
-class _ChoiceBtn extends StatelessWidget {
-  final String label;
-  final String sub;
-  final bool selected;
-  final Color color;
-  final VoidCallback onTap;
-  const _ChoiceBtn({
-    required this.label,
-    this.sub = '',
-    required this.selected,
-    required this.color,
-    required this.onTap,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: onTap,
-      child: AnimatedContainer(
-        duration: const Duration(milliseconds: 150),
-        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
-        decoration: BoxDecoration(
-          color: selected ? color.withValues(alpha: 0.14) : const Color(0xFFF0F0F0),
-          borderRadius: BorderRadius.circular(12),
-          border: Border.all(
-              color: selected ? color : Colors.transparent, width: 1.6),
-        ),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Text(label,
-                textAlign: TextAlign.center,
-                style: TextStyle(
-                    fontSize: 13,
-                    fontWeight: selected ? FontWeight.bold : FontWeight.w500,
-                    color: selected ? Colors.black87 : Colors.black54)),
-            if (sub.isNotEmpty) ...[
-              const SizedBox(height: 1),
-              Text(sub,
-                  textAlign: TextAlign.center,
-                  style: TextStyle(
-                      fontSize: 10,
-                      color: selected ? color : Colors.black38)),
-            ],
-          ],
-        ),
-      ),
-    );
-  }
-}

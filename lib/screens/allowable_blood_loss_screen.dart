@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../domain/calculators/allowable_blood_loss.dart';
+import '../widgets/calc_parts.dart';
 
 /// 許容出血量計算機
 /// 体重・現在Hb・許容Hb から循環血液量(EBV)と許容出血量(ABL)を算出する。
@@ -94,11 +95,11 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                     Row(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Expanded(child: _Field('体重', 'kg', _wtCtrl)),
+                        Expanded(child: CalcField('体重', 'kg', _wtCtrl)),
                         const SizedBox(width: 8),
-                        Expanded(child: _Field('現在Hb', 'g/dL', _hb0Ctrl)),
+                        Expanded(child: CalcField('現在Hb', 'g/dL', _hb0Ctrl)),
                         const SizedBox(width: 8),
-                        Expanded(child: _Field('許容Hb', 'g/dL', _hbtCtrl)),
+                        Expanded(child: CalcField('許容Hb', 'g/dL', _hbtCtrl)),
                       ],
                     ),
                     const SizedBox(height: 16),
@@ -116,7 +117,7 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                             runSpacing: 8,
                             alignment: WrapAlignment.center,
                             children: _coefs
-                                .map((c) => _ChoiceBtn(
+                                .map((c) => CalcChoiceBtn(
                                       label: c.label,
                                       sub: '${c.mlPerKg} mL/kg',
                                       selected: _coef == c,
@@ -143,7 +144,7 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                   padding: const EdgeInsets.all(16),
                   child: Column(
                     children: [
-                      _ResultRow('循環血液量 (EBV)',
+                      CalcResultRow('循環血液量 (EBV)',
                           r.ebv.toStringAsFixed(0), 'mL'),
                       const SizedBox(height: 8),
                       const Text('許容出血量',
@@ -215,112 +216,4 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
   }
 }
 
-// ─── ヘルパーウィジェット ─────────────────────────────────────
-
-class _Field extends StatelessWidget {
-  final String label;
-  final String unit;
-  final TextEditingController ctrl;
-  const _Field(this.label, this.unit, this.ctrl);
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Text(label,
-            style: const TextStyle(fontSize: 12, color: Colors.black54)),
-        const SizedBox(height: 4),
-        TextField(
-          controller: ctrl,
-          keyboardType:
-              const TextInputType.numberWithOptions(decimal: true),
-          textAlign: TextAlign.center,
-          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-          decoration: InputDecoration(
-            suffixText: unit,
-            suffixStyle:
-                const TextStyle(fontSize: 11, color: Colors.black45),
-            isDense: true,
-            filled: true,
-            fillColor: const Color(0xFFF7F9FA),
-            contentPadding:
-                const EdgeInsets.symmetric(horizontal: 8, vertical: 11),
-            border: OutlineInputBorder(
-              borderRadius: BorderRadius.circular(10),
-              borderSide: BorderSide.none,
-            ),
-          ),
-        ),
-      ],
-    );
-  }
-}
-
-class _ResultRow extends StatelessWidget {
-  final String label;
-  final String value;
-  final String unit;
-  const _ResultRow(this.label, this.value, this.unit);
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(mainAxisAlignment: MainAxisAlignment.center, children: [
-      Text(label,
-          style: const TextStyle(fontSize: 13, color: Colors.black54)),
-      const SizedBox(width: 8),
-      Text(value,
-          style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
-      const SizedBox(width: 4),
-      Text(unit, style: const TextStyle(fontSize: 12, color: Colors.black54)),
-    ]);
-  }
-}
-
-class _ChoiceBtn extends StatelessWidget {
-  final String label;
-  final String sub;
-  final bool selected;
-  final Color color;
-  final VoidCallback onTap;
-  const _ChoiceBtn({
-    required this.label,
-    required this.sub,
-    required this.selected,
-    required this.color,
-    required this.onTap,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: onTap,
-      child: AnimatedContainer(
-        duration: const Duration(milliseconds: 150),
-        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-        decoration: BoxDecoration(
-          color:
-              selected ? color.withValues(alpha: 0.14) : const Color(0xFFF0F0F0),
-          borderRadius: BorderRadius.circular(12),
-          border: Border.all(
-              color: selected ? color : Colors.transparent, width: 1.6),
-        ),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Text(label,
-                style: TextStyle(
-                    fontSize: 14,
-                    fontWeight: selected ? FontWeight.bold : FontWeight.w500,
-                    color: selected ? Colors.black87 : Colors.black54)),
-            const SizedBox(height: 1),
-            Text(sub,
-                style: TextStyle(
-                    fontSize: 10,
-                    color: selected ? color : Colors.black38)),
-          ],
-        ),
-      ),
-    );
-  }
-}
+// (入力欄/結果行/選択ボタンは lib/widgets/calc_parts.dart の共通実装を使用)
