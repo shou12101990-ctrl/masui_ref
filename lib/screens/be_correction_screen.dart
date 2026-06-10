@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../domain/calculators/be_correction.dart';
+
 /// メイロン（重炭酸Na）による BE 補正計算機
 /// HCO3⁻不足分 = 0.3 × 体重 × |BE|
 /// 推奨補正量は不足分の半分（BE < −10 の代謝性アシドーシス時）
@@ -12,10 +14,6 @@ class BeCorrectionScreen extends StatefulWidget {
 
 class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
   static const _accent = Color(0xFF5E35B1);
-
-  // メイロン濃度 (mEq/mL)
-  static const _conc84 = 1.0;    // 8.4% = 1 mEq/mL
-  static const _conc7 = 0.833;   // 7%  = 0.833 mEq/mL
 
   final _beCtrl = TextEditingController(text: '10');
   final _wtCtrl = TextEditingController(text: '60');
@@ -38,33 +36,18 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
     super.dispose();
   }
 
-  // 入力は正の数（塩基不足の大きさ）。BE = −_beMag として扱う。
-  double? get _beMag {
-    final v = double.tryParse(_beCtrl.text.trim());
-    return v == null ? null : v.abs();
-  }
-
-  double? get _wt {
-    final v = double.tryParse(_wtCtrl.text.trim());
-    return (v != null && v > 0) ? v : null;
-  }
-
-  // HCO3⁻不足分 (mEq) = 0.3 × 体重 × |BE|
-  double? get _deficit {
-    if (_beMag == null || _wt == null) return null;
-    return 0.3 * _wt! * _beMag!;
-  }
-
-  // 半量補正 (mEq)
-  double? get _half => _deficit != null ? _deficit! / 2.0 : null;
-
-  double? get _mei84 => _half != null ? _half! / _conc84 : null;
-  double? get _mei7 => _half != null ? _half! / _conc7 : null;
+  // 計算ロジックは domain 層へ分離 (純粋関数)
+  // 入力は正の数 (塩基不足の大きさ). BE = −入力 として扱う.
+  BeCorrectionResult? get _result => computeBeCorrection(
+        beMagnitude: double.tryParse(_beCtrl.text.trim()),
+        weightKg: double.tryParse(_wtCtrl.text.trim()),
+      );
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final hasResult = _deficit != null;
+    final r = _result;
+    final hasResult = r != null;
 
     return Scaffold(
       appBar: AppBar(
@@ -98,7 +81,7 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
             const SizedBox(height: 12),
 
             // ── 結果 ──
-            if (hasResult && _deficit! > 0) ...[
+            if (hasResult && r.deficitMEq > 0) ...[
               Card(
                 child: Padding(
                   padding: const EdgeInsets.all(16),
@@ -106,7 +89,7 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       _ResultRow('HCO₃⁻ 不足分',
-                          _deficit!.toStringAsFixed(0), 'mEq'),
+                          r.deficitMEq.toStringAsFixed(0), 'mEq'),
                       const SizedBox(height: 4),
                       Text('= 0.3 × 体重 × |BE|',
                           style: TextStyle(
@@ -130,21 +113,21 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
                                   fontWeight: FontWeight.bold,
                                   color: _accent)),
                           const SizedBox(width: 8),
-                          Text('${_half!.toStringAsFixed(0)} mEq',
+                          Text('${r.halfMEq.toStringAsFixed(0)} mEq',
                               style: const TextStyle(
                                   fontSize: 13,
                                   fontWeight: FontWeight.bold)),
                         ],
                       ),
                       const SizedBox(height: 12),
-                      _MeiRow('メイロン 8.4%', _mei84!, '(1 mEq/mL)', _accent),
+                      _MeiRow('メイロン 8.4%', r.meylon84mL, '(1 mEq/mL)', _accent),
                       const Divider(height: 18),
-                      _MeiRow('メイロン 7%', _mei7!, '(0.83 mEq/mL)', _accent),
+                      _MeiRow('メイロン 7%', r.meylon7mL, '(0.83 mEq/mL)', _accent),
                     ],
                   ),
                 ),
               ),
-            ] else if (hasResult && _deficit == 0)
+            ] else if (hasResult && r.deficitMEq == 0)
               Card(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../domain/calculators/allowable_blood_loss.dart';
+
 /// 許容出血量計算機
 /// 体重・現在Hb・許容Hb から循環血液量(EBV)と許容出血量(ABL)を算出する。
 /// ABL = EBV × (Hb初期 − Hb許容) / Hb平均   （Gross の式）
@@ -51,30 +53,21 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
     super.dispose();
   }
 
-  double? _p(TextEditingController c) {
-    final v = double.tryParse(c.text.trim());
-    return (v != null && v > 0) ? v : null;
-  }
+  double? _v(TextEditingController c) => double.tryParse(c.text.trim());
 
-  double? get _wt  => _p(_wtCtrl);
-  double? get _hb0 => _p(_hb0Ctrl);
-  double? get _hbt => _p(_hbtCtrl);
-
-  // 循環血液量 (mL)
-  double? get _ebv => _wt != null ? _wt! * _coef.mlPerKg : null;
-
-  // 許容出血量 (mL) — Gross の式（平均Hbで除す）
-  double? get _abl {
-    if (_ebv == null || _hb0 == null || _hbt == null) return null;
-    if (_hb0! <= _hbt!) return 0;
-    final mean = (_hb0! + _hbt!) / 2.0;
-    return _ebv! * (_hb0! - _hbt!) / mean;
-  }
+  // 計算ロジックは domain 層へ分離 (純粋関数)
+  AllowableBloodLossResult? get _result => computeAllowableBloodLoss(
+        weightKg: _v(_wtCtrl),
+        hb0: _v(_hb0Ctrl),
+        hbTarget: _v(_hbtCtrl),
+        mlPerKg: _coef.mlPerKg,
+      );
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final hasResult = _abl != null;
+    final r = _result;
+    final hasResult = r != null;
 
     return Scaffold(
       appBar: AppBar(
@@ -150,23 +143,22 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                   padding: const EdgeInsets.all(16),
                   child: Column(
                     children: [
-                      if (_ebv != null)
-                        _ResultRow('循環血液量 (EBV)',
-                            _ebv!.toStringAsFixed(0), 'mL'),
+                      _ResultRow('循環血液量 (EBV)',
+                          r.ebv.toStringAsFixed(0), 'mL'),
                       const SizedBox(height: 8),
                       const Text('許容出血量',
                           style:
                               TextStyle(fontSize: 13, color: Colors.black54)),
                       const SizedBox(height: 2),
                       Text(
-                        '${_abl!.toStringAsFixed(0)} mL',
+                        '${r.abl.toStringAsFixed(0)} mL',
                         style: const TextStyle(
                           fontSize: 40,
                           fontWeight: FontWeight.bold,
                           color: _accent,
                         ),
                       ),
-                      if (_abl == 0)
+                      if (r.abl == 0)
                         const Padding(
                           padding: EdgeInsets.only(top: 4),
                           child: Text('※ 現在Hb ≤ 許容Hb',

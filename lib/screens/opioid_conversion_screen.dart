@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../domain/calculators/opioid_conversion.dart';
+
 /// オピオイド換算計算
 /// 内服オピオイド(mg/日) → 経口モルヒネ換算 → フェンタニル換算(μg/日・μg/h)
 class OpioidConversionScreen extends StatefulWidget {
@@ -57,18 +59,16 @@ class _OpioidConversionScreenState extends State<OpioidConversionScreen> {
     super.dispose();
   }
 
-  double? get _dose {
-    final v = double.tryParse(_doseCtrl.text.trim());
-    return (v != null && v > 0) ? v : null;
-  }
-
-  double? get _omeq => _dose != null ? _dose! * _drug.toMorphine : null;
-  double? get _fentaDay => _omeq != null ? _omeq! * 10.0 : null; // μg/日
-  double? get _fentaHr => _fentaDay != null ? _fentaDay! / 24.0 : null;
+  // 計算ロジックは domain 層へ分離 (純粋関数)
+  OpioidConversionResult? get _result => computeOpioidConversion(
+        doseMgPerDay: double.tryParse(_doseCtrl.text.trim()),
+        toMorphineFactor: _drug.toMorphine,
+      );
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final r = _result;
 
     return Scaffold(
       appBar: AppBar(
@@ -152,16 +152,17 @@ class _OpioidConversionScreenState extends State<OpioidConversionScreen> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               _out('経口モルヒネ換算',
-                                  _omeq?.toStringAsFixed(0) ?? '—', 'mg/日',
+                                  r?.oralMorphineEqMgPerDay.toStringAsFixed(0) ?? '—',
+                                  'mg/日',
                                   big: false),
                               const SizedBox(height: 8),
                               _out('フェンタニル 1日量',
-                                  _fentaDay?.toStringAsFixed(0) ?? '—',
+                                  r?.fentanylMcgPerDay.toStringAsFixed(0) ?? '—',
                                   'μg/日',
                                   big: false),
                               const Divider(height: 18),
                               _out('持続投与（目の前の量）',
-                                  _fentaHr?.toStringAsFixed(1) ?? '—',
+                                  r?.fentanylMcgPerHour.toStringAsFixed(1) ?? '—',
                                   'μg/h',
                                   big: true),
                             ],

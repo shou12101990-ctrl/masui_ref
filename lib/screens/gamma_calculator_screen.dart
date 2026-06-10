@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../domain/calculators/gamma.dart';
+
 // ── 入力単位 ──────────────────────────────────────────────────────────────
 enum _Unit {
   gamma('γ', 'μg/kg/min'),
@@ -87,34 +89,26 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   }
 
   // ── 濃度 (mg/ml) ─────────────────────────────────────────────────────
-  double? get _concMgPerMl {
-    final mg = double.tryParse(_drugMg.text);
-    final ml = double.tryParse(_totalMl.text);
-    if (mg == null || ml == null || ml <= 0) return null;
-    return mg / ml;
-  }
+  // 濃度・正規化・一括流量の計算は domain (gamma.dart)へ分離
+  double? get _concMgPerMl =>
+      concentrationMgPerMl(double.tryParse(_drugMg.text), double.tryParse(_totalMl.text));
+
+  InfusionUnit get _domUnit => switch (_inputUnit) {
+        _Unit.gamma => InfusionUnit.gamma,
+        _Unit.mlPerH => InfusionUnit.mlPerH,
+        _Unit.mgPerH => InfusionUnit.mgPerH,
+        _Unit.mgPerKgPerH => InfusionUnit.mgPerKgPerH,
+        _Unit.mcgPerKgPerH => InfusionUnit.mcgPerKgPerH,
+      };
 
   // ── 入力値をいったん mg/h に正規化 ──────────────────────────────────
   double? get _normalizedMgPerH {
-    final v = double.tryParse(_value.text);
-    final w = _weightKg.toDouble();
-    final c = _concMgPerMl;
-    if (v == null) return null;
-    switch (_inputUnit) {
-      case _Unit.mlPerH:
-        if (c == null || c <= 0) return null;
-        return v * c; // ml/h × mg/ml = mg/h
-      case _Unit.gamma:
-        // μg/kg/min → mg/h: × W × 60 / 1000
-        return v * w * 60 / 1000;
-      case _Unit.mgPerH:
-        return v;
-      case _Unit.mgPerKgPerH:
-        return v * w;
-      case _Unit.mcgPerKgPerH:
-        // μg/kg/h → mg/h: × W / 1000
-        return v * w / 1000;
-    }
+    return normalizeToMgPerH(
+      value: double.tryParse(_value.text),
+      unit: _domUnit,
+      concMgPerMl: _concMgPerMl,
+      weightKg: _weightKg.toDouble(),
+    );
   }
 
   // ── 全単位の結果 ──────────────────────────────────────────────────────
@@ -428,11 +422,11 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
     );
   }
 
-  // 流量 (mL/h) = γ × 体重 × 60 / 濃度(μg/mL)
+  // 流量 (mL/h) = γ × 体重 × 60 / 濃度(μg/mL) — 計算は domain (gamma.dart)
   double? _flow(double concMcgPerMl, TextEditingController c) {
     final g = double.tryParse(c.text.trim());
     if (g == null) return null;
-    return g * _weightKg * 60 / concMcgPerMl;
+    return gammaFlowMlPerH(g, _weightKg.toDouble(), concMcgPerMl);
   }
 
   Widget _bulkHeader() => const Padding(
