@@ -1,8 +1,9 @@
 import 'dart:async';
-import 'dart:web_audio' as wa;
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+
+import '../services/audio_beep.dart';
 
 /// 点滴メトロノーム
 class DripScreen extends StatefulWidget {
@@ -38,7 +39,7 @@ class _DripScreenState extends State<DripScreen> {
   bool _running = false;
   bool _sound = true;
   DateTime? _lastTickTime;
-  wa.AudioContext? _audioCtx;
+  final AudioBeep _audio = AudioBeep();
 
   @override
   void initState() {
@@ -56,28 +57,16 @@ class _DripScreenState extends State<DripScreen> {
   void dispose() {
     _timer?.cancel();
     _arcTimer?.cancel();
-    _audioCtx?.close();
+    _audio.dispose();
     _volCtrl.dispose();
     _timeCtrl.dispose();
     super.dispose();
   }
 
-  // 1滴ごとの短いビープ (Web Audio)
+  // 1滴ごとの短いビープ (Web Audio はサービスへ隔離)
   void _beep() {
     if (!_sound) return;
-    try {
-      _audioCtx ??= wa.AudioContext();
-      final ctx = _audioCtx!;
-      final osc = ctx.createOscillator();
-      final gain = ctx.createGain();
-      osc.frequency!.value = 1000;
-      gain.gain!.value = 0.12;
-      osc.connectNode(gain);
-      gain.connectNode(ctx.destination!);
-      final now = ctx.currentTime!.toDouble();
-      osc.start2(now);
-      osc.stop(now + 0.04);
-    } catch (_) {}
+    _audio.beep();
   }
 
   int get _dropsPerMl => _setType == _SetType.adult ? 20 : 60;
@@ -141,11 +130,8 @@ class _DripScreenState extends State<DripScreen> {
         _lastTickTime = null;
       });
     } else {
-      // ユーザー操作中に AudioContext を起動/再開（自動再生制限の回避）
-      try {
-        _audioCtx ??= wa.AudioContext();
-        _audioCtx!.resume();
-      } catch (_) {}
+      // ユーザー操作中にオーディオを起動/再開（自動再生制限の回避）
+      _audio.resume();
       setState(() => _running = true);
       _restartTimer();
     }
