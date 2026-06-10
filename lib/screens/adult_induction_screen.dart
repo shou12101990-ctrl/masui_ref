@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../models/drug.dart';
 import '../widgets/category_mark.dart';
+import '../widgets/drug_visuals.dart';
 
 // ── 選択肢リスト ──────────────────────────────────────────────────────────
 final _ageOpts    = List.generate(71, (i) => i + 20);        // 20–90歳 (1歳刻み)

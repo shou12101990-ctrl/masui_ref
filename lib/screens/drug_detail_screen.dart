@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../models/drug.dart';
 import '../widgets/category_mark.dart';
+import '../widgets/drug_visuals.dart';
 
 class DrugDetailScreen extends StatelessWidget {
   final Drug drug;

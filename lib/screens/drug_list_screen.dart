@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../data/drugs.dart';
 import '../models/drug.dart';
 import '../widgets/category_mark.dart';
+import '../widgets/drug_visuals.dart';
 import 'drug_detail_screen.dart';
 
 class DrugListScreen extends StatefulWidget {
