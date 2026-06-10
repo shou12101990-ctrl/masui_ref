@@ -60,7 +60,8 @@ class _HomeShellState extends State<HomeShell> {
   Widget build(BuildContext context) {
     final scheme = Theme.of(context).colorScheme;
     return Scaffold(
-      body: _pages[_index],
+      // IndexedStack: タブ切替時も各ページの状態(検索条件・スクロール位置等)を保持
+      body: IndexedStack(index: _index, children: _pages),
       bottomNavigationBar: _BottomNav(
         index: _index,
         scheme: scheme,
