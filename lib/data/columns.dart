@@ -6,12 +6,18 @@ class ColumnArticle {
   final String title;
   final String body;
   final Color color;
+  final List<String> tags; // 生理学 / 薬理学 / 術前評価 / モニタリング など横断タグ
   const ColumnArticle({
     required this.category,
     required this.title,
     required this.body,
     required this.color,
+    this.tags = const [],
   });
+
+  /// 検索対象テキスト (タイトル・本文・カテゴリ・タグ)
+  String get searchText =>
+      '$title $body $category ${tags.join(' ')}'.toLowerCase();
 }
 
 // カテゴリ色 (NutriCalcのノートと同じ運用・淡め)
@@ -25,6 +31,7 @@ const _cPharm = Color(0xFFBA68C8); // 薬理学
 const _cGL  = Color(0xFF9CCC65); // 区域麻酔GL
 const _cReg = Color(0xFFA1887F); // 区域麻酔
 const _cTrans = Color(0xFFE0457B); // 輸血
+const _cPreop = Color(0xFF90A4AE); // 術前評価
 
 /// カテゴリ → 色 (「すべて表示」を含む)
 const Map<String, Color> kColumnCategoryColors = {
@@ -39,6 +46,7 @@ const Map<String, Color> kColumnCategoryColors = {
   '区域麻酔': _cReg,
   '輸血': _cTrans,
   '区域麻酔GL': _cGL,
+  '術前評価': _cPreop,
 };
 
 const List<ColumnArticle> kColumns = [
@@ -100,6 +108,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮静',
     title: '麻酔の4段階と MAC / MAC awake',
     color: _cSed,
+    tags: const ['生理学'],
     body: '■麻酔の4段階 (Guedel)\n'
         '無痛期 → 興奮期 → 外科期 → 麻痺期 (呼吸停止)の四段階. \n'
         '・無痛期: 意識はあるが痛覚が鈍る\n'
@@ -115,6 +124,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮静',
     title: '吸入麻酔薬の作用 (一般的性質・呼吸器)',
     color: _cSed,
+    tags: const ['生理学', '薬理学'],
     body: '■一般的性質\n'
         '・悪性高熱症の原因になる. \n'
         '・Propofolよりも循環抑制はマイルド. \n'
@@ -134,6 +144,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮痛・オピオイド',
     title: 'オピオイドの薬理 (μ受容体と呼吸抑制)',
     color: _cOpioid,
+    tags: const ['生理学', '薬理学'],
     body: 'μ・δ・κ受容体があり鎮痛が最も強いのはμ. 鎮痛に関連するのは主に末梢性μ受容体 (脊髄後根神経節). \n\n'
         '痛みを全く感じない最小濃度をMEAC, 痛みを感じる最大濃度をMCPといい, '
         'MEAC-MCPの幅の個人差は小さい (＝至適範囲は予測しやすい). \n\n'
@@ -257,6 +268,40 @@ const List<ColumnArticle> kColumns = [
         '(ii) 点滴が落ちないことによる覚醒なら80程度でもおそらく記憶はない. \n\n'
         '→ ミダゾラム2-3mg程度ショットしておく. ',
   ),
+  ColumnArticle(
+    category: 'モニタリング',
+    title: '動脈圧波形 (A-line)の見方',
+    color: _cMonitor,
+    tags: const ['生理学', 'モニタリング'],
+    body: '■ 正常波形の構成\n'
+        '・急峻な立ち上がり (収縮期駆出) → 収縮期ピーク → 下行脚に dicrotic notch (重複切痕 ＝ 大動脈弁閉鎖) → 拡張期へ. \n'
+        '・立ち上がりの傾き (dP/dt)は左室収縮性を反映. 波形下の面積は1回拍出量にほぼ比例. \n\n'
+        '■ 呼吸性変動 (陽圧換気)\n'
+        '・収縮期圧の呼吸性変動 (SVV/PPV)が大きい (おおむね >13%)と輸液反応性ありを示唆. \n'
+        '・自発呼吸・不整脈・開胸では不正確. \n\n'
+        '■ 波形の異常\n'
+        '・なまる/平坦 (overdamping): 気泡・血栓・カテーテル屈曲・細い動脈 → 収縮期圧を過小評価. \n'
+        '・跳ねる/リンギング (underdamping): 収縮期圧を過大評価 → fast flush testで確認. \n'
+        '・dicrotic notchが低い: 血管拡張・低体血管抵抗. ',
+  ),
+  ColumnArticle(
+    category: 'モニタリング',
+    title: 'CVP波形の見方 (a-c-v波)',
+    color: _cMonitor,
+    tags: const ['生理学', 'モニタリング'],
+    body: '■ 正常波形 (a・c・v の3つの山と x・y の2つの谷)\n'
+        '・a波: 心房収縮. \n'
+        '・c波: 心室収縮初期, 三尖弁が右房側へ膨隆. \n'
+        '・x谷: 心房弛緩＋弁輪の下方移動. \n'
+        '・v波: 収縮期の右房充満 (三尖弁は閉鎖中). \n'
+        '・y谷: 三尖弁開放→右室への急速流入. \n\n'
+        '■ 異常\n'
+        '・大きな a波 (cannon a): 房室解離・三尖弁狭窄・肺高血圧・右室肥大 (心房が閉じた弁に収縮). \n'
+        '・a波の消失: 心房細動. \n'
+        '・大きな v波: 三尖弁逆流 (収縮期に右房へ逆流). \n'
+        '・収縮性心膜炎: x谷・y谷ともに深い (M/W字). \n'
+        '・心タンポナーデ: x谷優位でy谷は浅い (減高). ',
+  ),
 
   // ───────── 薬理学 ─────────
   ColumnArticle(
@@ -281,6 +326,7 @@ const List<ColumnArticle> kColumns = [
     category: '薬理学',
     title: 'グルタミン酸・NMDA受容体と興奮毒性',
     color: _cPharm,
+    tags: const ['生理学', '薬理学'],
     body: '虚血状態では細胞外グルタミン酸(Glu)濃度が著明に上昇する. \n'
         '虚血で細胞外K上昇→Glu取込阻害＋逆回転で無秩序な放出→Glu受容体が過剰活性化→濃度と暴露時間に依存して神経細胞のアポトーシスを誘導 (興奮毒性 excitotoxicity). \n\n'
         'NMDA型受容体はGluの結合に対しCa透過性が亢進する点が特殊で, 脳虚血・てんかん重積・変性疾患で重要. \n\n'
@@ -317,6 +363,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔',
     title: '局所麻酔薬の薬理 (概説)',
     color: _cReg,
+    tags: const ['薬理学'],
     body: '・Naチャネルにはサブタイプが9種類あり, 局所麻酔薬の作用機序は完全には解明されていない. \n\n'
         '・塩基型として細胞膜を通過し, 陽イオン型としてNaチャネルのα-subunitに作用して遮断する. \n\n'
         '・解離定数(pKa)が大きいと陽イオン型が増えて効果発現が遅くなる. 脂溶性が高いと作用時間が長くなる. '
@@ -407,6 +454,7 @@ const List<ColumnArticle> kColumns = [
     category: '輸血',
     title: '血液型・不規則抗体・クロスマッチ',
     color: _cTrans,
+    tags: const ['術前評価'],
     body: '■規則抗体・不規則抗体\n'
         '規則抗体 … 自然抗体のことで, 抗A・抗Bを指す. \n'
         '不規則抗体 … 免疫抗体のことで, 輸血・妊娠により獲得する. 他者血液が侵入することでそれに対する抗体産生が起き, 出現する. \n\n'
@@ -460,6 +508,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔GL',
     title: '区域麻酔・神経ブロックと抗血栓療法GL (概説)',
     color: _cGL,
+    tags: const ['術前評価'],
     body: '■ ガイドライン概要\n'
         '日本ペインクリニック学会・日本麻酔科学会・日本区域麻酔学会 合同 (平成28年)\n'
         '正式名称: 抗血栓療法中の区域麻酔・神経ブロックガイドライン\n\n'
@@ -489,6 +538,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔GL',
     title: '抗血小板薬の休薬期間 (区域麻酔GLより)',
     color: _cGL,
+    tags: const ['術前評価'],
     body: '■ 不可逆的抗血小板薬 (血小板寿命 7〜10日まで効果持続)\n'
         '［薬剤: 高リスク群 / 中リスク群］\n'
         '・アスピリン: 7日 (5日可) / TBD*\n'
@@ -513,6 +563,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔GL',
     title: '抗凝固薬の休薬期間 (区域麻酔GLより)',
     color: _cGL,
+    tags: const ['術前評価'],
     body: '■ 高リスク群の手技に対する休薬期間 (表3・表7)\n\n'
         '【ヘパリン系】\n'
         '・未分画ヘパリン (iv): 4時間前まで (APTT・血小板数正常確認)\n'
@@ -540,5 +591,26 @@ const List<ColumnArticle> kColumns = [
         '■ 本邦特有の注意\n'
         'DOACの添付文書推奨休薬期間はGLと乖離があることがある. また欧米人より体格の小さい日本人への適用には注意. '
         '安全域を設けた休薬期間設定を本GLでは採用している. ',
+  ),
+
+  // ───────── 術前評価 ─────────
+  ColumnArticle(
+    category: '術前評価',
+    title: '感染症スクリーニングの読み方 (HIV/HBV/HCV/梅毒)',
+    color: _cPreop,
+    tags: const ['術前評価'],
+    body: '■ HBV (B型肝炎): 既感染 / ワクチン後 / 現感染 の判別\n'
+        '・HBsAg (+): 現在感染 (キャリア or 急性). \n'
+        '・HBsAb のみ (+) (HBsAg-, HBcAb-): ワクチン後の免疫. \n'
+        '・HBcAb (+): 自然感染の既往. HBsAg(-)・HBsAb(±)なら既往感染 → 免疫抑制・化学療法時は de novo B型肝炎のリスクがあり HBV-DNA を監視. \n\n'
+        '■ HCV (C型肝炎)\n'
+        '・HCV抗体 (+): 既往 or 現感染 → HCV-RNA で確認 (RNA(+)で現感染, RNA(-)は既往 or 治癒). \n\n'
+        '■ HIV\n'
+        '・第4世代 Ag/Ab (p24抗原＋抗体)でスクリーニング → 陽性は確認検査 (核酸/Western blot). 感染初期はウインドウ期に注意. \n\n'
+        '■ 梅毒 (RPR ＋ TP抗体)\n'
+        '・RPR(+) かつ TP(+): 活動性 or 治療中・既往 (RPR定量で評価). \n'
+        '・RPR(-) かつ TP(+): 治療後・既往感染. \n'
+        '・RPR(+) かつ TP(-): 生物学的偽陽性 (妊娠・膠原病・急性感染初期など). \n\n'
+        '※ 結果に関わらず標準予防策は全例で徹底. 針刺し・職業感染対策 (HBVワクチン/曝露後対応)を確認する. ',
   ),
 ];

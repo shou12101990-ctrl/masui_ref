@@ -15,6 +15,8 @@ class _ColumnScreenState extends State<ColumnScreen>
     with SingleTickerProviderStateMixin {
   static const _allLabel = 'すべて表示';
   String _selected = _allLabel;
+  String _query = '';
+  final _searchCtrl = TextEditingController();
 
   // 本文パネル（ドラッグで上に展開。上端まで引いたら下端に戻すスナップ）
   static const double _panelMin = 220.0;
@@ -41,6 +43,7 @@ class _ColumnScreenState extends State<ColumnScreen>
   void dispose() {
     _snapCtrl.dispose();
     _scroll.dispose();
+    _searchCtrl.dispose();
     super.dispose();
   }
 
@@ -52,9 +55,12 @@ class _ColumnScreenState extends State<ColumnScreen>
 
   @override
   Widget build(BuildContext context) {
-    final filtered = _selected == _allLabel
-        ? kColumns
-        : kColumns.where((c) => c.category == _selected).toList();
+    final q = _query.trim().toLowerCase();
+    final filtered = q.isNotEmpty
+        ? kColumns.where((c) => c.searchText.contains(q)).toList()
+        : (_selected == _allLabel
+            ? kColumns
+            : kColumns.where((c) => c.category == _selected).toList());
     final media = MediaQuery.of(context);
     final pad = media.padding;
     const navBarH = 80.0;
@@ -76,6 +82,34 @@ class _ColumnScreenState extends State<ColumnScreen>
                     .titleLarge
                     ?.copyWith(fontWeight: FontWeight.bold)),
           ),
+          // 検索 (タイトル・本文・タグ)
+          Padding(
+            padding: const EdgeInsets.fromLTRB(12, 0, 12, 4),
+            child: TextField(
+              controller: _searchCtrl,
+              onChanged: (v) => setState(() => _query = v),
+              decoration: InputDecoration(
+                hintText: 'キーワード・タグで検索 (例: 生理学, 薬理学, 術前評価)',
+                prefixIcon: const Icon(Icons.search, size: 20),
+                suffixIcon: _query.isEmpty
+                    ? null
+                    : IconButton(
+                        icon: const Icon(Icons.clear, size: 18),
+                        onPressed: () => setState(() {
+                          _query = '';
+                          _searchCtrl.clear();
+                        }),
+                      ),
+                isDense: true,
+                filled: true,
+                fillColor: Colors.white,
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  borderSide: BorderSide.none,
+                ),
+              ),
+            ),
+          ),
           // カテゴリ色グリッド
           Expanded(
             child: SingleChildScrollView(
@@ -91,7 +125,11 @@ class _ColumnScreenState extends State<ColumnScreen>
                   children: kColumnCategoryColors.entries.map((e) {
                     final selected = _selected == e.key;
                     return GestureDetector(
-                      onTap: () => setState(() => _selected = e.key),
+                      onTap: () => setState(() {
+                        _selected = e.key;
+                        _query = '';
+                        _searchCtrl.clear();
+                      }),
                       child: AnimatedContainer(
                         duration: const Duration(milliseconds: 120),
                         decoration: BoxDecoration(
@@ -179,7 +217,14 @@ class _ColumnScreenState extends State<ColumnScreen>
                                 padding:
                                     const EdgeInsets.fromLTRB(16, 0, 16, 16),
                                 children: [
-                                  for (final c in filtered) _Section(article: c),
+                                  for (final c in filtered)
+                                    _Section(
+                                      article: c,
+                                      onTagTap: (t) => setState(() {
+                                        _query = t;
+                                        _searchCtrl.text = t;
+                                      }),
+                                    ),
                                 ],
                               ),
                       ),
@@ -197,7 +242,8 @@ class _ColumnScreenState extends State<ColumnScreen>
 
 class _Section extends StatelessWidget {
   final ColumnArticle article;
-  const _Section({required this.article});
+  final void Function(String tag)? onTagTap;
+  const _Section({required this.article, this.onTagTap});
 
   @override
   Widget build(BuildContext context) {
@@ -224,6 +270,34 @@ class _Section extends StatelessWidget {
               ),
             ]),
           ),
+          if (article.tags.isNotEmpty) ...[
+            const SizedBox(height: 6),
+            Wrap(
+              spacing: 6,
+              runSpacing: 4,
+              children: [
+                for (final t in article.tags)
+                  GestureDetector(
+                    onTap: () => onTagTap?.call(t),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 8, vertical: 2),
+                      decoration: BoxDecoration(
+                        color: article.color.withValues(alpha: 0.12),
+                        borderRadius: BorderRadius.circular(20),
+                        border: Border.all(
+                            color: article.color.withValues(alpha: 0.4)),
+                      ),
+                      child: Text('# $t',
+                          style: TextStyle(
+                              fontSize: 10.5,
+                              color: article.color,
+                              fontWeight: FontWeight.w600)),
+                    ),
+                  ),
+              ],
+            ),
+          ],
           const SizedBox(height: 8),
           Card(
             margin: EdgeInsets.zero,

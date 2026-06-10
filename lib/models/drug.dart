@@ -48,7 +48,7 @@ class Drug {
   /// 拮抗薬・中和薬・血管拡張薬 → ■マーカーに斜線を重ねる
   bool get isDiagonal =>
       category == DrugCategory.vasodilator ||
-      const ['フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド', 'プロタミン', 'ハプトグロビン']
+      const ['フルマゼニル', 'スガマデクス', 'ナロキソン', 'ダントロレン', 'イントラリピッド', 'プロタミン', 'ハプトグロビン', 'イダルシズマブ', 'アンデキサネット', 'ビタミンK']
           .any((s) => name.contains(s));
 }
 
@@ -67,6 +67,7 @@ enum DrugCategory {
   analgesic('鎮痛薬'),
   vasopressor('昇圧薬'),
   vasodilator('降圧薬'),
+  circulatoryOther('循環作動薬 (その他)'),
   localAnesthetic('局所麻酔薬'),
   anticoagulant('凝固系'),
   steroid('ステロイド'),
@@ -85,11 +86,12 @@ enum DrugCategory {
         DrugCategory.analgesic => const Color(0xFF7EC8E3),       // PMS 297   : 鎮痛薬/麻薬 ライトブルー
         DrugCategory.vasopressor => const Color(0xFFB39DDB),     // 昇圧薬 : 淡い明るいバイオレット
         DrugCategory.vasodilator => const Color(0xFFB39DDB),     // 降圧薬 : 淡い明るいバイオレット (+ 斜線)
+        DrugCategory.circulatoryOther => const Color(0xFFB39DDB),// 循環作動薬 (その他) : 昇圧薬と同色
         DrugCategory.localAnesthetic => const Color(0xFF97999B), // Cool Gray7 : 局所麻酔薬 標準灰
         DrugCategory.anticoagulant => const Color(0xFFB52020),   // 凝固系 : 血色 (blood red)
         DrugCategory.steroid => const Color(0xFFEF8C00),         // ステロイド : warm orange
         DrugCategory.antiemetic => const Color(0xFF26A69A),      // 制吐薬 : teal
         DrugCategory.transfusion => const Color(0xFFAD1457),     // 輸血製剤 : crimson
-        DrugCategory.other => const Color(0xFF607D8B),           // その他 : blue grey
+        DrugCategory.other => const Color(0xFF6B1414),           // その他 : 赤黒い (dark red)
       };
 }
