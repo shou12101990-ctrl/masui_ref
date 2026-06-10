@@ -1,0 +1,110 @@
+import 'package:flutter/material.dart';
+
+import '../screens/adult_induction_screen.dart';
+import '../screens/allowable_blood_loss_screen.dart';
+import '../screens/be_correction_screen.dart';
+import '../screens/dlt_screen.dart';
+import '../screens/drip_screen.dart';
+import '../screens/gamma_calculator_screen.dart';
+import '../screens/local_anesthetic_max_screen.dart';
+import '../screens/opioid_conversion_screen.dart';
+import '../screens/oxygen_gap_screen.dart';
+import '../screens/pca_screen.dart';
+import '../screens/pediatric_screen.dart';
+
+/// 計算機タブに並ぶ機能のレジストリ.
+/// 新しい計算機は kCalculators に1エントリ追加するだけでハブ画面に並ぶ.
+class CalculatorEntry {
+  final IconData icon;
+  final String title;
+  final String subtitle;
+  final Color color;
+  final Widget Function() build;
+  const CalculatorEntry({
+    required this.icon,
+    required this.title,
+    required this.subtitle,
+    required this.color,
+    required this.build,
+  });
+}
+
+final List<CalculatorEntry> kCalculators = [
+  CalculatorEntry(
+    icon: Icons.person,
+    title: '成人 麻酔導入時',
+    subtitle: '導入薬用量 + 呼吸器初期設定',
+    color: Colors.indigo,
+    build: () => const AdultInductionScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.speed,
+    title: 'γ 計算機',
+    subtitle: '流量 ⇄ γ (mcg/kg/min)',
+    color: const Color(0xFF00796B),
+    build: () => const GammaCalculatorScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.healing,
+    title: 'ivPCA',
+    subtitle: '術後鎮痛のデザイン',
+    color: Colors.deepOrange,
+    build: () => const PcaScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.water_drop,
+    title: '点滴 メトロノーム',
+    subtitle: '輸液用ポンプ不要の時代へ───.',
+    color: Colors.teal,
+    build: () => const DripScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.child_care,
+    title: '小児 麻酔設計',
+    subtitle: '導入dose / チューブサイズ / 固定長',
+    color: Colors.pink.shade400,
+    build: () => const PediatricScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.vaccines,
+    title: '局所麻酔薬 極量計算',
+    subtitle: '濃度に応じた最大容量計算.',
+    color: const Color(0xFF6B7280),
+    build: () => const LocalAnestheticMaxScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.straighten,
+    title: 'DLT サイズ選択',
+    subtitle: 'CT実測 / Brodsky',
+    color: const Color(0xFF0E7490),
+    build: () => const DltScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.monitor_heart,
+    title: '酸素較差計算機',
+    subtitle: '輸血カットオフの算出.',
+    color: const Color(0xFF1976D2),
+    build: () => const OxygenGapScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.bloodtype,
+    title: '許容出血量',
+    subtitle: 'A lineなしでHb低下を予想する.',
+    color: const Color(0xFFC2185B),
+    build: () => const AllowableBloodLossScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.science,
+    title: 'メイロン BE補正',
+    subtitle: 'BE·体重 → HCO₃⁻不足分 / メイロン量',
+    color: const Color(0xFF5E35B1),
+    build: () => const BeCorrectionScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.swap_horiz,
+    title: 'オピオイド換算',
+    subtitle: '内服量 → フェンタニル換算 (μg/h)',
+    color: const Color(0xFF1565C0),
+    build: () => const OpioidConversionScreen(),
+  ),
+];
