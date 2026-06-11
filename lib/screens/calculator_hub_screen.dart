@@ -24,10 +24,16 @@ class CalculatorHubScreen extends StatelessWidget {
                       ?.copyWith(fontWeight: FontWeight.bold)),
             ),
             Expanded(
-              child: ListView.separated(
+              child: GridView.builder(
                 padding: const EdgeInsets.fromLTRB(16, 4, 16, 16),
+                gridDelegate:
+                    const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2,
+                  crossAxisSpacing: 10,
+                  mainAxisSpacing: 10,
+                  mainAxisExtent: 124,
+                ),
                 itemCount: kCalculators.length,
-                separatorBuilder: (_, __) => const SizedBox(height: 10),
                 itemBuilder: (context, i) => _HubCard(item: kCalculators[i]),
               ),
             ),
@@ -45,43 +51,49 @@ class _HubCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
+      margin: EdgeInsets.zero,
       child: InkWell(
         borderRadius: BorderRadius.circular(14),
         onTap: () => Navigator.of(context).push(
           MaterialPageRoute(builder: (_) => item.build()),
         ),
         child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
-          child: Row(
+          padding: const EdgeInsets.all(12),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Container(
-                width: 48,
-                height: 48,
-                decoration: BoxDecoration(
-                  color: item.color.withValues(alpha: 0.12),
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                child: Icon(item.icon, color: item.color, size: 26),
+              Row(
+                children: [
+                  Container(
+                    width: 40,
+                    height: 40,
+                    decoration: BoxDecoration(
+                      color: item.color.withValues(alpha: 0.12),
+                      borderRadius: BorderRadius.circular(11),
+                    ),
+                    child: Icon(item.icon, color: item.color, size: 22),
+                  ),
+                  const Spacer(),
+                  const Icon(Icons.chevron_right,
+                      color: Colors.black26, size: 18),
+                ],
               ),
-              const SizedBox(width: 14),
+              const SizedBox(height: 8),
+              Text(item.title,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(
+                      fontSize: 13.5, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 2),
               Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Text(item.title,
-                        style: const TextStyle(
-                            fontSize: 15, fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 3),
-                    Text(item.subtitle,
-                        maxLines: 1,
-                        overflow: TextOverflow.ellipsis,
-                        style: const TextStyle(
-                            fontSize: 12, color: Colors.black54)),
-                  ],
-                ),
+                child: Text(item.subtitle,
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                    style: const TextStyle(
+                        fontSize: 10.5,
+                        height: 1.3,
+                        color: Colors.black54)),
               ),
-              const Icon(Icons.chevron_right, color: Colors.black26),
             ],
           ),
         ),
