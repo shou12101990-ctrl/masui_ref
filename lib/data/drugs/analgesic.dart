@@ -15,7 +15,7 @@ const List<Drug> kAnalgesicDrugs = [
       DrugNote('用量',
           '全身麻酔/ICU管理: 導入 2-4mcg/kg, 維持 0.2-2mcg/kg/h. \n重症急性膵炎の鎮痛: 100mcgショット後 50-100mcg/h. '),
       DrugNote('薬物動態',
-          'Ce>0.8-1.0ng/mlで鎮痛効果. 効果発現 3-5min, 最大効果 5min, 持続 30min-1h. 半減期2-4h, Vd 4-30L/kg, logP 2.96. 持続投与でCSHT延長(2hで30min, 5hで60min). '),
+          'Ce>0.8-1.0ng/mlで鎮痛効果. 効果発現 3-5min, 最大効果 5min, 持続 30min-1h. 半減期2-4h, Vd 4-30L/kg. 脂溶性が高く速やかに中枢移行する. 持続投与でCSHT延長(2hで30min, 5hで60min). '),
       DrugNote('力価 (対モルヒネ)',
           'フェンタニル 100μg ≒ モルヒネ (静注) 10mg (鎮痛力価 約100倍, 範囲 50-100倍). '),
       DrugNote('一般的性質',
@@ -33,7 +33,7 @@ const List<Drug> kAnalgesicDrugs = [
     mechanism: 'μ受容体を介した鎮痛',
     notes: [
       DrugNote('薬物動態',
-          '効果発現 1.0-1.5min, 半減期3min(CSHTも3-5minで安定). 停止後5minでCeが半分. 年齢で代謝時間が変わらない. logP 1.25, Vd 0.3L/kg. 血中の非特異的エステラーゼで分解, single compartmentで考える. Cp=Ceで安定し流量(γ)×20-25で概ね安定. '),
+          '効果発現 1.0-1.5min, 半減期3min(CSHTも3-5minで安定). 停止後5minでCeが半分. 年齢で代謝時間が変わらない. Vd 0.3L/kg. 血中の非特異的エステラーゼで分解. 効果部位平衡が速くCp≒Ceとして扱える(動態自体は3-コンパートメント). 流量(γ)×20-25で概ね安定. '),
       DrugNote('一般的性質',
           '・fentanylと比べ呼吸抑制は同程度・鎮痛1.2倍(Ce>0.8で鎮痛). 硬膜外・くも膜下投与は禁忌(添加物グリシンの神経毒性). \n・体重×0.02ml(50kg 1ml)で挿管苦痛を抑制. 陰性変時作用が強く, bolusに伴う鉛管現象や喉頭痙攣が多い. \n・和痛分娩: 0.1γ程度. 子宮口全開大で停止, sleeping babyのリスクで胎児モニタリング必須. '),
       DrugNote('徐脈・低血圧',
