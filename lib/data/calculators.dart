@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../screens/adult_induction_screen.dart';
 import '../screens/allowable_blood_loss_screen.dart';
 import '../screens/be_correction_screen.dart';
+import '../screens/discharge_score_screen.dart';
 import '../screens/dlt_screen.dart';
 import '../screens/drip_screen.dart';
 import '../screens/gamma_calculator_screen.dart';
@@ -106,5 +107,12 @@ final List<CalculatorEntry> kCalculators = [
     subtitle: '内服量 → フェンタニル換算 (μg/h)',
     color: const Color(0xFF1565C0),
     build: () => const OpioidConversionScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.fact_check,
+    title: '退室基準スコア',
+    subtitle: 'Aldrete / White-Song / MPADSS',
+    color: const Color(0xFF2E7D32),
+    build: () => const DischargeScoreScreen(),
   ),
 ];

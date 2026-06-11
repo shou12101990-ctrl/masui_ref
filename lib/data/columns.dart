@@ -63,6 +63,32 @@ const List<ColumnArticle> kColumns = [
         '上のカテゴリで絞り込み, 下のパネルは上下にドラッグして高さを変えられる. \n\n'
         '※すべて研修用の参考情報です. 実投与は最新の添付文書・成書を必ず確認してください. ',
   ),
+  ColumnArticle(
+    category: '全般',
+    title: '退室基準スコア (Aldrete / White-Song / MPADSS)',
+    color: _cGeneral,
+    body: '■退室基準スコアとは\n'
+        '全身麻酔後の回復は Phase I (PACU: 覚醒・気道・循環の安定化) → Phase II (歩行・飲水などの帰宅準備) と進む. '
+        '「次の段階へ進めてよいか」を客観化したものが退室基準スコアで, 代表は Modified Aldrete・White-Song・MPADSS の3つ. \n\n'
+        '■Modified Aldrete score (PACU退室 / Phase I回復)\n'
+        '・活動 / 呼吸 / 循環 / 意識 / SpO₂ の5項目を各0-2点で評価 (満点10点). \n'
+        '・多くの施設で9点以上をPACU退室 (Phase II移行) の目安とする. \n'
+        '・原法 (Aldrete 1970) の「皮膚色」を, パルスオキシメトリ普及後にSpO₂へ置き換えたものがModified版 (1995). \n\n'
+        '■White-Song score (fast-track / PACUバイパス)\n'
+        '・意識 / 活動 / 血行動態 / 呼吸 / SpO₂ / 疼痛 / PONV の7項目を各0-2点で評価 (満点14点). \n'
+        '・12点以上かつ全項目1点以上で, PACUを経由せずPhase II回復室へ直行 (fast-track) できる. \n'
+        '・Aldreteに疼痛とPONVを加えた構成で, 短時間・低侵襲手術や日帰り麻酔の早期回復評価に用いる. \n\n'
+        '■MPADSS (日帰り退院 / 帰宅判定)\n'
+        '・バイタル / 歩行 / 嘔気嘔吐 / 疼痛 / 手術部位出血 の5項目を各0-2点で評価 (満点10点). \n'
+        '・9点以上で帰宅可 (Chung の PADSS の修正版). \n'
+        '・飲水・排尿の確認は必須条件から外されているのが現行の考え方 (ルーチンには強制しない). \n\n'
+        '■使い分けのまとめ\n'
+        '・Modified Aldrete: PACU退室 / Phase I回復 → PACU内で評価, 9点以上. \n'
+        '・White-Song: PACUバイパス / Phase II直行 → OR退室直後〜早期に評価, 12点以上かつ各項目1点以上. \n'
+        '・MPADSS: 日帰り退院 / 帰宅判定 → Phase II後・帰宅前に評価, 9点以上. \n'
+        '※スコアは絶対基準ではなく, 術式・施設基準・麻酔科医の総合判断と組み合わせて運用する. \n'
+        '→ 採点は「計算機」タブの 退室基準スコア で. ',
+  ),
 
   // ───────── 鎮静 ─────────
   ColumnArticle(
