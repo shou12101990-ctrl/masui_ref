@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../domain/calculators/allowable_blood_loss.dart';
+import '../state/patient_store.dart';
 import '../widgets/calc_parts.dart';
 
 /// 許容出血量計算機
@@ -30,13 +31,17 @@ const _coefs = [
 class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
   static const _accent = Color(0xFFC2185B);
 
-  final _wtCtrl  = TextEditingController(text: '60');
+  final _patient = PatientStore.instance;
   final _hb0Ctrl = TextEditingController();
   final _hbtCtrl = TextEditingController(text: '7');
 
   _EbvCoef _coef = _coefs.first;
 
-  List<TextEditingController> get _all => [_wtCtrl, _hb0Ctrl, _hbtCtrl];
+  List<TextEditingController> get _all => [_hb0Ctrl, _hbtCtrl];
+
+  void _onPatient() {
+    if (mounted) setState(() {});
+  }
 
   @override
   void initState() {
@@ -44,10 +49,12 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
     for (final c in _all) {
       c.addListener(() => setState(() {}));
     }
+    _patient.addListener(_onPatient);
   }
 
   @override
   void dispose() {
+    _patient.removeListener(_onPatient);
     for (final c in _all) {
       c.dispose();
     }
@@ -56,9 +63,9 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
 
   double? _v(TextEditingController c) => double.tryParse(c.text.trim());
 
-  // 計算ロジックは domain 層へ分離 (純粋関数)
+  // 計算ロジックは domain 層へ分離 (純粋関数). 体重は患者情報から自動連携.
   AllowableBloodLossResult? get _result => computeAllowableBloodLoss(
-        weightKg: _v(_wtCtrl),
+        weightKg: _patient.weightOr,
         hb0: _v(_hb0Ctrl),
         hbTarget: _v(_hbtCtrl),
         mlPerKg: _coef.mlPerKg,
@@ -92,11 +99,15 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                         style: theme.textTheme.titleSmall
                             ?.copyWith(fontWeight: FontWeight.bold)),
                     const SizedBox(height: 12),
+                    PatientLinkedChip(
+                      '体重 ${_patient.weightOr % 1 == 0 ? _patient.weightOr.toStringAsFixed(0) : _patient.weightOr} kg',
+                      usingDefault: _patient.weightKg == null,
+                      accent: _accent,
+                    ),
+                    const SizedBox(height: 10),
                     Row(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Expanded(child: CalcField('体重', 'kg', _wtCtrl)),
-                        const SizedBox(width: 8),
                         Expanded(child: CalcField('現在Hb', 'g/dL', _hb0Ctrl)),
                         const SizedBox(width: 8),
                         Expanded(child: CalcField('許容Hb', 'g/dL', _hbtCtrl)),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../data/calculators.dart';
+import '../widgets/patient_info_panel.dart';
 
 /// 計算機タブのハブ画面 — 各計算機へのナビゲーション.
 /// 項目の定義は lib/data/calculators.dart のレジストリに集約.
@@ -22,6 +23,10 @@ class CalculatorHubScreen extends StatelessWidget {
               child: Text('機能',
                   style: theme.textTheme.titleLarge
                       ?.copyWith(fontWeight: FontWeight.bold)),
+            ),
+            const Padding(
+              padding: EdgeInsets.fromLTRB(16, 0, 16, 10),
+              child: PatientInfoPanel(),
             ),
             Expanded(
               child: GridView.builder(

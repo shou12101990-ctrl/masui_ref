@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
 
 import '../models/drug.dart';
+import '../state/patient_store.dart';
+import '../widgets/calc_parts.dart';
 import '../widgets/category_mark.dart';
 import '../widgets/drug_visuals.dart';
-
-// ── 選択肢リスト ──────────────────────────────────────────────────────────
-final _ageOpts    = List.generate(71, (i) => i + 20);        // 20–90歳 (1歳刻み)
-final _heightOpts = List.generate(13, (i) => 130 + i * 5);  // 130–190cm (5cm刻み)
-final _weightOpts = List.generate(19, (i) => 30 + i * 5);   // 30–120kg  (5kg刻み)
 
 // ── 薬剤 enum ─────────────────────────────────────────────────────────────
 enum _SedDrug {
@@ -37,13 +34,6 @@ enum _Volatile {
   const _Volatile(this.label, this.initPct);
 }
 
-enum _Sex {
-  male('男性'),
-  female('女性');
-  final String label;
-  const _Sex(this.label);
-}
-
 // ── 用量モデル ────────────────────────────────────────────────────────────
 class _DoseLine {
   final String rowLabel;
@@ -68,19 +58,35 @@ class AdultInductionScreen extends StatefulWidget {
 }
 
 class _AdultInductionScreenState extends State<AdultInductionScreen> {
-  int _age    = 40;
-  int _height = 165;
-  int _weight = 60;
+  final _patient = PatientStore.instance;
+  int get _age => _patient.ageOr;        // 年齢・身長・体重・性別は患者情報から自動連携
+  int get _height => _patient.heightOr;
+  bool get _isMale => _patient.sexOr == Sex.male;
 
   _SedDrug  _sed  = _SedDrug.propofol;
   _AnalDrug _anal = _AnalDrug.fentanyl;
   _Volatile _volatile = _Volatile.sevoflurane;
-  _Sex      _sex  = _Sex.male;
+
+  void _onPatient() {
+    if (mounted) setState(() {});
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _patient.addListener(_onPatient);
+  }
+
+  @override
+  void dispose() {
+    _patient.removeListener(_onPatient);
+    super.dispose();
+  }
 
   bool   get _elderly => _age >= 65;
-  double get _wt      => _weight.toDouble();
+  double get _wt      => _patient.weightOr;
   // Devine式 (性別補正) — IBW: 薬剤投与量基準 / PBW: 換気量設定基準 (同値)
-  double get _ibw     => (_sex == _Sex.male ? 50.0 : 45.5) + 0.91 * (_height - 152.4);
+  double get _ibw     => (_isMale ? 50.0 : 45.5) + 0.91 * (_height - 152.4);
   double get _pbw     => _ibw;
 
   // 吸入麻酔薬 飽和後の目標 et濃度 (年齢補正)
@@ -255,75 +261,42 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Row(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      // 左: 患者情報 縦並び
-                      Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            _secTitle('患者情報', scheme),
-                            const SizedBox(height: 8),
-                            _ddField<_Sex>(
-                              label: '性別', suffix: '',
-                              value: _sex, items: _Sex.values,
-                              itemLabel: (s) => s.label,
-                              onChanged: (v) => setState(() => _sex = v),
-                            ),
-                            const SizedBox(height: 8),
-                            _ddField<int>(
-                              label: '年齢', suffix: '歳',
-                              value: _age, items: _ageOpts,
-                              onChanged: (v) => setState(() => _age = v),
-                            ),
-                            const SizedBox(height: 8),
-                            _ddField<int>(
-                              label: '身長', suffix: 'cm',
-                              value: _height, items: _heightOpts,
-                              onChanged: (v) => setState(() => _height = v),
-                            ),
-                            const SizedBox(height: 8),
-                            _ddField<int>(
-                              label: '体重', suffix: 'kg',
-                              value: _weight, items: _weightOpts,
-                              onChanged: (v) => setState(() => _weight = v),
-                            ),
-                          ],
-                        ),
-                      ),
-                      const SizedBox(width: 14),
-                      // 右: 薬剤選択 縦並び
-                      Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            _secTitle('薬剤', scheme),
-                            const SizedBox(height: 8),
-                            _ddField<_SedDrug>(
-                              label: '鎮静薬', suffix: '',
-                              value: _sed, items: _SedDrug.values,
-                              itemLabel: (d) => d.label,
-                              onChanged: (v) => setState(() => _sed = v),
-                            ),
-                            const SizedBox(height: 8),
-                            _ddField<_AnalDrug>(
-                              label: '鎮痛薬', suffix: '',
-                              value: _anal, items: _AnalDrug.values,
-                              itemLabel: (d) => d.label,
-                              onChanged: (v) => setState(() => _anal = v),
-                            ),
-                            const SizedBox(height: 8),
-                            _ddField<_Volatile>(
-                              label: '吸入麻酔薬', suffix: '',
-                              value: _volatile, items: _Volatile.values,
-                              itemLabel: (d) => d.label,
-                              onChanged: (v) => setState(() => _volatile = v),
-                            ),
-                          ],
-                        ),
-                      ),
-                    ],
+                  _secTitle('患者情報', scheme),
+                  const SizedBox(height: 4),
+                  Text('年齢・身長・体重・性別は「機能」TOPの患者情報から自動連携',
+                      style: TextStyle(
+                          fontSize: 11, color: Colors.grey.shade600)),
+                  const SizedBox(height: 8),
+                  PatientLinkedChip(
+                    '$_age歳 · $_height cm · ${_wt % 1 == 0 ? _wt.toStringAsFixed(0) : _wt} kg · ${_patient.sexOr.label}',
+                    usingDefault: _patient.age == null ||
+                        _patient.heightCm == null ||
+                        _patient.weightKg == null ||
+                        _patient.sex == null,
+                    accent: scheme.primary,
+                  ),
+                  const SizedBox(height: 14),
+                  _secTitle('薬剤', scheme),
+                  const SizedBox(height: 8),
+                  _ddField<_SedDrug>(
+                    label: '鎮静薬', suffix: '',
+                    value: _sed, items: _SedDrug.values,
+                    itemLabel: (d) => d.label,
+                    onChanged: (v) => setState(() => _sed = v),
+                  ),
+                  const SizedBox(height: 8),
+                  _ddField<_AnalDrug>(
+                    label: '鎮痛薬', suffix: '',
+                    value: _anal, items: _AnalDrug.values,
+                    itemLabel: (d) => d.label,
+                    onChanged: (v) => setState(() => _anal = v),
+                  ),
+                  const SizedBox(height: 8),
+                  _ddField<_Volatile>(
+                    label: '吸入麻酔薬', suffix: '',
+                    value: _volatile, items: _Volatile.values,
+                    itemLabel: (d) => d.label,
+                    onChanged: (v) => setState(() => _volatile = v),
                   ),
                   const SizedBox(height: 10),
                   // IBW / PBW バッジ

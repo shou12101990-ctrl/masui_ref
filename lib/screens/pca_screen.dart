@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+import '../state/patient_store.dart';
+import '../widgets/calc_parts.dart';
+
 /// iv PCA 計算機
 class PcaScreen extends StatefulWidget {
   const PcaScreen({super.key});
@@ -9,7 +12,6 @@ class PcaScreen extends StatefulWidget {
 }
 
 // ── 選択肢 ──────────────────────────────────────────────────────────────────
-const _wtOpts   = [30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100];
 const _concOpts = [5, 10, 15, 20, 25]; // mcg/ml (シリンジ内目標濃度)
 const _rateOpts = [0.5, 1.0, 1.5, 2.0, 2.5, 3.0]; // ml/h 持続流速
 final _dayOpts  = [
@@ -22,21 +24,25 @@ final _dayOpts  = [
 ];
 
 class _PcaScreenState extends State<PcaScreen> {
-  int    _wt   = 60;
+  final _patient = PatientStore.instance;
+  double get _wt => _patient.weightOr; // 体重は患者情報から自動連携
   int    _conc = 10;   // mcg/ml
   double _rate = 2.0;  // ml/h  ← デフォルト 2 ml/h
   double _days = 2.0;
   bool   _drop = false;
 
   // ── タブ2 (逆算) 入力 ──────────────────────────────────────────
-  final _wt2   = TextEditingController(text: '60');
   final _fen2  = TextEditingController(text: '20'); // フェンタニル mL
   final _dro2  = TextEditingController(text: '0');  // ドロレプタン mL
   final _ns2   = TextEditingController(text: '80'); // 生食 mL
   final _rate2 = TextEditingController(text: '2');  // 流速 mL/h
 
   List<TextEditingController> get _ctrl2 =>
-      [_wt2, _fen2, _dro2, _ns2, _rate2];
+      [_fen2, _dro2, _ns2, _rate2];
+
+  void _onPatient() {
+    if (mounted) setState(() {});
+  }
 
   @override
   void initState() {
@@ -44,10 +50,12 @@ class _PcaScreenState extends State<PcaScreen> {
     for (final c in _ctrl2) {
       c.addListener(() => setState(() {}));
     }
+    _patient.addListener(_onPatient);
   }
 
   @override
   void dispose() {
+    _patient.removeListener(_onPatient);
     for (final c in _ctrl2) {
       c.dispose();
     }
@@ -59,9 +67,15 @@ class _PcaScreenState extends State<PcaScreen> {
   double get _total2 => _pv(_fen2) + _pv(_dro2) + _pv(_ns2);
   double? get _conc2 => _total2 > 0 ? _fentaMcg2 / _total2 : null;
   double? get _speed2 {
-    final w = _pv(_wt2), r = _pv(_rate2);
+    final w = _wt, r = _pv(_rate2);
     return (_conc2 != null && w > 0) ? _conc2! * r / w : null;
   }
+
+  Widget _weightChip() => PatientLinkedChip(
+        '体重 ${_wt % 1 == 0 ? _wt.toStringAsFixed(0) : _wt} kg',
+        usingDefault: _patient.weightKg == null,
+        accent: const Color(0xFFE64A19),
+      );
   double? get _hours2 {
     final r = _pv(_rate2);
     return r > 0 ? _total2 / r : null;
@@ -138,6 +152,8 @@ class _PcaScreenState extends State<PcaScreen> {
               padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
               children: [
 
+          _weightChip(),
+          const SizedBox(height: 12),
           // ── 入力 ──────────────────────────────────────────────────────────
           Card(
             child: Padding(
@@ -151,12 +167,6 @@ class _PcaScreenState extends State<PcaScreen> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        _dd<int>(
-                          label: '体重', suffix: 'kg',
-                          value: _wt, items: _wtOpts,
-                          onChanged: (v) => setState(() => _wt = v),
-                        ),
-                        const SizedBox(height: 8),
                         _dd<int>(
                           label: '濃度', suffix: 'μg/ml',
                           value: _conc, items: _concOpts,
@@ -336,7 +346,8 @@ class _PcaScreenState extends State<PcaScreen> {
                         fontWeight: FontWeight.bold,
                         fontSize: 13)),
                 const SizedBox(height: 12),
-                _in2('体重', _wt2, 'kg'),
+                _weightChip(),
+                const SizedBox(height: 10),
                 _in2('フェンタニル', _fen2, 'mL'),
                 _in2('ドロレプタン', _dro2, 'mL'),
                 _in2('生食', _ns2, 'mL'),

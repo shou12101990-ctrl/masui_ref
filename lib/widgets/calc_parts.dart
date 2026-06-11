@@ -4,6 +4,46 @@ import 'package:flutter/material.dart';
 /// (各画面に重複していた _Field / _ResultRow / _ChoiceBtn / _Cell を集約.
 ///  画面ごとの微差はパラメータで吸収し, 見た目は従来と同一に保つ)
 
+/// 患者情報 (PatientStore)から自動連携した値を読み取り専用で示すチップ.
+/// 計算機の入力欄を廃止した代わりに「いま使っている値」を明示する.
+class PatientLinkedChip extends StatelessWidget {
+  final String summary; // 例: '体重 60 kg' / '40歳 · 165cm · 60kg · 男性'
+  final bool usingDefault; // 参照値のいずれかが未入力 (デフォルト)のとき true
+  final Color accent;
+  const PatientLinkedChip(this.summary,
+      {super.key, this.usingDefault = false, this.accent = const Color(0xFF00796B)});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 9),
+      decoration: BoxDecoration(
+        color: accent.withValues(alpha: 0.07),
+        borderRadius: BorderRadius.circular(10),
+        border: Border.all(color: accent.withValues(alpha: 0.2)),
+      ),
+      child: Row(
+        children: [
+          Icon(Icons.person_outline, size: 16, color: accent),
+          const SizedBox(width: 6),
+          Expanded(
+            child: Text(summary,
+                style: const TextStyle(
+                    fontSize: 13, fontWeight: FontWeight.w600)),
+          ),
+          if (usingDefault)
+            const Text('既定値 (TOPで入力)',
+                style: TextStyle(fontSize: 10, color: Colors.black45))
+          else
+            const Text('患者情報',
+                style: TextStyle(fontSize: 10, color: Colors.black38)),
+        ],
+      ),
+    );
+  }
+}
+
 /// ラベル + 単位サフィックス付きの数値入力欄.
 class CalcField extends StatelessWidget {
   final String label;

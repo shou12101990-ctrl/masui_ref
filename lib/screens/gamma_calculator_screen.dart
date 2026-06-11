@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../domain/calculators/gamma.dart';
+import '../state/patient_store.dart';
+import '../widgets/calc_parts.dart';
 
 // ── 入力単位 ──────────────────────────────────────────────────────────────
 enum _Unit {
@@ -44,16 +46,12 @@ class GammaCalculatorScreen extends StatefulWidget {
   State<GammaCalculatorScreen> createState() => _GammaCalculatorScreenState();
 }
 
-// 体重の選択肢: 30〜100 kg, 5 kg 刻み
-const _weightOptions = [
-  30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100,
-];
-
 class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   final _drugMg = TextEditingController(text: '150');
   final _totalMl = TextEditingController(text: '50');
   final _value = TextEditingController(text: '3');
-  int _weightKg = 60; // 体重 (ドロップダウン) — 両タブ共通
+  final _patient = PatientStore.instance;
+  double get _wt => _patient.weightOr; // 体重は患者情報から自動連携 — 両タブ共通
   _Unit _inputUnit = _Unit.mlPerH;
 
   // ── タブ2: 複数製剤の一括流量 ──
@@ -72,16 +70,22 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   List<TextEditingController> get _bulkCtrls =>
       [_gRoc, _gPhe, _gDopa, _gNad, _gDob, _gLan, _gAdr, _vAvp];
 
+  void _onPatient() {
+    if (mounted) setState(() {});
+  }
+
   @override
   void initState() {
     super.initState();
     for (final c in [_drugMg, _totalMl, _value, ..._bulkCtrls]) {
       c.addListener(() => setState(() {}));
     }
+    _patient.addListener(_onPatient);
   }
 
   @override
   void dispose() {
+    _patient.removeListener(_onPatient);
     for (final c in [_drugMg, _totalMl, _value, ..._bulkCtrls]) {
       c.dispose();
     }
@@ -107,14 +111,14 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
       value: double.tryParse(_value.text),
       unit: _domUnit,
       concMgPerMl: _concMgPerMl,
-      weightKg: _weightKg.toDouble(),
+      weightKg: _wt,
     );
   }
 
   // ── 全単位の結果 ──────────────────────────────────────────────────────
   _Result? get _result {
     final mgH = _normalizedMgPerH;
-    final w = _weightKg.toDouble();
+    final w = _wt;
     final c = _concMgPerMl;
     if (mgH == null) return null;
     return _Result(
@@ -171,9 +175,11 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
           children: [
             Text('単位を選んで相互変換 (γ = μg/kg/min)',
                 style: theme.textTheme.bodySmall?.copyWith(color: Colors.black54)),
-            const SizedBox(height: 16),
+            const SizedBox(height: 12),
+            _weightChip(),
+            const SizedBox(height: 12),
 
-            // ── 体重 / 薬剤希釈 / 流速 (1行) ────────────────────────────
+            // ── 薬剤希釈 / 流速 (1行) ────────────────────────────
             Card(
               child: Padding(
                 padding: const EdgeInsets.fromLTRB(14, 12, 14, 14),
@@ -183,45 +189,6 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                     Row(
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
-                        // ─ 体重 ─
-                        Expanded(
-                          flex: 16,
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              _groupLabel('体重', scheme),
-                              const SizedBox(height: 4),
-                              DropdownButtonFormField<int>(
-                                value: _weightKg,
-                                isExpanded: true,
-                                decoration: InputDecoration(
-                                  suffixText: 'kg',
-                                  isDense: true,
-                                  filled: true,
-                                  fillColor: const Color(0xFFF7F9FA),
-                                  border: OutlineInputBorder(
-                                    borderRadius: BorderRadius.circular(10),
-                                    borderSide: BorderSide.none,
-                                  ),
-                                  contentPadding: const EdgeInsets.symmetric(
-                                      horizontal: 10, vertical: 12),
-                                ),
-                                items: _weightOptions
-                                    .map((w) => DropdownMenuItem(
-                                          value: w,
-                                          child: Text('$w',
-                                              style: const TextStyle(fontSize: 14)),
-                                        ))
-                                    .toList(),
-                                onChanged: (w) {
-                                  if (w != null) setState(() => _weightKg = w);
-                                },
-                              ),
-                            ],
-                          ),
-                        ),
-                        const SizedBox(width: 8),
                         // ─ 薬剤希釈 ─
                         Expanded(
                           flex: 24,
@@ -320,49 +287,10 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
     return ListView(
       padding: const EdgeInsets.fromLTRB(16, 16, 16, 32),
       children: [
-        Text('体重と各製剤のγを入力 → 流量 (mL/h) を一括算出',
+        Text('各製剤のγを入力 → 流量 (mL/h) を一括算出',
             style: theme.textTheme.bodySmall?.copyWith(color: Colors.black54)),
         const SizedBox(height: 12),
-        // 体重
-        Card(
-          child: Padding(
-            padding: const EdgeInsets.fromLTRB(14, 12, 14, 12),
-            child: Row(
-              children: [
-                _groupLabel('体重', scheme),
-                const SizedBox(width: 14),
-                SizedBox(
-                  width: 120,
-                  child: DropdownButtonFormField<int>(
-                    value: _weightKg,
-                    isExpanded: true,
-                    decoration: InputDecoration(
-                      suffixText: 'kg',
-                      isDense: true,
-                      filled: true,
-                      fillColor: const Color(0xFFF7F9FA),
-                      border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(10),
-                        borderSide: BorderSide.none,
-                      ),
-                      contentPadding: const EdgeInsets.symmetric(
-                          horizontal: 10, vertical: 12),
-                    ),
-                    items: _weightOptions
-                        .map((w) => DropdownMenuItem(
-                            value: w,
-                            child: Text('$w',
-                                style: const TextStyle(fontSize: 14))))
-                        .toList(),
-                    onChanged: (w) {
-                      if (w != null) setState(() => _weightKg = w);
-                    },
-                  ),
-                ),
-              ],
-            ),
-          ),
-        ),
+        _weightChip(),
         const SizedBox(height: 12),
         // 製剤リスト
         Card(
@@ -426,7 +354,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   double? _flow(double concMcgPerMl, TextEditingController c) {
     final g = double.tryParse(c.text.trim());
     if (g == null) return null;
-    return gammaFlowMlPerH(g, _weightKg.toDouble(), concMcgPerMl);
+    return gammaFlowMlPerH(g, _wt, concMcgPerMl);
   }
 
   Widget _bulkHeader() => const Padding(
@@ -609,6 +537,11 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
       ),
     );
   }
+
+  Widget _weightChip() => PatientLinkedChip(
+        '体重 ${_wt % 1 == 0 ? _wt.toStringAsFixed(0) : _wt} kg',
+        usingDefault: _patient.weightKg == null,
+      );
 
   Widget _groupLabel(String text, ColorScheme scheme) {
     return Text(
