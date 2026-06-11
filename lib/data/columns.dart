@@ -1,23 +1,36 @@
 import 'package:flutter/material.dart';
 
-/// コラム (解説記事)1本. NutriCalcの「ノート」と同じ構造. 
+/// コラム本文に埋め込む表. 本文中の {{TABLE}} マーカー位置に描画される.
+class ArticleTable {
+  final List<String> headers;
+  final List<List<String>> rows;
+  const ArticleTable({required this.headers, required this.rows});
+
+  String get searchText =>
+      [...headers, for (final r in rows) ...r].join(' ');
+}
+
+/// コラム (解説記事)1本. NutriCalcの「ノート」と同じ構造.
 class ColumnArticle {
   final String category;
   final String title;
   final String body;
   final Color color;
   final List<String> tags; // 生理学 / 薬理学 / 術前評価 / モニタリング など横断タグ
+  final ArticleTable? table;
   const ColumnArticle({
     required this.category,
     required this.title,
     required this.body,
     required this.color,
     this.tags = const [],
+    this.table,
   });
 
-  /// 検索対象テキスト (タイトル・本文・カテゴリ・タグ)
+  /// 検索対象テキスト (タイトル・本文・カテゴリ・タグ・表)
   String get searchText =>
-      '$title $body $category ${tags.join(' ')}'.toLowerCase();
+      '$title $body $category ${tags.join(' ')} ${table?.searchText ?? ''}'
+          .toLowerCase();
 }
 
 // カテゴリ色 (NutriCalcのノートと同じ運用・淡め)
@@ -88,10 +101,8 @@ const List<ColumnArticle> kColumns = [
         '・原法PADSS (Chung) は外来手術後の帰宅準備性を測る目的で開発され, 評価を繰り返しながらスコアが基準 (9点以上) に達した患者を退院可能と判断する設計. \n'
         '・飲水・排尿の確認は必須条件から外されているのが現行の考え方 (ルーチンには強制しない). \n\n'
         '■段階ごとの整理\n'
-        '・手術直後 (手術室退室時): PACUを通すか, 直接Phase IIへ行けるか → White-Song score. \n'
-        '・Phase I (PACU): 麻酔からの初期回復, 気道・呼吸・循環の安定確認 → Modified Aldrete score. \n'
-        '・Phase II (日帰り回復エリア): 帰宅に向けた実生活レベルの回復確認 → MPADSS. \n'
-        '・帰宅前 (最終確認): 自宅退院してよいか → MPADSS + 臨床判断. \n\n'
+        '日帰り手術の回復評価は次のように整理できる. \n'
+        '{{TABLE}}\n\n'
         '■スコアは「免罪符」ではなくチェックリスト\n'
         '・実務上, スコアは退室・退院を許可するための免罪符ではなく, 見落としを減らすためのチェックリストとして使う. \n'
         '・合計点が基準を満たしていても, 出血が持続している, SpO₂が不安定, 疼痛や嘔気が制御できていない, 神経ブロック後の転倒リスクが高い, 帰宅後の付き添いが不十分, といった状況では退院は慎重に判断する. \n\n'
@@ -103,6 +114,15 @@ const List<ColumnArticle> kColumns = [
         '術後回復を段階的に評価し, それぞれの段階に適したスコアを用いることで, 効率性と安全性のバランスをとることができる. '
         '外来手術における回復室運用とは, 単に「早く帰す」ための仕組みではなく, 帰してよい患者を客観的に選び, 帰してはいけない患者を確実に拾い上げるためのシステムである. \n'
         '→ 採点は「計算機」タブの 退室基準スコア で. ',
+    table: ArticleTable(
+      headers: ['段階', '場所・状態', '主な目的', '代表的スコア'],
+      rows: [
+        ['手術直後', '手術室退室時', 'PACUを通すか, 直接Phase IIへ行けるか', 'White-Song score'],
+        ['Phase I', 'PACU', '麻酔からの初期回復, 気道・呼吸・循環の安定確認', 'Modified Aldrete score'],
+        ['Phase II', '日帰り回復エリア', '帰宅に向けた実生活レベルの回復確認', 'MPADSS'],
+        ['帰宅前', '最終確認', '自宅退院してよいか', 'MPADSS + 臨床判断'],
+      ],
+    ),
   ),
 
   // ───────── 鎮静 ─────────

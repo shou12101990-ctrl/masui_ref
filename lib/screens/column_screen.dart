@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../data/columns.dart';
+import '../widgets/article_table.dart';
 
 /// 解説（コラム）ページ。NutriCalcの「ノート」と同じUI：
 /// カテゴリ色グリッド ＋ ドラッグで伸縮する本文パネル ＋ ■見出しセクション。
@@ -311,12 +312,52 @@ class _Section extends StatelessWidget {
             ),
             child: Padding(
               padding: const EdgeInsets.all(12),
-              child: Text(article.body,
-                  style: const TextStyle(height: 1.7, fontSize: 13)),
+              child: _ArticleBody(article: article),
             ),
           ),
         ],
       ),
+    );
+  }
+}
+
+/// 記事本文の描画. 表を持つ記事は本文中の {{TABLE}} マーカー位置に
+/// ArticleTableView を差し込む (マーカーがなければ末尾に表示).
+class _ArticleBody extends StatelessWidget {
+  final ColumnArticle article;
+  const _ArticleBody({required this.article});
+
+  static const _bodyStyle = TextStyle(height: 1.7, fontSize: 13);
+
+  @override
+  Widget build(BuildContext context) {
+    final table = article.table;
+    if (table == null) {
+      return Text(article.body, style: _bodyStyle);
+    }
+
+    final parts = article.body
+        .split('{{TABLE}}')
+        .map((p) => p.replaceAll(RegExp(r'^\n+|\n+$'), ''))
+        .toList();
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        for (var i = 0; i < parts.length; i++) ...[
+          if (parts[i].isNotEmpty) Text(parts[i], style: _bodyStyle),
+          if (i < parts.length - 1) ...[
+            const SizedBox(height: 10),
+            ArticleTableView(table: table),
+            const SizedBox(height: 10),
+          ],
+        ],
+        // マーカーなしで表だけ定義された場合は末尾に表示
+        if (!article.body.contains('{{TABLE}}')) ...[
+          const SizedBox(height: 10),
+          ArticleTableView(table: table),
+        ],
+      ],
     );
   }
 }
