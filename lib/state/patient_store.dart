@@ -22,9 +22,9 @@ class PatientStore extends ChangeNotifier {
   Sex? sex;
 
   // 未入力時に計算機が用いるデフォルト
-  static const int defaultAge = 40;
-  static const int defaultHeightCm = 165;
-  static const double defaultWeightKg = 60.0;
+  static const int defaultAge = 60;
+  static const int defaultHeightCm = 160;
+  static const double defaultWeightKg = 50.0;
   static const Sex defaultSex = Sex.male;
 
   int get ageOr => age ?? defaultAge;
