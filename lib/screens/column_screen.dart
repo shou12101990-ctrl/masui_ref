@@ -220,7 +220,11 @@ class _ColumnScreenState extends State<ColumnScreen>
                                 children: [
                                   for (final c in filtered)
                                     _Section(
+                                      key: ValueKey(
+                                          '${c.title}|${_query.trim().isNotEmpty}'),
                                       article: c,
+                                      expandByDefault:
+                                          _query.trim().isNotEmpty,
                                       onTagTap: (t) => setState(() {
                                         _query = t;
                                         _searchCtrl.text = t;
@@ -241,45 +245,81 @@ class _ColumnScreenState extends State<ColumnScreen>
   }
 }
 
-class _Section extends StatelessWidget {
+class _Section extends StatefulWidget {
   final ColumnArticle article;
   final void Function(String tag)? onTagTap;
-  const _Section({required this.article, this.onTagTap});
+  final bool expandByDefault;
+  const _Section({
+    super.key,
+    required this.article,
+    this.onTagTap,
+    this.expandByDefault = false,
+  });
+
+  @override
+  State<_Section> createState() => _SectionState();
+}
+
+class _SectionState extends State<_Section> {
+  late bool _expanded = widget.expandByDefault;
 
   @override
   Widget build(BuildContext context) {
+    final article = widget.article;
     return Padding(
-      padding: const EdgeInsets.only(bottom: 24),
+      padding: const EdgeInsets.only(bottom: 14),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          Text.rich(
-            TextSpan(children: [
-              TextSpan(
-                text: '■ ',
-                style: TextStyle(
-                    color: article.color,
-                    fontWeight: FontWeight.bold,
-                    fontSize: 15),
+          // ── ヘッダ (タップで開閉) ──
+          InkWell(
+            borderRadius: BorderRadius.circular(8),
+            onTap: () => setState(() => _expanded = !_expanded),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(vertical: 4),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Expanded(
+                    child: Text.rich(
+                      TextSpan(children: [
+                        TextSpan(
+                          text: '■ ',
+                          style: TextStyle(
+                              color: article.color,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 15),
+                        ),
+                        TextSpan(
+                          text: article.title,
+                          style: const TextStyle(
+                              color: Colors.black,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 15),
+                        ),
+                      ]),
+                    ),
+                  ),
+                  const SizedBox(width: 6),
+                  Icon(
+                    _expanded
+                        ? Icons.keyboard_arrow_up
+                        : Icons.keyboard_arrow_down,
+                    color: Colors.black38,
+                  ),
+                ],
               ),
-              TextSpan(
-                text: article.title,
-                style: const TextStyle(
-                    color: Colors.black,
-                    fontWeight: FontWeight.bold,
-                    fontSize: 15),
-              ),
-            ]),
+            ),
           ),
           if (article.tags.isNotEmpty) ...[
-            const SizedBox(height: 6),
+            const SizedBox(height: 4),
             Wrap(
               spacing: 6,
               runSpacing: 4,
               children: [
                 for (final t in article.tags)
                   GestureDetector(
-                    onTap: () => onTagTap?.call(t),
+                    onTap: () => widget.onTagTap?.call(t),
                     child: Container(
                       padding: const EdgeInsets.symmetric(
                           horizontal: 8, vertical: 2),
@@ -299,22 +339,27 @@ class _Section extends StatelessWidget {
               ],
             ),
           ],
-          const SizedBox(height: 8),
-          Card(
-            margin: EdgeInsets.zero,
-            elevation: 0,
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(12),
-              side: BorderSide(
-                  color:
-                      Theme.of(context).colorScheme.outline.withValues(alpha: 0.4),
-                  width: 0.8),
+          // ── 本文 (展開時のみ) ──
+          if (_expanded) ...[
+            const SizedBox(height: 8),
+            Card(
+              margin: EdgeInsets.zero,
+              elevation: 0,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(12),
+                side: BorderSide(
+                    color: Theme.of(context)
+                        .colorScheme
+                        .outline
+                        .withValues(alpha: 0.4),
+                    width: 0.8),
+              ),
+              child: Padding(
+                padding: const EdgeInsets.all(12),
+                child: _ArticleBody(article: article),
+              ),
             ),
-            child: Padding(
-              padding: const EdgeInsets.all(12),
-              child: _ArticleBody(article: article),
-            ),
-          ),
+          ],
         ],
       ),
     );
