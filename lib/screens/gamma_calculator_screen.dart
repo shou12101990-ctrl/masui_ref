@@ -63,12 +63,16 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   final _gLan = TextEditingController(text: '5');    // ランジオロール
   final _gAdr = TextEditingController(text: '0.05'); // アドレナリン
   final _vAvp = TextEditingController(text: '0.5');  // ピトレシン (u/h)
+  final _gMrn = TextEditingController(text: '0.3');  // ミルリノン
+  final _gOlp = TextEditingController(text: '0.2');  // オルプリノン
+  final _gHanp = TextEditingController(text: '0.1'); // カルペリチド (hANP)
   double _nadConc = 100;      // ノルアド 濃度(μg/mL) 既定 5mg/50mL
   double _adrConc = 100;      // アドレナリン 濃度(μg/mL) 既定 5mg/50mL
   bool _bulkExpanded = false; // 展開セクション
 
   List<TextEditingController> get _bulkCtrls =>
-      [_gRoc, _gPhe, _gDopa, _gNad, _gDob, _gLan, _gAdr, _vAvp];
+      [_gRoc, _gPhe, _gDopa, _gNad, _gDob, _gLan, _gAdr, _vAvp,
+       _gMrn, _gOlp, _gHanp];
 
   void _onPatient() {
     if (mounted) setState(() {});
@@ -310,14 +314,29 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                     (v) => setState(() => _nadConc = v)),
                 if (_bulkExpanded) ...[
                   const Divider(height: 14),
+                  Align(
+                    alignment: Alignment.centerLeft,
+                    child: Text('その他製剤',
+                        style: TextStyle(
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold,
+                            color: scheme.primary)),
+                  ),
+                  const SizedBox(height: 8),
                   _flowRow('ドブタミン', '150mg/50mL', 3000, _gDob),
                   const Divider(height: 14),
                   _flowRow('ランジオロール', '150mg/50mL', 3000, _gLan),
                   const Divider(height: 14),
+                  _avpRow(),
+                  const Divider(height: 14),
+                  _flowRow('ミルリノン (MRN)', '20mg/40mL', 500, _gMrn),
+                  const Divider(height: 14),
+                  _flowRow('オルプリノン (OLP)', '5mg/50mL', 100, _gOlp),
+                  const Divider(height: 14),
+                  _flowRow('カルペリチド (hANP)', '1000μg/50mL', 20, _gHanp),
+                  const Divider(height: 14),
                   _toggleConcRow('アドレナリン', _gAdr, _adrConc,
                       (v) => setState(() => _adrConc = v)),
-                  const Divider(height: 14),
-                  _avpRow(),
                 ],
                 const SizedBox(height: 2),
                 Align(
@@ -332,7 +351,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                         size: 18),
                     label: Text(_bulkExpanded
                         ? '閉じる'
-                        : '展開（ドブタミン・ランジオロール・アドレナリン）'),
+                        : '展開 (その他製剤: DOB/ランジオ/AVP/MRN/OLP/hANP/Ad)'),
                     style: TextButton.styleFrom(
                         foregroundColor: scheme.primary,
                         padding: const EdgeInsets.symmetric(horizontal: 4),
