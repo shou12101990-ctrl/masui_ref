@@ -329,14 +329,14 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                   const Divider(height: 14),
                   _avpRow(),
                   const Divider(height: 14),
+                  _toggleConcRow('アドレナリン', _gAdr, _adrConc,
+                      (v) => setState(() => _adrConc = v)),
+                  const Divider(height: 14),
                   _flowRow('ミルリノン (MRN)', '20mg/40mL', 500, _gMrn),
                   const Divider(height: 14),
                   _flowRow('オルプリノン (OLP)', '5mg/50mL', 100, _gOlp),
                   const Divider(height: 14),
                   _flowRow('カルペリチド (hANP)', '1000μg/50mL', 20, _gHanp),
-                  const Divider(height: 14),
-                  _toggleConcRow('アドレナリン', _gAdr, _adrConc,
-                      (v) => setState(() => _adrConc = v)),
                 ],
                 const SizedBox(height: 2),
                 Align(
@@ -351,7 +351,7 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
                         size: 18),
                     label: Text(_bulkExpanded
                         ? '閉じる'
-                        : '展開 (その他製剤: DOB/ランジオ/AVP/MRN/OLP/hANP/Ad)'),
+                        : '展開 (その他製剤: DOB/ランジオ/AVP/Ad/MRN/OLP/hANP)'),
                     style: TextButton.styleFrom(
                         foregroundColor: scheme.primary,
                         padding: const EdgeInsets.symmetric(horizontal: 4),
