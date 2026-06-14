@@ -1,14 +1,9 @@
 import 'package:flutter/material.dart';
 
+import '../state/patient_store.dart';
+import '../widgets/calc_parts.dart';
+
 // ─── モデル ──────────────────────────────────────────────────────
-
-enum _Sex {
-  male('男性'),
-  female('女性');
-
-  final String label;
-  const _Sex(this.label);
-}
 
 // Brodsky (1999) サイズ基準
 const _tableRows = [
@@ -36,11 +31,28 @@ class DltScreen extends StatefulWidget {
 }
 
 class _DltScreenState extends State<DltScreen> {
-  _Sex _sex = _Sex.male;
-  int _height = 165;
+  final _patient = PatientStore.instance;
+  bool get _isMale => _patient.sexOr == Sex.male; // 性別は患者情報から自動連携
+  int get _height => _patient.heightOr; // 身長は患者情報から自動連携
+
+  void _onPatient() {
+    if (mounted) setState(() {});
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _patient.addListener(_onPatient);
+  }
+
+  @override
+  void dispose() {
+    _patient.removeListener(_onPatient);
+    super.dispose();
+  }
 
   int get _fr {
-    if (_sex == _Sex.male) {
+    if (_isMale) {
       if (_height >= 170) return 41;
       if (_height >= 160) return 39;
       return 37;
@@ -143,40 +155,20 @@ class _DltScreenState extends State<DltScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('患者情報',
+                    Text('患者情報 (Brodsky法)',
                         style: theme.textTheme.titleSmall
                             ?.copyWith(fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 12),
-                    // 性別
-                    Row(children: [
-                      const SizedBox(width: 60, child: Text('性別')),
-                      SegmentedButton<_Sex>(
-                        segments: _Sex.values
-                            .map((s) => ButtonSegment(
-                                value: s, label: Text(s.label)))
-                            .toList(),
-                        selected: {_sex},
-                        onSelectionChanged: (s) =>
-                            setState(() => _sex = s.first),
-                        style: const ButtonStyle(
-                          tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                        ),
-                      ),
-                    ]),
-                    const SizedBox(height: 12),
-                    // 身長
-                    Row(children: [
-                      const SizedBox(width: 60, child: Text('身長')),
-                      DropdownButton<int>(
-                        value: _height,
-                        items: _tableRows
-                            .map((r) => DropdownMenuItem(
-                                value: r[0] as int,
-                                child: Text('${r[0]} cm')))
-                            .toList(),
-                        onChanged: (v) => setState(() => _height = v!),
-                      ),
-                    ]),
+                    const SizedBox(height: 4),
+                    Text('身長・性別は「機能」TOPの患者情報から自動連携',
+                        style: TextStyle(
+                            fontSize: 11, color: Colors.grey.shade600)),
+                    const SizedBox(height: 10),
+                    PatientLinkedChip(
+                      '身長 $_height cm · ${_patient.sexOr.label}',
+                      usingDefault: _patient.heightCm == null ||
+                          _patient.sex == null,
+                      accent: scheme.primary,
+                    ),
                   ],
                 ),
               ),
@@ -206,7 +198,7 @@ class _DltScreenState extends State<DltScreen> {
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      '（Brodsky 1999 基準 · 身長 $_height cm · ${_sex.label}）',
+                      '（Brodsky 1999 基準 · 身長 $_height cm · ${_patient.sexOr.label}）',
                       style: theme.textTheme.bodySmall
                           ?.copyWith(color: Colors.black54),
                       textAlign: TextAlign.center,

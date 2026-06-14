@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 import '../domain/calculators/be_correction.dart';
+import '../state/patient_store.dart';
+import '../widgets/calc_parts.dart';
 
 /// メイロン（重炭酸Na）による BE 補正計算機
 /// HCO3⁻不足分 = 0.3 × 体重 × |BE|
@@ -15,10 +17,14 @@ class BeCorrectionScreen extends StatefulWidget {
 class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
   static const _accent = Color(0xFF5E35B1);
 
+  final _patient = PatientStore.instance;
   final _beCtrl = TextEditingController(text: '10');
-  final _wtCtrl = TextEditingController(text: '60');
 
-  List<TextEditingController> get _all => [_beCtrl, _wtCtrl];
+  List<TextEditingController> get _all => [_beCtrl];
+
+  void _onPatient() {
+    if (mounted) setState(() {});
+  }
 
   @override
   void initState() {
@@ -26,21 +32,23 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
     for (final c in _all) {
       c.addListener(() => setState(() {}));
     }
+    _patient.addListener(_onPatient);
   }
 
   @override
   void dispose() {
+    _patient.removeListener(_onPatient);
     for (final c in _all) {
       c.dispose();
     }
     super.dispose();
   }
 
-  // 計算ロジックは domain 層へ分離 (純粋関数)
+  // 計算ロジックは domain 層へ分離 (純粋関数). 体重は患者情報から自動連携.
   // 入力は正の数 (塩基不足の大きさ). BE = −入力 として扱う.
   BeCorrectionResult? get _result => computeBeCorrection(
         beMagnitude: double.tryParse(_beCtrl.text.trim()),
-        weightKg: double.tryParse(_wtCtrl.text.trim()),
+        weightKg: _patient.weightOr,
       );
 
   @override
@@ -73,7 +81,12 @@ class _BeCorrectionScreenState extends State<BeCorrectionScreen> {
                     const SizedBox(height: 12),
                     _InputRow('BE（正の数で入力）', _beCtrl,
                         hint: '例: 10 → BE −10'),
-                    _InputRow('体重 (kg)', _wtCtrl),
+                    const SizedBox(height: 10),
+                    PatientLinkedChip(
+                      '体重 ${_patient.weightOr % 1 == 0 ? _patient.weightOr.toStringAsFixed(0) : _patient.weightOr} kg',
+                      usingDefault: _patient.weightKg == null,
+                      accent: _accent,
+                    ),
                   ],
                 ),
               ),

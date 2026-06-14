@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../state/patient_store.dart';
 import '../widgets/calc_parts.dart';
 
 // ─── モデル ──────────────────────────────────────────────────────
@@ -105,7 +106,8 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
 
   static const _concs = [0.125, 0.25, 0.375, 0.5, 0.75, 1.0];
 
-  int _wt = 60;
+  final _patient = PatientStore.instance;
+  double get _wt => _patient.weightOr; // 体重は患者情報から自動連携
   _LADrug _drug = _LADrug.lidocaine;
   bool _epi = false;
   double _conc = 0.25;
@@ -115,6 +117,22 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
   double get _maxMl => _maxMg / _mgPerMl;
 
   void _selectDrug(_LADrug d) => setState(() => _drug = d);
+
+  void _onPatient() {
+    if (mounted) setState(() {});
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    _patient.addListener(_onPatient);
+  }
+
+  @override
+  void dispose() {
+    _patient.removeListener(_onPatient);
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -131,37 +149,11 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
         child: ListView(
           padding: const EdgeInsets.all(16),
           children: [
-            // ── 体重 ──
-            Card(
-              child: Padding(
-                padding: const EdgeInsets.fromLTRB(16, 12, 16, 12),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    const Text('体重',
-                        style: TextStyle(
-                            fontSize: 14, fontWeight: FontWeight.bold)),
-                    const SizedBox(width: 16),
-                    _RoundBtn(
-                      icon: Icons.remove,
-                      onTap: () => setState(
-                          () => _wt = (_wt - 5).clamp(10, 150)),
-                    ),
-                    SizedBox(
-                      width: 84,
-                      child: Text('$_wt kg',
-                          textAlign: TextAlign.center,
-                          style: const TextStyle(
-                              fontSize: 20, fontWeight: FontWeight.bold)),
-                    ),
-                    _RoundBtn(
-                      icon: Icons.add,
-                      onTap: () => setState(
-                          () => _wt = (_wt + 5).clamp(10, 150)),
-                    ),
-                  ],
-                ),
-              ),
+            // ── 体重 (患者情報から自動連携) ──
+            PatientLinkedChip(
+              '体重 ${_wt % 1 == 0 ? _wt.toStringAsFixed(0) : _wt} kg',
+              usingDefault: _patient.weightKg == null,
+              accent: _accent,
             ),
             const SizedBox(height: 12),
 
@@ -422,28 +414,4 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
 
 // ─── ヘルパーウィジェット ─────────────────────────────────────
 // (セル/選択ボタンは lib/widgets/calc_parts.dart の共通実装を使用)
-
-class _RoundBtn extends StatelessWidget {
-  final IconData icon;
-  final VoidCallback onTap;
-  const _RoundBtn({required this.icon, required this.onTap});
-
-  @override
-  Widget build(BuildContext context) {
-    final scheme = Theme.of(context).colorScheme;
-    return InkWell(
-      onTap: onTap,
-      borderRadius: BorderRadius.circular(24),
-      child: Container(
-        width: 38,
-        height: 38,
-        decoration: BoxDecoration(
-          color: scheme.primary.withValues(alpha: 0.1),
-          shape: BoxShape.circle,
-        ),
-        child: Icon(icon, size: 20, color: scheme.primary),
-      ),
-    );
-  }
-}
 
