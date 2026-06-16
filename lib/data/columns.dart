@@ -80,6 +80,7 @@ const List<ColumnArticle> kColumns = [
     category: '全般',
     title: '退室基準と回復評価の流れ (Aldrete / White-Song / MPADSS)',
     color: _cGeneral,
+    tags: const ['術後'],
     body: '■外来手術・日帰り手術における回復評価の流れ\n'
         '日帰り手術は, 手術そのものが無事に終わるだけでは不十分. '
         '患者が安全に覚醒し, 疼痛や嘔気が制御され, 帰宅後も大きな問題なく過ごせる状態に到達して初めて「日帰り手術として完結した」と言える. '
@@ -130,6 +131,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮静',
     title: '全身麻酔の導入・維持 (プロポフォール)',
     color: _cSed,
+    tags: const ['薬理学', '用量計算'],
     body: '■導入\n'
         '1.0-2.0mg/kgショット. 術前で意識状態が悪い人・低心機能では Prop 0.6mg/kg + Sev 2% のslow気味のrapidが安全. '
         '術前で興奮している人は高用量＋予防的昇圧. \n\n'
@@ -144,6 +146,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮静',
     title: 'Prop vs レミマゾラム (循環を下げない導入)',
     color: _cSed,
+    tags: const ['薬理学', '循環'],
     body: 'レミマゾラムはPropと比べ導入後・術中の低血圧を少なくでき, EF30%のHFrEF患者の導入でも使える. '
         '一方で覚醒の質は落ちる傾向, PONVは同程度, MEP影響は有意差なし. \n\n'
         'BZ系なのでBISは高めに出る→BIS 55-65で保つ. 循環抑制は小さいが呼吸抑制は強く筋弛緩作用もある. '
@@ -154,6 +157,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮静',
     title: 'ケタミン vs プロポフォール / ケトフォール',
     color: _cSed,
+    tags: const ['薬理学'],
     body: '            ケタミン   ／   プロポフォール\n'
         '不穏体動 : 不穏体動  ／ 鎮静\n'
         '鎮痛　　 : 鎮痛あり  ／ 鎮痛なし\n'
@@ -170,7 +174,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮静',
     title: '麻酔の4段階と MAC / MAC awake',
     color: _cSed,
-    tags: const ['生理学'],
+    tags: const ['生理学', '薬理学'],
     body: '■麻酔の4段階 (Guedel)\n'
         '無痛期 → 興奮期 → 外科期 → 麻痺期 (呼吸停止)の四段階. \n'
         '・無痛期: 意識はあるが痛覚が鈍る\n'
@@ -186,7 +190,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮静',
     title: '吸入麻酔薬の作用 (一般的性質・呼吸器)',
     color: _cSed,
-    tags: const ['生理学', '薬理学'],
+    tags: const ['生理学', '薬理学', '呼吸'],
     body: '■一般的性質\n'
         '・悪性高熱症の原因になる. \n'
         '・Propofolよりも循環抑制はマイルド. \n'
@@ -206,7 +210,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮痛・オピオイド',
     title: 'オピオイドの薬理 (μ受容体と呼吸抑制)',
     color: _cOpioid,
-    tags: const ['生理学', '薬理学'],
+    tags: const ['薬理学', '生理学', '呼吸'],
     body: 'μ・δ・κ受容体があり鎮痛が最も強いのはμ. 鎮痛の主座は中枢性で, 脊髄後角の一次求心性終末 (シナプス前＋シナプス後)と上位中枢 (中脳PAG・延髄RVM)に作用する. 末梢のμ受容体 (炎症組織など)も補助的に関与する. \n\n'
         '痛みを感じなくなる最小有効鎮痛濃度をMEACといい, その個人差は比較的小さい (＝至適濃度は予測しやすい). \n\n'
         '■呼吸抑制\n'
@@ -218,6 +222,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮痛・オピオイド',
     title: 'レミフェンタニルの特徴 (徐脈・シバリング・OIH)',
     color: _cOpioid,
+    tags: const ['薬理学', '循環'],
     body: '半減期3min, 停止後5minでCeが半分, 年齢で代謝時間が変わらない. Cp=Ceで安定し流量(γ)×20-25で概ね安定. \n\n'
         '■徐脈・低血圧\n'
         '迷走神経賦活＋陰性変時作用＋血管平滑筋直接弛緩. SVとHRが各15%前後減少→Co25%減少→BP30%低下. '
@@ -231,6 +236,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮痛・オピオイド',
     title: 'BBB通過性 (脂溶性・髄液移行)',
     color: _cOpioid,
+    tags: const ['薬理学'],
     body: '・BBB透過性は脂溶性が高い薬剤ほど高い (脂溶性が高いほど中枢への移行・効果発現が速い). \n'
         '・髄液中へのとどまりやすさは水溶性薬剤のほうが高い (→モルヒネITは長時間効くが遅発性呼吸抑制). \n'
         '・レミフェンタニルは効果部位平衡が速く (t½ke0 ≈1分), 血中濃度と効果部位濃度がほぼ一致するため血中濃度を参考に投与できる (動態自体は3-コンパートメントモデル). ',
@@ -239,6 +245,7 @@ const List<ColumnArticle> kColumns = [
     category: '鎮痛・オピオイド',
     title: 'オピオイド換算が必要な理由 (耐性・依存・離脱)',
     color: _cOpioid,
+    tags: const ['薬理学', '用量計算'],
     body: '■ ベースで常用している人に何が起きているか\n'
         'オピオイドを継続使用すると数日〜数週で耐性(tolerance)と身体依存が形成される. \n'
         '・μ受容体のダウンレギュレーション／脱感作 (β-arrestin を介した受容体の内在化). \n'
@@ -261,6 +268,7 @@ const List<ColumnArticle> kColumns = [
     category: '筋弛緩',
     title: '筋弛緩の考え方 (適応と遷延リスク)',
     color: _cNmb,
+    tags: const ['薬理学'],
     body: '■必須となる場面\n'
         '①腹腔鏡手術 (腹直筋を弛緩させないとop困難)②反射回避 (膀胱手術など)'
         '③気道・気道周囲のop ④横隔膜周囲のop ⑤コイル塞栓など細かい血管内治療. '
@@ -272,6 +280,7 @@ const List<ColumnArticle> kColumns = [
     category: '筋弛緩',
     title: 'TOF・PTCと筋弛緩深度',
     color: _cNmb,
+    tags: const ['モニタリング', '薬理学'],
     body: '■TOF比と臨床症状\n'
         'TOF比<0.7: TV未正常化・開眼維持不能・握手不可\n'
         'TOF比0.7-0.9: 頭/下肢挙上可・舌圧子保持・握手可\n'
@@ -287,6 +296,7 @@ const List<ColumnArticle> kColumns = [
     category: '循環作動薬',
     title: '昇圧薬の等価換算 (norepinephrine equivalent)',
     color: _cCirc,
+    tags: const ['循環', '用量計算'],
     body: 'NAd 0.1γと同じ昇圧効果を持つ各薬剤のdose (norepinephrine equivalent): \n'
         '　ノルアドレナリン 0.1γ\n'
         '　アドレナリン     0.1γ\n'
@@ -300,6 +310,7 @@ const List<ColumnArticle> kColumns = [
     category: '循環作動薬',
     title: '強心薬の使い分け (DOB / MRN / イソプロ)',
     color: _cCirc,
+    tags: const ['循環', '薬理学'],
     body: '■DOB vs ミルリノン/オルプリノン (ともにinodilator)\n'
         'PAP↑を伴う右心不全・β遮断内服中・頻脈合併 → MRN\n'
         '徐脈合併・低血圧・腎機能低下 → DOB\n\n'
@@ -314,6 +325,7 @@ const List<ColumnArticle> kColumns = [
     category: 'モニタリング',
     title: 'BISについて',
     color: _cMonitor,
+    tags: const ['モニタリング'],
     body: '・全身麻酔の維持はBIS 40-60が目安 (＜40は深すぎ, ＞60は浅麻酔で術中覚醒リスク). \n'
         '・筋電図(EMG)の混入はBISを偽性に高く表示させる. 電極インピーダンスは低く (おおむね5kΩ未満)保つと正確. \n'
         '・EMGの上昇はTIVA中の覚醒 (隠し絵)の早期サインとして有用. \n\n'
@@ -323,6 +335,7 @@ const List<ColumnArticle> kColumns = [
     category: 'モニタリング',
     title: '術中覚醒したとき',
     color: _cMonitor,
+    tags: const ['モニタリング'],
     body: '術後のPTSD・精神障害が問題になる. TIVAならBIS上昇がどの程度前から起きていたかを確認する. \n\n'
         '(i) 急激な疼痛刺激による覚醒なら記憶が形成されている可能性がある. \n'
         '(ii) 点滴が落ちないことによる覚醒なら80程度でもおそらく記憶はない. \n\n'
@@ -332,7 +345,7 @@ const List<ColumnArticle> kColumns = [
     category: 'モニタリング',
     title: '動脈圧波形 (A-line)の見方',
     color: _cMonitor,
-    tags: const ['生理学', 'モニタリング'],
+    tags: const ['生理学', 'モニタリング', '循環'],
     body: '■ 正常波形の構成\n'
         '・急峻な立ち上がり (収縮期駆出) → 収縮期ピーク → 下行脚に dicrotic notch (重複切痕 ＝ 大動脈弁閉鎖) → 拡張期へ. \n'
         '・立ち上がりの傾き (dP/dt)は左室収縮性を反映. 波形下の面積は1回拍出量にほぼ比例. \n\n'
@@ -348,7 +361,7 @@ const List<ColumnArticle> kColumns = [
     category: 'モニタリング',
     title: 'CVP波形の見方 (a-c-v波)',
     color: _cMonitor,
-    tags: const ['生理学', 'モニタリング'],
+    tags: const ['生理学', 'モニタリング', '循環'],
     body: '■ 正常波形 (a・c・v の3つの山と x・y の2つの谷)\n'
         '・a波: 心房収縮. \n'
         '・c波: 心室収縮初期, 三尖弁が右房側へ膨隆. \n'
@@ -368,6 +381,7 @@ const List<ColumnArticle> kColumns = [
     category: '薬理学',
     title: '薬物動態と薬力学の個人差',
     color: _cPharm,
+    tags: const ['薬理学'],
     body: '麻酔薬・麻薬の薬物動態は個人間の差があまり大きくない (±30%)ことが知られている. \n\n'
         '一方で, 同一濃度における効果 (薬力学)は個人差が非常に大きい (±200%). \n\n'
         '→ だからこそモニタリング (BIS/TOF/バイタル)を見ながら効果で調節する. ',
@@ -376,6 +390,7 @@ const List<ColumnArticle> kColumns = [
     category: '薬理学',
     title: '分布容積について',
     color: _cPharm,
+    tags: const ['薬理学'],
     body: '"ある量の薬物を投与したときに得られる血中濃度と同じ濃度に希釈するのに必要な理論上の血液容積". \n'
         '分布容積 × 血中濃度 = 総薬物量. \n\n'
         '・分布容積が大きい＝組織に移行して血中濃度が下がりやすい\n'
@@ -397,6 +412,7 @@ const List<ColumnArticle> kColumns = [
     category: '薬理学',
     title: 'PONV (術後悪心嘔吐)の機序と予防',
     color: _cPharm,
+    tags: const ['術後', '薬理学'],
     body: '■PONVは約30%の頻度で生じる\n'
         '・機序としては延髄網様体にある嘔吐中枢が, 複数の求心性刺激経路によって刺激されることで生じる. \n'
         '　→PONVは術後オピオイドや服薬のアドヒアランスを低下させる. \n'
@@ -436,6 +452,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔',
     title: 'くも膜下腔投与 (脊椎麻酔)の一般論',
     color: _cReg,
+    tags: const ['生理学', '薬理学'],
     body: '■力価の関係\n'
         '同量投与した時の力価は 静脈内 1 → 硬膜外 10 → 髄腔内 100. \n'
         'epi (硬膜外カテーテル)がくも膜下腔に迷入していた際には10倍量を投与したことになるため注意. \n\n'
@@ -462,6 +479,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔',
     title: '硬膜外腔投与の一般論 (モルヒネ・フェンタニル)',
     color: _cReg,
+    tags: const ['薬理学'],
     body: '■一般的なこと\n'
         '・拡散により脊髄に作用するためBBBは関係ない. 局麻のほか, モルヒネとフェンタニルが保険適応. \n'
         '・脊椎くも膜下腔投与よりも分節麻酔・分離麻酔に優れる. C2/3以下すべての分節の疼痛に対応可能. \n'
@@ -486,6 +504,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔',
     title: '脊椎麻酔の合併症 (馬尾症候群・TNS・神経毒性)',
     color: _cReg,
+    tags: const ['薬理学'],
     body: '■馬尾症候群\n'
         '・膀胱直腸障害, 会陰部の知覚障害, 下肢の運動・知覚障害\n'
         '　→1度発生すると症状の回復が非常に困難. \n\n'
@@ -514,7 +533,7 @@ const List<ColumnArticle> kColumns = [
     category: '輸血',
     title: '血液型・不規則抗体・クロスマッチ',
     color: _cTrans,
-    tags: const ['術前評価'],
+    tags: const ['術前評価', '輸血'],
     body: '■規則抗体・不規則抗体\n'
         '規則抗体 … 自然抗体のことで, 抗A・抗Bを指す. \n'
         '不規則抗体 … 免疫抗体のことで, 輸血・妊娠により獲得する. 他者血液が侵入することでそれに対する抗体産生が起き, 出現する. \n\n'
@@ -532,6 +551,7 @@ const List<ColumnArticle> kColumns = [
     category: '輸血',
     title: '輸血副作用',
     color: _cTrans,
+    tags: const ['輸血'],
     body: '■急性反応 (輸血中〜24h以内)\n'
         '・溶血性輸血反応: ABO不適合が最重症. 発熱・腰背部痛・ヘモグロビン尿・DIC・ショック・腎不全. '
         '直ちに輸血中止, 大量輸液・利尿でヘモグロビン尿性腎症を防ぐ. \n'
@@ -550,6 +570,7 @@ const List<ColumnArticle> kColumns = [
     category: '輸血',
     title: '大量輸血プロトコル (MTP)',
     color: _cTrans,
+    tags: const ['輸血'],
     body: '■大量輸血の定義\n'
         '24hで循環血液量相当 (成人で約10単位RBC), または1hで4単位以上, 3hで循環血液量の50%喪失. \n\n'
         '■MTP (Massive Transfusion Protocol)\n'
@@ -568,7 +589,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔GL',
     title: '区域麻酔・神経ブロックと抗血栓療法GL (概説)',
     color: _cGL,
-    tags: const ['術前評価'],
+    tags: const ['術前評価', 'ガイドライン'],
     body: '■ ガイドライン概要\n'
         '日本ペインクリニック学会・日本麻酔科学会・日本区域麻酔学会 合同 (平成28年)\n'
         '正式名称: 抗血栓療法中の区域麻酔・神経ブロックガイドライン\n\n'
@@ -600,7 +621,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔GL',
     title: '抗血小板薬の休薬期間 (区域麻酔GLより)',
     color: _cGL,
-    tags: const ['術前評価'],
+    tags: const ['術前評価', 'ガイドライン'],
     body: '■ 不可逆的抗血小板薬 (血小板寿命 7〜10日まで効果持続)\n'
         '［薬剤: 高リスク群 / 中リスク群］\n'
         '・アスピリン: 7日 (5日可) / TBD*\n'
@@ -625,7 +646,7 @@ const List<ColumnArticle> kColumns = [
     category: '区域麻酔GL',
     title: '抗凝固薬の休薬期間 (区域麻酔GLより)',
     color: _cGL,
-    tags: const ['術前評価'],
+    tags: const ['術前評価', 'ガイドライン'],
     body: '■ 高リスク群の手技に対する休薬期間 (表3・表7)\n\n'
         '【ヘパリン系】\n'
         '・未分画ヘパリン (iv): 4時間前まで (APTT・血小板数正常確認)\n'
