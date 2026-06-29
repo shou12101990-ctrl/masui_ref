@@ -18,6 +18,7 @@ class ColumnArticle {
   final Color color;
   final List<String> tags; // 生理学 / 薬理学 / 術前評価 / モニタリング など横断タグ
   final ArticleTable? table;
+  final String? headerArt; // 本文先頭に表示する図のキー (UI側で widget へマップ)
   const ColumnArticle({
     required this.category,
     required this.title,
@@ -25,6 +26,7 @@ class ColumnArticle {
     required this.color,
     this.tags = const [],
     this.table,
+    this.headerArt,
   });
 
   /// 検索対象テキスト (タイトル・本文・カテゴリ・タグ・表)
@@ -361,6 +363,7 @@ const List<ColumnArticle> kColumns = [
     title: 'ECGモニター (3点/5点/12誘導・誘導と部位・異常波形)',
     color: _cMonitor,
     tags: const ['モニタリング', '循環', '生理学'],
+    headerArt: 'ecg_leads',
     body: '■ 3点誘導 (モニター心電図)\n'
         '・電極3枚: 右鎖骨下 (RA), 左鎖骨下 (LA), 左下腹部〜左前腋窩下 (LL). 体動・電気メスを避け骨上に貼る. \n'
         '・色は規格で異なる (AHA: RA白・LA黒・LL赤 / IEC・JIS: RA赤・LA黄・LL緑). メーカー差があるので位置で覚える. \n'

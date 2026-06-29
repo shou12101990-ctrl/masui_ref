@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../data/columns.dart';
 import '../widgets/article_table.dart';
+import '../widgets/ecg_leads_diagram.dart';
 
 /// 解説（コラム）ページ。NutriCalcの「ノート」と同じUI：
 /// カテゴリ色グリッド ＋ ドラッグで伸縮する本文パネル ＋ ■見出しセクション。
@@ -374,11 +375,31 @@ class _ArticleBody extends StatelessWidget {
 
   static const _bodyStyle = TextStyle(height: 1.7, fontSize: 13);
 
+  /// headerArt キーを対応する図ウィジェットへマップ (データ層はキーのみ保持).
+  Widget? _headerArt() {
+    switch (article.headerArt) {
+      case 'ecg_leads':
+        return const EcgLeadsDiagram();
+      default:
+        return null;
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
+    final header = _headerArt();
     final table = article.table;
+
     if (table == null) {
-      return Text(article.body, style: _bodyStyle);
+      if (header == null) return Text(article.body, style: _bodyStyle);
+      return Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          header,
+          const SizedBox(height: 12),
+          Text(article.body, style: _bodyStyle),
+        ],
+      );
     }
 
     final parts = article.body
@@ -389,6 +410,10 @@ class _ArticleBody extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
+        if (header != null) ...[
+          header,
+          const SizedBox(height: 12),
+        ],
         for (var i = 0; i < parts.length; i++) ...[
           if (parts[i].isNotEmpty) Text(parts[i], style: _bodyStyle),
           if (i < parts.length - 1) ...[
