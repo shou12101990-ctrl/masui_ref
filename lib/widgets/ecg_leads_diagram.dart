@@ -60,6 +60,7 @@ const _cLA = Color(0xFFF9A825); // 黄
 const _cLL = Color(0xFF43A047); // 緑
 const _cRL = Color(0xFF616161); // 黒
 const _cV = Color(0xFF8D6E63); // 茶
+const _cViolet = Color(0xFF8E24AA); // 紫 (V6)
 
 class _Elec {
   final double x; // torso矩形内の割合
@@ -91,17 +92,18 @@ class _TorsoPainter extends CustomPainter {
           _Elec(0.63, 0.58, _cV, 'V5'),
         ];
       case _Panel.twelve:
+        // 四肢は標準色, 胸部V1-V6はIEC色 (赤/黄/緑/茶/黒/紫)
         return const [
           _Elec(0.18, 0.22, _cRA, ''),
           _Elec(0.82, 0.22, _cLA, ''),
           _Elec(0.30, 0.90, _cRL, ''),
           _Elec(0.70, 0.90, _cLL, ''),
-          _Elec(0.46, 0.50, _cV, '1', above: true),
-          _Elec(0.55, 0.50, _cV, '2', above: true),
-          _Elec(0.585, 0.585, _cV, '3', above: true),
-          _Elec(0.62, 0.66, _cV, '4', above: true),
-          _Elec(0.71, 0.655, _cV, '5', above: true),
-          _Elec(0.80, 0.65, _cV, '6', above: true),
+          _Elec(0.46, 0.50, _cRA, '1', above: true), // V1 赤
+          _Elec(0.55, 0.50, _cLA, '2', above: true), // V2 黄
+          _Elec(0.585, 0.585, _cLL, '3', above: true), // V3 緑
+          _Elec(0.62, 0.66, _cV, '4', above: true), // V4 茶
+          _Elec(0.71, 0.655, _cRL, '5', above: true), // V5 黒
+          _Elec(0.80, 0.65, _cViolet, '6', above: true), // V6 紫
         ];
     }
   }
