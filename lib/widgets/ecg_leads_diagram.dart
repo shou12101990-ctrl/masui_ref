@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 
-/// ECG電極の貼付位置イラスト.
-/// 上段: 3点 / 5点誘導 (四肢電極中心の小パネル).
-/// 下段: 12誘導 胸部誘導 — 肋骨・基準線 (鎖骨中線/前腋窩線/中腋窩線)とともに
-///       V1-V6を標準色で配置した本格パネル + 色凡例.
+/// ECG電極の貼付位置イラスト. 3点 / 5点 / 12誘導(胸部) を ■■■ の3パネル横並びで表示.
+/// 12誘導は肋骨・基準線(鎖骨中線/前腋窩線/中腋窩線)とともにV1-V6を標準色で配置.
+/// 色の凡例と基準線の説明は行の下に全幅で表示する.
 /// 依存パッケージ無しで CustomPainter により描画 (色はIEC/慣用例, 位置で覚える).
 class EcgLeadsDiagram extends StatelessWidget {
   const EcgLeadsDiagram({super.key});
@@ -12,19 +11,37 @@ class EcgLeadsDiagram extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
-      children: const [
-        SizedBox(
-          height: 132,
+      children: [
+        AspectRatio(
+          aspectRatio: 2.05,
           child: Row(
             children: [
-              Expanded(child: _PanelBox(title: '3点誘導', panel: _Panel.three)),
-              SizedBox(width: 6),
-              Expanded(child: _PanelBox(title: '5点誘導', panel: _Panel.five)),
+              Expanded(child: _LeadBox('3点誘導', _TorsoPainter(_Panel.three))),
+              const SizedBox(width: 6),
+              Expanded(child: _LeadBox('5点誘導', _TorsoPainter(_Panel.five))),
+              const SizedBox(width: 6),
+              Expanded(child: _LeadBox('12誘導 (胸部)', _ChestPainter())),
             ],
           ),
         ),
-        SizedBox(height: 8),
-        _ChestPanel(),
+        const SizedBox(height: 8),
+        const Wrap(
+          alignment: WrapAlignment.center,
+          spacing: 10,
+          runSpacing: 4,
+          children: [
+            _LegendDot(_chV1, 'V1'),
+            _LegendDot(_chV2, 'V2'),
+            _LegendDot(_chV3, 'V3'),
+            _LegendDot(_chV4, 'V4'),
+            _LegendDot(_chV5, 'V5'),
+            _LegendDot(_chV6, 'V6'),
+          ],
+        ),
+        const SizedBox(height: 3),
+        Text('12誘導の縦の点線: 左鎖骨中線 / 左前腋窩線 / 左中腋窩線',
+            textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 9.5, color: Colors.grey.shade600)),
       ],
     );
   }
@@ -37,7 +54,7 @@ const _cLL = Color(0xFF43A047); // 緑
 const _cRL = Color(0xFF616161); // 黒
 const _cV = Color(0xFF8D6E63); // 茶 (V5 in 5点)
 
-// ─── 胸部誘導V1-V6色 (参考図に合わせた慣用色) ─────────────────
+// ─── 胸部誘導V1-V6色 (慣用色) ─────────────────────────────────
 const _chV1 = Color(0xFFE91E63); // マゼンタ
 const _chV2 = Color(0xFFF9A825); // 黄
 const _chV3 = Color(0xFF43A047); // 緑
@@ -45,15 +62,11 @@ const _chV4 = Color(0xFF795548); // 茶
 const _chV5 = Color(0xFF212121); // 黒
 const _chV6 = Color(0xFF8E24AA); // 紫
 
-// ════════════════════════════════════════════════════════════
-//  上段: 3点 / 5点 (簡易トルソ)
-// ════════════════════════════════════════════════════════════
-enum _Panel { three, five }
-
-class _PanelBox extends StatelessWidget {
+// ─── パネル枠 ─────────────────────────────────────────────────
+class _LeadBox extends StatelessWidget {
   final String title;
-  final _Panel panel;
-  const _PanelBox({required this.title, required this.panel});
+  final CustomPainter painter;
+  const _LeadBox(this.title, this.painter);
 
   @override
   Widget build(BuildContext context) {
@@ -69,13 +82,41 @@ class _PanelBox extends StatelessWidget {
               borderRadius: BorderRadius.circular(8),
               border: Border.all(color: Colors.black12),
             ),
-            child: CustomPaint(size: Size.infinite, painter: _TorsoPainter(panel)),
+            child: CustomPaint(size: Size.infinite, painter: painter),
           ),
         ),
       ],
     );
   }
 }
+
+class _LegendDot extends StatelessWidget {
+  final Color color;
+  final String label;
+  const _LegendDot(this.color, this.label);
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        Container(
+            width: 9,
+            height: 9,
+            decoration: BoxDecoration(color: color, shape: BoxShape.circle)),
+        const SizedBox(width: 3),
+        Text(label,
+            style:
+                const TextStyle(fontSize: 10.5, fontWeight: FontWeight.w600)),
+      ],
+    );
+  }
+}
+
+// ════════════════════════════════════════════════════════════
+//  3点 / 5点 (簡易トルソ)
+// ════════════════════════════════════════════════════════════
+enum _Panel { three, five }
 
 class _Elec {
   final double x;
@@ -110,17 +151,22 @@ class _TorsoPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size size) {
-    final pad = size.width * 0.07;
+    final pad = size.width * 0.08;
     final r =
         Rect.fromLTWH(pad, pad, size.width - 2 * pad, size.height - 2 * pad);
     _drawTorso(canvas, r);
+    final dotR = size.width * 0.05;
     for (final e in _elecs) {
       _drawDot(canvas, Offset(r.left + e.x * r.width, r.top + e.y * r.height),
-          e.color, size.width * 0.042);
+          e.color, dotR);
     }
     for (final e in _elecs) {
-      final c = Offset(r.left + e.x * r.width, r.top + e.y * r.height);
-      _drawSideLabel(canvas, c, e.label, size, size.width * 0.042);
+      _drawSideLabel(
+          canvas,
+          Offset(r.left + e.x * r.width, r.top + e.y * r.height),
+          e.label,
+          size,
+          dotR);
     }
   }
 
@@ -151,81 +197,12 @@ class _TorsoPainter extends CustomPainter {
 }
 
 // ════════════════════════════════════════════════════════════
-//  下段: 12誘導 胸部誘導
+//  12誘導 胸部誘導
 // ════════════════════════════════════════════════════════════
-class _ChestPanel extends StatelessWidget {
-  const _ChestPanel();
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.stretch,
-      children: [
-        const Text('12誘導 胸部誘導 (V1-V6)',
-            textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold)),
-        const SizedBox(height: 3),
-        AspectRatio(
-          aspectRatio: 1.7,
-          child: Container(
-            decoration: BoxDecoration(
-              color: const Color(0xFFF7F8FA),
-              borderRadius: BorderRadius.circular(8),
-              border: Border.all(color: Colors.black12),
-            ),
-            child: CustomPaint(size: Size.infinite, painter: _ChestPainter()),
-          ),
-        ),
-        const SizedBox(height: 6),
-        const Wrap(
-          alignment: WrapAlignment.center,
-          spacing: 10,
-          runSpacing: 4,
-          children: [
-            _LegendDot(_chV1, 'V1'),
-            _LegendDot(_chV2, 'V2'),
-            _LegendDot(_chV3, 'V3'),
-            _LegendDot(_chV4, 'V4'),
-            _LegendDot(_chV5, 'V5'),
-            _LegendDot(_chV6, 'V6'),
-          ],
-        ),
-        const SizedBox(height: 3),
-        Text('縦の点線: 左鎖骨中線 / 左前腋窩線 / 左中腋窩線',
-            textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 9.5, color: Colors.grey.shade600)),
-      ],
-    );
-  }
-}
-
-class _LegendDot extends StatelessWidget {
-  final Color color;
-  final String label;
-  const _LegendDot(this.color, this.label);
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(
-      mainAxisSize: MainAxisSize.min,
-      children: [
-        Container(
-            width: 9,
-            height: 9,
-            decoration: BoxDecoration(color: color, shape: BoxShape.circle)),
-        const SizedBox(width: 3),
-        Text(label,
-            style: const TextStyle(
-                fontSize: 10.5, fontWeight: FontWeight.w600)),
-      ],
-    );
-  }
-}
-
 class _ChestPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
-    final pad = size.width * 0.03;
+    final pad = size.width * 0.04;
     final r =
         Rect.fromLTWH(pad, pad, size.width - 2 * pad, size.height - 2 * pad);
     double fx(double f) => r.left + f * r.width;
@@ -236,15 +213,15 @@ class _ChestPainter extends CustomPainter {
     final torsoStroke = Paint()
       ..color = Colors.black26
       ..style = PaintingStyle.stroke
-      ..strokeWidth = 1.2;
+      ..strokeWidth = 1.0;
     final t = Path()
-      ..moveTo(fx(0.08), fy(0.22))
+      ..moveTo(fx(0.08), fy(0.20))
       ..quadraticBezierTo(fx(0.28), fy(0.03), fx(0.42), fy(0.06))
       ..lineTo(fx(0.58), fy(0.06))
-      ..quadraticBezierTo(fx(0.72), fy(0.03), fx(0.92), fy(0.22))
-      ..quadraticBezierTo(fx(0.95), fy(0.62), fx(0.88), fy(0.99))
+      ..quadraticBezierTo(fx(0.72), fy(0.03), fx(0.92), fy(0.20))
+      ..quadraticBezierTo(fx(0.95), fy(0.60), fx(0.88), fy(0.99))
       ..lineTo(fx(0.12), fy(0.99))
-      ..quadraticBezierTo(fx(0.05), fy(0.62), fx(0.08), fy(0.22))
+      ..quadraticBezierTo(fx(0.05), fy(0.60), fx(0.08), fy(0.20))
       ..close();
     canvas.drawPath(t, torsoFill);
     canvas.drawPath(t, torsoStroke);
@@ -253,63 +230,65 @@ class _ChestPainter extends CustomPainter {
     final rib = Paint()
       ..color = const Color(0xFFD8D0C4)
       ..style = PaintingStyle.stroke
-      ..strokeWidth = size.width * 0.011
+      ..strokeWidth = size.width * 0.018
       ..strokeCap = StrokeCap.round;
     for (int i = 0; i < 5; i++) {
-      final yIn = 0.24 + i * 0.075;
-      final yOut = 0.32 + i * 0.085;
+      final yIn = 0.22 + i * 0.085;
+      final yOut = 0.30 + i * 0.095;
       canvas.drawPath(
           Path()
-            ..moveTo(fx(0.475), fy(yIn))
+            ..moveTo(fx(0.47), fy(yIn))
             ..quadraticBezierTo(fx(0.30), fy(yIn + 0.02), fx(0.12), fy(yOut)),
           rib);
       canvas.drawPath(
           Path()
-            ..moveTo(fx(0.525), fy(yIn))
+            ..moveTo(fx(0.53), fy(yIn))
             ..quadraticBezierTo(fx(0.70), fy(yIn + 0.02), fx(0.88), fy(yOut)),
           rib);
     }
 
     // 胸骨
     final bone = Paint()..color = const Color(0xFFEAE3D8);
-    final boneStroke = Paint()
-      ..color = Colors.black.withValues(alpha: 0.12)
-      ..style = PaintingStyle.stroke
-      ..strokeWidth = size.width * 0.005;
     final stern = RRect.fromRectAndRadius(
-        Rect.fromLTRB(fx(0.47), fy(0.15), fx(0.53), fy(0.56)),
-        Radius.circular(size.width * 0.02));
+        Rect.fromLTRB(fx(0.46), fy(0.14), fx(0.54), fy(0.56)),
+        Radius.circular(size.width * 0.03));
     canvas.drawRRect(stern, bone);
-    canvas.drawRRect(stern, boneStroke);
+    canvas.drawRRect(
+        stern,
+        Paint()
+          ..color = Colors.black.withValues(alpha: 0.12)
+          ..style = PaintingStyle.stroke
+          ..strokeWidth = size.width * 0.008);
 
     // 基準線 (患者左=画像右): 鎖骨中線 / 前腋窩線 / 中腋窩線
-    _dottedV(canvas, fx(0.64), fy(0.18), fy(0.95), size);
-    _dottedV(canvas, fx(0.76), fy(0.18), fy(0.95), size);
-    _dottedV(canvas, fx(0.86), fy(0.18), fy(0.95), size);
+    _dottedV(canvas, fx(0.64), fy(0.16), fy(0.95), size);
+    _dottedV(canvas, fx(0.76), fy(0.16), fy(0.95), size);
+    _dottedV(canvas, fx(0.86), fy(0.16), fy(0.95), size);
 
-    // V電極 (x, y, 色, ラベル)
+    // V電極
     final electrodes = <(double, double, Color, String)>[
-      (0.47, 0.50, _chV1, 'V1'),
-      (0.53, 0.50, _chV2, 'V2'),
-      (0.585, 0.55, _chV3, 'V3'),
-      (0.64, 0.61, _chV4, 'V4'),
-      (0.76, 0.61, _chV5, 'V5'),
-      (0.86, 0.61, _chV6, 'V6'),
+      (0.46, 0.50, _chV1, '1'),
+      (0.54, 0.50, _chV2, '2'),
+      (0.585, 0.555, _chV3, '3'),
+      (0.64, 0.61, _chV4, '4'),
+      (0.76, 0.61, _chV5, '5'),
+      (0.86, 0.61, _chV6, '6'),
     ];
-    final dotR = size.width * 0.022;
+    final dotR = size.width * 0.032;
     for (final e in electrodes) {
       _drawDot(canvas, Offset(fx(e.$1), fy(e.$2)), e.$3, dotR);
     }
     for (final e in electrodes) {
-      _drawAboveLabel(canvas, Offset(fx(e.$1), fy(e.$2)), e.$4, size, dotR);
+      _drawAboveLabel(
+          canvas, Offset(fx(e.$1), fy(e.$2)), e.$4, size, dotR);
     }
   }
 
   void _dottedV(Canvas canvas, double x, double y1, double y2, Size size) {
     final p = Paint()..color = const Color(0xFFEB8DAE);
-    final step = size.height * 0.05;
+    final step = size.height * 0.055;
     for (double y = y1; y <= y2; y += step) {
-      canvas.drawCircle(Offset(x, y), size.width * 0.006, p);
+      canvas.drawCircle(Offset(x, y), size.width * 0.009, p);
     }
   }
 
@@ -319,13 +298,13 @@ class _ChestPainter extends CustomPainter {
       text: TextSpan(
           text: text,
           style: TextStyle(
-              fontSize: size.width * 0.036,
+              fontSize: size.width * 0.085,
               fontWeight: FontWeight.bold,
               color: Colors.black87,
               height: 1.0)),
       textDirection: TextDirection.ltr,
     )..layout();
-    tp.paint(canvas, Offset(c.dx - tp.width / 2, c.dy - dotR - tp.height - 1));
+    tp.paint(canvas, Offset(c.dx - tp.width / 2, c.dy - dotR - tp.height));
   }
 
   @override
@@ -352,7 +331,7 @@ void _drawSideLabel(
     text: TextSpan(
         text: text,
         style: TextStyle(
-            fontSize: size.width * 0.085,
+            fontSize: size.width * 0.095,
             fontWeight: FontWeight.bold,
             color: Colors.black87,
             height: 1.0)),
