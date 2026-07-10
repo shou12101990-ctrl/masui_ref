@@ -473,46 +473,55 @@ class _GammaCalculatorScreenState extends State<GammaCalculatorScreen> {
   ];
 
   // 濃度を切替できる製剤行（ノルアド・アドレナリン用）
+  // 希釈は名前の右側に縦3つの▢囲みボタンで選択 (選択は色付きのみ・幅一定)
   Widget _toggleConcRow(String name, TextEditingController c, double conc,
       ValueChanged<double> onChanged) {
-    final dilution = _concOpts
-        .firstWhere((e) => e.$1 == conc, orElse: () => _concOpts.first)
-        .$2;
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: [
-        Row(
+        Expanded(
+          child: Text(name,
+              style: const TextStyle(
+                  fontSize: 13, fontWeight: FontWeight.w600)),
+        ),
+        const SizedBox(width: 8),
+        Column(
+          mainAxisSize: MainAxisSize.min,
           children: [
-            Expanded(child: _drugLabel(name, dilution)),
-            const SizedBox(width: 8),
-            _gammaField(c),
-            const SizedBox(width: 8),
-            _flowValue(_flow(conc, c)),
+            for (int i = 0; i < _concOpts.length; i++) ...[
+              if (i > 0) const SizedBox(height: 4),
+              _dilBox(_concOpts[i].$2, conc == _concOpts[i].$1,
+                  () => onChanged(_concOpts[i].$1)),
+            ],
           ],
         ),
-        const SizedBox(height: 6),
-        SizedBox(
-          width: double.infinity,
-          child: SegmentedButton<double>(
-            direction: Axis.vertical,
-            segments: _concOpts
-                .map((e) =>
-                    ButtonSegment(value: e.$1, label: Text(e.$2)))
-                .toList(),
-            selected: {conc},
-            onSelectionChanged: (s) => onChanged(s.first),
-            showSelectedIcon: false,
-            style: ButtonStyle(
-              visualDensity: VisualDensity.compact,
-              tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-              padding: WidgetStateProperty.all(
-                  const EdgeInsets.symmetric(horizontal: 6, vertical: 4)),
-              textStyle:
-                  WidgetStateProperty.all(const TextStyle(fontSize: 12)),
-            ),
-          ),
-        ),
+        const SizedBox(width: 8),
+        _gammaField(c),
+        const SizedBox(width: 8),
+        _flowValue(_flow(conc, c)),
       ],
+    );
+  }
+
+  // 希釈選択の小さな▢囲みボタン (幅一定・選択時は色付きのみ)
+  Widget _dilBox(String text, bool selected, VoidCallback onTap) {
+    const accent = Color(0xFF00796B);
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+        decoration: BoxDecoration(
+          color: selected ? accent.withValues(alpha: 0.14) : Colors.white,
+          borderRadius: BorderRadius.circular(7),
+          border: Border.all(
+              color: selected ? accent : Colors.black26, width: 1.4),
+        ),
+        child: Text(text,
+            style: TextStyle(
+                fontSize: 11,
+                fontWeight: selected ? FontWeight.bold : FontWeight.normal,
+                color: selected ? Colors.black87 : Colors.black54)),
+      ),
     );
   }
 

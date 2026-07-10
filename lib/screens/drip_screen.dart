@@ -174,6 +174,7 @@ class _DripScreenState extends State<DripScreen> {
                       setState(() => _setType = s.first);
                       if (_running) _restartTimer();
                     },
+                    showSelectedIcon: false,
                   ),
                   const SizedBox(height: 12),
                   // 入力モード切替
@@ -189,6 +190,7 @@ class _DripScreenState extends State<DripScreen> {
                       setState(() => _inputMode = s.first);
                       if (_running) _restartTimer();
                     },
+                    showSelectedIcon: false,
                   ),
                   const SizedBox(height: 12),
                   if (_inputMode == _InputMode.rate) ...[
@@ -384,6 +386,7 @@ class _DripScreenState extends State<DripScreen> {
                 setState(() => _timeInHours = s.first);
                 if (_running) _restartTimer();
               },
+              showSelectedIcon: false,
               style: const ButtonStyle(
                 visualDensity: VisualDensity.compact,
                 tapTargetSize: MaterialTapTargetSize.shrinkWrap,

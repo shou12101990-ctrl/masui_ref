@@ -214,6 +214,7 @@ class _PcaScreenState extends State<PcaScreen> {
                         ],
                         selected: {_drop},
                         onSelectionChanged: (s) => setState(() => _drop = s.first),
+                        showSelectedIcon: false,
                         style: ButtonStyle(
                           visualDensity: VisualDensity.compact,
                           textStyle: WidgetStateProperty.all(

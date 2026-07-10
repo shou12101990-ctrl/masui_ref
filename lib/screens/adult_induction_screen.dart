@@ -368,8 +368,9 @@ class _AdultInductionScreenState extends State<AdultInductionScreen> {
             _mlRow(
               label: '吸入麻酔',
               color: DrugCategory.inhalational.color,
-              line1: '${_volatile.label}  初期 ${_volatile.initPct.toStringAsFixed(0)}%',
-              note:  '飽和後に $_etLabel ${_etTarget.toStringAsFixed(1)}% になるよう調節',
+              line1: '${_volatile.label}  導入 ${_volatile.initPct.toStringAsFixed(0)}%',
+              line2: '維持 ${_etTarget.toStringAsFixed(1)}% ($_etLabel を目標)',
+              note:  '飽和後に目標etまで漸増して維持',
             ),
             const Divider(height: 16),
             _mlRow(
@@ -616,6 +617,7 @@ class _VentCardState extends State<_VentCard> {
               ],
               selected: {_mode},
               onSelectionChanged: (s) => setState(() => _mode = s.first),
+              showSelectedIcon: false,
               style: ButtonStyle(
                 visualDensity: VisualDensity.compact,
                 textStyle: WidgetStateProperty.all(const TextStyle(fontSize: 12)),
@@ -682,7 +684,7 @@ class _VentCardState extends State<_VentCard> {
                     const SizedBox(width: 6),
                     Expanded(
                       child: Text(
-                        '最初の換気量をみて圧調整すること',
+                        '最初の換気量をみて圧調整すること\n換気量が少なすぎる場合は片肺挿管などのチューブ位置異常を考慮',
                         style: TextStyle(
                             fontSize: 12,
                             color: Colors.red.shade700,
