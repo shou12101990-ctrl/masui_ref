@@ -35,23 +35,23 @@ class ColumnArticle {
           .toLowerCase();
 }
 
-// カテゴリ色 (NutriCalcのノートと同じ運用・淡め)
-const _cGeneral = Color(0xFF64B5F6); // 全般
-const _cSed = Color(0xFF66BB6A); // 鎮静
-const _cOpioid = Color(0xFF5C6BC0); // 鎮痛・オピオイド
-const _cNmb = Color(0xFF4DD0E1); // 筋弛緩
-const _cCirc = Color(0xFFFFB74D); // 循環作動薬
-const _cMonitor = Color(0xFFF06292); // モニタリング
-const _cPharm = Color(0xFFBA68C8); // 薬理学
-const _cGL  = Color(0xFF9CCC65); // 区域麻酔GL
-const _cReg = Color(0xFFA1887F); // 区域麻酔
-const _cTrans = Color(0xFFE0457B); // 輸血
-const _cPreop = Color(0xFF90A4AE); // 術前評価
-const _cAirway = Color(0xFFFF7043); // 気道管理
+// カテゴリ色 (NutriCalcの濃さ・鮮やかさに合わせた深い色: Material 600-700系)
+const _cGeneral = Color(0xFF1976D2); // 全般 (blue 700)
+const _cSed = Color(0xFF388E3C); // 鎮静 (green 700)
+const _cOpioid = Color(0xFF3949AB); // 鎮痛・オピオイド (indigo 600)
+const _cNmb = Color(0xFF0097A7); // 筋弛緩 (cyan 700)
+const _cCirc = Color(0xFFF57C00); // 循環作動薬 (orange 700)
+const _cMonitor = Color(0xFFD81B60); // モニタリング (pink 600)
+const _cPharm = Color(0xFF8E24AA); // 薬理学 (purple 600)
+const _cGL  = Color(0xFF689F38); // 区域麻酔GL (light green 700)
+const _cReg = Color(0xFF6D4C41); // 区域麻酔 (brown 700)
+const _cTrans = Color(0xFFC2185B); // 輸血 (pink 700)
+const _cPreop = Color(0xFF546E7A); // 術前評価 (blue grey 600)
+const _cAirway = Color(0xFFF4511E); // 気道管理 (deep orange 600)
 
 /// カテゴリ → 色 (「すべて表示」を含む)
 const Map<String, Color> kColumnCategoryColors = {
-  'すべて表示': Color(0xFF26A69A),
+  'すべて表示': Color(0xFF00897B),
   '全般': _cGeneral,
   '気道管理': _cAirway,
   '鎮静': _cSed,
@@ -367,14 +367,20 @@ const List<ColumnArticle> kColumns = [
     title: '昇圧薬の等価換算 (norepinephrine equivalent)',
     color: _cCirc,
     tags: const ['循環', '用量計算'],
-    body: 'NAd 0.1γと同じ昇圧効果を持つ各薬剤のdose (norepinephrine equivalent): \n'
-        '　ノルアドレナリン 0.1γ\n'
-        '　アドレナリン     0.1γ\n'
-        '　ドパミン         10γ\n'
-        '　フェニレフリン   1γ\n'
-        '　バソプレシン     0.04u/min\n\n'
+    body: 'NAd 0.1γ (norepinephrine equivalent 0.1)と同じ昇圧効果を持つ各薬剤のdose: \n'
+        '{{TABLE}}\n\n'
         '昇圧ではNAdを第一選択としながら他剤を併用していく. '
         'NAd 0.15γ以上必要なら相対的バソプレシン欠乏も考慮しAVP (0.03-0.04u/min)を併用する. ',
+    table: ArticleTable(
+      headers: ['薬剤', 'NAd 0.1γ 相当'],
+      rows: [
+        ['ノルアドレナリン', '0.1 γ'],
+        ['アドレナリン', '0.1 γ'],
+        ['ドパミン', '10 γ'],
+        ['フェニレフリン', '1 γ'],
+        ['バソプレシン', '0.04 u/min'],
+      ],
+    ),
   ),
   ColumnArticle(
     category: '循環作動薬',
@@ -840,6 +846,28 @@ const List<ColumnArticle> kColumns = [
         ['VI', '脳死患者 (臓器提供のための摘出)', '脳死ドナー'],
       ],
     ),
+  ),
+  ColumnArticle(
+    category: '術前評価',
+    title: '周術期ステロイドカバー (副腎不全の予防)',
+    color: _cPreop,
+    tags: const ['術前評価', 'ガイドライン', '薬理学'],
+    body: '■ なぜ必要か\n'
+        '長期のステロイド投与で視床下部-下垂体-副腎系 (HPA軸)が抑制されると, 手術侵襲というストレスに対して内因性コルチゾールを増やせず, 周術期に副腎クリーゼ (輸液・昇圧に不応の低血圧・ショック)を起こしうる. これを防ぐために外因性グルココルチコイドを上乗せするのがステロイドカバー. \n\n'
+        '■ 対象 (HPA抑制のリスク)\n'
+        '・プレドニゾロン 5mg/日以上 (相当量)を数週間〜1か月以上. \n'
+        '・原発性/続発性副腎不全 (Addison病・下垂体機能低下・先天性副腎過形成). \n'
+        '・最近まで長期ステロイド使用 (中止後もしばらく回復に時間がかかる). 高用量吸入・頻回の関節注射・広範な外用の長期も要注意. \n'
+        '・低用量 (PSL 5mg未満)や短期のみなら, 通常は自前の反応で足り追加不要. 判断困難例は内分泌コンサルト/ACTH (迅速)刺激試験を考慮. \n\n'
+        '■ 投与法 (英国2020ガイドライン+侵襲度別の考え方)\n'
+        '・普段のステロイドは当日朝も継続 (経口不可なら静注換算で継続). \n'
+        '・局麻の小手術/小侵襲: 通常の内服のみで可 (必要時 導入時ヒドロコルチゾン25-100mg). \n'
+        '・中〜大手術: 導入時にヒドロコルチゾン100mg iv → 術後は 200mg/日持続 (または50mg 6hおき)を経口摂取が可能になるまで. その後は通常量へ (大手術では24-48h 常用量の2倍程度から漸減). \n'
+        '・小児は導入時ヒドロコルチゾン 2mg/kg (最大100mg)など体重換算. \n\n'
+        '■ 副腎クリーゼの認識と対応\n'
+        '・原因不明で輸液・昇圧に反応しない低血圧, 低Na・高K・低血糖 → 副腎クリーゼを疑い, ヒドロコルチゾン100mg ivを直ちに投与し輸液. \n\n'
+        '■ 過剰投与にも注意\n'
+        '画一的な大量投与は創傷治癒遅延・高血糖・感染リスクを増やす. 侵襲度に応じて最小限とし, 常用ステロイドの継続を忘れない. ',
   ),
   ColumnArticle(
     category: '術前評価',

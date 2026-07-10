@@ -56,8 +56,8 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
   (String, Color, Color) _evalO2er(double v) {
     if (v < 22) return ('低い', Colors.blue.shade700, Colors.blue.shade50);
     if (v <= 30) return ('正常', Colors.green.shade700, Colors.green.shade50);
-    if (v <= 50) return ('代償域', Colors.orange.shade700, Colors.orange.shade50);
-    return ('供給依存', Colors.red.shade700, Colors.red.shade50);
+    if (v <= 50) return ('代償域', Colors.red.shade600, Colors.red.shade50);
+    return ('供給依存', Colors.red.shade800, Colors.red.shade50);
   }
 
   @override

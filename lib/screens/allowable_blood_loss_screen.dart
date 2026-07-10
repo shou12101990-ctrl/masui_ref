@@ -145,32 +145,8 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                       usingDefault: _patient.weightKg == null,
                       accent: _accent,
                     ),
-                    const SizedBox(height: 14),
-                    // ── 患者背景 → 許容Hb オートフィル ──
-                    const Text('患者背景 (輸血トリガー)',
-                        style: TextStyle(
-                            fontSize: 13, fontWeight: FontWeight.w600)),
-                    const SizedBox(height: 2),
-                    Text('タップで許容Hbに反映 (使用指針/AABB の目安・手動上書き可)',
-                        style: TextStyle(
-                            fontSize: 10.5, color: Colors.grey.shade600)),
-                    const SizedBox(height: 8),
-                    Wrap(
-                      spacing: 8,
-                      runSpacing: 8,
-                      children: _hbPresets
-                          .map((p) => CalcChoiceBtn(
-                                label: p.label,
-                                sub: 'Hb ${p.hb} · ${p.sub}',
-                                selected: _bgLabel == p.label,
-                                color: _accent,
-                                onTap: () => _applyPreset(p),
-                                fontSize: 12.5,
-                                hPad: 10,
-                              ))
-                          .toList(),
-                    ),
                     const SizedBox(height: 12),
+                    // ── 現在Hb / 許容Hb (体重の下に配置) ──
                     Row(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
@@ -179,33 +155,65 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                         Expanded(child: CalcField('許容Hb', 'g/dL', _hbtCtrl)),
                       ],
                     ),
-                    const SizedBox(height: 16),
-                    SizedBox(
-                      width: double.infinity,
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.center,
-                        children: [
-                          const Text('循環血液量 係数',
-                              style: TextStyle(
-                                  fontSize: 13, fontWeight: FontWeight.w600)),
-                          const SizedBox(height: 8),
-                          Wrap(
-                            spacing: 8,
-                            runSpacing: 8,
-                            alignment: WrapAlignment.center,
-                            children: _coefs
-                                .map((c) => CalcChoiceBtn(
-                                      label: c.label,
-                                      sub: '${c.mlPerKg} mL/kg',
-                                      selected: _coef == c,
-                                      color: _accent,
-                                      onTap: () =>
-                                          setState(() => _coef = c),
-                                    ))
-                                .toList(),
+                    const SizedBox(height: 4),
+                    Text('※ 許容Hbは下の輸血トリガーで自動入力 (手動上書き可)',
+                        style: TextStyle(
+                            fontSize: 10.5, color: Colors.grey.shade600)),
+                    const SizedBox(height: 14),
+                    // ── 左: 輸血トリガー(縦) / 右: 循環血液量係数(縦) ──
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: [
+                              const Text('輸血トリガー (許容Hb)',
+                                  style: TextStyle(
+                                      fontSize: 12.5,
+                                      fontWeight: FontWeight.w600)),
+                              const SizedBox(height: 6),
+                              for (final p in _hbPresets) ...[
+                                CalcChoiceBtn(
+                                  label: p.label,
+                                  sub: 'Hb ${p.hb} · ${p.sub}',
+                                  selected: _bgLabel == p.label,
+                                  color: _accent,
+                                  onTap: () => _applyPreset(p),
+                                  fontSize: 12,
+                                  hPad: 8,
+                                ),
+                                const SizedBox(height: 6),
+                              ],
+                            ],
                           ),
-                        ],
-                      ),
+                        ),
+                        const SizedBox(width: 10),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: [
+                              const Text('循環血液量 係数',
+                                  style: TextStyle(
+                                      fontSize: 12.5,
+                                      fontWeight: FontWeight.w600)),
+                              const SizedBox(height: 6),
+                              for (final c in _coefs) ...[
+                                CalcChoiceBtn(
+                                  label: c.label,
+                                  sub: '${c.mlPerKg} mL/kg',
+                                  selected: _coef == c,
+                                  color: _accent,
+                                  onTap: () => setState(() => _coef = c),
+                                  fontSize: 12,
+                                  hPad: 8,
+                                ),
+                                const SizedBox(height: 6),
+                              ],
+                            ],
+                          ),
+                        ),
+                      ],
                     ),
                   ],
                 ),
