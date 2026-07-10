@@ -19,6 +19,7 @@ extension DrugCategoryVisual on DrugCategory {
         DrugCategory.anticoagulant => const Color(0xFFB52020),   // 凝固系 : 血色 (blood red)
         DrugCategory.steroid => const Color(0xFFEF8C00),         // ステロイド : warm orange
         DrugCategory.antiemetic => const Color(0xFF26A69A),      // 制吐薬 : teal
+        DrugCategory.antihistamine => const Color(0xFF7CB342),   // 抗ヒスタミン薬 : light green
         DrugCategory.transfusion => const Color(0xFFAD1457),     // 輸血製剤 : crimson
         DrugCategory.other => const Color(0xFF6B1414),           // その他 : 赤黒い (dark red)
       };

@@ -11,6 +11,7 @@ import 'drugs/local_anesthetic.dart';
 import 'drugs/anticoagulant.dart';
 import 'drugs/steroid.dart';
 import 'drugs/antiemetic.dart';
+import 'drugs/antihistamine.dart';
 import 'drugs/transfusion.dart';
 import 'drugs/other.dart';
 
@@ -29,6 +30,7 @@ final List<Drug> kDrugs = [
   ...kAnticoagulantDrugs,
   ...kSteroidDrugs,
   ...kAntiemeticDrugs,
+  ...kAntihistamineDrugs,
   ...kTransfusionDrugs,
   ...kOtherDrugs,
 ];
