@@ -16,7 +16,7 @@ class OxygenGapScreen extends StatefulWidget {
 class _OxygenGapScreenState extends State<OxygenGapScreen> {
   static const _accent = Color(0xFF1976D2);
 
-  final _hbCtrl   = TextEditingController(text: '14');
+  final _hbCtrl = TextEditingController(text: '14');
   final _sao2Ctrl = TextEditingController(text: '98');
   final _svo2Ctrl = TextEditingController(text: '70');
 
@@ -42,10 +42,10 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
 
   // 計算ロジックは domain 層へ分離 (純粋関数)
   OxygenGapResult? get _result => computeOxygenGap(
-        hb: _v(_hbCtrl),
-        sao2: _v(_sao2Ctrl),
-        svo2: _v(_svo2Ctrl),
-      );
+    hb: _v(_hbCtrl),
+    sao2: _v(_sao2Ctrl),
+    svo2: _v(_svo2Ctrl),
+  );
 
   (String, Color, Color) _evalGap(double v) {
     if (v < 3.5) return ('低い', Colors.blue.shade700, Colors.blue.shade50);
@@ -84,9 +84,12 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('入力',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    Text(
+                      '入力',
+                      style: theme.textTheme.titleSmall?.copyWith(
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     const SizedBox(height: 12),
                     Row(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -112,14 +115,27 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text('結果',
-                          style: theme.textTheme.titleSmall
-                              ?.copyWith(fontWeight: FontWeight.bold)),
+                      Text(
+                        '結果',
+                        style: theme.textTheme.titleSmall?.copyWith(
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
                       const SizedBox(height: 10),
-                      CalcResultRow('CaO₂', r.caO2.toStringAsFixed(2), 'mL/dL',
-                          valueSize: 16, verticalPadding: 3),
-                      CalcResultRow('CvO₂', r.cvO2.toStringAsFixed(2), 'mL/dL',
-                          valueSize: 16, verticalPadding: 3),
+                      CalcResultRow(
+                        'CaO₂',
+                        r.caO2.toStringAsFixed(2),
+                        'mL/dL',
+                        valueSize: 16,
+                        verticalPadding: 3,
+                      ),
+                      CalcResultRow(
+                        'CvO₂',
+                        r.cvO2.toStringAsFixed(2),
+                        'mL/dL',
+                        valueSize: 16,
+                        verticalPadding: 3,
+                      ),
                       const Divider(height: 18),
                       Row(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -153,10 +169,14 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
               Card(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(
-                      horizontal: 16, vertical: 24),
+                    horizontal: 16,
+                    vertical: 24,
+                  ),
                   child: Center(
-                    child: Text('Hb・SaO₂・SvO₂ を入力してください',
-                        style: TextStyle(color: Colors.grey.shade500)),
+                    child: Text(
+                      'Hb > 0, SaO₂・SvO₂ 1〜100%, SvO₂ ≤ SaO₂ で入力してください',
+                      style: TextStyle(color: Colors.grey.shade500),
+                    ),
                   ),
                 ),
               ),
@@ -170,11 +190,14 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('計算式・正常値',
-                        style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 12,
-                            color: Colors.grey.shade700)),
+                    Text(
+                      '計算式・正常値',
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 12,
+                        color: Colors.grey.shade700,
+                      ),
+                    ),
                     const SizedBox(height: 6),
                     const Text(
                       'CaO₂ = 1.34 × Hb × SaO₂/100\n'
@@ -182,7 +205,8 @@ class _OxygenGapScreenState extends State<OxygenGapScreen> {
                       '酸素較差 = CaO₂ − CvO₂　（正常 3.5〜5.5 mL/dL）\n'
                       'O₂ER = 較差 / CaO₂ × 100　（正常 25〜30%）\n\n'
                       '・較差/O₂ER 開大 → 供給不足 or 需要増加（低心拍出・貧血・低酸素）\n'
-                      '・較差/O₂ER 低下 → 末梢利用障害・シャント（敗血症など）',
+                      '・較差/O₂ER 低下 → 末梢利用障害・シャント（敗血症など）\n'
+                      '※単独で輸血適応や循環不全を決定しない. 採血部位, 心拍出量, 乳酸, 臨床所見と併せて評価する.',
                       style: TextStyle(fontSize: 12, height: 1.7),
                     ),
                   ],
@@ -225,24 +249,30 @@ class _BigResult extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Text(label,
-              textAlign: TextAlign.center,
-              style: const TextStyle(fontSize: 12, color: Colors.black54)),
+          Text(
+            label,
+            textAlign: TextAlign.center,
+            style: const TextStyle(fontSize: 12, color: Colors.black54),
+          ),
           const SizedBox(height: 4),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.baseline,
             textBaseline: TextBaseline.alphabetic,
             children: [
-              Text(value,
-                  style: TextStyle(
-                      fontSize: 26,
-                      fontWeight: FontWeight.bold,
-                      color: accent)),
+              Text(
+                value,
+                style: TextStyle(
+                  fontSize: 26,
+                  fontWeight: FontWeight.bold,
+                  color: accent,
+                ),
+              ),
               const SizedBox(width: 4),
-              Text(unit,
-                  style:
-                      const TextStyle(fontSize: 12, color: Colors.black54)),
+              Text(
+                unit,
+                style: const TextStyle(fontSize: 12, color: Colors.black54),
+              ),
             ],
           ),
           const SizedBox(height: 6),
@@ -252,11 +282,14 @@ class _BigResult extends StatelessWidget {
               color: badgeBg,
               borderRadius: BorderRadius.circular(20),
             ),
-            child: Text(badgeText,
-                style: TextStyle(
-                    fontSize: 12,
-                    color: badgeFg,
-                    fontWeight: FontWeight.bold)),
+            child: Text(
+              badgeText,
+              style: TextStyle(
+                fontSize: 12,
+                color: badgeFg,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
           ),
         ],
       ),

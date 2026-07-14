@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../domain/calculators/local_anesthetic_max.dart';
 import '../state/patient_store.dart';
 import '../widgets/calc_parts.dart';
 
@@ -11,6 +12,8 @@ enum _LADrug {
     brand: 'キシロカイン',
     maxNoEpi: 4.0,
     maxEpi: 7.0,
+    maxTotalNoEpi: 200,
+    maxTotalEpi: 500,
     concList: [0.5, 1.0, 2.0],
   ),
   mepivacaine(
@@ -18,6 +21,8 @@ enum _LADrug {
     brand: 'カルボカイン',
     maxNoEpi: 7.0,
     maxEpi: 7.0,
+    maxTotalNoEpi: 500,
+    maxTotalEpi: 500,
     concList: [0.5, 1.0, 1.5, 2.0],
   ),
   ropivacaine(
@@ -25,6 +30,8 @@ enum _LADrug {
     brand: 'アナペイン',
     maxNoEpi: 3.0,
     maxEpi: 3.0,
+    maxTotalNoEpi: 300,
+    maxTotalEpi: 300,
     concList: [0.2, 0.75, 1.0],
   ),
   levobupivacaine(
@@ -32,6 +39,8 @@ enum _LADrug {
     brand: 'ポプスカイン',
     maxNoEpi: 2.5,
     maxEpi: 2.5,
+    maxTotalNoEpi: 150,
+    maxTotalEpi: 150,
     concList: [0.25, 0.5, 0.75],
   ),
   bupivacaine(
@@ -39,6 +48,8 @@ enum _LADrug {
     brand: 'マーカイン',
     maxNoEpi: 2.0,
     maxEpi: 2.0,
+    maxTotalNoEpi: 100,
+    maxTotalEpi: 100,
     concList: [0.25, 0.5],
   );
 
@@ -46,6 +57,8 @@ enum _LADrug {
   final String brand;
   final double maxNoEpi;
   final double maxEpi;
+  final double maxTotalNoEpi;
+  final double maxTotalEpi;
   final List<double> concList;
 
   const _LADrug({
@@ -53,12 +66,15 @@ enum _LADrug {
     required this.brand,
     required this.maxNoEpi,
     required this.maxEpi,
+    required this.maxTotalNoEpi,
+    required this.maxTotalEpi,
     required this.concList,
   });
 
   /// エピネフリンで上限が変わるか（リドカインのみ変わる）
   bool get epiChangesMax => maxEpi != maxNoEpi;
   double effectiveMax(bool epi) => epi ? maxEpi : maxNoEpi;
+  double effectiveTotalMax(bool epi) => epi ? maxTotalEpi : maxTotalNoEpi;
 }
 
 // ─── 表示フォーマット ─────────────────────────────────────────
@@ -69,27 +85,37 @@ String _fmtVal(double v) {
   return v.toStringAsFixed(1);
 }
 
-String _fmtPct(double c) =>
-    c.toStringAsFixed(3).replaceAll(RegExp(r'0+$'), '').replaceAll(RegExp(r'\.$'), '');
+String _fmtPct(double c) => c
+    .toStringAsFixed(3)
+    .replaceAll(RegExp(r'0+$'), '')
+    .replaceAll(RegExp(r'\.$'), '');
 
 String _mgkg(double v) =>
     v % 1 == 0 ? v.toStringAsFixed(0) : v.toStringAsFixed(1);
 
-Widget _colTitle(String t) => Text(t,
-    textAlign: TextAlign.center,
-    style: const TextStyle(
-        fontSize: 13, fontWeight: FontWeight.bold, color: Color(0xFF6B7280)));
+Widget _colTitle(String t) => Text(
+  t,
+  textAlign: TextAlign.center,
+  style: const TextStyle(
+    fontSize: 13,
+    fontWeight: FontWeight.bold,
+    color: Color(0xFF6B7280),
+  ),
+);
 
 Widget _times() => const Center(
-      child: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 3),
-        child: Text('×',
-            style: TextStyle(
-                fontSize: 18,
-                color: Colors.black38,
-                fontWeight: FontWeight.bold)),
+  child: Padding(
+    padding: EdgeInsets.symmetric(horizontal: 3),
+    child: Text(
+      '×',
+      style: TextStyle(
+        fontSize: 18,
+        color: Colors.black38,
+        fontWeight: FontWeight.bold,
       ),
-    );
+    ),
+  ),
+);
 
 // ─── 画面 ─────────────────────────────────────────────────────
 
@@ -112,7 +138,13 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
   bool _epi = false;
   double _conc = 0.25;
 
-  double get _maxMg => _wt * _drug.effectiveMax(_epi);
+  double get _weightBasedMaxMg => _wt * _drug.effectiveMax(_epi);
+  double get _absoluteMaxMg => _drug.effectiveTotalMax(_epi);
+  double get _maxMg => computeCappedLocalAnestheticDose(
+    weightKg: _wt,
+    mgPerKg: _drug.effectiveMax(_epi),
+    absoluteMaxMg: _absoluteMaxMg,
+  )!;
   double get _mgPerMl => _conc * 10.0;
   double get _maxMl => _maxMg / _mgPerMl;
 
@@ -163,98 +195,98 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                 padding: const EdgeInsets.all(14),
                 child: IntrinsicHeight(
                   child: Row(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
-                  children: [
-                    // A: 製剤
-                    Expanded(
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.stretch,
-                        children: [
-                          _colTitle('製剤'),
-                          const SizedBox(height: 8),
-                          for (final d in _LADrug.values) ...[
-                            CalcChoiceBtn(
-                              label: d.label,
-                              sub: '${_mgkg(d.maxNoEpi)} mg/kg',
-                              selected: _drug == d,
-                              color: _accent,
-                              onTap: () => _selectDrug(d),
-                              fontSize: 13,
-                              hPad: 8,
-                            ),
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      // A: 製剤
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.stretch,
+                          children: [
+                            _colTitle('製剤'),
                             const SizedBox(height: 8),
+                            for (final d in _LADrug.values) ...[
+                              CalcChoiceBtn(
+                                label: d.label,
+                                sub: '${_mgkg(d.maxNoEpi)} mg/kg',
+                                selected: _drug == d,
+                                color: _accent,
+                                onTap: () => _selectDrug(d),
+                                fontSize: 13,
+                                hPad: 8,
+                              ),
+                              const SizedBox(height: 8),
+                            ],
                           ],
-                        ],
+                        ),
                       ),
-                    ),
-                    _times(),
-                    // B: 濃度（ボタンは上下中央・タイトルは上）
-                    Expanded(
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.stretch,
-                        children: [
-                          _colTitle('濃度'),
-                          const SizedBox(height: 8),
-                          Expanded(
-                            child: Column(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              crossAxisAlignment: CrossAxisAlignment.stretch,
-                              children: [
-                                for (int i = 0; i < _concs.length; i++) ...[
-                                  if (i > 0) const SizedBox(height: 8),
+                      _times(),
+                      // B: 濃度（ボタンは上下中央・タイトルは上）
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.stretch,
+                          children: [
+                            _colTitle('濃度'),
+                            const SizedBox(height: 8),
+                            Expanded(
+                              child: Column(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                crossAxisAlignment: CrossAxisAlignment.stretch,
+                                children: [
+                                  for (int i = 0; i < _concs.length; i++) ...[
+                                    if (i > 0) const SizedBox(height: 8),
+                                    CalcChoiceBtn(
+                                      label: '${_fmtPct(_concs[i])}%',
+                                      selected: _conc == _concs[i],
+                                      color: _accent,
+                                      onTap: () =>
+                                          setState(() => _conc = _concs[i]),
+                                      fontSize: 13,
+                                      hPad: 8,
+                                    ),
+                                  ],
+                                ],
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      _times(),
+                      // C: エピ添加（ボタンは上下中央・タイトルは上）
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.stretch,
+                          children: [
+                            _colTitle('エピ'),
+                            const SizedBox(height: 8),
+                            Expanded(
+                              child: Column(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                crossAxisAlignment: CrossAxisAlignment.stretch,
+                                children: [
                                   CalcChoiceBtn(
-                                    label: '${_fmtPct(_concs[i])}%',
-                                    selected: _conc == _concs[i],
+                                    label: 'なし',
+                                    selected: !_epi,
                                     color: _accent,
-                                    onTap: () =>
-                                        setState(() => _conc = _concs[i]),
+                                    onTap: () => setState(() => _epi = false),
+                                    fontSize: 13,
+                                    hPad: 8,
+                                  ),
+                                  const SizedBox(height: 8),
+                                  CalcChoiceBtn(
+                                    label: 'あり',
+                                    selected: _epi,
+                                    color: _accent,
+                                    onTap: () => setState(() => _epi = true),
                                     fontSize: 13,
                                     hPad: 8,
                                   ),
                                 ],
-                              ],
+                              ),
                             ),
-                          ),
-                        ],
+                          ],
+                        ),
                       ),
-                    ),
-                    _times(),
-                    // C: エピ添加（ボタンは上下中央・タイトルは上）
-                    Expanded(
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.stretch,
-                        children: [
-                          _colTitle('エピ'),
-                          const SizedBox(height: 8),
-                          Expanded(
-                            child: Column(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              crossAxisAlignment: CrossAxisAlignment.stretch,
-                              children: [
-                                CalcChoiceBtn(
-                                  label: 'なし',
-                                  selected: !_epi,
-                                  color: _accent,
-                                  onTap: () => setState(() => _epi = false),
-                                  fontSize: 13,
-                                  hPad: 8,
-                                ),
-                                const SizedBox(height: 8),
-                                CalcChoiceBtn(
-                                  label: 'あり',
-                                  selected: _epi,
-                                  color: _accent,
-                                  onTap: () => setState(() => _epi = true),
-                                  fontSize: 13,
-                                  hPad: 8,
-                                ),
-                              ],
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ],
+                    ],
                   ),
                 ),
               ),
@@ -268,9 +300,10 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                 padding: const EdgeInsets.symmetric(vertical: 20),
                 child: Column(
                   children: [
-                    const Text('最大投与量',
-                        style:
-                            TextStyle(fontSize: 13, color: Colors.black54)),
+                    const Text(
+                      '最大投与量',
+                      style: TextStyle(fontSize: 13, color: Colors.black54),
+                    ),
                     const SizedBox(height: 4),
                     Text(
                       '${_fmtVal(_maxMl)} mL',
@@ -284,12 +317,26 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                     Text(
                       '${_drug.label} ${_fmtPct(_conc)}%  ·  極量 ${_fmtVal(_maxMg)} mg',
                       style: const TextStyle(
-                          fontSize: 13, fontWeight: FontWeight.w600),
+                        fontSize: 13,
+                        fontWeight: FontWeight.w600,
+                      ),
                     ),
                     Text(
                       '${_drug.effectiveMax(_epi).toStringAsFixed(_drug.effectiveMax(_epi) % 1 == 0 ? 0 : 1)} mg/kg × $_wt kg${_epi ? "（エピあり）" : ""}',
                       style: const TextStyle(
-                          fontSize: 11, color: Colors.black45),
+                        fontSize: 11,
+                        color: Colors.black45,
+                      ),
+                    ),
+                    const SizedBox(height: 3),
+                    Text(
+                      '体重換算 ${_fmtVal(_weightBasedMaxMg)} mg / 製剤参考上限 ${_fmtVal(_absoluteMaxMg)} mg の低い方',
+                      textAlign: TextAlign.center,
+                      style: const TextStyle(
+                        fontSize: 11,
+                        color: Colors.black54,
+                        fontWeight: FontWeight.w600,
+                      ),
                     ),
                   ],
                 ),
@@ -304,14 +351,19 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('ガイドライン上の極量 (mg/kg)',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    Text(
+                      '局所麻酔薬の参考上限 (mg/kg)',
+                      style: theme.textTheme.titleSmall?.copyWith(
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     const SizedBox(height: 10),
                     Table(
                       border: TableBorder.symmetric(
                         inside: BorderSide(
-                            color: Colors.grey.shade200, width: 0.8),
+                          color: Colors.grey.shade200,
+                          width: 0.8,
+                        ),
                       ),
                       columnWidths: const {
                         0: FlexColumnWidth(2.3),
@@ -320,8 +372,9 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                       },
                       children: [
                         TableRow(
-                          decoration:
-                              BoxDecoration(color: Colors.grey.shade100),
+                          decoration: BoxDecoration(
+                            color: Colors.grey.shade100,
+                          ),
                           children: const [
                             CalcCell('薬剤', header: true),
                             CalcCell('エピなし', header: true),
@@ -331,27 +384,35 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                         for (final d in _LADrug.values)
                           TableRow(
                             decoration: BoxDecoration(
-                                color: d == _drug
-                                    ? _accent.withValues(alpha: 0.10)
-                                    : null),
+                              color: d == _drug
+                                  ? _accent.withValues(alpha: 0.10)
+                                  : null,
+                            ),
                             children: [
                               Padding(
                                 padding: const EdgeInsets.symmetric(
-                                    horizontal: 8, vertical: 7),
+                                  horizontal: 8,
+                                  vertical: 7,
+                                ),
                                 child: Column(
-                                  crossAxisAlignment:
-                                      CrossAxisAlignment.start,
+                                  crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    Text(d.label,
-                                        style: TextStyle(
-                                            fontSize: 13,
-                                            fontWeight: d == _drug
-                                                ? FontWeight.bold
-                                                : FontWeight.normal)),
-                                    Text('<${d.brand}>',
-                                        style: TextStyle(
-                                            fontSize: 10,
-                                            color: Colors.grey.shade500)),
+                                    Text(
+                                      d.label,
+                                      style: TextStyle(
+                                        fontSize: 13,
+                                        fontWeight: d == _drug
+                                            ? FontWeight.bold
+                                            : FontWeight.normal,
+                                      ),
+                                    ),
+                                    Text(
+                                      '<${d.brand}>',
+                                      style: TextStyle(
+                                        fontSize: 10,
+                                        color: Colors.grey.shade500,
+                                      ),
+                                    ),
                                   ],
                                 ),
                               ),
@@ -363,10 +424,12 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                     ),
                     const SizedBox(height: 6),
                     Text(
-                      '単位 mg/kg。エピネフリン添加で上限が上がるのは主にリドカイン。'
-                      '高齢者・低体重では減量を。',
+                      '体重換算値だけでなく, 製剤・投与経路ごとの添付文書上限を確認する. '
+                      '高齢者・低体重・肝機能低下ではさらに減量する.',
                       style: TextStyle(
-                          fontSize: 11, color: Colors.grey.shade600),
+                        fontSize: 11,
+                        color: Colors.grey.shade600,
+                      ),
                     ),
                   ],
                 ),
@@ -382,23 +445,31 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Row(children: [
-                      Icon(Icons.info_outline,
-                          color: Colors.amber.shade800, size: 18),
-                      const SizedBox(width: 6),
-                      Text('注意事項',
+                    Row(
+                      children: [
+                        Icon(
+                          Icons.info_outline,
+                          color: Colors.amber.shade800,
+                          size: 18,
+                        ),
+                        const SizedBox(width: 6),
+                        Text(
+                          '注意事項',
                           style: TextStyle(
-                              fontWeight: FontWeight.bold,
-                              color: Colors.amber.shade900,
-                              fontSize: 13)),
-                    ]),
+                            fontWeight: FontWeight.bold,
+                            color: Colors.amber.shade900,
+                            fontSize: 13,
+                          ),
+                        ),
+                      ],
+                    ),
                     const SizedBox(height: 6),
                     const Text(
-                      '・極量は成人の参考値。高齢者・低体重・肝機能低下では減量。\n'
-                      '・エピネフリン添加で吸収が遅くなり上限が緩和されるのは主にリドカイン（ブピバカイン等は変化なし）。\n'
-                      '・レボブピバカインは体重換算と別に1回最大150mgとされる（添付文書）。\n'
-                      '・血管内誤注入では極量以下でも中毒(LAST)が起こりうる。\n'
-                      '・必ず最新の添付文書を確認すること。',
+                      '・表示値は投与を許可する量ではなく, 体重換算値と保守的な製剤参考上限の低い方。\n'
+                      '・投与経路・ブロック部位・製剤ごとに承認用量が異なり, 表示値より低い場合がある。\n'
+                      '・複数の局所麻酔薬を併用する場合は毒性が加算される。各薬剤の「投与量/上限量」の合計を1未満にする考え方を参考に, さらに減量する。\n'
+                      '・血管内誤注入では上限以下でもLASTが起こりうる。分割注入・吸引・監視・救急準備を行う。\n'
+                      '・必ず使用製剤の最新添付文書と院内手順を確認する。',
                       style: TextStyle(fontSize: 12, height: 1.6),
                     ),
                   ],
@@ -414,4 +485,3 @@ class _LocalAnestheticMaxScreenState extends State<LocalAnestheticMaxScreen> {
 
 // ─── ヘルパーウィジェット ─────────────────────────────────────
 // (セル/選択ボタンは lib/widgets/calc_parts.dart の共通実装を使用)
-

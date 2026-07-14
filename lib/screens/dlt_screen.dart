@@ -87,18 +87,27 @@ class _DltScreenState extends State<DltScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('CT実測（気管径・気管支径）',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    Text(
+                      'CT実測（気管径・気管支径）',
+                      style: theme.textTheme.titleSmall?.copyWith(
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     const SizedBox(height: 4),
-                    Text('術前CT・胸部Xpで径を実測できる場合はこちらで選択するのが確実',
-                        style: TextStyle(
-                            fontSize: 11, color: Colors.grey.shade600)),
+                    Text(
+                      '術前CT・胸部Xpで径を実測できる場合はこちらで選択するのが確実',
+                      style: TextStyle(
+                        fontSize: 11,
+                        color: Colors.grey.shade600,
+                      ),
+                    ),
                     const SizedBox(height: 10),
                     Table(
                       border: TableBorder.symmetric(
                         inside: BorderSide(
-                            color: Colors.grey.shade200, width: 0.8),
+                          color: Colors.grey.shade200,
+                          width: 0.8,
+                        ),
                       ),
                       columnWidths: const {
                         0: FlexColumnWidth(1.1),
@@ -107,8 +116,9 @@ class _DltScreenState extends State<DltScreen> {
                       },
                       children: [
                         TableRow(
-                          decoration:
-                              BoxDecoration(color: Colors.grey.shade100),
+                          decoration: BoxDecoration(
+                            color: Colors.grey.shade100,
+                          ),
                           children: const [
                             _TH('気管径'),
                             _TH('気管支径'),
@@ -122,15 +132,19 @@ class _DltScreenState extends State<DltScreen> {
                           ['> 14 mm', '10 mm', '35 Fr'],
                           ['> 12.5 mm', '< 10 mm', '32 Fr'],
                         ])
-                          TableRow(children: [
-                            _TDStyled(r[0], const TextStyle(fontSize: 13)),
-                            _TDStyled(r[1], const TextStyle(fontSize: 13)),
-                            _TDStyled(
+                          TableRow(
+                            children: [
+                              _TDStyled(r[0], const TextStyle(fontSize: 13)),
+                              _TDStyled(r[1], const TextStyle(fontSize: 13)),
+                              _TDStyled(
                                 r[2],
                                 const TextStyle(
-                                    fontSize: 13,
-                                    fontWeight: FontWeight.w600)),
-                          ]),
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.w600,
+                                ),
+                              ),
+                            ],
+                          ),
                       ],
                     ),
                     const SizedBox(height: 8),
@@ -138,9 +152,10 @@ class _DltScreenState extends State<DltScreen> {
                       '※ 左用DLTは左主気管支径から、右用は気管径からも選択する。'
                       '気管支径は左主気管支径を指す。',
                       style: TextStyle(
-                          fontSize: 11,
-                          color: Colors.grey.shade600,
-                          height: 1.5),
+                        fontSize: 11,
+                        color: Colors.grey.shade600,
+                        height: 1.5,
+                      ),
                     ),
                   ],
                 ),
@@ -155,18 +170,25 @@ class _DltScreenState extends State<DltScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('患者情報 (Brodsky法)',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    Text(
+                      '患者情報 (Brodsky法)',
+                      style: theme.textTheme.titleSmall?.copyWith(
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     const SizedBox(height: 4),
-                    Text('身長・性別は「機能」TOPの患者情報から自動連携',
-                        style: TextStyle(
-                            fontSize: 11, color: Colors.grey.shade600)),
+                    Text(
+                      '身長・性別は「機能」TOPの患者情報から自動連携',
+                      style: TextStyle(
+                        fontSize: 11,
+                        color: Colors.grey.shade600,
+                      ),
+                    ),
                     const SizedBox(height: 10),
                     PatientLinkedChip(
                       '身長 $_height cm · ${_patient.sexOr.label}',
-                      usingDefault: _patient.heightCm == null ||
-                          _patient.sex == null,
+                      usingDefault:
+                          _patient.heightCm == null || _patient.sex == null,
                       accent: scheme.primary,
                     ),
                   ],
@@ -199,15 +221,17 @@ class _DltScreenState extends State<DltScreen> {
                     const SizedBox(height: 8),
                     Text(
                       '（Brodsky 1999 基準 · 身長 $_height cm · ${_patient.sexOr.label}）',
-                      style: theme.textTheme.bodySmall
-                          ?.copyWith(color: Colors.black54),
+                      style: theme.textTheme.bodySmall?.copyWith(
+                        color: Colors.black54,
+                      ),
                       textAlign: TextAlign.center,
                     ),
                     const SizedBox(height: 4),
                     Text(
                       '挿入深さ = 身長 / 10 + 12',
-                      style: theme.textTheme.bodySmall
-                          ?.copyWith(color: Colors.black38),
+                      style: theme.textTheme.bodySmall?.copyWith(
+                        color: Colors.black38,
+                      ),
                     ),
                   ],
                 ),
@@ -222,14 +246,19 @@ class _DltScreenState extends State<DltScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('身長別サイズ表（Brodsky）',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    Text(
+                      '身長別サイズ表（Brodsky）',
+                      style: theme.textTheme.titleSmall?.copyWith(
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     const SizedBox(height: 10),
                     Table(
                       border: TableBorder.symmetric(
                         inside: BorderSide(
-                            color: Colors.grey.shade200, width: 0.8),
+                          color: Colors.grey.shade200,
+                          width: 0.8,
+                        ),
                       ),
                       columnWidths: const {
                         0: FlexColumnWidth(1.2),
@@ -239,8 +268,9 @@ class _DltScreenState extends State<DltScreen> {
                       },
                       children: [
                         TableRow(
-                          decoration:
-                              BoxDecoration(color: Colors.grey.shade100),
+                          decoration: BoxDecoration(
+                            color: Colors.grey.shade100,
+                          ),
                           children: const [
                             _TH('身長 (cm)'),
                             _TH('男性 (Fr)'),
@@ -267,24 +297,32 @@ class _DltScreenState extends State<DltScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Row(children: [
-                      Icon(Icons.check_circle_outline,
-                          color: scheme.primary, size: 18),
-                      const SizedBox(width: 6),
-                      Text('FOB確認のポイント',
+                    Row(
+                      children: [
+                        Icon(
+                          Icons.check_circle_outline,
+                          color: scheme.primary,
+                          size: 18,
+                        ),
+                        const SizedBox(width: 6),
+                        Text(
+                          'FOB確認のポイント',
                           style: TextStyle(
-                              fontWeight: FontWeight.bold,
-                              color: scheme.primary,
-                              fontSize: 13)),
-                    ]),
+                            fontWeight: FontWeight.bold,
+                            color: scheme.primary,
+                            fontSize: 13,
+                          ),
+                        ),
+                      ],
+                    ),
                     const SizedBox(height: 6),
                     const Text(
                       '【左用 DLT 挿入後の確認手順】\n'
-                      '1. 聴診で両肺換気を確認（バルーン膨らませない状態）\n'
-                      '2. 気管支側を clamp → 左肺のみ換気\n'
-                      '3. 気管側を clamp → 右肺のみ換気\n'
-                      '4. FOB（気管管腔）→ 輪状軟骨を通過しているか確認\n'
-                      '5. FOB（気管支管腔）→ 左上肺葉の開口部が見えるか確認\n\n'
+                      '1. 気管・気管支カフを適正量で膨らませ, 両肺換気とリークの有無を確認\n'
+                      '2. 気管支側を clamp → 右肺のみ換気\n'
+                      '3. 気管側を clamp → 左肺のみ換気\n'
+                      '4. FOB（気管管腔）→ carinaと, 左主気管支入口直下の青色カフを確認（気管内へ脱出していない）\n'
+                      '5. FOB（気管支管腔）→ 左上葉・左下葉分岐が確認でき, 開口部を閉塞していないことを確認\n\n'
                       '【体位変換後は必ず再確認！】\n'
                       '側臥位へ体位変換するとチューブ位置がずれることが多い。\n'
                       'FOB または聴診で換気を必ず再確認する。',
@@ -301,7 +339,10 @@ class _DltScreenState extends State<DltScreen> {
   }
 
   TableRow _buildRow(
-      BuildContext context, List<dynamic> row, ColorScheme scheme) {
+    BuildContext context,
+    List<dynamic> row,
+    ColorScheme scheme,
+  ) {
     final h = row[0] as int;
     final mFr = row[1] as int;
     final fFr = row[2] as int;
@@ -331,20 +372,33 @@ class _ResultChip extends StatelessWidget {
   final String label;
   final String value;
   final Color color;
-  const _ResultChip(
-      {required this.label, required this.value, required this.color});
+  const _ResultChip({
+    required this.label,
+    required this.value,
+    required this.color,
+  });
 
   @override
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Text(label,
-            style: TextStyle(
-                fontSize: 12, color: color, fontWeight: FontWeight.w500)),
+        Text(
+          label,
+          style: TextStyle(
+            fontSize: 12,
+            color: color,
+            fontWeight: FontWeight.w500,
+          ),
+        ),
         const SizedBox(height: 4),
-        Text(value,
-            style: TextStyle(
-                fontSize: 28, fontWeight: FontWeight.bold, color: color)),
+        Text(
+          value,
+          style: TextStyle(
+            fontSize: 28,
+            fontWeight: FontWeight.bold,
+            color: color,
+          ),
+        ),
       ],
     );
   }
@@ -355,11 +409,12 @@ class _TH extends StatelessWidget {
   const _TH(this.text);
   @override
   Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 8),
-        child: Text(text,
-            style:
-                const TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
-      );
+    padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 8),
+    child: Text(
+      text,
+      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12),
+    ),
+  );
 }
 
 class _TDStyled extends StatelessWidget {
@@ -368,7 +423,7 @@ class _TDStyled extends StatelessWidget {
   const _TDStyled(this.text, this.style);
   @override
   Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 8),
-        child: Text(text, style: style),
-      );
+    padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 8),
+    child: Text(text, style: style),
+  );
 }

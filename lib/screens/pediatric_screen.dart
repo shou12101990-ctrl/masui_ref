@@ -5,7 +5,7 @@ import '../widgets/category_mark.dart';
 
 // ── 選択肢 ────────────────────────────────────────────────────────────────
 final _heightOpts = List.generate(23, (i) => 30 + i * 5); // 30–140 cm
-final _weightOpts = List.generate(60, (i) => i + 1);       // 1–60 kg
+final _weightOpts = List.generate(60, (i) => i + 1); // 1–60 kg
 
 // ── 薬剤 enum ─────────────────────────────────────────────────────────────
 enum _SedDrug {
@@ -26,13 +26,13 @@ enum _RocConc {
   const _RocConc(this.label, this.mgPerMl);
 
   String get shortLabel => switch (this) {
-        _RocConc.original => '原液 10mg/mL',
-        _RocConc.half => '2倍希釈 5mg/mL',
-      };
+    _RocConc.original => '原液 10mg/mL',
+    _RocConc.half => '2倍希釈 5mg/mL',
+  };
   String get concLabel => switch (this) {
-        _RocConc.original => '原液 (10mg/mL)',
-        _RocConc.half => '2倍希釈 (5mg/mL)',
-      };
+    _RocConc.original => '原液 (10mg/mL)',
+    _RocConc.half => '2倍希釈 (5mg/mL)',
+  };
 }
 
 enum _FentConc {
@@ -44,13 +44,13 @@ enum _FentConc {
   const _FentConc(this.label, this.mcgPerMl);
 
   String get shortLabel => switch (this) {
-        _FentConc.original => '原液 50μg/mL',
-        _FentConc.diluted => '希釈 10μg/mL',
-      };
+    _FentConc.original => '原液 50μg/mL',
+    _FentConc.diluted => '希釈 10μg/mL',
+  };
   String get concLabel => switch (this) {
-        _FentConc.original => '原液 (50μg/mL)',
-        _FentConc.diluted => '希釈 (10μg/mL)',
-      };
+    _FentConc.original => '原液 (50μg/mL)',
+    _FentConc.diluted => '希釈 (10μg/mL)',
+  };
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────
@@ -76,7 +76,21 @@ class _PediatricScreenState extends State<PediatricScreen> {
   _FentConc _fentConc = _FentConc.original;
 
   // 呼吸器設定
-  int _rr = 20;
+  int _rr = 14;
+
+  List<int> _rrOptionsFor(double ageYears) {
+    if (ageYears < 1) return const [25, 30, 35, 40];
+    if (ageYears < 6) return const [18, 20, 22, 25, 30];
+    return const [12, 14, 16, 18, 20];
+  }
+
+  int _defaultRrFor(double ageYears) {
+    if (ageYears < 1) return 30;
+    if (ageYears < 6) return 20;
+    return 14;
+  }
+
+  List<int> get _rrOptions => _rrOptionsFor(_ageYrs);
 
   @override
   void initState() {
@@ -94,7 +108,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     final text = _ageCtrl.text;
     int years = 0, months = 0;
     if (text.length >= 2) {
-      years  = (int.tryParse(text.substring(0, 2)) ?? 0).clamp(0, 12);
+      years = (int.tryParse(text.substring(0, 2)) ?? 0).clamp(0, 12);
       months = text.length >= 3
           ? (int.tryParse(text.substring(2)) ?? 0).clamp(0, 11)
           : 0;
@@ -102,9 +116,12 @@ class _PediatricScreenState extends State<PediatricScreen> {
       years = (int.tryParse(text) ?? 0).clamp(0, 12);
     }
     if (_ageYears != years || _ageMonths != months) {
+      final ageYears = years + months / 12.0;
+      final rrOptions = _rrOptionsFor(ageYears);
       setState(() {
         _ageYears = years;
         _ageMonths = months;
+        if (!rrOptions.contains(_rr)) _rr = _defaultRrFor(ageYears);
       });
     }
   }
@@ -149,8 +166,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
     final intMls = _sedIntMls;
     if (intMls.isNotEmpty) {
       final mid = (_sedMinMl + _sedMaxMl) / 2;
-      return intMls
-          .reduce((a, b) => (a - mid).abs() < (b - mid).abs() ? a : b);
+      return intMls.reduce((a, b) => (a - mid).abs() < (b - mid).abs() ? a : b);
     }
     return ((_sedMinMl + _sedMaxMl) / 2).round().clamp(1, 50);
   }
@@ -234,18 +250,25 @@ class _PediatricScreenState extends State<PediatricScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Row(children: [
-              Icon(Icons.vaccines, size: 16, color: accent),
-              SizedBox(width: 6),
-              Text('仙骨硬膜外ブロック (caudal)',
+            const Row(
+              children: [
+                Icon(Icons.vaccines, size: 16, color: accent),
+                SizedBox(width: 6),
+                Text(
+                  '仙骨硬膜外ブロック (caudal)',
                   style: TextStyle(
-                      color: accent,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 15)),
-            ]),
+                    color: accent,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 15,
+                  ),
+                ),
+              ],
+            ),
             const SizedBox(height: 4),
-            const Text('レボブピバカイン 0.25%  (2.5 mg/mL)',
-                style: TextStyle(fontSize: 12, color: Colors.black54)),
+            const Text(
+              'レボブピバカイン 0.25%  (2.5 mg/mL)',
+              style: TextStyle(fontSize: 12, color: Colors.black54),
+            ),
             const SizedBox(height: 14),
             Row(
               crossAxisAlignment: CrossAxisAlignment.baseline,
@@ -253,25 +276,34 @@ class _PediatricScreenState extends State<PediatricScreen> {
               children: [
                 const SizedBox(
                   width: 110,
-                  child: Text('極量 2.5 mg/kg',
-                      style:
-                          TextStyle(fontSize: 13, color: Colors.black54)),
+                  child: Text(
+                    '極量 2.5 mg/kg',
+                    style: TextStyle(fontSize: 13, color: Colors.black54),
+                  ),
                 ),
-                Text(_fmtMl(_caudalMaxMl),
-                    style: const TextStyle(
-                        fontSize: 26, fontWeight: FontWeight.bold)),
-                const Text(' mL',
-                    style: TextStyle(fontSize: 13, color: Colors.black54)),
+                Text(
+                  _fmtMl(_caudalMaxMl),
+                  style: const TextStyle(
+                    fontSize: 26,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const Text(
+                  ' mL',
+                  style: TextStyle(fontSize: 13, color: Colors.black54),
+                ),
                 const SizedBox(width: 10),
-                Text('(${_fmtMg(_caudalMaxMg)} mg)',
-                    style: const TextStyle(
-                        fontSize: 12, color: Colors.black45)),
+                Text(
+                  '(${_fmtMg(_caudalMaxMg)} mg)',
+                  style: const TextStyle(fontSize: 12, color: Colors.black45),
+                ),
               ],
             ),
             const SizedBox(height: 10),
             _warnBadge(
-                '投与量の目安: 仙骨〜下胸部 0.5–1.0 mL/kg（必ず極量以内に）. '
-                '吸引テストで血管内・くも膜下迷入を確認し分割投与する.'),
+              '投与量の目安: 仙骨〜下胸部 0.5–1.0 mL/kg（必ず極量以内に）. '
+              '吸引テストで血管内・くも膜下迷入を確認し分割投与する.',
+            ),
           ],
         ),
       ),
@@ -393,8 +425,10 @@ class _PediatricScreenState extends State<PediatricScreen> {
           borderRadius: BorderRadius.circular(10),
           borderSide: BorderSide.none,
         ),
-        contentPadding:
-            const EdgeInsets.symmetric(horizontal: 10, vertical: 12),
+        contentPadding: const EdgeInsets.symmetric(
+          horizontal: 10,
+          vertical: 12,
+        ),
       ),
     );
   }
@@ -412,12 +446,24 @@ class _PediatricScreenState extends State<PediatricScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             // ── チューブ ──────────────────────────────────────────────────
-            Row(children: [
-              Icon(Icons.airline_seat_recline_extra, size: 18, color: scheme.primary),
-              const SizedBox(width: 6),
-              Text('チューブと呼吸器設定',
-                  style: TextStyle(color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 15)),
-            ]),
+            Row(
+              children: [
+                Icon(
+                  Icons.airline_seat_recline_extra,
+                  size: 18,
+                  color: scheme.primary,
+                ),
+                const SizedBox(width: 6),
+                Text(
+                  'チューブと呼吸器設定',
+                  style: TextStyle(
+                    color: scheme.primary,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 15,
+                  ),
+                ),
+              ],
+            ),
             if (_ageYrs < 1.0) ...[
               const SizedBox(height: 6),
               _warnBadge('1歳未満: 年齢式の精度低下あり. 実測体格で確認を.'),
@@ -441,55 +487,90 @@ class _PediatricScreenState extends State<PediatricScreen> {
               unit: 'cm',
             ),
             const SizedBox(height: 4),
-            const Text('身長/11 + 5.5  (0.5 cm単位)',
-                style: TextStyle(fontSize: 10, color: Colors.black38)),
+            const Text(
+              '身長/11 + 5.5  (0.5 cm単位)',
+              style: TextStyle(fontSize: 10, color: Colors.black38),
+            ),
             // ── 区切り ────────────────────────────────────────────────────
             const Padding(
               padding: EdgeInsets.symmetric(vertical: 14),
               child: Divider(thickness: 1.2),
             ),
             // ── 呼吸器 ────────────────────────────────────────────────────
-            Row(children: [
-              Icon(Icons.air, size: 16, color: scheme.primary),
-              const SizedBox(width: 6),
-              Text('呼吸器設定',
-                  style: TextStyle(color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 14)),
-              const SizedBox(width: 8),
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-                decoration: BoxDecoration(
-                  color: scheme.primary.withValues(alpha: 0.1),
-                  borderRadius: BorderRadius.circular(4),
-                ),
-                child: Text('PCV',
-                    style: TextStyle(fontSize: 10, color: scheme.primary, fontWeight: FontWeight.bold)),
-              ),
-            ]),
-            const SizedBox(height: 8),
-            const Text('VT は BW × 10 mL を目指す',
-                style: TextStyle(
-                    color: Colors.red,
+            Row(
+              children: [
+                Icon(Icons.air, size: 16, color: scheme.primary),
+                const SizedBox(width: 6),
+                Text(
+                  '呼吸器設定',
+                  style: TextStyle(
+                    color: scheme.primary,
                     fontWeight: FontWeight.bold,
-                    fontSize: 13)),
+                    fontSize: 14,
+                  ),
+                ),
+                const SizedBox(width: 8),
+                Container(
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 6,
+                    vertical: 2,
+                  ),
+                  decoration: BoxDecoration(
+                    color: scheme.primary.withValues(alpha: 0.1),
+                    borderRadius: BorderRadius.circular(4),
+                  ),
+                  child: Text(
+                    'PCV',
+                    style: TextStyle(
+                      fontSize: 10,
+                      color: scheme.primary,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            const Text(
+              'VT 6〜8 mL/kg（標準体重）を起点に調整',
+              style: TextStyle(
+                color: Colors.red,
+                fontWeight: FontWeight.bold,
+                fontSize: 13,
+              ),
+            ),
+            const SizedBox(height: 3),
+            const Text(
+              '実測VT・EtCO₂・気道内圧・胸郭挙上を確認',
+              style: TextStyle(fontSize: 10, color: Colors.black54),
+            ),
             const SizedBox(height: 12),
             _ventRow('PEEP', '5', 'cmH₂O', null),
             const Divider(height: 16),
             _ventRow('ΔP (駆動圧)', '10', 'cmH₂O', 'Pmax 15'),
             const Divider(height: 16),
-            Row(children: [
-              const SizedBox(
-                width: 96,
-                child: Text('呼吸回数', style: TextStyle(fontSize: 13, color: Colors.black54)),
-              ),
-              _inlineDd<int>(
-                value: _rr,
-                items: const [20, 25, 30],
-                itemLabel: (v) => '$v',
-                onChanged: (v) => setState(() => _rr = v),
-              ),
-              const SizedBox(width: 8),
-              const Text('回/min', style: TextStyle(fontSize: 13, color: Colors.black54)),
-            ]),
+            Row(
+              children: [
+                const SizedBox(
+                  width: 96,
+                  child: Text(
+                    '呼吸回数',
+                    style: TextStyle(fontSize: 13, color: Colors.black54),
+                  ),
+                ),
+                _inlineDd<int>(
+                  value: _rr,
+                  items: _rrOptions,
+                  itemLabel: (v) => '$v',
+                  onChanged: (v) => setState(() => _rr = v),
+                ),
+                const SizedBox(width: 8),
+                const Text(
+                  '回/min',
+                  style: TextStyle(fontSize: 13, color: Colors.black54),
+                ),
+              ],
+            ),
           ],
         ),
       ),
@@ -522,32 +603,36 @@ class _PediatricScreenState extends State<PediatricScreen> {
     );
   }
 
-
   Widget _ventRow(String label, String value, String unit, String? sub) => Row(
-        crossAxisAlignment: CrossAxisAlignment.baseline,
-        textBaseline: TextBaseline.alphabetic,
-        children: [
-          SizedBox(
-              width: 96,
-              child: Text(label,
-                  style: const TextStyle(
-                      fontSize: 13, color: Colors.black54))),
-          Text(value,
-              style:
-                  const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
-          const SizedBox(width: 4),
-          Text(unit,
-              style: const TextStyle(fontSize: 12, color: Colors.black54)),
-          if (sub != null) ...[
-            const Spacer(),
-            Text(sub,
-                style: const TextStyle(
-                    fontSize: 12,
-                    color: Colors.black45,
-                    fontWeight: FontWeight.w600)),
-          ],
-        ],
-      );
+    crossAxisAlignment: CrossAxisAlignment.baseline,
+    textBaseline: TextBaseline.alphabetic,
+    children: [
+      SizedBox(
+        width: 96,
+        child: Text(
+          label,
+          style: const TextStyle(fontSize: 13, color: Colors.black54),
+        ),
+      ),
+      Text(
+        value,
+        style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
+      ),
+      const SizedBox(width: 4),
+      Text(unit, style: const TextStyle(fontSize: 12, color: Colors.black54)),
+      if (sub != null) ...[
+        const Spacer(),
+        Text(
+          sub,
+          style: const TextStyle(
+            fontSize: 12,
+            color: Colors.black45,
+            fontWeight: FontWeight.w600,
+          ),
+        ),
+      ],
+    ],
+  );
 
   // ── ③ 投与量 + 記録記載 (合体) ─────────────────────────────────────────────
   Widget _dosageRecordCard(ColorScheme scheme) {
@@ -559,8 +644,7 @@ class _PediatricScreenState extends State<PediatricScreen> {
       (sedLabel, '$_sedSummaryMl mL'),
       ('ロクロニウム  ${_rocConc.concLabel}', '${_fmtMl(_rocMl)} mL'),
       ('フェンタニル  ${_fentConc.concLabel}', '${_fmtMl(_fentSummaryMl)} mL'),
-      if (_showAtrop)
-        ('アトロピン  10倍希釈 (0.05 mg/mL)', '${_fmtMl(_atropMl)} mL'),
+      if (_showAtrop) ('アトロピン  10倍希釈 (0.05 mg/mL)', '${_fmtMl(_atropMl)} mL'),
     ];
     final mgRows = <(String, String)>[
       (_sed.label, '${_fmtMg(_sedSummaryMg)} mg'),
@@ -579,12 +663,20 @@ class _PediatricScreenState extends State<PediatricScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             // ── 投与量 ────────────────────────────────────────────────────
-            Row(children: [
-              Icon(Icons.colorize, size: 16, color: scheme.primary),
-              const SizedBox(width: 6),
-              Text('投与量',
-                  style: TextStyle(color: scheme.primary, fontWeight: FontWeight.bold, fontSize: 15)),
-            ]),
+            Row(
+              children: [
+                Icon(Icons.colorize, size: 16, color: scheme.primary),
+                const SizedBox(width: 6),
+                Text(
+                  '投与量',
+                  style: TextStyle(
+                    color: scheme.primary,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 15,
+                  ),
+                ),
+              ],
+            ),
             const SizedBox(height: 12),
             for (var i = 0; i < mlRows.length; i++) ...[
               if (i > 0) const Divider(height: 16),
@@ -596,12 +688,20 @@ class _PediatricScreenState extends State<PediatricScreen> {
               child: Divider(thickness: 1.2),
             ),
             // ── 記録記載 ──────────────────────────────────────────────────
-            const Row(children: [
-              Icon(Icons.edit_note, size: 16, color: recordColor),
-              SizedBox(width: 6),
-              Text('麻酔記録  記載用',
-                  style: TextStyle(color: recordColor, fontWeight: FontWeight.bold, fontSize: 15)),
-            ]),
+            const Row(
+              children: [
+                Icon(Icons.edit_note, size: 16, color: recordColor),
+                SizedBox(width: 6),
+                Text(
+                  '麻酔記録  記載用',
+                  style: TextStyle(
+                    color: recordColor,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 15,
+                  ),
+                ),
+              ],
+            ),
             const SizedBox(height: 12),
             for (var i = 0; i < mgRows.length; i++) ...[
               if (i > 0) const Divider(height: 16),
@@ -614,68 +714,72 @@ class _PediatricScreenState extends State<PediatricScreen> {
   }
 
   Widget _summaryRow(String label, String value) => Row(
-        crossAxisAlignment: CrossAxisAlignment.baseline,
-        textBaseline: TextBaseline.alphabetic,
-        children: [
-          Expanded(
-              child: Text(label,
-                  style:
-                      const TextStyle(fontSize: 12, color: Colors.black54))),
-          Text(value,
-              style: const TextStyle(
-                  fontSize: 20, fontWeight: FontWeight.bold)),
-        ],
-      );
+    crossAxisAlignment: CrossAxisAlignment.baseline,
+    textBaseline: TextBaseline.alphabetic,
+    children: [
+      Expanded(
+        child: Text(
+          label,
+          style: const TextStyle(fontSize: 12, color: Colors.black54),
+        ),
+      ),
+      Text(
+        value,
+        style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+      ),
+    ],
+  );
 
   // ── 警告バッジ ────────────────────────────────────────────────────────────
   Widget _barbAlert() => Container(
-        width: double.infinity,
-        padding:
-            const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
-        decoration: BoxDecoration(
-          color: Colors.red.withValues(alpha: 0.07),
-          borderRadius: BorderRadius.circular(8),
-          border: Border.all(color: Colors.red.shade200),
+    width: double.infinity,
+    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+    decoration: BoxDecoration(
+      color: Colors.red.withValues(alpha: 0.07),
+      borderRadius: BorderRadius.circular(8),
+      border: Border.all(color: Colors.red.shade200),
+    ),
+    child: const Row(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Icon(Icons.water_drop, size: 14, color: Colors.red),
+        SizedBox(width: 6),
+        Expanded(
+          child: Text(
+            'チアラミール・チオペンタールはロクロニウムと結晶化するため押水フラッシュ必須.\nルート内残留・血管外漏出に注意.',
+            style: TextStyle(fontSize: 11, color: Colors.red, height: 1.4),
+          ),
         ),
-        child: const Row(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Icon(Icons.water_drop, size: 14, color: Colors.red),
-              SizedBox(width: 6),
-              Expanded(
-                  child: Text(
-                'チアラミール・チオペンタールはロクロニウムと結晶化するため押水フラッシュ必須.\nルート内残留・血管外漏出に注意.',
-                style: TextStyle(
-                    fontSize: 11, color: Colors.red, height: 1.4),
-              )),
-            ]),
-      );
+      ],
+    ),
+  );
 
   Widget _propoWarning() => Container(
-        width: double.infinity,
-        padding:
-            const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
-        decoration: BoxDecoration(
-          color: Colors.orange.withValues(alpha: 0.1),
-          borderRadius: BorderRadius.circular(8),
-          border: Border.all(color: Colors.orange.shade300),
+    width: double.infinity,
+    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+    decoration: BoxDecoration(
+      color: Colors.orange.withValues(alpha: 0.1),
+      borderRadius: BorderRadius.circular(8),
+      border: Border.all(color: Colors.orange.shade300),
+    ),
+    child: const Row(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Icon(Icons.warning_amber_rounded, size: 14, color: Colors.orange),
+        SizedBox(width: 6),
+        Expanded(
+          child: Text(
+            'Propofol Infusion Syndrome に注意.\n長時間・高用量投与は禁忌. 固定濃度: 10 mg/mL.',
+            style: TextStyle(
+              fontSize: 11,
+              color: Colors.deepOrange,
+              height: 1.4,
+            ),
+          ),
         ),
-        child: const Row(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Icon(Icons.warning_amber_rounded,
-                  size: 14, color: Colors.orange),
-              SizedBox(width: 6),
-              Expanded(
-                  child: Text(
-                'Propofol Infusion Syndrome に注意.\n長時間・高用量投与は禁忌. 固定濃度: 10 mg/mL.',
-                style: TextStyle(
-                    fontSize: 11,
-                    color: Colors.deepOrange,
-                    height: 1.4),
-              )),
-            ]),
-      );
+      ],
+    ),
+  );
 
   // ── 共通ウィジェット ───────────────────────────────────────────────────────
   Widget _inlineDd<T>({
@@ -696,15 +800,17 @@ class _PediatricScreenState extends State<PediatricScreen> {
         underline: const SizedBox.shrink(),
         style: const TextStyle(fontSize: 11, color: Colors.black54),
         iconSize: 16,
-        icon:
-            const Icon(Icons.expand_more, size: 16, color: Colors.black45),
+        icon: const Icon(Icons.expand_more, size: 16, color: Colors.black45),
         items: items
-            .map((v) => DropdownMenuItem<T>(
-                  value: v,
-                  child: Text(itemLabel(v),
-                      style: const TextStyle(
-                          fontSize: 13, color: Colors.black87)),
-                ))
+            .map(
+              (v) => DropdownMenuItem<T>(
+                value: v,
+                child: Text(
+                  itemLabel(v),
+                  style: const TextStyle(fontSize: 13, color: Colors.black87),
+                ),
+              ),
+            )
             .toList(),
         onChanged: (v) {
           if (v != null) onChanged(v);
@@ -729,23 +835,25 @@ class _PediatricScreenState extends State<PediatricScreen> {
           onTap: () => onTap(v),
           child: AnimatedContainer(
             duration: const Duration(milliseconds: 150),
-            padding:
-                const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
             decoration: BoxDecoration(
               color: sel
                   ? color.withValues(alpha: 0.15)
                   : const Color(0xFFF0F0F0),
               borderRadius: BorderRadius.circular(20),
               border: Border.all(
-                  color: sel ? color : Colors.transparent, width: 1.5),
+                color: sel ? color : Colors.transparent,
+                width: 1.5,
+              ),
             ),
-            child: Text(label(v),
-                style: TextStyle(
-                    fontSize: 13,
-                    fontWeight:
-                        sel ? FontWeight.bold : FontWeight.normal,
-                    color:
-                        sel ? Colors.black87 : Colors.black54)),
+            child: Text(
+              label(v),
+              style: TextStyle(
+                fontSize: 13,
+                fontWeight: sel ? FontWeight.bold : FontWeight.normal,
+                color: sel ? Colors.black87 : Colors.black54,
+              ),
+            ),
           ),
         );
       }).toList(),
@@ -773,17 +881,21 @@ class _PediatricScreenState extends State<PediatricScreen> {
           borderRadius: BorderRadius.circular(10),
           borderSide: BorderSide.none,
         ),
-        contentPadding:
-            const EdgeInsets.symmetric(horizontal: 10, vertical: 12),
+        contentPadding: const EdgeInsets.symmetric(
+          horizontal: 10,
+          vertical: 12,
+        ),
       ),
       items: items
-          .map((v) => DropdownMenuItem<T>(
-                value: v,
-                child: Text(
-                  itemLabel != null ? itemLabel(v) : '$v',
-                  style: const TextStyle(fontSize: 13),
-                ),
-              ))
+          .map(
+            (v) => DropdownMenuItem<T>(
+              value: v,
+              child: Text(
+                itemLabel != null ? itemLabel(v) : '$v',
+                style: const TextStyle(fontSize: 13),
+              ),
+            ),
+          )
           .toList(),
       onChanged: (v) {
         if (v != null) onChanged(v);
@@ -791,21 +903,27 @@ class _PediatricScreenState extends State<PediatricScreen> {
     );
   }
 
-  Widget _secTitle(String t, ColorScheme s) => Text(t,
-      style: TextStyle(
-          color: s.primary, fontWeight: FontWeight.bold, fontSize: 14));
+  Widget _secTitle(String t, ColorScheme s) => Text(
+    t,
+    style: TextStyle(
+      color: s.primary,
+      fontWeight: FontWeight.bold,
+      fontSize: 14,
+    ),
+  );
 
   Widget _warnBadge(String text) => Container(
-        width: double.infinity,
-        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 5),
-        decoration: BoxDecoration(
-          color: Colors.orange.withValues(alpha: 0.1),
-          borderRadius: BorderRadius.circular(6),
-        ),
-        child: Text(text,
-            style: const TextStyle(
-                fontSize: 11, color: Colors.deepOrange)),
-      );
+    width: double.infinity,
+    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 5),
+    decoration: BoxDecoration(
+      color: Colors.orange.withValues(alpha: 0.1),
+      borderRadius: BorderRadius.circular(6),
+    ),
+    child: Text(
+      text,
+      style: const TextStyle(fontSize: 11, color: Colors.deepOrange),
+    ),
+  );
 }
 
 // ── 数値フォーマット ──────────────────────────────────────────────────────

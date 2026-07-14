@@ -26,6 +26,15 @@ void main() {
       expect(computeOxygenGap(hb: 14, sao2: -1, svo2: 70), isNull);
     });
 
+    test('酸素飽和度が100%を超える入力は無効', () {
+      expect(computeOxygenGap(hb: 14, sao2: 101, svo2: 70), isNull);
+      expect(computeOxygenGap(hb: 14, sao2: 98, svo2: 101), isNull);
+    });
+
+    test('SvO2がSaO2を超える入力は無効', () {
+      expect(computeOxygenGap(hb: 14, sao2: 70, svo2: 80), isNull);
+    });
+
     test('SaO2 = SvO2 なら較差0・O2ER0', () {
       final r = computeOxygenGap(hb: 14, sao2: 90, svo2: 90)!;
       expect(r.gap, closeTo(0, 1e-9));

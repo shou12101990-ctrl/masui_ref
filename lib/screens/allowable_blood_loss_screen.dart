@@ -106,11 +106,11 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
 
   // 計算ロジックは domain 層へ分離 (純粋関数). 体重は患者情報から自動連携.
   AllowableBloodLossResult? get _result => computeAllowableBloodLoss(
-        weightKg: _patient.weightOr,
-        hb0: _v(_hb0Ctrl),
-        hbTarget: _v(_hbtCtrl),
-        mlPerKg: _coef.mlPerKg,
-      );
+    weightKg: _patient.weightOr,
+    hb0: _v(_hb0Ctrl),
+    hbTarget: _v(_hbtCtrl),
+    mlPerKg: _coef.mlPerKg,
+  );
 
   @override
   Widget build(BuildContext context) {
@@ -136,9 +136,12 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('入力',
-                        style: theme.textTheme.titleSmall
-                            ?.copyWith(fontWeight: FontWeight.bold)),
+                    Text(
+                      '入力',
+                      style: theme.textTheme.titleSmall?.copyWith(
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     const SizedBox(height: 12),
                     PatientLinkedChip(
                       '体重 ${_patient.weightOr % 1 == 0 ? _patient.weightOr.toStringAsFixed(0) : _patient.weightOr} kg',
@@ -156,9 +159,13 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                       ],
                     ),
                     const SizedBox(height: 4),
-                    Text('※ 許容Hbは下の輸血トリガーで自動入力 (手動上書き可)',
-                        style: TextStyle(
-                            fontSize: 10.5, color: Colors.grey.shade600)),
+                    Text(
+                      '※ 許容Hbは下の輸血トリガーで自動入力 (手動上書き可)',
+                      style: TextStyle(
+                        fontSize: 10.5,
+                        color: Colors.grey.shade600,
+                      ),
+                    ),
                     const SizedBox(height: 14),
                     // ── 左: 輸血トリガー(縦) / 右: 循環血液量係数(縦) ──
                     Row(
@@ -168,10 +175,13 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.stretch,
                             children: [
-                              const Text('輸血トリガー (許容Hb)',
-                                  style: TextStyle(
-                                      fontSize: 12.5,
-                                      fontWeight: FontWeight.w600)),
+                              const Text(
+                                '輸血トリガー (許容Hb)',
+                                style: TextStyle(
+                                  fontSize: 12.5,
+                                  fontWeight: FontWeight.w600,
+                                ),
+                              ),
                               const SizedBox(height: 6),
                               for (final p in _hbPresets) ...[
                                 CalcChoiceBtn(
@@ -193,10 +203,13 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.stretch,
                             children: [
-                              const Text('循環血液量 係数',
-                                  style: TextStyle(
-                                      fontSize: 12.5,
-                                      fontWeight: FontWeight.w600)),
+                              const Text(
+                                '循環血液量 係数',
+                                style: TextStyle(
+                                  fontSize: 12.5,
+                                  fontWeight: FontWeight.w600,
+                                ),
+                              ),
                               const SizedBox(height: 6),
                               for (final c in _coefs) ...[
                                 CalcChoiceBtn(
@@ -229,12 +242,16 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                   padding: const EdgeInsets.all(16),
                   child: Column(
                     children: [
-                      CalcResultRow('循環血液量 (EBV)',
-                          r.ebv.toStringAsFixed(0), 'mL'),
+                      CalcResultRow(
+                        '循環血液量 (EBV)',
+                        r.ebv.toStringAsFixed(0),
+                        'mL',
+                      ),
                       const SizedBox(height: 8),
-                      const Text('許容出血量',
-                          style:
-                              TextStyle(fontSize: 13, color: Colors.black54)),
+                      const Text(
+                        '許容出血量',
+                        style: TextStyle(fontSize: 13, color: Colors.black54),
+                      ),
                       const SizedBox(height: 2),
                       Text(
                         '${r.abl.toStringAsFixed(0)} mL',
@@ -247,9 +264,13 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                       if (r.abl == 0)
                         const Padding(
                           padding: EdgeInsets.only(top: 4),
-                          child: Text('※ 現在Hb ≤ 許容Hb',
-                              style: TextStyle(
-                                  fontSize: 11, color: Colors.black45)),
+                          child: Text(
+                            '※ 現在Hb ≤ 許容Hb',
+                            style: TextStyle(
+                              fontSize: 11,
+                              color: Colors.black45,
+                            ),
+                          ),
                         ),
                     ],
                   ),
@@ -259,10 +280,14 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
               Card(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(
-                      horizontal: 16, vertical: 24),
+                    horizontal: 16,
+                    vertical: 24,
+                  ),
                   child: Center(
-                    child: Text('体重・現在Hb・許容Hb を入力してください',
-                        style: TextStyle(color: Colors.grey.shade500)),
+                    child: Text(
+                      '体重・現在Hb・許容Hb を入力してください',
+                      style: TextStyle(color: Colors.grey.shade500),
+                    ),
                   ),
                 ),
               ),
@@ -276,11 +301,14 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('計算式',
-                        style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 12,
-                            color: Colors.grey.shade700)),
+                    Text(
+                      '計算式',
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 12,
+                        color: Colors.grey.shade700,
+                      ),
+                    ),
                     const SizedBox(height: 6),
                     const Text(
                       'EBV (循環血液量)= 体重 × 係数\n'
@@ -292,7 +320,8 @@ class _AllowableBloodLossScreenState extends State<AllowableBloodLossScreen> {
                       '・脳梗塞・脳血管障害既往: 8 g/dL — 使用指針は脳循環障害で「10維持」とも\n'
                       '・急性冠症候群/心臓術後急性期: 10 g/dL — 使用指針「心疾患10維持」, 弁/CABG後 9-10, MINT\n'
                       '・敗血症・重症: 7 g/dL — TRISS\n\n'
-                      '※あくまで目安. 出血速度・心予備能・凝固・症候を考慮して個別に判断する. ',
+                      '※等容量性希釈と循環血液量の維持を仮定した静的な概算であり, リアルタイムHb予測や輸血トリガーではない. \n'
+                      '実際は出血速度, 輸液・輸血, 血行動態, 心筋/脳虚血, 凝固障害, 連続する採血結果を統合して判断する. ',
                       style: TextStyle(fontSize: 12, height: 1.7),
                     ),
                   ],

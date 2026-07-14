@@ -21,14 +21,34 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
           children: [
             Padding(
               padding: const EdgeInsets.fromLTRB(16, 16, 16, 8),
-              child: Text('緊急対応',
-                  style: theme.textTheme.titleLarge?.copyWith(
-                      fontWeight: FontWeight.bold, color: Colors.red)),
+              child: Text(
+                '緊急対応',
+                style: theme.textTheme.titleLarge?.copyWith(
+                  fontWeight: FontWeight.bold,
+                  color: Colors.red,
+                ),
+              ),
             ),
             Expanded(
               child: ListView(
                 padding: const EdgeInsets.fromLTRB(12, 4, 12, 24),
                 children: const [
+                  Card(
+                    color: Color(0xFFFFEBEE),
+                    child: Padding(
+                      padding: EdgeInsets.all(12),
+                      child: Text(
+                        '緊急時は応援要請・院内緊急プロトコルの起動を最優先とする. 本画面は記憶補助であり, 患者状態と最新ガイドラインに基づき上級医が判断する.',
+                        style: TextStyle(
+                          color: Color(0xFFB71C1C),
+                          fontSize: 12,
+                          fontWeight: FontWeight.bold,
+                          height: 1.5,
+                        ),
+                      ),
+                    ),
+                  ),
+                  SizedBox(height: 12),
                   _EmergencySection(
                     title: '術中不整脈',
                     icon: Icons.favorite,
@@ -36,18 +56,20 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                     protocols: [
                       _Protocol(
                         title: '洞性徐脈 (HR < 50)',
-                        body: '■ 原因を除外\n'
+                        body:
+                            '■ 原因を除外\n'
                             '・迷走神経反射（牽引刺激），高カリウム血症，局所麻酔薬中毒，低体温，高度徐脈性不整脈（AVB）\n\n'
                             '■ 治療\n'
-                            '① アトロピン 0.5mg iv → 無効なら 0.5mg 追加（最大 2mg）\n'
-                            '② エフェドリン 4〜8mg iv（低血圧合併時）\n'
-                            '③ ドパミン 5〜15γ（持続性低血圧の場合）\n'
-                            '④ 上記無効 → アドレナリン 0.01〜0.1γ 開始\n'
-                            '⑤ ペーシング適応（3度AVBなど）→ 心臓外科コール',
+                            '① 心肺虚脱を伴う場合: アトロピン 1mg iv, 3〜5分毎（最大3mg）\n'
+                            '② 無効なら経皮ペーシングを準備し, ドパミン 5〜20mcg/kg/min またはアドレナリン 2〜10mcg/minを滴定\n'
+                            '③ 高度房室ブロックではアトロピンに固執せず, 早期にペーシング・循環器コール\n'
+                            '④ 低酸素, 虚血, 薬剤, 電解質異常など可逆的原因を治療\n\n'
+                            'AHA 2025成人徐脈アルゴリズムに準拠. 無症候性徐脈へ一律に投薬しない.',
                       ),
                       _Protocol(
                         title: '上室性頻拍 (SVT, narrow QRS)',
-                        body: '■ 血行動態が安定している場合\n'
+                        body:
+                            '■ 血行動態が安定している場合\n'
                             '① 迷走神経刺激（バルサルバ，頸動脈洞マッサージ）\n'
                             '② アデノシン 6mg 急速 iv（末梢静脈可）→ 無効なら 12mg → 再度 12mg\n'
                             '   ※気管支痙攣・房室ブロック・顔面紅潮に注意\n'
@@ -59,7 +81,8 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                       ),
                       _Protocol(
                         title: '心房細動 (AF, 術中新規発症)',
-                        body: '■ まず: 誘因を除去\n'
+                        body:
+                            '■ まず: 誘因を除去\n'
                             '・低酸素, 高CO2, 低体温, 電解質異常（K・Mg）, 疼痛刺激\n\n'
                             '■ Rate control（心拍 < 110 を目標）\n'
                             '① ランジオロール 0.04〜0.06mg/kg iv（心機能低下時も使いやすい）\n'
@@ -72,7 +95,8 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                       ),
                       _Protocol(
                         title: '心室頻拍/細動 (VT/VF)',
-                        body: '■ VT（wide QRS，規則的）\n'
+                        body:
+                            '■ VT（wide QRS，規則的）\n'
                             '① 血行動態安定 → アミオダロン 150mg/10min iv\n'
                             '② 血行動態不安定 → 同期直流通電 200J（両相性）\n'
                             '③ Torsades de Pointes（QT延長型） → 硫酸Mg 2g/5min iv\n\n'
@@ -95,29 +119,29 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                     protocols: [
                       _Protocol(
                         title: '術中アナフィラキシー対応プロトコル',
-                        body: '■ Step 1: 原因薬の中止\n'
+                        body:
+                            '■ Step 1: 原因薬の中止\n'
                             '疑われる薬剤（筋弛緩薬，ラテックス，抗菌薬，造影剤）を直ちに中止\n\n'
                             '■ Step 2: アドレナリン（最優先）\n'
-                            '成人 0.3〜0.5mg 筋注（大腿中央外側），小児 0.01mg/kg\n'
-                            '重篤/循環虚脱 → アドレナリン 0.1〜1mg iv（1mg/10mL に希釈して少量ずつ）\n'
-                            '持続 → NAd 0.05〜0.1γ から開始\n'
-                            '筋注量(1mg/mL希釈)… 10kg以下 0.01mL/kg ／ 1-5歳 0.15mL ／ 6-12歳 0.3mL ／ 13歳-成人 0.5mL\n\n'
+                            '静脈路あり: 成人・12歳超は50mcg iv, 12歳未満は1mcg/kg ivを慎重に希釈し, 反応をみて滴定\n'
+                            '静脈路なし: 10mcg/kg im（最大500mcg, 1mg/mL製剤）後, IV/IOを確保\n'
+                            '反応不良なら院内手順でアドレナリン持続投与. 難治性ではノルアドレナリン/バソプレシン等を追加検討\n'
+                            '収縮期血圧 <50mmHg または心停止ではCPRを開始. 1mg ivは心停止時のALS用量であり, 脈あり患者へ投与しない\n\n'
                             '■ Step 3: 輸液\n'
-                            '生食 1〜2L 急速投与（血管拡張・血液分布異常による循環虚脱に対応）\n\n'
+                            '成人・12歳超 500〜1000mL, 12歳未満 20mL/kgを急速投与し反応で反復. 膠質液は避ける\n\n'
                             '■ Step 4: 追加治療\n'
-                            '・ポララミン 5mg iv（抗ヒスタミン）\n'
-                            '・ファモチジン 20mg iv（H2ブロッカー）\n'
-                            '・ヒドロコルチゾン 100〜200mg iv（ステロイド，遅発反応予防）\n'
-                            '・気管支痙攣 → サルブタモール吸入 or アミノフィリン 250mg/20min\n\n'
+                            '・気管支痙攣: サルブタモール＋イプラトロピウム吸入, 必要時iv気管支拡張薬\n'
+                            '・抗ヒスタミン薬は循環安定後の皮膚症状に対する二次治療\n'
+                            '・ステロイドは初期蘇生の代替ではない. 難治性反応/遷延性ショックで検討\n'
+                            '・安定後にトリプターゼ採血とアレルギー精査を手配\n\n'
                             '■ 注意点\n'
-                            '・アドレナリンを躊躇しない（遅れは死亡リスク↑）\n'
-                            '・β2作用でマスト細胞脱顆粒を抑制する効果もある\n'
-                            '・II誘導でST低下を認めることがある（低血圧によるcoronary flow↓）\n'
-                            '・ラテックスアレルギーが疑われる場合は術野のゴム製品も除去',
+                            '・静注アドレナリンは麻酔科医/集中治療医が連続監視下で希釈・滴定する\n'
+                            '・RCUK周術期アナフィラキシーアルゴリズムと院内手順を優先する',
                       ),
                       _Protocol(
                         title: 'アスピリン喘息（NSAIDs過敏性）',
-                        body: '■ 特徴\n'
+                        body:
+                            '■ 特徴\n'
                             '20〜40代女性に多い。NSAIDs投与後15〜30分で喘息発作。70%に慢性副鼻腔炎・鼻茸合併。\n\n'
                             '■ 使用可能な薬剤\n'
                             '塩基性解熱鎮痛薬（ソランタール），メロキシカム，セレコキシブ，アセトアミノフェン\n\n'
@@ -138,7 +162,8 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                     protocols: [
                       _Protocol(
                         title: '術中急性肺塞栓症の診断と初期対応',
-                        body: '■ 疑うサイン\n'
+                        body:
+                            '■ 疑うサイン\n'
                             '突然の ETCO2 低下（死腔増大）+ SpO2↓ + 血圧↓ + 洞性頻脈\n'
                             'ECG: 洞頻脈，右軸偏位，S1Q3T3，V1-V4 のT波逆転（右心負荷）\n'
                             'TEE/TTE: 右室拡大，D-shape，IVC 拡張\n\n'
@@ -168,7 +193,8 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                     protocols: [
                       _Protocol(
                         title: '悪性高熱症の診断と対応',
-                        body: '■ 診断: 下記のいずれかが突然出現\n'
+                        body:
+                            '■ 診断: 下記のいずれかが突然出現\n'
                             '・SpEtCO2 急上昇（最初のサイン），SnO2 低下\n'
                             '・骨格筋硬直（ジョーロック・全身筋硬直）\n'
                             '・体温急上昇（> 38.8℃/15min，最大 > 44℃）\n'
@@ -182,7 +208,7 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                             '⑤ 高K血症 → グルコース＋インスリン，Ca グルコン酸塩\n'
                             '⑥ 不整脈 → アミオダロン（Ca 拮抗薬は禁忌）\n'
                             '⑦ 腎保護 → 輸液＋フロセミド＋マンニトール\n'
-                            '⑧ ダントロレン 1mg/kg/h 持続 × 24〜48h（再発予防）\n\n'
+                            '⑧ 再燃予防: ダントロレン 1mg/kgを4〜6時間毎, 少なくとも24時間. 代替として0.25mg/kg/h持続を検討\n\n'
                             '■ ダントロレンの溶解\n'
                             '20mg/V を蒸留水 60mL で溶解（溶解に時間がかかるため複数人で同時調製）\n'
                             '70kg 成人 2.5mg/kg = 175mg = 9バイアル',
@@ -197,23 +223,25 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                     protocols: [
                       _Protocol(
                         title: '局所麻酔薬全身毒性 (LAST) の対応',
-                        body: '■ 症状（通常は血管内誤注入後すぐ，場合により20-30分後）\n'
+                        body:
+                            '■ 症状（通常は血管内誤注入後すぐ，場合により20-30分後）\n'
                             '神経系: 口唇しびれ・耳鳴り・金属味 → 振戦・痙攣 → 意識消失\n'
                             '循環器: 徐脈・QRS拡大・VT/VF・心停止\n'
                             '※ブピバカインは特に循環毒性が強く，心室性不整脈が先行することも\n\n'
                             '■ 初期対応\n'
                             '① 原因薬中止，応援コール，蘇生準備\n'
                             '② 気道確保 + 純酸素（過換気で pH 改善 → 毒性↓）\n'
-                            '③ 痙攣 → ミダゾラム 2〜5mg iv or プロポフォール 0.5〜1mg/kg iv\n\n'
+                            '③ 痙攣 → ベンゾジアゼピンを優先. プロポフォールしかない場合は20mgずつ少量投与し, 循環不安定時は避ける\n\n'
                             '■ 脂肪乳剤（イントラリピッド 20%）投与\n'
                             '① ボーラス 1.5mL/kg（70kgなら 105mL）ivを1〜2分かけて\n'
-                            '② 持続 0.25mL/kg/min（循環回復するまで，最大累積 10mL/kg まで）\n'
+                            '② 持続 0.25mL/kg/min（循環回復するまで, 最大累積12mL/kg）\n'
                             '③ 無効なら 5分後にボーラス 2回目\n\n'
                             '■ 心停止時\n'
                             '→ CPR 開始 + 脂肪乳剤\n'
                             '→ アドレナリンは少量（< 1μg/kg）に\n'
-                            '→ 上記無効 → ECMO 導入考慮\n'
-                            '→ リドカインで LAST が起きた場合：アミオダロン/リドカイン 禁忌，プロポフォールは慎重に',
+                            '→ 心室性不整脈にはアミオダロンを検討. 局所麻酔薬（リドカインを含む）は追加しない\n'
+                            '→ β遮断薬, Ca拮抗薬, バソプレシンを避ける\n'
+                            '→ 上記無効 → ECMO/人工心肺を早期に検討',
                       ),
                     ],
                   ),
@@ -225,7 +253,8 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                     protocols: [
                       _Protocol(
                         title: '高カリウム血症の対応',
-                        body: '■ ① 心臓の感受性を下げる（膜安定化）\n'
+                        body:
+                            '■ ① 心臓の感受性を下げる（膜安定化）\n'
                             '・カルチコール（グルコン酸Ca）… 心電図変化があれば最優先。血清Kは下げないが心筋を保護する。\n\n'
                             '■ ② 細胞内へKを取り込ませる\n'
                             '・GI療法（グルコース＋インスリン）\n'
@@ -293,8 +322,7 @@ class _EmergencySectionState extends State<_EmergencySection> {
             onTap: () => setState(() => _expanded = !_expanded),
             child: Container(
               color: widget.color,
-              padding:
-                  const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
               child: Row(
                 children: [
                   Icon(widget.icon, color: Colors.white, size: 22),
@@ -312,8 +340,11 @@ class _EmergencySectionState extends State<_EmergencySection> {
                   AnimatedRotation(
                     turns: _expanded ? 0.5 : 0.0,
                     duration: const Duration(milliseconds: 200),
-                    child: const Icon(Icons.expand_more,
-                        color: Colors.white, size: 24),
+                    child: const Icon(
+                      Icons.expand_more,
+                      color: Colors.white,
+                      size: 24,
+                    ),
                   ),
                 ],
               ),
@@ -334,7 +365,9 @@ class _EmergencySectionState extends State<_EmergencySection> {
                   for (int i = 0; i < widget.protocols.length; i++) ...[
                     if (i > 0) const SizedBox(height: 8),
                     _ProtocolCard(
-                        protocol: widget.protocols[i], color: widget.color),
+                      protocol: widget.protocols[i],
+                      color: widget.color,
+                    ),
                   ],
                 ],
               ),
@@ -357,22 +390,20 @@ class _ProtocolCard extends StatelessWidget {
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(10),
-        border: Border(
-          left: BorderSide(color: color, width: 3.5),
-        ),
+        border: Border(left: BorderSide(color: color, width: 3.5)),
         boxShadow: [
           BoxShadow(
-              color: Colors.black.withValues(alpha: 0.05),
-              blurRadius: 4,
-              offset: const Offset(0, 2)),
+            color: Colors.black.withValues(alpha: 0.05),
+            blurRadius: 4,
+            offset: const Offset(0, 2),
+          ),
         ],
       ),
       child: Theme(
         data: Theme.of(context).copyWith(dividerColor: Colors.transparent),
         child: ExpansionTile(
           tilePadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 2),
-          childrenPadding:
-              const EdgeInsets.fromLTRB(14, 0, 14, 12),
+          childrenPadding: const EdgeInsets.fromLTRB(14, 0, 14, 12),
           // 展開時の中身を左詰めに(既定の中央寄せだと左が大きく空く)
           expandedCrossAxisAlignment: CrossAxisAlignment.start,
           expandedAlignment: Alignment.topLeft,

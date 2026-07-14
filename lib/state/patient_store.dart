@@ -34,6 +34,8 @@ class PatientStore extends ChangeNotifier {
 
   bool get hasAny =>
       age != null || heightCm != null || weightKg != null || sex != null;
+  bool get isComplete =>
+      age != null && heightCm != null && weightKg != null && sex != null;
 
   void setAge(int? v) {
     age = v;

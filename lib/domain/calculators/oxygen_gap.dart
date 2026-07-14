@@ -19,15 +19,12 @@ class OxygenGapResult {
 }
 
 /// Hb・SaO2・SvO2 から酸素較差を計算する.
-/// いずれかが null または 0以下なら null を返す (入力未完/無効).
-OxygenGapResult? computeOxygenGap({
-  double? hb,
-  double? sao2,
-  double? svo2,
-}) {
+/// 入力未完, 範囲外, SvO2 > SaO2 の場合は null を返す.
+OxygenGapResult? computeOxygenGap({double? hb, double? sao2, double? svo2}) {
   if (hb == null || hb <= 0) return null;
-  if (sao2 == null || sao2 <= 0) return null;
-  if (svo2 == null || svo2 <= 0) return null;
+  if (sao2 == null || sao2 <= 0 || sao2 > 100) return null;
+  if (svo2 == null || svo2 <= 0 || svo2 > 100) return null;
+  if (svo2 > sao2) return null;
 
   final caO2 = 1.34 * hb * (sao2 / 100.0);
   final cvO2 = 1.34 * hb * (svo2 / 100.0);

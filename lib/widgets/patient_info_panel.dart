@@ -28,7 +28,8 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
     _ageCtrl = TextEditingController(text: _store.age?.toString() ?? '');
     _hCtrl = TextEditingController(text: _store.heightCm?.toString() ?? '');
     _wCtrl = TextEditingController(
-        text: _store.weightKg == null ? '' : _fmtNum(_store.weightKg!));
+      text: _store.weightKg == null ? '' : _fmtNum(_store.weightKg!),
+    );
   }
 
   @override
@@ -43,14 +44,15 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
       v % 1 == 0 ? v.toStringAsFixed(0) : v.toString();
 
   String get _summary {
-    if (!_store.hasAny) return '未入力 (各計算機にデフォルト値を使用)';
+    if (!_store.hasAny) return '未入力（仮値 60歳・160cm・50kg・男性）';
     final parts = <String>[
       if (_store.age != null) '${_store.age}歳',
       if (_store.heightCm != null) '${_store.heightCm}cm',
       if (_store.weightKg != null) '${_fmtNum(_store.weightKg!)}kg',
       if (_store.sex != null) _store.sex!.label,
     ];
-    return parts.join(' · ');
+    final value = parts.join(' · ');
+    return _store.isComplete ? value : '$value（不足項目は仮値）';
   }
 
   @override
@@ -58,12 +60,20 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
     return AnimatedBuilder(
       animation: _store,
       builder: (context, _) {
+        final complete = _store.isComplete;
+        final warningColor = Colors.amber.shade800;
         return Card(
           margin: EdgeInsets.zero,
-          color: _accent.withValues(alpha: 0.05),
+          color: complete
+              ? _accent.withValues(alpha: 0.05)
+              : Colors.amber.shade50,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(14),
-            side: BorderSide(color: _accent.withValues(alpha: 0.25)),
+            side: BorderSide(
+              color: complete
+                  ? _accent.withValues(alpha: 0.25)
+                  : Colors.amber.shade400,
+            ),
           ),
           child: Column(
             children: [
@@ -72,26 +82,37 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
                 borderRadius: BorderRadius.circular(14),
                 onTap: () => setState(() => _expanded = !_expanded),
                 child: Padding(
-                  padding:
-                      const EdgeInsets.fromLTRB(14, 10, 8, 10),
+                  padding: const EdgeInsets.fromLTRB(14, 10, 8, 10),
                   child: Row(
                     children: [
-                      Icon(Icons.person_outline, color: _accent, size: 20),
+                      Icon(
+                        complete ? Icons.person_outline : Icons.warning_amber,
+                        color: complete ? _accent : warningColor,
+                        size: 20,
+                      ),
                       const SizedBox(width: 8),
-                      const Text('患者情報',
-                          style: TextStyle(
-                              fontSize: 14, fontWeight: FontWeight.bold)),
+                      const Text(
+                        '患者情報',
+                        style: TextStyle(
+                          fontSize: 14,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
                       const SizedBox(width: 10),
                       if (!_expanded)
                         Expanded(
-                          child: Text(_summary,
-                              maxLines: 1,
-                              overflow: TextOverflow.ellipsis,
-                              style: TextStyle(
-                                  fontSize: 11.5,
-                                  color: _store.hasAny
-                                      ? Colors.black87
-                                      : Colors.black38)),
+                          child: Text(
+                            _summary,
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                            style: TextStyle(
+                              fontSize: 11.5,
+                              color: complete ? Colors.black87 : warningColor,
+                              fontWeight: complete
+                                  ? FontWeight.normal
+                                  : FontWeight.w600,
+                            ),
+                          ),
                         )
                       else
                         const Spacer(),
@@ -105,6 +126,21 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
                   ),
                 ),
               ),
+              if (!_expanded && !complete)
+                Padding(
+                  padding: const EdgeInsets.fromLTRB(14, 0, 14, 10),
+                  child: Align(
+                    alignment: Alignment.centerLeft,
+                    child: Text(
+                      '患者情報を入力・確認するまで計算結果は仮値です.',
+                      style: TextStyle(
+                        fontSize: 11,
+                        color: warningColor,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                ),
               // ── 入力欄 (2x2) ──
               if (_expanded)
                 Padding(
@@ -158,15 +194,19 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
                         child: TextButton.icon(
                           onPressed: _store.hasAny ? _clearAll : null,
                           icon: const Icon(Icons.refresh, size: 16),
-                          label: const Text('クリア',
-                              style: TextStyle(fontSize: 12)),
+                          label: const Text(
+                            'クリア',
+                            style: TextStyle(fontSize: 12),
+                          ),
                           style: TextButton.styleFrom(
-                              foregroundColor: Colors.black54,
-                              padding: const EdgeInsets.symmetric(
-                                  horizontal: 8, vertical: 2),
-                              minimumSize: Size.zero,
-                              tapTargetSize:
-                                  MaterialTapTargetSize.shrinkWrap),
+                            foregroundColor: Colors.black54,
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 8,
+                              vertical: 2,
+                            ),
+                            minimumSize: Size.zero,
+                            tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                          ),
                         ),
                       ),
                     ],
@@ -195,8 +235,10 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(label,
-            style: const TextStyle(fontSize: 12, color: Colors.black54)),
+        Text(
+          label,
+          style: const TextStyle(fontSize: 12, color: Colors.black54),
+        ),
         const SizedBox(height: 4),
         TextField(
           controller: ctrl,
@@ -207,13 +249,14 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
           decoration: InputDecoration(
             hintText: '—',
             suffixText: unit,
-            suffixStyle:
-                const TextStyle(fontSize: 11, color: Colors.black45),
+            suffixStyle: const TextStyle(fontSize: 11, color: Colors.black45),
             isDense: true,
             filled: true,
             fillColor: Colors.white,
-            contentPadding:
-                const EdgeInsets.symmetric(horizontal: 8, vertical: 11),
+            contentPadding: const EdgeInsets.symmetric(
+              horizontal: 8,
+              vertical: 11,
+            ),
             border: OutlineInputBorder(
               borderRadius: BorderRadius.circular(10),
               borderSide: BorderSide.none,
@@ -228,8 +271,7 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        const Text('性別',
-            style: TextStyle(fontSize: 12, color: Colors.black54)),
+        const Text('性別', style: TextStyle(fontSize: 12, color: Colors.black54)),
         const SizedBox(height: 4),
         Row(
           children: [
@@ -246,20 +288,22 @@ class _PatientInfoPanelState extends State<PatientInfoPanel> {
                           : Colors.white,
                       borderRadius: BorderRadius.circular(10),
                       border: Border.all(
-                          color: _store.sex == s
-                              ? _accent
-                              : Colors.black12,
-                          width: 1.4),
+                        color: _store.sex == s ? _accent : Colors.black12,
+                        width: 1.4,
+                      ),
                     ),
-                    child: Text(s.label,
-                        style: TextStyle(
-                            fontSize: 14,
-                            fontWeight: _store.sex == s
-                                ? FontWeight.bold
-                                : FontWeight.w500,
-                            color: _store.sex == s
-                                ? Colors.black87
-                                : Colors.black54)),
+                    child: Text(
+                      s.label,
+                      style: TextStyle(
+                        fontSize: 14,
+                        fontWeight: _store.sex == s
+                            ? FontWeight.bold
+                            : FontWeight.w500,
+                        color: _store.sex == s
+                            ? Colors.black87
+                            : Colors.black54,
+                      ),
+                    ),
                   ),
                 ),
               ),

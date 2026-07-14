@@ -83,14 +83,14 @@ final List<CalculatorEntry> kCalculators = [
   CalculatorEntry(
     icon: Icons.monitor_heart,
     title: '酸素較差計算機',
-    subtitle: '輸血カットオフの算出.',
+    subtitle: '動静脈酸素較差・O₂ERの概算.',
     color: const Color(0xFF1976D2),
     build: () => const OxygenGapScreen(),
   ),
   CalculatorEntry(
     icon: Icons.bloodtype,
     title: '許容出血量',
-    subtitle: 'A lineなしでHb低下を予想する.',
+    subtitle: '等容量性希釈を仮定した許容出血量の概算.',
     color: const Color(0xFFC2185B),
     build: () => const AllowableBloodLossScreen(),
   ),
