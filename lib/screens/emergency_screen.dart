@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../data/emergency_neuro.dart';
+
 /// 緊急対応タブ — 術中緊急プロトコルの一覧
 class EmergencyScreen extends StatefulWidget {
   const EmergencyScreen({super.key});
@@ -47,6 +49,39 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                         ),
                       ),
                     ),
+                  ),
+                  SizedBox(height: 12),
+                  _EmergencySection(
+                    title: '脳出血 / くも膜下出血の緊急手術',
+                    icon: Icons.psychology_alt,
+                    color: Color(0xFF5C6BC0),
+                    protocols: [
+                      _Protocol(
+                        title: '最初の10分: 導入と脳灌流',
+                        body: neuroEmergencyInitial,
+                      ),
+                      _Protocol(
+                        title: '輸液: 何を選び, 何を避けるか',
+                        body: neuroEmergencyFluids,
+                      ),
+                      _Protocol(
+                        title: '輸血: 単一cutoffにしない',
+                        body: neuroEmergencyTransfusion,
+                      ),
+                      _Protocol(
+                        title: '凝固異常と抗血栓薬の緊急拮抗',
+                        body: neuroEmergencyReversal,
+                      ),
+                      _Protocol(
+                        title: '脳血管の特殊性: ICP・CPP・動脈瘤',
+                        body: neuroEmergencyPhysiology,
+                      ),
+                      _Protocol(
+                        title: 'ICHとSAHで異なるポイント',
+                        body: neuroEmergencyIchVsSah,
+                      ),
+                      _Protocol(title: '根拠・更新日', body: neuroEmergencyEvidence),
+                    ],
                   ),
                   SizedBox(height: 12),
                   _EmergencySection(
