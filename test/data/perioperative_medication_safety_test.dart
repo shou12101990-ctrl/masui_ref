@@ -46,6 +46,18 @@ void main() {
       expect(aspirin.searchText, contains('pci'));
       expect(aspirin.searchText, contains('ステント'));
     });
+
+    test('コイル塞栓術のアスピリン胃管投与を施設プロトコルとして扱う', () {
+      final aspirin = byId('aspirin');
+      expect(aspirin.administrationPlan, contains('ステント併用コイル塞栓術'));
+      expect(aspirin.administrationPlan, contains('術中負荷'));
+      expect(aspirin.administrationPlan, contains('施設プロトコル'));
+      expect(aspirin.administrationPlan, contains('腸溶錠'));
+      expect(aspirin.administrationPlan, contains('放出制御が失われる'));
+      expect(aspirin.administrationPlan, contains('一律用量は表示しない'));
+      expect(aspirin.administrationPlan, contains('薬剤部'));
+      expect(aspirin.searchText, contains('経管投与'));
+    });
   });
 
   group('区域麻酔の抗血栓薬境界', () {

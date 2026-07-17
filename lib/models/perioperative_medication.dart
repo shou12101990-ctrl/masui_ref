@@ -10,6 +10,7 @@ class PerioperativeMedication {
   final PerioperativeMedicationCategory category;
   final PerioperativeAction defaultAction;
   final String dayOfSurgery;
+  final String administrationPlan;
   final String holdTiming;
   final String restart;
   final String rationale;
@@ -28,6 +29,7 @@ class PerioperativeMedication {
     required this.category,
     required this.defaultAction,
     required this.dayOfSurgery,
+    this.administrationPlan = '',
     required this.holdTiming,
     required this.restart,
     required this.rationale,
@@ -45,6 +47,7 @@ class PerioperativeMedication {
     ...aliases,
     category.label,
     dayOfSurgery,
+    administrationPlan,
     holdTiming,
     rationale,
     prescriptionTip,

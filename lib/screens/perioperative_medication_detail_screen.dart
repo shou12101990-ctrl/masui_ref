@@ -66,6 +66,13 @@ class PerioperativeMedicationDetailScreen extends StatelessWidget {
             color: action.color,
             body: medication.dayOfSurgery,
           ),
+          if (medication.administrationPlan.isNotEmpty)
+            _Section(
+              title: '術中投与・代替経路',
+              icon: Icons.medication_outlined,
+              color: const Color(0xFF0B7285),
+              body: medication.administrationPlan,
+            ),
           if (medication.holdTiming.isNotEmpty)
             _Section(
               title: '術前休止期間',

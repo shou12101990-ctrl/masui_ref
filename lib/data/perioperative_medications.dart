@@ -12,6 +12,8 @@ const List<PerioperativeMedication> kPerioperativeMedications = [
     defaultAction: PerioperativeAction.individualize,
     dayOfSurgery:
         '低用量(<200 mg/日)は多くの手術で継続. 冠動脈ステント・脳梗塞・PADの二次予防は自己中止せず, 出血リスクと血栓リスクをチームで比較する.',
+    administrationPlan:
+        '脳動脈瘤のステント併用コイル塞栓術・flow diverter・術中血栓などで, 術中に迅速な抗血小板作用が必要と判断された場合, 施設プロトコルとしてアスピリン粉砕・胃管投与を選ぶことがある. これは通常の「当日継続」ではなく脳血管内治療の術中負荷であり, 破裂/未破裂, 使用デバイス, 術前内服, 血栓所見, EVD等の追加手技で判断が変わるため一律用量は表示しない. バイアスピリン100mgは腸溶錠で, 粉砕により放出制御が失われる. 吸収が速くなる一方, 胃内経管投与の有効性・安全性は製剤どおりではない. 術者・脳外科・薬剤部で製剤, 用量, 胃管位置, 投与後フラッシュと後続の抗血小板療法を確認する.',
     holdTiming:
         '中止を選ぶ高出血リスク手術では一般に最終投与を手術4-7日前までにする. 区域麻酔で高用量なら3-7日. 低用量は区域麻酔のためだけの一律休薬を求めない.',
     restart: '止血確認後できるだけ早期. 区域麻酔では低用量(<200 mg/日)に追加制限なし; 高用量はカテーテル抜去6時間後.',
@@ -40,6 +42,11 @@ const List<PerioperativeMedication> kPerioperativeMedications = [
       jcsPerioperative2022,
       ahaPerioperative2024,
       jsraAntithrombotic2026,
+      pmdaBayaspirin2026,
+      bayerBayaspirinIf2026,
+      nichiikoAspirinTube2026,
+      jsnetRupturedAneurysmStent2026,
+      aneurysmAntiplateletDelphi2020,
     ],
   ),
   PerioperativeMedication(

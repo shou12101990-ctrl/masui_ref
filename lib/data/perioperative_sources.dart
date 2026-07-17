@@ -29,6 +29,49 @@ const jcsPerioperative2022 = EvidenceSource(
   locator: '冠動脈疾患・抗血小板療法・抗凝固療法',
 );
 
+const pmdaBayaspirin2026 = EvidenceSource(
+  title: 'バイアスピリン錠100mg 電子添文',
+  organization: 'PMDA / バイエル薬品',
+  year: '2026',
+  url: 'https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3399007H1021_1?user=1',
+  locator: '剤形・用法及び用量に関連する注意',
+);
+
+const bayerBayaspirinIf2026 = EvidenceSource(
+  title: 'バイアスピリン錠100mg インタビューフォーム 第21版',
+  organization: 'バイエル薬品',
+  year: '2026',
+  url:
+      'https://pharma-navi.bayer.jp/sites/g/files/vrxlpx9646/files/2026-01/BAS_IVF_20260127.pdf',
+  locator: 'XIII.1 粉砕 / 粉砕又はかみ砕きによる服用, p.70',
+);
+
+const nichiikoAspirinTube2026 = EvidenceSource(
+  title: 'アスピリン腸溶錠100mg「日医工」製品情報',
+  organization: '日医工',
+  year: '2026',
+  url: 'https://www.nichiiko.co.jp/medicine/product/05140',
+  locator: 'インタビューフォーム XIII.2 簡易懸濁法・経管投与',
+);
+
+const jsnetRupturedAneurysmStent2026 = EvidenceSource(
+  title: '急性期破裂脳動脈瘤コイル塞栓術におけるステント併用に関する注意喚起',
+  organization: '日本脳神経血管内治療学会',
+  year: '2026',
+  url:
+      'https://jsnet.website/cms/wp-content/uploads/2026/04/%E6%80%A5%E6%80%A7%E6%9C%9F%E7%A0%B4%E8%A3%82%E8%84%B3%E5%8B%95%E8%84%88%E7%98%A4%E3%82%B3%E3%82%A4%E3%83%AB%E5%A1%9E%E6%A0%93%E8%A1%93%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B9%E3%83%86%E3%83%B3%E3%83%88%E3%81%AE%E4%BD%B5%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%A8%E6%84%8F%E5%96%9A%E8%B5%B7.pdf',
+  locator: '周術期の標準的抗血小板療法・適応上の留意事項',
+);
+
+const aneurysmAntiplateletDelphi2020 = EvidenceSource(
+  title:
+      'Antiplatelet Management for Stent-Assisted Coiling and Flow Diversion of Ruptured Intracranial Aneurysms',
+  organization: 'International DELPHI consensus panel',
+  year: '2020',
+  url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC7661082/',
+  locator: 'Periprocedural antiplatelet management / oral conversion',
+);
+
 const adaHospital2026 = EvidenceSource(
   title: 'Standards of Care in Diabetes 2026: Diabetes Care in the Hospital',
   organization: 'American Diabetes Association',
