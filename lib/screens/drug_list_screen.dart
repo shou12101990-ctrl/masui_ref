@@ -7,7 +7,8 @@ import '../widgets/drug_visuals.dart';
 import 'drug_detail_screen.dart';
 
 class DrugListScreen extends StatefulWidget {
-  const DrugListScreen({super.key});
+  final bool embedded;
+  const DrugListScreen({super.key, this.embedded = false});
 
   @override
   State<DrugListScreen> createState() => _DrugListScreenState();
@@ -32,77 +33,88 @@ class _DrugListScreenState extends State<DrugListScreen> {
     final theme = Theme.of(context);
     final list = _filtered;
 
-    return Scaffold(
-      backgroundColor: theme.scaffoldBackgroundColor,
-      body: SafeArea(
-        child: Column(
-          children: [
-            Padding(
-              padding: const EdgeInsets.fromLTRB(16, 12, 16, 4),
-              child: Row(
-                children: [
-                  Text('やさしい麻酔科ローテ β',
-                      style: theme.textTheme.titleLarge
-                          ?.copyWith(fontWeight: FontWeight.bold)),
-                  const Spacer(),
-                  Text('${list.length}剤',
-                      style: theme.textTheme.bodySmall
-                          ?.copyWith(color: Colors.black54)),
-                ],
-              ),
-            ),
-            Padding(
-              padding: const EdgeInsets.fromLTRB(16, 4, 16, 8),
-              child: TextField(
-                onChanged: (v) => setState(() => _query = v),
-                decoration: InputDecoration(
-                  hintText: '薬剤名・商品名・作用で検索',
-                  prefixIcon: const Icon(Icons.search),
-                  isDense: true,
-                  filled: true,
-                  fillColor: Colors.white,
-                  border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(12),
-                    borderSide: BorderSide.none,
+    final content = Column(
+      children: [
+        if (!widget.embedded)
+          Padding(
+            padding: const EdgeInsets.fromLTRB(16, 12, 16, 4),
+            child: Row(
+              children: [
+                Text(
+                  'やさしい麻酔科ローテ β',
+                  style: theme.textTheme.titleLarge?.copyWith(
+                    fontWeight: FontWeight.bold,
                   ),
                 ),
-              ),
-            ),
-            // クラスは重ねず全カテゴリを単独表示・ラベル全文表示（横スクロール）
-            SingleChildScrollView(
-              scrollDirection: Axis.horizontal,
-              padding: const EdgeInsets.fromLTRB(12, 2, 12, 4),
-              child: Row(
-                children: [
-                  _CategoryChip(
-                    label: 'すべて',
-                    selected: _category == null,
-                    onTap: () => setState(() => _category = null),
+                const Spacer(),
+                Text(
+                  '${list.length}剤',
+                  style: theme.textTheme.bodySmall?.copyWith(
+                    color: Colors.black54,
                   ),
-                  for (final c in DrugCategory.values)
-                    _CategoryChip(
-                      label: c.label,
-                      selected: _category == c,
-                      onTap: () => setState(() => _category = c),
-                    ),
-                ],
+                ),
+              ],
+            ),
+          ),
+        Padding(
+          padding: const EdgeInsets.fromLTRB(16, 4, 16, 8),
+          child: TextField(
+            onChanged: (v) => setState(() => _query = v),
+            decoration: InputDecoration(
+              hintText: '薬剤名・商品名・作用で検索',
+              prefixIcon: const Icon(Icons.search),
+              isDense: true,
+              filled: true,
+              fillColor: Colors.white,
+              border: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(12),
+                borderSide: BorderSide.none,
               ),
             ),
-            Expanded(
-              child: list.isEmpty
-                  ? const Center(
-                      child: Text('該当する薬剤がありません',
-                          style: TextStyle(color: Colors.black45)))
-                  : ListView.separated(
-                      padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
-                      itemCount: list.length,
-                      separatorBuilder: (_, __) => const SizedBox(height: 8),
-                      itemBuilder: (context, i) => _DrugCard(drug: list[i]),
-                    ),
-            ),
-          ],
+          ),
         ),
-      ),
+        // クラスは重ねず全カテゴリを単独表示・ラベル全文表示（横スクロール）
+        SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          padding: const EdgeInsets.fromLTRB(12, 2, 12, 4),
+          child: Row(
+            children: [
+              _CategoryChip(
+                label: 'すべて',
+                selected: _category == null,
+                onTap: () => setState(() => _category = null),
+              ),
+              for (final c in DrugCategory.values)
+                _CategoryChip(
+                  label: c.label,
+                  selected: _category == c,
+                  onTap: () => setState(() => _category = c),
+                ),
+            ],
+          ),
+        ),
+        Expanded(
+          child: list.isEmpty
+              ? const Center(
+                  child: Text(
+                    '該当する薬剤がありません',
+                    style: TextStyle(color: Colors.black45),
+                  ),
+                )
+              : ListView.separated(
+                  padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
+                  itemCount: list.length,
+                  separatorBuilder: (_, _) => const SizedBox(height: 8),
+                  itemBuilder: (context, i) => _DrugCard(drug: list[i]),
+                ),
+        ),
+      ],
+    );
+
+    if (widget.embedded) return content;
+    return Scaffold(
+      backgroundColor: theme.scaffoldBackgroundColor,
+      body: SafeArea(child: content),
     );
   }
 }
@@ -111,8 +123,11 @@ class _CategoryChip extends StatelessWidget {
   final String label;
   final bool selected;
   final VoidCallback onTap;
-  const _CategoryChip(
-      {required this.label, required this.selected, required this.onTap});
+  const _CategoryChip({
+    required this.label,
+    required this.selected,
+    required this.onTap,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -158,9 +173,9 @@ class _DrugCard extends StatelessWidget {
     return Card(
       child: InkWell(
         borderRadius: BorderRadius.circular(14),
-        onTap: () => Navigator.of(context).push(
-          MaterialPageRoute(builder: (_) => DrugDetailScreen(drug: drug)),
-        ),
+        onTap: () => Navigator.of(
+          context,
+        ).push(MaterialPageRoute(builder: (_) => DrugDetailScreen(drug: drug))),
         child: Padding(
           padding: const EdgeInsets.all(14),
           child: Column(
@@ -170,19 +185,28 @@ class _DrugCard extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   CategoryMark(
-                      color: catColor, diagonal: drug.isDiagonal, size: 16),
+                    color: catColor,
+                    diagonal: drug.isDiagonal,
+                    size: 16,
+                  ),
                   const SizedBox(width: 8),
                   Expanded(
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(drug.name,
-                            style: theme.textTheme.titleMedium
-                                ?.copyWith(fontWeight: FontWeight.bold)),
+                        Text(
+                          drug.name,
+                          style: theme.textTheme.titleMedium?.copyWith(
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
                         const SizedBox(height: 2),
-                        Text(drug.brand,
-                            style: theme.textTheme.bodySmall
-                                ?.copyWith(color: Colors.black54)),
+                        Text(
+                          drug.brand,
+                          style: theme.textTheme.bodySmall?.copyWith(
+                            color: Colors.black54,
+                          ),
+                        ),
                       ],
                     ),
                   ),
