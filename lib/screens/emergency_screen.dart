@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../data/emergency_delirium.dart';
 import '../data/emergency_neuro.dart';
 
 /// 緊急対応タブ — 術中緊急プロトコルの一覧
@@ -81,6 +82,35 @@ class _EmergencyScreenState extends State<EmergencyScreen> {
                         body: neuroEmergencyIchVsSah,
                       ),
                       _Protocol(title: '根拠・更新日', body: neuroEmergencyEvidence),
+                    ],
+                  ),
+                  SizedBox(height: 12),
+                  _EmergencySection(
+                    title: '覚醒時興奮 / 術後せん妄',
+                    icon: Icons.psychology,
+                    color: Color(0xFF7E57C2),
+                    protocols: [
+                      _Protocol(
+                        title: '最初に: ABCと可逆的原因',
+                        body: emergenceDeliriumAssessment,
+                      ),
+                      _Protocol(title: '疼痛コントロール', body: emergenceDeliriumPain),
+                      _Protocol(
+                        title: 'デクスメデトミジン (DEX)',
+                        body: emergenceDeliriumDex,
+                      ),
+                      _Protocol(
+                        title: 'セレネース (ハロペリドール)',
+                        body: emergenceDeliriumHaloperidol,
+                      ),
+                      _Protocol(
+                        title: '非薬物介入と申し送り',
+                        body: emergenceDeliriumNonDrug,
+                      ),
+                      _Protocol(
+                        title: '根拠・更新日',
+                        body: emergenceDeliriumEvidence,
+                      ),
                     ],
                   ),
                   SizedBox(height: 12),
