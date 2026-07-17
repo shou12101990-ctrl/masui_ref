@@ -11,12 +11,13 @@ import 'drugs/local_anesthetic.dart';
 import 'drugs/anticoagulant.dart';
 import 'drugs/steroid.dart';
 import 'drugs/antiemetic.dart';
+import 'drugs/psychotropic.dart';
 import 'drugs/antihistamine.dart';
 import 'drugs/transfusion.dart';
 import 'drugs/other.dart';
 
-/// 麻酔薬リファレンス データ (Excel「ますい.xlsx」より抜粋・整形). 
-/// 研修医向けの参考情報であり, 実際の投与は最新の添付文書・成書を確認すること. 
+/// 麻酔薬リファレンス データ (Excel「ますい.xlsx」より抜粋・整形).
+/// 研修医向けの参考情報であり, 実際の投与は最新の添付文書・成書を確認すること.
 /// (カテゴリごとの実データは lib/data/drugs/ 以下に分割)
 final List<Drug> kDrugs = [
   ...kSedativeDrugs,
@@ -30,6 +31,7 @@ final List<Drug> kDrugs = [
   ...kAnticoagulantDrugs,
   ...kSteroidDrugs,
   ...kAntiemeticDrugs,
+  ...kPsychotropicDrugs,
   ...kAntihistamineDrugs,
   ...kTransfusionDrugs,
   ...kOtherDrugs,

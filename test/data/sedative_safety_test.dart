@@ -23,5 +23,17 @@ void main() {
       expect(drug.dose, contains('通常上限1mg'));
       expect(drug.dose, isNot(contains('20分毎')));
     });
+
+    test('フルマゼニルは慢性BZ使用時の離脱と痙攣を警告する', () {
+      final drug = kSedativeDrugs.singleWhere((d) => d.name.contains('フルマゼニル'));
+      final text = drug.notes
+          .map((note) => '${note.heading} ${note.body}')
+          .join(' ');
+      expect(text, contains('急性離脱'));
+      expect(text, contains('痙攣'));
+      expect(text, contains('てんかん患者は禁忌'));
+      expect(text, contains('三環系/四環系抗うつ薬'));
+      expect(text, contains('少量ずつ緩徐投与'));
+    });
   });
 }

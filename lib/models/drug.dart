@@ -65,6 +65,7 @@ enum DrugCategory {
   anticoagulant('凝固系'),
   steroid('ステロイド'),
   antiemetic('制吐薬'),
+  psychotropic('向精神薬'),
   antihistamine('抗ヒスタミン薬'),
   transfusion('輸血製剤'),
   other('その他');

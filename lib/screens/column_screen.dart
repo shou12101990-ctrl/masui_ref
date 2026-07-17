@@ -16,8 +16,10 @@ class ColumnScreen extends StatefulWidget {
 class _ColumnScreenState extends State<ColumnScreen>
     with SingleTickerProviderStateMixin {
   static const _allLabel = 'すべて表示';
+  static const _preopTemplateTitle = '術前診察テンプレート: 麻酔薬との相性チェック';
   String _selected = _allLabel;
   String _query = '';
+  String? _focusedArticleTitle;
   final _searchCtrl = TextEditingController();
 
   // 本文パネル（ドラッグで上に展開。上端まで引いたら下端に戻すスナップ）
@@ -32,12 +34,15 @@ class _ColumnScreenState extends State<ColumnScreen>
   void initState() {
     super.initState();
     _snapCtrl = AnimationController(
-        vsync: this, duration: const Duration(milliseconds: 260));
+      vsync: this,
+      duration: const Duration(milliseconds: 260),
+    );
     _snapCtrl.addListener(() {
       if (!mounted) return;
       final t = Curves.easeOut.transform(_snapCtrl.value);
       setState(
-          () => _panelHeight = _snapFrom + (_snapToTarget - _snapFrom) * t);
+        () => _panelHeight = _snapFrom + (_snapToTarget - _snapFrom) * t,
+      );
     });
   }
 
@@ -55,14 +60,32 @@ class _ColumnScreenState extends State<ColumnScreen>
     _snapCtrl.forward(from: 0);
   }
 
+  void _openArticle(String title) {
+    final matches = kColumns.where((article) => article.title == title);
+    if (matches.isEmpty) return;
+    final article = matches.first;
+    setState(() {
+      _focusedArticleTitle = title;
+      _selected = article.category;
+      _query = '';
+      _searchCtrl.clear();
+    });
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (_scroll.hasClients) _scroll.jumpTo(0);
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     final q = _query.trim().toLowerCase();
-    final filtered = q.isNotEmpty
+    final focusedTitle = _focusedArticleTitle;
+    final filtered = focusedTitle != null
+        ? kColumns.where((c) => c.title == focusedTitle).toList()
+        : q.isNotEmpty
         ? kColumns.where((c) => c.searchText.contains(q)).toList()
         : (_selected == _allLabel
-            ? kColumns
-            : kColumns.where((c) => c.category == _selected).toList());
+              ? kColumns
+              : kColumns.where((c) => c.category == _selected).toList());
     final media = MediaQuery.of(context);
     final pad = media.padding;
     const navBarH = 80.0;
@@ -78,18 +101,22 @@ class _ColumnScreenState extends State<ColumnScreen>
         children: [
           Padding(
             padding: const EdgeInsets.fromLTRB(16, 12, 16, 4),
-            child: Text('解説（コラム）',
-                style: Theme.of(context)
-                    .textTheme
-                    .titleLarge
-                    ?.copyWith(fontWeight: FontWeight.bold)),
+            child: Text(
+              '解説（コラム）',
+              style: Theme.of(
+                context,
+              ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold),
+            ),
           ),
           // 検索 (タイトル・本文・タグ)
           Padding(
             padding: const EdgeInsets.fromLTRB(12, 0, 12, 4),
             child: TextField(
               controller: _searchCtrl,
-              onChanged: (v) => setState(() => _query = v),
+              onChanged: (v) => setState(() {
+                _focusedArticleTitle = null;
+                _query = v;
+              }),
               decoration: InputDecoration(
                 hintText: 'キーワード・タグで検索 (例: 生理学, 薬理学, 術前評価)',
                 prefixIcon: const Icon(Icons.search, size: 20),
@@ -98,6 +125,7 @@ class _ColumnScreenState extends State<ColumnScreen>
                     : IconButton(
                         icon: const Icon(Icons.clear, size: 18),
                         onPressed: () => setState(() {
+                          _focusedArticleTitle = null;
                           _query = '';
                           _searchCtrl.clear();
                         }),
@@ -128,6 +156,7 @@ class _ColumnScreenState extends State<ColumnScreen>
                     final selected = _selected == e.key;
                     return GestureDetector(
                       onTap: () => setState(() {
+                        _focusedArticleTitle = null;
                         _selected = e.key;
                         _query = '';
                         _searchCtrl.clear();
@@ -145,19 +174,23 @@ class _ColumnScreenState extends State<ColumnScreen>
                           boxShadow: selected
                               ? [
                                   BoxShadow(
-                                      color: e.value.withValues(alpha: 0.4),
-                                      blurRadius: 4,
-                                      offset: const Offset(0, 2))
+                                    color: e.value.withValues(alpha: 0.4),
+                                    blurRadius: 4,
+                                    offset: const Offset(0, 2),
+                                  ),
                                 ]
                               : null,
                         ),
                         alignment: Alignment.center,
-                        child: Text(e.key,
-                            textAlign: TextAlign.center,
-                            style: const TextStyle(
-                                color: Colors.white,
-                                fontWeight: FontWeight.bold,
-                                fontSize: 12)),
+                        child: Text(
+                          e.key,
+                          textAlign: TextAlign.center,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 12,
+                          ),
+                        ),
                       ),
                     );
                   }).toList(),
@@ -169,19 +202,21 @@ class _ColumnScreenState extends State<ColumnScreen>
           SafeArea(
             top: false,
             child: Padding(
-              padding:
-                  const EdgeInsets.symmetric(horizontal: 12.0, vertical: 8.0),
+              padding: const EdgeInsets.symmetric(
+                horizontal: 12.0,
+                vertical: 8.0,
+              ),
               child: SizedBox(
                 height: _panelHeight,
                 child: Card(
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(12),
                     side: BorderSide(
-                        color: Theme.of(context)
-                            .colorScheme
-                            .outline
-                            .withValues(alpha: 0.4),
-                        width: 0.8),
+                      color: Theme.of(
+                        context,
+                      ).colorScheme.outline.withValues(alpha: 0.4),
+                      width: 0.8,
+                    ),
                   ),
                   child: Column(
                     children: [
@@ -189,8 +224,10 @@ class _ColumnScreenState extends State<ColumnScreen>
                         behavior: HitTestBehavior.translucent,
                         onVerticalDragUpdate: (d) {
                           setState(() {
-                            _panelHeight = (_panelHeight - d.delta.dy)
-                                .clamp(_panelMin, maxPanel);
+                            _panelHeight = (_panelHeight - d.delta.dy).clamp(
+                              _panelMin,
+                              maxPanel,
+                            );
                           });
                         },
                         onVerticalDragEnd: (_) {
@@ -216,20 +253,44 @@ class _ColumnScreenState extends State<ColumnScreen>
                             ? const Center(child: Text('コラムがありません'))
                             : ListView(
                                 controller: _scroll,
-                                padding:
-                                    const EdgeInsets.fromLTRB(16, 0, 16, 16),
+                                padding: const EdgeInsets.fromLTRB(
+                                  16,
+                                  0,
+                                  16,
+                                  16,
+                                ),
                                 children: [
+                                  if (focusedTitle != null &&
+                                      focusedTitle != _preopTemplateTitle) ...[
+                                    Align(
+                                      alignment: Alignment.centerLeft,
+                                      child: TextButton.icon(
+                                        onPressed: () =>
+                                            _openArticle(_preopTemplateTitle),
+                                        icon: const Icon(
+                                          Icons.arrow_back,
+                                          size: 17,
+                                        ),
+                                        label: const Text('術前診察に戻る'),
+                                      ),
+                                    ),
+                                    const SizedBox(height: 4),
+                                  ],
                                   for (final c in filtered)
                                     _Section(
                                       key: ValueKey(
-                                          '${c.title}|${_query.trim().isNotEmpty}'),
+                                        '${c.title}|${_query.trim().isNotEmpty}|$focusedTitle',
+                                      ),
                                       article: c,
                                       expandByDefault:
-                                          _query.trim().isNotEmpty,
+                                          _query.trim().isNotEmpty ||
+                                          focusedTitle != null,
                                       onTagTap: (t) => setState(() {
+                                        _focusedArticleTitle = null;
                                         _query = t;
                                         _searchCtrl.text = t;
                                       }),
+                                      onRelatedArticleTap: _openArticle,
                                     ),
                                 ],
                               ),
@@ -249,11 +310,13 @@ class _ColumnScreenState extends State<ColumnScreen>
 class _Section extends StatefulWidget {
   final ColumnArticle article;
   final void Function(String tag)? onTagTap;
+  final void Function(String title)? onRelatedArticleTap;
   final bool expandByDefault;
   const _Section({
     super.key,
     required this.article,
     this.onTagTap,
+    this.onRelatedArticleTap,
     this.expandByDefault = false,
   });
 
@@ -283,22 +346,26 @@ class _SectionState extends State<_Section> {
                 children: [
                   Expanded(
                     child: Text.rich(
-                      TextSpan(children: [
-                        TextSpan(
-                          text: '■ ',
-                          style: TextStyle(
+                      TextSpan(
+                        children: [
+                          TextSpan(
+                            text: '■ ',
+                            style: TextStyle(
                               color: article.color,
                               fontWeight: FontWeight.bold,
-                              fontSize: 15),
-                        ),
-                        TextSpan(
-                          text: article.title,
-                          style: const TextStyle(
+                              fontSize: 15,
+                            ),
+                          ),
+                          TextSpan(
+                            text: article.title,
+                            style: const TextStyle(
                               color: Colors.black,
                               fontWeight: FontWeight.bold,
-                              fontSize: 15),
-                        ),
-                      ]),
+                              fontSize: 15,
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
                   ),
                   const SizedBox(width: 6),
@@ -323,18 +390,24 @@ class _SectionState extends State<_Section> {
                     onTap: () => widget.onTagTap?.call(t),
                     child: Container(
                       padding: const EdgeInsets.symmetric(
-                          horizontal: 8, vertical: 2),
+                        horizontal: 8,
+                        vertical: 2,
+                      ),
                       decoration: BoxDecoration(
                         color: article.color.withValues(alpha: 0.12),
                         borderRadius: BorderRadius.circular(20),
                         border: Border.all(
-                            color: article.color.withValues(alpha: 0.4)),
+                          color: article.color.withValues(alpha: 0.4),
+                        ),
                       ),
-                      child: Text('# $t',
-                          style: TextStyle(
-                              fontSize: 10.5,
-                              color: article.color,
-                              fontWeight: FontWeight.w600)),
+                      child: Text(
+                        '# $t',
+                        style: TextStyle(
+                          fontSize: 10.5,
+                          color: article.color,
+                          fontWeight: FontWeight.w600,
+                        ),
+                      ),
                     ),
                   ),
               ],
@@ -349,15 +422,70 @@ class _SectionState extends State<_Section> {
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(12),
                 side: BorderSide(
-                    color: Theme.of(context)
-                        .colorScheme
-                        .outline
-                        .withValues(alpha: 0.4),
-                    width: 0.8),
+                  color: Theme.of(
+                    context,
+                  ).colorScheme.outline.withValues(alpha: 0.4),
+                  width: 0.8,
+                ),
               ),
               child: Padding(
                 padding: const EdgeInsets.all(12),
-                child: _ArticleBody(article: article),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    _ArticleBody(article: article),
+                    if (article.relatedArticleTitles.isNotEmpty) ...[
+                      const SizedBox(height: 14),
+                      Divider(color: article.color.withValues(alpha: 0.35)),
+                      const SizedBox(height: 6),
+                      Text(
+                        '病態別の詳細',
+                        style: TextStyle(
+                          color: article.color,
+                          fontSize: 12,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                      for (final title in article.relatedArticleTitles) ...[
+                        OutlinedButton(
+                          style: OutlinedButton.styleFrom(
+                            alignment: Alignment.centerLeft,
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 12,
+                              vertical: 10,
+                            ),
+                            side: BorderSide(
+                              color: article.color.withValues(alpha: 0.45),
+                            ),
+                          ),
+                          onPressed: () =>
+                              widget.onRelatedArticleTap?.call(title),
+                          child: Row(
+                            children: [
+                              Icon(
+                                Icons.arrow_forward,
+                                size: 16,
+                                color: article.color,
+                              ),
+                              const SizedBox(width: 8),
+                              Expanded(
+                                child: Text(
+                                  title,
+                                  style: const TextStyle(
+                                    fontSize: 12,
+                                    color: Colors.black87,
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(height: 6),
+                      ],
+                    ],
+                  ],
+                ),
               ),
             ),
           ],
@@ -410,10 +538,7 @@ class _ArticleBody extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        if (header != null) ...[
-          header,
-          const SizedBox(height: 12),
-        ],
+        if (header != null) ...[header, const SizedBox(height: 12)],
         for (var i = 0; i < parts.length; i++) ...[
           if (parts[i].isNotEmpty) Text(parts[i], style: _bodyStyle),
           if (i < parts.length - 1) ...[
