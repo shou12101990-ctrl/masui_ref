@@ -28,6 +28,21 @@ class Drug {
   /// 詳細解説（見出し付きの臨床メモ）
   final List<DrugNote> notes;
 
+  /// 電子添文との照合が完了しているか。
+  final bool packageInsertReviewed;
+
+  /// 参照した電子添文の改訂年月。
+  final String? packageInsertRevision;
+
+  /// PMDA電子添文URL。
+  final String? packageInsertUrl;
+
+  /// 電子添文上の禁忌。理由を必須とする。
+  final List<DrugContraindication> contraindications;
+
+  /// 電子添文上、注意が必要な患者背景。理由は詳細画面では省略する。
+  final List<String> cautiousUse;
+
   const Drug({
     required this.name,
     required this.brand,
@@ -38,18 +53,48 @@ class Drug {
     this.dose,
     required this.mechanism,
     this.notes = const [],
+    this.packageInsertReviewed = false,
+    this.packageInsertRevision,
+    this.packageInsertUrl,
+    this.contraindications = const [],
+    this.cautiousUse = const [],
   });
 
   /// 検索対象テキスト（一般名・商品名・分類・機序）
-  String get searchText =>
-      '$name $brand ${category.label} $mechanism ${dose ?? ''}'.toLowerCase();
+  String get searchText => [
+    name,
+    brand,
+    category.label,
+    mechanism,
+    dose ?? '',
+    ...notes.expand((note) => [note.heading, note.body]),
+    ...contraindications.expand((item) => [item.target, item.reason]),
+    ...cautiousUse,
+  ].join(' ').toLowerCase();
 }
 
 /// 解説の1セクション
 class DrugNote {
   final String heading;
   final String body;
-  const DrugNote(this.heading, this.body);
+  final DrugNoteType type;
+  const DrugNote(this.heading, this.body, {this.type = DrugNoteType.clinical});
+}
+
+/// 薬剤解説の根拠区分。
+enum DrugNoteType {
+  packageInsert,
+  facilityPractice,
+  offLabel,
+  literature,
+  clinical,
+}
+
+/// 電子添文上の禁忌と、その理由。
+class DrugContraindication {
+  final String target;
+  final String reason;
+  const DrugContraindication(this.target, this.reason);
 }
 
 /// 薬剤分類

@@ -30,8 +30,8 @@ void main() {
 
   test('関連記事ボタンの遷移先はすべて一意に存在する', () {
     final article = kColumns.singleWhere((item) => item.title == title);
-    expect(article.relatedArticleTitles, hasLength(11));
-    expect(article.relatedArticleTitles.toSet(), hasLength(11));
+    expect(article.relatedArticleTitles, hasLength(12));
+    expect(article.relatedArticleTitles.toSet(), hasLength(12));
     expect(article.relatedArticleTitles, isNot(contains(title)));
 
     for (final target in article.relatedArticleTitles) {
