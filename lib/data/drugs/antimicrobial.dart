@@ -48,6 +48,18 @@ const List<Drug> kAntimicrobialDrugs = [
         'ベンジルペニシリンカリウムは力価 (単位) 表記が基本で, 概ね100万単位 ≒ 0.6g (力価) に相当する. 処方・換算時に単位とグラムを混同しないよう注意する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 細菌性髄膜炎での特異的治療',
+        'ペニシリン感受性のN. meningitidis(PCG MIC 0.1未満)による細菌性髄膜炎の特異的治療はPCG 400万単位を4時間ごとに静注し7日間, ペニシリン感受性のS.pneumoniaeでも同様の考え方でPCGが使われる(MICが高ければCTRXやVCM併用に切替える).\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 脳膿瘍の経験的治療',
+        '脳膿瘍の経験的治療ではPCG 300~400万単位を4時間ごとに静注し, MNZ 7.5mg/kgを6時間ごと(または15mg/kgを12時間ごと)で併用する処方が選択肢の一つとなる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -107,6 +119,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '抗ブドウ球菌用ペニシリンであるナフシリン・オキサシリンは国内では未承認であり使用できない. MSSA治療は国内ではセファゾリン等が用いられる.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 新生児UTIのempiric therapy',
+        '新生児期の尿路感染症のempiric therapyの第一選択はABPC点滴静注+GM点滴静注の併用. Enterococcus属が疑われる場合はABPC 1回30~40mg/kgを1日3回・7~14日間投与するかVCMを併用する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 髄膜炎でのListeriaカバー',
+        'Listeria monocytogenesによる髄膜炎ではABPC 2gを4時間ごとに静注するのが軸になる. ペニシリンアレルギー時はST合剤(トリメトプリムとして5mg/kg/日を6~8時間ごと)が代替となり, アミノグリコシド併用の有用性は結論が出ていない.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -164,6 +188,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '絶飲食下では内服できないため, 治療の必要度に応じて代替の静注薬 (アンピシリン等) への切替を判断する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 妊婦の無症候性細菌尿',
+        '妊婦は胎児への影響を考慮しβ-ラクタム系を選択する. AMPC 経口500mgを1日3回・3~7日間が選択肢の一つで, 妊娠中はキノロン系, テトラサイクリン系, ST合剤(妊娠後期)を避ける.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 泌尿器科処置前の細菌尿治療',
+        '経尿道的処置など出血が予測される泌尿器科的処置の前は無症候性細菌尿のスクリーニングと治療を行う. 第二選択としてAMPC 経口500mgを1日3回・3日間投与する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -224,6 +260,30 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         'Na含有量が多く大量投与時は電解質・輸液バランスに留意する. 経口のスルタミシリン (プロドラッグ) とは異なる薬剤であり切替時は用量換算に注意する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 長時間静注のPK/PD',
+        'ABPC/SBTは9g(ABPC 6g+SBT 3g)を4時間以上かけて8時間ごとに投与する長時間静注が検討されている. 生食中の安定性は37度でABPC 77%, SBT 93%(24時間)であり, Acinetobacterによる人工呼吸器関連肺炎への高用量長時間静注が有効との報告がある.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 誤嚥性肺炎/肺膿瘍での位置づけ',
+        '誤嚥性肺炎や肺膿瘍の入院治療の第一選択にSBT/ABPC 3gを1日3~4回投与するレジメンが挙げられ, 口腔内常在の嫌気性菌をカバーする.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: Acinetobacter baumanniiでの使いどころ',
+        'SBT/ABPCはAcinetobacter baumanniiに感性であれば第一選択として使用できる(スルバクタム自体に抗菌活性がある). CVA/AMPCやTAZ/PIPCが同等の効果を持つかは十分に検証されていない.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 透析患者の難治性膀胱炎',
+        '透析患者の難治性膀胱炎の治療薬の一つとして, SBT/ABPC点滴静注1.5gを1日1回投与し, 透析日は透析終了後に投与する用法が用いられる(初日ローディングドーズを設定するMEPMやCPRとは異なり通常維持量のみ).\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -288,6 +348,24 @@ const List<Drug> kAntimicrobialDrugs = [
         'ベクロニウムなど筋弛緩薬の作用増強が報告されており, 術中は筋弛緩モニタリングを行う. 重症感染症治療中は手術当日も継続する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 持続/延長静注のエビデンス',
+        '観察研究のメタ解析では, カルバペネムまたはPIPC/TAZの長時間・持続静注による治療は間欠投与より死亡率を減少させたが, 有意な死亡率低下が確認されたのはPIPC/TAZのみでカルバペネムでは認められなかった.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 複雑性UTI/尿路性敗血症での位置づけ',
+        '緑膿菌を含むグラム陰性桿菌をカバーし, 複雑性UTIの難治例や尿路性敗血症の第一選択に位置づけられる. 用量はTAZ/PIPC 4.5gを1日3回(重症例では2~3回)静注する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 胆道感染での位置づけ',
+        '胆管炎/胆嚢炎の第一選択の一つ. E.coli分離株に高度耐性株が増えているためABPC/SBTは避けるべきとされ, PIPC/TAZやErtapenemが推奨される.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -350,6 +428,18 @@ const List<Drug> kAntimicrobialDrugs = [
         'アナフィラキシー, 急性腎障害等の重篤な腎障害, 偽膜性大腸炎, 肝機能障害に注意し, 定期的な腎機能検査が推奨される.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: βラクタムアレルギーでの代替',
+        'モノバクタム系でグラム陰性菌に限定した活性を持ち, 重症βラクタムアレルギー患者でも比較的安全に使用できる. 髄膜炎の経験的治療でCAZ/CFPMの代わりにAZT 2gを6~8時間ごとに静注する選択肢がある.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: スペクトラムの限界と新生児適応',
+        'グラム陰性桿菌のみに活性がありグラム陽性菌・嫌気性菌はカバーしない. 低出生体重児/新生児のUTIに適応がある数少ない薬剤の一つ(ABPC, CAZ, CZOP, FMOX, AZT, AMK, VCM).\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -404,6 +494,24 @@ const List<Drug> kAntimicrobialDrugs = [
         '一般的性質',
         '緑膿菌を含む広域グラム陰性菌カバーがあり, 発熱性好中球減少症や重症院内感染のempiric治療の中心的薬剤の一つ.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: ESBL産生菌・重症UTIでの位置づけ',
+        'ESBL産生菌による複雑性尿路感染や尿路性敗血症の第一選択の一つ. 難治例では0.5~1gを1日3回, 尿路性敗血症など重症例では1gを1日3回投与する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 髄膜炎での高用量投与',
+        '細菌性髄膜炎(グラム陰性桿菌が疑われる例)の治療ではMEPM 2gを8時間ごとに静注する高用量を用い, VCM+CFPM/CAZ併用に対する代替として使われる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 持続/延長静注の限界',
+        'PIPC/TAZの長時間・持続静注は観察研究のメタ解析で死亡率減少と関連したが, カルバペネム単独では死亡率低下の有意差は確認されていない点に留意する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -461,6 +569,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '副作用',
         '痙攣・意識障害等の中枢神経症状のほか, ショック・アナフィラキシー, 急性腎障害, 偽膜性大腸炎, 肝機能障害に注意.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 重症UTI/敗血症での投与回数',
+        'ウロセプシスや重症腎盂腎炎の治療でIPM/CS 0.5gを1日4回投与するなど, 他のカルバペネム(MEPMは1日3回, DRPMは1日2~3回)より投与回数が多い点に注意する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 妊娠中/授乳中の安全性',
+        'ヒトでの妊娠中データは不十分だが動物実験で明らかな毒性は認められていない. 授乳中はおそらく安全とされるが参照データは少なくモニターが必要とされる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -523,6 +643,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '痙攣・意識障害等の中枢神経症状, ショック・アナフィラキシー, 急性腎障害, 偽膜性大腸炎に注意.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 難治性UTIでの用量',
+        '難治性膀胱炎/複雑性UTIではDRPM 0.25gを1日2回, 重症腎盂腎炎/尿路性敗血症では0.5~1gを1日2~3回用いるが, 使用経験の報告が限られている薬剤に位置づけられる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 重症肺炎・耐性グラム陰性菌での位置づけ',
+        'ICU管理を要する重症市中肺炎や, ESBL産生Klebsiella, Acinetobacter baumannii感染の治療選択肢としてDRPM 0.5~1gを1日3回投与するレジメンが挙げられる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -579,6 +711,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '副作用',
         '痙攣・意識障害等の中枢神経症状, ショック・アナフィラキシー, 急性腎障害, 偽膜性大腸炎に注意.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 添付文書上の用量上限に注意',
+        'BIPMは0.3~0.6gを1日3~4回投与するが, 添付文書上の最大用量は1.2g/日とMEPMなど他のカルバペネムより低く設定されており, 超重症例では力価不足に留意する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 重症肺炎/耐性グラム陰性菌での使いどころ',
+        'ICU入室を要する重症市中肺炎, 多剤耐性菌リスクのある院内肺炎, ESBL産生Klebsiella, Acinetobacter baumannii感染の治療選択肢の一つとして挙げられる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -652,6 +796,24 @@ const List<Drug> kAntimicrobialDrugs = [
         'ペニシリン系との交差アレルギーは数%程度とされるが既往歴は必ず確認する. 筋注用製剤はリドカインで溶解するため, 局所麻酔薬アレルギーがある場合は静注用を選択する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 腎機能低下時の減量',
+        '腎機能正常なら1~2gを8時間ごとが基本. CrCl>50では1~2gを8時間ごと, CrCl<10では0.5~1gを24時間ごとまで投与間隔を延長する. 周術期でも腎機能に応じた調節を要する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: ペニシリンアレルギーとの交差反応',
+        'IgE関与型ペニシリンアレルギー (気管支けいれん, アナフィラキシー, 血管神経性浮腫, 即時性じんま疹など) の既往がある患者にはセフェム系を投与すべきでない. 交差反応率は約10%とされる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 骨髄炎・心内膜炎での位置づけ',
+        'MSSA自己弁心内膜炎ではCEZ 2g静注8時間ごと・6週がNafcillin/Oxacillinの代替として提示され, 効果は同等でCEZの方が忍容性が高いとされる. 化膿性脊椎炎でも高用量CEZ (150mg/kg/日を8時間ごとに分割) がNafcillin/Oxacillinと同等の有効性を示す.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -713,6 +875,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '注射剤がないため予防投与や緊急使用には用いない. 内服スイッチの候補薬として, 術後感染症の治療期間短縮・早期退院を目的に使用されることがある.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 標準的な経口用量',
+        'CEX (セファレキシン) は成人で1回0.25~1gを6時間ごと (最大4g/日) が目安. 軽症の皮膚軟部組織感染症や, 注射薬から経口薬へのde-escalation先として使いやすい.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: ペニシリンアレルギーとの交差反応',
+        'IgE関与型ペニシリンアレルギー (気管支けいれん, アナフィラキシー, 血管神経性浮腫, 即時性じんま疹) の既往がある患者にはセフェム系を避ける. ペニシリンで麻疹様皮疹のみの既往なら, セフェム投与時の発疹リスクは5~10%程度とされる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -778,6 +952,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '経口薬「セフォチアム ヘキセチル塩酸塩(パンスポリンT)」はエステル型プロドラッグであり, 注射用セフォチアムそのものに内服製剤があるわけではない点に注意.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 重症腎盂腎炎での位置づけ',
+        '重症腎盂腎炎の第一選択の1つとしてCTM 点滴静注1回1~2gを1日3~4回投与する (2g・3~4回は保険適応外). CTRXやCAZと並ぶ選択肢である.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 肺炎 (ESBL非産生Klebsiella等) の入院治療での位置づけ',
+        'ESBL非産生Klebsiella属などによる肺炎の入院治療では, CTX, CTRXと並ぶ第一選択としてCTM 点滴静注1回1~2gを1日2~3回 (添付文書上限4g/日) で使用する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -842,6 +1028,18 @@ const List<Drug> kAntimicrobialDrugs = [
         'ESBL産生大腸菌・肺炎桿菌による軽症-中等症感染症でカルバペネム温存目的に使用されることがある一方, 腎機能良好な患者では組織内濃度が相対的に低くなりやすく, 重症例への単独使用は推奨されない.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 腎機能低下時の投与間隔調整',
+        '腎機能正常なら2g静注を8~12時間ごとに投与する. CrCl 50~90では1~2gを12時間ごと, CrCl 30~49では1gを12時間ごと, CrCl<10では1~2gを48時間ごとまで投与間隔を延長する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 小児での使用経験は限定的',
+        '小児の複雑性尿路感染症でP. aeruginosaが想定される場合の選択肢として, CMZ 点滴静注1回30~40mg/kg・1日3回・7~14日間が挙げられるが, 使用経験の報告は限られ成人での報告のみとされる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -902,6 +1100,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '半減期が短いため長時間手術では術中の再投与間隔に留意する. 嫌気性菌カバーを要する腹部・婦人科手術の予防投与や治療に用いられる.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 新生児・低出生体重児への適応',
+        'FMOXは低出生体重児・新生児にも適応のある数少ない抗菌薬の1つ (ABPC, CAZ, CZOP, FMOX, AZT, AMK, VCMなど). 新生児尿路感染症の選択肢になる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 重症前立腺炎での位置づけ',
+        '重症の急性前立腺炎ではFMOX点滴静注1回1gを1日2~4回・3~7日間投与するのがCTM, CAZと並ぶ第一選択の1つ. 症状軽快後は経口薬に切り替え合計14~28日間治療する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -967,6 +1177,30 @@ const List<Drug> kAntimicrobialDrugs = [
         '副作用',
         '過敏症, 下痢(広域抗菌薬に共通するClostridioides difficile関連下痢症リスク), 血液障害, 肝機能検査値異常等.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 外来治療開始時の単回投与',
+        '軽症~中等症の腎盂腎炎など外来治療可能な症例では, 経口薬による治療開始時にone-time intravenous agentとしてCTRX (またはAMK, PZFX, LVFX) を単回点滴静注することが推奨される.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 半減期が長く1日1~2回投与でよい',
+        '重症腎盂腎炎の第一選択としてCTRX 点滴静注1回1~2gを1日1~2回投与する. 半減期が長いため他のセフェムより投与回数を減らせる実務上の利点がある.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 妊婦の腎盂腎炎での位置づけ',
+        '妊婦の腎盂腎炎ではキノロン系薬は催奇形性のため禁忌. セフェム系薬が推奨され, 治療開始時のone-time intravenous agentとしてもCTRXが推奨される.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 抗緑膿菌活性はない',
+        'CTRXはPseudomonasが疑われる場合には使用しないこと. 緑膿菌カバーが必要な場面ではPIPC/TAZなど抗緑膿菌活性のある薬剤を選択する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -1035,6 +1269,24 @@ const List<Drug> kAntimicrobialDrugs = [
         '新生児・小児の周術期敗血症・髄膜炎疑いでの経験的治療に用いられる. 腎機能に応じた用量調節が必要であり, 周術期の腎機能変動を踏まえて評価する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 脳膿瘍のempiric therapy',
+        '原発性/隣接病巣由来の脳膿瘍では, CTX 2g静注4時間ごと (またはCTRX 2g静注12時間ごと) にMNZ (メトロニダゾール) を併用する. 術後・外傷後ではS. aureusや腸内細菌を考慮しNafcillin/Oxacillinを追加する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 髄液移行性が必要な場面での選択',
+        'ウロセプシスなどで髄膜炎への波及が疑われる場合は, 髄液移行性の良い第3世代セフェム (CTX, CTRXなど) を選択する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 緑膿菌疑い時は変更が必要',
+        '脳膿瘍治療でP. aeruginosaが疑われる場合はCTX/CTRXに代えてCFPMまたはCAZを用いる. CTX自体には抗緑膿菌活性がない.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1096,6 +1348,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '注射剤がないため予防投与や緊急使用には用いない. 鉄剤・制酸剤との服用間隔の指導が周術期の内服管理で重要となる.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 透析患者での投与間隔',
+        '透析患者の難治性膀胱炎ではCFDN 経口1回100mgを1日1回, 透析日は透析終了後に投与する. 腎排泄型薬剤のため透析患者では投与間隔調整が必須.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 妊婦の尿路感染症での位置づけ',
+        '妊婦の膀胱炎・無症候性細菌尿ではキノロン系薬が禁忌のため, CFDN 経口100mgを1日3回・5~7日間などセフェム系薬が第一選択となる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1154,6 +1418,24 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '通常の清潔手術の予防投与には用いない. 免疫抑制患者や腹腔内感染症合併例での治療に位置づけられる. 高用量・腎機能障害時は痙攣等の中枢神経系副作用にも留意する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 緑膿菌カバーが必要な場面',
+        'CAZは抗緑膿菌活性をもつ第3世代セフェム. 複雑性尿路感染症やウロセプシスでP. aeruginosaを想定する場合の第一選択の1つとして1回1~2gを1日3回点滴静注する (2g・3~4回は保険適応外).\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 新生児への適応',
+        '低出生体重児・新生児にも適応のある抗菌薬の1つ (ABPC, CAZ, CZOP, FMOX, AZT, AMK, VCM). 新生児尿路感染症でP. aeruginosa等を想定する際の選択肢になる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: Enterococcus属には無効',
+        'セフェム系薬はEnterococcus属には無効. 複雑性尿路感染症でEnterococcus属が想定される場合はCAZではなくペニシリン系薬や抗MRSA薬を選択する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -1214,6 +1496,17 @@ const List<Drug> kAntimicrobialDrugs = [
         '腎機能低下例での用量調節がとりわけ重要. 高齢者, 急性腎障害合併例, 造影剤使用後などは腎機能を再評価し, 用量・間隔を見直す.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 緑膿菌感染症での位置づけ',
+        'CFPMは抗緑膿菌活性をもつ第4世代セフェム. 複雑性尿路感染症・ウロセプシスでP. aeruginosaを想定する場合, CAZと並ぶ選択肢として1回1~2gを1日3回点滴静注する (2g・3回は保険適応外).\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 骨髄炎でグラム陰性菌合併が疑われる場合',
+        '成人の化膿性脊椎炎でグラム染色でグラム陰性菌が疑われる場合, MSSA/MRSAレジメンにCAZまたはCFPMを追加する.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1271,6 +1564,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '重症敗血症や好中球減少患者の周術期感染症治療に用いられる. 腎機能障害患者では中枢神経系副作用のリスクを念頭に置き用量調節を徹底する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 院内肺炎・耐性菌リスク時の位置づけ',
+        '晩期院内肺炎やVAPなど耐性菌リスクが高い場合, ブドウ糖非発酵菌を想定しCZOP 1~2gを1日2~4回点滴静注する. cephalosporinase恒常発現株が疑われる場合は第4世代セフェム (CZOP/CFPM) かカルバペネムを選択する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 重症急性精巣上体炎での使用',
+        '重症の急性精巣上体炎ではCZOP 点滴静注1回1gを1日2~3回・3~7日間投与するのがCTRXと並ぶ第一選択. 症状軽快後は経口薬に切り替え合計14~21日間治療する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -1334,6 +1639,24 @@ const List<Drug> kAntimicrobialDrugs = [
         '術中は血圧低下や紅斑の原因が出血・アナフィラキシー・red man症候群のいずれか判別しにくいため, VCM投与中/投与直後の血行動態変化はまずred man症候群を疑い, 投与速度・濃度を確認する. 造影剤やNSAIDs等他の腎毒性薬剤と重ならないよう周術期のタイミングを調整する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: TDMの目標',
+        '2020年改訂の投与ガイドライン以降はトラフ値単独ではなくAUC24/MICで用量調整することが推奨されている. 目標AUC24は400-600μg・h/mLで, ピーク値とトラフ値の2点採血による台形モデルで算出する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 腎機能低下時の減量',
+        '維持量はCrCl 20-49で15-20mg/kg 24時間ごと, CrCl<20で15-20mg/kg 48時間ごとへ延長する. 初回投与量は腎機能によらず通常量 (15-20mg/kg)で開始してよい.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 投与経路と適応',
+        '静注: S. aureus菌血症・心内膜炎・侵襲性感染症, 経口: C. difficile感染症, 髄腔内: 髄膜炎, というように経路で適応が明確に区別されている. 経口投与はほぼ全身移行せずCDIの局所治療専用.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1392,6 +1715,30 @@ const List<Drug> kAntimicrobialDrugs = [
         '半減期が非常に長いため, 一度過量になると副作用 (腎障害, 血球減少) が遷延しやすい. 周術期に腎機能が変動する患者では頻回のTDMと用量再評価が望ましい.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: MRSA肺炎でのloading',
+        'MRSA肺炎ではTEIC点滴静注を最初の2日間は1回400mg・1日2回でloadingし, 3日目以降は1回400mg・1日1回とする (添付文書上限は初日800mg, 以降400mg/日). VCM・TEICともにtrough 15-20μg/mLを目標にTDMを行う.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 心内膜炎でのtrough目標',
+        'S. aureus心内膜炎にはトラフ値>20μg/mLが必要とされ, 初期は12mg/kgを12時間ごと3回負荷した後12mg/kg 24時間ごとへ切り替える. 各回1時間以上かけて点滴する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 副作用',
+        '高用量 (15mg/kg/日)では著明な血小板減少に注意する. 発熱などの過敏症は用量依存性 (3mg/kgで2.2%, 24mg/kgで8.2%)で, レッドネック (レッドマン)症候群の頻度はVCMより少ない.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 腎機能低下時の投与間隔',
+        'CrCl 30-80では初回通常量投与後6-12mg/kg 48時間ごと, CrCl<30では初回通常量投与後6-12mg/kg 72時間ごとへ延長する (血液透析では血中からほとんど除去されない).\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1448,6 +1795,24 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         'セロトニン症候群のリスクから術前にSSRI等の中止可否が話題になることがあるが自己判断で中止しない. 血小板減少がある場合は硬膜外/脊髄くも膜下麻酔等の区域麻酔前に血小板数を確認する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: IVから経口へのスイッチ',
+        '生体利用率が高く経口薬でも静注とほぼ同等の血中濃度が得られるため, 速やかな改善が見られれば経口へのスイッチが可能. MRSA肺炎の第一選択の一つとして600mg 1日2回, 点滴静注または経口で用いる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 人工物感染での併用',
+        '人工関節・脊椎インプラント感染では600mg 12時間ごと (静注/経口)にRFP 300mg 1日2回を併用すると再発率が減少するとされる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 小児量',
+        '小児のMRSA骨髄炎/髄膜炎では10mg/kg 8時間ごと (静注または経口)が用いられ, 重症のペニシリンアレルギーがある新生児ではLZD+AZTが代替として挙げられている.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -1507,6 +1872,29 @@ const List<Drug> kAntimicrobialDrugs = [
         '横紋筋融解症のマーカーであるCK上昇と, 手術・体位・止血帯等による筋原性CK上昇との鑑別に注意する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: MRSA肺炎には無効',
+        '肺サーファクタントで不活化されるためMRSA肺炎には使用してはならない. ただし敗血症性肺塞栓症はこの限りではない.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 心内膜炎/VRE菌血症での高用量',
+        '右心系・左心系心内膜炎では8-10mg/kg/日の高用量投与が奏効した症例シリーズが報告されている. VRE菌血症ではレトロスペクティブ研究で10mg/kg/日の用量のほうが標準用量より生存率が高かった.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 腎機能低下時の用量',
+        'CrCl 30-90では4-6mg/kg 24時間ごとのまま, CrCl<30では6mg/kg 48時間ごとへ延長する. 血液透析日は透析後投与とし, 透析中に投与する場合は7-9mg/kgを考慮する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 難治性MRSA菌血症でのサルベージ',
+        'DAP+Ceftarolineの併用は, 治療抵抗性MRSA菌血症に対するサルベージ治療として有効な可能性が報告されている.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1562,6 +1950,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         'TDM目安はピーク9~20μg/mL, トラフ2μg/mL未満 (トラフが繰り返し2μg/mL以上となると腎障害/第8脳神経障害のリスクが増大). 周術期の輸液管理による腎機能変動でトラフが上昇しやすいため注意する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: MRSA肺炎での位置づけとTDM',
+        'MRSA肺炎の第二選択薬として1回300mg・1日1回点滴静注で用いる. TDMでトラフ値が2μg/mL以下になるよう調整する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 小児量',
+        '小児では重症度によらず4-6mg/kg・1日1回点滴静注が用いられる (膿瘍形成がなければ有効とされる).\n'
+          '[出典] JAID_JSC感染症治療ガイドライン_呼吸器感染症_2014_',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -1620,6 +2020,24 @@ const List<Drug> kAntimicrobialDrugs = [
         'TDMのトラフ値目標は投与法 (分割投与か拡大間隔投与か) により異なるため, 周術期に投与法を変更する場合は薬剤師と連携してTDM計画を再設定する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 尿路性敗血症/複雑性UTIでの位置づけ',
+        '複雑性尿路感染症・尿路性敗血症の第二選択としてAMK 15mg/kg 1日1回筋注/点滴静注を用いる. β-ラクタム耐性菌が疑われる重症例では, 培養結果が判明するまでアミノグリコシド系薬を併用しておいた方が安全とされる.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 脳室内投与量',
+        '髄膜炎/シャント感染への脳室内投与量はAMK 30mgが目安. 投与回数は髄液排液量に応じて調整し, 排液が多いほど増量/頻回とする.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 安全域の狭さ',
+        'アミノグリコシド系は安全域が狭く, 腎機能低下時には特に注意が必要である. 必要に応じてTDMを施行する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1677,6 +2095,30 @@ const List<Drug> kAntimicrobialDrugs = [
         '腎毒性・耳毒性は蓄積性かつ不可逆的になり得るため, 周術期に反復投与や他の腎毒性薬剤 (VCM, NSAIDs, 造影剤) と重複させる場合は腎機能を頻回にモニタリングする.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 腸球菌性心内膜炎での相乗効果用量',
+        '腸球菌性心内膜炎の相乗効果目的では低用量のGM 1mg/kg 8時間ごとを併用する (治療用量ではない). ABPC+GM併用2週間後にABPC単独へ切り替える方法は, 標準的な4-6週間併用と同等の有効性で毒性が少ないとの報告がある.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 腎障害/聴神経障害リスク時の代替',
+        '腎機能低下や第8脳神経障害のリスクがある場合はGM併用よりABPC+CTRXを優先する. VCM+GM併用は腎毒性が強く, 可能であればペニシリン脱感作を検討する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 新生児敗血症/髄膜炎の経験的治療',
+        '新生児の重症敗血症/髄膜炎の経験的治療にはABPC+CTX+GM (2.5mg/kg 8時間ごとまたは5-7mg/kg 24時間ごと)が用いられる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 脳室内投与量',
+        '髄膜炎/シャント感染への脳室内投与量は成人4-8mg, 乳児/小児1-2mgが目安. 髄液排液量が多いほど投与間隔を短縮または増量する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1732,6 +2174,17 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '近年供給不安定の報告があるため, 周術期に本剤を計画使用する場合は事前に薬剤部へ在庫確認することが望ましい.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 緑膿菌性心内膜炎/グラム陰性菌感染での位置づけ',
+        'P. aeruginosaによる感染性心内膜炎やグラム陰性菌感染では, アミノグリコシド系の中でもTOBがβ-ラクタム系 (CFPMまたはMEPM)との併用薬として選択されることが多い.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 脳室内投与量',
+        '髄膜炎/シャント感染への脳室内投与量はTOB 5-20mgが目安で, 髄液排液量に応じて投与回数を調整する.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -1790,6 +2243,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '静脈内投与の用法が承認されていないため, 緊急時や経口摂取不可の周術期であっても投与経路は筋注に限られる点に留意する (出血傾向がある患者では筋注部位からの出血・血腫にも注意する).',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: GM耐性腸球菌性心内膜炎での併用',
+        'GM耐性だがSM感受性の腸球菌性心内膜炎では, (ABPC 2g 4時間ごとまたはPCG 2400万単位)+SM 15mg/kg 24時間ごとを4-6週間投与する. 相乗効果目的で併用する前にSMのMICを確認しておく必要がある.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 腎機能低下/聴神経障害リスク時の代替',
+        'CrCl<50mL/分や第8脳神経障害のリスクがある場合はSM併用よりABPC+CTRXを優先する (ただしE. faeciumへの有効性は確立されていない).\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1846,6 +2311,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '注射剤がないため緊急時の代替にはならない. 主要な相互作用はCYP3A4阻害によるベンゾジアゼピン系, オピオイド, カルシウム拮抗薬等の作用増強であり, 周術期の併用薬リストを必ず確認する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: QT延長のリスク',
+        'サンフォードのQTc延長作用のある抗菌薬リストにクラリスロマイシン(CAM)が含まれる. 女性, 徐脈, 低カリウム/低マグネシウム血症, 他のQT延長薬併用などのリスク因子がある患者では注意する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: CYP3A4を介した相互作用',
+        'マクロライド系薬は血清中濃度を上昇させうる併用薬(CYP3A4基質など)を処方する際は常に薬物相互作用を確認する. 適切な代替薬がない場合は影響を受ける薬物の血中濃度測定と副作用モニタリングを行う.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -1914,6 +2391,12 @@ const List<Drug> kAntimicrobialDrugs = [
         'ワルファリン (プロトロンビン時間延長), シクロスポリン, ジゴキシン, ネルフィナビル, ベネトクラクスとの相互作用が報告されている. クラリスロマイシンに比べCYP3A4阻害は弱いが, QT延長リスクは他のマクロライドと同様に留意する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: QT延長のリスク',
+        'サンフォードのQTc延長作用のある抗菌薬リストにアジスロマイシン(AZM)が含まれる. 先天性QT延長症候群, 低K/Mg血症, 他のQT延長薬併用例では注意する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -1968,6 +2451,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         'NSAIDs併用による痙攣誘発, 制酸剤・経管栄養による吸収低下 (経口時), ワルファリン作用増強, テオフィリン中毒に注意する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: QT延長のリスク',
+        'サンフォードのQTc延長作用のある抗菌薬リストにシプロフロキサシン(CPFX)が含まれる. リスク因子を有する患者や他のQT延長薬併用時は注意する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: キノロン耐性への注意',
+        '地域のE.coliキノロン耐性率が20%以上, または直近6ヶ月以内にキノロン系薬投与歴がある場合, 尿路感染症の経験的治療でCPFXを第一選択とせず, セフェム系や広域β-ラクタム系を検討する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -2043,6 +2538,18 @@ const List<Drug> kAntimicrobialDrugs = [
         'ワルファリンの作用増強, ステロイド併用時の腱断裂リスク増加, QT延長薬 (制吐薬含む) 併用時のTdPリスクに留意する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: QT延長のリスク',
+        'サンフォードのQTc延長作用のある抗菌薬リストにレボフロキサシン(LVFX)が含まれる. リスク因子を有する患者や他のQT延長薬併用時は注意する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: キノロン耐性への注意',
+        '地域のE.coliキノロン耐性率が20%以上, または直近6ヶ月以内にキノロン系薬投与歴がある場合, 尿路感染症の経験的治療でLVFXを第一選択とせず, セフェム系や広域β-ラクタム系を検討する.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2110,6 +2617,12 @@ const List<Drug> kAntimicrobialDrugs = [
         'テオフィリン, NSAIDs, ワルファリン, 副腎皮質ホルモン剤との相互作用に注意する. 経口移行ができないため, 感染症治療継続が必要な場合は静注のまま継続する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 投与経路と重症例での増量',
+        'パズフロキサシン(PZFX)は経口剤がなく注射薬のみのキノロン系抗菌薬. 尿路感染症では通常500mgを1日2回だが, 敗血症合併の重症例では1,000mgを1日2回まで増量できる(ただし保険適応は敗血症合併症例に限る).\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2175,6 +2688,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         '高カリウム血症のリスクがあるため, 周術期は血清カリウムのモニタリングを行う. ワルファリン, メトトレキサート等との相互作用に留意する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 新生児への投与',
+        '小児の尿路感染症の治療・予防投与に用いられるが, 低出生体重児, 新生児への投与は禁忌とされている.\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 妊娠初期の回避',
+        '妊娠初期はキノロン系薬, テトラサイクリン系薬とともにST合剤の使用を避けるべき抗菌薬とされる(妊娠後期に注意すべきはサルファ剤).\n'
+          '[出典] JAID_JSC感染症治療ガイドライン2015_尿路感染症_男性性器感染症',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -2244,6 +2769,27 @@ const List<Drug> kAntimicrobialDrugs = [
         '前庭症状は術後回復期のせん妄・めまい評価と紛らわしいことがある. ワルファリン, スルホニル尿素薬, メトトレキサート, ビタミンA製剤との相互作用に注意する.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 前庭症状に注意',
+        'めまい, 運動失調, 悪心, 嘔吐などの前庭症状の頻度が高く(報告により30~90%), 男性より女性に多いとされる. 術後のふらつきや悪心を麻酔・鎮痛薬の遷延と誤認しないよう注意する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: Mgモニタリングと頭蓋内圧上昇',
+        '製剤にMgを含有し, 腎障害がある場合は血清Mg濃度をモニターする. 長期使用で頭蓋内圧上昇のリスクもあるとされる.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 腎不全でも使用可',
+        '他のテトラサイクリン系薬と異なり, 腎不全の患者にも使用可能とされる. 光線毒性や歯への沈着も他のTC系より少ないとされる.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 通常投与量',
+        '通常成人量は初回200mgを経口/静注, その後100mgを経口/静注で12時間ごと. 静注製剤も入手可能.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2312,6 +2858,23 @@ const List<Drug> kAntimicrobialDrugs = [
         '非脱分極性筋弛緩薬 (ロクロニウム, ベクロニウム等) の作用を増強するため, 術中筋弛緩モニタリングと術後の残存筋弛緩 (遅発性呼吸抑制) に特に注意する. 麻酔科領域で重要な相互作用である.',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 投与量',
+        '経口は0.15~0.45gを6時間ごと, 静注/筋注は600~900mgを8時間ごと. 肥満患者での用量計算は実体重に基づく.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: C. difficile関連下痢のリスク',
+        'クロラムフェニコール, クリンダマイシン, エリスロマイシン系の中でも, クリンダマイシンはC. difficile関連下痢/偽膜性大腸炎の原因薬剤として最も頻度が高いとされる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: ペニシリンアレルギー時の代替',
+        '小児の血行性骨髄炎などでペニシリン系にアレルギーや毒性の懸念がある場合の代替選択肢の一つとして使用される(高用量経口治療への早期切り替えも同様に有効とされる).\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2369,6 +2932,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         'CYP誘導により周術期に使用する麻酔薬・筋弛緩薬・鎮痛薬・抗凝固薬の効果が減弱する可能性があり, 薬剤選択・用量調整時に念頭に置く必要がある. 体液の着色を異常所見と誤認しないよう注意する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: CYP誘導による相互作用',
+        'リファマイシン系は代謝を誘導する薬剤であり, 併用薬(特に他の抗微生物薬)の血中濃度を低下させ治療失敗につながることが知られている. 適切な代替薬がない場合は影響を受ける薬剤の血中濃度測定・副作用モニタリングを行う.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 人工物関連感染症での併用',
+        '人工物関連の骨・関節感染症などでバンコマイシン, ダプトマイシン, リネゾリドにリファンピシン300~450mgを1日2回併用すると再発率が減少するとされる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -2430,6 +3005,12 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の注意',
         'アルコール (消毒薬, 含嗽剤, 一部薬剤の溶媒) によるジスルフィラム様反応のリスクを麻酔科医・看護師間で共有する. ワルファリンの作用増強に注意する. 10日を超える投与では末梢神経障害の発現に十分注意する.',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 嫌気性菌感染症の投与量',
+        '通常7.5mg/kg(~500mg)を静注6時間ごと. 半減期が長いため15mg/kg静注12時間ごとも可. 重症例では初回15mg/kgの負荷投与とし, 1日総量4gを超えないようにする.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -2551,6 +3132,23 @@ const List<Drug> kAntimicrobialDrugs = [
         '腎機能障害のある患者, 高用量・長期投与が必要な深在性真菌症, 従来製剤で忍容性不良な症例において第一選択となる. 大豆由来成分を含むため大豆・落花生アレルギー患者では慎重投与とする',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 使いどころ',
+        'リポソーマル製剤 (アムビゾーム) は抗真菌薬の標準型とされる. 高価で副作用も問題になるが, 使えない症例は少なくエース級の位置づけ.\n[出典] 抗菌薬の考え方_使い方',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 副作用 (infusion reaction)',
+        '投与開始5分以内に胸痛・呼吸困難・低酸素や腹部/側腹部/下肢の激痛が生じる急性infusion reactionが20-40%にみられる. 投与終盤にほてり・じんま疹が出ることも(14%). ジフェンヒドラミン投与と減速/中断で軽快する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 投与速度',
+        '初回は約120分かけて静注し, 忍容性良好なら60分まで短縮可. 投与前後の輸液で腎毒性を軽減できる. 通常製剤より腎毒性は軽いが, infusion reaction率(59% vs 38%)はむしろ高い.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2618,6 +3216,24 @@ const List<Drug> kAntimicrobialDrugs = [
         '経口カプセルと静注液 (ジェネリック含む) の生物学的利用率はほぼ同等であり, 患者の状態に応じて相互にスイッチできる. ホスフルコナゾール (プロジフ) は同じ活性本体を持つ静注専用のプロドラッグである',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 使いどころ',
+        'カンジダ (C. albicans, C. tropicalis, C. parapsilosis) とクリプトコッカスに対するファーストチョイス. PK/PDと安全性に優れた第一選択薬.\n'
+          '[出典] 抗菌薬の考え方_使い方',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: スペクトラムの穴',
+        'C. glabrata, C. kruseiのほとんどはフルコナゾール耐性. これらの真菌感染にはアムホテリシンBやキャンディン系を選択する. アスペルギルスなど糸状菌にも無効.\n'
+          '[出典] 抗菌薬の考え方_使い方',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 相互作用/QT延長',
+        'QTc延長を来しうる抗真菌薬の一つ. 他のQT延長薬併用時や電解質異常のある患者では注意し, 治療前後の心電図モニタリングを考慮する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2680,6 +3296,12 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期における意義',
         '経口製剤がなく静注専用薬であるため, NPO期間中の真菌感染症治療・予防が必要な場合にフルコナゾール錠からの切替, あるいは初期治療薬として選択される',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 使いどころ',
+        'フルコナゾールのプロドラッグ. 輸液量が少ないことが唯一の利点とされるが, 同量のフルコナゾール注射薬(7156円)に対し200mgバイアルで1万円以上と高価で, 臨床的な必然性は乏しいとの指摘がある.\n'
+          '[出典] 抗菌薬の考え方_使い方',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -2745,6 +3367,18 @@ const List<Drug> kAntimicrobialDrugs = [
         '周術期の意義',
         '深在性真菌症治療中でNPOとなる患者において静注剤で治療継続が可能だが, 腎機能に応じて経口剤への早期切替を検討する',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 投与実務',
+        'カプセル・錠剤は食直後の服用で吸収が増すが, 液剤は空腹時に服用する. PPI/H2ブロッカーで吸収低下, 逆に酸性飲料(コーラなど)で吸収が向上する. 血中濃度が不安定なため, 使用2週間後のTDMが推奨されることがある.\n'
+          '[出典] 抗菌薬の考え方_使い方',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 落とし穴',
+        '眼内移行, 中枢神経系透過性がいずれも不良で, 真菌性髄膜炎やカンジダ眼内炎には向かない. In vitro感受性だけで選べる薬ではない典型例とされる.\n'
+          '[出典] 抗菌薬の考え方_使い方',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -2818,6 +3452,24 @@ const List<Drug> kAntimicrobialDrugs = [
         '本剤はCYP3Aに対する強い阻害作用を有するため併用薬に注意する. リファンピシン, カルバマゼピン, ピモジド, キニジン, 麦角アルカロイド, トリアゾラム等多数の薬剤が併用禁忌である',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 用法',
+        'アスペルギルス属など糸状菌感染の第一選択トリアゾール. 静注は初日6mg/kg 12時間ごと(loading)の後4mg/kg 12時間ごと(カンジダ血症では3mg/kg 12時間ごと). 経口は食事の前後1時間を空けて服用する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: TDM',
+        '目標トラフ値1-6μg/mLでTDMを行う. 経口投与では約20%の患者で治療域に届かない血中濃度しか得られないため, 治療失敗が疑われる場合や重症例では血中濃度を確認する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 肝機能調節・副作用',
+        '中等度肝不全では維持量を半量に減量する. まれに重度の肝毒性(肝炎, 胆汁うっ滞, 劇症肝炎)が出るため治療中は肝機能をモニターし, 異常があれば中止する. 光線過敏症も多く重篤化しうる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2886,6 +3538,17 @@ const List<Drug> kAntimicrobialDrugs = [
         '注射用水では力価が低下するため生理食塩液またはブドウ糖注射液で溶解する. 他の輸液・薬剤との配合変化に注意する',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 使いどころ',
+        'カンジダ血症に対するエンピリック治療薬としてカスポファンギンと並び使用頻度が高い. PK/PDにやや課題はあるが安全性は高く, 採用は通常どちらか一方でよいとされる.\n'
+          '[出典] 抗菌薬の考え方_使い方',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 用量',
+        '造血幹細胞移植後の予防投与は50mg静注24時間ごと, カンジダ血症の治療では100mg静注24時間ごとを用いる.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -2945,6 +3608,24 @@ const List<Drug> kAntimicrobialDrugs = [
         'Child-Pugh分類B以上の肝機能障害では維持量の減量が必要である',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 用量・肝機能調節',
+        '初日70mg静注のローディング後, 50mg静注24時間ごとを維持量とする. 中等度以上の肝不全では35mg静注24時間ごとまで減量する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 使いどころ・スペクトラムの穴',
+        '他の抗真菌薬に耐性のカンジダにも殺菌的で, アスペルギルスにも活性がある. 発熱性好中球減少症のエンピリック治療やカンジダ血症, 難治性侵襲性アスペルギルス症に用いる. ただし髄液・尿・眼の硝子体液へは移行せず, 中枢神経系や眼内, 尿路の感染には無効.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 安全性',
+        'AMPH-Bに比べ腎毒性が低い(血清Cr上昇8% vs 21%). 主な副作用は静注部位の掻痒感, 頭痛, 発熱, 悪寒など軽度なものが中心で忍容性は良好.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -3003,6 +3684,12 @@ const List<Drug> kAntimicrobialDrugs = [
         '静注と経口の使い分けは重症度に応じる. 経口プロドラッグのバラシクロビルは静注アシクロビルに近い血中濃度が得られる',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 使いどころ',
+        '単純ヘルペスウイルスによる脳炎/髄膜炎が疑われる場合は, 髄液PCRの結果を待たずに経験的にアシクロビル静注を開始する. HSV髄膜炎にはアシクロビル10mg/kg静注8時間ごとを用いる.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -3060,6 +3747,12 @@ const List<Drug> kAntimicrobialDrugs = [
         '適応',
         '単純疱疹, 帯状疱疹, 水痘, 性器ヘルペスの再発抑制等に用いられる',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 使いどころ',
+        '重症のVZV眼合併症や免疫不全患者では, 静注アシクロビルによる導入後にバラシクロビル1000mg 1日3回などへ経口ステップダウンする. 帯状疱疹の再発予防にはバラシクロビル500mg 1日1回を用いることがある.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [
@@ -3188,6 +3881,23 @@ const List<Drug> kAntimicrobialDrugs = [
         '経鼻弱毒生インフルエンザワクチンの効果を減弱させるおそれがあるため, 接種前後の投与間隔に注意する',
         type: DrugNoteType.packageInsert,
       ),
+      DrugNote(
+        'GL/成書: 投与タイミング',
+        '発症後48時間以内の投与開始が原則だが, 入院患者では発症後5日以内の治療開始でも生存率改善につながる. 重症/進行性インフルエンザや合併症高リスクの入院患者では, 検査結果を待たず全例で経験的投与を開始する.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 腎機能調節',
+        '腎排泄型のため, CrCl 30mL/分未満では減量が必要(通常量75mgから30-45mgへ). 病的肥満患者では150mg 1日2回が使用されることがあるが, FDA未承認である.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 高用量の限界',
+        'A型H1N1に対して高用量(150mg 1日2回)にしても通常量より効果が増大するわけではない.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
     ],
     contraindications: [
       DrugContraindication(
@@ -3242,6 +3952,17 @@ const List<Drug> kAntimicrobialDrugs = [
         '適応の位置づけ',
         '経口・吸入薬が使用できない重症患者, 経口摂取不能例, 耐性ウイルス感染疑い例などで選択される',
         type: DrugNoteType.packageInsert,
+      ),
+      DrugNote(
+        'GL/成書: 用法',
+        '急性で合併症のないインフルエンザには600mg静注1回投与がFDA承認用量. 入院患者への承認用量はないが, 200-400mg静注1日1回を5日間投与する使用法が臨床試験で用いられている.\n'
+          '[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
+      ),
+      DrugNote(
+        'GL/成書: 耐性',
+        'オセルタミビル耐性株(H275Y変異)はペラミビルに対しても中等度耐性を示すため, 単純な切り替えでは効果不十分なことがある.\n[出典] サンフォード感染症治療ガイド_2024',
+        type: DrugNoteType.literature,
       ),
     ],
     contraindications: [

@@ -1,0 +1,6469 @@
+
+
+########## 出典: 術後感染予防抗菌薬適正使用のための実践ガイドライン_抜粋版_2016_ ##########
+
+[[p1]]
+「術後感染予防抗菌薬適正使用のための実践ガイドライン」
+公益社団法人日本化学療法学会一般社団法人日本外科感染症学会
+日本化学療法学会日本外科感染症学会
+術後感染予防抗菌薬適正使用に関するガイドライン作成委員会編
+[[p2]]
+術後感染予防抗菌薬適正使用に関するガイドライン作成委員会
+日本化学療法学会
+委員長：竹末　芳生（兵庫医科大学感染制御学）
+委　員：岸本　裕充（兵庫医科大学歯科口腔外科学）
+久保　正二（大阪市立大学大学院肝胆膵外科学）
+坂本　春生（東海大学医学部付属八王子病院口腔外科）
+鈴木　　崇（いしづち眼科）
+高橋　佳子（兵庫医科大学病院薬剤部）
+橋本　昌樹（兵庫医科大学呼吸器外科）
+保富　宗城（和歌山県立医科大学耳鼻咽喉科・頭頸部外科）
+松下　和彦（川崎市立多摩病院（指定管理者：聖マリアンナ医科大学）整形外科）
+三鴨　廣繁（愛知医科大学大学院医学研究科臨床感染症学）
+山田　浩司（関東労災病院整形外科・脊椎外科）
+山本　新吾（兵庫医科大学泌尿器科）
+柚木　靖弘（川崎医科大学心臓血管外科）
+日本外科感染症学会
+委員長：真弓　俊彦（産業医科大学医学部救急医学講座）
+委　員：岡　　正朗（山口大学）
+北川　雄光（慶應義塾大学医学部一般・消化器外科）
+小西　敏郎（東京医療保健大学医療栄養学科）
+実務委員長：福島　亮治（帝京大学医学部外科）
+実務委員：尾原　秀明（慶應義塾大学医学部外科）
+小林美奈子（三重大学大学院先端的外科技術開発学）
+武田　　茂（山口大学大学院消化器・腫瘍外科学）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+[[p3]]
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+目　　次
+I．	 緒　　言 …………………………………………………………………………………………………………………… 
+II．	 作成方法 …………………………………………………………………………………………………………………… 
+III．	 総　　論 …………………………………………………………………………………………………………………… 
+IV．	 各　　論……………………………………………………………………………………………………………………
+　・Summary（表） ……………………………………………………………………………………………………………
+　・文献 …………………………………………………………………………………………………………………………
+　　．心臓外科……………………………………………………………………………………………………………………
+　　．血管外科……………………………………………………………………………………………………………………
+　　．呼吸器外科…………………………………………………………………………………………………………………
+　　．上部消化管外科（食道，胃） ……………………………………………………………………………………………
+　　．下部消化管外科（小腸，虫垂，結腸・直腸） …………………………………………………………………………
+　　．肝胆膵外科（脾手術も含む） ……………………………………………………………………………………………
+　　．鼠径部ヘルニア根治術……………………………………………………………………………………………………
+　　．耳鼻咽喉科・頭頸部外科…………………………………………………………………………………………………
+　　．口腔外科（耳鼻咽喉科・頭頸部外科も参照） …………………………………………………………………………
+　．歯科…………………………………………………………………………………………………………………………
+　．産科…………………………………………………………………………………………………………………………
+　．婦人科………………………………………………………………………………………………………………………
+　．整形外科……………………………………………………………………………………………………………………
+　．泌尿器科……………………………………………………………………………………………………………………
+　．乳腺外科……………………………………………………………………………………………………………………
+――
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+[[p4]]
+I.　緒　　言
+．目的
+　本ガイドラインは，日本化学療法学会と日本外科感染症学会の DPOTFOTVTTUBUFNFOU である。臨床医が効率的かつ
+適切に術後感染予防抗菌薬（以下予防抗菌薬）を使用することにより，下記の事項を達成し，患者により質の高い医
+療を提供する目的で作成した。①手術部位感染（Surgicalsiteinfection，SSI）減少，②耐性菌発現予防，③抗菌薬に
+よる有害事象防止，④入院期間短縮化，⑤コスト削減，⑥医療スタッフへの教育
+．対象
+　ガイドラインを活用する対象としては，当該手術を行う領域の外科医に加え，病院内のBOUJNJDSPCJBMTUFXBSETIJQ
+QSPHSBN に従事し，予防抗菌薬の適正使用を推進する側の感染対策チーム（*OGFDUJPO$POUSPM5FBN，*$5）を想定
+した。
+．基本姿勢
+　ガイドラインを作成するにあたっての基本姿勢は，欧米のガイドラインを踏襲したものでなく，日本で活用できる
+実際的な勧告を行うことである。特に問題となったのは予防抗菌薬の投与期間である。欧米のガイドラインではほと
+んどすべての術式で 時間以内の短期投与が推奨されている。 しかし日本では広く実施されているが， 欧米では一般
+的ではない手術においては，臨床研究がほとんど行われていない。短期投与の有効性についてのエビデンスがない術
+式では，拡大解釈して短期投与を推奨することは避け，日本での実際の予防抗菌薬使用状況をある程度考慮して勧告
+を行うこととした。
+．留意事項
+　①ガイドラインの位置づけ；ガイドラインはあくまでも標準的な指針であり，本ガイドラインは実際の診療行為を
+決して強制するものではなく，個々の患者の個別性や施設の状況を加味して最終的に方針を決定していただきたい。
+　②保険適応の問題；注射用メトロニダゾールなど従来予防抗菌薬として日本では一般的には使用されてこなかった
+薬剤も勧告したが，いずれの予防抗菌薬も保険適応がとれておらず，適応外の線引きができない背景があったことを
+考慮いただきたい。
+　③多面的なアプローチの必要性；予防抗菌薬適正使用に加え，標準的な周術期管理を並行して実施することが?SSI
+対策には必要である。
+　④小児例：多くの予防抗菌薬に関する臨床試験は成人例を対象としていることから，基本的に小児例に対する勧告
+は行わなかった。
+．特徴
+　本ガイドラインの特徴は以下の如くである。
+　①予防抗菌薬の適応（非使用と比較し使用により低い感染率の証明）と投与期間（短期間投与と長期投与の比較試
+験）に関し推奨グレードとエビデンスレベルを別々に付けた。
+　②日本で通常使用されている予防抗菌薬が必ずしもすべてエビデンスを有しているわけではなく，推奨抗菌薬に関
+しては，抗菌活性，ならびに各領域での使用状況を考慮し提案した。そのためエビデンスレベルや推奨グレードは推
+奨抗菌薬に関しては標記しない方針とした。
+　③ *$5 が外科医に介入しやすく，各施設におけるマニュアル作成の参考になるよう，あえて術式を細分化し，各領
+域において頻度の高い手術をほぼ網羅した（大まかな術式の分類は一見簡便であるが，実際使用するにあたってその
+領域の専門家でない *$5 のメンバーにとってはカルテに記載してある術式がどれに該当するのか不明なことも少な
+くない） 。
+　④?SSI?高リスク因子を定義し，その因子を有する患者では通常患者と区別した勧告を行った。
+．委員構成メンバーと当該領域感染関連学会の関与
+　消化器外科領域にとどまらず， 外科系多領域から委員を迎えた。 各委員の専門性を考慮し執筆する術式を割り当て，
+作成された TVNNBSZ の表や MJUFSBUVSFSFWJFX は領域を超えて検討が行われた。同じ術式であっても異なった  つの
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p5]]
+領域で実施されている場合（耳鼻咽喉科・頭頸部外科と口腔外科など） ，その術式は執筆担当者の領域に分類したが，
+実地臨床において各領域で扱う術式を限定する意図はないことをご理解いただきたい。
+　ガイドライン作成まで一年以上を要したが，各委員からの積極的な意見を取り入れ，また関連学会の皆様から多数
+のコメントをいただき，欧米にもない本来の意味の「実践ガイドライン（DMJOJDBMQSBDUJDFHVJEFMJOF） 」になったと自
+負している。一部の外科系領域で勧告が行えなかったが，今後，追補や改訂によって対応できればと考えている。こ
+のガイドラインを活用し，*$5 が苦手とする傾向のある外科系への介入を進め，多くの施設で予防抗菌薬適正使用が
+普及することを期待する。
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p6]]
+II.　作成方法
+．本ガイドラインの作成経過
+　 年 月に日本化学療法学会と日本外科感染症学会から委員を選出し， 「術後感染予防抗菌薬適正使用のための
+実践ガイドライン」作成が開始された。下記の作成手順でドラフト版を作成し，パブリックコメントを募集した。そ
+れを反映し， 年に FYFDVUJWF TVNNBSZ を両学会ホームページに掲載するとともに，両学会雑誌に MJUFSBUVSF
+SFWJFX も併せ発表した。学会員以外での活用も考慮し冊子も発刊する。
+．本ガイドライン作成方法
+　各術式での予防抗菌薬投与の臨床研究を 1VC.FE および医学中央雑誌 8FC 版を用いて検索し，無作為化比較試験
+（RCT）?，メタ解析，システマティック・レビューを中心に知見を収集した。ただしエビデンスが十分でない外科系領
+域もありコホート研究，比較対照試験，症例集積研究なども参照した。
+　エビデンスレベルと推奨グレードは表  に示す定義に従って決定した。エビデンスレベル* または ** で，科学的根
+拠がある場合は，推奨グレードは " または # とした。ただし " と # の差別化はエビデンスの強さに影響されること
+なく，日本での医療状況等を考慮し，委員の協議により決定した。
+　通常， ガイドライン作成にあたって問題となる点は， 「エビデンスはないが実施することが勧められる事項」 と 「エ
+ビデンスがなく推奨できない事項」とが明確に区別できないことである。そのため本ガイドラインではエビデンスが
+ない事項（グレード ***）については，推奨レベルに $（勧める場合） ，$（勧めない場合）という区分を設けた。
+．外部評価
+　ガイドライン案が作成された後， 年 ～ 月にかけて関連学会（表 ）にパブリックコメントを求めた（整形
+外科領域はドラフト版の周知にとどめた） 。 いただいたコメントをもとに， ガイドライン作成方法の記述を追加し， 手
+術術式の細分化を図るなど，改変を行った。また，脳神経外科および眼科領域における勧告は，関連学会からのコメ
+ントに従い今回見送ることとした。
+表 1.　推奨グレード，エビデンスレベルの定義
+区分/等級 定義
+エビデンスレベル
+I 一つ以上の無作為化比較試験による証拠
+II 無作為化はされていないが， よくデザインされた臨床試験 ； コホー
+ト（集団）または case-controlled（患者対照）解析研究（複数の
+施設での実施が望ましい） ；多時系列；非対照試験から得られた
+画期的な結果，による証拠
+III 専門家の意見；臨床経験に基づく証拠；記述的研究；専門委員会
+からの報告，による証拠
+推奨グレード
+A 科学的根拠があり，行うように強く勧められる
+B 科学的根拠があり，行うように勧められる
+C1 科学的根拠はないが，行うように勧められる
+C2 科学的根拠がなく，行わないように勧められる
+D 無効性や害を示す科学的根拠があり，行わないように勧められる
+Unresolved issue；現状では明確な勧告を示せない事項
+表 2.　パブリックコメントをいただいた学会の一覧 （50 音順）
+日本眼感染症学会， 日本血管外科学会， 日本口腔感染症学会，
+日本口腔外科学会，日本産科婦人科学会，日本産婦人科感染
+症学会，日本耳鼻咽喉科学会，日本消化器外科学会，日本脳
+神経外科学会
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p7]]
+．改訂
+　 年後を目安に両学会から委員を選出し改訂を行う。ただし，診療上の変化やガイドラインに影響する重要なエビ
+デンスが発表された場合，また今回見送った外科系領域における勧告に関して強い要望があった場合，それ以前に追
+補や改訂を行うことがある。
+．資金，利益相反
+　本ガイドラインは，日本化学療法学会ならびに日本外科感染症学会の資金で作成し，他の外部からの資金提供は受
+けていない。日本化学療法学会が定める利益相反の基準に沿って，各委員は利益相反の有無やその内容を申告した。
+もし利害関係がある場合には，関連する製品の推奨に関する審議には関与しないこととした。
+．臨床指標
+　ガイドライン発表後は，ガイドラインの普及程度，また，その効果を評価するために，臨床指標を明示し，そのモ
+ニタリングを行うことが勧められている。各術式で推奨されている予防抗菌薬の選択や使用期間，投与のタイミング
+などのモニタリングは普及の指標となりうる。また，効果指標としては，SSI?発生率，入院期間，医療費などの因子
+が用いられる。日本における多施設での検討は本委員会が計画するが，各施設において本ガイドラインに基づいてマ
+ニュアルを作成した場合，施設での遵守状況の定期的な評価も行っていただきたい。
+Conflict	of	interest（COI）
+　竹末芳生は，旭化成ファーマ株式会社，第一三共株式会社，大正富山医薬品株式会社，大日本住友製薬株式会社，
+ファイザー株式会社，.FJKJ4FJLB ファルマ株式会社，アステラス製薬株式会社，.4% 株式会社より講演料を受けて
+いる。
+　竹末芳生は，大正富山医薬品株式会社，塩野義製薬株式会社，アステラス製薬株式会社より奨学寄附金を受けてい
+る。
+　鈴木　崇は，参天製薬株式会社より講演料および研究費を受けている。
+　保富宗城は，ファイザー株式会社，第一三共株式会社，大正富山医薬品株式会社，ジャパンワクチン株式会社より
+奨学寄付金を受けている。
+　三鴨廣繁は，富山化学工業株式会社より顧問料を受けている。
+　三鴨廣繁は，アステラス製薬株式会社，.4% 株式会社，グラクソ・スミスクライン株式会社，塩野義製薬株式会
+社，第一三共株式会社，大正富山医薬品株式会社，大日本住友製薬株式会社，ファイザー株式会社，.FJKJ4FJLB ファ
+ルマ株式会社より講演料を受けている。
+　三鴨廣繁は，.4% 株式会社，大正富山医薬品株式会社より原稿料を受けている。
+　三鴨廣繁は，杏林製薬株式会社，富山化学工業株式会社，バイエル薬品株式会社，大正製薬株式会社，日本ベーリ
+ンガーインゲルハイム株式会社より研究費を受けている。
+　三鴨廣繁は，.4% 株式会社， 第一三共株式会社， 大正富山医薬品株式会社， 大日本住友製薬株式会社， 武田薬品工
+業株式会社，富山化学工業株式会社，ファイザー株式会社，富士フイルムファーマ株式会社，.FJKJ4FJLB ファルマ株
+式会社より奨学寄付金を受けている。
+　山本新吾は，ノバルティスファーマ株式会社，ファイザー株式会社，アストラゼネカ株式会社より奨学寄付金を受
+けている。
+　真弓俊彦は，旭化成ファーマ株式会社より講演料を受けている。
+　真弓俊彦は，ファイザー株式会社より奨学寄付金を受けている。
+　北川雄光は，平田医院，ケイアイクリニックより顧問料を受けている。
+　北川雄光は，小野薬品工業株式会社より講演料を受けている。
+　北川雄光は， 旭化成ファーマ株式会社， 大塚製薬工場， 大塚製薬株式会社， 興和創薬株式会社， 第一三共株式会社，
+大鵬薬品工業株式会社，武田薬品工業株式会社，中外製薬株式会社，帝人ファーマ株式会社，株式会社ヤクルト本社
+より奨学寄付金を受けている。
+　北川雄光は，大鵬薬品工業株式会社，中外製薬株式会社，テルモ薬品株式会社，鳥居薬品株式会社，アストラゼネ
+カ株式会社，小野薬品工業株式会社，ノバルティスファーマ株式会社，株式会社ヤクルト本社より寄付講座の資金援
+助を受けている。
+　小林美奈子は，ジョンソン・エンド・ジョンソン株式会社，塩野義製薬株式会社より寄付講座の資金援助を受けて
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p8]]
+いる。
+　岸本裕充，久保正二，坂本春生，高橋佳子，橋本昌樹，松下和彦，山田浩司，柚木靖弘，岡　正朗，小西敏郎，福
+島亮治，尾原秀明，武田　茂は申告すべきものなし。
+本ガイドラインで使用された主な抗菌薬の略号（日本で上市されていない抗菌薬は，略号を用いず英語記載とした）
+CEZ：セファゾリン，CTM：セフォチアム，CMZ：セフメタゾール，CTRX：セフトリアキソン，FMOX：フロモ
+キセフ，SBTABPC：スルバクタムアンピシリン，TAZPIPC：タゾバクタムピペラシリン，MNZ：メトロニダ
+ゾール，CLDM：クリンダマイシン，VCM：バンコマイシン，AZT：アズトレオナム，GM：ゲンタマイシン，LVFX：
+レボフロキサシン，GFLX：ガチフロキサシン，MFLX：モキシフロキサシン，FOM：ホスホマイシン，AMPC：ア
+モキシシリン，AMPCCVA：アモキシシリンクラブラン酸
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p9]]
+III.　総　　論
+．目的
+　a．予防抗菌薬の目的は，手術部位感染（SSI）発症率の減少とされており，原則として遠隔部位感染は対象とされ
+ていない
+～）
+。
+　C．予防抗菌薬は組織の無菌化を目標にするのではなく，術中汚染による細菌量を宿主防御機構でコントロールで
+きるレベルまでに下げるために補助的に使用する
+）
+。
+．適応
+　a．予防抗菌薬は，ランダム化臨床試験（RCT）により非使用の場合と比較し有意に?SSI?が低率となる手術におい
+て適応となる
+～）
+（AI）?。ただし多くの清潔創（クラスI）では，本来?SSI?発症率がきわめて低率であり，予防抗
+菌薬の有用性の証明は困難である。
+　C．3 $ 5での証拠がない場合でも，ひとたび感染が起こると重篤な結果を招くような手術（脳神経外科，心臓血管
+外科手術など）や?SSI?リスク因子を有する症例（．参照）では予防抗菌薬の適応とする
+）
+（$***）。
+　D．手術創分類（表 ）から見た適応：
+）クラス *：一部で抗菌薬の使用は不要である（%**）。
+）クラス **：予防抗菌薬の適応とする
+，）
+（"*）。
+）クラスIII：SSI?リスク因子の存在を参考に予防抗菌薬または治療抗菌薬の選択を検討する。リスク因子を認
+めない症例は予防抗菌薬の範疇とし
+，）
+，SSI?高リスク症例では治療的に抗菌薬を使用し，選択や投与期間は予防
+投与と異なった考え方で行う（$***）。
+）クラス?IV：予防でなく，治療的に抗菌薬を使用する
+）
+（%*）。
+．予防抗菌薬選択の基準
+　B．原則として手術部位の常在細菌叢に抗菌活性を有する薬剤選択を行い
+）
+（"*） ， 術後感染の原因細菌をターゲット
+にしない（表 ）。
+　C．手術操作が及ぶ部位から常在細菌以外の細菌が検出されている症例では，その細菌に活性を有する抗菌薬を選
+択する
+～）
+（$***）。
+　D．術前 カ月以内に抗菌薬使用歴のある症例では， 本ガイドラインで推奨されている予防抗菌薬 （各論参照） は適
+応とならない（$***）。
+　E．β⊖ラクタム薬のアレルギーがある場合の選択（表  および各論参照）
+）
+?）グラム陽性菌のみをターゲットとする手術：クリンダマイシン（CLDM）またはバンコマイシン（VCM）
+?）グラム陽性菌，グラム陰性菌を考慮する手術：CLDM?または?VCM?と，アミノグリコシド系薬またはフルオ
+ロキノロン系薬またはアズトレオナム（AZT）との併用。
+表 1.　創クラス分類
+創クラス 定義
+I．清潔創
+clean wound
+1．炎症のない非汚染手術創，2．呼吸器，消化器，生殖器，尿路系に対する手術は含まれない，
+3．1 期的縫合創，4．閉鎖式ドレーン挿入例，5．非穿通性の鈍的外傷
+II．準清潔創
+clean-contaminated wound
+1．呼吸器，消化器，生殖器，尿路系に対する手術，2．著しい術中汚染を認めない場合が該当，
+3．感染がなく，清潔操作がほぼ守られている胆道系，虫垂，腟，口腔・咽頭手術， 4．開放式ド
+レーン挿入例，5．虫垂炎，胆嚢炎，絞扼性イレウス（小範囲）で，周囲組織・臓器を汚染する
+ことなく病巣を完全に摘出・切除した症例
+III．不潔創
+contaminated wound
+1．早期の穿通性外傷（事故による新鮮な開放創） ，2．早期の開放骨折，3．清潔操作が著しく守
+られていない場合（開胸心マッサージなど） ，4．術中に消化器系から大量の内容物の漏れが生じ
+た場合，5．胃十二指腸穿孔後 24 時間以内，6．適切に機械的腸管処置が行われた大腸内視鏡検
+査での穿孔（12 時間以内） ，7．急性非化膿性炎症を伴う創
+IV．汚染―感染創
+dirty-infected wound
+1．壊死組織の残存する外傷，2．陳旧性外傷，3．臨床的に感染を伴う創，4．消化管穿孔例（ク
+ラス III，5，6 以外）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p10]]
+ ）グラム陽性菌，グラム陰性菌，嫌気性菌を考慮する手術：アミノグリコシド系薬またはフルオロキノロン系
+薬にメトロニダゾール（MNZ）?（下部消化管，婦人科手術）またはCLDM（口腔・咽頭手術）の併用。消化
+管手術におけるホスホマイシン?（FOM）とMNZ?併用による予防投与も報告されているが
+～）
+，'0. の 回
+量 H と日本で認められている  回投与量の H を大きく超えており本ガイドラインでは推奨しなかった。
+表 2.　手術別の術中汚染菌と予防抗菌薬の選択
+1．皮膚常在菌のみを予防抗菌薬のターゲットとする手術
+領域 臓器 ターゲットとする皮膚常在菌＊ 主な予防抗菌薬
+心血管外科 心臓，血管
+黄色ブドウ球菌，連鎖球菌 CEZ，SBT/ABPC など
+一般外科 乳腺，ヘルニア（鼠径など） ，
+脾
+整形外科 骨，関節，筋
+脳神経外科 脳，神経
+眼科 眼，眼付属器（涙道を除く）
+2．皮膚常在菌に加え，臓器特有の常在菌を予防抗菌薬のターゲットとする手術
+領域 臓器 ターゲットとする 
+臓器特有の常在菌＊ 主な予防抗菌薬
+消化器外科（消化管） ，
+泌尿器科（消化管利用）
+上部消化管（食道，胃，空腸） 大腸菌，肺炎桿菌 CEZ など
+下部消化管（回腸， 結腸， 直腸，
+肛門）
+Bacteroides fragilis （B. fragilis ）
+グループ，腸内細菌科細菌 CMZ，FMOX，CEZ＋MNZ など
+耳鼻咽喉科 （口腔を開
+放） ，口腔外科 口腔，咽頭，喉頭 口腔内嫌気性菌，連鎖球菌 SBT/ABPC，CMZ，FMOX など
+耳鼻咽喉科（口腔を開放
+しない） 耳，鼻 黄色ブドウ球菌，連鎖球菌 CEZ など
+婦人科 腟・子宮 B. fragilis グループ，腸内細菌科
+細菌 CMZ，FMOX，CEZ＋MNZ など
+眼科 涙道 黄色ブドウ球菌，連鎖球菌 CEZ など
+3．臓器には常在菌は存在しないが，隣接する消化管（口腔・咽頭，十二指腸，小腸，大腸）の常在菌
+＊＊を予防抗菌薬のターゲット
+とする手術
+領域 臓器 隣接する消化管 の常在菌 主な予防抗菌薬
+泌尿器 尿道，膀胱，尿管，腎，前立腺 腸内細菌科細菌 CEZ，CTM，SBT/ABPC，アミ
+ノグリコシド系薬など
+消化器外科（肝胆膵） 肝，胆嚢，胆管，膵 腸内細菌科細菌 CEZ，CTM など
+胸部外科（気道が胸腔内
+で開放される場合） 肺，気管 口腔内嫌気性菌，連鎖球菌 SBT/ABPC など
+＊： 皮膚ではコアグラーゼ陰性ブドウ球菌， 下部消化管では腸球菌が主な常在菌の一つであるが， 予防抗菌薬によるカバーは行わない。
+＊＊：①隣接消化管常在菌による術前からの尿路（尿） ，前立腺，胆道（胆汁）へのcolonization の可能性や，②当該手術の術中操作
+において隣接消化管常在菌が術中汚染菌となる可能性。
+表 3.　β―ラクタム薬アレルギーがある場合の選択
+手術の創クラス
+必要な抗菌スペクトラムと抗菌薬選択
+グラム陽性菌 グラム陰性菌 嫌気性菌
+清潔創 CLDM，VCM
+準清潔創 アミノグリコシド系薬， 
+フルオロキノロン系薬，AZT＋CLDM/VCM
+準清潔創（下部消化管，婦人
+科手術，口腔・咽頭手術）
+アミノグリコシド系薬， 
+フルオロキノロン系薬
+MNZ（下部消化管， 婦人科） ，
+CLDM（口腔・咽頭）
+VCM，アミノグリコシド系薬使用時は腎機能障害を考慮。アミノグリコシド系薬で 48 時間を超える投与が予
+定されている場合は治療薬物血中濃度モニタリング（TDM）実施。
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p11]]
+．投与のタイミング
+　B．手術が始まる時点で， 十分な殺菌作用を示す血中濃度， 組織中濃度が必要であり， 切開の 時間前以内に投与を
+開始する
+，）
+（"**）。
+　b．VCM?とフルオロキノロン系薬は??時間前以内に投与を開始する
+，）
+（$***）。
+　D．整形外科領域などで駆血のためにターニケットを使用する場合は， 少なくとも加圧する～ 分前に抗菌薬の投
+与を終了する
+～）
+（$***）。
+　d．帝王切開では新生児への影響を考慮し臍帯をクランプした後の投与が行われていたが，母体のSSI?や子宮内膜
+炎などの予防目的で，他の手術と同様に切開の  時間以内の投与を推奨する
+，）
+（#**）。
+　F．術中再投与
+ ）長時間手術の場合には術中の追加再投与が必要である
+，，，）
+（$***） 。一般に半減期の 倍の間隔での再投与
+が行われ，?セファゾリン?（CEZ）で?は～?時間ごとであり，?その他の抗菌薬はその半減期を参考に再投与を行う
+ことが望ましい
+）
+（表 ） 。なお初回再投与までの間隔は，手術開始時からでなく，術前抗菌薬投与終了時からの時
+間とする。
+ ）腎機能低下症例では，腎機能に応じて，再投与の間隔を延長する
+，）
+（$***）（ 表）。
+ ）短時間に 
+mL?以上の大量出血が認められた場合，決められた再投与間隔を待たずに追加投与を考慮す
+る
+）
+（$***）。
+　f．術後も抗菌薬投与を継続する場合の投与間隔は，セフトリアキソン（CTRX）を除くセファロスポリン系薬では
+ 時間（ 日  回）を基本とし，初回術後投与は術前投与もしくは最終の再投与から  時間後とする。なお腎機
+能低下患者では腎機能にあわせ投与間隔を延長する（$***）。
+．投与量
+　B．予防抗菌薬であっても治療量を用いる
+）
+（"**）。
+表 4.　各抗菌薬における術中再投与のタイミング
+抗菌薬 半減期 
+（腎機能正常者）
+再投与の間隔（時間）
+eGFR-IND＊（mL/分）
+≧50 20 ～ 50 ＜20
+CEZ 1.2 ～ 2.2 時間 3 ～ 4 8 16
+SBT/ABPC 0.8 ～ 1.3 時間 2 ～ 3 6 12
+PIPC 1.3 時間 2 ～ 3 6 12
+CMZ 1 ～ 1.3 時間 2 ～ 3 6 12
+CTM 60 ～ 68 分 2 5 10
+FMOX 50 分 2 5 10
+AZT 1.6 ～ 1.8 時間 3 ～ 4 8 ～ 10 12 ～ 16
+CTRX 5.4 ～ 10.9 時間 12
+CLDM 2 ～ 4 時間 6
+CPFX 3 ～ 7 時間 8 12 適応外
+LVFX 6 ～ 8 時間 報告なし
+GM 2 ～ 3 時間 5 薬剤師と相談 適応外
+VCM 4 ～ 8 時間 8 16 適応外
+TEIC 85.7 時間 12＊＊
+MNZ 6 ～ 8 時間 8
+＊eGFR-IND（mL/min）＝eGFR（mL/分/1.73 m2）×（患者体表面積/1.73 m2）
+eGFR（mL/min/1.73 m 2）は患者の体表面積（body surface area，BSA）が国際的成人標
+準（1.73 m 2）と仮定した normalized BSA eGFR であり，標準体表面積を個々の患者の
+体表面積に変換（conversion）したのが，individualized BSA eGFR（eGFR-IND）（mL/min）
+である。欧米のノモグラムを使用する場合 Cockcroft-Gault 式によるクレアチニンクリ
+アランスではなく eGFR-IND が推奨されている。患者が標準体格の場合に限り簡便性の
+面から eGFR（mL/min/1.73 m2）を代替指標とすることも可能である。
+＊＊：半減期以外の因子が関与。
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p12]]
+　C．過体重肥満患者に対しては抗菌薬の増量が必要である
+）
+（表 ，$***）。
+．投与期間（術式別の推奨投与期間は各論参照）
+　予防抗菌薬は，手術患者のほぼ全例に投与されるため，耐性菌選択予防の観点から，長期投与と比較し同等の?SSI
+予防効果が得られる短期投与期間の設定が必要となってくる。しかし必ずしもすべての術式で?RCT?による適切な予
+防抗菌薬の投与期間が証明されている訳ではない。そのため本ガイドラインでは外科系多領域の感染症専門家からな
+る本委員会委員の意見をもとに投与期間を示した。また?SSI?が高率となるリスク因子を有する症例において，明確な
+証拠はないものの，いくつかの術式で通常推奨されている期間より長期投与を推奨した。なお投与期間は原則注射用
+抗菌薬において勧告した。なお推奨投与期間を超えた経口抗菌薬の追加投与は不要である。
+　B．4 4 *は術中における細菌による汚染が原因であり， 手術終了後数時間適切な抗菌薬濃度が維持されれば術後の投
+与は必要がないとする報告が多い。実際多くの?RCT?やメタ解析で術前??回投与は，より長期投与と比較し?SSI
+発症率において非劣性が証明されている
+，）
+。しかし本ガイドラインではこの術前  回投与（長時間手術では術
+中再投与）の適応となる術式は?SSI?が比較的低率な術式に限定し，術後??時間以内の投与を中心に勧告を行っ
+た。
+　C．心臓手術においては， 時間投与で胸骨創感染などが高率となることが報告されており， 時間投与が推奨さ
+れている
+，）
+。また，日本で広く実施されている侵襲度が高く，SSI?が高率な術式においては，RCT?で短期投与
+の妥当性が証明されていない限り，現状に鑑み ～ 時間の勧告も行った。ただし  時間を超える予防抗菌
+薬使用は耐性菌による術後感染のリスクとなる
+）
+ことが知られており， 比較試験で長期投与の有用性が証明され
+た場合や当該領域の感染症専門家や学会からの要望などの一部の例外を除き  時間までの投与期間とした。
+．SSI?高リスク因子症例における予防抗菌薬使用方針
+　SSI?高リスク因子を有する症例を対象として，予防抗菌薬の適応や投与期間に関する比較試験は行われていないと
+の理由で，本ガイドラインではいくつかの術式において通常症例と差別化した勧告を行った。SSI?高リスクの定義を
+参考にして，①予防抗菌薬が必要とされていない術式における使用，②予防でなく治療抗菌薬の必要性，③投与期間
+の延長などを決定した。
+　SSI?高リスク因子の定義：以下のいずれかに該当する場合とする。
+　①米国麻酔学会術前状態分類≧
+）
+（糖尿病など）
+　②創クラス ***
+）
+（IV?は予防抗菌薬適応外）
+　③長時間手術
+）
+（各術式における手術時間＞QFSDFOUJMF）
+　④ CPEZNBTTJOEFY≧
+～）
+　⑤術後血糖コントロール不良（＞mgdL）
+～）
+　⑥術中低体温（＜℃）
+～）
+　⑦緊急手術
+，）
+　⑧ステロイド・免疫抑制剤の使用
+，）
+　⑨術野に対する術前放射線照射
+，）
+表 5.　予防抗菌薬 1 回投与量
+抗菌薬
+1 回投与量
+通常 ≧80 kg
+CEZ 1 g 2 g（≧120 kg，3 g）
+CMZ 1 g 2 g
+FMOX 1 g 2 g
+CTM 1 g 2 g
+SBT/ABPC 1.5 ～ 3.0 3.0
+MNZ 500 mg 500 mg（術中再投与しない場合 1,000 mg）
+VCM 15 mg/kg（実測体重，最大 2 g まで）
+TEIC 12 mg/kg（術前単回使用時）
+GM 5 mg/kg（肥満における体重の調整：理想体重＋超過体重×0.4）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p13]]
+　⑩高齢者
+）
+（年齢に関しては症例ごとに評価）
+．グリコペプチド系薬〔VCMテイコプラニン（TEIC）?〕の予防投与
+　B．適応
+　）術前?MRSA?保菌（鼻前庭など）患者
+，～）
+（#**）。
+　）術前に手術操作の及ぶ部位から?MRSA?が検出されている場合（胆道ドレナージ症例における胆汁，熱創傷，尿
+路など）
+～）
+（$***）。
+　）心臓手術，胸部大血管手術，人工関節置換術，脊椎インストゥルメンテーション手術（インプラント挿入）など
+において，同一施設で?MRSA?による?SSI?の多発発症が認められた場合，一定期間における抗?MRSA?薬の予防投与の
+必要性を感染対策チーム（*$5）または感染症の専門家とともに検討する
+，～）
+（$***）。
+　） 人工関節置換術， 脊椎インストゥルメンテーション手術 （インプラント挿入） において， 同一施設でメチシリン
+耐性のコアグラーゼ陰性ブドウ球菌（CNS）による?SSI?の多発発症が認められた場合，全症例に対する抗?MRSA?薬
+の予防投与は慎重であるべきだが，その適応を *$5 または感染症の専門家とともに検討してもよい
+，）
+（$***）。
+　）β⊖ラクタム薬アレルギー患者
+，，）
+：グリコペプチド系薬の適応は各論で記載されたレジメンに従う。
+　C．方法
+　）VCM?では執刀前??時間以内に投与開始し
+）
+（$***） ，レッドネック症候群に注意して 時間以上かけて投与す
+る。TEIC?では??時間以内に投与する。
+　）投与量：①?VCM??回投与量：～mgkg（?回?g?を上限とする）?，複数回投与する場合は?日??回。②
+TEIC：mgkg?または?mg?の単回投与が行われてきたが
+）
+，通常の負荷投与が行えないため， 回投与量の増量
+（mgkg）が必要との報告が多い
+，）
+。術翌日以降も使用する場合は，通常の??回量（mg?など）とし，負荷投
+与の必要性などは各施設のマニュアルに従う。
+　）投与期間：①鼻前庭などの術前?MRSA?保菌（鼻前庭など）患者：単回または??回（腎機能正常，?時間以内）
+投与
+，）
+（BII）?。?②術前に手術操作の及ぶ部位からMRSA?が検出されている場合や，β⊖ラクタム薬アレルギーで使用す
+る場合：各論で示されている各術式の予防抗菌薬投与期間に従う （投与期間の推奨度は各論参照） 。 熱傷創などに植皮
+する場合はより長期の投与が必要なことが多い。
+　）他剤との併用（
+β⊖ラクタム系薬アレルギー目的以外でグリコペプチド系薬を使用する場合） ：①メチシリン感受
+性黄色ブドウ球菌やグラム陰性菌のカバー目的で β⊖ラクタム系薬と併用する
+，，，）
+（"**） 。②グリコペプチド系薬の
+投与期間は ～ 回（ 時間を超えない）であるが，β⊖ラクタム系薬の投与期間は各術式で推奨されている投与期間
+（各論）に従う。
+　）MRSA?除菌：グリコペプチド系薬予防投与に加え，鼻腔内保菌者は術前における鼻腔へのムピロシン軟膏塗布
+による除菌を  日  回  日間行う
+～）
+（BII）?。鼻腔内MRSA?保菌者では同時に皮膚にも高率に保菌しており，その除
+菌法として ％クロルヘキシジングルコン酸塩スクラブ （ヒビスクラブ
+Ⓡ
+など） を用いたシャワー入浴， 日  回  日
+間も行われている
+～）
+（$***） 。 （日本ではクロルヘキシジンの粘膜面への使用は禁忌となっていることを留意して使
+用。皮膚アレルギー症状が出れば中止。 ）
+　c．MRSA?保菌スクリーニング
+　）全手術患者に対してルーチンの術前?MRSA?保菌スクリーニングは推奨しない
+，，～）
+（$***）。
+　）心臓手術，胸部大血管手術，人工関節置換術，脊椎インスツルメンテーション手術（インプラント挿入）など
+MRSA?感染高リスク手術においては，MRSA?を保菌している可能性が高い患者（MRSA?感染の既往，転院または最
+近の入院歴，?長期療養型病床群もしくは介護施設に入所，?血液透析施行中など）?を対象として術前に鼻腔などのMRSA
+保菌のスクリーニングを考慮する
+，）
+（$***）。
+　） 術前胆道ドレナージ施行例では胆汁培養を施行しその結果を参考に予防抗菌薬の選択を行う
+）
+（$***） 。 〔内視鏡
+的逆行性胆道ドレナージ（&3#%）など内瘻ドレナージでは，手技実施時にのみ胆汁の採取が可能〕
+文　　献
+ ）.BOHSBN"+
+)PSBO5$
+1FBSTPO.-
+4JMWFS$-
++BSWJT35IF)PTQJUBM*OGFDUJPO1SBDUJDFT"EWJTPSZ$PN
+NJUUFF(VJEFMJOFGPSQSFWFOUJPOPGTVSHJDBMTJUFJOGFDUJPO
+*OGFDU$POUSPM)PTQ&QJEFNJPM
+ ）#SBU[MFS%8
+%FMMJOHFS&1
+0MTFO,.
+1FSM5.
+"VXBFSUFS1(
+#PMPO.,
+FUBM$MJOJDBMQSBDUJDFHVJEFMJOFT
+GPSBOUJNJDSPCJBMQSPQIZMBYJTJOTVSHFSZ"N+)FBMUI4ZTU1IBSN
+ ）"4)15IFSBQFVUJD(VJEFMJOFTPO"OUJNJDSPCJBM1SPQIZMBYJTJO4VSHFSZ"NFSJDBO4PDJFUZPG)FBMUI4ZTUFN
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p14]]
+1IBSNBDJTUT"N+)FBMUI4ZTU1IBSN
+ ）+POFT%+
+#VOO'
+#FMM4ZFS471SPQIZMBDUJDBOUJCJPUJDTUPQSFWFOUTVSHJDBMTJUFJOGFDUJPOBGUFSCSFBTUDBODFS
+TVSHFSZ$PDISBOF%BUBCBTF4ZTU3FW$%
+ ）.BUTVJ:
+4BUPJ4
+,BJCPSJ.
+5PZPLBXB)
+:BOBHJNPUP)
+.BUTVJ,
+FUBM"OUJCJPUJDQSPQIZMBYJTJOMBQBSP 
+TDPQJDDIPMFDZTUFDUPNZBSBOEPNJ[FEDPOUSPMMFEUSJBM1-P40OFF
+ ）4PMPNLJO+4
+.B[VTLJ+&
+#SBEMFZ+4
+3PEWPME,"
+(PMETUFJO&+
+#BSPO&+
+FUBM%JBHOPTJTBOENBOBHFNFOU
+PGDPNQMJDBUFEJOUSBBCEPNJOBMJOGFDUJPOJOBEVMUTBOEDIJMESFOHVJEFMJOFTCZUIF4VSHJDBM*OGFDUJPO4PDJFUZ
+BOEUIF*OGFDUJPVT%JTFBTFT4PDJFUZPG"NFSJDB4VSH*OGFDU	-BSDINU
+
+ ）.B[VTLJ+&
+4BXZFS3(
+/BUIFOT"#
+%J1JSP+5
+4DIFJO.
+,VETL,"
+FUBM5IF4VSHJDBM*OGFDUJPO4PDJFUZ
+HVJEFMJOFT PO BOUJNJDSPCJBM UIFSBQZ GPS JOUSBBCEPNJOBM JOGFDUJPOT BO FYFDVUJWF TVNNBSZ 4VSH *OGFDU
+	-BSDINU
+
+ ）%POBME(8
+4VOKBZB%
+-V9
+$MFSLJO#
+&JCM(
+-J(
+FUBM1FSJPQFSBUJWFBOUJCJPUJDTGPSTVSHJDBMTJUFJOGFDUJPO
+JOQBODSFBUJDPEVPEFOFDUPNZEPFTUIF4$*1BQQSPWFESFHJNFOQSPWJEFBEFRVBUFDPWFSBHF 4VSHFSZ
+
+ ）:BOBHJNPUP)
+4BUPJ4
+:BNBNPUP5
+5PZPLBXB)
+)JSPPLB4
+:VJ3
+FUBM$MJOJDBMJNQBDUPGQSFPQFSBUJWF
+DIPMBOHJUJTBGUFSCJMJBSZESBJOBHFJOQBUJFOUTXIPVOEFSHPQBODSFBUJDPEVPEFOFDUPNZPOQPTUPQFSBUJWFQBODSF
+
+BUJDGJTUVMB"N4VSH
+）4VEP5
+.VSBLBNJ:
+6FNVSB,
+)BTIJNPUP:
+,POEP/
+/BLBHBXB/
+FUBM1FSJPQFSBUJWFBOUJCJPUJDTDPWFSJOH
+CJMFDPOUBNJOBUJPOQSFWFOUBCEPNJOBMJOGFDUJPVTDPNQMJDBUJPOTBGUFSQBODSFBUPEVPEFOFDUPNZJOQBUJFOUTXJUI
+QSFPQFSBUJWFCJMJBSZESBJOBHF8PSME+4VSH
+）"OEÆLFS-
+#VSNBO-(
+&LMVOE"
+(SBGGOFS)
+)BOTTPO+
+)FMMCFSH3
+FUBM'PTGPNZDJONFUSPOJEB[PMFDPN
+
+QBSFEXJUIEPYZDZDMJOFNFUSPOJEB[PMFGPSUIFQSPQIZMBYJTPGJOGFDUJPOBGUFSFMFDUJWFDPMPSFDUBMTVSHFSZ"
+SBOEPNJTFEEPVCMFCMJOENVMUJDFOUSFUSJBMJOQBUJFOUT&VS+4VSH
+）/IS.
+"OEFSTFO+$
++VVM+FOTFO,&1SPQIZMBDUJDTJOHMFEPTFGPTGPNZDJOBOENFUSPOJEB[PMFDPNQBSFEXJUI
+OFPNZDJO
+CBDJUSBDJO
+NFUSPOJEB[PMFBOEBNQJDJMMJOJOFMFDUJWFDPMPSFDUBMPQFSBUJPOT"DUB$IJS4DBOE
+
+）"OEÆLFS-
+)ÖKFS)
+,JIMTUSÖN&
+-JOEIBHFO+4USBUJGJFEEVSBUJPOPGQSPQIZMBDUJDBOUJNJDSPCJBMUSFBUNFOUJO
+FNFSHFODZBCEPNJOBMTVSHFSZ.FUSPOJEB[PMFGPTGPNZDJOWTNFUSPOJEB[PMFHFOUBNJDJOJOQBUJFOUT"DUB
+$IJS4DBOE
+）-JOEIBHFO+
+)BE[JPNFSPWJć"
+/PSEMVOH4
+;CPSOJL+$PNQBSJTPOPGTZTUFNJDQSPQIZMBYJTXJUINFUSPOJEB
+
+[PMFGPTGPNZDJO BOE NFUSPOJEB[PMFDFQIBMPUIJO JO FMFDUJWF DPMPSFDUBM TVSHFSZ "DUB $IJS 4DBOE  
+
+）WBO,BTUFSFO.&
+.BOOJËO+
+0UU"
+,VMMCFSH#+
+EF#PFS"4
+(ZTTFOT*$"OUJCJPUJDQSPQIZMBYJTBOEUIF
+SJTLPGTVSHJDBMTJUFJOGFDUJPOTGPMMPXJOHUPUBMIJQBSUISPQMBTUZUJNFMZBENJOJTUSBUJPOJTUIFNPTUJNQPSUBOUGBD
+
+UPS$MJO*OGFDU%JT
+）4UFJOCFSH+1
+#SBVO#*
+)FMMJOHFS8$
+,VTFL-
+#P[JLJT.3
+#VTI"+
+FUBM5SJBMUP3FEVDF"OUJNJDSPCJBM
+1SPQIZMBYJT&SSPST	53"1&
+4UVEZ(SPVQ5JNJOHPGBOUJNJDSPCJBMQSPQIZMBYJTBOEUIFSJTLPGTVSHJDBMTJUF
+JOGFDUJPOTSFTVMUTGSPNUIF5SJBMUP3FEVDF"OUJNJDSPCJBM1SPQIZMBYJT&SSPST"OO4VSH
+）4PSJBOP"
+#PSJ(
+(BSDÍB3BNJSP4
+.BSUJOF[1BTUPS+$
+.JBOB5
+$PEJOB$
+FUBM5JNJOHPGBOUJCJPUJDQSPQIZ
+MBYJTGPSQSJNBSZUPUBMLOFFBSUISPQMBTUZQFSGPSNFEEVSJOHJTDIFNJB$MJO*OGFDU%JT
+）'SJFESJDI-7
+8IJUF3-
+#SVOEBHF%.
+,BZT.#
+'SJFENBO3+5IFFGGFDUPGUPVSOJRVFUJOGMBUJPOPODFGB[P
+MJOUJTTVFQFOFUSBUJPOEVSJOHUPUBMLOFFBSUISPQMBTUZ1IBSNBDPUIFSBQZ
+）'SJFENBO3+
+'SJFESJDI-7
+8IJUF3-
+,BZT.#
+#SVOEBHF%.
+(SBIBN+"OUJCJPUJDQSPQIZMBYJTBOE
+UPVSOJRVFUJOGMBUJPOJOUPUBMLOFFBSUISPQMBTUZ$MJO0SUIPQ3FMBU3FT	
+
+）#JDBOJD(
+$SOPHBDB,
+#BSCBSJD,
+%FMJNBS%$FGB[PMJOTIPVMECFBENJOJTUFSFENBYJNVNNJOCFGPSFJODJ
+TJPOJOUPUBMLOFFBSUISPQMBTUZXIFOUPVSOJRVFUJTVTFE.FE)ZQPUIFTFT
+）5PNJUB.
+.PUPLBXB4&GGFDUTPGBJSUPVSOJRVFUPOUIFBOUJCJPUJDTDPODFOUSBUJPO
+JOCPOFNBSSPX
+JOKFDUFEKVTU
+CFGPSFUIFTUBSUPGPQFSBUJPO.PE3IFVNBUPM
+） 日本整形外科学会　骨・関節術後感染予防ガイドライン策定委員会：骨・関節術後感染予防ガイドライン ，
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p15]]
+改訂第  版，南江堂，東京，
+）4VO+
+%JOH.
+-JV+
+-J:
+4VO9
+-JV51SPQIZMBDUJDBENJOJTUSBUJPOPGDFGB[PMJOQSJPSUPTLJOJODJTJPOWFSTVT
+BOUJCJPUJDTBUDPSEDMBNQJOHJOQSFWFOUJOHQPTUDFTBSFBOJOGFDUJPVTNPSCJEJUZBTZTUFNBUJDSFWJFXBOENFUB
+BOBMZTJTPGSBOEPNJ[FEDPOUSPMMFEUSJBMT(ZOFDPM0CTUFU*OWFTU
+）3JHHJ(
+$BTUJMMP.
+'FSOBOEF[.
+8BXS[ZOJBL"
+7JHPEB.
+&CFS4
+FUBM*NQSPWJOHDPNQMJBODFXJUIUJNFMZ
+JOUSBPQFSBUJWFSFEPTJOHPGBOUJNJDSPCJBMTJOTVSHJDBMQSPQIZMBYJT*OGFDU$POUSPM)PTQ&QJEFNJPM
+
+）"MFYBOEFS+8
+4PMPNLJO+4
+&EXBSET.+6QEBUFESFDPNNFOEBUJPOTGPSDPOUSPMPGTVSHJDBMTJUFJOGFDUJPOT
+"OO4VSH
+）-FBQFS%
+#VSNBO3PZ4
+1BMBODB"
+$VMMFO,
+8PSTUFS%
+(BVUBN"JULFO&
+FUBM1SFWFOUJPOBOEUSFBUNFOU
+PGTVSHJDBMTJUFJOGFDUJPOTVNNBSZPG/*$&HVJEBODF#.+B
+）&ENJTUPO$&
+,SFQFM$
+,FMMZ)
+-BSTPO+
+"OESJT%
+)FOOFO$
+FUBM1FSJPQFSBUJWFBOUJCJPUJDQSPQIZMBYJTJO
+UIFHBTUSJDCZQBTTQBUJFOUEPXFBDIJFWFUIFSBQFVUJDMFWFMT 4VSHFSZ
+）/FMTPO3-
+(MBENBO&
+#BSCBUFTLPWJD."OUJNJDSPCJBMQSPQIZMBYJTGPSDPMPSFDUBMTVSHFSZ$PDISBOF%BUBCBTF
+4ZTU3FW$%
+）-BEPS"
+/BTJS)
+.BOTVS/
+4IBSPOJ&
+#JEFSNBO1
+-FJCPWJDJ-
+FUBM"OUJCJPUJDQSPQIZMBYJTJODBSEJBDTVS
+
+HFSZTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+"OUJNJDSPC$IFNPUIFS
+）#SBU[MFS%8
+)VOU%35IFTVSHJDBMJOGFDUJPOQSFWFOUJPOBOETVSHJDBMDBSFJNQSPWFNFOUQSPKFDUOBUJPOBM
+JOJUJBUJWFTUPJNQSPWFPVUDPNFTGPSQBUJFOUTIBWJOHTVSHFSZ$MJO*OGFDU%JT
+）)BSCBSUI4
+4BNPSF.)
+$BNFMJ:1SPMPOHFEBOUJCJPUJDQSPQIZMBYJTBGUFSDBSEJPWBTDVMBSTVSHFSZBOEJUT
+FGGFDUPOTVSHJDBMTJUFJOGFDUJPOTBOEBOUJNJDSPCJBMSFTJTUBODF$JSDVMBUJPO
+）(BZOFT31
+$VMWFS%)
+)PSBO5$
+&EXBSET+3
+3JDIBSET$
+TolsonJSSurgicalsiteinfection	SSI
+SBUFTJO
+UIF6OJUFE4UBUFT
+theNationalNosocomialInfectionsSurveillanceSystembasicSSIriskindexClin
+*OGFDU%JT	4VQQM
+4
+）0MTFO."
+)JHIBN,FTTMFS+
+:PLPF%4%FWFMPQJOHBSJTLTUSBUJGJDBUJPONPEFMGPSTVSHJDBMTJUFJOGFDUJPOBGUFS
+BCEPNJOBMIZTUFSFDUPNZ*OGFDU$POUSPM)PTQ&QJEFNJPM
+）5TVLBEB,
+.JZB[BLJ5
+,BUP)
+.BTVEB/
+'VLVDIJ.
+'VLBJ:
+FUBM#PEZGBUBDDVNVMBUJPOBOEQPTUPQFSBUJWF
+DPNQMJDBUJPOTBGUFSBCEPNJOBMTVSHFSZ"N4VSH
+）'SJFENBO/%
+#VMM"-
+3VTTP1-
+-FEFS,
+3FJE$
+#JMMBI#
+FUBM"OBMUFSOBUJWFTDPSJOHTZTUFNUPQSFEJDU
+SJTLGPSTVSHJDBMTJUFJOGFDUJPODPNQMJDBUJOHDPSPOBSZBSUFSZCZQBTTHSBGUTVSHFSZ*OGFDU$POUSPM)PTQ&QJEF
+
+NJPM
+）,XPO4
+5IPNQTPO3
+%FMMJOHFS1
+:BOF[%
+'BSSPILJ&
+'MVN%*NQPSUBODFPGQFSJPQFSBUJWFHMZDFNJDDPOUSPM
+JOHFOFSBMTVSHFSZBSFQPSUGSPNUIF4VSHJDBM$BSFBOE0VUDPNFT"TTFTTNFOU1SPHSBN"OO4VSH
+
+）"UB"
+-FF+
+#FTUMF4-
+%FTFNPOF+
+4UBJO4$1PTUPQFSBUJWFIZQFSHMZDFNJBBOETVSHJDBMTJUFJOGFDUJPOJO
+HFOFSBMTVSHFSZQBUJFOUT"SDI4VSH
+）0LBCBZBTIJ5
+4IJNB:
+4VNJZPTIJ5
+,P[VLJ"
+5PLVNBSV5
+*JZBNB5
+FUBM*OUFOTJWFWFSTVTJOUFSNFEJBUF
+HMVDPTFDPOUSPMJOTVSHJDBMJOUFOTJWFDBSFVOJUQBUJFOUT%JBCFUFT$BSF
+）)FOESFO4
+'SJU[F%
+#BOFSKFF.
+,VCVT+
+$MFBSZ3,
+&OHMFTCF.+
+FUBM"OUJCJPUJDDIPJDFJTJOEFQFOEFOUMZ
+BTTPDJBUFEXJUISJTLPGTVSHJDBMTJUFJOGFDUJPOBGUFSDPMFDUPNZBQPQVMBUJPOCBTFEDPIPSUTUVEZ"OO4VSH
+
+）,VS["
+4FTTMFS%*
+-FOIBSEU31FSJPQFSBUJWFOPSNPUIFSNJBUPSFEVDFUIFJODJEFODFPGTVSHJDBMXPVOEJOGFD
+
+UJPOBOETIPSUFOIPTQJUBMJ[BUJPO4UVEZPG8PVOE*OGFDUJPOBOE5FNQFSBUVSF(SPVQ/&OHM+.FE
+
+）4FBNPO.+
+8PCC+
+(BVHIBO+1
+,VMQ)
+,BNFM*
+%FNQTFZ%55IFFGGFDUTPGJOUSBPQFSBUJWFIZQPUIFSNJB
+POTVSHJDBMTJUFJOGFDUJPOBOBOBMZTJTPGUSBVNBMBQBSPUPNJFT"OO4VSH
+）.PSJLBOF,
+)POEB)
+:BNBHJTIJ5
+4V[VLJ4
+"NJOBLB.'BDUPSTBTTPDJBUFEXJUITVSHJDBMTJUFJOGFDUJPOJO
+DPMPSFDUBMTVSHFSZUIF+BQBOOPTPDPNJBMJOGFDUJPOTTVSWFJMMBODF*OGFDU$POUSPM)PTQ&QJEFNJPM
+）:BOH;1
+)POH-
+8V2
+8V,$
+'BO%.1SFPQFSBUJWFJOGMJYJNBCVTFBOEQPTUPQFSBUJWFDPNQMJDBUJPOTJO
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p16]]
+$SPIO＇TEJTFBTFBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT*OU+4VSH
+）.BSLFM5"
+-PV%$
+1GFGGFSLPSO.
+4DIFSFS-3SE
+8FTU,
+3PVTF5
+FUBM4UFSPJETBOEQPPSOVUSJUJPOBSF
+BTTPDJBUFEXJUIJOGFDUJPVTXPVOEDPNQMJDBUJPOTJODIJMESFOVOEFSHPJOHGJSTUTUBHFQSPDFEVSFTGPSVMDFSBUJWF
+DPMJUJT4VSHFSZ
+）3PESÍHVF[3BNÍSF[4&
+6SJCF"
+3VJ[(BSDÍB&#
+-BCBTUJEB4
+-VOB1ÉSF[13JTLGBDUPSTGPSBOBTUPNPUJDMFBL
+BHFBGUFSQSFPQFSBUJWFDIFNPSBEJBUJPOUIFSBQZBOEMPXBOUFSJPSSFTFDUJPOXJUIUPUBMNFTPSFDUBMFYDJTJPOGPS
+MPDBMMZBEWBODFESFDUBMDBODFS3FW*OWFTU$MJO
+）#VJF8%
+.BD-FBO"3
+"UUBSE+"
+#SBTIFS1.
+$IBO",/FPBEKVWBOUDIFNPSBEJBUJPOJODSFBTFTUIFSJTL
+PGQFMWJDTFQTJTBGUFSSBEJDBMFYDJTJPOPGSFDUBMDBODFS%JT$PMPO3FDUVN
+）5TVKJOBLB5
+:BNBNPUP,
+'VKJUB+
+&OEP4
+,BXBEB+
+/BLBIJSB4
+FUBM4VCDVUJDVMBSTVUVSFTWFSTVTTUBQMFT
+GPSTLJODMPTVSFBGUFSPQFOHBTUSPJOUFTUJOBMTVSHFSZBQIBTF
+NVMUJDFOUSF
+PQFOMBCFM
+SBOEPNJTFEDPOUSPMMFE
+USJBM-BODFU
+）"OEFSTPO%+
+,BZF,4
+$MBTTFO%
+"SJBT,.
+1PEHPSOZ,
+#VSTUJO)
+FUBM4USBUFHJFTUPQSFWFOUTVSHJDBM
+TJUFJOGFDUJPOTJOBDVUFDBSFIPTQJUBMT*OGFDUDPOUSPM)PTQ&QJEFNJPM	TVQQM
+4
+）#SBU[MFS%8
+)PVDL1.
+GPSUIF4VSHJDBM*OGFDUJPO1SFWFOUJPO(VJEFMJOFT8SJUFST8PSLHSPVQ"OUJNJDSPCJBM
+QSPQIZMBYJTGPSTVSHFSZBOBEWJTPSZTUBUFNFOUGSPNUIFOBUJPOBMTVSHJDBMJOGFDUJPOQSFWFOUJPOQSPKFDU$MJO
+*OGFDU%JT
+）(PVME',
+#SJOEMF3
+$IBEXJDL13
+'SBJTF"1
+)JMM4
+/BUIXBOJ%
+FUBM(VJEFMJOFT	
+GPSUIFQSPQIZMBYJT
+andtreatmentofmethicillinresistant?r?	MRSA
+JOGFDUJPOTJOUIFVOJUFE,JOHEPN+"OUJ
+
+NJDSPC$IFNPUIFS
+）#PMPO.,
+.PSMPUF.
+8FCFS4(
+,BQMBO#
+$BSNFMJ:
+8SJHIU4#(MZDPQFQUJEFTBSFOPNPSFFGGFDUJWFUIBO
+CFUBMBDUBNBHFOUTGPSQSFWFOUJPOPGTVSHJDBMTJUFJOGFDUJPOBGUFSDBSEJBDTVSHFSZBNFUBBOBMZTJT$MJO*OGFDU
+%JT
+）$FOUFSTGPS%JTFBTF$POUSPMBOE1SFWFOUJPO3FDPNNFOEBUJPOTGPSQSFWFOUJOHUIFTQSFBEPGWBODPNZDJOSFTJT
+
+UBODF3FDPNNFOEBUJPOTPGUIF)PTQJUBM*OGFDUJPO$POUSPM1SBDUJDFT"EWJTPSZ$PNNJUUFF	)*$1"$
+ IUUQXXXDEDHPWNNXS1%'3333QEG	BDDFTTFE+VO
+）(BSFZ,8
+-BJ%
+%BP5SBO5,
+(FOUSZ-0
+)XBOH-:
+%BWJT#3*OUFSSVQUFEUJNFTFSJFTBOBMZTJTPGWBO
+
+DPNZDJODPNQBSFEUPDFGVSPYJNFGPSTVSHJDBMQSPQIZMBYJTJOQBUJFOUTVOEFSHPJOHDBSEJBDTVSHFSZ"OUJNJDSPC
+"HFOUT$IFNPUIFS
+）'JOLFMTUFJO3
+3BCJOP(
+.BTIJBI5
+#BS&*:
+"EMFS;
+,FSU[NBO7
+FUBM7BODPNZDJOWFSTVTDFGB[PMJOQSP
+
+QIZMBYJTGPSDBSEJBDTVSHFSZJOUIFTFUUJOHPGBIJHIQSFWBMFODFPGNFUIJDJMMJOSFTJTUBOUTUBQIZMPDPDDBMJOGFD 
+UJPOT+5IPSBD$BSEJPWBTD4VSH
+）#VMM"-
+8PSUI-+
+3JDIBSET.+*NQBDUPGWBODPNZDJOTVSHJDBMBOUJCJPUJDQSPQIZMBYJTPOUIFEFWFMPQNFOU
+PGNFUIJDJMMJOTFOTJUJWFStaphylococcus aureusTVSHJDBMTJUFJOGFDUJPOTSFQPSUGSPN"VTUSBMJBO4VSWFJMMBODF%BUB
+	7*$/*44
+"OO4VSH
+）5BDDPOFMMJ&
+$BUBMEP."
+"MCBOFTF"
+5VNCBSFMMP.
+"SEVJOJ&
+4QBOV5
+FUBM7BODPNZDJOWFSTVTDFGB[PMJO
+QSPQIZMBYJTGPSDFSFCSPTQJOBMTIVOUQMBDFNFOUJOBIPTQJUBMXJUIBIJHIQSFWBMFODFPGNFUIJDJMMJOSFTJTUBOU
+Staphylococcus aureus+)PTQ*OGFDU
+）&OHFMNBO3
+4IBIJBO%
+4IFNJO3
+(VZ54
+#SBU[MFS%
+&EXBSET'
+FUBM5IF4PDJFUZPG5IPSBDJD4VSHFPOT
+QSBDUJDFHVJEFMJOFTFSJFTBOUJCJPUJDQSPQIZMBYJTJODBSEJBDTVSHFSZ1BSU**BOUJCJPUJDDIPJDF"OO5IPSBD4VSH
+
+）%FMMJOHFS&1
+(SPTT1"
+#BSSFUU5-
+,SBVTF1+
+.BSUPOF8+
+.D(PXBO+&+S
+FUBM2VBMJUZTUBOEBSEGPS
+BOUJCJPUJDTQSPQIZMBYJTJOTVSHJDBMQSPDFEVSFT*OGFDUJPVT%JTFBTFT4PDJFUZPG"NFSJDB$MJO*OGFDU%JT
+
+）$SBXGPSE5
+3PEWPME,"
+4PMPNLJO+47BODPNZDJOGPSTVSHJDBMQSPQIZMBYJT $MJO*OGFDU%JT
+）-JV$
+,BLJT"
+/JDIPMT"
+3JFT.%
+7BJM51
+#P[JD,+5BSHFUFEVTFPGWBODPNZDJOBTQFSJPQFSBUJWFQSP 
+QIZMBYJTSFEVDFTQFSJQSPTUIFUJDKPJOUJOGFDUJPOJOSFWJTJPO5,"$MJO0SUIPQ3FMBU3FT
+）'SBOL6,
+4DINJEU&JTFOMPIS&
+.MBOHFOJ%
+4DIJOEMFS.
+)PI"
+#FZFSTEPSG'
+FUBM1FOFUSBUJPOPGUFJDP 
+QMBOJOJOUPIFBSUWBMWFTBOETVCDVUBOFPVTBOENVTDMFUJTTVFTPGQBUJFOUTVOEFSHPJOHPQFOIFBSUTVSHFSZ
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p17]]
+"OUJNJDSPC"HFOUT$IFNPUIFS
+）.BSUJO$
+#PVSHFU1
+"MBZB.
+4FSUJO"
+"UMBOJ$
+&OOBCMJ,
+FUBM5FJDPQMBOJOJODBSEJBDTVSHFSZJOUSBPQFSB
+UJWFQIBSNBDPLJOFUJDTBOEDPODFOUSBUJPOTJODBSEJBDBOENFEJBTUJOBMUJTTVFT"OUJNJDSPC"HFOUT$IFNPUIFS
+
+）8BMTI&&
+(SFFOF-
+,JSTIOFS34VTUBJOFESFEVDUJPOJONFUIJDJMMJOSFTJTUBOUStaphylococcus aureusXPVOEJOGFD
+UJPOTBGUFSDBSEJPUIPSBDJDTVSHFSZ"SDI*OUFSO.FE
+）$IBNCFST%
+8PSUIZ(
+.ZFST-
+8FBUIFSMZ)
+&MMJPUU3
+)BXLJOT/
+FUBM(MZDPQFQUJEFWTOPOHMZDPQFQUJEF
+BOUJCJPUJDTGPSQSPQIZMBYJTPGTVSHJDBMTJUFJOGFDUJPOTBTZTUFNBUJDSFWJFX4VSH*OGFDU
+）,BMMFO"+
+8JMTPO$5
+-BSTPO3+1FSJPQFSBUJWFJOUSBOBTBMNVQJSPDJOGPSUIFQSFWFOUJPOPGTVSHJDBMTJUFJOGFD
+UJPOTTZTUFNBUJDSFWJFXPGUIFMJUFSBUVSFBOENFUBBOBMZTJT*OGFDU$POUSPM)PTQ&QJEFNJPM
+）7BO3JKFO.
+#POUFO.
+8FO[FM3
+,MVZUNBOT+.VQJSPDJOPJOUNFOUGPSQSFWFOUJOHStaphylococcus aureusJOGFD
+UJPOTJOOBTBMDBSSJFST$PDISBOF%BUBCBTF4ZTU3FW$%
+）)FSCFSU$
+3PCJDTFL"%FDPMPOJ[BUJPOUIFSBQZJOJOGFDUJPODPOUSPM$VSS0QJO*OGFDU%JT
+）1FSM5.
+$VMMFO++
+8FO[FM31
+;JNNFSNBO.#
+1GBMMFS."
+4IFQQBSE%
+FUBM*OUSBOBTBMNVQJSPDJOUP
+QSFWFOUQPTUPQFSBUJWFStaphylococcus aureusJOGFDUJPOT/&OHM+.FE
+）,POWBMJOLB"
+&SSFUU-
+'POH*8*NQBDUPGUSFBUJOH Staphylococcus aureus OBTBMDBSSJFSTPOXPVOEJOGFDUJPOT
+JODBSEJBDTVSHFSZ+)PTQ*OGFDU
+）4DIXFJ[FS.
+1FSFODFWJDI&
+.D%BOFM+
+$BSTPO+
+'PSNBOFL.
+)BGOFS+
+FUBM&GGFDUJWFOFTTPGBCVOEMFE
+JOUFSWFOUJPOPGEFDPMPOJ[BUJPOBOEQSPQIZMBYJTUPEFDSFBTF(SBNQPTJUJWFTVSHJDBMTJUFJOGFDUJPOTBGUFSDBSEJBD
+PSPSUIPQFEJDTVSHFSZTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT#.+G
+）#PEF-(
+,MVZUNBOT+"
+8FSUIFJN)'
+#PHBFST%
+7BOEFOCSPVDLF(SBVMT$.
+3PPTFOEBBM3
+FUBM1SFWFOU
+
+JOHTVSHJDBMTJUFJOGFDUJPOTJOOBTBMDBSSJFSTPGStaphylococcus aureus/&OHM+.FE
+）)VBOH44
+4FQUJNVT&
+,MFJONBO,
+.PPEZ+
+)JDLPL+
+"WFSZ53
+FUBM5BSHFUFEWFSTVTVOJWFSTBMEFDPMPOJ
+zationtopreventICUinfectionNEnglJMed
+）3JEFOPVS(
+-BNQFO3
+'FEFSTQJFM+
+,SJUDIFWTLZ4
+8POH&
+$MJNP.4FMFDUJWFVTFPGJOUSBOBTBMNVQJSPDJO
+BOEDIMPSIFYJEJOFCBUIJOHBOEUIFJODJEFODFPGNFUIJDJMMJOSFTJTUBOU Staphylococcus aureusDPMPOJ[BUJPOBOE
+JOGFDUJPOBNPOHJOUFOTJWFDBSFVOJUQBUJFOUT*OGFDU$POUSPM)PTQ&QJEFNJPM
+）8FOEU$
+4DIJOLF4
+8ÛSUUFNCFSHFS.
+0CFSEPSGFS,
+#PDL)FSTMFZ0
+WPO#BVN)7BMVFPGXIPMFCPEZ
+XBTIJOHXJUIDIMPSIFYJEJOFGPSUIFFSBEJDBUJPOPGNFUIJDJMMJOSFTJTUBOU Staphylococcus aureusBSBOEPNJ[FE
+
+QMBDFCPDPOUSPMMFE
+EPVCMFCMJOEDMJOJDBMUSJBM*OGFDU$POUSPM)PTQ&QJEFNJPM
+）4JNPS"&
+1IJMMJQT&
+.D(FFS"
+,POWBMJOLB"
+-PFC.
+%FWMJO)3
+FUBM3BOEPNJ[FEDPOUSPMMFEUSJBMPG
+DIMPSIFYJEJOFHMVDPOBUFGPSXBTIJOH
+JOUSBOBTBMNVQJSPDJO
+BOESJGBNQJOBOEEPYZDZDMJOFWFSTVTOPUSFBUNFOU
+GPSUIFFSBEJDBUJPOPGNFUIJDJMMJOSFTJTUBOUStaphylococcus aureusDPMPOJ[BUJPO$MJO*OGFDU%JT
+）5BLBIBTIJ:
+5BLFTVF:
+6DIJOP.
+*LFVDIJ)
+5PNJUB/
+)JSBOP57BMVFPGQSFBOEQPTUPQFSBUJWFNFUJDJMMJO
+SFTJTUBOU Staphylococcus aureusTDSFFOJOHJOQBUJFOUTVOEFSHPJOHHBTUSPFOUFSPMPHJDBMTVSHFSZ+)PTQ*OGFDU
+
+）)BSCBSUI4
+'BOLIBVTFS$
+4DISFO[FM+
+$ISJTUFOTPO+
+(FSWB[1
+#BOEJFSB$MFSD$
+FUBM6OJWFSTBMTDSFFOJOH
+GPS NFUIJDJMMJOSFTJTUBOU Staphylococcus aureus BU IPTQJUBM BENJTTJPO BOE OPTPDPNJBM JOGFDUJPO JO TVSHJDBM
+QBUJFOUT+"."
+）+BJO3
+,SBMPWJD4.
+&WBOT.&
+"NCSPTF.
+4JNCBSUM-"
+0CSPTLZ%4
+FUBM7FUFSBOT"GGBJSTJOJUJBUJWFUP
+QSFWFOUNFUIJDJMMJOSFTJTUBOU4UBQIZMPDPDDVTBVSFVTJOGFDUJPOT/&OHM+.FE
+）3PCJDTFL"
+#FBVNPOU+-
+1BVMF4.
+)BDFL%.
+5IPNTPO3#+S
+,BVM,-
+FUBM6OJWFSTBMTVSWFJMMBODFGPS
+NFUIJDJMMJOSFTJTUBOUStaphylococcus aureusJOBGGJMJBUFEIPTQJUBMT"OO*OUFSO.FE
+）,BMNFJKFS.%
+$PFSUKFOT)
+WBO/JFVXMBOE#PMMFO1.
+#PHBFST)PGNBO%
+EF#BFSF("
+4UVVSNBO"
+FUBM
+4VSHJDBMTJUFJOGFDUJPOTJOPSUIPQFEJDTVSHFSZUIFFGGFDUPGNVQJSPDJOOBTBMPJOUNFOUJOBEPVCMFCMJOE
+SBOEPN
+J[FE
+QMBDFCPDPOUSPMMFETUVEZ$MJO*OGFDU%JT
+）8FO[FM31.JOJNJ[JOHTVSHJDBMTJUFJOGFDUJPOT/&OHM+.FE
+）4BLBUB+
+4IJSBJ:
+5TVDIJZB:
+8BLBJ5
+/PNVSB5
+)BUBLFZBNB,1SFPQFSBUJWFDIPMBOHJUJTJOEFQFOEFOUMZ
+JODSFBTFTJOIPTQJUBMNPSUBMJUZBGUFSDPNCJOFENBKPSIFQBUJDBOECJMFEVDUSFTFDUJPOGPSIJMBSDIPMBOHJPDBSDJ 
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p18]]
+OPNB-BOHFOCFDLT"SDI4VSH
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p19]]
+IV．各　　論
+抗菌薬略号
+セフェム系薬
+CEZ：セファゾリン，CTM：セフォチアム，CMZ：セフメタゾール，CTRX：セフトリアキソン，
+FMOX：フロモキセフ
+ペニシリン系薬，β⊖ラクタマーゼ阻害薬配合ペニシリン系薬
+SBTABPC：スルバクタムアンピシリン，TAZPIPC：タゾバクタムピペラシリン，AMPC：アモ
+キシシリン，AMPCCVA：アモキシシリンクラブラン酸
+その他の β⊖ラクタム系薬
+AZT：アズトレオナム
+グリコペプチド系薬
+VCM：バンコマイシン，TEIC：テイコプラニン
+マクロライド系薬，リンコマイシン系薬
+CLDM：クリンダマイシン，AZM：アジスロマイシン，CAM：クラリスロマイシン
+テトラサイクリン系薬
+%09:：ドキシサイクリン，.*/0：ミノサイクリン
+フルオロキノロン系薬
+CPFX：シプロフロキサシン，PZFX：パズフロキサシン，LVFX：レボフロキサシン，GFLX：ガチ
+フロキサシン，.'-9：モキシフロキサシン
+アミノグリコシド系薬
+GM：ゲンタマイシン，KM：カナマイシン
+ニトロイミダゾール系薬
+MNZ：メトロニダゾール
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p20]]
+表 .　各外科領域における標準術式に対する術後感染予防抗菌薬の適応，推奨抗菌薬，投与期間に関する勧告
+Summary（表）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+心臓外科
+クラスI 冠動脈バ イ パ ス手術， 弁膜症手術
+（弁置換術， 弁形成術） A-I 1 ～ 4） CEZ VCM，TEIC，CLDM 48 時間 A-II 1，2，5，
+6）
+① MRSA によるSSI が高率な施設では， 術前に鼻腔内MRSA 保
+菌 チ ェックを 考 慮 す る （C1-III） 。保菌者ではVCM の 併 用と除 菌
+が?勧?められる（aLhh，文?献V?～?PO）。
+② MRSA に よ る 感染が問題 と な っ てい る 施設ではCEZ とグリコ ペ
+プチ ド系薬 と の併用に よ る 予防投与の必要性に関 し ，ICT など の
+感染の専門家?と?相談す?る?（bPLhhh，文?献PO?～?PQ）。
+③人工心肺使用に よ り ， 分布容積が増大 し かつ血中か ら の抗菌
+薬消失が増す。そのため血中濃度は低下す る が， 人工心肺開
+始後の抗菌薬再投与の有用性は証明 さ れてお ら ず，推奨 し な い
+（C2-III，文 献13） 。特に ア ミ ノ グ リ コ シ ド系薬は排泄が遅れる ため，
+GM1 回投与量は 4 mg/kg に減 量 する。
+クラスI 心臓デバ イ ス挿入手技（ペー ス メ ー
+カーなど ） A-I 14 ～ 16）CEZ VCM，CLDM 単回 A-I 14，17）
+クラスI
+小切開心臓手術 ： 肋間ア プ ロ ーチ
+（低侵襲心臓手術，Minimally 
+Invasive Cardiac Surgery）
+C1-III CEZ VCM，CLDM 24 ～ 48 時間 C1-III
+クラスI 経 カ テ ー テ ル大動脈弁留置術 C1-III CEZ VCM，CLDM 24 時間 C1-III
+クラスI 経 カ テ ー テ ル大動脈弁留置術（SSI
+リスク 因 子 あり） C1-III CEZ VCM，CLDM 48 時間 C1-III
+血管外科
+クラスI 胸部動脈瘤に対す る 人工血管置換
+術（待機手術）
+C1-III CEZ VCM，CLDM 48 時間 C1-III
+① MRSA によるSSI が高率な施設では， 術前に鼻腔内MRSA 保
+菌チ ェ ッ ク を 考慮す る 。保菌者ではVCM の併用 と 除菌が勧め ら
+れる（C1-III）。
+② MRSA に よ る 感染が問題 と な っ てい る 施設では グ リ コ ペ プチ ド
+系薬予防投与の必要性に関 し ，ICT な どの感染の専門家 と 相談
+する（C1-III）。
+クラスI 胸部大動脈解離に対す る 人工血管
+置換術（待機手術）
+C1-III CEZ VCM，CLDM 48 時間 C1-III
+クラスI 破裂胸部大動脈瘤， 急性胸部大動
+脈解離に対す る 人工血管置換術
+C1-III CEZ VCM，CLDM 72 時間 C1-III
+・SSI 高リスクに対する勧告の場合は，以下の因子に該当する症例を適応とする。
+1. 米国麻酔学会術前状態分類≧3（糖尿病など） ，2. 創クラス 3（4 は予防抗菌薬適応外） ，3. 長時間手術（各術式における手術時間＞75 percentile），4. body mass index ≧25，5. 術後血糖コントロー
+ル不良（＞200 mg/dL），6. 術中低体温（＜36℃ ），7. 緊急手術，8. ステロイド・免疫抑制剤の使用，9. 術野に対する術前放射線療法，10. 高齢（年齢に関しては症例ごとに評価）
+・単回：長時間の可能性のある手術において，長時間手術では術中再投与を行う。
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p21]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスI 人工物埋入 を 伴 う 手術 ： 腹部大動
+脈瘤人工血管置換術な ど A-I 1 ～ 5） CEZ VCM，CLDM 24 ～ 48 時間 C1-III 6，7） 感染性大動脈瘤では抗菌薬治療 を 行い感染 を コ ン ト ロ ー ル し た
+後に待機的に手術を行う こ と が望ま しい（C1-III）。
+クラスI
+人工物埋入 を 伴 う 手術 ： 腹部大動
+脈瘤人工血管置換術な ど（緊急手
+術 などSSIリ ス ク あ る 場合）
+A-I 1 ～ 5） CEZ VCM，CLDM 72 時間 C1-III
+クラスI 人工物埋入 を 伴 う 手術 ： 下肢のバ イ
+パ ス 術 など A-I 1 ～ 3，5）CEZ VCM，CLDM 単回～ 24 時間 A-I 2，3，6）
+クラスI
+人工物埋入 を 伴わ な い手術 ： 頸動
+脈血栓内膜剥離術， 上腕動脈の手
+術 など
+C1-III 1 ～ 3，6，
+8） CEZ CLDM，VCM 単回（長時間手
+術では再投与） C1-III
+クラスI ス テ ン ト グ ラ フ ト 内挿術 C1-III 9，10） CEZ VCM，CLDM 単回～ 24 時間 C1-III 9）
+クラスI 末梢血管に対す る 血管内治療 C1-III 9，11 ～
+14） CEZ CLDM，VCM 単回 C1-III 9）
+クラスI 下肢の血行再建術（人工物 を 使用
+しない ） C1-III 15） CEZ CLDM，VCM 単回（長時間手
+術では再投与） C1-III
+15） 下肢の潰瘍形成な どがあ っ た場合に はその分離菌に感受性のあ
+る 抗菌薬 を 選択（C1-III）。
+クラスI 下肢静脈瘤手術 ： 鼠径部切開 を 伴 う
+（ ストリッピ ン グ な ど ） A-I 16，17） CEZ CLDM，VCM 単回 A-I 16）
+クラスI 下肢静脈瘤手術 ： レ ーザー焼灼術，
+ラ ジ オ波焼灼術な ど C1-III 9，17，
+18） CEZ CLDM，VCM 単回 C1-III 17） 経口抗菌薬に よ る 予防投与 も 行われてい る 。
+呼吸器外科
+クラスII 肺切除術（開胸） A-I 1 ～ 8） CEZ，SBT/ABPC
+CLDM，VCM（GM，キ
+ノロン 系 薬 ，AZT 併用
+可）
+単回～ 24 時間 A-II 6 ～ 16）
+単回投与での切開創 SSI 予防効果
+は証明 さ れてい る 。胸腔 ド レ ー ン 留
+置例にお け る 術後の投与期間延長
+は感 染 率を低 下させないこ と も示さ
+れてい る （文献9） 。 ただ し術後肺炎，
+膿胸予防に関 し て は十分な証拠は
+な い（文献6，12，13）。
+CEZ と比較して ， SBT/
+ABPC は， より術後肺炎や
+膿 胸 に 対して 有 用 である可
+能性があ り （文献19）， 気
+管支形成術な ど気道が胸
+腔内で開放さ れる手術や肺
+全摘術の場合はSBT/ABPC
+を考 慮 する。
+クラスII 肺切除［胸腔鏡下， ビ デ オ補助胸
+腔鏡手術（VATS）］ C1-III CEZ，SBT/ABPC CLDM，VCM 単回～ 24 時間 C1-III
+開胸肺切除 と 比べ低い感染率が報
+告 さ れてい る が（文献17，18）， 投
+与期間に関す る 検討は行われてい
+ない。
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p22]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 縦隔腫瘍切除術（胸骨正中切開） C1-III CEZ
+CLDM，VCM（GM，キ
+ノロン 系 薬 ，AZT 併用
+可）
+24 時間 C1-III
+クラスII 縦隔腫瘍切除術（開胸 も し く は胸腔
+鏡下） C1-III 20） CEZ CLDM，VCM 単回～ 24 時間 C1-III
+クラスII 縦隔鏡手術 C1-III CEZ CLDM，VCM 単回～ 24 時間 C1-III
+クラスI 胸腔 ド レ ナ ー ジ（外傷以外） C2-III 21 ～ 23）― ― ― ―
+クラスI 胸腔 ド レ ナ ー ジ（外傷に よ る 血気胸）A-I 24 ～ 31）CEZ CLDM 24 ～ 48 時間 C1-III 30，31）
+上部消化管外科（食道， 胃）
+クラスII 胸部食道切除術（胃管， 空腸再建）C1-III 1 ～ 8） CEZ
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+単回～ 48 時間 C1-III 2）
+クラスII 胸部食道切除術（結腸再建） C1-III 9 ～ 12） CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 48 時間 C1-III
+クラスI アカラシア C1-III 15） CEZ CLDM，VCM 単回（長時間手
+術では再投与） C1-III 15）
+クラスI 逆流性食道炎手術， 選択的胃迷走
+神経切離術 C1-III 15，16） CEZ CLDM，VCM 単回（長時間手
+術では再投与） C1-III
+15）
+クラスII 幽門側胃切除術 A-I 17 ～ 22）CEZ
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+単回～ 24 時間 A-I 17 ～ 22）
+クラスII 幽門側胃切除術（SSIリスク 因 子 あ
+り） C1-III 15） CEZ
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+24 時間 C1-III 15）
+クラスII 胃全摘術（含む脾合併摘出） A-I 18，19，
+23） CEZ，SBT/ABPC
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+24 時間 A-I 18，19，
+23）
+クラスII 胃全摘術（膵合併切除） ， 噴門側
+胃切除 C1-III 18，19） CEZ，SBT/ABPC
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+24 時間 C1-III
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p23]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII
+胃空腸吻合術， 幽門形成術， 胃局
+所切除術， 逆流性食道炎手術（消
+化管開放あ り ）
+C1-III 15） CEZ
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+単回～ 24 時間 C1-III 15）
+クラスII 肥満手術（胃バ イ パ ス術） A-I 24 ～ 29）CEZ
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+単回（長時間手
+術では再投与） A-I 25 ～ 29）1 回投与量 2 g（＞120 kg，3 g） ， 再投与量1 g。
+クラスII 内視鏡的経皮胃瘻造設術（PEG） A-I 30 ～ 36）CEZ，SBT/ABPC
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+単回 A-I 31，32）
+pull/push 法では， 口腔内嫌気性菌 を ね ら っ てSBT/ABPCを 選択。
+長期療養施設入所者な どでは， 術前に咽頭拭い液の細菌検査
+を 行い， 検出菌に抗菌活性を有する抗菌薬 を 考慮す る 。
+下部消化管外科（小腸， 虫垂， 結腸・直腸）
+クラスII 近位側小腸（腸閉塞な し） C1-III CEZ，CTM
+CLDM＋ ［ ア ミノ グ リコ シ
+ド系薬 or AZT or キノロ
+ン 系薬］
+単回（長時間手
+術では再投与） C1-III
+1，2）
+クラスII 近位側小腸（腸閉塞あ り ，ク ロ ー ン
+病， 人工肛門造設）
+C1-III CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 24 時間 C1-III 1，2） 絞扼性腸閉塞症例 も 切除に よ り 病巣が完全に除去 さ れ る ため予
+防抗菌薬の範疇に該当。
+クラスII 遠位側小腸 C1-III CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 24 時間 C1-III 1，2）
+クラスII 開腹虫垂切除術（非複雑性虫垂
+炎） B-II 3 ～ 7） CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 単回～ 24 時間 A-I 8，9） 壊疽性虫垂炎や穿孔例では， 予防抗菌薬で な く 治療抗菌薬 を 選
+択 し， 期間 も 症例 ご と に判断。
+クラスII 腹腔鏡下手術虫垂切除術（非複
+雑性虫垂炎） C1-III CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 単回～ 24 時間 B-II 10，11）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p24]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 結腸切除術（開腹） A-I 6，12 ～
+18）
+CMZ，FMOX，
+CEZ＋MNZ19，20）
+［ ア ミノ グ リコ シド 系 薬or
+キ ノ ロ ン 系薬］ ＋MNZ 単回～ 24 時間 A-I
+1，12，
+13，21，
+22） ①腹腔鏡下手術は開腹手
+術と比 較しSSIリスクは 低く
+な る ため （文献28，29） ，別 々
+に勧 告を行った。
+②術前機械的腸管処置 を
+行わない場合の勧告は， 本
+ガ イド ラ イ ン で は 行 わ な い 。
+③人工肛門造設例ではSSI
+は高率 と な る が， 予防抗菌
+薬投与期間の延長に関す
+る検 討は行われていない。
+クラスII 結腸切除術（腹腔鏡下手術） C1-III CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬or
+キ ノ ロ ン 系薬］ ＋MNZ 単回～ 24 時間 A-I 22 ～ 24）
+クラスII 直腸切除術 ・ 直腸切断術（腹腔鏡
+下手術） C1-III CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 24 時間 A-I 22 ～ 24）
+術前 日 に機械的腸管処置後に経口
+抗菌薬 （KM，MNZ） 使 用（B-I，
+文献 25）。
+クラスII
+直腸切除術 ・ 直腸切断術（開腹）
+術前腸管処置 ：
+full preparation（機
+械的腸管処置 ＋ 経口抗菌薬）
+A-I 25 ～ 27）CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬or 
+キ ノ ロ ン 系薬］ ＋MNZ 24 時間 A-I 25 ～ 27）
+クラスII
+直腸切除術 ・ 直腸切断術（開腹）
+術前腸管処置 ： 機械的腸管処置の
+み
+A-I 6，15 ～
+17）
+CMZ，FMOX，
+CEZ＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 48 ～ 72 時間 A-I 30）
+肝胆膵外科（脾手術 も含む）
+クラスII 肝臓切除（胆道再建 を 伴わ な い）C1-III
+CEZ，FMOX，
+CTM，SBT/
+ABPC
+ア ミノ グ リコ シド 系 薬 ，キ
+ノロン 系 薬 単回～ 24 時間 A-I 1，2）
+クラスII 肝臓切除（胆道再建 を 伴 う ） C1-III
+CEZ，CTM，
+FMOX，SBT/
+ABPC
+ア ミノ グ リコ シド 系 薬 ，キ
+ノロン 系 薬 24 ～ 48 時間 C1-III
+術前胆道 ド レ ナ ー ジ術施行例では， 直近の胆汁培養に よ っ て検
+出された菌を考 慮して抗 菌 薬を選 択する（C1-III，文 献3，4）。
+クラスII 胆道手術（胆道再建な し） ： 胆管切
+開 など C1-III CEZ ア ミノ グ リコ シド 系 薬 ，キ
+ノロン 系 薬 単回～ 24 時間 C1-III
+クラスII 胆道手術（胆道再建あ り ） ： 胆管切
+除 ＋ 胆管空腸吻合な ど
+C1-III CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系 薬 ，キ
+ノロン 系 薬 24 時間 C1-III
+クラスII 膵頭十二指腸切除 C1-III CEZ，CTM ア ミノ グ リコ シド 系 薬 ，キ
+ノロン 系 薬 48 時間 C1-III
+クラスII 膵体尾部切除 C1-III CEZ，CTM ア ミノ グ リコ シド 系 薬 ，キ
+ノロン 系 薬 24 時間 C1-III
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p25]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 腹腔鏡下胆嚢摘出術 A-I 5 ～ 10） CEZ
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノロン 系 薬 or AZT］
+単回（長時間手
+術では再投与） C1-III
+SSIリ スク因 子のない症 例における
+予防抗菌薬使用の必要性について
+はさ らなる検 討を要 する。 急性胆嚢炎手術は治療抗
+菌薬の適応 と な る。
+クラスII 開腹胆嚢摘出術 C1-III 7，11） CEZ CLDM＋ ［ ア ミノ グ リコ シ
+ド系薬 or キ ノ ロ ン 系薬］単回～ 24 時間 C1-III
+内視鏡
+的処置
+待機的内視鏡的逆行性胆道膵管
+造影（ERCP：endoscopic retro-
+grade cholangiopancreatography）
+A-I 12，13） CEZ キ ノ ロ ン 系 薬 ，ア ミノ グ リ
+コ シド 系 薬 単回 A-I 12，13）
+内視鏡
+的処置
+内視鏡的経鼻胆道 ド レ ナ ー ジ
+（ENBD：endoscopic nasobiliary 
+drainage） 内視鏡的逆行性胆管 ド レ
+ナージ（endoscopic retrograde 
+biliary drainage：ERBD）
+C1-III CEZ キ ノ ロ ン 系 薬 ，ア ミノ グ リ
+コ シド 系 薬 単回～ 24 時間 C1-III
+胆管炎合併症例では治療抗菌薬の適応。胆汁培養提出。特に
+ERBD ではその後の培養不能のため施行時に胆汁検体 を 培養に
+提出。
+クラスI 脾臓摘出術（開腹， 腹腔鏡下手術）C1-III CEZ CLDM 単回（長時間手
+術では再投与） C1-III
+鼠径部ヘルニ ア根治術
+クラスI 鼠径部ヘル ニ ア根治術（開腹， メ ッ
+シュ使 用 ） A-I 1） CEZ，SBT/ABPC VCM，CLDM 単回 A-I 1，2）
+クラスI 鼠径部ヘル ニ ア嵌頓 C1-III CEZ
+［CLDM or VCM］＋［ ア
+ミノ グ リコ シド 系 薬 or キ
+ノ ロ ン 系薬］
+24 時間以内 C1-III 嵌頓臓器切除 を 伴 う 場合はその該当臓器手術に準ず る 。
+クラスI 鼠径部ヘル ニ ア根治術（ メ ッ シ ュ 非
+使用） A-I 3） CEZ CLDM，VCM 単回 A-I 2，3）
+クラスI 腹腔鏡下鼠径ヘル ニ ア根治術 unresol-
+ved issue
+4） ― ― ― ― 4）
+①観察研究での使用の有無で差が認め ら れてい な いが， 予防
+抗菌薬の必要性に関 し て は今後RCT での検証が必要。
+②感染合併時に は メ ッ シ ュ 除去が必要であ り ， 非使用での非劣
+性 が 証 明 され るまで はCEZ（単回）使用が望 ま し い。
+クラスI 腹腔鏡下鼠径ヘル ニ ア根治術（SSI
+リスク 因 子 あり） C1-III 4） CEZ VCM，CLDM 単回 C1-III 4）
+耳鼻咽喉科・頭頸部外科
+クラスI ア ブ ミ 骨手術， 顔面神経減荷術 A-I 2） CEZ CLDM 単回（長時間手
+術では再投与） B-II
+1）
+クラスI 人工内耳埋込術 A-I 3 ～ 11） CEZ CLDM 24 時間以内 C1-III 9）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p26]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスI 頸部良性腫瘍摘出術， 甲状腺手術，
+唾液腺手術 C1-III 12，15，
+16） CEZ CLDM 単回（長時間手
+術では再投与） C1-III 13，14，
+17）
+頸部良性腫瘍で短時間手術かつ SSIリ ス ク 因子な しの場合は注
+射用予防抗菌薬の使用は推奨 し な い（C2-III）。
+クラスI 頸部郭清術 B-II 21） CEZ CLDM 24 時間 B-II 18，19，
+20 ～ 22）根治的 ま たは両側の頸部郭清術では24 ～ 48 時間。
+クラスII 鼓膜形成術 ・ 鼓室形成術（耳漏な
+し） C1-III 24 ～ 28）CEZ CLDM 24 時間以内 C1-III 23）
+耳漏があ る 場合は， 予防抗菌薬の適応外であ り ， 原因菌に活性
+のあ る 抗菌薬に よ る 治療 を 行い， 期間 も 症例 ご と に判断。SBT/
+ABPC 注や経口 LVFXに よ る 予防投与の報告 も あ る 。
+クラスII 鼻中隔矯正術， 内視鏡下副鼻腔手
+術 C1-III 29 ～ 40）CEZ CLDM 24 時間以内 C1-III 29）
+クラスII ア デ ノ イ ド切除術， 口蓋扁桃摘出術，
+咽頭形成術 C1-III 41 ～ 57）CEZ，SBT/ABPC CLDM 24 時間以内 C1-III 57） SSI の検討は な く ， 予防抗菌薬は術後の疼痛緩和 目 的。
+クラスII 喉頭微細手術（laryngomicrosur-
+gery） C2-III 予防抗菌薬の使
+用 は 推 奨しない― ―
+クラスII 気管切開術 A-II 58 ～ 61）CEZ CLDM 24 時間以内 A-II 58，61） 輪状甲状間膜穿刺で も 同様に推奨。
+クラスII
+口腔咽頭悪性腫瘍手術（筋皮弁再
+建な し， 短時間手術，SSIリスク 因 子
+なし ）
+A-I 62 ～ 79）
+SBT/ABPC，CEZ
+＋CLDM，CEZ＋
+MNZ，CMZ
+CLDM 24 時間以内 C1-III
+63，65，
+67，80 ～
+83）
+クラスII 口腔咽頭悪性腫瘍手術（含む筋皮
+弁再建） ・ 喉頭全摘術 A-I 84 ～ 91）
+SBT/ABPC，CEZ
+＋CLDM，CEZ＋
+MNZ，CMZ
+［ キノロン 系 薬 or ア ミノ
+グ リコ シド 系 薬 or VCM］
+＋［CLDM or MNZ］
+48 時間 C1-III 89，90，
+92 ～ 95）
+クラスII 口腔咽頭悪性腫瘍手術（消化管再
+建 あり） A-I 84 ～ 91）
+SBT/ABPC，CEZ
+＋MNZ，CMZ，
+FMOX
+［ キノロン 系 薬 or ア ミノ
+グ リ コ シ ド系薬］ ＋MNZ 48 時間 C1-III
+72，73，
+79，89，
+94，95）
+口腔外科（耳鼻咽喉科・頭頸部外科 も参照）
+クラスII 顎変形症手術 A-I 1 ～ 5） SBT/ABPC，
+CMZ CLDM 単回～ 48 時間 B-II 6 ～ 8）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p27]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 下顎骨骨折（口腔内切開 を 伴わ な
+い）
+A-II 9 ～ 13）
+CEZ CLDM 24 時間 B-II 14，15） 外傷数 日 後に手術す る 場合
+は入院時 よ り 抗菌薬 を 開始
+する場 合もある。クラスII 下顎骨骨折（口腔内切開 を 伴 う ） SBT/ABPC，
+CMZ CLDM 48 時間 C1-III 骨折線上に歯が存在す る 場合は感
+染 リ ス ク が高い。
+クラスII 顎骨腫瘍， 顎骨嚢胞手術（口内法）C1-III SBT/ABPC，
+CMZ CLDM 単回 C1-III 嚢胞の感染性内容液な どに よ る 高度な術中汚染 を 認めた場合
+は， 予防抗菌薬術後投与 を 考慮。
+クラスII 顎骨悪性腫瘍手術（辺縁 ・ 部分切
+除 にとど まる ） C1-III SBT/ABPC，
+CMZ CLDM 24 時間 C1-III 口腔腫瘍手術のなかで も ， 歯肉な どの悪性腫瘍やエナ メ ル上皮
+腫におけ る 顎骨切除， 特に下顎骨再建 を 伴 う 手術はSSIリスク が
+高い と さ れ る （文献16 ～ 18）。クラスII 顎骨悪性腫瘍手術（遊離皮弁 を 用
+い るもの ） C1-III SBT/ABPC，
+CMZ CLDM 48 時間 C1-III
+歯科
+クラスII 歯科用 イ ン プ ラ ン ト 埋入手術 B-I 1 ～ 8） AMPC（経口 1
+回 250 mg ～ 1 g）CLDM（経口） 単回 A-I 6 ～ 8） 手術 1 時間前に服用。
+クラスhh?下顎埋伏智歯抜歯手術?aLh?X，PO）
+AMPC（経口 1
+回 250 mg～1 g），
+CVA/AMPC（経
+口 1 回 375 mg
+～ 1.5 g）
+CLDM（経口） 単回～ 48 時間 B-I 11，12） 手術 1 時間前か ら 服用。骨削除な ど侵襲の大 き な場合や高度
+な術中汚染 を 認めた場合は， 予防抗菌薬術後投与 を 考慮。
+クラスII
+抜歯
+感染性心内膜炎の高 リ ス ク 症例 ：
+①生体弁， 人工弁置換患者， ②感
+染性心内膜炎の既往 を 有す る 患者，
+③複雑性チ ア ノ ー ゼ性先天性心疾
+患 ： 単心室， 完全大血管転位， フ ァ
+ロ ー四徴症， ④体循環系 と 肺循環
+系の短絡増設術 を 実施 し た患者，
+⑤ほ と ん どの先天性心疾患， ⑥後
+天性弁膜症， ⑦閉塞性肥大型心筋
+症）
+C1-III 13，14）
+ABPC（注） ，
+AMPC（経口 1
+回 2 g）
+CLDM（経口） ，AZM
+（経口） ，CAM（経口） 単回 C1-III 13，14）
+①手術 1 時間前に服用。
+②米国心臓協会（AHA）の ガ イ ド ラ イ ン （文献12）では予防抗
+菌薬投与の対象症例 を 下記に と どめてい る ：a. 人工弁置換術後，
+b. 感染性心内膜炎の既往，c. 先天性心疾患（未修復のチ ア ノ ー
+ゼ性先天性心疾患） ，d. 術後 6 カ月以内，e. 心臓移植患者。
+③抜歯時の予防抗菌薬の適応に関 し て はその他の報告 も 散見 さ
+れ る （文献15，16）。
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p28]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 抜歯（SSIリスク 因 子 あり） C1-III
+AMPC（経口 1
+回 250 mg～1 g），
+CVA/AMPC（経
+口 1 回 375 mg
+～ 1.5 g）
+CLDM（経口） 単回～ 48 時間 C1-III 手術 1 時間前か ら 服用。
+クラスII 抜歯（心内膜炎，SSI のリスク 因 子
+なし ） C2-III 9） 予防抗菌薬の使
+用 は 推 奨しない― ― ―
+産科
+クラスI 帝王切開術（未破水） A-I 1 ～ 11） CEZ CLDM＋ ア ミノ グ リコ シド
+系薬 単回 A-I 4 ～ 6） 抗菌薬は臍帯 ク ラ ン プ後では な く ， 手術前1 時間以内に投与（B-
+II，文 献16，17 ～ 28）。
+術前の消毒薬 を 用いた腟洗浄は感染 を 減少 さ せる （文献29）。
+母体 B 群溶連菌保菌者は，母子感染を予防するために，周
+術期予防抗菌薬投与により保菌している B 群溶連菌の菌量
+レベルを下げておく必要がある。妊娠 35 ～ 37 週の GBS ス
+クリーニング検査で GBS が同定された妊産婦，前回出産し
+た児が GBS 感染症であった妊産婦，今回の妊娠中に尿路感
+染症疑いなどがあって偶発的に検査した尿培養で GBS が検
+出されている妊産婦，GBS 保菌状態が不明で，破水後 18 時
+間以上経過あるいは 38.0℃ 以上の発熱を認めている妊産婦
+では，感染を予防するためにペニシリン系などの抗菌薬を
+点滴静注する 。ペニシリンアレルギーがある場合には
+CLDM などを使用する。
+クラスII
+帝王切開術（破水） ： 腟周辺B 群
+溶連菌保菌陰性（除菌 さ れた場合
+も 含む）
+C1-III 7 ～ 13） CMZ，FMOX CLDM＋ ア ミノ グ リコ シド
+系薬 単回 C1-III
+4，8 ～
+PO，PQ，
+14 ～ 16）
+クラスII 帝王切開術 ： 腟周辺B 群溶連菌保
+菌陽性/不明 C1-III 7 ～ 13） SBT/ABPC CLDM＋ ア ミノ グ リコ シド
+系薬 単回 C1-III
+4，8 ～
+PO，PQ，
+14 ～ 16）
+クラスII 流産手術 C1-III
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+CLDM＋ ア ミノ グ リコ シド
+系薬，MNZ＋ ［ ア ミノ グ
+リコ シド 系 薬 ，キ ノ ロ ン
+系薬］ ＋MNZ
+単回 C1-III ① MNZ は新生児への影
+響か ら 帝王切開では使用
+不可だが，本手術では適
+応となる 。
+②緊急の場合 を 除 き ， 可能
+な 限り術 前 のクラ ミ ジア・ 淋
+菌ス ク リ ーニ ン グ後に手術を
+行う。
+クラスII 流産手術（ ク ラ ミ ジ ア陽性/不明） C1-III CPFX＋MNZ，
+PZFX＋MNZ
+マ ク ロ ラ イド 系 薬 ＋ ア ミノ
+グ リコ シド 系 薬 単回 C1-III
+クラスII 流産手術（淋菌陽性） C1-III CTRX＋MNZ AZM＋CLDM 単回 C1-III
+疫学上， 女性の淋菌感染症の頻度
+は低率のため， 不明の場合は通常
+の流産手術 と 同様な予防抗菌薬の
+使用 を 行 う 。代替薬 と し てのAZM
+は AZM-SR 2 g 経 口 が 望 まし い 。
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p29]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+婦人科
+クラスI 卵巣腫瘍手術（開腹手術） C1-III CEZ CLDM，VCM 単回（長時間手
+術では再投与） C1-III
+クラスI 卵巣腫瘍手術（開腹手術） ： 高 リ ス
+ク ＊ ， 悪性腫瘍に対す る 拡大郭清C1-III CEZ CLDM，VCM 24 時間 C1-III 拡大手術 と し て子宮 も 摘出す る 場合は ク ラ スII。
+クラスI 卵巣腫瘍手術（腹腔鏡下手術） C1-III CEZ CLDM，VCM 単回（長時間手
+術では再投与） B-II
+1）
+クラスII 腹式子宮摘出術（開腹手術） A-I 2 ～ 8）
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+CLDM＋ ア ミノ グ リコ シド
+系薬，MNZ＋ ア ミノ グ リ
+コ シド 系 薬 ，キ ノ ロ ン 系
+薬＋MNZ
+単回（長時間手
+術では再投与） A-I 2，9，
+PO）
+クラスII
+腹式子宮全摘術（開腹手術） ：SSI
+リ ス ク 因子あ り ， 悪性腫瘍に対す る
+拡大郭清
+C1-III 11 ～ 14）
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キノロン 系 薬 ］＋MNZ，
+［ ア ミノ グ リコ シド 系 薬 or 
+AZT or キ ノ ロ ン 系薬］
+＋CLDM
+24 時間 C1-III
+クラスII 腹式子宮摘出術（腹腔鏡下手術） C1-III 11，15）
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キノロン 系 薬 ］＋MNZ，
+［ ア ミノ グ リコ シド 系 薬 or 
+AZT or キ ノ ロ ン 系薬］
+＋CLDM
+単回（長時間手
+術では再投与） C1-III 1）
+クラスII
+腹式子宮全摘術（腹腔鏡下手術） ：
+SSIリ ス ク 因子あ り ， 悪性腫瘍に対す
+る 拡大郭清
+C1-III 11 ～ 14）
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キノロン 系 薬 ］＋MNZ，
+［ ア ミノ グ リコ シド 系 薬 or 
+AZT or キ ノ ロ ン 系薬］
+＋CLDM
+24 時間 C1-III
+クラスII 腟式子宮摘出術 C1-III 3 ～ 6，
+16 ～ 21）
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キノロン 系 薬 ］＋MNZ，
+［ ア ミノ グ リコ シド 系 薬 or 
+AZT or キ ノ ロ ン 系薬］
+＋CLDM
+単回（長時間手
+術では再投与） C1-III
+1，9，
+16）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p30]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 円錐切除術 C1-III
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キノロン 系 薬 ］＋MNZ，
+［ ア ミノ グ リコ シド 系 薬 or 
+AZT or キ ノ ロ ン 系薬］
+＋CLDM 
+［DOXY or MINO（経
+口） 術前， 術後に分服］
+単回 C1-III 術前の ク ラ ミ ジ ア ・ 淋菌ス ク リ ー ニ ン グ は原則必須。
+クラスII 子宮内膜掻爬術 C1-III
+CMZ，FMOX，
+SBT/ABPC，CEZ
+＋MNZ
+［ ア ミノ グ リコ シド 系 薬 or 
+キノロン 系 薬 ］＋MNZ，
+［ ア ミノ グ リコ シド 系 薬 or 
+AZT or キ ノ ロ ン 系薬］
+＋CLDM 
+［DOXY or MINO（経
+口） 術前， 術後に分服］
+単回 C1-III
+緊急の場合を除 き ， 可能な
+限 り 術前の ク ラ ミ ジ ア ・ 淋菌
+ス クリー ニ ン グ の 後 に 手 術 を
+行 う 。 ク ラ ミ ジ ア ・ 淋菌陽性
+の場合は， 治療後に手術 を
+実 施 す ること が 望 まし い 。
+クラスII 子宮内膜掻爬術（子宮頸管 ク ラ ミ ジ
+ア陽性/不明） C1-III CPFX＋MNZ，
+PZFX＋MNZ
+キノロン 系 薬＋MNZ，マ
+ク ロ ラ イド 系 薬 ＋ ア ミノ グ
+リ コ シ ド 系 薬 ，［DOXY 
+or MINO（経口） 術前，
+術後に分服］
+単回 C1-III
+CPFX＋MNZ は高い bioavailability＊
+を 有す る ため に経口投与で も 可（術
+前 2 時間前に内服） 。
+クラスII 子宮内膜掻爬術（子宮頸管淋菌
+陽性） C1-III CTRX＋MNZ AZM＋CLDM 単回 C1-III
+疫学上， 女性の淋菌感染症の頻度
+は低率のため， 不明の場合は通常
+の子宮内膜掻爬術 と 同様な予防抗
+菌薬の使用 を 行 う 。代替薬 と し ての
+AZMはAZM-SR 2 g 経 口 が 望 まし い 。
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p31]]
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+整形外科
+クラスI 骨折手術（ イ ン プ ラ ン ト あ り ）A-I 1 ～ 3） CEZ VCM，TEIC，CLDM 24 時間以内 B-I 2）
+抗菌薬骨濃度の検討か ら，
+タ ー ニ ケ ット 使 用 時 は 少 な くと
+も加?圧?するT?～?PO?分前に
+抗菌薬 を 全量投与す る （C1-
+III，文 献7，19 ～ 21）。
+クラスI 人工関節置換術 A-I 4，5） CEZ VCM，TEIC，CLDM 単回～ 48 時間 B-I 4，6，7）
+① MRSA によるSSI が高率な施設
+では ， 術前に鼻腔内 MRSA 保菌
+チ ェ ッ ク を 考慮す る 。保菌者では
+CEZ と グ リ コペプチ ド系薬の併用な
+らび に 除 菌 が 勧 められる（A-II，文
+献 8 ～ 11）。
+② メ チ シ リ ン 耐性コ ア グ ラ ー ゼ陰性ブ
+ドウ球 菌 （CNS）による感 染も高 率
+であ る が， その保菌者対策について
+は今後の課題である （ unresolved 
+issue）。
+③ MRSA に よ る 感染の多発発生が
+問題 と な っ てい る 施設では グ リ コ ペ
+プチ ド系薬予防投与の必要性に関
+し，ICT な どの感染の専門家 と 相談
+する（C1-III，文 献12，13）。
+④ メ チ シリン 耐 性CNS による 感 染 の
+多発発生に対す る グ リ コ ペ プチ ド系
+薬予防投与は慎重であ る べ き だが，
+その適応に関 し ICT などと検 討 を
+行 ってもよ い （C1-III）。
+⑤初回手術で骨セ メ ン ト を使用する
+場合， 抗菌薬含有骨セ メ ン ト の有用
+性が報告 さ れてい る が（文献14），
+日 本 で はコンセンサ ス が 得られ て い
+な い。ただ し人工関節周囲感染で
+人工関節抜去時， ス ペーサー に は
+抗菌薬含有骨セ メ ン ト の使用 を 推奨
+する（C1-III，文 献15 ～ 18）。
+表 .　（続き）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p32]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスI 脊椎手術（ イ ン ス ト ゥ ル メ ン テ ー シ ョ ン
+なし ）
+A-I 22 ～ 24）CEZ VCM，TEIC，CLDM 単回～ 24 時間 C1-III 25 ～ 28）
+クラスI 脊椎 イ ン ス ト ゥ ル メ ン テ ー シ ョ ン 手術A-II 24） CEZ VCM，TEIC，CLDM 48 時間以内 C1-III 7，27 ～
+29）
+① MRSA によるSSI が高率な施設では， 術前に鼻腔内MRSA 保
+菌チ ェ ッ ク を 考慮す る 。保菌者ではCEZ とグリコ ペ プ チド 系 薬 の
+併 用 ならび に 除 菌 が 勧 められる （C1-III，文 献9 ～ 11）。
+② メ チ シリン 耐 性CNS に よ る 感染 も 高率であ る が， その保菌者対
+策については今後の課題である（unresolved issue）。
+③ MRSA に よ る 感染の多発発生が問題 と な っ てい る 施設では グ リ
+コ ペ プチ ド系薬予防投与の必要性に関 し ，ICT な どの感染の専
+門 家と相 談 する（C1-III，文 献12，13）。
+④ メ チ シリン 耐 性CNS に よ る 感染の多発発生に対す る グ リ コ ペ プ
+チ ド系薬予防投与は慎重であ る べ き だが， その適応に関 しICT
+な どと検 討を行って も よい（C1-III）。
+⑤ VCM パウ ダー局所投与の有用性に関する報告は多いが，
+RCT での有効性は証明 さ れてお ら ず， 安全性に関 し て も さ ら な る
+検討が必要であ る （unresolved issue，文 献30 ～ 41）。
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p33]]
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスI 関節の鏡視下手術 （靭帯再建な し）C1-III 42，43） CEZ VCM，TEIC，CLDM 単回～ 24 時間 C1-III
+抗菌薬骨濃度の検討か ら，
+タ ー ニ ケ ット 使 用 時 は 少 な くと
+も加?圧?するT?～?PO?分前に
+抗菌薬 を 全量投与す る （C1-
+III，文 献7，19 ～ 21）。
+クラスI 関節の鏡視下手術（靭帯再建あ り ）C1-III 44 ～ 46）CEZ VCM，TEIC，CLDM 24 時間以内 C1-III
+クラスI 軟部組織（筋， 腱， 神経）の手術C1-III 47，48） CEZ VCM，TEIC，CLDM 24 時間以内 C1-III
+短時間手術かつ SSIリスク が な い 症
+例では予防抗菌薬の必要性に関 し
+てはコ ンセンサスは得られていない
+（unresolved issue）。
+クラスI 四肢切断（切断肢に感染の合併が
+な く ， 断端の血行が良好の場合）A-II 49） CEZ VCM，TEIC，CLDM 24 時間以内 C1-III 50）
+①創か ら 細菌が検出 さ れてい る 場合
+（colonization） で は ，そ の 菌 種 を ね
+ら っ た抗菌薬選択 を 考慮す る （C1-
+III）。
+②切断肢に感染 を 合併 し てい る 場
+合は治療抗菌薬 を 選択す る 。
+クラスI 悪性腫瘍の再建（ イ ン プ ラ ン ト あ り ）C1-III CEZ VCM，TEIC，CLDM
+24 時 間を超えて
+投 与 する。
+投与期間は個々
+の症例で決定す
+る
+unresol-
+ved issue 51）
+① MRSA によるSSI が高率な施設
+では ， 術前に鼻腔内 MRSA 保菌
+チ ェ ッ ク を 考慮す る 。保菌者では
+VCM の併用 と 除菌が勧め ら れる
+（C1-III）。
+② メ チ シリン 耐 性CNS の保菌者対
+策については今後の課題である
+（unresolved issue）。
+③ イ ン プ ラ ント 手 術 でMRSA やメチシ
+リン 耐 性CNS に よ る 感染が問題 と
+なって いる施 設 で はVCM 予防投与
+の必要性に関 し，ICT な どの感染の
+専門家 と 相談す る （C1-III）。
+クラスIII
+開放骨折［Gustilo 分類（13. 整形
+外科―表参照） （文献52，53）Type 
+I，II， 受傷後6 時間以内でかつ軟
+部組織が適切に処置 さ れた場合］
+A-I 54 ～ 57）CEZ VCM，TEIC，CLDM 48 時間以内 C1-III 56，58，
+59）
+Gustilo 分類 Type I ，II でも ，圧 挫
+損傷や汚染が強い場合は ， Type 
+IIIA に準 じ た投与方法 を 検討す る 。
+クラスIII
+開放骨折（Gustilo 分類 Type IIIA，
+受傷後 6 時間以内でかつ軟部組織
+が適切に処置 さ れた場合）
+A-I 54 ～ 57）
+CEZ＋GM，or 
+CTRX60）
+土壌な どの汚染
+あ り：SBT/
+ABPC55）
+［VCM，TEIC，CLDM］
+＋［AZT or ア ミノ グ リコ
+シ ド系薬］
+48 ～ 72 時間以
+内 C1-III 55，56，
+59）
+Gustilo 分類 Type IIIB，C は治療抗
+菌薬 を 選択。土壌汚染が疑われ る
+場合は Clostridium 属な どの嫌気性
+菌の カ バーが必要（文献55）。
+表 .　（続き）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p34]]
+表 .　（続き）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+泌尿器科
+クラスI
+（尿路系開放な し） ： 腎摘除術， 副
+腎摘除術， 腎部分切除術， 後腹膜
+腫瘍摘除， リ ン パ節郭清， 尿管剥離
+術， 精索静脈手術， 外陰部手術（陰
+茎， 陰嚢， 腟な ど） ， 会陰部手術，
+前立腺小線源療法な ど
+C1-III 1，2） CEZ，SBT/ABPC 経口/静 注 用 キノロン 系
+薬
+単回（長時間手
+術では再投与） C1-III
+1，2） 経口の場合， bioavailability＊の 関 係 から手 術1 ～ 2 時間前に
+服用。
+クラスI （尿路系開放な し） ： 低侵襲/短時間
+手術かつ SSIリスク 因 子 なし C2-III 3） 予防抗菌薬の使
+用 は 推 奨しない― ― ―
+クラスII
+（尿路系開放） ： 腎尿管摘除術， 根
+治的前立腺摘除術， 前立腺被膜下
+摘除， 膀胱部分切除， 膀胱摘除術
+＋ 尿管皮膚瘻，
+VUR 根治術な ど
+C1-III 1） CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系 薬 ，キ
+ノロン 系 薬 単回～ 24 時間 C1-III 1，4，5）
+①術前 よ り 尿路感染症， 細
+菌尿が存在する 場合は， あ
+ら か じ め抗菌薬に よ る 治療
+を 行い， 菌の陰性化 を 図 る
+（C1-III） 。②菌陽性の場合
+はその細菌に抗菌活性 を 有
+す る 抗菌薬 を 選択 （C1-III）。
+クラスIII 膀胱摘除術 ＋ 消化管利用尿路変向
+術， 消化管利用膀胱拡大術な ど
+C1-III 1，6，7） CMZ，FMOX，
+SBT/ABPC
+［ ア ミノ グ リコ シド 系 薬 or 
+キ ノ ロ ン 系薬］ ＋MNZ 24 ～ 48 時間 C1-III 1，8）
+SSI 発生は 20 ～ 40%とき わ め て 高
+率である。 特に代 用 膀 胱 （ パウチ ）
+造設において は高度な術中汚染 も
+考 慮。CMZ や FMOX に対する B. 
+fragilis グ ル ー プ にお け る 耐性化や
+SBT/ABPC に対する大腸菌における
+耐性化 も あ り ，TAZ/PIPC による1 ～
+2 日 間の予防投与 （文献 6）や
+CEZ とMNZ の 併 用 が 検 討されてい
+る。
+クラスII 経尿道的腫瘍切除（TURBT） などC1-III 9）
+CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系
+薬
+ア ミノ グ リコ シド 系 薬 ， 経
+口 キノロン 系 薬
+単回（長時間手
+術では再投与） C1-III
+1）
+クラスII
+経尿道的腫瘍切除な ど（SSIリスク
+因子な し， 腫瘍単発小径， 短時間
+手術）
+bQLhhh?PO?～?PR）予防抗菌薬の使
+用 は 推 奨しない― ― ―
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p35]]
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 経尿道的前立腺切除術（TURP） A-I 9，12，
+14 ～ 16）
+CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系
+薬
+ア ミノ グ リコ シド 系 薬 ， 経
+口 キノロン 系 薬 単回～ 72 時間 B-II 9，12，
+14 ～ 16）
+①術前 よ り 尿路感染症， 細
+菌 尿 が 存 在 す る 場 合 は ，あ
+ら か じ め抗菌薬に よ る 治療
+を 行 い ，菌 の 陰 性 化 を 図 る
+（C1-III） 。②菌陽性の場合
+はその細菌に抗菌活性 を 有
+す る 抗 菌 薬 を 選 択（C1-III）。
+クラスII 経尿道的前立腺核出術（HoLEP/
+TUEB） C1-III 17）
+CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系
+薬
+ア ミノ グ リコ シド 系 薬 ， 経
+口 キノロン 系 薬 単回～ 24 時間 C1-III 17）
+クラスII 体外衝撃波結石破砕治療（ESWL）D-I 18） 予防抗菌薬の使
+用 は 推 奨しない― ― ―
+クラスIII ESWL（術前細菌尿， 感染結石， 複
+数回施行， 結石サ イ ズ3 cm 以上） C1-III 19 ～ 21）
+CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系
+薬
+ア ミノ グ リコ シド 系 薬 ， 経
+口/静注キ ノ ロ ン 系薬単回 C1-III
+クラスII 経尿道的尿管結石破砕術（TUL） B-II 22，23）
+CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系
+薬
+ア ミノ グ リコ シド 系 薬 ， 経
+口/静注キ ノ ロ ン 系薬
+単回（長時間手
+術では再投与） C1-III 22 ～ 24）
+クラスII 経皮的腎結石砕石術（PNL） C1-III 25）
+CEZ，CTM，
+SBT/ABPC
+ア ミノ グ リコ シド 系
+薬
+ア ミノ グ リコ シド 系 薬 ， 経
+口/静注キ ノ ロ ン 系薬
+単回（長時間手
+術では再投与） C1-III
+26，27） 水腎症 ま たは結石サ イ ズ2 cm 以上 を 伴 う 症例では術前 よ り 抗菌
+薬治療（文献 29，30）。
+クラスII 経会陰的前立腺生検 C1-III 30） 経 口 キノロン 系
+薬 ア ミノ グ リコ シド 系 薬単回 C1-III
+30）
+クラスII 経直腸的前立腺生検（低 リ ス ク ）B-II 30 ～ 33）
+経 口 キノロン 系 薬
+（ ＋ ア ミノ グ リコ シド
+系薬）
+ア ミノ グ リコ シド 系 薬単回 B-II 30 ～ 33）
+①高 リ ス ク 症例 ： 前立腺体積75 mL 以 上 ， 糖 尿 病 ，ス テ ロ イド 投
+与 中 ，高 度 排 尿 障 害 （IPSS 20 以上，Qmax 12 mL/sec 以 下 ，残
+尿 100 mL 以上） ， 免疫不全患者な ど（文献31，35）。
+②検査前に直腸ス ワ ブ に よ り 耐性菌の有無 を 確認 しtargeted anti-
+microbial prophylaxisを 行 うことで 感 染 リスクを 減 少 さ せ ること が 示
+唆されているが， 本 邦において保 険 適 応はない（B-II，文 献35）。
+クラスII 経直腸的前立腺生検（高 リ ス ク ）B-II 34） TAZ/PIPC 経 口 キノロン 系 薬 ＋アミ
+ノ グ リコ シド 系 薬 1 日 2 回 （×1日）B-II 34）
+表 .　（続き）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p36]]
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後時間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+乳腺外科
+クラスI 乳房再建 を 伴わ な い乳腺手術 A-I 1） CEZ CLDM，VCM 単回（長時間手
+術では再投与） A-I 1）
+クラスI 乳房再建 を 伴 う 乳腺手術 C1-III 2 ～ 4） CEZ CLDM，VCM 単回～ 24 時間 C1-III 2 ～ 4）
+抗菌薬略号　CEZ：セファゾリン，CTM：セフォチアム，CMZ：セフメタゾール，CTRX：セフトリアキソン，FMOX：フロモキセフ，SBT/ABPC：スルバクタム/アンピシリン，TAZ/PIPC：タゾ
+バクタム/ピペラシリン，AMPC：アモキシシリン , AMPC/CVA：アモキシシリン/クラブラン酸，AZT：アズトレオナム，VCM：バンコマイシン，TEIC：テイコプラニン，CLDM：クリンダマイ
+シン，AZM：アジスロマイシン，CAM：クラリスロマイシン，DOXY：ドキシサイクリン，MINO：ミノサイクリン，CPFX：シプロフロキサシン，PZFX：パズフロキサシン，LVFX：レボフロキ
+サシン，GFLX：ガチフロキサシン，MFLX：モキシフロキサシン，GM：ゲンタマイシン，KM：カナマイシン，MNZ：メトロニダゾール
+その他の略号　SSI： 手術部位感染，ICT： 感染対策チー ム （Infection Control Team），RCT： ラ ン ダ ム 化比較試験
+＊：生物学的利用能。服用した薬物が全身循環に移行する割合。
+表 .　（続き）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p37]]
+文　　献
+1．心臓外科
+文　　献
+ ）-BEPS"
+/BTJS)
+.BOTVS/
+4IBSPOJ&
+#JEFSNBO1
+-FJCPWJDJ-
+FUBM"OUJCJPUJDQSPQIZMBYJTJODBSEJBDTVS 
+HFSZTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+"OUJNJDSPC$IFNPUIFS
+ ）,SFUFS#
+8PPET."OUJCJPUJDQSPQIZMBYJTGPSDBSEJPUIPSBDJDPQFSBUJPOT.FUBBOBMZTJTPGUIJSUZZFBSTPGDMJOJ
+DBMUSJBMT+5IPSBD$BSEJPWBTD4VSH
+ ）$POLMJO$.
+(SBZ3+
+/FJMTPO%
+8POH1
+5PNJUB%,
+.BUMPGG+.%FUFSNJOBOUTPGXPVOEJOGFDUJPOJODJ 
+EFODFBGUFSJTPMBUFEDPSPOBSZBSUFSZCZQBTTTVSHFSZJOQBUJFOUTSBOEPNJ[FEUPSFDFJWFQSPQIZMBDUJDDFGVSPY 
+JNFPSDFGB[PMJO"OO5IPSBD4VSH
+ ）,BJTFS"#
+1FUSBDFL.3
+-FB+8UI
+,FSOPEMF%4
+3PBDI"$
+"MGPSE8$+S
+FUBM&GGJDBDZPGDFGB[PMJO
+
+DFGBNBOEPMF
+BOEHFOUBNJDJOBTQSPQIZMBDUJDBHFOUTJODBSEJBDTVSHFSZ3FTVMUTPGBQSPTQFDUJWF
+SBOEPNJ[FE
+
+EPVCMFCMJOEUSJBMJOQBUJFOUT"OO4VSH
+ ）)BSCBSUI4
+4BNPSF.)
+-JDIUFOCFSH%
+$BSNFMJ:1SPMPOHFEBOUJCJPUJDQSPQIZMBYJTBGUFSDBSEJPWBTDVMBS
+TVSHFSZBOEJUTFGGFDUPOTVSHJDBMTJUFJOGFDUJPOTBOEBOUJNJDSPCJBMSFTJTUBODF$JSDVMBUJPO
+ ）.FSU[%
++PIOTUPOF+
+-PFC.%PFTEVSBUJPOPGQFSJPQFSBUJWFBOUJCJPUJDQSPQIZMBYJTNBUUFSJODBSEJBDTVSHFSZ 
+"TZTUFNBUJDSFWJFXBOENFUBBOBMZTJT"OO4VSH
+ ）4DIXFJ[FS.-
+$IJBOH):
+4FQUJNVT&
+.PPEZ+
+#SBVO#
+)BGOFS+
+FUBM"TTPDJBUJPOPGBCVOEMFEJOUFSWFO
+
+UJPOXJUITVSHJDBMTJUFJOGFDUJPOTBNPOHQBUJFOUTVOEFSHPJOHDBSEJBD
+IJQ
+PSLOFFTVSHFSZ+"."
+
+ ）#PEF-(
+,MVZUNBOT+"
+8FSUIFJN)'
+#PHBFST%
+7BOEFOCSPVDLF(SBVMT$.
+3PPTFOEBBM3
+FUBM1SFWFOU
+
+JOHTVSHJDBMTJUFJOGFDUJPOTJOOBTBMDBSSJFSTPG4UBQIZMPDPDDVTBVSFVT/&OHM+.FE
+ ）4DIXFJ[FS.
+1FSFODFWJDI&
+.D%BOFM+
+$BSTPO+
+'PSNBOFL.
+)BGOFS+
+FUBM&GGFDUJWFOFTTPGBCVOEMFE
+JOUFSWFOUJPOPGEFDPMPOJ[BUJPOBOEQSPQIZMBYJTUPEFDSFBTF(SBNQPTJUJWFTVSHJDBMTJUFJOGFDUJPOTBGUFSDBSEJBD
+PSPSUIPQFEJDTVSHFSZTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT#.+G
+）8BMTI&&
+(SFFOF-
+,JSTIOFS34VTUBJOFESFEVDUJPOJONFUIJDJMMJOSFTJTUBOU4UBQIZMPDPDDVTBVSFVTXPVOE
+JOGFDUJPOTBGUFSDBSEJPUIPSBDJDTVSHFSZ"SDI*OUFSO.FE
+）#VMM"-
+8PSUI-+
+3JDIBSET.+*NQBDUPGWBODPNZDJOTVSHJDBMBOUJCJPUJDQSPQIZMBYJTPOUIFEFWFMPQNFOU
+PGNFUIJDJMMJOTFOTJUJWFTUBQIZMPDPDDVTBVSFVTTVSHJDBMTJUFJOGFDUJPOTSFQPSUGSPN"VTUSBMJBO4VSWFJMMBODF
+%BUB	7*$/*44
+"OO4VSH
+）#PMPO.,
+.PSMPUF.
+8FCFS4(
+,PQMBO#
+$BSNFMJ:
+8SJHIU4#(MZDPQFQUJEFTBSFOPNPSFFGGFDUJWFUIBO
+CFUBMBDUBNBHFOUTGPSQSFWFOUJPOPGTVSHJDBMTJUFJOGFDUJPOBGUFSDBSEJBDTVSHFSZ"NFUBBOBMZTJT$MJO*OGFDU
+%JT
+）&OHFMNBO3
+4IBIJBO%
+4IFNJO3
+(VZ54
+#SBU[MFS%
+&EXBSET'
+FUBM5IF4PDJFUZPG5IPSBDJD4VSHFPOT
+QSBDUJDFHVJEFMJOFTFSJFT"OUJCJPUJDQSPQIZMBYJTJODBSEJBDTVSHFSZ
+QBSU**"OUJCJPUJDDIPJDF"OO5IPSBD
+4VSH
+）4BOEPF+"
+#BSMPX(
+$IBNCFST+#
+(BNNBHF.
+(VMFSJ"
+)PXBSE1
+FUBM(VJEFMJOFTGPSUIFEJBHOPTJT
+
+QSFWFOUJPOBOENBOBHFNFOUPGJNQMBOUBCMFDBSEJBDFMFDUSPOJDEFWJDFJOGFDUJPO3FQPSUPGBKPJOU8PSLJOH
+1BSUZQSPKFDUPOCFIBMGPGUIF#SJUJTI4PDJFUZGPS"OUJNJDSPCJBM$IFNPUIFSBQZ	#4"$
+IPTUPSHBOJ[BUJPO
+
+#SJU
+
+JTI)FBSU3IZUIN4PDJFUZ	#)34
+
+#SJUJTI$BSEJPWBTDVMBS4PDJFUZ	#$4
+
+#SJUJTI)FBSU7BMWF4PDJFUZ	#)74
+
+BOE#SJUJTI4PDJFUZGPS&DIPDBSEJPHSBQIZ	#4&
++"OUJNJDSPC$IFNPUIFS
+）%B$PTUB"
+,JSLPSJBO(
+$VDIFSBU.
+%FMBIBZF'
+$IFWBMJFS1
+$FSJTJFS"
+FUBM"OUJCJPUJDQSPQIZMBYJTGPS
+QFSNBOFOUQBDFNBLFSJNQMBOUBUJPOBNFUBBOBMZTJT$JSDVMBUJPO
+）EF0MJWFJSB+$
+.BSUJOFMMJ.
+/JTIJPLB4"
+7BSFKBP5
+6JQF%
+1FESPTB""
+FUBM&GGJDBDZPGBOUJCJPUJDQSP
+
+QIZMBYJTCFGPSFUIFJNQMBOUBUJPOPGQBDFNBLFSTBOEDBSEJPWFSUFSEFGJCSJMMBUPSTSFTVMUTPGBMBSHF
+QSPTQFDUJWF
+
+SBOEPNJ[FE
+EPVCMFCMJOEFE
+QMBDFCPDPOUSPMMFEUSJBM$JSD"SSIZUIN&MFDUSPQIZTJPM
+）#BEEPVS - .
+ &QTUFJO " &
+ &SJDLTPO $ $
+ ,OJHIU # 1
+ -FWJTPO . &
+ -PDLIBSU 1 #
+ FU BM 6QEBUF PO
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p38]]
+$BSEJPWBTDVMBS*NQMBOUBCMF&MFDUSPOJD%FWJDF*OGFDUJPOTBOE5IFJS.BOBHFNFOU"4DJFOUJGJD4UBUFNFOU'SPN
+UIF"NFSJDBO)FBSU"TTPDJBUJPO$JSDVMBUJPO
+）&EXBSET+3
+1FUFSTPO,%
+.V:
+#BOFSKFF4
+"MMFO#SJETPO,
+.PSSFMM(
+FUBM/BUJPOBM)FBMUIDBSF4BGFUZ
+/FUXPSL	/)4/
+SFQPSUEBUBTVNNBSZGPSUISPVHI
+JTTVFE%FDFNCFS"N+*OGFDU$POUSPM
+
+）$SBCUSFF5%
+$PEE+&
+'SBTFS7+
+#BJMFZ.4
+0MTFO."
+%BNJBOP3++S.VMUJWBSJBUFBOBMZTJTPGSJTLGBD
+
+UPSTGPSEFFQBOETVQFSGJDJBMTUFSOBMJOGFDUJPOBGUFSDPSPOBSZBSUFSZCZQBTTHSBGUJOHBUBUFSUJBSZDBSFNFEJDBM
+DFOUFS4FNJO5IPSBD$BSEJPWBTD4VSH
+）,VUTBM"
+*CSJTJN&
+$BUBW;
+5BTEFNJS0
+#BZB[JU,.FEJBTUJOJUJTBGUFSPQFOIFBSUTVSHFSZ"OBMZTJTPGSJTL
+GBDUPSTBOENBOBHFNFOU+$BSEJPWBTD4VSH	5PSJOP
+
+）,PIMJ.
+:VBO-
+&TDPCBS.
+%BWJE5
+(JMMJT(
+$PNN#
+FUBM"SJTLJOEFYGPSTUFSOBMTVSHJDBMXPVOEJOGFDUJPO
+BGUFSDBSEJPWBTDVMBSTVSHFSZ*OGFDU$POUSPM)PTQ&QJEFNJPM
+）-V+$
+(SBZTPO"%
++IB1
+4SJOJWBTBO",
+'BCSJ#.3JTLGBDUPSTGPSTUFSOBMXPVOEJOGFDUJPOBOENJEUFSN
+TVSWJWBMGPMMPXJOHDPSPOBSZBSUFSZCZQBTTTVSHFSZ&VS+$BSEJPUIPSBD4VSH
+）(PPENBO+4
+4DIBGGOFS8
+$PMMJOT)"
+#BUUFSTCZ&+
+,PFOJH.(*OGFDUJPOBGUFSDBSEJPWBTDVMBSTVSHFSZ
+$MJOJDBMTUVEZJODMVEJOHFYBNJOBUJPOPGBOUJNJDSPCJBMQSPQIZMBYJT/&OHM+.FE
+）.BOHSBN"+
+)PSBO5$
+1FBSTPO.-
+4JMWFS-$
++BSWJT83(VJEFMJOFGPSQSFWFOUJPOPGTVSHJDBMTJUFJOGFD
+
+UJPO
+)PTQJUBM*OGFDUJPO$POUSPM1SBDUJDFT"EWJTPSZ$PNNJUUFF*OGFDU$POUSPM)PTQ&QJEFNJPM
+RVJ[
+）#SBU[MFS%8
+)PVDL1.(VJEFMJOFT4*1"OUJNJDSPCJBMQSPQIZMBYJTGPSTVSHFSZBOBEWJTPSZTUBUFNFOUGSPN
+UIF/BUJPOBM4VSHJDBM*OGFDUJPO1SFWFOUJPO1SPKFDU$MJO*OGFDU%JT
+）;BOFUUJ(
+(JBSEJOB3
+1MBUU3*OUSBPQFSBUJWFSFEPTJOHPGDFGB[PMJOBOESJTLGPSTVSHJDBMTJUFJOGFDUJPOJODBSEJBD
+TVSHFSZ&NFSH*OGFDU%JT
+）#VDLOFMM4+
+.PIBKFSJ.
+-PX+
+.D%POBME.
+)JMM%(4JOHMFWFSTVTNVMUJQMFEPTFBOUJCJPUJDTQSPQIZMBYJTGPS
+DBSEJBDTVSHFSZ"VTU/;+4VSH
+）4JTUP5
+-BVSJLLB+
+5BSLLB.3$FGUSJBYPOFWTDFGVSPYJNFGPSJOGFDUJPOQSPQIZMBYJTJODPSPOBSZCZQBTTTVS
+
+HFSZ4DBOE+5IPSBD$BSEJPWBTD4VSH
+）/PPZFO4.
+0WFSCFFL#1
+#SVUFMEFMB3JWJFSF"
+4UPSN"+
+-BOHFNFZFS++1SPTQFDUJWFSBOEPNJTFEDPN
+QBSJTPOPGTJOHMFEPTFWFSTVTNVMUJQMFEPTFDFGVSPYJNFGPSQSPQIZMBYJTJODPSPOBSZBSUFSZCZQBTTHSBGUJOH&VS
++$MJO.JDSPCJPM*OGFDU%JT
+）5BNBZP&
+(VBMJT+
+'MPSF[4
+$BTUSPEF[B+
+&JSPT#PV[B+.
+"MWBSF['+$PNQBSBUJWFTUVEZPGTJOHMFEPTF
+BOEIPVSNVMUJQMFEPTFBOUJCJPUJDQSPQIZMBYJTGPSDBSEJBDTVSHFSZ+5IPSBD$BSEJPWBTD4VSH
+
+）4BOEPF+"
+,VNBS#
+4UPEEBSU#
+.JMUPO3
+%BWF+
+/BJS63
+FUBM&GGFDUPGFYUFOEFEQFSJPQFSBUJWFBOUJCJPUJD
+QSPQIZMBYJTPOJOUSBWBTDVMBSDBUIFUFSDPMPOJ[BUJPOBOEJOGFDUJPOJODBSEJPUIPSBDJDTVSHFSZQBUJFOUT+"OUJNJ
+
+DSPC$IFNPUIFS
+）/BTDJNFOUP+8
+$BSNPOB.+
+4USBCFMMJ5.
+"VMFS+0+S
+4BOUPT434ZTUFNJDBWBJMBCJMJUZPGQSPQIZMBDUJD
+DFGVSPYJNFJOQBUJFOUTTVCNJUUFEUPDPSPOBSZBSUFSZCZQBTTHSBGUJOHXJUIDBSEJPQVMNPOBSZCZQBTT+)PTQ
+*OGFDU
+）'FMMJOHFS&,
+-FBWJUU#+
+)FCFSU+$4FSVNMFWFMTPGQSPQIZMBDUJDDFGB[PMJOEVSJOHDBSEJPQVMNPOBSZCZQBTT
+TVSHFSZ"OO5IPSBD4VSH
+）0SUFHB(.
+.BSUJ#PONBUJ&
+(VFWBSB4+
+(PNF[*("MUFSBUJPOPGWBODPNZDJOQIBSNBDPLJOFUJDTEVSJOH
+DBSEJPQVMNPOBSZCZQBTTJOQBUJFOUTVOEFSHPJOHDBSEJBDTVSHFSZ"N+)FBMUI4ZTU1IBSN
+）-FXJT%3
+-POHNBO3+
+8JTIFBSU+%
+4QFODFS3$
+#SPXO/.5IFQIBSNBDPLJOFUJDTPGBTJOHMFEPTFPG
+gentamicin	mgkg
+BTQSPQIZMBYJTJODBSEJBDTVSHFSZSFRVJSJOHDBSEJPQVMNPOBSZCZQBTT$BSEJPWBTD4VSH
+
+）,BMMFO"+
+8JMTPO$5
+-BSTPO3+1FSJPQFSBUJWFJOUSBOBTBMNVQJSPDJOGPSUIFQSFWFOUJPOPGTVSHJDBMTJUFJOGFD
+
+UJPOTTZTUFNBUJDSFWJFXPGUIFMJUFSBUVSFBOENFUBBOBMZTJT*OGFDU$POUSPM)PTQ&QJEFNJPM
+）4MBNB5(
+4LMBS4+
+.JTJOTLJ+
+'FTT483BOEPNJ[FEDPNQBSJTPOPGDFGBNBOEPMF
+DFGB[PMJO
+BOEDFGVSPYJNF
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p39]]
+QSPQIZMBYJTJOPQFOIFBSUTVSHFSZ"OUJNJDSPC"HFOUT$IFNPUIFS
+）$SBXGPSE5
+3PEWPME,"
+4PMPNLJO+47BODPNZDJOGPSTVSHJDBMQSPQIZMBYJT $MJO*OGFDU%JT
+）1BUFM+#
+(PSXJU[3+
++FSOJHBO+".VQJSPDJOSFTJTUBODF$MJO*OGFDU%JT
+）4DIFSTUFO).PEJGJFEQSPQIZMBYJTGPSQSFWFOUJOHEFFQTUFSOBMXPVOEJOGFDUJPOBGUFSDBSEJBDTVSHFSZ"1.*4
+
+）'SJCFSH0
+4WFEKFIPMN3
+,BMMNBO+
+4PEFSRVJTU#*ODJEFODF
+NJDSPCJPMPHJDBMGJOEJOHT
+BOEDMJOJDBMQSFTFOUB 
+UJPOPGTUFSOBMXPVOEJOGFDUJPOTBGUFSDBSEJBDTVSHFSZXJUIBOEXJUIPVUMPDBMHFOUBNJDJOQSPQIZMBYJT&VS+
+$MJO.JDSPCJPM*OGFDU%JT
+）&LMVOE".
+7BMUPOFO.
+8FSLLBMB,"1SPQIZMBYJTPGTUFSOBMXPVOEJOGFDUJPOTXJUIHFOUBNJDJODPMMBHFO
+JNQMBOUSBOEPNJ[FEDPOUSPMMFETUVEZJODBSEJBDTVSHFSZ+)PTQ*OGFDU
+）7BOEFS4BMN5+
+0LJLF0/
+1BTRVF.,
+1F[[FMMB"5
+-FX3
+5SBJOB7
+FUBM3FEVDUJPOPGTUFSOBMJOGFDUJPO
+CZBQQMJDBUJPOPGUPQJDBMWBODPNZDJO+5IPSBD$BSEJPWBTD4VSH
+）1JDIMNBJFS.
+,OJHJOB-
+,VUTDILB*
+#BSB$
+0TXBME)
+,MFJO(
+FUBM$PNQMFUFSFNPWBMBTBSPVUJOFUSFBUNFOU
+GPSBOZDBSEJPWBTDVMBSJNQMBOUBCMFFMFDUSPOJDEFWJDFBTTPDJBUFEJOGFDUJPO+5IPSBD$BSEJPWBTD4VSH
+
+）)BCJC"
+-F,:
+#BEEPVS-.
+'SJFENBO1"
+)BZFT%-
+-PITF$.
+FUBM1SFEJDUPSTPGNPSUBMJUZJOQBUJFOUT
+XJUIDBSEJPWBTDVMBSJNQMBOUBCMFFMFDUSPOJDEFWJDFJOGFDUJPOT"N+$BSEJPM
+）,MVH%
+#BMEF.
+1BWJO%
+)JEEFO-VDFU'
+$MFNFOUZ+
+4BEPVM/
+FUBM3JTLGBDUPSTSFMBUFEUPJOGFDUJPOTPG
+JNQMBOUFEQBDFNBLFSTBOEDBSEJPWFSUFSEFGJCSJMMBUPSTSFTVMUTPGBMBSHFQSPTQFDUJWFTUVEZ$JSDVMBUJPO
+
+）4PIBJM.3
+6TMBO%;
+,IBO")
+'SJFENBO1"
+)BZFT%-
+8JMTPO83
+FUBM3JTLGBDUPSBOBMZTJTPGQFSNB
+
+OFOUQBDFNBLFSJOGFDUJPO$MJO*OGFDU%JT
+）%BSPVJDIF3
+.PTJFS.
+7PJHU+"OUJCJPUJDTBOEBOUJTFQUJDTUPQSFWFOUJOGFDUJPOJODBSEJBDSIZUINNBOBHF 
+NFOUEFWJDFJNQMBOUBUJPOTVSHFSZ1BDJOH$MJO&MFDUSPQIZTJPM
+）*SJCBSOF"
+,BSQFOLP"
+3VTTP.+
+$IFFNB')
+6NBOO5
+0[.$
+FUBM&JHIUZFBSFYQFSJFODFXJUINJOJ 
+NBMMZJOWBTJWFDBSEJPUIPSBDJDTVSHFSZ8PSME+4VSH
+）-BQJFSSF)
+$IBO7
+4PINFS#
+.FTBOB5(
+3VFM..JOJNBMMZJOWBTJWFDPSPOBSZBSUFSZCZQBTTHSBGUJOHWJB
+BTNBMMUIPSBDPUPNZWFSTVTPGGQVNQBDBTFNBUDIFETUVEZ&VS+$BSEJPUIPSBD4VSH
+）3PHFST$"
+1JLF,
+"OHFMJOJ(%
+3FFWFT#$
+(MBVCFS.
+'FSSBSJOJ.
+FUBM"OPQFOSBOEPNJ[FEDPOUSPMMFE
+USJBMPGNFEJBOTUFSOPUPNZWFSTVTBOUFSPMBUFSBMMFGUUIPSBDPUPNZPONPSCJEJUZBOEIFBMUIDBSFSFTPVSDFVTFJO
+QBUJFOUTIBWJOHPGGQVNQDPSPOBSZBSUFSZCZQBTTTVSHFSZUIF4UFSOPUPNZ7FSTVT5IPSBDPUPNZ	45&5
+USJBM
++5IPSBD$BSEJPWBTD4VSHF
+）-FPO.#
+,PEBMJ4
+8JMMJBNT.
+0[.
+4NJUI$
+4UFXBSU"
+FUBM5SBOTDBUIFUFSBPSUJDWBMWFSFQMBDFNFOUJO
+QBUJFOUTXJUIDSJUJDBMBPSUJDTUFOPTJTSBUJPOBMF
+EFWJDFEFTDSJQUJPOT
+FBSMZDMJOJDBMFYQFSJFODFT
+BOEQFSTQFDUJWFT
+4FNJO5IPSBD$BSEJPWBTD4VSH
+）#BJMMPU3
+'SFDIFUUF&
+$MPVUJFS%
+3PEFT$BCBV+
+%PZMF%
+$IBSCPOOFBV&
+FUBM4VSHJDBMTJUFJOGFDUJPOTGPMMPX
+
+JOHUSBOTDBUIFUFSBQJDBMBPSUJDWBMWFJNQMBOUBUJPOJODJEFODFBOENBOBHFNFOU+$BSEJPUIPSBD4VSH
+）.BJMMFU+.
+4BCMFZSPMMFT+-
+(VZPO1
+#POOFU/"QJDBMMFGUWFOUSJDVMBSGBMTFBOFVSZTNBGUFSUSBOTBQJDBMUSBOT
+DBUIFUFSBPSUJDWBMWFJNQMBOUBUJPO*OUFSBDU$BSEJPWBTD5IPSBD4VSH
+）WBOEFS#PPO3.
+/VJT3+
+#FOJUF[-.
+7BO.JFHIFN/.
+1FSF[4
+$SV[-
+FUBM'SFRVFODZ
+EFUFSNJOBOUT
+BOEQSPHOPTUJDJNQMJDBUJPOTPGJOGFDUJPVTDPNQMJDBUJPOTBGUFSUSBOTDBUIFUFSBPSUJDWBMWFJNQMBOUBUJPO"N+
+$BSEJPM
+）&JTFO"
+4IBQJSB:
+4BHJF"
+,PSOPXTLJ3*OGFDUJWFFOEPDBSEJUJTJOUIFUSBOTDBUIFUFSBPSUJDWBMWFSFQMBDFNFOU
+FSBDPNQSFIFOTJWFSFWJFXPGBSBSFDPNQMJDBUJPO$MJO$BSEJPM&
+）"VOH5
+1PPO,
+)PSWBUI3
+$PVMUFS$
+8BMUFST%-"DBTFTFSJFTPGNFEJDBMMZNBOBHFEJOGFDUJWFFOEPDBSEJUJT
+BGUFSUSBOTDBUIFUFSBPSUJDWBMWFSFQMBDFNFOU4DBOE+*OGFDU%JT
+）-PWFSJY-
+5JNNFSNBOT1
+#FOJU&4VDDFTTGVMOPOTVSHJDBMUSFBUNFOUPGFOEPDBSEJUJTDBVTFECZ4UBQIZMPDPD
+
+DVTIBFNPMZUJDVTGPMMPXJOHUSBOTDBUIFUFSBPSUJDWBMWFJNQMBOUBUJPO	5"7*）"DUB$MJO#FMH
+）#JUFLFS'4
+.FSU,6
+.FSU(¹，%PğBO7
+#JUFLFS.*OGFDUJWFFOEPDBSEJUJTQSPQIZMBYJTJOUSBOTDBUIFUFS
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p40]]
+BPSUJDWBMWFSFQMBDFNFOU*OU+$BSEJPM
+）0MNPT$
+7JMBDPTUB*
+'FSSFSB$
+7JWBT%
+4ÂODIF[&OSJRVF$
+/PHBMFT5
+FUBM5SBOTDBUIFUFSBPSUJDWBMWF
+JNQMBOUBUJPOXJUIBHJBOUWFHFUBUJPOTVDDFTTGVMMZUSFBUFEXJUIBOUJCJPUJDTJOTJHIUTJOUPBOFXHSPVQPGQBUJFOUT
+XJUIFOEPDBSEJUJT+)FBSU7BMWF%JT
+）4VMžFOLP+
+5PVãFL1
+-ÍOLPWÂ)*OGFDUJWFFOEPDBSEJUJTBTBNJEUFSNDPNQMJDBUJPOBGUFSUSBOTDBUIFUFSBPSUJD
+WBMWFJNQMBOUBUJPODBTFSFQPSUBOEMJUFSBUVSFSFWJFX$BUIFUFS$BSEJPWBTD*OUFSW
+2．血管外科
+文　　献
+ ）"OUJNJDSPCJBMQSPQIZMBYJTGPSTVSHFSZ5SFBU(VJEFM.FE-FUU
+ ）#SBU[MFS%8
+)PVDL1.4VSHJDBM*OGFDUJPO1SFWFOUJPO(VJEFMJOFT8SJUFST8
+"NFSJDBO"DBEFNZPG0SUIP
+
+QBFEJD4
+"NFSJDBO"TTPDJBUJPOPG$SJUJDBM$BSF/
+"NFSJDBO"TTPDJBUJPOPG/VSTF"
+FUBM"OUJNJDSPCJBM
+QSPQIZMBYJTGPSTVSHFSZBOBEWJTPSZTUBUFNFOUGSPNUIF/BUJPOBM4VSHJDBM*OGFDUJPO1SFWFOUJPO1SPKFDU$MJO
+*OGFDU%JT
+ ）4UFXBSU")
+&ZFST14
+&BSOTIBX++1SFWFOUJPOPGJOGFDUJPOJOQFSJQIFSBMBSUFSJBMSFDPOTUSVDUJPOBTZTUFN
+
+BUJDSFWJFXBOENFUBBOBMZTJT+7BTD4VSH
+ ）;JCBSJ(#
+(BEBMMBI.'
+-BOESFOFBV.
+.D.JMMBO3
+#SJEHFT3.
+$PTUMFZ,
+FUBM1SFPQFSBUJWFWBODPNZDJO
+QSPQIZMBYJTEFDSFBTFTJODJEFODFPGQPTUPQFSBUJWFIFNPEJBMZTJTWBTDVMBSBDDFTTJOGFDUJPOT"N+,JEOFZ%JT
+
+ ）)PNFS7BOOJBTJOLBN44VSHJDBMTJUFBOEWBTDVMBSJOGFDUJPOTUSFBUNFOUBOEQSPQIZMBYJT*OU+*OGFDU%JT
+	4VQQM
+4
+ ）%VB"
+%FTBJ44
+4FBCSPPL(3
+#SPXO,3
+-FXJT#%
+3PTTJ1+
+FUBM5IFFGGFDUPG4VSHJDBM$BSF*NQSPWF
+
+NFOU1SPKFDUNFBTVSFTPOOBUJPOBMUSFOETPOTVSHJDBMTJUFJOGFDUJPOTJOPQFOWBTDVMBSQSPDFEVSFT+7BTD4VSH
+
+ ）)BMM+$
+$ISJTUJBOTFO,+
+(PPENBO.
+-BXSFODF#SPXO.
+1SFOEFSHBTU'+
+3PTFOCFSH1
+FUBM%VSBUJPOPG
+BOUJNJDSPCJBMQSPQIZMBYJTJOWBTDVMBSTVSHFSZ"N+4VSH
+ ）/BZMPS"3
+1BZOF%
+-POEPO/+
+5IPNQTPO..
+%FOOJT.4
+4BZFST3%
+FUBM1SPTUIFUJDQBUDIJOGFDUJPO
+BGUFSDBSPUJEFOEBSUFSFDUPNZ&VS+7BTD&OEPWBTD4VSH
+ ）7FOLBUFTBO".
+,VOEV4
+4BDLT%
+8BMMBDF.+
+8PKBL+$
+3PTF4$
+FUBM1SBDUJDFHVJEFMJOFTGPSBEVMU
+BOUJCJPUJDQSPQIZMBYJTEVSJOHWBTDVMBSBOEJOUFSWFOUJPOBMSBEJPMPHZQSPDFEVSFT8SJUUFOCZUIF4UBOEBSETPG
+1SBDUJDF$PNNJUUFFGPSUIF4PDJFUZPG*OUFSWFOUJPOBM3BEJPMPHZBOE&OEPSTFECZUIF$BSEJPWBTDVMBS*OUFSWFO
+
+UJPOBM3BEJPMPHJDBM4PDJFUZPG&VSPQFBOE$BOBEJBO*OUFSWFOUJPOBM3BEJPMPHZ"TTPDJBUJPO<DPSSFDUFE>+7BTD
+*OUFSW3BEJPMRVJ[
+）#FDLFS(+
+,PWBDT.
+.BUIJTPO./
+,BU[FO#5
+#FOFOBUJ+'
+;FNFM(
+FUBM3JTLTUSBUJGJDBUJPOBOEPVUDPNFT
+PGUSBOTMVNJOBMFOEPHSBGUJOHGPSBCEPNJOBMBPSUJDBOFVSZTNZFBSFYQFSJFODFBOEMPOHUFSNGPMMPXVQ+7BTD
+*OUFSW3BEJPM
+）#FEEZ1
+3ZBO+."OUJCJPUJDQSPQIZMBYJTJOJOUFSWFOUJPOBMSBEJPMPHZ―BOZUIJOHOFX 5FDI7BTD*OUFSW
+3BEJPM
+）.BMFL".
+)JHBTIJEB35
+3FJMMZ-.
+4NJUI84
+,BOH4.
+(SFTT%3
+FUBM4VCDMBWJBOBSUFSJUJTBOEQTFV
+
+EPBOFVSZTNGPSNBUJPOTFDPOEBSZUPTUFOUJOGFDUJPO$BSEJPWBTD*OUFSWFOU3BEJPM
+）.D%FSNPUU7(
+4DIVTUFS.(
+4NJUI51"OUJCJPUJDQSPQIZMBYJTJOWBTDVMBSBOEJOUFSWFOUJPOBMSBEJPMPHZ
+"+3"N+3PFOUHFOPM
+）3ZBO+.
+3ZBO#.
+4NJUI51"OUJCJPUJDQSPQIZMBYJTJOJOUFSWFOUJPOBMSBEJPMPHZ+7BTD*OUFSW3BEJPM
+
+）+POHLJOE+
+¾OMÛ Ç
+7BIM"
+7PPSXJOEF5
+WBO/JFVXFOIVJ[FO3
+#PTNB+"OUJCJPUJD1SPQIZMBYJTJO"VUPMP 
+HPVT7FJO(SBGU3FDPOTUSVDUJPOTPGUIF-PXFS&YUSFNJUZ7BTD&OEPWBTDVMBS4VSH
+）.FLBLP"*
+$IFUUFS*$
+$PVHIMJO1"
+)BUGJFME+
+.D$PMMVN15)VMM"OUJCJPUJDQ3PQIZMBYJTJOWBSJDPTF7FJO
+4VSHFSZ5SJBMJTUT	)"37&45
+3BOEPNJ[FEDMJOJDBMUSJBMPGDPBNPYJDMBWWFSTVTOPBOUJCJPUJDQSPQIZMBYJTJO
+WBSJDPTFWFJOTVSHFSZ#S+4VSH
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p41]]
+）4JOHI3
+.FTI$-
+"SZBJF"
+%XJWFEJ",
+.BSTEFO#
+4IVLMB3
+FUBM#FOFGJUPGBTJOHMFEPTFPGQSFPQFSBUJWF
+BOUJCJPUJDPOTVSHJDBMTJUFJOGFDUJPOJOWBSJDPTFWFJOTVSHFSZ"OO7BTD4VSH
+）1BO:
+;IBP+
+.FJ+
+4IBP.
+;IBOH+$PNQBSJTPOPGFOEPWFOPVTMBTFSBCMBUJPOBOEIJHIMJHBUJPOBOETUSJQQJOH
+GPSWBSJDPTFWFJOUSFBUNFOUBNFUBBOBMZTJT1IMFCPMPHZ
+）#VSOBLJT5(4VSHJDBMBOUJNJDSPCJBMQSPQIZMBYJTQSJODJQMFTBOEHVJEFMJOFT1IBSNBDPUIFSBQZ
+）3JDIFU).
+$IJEJBD$
+1SBU"
+1PM"
+%BWJE.
+.BDDBSJP.
+FUBM"OBMZTJTPGSJTLGBDUPSTGPSTVSHJDBMXPVOE
+JOGFDUJPOTGPMMPXJOHWBTDVMBSTVSHFSZ"N+.FE44
+）3PTT$#
+8IFFMFS8(OE
++POFT.+
+,FSJOT$"
+1FFL5&$FGUSJBYPOFWFSTVTDFGB[PMJOJOQFSJQIFSBMBSUF
+SJBMPQFSBUJPOTBSBOEPNJ[FE
+QSPTQFDUJWFUSJBM4PVUI.FE+
+）-FSPZ0
+.BSUJO&
+1SBU"
+%FDPVMY&
+(FPSHFT)
+(VJMMFZ+
+FUBM'BUBMJOGFDUJPOPGDPSPOBSZTUFOUJNQMBOUBUJPO
+$BUIFU$BSEJPWBTD%JBHOEJTDVTTJPO
+）8IJUUPO)PMMJT)+S
+3FISJOH5''FNPSBMFOEBSUFSJUJTBTTPDJBUFEXJUIQFSDVUBOFPVTTVUVSFDMPTVSFOFXUFDI
+OPMPHZ
+DIBMMFOHJOHDPNQMJDBUJPOT+7BTD4VSH
+）&SCFM3
+"CPZBOT7
+#PJMFBV$
+#PTTPOF&
+#BSUPMPNFP3%
+&HHFCSFDIU)
+FUBM&4$(VJEFMJOFTPOUIF
+EJBHOPTJTBOEUSFBUNFOUPGBPSUJDEJTFBTFT%PDVNFOUDPWFSJOHBDVUFBOEDISPOJDBPSUJDEJTFBTFTPGUIFUIPSBDJD
+BOEBCEPNJOBMBPSUBPGUIFBEVMU5IF5BTL'PSDFGPSUIF%JBHOPTJTBOE5SFBUNFOUPG"PSUJD%JTFBTFTPGUIF
+&VSPQFBO4PDJFUZPG$BSEJPMPHZ	&4$
+&VS)FBSU+
+）&EXBSET8)+S
+,BJTFS"#
+,FSOPEMF%4
+"QQMFCZ5$
+&EXBSET8)4S
+.BSUJO34SE
+FUBM$FGVSPYJNF
+WFSTVTDFGB[PMJOBTQSPQIZMBYJTJOWBTDVMBSTVSHFSZ+7BTD4VSHEJTDVTTJPO
+）&EXBSET8)+S
+,BJTFS"#
+5BQQFS4
+&EXBSET8)4S
+.BSUJO34SE
+.VMIFSJO+-+S
+FUBM$FGBNBOEPMF
+WFSTVTDFGB[PMJOJOWBTDVMBSTVSHJDBMXPVOEJOGFDUJPOQSPQIZMBYJTDPTUFGGFDUJWFOFTTBOESJTLGBDUPST+7BTD
+4VSHEJTDVTTJPO
+3．呼吸器外科
+文　　献
+ ）$IBOH4)
+,SVQOJDL"41FSJPQFSBUJWFBOUJCJPUJDTJOUIPSBDJDTVSHFSZ5IPSBD4VSH$MJO
+ ）&EXBSET')
+&OHFMNBO3.
+)PVDL1
+4IBIJBO%.
+#SJEHFT$35IF4PDJFUZPG5IPSBDJD4VSHFPOT1SBDUJDF
+(VJEFMJOF4FSJFT"OUJCJPUJD1SPQIZMBYJTJO$BSEJBD4VSHFSZ
+1BSU*%VSBUJPO"OO5IPSBD4VSH
+
+ ）,WBMF1"
+3BOHB7
+,PQBD[.
+$PY'
+.BHJMMJHBO%+
+%BWJMB+$1VMNPOBSZSFTFDUJPO4PVUI.FE+
+	4VQQM
+
+ ）*MWFT3
+$PPQFS+%
+5PEE53
+1FBSTPO'(1SPTQFDUJWF
+SBOEPNJ[FE
+EPVCMFCMJOETUVEZVTJOHQSPQIZMBDUJD
+DFQIBMPUIJOGPSNBKPS
+FMFDUJWF
+HFOFSBMUIPSBDJDPQFSBUJPOT+5IPSBD$BSEJPWBTD4VSH
+ ）'SJNPEU.PMMFS/
+0TUSJ1
+1FEFSTFO*,
+1PVMTFO43"OUJCJPUJDQSPQIZMBYJTJOQVMNPOBSZTVSHFSZBEPVCMF
+CMJOETUVEZPGQFOJDJMMJOWFSTVTQMBDFCP"OO4VSH
+ ）"[OBS3
+.BUFV.
+.JSÓ+.
+(BUFMM+.
+(JNGFSSFS+.
+"[OBS&
+FUBM"OUJCJPUJDQSPQIZMBYJTJOOPODBSEJBD
+UIPSBDJDTVSHFSZDFGB[PMJOWFSTVTQMBDFCP&VS+$BSEJPUIPSBD4VSH
+ ）'SFZ%+
+3FJDINBOO",
+.BVDI)
+,BJTFS%<“4JOHMFTIPU”BOUJCJPUJDQSPQIZMBYJTJOUIPSBDJDTVSHFSZSFEVD
+
+UJPOPGUIFQPTUPQFSBUJWFJOGFDUJPOSBUF>*OGFDUJPO	4VQQM
+4
+ ）#PVMBOHFS(
+%PQGG$
+#PJMFBV4
+(FSBSE"
+#PSSFMMZ+
+$BOUPO1<"OUJCJPQSPQIZMBYJTJOQVMNPOBSZTVSHFSZB
+SBOEPNJ[FEUSJBMXJUIDFGBNBOEPMFWFSTVTQMBDFCP>"OO'S"OFTUI3FBOJN
+ ）8FSU[FM)
+4XPCPEB-
++PPT8VSUFNCFSHFS"
+'SBOL6
+)BTTF+1FSJPQFSBUJWFBOUJCJPUJDQSPQIZMBYJTJOHFO 
+FSBMUIPSBDJDTVSHFSZ5IPSBD$BSEJPWBTD4VSH
+）0YNBO%"
+*TTB/$
+.BSUZ'.
+1BUFM"
+1BOJ[BMFT$;
++PIOTPO//
+FUBM1PTUPQFSBUJWFBOUJCBDUFSJBMQSP
+QIZMBYJTGPSUIFQSFWFOUJPOPGJOGFDUJPVTDPNQMJDBUJPOTBTTPDJBUFEXJUIUVCFUIPSBDPTUPNZJOQBUJFOUTVOEFSHP
+JOHFMFDUJWFHFOFSBMUIPSBDJDTVSHFSZBEPVCMFCMJOE
+QMBDFCPDPOUSPMMFE
+SBOEPNJ[FEUSJBM+"."4VSH
+
+）0MBL+
++FZBTJOHIBN,
+'PSSFTUFS8PPE$
+)VUUFS+
+BM;FFSBI.
+#SPXO&3BOEPNJ[FEUSJBMPGPOFEPTFWFSTVT
+TJYEPTFDFGB[PMJOQSPQIZMBYJTJOFMFDUJWFHFOFSBMUIPSBDJDTVSHFSZ"OO5IPSBD4VSH
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p42]]
+）#FSOBSE"
+1JMMFU.
+(PVEFU1
+7JBSE)"OUJCJPUJDQSPQIZMBYJTJOQVMNPOBSZTVSHFSZ"QSPTQFDUJWFSBOEPN
+J[FEEPVCMFCMJOEUSJBMPGGMBTIDFGVSPYJNFWFSTVTGPSUZFJHIUIPVSDFGVSPYJNF+5IPSBD$BSEJPWBTD4VSH
+
+）3BEV%.
++BVSFHVZ'
+4FHVJO"
+'PVMPO$
+%FTUBCMF.%
+"[PSJO+
+FUBM1PTUPQFSBUJWFQOFVNPOJBBGUFSNBKPS
+QVMNPOBSZSFTFDUJPOTBOVOTPMWFEQSPCMFNJOUIPSBDJDTVSHFSZ"OO5IPSBD4VSH
+） 酒井光昭，伊藤博道，小貫琢哉，小澤雄一郎，中村亮太，臼井　亮，他：肺葉切除術・区域切除術に対する周術
+期予防的抗菌薬投与法の検討―術前術中投与法と術後投与法の比較―。日呼外会誌
+） 船井和仁，吉田純司，塩野知志，高持一矢，西村光世，永井完治：呼吸器外科手術における予防的抗菌薬投与の
+意義。日呼外会誌
+） 中村　徹，豊田　太：肺葉切除における予防的抗生剤投与法の検討。日呼外会誌
+）*NQFSBUPSJ"
+3PUPMP/
+(BUUJ.
+/BSEFDDIJB&
+%F.POUF-
+$POUJ7
+FUBM1FSJPQFSBUJWFDPNQMJDBUJPOTPG
+WJEFPBTTJTUFEUIPSBDPTDPQJDTVSHFSZ	7"54
+*OU+4VSH	4VQQM
+4
+）4PMBJOJ-
+1SVTDJBOP'
+#BHJPOJ1
+EJ'SBODFTDP'
+4PMBJOJ-
+1PEEJF%#7JEFPBTTJTUFEUIPSBDJDTVSHFSZ
+	7"54
+PGUIFMVOHBOBMZTJTPGJOUSBPQFSBUJWFBOEQPTUPQFSBUJWFDPNQMJDBUJPOTPWFSZFBSTBOESFWJFXPGUIF
+MJUFSBUVSF4VSH&OEPTD
+）#PMEU+
+1JQFS4
+6QIVT%
+'VTTMF3
+)FNQFMNBOO(1SFPQFSBUJWFNJDSPCJPMPHJDTDSFFOJOHBOEBOUJCJPUJDQSP 
+QIZMBYJTJOQVMNPOBSZSFTFDUJPOPQFSBUJPOT"OO5IPSBD4VSH
+）3PWFSB'
+*NQFSBUPSJ"
+.JMJUFMMP1
+.PSSJ"
+"OUPOJOJ$
+%JPOJHJ(
+FUBM*OGFDUJPOTJODPOTFDVUJWFWJEFP
+BTTJTUFEUIPSBDPTDPQJDQSPDFEVSFT4VSH*OGFDU
+）0MHBD(
+"ZEPHNVT6
+.VMB[JNPHMV-
+,VUMV$""OUJCJPUJDTBSFOPUOFFEFEEVSJOHUVCFUIPSBDPTUPNZGPS
+TQPOUBOFPVTQOFVNPUIPSBYBOPCTFSWBUJPOBMDBTFTUVEZ+$BSEJPUIPSBD4VSH
+）%BWJFT)&
+%BWJFT3+
+%BWJFT$8.BOBHFNFOUPGQMFVSBMJOGFDUJPOJOBEVMUT#SJUJTI5IPSBDJD4PDJFUZ1MFV
+SBM%JTFBTF(VJEFMJOF5IPSBY	4VQQM
+JJ
+）-BXT%
+/FWJMMF&
+%VGGZ+#54HVJEFMJOFTGPSUIFJOTFSUJPOPGBDIFTUESBJO5IPSBY	4VQQM
+JJ
+）#PTNBO"
+EF+POH.#
+%FCFJK+
+WBOEFO#SPFL1+
+4DIJQQFS*#4ZTUFNBUJDSFWJFXBOENFUBBOBMZTJTPG
+BOUJCJPUJDQSPQIZMBYJTUPQSFWFOUJOGFDUJPOTGSPNDIFTUESBJOTJOCMVOUBOEQFOFUSBUJOHUIPSBDJDJOKVSJFT#S+
+4VSH
+）(SJHPSFTDV%
+.BHIJBS"&GGJDBDZPGBOUJCJPUJDQSPQIZMBYJTGPSQSFWFOUJOHJOUSBUIPSBDJDJOGFDUJPOT
+BGUFSUIP
+
+SBDPTUPNZ
+GPSUSBVNBUJDIBFNPQOFVNPUIPSBYFYQFSJFODFPG0SBEFBDPVOUZFNFSHFODZIPTQJUBM3FW.FE
+$IJS4PD.FE/BU*BTJ
+）.PPSF'0
+%VBOF5.
+)V$,
+'PY"%
+.D2VBZ/+S
+-JFCFS.-
+FUBM1SFTVNQUJWFBOUJCJPUJDVTFJOUVCF
+UIPSBDPTUPNZGPSUSBVNBUJDIFNPQOFVNPUIPSBYBO&BTUFSO"TTPDJBUJPOGPSUIF4VSHFSZPG5SBVNBQSBDUJDF
+NBOBHFNFOUHVJEFMJOF+5SBVNB"DVUF$BSF4VSH	4VQQM
+4
+）4BOBCSJB"
+7BMEJWJFTP&
+(PNF[(
+&DIFWFSSZ(1SPQIZMBDUJDBOUJCJPUJDTJODIFTUUSBVNBBNFUBBOBMZTJTPG
+IJHIRVBMJUZTUVEJFT8PSME+4VSH
+）(PO[BMF[31
+)PMFWBS.33PMFPGQSPQIZMBDUJDBOUJCJPUJDTGPSUVCFUIPSBDPTUPNZJODIFTUUSBVNB"N4VSH
+EJTDVTTJPO
+）-VDIFUUF'"
+#BSSJF14
+0TXBOTLJ.'
+4QBJO%"
+.VMMJOT$%
+1BMVNCP'
+FUBM1SBDUJDF.BOBHFNFOU
+(VJEFMJOFTGPS1SPQIZMBDUJD"OUJCJPUJD6TFJO5VCF5IPSBDPTUPNZGPS5SBVNBUJD)FNPQOFVNPUIPSBYUIF
+&"451SBDUJDF.BOBHFNFOU(VJEFMJOFT8PSL(SPVQ&BTUFSO"TTPDJBUJPOGPS5SBVNB+5SBVNB
+
+）.BYXFMM3"
+$BNQCFMM%+
+'BCJBO5$
+$SPDF."
+-VDIFUUF'"
+,FSXJO"+
+FUBM6TFPGQSFTVNQUJWF
+BOUJCJPUJDTGPMMPXJOHUVCFUIPSBDPTUPNZGPSUSBVNBUJDIFNPQOFVNPUIPSBYJOUIFQSFWFOUJPOPGFNQZFNBBOE
+QOFVNPOJBBNVMUJDFOUFSUSJBM+5SBVNBEJTDVTTJPO
+）)FZEBSJ.#
+)FTTBNJ."
+4FUBZFTIJ,
+4BKBEJGBS'6TFPGQSPQIZMBDUJDBOUJCJPUJDTGPMMPXJOHUVCFUIPSBDPT
+
+UPNZGPSCMVOUDIFTUUSBVNBJOUIFQSFWFOUJPOPGFNQZFNBBOEQOFVNPOJB+*OK7JPMFODF3FT
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p43]]
+4．上部消化管外科（食道，胃）
+文　　献
+ ）/JDIPMT3-
+4NJUI+8*OUSBHBTUSJDNJDSPCJBMDPMPOJ[BUJPOJODPNNPOEJTFBTFTUBUFTPGUIFTUPNBDIBOEEVP
+EFOVN"OO4VSH
+ ）'VKJUB5
+%BJLP)0QUJNBMEVSBUJPOPGQSPQIZMBDUJDBOUJNJDSPCJBMBENJOJTUSBUJPOBOESJTLPGQPTUPQFSBUJWF
+JOGFDUJPVTFWFOUTJOUIPSBDJDFTPQIBHFDUPNZXJUIUISFFGJFMEMZNQIOPEFEJTTFDUJPOTIPSUDPVSTFWFSTVTQSP 
+MPOHFEBOUJNJDSPCJBMBENJOJTUSBUJPO&TPQIBHVT
+ ）3PUNBO/
+)BZ+.
+-BDBJOF'
+'BHOJF[1-1SPQIZMBDUJDBOUJCJPUIFSBQZJOBCEPNJOBMTVSHFSZ'JSTUWTUIJSE
+HFOFSBUJPODFQIBMPTQPSJOT"SDI4VSH
+ ）4UPOF))
+)PPQFS$"
+,PMC-%
+(FIFCFS$&
+%BXLJOT&+"OUJCJPUJDQSPQIZMBYJTJOHBTUSJD
+CJMJBSZBOE
+DPMPOJDTVSHFSZ"OO4VSH
+ ）$IBOH4)
+,SVQOJDL"41FSJPQFSBUJWFBOUJCJPUJDTJOUIPSBDJDTVSHFSZ5IPSBD4VSH$MJO
+ ）4IBSQF%"
+3FOXJDL1
+.BUIFXT,)
+.PHIJTTJ,"OUJCJPUJDQSPQIZMBYJTJOPFTPQIBHFBMTVSHFSZ&VS+$BS
+EJPUIPSBD4VSH
+ ）/JDIPMT3-
+8FCC83
++POFT+8
+4NJUI+8
+-P$JDFSP+SE&GGJDBDZPGBOUJCJPUJDQSPQIZMBYJTJOIJHISJTL
+HBTUSPEVPEFOBMPQFSBUJPOT"N+4VSH
+ ）4VNJZBNB:
+,VTBDIJ4
+:PTIJEB:
+"SJNB:
+5BOBLB)
+/BLBNVSB:
+FUBM2VFTUJPOOBJSFPOQFSJPQFSBUJWF
+BOUJCJPUJDUIFSBQZJOQPTUPQFSBUJWFQSPQIZMBYJT4VSH5PEBZ
+ ）+POFT3/
+8PKFTLJ8
+#BLLF+
+1PSUFS$
+4FBSMFT."OUJCJPUJDQSPQIZMBYJTPG
+QBUJFOUTVOEFSHPJOHFMFD
+UJWFTVSHJDBMQSPDFEVSFT"QSPTQFDUJWF
+SBOEPNJ[FEDPNQBSBUJWFUSJBMPGDFGB[PMJO
+DFGPYJUJO
+BOEDFGPUBYJNF
+JOBQSFQBJENFEJDBMQSBDUJDF"N+4VSH
+）/FMTPO3-
+(MBENBO&
+#BSCBUFTLPWJD."OUJNJDSPCJBMQSPQIZMBYJTGPSDPMPSFDUBMTVSHFSZ$PDISBOF%BUBCBTF
+4ZTU3FW$%
+）4POH'
+(MFOOZ"."OUJNJDSPCJBMQSPQIZMBYJTJODPMPSFDUBMTVSHFSZBTZTUFNBUJDSFWJFXPGSBOEPNJ[FEDPO
+USPMMFEUSJBMT#S+4VSH
+）3PXF+POFT%$
+1FFM"-
+,JOHTUPO3%
+4IBX+'
+5FBTEBMF$
+$PMF%44JOHMFEPTFDFGPUBYJNFQMVTNFUSP 
+OJEB[PMFWFSTVTUISFFEPTFDFGVSPYJNFQMVTNFUSPOJEB[PMFBTQSPQIZMBYJTBHBJOTUXPVOEJOGFDUJPOJODPMPSFDUBM
+TVSHFSZNVMUJDFOUSFQSPTQFDUJWFSBOEPNJTFETUVEZ#.+
+）/ÅG'
+8BSTDILPX3
+,PMC8
+;ÛOE.
+-BOHF+
+4UFGGFO54FMFDUJWFEFDPOUBNJOBUJPOPGUIFHBTUSPJOUFTUJOBM
+USBDUJOQBUJFOUTVOEFSHPJOHFTPQIBHFBMSFTFDUJPO#.$4VSH
+）'BSSBO-
+-MPQ+
+4BOT.
+,SFJTMFS&
+.JSÓ.
+(BMBO.
+FUBM&GGJDBDZPGFOUFSBMEFDPOUBNJOBUJPOJOUIFQSFWFO
+
+UJPOPGBOBTUPNPUJDEFIJTDFODFBOEQVMNPOBSZJOGFDUJPOJOFTPQIBHPHBTUSJDTVSHFSZ%JT&TPQIBHVT
+
+）#SBU[MFS%8
+%FMMJOHFS&1
+0MTFO,.
+1FSM5.
+"VXBFSUFS1(
+#PMPO.,
+FUBM"NFSJDBO4PDJFUZPG
+)FBMUI4ZTUFN1IBSNBDJTUT*OGFDUJPVT%JTFBTF4PDJFUZPG"NFSJDB4VSHJDBM*OGFDUJPO4PDJFUZ4PDJFUZGPS
+)FBMUIDBSF&QJEFNJPMPHZPG"NFSJDB$MJOJDBMQSBDUJDFHVJEFMJOFTGPSBOUJNJDSPCJBMQSPQIZMBYJTJOTVSHFSZ"N
++)FBMUI4ZTU1IBSN
+）-PVJF5+
+#MBODIBSE3
+:BGGF$
+-FSU[NBO+
+.D-FPE+3BOEPNJ[FE
+EPVCMFCMJOEDPNQBSJTPOPGDFGPUBYJNF
+
+DFGPYJUJO
+DFGB[PMJOPSQMBDFCPBTQSPQIZMBYJTEVSJOHHBTUSJD
+TNBMMCPXFMPSDPNQMJDBUFECJMJBSZTVSHFSZ+
+"OUJNJDSPC$IFNPUIFS#
+）*NBNVSB)
+,VSPLBXB:
+5TVKJOBLB5
+*OPVF,
+,JNVSB:
+*JKJNB4
+FUBM*OUSBPQFSBUJWFWFSTVTFYUFOEFEBOUJ
+
+NJDSPCJBMQSPQIZMBYJTBGUFSHBTUSJDDBODFSTVSHFSZBQIBTF
+PQFOMBCFM
+SBOEPNJTFEDPOUSPMMFE
+OPOJOGFSJPSJUZ
+USJBM-BODFU*OGFDU%JT
+）.PISJ:
+5POPVDIJ)
+,PCBZBTIJ.
+/BLBJ,
+,VTVOPLJ..JF4VSHJDBM*OGFDUJPO3FTFBSDI(SPVQ3BOEPNJ[FE
+DMJOJDBMUSJBMPGTJOHMFWFSTVTNVMUJQMFEPTFBOUJNJDSPCJBMQSPQIZMBYJTJOHBTUSJDDBODFSTVSHFSZ#S+4VSH
+
+）)BHB/
+*TIJEB)
+*TIJHVSP5
+,VNBNPUP,
+*TIJCBTIJ,
+5TVKJ:
+FUBM"QSPTQFDUJWFSBOEPNJ[FETUVEZUP
+BTTFTTUIFPQUJNBMEVSBUJPOPGJOUSBWFOPVTBOUJNJDSPCJBMQSPQIZMBYJTJOFMFDUJWFHBTUSJDDBODFSTVSHFSZ*OU
+4VSH
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p44]]
+）)BO+)
++FPOH0
+3ZV4:
++VOH.3
+1BSL:,&GGJDBDZPGTJOHMFEPTFBOUJNJDSPCJBMQSPQIZMBYJTGPSQSFWFOU
+JOHTVSHJDBMTJUFJOGFDUJPOJOSBEJDBMHBTUSFDUPNZGPSHBTUSJDDBSDJOPNB+(BTUSJD$BODFS
+）,JN&4
+,JN)#
+4POH,)
+,JN:,
+,JN))
++JO):
+FUBM,PSFBO/PTPDPNJBM*OGFDUJPOT4VSWFJMMBODF
+4ZTUFN	,0/*4
+1SPTQFDUJWFOBUJPOXJEFTVSWFJMMBODFPGTVSHJDBMTJUFJOGFDUJPOTBGUFSHBTUSJDTVSHFSZBOESJTL
+GBDUPSBOBMZTJTJOUIF,PSFBO/PTPDPNJBM*OGFDUJPOT4VSWFJMMBODF4ZTUFN	,0/*4
+*OGFDU$POUSPM)PTQ&QJEF
+NJPM
+）;IBOH$%
+;FOH:+
+-J;
+$IFO+
+-J)8
+;IBOH+,
+FUBM&YUFOEFEBOUJNJDSPCJBMQSPQIZMBYJTBGUFSHBTUSJD
+DBODFSTVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT8PSME+(BTUSPFOUFSPM
+） 毛利靖彦，小西敏郎，大村健二，小野　聡，末吉　晋，野家　環，他：胃全摘手術に対する術後感染予防抗菌薬
+の投与期間に関する比較試験。日外感染症会誌
+）1PSJFT8+
+WBO3JK".
+#VSMJOHIBN#5
+'VMHIVN34
+.FFMIFJN%1SPQIZMBDUJDDFGB[PMJOJOHBTUSJDCZQBTT
+TVSHFSZ4VSHFSZ
+）'JTDIFS.*
+%JBT$
+4UFJO"
+.FJOIBSEU/(
+)FJOFDL*"OUJCJPUJDQSPQIZMBYJTJOPCFTFQBUJFOUTTVCNJUUFEUP
+CBSJBUSJDTVSHFSZ"TZTUFNBUJDSFWJFX"DUB$JS#SBT
+）'FSSB[¥"
+4JRVFJSB-5
+$BNQPT+.
+"SBÙKP($
+.BSUJOT'JMIP&%
+'FSSB[&."/5*#*05*$1301):
+
+-"9*4*/#"3*"53*$463(&3:BDPOUJOVPVTJOGVTJPOPGDFGB[PMJOWFSTVTBNQJDJMMJOTVMCBDUBNBOEFSUBQF
+OFN"SR(BTUSPFOUFSPM
+）$IPQSB5
+;IBP++
+"MBOHBEFO(
+8PPE.)
+,BZF,41SFWFOUJOHTVSHJDBMTJUFJOGFDUJPOTBGUFSCBSJBUSJDTVS
+HFSZWBMVFPGQFSJPQFSBUJWFBOUJCJPUJDSFHJNFOT&YQFSU3FW1IBSNBDPFDPO0VUDPNFT3FT
+）&ENJTUPO$&
+,SFQFM$
+,FMMZ)
+-BSTPO+
+"OESJT%
+)FOOFO$
+FUBM1FSJPQFSBUJWFBOUJCJPUJDQSPQIZMBYJTJO
+UIFHBTUSJDCZQBTTQBUJFOUEPXFBDIJFWFUIFSBQFVUJDMFWFMT 4VSHFSZ
+）)P71
+/JDPMBV%1
+%BLJO('
+1PNQ"
+3JDI#4
+5PXF$8
+FUBM$FGB[PMJOEPTJOHGPSTVSHJDBMQSPQIZMBYJT
+JONPSCJEMZPCFTFQBUJFOUT4VSH*OGFDU	-BSDINU
+
+）+BJO/,
+-BSTPO%&
+4DISPFEFS,8
+#VSUPO%%
+$BOOPO,1
+5IPNQTPO3-
+FUBM"OUJCJPUJDQSPQIZMBYJT
+GPSQFSDVUBOFPVTFOEPTDPQJDHBTUSPTUPNZ"QSPTQFDUJWF
+SBOEPNJ[FE
+EPVCMFCMJOEDMJOJDBMUSJBM"OO*OUFSO
+.FE
+）,IBTIBC."
+$IJUIBEJ,7
+"DPTUB3%
+#SVJOJOH%)
+$IBOESBTFLIBSB7
+&MPVCFJEJ."
+FUBM"4(&4UBO
+
+EBSETPG1SBDUJDF$PNNJUUFF"OUJCJPUJDQSPQIZMBYJTGPS(*FOEPTDPQZ(BTUSPJOUFTU&OEPTD
+）"HIB"
+"MTBVEJ%
+'VSOBSJ.
+"CEVMIBEJ"MJ..
+"M.BKBEBI44
+4BWBSJOP7
+FUBM&GGJDBDZPGIPVSQPTU
+PQFSBUJWFBOUJCJPUJDTQSPQIZMBYJTGPSQBUJFOUTVOEFSHPJOHQFSDVUBOFPVTFOEPTDPQJDHBTUSPTUPNZUVCFJOQSF 
+WFOUJOHTJUFJOGFDUJPO+(BTUSPJOUFTUJO-JWFS%JT
+）+BGSJ/4
+.BIJE44
+.JOPS,4
+*ETUFJO43
+)PSOVOH$"
+(BMBOEJVL4".FUBBOBMZTJTBOUJCJPUJDQSPQIZMBYJT
+UPQSFWFOUQFSJTUPNBMJOGFDUJPOGPMMPXJOHQFSDVUBOFPVTFOEPTDPQJDHBTUSPTUPNZ"MJNFOU1IBSNBDPM5IFS
+
+）-JQQ"
+-VTBSEJ(4ZTUFNJDBOUJNJDSPCJBMQSPQIZMBYJTGPSQFSDVUBOFPVTFOEPTDPQJDHBTUSPTUPNZ$PDISBOF
+%BUBCBTF4ZTU3FW$%
+）1SFDMJL(
+(SÛOF4
+-FTFS)(
+-FCIFS[+
+)FMEXFJO8
+.BDILB,
+FUBM1SPTQFDUJWF
+SBOEPNJTFE
+EPVCMFCMJOE
+USJBMPGQSPQIZMBYJTXJUITJOHMFEPTFPGDPBNPYJDMBWCFGPSFQFSDVUBOFPVTFOEPTDPQJDHBTUSPTUPNZ#.+
+
+）1BOJHSBIJ)
+4ISFFWF%3
+5BO8$
+1SVEIBN3
+,BVGNBO33PMFPGBOUJCJPUJDQSPQIZMBYJTGPSXPVOEJOGFDUJPO
+JOQFSDVUBOFPVTFOEPTDPQJDHBTUSPTUPNZ	1&(
+SFTVMUPGBQSPTQFDUJWFEPVCMFCMJOESBOEPNJ[FEUSJBM+)PTQ
+*OGFDU
+5．下部消化管外科（小腸，虫垂，結腸・直腸）
+文　　献
+ ）,PX-
+5PPVMJ+
+#SPPLNBO
+JMcDonaldPJComparisonofcefotaximplusMNZvscefoxitinforpreventionof
+XPVOEJOGFDUJPOBGUFSBCEPNJOBMTVSHFSZ8PSME+4VSH
+ ）"CFSH$
+5IPSF.4JOHMFWFSTVTUSJQMFEPTFBOUJNJDSPCJBMQSPQIZMBYJTJOFMFDUJWFBCEPNJOBMTVSHFSZBOEUIF
+JNQBDUPOCBDUFSJBMFDPMPHZ+)PTQ*OGFDU
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p45]]
+ ）#VTVUUJM38
+%BWJETPO3,
+'JOF.
+5PNQLJOT3,&GGFDUPGQSPQIZMBDUJDBOUJCJPUJDTJOBDVUFOPOQFSGPSBUFE
+BQQFOEJDJUJTBQSPTQFDUJWF
+SBOEPNJ[FE
+EPVCMFCMJOEDMJOJDBMTUVEZ"OO4VSH
+ ）8JOTMPX3&
+%FBO3&
+)BSMFZ+8"DVUFOPOQFSGPSBUJOHBQQFOEJDJUJT&GGJDBDZPGCSJFGBOUJCJPUJDQSPQIZMBYJT
+"SDI4VSH
+ ）(ÓNF["MPOTP"
+-P[BOP'
+1FSF["
+"MNB[ÂO"
+"CEFMMBI"
+$VBESBEP'4ZTUFNJDQSPQIZMBYJBXJUIHFOUB
+NJDJONFUSPOJEB[PMFJOBQQFOEJDFDUPNZBOEDPMPSFDUBMTVSHFSZBQSPTQFDUJWFDPOUSPMMFEDMJOJDBMTUVEZ*OU
+4VSH
+ ）#BVFS5
+7FOOJUT#
+)PMN#
+)BIO1FEFSTFO+
+-ZTFO%
+(BMBUJVT)
+FUBM"OUJCJPUJDQSPQIZMBYJTJOBDVUFOPO
+QFSGPSBUFEBQQFOEJDJUJT5IF%BOJTI.VMUJDFOUFS4UVEZ(SPVQ***"OO4VSH
+ ）"OEFSTFO#3
+,BMMFIBWF'-
+"OEFSTFO),"OUJCJPUJDTWFSTVTQMBDFCPGPSQSFWFOUVJOPGQPTUPQFSBUJWFJOGFD
+UJPOBGUFSBQQFOEJDFDUPNZ$PDISBOF%BUBCBTF4ZTU3FW$%
+ ）)VTTTJO.*
+"MBN.,
+"M2BIBUBOJ))
+"M"LFFMZ.)3PMFPGQPTUPQFSBUJWFBOUJCJPUJDTBGUFSBQQFOEFDUPNZ
+JOOPOQFSGPSBUFEBQQFOEJDJUJT+$PMM1IZTJDJBOT4VSH1BL
+ ）.VJ-.
+/H$4
+8POH4,
+-BN:)
+'VOH5.
+'PL,-FUBM0QUJNVNEVSBUJPOQSPQIZMBDUJDBOUJCJPUJDT
+JOBDVUFOPOQFSGPSBUFEBQQFOEJDJUJT"/;+4VSH
+）$PBLMFZ#"
+4VTTNBO&4
+8PMGTPO54
+#IBHBWBUI"4
+$IPM++
+3BOBTJOHIF/&
+FUBM1PTUPQFSBUJWFBOUJCJPU
+JDTDPSSFMBUFXJUIXPSTFPVUDPNFTBGUFSBQQFOEFDUPNZGPSOPOQFSGPSBUFEBQQFOEJDJUJT+"N$PMM4VSH
+
+）-F%
+3VTJO8
+)JMM#
+-BOHFMM+1PTUPQFSBUJWFBOUJCJPUJDVTFJOOPOQFSGPSBUFEBQQFOEJDJUJT"N+4VSH
+
+）/FMTPO3-
+(MBENBO&
+#BSCBUFTLPWJD."OUJNJDSPCJBMQSPQIZMBYJTGPSDPMPSFDUBMTVSHFSZ$PDISBOF%BUBCBTF
+4ZTU3FW$%
+）4POH'
+(MFOOZ"."OUJNJDSPCJBMQSPQIZMBYJTJODPMPSFDUBMTVSHFSZBTZTUFNBUJDSFWJFXPGSBOEPNJ[FEDPO
+
+USPMMFEUSJBMT#S+4VSH
+）4V[VLJ5
+4BEBIJSP4
+.BFEB:
+5BOBLB"
+0LBEB,
+,BNJKP"0QUJNBMEVSBUJPOPGQSPQIZMBDUJDBOUJCJPUJD
+BENJOJTUSBUJPOGPSFMFDUJWFDPMPODBODFSTVSHFSZ"SBOEPNJ[FE
+DMJOJDBMUSJBM4VSHFSZ
+）(PUUSVQ'
+%JFEFSJDI1
+4PSFOTFO,
+/JFMTFO47
+0SOTIPMU+
+#SBOETCPSH0QSPQIZMBYJTXJUIXIPMFHVUJSSJHB
+UJPOBOEBOUJNJDSPCJBMTJODPMPSFDUBMTVSHFSZ"QSPTQFDUJWF
+SBOEPNJ[FEEPVCMFCMJOEDMJOJDBMUSJBM"N+4VSH
+
+）6UMFZ3+
+.BDCFUI8"1FSPQFSBUJWFDFGPYJUJO"EPVCMFCMJOEQSPTQFDUJWFTUVEZJOUIFQSFWFOUJPOPGXPVOE
+JOGFDUJPOT+3$PMM4VSH&EJOC
+）4DIJSTTFM3
+)VL*
+4UBSMJOHFS.
+8VOEFSMJDI.
+3PUUFS.
+8FXBMLB(
+FUBM1PTUPQFSBUJWFJOGFDUJPOTJODPMPOJD
+TVSHFSZBGUFSFOUFSBMCBDJUSBDJOOFPNZDJODMJOEBNZDJOPSQBSFOUFSBMNF[MPDJMMJOPYBDJMMJOQSPQIZMBYJT+)PTQ
+*OGFDU
+）4DIPFU[%++S
+3PCFSUT1-
+.VSSBZ++
+$PMMFS+"
+7FJEFOIFJNFS.$"EEJUJPOPGQBSFOUFSBMDFGPYJUJOUP
+SFHJNFOPGPSBMBOUJCJPUJDTGPSFMFDUJWFDPMPSFDUBMPQFSBUJPOT"SBOEPNJ[FEQSPTQFDUJWFTUVEZ"OO4VSH
+
+）5BLFTVF:
+8BUBOBCF"
+)BOBLJ)
+,VTBDIJ4
+.BUTVNPUP5
+*XBNPUP"
+FUBM/BUJPOXJEFTVSWFJMMBODFPG
+antimicrobialsusceptibilitypatternsofpathogensisolatedfromsurgicalsiteinfections	SSI
+JO+BQBO+*OGFDU
+$IFNPUIFS
+）%FJFSIPJ3+
+%BXFT-(
+7JDL$
+*UBOJ,.
+)BXO.5$IPJDFPGJOUSBWFOPVTBOUJCJPUJDQSPQIZMBYJTGPS
+DPMPSFDUBMTVSHFSZEPFTNBUUFS+"N$PMM4VSH
+）3PXF+POFT%$
+1FFM"-
+,JOHTUPO3%
+4IBX+'
+5FBTEBMF$
+ColeDSSingledosecefotaximeplusMNZvs
+threedosecefuriximeplusMNZasprophylaxisagainstwoundinfectionincolorectalsurgerymulticenter
+QSPTQFDUJWFSBOEPNJ[FETUVEZ#.+
+）"IO#,
+-FF,)4JOHMFEPTFBOUJCJPUJDQSPQIZMBYJTJTFGGFDUJWFFOPVHIJODPMPSFDUBMTVSHFSZ"/;+4VSH
+
+）'VKJUB4
+4BJUP/
+:BNBEB5
+5BLJJ:
+,POEP,
+0IVF.
+FUBM3BOEPNJ[FE
+NVMUJDFOUSFUSJBMPGBOUJCJPUJDQSP
+
+phylaxisinelectivecolorectalsurgerysingledosevsdosesofsecondgenerationcephalosporinwithoutMNZ
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p46]]
+BOEPSBMBOUJCJPUJDT"SDI4VSH
+）:BNBNPUP4
+'VKJUB4
+*TIJHVSP4
+"LBTV5
+.PSJZB:8PVOEJOGFDUJPOBGUFSMBQBSPTDPQJDSFTFDUJPOGPSDPMPSFD
+UBMDBODFS4VSH5PEBZ
+）)BUB)
+:BNBHVDIJ5
+)BTFHBXB4
+/PNVSB"
+)JEB,
+/JTIJUBJ3
+FUBM0SBMBOE1BSFOUFSBM7FSTVT1BSFOUFSBM
+"OUJCJPUJD1SPQIZMBYJTJO&MFDUJWF-BQBSPTDPQJD$PMPSFDUBM4VSHFSZ	+.5013&7r
+"1IBTF
+.VMUJ 
+DFOUFS
+0QFOMBCFM
+3BOEPNJ[FE5SJBM"OO4VSH+BO<&QVCBIFBEPGQSJOU>
+）4BEBIJSP4
+4V[VLJ5
+5BOBLB"
+0LBEB,
+,BNBUB)
+0[BLJ5
+FUBM$PNQBSJTPOCFUXFFOPSBMBOUJCJPUJDTBOE
+QSPCJPUJDTBTCPXFMQSFQBSBUJPOGPSFMFDUJWFDPMPODBODFSTVSHFSZUPQSFWFOUJOGFDUJPOQSPTQFDUJWFSBOEPNJ[FE
+USJBM4VSHFSZ
+）0TIJNB5
+5BLFTVF:
+*LFVDIJ)
+.BUTVPLB)
+/BLBKJNB,
+6DIJOP.
+FUBM1SFPQFSBUJWFPSBMBOUJCJPUJDTBOE
+JOUSBWFOPVTBOUJNJDSPCJBMQSPQIZMBYJTSFEVDFJODJEFODFPGTVSHJDBMTJUFJOGFDUJPOTJOQBUJFOUTXJUIVMDFSBUJWF
+DPMJUJTVOEFSHPJOH*1""%JT$PMPO3FDUVN
+）1PPO+5
+-BX8-
+8POH*8
+$IJOH15
+8POH-.
+'BO+,
+FUBM*NQBDUPGMBQBSPTDPQJDDPMPSFDUBMSFTFDUJPO
+POTVSHJDBMTJUFJOGFDUJPO"OO4VSH
+）,JSBO31
+&M(B[[B[()
+7PHFM+%
+3FN[V')-BQBSPTDPQJDBQQSPBDITJHOJGJDBOUMZSFEVDFTTVSHJDBMTJUF
+JOGFDUJPOTBGUFSDPMPSFDUBMTVSHFSZEBUBGSPNOBUJPOBMTVSHJDBMRVBMJUZJNQSPWFNFOUQSPHSBN+"N$PMM4VSH
+
+） 橋爪　正，楠　正人，竹末芳生，前田耕太郎，正木忠彦，杉田　昭，他：直腸癌手術に対する術後感染予防抗菌
+薬の投与期間に関する比較試験。日外感染症会誌
+6．肝胆膵外科（脾手術も含む）
+文　　献
+ ） 坂本和彦，岡　正朗，石田祐一，岡本好司，木村　理，木村文夫，他：肝細胞癌切除に対する術後感染予防抗菌
+薬の投与期間に関する比較試験。日外感染症会誌
+ ）)JSPLBXB'
+)BZBTIJ.
+.JZBNPUP:
+"TBLVNB.
+4IJNJ[V5
+,PNFEB,
+FUBM&WBMVBUJPOPGQPTUPQFSBUJWF
+BOUJCJPUJDTQSPQIZMBYJTBGUFSMJWFSSFTFDUJPOBSBOEPNJ[FEDPOUSPMMFEUSJBM"N+4VSH
+ ）:BOBHJNPUP)
+4BUPJ4
+:BNBNPUP5
+5PZPLBXB)
+)JSPPLB4
+:VJ3
+FUBM$MJOJDBMJNQBDUPGQSFPQFSBUJWF
+DIPMBOHJUJTBGUFSCJMJBSZESBJOBHFJOQBUJFOUTXIPVOEFSHPQBODSFBUJDPEVPEFOFDUPNZPOQPTUPQFSBUJWFQBODSF
+
+BUJDGJTUVMB"N4VSH
+ ）4VEP5
+.VSBLBNJ:
+6FNVSB,
+)BTIJNPUP:
+,POEP/
+/BLBHBXB/
+FUBM1FSJPQFSBUJWFBOUJCJPUJDTDPWFSJOH
+CJMFDPOUBNJOBUJPOQSFWFOUBCEPNJOBMJOGFDUJPVTDPNQMJDBUJPOTBGUFSQBODSFBUPEVPEFOFDUPNZJOQBUJFOUTXJUI
+QSFPQFSBUJWFCJMJBSZESBJOBHF8PSME+4VSH
+ ）4BOBCSJB"
+%PNJOHVF[-$
+7BMEJWJFTP&
+(PNF[("OUJCJPUJDQSPQIZMBYJTGPSQBUJFOUTVOEFSHPJOHFMFDUJWF
+MBQBSPTDPQJDDIPMFDZTUFDUPNZ$PDISBOF%BUBCBTF4ZTU3FW	
+$%
+ IUUQXXXDPDISBOFMJCSBSZDPN
+ ）.BUTVJ:
+4BUPJ4
+,BJCPSJ.
+5PZPLBXB)
+:BOBHJNPUP)
+.BUTVJ,
+FUBM"OUJCJPUJDQSPQIZMBYJTJOMBQBSP
+
+TDPQJDDIPMFDZTUFDUPNZBSBOEPNJ[FEDPOUSPMMFEUSJBM1MPT0OFF
+ ）-JQQFSU)
+(BTUJOHFS+"OUJNJDSPCJBMQSPQIZMBYJTJOMBQBSPTDPQJDBOEDPOWFOUJPOBMDIPMFDZTUFDUPNZ$PODMV 
+TJPOTPGBMBSHFQSPTQFDUJWFNVMUJDFOUFSRVBMJUZBTTVSBODFTUVEZJO(FSNBOZ$IFNPUIFSBQZ
+ ）.D(VDLJO.
+4IFB+"
+4DIXBSU[+4*OGFDUJPOBOEBOUJNJDSPCJBMVTFJOMBQBSPTDPQJDDIPMFDZTUFDUPNZ*OGFDU
+$POUSPM)PTQ&QJEFNJPM
+ ）$IPVEIBSZ"
+#FDIUPME.-
+1VMJ43
+0UINBO.0
+3PZ1,3PMFPGQSPQIZMBDUJDBOUJCJPUJDTJOMBQBSPTDPQJD
+DIPMFDZTUFDUPNZ"NFUBBOBMZTJT+(BTUSPJOUFTU4VSH
+）;IPV)
+;IBOH+
+8BOH2
+)V;.FUBBOBMZTJT"OUJCJPUJDQSPQIZMBYJTJOFMFDUJWFMBQBSPTDPQJDDIPMFDZTUFD 
+UPNZ"MJNFOU1IBSNBDPM5IFS
+）(IBSEF1
+4XBSOLBS.
+8BHINBSF-4
+#IBHBU7.
+(PEF%4
+8BHI%%
+FUBM3PMFPGBOUJCJPUJDTPOTVSHJDBM
+TJUFJOGFDUJPOJODBTFTPGPQFOBOEMBQBSPTDPQJDDIPMFDZTUFDUPNZBDPNQBSBUJWFPCTFSWBUJPOBMTUVEZ+4VSH
+5FDI$BTF3FQ
+）)JSPUB8,
+1FSUFSTFO,
+#BSPO5)
+(PMETUFJO+-
++BDPCTPO#$
+-FJHIUPO+"
+FUBM(VJEFMJOFTGPSBOUJCJPUJD
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p47]]
+QSPQIZMBYJTGPS(*FOEPTDPQZ(BTUSPJOUFTU&OEPTD
+）#SBOE.
+#J[PT%
+0＇'BSSFMM1+S"OUJCJPUJDQSPQIZMBYJTGPSQBUJFOUTVOEFSHPJOHFMFDUJWFFOEPTDPQJDSFUSP 
+HSBEFDIPMBOHJPQBODSFBUPHSBQIZ$PDISBOF%BUBCBTF4ZTU3FW	
+$%
+ IUUQXXXDPDISBOFMJCSBSZDPN
+）%POBME(8
+4VOKBZB%
+-V9
+$IFO'
+$MFSLJO#
+&JCM(
+FUBM1FSJPQFSBUJWFBOUJCJPUJDTGPSTVSHJDBMTJUFJOGFD
+UJPOJOQBODSFBUJDPEVPEFOFDUPNZ%PFTUIF4$*1BQQSPWFESFHJNFOQSPWJEFBEFRVBUFDPWFSBHF 4VSHFSZ
+
+7．鼠径部ヘルニア根治術
+文　　献
+ ）:JO:
+4POH5
+-JBP#
+-VP2
+;IPV;"OUJCJPUJDQSPQIZMBYJTJOQBUJFOUTVOEFSHPJOHPQFONFTISFQBJSPGJOHVJ
+
+OBMIFSOJBBNFUBBOBMZTJT"N4VSH
+ ）#SBU[MFS%8
+%FMMJOHFS&1
+0MTFO,.
+1FSM5.
+"VXBFSUFS1(
+#PMPO.,
+FUBM$MJOJDBMQSBDUJDFHVJEFMJOFT
+GPSBOUJNJDSPCJBMQSPQIZMBYJTJOTVSHFSZ"N+)FBMUI4ZTU1IBSN
+ ）4BODIF[.BOVFM'+
+-P[BOP(BSDÍB+
+4FDP(JM+-"OUJCJPUJDQSPQIZMBYJTGPSIFSOJBSFQBJS$PDISBOF%BUBCBTF
+4ZTU3FW$%
+ ）,ÖDLFSMJOH'
+#JUUOFS3
++BDPC%
+4DIVH1BTT$
+-BVSFO[$
+"EPMG%
+FUBM%PXFOFFEBOUJCJPUJDQSPQIZMBYJT
+JOFOEPTDPQJDJOHVJOBMIFSOJBSFQBJS 3FTVMUTPGUIF)FSOJBNFE3FHJTUSZ4VSH&OEPTD
+8．耳鼻咽喉科・頭頸部外科
+文　　献
+ ）#BHHFS4KPCBDL%
+-FOOBSU.
+/PSE$&5IFSPMFPGQSPQIZMBDUJDBOUJCJPUJDTJONJEEMFFBSTVSHFSZ"N+0UPM
+
+ ）/JFMTFO53
+5IPNTFO+.FOJOHJUJTGPMMPXJOHTUBQFEPUPNZBSBSFBOEFBSMZDPNQMJDBUJPO+-BSZOHPM0UPM
+
+ ）#BTBWBSB4
+/BKBSBK4
+4IBOLT.
+8BSESP1
+"MMF"4IPSUUFSNWFSTVTMPOHUFSNBOUJCJPUJDQSPQIZMBYJTJO
+DPDIMFBSJNQMBOUTVSHFSZ0UPM/FVSPUPM
+ ）$VOOJOHIBN$%SE
+4MBUUFSZ8)SE
+-VYGPSE8.1PTUPQFSBUJWFJOGFDUJPOJODPDIMFBSJNQMBOUQBUJFOUT
+0UPMBSZOHPM)FBE/FDL4VSH
+ ）)JSTDI#&
+#MJLBT"
+8IJUBLFS."OUJCJPUJDQSPQIZMBYJTJODPDIMFBSJNQMBOUTVSHFSZ-BSZOHPTDPQF
+
+ ）-BCFMLB;
+(SPI%
+,BUSB3
++VSPWDJL.#BDUFSJBMJOGFDUJPODPNQMJDBUJPOTJODIJMESFOXJUIDPDIMFBSJNQMBOUT
+JOUIF$[FDI3FQVCMJD*OU+1FEJBUS0UPSIJOPMBSZOHPM
+ ）0TCPSO)"
+$VTIJOH4-
+(PSEPO,"
++BNFT"-
+1BQTJO#$5IFNBOBHFNFOUPGBDVUFNBTUPJEJUJTJODIJM
+
+ESFOXJUIDPDIMFBSJNQMBOUTTBWJOHUIFEFWJDF$PDIMFBS*NQMBOUT*OU
+ ）3PCJOTPO1+
+$IPQSB4"OUJCJPUJDQSPQIZMBYJTJODPDIMFBSJNQMBOUBUJPODVSSFOUQSBDUJDF+-BSZOHPM0UPM
+4VQQM
+ ）7JOI%$
+&NCJM+.%FWJDFSFMBUFEJOGFDUJPOTBSFWJFX+-POH5FSN&GG.FE*NQMBOUT
+）3VCJO-(1SFWFOUJPOBOEUSFBUNFOUPGNFOJOHJUJTBOEBDVUFPUJUJTNFEJBJODIJMESFOXJUIDPDIMFBSJNQMBOUT
+0UPM/FVSPUPM
+）8FJ#1
+4IFQIFSE3,
+3PCJOT#SPXOF3.
+$MBSL(.
+0＇-FBSZ4+1OFVNPDPDDBMNFOJOHJUJTQPTUDPDIMFBS
+JNQMBOUBUJPOQSFWFOUBUJWFNFBTVSFT0UPMBSZOHPM)FBE/FDL4VSH	4VQQM
+4
+）"WFOJB/
+4BOHVJOFUUJ"
+$JSPDDIJ3
+%PDJNP(
+3BHVTB.
+3VHHJFSP3
+FUBM"OUJCJPUJDQSPQIZMBYJTJOUIZSPJE
+TVSHFSZBQSFMJNJOBSZNVMUJDFOUSJD*UBMJBOFYQFSJFODF"OO4VSH*OOPW3FT
+）#VSFT$
+,MBUUF5
+(JMIPGFS.
+#FIOLF.
+#SFJFS"$
+/FVIPME/
+FUBM"QSPTQFDUJWFTUVEZPOTVSHJDBMTJUF
+JOGFDUJPOTJOUIZSPJEPQFSBUJPO4VSHFSZ
+）+PIOTPO+5
+8BHOFS3-*OGFDUJPOGPMMPXJOHVODPOUBNJOBUFEIFBEBOEOFDLTVSHFSZ"SDI0UPMBSZOHPM)FBE
+/FDL4VSH
+）+PIOTPO+5
+:V7-
+.ZFST&/
+.VEFS33
+5IFBSMF1#
+%JWFO8'&GGJDBDZPGUXPUIJSEHFOFSBUJPODFQIB
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p48]]
+MPTQPSJOTJOQSPQIZMBYJTGPSIFBEBOEOFDLTVSHFSZ"SDI0UPMBSZOHPM
+）6SBOP5
+.BTBLJ$
+4V[VLJ"
+0ILVXB,
+4IJCVZB)
+,JUBHBXB8
+FUBM"OUJNJDSPCJBMQSPQIZMBYJTGPSUIF
+QSFWFOUJPOPGTVSHJDBMTJUFJOGFDUJPOBGUFSUIZSPJEBOEQBSBUIZSPJETVSHFSZBQSPTQFDUJWFSBOEPNJ[FEUSJBM
+8PSME+4VSH
+）.FUBJT.
+7FSHB[4
+-FQBHF#
+1FTTFZ++
+4FSSBOP&
+.BMBWBVE44VSHJDBMTJUFJOGFDUJPOTBOETVSHFSZPGUIF
+TBMJWBSZHMBOET&VS"OO0UPSIJOPMBSZOHPM)FBE/FDL%JT
+）$BSSBV3-
+#Z[BLJT+
+8BHOFS3-
++PPIOTPO+53PMFPGQSPQIZMBDUJDBOUJCJPUJDTJOVODPOUBNJOBUFEOFDLEJT
+TFDUJPOT"SDI0UPMBSZOHPM)FBE/FDL4VSH
+）'FOOFTTZ#(
+)BSOFZ.
+0＇4VMMJWBO.+
+5JNPO$"OUJNJDSPCJBMQSPQIZMBYJTJOPUPSIJOPMBSZOHPMPHZIFBE
+BOEOFDLTVSHFSZ$MJO0UPMBSZOHPM
+）.BO-9
+#FTXJDL%.
++PIOTPO+5"OUJCJPUJDQSPQIZMBYJTJOVODPOUBNJOBUFEOFDLEJTTFDUJPO-BSZOHPTDPQF
+
+）4FWFO)
+4BZJO*
+5VSHVU4"OUJCJPUJDQSPQIZMBYJTJODMFBOOFDLEJTTFDUJPOT+-BSZOHPM0UPM
+）4MBUUFSZ8)SE
+4USJOHFS41
+$BTTJTJ/+1SPQIZMBDUJDBOUJCJPUJDVTFJODMFBO
+VODPOUBNJOBUFEOFDLEJTTFD 
+UJPO-BSZOHPTDPQF
+）#JELBS7(
++BMJTBUJHJ33
+/BJL"4
+4IBOCBH3%
+4JEEBQQB3
+4IBSNB17
+FUBM1FSJPQFSBUJWFPOMZWFSTVT
+FYUFOEFE BOUJNJDSPCJBM VTBHF JO UZNQBOPNBTUPJE TVSHFSZ B SBOEPNJ[FE USJBM -BSZOHPTDPQF  
+
+）'JU[HFSBME%$6TFPGQSPQIZMBDUJDBOUJCJPUJDTJOPUPMPHJDBOEOFVSPPUPMPHJDTVSHFSZ"N+0UPM
+）)FTUFS50
++POFT301SPQIZMBDUJDBOUJCJPUJDTJOTVSHFSZGPSDISPOJDFBSEJTFBTF-BSZOHPTDPQF
+
+）(PWBFSUT1+
+3BFNBFLFST+
+7FSMJOEFO"
+,BMBJ.
+4PNFST5
+0GGFDJFST'&6TFPGBOUJCJPUJDQSPQIZMBYJTJO
+FBSTVSHFSZ-BSZOHPTDPQF
+）+BDLTPO$("OUJNJDSPCJBMQSPQIZMBYJTJOFBSTVSHFSZ-BSZOHPTDPQF
+） 飯塚　崇，古川正幸，春山琢男，笠井美里，林千江里，奈良林修，他：全身麻酔下中耳手術に対するレボフロキ
+サシン経口抗菌薬使用の検討。日耳鼻感染症研会誌
+）$PVHIMBO$"
+#IBOEBSLBS/%5IFSPMFPGBOUJCJPUJDTJOFOEPTDPQJDTJOVTTVSHFSZ$VSS0QJO0UPMBSZOHPM
+)FBE/FDL4VSH
+）(JPBDDIJOJ'.
+"MJDBOESJ$JVGFMMJ.
+,BMFDJ4
+.BHMJVMP(
+3F.5IFSPMFPGBOUJCJPUJDUIFSBQZBOEOBTBMQBDL
+
+JOHJOTFQUPQMBTUZ&VS"SDI0UPSIJOPMBSZOHPM
+）"MCV4
+-VDBDJV31SPQIZMBDUJDBOUJCJPUJDTJOFOEPTDPQJDTJOVTTVSHFSZBTIPSUGPMMPXVQTUVEZ"N+3IJOPM
+"MMFSHZ
+）"OESFXT1+
+&BTU$"
++BZBSBK4.
+#BEJB-
+1BOBHBNVXB$
+)BSEJOH-1SPQIZMBDUJDWTQPTUPQFSBUJWFBOUJ 
+CJPUJDVTFJODPNQMFYTFQUPSIJOPQMBTUZTVSHFSZ"SDI'BDJBM1MBTU4VSH
+）$BOJFMMP.
+1BTTFSPUUJ()
+(PUP&:
+7PFHFMT3-
+#VUVHBO0"OUJCJPUJDTJOTFQUPQMBTUZJTJUOFDFTTBSZ #SB[
++0UPSIJOPMBSZOHPM
+）3BKBO(1
+'FSHJF/
+'JTDIFS6
+3PNFS.
+3BEJWPKFWJD7
+)FF(,"OUJCJPUJDQSPQIZMBYJTJOTFQUPSIJOPQMBTUZ 
+"QSPTQFDUJWF
+SBOEPNJ[FETUVEZ1MBTU3FDPOTUS4VSH
+）3JDDJ(
+%＇"TDBOJP-"OUJCJPUJDTJOTFQUPQMBTUZFWJEFODFPSIBCJU "N+3IJOPM"MMFSHZ
+）-JMKB.
+.ÅLJUJF""
+"OUUJMB7+
+,VVTFMB1
+1JFUPMB.
+)ZUÖOFO.$FGVSPYJNFBTBQSPQIZMBDUJDQSFPQFSBUJWF
+BOUJCJPUJDJOTFQUPQMBTUZ"EPVCMFCMJOESBOEPNJ[FEQMBDFCPDPOUSPMMFETUVEZ3IJOPMPHZ
+）$IBOESB3,
+$POMFZ%#
+,FSO3$1SPQIZMBDUJDJWBOUJCJPUJDTJOGVODUJPOBMFOEPTDPQJDTJOVTTVSHFSZUSFOET
+BOEBUUJUVEFTPGUIF"NFSJDBO3IJOPMPHJD4PDJFUZNFNCFSTIJQ"N+3IJOPM"MMFSHZ
+）3FDIUXFH+4
+1BPMJOJ37
+#FMNPOU.+
+8BY.,1PTUPQFSBUJWFBOUJCJPUJDVTFPGTFQUPQMBTUZBTVSWFZPG
+QSBDUJDFIBCJUTPGUIFNFNCFSTIJQPGUIF"NFSJDBO3IJOPMPHJDBM4PDJFUZ"N+3IJOPM
+）#BOEIBVFS'
+#VIM%
+(SPTTFOCBDIFS3"OUJCJPUJDQSPQIZMBYJTJOSIJOPTVSHFSZ"N+3IJOPM
+）*OPTIJUB"
+:PLPJ)
+.BUTVNPUP'
+:BP5
+,BXBOP,
+'VSVLBXB.
+FUBM"SBOEPNJ[FEQSPTQFDUJWFTUVEZPG
+PSBMMFWPGMPYBDJOWTJOUSBWFOPVTGMPNPYFGQSPQIZMBYJTJOQPTUPQFSBUJWFJOGFDUJPOBGUFSFOEPTDPQJDTJOVTTVS 
+HFSZ"N+0UPMBSZOHPM
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p49]]
+）#BSBEBSBOGBS.)
+;BOE7
+%BEHSBSOJB.)
+"UJHIFDIJ4&GGJDBDZPGDMJOEBNZDJOJOSFEVDJOHQBJOGPMMPXJOH
+UPOTJMMFDUPNZJOBEVMUTBEPVCMFCMJOE
+SBOEPNJTFEUSJBM+-BSZOHPM0UPM
+）#VSLBU$.
+4UFXBSE%-"OUJCJPUJDTGPSSFEVDUJPOPGQPTUUPOTJMMFDUPNZNPSCJEJUZBNFUBBOBMZTJT-BSZOHP
+TDPQF
+）$PMSFBWZ.1
+/BOBO%
+#FOBNFS.
+%POOFMMZ.
+#MBOFZ"8
+0O%XZFS51
+FUBM"OUJCJPUJDQSPQIZMBYJT
+QPTUUPOTJMMFDUPNZJTJUPGCFOFGJU *OU+1FEJBUS0UPSIJOPMBSZOHPM
+）%IJXBLBS.
+$MFNFOU8"
+4VQSJZB.
+.D,FSSPX84"OUJCJPUJDTUPSFEVDFQPTUUPOTJMMFDUPNZNPSCJEUZ
+$PDISBOF%BUBCBTF4ZTU3FW	
+$%
+）%IJXBLBS.
+&OH$:
+4FMWBSBK4
+.D,FSSPX84"OUJCJPUJDTUPJNQSPWFSFDPWFSZGPMMPXJOHUPOTJMMFDUPNZ"
+TZTUFNBUJDSFWJFX0UPMBSZOHPM)FBE/FDL4VSH
+）(SBOEJT+3
++PIOTPO+5
+7JDLFST3.
+:V7-
+8BHFOFS..
+8BHOFS3-
+FUBM5IFFGGJDBDZPGQFSJPQFSBUJWF
+BOUJCJPUJDUIFSBQZPOSFDPWFSZGPMMPXJOHUPOTJMMFDUPNZJOBEVMUTSBOEPNJ[FEEPVCMFCMJOEQMBDFCPDPOUSPMMFE
+USJBM0UPMBSZOHPM)FBE/FDL4VSH
+）*ZFS4
+%F'PPS8
+(SPDFMB+
+,BNIPM[,
+7BSVHIFTF"
+,FOOB.5IFVTFPGQFSJPQFSBUJWFBOUJCJPUJDTJOUPOTJM
+MFDUPNZEPFTJUEFDSFBTFNPSCJEJUZ *OU+1FEJBUS0UPSIJOPMBSZOHPM
+）-FF8$
+%VJHOBO.$
+8BMTI3.
+.D3BF.PPSF+3"OBVEJUPGQSPQIZMBDUJDBOUJCJPUJDUSFBUNFOUGPMMPXJOH
+UPOTJMMFDUPNZJODIJMESFO+-BSZOHPM0UPM
+）.BOO&"
+#MBJS"#
+-FWZ"+
+$IBOH"&GGFDUPGUPQJDBMBOUJCJPUJDUIFSBQZPOSFDPWFSZBGUFSUPOTJMMFDUPNZ
+JOBEVMUT0UPMBSZOHPM)FBE/FDL4VSH
+）'FSOBOEFT+
+1BOFTBS+*TUIFSPVUJOFVTFPGBOUJCJPUJDTKVTUJGJFEJOBEVMUUPOTJMMFDUPNZ +-BSZOHPM0UPM
+
+）3BNPT$$
+(PODBMWFT.&
+3BQPQPSU1#
+'JTT&1SPQIZMBDUJDBOUJCJPUJDUIFSBQZBGUFSUPOTJMMFDUPNZ4UVEZ
+XJUIBNPYJDJMMJODMBWVMBOJDBDJE3FW#SBT0UPSSJOPMBSJOHPM
+）5FMJBO4"
+)BOEMFS4%
+'MFJTIFS(3
+#BSBOBL$$
+8FUNPSF3'
+1PUTJD815IFFGGFDUPGBOUJCJPUJDUIFSBQZ
+POSFDPWFSZBGUFSUPOTJMMFDUPNZJODIJMESFO"SDI0UPMBSZOHPM)FBE/FDL4VSH
+）;BHÓMTLJ0
+,VMJTJFXJD[+1FSJPQFSBUJWFBOUJCJPUJDJOBEFOPJEFDUPNZXJUIQBSUJBMUPOTJMMFDUPNZBSBOEPNJ[FE
+USJBM03-+0UPSIJOPMBSZOHPM3FMBU4QFD
+）.JMEFS&"
+3J[[J.%
+.PSBMFT,)
+3PTT3,
+-BVUFOCBDI&
+(FSCFS+4*NQBDUPGBOFXQSBDUJDFHVJEFMJOF
+POBOUJCJPUJDVTFXJUIQFEJBUSJDUPOTJMMFDUPNZ+"."0UPMBSZOHPM)FBE/FDL4VSH
+）1BEJB3
+0MTFO(
+)FOSJDITFO+
+#VMMPDL(
+(BMF$
+4UPEEBSE(
+FUBM)PTQJUBMBOETVSHFPOBEIFSFODFUPQFEJ 
+BUSJDUPOTJMMFDUPNZHVJEFMJOFTSFHBSEJOHQFSJPQFSBUJWFEFYBNFUIBTPOFBOEBOUJCJPUJDBENJOJTUSBUJPO0UPMBSZO
+HPM)FBE/FDL4VSH
+）,MVH5&
+)FOSJLTFO++
+3VTBO.
+'VVSTUFE,
+0WFTFO5#BDUFSFNJBEVSJOHRVJOTZBOEFMFDUJWFUPOTJMMFD 
+UPNZBOFWBMVBUJPOPGBOUJCJPUJDQSPQIZMBYJTSFDPNNFOEBUJPOTGPSQBUJFOUTVOEFSHPJOHUPOTJMMFDUPNZ+$BS 
+EJPWBTD1IBSNBDPM5IFS
+）0UBLF)
+4VHB,
+4V[VLJ)
+/BLBEB5
+,BUP,
+:PTIJEB5
+FUBM"OUJNJDSPCJBMQSPQIZMBYJTJOUPOTJMMFDUPNZ
+UIFFGGJDBDZPGQSFPQFSBUJWFTJOHMFEPTFPSBMBENJOJTUSBUJPOPGB[JUISPNZDJOJOQSFWFOUJOHTVSHJDBMTJUFJOGFD 
+UJPO"DUB0UPMBSZOHPM
+）)BHJZB)
+/BJUP)
+)BHJPLB4
+0LBIBSB4
+.PSJNPUP/
+,VTBOP/
+FUBM&GGFDUTPGBOUJCJPUJDTBENJOJTUSBUJPOPO
+UIFJODJEFODFPGXPVOEJOGFDUJPOJOQFSDVUBOFPVTEJMBUBUJPOBMUSBDIFPTUPNZ"DUB.FE0LBZBNB
+）1BSL)
+,FOU+
++PTIJ.
+;IV4
+#PDIJDDIJP(7
+)FOSZ4
+FUBM1FSDVUBOFPVTWFSTVTPQFOUSBDIFPTUPNZDPN 
+QBSJTPOPGQSPDFEVSFTBOETVSHJDBMTJUFJOGFDUJPOT4VSH*OGFDU
+）4FQFIS"
+4BOUPT#+
+$IPV$
+,BSJNJ,
+%FWDJD;
+0FMT4
+FUBM"OUJCJPUJDTJOIFBEBOEOFDLTVSHFSZJOUIF
+TFUUJOHPGNBMOVUSJUJPO
+USBDIFPUPNZ
+BOEEJBCFUFT-BSZOHPTDPQF
+）)BOOB+VNNB4
+)JHHJOT%
+,JOOFBS+
+8SJHIU."OUJCJPUJDQSPQIZMBYJTGPSQFSDVUBOFPVTUSBDIFPTUPNZB
+TVSWFZPGDVSSFOUQSBDUJDFJOUIF6,+*$4
+）+PIOTPO+5
+:V7-3PMFPGBFSPCJDHSBNOFHBUJWFSPET
+BOBFSPCFT
+BOEGVOHJJOXPVOEJOGFDUJPOBGUFSIFBE
+BOEOFDLTVSHFSZJNQMJDBUJPOTGPSBOUJCJPUJDQSPQIZMBYJT)FBE/FDL
+）4JNP3
+'SFODI(5IFVTFPGQSPQIZMBDUJDBOUJCJPUJDTJOIFBEBOEOFDLPODPMPHJDBMTVSHFSZ$VSS0QJO0UPMBS
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p50]]
+ZOHPM)FBE/FDL4VSH
+）#FDLFS(%
+1BSFM(+$FGB[PMJOQSPQIZMBYJTJOIFBEBOEOFDLDBODFSTVSHFSZ"OO0UPM3IJOPM-BSZOHPM
+
+）+PIOTPO+5
+:V7-
+.ZFST&/
+.VEFS33
+5IFBSMF1#
+%JWFO8'&GGJDBDZPGUXPUIJSEHFOFSBUJPODFQIB
+MPTQPSJOTJOQSPQIZMBYJTGPSIFBEBOEOFDLTVSHFSZ"SDI0UPMBSZOHPM
+）(FSBSE.
+.FVOJFS'
+%PS1
+"OESZ(
+$IBOUSBJO(
+7BOEFS"VXFSB1
+FUBM"OUJNJDSPCJBMQSPQIZMBYJTGPS
+NBKPSIFBEBOEOFDLTVSHFSZJODBODFSQBUJFOUT"OUJNJDSPC"HFOUT$IFNPUIFS
+）4BHJOVS3
+0EFMM1'
+1PMJRVJO+'"OUJCJPUJDQSPQIZMBYJTJOIFBEBOEOFDLDBODFSTVSHFSZ+0UPMBSZOHPM
+
+）1BOPTFUUJ&
+-FINBOO8
+4NPMJL+$"OUJNJDSPCJBMQSPQIZMBYJTJOIFBEBOEOFDLTVSHFSZ03-+0UPSIJOPMBS
+ZOHPM3FMBU4QFD
+）4FBHMF.#
+%VCFSTUFJO-&
+(SPTT$8
+'MFUDIFS+-
+.VTUBGB"2&GGJDBDZPGDFGB[PMJOBTBQSPQIZMBDUJD
+BOUJCJPUJDJOIFBEBOEOFDLTVSHFSZ0UPMBSZOHPMPHZ
+）#SBOE#
++PIOTPO+5
+.ZFST&/
+5IFBSMF1#
+4JHMFS#"1SPQIZMBDUJDQFSJPQFSBUJWFBOUJCJPUJDTJODPOUBNJ 
+OBUFEIFBEBOEOFDLTVSHFSZ0UPMBSZOHPM)FBE/FDL4VSH
+）4LJUBSFMJć/
+.PSPWJć.
+.BOFTUBS%"OUJCJPUJDQSPQIZMBYJTJODMFBODPOUBNJOBUFEIFBEBOEOFDLPODPMPHJDBM
+TVSHFSZ+$SBOJPNBYJMMPGBD4VSH
+）4BXZFS3
+$P[[J-
+3PTFOUIBM%*
+.BOJHMJB"+.FUSPOJEB[PMFJOIFBEBOEOFDLTVSHFSZ―UIFFGGFDUPGMFOHUI
+FOFEQSPQIZMBYJT0UPMBSZOHPM)FBE/FDL4VSH
+）4USBVTT.
+4BDDPHOB18
+"MMQIJO"-$FQIB[PMJOBOENFUSPOJEB[PMFQSPQIZMBYJTJOIFBEBOEOFDLTVSHFSZ
++-BSZOHPM0UPM
+）+PIOTPO+5
+:V7-
+.ZFST&/
+8BHOFS3-
+4JHMFS#"$FGB[PMJOWTNPYBMBDUBN "EPVCMFCMJOESBOEPN 
+J[FEUSJBMPGDFQIBMPTQPSJOTJOIFBEBOEOFDLTVSHFSZ"SDI0UPMBSZOHPM)FBE/FDL4VSH
+）3PESJHP+1
+"MWBSF[+$
+(ÓNF[+3
+4VÂSF[$
+'FSOÂOEF[+"
+.BSUÍOF[+"$PNQBSJTPOPGUISFFQSPQIZMBDUJD
+BOUJCJPUJDSFHJNFOTJODMFBODPOUBNJOBUFEIFBEBOEOFDLTVSHFSZ)FBE/FDL
+）7FMBOPWJDI7"NFUBBOBMZTJTPGQSPQIZMBDUJDBOUJCJPUJDTJOIFBEBOEOFDLTVSHFSZ1MBTU3FDPOTUS4VSH
+
+）$BMMFOEFS%-"OUJCJPUJDQSPQIZMBYJTJOIFBEBOEOFDLPODPMPHJDTVSHFSZUIFSPMFPGHSBNOFHBUJWFDPWFSBHF
+*OU+"OUJNJDSPC"HFOUT	4VQQM
+4
+）3PESJHP+1
+4VBSF[$
+#FSOBMEF[3
+$PMMBEP%&GGJDBDZPGQJQFSBDJMMJOUB[PCBDUBNJOUIFUSFBUNFOUPGTVSHJDBM
+XPVOEJOGFDUJPOBGUFSDMFBODPOUBNJOBUFEIFBEBOEOFDLPODPMPHJDTVSHFSZ)FBE/FDL
+）8FCFS34
+3BBE*
+'SBOLFOUIBMFS3
+)BOLJOT1
+#ZFST3.
+(VJMMBNPOEFHVJ0
+FUBM"NQJDJMMJOTVMCBDUBNWT
+DMJOEBNZDJOJOIFBEBOEOFDLPODPMPHJDTVSHFSZ5IFOFFEGPSHSBNOFHBUJWFDPWFSBHF"SDI0UPMBSZOHPM
+)FBE/FDL4VSH
+）'FF8&+S
+(MFOO.
+)BOEFO$
+)PQQ.-0OFEBZWTUXPEBZTPGQSPQIZMBDUJDBOUJCJPUJDTJOQBUJFOUTVOEFS
+HPJOHNBKPSIFBEBOEOFDLTVSHFSZ-BSZOHPTDPQF
+）-JV4"
+5VOH,$
+4IJBP+:
+$IJV:51SFMJNJOBSZSFQPSUPGBTTPDJBUFEGBDUPSTJOXPVOEJOGFDUJPOBGUFSNBKPS
+IFBEBOEOFDLOFPQMBTNPQFSBUJPOT―EPFTUIFEVSBUJPOPGQSPQIZMBDUJDBOUJCJPUJDNBUUFS +-BSZOHPM0UPM
+
+）.VTUBGB&
+5BITJO"$FGPUBYJNFQSPQIZMBYJTJONBKPSOPODPOUBNJOBUFEIFBEBOEOFDLTVSHFSZPOFEBZWT
+TFWFOEBZUIFSBQZ+-BSZOHPM0UPM
+）3JHIJ.
+.BOGSFEJ3
+'BSOFUJ(
+1BTRVJOJ&
+$FOBDDIJ74IPSUUFSNWFSTVTMPOHUFSNBOUJNJDSPCJBMQSPQIZMBYJT
+JOPODPMPHJDIFBEBOEOFDLTVSHFSZ)FBE/FDL
+）:BOH$)
+$IFX,:
+4PMPNLJO+4
+-JO1:
+$IJBOH:$
+,VP:34VSHJDBMTJUFJOGFDUJPOTBNPOHIJHISJTL
+QBUJFOUTJODMFBODPOUBNJOBUFEIFBEBOEOFDLSFDPOTUSVDUJWFTVSHFSZDPODPSEBODFXJUIQSFPQFSBUJWFPSBM
+GMPSB"OO1MBTU4VSH	4VQQM
+4
+）,BNJ[POP,
+4BLVSBCB.
+/BHBNBUTV4
+.JZBNPUP4
+)BZBTIJ34UBUJTUJDBMBOBMZTJTPGTVSHJDBMTJUFJOGFDUJPO
+BGUFSIFBEBOEOFDLSFDPOTUSVDUJWFTVSHFSZ"OO4VSH0ODPM
+）-BOHFSNBO"
+)BN4"
+1JTBOP+
+1BSJTFS+
+)PINBOO4'
+.FMU[FS%0-BSZOHFDUPNZDPNQMJDBUJPOTBSF
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p51]]
+BTTPDJBUFEXJUIQFSJPQFSBUJWFBOUJCJPUJDDIPJDF0UPMBSZOHPM)FBE/FDL4VSH
+）1BUZJ.
+4FKCFO*
+$TFSOJ(
+4ÂOUIB#
+(BÂM;
+1POHSÂD[+
+FUBM8PVOEQSPQIZMBYJTXJUINFUSPOJEB[PMFJOIFBE
+BOEOFDLTVSHJDBMPODPMPHZ-BSZOHPTDPQF
+）.JUDIFMM3.
+.FOEF[&
+4DINJUU/$
+#ISBOZ"%
+'VUSBO/%"OUJCJPUJD1SPQIZMBYJTJO1BUJFOUT6OEFSHPJOH
+)FBEBOE/FDL'SFF'MBQ3FDPOTUSVDUJPO+"."0UPMBSZOHPM)FBE/FDL4VSH
+）+PIOTPO+5
+8BHOFS3-
+4DIVMMFS%&
+(MVDLNBO+
+4VFO+:
+4OZEFSNBO/-1SPQIZMBDUJDBOUJCJPUJDTGPS
+IFBEBOEOFDLTVSHFSZXJUIGMBQSFDPOTUSVDUJPO"SDI0UPMBSZOHPM)FBE/FDL4VSH
+）3JHIJ.
+.BOGSFEJ3
+'BSOFUJ(
+1BTRVJOJ&
+$FOBDDIJ74IPSUUFSNWFSTVTMPOHUFSNBOUJNJDSPCJBMQSPQIZMBYJT
+JOPODPMPHJDIFBEBOEOFDLTVSHFSZ)FBE/FDL
+）+PIOTPO+5
+4DIVMMFS%&
+4JMWFS'
+(MVDLNBO+-
+/FXNBO3,
+4IBHFUT'8
+FUBM"OUJCJPUJDQSPQIZMBYJTJO
+IJHISJTLIFBEBOEOFDLTVSHFSZPOFEBZWTGJWFEBZUIFSBQZ0UPMBSZOHPM)FBE/FDL4VSH
+）$BSSPMM83
+3PTFOTUJFM%
+'JY+3
+EFMB5PSSF+
+4PMPNPO+4
+#SPEJTI#
+FUBM5ISFFEPTFWTFYUFOEFEDPVSTF
+DMJOEBNZDJOQSPQIZMBYJTGPSGSFFGMBQSFDPOTUSVDUJPOPGUIFIFBEBOEOFDL"SDI0UPMBSZOHPM)FBE/FDL4VSH
+
+）0CFSOB'3FUSPTQFDUJWFIFBMUIDBSFBTTPDJBUFEJOGFDUJPOTVSWFJMMBODFJOPSBMBOENBYJMMPGBDJBMSFDPOTUSVDUJWF
+NJDSPTVSHFSZ"DUB.JDSPCJPM*NNVOPM)VOH
+）5BHIZ.
+"TIUJBOJ,
+4BEFHIJ.
+4BFEJ#
+(JWFDIJ($PNQBSBUJWFTUVEZPGUXPDFGB[PMJOQSPQIZMBDUJDQSPUP 
+DPMTJOPODPMPHJDTVSHFSZPGUIFMBSZOY"SBOEPNJ[FEUSJBM*OEJBO+0UPMBSZOHPM)FBE/FDL4VSH
+9．口腔外科（耳鼻咽喉科・頭頸部外科も参照）
+文　　献
+ ）#SJHOBSEFMMP1FUFSTFO3
+$BSSBTDP-BCSB"
+"SBZB*
+:BOJOF/
+$PSEPWB+BSB-
+7JMMBOVFWB+"OUJCJPUJDQSP 
+QIZMBYJTGPSQSFWFOUJOHJOGFDUJPVTDPNQMJDBUJPOTJOPSUIPHOBUIJDTVSHFSZ$PDISBOF%BUBCBTF4ZTU3FW
+$%
+ ）%BOEB",
+3BWJ1&GGFDUJWFOFTTPGQPTUPQFSBUJWFBOUJCJPUJDTJOPSUIPHOBUIJDTVSHFSZBNFUBBOBMZTJT+0SBM
+.BYJMMPGBD4VSH
+ ）5BO4,
+-P+
+;XBIMFO3"1FSJPQFSBUJWFBOUJCJPUJDQSPQIZMBYJTJOPSUIPHOBUIJDTVSHFSZBTZTUFNBUJDSFWJFX
+BOENFUBBOBMZTJTPGDMJOJDBMUSJBMT0SBM4VSH0SBM.FE0SBM1BUIPM0SBM3BEJPM&OEPE
+ ）0PNFOT."
+7FSMJOEFO$3
+(PFZ:
+'PSPV[BOGBS51SFTDSJCJOHBOUJCJPUJDQSPQIZMBYJTJOPSUIPHOBUIJDTVS 
+HFSZBTZTUFNBUJDSFWJFX*OU+0SBM.BYJMMPGBD4VSH
+ ）;JKEFSWFME4"
+4NFFMF-&
+,PTUFOTF1+
+5VJO[JOH%#1SFPQFSBUJWFBOUJCJPUJDQSPQIZMBYJTJOPSUIPHOBUIJD
+TVSHFSZBSBOEPNJ[FE
+EPVCMFCMJOE
+BOEQMBDFCPDPOUSPMMFEDMJOJDBMTUVEZ+0SBM.BYJMMPGBD4VSH
+
+ ）#BRBJO;)
+)ZEF/
+1BUSJLJEPV"
+)BSSJT."OUJCJPUJDQSPQIZMBYJTGPSPSUIPHOBUIJDTVSHFSZBQSPTQFDUJWF
+
+SBOEPNJTFEDMJOJDBMUSJBM#S+0SBM.BYJMMPGBD4VSH
+ ）+BOTJTZBOPOU1
+4FTTJSJTPNCBU4
+4BTUSBWBIB1
+#BNSPPOH1"OUJCJPUJDQSPQIZMBYJTGPSPSUIPHOBUIJDTVSHFSZB
+QSPTQFDUJWF
+DPNQBSBUJWF
+SBOEPNJ[FETUVEZCFUXFFOBNPYJDJMMJODMBWVMBOJDBDJEBOEQFOJDJMMJO+.FE"TTPD
+5IBJ
+ ）,BOH4)
+:PP+)
+:J$,5IFFGGJDBDZPGQPTUPQFSBUJWFQSPQIZMBDUJDBOUJCJPUJDTJOPSUIPHOBUIJDTVSHFSZB
+QSPTQFDUJWFTUVEZJO-F'PSU*PTUFPUPNZBOECJMBUFSBMJOUSBPSBMWFSUJDBMSBNVTPTUFPUPNZ:POTFJ.FE+
+
+ ）4ISJEIBSBOJ4.
+#FSMJ+
+.BOTPO1/
+5VGBSP"1
+3PESJHVF[&%&WJEFODFCBTFENFEJDJOFWFSTVTFYQFSJFODF
+CBTFENFEJDJOFJOQMBTUJDTVSHFSZ5IFSPMFPGQPTUPQFSBUJWFBOUJCJPUJDTJONBOEJCMFGSBDUVSFT"TZTUFNBUJD
+SFWJFXPGUIFMJUFSBUVSFBOEJOUFSOBUJPOBMTVSWFZ"OO1MBTU4VSH
+）,Z[BT1"6TFPGBOUJCJPUJDTJOUIFUSFBUNFOUPGNBOEJCMFGSBDUVSFTBTZTUFNBUJDSFWJFX+0SBM.BYJMMPGBD
+4VSH
+）"OESFBTFO+0
++FOTFO44
+4DIXBSU[0
+)JMMFSVQ:"TZTUFNBUJDSFWJFXPGQSPQIZMBDUJDBOUJCJPUJDTJOUIF
+TVSHJDBMUSFBUNFOUPGNBYJMMPGBDJBMGSBDUVSFT+0SBM.BYJMMPGBD4VSH
+）$IPMF3"
+:FF+"OUJCJPUJDQSPQIZMBYJTGPSGBDJBMGSBDUVSFT"QSPTQFDUJWF
+SBOEPNJ[FEDMJOJDBMUSJBM"SDI
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p52]]
+0UPMBSZOHPM)FBE/FDL4VSH
+）-PWBUP$
+8BHOFS+%*OGFDUJPOSBUFTGPMMPXJOHQFSJPQFSBUJWFQSPQIZMBDUJDBOUJCJPUJDTWFSTVTQPTUPQFSBUJWF
+FYUFOEFESFHJNFOQSPQIZMBDUJDBOUJCJPUJDTJOTVSHJDBMNBOBHFNFOUPGNBOEJCVMBSGSBDUVSFT+0SBM.BYJMMPGBD
+4VSH
+）4DIBMMFS#
+4PPOH1-
+;JY+
+*J[VLB5
+-JFHFS05IFSPMFPGQPTUPQFSBUJWFQSPQIZMBDUJDBOUJCJPUJDTJOUIFUSFBU
+NFOUPGGBDJBMGSBDUVSFTBSBOEPNJ[FE
+EPVCMFCMJOE
+QMBDFCPDPOUSPMMFEQJMPUDMJOJDBMTUVEZ1BSU.BOEJCVMBS
+GSBDUVSFTJOQBUJFOUT#S+0SBM.BYJMMPGBD4VSH
+）.PUUJOJ.
+8PMG3
+4PPOH1-
+-JFHFS0
+/BLBIBSB,
+4DIBMMFS#5IFSPMFPGQPTUPQFSBUJWFBOUJCJPUJDTJOGBDJBM
+GSBDUVSFTDPNQBSJOHUIFFGGJDBDZPGBEBZWFSTVTBQSPMPOHFESFHJNFO+5SBVNB"DVUF$BSF4VSH
+
+）,BNJ[POP,
+4BLVSBCB.
+/BHBNBUTV4
+.JZBNPUP4
+)BZBTIJ34UBUJTUJDBMBOBMZTJTPGTVSHJDBMMTJUFJOGFDUJPO
+BGUFSIFBEBOEOFDLSFDPOTUSVDUJWFTVSHFSZ"OO4VSH0ODPM
+）5TVDIJZB4
+/BLBUTVLB5
+4BLVSBCB.
+,JNBUB:
+4BLVSBJ)
+/BLBHBXB.
+FUBM$MJOJDBMGBDUPSTBTTPDJBUFE
+XJUIQPTUPQFSBUJWFDPNQMJDBUJPOTBOEUIFGVODUJPOBMPVUDPNFJONBOEJCVMBSSFDPOTUSVDUJPO.JDSPTVSHFSZ
+
+）-FF%)
+,JN4:
+/BN4:
+$IPJ4)
+$IPJ+8
+3PI+-3JTLGBDUPSTPGTVSHJDBMTJUFJOGFDUJPOJOQBUJFOUT
+VOEFSHPJOHNBKPSPODPMPHJDBMTVSHFSZGPSIFBEBOEOFDLDBODFS0SBM0ODPM
+PO．歯　　科
+文　　献
+ ）&TQPTJUP.
+(SVTPWJO.(
+8PSUIJOHUPO)7*OUFSWFOUJPOTGPSSFQMBDJOHNJTTJOHUFFUIBOUJCJPUJDTBUEFOUBM
+JNQMBOUQMBDFNFOUUPQSFWFOUDPNQMJDBUJPOT$PDISBOF%BUBCBTF4ZTU3FW$%
+ ）$ISDBOPWJD#3
+"MCSFLUTTPO5
+8FOOFSCFSH"1SPQIZMBDUJDBOUJCJPUJDSFHJNFOBOEEFOUBMJNQMBOUGBJMVSFB
+NFUBBOBMZTJT+0SBM3FIBCJM
+ ）#BGBJM"4
+"MBNSJ".
+4QJWBLPWTLZ4&GGFDUPGBOUJCJPUJDTPOJNQMBOUGBJMVSFBOEQPTUPQFSBUJWFJOGFDUJPO
+&WJE#BTFE%FOU
+ ）"UB"MJ+
+"UB"MJ'
+"UB"MJ'%PBOUJCJPUJDTEFDSFBTFJNQMBOUGBJMVSFBOEQPTUPQFSBUJWFJOGFDUJPOT "TZTUFN
+
+BUJDSFWJFXBOENFUBBOBMZTJT*OU+0SBM.BYJMMPGBD4VSH
+ ）"CV5B＇B.
+2VJSZOFO.
+5FVHIFMT8
+WBO4UFFOCFSHIF%"TFQTJTEVSJOHQFSJPEPOUBMTVSHFSZJOWPMWJOHPSBM
+JNQMBOUTBOEUIFVTFGVMOFTTPGQFSJPQFSBUJWFBOUJCJPUJDTBQSPTQFDUJWF
+SBOEPNJ[FE
+DPOUSPMMFEDMJOJDBMUSJBM+
+$MJO1FSJPEPOUPM
+ ）&TQPTJUP.
+$BOOJ[[BSP(
+#P[[PMJ1
+$POTPMP6
+'FMJDF1
+'FSSJ7
+FUBM&GGJDBDZPGQSPQIZMBDUJDBOUJCJPUJDTGPS
+EFOUBMJNQMBOUTBNVMUJDFOUSFQMBDFCPDPOUSPMMFESBOEPNJTFEDMJOJDBMUSJBM&VS+0SBM*NQMBOUPM
+ ）&TQPTJUP.
+$BOOJ[[BSP(
+#P[[PMJ1
+$IFDDIJ-
+'FSSJ7
+-BOESJBOJ4
+FUBM&GGFDUJWFOFTTPGQSPQIZMBDUJDBOUJ
+
+CJPUJDTBUQMBDFNFOUPGEFOUBMJNQMBOUTBQSBHNBUJDNVMUJDFOUSFQMBDFCPDPOUSPMMFESBOEPNJTFEDMJOJDBMUSJBM
+&VS+0SBM*NQMBOUPM
+ ）$BJB[[P"
+$BTBWFDDIJB1
+#BSPOF"
+#SVHOBNJ'"QJMPUTUVEZUPEFUFSNJOFUIFFGGFDUJWFOFTTPGEJGGFSFOU
+BNPYJDJMMJOSFHJNFOTJOJNQMBOUTVSHFSZ+0SBM*NQMBOUPM
+ ）-PEJ(
+'JHJOJ-
+4BSEFMMB"
+$BSSBTTJ"
+%FM'BCCSP.
+'VSOFTT4"OUJCJPUJDTUPQSFWFOUDPNQMJDBUJPOTGPMMPX
+
+JOHUPPUIFYUSBDUJPOT$PDISBOF%BUBCBTF4ZTU3FW$%
+）3FO:'
+.BMNTUSPN)4&GGFDUJWFOFTTPGBOUJCJPUJDQSPQIZMBYJTJOUIJSENPMBSTVSHFSZBNFUBBOBMZTJTPG
+SBOEPNJ[FEDPOUSPMMFEDMJOJDBMUSJBMT+0SBM.BYJMMPGBD4VSH
+）-BDBTB+.
++JNÉOF[+"
+'FSSÂT7
+#PTTPN.
+4ÓMB.PSBMFT0
+(BSDÍB3FZ$
+FUBM1SPQIZMBYJTWFSTVTQSF
+FNQUJWFUSFBUNFOUGPSJOGFDUJWFBOEJOGMBNNBUPSZDPNQMJDBUJPOTPGTVSHJDBMUIJSENPMBSSFNPWBMBSBOEPN 
+J[FE
+ EPVCMFCMJOE
+ QMBDFCPDPOUSPMMFE
+ DMJOJDBM USJBM XJUI TVTUBJOFE SFMFBTF BNPYJDJMMJODMBWVMBOJD BDJE
+	mg
+*OU+0SBM.BYJMMPGBD4VSH
+）-ÓQF[$FESÙO+-
+1JKPBO+*
+'FSOÂOEF[4
+4BOUBNBSJB+
+)FSOBOEF[(&GGJDBDZPGBNPYJDJMMJOUSFBUNFOUJO
+QSFWFOUJOHQPTUPQFSBUJWFDPNQMJDBUJPOTJOQBUJFOUTVOEFSHPJOHUIJSENPMBSTVSHFSZBQSPTQFDUJWF
+SBOEPNJ[FE
+
+EPVCMFCMJOEDPOUSPMMFETUVEZ+0SBM.BYJMMPGBD4VSHF
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p53]]
+）8JMTPO8
+5BVCFSU,"
+(FXJU[.
+-PDLIBSU1#
+#BEEPVS-.
+-FWJTPO.
+FUBM1SFWFOUJPOPGJOGFDUJWFFOEP
+DBSEJUJTHVJEFMJOFTGSPNUIF"NFSJDBO)FBSU"TTPDJBUJPO$JSDVMBUJPO
+） 宮武邦夫，赤石　誠，石塚尚子，江石清行，川副浩平，中澤　誠，他：感染性心内膜炎の予防と治療に関するガ
+イドライン （年改訂版） ：(VJEFMJOFTGPSUIF1SFWFOUJPOBOE5SFBUNFOUPG*OGFDUJWF&OEPDBSEJUJT	+$4
+（合同研究班参加学会：日本循環器学会，日本胸部外科学会，日本小児循環器学会，日本心臓病学会）
+）:PTIJJ5
+)BNBNPUP:
+.VSBPLB4
+,PIKJUBOJ"
+5FSBOPCV0
+'VSVEPJ4
+FUBM*ODJEFODFPGEFFQGBTDJBMTQBDF
+JOGFDUJPOBGUFSTVSHJDBMSFNPWBMPGUIFNBOEJCVMBSUIJSENPMBST+*OGFDU$IFNPUIFS
+）8SBZ%
+3VJ['
+3JDIFZ3
+4UPLFT5(VJEFMJOF%FWFMPQNFOU(SPVQ1SPQIZMBYJTBHBJOTUJOGFDUJWFFOEPDBSEJUJT
+GPSEFOUBMQSPDFEVSFT―TVNNBSZPGUIF/*$&HVJEFMJOF#S%FOU+
+）%BZFS.+
++POFT4
+1SFOEFSHBTU#
+#BEEPVS-.
+-PDLIBSU1#
+5IPSOIJMM.)*ODJEFODFPGJOGFDUJWFFOEPDBS
+EJUJTJO&OHMBOE
+―BTFDVMBSUSFOE
+JOUFSSVQUFEUJNFTFSJFTBOBMZTJT-BODFU
+） 山崎隆廣，吉井　尚，黒木栄司，宮井大介，林　徹，西村栄高，他：抜歯後感染に対する臨床的検討。歯薬療法
+
+11．産　　科
+文　　献
+ ）3J[L%&
+/TBO[F)
+.BCSPVL.)
+.VTUBGB/
+5IPNBT-
+,VNBS.4ZTUFNJDBOUJCJPUJDQSPQIZMBYJTJOFMFD
+
+UJWFDFTBSFBOEFMJWFSZ*OU+(ZOBFDPM0CTUFU
+ ）3PV[J""
+,IBMJGB'
+#B＇BRFFM)
+"M)BNEBO)4
+#POEBHKJ/5IFSPVUJOFVTFPGDFGB[PMJOJODFTBSFBOTFDUJPO
+*OU+(ZOFDPM0CTUFU
+ ）#BHSBUFF+4
+.PPEMFZ+
+,MFJOTDINJEU*
+;BXJMTLJ8"SBOEPNJ[FEDPOUSPMMFEUSJBMPGBOUJCJPUJDQSPQIZMBYJT
+JOFMFDUJWFDBFTBSFBOEFMJWFSZ#+0(
+ ）0CTUFUSJDBOENFEJDBMDPNQMJDBUJPOT*O"NFSJDBO"DBEFNZPG1FEJBUSJDTBOE"NFSJDBO$PMMFHFPG0CTUFUSJ 
+DJBOTBOE(ZOFDPMPHJTUT	FE
+
+(VJEFMJOFTGPSQFSJOBUBMDBSF
+UIFE
+"NFSJDBO"DBEFNZPG1FEJBUSJDT
+&ML(SPWF
+7JMMBHF
+*-
+
+ ）)PQLJOT-
+4NBJMM'"OUJCJPUJDQSPQIZMBYJTSFHJNFOTBOEESVHTGPSDFTBSFBOTFDUJPO$PDISBOF%BUBCBTF4ZTU
+3FW$%
+ ）.JWVNCJ7/
+-JUUMF4&
+3VMJTB4
+(SFFOCFSH+"1SPQIZMBDUJDBNQJDJMMJOWFSTVTDFGB[PMJOGPSUIFQSFWFOUJPO
+PGQPTUDFTBSFBOJOGFDUJPVTNPSCJEJUZJO3XBOEB*OU+(ZOBFDPM0CTUFU
+ ）5JUB"5
+)BVUI+$
+(SJNFT"
+0XFO+
+4UBNN".
+"OESFXT88%FDSFBTJOHJODJEFODFPGQPTUDFTBSFBO
+FOEPNFUSJUJTXJUIFYUFOEFETQFDUSVNBOUJCJPUJDQSPQIZMBYJT0CTUFU(ZOFDPM
+ ）"OESFXT88
+)BVUI+$
+$MJWFS41
+4BWBHF,
+(PMEFOCFSH3-3BOEPNJ[FEDMJOJDBMUSJBMPGFYUFOEFETQFD
+
+USVNBOUJCJPUJDQSPQIZMBYJTXJUIDPWFSBHFGPS6SFBQMBTNBVSFBMZUJDVNUPSFEVDFQPTUDFTBSFBOEFMJWFSZFOEP
+NFUSJUJT0CTUFU(ZODPM
+ ）5JUB"5
+0XFO+
+4UBNN".
+(SJNFT"
+)BVUI+$
+"OESFXT88*NQBDUPGFYUFOEFETQFDUSVNBOUJCJPUJD
+QSPQIZMBYJTPOJODJEFODFPGQPTUDFTBSFBOTVSHJDBMXPVOEJOGFDUJPO"N+0CTUFU(ZOFDPMF
+）.FZFS/-
+)PTJFS,7
+4DPUU,
+-JQTDPNC()$FGB[PMJOWFSTVTDFGB[PMJOQMVTNFUSPOJEB[PMFGPSBOUJCJPUJD
+QSPQIZMBYJTBUDFTBSFBOTFDUJPO4PVUI.FE+
+）.BSUJOFMMJ1
+4BSOP-
+.BSVPUUJ(.
+1BMVEFUUP3$IPSJPBNOJPOJUJTBOEQSFNBUVSJUZBDSJUJDBMSFWJFX+.BUFSO
+'FUBM/FPOBUBM.FE	4VQQM
+
+）,JMMJBO$
+(SBGGVOEFS&.
+7JODJHVFSSB5
+7FOF[JB3"3JTLGBDUPSTGPSTVSHJDBMTJUFJOGFDUJPOTGPMMPXJOHDFTBS
+FBOTFDUJPO*OGFDU$POUSPM)PTQ&QJEFNJPM
+）)PGNFZS(+
+4NBJMM'"OUJCJPUJDQSPQIZMBYJTGPSDFTBSFBOTFDUJPO$PDISBOF%BUBCBTF4ZTU3FW
+$%
+）8FTUFO&)
+,PML13
+WBO7FM[FO$-
+6OLFMT3
+.NVOJ/4
+)BNJTJ"%
+FUBM4JOHMFEPTFDPNQBSFEXJUI
+NVMUJQMFEBZBOUJCJPUJDQSPQIZMBYJTGPSDFTBSFBOTFDUJPOJOMPXSFTPVSDFTFUUJOHT
+BSBOEPNJ[FEDPOUSPMMFE
+
+OPOJOGFSJPSJUZUSJBM"DUB0CTUFU(ZOFDPM4DBOE
+）8BY+3
+)FSTFZ,
+1IJMQVU$
+8SJHIU.4
+/JDIPMT,7
+&HHMFTUPO.,
+FUBM4JOHMFEPTFDFGB[PMJOQSPQIZMBYJT
+GPSQPTUDFTBSFBOJOGFDUJPOTCFGPSFWTBGUFSDPSEDMBNQJOH+.BUFSO'FUBM.FE
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p54]]
+）-ZJNP'.
+.BTTJOEF"/
+,JEFOZB#3
+,POKF&5
+.TIBOB4&4JOHMFEPTFPGHFOUBNJDJOJODPNCJOBUJPO
+XJUINFUSPOJEB[PMFWFSTVTNVMUJQMFEPTFTGPSQSFWFOUJPOPGQPTUDBFTBSFBOJOGFDUJPOBU#VHBOEP.FEJDBM$FO
+USFJO.XBO[B
+5BO[BOJBBSBOEPNJ[FE
+FRVJWBMFODF
+DPOUSPMMFEUSJBM#.$1SFHOBODZ$IJMECJSUI
+）5IJHQFO#%
+)PPE8"
+$IBVIBO4
+#VGLJO-
+#PGJMM+
+.BHBOO&
+FUBM5JNJOHPGQSPQIZMBDUJDBOUJCJPUJD
+BENJOJTUSBUJPOJOUIFVOJOGFDUFEMBCPSJOHHSBWJEBBSBOEPNJ[FEDMJOJDBMUSJBM"N+0CTUFU(ZOFDPM
+EJTDVTTJPO
+）4VMMJWBO4"
+4NJUI5
+$IBOH&
+)VMTFZ5
+7BOEPSTUFO+1
+4PQFS%"ENJOJTUSBUJPOPGDFGB[PMJOQSJPSUPTLJO
+JODJTJPOJTTVQFSJPSUPDFGB[PMJOBUDPSEDMBNQJOHJOQSFWFOUJOHQPTUDFTBSFBOJOGFDUJPVTNPSCJEJUZBSBOEPN 
+J[FE
+DPOUSPMMFEUSJBM"N+0CTUFU(ZOFDPMF
+）$POTUBOUJOF..
+3BINBO.
+(IVMNJZBI-
+#ZFST#%
+-POHP.
+8FO5
+FUBM5JNJOHPGQFSJPQFSBUJWFBOUJ 
+CJPUJDTGPSDFTBSFBOEFMJWFSZBNFUBBOBMZTJT"N+0CTUFU(ZOFDPMF
+）8JUU"
+%ÖOFS.
+1FUSJDFWJD-
+#FSHFS"
+(FSNBOO1
+)FJO[F(
+FUBM"OUJCJPUJDQSPQIZMBYJTCFGPSFTVSHFSZWT
+BGUFSDPSEDMBNQJOHJOFMFDUJWFDFTBSFBOEFMJWFSZBEPVCMFCMJOE
+QSPTQFDUJWF
+SBOEPNJ[FE
+QMBDFCPDPOUSPMMFE
+USJBM"SDI4VSH
+）%PTT"&
+%BWJETPO+%
+$MJWFS41
+8FUUB-"
+"OESFXT88
+5JUB"5"OUJCJPUJDQSPQIZMBYJTGPSDFTBSFBO
+EFMJWFSZTVSWFZPGNBUFSOBMGFUBMNFEJDJOFQIZTJDJBOTJOUIF64+.BUFSO'FUBM/FPOBUBM.FE
+）%MBNJOJ-%
+4FLJLVCP.
+5VNVLVOEF+
+,PKKP$
+0DFO%
+8BCVMF"
+FUBM"OUJCJPUJDQSPQIZMBYJTGPSDBFTBSFBO
+TFDUJPOBUB6HBOEBOIPTQJUBMBSBOEPNJTFEDMJOJDBMUSJBMFWBMVBUJOHUIFFGGFDUPGBENJOJTUSBUJPOUJNFPOUIF
+JODJEFODFPGQPTUPQFSBUJWFJOGFDUJPOT#.$1SFHOBODZ$IJMECJSUI
+）#SPXO+
+5IPNQTPO.
+4JOOZB4
++FGGFSZ"
+EF$PTUB$
+8PPET$
+FUBM1SFJODJTJPOBOUJCJPUJDQSPQIZMBYJT
+SFEVDFTUIFJODJEFODFPGQPTUDBFTBSFBOTVSHJDBMTJUFJOGFDUJPO+)PTQ*OGFDU
+）#IBUUBDIBSKFF/
+4BIB41
+1BUSB,,
+.JUSB6
+(IPTISPZ4$0QUJNBMUJNJOHPGQSPQIZMBDUJDBOUJCJPUJDGPS
+DFTBSFBOEFMJWFSZBSBOEPNJ[FEDPNQBSBUJWFTUVEZ+0CTUFU(ZOBFDPM3FT
+）)BBT%.
+.PSHBO4
+$POUSFSBT,7BHJOBMQSFQBSBUJPOXJUIBOUJTFQUJDTPMVUJPOCFGPSFDFTBSFBOTFDUJPOGPS
+QSFWFOUJOHQPTUPQFSBUJWFJOGFDUJPOT$PDISBOF%BUBCBTF4ZTU3FW$%
+）.D,JCCFO3"
+1JUUT4*
+4VBSF[$VFSWP$
+1FSM5.
+#BTT&#1SBDUJDFTUP3FEVDF4VSHJDBM4JUF*OGFDUJPOT
+"NPOH8PNFO6OEFSHPJOH$FTBSFBO4FDUJPO"3FWJFX*OGFDU$POUSPM)PTQ&QJEFNJPM
+）4VO+
+%JOH.
+-JV+
+-J:
+4VO9
+-JV5
+FUBM1SPQIZMBDUJDBENJOJTUSBUJPOPGDFGB[PMJOQSJPSUPTLJOJODJTJPO
+WFSTVTBOUJCJPUJDTBUDPSEDMBNQJOHJOQSFWFOUJOHQPTUDFTBSFBOJOGFDUJPVTNPSCJEJUZBTZTUFNBUJDSFWJFXBOE
+NFUBBOBMZTJTPGSBOEPNJ[FEDPOUSPMMFEUSJBMT(ZOFDPM0CTUFU*OWFTU
+）/FVNBO.
+-BOHFS3
+#BDIBS3
+(PMBO"
+#VLPWTLZ*
+$BTQJ&1FOJDJMMJOUFUSBDZDMJOFQSPQIZMBYJTJODFTBSFBO
+EFMJWFSZQSPTQFDUJWFBOESBOEPNJ[FEDPNQBSJTPOPGTIPSUBOEMPOHUFSNUIFSBQZ+1FSJOBU.FE
+12．婦　人　科
+文　　献
+ ）4V):
+%JOH%$
+$IFO%$
+-V.'
+-JV+:
+$IBOH':1SPTQFDUJWFSBOEPNJ[FEDPNQBSJTPOPGTJOHMFEPTF
+WFSTVTEBZDFGB[PMJOGPSQSPQIZMBYJTJOHZOFDPMPHJDTVSHFSZ"DUB0CTUFU(ZOFDPM4DBOE
+ ）(PPTFOCFSH+
+&NJDI+1+S
+4DIXBS[3)1SPQIZMBDUJDBOUJCJPUJDTJOWBHJOBMIZTUFSFDUPNZ"N+0CTUFU(ZOF
+
+DPM
+ ）3PZ4
+8JMLJOT+
+(BMBJG&
+"[FO$$PNQBSBUJWFFGGJDBDZBOETBGFUZPGDFGNFUB[PMFPSDFGPYJUJOJOUIFQSFWFO 
+UJPOPGQPTUPQFSBUJWFJOGFDUJPOGPMMPXJOHWBHJOBMBOEBCEPNJOBMIZTUFSFDUPNZ+"OUJNJDSPC$IFNPUIFS
+	4VQQM%
+
+ ）.D(SFHPS+"
+1IJMMJQT-&
+3PZ4
+%VOOF+5
+8BSXBSVL"4
++PIOTUPO%8
+FUBM3FTVMUTPGBEPVCMFCMJOE
+
+QMBDFCPDPOUSPMMFEDMJOJDBMUSJBMQSPHSBNPGTJOHMFEPTFDFGUJ[PYJNFWFSTVTNVMUJQMFEPTFDFGPYJUJOBTQSPQIZ
+
+MBYJTGPSQBUJFOUTVOEFSHPJOHWBHJOBMBOEBCEPNJOBMIZTUFSFDUPNZ+"N$PMM4VSH
+ ）#FSLFMFZ"4
+0SS+8
+$BWBOBHI%
+'SFFENBO,4
+-FEHFS8+
+1BTUPSFL+(OE
+FUBM$PNQBSBUJWFFGGFDUJWF
+OFTTBOETBGFUZPGDFGPUFUBOBOEDFGPYJUJOBTQSPQIZMBDUJDBHFOUTJOQBUJFOUTVOEFSHPJOHBCEPNJOBMPSWBHJOBM
+IZTUFSFDUPNZ"N+4VSH
+ ）(PSEPO4'3FTVMUTPGBTJOHMFDFOUFSTUVEZPGDFGPUFUBOQSPQIZMBYJTJOBCEPNJOBMPSWBHJOBMIZTUFSFDUPNZ
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p55]]
+"N+0CTUFU(ZOFDPM<&SSBUVN"N+0CTUFU(ZOFDPM>
+ ）#FSLFMFZ"4
+)BZXPSL4%
+)JSTDI+$
+'SFFENBO,4
+-FEHFS8+$POUSPMMFE
+DPNQBSBUJWFTUVEZPGNPYB 
+MBDUBNBOEDFGB[PMJOGPSQSPQIZMBYJTPGBCEPNJOBMIZTUFSFDUPNZ4VSH(ZOFDPM0CTUFU
+ ）5VPNBMB3&
+'JTDIFS4(
+.VñP["
+4PVOFZ1'
+4UFFMF-
+1PML#'"DPNQBSBUJWFUSJBMPGDFGB[PMJOBOE
+NPYBMBDUBNBTQSPQIZMBYJTGPSQSFWFOUJOHJOGFDUJPOBGUFSBCEPNJOBMIZTUFSFDUPNZ0CTUFU(ZOFDPM
+
+ ）)FNTFMM%-
++PIOTPO&3
+)FBSE.$
+)FNTFMM1(
+/PCMFT#+
+#BXEPO3&4JOHMFEPTFQJQFSBDJMMJOWFSTVT
+USJQMFEPTFDFGPYJUJOQSPQIZMBYJTBUWBHJOBMBOEBCEPNJOBMIZTUFSFDUPNZ4PVUI.FE+
+）(POFO3
+)BLJO.
+4BNCFSH*
+-FWJUBO;
+4IBSG.4IPSUUFSNQSPQIZMBDUJDBOUJCJPUJDGPSFMFDUJWFBCEPNJOBM
+IZTUFSFDUPNZIPXTIPSU &VS+0CTUFU(ZOFDPM3FQSPE#JPM
+）"$0($PNNJUUFFPO1SBDUJDF#VMMFUJOT―(ZOFDPMPHZ"$0(QSBDUJDFCVMMFUJO/PBOUJCJPUJDQSPQIZMBYJT
+GPSHZOFDPMPHJDQSPDFEVSFT0CTUFU(ZOFDPM
+）.JZB[BXB,
+)FSOBOEF[&
+%JMMPO.#1SPQIZMBDUJDUPQJDBMDFGBNBOEPMFJOSBEJDBMIZTUFSFDUPNZ*OU+(ZO 
+BFDPM0CTUFU
+）4FWJO#6
+3BNPT3
+-JDIUJOHFS.
+(JSUBOOFS3&
+"WFSFUUF)&"OUJCJPUJDQSFWFOUJPOPGJOGFDUJPOTDPNQMJDBU
+JOHSBEJDBMBCEPNJOBMIZTUFSFDUPNZ0CTUFU(ZOFDPM
+）3PTFOTIFJO/#
+3VUI+$
+7JMMBS+
+(SVNCJOF'#
+%JMMPO.#
+4QFODF.3"QSPTQFDUJWFSBOEPNJ[FETUVEZ
+PGEPYZDZDMJOFBTBQSPQIZMBDUJDBOUJCJPUJDJOQBUJFOUTVOEFSHPJOHSBEJDBMIZTUFSFDUPNZ(ZOFDPM0ODPM
+
+）$PSNJP(
+%J'B[JP'
+-PSVTTP'
+%J(FTØ(
+$BDDJBQVPUJ$
+-PWFSSP(
+FUBM"OUJNJDSPCJBMQSPQIZMBYJTJOMBQB
+
+SPUPNJDHZOFDPMPHJDTVSHFSZBQSPTQFDUJWFSBOEPNJ[FETUVEZDPNQBSJOHBNPYJDJMMJODMBWVMBOJDBDJEXJUI
+DFGB[PMJO+$IFNPUIFS
+）%VGG1"OUJCJPUJDQSPQIZMBYJTGPSBCEPNJOBMIZTUFSFDUPNZ0CTUFU(ZOFDPM
+）4PQFS%
+:BSXPPE34JOHMFEPTFBOUJCJPUJDQSPQIZMBYJTJOXPNFOVOEFSHPJOHWBHJOBMIZTUFSFDUPNZ0CTUFU
+(ZOFDPM
+）3BQQ31
+$POOPST+&
+)BHFS8%
+%POBMETPO&4
+WBO/BHFMM+3+S$PNQBSJTPOPGTJOHMFEPTFNPYBMBDUBN
+BOEBUISFFEPTFSFHJNFOPGDFGPYJUJOGPSQSPQIZMBYJTJOWBHJOBMIZTUFSFDUPNZ$MJO1IBSN
+）)FNTFMM%-
+)FBSE.-
+/PCMFT#+
+)FNTFMM1(4JOHMFEPTFDFGPYJUJOQSPQIZMBYJTGPSQSFNFOPQBVTBMXPNFO
+VOEFSHPJOHWBHJOBMIZTUFSFDUPNZ0CTUFU(ZOFDPM
+）-FUU8+
+"OTCBDIFS3
+%BWJTPO#-
+0UUFSTPO8/1SPQIZMBDUJDBOUJCJPUJDTGPSXPNFOVOEFSHPJOHWBHJOBM
+IZTUFSFDUPNZ+3FQSPE.FE
+）)BNPE,"
+4QFODF.3
+3PTFOTIFJO/#
+%JMMPO.#4JOHMFEPTFBOENVMUJEPTFQSPQIZMBYJTJOWBHJOBMIZT
+
+UFSFDUPNZBDPNQBSJTPOPGTPEJVNDFQIBMPUIJOBOENFUSPOJEB[PMF"N+0CTUFU(ZOFDPM
+13．整形外科
+文　　献
+ ）#PYNB)
+#SPFLIVJ[FO5
+1BULB1
+0PTUJOH)3BOEPNJTFEDPOUSPMMFEUSJBMPGTJOHMFEPTFBOUJCJPUJDQSPQIZMBYJT
+JOTVSHJDBMUSFBUNFOUPGDMPTFEGSBDUVSFTUIF%VUDI5SBVNB5SJBM-BODFU
+ ）(JMMFTQJF8+
+8BMFOLBNQ("OUJCJPUJDQSPQIZMBYJTGPSTVSHFSZGPSQSPYJNBMGFNPSBMBOEPUIFSDMPTFEMPOH
+CPOFGSBDUVSFT$PDISBOF%BUBCBTF4ZTU3FW	
+$%
+ ）4PVUIXFMM,FFMZ+1
+3VTTP33
+.BSDI-
+$VNNJOH3
+$BNFSPO*
+#SOBCJD"+"OUJCJPUJDQSPQIZMBYJTJOIJQ
+GSBDUVSFTVSHFSZBNFUBBOBMZTJT$MJO0SUIPQ3FMBU3FT
+ ）(JMMFTQJF8+1SFWFOUJPOBOENBOBHFNFOUPGJOGFDUJPOBGUFSUPUBMKPJOUSFQMBDFNFOU$MJO*OGFDU%JT
+
+ ）"M#VIBJSBO#
+)JOE%
+)VUDIJOTPO""OUJCJPUJDQSPQIZMBYJTGPSXPVOEJOGFDUJPOTJOUPUBMKPJOUBSUISPQMBTUZB
+TZTUFNBUJDSFWJFX+#POF+PJOU4VSH#S
+ ）/FMTPO$-
+(SFFO5(
+1PSUFS3"
+8BSSFO3%0OFEBZWFSTVTTFWFOEBZTPGQSFWFOUJWFBOUJCJPUJDUIFSBQZ
+JOPSUIPQFEJDTVSHFSZ$MJO0SUIPQ3FMBU3FT
+ ） 日本整形外科学会　骨・関節術後感染予防ガイドライン策定委員会：骨・関節術後感染予防ガイドライン（改
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p56]]
+訂第  版） ，南江堂，東京，
+ ）4DIXFJ[FS.-
+$IJBOH):
+4FQUJNVT&
+.PPEZ+
+#SBVO#
+)BGOFS+
+FUBM"TTPDJBUJPOPGBCVOEMFEJOUFSWFO
+UJPOXJUITVSHJDBMTJUFJOGFDUJPOTBNPOHQBUJFOUTVOEFSHPJOHDBSEJBD
+IJQ
+PSLOFFTVSHFSZ+"."
+
+ ）#PEF-(
+,MVZUNBOT+"
+8FSUIFJN)'
+#PHBFST%
+7BOEFOCSPVDLF(SBVMT$.
+3PPTFOEBBM3
+FUBM1SFWFOU
+JOHTVSHJDBMTJUFJOGFDUJPOTJOOBTBMDBSSJFSTPG4UBQIZMPDPDDVTBVSFVT/&OHM+.FE
+）$IFO"'
+8FTTFM$#
+3BP/4UBQIZMPDPDDVTBVSFVTTDSFFOJOHBOEEFDPMPOJ[BUJPOJOPSUIPQBFEJDTVSHFSZBOE
+SFEVDUJPOPGTVSHJDBMTJUFJOGFDUJPOT$MJO0SUIPQ3FMBU3FT
+）4BMFI"
+,IBOOB"
+$IBHJO,.
+,MJLB",
++PIOTUPO%
+#BSTPVN8,(MZDPQFQUJEFTWFSTVTβMBDUBNTGPSUIF
+QSFWFOUJPOPGTVSHJDBMTJUFJOGFDUJPOTJODBSEJPWBTDVMBSBOEPSUIPQFEJDTVSHFSZBNFUBBOBMZTJT"OO4VSH
+
+）,BMSB-
+$BNBDIP'
+8IJUFOFS$+
+%V1
+.JMMFS.
+;BMPOJT$
+FUBM3JTLPGNFUIJDJMMJOSFTJTUBOU4UBQIZMPDPDDVT
+aureussurgicalsiteinfectioninpatientswithnasalMRSAcolonizationAmJInfectControl
+）-JV$
+,BLJT"
+/JDIPMT"
+3JFT.%
+7BJM51
+#P[JD,+5BSHFUFEVTFPGWBODPNZDJOBTQFSJPQFSBUJWFQSP
+
+QIZMBYJTSFEVDFTQFSJQSPTUIFUJDKPJOUJOGFDUJPOJOSFWJTJPO5,"$MJO0SUIPQ3FMBU3FT
+）1BSWJ[J+
+4BMFI,+
+3BHMBOE14
+1PVS"&
+.POU."&GGJDBDZPGBOUJCJPUJDJNQSFHOBUFEDFNFOUJOUPUBMIJQ
+SFQMBDFNFOU"DUB0SUIPQ
+）7JFMHVU*
+4BEPHIJ1
+8PMG.
+)PM[FS-
+-FJUIOFS"
+4DIXBOU[FS(
+FUBM5XPTUBHFSFWJTJPOPGQSPTUIFUJDIJQ
+KPJOUJOGFDUJPOTVTJOHBOUJCJPUJDMPBEFEDFNFOUTQBDFST8IFOJTUIFCFTUUJNFUPQFSGPSNUIFTFDPOETUBHF *OU
+0SUIPQ
+）"OBHOPTUBLPT,
+'ÛSTU0
+,FMN+"OUJCJPUJDJNQSFHOBUFE1.."IJQTQBDFST$VSSFOUTUBUVT"DUB0SUIPQ
+
+）&WBOT314VDDFTTGVMUSFBUNFOUPGUPUBMIJQBOELOFFJOGFDUJPOXJUIBSUJDVMBUJOHBOUJCJPUJDDPNQPOFOUTB
+NPEJGJFEUSFBUNFOUNFUIPE$MJO0SUIPQ3FMBU3FT	
+
+）1SPDFFEJOHTPGUIF*OUFSOBUJPOBM$POTFOTVT.FFUJOHPO1FSJQSPTUIFUJD+PJOU*OGFDUJPO
+ IUUQXXXNTJTOBPSHXQDPOUFOUUIFNFTNTJTUFNQQEGJTNQFSJQSPTUIFUJDKPJOUJOGPSNBUJPOQEG
+）'SJFENBO3+
+'SJFESJDI-7
+8IJUF3-
+,BZT.#
+#SVOEBHF%.
+(SBIBN+"OUJCJPUJDQSPQIZMBYJTBOE
+UPVSOJRVFUJOGMBUJPOJOUPUBMLOFFBSUISPQMBTUZ$MJO0SUIPQ3FMBU3FT	
+
+）#JDBOJD(
+$SOPHBDB,
+#BSCBSJD,
+%FMJNBS%$FGB[PMJOTIPVMECFBENJOJTUFSFENBYJNVNNJOCFGPSFJODJ
+
+TJPOJOUPUBMLOFFBSUISPQMBTUZXIFOUPVSOJRVFUJTVTFE.FE)ZQPUIFTFT
+）5PNJUB.
+.PUPLBXB4&GGFDUTPGBJSUPVSOJRVFUPOUIFBOUJCJPUJDTDPODFOUSBUJPO
+JOCPOFNBSSPX
+JOKFDUFEKVTU
+CFGPSFUIFTUBSUPGPQFSBUJPO.PE3IFVNBUPM
+）1FUJHOBU$
+'SBODJPMJ1
+)BSCBSUI4
+3FHMJ-
+1PSDIFU'
+3FWFSEJO"
+FUBM$FGVSPYJNFQSPQIZMBYJTJTFGGFDUJWF
+JOOPOJOTUSVNFOUFETQJOFTVSHFSZBEPVCMFCMJOE
+QMBDFCPDPOUSPMMFETUVEZ4QJOF	1IJMB1B
+
+
+）1JPUSPXTLJ81
+,SPNCIPM[."
+.VIM#4QPOEZMPEJTDJUJTBGUFSMVNCBSEJTLTVSHFSZ/FVSPTVSH3FW
+
+）#BSLFS'(OE&GGJDBDZPGQSPQIZMBDUJDBOUJCJPUJDUIFSBQZJOTQJOBMTVSHFSZBNFUBBOBMZTJT/FVSPTVSHFSZ
+
+）%PC[ZOJBL."
+'JTDIHSVOE+4
+)BOLJOT4
+)FSLPXJU[)/4JOHMFWFSTVTNVMUJQMFEPTFBOUJCJPUJDQSPQIZMBYJT
+JOMVNCBSEJTDTVSHFSZ4QJOF&
+）,BLJNBSV)
+,POP.
+.BUTVTBLJ.
+*XBUB"
+6DIJP:1PTUPQFSBUJWFBOUJNJDSPCJBMQSPQIZMBYJTGPMMPXJOHTQJOBM
+EFDPNQSFTTJPOTVSHFSZJTJUOFDFTTBSZ +0SUIPQ4DJ
+）)FMMCVTDI-$
+)FM[FS+VMJO.
+%PSBO4&
+-FJCSPDL-(
+-POH%+
+1VDDJPOJ.+
+FUBM4JOHMFEPTFWTNVMUJQMF
+EPTFBOUJCJPUJDQSPQIZMBYJTJOJOTUSVNFOUFEMVNCBSGVTJPO―BQSPTQFDUJWFTUVEZ4VSH/FVSPM
+）,BOBZBNB.
+)BTIJNPUP5
+4IJHFOPCV,
+0IB'
+5PHBXB%&GGFDUJWFQSFWFOUJPOPGTVSHJDBMTJUFJOGFDUJPO
+VTJOHB$FOUFSTGPS%JTFBTF$POUSPMBOE1SFWFOUJPOHVJEFMJOFCBTFEBOUJNJDSPCJBMQSPQIZMBYJTJOMVNCBSTQJOF
+TVSHFSZ+/FVSPTVSH4QJOF
+）5BLBIBTIJ)
+8BEB"
+*JEB:
+:PLPZBNB:
+,BUPSJ4
+)BTFHBXB,
+FUBM"OUJNJDSPCJBMQSPQIZMBYJTGPSTQJOBM
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p57]]
+TVSHFSZ+0SUIPQ4DJ
+）4XFFU'"
+3PI.
+4MJWB$*OUSBXPVOEBQQMJDBUJPOPGWBODPNZDJOGPSQSPQIZMBYJTJOJOTUSVNFOUFEUIPSBDP 
+MVNCBSGVTJPOT4QJOF	1IJMB1B
+
+）#BLITIFTIJBO+
+%BIEBMFI/4
+-BN4,
+4BWBHF+8
+4NJUI;"5IFVTFPGWBODPNZDJOQPXEFSJONPEFSO
+TQJOF TVSHFSZ TZTUFNBUJD SFWJFX BOE NFUBBOBMZTJT PG UIF DMJOJDBM FWJEFODF 8PSME /FVSPTVSH  
+
+）,IBO/3
+5IPNQTPO$+
+%F$VZQFSF.
+"OHPUUJ+.
+,BMPCXF&
+.VIMCBVFS.4
+FUBM"NFUBBOBMZTJTPG
+TQJOBMTVSHJDBMTJUFJOGFDUJPOBOEWBODPNZDJOQPXEFS+/FVSPTVSH4QJOF
+）$IJBOH):
+)FSXBMEU-"
+#MFWJOT"&
+$IP&
+4DIXFJ[FS.-&GGFDUJWFOFTTPGMPDBMWBODPNZDJOQPXEFSUP
+EFDSFBTFTVSHJDBMTJUFJOGFDUJPOTBNFUBBOBMZTJT4QJOF+
+）&WBOJFX/
+,IBO.
+%SFX#
+1FUFSTPO%
+#IBOEBSJ.
+(IFSU.*OUSBXPVOEWBODPNZDJOUPQSFWFOUJOGFDUJPOT
+BGUFSTQJOFTVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT&VS4QJOF+
+）,BOH%(
+)PMFLBNQ5'
+8BHOFS4$
+-FINBO3"*OUSBTJUFWBODPNZDJOQPXEFSGPSUIFQSFWFOUJPOPGTVSHJ
+DBMTJUFJOGFDUJPOJOTQJOFTVSHFSZBTZTUFNBUJDMJUFSBUVSFSFWJFX4QJOF+
+）5VCBLJ73
+3BKBTFLBSBO4
+4IFUUZ"1&GGFDUTPGVTJOHJOUSBWFOPVTBOUJCJPUJDPOMZWFSTVTMPDBMJOUSBXPVOE
+WBODPNZDJOBOUJCJPUJDQPXEFSBQQMJDBUJPOJOBEEJUJPOUPJOUSBWFOPVTBOUJCJPUJDTPOQPTUPQFSBUJWFJOGFDUJPOJO
+TQJOFTVSHFSZJOQBUJFOUT4QJOF	1IJMB1B
+
+）.BSUJO+3
+"EPHXB0
+#SPXO$3
+,VDIJCIBUMB.
+#BHMFZ$"
+-BE41
+FUBM&YQFSJFODFXJUIJOUSBXPVOE
+WBODPNZDJOQPXEFSGPSQPTUFSJPSDFSWJDBMGVTJPOTVSHFSZ+/FVSPTVSH4QJOF
+）.BSUJO+3
+"EPHXB0
+#SPXO$3
+#BHMFZ$"
+3JDIBSETPO8+
+-BE41
+FUBM&YQFSJFODFXJUIJOUSBXPVOE
+WBODPNZDJOQPXEFSGPSTQJOBMEFGPSNJUZTVSHFSZ4QJOF	1IJMB1B
+
+）1BIZT+.
+1BIZT+3
+$IP4,
+,BOH..
+;FCBMB-1
+)BXBTMJ")
+FUBM.FUIPETUPEFDSFBTFQPTUPQFSBUJWF
+JOGFDUJPOTGPMMPXJOHQPTUFSJPSDFSWJDBMTQJOFTVSHFSZ+#POF+PJOU4VSH"N
+）(IPCSJBM(.
+5IBLLBS7
+"OESFXT&
+-BOH.
+$IJUBMF"
+0QQFOMBOEFS.&
+FUBM*OUSBPQFSBUJWFWBODPNZDJO
+VTFJOTQJOBMTVSHFSZTJOHMFJOTUJUVUJPOFYQFSJFODFBOENJDSPCJBMUSFOET4QJOF	1IJMB1B
+
+）.BSJBQQBO3
+.BOOJOFO1
+.BTTJDPUUF&.
+#IBUJB"$JSDVMBUPSZDPMMBQTFBGUFSUPQJDBMBQQMJDBUJPOPGWBODP
+
+NZDJOQPXEFSEVSJOHTQJOFTVSHFSZ+/FVSPTVSH4QJOF
+）8JFDL+"
++BDLTPO+,
+0＇#SJFO5+
+-VSBUF3#
+3VTTFMM+.
+%PSDIBL+%&GGJDBDZPGQSPQIZMBDUJDBOUJCJPUJDT
+JOBSUISPTDPQJDTVSHFSZ0SUIPQFEJDT
+）% ＇"OHFMP(-
+0HJMWJF)BSSJT%+4FQUJDBSUISJUJTGPMMPXJOHBSUISPTDPQZ
+XJUIDPTUCFOFGJUBOBMZTJTPGBOUJCJPUJD
+QSPQIZMBYJT"SUISPTDPQZ
+） 藤原　明，緒方公介，原　道也，佐伯和彦，金宮　毅，松浦一平，他：前十字靱帯再建術における術後感染症の
+検討。整外と災外
+） 西本浩司，黒田良祐，山口　基，星野祐一，水野清典，村田秀則，他：膝鏡視下前十字靱帯再建術後感染症例の
+検討。日臨スポーツ医会誌
+）1BTTMFS+.
+4DIJQQJOHFS(
+4DIXFJHIPGFS'
+'FMMJOHFS.
+4FJCFSU'+$PNQMJDBUJPOTJODSVDJBUFMJHBNFOU
+SFQMBDFNFOUPQFSBUJPOTXJUIGSFFQBUFMMBSUFOEPOUSBOTQMBOUBUJPO.PEJGJDBUJPOCZTVSHJDBMUFDIOJRVFBOETVS
+
+HFSZUJNJOH6OGBMMDIJSVSHJF
+）"SJZBO4
+.BSUJO+
+-BM"
+$IFOH%
+#PSBI(-
+$IVOH,$
+FUBM"OUJCJPUJDQSPQIZMBYJTGPSQSFWFOUJOHTVSHJ
+DBMTJUFJOGFDUJPOJOQMBTUJDTVSHFSZBOFWJEFODFCBTFEDPOTFOTVTDPOGFSFODFTUBUFNFOUGSPNUIF"NFSJDBO
+"TTPDJBUJPOPG1MBTUJD4VSHFPOT1MBTU3FDPOTUS4VSH
+）.BSBHI4-
+0UMFZ$$
+3PFOJHL3,
+1IJMMJQT1,"OUJCJPUJDQSPQIZMBYJTJOEFSNBUPMPHJDTVSHFSZVQEBUFE
+HVJEFMJOFT%FSNBUPM4VSH
+）.D*OUPTI+
+&BSOTIBX++"OUJCJPUJDQSPQIZMBYJTGPSUIFQSFWFOUJPOPGJOGFDUJPOBGUFSNBKPSMJNCBNQVUBUJPO
+&VS+7BTD&OEPWBTD4VSH
+）%VOLFM/
+#FMBJFGG8
+"TTBM.
+$PSOJ7
+,BSBDBŞ，-BDSB["
+FUBM8PVOEEFIJTDFODFBOETUVNQJOGFDUJPOBGUFS
+MPXFSMJNCBNQVUBUJPOSJTLGBDUPSTBOEBTTPDJBUJPOXJUIBOUJCJPUJDVTF+0SUIPQ4DJ
+）3BDBOP"
+1B[JPOJT5
+'BSSPLIZBS'
+%FIFTIJ#
+(IFSU.)JHIJOGFDUJPOSBUFPVUDPNFTJOMPOHCPOFUVNPS
+TVSHFSZXJUIFOEPQSPTUIFUJDSFDPOTUSVDUJPOJOBEVMUTBTZTUFNBUJDSFWJFX$MJO0SUIPQ3FMBU3FT
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p58]]
+
+）(VTUJMP3#
+"OEFSTPO+51SFWFOUJPOPGJOGFDUJPOJOUIFUSFBUNFOUPGPQFOGSBDUVSFTPGMPOHCPOFT+#POF
++PJOU4VSH"N
+）(VTUJMP3#
+.FSLPX3-
+5FNQMFNBO%5IFNBOBHFNFOUPGPQFOGSBDUVSFT+#POF+PJOU4VSH"N
+
+）(PTTFMJO3"
+3PCFSUT*
+(JMMFTQJF8+"OUJCJPUJDTGPSQSFWFOUJOHJOGFDUJPOJOPQFOMJNCGSBDUVSFT$PDISBOF
+%BUBCBTF4ZTU3FW	
+$%
+）)PGG84
+#POBEJFT+"
+$BDIFDIP3
+%PSMBD8$&BTU1SBDUJDF.BOBHFNFOU(VJEFMJOFT8PSL(SPVQVQEBUF
+UPQSBDUJDFNBOBHFNFOUHVJEFMJOFTGPSQSPQIZMBDUJDBOUJCJPUJDVTFJOPQFOGSBDUVSFT+5SBVNB
+）)BVTFS$+
+"EBNT$"+S
+&BDIFNQBUJ43$PVODJMPGUIF4VSHJDBM*OGFDUJPO4PDJFUZ4VSHJDBM*OGFDUJPO4PDJFUZ
+HVJEFMJOFQSPQIZMBDUJDBOUJCJPUJDVTFJOPQFOGSBDUVSFTBOFWJEFODFCBTFEHVJEFMJOF4VSH*OGFDU	-BSDINU
+
+
+）+BFHFS.
+.BJFS%
+,FSO87
+4ÛELBNQ/1"OUJCJPUJDTJOUSBVNBBOEPSUIPQFEJDTVSHFSZ―BQSJNFSPG
+FWJEFODFCBTFESFDPNNFOEBUJPOT*OKVSZ	4VQQM
+4
+）-VDIFUUF'"
+#POF-#
+#PSO$5
+%F-POH8(+S
+)PGG84
+.VMMJOT%
+FUBM&"451SBDUJDF.BOBHFNFOU
+(VJEFMJOFT8PSLHSPVQ1SBDUJDFNBOBHFNFOUHVJEFMJOFTGPSQSPQIZMBDUJDBOUJCJPUJDVTFJOPQFOGSBDUVSFT&BTU
+FSO"TTPDJBUJPOGPSUIF4VSHFSZPG5SBVNB
+
+ IUUQXXXFBTUPSHUHQPQFOGSBDQEG
+）1PPMF%
+$IJFSFHBUP"
+-BOHFS.
+7JBHHJ#
+$JOHPMBOJ&
+.BMBDBSOF1
+FUBM4ZTUFNBUJDSFWJFXPGUIFMJUFSBUVSF
+BOEFWJEFODFCBTFESFDPNNFOEBUJPOTGPSBOUJCJPUJDQSPQIZMBYJTJOUSBVNBSFTVMUTGSPNBO*UBMJBODPOTFOTVT
+PGFYQFSUT1-P40OFF
+）3PESJHVF[-
++VOH)4
+(PVMFU+"
+$JDBMP"
+.BDIBEP"SBOEB%"
+/BQPMJUBOP-.&WJEFODFCBDFEQSPUPDPM
+GPSQSPQIZMBDUJDBOUJCBJPUJDTJOPQFOGSBDUVSFTJNQSPWFEBOUJCJPUJDTUFXBSETIJQXJUIOPJODSFBTFJOJOGFDUJPO
+SBUFT+5SBVNB"DVUF$BSF4VSH
+）)BSCBSUI4
+4BNPSF.)
+-JDIUFOCFSH%
+$BSNFMJ:1SPMPOHFEBOUJCJPUJDQSPQIZMBYJTBGUFSDBSEJPWBTDVMBS
+TVSHFSZBOEJUTFGGFDUPOTVSHJDBMTJUFJOGFDUJPOTBOEBOUJNJDSPCJBMSFTJTUBODF$JSDVMBUJPO
+）7BTFOJVT+$MJOEBNZDJOWFSTVTDMPYBDJMMJOJOUIFUSFBUNFOUPGPQFOGSBDUVSFT"SBOEPNJ[FEQSPTQFDUJWF
+TUVEZ"OO$IJS(ZOBFDPM
+）4PSHFS+*
+,JSL1(
+3VIOLF$5
+#KPSOTPO4)
+-FWZ.4
+$PDLSJO+
+FUBM0ODFEBJMZ
+IJHIEPTFWFSTVTEJWJEFE
+MPXEPTFHFOUBNJDJOGPSPQFOGSBDUVSFT$MJO0SUIPQ
+）1BU[BLJT.+
+#BJOT34
+-FF+
+4IFQIFSE-
+4JOHFS(
+3FTTMFS3
+FUBM1SPTQFDUJWF
+SBOEPNJ[FE
+EPVCMFCMJOE
+TUVEZDPNQBSJOHTJOHMFBHFOUBOUJCJPUJDUIFSBQZ
+DJQSPGMPYBDJO
+UPDPNCJOBUJPOBOUJCJPUJDUIFSBQZJOPQFOGSBD
+
+UVSFXPVOET+0SUIPQ5SBVNB
+）)VEEMFTUPO1.
+4UFDLFMCFSH+.
+)BOTTFO"%
+3PVTF.4
+#PMBOEFS.&
+1BUFM3$JQSPGMPYBDJOJOIJCJUJPOPG
+FYQFSJNFOUBMGSBDUVSFIFBMJOH+#POF+PJOU4VSH"N
+）)PMUPN1%
+1BWLPWJD4"
+#SBWPT1%
+1BU[BLJT.+
+4IFQIFSE-&
+'SFOLFM#*OIJCJUPSZFGGFDUTPGUIFRVJOP
+MPOFBOUJCJPUJDTUSPWBGMPYBDJO
+DJQSPGMPYBDJO
+BOEMFWPGMPYBDJOPOPTUFPCMBTUJDDFMMTJOWJUSP+0SUIPQ3FT
+
+）%BUBCBTFPG0SUIPQBFEJD5SBVNBCZ+4'3"WBJMBCMFBU
+ IUUQTEPUKPSHUPQ
+14．泌尿器科
+文　　献
+ ）5PHP:
+5BOBLB4
+,BOFNBUTV"
+0HBXB0
+.JZB[BUP.
+4BJUP)
+FUBM"OUJNJDSPCJBMQSPQIZMBYJTUPQSFWFOU
+QFSJPQFSBUJWFJOGFDUJPOJOVSPMPHJDBMTVSHFSZ"NVMUJDFOUSFTUVEZ+*OGFDU$IFNPUIFS
+ ）6FIBSB5
+5BLBIBTIJ4
+*DIJIBSB,
+)JZBNB:
+)BTIJNPUP+
+,VSJNVSB:
+FUBM4VSHJDBMTJUFJOGFDUJPOPGTDSPUBM
+BOEJOHVJOBMMFTJPOTBGUFSVSPMPHJDTVSHFSZ+*OGFDU$IFNPUIFS
+ ）,JKJNB5
+.BTVEB)
+:PTIJEB4
+5BUPLPSP.
+:PLPZBNB.
+/VNBP/
+FUBM"OUJNJDSPCJBMQSPQIZMBYJTJTOPU
+OFDFTTBSZJODMFBODBUFHPSZNJOJNBMMZJOWBTJWFTVSHFSZGPSSFOBMBOEBESFOBMUVNPSTBQSPTQFDUJWFTUVEZPG
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p59]]
+DPOTFDVUJWFQBUJFOUT6SPMPHZ
+ ）5FSBJ"
+*DIJPLB,
+,PIFJ/
+6FEB/
+6UTVOPNJZB/
+*OPVF,"OUJCJPUJDQSPQIZMBYJTJOSBEJDBMQSPTUBUFDUPNZ
+EBZWFSTVTEBZUSFBUNFOUT*OU+6SPM
+ ）5BLFZBNB,
+5BLBIBTIJ4
+.BFEB5
+.VUPI.
+,VOJTIJNB:
+.BUTVLBXB.
+FUBM$PNQBSJTPOPGEBZ
+EBZ
+
+BOEEBZBENJOJTUSBUJPOPGBOUJNJDSPCJBMQSPQIZMBYJTJOSBEJDBMQSPTUBUFDUPNZ+*OGFDU$IFNPUIFS
+
+ ）5BOBLB,
+"SBLBXB4
+.JVSB5
+4IJHFNVSB,
+/BLBOP:
+5BLBIBTIJ4
+FUBM"OBMZTJTPGJTPMBUFECBDUFSJBBOE
+TIPSUUFSNBOUJNJDSPCJBMQSPQIZMBYJTXJUIUB[PCBDUBNQJQFSBDJMMJO	SBUJP
+GPSQSFWFOUJPOPGQPTUPQFSBUJWF
+JOGFDUJPOTBGUFSSBEJDBMDZTUFDUPNZ+*OGFDU$IFNPUIFS
+ ）5BLFZBNB,
+.BUTVLBXB.
+,VOJTIJNB:
+5BLBIBTIJ4
+)PUUB)
+/JTIJZBNB/
+FUBM*ODJEFODFPGBOESJTL
+GBDUPSTGPSTVSHJDBMTJUFJOGFDUJPOJOQBUJFOUTXJUISBEJDBMDZTUFDUPNZXJUIVSJOBSZEJWFSTJPO+*OGFDU$IF 
+NPUIFS
+ ）)BSB/
+,JUBNVSB:
+4BJUP5
+,PNBUTVCBSB4
+/JTIJZBNB5
+5BLBIBTIJ,1FSJPQFSBUJWFBOUJCJPUJDTJOSBEJDBM
+DZTUFDUPNZXJUIJMFBMDPOEVJUVSJOBSZEJWFSTJPOFGGJDBDZBOESJTLPGBOUJNJDSPCJBMQSPQIZMBYJTPOUIFPQFSBUJPO
+EBZBMPOF*OU+6SPM
+ ）"MTBZXJE#4
+4NJUI()"OUJCJPUJDQSPQIZMBYJTGPSUSBOTVSFUISBMVSPMPHJDBMTVSHFSJFT4ZTUFNBUJDSFWJFX
+6SPM"OO
+）6QUPO+
+%BT41SPQIZMBDUJDBOUJCJPUJDTJOUSBOTVSFUISBMSFTFDUJPOPGCMBEEFSUVNPSTBSFUIFZOFDFTTBSZ 6SPM
+PHZ
+）.BD%FSNPUU+1
+&XJOH3&
+4PNFSWJMMF+'
+(SBZ#,$FQISBEJOFQSPQIZMBYJTJOUSBOTVSFUISBMQSPDFEVSFT
+GPSDBSDJOPNBPGUIFCMBEEFS#S+6SPM
+）#PPUTNB".
+-BHVOB1FT.1
+(FFSMJOHT4&
+(PPTTFOT""OUJCJPUJDQSPQIZMBYJTJOVSPMPHJDQSPDFEVSFTB
+TZTUFNBUJDSFWJFX&VS6SPM
+）:PLPZBNB.
+'VKJJ:
+:PTIJEB4
+4BJUP,
+,PHB'
+.BTVEB)
+FUBM%JTDBSEJOHBOUJNJDSPCJBMQSPQIZMBYJTGPS
+USBOTVSFUISBMSFTFDUJPOPGCMBEEFSUVNPSBGFBTJCJMJUZTUVEZ*OU+6SPM
+）#FSSZ"
+#BSSBUU"1SPQIZMBDUJDBOUJCJPUJDVTFJOUSBOTVSFUISBMQSPTUBUJDSFTFDUJPOBNFUBBOBMZTJT+6SPM
+
+）2JBOH8
++JBODIFO8
+.BD%POBME3
+.POHB.
+8JMU5+"OUJCJPUJDQSPQIZMBYJTGPSUSBOTVSFUISBMQSPTUBUJD
+SFTFDUJPOJONFOXJUIQSFPQFSBUJWFVSJOFDPOUBJOJOHMFTTUIBO
+bacteriapermlasystematicreviewJ
+6SPM
+）8BHFOMFIOFS'.
+8BHFOMFIOFS$
+4DIJO[FM4
+/BCFS,(8PSLJOH(SPVQ“6SPMPHJDBM*OGFDUJPOT”PG(FSNBO
+4PDJFUZPG6SPMPHZ1SPTQFDUJWF
+SBOEPNJ[FE
+NVMUJDFOUSJD
+PQFO
+DPNQBSBUJWFTUVEZPOUIFFGGJDBDZPGBQSPQIZ
+
+lacticsingledoseofmglevofloxacinversusmgtrimethoprimsulfamethoxazoleversusacontrol
+HSPVQJOQBUJFOUTVOEFSHPJOH563PGUIFQSPTUBUF&VS6SPM
+）"IZBJ4"
+(JMMJOH1
+,BQMBO4"
+,VOU[3.
+.BEFSTCBDIFS4
+.POUPSTJ'
+FUBM.FUBBOBMZTJTPGGVODUJPOBM
+PVUDPNFTBOEDPNQMJDBUJPOTGPMMPXJOHUSBOTVSFUISBMQSPDFEVSFTGPSMPXFSVSJOBSZUSBDUTZNQUPNTSFTVMUJOH
+GSPNCFOJHOQSPTUBUJDFOMBSHFNFOU&VS6SPM
+）-V:
+5JBOZPOH'
+1JOH)
+-JBOHSFO-
+)BJDIBP:
+2JBOH8"OUJCJPUJDQSPQIZMBYJTGPSTIPDLXBWFMJUIPUSJQTZ
+JOQBUJFOUTXJUITUFSJMFVSJOFCFGPSFUSFBUNFOUNBZCFVOOFDFTTBSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+
+6SPM
+）4IJHFUB.
+)BZBTIJ.
+*HBXB.'FWFSBGUFSFYUSBDPSQPSFBMTIPDLXBWFMJUIPUSJQTZGPSQBUJFOUTXJUIVQQFS
+VSJOBSZUSBDUDBMDVMJBTTPDJBUFEXJUICBDUFSJVSJBCFGPSFUSFBUNFOU&VS6SPM
+）'VKJUB,
+.J[VOP5
+6TIJZBNB5
+4V[VLJ,
+)BEBOP4
+4BUPI4
+FUBM$PNQMJDBUJOHSJTLGBDUPSTGPSQZFMPOFQISJ
+
+UJTBGUFSFYUSBDPSQPSFBMTIPDLXBWFMJUIPUSJQTZ*OU+6SPM
+）4LPMBSJLPT"
+"MJWJ[BUPT(
+EFMB3PTFUUF+&YUSBDPSQPSFBMTIPDLXBWFMJUIPUSJQTZZFBSTMBUFSDPNQMJDBUJPOT
+BOEUIFJSQSFWFOUJPO&VS6SPM
+）,OPQG)+
+(SBGG)+
+4DIVM[F)1FSJPQFSBUJWFBOUJCJPUJDQSPQIZMBYJTJOVSFUFSPTDPQJDTUPOFSFNPWBM&VS6SPM
+
+）"HIBNJS4.
+)BNJEJ.
+4BMBWBUJ"
+.PIBNNBEJ"
+'BSBINBOE)
+.FZTBNJF"1
+FUBM*TBOUJCJPUJDQSPQIZ
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p60]]
+MBYJTOFDFTTBSZJOQBUJFOUTVOEFSHPJOHVSFUFSPMJUIPUSJQTZ "DUB.FE*SBO
+）5BLBIBTIJ4
+5BLFZBNB,
+.JZBNPUP4
+5BOVNB:
+5BLBHJ:4VSHJDBMBOUJNJDSPCJBMQSPQIZMBYJTJOUSBOTVSF
+UISBMVSFUFSPMJUIPUSJQTZ+*OGFDU$IFNPUIFS
+）(SBWBT4
+.POUBOBSJ&
+(FBWMFUF1
+0OBM#
+4LPMBSJLPT"
+1FBSMF.
+FUBM1PTUPQFSBUJWFJOGFDUJPOSBUFTJOMPX
+SJTLQBUJFOUTVOEFSHPJOHQFSDVUBOFPVTOFQISPMJUIPUPNZXJUIBOEXJUIPVUBOUJCJPUJDQSPQIZMBYJTBNBUDIFE
+DBTFDPOUSPMTUVEZ+6SPM
+）%PğBO)4
+4BIJO"
+$FUJOLBZB:
+"LEPğBO#
+0[EFO&
+,FOEJ4"OUJCJPUJDQSPQIZMBYJTJOQFSDVUBOFPVTOFQI
+SPMJUIPUPNZQSPTQFDUJWFTUVEZJOQBUJFOUT+&OEPVSPM
+）4FZSFL.
+#JOCBZ.
+:VSVL&
+"LNBO5
+"TMBO3
+:B[JDJ0
+FUBM1FSJPQFSBUJWFQSPQIZMBYJTGPSQFSDVUBOFPVT
+OFQISPMJUIPUPNZSBOEPNJ[FETUVEZDPODFSOJOHUIFESVHBOEEPTBHF+&OEPVSPM
+）.BSJBQQBO1
+4NJUI(
+.PVTTB4
+5PMMFZ%0OFXFFLPGDJQSPGMPYBDJOCFGPSFQFSDVUBOFPVTOFQISPMJUIPUPNZ
+TJHOJGJDBOUMZSFEVDFTVQQFSUSBDUJOGFDUJPOBOEVSPTFQTJTBQSPTQFDUJWFDPOUSPMMFETUVEZ#+6*OU
+
+）#BH4
+,VNBS4
+5BOFKB/
+4IBSNB7
+.BOEBM"
+4JOHI40OFXFFLPGOJUSPGVSBOUPJOCFGPSFQFSDVUBOFPVT
+OFQISPMJUIPUPNZTJHOJGJDBOUMZSFEVDFTVQQFSUSBDUJOGFDUJPOBOEVSPTFQTJTBQSPTQFDUJWFDPOUSPMMFETUVEZ
+6SPMPHZ
+）5PHP:
+,VCP5
+5BPLB3
+)JZBNB:
+6FIBSB5
+)BTIJNPUP+
+FUBM0DDVSSFODFPGJOGFDUJPOGPMMPXJOHQSPTUBUF
+CJPQTZQSPDFEVSFTJO+BQBO+BQBOFTF3FTFBSDI(SPVQGPS6SJOBSZ5SBDU*OGFDUJPO	+3(6
+BNVMUJDFOUFSSFU
+
+SPTQFDUJWFTUVEZ+*OGFDU$IFNPUIFS
+）4BCCBHI3
+.D$PSNBDL.
+1ÉMPRVJO'
+'BVDIFS3
+1FSSFBVMU+1
+1FSSPUUF1
+FUBM"QSPTQFDUJWFSBOEPNJ[FE
+USJBMPGEBZWFSTVTEBZBOUJCJPUJDQSPQIZMBYJTGPSUSBOTSFDUBMVMUSBTPVOEHVJEFEQSPTUBUFCJPQTZ$BO+6SPM
+
+）4DIBFGGFS"+
+.POUPSTJ'
+4DBUUPOJ7
+1FSSPODFM3
+4POH+
+)BWFSTUPDL%$
+FUBM$PNQBSJTPOPGBEBZXJUI
+BEBZSFHJNFOPGBOFYUFOEFESFMFBTFGPSNVMBUJPOPGDJQSPGMPYBDJOBTBOUJNJDSPCJBMQSPQIZMBYJTGPSQBUJFOUT
+VOEFSHPJOHUSBOTSFDUBMOFFEMFCJPQTZPGUIFQSPTUBUF#+6*OU
+）#BUVSB%
+3BP(
+/JFMTFO1#
+$IBSMFUU""EEJOHBNJLBDJOUPGMVPSPRVJOPMPOFCBTFEBOUJNJDSPCJBMQSPQIZMBYJT
+SFEVDFTQSPTUBUFCJPQTZJOGFDUJPOSBUFT#+6*OU
+）:BTVEB.
+/BLBOF,
+:BNBEB:
+.BUTVNPUP.
+4IP5
+.BUTVNPUP.
+FUBM$MJOJDBMFGGFDUJWFOFTTBOETBGFUZ
+PGUB[PCBDUBNQJQFSBDJMMJOHGPSUIFQSFWFOUJPOPGGFCSJMFJOGFDUJPVTDPNQMJDBUJPOBGUFSQSPTUBUFCJPQTZ+
+*OGFDU$IFNPUIFS
+）5BZMPS",
+;FNCPXFS53
+/BEMFS3#
+4DIFFU[.)
+$BTIZ+1
+#PXFO%
+FUBM5BSHFUFEBOUJNJDSPCJBMQSP
+
+QIZMBYJTVTJOHSFDUBMTXBCDVMUVSFTJONFOVOEFSHPJOHUSBOTSFDUBMVMUSBTPVOEHVJEFEQSPTUBUFCJPQTZJTBTTPDJ
+BUFEXJUISFEVDFEJODJEFODFPGQPTUPQFSBUJWFJOGFDUJPVTDPNQMJDBUJPOTBOEDPTUPGDBSF+6SPM
+15．乳腺外科
+文　　献
+ ）+POFT%+
+#VOO'
+#FMM4ZFS471SPQIZMBDUJDBOUJCJPUJDTUPQSFWFOUTVSHJDBMTJUFJOGFDUJPOBGUFSCSFBTUDBODFS
+TVSHFSZ$PDISBOF%BUBCBTF4ZTU3FW$%
+ ）"MEFSNBO"
+(VUPXTLJ,
+"IVKB"
+(SBZ%1PTUNBTUFDUPNZ&YQBOEFS*NQMBOU#SFBTU3FDPOTUSVDUJPO(VJEF
+
+MJOF8PSL(SPVQ"414DMJOJDBMQSBDUJDFHVJEFMJOFTVNNBSZPOCSFBTUSFDPOTUSVDUJPOXJUIFYQBOEFSTBOE
+JNQMBOUT1MBTU3FDPOTUS4VSHFF
+ ）5PXOMFZ8"
+#BMVDI/
+#BHIFS4
+.BBTT48
+0＇/FJMM"
+;IPOH5
+FUBM"TJOHMFQSFPQFSBUJWFBOUJCJPUJDEPTF
+JTBTFGGFDUJWFBTDPOUJOVFEBOUJCJPUJDQSPQIZMBYJTJOJNQMBOUCBTFECSFBTUSFDPOTUSVDUJPO"NBUDIFEDPIPSU
+TUVEZ+1MBTU3FDPOTUS"FTUIFU4VSH
+ ）)VBOH/
+-JV.
+:V1
+8V+"OUJCJPUJDQSPQIZMBYJTJOQSPTUIFTJTCBTFENBNNPQMBTUZBTZTUFNBUJDSFWJFX
+*OU+4VSH
+ ）-FGFCWSF%
+1FOFM/
+%FCFSMFT.'
+'PVSOJFS$<*ODJEFODFBOETVSHJDBMXPVOEJOGFDUJPOSJTLGBDUPSTJOCSFBTU
+DBODFSTVSHFSZ>1SFTTF.FE
+ ）8JUU"
+:BWV[%
+8BMDIFUTFEFS$
+4USPINFS)
+,VCJTUB&1SFPQFSBUJWFDPSFOFFEMFCJPQTZBTBOJOEFQFOEFOU
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+[[p61]]
+SJTLGBDUPSGPSXPVOEJOGFDUJPOBGUFSCSFBTUTVSHFSZ0CTUFU(ZOFDPM
+ ）7B[RVF["SBHPO1
+-J[BO(BSDJB.
+$BTDBMFT4BODIF[1
+7JMMBS$BOPWBT.5
+(BSDJB0MNP%/PTPDPNJBMJOGFD
+UJPOBOESFMBUFESJTLGBDUPSTJOBHFOFSBMTVSHFSZTFSWJDFBQSPTQFDUJWFTUVEZ+*OGFDU
+ ）.PSSJT%.
+3PCCJOT,5IFFGGFDUPGNFUIPEPGCJPQTZBOEUJNJOHPGNBTUFDUPNZPOUIFEFWFMPQNFOUPGQPTU
+NBTUFDUPNZOPTPDPNJBMXPVOEJOGFDUJPO+-B4UBUF.FE4PD
+ ）5SBO$-
+-BOHFS4
+#SPEFSJDL7JMMB(
+%J'SPO[P-"%PFTSFPQFSBUJPOQSFEJTQPTFUPQPTUPQFSBUJWFXPVOE
+JOGFDUJPOJOXPNFOVOEFSHPJOHPQFSBUJPOGPSCSFBTUDBODFS "N4VSH
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+――
+
+########## 出典: 術後感染予防抗菌薬適正使用のための実践ガイドライン_追補版_脳神経外科_眼科_2020_ ##########
+
+[[p1]]
+「術後感染予防抗菌薬適正使用のための実践ガイドライン（追補版） 」
+公益社団法人日本化学療法学会/一般社団法人日本外科感染症学会
+[[p2]]
+術後感染症予防抗菌薬ガイドライン作成委員会
+日本化学療法学会
+委員長：竹末　芳生（兵庫医科大学感染制御学）
+委　員：井川　房夫（島根県立中央病院脳神経外科）
+岸本　裕充（兵庫医科大学歯科口腔外科学講座）
+久保　正二（大阪市立大学大学院医学研究科肝胆膵外科学）
+坂本　春生（東海大学医学部付属八王子病院口腔外科）
+鈴木　　崇（いしづち眼科）
+高橋　佳子（兵庫医科大学病院薬剤部）
+橋本　昌樹（兵庫医科大学呼吸器外科）
+保富　宗城（和歌山県立医科大学耳鼻咽喉科）
+松下　和彦（川崎市立多摩病院（指定管理者：聖マリアンナ医科大学）整形外科）
+三鴨　廣繁（愛知医科大学大学院医学研究科臨床感染症学）
+山田　浩司（関東労災病院整形外科・脊椎外科）
+山本　新吾（兵庫医科大学泌尿器科）
+柚木　靖弘（川崎医科大学心臓血管外科）
+日本外科感染症学会
+委員長：真弓　俊彦（産業医科大学医学部救急医学講座）
+委　員：岡　　正朗（山口大学）
+北川　雄光（慶應義塾大学医学部外科）
+小西　敏郎（東京医療保健大学）
+実務委員長：福島　亮治（帝京大学医学部外科学講座）
+実務委員：尾原　秀明（慶應義塾大学医学部外科）
+小林美奈子（防衛医科大学校医療安全・感染対策部）
+武田　　茂（山口大学大学院医学系研究科消化器・腫瘍外科学）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3310
+[[p3]]
+「術後感染予防抗菌薬適正使用のための実践ガイドライン」
+　本ガイドラインは2016年に発表されており，その際脳外科領域は含まれておらず，今回のガイドラインはその追加
+版である。本ガイドラインでは下記の基本姿勢のもと，あえて Minds の手法は採用しなかった。
+基本姿勢：ガイドラインを作成するにあたっての基本姿勢は，欧米のガイドラインを踏襲したものでなく，日本で活
+用できる実際的な勧告を行うことである。特に問題となったのは予防抗菌薬の投与期間である。欧米のガイドライン
+ではほとんどすべての術式で単回投与が推奨されている。しかし日本では広く実施されているが，欧米では一般的で
+はない手術においては，臨床研究がほとんど行われていない。短期投与の有効性についてのエビデンスがない術式で
+は，拡大解釈して短期投与を推奨することは避け，日本での実際の予防抗菌薬使用状況をある程度考慮して勧告を行
+うこととした。
+予防抗菌薬選択の基準
+a． 		 	原則として手術部位の常在細菌叢に抗菌活性を有する薬剤選択を行い （A-I） ， 術後感染の原因細菌をターゲット
+にしない。
+b． 		 	手術操作が及ぶ部位から常在細菌以外の細菌が検出されている症例では， その細菌に活性を有する抗菌薬を選択
+する（C1-III）。
+c．			術 前1カ月以内に抗菌薬使用歴のある症例では， 本ガイドラインで推奨されている予防抗菌薬は適応とならない
+（C1-III）。
+d． 		 	脳外科領域では，SSI リスク因子を有する症例やインプラント手術では 24 時間を超える予防抗菌薬投与期間も
+考慮する方針とした。
+e．	β―ラクタム薬のアレルギーがある場合の選択
+1）グラム陽性菌のみをターゲットとする手術：クリンダマイシン（CLDM）またはバンコマイシン（VCM）
+2）	 	グラム陽性菌，グラム陰性菌を考慮する手術：CLDM または VCM と，アミノグリコシド系薬またはフルオ
+ロキノロン系薬またはアズトレオナム（AZT）との併用
+手術部位感染（SSI）リスク
+　①米国麻酔学会術前状態分類≧3（糖尿病など）
+　②創クラス 3（4 は予防抗菌薬適応外）
+　③長時間手術
+　④ body	mass	index≧25
+　⑤術後血糖コントロール不良（＞200	mg/dL）
+表 1.　推奨グレード，エビデンスレベルの定義
+区分/等級 定義
+エビデンスレベル
+I 一つ以上の無作為化比較試験による証拠
+II 無作為化はされていないが， よくデザインされた臨床試験 ； コホー
+ト（集団）または case-controlled（患者対照）解析研究（複数の
+施設での実施が望ましい） ；多時系列；非対照試験から得られた
+画期的な結果，による証拠
+III 専門家の意見；臨床経験に基づく証拠；記述的研究；専門委員会
+からの報告，による証拠
+推奨グレード
+A 科学的根拠があり，行うように強く勧められる
+B 科学的根拠があり，行うように勧められる
+C1 科学的根拠はないが，行うように勧められる
+C2 科学的根拠がなく，行わないように勧められる
+D 無効性や害を示す科学的根拠があり，行わないように勧められる
+Unresolved issue；現状では明確な勧告を示せない事項
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3 3 11
+[[p4]]
+　⑥術中低体温（＜36℃）
+　⑦緊急手術
+　⑧ステロイド・免疫抑制剤の使用
+　⑨術野に対する術前放射線照射
+　⑩高齢者（年齢に関しては症例ごとに判断する）
+Conflict of interest（COI）
+　竹末芳生は，大日本住友製薬（株） ，大正富山医薬品（株） ，Meiji	 Seika ファルマ（株） ，アステラス製薬（株） ，
+ファイザー（株） ，MSD（株）より講演料を受けている。
+　竹末芳生は，ファイザー（株） ，塩野義製薬（株） ，大日本住友製薬（株） ，アステラス製薬（株）より奨学寄附金を
+受けている。
+　岸本裕充は，第一三共（株） ，帝人ファーマ（株） ，中外製薬（株） ，旭化成ファーマ（株）より講演料を受けてい
+る。
+　鈴木　崇は，参天製薬（株） ，アルコンファーマ（株） ，千寿製薬（株） ， （株）メニコンより講演料を受けている。
+　鈴木　崇は， （株）メニコン，HOYA（株） ，日本アルコン（株）より研究費を受けている。
+　鈴木　崇は，HOYA（株） ，千寿製薬（株） ，興和（株）より寄附講座の資金援助を受けている。
+　保富宗城は，Meiji	Seika ファルマ（株） ，大正富山医薬品（株）より講演料を受けている。
+　保富宗城は，大正富山医薬品（株） ，アステラス製薬（株） ，小野薬品工業（株）より奨学寄附金を受けている。
+　三鴨廣繁は，旭化成ファーマ（株） ，アステラス製薬（株） ，MSD（株） ，塩野義製薬（株） ，大正富山医薬品（株） ，
+大日本住友製薬（株） ，富山化学工業（株） ，ファイザー（株） ，ミヤリサン製薬（株） ，Meiji	 Seika ファルマ（株） ，
+日本ベクトン・ディッキンソン（株） ，杏林製薬（株） ，第一三共（株） ，富士フイルム富山化学（株）より講演料を受
+けている。
+　三鴨廣繁は，東ソー（株） ，富山化学工業（株） ，プレシジョン・システム・サイエンス（株） ，ミヤリサン製薬
+（株） ，日本ベクトン・ディッキンソン（株） ， （株）大塚製薬工場，積水メディカル（株） ， （株）ティ・アシスト，ロ
+シュ・ダイアグノスティックス（株） ，ニットーボーメディカル（株） ，MSD（株） ，バイエル薬品（株） ， （株）フコ
+ク，Meiji	Seika ファルマ（株） ，ファイザー（株）より研究費を受けている。
+　三鴨廣繁は，大日本住友製薬（株） ，旭化成ファーマ（株） ，アステラス製薬（株） ，MSD（株） ，第一三共（株） ，
+大正富山医薬品（株） ，富山化学工業（株） ，ファイザー（株） ，富士フイルムファーマ（株） ，ミヤリサン製薬（株） ，
+Meiji	Seika ファルマ（株） ，塩野義製薬（株） ，富士フイルム富山化学（株）より奨学寄附金を受けている。
+　山本新吾は，MSD（株）より講演料を受けている。
+　山本新吾は，アステラス製薬（株） ，武田薬品工業（株） ，ファイザー（株） ，バイエル薬品（株） ，小野薬品工業
+（株） ，日本新薬（株）より奨学寄附金を受けている。
+　真弓俊彦は，ロシュ・ダイアグノスティックス（株）より研究費を受けている。
+　真弓俊彦は，旭化成ファーマ（株）より奨学寄附金を受けている。
+　北川雄光は，ケイアイクリニック，平田医院，上尾中央総合病院の顧問料を受けている。
+　北川雄光は，旭化成ファーマ（株） ，エチコン，小野薬品工業（株） ，塩野義製薬（株） ，大鵬薬品工業（株） ，中外
+製薬（株）より講演料を受けている。
+　北川雄光は，大鵬薬品工業（株） ，中外製薬（株） ， （株）ヤクルト本社，旭化成ファーマ（株） ，EA ファーマ（株） ，
+武田薬品工業（株） ， （株）大塚製薬工場，小野薬品工業（株） ， （株）メディコン， （株）ツムラ，大塚製薬（株） ，エー
+ザイ（株） ， （株）培風館， （株）藤和グループホールディングスより奨学寄附金を受けている。
+　北川雄光は，大鵬薬品工業（株） ，中外製薬（株）より寄附講座の資金援助を受けている。
+　福島亮治は，小野薬品工業（株） ，日本イーライリリー（株） ， （株）ヘルスメディカルコーチングより奨学寄附金を
+受けている。
+　小林美奈子は，伊賀市立上野総合病院，玉城病院より寄附講座の資金援助を受けている。
+　井川房夫，久保正二，坂本春生，高橋佳子，橋本昌樹，松下和彦，山田浩司，柚木靖弘，岡　正朗，小西敏郎，尾
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3312
+[[p5]]
+原秀明，武田　茂は申告すべきものなし。
+本ガイドラインで使用された主な抗菌薬の略号
+CEZ：セファゾリン，CTRX：セフトリアキソン，SBT/ABPC：スルバクタム/アンピシリン，MNZ：メトロニダ
+ゾール，CLDM：クリンダマイシン，VCM：バンコマイシン，AZT：アズトレオナム
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3 313
+[[p6]]
+表 .　脳神経外科領域における標準術式に対する術後感染予防抗菌薬の適応，推奨抗菌薬，投与期間に関する勧告
+・SSI 高リスクに対する勧告の場合は，以下の因子に該当する症例を適応とする。米国麻酔学会術前状態分類≧ 3（糖尿病など） ，創クラス3（4 は予防抗菌薬適応外） ，長時間手術（各術式にお
+ける手術時間＞75 percentile），body mass index≧25，術後血糖コントロール不良（＞200 mg/dL） ，術中低体温（＜36℃） ，緊急手術，ステロイド・免疫抑制剤の使用，術野に対する術前放射線
+照射，高齢者（年齢に関しては症例ごとに判断する）
+単回：長時間の可能性のある手術において，長時間手術では術中再投与を行う。
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後期間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+脳神経外科
+クラスI
+開頭術
+A-I
+1 ～ 6）
+CEZ CLDM，VCM 24 ～ 
+48 時間以内 C1-III
+1 ～ 6）
+チタンプレート使用時のエビデンスはない。
+タイトル下に示す SSI リスク因子を有する場合 72 時間も考慮。
+脳動脈瘤クリッピング
+術
+脳腫瘍摘出術
+血管吻合術
+脳動静脈奇形摘出術
+血腫除去術 頭部外傷による開放創，汚染等があれば本ガイドラインの対象外，
+治療抗菌薬の対象。
+クラスII 上記に副鼻腔を開放し
+た手術 C1-III CEZ CLDM，VCM 48 時間以内 C1-III 副鼻腔開放に関するエビデンスはない。副鼻腔炎合併例では治療
+抗菌薬の対象。
+クラスI 上記に髄液ドレナージ
+を追加した手術 C1-III 7，8） CEZ CLDM，VCM 48 時間以内 C1-III 7） ドレーン抜去まで抗菌薬を継続する必要はない。
+クラスI 上記のうち小児例 C1-III CEZ CLDM，VCM 24 ～ 
+48 時間以内 C1-III 新生児ではエビデンスはない。リスク因子を有する症例では 72 時
+間も考慮。
+クラスI 内視鏡第三脳室開放術 C1-III CEZ CLDM，VCM 単回～ 
+24 時間 C1-III
+クラスI 脳脊髄液シャント造設術 B-II 9 ～ 14） CEZ CLDM，VCM 24 時間 B-II 9 ～ 14）
+予防効果は，シャントの種類（脳室腹腔内，脳室心房） ，投与期間
+に影響を受けない。ただしリスク因子を有する症例では 48 時間も
+考慮。
+クラスI 上記のうち小児例 B-II 9） CEZ CLDM，VCM 48 時間 C1-III 新生児ではエビデンスはない。リスク因子を有する症例では 48 ～
+72 時間も考慮。
+クラスI 頸動脈血栓内膜剥離術 C1-III 15，16） CEZ CLDM，VCM 単回～ 
+24 時間
+血管外科領域では，同手術において単回投与（長時間手術では再
+投与）を推奨。
+Summary（表）
+（続く）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3314
+[[p7]]
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後期間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+クラスII 経蝶形骨洞手術（経鼻的
+下垂体手術） C1-III 17 ～ 20） CEZ CLDM，VCM 24 ～ 48 時間 C1-III 17 ～ 20）
+術後髄液漏合併例では髄液移行の良好な CTRX を考慮。タイトル下
+に示す SSI リスク因子を有する症例，ならびに髄液漏例，クッシン
+グ病では 48 時間を考慮。ルーチンの鼻腔培養の有用性は示されて
+いないが，鼻腔内 MRSA 保菌が判明している症例では，術前除菌
+を行い，CEZ と VCM の併用を考慮。術後副鼻腔炎予防目的の投与
+期間延長に関するエビデンスはない。
+クラスI 頭蓋底外科手術 C1-III
+21 ～ 26）
+CEZ CLDM，VCM 24 ～ 48 時間 C1-III
+21 ～ 26）
+チタンプレート使用時のエビデンスはない。術後髄液漏合併例で
+は CTRX を考慮。リスク因子を有する症例における過大侵襲手術で
+は 72 時間も考慮。口腔開放する術式では口腔内嫌気性菌に抗菌活
+性を有する薬剤を推奨。
+クラスII 頭蓋底外科手術（副鼻
+腔開放） C1-III CEZ CLDM，VCM 24 ～ 48 時間 C1-III
+クラスII 頭蓋底外科手術（口腔
+開放） C1-III
+SBT/ABPC，CEZ
+＋CLDM，CEZ
+＋MNZ，CMZ
+CLDM，VCM 24 ～ 48 時間 C1-III
+クラスI 脊髄・脊椎手術 C1-III CEZ CLDM，VCM 24 時間以内 C1-III
+クラスI 脊椎手術（インストゥ
+ルメントなし） A-I 27 ～ 29） CEZ CLDM，VCM 24 時間以内 C1-III 30 ～ 32）
+クラスI 脊椎手術（インストゥ
+ルメントあり） A-II 29） CEZ CLDM，VCM 48 時間以内 C1-III 33，40，
+41）
+① MRSA による SSI が高率な施設では，術前に鼻腔内 MRSA 保菌
+チェックを考慮する。保菌者では CEZ とグリコペプチド系薬の併
+用ならびに除菌が勧められる。
+②メチシリン耐性 CNS による感染も高率であるが，その保菌者対
+策については今後の課題である（unresolved issue）。
+クラスI 硬膜内脊髄手術 C1-III 35） CEZ CLDM，VCM C1-III 35）
+クラスI 頭蓋形成術 C1-III 36，37） CEZ CLDM，VCM 48 時間 C1-III 感染後の症例では，その時の感染原因菌を考慮した抗菌薬を選択。
+クラスI 髄注ポンプの植え込み術 C1-III CEZ CLDM，VCM 24 時間 C1-III
+クラスI 頭蓋内脊髄電極留置術 C1-III 34，38，
+39） CEZ CLDM，VCM 48 時間 C1-III
+クラスI 末梢神経手術 C1-III CEZ CLDM，VCM 24 時間以内 C1-III
+クラスI 慢性硬膜下血腫手術 C1-III CEZ CLDM，VCM 単回～ 
+24 時間 C1-III
+クラスI 脳血管内手術（コイル塞
+栓，ステント留置） C2-III 42，43） なし なし
+リスク因子がある例では，単回使用も考慮。血管外科領域では末
+梢血管内ステント留置術において予防投与を推奨しているが，脳
+外科領域では現状に鑑み推奨しなかった。
+抗菌薬略語　CEZ：セファゾリン，CMZ：セフメタゾール，SBT/ABPC：スルバクタム/アンピシリン，CLDM：クリンダマイシン，VCM：バンコマイシン
+表 .　（続き）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3 315
+[[p8]]
+表 .　眼科領域における標準術式に対する術後感染予防抗菌薬の適応，推奨抗菌薬，投与期間に関する勧告
+・SSI 高リスクに対する勧告の場合は，以下の因子に該当する症例を適応とする。米国麻酔学会術前状態分類≧ 3（糖尿病など） ，創クラス3（4 は予防抗菌薬適応外） ，長時間手術（各術式にお
+ける手術時間＞75 percentile），body mass index≧25，術後血糖コントロール不良（＞200 mg/dL） ，術中低体温（＜36℃） ，緊急手術，ステロイド・免疫抑制剤の使用，術野に対する術前放射線
+照射，高齢者（年齢に関しては症例ごとに判断する）
+単回：長時間の可能性のある手術において，長時間手術では術中再投与を行う。
+Summary（表）
+創分類 術式
+予防抗菌薬の適応
+推奨 
+抗菌薬
+β―ラ ク タ ム 系抗菌薬 
+アレル ギ ー 患 者 で の 
+代替薬
+投与期間
+備考
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献 単 回または 
+術後期間
+推奨 
+グ レ ード/ 
+エビデンス 
+レベル
+文献
+眼科
+クラスI
+水晶体再建術（リスク因
+子あり）
+硝子体手術
+C1-III CEZ
+経口/静注 
+キノロン系薬， 
+アミノグリコシド系薬
+単回 C1-III 1 ～ 14）
+フルオロキノロン点眼 
+（GFLX，LVFX，MFLX），
+セフロキシム点眼など術
+前 3 日間 1 日 3 回。
+術後における点眼に関しては，未だその
+適応や投与期間に関するコンセンサスが
+得られておらず，勧告は行わない方針と
+した。
+クラスI 水晶体再建術（リスク因
+子なし） C2-III
+予防抗菌薬の全
+身投与は必ずし
+も必要ではない
+（点眼による局
+所投与のみ）
+― ― ― 1 ～ 14）
+フルオロキノロン点眼 
+（GFLX，LVFX，MFLX），
+セフロキシム点眼など術
+前 3 日間 1 日 3 回。
+クラスI
+緑内障手術
+角膜移植術
+斜視手術
+網膜復位術
+眼窩手術
+眼瞼手術
+C1-III CEZ
+経口/静注 
+キノロン系薬， 
+アミノグリコシド系薬
+単回 C1-III
+クラスII 涙道手術 C1-III 15） CEZ
+経口/静注 
+キノロン系薬， 
+アミノグリコシド系薬
+単回 C1-III
+抗菌薬略語　CEZ：セファゾリン，LVFX：レボフロキサシン，GFLX：ガチフロキサシン，MFLX：モキシフロキサシン
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3316
+[[p9]]
+Literature review
+1．脳神経外科
+　脳神経外科手術での主たる感染原因菌は皮膚常在菌である黄色ブドウ球菌，連鎖球菌であり，これらをカバーする
+抗菌薬の予防的投与が推奨される。開頭術では，すでに種々の抗菌薬における多数の無作為化比較対照試験（ RCT）
+が実施され，そのメタ解析や systematic	 review によって，抗菌薬の使用によって術後の髄膜炎発症が有意に減少す
+ることが示されている
+1～3）
+。グラム陰性菌におけるカバーの有無，抗菌薬の単剤と併用で比較したところ，ともに同等
+の効果であったことも示されている
+1～3）
+。また，systematic	 review によって，セファゾリン（CEZ）の使用は第 3 世
+代セフェム系など他の抗菌薬と同等かそれ以上の効果があることが示されている
+3，4）
+。しかし，これらに引用された
+RCT はかなり以前のものであり，現在の起因菌状況とは異なる可能性もあり， MRSA 等の耐性菌が多い環境ではそ
+れらもカバーする予防的抗菌薬使用も考慮する必要性も議論されている
+3，5）
+。予防的抗菌薬の投与期間に関しては，多
+くの RCT が単回のみの投与であり，24 時間までの投与で十分な予防効果が得られることが示唆されている
+1，6）
+。開頭
+術の病名，術式まで言及しているエビデンスや，チタンプレート使用時や副鼻腔開放に関するエビデンスはない。現
+場の状況に鑑み，投与期間に関しては，24～48 時間以内とした（推奨グレード C1-III） 。開頭術に髄液ドレナージを
+追加した場合や持続ドレナージを単独で行った場合の予防的抗菌薬に関する RCT はなく，明確な推奨はできないが，
+ドレーン抜去まで抗菌薬を継続する必要はない
+7）
+。 抗菌薬含浸ドレナージチューブ使用による感染予防効果が報告され
+ている
+7，8）
+。
+　シャント造設術でも，予防的抗菌薬投与に関する小規模な RCT が行われ，そのメタ解析で，抗菌薬投与はシャン
+ト感染を有意に減少することが小児例でも示されている
+9）
+。またその効果は，年齢，シャントの種類（脳室腹腔内，脳
+室心房） ，投与期間にかかわらないことが示され，24 時間を超える予防的抗菌薬投与の優越性は示されていない
+PO～PS）
+。
+　頸動脈血栓内膜剥離術
+15，16）
+，経蝶形骨洞手術（経鼻的下垂体手術）に関しては質の高い研究はないが
+17～20）
+，これらの
+場合もシャント造設術に準じた予防的抗菌薬投与を行うことを推奨する。経蝶形骨洞手術は手術経路である鼻腔内感
+染についても考慮する必要があるが，予防的抗菌薬投与に関するエビデンスは乏しい。頭蓋底外科領域
+21～25）
+では，内
+視鏡手術も散見され
+26）
+，口腔開放時のみ推奨抗菌薬を変更し，他の部位同様長期投与は否定されているが
+21）
+，高侵襲手
+術では長期投与を推奨する論文もある
+22）
+。
+　脊椎手術に関してはエビデンスがあるが
+27～34）
+，硬膜内脊髄手術
+35）
+や，頭蓋形成術
+36，37）
+，髄注ポンプの植え込み術，頭
+蓋内脊髄電極留置術
+34，38，39）
+について，質の高い論文はない。整形外科インプラント手術において，鼻腔内 MRSA 保菌
+者に対する除菌（ムピロシンカルシウム水和物軟膏塗布，クロルヘキシジングルコン酸塩石鹸シャワー浴）による
+MRSA の手術部位感染（SSI）予防効果が報告されている
+40，41）
+。鼻腔内操作のある経蝶形骨洞手術では，エビデンスは
+ないためルーチンの術前鼻腔培養は推奨しなかったが， 鼻腔内MRSA保菌が判明している症例においては除菌を考慮
+する。
+　脳血管内治療では， 必ずしも予防的抗菌薬投与の利点が認められず， 必要と判断された時に単回使用を考慮する
+42，43）
+。
+文　　献
+	1）	Barker	F	G	2nd:	Efficacy	of	prophylactic	antibiotics	for	craniotomy:	A	meta-analysis.	Neurosurgery	1994;	35:	484-
+92
+	2）	Barker	F	G	2nd:	Efficacy	of	prophylactic	antibiotics	against	meningitis	after	craniotomy:	A	meta-analysis.	Neu-
+rosurgery	2007;	60:	887-94;	discussion	887-94
+	3）	Liu	W,	Ni	M,	Zhang	Y,	Groen	R	J:	Antibiotic	prophylaxis	in	craniotomy:	A	review.	Neurosurg	Rev	2014;	37:	407-
+14;	discussion	414
+	4）	Liu	W,	Neidert	M	C,	Groen	R	J,	Woernle	C	M,	Grundmann	H:	Third-generation	cephalosporins	as	antibiotic	pro-
+phylaxis	in	neurosurgery:	What’s	the	evidence?	Clin	Neurol	Neurosurg	2014;	116:	13-9
+	5）	Blomstedt	G	C,	Kyttä	J:	Results	of	a	randomized	trial	of	vancomycin	prophylaxis	in	craniotomy.	J	Neurosurg	
+1988;	69:	216-20
+	6）	Young	R	F,	Lawner	P	M:	Perioperative	antibiotic	prophylaxis	for	prevention	of	postoperative	neurosurgical	
+infections.	A	randomized	clinical	trial.	J	Neurosurg	1987;	66:	701-5
+	7）	Fried	H	I,	Nathan	B	R,	Rowe	A	S,	Zabramski	J	M,	Andaluz	N,	Bhimraj	A,	et	al:	The	insertion	and	management	
+of	external	ventricular	drains:	An	evidence-based	consensus	statement:	A	statement	for	healthcare	profession-
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3 317
+[[p10]]
+als	from	the	neurocritical	care	society.	Neurocrit	Care	2016;	24:	61-81
+	8）	Root	B	K,	Barrena	B	G,	Mackenzie	T	A,	Bauer	D	F:	Antibiotic	impregnated	external	ventricular	drains:	Meta	
+and	cost	analysis.	World	Neurosurg	2016;	86:	306-15
+	9）	Klimo	P	Jr,	Van	Poppel	M,	Thompson	C	J,	Baird	L	C,	Duhaime	A	C,	Flannery	A	M:	Pediatric	hydrocephalus:	
+Systematic	literature	review	and	evidence-based	guidelines.	Part	6:	Preoperative	antibiotics	for	shunt	surgery	
+in	children	with	hydrocephalus:	A	systematic	review	and	meta-analysis.	J	Neurosurg	Pediatr	2014;	14	(Suppl	1):	
+44-52
+PO）	q	aK	b	iK	r	bY	`								Y	
+A	systematic	review.	J	Neurosurg	Pediatr	2008;	1:	48-56
+11）	Ratilal	B,	Costa	J,	Sampaio	C:	Antibiotic	prophylaxis	for	surgical	introduction	of	intracranial	ventricular	shunts.	
+Cochrane	Database	Syst	Rev	2006;	3:	Cd005365
+12）	Kestle	J	R,	Riva-Cambrin	J,	Wellons	J	C	3rd,	Kulkarni	A	V,	Whitehead	W	E,	Walker	M	L,	et	al.	A	standardized	
+protocol	to	reduce	cerebrospinal	fluid	shunt	infection:	The	hydrocephalus	clinical	research	network	quality	
+improvement	initiative.	J	Neurosurg	Pediatr	2011;	8:	22-9
+13）	Kazui	H,	Miyajima	M,	Mori	E,	Ishikawa	M:	Lumboperitoneal	shunt	surgery	for	idiopathic	normal	pressure	hydro-
+cephalus	(SINPHONI-2):	An	open-label	randomised	trial.	Lancet	Neurol	2015;	14:	585-94
+14）	Yang	T	H,	Chang	C	S,	Sung	W	W,		Liu	J	T:	Lumboperitoneal	shunt:	A	new	modified	surgical	technique	and	a	
+comparison	of	the	complications	with	ventriculoperitoneal	shunt	in	a	single	center.	Medicina	2019;	55:	E643
+15）	Dua	A,	Desai	S	S,	Seabrook	G	R,	Brown	K	R,	Lewis	B	D,	Rossi	P	J,	et	al:	The	effect	of	surgical	care	improvement	
+project	measures	on	national	trends	on	surgical	site	infections	in	open	vascular	procedures.	J	Vasc	Surg	2014;	
+60:	1635-9
+16）	Naylor	R:	Management	of	prosthetic	patch	infection	after	CEA.	J	Cardiovasc	Surg	2016;	57:	137-44
+17）	Little	A	S,	White	W	L:	Short-duration,	single-agent	antibiotic	prophylaxis	for	meningitis	in	trans-sphenoidal	sur-
+gery.	Pituitary	2011;	14:	335-9
+18）	Brown	S	M,	Anand	V	K,	Tabaee	A,	Schwartz	T	H:	Role	of	perioperative	antibiotics	in	endoscopic	skull	base	
+surgery.	Laryngoscope	2007;	117:	1528-32
+19）	Orlando	R,	Cappabianca	P,	Tosone	G,	Esposito	F,	Piazza	M,	de	Divitiis	E:	Retrospective	analysis	of	a	new	antibi-
+otic	chemoprophylaxis	regimen	in	170	patients	undergoing	endoscopic	endonasal	transsphenoidal	surgery.	Surg	
+Neurol	2007;	68:	145-8;	discussion	148
+20）	Little	A	S,	White	W	L:	Prophylactic	antibiotic	trends	in	transsphenoidal	surgery	for	pituitary	lesions.	Pituitary	
+2011;	14:	99-104
+21）	Cannon	R	B,	Houlton	J	J,	Mendez	E,	Futran	N	D:	Methods	to	reduce	postoperative	surgical	site	infections	after	
+head	and	neck	oncology	surgery.	Lancet	Oncol	2017;	18:	e405-13
+22）	Bartella	A	K,	Kamal	M,	Teichmann	J,	Kloss-Brandstätter	A,	Steiner	T,	Hölzle	F,	et	al:	Prospective	comparison	
+of	perioperative	antibiotic	management	protocols	in	oncological	head	and	neck	surgery.	J	Craniomaxillofac	Surg	
+2017;	45:	1078-82
+23）	Wagner	J	L,	Kenney	R	M,	Vazquez	J	A,	Ghanem	T	A,	Davis	S	L:	Surgical	prophylaxis	with	gram-negative	activ-
+ity	for	reduction	of	surgical	site	infections	after	microvascular	reconstruction	for	head	and	neck	cancer.	Head	
+Neck	2016;	38:	1449-54
+24）	Busch	C	J,	Knecht	R,	Münscher	A,	Matern	J,	Dalchow	C,	Lörincz	B	B:	Postoperative	antibiotic	prophylaxis	in	
+clean-contaminated	head	and	neck	oncologic	surgery:	A	retrospective	cohort	study.	Eur	Arch	Otorhinolaryngol	
+2016;	273:	2805-11
+25）	Vamvakidis	K,	Rellos	K,	Tsourma	M,	Christoforides	C,	Anastasiou	E,	Zorbas	K	A,	et	al:	Antibiotic	prophylaxis	
+for	clean	neck	surgery.	Ann	R	Coll	Surg	Engl	2017;	99:	410-2
+26）	Johans	S	J,	Burkett	D	J,	Swong	K	N,	Patel	C	R,	Germanwala	A	V:	Antibiotic	prophylaxis	and	infection	prevention	
+for	endoscopic	endonasal	skull	base	surgery:	Our	protocol,	results,	and	review	of	the	literature.	J	Clin	Neurosci	
+2018;	47:	249-53
+27）	Petignat	C,	Francioli	P,	Harbarth	S,	Regli	L,	Porchet	F,	Reverdin	A,	et	al:	Cefuroxime	prophylaxis	is	effective	in	
+noninstrumented	spine	surgery:	A	double-blind,	placebo-controlled	study.	Spine	2008;	33:	1919-24
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3318
+[[p11]]
+28）	Piotrowski	W	P,	Krombholz	M	A,	Mühl	B:	Spondylodiscitis	after	lumbar	disk	surgery.	Neurosurg	Rev	1994;	17:	
+189-93
+29）	Barker	F	G	2nd:	Efficacy	of	prophylactic	antibiotic	therapy	in	spinal	surgery:	A	meta-analysis.	Neurosurgery	
+2002;	51:	391-400;	discussion	400-1
+30）	Dobzyniak	M	A,	Fischgrund	J	S,	Hankins	S,	Herkowitz	H	N:	Single	versus	multiple	dose	antibiotic	prophylaxis		
+in	lumbar	disc	surgery.	Spine	2003;	28:	E453-5
+31）	Hellbusch	L	C,	Helzer-Julin	M,	Doran	S	E,	Leibrock	L	G,	Long	D	J,	Puccioni	M	J,	et	al:	Single-dose	vs	multiple-
+dose	antibiotic	prophylaxis	in	instrumented	lumbar	fusion--a	prospective	study.	Surg	Neurol	2008;	70:	622-7;	dis-
+cussion	627
+32）	Kanayama	M,	Hashimoto	T,	Shigenobu	K,	Oha	F,	Togawa	D:	Effective	prevention	of	surgical	site	infection	using	
+a	Centers	for	Disease	Control	and	Prevention	guideline-based	antimicrobial	prophylaxis	in	lumbar	spine	sur-
+gery.	J	Neurosurg	Spine	2007;	6:	327-9
+33）	Takahashi	H,	Wada	A,	Iida	Y,	Yokoyama	Y,	Katori	S,	Hasegawa	K,	et	al:	Antimicrobial	prophylaxis	for	spinal	
+surgery.	J	Orthop	Sci	2009;	14:	40-4
+34）	Hoelzer	B	C,	Bendel	M	A,	Deer	T	R,	Eldrige	J	S,	Walega	D	R,	Wang	Z,	et	al:	Spinal	cord	stimulator	implant	infec-
+tion	rates	and	risk	factors:	A	multicenter	retrospective	study.	Neuromodulation	2017;	20:	558-62
+35）	Dimovska-Gavrilovska	A,	Chaparoski	A,	Gavrilovski	A,	Milenkovikj	Z:	The	importance	of	perioperative	prophy-
+laxis	with	cefuroxime	or	ceftriaxone	in	the	surgical	site	infections	prevention	after	cranial	and	spinal	neurosur-
+gical	procedures.	Pril	2017;	38:	85-97
+36）	Zheng	W	J,	Li	L	M,	Hu	Z	H,	Liao	W,	Lin	Q	C,	Zhu	Y	H,	et	al:	Excessive	hemostasis	on	the	scalp	increases	super-
+ficial	surgical	site	infection	rate	in	cranioplasty.	World	Neurosurg	2018;	120:	e811-7
+37）	Bang	J	H,	Cho	K	T,	Park	S	Y:	Prophylactic	effect	of	vancomycin	on	infection	after	cranioplasty	in	methicillin-
+resistant	Staphylococcus	aureus	carriers	with	traumatic	brain	injury.	Korean	J	Neurotrauma	2015;	11:	81-6
+38）	Abode-Iyamah	K	O,	Chiang	H	Y,	Woodroffe	R	W,	Park	B,	Jareczek	F	J,	Nagahama	Y,	et	al:	Deep	brain	stimula-
+tion	hardware-related	infections:	10-year	experience	at	a	single	institution.	J	Neurosurg	2018:	1-10
+39）	Fjelstad	A	B,	Hommelstad	J,	Sorteberg	A:	Infections	related	to	intrathecal	baclofen	therapy	in	children	and	
+adults:	Frequency	and	risk	factors.	J	Neurosurg	Pediatr	2009;	4:	487-93
+40）	Bode	L	G,	Kluytmans	J	A,	Wertheim	H	F,	Bogaers	D,	Vandenbroucke-Grauls	C	M,	Roosendaal	R,	et	al:	Prevent-
+ing	surgical-site	infections	in	nasal	carriers	of	Staphylococcus	aureus.	N	Engl	J	Med	2010;	362:	9-17
+41）	Schweizer	M	L,	Chiang	H	Y,	Septimus	E,	Moody	J,	Braun	B,	Hafner	J,	et	al:	Association	of	a	bundled	intervention	
+with	surgical	site	infections	among	patients	undergoing	cardiac,	hip,	or	knee	surgery.	JAMA	2015;	313:	2162-71
+42）	Sutcliffe	J	A,	Briggs	J	H,	Little	M	W,	McCarthy	E,	Wigham	A,	Bratby	M,	et	al:	Antibiotics	in	interventional	
+radiology.	Clin	Radiol	2015;	70:	223-34
+43）	Greaves	N	S,	Katsogridakis	E,	Faris	B,	Murray	D:	Prophylactic	antibiotics	for	percutaneous	endovascular	proce-
+dures.	Eur	J	Clin	Microbiol	Infect	Dis	2017;	36:	597-601
+2．眼科
+　眼科手術は，眼内操作を必要とする白内障手術，緑内障手術，硝子体手術などの内眼手術と眼瞼や涙道など眼付属
+器における手術に分けられる。 クラスIに分類される内眼手術や眼瞼手術では， 結膜や眼瞼の常在菌であるコアグラー
+ゼ陰性ブドウ球菌，黄色ブドウ球菌，連鎖球菌，腸球菌などが，術後感染症の原因菌である。そのため，内眼手術や
+眼瞼手術では，これらをカバーする抗菌薬の予防的投与が推奨されるが，眼科手術における抗菌薬の全身投与におい
+ては，その有効性を含めたエビデンス自体の報告が少ない。海外では，白内障手術において，抗菌薬の予防的全身投
+与は，行われていないことが多い
+1）
+。白内障手術の眼内炎発症における抗菌薬全身投与の予防効果は， systematic	
+review ではエビデンスが確立されていない
+2）
+。このように，文献上は，白内障手術において周術期の抗菌薬全身投与
+の明らかな有効性は認められない。一方，白内障手術などの内眼手術時における周術期での抗菌薬点眼の有効性につ
+いては，フルオロキノロン系点眼薬を中心に多く報告があり，ほとんどの術者や施設でも行われている
+3～13）
+。しかしな
+がら，術後感染症の予防における抗菌薬点眼の無作為化比較対照試験（RCT） ，メタ解析，systematic	review は少な
+い。
+　一方，クラスIIに分類される感染部位の手術として，鼻涙管閉塞に伴う涙道手術があるが，セファレキシン（CEX）
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3 319
+[[p12]]
+抗菌薬内服とセファゾリン（CEZ）点滴投与において，術後感染の発症を比較した RCT では，CEZ 単回投与で術後
+感染症の発症率を低下させていた
+14）
+。
+文　　献
+	1）	Das	T,	Sharma	S:	Endophthalmitis	Prevention.	Asia	Pac	J	Ophthalmol	2018;	7:	69-71
+	2）	Grzybowski	A,	Schwartz	S	G,	Matsuura	K,	Ong	Tone	S,	Arshinoff	S,	Ng	J	Q,	et	al:	Endophthalmitis	Prophylaxis	
+in	Cataract	Surgery:	Overview	of	Current	Practice	Patterns	Around	the	World.	Curr	Pharm	Des	2017;	23:	565-
+73
+	3）	Matsuura	K,	Mori	T,	Miyamoto	T,	Suto	C,	Saeki	Y,	Tanaka	S,	et	al:	Survey	of	Japanese	ophthalmic	surgeons	
+regarding	perioperative	disinfection	and	antibiotic	prophylaxis	in	cataract	surgery.	Clin	Ophthalmol	2014;	8:	
+2013-8
+	4）	Suzuki	T,	Tanaka	H,	Toriyama	K,	Okamoto	S,	Urabe	K,	Hashida	M,	et	al:	Prospective	clinical	evaluation	of	1.5%	
+levofloxacin	ophthalmic	solution	in	ophthalmic	perioperative	disinfection.	J	Ocul	Pharmacol	Ther	2013;	29:	887-
+92
+	5） 	須田智栄子，戸田和重，松田英樹，成相美奈，松田俊之，岡野喜一朗，他：周術期抗菌点眼薬の使用期間が結膜
+嚢細菌叢へ及ぼす影響。あたらしい眼科　2010;	27:	982-6
+	6）	He	L,	Ta	C	N,	Miño	de	Kaspar	H:	One-day	application	of	topical	moxifloxacin	0.5%	to	select	for	fluoroquinolone-
+resistant	coagulase-negative	Staphylococcus.	J	Cataract	Refract	Surg	2009;	35:	1715-8
+	7）	Jensen	M	K,	Fiscella	R	G,	Moshirfar	M,	Mooney	B:	Third-	and	fourth-generation	fluoroquinolones:	retrospective	
+								PO	M	i	b	q	r	QOOWZ	
+34:	1460-7
+	8）	Inoue	Y,	Usui	M,	Ohashi	Y,	Shiota	H,	Yamazaki	T,	Preoperative	Disinfection	Study	Group:	Preoperative	disinfec-
+tion	of	the	conjunctival	sac	with	antibiotics	and	iodine	compounds:	a	prospective	randomized	multicenter	study.	
+Jpn	J	Ophthalmol	2008;	52:	151-61
+	9）	Bucci	F	A	Jr,	Amico	L	M,	Evans	R	E:	Antimicrobial	efficacy	of	prophylactic	gatifloxacin	0.3%	and	moxifloxacin	
+0.5%	in	patients	undergoing	phacoemulsification	surgery.	Eye	Contact	Lens	2008;	34:	39-42
+PO）	l	lK	e	uK	u	`	sK	v	i	`K	a	rK	v	c	gY	d		L
+cated	cataract	surgery	with	the	use	of	fourth-generation	fluoroquinolones:	a	retrospective	observational	case	
+series.	Ophthalmology	2007;	114:	686-91
+11） 	志熊徹也，臼井正彦：白内障術前患者の結膜嚢内常在菌と3 種抗菌点眼薬の効果。臨眼　2006;	60:	1433-8
+12） 	大橋裕一，秦野　寛，張野正誉，細谷比左志，日下俊次，檀上眞次，他：ガチフロキサシン点眼液の眼科周術期
+の無菌化療法。あたらしい眼科　2005;	22:	267-71
+13） 	北野周作：白内障手術：戦略のたてかた―白内障術前無菌法―。眼科手術　1995;	8:	717-9
+14）	Sheth	J,	Rath	S,	Tripathy	D:	Oral	versus	single	intravenous	bolus	dose	antibiotic	prophylaxis	against	postopera-
+tive	surgical	site	infection	in	external		dacryocystorhinostomy	for	primary	acquired	nasolacrimal	duct	obstruc-
+tion	–	A	randomized	study.	Indian	J	Ophthalmol	2019;	67:	382-5
+術後感染予防抗菌薬適正使用のための実践ガイドライン
+日本化学療法学会雑誌　Vol. 68 No. 3320
