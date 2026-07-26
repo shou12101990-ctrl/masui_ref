@@ -139,13 +139,26 @@ def render_drug(d, cat):
         if d.get("packageInsertUrl"):
             a(f"    packageInsertUrl: {lit(d['packageInsertUrl'])},")
     notes = d.get("notes") or []
-    if notes:
+    gl_tips = d.get("_tips") or []
+    if notes or gl_tips:
         a("    notes: [")
         for n in notes:
             a("      DrugNote(")
             a(f"        {lit(n.get('heading',''), 10)},")
             a(f"        {lit(n.get('body',''), 10)},")
             a("        type: DrugNoteType.packageInsert,")
+            a("      ),")
+        # 感染症GL・成書から拾った実践的な tips
+        for t in gl_tips:
+            head = t.get("heading", "").strip() or "ガイドライン"
+            src = t.get("source", "").strip()
+            body = t.get("body", "")
+            if src:
+                body = f"{body}\n[出典] {src}"
+            a("      DrugNote(")
+            a(f"        {lit('GL/成書: ' + head, 10)},")
+            a(f"        {lit(body, 10)},")
+            a("        type: DrugNoteType.literature,")
             a("      ),")
         a("    ],")
     cis = d.get("contraindications") or []
@@ -186,8 +199,35 @@ FILES = {
 }
 
 
+# 既存マスタに同じ薬剤があるため, Book3 側では収載しないもの.
+# (既存の記載のほうが周術期向けに吟味されている / 重複表示を避ける)
+SKIP_NAMES = {
+    "ランジオロール塩酸塩",  # circulatory_other.dart に既収載
+    "ハロペリドール (HPD)",  # psychotropic.dart に既収載 (周術期せん妄の注意つき)
+    "ミダゾラム",  # sedative.dart に既収載 (てんかん重積用ミダフレッサは別途収載)
+    "ジアゼパム",  # 既存の記載を優先
+}
+
+
+def load_tips():
+    """感染症GL・成書から抽出した薬剤別tipsを読む (無ければ空)."""
+    p = os.path.join(RES, "abx_tips.json")
+    if not os.path.exists(p):
+        return {}
+    data = json.load(open(p, encoding="utf-8"))
+    out = {}
+    for d in data:
+        t = [x for x in (d.get("tips") or []) if x.get("body")]
+        if t:
+            out[d["name"]] = t
+    return out
+
+
 def main():
     buckets = {"antiarrhythmic": [], "antimicrobial": [], "psychotropic": []}
+    tips = load_tips()
+    if tips:
+        print(f"  (tips: {len(tips)}剤分を読み込み)")
     seen = set()
     for fn in ("cached_research.json", "sonnet_research.json"):
         p = os.path.join(RES, fn)
@@ -199,9 +239,12 @@ def main():
             key = block.get("key") or block.get("run") or ""
             for d in block.get("drugs", []):
                 nm = d.get("name", "")
-                if not nm or nm in seen:
+                if not nm or nm in seen or nm in SKIP_NAMES:
                     continue
                 seen.add(nm)
+                if nm in tips:
+                    d = dict(d)
+                    d["_tips"] = tips[nm]
                 buckets[category_of(key, d)].append(d)
 
     total = 0

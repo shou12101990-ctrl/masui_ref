@@ -51,6 +51,16 @@ Excel のセルコメントに臨床メモが入っている (sheet1:29, sheet2:
 
 - [x] Book3.xlsx の全シート・全コメント抽出 (ふりがな除外)
 - [x] 既存アプリ構造の確認 (Drug モデル, drugs/ 分割, drug_visuals)
+- [x] モデル変更 (forms/emergencyDose/spectrum/renalAdjust/periop + antiarrhythmic/antimicrobial + 色)
+- [x] 詳細画面に剤形バッジ・緊急時投与・スペクトラム・腎機能調節・周術期カードを追加
+- [x] JSON→Dart ジェネレータ作成 `.claude/book3_research/gen_dart.py`
+- [x] 取得済み49剤を収載しビルド成功・中間コミット (3ac4e43)
+
+## モデル方針 (ユーザー指定)
+
+- 文献・添付文書の収集 = **Sonnet 5** (`agent(..., {model: 'sonnet'})`) で並列
+- 抽象的な切り分け・要件定義 = Opus 5 / Fable 5 (メインループ)
+- `model` を変えると agent キャッシュが無効化されるため, 取得済みの群は再実行しないこと
 - [ ] **W1**: 抗不整脈薬(I群/III群/II・IV群) + 抗精神病薬(非定型/定型) リサーチ
       run: `wf_b57e51e0-d86` / task `w4bm0khut`
 - [ ] **W2**: 抗てんかん薬(注射/内服)・抗うつ薬・抗不安薬/睡眠薬・抗パーキンソン薬 リサーチ

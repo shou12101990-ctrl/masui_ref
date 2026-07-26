@@ -1,0 +1,4277 @@
+
+[[p1]]
+MRSA 感染症の診療ガイドライン 2024
+ձ
+MRSA੒ҕһձçฤ
+[[p2]]
+目　　次
+序文……………………………………………………………………………………………………………………………… 253
+本ガイドラインについて……………………………………………………………………………………………………… 254
+推奨とエビデンスレベルについて…………………………………………………………………………………………… 256
+Conflict of interest（COI）…………………………………………………………………………………………………… 319
+I． MRSA の疫学
+1．MRSA…………………………………………………………………………………………………………………… 258
+2．CA-MRSA ……………………………………………………………………………………………………………… 258
+3．LA-MRSA ……………………………………………………………………………………………………………… 258
+II． MRSA の感受性と検査
+1．感受性…………………………………………………………………………………………………………………… 259
+2．検査……………………………………………………………………………………………………………………… 259
+CQ1．MRSA 感染症の迅速診断（含む核酸検査）は推奨されるか……………………………………………… 259
+III． 感染対策…………………………………………………………………………………………………………………… 262
+CQ2．MRSA のアクティブサーベイランスは推奨されるか……………………………………………………… 262
+IV． 抗 MRSA 薬の種類と特徴，選択の適用 ……………………………………………………………………………… 264
+  各薬剤の特徴について（バンコマイシン，テイコプラニン，アルベカシン，リネゾリド，テジゾリド，
+ダプトマイシン）………………………………………………………………………………………………………… 264
+CQ3．VCM の MIC が＞1μg/mL の場合は DAP に変更すべきか……………………………………………… 272
+CQ4．DAP の高用量投与（＞6mg/kg）は必要か………………………………………………………………… 275
+V． 疾患別抗 MRSA 薬の選択と使用
+1．呼吸器感染症…………………………………………………………………………………………………………… 280
+CQ5．肺炎症例の喀痰から MRSA が分離されたら抗 MRSA 薬を投与すべきか ……………………………… 280
+CQ6．MRSA 肺炎では LZD を第一選択とすべきか ……………………………………………………………… 281
+2．菌血症…………………………………………………………………………………………………………………… 284
+CQ7．血流感染において LZD は第一選択となりうるか…………………………………………………………… 284
+3．感染性心内膜炎………………………………………………………………………………………………………… 287
+4．皮膚軟部組織感染症
+A．皮膚科領域 ………………………………………………………………………………………………………… 288
+B．外傷・熱傷・手術創の二次感染等 ……………………………………………………………………………… 289
+5．腹腔内感染症…………………………………………………………………………………………………………… 290
+6．骨・関節感染症………………………………………………………………………………………………………… 291
+CQ8．整形外科手術でバンコマイシンパウダーの局所散布は SSI 予防に有効か ……………………………… 292
+CQ9． 抗菌薬（抗 MRSA 薬を含む）含有骨セメントの使用は術後の深部手術部位感染予防に有用か……… 299
+CQ10．整形外科領域のインプラント感染で RFP の併用は有効か ……………………………………………… 301
+7．中枢神経系感染症……………………………………………………………………………………………………… 306
+8．尿路感染症……………………………………………………………………………………………………………… 307
+9．小児領域感染症………………………………………………………………………………………………………… 308
+CQ11．耐性グラム陽性菌感染症が疑われる新生児への LZD の投与は推奨されるか………………………… 309
+PO．術後感染予防投与………………………………………………………………………………………………………?RPP
+CQ12．術前の MRSA 除菌は推奨されるか ………………………………………………………………………… 311
+11．経験的治療……………………………………………………………………………………………………………… 314
+VI． 抗 MRSA 薬の併用療法 ………………………………………………………………………………………………… 315
+CQ13．抗 MRSA 薬と他の抗菌薬（β―ラクタム系薬，ST 合剤，RFP）の併用は推奨されるか …………… 315
+VII． 抗 MRSA 薬の TDM……………………………………………………………………………………………………… 316
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3252
+[[p3]]
+序　文
+「MRSA 感染症の診療ガイドライン　2024」公表にあたって
+　公益社団法人日本化学療法学会，および一般社団法人日本感染症学会は，この度， 「MRSA 感染症の診療ガイドラ
+イン 2024」の公表に至りました。
+　2013 年に「MRSA 感染症の治療ガイドライン」第一版が公表されて，10 年を経過したことになります。2013 年以
+降も状況の変化に対応するため，二木芳人委員長のもと，2014 年，2017 年と改訂版が作成され，2019 年版（松本哲
+哉委員長）から4 年ぶりの改訂です。新規薬剤は，2018 年に新しい抗 MRSA 薬のテジゾリドが発売となりましたが，
+それ以降は新規薬剤の導入はありません。
+　医療機関における感染対策と抗菌薬適正使用活動等により， 国内の施設におけるMRSAの検出率は以前より低下し
+てきているとはいえ， 依然としてMRSAは多剤耐性菌のなかで最も遭遇する頻度の高い菌種であることに変わりはあ
+りません。 また院内においても， 従来の院内感染型MRSAからいわゆる市中感染型MRSAによる感染症が優位となっ
+てきており，疫学的な変化にも注目すべきです。したがって，MRSA 感染症診療においては個々の症例の病態を考慮
+し，検査や診断，抗 MRSA 薬投与の必要性と最適な投与方法を含めて適切な診療を行うことの重要性が増していま
+す。今回の改訂で，MRSA 感染症の診療
+44
+ガイドラインと名称が変わったのもそのような理由からです。さらに今回の
+改訂の特徴として，臨床に即したガイドラインをめざして，従来の叙述的な内容に加えてクリニカル・クエスチョン
+（CQ）を採用し，より臨床を意識した構成となっています。
+　予定より公表が遅くなりましたが，新型コロナウイルス感染症の影響下での改訂作業であったため，とくに委員の
+先生方にはご負担をおかけすることになりました。ガイドライン作成にご協力いただいた関係各位にあらためて深謝
+申し上げます。
+公益社団法人日本化学療法学会・一般社団法人日本感染症学会
+MRSA 感染症の診療ガイドライン作成委員会
+委員長　光武耕太郎
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 253
+[[p4]]
+MRSA 感染症の診療ガイドライン 2024
+本ガイドラインについて
+公益社団法人日本化学療法学会・一般社団法人日本感染症学会
+MRSA 感染症の診療ガイドライン作成委員会
+委 員 長：光武耕太郎（埼玉医科大学国際医療センター感染症科・感染制御科）
+副委員長：松本哲哉（国際医療福祉大学医学部感染症学講座）
+委　員（五十音順）
+植田貴史（兵庫医科大学感染制御学）
+内山勝文（北里大学医学部医学教育研究開発センター医療安全・管理学研究部門）
+小澤俊幸（大阪公立大学大学院医学研究科薬物生理動態共同研究部門）
+唐牛春香（埼玉医科大学国際医療センター感染症科・感染制御科/薬剤部）
+菅井基行（国立感染症研究所薬剤耐性研究センター）
+関　雅文（埼玉医科大学医学部国際医療センター感染症科・感染制御科）
+髙橋　聡（札幌医科大学医学部感染制御・臨床検査医学講座）
+竹末芳生（常滑市民病院感染症科/感染対策室，兵庫医科大学感染制御学）
+中嶋一彦（兵庫医科大学感染制御学）
+中嶋秀人（日本大学医学部内科学系神経内科学分野）
+中南秀将（東京薬科大学薬学部臨床微生物学教室）
+畑　啓昭（京都医療センター外科/感染制御部）
+藤倉雄二（防衛医科大学校内科学講座（感染症・呼吸器） ）
+藤村　茂（東北医科薬科大学大学院薬学研究科臨床感染症学教室）
+松下和彦（川崎市立多摩病院（指定管理者：聖マリアンナ医科大学）整形外科）
+松元一明（慶應義塾大学薬学部薬効解析学講座）
+三鴨廣繁（愛知医科大学大学院医学研究科臨床感染症学）
+宮入　烈（浜松医科大学小児科学講座）
+栁原克紀（長崎大学病院臨床検査科/検査部）
+山岸由佳（高知大学医学部臨床感染症学講座）
+山口哲央（東邦大学医学部微生物・感染症学講座）
+山田浩司（中野島整形外科）
+山本善裕（富山大学学術研究部医学系感染症学講座）
+吉田耕一郎（近畿大学病院安全管理センター感染対策部）
+協力員（五十音順）
+池田信介（北里大学医学部整形外科学）
+岩田栄一朗（市立奈良病院整形外科・リハビリテーション科）
+大野久美子（東京大学大学院医学系研究科難治性骨疾患治療開発講座）
+大野智裕（‌‌防衛医科大学校内科学講座（感染症・呼吸器） ，現所属：国立感染症研究所実地疫学専門家養成コース）
+加勢田富士子（長崎大学病院臨床検査科/検査部）
+加藤秀雄（三重大学医学部附属病院薬剤部）
+加茂野絵美（横浜市立大学附属市民総合医療センター整形外科）
+川﨑洋平（埼玉医科大学大学院生物統計学教室）
+川筋仁史（富山大学学術研究部医学系感染症学講座）
+小林直実（横浜市立大学附属市民総合医療センター整形外科）
+坂なつみ（帝京大学医学部整形外科）
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3254
+[[p5]]
+瀬戸良教（北里大学病院薬剤部）
+高野昇太郎（たかの整形外科クリニック）
+浜田幸宏（高知大学医学部附属病院薬剤部）
+松本　浩（川崎市立多摩病院（指定管理者：聖マリアンナ医科大学）薬剤部）
+外部評価委員（五十音順）
+荒川創一（井口腎泌尿器科亀有）
+岩田　敏（熊本大学/東京医科大学微生物学分野）
+金光敬二（東北大学）
+事務局
+公益社団法人日本化学療法学会/一般社団法人日本感染症学会
+Conflict of interest（COI）
+　委員，協力委員，外部評価委員に関しては， 「診療ガイドライン策定参加資格基準ガイダンス」 （2017 年 3 月）に
+従って COI の提出を受けた。
+　委員長，副委員長および各委員の利益相反はそれぞれに対する日本医学会による「診療ガイドライン策定参加資格
+基準ガイダンス」 （2017年 3 月）および日本医学会COI 管理ガイドライン（2022年 3 月）の条件を満たしている。ま
+た日本化学療法学会・日本感染症学会はその事業活動において企業から資金提供を受けている。各々に関しては ‌
+p.‌319～321 に示した。
+　なお，診療ガイドライン策定に関連して，資金提供に該当する企業はない。
+作成資金
+　本ガイドライン策定費用はすべて，日本化学療法学会・日本感染症学会が負担しており，企業からの資金提供はな
+い。
+目　的
+　本ガイドラインは，国内で依然として遭遇する頻度の高い多剤耐性菌である MRSA に対して正しい知識に基づい
+て，できるだけ過不足のない適切な診療が行えるように，診療現場での一助となるよう策定された。新規抗菌薬の上
+市が難しい中，変化し続ける耐性菌に関する疫学情報や感染対策，検査・診断，治療においては抗菌薬の適正使用に
+関する内容を含み，質の高い安全な医療の提供に寄与することを目的としている。
+対　象
+　MRSA 診療に従事するすべての医療者とそれを学ぼうとする者。
+使用方法
+　本ガイドラインはMRSAに関して，臨床現場で適切な医療が提供されるよう，それを支援する目的で作成時点の最
+新の医学的知見に基づいて策定されたものである。多剤耐性菌であるMRSAといえども変化しており，また医療環境
+も時代によって変わってゆく。患者の診療に関しては，担当医等によって個々の患者に応じて方針が決定され提供さ
+れるものであり，ガイドラインに縛られるものではない。また，本文の内容には一部，保険適用に合致しない記述が
+あることにも留意が必要である。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 255
+[[p6]]
+推奨について
+　クリニカル・クエスチョン（CQ）における推奨文の記載方法は，Minds 診療ガイドライン作成マニュアル 2020 に
+則って記載した。
+　ガイドラインの推奨文，推奨の強さ・エビデンス総体の確実性は，作成委員によるシステマティックレビューおよ
+びメタ解析の結果に基づいて作成され，作成委員全員による審議と投票を行った。COI のかかわる委員を除いて投票
+し，Delphi 法により意見の集約をめざし，投票者の 70％以上の一致をもって推奨度を決定した。今回は 13 の CQ を
+採用したが，それ以外については従来通りの記述を行った。したがって，CQ の推奨の表記は，エビデンス総体を評
+価して Minds2020 の方法（表1）に従い，CQ 以外については従来の推奨度とエビデンスレベル（推奨度A～D，エビ
+デンスレベル I～III）を用いた（表 2）。 表3 に，13 の CQ とそれに対する推奨を示す。
+ද 1.　CQੑ
+推奨の強さの記載方法
+推奨の強さ：強く推奨する
+推奨の強さ：弱く推奨する（提案する，条件付きで推奨する）
+推奨の強さ：なし（明確な推奨ができない）
+エビデンス総体の確実性
+A（強い） ：効果の推定値が推奨を支持する適切さに強く確信がある
+B（中程度） ：効果の推定値が推奨を支持する適切さに中程度の確信がある
+C（弱い） ：効果の推定値が推奨を支持する適切さに対する確信は限定的である
+D（非常に弱い） ：効果の推定値が推奨を支持する適切さにほとんど確信できない
+ද 2.　CQʹ͓͚Δਪ঑౓ͱΤϏσϯεϨϕϧ
+推奨度 エビデンスレベル
+A 強く推奨する I 1 件以上の適正なランダム化比較試験から得られたエビデンスが存在
+B 一般的な推奨 II
+ランダム化は行われていないが良く設計された臨床試験が存在，コホート解析研究または症例
+対照解析研究（複数施設が望ましい） ，多重時系列，劇的な結果を示した非対照試験，のいず
+れかから得られたエビデンスが存在
+C 主治医の任意
+III 権威者の意見，臨床経験，記述的研究，または専門家委員会の報告に基づくエビデンスが存在
+D 推奨しない
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3256
+[[p7]]
+ද 3.　౼ͨ͠ CQ ͱਪ঑ͷ·ͱΊ
+CQ 
+番号 CQ 記載箇所 推奨文 推奨の強さ エビデンス 
+総体の確実性
+賛成の状況 
+（投票回数）
+CQ1
+MRSA 感染症の迅速診
+断（含む核酸検査）は
+推奨されるか
+II．感受性と検査 
+（p. 259）
+MRSA 菌血症が疑われる場合，迅速診断
+を行うことを提案する。
+弱く推奨する
+（提案する）
+C 
+（弱い）
+100％ 
+（1 回目）
+CQ2
+MRSA のアクティブ
+サーベイランスは推奨
+されるか
+III．感染対策 
+（p. 262）
+隔離や除菌を併用し， ICU 等対象を絞っ
+た MRSA のアクティブサーベイランスは
+推奨される。
+弱く推奨する B 
+（中程度）
+100％ 
+（1 回目）
+CQ3
+VCM の MIC が＞1 μg/
+mL の場合は DAP に変
+更すべきか
+IV．抗 MRSA 薬
+の種類と特徴，
+選択の適用 
+（p. 272）
+MRSA 菌血症において ， VCM の MIC が 
+＞1 μg/mL の場合，VCM 使用例では菌血
+症の原因となった感染源のリスク評価を
+行ったうえで， DAP に変更することを弱
+く推奨する。
+弱く推奨する B 
+（中程度）
+100％ 
+（1 回目）
+CQ4 DAP の高用量投与  
+（＞6 mg/kg）は必要か
+IV．抗 MRSA 薬
+の種類と特徴，
+選択の適用 
+（p. 275）
+MRSA を含むブドウ球菌等による菌血症，
+感染性心内膜炎患者に対して，高用量投
+与（＞6 mg/kg）は CK 上昇発現率を考慮
+したうえで，その投与を弱く推奨する。
+弱く推奨する B 
+（中程度）
+100％ 
+（1 回目）
+CQ5
+肺炎症例の喀痰から
+MRSA が分離されたら
+抗 MRSA 薬を投与すべ
+きか
+V．1. 呼吸器 
+（p. 280）
+一律には投与しないことを提案するが，
+MRSA のみが単独で検出された肺炎では
+抗 MRSA 薬投与の必要性を検討してもよ
+い。
+実施しないこ
+とを弱く推奨
+する
+D 
+（非常に弱い）
+100％ 
+（1 回目）
+CQ6 MRSA 肺炎では LZD を
+第一選択とすべきか
+V．1. 呼吸器 
+（p. 281）
+MRSA 肺炎では LZD を第一選択とするこ
+とを提案する。
+弱く推奨する
+（提案する）
+B 
+（中程度）
+96％ 
+（1 回目）
+CQ7
+血流感染において LZD
+は第一選択となりうる
+か
+V．2. 菌血症 
+（p. 284）
+MRSA 菌血症において ， LZD を VCM や
+DAP と同等の第一選択とすることを弱く
+推奨する（提案する） 。
+弱く推奨する
+（提案する）
+C 
+（弱い）
+100％ 
+（1 回目）
+CQ8
+整形外科手術でバンコ
+マイシンパウダーの局
+所散布は SSI 予防に有
+効か
+V．6. 骨・関節 
+（p. 292）
+整形外科手術で surgical site infection（SSI）
+予防を目的としたルーチンの局所 VCM 散
+布を実施しないことを弱く推奨する。
+実施しないこ
+とを弱く推奨
+する
+D 
+（非常に弱い）
+92.3％ 
+（1 回目）
+CQ9
+抗菌薬（抗 MRSA 薬を
+含む）含有骨セメント
+の使用は術後の深部手
+術部位感染予防に有用
+か
+V．6. 骨・関節 
+（p. 299）
+抗菌薬含有骨セメントは，初回人工関節
+置換術手術で術後深部手術部位感染（術
+後深部 SSI）の予防を目的としてルーチン
+で使用しないことを弱く推奨する。
+実施しないこ
+とを弱く推奨
+する 
+（提案する）
+D 
+（非常に弱い）
+100％ 
+（1 回目）
+CQ10
+整形外科領域のインプ
+ラント感染で RFP の併
+用は有効か
+V．6. 骨・関節 
+（p. 301）
+整形外科領域のインプラント感染では原
+因菌や手術の種類を考慮し RFP の併用を
+行うことを弱く推奨する（提案する） 。た
+だし，RFP を併用する場合の投与期間に
+関しては耐性化の懸念も考慮し症例ごと
+に慎重な検討が必要である。
+弱く推奨する
+（提案する）
+C 
+（弱い）
+100％ 
+（1 回目）
+CQ11
+耐性グラム陽性菌感染
+症が疑われる新生児へ
+の LZD の投与は推奨
+されるか
+V．9. 小児 
+（p. 309）
+VCM 投与が困難な例に対して LZD を投
+与することを弱く推奨する。 弱く推奨する C 
+（弱い）
+96.2％ 
+（3 回目）
+CQ12 術前の MRSA 除菌は推
+奨されるか
+V．10. 術後感染
+予防 
+（p. 311）
+心臓外科・整形外科・脳外科等の清潔手
+術において ，当該施設や対象患者の
+MRSA 保菌割合，SSI 発生率を考慮し
+，除
+菌を検討してもよい（条件付きで推奨す
+る ）。
+弱く推奨する
+（条件付きで
+推奨する）
+D 
+（非常に弱い）
+100％ 
+（1 回目）
+CQ13
+抗 MRSA 薬と他の抗菌
+薬（β
+―ラクタム系薬，
+ST 合剤，RFP）の併用
+は推奨されるか
+VI．併用 
+（p. 315）
+①心内膜炎を含む菌血症において， VCM
+もしくは DAP とβ― ラクタム系薬の併用
+を， 症例に応じ弱く推奨する （提案する） 。
+②その他の併用はエビデンスが限定的で
+あり，明確な推奨はできない。
+弱く推奨する
+（提案する）
+B 
+（中程度）
+100％ 
+（1 回目）
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 257
+[[p8]]
+I．MRSA の疫学
+1．MRSA
+Executive summary
+1． ‌‌MRSA（メチシリン耐性黄色ブドウ球菌：methicillin-resistant‌Staphylococcus‌aureus）は，病院内で分離される
+頻度が最も高い耐性菌の一つである。
+2．‌‌ヨーロッパ各国と比べ，入院患者から分離される黄色ブドウ球菌に占める MRSA の割合が高く，2016 年以降は
+48% 前後で推移している。
+3． ‌‌MRSA は術後の創部感染を含む皮膚軟部組織感染症をはじめ，血管内留置カテーテル挿入下の血流感染症，人工
+呼吸器関連肺炎を含む呼吸器感染症， 骨髄炎や人工関節感染， 脊椎インストゥルメンテーション手術後の感染等を
+引き起こす。
+4
+．‌‌市中感染型 MRSA（CA-MRSA）と院内感染型 MRSA（HA-MRSA）に分けて考える。なお，CA-MRSA の一部
+に健常人に感染する病原性の高いものがあり，近年報告が増えている。
+5．‌‌医療関連施設においては SCCmec‌ II の MRSA，市中においては SCCmec‌ IV の MRSA が検出されてきたが，近
+年，医療関連施設においても SCCmec‌IV の MRSA が主流となっている。
+2．CA-MRSA
+Executive summary
+1
+．‌‌市中感染型MRSA（CA-MRSA）は主に皮膚軟部組織感染症の患者から分離され，外来患者から分離される黄色ブ
+ドウ球菌に占める MRSA の割合は 30% 前後で推移している。
+2．‌‌国内においてはさまざまなタイプの CA-MRSA‌ clone が存在し，表皮剥脱毒素を産生する Impetigo‌ clone や，
+TSST-1（toxic‌shock‌syndrome‌toxin-1）を産生する CA-MRSA/J‌clone 等国内固有の clone が存在する。
+3．‌‌病原性の高い PVL（Panton-Valentine‌leukocidin）を産生するCA-MRSA（特に USA300‌clone）が増加している。
+4．‌‌検出される CA-MRSA‌clone は，菌株を収集する時期や地域によって異なる。
+5． ‌‌CA-MRSA の増加に伴い，医療関連施設においても SCCmec‌IV の MRSA が増加している。
+3．LA-MRSA
+Executive summary
+1
+．‌‌ヒト以外の感染経路として，ヒトとの接点が多い家畜や伴侶動物が注目されている。
+2．‌‌家畜関連 MRSA（LA-MRSA）は，HA-MRSA と CA-MRSA とは遺伝子型が異なることがわかっており，特に
+ST398 の MRSA が世界的に優勢な clone となっている。
+3．‌‌ヨーロッパを中心に LA-MRSA によるヒト感染例が報告されている。
+4．‌‌国内においても ST398 の MRSA による感染例の報告があるが，家畜との関連は不明である。
+5．‌‌現時点では，国内の伴侶動物における MRSA の保菌率は低い。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3258
+[[p9]]
+II．MRSA の感受性と検査
+1．感受性
+Executive summary
+1．‌‌国内で検出される MRSA は，抗 MRSA 薬のバンコマイシン（ VCM） ，テイコプラニン（TEIC） ，リネゾリド
+（LZD） ，ダプトマイシン（DAP） ，テジゾリド（TZD）に対し概ね良好な感受性を示しており，Clinical‌and‌Labo-
+ratory‌Standards‌Institute（CLSI）基準における耐性率は非常に低いが，時に最小発育阻止濃度（MIC）が高値を
+示す株が存在する。
+2．‌‌アルベカシン（ABK）は CLSI，European‌Committee‌on‌Antimicrobial‌Susceptibility‌Testing（EUCAST）共に
+感受性判定基準は示されていない。
+3． ‌‌VCM の MIC が 2‌μg/mL の株に対しては，CLSI でも EUCAST の基準でも感性に分類されるが，臨床効果は期待
+できないとの報告が多数ある。
+4． ‌‌SCCmec‌IV 型 MRSA（CA-MRSA）は医療関連施設においても広く検出されており，抗MRSA 薬以外に，ミノサ
+イクリン（MINO） ，スルファメトキサゾール/トリメトプリム（ST合剤） ，クリンダマイシン（CLDM）に感受性
+を有する場合が多い。
+5． ‌‌SCCmec‌IV 型 MRSA（CA-MRSA）はβ―ラクタム系薬の MIC が低値を示すことが多いが，容易に高度耐性化す
+るので治療には用いない（A-II）。
+6． ‌‌抗 MRSA 薬を含めて抗菌薬を選択する場合は，施設により薬剤感受性パターンが異なる可能性があるため，各施
+設のアンチバイオグラムを把握する必要がある（B-III）。
+2．検査
+Executive summary
+1
+．‌‌黄色ブドウ球菌は，薬剤感受性試験でオキサシリン （MPIPC）とセフォキシチン（CFX）の両方もしくはどちら
+か一方が耐性の場合，もしくはmecA 遺伝子が検出された場合，penicillin-binding‌protein‌2’（PBP2’）が検出され
+た場合に MRSA と判定される。
+2． ‌‌MRSAの迅速診断として全自動遺伝子解析装置を用いたmecA遺伝子の検出や， イムノクロマト法もしくはラテッ
+クス法を用いた PBP2’ の検出が用いられることがある。
+CQ1．MRSA 感染症の迅速診断（含む核酸検査）は推奨されるか
+推奨：MRSA 菌血症が疑われる場合，迅速診断を行うことを提案する。
+　推奨の強さ：弱く推奨する（提案する）
+　エビデンス総体の確実性：C（弱い）
+Executive summary
+1
+．‌‌血液培養よりグラム陽性ブドウ状球菌もしくは黄色ブドウ球菌が検出された患者において，MRSA 迅速同定検査
+は従来の同定感受性検査と比較し，死亡率や入院期間を改善しないが，適切な治療（標的治療）までの期間を短縮
+する可能性がある（エビデンス C）。
+2
+．‌‌肺炎患者，皮膚軟部組織感染症患者に対する MRSA 迅速同定検査の臨床的有用性に関してはデータが不十分であ
+り，現段階では判断が困難である（エビデンス C）。
+調査方法
+設定：
+　P
+： ‌‌Patients（患者）‌
+血液培養よりグラム陽性ブドウ状球菌が検出された患者，もしくは黄色ブドウ球菌が検出された患者‌
+肺炎患者‌
+皮膚軟部組織感染症患者‌
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 259
+[[p10]]
+骨感染症患者‌
+　いずれも年齢，性別不問とする。
+　I： ‌‌Interventions（介入）‌
+MRSA 迅速同定検査の実施
+　C： ‌‌Comparisons（比較対照）‌
+サブカルチャーにより得られたコロニーによる菌種同定，薬剤感受性試験
+　O： ‌‌Outcomes（アウトカム）‌
+①死亡率（あらゆる死因による院内死亡率もしくは 28 日/30 日死亡率）‌
+②入院期間‌
+③適切な抗菌薬が投与されるまでの時間‌
+④コスト
+　MRSA 迅速同定検査を実施した場合と，コロニーによる菌種同定，薬剤感受性試験のみで治療した場合との
+治療費の比較
+探索
+　2010 年 1 月より 2022 年 7 月までの PubMed，MEDLINE，
+Cochrane‌ Library，医中誌データベースを‘ mrsa’，
+‘methicillin-resistant‌Staphylococcus‌aureus‌’ ，‘rapid‌test’ ，‘rapid‌detection’ ，‘rapid‌diagnosis’ ，‘nucleic‌acid‌amplifica-
+tion’ ，‘NAAT’ ，‘polymerase‌chain‌reaction’ ，‘PCR’ ，‘molecular‌assay’ ，‘latex‌agglutination’ ，‘immunochromatography’
+で検索した。MRSA 迅速検査法は変化，進歩を認めるため，2009 年以前のものは除外した。
+結果
+　菌血症に対しては 1 件の
+randomized‌controlled‌trial（RCT）
+1）
+，7 件の観察研究（observational‌study：OS）
+2～8）
+が選
+択基準を満たし採用された。実施地域は欧州 4 件
+1，3，5，7）
+，北米 3 件
+2，6，8）
+，中東 1 件
+4）
+であった。血液培養よりグラム陽性
+ブドウ状球菌が検出された患者を対象とした研究が 4 件
+1，2，4，7）
+，黄色ブドウ球菌が検出された患者を対象としたものが
+3件
+3，5，8）
+， 黄色ブドウ球菌もしくはコアグラーゼ陰性ブドウ球菌が複数セット検出された患者を対象としたものが1件
+6）
+であった。また，成人のみを対象としたものが6 件
+1～4，7，8）
+，小児および成人を対象としたものが2 件
+5，6）
+であった。すべ
+て血液培養液を用いて迅速検査が行われており，その内訳はリアルタイムPCR法が3件
+1，6，7）
+，GeneXpert
+Ⓡ
+システムが
+4 件
+2，4，5，8）
+，LAMP 法が 1 件
+3）
+であった。イムノクロマト法，ラテックス法と従来の薬剤感受性試験を比較し，臨床的有
+効性を比較した報告は認められなかった。迅速検査の結果を主治医もしくは感染症薬剤師，感染症医へただちに報告
+されたものが 6 件
+1，3，5～8）
+，カルテ上に報告されたものが2 件
+2，4）
+であった。症例数はRCT が 89 例（うちMRSA‌7 例）
+1）
+，
+OS が 1,207 例（うち MRSA‌ 296 例）であり，MRSA 検出率は低い集団である。RCT では従来法が 41 例，迅速検査
+法が 48 例，OS では従来法が 607 例，迅速検査法が 600 例であった。
+　呼吸器感染症（肺炎）に対してはRCT が 1 件
+9）
+，OS が 1 件
+PO）
+選択基準を満たし採用された。RCT は米国で，OS は
+フランスで実施された。RCT は抗 MRSA 薬を投与された人工呼吸器管理 MRSA 肺炎疑い患者を対象とし，OS はエ
+ンピリックに何らかの抗菌薬を投与された成人VAP（人工呼吸器関連肺炎） 疑い患者が対象とされた。RCTではBAL
+（気管支肺胞洗浄）を，OS では気管支分泌物を用いて，いずれもGeneXpert
+Ⓡ
+システムにより MRSA 迅速検査が行わ
+れた。迅速検査の結果はただちに主治医へ報告された。症例数は RCT が 45 例（うち MRSA の検出は 0 件 ），OS が
+177 例（肺炎件数は 236 件，うち MRSA の検出は 1 件のみ）であり，MRSA 検出率が非常に低い集団である。RCT
+では従来法が 23 例，迅速検査法が 22 例，OS では従来法が 88 例（肺炎件数 121 件） ，迅速検査法が89 例（肺炎件数
+115 件）であった。
+　皮膚軟部組織感染症に対しては，2 件の OS が選択基準を満たし採用された
+11，12）
+。実施地域は米国
+11）
+とスペイン
+12）
+で
+あった。いずれも成人を対象としており，膿性排液を用いて GeneXpert
+Ⓡ
+システムにより MRSA 迅速検査が行われ
+た。症例数は 413 例（うち MRSA 検出は 50 例）で，従来法が 208 例，迅速検査法が 205 例であった。
+　骨感染症に関しては，MRSA迅速検査の臨床的効果を評価し， 今回の選択基準に合致した報告は認められなかった。
+文　献
+‌‌ 1）‌Emonet‌S,‌Charles‌P‌G,‌Harbarth‌S,‌Stewardson‌A‌J,‌Renzi‌G,‌Uckay‌I,‌et‌al:‌Rapid‌molecular‌determination‌of‌methicillin‌
+resistance‌in‌staphylococcal‌bacteraemia‌improves‌early‌targeted‌antibiotic‌prescribing:‌a‌randomized‌clinical‌trial.‌Clin‌
+Microbiol‌Infect‌2016;‌22:‌946.e9-946.e15.‌doi:‌10.1016/j.cmi.2016.07.022
+‌‌ 2）‌Wade-Cummings‌M,‌Mailman‌J‌F,‌Degelman‌M‌L,‌Phillips‌C,‌Vanstone‌J‌R:‌Identification‌of‌staphylococci‌by‌polymerase‌
+chain‌reaction‌directly‌from‌a‌positive‌blood‌culture‌and‌effect‌on‌patient‌care.‌Can‌J‌Hosp‌Pharm‌2021;‌74:‌43-9
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3260
+[[p11]]
+‌‌ 3）‌Leikeim‌R‌S‌M,‌Kesselmeier‌M,‌Löffler‌B,‌Rödel‌J,‌Höring‌S:‌Diagnostic‌accuracy‌and‌clinical‌impact‌of‌loop-mediated‌
+isothermal‌amplification‌for‌rapid‌detection‌of‌Staphylococcus‌aureus‌bacteremia:‌a‌retrospective‌observational‌study.‌
+Eur‌J‌Clin‌Microbiol‌Infect‌Dis‌2020;‌39:‌679-88.‌doi:‌10.1007/s10096-019-03773-y
+‌‌ 4）‌Ben-Zvi‌H,‌Drozdinsky‌G,‌Kushnir‌S,‌Avni‌T,‌Scheuerman‌O,‌Bishara‌J,‌et‌al:‌Influence‌of‌GeneXpert‌MRSA/SA‌test‌
+implementation‌on‌clinical‌outcomes‌of‌Staphylococcus‌aureus‌bacteremia‌-‌a‌before-after‌retrospective‌study.‌Diagn‌
+Microbiol‌Infect‌Dis‌2019;‌93:‌120-4.‌doi:‌10.1016/j.diagmicrobio.2018.08.011
+‌‌ 5）‌Romero-Gómez‌M‌P,‌Cendejas-Bueno‌E,‌García‌Rodriguez‌J,‌Mingorance‌J:‌Impact‌of‌rapid‌diagnosis‌of‌Staphylococcus‌
+aureus‌bacteremia‌from‌positive‌blood‌cultures‌on‌patient‌management.‌Eur‌J‌Clin‌Microbiol‌Infect‌Dis‌2017;‌36:‌2469-
+73.‌doi:‌10.1007/s10096-017-3086-5
+‌‌ 6）‌Wang‌B,‌Jessamine‌P,‌Desjardins‌M,‌Toye‌B,‌Ramotar‌K:‌Direct‌mecA‌polymerase‌chain‌reaction‌testing‌of‌blood‌culture‌
+bottles‌growing‌Gram-positive‌cocci‌and‌the‌clinical‌potential‌in‌optimizing‌antibiotic‌therapy‌for‌staphylococcal‌bacte-
+remia.‌Diagn‌Microbiol‌Infect‌Dis‌2013;‌75:‌37-41.‌doi:‌10.1016/j.diagmicrobio.2012.09.014
+‌‌ 7）‌Cattoir‌V,‌Merabet‌L,‌Djibo‌N,‌Rioux‌C,‌Legrand‌P,‌Girou‌E,‌et‌al:‌Clinical‌impact‌of‌a‌real-time‌PCR‌assay‌for‌rapid‌iden-
+tification‌of‌Staphylococcus‌aureus‌and‌determination‌of‌methicillin‌resistance‌from‌positive‌blood‌cultures.‌Clin‌Micro-
+biol‌Infect‌2011;‌17:‌425-31.‌doi:‌10.1111/j.1469-0691.2010.03233.x
+‌‌ 8）‌Bauer‌K‌A,‌West‌J‌E,‌Balada-Llasat‌J‌M,‌Pancholi‌P,‌Stevenson‌K‌B,‌Goff‌D‌A:‌An‌antimicrobial‌stewardship‌program’s‌
+impact‌with‌rapid‌polymerase‌chain‌reaction‌methicillin-resistant‌Staphylococcus‌aureus/S.‌aureus‌blood‌culture‌test‌in‌
+patients‌with‌S.‌aureus‌bacteremia.‌Clin‌Infect‌Dis‌2010;‌51:‌1074-80.‌doi:‌10.1086/656623
+‌‌ 9）‌Paonessa‌J‌R,‌Shah‌R‌D,‌Pickens‌C‌I,‌Lizza‌B‌D,‌Donnelly‌H‌K,‌Malczynski‌M,‌et‌al:‌Rapid‌detection‌of‌methicillin-resistant‌
+Staphylococcus‌ aureus‌ in‌ BAL:‌ A‌ pilot‌ randomized‌ controlled‌ trial.‌ Chest‌ 2019;‌ 155:‌ 999-1007.‌ doi:‌ 10.1016/j.
+chest.2019.02.007
+‌PO）‌c‌`‌eK‌c‌fK‌`‌eK‌a‌cK‌b‌mK‌`‌iK‌‌Y‌q‌‌‌‌‌‌‌
+against‌methicillin-resistant‌Staphylococcus‌aureus‌in‌adult‌intensive‌care‌unit.‌Eur‌J‌Clin‌Microbiol‌Infect‌Dis‌2017;‌36:‌
+267-72.‌doi:‌10.1007/s10096-016-2795-5
+‌11）‌Terp‌S,‌Krishnadasan‌A,‌Bowen‌W,‌Joo‌J,‌Furoy‌D,‌Chan‌J,‌et‌al:‌Introduction‌of‌rapid‌methicillin-resistant‌Staphylococcus‌
+aureus‌polymerase‌chain‌reaction‌testing‌and‌antibiotic‌selection‌among‌hospitalized‌patients‌with‌purulent‌skin‌infec-
+tions.‌Clin‌Infect‌Dis‌2014;‌58:‌e129-32.‌doi:‌10.1093/cid/ciu039
+‌12）‌Bouza‌E,‌Onori‌R,‌Semiglia-Chong‌M‌A,‌Álvarez-Uría‌A,‌Alcalá‌L,‌Burillo‌A:‌Fast‌track‌SSTI‌management‌program‌based‌
+on‌a‌rapid‌molecular‌test‌(GeneXpert
+Ⓡ
+‌MRSA/SA‌SSTI)‌and‌antimicrobial‌stewardship.‌J‌Microbiol‌Immunol‌Infect‌
+2020;‌53:‌328-35.‌doi:‌10.1016/j.jmii.2018.07.008
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 261
+[[p12]]
+III．感染対策
+Executive summary
+1．MRSA は感染対策上最も重要な耐性菌の一つである（A-I）。
+2．MRSA の伝播予防策として接触予防策が用いられる（A-I）。
+3．診療，看護ケアにおいて標準予防策の徹底と適切な手指衛生が重要である（A-I）。
+4．MRSA を保有する患者に対しては接触予防策を行う（A-II）。
+5
+．‌‌抗菌薬の適正使用もMRSAの感染対策上必要であり，抗菌薬スチュワードシップ（antimicrobial‌stewardship）を
+取り入れた積極的な取り組みが重要である（A-I）。
+6． ‌‌MRSA保菌者に手術を行う際， ムピロシン （MUP） による鼻腔除菌 （B-II） ， クロルヘキシジンシャワー浴 （B-III），
+通常の予防抗菌薬に加え抗 MRSA 薬の併用（B-II）も考慮する。
+7．‌‌アウトブレイク対策として，伝播経路 ，原因の特定のための患者サーベイランスが考慮されるが，医療従事者の
+サーベイランスや環境培養はアウトブレイク時のみ必要性を十分考慮して実施する（B-III）。
+8．‌‌アウトブレイク対策には手指衛生の強化，教育， 対策のフィードバック，接触予防策の強化等多面的なアプローチ
+を行う（A-II）。
+CQ2．MRSA のアクティブサーベイランスは推奨されるか
+推奨：隔離や除菌を併用し，ICU 等対象を絞った MRSA のアクティブサーベイランスは推奨される。
+　推奨の強さ：弱く推奨する
+　エビデンス総体の確実性：B（中程度）
+Executive summary
+　アクティブサーベイランスはMRSA感染対策に有効であるが，除菌，感染対策を組み合わせて行うことが推奨され
+る（エビデンス B）
+探索
+　検索は 2022 年 8 月までの
+Cochrane‌Central‌Register‌of‌Controlled‌Trials（CENTRAL），PubMed，医中誌のデー
+タベースを以下の検索式にて検索した。
+　
+((methicillin-resistant‌Staphylococcus‌aureus)‌OR‌(MRSA))‌AND‌((surveillance)‌OR‌(active‌surveillance)‌OR‌(uni-
+versal‌screening)‌OR‌(surveillance‌culture)‌OR‌(screening))‌
+結果
+　299 件が抽出され，入院患者にアクティブサーベイランスを実施あるいは非実施が院内でのMRSA の検出，感染を
+減少させるかについてすべての抄録を確認した。5 件の準実験的な報告が適合したが，対象とする患者やアウトカム
+の単位等不均一性がきわめて高いため，メタ解析は実施しなかった。5 件の準実験的な検討では，アクティブサーベ
+イランスの実施により，1 件では MRSA 感染症，手術部位感染率，院内 MRSA の獲得率に差はなく
+1）
+，2 件は病院内
+発生のMRSA感染発生率の低下
+2，3）
+，1件はアクティブサーベイランスと除菌の組み合わせかアクティブサーベイラン
+スなしで全入院患者の除菌との比較で臨床検体からの MRSA の検出が減少
+4）
+，1 件はアクティブサーベイランス，除
+菌，感染対策により MRSA 検出の減少がみられた
+5）
+。
+文　献
+‌‌ 1）‌Harbarth‌S,‌Fankhauser‌C,‌Schrenzel‌J,‌Christenson‌J,‌Gervaz‌P,‌Bandiera-Clerc‌C,‌et‌al:‌Universal‌screening‌for‌methi-
+cillin-resistant‌Staphylococcus‌aureus‌at‌hospital‌admission‌and‌nosocomial‌infection‌in‌surgical‌patients.‌JAMA‌2008;‌
+299:‌1149-57.‌doi:‌10.1001/jama.299.10.1149
+‌‌ 2）‌Jain‌R,‌Kralovic‌S‌M,‌Evans‌M‌E,‌Ambrose‌M,‌Simbartl‌L‌A,‌Obrosky‌D‌S,‌et‌al:‌Veterans‌Affairs‌initiative‌to‌prevent‌
+methicillin-resistant‌Staphylococcus‌aureus‌infections.‌N‌Engl‌J‌Med‌2011;‌364:‌1419-30.‌doi:‌10.1056/NEJMoa1007474
+‌‌ 3）‌Robicsek‌A,‌Be aumont‌J‌L,‌Pa ule‌S‌M,‌Ha cek‌D‌M,‌Th omson‌R‌B‌Jr ,‌Ka ul‌K‌L,‌et‌al :‌Un iversal‌su rveillance‌fo r‌me thicil-
+lin-resistant‌Staphylococcus‌aureus‌in‌3‌affiliated‌hospitals.‌Ann‌Intern‌Med‌2008;‌148:‌409-18.‌doi:‌10.7326/0003-4819-148-
+6-200803180-00003
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3262
+[[p13]]
+‌‌ 4）‌Huang‌S‌S,‌Septimus‌E,‌Kleinman‌K,‌Moody‌J,‌Hickok‌J,‌Avery‌T‌R,‌et‌al:‌Targeted‌versus‌universal‌decolonization‌to‌
+prevent‌ICU‌infection.‌N‌Engl‌J‌Med‌2013;‌368:‌2255-65.‌doi:‌10.1056/NEJMoa1207290
+‌‌ 5）‌Lee‌A‌S,‌Cooper‌B‌S,‌Malhotra-Kumar‌S,‌Chalfine‌A,‌Daikos‌G‌L,‌Fankhauser‌C,‌et‌al:‌Comparison‌of‌strategies‌to‌reduce‌
+meticillin-resistant‌Staphylococcus‌aureus‌rates‌in‌surgical‌patients:‌a‌controlled‌multicentre‌intervention‌trial.‌BMJ‌
+Open‌2013;‌3:‌e003126.‌doi:‌10.1136/bmjopen-2013-003126
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 263
+[[p14]]
+IV．抗 MRSA 薬の種類と特徴，選択の適用
+Executive summary
+1．‌‌国内で使用可能な抗 MRSA 薬は，グリコペプチド系薬［バンコマイシン（VCM） ・テイコプラニン（TEIC）］， ア
+ミノ配糖体系薬［アルベカシン（ABK） ］ ，オキサゾリジノン系薬［リネゾリド（LZD） ・テジゾリド（TZD）］， 環
+状リポペプチド系薬［ダプトマイシン（DAP）］ の4 系統 6 薬品である。それらの作用機序・作用様式は個々の抗
+菌薬で異なる。
+2
+．‌‌国内における抗MRSA薬は概して幅広い適応症を有しているがABKの適応症は敗血症・肺炎に限定されており，
+DAP と TZD は肺炎に適応はない。
+3． ‌‌VCM，TEIC，LZD，TZD の治療効果と相関の認められている PK/PD パラメータは薬物血中濃度-時間曲線下面
+積（AUC）/最小発育阻止濃度（MIC），ABK が Cpeak/MIC，DAP は AUC/MIC および Cmax/MIC と考えられてい
+る。
+4．‌‌国内では適応はないが，海外でMRSA感染症に使用されている抗菌薬には，リファンピシン（RFP） ，スルファメ
+トキサゾール/トリメトプリム（ST合剤） ，ミノサイクリン（MINO） ，クリンダマイシン（CLDM）等がある。そ
+れぞれの抗菌薬の効果と相関する PK/PD パラメータは明らかではない。
+5． ‌‌抗 MRSA 薬の組織移行性は，薬剤によって異なる。
+6． ‌‌VCM，TEIC，ABK，DAP は，ほとんどは生体内で代謝を受けず腎より排泄される。LZD は非酵素的に代謝を受
+け，非活性代謝物が腎より排泄される。TZD は硫酸転移酵素により代謝され，非活性代謝物が主に糞便中に排出
+される。
+7． ‌‌VCM，TEIC，ABK，DAP では，腎機能に応じた用法・用量調整が推奨されている。
+8．‌‌個々の抗 MRSA 薬の特徴的副作用・薬物相互作用には注意する必要がある。
+9．‌‌すべての抗 MRSA 薬で，耐性化あるいは低感受性化の問題が存在している（ I．MRSA の疫学を参照）ので，そ
+れぞれ選択の際には注意する。
+各薬剤の特徴について
+（1）バンコマイシン
+作用機序
+　VCM は細菌の細胞壁を構成するペプチドグリカン前駆体（ムレインモノマー）のD-alanyl-D-alanine に結合し，ム
+レイン架橋酵素と基質との結合を阻害する。これにより細胞壁の合成を阻害する
+1）
+。
+体内動態・組織移行
+　初回のみ25～30
+‌mg/kg（実測体重） の負荷投与を行い， 維持量は， 腎機能が正常な成人 （eGFR≧90‌mL/min/1.73‌m
+2
+）
+には，1 回 20‌mg/kg（実測体重）を 12 時間ごとに投与し，2 日目に TDM を行う。TDM 時の指標としては AUC が
+推奨され
+2）
+，その目標値は400～600‌μg・h/mL である
+3）
+。従来VCM の TDM には AUC の代替指標としてトラフ値が
+用いられてきたが
+4）
+，トラフ値はAUCの代替指標とはならず
+5）
+，トラフ値15～20‌μg/mLよりAUCガイドのほうが腎
+障害の発現率が低くなることが示された
+3）
+。
+　VCM‌TDM ソフトウェア（practical‌AUC-guided‌TDM‌for‌vancomycin：PAT）
+6）
+は，ベイズ推定により1ポイント
+（トラフ値のみ）採血でもAUC を算出することが可能であるが，重症/複雑性MRSA 感染症，腎機能低下例，腎機能
+低下リスク
+7）
+のある症例では 2 ポイント（トラフ値とピーク値）の採血により AUC 評価を行う。腎機能低下の場合，
+維持量は，PAT を用いて AUC に基づき調整する。安全性を重視する場合は，初期投与設計の目標AUC が 500‌μg・
+h/mL を超えないように投与設計を行う
+2）
+。小児の場合，1 回 15‌mg/kg，6 時間ごと投与が基本であるが，小児におけ
+る半減期は一定でないことを考慮して投与設計を行う。AUCを評価するためのソフトウェアは開発されているが， 検
+証段階であり，代替指標としてトラフ値PO～PT‌μNk?を目標値とする
+8）
+。初回トラフ値は4 回目投与直前（6時間ご
+とであれば 2 日目）に測定する。
+　血清蛋白結合率は34.3±3.6％であった
+9）
+。一方，組織移行性は，肺組織
+PO）
+・骨髄血
+11）
+・心膜液
+12）
+・感染患者の髄液等
+13）
+には血中濃度の 20～50％，喀痰
+14）
+・骨組織
+11）
+等には血中濃度の約?PO～PT％が移行するとの報告がある
+15）
+。授乳中の母
+親に VCM‌ 1‌g を 1 日 2 回投与時，点滴終了 4 時間後の母乳中濃度は 12.7‌μg/mL であった
+16）
+。点滴静注（60 分点滴）
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3264
+[[p15]]
+後，72 時間までに 90％以上が尿中に未変化体として排泄された
+9）
+。
+安全性
+　フロセミド，タゾバクタム/ピペラシリン，アミノグリコシド系薬，アムホテリシンB，造影剤，非ステロイド性抗
+炎症薬（NSAIDs）等の併用により，腎機能低下のリスクが高まるとの報告がある
+7，17）
+。
+　急速に投与するとヒスタミン遊離による投与時関連反応，血圧低下等の副作用が発現することがあるので
+18）
+，60 分
+以上かけて点滴静注をすること
+2）
+。
+文　献
+‌‌ 1）‌Perkins‌H‌R:‌Vancomycin‌and‌related‌antibiotics.‌Pharmacol‌Ther‌1982;‌16:‌181-97
+‌‌ 2）‌日本化学療法学会抗菌薬 TDM ガイドライン作成委員会，日本 TDM 学会 TDM ガイドライン策定委員会抗菌薬小委員会‌
+編：抗菌薬 TDM 臨床実践ガイドライン 2022，日本化学療法学会，東京，2022;‌6-58
+‌‌ 3）‌Tsutsuura‌M,‌Moriyama‌H,‌Kojima‌N,‌Mizukami‌Y,‌Tashiro‌S,‌Osa‌S,‌et‌al:‌The‌monitoring‌of‌vancomycin:‌a‌systematic‌
+review‌and‌meta-analyses‌of‌area‌under‌the‌concentration-time‌curve-guided‌dosing‌and‌trough-guided‌dosing.‌BMC‌
+Infect‌Dis‌2021;‌21:‌153.‌doi:‌10.1186/s12879-021-05858-6
+‌‌ 4）‌日本化学療法学会抗菌薬 TDM ガイドライン作成委員会，日本 TDM 学会 TDM ガイドライン策定委員会―抗菌薬領域―　
+編：抗菌薬 TDM ガイドライン 2016，日本化学療法学会，東京，2016;‌39-62
+‌‌ 5）‌Ueda‌T,‌Takesue‌Y,‌Nakajima‌K,‌Ichiki‌K,‌Ishikawa‌K,‌Yamada‌K,‌et‌al:‌Validation‌of‌vancomycin‌area‌under‌the‌concen-
+tration-time‌curve‌estimation‌by‌the‌bayesian‌approach‌using‌one-point‌samples‌for‌predicting‌clinical‌outcomes‌in‌
+patients‌ with‌ methicillin-resistant‌ Staphylococcus‌ aureus‌ infections.‌ Antibiotics‌ 2022;‌ 11:‌ 96.‌ doi:‌ 10.3390/antibiot-
+ics11010096
+‌‌ 6）‌Oda‌K,‌Hashiguchi‌Y,‌Kimura‌T,‌Tsuji‌Y,‌Shoji‌K,‌Takahashi‌Y,‌et‌al:‌Performance‌of‌area‌under‌the‌concentration-time‌
+curve‌estimations‌of‌vancomycin‌with‌limited‌sampling‌by‌a‌newly‌developed‌web‌application.‌Pharm‌Res‌2021;‌38:‌637-
+46.‌doi:‌10.1007/s11095-021-03030-y
+‌‌ 7）‌Hashimoto‌N,‌Kimura‌T,‌Hamada‌Y,‌Niwa‌T,‌Hanai‌Y,‌Chuma‌M,‌et‌al:‌Candidates‌for‌area‌under‌the‌concentration-time‌
+curve‌(AUC)-guided‌dosing‌and‌risk‌reduction‌based‌on‌analyses‌of‌risk‌factors‌associated‌with‌nephrotoxicity‌in‌vanco-
+mycin-treated‌patients.‌J‌Glob‌Antimicrob‌Resist‌2021;‌27:‌12-9.‌doi:‌10.1016/j.jgar.2021.07.018
+‌‌ 8）‌Moriyama‌H,‌Tsutsuura‌M,‌Kojima‌N,‌Mizukami‌Y,‌Tashiro‌S,‌Osa‌S,‌et‌al:‌The‌optimal‌trough-guided‌monitoring‌of‌
+vancomycin‌ in‌ children:‌ systematic‌ review‌ and‌ meta-analyses.‌ J‌ Infect‌ Chemother‌ 2021;‌ 27:‌ 781-5.‌ doi:‌ 10.1016/j.
+jiac.2021.01.015
+‌‌ 9）‌中島光好，片桐　謙，尾熊隆嘉：塩酸バンコマイシン点滴静注時の臨床第 I 相試験。Chemotherapy‌1992;‌40:‌210-24
+‌PO）‌b‌lK‌f‌fK‌k‌kK‌e‌fK‌a‌fK‌l‌lK‌‌Y‌o‌‌‌‌‌‌M‌
+J‌Antimicrob‌Chemother‌1996;‌38:‌865-9.‌doi:‌10.1093/jac/38.5.865
+‌11）‌倉田和男：注射用塩酸バンコマイシンの骨組織・骨髄血・関節液移行について。化療の領域　1993;‌9:‌532-8
+‌12）‌Matzke‌G‌R,‌Zhanel‌G‌G,‌Guay‌D‌R:‌Clinical‌pharmacokinetics‌of‌vancomycin.‌Clin‌Pharmacokinet‌1986;‌11:‌257-82
+‌13）‌美原　盤，佐藤周三， 菅　貞郎，五味慎太郎，尾熊隆嘉，佐々木緊：静注バンコマイシンの髄液移行―くも膜下出血患者
+における検討。医のあゆみ　1993;‌164:‌915-6
+‌14）‌新妻一直，斎藤美和子：VCM 吸入療法，VCM の体内動態と臨床的検討。化療の領域　1996;‌12:‌1115-27
+‌15）‌Ricard‌J‌D,‌Wolff‌M,‌Lacherade‌J‌C,‌Mourvillier‌B,‌Hidri‌N,‌Barnaud‌G,‌et‌al:‌Levels‌of‌vancomycin‌in‌cerebrospinal‌fluid‌
+of‌adult‌patients‌receiving‌adjunctive‌corticosteroids‌to‌treat‌pneumococcal‌meningitis:‌a‌prospective‌multicenter‌obser-
+vational‌study.‌Clin‌Infect‌Dis‌2007;‌44:‌250-5.‌doi:‌10.1086/510390
+‌16）‌Reyes‌M‌P,‌Ostrea‌E‌M‌Jr,‌Cabinian‌A‌E,‌Schmitt‌C,‌Rintelmann‌W:‌Vancomycin‌during‌pregnancy:‌does‌it‌cause‌hearing‌
+loss‌or‌nephrotoxicity‌in‌the‌infant?‌Am‌J‌Obstet‌Gynecol‌1989;‌161:‌977-81.‌doi:‌10.1016/0002-9378(89)90766-7
+‌17）‌Wong-Beringer‌A,‌Joo‌J,‌Tse‌E,‌Beringer‌P:‌Vancomycin-associated‌nephrotoxicity:‌a‌critical‌appraisal‌of‌risk‌with‌high-
+dose‌therapy.‌Int‌J‌Antimicrob‌Agents‌2011;‌37:‌95-101.‌doi:‌10.1016/j.ijantimicag.2010.10.013
+‌18）‌Healy‌D‌P,‌Sahai‌J‌V,‌Fuller‌S‌H,‌Polk‌R‌E:‌Vancomycin-induced‌histamine‌release‌and‌“red‌man‌syndrome”:‌comparison‌
+of‌1-‌and‌2-hour‌infusions.‌Antimicrob‌Agents‌Chemother‌1990;‌34:‌550-4.‌doi:‌10.1128/AAC.34.4.550
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 265
+[[p16]]
+（2）テイコプラニン
+作用機序
+　TEIC は細菌の細胞壁を構成するペプチドグリカン前駆体（ムレインモノマー）のD-alanyl-D-alanine に結合し，細
+胞壁の合成を阻害する
+1）
+。
+体内動態・組織移行
+　十分な治療効果を発揮させるためには， 投与初期のローディングが必須である
+2～6）
+。 血中濃度予測が困難なためTDM
+を実施し，投与量調節が必要である
+7）
+。
+　臨床効果は AUC/MIC に相関するが
+8）
+，代替指標としてトラフ値を用いる
+2～6）
+。非複雑性感染症では目標トラフ値を
+15～30‌μg/mL
+9）
+，重症例や複雑性感染症では 20～40‌μg/mL に設定する
+7）
+。
+　血清蛋白結合率は 90％以上であった
+PO）
+。低アルブミン血症時には遊離型分画が高くなり，その結果，分布容積が大
+きくなり，排泄も促進され，全血中濃度が低下する
+11）
+。VCM と比べて脂溶性が高く
+12）
+，分布容積が大きいため良好な
+組織移行が期待できるが，髄液への移行は不良である
+13）
+。血中半減期
+13）
+から維持用量として1日1回の投与で十分な治
+療効果が期待できる
+1）
+。
+安全性
+　複数の比較試験のメタ解析の結果，VCM より有意に腎障害の発現率が低いことが報告されている
+14）
+。
+　ヒスタミン遊離作用が VCM より少ないことが報告されており，投与時関連反応のリスクが低いとされている
+15）
+。
+　トラフ値上昇に伴う肝機能障害
+16）
+，トラフ値40‌μg/mL 以上での血小板減少や発熱
+17）
+，60‌μg/mL 以上での腎障害の
+発現頻度増加が報告されている
+18）
+。
+文　献
+‌‌ 1）‌ Somma‌S,‌Gastaldo‌L,‌Corti‌A:‌Teicoplanin,‌a‌new‌antibiotic‌from‌Actinoplanes‌teichomyceticus‌nov.‌sp.‌Anti-
+microb‌Agents‌Chemother‌1984;‌26:‌917-23.‌doi:‌10.1128/AAC.26.6.917
+‌‌ 2）‌ Ueda‌T,‌Takesue‌Y,‌Nakajima‌K,‌Ichiki‌K,‌Ishikawa‌K,‌Yamada‌K,‌et‌al:‌Enhanced‌loading‌dose‌of‌teicoplanin‌
+for‌three‌days‌is‌required‌to‌achieve‌a‌target‌trough‌concentration‌of‌20‌μg/mL‌in‌patients‌receiving‌continu-
+ous‌venovenous‌haemodiafiltration‌with‌a‌low‌flow‌rate.‌J‌Infect‌Chemother‌2022;‌28:‌232-7.‌doi:‌10.1016/
+j.jiac.2021.10.023
+‌‌ 3）‌ Ueda‌T,‌Takesue‌Y,‌Nakajima‌K,‌Ichiki‌K,‌Ishikawa‌K,‌Takai‌Y,‌et‌al:‌Clinical‌efficacy‌and‌safety‌in‌patients‌
+treated‌with‌teicoplanin‌with‌a‌target‌trough‌concentration‌of‌20‌μg/mL‌using‌a‌regimen‌of‌12‌mg/kg‌for‌five‌
+doses‌within‌the‌initial‌3‌days.‌BMC‌Pharmacol‌Toxicol‌2020;‌21:‌50.‌doi:‌10.1186/s40360-020-00424-3
+‌‌ 4）‌ Ueda‌T,‌Takesue‌Y,‌Nakajima‌K,‌Ichiki‌K,‌Doita‌A,‌Wada‌Y,‌et‌al:‌Enhanced‌loading‌regimen‌of‌teicoplanin‌is‌
+necessary‌to‌ac hieve‌th erapeutic‌ph armacokinetics‌le vels‌fo r‌the‌im provement‌of‌cl inical‌ou tcomes‌in‌pa tients‌
+with‌renal‌dysfunction.‌Eur‌J‌Clin‌Microbiol‌Infect‌Dis‌2016;‌35:‌1501-9.‌doi:‌10.1007/s10096-016-2691-z
+‌‌ 5）‌ Ueda‌T,‌Takesue‌Y,‌Nakajima‌K,‌Ichki‌K,‌Wada‌Y,‌Komatsu‌M,‌et‌al:‌High-dose‌regimen‌to‌achieve‌novel‌target‌
+trough‌concentration‌in‌teicoplanin.‌J‌Infect‌Chemother‌2014;‌20:‌43-7.‌doi:‌10.1016/j.jiac.2013.08.006
+‌‌ 6）‌ Matsumoto‌K,‌Kanazawa‌N,‌Watanabe‌E,‌Yokoyama‌Y,‌Fukamizu‌T,‌Shimodozono‌Y,‌et‌al:‌Development‌of‌
+initial‌loading‌procedure‌for‌teicoplanin‌in‌critically‌ill‌patients‌with‌severe‌infections.‌Biol‌Pharm‌Bull‌2013;‌
+36:‌1024-6.‌doi:‌10.1248/bpb.b12-00911
+‌‌ 7）‌ 日本化学療法学会抗菌薬TDMガイドライン作成委員会，日本TDM学会TDMガイドライン策定委員会抗菌薬
+小委員会　編：抗菌薬 TDM 臨床実践ガイドライン 2022，日本化学療法学会，東京，2022;‌59-80
+‌‌ 8）‌ Watanabe‌E,‌Matsumoto‌K,‌Ikawa‌K,‌Yokoyama‌Y,‌Shigemi‌A,‌Enoki‌Y,‌et‌al:‌Pharmacokinetic/pharmacody-
+namic‌evaluation‌of‌teicoplanin‌against‌Staphylococcus‌aureus‌in‌a‌murine‌thigh‌infection‌model.‌J‌Glob‌Anti-
+microb‌Resist‌2021;‌24:‌83-7.‌doi:‌10.1016/j.jgar.2020.11.014
+‌‌ 9）‌ Hanai‌Y,‌Takahashi‌Y,‌Niwa‌T,‌Mayumi‌T,‌Hamada‌Y,‌Kimura‌T,‌et‌al:‌Optimal‌trough‌concentration‌of‌teico-
+planin‌for‌the‌treatment‌of‌methicillin-resistant‌Staphylococcus‌aureus‌ infection:‌a‌systematic‌review‌and‌
+meta-analysis.‌J‌Clin‌Pharm‌Ther‌2021;‌46:‌622-32.‌doi:‌10.1111/jcpt.13366
+‌PO）‌?`‌`K‌a‌`Y‌a‌‌‌‌‌‌M‌d‌i‌b‌o‌PXWVZ‌RRY‌PXPL
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3266
+[[p17]]
+5.‌doi:‌10.1007/BF00544566
+‌11）‌ Byrne‌C‌J,‌Parton‌T,‌McWhinney‌B,‌Fennell‌J‌P,‌O’Byrne‌P,‌Deasy‌E,‌et‌al:‌Population‌pharmacokinetics‌of‌total‌
+and‌unbound‌teicoplanin‌concentrations‌and‌dosing‌simulations‌in‌patients‌with‌haematological‌malignancy.‌J‌
+Antimicrob‌Chemother‌2018;‌73:‌995-1003.‌doi:‌10.1093/jac/dkx473
+‌12）‌ Parenti‌ F:‌ Structure‌ and‌ mechanism‌ of‌ action‌ of‌ teicoplanin.‌ J‌ Hosp‌ Infect‌ 1986;‌ 7(Suppl‌ A):‌ 79-83.‌ doi:‌
+10.1016/0195-6701(86)90011-3
+‌13）‌ Wilson‌A‌P:‌Clinical‌pharmacokinetics‌of‌teicoplanin.‌Clin‌Pharmacokinet‌2000;‌39:‌167-83.‌doi:‌10.2165/00003088-
+200039030-00001
+‌14）‌ Svetitsky‌S,‌Leibovici‌L,‌Paul‌M:‌Comparative‌efficacy‌and‌safety‌of‌vancomycin‌versus‌teicoplanin:‌systematic‌
+review‌and‌meta-analysis.‌Antimicrob‌Agents‌Chemother‌2009;‌53:‌4069-79.‌doi:‌10.1128/AAC.00341-09
+‌15）‌ Sahai‌J,‌Healy‌D‌P,‌Shelton‌M‌J,‌Miller‌J‌S,‌Ruberg‌S‌J,‌Polk‌R:‌Comparison‌of‌vancomycin-‌and‌teicoplanin-
+induced‌ histamine‌ release‌ and‌“red‌ man‌ syndrome”.‌ Antimicrob‌ Agents‌ Chemother‌ 1990;‌ 34:‌ 765-9.‌ doi:‌
+10.1128/AAC.34.5.765
+‌16）‌ Kato‌H,‌Hamada‌Y,‌Hagihara‌M,‌Hirai‌J,‌Nishiyama‌N,‌Koizumi‌Y,‌et‌al:‌Retrospective‌study‌of‌teicoplanin‌load-
+ing‌regimen‌that‌rapidly‌achieves‌target‌15-30‌μg/mL‌serum‌trough‌concentration.‌J‌Infect‌Chemother‌2016;‌
+22:‌308-13.‌doi:‌10.1016/j.jiac.2016.01.019
+‌17）‌ Wilson‌A‌P,‌Grüneberg‌R‌N,‌Neu‌H:‌A‌critical‌review‌of‌the‌dosage‌of‌teicoplanin‌in‌Europe‌and‌the‌USA.‌Int‌
+J‌Antimicrob‌Agents‌1994;‌4‌Suppl‌1:‌1-30.‌doi:‌10.1016/0924-8579(94)90049-3
+‌18）‌ Wilson‌A‌P‌R,‌Gruneberg‌R‌N:‌Safety.‌In‌Teicoplanin‌nephrotoxicity:‌The‌first‌decade.‌The‌Medicine‌Group‌
+(Education)‌Ltd,‌Abingdon,‌UK.‌1997;‌137-44
+（3）アルベカシン
+作用機序
+　細菌の蛋白合成を阻害することにより抗菌作用を示し，その作用は殺菌的
+1，2）
+である。
+　MRSA の産生する各種のアミノグリコシド不活化酵素に対して安定であるが，二機能酵素（AAC（6’）/APH（2”），
+APH（2”）/AAC（6’） ）で失活することが報告されている
+3～5）
+。
+体内動態・組織移行
+　組織分布が完了した時点における血中濃度（ C
+peak）が薬効と関係している。臨床効果が得られる目標 Cpeak は‌
+≧PT‌μNk?が推奨されており，関連する?ojNoc?パラメータの目安は?bNlhb：≧W～PO?と考えられている
+6）
+。
+　成人の慢性気道感染症患者にABK‌100‌mgを1時間点滴静注した時の喀痰中および局所痰中濃度の最高値は1.15お
+よび1.38‌μg/mLであった
+7）
+。200‌mgを1時間点滴静注した時の健常成人におけるABKの最高気道上皮被覆液 （ELF）
+中濃度は，約?PO‌μNk?であった
+8）
+。
+　成人の腹膜炎患者 2 例に ABK‌75‌mg を 30 分点滴静注した時の最高腹水中濃度は 1.86～5.29‌μg/mL であった
+9）
+。
+　皮膚軟部組織感染症患者の滲出液中濃度は（24 時間あたり）平均値 7.8～14.8‌μg/mL であり，投与開始 60 分後の
+血中濃度を高めることで滲出液中濃度が上昇することが報告されている
+PO）
+。
+　腎機能正常者における重症感染症では，目標濃度を達成するために300‌mg（5.5～6.0‌mg/kg）が必要という報告が
+ある
+11，12）
+。
+安全性
+　主な副作用として腎障害，第8脳神経障害等がある。腎障害は血中トラフ濃度2
+‌μg/mL以上が繰り返されると，発
+生の危険性が大きくなると考えられている
+6，13）
+。
+　アミノグリコシド系による耳毒性の感受性亢進には，ミトコンドリア遺伝子 A1555G 変異が関与するとの報告があ
+る
+14）
+。
+文　献
+‌‌ 1）‌ Watanabe‌T,‌Ohashi‌K,‌Matsui‌K,‌Kubota‌T:‌Comparative‌studies‌of‌the‌bactericidal,‌morphological‌and‌post-
+antibiotic‌effects‌of‌arbekacin‌and‌vancomycin‌against‌methicillin-resistant‌Staphylococcus‌aureus.‌J‌Antimi-
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 267
+[[p18]]
+crob‌Chemother‌1997;‌39:‌471-6.‌doi:‌10.1093/jac/39.4.471
+‌‌ 2）‌ 蔵園瑞代，山田恵子，平井洋子，井田孝志，井上松久：MRSA の疫学動向と各種抗菌薬の抗菌活性について。
+日化療会誌　2002;‌50:‌494-9
+‌‌ 3）‌ Kondo‌S,‌Hotta‌K:‌Semi synthetic‌ami noglycoside‌anti biotics:‌D evelopment‌and‌enzy matic‌modi fications.‌J‌Inf ect‌
+Chemother‌1999;‌5:‌1-9.‌doi:‌10.1007/s101560050001
+‌‌ 4）‌ Fujimura‌S,‌Tokue‌Y,‌Takahashi‌H,‌Nukiwa‌T,‌Hisamichi‌K,‌Mikami‌T,‌et‌al:‌A‌newly‌recognized‌acetylated‌
+metabolite‌of‌arbekacin‌in‌arbekacin-resistant‌strains‌of‌methicillin-resistant‌Staphylococcus‌aureus.‌J‌Antimi-
+crob‌Chemother‌1998;‌41:‌495-7.‌doi:‌10.1093/jac/41.4.495
+‌‌ 5）‌ Fujimura‌S,‌Tokue‌Y,‌Takahashi‌H,‌Kobayashi‌T,‌Gomi‌K,‌Abe‌T,‌et‌al:‌Novel‌arbekacin-‌and‌amikacin-modify-
+ing‌ enzyme‌ of‌ methicillin-resistant‌Staphylococcus‌ aureus.‌ FEMS‌ Microbiol‌ Lett‌ 2000;‌ 190:‌ 299-303.‌ doi:‌
+10.1111/j.1574-6968.2000.tb09302.x
+‌‌ 6）‌ 日本化学療法学会抗菌薬TDMガイドライン作成委員会，日本TDM学会TDMガイドライン策定委員会抗菌薬
+小委員会　編：抗菌薬 TDM 臨床実践ガイドライン 2022，日本化学療法学会，東京，2022;‌41-56
+‌‌ 7）‌ 吉田俊昭，山本真志，大石和徳，田口幹雄，井手政利，渡辺貴和雄，他：新アミノ配糖体系抗生物質HBK の基
+礎的・臨床的研究。Chemotherapy‌1986;‌34(S-1):‌332-43
+‌‌ 8）‌ Funatsu‌Y,‌Hasegawa‌N,‌Namkoong‌H,‌Fujiwara‌H,‌Betsuyaku‌T,‌Iwata‌S,‌et‌al:‌Penetration‌of‌arbekacin‌sul-
+fateto‌the‌lung‌tissue.‌Proceedings‌of‌the‌52nd‌Interscience‌Conference‌on‌Antimicrobial‌Agents‌and‌Chemo-
+therapy,‌2012;‌Abstract‌No.2068‌
+‌‌ 9）‌中村　孝，橋本伊久雄，沢田康夫，三上二郎：点滴静注法による胆嚢炎・腹膜炎に対するHBK の臨床的研究。
+薬理と治療　1986;‌14:‌7115-30
+‌PO）‌?g‌lK‌n‌jK‌x‌rK‌v‌gK‌h‌sK‌j‌lK‌‌Y‌`‌‌‌‌
+peripheral‌lymph‌and‌in‌serum‌after‌intravenous‌injection:‌report‌of‌four‌cases.‌Jpn‌J‌Antibiot‌2012;‌65:‌207-15.‌
+PMID:‌23173295
+‌11）‌ Yamamoto‌Y,‌Izumikawa‌K,‌Hashiguchi‌K,‌Fukuda‌Y,‌Kobayashi‌T,‌Kondo‌A,‌et‌al:‌The‌efficacy‌and‌safety‌of‌
+high-dose‌arbekacin‌sulfate‌therapy‌(once-daily‌treatment)‌in‌patients‌with‌MRSA‌infection.‌J‌Infect‌Che-
+mother‌2012;‌18:‌241-6.‌doi:‌10.1007/s10156-012-0397-4
+‌12）‌ Matsumoto‌T,‌Hanaki‌H,‌Kimura‌T,‌Nemoto‌M,‌Higashihara‌M,‌Yokota‌H,‌et‌al:‌Clinical‌efficacy‌and‌safety‌of‌
+arbekacin‌sulfate‌in‌patients‌with‌MRSA‌sepsis‌or‌pneumonia:‌a‌multi-institutional‌study.‌J‌Infect‌Chemother‌
+2013;‌19:‌128-37.‌doi:‌10.1007/s10156-012-0519-z
+‌13）‌ Oda‌K,‌Fujii‌S,‌Yamamoto‌T,‌Mayumi‌T,‌Takesue‌Y:‌Evaluation‌of‌once-daily‌dosing‌and‌target‌concentrations‌
+in‌ therapeutic‌ drug‌ monitoring‌ for‌ arbekacin:‌ A‌ meta-analysis.‌ J‌ Infect‌ Chemother‌ 2021;‌ 27:‌ 26-31.‌ doi:‌
+10.1016/j.jiac.2020.08.002
+‌14）‌ 山岨達也：ミトコンドリア遺伝子異常と内耳障害。耳鼻臨床　2011;‌104:‌533-40
+（4）リネゾリド
+作用機序
+　LZD は細菌の 50S リボソームの 23S‌rRNA に結合し，蛋白合成過程の開始段階に作用し，蛋白合成を阻害する
+1）
+。
+体内動態・組織移行
+　点滴静注用剤と経口剤の 2 剤形を有する。経口剤の生物学的利用率はほぼ 100％であり，食事による影響を受けな
+い
+2）
+。その半減期は約6 時間である
+3）
+。投与量はともに1 回 600‌mg の 1 日 2 回投与である。12 歳未満では 1 回 10‌mg/
+kg‌8 時間ごとの投与であるが 1 回の投与量が 600‌mg を超えないように注意する。
+　LZD の蛋白結合率は 31％と低く
+3）
+，良好な組織移行性を示し，組織への移行率（組織 /濃度）は気道上皮被覆液
+（ELF）で 415％
+4）
+，髄液 160％
+5）
+，皮膚（炎症性水疱）104％
+6）
+，筋肉 94％および骨 60％
+7）
+である。また，糖尿病患者で
+の炎症皮膚組織への移行性に変化はない
+8）
+。体内動態に影響を示す薬物相互作用として，RFP との併用では，LZD の
+血漿中濃度が低下するとの報告がある
+X，PO）
+。LZD は透析膜により 30～50％が除去されることが報告されている
+11）
+。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3268
+[[p19]]
+安全性
+　副作用として，血小板減少等の骨髄抑制，可逆的な貧血等が報告されており，投与期間が14日間を超えると血小板
+減少の頻度が増加することが報告されている
+12，13）
+。そのため投与期間中は，週 1 回程度の血液検査の実施が望ましい。
+このほか 28 日を超えて投与した場合視神経障害があらわれることがある
+14）
+。また，乳酸アシドーシス等の代謝性アシ
+ドーシスがあらわれることがある
+15，16）
+。腎機能低下患者では，主要代謝物の AUC が上昇するとの報告がある
+11）
+。腎機
+能の低下と血小板減少の発現頻度の間に相関関係が認められた報告
+17，18）
+や， 腎機能低下時は用量調節を行う必要がある
+とする報告がある
+19）
+。腎機能低下患者への投与にあたっては，副作用の発現について観察を十分に行い，慎重に投与
+する必要がある。最近では肝機能の低下も血小板減少のリスクであることが報告された
+20，21）
+。
+　セロトニン作動薬との併用によるセロトニン症候群（錯乱，せん妄，情緒不安，振戦，潮紅，発汗，高熱）の発生
+がまれに報告されている
+22）
+。
+文　献
+‌‌ 1）‌Jacqueline‌C,‌Caillon‌J,‌Le‌Mabecque‌V,‌Miegeville‌A‌F,‌Donnio‌P‌Y,‌Bugnon‌D,‌et‌al:‌In‌vitro‌activity‌of‌linezolid‌alone‌
+and‌in‌combination‌with‌gentamicin,‌vancomycin‌or‌rifampicin‌against‌methicillin-resistant‌Staphylococcus‌aureus‌by‌
+time-kill‌curve‌methods.‌J‌Antimicrob‌Chemother‌2003;‌51:‌857-64.‌doi:‌10.1093/jac/dkg160
+‌‌ 2）‌Peloquin‌C‌A,‌Davies‌G‌R:‌The‌treatment‌of‌tuberculosis.‌Clin‌Pharmacol‌Ther‌2021;‌110:‌1455-66.‌doi:‌10.1002/cpt.2261
+‌‌ 3）‌Welshman‌I‌R,‌Sisson‌T‌A,‌Jungbluth‌G‌L,‌Stalker‌D‌J,‌Hopkins‌N‌K:‌Linezolid‌absolute‌bioavailability‌and‌the‌effect‌of‌
+food‌on‌oral‌bioavailability.‌Biopharm‌Drug‌Dispos‌2001;‌22:‌91-7.‌doi:‌10.1002/bdd.255
+‌‌ 4）‌Conte‌J‌E‌Jr,‌Golden‌J‌A,‌Kipps‌J,‌Zurlinden‌E:‌Intrapulmonary‌pharmacokinetics‌of‌linezolid.‌Antimicrob‌Agents‌Che-
+mother‌2002;‌46:‌1475-80.‌doi:‌10.1128/AAC.46.5.1475-1480.2002
+‌‌ 5）‌Villani‌P,‌Regazzi‌M‌B,‌Marubbi‌F,‌Viale‌P,‌Pagani‌L,‌Cristini‌F,‌et‌al:‌Cerebrospinal‌fluid‌linezolid‌concentrations‌in‌post-
+neurosurgical‌ central‌ nervous‌ system‌ infections.‌ Antimicrob‌ Agents‌ Chemother‌ 2002;‌ 46:‌ 936-7.‌ doi:‌ 10.1128/
+AAC.46.3.936-937.2002
+‌‌ 6）‌Gee‌T,‌Ellis‌R,‌Marshall‌G,‌Andrews‌J,‌Ashby‌J,‌Wise‌R:‌Pharmacokinetics‌and‌tissue‌penetration‌of‌linezolid‌following‌
+multiple‌oral‌doses.‌Antimicrob‌Agents‌Chemother‌2001;‌45:‌1843-6.‌doi:‌10.1128/AAC.45.6.1843-1846.2001
+‌‌ 7）‌Lovering‌A‌M,‌Zhang‌J,‌Bannister‌G‌C,‌Lankester‌B‌J,‌Brown‌J‌H,‌Narendra‌G,‌et‌al:‌Penetration‌of‌linezolid‌into‌bone,‌
+fat,‌muscle‌and‌haematoma‌of‌patients‌undergoing‌routine‌hip‌replacement.‌J‌Antimicrob‌Chemother‌2002;‌50:‌73-7.‌doi:‌
+10.1093/jac/dkf066
+‌‌ 8）‌Majcher-Peszynska‌J,‌Haase‌G,‌Sass‌M,‌Mundkowski‌R,‌Pietsch‌A,‌Klammt‌S,‌et‌al:‌Pharmacokinetics‌and‌penetration‌of‌
+linezolid‌into‌inflamed‌soft‌tissue‌in‌diabetic‌foot‌infections.‌Eur‌J‌Clin‌Pharmacol‌2008;‌64:‌1093-100.‌doi:‌10.1007/s00228-
+008-0531-5
+‌‌ 9）‌Gebhart‌B‌C,‌Barker‌B‌C,‌Markewitz‌B‌A:‌Decreased‌serum‌linezolid‌levels‌in‌a‌critically‌ill‌patient‌receiving‌concomitant‌
+linezolid‌and‌rifampin.‌Pharmacotherapy‌2007;‌27:‌476-9.‌doi:‌10.1592/phco.27.3.476
+‌PO）‌a‌tK‌q‌`‌bK‌e‌n‌qK‌j‌`K‌a‌iK‌g‌uK‌‌Y‌c‌‌‌‌‌
+three‌critically‌ill‌patients:‌clinical‌case‌studies‌of‌a‌potential‌drug‌interaction‌between‌linezolid‌and‌rifampicin.‌Pharma-
+cology‌2016;‌98:‌51-5.‌doi:‌10.1159/000445194
+‌11）‌Brier‌M‌E,‌Stalker‌D‌J,‌Aronoff‌G‌R,‌Batts‌D‌H,‌Ryan‌K‌K,‌O’Grady‌M,‌et‌al:‌Pharmacokinetics‌of‌linezolid‌in‌subjects‌
+with‌renal‌dysfunction.‌Antimicrob‌Agents‌Chemother‌2003;‌47:‌2775-80.‌doi:‌10.1128/AAC.47.9.2775-2780.2003
+‌12）‌Sasaki‌T,‌Takane‌H,‌Ogawa‌K,‌Isagawa‌S,‌Hirota‌T,‌Higuchi‌S,‌et‌al:‌Population‌pharmacokinetic‌and‌pharmacodynamic‌
+analysis‌of‌linezolid‌and‌a‌hematologic‌side‌effect,‌thrombocytopenia,‌in‌Japanese‌patients.‌Antimicrob‌Agents‌Che-
+mother‌2011;‌55:‌1867-73.‌doi:‌10.1128/AAC.01185-10
+‌13）‌Matsumoto‌K,‌Takeshita‌A,‌Ikawa‌K,‌Shigemi‌A,‌Yaji‌K,‌Shimodozono‌Y,‌et‌al:‌Higher‌linezolid‌exposure‌and‌higher‌
+frequency‌ of‌ thrombocytopenia‌ in‌ patients‌ with‌ renal‌ dysfunction.‌ Int‌ J‌ Antimicrob‌ Agents‌ 2010;‌ 36:‌ 179-81.‌ doi:‌
+10.1016/j.ijantimicag.2010.02.019
+‌14）‌Migliori‌G‌B,‌Ek er‌B,‌Ri chardson‌M‌D,‌So tgiu‌G,‌Ze llweger‌J‌P,‌Sk rahina‌A,‌et‌al :‌A‌re trospective‌TB NET‌as sessment‌of‌
+linezolid‌ safety,‌ tolerability‌ and‌ efficacy‌ in‌ multidrug-resistant‌ tuberculosis.‌ Eur‌ Respir‌ J‌ 2009;‌ 34:‌ 387-93.‌ doi:‌
+10.1183/09031936.00009509
+‌15）‌Ozkaya-Parlakay‌A,‌Kara‌A,‌Celik‌M,‌Ozsurekci‌Y,‌Karadag‌Oncel‌E,‌Ceyhan‌M,‌et‌al:‌Early‌lactic‌acidosis‌associated‌
+with‌ linezolid‌ therapy‌ in‌ paediatric‌ patients.‌ Int‌ J‌ Antimicrob‌ Agents‌ 2014;‌ 44:‌ 334-6.‌ doi:‌ 10.1016/j.ijantimi-
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 269
+[[p20]]
+cag.2014.06.017
+‌16）‌Apodaca‌ A‌ A,‌ Rakita‌ R‌ M:‌ Linezolid-induced‌ lactic‌ acidosis.‌ N‌ Engl‌ J‌ Med‌ 2003;‌ 348:‌ 86-7.‌ doi:‌ 10.1056/
+NEJM200301023480123
+‌17）‌Wu‌V‌C,‌Wang‌Y‌T,‌Wang‌C‌Y,‌Tsai‌I‌J,‌Wu‌K‌D,‌Hwang‌J‌J,‌et‌al:‌High‌Frequency‌of‌Linezolid-Associated‌Thrombo-
+cytopenia‌and‌Anemia‌among‌Patients‌with‌End-Stage‌Renal‌Disease.‌Clin‌Infect‌Dis‌2006;‌42:‌66-72.‌doi:‌10.1086/498509
+‌18）‌Takahashi‌Y,‌Takesue‌Y,‌Nakajima‌K,‌Ichiki‌K,‌Tsuchida‌T,‌Tatsumi‌S,‌et‌al:‌Risk‌factors‌associated‌with‌the‌develop-
+ment‌of‌thrombocytopenia‌in‌patients‌who‌received‌linezolid‌therapy.‌J‌Infect‌Chemother‌2011;‌17:‌382-7.‌doi:‌10.1007/
+s10156-010-0182-1
+‌19）‌Matsumoto‌K,‌Shigemi‌A,‌Takeshita‌A,‌Watanabe‌E,‌Yokoyama‌Y,‌Ikawa‌K,‌et‌al:‌Analysis‌of‌thrombocytopenic‌effects‌
+and‌population‌pharmacokinetics‌of‌linezolid:‌a‌dosage‌strategy‌according‌to‌the‌trough‌concentration‌target‌and‌renal‌
+function‌in‌adult‌patients.‌Int‌J‌Antimicrob‌Agents‌2014;‌44:‌242-7.‌doi:‌10.1016/j.ijantimicag.2014.05.010
+‌20）‌Zhang‌S‌H,‌Zhu‌Z‌Y,‌Chen‌Z,‌Li‌Y,‌Zou‌Y,‌Yan‌M,‌et‌al:‌Population‌pharmacokinetics‌and‌dosage‌optimization‌of‌linezolid‌
+in‌patients‌with‌liver‌dysfunction.‌Antimicrob‌Agents‌Chemother‌2020;‌64:‌e00133-20.‌doi:‌10.1128/AAC.00133-20
+‌21）‌Liao‌R,‌Dong‌Y,‌Chen‌L,‌Wang‌T,‌Li‌H,‌Dong‌H:‌A‌standard‌dose‌of‌linezolid‌puts‌patients‌with‌hepatic‌impairment‌at‌
+risk‌of‌overexposure.‌Eur‌J‌Clin‌Pharmacol‌2023;‌79:‌149-57.‌doi:‌10.1007/s00228-022-03427-7
+‌22）‌Butterfield‌J‌M,‌Lawrence‌K‌R,‌Reisman‌A,‌Huang‌D‌B,‌Thompson‌C‌A,‌Lodise‌T‌P:‌Comparison‌of‌serotonin‌toxicity‌
+with‌concomitant‌use‌of‌either‌linezolid‌or‌comparators‌and‌serotonergic‌agents:‌an‌analysis‌of‌Phase‌III‌and‌IV‌ran-
+domized‌clinical‌trial‌data.‌J‌Antimicrob‌Chemother‌2012;‌67:‌494-502.‌doi:‌10.1093/jac/dkr467
+（5）テジゾリド
+作用機序
+　TZD は細菌リボソームの 50S サブユニットの 23S‌rRNA‌domain‌V に 1 カ所の疎水結合と 3 カ所の水素結合で結合
+し，70S 開始複合体の形成を阻害することによって翻訳開始反応を抑制し，蛋白合成を阻害する。 TZD は LZD より
+も結合個所が多いため，耐性菌出現率も抑えられている
+1～3）
+。
+　リボソーム遺伝子の変異によるオキサゾリジノン耐性は，一般的に TZD 交叉耐性を示す。一方，LZD に耐性を示
+すcfr 遺伝子を有する黄色ブドウ球菌に対して，TZD は良好な抗菌活性を有する
+1，2，4）
+。
+体内動態・組織移行
+　プロドラッグであるテジゾリドリン酸エステルが，生体内のホスファターゼにより活性型の TZD に変換される
+3）
+。
+点滴静注用剤と経口剤の 2 剤形を有し，経口剤のバイオアベイラビリティは 91.5％である
+5）
+。
+　健康成人において，テジゾリドリン酸エステル点滴静注後の血漿中 TZD 濃度は点滴終了時点で Cmax に達し，半減
+期は 11 時間である。経口剤の場合，Tmax は約 3 時間である
+5）
+。効果発現に関しては，AUC/MIC に相関する濃度依存
+的な抗菌薬である
+6）
+。
+　蛋白結合率は約 80％
+7）
+と LZD に比べて高い。組織移行性は良好であり，平均AUC 比（組織/血漿濃度）は，皮下脂
+肪組織で 1.08，骨格筋組織で 1.22 であった
+8）
+。
+　経口投与後は便中に多くが硫酸抱合体として排泄される。テジゾリドリン酸エステル単回経口後， 81.5％が便中，
+18.0％が尿中に排泄された
+9）
+。
+　重度腎機能障害患者（血液透析未施行または血液透析施行）へ 200‌mg 単回点滴静注した時腎機能正常対照群と比
+較して TZD の AUC に臨床的に意味のある変化はみられず，透析前後の TZD 投与においても AUC に変化はみられ
+なかった。以上より腎機能による用量調整は必要ないと考えられている
+PO）
+。
+安全性
+　国内第 III 相実薬対照試験におけるテジゾリドリン酸エステルの点滴静注では 83 例中 25 例（30.1％）に副作用を認
+め，主なものは ALT 上昇 4 件（4.8％ ），AST 上昇 3 件（3.6％） ，注射部位紅斑3 件（3.6％）等であり，重篤な副作
+用は認めなかった。また，骨髄抑制に関連する副作用は貧血 1 例（非重篤）を認めたのみであった
+5，11）
+。
+　本剤と同じオキサゾリジノン系抗菌薬の LZD では骨髄抑制として血小板減少症の発現頻度が高いが，TZD はその
+頻度が低いと考えられる
+11）
+。 その違いはTZDの投与量が少ないことや細胞のミトコンドリア分画には安定して存在し
+ていないこと等により，ミトコンドリア毒性（蛋白合成阻害）が少ないためだという考察がなされている
+12，13）
+。ただし
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3270
+[[p21]]
+この現象についてはさらに科学的検証が必要である。
+文　献
+‌‌ 1）‌Locke‌J‌B,‌Fi nn‌J,‌Hi lgers‌M,‌Mo rales‌G,‌Ra hawi‌S,‌G‌C‌K,‌et‌al :‌St ructure-activity‌re lationships‌of‌di verse‌ox azolidinones‌
+for‌linezolid-resistant‌Staphylococcus‌aureus‌strains‌possessing‌the‌cfr‌methyltransferase‌gene‌or‌ribosomal‌mutations.‌
+Antimicrob‌Agents‌Chemother‌2010;‌54:‌5337-43.‌doi:‌10.1128/AAC.00663-10
+‌‌ 2）‌Shaw‌K‌J,‌Poppe‌S,‌Schaadt‌R,‌Brown-Driver‌V,‌Finn‌J,‌Pillar‌C‌M,‌et‌al:‌In‌Vitro‌Activity‌of‌TR-700,‌the‌Antibacterial‌
+Moiety‌of‌the‌Prodrug‌TR-701,‌against‌Linezolid-Resistant‌Strains.‌Antimicrob‌Agents‌Chemother‌2008;‌52:‌4442-7.‌doi:‌
+10.1128/AAC.00859-08
+‌‌ 3）‌Locke‌J‌B,‌Hilgers‌M,‌Shaw‌K‌J:‌Novel‌ribosomal‌mutations‌in‌Staphylococcus‌aureus‌strains‌identified‌through‌selection‌
+with‌the‌oxazolidinones‌linezolid‌and‌torezolid‌(TR-700).‌Antimicrob‌Agents‌Chemother‌2009;‌53:‌5265-74.‌doi:‌10.1128/
+AAC.00871-09
+‌‌ 4）‌Livermore‌D‌M,‌Mushtaq‌S,‌Warner‌M,‌Woodford‌N:‌Activity‌of‌oxazolidinone‌TR-700‌against‌linezolid-susceptible‌
+and‌-resistant‌staphylococci‌and‌enterococci.‌J‌Antimicrob‌Chemother‌2009;‌63:‌713-5.‌doi:‌10.1093/jac/dkp002
+‌‌ 5）‌Flanagan‌S,‌Fang‌E,‌Muñoz‌K‌A,‌Minassian‌S‌L,‌Prokocimer‌P‌G:‌Single-‌and‌multiple-dose‌pharmacokinetics‌and‌absolute‌
+bioavailability‌of‌tedizolid.‌Pharmacotherapy‌2014;‌34:‌891-900.‌doi:‌10.1002/phar.1458
+‌‌ 6）‌Louie‌A,‌Liu‌W,‌Kulawy‌R,‌Drusano‌G‌L:‌In‌vivo‌pharmacodynamics‌of‌torezolid‌phosphate‌(T R-701)‌，a‌new‌oxazolidinone‌
+antibiotic,‌against‌methicillin-susceptible‌and‌methicillin-resistant‌Staphylococcus‌aureus‌strains‌in‌a‌mouse‌thigh‌infec-
+tion‌model.‌Antimicrob‌Agents‌Chemother‌2011;‌55:‌3453-60.‌doi:‌10.1128/AAC.01565-10
+‌‌ 7）‌MSD：シベクトロ錠 200mg，シベクトロ点滴静注用 200mg インタビューフォーム。2018 年 8 月改訂（第 2 版）
+‌‌ 8）‌Sahre‌M,‌Sabarinath‌S,‌Grant‌M,‌Seubert‌C,‌Deanda‌C,‌Prokocimer‌P,‌et‌al:‌Skin‌and‌soft‌tissue‌concentrations‌of‌tedizolid‌
+(formerly‌torezolid),‌a‌novel‌oxazolidinone,‌following‌a‌single‌oral‌dose‌in‌healthy‌volunteers.‌Int‌J‌Antimicrob‌Agents‌
+2012;‌40:‌51-4.‌doi:‌10.1016/j.ijantimicag.2012.03.006
+‌‌ 9）‌Ong‌V,‌Flanagan‌S,‌Fan g‌E,‌Dre skin‌H‌J,‌Loc ke‌J‌B,‌Bar tizal‌K,‌et‌al:‌Abs orption,‌dis tribution,‌met abolism,‌and‌exc retion‌
+of‌the‌novel‌antibacterial‌prodrug‌tedizolid‌phosphate.‌Drug‌Metab‌Dispos‌2014;‌42:‌1275-84.‌doi:‌10.1124/dmd.113.056697
+‌PO）‌e‌rK‌l‌r‌kK‌l‌cK‌o‌qK‌l‌s‌bK‌`‌g‌vK‌‌Y‌o‌‌‌‌L
+jects‌with‌renal‌or‌hepatic‌impairment.‌Antimicrob‌Agents‌Chemother‌2014;‌58:‌6471-6.‌doi:‌10.1128/AAC.03431-14
+‌11）‌Mikamo‌H,‌Takesue‌Y,‌Iwamoto‌Y,‌Tanigawa‌T,‌Kato‌M,‌Tanimura‌Y,‌et‌al:‌Efficacy,‌safety‌and‌pharmacokinetics‌of‌
+tedizolid‌versus‌linezolid‌in‌patients‌with‌skin‌and‌soft‌tissue‌infections‌in‌Japan‌-‌Results‌of‌a‌randomised,‌multicentre‌
+phase‌3‌study.‌J‌Infect‌Chemother‌2018;‌24:‌434-42.‌doi:‌10.1016/j.jiac.2018.01.010
+‌12）‌Flanagan‌S,‌McKee‌E‌E,‌Das‌D,‌Tulkens‌P‌M,‌Hosako‌H,‌Fiedler-Kelly‌J,‌et‌al:‌Nonclinical‌and‌pharmacokinetic‌assess-
+ments‌to‌evaluate‌the‌potential‌of‌tedizolid‌and‌linezolid‌to‌affect‌mitochondrial‌function.‌Antimicrob‌Agents‌Che-
+mother‌2015;‌59:‌178-85.‌doi:‌10.1128/AAC.03684-14
+‌13）‌Milosevic‌T‌V,‌Vertenoeil‌G,‌Payen‌V‌L,‌Sonveaux‌P,‌Tulkens‌P‌M,‌Constantinescu‌S‌N,‌et‌al:‌Prolonged‌inhibition‌and‌
+incomplete‌recovery‌of‌mitochondrial‌function‌in‌oxazolidinone-treated‌megakaryoblastic‌cell‌lines.‌Int‌J‌Antimicrob‌
+Agents‌2019;‌54:‌661-7.‌doi:‌10.1016/j.ijantimicag.2019.07.021
+（6）ダプトマイシン
+作用機序
+　保険適用上の使用は MRSAに限られているが，ブドウ球菌属，レンサ球菌，腸球菌，嫌気性グラム陽性球菌等に抗
+菌力を示す。その作用機序は，細胞膜に結合し，イオンチャネルを形成し，膜電位の脱分極を引き起こすことで細胞
+内のカリウムイオンを放出させる。これにより DNA，RNA，蛋白質の合成が阻害される
+1）
+。
+体内動態・組織移行
+　投与方法は1日1回30分間の点滴静注のほか，短時間かつ少ない液量で投与が可能なボーラス投与（緩徐に静脈内
+注射）も選択できる。
+　日本人健康成人に
+DAP‌4‌mg/kg および 6‌mg/kg を 1 日 1 回 30 分間で点滴静注した際の最高血中濃度は，それぞ
+れ 50～60‌μg/mL，75～85‌μg/mL 程度に達し，主に腎から排泄される
+2）
+。血中半減期は約V～PO?時間である
+3）
+。ボーラ
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 271
+[[p22]]
+ス投与の場合も体内動態に大きな違いはない
+4）
+。一方，小児に対して，敗血症ならびに深在性皮膚感染症等で用いられ
+る 1 回あたりの投与量は成人用量を超えている
+1）
+。小児は成人に比しDAP の半減期が短く，尿中排泄率が高いことが
+影響している
+5）
+。
+　DAPの皮膚や骨への組織移行は良好である
+6，7）
+。 糖尿病患者においても健康人と同様の組織移行が確認されている
+6）
+。
+ただし，肺サーファクタントと結合する性質があるため，肺炎に対して有効性を期待できない
+8）
+。
+安全性
+　腎機能への安全性は高く，全般的に良好な安全性プロファイルを有する
+S，X，PO）
+。
+　骨格筋への影響が知られているため，DAP 治療中は週 1 回以上の CK 値のモニタリングを行う
+4）
+。腎機能障害およ
+び HMG-CoA 還元酵素阻害薬の前治療または併用した患者ではさらに頻回にモニタリングする
+4，11）
+。DAP 治療中にお
+ける無症候性 CK 上昇への対処法として，1 日休薬期間を設ける治療戦略の検討が試みられている
+12）
+。
+　重大な副作用として，ショック，アナフィラキシー，横紋筋融解症，好酸球性肺炎，末梢性ニューロパシー，腎不
+全，偽膜性大腸炎が報告されている
+4）
+。
+文　献
+‌‌ 1）‌Heidary‌M,‌Khosravi‌A‌D,‌Khoshnood‌S,‌Nasiri‌M‌J,‌Soleimani‌S,‌Goudarzi‌M:‌Daptomycin.‌J‌Antimicrob‌Chemother‌2018;‌
+73:‌1-11.‌doi:‌10.1093/jac/dkx349
+‌‌ 2）‌Silverman‌J‌A,‌Perlmutter‌N‌G,‌Shapiro‌H‌M:‌Correlation‌of‌daptomycin‌bactericidal‌activity‌and‌membrane‌depolariza-
+tion‌in‌Staphylococcus‌aureus.‌Antimicrob‌Agents‌Chemother‌2003;‌47:‌2538-44.‌doi:‌10.1128/AAC.47.8.2538-2544.2003
+‌‌ 3）‌長谷川節雄，三木　恵，温　恵子，青木郁夫：ダプトマイシン（MK-3009）の第 I 相単回および反復静脈内投与試験。化
+療の領域　2011;‌27:‌2323-36
+‌‌?S）‌lrc：キュビシン静注用?RTO?添付文書。QOPT?年?PO?月改訂（第?T?版）
+‌‌ 5）‌Durand‌C,‌Brueckner‌A,‌Sampadian‌C,‌Willett‌K‌C,‌Belliveau‌P:‌Daptomycin‌use‌in‌pediatric‌patients.‌Am‌J‌Health‌Syst‌
+Pharm‌2014;‌71:‌1177-82.‌doi:‌10.2146/ajhp130601
+‌‌ 6）‌Kim‌A,‌Suecof‌L‌A,‌Sutherland‌C‌A,‌Gao‌L,‌Kuti‌J‌L,‌Nicolau‌D‌P:‌In‌vivo‌microdialysis‌study‌of‌the‌penetration‌of‌dap-
+tomycin‌into‌soft‌tissues‌in‌diabetic‌versus‌healthy‌volunteers.‌Antimicrob‌Agents‌Chemother‌2008;‌52:‌3941-6.‌doi:‌
+10.1128/AAC.00589-08
+‌‌ 7）‌Traunmüller‌F,‌Schintler‌M‌V,‌Metzler‌J,‌Spendel‌S,‌Mauric‌O,‌Popovic‌M,‌et‌al:‌Soft‌tissue‌and‌bone‌penetration‌abilities‌
+of‌daptomycin‌in‌diabetic‌patients‌with‌bacterial‌foot‌infections.‌J‌Antimicrob‌Chemother‌2010;‌65:‌1252-7.‌doi:‌10.1093/
+jac/dkq109
+‌‌ 8）‌Silverman‌J‌A,‌Mortin‌L‌I,‌Vanpraagh‌A‌D,‌Li‌T,‌Alder‌J:‌Inhibition‌of‌daptomycin‌by‌pulmonary‌surfactant:‌in‌vitro‌
+modeling‌and‌clinical‌impact.‌J‌Infect‌Dis‌2005;‌191:‌2149-52.‌doi:‌10.1086/430352
+‌‌ 9）‌Fowler‌V‌G‌Jr,‌Boucher‌H‌W,‌Corey‌G‌R,‌Abrutyn‌E,‌Karchmer‌A‌W,‌Rupp‌M‌E,‌et‌al:‌Daptomycin‌versus‌standard‌
+therapy‌for‌bacteremia‌and‌endocarditis‌caused‌by‌Staphylococcus‌aureus.‌N‌Engl‌J‌Med‌2006;‌355:‌653-65.‌doi:‌10.1056/
+NEJMoa053783
+‌PO）‌`‌q‌cK‌l‌cK‌s‌e‌oK‌b‌dK‌d‌a‌hK‌c‌XWLOP‌‌XXLOP‌hY‌s‌‌‌
+efficacy‌of‌daptomycin‌for‌the‌treatment‌of‌complicated‌skin‌and‌skin-structure‌infections.‌Clin‌Infect‌Dis‌2004;‌38:‌1673-
+81.‌doi:‌10.1086/420818
+‌11）‌Samura‌M,‌Hirose‌N,‌Kurata‌T,‌Takada‌K,‌Nagumo‌F,‌Koshioka‌S,‌et‌al:‌Identification‌of‌Risk‌Factors‌for‌Daptomycin-
+associated‌creatine‌phosphokinase‌elevation‌and‌development‌of‌a‌risk‌prediction‌model‌for‌incidence‌probability.‌Open‌
+Forum‌Infect‌Dis‌2021;‌8:‌ofab568.‌doi:‌10.1093/ofid/ofab568
+‌12）‌Burdette‌S‌D,‌Oleson‌F,‌McDaneld‌P‌M,‌Benziger‌D,‌Patel‌H‌N:‌Dosing‌strategy‌to‌allow‌continued‌therapy‌with‌dapto-
+mycin‌after‌asymptomatic‌increases‌in‌creatine‌kinase‌levels.‌Am‌J‌Health‌Syst‌Pharm‌2014;‌71:‌1101-7.‌doi:‌10.2146/
+ajhp130527
+CQ3．VCM の MIC が＞1 μg/mL の場合は DAP に変更すべきか
+推奨：MRSA菌血症において，VCM の MIC が＞1‌μg/mL の場合，VCM 使用例では菌血症の原因となった感染源の
+リスク評価を行ったうえで，DAP に変更することを弱く推奨する。
+　推奨の強さ：弱く推奨する
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3272
+[[p23]]
+　エビデンス総体の確実性：B（中程度）
+Executive summary
+1．‌‌バンコマイシン（VCM）の最小発育阻止濃度（MIC）が＞1‌μg/mL を示す MRSA による菌血症に対して，ダプ
+トマイシン（DAP）はVCMと比べて死亡率が有意に低く［オッズ比（OR）0.53，95％信頼区間（CI）0.29～0.98］，
+治療成功率が有意に高くなる（OR‌2.20，95％‌CI‌1.63～2.96）結果が得られた（エビデンス B）。
+2．‌‌感染源別に DAP と VCM の治療成功率を比較すると，low-risk‌sources 感染症（mortality＜10％，カテーテル関連
+血流感染等が原因）ではnq‌QMOR，XT％‌bh‌OMRU～PPMTQ，L‌?感染症（‌PO～QO％，骨関
+節感染等が原因）ではOR‌4.40，95％‌CI‌2.06～9.40，high-risk‌sources 感染症（mortality＞20％，心内膜炎等）で
+は OR‌2.22，95％‌CI‌0.98～5.04 となり，感染源により結果が異なった（エビデンス B）。
+3． ‌‌DAP は VCM と比べて CK 上昇の発現率が有意に高くなる結果が得られた（エビデンス A）。
+4． ‌‌DAP 投与期間中，通常は週 1 回の CK 値モニタリングを，スタチン系薬，抗ヒスタミン薬との併用，腎機能障害
+患者に高用量で投与する等CK上昇のリスク因子がある場合は週2回のCK値モニタリングを考慮する（エビデン
+ス B）。
+調査方法
+設定
+　P：Patients（患者） ：VCMの MIC が＞1
+‌μg/mL を示す MRSA による菌血症患者（18 歳以上）
+　I：Interventions（介入） ：VCM投与
+　C：Comparisons（比較対照） ：DAP投与
+　O：Outcomes（アウトカム） ：有効性（死亡率，治療成功率） ，安全性
+探索
+　2020 年5月12 日までのPubMed，
+Cochrane‌Library，Web‌of‌Science，ClinicalTrials.gov の各データベースについ
+て ，“Staphylococcus‌aureus” ，“methicillin-resistant‌Staphylococcus‌aureus” ，“acute‌bacterial‌skin‌and‌skin‌structure‌
+infection” ，“skin‌and‌skin‌structure‌infection” ，“complicated‌skin‌and‌skin‌structure‌infection” ，“skin‌and‌soft‌tissue‌
+infection”，“complicated‌skin‌and‌soft‌tissue‌infection”，“uncomplicated‌skin‌and‌soft‌tissue‌infection”，“endocardi-
+tis”，“infective‌endocarditis”，“infectious‌endocarditis”，“bacterial‌endocarditis”，“bacteremia”，“bacteraemia”，
+“bacillaemia”，“bacillemia”，“bloodstream‌ infection”，“daptomycin”，“lipopeptide”，“cubicin”，“vancomycin”，
+“teicoplanin”，“teichomycin”，“teicomycn”，“targocid”，“glycopeptide”で検索した後，重複論文を除外した。さ
+らに，review や症例報告は除外し，PICO に該当する文献のスクリーニングを実施した。
+結果
+　本 CQ で設定した PICO に該当した論文は
+RCT‌2 報（有効性，安全性の解析に組み込まれた） ，後ろ向き研究5 報
+であった（図 1） 。有効性評価には7 報，安全性評価には 4 報を用いてメタ解析を実施した。
+　VCM の MIC が＞1‌μg/mL の MRSA による菌血症患者に対して，DAP は VCM と比べて OR‌0.53，95％‌CI‌0.29～
+0.98 と有意に死亡率を低下させた（図 2） 。さらに，DAPは VCM と比べて OR‌2.20，95％‌CI‌1.63～2.96 と有意に治
+療成功率を上昇させた（図 3）。
+　感染源別に DAP と VCM の治療成功率を比較した。Low-risk‌ sources 感染症（mortality＜10％，カテーテル関連
+血流感染等が原因）では論文が 1 報しかなくメタ解析は実施できなかったが，その 1 報のみの解析で，DAP は VCM
+と比べて治療成功率が?nq‌QMOR，XT％‌bh‌OMRU～PPMTQ?であった。lL‌?感染症（‌PO～QO％，
+骨関節感染等が原因）では DAP は VCM と比べて OR‌4.40，95％‌CI‌2.06～9.40 と有意に治療成功率が高かった（図
+4a）。High-risk‌sources 感染症（mortality＞20％，心内膜炎等）では OR‌2.22，95％‌CI‌0.98～5.04 となり，DAP は
+VCM と比べて，治療成功率が高い傾向にあった（図 4b）。
+　一方，DAP は VCM と比べて OR‌ 5.13，95％‌ CI‌ 1.08～24.37 と CK（Moise‌ 2016 では＞500‌U/L，他の試験は‌
+＞1,000‌U/L）上昇の発現率が有意に高かった（図 5）。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 273
+[[p24]]
+ਤ 1.　ݙ1 ΑΓҾ༻վมʣ
+PubMed による
+検索結果
+（n＝1,799）
+重複論文 を 除 く 検索結果
+（n＝2,750）
+ス ク リ ー ニ ン グ対象論文
+（n＝2,750）
+論文の全文精査に よ る 適合性評価
+（n＝17）
+解析対象論文
+（n＝7）
+有効性評価の メ タ 解析に組み入れた試験
+（n＝7）＊
+安全性評価の
+メ タ 解析に組み入れた試験（n＝4）＊
+次に示す理由で除外（＝PO）：
+全患者が MRSA に よ る 感染症では な い（n＝2）
+ア ウ ト カ ム評価の詳細がない（n＝5）
+VCM の MIC＜＿1 μg/mL によるMRSA 感染症が含 ま れてい る （n＝3）
+ア ブ ス ト ラ ク ト の内容で本研究 と の関連性が低い と 判断 し たため除外（n＝2,733）
+＊4 試験は両解析に組み入れた
+論文検索解析対象論文 組み入れの
+適合性 ス クリー ニ ン グ
+Web of Science
+に よ る 検索結果
+（n＝2,071）
+Cochrane Library
+に よ る 検索結果
+（n＝105）
+ClinicalTrials.gov
+に よ る 検索結果
+（n＝15）
+ਤ 2.　VCM MICʼ1 μg/mL ʹΑΔ MRSAऀʹ͓͚Δ VCM ͱ DAPݙ1 ΑΓҾ༻վมʣ
+Moore 2012 5 59 24 118 19.8% 0.36［0.13, 1.01］ 2012
+Murray 2013 3 85 11 85 14.5% 0.25［0.07, 0.92］ 2013
+b?QOPR?S?QU?PO?TQ?PTMQD?OMVU［OMQPK?QMVQ］?QOPR
+Claeys 2016 8 131 20 131 23.5% 0.36［0.15, 0.85］ 2016
+Moise 2016 15 85 11 85 23.9% 1.44［0.62, 3.35］ 2016
+Kalimuddin 2018 0 7 1 7 3.1% 0.29［0.01, 8.39］ 2018
+Total (95% CI)  393  478 100.0% 0.53［0.29, 0.98］
+Total events 35  77
+Heterogeneity: Tau2＝0.23; Chi2＝8.42, df＝5 (p＝0.13); I2＝41%
+Test for overall eﬀect: Z＝2.03 (p＝0.04)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors DAP Favors VCM
+DAP Odds RatioVCM
+ਤ 3.　VCM MICʼ1 μg/mL ʹΑΔ MRSAऀʹ͓͚Δ VCM ͱ DAPݙ1 ΑΓҾ༻վมʣ
+Moore 2012 49 59 81 118 14.5% 2.24［1.02, 4.90］ 2012
+Murray 2013 68 85 44 85 19.2% 3.73［1.89, 7.36］ 2013
+Cheng 2013 16 26 19 52 9.4% 2.78［1.05, 7.34］ 2013
+Claeys 2016 93 131 72 131 34.0% 2.01［1.20, 3.34］ 2016
+Moise 2016 59 85 52 85 22.0% 1.44［0.76, 2.72］ 2016
+Cubist 2018 6 7 3 4 0.9% 2.00 ［0.09, 44.35］ 2018
+Total (95% CI)  393  475 100.0% 2.20［1.63, 2.96］
+Total events 291  271
+Heterogeneity: Tau2＝0.00; Chi2＝4.37, df＝5 (p＝0.50); I2＝0%
+Test for overall eﬀect: Z＝5.19 (p＜0.00001)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors VCM Favors DAP
+DAP Odds RatioVCM
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 32 74
+[[p25]]
+文　献
+‌‌ 1）‌‌‌Samura‌M,‌Kitahiro‌Y,‌Tashiro‌S,‌Moriyama‌H,‌Hamamura‌Y,‌Takahata‌I,‌et‌al:‌Efficacy‌and‌Safety‌of‌daptomycin‌versus‌
+vancomycin‌for‌bacteremia‌caused‌by‌methicillin-resistant‌Staphylococcus‌aureus‌with‌vancomycin‌minimum‌inhibitory‌
+concentration‌＞1‌μg/mL:‌a‌systematic‌review‌and‌meta-analysis.‌Pharmaceutics‌2022;‌14:‌714.‌doi:‌10.3390/pharmaceu-
+tics14040714
+CQ4．DAP の高用量投与（＞6 mg/kg）は必要か
+推奨：MRSA を含むブドウ球菌等による菌血症，感染性心内膜炎患者に対して，高用量投与（＞6‌mg/kg）は CK 上
+昇発現率を考慮したうえで，その投与を弱く推奨する。
+　推奨の強さ：弱く推奨する
+　エビデンス総体の確実性：B（中程度）
+Executive summary
+1
+．‌‌菌血症患者では，標準用量投与群（4～6‌mg/kg）と＞6‌mg/kg の高用量投与群間では有意な差はないものの標準
+用量投与群で治療成功率が低くなる傾向が示された（オッズ比［ OR］0.77，95％信頼区間［CI］0.57～1.03）。 ま
+た，標準用量投与群のほうが≧8‌mg/kg の高用量投与群と比べ OR‌0.63，95％‌CI‌0.44～0.92 と治療成功率が有意
+に低かった（エビデンス B）。
+2．‌‌複雑性菌血症および感染性心内膜炎患者では，標準用量投与群（4～6‌mg/kg）のほうが＞6‌mg/kg の高用量投与
+群と比べおのおの OR‌0.48，95％‌CI‌0.30～0.76 および OR‌0.50，95％‌CI‌0.30～0.82 と有意に治療成功率が低く，
+ਤ 4.　VCM MICʼ1 μg/mL ʹΑΔ MRSAผͷ VCM ͱ DAPֱ
+ʢaʣmoderate-risk sourcesɼʢbʣhigh-risk sourcesݙ1 ΑΓҾ༻վมʣ
+Moore 2012 17 19 27 38 21.8% 3.46 ［0.67, 17.57］ 2012
+Murray 2013 56 65 37 65 78.2% 4.71 ［2.00, 11.11］ 2013
+Total (95% CI)  84  103 100.0% 4.40［2.06, 9.40］
+Total events 73  64
+Heterogeneity: Tau2＝0.00; Chi2＝0.11, df＝I (p＝0.74); I2＝0%
+Test for overall eﬀect: Z＝3.83 (p＝0.0001)
+Moore 2012 21 27 35 54 59.2% 1.90［0.65, 5.51］ 2012
+Murray 2013 12 20 7 20 40.8% 2.79 ［0.77, 10.04］ 2013
+Total (95% CI)  47  74 100.0% 2.22［0.98, 5.04］
+Total events 33  42
+Heterogeneity: Tau2＝0.00; Chi2＝0.20, df＝I (p＝0.65); I2＝0%
+Test for overall eﬀect: Z＝1.91 (p＝0.06)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors VCM Favors DAP
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors VCM Favors DAP
+DAP Odds RatioVCM
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+DAP Odds RatioVCM
+（a）moderate-risk sources
+（b）high-risk sources
+ਤ 5.　VCM ͱ DAP ͷ CKݙ1 ΑΓҾ༻վมʣ
+Kalimuddin 2018 1 7 0 7 21.4% 3.46 ［0.12, 100.51］
+Cubist 2018 2 19 0 17 25.1% 5.00 ［0.22, 111.86］
+Moise 2016 2 85 0 85 26.1% 5.12 ［0.24, 108.25］
+Claeys 2016 3 131 0 131 27.4% 7.16 ［0.37, 140.07］
+Total (95% CI)  242  240 100.0% 5.13［1.08, 24.37］
+Total events 8  0
+Heterogeneity: Tau2＝0.00; Chi2＝0.10, df＝3 (p＝0.99); I2＝0%
+Test for overall eﬀect: Z＝2.06 (p＝0.04)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors DAP Favors VCM
+DAP Odds RatioVCM
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 275
+[[p26]]
+≧8‌mg/kg 投与群と比較した場合においてもおのおの OR‌ 0.38，95％‌ CI‌ 0.21～0.69 および OR‌ 0.30，95％‌ CI‌
+0.15～0.60 と有意に治療成功率が低かった（エビデンス B）。
+3．‌‌骨髄炎において，標準用量投与群と高用量投与群間で治療成功率に有意な差はなかった （エビデンス B）が，症例
+数が少なく，異物抜去の有無も不明な症例が多かったためさらなる検討が必要である。
+4． ‌‌CK 上昇の発生率は標準用量投与群のほうが高用量投与群と比べ OR‌ 0.42，95％‌ CI‌ 0.27～0.66 と有意に低かった
+（エビデンス B）。
+調査方法
+設定
+　P：Patients（患者） ：MRSAを含むグラム陽性球菌感染症の成人患者
+　I：Interventions（介入） ：DAPの標準用量投与（4～6
+‌mg/kg）
+　C：Comparisons（比較対照） ：DAPの高用量投与（＞6‌mg/kg または≧8‌mg/kg）
+　O： ‌‌Outcomes（アウトカム） ：DAPの有効性（菌血症，複雑性菌血症，感染性心内膜炎，骨髄炎） ，安全性
+探索
+　2022 年 8 月 8 日までの PubMed，
+Cochrane‌Library，Web‌of‌Science，ClinicalTrials.gov の各データベースについ
+て ，“daptomycin”，“dose”，“dosage”，“methicillin-resistant‌Staphylococcus‌aureus”，“MRSA”，“Staphylococcus‌
+aureus”，“cubicin‌outcomes‌registry‌and‌experience”，“CORE”，“European‌cubicin‌outcomes‌registry‌and‌experi-
+ence”，“EU-CORE”で検索した後，重複論文を除外した。さらに， review や症例報告は除外し，PICO に該当する
+文献のスクリーニングを実施した
+1）
+。
+結果
+　本 CQ で設定した PICO に該当した論文は
+RCT‌1 報（有効性，安全性の解析に組み込まれた） ，後ろ向き研究5 報
+であった（図1）
+2～7）
+。有効性評価には6 報，安全性評価には3 報を用いてメタ解析を実施した。なお，複雑性感染症に
+は感染性心内膜炎患者，埋め込み型の人工物のある患者，遠隔感染巣のある患者を含めた。
+　図2に標準用量投与群（4～6
+‌mg/kg）と＞6‌mg/kgの高用量投与群における治療成功率を比較した結果を示す。菌
+血症では 4～6‌mg/kg のほうが＞6‌mg/kg と比べ OR‌0.77，95％‌CI‌0.57～1.03 と有意差はないものの，低くなる傾向
+が示された（図2a） 。複雑性菌血症，感染性心内膜炎では，4～6‌mg/kgのほうが＞6‌mg/kgと比べそれぞれOR‌0.48，
+95％‌CI‌0.30～0.76，OR‌0.50，95％‌CI‌0.30～0.82 と有意に低かった（図2b，c） 。骨髄炎では，4～6‌mg/kg と＞6‌mg/
+kg の両群間において OR‌0.87，95％‌CI‌0.47～1.61 と有意な差はなかった（図 2d）。
+ਤ 1.　͢Δϑϩʔνϟʔτ
+論文検索ス クリー ニ ン グ解析対象論文 組み入れの
+適合性
+PubMed による
+検索結果
+（n＝560）
+Web of Science
+に よ る 検索結果
+（n＝798）
+Cochrane Library
+に よ る 検索結果
+（n＝56）
+ClinicalTrials.gov
+に よ る 検索結果
+（n＝129）
+重複論文 を 除 く 検索結果
+（n＝1,011）
+ス ク リ ー ニ ン グ対象論文
+（n＝1,011）
+論文の全文精査に よ る 適合性評価
+（n＝117）
+有効性評価の メ タ 解析に組み入れた試験（n＝6）＊および
+安全性評価の メ タ 解析に組み入れた試験（n＝3）＊
+＊3 試験は両解析に組み入れた
+次に示す理由で除外（n＝111）：
+投与量に基づ く 比較 を 行 っ てい な い（n＝50）
+投与量に関す る 詳細がな い（n＝21）
+ダ プ ト マ イ シ ン と 他剤の比較（n＝15）
+本試験の基準 と は異な る 投与量での比較（n＝13）
+投与量別の比較に関す る 詳細がな い（n＝6）
+有効性が評価 さ れてい な い（n＝3）
+他の試験 と 患者が重複 し てい る 可能性があ る （n＝3）
+ア ブ ス ト ラ ク ト の内容で本研究 と の関連性が低い と 判断 し たため除外（n＝894）
+Samura M, Takada K, Hirose N, et al., Comparison of the efficacy and safety of standard- and high-dose daptomycin: A systematic review and meta-analysis.  
+Copyright © 2023 The Authors. Published by John Wiley & Sons Ltd on behalf of British Pharmacological Society. Reproduced with permission of John Wiley & 
+Sons Ltd.
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3276
+[[p27]]
+　図3に標準用量投与群（4～6‌mg/kg）と≧8‌mg/kgの高用量投与群における治療成功率を比較した結果を示す。菌
+血症，複雑性菌血症，感染性心内膜炎では， 4～6‌mg/kg のほうが≧8‌mg/kg と比べそれぞれ OR‌ 0.63，95％‌ CI‌
+0.44～0.92，OR‌0.38，95％‌CI‌0.21～0.69，OR‌0.30，95％‌CI‌0.15～0.60 と有意に低かった（図 3a，b，c） 。骨髄炎で
+は，4～6‌mg/kg と≧8‌mg/kg の両群間において OR‌1.15，95％‌CI‌0.54～2.47 と有意な差はなかった（図 3d）。
+　図 4 に標準用量投与群（4～6‌mg/kg）と＞6‌mg/kg の高用量投与群における CK 上昇発現率を比較した結果を示
+す。DAP の 4～6‌mg/kg は＞6‌mg/kg と比べ OR‌0.42，95％‌CI‌0.27～0.66 と CK 上昇の発現率が有意に低かった。
+ਤ 2.　ʢa঱ɼ ʢb঱ɼ ʢcછੑ৺಺ບԌɼ ʢdऀʹର͢Δ DAP ͷ 4 ʙ 6 mg/kg ͱʼ6 mg/kg
+ֱ
+Samura M, Takada K, Hirose N, et al., Comparison of the efficacy and safety of standard- and high-dose daptomycin:  A systematic review and meta-analy-
+sis. Copyright © 2023 The Authors. Published by John Wiley & Sons Ltd on behalf of British Pharmacological Society. Reproduced with permission of John 
+Wiley & Sons Ltd.
+（c）感染性心内膜炎
+（a）菌血症
+（b）複雑性菌血症
+（d）骨髄炎
+Bassetti 2010 13 17 22 24 2.6% 0.30 ［0.05, 1.84］ 2010
+Lai 2012 17 21 4 4 0.9% 0.43 ［0.02, 9.59］ 2012
+Seaton 2015 932 1,198 293 359 96.5% 0.79 ［0.58, 1.07］ 2015
+Total (95% CI)  1,236  387 100.0% 0.77 ［0.57, 1.03］
+Total events 962  319
+Heterogeneity: Tau
+2＝0.00; Chi2＝1.21, df＝2 (p＝0.55); I2＝0%
+Test for overall eﬀect: Z＝1.78 (p＝0.07)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors HD Favors SD
+SD Odds RatioHD
+Bassetti 2010 4 7 15 17 4.9% 0.18 ［0.02, 1.45］ 2010
+Lai 2012 4 8 3 3 2.1% 0.14 ［0.01, 3.64］ 2012
+Seaton 2015 299 383 173 198 93.0% 0.51 ［0.32, 0.83］ 2015
+Total (95% CI)  398  218 100.0% 0.48 ［0.30, 0.76］
+Total events 307  191
+Heterogeneity: Tau2＝0.00; Chi2＝1.47, df＝2 (p＝0.48); I2＝0%
+Test for overall eﬀect: Z＝3.12 (p＝0.002)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors HD Favors SD
+SD Odds RatioHD
+Bassetti 2010 2 4 8 9 3.1% 0.13 ［0.01, 2.18］ 2010
+Lai 2012 4 8 3 3 2.4% 0.14 ［0.01, 3.64］ 2012
+Guleri 2015 335 426 144 165 94.6% 0.54 ［0.32, 0.90］ 2015
+Total (95% CI)  438  177 100.0% 0.50 ［0.30, 0.82］
+Total events 341  155
+Heterogeneity: Tau2＝0.00; Chi2＝1.55, df＝2 (p＝0.46); I2＝0%
+Test for overall eﬀect: Z＝2.74 (p＝0.006)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors HD Favors SD
+Favors SD
+SD Odds RatioHD
+Bassetti 2010 1 2 2 2 2.7% 0.20 ［0.00, 8.82］ 2010
+Byren 2012 14 24 14 23 28.1% 0.90 ［0.28, 2.89］ 2012
+Lai 2012 5 6 6 6 3.3% 0.28 ［0.01, 8.42］ 2012
+Seaton 2013 130 174 34 45 65.9% 0.96 ［0.45, 2.05］ 2013
+Total (95% CI)  206  76 100.0% 0.87 ［0.47, 1.61］
+Total events 150  56
+Heterogeneity: Tau2＝0.00; Chi2＝1.06, df＝3 (p＝0.79); I2＝0%
+Test for overall eﬀect: Z＝0.46 (p＝0.65)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors HD
+SD Odds RatioHD
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 277
+[[p28]]
+ਤ 3.　ʢa঱ɼ ʢb঱ɼ ʢcછੑ৺಺ບԌɼ ʢdऀʹର͢Δ DAP ͷ 4 ʙ 6 mg/kg ͱʾ8 mg/kg
+ֱ
+（b）複雑性菌血症
+（c）感染性心内膜炎
+（d）骨髄炎
+（a）菌血症
+Lai 2012 17 21 4 4 1.4% 0.43 ［0.02, 9.59］ 2012
+Seaton 2015 932 1,198 204 241 98.6% 0.64 ［0.44, 0.93］ 2015
+Total (95% CI)  1,219  245 100.0% 0.63 ［0.44, 0.92］
+Total events 949  208
+Heterogeneity: Tau2＝0.00; Chi2＝0.06, df＝1 (p＝0.81); I2＝0%
+Test for overall eﬀect: Z＝2.41 (p＝0.02)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors HD2 Favors SD
+SD Odds RatioHD2
+Lai 2012 4 8 3 3 3.3% 0.14 ［0.01, 3.64］ 2012
+Seaton 2015 299 383 126 140 96.7% 0.40 ［0.22, 0.72］ 2015
+Total (95% CI)  391  143 100.0% 0.38 ［0.21, 0.69］
+Total events 303  129
+Heterogeneity: Tau2＝0.00; Chi2＝0.37, df＝1 (p＝0.54); I2＝0%
+Test for overall eﬀect: Z＝3.18 (p＝0.001)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors HD2 Favors SD
+OMOP?OMP?P?PO?POO
+Favors HD2 Favors SD
+SD Odds RatioHD2
+Lai 2012 4 8 3 3 4.7% 0.14 ［0.01, 3.64］ 2012
+Guleri 2015 335 426 107 116 95.3% 0.31 ［0.15, 0.64］ 2015
+Total (95% CI)  434  119 100.0% 0.30 ［0.15, 0.60］
+Total events 339  110
+Heterogeneity: Tau2＝0.00; Chi2＝0.21, df＝1 (p＝0.65); I2＝0%
+Test for overall eﬀect: Z＝3.38 (p＝0.0007)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors HD2 Favors SD
+SD Odds RatioHD2
+Lai 2012 5 6 6 6 5.0% 0.28 ［0.01, 8.42］ 2012
+Byren 2012 14 24 14 23 42.6% 0.90 ［0.28, 2.89］ 2012
+Seaton 2013 130 174 11 17 52.4% 1.61 ［0.56, 4.61］ 2013
+Total (95% CI)  204  46 100.0% 1.15 ［0.54, 2.47］
+Total events 149  31
+Heterogeneity: Tau2＝0.00; Chi2＝1.23, df＝2 (p＝0.54); I2＝0%
+Test for overall eﬀect: Z＝0.36 (p＝0.72)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+Odds Ratio
+M-H, Random, 95% CI
+SD Odds RatioHD2
+Samura M, Takada K, Hirose N, et al., Comparison of the efficacy and safety of standard- and high-dose daptomycin: A systematic review and meta-analysis. 
+Copyright © 2023 The Authors. Published by John Wiley & Sons Ltd on behalf of British Pharmacological Society. Reproduced with permission of John Wiley 
+& Sons Ltd.
+ਤ 4.　DAP ͷ 4 ʙ 6 mg/kg ͱʼ6 mg/kg ༻ྔʹ͓͚Δ CKֱ
+Bassetti 2010 0 22 1 31 1.9% 0.45 ［0.02, 11.61］ 2010
+Byren 2012 4 25 5 24 9.4% 0.72 ［0.17, 3.10］ 2012
+Seaton 2015 49 4,892 27 1,097 88.7% 0.40 ［0.25, 0.64］ 2015
+Total (95% CI)  4,939  1,152 100.0% 0.42 ［0.27, 0.66］
+Total events 53  33
+Heterogeneity: Tau2＝0.00; Chi2＝0.58, df＝2 (p＝0.75); I2＝0%
+Test for overall eﬀect: Z＝3.76 (p＝0.0002)
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+OMOP?OMP?P?PO?POO
+Odds Ratio
+M-H, Random, 95% CI
+Favors SD Favors HD
+SD Odds RatioHD
+Samura M, Takada K, Hirose N, et al., Comparison of the efficacy and safety of standard- and high-dose daptomycin:  A systematic review and meta-analysis. 
+Copyright © 2023 The Authors. Published by John Wiley & Sons Ltd on behalf of British Pharmacological Society. Reproduced with permission of John Wiley 
+& Sons Ltd.
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3278
+[[p29]]
+文　献
+‌‌ 1）‌Samura‌M,‌Takada‌K,‌Hirose‌N,‌Kurata‌T,‌Nagumo‌F,‌Uchida‌M,‌et‌al:‌Comparison‌of‌the‌efficacy‌and‌safety‌of‌standard-‌
+and‌high-dose‌daptomycin:‌a‌systematic‌review‌and‌meta-analysis.‌Br‌J‌Clin‌Pharmacol‌2023;‌89:‌1291-303.‌doi:‌10.1111/
+bcp.15671
+‌‌ 2）‌Bassetti‌M,‌Nicco‌E,‌Ginocchio‌F,‌Ansaldi‌F,‌de‌Florentiis‌D,‌Viscoli‌C:‌High-dose‌daptomycin‌in‌documented‌Staphylococ-
+cus‌aureus‌infections.‌Int‌J‌Antimicrob‌Agents‌2010;‌36:‌459-61.‌doi:‌10.1016/j.ijantimicag.2010.07.011
+‌‌ 3）‌Byren‌I,‌Rege‌S,‌Campanaro‌E,‌Yankelev‌S,‌Anastasiou‌D,‌Kuropatkin‌G,‌et‌al:‌Randomized‌controlled‌trial‌of‌the‌safety‌
+and‌efficacy‌of‌Daptomycin‌versus‌standard-of-care‌therapy‌for‌management‌of‌patients‌with‌osteomyelitis‌associated‌
+with‌prosthetic‌devices‌undergoing‌two-stage‌revision‌arthroplasty.‌Antimicrob‌Agents‌Chemother‌2012;‌56:‌5626-32.‌
+doi:‌10.1128/AAC.00038-12
+‌‌ 4）‌Lai‌C‌C,‌Sheng‌W‌H,‌Wang‌J‌T,‌Liao‌C‌H,‌Ho‌M‌W,‌Chen‌C‌J,‌et‌al:‌Safety‌and‌efficacy‌of‌daptomycin‌for‌the‌treatment‌
+of‌hospitalized‌adult‌patients‌in‌Taiwan‌with‌severe‌staphylococcal‌infections.‌J‌Microbiol‌Immunol‌Infect‌2012;‌45:‌52-7.‌
+doi:‌10.1016/j.jmii.2011.09.018
+‌‌ 5）‌Seaton‌R‌A,‌Malizos‌K‌N,‌Viale‌P,‌Gargalianos-Kakolyris‌P,‌Santantonio‌T,‌Petrelli‌E,‌et‌al:‌Daptomycin‌use‌in‌patients‌
+with‌osteomyelitis:‌a‌preliminary‌report‌from‌the‌EU-CORE‌(SM)‌database.‌J‌Antimicrob‌Chemother‌2013;‌68:‌1642-9.‌
+doi:‌10.1093/jac/dkt067
+‌‌ 6）‌Seaton‌R‌A,‌Menichetti‌F,‌Dalekos‌G,‌Beiras-Fernandez‌A,‌Nacinovich‌F,‌Pathan‌R,‌et‌al:‌Evaluation‌of‌effectiveness‌and‌
+safety‌of‌high-dose‌daptomycin:‌results‌from‌patients‌included‌in‌the‌European‌Cubicin
+Ⓡ
+‌Outcomes‌Registry‌and‌experi-
+ence.‌Adv‌Ther‌2015;‌32:‌1192-205.‌doi:‌10.1007/s12325-015-0267-4
+‌‌ 7）‌Guleri‌A,‌Utili‌R,‌Dohmen‌P,‌Petrosillo‌N,‌Piper‌C,‌Pathan‌R,‌et‌al:‌Daptomycin‌for‌the‌treatment‌of‌infective‌endocarditis:‌
+results‌from‌European‌Cubicin
+Ⓡ
+‌Outcomes‌Registry‌and‌experience‌(EU-CORE).‌Infect‌Dis‌Ther‌2015;‌4:‌283-96.‌doi:‌
+10.1007/s40121-015-0075-9
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 279
+[[p30]]
+V．疾患別抗 MRSA 薬の選択と使用
+１．呼吸器感染症
+Executive summary
+診　断
+1
+．‌‌肺炎患者の胸部 X 線写真で空洞，肺化膿症，膿胸等の壊死性肺炎の所見があれば，原因菌の一つとしてMRSA を
+含めた黄色ブドウ球菌を疑う（B-II）。
+2．‌‌市中感染型 MRSA（CA-MRSA）による市中肺炎症例にも注意が必要である（C-II）。
+3．‌‌過去に MRSA の感染歴がある場合，過去 90 日以内に入院での経静脈的抗菌薬投与歴がある場合には MRSA を原
+因菌の一つとして考慮する（B-II）。
+4．‌‌品質の良い喀痰や気管内採取痰を用いたグラム染色で，ブドウ球菌が確認され ，貪食像が認められた場合には
+MRSA を原因菌の一つとして疑う（C-II）。
+5．‌‌呼吸器検体から MRSA が分離されても必ずしも原因菌とはいえない（B-II）。
+6． ‌‌MRSA が喀痰から培養され，かつ血液培養が陽性であれば肺炎の原因菌と考えられる（B-II）。
+治　療
+1
+． ‌‌MRSA 肺炎の治療には，第一選択薬としてリネゾリド（LZD）（A-I）またはバンコマイシン（VCM）（A-I）， テ イ
+コプラニン（TEIC）（A-II）を選択し，本ガイドラインの推奨する投与法で開始する。特定の患者集団に対しては
+LZD の臨床効果が優れている。
+2．‌‌第二選択薬としてアルベカシン（ABK）（B-II）も選択される。
+3．‌‌ダプトマイシン（DAP）は MRSA 肺炎に適応がない。
+4．‌‌慢性気道感染症の二次感染に対しては TEIC のみ保険適用を有する。
+5．‌‌治療期間は通常は少なくとも 5～7 日以上とし，合併する病態に応じ長期の治療を考慮する（C-III）。
+6．‌‌肺炎症例の喀痰から MRSA のみが単独で分離された場合には抗 MRSA 薬投与の必要性を検討してもよい（C-II）。
+CQ5．肺炎症例の喀痰から MRSA が分離されたら抗 MRSA 薬を投与すべきか
+推奨：一律には投与しないことを提案するが，MRSA のみが単独で検出された肺炎では抗 MRSA 薬投与の必要性を
+検討してもよい。
+推奨の強さ：実施しないことを弱く推奨する
+エビデンス総体の確実性：D（非常に弱い）
+Executive summary
+1
+．‌‌肺炎症例の喀痰からMRSAが分離された場合に， 抗MRSA薬を投与することによる死亡率改善効果は認めなかっ
+た（エビデンス D）。
+2．‌‌観察研究においては，MRSA のみが単独で検出された場合に抗 MRSA 薬が投与されていた（エビデンス C）。
+調査方法
+設定
+　P
+： ‌‌Patients（患者）‌
+年齢：成人，国籍・人種は問わない‌
+病態：肺炎（市中肺炎，院内肺炎等問わない）‌
+対象：気道検体から MRSA が検出された患者
+　I：Interventions（介入） ：抗MRSA 薬投与（種類は問わない）
+　C：Comparisons（比較対照） ：抗MRSA 薬非投与
+　O
+： ‌‌Outcomes（アウトカム）‌
+　死亡率　　重要度 9‌
+　有害事象　　重要度 5
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3280
+[[p31]]
+探索
+　2021 年 12 月までの PubMed，Cochrane‌database，医中誌の各データベースについて， “pneumonia”，“MRSA”，
+“methicillin-resistant‌Staphylococcus‌aureus”，“pathogenicity”，“positive‌culture”で検索した後， “anti-MRSA”，
+“treatment”で絞り込みを行った。Review や症例報告は除外し，PICO に該当する文献のスクリーニングを実施し
+た。スクリーニング後の論文から，上記では検索できなかったが PICO に該当する文献を追加した。
+結果
+　肺炎症例の気道検体から MRSA が検出された症例に対し，抗 MRSA 薬の使用是非について検討した RCT は認め
+なかった。一方で，MRSA が検出された肺炎症例に対し抗 MRSA 薬の有無を比較した観察研究が 4 篇
+1～4）
+検索され，
+community-acquired‌ pneumonia が 1 篇
+1）
+，healthcare-associated‌ pneumonia が 1 篇
+2）
+，hospital-acquired‌ pneumonia
+（ventilator-associated‌pneumonia 含む）が 2 篇
+3，4）
+であり，これらを解析対象とした。
+　これらの論文のうち2篇
+1，3）
+は抗MRSA薬が投与された場合，されなかった場合の予後を比較する研究であり，残り
+の 2 篇
+2，4）
+は検出された MRSA に対し，抗 MRSA 薬で病態が改善した群（真の MRSA 肺炎）と抗 MRSA 薬以外で病
+態が改善した群（保菌：colonization）についての観察研究である。それぞれ組入基準は異なるものの，いずれも気道
+検体から検出された MRSA に対する抗 MRSA 薬の投与有無による経過を比較したものである。
+文　献
+1 ）‌Goto‌A,‌Komiya‌K,‌Yamasue‌M,‌Yoshikawa‌H,‌Umeki‌K,‌Hiramatsu‌K,‌et‌al:‌Methicillin-resistant‌Staphylococcus‌aureus‌
+among‌ elderly‌ patients‌ with‌ community-acquired‌ pneumonia.‌ J‌ Infect‌ Chemother‌ 2022;‌ 28:‌ 1138-42.‌ doi:‌ 10.1016/j.
+jiac.2022.04.012.‌Epub‌2022‌Apr‌15
+2 ）‌Enomoto‌Y,‌Yokomura‌K,‌Hasegawa‌H,‌Ozawa‌Y,‌Matsui‌T,‌Suda‌T:‌Healthcare-associated‌pneumonia‌with‌positive‌
+respiratory‌methicillin-resistant‌Staphylococcus‌aureus‌culture:‌Predictors‌of‌the‌true‌pathogenicity.‌Geriatr‌Gerontol‌
+Int‌2017;‌17:‌456-62.‌doi:‌10.1111/ggi.12739.‌Epub‌2016‌Feb‌5
+3 ）‌Sakaguchi‌M,‌Shime‌N,‌Fujita‌N,‌Fujiki‌S,‌Hashimoto‌S:‌Current‌problems‌in‌the‌diagnosis‌and‌treatment‌of‌hospital-
+acquired‌ methicillin-resistant‌Staphylococcus‌ aureus‌ pneumonia.‌ J‌ Anesth‌ 2008;‌ 22:‌ 125-30.‌ doi:‌ 10.1007/s00540-007-
+0600-4
+4 ）‌Nagaoka‌K,‌Yanagihara‌K,‌Harada‌Y,‌Yamada‌K,‌Migiyama‌Y,‌Morinaga‌Y,‌et‌al:‌Predictors‌of‌the‌pathogenicity‌of‌
+methicillin-resistant‌Staphylococcus‌aureus‌nosocomial‌pneumonia.‌Respirology‌2014;‌19:‌556-62.‌doi:‌10.1111/resp.12288
+CQ6．MRSA 肺炎では LZD を第一選択とすべきか
+推奨：MRSA 肺炎では LZD を第一選択とすることを提案する。
+推奨の強さ：弱く推奨する（提案する）
+エビデンス総体の確実性：B（中程度）
+Executive summary
+1
+． ‌‌MRSA 肺炎確定例では，リネゾリド（LZD）投与例はバンコマイシン（VCM）投与例と比較して死亡率の差はな
+いが，より臨床的改善および微生物学的改善が期待されるため，第一選択となりうる（エビデンス B）。
+2．‌‌実臨床において，LZD 投与例は VCM 投与例と比較して血小板減少に一定の注意が必要であるが，腎毒性に関す
+る安全性が期待される（エビデンス C）。
+調査方法
+設定
+P
+： ‌‌Patients（患者）‌
+年齢：成人（日本人以外を含む）‌
+病態：MRSA 肺炎（市中肺炎，院内肺炎等問わない）‌
+対象：‌‌唾液，気管支肺胞洗浄液， または経胸腔吸引検体といった複数検体によって，確定診断されたMRSA 肺
+炎患者
+I：Interventions（介入） ：LZD投与
+C： ‌‌Comparisons（比較対照）‌
+　VCM 投与例
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 281
+[[p32]]
+　O：Outcomes（アウトカム）
+治療成功率（死亡率，臨床的治癒率，除菌率）重要度 9
+死亡率はあらゆる死因による院内死亡率と定義，臨床的治癒は画像所見等による肺炎感染の症状および徴候
+の回復と定義
+微生物学的効果は除菌率：MRSA 未検出となった割合と定義
+有害事象（血小板減少症，腎毒性）重要度 7
+血小板数（15 万/
+μL 未満，またはベースライン血小板数から 50％の減少と定義）
+腎毒性（Cr‌0.5‌mg/mL の増加またはベースラインから 50％の増加と定義）
+探索
+　2019 年 11 月までの EMBASE，CINAHL，
+Cochrane‌Central‌Register‌of‌Controlled‌Trials（CENTRAL）および
+PubMed の各データベースを ‘vancomycin’，‘methicillin-resistant‌Staphylococcus‌aureus’，and‌‘pneumonia’ で検索し
+た。
+結果
+　15 件の研究が選択基準を満たし，メタ解析された
+1）
+。内訳は，下記のとおりである。
+・ ‌‌Randomized‌controlled‌trial（RCT）7 件
+2～8）
+，cohort‌study または case-control‌study（CS）8 件
+9～16）
+であった。
+・‌‌実施地域はアジア 4 件
+2～4，16）
+，北米 9 件
+2，3，5，9～13，15）
+，南米 4 件
+2，3，5，9）
+，欧州 3 件
+2，3，9）
+，アフリカ 2 件
+3，9）
+，オセアニア 2
+件
+3，9）
+であった。
+・‌‌症例数は 7 件の RCT から 1,239 例，8 件の CS から 6,125 例の患者データが抽出された。そのうち RCT で VCM
+投与患者は 622 例，一方 LZD 投与患者は 617 例であった。CS では VCM 投与患者は 5,458 例，LZD 投与患者は
+667 例であった。
+・‌‌肺炎の種類は市中肺炎
+9）
+，院内肺炎
+2～4，6，8，12，15）
+，医療・介護関連肺炎
+8，9）
+，人工呼吸器関連肺炎
+R，T，V，W，PO，PP，PR，PT）
+であった。
+　7 件の RCT のうち 1 研究，8 件の CS のうちの 5 研究では，VCM のトラフ濃度が報告されていた
+Q，X，PO，PR，PT，PU）
+。
+文　献
+1 ）‌Kato‌H,‌Hagihara‌M,‌Asai‌N,‌Shibata‌Y,‌Koizumi‌Y,‌Yamagishi‌Y,‌et‌al:‌Meta-analysis‌of‌vancomycin‌versus‌linezolid‌in‌
+pneumonia‌with‌proven‌methicillin-resistant‌Staphylococcus‌aureus.‌J‌Glob‌Antimicrob‌Resist‌2021;‌24:‌98-105.‌doi:‌
+10.1016/j.jgar.2020.12.009
+2 ）‌Stevens‌D‌L,‌Herr‌D,‌Lampiris‌H,‌Hunt‌J‌L,‌Batts‌D‌H,‌Hafkin‌B:‌Linezolid‌versus‌vancomycin‌for‌the‌treatment‌of‌
+methicillin-resistant‌Staphylococcus‌aureus‌infections.‌Clin‌Infect‌Dis‌2002;‌34:‌1481-90.‌doi:‌10.1086/340353
+3 ）‌Wunderink‌R‌G,‌Rello‌J,‌Cammarata‌S‌K,‌Croos-Dabrera‌R‌V,‌Kollef‌M‌H:‌Linezolid‌vs‌vancomycin:‌analysis‌of‌two‌dou-
+ble-blind‌studies‌of‌patients‌with‌methicillin-resistant‌Staphylococcus‌aureus‌nosocomial‌pneumonia.‌Chest‌2003;‌124:‌
+1789-97.‌PMID:‌14605050
+4 ）‌Kohno‌S,‌Yamaguchi‌K,‌Aikawa‌N,‌Sumiyama‌Y,‌Odagiri‌S,‌Aoki‌N,‌et‌al:‌Linezolid‌versus‌vancomycin‌for‌the‌treat-
+ment‌of‌infections‌caused‌by‌methicillin-resistant‌Staphylococcus‌aureus‌in‌Japan.‌J‌Antimicrob‌Chemother‌2007;‌60:‌
+1361-9.‌doi:‌10.1093/jac/dkm369
+5 ）‌Wunderink‌R‌G,‌Mendelson‌M‌H,‌Somero‌M‌S,‌Fabian‌T‌C,‌May‌A‌K,‌Bhattacharyya‌H,‌et‌al:‌Early‌microbiological‌
+response‌ to‌ linezolid‌ vs‌ vancomycin‌ in‌ ventilator-associated‌ pneumonia‌ due‌ to‌ methicillin-resistant‌Staphylococcus‌
+aureus.‌Chest‌2008;‌134:‌1200-7.‌doi:‌10.1378/chest.08-0011
+6 ）‌Bassetti‌M,‌Kett‌D,‌Puttagunta‌S,‌Scerpella‌E,‌Biswas‌P,‌Huang‌D:‌P1536.‌Linezolid‌versus‌vancomycin‌in‌the‌treatment‌
+of‌healthcare-associated‌pne umonia‌cau sed‌by‌cu lture-proven‌met hicillin-resistant‌Staphylococcus‌au reus.‌Clin‌Microbiol‌
+Infect‌2011;‌17‌(suppl‌4):‌439.‌Posters‌(clinicalmicrobiologyandinfection.com)‌
+7 ）‌Shorr‌A‌F,‌Huang‌D‌B,‌Wunderink‌R‌G,‌Chastre‌J‌E,‌Kollef‌M,‌Niederman‌M‌S:‌Linezolid‌vs.‌vancomycin‌for‌ventilator-
+associated‌pneumonia‌caused‌by‌methicillin-resistant‌Staphylococcus‌aureus.‌Am‌J‌Respir‌Crit‌Care‌Med‌2011;‌183:‌
+A3931.‌https://doi.org/10.1164/ajrccm-conference.2011.183.1_MeetingAbstracts.A3931
+8 ）‌Wunderink‌R‌G,‌Niederman‌M‌S,‌Kollef‌M‌H,‌Shorr‌A‌F,‌Kunkel‌M‌J,‌Baruch‌A,‌et‌al:‌Linezolid‌in‌methicillin-resistant‌
+Staphylococcus‌ aureus‌ nosocomial‌ pneumonia:‌ a‌ randomized,‌ controlled‌ study.‌ Clin‌ Infect‌ Dis‌ 2012;‌ 54:‌ 621-9.‌ doi:‌
+10.1093/cid/cir895
+9 ）‌Kollef‌K‌E,‌Reichley‌R‌M,‌Micek‌S‌T,‌Kollef‌M‌H:‌The‌modified‌APACHE‌II‌score‌outperforms‌Curb65‌pneumonia‌
+severity‌score‌as‌a‌pr edictor‌of‌30 -day‌mo rtality‌in‌pa tients‌wi th‌me thicillin-resistant‌Staphylococcus‌au reus‌pneumonia.‌
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3282
+[[p33]]
+Chest‌2008;‌133:‌363-9.‌doi:‌10.1378/chest.07-1825
+PO）‌b‌i‌cK‌o‌s‌mK‌v‌iK‌g‌lK‌b‌iK‌m‌lK‌‌Y‌b‌‌‌‌‌‌‌
+methicillin-resistant‌Staphylococcus‌aureus‌ventilator-associated‌pneumonia:‌retrospective‌analysis.‌J‌Intensive‌Care‌
+Med‌2011;‌26:‌385-91.‌doi:‌10.1177/0885066610392893
+11）‌Gonzalez‌R‌P,‌Rostas‌J,‌Simmons‌J‌D,‌Allen‌J,‌Frotan‌M‌A,‌Brevard‌S‌B:‌Improved‌outcome‌of‌ventilator-associated‌
+pneumonia‌caused‌by‌methicillin-resistant‌Staphylococcus‌aureus‌in‌a‌trauma‌population.‌Am‌J‌Surg‌2013;‌205:‌255-8.‌
+doi:‌10.1016/j.amjsurg.2012.10.011
+12）‌Caffrey‌A‌R,‌Morrill‌H‌J,‌Puzniak‌L‌A,‌Laplante‌K‌L:‌Comparative‌effectiveness‌of‌linezolid‌and‌vancomycin‌among‌a‌
+national‌veterans‌affairs‌cohort‌with‌methicillin-resistant‌Staphylococcus‌aureus‌pneumonia.‌Pharmacotherapy‌2014;‌34:‌
+473-80.‌doi:‌10.1002/phar.1390
+13）‌Peyrani‌P,‌Wiemken‌T‌L,‌Kelley‌R,‌Zervos‌M‌J,‌Kett‌D‌H,‌File‌T‌M‌Jr,‌et‌al:‌Higher‌clinical‌success‌in‌patients‌with‌
+ventilator-associated‌pneumonia‌due‌to‌methicillin-resistant‌Staphylococcus‌aureus‌treated‌with‌linezolid‌compared‌with‌
+vancomycin:‌results‌from‌the‌IMPACT-HAP‌study.‌Crit‌Care‌2014;‌18:‌R118.‌doi:‌10.1186/cc13914
+14）‌Kinney‌J,‌Pop‌L,‌Lowe‌A:‌The‌effect‌of‌vancomycin‌and‌linezolid‌on‌the‌treatment‌and‌outcomes‌of‌presumed‌MRSA‌
+pneumonia.‌Crit‌Care‌Med‌2015;‌43:‌114.‌doi:‌10.1097/01.ccm.0000474279.47542.a0
+15）‌Tong‌M‌C,‌Wisniewski‌C‌S,‌Wolf‌B,‌Bosso‌J‌A:‌Comparison‌of‌linezolid‌and‌vancomycin‌for‌methicillin-resistant‌Staphy-
+lococcus‌aureus‌pneumonia:‌Institutional‌Implications.‌Pharmacotherapy‌2016;‌36:‌731-9.‌doi:‌10.1002/phar.1771
+16）‌Takada‌H,‌Hifumi‌T,‌Nishimoto‌N,‌Kanemura‌T,‌Yoshioka‌H,‌Okada‌I,‌et‌al:‌Linezolid‌versus‌vancomycin‌for‌nosocomial‌
+pneumonia‌due‌to‌methicillin-resistant‌Staphylococcus‌aureus‌in‌the‌elderly:‌A‌retrospective‌cohort‌analysis:‌Effective-
+ness‌of‌linezolid‌in‌the‌elderly.‌Am‌J‌Emerg‌Med‌2017;‌35:‌245-8.‌doi:‌10.1016/j.ajem.2016.10.058
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 283
+[[p34]]
+２．菌血症
+Executive summary
+診　断
+1
+．‌‌適切な手技によって採取された血液から MRSA が検出された場合に診断する。
+2．‌‌血液培養からグラム陽性球菌が分離され，ブドウ球菌が疑われる際は ，感受性結果が判明するまで，MRSA 菌血
+症として治療する（A-II）。
+3．‌‌菌血症患者に対して侵入門戸となる感染部位の検索は重要である（A-II）。
+治　療
+1
+．‌‌非複雑性の成人菌血症患者については， ダプトマイシン （DAP）6‌mg/kg‌1日1回（A-I） ， バンコマイシン （VCM）
+（A-II） ，またはリネゾリド（LZD）（B-II）を第一選択薬とし，最低 2 週間投与する。
+2．‌‌その他テイコプラニン（TEIC） ，アルベカシン（ABK）を第二選択薬とする（B-II）。
+3．‌‌カテーテル留置患者では，原則抜去を行う（A-II）。
+4．‌‌人工物の体内埋め込み症例では，専門医と相談のうえ，除去もしくは交換等を考慮する（A-II）。
+5．‌‌化膿性病巣のドレナージ，デブリドマンも推奨する（A-II）。
+6．‌‌感染源を除去できない菌血症については，4～6 週間の治療を推奨する（A-II）。
+7．‌‌これらの症例では，バイオフィルムの関与を考慮した治療を検討する（A-II）。
+8．‌‌菌血症における培養陰性化を確認することが重要である（A-II）。
+9．‌‌感染症状あるいは培養陽性が持続する症例では，抗菌薬の変更や追加あるいは併用療法を検討する（A-II）。
+PO．‌‌適切な治療がなされても?VQ?時間以上発熱が続く際には，複雑性菌血症として対応する（`Lhh）。
+11．‌‌複雑性菌血症でDAPを用いる場合， 耐性化を抑止し， 有効性を高める方法として高用量投与
+＊
+を考慮する （B-II）。
+＊
+保険適応外
+CQ7．血流感染において LZD は第一選択となりうるか
+推奨：MRSA 菌血症において，LZD を VCM や DAP と同等の第一選択とすることを弱く推奨する（提案する） 。
+推奨の強さ：弱く推奨する（提案する）
+エビデンス総体の確実性：C（弱い）
+Executive summary
+1
+． ‌‌MRSA 菌血症に対するリネゾリド（LZD）投与例は，バンコマイシン（VCM） ，テイコプラニン（TEIC）もしく
+はダプトマイシン（DAP）投与例と比較し，全死因死亡率等の治療成功率において非劣性を示す結果であり，第
+一選択となりうる（エビデンス C）。
+調査方法
+設定
+P
+： ‌‌Patients（患者）‌
+年齢：成人（18 歳以上） （日本人以外を含む）‌
+性別：指定なし‌
+病態：MRSA 菌血症‌
+地理的要件：特になし‌
+その他：特になし‌
+対象：血液培養より MRSA が検出同定された MRSA 菌血症患者
+I：Interventions（介入） ：LZD投与
+C
+： ‌‌Comparisons（比較対照）‌
+　VCM，TEIC，DAP 投与
+O： ‌‌Outcomes（アウトカム）‌
+①治療成功率（全死因死亡，臨床的改善，微生物学的効果，90 日再入院率，再燃率，入院日数） 　重要度9‌
+②有害事象　重要度 7
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3284
+[[p35]]
+・‌‌血小板減少（血小板数が 15 万/μL 未満またはベースラインの血小板数から 50％以上の減少）
+・腎毒性（Cr‌0.3‌mg/mL 以上の増加または 7 日以内にベースラインから 50％以上の増加）
+・?‌‌bj上昇?（筋症状あり：正常上限＞T倍もしくは＞PKOOO‌tNk，?筋症状なし：正常上限＞PO倍もしくは＞QKOOO‌tN
+L）
+・‌‌末梢神経障害（薬剤投与中もしくは投与後に末梢神経障害の症状が出現し，当該薬剤以外の原因では説明で
+きない場合）
+③コスト（治療費） 　重要度5
+LZD の VCM，TEIC もしくは DAP と比較したコスト（治療費）
+探索
+　2023 年 1 月までの PubMed，Web‌of‌Science，Cochrane‌Library，ClinicalTrials.gov および医中誌の各データベー
+スを検索式で検索した
+1）
+。
+結果
+　9 件の研究が選択基準を満たし，メタ解析された
+1）
+。内訳は，下記のとおりである。
+　・‌‌Randomized‌controlled‌trial（RCT）2 件
+2，3）
+，RCT‌5 件のプール分析が 1 件
+4）
+，RCT‌1 件のサブグループ解析が 1
+件
+5）
+，case-control‌study（CS）5 件
+U～PO）
+であった。
+　・‌‌実施地域はアジア 5 件
+2～5，8）
+，北米 6 件
+Q～T，X，PO）
+，南米 4 件
+2～5）
+，欧州 6 件
+2～7）
+，アフリカ 2 件
+2，4）
+，オセアニア 1 件
+4）
+で
+あった。
+　・‌‌症例数は 2 件の RCT から 75 例，1 件の RCT‌5 件のプール分析から 73 例，1 件の RCT‌1 件のサブグループ解析
+から 56 例，CS から 5,124 例の患者データが抽出された。そのうち RCT では VCM 投与患者は 40 例，一方 LZD
+投与患者は 35 例，RCT‌5 件のプール分析では VCM 投与患者は 37 例，LZD 投与患者は 36 例，RCT‌1 件のサブ
+グループ解析では VCM 投与患者は 34 例，LZD 投与患者は 22 例であった。CS では，VCM 投与患者は 4,783 例，
+TEIC 投与患者は 27 例，DAP 投与患者は 114 例，LZD 投与患者は 200 例であった。
+文　献
+1 ）‌Kawasuji‌H,‌Nagaoka‌K,‌Tsuji‌Y,‌Kimoto‌K,‌Takegoshi‌Y,‌Kaneda‌M,‌et‌al:‌Effectiveness‌and‌safety‌of‌linezolid‌versus‌
+vancomycin,‌teicoplanin,‌or‌daptomycin‌against‌methicillin-resistant‌Staphylococcus‌aureus‌Bacteremia:‌a‌systematic‌
+review‌and‌meta-analysis.‌Antibiotics‌2023;‌12:‌697.‌doi:‌10.3390/antibiotics12040697
+2 ）‌Wilcox‌M‌H,‌Tack‌K‌J,‌Bouza‌E,‌Herr‌D‌L,‌Ruf‌B‌R,‌Ijzerman‌M‌M,‌et‌al:‌Complicated‌skin‌and‌skin-structure‌infections‌
+and‌catheter-related‌bloodstream‌infe ctions:‌nonin feriority‌of‌l inezolid‌i n‌a‌p hase‌3‌s tudy.‌C lin‌I nfect‌D is‌2 009;‌4 8:‌203 -12.‌
+doi:‌10.1086/595686
+3 ）‌Wunderink‌R‌G,‌Niederman‌M‌S,‌Kollef‌M‌H,‌Shorr‌A‌F,‌Kunkel‌M‌J,‌Baruch‌A,‌et‌al:‌Linezolid‌in‌methicillin-resistant‌
+Staphylococcus‌ aureus‌ nosocomial‌ pneumonia:‌ a‌ randomized,‌ controlled‌ study.‌ Clin‌ Infect‌ Dis‌ 2012;‌ 54:‌ 621-9.‌ doi:‌
+10.1093/cid/cir895
+4 ）‌Shorr‌A‌F,‌Kunkel‌M‌J,‌Kollef‌M:‌Linezolid‌versus‌vancomycin‌for‌Staphylococcus‌aureus‌bacteraemia:‌pooled‌analysis‌
+of‌randomized‌studies.‌J‌Antimicrob‌Chemother‌2005;‌56:‌923-9.‌doi:‌10.1093/jac/dki355
+5 ）‌Rose‌H‌R,‌Holzman‌R‌S,‌Altman‌D‌R,‌Smyth‌D‌S,‌Wasserman‌G‌A,‌Kafer‌J‌M,‌et‌al:‌Cytotoxic‌virulence‌predicts‌mor-
+tality‌in‌nosocomial‌pneumonia‌due‌to‌methicillin-resistant‌Staphylococcus‌aureus.‌J‌Infect‌Dis‌2015;‌211:‌1862-74.‌doi:‌
+10.1093/infdis/jiu554
+6 ）‌Gómez‌J,‌García-Vázquez‌E,‌Baños‌R,‌Canteras‌M,‌Ruiz‌J,‌Baños‌V,‌et‌al.‌Predictors‌of‌mortality‌in‌patients‌with‌methi-
+cillin-resistant‌Staphylococcus‌aureus‌(MRSA)‌bacteraemia:‌the‌role‌of‌empiric‌antibiotic‌therapy.‌Eur‌J‌Clin‌Microbiol‌
+Infect‌Dis‌2007;‌26:‌239-45.‌doi:‌10.1007/s10096-007-0272-x
+7 ）‌Caffrey‌A‌R,‌Quilliam‌B‌J,‌LaPlante‌K‌L:‌Comparative‌effectiveness‌of‌linezolid‌and‌vancomycin‌among‌a‌national‌
+cohort‌of‌patients‌infected‌with‌methicillin-resistant‌Staphylococcus‌aureus.‌Antimicrob‌Agents‌Chemother‌2010;‌54:‌
+4394-400.‌doi:‌10.1128/AAC.00200-10
+8 ）‌Chong‌Y‌P,‌Park‌K‌H,‌Kim‌E‌S,‌Kim‌M‌N,‌Kim‌S‌H,‌Lee‌S‌O,‌et‌al:‌Clinical‌and‌microbiologic‌analysis‌of‌the‌risk‌factors‌
+for‌mortality‌in‌patients‌with‌heterogeneous‌vancomycin-intermediate‌Staphylococcus‌aureus‌bacteremia.‌Antimicrob‌
+Agents‌Chemother‌2015;‌59:‌3541-7.‌doi:‌10.1128/AAC.04765-14
+9 ）‌Usery‌J‌B,‌Vo‌N‌H,‌Finch‌C‌K,‌Cleveland‌K‌O,‌Gelfand‌M‌S,‌Self‌T‌H:‌Evaluation‌of‌the‌treatment‌of‌methicillin-resis-
+tant‌Staphylococcus‌aureus‌bacteremia.‌Am‌J‌Med‌Sci‌2015;‌349:‌36-41.‌doi:‌10.1097/MAJ.0000000000000338
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 285
+[[p36]]
+PO）‌x‌r‌cK‌n‌i‌dK‌r‌l‌`K‌v‌k‌qK‌u‌l‌oY‌b‌‌‌L‌‌‌‌
+parenteral‌therapy‌in‌methicillin-resistant‌Staphylococcus‌aureus‌bloodstream‌infections.‌Int‌J‌Antimicrob‌Agents‌2021;‌
+57:‌106329.‌doi:‌10.1016/j.ijantimicag.2021.106329
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3286
+[[p37]]
+３．感染性心内膜炎
+Executive summary
+診　断
+1
+． ‌‌MRSA 菌血症患者の数％から 20％程度は感染性心内膜炎による可能性があることを認識しておく。
+2．‌‌血液培養で MRSA が検出された患者は，心エコー検査（経胸壁）を推奨する（A-III）。
+3．‌‌経胸壁心エコー検査で心内膜炎が疑わしい場合や， 本症を強く疑うも十分な所見が得られない場合は， 診断感度の
+高い経食道心エコー検査を推奨する（A-II）。
+4．‌‌人工弁心内膜炎の診断では
+18
+F―フルオロデオキシグルコース（
+18
+F-FDG）を用いた
+18
+F-FDG‌ PET/CT
+＊
+が有用であ
+る（B-II）。
+5．‌‌中枢神経合併症の診断として，頭部の MRI や CT を撮影する（B-II）。
+治　療
+1
+．‌‌診断後は，ただちに手術適応の有無を評価する。外科治療を念頭に置いて，内科的治療を併せて行う（A-III）。
+2．‌‌本症の診療においてはチーム医療として，関連する複数領域の専門家による連携―endocarditis‌ team が重要であ
+る（A-III）。
+3．‌‌抗菌薬治療では，第 1 選択薬として，ダプトマイシン（ DAP）1 日 1 回（A-I）またはバンコマイシン（ VCM）
+（A-II）を血液培養の陰性化後4～6週間投与する。人工弁心内膜炎の場合はより長期間の治療（8週間）を要する。
+4．‌‌リネゾリド（LZD）
+＊
+（B-III） ，テイコプラニン（TEIC）
+＊
+（B-III）は代替薬とする。
+5． ‌‌DAP を選択する場合，8～10‌mg/kg の高用量投与
+＊
+で開始する（B-II）。
+6． ‌‌抗 MRSA 薬を含む併用療法では， DAP もしくは VCM と β―ラクタム系薬の併用は，症例に応じ行ってもよい
+（C-II） 。自己弁の場合，VCMとゲンタマイシン（GM）の併用は推奨しない（D-II）。
+7．‌‌人工弁心内膜炎では，VCM に GM を併用した 2 剤，さらにリファンピシン（RFP）を加えた3 剤併用療法が行わ
+れることがある（C-III）。
+8．‌‌効果判定として，抗菌薬治療開始 24～72 時間後に血液培養を行い，菌の陰性化を確認する（A-III）。
+9．‌‌緊急性の高い手術適応として，うっ血性心不全の合併， 肺高血圧を伴う急性弁逆流，弁輪部膿瘍や仮性大動脈瘤形
+成，房室伝導障害の出現，持続する菌血症がある（`Lhh）?。サイズPO‌?以上の疣腫，塞栓症発症の既往がある場
+合も速やかに外科手術となる場合が多い（A-III）。
+PO．‌‌‌‌活動性心内膜炎に対する術後の抗菌薬投与期間に関して，明確な推奨期間はない（bLhhh）。
+＊
+保険適応外
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 287
+[[p38]]
+4．皮膚軟部組織感染症
+A．皮膚科領域
+Executive summary
+診　断
+1
+．‌‌皮膚科領域の細菌感染症は，一般に局所の発赤， 腫脹，疼痛，熱感があるため，このような症状がある場合は皮膚
+軟部組織感染症を疑う。
+2． ‌‌β―ラクタム系薬に反応しない皮膚軟部組織感染症は MRSA 感染症を疑う。
+3． ‌‌MRSA は入院患者，過去 1 年以内に入院したことがある患者，過去 4 週間以内に抗菌薬の投与を受けた患者から
+分離されることが多い。
+4．‌‌皮膚科での皮膚軟部組織感染症では，過去 1 年以内に入院したことがある患者から分離された MRSA と，入院歴
+のない患者から得られた MRSA は，ほぼ市中感染型 MRSA（CA-MRSA）である。
+5． ‌‌MRSA は皮膚に定着することが多いため，皮膚軟部組織感染症の原因菌か定着かの鑑別が重要である。
+6．‌‌皮膚科で治療される皮膚軟部組織感染症で， 膿瘍を形成する頻度が最も高いのが炎症性粉瘤であるが， 炎症性粉瘤
+から MRSA が分離されることはほとんどない。
+7．‌‌褥瘡や皮膚潰瘍からも MRSA が分離されるが，critical‌colonization のことが多い。
+8．‌‌丹毒や蜂窩織炎の細菌培養のためには，病変部位の生検組織片や吸引組織液を検査材料とする。
+9． ‌‌MRSA が血液から分離された場合は，丹毒や蜂窩織炎ではなく，壊死性筋膜炎や深部膿瘍，手術部位感染等の複
+雑性皮膚軟部組織感染症（complicated‌skin‌and‌soft‌tissue‌infection：cSSTI）となっている可能性が高い。
+治　療
+1
+．‌‌膿瘍を形成している場合，膿瘍の程度に応じて切開やドレナージが必要である（A-II）。
+2． ‌‌MRSA が定着している場合は，除菌目的での抗菌薬の全身投与は行わない（A-II）。
+3． ‌‌Critical‌ colonization の褥瘡や皮膚潰瘍では，十分な洗浄，外科的デブリドマンや抗菌作用を有する抗潰瘍薬で創
+面の清浄化を図る（B-III）。
+4．‌‌皮膚軟部組織感染症の患者で，創部に発赤，腫脹，疼痛，熱感といった症状があり MRSA が分離された場合は，
+入院，外来を問わずCA-MRSA の可能性が高いので，内服薬を用いる場合は，スルファメトキサゾール/トリメト
+プリム（ST 合剤）
+＊
+（A-II） ，ミノサイクリン（MINO）（A-II） ，クリンダマイシン（CLDM）（A-II）を投与する。
+5．‌‌テトラサイクリン系薬は 8歳未満には，他の薬剤が使用できないか，無効の場合にのみ適用を考慮する。小児（特
+に歯牙形成期にある 8 歳未満の小児）に投与した場合，歯牙の着色・エナメル質形成不全，また，一過性の骨発育
+不全を起こすことがある（D-III）。
+6．‌‌伝染性膿痂疹には，2％ムピロシン（MUP）軟膏（A-III）が有効であるが，国内では保険適用がなくナジフロキサ
+シン（NDFX）軟膏，フシジン酸（FA）軟膏，オゼノキサシン（OZNX）油性クリームの外用を行う（B-III）。
+7．‌‌全身症状を伴う皮膚軟部組織感染症で，MRSA 感染症が疑われる場合は，ただちに抗MRSA 薬の投与を行う。こ
+の場合はバンコマイシン（VCM）15～20‌mg/kg‌1 日 2 回点滴静注（A-I）か，リネゾリド（LZD）600‌mg を 1 日
+2 回経口あるいは点滴静注（A-I） ，ダプトマイシン（DAP）4‌mg/kg を 1 日 1 回点滴静注/静注（A-I）が推奨され
+る。第二選択にはテイコプラニン（TEIC）（B-II）やアルベカシン（ABK）
+＊
+（B-II）が用いられる。治療期間は原
+則 1～2 週間であるが，個々の患者に応じて変更する。
+8．‌‌テジゾリド（TZD）はLZD と比較し，有意に血小板減少の発現率が低く，嘔気等の胃腸障害発生頻度も低率であ
+る（A-I）。LZD が血小板減少のリスクで使用しにくい場合には，TZD の使用も考慮する（A-I）。
+＊
+保険適応外
+注）‌‌ST 合剤は国内では，適応菌種としてブドウ球菌が含まれていない。また皮膚軟部組織感染症や伝染性膿痂疹の
+適応症も取得していない。
+注）‌‌VCM は国内では，皮膚科領域では「外傷・熱傷および手術創等の二次感染」にしか保険適用はない。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3288
+[[p39]]
+B．外傷・熱傷・手術創の二次感染等
+Executive summary
+診　断
+1
+．‌‌複雑性皮膚軟部組織感染症（complicated‌skin‌and‌soft‌tissue‌infection：cSSTI）は皮下組織深部に広がる膿瘍，
+潰瘍感染，外傷に伴う感染，熱傷部感染，糖尿病性足感染，切開創の手術部位感染（surgical‌site‌infection：SSI）
+が含まれる。本章では切開創の SSI を中心に記載する。
+2． ‌‌SSI の診断は術後 5 日目以降の発熱，末梢白血球数，CRP 上昇等があれば創部の観察を行い，切開部の発赤，硬結
+があれば SSI を疑う（B-III）。
+3．‌‌膿が得られればグラム染色，培養，感受性検査を行う（A-II）。
+4．‌‌手術後 48 時間以内は壊死性筋膜炎も疑う。
+治　療
+1
+．‌‌膿瘍に対しては，切開，ドレナージを行う。SSI では縫合創を開放し，ドレナージを行う（A-II）。
+2． ‌‌SSI における抗菌薬投与の適応は 38℃以上，白血球数≧12,000/μL，発赤，硬結，腫脹が≧75‌cm
+2
+，紅斑や硬結の
+広がりが創縁より≧5‌cm，皮膚の壊死がみられる時である（B-II）。
+3． ‌‌切 開 創SSI ではドレナージが適切に行われた場合は通常，抗菌薬は 1～2 日間投与する。ただし，重症度を鑑み，
+さらなる延長も行う（B-I）。
+4．‌‌抗菌薬はバンコマイシン（VCM）の点滴静注（A-I） ，リネゾリド（LZD）の経口または点滴静注（A-I） ，テジゾ
+リド（TZD）の経口または点滴静注（A-I） ，ダプトマイシン（DAP）の点滴静注1 日 1 回（A-I）を選択する。
+5．‌‌投与量はVCM；初回のみ25～30‌mg/kg（腎機能の中等度以上低下がなければloading‌doseとして初回のみ30‌mg/
+kg の負荷投与を行う） ，以後は15～20‌mg/kg を 1 日 2 回（B-I），LZD；600‌mg を経口または点滴静注で 1 日 2 回
+（A-I），TZD‌200‌mg を経口または点滴静注で 1 日 1 回（A-I），DAP‌4‌mg/kg/日の点滴静注 1 日 1 回（A-I）。
+VCM，LZD，DAP は腎機能により調整が必要である。
+6．‌‌テイコプラニン（TEIC）（B-II） ，アルベカシン（ABK）（B-III）
+＊
+は代替薬とする。
+7．‌‌オキサゾリジノン系薬の長期使用が見込まれる場合や血小板数の低下のリスクを有する場合ではLZDよりTZDを
+選択する（B-II）。
+8． ‌‌①‌Sepsis/septic‌shock，②壊死性筋膜炎，③重症熱傷，④骨髄炎合併の際に DAP，LZD を選択する。TZD では
+さらなる臨床評価が必要である（B-III） 。その際DAP は 6～8‌mg/kg/日の高用量
+＊
+を考慮する（B-II） 。菌血症，
+化膿性脊椎炎を伴う cSSTI ではそれらの項に従って治療を行う。
+9．LZD，TZD は経口薬への step‌down も行う（A-II）。
+＊
+保険適応外
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 289
+[[p40]]
+5．腹腔内感染症
+Executive summary
+診　断
+1
+．‌‌市中でのcommunity-associated‌MRSA（CA-MRSA）‌感染症（皮膚軟部組織等）が問題となっているが，腹腔内感
+染症（IAI）においては MRSA 等の黄色ブドウ球菌が原因菌となることは依然まれである。MRSA による IAI は
+主として術後感染として発症する。
+2． ‌‌第 3 病日以降にドレーン排液から MRSA が検出された場合は定着（colonization）との鑑別が必要である。
+治　療
+1
+．‌‌抗菌薬治療に加え， 感染巣のドレナージによる適切な感染源のコントロールが， 複雑性IAI例で必要である （A-I）。
+2． ‌‌IAI における抗菌薬投与ルートに関しては，注射用抗菌薬が強く推奨される（A-II） 。早期退院目的で，初期注射
+用抗菌薬から経口薬への変更も考慮する（B-III）。
+3． ‌‌MRSAによるIAIを対象とした比較試験は行われておらず，抗菌薬選択に関する根拠となる成績は限られている。
+第一選択薬としては注射用バンコマイシン（VCM）が推奨される（A-II）。
+4．‌‌抗菌薬治療期間は，もし適切なドレナージが行われていれば 4～7 日とする（B-II）。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3290
+[[p41]]
+6．骨・関節感染症
+Executive summary
+A．化膿性骨髄炎
+診　断
+1
+．‌‌臨床所見，血液検査での炎症所見，画像所見による。
+2． ‌‌MRI は早期診断に有用である。
+3．‌‌無菌的な手法で感染部位から採取した培養結果は診断に重要である。
+4．‌‌血行性骨髄炎では血液培養は診断に重要である。
+治　療
+1
+．‌‌膿瘍や血行が途絶した腐骨を形成した場合は，抗菌薬の投与のみで治癒することは困難である（A-III）。
+2． ‌‌MRSA 骨髄炎に対する点滴加療ではバンコマイシン（VCM） ，ダプトマイシン（DAP）
+＊
+（1 回 6～8‌mg/kg‌1 日 1
+回） ，リネゾリド（LZD）
+＊
+，テジゾリド（TZD）
+＊
+，テイコプラニン（TEIC）
+＊
+のいずれかを用いる（B-III）。
+3． ‌‌VCM，DAP
+＊
+，TEIC
+＊
+についてはより高用量を用いたほうがよいとする意見がある（B-II）。
+4．‌‌投与期間は，手術の有無 ，臨床経過により異なる。MRSA 骨髄炎の場合の投与期間について十分なエビデンスは
+ないが，一般的な骨髄炎治療での投与期間より長くしたほうがよいと考えられている（B-III）。
+5．‌‌リファンピシン（RFP）
+＊
+に対する MRSA の感受性は通常良好である。また，抗MRSA 薬と RFP
+＊
+を併用したほう
+がよいとする報告がある（B-III）。
+6．‌‌病巣掻爬後の死腔をコントロールすることが重要である。 持続洗浄療法， 骨セメントに抗菌薬を含有させて徐放さ
+せる抗菌薬含有セメントビーズやセメントスペーサーは，補助療法として有用である可能性がある（B-II） 。セメ
+ントの強度の点から粉末で，熱に対する安定性のある抗菌薬が選択される。MRSA に対しては VCM
+＊
+が使用され
+ることが多い。
+＊
+保険適応外
+B．化膿性関節炎
+診　断
+1
+．‌‌臨床所見，血液検査での炎症所見，画像所見による。
+2． ‌‌MRI は早期診断に有用である。
+3．‌‌関節組織は無菌組織であり，関節液培養の結果は診断に重要である。
+治　療
+1
+．‌‌診断確定後，できるだけ早期に外科的に洗浄するが ，進行した場合は滑膜切除も必要となる（B-II） 。関節鏡が可
+能な部位では鏡視下に行う場合もある。
+2．‌‌抗菌薬の滑膜や関節液への移行性は比較的良好である。抗菌薬の選択・投与法は化膿性骨髄炎の項に準ずる。
+3．‌‌抗菌薬の投与期間は， 感染が骨組織まで波及し骨髄炎を併発したか否かにより異なる。 骨髄炎まで進展しなかった
+場合は3～4週間の投与， 骨髄炎が併発した場合は化膿性骨髄炎の項に準じ， より長期の投与が必要である （B-III）。
+C．骨・関節のインプラント感染
+診　断
+1
+．‌‌人工関節周囲感染については，現在のところ Musculoskeletal‌ Infection‌ Society の periprosthetic‌ joint‌ infection
+（PJI）診断基準を推奨する。
+2．‌‌人工関節周囲に液体が貯留している場合は，穿刺にて検体を採取することが重要である。
+3．‌‌血液培養が診断に有用な場合がある。
+治　療
+1
+．‌‌人工関節にゆるみのない，発症後比較的早期の場合は，DAIR（debridement,‌antibiotics,‌and‌implant‌retention），
+交換可能なモジュラー・コンポーネントの交換は試みてよい術式である（B-II）。
+2．‌‌抗菌薬の選択・投与法は化膿性骨髄炎の項に準ずる（B-III）。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 291
+[[p42]]
+3．‌‌人工関節を温存した場合の抗菌薬の投与期間に関して， 明確な基準はない。 静脈内投与と経口抗菌薬を合わせた投
+与期間として人工股関節で 3 カ月，人工膝関節で 6 カ月間投与を推奨する専門家の意見もある（B-III）。
+4．‌‌これらの治療により感染が鎮静化しない場合， 人工関節にゆるみのある場合， 抜去しなければ十分なデブリドマン
+が期待できない場合等は人工関節を抜去することを考慮する（A-III）。
+CQ8．  整形外科手術でバンコマイシンパウダーの局所散布は SSI 予防に有効か
+推奨：整形外科手術でsurgical‌site‌infection（SSI）予防を目的としたルーチンの局所VCM 散布を実施しないことを
+弱く推奨する。
+推奨の強さ：実施しないことを弱く推奨する
+エビデンス総体の確実性：D（非常に弱い）
+Executive summary
+1
+．‌‌整形外科手術で surgical‌site‌infection（SSI）予防を目的とした局所バンコマイシン（VCM）散布
+＊
+は，全 SSI の
+予防効果を認めない（エビデンス D）。
+2．‌‌整形外科手術でインプラントを用いる手術でも，SSI 予防を目的とした局所 VCM 散布
+＊
+は SSI 予防効果が認めら
+れない（エビデンス D）。
+3．‌‌整形外科手術で SSI 予防を目的とした局所 VCM 散布
+＊
+は，グラム陽性球菌（GPC）に伴う SSI を予防する可能性
+はある（エビデンス C）。
+4．‌‌整形外科手術で SSI 予防を目的とした局所 VCM 散布
+＊
+の，MRSA-SSI 予防効果は明らかでない（エビデンス D）。
+＊
+保険適応外
+システマティックレビュー，メタ解析
+　局所VCM散布
+＊
+に関するこれまでのシステマティックレビュー， メタ解析では，randomized‌controlled‌trial（RCT）
+と観察研究を統合した結果が報告され，それが limitation となっている。そのため，エビデンスの確実性から本レ
+ビューでは RCT のみを対象にすることとした。
+調査方法
+設定
+　P：Patients（患者） ；整形外科関連手術（主に脊椎，骨折，人工関節）
+　I：Interventions（介入） ；局所VCM 散布
+＊
+（パウダー）使用
+　C： ‌‌Comparisons（比較対照） ；その他の抗菌薬パウダー（Placebo）‌
+もしくは抗菌薬パウダーなし
+　O： ‌‌‌Outcomes（アウトカム）‌
+Primary‌outcome‌
+　①全手術部位感染（SSI）‌ 重要性 8 点‌
+　②深部手術部位感染（Deep‌SSI）‌ 重要性 8 点‌
+Secondary‌outcome‌
+　③原因菌ごとの手術部位感染‌
+　　GPC による SSI
+‌ 重要性 6 点‌
+　　MRSA による SSI‌ 重要性 6 点‌
+　　グラム陰性桿菌（GNR）による SSI　重要性 6 点‌
+　④有害事象‌ 重要性 6 点
+探索
+　2022 年 7 月までの PubMed のデータベースを下記検索式で検索した。(“spine”
+‌[MeSH‌Terms]‌OR‌“spinal‌fusion”‌
+[MeSH‌Terms]‌OR‌“spinal”‌[Title/Abstract]‌OR‌“spine”‌[Title/Abstract]‌OR‌“arthroplasty,‌replacement”‌[MeSH‌
+Terms]‌OR‌(“joint‌prosthesis”‌[MeSH‌Terms]‌OR‌“arthroplasty,‌replacement”‌[MeSH‌Terms])‌OR‌“replacement”‌
+[Title/Abstract]‌OR‌“arthroplasty”‌[Title/Abstract]‌OR‌“prosthesis”‌[Title/Abstract]‌OR‌“THA”‌[Title/Abstract]‌
+OR‌“TKA”‌[Title/Abstract]‌OR‌“hip‌replacement”‌[Title/Abstract]‌OR‌“hip‌arthroplasty”‌[Title/Abstract]‌OR‌
+“knee‌replacement”‌[Title/Abstract]‌OR‌“knee‌arthroplasty”‌[Title/Abstract]‌OR‌“fractures,‌bone”‌[MeSH‌Terms]‌
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3292
+[[p43]]
+OR‌“fracture‌ fixation”‌ [MeSH‌ Terms]‌ OR‌“fixation
+＊
+”‌ [Title/Abstract]‌ OR‌“fracture
+＊
+”‌ [Title/Abstract]‌ OR‌
+“arthrodesis”‌[MeSH‌Terms]‌OR‌“arthrodesis”‌[Title/Abstract]‌OR‌“osteotomy”‌[MeSH‌Terms]‌OR‌“osteotom
+＊
+”‌
+[Title/Abstract])‌AND‌(“vancomycin”‌[MeSH‌Terms]‌OR‌“vancomycin”‌[Title/Abstract])‌
+結果
+1）文献の選択
+　1,819 件の文献が検出され，2名で Rayyan を用いてタイトルと抄録を確認した。1,810 件の文献が除外され，残った
+9 つの文献について全文確認を行い
+1～9）
+，3 文献が除外された
+7～9）
+。判断に迷う文献は，すべての過程で上級医を含めた
+3 名で議論し確定した（図 1）。6 件の研究が選択基準を満たし，メタ解析された
+1～6）
+。
+　RCT‌6 件のうち Takeuchi らの 1 件
+5）
+でコントロール群としてアンピシリン・パウダーが局所散布されていたため，
+感度解析で除外する方針とした。残りの 5 件
+1～4，6）
+は，コントロール群で抗菌薬の局所散布は行われていなかった。実
+施地域がアジア 5 件（インド1 件
+1）
+，日本1 件
+5）
+，タイ1 件
+3）
+，イラン2 件
+2，4）
+）， 北 米1 件
+6）
+，南米0 件，欧州0 件，アフ
+リカ 0 件，オセアニア 0 件であった。症例数は，6 件の RCT から 3,272 例の患者データが抽出された。そのうち局所
+VCM 散布
+＊
+投与患者群 1,675 例，コントロール群1,597 例であった。コントロール群のうち，アンピシリン・パウダー
+を投与された患者は 114 例であった。
+　術式は脊椎手術が 5‌RCT
+1～5）
+（合計 2,292 例，脊椎インプラント使用 1,469 例，インプラント未使用 823 例） ，下肢の
+骨折手術が 1‌RCT
+6）
+（合計 980 例，全例でインプラント使用）であった。局所散布された VCM の量は 1～2‌g であっ
+た。投与方法は研究により異なっていた。SSI 診断基準は，4 件の RCT
+2，3，5，6）
+で CDC の SSI 定義が用いられており最多
+であった。2 件の RCT
+1，4）
+は，SSI 定義が明確に記されていなかった。1 件の RCT
+3）
+で，深部SSI のみの報告となってお
+り，全 SSI が不明であった。いずれの研究も，再手術の件数，VCM の血中濃度は報告されていなかった。
+2）全 SSI の予防効果
+　5 件の RCT から抽出した全 SSI は，局所VCM 散布
+＊
+とコントロール群に有意差を認めなかった（RR＝0.88，［95％‌
+CI：0.66～1.18，p＝0.40；I
+2
+＝0％ ］， 図2A） 。本傾向は，術式ごとの解析でも，Takeuchi の研究
+5）
+を除外した感度分析
+でも同様であった（図 2D） 。また，インプラントの使用有無で解析しても有意差はなく（インプラントあり：RR＝
+0.82，［95％‌CI：0.59～1.14，p＝0.24；I
+2
+＝0％］ ，インプラントなし：RR＝1.19，［95％‌CI：0.60～2.36，p＝0.63；I
+2
+＝
+0％ ］， 図2B） ，脊椎手術に限定した解析でもインプラントの使用有無にかかわらず有意差はなかった（インプラント
+あり：RR＝0.95，［95％‌CI：0.45～1.99，p＝0.88；I
+2
+＝0％］ ，インプラントなし：RR＝1.19，［95％‌CI：0.60～2.36，p
+＝0.66；I
+2
+＝0％］ ，図2C）。
+3）深部 SSI の予防効果
+　6 件の RCT から抽出した深部 SSI では，局所VCM 散布
+＊
+とコントロール群に有意差は示されなかった（RR＝0.86，
+［95％‌CI：0.61～1.20，p＝0.37；I
+2
+＝0％ ］， 図3）。Takeuchi ら
+5）
+の研究を除外した感度分析でも同様の結果であった
+ਤ 1.બ୒ͷྲྀΕΛද͢ PRISMA flow diagram
+Excluded duplicates（n＝0）
+Records PubMed
+（n＝1,819）
+Total records（n＝1,819）
+Title and abstract screening
+（n＝1,819）
+Full-text articles assessed for eligibility
+（n＝9）
+Included full-text articles
+（n＝6）
+Studies included in meta-analysis
+（n＝6）
+Reference and citation tracking
+（n＝0）
+無記名投票で集計
+同数 と な っ た論文は，
+各委員の コ メ ン ト を 参考に
+Dr Y が最終決定
+Rayyan を用いて，
+全抄録 を2 名ずつで確認
+Conflict は，上級医が最終確認
+IdentificationScreeningEligibilityIncluded
+Excluded by title and abstract
+（n＝1,810）
+Full-text excluded（n＝3）
+-No population of interest（n＝1：Ludwig 2019）
+-No outcome of interest（n＝1：Suh 2015）
+-Non-comparative studies（n＝0）
+-Commentary（n＝0）
+-Study protocol（n＝1; O'Toole 2017）
+-Review（n＝0）
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 293
+[[p44]]
+（RR＝0.91，95％‌CI‌0.61～1.25，p＝0.64）。
+4）GPC による SSI の予防効果
+　5件のRCTから抽出したSSIでは，局所VCM散布
+＊
+群で有意にSSIリスクが低下していた（RR＝0.53，［95％‌CI：
+0.33～0.85，p＝0.008；I
+2
+＝0％ ］， 図4） 。本傾向は，Takeuchiらの研究を除いた感度分析でも同様であった（RR＝0.52，
+［95％‌CI：0.32～0.85，p＝0.009；I
+2
+＝0％］ ） 。本解析では，局所VCM 散布
+＊
+の GPC‌SSI 予防効果は統計学的に有意で
+あったが，summary‌of‌findings を作成した場合の certainty‌assessment で“imprecision”と“risk‌of‌bias”は very‌
+serious であった。そのため，GRADE 評価を行った場合のエビデンスレベルは very‌ low に該当する。しかし，他の
+有意差のない項目と差別化する必要があるとの委員会での見解から，本ガイドラインでのエビデンスレベルはlow に
+することとなった。
+5）MRSA‌SSI の予防効果
+　2 件の RCT から抽出した SSI では，局所 VCM 散布
+＊
+群とコントロール群に有意差は示されなかった（RR＝0.33，
+［95％‌CI：0.03～3.11，p＝0.33；I
+2
+＝0％ ］， 図5） 。本傾向は，Takeuchi らの研究を除いた感度分析でも同様であった
+（RR＝0.32，［95％‌CI：0.01～7.88，p＝0.49；I
+2
+＝Not‌applicable］）。
+ਤ   2A.ॴVCM෍
+ˎ
+Λ౤༩ͨ͠खज़ͷશ SSI͢ϑΥϨετϓϩοτͱόΠΞεϦεΫʢCIɼ
+RCTɼRRʹϦεΫൺɼVCMʹόϯίϚΠγϯʣ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［ Ｃontrol］Favors［VCM］
+5 200.05 0.2
+Risk of bias domains
+Domains: 
+D1: Bias arising from the randomization process.
+D2: Bias due to deviations from intended intervention.
+D3: Bias due to missing outcome data.
+D4: Bias in measurement of the outcome.
+D5: Bias in selection of the reported result.
+Judgement
+High
+Some concerns
+Low
+METRC 2021
+Salimi 2022
+Takeuchi 2018
+Mirzashahi 2018
+Tubaki 2013
+Study
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+1.1.1 Spine
+Tubaki 2013 7 433 8 474 8.6% 0.96 ［0.35, 2.62］ 2013
+Takeuchi 2018 2 116 3 114 2.8% 0.66 ［0.11, 3.85］ 2018
+l?QOPW?PO?PXR?T?PWV?VMWD?PMXS?［OMUWK?TMTU］?QOPW
+Salimi 2022 12 187 13 188 15.1% 0.93 ［0.43, 1.98］ 2022
+Subtotal (95% CI)  929  963 34.2% 1.08［0.65, 1.78］
+Total events 31  29
+Heterogeneity: Tau2＝0.00; Chi2＝1.70, df＝3 (p＝0.64); I2＝0%
+Test for overall effect: Z＝0.28 (p＝0.78)
+1.1.2 Fracture
+METRC 2021 46 481 60 499 65.8% 0.80 ［0.55, 1.14］ 2021
+Subtotal (95% CI)  481  499 65.8% 0.80［0.55, 1.14］
+Total events 46  60
+Heterogeneity: Not applicable
+Test for overall effect: Z＝1.24 (p＝0.22)
+Total (95% CI)  1,410  1,462 100.0% 0.88［0.66, 1.18］
+Total events 77  89
+Heterogeneity: Tau2＝0.00; Chi2＝2.61 df＝4 (p＝0.63); I2＝0%
+Test for overall effect: Z＝0.84 (p＝0.40)
+Test for subgroup differences: Chi2＝0.91, df＝1 (p＝0.34), I2＝0%
+VCM Control
+cP?cQ?cR?cS?cT?n
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3294
+[[p45]]
+ਤ 2B.　Πϯϓϥϯτͷ༗ແʹΑΔ SSI͢ϑΥϨετϓϩοτ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［Control］Favors［VCM］
+PO?POOOMOP?OMP
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+1.6.1 SSI_total_with_inst
+Tubaki 2013 6 302 6 304 6.9% 1.01 ［0.33, 3.09］ 2013
+Takeuchi 2018 2 116 3 114 2.8% 0.66 ［0.11, 3.85］ 2018
+METRC 2021 46 481 60 499 65.9% 0.80 ［0.55, 1.14］ 2021
+Salimi 2022 5 72 5 75 6.1% 1.04 ［0.31, 3.45］ 2022
+Subtotal (95% CI)  971  992 81.6% 0.82［0.59, 1.14］
+Total events 59  74
+Heterogeneity: Tau2＝0.00; Chi2＝0.37, df＝3 (p＝0.95); I2＝0%
+Test for overall effect: Z＝1.17 (p＝0.24)
+1.6.2 SSI_total_wo_inst
+Tubaki 2013 1 131 2 170 1.5% 0.65 ［0.06, 7.08］ 2013
+l?QOPW?PO?PXR?T?PWV?VMWD?PMXS?［OMUWK?TMTU］?QOPW
+Salimi 2022 7 115 8 113 9.0% 0.86 ［0.32, 2.29］ 2022
+Subtotal (95% CI)  439  470 18.4% 1.19［0.60, 2.36］
+Total events 18  15
+Heterogeneity: Tau2＝0.00; Chi2＝1.49, df＝2 (p＝0.47); I2＝0%
+Test for overall effect: Z＝0.49 (p＝0.63)
+Total (95% CI)  1,410  1,462 100.0% 0.88［0.66, 1.18］
+Total events 77  89
+Heterogeneity: Tau2＝0.00; Chi2＝2.76, df＝6 (p＝0.84); I2＝0%
+Test for overall effect: Z＝0.85 (p＝0.39)
+Test for subgroup differences: Chi2＝0.89, df＝1 (p＝0.34), I2＝0%
+VCM Control
+ਤ 2C.　੸௣खज़ʹ͓͚ΔΠϯϓϥϯτͷ༗ແʹΑΔ SSI͢ϑΥϨετϓϩοτ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［Control］Favors［VCM］
+5 200.05 0.2
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Year
+1.8.1 Spine with Instrumentation
+Tubaki 2013 6 302 6 304 20.3% 1.01 ［0.33, 3.09］ 2013
+Takeuchi 2018 2 116 3 114 8.1% 0.66 ［0.11, 3.85］ 2018
+Salimi 2022 5 72 5 75 17.8% 1.04 ［0.31, 3.45］ 2022
+Subtotal (95% CI)  490  493 46.2% 0.95［0.45, 1.99］
+Total events 13  14
+Heterogeneity: Tau2＝0.00; Chi2＝0.20, df＝2 (p＝0.90); I2＝0%
+Test for overall effect: Z＝0.15 (p＝0.88)
+1.8.2 Spine without Instrumentation
+Tubaki 2013 1 131 2 170 4.5% 0.65 ［0.06, 7.08］ 2013
+l?QOPW?PO?PXR?T?PWV?QQMXD?PMXS?［OMUWK?TMTU］?QOPW
+Salimi 2022 7 115 8 113 26.5% 0.86 ［0.32, 2.29］ 2022
+Subtotal (95% CI)  439  470 53.8% 1.19［0.60, 2.36］
+Total events 18  15
+Heterogeneity: Tau2＝0.00; Chi2＝1.49, df＝2 (p＝0.47); I2＝0%
+Test for overall effect: Z＝0.49 (p＝0.63)
+Total (95% CI)  929  963 100.0% 1.07［0.65, 1.77］
+Total events 31  29
+Heterogeneity: Tau2＝0.00; Chi2＝1.89, df＝5 (p＝0.86); I2＝0%
+Test for overall effect: Z＝0.26 (p＝0.80)
+Test for subgroup differences: Chi2＝0.19, df＝1 (p＝0.66), I2＝0%
+VCM Control
+ਤ 2D.　Takeuchi Β
+5ʣ
+Λআ֎ͨ͠શ SSI͢ϑΥϨετϓϩοτ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［Control］Favors［VCM］
+2 5 100.1 0.50.2
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI Y ear
+Salimi 2022 12 187 13 188 14.6% 0.93 ［0.43, 1.98］ 2022
+METRC 2021 46 481 60 499 63.4% 0.80 ［0.55, 1.14］ 2021
+Kunakornsawat 2019 9 265 4 135 6.2% 1.15 ［0.36, 3.65］ 2019
+l?QOPW?PO?PXR?T?PWV?VMTD?PMXS?［OMUWK?TMTU］?QOPW
+Tubaki 2013 7 433 8 474 8.3% 0.96 ［0.35, 2.62］ 2013
+Total (95% CI)  1,559  1,483 100.0% 0.90［0.68, 1.21］
+Total events 84  90
+Heterogeneity: Tau2＝0.00; Chi2＝2.67, df＝4 (p＝0.61); I2＝0%
+Test for overall effect: Z＝0.69 (p＝0.49)
+VCM Control
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 295
+[[p46]]
+6）GNR による SSI の予防効果
+　5 件の RCT から抽出した SSI では，局所 VCM 散布
+＊
+群とコントロール群に有意差は示されなかった（RR＝1.58，
+［95％‌CI：0.79～3.15，p＝0.20；I
+2
+＝0％］ ，図6）。
+7）有害事象（図 7）
+　4 件の RCT で記載があり，いずれも重篤な有害事象の報告はなかった。骨折を対象とした 1 件の RCT で，創離開
+（RR‌0.77；95％‌CI‌0.41～1.42）と偽関節（骨癒合不全） （RR‌1.33；95％‌CI‌0.72～2.42）の発生頻度について報告があ
+るが，こちらも局所 VCM 散布
+＊
+群とコントロール群で有意差を認めなかった。
+ਤ 3.　ਂ෦ SSI͢ϑΥϨετϓϩοτͱόΠΞεϦεΫʢCIɼRCTɼRRʹ
+ϦεΫൺɼVCMʹόϯίϚΠγϯʣ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［Control］Favors［VCM］
+PO?POOOMOP?OMP
+Risk of bias domains
+Domains: 
+D1: Bias arising from the randomization process.
+D2: Bias due to deviations from intended intervention.
+D3: Bias due to missing outcome data.
+D4: Bias in measurement of the outcome.
+D5: Bias in selection of the reported result.
+Judgement
+High
+Some concerns
+Low
+METRC 2021
+Salimi 2022
+Kunakornsawat 2019
+Takeuchi 2018
+Mirzashahi 2018
+Tubaki 2013
+Study
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI
+METRC 2021 29 481 46 499 57.9% 0.65［0.42, 1.02］
+Takeuchi 2018 2 116 3 114 3.7% 0.66［0.11, 3.85］
+Tubaki 2013 6 433 6 474 9.2% 1.09［0.36, 3.37］
+Kunakornsawat 2019 9 265 4 135 8.6% 1.15［0.36, 3.65］
+Salimi 2022 7 187 6 188 10.1% 1.17［0.40, 3.42］
+l?QOPW?PO?PXR?T?PWV?POMSD?PMXS［OMUWK?TMTU］
+Total (95% CI)  1,675  1,597 100.0% 0.86［0.61, 1.20］
+Total events 63  70
+Heterogeneity: Tau2＝0.00; Chi2＝4.55, df＝5 (p＝0.47); I2＝0%
+Test for overall effect: Z＝0.90 (p＝0.37)
+VCM Control
+cP?cQ?cR?cS?cT?n
+ਤ 4.　ʹΑΔ SSI͢ϑΥϨετϓϩοτʢ CIɼRCTɼ RR
+ʹϦεΫൺɼVCMʹόϯίϚΠγϯʣ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［Control］Favors［VCM］
+PO?TOOMOQ?OMP
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI
+Kunakornsawat 2019 3 265 1 135 4.4% 1.53 ［0.16, 14.55］
+METRC 2021 16 481 34 499 65.7% 0.49［0.27, 0.87］
+r?QOQQ?S?PWV?PO?PWW?PVMOD?OMSO［OMPRK?PMQU］
+Takeuchi 2018 2 116 3 114 7.1% 0.66［0.11, 3.85］
+Tubaki 2013 2 433 2 474 5.8% 1.09［0.15, 7.74］
+Total (95% CI)  1,482  1,410 100.0% 0.53［0.33, 0.85］
+Total events 27  50
+Heterogeneity: Tau2＝0.00; Chi2＝1.73, df＝4 (p＝0.78); I2＝0%
+Test for overall effect: Z＝2.63 (p＝0.008)
+VCM Control
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3296
+[[p47]]
+Summary
+　これまで，局所VCM散布
+＊
+は整形外科領域の手術を中心に多くのメタ解析が報告されている
+PO～PS）
+。しかし，RCTを
+中心としたメタ解析ではその有用性は証明されておらず， 局所VCM散布
+＊
+の有用性はあくまで観察研究を中心とした
+メタ解析でのみ示唆されてきた
+PO～PT）
+。また，これまで報告されたメタ解析の中には，本来解析対象に含めるべきでな
+い研究が含まれたものや
+8）
+，SSI のイベント数について誤った記載がなされている研究
+16）
+等，その解釈に注意が必要な
+ものが散見される。
+　今回，解析対象とすべき論文を厳選し，そのデータを精査したうえで，直近の報告を含め 6 件の RCT を対象にメ
+タ解析を行った
+1～6）
+。コントロール群の中には，他の抗菌薬（アンピシリン）を局所散布した研究があったため
+5）
+，こ
+の論文を除外した感度解析も追加した。一方，funnel‌plot は文献数が限られていたため作成しない方針とした。
+　本解析では，整形外科手術の SSI 予防を目的とした局所 VCM 散布
+＊
+は，GPC による SSI の予防に関しては効果が
+得られる可能性が示されたが，本結果は骨折を対象とした1 件の RCT に強く誘導されていた点に注意が必要である。
+また，本ガイドラインの中では提示していないが，summary‌of‌findings を作成した場合の GRADE によるエビデン
+スレベルは“very‌low”に該当する。しかし，前述の如く他の有意差のない項目と差別化する目的で，executive‌sum-
+mary でのエビデンスレベルは“low”とすることになった。グラム陽性菌にのみ抗菌活性を有するバンコマイシンパ
+ウダーでの SSI 予防効果を評価するうえでは，清潔創手術を対象とし，primary‌endpoint をグラム陽性菌による SSI
+とした RCT の実施が望まれる。
+ਤ 5.　MRSA ʹΑΔ SSI͢ϑΥϨετϓϩοτ ʢCIɼRCTɼRRʹϦεΫൺɼ
+VCMʹόϯίϚΠγϯʣ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［Control］Favors［VCM］
+PO?POOOMOP?OMP
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI
+Mirzashahi 2018 0 193 1 187 49.9% 0.32 ［0.01, 7.88］
+Takeuchi 2018 0 116 1 114 50.1% 0.33 ［0.01, 7.96］
+Total (95% CI)  309  301 100.0% 0.33［0.03, 3.11］
+Total events 0  2
+Heterogeneity: Tau2＝0.00; Chi2＝0.00, df＝1 (p＝1.00); I2＝0%
+Test for overall effect: Z＝0.98 (p＝0.33)
+VCM Control
+ਤ 6.　ʹΑΔ SSI͢ϑΥϨετϓϩοτ ʢCIɼRCTɼRRʹϦεΫൺɼ
+VCMʹόϯίϚΠγϯʣ
+Odds Ratio Odds Ratio
+M-H, Fixed, 95% CI
+1
+Favors［Control］Favors［VCM］
+PO?POOOMOP?OMP
+Study or Subgroup Events Total Events Total Weight M-H, Fixed, 95% CI
+Kunakornsawat 2019 2 265 0 135 5.0% 2.57 ［0.12, 53.94］
+ldsqb?QOQP?PP?SWP?PO?SXX?VRMPD?PMPS?［OMSWK?QMVQ］
+Salimi 2022 6 187 2 188 14.7% 3.08 ［0.61, 15.47］
+Takeuchi 2018 0 116 0 114  Not estimable
+Tubaki 2013 2 433 1 474 7.2% 2.19 ［0.20, 24.29］
+Total (95% CI)  1,482  1,410 100.0% 1.58 ［0.79, 3.15］
+Total events 21  13
+Heterogeneity: Chi2＝1.36, df＝3 (p＝0.71); I2＝0%
+Test for overall effect: Z＝1.29 (p＝0.20)
+VCM Control
+ਤ 7.　͢ϑΥϨετϓϩοτʢ RCTɼRRʹϦεΫൺɼVCMʹό
+ϯίϚΠγϯʣ
+Risk Ratio Risk Ratio
+M-H, Random, 95% CI
+1
+Favors［Control］Favors［VCM］
+PO?POOOMOP?OMP
+Study or Subgroup Events Total Events Total Weight M-H, Random, 95% CI
+Kunakornsawat 2019 0 265 0 135  Not estimable
+METRC 2021 0 481 0 499  Not estimable
+Takeuchi 2018 0 116 0 114  Not estimable
+Tubaki 2013 0 433 0 474  Not estimable
+Total (95% CI)  1,295  1,222  Not estimable
+Total events 0  0
+Heterogeneity: Not applicable
+Test for overall effect: Not applicable
+VCM Control
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 297
+[[p48]]
+　一方で，MRSA に伴う SSI を予防する効果や，全SSI の予防効果は明らかでなく，これらもGRADE によるエビデ
+ンスレベルは“very‌low”であった。また，この傾向はインプラントの使用有無や術式（脊椎，骨折）ごとの解析で
+も同様であり，明らかな有用性を認めなかった。これらの結果から，局所VCM 散布
+＊
+の SSI 予防効果に関するエビデ
+ンスレベルは非常に低く，対象となった全文献で重篤な有害事象の報告は認めないものの，整形外科手術でMRSAに
+伴うSSIや全SSIの予防を目的とした局所VCM散布
+＊
+は，現時点ではルーチンで実施することは推奨できないと考え
+た。
+　本報告にはいくつかの限界がある。 第一に， 解析対象となった術式の少なさが挙げられる。 今回， 解析の対象となっ
+たのは脊椎手術と骨折手術だけであり，その他の術式について現時点で良質なデータ（RCT）がない。また，骨折手
+術で解析対象となったのは 1 件のみであった。整形外科領域には人工関節置換術をはじめその他さまざまな術式があ
+り，術式ごとに手術の特徴や患者背景は大きく異なる。そのため，本研究結果は脊椎や骨折手術等の限られた術式に
+対してのみ一般化が可能であり，再現性が期待できるものと考える。また， VCM の投与方法（部位，タイミングや
+量等）によるサブ解析は，解析対象となった文献数が限られており行うことができなかった。
+　第二に，一つ一つの研究の質の問題が挙げられる。本解析の対象となった研究は，バイアスリスクの高い報告が多
+く，局所 VCM 散布
+＊
+の投与方法（部位，タイミング等） ，投与量やSSI の評価方法（定義，追跡期間等）等は研究ご
+とに大きくばらつきがあり，heterogeneityに関するI
+2
+は低かったものの臨床的な異質性の問題が残る。また，すべて
+のアウトカムについて GRADE 評価を行った場合の evidence‌level は“very‌low”であった。第三に，観察研究を対
+象としなかったことが挙げられる。特に局所 VCM 散布
+＊
+の有害事象については，RCT だけでは症例数が限られ十分
+に把握することができていない。これまでに，局所 VCM 散布
+＊
+の有害事象の頻度は概ね低く，局所 VCM 散布
+＊
+のリ
+スクはそれほど高くないとするシステマティックレビューが報告されている。一方で，アナフィラキシーショックの
+可能性を示唆するケースレポート
+17）
+や，高濃度 VCM に伴う細胞毒性の可能性を示唆するさまざまな基礎的な研究も
+ある。また，局所 VCM 散布
+＊
+を使用した症例でも，MRSA や MSSA 等による SSI が報告されている。そのため，局
+所VCM散布
+＊
+の使用頻度が増えればVRSA（vancomycin-resistant‌Staphylococcus‌aureus）等より高度な耐性を獲得
+した耐性菌を誘導するリスクは残る。本解析の対象となった報告の中では，重篤な有害事象はなかったものの，数多
+の観察研究が未評価となったため，有害事象については概ね過小評価されている可能性が残る。第四に局所 VCM 散
+布
+＊
+は国内では保険収載されていない。第五に，本解析では検索対象を MEDLINE に絞ったことが挙げられる。しか
+し，本検索方法でも過去の主要なメタ解析で引用された RCT はほぼ網羅されていることは確認済みである。
+　今後は，研究手法や SSI 評価法を統一し，より多くの術式で良質な研究が行われエビデンスが蓄積されることが望
+まれる。
+＊
+保険適応外
+文　献
+1 ）‌Tubaki‌V‌R,‌Rajasekaran‌S,‌Shetty‌A‌P:‌Effects‌of‌using‌intravenous‌antibiotic‌only‌versus‌local‌intrawound‌vancomycin‌
+antibiotic‌powder‌application‌in‌addition‌to‌intravenous‌antibiotics‌on‌postoperative‌infection‌in‌spine‌surgery‌in‌907‌
+patients.‌Spine‌2013;‌38:‌2149-55.‌doi:‌10.1097/BRS.0000000000000015
+2 ）‌Mirzashahi‌B,‌Chehrassan‌M,‌Mortazavi‌S‌M‌J:‌Intrawound‌application‌of‌vancomycin‌changes‌the‌responsible‌germ‌in‌
+elective‌spine‌surgery‌without‌significant‌effect‌on‌the‌rate‌of‌infection:‌a‌randomized‌prospective‌study.‌Musculoskelet‌
+Surg‌2018;‌102:‌35-9.‌doi:‌10.1007/s12306-017-0490-z
+3 ）‌Kunakornsawat‌S,‌Sirikajohnirun‌S,‌Piyaskulkaew‌C,‌Pruttikul‌P,‌Kittithamvongs‌P,‌Pongpinyopap‌W,‌et‌al:‌Comparison‌
+between‌1‌g‌and‌2‌g‌of‌intrawound‌vancomycin‌powder‌application‌for‌prophylaxis‌in‌posterior‌instrumented‌thoracic‌
+or‌lumbosacral‌spine‌surgery:‌a‌preliminary‌report.‌Asian‌J‌Neurosurg‌2019;‌14:‌710-4.‌doi:‌10.4103/ajns.AJNS_294_17
+4 ）‌Salimi‌S,‌Khayat‌Kashani‌H‌R,‌Azhari‌S,‌Sadeghi‌S,‌Sheikhghomy‌S,‌Paryan‌P,‌et‌al:‌Local‌vancomycin‌therapy‌to‌
+reduce‌surgical‌site‌infection‌in‌adult‌spine‌surgery:‌a‌randomized‌prospective‌study.‌Eur‌Spine‌J‌2022;‌31:‌454-60.‌doi:‌
+10.1007/s00586-021-07050-5
+5 ）‌Takeuchi‌M,‌Wakao‌N,‌Kamiya‌M,‌Hirasawa‌A,‌Murotani‌K,‌Takayasu‌M:‌A‌double-blind‌randomized‌controlled‌trial‌of‌
+the‌local‌application‌of‌vancomycin‌versus‌ampicillin‌powder‌into‌the‌operative‌field‌for‌thoracic‌and/or‌lumbar‌fusions.‌
+J‌Neurosurg‌Spine‌2018;‌29:‌553-9.‌doi:‌10.3171/2018.3.SPINE171111
+6 ）‌O’Toole‌R‌V,‌Joshi‌M,‌Carlini‌A‌R,‌Murray‌C‌K,‌Allen‌L‌E,‌Huang‌Y,‌et‌al:‌Effect‌of‌intrawound‌vancomycin‌powder‌in‌
+operatively‌treated‌high-risk‌tibia‌fractures:‌a‌randomized‌clinical‌trial.‌JAMA‌Surg‌2021;‌156:‌e207259.‌doi:‌10.1001/
+jamasurg.2020.7259
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3298
+[[p49]]
+7 ）‌Ludwig‌do‌Nascimento‌T,‌Finger‌G,‌Sfreddo‌E,‌Martins‌de‌Lima‌Cecchini‌A,‌Martins‌de‌Lima‌Cecchini‌F,‌Stefani‌M‌A:‌
+Double-blind‌randomized‌clinical‌trial‌of‌vancomycin‌in‌spinal‌arthrodesis:‌no‌effects‌on‌surgical‌site‌infection.‌J‌Neuro-
+surg‌Spine‌2019;‌1-8.‌doi:‌10.3171/2019.6.SPINE19120
+8 ）‌Suh‌B‌K,‌Moon‌S‌H,‌Kim‌T‌H,‌Oh‌J‌K,‌Kwon‌Y‌S,‌Park‌J‌S,‌et‌al:‌Efficacy‌of‌antibiotics‌sprayed‌into‌surgical‌site‌for‌
+prevention‌of‌the‌contamination‌in‌the‌spinal‌surgery.‌Asian‌Spine‌J‌2015;‌9:‌517-21.‌doi:‌10.4184/asj.2015.9.4.517
+9 ）‌O’Toole‌R‌V,‌Joshi‌M,‌Carlini‌A‌R,‌Murray‌C‌K,‌Allen‌L‌E,‌Scharfstein‌D‌O,‌et‌al:‌Local‌antibiotic‌therapy‌to‌reduce‌
+infection‌after‌operative‌treatment‌of‌fractures‌at‌high‌risk‌of‌infection:‌a‌multicenter,‌randomized,‌controlled‌trial‌
+(VANCO‌Study).‌J‌Orthop‌Trauma‌2017;‌31‌Suppl‌1:‌S18-24.‌doi:‌10.1097/BOT.0000000000000801
+PO）‌b‌g‌xK‌g‌k‌`K‌a‌`‌dK‌b‌dK‌r‌l‌kY‌d‌‌‌‌‌‌‌
+surgical‌site‌infections:‌a‌meta-analysis.‌Spine‌J‌2014;‌14:‌397-407.‌doi:‌10.1016/j.spinee.2013.10.012
+11）‌Bakhsheshian‌J,‌Dahdaleh‌N‌S,‌Lam‌S‌K,‌Savage‌J‌W,‌Smith‌Z‌A:‌The‌use‌of‌vancomycin‌powder‌in‌modern‌spine‌sur-
+gery:‌systematic‌review‌and‌meta-analysis‌of‌the‌clinical‌evidence.‌World‌Neurosurg‌2015;‌83:‌816-23.‌doi:‌10.1016/
+j.wneu.2014.12.033
+12）‌Evaniew‌N,‌Khan‌M,‌Drew‌B,‌Peterson‌D,‌Bhandari‌M,‌Ghert‌M:‌Intrawound‌vancomycin‌to‌prevent‌infections‌after‌
+spine‌surgery:‌a‌systematic‌review‌and‌meta-analysis.‌Eur‌Spine‌J‌2015;‌24:‌533-42
+13）‌Khan‌N‌R,‌Thompson‌C‌J,‌DeCuypere‌M,‌Angotti‌J‌M,‌Kalobwe‌E,‌Muhlbauer‌M‌S,‌et‌al:‌A‌meta-analysis‌of‌spinal‌sur-
+gical‌site‌infection‌and‌vancomycin‌powder.‌J‌Neurosurg‌Spine‌2014;‌21:‌974-83.‌doi:‌10.3171/2014.8.SPINE1445
+14）‌Kang‌D‌G,‌Holekamp‌T‌F,‌Wagner‌S‌C,‌Lehman‌R‌A‌Jr:‌Intrasite‌vancomycin‌powder‌for‌the‌prevention‌of‌surgical‌site‌
+infection‌in‌spine‌surgery:‌a‌systematic‌literature‌review.‌Spine‌J‌2015;‌15:‌762-70.‌doi:‌10.1016/j.spinee.2015.01
+15）‌Sweet‌F‌A,‌Roh‌M,‌Sliva‌C:‌Intrawound‌application‌of‌vancomycin‌for‌prophylaxis‌in‌instrumented‌thoracolumbar‌
+fusions:‌efficacy,‌drug‌levels,‌and‌patient‌outcomes.‌Spine‌2011;‌36:‌2084-8.‌doi:‌10.1097/BRS.0b013e3181ff2cb1
+16）‌Kim‌E‌K,‌Donnelley‌C‌A,‌Tiee‌M,‌Roberts‌H‌J,‌Von‌Kaeppler‌E,‌Shearer‌D,‌et‌al:‌Prophylactic‌topical‌antibiotics‌in‌frac-
+ture‌repair‌and‌spinal‌fusion.‌Adv‌Orthop‌2021;‌2021:‌1949877.‌doi:‌10.1155/2021/1949877
+17）‌Mariappan‌R,‌Manninen‌P,‌Massicotte‌E‌M,‌Bhatia‌A:‌Circulatory‌collapse‌after‌topical‌application‌of‌vancomycin‌pow-
+der‌during‌spine‌surgery.‌J‌Neurosurg‌Spine‌2013;‌19:‌381-3.‌doi:‌10.3171/2013.6.SPINE1311
+CQ9．  抗菌薬（抗 MRSA 薬を含む）含有骨セメントの使用は術後の深部手術部位感染予防に有用か
+推奨：抗菌薬含有骨セメントは，初回人工関節置換術手術で術後深部手術部位感染（術後深部 SSI）の予防を目的と
+してルーチンで使用しないことを弱く推奨する。
+推奨の強さ：実施しないことを弱く推奨する（提案する）
+エビデンス総体の確実性：D（非常に弱い）
+Executive summary
+1
+．‌‌初回人工関節置換術手術で術後深部手術部位感染（術後深部SSI）の予防を目的とした抗菌薬含有骨セメントの使
+用は，周術期予防抗菌薬の全身投与を行っていない症例も含めた解析では，術後深部SSIを予防する可能性がある
+（エビデンス D）。
+2．‌‌初回人工股関節置換術手術で抗菌薬含有骨セメントの使用は， 周術期予防抗菌薬の全身投与を行っていない症例を
+対象とした解析では，術後深部 SSI の予防効果を認めない（エビデンス D）。
+3．‌‌初回人工膝関節置換術手術で抗菌薬含有骨セメントの使用は， 周術期予防抗菌薬の全身投与の有無にかかわらず術
+後深部 SSI 予防効果を認めない（エビデンス D）。
+4．‌‌初回人工膝関節置換術手術で抗MRSA薬含有骨セメントの使用が術後深部MRSA-SSI予防に有用であることを示
+す十分な根拠はない（エビデンス D）。
+調査方法
+設定
+P：Patients（患者） ；人工関節置換術施行患者
+I：Interventions（介入） ；抗菌薬含有骨セメント使用
+C
+： ‌‌Comparisons（比較対照） ；‌
+抗菌薬含有骨セメント非使用‌
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 299
+[[p50]]
+（抗菌薬非含有骨セメント固定人工関節）
+O： ‌‌Outcomes（アウトカム）‌
+1）Primary‌outcome‌
+　　①人工関節深部 SSI の予防効果　重要性 7 点‌
+2）Secondary‌outcome：‌
+　　②術式ごとの術後深部感染‌
+　　　ⅰ．人工股関節置換術（THA；total‌hip‌arthroplasty）深部 SSI の予防効果‌
+　　　　　　重要性 6 点（周術期抗菌薬投与なし）‌
+　　　ⅱ．人工膝関節置換術（TKA；total‌knee‌arthroplasty）深部 SSI の予防効果‌
+　　　　　　重要性 6 点（周術期抗菌薬投与有無に無関係）‌
+　③抗 MRSA 薬（VCM）含有骨セメントの術後‌
+　　MRSA-SSI に対する予防効果　重要性 6 点
+探索
+　2022 年 7 月までの PubMed のデータベースを下記検索式で検索した。
+　(“
+Antibiotic‌Bone‌Cement”‌[All‌Fields]‌OR‌“Antibiotic-loaded‌Cement”‌[All‌Fields]‌OR‌“Antibiotic-laden‌Cement”‌
+[All‌Fields]‌OR‌“Antibiotic-Impregnated‌Cement”‌[All‌Fields])‌AND‌(“Total‌Knee‌Arthroplasty”‌[All‌Fields]‌OR‌
+“Total‌Knee‌Replacement”‌[All‌Fields]‌OR‌“Total‌Knee‌Prosthesis”‌[All‌Fields]‌OR‌“Total‌hip‌Arthroplasty”‌[All‌
+Fields]‌OR‌“Total‌hip‌Replacement”‌[All‌Fields]‌OR‌“Total‌hip‌Prosthesis”‌[All‌Fields])
+　これまでに報告されたメタ解析やシステマティックレビューをみると，初回人工関節置換術に抗菌薬含有骨セメン
+トを使用した症例の，術後深部 SSI の予防効果に関する RCT のみを集めたメタ解析は，2020 年に Sebastian らによ
+る報告
+1）
+がある。しかし，その後に新たなRCT
+2）
+が 1 文献，報告された。いままでに抗菌薬含有骨セメントを使用した
+症例の術後感染予防効果については，レジストリデータを使用した観察研究や，RCTと観察研究を含めたメタ解析が
+多数報告されているが，それらを統合して得られる結果が，RCTのみを統合して得られる結果を覆す可能性は低いと
+考え，本レビューでは現時点で検索可能な RCT のみを対象にすることとした。
+結果
+　上記探索から 837 件の文献が検出され，2 名で Rayyan を用いてタイトルと抄録を確認した。829 件の文献が除外さ
+れ，残った 8 つの文献について全文確認を行い
+1～8）
+，メタ解析，システマティックレビューの 1 文献
+1）
+，同一著者によ
+る2文献で，症例が重なっていると思われる1文献
+3）
+が除外された。判断に迷う文献は，すべての過程で執筆責任者を
+含めた 3 名以上で議論し確定した。6 件の RCT 研究が選択基準を満たしたため，メタ解析が施行された
+2，4～8）
+。
+　内訳は，下記のとおりである。
+・ ‌‌RCT‌6件であった。1つの文献
+3）
+は著者が同じであり，症例の詳細を確認すると膝の症例数がほぼ同じ症例で，特に
+2 文献とも感染症例の原因菌がStaphylococcus‌aureus と同じであり，最高年齢も 91 歳と同じであることから，同
+一症例が含まれていると判断し除外した。1 つの文献
+1）
+はメタ解析，システマティックレビューであり，RCT では
+ないが参考にした。
+・‌‌実施地域は，アジア 2 文献（中国 2 文献
+6，7）
+） ，南米1 文献（ブラジル 1 文献
+2）
+） ，欧州3 文献（イギリス 1 文献
+4）
+，ス
+ウェーデン 1 文献
+5）
+，スペイン 1 文献
+8）
+）であった。
+・‌‌症例数は，6 文献の RCT
+2，4～8）
+から 5,745 例の患者データが抽出された。そのうち抗菌薬含有骨セメント使用群 2,887
+例，抗菌薬含有骨セメント非使用群 2,858 例であった。
+・‌‌術式は TKA が RCT‌5 文献
+2，4，6～8）
+（合計 3,677 例，抗菌薬含有骨セメント使用群1,844 例，抗菌薬含有骨セメント非使
+用群 1,833 例 ），THA が RCT‌2 文献
+4，5）
+（合計 2,068 例，抗菌薬含有骨セメント使用群 1,043 例，抗菌薬含有骨セメン
+ト非使用群 1,025 例）であった。
+・‌‌骨セメントに含有された抗菌薬は骨セメント 1 パックに cefuroxime‌1.5‌g 含有が 1 文献
+4）
+，cefuroxime‌2‌g 含有が 2
+文献
+6，7）
+，VCM‌2‌g 含有が 1 文献
+2）
+，GM‌0.5‌g 含有が 1 文献
+5）
+，erythromycin‌0.5‌g と colistin‌3 万単位が 1 文献
+8）
+で
+あった。
+・‌‌術中の抗菌薬全身投与は，2001 年の Chiu ら
+6）
+の論文より以前の論文
+4，5）
+は，抗菌薬含有セメントを使用した群には，
+予防抗菌薬の全身投与が併用されていなかった。
+・‌‌予防抗菌薬の全身投与に使用された抗菌薬は術前 cefuroxime‌ 1.5‌g‌i.v.，術後 6 時間，12 時間に cefuroxime‌ 0.75‌g‌
+i.m. が 1 文献
+4）
+，マルチセンターでの研究で cloxacillin，dicloxacillin 等のペニシリン系抗菌薬が 7～14 日間投与，
+cephalexin 等の第 1 世代セフェム系抗菌薬を 9～11 日間投与の報告が 1 文献
+5）
+，術前に CEZ（500‌mg）と GM
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3300
+[[p51]]
+（80‌mg） ，術後にCEZ‌500‌mgを6時間ごととGM‌80‌mgを12時間ごと36時間まで投与し，内服
+※※
+のCEZ‌500‌mg
+を 6 時間ごと 7 日間の投与の報告が 2 文献
+6，7）
+，CEZ‌2‌g 術前投与，術後は8 時間おきに術後 24 時間まで投与，β―ラ
+クタムにアレルギーがある場合は術前に VCM‌1‌g を投与，術後は 12 時間ごとに術後 24 時間まで投与が 1 文献
+8）
+，
+CEZ‌2‌g 術前投与，術後は 8 時間おきに CEZ‌1‌g を術後 24 時間まで投与が 1 文献
+2）
+であった。
+※※
+CEZ は欧米および日本国内では内服剤が存在せず，注射剤のみ。
+・‌‌抗菌薬含有骨セメントを使用した群の SSI 原因菌は，混合感染（複数菌）1 例と no‌growth‌1 例
+4）
+，S.‌aureus‌2 例と
+混合感染（複数菌）1 例とStaphylococcus‌epidermidis‌1 例と negative‌culture‌1 例と培養未提出 1 例
+5）
+，混合感染
+（複数菌）9例とS.‌aureus‌5 例とStaphylococcus‌species‌1 例と Gram-negative‌rod‌3 例とPropionibacterium‌acnes‌
+1 例と negative‌culture‌1 例
+8）
+，Proteus‌mirabilis‌1 例と MSSA‌1 例
+2）
+であった。
+・‌‌抗菌薬含有骨セメントを使用しなかった群の SSI 原因菌に，MRSA が 1 例
+6）
+と 2 例
+2）
+検出された。
+・ ‌‌SSI の定義は，術後深部感染（deep‌infection）とし，表層感染（superficial‌infection）は検討しなかった。
+・‌‌経過観察期間は，術後 12 カ月時点の感染の有無とする文献
+8）
+から，最短 5 年以上とする文献
+5）
+等，さまざまであっ
+た。
+文　献
+1 ）‌Sebastian‌S,‌Liu‌Y,‌Christensen‌R,‌Raina‌D‌B,‌Tägil‌M,‌Lidgren‌L:‌Antibiotic‌containing‌bone‌cement‌in‌prevention‌of‌
+hip‌and‌knee‌prosthetic‌joint‌infections:‌a‌systematic‌review‌and‌meta-analysis.‌J‌Orthop‌Translat‌2020;‌23:‌53-60.‌doi:‌
+10.1016/j.jot.2020.04.005
+2 ）‌Cobra‌H‌A‌A‌B,‌Mozella‌A‌P,‌Labronici‌P‌J,‌Cavalcanti‌A‌S,‌Guimarães‌J‌A‌M:‌Infection‌after‌primary‌total‌knee‌
+arthroplasty:‌a‌randomized‌controlled‌prospective‌study‌of‌the‌addition‌of‌antibiotics‌to‌bone‌cement.‌Rev‌Bras‌Ortop‌
+2021;‌56:‌621-7.‌‌doi:‌10.1055/s-0041-1729941
+3 ）‌McQueen‌M,‌Littlejohn‌A,‌Hughes‌S‌P:‌A‌comparison‌of‌systemic‌cefuroxime‌and‌cefuroxime‌loaded‌bone‌cement‌in‌the‌
+prevention‌of‌early‌infection‌after‌total‌joint‌replacement.‌Int‌Orthop‌1987;‌11:‌241-3.‌‌doi:‌10.1007/BF00271455
+4 ）‌McQueen‌M‌M,‌Hughes‌S‌P,‌May‌P,‌Verity‌L:‌Cefuroxime‌in‌total‌joint‌arthroplasty.‌Intravenous‌or‌in‌bone‌cement.‌J‌
+Arthroplasty‌1990;‌5:‌169-72.‌‌PMID:‌2107994.‌doi:‌10.1016/s0883-5403(06)80236-6
+5 ）‌Josefsson‌G,‌Gudmundsson‌G,‌Kolmert‌L,‌Wijkström‌S:‌Prophylaxis‌with‌systemic‌antibiotics‌versus‌gentamicin‌bone‌
+cement‌in‌total‌hip‌arthroplasty.‌A‌five-year‌survey‌of‌1688‌hips.‌Clin‌Orthop‌Relat‌Res‌1990;‌253:‌173-8.‌PMID:‌2107994
+6 ）‌Chiu‌F‌Y,‌Lin‌C‌F,‌Chen‌C‌M,‌Lo‌W‌H,‌Chaung‌T‌Y:‌Cefuroxime-impregnated‌cement‌at‌primary‌total‌knee‌arthro-
+plasty‌in‌diabetes‌mellitus.‌A‌prospective,‌randomised‌study.‌J‌Bone‌Joint‌Surg‌Br‌2001;‌83:‌691-5.‌doi:‌10.1302/0301-
+620x.83b5.11737
+7 ）‌Chiu‌F‌Y,‌Chen‌C‌M,‌Lin‌C‌F,‌Lo‌W‌H:‌Cefuroxime-impregnated‌cement‌in‌primary‌total‌knee‌arthroplasty:‌a‌prospec-
+tive,‌randomized‌study‌of‌three‌hundred‌and‌forty‌knees.‌J‌Bone‌Joint‌Surg‌Am‌2002;‌84:‌759-62.‌PMID:‌12004017
+8 ）‌Hinarejos‌P,‌Guirro‌P,‌Leal‌J,‌Montserrat‌F,‌Pelfort‌X,‌Sorli‌M‌L,‌et‌al:‌The‌use‌of‌erythromycin‌and‌colistin-loaded‌
+cement‌in‌total‌knee‌arthroplasty‌does‌not‌reduce‌the‌incidence‌of‌infection:‌a‌prospective‌randomized‌study‌in‌3000‌
+knees.‌J‌Bone‌Joint‌Surg‌Am‌2013;‌95:‌769-74.‌doi:‌10.2106/JBJS.L.00901
+CQ10．整形外科領域のインプラント感染で RFP の併用は有効か
+推奨：整形外科領域のインプラント感染では原因菌や手術の種類を考慮しRFPの併用を行うことを弱く推奨する （提
+案する） 。ただし，RFP を併用する場合の投与期間に関しては耐性化の懸念も考慮し症例ごとに慎重な検討が必要で
+ある。
+推奨の強さ：弱く推奨する（提案する）
+エビデンス総体の確実性：C（弱い）
+Executive summary
+1
+．‌‌整形外科領域のインプラント手術 （人工関節置換術， 脊椎インストゥルメンテーションおよび骨折インプラント手
+術）に関連する感染に対するリファンピシン（RFP）
+＊
+の併用は有効である可能性がある（エビデンス C）。
+2．‌‌術式別ではデブリドマンのみでインプラントを温存するdebridement，antibiotics，and‌implant‌retention（DAIR）
+および一期的再置換術において，RFP
+＊
+の併用は有効である可能性がある（エビデンスC） 。一方，二期的再置換術
+後においては有効性を認めない（エビデンス D）。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 301
+[[p52]]
+3．‌‌原因菌別ではStaphylococcus，Cutibacterium（以前のPropionibacterium，P.‌acnes 等 ），Streptococcus のいずれ
+による感染に対しても RFP
+＊
+の併用は有効である可能性がある（エビデンス C）。
+4． ‌‌RFP
+＊
+と併用する抗菌薬では，フルオロキノロン系薬が有効である可能性がある（エビデンスC） 。一方，その他の
+抗菌薬では有効性を認めない（エビデンス D）。
+5．‌‌有害事象に関して，RFP
+＊
+併用群とコントロール群の間で有意差を認めない。しかし，RFP
+＊
+併用による有害事象症
+例が複数報告されており注意を要する（エビデンス D）。
+＊
+保険適応外
+調査方法
+設定
+P：Patients（患者） ；整形外科関連手術（主に脊椎，骨折，人工関節）後のSSI
+I：Interventions（介入） ；RFP
+＊
+併用療法
+C：Comparisons（比較対照） ；RFP
+＊
+使用なし
+O： ‌‌Outcomes（アウトカム）‌
+①全インプラント感染の治癒　重要度 8‌
+②術式別治癒　重要度 7‌
+③原因菌別治癒　重要度 7‌
+④併用抗菌薬別治癒　重要度 7‌
+⑤有害事象　重要度 7
+探索
+　2022 年 8 月までの PubMed，
+Cochrane‌Central‌Register‌of‌Controlled‌Trials，CINAHL のデータベースを下記検
+索式で検索した。
+　
+Database:‌PubMed
+　(“antibiotic‌therapy”‌[Title/Abstract]‌OR‌“anti‌bacterial‌agents/therapy”‌[MeSH‌Terms]‌OR‌“Rifampin”‌[MeSH‌
+Terms]‌OR‌“Rifampin”‌[Title/Abstract]‌OR‌“Rifampicin”‌[Title/Abstract])‌AND‌(“prosthesis‌related‌infections”‌
+[MeSH‌ Terms]‌ OR‌“prosthesis‌ related‌ infection
+＊
+”‌ [Title/Abstract]‌ OR‌“periprosthetic‌ joint‌ infection
+＊
+”‌ [Title/
+Abstract]‌OR‌“prosthetic‌joint‌infection
+＊
+”‌[Title/Abstract]‌OR‌((“infection
+＊
+”‌[Title/Abstract]‌OR‌“Surgical‌Wound‌
+Infection”‌ [MeSH‌ Terms])‌ AND‌ (“Orthopedics”‌ [MeSH‌ Terms]‌ OR‌“orthopedic
+＊
+”‌ [Title/Abstract]‌ OR‌ (“spinal‌
+fusion”‌[Title/Abstract]‌OR‌“spinal‌implant”‌[Title/Abstract]‌OR‌“spinal‌surgery”‌[Title/Abstract])‌OR‌(“fracture‌
+fixation,‌internal”‌[MeSH‌Terms]‌OR‌“internal‌fracture‌fixation
+＊
+”‌[Title/Abstract]‌OR‌“osteosynthesis‌fracture”‌
+[Title/Abstract]‌OR‌“fracture‌osteosynthes
+＊
+”‌[Title/Abstract]‌OR‌“Osteosynthesis‌Material”‌[Title/Abstract])‌OR‌
+(“arthroplast
+＊
+”‌ [Title/Abstract]‌ OR‌“joint‌ prosthesis‌ implantation
+＊
+”‌ [Title/Abstract]‌ OR‌“joint‌ replacement
+＊
+”‌
+[Title/Abstract])))
+　
+Database:‌Cochrane‌Central‌Register‌of‌Controlled‌Trials
+　‌([mh“Anti‌Bacterial‌Agents”]‌OR‌(“antibiotic‌therapy”):‌ti,‌ab,‌kw‌OR‌[mh‌Rifampin]‌OR‌(Rifampin):‌ti,‌ab,‌kw‌OR‌
+(Rifampicin):‌ti,‌ab,‌kw)‌AND‌(([mh‌“prosthesis‌related‌infections”]‌OR‌(“prosthesis‌related‌infection
+＊
+”):‌ti,‌ab,‌kw‌OR‌
+(“periprosthetic‌joint‌infection
+＊
+”):‌ti,‌ab,‌kw‌OR‌(“prosthetic‌joint‌infection
+＊
+”):‌ti,‌ab,‌kw)‌OR‌(([mh‌Orthopedics]‌OR‌
+(Orthopedic
+＊
+):‌ti,‌ab,‌kw‌OR‌(“spinal‌fusion”):‌ti,‌ab,‌kw‌OR‌(“spinal‌implant”):‌ti,‌ab,‌kw‌OR‌(“spinal‌surgery”):‌ti,‌ab,‌
+kw‌OR‌[mh‌“fracture‌fixation,‌internal”]‌OR‌(“internal‌fracture‌fixation
+＊
+”):‌ti,‌ab,‌kw‌OR‌(“osteosynthesis‌fracture”):‌
+ti,‌ab,‌kw‌OR‌(“fracture‌osteosynthes
+＊
+”):‌ti,‌ab,‌kw‌OR‌(“Osteosynthesis‌Material”):‌ti,‌ab,‌kw‌OR‌(arthroplast
+＊
+):‌ti,‌ab,‌
+kw‌OR‌(“joint‌prosthesis‌implantation
+＊
+”):‌ti,‌ab,‌kw‌OR‌(“joint‌replacement
+＊
+”):‌ti,‌ab,‌kw)‌AND‌([mh‌infections]‌OR‌
+(infection
+＊
+):‌ti,‌ab,‌kw)))
+　Database:‌CINAHL
+　(MH‌“Antiinfective‌Agents”‌OR‌AB‌“antibiotic‌therapy”‌OR‌MH‌Rifampin‌OR‌AB‌Rifampin‌OR‌AB‌Rifampicin)‌
+AND‌((MH‌“prosthesis‌related‌infections”‌OR‌AB‌“prosthesis‌related‌infection
+＊
+”‌OR‌AB‌“periprosthetic‌joint‌infec-
+tion
+＊
+”‌OR‌AB‌“prosthetic‌joint‌infection
+＊
+”)‌OR‌((MH‌infections‌OR‌AB‌infection
+＊
+)‌AND‌((MH‌Orthopedics‌OR‌AB‌
+Orthopedic
+＊
+)‌OR‌(AB‌“spinal‌fusion”‌OR‌AB‌“spinal‌implant”‌OR‌AB‌“spinal‌surgery”)‌OR‌(MH‌“fracture‌fixation,‌
+internal”‌OR‌AB‌“internal‌fracture‌fixation
+＊
+”‌OR‌AB‌“osteosynthesis‌fracture”‌OR‌AB‌“fracture‌osteosynthes
+＊
+”‌
+OR‌AB‌“Osteosynthesis‌Material”)‌OR‌(AB‌arthroplast
+＊
+‌OR‌AB‌“joint‌prosthesis‌implantation
+＊
+”‌OR‌AB‌“joint‌
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3302
+[[p53]]
+replacement
+＊
+”))))
+結果
+　2,370 件の文献が検出され，2 名で Rayyan を用いてタイトルと抄録を確認。2,330 件の文献が除外され，残った 40
+件の文献について全文確認を行い，14 文献が除外された。判断に迷う文献は，すべての過程において2 名で議論し確
+定した（図 1）。26 件の研究が選択基準を満たし，解析された。
+　内訳は，下記のとおりである。
+・ ‌‌RCT‌1 件
+1）
+，観察研究 25 件
+2～26）
+であった。
+・‌‌実施地域はアジア 1 件（韓国1 件） ，北米3 件，南米0 件，欧州22 件（イタリア1 件，オランダ3 件，スイス3 件，
+スウェーデン 1 件，スペイン 8 件，ドイツ 1 件，フランス 5 件） ，アフリカ0 件，オセアニア 0 件であった。また，
+26 件中 17 件が多施設共同研究であった。
+・‌‌症例数は，26 件の論文から 3,055 例の患者データが抽出された。そのうち RFP
+＊
+併用群 1,639 例，コントロール群
+1,416 例であった。
+・‌‌術式は脊椎インストゥルメンテーション手術が観察研究 1 件（100 例） ，人工関節置換術が24 件（2,956 例） ，人工
+関節置換術および下肢の骨折手術が 1 件（RCT：24 例）であった。
+・ ‌‌RFP
+＊
+の 1 回の投与量，投与間隔は 450‌mg/12 時間ごとが 8 件，600‌mg/24 時間ごとが 3 件，その他 3 件で，記載
+のない論文が12件であった。投与方法は静脈内投与または経口投与であった。投与期間は研究間にばらつきがあっ
+ਤ 1.　બ୒ͷྲྀΕΛද͢ PRISMA flow diagram
+Studies included in review
+(n＝26）
+Reports assessed for eligibility
+(n＝40） 
+Reports sought for retrieval
+(n＝40） 
+Records screened
+(n=1,643）
+Records identified from: 
+PubMed（n＝1,849）
+Cochrane（n＝235）
+CINAHL（n＝286）
+Identification of studies via databases and registers
+Reports excluded:
+v?（＝PO）
+Wrong population（n＝4）
+Reports not retrieved
+(n＝0）
+Records excluded
+(n＝1,603）
+Records removed before
+screening:
+Duplicate records removed
+(n=271）
+Records marked as ineligible
+by automation tools（n＝456）
+IdentificationScreeningIncluded
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 303
+[[p54]]
+た。
+・‌‌インプラント感染の診断基準は，Infectious‌Diseases‌Society‌of‌America（IDSA）の人工関節周囲感染（Prosthetic‌
+Joint‌Infection：PJI）診断基準が 9 件，Musculoskeletal‌Infection‌Society（MSIS）の PJI 診断基準が 6 件，独自の
+診断基準が?PO?件，P?件の研究では記載がなかった。
+・‌‌インプラント感染に対する手術法は，人工関節に対しては DAIR，一期的再置換術，二期的再置換術，インプラン
+ト抜去，関節固定術であった。脊椎インストゥルメンテーション，骨折インプラントに対しては， DAIR，インプ
+ラント抜去であった。
+・ ‌‌RFP
+＊
+併用の対象となった主な原因菌はStaphylococcus（MSSA，MRSA，MRSE，CNS），Streptococcus，Cutibac-
+terium であった。
+・ ‌‌RFP
+＊
+との併用薬は co-trimoxazole（sulfamethoxazole-trimethoprim） ，フルオロキノロン系薬であるciprofloxacin
+＊
+およびlevofloxacin
+＊
+， リンコマイシン系薬であるclindamycin
+＊
+， テトラサイクリン系薬， ペニシリン系薬，linezolid
+＊
+，
+teicoplanin
+＊
+であった。
+＊
+保険適応外
+文　献
+1 ）‌Zimmerli‌W,‌Widmer‌A‌F,‌Blatter‌M,‌Frei‌R,‌Ochsner‌P‌E:‌Role‌of‌rifampin‌for‌treatment‌of‌orthopedic‌implant-related‌
+staphylococcal‌infections:‌A‌randomized‌controlled‌trial.‌Foreign-Body‌Infection‌(FBI)‌Study‌Group.‌JAMA‌1998;‌279:‌
+1537-41.‌doi:‌10.1001/jama.279.19.1537
+2 ）‌Metzger‌B‌S,‌Adams‌J‌S,‌Bernett‌J‌R,‌Mandel‌R‌M,‌Prokesch‌R‌C,‌Lo‌C‌T,‌et‌al:‌313.‌Outpatient‌treatment‌and‌recur-
+rence‌of‌prosthetic‌joint‌infection‌(PJI)‌in‌Infectious‌Disease‌(ID)‌Physician‌Office‌Infusion‌Centers‌(POICs):‌A‌2-year‌
+retrospective‌multicenter‌analysis.‌Open‌Forum‌Infect‌Dis‌2018;‌5:‌S126-7.‌https://doi.org/10.1093/ofid/ofy210.324
+3 ）‌Senneville‌E,‌Joulie‌D,‌Legout‌L,‌Valette‌M,‌Dezèque‌H,‌Beltrand‌E,‌et‌al:‌Outcome‌and‌predictors‌of‌treatment‌failure‌
+in‌total‌hip/knee‌prosthetic‌joint‌infections‌due‌to‌Staphylococcus‌aureus.‌Clin‌Infect‌Dis‌2011;‌53:‌334-40.‌doi:‌10.1093/
+cid/cir402
+4 ）‌Holmberg‌A,‌Thórhallsdóttir‌V‌G,‌Robertsson‌O,‌W-Dahl‌A,‌Stefánsdóttir‌A:‌75%‌success‌rate‌after‌open‌debridement,‌
+exchange‌ of‌ tibial‌ insert,‌ and‌ antibiotics‌ in‌ knee‌ prosthetic‌ joint‌ infections.‌ Acta‌ Orthop‌ 2015;‌ 86:‌ 457-62.‌ doi:‌
+10.3109/17453674.2015.1026756
+5 ）‌Soriano‌A,‌García‌S,‌Bori‌G,‌Almela‌M,‌Gallart‌X,‌Macule‌F,‌et‌al:‌Treatment‌of‌acute‌post-surgical‌infection‌of‌joint‌
+arthroplasty.‌Clin‌Microbiol‌Infect‌2006;‌12:‌930-3.‌doi:‌10.1111/j.1469-0691.2006.01463.x
+6 ）‌Jacobs‌A‌M‌E,‌Van‌Hooff‌M‌L,‌Meis‌J‌F,‌Vos‌F,‌Goosen‌J‌H:‌Treatment‌of‌prosthetic‌joint‌infections‌due‌to‌Propioni-
+bacterium.‌ Similar‌ results‌ in‌ 60‌ patients‌ treated‌ with‌ and‌ without‌ rifampicin.‌ Acta‌ Orthop‌ 2016;‌ 87:‌ 60-6.‌ doi:‌
+10.3109/17453674.2015.1094613
+7 ）‌Fiaux‌E,‌Titecat‌M,‌Robineau‌O,‌Lora-Tamayo‌J,‌El‌Samad‌Y,‌Etienne‌M,‌et‌al:‌Outcome‌of‌patients‌with‌streptococcal‌
+prosthetic‌joint‌infections‌with‌special‌reference‌to‌rifampicin‌combinations.‌BMC‌Infect‌Dis‌2016;‌16:‌568.‌doi:‌10.1186/
+s12879-016-1889-0
+8 ）‌Piggott‌D‌A,‌Higgins‌Y‌M,‌Melia‌M‌T,‌Ellis‌B,‌Carroll‌K‌C,‌McFarland‌E‌G,‌et‌al:‌Characteristics‌and‌treatment‌out-
+comes‌of‌Propionibacterium‌acnes‌prosthetic‌shoulder‌infections‌in‌adults.‌Open‌Forum‌Infect‌Dis‌2015;‌3:‌ofv191.‌doi:‌
+10.1093/ofid/ofv191
+9 ）‌Cho‌O‌H,‌Bae‌I‌G,‌Moon‌S‌M,‌Park‌S‌Y,‌Kwak‌Y‌G,‌Kim‌B‌N,‌et‌al:‌Therapeutic‌outcome‌of‌spinal‌implant‌infections‌
+caused‌ by‌ Staphylococcus‌ aureus:‌ A‌ retrospective‌ observational‌ study.‌ Medicine‌ 2018;‌ 97:‌ e12629.‌ doi:‌ 10.1097/
+MD.0000000000012629
+PO）‌`‌sK‌o‌oK‌a‌fK‌l‌lK‌q‌qK‌d‌rY‌n‌K‌‌K‌‌L
+bidity‌influence‌the‌outcome‌of‌prosthetic‌joint‌infections‌undergoing‌2-stage‌exchange.‌J‌Arthroplasty‌2017;‌32:‌2239-43.‌
+doi:‌10.1016/j.arth.2017.02.057
+11）‌Tornero‌E,‌Morata‌L,‌Martínez-Pastor‌J‌C,‌Angulo‌S,‌Combalia‌A,‌Bori‌G,‌et‌al:‌Importance‌of‌selection‌and‌duration‌of‌
+antibiotic‌regimen‌in‌prosthetic‌joint‌infections‌treated‌with‌debridement‌and‌implant‌retention.‌J‌Antimicrob‌Che-
+mother‌2016;‌71:‌1395-401.‌doi:‌10.1093/jac/dkv481
+12）‌Mahieu‌R,‌Dubée‌V,‌Seegers‌V,‌Lemarié‌C,‌Ansart‌S,‌Bernard‌L,‌et‌al:‌The‌prognosis‌of‌streptococcal‌prosthetic‌bone‌
+and‌joint‌infections‌depends‌on‌surgical‌management—A‌multicenter‌retrospective‌study.‌Int‌J‌Infect‌Dis‌2019;‌85:‌175-
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3304
+[[p55]]
+81.‌doi:‌10.1016/j.ijid.2019.06.012
+13）‌Wouthuyzen-Bakker‌M,‌Sebillotte‌M,‌Lomas‌J,‌Taylor‌A,‌Palomares‌E‌B,‌Murillo‌O,‌et‌al:‌Clinical‌outcome‌and‌risk‌fac-
+tors‌for‌failure‌in‌late‌acute‌prosthetic‌joint‌infections‌treated‌with‌debridement‌and‌implant‌retention.‌J‌Infect‌ ‌2019;‌
+78:‌40-7.‌doi:‌10.1016/j.jinf.2018.07.014
+14）‌Muñoz-Gallego‌I,‌Viedma‌E,‌Esteban‌J,‌Mancheño-Losa‌M,‌García-Cañete‌J,‌Blanco-García‌A,‌et‌al:‌Genotypic‌and‌pheno-
+typic‌characteristics‌of‌Staphylococcus‌aureus‌prosthetic‌joint‌infections:‌Insight‌on‌the‌pathogenesis‌and‌prognosis‌of‌a‌
+multicenter‌prospective‌cohort.‌Open‌Forum‌Infect‌Dis‌2020:‌7:‌ofaa344.‌doi:‌10.1093/ofid/ofaa344
+15）‌Beldman‌M,‌Löwik‌C,‌Soriano‌A,‌Albiach‌L,‌Zijlstra‌W‌P,‌Knobben‌B‌A‌S,‌et‌al:‌If,‌when,‌and‌how‌to‌use‌rifampin‌in‌
+acute‌staphylococcal‌periprosthetic‌joint‌infections,‌a‌multicentre‌observational‌study.‌Clin‌Infect‌Dis‌2021;‌73:‌1634-41.‌
+doi:‌10.1093/cid/ciab426
+16）‌Andronic‌O,‌Achermann‌Y,‌Jentzsch‌T,‌Bearth‌F,‌Schweizer‌A,‌Wieser‌K,‌et‌al:‌Factors‌affecting‌outcome‌in‌the‌treat-
+ment‌of‌streptococcal‌periprosthetic‌joint‌infections:‌results‌from‌a‌single-centre‌retrospective‌cohort‌study.‌Int‌Orthop‌
+2021;‌45:‌57-63.‌doi:‌10.1007/s00264-020-04722-7
+17）‌Morata‌L,‌Senneville‌E,‌Bernard‌L,‌Nguyen‌S,‌Buzelé‌R,‌Druon‌J,‌et‌al:‌A‌Retrospective‌Review‌of‌the‌Clinical‌Experi-
+ence‌of‌Linezolid‌with‌or‌Without‌Rifampicin‌in‌Prosthetic‌Joint‌Infections‌Treated‌with‌Debridement‌and‌Implant‌
+Retention.‌Infect‌Dis‌Ther‌2014;‌3:‌235-43.‌doi:‌10.1007/s40121-014-0032-z
+18）‌Kusejko‌K,‌Auñón‌Á，Jost‌B,‌Natividad‌B,‌Strahm‌C,‌Thurnheer‌C,‌et‌al:‌The‌Impact‌of‌Surgical‌Strategy‌and‌Rifampin‌
+on‌Treatment‌Outcome‌in‌Cutibacterium‌Periprosthetic‌Joint‌Infections.‌Clin‌Infect‌Dis‌2021;‌72:‌e1064-73.‌doi:‌10.1093/
+cid/ciaa1839
+19）‌Lora-Tamayo‌J,‌Senneville‌É，Ribera‌A,‌Bernard‌L,‌Dupon‌M,‌Zeller‌V,‌et‌al:‌The‌not-so-good‌prognosis‌of‌streptococcal‌
+periprosthetic‌joint‌infection‌managed‌by‌implant‌retention:‌The‌results‌of‌a‌large‌multicenter‌study.‌Clin‌Infect‌Dis‌
+2017;‌64:‌1742-52.‌doi:‌10.1093/cid/cix227
+20）‌Becker‌A,‌Kreitmann‌L,‌Triffaut-Fillit‌C,‌Valour‌F,‌Mabrut‌E,‌Forestier‌E,‌et‌al:‌Duration‌of‌rifampin‌therapy‌is‌a‌key‌
+determinant‌of‌improved‌outcomes‌in‌early-onset‌acute‌prosthetic‌joint‌infection‌due‌to‌Staphylococcus‌treated‌with‌a‌
+debridement,‌antibiotics‌and‌implant‌retention‌(DAIR):‌A‌retrospective‌multicenter‌study‌in‌France.‌J‌Bone‌Jt‌Infect‌ ‌
+2020;‌5:‌28-34.‌doi:‌10.7150/jbji.40333
+21）‌Chaussade‌H,‌Uçkay‌I,‌Vuagnat‌A,‌Druon‌J,‌Gras‌G,‌Rosset‌P,‌et‌al:‌Antibiotic‌therapy‌duration‌for‌prosthetic‌joint‌
+infections‌treated‌by‌Debridement‌and‌Implant‌Retention‌(DAIR):‌Similar‌long-term‌remission‌for‌6‌weeks‌as‌compared‌
+to‌12‌weeks.‌Int‌J‌Infect‌Dis‌‌2017;‌63:‌37-42.‌doi:‌10.1016/j.ijid.2017.08.002
+22）‌Gómez-Junyent‌J,‌Lora-Tamayo‌J,‌Baraia-Etxaburu‌J,‌Sánchez-Somolinos‌M,‌Iribarren‌J‌A,‌Rodriguez-Pardo‌D,‌et‌al:‌
+Implant‌removal‌in‌the‌management‌of‌prosthetic‌joint‌infection‌by‌Staphylococcus‌aureus:‌Outcome‌and‌predictors‌of‌
+failure‌in‌a‌large‌retrospective‌multicenter‌study.‌Antibiotics‌2021;‌10:‌118.‌doi:‌10.3390/antibiotics10020118
+23）‌Mancheño-Losa‌M,‌Lora-Tamayo‌J,‌Fernández-Sampedro‌M,‌Rodríguez-Pardo‌D,‌Muñoz-Mahamud‌E,‌Soldevila‌L,‌et‌al:‌
+Prognosis‌of‌unexpected‌positive‌intraoperative‌cultures‌in‌arthroplasty‌revision:‌A‌large‌multicenter‌cohort.‌J‌Infect‌
+2021;‌83:‌542-9.‌doi:‌10.1016/j.jinf.2021.09.001
+24）‌El‌Helou‌O‌C,‌Berbari‌E‌F,‌Lahr‌B‌D,‌Eckel-Passow‌J‌E,‌Razonable‌R‌R,‌Sia‌I‌G,‌et‌al:‌Efficacy‌and‌safety‌of‌rifampin‌
+containing‌regimen‌for‌staphylococcal‌prosthetic‌joint‌infections‌treated‌with‌debridement‌and‌retention.‌Eur‌J‌Clin‌
+Microbiol‌Infect‌Dis‌2010;‌29:‌961-7.‌doi:‌10.1007/s10096-010-0952-9
+25）‌Vilchez‌H‌H,‌Escudero-Sanchez‌R,‌Fernandez-Sampedro‌M,‌Murillo‌O,‌Auñón‌Á，Rodríguez-Pardo‌D,‌et‌al:‌Prosthetic‌
+shoulder‌joint‌infection‌by‌Cutibacterium‌acnes:‌Does‌rifampin‌improve‌prognosis?‌A‌retrospective,‌multicenter,‌obser-
+vational‌study.‌Antibiotics‌2021;‌10:‌475.‌doi:‌10.3390/antibiotics10050475
+26）‌Akgün‌D,‌Trampuz‌A,‌Perka‌C,‌Renz‌N:‌High‌failure‌rates‌in‌treatment‌of‌streptococcal‌periprosthetic‌joint‌infection:‌
+results‌from‌a‌seven-year‌retrospective‌cohort‌study.‌Bone‌Joint‌J‌2017;‌99-B:‌653-9.‌doi:‌10.1302/0301-620X.99B5.BJJ-
+2016-0851.R1
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 305
+[[p56]]
+7．中枢神経系感染症
+Executive summary
+診　断
+1
+．‌‌頭部外傷，脳や脊髄等に関連した手術後や脳室―腹腔シャント等を造設した脳外科手術患者，中心静脈カテーテル
+感染，菌血症に続発した患者等に生じた院内発生の中枢神経系感染症（髄膜炎，膿瘍等）の場合に MRSA を原因
+菌として疑う。
+2．‌‌脳脊髄液あるいは膿瘍穿刺液からの培養・同定結果をもって診断する（A-II）。
+治　療
+A．成人髄膜炎
+1
+． ‌‌MRSA 髄膜炎に対する抗菌薬治療はバンコマイシン（VCM） ，もしくはリネゾリド（LZD）
+＊
+を用いる（B-II）。
+2．‌‌投与量は VCM では腎機能正常の場合，1 回 2‌g を超えない範囲で，15～20‌mg/kg/回を 8～12 時間おきに 2 週間
+投与する（B-II）。LZD
+＊
+は 600‌mg を 12 時間おきに投与する。
+3． ‌‌VCMにリファンピシン （RFP）
+＊
+600‌mg/日 ，ま た は300～450‌mgを1日2回併用するとよいとの報告がある （B-III）。
+4．‌‌その他ダプトマイシン（DAP）
+＊
+を検討してもよい（C-III）。
+5．‌‌抗菌薬療法 48 時間後も臨床的に改善がみられない場合には，抗菌薬の有効性を評価するために脳脊髄液細菌学的
+検査を検討する（A-III）。
+6．‌‌シャント感染の場合にはシャントの抜去を行い， 脳脊髄液細菌培養で繰り返し陰性になるまでシャントの再設置を
+行わない（A-II）。
+＊
+保険適応外
+B．脳膿瘍，硬膜下膿瘍，脊髄硬膜外膿瘍
+1
+．‌‌脳膿瘍，硬膜下膿瘍，脊髄硬膜外膿瘍に対して切開とドレナージを考慮する（A-II）。
+2．‌‌抗菌薬と投与量は MRSA 髄膜炎に準じる（B-II）。
+3． ‌‌通 常4～8 週間と髄膜炎よりも長期間の投与が必要である。臨床症状，画像所見の評価を行い治療する。臨床症状
+と画像所見が改善するまで治療を継続する。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3306
+[[p57]]
+8．尿路感染症
+Executive summary
+診　断
+1
+． ‌‌MRSA による症候性尿路感染症は，尿から MRSA が 10
+4
+‌CFU/mL 以上（有意菌数）分離され，さらに，排尿痛，
+下腹部痛，尿路に起因する発熱等の症状と，鏡検または尿自動分析装置による膿尿の存在により診断される。
+2． ‌‌MRSA は，尿路に尿流停滞を引き起こすような疾患が存在したり，尿路カテーテルが留置されていたりするよう
+な，いわゆる，複雑性尿路感染症の原因菌となりうるが，単純性尿路感染症の原因菌となることはきわめてまれで
+ある（B-III）。
+3
+．‌‌無症候性尿路感染症には，原則として抗 MRSA 薬による治療は不要である（B-III）。
+治　療
+1
+． ‌‌MRSA 尿路感染症に対する抗 MRSA 薬治療の臨床効果に関する十分な評価は行われていない（B-III）。
+2． ‌‌MRSA の無症候性細菌尿でも，尿路カテーテル留置時，もしくは，抜去時に急性腎盂腎炎を発症する可能性があ
+る（B-III）。
+3．‌‌尿路カテーテル留置，もしくは，尿路に何らかの基礎疾患が存在しており，有意の菌数で MRSA が尿中から分離
+される場合，治療が必要かどうか，検討する必要がある（B-III）。
+4．‌‌治療が必要な MRSA 尿路感染症に対する第一選択薬は，バンコマイシン（VCM）1 回 15～20‌mg/kg，1 日 2 回投
+与が推奨されるが（B-III） ，その他の抗MRSA 薬も用いられる（B-III）。
+5． ‌‌MRSA尿路感染症への注射用抗MRSA薬による治療後に，感受性がある経口抗菌薬に変更して治療を続ける場合
+もある（B-III）。
+6．‌‌尿路カテーテル留置状態の MRSA 尿路感染症で治療が必要な場合，尿路カテーテルを交換してから抗菌薬による
+治療を始める（B-II）。
+その他
+1
+．‌‌尿から分離される MRSA は，病院感染の原因となりうる（A-III）。
+2． ‌‌MRSA 尿路感染症で尿流停滞がある時，菌血症へと進展する場合がある（B-II）。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 307
+[[p58]]
+9．小児領域感染症
+Executive summary
+診　断
+1
+．‌‌対象となる疾患のうち，成人でもみられる疾患の診断については，成人の各領域の記載に準ずる。
+2．‌‌新生児 TSS（toxic‌shock‌syndrome）様発疹症（neonatal‌TSS-like‌exanthematous‌disease：NTED） ，ブドウ球菌
+性熱傷様皮膚症候群（Staphylococcal‌scalded‌skin‌syndrome：SSSS）は，主に小児でみられる黄色ブドウ球菌に
+よる疾患である。
+3． ‌‌NTED は，新生児で，発熱，全身におよぶ発疹（通常径 2～3‌mm で始まり融合傾向のある紅斑） ，血小板減少，
+CRP 上昇を認め，鼻腔・体表から黄色ブドウ球菌が分離され，MRSA の関与が多い。
+4． ‌‌SSSS は，口囲の潮紅と眼脂，水疱・びらんを伴う伝染性膿痂疹（とびひ）様の皮膚炎で，Nikolsky 現象を伴い，
+鼻腔，咽頭，眼脂等から黄色ブドウ球菌が検出され，MRSA の関与が多い。
+治　療
+1
+．‌‌小児および新生児に推奨される抗 MRSA 薬の用法・用量は表 1 に示す。
+2．‌‌バンコマイシン（VCM） ，テイコプラニン（TEIC） ，アルベカシン（ABK）では十分な有効性と安全性を確保す
+るために，必ず TDM を実施し，用法・用量を調節することが重要である（A-II）。
+3．‌‌皮膚軟部組織感染症では，β―ラクタム系薬が無効の場合には MRSA の関与を疑う（B-III）。
+4． ‌‌MRSA による伝染性膿痂疹等の表在性皮膚軟部組織感染症に対して経口抗菌薬投与が必要な場合は，スルファメ
+トキサゾール/トリメトプリム（ST合剤） ，ミノサイクリン（MINO）（B-II）を選択するが，MINO は 8 歳未満の
+小児には使用してはならない。なおST合剤の皮膚軟部組織感染症およびブドウ球菌属に対する適応は国内未承認
+である。
+薬剤 投与量 TDM 目標値
+VCM 小　児：
+1～12 カ月 1 回 15 mg/kg　1 日 4 回（6 時間ごと）
+1～6 歳 1 回 20 mg/kg　1 日 4 回（6 時間ごと）
+7～12 歳 1 回 15 mg/kg　1 日 4 回（6 時間ごと）
+13～17 歳 1 回 15 mg/kg　1 日 3 回（8 時間ごと）
+18 歳以上 1 回 15～20 mg/kg　1 日 2 回（12 時間ごと）
+新生児：
+生後?P?週までの新生児：P?回?PO～PT?N　P?日?Q?回（PQ?時間ごと）
+生後?P?週以後の新生児：P?回?PO～PT?N　P?日?R?回（W?時間ごと）
+トラフ値?PO～QO?
+μg/mL
+（重症感染症では 15～20 μg/mL）
+投与量について，今後の臨床的検証
+が必要
+TEIC 小　児：1 回 10 mg/kg　12 時間ごとに 3 回，以後 1 日 1 回
+新生児：初回 16 mg/kg，以後 8 mg/kg　1 日 1 回
+トラフ値?PO～QO?
+μg/mL
+ABK 小　児：1 回 4～6 mg/kg　1 日 1 回（必要に応じて 1 回 2～3 mg　1 日 2 回）
+新生児：小児と同量（TDM により投与間隔を調節）
+トラフ値 2 μg/mL 以下
+ピーク値 9～20 μg/mL
+LZD 12 歳未満：1 回 10 mg/kg　1 日 3 回（8 時間ごと）
+12 歳以上：1 回 10 mg/kg　1 日 2 回（12 時間ごと） （最大600 mg　1 日 2 回）
+DAP 深在性皮膚感染症，外傷・熱傷および手術創等の二次感染，びらん・潰瘍の
+二次感染
+P?歳以上?Q?歳未満：P?回?PO?N，P?日?P?回（UO?分かけて投与）
+2 歳以上 7 歳未満：1 回 9 mg/kg，1 日 1 回（60 分かけて投与）
+7 歳以上 12 歳未満：1 回 7 mg/kg，1 日 1 回（30 分かけて投与）
+12 歳以上 18 歳未満：1 回 5 mg/kg，1 日 1 回（30 分かけて投与）
+敗血症
+＊
+1 歳以上 7 歳未満：1 回 12 mg/kg，1 日 1 回（60 分かけて投与）
+7 歳以上 12 歳未満：1 回 9 mg/kg，1 日 1 回（30 分かけて投与）
+12 歳以上 18 歳未満：1 回 7 mg/kg，1 日 1 回（30 分かけて投与）
+対象となる疾患は成人と同様
+VCM，TEIC，ABK では十分な有効性と安全性を確保するために，必ず TDM を実施し，用法・用量を調節することが重要である
+＊
+感染性心内膜炎は適応外
+ද 1.　߅MRSA ༀͷ༻๏ɾ༻ྔ
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3308
+[[p59]]
+5．‌‌入院治療の対象となる皮膚軟部組織感染症に対しては，VCM を投与する（A-II）。VCM の代替薬としては，リネ
+ゾリド（LZD）（B-II） ，ダプトマイシン（DAP）（B-I）を選択する。
+6． ‌‌SSSS，NTED に対しては，VCM‌1 回 15～20‌mg/kg を 1 日 4 回で投与する（B-III）。
+7．‌‌菌血症・感染性心内膜炎に対しては，VCM‌1 回 15～20‌mg/kg を 1 日 4 回（6 時間ごと）で投与する（A-II）。 代
+替薬として DAP‌ 1 回 7～12‌mg/kg‌ 1 日 1 回（B-I）も推奨される。投与期間は感染源，血管内感染巣の有無，転
+移性感染巣の有無等の病態に応じて 2～6 週間。LZD は感染性心内膜炎に対する適応がない（B-III）。
+8．‌‌肺炎に対する治療は，VCM（A-II）を用い，代替薬は LZD（B-II）を用いる。感受性がある場合はクリンダマイ
+シン（CLDM）（B-II）の使用が検討される。
+9．‌‌膿胸を伴っている場合は，必ずドレナージを行う。
+10．‌‌骨・関節感染症に対する治療は，VCM（A-III）もしくはCLDM（CLDM 感性の場合；A-III）を，化膿性関節炎
+では少なくとも 3～4 週間，骨髄炎では少なくとも4～6 週間投与する。代替薬としてDAP もしくは LZD が推奨
+される（C-III） 。経過により初期の経静脈的治療からCLDM（感性の場合） ，ST 合剤，LZD の内服による治療に
+切り替えることができる（B-II）。
+11．‌‌化膿性関節炎および膿瘍形成を伴う骨髄炎では外科的なデブリドマン，ドレナージを積極的に行う （A-II）。 一 方
+で小児の血行性骨髄炎では一般的に外科的な措置は必要とされない。
+12．‌‌中枢神経系感染症に対しては，VCM‌1 回 15～20‌mg/kg を 1 日 4 回（6 時間ごと）で投与する（B-II） 。代替薬と
+して LZD も考慮する（C-III）。
+CQ 11．  耐性グラム陽性菌感染症が疑われる新生児への LZD の投与は推奨されるか
+推奨：VCM 投与が困難な例に対して LZD を投与することを弱く推奨する。
+推奨の強さ：弱く推奨する
+エビデンス総体の確実性：C（弱い）
+Executive summary
+1
+．‌‌新生児の耐性グラム陽性菌感染症例に対するリネゾリド（LZD）投与の有効性は，バンコマイシン（VCM）投与
+の有効性と比較して差を認めなかった（エビデンス C）。
+2．‌‌新生児の耐性グラム陽性菌感染症例に対する LZD 投与後の有害事象発生率は，VCM 投与後の有害事象発生率と
+比較して差を認めなかった（エビデンスC）。LZD 投与例では血小板減少を認めることがあり，注意のもと投与す
+る必要がある。
+調査方法
+設定
+P：Patients（患者）
+年齢：新生児・乳児期早期（日本人以外を含む） ・NICUで管理中の小児
+病態：‌‌耐性グラム陽性球菌感染症が疑われる状況（MRSA，コアグラーゼ陰性ブドウ球菌感染症，バンコマイシン
+耐性腸球菌感染症）
+I：Interventions（介入） ：LZD投与
+C： ‌‌Comparisons（比較対照） ：VCM，TEIC投与例
+O： ‌‌Outcomes（アウトカム）‌
+①治療成功率（死亡率，臨床的治癒率，微生物学的効果）重要度 9‌
+　臨床的治癒（全身状態および症状・徴候の回復）‌
+　微生物学的効果（除菌率：病原体未検出となった割合）‌
+②死亡率（あらゆる死因による院内死亡率）重要度 9‌
+③有害事象（血小板減少，腎毒性，他）重要度 7
+探索
+　2022 年 8 月までの PubMed のデータベースを（ “Infant，Newborn”[Mesh]）
+AND‌“Linezolid”‌[Mesh] で検索した。
+結果
+　3 件の研究が選択基準を満たした。
+Randomized‌controlled‌trial（RCT）1 件において有効性と安全性が検討されて
+いた
+1）
+。Cohort‌Study‌2 件のうち有効性のみを検討したものが 1 件
+2）
+，安全性のみを検討したものが 1 件あった
+3）
+。評
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 309
+[[p60]]
+価指標に統一性がなく，メタ解析の対象にならなかった。その他に，早期産児や新生児を含む小児に対するLZDの使
+用経験を記載した比較対照群のない報告が散見された
+4，5）
+。
+文　献
+1 ）‌Deville‌J‌G,‌Adler‌S,‌Azimi‌P‌H,‌Jantausch‌B‌A,‌Morfin‌M‌R,‌Beltran‌S,‌et‌al:‌Linezolid‌versus‌vancomycin‌in‌the‌treat-
+ment‌of‌known‌or‌suspected‌resistant‌gram-positive‌infections‌in‌neonates.‌Pediatr‌Infect‌Dis‌J‌2003;‌22(9‌Suppl):‌S158-
+63.‌doi:‌10.1097/01.inf.0000086955.93702.c7
+2 ）‌Blanchard‌A‌C,‌Fortin‌E,‌Laferrière‌C,‌Goyer‌I,‌Moussa‌A,‌Autmizguine‌J,‌et‌al:‌Comparative‌effectiveness‌of‌linezolid‌
+versus‌vancomycin‌as‌definitive‌antibiotic‌therapy‌for‌heterogeneously‌resistant‌vancomycin-intermediate‌coagulase-
+negative‌staphylococcal‌central-line-associated‌bloodstream‌infections‌in‌a‌neonatal‌intensive‌care‌unit.‌J‌Antimicrob‌
+Chemother‌2017;‌72:‌1812-7.‌doi:‌10.1093/jac/dkx059
+3 ）‌Shibata‌Y,‌Yamagishi‌Y,‌Mikamo‌H,‌Kato‌H,‌Nishiyama‌N,‌Asai‌N,‌et‌al:‌Comparative‌study‌on‌safety‌of‌linezolid‌and‌
+vancomycin‌in‌the‌treatment‌of‌infants‌and‌neonates‌for‌Gram-positive‌bacterial‌infections.‌J‌Infect‌Chemother‌2018;‌24:‌
+695-701.‌doi:‌10.1016/j.jiac.2018.04.006
+4 ）‌Sicard‌M,‌Launay‌E,‌Caillon‌J,‌Jacqueline‌C,‌Legrand‌A,‌Deslandes‌G,‌et‌al:‌Pharmacokinetics‌of‌linezolid‌treatment‌
+using‌intravenous‌and‌oral‌administrations‌in‌extremely‌premature‌infants.‌Eur‌J‌Clin‌Pharmacol‌2015;‌71:‌611-5.‌doi:‌
+10.1007/s00228-015-1813-3
+5 ）‌Shibata‌Y,‌Hagihara‌M,‌Kato‌H,‌Asai‌N,‌Koizumi‌Y,‌Watarai‌M,‌et‌al:‌Relationship‌between‌cytopenia‌and‌gestational‌
+age‌ in‌ infants‌ and‌ neonates‌ treated‌ with‌ linezolid‌ therapy.‌ J‌ Infect‌ Chemother‌ 2020;‌ 26:‌ 95-100.‌ doi:‌ 10.1016/j.
+jiac.2019.07.022
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3310
+[[p61]]
+PO．術後感染予防投与
+Executive summary
+適　応
+1
+． ‌‌術 前MRSA 保菌患者に対して，手術部位感染（SSI）予防目的で抗 MRSA 薬を使用する（A-II）。
+2． ‌‌術 前MRSA 保菌チェックは下記の場合に実施してもよい（C-III）。MRSA 感染/保菌の既往，転院または最近の入
+院歴，長期療養型病床群もしくは介護施設に入所，外来における点滴治療，血液透析等。
+3．‌‌術前に手術操作の及ぶ部位から MRSA が検出されている場合（胆道ドレナージ時の胆汁，熱傷創，尿路等）は，
+エビデンスは限定的だが，抗 MRSA 薬を使用する（A-II）。
+4． ‌‌MRSA 感染ハイリスク手術（心臓手術，人工関節置換術，脊椎インストゥルメンテーション手術等）において，
+同一病棟で MRSA による SSI の集団発生が認められた場合，抗 MRSA 薬の予防投与や術前 MRSA 保菌チェック
+を感染対策チームまたは感染症の専門家とともに検討する（B-III）。
+方　法
+1
+．‌‌予防投与を行う場合，バンコマイシン （VCM）を使用する（A-II）。1 時間以上かけて点滴する必要があり，執刀
+前 1～2 時間に投与開始を考慮する。
+2．‌‌テイコプラニン（TEIC）の予防効果に関するエビデンスは限定的であるが，透析導入されていない高度腎機能障
+害患者においては使用してもよい（B-III）。
+3．‌‌グリコペプチド系薬を予防投与で使用する場合，通常，単回投与するが（A-II） ，症例によっては2 回投与も考慮
+する。
+4． ‌‌MRSA 術後感染予防目的（β―ラクタム系薬アレルギー以外）でグリコペプチド系薬を使用する場合，β―ラクタム
+系薬を併用する（A-II）。β―ラクタム系薬は各手術で推奨されている投与期間に従う。
+5． ‌‌MRSA 保菌者に対しては，術前における MRSA 除菌を検討する（B-II） 。除菌法としては，鼻腔へのムピロシン
+（MUP）軟膏塗布や 4％クロルヘキシジングルコン酸塩液を用いたシャワー/入浴が行われる。
+6．‌‌整形外科領域における VCM 局所投与（CQ8，9 参照）
+（ア）‌‌初回人工膝関節置換術手術で抗 MRSA 薬含有骨セメントの使用が術後深部 MRSA-SSI を低下させることを
+示す十分な根拠はなく，ルーチンで使用することは推奨しない（ D-III） 。ただし人工関節感染に対する人工
+関節抜去時の死腔へのスペーサーとしての使用（C-I） ，ならびに再置換術（D-II）においては適応を考慮す
+る。
+（イ）‌‌整形外科手術でのMRSAによるSSI予防を目的としたルーチンの局所VCM散布は，それを指示する十分な
+根拠はなく，実施することは推奨しない（D-III）。
+CQ12．術前の MRSA 除菌は推奨されるか
+推奨：心臓外科・整形外科・脳外科等の清潔手術において，当該施設や対象患者のMRSA 保菌割合，SSI 発生率を考
+慮し，除菌を検討してもよい（条件付きで推奨する） 。
+推奨の強さ：弱く推奨する（条件付きで推奨する）
+エビデンス総体の確実性：D（非常に弱い）
+Executive summary
+1
+． ‌‌MRSA 保菌者に対するムピロシン（MUP）による除菌対策に関するランダム化比較試験（RCT）は胃瘻造設術に
+関する少数例の報告のみで，エビデンスをもって推奨はできない（エビデンス D）。
+2．‌‌観察研究の結果からは，MRSA 保菌者に対する MUP の除菌対策は，MRSA による SSI を有意に減少させると考
+えられ，整形外科・心臓外科手術においてよりその傾向が強かった。しかし，どのような患者を対象に MRSA の
+スクリーニングを行うのが有効であるかについてや， 除菌を行うことによる薬剤耐性菌に対する影響・有害事象・
+コスト等については未解決である。したがって，心臓手術，整形外科手術等の清潔手術のMRSA保菌者において，
+MRSA による SSI が高率な期間（クラスター等）や SSI 発生のリスクが特に高い患者等，患者が限定されるよう
+な条件のもとでの使用を弱く推奨する（エビデンス C）。
+3
+．‌‌どのような患者を対象に MRSA の保菌スクリーニングを行うかについては未解決である。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 3 11
+[[p62]]
+調査方法
+設定
+P：Patients（患者） ：‌‌年齢：成人（日本人以外を含む）‌
+病態：何らかの手術が予定されている患者‌
+対象：細菌学的に MRSA の保菌が確認されている
+I：Interventions（介入） ：術前のMUP による除菌
+C：Comparisons（比較対照） ：プラセボor 無治療
+O：Outcomes（アウトカム） ：MRSAが原因の SSI 発生率　重要度 6
+探索
+　2022 年 3 月までの PubMed，
+Cochrane‌database 各データベースについて
+　“methicillin‌resistant‌Staphylococcus‌aureus”，“decolonization”，“pseudomonic‌acid”，“plasimine”，“eismycin”，
+“centany”，“Bactroban”，“mupirocin”，“Surgical‌ Wound‌ Infection”，“Surgical‌ Site‌ Infection”，“Postoperative‌
+Complications”，“Postoperative‌Wound‌Infections”で検索した。Review や症例報告は除外し，PICO に該当する文
+献のスクリーニングを実施した。スクリーニング後の論文から，上記では検索できなかったが PICO に該当する文献
+を追加した。
+結果
+　RCT は 2 篇
+1，2）
+，観察研究が 14 篇
+3～16）
+検索され，これらを解析対象とした。
+　RCT の 1 篇
+1）
+は，MRSA 保菌の有無を確認せずにユニバーサルに除菌を行った報告であり，他の 1 篇
+2）
+は経皮的胃
+瘻造設術の刺入部感染を評価した報告であり，本CQのPICOに完全に合致するものではないが，他のRCTが認めら
+れないことから採用した。
+　観察研究は， 術前患者のMRSA保菌検査の結果に従って保菌者に除菌を行うとするプロトコールの導入前後を比較
+した報告が9篇
+3～6，8，9，14～16）
+，MRSAのSSI発生率を評価項目としているが，MRSAの保菌状態を確認せずにユニバーサ
+ル除菌を行うプロトコールの導入前後を比較した報告が3篇
+PO，PQ，PR）
+，MRSA保菌者のみを対象に除菌を行いSSIの発生
+率を評価した報告が 2 篇
+7，11）
+であった。
+文　献
+1 ）‌Suzuki‌Y,‌Kamigaki‌T,‌Fujino‌Y,‌Tominaga‌M,‌Ku‌Y,‌Kuroda‌Y:‌Randomized‌clinical‌trial‌of‌preoperative‌intranasal‌
+mupirocin‌to‌reduce‌surgical-site‌infection‌after‌digestive‌surgery.‌Br‌J‌Surg‌2003;‌90:‌1072-5.‌doi:‌10.1002/bjs.4269
+2 ）‌Horiuchi‌A,‌Nakayama‌Y,‌Kajiyama‌M,‌Fujii‌H,‌Tanaka‌N:‌Nasopharyngeal‌decolonization‌of‌methicillin-resistant‌Staph-
+ylococcus‌aureus‌can‌reduce‌PEG‌peristomal‌wound‌infection.‌Am‌J‌Gastroenterol‌2006;‌101:‌274-7.‌doi:‌10.1111/j.1572-
+0241.2006.00366.x
+3 ）‌Jog‌S,‌Cunningham‌R,‌Cooper‌S,‌Wallis‌M,‌Marchbank‌A,‌Vasco-Knight‌P,‌et‌al:‌Impact‌of‌preoperative‌screening‌for‌
+meticillin-resistant‌Staphylococcus‌aureus‌by‌real-time‌polymerase‌chain‌reaction‌in‌patients‌undergoing‌cardiac‌sur-
+gery.‌J‌Hosp‌Infect‌2008;‌69:‌124-30.‌doi:‌10.1016/j.jhin.2008.02.008
+4 ）‌Cordova‌K‌B,‌Grenier‌N,‌Chang‌K‌H,‌Dufresne‌R‌Jr:‌Preoperative‌methicillin-resistant‌Staphylococcus‌aureus‌screening‌
+in‌Mohs‌surgery‌appears‌to‌decrease‌postoperative‌infections.‌Dermatol‌Surg‌2010;‌36:‌1537-40.‌doi:‌10.1111/j.1524-
+4725.2010.01678.x
+5 ）‌Kim‌D‌H,‌Spencer‌M,‌Davidson‌S‌M,‌Li‌L,‌Shaw‌J‌D,‌Gulczynski‌D,‌et‌al:‌Institutional‌prescreening‌for‌detection‌and‌
+eradication‌of‌methicillin-resistant‌Staphylococcus‌aureus‌in‌patients‌undergoing‌elective‌orthopaedic‌surgery.‌J‌Bone‌
+Joint‌Surg‌Am‌2010;‌92:‌1820-6.‌doi:‌10.2106/JBJS.I.01050
+6 ）‌Parvizi‌J,‌Matar‌W‌Y,‌Saleh‌K‌J,‌Schmalzried‌T‌P,‌Mihalko‌W‌M:‌Decolonization‌of‌drug-resistant‌organisms‌before‌
+total‌joint‌arthroplasty.‌Instr‌Course‌Lect‌2010;‌59:‌131-7.‌PMID:‌20415376
+7 ）‌Healy‌D‌G,‌Duignan‌E,‌Tolan‌M,‌Young‌V‌K,‌O’Connell‌B,‌McGovern‌E:‌Should‌cardiac‌surgery‌be‌delayed‌among‌carri-
+ers‌of‌methicillin-resistant‌Staphylococcus‌aureus‌to‌reduce‌methicillin-resistant‌Staphylococcus‌aureus-related‌morbid-
+ity‌by‌preoperative‌decolonisation?‌Eur‌J‌Cardiothorac‌Surg‌2011;‌39:‌68-74.‌doi:‌10.1016/j.ejcts.2010.05.043
+8 ）‌Pofahl‌W‌E,‌Goettler‌C‌E,‌Ramsey‌K‌M,‌Cochran‌M‌K,‌Nobles‌D‌L,‌Rotondo‌M‌F:‌Active‌surveillance‌screening‌of‌
+MRSA‌and‌eradication‌of‌the‌carrier‌state‌decreases‌surgical-site‌infections‌caused‌by‌MRSA.‌J‌Am‌Coll‌Surg‌2009;‌
+208:‌981-6;‌discussion‌986-8.‌doi:‌10.1016/j.jamcollsurg.2008.12.025
+9 ）‌Walsh‌E‌E,‌Greene‌L,‌Kirshner‌R:‌Sustained‌reduction‌in‌methicillin-resistant‌Staphylococcus‌aureus‌wound‌infections‌
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3312
+[[p63]]
+after‌cardiothoracic‌surgery.‌Arch‌Intern‌Med‌2011;‌171:‌68-73.‌doi:‌10.1001/archinternmed.2010.326
+PO）‌s‌oK‌g‌rY‌c‌L‌r‌‌‌‌‌‌L
+dine‌and‌mupirocin.‌Am‌J‌Infect‌Control‌2013;‌41:‌629-33.‌doi:‌10.1016/j.ajic.2012.09.003
+11）‌Sasi‌S‌P,‌Sistla‌S‌C,‌Sistla‌S,‌Karthikeyan‌V‌S,‌Mahalakshmy‌T,‌Ali‌S‌M,‌et‌al:‌Decolonisation‌of‌MRSA‌and‌its‌effect‌on‌
+surgical‌site‌infections--a‌study‌in‌a‌tertiary‌care‌institute.‌Int‌J‌Clin‌Pract‌2015;‌69:‌366-74.‌doi:‌10.1111/ijcp.12578
+12）‌Urias‌D‌S,‌Varghese‌M,‌Simunich‌T,‌Morrissey‌S,‌Dumire‌R:‌Preoperative‌decolonization‌to‌reduce‌infections‌in‌urgent‌
+lower‌extremity‌repairs.‌Eur‌J‌Trauma‌Emerg‌Surg‌2018;‌44:‌787-93.‌doi:‌10.1007/s00068-017-0896-1
+13）‌George‌S,‌Leasure‌A‌R,‌McGovern‌A,‌Horstmanshof‌D‌A:‌Reduction‌of‌postoperative‌infections‌through‌routine‌preop-
+erative‌universal‌decolonization‌of‌advanced‌heart‌failure‌patients‌with‌chlorhexidine‌and‌mupirocin‌before‌left‌ventric-
+ular‌ assist‌ device‌ implantation:‌ A‌ single-center‌ observational‌ study.‌ Dimens‌ Crit‌ Care‌ Nurs‌ 2020;‌ 39:‌ 312-20.‌ doi:‌
+10.1097/DCC.0000000000000443
+14）‌Paredes‌I,‌Lagares‌A,‌San-Juan‌R,‌Castaño-León‌A‌M,‌Gómez‌P‌A,‌Jimenez-Roldán‌L,‌et‌al:‌Reduction‌in‌the‌infection‌
+rate‌of‌cranioplasty‌with‌a‌tailored‌antibiotic‌prophylaxis:‌a‌nonrandomized‌study.‌Acta‌Neurochir‌2020;‌162:‌2857-66.‌
+doi:‌10.1007/s00701-020-04508-1
+15）‌Craxford‌S,‌Marson‌B‌A,‌Oderuth‌E,‌Nightingale‌J,‌Agrawal‌Y,‌Ollivere‌B:‌Methicillin-resistant‌Staphylococcus‌aureus‌
+in‌hip‌fracture.‌Bone‌Joint‌J‌2021;‌103-B:‌170-7.‌doi:‌10.1302/0301-620X.103B1.BJJ-2020-0659.R1
+16）‌Nusair‌A‌R,‌El‌Nekidy‌W‌S,‌Reynolds‌L,‌Evans‌D,‌El-Lababidi‌R,‌Alatoom‌A:‌Comprehensive‌approach‌to‌reduce‌surgi-
+cal‌site‌infections‌in‌patients‌undergoing‌neurosurgical‌procedures.‌Surg‌Infect‌2021;‌22:‌217-21.‌doi:‌10.1089/sur.2020.020
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 313
+[[p64]]
+11．経験的治療
+Executive summary
+1． ‌‌抗 MRSA 薬の投与は，原則として診断確定後に行い，ルーチンの経験的治療は行わない（B-III）。
+2．‌‌宿主の MRSA 感染症発症リスクと感染症の重篤度から，経験的治療の適応は考慮される場合がある（B-III）。
+3．‌‌診断確定前に経験的治療を開始する場合， 原則として治療開始前に複数の適切な検体を採取 （血液培養であれば複
+数セットの検体採取）し，迅速検査も含めた微生物学的検査を行うべきである（B-III）。
+4．‌‌重篤度の高い感染症とは，敗血症， 菌血症，臓器障害を来した症例，循環動態の不安定な症例，あるいはそれらの
+可能性の高い症例である（B-III）。
+5． ‌‌MRSA 感染症の発症リスクとして，入院後 48 時間以降の症例，MRSA 保菌症例，最近の MRSA 感染症の既往が
+ある症例， 血液培養でブドウ球菌と推定されるグラム陽性菌が認められた症例， グラム陰性菌に有効な抗菌薬が無
+効である症例等が挙げられる（B-III）。
+6
+．‌‌発熱性好中球減少症においては，初期からの抗 MRSA 薬の投与は推奨されていないが，カテーテル関連感染症，
+皮膚軟部組織感染症，肺炎，血行動態不安定等の場合には考慮する（B-II）。
+7． ‌‌MRSA を原因菌とする感染症を疑う経験的治療には，各薬剤の特性（組織移行性，殺菌力等）を考慮してそれぞ
+れの項で推奨された抗 MRSA 薬の選択を参考にする（B-II）。
+8．‌‌経験的抗 MRSA 薬投与を実施した場合には，細菌培養結果を早期に確認し，MRSA 感染症の可能性が否定されれ
+ば，即座に投与を中止または他剤への変更を考慮する（B-III）。
+9． ‌‌MRSA が同定され感染症が確定された場合，感染症の種類，患者状態等に応じて抗 MRSA 薬の選択を再考する
+（B-III）。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3314
+[[p65]]
+VI．抗 MRSA 薬の併用療法
+Executive summary
+1．‌‌混合感染のない MRSA
+感染症に対しては，抗 MRSA 薬は原則として単独で使用する（A-I） 。
+2．‌‌バンコマイシン（
+VCM） ，テイコプラニン（TEIC） ，アルベカシン（ABK） ，ダプトマイシン（DAP）とβ―ラク
+タム系薬との併用効果がin‌vitro，in‌vivo で確認されているが，臨床的有用性に関してはさらなる検討が必要であ
+る（B-II） 。
+3．‌‌VCM とβ―ラクタム系薬の併用に関しては，一定程度みられる BIVR（β-lactam‌ antibiotic-induced‌ vancomycin‌
+resistant）株に注意を要する（A-III） 。
+4
+．‌‌VC
+M とリファンピシン（RFP）の併用は経験的に行われる場合があるが，VCM 単独療法を上回る高いエビデン
+スレベルの臨床成績はないので注意を要する（B-II） 。
+5．‌‌RF
+P およびスルファメトキサゾール/トリメトプリム（ST 合剤）は単独使用で耐性化しやすいため併用で使用す
+る（C-III） 。
+CQ13． 
+ 抗 MRSA
+薬と他の抗菌薬（β―ラクタム系薬，ST 合剤，RFP）の併用は推奨されるか
+推奨：心内膜炎を含む菌血症において，VCM もしくは DAP とβ―ラクタム系薬の併用を，症例に応じ弱く推奨する
+（提案する） 。
+その他の併用はエビデンスが限定的であり，明確な推奨はできない。
+　推奨の強さ：弱く推奨する（提案する）
+　エビデンス総体の確実性：B（中程度）
+Executive summary
+1．‌
+‌バンコマイシン（VCM）
+もしくはダプトマイシン（DAP）とβ―ラクタム系薬併用により，菌血症の持続期間や再
+発は減少させるものの，死亡率に差がなかった（エビデンス B） 。
+2．‌‌MRSA を含むStaphylococcus‌ aureus による血流感染に対し，VCM および DAP にリファンピシン（RFP）を併
+用しても，死亡者数，細菌学的失敗率，再発率に差がなかった（エビデンス B） 。
+3．‌‌VCM の最小発育阻止濃度
+（MIC） ＝2‌μg/mL を示す MRSA の菌血症に対し，高用量の DAP はスルファメトキサ
+ゾール/トリメトプリム（ST 合剤）との併用により臨床的改善および微生物学的改善が期待される（エビデンス
+B ）。
+調査方法
+設定
+P：Patients（患者） ：MRSA による菌血症および感染性心内膜炎の患者
+I：Interventions（介入） ：‌
+‌抗 MRSA
+薬投与時に β―ラクタム系薬，ST 合剤もしくは RFP を併用する
+C：Comparisons（比較対照） ：抗 MRSA 薬の単剤投与群
+O：Outcomes（アウトカム） ：治癒率，治療失敗率，細菌学的効果，再発率
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 315
+[[p66]]
+VII．抗 MRSA 薬の TDM
+　TDM が必要な抗 MRSA 薬として VCM，TEIC，ABK がある。おのおのの抗菌薬におけるシステマティックレ
+ビュー，メタ解析
+1～4）
+は抗菌薬 TDM 臨床実践ガイドライン 2022 で行われている。メタ解析結果や literature review
+はそれらを参考にすること。TDM に関する臨床研究では RCT が行われることはまれであり，エビデンスレベル I の
+カテゴリーは選択しない方針とした。
+Executive summary
+バンコマイシン（VCM）
+1．
+ 
+ 母集団平均やベイズ推定を用い，ソフトウェアを使用した投与設計
+5～8）
+を推奨する（B-II） 。
+2． 
+ Area under the blood concentration time curve（AUC）
+400～600 μg・h/mL を達成する投与設計
+1， 9）
+を強く推奨す
+る（A-II） 。
+3．  トラフガイドは明確な推奨はできない
+1）
+（D-II） 。トラフ値 15～20 μg/mL は腎障害リスクとなり
+P，?PO～PQ）
+これを指標と
+した投与設計は行わないことを推奨する（D-II） 。
+4． 
+ 早期目標 AUC
+を達成するために，初回負荷投与を提案する
+13～16）
+（表 1） （B-III） 。
+5． 
+ TDM は
+3 日目の実施を推奨
+PO）
+するが（B-II） ，重症感染，複雑性感染，腎機能低下では定常状態前の TDM を提案
+する
+17～20）
+（C-III） 。
+テイコプラニン（TEIC）
+1．
+ 
+ トラフガイドでの投与設計を推奨する
+21～24）
+（B-II） 。
+2．  非複雑性感染症に対しては，トラフ値
+15～30 μg/mL を指標とする投与設計を強く推奨する
+3）
+（A-II） 。ただし，複
+雑性感染や，重症例では 20～40 μg/mL を指標とした投与設計
+23～28）
+を推奨する（B-II） 。
+3． 
+ 初期 3
+日間の負荷投与
+28， 29）
+を推奨する（表 1） （B-II） 。
+4． 
+ TDM は定常状態に近い血中濃度が得られる
+4 日目に実施する
+30， 31）
+ことを推奨する（B-II） 。
+アルベカシン（ABK）
+1．
+ 
+ 腎毒性はトラフ値
+4， 32～34）
+を，有効性はピーク値
+4， 33～36）
+を指標とすることを強く推奨する（A-II） 。
+2． 
+ 1 日単回投与において，トラフ値は＜2 μg/mL を推奨する（B-II） 。ピーク値は≧15 μg/mL を提案する
+4）
+（B-III） 。
+3． 
+ 負荷投与の明確な推奨はできない
+4， 37～39）
+（表 1） （D-III） 。
+4． 
+ TDM は
+2 日目に実施することを推奨する
+36， 40）
+（B-III） 。
+抗菌薬 投与設計
+VCM 負荷投与：初回 25～30 mg/kg
+維持投与：15～20 mg/kg, 12 時間ごと
+sdhb?負荷投与：初日，Q?日目に?PO～PQ?N×Q回N日，R?日目に?PO～PQ?N×P回N日
+維持投与：6.7 mg/kg×1回/日
+ABK 5～6 mg/kg×1回/日
+ද 1ༀʹ͓͚Δ TDMܭ
+文　献
+1 ） Tsutsuura M, Moriyama H, Kojima N, Mizukami Y, Tashiro S, Osa S, et al: The monitoring of vancomycin: a systematic 
+review 
+and meta-analyses of area under the concentration-time curve-guided dosing and trough-guided dosing.  BMC 
+Infect Dis 2021; 21: 153. doi: 10.1186/s12879-021-05858-6
+2 ） Moriyama H, 
+Tsutsuura M, Kojima N, Mizukami Y, Tashiro S, Osa S, et al: The optimal trough-guided monitoring of 
+vancomycin in children: systematic review and meta-analyses. J Infect Chemother 2021; 27: 781-5. doi: 10.1016/j.
+jiac.2021.01.015
+3 ） Hanai Y, 
+Takahashi Y, Niwa T, Mayumi T, Hamada Y, Kimura T, et al: Optimal trough concentration of teicoplanin for 
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3316
+[[p67]]
+the treatment of methicillin-resistant Staphylococcus aureus  infection: a systematic review and meta-analysis. J Clin 
+Pharm Ther 2021; 46: 622-32. doi: 10.1111/jcpt.13366
+4 ） Oda K,
+ Fujii S, Yamamoto T, Mayumi T, Takesue Y: Evaluation of once-daily dosing and target concentrations in thera-
+peutic drug monitoring for arbekacin: a meta-analysis. J Infect Chemother 2021; 27: 26-31. doi: 10.1016/j.jiac.2020.08.002
+5 ） Pai M 
+P, Neely M, Rodvold K A, Lodise T P: Innovative approaches to optimizing the delivery of vancomycin in indi-
+vidual patients. Adv Drug Deliv Rev 2014; 77: 50-7. doi: 10.1016/j.addr.2014.05.016
+6 ） Darwich A 
+S, Ogungbenro K, Vinks A A, Powell J R, Reny J L, Marsousi N, et al: Why has model-informed precision 
+dosing not yet become common clinical reality? Lessons from the past and a roadmap for the future. Clin Pharmacol 
+Ther 2017; 101: 646-56. doi: 10.1002/cpt.659
+7 ） Aljutayli A, 
+Marsot A, Nekka F: An update on population pharmacokinetic analyses of vancomycin, part I: in adults. 
+Clin Pharmacokinet 2020; 59: 671-98. doi: 10.1007/s40262-020-00866-2
+8 ） Marsot A, 
+Boulamery A, Bruguerolle B, Simon N: Vancomycin: a review of population pharmacokinetic analyses. Clin 
+Pharmacokinet 2012; 51: 1-13. doi: 10.2165/11596390-000000000-00000
+9 ） Rybak M 
+J, Le J, Lodise T P, Levine D P, Bradley J S, Liu C, et al: Therapeutic monitoring of vancomycin for serious 
+methicillin-resistant Staphylococcus aureus infections: a revised consensus guideline and review by the American Soci-
+ety of Health-system Pharmacists, the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, 
+and the Society of Infectious Diseases Pharmacists. Clin Infect Dis 2020; 71: 1361-4. doi: 10.1093/cid/ciaa303
+PO）
+ Ye Z 
+K, Chen Y L, Chen K, Zhang X L, Du G H, He B, et al: Therapeutic drug monitoring of vancomycin: a guideline of 
+the Division of Therapeutic Drug Monitoring, Chinese Pharmacological Society. J Antimicrob Chemother 2016; 71: 3020-
+5. doi: 10.1093/jac/dkw254
+11）
+ Hashimoto N, 
+Kimura T, Hamada Y, Niwa T, Hanai Y, Chuma M, et al: Candidates for area under the concentration-
+time curve (AUC)-guided dosing and risk reduction based on analyses of risk factors associated with nephrotoxicity in 
+vancomycin-treated patients. J Glob Antimicrob Resist 2021; 27: 12-9. doi: 10.1016/j.jgar.2021.07.018
+12）
+ Oda K, 
+Jono H, Nosaka K, Saito H: Reduced nephrotoxicity with vancomycin therapeutic drug monitoring guided by 
+area under the concentration-time curve against a trough 15-20 μg/mL concentration. Int J Antimicrob Agents 2020; 56: 
+106109. doi: 10.1016/j.ijantimicag.2020.106109
+13） Ueda T, 
+Takesue Y, Nakajima K, Ichiki K, Ishikawa K, Takai Y, et al: Vancomycin loading dose is associated with 
+increased early clinical response without attainment of initial target trough concentration at a steady state in patients 
+with methicillin-resistant 
+Staphylococcus aureus infections. J Clin Pharm Ther 2020; 45: 682-90. doi: 10.1111/jcpt.13144
+14） Mei 
+H, Wang J, Che H, Wang R, Cai Y: The clinical efficacy and safety of vancomycin loading dose: a systematic review 
+and meta-analysis. Medicine 2019; 98: e17639. doi: 10.1097/MD.0000000000017639
+15） Rosini J M, Laughner J, Levine B J, Papas M A, Reinhardt J F, Jasani N B: A randomized trial of loading vancomycin in 
+the emergency department. Ann Pharmacother 2015; 49: 6-13. doi:
+ 10.1177/1060028014556813
+16） Šíma M, Hartinger J, Cikánková T, Slanař O: Importance of vancomycin loading doses in intermittent infusion regimens.
+ 
+J Infect Chemother 2018; 24: 247-50. doi: 10.1016/j.jiac.2017.11.002
+17） Casapao A 
+M, Leonard S N, Davis S L, Lodise T P, Patel N, Goff D A, et al: Clinical outcomes in patients with heteroge-
+neous vancomycin-intermediate Staphylococcus aureus bloodstream infection. Antimicrob Agents Chemother 2013; 57: 
+4252-9. doi: 10.1128/AAC.00380-13
+18） Lodise T 
+P, Rosenkranz S L, Finnemeyer M, Evans S, Sims M, Zervos M J, et al: The Emperor’s New Clothes: Prospec-
+tive observational evaluation of the association between initial vancomycin exposure and failure rates among adult hos-
+pitalized patients with methicillin-resistant 
+Staphylococcus aureus bloodstream infections (PROVIDE)．Clin Infect Dis 
+2020; 70: 1536-45. doi: 10.1093/cid/ciz460
+19） Ueda T, 
+Takesue Y, Nakajima K, Ichiki K, Ishikawa K, Yamada K, et al: Validation of vancomycin area under the con-
+centration―time curve estimation by the Bayesian approach using one-point samples for predicting clinical outcomes in 
+patients with methicillin-resistant 
+Staphylococcus aureus  infections. Antibiotics 2022; 11: 96. doi: 10.3390/antibiotics 
+11010096
+20） Takahashi Y, 
+Takesue Y, Takubo S, Ishihara M, Nakajima K, Tsuchida T, et al: Preferable timing of therapeutic drug 
+monitoring in patients with impaired renal function treated with once-daily administration of vancomycin. J Infect Che-
+mother 2013; 19: 709-16. doi: 10.1007/s10156-013-0551-7
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 317
+[[p68]]
+21） Pea F, Brollo L, Viale P, Pavan F, Furlanut M: Teicoplanin therapeutic drug monitoring in critically ill patients: a retro-
+spective 
+study emphasizing the importance of a loading dose. J Antimicrob Chemother 2003; 51: 971-5. doi: 10.1093/jac/
+dkg147
+22） Tobin C 
+M, Lovering A M, Sweeney E, MacGowan A P: Analyses of teicoplanin concentrations from 1994 to 2006 from 
+a UK assay service. J Antimicrob Chemother 2010; 65: 2155-7. doi: 10.1093/jac/dkq266
+23） Gemmell C 
+G, Edwards D I, Fraise A P, Gould F K, Ridgway G L, Warren R E, et al: Guidelines for the prophylaxis and 
+treatment of methicillin-resistant Staphylococcus aureus (MRSA) infections in the UK. J Antimicrob Chemother 2006; 
+57: 589-608. doi: 10.1093/jac/dkl017
+24） Harding I, MacGowan A P, White L O, Darley E S, Reed V: Teicoplanin therapy for Staphylococcus aureus septicaemia: 
+relationship between pre-dose serum concentrations and outcome. J Antimicrob Chemother 2000; 45: 835-41. doi: 
+10.1093/jac/45.6.835
+25）
+ Schaison G, 
+Graninger W, Bouza E: Teicoplanin in the treatment of serious infection. J Chemother 2000; 12 Suppl 5: S26-
+33. doi: 10.1080/1120009x.2000.11782315
+26） Boumis E, Gesu G, Menichetti F, Ranieri M, Rinaldi M, Suter F, et al: Consensus document on controversial issues in the
+ 
+diagnosis and treatment of bloodstream infections and endocarditis. Int J Infect Dis 2010; 14 Suppl 4: S23-38. doi: 
+10.1016/j.ijid.2010.05.006
+27）
+ Matthews P 
+C, Taylor A, Byren I, Atkins B L: Teicoplanin levels in bone and joint infections: are standard doses sub-
+therapeutic? J Infect 2007; 55: 408-13. doi: 10.1016/j.jinf.2007.07.012
+28） Ueda T, 
+Takesue Y, Nakajima K, Ichiki K, Ishikawa K, Takai Y, et al: Clinical efficacy and safety in patients treated 
+with teicoplanin with a target trough concentration of 20  μg/mL using a regimen of 12 mg/kg for five doses within the 
+initial 3 days. BMC Pharmacol Toxicol 2020; 21: 50. doi: 10.1186/s40360-0
+20-00424-3
+29） Ueda T, Takesue Y, Nakajima K, Ichki K, Wada Y, Komatsu M, et al: High-dose regimen to achieve novel target trough 
+concentration in teicoplanin. J Infect Chemother 2014; 20: 43-
+7. doi: 10.1016/j.jiac.2013.08.006
+30） Wilson A 
+P: Clinical pharmacokinetics of teicoplanin. Clin Pharmacokinet 2000; 39: 167-83. doi: 10.2165/00003088-
+200039030-00001
+31） Traina G 
+L, Bonati M: Pharmacokinetics of teicoplanin in man after intravenous administration. J Pharmacokinet Bio-
+pharm 1984; 12: 119-28. doi: 10.1007/BF01059273
+32） Murry K R, McKinnon P S, Mitrzyk B, Rybak M J: Pharmacodynamic characterization of nephrotoxicity associated with
+ 
+once-daily aminoglycoside. Pharmacotherapy 1999; 19: 1252-60. doi: 10.1592/phco.19.16.1252.30876
+33） 小林昌宏，斉京明子，
+相馬一亥，矢後和夫，砂川慶介：PK/PD 解析に基づく arbekacin の至適投与法。日化療会誌 2006; 
+54: 18-24
+34） Sato R, 
+Tanigawara Y, Kaku M, Aikawa N, Shimizu K: Pharmacokinetic-pharmacodynamic relationship of arbekacin for 
+treatment of patients infected with methicillin-resistant Staphylococcus aureus. Antimicrob Agents Chemother 2006; 50: 
+3763-9. doi: 10.1128/AAC.00480-05
+35） 谷風尚子，小松　方，
+島川宏一，山本育由：メチシリン耐性黄色ブドウ球菌肺炎に対する硫酸アルベカシン治療における
+PK/PD 解析の臨床的有用性。日化療会誌 2004; 52: 469-73
+36） 相川直樹，河野　茂，賀来満夫，渡辺　彰，山口惠三，谷川原祐介：MRSA 感染患者に対する
+arbekacin 200  mg 
+1 日 1
+回投与の治療効果―臨床薬理試験―。日化療会誌 2008; 56: 299-312
+37） 木村利美，砂川慶介，
+戸塚恭一，松本哲哉，花木秀明，相馬一亥，他：硫酸アルベカシンの至適血中ピーク濃度を達成す
+るための用量設定試験。日化療会誌 2011; 59: 597-604
+38） Yamamoto Y, Izumikawa K, Hashiguchi K, Fukuda Y, Kobayashi T, Kondo A, et al: The efficacy and safety of high
+-dose 
+arbekacin sulfate therapy (once-daily treatment) in patients with MRSA infection. J Infect Chemother 2012; 18: 241-6. 
+doi: 10.1007/s10156-012-0397-4
+39）
+ Matsumoto T, Hanaki H, Kimura T, Nemoto M, Higashihara M, Yokota H, et al: Clinical efficacy and safety of arbekacin
+ 
+sulfate in patients with MRSA sepsis or pneumonia: a multi-institutional study. J Infect Chemother 2013; 19: 128-37. doi: 
+10.1007/s10156-012-0519-z
+40）
+ Burton M 
+E: Applied pharmacokinetics & pharmacodynamics: principles of therapeutic drug monitoring, 4th ed. Lippin-
+cott Williams & Wilkins, Baltimore. 2005
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3318
+[[p69]]
+Conflict of interest（COI）
+　光武耕太郎は，MSD（株） ，ギリアド・サイエンシズ（株） ，旭化成ファーマ（株） ，APS ジャパン（株）より講演
+料を受けている。
+　松本哲哉は，MSD（株） ，ファイザー（株） ，杏林製薬（株）より講演料を受けている。
+　小澤俊幸は， （株）ミルボンから研究費を受けている。
+　小澤俊幸は， （株）日本触媒から奨学寄附金を受けている。
+　小澤俊幸は， （株）ミルボンから共同研究講座を受けている。
+　関　雅文は，ファイザー（株） ，杏林製薬（株） ，塩野義製薬（株） ，MSD（株） ，第一三共（株） ，Meiji Seika ファ
+ルマ（株） ，大日本住友製薬（株） ，アストラゼネカ（株） ，ビオメリュー・ジャパン（株）から講演料を受けている。
+　髙橋　聡は，富士レビオ（株）から講演料を受けている。
+　髙橋　聡は，アボットジャパン（同） ，富士レビオ（株）から研究費を受けている。
+　髙橋　聡は， （株）シノテストから奨学寄附金を受けている。
+　中嶋秀人は，第一三共（株） ，中外製薬（株）から講演料を受けている。
+　中南秀将は，マルホ（株）から講演料を受けている。
+　中南秀将は， （株）関電工， （株）大塚製薬工場，オカモト（株） ，東亜薬品（株） ，テナントアシスト・ウイン（株） ，
+（株）どうぶつの皮膚科，小林製薬（株）より研究費を受けている。
+　藤村　茂は，MSD（株） ，杏林製薬（株） ，Meiji Seika ファルマ（株）から講演料を受けている。
+　松元一明は，Meiji Seika ファルマ（株）から講演料を受けている。
+　松元一明は，Meiji Seika ファルマ（株） ，住友ファーマ（株） ，杏林製薬（株）から研究費を受けている。
+　松元一明は，塩野義製薬（株）から奨学寄附金を受けている。
+　三鴨廣繁は， （株）ツムラ，日本ベクトン・ディッキンソン（株） ， （株）フコク，アステラス製薬（株） ，MSD（株） ，
+杏林製薬（株） ，グラクソ・スミスクライン（株） ，興和（株） ，サラヤ（株） ，塩野義製薬（株） ，第一三共（株） ，大
+日本住友製薬（株） ，ファイザー（株） ，富士フイルム富山化学（株） ，サノフィ（株） ，ミヤリサン製薬（株） ，ファイ
+ザー R&D（同） ，Meiji Seika ファルマ（株） ，ギリアド・サイエンシズ（株） ，住友ファーマ（株） ，ロシュ・ダイア
+グノスティックス（株） ，旭化成ファーマ（株）から講演料を受けている。
+　三鴨廣繁は，サラヤ（株） ，ミヤリサン製薬（株） ，アボットダイアグノスティクスメディカル（株） ，オーソ・クリ
+ニカル・ダイアグノスティックス（株） ，杏林製薬（株） ，Meiji Seika ファルマ（株） ，ファイザー（株） ，ロシュ・ダ
+イアグノスティックス（株）から研究費を受けている。
+　三鴨廣繁は，旭化成ファーマ（株） ，塩野義製薬（株） ，大日本住友製薬（株） ， （株）フコク， （株）モリイ，住友
+ファーマ（株） ， （株）テックインターナショナル，ニプロ（株） ，富士フイルム富山化学（株）から奨学寄附金を受け
+ている。
+　宮入　烈は，アストラゼネカ（株） ，塩野義製薬（株） ，サノフィ（株） ，杏林製薬（株） ，第一三共（株） ，ファイ
+ザー（株） ，ミヤリサン製薬（株） ，ファイザー R&D（同） ，Meiji Seika ファルマ（株） ，KM バイオロジクス（株） ，
+田辺三菱製薬（株） ，ギリアド・サイエンシズ（株） ，武田薬品工業（株） ，ビオメリュー・ジャパン（株） ， （一財）阪
+大微生物病研究会から講演料を受けている。
+　栁原克紀は，第一三共（株） ，ビオメリュー・ジャパン（株） ，MSD（株） ，グラクソ・スミスクライン（株） ，日本
+ベクトン・ディッキンソン（株） ，杏林製薬（株） ，塩野義製薬（株）から講演料を受けている。
+　栁原克紀は，塩野義製薬（株） ，Meiji Seika ファルマ（株） ，富士フイルム（株） ，東ソー（株） ，ミヤリサン製薬
+（株）から研究費を受けている。
+　栁原克紀は，富士フイルム富山化学（株） ，大日本住友製薬（株） ，塩野義製薬（株） ，ロシュ・ダイアグノスティッ
+クス（株） ，杏林製薬（株） ，日本電子（株） ，第一三共（株） ，大鵬薬品工業（株）から奨学寄附金を受けている。
+　山岸由佳は，ミヤリサン製薬（株） ，テルモ（株） ，MSD（株） ，旭化成ファーマ（株） ，住友ファーマ（株）から講
+演料を受けている。
+　山岸由佳は，アボットダイアグノスティクスメディカル（株） ，オーソ・クリニカル・ダイアグノスティックス
+（株） ，杏林製薬（株） ，サラヤ（株） ，ミヤリサン製薬（株） ， （株）フコクから研究費を受けている。
+　山岸由佳は， （株）フコク， （株）モリイから奨学（奨励）寄附金を受けている。
+　山口哲央は， （公財）武田科学振興財団から奨学寄附金を受けている。
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 319
+[[p70]]
+　大野久美子は，中外製薬（株） ，サノフィ（株）から講演料を受けている。
+　岩田　敏は，ファイザー（株） ，ギリアド・サイエンシズ（株）から講演料を受けている。
+　植田貴史，内山勝文，唐牛春香，菅井基行，竹末芳生，中嶋一彦，畑　啓昭，藤倉雄二，松下和彦，山田浩司，山
+本善裕，吉田耕一郎，池田信介，岩田栄一朗，大野智裕，加勢田富士子，加藤秀雄，加茂野絵美，川﨑洋平，川筋仁
+史，小林直実，坂なつみ，瀬戸良教，高野昇太郎，浜田幸宏，松本　浩，荒川創一，金光敬二は申告すべきものなし。
+日本化学療法学会・日本感染症学会における事業活動において資金提供を受けた企業
+＊診療ガイドライン策定に関連して，資金を提供した企業　該当なし
+1）日本化学療法学会
+　アークレイマーケティング（株） ，アース製薬（株） ，愛恵会，アイリス（株） ，旭化成ファーマ（株） ，旭化成（株） ，
+アサヒクオリティーアンドイノベーションズ（株） ，あすか製薬（株） ，アステラス製薬（株） ，アストラゼネカ（株） ，
+（株）アトスメディカル，アボットジャパン（同） ，アボットダイアグノスティクスメディカル（株） ，アルフレッサ
+ファーマ（株） ， （株）医学生物学研究所，イルミナ（株） ，イワキ（株） ，インスメッド（同） ， （有）インターフェイ
+ス，ヴィーブヘルスケア（株） ，ウシオ電機（株） ， （株）エイアンドティー，栄研化学（株） ，H.U. フロンティア（株） ，
+エーザイ（株） ， （株）エスアールエル，MSD（株） ，MSD アニマルヘルス（株） ， （株）LSI メディエンス， （株）オー
+ジャスト，オーソ・クリニカル・ダイアグノスティックス（株） ，応用酵素医学研究所（株） ， （株）大塚製薬， （株）
+大塚製薬工場，大原薬品工業（株） ，小野薬品工業（株） ，カーブジェン（株） ，科研製薬（株） ，関東化学（株） ， （株）
+キアゲン，キッセイ薬品工業（株） ，岐阜大学医学部産科婦人科教室同門会，岐阜大学微生物遺伝資源保存センター，
+木村情報技術（株） ，杏林製薬（株） ，協和キリン（株） ，極東製薬工業（株） ，ギリアド・サイエンシズ（株） ，キリン
+ホールディングス（株） ，グラクソ・スミスクライン（株） ，クラシエ製薬（株） ， （株）GramEye， （株）グローバル・
+リンク・マネジメント，公立穴水総合病院，興和（株） ，コージンバイオ（株） ， （国研）国立国際医療研究センター，
+サーモフィッシャーダイアグノスティックス（株） ， （一社）札幌市医師会，佐藤製薬（株） ，サノフィ（株） ，沢井製
+薬（株） ，参天製薬（株） ， （株）三和化学研究所，JNC（株） ，JNTL コンシューマーヘルス（株） ，ジェンスクリプト
+ジャパン（株） ，塩野義製薬（株） ，シスメックス（株） ， （株）シノテスト，柴田科学（株） ， （株）島津アドコム， （株）
+島津製作所，島津ダイアグノスティクス（株） ， （株）シンファクトリー， （株）スギヤマゲン， （株）スクラム，スタ
+ンレー電気（株） ， （株）スマートロボティクス，住商ファーマインターナショナル（株） ，住友ファーマ（株） ，スリー
+エムジャパン（株） ，積水メディカル（株） ，ゼリア新薬工業（株） ，千寿製薬（株） ，Central Link（株） ，第一三共
+（株） ， （株）ダイコク，大正製薬（株） ，大正ファーマ（株） ，大日本住友製薬（株） ，大鵬薬品工業（株） ，太陽ファル
+マ（株） ， （株）タウンズ，高田製薬（株） ，武田薬品工業（株） ， （株）ダナフォーム，田辺三菱製薬（株） ，千葉大学
+真菌医学研究センター，中外製薬（株） ，長生堂製薬（株） ， （株）ツムラ， （株）ティ・アシスト，TOA（株） ，帝人
+ファーマ（株） ，テルモ（株） ，デンカ（株） ，東京化成工業（株） ，東ソー（株） ，東洋紡（株） ，東和薬品（株） ，トー
+アエイヨー（株） ， （医）ともなが内科クリニック， （公財）富山コンベンションビューロー，鳥居薬品（株） ， （有）長
+崎医学中央検査室， （大）長崎大学，ニールメッド（株） ，日医工（株） ，ニッシントーア・岩尾（株） ，日水製薬（株） ，
+ニプロ（株） ，ニプロファーマ（株） ，日本イーライリリー（株） ， （一社）日本 MA-T 工業会，日本化薬（株） ，日本
+ケミファ（株） ， （株）日本コクレア， （株）日本シノバイオロジカル，日本新薬（株） ，日本製薬（株） ，日本製薬工業
+協会，日本臓器製薬（株） ，日本たばこ産業（株） ，日本ベーリンガーインゲルハイム（株） ，日本ベクトン・ディッキ
+ンソン（株） ，ネッパジーン（株） ，バイエル薬品（株） ，ビオフェルミン製薬（株） ，ビオメリュー・ジャパン（株） ，
+（株）日立ハイテク， （株）ビップグローバル，ファイザー（株） ，フィルジェン（株） ， （株）フコク，藤永製薬（株） ，
+富士フイルム富山化学（株） ，富士フイルムメディカル（株） ，富士レビオ（株） ，扶桑薬品工業（株） ，ブリストル・
+マイヤーズスクイブ（株） ，ブルカージャパン（株） ，プレシジョン・システム・サイエンス（株） ，プロテインシンプ
+ルジャパン（株） ，ベックマン・コールター（株） ， （一社）北海道医師会， （株）堀場製作所，ボレー・ブランズ・ジャ
+パン（株） ，丸石製薬（株） ，マルホ（株） ， （株）ミズホメディー，三井化学（株） ， （株）ミノファーゲン製薬，ミヤ
+リサン製薬（株） ，Meiji Seika ファルマ（株） ，メイワフォーシス（株） ， （株）メディコン，メディフォン（株） ，メ
+ドエルジャパン（株） ，持田製薬（株） ，モデルナ・ジャパン（株） ， （株）モレーンコーポレーション， （株）ヤクルト
+本社，ヤンセンファーマ（株） ， （株）陽進堂，ライフテクノロジーズジャパン（株） ，リオン（株） ，ルミラ・ダイア
+グノスティクス・ジャパン（株） ，ロート製薬（株） ，ロシュ・ダイアグノスティックス（株） ，わかもと製薬（株）
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3320
+[[p71]]
+2）日本感染症学会
+　アース製薬（株） ，アイリス（株） ，旭化成ファーマ（株） ，アサヒクオリティーアンドイノベーションズ（株） ，あ
+すか製薬（株） ，アステラス製薬（株） ，アストラゼネカ（株） ， （株）アトスメディカル，アボットダイアグノスティ
+クスメディカル（株） ，アボットジャパン（同） ，アルフレッサファーマ（株） ，イルミナ（株） ，イワキ（株） ，インス
+メッド（同） ， （有）インターフェイス，ウシオ電機（株） ， （株）エイアンドティー，栄研化学（株） ，H.U. フロンティ
+ア（株） ，エーザイ（株） ， （株）エスアールエル，MSD（株） ， （株）LSI メディエンス，オーソ・クリニカル・ダイ
+アグノスティックス（株） ，大塚製薬（株） ， （株）大塚製薬工場，大原薬品工業（株） ，小野薬品工業（株） ，カーブ
+ジェン（株） ，科研製薬（株） ，関東化学（株） ， （株）キアゲン， （株）キーエンス，キコーテック（株） ，キッセイ薬
+品工業（株） ， （一社）ぎふ綜合健診センター，岐阜大学微生物遺伝資源保存センター，岐阜大学病院第一内科，杏林
+製薬（株） ，協和キリン（株） ，極東製薬工業（株） ，ギリアド・サイエンシズ（株） ，キリンホールディングス（株） ，
+グラクソ・スミスクライン（株） ，クラシエ製薬（株） ， （株）GramEye，興研（株） ，公立穴水総合病院，興和（株） ，
+（国研）国立国際医療研究センター，コパンジャパン（株） ，サーモフィッシャーダイアグノスティックス（株） ， （一
+社）札幌市医師会，佐藤製薬（株） ，サノフィ（株） ，サラヤ（株） ，沢井製薬（株） ，サンコー・コミュニケーション
+ズ（株） ，参天製薬（株） ，サンファーマ（株） ， （株）三和化学研究所，JNC（株） ，JNTL コンシューマーヘルス（株） ，
+ジェンスクリプトジャパン（株） ，塩野義製薬（株） ，シスメックス（株） ， （株）シノテスト，柴田科学（株） ， （株）
+島津アドコム， （株）島津製作所，シャボン玉販売（株） ， （株）シンファクトリー， （株）スギヤマゲン， （株）スクラ
+ム，スタンレー電気（株） ， （株）スディックスバイオテック， （株）スマートロボティクス，住友ファーマ（株） ，ス
+リーエムジャパン（株） ，積水メディカル（株） ，ゼリア新薬工業（株） ，千寿製薬（株） ，第一三共（株） ， （株）ダイ
+コク，大正製薬（株） ，大日本住友製薬（株） ，大鵬薬品工業（株） ， （株）タウンズ，高田製薬（株） ，武田テバファー
+マ（株） ，武田薬品工業（株） ， （株）ダナフォーム，田辺三菱製薬（株） ，千葉大学真菌医学研究センター，中外製薬
+（株） ，長生堂製薬（株） ， （株）ツムラ， （株）テイ・アシスト，帝人ファーマ（株） ，テルモ（株） ，デンカ（株） ，東
+京化成工業（株） ，東ソー（株） ，東洋紡（株） ，東和薬品（株） ，トーアエイヨー（株） ， （医）ともなが内科クリニッ
+ク， （公財）富山コンベンションビューロー，鳥居薬品（株） ， （有）長崎医学中央検査室， （大）長崎大学，ニールメッ
+ド（株） ，日医工（株） ，ニッシントーア・岩尾（株） ，日水製薬（株） ，ニプロ（株） ，ニプロファーマ（株） ，日本イー
+ライリリー（株） ， （一社）日本 MA-T 工業会，日本化薬（株） ，日本ケミファ（株） ， （株）日本コクレア，日本新薬
+（株） ，日本製薬（株） ，日本製薬工業協会，日本臓器製薬（株） ，日本たばこ産業（株） ，日本ベーリンガーインゲルハ
+イム（株） ，日本ベクトン・ディッキンソン（株） ，バイエル薬品（株） ，ヴィーブヘルスケア（株） ，ビオフェルミン
+製薬（株） ，ビオメリュー・ジャパン（株） ， （株）日立ハイテク， （株）ビップグローバル，ファイザー（株） ，フィッ
+シャー & パイケルヘルスケア（株） ，藤永製薬（株） ，富士フイルム富山化学（株） ，富士フイルムメディカル（株） ，
+富士レビオ（株） ，扶桑薬品工業（株） ，ブリストル・マイヤーズスクイブ（株） ，ブルカージャパン（株） ，プレシジョ
+ン・システム・サイエンス（株） ，プロテインシンプルジャパン（株） ，ベックマン・コールター（株） ， （一社）北海
+道医師会， （株）堀場製作所，ホロジックジャパン（株） ，丸石製薬（株） ，マルホ（株） ， （株）ミズホメディー，三井
+化学（株） ， （株）ミノファーゲン製薬，ミヤリサン製薬（株） ， （株）ミロクメディカルラボラトリー，Meiji Seika
+ファルマ（株） ，メイワフォーシス（株） ， （株）メディコン，メドエルジャパン（株） ，持田製薬（株） ，モデルナ・
+ジャパン（株） ， （株）モレーンコーポレーション， （株）ヤクルト本社，ヤンセンファーマ（株） ， （株）陽進堂，ライ
+フテクノロジーズジャパン（株） ，リオン（株） ， （株）理研ジェネシス，ルミラ・ダイアグノスティクス・ジャパン
+（株） ，ロート製薬（株） ，ロシュ・ダイアグノスティックス（株） ，わかもと製薬（株）
+MRSA 感染症の診療ガイドライン 2024
+日本化学療法学会雑誌　Vol. 72 No. 3 321
