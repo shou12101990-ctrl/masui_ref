@@ -4,7 +4,7 @@ import '../../models/drug.dart';
 /// Book3.xlsx のセルコメントを起点に, 各電子添文で裏取りして作成.
 const List<Drug> kAntiarrhythmicDrugs = [
   Drug(
-    name: 'アミオダロン塩酸塩 (AMD)',
+    name: 'アミオダロン (AMD)',
     brand: 'アンカロン注150 / アンカロン錠100 (後発: アミオダロン塩酸塩静注150mg「TE」, アミオダロン塩酸塩速崩錠50mg・100mg「TE」)',
     category: DrugCategory.antiarrhythmic,
     spec: '注射: 150mg/3ml/A (1アンプル中アミオダロン塩酸塩150mg, ベンジルアルコール60mg, ポリソルベート80 300mg含有). 内服: 100mg/錠 (後発の速崩錠は50mg/錠, 100mg/錠)',
@@ -97,7 +97,7 @@ const List<Drug> kAntiarrhythmicDrugs = [
     ],
   ),
   Drug(
-    name: 'ソタロール塩酸塩',
+    name: 'ソタロール',
     brand: 'ソタコール錠40mg, ソタコール錠80mg (後発: ソタロール塩酸塩錠40mg・80mg「TE」)',
     category: DrugCategory.antiarrhythmic,
     spec: '40mg/錠, 80mg/錠 (いずれも青色の素錠)',
@@ -195,7 +195,7 @@ const List<Drug> kAntiarrhythmicDrugs = [
     ],
   ),
   Drug(
-    name: 'ニフェカラント塩酸塩 (NIF)',
+    name: 'ニフェカラント (NIF)',
     brand: 'シンビット静注用50mg',
     category: DrugCategory.antiarrhythmic,
     spec: '50mg/V (1バイアル中ニフェカラント塩酸塩50mg, 添加剤として乳糖水和物50mg, pH調節剤. 微黄白色の凍結乾燥製剤, pH 4.0-5.5)',
@@ -990,7 +990,7 @@ const List<Drug> kAntiarrhythmicDrugs = [
     ],
   ),
   Drug(
-    name: 'ベラパミル塩酸塩 (VER)',
+    name: 'ベラパミル (VER)',
     brand: 'ワソラン',
     category: DrugCategory.antiarrhythmic,
     spec: 'ワソラン静注5mg: 5mg/2mL (褐色アンプル10管) . ワソラン錠40mg',
@@ -1065,7 +1065,7 @@ const List<Drug> kAntiarrhythmicDrugs = [
     ],
   ),
   Drug(
-    name: 'ジルチアゼム塩酸塩 (DIL)',
+    name: 'ジルチアゼム (DIL)',
     brand: 'ヘルベッサー',
     category: DrugCategory.antiarrhythmic,
     spec: 'ヘルベッサー注射用10mg/瓶, 50mg/瓶',
@@ -1143,7 +1143,7 @@ const List<Drug> kAntiarrhythmicDrugs = [
     ],
   ),
   Drug(
-    name: 'プロプラノロール塩酸塩 (PL)',
+    name: 'プロプラノロール (PL)',
     brand: 'インデラル',
     category: DrugCategory.antiarrhythmic,
     spec: 'インデラル注射液2mg: 2mg/2mL. インデラル錠10mg, 20mg',
@@ -1426,7 +1426,7 @@ const List<Drug> kAntiarrhythmicDrugs = [
     ],
   ),
   Drug(
-    name: 'アデノシン三リン酸二ナトリウム水和物 (ATP)',
+    name: 'アデノシン三リン酸 (ATP)',
     brand: 'アデホス, アデホス-Lコーワ',
     category: DrugCategory.antiarrhythmic,
     spec: 'アデホス-Lコーワ注10mg, 20mg, 40mg',
@@ -1480,7 +1480,7 @@ const List<Drug> kAntiarrhythmicDrugs = [
     ],
   ),
   Drug(
-    name: '硫酸マグネシウム水和物 (MgSO4)',
+    name: '硫酸マグネシウム (MgSO4)',
     brand: '硫酸Mg補正液 (電解質補正用注射液, 製剤名は複数存在)',
     category: DrugCategory.antiarrhythmic,
     spec: '硫酸Mg補正液1mEq/mL: 0.5モル20mL/管',

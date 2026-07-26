@@ -1677,7 +1677,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'マプロチリン塩酸塩 (MAP)',
+    name: 'マプロチリン (MAP)',
     brand: 'ルジオミール',
     category: DrugCategory.psychotropic,
     spec: 'ルジオミール錠10mg, 錠25mg (サンファーマ)',
@@ -1752,7 +1752,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'ミアンセリン塩酸塩 (MIA)',
+    name: 'ミアンセリン (MIA)',
     brand: 'テトラミド',
     category: DrugCategory.psychotropic,
     spec: 'テトラミド錠10mg, 錠30mg (オルガノン)',
@@ -1812,7 +1812,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'セチプチリンマレイン酸塩 (SET)',
+    name: 'セチプチリン (SET)',
     brand: 'テシプール',
     category: DrugCategory.psychotropic,
     spec: 'テシプール錠1mg (持田製薬)',
@@ -1864,7 +1864,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'トラゾドン塩酸塩 (TRZ)',
+    name: 'トラゾドン (TRZ)',
     brand: 'レスリン, デジレル',
     category: DrugCategory.psychotropic,
     spec: 'レスリン錠25, 錠50 (オルガノン). デジレル錠25, 錠50 (ファイザー). 後発品にトラゾドン塩酸塩錠25mg/50mg',
@@ -1920,7 +1920,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'フルボキサミンマレイン酸塩 (FLV)',
+    name: 'フルボキサミン (FLV)',
     brand: 'デプロメール, ルボックス',
     category: DrugCategory.psychotropic,
     spec: 'デプロメール錠25, 錠50, 錠75 (Meiji Seika ファルマ). ルボックス錠25, 錠50, 錠75 (アッヴィ). 後発品にフルボキサミンマレイン酸塩錠25mg/50mg/75mg',
@@ -1996,7 +1996,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'パロキセチン塩酸塩水和物 (PAX)',
+    name: 'パロキセチン (PAX)',
     brand: 'パキシル, パキシルCR',
     category: DrugCategory.psychotropic,
     spec: 'パキシル錠10mg, 20mg, 40mg. パキシルCR錠6.25mg, 12.5mg, 25mg (グラクソ・スミスクライン). 後発品にパロキセチン錠・OD錠5mg/10mg/20mg. CR錠 (徐放錠) の適応はうつ病・うつ状態のみ',
@@ -2063,7 +2063,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'セルトラリン塩酸塩 (SER)',
+    name: 'セルトラリン (SER)',
     brand: 'ジェイゾロフト',
     category: DrugCategory.psychotropic,
     spec: 'ジェイゾロフト錠25mg, 50mg, 100mg. ジェイゾロフトOD錠25mg, 50mg, 100mg (ヴィアトリス). 後発品にセルトラリン錠・OD錠',
@@ -2126,7 +2126,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'エスシタロプラムシュウ酸塩 (ESC)',
+    name: 'エスシタロプラム (ESC)',
     brand: 'レクサプロ',
     category: DrugCategory.psychotropic,
     spec: 'レクサプロ錠10mg, 錠20mg (持田製薬). 後発品にエスシタロプラム錠10mg/20mg',
@@ -2194,7 +2194,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'ミルナシプラン塩酸塩 (MLN)',
+    name: 'ミルナシプラン (MLN)',
     brand: 'トレドミン',
     category: DrugCategory.psychotropic,
     spec: 'トレドミン錠12.5mg, 15mg, 25mg, 50mg (旭化成ファーマ). 後発品にミルナシプラン塩酸塩錠',
@@ -2258,7 +2258,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'デュロキセチン塩酸塩 (DLX)',
+    name: 'デュロキセチン (DLX)',
     brand: 'サインバルタ',
     category: DrugCategory.psychotropic,
     spec: 'サインバルタカプセル20mg, カプセル30mg (塩野義製薬). 後発品にデュロキセチンカプセル・OD錠20mg/30mg',
@@ -5303,7 +5303,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'プラミペキソール塩酸塩水和物',
+    name: 'プラミペキソール',
     brand: 'ビ・シフロール',
     category: DrugCategory.psychotropic,
     spec: 'ビ・シフロール錠0.125mg, ビ・シフロール錠0.5mg',
@@ -5363,7 +5363,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'ロピニロール塩酸塩',
+    name: 'ロピニロール',
     brand: 'レキップ',
     category: DrugCategory.psychotropic,
     spec: 'レキップ錠0.25mg, レキップ錠1mg, レキップ錠2mg (通常錠). レキップCR錠2mg, 4mg, 8mg (徐放錠) もある',
@@ -5477,7 +5477,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'アポモルヒネ塩酸塩水和物',
+    name: 'アポモルヒネ',
     brand: 'アポカイン',
     category: DrugCategory.psychotropic,
     spec: 'アポカイン皮下注30mg (1カートリッジ3mL, アポモルヒネ塩酸塩水和物30.9mg [アポモルヒネ塩酸塩として30mg])',
@@ -5615,7 +5615,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'トリヘキシフェニジル塩酸塩',
+    name: 'トリヘキシフェニジル',
     brand: 'アーテン',
     category: DrugCategory.psychotropic,
     spec: 'アーテン錠 (2mg), アーテン散1% (1g中10mg)',
@@ -5681,7 +5681,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'アマンタジン塩酸塩',
+    name: 'アマンタジン',
     brand: 'シンメトレル',
     category: DrugCategory.psychotropic,
     spec: 'シンメトレル錠50mg, シンメトレル錠100mg',
@@ -6069,7 +6069,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     ],
   ),
   Drug(
-    name: 'バルプロ酸ナトリウム (VPA)',
+    name: 'バルプロ酸 (VPA)',
     brand: 'デパケン/デパケンR (協和キリン), バレリン (共和薬品), セレニカR (興和) 等の後発品を含む経口製剤のみ. 国内に承認された静注/注射製剤はない',
     category: DrugCategory.psychotropic,
     spec: '錠100mg/200mg, 徐放錠 (R錠) 100mg/200mg, シロップ5% (1mL中50mg), 細粒20%/40%等 (いずれも経口剤)',

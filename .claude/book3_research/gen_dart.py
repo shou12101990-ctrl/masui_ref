@@ -96,6 +96,97 @@ CAT_ENUM = {
 }
 
 
+SALT_RE = re.compile(
+    r"(?:一|二|三|四|１|２|３|４)?"
+    r"(ナトリウム|カリウム|カルシウム|マグネシウム|塩酸塩|臭化水素酸塩|硫酸塩|水和物|"
+    r"メシル酸塩|ベシル酸塩|トシル酸塩|メタンスルホン酸塩|メタンスルホン酸|"
+    r"リン酸塩|酢酸塩|マレイン酸塩|フマル酸塩|コハク酸塩|酒石酸塩|乳酸塩|"
+    r"クエン酸塩|臭化物|塩化物|エシル酸塩|パモ酸塩)$"
+)
+
+# 名寄せキーを作るときに, 塩を剥がすと意味が壊れるので保護する語.
+# (硫酸マグネシウム・アデノシン三リン酸などは「塩の名前」自体が薬剤名の一部)
+PROTECT = (
+    "硫酸マグネシウム",
+    "炭酸リチウム",
+    "アデノシン三リン酸",
+    "重炭酸ナトリウム",
+    "塩化カリウム",
+    "塩化ナトリウム",
+    "グルコン酸カルシウム",
+)
+
+
+def key_of(name):
+    """塩・水和物・略号・記号を落として名寄せ用のキーにする.
+
+    「パロキセチン塩酸塩水和物」のような多段の塩も, 変化しなくなるまで剥がす.
+    薬剤名自体に塩の名前を含むもの (硫酸マグネシウム等) は PROTECT で保護する.
+    """
+    s = re.sub(r"\s*\(.*?\)", "", str(name)).strip()
+    for p in PROTECT:
+        if s.startswith(p):
+            return re.sub(r"[\s・･/／]+", "", p)
+    # 配合剤は「・」で区切られた成分ごとに塩を剥がす
+    parts = re.split(r"[・･/／]", s)
+    cleaned = []
+    for part in parts:
+        p = part.strip()
+        prev = None
+        while prev != p:
+            prev = p
+            p = SALT_RE.sub("", p).strip()
+        if p:
+            cleaned.append(p)
+    s = "".join(cleaned)
+    s = re.sub(r"\s+", "", s)
+    return s.strip()
+
+
+def load_aliases():
+    """名寄せ台帳を読む. 出力時は canonical (簡素な名前)を使うための辞書を返す."""
+    p = os.path.join(RES, "drug_aliases.json")
+    if not os.path.exists(p):
+        return {}
+    data = json.load(open(p, encoding="utf-8"))
+    # 混同禁止に載っている薬剤は簡素化で潰れないよう除外する.
+    # 台帳の表記は表示名 (略号つき) なので, 正規化キーでも保護する.
+    protected = set()
+    for x in data.get("distinct", []):
+        for item in x.get("items", []):
+            protected.add(item)
+            protected.add(key_of(item))
+    out = {}
+    for g in data.get("same", []):
+        can = g.get("canonical", "").strip()
+        if not can:
+            continue
+        for v in g.get("variants", []):
+            if v in protected or key_of(v) in protected:
+                continue
+            # 元の表記でも, 正規化キーでも引けるようにする
+            out[v] = can
+            out.setdefault(key_of(v), can)
+    return out
+
+
+ALIASES = load_aliases()
+
+
+def display_name(name, abbr):
+    """表示名. 台帳に canonical があれば簡素な名前を使い, 略号は括弧で残す."""
+    base = ALIASES.get(name) or ALIASES.get(key_of(name))
+    if base:
+        # 元の表記から略号を拾う (台帳の canonical には略号が無いため)
+        m = re.search(r"\(([A-Za-z0-9\-/]{2,8})\)", name)
+        if m:
+            return f"{base} ({m.group(1)})"
+        return f"{base} ({abbr})" if abbr and abbr not in base else base
+    if abbr and abbr not in name:
+        return f"{name} ({abbr})"
+    return name
+
+
 def render_drug(d, cat):
     """1剤分の Drug(...) リテラルを生成."""
     L = []
@@ -103,7 +194,7 @@ def render_drug(d, cat):
     a("  Drug(")
     name = d.get("name", "")
     abbr = d.get("abbr", "")
-    disp = f"{name} ({abbr})" if abbr and abbr not in name else name
+    disp = display_name(name, abbr)
     a(f"    name: {lit(disp)},")
     a(f"    brand: {lit(d.get('brand',''))},")
     a(f"    category: {CAT_ENUM[cat]},")
@@ -211,53 +302,6 @@ SKIP_NAMES = {
 
 # 末尾から順に剥がす塩・水和物の表記. 「二ナトリウム水和物」のような多段にも対応するため
 # 変化しなくなるまで繰り返し適用する.
-SALT_RE = re.compile(
-    r"(?:一|二|三|四|１|２|３|４)?"
-    r"(ナトリウム|カリウム|カルシウム|マグネシウム|塩酸塩|臭化水素酸塩|硫酸塩|水和物|"
-    r"メシル酸塩|ベシル酸塩|トシル酸塩|メタンスルホン酸塩|メタンスルホン酸|"
-    r"リン酸塩|酢酸塩|マレイン酸塩|フマル酸塩|コハク酸塩|酒石酸塩|乳酸塩|"
-    r"クエン酸塩|臭化物|塩化物|エシル酸塩|パモ酸塩)$"
-)
-
-# 名寄せキーを作るときに, 塩を剥がすと意味が壊れるので保護する語.
-# (硫酸マグネシウム・アデノシン三リン酸などは「塩の名前」自体が薬剤名の一部)
-PROTECT = (
-    "硫酸マグネシウム",
-    "炭酸リチウム",
-    "アデノシン三リン酸",
-    "重炭酸ナトリウム",
-    "塩化カリウム",
-    "塩化ナトリウム",
-    "グルコン酸カルシウム",
-)
-
-
-def key_of(name):
-    """塩・水和物・略号・記号を落として名寄せ用のキーにする.
-
-    「パロキセチン塩酸塩水和物」のような多段の塩も, 変化しなくなるまで剥がす.
-    薬剤名自体に塩の名前を含むもの (硫酸マグネシウム等) は PROTECT で保護する.
-    """
-    s = re.sub(r"\s*\(.*?\)", "", str(name)).strip()
-    for p in PROTECT:
-        if s.startswith(p):
-            return re.sub(r"[\s・･/／]+", "", p)
-    # 配合剤は「・」で区切られた成分ごとに塩を剥がす
-    parts = re.split(r"[・･/／]", s)
-    cleaned = []
-    for part in parts:
-        p = part.strip()
-        prev = None
-        while prev != p:
-            prev = p
-            p = SALT_RE.sub("", p).strip()
-        if p:
-            cleaned.append(p)
-    s = "".join(cleaned)
-    s = re.sub(r"\s+", "", s)
-    return s.strip()
-
-
 def load_tips():
     """感染症GL・成書から抽出した薬剤別tipsを読む (無ければ空).
 

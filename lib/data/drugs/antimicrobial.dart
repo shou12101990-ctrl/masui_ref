@@ -4,7 +4,7 @@ import '../../models/drug.dart';
 /// Book3.xlsx のセルコメントを起点に, 各電子添文で裏取りして作成.
 const List<Drug> kAntimicrobialDrugs = [
   Drug(
-    name: 'ベンジルペニシリンカリウム (PCG)',
+    name: 'ベンジルペニシリン (PCG)',
     brand: '注射用ペニシリンGカリウム',
     category: DrugCategory.antimicrobial,
     spec: '20万単位/V, 100万単位/V (用時溶解の粉末)',
@@ -168,7 +168,7 @@ const List<Drug> kAntimicrobialDrugs = [
     ],
   ),
   Drug(
-    name: 'アモキシシリン水和物 (AMPC)',
+    name: 'アモキシシリン (AMPC)',
     brand: 'サワシリン',
     category: DrugCategory.antimicrobial,
     spec: 'カプセル125mg・250mg, 錠250mg, 細粒10%',
@@ -370,7 +370,7 @@ const List<Drug> kAntimicrobialDrugs = [
     ],
   ),
   Drug(
-    name: 'タゾバクタムナトリウム・ピペラシリンナトリウム (PIPC/TAZ)',
+    name: 'ピペラシリン・タゾバクタム (PIPC/TAZ)',
     brand: 'ゾシン',
     category: DrugCategory.antimicrobial,
     spec: '配合点滴静注用バッグ4.5g (TAZ 0.5g・PIPC 4g), 静注用バイアル2.25g・4.5gもあり',
@@ -3869,7 +3869,7 @@ const List<Drug> kAntimicrobialDrugs = [
     ],
   ),
   Drug(
-    name: 'コリスチン (コリスチンメタンスルホン酸ナトリウム) (CL)',
+    name: 'コリスチン (CL)',
     brand: 'オルドレブ',
     category: DrugCategory.antimicrobial,
     dilution: '1バイアルに注射用水または生理食塩液2mLを加え, 泡立てないように穏やかに溶解し, 生理食塩液で希釈して総量50mLとし, 30分以上かけて点滴静注する.',
@@ -3923,7 +3923,7 @@ const List<Drug> kAntimicrobialDrugs = [
     ],
   ),
   Drug(
-    name: 'アムホテリシンB (リポソーマル製剤) (L-AMB)',
+    name: 'リポソーマルアムホテリシンB (L-AMB)',
     brand: 'アムビゾーム',
     category: DrugCategory.antimicrobial,
     spec: 'アムビゾーム点滴静注用50mg (1バイアル中アムホテリシンB 50mg)',
