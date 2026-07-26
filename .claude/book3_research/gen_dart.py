@@ -209,17 +209,46 @@ SKIP_NAMES = {
 }
 
 
+SALT_RE = re.compile(
+    r"(ナトリウム|カリウム|塩酸塩|硫酸塩|水和物|メシル酸塩|リン酸塩|酢酸塩|"
+    r"マレイン酸塩|コハク酸塩|臭化物|トシル酸塩|メタンスルホン酸)"
+)
+
+
+def key_of(name):
+    """塩・水和物・略号・記号を落として名寄せ用のキーにする."""
+    s = re.sub(r"\s*\(.*?\)", "", str(name))
+    s = SALT_RE.sub("", s)
+    s = re.sub(r"[\s・･/／]+", "", s)
+    return s.strip()
+
+
 def load_tips():
-    """感染症GL・成書から抽出した薬剤別tipsを読む (無ければ空)."""
+    """感染症GL・成書から抽出した薬剤別tipsを読む (無ければ空).
+
+    塩の表記ゆれ (バンコマイシン塩酸塩 vs バンコマイシン) を吸収するため
+    名寄せキーでも引けるようにする.
+    """
     p = os.path.join(RES, "abx_tips.json")
     if not os.path.exists(p):
         return {}
     data = json.load(open(p, encoding="utf-8"))
-    out = {}
+    # まず名寄せキーごとに統合する (バンコマイシン と バンコマイシン塩酸塩 を同一視)
+    merged = {}
     for d in data:
         t = [x for x in (d.get("tips") or []) if x.get("body")]
-        if t:
-            out[d["name"]] = t
+        if not t:
+            continue
+        k = key_of(d["name"]) or d["name"]
+        cur = merged.setdefault(k, [])
+        seen = {x["body"][:50] for x in cur}
+        cur.extend(x for x in t if x["body"][:50] not in seen)
+    # 元の表記でも名寄せキーでも引けるようにする
+    out = dict(merged)
+    for d in data:
+        k = key_of(d["name"]) or d["name"]
+        if k in merged:
+            out[d["name"]] = merged[k]
     return out
 
 
@@ -242,9 +271,10 @@ def main():
                 if not nm or nm in seen or nm in SKIP_NAMES:
                     continue
                 seen.add(nm)
-                if nm in tips:
+                t = tips.get(nm) or tips.get(key_of(nm))
+                if t:
                     d = dict(d)
-                    d["_tips"] = tips[nm]
+                    d["_tips"] = t
                 buckets[category_of(key, d)].append(d)
 
     total = 0
