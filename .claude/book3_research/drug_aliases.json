@@ -1242,41 +1242,81 @@
    "risk": "high"
   }
  ],
- "abbrClash": [
+ "abbrShared": [
   {
    "abbr": "AZM",
    "items": [
-    "アジスロマイシン (AZM)",
-    "アセタゾラミド (AZM)"
-   ]
+    {
+     "name": "アジスロマイシン (AZM)",
+     "context": "抗菌薬"
+    },
+    {
+     "name": "アセタゾラミド (AZM)",
+     "context": "向精神薬"
+    }
+   ],
+   "acceptable": true,
+   "disambiguator": "カテゴリ (薬効群)で判別する"
   },
   {
    "abbr": "ESM",
    "items": [
-    "エスモロール塩酸塩 (ESM)",
-    "エトスクシミド (ESM)"
-   ]
+    {
+     "name": "エスモロール塩酸塩 (ESM)",
+     "context": "抗不整脈薬"
+    },
+    {
+     "name": "エトスクシミド (ESM)",
+     "context": "向精神薬"
+    }
+   ],
+   "acceptable": true,
+   "disambiguator": "カテゴリ (薬効群)で判別する"
   },
   {
    "abbr": "MDZ",
    "items": [
-    "ミダゾラム (MDZ)",
-    "ミダゾラム (てんかん重積状態用) (MDZ)"
-   ]
+    {
+     "name": "ミダゾラム (MDZ)",
+     "context": "鎮静薬"
+    },
+    {
+     "name": "ミダゾラム (てんかん重積状態用) (MDZ)",
+     "context": "向精神薬"
+    }
+   ],
+   "acceptable": true,
+   "disambiguator": "カテゴリ (薬効群)で判別する"
   },
   {
    "abbr": "PER",
    "items": [
-    "ペランパネル (PER)",
-    "ペロスピロン (PER)"
-   ]
+    {
+     "name": "ペランパネル (PER)",
+     "context": "向精神薬"
+    },
+    {
+     "name": "ペロスピロン (PER)",
+     "context": "向精神薬"
+    }
+   ],
+   "acceptable": true,
+   "disambiguator": "同一カテゴリ内のため, 薬効小分類 (抗てんかん薬 / 抗精神病薬 など)で判別する"
   },
   {
    "abbr": "ST",
    "items": [
-    "スルチアム (ST)",
-    "スルファメトキサゾール・トリメトプリム (ST)"
-   ]
+    {
+     "name": "スルチアム (ST)",
+     "context": "向精神薬"
+    },
+    {
+     "name": "スルファメトキサゾール・トリメトプリム (ST)",
+     "context": "抗菌薬"
+    }
+   ],
+   "acceptable": true,
+   "disambiguator": "カテゴリ (薬効群)で判別する"
   }
  ]
 }
