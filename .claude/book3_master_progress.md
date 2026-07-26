@@ -1,4 +1,16 @@
-# Book3.xlsx 薬剤マスタ化 作業状態 (中断・再開用)
+# Book3.xlsx 薬剤マスタ化 作業状態 — **完了**
+
+> **この作業は完了済み. 再開の必要はない.**
+> 最終デプロイ: gh-pages `c1299df` (main `9db69eb`) / 公開URL反映済み
+> 以降のコミット (`bfc6f22`)は名寄せ台帳の文書のみでアプリに影響しない.
+>
+> ## 成果
+> - 薬剤マスタ 78剤 → **246剤** (抗不整脈21 / 抗菌薬53 / 向精神薬94 を追加)
+> - 全剤に**剤形 (静注可否)** を付与: 注射あり83剤 / 内服のみ85剤
+> - 抗菌薬に感染症GL・成書からの**tips 289件**を出典つきで収載
+> - 薬剤名の**名寄せ台帳** `.claude/book3_research/DRUG_ALIASES.md` を作成
+>   (同一物質157群 / 混同禁止33組 / 略号共有5件)
+
 
 このファイルは 5時間の利用上限などで中断したとき, 別セッションからでも作業を再開するための
 自己完結した作業指示書. 完了したら各チェックを `[x]` に更新すること.
@@ -61,20 +73,20 @@ Excel のセルコメントに臨床メモが入っている (sheet1:29, sheet2:
 - 文献・添付文書の収集 = **Sonnet 5** (`agent(..., {model: 'sonnet'})`) で並列
 - 抽象的な切り分け・要件定義 = Opus 5 / Fable 5 (メインループ)
 - `model` を変えると agent キャッシュが無効化されるため, 取得済みの群は再実行しないこと
-- [ ] **W1**: 抗不整脈薬(I群/III群/II・IV群) + 抗精神病薬(非定型/定型) リサーチ
+- [x] **W1**: 抗不整脈薬(I群/III群/II・IV群) + 抗精神病薬(非定型/定型) リサーチ
       run: `wf_b57e51e0-d86` / task `w4bm0khut`
-- [ ] **W2**: 抗てんかん薬(注射/内服)・抗うつ薬・抗不安薬/睡眠薬・抗パーキンソン薬 リサーチ
+- [x] **W2**: 抗てんかん薬(注射/内服)・抗うつ薬・抗不安薬/睡眠薬・抗パーキンソン薬 リサーチ
       run: `wf_d9fa57f2-0b3` / task `wf0nwbbb3`
-- [ ] **W3**: 抗菌薬(セフェム/ペニシリン・カルバペネム/抗MRSA・AG/マクロライド・キノロン)・抗真菌/抗ウイルス リサーチ
+- [x] **W3**: 抗菌薬(セフェム/ペニシリン・カルバペネム/抗MRSA・AG/マクロライド・キノロン)・抗真菌/抗ウイルス リサーチ
       run: `wf_9376b7d3-28f` / task `wls3sxwuw`
 
 Workflow の結果は `~/.claude/projects/-Users-s-Desktop-AI------------------/dc122f7e-da10-4533-8b7e-f891f847e2dd/subagents/workflows/<run>/journal.jsonl`
 に残る. 再開時はまずここを見て, 完了済みのリサーチを再実行しないこと.
-- [ ] モデル変更 (剤形フィールド + カテゴリ2種追加 + 色)
-- [ ] データファイル生成 (antiarrhythmic.dart / antimicrobial.dart / psychotropic.dart 拡充)
-- [ ] `flutter build web --no-tree-shake-icons --base-href /masui_ref/` が通る
-- [ ] コミット
-- [ ] デプロイ (下記手順)
+- [x] モデル変更 (剤形フィールド + カテゴリ2種追加 + 色)
+- [x] データファイル生成 (antiarrhythmic.dart / antimicrobial.dart / psychotropic.dart 拡充)
+- [x] `flutter build web --no-tree-shake-icons --base-href /masui_ref/` が通る
+- [x] コミット
+- [x] デプロイ (下記手順)
 
 ## 中断からの再開手順
 
