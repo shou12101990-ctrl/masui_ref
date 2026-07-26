@@ -1,0 +1,246 @@
+フェンタニル | フェンタニル注射液 | analgesic
+レミフェンタニル | アルチバ | analgesic
+モルヒネ | モルヒネ塩酸塩注射液 | analgesic
+ペンタゾシン | ソセゴン | analgesic
+トラマドール | トラマール / ワントラム / トラムセット | analgesic
+ドロペリドール | ドロレプタン | analgesic
+アセトアミノフェン | アセリオ | analgesic
+フルルビプロフェン | ロピオン | analgesic
+ナロキソン | ナロキソン塩酸塩静注 | analgesic
+アミオダロン塩酸塩 (AMD) | アンカロン注150 / アンカロン錠100 (後発: アミオダロン塩酸塩静注15 | antiarrhythmic
+ソタロール塩酸塩 | ソタコール錠40mg, ソタコール錠80mg (後発: ソタロール塩酸塩錠40m | antiarrhythmic
+ニフェカラント塩酸塩 (NIF) | シンビット静注用50mg | antiarrhythmic
+プロカインアミド (PA) | アミサリン | antiarrhythmic
+ジソピラミド (DP) | リスモダン (カプセル), リスモダンR (徐放錠), 旧リスモダンP静注 (販 | antiarrhythmic
+シベンゾリン | シベノール | antiarrhythmic
+ピルメノール | ピメノール | antiarrhythmic
+リドカイン (抗不整脈) | 静注用キシロカイン2%, リドカイン静注用2%シリンジ, リドカイン点滴静注液1 | antiarrhythmic
+メキシレチン | メキシチール | antiarrhythmic
+アプリンジン | アスペノン | antiarrhythmic
+プロパフェノン | プロノン | antiarrhythmic
+フレカイニド | タンボコール | antiarrhythmic
+ピルジカイニド | サンリズム | antiarrhythmic
+ベラパミル塩酸塩 (VER) | ワソラン | antiarrhythmic
+ジルチアゼム塩酸塩 (DIL) | ヘルベッサー | antiarrhythmic
+プロプラノロール塩酸塩 (PL) | インデラル | antiarrhythmic
+エスモロール塩酸塩 (ESM) | ブレビブロック | antiarrhythmic
+ビソプロロール (BIS) | メインテート/ビソノテープ | antiarrhythmic
+ジゴキシン (DIG) | ジゴシン | antiarrhythmic
+アデノシン三リン酸二ナトリウム水和物 (ATP) | アデホス, アデホス-Lコーワ | antiarrhythmic
+硫酸マグネシウム水和物 (MgSO4) | 硫酸Mg補正液 (電解質補正用注射液, 製剤名は複数存在) | antiarrhythmic
+ヘパリン | ヘパリン | anticoagulant
+アルガトロバン | ノバスタン HI / スロンノン | anticoagulant
+アンチトロンビンIII (AT-III) | アンスロビンP / ノイアート / 献血ノンスロン | anticoagulant
+プロタミン | プロタミン | anticoagulant
+トラネキサム酸 (TXA) | トランサミン | anticoagulant
+ビタミンK | ケイツーN | anticoagulant
+アンデキサネット アルファ | オンデキサ | anticoagulant
+イダルシズマブ | プリズバインド | anticoagulant
+プロトロンビン複合体 (PCC) | ケイセントラ | anticoagulant
+メトクロプラミド | プリンペラン | antiemetic
+グラニセトロン | カイトリル | antiemetic
+オンダンセトロン | ゾフラン | antiemetic
+デキサメタゾン (制吐) | デカドロン / オルガドロン | antiemetic
+d-クロルフェニラミン | ポララミン | antihistamine
+ファモチジン | ガスター | antihistamine
+ヒドロキシジン | アタラックス-P | antihistamine
+ベンジルペニシリンカリウム (PCG) | 注射用ペニシリンGカリウム | antimicrobial
+アンピシリン水和物 (ABPC) | ビクシリン | antimicrobial
+アモキシシリン水和物 (AMPC) | サワシリン | antimicrobial
+アンピシリンナトリウム・スルバクタムナトリウム (ABPC/SBT) | ユナシン-S | antimicrobial
+タゾバクタムナトリウム・ピペラシリンナトリウム (PIPC/TAZ) | ゾシン | antimicrobial
+アズトレオナム (AZT) | アザクタム | antimicrobial
+メロペネム水和物 (MEPM) | メロペン | antimicrobial
+イミペネム水和物・シラスタチンナトリウム (IPM/CS) | チエナム | antimicrobial
+ドリペネム水和物 (DRPM) | フィニバックス | antimicrobial
+ビアペネム (BIPM) | オメガシン | antimicrobial
+セファゾリン (CEZ) | セファメジンα | antimicrobial
+セファレキシン (CEX) | ケフレックス | antimicrobial
+セフォチアム (CTM) | パンスポリン | antimicrobial
+セフメタゾール (CMZ) | セフメタゾン | antimicrobial
+フロモキセフ (FMOX) | フルマリン | antimicrobial
+セフトリアキソン (CTRX) | ロセフィン | antimicrobial
+セフォタキシム (CTX) | クラフォラン | antimicrobial
+セフジニル (CFDN) | セフゾン | antimicrobial
+セフタジジム (CAZ) | モダシン | antimicrobial
+セフェピム (CFPM) | マキシピーム | antimicrobial
+セフォゾプラン (CZOP) | ファーストシン | antimicrobial
+バンコマイシン (VCM) | 塩酸バンコマイシン (点滴静注用) / バンコマイシン塩酸塩散 (経口用, 先発 | antimicrobial
+テイコプラニン (TEIC) | タゴシッド | antimicrobial
+リネゾリド (LZD) | ザイボックス | antimicrobial
+ダプトマイシン (DAP) | キュビシン | antimicrobial
+アルベカシン (ABK) | ハベカシン | antimicrobial
+アミカシン (AMK) | アミカシン硫酸塩 (後発品中心: 日医工, サワイ, 明治, 富士製薬等) | antimicrobial
+ゲンタマイシン (GM) | ゲンタシン (注射液) | antimicrobial
+トブラマイシン (TOB) | トブラシン (注射液) | antimicrobial
+ストレプトマイシン (SM) | ストレプトマイシン硫酸塩 (注射用, 明治等) | antimicrobial
+クラリスロマイシン (CAM) | クラリシッド/クラリス | antimicrobial
+アジスロマイシン (AZM) | ジスロマック | antimicrobial
+シプロフロキサシン (CPFX) | シプロキサン | antimicrobial
+レボフロキサシン (LVFX) | クラビット | antimicrobial
+パズフロキサシン (PZFX) | パシル/パズクロス | antimicrobial
+スルファメトキサゾール・トリメトプリム (ST) | バクタ (経口) / バクトラミン (注射) | antimicrobial
+ミノサイクリン (MINO) | ミノマイシン | antimicrobial
+クリンダマイシン (CLDM) | ダラシンS | antimicrobial
+リファンピシン (RFP) | リファジン | antimicrobial
+メトロニダゾール (MNZ) | フラジール (経口) / アネメトロ (静注) | antimicrobial
+コリスチン (コリスチンメタンスルホン酸ナトリウム) (CL) | オルドレブ | antimicrobial
+アムホテリシンB (リポソーマル製剤) (L-AMB) | アムビゾーム | antimicrobial
+フルコナゾール (FLCZ) | ジフルカン (ジェネリック医薬品多数) | antimicrobial
+ホスフルコナゾール | プロジフ | antimicrobial
+イトラコナゾール (ITCZ) | イトリゾール | antimicrobial
+ボリコナゾール (VRCZ) | ブイフェンド | antimicrobial
+ミカファンギン (MCFG) | ファンガード | antimicrobial
+カスポファンギン | カンサイダス | antimicrobial
+アシクロビル (ACV) | ゾビラックス | antimicrobial
+バラシクロビル | バルトレックス | antimicrobial
+ガンシクロビル (GCV) | デノシン | antimicrobial
+オセルタミビル | タミフル | antimicrobial
+ペラミビル | ラピアクタ | antimicrobial
+ドブタミン (DOB) | ドブトレックス | circulatory_other
+ミルリノン (MRN) | ミルリーラ | circulatory_other
+オルプリノン (OLP) | コアテック | circulatory_other
+カルペリチド (hANP) | ハンプ | circulatory_other
+ランジオロール | オノアクト | circulatory_other
+NO (一酸化窒素) | アイノフロー | circulatory_other
+アトロピン | アトロピン硫酸塩 | circulatory_other
+セボフルラン | セボフレン | inhalational
+デスフルラン | スープレン | inhalational
+笑気 (亜酸化窒素) | 液化亜酸化窒素 | inhalational
+ダントロレン | ダントリウム静注用 | inhalational
+リドカイン | キシロカイン | local_anesthetic
+ブピバカイン | マーカイン | local_anesthetic
+レボブピバカイン | ポプスカイン | local_anesthetic
+ロピバカイン | アナペイン | local_anesthetic
+メピバカイン | カルボカイン | local_anesthetic
+イントラリピッド | イントラリピッド 20% | local_anesthetic
+ロクロニウム (ROC) | エスラックス | muscle_relaxant
+スガマデクス (SGX) | ブリディオン | muscle_relaxant
+プロカテロール | メプチンエアー | other
+インスリン (速効型) | ヒューマリンR (HuR) / ノボリンR | other
+KCL (塩化カリウム) | KCL注 / K.C.L.点滴液 | other
+ボニコグ アルファ | ボンベンディ | other
+乾燥濃縮人血液凝固第VIII因子 | コンファクトF | other
+ハロペリドール | セレネース | psychotropic
+カルバマゼピン (CBZ) | テグレトール | psychotropic_ext
+ガバペンチン (GBP) | ガバペン | psychotropic_ext
+トピラマート (TPM) | トピナ | psychotropic_ext
+ラモトリギン (LTG) | ラミクタール | psychotropic_ext
+ゾニサミド (ZNS) | エクセグラン | psychotropic_ext
+クロナゼパム (CZP) | リボトリール, ランドセン | psychotropic_ext
+クロバザム (CLB) | マイスタン | psychotropic_ext
+ニトラゼパム (NZP) | ベンザリン, ネルボン | psychotropic_ext
+プリミドン (PRM) | プリミドン (先発品のマイソリンは販売終了, 現在は日医工などの製品) | psychotropic_ext
+エトスクシミド (ESM) | エピレオプチマル, ザロンチン | psychotropic_ext
+エトトイン (ETN) | アクセノン | psychotropic_ext
+ペランパネル (PER) | フィコンパ | psychotropic_ext
+スチリペントール (STP) | ディアコミット | psychotropic_ext
+ルフィナミド (RFN) | イノベロン | psychotropic_ext
+ビガバトリン (VGB) | サブリル | psychotropic_ext
+アセタゾラミド (AZM) | ダイアモックス | psychotropic_ext
+スルチアム (ST) | オスポロット | psychotropic_ext
+アミトリプチリン塩酸塩 (AMI) | トリプタノール | psychotropic_ext
+ノルトリプチリン塩酸塩 (NTP) | ノリトレン | psychotropic_ext
+イミプラミン塩酸塩 (IMI) | トフラニール, イミドール | psychotropic_ext
+クロミプラミン塩酸塩 (CMI) | アナフラニール | psychotropic_ext
+アモキサピン (AMX) | アモキサン | psychotropic_ext
+トリミプラミンマレイン酸塩 (TMP) | スルモンチール | psychotropic_ext
+ドスレピン塩酸塩 (DSP) | プロチアデン | psychotropic_ext
+ロフェプラミン塩酸塩 (LOF) | アンプリット | psychotropic_ext
+マプロチリン塩酸塩 (MAP) | ルジオミール | psychotropic_ext
+ミアンセリン塩酸塩 (MIA) | テトラミド | psychotropic_ext
+セチプチリンマレイン酸塩 (SET) | テシプール | psychotropic_ext
+トラゾドン塩酸塩 (TRZ) | レスリン, デジレル | psychotropic_ext
+フルボキサミンマレイン酸塩 (FLV) | デプロメール, ルボックス | psychotropic_ext
+パロキセチン塩酸塩水和物 (PAX) | パキシル, パキシルCR | psychotropic_ext
+セルトラリン塩酸塩 (SER) | ジェイゾロフト | psychotropic_ext
+エスシタロプラムシュウ酸塩 (ESC) | レクサプロ | psychotropic_ext
+ミルナシプラン塩酸塩 (MLN) | トレドミン | psychotropic_ext
+デュロキセチン塩酸塩 (DLX) | サインバルタ | psychotropic_ext
+ミルタザピン (MIR) | リフレックス, レメロン | psychotropic_ext
+リスペリドン (RIS) | リスパダール | psychotropic_ext
+オランザピン (OLZ) | ジプレキサ | psychotropic_ext
+クエチアピン (QTP) | セロクエル | psychotropic_ext
+アリピプラゾール (ARP) | エビリファイ | psychotropic_ext
+ペロスピロン (PER) | ルーラン | psychotropic_ext
+ブロナンセリン (BNS) | ロナセン | psychotropic_ext
+パリペリドン (PAL) | インヴェガ / ゼプリオン | psychotropic_ext
+アセナピン (ASN) | シクレスト | psychotropic_ext
+ルラシドン (LUR) | ラツーダ | psychotropic_ext
+ブレクスピプラゾール (BREX) | レキサルティ | psychotropic_ext
+クロザピン (CLZ) | クロザリル | psychotropic_ext
+クロルプロマジン (CPZ) | コントミン / ウインタミン | psychotropic_ext
+レボメプロマジン | ヒルナミン / レボトミン | psychotropic_ext
+スルピリド | ドグマチール | psychotropic_ext
+ゾテピン | ロドピン | psychotropic_ext
+ペルフェナジン | ピーゼットシー | psychotropic_ext
+フルフェナジン | フルメジン | psychotropic_ext
+ブロムペリドール | (旧: インプロメン, 現在は後発品のみ) | psychotropic_ext
+チアプリド | グラマリール | psychotropic_ext
+炭酸リチウム | リーマス | psychotropic_ext
+エチゾラム (ETZ) | デパス | psychotropic_ext
+クロチアゼパム | リーゼ | psychotropic_ext
+ロラゼパム (LZP) | ワイパックス / ロラピタ | psychotropic_ext
+アルプラゾラム | ソラナックス / コンスタン | psychotropic_ext
+ブロマゼパム | レキソタン | psychotropic_ext
+ジアゼパム (DZP) | セルシン / ホリゾン | psychotropic_ext
+フルニトラゼパム (FZP) | サイレース | psychotropic_ext
+ロフラゼプ酸エチル | メイラックス | psychotropic_ext
+ゾルピデム | マイスリー | psychotropic_ext
+ゾピクロン | アモバン | psychotropic_ext
+エスゾピクロン | ルネスタ | psychotropic_ext
+ブロチゾラム | レンドルミン | psychotropic_ext
+スボレキサント | ベルソムラ | psychotropic_ext
+レンボレキサント | デエビゴ | psychotropic_ext
+ラメルテオン | ロゼレム | psychotropic_ext
+ホスフェニトインナトリウム水和物 (fPHT) | ホストイン | psychotropic_ext
+フェニトインナトリウム (PHT) | アレビアチン注 | psychotropic_ext
+レボドパ・カルビドパ水和物 | メネシット | psychotropic_ext
+レボドパ・ベンセラジド塩酸塩 | マドパー | psychotropic_ext
+レボドパ (注射液) (L-DOPA注) | ドパストン | psychotropic_ext
+セレギリン塩酸塩 | エフピー | psychotropic_ext
+ラサギリンメシル酸塩 | アジレクト | psychotropic_ext
+サフィナミドメシル酸塩 | エクフィナ | psychotropic_ext
+エンタカポン | コムタン | psychotropic_ext
+プラミペキソール塩酸塩水和物 | ビ・シフロール | psychotropic_ext
+ロピニロール塩酸塩 | レキップ | psychotropic_ext
+ロチゴチン | ニュープロパッチ | psychotropic_ext
+アポモルヒネ塩酸塩水和物 | アポカイン | psychotropic_ext
+ビペリデン | アキネトン | psychotropic_ext
+トリヘキシフェニジル塩酸塩 | アーテン | psychotropic_ext
+アマンタジン塩酸塩 | シンメトレル | psychotropic_ext
+ドロキシドパ | ドプス | psychotropic_ext
+イストラデフィリン | ノウリアスト | psychotropic_ext
+レベチラセタム (LEV) | イーケプラ (点滴静注500mg) | psychotropic_ext
+ラコサミド (LCM) | ビムパット (点滴静注100mg/200mg) | psychotropic_ext
+フェノバルビタール (PB) | ノーベルバール静注用250mg (静注用) / フェノバール注射液100mg ( | psychotropic_ext
+バルプロ酸ナトリウム (VPA) | デパケン/デパケンR (協和キリン), バレリン (共和薬品), セレニカR ( | psychotropic_ext
+ミダゾラム (てんかん重積状態用) (MDZ) | ミダフレッサ静注0.1% (アルフレッサファーマ). 全身麻酔・鎮静用のドルミカ | psychotropic_ext
+プロポフォール | ディプリバン / プロポフォール | sedative
+チオペンタール | ラボナール | sedative
+チアミラール | イソゾール / チトゾール | sedative
+ミダゾラム (MDZ) | ドルミカム / ミダゾラム | sedative
+レミマゾラム (RMZ) | アネレム | sedative
+デクスメデトミジン | プレセデックス | sedative
+ケタミン | ケタラール | sedative
+フルマゼニル | アネキセート / フルマゼニル | sedative
+ヒドロコルチゾン (HDC) | ソルコーテフ | steroid
+メチルプレドニゾロン | ソル・メドロール | steroid
+デキサメタゾン (DEX) | デカドロン / オルガドロン | steroid
+5%アルブミン | 献血アルブミン5% / ブミネート | transfusion
+25%アルブミン | 献血アルブミン25% / ブミネート25% | transfusion
+赤血球濃厚液 (RBC) | RCC-LR (照射赤血球液) | transfusion
+新鮮凍結血漿 (FFP) | FFP-LR | transfusion
+濃厚血小板 (PC) | PC-LR (照射濃厚血小板) | transfusion
+自己回収血 | セルセーバー (術中回収式自己血) | transfusion
+ハプトグロビン (Hp) | ハプトグロビン静注 | transfusion
+ニカルジピン (NCD) | ペルジピン | vasodilator
+ニトログリセリン (NTG) | ミリスロール | vasodilator
+ニコランジル (NRD) | シグマート | vasodilator
+アルプロスタジル | プロスタンディン | vasodilator
+フェニレフリン | ネオシネジン | vasopressor
+エフェドリン | エフェドリン | vasopressor
+アドレナリン (エピネフリン) | ボスミン | vasopressor
+ノルアドレナリン (NAd) | ノルアド | vasopressor
+バソプレシン (AVP) | ピトレシン | vasopressor
+ドパミン (DOA) | イノバン | vasopressor

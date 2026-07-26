@@ -1,0 +1,1232 @@
+[
+ {
+  "name": "フェンタニル",
+  "brand": "フェンタニル注射液",
+  "cat": "analgesic"
+ },
+ {
+  "name": "レミフェンタニル",
+  "brand": "アルチバ",
+  "cat": "analgesic"
+ },
+ {
+  "name": "モルヒネ",
+  "brand": "モルヒネ塩酸塩注射液",
+  "cat": "analgesic"
+ },
+ {
+  "name": "ペンタゾシン",
+  "brand": "ソセゴン",
+  "cat": "analgesic"
+ },
+ {
+  "name": "トラマドール",
+  "brand": "トラマール / ワントラム / トラムセット",
+  "cat": "analgesic"
+ },
+ {
+  "name": "ドロペリドール",
+  "brand": "ドロレプタン",
+  "cat": "analgesic"
+ },
+ {
+  "name": "アセトアミノフェン",
+  "brand": "アセリオ",
+  "cat": "analgesic"
+ },
+ {
+  "name": "フルルビプロフェン",
+  "brand": "ロピオン",
+  "cat": "analgesic"
+ },
+ {
+  "name": "ナロキソン",
+  "brand": "ナロキソン塩酸塩静注",
+  "cat": "analgesic"
+ },
+ {
+  "name": "アミオダロン塩酸塩 (AMD)",
+  "brand": "アンカロン注150 / アンカロン錠100 (後発: アミオダロン塩酸塩静注15",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ソタロール塩酸塩",
+  "brand": "ソタコール錠40mg, ソタコール錠80mg (後発: ソタロール塩酸塩錠40m",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ニフェカラント塩酸塩 (NIF)",
+  "brand": "シンビット静注用50mg",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "プロカインアミド (PA)",
+  "brand": "アミサリン",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ジソピラミド (DP)",
+  "brand": "リスモダン (カプセル), リスモダンR (徐放錠), 旧リスモダンP静注 (販",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "シベンゾリン",
+  "brand": "シベノール",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ピルメノール",
+  "brand": "ピメノール",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "リドカイン (抗不整脈)",
+  "brand": "静注用キシロカイン2%, リドカイン静注用2%シリンジ, リドカイン点滴静注液1",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "メキシレチン",
+  "brand": "メキシチール",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "アプリンジン",
+  "brand": "アスペノン",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "プロパフェノン",
+  "brand": "プロノン",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "フレカイニド",
+  "brand": "タンボコール",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ピルジカイニド",
+  "brand": "サンリズム",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ベラパミル塩酸塩 (VER)",
+  "brand": "ワソラン",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ジルチアゼム塩酸塩 (DIL)",
+  "brand": "ヘルベッサー",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "プロプラノロール塩酸塩 (PL)",
+  "brand": "インデラル",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "エスモロール塩酸塩 (ESM)",
+  "brand": "ブレビブロック",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ビソプロロール (BIS)",
+  "brand": "メインテート/ビソノテープ",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ジゴキシン (DIG)",
+  "brand": "ジゴシン",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "アデノシン三リン酸二ナトリウム水和物 (ATP)",
+  "brand": "アデホス, アデホス-Lコーワ",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "硫酸マグネシウム水和物 (MgSO4)",
+  "brand": "硫酸Mg補正液 (電解質補正用注射液, 製剤名は複数存在)",
+  "cat": "antiarrhythmic"
+ },
+ {
+  "name": "ヘパリン",
+  "brand": "ヘパリン",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "アルガトロバン",
+  "brand": "ノバスタン HI / スロンノン",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "アンチトロンビンIII (AT-III)",
+  "brand": "アンスロビンP / ノイアート / 献血ノンスロン",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "プロタミン",
+  "brand": "プロタミン",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "トラネキサム酸 (TXA)",
+  "brand": "トランサミン",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "ビタミンK",
+  "brand": "ケイツーN",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "アンデキサネット アルファ",
+  "brand": "オンデキサ",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "イダルシズマブ",
+  "brand": "プリズバインド",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "プロトロンビン複合体 (PCC)",
+  "brand": "ケイセントラ",
+  "cat": "anticoagulant"
+ },
+ {
+  "name": "メトクロプラミド",
+  "brand": "プリンペラン",
+  "cat": "antiemetic"
+ },
+ {
+  "name": "グラニセトロン",
+  "brand": "カイトリル",
+  "cat": "antiemetic"
+ },
+ {
+  "name": "オンダンセトロン",
+  "brand": "ゾフラン",
+  "cat": "antiemetic"
+ },
+ {
+  "name": "デキサメタゾン (制吐)",
+  "brand": "デカドロン / オルガドロン",
+  "cat": "antiemetic"
+ },
+ {
+  "name": "d-クロルフェニラミン",
+  "brand": "ポララミン",
+  "cat": "antihistamine"
+ },
+ {
+  "name": "ファモチジン",
+  "brand": "ガスター",
+  "cat": "antihistamine"
+ },
+ {
+  "name": "ヒドロキシジン",
+  "brand": "アタラックス-P",
+  "cat": "antihistamine"
+ },
+ {
+  "name": "ベンジルペニシリンカリウム (PCG)",
+  "brand": "注射用ペニシリンGカリウム",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アンピシリン水和物 (ABPC)",
+  "brand": "ビクシリン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アモキシシリン水和物 (AMPC)",
+  "brand": "サワシリン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アンピシリンナトリウム・スルバクタムナトリウム (ABPC/SBT)",
+  "brand": "ユナシン-S",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "タゾバクタムナトリウム・ピペラシリンナトリウム (PIPC/TAZ)",
+  "brand": "ゾシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アズトレオナム (AZT)",
+  "brand": "アザクタム",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "メロペネム水和物 (MEPM)",
+  "brand": "メロペン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "イミペネム水和物・シラスタチンナトリウム (IPM/CS)",
+  "brand": "チエナム",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ドリペネム水和物 (DRPM)",
+  "brand": "フィニバックス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ビアペネム (BIPM)",
+  "brand": "オメガシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セファゾリン (CEZ)",
+  "brand": "セファメジンα",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セファレキシン (CEX)",
+  "brand": "ケフレックス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフォチアム (CTM)",
+  "brand": "パンスポリン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフメタゾール (CMZ)",
+  "brand": "セフメタゾン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "フロモキセフ (FMOX)",
+  "brand": "フルマリン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフトリアキソン (CTRX)",
+  "brand": "ロセフィン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフォタキシム (CTX)",
+  "brand": "クラフォラン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフジニル (CFDN)",
+  "brand": "セフゾン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフタジジム (CAZ)",
+  "brand": "モダシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフェピム (CFPM)",
+  "brand": "マキシピーム",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "セフォゾプラン (CZOP)",
+  "brand": "ファーストシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "バンコマイシン (VCM)",
+  "brand": "塩酸バンコマイシン (点滴静注用) / バンコマイシン塩酸塩散 (経口用, 先発",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "テイコプラニン (TEIC)",
+  "brand": "タゴシッド",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "リネゾリド (LZD)",
+  "brand": "ザイボックス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ダプトマイシン (DAP)",
+  "brand": "キュビシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アルベカシン (ABK)",
+  "brand": "ハベカシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アミカシン (AMK)",
+  "brand": "アミカシン硫酸塩 (後発品中心: 日医工, サワイ, 明治, 富士製薬等)",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ゲンタマイシン (GM)",
+  "brand": "ゲンタシン (注射液)",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "トブラマイシン (TOB)",
+  "brand": "トブラシン (注射液)",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ストレプトマイシン (SM)",
+  "brand": "ストレプトマイシン硫酸塩 (注射用, 明治等)",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "クラリスロマイシン (CAM)",
+  "brand": "クラリシッド/クラリス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アジスロマイシン (AZM)",
+  "brand": "ジスロマック",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "シプロフロキサシン (CPFX)",
+  "brand": "シプロキサン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "レボフロキサシン (LVFX)",
+  "brand": "クラビット",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "パズフロキサシン (PZFX)",
+  "brand": "パシル/パズクロス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "スルファメトキサゾール・トリメトプリム (ST)",
+  "brand": "バクタ (経口) / バクトラミン (注射)",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ミノサイクリン (MINO)",
+  "brand": "ミノマイシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "クリンダマイシン (CLDM)",
+  "brand": "ダラシンS",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "リファンピシン (RFP)",
+  "brand": "リファジン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "メトロニダゾール (MNZ)",
+  "brand": "フラジール (経口) / アネメトロ (静注)",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "コリスチン (コリスチンメタンスルホン酸ナトリウム) (CL)",
+  "brand": "オルドレブ",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アムホテリシンB (リポソーマル製剤) (L-AMB)",
+  "brand": "アムビゾーム",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "フルコナゾール (FLCZ)",
+  "brand": "ジフルカン (ジェネリック医薬品多数)",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ホスフルコナゾール",
+  "brand": "プロジフ",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "イトラコナゾール (ITCZ)",
+  "brand": "イトリゾール",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ボリコナゾール (VRCZ)",
+  "brand": "ブイフェンド",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ミカファンギン (MCFG)",
+  "brand": "ファンガード",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "カスポファンギン",
+  "brand": "カンサイダス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "アシクロビル (ACV)",
+  "brand": "ゾビラックス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "バラシクロビル",
+  "brand": "バルトレックス",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ガンシクロビル (GCV)",
+  "brand": "デノシン",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "オセルタミビル",
+  "brand": "タミフル",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ペラミビル",
+  "brand": "ラピアクタ",
+  "cat": "antimicrobial"
+ },
+ {
+  "name": "ドブタミン (DOB)",
+  "brand": "ドブトレックス",
+  "cat": "circulatory_other"
+ },
+ {
+  "name": "ミルリノン (MRN)",
+  "brand": "ミルリーラ",
+  "cat": "circulatory_other"
+ },
+ {
+  "name": "オルプリノン (OLP)",
+  "brand": "コアテック",
+  "cat": "circulatory_other"
+ },
+ {
+  "name": "カルペリチド (hANP)",
+  "brand": "ハンプ",
+  "cat": "circulatory_other"
+ },
+ {
+  "name": "ランジオロール",
+  "brand": "オノアクト",
+  "cat": "circulatory_other"
+ },
+ {
+  "name": "NO (一酸化窒素)",
+  "brand": "アイノフロー",
+  "cat": "circulatory_other"
+ },
+ {
+  "name": "アトロピン",
+  "brand": "アトロピン硫酸塩",
+  "cat": "circulatory_other"
+ },
+ {
+  "name": "セボフルラン",
+  "brand": "セボフレン",
+  "cat": "inhalational"
+ },
+ {
+  "name": "デスフルラン",
+  "brand": "スープレン",
+  "cat": "inhalational"
+ },
+ {
+  "name": "笑気 (亜酸化窒素)",
+  "brand": "液化亜酸化窒素",
+  "cat": "inhalational"
+ },
+ {
+  "name": "ダントロレン",
+  "brand": "ダントリウム静注用",
+  "cat": "inhalational"
+ },
+ {
+  "name": "リドカイン",
+  "brand": "キシロカイン",
+  "cat": "local_anesthetic"
+ },
+ {
+  "name": "ブピバカイン",
+  "brand": "マーカイン",
+  "cat": "local_anesthetic"
+ },
+ {
+  "name": "レボブピバカイン",
+  "brand": "ポプスカイン",
+  "cat": "local_anesthetic"
+ },
+ {
+  "name": "ロピバカイン",
+  "brand": "アナペイン",
+  "cat": "local_anesthetic"
+ },
+ {
+  "name": "メピバカイン",
+  "brand": "カルボカイン",
+  "cat": "local_anesthetic"
+ },
+ {
+  "name": "イントラリピッド",
+  "brand": "イントラリピッド 20%",
+  "cat": "local_anesthetic"
+ },
+ {
+  "name": "ロクロニウム (ROC)",
+  "brand": "エスラックス",
+  "cat": "muscle_relaxant"
+ },
+ {
+  "name": "スガマデクス (SGX)",
+  "brand": "ブリディオン",
+  "cat": "muscle_relaxant"
+ },
+ {
+  "name": "プロカテロール",
+  "brand": "メプチンエアー",
+  "cat": "other"
+ },
+ {
+  "name": "インスリン (速効型)",
+  "brand": "ヒューマリンR (HuR) / ノボリンR",
+  "cat": "other"
+ },
+ {
+  "name": "KCL (塩化カリウム)",
+  "brand": "KCL注 / K.C.L.点滴液",
+  "cat": "other"
+ },
+ {
+  "name": "ボニコグ アルファ",
+  "brand": "ボンベンディ",
+  "cat": "other"
+ },
+ {
+  "name": "乾燥濃縮人血液凝固第VIII因子",
+  "brand": "コンファクトF",
+  "cat": "other"
+ },
+ {
+  "name": "ハロペリドール",
+  "brand": "セレネース",
+  "cat": "psychotropic"
+ },
+ {
+  "name": "カルバマゼピン (CBZ)",
+  "brand": "テグレトール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ガバペンチン (GBP)",
+  "brand": "ガバペン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "トピラマート (TPM)",
+  "brand": "トピナ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ラモトリギン (LTG)",
+  "brand": "ラミクタール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ゾニサミド (ZNS)",
+  "brand": "エクセグラン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "クロナゼパム (CZP)",
+  "brand": "リボトリール, ランドセン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "クロバザム (CLB)",
+  "brand": "マイスタン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ニトラゼパム (NZP)",
+  "brand": "ベンザリン, ネルボン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "プリミドン (PRM)",
+  "brand": "プリミドン (先発品のマイソリンは販売終了, 現在は日医工などの製品)",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "エトスクシミド (ESM)",
+  "brand": "エピレオプチマル, ザロンチン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "エトトイン (ETN)",
+  "brand": "アクセノン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ペランパネル (PER)",
+  "brand": "フィコンパ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "スチリペントール (STP)",
+  "brand": "ディアコミット",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ルフィナミド (RFN)",
+  "brand": "イノベロン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ビガバトリン (VGB)",
+  "brand": "サブリル",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アセタゾラミド (AZM)",
+  "brand": "ダイアモックス",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "スルチアム (ST)",
+  "brand": "オスポロット",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アミトリプチリン塩酸塩 (AMI)",
+  "brand": "トリプタノール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ノルトリプチリン塩酸塩 (NTP)",
+  "brand": "ノリトレン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "イミプラミン塩酸塩 (IMI)",
+  "brand": "トフラニール, イミドール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "クロミプラミン塩酸塩 (CMI)",
+  "brand": "アナフラニール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アモキサピン (AMX)",
+  "brand": "アモキサン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "トリミプラミンマレイン酸塩 (TMP)",
+  "brand": "スルモンチール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ドスレピン塩酸塩 (DSP)",
+  "brand": "プロチアデン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ロフェプラミン塩酸塩 (LOF)",
+  "brand": "アンプリット",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "マプロチリン塩酸塩 (MAP)",
+  "brand": "ルジオミール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ミアンセリン塩酸塩 (MIA)",
+  "brand": "テトラミド",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "セチプチリンマレイン酸塩 (SET)",
+  "brand": "テシプール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "トラゾドン塩酸塩 (TRZ)",
+  "brand": "レスリン, デジレル",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "フルボキサミンマレイン酸塩 (FLV)",
+  "brand": "デプロメール, ルボックス",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "パロキセチン塩酸塩水和物 (PAX)",
+  "brand": "パキシル, パキシルCR",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "セルトラリン塩酸塩 (SER)",
+  "brand": "ジェイゾロフト",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "エスシタロプラムシュウ酸塩 (ESC)",
+  "brand": "レクサプロ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ミルナシプラン塩酸塩 (MLN)",
+  "brand": "トレドミン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "デュロキセチン塩酸塩 (DLX)",
+  "brand": "サインバルタ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ミルタザピン (MIR)",
+  "brand": "リフレックス, レメロン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "リスペリドン (RIS)",
+  "brand": "リスパダール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "オランザピン (OLZ)",
+  "brand": "ジプレキサ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "クエチアピン (QTP)",
+  "brand": "セロクエル",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アリピプラゾール (ARP)",
+  "brand": "エビリファイ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ペロスピロン (PER)",
+  "brand": "ルーラン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ブロナンセリン (BNS)",
+  "brand": "ロナセン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "パリペリドン (PAL)",
+  "brand": "インヴェガ / ゼプリオン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アセナピン (ASN)",
+  "brand": "シクレスト",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ルラシドン (LUR)",
+  "brand": "ラツーダ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ブレクスピプラゾール (BREX)",
+  "brand": "レキサルティ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "クロザピン (CLZ)",
+  "brand": "クロザリル",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "クロルプロマジン (CPZ)",
+  "brand": "コントミン / ウインタミン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "レボメプロマジン",
+  "brand": "ヒルナミン / レボトミン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "スルピリド",
+  "brand": "ドグマチール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ゾテピン",
+  "brand": "ロドピン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ペルフェナジン",
+  "brand": "ピーゼットシー",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "フルフェナジン",
+  "brand": "フルメジン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ブロムペリドール",
+  "brand": "(旧: インプロメン, 現在は後発品のみ)",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "チアプリド",
+  "brand": "グラマリール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "炭酸リチウム",
+  "brand": "リーマス",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "エチゾラム (ETZ)",
+  "brand": "デパス",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "クロチアゼパム",
+  "brand": "リーゼ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ロラゼパム (LZP)",
+  "brand": "ワイパックス / ロラピタ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アルプラゾラム",
+  "brand": "ソラナックス / コンスタン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ブロマゼパム",
+  "brand": "レキソタン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ジアゼパム (DZP)",
+  "brand": "セルシン / ホリゾン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "フルニトラゼパム (FZP)",
+  "brand": "サイレース",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ロフラゼプ酸エチル",
+  "brand": "メイラックス",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ゾルピデム",
+  "brand": "マイスリー",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ゾピクロン",
+  "brand": "アモバン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "エスゾピクロン",
+  "brand": "ルネスタ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ブロチゾラム",
+  "brand": "レンドルミン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "スボレキサント",
+  "brand": "ベルソムラ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "レンボレキサント",
+  "brand": "デエビゴ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ラメルテオン",
+  "brand": "ロゼレム",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ホスフェニトインナトリウム水和物 (fPHT)",
+  "brand": "ホストイン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "フェニトインナトリウム (PHT)",
+  "brand": "アレビアチン注",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "レボドパ・カルビドパ水和物",
+  "brand": "メネシット",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "レボドパ・ベンセラジド塩酸塩",
+  "brand": "マドパー",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "レボドパ (注射液) (L-DOPA注)",
+  "brand": "ドパストン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "セレギリン塩酸塩",
+  "brand": "エフピー",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ラサギリンメシル酸塩",
+  "brand": "アジレクト",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "サフィナミドメシル酸塩",
+  "brand": "エクフィナ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "エンタカポン",
+  "brand": "コムタン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "プラミペキソール塩酸塩水和物",
+  "brand": "ビ・シフロール",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ロピニロール塩酸塩",
+  "brand": "レキップ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ロチゴチン",
+  "brand": "ニュープロパッチ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アポモルヒネ塩酸塩水和物",
+  "brand": "アポカイン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ビペリデン",
+  "brand": "アキネトン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "トリヘキシフェニジル塩酸塩",
+  "brand": "アーテン",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "アマンタジン塩酸塩",
+  "brand": "シンメトレル",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ドロキシドパ",
+  "brand": "ドプス",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "イストラデフィリン",
+  "brand": "ノウリアスト",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "レベチラセタム (LEV)",
+  "brand": "イーケプラ (点滴静注500mg)",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ラコサミド (LCM)",
+  "brand": "ビムパット (点滴静注100mg/200mg)",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "フェノバルビタール (PB)",
+  "brand": "ノーベルバール静注用250mg (静注用) / フェノバール注射液100mg (",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "バルプロ酸ナトリウム (VPA)",
+  "brand": "デパケン/デパケンR (協和キリン), バレリン (共和薬品), セレニカR (",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "ミダゾラム (てんかん重積状態用) (MDZ)",
+  "brand": "ミダフレッサ静注0.1% (アルフレッサファーマ). 全身麻酔・鎮静用のドルミカ",
+  "cat": "psychotropic_ext"
+ },
+ {
+  "name": "プロポフォール",
+  "brand": "ディプリバン / プロポフォール",
+  "cat": "sedative"
+ },
+ {
+  "name": "チオペンタール",
+  "brand": "ラボナール",
+  "cat": "sedative"
+ },
+ {
+  "name": "チアミラール",
+  "brand": "イソゾール / チトゾール",
+  "cat": "sedative"
+ },
+ {
+  "name": "ミダゾラム (MDZ)",
+  "brand": "ドルミカム / ミダゾラム",
+  "cat": "sedative"
+ },
+ {
+  "name": "レミマゾラム (RMZ)",
+  "brand": "アネレム",
+  "cat": "sedative"
+ },
+ {
+  "name": "デクスメデトミジン",
+  "brand": "プレセデックス",
+  "cat": "sedative"
+ },
+ {
+  "name": "ケタミン",
+  "brand": "ケタラール",
+  "cat": "sedative"
+ },
+ {
+  "name": "フルマゼニル",
+  "brand": "アネキセート / フルマゼニル",
+  "cat": "sedative"
+ },
+ {
+  "name": "ヒドロコルチゾン (HDC)",
+  "brand": "ソルコーテフ",
+  "cat": "steroid"
+ },
+ {
+  "name": "メチルプレドニゾロン",
+  "brand": "ソル・メドロール",
+  "cat": "steroid"
+ },
+ {
+  "name": "デキサメタゾン (DEX)",
+  "brand": "デカドロン / オルガドロン",
+  "cat": "steroid"
+ },
+ {
+  "name": "5%アルブミン",
+  "brand": "献血アルブミン5% / ブミネート",
+  "cat": "transfusion"
+ },
+ {
+  "name": "25%アルブミン",
+  "brand": "献血アルブミン25% / ブミネート25%",
+  "cat": "transfusion"
+ },
+ {
+  "name": "赤血球濃厚液 (RBC)",
+  "brand": "RCC-LR (照射赤血球液)",
+  "cat": "transfusion"
+ },
+ {
+  "name": "新鮮凍結血漿 (FFP)",
+  "brand": "FFP-LR",
+  "cat": "transfusion"
+ },
+ {
+  "name": "濃厚血小板 (PC)",
+  "brand": "PC-LR (照射濃厚血小板)",
+  "cat": "transfusion"
+ },
+ {
+  "name": "自己回収血",
+  "brand": "セルセーバー (術中回収式自己血)",
+  "cat": "transfusion"
+ },
+ {
+  "name": "ハプトグロビン (Hp)",
+  "brand": "ハプトグロビン静注",
+  "cat": "transfusion"
+ },
+ {
+  "name": "ニカルジピン (NCD)",
+  "brand": "ペルジピン",
+  "cat": "vasodilator"
+ },
+ {
+  "name": "ニトログリセリン (NTG)",
+  "brand": "ミリスロール",
+  "cat": "vasodilator"
+ },
+ {
+  "name": "ニコランジル (NRD)",
+  "brand": "シグマート",
+  "cat": "vasodilator"
+ },
+ {
+  "name": "アルプロスタジル",
+  "brand": "プロスタンディン",
+  "cat": "vasodilator"
+ },
+ {
+  "name": "フェニレフリン",
+  "brand": "ネオシネジン",
+  "cat": "vasopressor"
+ },
+ {
+  "name": "エフェドリン",
+  "brand": "エフェドリン",
+  "cat": "vasopressor"
+ },
+ {
+  "name": "アドレナリン (エピネフリン)",
+  "brand": "ボスミン",
+  "cat": "vasopressor"
+ },
+ {
+  "name": "ノルアドレナリン (NAd)",
+  "brand": "ノルアド",
+  "cat": "vasopressor"
+ },
+ {
+  "name": "バソプレシン (AVP)",
+  "brand": "ピトレシン",
+  "cat": "vasopressor"
+ },
+ {
+  "name": "ドパミン (DOA)",
+  "brand": "イノバン",
+  "cat": "vasopressor"
+ }
+]
