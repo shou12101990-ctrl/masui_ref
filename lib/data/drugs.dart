@@ -7,11 +7,14 @@ import 'drugs/analgesic.dart';
 import 'drugs/vasopressor.dart';
 import 'drugs/vasodilator.dart';
 import 'drugs/circulatory_other.dart';
+import 'drugs/antiarrhythmic.dart';
 import 'drugs/local_anesthetic.dart';
 import 'drugs/anticoagulant.dart';
 import 'drugs/steroid.dart';
 import 'drugs/antiemetic.dart';
 import 'drugs/psychotropic.dart';
+import 'drugs/psychotropic_ext.dart';
+import 'drugs/antimicrobial.dart';
 import 'drugs/antihistamine.dart';
 import 'drugs/transfusion.dart';
 import 'drugs/other.dart';
@@ -27,11 +30,14 @@ final List<Drug> kDrugs = [
   ...kVasopressorDrugs,
   ...kVasodilatorDrugs,
   ...kCirculatoryOtherDrugs,
+  ...kAntiarrhythmicDrugs,
   ...kLocalAnestheticDrugs,
   ...kAnticoagulantDrugs,
   ...kSteroidDrugs,
   ...kAntiemeticDrugs,
   ...kPsychotropicDrugs,
+  ...kPsychotropicExtDrugs,
+  ...kAntimicrobialDrugs,
   ...kAntihistamineDrugs,
   ...kTransfusionDrugs,
   ...kOtherDrugs,

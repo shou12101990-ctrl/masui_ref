@@ -25,6 +25,9 @@ extension DrugCategoryVisual on DrugCategory {
     DrugCategory.circulatoryOther => const Color(
       0xFFB39DDB,
     ), // 循環作動薬 (その他) : 昇圧薬と同色
+    DrugCategory.antiarrhythmic => const Color(
+      0xFF7E57C2,
+    ), // 抗不整脈薬 : 循環系と同系のより濃いバイオレット
     DrugCategory.localAnesthetic => const Color(
       0xFF97999B,
     ), // Cool Gray7 : 局所麻酔薬 標準灰
@@ -34,6 +37,9 @@ extension DrugCategoryVisual on DrugCategory {
     DrugCategory.steroid => const Color(0xFFEF8C00), // ステロイド : warm orange
     DrugCategory.antiemetic => const Color(0xFF26A69A), // 制吐薬 : teal
     DrugCategory.psychotropic => const Color(0xFFF4A582), // 向精神薬 : salmon
+    DrugCategory.antimicrobial => const Color(
+      0xFF5C8A3A,
+    ), // 抗菌薬 : deep olive green
     DrugCategory.antihistamine => const Color(
       0xFF7CB342,
     ), // 抗ヒスタミン薬 : light green

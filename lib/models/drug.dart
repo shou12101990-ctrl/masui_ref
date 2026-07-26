@@ -22,6 +22,22 @@ class Drug {
   /// 用法・用量の要約（1行で出せるもの）
   final String? dose;
 
+  /// 剤形. 「静注できるのか, 内服しかないのか」を一目で分かるようにする.
+  /// 麻酔薬のように注射が前提の薬では省略してよい (null).
+  final DrugFormAvailability? forms;
+
+  /// 緊急時の投与法. 致死的不整脈, 急性興奮, てんかん重積, 周術期予防投与など.
+  final String? emergencyDose;
+
+  /// 抗菌薬のスペクトラム要約.
+  final String? spectrum;
+
+  /// 腎機能による用量調節.
+  final String? renalAdjust;
+
+  /// 周術期・麻酔科的な注意 (継続/休薬, 相互作用, 術中管理).
+  final String? periop;
+
   /// 作用機序の要約
   final String mechanism;
 
@@ -51,6 +67,11 @@ class Drug {
     this.dilution,
     this.concentration,
     this.dose,
+    this.forms,
+    this.emergencyDose,
+    this.spectrum,
+    this.renalAdjust,
+    this.periop,
     required this.mechanism,
     this.notes = const [],
     this.packageInsertReviewed = false,
@@ -67,10 +88,40 @@ class Drug {
     category.label,
     mechanism,
     dose ?? '',
+    forms?.summary ?? '',
+    emergencyDose ?? '',
+    spectrum ?? '',
+    periop ?? '',
     ...notes.expand((note) => [note.heading, note.body]),
     ...contraindications.expand((item) => [item.target, item.reason]),
     ...cautiousUse,
   ].join(' ').toLowerCase();
+}
+
+/// 剤形の可用性. 「静注できるか」を最優先の情報として持つ.
+class DrugFormAvailability {
+  /// 国内に注射剤 (静注・筋注・皮下注) があるか.
+  final bool hasInjection;
+
+  /// 内服製剤があるか.
+  final bool hasOral;
+
+  /// 剤形の要約. 例「注射 (静注)と内服の両方」「内服のみ (錠・OD錠)」「舌下錠のみ」
+  final String summary;
+
+  const DrugFormAvailability({
+    required this.hasInjection,
+    required this.hasOral,
+    required this.summary,
+  });
+
+  /// 一覧・詳細で出す短いバッジ表記.
+  String get badge {
+    if (hasInjection && hasOral) return '注射 / 内服';
+    if (hasInjection) return '注射のみ';
+    if (hasOral) return '内服のみ';
+    return 'その他';
+  }
 }
 
 /// 解説の1セクション
@@ -106,11 +157,13 @@ enum DrugCategory {
   vasopressor('昇圧薬'),
   vasodilator('降圧薬'),
   circulatoryOther('循環作動薬 (その他)'),
+  antiarrhythmic('抗不整脈薬'),
   localAnesthetic('局所麻酔薬'),
   anticoagulant('凝固系'),
   steroid('ステロイド'),
   antiemetic('制吐薬'),
   psychotropic('向精神薬'),
+  antimicrobial('抗菌薬'),
   antihistamine('抗ヒスタミン薬'),
   transfusion('輸血製剤'),
   other('その他');

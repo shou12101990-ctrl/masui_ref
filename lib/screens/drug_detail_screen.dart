@@ -79,24 +79,43 @@ class DrugDetailScreen extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(height: 10),
-                  Container(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 10,
-                      vertical: 4,
-                    ),
-                    decoration: BoxDecoration(
-                      color: catColor.withValues(alpha: 0.12),
-                      borderRadius: BorderRadius.circular(8),
-                    ),
-                    child: Text(
-                      drug.category.label,
-                      style: TextStyle(
-                        fontSize: 12,
-                        color: catColor,
-                        fontWeight: FontWeight.w600,
+                  Wrap(
+                    spacing: 8,
+                    runSpacing: 8,
+                    crossAxisAlignment: WrapCrossAlignment.center,
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 10,
+                          vertical: 4,
+                        ),
+                        decoration: BoxDecoration(
+                          color: catColor.withValues(alpha: 0.12),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: Text(
+                          drug.category.label,
+                          style: TextStyle(
+                            fontSize: 12,
+                            color: catColor,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ),
+                      // 剤形: 「静注できるのか, 内服しかないのか」を最初に示す
+                      if (drug.forms != null) _FormBadge(forms: drug.forms!),
+                    ],
+                  ),
+                  if (drug.forms != null &&
+                      drug.forms!.summary.isNotEmpty) ...[
+                    const SizedBox(height: 8),
+                    Text(
+                      drug.forms!.summary,
+                      style: theme.textTheme.bodySmall?.copyWith(
+                        color: Colors.black54,
                       ),
                     ),
-                  ),
+                  ],
                   if (drug.packageInsertReviewed) ...[
                     const SizedBox(height: 8),
                     Row(
@@ -174,6 +193,40 @@ class DrugDetailScreen extends StatelessWidget {
             ),
           if (drug.dose != null) const SizedBox(height: 12),
 
+          // 緊急時の投与 (致死的不整脈, 急性興奮, てんかん重積, 周術期予防投与 など)
+          if (drug.emergencyDose != null &&
+              drug.emergencyDose!.isNotEmpty) ...[
+            _HighlightCard(
+              icon: Icons.emergency_outlined,
+              title: '緊急時・周術期の投与',
+              color: const Color(0xFFD32F2F),
+              body: drug.emergencyDose!,
+            ),
+            const SizedBox(height: 12),
+          ],
+
+          // 抗菌スペクトラム
+          if (drug.spectrum != null && drug.spectrum!.isNotEmpty) ...[
+            _HighlightCard(
+              icon: Icons.coronavirus_outlined,
+              title: '抗菌スペクトラム',
+              color: const Color(0xFF5C8A3A),
+              body: drug.spectrum!,
+            ),
+            const SizedBox(height: 12),
+          ],
+
+          // 腎機能による調節
+          if (drug.renalAdjust != null && drug.renalAdjust!.isNotEmpty) ...[
+            _HighlightCard(
+              icon: Icons.water_drop_outlined,
+              title: '腎機能による調節',
+              color: const Color(0xFF0277BD),
+              body: drug.renalAdjust!,
+            ),
+            const SizedBox(height: 12),
+          ],
+
           // 作用機序
           _HighlightCard(
             icon: Icons.bolt,
@@ -181,6 +234,17 @@ class DrugDetailScreen extends StatelessWidget {
             color: const Color(0xFF8E5BB5),
             body: drug.mechanism,
           ),
+
+          // 周術期・麻酔科的な注意
+          if (drug.periop != null && drug.periop!.isNotEmpty) ...[
+            const SizedBox(height: 12),
+            _HighlightCard(
+              icon: Icons.local_hospital_outlined,
+              title: '周術期の注意',
+              color: const Color(0xFF00796B),
+              body: drug.periop!,
+            ),
+          ],
 
           if (packageNotes.isNotEmpty)
             _NoteSection(
@@ -229,6 +293,46 @@ class DrugDetailScreen extends StatelessWidget {
           Text(
             '※ 研修用の参考情報です。実投与は最新の添付文書・成書を確認してください。',
             style: theme.textTheme.bodySmall?.copyWith(color: Colors.black45),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+/// 剤形バッジ. 「静注できるのか, 内服しかないのか」を色とアイコンで即座に伝える.
+class _FormBadge extends StatelessWidget {
+  final DrugFormAvailability forms;
+  const _FormBadge({required this.forms});
+
+  @override
+  Widget build(BuildContext context) {
+    // 注射できる = 青系, 内服のみ = 橙系 (手術室で静注できないことを警告的に示す)
+    final color = forms.hasInjection
+        ? const Color(0xFF1565C0)
+        : const Color(0xFFE65100);
+    final icon = forms.hasInjection
+        ? Icons.vaccines_outlined
+        : Icons.medication_outlined;
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+      decoration: BoxDecoration(
+        color: color.withValues(alpha: 0.10),
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: color.withValues(alpha: 0.35)),
+      ),
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(icon, size: 13, color: color),
+          const SizedBox(width: 5),
+          Text(
+            forms.badge,
+            style: TextStyle(
+              fontSize: 12,
+              color: color,
+              fontWeight: FontWeight.w700,
+            ),
           ),
         ],
       ),
