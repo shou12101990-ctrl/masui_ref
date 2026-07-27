@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../screens/abx_matrix_screen.dart';
 import '../screens/psy_matrix_screen.dart';
 import '../screens/adult_induction_screen.dart';
+import '../screens/delirium_ladder_screen.dart';
 import '../screens/allowable_blood_loss_screen.dart';
 import '../screens/be_correction_screen.dart';
 import '../screens/discharge_score_screen.dart';
@@ -130,5 +131,12 @@ final List<CalculatorEntry> kCalculators = [
     subtitle: '上位分類 (MARTA/SDA等) と疾患・症状の対応',
     color: const Color(0xFFD2691E),
     build: () => const PsyMatrixScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.bedtime_outlined,
+    title: 'せん妄・不眠ラダー',
+    subtitle: '患者背景から使える薬剤を判定',
+    color: const Color(0xFF00838F),
+    build: () => const DeliriumLadderScreen(),
   ),
 ];
