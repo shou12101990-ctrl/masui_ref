@@ -15,7 +15,6 @@ class _DeliriumLadderScreenState extends State<DeliriumLadderScreen> {
   static const _accent = Color(0xFF00838F); // 集中治療・せん妄と同系
 
   final Set<String> _selected = {};
-  bool _hideBlocked = false;
 
   static const _verdictColor = {
     '禁忌': Color(0xFFD32F2F),
@@ -33,8 +32,9 @@ class _DeliriumLadderScreenState extends State<DeliriumLadderScreen> {
 
   @override
   Widget build(BuildContext context) {
+    // 背景を選ぶと使えない薬剤 (禁忌・原則回避)は一覧から自動的に消す
     final drugs = kLadderDrugs.where((d) {
-      if (!_hideBlocked) return true;
+      if (_selected.isEmpty) return true;
       final v = d.verdictFor(_selected);
       return v != '禁忌' && v != '原則回避';
     }).toList();
@@ -94,35 +94,17 @@ class _DeliriumLadderScreenState extends State<DeliriumLadderScreen> {
                 ),
                 if (_selected.isNotEmpty) ...[
                   const SizedBox(height: 8),
-                  Row(
-                    children: [
-                      Expanded(
-                        child: Text(
-                          blocked == 0
-                              ? '選択した背景で使用を避けるべき薬剤はありません'
-                              : '$blocked剤が禁忌・原則回避に該当します',
-                          style: TextStyle(
-                            fontSize: 12,
-                            color: blocked == 0
-                                ? Colors.teal.shade700
-                                : Colors.red.shade700,
-                            fontWeight: FontWeight.w600,
-                          ),
-                        ),
-                      ),
-                      if (blocked > 0)
-                        Row(
-                          children: [
-                            const Text('隠す', style: TextStyle(fontSize: 11.5)),
-                            Switch(
-                              value: _hideBlocked,
-                              activeThumbColor: _accent,
-                              onChanged: (v) =>
-                                  setState(() => _hideBlocked = v),
-                            ),
-                          ],
-                        ),
-                    ],
+                  Text(
+                    blocked == 0
+                        ? '選択した背景で使用を避けるべき薬剤はありません'
+                        : '$blocked剤 (禁忌・原則回避)を一覧から除外しました',
+                    style: TextStyle(
+                      fontSize: 12,
+                      color: blocked == 0
+                          ? Colors.teal.shade700
+                          : Colors.red.shade700,
+                      fontWeight: FontWeight.w600,
+                    ),
                   ),
                 ],
               ],
@@ -141,7 +123,8 @@ class _DeliriumLadderScreenState extends State<DeliriumLadderScreen> {
     );
   }
 
-  Widget _condChip(String c, bool on) => InkWell(
+  // 患者背景の選択ボタン (四角囲みタイト・選択は色付きのみ, ✓なし・幅一定)
+  Widget _condChip(String c, bool on) => GestureDetector(
     onTap: () => setState(() {
       if (on) {
         _selected.remove(c);
@@ -149,31 +132,21 @@ class _DeliriumLadderScreenState extends State<DeliriumLadderScreen> {
         _selected.add(c);
       }
     }),
-    borderRadius: BorderRadius.circular(16),
     child: Container(
-      padding: const EdgeInsets.symmetric(horizontal: 11, vertical: 6),
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
       decoration: BoxDecoration(
-        color: on ? _accent : Colors.white,
-        borderRadius: BorderRadius.circular(16),
-        border: Border.all(color: on ? _accent : Colors.grey.shade300),
+        color: on ? _accent.withValues(alpha: 0.14) : Colors.white,
+        borderRadius: BorderRadius.circular(7),
+        border: Border.all(
+            color: on ? _accent : Colors.grey.shade300, width: 1.4),
       ),
-      child: Row(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          if (on)
-            const Padding(
-              padding: EdgeInsets.only(right: 4),
-              child: Icon(Icons.check, size: 13, color: Colors.white),
-            ),
-          Text(
-            kLadderConditionLabels[c] ?? c,
-            style: TextStyle(
-              fontSize: 11.5,
-              color: on ? Colors.white : Colors.black87,
-              fontWeight: on ? FontWeight.bold : FontWeight.normal,
-            ),
-          ),
-        ],
+      child: Text(
+        kLadderConditionLabels[c] ?? c,
+        style: TextStyle(
+          fontSize: 11.5,
+          color: on ? _accent : Colors.black87,
+          fontWeight: on ? FontWeight.bold : FontWeight.normal,
+        ),
       ),
     ),
   );

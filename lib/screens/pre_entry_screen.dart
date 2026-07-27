@@ -21,7 +21,7 @@ const _items = <_CheckItem>[
   _CheckItem('吸引をONにした'),
   _CheckItem('サクションをすぐ使えるように準備した'),
   _CheckItem('薬剤を術前指示に過不足なく準備した', hasPendingBtn: true),
-  _CheckItem('持続注射薬のプライミングを行った (TIVAの場合はシリンジポンプ)'),
+  _CheckItem('持続注射薬のプライミングを行った (TIVAの場合はシリンジポンプの設定)'),
   _CheckItem('McGRATHのバッテリーを確認した'),
   _CheckItem('チューブの準備をした'),
   _CheckItem('カフテスト (8ml程度入れて弾力を確認)をした'),
