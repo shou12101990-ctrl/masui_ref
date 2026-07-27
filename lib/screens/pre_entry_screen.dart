@@ -14,7 +14,8 @@ class PreEntryScreen extends StatefulWidget {
 class _CheckItem {
   final String label;
   final bool hasPendingBtn; // 「指示未」ボタン付き (薬剤準備用)
-  const _CheckItem(this.label, {this.hasPendingBtn = false});
+  final String? note; // ラベル直下に小さく出す注釈
+  const _CheckItem(this.label, {this.hasPendingBtn = false, this.note});
 }
 
 const _items = <_CheckItem>[
@@ -32,7 +33,8 @@ const _items = <_CheckItem>[
   _CheckItem('モニタ側でTOFを「自動」に設定した'),
   _CheckItem('(腹臥位 / 歯科口腔外科の場合) 延長チューブを準備した'),
   _CheckItem('チューブ固定テープ・目パッチを準備した'),
-  _CheckItem('体温計・脳波センサーを準備した'),
+  _CheckItem('体温計・脳波センサーを準備した',
+      note: '耳鼻科のESSでナビゲーションを使用する場合はBIS'),
   _CheckItem('胃管の準備をした (必要症例のみ)'),
   _CheckItem('ルート準備 (22G・20G・消毒綿・駆血帯)'),
 ];
@@ -274,6 +276,18 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                 ),
               ],
             ),
+            // 注釈は項目名の直下に小さく配置
+            if (item.note != null)
+              Padding(
+                padding: const EdgeInsets.only(left: 32, top: 3),
+                child: Text(item.note!,
+                    style: TextStyle(
+                        fontSize: 11,
+                        height: 1.3,
+                        color: checked
+                            ? Colors.grey.shade400
+                            : Colors.grey.shade600)),
+              ),
             // 指示未ボタンは薬剤の項目のみ, 名前の直下に改行して配置
             if (item.hasPendingBtn)
               Padding(
