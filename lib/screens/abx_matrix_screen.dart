@@ -12,8 +12,6 @@ class AbxMatrixScreen extends StatefulWidget {
   State<AbxMatrixScreen> createState() => _AbxMatrixScreenState();
 }
 
-enum _Panel { coverage, organ, both }
-
 /// 表示する薬剤群. 抗菌薬・抗真菌薬・抗ウイルス薬で列の意味が異なる.
 enum _Kind {
   bacteria('抗菌薬'),
@@ -52,7 +50,6 @@ enum _Kind {
 class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
   String _query = '';
   String? _group;
-  _Panel _panel = _Panel.coverage;
   _Kind _kind = _Kind.bacteria;
 
   static const _accent = Color(0xFF5C8A3A); // 抗菌薬カテゴリと同系の olive
@@ -74,11 +71,8 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
     }).toList();
   }
 
-  List<String> get _cols => switch (_panel) {
-    _Panel.coverage => _kind.coverageCols,
-    _Panel.organ => _kind.organCols,
-    _Panel.both => [..._kind.coverageCols, ..._kind.organCols],
-  };
+  /// 常にカバー範囲と臓器移行性の両方を並べる
+  List<String> get _cols => [..._kind.coverageCols, ..._kind.organCols];
 
   @override
   Widget build(BuildContext context) {
@@ -102,7 +96,6 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
                       onTap: () => setState(() {
                         _kind = k;
                         _group = null;
-                        if (k == _Kind.virus) _panel = _Panel.coverage;
                       }),
                       child: Container(
                         margin: const EdgeInsets.symmetric(horizontal: 4),
@@ -151,32 +144,6 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
                   ),
                   onChanged: (v) => setState(() => _query = v),
                 ),
-                // 抗ウイルス薬は臓器移行性の欄が原典に無いため切替を出さない
-                if (_kind.organCols.isNotEmpty) ...[
-                  const SizedBox(height: 8),
-                  SegmentedButton<_Panel>(
-                    segments: [
-                      ButtonSegment(
-                        value: _Panel.coverage,
-                        label: Text(
-                          _kind == _Kind.fungus ? '真菌種' : 'カバー範囲',
-                          style: const TextStyle(fontSize: 12),
-                        ),
-                      ),
-                      const ButtonSegment(
-                        value: _Panel.organ,
-                        label: Text('臓器移行性', style: TextStyle(fontSize: 12)),
-                      ),
-                      const ButtonSegment(
-                        value: _Panel.both,
-                        label: Text('両方', style: TextStyle(fontSize: 12)),
-                      ),
-                    ],
-                    selected: {_panel},
-                    showSelectedIcon: false,
-                    onSelectionChanged: (s) => setState(() => _panel = s.first),
-                  ),
-                ],
               ],
             ),
           ),
@@ -201,6 +168,7 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
                 : _MatrixTable(
                     rows: rows,
                     cols: _cols,
+                    organCols: _kind.organCols.toSet(),
                     accent: _accent,
                     onTap: (r) => _showDetail(context, r),
                   ),
@@ -213,34 +181,44 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
+                // 記号の意味
                 Wrap(
-                  spacing: 12,
+                  spacing: 10,
                   runSpacing: 4,
                   children: [
                     for (final e in kAbxMarkLegend.entries)
                       Text(
                         '${e.key} ${e.value}',
                         style: TextStyle(
-                          fontSize: 11,
+                          fontSize: 10.5,
                           color: Colors.grey.shade700,
                         ),
                       ),
                   ],
                 ),
-                const SizedBox(height: 4),
+                const SizedBox(height: 6),
+                // 色の意味 (病原体の種類 / 臓器移行性)
+                Wrap(
+                  spacing: 8,
+                  runSpacing: 4,
+                  children: [
+                    for (final e in _legendGroups) _swatch(e.$1, e.$2),
+                  ],
+                ),
+                const SizedBox(height: 5),
                 Text(
                   switch (_kind) {
                     _Kind.bacteria =>
-                      '空欄は原典に記載なし. 行をタップすると用量・補足を表示. '
-                          'EKPSCE/SPACE/PEK-HaM などの菌名略号は原典表記のまま. ',
+                      '色は病原体の種類, 濃さは判定の強さ (● 濃い / ▲△ 淡い). ✕は灰色. '
+                          '空欄は原典に記載なし. 行をタップで用量・補足. ',
                     _Kind.fungus =>
-                      '列は真菌の種類で, 抗菌薬の列とは意味が異なる. '
-                          '空欄は原典に記載なし. 行をタップすると用量・補足を表示. ',
+                      '列は真菌の種類で抗菌薬の列とは意味が異なる. '
+                          '色は真菌の種類, 濃さは判定の強さ. 行をタップで用量・補足. ',
                     _Kind.virus =>
                       '対象ウイルスを示す. 原典に菌種カバー表・臓器移行性の記載は無い. '
-                          '行をタップすると用量・補足を表示. ',
+                          '行をタップで用量・補足. ',
                   },
-                  style: TextStyle(fontSize: 10.5, color: Colors.grey.shade600),
+                  style: TextStyle(fontSize: 10, color: Colors.grey.shade600),
                 ),
               ],
             ),
@@ -249,6 +227,41 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
       ),
     );
   }
+
+  /// 凡例に出す「色 → 何を表すか」の対応
+  List<(String, Color)> get _legendGroups => switch (_kind) {
+    _Kind.bacteria => const [
+      ('GPC (MRSA/腸球菌/Strep/MSSA)', Color(0xFF7E57C2)),
+      ('GNR (EKPSCE/緑膿菌)', Color(0xFF43A047)),
+      ('嫌気性菌', Color(0xFFBF5B04)),
+      ('非定型', Color(0xFF3949AB)),
+      ('臓器移行性', Color(0xFF01579B)),
+    ],
+    _Kind.fungus => const [
+      ('酵母 (カンジダ/クリプトコックス)', Color(0xFFD81B60)),
+      ('糸状菌・接合菌', Color(0xFFEF6C00)),
+      ('PCP・地域流行真菌', Color(0xFF00897B)),
+      ('臓器移行性', Color(0xFF01579B)),
+    ],
+    _Kind.virus => const [('対象ウイルス', Color(0xFF5E35B1))],
+  };
+
+  Widget _swatch(String label, Color c) => Row(
+    mainAxisSize: MainAxisSize.min,
+    children: [
+      Container(
+        width: 11,
+        height: 11,
+        decoration: BoxDecoration(
+          color: c.withValues(alpha: 0.30),
+          border: Border.all(color: c, width: 1),
+          borderRadius: BorderRadius.circular(2),
+        ),
+      ),
+      const SizedBox(width: 4),
+      Text(label, style: TextStyle(fontSize: 10, color: Colors.grey.shade800)),
+    ],
+  );
 
   Widget _chip(String label, bool selected, VoidCallback onTap) {
     return Padding(
@@ -367,11 +380,15 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
 class _MatrixTable extends StatefulWidget {
   final List<AbxMatrixRow> rows;
   final List<String> cols;
+
+  /// 臓器移行性の列名. カバー範囲の列と塗り分けるために使う.
+  final Set<String> organCols;
   final Color accent;
   final void Function(AbxMatrixRow) onTap;
   const _MatrixTable({
     required this.rows,
     required this.cols,
+    required this.organCols,
     required this.accent,
     required this.onTap,
   });
@@ -413,16 +430,55 @@ class _MatrixTableState extends State<_MatrixTable> {
     super.dispose();
   }
 
-  Color _cellColor(String v) {
-    if (v.startsWith('●')) return const Color(0xFFDCEDC8); // 効く: green
+  /// 病原体の種類ごとの基準色. 列 (菌種/真菌種/ウイルス)によって塗り分ける.
+  /// 同じ「●」でも, どの病原体をカバーしているのかが色で分かるようにする.
+  static const _colColor = <String, Color>{
+    // グラム陽性球菌 (GPC) : 紫系
+    'MRSA': Color(0xFF7E57C2),
+    '腸球菌': Color(0xFF7E57C2),
+    'Strep': Color(0xFF7E57C2),
+    'MSSA': Color(0xFF7E57C2),
+    // グラム陰性桿菌 (GNR) : 緑系
+    'EKPSCE': Color(0xFF43A047),
+    '緑膿菌': Color(0xFF43A047),
+    // 嫌気性菌 : 赤茶系
+    '嫌気': Color(0xFFBF5B04),
+    // 非定型 : 藍系
+    '非定型': Color(0xFF3949AB),
+    // 真菌 (酵母) : ピンク系
+    'カンジダ': Color(0xFFD81B60),
+    'クリプトコックス': Color(0xFFD81B60),
+    // 真菌 (糸状菌・接合菌) : オレンジ系
+    '接合菌': Color(0xFFEF6C00),
+    'アスペルギルス': Color(0xFFEF6C00),
+    'フサリウム/スケドスポリウム': Color(0xFFEF6C00),
+    // PCP・地域流行真菌 : 青緑系
+    'PCP': Color(0xFF00897B),
+    '地域流行真菌': Color(0xFF00897B),
+    // ウイルス
+    '対象ウイルス': Color(0xFF5E35B1),
+  };
+
+  /// 臓器移行性の色 (暗い水色)
+  static const _organColor = Color(0xFF01579B);
+
+  Color _baseColorFor(String col) =>
+      widget.organCols.contains(col) ? _organColor : (_colColor[col] ?? widget.accent);
+
+  /// セルの背景色. 判定の強さで濃度を変え, 色相で病原体の種類を示す.
+  Color _cellColor(String v, String col) {
+    if (v.isEmpty) return Colors.transparent;
+    final base = _baseColorFor(col);
     if (v.startsWith('✕') || v.startsWith('×')) {
-      return const Color(0xFFFFEBEE); // 効かない: red
+      // カバーしない: 灰色で沈める (色相を持たせない)
+      return const Color(0xFFF2F2F2);
     }
+    if (v.startsWith('●')) return base.withValues(alpha: 0.30);
     if (v.startsWith('▲') || v.startsWith('△')) {
-      return const Color(0xFFFFF8E1); // 条件付き: amber
+      return base.withValues(alpha: 0.13);
     }
-    if (v.isNotEmpty) return const Color(0xFFE3F2FD); // 菌名などの注記: blue
-    return Colors.transparent;
+    // 菌名などの注記 (PEK, SPACE など)
+    return base.withValues(alpha: 0.10);
   }
 
   @override
@@ -526,17 +582,26 @@ class _MatrixTableState extends State<_MatrixTable> {
                     child: Row(
                       children: [
                         for (final c in widget.cols)
-                          SizedBox(
+                          Container(
                             width: _cellW,
-                            child: Center(
-                              child: Text(
-                                c,
-                                textAlign: TextAlign.center,
-                                style: TextStyle(
-                                  fontSize: 10.5,
-                                  fontWeight: FontWeight.bold,
-                                  color: widget.accent,
-                                ),
+                            alignment: Alignment.center,
+                            padding: const EdgeInsets.symmetric(horizontal: 2),
+                            decoration: BoxDecoration(
+                              color: _baseColorFor(c).withValues(alpha: 0.16),
+                              border: Border(
+                                right: BorderSide(color: Colors.white, width: 1),
+                              ),
+                            ),
+                            child: Text(
+                              c,
+                              textAlign: TextAlign.center,
+                              maxLines: 2,
+                              overflow: TextOverflow.ellipsis,
+                              style: TextStyle(
+                                fontSize: 9.5,
+                                height: 1.15,
+                                fontWeight: FontWeight.bold,
+                                color: _baseColorFor(c),
                               ),
                             ),
                           ),
@@ -587,7 +652,7 @@ class _MatrixTableState extends State<_MatrixTable> {
       alignment: Alignment.center,
       padding: const EdgeInsets.symmetric(horizontal: 2),
       decoration: BoxDecoration(
-        color: _cellColor(v),
+        color: _cellColor(v, col),
         border: Border(right: BorderSide(color: Colors.grey.shade200)),
       ),
       child: Text(
@@ -600,8 +665,8 @@ class _MatrixTableState extends State<_MatrixTable> {
           height: isMark ? 1.0 : 1.15,
           fontWeight: isMark ? FontWeight.bold : FontWeight.w600,
           color: v.startsWith('✕') || v.startsWith('×')
-              ? Colors.red.shade400
-              : Colors.black87,
+              ? Colors.grey.shade500
+              : _baseColorFor(col).withValues(alpha: 1.0),
         ),
       ),
     );
