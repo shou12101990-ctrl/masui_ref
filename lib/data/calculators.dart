@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../screens/abx_matrix_screen.dart';
+import '../screens/psy_matrix_screen.dart';
 import '../screens/adult_induction_screen.dart';
 import '../screens/allowable_blood_loss_screen.dart';
 import '../screens/be_correction_screen.dart';
@@ -122,5 +123,12 @@ final List<CalculatorEntry> kCalculators = [
     subtitle: 'カバー範囲 / 臓器移行性を表で比較',
     color: const Color(0xFF5C8A3A),
     build: () => const AbxMatrixScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.psychology_outlined,
+    title: '向精神薬 分類・対応表',
+    subtitle: '上位分類 (MARTA/SDA等) と疾患・症状の対応',
+    color: const Color(0xFFD2691E),
+    build: () => const PsyMatrixScreen(),
   ),
 ];
