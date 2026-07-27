@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../data/calculators.dart';
 import '../widgets/patient_info_panel.dart';
-import 'pre_entry_screen.dart';
 
 /// 計算機タブのハブ画面 — 各計算機へのナビゲーション.
 /// 項目の定義は lib/data/calculators.dart のレジストリに集約.
@@ -24,10 +23,6 @@ class CalculatorHubScreen extends StatelessWidget {
               child: Text('機能',
                   style: theme.textTheme.titleLarge
                       ?.copyWith(fontWeight: FontWeight.bold)),
-            ),
-            const Padding(
-              padding: EdgeInsets.fromLTRB(16, 0, 16, 10),
-              child: _PreEntryBanner(),
             ),
             const Padding(
               padding: EdgeInsets.fromLTRB(16, 0, 16, 10),
@@ -104,64 +99,6 @@ class _HubCard extends StatelessWidget {
                         height: 1.3,
                         color: Colors.black54)),
               ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-}
-
-/// 機能タブ最上位の「入室前準備」バナー (準備タイマー + チェックリストへ).
-class _PreEntryBanner extends StatelessWidget {
-  const _PreEntryBanner();
-
-  static const _accent = Color(0xFF00695C);
-
-  @override
-  Widget build(BuildContext context) {
-    return Card(
-      margin: EdgeInsets.zero,
-      color: _accent.withValues(alpha: 0.06),
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(14),
-        side: BorderSide(color: _accent.withValues(alpha: 0.3)),
-      ),
-      child: InkWell(
-        borderRadius: BorderRadius.circular(14),
-        onTap: () => Navigator.of(context).push(
-          MaterialPageRoute(builder: (_) => const PreEntryScreen()),
-        ),
-        child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
-          child: Row(
-            children: [
-              Container(
-                width: 44,
-                height: 44,
-                decoration: BoxDecoration(
-                  color: _accent.withValues(alpha: 0.14),
-                  borderRadius: BorderRadius.circular(12),
-                ),
-                child: const Icon(Icons.checklist_rtl,
-                    color: _accent, size: 26),
-              ),
-              const SizedBox(width: 14),
-              const Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Text('入室前準備',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold)),
-                    SizedBox(height: 2),
-                    Text('準備タイマー + チェックリスト (目標15分)',
-                        style: TextStyle(fontSize: 12, color: Colors.black54)),
-                  ],
-                ),
-              ),
-              const Icon(Icons.chevron_right, color: _accent),
             ],
           ),
         ),

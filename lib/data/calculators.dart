@@ -15,6 +15,7 @@ import '../screens/opioid_conversion_screen.dart';
 import '../screens/oxygen_gap_screen.dart';
 import '../screens/pca_screen.dart';
 import '../screens/pediatric_screen.dart';
+import '../screens/pre_entry_screen.dart';
 
 /// 計算機タブに並ぶ機能のレジストリ.
 /// 新しい計算機は kCalculators に1エントリ追加するだけでハブ画面に並ぶ.
@@ -34,6 +35,13 @@ class CalculatorEntry {
 }
 
 final List<CalculatorEntry> kCalculators = [
+  CalculatorEntry(
+    icon: Icons.checklist_rtl,
+    title: '入室前準備',
+    subtitle: '準備タイマー + チェックリスト',
+    color: const Color(0xFF00695C),
+    build: () => const PreEntryScreen(),
+  ),
   CalculatorEntry(
     icon: Icons.person,
     title: '成人 麻酔導入時',
