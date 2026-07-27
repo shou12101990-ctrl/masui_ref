@@ -1,0 +1,259 @@
+[
+ {
+  "kind": "antifungal",
+  "class": "ポリエン系",
+  "generic": "アムホテリシンB",
+  "brand": "ファンギゾン",
+  "abbr": "AMPH",
+  "dose": "0.5-0.7mg/kg/day",
+  "effect": "",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●",
+   "接合菌": "●",
+   "アスペルギルス": "●",
+   "地域流行真菌": "●"
+  },
+  "organ": {},
+  "note": "・非常に古くから存在するかつ今でも重要. ・侵襲性深部真菌感染症 殺菌的抗真菌薬でほぼすべてをカバーする ・副作用 腎機能障害, 電解質異常 (低K, 低Mg, 尿細管アシドーシス) 投与時の悪寒・血圧低下"
+ },
+ {
+  "kind": "antifungal",
+  "class": "ポリエン系",
+  "generic": "AMPHリポソーム製剤",
+  "brand": "アムゾビーム",
+  "abbr": "L-AMB",
+  "dose": "3-5mg/kg QOD",
+  "effect": "副作用を軽減したAMPH (それでも多い), 高価.",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●",
+   "接合菌": "●",
+   "アスペルギルス": "●",
+   "フサリウム/スケドスポリウム": "✕",
+   "PCP": "●"
+  },
+  "organ": {
+   "眼球": "●"
+  },
+  "note": "2hで投与する."
+ },
+ {
+  "kind": "antifungal",
+  "class": "トリアゾール系",
+  "generic": "フルコナゾール",
+  "brand": "ジフルカン",
+  "abbr": "FLCZ",
+  "dose": "comment参照",
+  "effect": "Candida用の抗真菌薬",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●",
+   "アスペルギルス": "✕"
+  },
+  "organ": {
+   "眼球": "●",
+   "CNS": "●",
+   "骨": "●",
+   "前立腺": "●",
+   "尿": "？",
+   "唾液": "●"
+  },
+  "note": "■通常 1日目 800-1600mg 2日目以降 400mg/day ■同種移植や血液腫瘍寛解導入療法における侵襲性Candidaの予防投与 400mg/day"
+ },
+ {
+  "kind": "antifungal",
+  "class": "トリアゾール系",
+  "generic": "ホスフルコナゾール",
+  "brand": "プロジフ",
+  "abbr": "F-FLCZ",
+  "dose": "comment参照",
+  "effect": "FLCZのプロドラッグ,",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●"
+  },
+  "organ": {},
+  "note": "■Candida 2日目まで 126-252mg/dy, それ以降 63-126mg/day ■Cryptococcus 2日目まで 126-504mg/day, それ以降 63-252mg/day ■上記真菌について, 重症または難治性の場合 2日まで 1009mg/day, それ以降 505mg/day"
+ },
+ {
+  "kind": "antifungal",
+  "class": "トリアゾール系",
+  "generic": "ケトコナゾール",
+  "brand": "ニゾラール",
+  "abbr": "KCZ",
+  "dose": "",
+  "effect": "外用抗真菌薬",
+  "coverage": {
+   "カンジダ": "●"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antifungal",
+  "class": "トリアゾール系",
+  "generic": "イトラコナゾール",
+  "brand": "イトリゾール",
+  "abbr": "ITCZ",
+  "dose": "comment参照",
+  "effect": "",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●",
+   "アスペルギルス": "▲",
+   "地域流行真菌": "●"
+  },
+  "organ": {},
+  "note": "1日目 200mg q12h 2日目以降 200mg QOD"
+ },
+ {
+  "kind": "antifungal",
+  "class": "トリアゾール系",
+  "generic": "ボリコナゾール",
+  "brand": "ブイフェンド",
+  "abbr": "VRCZ",
+  "dose": "comment参照",
+  "effect": "第2世代トリアゾール系",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●",
+   "接合菌": "✕",
+   "アスペルギルス": "▲",
+   "フサリウム/スケドスポリウム": "●",
+   "地域流行真菌": "●"
+  },
+  "organ": {
+   "眼球": "●",
+   "尿": "✕"
+  },
+  "note": "1日目 : 6mg/kg q12h 2日目以降: 4mg/kg q12h トラフ値を設定して適宜用量調整"
+ },
+ {
+  "kind": "antifungal",
+  "class": "トリアゾール系",
+  "generic": "ポサコナゾール",
+  "brand": "ノクサフィル",
+  "abbr": "PSCZ",
+  "dose": "comment参照",
+  "effect": "第2世代トリアゾール系",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●",
+   "接合菌": "●",
+   "フサリウム/スケドスポリウム": "●"
+  },
+  "organ": {},
+  "note": "1日目 300mg q12h 2日目以降 300mg QOD"
+ },
+ {
+  "kind": "antifungal",
+  "class": "エノキャンディン系",
+  "generic": "ミカファンギン",
+  "brand": "ファンガード",
+  "abbr": "MCFG",
+  "dose": "100-150mg QOD",
+  "effect": "Candida用の抗真菌薬",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "✕",
+   "アスペルギルス": "●"
+  },
+  "organ": {
+   "眼球": "✕",
+   "尿": "✕"
+  },
+  "note": "予防の場合は50-100mg/day"
+ },
+ {
+  "kind": "antifungal",
+  "class": "エノキャンディン系",
+  "generic": "カスポファンギン",
+  "brand": "カンサイダス",
+  "abbr": "CPFG",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "カンジダ": "●",
+   "アスペルギルス": "●"
+  },
+  "organ": {
+   "眼球": "✕",
+   "尿": "✕"
+  },
+  "note": ""
+ },
+ {
+  "kind": "antifungal",
+  "class": "フルオロピリミジン系",
+  "generic": "フルシトシン",
+  "brand": "",
+  "abbr": "5-FC",
+  "dose": "25mg/kg q6h",
+  "effect": "耐性を生じやすい抗真菌薬",
+  "coverage": {
+   "カンジダ": "●",
+   "クリプトコックス": "●",
+   "アスペルギルス": "✕",
+   "フサリウム/スケドスポリウム": "✕"
+  },
+  "organ": {},
+  "note": "・腎機能に応じた用量調整が必要. (FLCZと5-FC) ・耐性を生じやすい. = 単剤で使用しない. ・内服薬のみ ・以下のように使用する. . Cryptococcus髄膜炎にL-AMB＋5-FCとして使用する. . CandidaのCNS感染, 眼内炎にL-AMB＋5-FCとして使用を考慮する. . CandidaのIEでL-AMB＋5-FCとして使用を考慮する."
+ },
+ {
+  "kind": "antifungal",
+  "class": "フルオロピリミジン系",
+  "generic": "ST合剤",
+  "brand": "",
+  "abbr": "SMX/TMP",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "PCP": "●"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antifungal",
+  "class": "フルオロピリミジン系",
+  "generic": "イセチオン酸ペンタミジン",
+  "brand": "",
+  "abbr": "",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "PCP": "●"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antifungal",
+  "class": "フルオロピリミジン系",
+  "generic": "アトバコン",
+  "brand": "",
+  "abbr": "",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "PCP": "●"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antifungal",
+  "class": "フルオロピリミジン系",
+  "generic": "ステロイド",
+  "brand": "",
+  "abbr": "",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "PCP": "●"
+  },
+  "organ": {},
+  "note": ""
+ }
+]

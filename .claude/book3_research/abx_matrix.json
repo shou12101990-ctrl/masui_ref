@@ -1,0 +1,868 @@
+[
+ {
+  "class": "第1世代",
+  "generic": "セファゾリン",
+  "brand": "セファメジンα",
+  "abbr": "CEZ",
+  "dose": "2g q8h",
+  "effect": "第1世代セフェム (基本型)",
+  "coverage": {
+   "腸球菌": "✕",
+   "MSSA": "●",
+   "EKPSCE": "PEK",
+   "緑膿菌": "✕",
+   "嫌気": "✕"
+  },
+  "organ": {
+   "CNS": "✕"
+  },
+  "note": "・MSSAに最も効果のある抗生剤. 感受性あればPEKにも使う. ・適応 SSI予防, MSSA (敗血症, 蜂窩織炎, 椎体炎, 脳膿瘍は除く) E. coli, Klebsiella, Proteusの感受性株の最適治療 ex.) 皮膚軟部の蜂窩織炎, E. coliによるUTIなど →CNS以外のMSSA感染症はCEZ, MRSAならVCMが第一選択. MSSAでも髄膜炎, 脳膿瘍の場合はセフトリアキソン CTRX ・緑膿菌, 嫌気性菌 (Bacteroides)カバーはなし."
+ },
+ {
+  "class": "第1世代",
+  "generic": "セファレキシン",
+  "brand": "",
+  "abbr": "CEX",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "腸球菌": "✕"
+  },
+  "organ": {
+   "CNS": "✕"
+  },
+  "note": ""
+ },
+ {
+  "class": "第1世代",
+  "generic": "セファクロル",
+  "brand": "",
+  "abbr": "CCL",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "腸球菌": "✕"
+  },
+  "organ": {
+   "CNS": "✕"
+  },
+  "note": ""
+ },
+ {
+  "class": "第2世代",
+  "generic": "セフォチアム",
+  "brand": "セフォチアム",
+  "abbr": "CTM",
+  "dose": "2g q8h",
+  "effect": "第2世代セフェム",
+  "coverage": {
+   "腸球菌": "✕",
+   "嫌気": "✕"
+  },
+  "organ": {
+   "CNS": "✕"
+  },
+  "note": "・適応 感受性のあるHaemohilus influenzaeなどのdefinitive therapy ・セフォチアム : 嫌気性菌Bacteroidesカバーなし セフメタゾール: 嫌気性菌Bacteroidesカバーあり"
+ },
+ {
+  "class": "第2世代セファマイシン",
+  "generic": "セフメタゾール",
+  "brand": "セフメタゾン",
+  "abbr": "CMZ",
+  "dose": "2g q8h",
+  "effect": "第2世代セファマイシン",
+  "coverage": {
+   "腸球菌": "✕",
+   "EKPSCE": "SPACE ✕, ESBL産生E. coli●",
+   "嫌気": "●"
+  },
+  "organ": {
+   "CNS": "✕"
+  },
+  "note": "・嫌気カバー (B. fragilis)がある. SPACEカバーはない ESBLで分解されないので ESBL産生 E. coliに有効 ・実臨床ではあまり使わない 下部消化管手術の術前投与ぐらい ・ESBL産生E. coliに対してカルバペネム系の代替薬 になるという報告がある."
+ },
+ {
+  "class": "第2世代",
+  "generic": "オキサセファム",
+  "brand": "フルマリン / フロモキセフ",
+  "abbr": "FMOX",
+  "dose": "",
+  "effect": "第2世代セフェム",
+  "coverage": {
+   "腸球菌": "✕"
+  },
+  "organ": {
+   "CNS": "✕"
+  },
+  "note": ""
+ },
+ {
+  "class": "第3世代セフェム",
+  "generic": "セフトリアキソン",
+  "brand": "ロセフィン",
+  "abbr": "CTRX",
+  "dose": "2g q24h (QOD)",
+  "effect": "第3世代セフェム",
+  "coverage": {
+   "腸球菌": "✕",
+   "Strep": "●",
+   "EKPSCE": "PEK/HaM/SCE",
+   "緑膿菌": "✕"
+  },
+  "organ": {
+   "CNS": "●"
+  },
+  "note": "脳膿瘍・髄膜炎なら2g q12h"
+ },
+ {
+  "class": "第3世代セフェム",
+  "generic": "セフォタキシム (小児)",
+  "brand": "セフォタックス",
+  "abbr": "CTX",
+  "dose": "2g q6h",
+  "effect": "",
+  "coverage": {},
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "第3世代セフェム",
+  "generic": "セフジニル",
+  "brand": "セフゾン",
+  "abbr": "CFDN",
+  "dose": "",
+  "effect": "",
+  "coverage": {},
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "第3世代＋緑膿カバー",
+  "generic": "セフタジジム",
+  "brand": "モダシン",
+  "abbr": "CAZ",
+  "dose": "2g q8h",
+  "effect": "",
+  "coverage": {
+   "腸球菌": "✕",
+   "緑膿菌": "●"
+  },
+  "organ": {
+   "CNS": "●"
+  },
+  "note": "緑膿菌に対して: 1g+NS100, 2h (div.), q6h"
+ },
+ {
+  "class": "第4世代",
+  "generic": "セフェピム",
+  "brand": "マキシピーム",
+  "abbr": "CFPM",
+  "dose": "2g q12h",
+  "effect": "医療関連感染やFNの初期治療に使う.",
+  "coverage": {
+   "腸球菌": "✕",
+   "MSSA": "△",
+   "EKPSCE": "SCE",
+   "緑膿菌": "●",
+   "嫌気": "✕"
+  },
+  "organ": {
+   "CNS": "●"
+  },
+  "note": "緑膿菌: 1g NS100, 2h(div.), q8h 2g q12hでもOK"
+ },
+ {
+  "class": "第4世代",
+  "generic": "セフォゾプラン",
+  "brand": "ファーストシン",
+  "abbr": "CZOP",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "腸球菌": "✕"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "第4世代",
+  "generic": "ピペラシリン/タゾバクタム",
+  "brand": "ゾシン",
+  "abbr": "PIPC/TAZ",
+  "dose": "4.5g q6h",
+  "effect": "下にまとめる",
+  "coverage": {
+   "腸球菌": "✕",
+   "緑膿菌": "●",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "ペニシリンG",
+  "generic": "ペニシリン",
+  "brand": "ペニシリンG",
+  "abbr": "PCG",
+  "dose": "400万u q4h",
+  "effect": "古典的ペニシリン. 肺炎球菌と梅毒の1st",
+  "coverage": {
+   "腸球菌": "△",
+   "Strep": "●",
+   "MSSA": "✕"
+  },
+  "organ": {},
+  "note": "ガス壊疽 (C. perferingens)には PCG大量投与＋高圧酸素療法を考慮する."
+ },
+ {
+  "class": "アンピシリン",
+  "generic": "アンピシリン",
+  "brand": "ビクシリン",
+  "abbr": "ABPC",
+  "dose": "2g q4h",
+  "effect": "アミノペニシリン. 腸球菌とリステリアの1st",
+  "coverage": {
+   "腸球菌": "●",
+   "Strep": "●",
+   "EKPSCE": "EP"
+  },
+  "organ": {},
+  "note": "・PCGをGN菌の外膜を通過できるように改良したもの. E. coli, Proteus mirabilisまで有効. 経口薬のAMPCも同様. ・腸球菌 (Enterococcus)の第一選択 GNRのリステリアの第一選択薬 MSSA以外のGPCもカバーできる 感受性に応じ中耳炎, 副鼻腔炎, 肺炎の起因菌である インフルエンザ菌やモラキセラもカバーできる. ・ペニシリンアレルギーのある患者のリステリアはST合剤 ・腸内細菌のKlebsiellaには内因性耐性のため使用できない."
+ },
+ {
+  "class": "アンピシリン",
+  "generic": "アモキシシリン",
+  "brand": "サワシリン",
+  "abbr": "AMPC",
+  "dose": "",
+  "effect": "アミノペニシリン (ABPC)の経口薬",
+  "coverage": {
+   "腸球菌": "●",
+   "Strep": "●",
+   "EKPSCE": "EP"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "アンピシリン",
+  "generic": "アモキシシリン・クラブラン酸",
+  "brand": "オーグメンチン / クラモバックス",
+  "abbr": "AMPC/CVA",
+  "dose": "",
+  "effect": "アミノペニシリン (SBT/ABPCと同等)",
+  "coverage": {
+   "腸球菌": "●",
+   "Strep": "●",
+   "MSSA": "●",
+   "EKPSCE": "PEK/HaM",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": "配合比 ２: １ ※クラブラン酸が1"
+ },
+ {
+  "class": "抗ブ菌ペニシリン",
+  "generic": "ナフシリン",
+  "brand": "ナフシリン",
+  "abbr": "-",
+  "dose": "-",
+  "effect": "ペニシリナーゼ耐性ペニシリン",
+  "coverage": {
+   "MSSA": "●"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "抗ブ菌ペニシリン",
+  "generic": "オキサシリン",
+  "brand": "オキサシリン",
+  "abbr": "-",
+  "dose": "-",
+  "effect": "ペニシリナーゼ耐性ペニシリン",
+  "coverage": {
+   "MSSA": "●"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "抗緑膿菌ペニシリン",
+  "generic": "ピペラシリン",
+  "brand": "ピペラシリン / ペントシリン",
+  "abbr": "PIPC",
+  "dose": "3g q4-6h",
+  "effect": "院内感染症 (SPACE)カバーのあるペニシリン",
+  "coverage": {
+   "腸球菌": "●",
+   "Strep": "●",
+   "EKPSCE": "SPACE",
+   "緑膿菌": "●"
+  },
+  "organ": {},
+  "note": "・βラクタマーゼ阻害剤にある程度の安定な構造を持ち SPACEまでカバー範囲を広げている."
+ },
+ {
+  "class": "βラクタマーゼ阻害剤 配合ペニシリン",
+  "generic": "アンピシリン/スルバクタム",
+  "brand": "ユナシン",
+  "abbr": "ABPC/SBT",
+  "dose": "3g q6h",
+  "effect": "アミノペニシリン＋β-ラクタマーゼ阻害薬",
+  "coverage": {
+   "腸球菌": "●",
+   "Strep": "●",
+   "MSSA": "●",
+   "EKPSCE": "PEK/HaM",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": "・ペニシリン系分解酵素であるペニシリナーゼを無効化する スルバクタムとの合剤. →GNRへの効果はPEK/HaMまで広げている. 一方で院内感染で問題になるSPACEには効果なし (SBTは A. baumanniiに効果を有するが) →またMSSAにも効果がある. ・横隔膜よりも上の嫌気性菌カバー: ABPC/SBTとCLDM →口腔内嫌気性菌を想定する. 誤嚥性肺炎etc."
+ },
+ {
+  "class": "βラクタマーゼ阻害剤 配合ペニシリン",
+  "generic": "ピペラシリン/タゾバクタム",
+  "brand": "ゾシン",
+  "abbr": "PIPC/TAZ",
+  "dose": "4.5g q6h",
+  "effect": "抗緑膿菌ペニシリン＋β-ラクタマーゼ阻害薬",
+  "coverage": {
+   "腸球菌": "●",
+   "Strep": "●",
+   "MSSA": "●",
+   "EKPSCE": "●",
+   "緑膿菌": "●",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": "緑膿菌: 4.5g NS100, 4h (div.), q6h"
+ },
+ {
+  "class": "モノバクタム系",
+  "generic": "アズトレオナム",
+  "brand": "アザクタム",
+  "abbr": "AZT",
+  "dose": "2g q8h",
+  "effect": "",
+  "coverage": {
+   "緑膿菌": "●"
+  },
+  "organ": {},
+  "note": "緑膿菌: 2g NS100, 2h(div.), q8h"
+ },
+ {
+  "class": "カルバペネム系",
+  "generic": "メロペネム",
+  "brand": "メロペン",
+  "abbr": "MEPM",
+  "dose": "1g q8h",
+  "effect": "FN, SPACE, ESBL産生GNRの1st",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "✕",
+   "Strep": "△",
+   "MSSA": "△",
+   "緑膿菌": "●",
+   "嫌気": "●",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "緑膿菌: 1g NS100, 3h(div.), q8h 髄膜炎: 2g q8h"
+ },
+ {
+  "class": "カルバペネム系",
+  "generic": "イミペネム・シラスタチン",
+  "brand": "チエナム",
+  "abbr": "IPM/CS",
+  "dose": "500mg+NS 100, 2h (div.) q6h",
+  "effect": "FN, SPACE, ESBL産生GNRの1st",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "✕",
+   "緑膿菌": "●",
+   "嫌気": "●",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "適応 ・MSSA, 溶連菌, 肺炎球菌は一応カバー (第一選択ではない) ・腸球菌 (Enterococcus)では faecalisは中等度のIPM感受性があるが MEPM耐性であり, 治療には原則使用してはならない. ・グラム陰性菌 (腸内細菌: E. coli, Klebsiella, Proteus), \"SPACE\"カバー ・嫌気性菌 (Bacteroides fragilis)カバーあり →CLDMより嫌気カバーという面では圧倒的に優れている. ・ESBL産生グラム陰性菌の第一選択である. ・MRSA, 腸球菌, レジオネラ, クラミジア, マイコプラズマ, 真菌などは適応外 ・副作用 βラクタム系一般の共通事項としてアレルギー, 発熱発疹 痙攣 (IPMより少), 好酸球増加性肺炎PIE, 肝障害, 下痢, IP, 骨髄抑制"
+ },
+ {
+  "class": "カルバペネム系",
+  "generic": "ビアペネム",
+  "brand": "オメガシン",
+  "abbr": "BIPM",
+  "dose": "",
+  "effect": "FN, SPACE, ESBL産生GNRの1st",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "✕",
+   "嫌気": "●",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "適応 ・MSSA, 溶連菌, 肺炎球菌は一応カバー (第一選択ではない) ・腸球菌 (Enterococcus)では faecalisは中等度のIPM感受性があるが MEPM耐性であり, 治療には原則使用してはならない. ・グラム陰性菌 (腸内細菌: E. coli, Klebsiella, Proteus), \"SPACE\"カバー ・嫌気性菌 (Bacteroides fragilis)カバーあり →CLDMより嫌気カバーという面では圧倒的に優れている. ・ESBL産生グラム陰性菌の第一選択である. ・MRSA, 腸球菌, レジオネラ, クラミジア, マイコプラズマ, 真菌などは適応外 ・副作用 βラクタム系一般の共通事項としてアレルギー, 発熱発疹 痙攣 (IPMより少), 好酸球増加性肺炎PIE, 肝障害, 下痢, IP, 骨髄抑制"
+ },
+ {
+  "class": "カルバペネム系",
+  "generic": "ドリペネム",
+  "brand": "フィニバックス",
+  "abbr": "DRPM",
+  "dose": "500mg+NS 100, 2h (div.) q8h",
+  "effect": "FN, SPACE, ESBL産生GNRの1st",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "✕",
+   "緑膿菌": "●",
+   "嫌気": "●",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "適応 ・MSSA, 溶連菌, 肺炎球菌は一応カバー (第一選択ではない) ・腸球菌 (Enterococcus)では faecalisは中等度のIPM感受性があるが MEPM耐性であり, 治療には原則使用してはならない. ・グラム陰性菌 (腸内細菌: E. coli, Klebsiella, Proteus), \"SPACE\"カバー ・嫌気性菌 (Bacteroides fragilis)カバーあり →CLDMより嫌気カバーという面では圧倒的に優れている. ・ESBL産生グラム陰性菌の第一選択である. ・MRSA, 腸球菌, レジオネラ, クラミジア, マイコプラズマ, 真菌などは適応外 ・副作用 βラクタム系一般の共通事項としてアレルギー, 発熱発疹 痙攣 (IPMより少), 好酸球増加性肺炎PIE, 肝障害, 下痢, IP, 骨髄抑制"
+ },
+ {
+  "class": "カルバペネム系",
+  "generic": "レレバクタム/IPM/CS",
+  "brand": "レカルブリオ",
+  "abbr": "REL",
+  "dose": "1.25g q6h 30min",
+  "effect": "カルバペネム耐性菌 (CREなど)に用いる.",
+  "coverage": {},
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "アミノグリコシド系",
+  "generic": "アルベカシン",
+  "brand": "ハベカシン",
+  "abbr": "ABK",
+  "dose": "",
+  "effect": "GNR, PEK, SPACE, 緑膿菌",
+  "coverage": {
+   "EKPSCE": "●",
+   "緑膿菌": "●",
+   "嫌気": "✕",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "・アミノグリコシド系なので腎毒性が強い. その他重篤な副作用として不可逆性聴神経障害"
+ },
+ {
+  "class": "アミノグリコシド系",
+  "generic": "アミカシン",
+  "brand": "アミカシン",
+  "abbr": "AMK",
+  "dose": "15mg/kg QOD",
+  "effect": "GNR, PEK, SPACE, 緑膿菌",
+  "coverage": {
+   "EKPSCE": "●",
+   "緑膿菌": "●",
+   "嫌気": "✕",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "・アミノグリコシド系なので腎毒性が強い. その他重篤な副作用として不可逆性聴神経障害"
+ },
+ {
+  "class": "アミノグリコシド系",
+  "generic": "ゲンタマイシン",
+  "brand": "ゲンタシン",
+  "abbr": "GM",
+  "dose": "5mg/kg QOD",
+  "effect": "GNR, PEK, SPACE, 緑膿菌",
+  "coverage": {
+   "EKPSCE": "●",
+   "緑膿菌": "●",
+   "嫌気": "✕",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "・アミノグリコシド系なので腎毒性が強い. その他重篤な副作用として不可逆性聴神経障害"
+ },
+ {
+  "class": "アミノグリコシド系",
+  "generic": "トブラマイシン",
+  "brand": "トブラシン",
+  "abbr": "TOB",
+  "dose": "",
+  "effect": "GNR, PEK, SPACE, 緑膿菌",
+  "coverage": {
+   "EKPSCE": "●",
+   "緑膿菌": "●",
+   "嫌気": "✕",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": "・アミノグリコシド系なので腎毒性が強い. その他重篤な副作用として不可逆性聴神経障害"
+ },
+ {
+  "class": "アミノグリコシド系",
+  "generic": "ストレプトマイシン",
+  "brand": "ストレプトマイシン",
+  "abbr": "SM",
+  "dose": "筋注",
+  "effect": "結核第一選択薬5剤の一つ",
+  "coverage": {
+   "EKPSCE": "●",
+   "緑膿菌": "●",
+   "嫌気": "✕",
+   "非定型": "✕"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "マクロライド系",
+  "generic": "エリスロマイシン 静注・経口",
+  "brand": "エリスロシン",
+  "abbr": "EM",
+  "dose": "200-500mg q12h",
+  "effect": "14環系",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "✕",
+   "Strep": "✕",
+   "MSSA": "✕",
+   "EKPSCE": "✕",
+   "緑膿菌": "✕",
+   "嫌気": "✕",
+   "非定型": "●"
+  },
+  "organ": {},
+  "note": "600-1500mg/day"
+ },
+ {
+  "class": "マクロライド系",
+  "generic": "クラリスロマイシン 経口",
+  "brand": "クラリス",
+  "abbr": "CAM",
+  "dose": "200-400mg 1日1回",
+  "effect": "",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "✕",
+   "Strep": "✕",
+   "MSSA": "✕",
+   "EKPSCE": "✕",
+   "緑膿菌": "✕",
+   "嫌気": "✕",
+   "非定型": "●"
+  },
+  "organ": {},
+  "note": "・EMと比べてグラム陰性菌では モラキセラ, インフルエンザ菌のカバーは改善. その他スペクトラムはEMと同様"
+ },
+ {
+  "class": "マクロライド系",
+  "generic": "アジスロマイシン 経口",
+  "brand": "ジスロマック",
+  "abbr": "AZM",
+  "dose": "comment参照",
+  "effect": "15環系",
+  "coverage": {
+   "腸球菌": "✕",
+   "MSSA": "✕",
+   "緑膿菌": "✕",
+   "嫌気": "✕"
+  },
+  "organ": {},
+  "note": "①500mg 3日間 ②2g1日 ③MAC予防: 1200mg 週1回 ④性行為感染症: 1g単回投与"
+ },
+ {
+  "class": "マクロライド系",
+  "generic": "フィダキソマイシン",
+  "brand": "ダフクリア",
+  "abbr": "FDX",
+  "dose": "",
+  "effect": "18環系, 新規マクロライド. CDI治療薬",
+  "coverage": {
+   "腸球菌": "✕",
+   "MSSA": "✕",
+   "緑膿菌": "✕",
+   "嫌気": "✕"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "ST合剤",
+  "generic": "スルファメトキサゾール ＋トリメトプリム",
+  "brand": "バクトラミン (iv) / バクタ (po) / ダイフェン",
+  "abbr": "SM または SMX/TMP",
+  "dose": "comment参照",
+  "effect": "Pneumocystis jiroveci および カルバペネム耐性GNR (マルトフィリア)の1st",
+  "coverage": {},
+  "organ": {
+   "CNS": "●",
+   "骨": "●",
+   "前立腺": "●"
+  },
+  "note": "経口: DS 2T3X (最大 DS 2T3X) 静注: トリメトプリム 5-20mg/kg/day, q6-12h (最大20mg/kg/day) ・トリメトプリムとし20mg/kg/dayを3回分割投与 ・対象疾患により使用量が異なる. (Pneumocystisではmax dose使う)"
+ },
+ {
+  "class": "ニューキノロン (QL)系",
+  "generic": "シプロフロキサシン",
+  "brand": "シプロキサン",
+  "abbr": "CPFX",
+  "dose": "300mg q12h",
+  "effect": "第1世代ニューキノロン",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "✕",
+   "MSSA": "✕",
+   "緑膿菌": "●",
+   "嫌気": "✕"
+  },
+  "organ": {},
+  "note": "・グラム陰性菌がメイン 腸内細菌 (PEK)や緑膿菌, SPACEカバー, モラキセラ, インフルエンザ菌もカバー →マイコプラズマ, クラミドフィラ, クラミジア, レジオネラもカバー ・前立腺炎の第一選択 ・グラム陽性菌カバーは不十分, また嫌気 (Bacteroides fragilis)カバーはなし →MSSA, MRSA, 溶連菌, 肺炎菌, 腸球菌 (Enterococcus)には単剤で使用しない 腸球菌はUTIではニューキノロン系を使用することもあるが血流感染などでは 治療不良になるのでin-vitroで感受性があっても使用しないことが原則. ・抗結核薬のセカンドラインとして使う. MACの治療薬である."
+ },
+ {
+  "class": "ニューキノロン (QL)系",
+  "generic": "レボフロキサシン",
+  "brand": "クラビット",
+  "abbr": "LVFX",
+  "dose": "500mg QOD",
+  "effect": "第2世代ニューキノロン",
+  "coverage": {
+   "MRSA": "▲",
+   "腸球菌": "✕",
+   "Strep": "●",
+   "MSSA": "✕",
+   "緑膿菌": "●",
+   "嫌気": "✕",
+   "非定型": "●"
+  },
+  "organ": {
+   "前立腺": "●"
+  },
+  "note": "緑膿菌: 500mg NS100, 1h(div.), QOD"
+ },
+ {
+  "class": "ニューキノロン (QL)系",
+  "generic": "モキシフロキサシン (経口)",
+  "brand": "",
+  "abbr": "MFLX",
+  "dose": "",
+  "effect": "第3世代ニューキノロン",
+  "coverage": {
+   "MRSA": "▲",
+   "腸球菌": "✕",
+   "Strep": "●",
+   "MSSA": "✕",
+   "緑膿菌": "●",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": "・第2世代ニューキノロン＋嫌気性菌 (Bacteroides fragilis) →緑膿菌を含むグラム陰性菌＋肺炎球菌＋嫌気性菌をカバー ナイセリア (淋菌), モラキセラ, インフルエンザ菌のカバー ・グラム陽性菌の一部＋グラム陰性菌＋嫌気性菌という 非常に広い範囲をカバーしている. →ただしMSSA, MRSA, 腸球菌には単独使用禁止 ・MAC治療薬 ・肝代謝なのでUTIには使用しないことに注意する."
+ },
+ {
+  "class": "ニューキノロン (QL)系",
+  "generic": "パズフロキサシン",
+  "brand": "",
+  "abbr": "PZFX",
+  "dose": "",
+  "effect": "第3世代ニューキノロン",
+  "coverage": {
+   "MRSA": "▲",
+   "腸球菌": "✕",
+   "Strep": "●",
+   "MSSA": "✕",
+   "緑膿菌": "●",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": "・第2世代ニューキノロン＋嫌気性菌 (Bacteroides fragilis) →緑膿菌を含むグラム陰性菌＋肺炎球菌＋嫌気性菌をカバー ナイセリア (淋菌), モラキセラ, インフルエンザ菌のカバー ・グラム陽性菌の一部＋グラム陰性菌＋嫌気性菌という 非常に広い範囲をカバーしている. →ただしMSSA, MRSA, 腸球菌には単独使用禁止 ・MAC治療薬"
+ },
+ {
+  "class": "ニューキノロン (QL)系",
+  "generic": "ガレノキサシン (国内のみ, 経口)",
+  "brand": "",
+  "abbr": "GFLX",
+  "dose": "",
+  "effect": "第3世代ニューキノロン",
+  "coverage": {
+   "MRSA": "▲",
+   "腸球菌": "✕",
+   "Strep": "●",
+   "MSSA": "✕",
+   "緑膿菌": "●",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": "・第2世代ニューキノロン＋嫌気性菌 (Bacteroides fragilis) →緑膿菌を含むグラム陰性菌＋肺炎球菌＋嫌気性菌をカバー ナイセリア (淋菌), モラキセラ, インフルエンザ菌のカバー ・グラム陽性菌の一部＋グラム陰性菌＋嫌気性菌という 非常に広い範囲をカバーしている. →ただしMSSA, MRSA, 腸球菌には単独使用禁止 ・MAC治療薬"
+ },
+ {
+  "class": "グリコペプチド系",
+  "generic": "バンコマイシン",
+  "brand": "静注バンコマイシン / 内服バンコマイシン",
+  "abbr": "VCM",
+  "dose": "15mg/kg q12h (初回投与量は薬剤師に相談) / 125mg q6h",
+  "effect": "抗MRSA薬, MRCNSもカバー",
+  "coverage": {
+   "MRSA": "●",
+   "腸球菌": "●",
+   "Strep": "●",
+   "MSSA": "●"
+  },
+  "organ": {},
+  "note": "・分子量が大きくアレルギー性がある. 投与後に全身状態が悪化した場合は, 治療不良 (効いていない)のか 薬剤アレルギーなのかを鑑別する必要がある. またVCM耐性黄ブ菌 (VRSA)には注意する. ・適応菌種 MRSA, メチシリン耐性コアグラーゼ陰性ブ菌(MRSE / MRCNSとも) 腸球菌 (VCM感受性の腸球菌をVSEという) ペニシリン耐性肺炎球菌 PRSPとPC耐性の溶連菌 コリネバクテリウム, バチルスなど →MRSAやPRSPの髄膜炎のときにはVCM > TEIC"
+ },
+ {
+  "class": "グリコペプチド系",
+  "generic": "テイコプラニン",
+  "brand": "テイコプラニン / タゴシッド",
+  "abbr": "TEIC",
+  "dose": "12mg/kg q12h",
+  "effect": "VCMのプロドラッグ",
+  "coverage": {
+   "MRSA": "●",
+   "腸球菌": "●",
+   "Strep": "●",
+   "MSSA": "●"
+  },
+  "organ": {},
+  "note": "一日目: 12g/kg q12h 二日目:"
+ },
+ {
+  "class": "ストレプトグラミン系",
+  "generic": "キヌプリスチン・ダルホプリスチン",
+  "brand": "シナシッド",
+  "abbr": "QND",
+  "dose": "",
+  "effect": "臨床ではあまり使用されない.",
+  "coverage": {},
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "オキサゾリジノン系",
+  "generic": "リネゾリド",
+  "brand": "ザイボックス",
+  "abbr": "LZD",
+  "dose": "600mg q12h",
+  "effect": "新規抗MRSA薬, 多剤耐性GPCの重症感染症",
+  "coverage": {
+   "MRSA": "●"
+  },
+  "organ": {},
+  "note": "・静菌的 (bacterostatic)なのでMRSAに使わない場合もある. VRE (ABPC, VCM耐性腸球菌)の場合に使う. →VCM, TEIC, DAPTを基本的に使う. ・適応 \"多剤耐性のGPC\" VRE (バンコマイシン耐性腸球菌) MRSE (メチシリン耐性コアグラーゼ陰性ブドウ球菌) MRSA (MIC >2mcg/lの場合, 血流感染, IEは除く) 肺炎球菌 (市中肺炎の第一選択ではない) →多剤耐性GPCが想定される重症感染症, FN ※皮膚軟部組織感染症, 肺炎, 血流感染を除く"
+ },
+ {
+  "class": "リポペプチド系",
+  "generic": "ダプトマイシン",
+  "brand": "キュビシン",
+  "abbr": "DAPT",
+  "dose": "6mg/kg QOD",
+  "effect": "",
+  "coverage": {
+   "MRSA": "●"
+  },
+  "organ": {},
+  "note": "IEなら増量を考慮する"
+ },
+ {
+  "class": "テトラサイクリン系",
+  "generic": "ミノマイシン",
+  "brand": "ミノマイシン",
+  "abbr": "MINO",
+  "dose": "100mg q12h",
+  "effect": "",
+  "coverage": {
+   "MSSA": "✕",
+   "緑膿菌": "✕",
+   "非定型": "●"
+  },
+  "organ": {},
+  "note": "・腎機能による調節が不要. ・GPCでは MSSA, 肺炎球菌は耐性化により使用できない. ・腸球菌は VCM耐性腸球菌 (VRE)治療薬であったが今は LZDの登場により使用が限定される. ・GNRでは 緑膿カバーなし, 感受性があれば使用できるが 耐性化が深刻. モラキセラ, インフル菌はカバー. ・嫌気カバーなし ■DOXY / MINOの主な使用は以下の通り. ・非定型肺炎 マイコプラズマ, クラミドフィラ (C. pneumoniae), クラミジア, レジオネラ ・その他以下の感染症 リケッチア Q熱 (Coxiella burnetti), メフロキン耐性熱帯マラリア )Plasmodium falciparum)の予防 ライム病 (Borrelia burgdorfi) ブルセラ症 (Brucella spp.) 猫ひっかき病 (Bartonella henselae)"
+ },
+ {
+  "class": "テトラサイクリン系",
+  "generic": "ドキシサイクリン",
+  "brand": "ビブラマイシン",
+  "abbr": "DOXY",
+  "dose": "",
+  "effect": "",
+  "coverage": {
+   "MSSA": "✕",
+   "緑膿菌": "✕"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "グリシルサイクリン系",
+  "generic": "チゲサイクリン",
+  "brand": "タイガシル",
+  "abbr": "TGC",
+  "dose": "",
+  "effect": "DOXY / MINO耐性化を克服した広域抗菌薬",
+  "coverage": {
+   "MRSA": "●",
+   "MSSA": "✕",
+   "EKPSCE": "EKSCE",
+   "緑膿菌": "✕",
+   "嫌気": "●"
+  },
+  "organ": {},
+  "note": "・多剤耐性GPCのMRSA, VRE, PRSPをカバーしている. ・緑膿菌とProteusを除く腸内細菌 カバー ・嫌気性菌 Bacteroides fragilis カバー"
+ },
+ {
+  "class": "リンコマイシン系",
+  "generic": "クリンダマイシン",
+  "brand": "ダラシン",
+  "abbr": "CLDM",
+  "dose": "600mg q8h",
+  "effect": "",
+  "coverage": {
+   "MRSA": "✕",
+   "腸球菌": "●",
+   "Strep": "●",
+   "MSSA": "●",
+   "嫌気": "●"
+  },
+  "organ": {
+   "CNS": "✕",
+   "骨": "●",
+   "膿瘍": "●"
+  },
+  "note": "・MRSA以外のGPC, 横隔膜より上の嫌気性菌がターゲット. ・MSSAにおいてEMとCLDMの交差耐性に注意する. ・CLDMの他, ABPC/SBTが選択できる. 横隔膜より下の腹腔内感染症とSSIへの投与は非推奨 →BacteroidesのCLDM感受性が30%以下なので.. ・使いかたとしては βラクタム系アレルギーがある患者の誤嚥性肺炎 Toxic shock syndromeなどの毒素産生抑制目的 経口治療をしたい誤嚥性肺炎の<オーグメンチン>が使用できない症例"
+ },
+ {
+  "class": "リファンピシン",
+  "generic": "リファジン",
+  "brand": "リマクタン",
+  "abbr": "RFP",
+  "dose": "600mg QOD",
+  "effect": "",
+  "coverage": {},
+  "organ": {},
+  "note": ""
+ },
+ {
+  "class": "メトロニダゾール",
+  "generic": "メトロニダゾール",
+  "brand": "フラジール / アネメトロ",
+  "abbr": "MNZ",
+  "dose": "500mg q6h",
+  "effect": "横隔膜より下 (腸管)の嫌気性菌が標的. 嫌気性菌 (Bacteroides), CDIの1st",
+  "coverage": {
+   "嫌気": "●"
+  },
+  "organ": {
+   "CNS": "●"
+  },
+  "note": "経口: 500mg 3X"
+ },
+ {
+  "class": "ポリペプチド系",
+  "generic": "コリスチン",
+  "brand": "オルドレブ",
+  "abbr": "CL",
+  "dose": "5mg/kg単回→2.5mg/kg q12h",
+  "effect": "",
+  "coverage": {
+   "緑膿菌": "●"
+  },
+  "organ": {},
+  "note": ""
+ }
+]

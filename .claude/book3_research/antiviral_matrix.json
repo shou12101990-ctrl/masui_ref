@@ -1,0 +1,84 @@
+[
+ {
+  "kind": "antiviral",
+  "class": "",
+  "generic": "バラシクロビル",
+  "brand": "バラクルード",
+  "abbr": "VACV",
+  "dose": "",
+  "effect": "HBV",
+  "coverage": {
+   "対象ウイルス": "HBV"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antiviral",
+  "class": "",
+  "generic": "アシクロビル",
+  "brand": "",
+  "abbr": "ACV",
+  "dose": "750mg q8h",
+  "effect": "HHV",
+  "coverage": {
+   "対象ウイルス": "HHV"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antiviral",
+  "class": "",
+  "generic": "ホスカビル",
+  "brand": "ホスカルネット",
+  "abbr": "",
+  "dose": "",
+  "effect": "CMVとHHV-6",
+  "coverage": {
+   "対象ウイルス": "CMVとHHV-6"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antiviral",
+  "class": "",
+  "generic": "ガンシクロビル",
+  "brand": "",
+  "abbr": "GCV",
+  "dose": "",
+  "effect": "CMV",
+  "coverage": {
+   "対象ウイルス": "CMV"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antiviral",
+  "class": "",
+  "generic": "レテルモビル",
+  "brand": "プレバイミス",
+  "abbr": "",
+  "dose": "",
+  "effect": "CMV 造血幹細胞移植後のCMV予防",
+  "coverage": {
+   "対象ウイルス": "CMV 造血幹細胞移植後のCMV予防"
+  },
+  "organ": {},
+  "note": ""
+ },
+ {
+  "kind": "antiviral",
+  "class": "",
+  "generic": "オセルタミビル",
+  "brand": "タミフル",
+  "abbr": "",
+  "dose": "",
+  "effect": "",
+  "coverage": {},
+  "organ": {},
+  "note": ""
+ }
+]

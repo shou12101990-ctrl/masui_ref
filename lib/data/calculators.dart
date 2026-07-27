@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../screens/abx_matrix_screen.dart';
 import '../screens/adult_induction_screen.dart';
 import '../screens/allowable_blood_loss_screen.dart';
 import '../screens/be_correction_screen.dart';
@@ -114,5 +115,12 @@ final List<CalculatorEntry> kCalculators = [
     subtitle: 'Aldrete / White-Song / MPADSS',
     color: const Color(0xFF2E7D32),
     build: () => const DischargeScoreScreen(),
+  ),
+  CalculatorEntry(
+    icon: Icons.grid_on,
+    title: '抗微生物薬 一覧表',
+    subtitle: 'カバー範囲 / 臓器移行性を表で比較',
+    color: const Color(0xFF5C8A3A),
+    build: () => const AbxMatrixScreen(),
   ),
 ];
