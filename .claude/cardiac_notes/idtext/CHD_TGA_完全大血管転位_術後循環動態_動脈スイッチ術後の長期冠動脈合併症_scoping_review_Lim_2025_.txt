@@ -1,0 +1,639 @@
+
+[[p1]]
+Long-T erm Coronary Artery Complications
+Following the Arterial Switch Operation for
+T ransposition of the Great Arteries — A
+Scoping Review
+q?rM?kK?aal?P?K?i?kK?laK?ar?QKR?K
+and Samuel Menahem, DMedHSc 3,4,5
+Abstract
+Coronary artery complications following the arterial switch operation(ASO) for transposition of the great arteries have become increas-
+ingly relevant as those affected are exposed to the comorbidities of later years. A scoping review was undertaken to explore the incidence,
+clinical features, and managementof the long-term coronary complications after the ASO. The selection criteria yielded 73 articles They
+recorded few long-term coronary artery complications following the ASO, which were difﬁcult to recognize as most affected patients’
+symptoms were absent or nonspeciﬁc. In patients with suspected coronary artery involvement, coronary angiography or computed
+tomography provided conﬁrmation, with signiﬁcant stenosis generally managed by percutaneous trans-catheter interventions.
+Keywords
+adult congenital heart, arterial switch operation, transposition the great vessels, coronary artery complications, outcomes
+Submitted August 5, 2024; Accepted December 11, 2024.
+Introduction
+Transposition of the great arteries (TGA) is a common cause of
+cyanosis in the newborn. 1–3 It is a serious congenital abnormal-
+ity which if left untreated has a signi ﬁcant morbidity and mor-
+tality arising from increasing hypoxia as the systemic and
+pulmonary circulations function side by side in parallel rather
+than in series.
+4 However, if diagnosed in a timely fashion and
+managed appropriately, the immediate and long-term outlooks
+are excellent.
+5 Many patients in skilled hands are diagnosed
+prenatally by a morphological scan at 20 to 22 weeks. 6
+In Australia, the incidence of TGA is 0.3 to 0.6 per 1,000 live
+births, accounting for 4% to 5% of all congenital heart disease
+(CHD).3 Prenatal diagnosis via detailed fetal echocardiogram
+has improved over the years, 6–8 allowing for planned perinatal
+care at specialist centers. As part of the immediate management,
+neonates generally require a balloon atrial septostomy to
+improve systemic oxygenation.
+9 This catheter intervention is
+followed by an arterial switch operation (ASO) ideally within
+the ﬁrst two weeks of life to preempt left ventricular atrophy fol-
+lowing the drop in the pulmonary vascular resistance.
+10 With
+major improvements in surgical techniques, the ASO currently
+has a low operative mortality of 2%.
+11 It has excellent long-term
+outcomes compared with the atrial switch operation 12 as the left
+ventricle assumes its role as the systemic ventricle. In addition,
+unlike the atrial diversion procedure, there is less atrial manip-
+ulation resulting in fewer atrial arrhythmias.
+13
+A crucial part of the ASO involves the translocation of the cor-
+onary arteries from the previous aortic root to the pulmonary root,
+which becomes the neoaortic root. The translocation can lead to
+mechanical kinking, distortion, compression, and scarring of the
+coronary arteries, which can also be damaged during the
+surgery.14 Over the years, surgeons have mastered the technique,
+with successful outcomes even for those newborns with TGA and
+intramural coronary arteries.15 However, later complications of
+the coronary arteries may develop and include local stenosis
+and occlusions, still without clear recommendations as their
+early diagnosis and subsequent management.
+16
+The medium and long-term complications of the coronary
+artery translocation in the ASO is less well documented, and
+become especially important in the light of an increasing popula-
+tion of successfully treated aging patients who are at risk of devel-
+oping atherosclerotic (atheromatous) cardiovascular disease.
+17
+This review aims to identify and synthesize the reported
+ﬁndings of the prevalence, clinical presentation, investigations,
+and management of coronary artery complications following the
+1 Department of Medical Education, University of Melbourne, Parkville,
+Victoria, Australia
+2 Department of Cardiology, The Royal Melbourne Hospital, Parkville, Victoria,
+Australia
+3 Department of Cardiology, Cabrini Health, Malvern, Victoria, Australia
+4 Department of Paediatrics, School of Clinical Sciences, Monash University,
+Clayton, Victoria, Australia
+5 Murdoch Children ’s Research Institute and Department of Paediatrics,
+University of Melbourne, Parkville, Victoria, Australia
+Corresponding Author:
+S. Menahem, Melbourne Children ’s Cardiology, Adult Congenital Heart, 53
+Kooyong Road, Caul ﬁeld, Victoria 3161, Australia.
+Email: samuel.menahem@monash.edu
+Review Article
+World Journal for Pediatric and
+Congenital Heart Surgery
+2025, Vol. 16(3) 402-408
+© The Author(s) 2025
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/21501351241311280
+journals.sagepub.com/home/pch
+[[p2]]
+ASO. It will not comment on other complications of the ASO
+which include dilation of the aortic root, development of neoaortic
+valve incompetence, and the now less frequent pulmonary artery
+stenosis, currently being addressed at the Royal Children ’s
+Hospital, Melbourne, which is studying the long-term ASO
+survivors.
+Materials and Methods
+A scoping review was undertaken based on the principles of
+Arksey and O ’Malley,18 and which followed the scoping
+review checklist of the Preferred Reporting Items for
+Systematic reviews and Meta-Analyses extension for Scoping
+Reviews (PRISMA-ScR). 19 This methodology involved four
+steps: identifying the research question, systematically search-
+ing for relevant studies, screening and selecting studies which
+met the inclusion criteria, and summarizing their ﬁndings.
+Ethics approval was not deemed necessary as only published
+data were reviewed.
+Research question: What do we know about the medium and
+long-term coronary artery complications following the ASO for
+TGA?
+Systematic search: A systematic search was done during the
+months of April and May 2024 using two databases: PubMed/
+Medline and Embase. All identi ﬁed studies were transferred to
+EndNote for analysis.
+Selection of studies: Studies were selected by the following
+inclusion criteria:
+PM?r??????
+the ASO for TGA
+2. Studies that addressed coronary artery complications
+such as coronary artery –related lesions including steno-
+sis, occlusions, and/or involved interventions, the devel-
+opment of ischemia, including the morbidity and
+mortality that occurred 30 days or later following the
+ASO.
+These exclusion criteria were applied:
+PM?`??????????
+reported in the English language
+2. Case reports, commentaries, editorials, and preprints
+The ﬁrst screening involved removing duplicate articles. Next
+was scanning the titles and abstracts to see if they ﬁt with the
+inclusion criteria. Once selected, the article ’s full text was
+reviewed, and a summary was extracted and analyzed
+19 (See
+Figure. 1).
+Data extraction: A data extraction table was set up in an
+Excel 2010 spreadsheet with the following information
+included from each study: authors, year of publication, study
+location, objectives, methodology, participants, and ﬁndings.
+A summary of the ﬁndings are included within the body of
+the paper and in the tables.
+Results
+The initial search of two databases yielded a total of 205 arti-
+cles. Duplicate articles were discarded (n = 30). Further articles
+were excluded after the title and abstract were studied (n = 115).
+Following review of the references, 13 additional articles were
+included, resulting in a total of 73 articles to be analyzed
+(Figure 2). Table S1 provides a summary of the 73 studies —
+the references, objectives, methods, participants, and results.
+`?????ﬁ????s?PM
+Abbreviations
+ASO arterial switch operation
+CHD congenital heart disease
+CTCA computed tomography coronary angiography
+PRISMA-ScR Preferred Reporting Items for Systematic reviews
+and Meta-Analyses extension for Scoping
+Reviews
+TGA transposition of the great arteries
+s??PM?r??l?eM
+Coronary artery
+complications Main ﬁndings from articles studied
+Prevalence Depends on method used to investigate, generally 3% to 11% though studies involving CT coronary angiography and
+intravascular ultrasound have found higher prevalences
+Clinical presentation Nonspeci ﬁc symptoms such as mild chest pain or no symptoms due to surgical denervation and manipulation of the
+coronary arteries
+Investigations Multimodal imaging is required to adequately investigate complications: CT coronary angiography may be
+performed to assess coronary artery anatomy and guide the need for selective coronary angiography, stress
+echocardiography and cardiac magnetic resonance imaging may be useful to detect issues with myocardial
+perfusion; nuclear scintigraphy and cross-sectional echocardiography are less useful.
+Management If complications are found, patients should be managed with the assistance of an adult interventional cardiologist as
+these patients may be candidates for percutaneous coronary intervention or less commonly, internal thoracic
+artery coronary bypass. Preventative health measures such as aggressive screening and management of
+cardiovascular risk factors should be instituted and include obesity, smoking, systemic hypertension, a sedentary
+lifestyle and hypercholesterolemia.
+Abbreviation: CT , computed tomography.
+Lim et al 403
+[[p3]]
+Medium to Long-Term Coronary Artery Complications
+The prevalence of late coronary artery abnormalities in large
+cohort retrospective studies is found to be between 3% and
+11%.
+20 This prevalence may be an underestimate as most
+patients do not routinely undergo diagnostic coronary angiogra-
+phy. Indeed, studies involving cardiac imaging of asymptom-
+atic ASO patients found a much higher prevalence. One study
+observed that 43% of their patients who underwent coronary
+angiography had abnormal coronary ﬁndings.21 A further
+study utilizing intravascular ultrasound noted 89% of their
+patients had some degree of intimal thickening in at least one
+major coronary artery. 22 This prevalence was signi ﬁcantly
+higher when compared with an intravascular ultrasound study
+of “normal hearts ” where signi ﬁcant intimal thickening
+suggestive of atherosclerosis was found in only 17% of those
+under 20 years and 37% in those who were 20 to 29 years of
+age.23 Additionally, studies comparing adults with CHD
+which included patients with TGA with those without CHD,
+have found the former group had a 1.6-fold increased risk of
+myocardial infarction,24 and double the risk of comorbidities
+such as coronary artery disease. 25 These ﬁndings are especially
+important for the adults who have had an ASO as they age,
+where the shift toward acquired heart disease such as atheroscle-
+rotic cardiovascular disease becomes increasingly relevant.
+17
+Symptoms of Coronary Artery Involvement
+Arterial switch operation patients with coronary artery compli-
+cations often have nonspeci ﬁc or no symptoms.
+26 In part, these
+e?PM?r?ﬂM?`??o???PXM
+404 World Journal for Pediatric and Congenital Heart Surgery 16(3)
+[[p4]]
+observations may be due to surgical denervation of the coronary
+arteries during their translocation in the ASO. 27 Studies have
+reported a signiﬁcant proportion of patients who are asymptom-
+atic but still found to have coronary artery obstruction via com-
+puted tomography (CT) or direct coronary angiography.
+28
+Others have noted patients with mild chest pain during exertion
+to be indicative of myocardial ischemia.
+16 These observations
+add to the dif ﬁculty of diagnosing coronary artery obstruction
+and ischemic heart disease based on the history, supporting
+the need for routine coronary artery evaluation.
+Investigation of Coronary Artery Complications
+Current American and European guidelines for the management
+of adult patients post ASO-TGA recommend that investigation
+and management of suspected coronary abnormalities should be
+symptom driven.
+29,30 However, symptoms as noted above are
+often nonspeci ﬁc or absent. Various imaging modalities are
+used to investigate coronary artery complications and are sum-
+marized in Table 2.
+Noninvasive investigations include a simple electrocardio-
+gram (ECG), an exercise stress test, echocardiography extend-
+ing to a stress echocardiogram, and myocardial nuclear
+perfusion scans. However, studies have documented that CT
+coronary angiography (CTCA) or direct coronary angiography
+yield more accurate results.
+31,32 Stress echocardiography results
+were found to concur with stress myocardial perfusion
+studies;
+33 CTCA as well as direct coronary angiography. 34,35
+Out of the 73 papers reviewed, 50 investigated the prevalence
+of coronary artery lesions following the ASO and speci ﬁed
+the imaging methods used. The majority of these studies uti-
+lized CTCA or direct coronary angiography as the con ﬁrmatory
+method of diagnosis. A third of these studies involved a
+combination of imaging methods. Very few studies utilized
+nuclear scintigraphy, cardiac magnetic resonance imaging,
+and/or coronary intravascular ultrasound as their only method
+of investigation. The overall consensus from these studies sug-
+gested echocardiograms and/or myocardial perfusion studies as
+routine investigations for coronary artery involvement followed
+by CTCA and/or direct coronary angiography in select patients
+as the gold diagnostic standard.
+36 However, further study is
+required to provide clear guidelines as to which patients
+require coronary angiography. That is in addition to determin-
+ing what tests should be done routinely as well as their
+timing in a generally asymptomatic population.
+Management of Coronary Artery Complications
+Coronary artery interventions. The input of an adult coronary
+interventional cardiologist is generally required in the manage-
+ment of medium to long-term coronary artery complications
+following the ASO. They have the experience in understanding
+the anatomy of the coronary arteries, the signi ﬁcance of any
+abnormality, and the outcome of the various revascularization
+procedures available. 26 Angiography will determine the
+severity of coronary artery stenosis and the presence or
+absence of collateral blood ﬂow to determine if coronary inter-
+vention is necessary.
+28,37 Percutaneous coronary interventions
+can be performed in most cases with good results of up to
+95% reduction in the degree of stenosis ﬁve years after interven-
+tion.
+14 Coronary artery bypass surgery may occasionally be
+necessary in 2% to 9% of patients. 38,39 In general overall,
+freedom from coronary artery intervention at 20 years after
+the ASO ranges from 75% to 99%, depending on the reporting
+center.5,40–42
+T able 2. Summary of Investigations for Coronary Artery Complications.
+Imaging modality Indications Bene ﬁts Limitations
+Cross-sectional
+transthoracic
+echocardiogram
+ Screening test to review cardiac anatomy
+and function and to recognize obvious
+myocardial dysfunction
+ Noninvasive
+ Inexpensive
+ Acoustic windows may limit
+imaging of coronary arteries
+ Insufﬁcient to diagnose coronary
+artery complications
+Stress echocardiogram  Detect problems with myocardial perfusion  Assesses myocardial perfusion and
+contractile reserve
+ Image quality especially during
+exercise may be inadequate for
+diagnosis
+Intravascular ultrasound  Assess the walls of the coronary arteries in
+vivo
+ Allows for transmural imaging
+ Generally correlated with angiography
+ﬁndings
+ Invasive
+ May cause transient coronary
+spasm
+Cardiac magnetic
+resonance imaging
+ Assess cardiac anatomy and function
+ Assess myocardial perfusion
+ Image proximal coronary arteries
+ Noninvasive
+ Radiation-free
+ Image quality not limited by patient size
+or previous surgery
+ Long cycle times
+ Implanted metallic clips or devices
+may cause image artifact
+Nuclear imaging  May be used as an adjunct to detect
+myocardial perfusion issues
+ SPECT can be combined with maximal
+exercise to assess perfusion with high
+stress
+ Exposure to ionizing radiation
+CT coronary angiography  Coronary artery imaging
+ T o guide indication for direct coronary
+angiography
+ Short acquisition times
+ Detailed image quality
+ Radiation involved
+ Intravenous contrast needed
+Direct coronary
+angiography
+ Evaluate coronary artery patency  Gold standard for diagnosis of coronary
+artery lesions
+ Detailed image quality
+ Invasive
+ May be dif ﬁcult to perform
+because of altered site of ostia
+Abbreviation: CT , computed tomography; SPECT , single photon emission computer tomography.
+Lim et al 405
+[[p5]]
+Cardiovascular risk factors. The development of atherosclerotic
+cardiovascular disease increases with the increasing age of the
+ASO survivors. It is recommended that this at-risk population
+undergo more intense screening and management of modi ﬁable
+cardiovascular risk factors, including diet, physical activity,
+tobacco smoking, hypertension, obesity, and dyslipidemia.
+43
+In particular, proactive prevention of the dyslipidemic athero-
+genic triad of elevated triglycerides, low high-density lipopro-
+tein cholesterol, and high low-density lipoprotein cholesterol
+can help prevent the development and/or reduce the risk of ath-
+erosclerotic cardiovascular disease.
+44 Should a statin be pre-
+scribed routinely for all ASO patients remains unclear.
+Comment
+This study used a structured scoping review methodology to
+ensure a systematic search of the literature. It involved the anal-
+ysis of a large number of relevant articles with results from the
+ﬁrst successful ASO in 1975 to the present. It attempted to syn-
+thesize emerging evidence pertaining to an evolving and now
+aging population of adult ASO-TGA survivors.
+Limitations include a lack of randomized control studies
+involving TGA patients following ASO due to their relatively
+small numbers, further burdened by ethical considerations.
+45
+There is also limited research on the long-term outcomes of
+the ASO for TGA beyond 20 years as the numbers to date are
+few but continue to grow. 46
+Our Current Practice
+With the absence of clear guidelines, our patients, if well, have
+yearly clinical reviews with a routine ECG, an echocardiogram
+together with seeking out and managing cardiovascular risk
+factors such as obesity, hypertension, and hypercholesterol-
+emia. Any suggestion of possible ischemic symptoms including
+nonspeciﬁc chest pain warrant a stress echocardiogram and/or
+exercise stress test, generally followed by a CTCA. If the
+latter shows any abnormalities, the advice of an adult interven-
+tional cardiologist is obtained to determine the need for percu-
+taneous and/or surgical coronary artery intervention. Once
+ischemia develops, our approach to revascularization is in line
+with international guidelines for the management of atheroscle-
+rotic cardiovascular disease, which recommends coronary
+revascularization in the presence of signi ﬁcant ischemia.
+Treatment decisions are patient centered, with an individualized
+approach that considers features such as collateralization or
+absence of ischemia and patient preferences and goals.
+Suggested Future Research
+Further study remains paramount to decide what investigations
+are required, whether routinely or following the development of
+symptoms so as to guide the need for more invasive investigations
+such as a CTCA and/or selective coronary angiography. In addi-
+tion should such affected patients be treated differently from the
+general adult population who develop coronary artery disease,
+and should there be a lower threshold for interventions and/or
+medication such as a statin and an tihypertensive treatment? The
+answers to these questions will further aid the long-term manage-
+ment of our patients.
+Conclusions
+Medium to long-term coronary artery complications following
+the ASO for TGA may have signi ﬁcant health implications
+for the aging TGA population. This review found that such
+complications are infrequent, and difﬁcult to diagnose clinically
+as many of the patients have nonspeci ﬁc or no symptoms. A
+plethora of investigations are available but with limited guide-
+lines as to what is best and whether one or more should be
+done routinely or in selected patients. The results of any inter-
+ventions are also limited as the numbers affected are small. In
+addition, the full impact of atherosclerosis with increasing age
+of this at-risk population still needs to be determined — a
+study in progress.
+Acknowledgments
+Ms Poh Chua, librarian at the Royal Children ’s Hospital, Melbourne,
+assisted in the search strategy.
+Authors’Statement
+RSL researched and summarized the studies arising from this review.
+She wrote up the ﬁrst draft of this paper, addressed any issues arising
+from discussion between the authors, and revised this paper accord-
+ingly. JL reviewed the manuscript and made pertinent comments
+related to the investigations and management of coronary artery com-
+plications in the adult population, a major component of his practice.
+SM conceived the study and guided its development, design, and pro-
+gress. He critically reviewed the multiple drafts and helped prepare the
+ﬁnal submission.
+Declaration of Con ﬂicting Interests
+The author(s) declared no potential con ﬂicts of interest with respect to
+the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no ﬁnancial support for the research, author-
+ship, and/or publication of this article.
+ORCID iDs
+Rachel S. Lim https:/ /orcid.org/0009-0008-1125-5101
+Jeffrey Lefkovits https:/ /orcid.org/0000-0003-1923-4571
+Samuel Menahem https://orcid.org/0000-0002-6915-2040
+Supplemental Material
+Supplemental material for this article is available online.
+References
+PM?q?orM?l????Y?????—
+part II — cyanotic heart defects. Children. 2019;6(4):54. doi:
+103390/children 6040054
+406 World Journal for Pediatric and Congenital Heart Surgery 16(3)
+[[p6]]
+2. Warnes CA. Transposition of the great arteries. Circulation. 2006;
+114(24):2699-2709. doi:10.1161/CIRCULATIONAHA.105.592352
+3. Welfare AloHA. Congenital heart disease in Australia. 2019.
+www.aihw.gov/au/reports/heart-stroke-vascular disease in
+Australia/summary. Accessed January 21, 2025.
+4. Melbourne TRCsH. Transposition of the Great Arteries. The
+Royal Children ’s Hospital Melbourne. https:/ /www.rch.org.au/
+cardiology/heart_defects/transposition_of_the_great_arteries/
+Accessed January 21, 2025.
+5. Fricke TA, Buratto E, Weintraub RG, et al. Long-term outcomes
+of the arterial switch operation. J Thorac Cardiovasc Surg . 2022;
+1(1):212-219.
+6. Bravo-Valenzuela NJ, Peixoto AB, Araujo Junior E. Prenatal
+diagnosis of transposition of the great arteries: an updated
+review. Ultrasonography. 2020;39(4):331-339. doi:10.14366/
+usg.20055
+7. Menahem S, Rotstein A, Meagher S. Rightward convexity of the
+great vessel arising from the anterior ventricle: a novel fetal
+marker for transposition of the great arteries. Ultrasound Obstet
+Gynecol. 2013;41(2):168-171. doi:10.1002/uog.11171
+8. Ravi P, Mills L, Fruitman D, et al. Population trends in prenatal
+detection of transposition of great arteries: impact of obstetric
+screening ultrasound guidelines. Ultrasound Obstet Gynecol .
+2018;51(5):659-664. doi:10.1002/uog.17496
+9. Savorgnan F, Zaban NB, Elhoff JJ, Ross MM, Breinholt JP. No dif-
+ference found in safety or efﬁcacy of balloon atrial septostomy per-
+formed at the bedside versus the catheterisation laboratory.
+Comparative study evaluation study. Cardiol Young. 2018;28(12):
+1421-1425. doi:1017/S1047951118001439
+10. Bigdelian H, Sedighi M. Comparative outcomes of primary
+arterial switch operation for t ransposition of great arteries
+within the ﬁrst month of life. JT e h r a nH e a r tC e n t. 2020;
+15(1):1-5.
+11. Jacobs JP, Jacobs ML, Mavroudis C, et al. Transposition of the great
+arteries: lessons learned about patterns of practice and outcomes
+from the Congenital Heart Surgery Database of the Society of
+Thoracic Surgeons. World J Pediatr Congenit Heart Surg . 2011;
+2(1):19-31. doi:10.1177/2150135110381392
+12. Kiener A, Kelleman M, McCracken C, Kochilas L, St Louis JD,
+Oster ME. Long-term survival after arterial versus atrial switch
+in d-transposition of the great arteries. Comparative study. Ann
+Thorac Surg . 2018;106(6):1827-1833. doi:10.1016/j.athoracsur.
+2018.06.084
+13. Rhodes LA, Wernovsky G, Keane JF, et al. Arrhythmias and intracar-
+diac conduction after the arterial switch operation. Research support,
+U.S. Gov’t. P.H.S.J Thorac Cardiovasc Surg. 1995;109(2):303-310.
+doi:10.1016/S0022-5223(95)70392-6
+14. Kampmann C, Kuroczynski W, Trubel H, Knuf M, Schneider M,
+Heinemann MK. Late results after PTCA for coronary stenosis
+after the arterial switch procedure for transposition of the great
+arteries. Ann Thorac Surg . 2005;80(5):1641-1646. doi:10.1016/j.
+athoracsur.2004.11.061
+15. Chen X, Cui H, Chen W, et al. Early and mid-term results of the
+arterial switch operation in patients with intramural coronary
+artery. Pediatr Cardiol . 2015;36(1):84-88. doi:10.1007/s00246-
+014-0968-5
+16. Angeli E, Formigari R, Pace Napoleone C, et al. Long-term coronary
+artery outcome after arterial switch operation for transposition of the
+great arteries. Review. Eur J Cardiothorac Surg . 2010;38(6):
+714-720. doi:10.1016/j.ejcts.2010.03.055
+17. Brida M, De Rosa S, Legendre A, et al. Acquired cardiovascular
+disease in adults with congenital heart disease. Eur Heart J .
+2023;44(43):4533-4548. doi:10.1093/eurheartj/ehad570
+18. Arksey H, O ’Malley L. Scoping studies: towards a methodologi-
+cal framework. Int J Soc Res Methodol. 2005;8(1):19-32. doi:10.
+1080/1364557032000119616
+19. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020
+statement: an updated guideline for reporting systematic
+reviews. Br Med J. 2021;372:n71. doi:10.1136/bmj.n71
+20. Tsuda T, Bhat AM, Robinson BW, Baffa JM, Radtke W. Coronary
+artery problems late after arterial switch operation for transposition
+of the great arteries. Circ J. 2015;79(11):2372-2379. doi:10.1253/
+circj.CJ-15-0485
+21. Veltman CE, Beeres S, Kalkman DN, et al. Variation in coronary
+anatomy in adult patients late after arterial switch operation: a com-
+puted tomography coronary angiography study. Comparative study
+research support. Non-U.S. Gov ’t. Ann Thorac Surg . 2013;96(4):
+1390-1397. doi:10.1016/j.athoracsur.2013.05.004
+22. Pedra SR, Pedra CA, Abizaid AA, et al. Intracoronary ultrasound
+assessment late after the arterial switch operation for transposition
+of the great arteries. J Am Coll Cardiol . 2005;45(12):2061-2068.
+doi:10.1016/j.jacc.2005.02.076
+23. Tuzcu EM, Kapadia SR, Tutar E, et al. High prevalence of coronary
+atherosclerosis in asymptomatic teenagers and young adults: evi-
+dence from intravascular ultrasound. Circulation. 2001;103(22):
+2705-2710. doi:10.1161/01.cir.103.22.2705
+24. Fedchenko M, Mandalenakis Z, Giang KW, Rosengren A,
+Eriksson P, Dellborg M. Long-term outcomes after myocardial
+infarction in middle-aged and older patients with congenital
+heart disease — A nationwide study. Eur Heart J . 2021;42(26):
+2577-2586. doi:10.1093/eurheartj/ehaa874
+25. Agarwal A, Thombley R, Broberg CS, et al. Age- and lesion-
+related comorbidity burden among US adults with congenital
+heart disease: a population-based study. Multicenter study research
+support. Non-U.S. Gov’t. J Am Heart Assoc . 2019;8(20):e013450.
+doi:10.1161/JAHA.119.013450
+26. Breinholt JP, John S. Management of the adult with arterial
+switch. Review. Methodist Debakey Cardiovasc J . 2019;15(2):
+133-137. doi:10.14797/mdcj-15-2-133
+27. Possner M, Buechel RR, Vontobel J, et al. Myocardial blood ﬂow
+and cardiac sympathetic innervation in young adults late after arte-
+rial switch operation for transposition of the great arteries.
+Multicenter study. Int J Cardiol . 2020;299:110-115. doi:10.
+1016/j.ijcard.2019.07.041
+28. Linglart L, Malekzadeh-Milani S, Gaudin R, Raisky O, Bonnet D.
+Outcomes of coronary artery obstructions after the arterial
+switch operation for transposition of the great arteries. J Thorac
+Cardiovasc Surg. 2024;168(2):331-341. doi:10.1016/j.jtcvs.2023.
+11.029
+29. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC
+guidelines for the management of adult congenital heart disease.
+Eur Heart J . 2021;42(6):563-645. doi:10.1093/eurheartj/ehaa554
+30. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guide-
+line for the management of adults with congenital heart disease: a
+report of the American College of Cardiology/American Heart
+Association Task Force on clinical practice guidelines. Practice guide-
+line systematic review.Circulation. 2019;139(14):e698-e800. doi:10.
+1161/CIR.0000000000000603
+31. Tsuda T, Baffa JM, Octavio J, et al. Identifying subclinical coro-
+nary abnormalities and silent myocardial ischemia after arterial
+Lim et al 407
+[[p7]]
+switch operation. Pediatr Cardiol . 2019;40(5):901-908. doi:10.
+1007/s00246-019-02085-4
+32. Michalak KW, Sobczak-Budlewska K, Moll JJ, et al. Can we
+predict potentially dangerous coronary patterns in patients with
+transposition of the great arteries after an arterial switch operation?
+Cardiol Young . 2019;29(11):1350-1355. doi:10.1017/S104795
+111900204X
+33. Kumar K, Sharma A, Patel C, et al. Feasibility and utility of aden-
+osine stress echocardiography in children following post-arterial
+switch operation: a comparison with technetium 99m-sestamibi
+myocardial perfusion SPECT (MPS). Comparative study.
+Pediatr Cardiol . 2021;42(4):891-897. doi:10.1007/s00246-021-
+02557-6
+34. Abreu SM, Antonio M, Marques H, Martins JDF, Pinto FF.
+Acquired anomalies of the coronary arteries after arterial switch
+operation. Usefulness of coronary computed tomography angiog-
+raphy and impact on follow-up. Rev Port Cardiol (Engl Ed). 2021;
+40(10):707-712. doi:10.1016/j.repce.2020.11.027
+35. Ou P, Celermajer DS, Marini D, et al. Safety and accuracy of
+64-slice computed tomography coronary angiography in children
+after the arterial switch operation for transposition of the great
+arteries. Comparative study evaluation study. JACC Cardiovasc
+Imaging. 2008;1(3):331-339. doi: 10.1016/j.jcmg.2008.02.005
+36. Sarris GE, Balmer C, Bonou P, et al. Clinical guidelines for the
+management of patients with transposition of the great arteries
+with intact ventricular septum. Practice guideline. Cardiol
+Young. 2017;27(3):530-569. doi:10.1017/S1047951117000014
+37. El-Segaier M, Lundin A, Hochbergs P, Jogi P, Pesonen E. Late
+coronary complications after arterial switch operation and their
+treatment. Catheter Cardiovasc Interv . 2010;76(7):1027-1032.
+doi:10.1002/ccd.22605
+38. Raju V, Burkhart HM, Durham LA III, et al. Reoperation after arterial
+switch: a 27-year experience. Comparative study evaluation study.
+Ann Thorac Surg . 2013;95(6):2105-2112; discussion 2112-2113.
+doi:10.1016/j.athoracsur.2013.02.040
+39. Rudra HS, Mavroudis C, Backer CL, et al. The arterial switch oper-
+ation: 25-year experience with 258 patients.Ann Thorac Surg. 2011;
+92(5):1742-1746. doi:10.1016/j.athoracsur.2011.04.101
+40. Angeli E, Raisky O, Bonnet D, Sidi D, Vouhe PR. Late reopera-
+tions after neonatal arterial switch operation for transposition of
+the great arteries. Eur J Cardiothorac Surg . 2008;34(1):32-36.
+doi:10.1016/j.ejcts.2008.04.007
+41. Khairy P, Clair M, Fernandes SM, et al. Cardiovascular outcomes
+after the arterial switch operation for D-transposition of the great
+arteries. Research support, Non-U.S. Gov ’t. Circulation. 2013;
+127(3):331-339. doi:10.1161/CIRCULATIONAHA.112.135046
+42. Koubsky K, Gebauer R, Tlaskal T, et al. Long-term survival and
+freedom from coronary artery reintervention after arterial switch
+operation for transposition of the great arteries: a population-based
+nationwide study. Comparative study research support. Non-U.S.
+Gov’t. J Am Heart Assoc . 2021;10(13):e020479. doi:10.1161/
+JAHA.120.020479
+43. Lui GK, Fernandes S, McElhinney DB. Management of cardio-
+vascular risk factors in adults with congenital heart disease.
+J Am Heart Assoc . 2014;3(6):e001076. doi:10.1161/JAHA.114.
+001076
+44. de Ferranti SD, Steinberger J, Ameduri R, et al. Cardiovascular
+risk reduction in high-risk pediatric patients: a scienti ﬁc statement
+from the American Heart Association. Circulation. 2019;139(13):
+e603-e634. doi:10.1161/CIR.0000000000000618
+45. Menahem S, Fink D, Mimouni FB. Trends in paediatric,
+neonatal, and adult cardiology publications over the past 10 years.
+Cardiol Young . 2014;24(2):297-302. doi:10.1017/S1047951113
+000292
+46. Morfaw F, Leenus A, Mbuagbaw L, Anderson LN, Dillenburg R,
+Thabane L. Outcomes after corrective surgery for congenital
+dextro-transposition of the arteries using the arterial switch tech-
+nique: a scoping systematic review. Meta-analysis systematic
+review. Syst Rev . 2020;9(1):231. doi:10.1186/s13643-020-
+01487-3
+408 World Journal for Pediatric and Congenital Heart Surgery 16(3)

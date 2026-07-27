@@ -1,0 +1,733 @@
+
+[[p1]]
+Citation: Singh, Y.; Chan, B.; Noori, S.;
+Ramanathan, R. Narrative Review on
+Echocardiographic Evaluation of
+Patent Ductus Arteriosus in Preterm
+Infants. J. Cardiovasc. Dev. Dis. 2024,
+11, 199. https://doi.org/10.3390/
+jcdd11070199
+Academic Editor: Martin Schweiger
+Received: 1 May 2024
+Revised: 24 June 2024
+`Y?QT?i?QOQS
+Published: 28 June 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Journal of
+Cardiovascular 
+Development and Disease
+Review
+Narrative Review on Echocardiographic Evaluation of Patent
+Ductus Arteriosus in Preterm Infants
+Yogen Singh 1,*
+ , Belinda Chan 2
+ , Shahab Noori 3 and Rangasamy Ramanathan 4,5
+1 Department of Pediatrics, Division of Neonatology, University of California—UC Davis Children’s Hospital,
+Sacramento, CA 95817, USA
+2 Department of Pediatrics, Division of Neonatology, University of Utah, Salt Lake City, UT 84132, USA;
+belinda.chan@hsc.utah.edu
+3 Division of Neonatology, Fetal and Neonatal Institute, Department of Pediatrics, Children’s Hospital Los
+Angeles, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA;
+snoori@chla.usc.edu
+4 Department of Pediatrics, Division of Neonatology, University of Southern California,
+Los Angeles, CA 90048, USA; rangasamy.ramanathan@cshs.org
+5 Department of Pediatrics, Division of Neonatology, Cedars Sinai Guerin Children’s, Cedars Sinai Medical
+Center, Los Angeles, CA 90048, USA
+* Correspondence: ygsingh@ucdavis.edu
+Abstract: Persistent Patent Ductus Arteriosus (PDA) is prevalent among extremely preterm infants,
+with its occurrence inversely related to gestational age. A persistent PDA correlates with increased
+mortality and morbidities such as intraventricular hemorrhage, pulmonary hemorrhage, chronic lung
+disease, bronchopulmonary dysplasia, and necrotizing enterocolitis as observed clinically. Conversely,
+numerous randomized controlled trials have failed to demonstrate significant benefits from PDA
+treatment. One contributing factor to these conflicting findings is that PDA affects each individual
+differently depending on the cardiovascular decompensation and its hemodynamic impact. PDA
+management should be based on the hemodynamic significance, rather than just the presence or
+size of PDA. This comprehensive narrative review paper describes echocardiographic parameters
+that allow a better understanding of the hemodynamic impact of PDA. A newer modality, like
+lung ultrasound, is also described here as an adjunct to assess the PDA impact on the lungs from
+pulmonary overcirculation.
+Keywords: patent ductus arteriosus (PDA); preterm infant; premature infants; clinical diagnosis;
+echocardiographic evaluation of PDA
+PM?h
+The diagnosis and management of Patent Ductus Arteriosus (PDA) varies [1]. While
+PDA in most preterm infants closes spontaneously soon after birth, it persists longer among
+extremely preterm infants, affecting approximately 60–66% of those born before 28 weeks
+of gestation [1–3]. Notably, the prevalence of PDA increases with lower gestational age [2].
+Additional risk factors include low birth weight, absence of antenatal steroids, respiratory
+failure on mechanical ventilation, sepsis, and excessive fluid overload [4,5].
+In clinical observation studies, persistent PDA is associated with high mortality and
+morbidities, including prolonged hospital stays, intraventricular hemorrhage (IVH), pul-
+monary hemorrhage, chronic lung disease (CLD), bronchopulmonary dysplasia (BPD),
+and necrotizing enterocolitis (NEC) [ 6,7]. However, numerous randomized controlled
+trials have not shown improvement in long-term outcomes with PDA treatment. Presently,
+consensus is lacking on whether, when, and how to treat PDA in preterm infants [8–13].
+This paper focuses on the clinical diagnosis of PDA, echocardiographic assessment,
+and determination of its hemodynamic significance, especially on the echocardiographic
+parameters that can aid bedside clinicians in making timely and appropriate decisions.
+J. Cardiovasc. Dev. Dis. 2024, 11, 199. https://doi.org/10.3390/jcdd11070199 https://www.mdpi.com/journal/jcdd
+[[p2]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 2 of 11
+Other manuscripts in this special issue on “Patent Ductus Arteriosus in Premature Babies”
+address the management of PDA and its treatment options.
+2. Clinical Diagnosis of PDA
+Infants with a PDA may initially remain asymptomatic due to elevated pulmonary
+vascular resistance (PVR), impeding excessive blood flow between the aorta and the pul-
+monary artery across the PDA. The PDA becomes hemodynamically significant when blood
+shunting across the PDA increases, causing strain on the other organ systems. Pulmonary
+overcirculation occurs when PVR diminishes over subsequent days after birth, resulting
+in symptoms such as pulmonary edema, tachypnea, desaturations, or apnea. Increased
+pulmonary venous return may lead to cardiac manifestations, including a loud heart mur-
+mur, tachycardia, cardiomegaly, and a hyperactive precordium. The phenomenon of blood
+flow diversion from the systemic circulation, known as the “steal phenomenon,” results
+in bounding peripheral pulses, widened pulse pressure, lowered diastolic blood pres-
+sure, and systemic hypoperfusion, often characterized by oliguria and feeding intolerance.
+When myocardial adaptation to hemodynamic significant PDA (hsPDA) fails, heart failure
+may lead to severe hypotension and acidosis, necessitating cardioactive or vasopressor
+medications [12,14,15].
+Not all infants with persistent PDA exhibit all the signs and symptoms. The clinical
+presentation depends on several factors: (1) the size of the ductus arteriosus, (2) the di-
+rection and magnitude of shunt volume across the PDA are influenced by the interplay
+of vascular resistance and pressure between systemic and pulmonary circulation, (3) my-
+ocardial response to increased shunt volume, and (4) end-organ adaptability to mitigate
+the steal phenomenon [11,12,14]. Echocardiography can better evaluate these factors, as
+explained later in this review (see below). Non-specific symptoms may also resemble
+other critical congenital heart defects (CHD), making diagnosis challenging solely based on
+clinical examination [16]. Therefore, echocardiographic assessment is critical for the clinical
+management of preterm infants and is recommended before considering any intervention.
+3. Echocardiography for Diagnosing PDA and Assessing Hemodynamic Significance
+Echocardiography remains the gold standard bedside tool for diagnosing PDA. It con-
+firms its presence and assesses the PDA shunt volume and downstream effects. Before treating
+PDA, it is crucial to exclude any underlying CHDs, particularly duct-dependent defects.
+A comprehensive echocardiographic assessment of PDA and its hemodynamic signifi-
+cance typically encompasses the following aspects: (a) ductus arteriosus characteristics,
+(b) assessment of pulmonary hyperperfusion, (c) assessment of systemic hypoperfusion
+and (d) assessment of myocardial functions (Figures 1 and 2) [11,12,17].
+The following sections outline the echocardiographic parameters commonly used for
+the comprehensive assessment of PDA. They also explain the physiological basis of these
+measurements and detail the methods of obtaining them.
+3.1. Echocardiographic Assessment of Ductal Arteriosus Characteristics
+Echocardiography can determine the PDA’s size, morphology, shunt direction, and
+flow pattern.
+3.1.1. PDA Size
+Describing the size of PDA as small, moderate, or large over-simplifies the echocar-
+diographic evaluation of ductal characteristics, its morphology, and hemodynamic impact.
+PDA size is measured from the transductal diameter at the site of maximum constriction,
+most commonly seen at the pulmonary end (Figure 3a). PDA is not a straight symmet-
+ric tubular vessel, but it has six different types of morphologies and is tortuous at times
+(Figure 3b). PDA constriction leading to closure can occur at any segment of the ductus
+arteriosus, although commonly seen at the pulmonary end [17,18]. The standard echocar-
+diography views to measure the size of a PDA are: (1) high left-sided parasternal “ductal”
+[[p3]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 3 of 11
+view, or (2) suprasternal ductal cut view. A PDA’s size can be measured on a 2D image or
+using Color Doppler (color flow mapping). Color Doppler can be used to highlight the
+PDA’s size for better visualization. However, the color gain setting should be optimized to
+avoid color “bleeding” out of the vessel lumen, leading to overestimating the PDA diameter.
+A PDA diameter of >2 mm is generally considered large in preterm infants.
+J. Cardiovasc. Dev. Dis. 2024, 11, x FOR PEER REVIEW 3 of 11 
+ 
+ 
+ 
+Figure 1. Summary of the echocardiographic assessment of PDA and its hemodynamic impacts. The 
+parameters labeled with * are less commonly used for echocardiographic assessment. ACA— anterior 
+cerebral artery, Ao— aorta, Coeliac— coeliac trunk, E/A— early diastolic ﬂow velocity (E velocity) vs. late di-
+astolic transmitral ﬂow velocity (A velocity), IVC— inferior vena cava, IVRT—isovolumic relaxation time, 
+MCA— posterior cerebral artery, L R, left-to-right shunt, LA — left atrium, LPA— left pulmonary artery, 
+LV— left ventricle, LVEDD— left ventricular end-diastolic diameter, pulmonary artery LVO— left ventricular 
+cardiac output, PA— pulmonary artery, PDA— patent ductus arteriosus, PV — pulmonary vein, RA— right 
+atrium, RV— right ventricle SMA — superior mesenteric artery, SVC — superior vena cava, VTI — velocity 
+time integral. 
+ 
+Figure 2. A simple diagrammatic representation of the impacts of the shunt across the patent ductus 
+arteriosus on various end-organs. Ao-Aorta, E/A early diastolic ﬂow velocity (E velocity) vs. late diastolic 
+velocity (A velocity), EF—ejection fraction, FS—f raction shortening, IVC—inferior vena cava, IVRT—
+isovolumic relaxation time, LR, left to right shunt, LA—left atrium , LPA—left pulmonary artery, LV—left 
+ventricle, LVEDD—left ventricular end-diastolic diam eter, LVO—left ventricular cardiac output, PA—pul-
+monary artery, PDA—patent ductus arteriosus, PV—pul monary in, RA—right atrium, RV—right ventricle, 
+SVC—superior vena cava, VTI—velocity time index.  
+Ductus arteriosus 
+characteristics
+1. PDA size
+2. Shunt direction on color 
+flow Doppler
+3. Doppler flow pattern 
+across PDA
+Assessment of pulmonary 
+hyperperfusion
+PM?ko`??
+2. LV and LA siz
+2. LA/Ao
+ratio
+3. LVEDD
+4. Pulmonary vein size and 
+flow velocity*
+5. Mitral valve 
+regurgitation* 
+6. Mitral E/A ratio*
+7. LV cardiac output (VTI)*
+8. IVRT*
+9. LVO/SVC flow velocity 
+ratio*
+Assessment of systemic 
+hypoperfusion
+1.Doppler assessment of 
+blood flow pattern in;
+- descending aorta 
+- coeliac trunk or SMA 
+- renal artery
+- ACA, or MCA
+Assessment of myocardial 
+functions
+PM?u?
+2. LV fraction shortening
+3. LV ejection fraction
+4. Tissue Doppler evaluation 
+to assess systolic and 
+diastolic function
+Figure 1. Summary of the echocardiographic assessment of PDA and its hemodynamic impacts. The
+parameters labeled with * are less commonly used for echocardiographic assessment.ACA—anterior
+cerebral artery, Ao—aorta, Coeliac—coeliac trunk, E/A—early diastolic flow velocity (E velocity) vs. late diastolic
+transmitral flow velocity (A velocity), IVC—inferior vena cava, IVRT—isovolumic relaxation time, MCA—
+posterior cerebral artery, L→R, left-to-right shunt, LA—left atrium, LP A—left pulmonary artery, LV—left
+ventricle, LVEDD—left ventricular end-diastolic diameter, pulmonary artery LVO—left ventricular cardiac
+output, P A—pulmonary artery, PDA—patent ductus arteriosus, PV—pulmonary vein, RA—right atrium,
+RV—right ventricle SMA—superior mesenteric artery, SVC—superior vena cava, VTI—velocity time integral.
+J. Cardiovasc. Dev. Dis. 2024, 11, x FOR PEER REVIEW 3 of 11 
+ 
+ 
+ 
+Figure 1. Summary of the echocardiographic assessment of PDA and its hemodynamic impacts. The 
+parameters labeled with * are less commonly used for echocardiographic assessment. ACA— anterior 
+cerebral artery, Ao— aorta, Coeliac— coeliac trunk, E/A— early diastolic ﬂow velocity (E velocity) vs. late di-
+astolic transmitral ﬂow velocity (A velocity), IVC— inferior vena cava, IVRT—isovolumic relaxation time, 
+MCA— posterior cerebral artery, L R, left-to-right shunt, LA — left atrium, LPA— left pulmonary artery, 
+LV— left ventricle, LVEDD— left ventricular end-diastolic diameter, pulmonary artery LVO— left ventricular 
+cardiac output, PA— pulmonary artery, PDA— patent ductus arteriosus, PV — pulmonary vein, RA— right 
+atrium, RV— right ventricle SMA — superior mesenteric artery, SVC — superior vena cava, VTI — velocity 
+time integral. 
+ 
+Figure 2. A simple diagrammatic representation of the impacts of the shunt across the patent ductus 
+arteriosus on various end-organs. Ao-Aorta, E/A early diastolic ﬂow velocity (E velocity) vs. late diastolic 
+velocity (A velocity), EF—ejection fraction, FS—f raction shortening, IVC—inferior vena cava, IVRT—
+isovolumic relaxation time, LR, left to right shunt, LA—left atrium , LPA—left pulmonary artery, LV—left 
+ventricle, LVEDD—left ventricular end-diastolic diam eter, LVO—left ventricular cardiac output, PA—pul-
+monary artery, PDA—patent ductus arteriosus, PV—pul monary in, RA—right atrium, RV—right ventricle, 
+SVC—superior vena cava, VTI—velocity time index.  
+Ductus arteriosus 
+characteristics
+1. PDA size
+2. Shunt direction on color 
+flow Doppler
+3. Doppler flow pattern 
+across PDA
+Assessment of pulmonary 
+hyperperfusion
+PM?ko`??
+2. LV and LA siz
+2. LA/Ao
+ratio
+3. LVEDD
+4. Pulmonary vein size and 
+flow velocity*
+5. Mitral valve 
+regurgitation* 
+6. Mitral E/A ratio*
+7. LV cardiac output (VTI)*
+8. IVRT*
+9. LVO/SVC flow velocity 
+ratio*
+Assessment of systemic 
+hypoperfusion
+1.Doppler assessment of 
+blood flow pattern in;
+- descending aorta 
+- coeliac trunk or SMA 
+- renal artery
+- ACA, or MCA
+Assessment of myocardial 
+functions
+PM?u?
+2. LV fraction shortening
+3. LV ejection fraction
+4. Tissue Doppler evaluation 
+to assess systolic and 
+diastolic function
+Figure 2. A simple diagrammatic representation of the impacts of the shunt across the patent
+ductus arteriosus on various end-organs. Ao-Aorta, E/A early diastolic flow velocity (E velocity) vs.
+late diastolic velocity (A velocity), EF—ejection fraction, FS—fraction shortening, IVC—inferior vena cava,
+IVRT—isovolumic relaxation time, L→R, left to right shunt, LA—left atrium, LP A—left pulmonary artery,
+LV—left ventricle, LVEDD—left ventricular end-diastolic diameter, LVO—left ventricular cardiac output,
+P A—pulmonary artery, PDA—patent ductus arteriosus, PV—pulmonary in, RA—right atrium, RV—right
+ventricle, SVC—superior vena cava, VTI—velocity time index.
+[[p4]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 4 of 11
+J. Cardiovasc. Dev. Dis. 2024, 11, x FOR PEER REVIEW 4 of 11 
+ 
+ 
+The following sections outline the echocardiographic parameters commonly used for 
+the comprehensive assessment of PDA. They also explain the physiological basis of these 
+measurements and detail the methods of obtaining them. 
+3.1. Echocardiographic Assessment of Ductal Arteriosus Characteristics  
+Echocardiography can determine the PDA’s size, morphology, shunt direction, and 
+ﬂow pattern.  
+3.1.1. PDA Size 
+Describing the size of PDA as smal l, moderate, or large over-simpliﬁes the echocar-
+diographic evaluation of ductal characteristics, its morphology, and hemodynamic im-
+pact. PDA size is measured from the transd uctal diameter at the site of maximum con-
+striction, most commonly seen at the pulmon ary end (Figure 3a). PDA is not a straight 
+symmetric tubular vessel, but it has six diﬀerent types of morphologies and is tortuous at 
+times (Figure 3b). PDA constriction leading to closure can occur at any segment of the 
+ductus arteriosus, although commonly seen at the pulmonary end [17,18]. The standard 
+echocardiography views to measure the size of a PDA are: (1) high left-sided parasternal 
+“ductal” view, or (2) suprasternal ductal cut view. A PDA’s size can be measured on a 2D 
+image or using Color Doppler (color ﬂow mapping). Color Doppler can be used to high-
+light the PDA’s size for be tter visualization. However, the color gain se tting should be 
+optimized to avoid color “bleeding” out of the vessel lumen, leading to overestimating 
+the PDA diameter. A PDA diameter of >2 mm is generally considered large in preterm 
+infants. 
+ 
+Figure 3. Characteristics of patent ductus arteriosus (PDA). ( a) shows the measurement of  PDA 
+simultaneously on 2D and color ﬂow mapping. (b) shows the measurement of a tortuous PDA in 
+2D; the narrowest part should be reported. ( c) shows the pulsatile ﬂow pattern on Doppler assess-
+ment, and (d) shows a constricting ﬂow pattern. LPA—left pulmonary artery, RPA—right pulmonary 
+artery, PDA—patent ductus arteriosus.  
+3.1.2. PDA Shunt Direction 
+The ﬂow direction across PDA depends upon the gradient between pulmonary and 
+systemic pressures and the interplay betw een systemic and pulmonary vascular re-
+sistance. By convention, blood ﬂow from the aorta to the pulmonary artery is left-to-right 
+Figure 3. Characteristics of patent ductus arteriosus (PDA). ( a) shows the measurement of PDA
+simultaneously on 2D and color flow mapping. (b) shows the measurement of a tortuous PDA in 2D;
+the narrowest part should be reported. (c) shows the pulsatile flow pattern on Doppler assessment,
+and (d) shows a constricting flow pattern. LP A—left pulmonary artery, RP A—right pulmonary artery,
+PDA—patent ductus arteriosus.
+3.1.2. PDA Shunt Direction
+The flow direction across PDA depends upon the gradient between pulmonary and
+systemic pressures and the interplay between systemic and pulmonary vascular resistance.
+By convention, blood flow from the aorta to the pulmonary artery is left-to-right when
+systemic pressure is higher than pulmonary pressure, and the magnitude of blood flow
+mostly correlates with the hsPDA. When the PVR is high or in certain CHDs (such as
+interrupted aortic arch), the PDA flow can be bidirectional or right-to-left. The direction
+of the ductal shunt is assessed using Color Doppler. In a conventional echocardiography
+setting, the left-to-right shunt across the PDA on a high parasternal ductal view is seen as a
+red jet (Figure 3a), while a right-to-left ductal flow is seen as blue in color. The Doppler
+assessment shows a left-to-right shunt above the baseline (toward the probe), while the
+right-to-left shunt is seen below the baseline (away from the probe) [17,19].
+3.1.3. PDA Shunt Velocity and Pattern
+The clinical and hemodynamic significance of PDA depends on the dynamics of blood
+flow across the ductus, which is contingent upon factors such as the pressure gradient,
+vessel dimensions, vessel length, and blood viscosity. The Doppler assessment of flow
+velocity (volume per unit time) and flow patterns across the PDA offers invaluable insights.
+A lower pressure gradient between systemic and pulmonary circulation or a large PDA
+allows blood to flow at a lower velocity through the ductus, resulting in a non-restrictive
+or pulsatile shunt flow pattern characterized by low peak systolic velocity and a very
+low diastolic velocity (<50 of peak systolic velocity) (Figure 3c). Conversely, as a PDA
+is constricting or closing, a higher peak velocity is seen across the constricting segment,
+known as a restrictive or constricting flow pattern (Figure 3d) [ 20]. The shunt velocity
+varies during the cardiac cycle. If the end-diastolic velocity exceeds 50% of the peak systolic
+velocity, it is considered a constricting flow pattern. The flow velocity can be obtained
+by applying pulsed or continuous wave Doppler within the PDA. Although pulsed wave
+Doppler is specific (Figure 2), continuous wave Doppler has to be applied to avoid aliasing
+when the velocity is >2 m/s.
+[[p5]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 5 of 11
+3.2. Echocardiographic Assessment of Pulmonary Over-Circulation
+The increase in pulmonary blood flow caused by the PDA may not be directly mea-
+sured at the bedside, but it can be estimated with surrogate echocardiographic parameters.
+A significant PDA shunt volume leads to turbulence in branch pulmonary arteries, espe-
+cially near its insertion near LPA and increased diastolic velocity >0.42 m/s across left
+pulmonary artery origin is associated with an hsPDA [21] (Figure 4f). The increased pul-
+monary blood results in increased pulmonary venous return, leading to dilated pulmonary
+veins and increased pulmonary vein Doppler flow. The increased pulmonary venous return
+causes the LA to dilate. As the aortic valve annulus (Ao) is relatively fixed, the LA/Ao
+ratio is a surrogate for increased pulmonary venous return [21,22]. The mitral valve E/A
+ratio measures the inflow velocity during the early (E) diastolic phase of ventricular filling
+compared to the late atrial (A) contraction phase. Typically, the E/A ratio is >1, but in the
+presence of LA and LV volume overloading from the PDA shunt, this ratio is reversed, and
+the E/A ratio becomes <1. MV inflow (E-wave) slows down with increased LV volume
+and pressure, and there is an increased ‘A’ velocity from atrial contraction to push extra
+LA volume left after the initial diastolic phase (E-wave) (Figure 4c). Elevated LA pressure
+may cause early mitral valve opening or shorten isovolumic relaxation time (IVRT). The
+subsequent increase in LV volume can be quantified by measuring the LV end-diastolic
+dimension (LVEDD), adjusting to gestational age and body weight (z-score) [ 23]. Some-
+times, the left heart dilation is noticeable enough to be visually observed as an LV/RV size
+discrepancy. Mitral valve insufficiency may be seen in infants with hsPDA and a signifi-
+cantly dilated LV [23] (Figure 4b). Higher LV volume enhances LV cardiac output (LVO)
+and stroke volume, which can be calculated using velocity time integral (VTI) and Ao
+size [24]. If there is a significant intra-atrial or intra-ventricular shunt to alleviate volume
+overload in the left heart, it might result in reduced or delayed left heart dilation. Without
+an intracardiac shunt, an hsPDA may have a higher LVO to superior vena cava (SVC) flow
+ratio because the SVC is the surrogate for the return volume of preductal systemic blood
+flow [11,21].
+Many echocardiographic parameters have been described [ 17,21]. The commonly
+used in clinical practice, which offer higher sensitivity and specificity, are: increased LPA
+diastolic velocity, an increased LA/Ao ratio, a qualitative assessment of left heart dilatation,
+and increased LVEDD [17,21] (Figure 4). To measure the LPA diastolic velocity, a pulsed
+wave Doppler is used to interrogate LPA blood flow in the parasternal short axis view.
+A mean and end-diastolic velocities of >0.42 m/s and >0.2 m/s, respectively, are highly
+suggestive of an hsPDA with a sensitivity and specificity of >90% [ 21] (Figure 4f). The
+LA/Ao ratio can be obtained from the parasternal long-axis view or the parasternal short-
+axis view using an M-mode cursor across the aortic valve level and left atrium. An LA/Ao
+ratio of >1.4 is suggestive of an hsPDA [22] (Figure 4d,e). LVEDD can also be measured
+from the parasternal long-axis view with an M-mode cursor at the tip of the MV leaflet or
+by placing the cursor perpendicular to the mid-LV cavity at the level of the papillary muscle
+in the parasternal short-axis view. Measured LVEDD values higher than the normative
+z-score adjusted to body weight and postnatal age suggest LV volume overload and a
+dilated left ventricle [ 23]. A rapid qualitative assessment on visualization of the heart
+chambers in apical 4-chamber view and the parasternal long axis view can be done—a
+significantly dilated LA/LV compared to the RA/RV is noted on “eyeballing,” but this
+remains subjective and may not be precisely accurate.
+A chest X-ray can be performed to assess the severity of pulmonary edema. A lung
+ultrasound can assess the severity of pulmonary edema, guide diuretic therapy, and monitor
+the response to interventions [25]. A lung ultrasound demonstrated increased echogenic
+vertical lines, known as B-lines, in the presence of pulmonary edema (Figure 5).
+[[p6]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 6 of 11
+J. Cardiovasc. Dev. Dis. 2024, 11, x FOR PEER REVIEW 6 of 11 
+ 
+ 
+vena cava (SVC) ﬂow ratio because the SVC is the surrogate for the return volume of 
+preductal systemic blood ﬂow [11,21].  
+Many echocardiographic parameters have  been described [17,21]. The commonly 
+used in clinical practice, which oﬀer higher sensitivity and speciﬁcity, are: increased LPA 
+diastolic velocity, an increased LA/Ao ratio, a qualitative assessment of left heart dilata-
+tion, and increased LVEDD [17,21] (Figure 4). To measure the LPA diastolic velocity, a 
+pulsed wave Doppler is used to interrogate LPA blood ﬂow in the parasternal short axis 
+view. A mean and end-diastolic velocities of >0.42 m/s and >0.2 m/s, respectively, are 
+highly suggestive of an hsPDA with a sensitivity and speci ﬁcity of >90% [21] (Figure 4f). 
+The LA/Ao ratio can be obtained from the pa rasternal long-axis view or the parasternal 
+short-axis view using an M-mode cursor across the aortic valve level and left atrium. An 
+LA/Ao ratio of >1.4 is suggestive of an hsPDA [22] (Figure 4d,e). LVEDD can also be meas-
+ured from the parasternal long-axis view with an M-mode cursor at the tip of the MV 
+leaﬂet or by placing the cursor perpendicular to  the mid-LV cavity at the level of the pa-
+pillary muscle in the parasternal short-axis  view. Measured LVEDD values higher than 
+the normative z-score adjusted to body weight and postnatal age suggest LV volume over-
+load and a dilated left ventricle [23]. A rapid qualitative assessment on visualization of the 
+heart chambers in apical 4-chamber view and the parasternal long axis view can be done—
+a signiﬁcantly dilated LA/LV compared to the RA /RV is noted on “eyeballing,” but this 
+remains subjective and may not be precisely accurate. 
+ 
+Figure 4. Echocardiography assessment of pulmonary over-circulation. ( a) shows the left heart is 
+larger than the right heart due to volume ov erload in the apical four-chamber view. ( b) shows the 
+mitral regurgitation on color ﬂow mapping from the apical four-chamber view. (c) shows E/A ratio 
+inversion across the mitral valve in ﬂow. (d) shows the increased LA to Aorta (LA/Ao) ratio in the 
+parasternal short-axis view on the M-mode. ( e) shows the increased LA to Aorta (LA/Ao) ratio on 
+the M-mode in the parasternal long-axis view. ( f) shows an increased diastolic velocity in the left 
+pulmonary artery (LPA). LA—left atrium, LV—left ve ntricle, RA—right atrium , RV—right ventricle, 
+Ao—aortic valve, LPA—left pulmonary artery.  
+A chest X-ray can be performed to assess the severity of pulmonary edema. A lung 
+ultrasound can assess the severity of pulmonary edema, guide diuretic therapy, and mon-
+itor the response to interventions [25]. A lu ng ultrasound demonstrated increased echo-
+genic vertical lines, known as B-lines, in the presence of pulmonary edema (Figure 5). 
+Figure 4. Echocardiography assessment of pulmonary over-circulation. (a) shows the left heart is
+larger than the right heart due to volume overload in the apical four-chamber view. (b) shows the
+mitral regurgitation on color flow mapping from the apical four-chamber view. (c) shows E/A ratio
+inversion across the mitral valve inflow. (d) shows the increased LA to Aorta (LA/Ao) ratio in the
+parasternal short-axis view on the M-mode. ( e) shows the increased LA to Aorta (LA/Ao) ratio
+on the M-mode in the parasternal long-axis view. ( f) shows an increased diastolic velocity in the
+left pulmonary artery (LPA). LA—left atrium, LV—left ventricle, RA—right atrium, RV—right ventricle,
+Ao—aortic valve, LP A—left pulmonary artery.
+J. Cardiovasc. Dev. Dis. 2024, 11, x FOR PEER REVIEW 7 of 11 
+ 
+ 
+ 
+Figure 5. Assessment of pulmonary edema on chest X-ray and lung ultrasound (LU). (a) shows pul-
+monary edema with increased opacity on the chest X-ray. (b) shows severe pulmonary edema with 
+a white-out appearance on LU. The white-out appearance results from coalescent B-lines, which are 
+echogenic vertical lines below the pleural line, indicating interstitial pulmonary ﬂuid. (c) shows se-
+vere pulmonary edema with multiple B-lines before the diuretic therapy. ( d) shows fewer B-lines, 
+suggesting decreased pulmonary edema after the diuretic therapy. LU—lung ultrasound . 
+3.3. Echocardiographic Assessment of Systemic Hypoperfusion 
+Systemic hypoperfusion occurs in the presence of an hsPDA when blood diverts 
+away from the systemic circulation below the ductus arteriosus level. Doppler evaluation 
+can be used to assess the degree of systemic steal in which retrograde or absent blood ﬂow 
+is seen during the diastole in  the post-ductal descending aorta, coeliac trunk, superior 
+mesenteric artery, or renal arte ry [11,17,21,23,26,27]. Doppler ﬂow pa tterns can be ac-
+quired in the descending aorta from the supr asternal view by distally positioning the 
+pulsed wave Doppler sample gate to the ductal ampulla (Figure 6a,b). A Doppler assess-
+ment of the coeliac trunk or superior mesenteric artery is obtained from the subcostal lon-
+gitudinal view—a pulsed wave Doppler sample gate is placed  in the coeliac or superior 
+mesenteric artery after optimizing the image so that the angle of insonation is minimal, 
+<10–15 degrees is recommended. (Figure 6c,d) [17,26]. A Doppler assessment of the ante-
+rior or middle cerebral artery can be used to evaluate the hsPDA’s e ﬀect on brain perfu-
+sion, and a similar ﬂow pattern is seen—absent or retrograde ﬂow during diastole is ob-
+served in the presence of an hsPDA. 
+Figure 5. Assessment of pulmonary edema on chest X-ray and lung ultrasound (LU). ( a) shows
+pulmonary edema with increased opacity on the chest X-ray. (b) shows severe pulmonary edema
+with a white-out appearance on LU. The white-out appearance results from coalescent B-lines, which
+are echogenic vertical lines below the pleural line, indicating interstitial pulmonary fluid. (c) shows
+severe pulmonary edema with multiple B-lines before the diuretic therapy. (d) shows fewer B-lines,
+suggesting decreased pulmonary edema after the diuretic therapy. LU—lung ultrasound.
+[[p7]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 7 of 11
+3.3. Echocardiographic Assessment of Systemic Hypoperfusion
+Systemic hypoperfusion occurs in the presence of an hsPDA when blood diverts away
+from the systemic circulation below the ductus arteriosus level. Doppler evaluation can be
+used to assess the degree of systemic steal in which retrograde or absent blood flow is seen dur-
+ing the diastole in the post-ductal descending aorta, coeliac trunk, superior mesenteric artery ,
+or renal artery [11,17,21,23,26,27]. Doppler flow patterns can be acquired in the descending
+aorta from the suprasternal view by distally positioning the pulsed wave Doppler sample gate
+to the ductal ampulla (Figure 6a,b). A Doppler assessment of the coeliac trunk or superior
+mesenteric artery is obtained from the subcostal longitudinal view—a pulsed wave Doppler
+sample gate is placed in the coeliac or superior mesenteric artery after optimizing the image so
+that the angle of insonation is minimal, <10–15 degrees is recommended. (Figure 6c,d) [17,26].
+A Doppler assessment of the anterior or middle cerebral artery can be used to evaluate the
+hsPDA’s effect on brain perfusion, and a similar flow pattern is seen—absent or retrograde
+flow during diastole is observed in the presence of an hsPDA.
+J. Cardiovasc. Dev. Dis. 2024, 11, x FOR PEER REVIEW 8 of 11 
+ 
+ 
+ 
+Figure 6. Doppler assessment of blood ﬂow in the descending aorta post-ductally, in the coeliac 
+trunk, and the superior mesenteric artery. (a) shows forward blood ﬂow during systole and diastole 
+in the descending aorta from the suprasternal arch view. ( b) shows retrograde blood ﬂow during 
+diastole in the descending aorta, indicating ‘ductal steal’ in the presence of an hsPDA. (c) shows the 
+coeliac and superior mesenteric arteries from th e subcostal longitudinal color compare view, and 
+(d) shows retrograde blood ﬂow during diastole in the coeliac and superior mesenteric arteries, in-
+dicating ‘ductal steal’ similar to ﬂow in the descending aorta. 
+3.4. Echocardiographic Assessment of Myocardial Function 
+A hemodynamically signi ﬁcant PDA induces hyperdynamic cardiac status by in-
+creasing the LV preload from the PDA shunt volume, which can a ﬀect myocardial func-
+tions. Ventricular contractility can be assessed qualitatively on visualization, often called 
+“eyeballing”, and assessment in multiple views (apical 4-chamber, parasternal long, and 
+parasternal short axis views) is recommended to improve the accuracy. The increased car-
+diac functions can be evaluated objectively by using quantitative assessment tools such as 
+fraction shortening (FS%), ejection fraction (EF%), or using more advanced functional 
+echocardiographic methods, e.g., tissue Doppler imaging, the myocardial performance 
+index, or speckle tracking and strain rate. Initially, systolic cardiac function typically re-
+mains preserved. However, persistent volume overloading of the LV may eventually im-
+pair its diastolic function, leading to a reversed mitral valve inﬂow E/A ratio on a Doppler 
+assessment and, eventually, heart failure.  
+4. A Practical Approach to Evaluate an hsPDA 
+The commonly used echocardiography parameters and indicative hsPDA values that 
+can help clinicians assess the PDA and its hemodynamic signi ﬁcance have been summa-
+??s?PM?`????????
+should not be used to deﬁne an hsPDA in isolation. For instance, a signiﬁcant inter-atrial 
+shunt (across the patent foramen ovale or atrial septal defect) may o ﬄoad the LA and 
+reduce left atrial pressure and size; hence, using LA/Ao size to deﬁne an hsPDA may un-
+derestimate the degree of pulmonary overcirculation. Therefore, various comprehensive 
+staging and scoring systems have been deve loped. Instead of relying on a single 
+Figure 6. Doppler assessment of blood flow in the descending aorta post-ductally, in the coeliac
+trunk, and the superior mesenteric artery. (a) shows forward blood flow during systole and diastole
+in the descending aorta from the suprasternal arch view. (b) shows retrograde blood flow during
+diastole in the descending aorta, indicating ‘ductal steal’ in the presence of an hsPDA. ( c) shows
+the coeliac and superior mesenteric arteries from the subcostal longitudinal color compare view,
+and (d) shows retrograde blood flow during diastole in the coeliac and superior mesenteric arteries,
+indicating ‘ductal steal’ similar to flow in the descending aorta.
+3.4. Echocardiographic Assessment of Myocardial Function
+A hemodynamically significant PDA induces hyperdynamic cardiac status by in-
+creasing the LV preload from the PDA shunt volume, which can affect myocardial func-
+tions. Ventricular contractility can be assessed qualitatively on visualization, often called
+“eyeballing”, and assessment in multiple views (apical 4-chamber, parasternal long, and
+parasternal short axis views) is recommended to improve the accuracy. The increased
+cardiac functions can be evaluated objectively by using quantitative assessment tools such
+as fraction shortening (FS%), ejection fraction (EF%), or using more advanced functional
+echocardiographic methods, e.g., tissue Doppler imaging, the myocardial performance in-
+[[p8]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 8 of 11
+dex, or speckle tracking and strain rate. Initially, systolic cardiac function typically remains
+preserved. However, persistent volume overloading of the LV may eventually impair
+its diastolic function, leading to a reversed mitral valve inflow E/A ratio on a Doppler
+assessment and, eventually, heart failure.
+4. A Practical Approach to Evaluate an hsPDA
+The commonly used echocardiography parameters and indicative hsPDA values that
+can help clinicians assess the PDA and its hemodynamic significance have been summarized
+?s?PM?`?????????
+be used to define an hsPDA in isolation. For instance, a significant inter-atrial shunt (across
+the patent foramen ovale or atrial septal defect) may offload the LA and reduce left atrial
+pressure and size; hence, using LA/Ao size to define an hsPDA may underestimate the degree
+of pulmonary overcirculation. Therefore, various comprehensive staging and scoring systems
+have been developed. Instead of relying on a single parameter, these proposed scoring systems
+combine different echocardiographic parameters to assist clinical decision-making [11,15,28].
+One such system is the PDA Severity Scoring system proposed by El-khuffash et al. [28].
+This scoring system calculates the PDA Severity Score using the following formula: [GA
+(in weeks) × 1.304 + PDA diameter (in mm) × 0.781 + LVO (ml/kg/min) × 0.008 + max
+PDA velocity (m/s) × −1.065 + LV a’ wave (cm/s)−0.470 + 41] [28]. A value of >5 out of
+13 predictschronic lung disease (CLD) or death associated with hsPDA with a sensitivity of
+92%, specificity of 87%, positive predictive value of 92%, and negative predictive value of
+92% [28]. Some staging and scoring systems share similar principles, requiring multiple com-
+plex echocardiographic measurements needing advanced imaging expertise and more time
+for evaluation, making them impractical for routine use in a busy clinical practice, and they are
+currently not being used by pediatric cardiologists [11,15,28]. Further research is necessary to
+develop a user-friendly PDA scoring system with validated sensitivity and specificity , which,
+more importantly , can be used by both neonatologists and pediatric cardiologists.
+Table 1. Summary of commonly used echocardiographic parameters for PDA assessment and their
+values suggest an hsPDA in preterm infants (adapted from Singh Y et al. 2020) [17].
+PDA Evaluation
+Criteria
+Essential Echocardiographic Parameters for
+Assessment of PDA and Hemodynamic Evaluation (See Text for Details)
+Less Commonly Used
+Echocardiographic Parameters
+(See Text for Details)
+Ductal
+characteristics
+• PDA size (Small < 1.5 mm, Moderate 1.51–2 mm, Large > 2 mm)AND
+• Flow direction (Left-to-right, right-to-left, or bi-directional) AND
+• Doppler assessment for flow pattern across PDA (constricting or
+pulsatile pattern—maximum end-diastolic velocity to peak systolic
+velocity ratio measured to determine the type of flow pattern)
+-
+Assessment of
+pulmonary
+hyperperfusion
+• Volume overload of left heart on visual inspection AND
+• LPA diastolic velocity (mean velocity > 0.42 m/s, end-diastolic
+velocity > 0.2 m/s) OR
+• LA/Ao ratio * (mild < 1.4, moderate 1.5–1.8, severe > 1.8) OR
+• LVEDD (z-score > +2 standard deviation)
+• Document the presence or absence and magnitude of inter-atrial
+shunt
+• Mitral E/A ratio [17,29]
+• Left ventricular cardiac
+output (LVO) [29]
+• LVO to superior vena cava
+(SVC) flow ratio
+• Pulmonary vein Doppler
+• Isovolumic relaxation time
+(IVRT) [29]
+• Mitral regurgitation [17]
+Assessment of
+systemic
+hypoperfusion
+• Retrograde or absent blood flow during diastole in:
+- descending aorta OR
+- coeliac trunk, superior mesenteric, or renal artery OR
+- anterior or middle cerebral artery
+[[p9]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 9 of 11
+s?PM?bM
+PDA Evaluation
+Criteria
+Essential Echocardiographic Parameters for
+Assessment of PDA and Hemodynamic Evaluation (See Text for Details)
+Less Commonly Used
+Echocardiographic Parameters
+(See Text for Details)
+Assessment of
+myocardial
+function
+• Qualitative assessment of cardiac contractility on visual inspection
+• Semi-quantitative and quantitative assessment of LV function by
+assessing fraction shortening (FS%) or ejection fraction (EF%)
+• Tissue Doppler Imaging
+• Myocardial performance
+index using Tissue
+Doppler evaluation [29]
+• Speckle tracking and strain
+rate
+* A comprehensive echocardiographic assessment should be performed to rule out any underlying congenital
+heart defect (CHD) or pulmonary hypertension before any intervention. Ao—aortic valve, LA—left atrium, LP A—left
+pulmonary artery, LV—left ventricle, LVEDD—left ventricular end-diastolic diameter, LVO—left ventricular output,
+SVC—superior vena cava, mm—millimeter, m/s—meter per second.
+5. Clinical Decision-Making on Treating hsPDAs
+A comprehensive evaluation of PDA and clinical decision-making to treat a hemo-
+dynamically significant PDA can be complex [27,30–32]. Echocardiographic parameters
+indicating the presence of an hsPDA may not always be clinically relevant, as they can
+be present in a healthy infant requiring minimal to no ventilatory support. On the other
+hand, an infant with similar echocardiographic parameters may have significant hemo-
+dynamic instability and other co-morbidities such as an increased need for respiratory
+support, oxygen needs, pulmonary hemorrhage, feed intolerance, renal impairment, etc.
+Furthermore, there is a high rate of spontaneous closures of PDAs, while pharmacological
+or procedural treatments are not risk-free [30]. Ultimately, managing an hsPDA requires
+individualized precision medicine after carefully considering various factors and individual
+patient circumstances. A detailed discussion on the management of PDA is out of the scope
+of this paper, but it has been discussed in the other manuscript of this series on PDA in
+preterm infants.
+6. Conclusions
+The ideal approach to managing a PDA in extremely premature infants is still under
+debate and currently lacks consensus. However, there is widespread agreement that a com-
+prehensive echocardiographic evaluation to assess a PDA can lead to a more individualized
+precision medicine approach for choosing a patient-specific best treatment option. Before
+considering any medical or surgical PDA intervention, infants should undergo a detailed
+echocardiographic evaluation to rule out underlying CHD and assess the impact of the
+PDA shunt on pulmonary and systemic circulation. More studies using comprehensive
+echocardiographic evaluation criteria for intervention and advanced echocardiographic
+technologies, like tissue Doppler imaging and 3D echocardiography, may improve under-
+standing and decision-making regarding the treatment of hsPDAs in the future.
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflict of interest.
+References
+PM?qK?jMdMZ?eK?iMmMZ?dK?dMlMZ?rK?qMeMZ?gK?iMcMZ?xK?rMaM?u??o?c?`?s?
+Very Low Birth Weight Infants.Pediatrics 2021, 148, e2021052874. [CrossRef] [PubMed]
+2. Koch, J.; Hensley, G.; Roy, L.; Brown, S.; Ramaciotti, C.; Rosenfeld, C.R. Prevalence of spontaneous closure of the ductus arteriosus
+in neonates at a birth weight of 1000 grams or less. Pediatrics 2006, 117, 1113–1121. [CrossRef]
+3. Bose, C.L.; Laughon, M.M. Patent ductus arteriosus: Lack of evidence for common treatments. Arch. Dis. Child. Fetal Neonatal Ed.
+2007, 92, F498–F502. [CrossRef] [PubMed]
+4. Pourarian, S.; Farahbakhsh, N.; Sharma, D.; Cheriki, S.; Bijanzadeh, F. Prevalence and risk factors associated with the patency of
+ductus arteriosus in premature neonates: A prospective observational study from Iran. J. Matern. Fetal Neonatal Med. 2017, 30,
+1460–1464. [CrossRef] [PubMed]
+[[p10]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 10 of 11
+5. Noori, S.; McCoy, M.; Friedlich, P .; Bright, B.; Gottipati, V .; Seri, I.; Sekar, K. Failure of ductus arteriosus closure is associated with
+increased mortality in preterm infants. Pediatrics 2009, 123, e138–e144. [CrossRef] [PubMed]
+6. Schena, F.; Francescato, G.; Cappelleriet, A.; Picciolli, I.; Mayer, A.; Moscaet, F.; Fumagalli, M. Association between hemody-
+namically significant patent ductus arteriosus and bronchopulmonary dysplasia. J. Pediatr. 2015, 16, 1488–1492. [CrossRef]
+[PubMed]
+7. Express-Group. Incidence of and risk factors for neonatal morbidity after active perinatal care: Extremely preterm infants study
+in Sweden (EXPRESS). Acta Paediatr. 2010, 99, 978–992. [CrossRef] [PubMed]
+8. Benitz, W.E. Learning to live with patency of the ductus arteriosus in preterm infants. J. Perinatol. 2011, 31 (Suppl. S1), S42–S48.
+[CrossRef] [PubMed]
+9. Clyman, R.I.; Liebowitz, M.; Kaempf, J.; Erdev, O.; Bulbul, A.; Håkansson, S. PDA-TOLERATE (PDA: TO LEave it alone or
+Respond And Treat Early) Trial Investigators. PDA-TOLERATE Trial: An Exploratory Randomized Controlled Trial of Treatment
+of Moderate-to-Large Patent Ductus Arteriosus at 1 Week of Age. J. Pediatr. 2019, 205, 41–48.e6. [CrossRef]
+10. Heuchan, A.M.; Clyman, R.I. Managing the patent ductus arteriosus: Current treatment options. Arch. Dis. Child. Fetal Neonatal
+Ed. 2014, 99, F431–F436. [CrossRef]
+11. Van Laere1, D.; van Overmeire, B.; Gupta, S.; El Khuffash, A.; Savoia, M.; McNamara, P .J.; Schwarz, C.E.; de Boode, W.P .
+Application of NPE in the assessment of a patent ductus arteriosus. Pediatr. Res. 2018, 84, S46–S56. [CrossRef] [PubMed]
+12. Hebert, A.; Lavoice, P .M.; Giesinger, R.E.; Ting, J.Y.; Finan, E.; Singh, Y.; de Boode, W.; Kluckow, M.; Mertens, L.; McNamara, P .J.
+Evolution of training guidelines for echocardiography performed by the neonatologist: Toward hemodynamic consultation. J.
+Am. Soc. Echocardiogr. 2019, 32, 785–790. [CrossRef] [PubMed]
+13. Rolland, A.; Shankar-Aguilera, S.; Diomandé, D.; Zupan-Simunek, V .; Boileau, P . Natural evolution of patent ductus arteriosus in
+the extremely preterm infant. Arch. Dis. Child. Fetal Neonatal Ed. 2015, 100, F55–F58. [CrossRef] [PubMed]
+14. Singh, Y.; Katheria, A.; Tissot, C. Functional echocardiography in the neonatal intensive care unit. Indian Pediatr. 2018, 14, 417–425.
+[CrossRef]
+15. McNamara, P .J.; Sehgal, A. Towards rational management of the patent ductus arteriosus: The need for disease staging.Arch. Dis.
+Child. Fetal Neonatal Ed. 2007, 92, F424–F427. [CrossRef] [PubMed]
+16. Singh, Y.; Lakshminrusimha, S. Perinatal Cardiovascular Physiology and Recognition of Critical Congenital Heart Defects. Clin.
+Perinatol. 2021, 48, 573–594. [CrossRef]
+17. Singh, Y.; Fraisse, A.; Erdeve, O.; Atasay, B. Echocardiographic Diagnosis and Hemodynamic Evaluation of Patent Ductus
+Arteriosus in Extremely Low Gestational Age Newborn (ELGAN) Infants. Front. Pediatr. 2020, 8, 573627. [CrossRef]
+18. Tschuppert, S.; Doell, C.; Arlettaz-Mieth, R.; Baenziger, O.; Rousson, V .; Balmer, C.; Prêtre, R.; Dodge-Khatami, A. The effect
+of ductal diameter on surgical and medical closure of patent ductus arteriosus in preterm neonates: Size matters. J. Thorac.
+Cardiovasc. Surg. 2008, 135, 78–82. [CrossRef]
+19. Singh, Y.; Tissot, C. Echocardiographic evaluation of transitional circulation for the neonatologists. TINEC research article. Front.
+Pediatr. 2018, 6, 79. [CrossRef]
+20. Smith, A.; Maguire, M.; Livingstone, V .; Dempsey, E.M. Peak systolic to end diastolic flow velocity ratio is associated with ductal
+patency in infants below 32 weeks of gestation. Arch. Dis. Child. Fetal Neonatal Ed. 2015, 100, F132–F136. [CrossRef]
+21. Hsu, K.H.; Nguyen, J.; Dekom, S.; Ramanathan, R.; Noori, S. Effects of patent ductus arteriosus on organ blood flow in very
+preterm infants: A prospective study with serial echocardiography. J. Pediatr. 2020, 216, 95–100.e2. [CrossRef] [PubMed]
+22. El Hajjar, M.; Vaksmann, G.; Rakza, T.; Kongolo, G.; Storme, L. Severity of the ductal shunt: A comparison of different markers.
+Arch. Dis. Child. Fetal Neonatal Ed. 2005, 90, F419–F422. [CrossRef] [PubMed]
+23. Abushaban, L.; Vel, M.T.; Rathinasamy, J.; Sharma, P . Normal reference ranges for left ventricular dimensions in preterm infants.
+Ann. Pediatr. Cardiol. 2014, 7, 180–186. [CrossRef] [PubMed]
+24. Walther, F.J.; Kim, D.H.; Ebrahimi, M.; Siassi, B. Pulsed Doppler measurement of left ventricular output as early predictor of
+symptomatic patent ductus arteriosus in very preterm infants. Biol. Neonate 1989, 56, 121–128. [CrossRef]
+25. Zhao, M.; Huang, X.M.; Niu, L.; Ni, W.X.; Zhang, Z.Q. Lung Ultrasound Score Predicts the Extravascular Lung Water Content in
+Low-Birth-Weight Neonates with Patent Ductus Arteriosus. Med. Sci. Monit. 2020, 26, e921671. [CrossRef] [PubMed]
+26. Broadhouse, K.M.; Price, A.N.; Durighel, G.; Cox, D.J.; Finnemore, A.E.; Edwards, A.D.; Hajnal, J.V .; Groves, A.M. Assessment of
+PDA shunt and systemic blood flow in newborns using cardiac MRI. NMR Biomed. 2013, 26, 1135–1141. [CrossRef] [PubMed]
+27. Shepherd, J.L.; Noori, S. What is a hemodynamically significant PDA in preterm infants? Congenit. Heart Dis. 2019, 14, 21–26.
+[CrossRef] [PubMed]
+28. El-Khuffash, A.; James, A.T.; Corcoran, J.D.; Dicker, P .; Franklin, O.; Elsayed, Y.N.; Ting, J.Y.; Sehgal, A.; Malikiwi, A.; Harabor,
+A.; et al. A patent ductus arteriosus severity score predicts chronic lung disease or death before discharge. J. Pediatr. 2015, 167,
+1354–1361. [CrossRef] [PubMed]
+29. Singh, Y. Hemodynamic evaluation on echocardiography in neonates and children. TINEC research paper. TINEC research paper.
+Front. Pediatr. 2017, 5, 201. [CrossRef]
+30. Semberova, J.; Sirc, J.; Miletin, J.; Kucera, J.; Berka, I.; Sebkova, S.; O’sullivan, S.; Franklin, O.; Stranak, Z. Spontaneous Closure of
+Patent Ductus Arteriosus in Infants ≤1500 g. Pediatrics 2017, 140, e20164258. [CrossRef]
+[[p11]]
+J. Cardiovasc. Dev. Dis. 2024, 11, 199 11 of 11
+31. Herrman, K.; Bose, C.; Lewis, K.; Laughon, M. Spontaneous closure of the patent ductus arteriosus in very low birth weight
+infants following discharge from the neonatal unit. Arch. Dis. Child. Fetal Neonatal Ed. 2009, 94, F48–F50. [CrossRef] [PubMed]
+32. Noori, S. Patent ductus arteriosus in the preterm infant: To treat or not to treat? J. Perinatol. 2010, 30, S31–S37. [CrossRef]
+[PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

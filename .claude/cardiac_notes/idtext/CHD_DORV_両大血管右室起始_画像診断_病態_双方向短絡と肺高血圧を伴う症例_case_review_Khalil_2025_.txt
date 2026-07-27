@@ -1,0 +1,601 @@
+
+[[p1]]
+Radiology  Case  Reports  20  (2025)  3930–3937  
+Available online at www.sciencedirect.com 
+journal homepage: www.elsevier.com/locate/radcr 
+Case Report 
+Unraveling the complexities of double outlet right 
+ventricle (DORV): A rare case of congenital heart 
+disease with bidirectional shunting in a young 
+girl✩ , ✩✩ 
+Ibrahim Khalil, MBBS a , ∗, Sakib Abrar, MBBS a ,M d . Imran Hossain, MBBS b 
+a Department of Medicine, Dhaka Medical College and Hospital, Dhaka, Bangladesh 
+b Manikganj Medical College, Faculty of Medicine, Dhaka University , Dhaka, Bangladesh 
+a r t i c l e i n f o 
+Article history: 
+Received 22 February 2025 
+Revised 13 April 2025 
+Accepted 16 April 2025 
+Available online 22 May 2025 
+Keywords: 
+Double outlet right ventricle 
+Bidirectional shunting 
+Ventricular septal defect 
+Pulmonary hypertension 
+Congenital heart disease 
+a b s t r a c t 
+Double Outlet Right Ventricle (DORV) is a rare congenital heart defect characterized by both 
+the aorta and pulmonary artery originating from the right ventricle. It accounts for 1%-3% 
+of all congenital heart defects and is often associated with additional structural anomalies 
+such as ventricular septal defects (VSDs), which exacerbate hemodynamic complications. 
+We present a case of a 16-year-old female with DORV and 2 VSDs, leading to bidirectional 
+shunting and subsequent pulmonary hypertension. The patient presented with progres- 
+sive exertional dyspnea, central cyanosis, and clubbing of the fingers, indicative of chronic 
+hypoxia. Echocardiography and Doppler studies confirmed the diagnosis, revealing signifi- 
+cant bidirectional shunting and moderate pulmonary hypertension. Two distinct VSDs were 
+identified in the interventricular septum (IVS): the first, a larger perimembranous VSD in- 
+volving the inlet part with extensions toward the subaortic region, measured 11 mm × 16 
+mm; the second, a smaller VSD in the mid-part of the trabecular septum, measured 4 mm ×4 
+mm. Both VSDs permitted bidirectional shunting, predominantly left-to-right, contributing 
+to the patient’s cyanosis and pulmonary hypertension, with the larger VSD being routable 
+to the aorta. Treatment involved stabilization with medical management to address pul- 
+monary hypertension and preparation for corrective surgery. Timely surgical correction, in- 
+cluding the closure of VSDs and rerouting of the ventriculo-arterial connections, is crucial 
+for improving outcomes. Ongoing follow-up is essential to monitor for complications such 
+as arrhythmias, right heart failure, and progression of pulmonary hypertension. The case 
+underscores the complexity of DORV and the need for a multidisciplinary approach in its 
+management. 
+© 2025 The Authors. Published by Elsevier Inc. on behalf of University of Washington. 
+This is an open access article under the CC BY-NC-ND license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) 
+✩ Acknowledgments: This work was not supported by any external funding organizations. 
+✩✩ Competing Interests: The authors declare that they have no known competing financial interests or personal relationships that could 
+have appeared to influence the work reported in this paper. 
+∗ Corresponding author. 
+E-mail address: ibrahim124904@gmail.com (I. Khalil). 
+https://doi.org/10.1016/j.radcr.2025.04.075 
+1930-0433/© 2025 The Authors. Published by Elsevier Inc. on behalf of University of Washington. This is an open access article under the 
+CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) 
+[[p2]]
+Radiology  Case  Reports  20  (2025)  3930–3937 3931 
+Introduction 
+Double outlet right ventricle (DORV) is a rare and complex con- 
+genital heart defect in which both the aorta and pulmonary 
+artery arise from the right ventricle, leading to significant 
+hemodynamic alterations. This anomaly is often associated 
+with other defects, notably the ventricular septal defect (VSD), 
+pulmonary stenosis, and a variety of transposition and arch 
+anomalies. While the incidence of DORV is low, accounting for 
+approximately 1%-3% of all congenital heart defects, its clin- 
+ical significance is profound, especially when compounded 
+by additional structural abnormalities like VSDs, which can 
+worsen symptoms by allowing abnormal shunting of blood be- 
+tween the ventricles. Early diagnosis is critical to determining 
+the most appropriate therapeutic interventions, including sur- 
+gical correction, which remains the cornerstone of managing 
+this congenital anomaly [ 1 ,2 ]. The presence of bidirectional 
+shunting across the VSDs complicates the clinical picture fur- 
+ther, contributing to poor oxygen saturation and cyanosis, 
+often resulting in the need for urgent clinical management. 
+In this context, a comprehensive diagnostic and therapeutic 
+strategy is required to address both the structural defect and 
+its hemodynamic consequences [ 3 ]. 
+DORV presents a multifaceted challenge for clinicians due 
+to the variability in its anatomic presentation and the asso- 
+ciated risks of both systemic and pulmonary circulatory is- 
+sues. Although early detection through imaging techniques 
+such as echocardiography and Doppler studies has improved, 
+the complex nature of DORV requires a multidisciplinary ap- 
+proach to management, ranging from stabilization of the pa- 
+tient’s condition to corrective surgery. Surgical intervention 
+options include the Rastelli procedure, the arterial switch op- 
+eration, and the Nikaidoh procedure, each of which addresses 
+the distinct hemodynamic issues resulting from the abnormal 
+ventriculo-arterial connections and VSDs [ 4 ,5 ]. However, the 
+timing of surgery is crucial, as delayed interventions are of- 
+ten associated with poorer outcomes due to the progressive 
+nature of pulmonary hypertension and right heart failure. 
+In the past few decades, advancements in diagnostic tools, 
+particularly echocardiography and cardiac magnetic reso- 
+nance imaging (MRI), have revolutionized the ability to diag- 
+nose DORV and assess its severity. These imaging techniques 
+provide a detailed view of the heart’s structural abnormalities, 
+which are essential for both surgical planning and prognosti- 
+cation. Doppler echocardiography, for instance, allows clini- 
+cians to evaluate the degree of shunting across the VSD and 
+assess the pressures within the pulmonary vasculature, which 
+directly influence the management approach [ 6 ,7 ]. Moreover, 
+advancements in the management of pulmonary hyperten- 
+sion and heart failure have improved the overall prognosis 
+for patients with complex congenital heart defects like DORV, 
+although the risk of complications such as arrhythmias and 
+right ventricular dysfunction remains a concern throughout 
+the patient’s life. 
+This case report presents a rare and interesting case of 
+DORV with bidirectional shunting, associated with 2 VSDs in 
+a 16-year-old female patient. The clinical features, diagnos- 
+tic workup, and subsequent management are discussed, high- 
+lighting the complex nature of the disease and the thera- 
+peutic approach required for optimal outcomes. The patient’s 
+clinical course is characterized by a progressive worsening 
+of symptoms, including exertional dyspnea, central cyanosis, 
+and signs of right heart failure. Diagnostic imaging, includ- 
+ing echocardiography, Doppler studies, and electrocardiogram 
+(ECG), provided critical insights into the structural and hemo- 
+dynamic alterations in the patient’s heart, leading to the di- 
+agnosis of DORV and associated pulmonary hypertension. 
+The therapeutic approach involved stabilization with medical 
+management and preparation for corrective surgical interven- 
+tion. 
+Case presentation 
+The patient, a 16-year-old female, presented to the tertiary 
+hospital center with a 2-month history of exertional dyspnea. 
+This symptom had progressively worsened over the course 
+of her illness, and it prompted further investigation, eventu- 
+ally leading to the diagnosis of Double Outlet Right Ventri- 
+cle (DORV) with 2 associated ventricular septal defects (VSDs). 
+The patient was admitted for further management, includ- 
+ing cardiac catheterization to evaluate the reversibility of the 
+defect. Upon admission, her clinical condition was marked 
+by central cyanosis, indicating reduced oxygen levels in the 
+blood, and clubbing of the fingers, which is often associated 
+with chronic hypoxia and congenital heart disease. Addition- 
+ally, she exhibited tachycardia, with a pulse rate of 120 beats 
+per minute. A thorough physical examination revealed the 
+presence of a pan-systolic murmur, best heard over the left 
+parasternal area, without any added heart sounds or signs of 
+edema in the extremities, suggesting that her heart failure had 
+not progressed to the point of severe fluid retention. 
+Laboratory investigations were extensive and revealed sev- 
+eral abnormal findings. A complete blood count showed 
+that the patient had microcytic, hypochromic anemia with a 
+hemoglobin level of 9.5 g/dl, which is significantly below the 
+normal reference range for her age. This suggests the pres- 
+ence of iron deficiency anemia, which is common in chil- 
+dren and adolescents with chronic illness. Her white blood cell 
+count was also low, at 3.68 × 103 / μl, indicative of leukopenia, 
+which can result from either chronic illness or the body’s re- 
+sponse to stress. Mild thrombocytopenia was also observed 
+with a slightly reduced platelet count, suggestive of stress 
+platelets. The hematology report indicated anisocytosis (vari- 
+ation in red blood cell size), microcytosis (smaller than normal 
+red blood cells), and hypochromia (pale red blood cells due to 
+a lack of hemoglobin). Furthermore, a few tear-drop-shaped 
+cells, macrocytes, and polychromatic cells were present, all of 
+which are typical of iron deficiency anemia. This was further 
+corroborated by the clinical findings of central cyanosis and 
+clubbing, which are often associated with chronic low oxygen 
+levels in the blood due to congenital heart defects. 
+Biochemical analysis revealed that the patient’s serum glu- 
+cose levels were within normal limits at 5.3 mmol/L, and her 
+serum creatinine level was also normal at 0.59 mg/dl, indicat- 
+ing adequate renal function. Electrolyte studies showed that 
+sodium was 136 mmol/L, potassium was 4.5 mmol/L, and chlo- 
+ride was 101 mmol/L, all of which were within normal ranges, 
+[[p3]]
+3932 Radiology  Case  Reports  20  (2025)  3930–3937  
+Fig. 1 –T h i s echocardiogram image shows multiple views of the patient’s heart. The upper left and bottom right images 
+highlight the aorto-mitral discontinuity, a significant finding in congenital heart defects like double outlet right ventricle 
+(DORV). The VSD (ventricular septal defect) is visible in the other images, demonstrating its location and size. The VSDs are 
+seen in both the upper right and lower left sections. These visual findings are consistent with congenital structural heart 
+defects, which were confirmed in the patient’s overall clinical and diagnostic evaluations. 
+suggesting that her fluid and electrolyte balance were sta- 
+ble at the time of admission. These normal values are crucial 
+for managing patients with congenital heart defects, as elec- 
+trolyte imbalances can worsen cardiac dysfunction. 
+The most critical diagnostic workup came from the 
+echocardiographic studies ( Fig. 1 ), which showed several im- 
+portant findings. The patient had a large perimembranous 
+VSD measuring 11 mm ×16 mm , which was associated with a 
+bidirectional shunt. This means that blood was flowing in both 
+directions across the VSD, further exacerbating her cyanosis 
+and leading to poor oxygen saturation levels. In addition, the 
+echocardiogram revealed moderate pulmonary hypertension 
+with a mean pulmonary arterial pressure (PAP) of 28 mmHg, 
+which is a common complication in patients with congeni- 
+tal heart defects due to the increased blood flow through the 
+pulmonary vasculature. Furthermore, the Doppler study indi- 
+cated mild tricuspid regurgitation (TR), along with dilation of 
+the right atrium (RA) and right ventricle (RV). The left ven- 
+tricular function remained normal, and the right ventricular 
+systolic function, as measured by the tricuspid annular plane 
+systolic excursion (TAPSE), was also preserved at 19 mm. The 
+echocardiogram further confirmed the absence of pericardial 
+effusion, and no thrombus or vegetation was noted in the 
+heart chambers. These findings are important in understand- 
+ing the hemodynamic consequences of DORV and VSDs, as 
+well as in planning the management and treatment for the 
+patient. 
+The patient’s electrocardiogram (ECG) showed some non- 
+specific changes ( Fig. 2 ), including a short PR interval, right 
+axis deviation, and possible lateral infarction. The ST ab- 
+normality observed in the ECG was interpreted as being 
+age- and gender-related, and no acute pathological changes 
+were noted. However, this does not rule out the possibility 
+of underlying arrhythmias or other conduction disturbances, 
+which can be common in patients with congenital heart 
+disease. 
+The color Doppler echocardiographic study ( Fig. 3 ), pro- 
+vided detailed insights into the structural and hemodynamic 
+abnormalities of the patient’s heart, confirming the diagno- 
+sis of Double Outlet Right Ventricle (DORV) with a subaortic 
+[[p4]]
+Radiology  Case  Reports  20  (2025)  3930–3937 3933 
+Fig. 2 –T h i s ECG reveals a short PR interval, right axis deviation, and possible lateral infarction, as indicated by ST 
+abnormalities, commonly observed in patients with congenital heart defects with the involvement of right ventricle (RV). 
+Fig. 3 –T h i s colour doppler echocardiogram report highlights the patient’s congenital heart defect, including the presence of 
+2 ventricular septal defects (VSDs), with evidence of bidirectional shunting. Two distinct VSDs were identified in the 
+interventricular septum (IVS): the first, a larger perimembranous VSD involving the inlet part with extensions toward the 
+sub-aortic region, measured 11 mm × 16 mm; the second, a smaller VSD in the mid-part of the trabecular septum, 
+measured 4 mm × 4 mm. Both VSDs permitted bidirectional shunting, predominantly left-to-right (LR→ Rt), contributing to 
+the patient’s cyanosis and pulmonary hypertension, with the larger VSD being routable to the aorta. The left image of the 
+Doppler echocardiogram shows color flow, indicating abnormal blood flow patterns across the VSDs, with red and blue 
+areas representing the direction of flow. The report further specifies that the aorta is arising from the right ventricle (a 
+feature typical of double outlet right ventricle, DORV), and the pulmonary artery (PA) and branches are dilated. The right 
+image provides a grayscale echocardiographic view of the heart, reinforcing the visual evidence of the VSD and other 
+structural abnormalities. 
+subtype, where the aorta arises from the right ventricle (RV) 
+in close proximity to a subaortic VSD. The study revealed si- 
+tus solitus and levocardia, with normal pulmonary and sys- 
+temic venous drainage. Two atria were identified: the left 
+atrium (LA) was within normal limits (size = 24 mm), while 
+the right atrium (RA) was dilated (size = 39 mm). The inter- 
+atrial septum (IAS) was intact, and atrioventricular concor- 
+dance was preserved, with the mitral valve (MV) and tricus- 
+pid valve (TV) functioning normally. No tricuspid regurgitation 
+(TR) was observed, and pulmonary artery systolic pressure 
+(PASP) could not be calculated. The ventricles demonstrated 
+D-bulboventricular looping, with the RV exhibiting moderate 
+left ventricular (LV) wall hypertrophy, a mildly dilated cav- 
+ity with features of pressure overload, and good RV systolic 
+[[p5]]
+3934 Radiology  Case  Reports  20  (2025)  3930–3937  
+Fig. 4 –T h i s Doppler echocardiogram provides a detailed analysis of the blood flow velocity through the patient’s heart. The 
+maximum flow velocity (Vel) was measured at 105.77 cm/s in the normal direction, and 386.37 cm/s in the reverse direction, 
+which indicates significant turbulence and bidirectional shunting across the VSDs. The peak gradient (PGmax) for the 
+forward flow was found to be 4.47 mmHg, while the reverse flow showed a much higher peak gradient of 59.71 mmHg. 
+These findings suggest the presence of significant pressure differences across the VSDs, which are causing abnormal blood 
+flow dynamics and contributing to the patient’s cyanosis and other clinical symptoms. The data also includes other settings 
+used during the Doppler study, such as signal range (SR), waveform frequency (WF), and angle (A). The SVD (sampling 
+volume distance) is shown as 6.5 cm, indicating the specific region of the heart under examination. 
+function. The LV cavity was within normal limits with good 
+systolic function (LVEF = 60%), involving part of the subaor- 
+tic region. Two distinct VSDs were identified in the interven- 
+tricular septum (IVS): the first, a larger perimembranous VSD 
+involving the inlet part with extensions toward the subaor- 
+tic region, measured 11 mm × 16 mm; the second, a smaller 
+VSD in the mid-part of the trabecular septum, measured 4 
+mm × 4 mm. Both VSDs permitted bidirectional shunting, 
+predominantly left-to-right (LR→ Rt), contributing to the pa- 
+tient’s cyanosis and pulmonary hypertension, with the larger 
+VSD being routable to the aorta. An aorto-mitral discontinu- 
+ity of 3 mm was noted, and both the aorta and pulmonary 
+artery were confirmed to emerge entirely from the RV, con- 
+sistent with DORV. The aortic valve (Aov) had 3 cusps and 
+functioned normally, while the pulmonary valve (PV) annulus 
+was mildly dilated but otherwise normal. No subpulmonic ob- 
+struction was present, and the main pulmonary artery (MPA) 
+and branch pulmonary arteries (PAs) were confluent and di- 
+lated, reflecting increased pulmonary blood flow. A malposed 
+great arterial relationship was observed, with the aorta posi- 
+tioned almost side-to-side with the pulmonary artery, slightly 
+posterior and to the right. No patent ductus arteriosus (PDA), 
+coarctation of the aorta, or pericardial effusion was noted, 
+and the aortic arch was left-sided. These findings under- 
+scored the complexity of the patient’s DORV, with the bidi- 
+rectional shunting across the VSDs exacerbating her clini- 
+cal symptoms, necessitating cardiac catheterization to evalu- 
+ate pulmonary vascular resistance (PVR) and plan for surgical 
+correction. 
+The Doppler study also demonstrated significant hemody- 
+namic effects ( Fig. 4 ), including bidirectional shunting across 
+the VSDs. The color Doppler echo revealed abnormal blood 
+flow patterns, indicating the severity of the shunt and its con- 
+tribution to the patient’s cyanosis. The flow velocity across the 
+VSDs was measured with a peak gradient (PGmax) of 59.71 
+mmHg, suggesting a significant pressure difference across the 
+septal defects. This is further confirmed by the Doppler analy- 
+sis, which showed the direction and velocity of blood flow, in- 
+cluding velocities of 105.77 cm/s in the normal direction and 
+386.37 cm/s in the reverse direction. These findings are crucial 
+for assessing the severity of the defect and planning appropri- 
+ate surgical interventions. 
+The patient’s clinical condition, including severe cyanosis, 
+exertional dyspnea, and a significant bidirectional shunt, 
+prompted the medical team to initiate a management plan 
+focused on stabilizing her condition while awaiting surgical 
+intervention. The management included oxygen supplemen- 
+tation to improve oxygen saturation and bed rest to reduce 
+the strain on her heart. She was also started on medication, 
+including diuretics, to manage pulmonary hypertension and 
+support heart function while awaiting catheterization. These 
+medications help to decrease the workload on the heart and 
+[[p6]]
+Radiology  Case  Reports  20  (2025)  3930–3937 3935 
+improve circulation, particularly in the context of her complex 
+congenital heart defect. 
+The treatment plan also included a follow-up for a cardiac 
+catheterization procedure, which would provide further in- 
+sights into the reversibility of the defect and guide decisions 
+regarding potential corrective surgery. She was discharged 
+with a plan for further evaluation and intervention. The med- 
+ical team recommended that she undergo regular follow-up 
+echocardiograms and ECGs, along with close monitoring for 
+any signs of worsening heart failure, arrhythmias, or progres- 
+sive right ventricular failure. The patient was also instructed 
+to continue with laboratory tests, including complete blood 
+counts and chemistry panels, to monitor her hemoglobin lev- 
+els and ensure that her electrolytes and renal function re- 
+mained stable. 
+In conclusion, this young patient with DORV and VSDs 
+presents a challenging case of congenital heart disease with 
+significant hemodynamic consequences. The ongoing man- 
+agement focuses on stabilizing her condition and planning 
+for corrective surgical interventions, including the closure of 
+the VSDs and repair of the DORV. Early detection and inter- 
+vention in such cases are critical to improving the patient’s 
+prognosis and quality of life. Advanced imaging techniques 
+like echocardiography, Doppler studies, and ECG are essential 
+for diagnosing and guiding treatment for complex congenital 
+heart defects. Regular follow-up and comprehensive manage- 
+ment are crucial to ensure the best possible outcome for this 
+patient. 
+Discussion 
+Double Outlet Right Ventricle (DORV) is a congenital cardiac 
+anomaly in which both the aorta and pulmonary artery origi- 
+nate from the right ventricle. It represents a rare and complex 
+form of congenital heart disease, with an incidence of approx- 
+imately 1%-3% of all congenital heart defects [ 6 ,7 ]. DORV can 
+present with significant hemodynamic consequences, partic- 
+ularly when it is associated with other defects, such as ventric- 
+ular septal defects (VSDs). This discussion explores the mul- 
+tifactorial nature of DORV, highlighting its diagnosis, clinical 
+presentation, management strategies, and the challenges that 
+arise from its treatment. 
+Anatomy and variability of DORV 
+DORV is a malformation characterized by an abnormality in 
+the ventriculo-arterial connection, where the aorta and pul- 
+monary artery both arise from the right ventricle. This con- 
+dition can occur in various forms, depending on the align- 
+ment of the outflow tracts and the presence of associated 
+defects such as VSDs, pulmonary stenosis, or transposition 
+of the great arteries. The anatomic variety includes several 
+subtypes, including those with the aorta originating directly 
+from the right ventricle and others with an arterial switch or 
+a double-outlet artery. These variations in anatomy influence 
+the clinical presentation and the surgical approach [ 8 ,9 ]. 
+The complexity of DORV often lies in its associated struc- 
+tural defects. In our case, the patient presented with 2 VSDs, 
+which contributed to a bidirectional shunt, exacerbating her 
+cyanosis and worsening the oxygenation status. The clinical 
+presentation of cyanosis, central and peripheral clubbing, and 
+exertional dyspnea is frequently seen in patients with sig- 
+nificant shunting through the VSD. The bidirectional shunt- 
+ing observed in this case significantly complicates the clinical 
+course by increasing the volume of blood in the right ventricle 
+and contributing to pulmonary hypertension. 
+Diagnosis of DORV 
+The diagnosis of DORV requires both clinical and radiologi- 
+cal evaluation, including echocardiography, Doppler studies, 
+and electrocardiogram (ECG). The use of color Doppler and 2- 
+dimensional echocardiography allows for the clear visualiza- 
+tion of the anatomical defects and the assessment of hemo- 
+dynamic consequences such as shunt direction, pulmonary 
+pressures, and the condition of the heart valves [ 10 ]. 
+In our case, the patient’s echocardiographic findings re- 
+vealed 2 distinct VSDs in the interventricular septum (IVS): 
+the first, a larger perimembranous VSD involving the inlet 
+part with extensions toward the subaortic region, measured 
+11 mm ×16 mm; the second, a smaller VSD in the mid-part of 
+the trabecular septum, measured 4 mm x 4 mm. The presence 
+of bidirectional shunting, as evidenced by Doppler imaging, is 
+a significant factor in the pathophysiology of DORV, leading to 
+a reduction in oxygen saturation and systemic hypoxia. The 
+Doppler study in our case also showed elevated pulmonary 
+arterial pressure (PAP) and mild tricuspid regurgitation (TR), 
+both of which are common complications in patients with 
+DORV, especially those with significant VSDs [ 11 ,12 ]. The right 
+atrium and right ventricle dilation observed in the patient’s 
+echocardiogram further supports the hemodynamic burden 
+placed on the right heart as a result of the increased blood 
+flow through the right ventricle. 
+The electrocardiogram (ECG) of the patient revealed non- 
+specific changes, including a short PR interval, right axis de- 
+viation, and possible lateral infarction. These findings are of- 
+ten seen in patients with congenital heart defects and may 
+indicate underlying conduction disturbances or arrhythmias. 
+While the ECG findings in DORV are not always pathog- 
+nomonic, they help provide additional information in the con- 
+text of a detailed diagnostic workup. 
+Pulmonary hypertension in DORV 
+Pulmonary hypertension (PH) is a common and significant 
+concern for patients with DORV, particularly when associated 
+with VSDs. The bidirectional shunt observed in our patient 
+contributed to increased blood flow to the pulmonary vascu- 
+lature, leading to elevated pulmonary arterial pressure (PAP). 
+Moderate pulmonary hypertension with a mean PAP of 28 
+mmHg was observed in this patient, which is consistent with 
+the hemodynamic findings reported in other studies of DORV 
+patients with VSDs. 
+The presence of PH significantly affects the prognosis of 
+patients with DORV. If left untreated, PH can lead to pro- 
+gressive deterioration in exercise capacity and eventually re- 
+sult in life-threatening complications. Management of PH in 
+DORV patients typically involves optimizing heart function 
+[[p7]]
+3936 Radiology  Case  Reports  20  (2025)  3930–3937  
+through pharmacological agents, oxygen therapy, and close 
+monitoring of pulmonary pressures [ 13 ]. In this case, the pa- 
+tient was started on medications such as diuretics to manage 
+pulmonary hypertension and reduce the strain on the right 
+ventricle. These medications aim to improve circulation and 
+decrease the workload on the heart, which is crucial for stabi- 
+lizing the patient’s condition before corrective surgery. 
+Surgical options and timing 
+Surgical management remains the cornerstone of treatment 
+for patients with DORV and associated defects. The timing of 
+surgery is critical, as early interventions are associated with 
+better outcomes, while delayed surgeries are often compli- 
+cated by irreversible damage to the right ventricle and pul- 
+monary vasculature. Surgical interventions in DORV typically 
+focus on correcting the abnormal ventriculo-arterial connec- 
+tion and repairing the VSDs. The Rastelli procedure, arterial 
+switch operation, and Nikaidoh procedure are commonly em- 
+ployed techniques, each tailored to the specific anatomical 
+features of the DORV defect [ 13 ,14 ]. 
+While transthoracic echocardiography and Doppler ultra- 
+sound remain the cornerstone for the initial diagnosis of Dou- 
+ble Outlet Right Ventricle (DORV), providing critical anatom- 
+ical and physiological insights such as the identification of 
+ventricular septal defects (VSDs), assessment of shunting, and 
+estimation of pulmonary pressures, they have limitations in 
+delineating complex 3-dimensional relationships and extrac- 
+ardiac structures. Cardiac CT and Cardiac MRI offer significant 
+advantages in this regard, particularly for surgical planning in 
+DORV cases. Cardiac CT provides high-resolution imaging of 
+the coronary arteries, great vessels, and extracardiac anatomy, 
+enabling precise visualization of the malposed great arterial 
+relationship and any associated anomalies such as pulmonary 
+artery dilation or arch abnormalities, as observed in our pa- 
+tient. Cardiac MRI, on the other hand, excels in assessing ven- 
+tricular volumes, myocardial function, and tissue characteri- 
+zation, which are crucial for evaluating the extent of right ven- 
+tricular hypertrophy and pressure overload. Additionally, MRI 
+can quantify the degree of shunting and assess pulmonary 
+vascular resistance (PVR) noninvasively, aiding in the deter- 
+mination of surgical candidacy and the optimal timing of in- 
+tervention. These advanced imaging modalities complement 
+echocardiography by providing a comprehensive roadmap for 
+surgical correction, such as the Rastelli procedure or arterial 
+switch operation, ensuring that the approach is tailored to 
+the patient’s specific anatomy and hemodynamic profile, ul- 
+timately improving surgical outcomes and reducing perioper- 
+ative risks [ 15 ,16 ]. 
+In our patient, the management plan included preparation 
+for corrective surgery, including cardiac catheterization to as- 
+sess the reversibility of decisions regarding surgery. The goal 
+of surgery is to re-establish normal blood flow patterns and 
+alleviate the hemodynamic burden on the heart. The surgical 
+correction involves rerouting the aorta and pulmonary arter- 
+ies to the left and right ventricles, respectively, and closing the 
+VSDs. However, the decision regarding the optimal surgical ap- 
+proach must take into account the patient’s age, the severity 
+of the defect, and the associated complications such as PH. 
+Long-term prognosis and management 
+The prognosis for patients with DORV depends on several fac- 
+tors, including the timing of surgery, the presence of other 
+associated defects, and the response to medical interven- 
+tions. Long-term outcomes after corrective surgery have sig- 
+nificantly improved with advances in surgical techniques, pe- 
+rioperative care, and postoperative monitoring. However, pa- 
+tients with DORV remain at risk for complications such as ar- 
+rhythmias, pulmonary hypertension, and right heart failure, 
+which require ongoing follow-up and management. 
+For our patient, the comprehensive management approach 
+involves regular follow-up with echocardiograms, ECGs, and 
+laboratory tests to monitor for complications and ensure sta- 
+ble heart function. The patient will require close monitoring 
+for any signs of worsening right heart failure, arrhythmias, or 
+progressive PH. The role of advanced imaging techniques like 
+echocardiography, MRI, and Doppler studies will continue to 
+be crucial in assessing long-term outcomes and guiding post- 
+operative care. 
+Conclusion 
+This case of DORV with bidirectional shunting in a 16-year- 
+old female highlights the complexity of managing congenital 
+heart defects and underscores the importance of early inter- 
+vention. The combination of clinical, radiological, and hemo- 
+dynamic data provided a comprehensive understanding of the 
+patient’s condition, leading to a tailored treatment approach. 
+Although the patient remains at risk for complications, the 
+prognosis can be significantly improved with timely surgi- 
+cal intervention and ongoing medical management. The use 
+of advanced imaging techniques and a multidisciplinary ap- 
+proach is essential for optimizing outcomes in patients with 
+complex congenital heart defects like DORV. 
+Patient consent 
+Written informed consent for publication of this case report 
+was obtained from the patient(s). The patient(s) were provided 
+with sufficient information regarding the nature of the publi- 
+cation, including the details to be disclosed and potential im- 
+plications. The patient(s) have confirmed their understanding 
+and voluntarily agreed to the publication of this case report. 
+REFERENCES  
+[1] Bell-Cheddar Y, Devine WA, Diaz-Castrillon CE, Seese L, 
+Castro-Medina M, Morales R, Follansbee CW, Alsaied T, Lin JI. 
+Double outlet right ventricle. Frontiers in pediatrics 
+2023;11:1244558. doi: 10.3389/fped.2023.1244558 .
+[2] Ebadi A, Spicer DE, Backer CL, Fricker FJ, Anderson RH. 
+Double-outlet right ventricle revisited. J Thorac Cardiovasc 
+Surg 2017;154(2):598–604. doi: 10.1016/j.jtcvs.2017.03.049 .
+[[p8]]
+Radiology  Case  Reports  20  (2025)  3930–3937 3937 
+[3] Gressani A, Aynetdinova R, Kostolny M, Schievano S, Cook A, 
+Belitsis G. Aortic arch phenotypes in double outlet right 
+ventricle (DORV)-implications for surgery and multi-modal 
+imaging. J Cardiovasc Dev Dis 2022;9(8):262. 
+doi: 10.3390/jcdd9080262 .
+[4] Farruggio S, Caruso E. Double outlet right ventricle in the 
+setting of hypoplastic left ventricle, mitral atresia, 
+interruption of aortic arch, and uncommon intra-atrial 
+anomalies in Trisomy 18. Echocardiography 
+2021;38(8):1359–64. doi: 10.1111/echo.15142 .
+[5] Spadotto V, Frescura C, Ho SY, Thiene G. The concept of 
+double inlet-double outlet right ventricle: a distinct 
+congenital heart disease. Cardiovasc Pathol 2017;26:39–44. 
+doi: 10.1016/j.carpath.2016.09.003 .
+[6] Saleeb SF, Juraszek A, Geva T. Anatomic, imaging, and 
+clinical characteristics of double-inlet, double-outlet right 
+ventricle. Am J Cardiol 2010;105(4):542–9. 
+doi: 10.1016/j.amjcard.2009.09.056 .
+[7] Gottschalk I, Abel J S, Menzel T, Herberg U, Breuer J, 
+Gembruch U, Geipel A, Brockmeier K, Berg C, Strizek B. 
+Prenatal diagnosis, associated findings and postnatal 
+outcome of fetuses with double outlet right ventricle (DORV) 
+in a single center. J Perinatal Med. 2019;47(3):354–64. 
+doi: 10.1515/jpm- 2018- 0316 .
+[8] Goo HW. Double outlet right ventricle: In-depth anatomic 
+review using three-dimensional cardiac CT data. Korean J 
+Radiol 2021;22(11):1894–908. doi: 10.3348/kjr.2021.0248 .
+[9] Holten-Andersen M, Lippert M, Holmstrøm H, Brun H, 
+Døhlen G. Current outcomes of live-born children with 
+double outlet right ventricle in Norway. Eur J Cardiothorac 
+Surg 2022;63(1):ezac560. doi: 10.1093/ejcts/ezac560 .
+[10] Golbabaei A, Majnoun MT, Aghaei Moghadam E, Rastgar A, 
+Naemi M. Prenatal diagnosis of a rare case of double-outlet 
+right ventricle with tricuspid atresia. J Tehran Heart Cent 
+2022;17(1):38–40. doi: 10.18502/jthc.v17i1.9325 .
+[11] Lacour-Gayet F, Zoghbi J, Gouton M, Roussin R, Bical O, 
+Lucet V, Saint-Pick M, Leca F. Multicentre study on late 
+outcomes of biventricular repair of double outlet right 
+ventricle. European journal of cardio-thoracic surgery : 
+official journal of the European Association for 
+Cardio-thoracic Surgery 2024;65(1):ezad423. 
+doi: 10.1093/ejcts/ezad423 .
+[12] Gedikbasi A, Oztarhan K, Gul A, Sargin A, Ceylan Y. Diagnosis 
+and prognosis in double-outlet right ventricle. Am J Perinatol 
+2008;25(7):427–34. doi: 10.1055/s- 0028- 1083840 .
+[13] Corno AF, Durairaj S, Skinner GJ. Narrative review of 
+assessing the surgical options for double outlet right 
+ventricle. Transl Pediatr 2021;10(1):165–76. 
+doi: 10.21037/tp- 20- 227 .
+[14] Dewi DK, Perdhana DP. Double outlet right ventricle 
+presenting in an adult woman: a case report. Radiol Case Rep 
+2022;17(5):1413–15. doi: 10.1016/j.radcr.2022.02.026 .
+[15] Han BK, Rigsby CK, Hlavacek A, Leipsic J, Nicol ED, Siegel MJ, 
+Bardo D, Abbara S, Ghoshhajra B, Lesser JR, Raman S, 
+Crean AM. Computed Tomography Imaging in Patients with 
+Congenital Heart Disease Part I: Rationale and Utility. An 
+Expert Consensus Document of the Society of Cardiovascular 
+Computed Tomography (SCCT): Endorsed by the Society of 
+Pediatric Radiology (SPR) and the North American Society of 
+Cardiac Imaging (NASCI). J Cardiovasc Comput Tomogr 
+2015;9(6):475–92. doi: 10.1016/j.jcct.2015.07.004 .
+[16] Fratz S, Chung T, Greil GF, Samyn MM, Taylor AM, 
+Valsangiacomo Buechel, Yoo SJ, Powell AJ. Guidelines and 
+protocols for cardiovascular magnetic resonance in children 
+and adults with congenital heart disease: SCMR expert 
+consensus group on congenital heart disease. J Cardiovasc 
+Magn Reson : Official Journal of the Society for 
+Cardiovascular Magnetic Resonance 2013;15(1):51. 
+doi: 10.1186/1532- 429X- 15- 51 .

@@ -1,0 +1,1253 @@
+
+[[p1]]
+EDITED BY  
+Nazmi Narin,  
+Izmir Katip Celebi University, Türkiye
+REVIEWED BY  
+Andrija Pavlovic,  
+University Children’s Hospital, Serbia  
+Kaan Yildiz,  
+Izmir City Hospital, Türkiye
+*CORRESPONDENCE  
+Silin Pan  
+pansilin@qdu.edu.cn
+RECEIVED 08 September 2025 
+REVISED 12 March 2026 
+ACCEPTED 17 March 2026 
+PUBLISHED 02 April 2026
+CITATION 
+Liu J, Wang Y, Gao Y, Luo G and Pan S 
+(2026) Current practice and challenges 
+in fetal cardiac intervention.  
+Front. Cardiovasc. Med. 13:1701389. 
+doi: 
+10.3389/fcvm.2026.1701389
+COPYRIGHT 
+© 2026 Liu, Wang, Gao, Luo and Pan. 
+This is an open-access article distributed 
+under the terms of the 
+Creative 
+Commons Attribution License (CC BY). 
+The use, distribution or reproduction in 
+other forums is permitted, provided the 
+original author(s) and the copyright 
+owner(s) are credited and that the 
+original publication in this journal is 
+cited, in accordance with accepted 
+academic practice. No use, distribution 
+or reproduction is permitted which does 
+not comply with these terms.
+Current practice and challenges 
+in fetal cardiac intervention
+Junhui Liu, Yue Wang, Yuan Gao, Gang Luo and Silin Pan*
+Heart Center, Women and Children’s Hospital, Qingdao University, Qingdao, China
+Fetal cardiac intervention (FCI) is a rapidly evolving technique aimed at 
+improving outcomes in fetuses with severe congenital heart disease (CHD). 
+Despite the signiﬁcant promise of FCI, critical issues remain unresolved, 
+including optimal intervention timing, precise selection criteria, and the 
+management of procedure-related complications. This study reviews current 
+clinical practices in FCI, offering a practical and informative reference for 
+clinicians in pediatric cardiology and related ﬁelds.
+KEYWORDS
+congenital heart disease, fetal cardiac intervention, fetal balloon aortic valvuloplasty, 
+fetal atrial septal intervention, fetal pulmonary valvuloplasty
+Introduction
+Congenital heart disease (CHD) is one of the most common birth defects in 
+newborns, damaging their survival and life quality. Globally, the incidence is estimated 
+at approximately 9.4 cases per 1,000 live births (
+1 ). Fetal cardiac intervention (FCI) 
+refers to the minimally invasive procedure performed on fetuses with severe CHDs 
+aimed at altering the natural course of the disease and enhancing patients’ survival and 
+life quality. Since Maxwell et al. (
+2) reported the ﬁrst case of percutaneous fetal balloon 
+aortic valvuloplasty (FAV) in 1991, FCI has undergone continuous improvement over 
+the past 30 years. Rates of procedural success, survival, and postnatal biventricular 
+circulation (BVC) have shown progressive improvement, while procedure-related 
+mortality and complications have declined (
+3, 4).
+Given the inherent risks to both the mother and fetus, FCI is only reserved for severe, 
+progressive, and life-threatening CHDs where meaningful clinical beneﬁt is anticipated. 
+Despite the therapeutic potential of FCI, critical challenges, such as optimal 
+intervention timing, precise selection criteria, and management of procedure-related 
+complications, remain. This review summarizes the current evidence and practices in 
+FCI, providing clinicians with a valuable reference.
+Search strategy
+This article aims to provide a narrative review of the main areas of FCI. We 
+systematically searched the PubMed, EMBASE, and Cochrane databases from January 
+1990 to December 2025. The search terms include “fetal cardiac intervention,” “fetal 
+aortic valvuloplasty,” “fetal aortic balloon valvuloplasty,” “fetal atrial septoplasty,” “fetal 
+atrial septal stent,” “fetal pulmonary valvuloplasty,” “hypoplastic left heart syndrome,” 
+“aortic stenosis,” “hypoplastic right heart syndrome,” “pulmonary atresia with intact 
+ventricular septum,” “critical pulmonary stenosis,” “restrictive atrial septum,” 
+“outcomes,” and “complications.” The included articles mainly consisted of original 
+research, case series, and meta-analyses. We prioritized studies with larger sample sizes, 
+TYPE Review 
+PUBLISHED 02 April 2026 
+DOI 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+multicenter data, or long-term follow-up. However, given the 
+rarity of this ﬁeld, we also included some representative small- 
+scale case series to comprehensively present the current state of 
+the ﬁeld. The search yielded a total of 29 relevant original 
+articles. All selected articles were subsequently incorporated into 
+this review.
+Primary indications for fetal cardiac 
+intervention
+Severe aortic stenosis with evolving 
+hypoplastic left heart syndrome
+Hypoplastic left heart syndrome (HLHS) is a rare congenital 
+heart defect with an estimated incidence of 0.16–0.36 per 1,000 
+live births, accounting for 1.4%–3.8% of all CHDs (
+5). It is 
+responsible for 23% of cardiac deaths within the ﬁrst week of 
+life (
+6). HLHS is characterized by underdeveloped left-sided 
+cardiac structures that are unable to support systemic circulation 
+(
+5–8 ), which includes left ventricle (LV) hypoplasia, hypoplastic 
+ascending aorta, and aortic or mitral valve atresia or stenosis 
+(
+9, 10). Aortic stenosis (AS) develops before 30 weeks, carries a 
+73% probability of progressing to HLHS (11 , 12), and represents 
+the primary target for FAV. By relieving left ventricular out/f_low 
+tract (LVOT) obstruction, FAV enhances left heart out/f_low, 
+reduces LV pressure, mitigates pathological remodeling and 
+ﬁbrosis, and improves LV development (
+13).
+HLHS with highly restrictive or intact atrial 
+septum
+In HLHS fetuses, interatrial communication is essential for 
+pulmonary venous return from the left atrium (LA) to the right 
+atrium (RA) to reduce LA pressure. Approximately 6%–19% of 
+HLHS cases present with a highly restrictive or intact atrial 
+septum (R/IAS) (
+14 , 15), which elevates LA and pulmonary vein 
+pressure, inducing pulmonary vascular, parenchymal, and 
+lymphatic injury. Without timely intervention, most affected 
+neonates die within hours to days after birth due to severe 
+respiratory failure, pulmonary hypertension, or low cardiac 
+output syndrome (
+16). Fetal atrial septal intervention (FASI) can 
+restore interatrial communication to alleviate chronic pulmonary 
+vascular remodeling (
+17–19 ).
+Pulmonary atresia or severe pulmonary 
+stenosis with intact ventricular septum
+Pulmonary atresia or severe pulmonary stenosis with intact 
+ventricular septum (PA/IVS) with hypoplastic right heart 
+syndrome (HRHS) is a rare and severe CHD, occurring in 4–8 
+per 100,000 live births and accounting for 1%–3% of all CHDs 
+(
+20). Right ventricular out/f_low tract (RVOT) obstruction leads 
+to elevated right ventricular (RV) pressure, ventricular 
+hypertrophy, systolic impairment, tricuspid regurgitation (TR), 
+and endocardial ﬁbroelastosis (EFE), collectively impairing right 
+heart development (
+21). Untreated infants with PA/IVS with 
+HRHS have a 1-year survival of 70%–75% and a 5-year survival 
+of 63%–67% (
+22). Fetal pulmonary valvuloplasty (FPV) can 
+facilitate RV out/f_low, reduce RV pressure, mitigate adverse 
+remodeling, and improve right heart development (
+22, 23).
+Pathophysiology and hemodynamics
+Severe aortic stenosis with evolving 
+hypoplastic left heart syndrome
+AS impairs LV out/f_low and elevates intracardiac pressure. This 
+pressure overload induces LV myocardial hypertrophy and 
+reduces chamber volume, progressively compromising left heart 
+function. Mitral regurgitation (MR) and EFE often develop due 
+to the pathological condition. During fetal development, the 
+patent foramen ovale (FO) allows shunting from the LA to 
+the RA, which mitigates LA pressure and augments pulmonary 
+blood /f_low. Concurrently, the patent ductus arteriosus (PDA) 
+permits RV output to supply the systemic circulation. 
+Postnatally, closure of these essential shunts results in acute 
+circulatory failure, pulmonary edema, and is typically fatal in the 
+neonatal period without intervention (
+Figure 1A).
+HLHS with highly restrictive or intact atrial 
+septum
+As previously described, the patent FO in HLHS facilitates left-to- 
+right shunting, thereby reducing LA pressure. However, in cases of 
+HLHS with a R/IAS, this shunt pathway is compromised, leading 
+to elevated LA pressure and impaired pulmonary venous return. 
+These hemodynamic alterations contribute to pulmonary venous 
+remodeling and lymphatic dilation. In such fetuses, the impaired 
+systemic circulation is dependent on a PDA. Following birth, 
+closure of the PDA precipitates rapid clinical deterioration, 
+characterized by pulmonary edema, low cardiac output, and 
+refractory hypoxemia within hours, culminating in a high early 
+mortality rate of infants (24) (Figures 1B,C).
+Pulmonary atresia or severe pulmonary 
+stenosis with intact ventricular septum
+PA/IVS reduces RV out/f_low, resulting in elevated right heart 
+pressure. Chronic pressure overload induces myocardial 
+hypertrophy, impairs right heart function, and restricts chamber 
+development, with severe cases progressing to HRHS. TR is 
+frequently present unless right heart structures are diminutive. 
+Increased RA pressure augments right-to-left shunting across 
+the FO, leading to LA and LV dilation. Meanwhile, the PDA 
+provides retrograde aortic /f_low to maintain pulmonary 
+circulation. Moreover, sustained RV hypertension may impair 
+coronary perfusion and promote the development of an RV- 
+dependent coronary circulation (
+25). Postnatal closure of the 
+PDA critically compromises pulmonary blood /f_low, culminating 
+in severe hypoxemia and neonatal death (
+Figures 1D,E ).
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+Patient selection
+Severe aortic stenosis with evolving 
+hypoplastic left heart syndrome
+Fetuses with AS, who are at substantial risk of HLHS progression 
+without intervention and possess sufﬁcient potential for post- 
+procedural LV recovery to support systemic circulation, represent 
+the primary candidates for FAV (26). To date, recent literature has 
+outlined patient selection criteria of FAV primarily based on the 
+clinical experience of two leading expert centers: the Boston and 
+Linz groups. The Boston working group proposed a combination of 
+LV pressure >47 mmHg and ascending aorta Z-score ≥ 0.57 as key 
+criteria (27). The Linz working group suggested a RV/LV length 
+ratio <1.09 or a RV/LV length ratio of 1.09–1.3 combined with MR 
+Vmax >314 cm/s as selection criteria (28). Recently, Green et al. 
+(29) identiﬁed peak systolic myoﬁber stress as a predictor of BVC 
+outcome after FAV, outperforming all echo parameters.
+HLHS with highly restrictive or intact atrial 
+septum
+No well-established FASI patient selection criteria exist for 
+HLHS with R/IAS. Gellis et al. (30) reported that a ratio of 
+FIGURE 1 
+Pathophysiology and hemodynamics of congenital heart diseases. (A) AS with HLHS, (B) HLHS, (C) HLHS with R/IAS, (D) severe PS, (E) PA/IVS with 
+HRHS. RV, right ventricle; LV, left ventricle; RA, right atrium; LA, left atrium; AO, aorta; PA, pulmonary artery; IVC, inferior vena cava; PV, 
+pulmonary vein; AS, aortic stenosis; HLHS, hypoplastic left heart syndrome; R/IAS, restrictive or intact atrial septum; PS, pulmonary stenosis; PA/ 
+IVS, pulmonary atresia with intact ventricular septum; HRHS, hypoplastic right heart syndrome.
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+pulmonary venous antegrade-to-retrograde /f_low velocity-time 
+integral <2.7 predicts postnatal hemodynamic instability, urgent 
+intervention, death, or transplantation. Additional indicators 
+include IAS or RAS ≤1 mm, LA and pulmonary vein dilation, 
+bidirectional pulmonary venous /f_low with signiﬁcant systolic 
+retrograde /f_low, and minimal or no early diastolic antegrade 
+pulmonary venous /f_low (
+31). Acute maternal hyperoxygenation 
+(AMH) testing with a cut-off value of <10% pulmonary vascular 
+reactivity shows 100% sensitivity and 94% speciﬁcity in 
+identifying the need for urgent postnatal intervention after 
+FASI (
+32).
+Pulmonary atresia or severe pulmonary 
+stenosis with intact ventricular septum
+There were no well-established FPV selection criteria for PA/ 
+IVS. TV Z-score and qualitative assessment of RV size are 
+commonly used to guide decisions on FCI eligibility. A tricuspid 
+valve annulus z-score falling between −2.5 to −4 for gestational 
+age may be used as an inclusion criterion, but it is not 
+universally used, and RV size should be no more than moderate 
+RV hypoplasia (
+33). Previous studies proposed some predictors 
+of postnatal UVC after FPV (34–36). Wolter et al. (36) found 
+that for fetuses at 24–30 weeks, a TV/MV < 0.62 had a 
+sensitivity of 85% and a speciﬁcity of 88% for predicting UVC 
+outcomes. For fetuses > 30 weeks, a TV/MV < 0.71 had a 
+sensitivity of 91% and a speciﬁcity of 92% for predicting 
+UVC outcomes.
+Procedural techniques
+Severe aortic stenosis with evolving 
+hypoplastic left heart syndrome
+FAV is optimally performed between 18 and 30 weeks of 
+gestation (37). The ideal fetal position is with the fetal LV facing 
+the maternal abdominal wall (38). An 18- or 19-gauge needle 
+penetrates the maternal abdominal and uterine walls, entering 
+the fetal thorax via a subcostal approach or intercostal space 
+adjacent to the fetal sternum. The needle tip targets the LV 
+apex, passes through the ventricular wall, and is directed toward 
+the LVOT. A 0.014-inch coronary guidewire and angioplasty 
+balloon are advanced through the needle. The guidewire is 
+maneuvered across the AV into the ascending aorta, positioning 
+the balloon across the aortic annulus. The balloon is in/f_lated 1– 
+2 times (
+39). Technical success is deﬁned by improved antegrade 
+/f_low across the AV and/or new aortic regurgitation (AR) (39, 
+40) (Figure 2A).
+HLHS with highly restrictive or intact atrial 
+septum
+FASI is typically performed between 24 and 34 weeks of 
+gestation (40). The ideal fetal position is with the fetal atrium 
+facing the maternal abdominal wall (37, 39). An 18- or 19-gauge 
+needle penetrates the maternal abdominal and uterine walls, 
+entering the fetal thorax via a subcostal approach or intercostal 
+space adjacent to the fetal sternum. The needle is then inserted 
+through the atrial wall and directed toward the atrial septum. 
+Then the atrial septum is punctured. A 0.014-inch coronary 
+guidewire and angioplasty balloon are advanced through the 
+needle. The guidewire is maneuvered across the atrial septum 
+into the other side fetal atrium, positioning the balloon across 
+the atrial septum. Then the balloon was dilated 1–2 times 
+(
+39, 40). For a thick atrial septum, stent placement is a better 
+alternative to maintain patency. Quintero et al. (41 ) ﬁrst used a 
+Neodymium-YAG laser for fetal atrial septum opening, and 
+Belfort et al. (
+42) reported Thulium laser-assisted fetal atrial 
+septal stent placement. This method avoids tissue recoil and is 
+not limited by balloon and needle size (
+Figures 2B,C).
+Pulmonary atresia or severe pulmonary 
+stenosis with intact ventricular septum
+FPV is optimally performed between 21 and 32 weeks of 
+gestation (21, 22, 33, 43). The ideal fetal position is with the 
+fetal RV facing the maternal abdominal wall. An 18- or 
+19-gauge needle penetrates the maternal abdominal and uterine 
+walls, entering the fetal thorax via a subcostal approach or 
+intercostal space adjacent to the fetal sternum. The needle tip 
+targets the RV apex, passes through the ventricular wall, and is 
+directed toward the RVOT. Puncture of the atretic PV is needed 
+by introducing another ultrasharp needle. Then, a 0.014-inch 
+coronary guidewire and angioplasty balloon are advanced 
+through the needle, positioning the balloon across the stenotic 
+PV. The balloon is dilated 1–2 times. Technical success is 
+deﬁned by improved antegrade blood /f_low across the PV 
+(
+39, 43) (Figure 2D).
+Procedural outcomes
+Severe aortic stenosis with evolving 
+hypoplastic left heart syndrome
+Recent large cohort studies show improved FAV technical 
+success, decreased procedural mortality, and a lower procedural 
+complication rate for AS with HLHS. International Fetal Cardiac 
+Interventional Registry (IFCIR) reported 81% technical success 
+rate and 12% fetal mortality of FAV (
+3). Boston’s cohort showed 
+the technical success rate increasing from 73% to 94% and the 
+fetal mortality declining to 4% (2000–2015) (
+27). Children’s 
+Heart Center Linz also reported improved outcomes after 2014 
+(
+28 ) (Table 1). Reported BVC rates after FAV range from 40% 
+?VSD?GRK?PVK?QQK?QVK?QW?K?SS?–TQH?Gs?PHM?gK?u?
+et al. (53) found no signiﬁcant difference in BVC rates between 
+FAV and natural history cohorts. Given the lack of randomized 
+clinical trials, these results should be interpreted with caution.
+This apparent discrepancy raises a critical question of whether 
+FAV truly alters the disease course. Fetuses undergoing FAV are 
+typically rigorously selected based on favorable LV anatomy and 
+preserved residual LV function, which also predict a better 
+natural history, potentially masking the true effect of the 
+intervention (
+26, 27). Currently, available data do not suggest a 
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+true beneﬁt of FAV in achieving BVC (53). A decision-analysis 
+study further suggested that expectant management may be 
+preferable when procedural mortality of FAV for evolving HLHS 
+exceeds 12% or BVC rates fall below 26% in some centers (
+54). 
+These ﬁndings underscore that, under current technical 
+conditions, the potential beneﬁt of FAV may be limited to 
+speciﬁc patient subgroups and to experienced centers with high 
+procedural volumes.
+Common post-FAV complications include AV restenosis, 
+progressive AR, and LV dysfunction, necessitating further 
+interventions (
+25, 26, 66). A study reported 89.3% of BVC- 
+achieving cases required reintervention, with 39.3% undergoing 
+a second and 14.3% a third (
+44 ), which indicates the importance 
+of long-term postoperative and postnatal follow-up.
+Overall, FAV for AS with HLHS requires careful patient 
+selection and should be performed in high-volume, experienced 
+centers. Integrating detailed fetal echocardiographic parameters 
+is critical for identifying suitable candidates.
+HLHS with highly restrictive or intact atrial 
+septum
+FASI technical success rate and procedural mortality for HLHS 
+with R/IAS remain uncertain due to limited evidence. IFCIR 
+reported 77% overall technical success rate, 13% procedural 
+mortality, and 64% complication rate of FASI (59). Other studies 
+report technical success rates of 56%–90% (3, 17, 18 , 55, 56, 
+58–60), procedural mortality of 7%–83% (3, 17, 18 , 47, 55–60), 
+and live birth rates of 75%–92% (3, 18 , 47, 55) (Table 1). Yilmaz 
+Furtun et al. (60) reported improved technical success from 58% 
+to 85% (2012–2024) due to thulium laser-assisted puncture 
+introduction in 2018. Maintaining patency of the atrial septum is 
+critically important for fetuses with HLHS and R/IAS. Marshall 
+et al. found that the establishment of an atrial communication 
+>3 mm was associated with higher postnatal oxygen saturation 
+and improved outcomes following stage I palliative surgery (56). 
+A meta-analysis demonstrated that the FASI group had a lower 
+FIGURE 2 
+Procedural techniques of fetal cardiac intervention. (A) FAV is performed using an 18 G/19 G needle, a 0.014-inch coronary guide wire, and a coronary 
+balloon. (B) Perforation of the atrial septum is performed using an 18 G/19 G needle, a 0.014-inch coronary guide wire, and a coronary balloon. (C) 
+Stenting of the atrial septum defect with a short stent. (D) FPV is performed using an 18 G/19 G needle, a 0.014-inch coronary guide wire, and a 
+coronary balloon. RV: right ventricle, LV, left ventricle; RA, right atrium; LA, left atrium; PA, pulmonary artery; AO, aorta; FAV, fetal aortic 
+valvuloplasty; FPV, fetal pulmonary valvuloplasty.
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+rate of postnatal restrictive atrial septum compared to the non-FASI 
+group (67), indicating that FASI can reduce the need for emergent 
+atrial septostomy in neonates.
+Studies have indicated that stent placement is more effective 
+than isolated balloon dilation in maintaining persistent septal 
+patency for a thickened atrial septum (
+59), a ﬁnding supported 
+TABLE 1 Procedural outcomes of FCI in CHDs.
+Author Cases Technical Success % (n) Procedural Mortality % (n) Liveborns % (n) BVC % (n)
+Procedural outcomes of FAV in AS with HLHS
+1 Arzt et al. (45) 23 70% (16/23) 13% (3/23) 93% (15/16) 67% (10/15)
+2 Freud et al. (46) 100 77% (77/100) 11% (11/100) 91% (70/77) 50% (35/70)
+3 Pedra et al. (47) 13 92% (12/13) 0 100% (11/11) 46% (5/11)
+4 Moon-Grady et al. (3) 86 81% (70/86) 12% (10/86) 80% (56/70) 46% (24/56)
+5 Wohlmuth et al. (48 ) 31 94% (29/31) 7% (2/29) 79% (23/29) 61% (14/23)
+6 Jaeggi et al. (49) 12 92% (11/12) 25% (3/12) – –
+7 Galindo et al. (50) 28 79% (22/28) 29% (8/28) 50% (11/22) 55% (6/11)
+8 Kovacevic et al. (51) 67 88% (59/67) 9% (6/67) 80% (47/59) 40% (19/47)
+9 Friedman et al. (27) 123 82% (101/123) 9% (11/123) 92% (93/101) 45% (42/93)
+10 Cruz-Lemini et al. (52) 9 100% (9/9) 33% (3/9) 67% (6/9) 67% (4/6)
+11 Debska et al. (17) 94 89% (84/94) 7% (7/94) – –
+PQ?s??M?GQW?H?POR?WVD?GXONPORH?PPD?GPPNPORH?XPD?GWQNXOH?VSD?GUPNWQH
+PR?b??M?GSS?H?TW?WUD?GTONTWH?PXD?GPPNTWH?UUD?GRWNTWH?VSD?GQWNRWH
+14 Zhao et al. (22) 2 100% (2/2) 0 100% (2/2) 50% (1/2)
+Procedural outcomes of FASI in HLHS with R/IAS
+1 Marshall et al. (55) 7 86% (6/7) 14% (1/7) 83% (5/6) –
+2 Marshall et al. (56) 21 90% (19/21) 10% (2/21) 100% (19/19) –
+3 Chaturvedi et al. (19 ) 4 100% (4/4) 0 100% (4/4) –
+4 Pedra et al. (47) 4 100% (4/4) 25% (1/4) 75% (3/4) –
+5 Herberg et al. (57) 6 100% (6/6) 83% (5/6) 0 –
+6 Kalish et al. (58) 9 56% (5/9) 11% (1/9) 100% (5/5) –
+V?lLf??M?GRH?RV?UTD?GQSNRVH?WD?GRNRVH?XQD?GQQNQSH?–
+8 Jaeggi et al. (49) 2 100% (2/2) 0 100% (2/2) –
+9 Jantzen et al. (59) 47 77% (36/47) 13% (6/47) – –
+10 Mackesy et al. (18 ) 31 90% (28/31) 7% (2/31) 89% (25/28) –
+11 Debska et al. (17) 19 84% (16/19) 16% (3/19) – –
+PQ?x?e??M?GUOH?QT?VQD?GPWNQTH?QOD?GTNQTH?POOD?GPWNPWH?–
+Procedural outcomes of FPV in PA/IVS
+1 Tulzer G et al. (69) 2 100% (2/2) 0 100% (2/2) 100% (2/2)
+2 Montes et al. (64) 4 100% (4/4) 0 100% (4/4) 25% (1/4)
+3 Pedra et al. (47) 4 75% (3/4) 0 100% (3/3) 100% (3/3)
+4 Moon-Grady et al. (3) 16 69% (11/16) 13% (2/16) 64% (7/11) 71% (5/7)
+5 Jaeggi et al. (49) 4 75% (3/4) 25% (1/4) – –
+6 Tulzer et al. (62) 23 91% (21/23) 0 100% (21/21) 71% (15/21)
+7 Hogan et al. (23) 58 71% (41/58) 12% (7/58) 85% (35/41) 77% (27/35)
+8 Debska et al. (17) 15 80% (12/15) 7% (1/15) – –
+9 Pang et al. (65) 5 100% (5/5) 0 100% (5/5) 60% (3/5)
+10 Luo et al. (20) 7 100% (7/7) 0 71% (5/7) 100% (5/5)
+11 Zhao et al. (22) 3 100% (3/3) 0 100% (3/3) 100% (3/3)
+12 Deren et al. (68) 2 100% (2/2) 0 100% (2/2) 100% (2/2)
+BVC, biventricular circulation. Liveborns refer to the number of liveborns in the successful FCI group. BVC refers to the number of liveborns achieving BVC with successful FCI.
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+by clinical data from a Polish cohort. In this cohort, 19 fetuses 
+with HLHS and R/IAS underwent FASI. Of these, 14 received 
+stent placement, yielding an 86% technical success rate and a 
+100% live birth rate. In contrast, the remaining 5 fetuses 
+who underwent isolated balloon dilation achieved effective 
+interatrial communication in only 1 case, which involved a thin 
+foramen ovale /f_lap (
+17). Moreover, stent placement is also 
+highly dependent on increased experience and technological 
+advancements. In 2014, Kalish et al. (
+58) reported attempted 
+fetal atrial septal stent placement in 9 fetuses with HLHS and 
+IAS. Successful stent placement was achieved in 4 fetuses. In the 
+remaining cases, stent placement failed due to malposition or 
+embolization. More recently, Yilmaz Furtun et al. (
+60) reported 
+that with the addition of laser assistance and the utilization of 
+various ultrasound imaging planes, the technical success rate of 
+stent placement has signiﬁcantly improved.
+The signiﬁcant heterogeneity in FASI outcomes profoundly 
+re/f_lects the procedure’s high dependence on center experience and 
+procedural volume (17, 18 , 55–60). FCI is technically demanding, 
+with a notably steep learning curve ( 63). Research has 
+demonstrated that in ovine models, simulation-based training and 
+repetitive practice signiﬁcantly reduce the time required for needle 
+tip positioning, suggesting that simulation is an effective means of 
+enhancing technical proﬁciency (63). Similarly, centers such 
+as Boston Children’s Hospital have achieved substantial 
+improvements in clinical outcomes as their interventional 
+experience and procedural volume increased (60), which indicates 
+that concentrating complex FCI in high-volume centers is essential 
+for ensuring procedural success and safety. However, current 
+studies on FASI generally involve small sample sizes, with the 
+largest cohort study comprising fewer than 50 cases, which limits a 
+robust assessment of its outcome stability.
+Therefore, emerging centers planning to implement FASI 
+should complete comprehensive simulation-based training and 
+establish partnerships with experienced centers for technical 
+guidance. Furthermore, future efforts should prioritize 
+multicenter registries and collaborative studies to reﬁne patient 
+selection criteria and optimize technical advancements for FASI.
+Pulmonary atresia or severe pulmonary 
+stenosis with intact ventricular septum
+Procedural outcomes of FPV in PA/IVS are also uncertain due 
+to limited evidence. IFCIR reported 71% technical success rate, 
+55% complication rate, and 12% procedural mortality (
+23). 
+Other studies report technical success rates of 69%–91% (3, 17, 
+23, 47, 49, 62), procedural mortality of 7%–25% (3, 17, 23, 49), 
+and live birth rates of 64%–85% (3, 20, 23) (Table 1). Small 
+studies report 100% technical success and no procedural death 
+(
+20, 22, 61, 64, 65, 68, 69).
+Current evidence indicates that FPV can improve RV 
+hemodynamics and promote RV growth of fetuses with PA/IVS or 
+CPS to increase the likelihood of post-procedural BVC. Post- 
+procedural BVC rates range from 25% to 77% (3, 23, 62, 64, 65), 
+with 100% in some small studies (20, 22, 47, 68, 69) (Table 1). 
+IFCIR showed fetuses with successful FCI exhibited greater 
+increases in TV absolute measurements and Z-scores (23). 
+Similarly, Tulzer et al. (62) and Luo et al. (20) observed signiﬁcant 
+improvements in the RV growth, conﬁrmed by the TV/MV ratio, 
+RV/LV ratio, and TR velocity improvements following FPV. Luo 
+et al. (20) also found that after birth, the diameter of the TV 
+annulus continued to improve, with signiﬁcant developmental 
+progression noted between 6 months and 1 year of age.
+Post-procedural PV restenosis is common, often requiring 
+postnatal repeat balloon dilation or surgical valvuloplasty. PDA 
+stent implantation may also be required to maintain pulmonary 
+circulation for subsequent staged surgical procedures in these 
+patients (
+61). Although PV restenosis frequently occurs as the 
+pregnancy progresses, FPV still promotes fetal RV growth 
+trajectories in the early weeks (
+62).
+Overall, the improvement in TV and RV development indicates 
+that FPV may alter the natural course of PA/IVS in select fetuses, 
+thereby establishing its role as a viable and promising intervention. 
+Future research must now focus on long-term prognostic data to 
+comprehensively assess postoperative ventricular function, quality 
+of life, and survival.
+Complications and prognosis
+Bradycardia and pericardial effusion
+Fetal bradycardia occurs in 33% of FCI cases, most frequently 
+during FPV. Acute bradycardia, which typically occu rs 
+immediately upon cardiac puncture, is likely mediated by a vagal 
+re/f_lex and usually resolves spontaneously. Persistent bradycardia 
+may require transplacental atropine administration. Refractory 
+cases necessitate direct intracardiac epinephrine injection, with 
+advanced resuscitation protocols indicated if bradycardia persists 
+for more than 30 seconds after two doses (4). Progressive 
+bradycardia is often associated with pericardial effusion. Tulzer 
+et al. (4) recommend immediate intervention, including 
+intracardiac epinephrine administration or effusion drainage, for 
+bradycardia related to effusion. Effusions occurring after needle 
+withdrawal may require a separate puncture for drainage. 
+Asymptomatic effusions can be conservatively monitored. Debska 
+et al. (17) advocate proactive drainage, noting that even a small 
+volume (2–3 mL) of pericardial blood may compromise fetal 
+cardiac function. Overall, the management of fetal bradycardia 
+should be individualized based on institutional experience, 
+weighing fetal beneﬁt, procedural risks, and maternal safety.
+Aortic regurgitation and left ventricular 
+diastolic dysfunction
+Long-term follow-up demonstrates that AR and LV diastolic 
+dysfunction are common complications following FAV, necessitating 
+continuous surveillance. Tulzer et al. (70) reported AR in 87% of 
+FAV recipients, with 45% experiencing signiﬁcant regurgitation, 
+which correlated with higher balloon-to-annulus ratios. Although 
+AR often improves after birth, some cases require repeat AV 
+interventions, such as balloon dilation or surgical valvuloplasty. Kido 
+et al. (71) identiﬁed an aortic annulus Z-score <−2.6 and a history of 
+FAV as predictors of neonatal AV intervention. Additionally, Barry 
+et al. (72) observed progressive LV diastolic dysfunction, while 
+Friedman et al. (73) documented universally abnormal LV diastolic 
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 07 frontiersin.org
+[[p8]]
+parameters in FAV patients, associated with enlarged or spherical LV 
+morphology, EFE, and lower LV pressure. Notably, EFE resection 
+may reduce LV end-diastolic pressure (71).
+Pulmonary restenosis or re-atresia
+Progressive PV restenosis or re-atresia is a frequent post-FPV 
+complication. Luo et al. (43) observed progressive PV restenosis 
+with increasing TR in 13 successfully treated fetuses, with one 
+case progressing to re-atresia. Pang et al. (
+65) reported an 80% 
+PV restenosis rate. Tulzer et al. (62) documented progressive PV 
+gradients in 65.7% of cases and four cases of re-atresia, 
+and believed a ratio of 1.3–1.5 may optimize outcomes. 
+Managements include postnatal repeat balloon dilation or 
+surgical valvuloplasty (
+62, 74).
+Neurodevelopmental and quality-of-life 
+outcomes
+Current evidence regarding long-term neurodevelopmental 
+outcomes and quality of life in patients following FCI remains 
+inconclusive. Normal placental blood /f_lows through the FO into 
+the LA, LV, and ascending AO, ultimately reaching the brain 
+and maintaining adequate cerebral oxygenation. Different types 
+of CHD interfere with the fetal cerebral perfusion, oxygenation, 
+and brain metabolism (
+75). Chronic hypoxia and ischemia 
+impair fetal brain development. At delivery, this may manifest 
+as delayed brain maturation in term newborns with CHD, with 
+brain development approximately four weeks less mature than 
+expected (
+76). And fetal MRI has revealed reduced intracranial 
+and total brain volumes, delayed gyration, and decreased surface 
+area in both cerebral hemispheres in cases with complex CHD 
+(
+77, 78). Microcephaly, holoprosencephaly, and agenesis of the 
+corpus callosum are observed in approximately 25% of HLHS 
+fetuses (
+79). Juergensen et al. (80) reported that lower fetal 
+cardiac output correlates with reduced total brain volume. 
+Speciﬁcally, a 10% increase in cardiac output was associated 
+with an approximate 8 mm
+3 increase in brain volume. These 
+ﬁndings indicate that FCI may potentially promote 
+neurodevelopment by enhancing cerebral perfusion.
+However, a 12-year follow-up study of 69 fetuses with AS who 
+underwent FAV demonstrated no signiﬁcant neurodevelopmental 
+advantage compared to untreated patients, with both groups scoring 
+below normative levels. Speciﬁcally, children who underwent FAV 
+have signiﬁcant impairment in their general adaptive functioning, 
+re/f_lecting difﬁculties achieving age-appropriate self-care skills and 
+independence (81 ). They believed that intrinsic patient factors and 
+infant morbidity are likely the primary determinants of long-term 
+neurodevelopmental outcomes. This suggests that although FCI 
+aims to optimize cardiac structure to improve cereb ral 
+hemodynamics, it may not fully reverse pre-existing brain damage 
+caused by low cerebral perfusion or intrinsic developmental 
+abnormalities, suggesting the potential for optimizing the timing of 
+intervention. Studies have identiﬁed small fetal brain volume as an 
+independent predictor of 2-year neurodevelopmental outcomes in 
+CHD, positioning it as a key imaging biomarker for future risk (82). 
+This underscores the importance of serial fetal brain imaging, such 
+as MRI and ultrasonography, throughout gestation to assess the 
+fetal brain development, which also serves as a critical reference for 
+determining the optimal timing of FCI.
+Future research should employ standardized, multidimensional 
+neuropsychological assessment tools to conduct long-term, 
+prospective follow-up of survivors of different types of FCI, which 
+are crucial for optimization of interventional strategies.
+Prospects
+Innovations in imaging
+Fetal echocardiography remains the primary modality for 
+preoperative assessment and intraoperative guidance in FCI. 
+However, its application is often limited by maternal body habitus, 
+fetal position, and gestational age. Recently, fetal cardiovascular 
+magnetic resonance (CMR) has emerged as a valuable 
+complementary tool. Ryd et al. (
+83) reported that fetal CMR 
+in/f_luenced clinical decision-making in 84% of cases, including 
+delivery planning, postnatal evaluation, and interventional 
+strategies. Nevertheless, fetal CMR is always associated with higher 
+costs, longer acquisition times, and larger fetal size, limiting its 
+widespread use in the early and mid-second trimester. A key 
+direction for future imaging advancements is the establishment of 
+standardized imaging criteria for precise preoperative selection and 
+postoperative follow-up evaluation in FCI. Speciﬁcally, there is a 
+need to: (1) establish multicenter collaborative networks and 
+conduct prospective studies to validate and explore novel 
+echocardiographic parameters, such as LV myocardial ﬁber stress 
+(29) and pulmonary venous /f_low patterns (30) for predicting 
+procedural outcomes; (2) explore the added value of fetal CMR or 
+MRI in assessing myocardial ﬁbrosis, pulmonary vascular, and 
+brain development, and investigate its potential for evaluating the 
+long-term prognosis of fetuses undergoing FCI (15); and (3) 
+promote the clinical application of artiﬁcial intelligence-assisted 
+technologies such as Fetal Intelligent Navigation Echocardiography 
+(FINE), utilizing four-dimensional spatiotemporal image correlation 
+to acquire fetal cardiac volume data and automatically identify and 
+display standard views, thereby enhancing diagnostic reproducibility 
+and efﬁciency (84 ). These innovations in imaging will provide FCI 
+with more precise preoperative evaluation and postoperative follow- 
+up, thereby optimizing clinical decision-making and improving 
+patient management.
+Development of fetal-speciﬁc devices
+Currently, the balloons, catheters, guidewires, and stents used 
+in FCI are not speciﬁcally designed for the fetus, which, to some 
+extent, limits procedural success and safety. One of the future 
+directions for FCI is the development of interventional devices 
+speciﬁcally designed for fetal use. Speciﬁc requirements include: 
+(1) balloons and catheters with smaller diameters and increased 
+/f_lexibility to minimize myocardial injury; (2) low-proﬁle stents 
+with high radial strength, designed speciﬁcally for cases with 
+thickened atrial septum, to reduce the risk of dislodgement (
+58); 
+and (3) further optimizing the laser-assisted puncture systems to 
+improve success rates in atrial septal puncture (
+42, 60). These 
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 08 frontiersin.org
+[[p9]]
+device advancements will directly contribute to safer and more 
+effective FCI procedures.
+Long-term follow-up outcomes
+Current outcome studies in FCI primarily focus on technical 
+success, live birth, and BVC rates, with insufﬁcient attention given 
+to long-term outcomes in survivors. This focus, combined with the 
+absence of large, multicenter cohorts, has resulted in a lack of high- 
+quality clinical evidence. Consequently, establishing standardized 
+long-term follow-up systems is a critical future direction. Speciﬁc 
+needs include: (1) evaluating neurodevelopment, cardiovascular 
+function, exercise capacity, quality of life, and social integration in 
+survivors of different FCI types during school age, adolescence, and 
+adulthood (81 ); (2) promoting multicenter registries and 
+collaborative studies to reﬁne patient selection, optimize technical 
+advancements, and determine the ideal timing for FCI; and (3) 
+establishing matched comparisons with natural history cohorts to 
+more accurately evaluate the true treatment effects of FCI (53).
+Ethical, psychosocial, and multidisciplinary 
+considerations
+FCI requires a careful balance between potential fetal beneﬁt and 
+maternal risk. While previous studies report minimal maternal 
+complications associated with FCI in experienced centers (85, 86), 
+long-term maternal outcomes still require further investigation. The 
+process of prenatal CHD diagnosis and the consideration of FCI 
+can lead to signiﬁcant family distress, underscoring the importance 
+of providing structured perinatal psychological support. Although 
+academic organizations such as the Fetal Heart Society and existing 
+guidelines (87–91) advocate for integrated care models, the 
+development of high-level evidence-based guidelines remains 
+challenging due to the high heterogeneity of CHD, signiﬁcant 
+variability in institutional treatment protocols, and insufﬁcient 
+systematic collaboration mechanisms (90). Studies by Wautlet et al. 
+(92), Ronai et al. (93), and Zhang et al. (94) have demonstrated that 
+structured multidisciplinary management strategies can improve 
+clinical outcomes in children with various CHDs following 
+FCI. The future direction lies in developing consensus-based 
+standardized clinical pathways. Speciﬁc measures include: 
+(1) deﬁning the core composition of the FCI multidisciplinary 
+team, including specialists in obstetrics, maternal-fetal medicine, 
+pediatric cardiology, fetal surgery, cardiothoracic surgery, imaging, 
+anesthesiology, palliative care, genetics, psychology, social work, and 
+nursing (95); (2) establishing standardized operating protocols 
+covering the entire process from prenatal diagnosis, preoperative 
+evaluation, interventional procedure, delivery management, 
+postnatal intervention, to long-term follow-up; and (3) evaluating 
+the actual impact of standardized clinical pathways on reducing 
+maternal-fetal risks, improving neonatal and long-term outcomes, 
+and lowering healthcare costs (96).
+TABLE 2 Indications, outcomes, and complications of FCI.
+Catheter- 
+Base FCI
+Indications Short outcomes Complications Long-term 
+outcomes
+FAV AS with HLHS Technical success rate: 70%– 
+94% (
+3, 17, 27, 28 , 44 –51)
+Bradycardia, Pericardial effusion, Hemothorax, Aortic regurgitation, 
+Left ventricular diastolic dysfunction, Left ventricular thrombus, 
+Placental abruption, Balloon rupture, Preterm birth, Intrauterine death
+Unknown
+Fetal mortality: 7%–33% (3, 
+17, 27, 28 , 44 –46, 49–52)
+aub?Y?SOD–VSD?GRK?QVK?
+28 , 44 –48 , 50–52)
+Live birth rate: 50%–93% (3, 
+27, 28 , 44 –46, 48 , 50–52)
+FASI HLHS with R/ 
+IAS
+Technical success rate: 56%– 
+90% (
+3, 17, 18 , 55, 56, 58–60)
+Bradycardia, Pericardial effusion, Hemothorax, Balloon rupture, Stent 
+dislodgement/displacement, Preterm birth, Intrauterine death
+Unknown
+Fetal mortality: 7%–83% (3, 
+17, 18 , 47, 55–60)
+Live birth rate: 75%–92% (3, 
+18 , 47, 55)
+FPV PA/IVS Technical success rate: 69%– 
+91% (
+3, 17, 23, 47, 49, 62)
+Bradycardia, Pericardial effusion, Hemothorax, Pulmonary valve 
+restenosis/atresia, Severe tricuspid regurgitation, Balloon rupture, 
+Intrauterine death, Preterm birth
+Unknown
+Fetal mortality: 7%–25% (3, 
+17, 23, 49)
+BVC rate: 25%–77% (3, 23, 
+62, 64, 65)
+Live birth rate: 64%–85% (3, 
+20, 23)
+AS, aortic stenosis; HLHS, hypoplastic left heart syndrome; R/IAS, restrictive or intact atrial septum; PA, pulmonary atresia; IVS, intact ventricular septum; BVC, biventricular circulation.
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 09 frontiersin.org
+[[p10]]
+Conclusion
+FCI has emerged as a transformative treatment for selected 
+severe CHDs. The procedural indications, clinical outcomes, and 
+associated complications of FCI are summarized in 
+Table 2. But 
+most studies included in this article had small sample sizes and 
+were single-center retrospective designs. Therefore, the true 
+efﬁcacy of FCI in CHD should be interpreted with caution. 
+Future collaborative, multi-center initiatives with standardized 
+long-term follow-up protocols are needed to address these 
+critical evidence gaps. Future advancements in this ﬁeld are 
+expected to beneﬁt from innovations in fetal imaging, the 
+development of fetal-speciﬁc devices, and the implementation of 
+integrated prenatal-postnatal care pathways. Through ongoing 
+research and technical reﬁnement, FCI holds signiﬁcant promise 
+for further improving the prognosis of fetuses with severe 
+congenital heart defects.
+Author contributions
+JL: Investigation, Writing – original draft. YW: Writing – 
+original draft. YG: Writing – original draft. GL: Writing – 
+original draft. SP: Conceptualization, Writing – review & editing.
+Funding
+The author(s) declared that ﬁnancial support was received for 
+this work and/or its publication. The work was supported by the 
+National Natural Science Foundation of China (82471753, 
+82271725).
+Conﬂict of interest
+The author(s) declared that this work was conducted in the 
+absence of any commercial or ﬁnancial relationships that could 
+be construed as a potential con/f_lict of interest.
+Generative AI statement
+The author(s) declared that generative AI was not used in the 
+creation of this manuscript.
+Any alternative text (alt text) provided alongside ﬁgures in this 
+article has been generated by Frontiers with the support of 
+artiﬁcial intelligence and reasonable efforts have been made to 
+ensure accuracy, including review by the authors wherever 
+possible. If you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their afﬁliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed 
+or endorsed by the publisher.
+References
+PM?k?xK?b?rK?yü?kK?a?fbK?b?ljK?k?mK??M?f??
+prevalence of congenital heart defects 1970–2017: updated systematic review and 
+meta-analysis of 260 studies. Int J Epidemiol. (2019) 48(2):455–63. 
+doi: 10.1093/ije/ 
+dyz009
+2. Maxwell D, Allan L, Tynan MJ. Balloon dilatation of the aortic valve in the fetus: a 
+report of two cases. Br Heart J. (1991) 65(5):256–8. 
+doi: 10.1136/hrt.65.5.256
+3. Moon-Grady AJ, Morris SA, Belfort M, Chmait R, Dangel J, Devlieger R, et al. 
+International Fetal Cardiac Intervention registry: a worldwide collaborative 
+description and preliminary outcomes. J Am Coll Cardiol. (2015) 66(4):388–99. 
+doi: 10.1016/j.jacc.2015.05.037
+4. Tulzer A, Arzt W, Scharnreitner I, Hochpoechler J, Bauer C, Tulzer G. 
+Complications associated with fetal cardiac interventions: prevalence and 
+management—experience from 213 procedures. Fetal Diagn Ther . (2022) 
+49(9-10):434–41. 
+doi: 10.1159/000527121
+5. Grossfeld P, Nie S, Lin L, Wang L, Anderson RH. Hypoplastic left heart syndrome: 
+a new paradigm for an old disease? J Cardiovasc Dev Dis. (2019) 6(1):10. 
+doi: 10.3390/ 
+jcdd6010010
+6. Yabrodi M, Mastropietro CW. Hypoplastic left heart syndrome: from comfort care 
+to long-term survival. Pediatr Res. (2017) 81(1-2):142–9. 
+doi: 10.1038/pr.2016.194
+7. Rychik J, Szwast A, Natarajan S, Quartermain M, Donaghue DD, Combs J, et al. 
+Perinatal and early surgical outcome for the fetus with hypoplastic left heart 
+syndrome: a 5-year single institutional experience. Ultrasound Obstet Gynecol. 
+(2010) 36(4):465–70. 
+doi: 10.1002/uog.7674
+8. Oster ME, Knight JH, Suthar D, Amin O, Kochilas LK. Long-term outcomes in 
+single-ventricle congenital heart disease. Circulation. (2018) 138(23):2718–20. 
+doi: 10.1161/circulationaha.118.036821
+9. Allan LD, Sharland G, Tynan MJ. The natural history of the hypoplastic left heart 
+syndrome. Int J Cardiol. (1989) 25(3):341–3. 
+doi: 10.1016/0167-5273(89)90226-x
+10. Venardos A, Colquitt J, Morris SA. Fetal growth of left-sided structures and 
+postnatal surgical outcome in borderline left heart varies by cardiac phenotype. 
+Ultrasound Obstet Gynecol. (2022) 59(5):642–50. 
+doi: 10.1002/uog.23689
+11. Gardiner HM, Kovacevic A, Tulzer G, Sarkola T, Herberg U, Dangel J, et al. 
+Natural history of 107 cases of fetal aortic stenosis from a European multicenter 
+retrospective study. Ultrasound Obstet Gynecol. (2016) 48(3):373–81. 
+doi: 10.1002/ 
+uog.15876
+12. Mäkikallio K, McElhinney DB, Levine JC, Marx GR, Colan SD, Marshall AC, et al. 
+Fetal aortic valve stenosis and the evolution of hypoplastic left heart syndrome: 
+patient selection for fetal intervention. Circulation. (2006) 113(11):1401–5. 
+doi: 10. 
+1161/circulationaha.105.588194
+13. Callahan R, Friedman KG, Tworetzky W, Esch JJ, Sleeper LA, Lu M, et al. 
+Technical success and serious adverse events for fetal aortic valvuloplasty in a large 
+20-year cohort. JACC Adv . (2024) 3(3):100835. 
+doi: 10.1016/j.jacadv.2024.100835
+14. Sood V, Zampi JD, Romano JC. Hypoplastic left heart syndrome with an intact 
+atrial septum. JTCVS Open . (2020) 1:51–6. 
+doi: 10.1016/j.xjon.2020.03.001
+15. Ramonfaur D, Zhang X, Garza AP, García-Pons JF, Britton-Robles SC. 
+Hypoplastic left heart syndrome: a review. Cardiol Rev. (2023) 31(3):149–54. 
+doi: 10.1097/crd.0000000000000435
+16. Galindo A, Nieto O, Villagrá S, Grañeras A, Herraiz I, Mendoza A. Hypoplastic 
+left heart syndrome diagnosed in fetal life: associated ﬁndings, pregnancy outcome 
+and results of palliative surgery. Ultrasound Obstet Gynecol. (2009) 33(5):560–6. 
+doi: 10.1002/uog.6355
+17. Debska M, Kolesnik A, Rebizant B, Sekowska A, Grzyb A, Chaberek K, et al. Fetal 
+cardiac interventions—Polish experience from “zero” to the third world largest 
+program. J Clin Med. (2020) 9(9):2888. 
+doi: 10.3390/jcm9092888
+18. Mackesy MM, Kalish BT, Tworetzky W, Sanders S, Al-Ibraheemi A, Wilkins- 
+Haug L, et al. Sonographic pulmonary abnormalities in fetuses with hypoplastic 
+left heart syndrome and intact atrial septum undergoing attempted atrial 
+??M?t?pM?GQOPVH?RRGPHYWQ–TM?
+doi: 10.1097/ruq. 
+0000000000000247
+19. Chaturvedi RR, Ryan G, Seed M, van Arsdell G, Jaeggi ET. Fetal stenting of the 
+atrial septum: technique and initial results in cardiac lesions with left atrial 
+hypertension. Int J Cardiol. (2013) 168(3):2029–36. 
+doi: 10.1016/j.ijcard.2013.01.173
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 10 frontiersin.org
+[[p11]]
+20. Luo G, Gao S, Sun H, Ji Z, Wang D, Sun Y, et al. Valvuloplasty of fetal pulmonary 
+atresia with intact ventricular septum and hypoplastic right heart: mid-term follow- 
+up results. J Interv Med. (2022) 5(4):196–9. 
+doi: 10.1016/j.jimed.2022.04.001
+21. Luo G, Liu N, Liu A, Sun Y, Wang KL, Chen TT, et al. Fetal pulmonary 
+valvuloplasty for pulmonary atresia with intact ventricular septum: a report of 10 
+cases. Chin J Pract Pediatr. (2020) 35(2):5. 
+doi: 10.1097/CM9.0000000000002268
+22. Zhao L, Wang L, Xia H, Wu Y, Jiao X, Zhu H, et al. Prognosis and outcome of 
+intrauterine treatment of fetuses with critical congenital heart disease. Chin Med J 
+(Engl). (2024) 137(12):1431–1436. 
+doi: 10.1097/cm9.0000000000002796
+23. Hogan WJ, Grinenco S, Armstrong A, Devlieger R, Dangel J, Ferrer Q, et al. Fetal 
+cardiac intervention for pulmonary atresia with intact ventricular septum: 
+International Fetal Cardiac Intervention Registry. Fetal Diagn Ther. (2020) 
+47:731–739. 
+doi: 10.1159/000508045
+24. Hattam AT. A potentially curative fetal intervention for hypoplastic left heart 
+syndrome. Med Hypotheses. (2018) 110:132–137. 
+doi: 10.1016/j.mehy.2017.12.001
+25. Brown DW, Dipilato AE, Chong EC, Lock JE, McElhinney DB. Aortic valve 
+reinterventions after balloon aortic valvuloplasty for congenital aortic stenosis 
+intermediate and late follow-up. J Am Coll Cardiol. (2010) 56(21):1740–9. 
+doi: 10. 
+1016/j.jacc.2010.06.040
+26. McElhinney DB, Marshall AC, Wilkins-Haug LE, Brown DW, Benson CB, Silva 
+V, et al. Predictors of technical success and postnatal biventricular outcome after in 
+utero aortic valvuloplasty for aortic stenosis with evolving hypoplastic left heart 
+syndrome. Circulation. (2009) 120(15):1482–90. 
+doi: 10.1161/circulationaha.109. 
+848994
+27. Friedman KG, Sleeper LA, Freud LR, Marshall AC, Godfrey ME, Drogosz M, et al. 
+Improved technical success, postnatal outcome and reﬁned predictors of outcome for 
+fetal aortic valvuloplasty. Ultrasound Obstet Gynecol. (2018) 52(2):212–20. 
+doi: 10. 
+1002/uog.17530
+28. Tulzer A, Arzt W, Gitter R, Sames-Dolzer E, Kreuzer M, Mair R, et al. 
+Valvuloplasty in 103 fetuses with critical aortic stenosis: outcome and new 
+predictors for postnatal circulation. Ultrasound Obstet Gynecol. (2022) 
+59(5):633–41. 
+doi: 10.1002/uog.24792
+29. Green L, Chan WX, Prakash I, Tulzer A, Tulzer G, Yap CH. Pre-intervention 
+myocardial stress is a good predictor of aortic valvoluplasty outcome for fetal 
+critical aortic stenosis and evolving HLHS. J Physiol. (2024) 602(4):663–81. 
+doi: 10. 
+1113/jp285475
+30. Gellis L, Drogosz M, Lu M, Sleeper LA, Cheng H, Allan C, et al. 
+Echocardiographic predictors of neonatal illness severity in fetuses with critical left 
+heart obstruction with intact or restrictive atrial septum. Prenat Diagn. (2018) 
+38(10):788–94. 
+doi: 10.1002/pd.5322
+31. Luo G, Pan SL. Fetal structural heart disease interventional therapy research 
+progress. J Precis Med. (2018) 33(6):555–9 (in Chinese). 
+doi: 10.13362/j.jpmed. 
+201806001
+32. Szwast A, Tian Z, McCann M, Donaghue D, Rychik J. Vasoreactive response to 
+maternal hyperoxygenation in the fetus with hypoplastic left heart syndrome. Circ 
+Cardiovasc Imaging. (2010) 3(2):172–8. 
+doi: 10.1161/circimaging.109.848432
+33. Halder V, Ghosh S, Shrimanth YS, Manoj RK, Mandal B, Thingnam SKS, et al. 
+Fetal cardiac intervention and fetal cardiac surgery: where are we in 21st century? 
+Am J Cardiovasc Dis. (2021) 11(5):642–6.
+34. Gómez-Montes E, Herraiz I, Mendoza A, Albert L, Hernández-García JM, 
+Galindo A. Pulmonary atresia/critical stenosis with intact ventricular septum: 
+prediction of outcome in the second trimester of pregnancy. Prenat Diagn. (2011) 
+31(4):372–379. 
+doi: 10.1002/pd.2698
+35. Gottschalk I, Strizek B, Menzel T, Herberg U, Breuer J, Brockmeier K, et al. Severe 
+pulmonary stenosis or atresia with intact ventricular septum in the fetus: the natural 
+history. Fetal Diagn Ther. (2020) 47(5):420–8. 
+doi: 10.1159/000502178
+36. Wolter A, Markert N, Wolter JS, Kurkevych A, Degenhardt J, Ritgen J, et al. 
+Natural history of pulmonary atresia with intact ventricular septum (PAIVS) and 
+severe pulmonary stenosis (CPS) and prediction of outcome. Arch Gynecol Obstet. 
+(2021) 304(1):81–90. 
+doi: 10.1007/s00404-020-05929-0
+37. Guseh S, Tworetzky W. Transforming congenital heart disease management: 
+advances in fetal cardiac interventions. Prenat Diagn. (2024) 44(6-7):733–8. 
+doi: 10. 
+1002/pd.6592
+38. Hong NC, Wang L, Wang XP, Zhang CM, Shi XY, Zhang YJ, et al. In-utero 
+interventional treatment of two cases with critical aortic stenosis. Chin J Pediatr. 
+(2020) 58(1):51–53. 
+doi: 10.3760/cma.j.issn.0578-1310.2020.01.012
+39. Yilmaz Furtun B, Morris SA. Catheter-based fetal cardiac interventions. 
+J Cardiovasc Dev Dis. (2024) 11(6):167. 
+doi: 10.3390/jcdd11060167
+40. Friedman KG, Tworetzky W. Fetal cardiac interventions: where do we stand? Arch 
+Cardiovasc Dis. (2020) 113(2):121–128. doi: 10.1016/j.acvd.2019.06.007
+41. Quintero RA, Huhta J, Suh E, Chmait R, Romero R, Angel J. In utero cardiac fetal 
+surgery: laser atrial septotomy in the treatment of hypoplastic left heart syndrome 
+with intact atrial septum. Am J Obstet Gynecol. (2005) 193(4):1424–8. 
+doi: 10.1016/ 
+j.ajog.2005.02.126
+42. Belfort MA, Morris SA, Espinoza J, Shamshirsaz AA, Sanz Cortes M, Justino H, 
+et al. Thulium laser-assisted atrial septal stent placement: ﬁrst use in fetal hypoplastic 
+left heart syndrome and intact atrial septum. Ultrasound Obstet Gynecol. (2019) 
+53(3):417–8. 
+doi: 10.1002/uog.20161
+43. Luo G, Zhang B, Wang D, Pan S, Sun Y, Wang S. Fetal pulmonary valvuloplasty 
+for pulmonary atresia with intact ventricular septum: a single-center clinical 
+experience. Chin Med J (Engl) . (2023) 136(6):740–2. 
+doi: 10.1097/cm9. 
+0000000000002268
+44. Corroenne R, Meot M, Salomon LJ, Szezepanski I, Baghdadi H, Stos B, et al. 
+Postnatal outcome following fetal aortic valvuloplasty for critical aortic stenosis. 
+Ultrasound Obstet Gynecol. (2024) 64(3):339–347. 
+doi: 10.1002/uog.27658
+45. Arzt W, Wertaschnigg D, Veit I, Klement F, Gitter R, Tulzer G. Intrauterine aortic 
+valvuloplasty in fetuses with critical aortic stenosis: experience and results of 24 
+procedures. Ultrasound Obstet Gynecol. (2011) 37:689–695. 
+doi: 10.1002/uog.8927
+46. Freud LR, McElhinney DB, Marshall AC, Marx GR, Friedman KG, del Nido PJ, 
+et al. Fetal aortic valvuloplasty for evolving hypoplastic left heart syndrome: postnatal 
+outcomes of the ﬁrst 100 patients. Circulation. (2014) 130:638–645. 
+doi: 10.1161/ 
+CIRCULATIONAHA.114.009032
+47. Pedra SRFF, Peralta CFA, Crema L, Jatene IB, Da Costa RN, Pedra CAC. Fetal 
+interventions for congenital heart disease in Brazil. Pediatr Cardiol. (2014) 
+35:399–405. 
+doi: 10.1007/s00246-013-0792-3
+48. Wohlmuth C, Wertaschnigg D, Wieser I, Arzt W, Tulzer G. Tissue Doppler 
+imaging in fetuses with aortic stenosis and evolving hypoplastic left heart 
+syndrome before and after fetal aortic valvuloplasty. Ultrasound Obstet Gynecol. 
+(2016) 47:608–615. 
+doi: 10.1002/uog.14885
+49. Jaeggi E, Renaud C, Ryan G, Chaturvedi R. Intrauterine therapy for structural 
+congenital heart disease: contemporary results and Canadian experience. Trends 
+Cardiovasc Med. (2016) 26(7):639–646. 
+doi: 10.1016/j.tcm.2016.04.006
+50. Galindo A, Gómez-Montes E, Gómez O, Bennasar M, Crispi F, Herraiz I, et al. 
+Fetal aortic valvuloplasty: experience and results of two tertiary centers in Spain. 
+Fetal Diagn Ther. (2017) 42:262–270. 
+doi: 10.1159/000460247
+51. Kovacevic A, Öhman A, Tulzer G, Herberg U, Dangel J, Carvalho JS, et al. Fetal 
+hemodynamic response to aortic valvuloplasty and postnatal outcome: a European 
+multicenter study. Ultrasound Obstet Gynecol. (2018) 52:221–229. 
+doi: 10.1002/uog. 
+18913
+52. Cruz-Lemini M, Alvarado-Guaman M, Nieto-Castro B, Luna-Garcia J, Martínez- 
+Rodríguez M, Juarez-Martínez I, et al. Outcomes of hypoplastic left heart syndrome 
+and fetal aortic valvuloplasty in a country with suboptimal postnatal management. 
+Prenat Diagn. (2019) 39:563–570. 
+doi: 10.1002/pd.5470
+53. Vorisek CN, Zurakowski D, Tamayo A, Axt-Fliedner R, Siepmann T, Friehs I. 
+Postnatal circulation in patients with aortic stenosis undergoing fetal aortic 
+valvuloplasty: systematic review and meta-analysis. Ultrasound Obstet Gynecol. 
+(2022) 59(5):576–584. 
+doi: 10.1002/uog.24807
+54. Pickard SS, Wong JB, Bucholz EM, Newburger JW, Tworetzky W, Lafranchi T, 
+et al. Fetal aortic valvuloplasty for evolving hypoplastic left heart syndrome: a 
+decision analysis. Circ Cardiovasc Qual Outcomes. (2020) 13(4):e006127. 
+doi: 10. 
+1161/CIRCOUTCOMES.119.006127
+55. Marshall AC, van der Velde ME, Tworetzky W, Gomez CA, Wilkins-Haug L, 
+Benson CB, et al. Creation of an atrial septal defect in utero for fetuses with 
+hypoplastic left heart syndrome and intact or highly restrictive atrial septum. 
+Circulation. (2004) 110(3):253–258. 
+doi: 10.1161/01.CIR.0000135471.17922.17
+56. Marshall AC, Levine J, Morash D, Silva V, Lock JE, Benson CB, et al. Results of in 
+utero atrial septoplasty in fetuses with hypoplastic left heart syndrome. Prenat Diagn. 
+(2008) 28(11):1023–8. 
+doi: 10.1002/pd.2114
+57. Herberg U, Berg C, Geipel A, Gembruch U, Breuer J. Foetal therapy: what works? 
+Closed interatrial septum. Cardiol Young. (2014) 24(Suppl 2):47–54. 
+doi: 10.1017/ 
+S104795111400122X
+58. Kalish BT, Tworetzky W, Benson CB, Wilkins-Haug L, Mizrahi-Arnaud A, 
+McElhinney DB, et al. Technical challenges of atrial septal stent placement in 
+fetuses with hypoplastic left heart syndrome and intact atrial septum. Catheter 
+Cardiovasc Interv. (2014) 84(1):77–85. 
+doi: 10.1002/ccd.25098
+59. Jantzen DW, Moon-Grady AJ, Morris SA, Armstrong AK, Berg C, Dangel J, et al. 
+Hypoplastic left heart syndrome with intact or restrictive atrial septum: a report from 
+the international fetal cardiac intervention registry. Circulation. (2017) 
+136(14):1346–9. 
+doi: 10.1161/circulationaha.116.025873
+60. Yilmaz Furtun B, Trivedi MK, Day P, Ketawaroo P, Mathevosian M, Mehta J, 
+et al. Technical advances and outcomes of fetal atrial septal intervention for 
+restrictive or intact atrial septum. Circ Cardiovasc Interv. (2025) 18(9):e015209. 
+doi: 10.1161/CIRCINTERVENTIONS.125.015209
+61. Luo G, Pan SL, Ji ZX, Wang SB, Ren YY. Analysis of 15 cases of ductus arteriosus 
+stent placement without a guiding catheter through femoral artery approach. Chin 
+J Pediatr. (2025) 63(03):283–287. 
+doi: 10.3760/cma.j.cn112140-20241114-00830
+62. Tulzer A, Arzt W, Gitter R, Prandstetter C, Grohmann E, Mair R, et al. Immediate 
+effects and outcome of in-utero pulmonary valvuloplasty in fetuses with pulmonary 
+atresia with intact ventricular septum or severe pulmonary stenosis. Ultrasound 
+Obstet Gynecol. (2018) 52(2):230–7. 
+doi: 10.1002/uog.19047
+63. Emery SP, Kreutzer J, McCaffrey FM, Sherman FS, Simhan HN, Keller BB. The 
+learning curve for a fetal cardiac intervention team. Minim Invasive Surg. (2010) 
+2010:674185. 
+doi: 10.1155/2010/674185
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 11 frontiersin.org
+[[p12]]
+64. Gómez Montes E, Herraiz I, Mendoza A, Galindo A. Fetal intervention in right 
+out/f_low tract obstructive disease: selection of candidates and results. Cardiol Res 
+Pract. (2012) 2012:1–8. 
+doi: 10.1155/2012/592403
+65. Pang C, Zhou C, Zhang Z, Li Y, Zhang X, Han F, et al. Fetal pulmonary 
+valvuloplasty in fetuses with right ventricular out/f_low tract obstructive disease: 
+experience and outcome of the ﬁrst ﬁve cases in China. Pediatr Cardiol. (2021) 
+42(2):340–8. 
+doi: 10.1007/s00246-020-02488-8
+66. Prosnitz AR, Drogosz M, Marshall AC, Wilkins-Haug LE, Benson CB, Sleeper LA, 
+et al. Early hemodynamic changes after fetal aortic stenosis valvuloplasty predict 
+biventricular circulation at birth. Prenat Diagn. (2018) 38(4):286–92. 
+doi: 10.1002/ 
+pd.5232
+67. Mustafa HJ, Aghajani F, Jawwad M, Shah N, Abuhamad A, Khalil A. Fetal cardiac 
+intervention in hypoplastic left heart syndrome with intact or restrictive atrial 
+septum, systematic review, and meta-analysis. Prenat Diagn. (2024) 44(6-7):747–57. 
+doi: 10.1002/pd.6420
+68. Deren O, Aykan HH, Ozyuncu O, Aypar E, Cagan M, Ozen O, et al. Fetal cardiac 
+interventions: ﬁrst-year experience of a tertiary referral center in Turkey. J Obstet 
+Gynaecol Res. (2023) 49(6):1525–1531. 
+doi: 10.1111/jog.15649
+69. Tulzer G, Arzt W, Franklin RC, Loughna PV, Mair R, Gardiner HM. Fetal 
+pulmonary valvuloplasty for severe pulmonary stenosis or atresia with intact 
+septum. Lancet. (2002) 360(9345):1567–1568. 
+doi: 10.1016/S0140-6736(02)11531-5
+70. Tulzer A, Hochpoechler J, Scharnreitner I, Tomek V, Weber R, Sames-Dolzer E, 
+et al. Postinterventional fetal aortic regurgitation: prevalence, outcome and effects on 
+fetal circulation in large single-center cohort. Ultrasound Obstet Gynecol. (2025) 
+65(3):325–33. 
+doi: 10.1002/uog.29182
+71. Kido T, Guariento A, Doulamis IP, Porras D, Baird CW, Del Nido PJ, et al. Aortic 
+valve surgery after neonatal balloon aortic valvuloplasty in congenital aortic stenosis. 
+Circ Cardiovasc Interv. (2021) 14(6):e009933. 
+doi: 10.1161/circinterventions.120. 
+009933
+72. Barry OM, Friedman KG, Bergersen L, Emani S, Moeyersoms A, Tworetzky W, 
+et al. Clinical and hemodynamic results after conversion from single to 
+biventricular circulation after fetal aortic stenosis intervention. Am J Cardiol. 
+(2018) 122(3):511–6. 
+doi: 10.1016/j.amjcard.2018.04.035
+73. Friedman KG, Schidlow D, Freud L, Escobar-Diaz M, Tworetzky W. Left 
+ventricular diastolic function and characteristics in fetal aortic stenosis. Am 
+J Cardiol. (2014) 114(1):122–127. 
+doi: 10.1016/j.amjcard.2014.04.013
+74. McElhinney DB, Tworetzky W, Lock JE. Current status of fetal cardiac 
+intervention. Circulation. (2010) 121(10):1256–63. 
+doi: 10.1161/circulationaha.109. 
+870246
+75. Sun L, Macgowan CK, Sled JG, Yoo SJ, Manlhiot C, Porayette P, et al. Reduced 
+fetal cerebral oxygen consumption is associated with smaller brain size in fetuses 
+with congenital heart disease. Circulation. (2015) 131(15):1313–1323. 
+doi: 10.1161/ 
+CIRCULATIONAHA.114.013051
+76. Miller SP, McQuillen PS, Hamrick S, Xu D, Glidden DV, Charlton N, et al. 
+Abnormal brain development in newborns with congenital heart disease. N Engl J 
+Med . (2007) 357(19):1928–1938. 
+doi: 10.1056/NEJMoa067393
+77. Limperopoulos C, Tworetzky W, McElhinney DB, Newburger JW, Brown DW, 
+Robertson RL Jr, et al. Brain volume and metabolism in fetuses with congenital 
+heart disease: evaluation with quantitative magnetic resonance imaging and 
+spectroscopy. Circulation. (2010) 121(1):26–33. 
+doi: 10.1161/CIRCULATIONAHA. 
+109.865568
+78. Clouchoux C, du Plessis AJ, Bouyssi-Kobar M, Tworetzky W, McElhinney DB, 
+Brown DW, et al. Delayed cortical development in fetuses with complex congenital 
+heart disease. Cereb Cortex. (2013) 23(12):2932–2943. 
+doi: 10.1093/cercor/bhs281
+79. Marino BS, Lipkin PH, Newburger JW, Peacock G, Gerdes M, Gaynor JW, et al. 
+Neurodevelopmental outcomes in children with congenital heart disease: evaluation 
+and management: a scientiﬁc statement from the American Heart Association. 
+Circulation. (2012) 126(9):1143–1172. 
+doi: 10.1161/CIR.0b013e318265ee8a
+80. Juergensen S, Liu J, Xu D, Zhao Y, Moon-Grady AJ, Glenn O, et al. Fetal 
+circulatory physiology and brain development in complex congenital heart disease: 
+a multi-modal imaging study. Prenat Diagn. (2024) 44(6-7):856–64. 
+doi: 10.1002/ 
+pd.6450
+81. Laraja K, Sadhwani A, Tworetzky W, Marshall AC, Gauvreau K, Freud L, et al. 
+Neurodevelopmental outcome in children after fetal cardiac intervention for aortic 
+stenosis with evolving hypoplastic left heart syndrome. J Pediatr. (2017) 
+184:130–6.e4. 
+doi: 10.1016/j.jpeds.2017.01.034
+82. Sadhwani A, Wypij D, Rofeberg V, Gholipour A, Mittleman M, Rohde J, et al. 
+Fetal brain volume predicts neurodevelopment in congenital heart disease. 
+Circulation. (2022) 145(15):1108–1119. 
+doi: 10.1161/CIRCULATIONAHA.121. 
+056305
+83. Ryd D, Fricke K, Bhat M, Arheden H, Liuba P, Hedström E. Utility of fetal 
+cardiovascular magnetic resonance for prenatal diagnosis of complex congenital 
+heart defects. JAMA Netw Open . (2021) 4(3):e213538. 
+doi: 10.1001/ 
+jamanetworkopen.2021.3538
+84. Yeo L, Romero R. Color and power Doppler combined with Fetal Intelligent 
+Navigation Echocardiography (FINE) to evaluate the fetal heart. Ultrasound Obstet 
+Gynecol. (2017) 50(4):476–491. 
+doi: 10.1002/uog.17522
+85. Rebizant B, Koleśnik A, Grzyb A, Chaberek K, Sękowska A, Witwicki J, et al. Fetal 
+cardiac interventions—are they safe for the mothers? J Clin Med. (2021) 10(4):851. 
+doi: 10.3390/jcm10040851
+86. Wohlmuth C, Tulzer G, Arzt W, Gitter R, Wertaschnigg D. Maternal aspects of 
+fetal cardiac intervention. Ultrasound Obstet Gynecol. (2014) 44(5):532–537. 
+doi: 10. 
+1002/uog.13438
+87. Moon-Grady AJ, Baschat A, Cass D, Choolani M, Copel JA, Crombleholme TM, 
+et al. Fetal Treatment 2017: the evolution of fetal therapy centers—a joint opinion 
+from the International Fetal Medicine and Surgical Society (IFMSS) and the North 
+American Fetal Therapy Network (NAFTNet). Fetal Diagn Ther. (2017) 
+42(4):241–248. 
+doi: 10.1159/000475929
+88. Vijay D. Aium practice parameter for the performance of fetal echocardiography. 
+J Ultrasound Med. (2020) 39(1):E5–E16. 
+doi: 10.1002/jum.15188
+89. Donofrio MT, Moon-Grady AJ, Hornberger LK, Copel JA, Sklansky MS, 
+Abuhamad A, et al. Diagnosis and treatment of fetal cardiac disease: a scientiﬁc 
+statement from the American Heart Association. Circulation. (2014) 
+129(21):2183–2242. 
+doi: 10.1161/01.cir.0000437597.44550.5d
+90. Pinto NM, Morris SA, Moon-Grady AJ, Donofrio MT. Prenatal cardiac care: 
+goals, priorities & gaps in knowledge in fetal cardiovascular disease: perspectives of 
+the Fetal Heart Society. Prog Pediatr Cardiol. (2020) 59:101312. 
+doi: 10.1016/j. 
+ppedcard.2020.101312
+91. Allan L, Dangel J, Fesslova V, Marek J, Mellander M, Oberhänsli I, et al. 
+Recommendations for the practice of fetal cardiology in Europe. Cardiol Young. 
+(2004) 14(1):109–114. 
+doi: 10.1017/s1047951104001234
+92. Wautlet CK, Kops SA, Silveira LJ, Young K, Behrendt NJ, Zaretsky MV, et al. 
+Maternal-fetal comorbidities and obstetrical outcomes of fetal single ventricle 
+cardiac defects: 10 years’ experience with a multidisciplinary management protocol 
+at a single center. Prenat Diagn. (2024) 44(6–7):783–795. 
+doi: 10.1002/pd.6591
+93. Ronai C, Kim A, Dukhovny S, Fisher CR, Madriago E. Prenatal congenital heart 
+disease—it takes a multidisciplinary village. Pediatr Cardiol. (2023) 44(5):1050–1056. 
+doi: 10.1007/s00246-023-03161-6
+94. Zhang X, He S, Liu Y, Zhong J, Sun Y, Zheng M, et al. The signiﬁcance of an 
+integrated management mode of prenatal diagnosis-postnatal treatment for critical 
+congenital heart disease in newborns. Cardiovasc Diagn Ther . (2021) 
+11(2):447–456. 
+doi: 10.21037/cdt-20-892
+95. Leon RL, Levy PT, Hu J, Yallpragada SG, Hamrick SEG, Ball MK, et al. Practice 
+variations for fetal and neonatal congenital heart disease within the Children’s 
+Hospitals Neonatal Consortium. Pediatr Res. (2023) 93(6):1728–35. 
+doi: 10.1038/ 
+s41390-022-02314-2
+96. Afshar Y, Hogan WJ, Conturie C, Sunderji S, Duffy JY, Peyvandi S, et al. Multi- 
+institutional practice-patterns in fetal congenital heart disease following 
+implementation of a standardized clinical assessment and management plan. J Am 
+Heart Assoc. (2021) 10(15):e021598. 
+doi: 10.1161/JAHA.121.021598
+Liu et al.                                                                                                                                                                 10.3389/fcvm.2026.1701389
+Frontiers in Cardiovascular Medicine 12 frontiersin.org

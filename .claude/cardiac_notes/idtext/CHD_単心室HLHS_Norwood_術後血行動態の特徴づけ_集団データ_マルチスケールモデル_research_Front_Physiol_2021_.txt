@@ -1,0 +1,1214 @@
+
+[[p1]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 1
+ORIGINAL RESEARCH
+published: 13 May 2021
+doi: 10.3389/fphys.2021.603040
+Edited by:
+Boyce Grifﬁth,
+The University of North Carolina
+at Chapel Hill, United States
+Reviewed by:
+Axel Krieger,
+Johns Hopkins University,
+United States
+Zhenglun Alan Wei,
+University of Massachusetts Lowell,
+United States
+Ethan Kung,
+Clemson University, United States
+*Correspondence:
+C. Alberto Figueroa
+ﬁgueroc@med.umich.edu
+Specialty section:
+This article was submitted to
+Computational Physiology
+and Medicine,
+a section of the journal
+Frontiers in Physiology
+Received: 04 September 2020
+Accepted: 19 April 2021
+Published: 13 May 2021
+Citation:
+Primeaux J, Salavitabar A, Lu JC,
+Grifka RG and Figueroa CA (2021)
+Characterization of Post-Operative
+Hemodynamics Following
+the Norwood Procedure Using
+Population Data and Multi-Scale
+Modeling. Front. Physiol. 12:603040.
+doi: 10.3389/fphys.2021.603040
+Characterization of Post-Operative
+Hemodynamics Following the
+Norwood Procedure Using
+Population Data and Multi-Scale
+Modeling
+Jonathan Primeaux 1, Arash Salavitabar 2, Jimmy C. Lu 2, Ronald G. Grifka 3 and
+C. Alberto Figueroa 1,4*
+1 Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI, United States, 2 C.S. Mott Children’s
+Hospital, University of Michigan Congenital Heart Center, Ann Arbor, MI, United States, 3 Metro Heart and Vascular, Grand
+Rapids, MI, United States, 4 Department of Surgery, University of Michigan, Ann Arbor, MI, United States
+Children with hypoplastic left heart syndrome (HLHS) must undergo multiple surgical
+stages to reconstruct the anatomy to a sustainable single ventricle system. Stage
+I palliation, or the Norwood procedure, provides circulation to both pulmonary and
+systemic vasculature. The aorta is reconstructed and attached to the right ventricle
+and a fraction of systemic ﬂow is redirected to the pulmonary arteries (PAs) through a
+systemic-to-PA shunt. Despite abundant hemodynamic data available 4–5 months after
+Norwood palliation, data is very scarce immediately following stage I. This data is critical
+in determining post-operative success. In this work, we combined population data
+and computational ﬂuid dynamics (CFD) to characterize hemodynamics immediately
+following stage I (post-stage I) and prior to stage II palliation (pre-stage II). A patient-
+speciﬁc model was constructed as a baseline geometry, which was then scaled to
+reﬂect population-based morphological data at both time-points. Population-based
+hemodynamic data was then used to calibrate each model to reproduce blood ﬂow
+representative of HLHS patients. The post-stage I simulation produced a PA pressure
+of 22 mmHg and high-frequency oscillations within the ﬂow ﬁeld indicating highly
+disturbed hemodynamics. Despite PA mean pressure dropping to 14 mmHg, the pre-
+stage II model also produced high-frequency ﬂow components and PA wall shear stress
+increases. These suboptimal conditions may be necessary to ensure adequate PA ﬂow
+throughout the pre-stage II period, as the shunt becomes relatively smaller compared to
+the patient’s somatic growth. In the future, CFD can be used to optimize shunt design
+and minimize these suboptimal conditions.
+Keywords: hypoplastic left heart syndrome, computational ﬂuid dynamics, Norwood procedure, systemic-to-
+pulmonary artery shunt, multi-scale modeling
+Frontiers in Physiology | www.frontiersin.org 1 May 2021 | Volume 12 | Article 603040
+[[p2]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 2
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+INTRODUCTION
+Hypoplastic left heart syndrome (HLHS) is a congenital heart
+disease that, while aﬀecting only 1 out of every 4,344 births,
+accounts for 40% of all neonatal cardiac deaths (Mai et al.,
+2010). HLHS is characterized by left ventricular inﬂow and
+aortic outﬂow tract hypoplasia that limits cardiac output and
+is rapidly fatal if untreated. Therefore, HLHS patients must
+undergo a series of three surgical procedures to palliate these
+complex anatomical defects into a single ventricle system.
+Stage I palliation, or the Norwood procedure, is commonly
+performed within the ﬁrst week of life. The Norwood procedure
+consists of reconstructing the aortic arch and connecting it
+to the right ventricle, then placing a systemic-to-pulmonary
+artery (PA) shunt to enable blood ﬂow to the PAs. Options
+for the shunt include a modiﬁed Blalock-Thomas-Taussig shunt
+(mBTTs) from the innominate artery to the PAs ( Figure 1A), a
+central shunt from the ascending aorta to the PAs, or a Sano
+shunt from the right ventricle to the PAs. However, in this
+study it was decided to focus on the mBTTs approach as it is
+a common approach utilized for HLHS patients (Sano et al.,
+2004). Following stage I palliation, there are numerous reported
+complications, including reduced cardiac output, insuﬃcient
+growth of the PAs, and stenosis at the shunt suture sites, all
+of which can aﬀect mortality and hinder the success of the
+subsequent surgical procedures (Tweddell et al., 2002; Wells
+et al., 2005; Kawada, 2008). Despite surgical reﬁnements of
+the Norwood procedure, the complications following stage I
+palliation lead to a mortality rate of 15–25% (Hornik et al.,
+2012). Stage I palliation is followed by two additional procedures:
+stage II, which consists of a superior cavopulmonary anastomosis
+[bidirectional Glenn ( Figure 1B ) or hemi-Fontan procedure]
+at 4–6 months of age, and stage III, the total cavopulmonary
+anastomosis (Fontan procedure) at 18–48 months of age). At
+stage II palliation, the mBTTs is removed, and superior vena
+cava ﬂow is directed to the PAs ( Figure 1B). Despite signiﬁcant
+improvement over time, the highest risk for mortality is in the
+immediate post-stage I and in the interstage period between
+stage I and stage II (Mahle et al., 2000; Tweddell et al.,
+2002). While abundant hemodynamic data are obtained during
+pre-operative evaluation of pre-stage II (pre-S2) conditions,
+immediate post-stage I (post-S1) data are rarely reported. Despite
+many eﬀorts to closely monitor the stage I post-operative
+course for HLHS patients, there remains a paucity of critically
+important hemodynamic data (speciﬁcally PA hemodynamic
+data). The consequence of this limited understanding of PA
+physiology is further magniﬁed when considering PA stenosis
+occurs in nearly 50% of HLHS patients following stage I
+palliation (Griselli et al., 2006; Aiyagari et al., 2014). In this
+work, we seek to characterize the physiological mechanisms
+that can potentially contribute to understanding complications
+following stage I palliation. By combining clinical data and
+computational ﬂuid dynamics (CFD) tools, we gain insight on
+hemodynamics immediately following stage I palliation and
+characterize the evolution of key hemodynamic indices between
+stage I and stage II.
+Despite previous use of CFD models to study shunt placement,
+shunt designs, and various surgical conﬁgurations of HLHS
+patients, they often contain numerous shortcomings. These
+models have assumed purely 0D (lumped parameter models)
+or 3D rigid wall approaches and are often patient-speciﬁc
+models (therefore not reﬂecting population-based hemodynamic
+and anatomical characteristics) (Bove et al., 2003; Qian et al.,
+2010; Ceballos et al., 2012; Itatani et al., 2012; Moghadam
+et al., 2012; Baker et al., 2013; Arthurs et al., 2017; Fumero
+et al., 2017). Furthermore, these models are based solely on
+clinical data collected 4–5 months after initial palliation (pre-
+S2) leading to a limited understanding of the early post-
+operative conditions HLHS patients experience. Up to this point,
+there has not been a computational study that investigates the
+hemodynamics of HLHS patients immediately following stage
+1 palliation. A computational ﬂuid-structure interaction (FSI)
+model representing a broad patient population immediately
+post-S1 and through pre-S2, would lead to an enhanced
+understanding of the conditions and complications that HLHS
+patients experience. We seek to combine imaging and literature-
+based clinical data to develop computational models that are
+representative of HLHS patients for both post-S1 (within ﬁrst
+week after palliation) and pre-S2 (within days before stage II
+palliation) conditions. These computational tools may allow us
+to gain detailed insights into the complex physiologic conditions
+these patients experience between stage I and stage II palliation
+(Arthurs et al., 2017).
+MATERIALS AND METHODS
+The development of both post-S1 and pre-S2 models required
+the careful compiling of clinical data and computational
+methodologies discussed herein. First, we will describe the
+general modeling approach that was taken to construct both
+models. Then, we will discuss the clinical data that was measured
+and collected to inﬂuence both models. Finally, we will outline
+the steps required to construct, calibrate, and parameterize both
+post-S1 and pre-S2 models.
+Overview
+To construct geometries that represent a broad population of
+HLHS patients who have undergone the Norwood procedure,
+we began by constructing a patient-speciﬁc model as a
+representative baseline conﬁguration ( Figure 2A ). Once this
+“template” model was constructed, morphological literature
+data was used to scale the geometry to reﬂect HLHS patient
+anatomy immediately following stage I palliation (post-S1) and
+prior to stage II palliation (pre-S2) ( Figure 2B ). Literature
+data reﬂecting post-S1 and pre-S2 hemodynamic conditions
+were applied to the respective models to simulate the complex
+hemodynamics these patients experience at both time-points.
+The outcome of this approach is a weighted-average (or
+“population-average”) model that represents a typical HLHS
+patient at the two time-points of interest–post-S1 and pre-S2.
+Frontiers in Physiology | www.frontiersin.org 2 May 2021 | Volume 12 | Article 603040
+[[p3]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 3
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 1 | Anatomical conﬁguration after the (A) stage I Norwood procedure and (B) stage II Bidirectional Glenn (Migliavacca et al., 2002).
+FIGURE 2 | Modeling approach used to reconstruct anatomy of representative HLHS patient geometry at two time-points–post-S1 and pre-S2. Anatomy was
+constructed from (A) patient-speciﬁc MRI data that was then(B) scaled to match literature-based morphological data for both time-points (Machii and Becker, 1997;
+Mahle et al., 1998; Malec et al., 2003; Fiore et al., 2011; Bellsham-Revell et al., 2013; Aiyagari et al., 2014). The slight degree of tapering at each anastomosis of the
+shunt can be observed.
+The study was approved by the University of Michigan
+Board of Review.
+Clinical Data
+Patient-Speciﬁc Data
+Clinical data of a 3-week old HLHS patient was acquired. At
+birth, this patient exhibited anatomical characteristics typical
+for HLHS patients (mitral and aortic atresia, non-restrictive
+atrial septal defect) and underwent the Norwood procedure at
+4 days of age (Jonas et al., 1994). During stage I palliation,
+the surgeon found the patient’s innominate artery suboptimal
+for shunt placement, so the decision was made to connect the
+systemic-to-pulmonary shunt from the ascending aorta to the
+main pulmonary artery (MPA) (see Figure 2A). Two weeks after
+stage I palliation, magnetic resonance angiography (MRA) data
+were acquired to assess post-operative characteristics including
+PA stenosis, palliation of the aortic arch, and possible shunt
+occlusion. Furthermore, phase-contrast magnetic resonance
+imaging (PC-MRI) data were collected at the ascending aorta,
+Frontiers in Physiology | www.frontiersin.org 3 May 2021 | Volume 12 | Article 603040
+[[p4]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 4
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+transverse aortic arch, descending aorta, and bilateral PAs to
+assess critical parameters such as cardiac output, pulmonary-
+to-systemic ﬂow ratio (Qp:Qs), and valve regurgitation. Blood
+pressure measurements were collected using a brachial cuﬀ
+concurrent with the MRA and PC-MRI examinations.
+At the time of imaging data acquisition, the patient
+continued to exhibit anatomical characteristics of a typical
+HLHS patient with no additional compromising anomalies (i.e.,
+aortopulmonary collateralization, PA stenosis, shunt occlusion).
+Of note, the distal transverse aortic arch of the patient was
+markedly dilated ( Figure 2A). The proximal right PA was also
+mildly angulated, a common ﬁnding in patients after stage I
+palliation (Mahle et al., 1998).
+Literature Population Data
+In order to develop representative computational models of
+typical HLHS patients, the acquired patient-speciﬁc clinical
+data was carefully combined with literature data on anatomy
+(Figure 2 ) and hemodynamics ( Table 1 ) for the two time-
+points of interest: post-S1 and pre-S2 (Rychik et al., 2002; Maher
+et al., 2003; Mahle et al., 2003; Mair et al., 2003; Malec et al.,
+2003; Pizarro et al., 2003; Ballweg et al., 2005; Cua et al., 2006;
+Ghanayem et al., 2010; Fiore et al., 2011; Bellsham-Revell et al.,
+2013; Aiyagari et al., 2014). All literature values were based on
+patients born with HLHS who had undergone the Norwood
+procedure with a surgically placed mBTTs.
+To obtain literature-based values, a detailed review of
+all available literature that included hemodynamic and
+morphological data of HLHS patients was conducted. Inclusion
+criteria included: (1) patient populations presented with HLHS,
+(2) the use of the mBTTs during the Norwood procedure, (3)
+size of surgically placed shunt either 3.5 mm or 4.0 mm, and (4)
+reporting morphological and/or hemodynamic data within the
+ﬁrst week post-S1 and/or at pre-S2 follow-up. Exclusion criteria
+included: (1) study population overlapped with another study
+and (2) patient population presented with coexisting cardiac
+TABLE 1 | Literature-based weighted means of hemodynamic parameters for
+post-S1 and pre-S2.
+Parameter Post-Stage I Pre-Stage II
+Age (months) 0.25 5.09
+Body Surface Area (m2) 0.21 0.31
+Arterial Pressure (mmHg)
+Systolic Pressure 72.4 100.3
+Diastolic Pressure 37.8 40.98
+Mean Pressure 50.3 60.5
+Pulse Pressure 34.4 59.3
+Pulmonary Artery Mean Pressure (mmHg) * 14.2
+Cardiac Output (L/min) 1.15 † 1.7
+Pulmonary-Systemic Flow Ratio (Qp:Qs) 1.7 1.28
+*Indicates data not available. †Indicates allometric scaling. (Rychik et al., 2002;
+Maher et al., 2003; Mahle et al., 2003; Mair et al., 2003; Malec et al., 2003; Pizarro
+et al., 2003; Ballweg et al., 2005; Cua et al., 2006; Ghanayem et al., 2010; Fiore
+et al., 2011; Bellsham-Revell et al., 2013; Aiyagari et al., 2014).
+TABLE 2 | Hemodynamic and morphological literature data for healthy patients (left) and HLHS post-S1 patients.
+Parameters References
+Healthy Patients Hypoplastic Left Heart Syndrome Patients
+Machii and
+Becker,
+1997
+Pettersen
+et al., 2008
+Mahle
+et al., 1998
+Malec
+et al., 2003
+Mahle
+et al., 2003
+Mair et al.,
+2003
+Rychik
+et al., 2002
+Cua et al.,
+2006
+Ghanayem
+et al., 2010
+Pizarro and
+Norwood,
+2003
+?V?WPR?TO?RP?QQ?PW?QS?RV?PPV?QO
+Age (days) 5 – 19.9 (2–46) 13.9 ± 8.4 5 10.44 – 4 (2–17) 7.2 ± 6.5 4.5 ± 3.6
+Arterial Systolic Pressure (mmHg) – – – 77 78.2 ± 8.4 62.8 (57.5–72) 78 ± 11 64 ± 7 – 76.5
+Arterial Diastolic Pressure
+(mmHg)
+–?–?–?RX?RWMS?±?SMS?RVMR?GRQ–SPH?RV?±?V?RUMT?–?RX
+Mean Arterial Pressure (mmHg) – – – – – – – 47 51 ± 6 52.3
+Qp:Qs – – – – – – 1.7 ± 1 – 1.7 ± 0.9 –
+Body Surface Area (mmˆ2) – – 0.23 ± 0.02 – – – – – – –
+LPA Diameter (mm) – 4.6 – – – – – – – –
+RPA Diameter (mm) – 4.9 – – – – – – – –
+Transverse Arch Diameter (mm) – – 11.6 ± 0.22 – – – – – – –
+Descending Aorta Diameter (mm) 6.7 ± 0.8 6.1 – – – – – – – –
+All data collected from HLHS patient were obtained within 48 h following stage I palliation. Values represent means± standard deviations or medians with ranges.
+Frontiers in Physiology | www.frontiersin.org 4 May 2021 | Volume 12 | Article 603040
+[[p5]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 5
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+TABLE 3 | Hemodynamic and morphological literature data for patient pre-S2.
+References
+Parameters Aiyagari et al.,
+2014
+Bellsham-
+Revell et al.,
+2013
+Ballweg et al.,
+2005
+Malec
+et al., 2003
+Mahle et al.,
+2003
+Mair et al.,
+2003
+Maher et al.,
+2003
+Fiore
+et al., 2011
+Number of Patients (n) 170 58 78 31 22 10 10 19
+Age at Cath (months) 4.5 ± 1.5 5.28 ± 2.16 6.23 (2.67–16.3) 6.04 ± 1.0 4.8 3 5.2 5 ± 1.0
+Aortic systolic pressure (mmHg) – – 91 (68–135) 108 ± 14.6 – – 105.8 ± 14.9 103 ± 14
+Aortic diastolic pressure (mmHg) 35 ± 7 – 40 (20–57) 51.6 ± 9.5 – – 41.5 ± 10.9 46 ± 14
+Mean PA pressure (mmHg) 14 (13–17) – 15 (8–22) – 11 (8–16) 14 (14–17) 16.6 ± 3.74 –
+Qp:Qs 1.1 (0.8–1.5) – 1.6 (0.47–4.6) 1.41 ± 0.7 0.9 (0.4–1.6) 1.6 (1.2–1.6) 1.42 ± 0.36 –
+Cardiac Index (L/min/m∧2) – 5.5 ± 2.0 – – – – – –
+Body Surface Area (mm∧2) 0.31 ± 0.04 – 0.31 ± 0.04 – – – – –
+LPA Diameter (mm) 4.8 (4.0–6.0) 6.01 ± 5.83 5.8 (2.7–11.8) – – – – 7.6 ± 3.7
+RPA Diameter (mm) 5 (4.0–6.1) 8.1 ± 5.5 6.2 (2.7–12.3) – – – – 6.3 ± 4.5
+Ascending Aorta Diameter (mm) – 14.51 ± 7.82 – – – – – –
+Transverse Arch Diameter (mm) – 12.96 ± 7.7 – – – – – –
+Descending Aorta Diameter (mm) – 8.04 ± 5.1 – – – – – –
+All data were collected from HLHS undergoing pre-S2 clinical follow-up. Values represent means± standard deviations or medians with ranges.
+anomalies. The search strategy yielded 15 included studies
+(Tables 2, 3).
+Following the Norwood procedure, post-S1 data was collected
+during the post-operative hospitalization (mean age of 7 days)
+(Table 2 ). Hemodynamic data were obtained from brachial
+cuﬀ pressure, cardiac catheterization, Doppler echocardiography,
+and oxygen saturation of blood samples (Rychik et al., 2002;
+Mahle et al., 2003; Mair et al., 2003; Malec et al., 2003; Pizarro
+and Norwood, 2003; Cua et al., 2006; Ghanayem et al., 2010).
+Reported hemodynamic data included systemic arterial pressure
+and Q p:Qs (Table 2). Morphological data was obtained using
+echocardiography (Machii and Becker, 1997; Mahle et al., 1998;
+Pettersen et al., 2008). Regions of native tissue (supra-aortic
+arteries, descending aorta, LPA, and RPA) were assumed to
+exhibit normal morphological characteristics of children less
+than 1-month of age (Machii and Becker, 1997; Pettersen et al.,
+2008). This assumption cannot be applied to the reconstructed
+region of the aorta. Measurements of the reconstructed arch in
+HLHS patients during the post-operative period following the
+Norwood procedure were applied from the ascending aorta to the
+transverse arch (Mahle et al., 1998).
+Pre-S2 data was collected during pre-operative follow-up for
+stage II palliation (mean age of 5.1 months). Hemodynamic
+data was obtained from cardiac catheterization and PC-MRI
+(Maher et al., 2003; Mahle et al., 2003; Mair et al., 2003;
+Malec et al., 2003; Ballweg et al., 2005; Fiore et al., 2011;
+Bellsham-Revell et al., 2013; Aiyagari et al., 2014). Reported
+hemodynamic data included systemic arterial pressure, PA mean
+pressure, cardiac output, and Qp:Qs ( Table 3). Morphological
+data was obtained using MRA and echocardiography (Machii
+and Becker, 1997; Ballweg et al., 2005; Fiore et al., 2011;
+Bellsham-Revell et al., 2013; Aiyagari et al., 2014). The
+descending aorta and supra-aortic arteries were assumed to
+exhibit normal morphological characteristics of children from
+1-month to less than 1 year in age (Machii and Becker,
+1997). Following the Norwood procedure, the PAs are known
+to experience unfavorable hemodynamic conditions leading
+to altered growth, so pre-S2 measurements of the LPA and
+RPA were applied (Ballweg et al., 2005; Bellsham-Revell et al.,
+2013; Aiyagari et al., 2014). Measurements of the reconstructed
+aortic arch in HLHS patients during pre-S2 assessment were
+applied from the ascending aorta to the transverse arch
+(Bellsham-Revell et al., 2013).
+Statistical Analysis
+Weighted mean values of collected literature-based
+hemodynamic and morphological parameters were calculated
+using the ﬁxed eﬀect model ( Table 1; Borenstein et al., 2010).
+By considering sample size and standard deviations of each
+study, the ﬁxed eﬀect model applies more weight to studies
+that report more precise data, therefore providing data more
+representatives of typical HLHS patients for the two time-points
+studied. Some studies within the literature review did not report
+the standard deviation of measured parameters. In this case, a
+method commonly applied to approximate standard deviation
+(or variance) from reported median, range, and sample size was
+used (Hozo et al., 2005). All literature-based weighted means
+Frontiers in Physiology | www.frontiersin.org 5 May 2021 | Volume 12 | Article 603040
+[[p6]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 6
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+of hemodynamics for both post-S1 and pre-S2 can be found in
+s?PM
+CFD Simulations
+Computational modeling tools were applied to calculate the
+hemodynamic conditions of HLHS patients following the
+Norwood procedure. CFD is a well-established methodology that
+enables the calculation of the velocity and pressure ﬁelds of
+an incompressible ﬂuid by solving the Navier–Stokes equations.
+In this study, to perform FSI simulations we must deﬁne:
+(1) geometric representation of the regions (blood vessels) of
+interest, (2) inﬂow and outﬂow boundary conditions representing
+pressure and velocity of typical HLHS patients, and (3) material
+properties for all vessel walls.
+Geometric Modeling and Mesh Generation
+Representative FSI models of post-S1 and pre-S2 HLHS patients
+were constructed using the cardiovascular modeling and blood
+ﬂow simulation software package CRIMSON 1 (Arthurs et al.,
+2020). A patient-speciﬁc model was ﬁrst reconstructed from the
+MRA data ( Figure 2A). This model included the ascending and
+descending aorta, left and right PA, left and right common carotid
+arteries, left and right subclavian arteries, and the surgically
+placed systemic-to-PA shunt. After reconstructing the patient-
+speciﬁc anatomy, the geometry was scaled to reﬂect literature-
+based morphological data measured post-S1 and during the
+standard clinical follow-up pre-S2 ( Figure 2B ; Machii and
+Becker, 1997; Mahle et al., 1998; Malec et al., 2003; Fiore
+et al., 2011; Bellsham-Revell et al., 2013; Aiyagari et al., 2014).
+Furthermore, the central shunt of the patient-speciﬁc geometry
+was replaced with a mBTTs shunt as this conﬁguration is
+utilized more frequently in current practice. When making a
+signiﬁcant change to the geometry, such as this, it is key to
+remain consistent with all remaining steps of the modeling
+process to avoid any misleading simulation results. Therefore,
+1www.crimson.software
+FIGURE 3 | (A) The 3D-0D multi-domain framework utilized to simulate hemodynamics in both post-S1 and pre-S2 models. The geometry corresponding to the
+pre-S2 model is shown. Outlets with “W” correspond to a Windkessel boundary condition(B). Outlet with “H” corresponds to the heart model boundary condition.
+(B) 0D heart model coupled to the ascending aorta inlet face. A plot of time-varying elastance to model the contraction and relaxation of the right ventricle (RV) is
+included. (C) Three-element Windkessel model representing the distal vasculature applied to all outlets. Abbreviations: L, inductor; D, diode; RPA, right pulmonary
+artery; LPA, left pulmonary artery; P , pressure; Q, ﬂow; RV, right ventricle; RA, right atrium; Rp, proximal resistance; Rd, distal resistance; C, compliance; AVV,
+atrioventricular valve; NAoV, neo-aortic valve. Calibrated LPN parameter values are listed inTable 4.
+Frontiers in Physiology | www.frontiersin.org 6 May 2021 | Volume 12 | Article 603040
+[[p7]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 7
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+all data used during scaling and calibration were collected
+from patients with the speciﬁc mBTTs surgical conﬁguration.
+Of note, the PA and descending aorta of the post-S1 model
+reﬂects diameters of healthy subjects as these regions of tissue
+are not reconstructed during the Norwood procedure and have
+not undergone signiﬁcant remodeling as a result of palliation.
+The mBTTs was modeled with a diameter of 3.5 mm as this
+was the most common shunt size reported in the literature
+data. Furthermore, a small degree of tapering was modeled
+at each anastomosis of the shunt. “Pinching” at the shunt
+suture line has been reported to immediately impose a 10%
+diameter reduction at each anastomosis (Dobrin et al., 1998;
+Figure 2 ). This diameter reduction was applied to the post-S1
+model. During calibration of the pre-S2 model, it was found
+that a 17% diameter reduction (bringing the shunt diameter
+to 2.9 mm) was required to reproduce PA hemodynamics
+found in the literature. This additional degree of pinching in
+the pre-S2 model could be attributed to intimal hyperplasia
+commonly occurring at suture sites in mBTTs patients, and is
+in line with previously reported values (Gladman et al., 1997;
+Wells et al., 2005).
+Isotropic mesh generation using linear tetrahedral elements
+resulted in 505,964 elements for the post-S1 model and 743,456
+elements for the pre-S2 model. Preliminary simulations were
+performed with these meshes and gradient-based mesh adaptive
+techniques were utilized to reﬁne the ﬁnite element mesh in
+regions of high velocity gradients (Sahni et al., 2006). This
+produced adapted meshes consisting of 1,167,047 and 1,623,130
+elements for the post-S1 and pre-S2 models, respectively. The
+results reported in this study used these ﬁner meshes.
+Boundary Condition Speciﬁcation
+Each model consisted of one inlet (ascending aorta) and
+seven outlets (all other modeled vessels). A multi-domain
+modeling approach was utilized to characterize blood ﬂow.
+This method couples the non-linear incompressible three-
+dimensional Navier–Stokes equations describing velocities and
+pressures in 3D reconstructed vessels with a series of 0D lumped
+parameter networks (LPN) that capture distal hemodynamic
+behavior (resistance and compliance) as well as ventricular
+function ( Figure 3 ). This approach has been successfully
+implemented to study single ventricle physiology (Moghadam
+et al., 2012; Arthurs et al., 2017). The CRIMSON Netlist
+Editor Boundary Condition Toolbox enables the introduction of
+dynamic, customizable three-element Windkessel models at the
+outlets and a heart model at the inlet ( Figure 3A ), and even
+coupling disconnected 3D domains (e.g., separate systemic and
+pulmonary geometries) in a closed-loop manner (Silva Vieira
+et al., 2018). Three-element Windkessel models were applied to
+each outlet to represent the resistance and compliance of the
+distal vasculature ( Figure 3C ; Vignon-Clementel et al., 2010).
+A custom 0D lumped parameter heart model was applied at the
+inﬂow of the neo-aorta (Figure 3B; Lau and Figueroa, 2015). The
+heart model included a series of 0D components that represented
+the right atrial and neo-aortic valves and the contraction of the
+right ventricle ( Figure 3B ). The contraction and relaxation of
+the right ventricle was simulated using time-varying elastance
+TABLE 4 | Tuned component parameters for the Windkessel models at the outlets
+of both the post-S1 and pre-S2 models.
+Rp Rd C
+Post-Stage I
+LPA 0.053 0.466 0.134
+RPA 0.039 0.402 0.250
+DAo 0.100 1.718 1.326
+RC 0.419 7.455 1.516
+RS 0.498 7.376 1.341
+LC 0.298 5.293 1.524
+LS 0.397 7.057 1.535
+Pre-Stage II
+LPA 0.058 0.192 0.239
+RPA 0.041 0.163 0.444
+DAo 0.170 1.175 2.357
+RC 0.667 4.823 0.750
+RS 0.781 4.709 0.645
+LC 0.473 3.424 0.755
+LS 0.631 4.566 0.761
+The units of resistance R p and R d are Pa·s/mm3. The units of compliance C
+are mm 3/Pa. Abbreviations: LPA, left pulmonary artery; RPA, right pulmonary
+artery; DAo, descending aorta; RC, right common carotid; RS, right subclavian;
+LC, left common carotid, LS, left subclavian. See Figure 4 for the
+referenced boundaries.
+function ( Figure 3B ). The valves were modeled as diodes and
+only permitted forward ﬂow.
+Fluid-Structure Interaction
+Most CFD studies of HLHS patient hemodynamics have assumed
+rigid walls for all vessels. While this assumption can produce
+a good estimate of the velocity ﬁeld, it has a signiﬁcant impact
+on the pressure ﬁeld and estimates of the LPN parameter values
+that could lead to misleading results. In this work, the “Coupled
+Momentum” FSI method was used (Figueroa et al., 2006). This
+required material properties, speciﬁcally linearized stiﬀness and
+thickness to be speciﬁed for each vessel. A uniform vessel
+thickness of 1.5 mm was applied to the aorta and PAs for both
+models, and a spatially varying thickness of 15% of the local vessel
+radius was speciﬁed for the aortic upper branches (van Meurs-van
+Woezik et al., 1983; Roccabianca et al., 2014). Linearized stiﬀness
+was determined using the patient-speciﬁc MRA data on dynamic
+luminal area (systolic to diastolic range), and pressure cuﬀ data
+(section “Patient-Speciﬁc Data”), see Figure 4B (Hirai et al.,
+1989). Stiﬀness values were kept constant for both models, given
+that vessel wall properties do not signiﬁcantly change within the
+ﬁrst year of life ( Figure 4C; Senzaki et al., 2002). The material
+properties determined are in line with reported values for HLHS
+patients following the Norwood procedure (Cardis et al., 2006).
+The reconstructed region of the aorta (transverse arch) exhibits
+the highest values of stiﬀness as it primarily consists of synthetic
+graft material. The ascending and descending aorta and PAs
+have lower stiﬀness since they consist of native tissue, and, as a
+result, are more distensible ( Figure 4C). Finally, the shunt was
+assumed to be rigid.
+Frontiers in Physiology | www.frontiersin.org 7 May 2021 | Volume 12 | Article 603040
+[[p8]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 8
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 4 | (A) Reconstructed geometry with volume-rendering of MRA data and three different PC-MRI planes. (B) Plot of dynamic luminal area changes and
+percent luminal area changes at the ascending aorta, transverse arch and descending aorta PC-MRI planes. (C) Material properties applied to both the post-S1 and
+pre-S2 models. Stiffness values were calculated based on patient-speciﬁc pressure measurements and dynamic luminal area changes measured from MRI data
+(Hirai et al., 1989).
+Boundary Condition Parameterization
+The parameterization of the multi-domain model seen in
+Figure 4 consisted of two main steps. In Step 1, a ﬂow waveform
+was prescribed at the aortic inﬂow, and a calibration of the
+outﬂow branch’s LPN parameters was performed. In Step 2, upon
+calibration of outﬂow LPN parameters, a custom heart model was
+prescribed at the aortic inﬂow and calibrated (Xiao et al., 2013).
+Step 1
+The measured PC-MRI aortic inﬂow waveform was scaled to
+match the cardiac output found in literature for both the post-S1
+and pre-S2 models. Calibration of LPN parameters was iteratively
+performed by running simulations on 60 cores in the University
+of Michigan high-performance computing cluster ConFlux.
+Simulations were run until cycle-to-cycle periodicity was reached
+in the pressure ﬁeld, which typically took ﬁve cardiac cycles. Each
+simulation took approximately 48 h to complete depending on
+mesh size. Initial parameters of Windkessel elements (resistance
+and compliance) of all outlets were calculated using the iterative
+method described by Xiao et al. (2013). Then, total resistances
+of the Windkessel elements for both models were calibrated
+until the mean pressures and mean ﬂow at each outlet matched
+within 10% of the data found in literature. Then, the Windkessel
+compliances were calibrated until the desired pulse pressure was
+achieved within 10%.
+Step 2
+The prescribed inﬂow was replaced by a custom 0D lumped
+parameter heart model at the inﬂow of the neo-aorta. The right
+atrial pressure (P RA) and parameters of the elastance function
+were adjusted until cardiac output was matched within 5%
+of values found in literature (Arthurs et al., 2017). Once the
+cardiac output was matched, small adjustments were made to the
+outﬂow boundary conditions until all hemodynamic parameters
+were matched within 10% of the data found in literature. The
+ﬁnal numerical values for the components of the LPN outﬂow
+Windkessel and the heart model are presented in Tables 4, 5,
+respectively. The resultant Windeasel parameters for the pre-S2
+case compare well to previously published values (Arthurs et al.,
+2017). Unfortunately, there are no previously published values for
+the post-S1 case to compare resultant Windkessel parameters.
+RESULTS
+Calibration Against Hemodynamic Data
+Model calibration was initially attempted assuming rigid walls;
+however, we were uncapable unable of matching mean pressure
+and ﬂow data while simultaneously matching pulse pressure.
+Once utilizing the more physiologically relevant approach of
+Frontiers in Physiology | www.frontiersin.org 8 May 2021 | Volume 12 | Article 603040
+[[p9]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 9
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+deformable walls, we were able to match all available population-
+based hemodynamic literature data. Both post-S1 and pre-S2
+models were successfully calibrated to closely match literature-
+based hemodynamics on systemic pressure, cardiac outﬂow,
+Qp:Qs and, for the pre-S2 model, PA mean pressure. Simulated
+hemodynamic indices were within 8% of the literature-based data
+Gs?PH????Ge?THM
+Simulated Flow and Pressure Waveforms
+Figure 6 shows a comparison of the simulated pulsatile ﬂow
+waveforms at all outlets for both the post-S1 and pre-S2 models.
+The mean ﬂow through all outlets increased from post-S1 to
+pre-S2. This is to be expected as, in agreement with literature
+data, there was a 38% increase in cardiac output between stage
+I and stage II ( Table 1). Despite Qp:Qs decreasing from post-S1
+(1.8) to pre-S2 (1.3), the mean PA ﬂow increased from post-S1
+(0.75 L/min) to pre-S2 (0.97 L/min). The mean ﬂow observed
+at the right common carotid and subclavian arteries is lower
+compared to that observed at the left common carotid and
+subclavian arteries. The waveforms within the right common
+carotid and right subclavian arteries present high-frequency
+disturbances in peak systole, which are absent on their left
+side counterparts. This can be attributed to the “run-oﬀ ” of
+ﬂow through the mBTTs to the pulmonary circulation that is
+commonly seen within HLHS patients (Kawada, 2008). Diastolic
+backﬂow is observed in the descending aorta and the supra-aortic
+vessels for both models. The overall change in the shape of the
+ﬂow waveforms from post-S1 to pre-S2 is subtle.
+Figure 7 shows a comparison of the simulated pulsatile
+pressure waveforms at all outlets for both the post-S1 and pre-
+S2 models. While the simulated mean systemic arterial pressure
+increased from post-S1 (47.5 mmHg) to pre-S2 (60 mmHg), the
+PA mean pressure decreased substantially from approximately 22
+to 14 mmHg. Lower mean pressures and subtle high-frequency
+oscillations in peak systole were observed at the right common
+carotid and subclavian arteries compared to the left common
+carotid and subclavian arteries. This is similar to the “run-
+oﬀ ” phenomenon observed in mean ﬂow received by the right
+common carotid and subclavian arteries (Kelleher et al., 2006).
+Disturbed Pulmonary Artery
+Hemodynamics
+High-frequency oscillations in pulmonary ﬂow, indicative of
+hemodynamic disturbances (Tossas-Betancourt et al., 2020),
+were observed in both post-S1 and pre-S2 models. Disturbed PA
+ﬂow is further illustrated in Figure 8 . As seen in the velocity
+streamlines, the parallel velocity streamlines within the shunt
+become highly disturbed in the region where the shunt meets the
+main PA, propagating these disturbances throughout the PAs.
+Wall shear stress (WSS) is another key regulator of vascular
+biology. It is known that spatially disturbed WSS may lead to
+pathological remodeling (Dolan et al., 2013). At post-S1 the
+PAs experience high values of WSS and continue to increase
+throughout the pre-S2 period.
+Disturbed PA hemodynamics are further supported by large
+Reynolds numbers within the shunt and left and right PAs
+(Figure 8 ), indicating transitional/turbulent ﬂow regimes. We
+calculated time average (Re avg) and peak systolic (Re max)
+Reynolds numbers at the shunt and each of the PA outlets.
+Peak systolic Reynolds numbers within the mBTTs (3,314.9 and
+4,305.6 for post-S1 and pre-S2, respectively) were indicative of
+turbulence. It is also noteworthy that all calculated Reynolds
+numbers increase from post-S1 to pre-S2 indicating the
+hemodynamics become more disturbed throughout the pre-
+S2 period. In this paper, we adopted a “Direct Numerical
+Simulation” approach, and avoided the use of turbulence models.
+Convergence of the reported Reynolds number estimates would
+require much more reﬁned ﬁnite element meshes however and is
+therefore outside the scope of this work.
+Mesh Independence and Numerical
+Accuracy
+To ensure that the disturbed hemodynamics observed in the
+PAs were not a result of numerical error, we performed a mesh
+independence analysis. Three increasingly ﬁne isotropic linear
+tetrahedral element meshes were generated for both Post-S1 and
+Pre-S2 models. Mesh resolution was increased by incrementally
+decreasing the global element size ( L) for each mesh generated–
+coarse ( L = 0.5 mm), ﬁne ( L = 0.3 mm), and very ﬁne
+(L= 0.2 mm). The coarse, ﬁne, and very ﬁne meshes of the
+Post-S1 model consisted of 360,027 elements, 1,501,846 elements,
+and 4,793,832 elements, respectively ( Figure 9 ). The coarse,
+ﬁne, and very ﬁne meshes of the Pre-S2 model consisted of
+544,754 elements, 2,244,714 elements, and 7,221,928 elements,
+respectively ( Figure 9 ). Numerical results were deemed mesh-
+independent when diﬀerence in regional pressure was <1%
+between two successive meshes.
+Regional pressure diﬀerences were <1% between the ﬁne
+and very ﬁne meshes for both Post-S1 and Pre-S2 models.
+This level of convergence within the pressure ﬁeld ensures that
+these models are mesh independent. Furthermore, the high-
+frequency oscillations within the PA ﬂow ﬁeld remain present
+for all levels of reﬁnement for both Post-S1 and Pre-S2 models
+TABLE 5 | Tuned component parameters for the heart models at the inlets of both
+the post-S1 and pre-S2 models.
+Parameter Value
+Post-Stage 1 (Post-S1)
+RAVV open resistance 3.3 × 10−3
+RAVV inertance 6.667 × 10−5
+Neo-aortic valve open resistance 1.0 × 10−3
+Neo-aortic valve inertance 1.0 × 10−5
+Pre-Stage 2 (Pre-S2)
+Right Atrial Pressure 5.4
+RAVV open resistance 3.3 × 10−3
+RAVV inertance 6.667 × 10−5
+Neo-aortic valve open resistance 1.0 × 10−3
+Neo-aortic valve inertance 1.0 × 10−5
+Right Atrial Pressure 7.2
+The units of resistance are Pa·s/mm3. The units of inductance are Pa·s2/mm3. The
+units of pressure are mmHg. Abbreviations: RAVV, Right Atrioventricular Valve.
+Frontiers in Physiology | www.frontiersin.org 9 May 2021 | Volume 12 | Article 603040
+[[p10]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 10
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 5 | Left: Comparison of simulated results (red) and literature-based clinical data (blue) of hemodynamic indices for post-S1 and pre-S2 models. All indices
+were matched within 10% of literature values. Right: Volume renders of FSI simulations velocity maps.
+(Figure 9 ). This indicates that the high-frequency components
+are not a result of numerical error but represent a true physical
+phenomenon. It is worth noting that as the mesh becomes
+more reﬁned, the high-frequency components become more
+pronounced in both models.
+DISCUSSION
+Summary
+Fluid-structure interaction models of post-S1 and pre-S2 HLHS
+patients were constructed and calibrated to match in vivo
+hemodynamic and morphological data found in literature.
+Ultimately, we sought to leverage imaging data, literature
+data, and computational modeling to enhance our limited
+understanding of HLHS hemodynamics immediately after stage I
+palliation. Furthermore, by developing a calibrated pre-S2 model,
+we were able to describe key hemodynamic changes between the
+two surgical stages. The evolution of key hemodynamic indices
+(pressure, ﬂow, resistance, cardiac output, and Qp:Qs ratio) is
+given in Figure 10.
+Evolution of Hemodynamic Indices From
+Stage I to Stage II
+Pulmonary artery pressure is a key unknown hemodynamic
+parameter at post-S1 mainly due to the need for invasive cardiac
+catheterization and the risks involved with introducing a catheter
+through the systemic-to-PA shunt. This work has given us insight
+Frontiers in Physiology | www.frontiersin.org 10 May 2021 | Volume 12 | Article 603040
+[[p11]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 11
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 6 | Simulated pulsatile ﬂow waveforms at all boundaries of the 3D domain for both post-S1 (orange) and pre-S2 (blue) models. All outﬂows are plotted as
+positive and all inﬂows are plotted as negative. Note that three differenty-axis scales have been used: one for the descending aorta, another for the ascending aorta
+and a third for the remainder of the outlets. A volume rendering of velocity magnitude for the pre-S2 model is shown during peak-systole (t= 0.21 s).
+into post-S1 pressure. By matching all available hemodynamic
+and anatomical data within 10%, and using literature data for
+typical post-S1 shunt “pinching, ” the post-S1 model revealed a PA
+mean pressure of 22 mmHg ( Figure 8). This elevated PA mean
+pressure is a key ﬁnding of this paper and is greater than the pre-
+S2 mean pressure (14 mmHg). Ideally, we could corroborate this
+Frontiers in Physiology | www.frontiersin.org 11 May 2021 | Volume 12 | Article 603040
+[[p12]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 12
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 7 | Simulated pulsatile pressures at all boundaries of the 3D domain for both post-S1 (orange) and pre-S2 (blue) models. Arrows indicate whether pressure
+increased or decreased from post-S1 to pre-S2. Note that two different y-axis scales have been used: one for the LPA and RPA, and a second for the remainder of
+the outlets. A pressure coloring on the surface of the pre-S2 model is shown during peak-systole (t= 0.21 s).
+ﬁnding with previously published values of post-S1 PA pressure
+and hemodynamic; however, this data has not been published on
+up to this point.
+The mean systemic and pulmonary resistances decreased
+from post-S1 to pre-S2: from 37.1 to 31.2 Wood units in
+systemic resistance, and from 14.8 to 3.8 Wood units in
+Frontiers in Physiology | www.frontiersin.org 12 May 2021 | Volume 12 | Article 603040
+[[p13]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 13
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 8 | Velocity streamlines for both post-S1 and pre-S2 models during peak systole (t= 0.21 s). Disturbed ﬂow patterns are prominent at the mBTTs-PA
+anastomosis and propagate throughout the PAs. Surface plots of WSS (center) in the PAs are presented for both models. There are concentrations of high WSS
+where the mBTTs ﬂow impacts the wall of the PA. The WSS experienced in the PAs slightly increases during the interim period between stage I and II. Finally, velocity
+proﬁles at the mBTTs, LPA, and RPA (bottom) and their corresponding time average and peak systolic Reynolds numbers. High Reynolds numbers (>2,000) are
+indicative of turbulence and can be seen within the mBTTs and PAs. These Reynolds numbers increase from post-S1 to pre-S2.
+pulmonary resistance. This is in line with what is seen in growing
+neonates, since distal vascular resistance decreases as vessel and
+lung maturation ensues (Lucas et al., 1961). This decrease in
+pulmonary resistance likely drives the increase in mean PA ﬂow
+at pre-S2 (0.97 L/min, 25% increase from 0.75 L/min at post-
+S1), despite the larger resistance due to the smaller anastomosis
+diameter in pre-S2 (2.9 mm) relative to post-S1 (3.15 mm) (see
+section “Geometric Modeling and Mesh Generation”), which
+would tend to limit pulmonary ﬂow. The decrease in systemic
+resistance resulted in a proportionately larger increase in systemic
+ﬂow and therefore a more balanced Qp:Qs ratio (from 1.8 to
+1.3), which nonetheless remained at a sustainable value for lung
+perfusion at pre-S2.
+The compliance of the head and neck vessels (RC, RS, LC,
+and LS) decreases over time while the compliance of the DAo,
+LPA, and RPA increases. Broadly, compliance is the change in
+volume divided by the change in pressure. 1V is the integral
+of the ﬂow, which is given by changes in the Qp:Qs ratio. As
+the body grows, a greater percentage of the cardiac output is
+directed to the lower body (DAo). Therefore, the 1V increases,
+and so does the compliance. As for the LPA and RPA, the
+1P goes down and this also explains why the compliance
+increases over time. Furthermore, the DAo has more compliance
+than the LPA and RPA. This can also be understood through
+the relationship between compliance, changes in volume, and
+changes in pressure. For the pre-S2 case, in particular, where
+data is available for 1P and for the volumes going to DAo and
+each of the PAs, the calibrated values of distal compliances for
+the diﬀerent branches of the model (which allow to match the
+available population data) do suggest that the total compliance
+distal to the aorta in the systemic circulation is larger than each
+of the distal compliances of the PAs. This trend has also been
+observed in previous computational analyses of HLHS patients
+(Arthurs et al., 2017).
+Finally, despite HLHS patients experiencing volatility within
+the hours following stage 1 palliation, changes of macroscopic
+hemodynamic data used to calibrate the simulated models (aortic
+blood pressure, pulmonary-to-systemic ﬂow ratio, etc.) are often
+either not statistically signiﬁcant (Rychik et al., 2000; Pizarro and
+Norwood, 2003; Cua et al., 2006) or stabilize after day 2 (Mair
+et al., 2003). When available, data was collected at 48 h post-
+procedure.
+Disturbed Pulmonary Artery
+Hemodynamics
+The observed elevated PA mean pressure, disturbed ﬂow,
+and WSS maps suggest that HLHS patients are exposed to
+Frontiers in Physiology | www.frontiersin.org 13 May 2021 | Volume 12 | Article 603040
+[[p14]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 14
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 9 | Top: The various isotropic linear ﬁnite element meshes generated for the mesh-independence analysis for both Post-S1 and Pre-S2 models. Finer
+meshes are generated by incrementally decreasing the global element size (L). Bottom: Results from the mesh independence analysis. Flow at the LPA and RPA are
+plotted for both Post-S1 and Pre-S2 at each mesh size–coarse (orange), ﬁne (blue), and very ﬁne (green). As seen in each plot, there is little alteration in mean ﬂow
+values in the PAs and the high-frequency oscillation is present in all cases.
+suboptimal conditions immediately after surgical reconstruction.
+The oscillatory hemodynamics are also present at the time of pre-
+S2 assessment, indicating that these conditions are experienced
+throughout the interim period between stage I and II ( Figure 6).
+The elevated values of WSS in the PAs are the consequence of
+the high ﬂows through the shunt necessary to ensure adequate
+PA ﬂow throughout the pre-S2 period, as the shunt becomes
+relatively smaller compared to the somatic growth of the patient;
+this could be a key contributor to complications following
+stage I palliation.
+Uncertainty of Anastomosis Geometric
+Deﬁnition
+Calibrated analyses (i.e., reproducing all available ﬂow data)
+performed in post-S1 and pre-S2 geometries with perfectly
+Frontiers in Physiology | www.frontiersin.org 14 May 2021 | Volume 12 | Article 603040
+[[p15]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 15
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+FIGURE 10 | The evolution of hemodynamic indices from∼7 days of age at post-S1 to∼5 months of age at pre-S2.
+unrestricted shunts (uniform 3.5 mm diameter without
+“pinching” at the anastomoses), rendered PA mean pressures
+of 40 and 24 mmHg, respectively. With the calibrated models
+producing such high pressures, it was determined that we were
+not capturing some aspect of shunt geometry that resulted in an
+additional pressure decrease from the systemic to the pulmonary
+circulation. Thus, it was decided that an alteration in shunt
+geometry was required to produce such additional pressure drop.
+Literature studies revealed that immediately following suturing
+of a PTFE graft to a native vessel, there is often a small degree of
+pinching at each anastomosis (Dobrin et al., 1998). This pinching
+becomes even more severe during the interim period between
+stages I and II as a shunt stenosis begins to develop at each
+anastomosis (Gladman et al., 1997; Wells et al., 2005).
+With PA hemodynamic data available for pre-S2, determining
+the degree of pinching at the anastomosis constituted an inverse
+problem. From population-based data, the required pressure
+????GUOMT–PSMR\?SUMR?gK??s?PH
+was known, so the degree of pinching was parametrically altered
+until the desired pressure drop was attained. It was found that
+a 17% decrease in diameter at each anastomosis was required
+to reproduce population-based PA hemodynamics. This degree
+of diameter reduction is in line with what is commonly seen
+in patients who experience shunt stenosis (Gladman et al.,
+1997; Wells et al., 2005). Since there is no population-based PA
+hemodynamic data available for post-S1, the degree of shunt
+pinching was modeled purely based on the available data on
+artery-to-PTFE graft anastomoses found in literature (Dobrin
+et al., 1998). It was found that when suturing a PTFE graft to a
+native vessel there is a ∼10% decrease in shunt diameter. This
+diameter reduction was applied to the post-S1 model.
+Limitations
+Our study has a few of limitations. First, the starting point
+of the study was image data corresponding to a central shunt
+patient, instead of a mBTT patient. Given that the purpose
+of the image data was to build a model in 3D space that
+would be subsequently heavily modiﬁed to reﬂect population
+average dimensions, the quality of the image data (and not the
+type of shunt) was the most important factor considered when
+choosing the MRI data. Second, this study only investigated
+the Norwood procedure with a 3.5 mm mBTTs. Although this
+surgical conﬁguration and shunt size is widely utilized across
+many clinical centers; in reality, there are numerous diﬀerent
+shunt sizes and surgical conﬁgurations (i.e., Sano shunt, central
+shunt) that could aﬀect the outcome of the data presented. It
+is our hope that the presented simulations give insight into
+this speciﬁc patient “class, ” but also a deeper understanding
+of what post-operative conditions could look like for HLHS
+patients undergoing any type of surgical approach. This warrants
+further investigation and the development of representative
+models of HLHS patients with other surgical conﬁgurations to
+gain a comprehensive understanding of conditions following
+the Norwood procedure. Third, average material properties (i.e.,
+vessel stiﬀness, wall thickness) were applied circumferentially,
+and therefore did not capture the spatial variation in stiﬀness
+in the reconstructed region of the aorta. Ideally, the much
+stiﬀer graft material properties would only be applied on the
+corresponding location of the reconstructed aorta and the
+remainder would be considered native tissue. Fourth, we’ve
+shown mesh-independence in both the ﬂow and pressure
+ﬁelds of our models; however, we have not shown mesh-
+independence for other hemodynamic quantities (i.e., WSS).
+Since the hemodynamics (and thus the WSS) are substantially
+disturbed for both post-S1 and pre-S2 cases, the models are likely
+to be subject to considerably slow convergence rates in the WSS
+ﬁeld (Les et al., 2010). In this study, our quantities of interest are
+ﬂow and pressure, and for those we have demonstrated adequate
+mesh independence in our results. Finally, the ﬁxed eﬀect
+model requires a standard deviation for calculating weighted
+Frontiers in Physiology | www.frontiersin.org 15 May 2021 | Volume 12 | Article 603040
+[[p16]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 16
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+averages. However, some studies within the literature review did
+not report the standard deviation of measured parameters. In
+this case, a method commonly applied to approximate standard
+deviation (or variance) from reported median, range, and sample
+size was used (Hozo et al., 2005).
+CONCLUSION
+In this study, we combined imaging data, population data, and
+computational modeling to enhance the current understanding
+of hemodynamics following the Norwood procedure. Following
+reconstruction, patients are immediately exposed to suboptimal
+hemodynamic conditions–elevated PA pressure, oscillatory
+hemodynamics, and high WSS. Many of these conditions
+are still present at the time of stage II palliation. In the
+future, we seek to alter shunt design and conﬁguration to
+minimize the degree of ﬂow disturbances. We hypothesize
+that minimization of these ﬂow disturbances would lead
+to more favorable hemodynamics in the interim period
+between surgical stages and therefore improve the outcomes of
+HLHS patients.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+ETHICS STATEMENT
+The studies involving human participants were reviewed and
+approved by University of Michigan Medical School Institutional
+Review Board (IRBMED). Written informed consent from
+the participants’ legal guardian/next of kin was not required
+to participate in this study in accordance with the national
+legislation and the institutional requirements.
+AUTHOR CONTRIBUTIONS
+JP wrote the manuscript, created the ﬁgures, performed and
+analyzed the literature review, built the geometric models, ran
+the simulations, processed data, and analyzed simulation results.
+JL acquired clinical data and assisted in manuscript preparation.
+AS and CF provided analysis of literature review and assisted
+in manuscript preparation. RG, CF , and AS developed concepts
+and assisted in manuscript preparation. CF provided analysis
+of simulation results. All authors contributed to the article and
+approved the submitted version.
+FUNDING
+This work was supported by the Woodson Acceleration Grant
+and the Helen L. Kay Charitable Trust Grant. Computing
+resources were provided by the National Science Foundation
+[grant 1531752] Acquisition of Conﬂux.
+REFERENCES
+Aiyagari, R., Rhodes, J. F., Shrader, P., Radtke, W. A., Bandisode, V. M., Bergersen,
+L., et al. (2014). Impact of pre-stage II hemodynamics and pulmonary artery
+anatomy on 12-month outcomes in the pediatric heart network single ventricle
+reconstruction trial. J. Thorac. Cardiovasc. Surg. 148, 1467–1474. doi: 10.1016/
+j.jtcvs.2013.10.057
+Arthurs, C. J., Agarwal, P., John, A. V., Dorfman, A. L., Grifka, R. G., and Figueroa,
+C. A. (2017). Reproducing patient-speciﬁc hemodynamics in the blalock–
+taussig circulation using a ﬂexible multi-domain simulation framework:
+applications for optimal shunt design. Front. Pediatr. 5:78. doi: 10.3389/fped.
+2017.00078
+Arthurs, C. J., Khlebnikov, R., Melville, A., Mar ˇcan, M., Gomez, A., Dillon-
+Murphy, D., et al. (2020). CRIMSON: an open-source software framework
+for cardiovascular integrated modelling and simulation. bioRxiv [preprint] doi:
+10.1101/2020.10.14.339960
+Baker, C. E., Corsini, C., Cosentino, D., Dubini, G., Pennati, G., Migliavacca,
+F., et al. (2013). Eﬀects of pulmonary artery banding and retrograde aortic
+arch obstruction on the hybrid palliation of hypoplastic left heart syndrome.
+J. Thorac. Cardiovasc. Surg. 146, 1341–1348. doi: 10.1016/j.jtcvs.2013.
+01.038
+Ballweg, J., Dominguez, T. E., Ravishankar, C., Kreutzer, J., Marino, B. S., Bird,
+G., et al. (2005). A contemporary comparison of the eﬀect of shunt type in
+hypoplastic left heart syndrome on the hemodynamics and outcome at stage 2
+reconstruction. J. Thorac. Cardiovasc. Surg. 134, 297–303. doi: 10.1016/j.jtcvs.
+2007.02.046
+Bellsham-Revell, H. R., Tibby, S. M., Bell, A. J., Witter, T., Simpson, J.,
+Beerbaum, P., et al. (2013). Serial magnetic resonance imaging in hypoplastic
+left heart syndrome gives valuable insight into ventricular and vascular
+adaptation. J. Am. Coll. Cardiol. 61, 561–570. doi: 10.1016/j.jacc.2012.
+11.016
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., and Rothstein, H. R. (2010). A basic
+introduction to ﬁxed-eﬀect and random-eﬀects models for meta-analysis. Res.
+Synth. Methods 1, 97–111. doi: 10.1002/jrsm.12
+Bove, E. L., De Leval, M. R., Migliavacca, F., Guadagni, G., and Dubini, G. (2003).
+Computational ﬂuid dynamics in the evaluation of hemodynamic performance
+of cavopulmonary connections after the Norwood procedure for hypoplastic
+left heart syndrome. J. Thorac. Cardiovasc. Surg. 126, 1040–1047. doi: 10.1016/
+s0022-5223(03)00698-6
+Cardis, B. M., Fyfe, D. A., and Mahle, W. T. (2006). Elastic properties of the
+reconstructed aorta in hypoplastic left heart syndrome. Ann. Thorac. Surg. 81,
+988–991. doi: 10.1016/j.athoracsur.2005.09.065
+Ceballos, A., Argueta-Morales, I. R., Divo, E., Osorio, R., Caldarone, C. A., Kassab,
+A. J., et al. (2012). Computational analysis of hybrid Norwood circulation with
+distal aortic arch obstruction and reverse blalock-taussig shunt. Ann. Thorac.
+Surg. 94, 1540–1550. doi: 10.1016/j.athoracsur.2012.06.043
+Cua, C. L., Thiagarajan, R. R., Gauvreau, K., Lai, L., Costello, J. M., Wessel, D. L.,
+et al. (2006). Early postoperative outcomes in a series of infants with hypoplastic
+left heart syndrome undergoing stage I palliation operation with either
+modiﬁed Blalock-Taussig shunt or right ventricle to pulmonary artery conduit.
+Pediatr. Crit. Care Med. 7, 238–244. doi: 10.1097/01.pcc.0000201003.38
+320.63
+cK?oM?aMK?lK?qMK?jK?rMK?cK?pM?rMK??lK?qM?GPXXWHM
+Mechanics of end-to-end artery-to-PTFE graft anastomoses. Ann. Vasc. Surg.
+12, 317–323. doi: 10.1007/s100169900161
+Dolan, J. M., Kolega, J., and Meng, H. (2013). High wall shear stress and spatial
+gradients in vascular pathology: a review. Ann. Biomed. Eng. 41, 1411–1427.
+doi: 10.1007/s10439-012-0695-0
+Figueroa, C. A., Vignon-Clementel, I. E., Jansen, K. E., Hughes, T. J. R., and
+Taylor, C. A. (2006). A coupled momentum method for modeling blood ﬂow
+in three-dimensional deformable arteries. Comput. Methods Appl. Mech. Eng.
+195, 5685–5706. doi: 10.1016/j.jcp.2012.09.016
+Frontiers in Physiology | www.frontiersin.org 16 May 2021 | Volume 12 | Article 603040
+[[p17]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 17
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+Fiore, A., Tobin, C., Saadeh, J., Rahimi, M., Kim, E., and Schowengerdt, K. (2011).
+A comparison of the modiﬁed blalock-taussig shunt with the right ventricle-to-
+pulmonary artery conduit. Ann. Thorac. Surg. 91, 1479–1484. doi: 10.1016/j.
+athoracsur.2010.11.062
+Fumero, R., Migliavacca, F., Hsia, T.-Y., Dubini, G., de Leval, M. R., Pietrabissa, R.,
+et al. (2017). Modeling of the Norwood circulation: eﬀects of shunt size, vascular
+resistances, and heart rate. Am. J. Physiol. Circ. Physiol. 280, H2076–H2086.
+doi: 10.1152/ajpheart.2001.280.5.H2076
+Ghanayem, N. S., Hoﬀman, G. M., Mussatto, K. A., Frommelt, M. A., Cava, J. R.,
+Mitchell, M. E., et al. (2010). Perioperative monitoring in high-risk infants
+after stage 1 palliation of univentricular congenital heart disease. J. Thorac.
+Cardiovasc. Surg. 140, 857–863. doi: 10.1016/j.jtcvs.2010.05.002
+Gladman, G., McCrindle, B. W., Williams, W. G., Freedom, R. M., and Benson,
+L. N. (1997). The modiﬁed Blalock-Taussig shunt: clinical impact and morbidity
+?e’?????M?iM?sM?bM?rM?PPSK?QT–ROM
+doi: 10.1016/S0022-5223(97)70113-2
+Griselli, M., Mcguirk, S. P., Ofoe, V., Stu, O., Wright, J. G. C., Giovanni, J. V.,
+et al. (2006). Fate of pulmonary arteries following Norwood procedure. Eur.
+J. Cardiothorac. Surg. 30, 930–935. doi: 10.1016/j.ejcts.2006.08.007
+Hirai, T., Sasayama, S., Kawasaki, T., and Y agi, S. I. (1989). Stiﬀness of systemic
+arteries in patients with myocardial infarction. a noninvasive method to predict
+severity of coronary atherosclerosis. Circulation 80, 78–86. doi: 10.1161/01.cir.
+80.1.78
+Hornik, C. P., He, X., Jacobs, J. P., Li, J. S., Peterson, D., and Pasquali, S. K.
+(2012). Complications after the Norwood operation: an analysis of the STS
+congenital heart surgery database. Ann. Thorac. Surg. 92, 1734–1740. doi:
+10.1016/j.athoracsur.2011.05.100
+Hozo, S. P., Djulbegovic, B., and Hozo, I. (2005). Estimating the mean and variance
+from the median, range, and the size of a sample. BMC Med. Res. Methodol.
+5:13.
+Itatani, K., Miyaji, K., Qian, Y., Liu, J. L., Miyakoshi, T., Murakami, A., et al.
+(2012). Inﬂuence of surgical arch reconstruction methods on single ventricle
+workload in the Norwood procedure. J. Thorac. Cardiovasc. Surg. 144, 130–138.
+doi: 10.1016/j.jtcvs.2011.08.013
+Jonas, R. A., Hansen, D. D., Cook, N., and Wessel, D. (1994). Anatomic subtype
+and survival after reconstructive operation for hypoplastic left heart syndrome.
+J. Thorac. Cardiovasc. Surg. 107, 1121–1128. doi: 10.1016/s0022-5223(94)
+70389-2
+Kawada, M. (2008). Pulmonary artery conﬁguration after the Norwood procedure
+for hypoplastic left heart syndrome. Gen. Thorac. Cardiovasc. Surg. 56,
+61–62.
+Kelleher, D. K., Laussen, P., Teixeira-Pinto, A., and Duggan, C. (2006). Growth
+and correlates of nutritional status among infants with hypoplastic left heart
+syndrome (HLHS) after stage 1 Norwood procedure. Nutrition 22, 237–244.
+doi: 10.1016/j.nut.2005.06.008
+Lau, K. D., and Figueroa, C. A. (2015). Simulation of short-term pressure regulation
+during the tilt test in a coupled 3D–0D closed-loop model of the circulation.
+Biomech. Model. Mechanobiol. 14, 915–929. doi: 10.1007/s10237-014-
+0645-x
+Les, A. S., Shadden, S. C., Figueroa, C. A., Park, J. M., Tedesco, M. M., Herfkens,
+R. J., et al. (2010). Quantiﬁcation of hemodynamics in abdominal aortic
+aneurysms during rest and exercise using magnetic resonance imaging and
+computational ﬂuid dynamics. Ann. Biomed. Eng. 38, 1288–1313. doi: 10.1007/
+s10439-010-9949-x
+Lucas, R., Geme, J., Anderson, R., Adams, P., and Ferguson, D. (1961). Maturation
+of the pulmonary vascular bed. Am. J. Dis. Child. 101, 467–475. doi: 10.1001/
+archpedi.1961.04020050057010
+Machii, M., and Becker, A. E. (1997). Morphologic features of the normal aortic
+arch in neonates, infants, and children pertinent to growth. Ann. Thorac. Surg.
+64, 511–555. doi: 10.1016/S0003-4975(97)00445-1
+Maher, K. O., Pizarro, C., Gidding, S. S., Januszewska, K., Malec, E., Norwood,
+W. I., et al. (2003). Hemodynamic proﬁle after the Norwood procedure with
+right ventricle to pulmonary artery conduit. Circulation 108, 782–784. doi:
+10.1161/01.cir.0000087338.09589.21
+Mahle, W. T., Cuadrado, A. R., and Tam, V. K. H. (2003). Early experience
+with a modiﬁed Norwood procedure using right ventricle to pulmonary artery
+conduit. Ann. Thorac. Surg. 76, 1084–1088. doi: 10.1016/s0003-4975(03)
+00343-6
+Mahle, W. T., Rychik, J., Weinberg, P. M., and Cohen, M. S. (1998). Growth
+characteristics of the aortic arch after the Norwood operation. J. Am. Coll.
+Cardiol. 32, 1951–1954. doi: 10.1016/s0735-1097(98)00457-4
+Mahle, W. T., Spray, T. L., Wernovsky, G., Gaynor, J. W., and Iii, B. J. C. (2000).
+Survival after reconstructive surgery for hypoplastic left heart syndrome.
+Circulation 102, 136–141.
+Mai, C. T., Rickard, R., Anderson, P., Mason, C. A., Parker, S. E., Meyer, R. E., et al.
+(2010). Updated national birth prevalence estimates for selected birth defects
+in the United States, 2004-2006. Birth Defects Res. A Clin. Mol. Teratol. 88,
+1008–1016. doi: 10.1002/bdra.20735
+Mair, R., Tulzer, G., Sames, E., Gitter, R., Lechner, E., Steiner, J., et al. (2003). Right
+ventricular to pulmonary artery conduit instead of modiﬁed Blalock-Taussig
+shunt improves postoperative hemodynamics in newborns after the Norwood
+operation. J. Thorac. Cardiovasc. Surg. 126, 1378–1384. doi: 10.1016/s0022-
+5223(03)00389-1
+Malec, E., Januszewska, K., Kolcz, J., and Mroczek, T. (2003). Right ventricle-to-
+pulmonary artery shunt versus modiﬁed Blalock-Taussig shunt in the Norwood
+procedure for hypoplastic left heart syndrome - Inﬂuence on early and late
+haemodynamic status. Eur. J. CardioThorac. Surg. 23, 728–734. doi: 10.1016/
+s1010-7940(03)00072-1
+Migliavacca, F., Pennati, G., Di Martino, E., Dubini, G., and Pietrabissa, R. (2002).
+Pressure drops in a distensible model of end-to-side anastomosis in systemic-
+to-pulmonary shunts. Comput. Methods Biomech. Biomed. Eng. 5, 243–248.
+doi: 10.1080/10255840290010689
+Moghadam, M., Migliavacca, F., Vignon-Clementel, I., Hsia, T.-Y., and Marsden,
+A. (2012). Optimization of shunt placement for the Norwood surgery using
+multi-domain modeling. J. Biomech. Eng. 134:051002. doi: 10.1115/1.4006814
+Pettersen, M. D., Du, W., Skeens, M. E., and Humes, R. A. (2008). Regression
+equations for calculation of Z scores of cardiac structures in a large cohort of
+healthy infants, children, and adolescents: an echocardiographic study. J. Am.
+Soc. Echocardiogr. 21, 922–934. doi: 10.1016/j.echo.2008.02.006
+Pizarro, C., and Norwood, W. I. (2003). Right ventricle to pulmonary artery
+conduit has a favorable impact on postoperative physiology after stage I
+Norwood: preliminary results q. Eur. J. Cardiothorac. Surg. 23, 991–995. doi:
+10.1016/s1010-7940(03)00158-1
+Pizarro, C., Malec, E., Maher, K. O., Januszewska, K., Gidding, S. S., Murdison,
+K. A., et al. (2003). Right ventricle to pulmonary artery conduit improves
+outcome after stage I Norwood for hypoplastic left heart syndrome. Circulation
+108, 155–160. doi: 10.1161/01.cir.0000087390.94142.1d
+Qian, Y., Liu, J. L., Itatani, K., Miyaji, K., and Umezu, M. (2010). Computational
+hemodynamic analysis in congenital heart disease: simulation of the Norwood
+procedure. Ann. Biomed. Eng. 38, 2302–2313. doi: 10.1007/s10439-010-9978-5
+Roccabianca, S., Figueroa, C. A., Tellides, G., and Humphrey, J. D. (2014).
+Quantiﬁcation of regional diﬀerences in aortic stiﬀness in the aging human.
+J. Mech. Behav. Biomed. Mater. 29, 618–634. doi: 10.1016/j.jmbbm.2013.
+01.026
+Rychik, J., Bush, D. M., Spray, T. L., Gaynor, J. W., and Wernovsky, G. (2000).
+Assessment of pulmonary/systemic blood ﬂow ratio after ﬁrst-stage palliation
+for hypoplastic left heart syndrome: development of a new index with the use of
+doppler echocardiography. J. Thorac. Cardiovasc. Surg. 120, 81–87.
+Rychik, J., Gaynor, J. W., Wernovsky, G., Bush, D. M., and Spray, T. L. (2002).
+Assessment of pulmonary/systemic blood ﬂow ratio after ﬁrst-stage palliation
+for hypoplastic left heart syndrome. J. Thorac. Cardiovasc. Surg. 120, 81–87.
+doi: 10.1067/mtc.2000.106840
+Sahni, O., Müller, J., Jansen, K. E., Shephard, M. S., and Taylor, C. A. (2006).
+Eﬃcient anisotropic adaptive discretization of the cardiovascular system.
+Comput. Methods Appl. Mech. Eng. 195, 5634–5655. doi: 10.1016/j.cma.2005.
+10.018
+Sano, S., Ishino, K., Kawada, M., and Honjo, O. (2004). Right ventricle-pulmonary
+artery shunt in ﬁrst-stage palliation of hypoplastic left heart syndrome. Pediatr.
+Card. Surg. Annu. 7, 22–31. doi: 10.1053/j.pcsu.2004.02.023
+Senzaki, H., Akagi, M., Hishi, T., Ishizawa, A., Y anagisawa, M., Masutani, S., et al.
+(2002). Age-associated changes in arterial elastic properties in children. Eur. J.
+Pediatr. 161, 547–551. doi: 10.1007/s00431-002-1025-6
+Silva Vieira, M., Arthurs, C. J., Hussain, T., Razavi, R., and Figueroa, C. A. (2018).
+Patient-speciﬁc modeling of right coronary circulation vulnerability post-liver
+transplant in Alagille’s syndrome.PLoS One 13:e0205829. doi: 10.1371/journal.
+pone.0205829
+Frontiers in Physiology | www.frontiersin.org 17 May 2021 | Volume 12 | Article 603040
+[[p18]]
+fphys-12-603040 May 8, 2021 Time: 17:33 # 18
+Primeaux et al. Modeling HLHS Hemodynamics Population Data
+Tossas-Betancourt, C., van Bakel, T. M. J., Arthurs, C. J., Coleman, D. M., Eliason,
+J. L., Figueroa, C. A., et al. (2020). Computational analysis of renal artery
+ﬂow characteristics by modeling aortoplasty and aortic bypass interventions for
+abdominal aortic coarctation. J. Vasc. Surg. 71, 505–516.e4. doi: 10.1016/j.jvs.
+2019.02.063
+Tweddell, J. S., Hoﬀman, G. M., Mussatto, K. A., Fedderly, R. T., Berger, S., and
+Jaquiss, R. B. D. (2002). Improved survival of patients undergoing palliation of
+hypoplastic left heart syndrome: lessons learned from 115 consecutive patients.
+Circulation 106, I82–I89.
+van Meurs-van Woezik, H., Klein, H. W., Markus-Silvis, L., and Krediet, P. (1983).
+Comparison of the growth of the tunica media of the ascending aorta, aortic
+isthmus and descending aorta in infants and children. J. Anat. 136, 273–281.
+Vignon-Clementel, I. E., Figueroa, C. A., Jansen, K. E., and Taylor, C. A. (2010).
+Outﬂow boundary conditions for 3D simulations of non-periodic blood ﬂow
+and pressure ﬁelds in deformable arteries. Comput. Methods Biomech. Biomed.
+Eng. 13, 625–640. doi: 10.1080/10255840903413565
+Wells, W. J., Yu, R. J., Batra, A. S., Monforte, H., Sintek, C., and Starnes,
+V. A. (2005). Obstruction in modiﬁed Blalock shunts: a quantitative analysis
+with clinical correlation. Ann. Thorac. Surg. 79, 2072–2076. doi: 10.1016/j.
+athoracsur.2004.12.050
+Xiao, N., Alastruey, J., and Figueroa, C. A. (2013). Multi-physics in biomechanical
+modeling a systematic comparison between 1-D and 3-D hemodynamics in
+compliant arterial models. Int. J. Number Method Biomed. Eng. 30, 204–231.
+doi: 10.1002/cnm.2598
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+Copyright © 2021 Primeaux, Salavitabar, Lu, Grifka and Figueroa. This is an open-
+access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) and the copyright owner(s) are credited and that the
+original publication in this journal is cited, in accordance with accepted academic
+practice. No use, distribution or reproduction is permitted which does not comply
+with these terms.
+Frontiers in Physiology | www.frontiersin.org 18 May 2021 | Volume 12 | Article 603040

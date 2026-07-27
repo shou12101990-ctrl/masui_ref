@@ -1,0 +1,833 @@
+
+[[p1]]
+Citation: Ahmed, M.; Belley-Coté,
+E.P .; Qiu, Y.; Belesiotis, P .; Tao, B.;
+Wolf, A.; Kaur, H.; Ibrahim, A.; Wong,
+J.A.; Wang, M.K.; et al. Rhythm vs.
+Rate Control in Patients with
+Postoperative Atrial Fibrillation after
+Cardiac Surgery: A Systematic
+Review and Meta-Analysis. J. Clin.
+Med. 2023, 12, 4534. https://
+doi.org/10.3390/jcm12134534
+Academic Editors: Paweł T. Matusik
+and Christian Sohns
+Received: 11 May 2023
+Revised: 24 June 2023
+Accepted: 5 July 2023
+Published: 7 July 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Journal of
+Clinical Medicine
+Systematic Review
+Rhythm vs. Rate Control in Patients with Postoperative
+Atrial Fibrillation after Cardiac Surgery: A Systematic Review
+and Meta-Analysis
+Muneeb Ahmed 1, Emilie P . Belley-Coté 1, Yuan Qiu 2
+ , Peter Belesiotis 1, Brendan Tao 3, Alex Wolf 4,
+Hargun Kaur 1, Alex Ibrahim 4, Jorge A. Wong 1, Michael K. Wang 1, Jeff S. Healey 1, David Conen 1,
+Philip James Devereaux 1, Richard P . Whitlock1 and William F. Mcintyre 1,*
+1 Faculty of Health Sciences, McMaster University, Hamilton, ON L8L 2X2, Canada
+2 Ottawa Heart Institute, University of Ottawa, Ottawa, ON K1Y 4W7, Canada
+3 Department of Medicine, University of British Columbia, Vancouver, BC V6T 1Z1, Canada
+4 Department of Medicine, Western University, Hamilton, ON N6A 5C1, Canada
+* Correspondence: william.mcintyre@phri.ca
+Abstract: Background: Postoperative atrial ﬁbrillation (POAF) is the most common complication after
+cardiac surgery; it is associated with morbidity and mortality. We undertook this review to compare
+the effects of rhythm vs. rate control in this population. Methods: We searched MEDLINE, Embase
+and CENTRAL to March 2023. We included randomized trials and observational studies comparing
+rhythm to rate control in cardiac surgery patients with POAF. We used a random-effects model to
+meta-analyze data and rated the quality of evidence using GRADE. Results: From 8,110 citations,
+we identiﬁed 8 randomized trials (990 patients). Drug regimens used for rhythm control included
+amiodarone in four trials, other class III anti-arrhythmics in one trial, class I anti-arrhythmics in
+four trials and either a class I or III anti-arrhythmic in one trial. Rhythm control compared to rate
+control did not result in a signiﬁcant difference in length of stay (mean difference −0.8 days; 95% CI
+−3.0 to +1.4, I2 = 97%), AF recurrence within 1 week (130 events; risk ratio [RR] 1.1; 95%CI 0.6–1.9,
+I2 = 54%), AF recurrence up to 1 month (37 events; RR 0.9; 95%CI 0.5–1.8, I2 = 0%), AF recurrence up
+to 3 months (10 events; RR 1.0; 95%CI 0.3–3.4, I2 = 0%) or mortality (25 events; RR 1.6; 95%CI 0.7–3.5,
+I2 = 0%). Effect measures from seven observational studies (1428 patients) did not differ appreciably
+from those in randomized trials. Conclusions: Although atrial ﬁbrillation is common after cardiac
+surgery, limited low-quality data guide its management. Limited available evidence suggests no clear
+advantage to either rhythm or rate control. A large-scale randomized trial is needed to inform this
+important clinical question.
+Keywords: rhythm control; rate control; atrial ﬁbrillation; cardiac surgery; length of stay
+1. Introduction
+Annually, over half a million adults undergo cardiac surgery in North America [1].
+These numbers are expected to increase as the global burden of cardiovascular disease
+grows [2,3]. Atrial ﬁbrillation (AF) is the most common complication after cardiac surgery;
+postoperative AF (POAF) occurs in up to 40% of patients [ 4]. Patients who experience
+POAF are more likely to have adverse events, including up to a fourfold increase in the
+odds of stroke and a doubling in the odds of death [4–6]. Patients with POAF spend, on
+average, an additional 48 h in the intensive care unit, 3 more days in the hospital, and have
+a 30% greater chance of hospital readmission in the 30 days after surgery [5–8].
+Two strategies are used to manage POAF: rhythm and rate control. Rhythm control fo-
+cuses on restoring sinus rhythm with anti-arrhythmic drugs (most commonly amiodarone)
+or electrical cardioversion. Rate control uses one or more negative chronotropic drugs to
+control ventricular rate. The optimal strategy remains unclear [9–11]. Guidelines issued
+J. Clin. Med. 2023, 12, 4534. https://doi.org/10.3390/jcm12134534 https://www.mdpi.com/journal/jcm
+[[p2]]
+J. Clin. Med. 2023, 12, 4534 2 of 11
+by the Canadian Cardiovascular Society (CCS), the European Society of Cardiology (ESC),
+the Cardiac Society of Australia and New Zealand, and the European Association for
+Cardio-Thoracic Surgery (EACTS) have all addressed the issue of rhythm vs. rate control
+after cardiac surgery, with differing conclusions [9–12].
+This systematic review and meta-analysis aimed to synthesize all of the evidence
+(randomized trials and observational studies) on the safety and efﬁcacy of a rhythm control
+strategy as compared to a rate control strategy in adult patients without a history of AF
+who developed POAF after cardiac surgery.
+2. Materials and Methods
+We registered the protocol with PROSPERO (2021 CRD42021259249). Supplementary
+File S1 lists the differences between the registered protocol and the ﬁnal manuscript. This
+systematic review adheres to Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses (PRISMA) guidelines [13].
+2.1. Eligibility Criteria
+We searched for published randomized trials and observational studies comparing a
+rhythm control to a rate control strategy in cardiac surgery patients who developed POAF
+after cardiac surgery. We included studies if they reported at least one of the predetermined
+outcomes of interest. Rhythm control was deﬁned by the use of an anti-arrhythmic drug
+(i.e., a class I or III agent, including amiodarone) or electrical cardioversion, irrespective
+of the use of rate-controlling agents. Rate control was deﬁned as a strategy based on any
+of beta blockers, non-dihydropyridine calcium channel blockers or digoxin. We did not
+place restrictions on language and considered both full texts and studies published only
+as abstracts.
+2.2. Search Methods
+We searched MEDLINE, Embase and CENTRAL from inception to March 2023. We also
+screened trial registries and contacted experts to identify additional studies. We designed a
+search strategy and reviewed it with a librarian to capture pharmacologic rhythm control
+with a class I or III anti-arrhythmic agent, electrical cardioversion, and pharmacologic rate
+control with beta blockers, non-dihydropyridine calcium channel blockers or digoxin. We
+present the search strategy in Supplementary File S2.
+2.3. Selection of Studies
+We selected studies using Covidence Systematic review software (Veritas Health
+Innovation, Melbourne, VIC, Australia). Two reviewers screened titles and abstracts inde-
+pendently and in duplicate and retrieved full-text reports for all items deemed potentially
+relevant by either reviewer. Subsequently, two authors independently compared full-text
+reports against eligibility criteria. We resolved any disagreements through discussion with
+the senior author.
+2.4. Data Extraction
+We abstracted descriptive data (e.g., patient population, intervention, comparator)
+from selected studies. Outcomes of interest were length of the index hospital stay, hospital
+readmission, new or worsening heart failure, days out of hospital, quality of life, free-
+dom from AF (within 1 week, up to 1 month, and up to 3 months), bleeding, myocardial
+infarction, mortality, and stroke. We used studies’ deﬁnitions for clinical outcomes. Two re-
+viewers independently and in duplicate extracted data using pre-designed data collection
+forms. We resolved disagreements through discussion with the senior author.
+2.5. Risk of Bias
+We assessed risk of bias in randomized trials using the Cochrane Risk of Bias 2
+(RoB 2) tool [ 14]. We independently assessed the following domains in duplicate: (i)
+[[p3]]
+J. Clin. Med. 2023, 12, 4534 3 of 11
+random sequence generation; (ii) allocation concealment; (iii) blinding of study participants,
+personnel, and outcome assessors; (iv) incomplete outcome data (we considered ≥ 20%
+missing data at high risk of bias); and (v) performance bias. We compared the assessments
+and discussed them to resolve disagreements. For analysis and presentation purposes, we
+dichotomized risk of bias as high (or likely high) or low (or likely low). We categorized a
+trial as high risk of bias if it was at risk of selection, performance, detection, or reporting
+bias for that outcome.
+We assessed risk of bias in observational studies using the Cochrane-endorsed CLAR-
+ITY tool [15]. We rated the risk of bias in studies as low, moderate, serious, or critical across
+seven domains: (i) bias due to confounding; (ii) selection of patients into the study; (iii)
+classiﬁcation of the intervention; (iv) bias due to deviations from the intended intervention;
+(v) missing data; (vi) measurement of outcomes; and (vii) selection of reported results [15].
+2.6. Statistical Analysis
+We analyzed randomized trials and observational studies separately. We used mean
+difference (MD) as the standard measure of association for length of the index hospital stay
+and risk ratios (RRs) for all other clinical outcomes. We present 95% conﬁdence intervals
+(CI) around estimates of effect. We assessed clinical and methodological heterogeneity
+based on study characteristics. We transformed the median and a measure of dispersion to
+mean and standard deviation for our meta-analyses, assuming a normal distribution [16].
+We measured statistical heterogeneity using the I2 statistic. We considered an I 2 greater
+than 50% as showing substantial heterogeneity [17]. We used RevMan 5.3 (The Cochrane
+Collaboration, Denmark) to combine data quantitatively. We decided a priori to use a
+random-effects model with Mantel–Haenszel weighting because it is conservative, and
+we expected clinical and methodological heterogeneity. We analyzed according to the
+participant’s ﬁrst assigned group (intention-to-treat principle) in randomized trials where
+participants crossed over to the other treatment. We considered two-sided p-values < 0.05
+to be statistically signiﬁcant.
+We performed pre-speciﬁed subgroup analyses comparing studies in which partic-
+ipants received amiodarone-based rhythm control to those in which they received other
+regimens (Supplementary File S3). We evaluated for interaction between subgroups and
+treatment effect and reported p-values.
+2.7. Quality Assessment
+We assessed the quality of evidence using the GRADE (Grading of Recommendations
+Assessment, Development and Evaluation) approach [18]. We appraised our conﬁdence in
+the estimates of effects by considering risk of bias in individual studies, directness of the
+evidence, precision of effect estimates for individual clinical outcomes, heterogeneity of the
+data and potential for publication bias.
+3. Results
+3.1. Selection of Included Studies
+From 8110 citations, we identiﬁed eight randomized trials that evaluated 10 different
+rhythm control regimens and included a total of 990 patients [19–26]. Table 1 outlines the
+characteristics of the included trials. Supplementary File S4 outlines the study selection
+process. Drug regimens used for rhythm control included amiodarone in four trials, other
+class III anti-arrhythmics in one trial, class I anti-arrhythmics in four trials and either a class I
+or III anti-arrhythmic in one trial. For rate control, four trials permitted choice between beta
+blockers, calcium channel blockers or digoxin, one trial allowed choice between calcium
+channel blockers or digoxin, one trial used beta blockers alone, one trial used calcium
+channel blockers alone and one trial used digoxin alone. Supplementary ﬁle S5 describes
+the rhythm monitoring methods that were used in each trial.
+[[p4]]
+J. Clin. Med. 2023, 12, 4534 4 of 11
+Table 1. Characteristics of included randomized trials.
+Study ID N Surgery Type Rhythm Control Rate Control Follow-Up Duration Outcomes Reported
+Demirkilic
+1996 [24] 120 Isolated CABG: 120/120 (100%)
+Choice between:
+-Quinidine PO 550 mg/day
+-Amiodarone PO 600 mg/day for 7 days
+then 200 mg/day
+Verapamil PO 240 mg/day 1 week AF recurrence (within 1 week,
+up to 1 month & up to 3 months)
+Gillinov 2016 [25] 523
+Isolated CABG: 212/523 (40.5%)
+CABG + valve repair: 17/523 (3.3%)
+CABG + valve replacement: 86/523
+(16.4%)
+Non-CABG: 208/523 (39.8%)
+Amiodarone 3 g PO load then 200 mg
+per day
+Both arms received rate control for
+HR < 100 and got DCCV if AF was
+persistent beyond 24–48 h
+Beta blocker and/or calcium
+channel blocker and/or Digoxin
+Both arms received rate control for
+HR < 100 and got DCCV if AF
+was persistent beyond 24–48 h
+60 days
+Length of stay
+AF recurrence (within 1 week,
+up to 1 month & up to 3 months)
+Mortality
+Stroke
+Hjelms 1992 [19] 30 Isolated CABG: 25/30 (83.3%)
+Non-CABG: 5/30 (16.7%)
+IV Procainamide, then PO Procainamide
+for 1 week
+Choice between:
+-IV Digoxin
+-PO Digoxin maintenance dose
+0.1–0.3 mg
+1 week
+Length of stay
+AF recurrence (within 1 week)
+Mortality
+Kamali 2017 [20] 146 Isolated CABG: 146/146 (100%)
+Amiodarone PO or IV 300 mg
+followed by 1–3 mg/kg every 6 h and
+0.5 mg/kg 18 h later
+Beta blocker IV
+1–3 mg/kg/h for 24 h 24 h
+Length of stay
+AF Recurrence (within 1 week)
+Mortality
+Karacaglar
+2019 [26] 50 Isolated CABG: 43/50 (86%)CABG +
+valve surgery: 7/50 (14%)
+IV amiodarone
+DCCV if in AF at 24 h
+then PO amiodarone for 28 days
+Beta blocker, calcium channel
+blocker or Digoxin
+DCCV if in AF at 24 h
+30 days
+Length of stay
+AF Recurrence (within 1 week,
+up to 1 month)
+Bleeding
+Mortality
+Stroke
+Lee 2000 [21] 50
+Isolated CABG: 34/50 (68%)CABG +
+valve surgery: 7/50 (14%)
+Non-CABG: 9/50 (18%)
+Choice between:
+-Sotalol PO 120–360 mg/day
+-Propafenone PO 300–900 mg/day
+-Procainamide IV 500–1000 mg followed
+by a continuous infusion of 1 to 4 mg/h
+or 2 to 3 g/day in divided oral doses.
+-Amiodarone IV 200 mg/day
+after a loading dose of 1200 to 1600 mg
+for 4 to 5 days
+DCCV if in AF at 48 h
+Beta blocker, calcium channel
+blocker or Digoxin
+Rhythm: 48 h
+Rate: Until HR ≤ 110 BPM
+or 110–120 BPM with no
+heart failure
+Length of stay
+AF recurrence (within 1 week,
+up to 1 month & up to 3 months)
+Mortality
+Soucier 2003 [22] 42
+Isolated CABG: 34/42 (81%)CABG +
+valve surgery: 6/42 (14.3%)
+Non-CABG: 2/42 (4.8%)
+Choice between:
+-IV Ibutilide
+-Propafenone
+Physician choicebeta
+blocker encouraged 1 week AF recurrence (within 1 week)
+Stroke
+Wafa 1989 [23] 29 Isolated CABG: 29/29 (100%) Flecainide IV for up to 24 h IV Digoxin +/ − Verapamil 24 h Length of stay
+AF recurrence (within 1 week)
+PO: taken orally; IV: given intravenously; AF: atrial ﬁbrillation; N: number of randomized patients; DCCV: direct current cardioversion; CABG: coronary artery bypass graft.
+[[p5]]
+J. Clin. Med. 2023, 12, 4534 5 of 11
+We identiﬁed seven observational studies that included a total of 1428 patients
+(Supplementary File S6) [27–33]. For rhythm control, ﬁve studies used amiodarone while
+two studies permitted choice between a class I or III anti-arrhythmic. For rate control,
+two studies allowed choice between beta blockers, calcium channel blockers or digoxin,
+one study permitted choice between beta blockers or digoxin, one study allowed choice
+between beta blockers or calcium channel blockers, two studies used digoxin alone and
+one study used beta blockers alone.
+3.2. Risk of Bias Assessment
+We outline judgments about risk of bias in included studies in Supplementary Files
+S7–S9. Only one out of eight randomized trials reported blinding of participants and
+personnel and blinding of outcome assessment [20,23]. We judged risks of bias related to
+randomization, allocation, incomplete outcome data, and selective reporting as either low
+or likely low in all studies. All observational studies had serious or moderate risk of bias.
+4. Outcomes
+4.1. Data from Randomized T rials
+Compared to rate control, rhythm control did not result in a signiﬁcant reduction in
+length of stay (Table 2, Figure 1, Supplementary ﬁle S3). There was no statistical evidence
+of a subgroup effect on length of stay between studies that used amiodarone-based and
+non-amiodarone-based rhythm control. We rated the quality of evidence for this outcome
+as very low due to its skewed distribution, imprecision, inconsistency and risk of bias
+(Supplementary Files S7, S9, and S10).
+Table 2. Summary of length of stay and subgroup analyses for the comparison of rhythm vs.
+rate control.
+Group N Studies
+(References)
+Total
+Patients
+Mean Length of Stay in Days+/−
+Standard Deviation MeanDifference
+(95%CI) p-Value I2n
+Quality of Evidence
+Reason for Judgement
+(Supplementary Files S7,
+S9a–h and S10)
+Rhythm
+Control Rate Control
+All trials 5
+[20–22,25,26] 815 6.6 ± 0.7 6.3 ± 0.7 −0.8 days
+(−3.0 to +1.4) 0.47 97% Very low
+Skewed distribution, risk of
+bias, imprecisionAmiodarone-based
+rhythm control 3 [20,24,25] 723 6.1 ± 0.6 5.7 ± 0.6 0.5 days
+(−1.5 to +2.5) 0.63 95%
+Nonamiodarone-
+based rhythm
+control
+2 [21,22] 92 9.8 ± 1.3 12.6 ± 1.3 −3.1 days
+(−6.2 to +0.1) 0.06 64%
+No signiﬁcant subgroup differences for length of stay (p = 0.06).
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 6 of 13 
+ 
+ 
+Table 2. Summary of length of stay and subgroup anal yses for the comparison of rhythm vs. rate 
+control. 
+Group N Studies 
+(References) 
+Total 
+Patients 
+Mean Length of Stay in Days 
++/− Standard Deviation 
+Mean 
+Difference 
+(95%CI) 
+p-
+Value I2n 
+Quality of 
+Evidence 
+Reason for 
+Judgement 
+(Supplemen
+tary S7, S9 
+a–h, 
+Supplement
+ary S10) 
+ Rhythm 
+Control Rate Control 
+All trials 5 
+[20–22,25,26] 815 6.6 ± 0.7 6.3 ± 0.7 −0.8 days 
+(−3.0 to +1.4) 0.47 97% 
+Very low 
+Skewed 
+distribution, 
+ risk of bias, 
+ imprecision 
+Amiodar
+one-
+based 
+rhythm 
+control 
+3 [20,24,25] 723 6.1 ± 0.6 5.7 ± 0.6 0.5 days 
+(−1.5 to +2.5) 0.63 95% 
+Non 
+amiodaro
+ne-based 
+rhythm 
+control 
+2 [21,22] 92 9.8 ± 1.3 12.6 ± 1.3 −3.1 days 
+(−6.2 to +0.1) 0.06 64% 
+No signiﬁcant subgroup diﬀerences for length of stay (p = 0.06). 
+ 
+Figure 1. Length of stay in randomized trials. Forest plot displaying an inverse-variance weighted 
+random-eﬀects meta-analysis comparing rhythm and rate  control on length of the index hospital 
+stay in days (mean diﬀerence). Columns of data are displayed in the plot for all ﬁgures. The drugs 
+and dosages in each trial are documented in Table 1 for all ﬁgures. We used studies’ deﬁnitions for 
+clinical outcomes for all ﬁgures. The size of data markers indi cates the weight of the study in all 
+ﬁgures. Error bars indicate 95% CIs for all ﬁgures. We used RevMan 5.3 (The Cochrane Collabora-
+tion, Odense, Denmark) to combine data quantitatively for all ﬁgures [20–22,25,26]. 
+Compared to rate control, rhythm control did not result in a signiﬁcant reduction in 
+AF recurrence within 1 week, up to 1 month or up to 3 months, mortality or stroke (Table 
+3, Figures 2–4, Supplementary S3). There was no statistical evidence of a subgroup e ﬀect 
+on mortality between studies that used amiodarone-based and non-amiodarone-based 
+rhythm control. We rated the quality of evidence for most outcomes as low due to impre-
+cision and risk of bias (Suppl ementary S7, S9 and S10). We rated the quality of evidence 
+for stroke as very low due to very serious imprecision and risk of bias (Supplementary S7, 
+S9 and S10). 
+  
+Figure 1. Length of stay in randomized trials. Forest plot displaying an inverse-variance weighted
+random-effects meta-analysis comparing rhythm and rate control on length of the index hospital
+stay in days (mean difference). Columns of data are displayed in the plot for all ﬁgures. The drugs
+and dosages in each trial are documented in Table 1 for all ﬁgures. We used studies’ deﬁnitions for
+clinical outcomes for all ﬁgures. The size of data markers indicates the weight of the study in all
+ﬁgures. Error bars indicate 95% CIs for all ﬁgures. We used RevMan 5.3 (The Cochrane Collaboration,
+Odense, Denmark) to combine data quantitatively for all ﬁgures [20–22,25,26].
+Compared to rate control, rhythm control did not result in a signiﬁcant reduction in
+AF recurrence within 1 week, up to 1 month or up to 3 months, mortality or stroke (Table 3,
+[[p6]]
+J. Clin. Med. 2023, 12, 4534 6 of 11
+Figures 2–4, Supplementary File S3). There was no statistical evidence of a subgroup
+effect on mortality between studies that used amiodarone-based and non-amiodarone-
+based rhythm control. We rated the quality of evidence for most outcomes as low due
+to imprecision and risk of bias (Supplementary Files S7, S9 and S10). We rated the qual-
+ity of evidence for stroke as very low due to very serious imprecision and risk of bias
+(Supplementary Files S7, S9 and S10).
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 7 of 13 
+ 
+ 
+ 
+(a) 
+ 
+(b) 
+(c) 
+Figure 2. (a) AF recurrence within 1 week in randomized trials. Forest plot displaying relative risks 
+calculated using a random-e ﬀects model with Mantel-Haenszel weighting comparing rhythm and 
+rate control on atrial ﬁbrillation recurrence within 1 week. The relative risks were calculated using 
+a random-eﬀects model with Mantel-H aenszel weighting for all ﬁgures [19–26]; (b) AF recurrence 
+up to 1 month in randomized trials. Forest plot displaying relative risks calculated using a random-
+eﬀects model with Mantel-Haenszel weighting comparing rhythm and rate control on atrial ﬁbril-
+lation recurrence up to 1 month [21,25,26]; ( c) AF recurrence up to 3 mont hs in randomized trials; 
+Forest plot displaying relative risks calculated using a random-eﬀects model with Mantel-Haenszel 
+weighting comparing rhythm and rate control on atrial ﬁbrillation recurrence up to 3 months 
+[21,24,25]. 
+ 
+Figure 3. Mortality in randomized trials. Forest plot displaying relative risks calculated using a ran-
+dom-eﬀects model with Mantel-Haenszel weighting comparing rhythm and rate control on mortal-
+ity as deﬁned by the respective study [20–22,25,26]. 
+Figure 2. (a) AF recurrence within 1 week in randomized trials. Forest plot displaying relative risks
+calculated using a random-effects model with Mantel-Haenszel weighting comparing rhythm and
+rate control on atrial ﬁbrillation recurrence within 1 week. The relative risks were calculated using a
+random-effects model with Mantel-Haenszel weighting for all ﬁgures [19–26]; (b) AF recurrence up to
+1 month in randomized trials. Forest plot displaying relative risks calculated using a random-effects
+model with Mantel-Haenszel weighting comparing rhythm and rate control on atrial ﬁbrillation
+recurrence up to 1 month [21,25,26]; (c) AF recurrence up to 3 months in randomized trials; Forest plot
+displaying relative risks calculated using a random-effects model with Mantel-Haenszel weighting
+comparing rhythm and rate control on atrial ﬁbrillation recurrence up to 3 months [21,24,25].
+Table 3. Summary of AF recurrence, mortality and stroke and sensitivity analyses for the comparison
+of rhythm vs. rate control.
+Group N Studies
+(References)
+Number of Patients with
+Events/Number of Patients
+at Risk
+Relative Risk Quality of Evidence
+Reason for Judgement
+(Supplementary Files S7, S9 and S10)Rhythm
+Control
+Rate
+Control
+Risk Ratio
+(95% CI) p-Value I2
+AF recurrence
+AF recurrence within
+one week 8 [19–26] 79/605 51/451 1.1
+(0.6–1.9) 0.76 54% Low
+Imprecision, risk of biasAF recurrence up to
+one month 3 [21,25,26] 18/312 19/311 0.9
+(0.5–1.8) 0.84 0%
+[[p7]]
+J. Clin. Med. 2023, 12, 4534 7 of 11
+Table 3. Cont.
+Group N Studies
+(References)
+Number of Patients with
+Events/Number of Patients
+at Risk
+Relative Risk Quality of Evidence
+Reason for Judgement
+(Supplementary Files S7, S9 and S10)Rhythm
+Control
+Rate
+Control
+Risk Ratio
+(95% CI) p-Value I2
+AF recurrence up to
+three months 3 [21,24,25] 5/348 5/315 1.0
+(0.3–3.4) 0.95 0%
+Mortality
+All studies 5
+[20–22,25,26] 16/419 9/396 1.6
+(0.7–3.5) 0.24 0%
+Amiodarone-based
+rhythm control 3 [20,25,26] 14/360 9/363 1.5
+(0.7–3.4) 0.33 0% Low
+Imprecision, risk of bias
+NonAmiodarone-based
+rhythm control 2 [21,22] 2/57 0/35 4.3
+(0.2–85.0) 0.34 N/A
+No signiﬁcant subgroup differences for mortality (p = 0.51)
+Stroke
+All studies 3 [22,25,26] 4/297 6/318 0.7
+(0.1–4.6) 0.73 44% Very low
+Very serious imprecision, risk of bias
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 7 of 13 
+ 
+ 
+ 
+(a) 
+ 
+(b) 
+(c) 
+Figure 2. (a) AF recurrence within 1 week in randomized trials. Forest plot displaying relative risks 
+calculated using a random-e ﬀects model with Mantel-Haenszel weighting comparing rhythm and 
+rate control on atrial ﬁbrillation recurrence within 1 week. The relative risks were calculated using 
+a random-eﬀects model with Mantel-H aenszel weighting for all ﬁgures [19–26]; (b) AF recurrence 
+up to 1 month in randomized trials. Forest plot displaying relative risks calculated using a random-
+eﬀects model with Mantel-Haenszel weighting comparing rhythm and rate control on atrial ﬁbril-
+lation recurrence up to 1 month [21,25,26]; ( c) AF recurrence up to 3 mont hs in randomized trials; 
+Forest plot displaying relative risks calculated using a random-eﬀects model with Mantel-Haenszel 
+weighting comparing rhythm and rate control on atrial ﬁbrillation recurrence up to 3 months 
+[21,24,25]. 
+ 
+Figure 3. Mortality in randomized trials. Forest plot displaying relative risks calculated using a ran-
+dom-eﬀects model with Mantel-Haenszel weighting comparing rhythm and rate control on mortal-
+ity as deﬁned by the respective study [20–22,25,26]. 
+Figure 3. Mortality in randomized trials. Forest plot displaying relative risks calculated using
+a random-effects model with Mantel-Haenszel weighting comparing rhythm and rate control on
+mortality as deﬁned by the respective study [20–22,25,26].
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 8 of 13 
+ 
+ 
+ 
+Figure 4. Stroke in randomized trials. Forest plot displaying relative risks calculated using a ran-
+dom-eﬀects model with Mantel-Haenszel weighting co mparing rhythm and rate control on stroke 
+as deﬁned by the respective study [22,25,26]. 
+Table 3. Summary of AF recurrence, mortality and stroke and sensitivity analyses for the compari-
+son of rhythm vs. rate control. 
+Group N Studies 
+(References) 
+Number of Patients 
+with Events/ 
+Number of Patients at 
+Risk 
+Relative Risk 
+Quality of 
+Evidence 
+Reason for 
+Judgement 
+(Supplementary 
+S7, S9 and S10) 
+Rhythm 
+Control 
+Rate  
+Control 
+Risk Ratio  
+(95% CI) p-Value I 2 
+ AF recurrence 
+AF 
+recurrence 
+within one 
+week 
+8 [19–26] 79/605 51/451 1.1 
+(0.6–1.9) 0.76 54% 
+Low 
+Imprecision,  
+risk of bias 
+AF 
+recurrence up 
+to one month 
+3 [21,25,26] 18/312 19/311 0.9 
+(0.5–1.8) 0.84 0% 
+AF 
+recurrence up 
+to three 
+months 
+3 [21,24,25] 5/348 5/315 1.0 
+(0.3–3.4) 0.95 0% 
+ Mortality 
+All studies 5  
+[20–22,25,26] 16/419 9/396 1.6 
+(0.7–3.5) 0.24 0%  
+Amiodarone-
+based rhythm 
+control 
+3 [20,25,26] 14/360 9/363 1.5 
+(0.7–3.4) 0.33 0% 
+Low 
+ 
+Imprecision,  
+risk of bias 
+Non 
+Amiodarone-
+based rhythm 
+control 
+2 [21,22] 2/57 0/35 4.3 
+(0.2–85.0) 0.34 N/A  
+ No significant subgroup differences for mortality ( p = 0.51) 
+ Stroke 
+All studies 3 [22,25,26] 4/297 6/318 0.7 
+(0.1–4.6) 0.73 44% 
+Very low 
+Very serious 
+imprecision,  
+risk of bias 
+  
+Figure 4. Stroke in randomized trials. Forest plot displaying relative risks calculated using a random-
+effects model with Mantel-Haenszel weighting comparing rhythm and rate control on stroke as
+deﬁned by the respective study [22,25,26].
+4.2. Data from Observational Studies
+Among observational studies, four studies reported data on length of stay, three studies
+reported on AF recurrence within 1 week, two studies reported on AF recurrence up to
+1 month, three studies reported on AF recurrence up to 3 months and two studies reported
+on mortality. Effect measures from observational studies did not differ appreciably from
+those in randomized trials (Supplementary File S5). We rated the quality of evidence for all
+outcomes as very low. All outcomes were downgraded due to risk of bias. Length of stay
+was downgraded for non-normal distribution. All other outcomes were downgraded for
+serious imprecision (Supplementary File S11).
+5. Discussion
+The current literature, when synthesized, fails to demonstrate signiﬁcant differences
+in length of stay, AF recurrence, mortality or stroke between rhythm and rate control
+[[p8]]
+J. Clin. Med. 2023, 12, 4534 8 of 11
+strategies for patients with POAF after cardiac surgery. This lack of signiﬁcant difference is
+consistent between studies that used both amiodarone-based and non-amiodarone-based
+rhythm control. However, this body of evidence has important limitations. The number of
+patients enrolled in trials evaluating rhythm and rate control strategies in postoperative
+atrial ﬁbrillation is small, with fewer than 1000 participants in total. Most of these studies
+were open-label. Moreover, substantial variability in interventions and follow-up durations
+reduced conﬁdence in estimates of effect.
+To our knowledge, this systematic review and meta-analysis is the first to compare
+rhythm vs. rate control specifically in patients with POAF after cardiac surgery . A 2018 sys-
+tematic review of RCTs comparing rhythm to rate control for patients with AF in general only
+included one study with POAF [34]. This meta-analysis of 12 studies showed no significant dif-
+ference between rhythm and rate control groups for mortality , bleeding, and thromboembolic
+events but demonstrated a higher rehospitalization rate with rhythm control [34].
+The largest trial in this review was conducted by the Cardiothoracic Surgical Trials
+Network from 2014 to 2015; it accounts for 523 of the 990 participants (52.8% of patients,
+23.3% of the weight for length of stay) in the meta-analysis [25]. This trial has important
+limitations that deserve mention, some of which are highlighted in the 2017 EACTS Guide-
+lines [12]. The treatment regimen of this trial included amiodarone for the rhythm control
+group and beta blocker/calcium channel blocker or digoxin for the rate control group.
+However, both groups received rate control for patients with a heart rate less than 100
+and were cardioverted electrically if AF was persistent beyond 24–48 h, which may have
+minimized differences in treatment effect. The cross-over rate was very high (25%), and
+rhythm status was assessed using intermittent rather than continuous ECG. In addition,
+the trial included patients with short episodes of POAF—these low-risk patients may have
+obscured beneﬁts seen in higher-risk patients.
+As neither rhythm nor rate control is superior for the treatment of POAF in cardiac
+surgery patients, both strategies can be considered for the treatment of individual patients.
+Both the ESC and CCS guidelines suggest tailoring treatment. The 2020 ESC guidelines
+state that “. . .rate or rhythm control treatment decisions should be based on symptoms (Class I
+Recommendation, Level A Evidence)”. The 2016 CCS Guidelines state that “choice of strategy
+should therefore be individualized on the basis of the degree of symptoms (Strong Recommendation,
+Moderate-Quality Evidence)” [9,10]. In contrast, the 2017 EACTS guidelines state that “In
+patients with postoperative haemodynamically stable POAF , rhythm control is recommended (Class
+I Recommendation, Level B Evidence)” [12].
+Our study suggests that large, randomized trials are required to compare rhythm and
+rate control for POAF in cardiac surgery patients. Future studies should assess adverse
+events and seek to understand clinician, economic and patient values in decision-making.
+This review also highlights the lack of data on other important outcomes, such as bleeding,
+hospital readmission, new or worsening heart failure, days out of hospital, quality of
+life, bleeding and thrombotic events. The International Consortium for Health Outcomes
+Measurement has identiﬁed these outcomes to be meaningful to both patients and clinicians
+and recommends them as standard outcomes for trials in AF [35,36].
+6. Strengths and Weaknesses
+Our search was comprehensive, using three large trial databases (MEDLINE, Embase,
+and CENTRAL) for published data, and we screened trial registries and enquired with
+specialists about additional studies. The review was pre-registered and used the GRADE
+framework to evaluate the quality of the evidence.
+The principal limitations of this review are inherent to the studies that met the eligi-
+bility criteria. Variability in intervention types, follow-up periods, drug types, doses and
+durations, as well as a high proportion of patients lost to follow-up in the included studies,
+may have obscured a signal. It is worth noting that some drugs primarily intended for
+rhythm control, such as amiodarone, dronedarone and sotalol, can also have an impact on
+reducing ventricular rate during atrial ﬁbrillation. Amiodarone, in particular, has shown
+[[p9]]
+J. Clin. Med. 2023, 12, 4534 9 of 11
+effectiveness in slowing the ventricular rate in patients with atrial ﬁbrillation and heart
+failure who are intolerant to high-dose β-blockade in combination with digoxin or in
+whom calcium channel blockers are contraindicated. However, in our review, we focused
+exclusively on assessing amiodarone as a rhythm control agent, and its potential role in
+acute heart rate control in the context of cardiac surgery was not speciﬁcally examined.
+Studies reported overall adverse events rather than comparative counts between rhythm
+and rate control, which obviated meta-analysis. Included studies ascertained AF recurrence
+using 12 lead-ECG and/or short-duration Holter monitoring. Implantable loop recorders
+(ILRs) are the most sensitive tool for detecting AF recurrence and have become increas-
+ingly used in post-ablation studies. ILRs may have led to detectable differences in AF
+recurrence outcomes [37]. Furthermore, since many cardiac surgery patients receive oral
+anticoagulation, the risk of thromboembolic events in the perioperative period overall was
+low, which may have affected the signal between rhythm and rate control for reducing
+thromboembolic events.
+7. Conclusions
+Currently, limited, low-quality data inform on the efﬁcacy of a rhythm control vs. a rate
+control approach for patients with new-onset AF following cardiac surgery. A large-scale
+randomized trial is needed to inform this important clinical question.
+Supplementary Materials: The following supporting information can be downloaded at: https://
+www.mdpi.com/article/10.3390/jcm12134534/s1.
+Author Contributions: Conceptualization, M.A., J.S.H. and W.F.M.; Methodology, M.A., Y.Q., P .B.
+and W.F.M.; Formal analysis, M.A.; Data curation, B.T., A.W., H.K. and A.I.; Writing—original draft,
+M.A.; Writing—review & editing, E.P .B.-C., Y.Q., J.A.W., M.K.W., J.S.H., D.C., P .J.D., R.P .W. and W.F.M.;
+Supervision, W.F.M. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement:All relevant data are within the manuscript and Supplementary Materials.
+Acknowledgments: We thank Toru Inami for his assistance in assessing articles written in Japanese;
+the members of the McMaster Interdisciplinary Investigative Outcomes Node—Cardiac Sciences,
+Intensive Care and Anesthesia (McMaster University), for their methodological support; Jack Young,
+MLIS (McMaster Health Sciences Library), for reviewing our search strategy; Stephanie Sanger
+(McMaster Health Sciences Library), for assistance with full-text retrieval. They did not receive
+compensation for their contributions.
+Conﬂicts of Interest: All authors have completed and submitted the ICMJE Form for Disclosure of
+Potential Conﬂicts of Interest.
+Abbreviations and Acronyms
+Atrial ﬁbrillation (AF)
+Canadian Cardiovascular Society (CCS)
+Coronary artery bypass graft (CABG)
+Direct current cardioversion (DCCV)
+European Society of Cardiology (ESC)
+European Association for Cardio-Thoracic Surgery (EACTS)
+Given intravenously (IV)
+GRADE (Grading of Recommendations Assessment,
+Development and Evaluation)
+Postoperative atrial ﬁbrillation (POAF)
+Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses (PRISMA)
+Taken orally (PO)
+[[p10]]
+J. Clin. Med. 2023, 12, 4534 10 of 11
+References
+1. Writing Group Members; Roger, V .L.; Go, A.S.; Lloyd-Jones, D.M.; Benjamin, E.J.; Berry, J.D.; Borden, W.B.; Bravata, D.M.; Dai, S.;
+Ford, E.S.; et al. Heart Disease and Stroke Statistics—2012 Update. Circulation 2012, 125, e2–e220.
+2. Yusuf, S.; Reddy, S.; Ounpuu, S.; Anand, S. Global burden of cardiovascular diseases: Part II: Variations in cardiovascular disease
+by speciﬁc ethnic groups and geographic regions and prevention strategies. Circulation 2001, 104, 2855–2864. [CrossRef]
+3. Baghai, M.; Wendler, O.; Grant, S.W.; Goodwin, A.T.; Trivedi, U.; Kendall, S.; Jenkins, D.P . Aortic valve surgery in the UK, trends
+in activity and outcomes from a 15-year complete national series. Eur. J. Cardio-Thorac. Surg. 2021, 60, 1353–1357. [CrossRef]
+[PubMed]
+4. Bessissow, A.; Khan, J.; Devereaux, P .J.; Alvarez-Garcia, J.; Alonso-Coello, P . Postoperative atrial ﬁbrillation in non-cardiac and
+cardiac surgery: An overview. J. Thromb. Haemost. 2015, 13 (Suppl. S1), S304–S312. [CrossRef] [PubMed]
+5. Eikelboom, R.; Sanjanwala, R.; Le, M.-L.; Yamashita, M.H.; Arora, R.C. Postoperative Atrial Fibrillation after Cardiac Surgery: A
+Systematic Review and Meta-Analysis. Ann. Thorac. Surg. 2021, 111, 544–554. [CrossRef] [PubMed]
+6. Wang, M.K.; Meyre, P .B.; Heo, R.; Devereaux, P .J.; Birchenough, L.; Whitlock, R.; McIntyre, W.F.; Chen, Y.C.P .; Ali, M.Z.;
+Biancari, F.; et al. Short-term and Long-term Risk of Stroke in Patients with Perioperative Atrial Fibrillation after Cardiac Surgery:
+Systematic Review and Meta-analysis. CJC Open 2022, 4, 85–96. [CrossRef]
+7. Goyal, P .; Kim, M.; Krishnan, U.; Mccullough, S.A.; Cheung, J.W.; Kim, L.K.; Pandey, A.; A Borlaug, B.; Horn, E.M.;
+Safford, M.M.; et al. Post-operative atrial ﬁbrillation and risk of heart failure hospitalization. Eur. Heart J. 2022, 43, 2971–2980.
+[CrossRef]
+8. LaPar, D.J.; Speir, A.M.; Crosby, I.K.; Fonner, E., Jr.; Brown, M.; Rich, J.B.; Quader, M.; Kern, J.A.; Kron, I.L.; Ailawadi, G.
+Postoperative Atrial Fibrillation Signiﬁcantly Increases Mortality, Hospital Readmission, and Hospital Costs. Ann. Thorac. Surg.
+2014, 98, 527–533. [CrossRef]
+9. Macle, L.; Cairns, J.; Leblanc, K.; Tsang, T.; Skanes, A.; Cox, J.L.; Healey, J.S.; Bell, A.; Pilote, L.; Andrade, J.G.; et al. 2016 Focused
+Update of the Canadian Cardiovascular Society Guidelines for the Management of Atrial Fibrillation. Can. J. Cardiol. 2016,
+32, 1170–1185. [CrossRef]
+10. Hindricks, G.; Potpara, T.; Dagres, N.; Arbelo, E.; Bax, J.J.; Blomström-Lundqvist, C.; Boriani, G.; Castella, M.; Dan, G.A.;
+Dilaveris, P .E.; et al. 2020 ESC Guidelines for the diagnosis and management of atrial ﬁbrillation developed in collaboration with
+the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial
+ﬁbrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm
+Association (EHRA) of the ESC. Eur. Heart J. 2021, 42, 373–498.
+11. Brieger, D.; Amerena, J.; Attia, J.; Bajorek, B.; Chan, K.H.; Connell, C.; Freedman, B.; Ferguson, C.; Hall, T.; Haqqani, H.; et al.
+National Heart Foundation of Australia and the Cardiac Society of Australia and New Zealand: Australian Clinical Guidelines
+for the Diagnosis and Management of Atrial Fibrillation 2018. Heart Lung Circ. 2018, 27, 1209–1266. [CrossRef] [PubMed]
+12. Sousa-Uva, M.; Head, S.J.; Milojevic, M.; Collet, J.-P .; Landoni, G.; Castella, M.; Dunning, J.; Gudbjartsson, T.; Linker, N.J.;
+Sandoval, E.; et al. 2017 EACTS Guidelines on perioperative medication in adult cardiac surgery. Eur. J. Cardiothorac. Surg. 2018,
+53, 5–33. [CrossRef] [PubMed]
+13. Page, M.J.; McKenzie, J.E.; Bossuyt, P .M.; Boutron, I.; Hoffmann, T.C.; Mulrow, C.D.; Shamseer, L.; Tetzlaff, J.M.; Akl, E.A.;
+Brennan, S.E.; et al. The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. PLoS Med. 2021,
+18, e1003583. [CrossRef] [PubMed]
+14. Sterne, J.A.C.; Savovi´ c, J.; Page, M.J.; Elbers, R.G.; Blencowe, N.S.; Boutron, I.; Cates, C.J.; Cheng, H.Y.; Corbett, M.S.;
+Eldridge, S.M.; et al. RoB 2: A revised tool for assessing risk of bias in randomised trials. BMJ 2019, 366, 14898. [CrossRef]
+[PubMed]
+15. The Clarity Review Group, McMaster University. Tool to Assess Risk of Bias in Cohort Studies. Available online:http://help.
+magicapp.org/knowledgebase/articles/327941-tool-to-assess-risk-of-bias-in-cohort-studies (accessed on 10 May 2023).
+16. Wan, X.; Wang, W.; Liu, J.; Tong, T. Estimating the sample mean and standard deviation from the sample size, median, range
+and/or interquartile range. BMC Med. Res. Methodol. 2014, 14, 135. [CrossRef]
+17. Cumpston, M.; Li, T.; Page, M.J.; Chandler, J.; Welch, V .A.; Higgins, J.P .; Thomas, J. Updated guidance for trusted systematic
+reviews: A new edition of the Cochrane Handbook for Systematic Reviews of Interventions. Cochrane Database Syst. Rev. 2019,
+10, ED000142. [CrossRef]
+18. Guyatt, G.H.; Oxman, A.D.; Schünemann, H.J.; Tugwell, P .; Knottnerus, A. GRADE guidelines: A new series of articles in the
+Journal of Clinical Epidemiology. J. Clin. Epidemiol. 2011, 64, 380–382. [CrossRef]
+19. Hjelms, E. Procainamide conversion of acute atrial ﬁbrillation after open-heart surgery compared with digoxin treatment. Scand.
+J. Thorac. Cardiovasc. Surg. 1992, 26, 193–196. [CrossRef]
+20. Kamali, A.; Sanatkar, A.; Shariﬁ, M.; Moshir, E. Evaluation of amiodarone versus metoprolol in treating atrial ﬁbrillation after
+coronary artery bypass grafting. Interv. Med. Appl. Sci. 2017, 9, 51–55. [CrossRef]
+21. Lee, J.K.; Klein, G.J.; Krahn, A.D.; Yee, R.; Zarnke, K.; Simpson, C.; Skanes, A.; Spindler, B. Rate-control versus conversion strategy
+in postoperative atrial ﬁbrillation: A prospective, randomized pilot study. Am. Heart J. 2000, 140, 871–877. [CrossRef]
+22. Soucier, R.; Silverman, D.; Abordo, M.; Jaagosild, P .; Abiose, A.; Madhusoodanan, K.P .; Therrien, M.; Lippman, N.; Dalamagas, H.;
+Berns, E. Propafenone versus ibutilide for post operative atrial ﬁbrillation following cardiac surgery: Neither strategy improves
+outcomes compared to rate control alone (the PIPAF study). Med. Sci. Monit. Int. Med. J. Exp. Clin. Res. 2003, 9, PI19–PI23.
+[[p11]]
+J. Clin. Med. 2023, 12, 4534 11 of 11
+23. Wafa, S.S.; Ward, D.E.; Parker, D.J.; Camm, A.J. Efﬁcacy of ﬂecainide acetate for atrial arrhythmias following coronary artery
+bypass grafting. Am. J. Cardiol. 1989, 63, 1058–1064. [CrossRef]
+24. Yilmaz, A.T.; Demírkiliç, U.; Arslan, M.; Kurulay, E.; Ozal, E.; Tatar, H.; Öztürk, Y. Long-term prevention of atrial ﬁbrillation after
+coronary artery bypass surgery: Comparison of quinidine, verapamil, and amiodarone in maintaining sinus rhythm. J. Card.
+Surg. 1996, 11, 61–64. [CrossRef]
+25. Gillinov, A.M.; Bagiella, E.; Moskowitz, A.J.; Raiten, J.M.; Groh, M.A.; Bowdish, M.E.; Ailawadi, G.; Kirkwood, K.A.; Perrault,
+L.P .; Parides, M.K.; et al. Rate Control versus Rhythm Control for Atrial Fibrillation after Cardiac Surgery.N. Engl. J. Med. 2016,
+374, 1911–1921. [CrossRef] [PubMed]
+26. Karaça˘ glar, E.; Atar,˙I.; Özbiçer, S.; Sezgin, A.; Özçobano˘ glu, S.; Yazici, A.C.; Özin, B.; Müderriso˘ glu, H. Amiodarone Versus
+Direct Current Cardioversion in Treatment of Atrial Fibrillation after Cardiac Surgery.T urk. J. Clin. Lab. 2019, 10, 26–32. Available
+online: https://dergipark.org.tr/en/pub/tjcl/issue/44073/519537#article_cite (accessed on 8 December 2021). [CrossRef]
+27. Kowey, P .R.; Stebbins, D.; Igidbashian, L.; Goldman, S.M.; Sutter, F.P .; Rials, S.J.; Marinchak, R.A. Clinical outcome of patients
+who develop PAF after CABG surgery.Pacing Clin. Electrophysiol. 2001, 24, 191–193. [CrossRef]
+28. Abbas, S.; Gul, S.; Dhahri, A.; Iqbal, M.; Khan, T.; Khan, S. Amiodarone vs digoxin in the treatment of atrial ﬁbrillation in
+postoperative rheumatic cardiac valvular patients. J. Pak. Med. Assoc. 2016, 66, 1098–1101.
+29. Bruggmann, C.; Astaneh, M.; Lu, H.; Tozzi, P .; Ltaief, Z.; Voirol, P .; Sadeghipour, F. Management of Atrial Fibrillation Following
+Cardiac Surgery: Observational Study and Development of a Standardized Protocol. Ann. Pharmacother. 2021, 55, 830–838.
+[CrossRef] [PubMed]
+30. Ciofﬁ, G.; Cemin, C.; Russo, T.E.; Pellegrini, A.; Terrasi, F.; Ferrario, G. Post-discharge recurrences of new-onset atrial ﬁbrillation
+following cardiac surgery: Impact of low-dose amiodarone and beta-blocker prophylaxis. Ital. Heart J. 2000, 1, 691–697. [PubMed]
+31. List of Abstracts: Suppl. 1 to Vol. 12 (May 20, 2011). Interact. Cardiovasc. Thorac. Surg. 2011, 12 (Suppl. S1), iv–xxiii. [CrossRef]
+32. Guaragna, J.C.; Martins, V .; Brunini, T.M.; Linhatti, J.L.; Brauner, F.B.; Pires, R.C.; Bodanese, L.C. Use of high-dose oral amiodarone
+for the reversion of atrial ﬁbrillation during the postoperative period of cardiac surgery. Arq. Bras. Cardiol. 1997, 69, 401–405.
+[CrossRef]
+33. Shah, P .; Shpigel, A.; Wasser, T.; Sabo, M.; Feldman, B. Morbidity of Post-Coronary Artery Bypass Surgery Patients with Atrial
+Fibrillation Treated with Rate Control versus Sinus-Restoring Therapy.Heart Drug 2001, 1, 192–196. [CrossRef]
+34. Abushouk, A.I.; Ashraf Ali, A.; Mohamed, A.; el Sherif, L.; Abdelsamed, M.; Kamal, M.; Sayed, M.K.; Mohamed, N.A.; Osman,
+A.A.; Shaheen, S.M.; et al. Rhythm Versus Rate Control for Atrial Fibrillation: A Meta-analysis of Randomized Controlled Trials.
+Biomed. Pharmacol. J. 2018, 11, 609–620. [CrossRef]
+35. ICHOM Our Mission. Available online: https://www.ichom.org/mission/ (accessed on 8 March 2022).
+36. Seligman, W.H.; Das-Gupta, Z.; Jobi-Odeneye, A.O.; Arbelo, E.; Banerjee, A.; Bollmann, A.; Caffrey-Armstrong, B.; A Cehic,
+D.; Corbalan, R.; Collins, M.; et al. Development of an international standard set of outcome measures for patients with atrial
+ﬁbrillation: A report of the International Consortium for Health Outcomes Measurement (ICHOM) atrial ﬁbrillation working
+group. Eur. Heart J. 2020, 41, 1132–1140. [CrossRef] [PubMed]
+37. Rovaris, G.; Ciconte, G.; Schiavone, M.; Mitacchione, G.; Gasperetti, A.; Piazzi, E.; Negro, G.; Montemerlo, E.; Rondine, R.;
+Pozzi, M.; et al. Second-generation laser balloon ablation for the treatment of atrial ﬁbrillation assessed by continuous rhythm
+monitoring: The LIGHT-AF study. Europace 2021, 23, 1380–1390. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

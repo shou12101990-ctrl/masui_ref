@@ -1,0 +1,691 @@
+
+[[p1]]
+Cite this article as: Kreuzer M, Sames-Dolzer E, Tulzer A, Mair R, Gierlinger G, Seeber F et al. Long-Term Outcome After the En Bloc Rotation of the 
+Outflow Tracts Including Patients With Congenitally Corrected Transposition of the Great Arteries. Eur J Cardiothorac Surg 2026; doi:10.1093/ 
+ejcts/ezag011.
+Long-Term Outcome After the En Bloc Rotation of the Outflow 
+Tracts Including Patients With Congenitally Corrected 
+Transposition of the Great Arteries
+Michaela Kreuzer 
+�
+, 1 , 2
+; Eva Sames-Dolzer
+1 , 2
+; Andreas Tulzer
+2 , 3
+; Roland Mair
+1
+; Gregor Gierlinger 
+1 , 2
+; 
+Fabian Seeber
+1
+; Matija Bakos
+4
+; Rudolf Mair 
+1
+1
+Division of Pediatric and Congenital Heart Surgery, Kepler University Hospital, Linz 4020, Austria 
+2
+Medical Faculty, Johannes Kepler University Linz, Linz 4040, Austria 
+3
+Department of Pediatric Cardiology, Kepler University Hospital, Linz 4020, Austria 
+4
+Department of Pediatrics, University Hospital Centre Zagreb, Zagreb 10000, Croatia 
+�
+Corresponding author. Division of Pediatric and Congenital Heart Surgery, Kepler University Hospital, Krankenhausstr. 9, Linz 4020, Austria 
+( michaela.kreuzer@kepleruniklinikum.at )
+Received: September 14, 2025; Revised: November 16, 2025; Accepted: December 12, 2025
+Abstract 
+Objectives: Despite the increasing use of the en bloc rotation of the outflow tracts to treat patients with transposition of 
+the great arteries with left ventricular outflow tract obstruction, long-term outcome data are scarce. Cases with simultan -
+eous Mustard operation are a challenging technical expansion. This retrospective study aims to evaluate long-term out -
+comes in a single-centre cohort.
+Graphical abstract
+Meeting presentation: This manuscript was presented at the 39th EACTS Annual Meeting in Copenhagen on October 11, 2025.
+CONGENITAL 
+© The Author(s) 2026. Published by Oxford University Press on behalf of the European Association for Cardio-Thoracic Surgery. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons. 
+org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly 
+cited. For commercial re-use, please contact reprints@oup.com for reprints and translation rights for reprints. All other permissions can be obtained 
+through our RightsLink service via the Permissions link on the article page on our site—for further information please contact journals. 
+permissions@oup.com. 
+European Journal of Cardio-Thoracic Surgery 2026, 68(1), ezag011                                                                                  ORIGINAL ARTICLE 
+https://doi.org/10.1093/ejcts/ezag011 Advance Access publication 7 January 2026 
+[[p2]]
+Methods: All patients undergoing the en bloc rotation at the Children’s Heart Center Linz between 2003 and 2024 were 
+retrospectively analysed.
+Results: The en bloc rotation was performed in 38 patients. Median age at operation was 4.1 (0.7; 23.9) months, weight 
+5.4 (3.7; 9.6) kg. A congenitally corrected transposition was present in 3 patients, in which a simultaneous Mustard proced -
+ure was performed. Median cardiopulmonary bypass time was 291 (270; 353) minutes, aortic cross-clamp time 160 (142; 
+185) minutes. The pulmonary valve could be preserved in 24 children (63%). Two patients died during the hospital stay 
+(5%). During a follow-up period of median 9.3 (4.4; 14.3) years, 3 further children deceased, 5 surgical reinterventions 
+were necessary. There was no death or surgical reintervention in the congenitally corrected transposition group.
+Conclusions: The long-term outcome of the en bloc rotation is very promising, as could be expected due to the anatomic 
+repair with growth potential in all tubular structures. The increased experience also with the Mustard operation allowed 
+the combination of both complex procedures with excellent short-term outcome.
+Clinical registration number: EK Nr 1011/2025, Ethics committee of the Medical Faculty at the Johannes Kepler 
+University Linz.
+Keywords: en bloc rotation of the outflow tracts; half-turned truncal switch; transposition of the great arteries; 
+complex transposition; transposition with VSD and LVOTO . 
+Introduction
+The transposition of the great arteries (TGA) and similar 
+cases of double outlet right ventricle (DORV) as well as 
+the congenitally corrected TGA (ccTGA) with ventricular 
+septal defect (VSD) and left ventricular outflow tract ob -
+struction (LVOTO) are rare and complex congenital heart 
+defects.
+1
+Several centres have adopted the en bloc rota -
+tion of the outflow tracts (EBR)/half turned truncal switch 
+operation as an anatomic repair with growth potential in 
+all cardiac structures over the last years.
+2-8
+Data on long- 
+term outcomes are rarely available, and cases with simul -
+taneous Mustard operation are a challenging technical 
+expansion. The aim of this retrospective single-centre 
+study was to evaluate mortality and reintervention rates 
+during a follow-up period of up to 21.7 years.
+Patients and methods
+This retrospective study was approved by the ethics com -
+mittee of the Medical Faculty at the Johannes Kepler 
+University Linz on 12 February 2025 (EK Nr: 1011/2025). 
+Informed consent was waived because of the retrospect -
+ive nature of the study and the use of pseudonymized 
+clinical data for the analysis.
+All patients who underwent the EBR at the Children’s 
+Heart Center Linz between 2003 and 2024 were included 
+in this study. Primary end-points were mortality and rein -
+terventions. Secondary end-points included assessments 
+of valve and ventricular function, as well as postoperative 
+complications such as extracorporeal membrane oxygen -
+ation (ECMO) support, bleeding requiring re-thoracotomy, 
+AV-block necessitating pacemaker implantation, renal fail -
+ure requiring peritoneal dialysis (KDIGO stage 3) and pro -
+longed chylothorax requiring drainage. Pre-, peri-, and 
+postoperative data were obtained from our institutional 
+databases. The last follow-up was defined as the latest 
+clinical examination including transthoracic echocardiog -
+raphy, which was routinely carried out at our hospital or 
+by a paediatric cardiologist cooperating closely with our 
+institution. One patient was lost to follow-up. In this case, 
+values from the last ultrasound examination before 
+discharge were taken into account. Results from postoper -
+ative follow-up investigations couldn’t be reliably inter -
+preted in 3 additional patients. The inclusion of their 
+follow-up data was therefore limited to the primary end- 
+points. Postoperative pulmonary valve diameters could 
+not be obtained by transthoracic echocardiography; there -
+fore, flow velocity was used as an alternative parameter to 
+characterize pulmonary valve function.
+Operative technique
+In the preoperative planning, a transthoracic echocardi -
+ography was carried out routinely. An additional angiog -
+raphy was only performed if there were residual 
+uncertainties; a CT scan was used in 2 cases of ccTGA pre -
+operatively. The approach for all 38 surgeries was a me -
+dian sternotomy, and cold crystalloid cardioplegia was 
+used. The technique for the EBR did not change signifi -
+cantly over the years and was described earlier in 
+detail.
+3 , 9 , 10
+In the 3 cases of ccTGA with VSD and pulmon -
+ary stenosis (detailed anatomy see Table 1 ), the Mustard 
+procedure was performed first and then the aortic cross- 
+clamp was opened. The heart was re-perfused for at least 
+a third of this first cross-clamp time. During a second 
+clamping time, the EBR was performed. The material for 
+the Mustard baffle was fresh autologous pericardium, for 
+the VSD patch and pulmonary artery reconstruction, the 
+rest of the autologous pericardium was fixated by gluta -
+raldehyde. The pulmonary bifurcation was transferred a 
+few millimetres towards the right pulmonary artery in 
+one patient and towards the left pulmonary artery in an -
+other patient.
+Statistics
+Time-to-event variables were depicted by Kaplan-Meier 
+plots. Kaplan-Meier estimates were supplemented by 
+2-sided confidence bands (pointwise approach). The 
+probability of reintervention was estimated by using the 
+Aalen-Johansen method, treating death as a competing 
+2 European Journal of Cardio-Thoracic Surgery, 2026, Volume 68, Issue 1 
+[[p3]]
+event. For event rates, 2-sided 95% CI were calculated 
+according to Clopper-Pearson. The influence of the 
+chronological order of operations on the occurrence of 
+surgical or transcatheter reintervention was investigated 
+by Cox regression. The type I error was not adjusted for 
+multiple testing. Therefore, the results of inferential sta -
+tistics are descriptive only. Statistical analyses were per -
+formed using the open-source R statistical software 
+package, version 4.5.1 (The R Foundation for Statistical 
+Computing, Vienna, Austria). Continuous variables are 
+reported as medians and quartiles (in square brackets) 
+and range (minimum and maximum in brackets); and cat -
+egorical variables are expressed as counts and percen -
+tages, with CI in brackets.
+Results
+Between 2003 and 2024, in total, 38 patients have under -
+gone the EBR at the Children’s Heart Center Linz. The 
+patients’ characteristics are provided in Table 1 . Seven 
+patients had 1-5 palliative steps previously, 2 of them at 
+our centre. Due to the increased experience with the EBR 
+as well as with the Mustard operation at our centre the 
+first combination of both procedures for the repair of a 
+ccTGA with LVOTO was performed in the year 2023. Two 
+further Mustard þ EBR cases followed; the age at oper -
+ation was 1, 5.5, and 7 years, respectively. One of these 
+children (SLL) had already needed a pacemaker implant -
+ation because of an intermittent AV block III 3 years prior 
+to the anatomic correction.
+Postoperative data and early mortality
+Peri- and postoperative data are provided in Table 2 . 
+Thirty-six patients (95%) could be discharged from the 
+hospital, 2 patients (5%) died during their stay in the in -
+tensive care unit (ICU). These were the only cases that 
+required postoperative ECMO: Patient 14 was a severely 
+cyanotic 3-year-old girl with venovenous fistula status 
+post bidirectional Glenn operation. After EBR, she needed 
+ECMO twice and could be weaned. Nevertheless, she 
+died after a case of pneumonia on postoperative day 
+(POD) 57. Patient 33 was duct dependent due to a severe 
+subvalvular pulmonary stenosis, had the complex situ -
+ation of a situs inversus totalis and was operated on her 
+7th day of life. The operation was very complicated with 
+an aortic cross-clamp time of in total 192 minutes and a 
+bypass time of 520 minutes. After a primarily successful 
+weaning off bypass, she was resuscitated in the ICU a 
+few hours later and received ECMO therapy for 8 days. 
+Furthermore, she required peritoneal dialysis due to se -
+vere renal failure and a pacemaker implantation because 
+of an AV-block III. Unfortunately, she died due to multior -
+gan failure on POD 31.
+A pacemaker implantation due to postoperative AV- 
+block II or III was necessary in 4 more patients. Three of 
+them were out of the TGA group; they were provided 
+with the EBR as newborns.
+10
+The fourth pacemaker was 
+implanted in a boy with a ccTGA, the AV-block had al -
+ready developed after completion of the Mustard compo -
+nent of the procedure.
+s?PM?o’?b
+Subgroup TGA and DORV/TGA ccTGA Total
+Patients (female) 35 (15) 3 (2) 38 (17)
+Age, range 2.5 (0.6; 20.9) months,  
+4 days-6.5 years
+66.5 (12.6; 85.5) months, 
+1.0-7.0 years
+4.1 (0.7; 23.9) months,  
+4 days-7.0 years
+Weight (kg), range 4.7 (3.7; 9), 2.7-18.8 12 (7.4; 17.1), 7.4-17.1 5.4 (3.7; 9.6), 2.7-18.8
+Coronary anatomy, 
+Yacoub type
+A: 30 
+D: 4 
+E: 1 
+A: 2 
+D: 1 
+A: 32 
+D: 5 
+E: 1 
+Pulmonary valve diameter 
+Z score
+a
+−1.9 (−2.5; −1.3) −3.4 (−3.4; −2.4) −1.9 (−2.5; −1.3)
+Aortic valve diameter Z score
+a
+3.2 (2.3; 4.5) 2.5 (2.4; 4.7) 3 (2.3; 4.5)
+(Special) anatomy Pt 20: multiple VSDs (“swiss 
+cheese septum”) 
+Pt 31: pulmonary atresia/small  
+VSD 
+Pt 33: Situs inversus totalis/non 
+committed VSD 
+Pt 35: IDD, þright superior 
+vena cava 
+Pt 37: SLL, Dextroversio cordis 
+Pt 38: SLL 
+Pt 20: multiple VSDs (“swiss 
+cheese septum”) 
+Pt 31: pulmonary atresia/small  
+VSD 
+Pt 33: Situs inversus totalis/non 
+committed VSD 
+Pt 35: IDD, þright superior 
+vena cava 
+Pt 37: SLL, Dextroversio cordis 
+Pt 38: SLL 
+Previous operation 5 pts: (multiple) shunts ± 
+atrial septectomy 
+2 pts: Glenn ± shunts 
+Pt 38: Pacemaker implantation 5 pts: (multiple) shunts ± 
+atrial septectomy 
+2 pts: Glenn ± shunts 
+Pt 38: Pacemaker implantation 
+Data are presented as the median (1st; 3rd quartile) or numbers.
+Abbreviations: AccTGA, congenitally corrected transposition of the great arteries; DORV, double outlet right ventricle; IDD, situs inversus/D- 
+looped ventricles/D-transposed great arteries; Pts, patients; SLL, situs solitus/l-looped ventricles/l-transposed great arteries; TGA, transposition 
+of the great arteries; VSD, ventricular septal defect.
+a
+Calculated by zscore.chboston.org/ .
+CONGENITAL 
+3 European Journal of Cardio-Thoracic Surgery, 2026, Volume 68, Issue 1 
+[[p4]]
+Long-term outcome and late mortality
+The most relevant results are presented in Table 3 . 
+During a median follow-up period of 9.3 (4.4; 14.3) years, 
+33 patients are alive (1.6 deaths per 100 patient-years). 
+The freedom from death at 5 and 10 years was 89% (72- 
+98%) and 85% (62-97%), respectively. Three patients died 
+late, all of them within the first year postoperatively: One 
+6-year-old girl died in her home country due to aspiration 
+after a cerebral haemorrhage on POD 121. Another 1.7- 
+year-old patient had multiple residual VSDs after the EBR 
+and, therefore, was provided with a pulmonary artery 
+banding 3 weeks later. Unfortunately, this girl died at 
+home during a gastrointestinal infection on POD 82. The 
+third case was a nearly 4-year-old boy, who died 
+unexpectedly after an intestinal operation in his home 
+country 10 months after the EBR. His last echocardio -
+graphic examination did not show any pathologies ex -
+cept signs of pulmonary hypertension, which was also 
+known preoperatively. The Kaplan-Meier curve regarding 
+survival is provided as Figure 1 .
+There were 5 surgical reinterventions during the 
+follow-up period (1.9 events per 100 patient-years), a 
+Kaplan-Meier curve is provided as Figure 2 . The Aalen- 
+Johansen estimate for the probability of surgical reinter -
+vention at 5 and 10 years was 13% (5-30%) and 16% 
+(7-35%), treating death as a competing event. The free -
+dom from surgical reintervention at 5 and 10 years was 
+88% (69-97%) and 80% (52-96%), respectively. Two 
+patients needed a patch plasty of the main pulmonary 
+Table 2. Peri- and Postoperative Data
+Subgroup TGA and DORV/TGA ccTGA Total
+Patients 35 3 38
+Bypass time (minutes) 287 (267; 327) 408 (353; 414) 291 (270; 353)
+Aortic cross-clamp time (minutes), ccTGA each 157 (142; 179) 228 (209; 240) 
+Pt 1: 209 (90
+a
+þ119
+b
+) 
+Pt 2: 236 (91
+a
+þ145
+b
+) 
+Pt 3: 240 (78
+a
+þ162
+b
+) 
+160 (142; 185)
+Trap door plasty for coronary artery transfer 2 (6%) 0 2 (5%)
+Preserved pulmonary valve 22 (63%) 2 (67%) 24 (63%)
+Postoperative bleeding requiring re-thoracotomy 1 (3%) 0 1 (3%)
+Delayed sternal closure 10 (29%) 0 10 (26%)
+Peritoneal dialysis 1 (3%) 0 1 (3%)
+Postoperative AV-block requiring pacemaker 4 (11%) 1 (33%, SLL) 5 (13%)
+In-hospital mortality 2 (6%) 0 2 (5%)
+Prolonged chylothorax requiring drainage 0 1 (33%, SLL) 1 (3%)
+Stay in ICU (days) 9 (6; 16), 33 pts 6 (2; 15), 3 pts 9 (6; 16), 36 pts
+In hospital stay (days) 20 (14; 29), 33 pts 14 (14; 52), 3 pts 20 (14; 30), 36 pts
+Values are presented as medians and quartiles 1 and 3 or numbers.
+Abbreviations: AV, atrioventricular; cc, congenitally corrected; DORV, double outlet right ventricle; ECMO, extracorporeal membrane oxygen -
+ation; ICU, intensive care unit; pt, patient; SLL, situs solidus/l-looped ventricles/l-transposed great arteries; TGA, transposition of the 
+great arteries.
+a
+First clamping time for Mustard.
+b
+Second clamping time for en bloc rotation.
+Table 3. Long-Term Results
+Subgroup TGA and DORV/TGA ccTGA Total
+Late mortality 3 pts 0 pts 3 pts
+All-cause mortality 5 pts 0 pts 5 pts
+Follow-up period (years) 10.9 (6.4; 14.8) 0.3 (0.1; 1.3) 9.3 (4.4; 14.3),  
+range 12 days-21.7 years
+Transcatheter reintervention 2 pts 1 pt 3 pts
+Surgical reintervention 5 pts 
+- Re VSD closure (1) 
+- MPA patch plasty (2) 
+- PAB (1) 
+- Aortic valve repair (2) 
+0 pts 5 pts
+Aortic regurgitation more than mild (II, II-III)
+a
+3 pts 0 pts 3 pts
+Median Vmax pulmonary valve (m/s)
+a
+2 (1.6; 2.6) 2.2 (2.1; 2.2) 2.1 (1.6; 2.5)
+Values are presented as medians and quartiles 1 and 3 or numbers.
+Abbreviations: cc, congenitally corrected; DORV, double outlet right ventricle; pt, patient; TGA, transposition of the great arteries; Vmax, max -
+imum velocity.
+a
+Reliable data available from 30 patients.
+4 European Journal of Cardio-Thoracic Surgery, 2026, Volume 68, Issue 1 
+[[p5]]
+artery. Once it was combined with a resynchronization 
+therapy in a patient with an AV block 7 years, once with 
+the closure of a residual VSD 9 months after the EBR. 
+There was one already mentioned girl, who required a 
+pulmonary artery banding because of a Swiss cheese 
+septum. Two further patients received a subvalvular 
+annuloplasty due to an aortic insufficiency (grade 3 and 
+3þ) 3.7 and 4.1 years after the EBR.
+11
+At the last follow- 
+up, 13.8 years/7 months after this repair, the residual 
+regurgitation was described as grade 1 and 2þ, respect -
+ively. Two transcatheter reinterventions addressed the 
+stenosis of the left and of a main pulmonary artery. 
+The third transcatheter reintervention did not regard the 
+EBR, but the Mustard part of a ccTGA patient: He suffered 
+from a prolonged chylothorax. A diagnostic catheteriza -
+tion was performed 29 days postoperatively. It showed a 
+gradient of 2-4 mmHg in the superior vena cava baffle; a 
+stent was implanted. The drains were removed success -
+fully 17 days later.
+The left ventricular function has been described as 
+“good” in 29 of 30 reliable last follow-up echocardio -
+graphic examinations, although the implanted VSD patch 
+limited the assessment. Only one boy had a reduced left 
+and right ventricular function 16 years after the EBR. He 
+needed a pacemaker implantation due to AV block III 
+postoperatively and was already provided with a syn -
+chronization therapy 7 years later. At the last follow-up, 
+no residual or recurrent LVOTO has been described in 
+any case ( Figure 3A and B , Video 1 ). There was a mild 
+hypertrophy in one patient with a preserved pulmonary 
+valve and moderate pulmonary stenosis at 18.9 years, 
+and a dilated right ventricle in 3 cases after transannular 
+e?PM?jLl?b?q?rM
+Figure 2. Kaplan-Meier Curve Regarding Time to Surgical Reintervention.
+CONGENITAL 
+5 European Journal of Cardio-Thoracic Surgery, 2026, Volume 68, Issue 1 
+[[p6]]
+patch 8.8, 11.2, and 18.6 years postoperatively. Until the 
+end of the follow-up period, there was no indication for a 
+valve implantation (right ventricular end-diastolic volume 
+<150 mL/m
+2 
+body surface area measured by magnetic res -
+onance tomography). No atrioventricular valve pathology 
+more than mild has been described at the last follow-up.
+Discussion
+The EBR is an anatomic correction of the very complex 
+TGA or DORV/TGA with VSD and left ventricular outflow 
+tract obstruction. The main advantage over the alterna -
+tive Rastelli procedure is the straight outflow tracts 
+without a long intracardiac baffle.
+4
+In contrast to the 
+Nikaidoh procedure, the coronary arteries always have to 
+be excised and reimplanted during the EBR. However, all 
+alternative techniques including the REV procedure re -
+quire a reconstruction of the right ventricular outflow 
+tract without the potential of keeping the autologous pul -
+monary valve.
+12 , 13
+By performing an EBR even in the case 
+of a too small pulmonary valve at least parts of native 
+structures of the right ventricular outflow tract are pre -
+served, which provides the growth potential of all tubular 
+structures
+4 , 10
+( Figure 3A and B ).
+Nevertheless, the EBR is a highly complex procedure, 
+and the justification of performing this operation 
+demands a review of the early postoperative and espe -
+cially the long-term outcome regularly. More and more 
+centres have adopted the technique over the last few 
+years, and few studies have been published. Especially in 
+patients where the pulmonary valve is too small and a 
+transannular patch is required, the advantage of the EBR 
+compared to the Nikaidoh procedure needs to be careful -
+ly discussed. In our opinion, the Nikaidoh procedure is 
+also a technically demanding operation, and the intro -
+duction of 2 different complex procedures for a rare 
+underlying heart defect at a single centre should be con -
+sidered with caution. Stoica et al
+1
+performed a multi -
+centre study including 27 of our patients recently and 
+found a slight advantage of the EBR in comparison to the 
+Nikaidoh procedure mainly due to the low reintervention 
+rates on the right ventricular outflow tract. In another 
+previous study published by our centre the postoperative 
+growth of the pulmonary valves could be shown.
+3
+These 
+findings can be supported by our present results, as 
+there still has not been any surgical reintervention on the 
+pulmonary valves or transannular patches 5 years and 11 
+additional patients later. Weixler et al
+5
+compared the ar -
+terial switch operation þ left ventricular outflow tract 
+obstruction-resection, half-turned truncal switch/Mair 
+(¼EBR), Nikaidoh and Rastelli at their single centre with 
+very good outcomes. In their study, reinterventions on 
+the right ventricular outflow tract were frequent, with 
+the highest rates after Nikaidoh and Rastelli procedures. 
+Figures 3. (A) Magnetic resonance tomography of a left ventricular outflow tract 19 years after EBR. (B) Magnetic resonance tomography showing 
+both outflow tracts of a further patient 19.5 years after en-bloc rotation of the outflow tracts.
+u?PM?d????N?????L
+tient 12 years after EBR.
+6 European Journal of Cardio-Thoracic Surgery, 2026, Volume 68, Issue 1 
+[[p7]]
+Left ventricular outflow tract obstruction reoperations 
+were rare with zero events after Nikaidoh and HTTS 
+procedures.
+Regarding the reintervention rate within our cohort, 
+we saw that transcatheter reinterventions were mainly 
+performed at the beginning of our series. The only excep -
+tion was the stent for the Mustard baffle in one of our lat -
+est patients. Surgical reinterventions because of a 
+residual VSD or patch plasties of the pulmonary arteries 
+were also limited to the early cases. A Hazard ratio <1 
+showed that the risk for a surgical or transcatheter rein -
+tervention was lower in the later cases of our series. This 
+indicates a learning curve, although not statistically sig -
+nificant (P ¼ .178). However, in total, 2 patients with aortic 
+insufficiency requiring surgery 4.1 and 3.7 years after the 
+EBR (patient 5 and patient 29) require discussion. Three 
+more children showed aortic regurgitation more than 
+mild at their last follow-up echocardiography 15, 14, and 
+8 years after EBR. In none of these patients, a pathology 
+of the aortic valve more than mild observed at their hos -
+pital discharge. A Kaplan-Meier curve describing the free -
+dom from aortic regurgitation (more than mild) and 
+aortic valve reintervention is provided as Figure S1 . The 
+Berlin group did not see an indication for an aortic valve 
+surgery in their half-turned truncal switch/EBR cohort 
+(n ¼ 23) after a median follow-up of 0.7 years (IQR 0.1-4.5 
+years). They found one patient (4.3%) with an aortic re -
+gurgitation more than moderate at the last follow-up. 
+The same finding was described in 2 cases out of their ar -
+terial switch cohort (10%) and in 4 patients after Rastelli 
+procedure (9.3%). There was no statistical difference be -
+tween groups (P ¼ .5).
+5
+Hongu et al
+4
+describe one patient 
+with moderate aortic regurgitation requiring valvulo -
+plasty 8 years postoperatively. However, this was a case 
+with a bicuspid aortic valve. Liu et al
+12
+reported 174 
+patients after double-root translocation; they only found 
+2/150 cases (1.3%) of aortic regurgitation mild or greater 
+after a median follow-up time of 7.8 years. They propose 
+that the aortic root should be re-implanted by interrupted 
+stitches to prevent annulus dilatation. At our centre, we 
+have been using the continuous suture technique in neo -
+natal Ross-Konno procedures as well and did not find any 
+neoaortic insufficiency postoperatively.
+14
+Looking at the 
+total 5 patients with aortic regurgitation more than mild (2 
+repair cases included), we did not see an influence of the 
+underlying anatomy (DORV/TGA vs TGA), gender or surgi -
+cal era. The only finding was the age at surgery: these 5 
+patients were provided with the EBR during their first year 
+of life, but not as a newborn (age at operation 40 to 365 
+days). Late aortic insufficiency has also been reported fol -
+lowing Bex-Nikaidoh procedures.
+8
+Some centres have 
+noted a potential association between aortic regurgitation 
+and coronary artery detachment and reimplantation.
+15
+However, as both cases of aortic regurgitation out of our 
+EBR series could be repaired by a subvalvular annulo -
+plasty, the problem seems to be the VSD size, shape and 
+implantation technique rather than other technical issues 
+as the coronary artery implantation.
+11
+A concordant con -
+clusion was published by Schulz et al.
+8
+The previously reported in-hospital mortality has been 
+addressed in earlier publications, and no additional fatal 
+events have occurred since. There were no signs of 
+coronary-related complications postoperatively.
+3 , 10
+The 3 
+late mortality cases happened during the first postopera -
+tive year and were not directly procedure-related (see 
+“Results”). As the most recent echocardiography demon -
+strated preserved ventricular function in all patients ex -
+cept one (see “Results”), no evidence indicative of coronary 
+issues was identified. Including 16 patients with a follow- 
+up period >10 years, the expectations for the EBR to be a 
+sustainable therapy with low late mortality stay high.
+The series now includes 3 patients with ccTGA. The 
+combination of an atrial switch procedure with the EBR 
+or with a double root translocation had already been per -
+formed successfully and published by the colleagues 
+from Berlin and Fuwai Hospital Beijing.
+5 , 12
+Two of our 
+cases were completely uneventful with an in-hospital stay 
+of 14 days. The third patient with SLL transposition 
+required a pacemaker implantation 13 days postopera -
+tively because of an AV block III, which already appeared 
+after the Mustard part of the surgery. Due to the above- 
+described chylothorax, he was discharged from the hos -
+pital on POD 52. All 3 patients were doing really well at 
+their last follow-up examinations.
+The limitations of this study are its retrospective single- 
+centre design, the small patient cohort and the short 
+follow-up period of the ccTGA cases. Further multicentre 
+studies will be necessary and useful.
+Conclusion
+The long-term outcome of the EBR is very promising, as 
+could be expected due to the anatomic repair with 
+straight outflow tracts and growth potential in all tubular 
+cardiac structures. No reintervention on the right ven -
+tricular outflow tract or pulmonary valve was necessary 
+until now. Two cases with aortic insufficiency requiring 
+Cosgrove plasty demand discussion of the VSD patch im -
+plantation technique. The increased experience with the 
+EBR and with the Mustard operation at our centre 
+allowed the combination of both complex procedures 
+with excellent short-term outcome.
+Acknowledgements
+The authors thank Dr. Wolfgang Schimetta/ASOKLIF for 
+their support.
+Supplementary material
+Supplementary material is available at EJCTS online.
+Conflicts of interest
+None declared.
+Funding
+No funding was received for this study.
+CONGENITAL 
+7 European Journal of Cardio-Thoracic Surgery, 2026, Volume 68, Issue 1 
+[[p8]]
+Data availability
+The data underlying this article will be shared on reason -
+able request to the corresponding author.
+References
+0[1] Stoica S, Kreuzer M, Dorobantu D-M, et al. Aortic root transloca -
+tion and En-Bloc rotation of the outflow tracts surgery for com -
+plex forms of transposition of the great arteries and double 
+outlet right ventricle—a multicenter study. J Thorac Cardiovasc 
+Surg. 2022;164:1249-1260.
+0[2] Yamagishi M, Shuntoh K, Matsushita T, et al. Half-turned truncal 
+switch operation for complete transposition of the great 
+arteries with ventricular septal defect and pulmonary stenosis. 
+J Thorac Cardiovasc Surg. 2003;125:966-968.
+0[3] Kreuzer M, Sames-Dolzer E, Mair R, et al. En block rotation of 
+the outflow tracts: intermediate follow-up after 15 years of 
+experience. Ann Thorac Surg. 2021;112:603-609.
+0[4] Hongu H, Yamagishi M, Maeda Y, et al. Comparison of half- 
+turned truncal switch and conventional operations. Interact 
+CardioVasc Thorac Surg. 2021;33:101-109.
+0[5] Weixler V, Gaal J, Murin P, et al. Repair of complex transposition 
+of great arteries: what is the best technique to avoid outflow 
+tract obstructions? Eur J Cardiothorac Surg. 2024;65:ezae094. 
+https://doi.org/10.1093/ejcts/ezae094
+0[6] Murtuza B, Lehoux J, Morell VO. Single and double root trans -
+location for transposition and malposition of the great arteries. 
+Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu. 2025;28: 
+51-59. https://doi.org/10.1053/j.pcsu.2025.01.001
+0[7] Nalecz T, Pelouze A, Eniu R-A, et al. Three different surgical 
+approaches for complex transposition of the great arteries with 
+ventricular septal defect and pulmonary stenosis. Multimed Man 
+Cardiothorac Surg. 2025;2025. https://doi.org/10.1510/mmcts. 
+2025.037
+0[8] Schulz A, Buratto E, Ishigami S, Konstantinov IE, Cheung MMH, 
+Brizard CP. Bex-Nikaidoh operation and the impact of double 
+root translocation on outcomes. Eur J Cardiothorac Surg. 2024; 
+65:ezad407. https://doi.org/10.1093/ejcts/ezad407
+0[9] Mair R, Kreuzer M, Sames-Dolzer E. En bloc rotation of the out -
+flow tracts—double root translocation. Semin Thorac Cardiovasc 
+Surg Pediatr Card Surg Annu. 2024;27:63-68. https://doi.org/10. 
+1053/j.pcsu.2024.01.008
+[10] Kreuzer M, Sames-Dolzer E, Tulzer A, et al. The right age for the 
+en-bloc rotation of the outflow tracts: a single-centre experi -
+ence. Eur J Cardiothorac Surg. 2023;63:ezad065. https://doi.org/ 
+10.1093/ejcts/ezad065
+[11] Andrea R, Gebrine EK, Mona M, Jean PA. “Complex aortic valve 
+repair after en-Bloc rotation of the outflow tracts”—case report. 
+Interdiscip Cardiovasc Thorac Surg. 2025;40:ivaf240. https://doi. 
+org/10.1093/icvts/ivaf240
+[12] Liu R, Li S, Yan J. Fate of transposition of the great arteries with 
+pulmonary stenosis after double-root translocation, Rastelli, 
+and Reparation a l’Etage Ventriculaire. J Thorac Cardiovasc Surg. 
+2023;166:1189-1199.e4. https://doi.org/10.1016/j.jtcvs.2023.05. 
+030
+[13] Pontailler M, Moiroux-Sahraoui A, Bernheim S, et al. Long-term 
+results after the r
+�
+eparation 
+�
+a l‘
+�
+etage ventriculaire procedure for 
+transposition of the great arteries and double-outlet right ven -
+tricle with pulmonary stenosis. Eur J Cardiothorac Surg. 2023;64: 
+ezad409. https://doi.org/10.1093/ejcts/ezad409
+[14] Sames-Dolzer E, Wickenhauser E, Kreuzer M, et al. The Ross- 
+Konno procedure in neonates and infants less than 3 months of 
+age. Eur J Cardiothorac Surg. 2018;54:71-77. https://doi.org/10. 
+1093/ejcts/ezy030
+[15] Hazekamp MG, Nevvazhay T, Sojak V. Nikaidoh vs reparation a 
+l‘Etage ventriculaire vs rastelli. Semin Thorac Cardiovasc Surg 
+Pediatr Card Surg Annu. 2018;21:58-63. https://doi.org/10.1053/j. 
+pcsu.2017.10.001
+© The Author(s) 2026. Published by Oxford University Press on behalf of the European Association for Cardio-Thoracic Surgery.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/ 
+licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For 
+commercial re-use, please contact reprints@oup.com for reprints and translation rights for reprints. All other permissions can be obtained through our 
+RightsLink service via the Permissions link on the article page on our site—for further information please contact journals.permissions@oup.com.
+European Journal of Cardio-Thoracic Surgery, 2026, 68, ezag011
+https://doi.org/10.1093/ejcts/ezag011
+Original article
+8 European Journal of Cardio-Thoracic Surgery, 2026, Volume 68, Issue 1 

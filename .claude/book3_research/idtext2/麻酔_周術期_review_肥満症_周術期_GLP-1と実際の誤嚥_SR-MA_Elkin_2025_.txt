@@ -1,0 +1,1106 @@
+
+[[p1]]
+Review Article
+Association between glucagon-like peptide-1 receptor
+agonist use and peri-operative pulmonary aspiration:
+a systematic review and meta-analysis
+Jasmin Elkin, Siddharth Rele, Priya Sumithran, Michael Hii, Sharmala Thuraisingam,
+Tim Spelman, Tuong Phan, Peter Choong, Michelle Dowseyand Cade Shadbolt
+Summary
+Introduction Glucagon-like peptide-1 receptor agonists are known to delay gastric emptying; however, the
+association between glucagon-like peptide-1 receptor agonist use and peri-operative pulmonary aspiration
+risk is not known. This systematic review and meta-analysis aimed to summarise the evidence on whether
+glucagon-like peptide-1 receptor agonist exposure is associated with pulmonary aspiration or increased
+residual gastric content in fasted patients undergoing procedures requiring anaesthesia or sedation.
+Methods We searched six databases for studies assessing peri-operative pulmonary aspiration or residual
+gastric contents in fasted patients or volunteers who were using any form of glucagon-like peptide-1 receptor
+agonist. Pooled odds ratios were estimated for each outcome using random effects meta-analysis. Certainty of
+evidence for each outcome was assessed using the GRADE framework.
+Results Of 9010 screened studies, 28 observational studies were included. In a meta-analysis of nine studies
+involving 185,414 patients and 471 cases of pulmonary aspiration, glucagon-like peptide-1 receptor agonist
+exposure was not associated with pulmonary aspiration (OR 1.04, 95%CI 0.87 –1.25, low certainty of evidence).
+In a meta-analysis of 18 studies involving 165,522 patients and 3831 cases of residual gastric contents,
+glucagon-like peptide-1 receptor agonist exposure was associated with an increased risk of residual gastric
+contents despite appropriate fasting (odds ratio 5.96, 95%CI 3.96 –8.98, low certainty of evidence). In a
+meta-analysis of ﬁve studies involving 1706 patients and 208 cases of residual gastric contents, withholding at
+least one dose of glucagon-like peptide-1 receptor agonist before a procedure was associated with lower odds
+of residual gastric contents (odds ratio 0.51, 95%CI 0.33–0.81, very low certainty of evidence).
+Discussion Patients using glucagon-like peptide-1 receptor agonists are at increased risk of presenting for
+anaesthesia with residual gastric contents, though the available evidence does not indicate that this translates
+to an increased risk of pulmonary aspiration.
+............................................................................................................................... ..................................
+For full author afﬁliations, see end of article
+Correspondence to: Cade Shadbolt
+Email: cade.shadbolt@unimelb.edu.au
+Accepted: 26 February 2025
+Keywords: glucagon-like peptide-1 receptor agonists; peri-operative aspiration; peri-operative period; pulmonary
+aspiration; residual gastric contents
+X: @UniMelbMDHS
+846 © 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+This is an open access article under the terms of theCreative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+Anaesthesia 2025, 80, 846–858 doi:10.1111/anae.16601
+[[p2]]
+Introduction
+Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are
+used widely for the management of obesity and type 2
+diabetes [1]. This group of drugs slows the rate of
+post-prandial gastric emptying [2–4] and there have been
+recent case reports of patients who are taking these drugs
+before surgery having pulmonary aspiration or increased
+residual gastric contents despite appropriate fasting [5–14].
+This has led various professional organisations to
+acknowledge that patients taking these drugs may be at an
+increased risk of pulmonary aspiration or regurgitation
+during the peri-operative period [15–18]. In response,
+safety-related warnings regarding pulmonary aspiration
+risks in patients undergoing elective procedures were
+added to GLP-1 RA labels in November 2024 [19]. A further
+safety update was issued by the Medicines and Healthcare
+products Regulatory Agency in January 2025, emphasising
+the widespread nature of these concerns[20].
+Currently, multi-societal consensus statements across
+the UK, USA and Australia support a shared
+decision-making approach for minimising risk among
+patients using GLP-1 RAs [18, 21, 22] . However, there
+remains variation in the speci ﬁc interventions
+recommended in these consensus statements. Some
+professional bodies recommend considering withholding
+GLP-1 RAs before surgery but emphasise that there is
+limited evidence available about the effectiveness of this
+strategy [16, 21–23]. Moreover, concerns have been raised
+about the risks associated with requiring an extended
+period of withdrawal, which may result in worsening
+glycaemic control among patients managing type 2
+diabetes [18, 21, 24, 25] . Alternative strategies, including
+changing pre-operative fasting guidance, using prokinetic
+drugs and implementing routine point-of-care ultrasound to
+mitigate risk, have been suggested, but their effectiveness
+also remains uncertain [21, 26].
+Previous systematic reviews have examined the risk of
+pulmonary aspiration or residual gastric contents among
+patients using GLP-1 RAs, but they have been limited to
+patients undergoing endoscopic procedures [27–29] or
+those temporarily exposed to GLP-1 RAs during
+the immediate peri-operative period [30]. To address
+uncertainty, this systematic review aimed to summarise the
+available evidence on whether GLP-1 RA exposure is
+associated with pulmonary aspiration or increased residual
+gastric contents in fasted patients undergoing procedures
+requiring anaesthesia or sedation. This review also aimed to
+synthesise the evidence on whether withholding GLP-1 RAs
+is associated with reductions in the risk of pulmonary
+aspiration or the presence of residual gastric contents in
+fasted patients.
+Methods
+We conducted a systematic review and meta-analysis and
+reported it according to the PRISMA statement and
+meta-analyses of observational studies in epidemiology
+(MOOSE) reporting guidelines [31, 32] . Deviations and
+clariﬁcations to the initial protocol are shown in online
+Supporting Information Table S1.
+We searched MEDLINE, Embase, Web of Science and
+Cochrane Central on 19 March 2024 and updated this
+search on 13 January 2025 (online Supporting Information
+Appendix S1). The search was limited to studies published
+from 2005 onwards, as this was the year of the ﬁrst approval
+of a GLP-1 RA by the US Food and Drug Administration. The
+clinicaltrials.gov and World Health Organisation registries
+were searched on the same dates for information on
+unpublished or ongoing studies. Forward and backwards
+citation tracking of included studies was last updated on 14
+January 2025 using an automated online platform that has
+been described previously [33].
+Randomised controlled trials and observational studies
+were included if they reported on the association between
+pre-operative GLP-1 RA use and the risk of pulmonary
+aspiration in fasted patients undergoing anaesthesia or
+procedural sedation, or residual gastric contents in fasted
+patients undergoing procedures requiring anaesthesia or
+procedural sedation, or in healthy volunteers who had
+fasted for at least 6 h from solid foods and at least 2 h from
+clear liquids, in accordance with standard pre-operative
+fasting requirements [34].
+Studies were not included if fasting duration was not
+reported, except for studies involving elective procedures
+where fasting was assumed to be a requirement. We did not
+include studies which measured post-prandial gastric
+emptying rate (e.g. scintigraphy) rather than residual
+gastric content in the fasted state, and studies where the
+GLP-1 RA was commenced in the immediate peri-operative
+period (i.e. within 14 days before the procedure or outcome
+measurement). Non-English studies and conference
+abstracts were not included. When multiple studies were
+derived from overlapping samples, each study was included
+in the narrative summary, though only the study with the
+lowest risk of bias across all six domains was included in
+pooled estimates. When the same study was reported
+across multiple publications, only the most recent
+publication was included. Ongoing or completed studies
+without published results were identi ﬁed during screening
+© 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 847
+Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk Anaesthesia 2025, 80, 846 –858
+[[p3]]
+but not included in the quantitative synthesis. Studies were
+screened independently and in duplicate by two authors (JE
+and SR) using the Covidence systematic review software
+(Covidence, Melbourne, VIC, Australia), with disagreements
+adjudicated by a third author. Reasons for not including
+studies were reported, and study authors were contacted to
+provide further information if eligibility was unclear.
+Pulmonary aspiration included direct measures of
+peri-operative pulmonary aspiration or postoperative
+respiratory complications that were directly attributed to
+aspiration (e.g. aspiration pneumonitis). Estimates based on
+pulmonary complications more generally did not meet this
+outcome de ﬁnition. While the inclusion of pulmonary
+complications that were not explicitly linked to
+pulmonary aspiration may have provided additional
+capture of sub-clinical cases of aspiration, the value of such
+a broad de ﬁnition as a surrogate for aspiration risk has not
+been established. Residual gastric content included gastric
+residue identiﬁed via direct visualisation during endoscopy
+of the upper gastrointestinal tract or gastric contents
+identiﬁed via ultrasound. Individual outcome de ﬁnitions as
+described by the study authors are presented in online
+Supporting Information Tables S2 and S3.
+Trial characteristics and outcome data were extracted
+independently and in duplicate by two authors (JE and CS),
+with disagreements adjudicated by a third author, using a
+structured data extraction template. Adjusted odds ratios
+(OR) were the preferred effect estimates included in the
+meta-analyses of both outcomes. For estimates relating to
+aspiration, adjusted measures of relative risk (RR) were
+treated as adjusted ORs, as odds approximate risk for low
+event rates [35]. When adjusted estimates were not
+reported, unadjusted ORs were calculated from the
+reported number of aspiration events in patients with and
+Records identified from:
+Embase (n = 3675)
+Web of Science (n = 1687)
+MEDLINE (n = 1395)
+CENTRAL (n = 852)
+Clinicaltrials.gov (n = 33)
+WHO (n = 19)
+Citation searching (n = 1349)
+Records removed before screening:
+Duplicate records removed  (n = 4101)
+Records screened
+(n = 4909)
+Records excluded
+(n = 4548)
+Reports sought for retrieval
+(n = 361)
+Reports not retrieved
+(n = 2)
+Reports assessed for eligibility
+(n = 359)
+Studies included in review
+(n = 28)
+Identification of studies via databases and registers
+IdentificationScreeningIncluded
+Reports excluded (n = 331):
+No relevant outcomes (n = 133)
+Conference abstract (n = 44)
+Wrong study design (n = 41)
+Non-fasted patients (n = 26)
+No GLP-1 RAs (n = 21)
+Short-term exposure to GLP-1 RA (n = 20)
+Duplicate record (n = 17)
+Studies without published results (n = 16)
+Wrong comparator (n = 10)
+Non-English studies (n = 2)
+Preliminary results (n=1)
+Figure 1 Study ﬂow diagram. GLP-1 RA, glucagon-like peptide-1 receptor agonist.
+848 © 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2025, 80, 846–858 Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk
+[[p4]]
+without GLP-1 RA exposure. For studies with no events in at
+least one group, we added a continuity correction value to
+both groups that was inversely proportional to the sample
+size of the other study group [35, 36]. For estimates relating
+to residual gastric contents, adjusted RRs were not treated
+as analogous to ORs, as this is a more common outcome.
+Study authors were contacted to provide adjusted ORs if
+multivariable analyses were reported alongside other
+measures of effect (online Supporting Information
+Table S4). When adjusted ORs could not be obtained,
+unadjusted ORs were calculated directly from the reported
+number of patients with residual gastric contents in exposed
+and unexposed groups.
+Risk of bias assessment was conducted independently
+and in duplicate by two authors (JE and CS) for each effect
+estimate rather than once per study [37], with
+disagreements adjudicated by a third author. For studies
+examining the association between pre-operative GLP-1
+RA exposure compared with no exposure and the risk of
+pulmonary aspiration or residual gastric contents, we used
+a modi ﬁed quality in prognosis studies tool [38, 39] . For
+estimates of the association between withholding at least
+one dose of GLP-1 RA and the study outcomes, we used
+the ROBINS-I tool. In line with ROBINS-I recommendations,
+studies judged to be at critical risk of bias were not
+included in the meta-analyses [40]. For each of the
+included studies, bias due to confounding was evaluated
+by consideration of adjustment for important variables,
+including age; sex; BMI; diabetes; ASA physical status;
+drugs associated with delaying gastric emptying; and
+comorbidities.
+Effect estimates for pulmonary aspiration and residual
+gastric contents were pooled separately. Pooled odds ratios
+and 95%CI were calculated via random effect meta-analysis
+using the restricted maximum likelihood heterogeneity
+variance estimator [41, 42]. Heterogeneity was assessed by
+estimating the I
+2 statistic. Funnel plots were assessed
+visually for evidence of small study bias, and the robustness
+of estimates to worst-case publication bias was assessed by
+conducting meta-analyses of only non-af ﬁrmative studies
+(i.e. studies with con ﬁdence intervals that overlap the null
+value) [43]. Overall certainty of evidence for each pooled
+Table 1 Characteristics of included studies. Values are number.
+Pulmonary aspiration Residual gastric content
+n = 11 n = 20
+Country
+Brazil 1 4
+Canada 1 0
+Israel 0 1
+Japan 0 1
+USA 9 14
+Population
+OGD 6 15
+OGD and/or colonoscopy 1 0
+Mixed endoscopy procedures 1 1
+Mixed surgical procedures 2 2
+Total knee arthroplasty 1 0
+Healthy volunteers 0 2
+Data collection
+Prospective 0 5
+Retrospective 11 15
+Exposure type
+Any GLP-1 RA 9 14
+Once-weekly GLP-1 RA only 0 1
+Once-weekly semaglutide 2 3
+Once-daily or once-weekly semaglutide 0 2
+GLP-1 RA for diabetes only 42
+Assessed time since last dose 05
+OGD, oesophagogastroduodenoscopy; GLP-1 RA, glucagon-like peptide-1 receptor agonist.
+© 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 849
+Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk Anaesthesia 2025, 80, 846 –858
+[[p5]]
+estimate was evaluated in line with the non-contextualised
+approach of the GRADE recommendations, which accounts
+for risk of bias; inconsistency; indirectness; imprecision; and
+publication bias [44]. All statistical analyses were performed
+using the meta, metafor and PublicationBias packages in R
+statistical software (Version 4.3.2, R Core Team, Vienna,
+Austria) [45, 46].
+Two prespeci ﬁed subgroup analyses were performed
+according to the type of GLP-1 RA (i.e. studies limited to
+once-weekly formulations vs. studies not limited to
+once-weekly formulations) and indication for GLP-1 RA (i.e.
+studies limited to patients with diabetes vs. studies not
+limited to patients with diabetes). We performed a post hoc
+subgroup analysis comparing studies limited to patients
+Figure 2 Forest plots for (a) pulmonary aspiration; (b) residual gastric content; and (c) withholding GLP-1 RAs and residual
+gastric contents. Dark blue boxes represent individual study odds ratios. The size of the boxes is proportional to study weight;
+whiskers represent the conﬁdence intervals; light blue diamonds represent the overall pooled odds ratio and 95%CI; dotted
+vertical lines indicate pooled odds ratios. Event rates were not reported by Welk 2024 for pulmonary aspiration, and Bi 2021 and
+Korlipara 2024 for residual gastric content. GLP-1 RA, glucagon-like peptide-1 receptor agonist.
+850 © 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2025, 80, 846–858 Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk
+[[p6]]
+undergoing oesophagogastroduodenoscopy with all other
+studies to examine whether the absence of association
+between GLP-1 RA exposure and pulmonary aspiration
+could be explained by altered intra-operative management
+following direct visualisation of residual gastric contents.
+We also performed a post hoc analysis comparing studies
+limited to healthy volunteers with all other studies. To
+examine the extent to which our main analysis was impacted
+by varying degrees and methods of adjustment, we
+performed a post hoc sensitivity analysis by pooling
+unadjusted estimates from studies included in our main
+meta-analyses.
+Results
+The literature search identi ﬁed 9010 records (Fig. 1) from
+which 28 observational studies involving 466,373 patients
+were included in the meta-analysis (online Supporting
+Information Table S5). Sixteen studies that were ongoing or
+completed without published results at the time of the ﬁnal
+search are summarised in online Supporting Information
+Table S6.
+Eleven retrospective studies assessed pulmonary
+aspiration in 335,876 patients (Table 1), with a median (IQR
+[range]) number of patients per study of 29,526
+(3391–39,268 [192–118,646]). Pulmonary aspiration events
+were identi ﬁed from electronic medical records or
+administrative claims data (online Supporting Information
+Table S2). Of three studies examining patients undergoing
+similar procedures from the same administrative database
+[47–49], only one was included in the meta-analysis.
+Nine studies were included in the meta-analysis for
+pulmonary aspiration (Fig. 2). These examined 185,414
+patients, of which 471 cases of pulmonary aspiration were
+identiﬁed (Table 2). Pre-operative exposure to GLP-1 RAs
+was not associated with pulmonary aspiration (OR 1.04, 95%
+CI 0.87 –1.25). Evaluation of indirectness suggested
+potential concerns due to a large proportion of studies
+restricted to endoscopic procedures or patients with
+diabetes (Table 2). Visual inspection of funnel plot
+asymmetry did not indicate small study effects (online
+Supporting Information Figure S1). Sensitivity analysis
+restricted to non-afﬁrmative studies was not performed due
+to an absence of af ﬁrmative studies. Subgroup analysis of
+studies limited to healthy volunteers was not performed due
+to an absence of studies restricted to this population. All
+other subgroup analyses were consistent with the primary
+analysis (online Supporting Information Figures S2–S4).
+Overall risk of bias was moderate to high (online Supporting
+Information Table S7). For most studies, bias was largely
+attributed to incomplete adjustment for important
+prespeciﬁed confounders (online Supporting Information
+Table S8). Among the six studies that adjusted for potential
+confounders, most accounted for age; sex; and diabetes,
+but adjustment for BMI; ASA physical status; drugs; and
+comorbidities was inconsistent across studies. Despite this,
+sensitivity analysis of unadjusted ORs was consistent with
+the primary analysis (online Supporting Information
+Figure S5). Overall certainty of evidence was low (Table2).
+Twenty studies, including 166,966 patients, assessed
+residual gastric content (Table 1), with a median (IQR
+[range]) number of patients per study of 346 (188 –1058
+[20–120,879]). Residual gastric contents were identi ﬁed via
+retrospective review of patient medical records for 15
+studies involving endoscopic procedures, with the
+remaining ﬁve studies having measured residual gastric
+content prospectively using gastric ultrasound (online
+Supporting Information Table S3).
+Eighteen studies were included in the meta-analysis for
+residual gastric content (Fig. 2). These examined 165,522
+patients, of which 3831 had residual gastric contents
+(Table 2). Pre-operative GLP-1 RA exposure was associated
+with higher odds of residual gastric contents (OR 5.96, 95%
+CI 3.96 –8.98); however, this estimate was impacted by
+substantial heterogeneity (Fig. 2). Although our certainty of
+evidence was increased due to the large effect, evaluation
+of indirectness suggested potential concerns due to a large
+proportion of studies restricted to endoscopic procedures
+(Table 2). Visual inspection of funnel plot asymmetry
+indicated that small study effects may have in ﬂated this
+estimate (online Supporting Information Figure S6), though
+a sensitivity analysis restricted to non-af ﬁrmative studies
+indicated that our pooled estimate was robust to even
+worse-case publication bias (OR 3.38, 95%CI 1.49 –7.68)
+(online Supporting Information Figures S7 and S8).
+Subgroup analysis indicated that GLP-1 RA exposure had a
+stronger association with residual gastric content in studies
+of patients who had not undergone an upper
+gastrointestinal endoscopic procedure compared with
+studies in other populations (online Supporting Information
+Figure S9). Despite this, both subgroups showed a large
+effect in the same direction. A stronger association with
+residual gastric contents was also found in the subgroup
+analysis of studies of healthy volunteers compared with
+other populations. However, the subgroup of healthy
+volunteers only included two small studies (online
+Supporting Information Figure S10). No other subgroup
+effects were identi ﬁed (online Supporting Information
+Figures S11 and S12). Overall risk of bias was predominantly
+high (online Supporting Information Table S9). For most
+studies, bias was largely attributed to high concerns with
+© 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 851
+Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk Anaesthesia 2025, 80, 846 –858
+[[p7]]
+Table 2 Summary of ﬁndings and GRADE assessment. Values are number, proportion (fraction) or effect size (95%CI).
+Comparison Outcome Number of
+patients (studies)
+Event rate control Event rate
+exposure
+Odds ratio
+(95% CI)
+Absolute risk
+difference (95% CI)
+Risk of bias
+GLP-1 RA exposure vs.
+control
+Pulmonary aspiration 185,414 (9) † 0.2%
+(218/111,430)
+0.3%
+(253/73,984)
+1.04 (0.87– 1.25) 1 more per 10,000
+(3 fewer to 5 more)
+Serious
+GLP-1 RA exposure vs.
+control
+Residual gastric
+contents
+165,522 (18)‡ 2.1%
+(3386/160834)
+10.0%
+(445/4439)
+5.96 (3.96– 8.98) 93 more per 1000
+(57 more to 141 more)
+Very serious
+GLP-1 RA held vs. not held* Residual gastric
+contents
+1706 (5) 14.7%
+(157/1066)
+7.6%
+(51/670)
+0.51 (0.33–0.81) 7 fewer per 100
+(9 fewer to 2 fewer)
+Very serious
+Comparison Outcome Inconsistency Indirectness Imprecision Publication bias Large effects Certainty of evidence
+GLP-1 RA exposure vs.
+control
+Pulmonary aspiration Not serious Serious Not serious Not serious No upgrade Low
+GLP-1 RA exposure vs.
+control
+Residual gastric
+contents
+Serious Serious Not serious Not serious Upgrade Low
+GLP-1 RA held vs. not held* Residual gastric
+contents
+Not serious Serious Not serious Not serious No upgrade Very low
+† Three studies from the same administrative database assessed similar procedures. To avoid double counting, the study with the lowest risk of bias across all six domains was included
+in the meta-analysis. Thus, only nine studies on pulmonary aspiration were included.
+‡ One study did not report event rates for patients using GLP-1 RAs; therefore, the total number of patients is greater than the sum of the control and exposure groups.
+*Control group is patients who did not withhold GLP-1 RA before a procedure; exposure group is patients who withheld GLP-1 RA for at least one dose beforea procedure.
+852 © 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2025, 80, 846–858 Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk
+[[p8]]
+study participation, outcome measurement and incomplete
+adjustment for important prespeci ﬁed confounders (online
+Supporting Information Table S10). Among the 13 studies
+that adjusted for potential confounders, most accounted for
+age; sex; and diabetes, but adjustment for BMI; ASA
+physical status; drugs; and comorbidities was inconsistent.
+Despite this, sensitivity analysis of unadjusted ORs was
+consistent with the primary analysis (online Supporting
+Information Figure S13). Overall certainty of evidence was
+low (Table 2).
+Five observational studies assessed the association
+between the time since the last dose of GLP-1 RAs and
+residual gastric contents (Table 1). These examined 1706
+patients who were using GLP-1 RAs, of whom 208 had
+residual gastric contents (Table 2). Two examined a
+cohort using either weekly or daily dosed formulations,
+and the remaining studies were restricted to cohorts
+using weekly formulations (online Supporting Information
+Table S11).
+All ﬁve studies were included in the meta-analysis of
+time since last dose of GLP-1 RA and residual gastric
+content (Fig. 2). Withholding at least one dose of GLP-1
+RA before a procedure was associated with lower odds of
+residual gastric content (OR 0.51, 95%CI 0.33 –0.81).
+However, evaluation of indirectness suggested potential
+concerns due to more than half of the studies being
+limited to oesophagogastroduodenoscopy procedures.
+Visual inspection of funnel plot asymmetry indicated that
+small study effects may have in ﬂated this estimate (online
+Supporting Information Figure S14). Sensitivity analysis
+restricted to non-af ﬁrmative studies indicated that the
+direction of the pooled estimate remained robust to even
+worse-case publication bias, though the wider con ﬁdence
+intervals from this sensitivity analysis included the null
+value (OR 0.67, 95%CI 0.38 –1.18) (online Supporting
+Information Figures S15 and S16). Subgroup analysis of
+GLP-1 RA indication and healthy volunteers was not
+performed due to an absence of studies restricted to
+patients with diabetes or healthy volunteers. No other
+subgroup effects were identi ﬁed (online Supporting
+Information Figures S17 and S18). Overall risk of bias
+across studies analysed was serious (online Supporting
+Information Table S12). Key concerns were attributed to
+potential bias due to residual confounding, participant
+selection and outcome measurement. Of the ﬁve included
+studies, only two accounted for potential confounders.
+Given this, the sensitivity analysis of unadjusted ORs was
+consistent with the primary analysis (online Supporting
+Information Figure S19). Overall certainty of evidence was
+very low (Table 2). No studies measured the association
+between the time since last dose of GLP-1 RA and
+pulmonary aspiration.
+Discussion
+In this systematic review and meta-analysis, we assessed data
+from 28 observational studies involving 466,373 patients to
+evaluate the relationship between GLP-1 RA use and the risk
+of peri-operative pulmonar y aspiration among patients
+undergoing elective procedures. Our ﬁndings indicate that
+patients using GLP-1 RAs before an elective procedure are at
+a higher risk of presenting with residual gastric contents
+compared with those not using GLP-1 RAs. Despite this, the
+available evidence does not indicate that pre-operative GLP-
+1 RA use is associated with an increased risk of
+peri-operative pulmonary asp iration, and the relationship
+between withholding GLP-1 RAs before surgery and
+aspiration risk remains unstudied. Our analysis suggests that
+patients who withheld at least one dose of their GLP-1 RA
+before surgery were less likely to present with residual
+gastric contents compared with maintaining a regular dosing
+schedule, though this evidence was derived from ﬁve small
+observational studies that are inherently vulnerable to bias
+due to residual confounding. Im portantly, available studies
+did not examine the potential risks of withholding these
+drugs, such as glycaemic instability or abrupt increases in
+blood pressure [50]. Given the absence of direct evidence
+from randomised controlled trials relating to such risks, the
+very low certainty of the available evidence and the small
+absolute risk of pulmonary aspiration following appropriate
+fasting, it remains unclear if withholding GLP-1 RA drugs is
+warranted before elective procedures.
+These ﬁndings may provide some degree of
+reassurance to both patients and clinicians about the risk
+of pulmonary aspiration among patients using GLP-1 RAs
+before elective procedures. However, some caution is
+warranted due to the low certainty of the available evidence.
+Moreover, due to the low incidence of pulmonary
+aspiration, our pooled estimates were compatible with an
+increase in pulmonary aspiration risk of up to ≥ 5 cases per
+10,000 procedures, which may be considered clinically
+important given the severity of this complication. Despite
+this, high rates of residual gastric contents among these
+patients may be a cause for concern, independent of any
+assumed association with pulmonary aspiration risk. Gastric
+content may complicate procedures that require clear
+stomach visualisation, such as gastroscopy, potentially
+leading to aborted procedures due to inadequate gastric
+clearance. Aborted procedures expose patients to
+unnecessary anaesthetic risks while also affecting the
+efﬁcient use of healthcare resources adversely [51].
+© 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 853
+Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk Anaesthesia 2025, 80, 846 –858
+[[p9]]
+Consequently, these ﬁndings indicate that tailored
+guidance on the peri-operative management of GLP-1 RAs
+may be warranted for procedures reliant on an empty
+stomach, even in the absence of heightened pulmonary
+aspiration risk.
+This review highlights the need for targeted research
+exploring the risks and bene ﬁts of strategies for managing
+GLP-1 RA drugs before elective procedures. While several
+observational studies were identi ﬁed by our search of
+ongoing studies, it is unclear whether the ﬁndings from
+additional observational studies will add to the current
+evidence in a way that alters clinical practice. Importantly,
+two ongoing randomised controlled trials focusing on
+pre-operative management of GLP-1 RAs were identi ﬁed.
+One is assessing the effect of withholding GLP-1 RAs on
+aspiration and increased residual gastric content risk
+(NCT06533527), and the other is assessing the effectiveness
+of a 24-h clear liquid diet for reducing residual gastric
+contents (NCT06654219). Such trials are needed urgently to
+assess the ef ﬁcacy and safety of these approaches and of
+alternative strategies, such as the use of promotility drugs or
+assessing pulmonary aspiration risk with pre-operative
+gastric ultrasound [26]. Updates to this review will be
+warranted once more data are available from randomised
+controlled trials, as such evidence will be critical to informing
+recommendations presented in future clinical practice
+guidelines. Further to this, given the fast-accumulating
+evidence in this area, pre-speci ﬁed trial sequential analysis
+may allow researchers to determine when additional studies
+are no longer likely to impact conclusions drawn from
+existing studies [52]. In addition, future reviews could be
+enriched by including additional secondary outcomes, such
+as adverse events or postoperative outcomes, which could
+provide a more comprehensive understanding of the
+beneﬁts and risks associated with the use of GLP-1 RAs
+before elective procedures.
+The ﬁndings of this review should be interpreted within
+the context of some limitations. First, there was
+heterogeneity in how outcomes were described across the
+included studies. This included differences in measurement
+methods, such as using endoscopy vs. gastric ultrasound to
+assess gastric contents, and differences in outcome
+deﬁnitions, such as distinguishing between pulmonary
+aspiration and aspiration pneumonitis. Second, all included
+studies assessing pulmonary aspiration were conducted
+retrospectively, which makes them inherently vulnerable to
+underreported cases or unmeasured confounding. Third,
+the available evidence is drawn largely from populations
+undergoing oesophagogastroduodenoscopy, a procedure
+that is unique insofar as it allows for intra-operative
+management to be altered following direct visualisation of
+residual gastric contents. While this may limit the
+applicability of our ﬁndings to patients undergoing most
+types of elective procedures, the clinical interpretation
+of the ﬁndings was consistent across subgroup analyses
+of studies limited to patients undergoing
+oesophagogastroduodenoscopy. Fourth, information on
+the duration, dosage and timing of GLP-1 RA use was not
+described due to inconsistent reporting across included
+studies. It is unclear if variation in these factors could have
+affected the interpretation of pooled estimates. Fifth, an
+absence of studies with pre-registered protocols raises
+concerns about potential selective analysis and reporting,
+though ﬁndings appeared to be largely robust to
+publication bias. Sixth, none of the studies were judged
+to be at a low risk of bias, which is re ﬂected in the overall
+certainty of the evidence being low to very low. Finally, we
+excluded two potentially eligible studies that were not
+published in English [53, 54]. It is unclear if this exclusion is
+likely to have altered our ﬁndings.
+This systematic review and meta-analysis found that
+patients using GLP-1 RAs are at increased risk of
+presenting for surgery with residual gastric contents,
+though this does not necessarily indicate an increased risk
+of pulmonary aspiration. The available evidence to support
+withholding GLP-1 RAs before surgery is derived from a
+small number of observational studies and is impacted by
+a high degree of uncertainty. Given the uncertainty of
+evidence and absence of randomised controlled trials,
+ongoing research is needed to evaluate the risks and
+beneﬁts of different strategies for managing these drugs
+during the peri-operative period.
+Author afﬁliations
+Jasmin Elkin,1 Siddharth Rele,1 Priya Sumithran,2,3
+Michael Hii,1 Sharmala Thuraisingam,1 Tim Spelman,1
+Tuong Phan,4 Peter Choong,1 Michelle Dowsey,1 and
+Cade Shadbolt,1
+1 Department of Surgery, The University of Melbourne, St
+Vincent’s Hospital Melbourne, Fitzroy, VIC, Australia
+2 Department of Surgery, School of Translational Medicine,
+Monash University, Melbourne, VIC, Australia
+3 Department of Endocrinology and Diabetes, Alfred
+Health, Melbourne, VIC, Australia
+4 Department of Critical Care, The University of Melbourne,
+St Vincent’s Hospital Melbourne, Fitzroy, VIC, Australia
+Acknowledgements
+This study was registered prospectively with PROSPERO
+(CRD42024532229). JE and CS had full access to all the data
+854 © 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2025, 80, 846–858 Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk
+[[p10]]
+in the study and take responsibility for the integrity of the
+data and the accuracy of the data analysis. PS is a council
+member of the Australian and New Zealand Obesity
+Society; a member of the Obesity Collective leadership
+group; and is a co-author on manuscripts with a medical
+writer provided by Novo Nordisk and Eli Lilly. CS received
+research support for investigator-initiated studies, paid to
+his institution, from Eli Lilly. MD received research support
+for investigator-initiated studies, paid to her institution, from
+Eli Lilly. PC received research support for investigator-
+initiated studies from Medacta, Eli Lilly, Medibank Private;
+royalty fees from Kluwer; consultancy fees from DePuy,
+Surgeon advisory board, Stryker Corporation, Johnson and
+Johnson, and Medacta; is on the Editorial Board for EFORT
+Reviews and Journal of Clinical Medicine, and is an
+international corresponding editor for JAAOS International.
+JE was supported to conduct this work by an Australian
+Government Research Training Program Scholarship. Open
+access publishing facilitated by The University of
+Melbourne, as part of the Wiley - The University of
+Melbourne agreement via the Council of Australian
+University Librarians.
+References
+1. Jensterle M, Rizzo M, Haluz /C19 ık M, Jane /C20zA .E f ﬁcacy of GLP-1 RA
+approved for weight management in patients with or without
+diabetes: a narrative review. Adv Ther 2022; 39: 2452 –67.
+https://doi.org/10.1007/s12325-022-02153-x.
+2. Aldawsari M, Almadani FA, Almuhammadi N, Algabsani
+S, Alamro Y, Aldhwayan M. The ef ﬁcacy of GLP-1
+analogues on appetite parameters, gastric emptying, food
+preference and taste among adults with obesity:
+systematic review of randomized controlled trials.
+Diabetes Metab Syndr Obes 2023; 16:5 7 5 –95.
+https://doi.org/10. 2147/DMSO.S387116 .
+3. Jensterle M, Ferjan S, Lezaic L, et al. Semaglutide delays 4-hour
+gastric emptying in women with polycystic ovary syndrome and
+obesity. Diabetes Obes Metab 2023; 25: 975 –84. https://doi.
+org/10.1111/dom.14944.
+4. Maselli D, Atieh J, Clark MM, et al. Effects of liraglutide on
+gastrointestinal functions and weight in obesity: a randomized
+clinical and pharmacogenomic trial. Obesity 2022; 30: 1608 –
+20. https://doi.org/10.1002/oby.23481.
+5. Beam W, Hunter Guevara L. Are serious anesthesia risks of
+semaglutide and other GLP-1 agonists under-recognized? Case
+reports of retained solid gastric contents in patients
+undergoing anesthesia. APSF Newsletter 2023; 38:1 –4.
+6. Gir /C19on-Arango L, Perlas A. Point-of-care gastric ultrasound to
+identify a full stomach on a diabetic patient taking a glucagon-
+like peptide 1 receptor agonist. A&A Practice 2024; 18:e 0 1 7 5 1 .
+https://doi.org/10.1213/XAA.0000000000001751.
+7. Gulak MA, Murphy P. Regurgitation under anesthesia in a fasted
+patient prescribed semaglutide for weight loss: a case report.
+Can J Anaesth 2023; 70: 1397 –400. https://doi.org/10.
+1007/s12630-023-02521-3.
+8. Kittner SL, Talbott AL, Vishneski SR, Narbaiza J, Shields JS.
+Retained gastric contents after adequate fasting associated
+with GLP-1 receptor agonist use: a report of 3 cases. JBJS Case
+Connect 2023; 13: e23 1010.2106/JBJS.CC.23.00506.
+9. Klein SR, Hobai IA. Semaglutide, delayed gastric emptying, and
+intraoperative pulmonary aspiration: a case report. Can J
+Anaesth 2023; 70: 1394 –6. https://doi.org/10.1007/s12630-
+023-02440-3.
+10. Preda V, Khoo SS-Y, Preda T, Lord RV. Gastroparesis with
+bezoar formation in patients treated with glucagon-like
+peptide-1 receptor agonists: potential relevance for bariatric
+and other gastric surgery. BJS Open 2023; 7: zrac169.
+https://doi.org/10.1093/bjsopen/zrac169.
+11. Queiroz VNF, Falsarella PM, Chaves RCF, Takaoka F,
+Socolowski LR, Garcia RG. Risk of pulmonary aspiration during
+semaglutide use and anesthesia in a fasting patient: a case
+report with tomographic evidence. Einstein (S ~ao Paulo) 2023;
+21: eRC0628. https://doi.org/10.31744/einstein_journal/
+2023RC0628.
+12. Raven LM, Stoita A, Feller RB, Brown C, Green ﬁeld JR. Delayed
+gastric emptying with perioperative use of glucagon-like
+peptide-1 receptor agonists. Am J Med 2023; 136: e233 –4.
+https://doi.org/10.1016/j.amjmed.2023.07.016.
+13. Weber M, Siddarthan I, Mack PF. Clinically signi ﬁcant emesis in
+a patient taking a long-acting GLP-1 receptor agonist for weight
+loss. BJA 2023; 131: e37-e39. https://doi.org/10.1016/j.bja.
+2023.05.005.
+14. Wilson PR, Bridges KH, Wilson SH. Particulate gastric contents
+in patients prescribed glucagon-like peptide 1 receptor
+agonists after appropriate perioperative fasting: a report of 2
+cases. A&A Practice 2023; 17: e01712. https://doi.org/10.
+1213/XAA.0000000000001712.
+15. Australian and New Zealand College of Anaesthesists & the
+Faculty of Pain Medicine. Surgery warning on use of popular
+weight loss drugs. July 5 2023. https://www.anzca.edu.
+au/resources/media-releases/ 2023-media-releases/gastric-
+emptying-mr.pdf (accessed 27/09/2024).
+16. American Society of Anesthesiologists. Consensus-Based
+Guidance on Preoperative Management of Patients (Adults
+and Children) on Glucagon-Like Peptide-1 (GLP-1) Receptor
+Agonists. June 29 2023. https://www.asahq.org/about-
+asa/newsroom/news-releases/ 2023/06/american-society-of-
+anesthesiologists-consensus-based-guidance-on-preoperative
+(accessed 27/09/2024).
+17. American Gastroenterological Association. No data to support
+stopping GLP-1 agonists prior to elective endoscopy. August 11
+2023.https://gastro.org/news/gi-multi-society-statement-regarding-
+glp-1-agonists-and-endoscopy/(accessed 27/09/2024).
+18. El-Boghdadly K, Dhesi J, Fabb P, et al. Elective peri-operative
+management of adults taking glucagon-like peptide-1
+receptor agonists, glucose-dependent insulinotropic peptide
+agonists and sodium-glucose cotransporter-2 inhibitors: a
+multidisciplinary consensus statement. Anaesthesia 2025; 80:
+412–24. https://doi.org/10.1111/anae.16541.
+19. GLP-1 receptor agonist labelling updated with risk of
+pulmonary aspiration. Reactions Weekly 2024; 2034:3 .
+https://doi.org/10.1007/s40278-024-70376-5.
+20. Medicines and Healthcare products Regulatory Agency.
+GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of
+pulmonary aspiration during general anaesthesia or deep
+sedation. January 28 2025. https://www.gov.uk/drug-safety-
+update/glp-1-and-dual-gip-slash-glp-1-receptor-agonists-
+potential-risk-of-pulmonary-aspiration-during-general-anaesthesia-
+or-deep-sedation(accessed 24/02/2025).
+21. Kindel TL, Wang AY, Wadhwa A, et al. Multi-society clinical
+practice guidance for the safe use of glucagon-like peptide-1
+receptor agonists in the perioperative period. Surg Endosc
+2024; 39:1 –4. https://doi.org/10.1007/s00464-024-11263-2.
+22. Australian and New Zealand Coll ege of Anaesthesists. Clinical
+practice recommendation on periprocedural use of GLP-
+1/GIP receptor agonists. 2024. https://www.anzca.edu.au/
+getattachment/5d33ab95-5377-44a5-a936-7466bc6add2b/
+© 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 855
+Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk Anaesthesia 2025, 80, 846 –858
+[[p11]]
+Periprocedural-GLP-1-use-consensus-clinical-guide (accessed
+27/09/2024).
+23. Hashash JG, Thompson CC, Wang AY. AGA rapid clinical
+practice update on the management of patients taking GLP-1
+receptor agonists prior to endoscopy: communication. Clin
+Gastroenterol Hepatol 2023; 22: 705 –7. https://doi.org/10.
+1007/10.1016/j.cgh.2023.11.002.
+24. Jalleh RJ, Rayner CK, Hausken T, Jones KL, Camilleri M,
+Horowitz M. Gastrointestinal effects of GLP-1 receptor agonists:
+mechanisms, management, and future directions. Lancet
+Gastroenterol Hepatol 2024; 9: 957 –64. https://doi.org/10.
+1016/S2468-1253(24)00188-2.
+25. van Zuylen ML, Siegelaar SE, Plummer MP, Deane AM,
+Hermanides J, Hulst AH. Perioperative management of long-
+acting glucagon-like peptide-1 (GLP-1) receptor agonists:
+concerns for delayed gastric emptying and pulmonary
+aspiration. BJA 2024; 132: 644 –8. https://doi.org/10.1016/j.
+bja.2024.01.001.
+26. Milder DA, Milder TY, Liang SS, Kam PCA. Glucagon-like
+peptide-1 receptor agonists: a narrative review of clinical
+pharmacology and implications for peri-operative practice.
+Anaesthesia 2024; 79: 735 –47. https://doi.org/10.1111/anae.
+16306.
+27. Facciorusso A, Ramai D, Dhar J, et al. Effects of glucagon-like
+peptide-1 receptor agonists on upper gastrointestinal
+endoscopy: a meta-analysis. Clin Gastroenterol Hepatol 2024.
+Epub 12 August. https://doi.org/10.1016/j.cgh.2024.07.021.
+28. Singh S, Rahman SH, Khan N, et al. Effects of glucagon-like
+peptide-1 receptor agonists on endoscopy outcomes:
+systematic review and meta-analysis. Gastrointest Endosc 2025;
+101: 343–9. https://doi.org/10.1016/j.gie.2024.10.011.
+29. Baig MU, Piazza A, Lahooti A, et al. Glucagon-like peptide-1
+receptor agonist use and the risk of residual gastric content and
+aspiration in patients undergoing gastrointestinal endoscopy:
+a systematic review and a meta-analysis. Gastrointest Endosc
+2024. Epub 16 December. https://doi.org/10.1016/j.gie.2024.
+12.019.
+30. do Nascimento TS, Pereira RO, Maia E, et al. The impact of
+glucagon-like peptide-1 receptor agonists in the patients
+undergoing anesthesia or sedation: systematic review and
+meta-analysis. Perioper Med 2024; 13: 78. https://doi.org/10.
+1186/s13741-024-00439-y.
+31. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020
+statement: an updated guideline for reporting systematic
+reviews. BMJ 2021; 88: 105906. https://doi.org/10.1136/bmj.
+n71.
+32. Stroup DF, Berlin JA, Morton SC. Meta-analysis of observational
+studies in epidemiology: a proposal for reporting. JAMA 2000;
+283: 2008–
+12. https://doi.org/10.1001/jama.283.15.2008.
+33. Haddaway N, Grainger M, Gray C. citationchaser: an R package
+and Shiny app for forward and backward citations chasing in
+academic searching. Zenodo, Feb. 2021;16. https://doi.org/10.
+5281/zenodo.4543513.
+34. American Society of Anesthesiologists Task Force on
+Preoperative Fasting and the Use of Pharmacologic Agents to
+Reduce the Risk of Pulmonary Aspiration. Practice guidelines
+for preoperative fasting and the use of pharmacologic agents
+to reduce the risk of pulmonary aspiration: application to
+healthy patients undergoing elective procedures: an updated
+report by the American Society of Anesthesiologists Task Force
+on Preoperative Fasting and the Use of Pharmacologic
+Agents to Reduce the Risk of Pulmonary Aspiration.
+Anesthesiology 2017; 126: 376 –93. https://doi.org/10.
+1097/aln.0000000000001452.
+35. Deeks JJ, Higgins JPT, Altman DG. Chapter 10: Analysing data
+and undertaking meta-analyses. In: Higgins JPT, Thomas J,
+Chandler J, Cumpston M, Li T, Page MJ, Welch VA, eds.
+Cochrane Handbook for Systematic Reviews of Interventions .
+Version 6.4 (updated August 2023). Cochrane, 2023. www.
+training.cochrane.org/handbook.
+36. Sweeting MJ, Sutton AJ, Lambert PC. What to add to nothing?
+Use and avoidance of continuity corrections in meta-analysis of
+sparse data. Stat Med 2004; 23: 1351 –75. https://doi.org/10.
+1002/sim.1761.
+37. Viswanathan M, Patnode CD, Berkman ND, et al.
+Recommendations for assessing the risk of bias in systematic
+reviews of health-care interventions. J Clin Epidemiol 2018; 97:
+26–34. https://doi.org/10.1016/j.jclinepi.2017.12.004.
+38. Hayden JA, van der Windt DA, Cartwright JL, C ^ot/C19eP ,
+Bombardier C. Assessing bias in studies of prognostic factors.
+Ann Intern Med 2013; 158: 280 –6. https://doi.org/10.
+7326/0003-4819-158-4-201302190-00009.
+39. Riley RD, Moons KGM, Snell KIE, et al. A guide to systematic
+review and meta-analysis of prognostic factor studies. BMJ
+2019; 364: k4597. https://doi.org/10.1136/bmj.k4597.
+40. Sterne JA, Hern /C19an MA, Reeves BC, et al. ROBINS-I: a tool for
+assessing risk of bias in non-randomised studies of
+interventions. BMJ 2016; 355: i4919. https://doi.org/10.
+1136/bmj.i4919.
+41. Langan D, Higgins JP, Jackson D, et al. A comparison of
+heterogeneity variance estimators in simulated random-effects
+meta-analyses. Res Synth Methods 2019; 10:8 3 –98.
+https://doi.org/10.1002/jrsm.1316.
+42. Hardy RJ, Thompson SG. A likelihood approach to meta-
+analysis with random effects. Stat Med 1996; 15: 619
+–29.
+https://doi.org/10.1002/(SICI)1097-0258(19960330)15:
+6<619::AID-SIM188>3.0.CO;2-A.
+43. Mathur MB. Assessing robustness to worst case publication
+bias using a simple subset meta-analysis. BMJ 2024; 384:
+e076851. https://doi.org/10.1136/bmj-2023-076851.
+44. Foroutan F, Guyatt G, Zuk V, et al. GRADE guidelines 28: use of
+GRADE for the assessment of evidence about prognostic
+factors: rating certainty in identi ﬁcation of groups of patients
+with different absolute risks. J Clin Epidemiol 2020; 121:6 2 –
+70. https://doi.org/10.1016/j.jclinepi.2019.12.023.
+45. Balduzzi S, R €ucker G, Schwarzer G. How to perform a meta-
+analysis with R: a practical tutorial. BMJ Ment Health 2019; 22:
+153–60. https://doi.org/10.1136/ebmental-2019-300117.
+46. Viechtbauer W. Conducting meta-analyses in R with the
+metafor package. J Stat Softw 2010; 36:1 –48. https://doi.
+org/10.18637/jss.v036.i03.
+47. Amini RAS, Ismail A-LS, Al-Aqrabawi M, et al. Risk of aspiration
+pneumonitis after elective esophagogastroduodenoscopy in
+patients on glucagon-like peptide-1 receptor agonists. Cureus
+2024; 16: e66311. https://doi.org/10.7759/cureus.66311.
+48. Yeo YH, Gaddam S, Ng WH, et al. Increased risk of aspiration
+pneumonia associated with endoscopic procedures among
+patients with glucagon-like peptide 1 receptor agonist use.
+Gastroenterology 2024; 167: 402–4. https://doi.org/10.1053/j.
+gastro.2024.03.015.
+49. Peng C-Y, Chang Y-C, Gong C, et al. Association between
+glucagon-like peptide-1 receptor agonists and aspiration
+pneumonia during endoscopic procedures. Anesthesiology
+2024; 141: 1009 –12. https://doi.org/10.1097/ALN.
+0000000000005174.
+50. Aronne LJ, Sattar N, Horn DB, et al. Continued treatment
+with tirzepatide for maintenance of weight reduction in
+adults with obesity: the SURMOUNT-4 randomized clinical
+trial. JAMA 2024; 331:3 8 –48. https://doi.org/10.1001/
+jama.2023.24945.
+51. Hori Y, Nakayama A, Sakamoto A. Surgery cancellations after
+entering the operating room. JA Clin Rep 2016; 2:1 –
+4.
+https://doi.org/10.1186/s40981-016-0066-1.
+52. Clephas P, Kranke P, Heesen M. How to perform and write a trial
+sequential analysis. Anaesthesia 2023; 78: 381 –4. https://doi.
+org/10.1111/anae.15811.
+856 © 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2025, 80, 846–858 Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk
+[[p12]]
+53. Benhamou D, Catargi B, Cheisson G, et al. Agonistes du
+r/C19ecepteur du GLP1 (AR-GLP1) et d /C19eriv/C19es, vidange gastrique et
+anesth/C19esie. Anesth R /C19eanim 2023; 9: 510–1. https://doi.org/10.
+1016/j.anrea.2023.10.008.
+54. Kahl S. Hyperglyk €amie verst €arkt die magenentleerung
+shemmende Wirkung von exogenem GLP-1. Diabetologe
+2015; 11: 413–4. https://doi.org/10.1007/s11428-015-1408-8.
+55. Alkabbani W, Suissa K, Gu KD, et al. Glucagon-like peptide-1
+receptor agonists before upper gastrointestinal endoscopy
+and risk of pulmonary aspiration or discontinuation of
+procedure: cohort study. BMJ 2024; 387: e080340. https://doi.
+org/10.1136/bmj-2024-080340.
+56. Barlowe TS, Anderson C, Sandler RS, et al. Glucagon-like
+peptide-1 receptor agonists do not increase aspiration during
+upper endoscopy in patients with diabetes. Clin Gastroenterol
+Hepatol 2024. Epub 15 May. https://doi.org/10.1016/j.cgh.
+2024.04.038.
+57. Buddhiraju A, Kagabo W, Khanuja HS, Oni JK, Nikkel LE, Hegde
+V. Decreased risk of readmission and complications with
+preoperative GLP-1 analog use in patients undergoing primary
+total joint arthroplasty. J Arthroplast 2024; 39: 2911 –5.
+https://doi.org/10.1016/j.arth.2024.05.079.
+58. Klonoff DC, Kim SH, Galindo RJ, et al. Risks of peri-and
+postoperative complications with glucagon-like peptide-1
+receptor agonists. Diabetes Obes Metab 2024; 26: 3128 –36.
+https://doi.org/10.1111/dom.15636.
+59. Nadeem D, Taye M, Still MD, et al. Effects of glucagon-like
+peptide-1 receptor agonists on upper endoscopy in diabetic
+and non-diabetic patients. Gastrointest Endosc 2024; 100:
+745–9. https://doi.org/10.1016/j.gie.2024.04.2900.
+60. Santos LB, Mizubuti GB, da Silva LM, et al. Effect of various
+perioperative semaglutide interruption intervals on residual
+gastric content assessed by esophagogastroduodenoscopy: a
+retrospective single center observational study. J Clin Anesth
+2024; 99: 111668. https://doi.org/10.1016/j.jclinane.2024.
+111668.
+61. Welk B, McClure JA, Carter B, Clarke C, Dubois L, Clemens KK.
+No association between semaglutide and postoperative
+pneumonia in people with diabetes undergoing elective
+surgery. Diabetes Obes Metab 2024; 26: 4105–
+10. https://doi.
+org/10.1111/dom.15711.
+62. Wu F, Smith MR, Mueller AL, et al. Association of glucagon-like
+peptide receptor 1 agonist therapy with the presence of gastric
+contents in fasting patients undergoing endoscopy under
+anesthesia care: a historical cohort study. Can J Anaesth 2024;
+71:1 –9. https://doi.org/10.1007/s12630-024-02719-z.
+63. Abu-Freha N, Levi Z, Nevo-Shor A, et al. The impact of
+glucagon-like peptide-1 receptor agonist on the gastric residue
+in upper endoscopy. Diabetes Res Clin Pract 2024; 217:
+111900. https://doi.org/10.1016/j.diabres.2024.111900.
+64. Bi D, Choi C, League J, Camilleri M, Prichard DO. Food residue
+during esophagogastroduodenoscopy is commonly
+encountered and is not pathognomonic of delayed gastric
+emptying. Dig Dis Sci 2021; 66: 3951 –9. https://doi.org/10.
+1007/s10620-020-06718-0.
+65. Chapman MB, Norwood DA, Price C, et al. Effects of glucagon-
+like peptide-1 receptor agonists on gastric mucosal visibility
+and retained gastric contents during EGD. Gastrointest Endosc
+2024; 100: 923–7. https://doi.org/10.1016/j.gie.2024.05.012.
+66. Elimihele TA, Mangrola AM, Oshomoji O, et al. Confounding
+factors in the association between glucagon-like peptide-1
+receptor agonist use and retained gastric contents in
+asymptomatic patients undergoing upper gastrointestinal
+endoscopy: a retrospective study. Cureus 2024; 16: e69152.
+https://doi.org/10.7759/cureus.69152.
+67. Garza K, Aminpour E, Shah J, Mehta B, Early D, Gyawali CP,
+Kushnir V. Glucagon-like peptide-1 receptor agonists increase
+solid gastric residue rates on upper endoscopy especially in
+patients with complicated diabetes: a case-control study. Am J
+Gastroenterol 2024; 119: 1081 –8. https://doi.org/10.
+14309/ajg.0000000000002777.
+68. Kobori T, Onishi Y, Yoshida Y, et al. Association of glucagon-like
+peptide-1 receptor agonist treatment with gastric residue in an
+esophagogastroduodenoscopy. J Diabetes Investig 2023; 14:
+767–73. https://doi.org/10.1111/jdi.14005.
+69. Korlipara H, Chua J, Buckholz A, et al. Semaglutide is an
+independent predictor of retained solid gastric contents, but
+same-day colonoscopy mitigates effect. Tech Innov
+Gastrointest Endosc 2024; 26: 316 –22. https://doi.org/10.
+1016/j.tige.2024.07.001.
+70. Nasser J, Hosseini A, Barlow G, Gianchandani R, Rezaie A,
+Pimentel M, Mathur R. Food retention at endoscopy among
+adults using glucagon-like peptide-1 receptor agonists. JAMA
+Netw Open 2024; 7: e2436783. https://doi.org/10.
+1001/jamanetworkopen.2024.36783.
+71. Nersessian RS, da Silva LM, Carvalho MAS, et al. Relationship
+between residual gastric content and peri-operative
+semaglutide use assessed by gastric ultrasound: a prospective
+observational study. Anaesthesia 2024; 79: 1317 –24.
+https://doi.org/10.1111/anae.16454.
+72. Pinto EF, Bastos ML, Prates CG, Sander GB, Bumaguin DB,
+Bagatini A. Assessment of residual gastric volume by
+ultrasound prior to upper endoscopy: a prospective cohort
+study. Can J Anaesth 2024; 72: 233 –41. https://doi.org/10.
+1007/s12630-024-02885-0.
+73. Queiroz VNF, Falsarella PM, de Freitas Chaves RC, et al.
+Evaluation of gastric content in fasting patient during
+semaglutide use: an observational study. Surg Obes Relat Dis
+2025; 21: 146 –51. https://doi.org/10.1016/j.soard.2024.08.
+039.
+74. Robalino Gonzaga E, Farooq A, Mohammed A, et al. Real-world
+impact of GLP-1 receptor agonists on endoscopic patient
+outcomes in an ambulatory setting: a retrospective study at a
+large tertiary center. J Clin Med 2024; 13: 5403. https://doi.
+org/10.3390/jcm13185403.
+75. Sen S, Potnuru PP, Hernandez N, Goehl C, Praestholm C,
+Sridhar S, Nwokolo OO. Glucagon-like peptide-1 receptor
+agonist use and residual gastric content before anesthesia.
+JAMA Surg 2024; 159: 660 –7. https://doi.org/10.
+1001/jamasurg.2024.0111.
+76. Sherwin M, Hamburger J, Katz D, DeMaria S Jr. In ﬂuence of
+semaglutide use on the presence of residual gastric solids on
+gastric ultrasound: a prospective observational study in
+volunteers without obesity recently started on semaglutide.
+Can J Anaesth 2023; 70: 1300 –6. https://doi.org/10.
+1007/s12630-023-02549-5.
+77. Stark JE, Cole JL, Ghazarian RN, Klass MJ. Impact of glucagon-
+like peptide-1 receptor agonists (GLP-1RA) on food content
+during esophagogastroduodenoscopy (EGD). Ann
+Pharmacother 2022; 56: 922 –6. https://doi.org/10.
+1177/10600280211055804.
+78. Jirapinyo P, Siranart N, Thompson CC. Glucagon-like peptide-1
+receptor agonists and upper endoscopy: a real-world
+experience. Obesity 2025; 33: 250 –6. https://doi.org/10.
+1002/oby.24190.
+79. Phan J, Chang P, Issa D, et al. Glucagon-like peptide receptor
+agonists use before endoscopy is associated with low retained
+gastric contents: a multicenter cross-sectional analysis. Am J
+Gastroenterol 2024; 120: 554 –61. https://doi.org/10.
+14309/ajg.0000000000002969.
+Supporting Information
+Additional supporting information may be found online via
+the journal website.
+© 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 857
+Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk Anaesthesia 2025, 80, 846 –858
+[[p13]]
+Appendix S1. Search strategies.
+Table S1. Protocol deviations and clariﬁcations.
+Table S2. Outcome deﬁnitions for pulmonary aspiration.
+Table S3. Outcome deﬁnitions for residual gastric content.
+Table S4. Data requested from study authors.
+Table S5. Characteristics of included studies.
+Table S6. Unpublished studies.
+Table S7. Modiﬁed quality in prognosis studies tool
+assessment of pulmonary aspiration.
+Table S8. Adjusted variables in included studies assessing
+pulmonary aspiration.
+Table S9. Modiﬁed quality in prognosis studies tool
+assessment of residual gastric contents.
+Table S10. Adjusted variables in included studies assessing
+residual gastric contents.
+Table S11. Studies assessing withholding at least one GLP-
+1 RA dose before a procedure on residual gastric contents.
+Table S12. Risk of bias assessment.
+Table S13. GRADE assessment.
+Figures S1 –S19. Funnel plots, sensitivity and subgroup
+analyses.
+858 © 2025 The Author(s). Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2025, 80, 846–858 Elkin et al. | GLP-1 receptor agonists and peri-operative aspiration risk

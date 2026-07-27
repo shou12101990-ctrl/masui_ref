@@ -1,0 +1,599 @@
+
+[[p1]]
+CASE REPORT Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  
+v e c  o m m  o n s .  o r  g / l  i c e  n s e s  / b  y - n c - n d / 4 . 0 /.
+Xin et al. BMC Anesthesiology          (2025) 25:564 
+https://doi.org/10.1186/s12871-025-03453-9
+with only one well-developed ventricle (as seen in unbal -
+anced common AV canal defects), a well-developed sin -
+gle ventricle associated with heterotaxy syndrome (single 
+ventricle heterotaxy syndrome) and hypoplastic left heart 
+syndrome (HLHS). Univentricular physiology creates 
+a parallel circulation in which a single ventricle pumps 
+mixed venous blood to both the systemic and pulmonary 
+circuits. This results in chronic cyanosis and requires a 
+precise balance between pulmonary (Qp) and systemic 
+(Qs) blood flow. Any factor that alters vascular resistance 
+(e.g., hypotension, hypoxia, or hypercapnia) can quickly 
+destabilize the Qp: Qs ratio, which can lead to pulmonary 
+overflow or systemic hypoperfusion [2, 3].
+Background
+A univentricular heart is a rare congenital heart defect, 
+accounting for approximately 3% of all congenital heart 
+diseases (CHD) [ 1]. It includes several conditions [ 2]: 
+double inlet atrioventricular (AV) connections (either 
+double inlet left ventricle [DILV] or double inlet right 
+ventricle), the absence of one AV connection (such as 
+mitral or tricuspid atresia [TA]), a common AV valve 
+BMC Anesthesiology
+*Correspondence:
+Xuebo Bai
+bai.tom@126.com
+1Department of Anesthesiology, Affiliated Hospital of Jining Medical 
+University, No.89 Guhuai Street, Jining, Shandong 272029, China
+Abstract
+Background Anesthesia management for patients with uncorrected univentricular heart and ectopic pregnancy 
+undergoing emergency laparotomy presents significant challenges. Close collaboration among a multidisciplinary 
+team, a keen understanding of anatomy and pathophysiology, and optimization of intraoperative hemodynamic 
+targets are crucial for successful outcomes.
+Case presentation We report the anesthetic challenges encountered in a case of an adult female with uncorrected 
+univentricular heart and ectopic pregnancy who required urgent exploratory laparotomy. We summarize critical 
+anesthetic considerations for patients with univentricular heart physiology undergoing non-cardiac surgery. The 
+patient successfully underwent unilateral salpingectomy under general anesthesia.
+Conclusions Multidisciplinary coordination and tailored hemodynamic management were pivotal to successful 
+outcomes, providing valuable reference for the clinical diagnosis and treatment of similar cases in the future.
+Keywords Univentricular heart, Anesthetic management, Ectopic pregnancy, Hemodynamic management, Case 
+report
+Anesthetic management of an adult 
+female with uncorrected univentricular 
+heart and comorbid ectopic pregnancy 
+for unilateral salpingectomy: a case report
+Jiaying Xin1, Jianguo Wang1, Laizhu Zhang1 and Xuebo Bai1*
+[[p2]]
+Page 2 of 7
+Xin et al. BMC Anesthesiology          (2025) 25:564 
+The mortality for uncorrected univentricular hearts is 
+very high. A retrospective study in Norway [4, 5] revealed 
+that, between 1990 and 2015, the mortality within the 
+first month of life for patients with uncorrected univen -
+tricular heart was as high as 83.9% (125/149), with only 
+2 patients surviving beyond this period (2/151). Survival 
+into adulthood without surgical correction has only been 
+reported in a few case studies [ 6, 7]. Reports of non-car -
+diac surgery in adults with uncorrected univentricular 
+hearts are rare. Thus, more clinical experience is needed 
+to provide reference for future clinical diagnosis and 
+treatment processes. Accordingly, we present a case of 
+a complex uncorrected univentricular heart associated 
+with an ectopic pregnancy, which underwent a salpingec-
+tomy. We also review previously published cases of non-
+cardiac surgeries performed in patients with uncorrected 
+univentricular hearts. Additionally, we discuss impor -
+tant considerations for anesthetic management in these 
+patients, emphasizing the significance of understanding 
+the pathophysiology of univentricular hearts and the role 
+of a multidisciplinary team in ensuring optimal hemody -
+namic stability during the perioperative period.
+Case presentation
+Patient information
+A 28-year-old female (40 kg) with uncorrected complex 
+CHD presented with 52 days of amenorrhea accompanied 
+by progressive abdominal pain and vaginal bleeding. She 
+had a history of receiving general anesthesia for an abor -
+tion, which she tolerated without major complications. 
+However, detailed records from that procedure were 
+unavailable. She was not under long-term cardiology fol -
+low-up, nor was she taking any cardiac medications prior 
+to admission. Her uncorrected CHD (echocardiography 
+findings below) resulted in lifelong cyanosis, a baseline 
+oxygen saturation (SpO₂) of 78%, and a New York Heart 
+Association (NYHA) class III functional status, consis -
+tent with a functional capacity of fewer than four MET 
+tasks. Surgical correction had been deferred in childhood 
+due to parental concerns regarding the perceived high 
+risk of surgery and financial constraints.
+On admission, elevated beta-human chorionic gonado -
+tropin (β-HCG) (3194 mIU/L) and transvaginal ultra -
+sound revealed a ruptured left adnexal mass, consistent 
+with ectopic pregnancy. Multidisciplinary consensus rec -
+ommended emergency laparotomy. Ethics approval from 
+the Institutional Review Board of the Affiliated Hos -
+pital of Jining Medical University (2024-03-C018) was 
+obtained for the publication of this case report.
+Clinical and laboratory findings
+The patient exhibited marked cyanosis (lips, nail beds), 
+digital clubbing, and tachycardia (HR 95 bpm). Trans -
+thoracic echocardiography demonstrated situs inversus, 
+dextrocardia, univentricular heart, complete atrioven -
+tricular canal defect (Fig. 1 A), transposition of the great 
+arteries, double aortic arch, and bilateral superior vena 
+cava (Fig. 1 C and Fig. 1 D). The univentricular heart was 
+anatomically a left ventricle with underdevelopment of 
+the right ventricle. Moderate regurgitation of the com -
+mon atrioventricular valve (Fig. 1 B) was observed, with 
+a peak regurgitant velocity of 4.8 m/s. Pulmonary valve 
+stenosis was also noted, with a peak velocity of 3.8 m/s. 
+Coagulopathy (prothrombin time (PT) 16.4 s, interna -
+tional normalized ratio (INR) 1.33) and polycythemia 
+(hemoglobin (Hb) 221 g/L, hematocrit (Hct) 66.1%) were 
+noted. Arterial blood gas revealed hypoxemia (partial 
+pressure of oxygen (PaO₂) 46 mmHg) and compensated 
+metabolic acidosis (pH 7.30, lactate 0.6 mmol/L).
+We summarized the specific issues presented by the 
+patient to facilitate the development of an individualized 
+????M?Gs?PH
+Operative and anesthetic management
+Comprehensive invasive hemodynamic monitoring 
+was established before general anesthesia was induced. 
+Prior to induction, a left radial arterial line and a cen -
+tral venous line were placed. A manual defibrillator with 
+paddles was confirmed to be immediately available in 
+the operating room as the primary backup for arrhyth -
+mia management. General anesthesia was selected due 
+to hemodynamic instability and coagulopathy. Induction 
+with sufentanil (20 µg), midazolam (3 mg), rocuronium 
+(40 mg), and etomidate (4 mg) achieved rapid loss of 
+consciousness. Mechanical ventilation was initiated with 
+an FiO₂ of 1.0. Our hemodynamic management strat -
+egy aimed to maintain oxygen saturation at the patient’s 
+preoperative baseline level (78%−85%), while avoiding a 
+significant increase that could indicate pulmonary over 
+circulation at the expense of systemic output. Her SpO₂ 
+remained within this target range (79%−85%) throughout 
+the procedure.
+Upon entering the abdominal cavity, approximately 800 
+mL of clotted blood was evacuated, confirming signifi -
+cant intra-abdominal hemorrhage. Immediately follow -
+ing peritoneal incision and decompression, the patient 
+developed profound hypotension (82/40 mmHg) with 
+tachycardia (HR 160 bpm). This was consistent with 
+an acute reduction in preload due to the sudden loss of 
+intra-abdominal pressure.
+The initial management targeted hemodynamic stabili -
+zation. A phenylephrine bolus (40 µg) was administered 
+to rapidly restore systemic vascular resistance and coro -
+nary perfusion pressure. This stabilized the blood pres -
+sure at 90/60 mmHg and reduced the heart rate to 120 
+bpm. Concurrently, fluid resuscitation was initiated with 
+a 200 mL bolus of compound sodium chloride solution, 
+which increased the CVP from 12 cmH₂O to 14 cmH₂O.
+[[p3]]
+Page 3 of 7
+Xin et al. BMC Anesthesiology          (2025) 25:564 
+However, the patient experienced a recurrence of 
+hypotension, indicating a persistent volume deficit and 
+limited preload reserve. An additional 600 mL of fluid 
+was administered, raising the CVP further to 16 cmH₂O. 
+The observed dissociation between the rising CVP and 
+the persistent hemodynamic instability highlighted the 
+ventricle’s preload intolerance and diastolic dysfunction. 
+The patient’s response underscored the importance of 
+afterload support with phenylephrine in this setting, with 
+fluid administration playing a secondary, supportive role.
+Nevertheless, the persistence of hypotension despite a 
+rising CVP indicated a complex hemodynamic state in 
+which traditional indicators of volume status were unre -
+liable. This likely reflected the limited preload reserve 
+and diastolic dysfunction of the single ventricle. In this 
+condition, further fluid administration increased intra -
+cardiac pressures without improving effective circulating 
+volume or cardiac output.
+Although the patient was asymptomatic preopera -
+tively, a double aortic arch carries lifelong risks of tra -
+cheoesophageal compression. Potential manifestations 
+include stridor, dysphagia, or recurrent pneumonia [ 8]. 
+Perioperatively, airway edema or hematoma could acutely 
+exacerbate compression.
+Postoperative signs
+The patient was extubated and transferred to the inten -
+sive care unit (ICU) for continuous invasive hemody -
+namic monitoring and support. A multimodal analgesia 
+regimen combining ropivacaine wound infiltration with 
+Fig. 1 Imaging of the patient’s heart. A Images of the patient’s complete atrioventricular canal defect. B Images of the patient’s common atrioventricular 
+valve regurgitation. C Images of the patient’s common ventricular origin of the aorta and pulmonary artery. D Images of the patient’s double aortic arch 
+LA = left atrium; RA = right atrium; SV = single ventricle
+ 
+[[p4]]
+Page 4 of 7
+Xin et al. BMC Anesthesiology          (2025) 25:564 
+sufentanil intravenous infusion provided effective pain 
+control, enabling discharge on postoperative day four.
+Follow-up
+During the seven-day postoperative follow-up, the 
+patient reported no adverse events. Six months post-dis -
+charge, the patient presented with hemoptysis. Given the 
+patient’s history of chronic cyanosis, the hemoptysis was 
+presumed to be secondary to pulmonary arteriovenous 
+malformations (PAVMs). The patient was treated conser-
+vatively with supplemental oxygen, systemic tranexamic 
+acid, and avoidance of anticoagulants, resulting in par -
+tial resolution of symptoms. A definitive diagnostic pro -
+cedure (e.g., CT angiography or cardiac catheterization) 
+was not performed during the acute episode. Twelve 
+months postoperatively, progressive cyanosis (resting 
+SpO₂ of 76%) prompted surgical intervention. She under-
+went a bidirectional cavopulmonary anastomosis (Glenn 
+procedure). Intraoperative direct measurement revealed 
+a critically low pulmonary artery pressure of 8 mmHg, 
+indicating favorably low pulmonary vascular resistance. 
+Postoperatively, she experienced sustained clinical 
+improvement, with oxygen saturation typically ranging 
+from the mid-80s to approximately 90% on room air. The 
+patient was discharged with stable hemodynamics and no 
+perioperative complications.
+Review of previous studies
+We searched for reports on uncorrected univentricular 
+heart patients undergoing non-cardiac surgery (Table 
+2). We identified 6 case reports involving a total of 8 
+patients with uncorrected univentricular hearts who 
+underwent various non-cardiac surgeries [ 9–14]. Among 
+them, 5 patients underwent cesarean Sects [ 10, 12, 13]., 
+including both emergency and twin pregnancy cesar -
+ean deliveries. One patient had an abortion procedure 
+[11], one underwent an appendectomy [ 9], another had 
+emergency craniotomy for brain abscess removal [ 14]. 
+All surviving patients with uncorrected univentricular 
+heart were female, aged between 20 and 40 years, with 
+NYHA classifications ranging from II to III. Except for 
+one patient [ 13], the remaining 7 patients had varying 
+degrees of pulmonary hypertension. All 8 patients exhib -
+ited some degree of cyanosis, with preoperative oxygen 
+saturation levels ranging from 68% to 92%. The anesthetic 
+approaches for non-cardiac surgeries in these patients 
+varied: Among the 5 cesarean sections, 4 were performed 
+under combined spinal-epidural anesthesia [ 10, 12, 13], 
+while 1 was performed under general anesthesia [ 12]. 
+The patient with uncorrected univentricular heart who 
+had an appendectomy received intravenous anesthesia 
+combined with regional nerve block [ 9]. The patient who 
+underwent craniotomy for intracranial abscess removal 
+was managed under general anesthesia [ 14]. Multidisci -
+plinary teams (MDT) were involved in 90% of obstetric 
+cases, including cardiologists, obstetricians, anesthesiol -
+ogists, and neonatologists. MDT planning was critical for 
+optimizing hemodynamics and neonatal outcomes. The 
+majority of cases (75%) involved a univentricular left ven-
+tricle morphology, often accompanied by transposition 
+of the great arteries (58%) and pulmonary stenosis (PS, 
+67%). Pulmonary stenosis emerged as a critical compen -
+satory mechanism, limiting pulmonary blood flow and 
+reducing ventricular volume overload, thereby prolong -
+ing survival. None of the patients underwent transesoph -
+ageal echocardiography (TEE). No perioperative deaths 
+were reported in these patients, and all survived.
+Discussion
+The anesthetic management of patients with uncorrected 
+univentricular heart physiology presents formidable 
+challenges, necessitating meticulous multidisciplinary 
+coordination to address their unique hemodynamic vul -
+nerabilities. These individuals exhibit complex circula -
+tory adaptations, including limited cardiac reserve and 
+altered preload-afterload relationships, which predispose 
+them to profound intraoperative instability. Our case 
+highlights these challenges in a 28-year-old woman with 
+situs inversus, dextrocardia, and univentricular left ven -
+tricle physiology undergoing emergency laparotomy for 
+ruptured ectopic pregnancy.
+Patients with single-ventricle physiology rarely survive 
+into adulthood without palliative surgery. However, cer -
+tain anatomical configurations—such as a dominant left 
+ventricle with moderate pulmonary stenosis (PS)—may 
+permit compensated circulation by balancing systemic 
+and pulmonary blood flow. In our patient, PS (peak gra -
+dient: 59 mmHg) served as a protective mechanism, 
+preventing pulmonary over circulation while maintain -
+ing adequate systemic perfusion. This aligns with prior 
+observations that adults with balanced circulation and 
+Table 1 Considerations related to patient, anesthesia, and 
+surgery
+Patient-re-
+lated issues
+Univentricular physiology
+Chronic cyanosis and polycythemia
+Coagulation abnormalities
+Potential excessive blood loss due to ruptured ectopic 
+pregnancy
+Anesthesia-
+related 
+issues
+Vascular resistance systemic decreased during induction
+Myocardial contractility suppression by anesthetic agents
+Hypoventilation/hypercapnia may affect hemodynamics, 
+increasing pulmonary artery pressure
+Mechanical ventilation may reduce venous return
+Surgery-
+related 
+issues
+Laparoscopic surgery can reduce venous return
+Intra-abdominal hematoma compressing the inferior 
+vena cava, with further reduction in venous return after 
+abdominal incision
+Risk of endocarditis
+[[p5]]
+Page 5 of 7
+Xin et al. BMC Anesthesiology          (2025) 25:564 
+Table 2 Published case reports: non-cardiac surgery in patients with uncorrected univentricular heart
+Author Anomaly Age NYHA Pulmonary 
+stenosis
+Cyanosis SPO2 Anesthesia Whether mul-
+tidisciplinary 
+case discussion 
+conducted
+Was 
+esophageal 
+ultrasound 
+performed
+Outcome Surgery
+Hai-Zhen 
+Duan [11]
+Single atrium and univentricular heart with pulmonary 
+valve stenosis; left ventricle morphology; right-sided 
+univentricular heart
+40 NA Present Present 68 None NA NA Survived Abortion
+Yu Wu [9] Single atrium and univentricular heart with pulmonary 
+valve stenosis, common atrioventricular valve, moder-
+ate atrioventricular valve regurgitation
+20 III Present Present 72% Intravenous 
+anesthesia 
+and regional 
+nerve block 
+anesthesia
+Yes NA Survived Appendicec-
+tomy
+Gurpreet 
+Kaur [14]
+Univentricular heart with left ventricular morphology, 
+mitral valve stenosis; moderate tricuspid regurgitation, 
+transposition of the great arteries, pulmonary valve 
+stenosis
+22 NA Present Present 85% General 
+anesthesia
+NA NA Survived Emergency 
+craniotomy 
+for brain ab-
+scess removal
+Yu Du [10] Univentricular heart (with dominant left ventricle), 
+atrioventricular valve malposition, double-inlet left 
+ventricle, abnormal positioning of the great arteries, 
+pulmonary artery stenosis, atrial septal defect, and left-
+to-right shunt.
+35 II Present Present 85% Combined 
+spinal-epidural 
+anesthesia
+Yes NA Survived Twin preg-
+nancy cesar-
+ean section
+Jill Fong 
+[13]
+Univentricular heart, L-type transposition of the great 
+arteries (L-TGA), ventricular inversion, atrial septal de-
+fect, right atrioventricular valve atresia, mild subvalvular 
+and valvular stenosis
+29 II Present Present 86 Combined 
+spinal-epidural 
+anesthesia
+NA NA Survived Emergency 
+cesarean 
+section
+Kana 
+Wang [12]
+Univentricular heart (left-type) with double outlet; 
+severe pulmonary valve regurgitation; rightward 
+malposition of the aortic arch; moderate tricuspid and 
+mitral valve regurgitation
+26 I NA (severe 
+pulmonary 
+regurgitation)
+Present 80 Combined 
+spinal-epidural 
+anesthesia
+Yes NA Survived Cesarean 
+section
+Kana 
+Wang [12]
+Single left ventricle, tricuspid atresia, pulmonary steno-
+sis, atrial septal defect with bidirectional shunt, mural 
+thrombus in the left atrium.
+20 III Present Present 86 Combined 
+spinal-epidural 
+anesthesia
+Yes NA Survived Cesarean 
+section
+Kana 
+Wang [12]
+Single right ventricle with double outlet (ejection frac-
+tion [EF] = 52%), mitral valve atresia, atrial septal defect 
+with left-to-right shunt, pulmonary valve stenosis
+34 II-III Present Present 82 General 
+anesthesia
+Present NA Survived Cesarean 
+section
+[[p6]]
+Page 6 of 7
+Xin et al. BMC Anesthesiology          (2025) 25:564 
+preserved ventricular function (EF 59% in our case) may 
+experience delayed symptom onset despite uncorrected 
+anatomy [ 7, 15, 16]. The absence of Fontan palliation 
+further underscores the precarious equilibrium in such 
+patients, where even minor hemodynamic perturbations 
+can precipitate decompensation.
+The choice of open laparotomy over laparoscopic tech -
+niques was driven by the imperative for rapid hemorrhage 
+control and avoidance of pneumoperitoneum-induced 
+hemodynamic compromise. Increased intra-abdominal 
+pressure during laparoscopy could exacerbate preexisting 
+venous return limitations in single-ventricle physiology, 
+potentially triggering catastrophic hypotension [ 3]. Gen-
+eral anesthesia was prioritized over neuraxial techniques 
+due to coagulopathy (INR 1.33) and the need for precise 
+hemodynamic control.
+Anesthetic induction with etomidate and sufentanil 
+minimized myocardial depression while suppressing 
+sympathetic responses to laryngoscopy. Maintenance 
+with sevoflurane permitted rapid titration to surgical 
+stimuli, though its negative inotropic effects necessitated 
+cautious use. Hemodynamic stability was further chal -
+lenged post-peritoneal incision, with hypotension (82/40 
+mmHg) and tachycardia (HR 160 bpm) attributable to 
+multifactorial mechanisms:
+Preload Reduction: Abdominal decompression 
+abruptly decreased intra-abdominal pressure, causing 
+venous pooling and reduced cardiac filling—a phenom -
+enon analogous to post-decompression physiology in 
+abdominal compartment syndrome [17].
+Sympathetic Activation: Surgical nociception trig -
+gered adrenergic surges, exacerbating myocardial oxy -
+gen demand in a heart already compromised by chronic 
+hypoxemia.
+Fluid-Responsive Limitations: Despite aggressive 
+resuscitation with 800 mL compound sodium chloride 
+(CVP increased from 12 to 16 cmH₂O), single-ventricle 
+anatomy restricted preload tolerance, as elevated CVP 
+reflected ventricular diastolic dysfunction rather than 
+effective volume expansion.
+Interpreting the hemodynamic changes in this case was 
+challenging. The occurrence of refractory hypotension 
+alongside an elevated CVP following fluid administration 
+highlights the limitations of conventional monitoring in 
+single-ventricle physiology. This phenomenon could be 
+attributable to several mechanisms, including diastolic 
+dysfunction, volume overload, worsening atrioventricu -
+lar valve regurgitation, or myocardial stunning. With -
+out TEE, it was impossible to definitively discriminate 
+between these possibilities. TEE would have provided 
+an invaluable, real-time assessment of ventricular fill -
+ing, contractility, and valvular function. This would have 
+allowed for more precise guidance of fluid therapy, ino -
+tropic support, and vasopressor selection. This case 
+strongly underscores the recommendation to use TEE in 
+all high-risk non-cardiac surgeries involving patients with 
+complex CHD to optimize hemodynamic management.
+Although the use of 100% inspired oxygen during 
+induction is theoretically risky in single-ventricle physi -
+ology due to its potential to reduce pulmonary vascular 
+resistance and increase pulmonary blood flow, it was 
+deemed necessary in this emergency context. The need to 
+maximize oxygen reserve during rapid sequence induc -
+tion in a hypovolemic, cyanotic patient took precedence. 
+The patient’s fixed pulmonary stenosis had a protective 
+effect, as evidenced by the stability of her intraoperative 
+oxygen saturation within her baseline range.
+Notably, the absence of TEE hindered real-time 
+assessment of ventricular filling and contractility. In 
+similar high-risk cases, TEE has proven invaluable for 
+guiding fluid therapy and inotropic support, particularly 
+in patients with complex cardiac anatomy [ 3]. Therefore, 
+we strongly recommend using TEE to optimize hemody -
+namic management in such high-risk scenarios.
+This case underscores the critical role of interdisci -
+plinary collaboration. Cardiologists provided essen -
+tial insights into ventricular tolerance thresholds, while 
+obstetricians prioritized expeditious surgical intervention 
+to mitigate hemorrhagic shock. The patient’s subsequent 
+cavopulmonary anastomosis at 12 months postopera -
+tively exemplifies the longitudinal care required for sin -
+gle-ventricle patients, as progressive cyanosis ultimately 
+necessitated definitive palliation.
+Conclusion
+In the perioperative management of adults with an 
+uncorrected univentricular heart undergoing non-car -
+diac surgery, the underlying pathophysiology is crucial. 
+This includes the fragile equilibrium of the pulmonary-
+to-systemic flow ratio (Qp: Qs) and protective compen -
+satory mechanisms such as pulmonary stenosis. For 
+these high-risk patients, TEE is strongly recommended 
+to assess hemodynamics in real time. Standardized, mul -
+tidisciplinary protocols that integrate cardiology, anes -
+thesiology, and surgical expertise must be implemented 
+throughout the perioperative duration.
+Acknowledgements
+Not applicable.
+Authors’ contributions
+All authors contributed to the study conception and design. Writing - original 
+draft preparation: [Jiaying Xin]; Writing - review and editing: [Xuebo Bai]; 
+Conceptualization: [Xuebo Bai, Jiaying Xin, Jianguo Wang]; Methodology: 
+[Xuebo Bai, Jiaying Xin, Jianguo Wang, Laizhu Zhang]; Formal analysis and 
+investigation: [Xuebo Bai, Jiaying Xin, Jianguo Wang, Laizhu Zhang]; Resources: 
+[Xuebo Bai, Jiaying Xin]; Supervision: [Laizhu Zhang], and all authors 
+commented on previous versions of the manuscript. All authors read and 
+approved the final manuscript.
+[[p7]]
+Page 7 of 7
+Xin et al. BMC Anesthesiology          (2025) 25:564 
+Funding
+The study did not receive any specific funding from funding agencies in the 
+public, commercial, or non-profit sectors.
+Data availability
+The data used to support the findings of this study are included within the 
+article.
+Declarations
+Ethics approval and consent to participate
+Ethics approval was obtained from the Affiliated Hospital of Jining Medical 
+University (2024-03-C018).
+Consent for publication
+Written informed consent for the publication of their clinical details was 
+obtained from the patient. A copy of the consent form is available for review 
+by the Editor of this journal.
+Competing interests
+The authors declare no competing interests.
+Received: 23 May 2025 / Accepted: 21 October 2025
+References
+PM?g?`K?o?mK?k?rK?a?rM?s??????
+ventricle patient. Children. 2017;4(8).  h t t p s :   /  / d o  i .  o r  g  /  1 0  . 3 3   9 0  / c h i l d r e n 4 0 8 0 0 7 
+PM
+2. Khairy P , Poirier N, Mercier LA. Univentricular heart. Circulation. 
+2007;115(6):800–12.
+3. Zach KJ, Ramakrishna H, Chandrasekaran K, Weis RA. Laparoscopic colectomy 
+in an adult with single ventricle physiology: anesthetic implications and 
+management. Ann Card Anaesth. 2015;18(2):252–6.
+4. Erikssen G, Liestøl K, Aboulhosn J, Wik G, Holmstrøm H, Døhlen G, et al. Pre-
+operative versus postoperative survival in patients with univentricular heart: 
+a nationwide, retrospective study of patients born in 1990–2015. BMJ Open. 
+2023;13(7):e069531.
+5. Zheng WC, Lee MGY, d’Udekem Y. Fate of patients with single ventricles who 
+do not undergo the Fontan procedure. Ann Thorac Surg. 2022;114(1):25–33.
+6. Gesuete V, Fabi M, Bonvicini M. A 74-year-old unoperated univentricular 
+heart: the oldest reported survival. Cardiol Young. 2016;26(4):805–7.
+7. Terada M, Watanabe H, Iino K, Kakizaki M, Takahashi M, Ito H. Adequate 
+pulmonary stenosis allowed long-term survival in a patient with unoperated 
+single ventricle. J Am Coll Cardiol. 2012;59(13):e25.
+8. Backer CL, Mavroudis C. Congenital heart surgery nomenclature and data-
+base project: vascular rings, tracheal stenosis, pectus excavatum. Ann Thorac 
+Surg. 2000;69(4 Suppl):S308–318.
+9. Wu Y, Cai Z, Cheng J, Zhang B, Wang G, Li W, et al. An adult female patient 
+with single atrium and single ventricle undergoing appendectomy: a case 
+report. Front Cardiovasc Med. 2023;10:1110269.
+10. Du Y, Yang-Liu Y, Chen B, Wang J. Anesthetic management for Cesarean 
+section in parturient with an uncorrected single ventricle: a case report and 
+literature review. Medicine (Baltimore). 2022;101(24):e29421.
+11. Duan HZ, Liu JJ, Zhang XJ, Zhang J, Yu AY. Multiple miscarriages in a female 
+patient with two-chambered heart and situs inversus totalis: a case report. 
+World J Clin Cases. 2022;10(4):1333–40.
+12. Wang K, Luo H, Xin Y, Yu H. Successful pregnancy and delivery in patients 
+with uncorrected single ventricle: three new cases and literature review. Int J 
+Cardiol. 2015;184:135–9.
+13. Fong J, Druzin M, Gimbel AA, Fisher J. Epidural anaesthesia for labour and 
+caesarean section in a parturient with a single ventricle and transposition of 
+the great arteries. Can J Anaesth. 1990;37(6):680–4.
+14. Kaur G, Sethi S, Arya VK. Anaesthesia in a patient with univentricular heart for 
+emergency craniotomy: a case report. Indian J Anaesth. 2014;58(4):492–3.
+15. Poterucha JT, Anavekar NS, Egbe AC, Julsrud PR, Connolly HM, Ammash NM, 
+et al. Survival and outcomes of patients with unoperated single ventricle. 
+Heart. 2016;102(3):216–22.
+16. d’Udekem Y, Iyengar AJ, Cochrane AD, Grigg LE, Ramsay JM, Wheaton GR, et 
+al. The Fontan procedure: contemporary techniques have improved long-
+term outcomes. Circulation. 2007;116(11 Suppl):I157–164.
+17. Cheatham ML, Malbrain ML, Kirkpatrick A, Sugrue M, Parr M, De Waele J, et 
+al. Results from the International Conference of Experts on Intra-abdominal 
+Hypertension and Abdominal Compartment Syndrome. Part II. Recommen-
+dations. Intensive Care Med. 2007;33(6):951–62.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

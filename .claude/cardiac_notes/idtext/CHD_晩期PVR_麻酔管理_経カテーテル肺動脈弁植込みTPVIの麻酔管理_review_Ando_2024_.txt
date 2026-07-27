@@ -1,0 +1,275 @@
+
+[[p1]]
+― 119 ―
+1 九州大学病院手術部
+〒8128582 福岡県福岡市東区馬出 3 丁目 11
+TEL: 092 6425714
+E-mail: andoh.taichi.081 ＠m.kyushu-u.ac.jp
+2 九州大学病院麻酔科蘇生科
+〒8128582 福岡県福岡市東区馬出 3 丁目 11
+3 独立行政法人国立病院機構九州医療センター
+〒
+8108563 福岡県福岡市中央区地行浜 1 丁目 8 番地 1 号
+4 九州大学大学院医学研究院麻酔・蘇生学
+〒8128582 福岡県福岡市東区馬出 3 丁目 11
+― 119 ―
+◇症例報告 ◇
+経カテーテル肺動脈弁留置術（TPVI）の麻酔管理
+安藤太一  1， 白水和宏 1，小佐々 翔 子 2
+辛島裕士 3，山 浦 健 4
+抄録
+先天性心疾患術後の肺動脈弁閉鎖不全症が顕著化する
+成人患者が増加している。しかしながら，複数回の手術
+歴により，開心術のリスクが大きいと判断される症例に
+対し，米国では経カテーテル肺動脈弁留置術（
+TPVI:
+transcatheter pulmonary valve implantation ）が 2010 年
+より行われている。本邦においては 2023 年 3 月に
+HarmonyTM 経カテーテル肺動脈弁システム（日本メド
+トロニック株式会社，以下 Harmony TPV ）の臨床使用
+が開始された。Harmony TPV は自己拡張性ニチノール
+フレームに取り付けられたブタ心のう膜を用いた生体弁
+を，バイプレーン X 線血管撮影装置を用いて経カテー
+テル的に留置するシステムである。 TPVI は低侵襲であ
+る一方，非手術室麻酔管理を要すること，術者の技術不
+足による合併症，手技に伴う不整脈の出現，弁展開時に
+循環動態が不安定となるなど注意点が多い。今回，
+TPVI の麻酔管理を 2 例経験したので，管理上の注意点
+を報告する。
+キーワード 
+TPVI，経カテーテル肺動脈弁留置術，
+nonoperating room anesthesia ，肺動脈弁閉鎖不全症
+緒言
+本邦において 2023年 3 月に TPVI 専用デバイスであ
+る Harmony TPV が初めて臨床使用開始となった。今
+回，TPVI の麻酔管理を 2 例経験したので報告する。
+本人・家族承諾
+本人より承諾を得た。
+症例
+症例 181 歳の女性。身長 150 cm，体重 43 kg。
+41 歳時にファロー四徴症に対して transannular patch
+による心内修復術を施行された。 67 歳時に中等度肺動
+脈弁閉鎖不全症を指摘され， TPVI の方針となった。
+身体活動度は，日常生活動作は自立しているが労作時
+息切れを認め， NYHA 分類 2 度であった。発作性心房
+細動に対してワルファリンを内服していた。
+入院時理学所見血圧は 106/57 mmHg ，脈拍は 62/
+min，呼吸数は 12/min で経皮的酸素飽和度は 96（室
+内気）であった。
+検査所見推算糸球体濾過量（ eGFR）47 mL /min/
+1.73 m2 と腎機能低下を認めた。 12 誘導心電図は洞調律
+であった。経胸壁心エコー検査では， PHT（pressure
+half time ）124 msec，心臓 MRI 検査では RVEDVi 151
+ml/m2 と右室の拡大を認め， PR 逆流率 32.9と中等度
+肺動脈弁閉鎖不全症の所見であった。
+心臓カテーテル検査では CI（cardiac index ）3.4 L/
+m2,P C W P（pulmonary capillary wedge pressure ）10
+mmHg と Forrester 分類 1 群の血行動態であった。肺
+動脈圧は 41 / 4 / 17 mmHg と軽度上昇を認め， PVR
+（pulmonary vascular resistance ）3.4 Wood unit と肺血
+管抵抗上昇を認めた。冠動脈造影では有意な狭窄所見を
+認めなかった。
+麻酔は局所麻酔下に左橈骨動脈より動脈ラインを確保
+し，フェンタニル，ミダゾラム，ロクロニウムで導入
+し，気管挿管後に右内頚静脈より中心静脈カテーテルを
+挿入した。麻酔維持は空気，酸素，デスフルラン，レミ
+フェンタニルで行った。
+予定していた右肺動脈へのガイドワイヤー先進操作が
+難渋し，左肺動脈に先進へ変更した。加えて，弁の展開
+時に，生体弁デリバリーカテーテルシステム（
+DCS）
+[[p2]]
+― 120 ―
+図 1 Harmony 留置
+図 2 右室流出の阻害
+― 120 ―
+Cardiovascular Anesthesia VOL. 28 NO. 1 2024
+が右室流出路側に落ち込み，一旦回収が必要となった。
+再度 DCS を左肺動脈内に進め，慎重に弁を展開し，目
+的の位置で Harmony TPV 22 mm を留置した（図 1）。
+弁展開の段階で，右室流出の阻害（図 2）によると考え
+られる血圧の低下（ 110/47→69/37 mmHg）と CVP の
+上昇（7→16 mmHg）を認めたが，弁が完全に開放する
+と速やかに改善した。カテーテル操作時や DCS 挿入時
+に一過性に心室性不整脈と心室頻拍が出現（図 3）した
+が，リドカイン 40 mg の静注により消失した。また，
+弁留置後より V24, II, III, aVF 誘導で ST 上昇を認め
+たため，ニトログリセリンの持続投与を開始したが，冠
+動脈造影検査では狭窄・閉塞は認めず，その後自然経過
+で ST 上昇は改善した。手術終了後，抜管して ICU に
+入室し，術後腎機能の悪化なく経過した。
+症例 238 歳の女性。身長 156 cm，体重 55 kg。
+生後 1 ヶ月時にファロー四徴症と診断され， 3 歳時に
+transannular patch による心内修復術を施行され，以降
+経過良好で外来フォローされていた。 27 歳時の第 1 子
+出産時の心エコーで重症肺動脈弁逆流を認め， TPVI の
+方針となった。
+NYHA 分類 1 度であった。既往歴として，発作性上
+室性頻拍があるが，頻度は低いことから無治療経過観察
+中であった。
+入院時理学所見血圧は 109/69 mmHg ，脈拍は 85/
+min，呼吸数は 12/min で経皮的酸素飽和度は 98（室
+内気）であった。検査所見 12 誘導心電図は洞調律，
+完全右脚ブロックの所見であった。経胸壁心エコー検査
+所見では EF 62 と左室の収縮能は保たれており，
+asynergy は認めなかった。右心系の拡大と肺動脈弁閉
+鎖不全症を認め， PHT 102 msec ，心臓 MRI 検査では
+RVEDVi 203 ml /m2 と右室の拡大を認め， PR 逆流率
+56.2と重症肺動脈弁閉鎖不全症の所見であった。
+心臓カテーテル検査では CI 3.6 L /m2,P C W P6
+mmHg と Forrester 1 群の血行動態であった。肺動脈圧
+は 27/3/10 mmHg, PVR 0.5 Wood unit であった。
+麻酔は症例 1 と同様とした。弁留置直後に上室性頻
+拍が出現したが，バルサルバ手技施行後すみやかに改善
+した（図 4）。なお，症例 1 の際に出現した弁留置の際
+
+[[p3]]
+― 121 ―
+図 3 一過性心室性不整脈と心室頻拍
+図 4 頻拍性不整脈に対するバルサルバ手技の効果
+― 121 ―
+経カテーテル肺動脈弁留置術（TPVI）の麻酔管理
+の血圧低下と CVP 上昇は本症例では認めなかった。
+考察
+今回，当院初の TPVI 症例の麻酔管理を経験した
+が，循環器内科医との事前の打ち合わせと数回のシミュ
+レーションを行うことによって，無事に行うことができ
+た。重症肺動脈弁閉鎖不全症に対する麻酔管理に加え，
+本治療に特有の心室性不整脈と人工弁展開時に右室流出
+路の阻害による血圧の低下と中心静脈圧の上昇を認める
+ことがあり注意を要する。
+一般的に，再開胸を伴う心臓外科手術は通常と比べ
+て，手術リスクが増加する?PH。souh?の適応となりうる
+患者は，過去に複数回の開胸手術を受けていることも多
+く，TPVI により再開胸手術の回避，入院期間の短縮が
+なされ，早期の社会復帰が可能となる。加えて， TPVI
+で使用される生体弁の耐久性は，一般的に 10 年から 15
+年程である。 TPVI 後に機能不全に陥り，再手術が必要
+な場合にも，再度 TPVI を選択することもでき（ valve
+in valve ），生涯の開胸手術の回数を減らすことができ
+る。
+TPVI の適応となる患者はその多くが先天性心疾患を
+有しており，小児期に心内修復術を受けている。肺動脈
+弁の異常以外にも解剖学的異常を有していることが多
+く，カテーテルの誘導が困難な場合がある。繰り返しの
+カテーテル操作で不整脈が出現することがあり，循環動
+態が不安定になることがある。
+TPVI は正確な弁留置位置の決定のためにバイプレー
+ン血管撮影装置が必要である。しかし，手術室内にバイ
+プレーン血管撮影装置を有する施設は非常に限られてお
+り，手術室外で高難度手術の麻酔管理を求められること
+が多い。
+合併症対策
+TPVI はラーニングカーブのある手技であることか
+ら，新規治療システムの導入初期においては合併症の頻
+度が多い傾向にある 3)。TPVI の合併症として，カテー
+テル操作に伴う不整脈の出現，肺損傷，三尖弁損傷，心
+破裂や弁血栓，冠動脈狭窄などが報告されている 4)。
+
+[[p4]]
+― 122 ―― 122 ―
+Cardiovascular Anesthesia VOL. 28 NO. 1 2024
+症例 1 は非持続性で血行動態の不安定でない心室性
+不整脈であったため，リドカイン静注で対応した。その
+他に選択可能な抗不整脈薬としてはランジオロール，ア
+ミオダロン，ニフェカラントがある。
+症例 2 は血行動態の不安定でない上室性頻拍であっ
+たので，バルサルバ手技を行い，改善に至った。バルサ
+ルバ手技で改善を認めなければ ATP 急速静注を行い，
+無効であればベラパミル静注，ジルチアゼム静注を行
+う。他に選択可能な抗不整脈薬としては，ジソピラミ
+ド，ジベンゾリン，ピルジカイニド，フレカイニド，プ
+ロカインアミドなどがある。
+症例
+1，症例 2 いずれも除細動パッドを貼付していた
+ので，血行動態の不安定な上室性・心室性不整脈であれ
+ばカルディオバージョンを選択する。
+最も注意を要するのが弁の展開時である。展開の際
+に，弁の末梢側は展開されているものの，中枢側はまだ
+DCS に収納された状態である。この状態が続けば，右
+室流出路から肺動脈への血流の減少により， CVP の上
+昇と血圧低下をきたす 5)。弁留置後に改善すれば治療不
+要だが，改善を認めなければ急性右心不全や，弁の留置
+位置不良，もしくは弁の動作不良の可能性を疑うべきで
+ある6)。その場合は extracorporeal membrane oxygena-
+tion を緊急導入し，手術室へ移動して開胸手術での肺動
+脈弁置換術が必要となる 7)。このような事態を想定し，
+対応可能な手術室を開けておく必要がある。
+結論
+TPVI は経カテーテル的に肺動脈弁留置を行うことが
+できる点で，患者にとって低侵襲の手術である。しか
+し，通常とは異なる環境での麻酔管理であること，本邦
+では導入されたばかりであることから術者の技術不足に
+よる合併症や，まだ報告されていない合併症の出現には
+十分注意が必要である。
+利益相反
+開示すべき利益相反はない。
+引用文献
+1 ) Dayan V, Arocena MJ, Fernandez A, et al: Previous
+Cardiac Surgery: a Predictor of Mortality in Aortic Valve
+Replacement? Braz J Cardiovasc Surg. 2019 Mar
+Apr; 34
+(2): 173 178
+2 ) Giugno L, Faccini A, Carminati M, et al: Percutaneous Pul-
+monary Valve Implantation. Korean Circ J. 2020 Apr; 50
+(4): 302 316
+3 ) Plessis J, Hasco äet S, Baruteau A, et al: Edwards SAPIEN
+Transcatheter Pulmonary Valve Implantation: Results
+From a French RegistryJACC Cardiovasc Interv. 2018; 11:
+19091916
+4 ) Ru ·zy+l+lo Witold, El ·zbieta K Biernacka, Olgierd Wo ázniak,
+et al: Transcatheter pulmonary valve implantation in 100
+patients: A 10
+year single-center experience Postepy
+Kardiol Interwencyjnej. 2020 Sep; 16 (3): 235 243
+5 ) Nordmeyer J, Ewert P, Gewillig M, et al: Acute and mid-
+term outcomes of the post-approval MELODY Registry: a
+multicentre registry of transcatheter pulmonary valve im-
+plantation. Eur Heart J. 2019 Jul 14; 40
+(27): 2255 2264.
+6 ) Kenny D, Hijazi ZM, Kar S, et al: Percutaneous implanta-
+tion of the Edwards SAPIEN transcatheter heart valve for
+conduit failure in the pulmonary position: early phase 1
+results from an international multicenter clinical trial. J Am
+Coll Cardiol. 2011 Nov 15; 58
+(21): 2248 56.
+7 ) Shahanavaz S, Zahn EM, Levi DS, et al: Transcatheter Pul-
+monary Valve Replacement With the Sapien Prosthesis. J
+Am Coll Cardiol. 2020 Dec 15; 76
+(24):2 8 4 72858.
+[[p5]]
+― 123 ―― 123 ―
+経カテーテル肺動脈弁留置術（TPVI）の麻酔管理
+Anesthetic management for transcath eter pulmonary valve implantation
+Taichi Ando 1, Kazuhiro Shirozu 1, Shoko Ozasa 2, Yuji Karashima 3, Ken Yamaura 4
+1Operating rooms, Kyushu University Hospital 3 11 Maidashi, Higashi-ku, Fukuoka 812 8582, Japan
+2Department of Anesthesiology and Critical Care Medicine, Kyushu University Hospital
+311 Maidashi, Higashi-ku, Fukuoka 812 8582, Japan
+3Department of Anesthesiology, National Hospital Organization Kyushu Medical Center
+181 Jigyohama, Chuo-ku, Fukuoka 810 8563, Japan
+4Department of Anesthesiology and Critical Care Medicine, Kyushu University Graduate School of Medical Sciences
+311 Maidashi, Higashi-ku, Fukuoka 812 8582, Japan
+Signiˆcant pulmonary valve regurgitation after con-
+genital heart disease surgery in adults is being observed
+increasingly. Since 2010, transcatheter pulmonary valve
+implantation
+(TPVI) is being performed in the United
+States in patients with a history of multiple operations,
+who are considered at high risk for open heart surgery.
+The Harmony? Transcatheter Pulmonary Valve System
+(Medtronic Japan, Inc., [Harmony TPV ]) was in-
+troduced into clinical practice in Japan in March 2023. It
+is a transcatheter implantation system that uses a por-
+cine pericardial bioprosthetic valve attached to a
+self-expandable nitinol frame. Transcatheter implanta-
+tion of the device is performed using a biplane X ray an-
+giography system. Although TPVI is minimally invasive,
+the caveats associated with this approach include the
+need for nonoperating room anesthesia management,
+complications attributable to poor surgical skill,
+procedure-related arrhythmias, and circulatory instabili-
+ty during valve deployment.
+In this report, we describe our experience with anesthe-
+sia management in two cases of TPVI.
+Key Words : TPVI; transcatheter pulmonary valve implantation; nonoperating room anesthesia; pulmonary valve
+regurgitation

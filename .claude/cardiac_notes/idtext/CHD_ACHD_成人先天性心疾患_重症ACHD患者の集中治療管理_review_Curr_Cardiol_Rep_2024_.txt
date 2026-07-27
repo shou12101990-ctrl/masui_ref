@@ -1,0 +1,895 @@
+
+[[p1]]
+Vol.:(0123456789)
+Current Cardiology Reports (2024) 26:283–291 
+https://doi.org/10.1007/s11886-024-02034-5
+CARDIOVASCULAR CRITICAL CARE (A HIGGINS AND R LEE, SECTION EDITORS)
+Caring for the Critically Ill Adult Congenital Heart Disease Patient
+Thomas Das1 · Penelope Rampersad1 · Joanna Ghobrial1 
+Accepted: 21 February 2024 / Published online: 9 April 2024 
+© The Author(s) 2024
+Abstract
+Purpose of Review This review aims to discuss the unique challenges that adult congenital heart disease (ACHD) patients 
+present in the intensive care unit.
+Recent Findings Recent studies suggest that ACHD patients make up an increasing number of ICU admissions, and that 
+their care greatly improves in centers with specialized ACHD care. Common reasons for admission include arrhythmia, 
+hemorrhage, heart failure, and pulmonary disease.
+Summary It is critical that the modern intensivist understand not only the congenital anatomy and subsequent repairs an 
+ACHD patient has undergone, but also how that anatomy can predispose the patient to critical illness. Additionally, intensiv-
+ists should rely on a multidisciplinary team, which includes an ACHD specialist, in the care of these patients.
+Keywords Critical care cardiology · Adult congenital heart disease · Mechanical circulatory support · Intensive care
+Introduction
+Due to advances in the recognition and management of con-
+genital heart disease (CHD), the survival of patients in the 
+pediatric population has dramatically increased. Survival 
+into adulthood is now expected for 90% of children diag-
+nosed with CHD, and more adults are estimated to be liv -
+ing with CHD than children [1 –4]. As the adult congenital 
+heart disease (ACHD) population continues to grow, the 
+prevalence of hospitalization and intensive care unit admis-
+sion for these patients has also increased [5 ]. One Critical 
+Care Cardiology Trials Network study showed that ACHD 
+patients make up approximately 2% of all cardiac intensive 
+care unit (CICU) admissions [6 ]. Despite their relatively 
+small number, these patients present unique anatomic and 
+physiologic challenges in the adult ICU that the contempo-
+rary intensivist should be familiar with. In a single-center 
+study of 138 ACHD ICU admissions, the most common 
+reasons for admission were arrhythmia, hemorrhage, heart 
+failure, and pulmonary disease [7 •]. This review aims to 
+discuss practical disease-specific management strategies  
+and general ICU considerations for the ACHD patient.
+General Principles
+Successfully caring for the critically ill ACHD patient 
+depends on the practicing intensivist knowing their patient 
+and adjusting their management for personalized care 
+depending on the underlying CHD. Understanding the ini-
+tial congenital anatomy, as well as the subsequent surgical 
+and transcatheter repairs, is a crucial first step. Reviewing 
+surgical or catheterization reports can lead to key insights 
+on potential triggers for decompensation. If these reports are 
+unavailable, providers must be able to reverse engineer this 
+history from available imaging (whether it be echocardio-
+graphic or cross-sectional). In addition to characterizing the 
+cardiac substrate, the baseline end-organ function should be 
+determined; several ACHD patients, particularly those with 
+Fontan circulations, have concomitant pulmonary, renal, 
+hepatologic, and hematologic dysfunction that can further 
+complicate critical illness. Reviewing objective data is nec-
+essary, as ACHD patients may not be able to provide the 
+details of their prior history and, at times were misinformed 
+that they were “cured” following childhood surgery [8].
+Given the highly multifaceted nature of managing the 
+critically ill ACHD patient, it is imperative that intensivists 
+seek the insight and guidance of a multidisciplinary team, 
+especially the ACHD specialist. Depending on the underly-
+ing anatomy and illness, this can include specialists in car -
+diac surgery, interventional cardiology, electrophysiology, 
+ * Joanna Ghobrial 
+ ghobrij@ccf.org
+1 Heart, Vascular and Thoracic Institute, Cleveland Clinic, 
+9500 Euclid Avenue, Cleveland, OH 44195, USA
+[[p2]]
+284 Current Cardiology Reports (2024) 26:283–291
+imaging, advanced heart failure, and non-cardiac specialists 
+such as hepatology, nephrology, and pulmonology. In all 
+cases, intensivists should seek the input and collaboration 
+of a provider with specific expertise in adult congenital heart 
+disease [9 , 10]. ACHD patients cared for in centers with 
+ACHD expertise have better outcomes than those patients in 
+centers without this expertise, including improved mortal-
+ity [11]. If a given center is unable to provide this level of 
+expertise, patient transfer to a more appropriately equipped 
+center should be explored if the patient can be safely trans-
+ported [12].
+Whether ACHD patients are best cared for in a pediatric 
+or adult intensive care unit is controversial. While providers 
+in a pediatric setting are likely more familiar with the under-
+lying anatomic underpinnings of CHD, those in an adult 
+setting may have more experience in managing the multiple 
+comorbidities often associated with adulthood. This decision 
+should be made on a case-by-case basis, as whichever setting 
+has the resources that best match the patient’s needs is likely 
+most appropriate.
+Hemodynamic Assessment
+An accurate and thorough hemodynamic assessment can be 
+vital in identifying etiologies of critical illness and monitor-
+ing response to therapy in ACHD patients. An assessment 
+of blood pressure, peripheral oxygenation, cardiac output, 
+systemic resistance, and pulmonary resistance should be 
+obtained, and compared to baseline “well” evaluations; 
+while a systolic blood pressure less than 90 mmHg or oxy -
+genation saturation of less than 88% may identify critical 
+illness in some patients, these values could represent base-
+line conditions in some ACHD anatomies [13]. Furthermore, 
+complex congenital anatomy can present several challenges 
+in otherwise routine hemodynamic monitoring. This is par -
+ticularly true in measuring the blood pressure, as both non-
+invasive and invasive blood pressure readings can be falsely 
+low in the setting of a prior classic Blalock-Thomas-Taussig 
+(BTT) shunt due to anastomosis of the subclavian and pul-
+monary arteries [14]. If an invasive arterial line is needed, 
+the radial artery of the arm not affected by the shunt or a 
+femoral artery should be used. A similar situation may be 
+encountered in patients with severe coarctation, where the 
+initial coarctation site and the subsequent repairs can affect 
+accurate blood pressure assessment. In patients with a shunt, 
+such as a patent ductus arteriosus (PDA) and Eisenmenger 
+syndrome, care must be given to obtaining saturations pre- 
+and post-shunt, in both upper and lower extremities to assess 
+pre- and post-ductal saturations and estimate shunting.
+While invasive real-time hemodynamic monitoring 
+using a pulmonary artery catheter is returning to promi-
+nence in the CICU, this can be challenging and potentially 
+contra-indicated in certain congenital anatomies [15]. In 
+some scenarios, it can be misleading; in patients with pul-
+monary atresia with multi-level branch pulmonary stenosis 
+(PS), a wedge pressure may be inaccurately elevated at the 
+site of PS, and a direct left ventricular (LV) end-diastolic 
+pressure (EDP) is the more accurate assessment of LV 
+preload. Furthermore, in severe right ventricular (RV) to 
+pulmonary artery (PA) conduit stenosis, an elevated RV 
+systolic pressure is not indicative of pulmonary hyperten-
+sion, and crossing a critically stenotic conduit may be both 
+difficult and lead to further reduction in pulmonary blood 
+flow or hemodynamic compromise. Given the higher risk of 
+thrombosis, patients with Fontan conduits should not have 
+an indwelling central venous or pulmonary artery catheter 
+placed that remains in the Fontan conduit; if one is left 
+in situ, one should strongly consider systemic anticoagula-
+tion [16]. Given the importance of maintaining adequate 
+preload in the Fontan circulation, a simple central venous 
+catheter that terminates in the SVC may be considered for 
+a short period of time when large fluid shifts are expected, 
+such as during a large-volume paracentesis or aggressive 
+diuresis [17]. If needed, right heart catheterization should 
+be fluoroscopically guided with removal of the catheter at 
+the conclusion of the procedure.
+Cardiopulmonary Resuscitation
+Special note should be paid to the challenges in performing 
+CPR in patients with Fontan circulations. In these patients, 
+due to the lack of a sub-pulmonic ventricle, during chest 
+compression, blood can flow backward in the Fontan con-
+duit, limiting the effectiveness of CPR. This often leads to 
+inadequate pulmonary blood flow during chest compres-
+sions, leading to decreased oxygenation and preload to the 
+systemic ventricle, and subsequently decreased cardiac 
+output and end-organ perfusion. Central venous pressure 
+rises significantly, worsening cerebrovascular congestion 
+and increasing the risk of neurological injury. These con-
+siderations do not mean that CPR should not be performed 
+or shortened in these patients, but rather that  the transition 
+from CPR to emergent mechanical support may need to be 
+expedited. Patients with dextrocardia may also have a more 
+rightward point of optimal chest compressions and defibril-
+lation than those with levocardia [18].
+Pulmonary Disease and Mechanical 
+Ventilatory Support
+ACHD patients often have underlying pulmonary disease, 
+such as restrictive lung disease from multiple prior cardiac 
+surgeries or cardiomegaly, diaphragmatic paralysis due to 
+[[p3]]
+285Current Cardiology Reports (2024) 26:283–291 
+phrenic nerve injury, and airway disease from multiple 
+intubations [19]. Additionally, pulmonary hypertension 
+can be present in up to one-third of patients with ACHD. 
+Due to low pulmonary reserve, concomitant pulmonary 
+hypertension, and alterations in pulmonary vascular 
+blood flow, ACHD patients are often uniquely suscep-
+tible to pulmonary insults [20]. In patients with Fontan 
+conduits dependent on passive blood flow through the 
+pulmonary vascular bed, conditions in which pulmonary 
+vascular resistance acutely rises can lead to a dramatic 
+drop in preload of the single ventricle and subsequent 
+hemodynamic collapse [21, 22]. This includes pneumo-
+nia, pulmonary embolism, pneumothorax, and excessive 
+positive end-expiratory pressure (PEEP) in the setting of 
+mechanical ventilation. Diagnosis of pulmonary embo -
+lism can be particularly nuanced in Fontan patients, as 
+differential distribution of contrast through the Fontan 
+and Glenn conduits can lead to false positive diagnosis; 
+this can be ameliorated by dual contrast injections via the 
+upper and lower limbs or by protocoling the imaging to 
+allow adequate contrast circulation for complete opacifica-
+tion through the pulmonary vasculature. At times invasive 
+pulmonary angiography is indicated to definitively diag-
+nose and potentially intervene in pulmonary emboli [23].
+Tailoring oxygenation support can be challenging in 
+ACHD patients with cyanosis or residual shunts, as a 
+peripheral oxygenation saturation of less than 90% may 
+represent their baseline. Worsening oxygen saturation 
+below baseline, worsening respiratory rate, or lactic aci-
+dosis can all signal relative hypoxemia necessitating sup-
+plemental oxygenation. Conversely, intensivists should 
+recognize that targeting a “normal” oxygenation in these 
+patients before de-escalating support is detrimental and 
+should instead individualize O2 goals to the individual 
+patient.
+Just as the number of ACHD patients admitted to the ICU 
+has increased over recent years, so, too, has the number of 
+ACHD patients requiring mechanical ventilation [24]. Intu-
+bation can have severe detrimental hemodynamic effects on 
+congenital anatomies; an acute drop in preload associated 
+with induction can cause hemodynamic collapse in patients 
+with Fontan circulation.  Excessive PEEP, which reduces 
+preload and increases afterload, can worsen failing sub-
+pulmonic ventricles in the setting of pulmonary hyperten-
+sion or Tetralogy of Fallot (ToF). The increase in pulmonary 
+afterload from mechanical ventilation could acutely worsen 
+an intra-atrial right to left shunt, causing profound hypoxia, 
+which in turn can further exacerbate pulmonary vascular 
+constriction [25]. Conversely, the decrease in LV after -
+load and preload associated with PEEP can be beneficial 
+in patients with predominantly systemic ventricular failure. 
+Consequently, intubation of ACHD patients should be per -
+formed by providers familiar with congenital anatomy and 
+cardiac anesthesia. Interestingly, one single-center study 
+showed that ACHD patients have a relatively low incidence 
+of difficult endotracheal intubation when compared to non-
+ACHD patients, possibly due to a different age and weight 
+profile compared to the general population [26] .
+Hepatic Disease
+Patients with congenital heart disease often have comorbid 
+liver dysfunction due to venous congestion, decreased car -
+diac output, hypoxemia, or ischemic injury to the hepatic 
+parenchyma. This is especially common in patients with 
+right-sided lesions (such as ToF or Ebstein anomaly), or 
+in single ventricle physiology palliated with Fontan cir -
+culation [27]. For patients who underwent surgery before 
+1992, viral hepatitis infection from a blood transfusion 
+should also be considered an etiology of liver disease [28]. 
+As ACHD patients age and develop, the comorbidities of 
+adulthood, cirrhosis due to alcohol use, or non-alcoholic 
+fatty liver disease has also been observed in this popu-
+lation. Regardless of the etiology, patients with ACHD 
+and liver disease suffer from coagulopathies and aberrant 
+hemodynamics that can further complicate their care in 
+the ICU. Fontan-associated liver disease can be particu-
+larly challenging to recognize, as these patients do not 
+exhibit the elevation in transaminases or transhepatic gra -
+dient seen in other forms of liver disease [ 29]. However, 
+the presence of FALD can often complicate an advanced 
+therapy evaluation for a critically ill Fontan patient, and 
+candidacy for both liver and heart transplantation would 
+need to be evaluated [30]. Another consideration in criti-
+cally ill patients with failing Fontan physiology is severe 
+protein-calorie malnutrition secondary to protein losing 
+enteropathy (PLE), characterized by hypoalbuminemia, 
+enteric protein loss, diarrhea, and edema. Several patho-
+physiological mechanisms have been proposed to explain 
+this phenomenon, including chronic inflammation and 
+chronic central venous congestion. It is associated with 
+significant morbidity and mortality in this population, and 
+is an indication for transplant evaluation.
+Renal Disease
+Chronic kidney disease is common in the ACHD popula-
+tion and is associated with an increased risk of adverse 
+outcomes [31 ]. This is especially true in ACHD patients 
+with cyanosis, as more than 65% of these patients have 
+some degree or renal dysfunction [32]. Quantification of 
+glomerular filtration rate should ideally be done using a 
+cystatin C–based method, as this has been shown to more 
+[[p4]]
+286 Current Cardiology Reports (2024) 26:283–291
+accurately predict clinical events than creatinine-based 
+methods in ACHD patients [33]. Management of renal 
+dysfunction and acute kidney injury is largely similar in 
+ACHD patients to that in non-ACHD cardiac patients, on 
+optimizing pre-load and perfusion, decreasing renovas-
+cular congestion, and if needed, initiation of continuous 
+renal replacement therapy. Notably, patients with a single 
+ventricle physiology often do not tolerate the large volume 
+shifts associated with hemodialysis, complicating the tran-
+sition from continuous to intermittent dialysis.
+Hematological Disease
+ACHD patients are uniquely prone to both clotting and 
+hemorrhagic complications, depending on their underlying 
+anatomy. Patients with cyanotic heart disease and Eisen-
+menger syndrome exhibit secondary erythrocytosis, platelet 
+dysfunction, decreased fibrinogen, hemostatic abnormali-
+ties, and endothelial dysfunction. This constellation of risk 
+factors uniquely predispose Eisenmenger patients to both 
+spontaneous bleeding events (the most dire being hemopty-
+sis and intrapulmonary hemorrhage) and thromboembolic 
+events, which can lead to cerebrovascular injury due to right 
+to left shunting [34]. Therapeutic phlebotomy should only be 
+pursued in the presence of severe hyper-viscosity symptoms 
+(such as acute thrombosis and neurological injury) despite 
+adequate hydration. Fontan patients are also at increased risk 
+of thrombus formation due to sluggish circulation through-
+out the passive sub-pulmonic conduit; this can lead not only 
+to Fontan failure but also paradoxical emboli and stroke with 
+residual fenestrations or venovenous collaterals.
+Acute blood loss anemia in patients with baseline eryth-
+rocytosis can also be difficult to recognize, as a significant 
+drop in hemoglobin or hematocrit could still fall in the “nor-
+mal” lab range. Screening for iron deficiency and repleting 
+iron stores improves oxygen-carrying capacity. Assessing 
+for changes in the hemodynamics or end-organ perfusion 
+can help guide resuscitation with blood products in these 
+patients.
+Primary Cardiac Disease
+Arrhythmia
+Both tachyarrhythmia and bradyarrhythmia are commonly 
+encountered in the ACHD population and can often lead to 
+ICU admission. Intra-atrial reentry tachycardia (IART), in 
+which the scarred atria promote the development of macro 
+re-entry pathways independent of the cavo-tricuspid isth-
+mus, is the most commonly encountered atrial arrhythmia in 
+ACHD patients (though atrial fibrillation and typical flutter 
+are also common) [35]. Atrioventricular reentrant tachycar-
+dia and Wolff-Parkinson-White syndrome should also be 
+considered in patients with Ebstein anomaly, Ebstein-like 
+tricuspid valves, or congenitally corrected transposition of 
+the great arteries (ccTGA) ebstinoid valves [36]. As the 
+loss of AV synchrony and the atrial kick can cause hemo -
+dynamic collapse in an already tenuous congenital anatomy 
+(such as cyanotic disease or single ventricle physiology), 
+atrial arrhythmias should be treated expeditiously with a 
+rhythm control strategy (either medically or through electri-
+cal cardioversion). Notably, CHA2DS2-VASc scores do not 
+accurately predict the risk of thromboembolism in ACHD 
+patients, and ACHD patients with atrial arrhythmia are typi-
+cally anticoagulated [37]. Ventricular tachycardias are com-
+monly seen in patients with ToF, either due to underlying 
+myopathic processes or isthmus defined by surgical scar and 
+patch material. While ToF patients may have implanted car-
+diac defibrillators (ICDs), they also have a high burden of 
+inappropriate shocks due to atrial arrhythmias [38]. A care-
+ful device interrogation should be performed before incor -
+rectly diagnosing such a patient with electrical storm. In the 
+setting of incessant tachyarrhythmia refractory to medical 
+therapy, catheter-based ablation procedures can be consid-
+ered; these should be performed by electrophysiologists with 
+expertise in congenital anatomy.
+Bradyarrhythmias in congenital heart disease can be cat-
+egorized into congenital abnormalities of the conduction 
+system, acquired bradyarrhythmias following surgical or 
+percutaneous intervention, or mixed causes [39]. Patients 
+with ccTGA are at high risk of progressive heart block 
+due to anatomic distortion of the conduction system, with 
+mean age of heart block occurrence of 18 years old. Addi-
+tionally, many surgical repairs of CHD can lead to sinus 
+node dysfunction, including atrial switch procedures in D-  
+transposition of the great arteries (i.e., Mustard and Senning 
+surgeries) and repair of sinus venosus ASDs. Infrequently, 
+transcatheter membranous VSD device closure can lead to 
+heart block. Depending on the presence of a sub-pulmonic 
+ventricle and adequate venous access, placement of an emer-
+gent temporary transvenous pacemaker may not be possible 
+in the ICU setting (though emergent placement of a trans -
+venous pacemaker in a Fontan baffle has been reported) [40]. 
+In these cases, pharmacologic methods to increase chronot-
+ropy and even transcutaneous pacing may need to be pur -
+sued to bridge the patient to definitive surgical epicardial 
+pacemaker placement.
+Heart Failure
+Acute decompensated heart failure (ADHF) is a leading 
+cause of death in ACHD patients and represents a signifi -
+cant burden of ACHD ICU admissions [7•, 41]. Early stages 
+of decompensation can sometimes be difficult to identify in 
+[[p5]]
+287Current Cardiology Reports (2024) 26:283–291 
+ACHD patients who have lived with a limited functional 
+capacity since childhood; consequently some patients may 
+not present to care until they are in extremis. Medical heart 
+failure therapy in a biventricular circulation with a morpho-
+logical systemic left ventricle does not differ much from that 
+in the acquired heart failure population. Guideline-directed 
+medical therapy (including beta blockers, ACEi/ARB/ARNI, 
+SGLT2 inhibitors, and mineralocorticoid antagonists) should 
+be pursued [42 •]. However, patients with single ventricle 
+physiology and systemic right ventricles may not respond 
+the same to heart failure medications and there has been 
+inconclusive evidence of benefit.
+When assessing the ACHD patient in ADHF, identifying 
+potentially correctible lesions can be crucial in guiding care 
+and delaying the need for advanced therapies; these include 
+pulmonary valve regurgitation in tetralogy of fallot, baffle 
+obstruction or leak in d-TGA with atrial switch, systemic 
+tricuspid valve regurgitation in ccTGA and patients with 
+Norwood corrections, and Fontan conduit obstructions [13, 
+43]. Transcatheter interventions can sometimes correct these 
+lesions, and reverse the underlying shock state [44, 45]. As 
+ACHD patients age and accrue risk factors for atheroscle-
+rosis, acute coronary syndromes should also be considered 
+correctable triggers for ADHF in the ACHD population [46, 
+47]. Anomalous coronary arteries, myocardial bridges, and 
+coronary compression from an aneurysmal pulmonary artery 
+or oversized prosthetic pulmonary valve can also lead to 
+myocardial ischemia and, ultimately, shock in certain ACHD 
+patients [48, 49].
+Advanced heart failure is a common end point in patients 
+with an underlying myopathic process, such as those with 
+systemic right ventricles, severe pulmonary hypertension with 
+failure of the sub-pulmonic ventricle, tetralogy of fallot, and 
+single-ventricle physiologies with Fontan palliation. As with 
+acute decompensated heart failure-cardiogenic shock (ADHF-
+CS) in the non-ACHD population, initial medical therapy 
+focuses on optimizing volume status and supporting blood 
+pressure. In right heart failure lesions, attention should be 
+made to maintain adequate preload without over-distending 
+a failing RV, as well as reducing the RV afterload with PVR 
+reduction and maintaining adequate SVR for renal perfu-
+sion. In Fontan circulations, a higher central venous pres-
+sure should be targeted as filling of the single ventricle is 
+particularly preload sensitive [50]. Vasoactive medications 
+should be selected based on the underlying hemodynamic 
+profile and insult; norepinephrine or epinephrine is generally 
+a reasonable starting choice; however, both can increase PVR 
+and promote arrhythmias. Vasopressin could be considered in 
+patients with pulmonary hypertension given selective effects 
+on peripheral vasoconstriction without significantly affecting 
+PVR [51]. In select patients with single-ventricle physiology, 
+a combination of an inotropic agent (such as milrinone or 
+dobutamine) to improve single-ventricular function plus a 
+pulmonary vasodilator (such as inhaled nitric oxide, iloprost, 
+or epoprostenol) to improve flow through the “bottle neck” 
+of the pulmonary vascular bed can improve cardiac output. 
+While potentially effective, consideration should be made to 
+hypotension with this combination.
+In patients with worsening ADHF-CS refractory to 
+medical therapy, temporary mechanical circulatory support 
+(tMCS) should be considered. From 2004–2014, the use of 
+tMCS in ACHD patients has increased by over 250%; how-
+ever, this has not been accompanied by improved in-hospital  
+mortality, which can be as high as 58–60% [52]. When 
+deploying tMCS in ACHD patients, determining which 
+ventricles need to be supported and the vascular access 
+for delivering the chosen devices are both key considera-
+tions. As these patients have often undergone several vas -
+cular access procedures throughout their lifetimes, scarring 
+around access sites, or chronic occlusions of vessels, can 
+complicate deployment of tMCS. Univentricular systemic 
+ventricle support devices (such as the intra-aortic balloon 
+pump or impella percutaneous ventricular assist device) have 
+both been deployed in patients with congenital heart disease 
+[53–55]. The use of right (or sub-pulmonic) ventricular sup-
+port devices is still growing in the general ICU population, 
+though it may have particular utility in the ACHD popula-
+tion that often suffers from sub-pulmonic ventricular fail-
+ure [56–58]. In situations where biventricular support and 
+oxygenation support is needed, veno-arterial extracorporeal 
+membrane oxygenation (VA-ECMO) should be considered. 
+One retrospective study showed that patients with ACHD 
+who required ECMO had longer lengths of stay and suffered 
+more complications than those without ACHD [59]. When 
+deploying VA-ECMO, reviewing the congenital anatomy 
+to understand aortic and cavo-atrial connections is key to 
+ensuring that arterial and venous cannula are well posi-
+tioned. Patients with a Fontan undergoing peripheral VA-
+ECMO cannulation require drainage cannulae in both the 
+SVC and IVC (VVA-ECMO) [60]. However, this approach 
+may lead to stasis in the Fontan conduit. Another poten-
+tial strategy is a VAV configuration with oxygenated blood 
+return to the upper part of the body, ensuring adequate oxy-
+genation and promoting more flow in the Fontan conduit.
+Prior to deploying tMCS in all critically ill ACHD   
+patients, a potential exit strategy should be identified. 
+This can include bridge to intervention (in the setting of a 
+potentially reversible valvular or coronary insults), bridge 
+to recovery (in the setting of decompensated heart failure 
+expected to improve with medical therapies), or bridge to 
+durable mechanical support or transplant.
+Advanced Heart Failure Therapies
+The decision to pursue advanced heart failure therapies 
+(such as durable mechanical circulatory support or organ 
+[[p6]]
+288 Current Cardiology Reports (2024) 26:283–291
+transplant) in the critically ill ACHD patient should be 
+made in with the multidisciplinary input of specialists 
+in congenital heart disease, critical care, advanced heart 
+failure, and congenital cardiac surgery. Patients with CHD 
+can be disadvantaged by the United Network for Organ 
+Sharing (UNOS) heart transplant allocation criteria, and 
+on average stay longer on the transplant waitlist and expe -
+rience higher waitlist mortality [61– 63]. Notably since 
+the 2018 UNOS allocation revision for transplantation, 
+there has been an increase in the use of tMCS to shorten 
+the wait time for organ transplant. Durable mechanical 
+support, in the form of a durable ventricular assist device 
+(VAD) or total artificial heart (TAH), can be considered 
+an exit strategy from temporary mechanical support 
+[64]. Again, device choice is determined by the underly -
+ing anatomy and physiology. VADs have been implanted 
+to support systemic right ventricles, though this often 
+requires an adequately RV volume, the resection of tra-
+beculae, and alternative positioning of the inflow cannula 
+[65]. VADs have also been implanted to support those 
+with Fontan palliations, both as a bridge to transplant and 
+as a destination therapy [66]. A study of the Interagency 
+Registry for Mechanically Assisted Circulatory Support 
+(INTERMACS) showed that ACHD patients with LVADs 
+have similar survival to non-ACHD patients. In contrast, 
+those with TAH or biventricular assist devices had worse 
+outcomes [67]. Cavo-pulmonary assist devices specifi-
+cally designed for Fontan circulations are currently under 
+development, though they are currently in the in-vitro and 
+in-vivo model phase [68].
+The long heart transplant waitlist times for ACHD 
+patients are multifactorial, including high rates of sensi-
+tizations from prior surgeries and blood transfusions and 
+lower urgency listings. [69] In order to prioritize ACHD 
+patients, UNOS has published guidance on exception 
+requests for ACHD patients [ 70]. While ACHD patients 
+who undergo heart transplant have twice the 30-day 
+mortality of non-ACHD patients, the patients who sur -
+vive past one year have superior survival to non-ACHD 
+patients [71, 72•].
+Neuropsychiatric Considerations
+ACHD patients are at high risk of neuropsychiatric 
+pathology that is often exacerbated in the critical care 
+setting [73]. Both structural neurologic disease (such 
+as prior stroke and frontal lobe injury) and psychiat-
+ric disease (such as depression and anxiety) have been 
+observed at high rates in this population [74]. This 
+can complicate sedation in the context of mechanical 
+ventilation as well as complex goals of care decision-
+making. Involving a patient’s family and support system 
+can be beneficial in these settings. Importantly, ACHD 
+patients are also at risk of acute neurological insult due 
+to increased risk of stroke and systemic thromboembo-
+lism [75]. This is particularly true in patients with right 
+to left shunts and in cyanotics; in these patients, the use 
+of bubble filters on peripheral IVs can mitigate the risk 
+of paradoxical embolism.
+Conclusions
+The care of the critically ill adult congenital heart disease 
+patient is complex and requires the input of a multidiscipli-
+nary team. As this population continues to grow and age, it 
+is incumbent on intensivists to recognize the unique chal-
+lenges in caring for this population, and work with congeni-
+tal heart disease specialists to support these patients through 
+critical illness.
+Compliance with Ethical Standards 
+Conflict of Interest The authors declare that they have no conflict of 
+interest.
+Human and Animal Rights and Informed Consent This article does not 
+contain any studies with human or animal subjects performed by any 
+of the authors.
+Open Access This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+References
+Papers of particular interest, published recently, have 
+been highlighted as:  
+•  Of importance
+?PM?l?oK?a?kK?a?vK?a?`K?f?lM?s?
+trends in survival to adulthood among patients born with con-
+genital heart disease from 1970 to 1992 in Belgium. Circulation. 
+2010;122(22):2264–72. https:// doi. org/ 10. 1161/ CIRCU LATIO 
+NAHA. 110. 946343.
+ 2. Gilboa SM, Salemi JL, Nembhard WN, Fixler DE, Correa 
+A. Mortality resulting from congenital heart disease among 
+children and adults in the United States, 1999 to 2006. 
+[[p7]]
+289Current Cardiology Reports (2024) 26:283–291 
+Circulation. 2010;122(22):2254–63. https:// doi. org/ 10. 1161/  
+ CIRCU LATIO NAHA. 110. 947002.
+ 3. Van Der Bom T, Bouma BJ, Meijboom FJ, Zwinderman AH, 
+Mulder BJM. The prevalence of adult congenital heart disease, 
+results from a systematic review and evidence based calculation. 
+Am Heart J. 2012;164(4):568–75. https:// doi. org/ 10. 1016/j. ahj. 
+2012. 07. 023.
+ 4. Gilboa SM, Devine OJ, Kucik JE, et al. Congenital heart defects 
+in the United States: estimating the magnitude of the affected 
+population in 2010. Circulation. 2016;134(2):101–9. https:// doi. 
+org/ 10. 1161/ CIRCU LATIO NAHA. 115. 019307.
+ 5. Allan CK. Intensive care of the adult patient with congenital 
+heart disease. Prog Cardiovasc Dis. 2011;53(4):274–80. https:// 
+doi. org/ 10. 1016/j. pcad. 2010. 11. 002.
+ 6. Keane RR, Kendersky P, Park JG, et al. Characteristics and 
+outcomes of adults with congenital heart disease in the cardiac 
+intensive care unit: insights from the critical care cardiology 
+trials network registry. J Am Coll Cardiol. 2022;79(9):1389. 
+https:// doi. org/ 10. 1016/ S0735- 1097(22) 02380-4.
+ 7.• Ramlakhan KP, Van Der Bie M, Den Uil CA, Dubois EA, Roos-
+Hesselink JW. Adult patients with congenital heart disease in the 
+intensive care unit. Heart. 2022;108(18):1452–60. https:// doi.  
+org/ 10. 1136/ heart jnl- 2021- 320676. Findings from this study 
+show that the most common reason for ACHD patients to 
+be admitted to the ICU are arrhythmia, hemorrhage, heart 
+failure, and pulmonary disease.
+ 8. Saidi AS, Paolillo J, Fricker FJ, Sears SF, Kovacs AH. Biomedi-
+cal and psychosocial evaluation of “cured” adults with congeni-
+tal heart disease. Congenit Heart Dis. 2007;2(1):44–54. https://  
+doi. org/ 10. 1111/j. 1747- 0803. 2007. 00071.x.
+ 9. Stout KK, Daniels CJ, Aboulhosn JA, et al. AHA/ACC guideline 
+for the management of adults with congenital heart disease: a 
+report of the American College of Cardiology/American Heart 
+Association Task Force on Clinical Practice Guidelines. Circula-
+tion. 2018. https:// doi. org/ 10. 1161/ CIR. 00000 00000 000603.
+ 10. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC 
+guidelines for the management of adult congenital heart dis-
+ease. Eur Heart J. 2021;42(6):563–645. https:// doi. org/ 10. 1093/ 
+ eurhe artj/ ehaa5 54.
+ 11. Mylotte D, Pilote L, Ionescu-Ittu R, et al. Specialized adult con-
+genital heart disease care: the impact of policy on mortality. 
+Circulation. 2014;129(18):1804–12. https:// doi. org/ 10. 1161/  
+CIRCU LATIO NAHA. 113. 005817.
+ 12. Ochiai R, Kato H, Akiyama N, et al. Nationwide survey of the 
+transfer of adults with congenital heart disease from pediatric 
+cardiology departments to adult congenital heart disease centers 
+in Japan. Circ J. 2016;80(5):1242–50. https:// doi. org/ 10. 1253/ 
+circj. CJ- 15- 0937.
+ 13. Buber J, Valle C, Valente AM. Common congenital heart prob-
+lems in acute and intensive care. Eur Heart J Acute Cardiovasc 
+Care. 2023;12(4):267–79. https:// doi. org/ 10. 1093/ ehjacc/ zuad0 30.
+ 14. Petrov V, Fedoryshyn I, Tsvigun H. Peculiarities of the arm 
+blood flow after classical Blalock taussig shunt clinical case 
+description. Exp Clin Physiol Biochem. 2017;78(2):50–5. 
+https:// doi. org/ 10. 25040/ ecpb2 017. 02. 050.
+ 15. Kadosh BS, Berg DD, Bohula EA, et al. Pulmonary artery cath-
+eter use and mortality in the cardiac intensive care unit. JACC 
+Heart Fail. 2023;11(8):903–14. https:// doi. org/ 10. 1016/j. jchf. 
+2023. 04. 007.
+ 16. Kaipa S, Mastropietro CW, Bhai H, Lutfi R, Friedman ML, 
+Yabrodi M. Upper body peripherally inserted central cath-
+eter in pediatric single ventricle patients. World J Cardiol. 
+2020;12(10):484–91. https:// doi. org/ 10. 4330/ wjc. v12. i10. 484.
+ 17. Rajpal S, Opotowsky AR, Rutherford A, Wu F. Hemodynamic 
+effects of paracentesis in a patient with a Fontan circulation. 
+World J Pediatr Congenit Heart Surg. 2019;10(3):357–9. https:// 
+doi. org/ 10. 1177/ 21501 35118 779351.
+ 18. Marino BS, Tabbutt S, MacLaren G, et al. Cardiopulmonary 
+resuscitation in infants and children with cardiac disease: a sci-
+entific statement from the American Heart Association. Circula-
+tion. 2018. https:// doi. org/ 10. 1161/ CIR. 00000 00000 000524.
+ 19. Lui GK, Saidi A, Bhatt AB, et al. Diagnosis and management of 
+noncardiac complications in adults with congenital heart disease 
+a scientific statement from the American Heart Association. Cir-
+culation. 2017. https:// doi. org/ 10. 1161/ CIR. 00000 00000 000535.
+ 20. Kratzert WB, Boyd EK, Schwarzenberger JC. Management of 
+the critically ill adult with congenital heart disease. J Cardio -
+thorac Vasc Anesth. 2018;32(4):1682–700. https:// doi. org/ 10. 
+1053/j. jvca. 2017. 11. 025.
+ 21. Dasi LP, KrishnankuttyRema R, Kitajima HD, et al. Fontan 
+hemodynamics: Importance of pulmonary artery diameter. J 
+Thorac Cardiovasc Surg. 2009;137(3):560–4. https:// doi. org/  
+10. 1016/j. jtcvs. 2008. 04. 036.
+ 22. Gewillig M, Brown SC, Eyskens B, et al. The Fontan circulation: 
+who controls cardiac output? Interact Cardiovasc Thorac Surg. 
+2010;10(3):428–33. https:// doi. org/ 10. 1510/ icvts. 2009. 218594.
+ 23. Torok RD, Fleming GA, Hill KD. Transcatheter pulmonary 
+embolectomy after fontan: Fontan transcatheter pulmonary 
+embolectomy. Catheter Cardiovasc Interv. 2016;87(5):939–44. 
+https:// doi. org/ 10. 1002/ ccd. 26096.
+ 24. Ho K, Bare I, Sy E, Singh J, Opotowsky AR, Dehghani P. Trends 
+in patient characteristic, cost, and mortality among mechani-
+cally ventilated adult patients with congenital heart disease in 
+the United States. CJC Open. 2022;4(2):197–205. https:// doi.  
+org/ 10. 1016/j. cjco. 2021. 09. 024.
+ 25. Chimot L, Mascle S, Chabanne C, et al. Acute severe hypox-
+aemia after mechanical ventilation in a patient with an Ebstein 
+anomaly requiring extracorporeal membrane oxygenation. Br 
+J Anaesth. 2011;107(6):1010–2. https:// doi. org/ 10. 1093/ bja/ 
+aer360.
+ 26. Siddiqui ZA, Chandrakantan A, Hills EE, Nguyen CN, Todd 
+BM, Adler AC. Incidence of difficult laryngoscopy in adult 
+congenital heart disease patients: a retrospective cohort study. 
+J Cardiothorac Vasc Anesth. 2021;35(12):3659–64. https:// doi. 
+org/ 10. 1053/j. jvca. 2021. 07. 018.
+ 27. Reiter FP, Hadjamu NJ, Nagdyman N, et al. Congenital heart 
+disease-associated liver disease: a narrative review. Cardio-
+vasc Diagn Ther. 2021;11(2):577–90. https:// doi. org/ 10. 21037/ 
+cdt- 20- 595.
+ 28. Wang A, Book WM, McConnell M, Lyle T, Rodby K, Mahle 
+WT. Prevalence of hepatitis C infection in adult patients who 
+underwent congenital heart surgery prior to screening in 1992. 
+Am J Cardiol. 2007;100(8):1307–9. https://  doi. org/ 10. 1016/j. 
+amjca rd. 2007. 05. 059.
+ 29. Emamaullee J, Zaidi AN, Schiano T, et al. Fontan-associated 
+liver disease: screening, management, and transplant consid-
+erations. Circulation. 2020;142(6):591–604. https:// doi. org/ 10. 
+1161/ CIRCU LATIO NAHA. 120. 045597.
+ 30. Reardon LC, DePasquale EC, Tarabay J, et al. Heart and heart-
+liver transplantation in adults with failing Fontan physiology. 
+Clin Transplant. 2018;32(8): e13329. https:// doi. org/ 10. 1111/ 
+ctr. 13329.
+ 31. Krishnathasan K, Dimopoulos K, Duncan N, et al. Advanced 
+heart failure in adult congenital heart disease: the role of renal 
+dysfunction in management and outcomes. Eur J Prev Cardiol. 
+2023. https:// doi. org/ 10. 1093/ eurjpc/ zwad0 94.
+ 32. Dimopoulos K, Diller GP, Koltsida E, et al. Prevalence, predic-
+tors, and prognostic value of renal dysfunction in adults with 
+congenital heart disease. Circulation. 2008;117(18):2320–8. 
+https:// doi. org/ 10. 1161/ CIRCU LATIO NAHA. 107. 734921.
+[[p8]]
+290 Current Cardiology Reports (2024) 26:283–291
+ 33. Opotowsky AR, Carazo M, Singh MN, et al. Creatinine versus 
+cystatin C to estimate glomerular filtration rate in adults with 
+congenital heart disease: results of the Boston Adult Congenital 
+Heart Disease Biobank. Am Heart J. 2019;214:142–55. https://  
+doi. org/ 10. 1016/j. ahj. 2019. 04. 018.
+ 34. Arvanitaki A, Gatzoulis MA, Opotowsky AR, et al. Eisenmenger 
+syndrome. J Am Coll Cardiol. 2022;79(12):1183–98. https:// doi. 
+org/ 10. 1016/j. jacc. 2022. 01. 022.
+ 35. Karbassi A, Nair K, Harris L, Wald RM, Roche SL. Atrial tach-
+yarrhythmia in adult congenital heart disease. World J Cardiol. 
+2017;9(6):496. https:// doi. org/ 10. 4330/ wjc. v9. i6. 496.
+ 36. Fuchs MM, Connolly HM. Ebstein anomaly in the adult patient. 
+Cardiol Clin. 2020;38(3):353–63. https:// doi. org/ 10. 1016/j. ccl. 
+2020. 04. 004.
+ 37. Khairy P, Aboulhosn J, Broberg CS, et al. Thromboprophylaxis 
+for atrial arrhythmias in congenital heart disease: a multicenter 
+study. Int J Cardiol. 2016;223:729–35. https:// doi. org/ 10. 1016/j. 
+ijcard. 2016. 08. 223.
+ 38. Goldenthal I, Rosenbaum MS, Lewis M, Sciacca RR, Garan H, 
+Biviano AB. Inappropriate implantable cardioverter-defibrillator 
+shocks in repaired tetralogy of fallot patients: prevalence and 
+electrophysiological mechanisms. IJC Heart Vasc. 2020. https:// 
+doi. org/ 10. 1016/j. ijcha. 2020. 100543.
+ 39. Carlson SK, Patel AR, Chang PM. Bradyarrhythmias in congeni-
+tal heart disease. Card Electrophysiol Clin. 2017;9(2):177–87. 
+https:// doi. org/ 10. 1016/j. ccep. 2017. 02. 002.
+ 40. Tankut S, Yoruk A, Vinocur J. Emergency temporary transbaffle 
+pacing for complete heart block after Fontan palliation. J Am 
+Coll Cardiol. 2020;75(11):2843. https:// doi. org/ 10. 1016/ S0735- 
+1097(20) 33470-7.
+ 41. Verheugt CL, Uiterwaal CSPM, Van Der Velde ET, et al. 
+Mortality in adult congenital heart disease. Eur Heart J. 
+2010;31(10):1220–9. https:// doi. org/ 10. 1093/ eurhe artj/ ehq032.
+ 42.• Egbe AC, Miranda WR, Pellikka PA, DeSimone CV, Connolly 
+HM. Prevalence and prognostic implications of left ventricular 
+systolic dysfunction in adults with congenital heart disease. J 
+Am Coll Cardiol. 2022;79(14):1356–65. https:// doi. org/ 10.  
+1016/j. jacc. 2022. 01. 040. Findings from this study showed 
+that left ventricular systolic dysfunction is associated with 
+major adverse cardiovascular events in ACHD patients.
+ 43. Saef JM, Ghobrial J. Valvular heart disease in congenital 
+heart disease: a narrative review. Cardiovasc Diagn Ther. 
+2021;11(3):818–39. https:// doi. org/ 10. 21037/ cdt- 19- 693-b.
+ 44. Sabbak N, Ghobrial J. Case report: successful emergent tran-
+scatheter pulmonary valve replacement within failing pulmonary 
+artery conduit in the setting of cardiogenic shock with extracor-
+poreal membrane oxygenation support. Al-Hijji M, Sinning C, 
+Javier Olsen F, Tardo D, Ahmed N, eds. Eur Heart J Case Rep. 
+2021. https:// doi. org/ 10. 1093/ ehjcr/ ytab3 01
+ 45. Tan W, Stefanescu Schmidt AC, Horlick E, Aboulhosn J. Tran-
+scatheter interventions in patients with adult congenital heart 
+disease. J Soc Cardiovasc Angiogr Interv. 2022;1(6): 100438. 
+https:// doi. org/ 10. 1016/j. jscai. 2022. 100438.
+ 46. Lui GK, Rogers IS, Ding VY, et al. Risk estimates for athero -
+sclerotic cardiovascular disease in adults with congenital heart 
+disease. Am J Cardiol. 2017;119(1):112–8. https:// doi. org/ 10. 
+1016/j. amjca rd. 2016. 09. 023.
+ 47. Tutarel O, Kempny A, Alonso-Gonzalez R, et al. Congenital 
+heart disease beyond the age of 60: emergence of a new popu-
+lation with high resource utilization, high morbidity, and high 
+mortality. Eur Heart J. 2014;35(11):725–32. https:// doi. org/ 10. 
+1093/ eurhe artj/ eht257.
+ 48. Jiang MX, Brinza EK, Ghobrial J, et al. Coronary artery disease in 
+adults with anomalous aortic origin of a coronary artery. JTCVS 
+Open. 2022;10:205–21. https:// doi. org/ 10. 1016/j. xjon. 2022. 04. 022.
+ 49. Molossi S, Doan T, Sachdeva S. Anomalous coronary arteries. 
+Cardiol Clin. 2023;41(1):51–69. https:// doi. org/ 10. 1016/j. ccl. 
+2022. 08. 005.
+ 50. Rychik J, Atz AM, Celermajer DS, et al. Evaluation and manage-
+ment of the child and adult with Fontan circulation: a scientific 
+statement from the American Heart Association. Circulation. 
+2019. https:// doi. org/ 10. 1161/ CIR. 00000 00000 000696.
+ 51. Smith AM. The role of vasopressin in cardiorespiratory arrest 
+and pulmonary hypertension. QJM. 2006;99(3):127–33. https:// 
+doi. org/ 10. 1093/ qjmed/ hcl009.
+ 52. Nguyen VP, Dolgner S, Stout KK. National trends in the use of 
+temporary mechanical circulatory support in patients with adult 
+congenital heart disease. J Am Coll Cardiol. 2020;75(11):578. 
+https:// doi. org/ 10. 1016/ S0735- 1097(20) 31205-5.
+ 53. Chowdhury UK, Kothari SS, Subramaniam GK. Intra-aortic 
+balloon counterpulsation in a patient with the failing Fontan 
+circulation. Cardiol Young. 2007;17(01):102. https:// doi. org/ 10. 
+1017/ S1047 95110 60012 35.
+ 54. Moran AM, Blume ED, Quinn R. Intra-aortic balloon pump use 
+in the failing Fontan circulation: intra-aortic balloon pump use in 
+Fontan circulation. Congenit Heart Dis. 2008;3(1):60–2. https:// 
+doi. org/ 10. 1111/j. 1747- 0803. 2007. 00143.x.
+ 55. Morray BH, Dimas VV, Lim S, et al. Circulatory support using 
+the impella device in fontan patients with systemic ventricu-
+lar dysfunction: a multicenter experience. Catheter Cardiovasc 
+Interv. 2017;90(1):118–23. https:// doi. org/ 10. 1002/ ccd. 26885.
+ 56. Cabezón G, Stephanenko A, Redondo A, Amat-Santos IJ. 
+Impella RP in Ebstein disease as a bridge to heart transplant. 
+JACC Cardiovasc Interv. 2021;14(6):e57–60. https:// doi. org/ 10. 
+1016/j. jcin. 2020. 12. 013.
+ 57. García Gómez M, Uribarri A, San Román Calvar JA, Stepanenko 
+A. Clinical use of percutaneous mechanical circulatory assis-
+tance in a patient with end-stage right-sided heart failure and 
+massive tricuspid insufficiency due to congenital heart disease: 
+first-in-the-world case report. Hassan M, Ahmed AS, Dimitriadis 
+K, Simovic S, Guella E, eds. Eur Heart J - Case Rep. 2021;5(8). 
+https:// doi. org/ 10. 1093/ ehjcr/ ytab2 69
+ 58. Vijayakumar N, Badheka A, Chegondi M, Mclennan D. Suc-
+cessful use of Protek Duo cannula to provide veno-venous extra-
+corporeal membrane oxygenation and right ventricular support 
+for acute respiratory distress syndrome in an adolescent with 
+complex congenital heart disease. Perfusion. 2021;36(2):200–3. 
+https:// doi. org/ 10. 1177/ 02676 59120 923880.
+ 59. Kops SA, White SC, Klewer SE, Andrews JG, Seckeler MD. 
+ECMO in adults with congenital heart disease - analysis of a 
+national discharge database. Int J Cardiol Congenit Heart Dis. 
+2022;8: 100366. https:// doi. org/ 10. 1016/j. ijcchd. 2022. 100366.
+ 60. Bacon MK, Gray SB, Schwartz SM, Cooper DS. Extracorporeal 
+membrane oxygenation (ECMO) support in special patient popu-
+lations—the bidirectional Glenn and Fontan circulations. Front 
+Pediatr. 2018;6:299. https:// doi. org/ 10. 3389/ fped. 2018. 00299.
+ 61. Parker WF, Chung K, Anderson AS, Siegler M, Huang ES, 
+Churpek MM. Practice changes at U.S. transplant centers 
+after the new adult heart allocation policy. J Am Coll Cardiol. 
+2020;75(23):2906–16. https:// doi. org/ 10. 1016/j. jacc. 2020. 01. 
+066.
+ 62. Alshawabkeh LI, Hu N, Carter KD, et al. Wait-list outcomes for 
+adults with congenital heart disease listed for heart transplanta-
+tion in the US. J Am Coll Cardiol. 2016;68(9):908–17. https://  
+doi. org/ 10. 1016/j. jacc. 2016. 05. 082.
+ 63. Karamlou T, Hirsch J, Welke K, et al. A United Network for 
+Organ Sharing analysis of heart transplantation in adults with 
+congenital heart disease: outcomes and factors associated with 
+mortality and retransplantation. J Thorac Cardiovasc Surg. 
+2010;140(1):161–8. https:// doi. org/ 10. 1016/j. jtcvs. 2010. 03. 036.
+[[p9]]
+291Current Cardiology Reports (2024) 26:283–291 
+ 64. Saef J, Montgomery R, Cedars A, et al. Durable mechanical 
+circulatory support in adult congenital heart disease: review -
+ing clinical considerations and experience. J Clin Med. 
+2022;11(11):3200. https:// doi. org/ 10. 3390/ jcm11 113200.
+ 65. Brida M, Diller GP, Gatzoulis MA. Systemic right ventri-
+cle in adults with congenital heart disease: anatomic and 
+phenotypic spectrum and current approach to management. 
+Circulation. 2018;137(5):508–18. https:// doi. org/ 10. 1161/  
+ CIRCU LATIO NAHA. 117. 031544.
+ 66. Cedars A, Kutty S, Danford D, et al. Systemic ventricular assist 
+device support in Fontan patients: A report by ACTION. J Heart 
+Lung Transplant. 2021;40(5):368–76. https:// doi. org/ 10. 1016/j. 
+healun. 2021. 01. 011.
+ 67. VanderPluym CJ, Cedars A, Eghtesady P, et al. Outcomes 
+following implantation of mechanical circulatory support in 
+adults with congenital heart disease: an analysis of the Intera-
+gency Registry for Mechanically Assisted Circulatory Support 
+(INTERMACS). J Heart Lung Transplant. 2018;37(1):89–99. 
+https:// doi. org/ 10. 1016/j. healun. 2017. 03. 005.
+ 68. Escher A, Strauch C, Hubmann EJ, et al. A cavopulmonary assist 
+device for long-term therapy of fontan patients. Semin Thorac 
+Cardiovasc Surg. 2022;34(1):238–48. https:// doi. org/ 10. 1053/j. 
+semtc vs. 2021. 06. 016.
+ 69. Davies RR, Russo MJ, Yang J, Quaegebeur JM, Mosca RS, Chen 
+JM. Listing and transplanting adults with congenital heart dis-
+ease. Circulation. 2011;123(7):759–67. https:// doi. org/ 10. 1161/ 
+CIRCU LATIO NAHA. 110. 960260.
+ 70. OPTN/UNOS. Review board guidance for adult congenital heart 
+disease exception requests. https:// optn. trans plant. hrsa. gov/ media/ 
+2349/ thora cic_ guida nce_ 201712. pdf. Accessed Mar 2021.
+ 71. Shah DK, Deo SV, Althouse AD, et al. Perioperative mortal-
+ity is the Achilles heel for cardiac transplantation in adults with 
+congenital heart disease: evidence from analysis of the UNOS 
+registry. J Card Surg. 2016;31(12):755–64. https://  doi. org/ 10. 
+1111/ jocs. 12857.
+ 72.• Riggs KW, Zafar F, Radzi Y, Yu PJ, Bryant R, Morales DLS. 
+Adult congenital heart disease: current early expectations after 
+cardiac transplantation. Ann Thorac Surg. 2020;109(2):480–6. 
+https:// doi. org/ 10. 1016/j. athor acsur. 2019. 06. 067. Findings from 
+this study show that ACHD patients who undergo heart trans-
+plant and survive past one year have superior survival to non-
+ACHD patients.
+ 73. Ilardi D, Ono KE, McCartney R, Book W, Stringer AY. 
+Neurocognitive functioning in adults with congenital heart 
+disease:Ilardi et al. Congenit Heart Dis. 2017;12(2):166–73. 
+https:// doi. org/ 10. 1111/ chd. 12434.
+ 74. Mercado AE, Well A, Lamari-Fisher A, et al. Mental health 
+diagnoses in hospitalized adults with congenital heart disease 
+in the state of Texas: a 10-year review. Int J Cardiol Congenit 
+Heart Dis. 2022;7: 100340. https://  doi. org/ 10. 1016/j.  ijcchd. 
+2022. 100340.
+ 75. Prokšelj K. Stroke and systemic embolism in adult congenital 
+heart disease. Int J Cardiol Congenit Heart Dis. 2023;12:100453. 
+https:// doi. org/ 10. 1016/j. ijcchd. 2023. 100453.
+Publisher's Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.

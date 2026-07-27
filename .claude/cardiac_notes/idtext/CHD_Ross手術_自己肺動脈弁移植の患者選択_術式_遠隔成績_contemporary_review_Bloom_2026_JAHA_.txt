@@ -1,0 +1,1033 @@
+
+[[p1]]
+Journal of the American Heart Association
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 1
+ 
+CONTEMPORARY REVIEW
+Ross Procedure Renaissance: A 
+Contemporary Review of Patient Selection, 
+Technique, and Long- Term Outcomes in 
+Adults
+Jordan P. Bloom , MD, MPH; Lucy Nam , MD; Michel Pompeu Sá , MD, MSc, PhD; Elbert Williams , MD; 
+Maral Ouzounian, MD, PhD, FRCSC; Ismail El- Hamamsy, MD, PhD; William Hopkins , MD; 
+Doreen DeFaria Yeh, MD
+ABSTRACT: Renewed interest in the Ross procedure, driven by compelling evidence of superior long-  term outcomes, has led 
+to increased international use. This review outlines a comprehensive framework for understanding the Ross procedure within 
+the broader context of aortic valve replacement. Topics include procedural overview, patient selection and contraindications, 
+diagnostic imaging, technical modifications to promote durability, clinical outcomes, postoperative management, and future 
+directions. The Ross procedure remains the only valve replacement strategy capable of restoring life expectancy in selected 
+young and middle- aged adults, making it an imperative option for multidisciplinary consideration.
+Key Words: aortic valve replacement ■ autograft ■ cardiovascular outcomes ■ homograft ■ patient–prosthesis mismatch 
+■ Ross procedure ■ valve durability
+F
+irst introduced by Donald Ross in 1967 , the Ross 
+procedure (RP) has seen fluctuating adoption over 
+the past several decades. After initial enthusiasm, 
+its use declined in the early 2000s due to concerns 
+about technical complexity and autograft durability. 1 
+However, compelling evidence of excellent long-  term 
+outcomes, such as restored life expectancy, superior 
+hemodynamics, and lower rates of reintervention, has 
+fueled a resurgence in its use, often referred to as the 
+“Ross Renaissance. ”2–5 In the United States in 2023, 
+the RP accounted for 7% of all aortic valve replace -
+ments (AVRs) in patients aged <65 years. Prosthetic 
+heart valves (tissue or mechanical) have consistently 
+been associated with high rates of patient–prosthesis 
+mismatch (PPM), 6,7 a reduction in life expectancy, 8,9 
+and the need for reintervention or anticoagulation.
+Prosthetic valves can fail because of stenosis, re -
+gurgitation, or infection. Mechanical prosthetic valves 
+are often considered “lifetime valves,” but a subset 
+of patients develop stenosis secondary to pannus, 
+thrombus, or both. The estimated failure rate of a 
+mechanical valve is 0.5% per year. 10,11 Complications 
+associated with anticoagulation are not trivial, with 
+rates of major bleeding or thrombosis averaging 1% 
+per year. Structural valve degeneration of biopros -
+thetic leaflets secondary to calcification or increased 
+stiffness may result in isolated stenosis. Regurgitation 
+of bioprosthetic valves is often acute or subacute 
+secondary to tearing of ≥1 leaflets and may result 
+in clinical heart failure ( Figure  1). Figure  2 demon -
+strates echocardiographic images of failed prosthetic 
+valves.When performed by experienced high-  volume 
+Correspondence to: Jordan P. Bloom, MD, MPH, Department of Cardiac Surgery, Massachusetts General Hospital, 55 Fruit Street, Boston, MA 02114. Email: 
+jpbloom@mgh.harvard.edu
+This manuscript was sent to John S. Ikonomidis, MD, PhD, Guest Editor, for review by expert referees, editorial decision, and final disposition.
+Supplemental Material is available at https:// www. ahajo urnals. org/ doi/ suppl/  10. 1161/ JAHA. 125. 044454
+For Sources of Funding and Disclosures, see page 9.
+© 2025 The Author(s). Published on behalf of the American Heart Association, Inc., by Wiley. This is an open access article under the terms of the Creative 
+Commons Attribution- NonCommercial- NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use 
+is non- commercial and no modifications or adaptations are made. 
+JAHA is available at: www.ahajournals.org/journal/jaha
+[[p2]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 2
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+surgeons on carefully selected patients, the RP is 
+uniquely capable of restoring normal life expectancy 
+for individuals requiring aortic valve replacement. 4,12–14 
+Moreover, the durability of the RP is markedly better 
+than that of a bioprosthesis and not significantly dif -
+ferent than a mechanical valve. 15,16 As cardiologists 
+are at the cornerstone of managing patients with 
+aortic valve disease, knowledge about this proce -
+dure and appropriate patient selection and education 
+is necessary in the modern era. This review aims to 
+concisely address the key questions every cardiolo -
+gist should be equipped to answer when discussing 
+options for aortic valve intervention, including the RP, 
+with prospective patients.
+HISTORICAL CONTEXT AND 
+SURGICAL OVERVIEW
+The RP is an operation to replace a dysfunctional 
+aortic valve that involves transplanting the native 
+pulmonary valve into the aortic position (autograft) 
+and reconstructing the right ventricular outflow tract 
+(RVOT) with a donated human allograft (homograft) 
+(Figure 3).17
+Since the native pulmonary valve functions in the low- 
+pressure environment of the RVOT, it is typically free from 
+the degenerative pathology seen in the higher- pressure 
+aortic position. The RP was first described by Donald 
+Ross in 1967 in London and has seen variable degrees 
+of use in both children and adults since that time.18 Due 
+to the increasing evidence demonstrating improved 
+long- term outcomes of the RP compared with prosthetic 
+heart valve replacement, the demand for the RP has 
+been rising. In 2023, the RP accounted for 7% of all AVRs 
+in patients aged <65 years in the United States. With the 
+increasing use, preserving excellent outcomes is of par-
+amount importance. To achieve this, patients must be 
+carefully selected and operated on at high-  volume RP 
+centers of excellence.3,9,19
+Nonstandard Abbreviations and Acronyms
+AVR aortic valve replacement
+PPM patient–prosthesis mismatch
+RP Ross procedure
+TTE transthoracic echocardiography
+e?PM?e??M
+Examples of prosthetic valve failures by stenosis, regurgitation or both. Top row: example of mechanical valves. Bottom row: example 
+of bioprosthetic valves.
+
+[[p3]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 3
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+PATIENT SELECTION AND 
+CONTRAINDICATIONS
+The RP should be considered for any patient in need 
+of AVR who may benefit from the enhanced hemody -
+namics, durability, and life expectancy. While there is 
+no strict upper age limit, the RP is typically consid-
+ered for younger patients. However, there are specific 
+clinical scenarios that make the RP more favorable 
+for older adults. A variety of clinical factors must be 
+weighed in considering risks and benefits of the RP 
+compared with alternative approaches, and there are 
+certain patient populations that might be considered 
+ideal ( Table  1). For example, in a 34-  year- old patient 
+with congenital aortic stenosis, the RP offers better 
+long- term survival compared with both mechanical 
+and bioprosthetic AVR.15 In a 59-  year- old patient with 
+a large aortic annulus, the optimal approach is less 
+well defined. The RP may be reasonable for selected 
+patients seeking to avoid anticoagulation and opti -
+mize hemodynamics, especially in the setting of PPM. 
+However, a large tissue or mechanical prosthesis may 
+be preferable in those with shorter life expectancy or 
+higher operative risk. Available data are limited in the 
+assessment of equipoise in this scenario.
+As a general guideline, the following patient popula-
+tions are appropriate to consider for the RP:
+?PM?o??[UT?????
+life expectancy who need AVR
+The operation can be used for patients who need 
+AVR for aortic stenosis or regurgitation. Certain 
+patient populations require technical modifica -
+tions to ensure durability, which will be discussed 
+later.
+ 2. Patients with discordance between body sur -
+face area and aortic annular diameter
+Residual or persistent aortic stenosis after AVR 
+(PPM) is a major problem that affects about one 
+third of both transcatheter and surgical AVRs.6,20,21 
+PPM results in the need for early intervention and 
+is associated with a marked reduction in life ex -
+pectancy.7,22,23 The RP is unique because the 
+Figure 2. Echocardiographic images of failed prosthetic valves.
+A, Transesophageal echocardiogram showing prolapse of 2 bioprosthetic valve leaflets (arrows) with severe transvalvular regurgitation. 
+B, Echocardiogram and noncontrast computed tomography demonstrating limited leaflet mobility in a bileaflet mechanical aortic valve 
+with severe aortic stenosis. C, Echocardiogram showing severe aortic stenosis with a mean gradient >50 mm Hg; computed tomography 
+angiography revealed minimal leaflet calcification. D, Echocardiogram revealing combined severe stenosis and moderate regurgitation in 
+a bioprosthetic aortic valve; the leaflets were thickened and immobile without calcification, and perforations were noted.
+
+[[p4]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 4
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+autograft is size matched to the patient’s body 
+surface area in most patients. This results in low 
+(single- digit) gradients across the valve that re -
+main stably low for decades.12,24–27 Failure by ste-
+nosis is almost unheard of. All other options for 
+AVR can fail by stenosis (leaflet degeneration in 
+bioprosthetic valves and pannus or thrombosis in 
+mechanical valves) with resultant well- established 
+deleterious effects on the left ventricle and life ex-
+pectancy. In patients whose body surface area 
+necessitates a larger valve than the annulus will 
+allow, surgeons must consider strategies to avoid 
+PPM. Options for this include aortic annular en -
+largement, root replacement with a stentless 
+valve or homograft, and the RP . While aortic an-
+nular enlargement techniques have been recently 
+popularized and are increasing in use, there are 
+no long- term outcome studies to confirm their ef-
+ficacy with respect to durability or life expectancy.
+ 3. Women of childbearing age
+In women of childbearing age who need AVR, the 
+decision about choice of prosthesis is particularly 
+challenging. Therapeutic anticoagulation during 
+pregnancy confers significant increased risk to 
+both mother and fetus,28 and left- sided biopros-
+thetic valves confer higher risk of cardiovascular 
+complications in pregnancy compared with right- 
+sided prostheses.29 The RP offers excellent out-
+comes in limited series given the lack of left heart 
+obstruction and lack of need for anticoagulation30 
+Figure 3. Proposal of algorithm for post–Ross procedure management.
+PPI indicates proton pump inhibitor; SBP, systolic blood pressure; and TTE, transthoracic echocardiograhy.
+s?PM?hNb???q?o
+Ideal Consider Contraindication
+• Aged <65 y with normal life expectancy 
+who need AVR from aortic stenosis or 
+aortic regurgitation
+• Women of childbearing potential who 
+desire future pregnancy
+• Without significant pulmonary valve 
+pathology
+• High potential for good long-  term 
+survival
+• Aged ≥65 y with normal life expectancy 
+depending on individual risk–benefit analysis
+• Discordance between body surface area and 
+aortic annular diameter
+• Aortic endocarditis who requires surgical 
+intervention
+• Reoperations requiring AVR
+• Single- vessel coronary artery disease
+• Concomitant repairable valvular heart disease
+• Preference to avoid anticoagulation
+• Preference to avoid animal tissue for religious 
+or other reasons
+• Significant comorbidities/limited life expectancy
+• Connective tissue disorders
+• Uncontrolled hypertension not amenable to 
+preoperative control
+• Multivessel coronary artery disease or 
+nonrepairable concomitant valvular heart disease
+• Risk of tolerating long operations
+• Low left or right ventricular function or renal 
+dysfunction
+• Presenting in shock or severe extremis
+• Dysfunctional pulmonary valve *
+AVR indicates aortic valve replacement.
+*True absolute contraindication.
+[[p5]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 5
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+and should be considered for women planning 
+future pregnancy where appropriate.
+ 4. Patients with infectious endocarditis
+Infective endocarditis often affects the aortic 
+valve and root, necessitating surgical intervention. 
+The RP can be the ideal option in patients with 
+normal life expectancy. Rates of autograft en -
+docarditis after the RP are exceedingly low.4,12,31 
+Because the RP involves tissue- to- tissue connec-
+tions, hemostasis in the setting of endocarditis is 
+much easier to achieve than tissue-  to- Dacron. 
+Particularly in situations where a homograft aor-
+tic root replacement is being contemplated, the 
+RP has clearly been shown to be superior. 32 
+Surgeons must balance the risk of a longer, more 
+complex operation with patient factors when con-
+sidering the RP in this scenario.
+ 5. Reoperative patients
+Patients who have had failed aortic valve repair 
+or surgical AVR in the past and now need re-  
+replacement due to structural valve degeneration, 
+paravalvular leak, pseudoaneurysm, or endocar-
+ditis should be considered, as the RP may restore 
+normal long- term survival without the need for 
+long- term anticoagulation compared with redo 
+prostheses.
+In general, the patient populations who should not 
+be considered for the RP are those with significant co-
+morbidities/limited predicted life expectancy, concern 
+for durability, or prohibitive surgical risk:
+?PM?bNk??
+It is important to evaluate patient comorbidities 
+and understand family history to estimate life 
+expectancy when considering the RP. It is the 
+general understanding that patients should have 
+an estimated life expectancy of at least 20 years 
+before considering the RP. Patients with concom-
+itant coronary artery disease in a single vessel 
+may be considered, but the RP is not favorable 
+with multivessel coronary disease. Patients with 
+concomitant mitral or tricuspid valvular disease 
+may also be considered but only if the valve is 
+repairable. If a prosthetic heart valve is used in 
+another position, the RP is not a favorable option.
+ 2. Concern for durability:
+Patients with connective tissue disorders (Marfan 
+syndrome, Loeys–Dietz syndrome, vascular 
+Ehlers–Danlos syndrome) are currently not con-
+sidered candidates due to concern for durabil -
+ity. There is interest in evaluating the RP in these 
+patients using inclusion techniques to stabilize the 
+autograft, but at present there are no data to sup-
+port these practices. Patients with native pulmo-
+nary valve disease may be excluded depending 
+on the specific issues. In general, a central mild 
+pulmonary regurgitation is tolerated for autograft 
+replacement; however, eccentric or commissural 
+regurgitation may be due to prolapse or fenestra-
+tions and must be carefully evaluated intraoper-
+atively before use of the autograft. Patients with 
+uncontrolled hypertension should not be consid-
+ered for the RP unless they can be well controlled 
+preoperatively. Lifelong careful blood pressure 
+control following the RP is imperative to preserve 
+autograft function and reduce the risk of autograft 
+regurgitation.4,12
+ 3. Prohibitive surgical risk:
+Patients at increased risk of tolerating longer op-
+erations may not be appropriate candidates for 
+the RP. These include those with reduced left 
+or right ventricular systolic function or renal dys-
+function. Patients who present in shock or extre-
+mis are generally not considered for the RP for 
+2 reasons. First, operative duration for the RP is 
+longer than surgical AVR, and critically ill patients 
+typically benefit from shorter operative duration. 
+Second, there often is not time in the context of 
+acute decompensated disease to adequately ed-
+ucate a patient about the procedure and thus ex-
+pect informed consent.
+DIAGNOSTIC EVALUATION AND 
+PREOPERATIVE IMAGING
+Patients should be evaluated in the office with a com -
+prehensive history and physical examination. The 
+history taking should include questions to both under -
+stand patient compliance and estimate life expectancy. 
+The physical examination should include blood pres -
+sure recordings in both arms and an upper-  and lower- 
+extremity pulse examination, as well as evaluation for 
+signs of genetic aortopathy. All patients being consid-
+ered for the RP should have a transthoracic echocar -
+diogram (TTE) and an ECG-  gated coronary computed 
+tomography angiography with imaging of the thoracic 
+aorta. These 2 studies are adequate in most young pa-
+tients. Some centers may use transesophageal echo -
+cardiography, invasive coronary imaging, or cardiac 
+magnetic resonance imaging when appropriate.
+TTE imaging of the pulmonary valve is challenging 
+and requires assessment in multiple views with and 
+without color Doppler. The parasternal short-  axis view 
+at the level of the aortic valve is typically best for leaflet 
+[[p6]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 6
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+visualization. It is important to rule out leaflet prolapse, 
+confirm the presence of a trileaflet pulmonary valve, 
+and evaluate for aortic coarctation. The parasternal 
+long- axis view with focus on the RVOT is optimal for 
+visualization of the small central leak typically pres -
+ent in the pulmonary valve. The subcostal view of the 
+RVOT may be useful in some patients, particularly to 
+exclude RVOT obstruction at other levels (subvalvular, 
+supravalvular). Transesophageal echocardiography 
+may be useful for native pulmonary valve assessment 
+in patients with suboptimal TTE views but is often not 
+necessary.
+In our experience, low- radiation protocol coronary 
+computed tomography angiography can clearly delin -
+eate normal coronary branching anatomy, as there are 
+coronary anomalies that would make the RP contrain -
+dicated. This can also be assessed by cardiac mag-
+netic resonance imaging. ECG gating for computed 
+tomography angiography allows for multiplanar recon -
+struction and accurate measurement of the aortic and 
+pulmonary annuli, which are of paramount importance 
+to preoperative planning. Size discrepancies between 
+the annular sizes can be dealt with intraoperatively, but 
+it is best to know this before the operation, as it may 
+decrease the probability of proceeding with the RP.
+OPERATIVE TECHNIQUE AND 
+TECHNICAL REFINEMENTS
+The RP is technically a heavily nuanced operation that 
+mandates great attention to symmetry and precision. 
+Certain patient populations necessitate a bespoke 
+approach to ensure durability. These typically include 
+patients with bicuspid aortic valve, dilated aortic annuli, 
+primary aortic regurgitation, and ascending aortic 
+aneurysms.
+Since its inception, each step of the operation has 
+been modified and optimized to promote durability. 
+This starts with autograft harvest where only a small 
+segment of the pulmonary artery and right ventricle 
+are cut to ensure the autograft conduit is as short as 
+possible. The autograft is then implanted deep in the 
+left ventricular outflow tract, so the pulmonary annu -
+lus is externally supported by the native aortic annu -
+lus. External annuloplasty is performed for stabilization 
+in patients with risk factors for aortic annular dilation 
+or with aortic/pulmonary annular size mismatch. All 
+excess pulmonary artery tissue is then removed and 
+the sinotubular junction is stabilized with a short inter -
+position graft. Stabilizing both ends of the autograft 
+prevents the neo-  aortic valve from developing regur -
+gitation. Some Ross surgeons routinely perform a full 
+inclusion technique where the autograft is sewn into a 
+Dacron graft before implantation. While this practice 
+may be appropriate for patients at extreme risk of sinus 
+dilation, it may negate some of the benefits of the RP, 
+and thus we do not practice this technique. Most RP 
+experts prefer the use of acellular pulmonary homo -
+grafts that, when possible, are sex- matched and over-
+sized. All excess pulmonary artery, muscle, and fat are 
+carefully removed from the homograft before implanta-
+tion, as this may contribute to early homograft failure.
+For more detailed operative guidance, we refer the 
+reader to Mazine et al17 and Williams et al,33 which offer 
+comprehensive step- by- step technical descriptions of 
+the operation.
+OUTCOMES: SURVIVAL, 
+REOPERATION, AND VALVE- RELATED 
+COMPLICATIONS
+A donated human allograft (homograft) is a conduit that 
+can be used in the aortic position in some infrequent 
+situations such as endocarditis with significant tissue 
+destruction. However, many studies have demonstrated 
+similar durability compared with bioprosthetic heart 
+valves, with the added complexity of reoperation on 
+a calcified homograft. 5,14,34,35 These homografts are 
+nonliving tissue made of collagen extracellular matrix, 
+unlike the autograft in the RP, which is composed of 
+living tissue. This is thought to be one of the primary 
+reasons for the improved durability of the RP compared 
+with homograft root replacement. The authors prefer to 
+use an acellular cryopreserved pulmonary homograft 
+for the RP, which, in addition to numerous technical 
+modifications, leads to less inflammation and improved 
+durability.
+The potential short- term complications after the RP 
+are similar to those of other aortic valve or root proce -
+dures if performed at high-  volume centers. Numerous 
+studies have shown that these risks are comparable to 
+those experienced by patients undergoing AVR. 8,12,14 
+However, these studies must be interpreted carefully, 
+as the RP is typically offered to healthy, low- risk pa -
+tients. We inform patients that the RP is a longer oper-
+ation involving full- root replacement and is qualitatively 
+riskier than AVR. This up- front risk is mitigated in high- 
+volume Ross centers, where the RP is performed with 
+equivalent risk to AVR. 1,3,5,36 The authors believe that, 
+to offer the RP to low- risk patients, it is imperative the 
+expected mortality risk must be <1%. Patients should 
+understand that they will undergo a longer, more tech-
+nically nuanced operation for the potential of a greater 
+long- term outcome.
+The long- term outcomes after RP are excellent and 
+have repeatedly been shown to be superior to bio -
+prosthetic and mechanical AVR 4,9,14,36 ( Table  2). The 
+most significant of these outcomes is the restoration 
+of a normal life expectancy, matched by sex and age, 
+which has been demonstrated by many studies from 
+[[p7]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 7
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+various countries. 14,16,37– 42 Furthermore, the durability 
+and freedom from reoperation with RP significantly 
+exceed those of a bioprosthetic valve and are not sig-
+nificantly worse than those of a mechanical valve. 43–47 
+Study- level characteristics and specific follow- up dura-
+tions are detailed in Table S1.
+POSTOPERATIVE MANAGEMENT AND 
+SURVEILLANCE
+Patient management after the RP aims to mitigate 
+inflammation, promote durability by minimizing 
+afterload, and monitor valvular function ( Figure  3). 
+Some high-  volume operators use NSAIDs such as 
+naproxen for the first 6 months to mitigate inflammation 
+to the homograft. To reduce the risk of gastrointestinal 
+complications, a proton pump inhibitor can be used 
+concomitantly.
+The single most important factor to promote dura -
+bility after the RP is strict lifelong blood pressure man -
+agement, which cannot be overemphasized. Patients 
+are asked to check their blood pressure twice daily and 
+may need serial titration of antihypertensive medications 
+in the early postoperative period. We target a systolic 
+blood pressure goal of <110 mm Hg for the first 6 months 
+postoperatively. First- line pharmacotherapy includes a β 
+blocker followed by an angiotensin- converting enzyme 
+or angiotensin receptor blocker. After 6 months, therapy 
+is tailored to the patient with the underlying principle 
+that the lower the blood pressure, the more durable the 
+operative repair will be. The blood pressure monitoring 
+and management is critical and requires coordination 
+between the surgical and cardiology teams.
+All patients undergo a TTE before discharge, as the 
+conformation and function of the valve can change 
+in the first 72 hours. Patients are seen 4 to 6 weeks 
+after surgery with a chest radiograph and renal func -
+tion analysis to ensure the NSAID is safe to continue. 
+Repeat TTE is performed at 6 months and every 1 to 
+2 years for life to ensure adequate function and early 
+detection of issues. Notably, the 2020 American 
+College of Cardiology/American Heart Association 
+Guidelines for the Management of Patients With 
+Valvular Heart Disease recommend baseline imaging, 
+follow- up at 5 and 10 years, and then annual imaging 
+for standard bioprosthetic valves. 48 However, more 
+frequent monitoring is appropriate for the RP due to 
+its unique dual-  valve nature, with both an autograft in 
+the systemic circulation and a homograft in the pulmo-
+nary position. Ideally, this closer surveillance enables 
+early detection of potential issues with either valve and 
+allows for timely intervention if needed. The compe -
+tency and flow dynamics of both valves are meticu -
+lously tracked in a Ross quality monitoring program. 
+Follow- up computed tomography angiography may 
+also be considered to monitor for ascending aortic di -
+lation, particularly among patients with bicuspid aortic 
+valves, as these patients often need to be followed for 
+progression of aortic dilation.
+Quality of life after the RP is typically excellent, as 
+the patient has normal hemodynamics with no outflow 
+limitation and potential freedom from all medication 
+after the first year following surgery.4 Given the special-
+ized nature of dual valve assessment in patients under-
+going the RP, we recommend a collaborative approach 
+that includes adult congenital heart disease specialists 
+in the follow- up care team. Adult congenital heart dis -
+ease specialists bring complementary expertise in pul -
+monary valve assessment and RVOT evaluation, which 
+can enhance the comprehensive monitoring of both 
+the autograft and homograft components.
+Table 2. Survival, Freedom From Reoperation, and Bleeding Outcomes *
+Outcome Ross procedure Bioprosthetic valves Mechanical valves Transcatheter aortic valve † Aortic valve repair
+Survival, % 89–974,9,12,14,59,60
+Comparable to 
+general population
+60–88 8,9,61,62
+Reduced compared with 
+Ross procedure
+62–884,9
+Similar rates to 
+bioprosthetic valves
+≈2063*
+10- y follow up; limited data 
+are available beyond 10 y
+81–8764–66
+Comparable or superior 
+to bioprosthetic and 
+mechanical valves
+Freedom 
+from 
+reoperation, 
+%
+84–924,14,41,59
+Lower rates 
+compared with 
+bioprosthetic valves
+55–7062,67–69
+Higher rates of 
+reintervention due to 
+structural degeneration 39
+85–9414,69
+Lower rates compared with 
+bioprosthetic valves
+50–6070 *
+Higher rates of reintervention 
+due to structural 
+degeneration
+83–9564,66,71
+Lower rates compared 
+with bioprosthetic 
+valves
+Bleeding, % 1.99
+Minimal risk, 
+comparable to native 
+valve
+3.3–6.69,14
+Lower risk compared with 
+mechanical valves
+5.2–138,9
+High risk due to mandatory 
+anticoagulation; bleeding 
+rate for On- X valve <1.0%/
+patient- year72
+Data on long- term bleeding 
+rates are limited for 
+transcatheter AVR given 
+recency of adoption
+<1*73
+Exceedingly low risk of 
+bleeding
+AVR indicates aortic valve replacement.
+I`???j–l??????L???G?PO–QT?H???M?r?s? rP??L??
+characteristics and follow-  up durations.
+†TAVR data limited to 10- y follow- up from early cohorts of high-  risk older patients.
+[[p8]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 8
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+DURABILITY AND REINTERVENTION 
+STRATEGIES
+Reintervention after the RP occurs at a rate of <1% 
+per year.12,24,41,44,49 Since that risk is cumulative, young 
+patients are at higher risk of needed reintervention. The 
+most recent study with the longest median follow- up 
+????QT????qoK??
+from autograft intervention was 80% and homograft 
+intervention was 86%. Importantly, the 30-  day mortal-
+ity rate after the first Ross- related reintervention was 
+0%. That study was a post hoc analysis of the only ran-
+domized clinical trial involving the RP.32 It is critical that 
+such reinterventions be performed by experienced RP 
+surgeons, who are uniquely equipped to navigate the 
+complex anatomic considerations and technical chal -
+lenges of these reoperations.
+Reintervention options after the RP vary depending 
+on the specific issue:
+?PM?g?
+In most cases, the first line therapy for homograft 
+stenosis has become transcatheter pulmonary 
+valve replacement. This approach has revolution-
+ized care for patients with pulmonary stenosis 
+and avoids the need for repeat open surgery.50,51 
+However, there may still be scenarios that warrant 
+surgical intervention such as early failure, infec -
+tion, or anatomic contraindication to the tran -
+scatheter approach.
+ 2. Autograft regurgitation
+In patients with severe autograft regurgitation 
+after the RP who warrant therapy (symptoms or 
+left ventricular dilation/dysfunction), reoperation is 
+necessary. These reoperations can be done safely 
+with low risk and should be performed by aortic 
+surgeons with extensive root experience and, 
+ideally, those who perform the RP. Transcatheter 
+therapies such as the JenaValve are on the hori-
+zon for the treatment of aortic regurgitation and 
+are being used in Europe.52–54
+ 3. Autograft dilation
+Since the autograft is the pulmonary root, it can 
+dilate under systemic pressure. As discussed 
+earlier, blood pressure control is of paramount 
+importance to prevent this dilation. Some of 
+the other strategies discussed, including using 
+a short conduit and stabilizing the sinotubular 
+junction, have resulted in a significant reduction 
+in autograft dilation. 36,41 Patients with aneurys -
+mal autografts are typically managed similarly 
+to those with aortic dilation albeit with different 
+size thresholds for intervention. Typically, dilated 
+autografts do not require intervention if <6 cm in 
+diameter. While there are no data to guide this 
+intervention threshold, neo-  aortic dissection or 
+rupture is profoundly uncommon, with only a few 
+cases reported.55 When intervention is required, 
+options include valve- sparing root replacement if 
+the pulmonary valve remains competent or com-
+posite root replacement with a prosthetic valve.
+EXPANDING ACCESS AND FUTURE 
+DIRECTIONS
+As the use of the RP continues to grow, further 
+refinement and advancement of surgical techniques 
+aimed at simplification and durability are necessary. 
+One of the greatest challenges of this operation is 
+its complexity, which can make safe dissemination 
+difficult. The authors believe that the RP can be 
+reproducibly taught to surgeons with extensive aortic 
+root experience. Surgeons performing the RP at high 
+volumes should be encouraged to educate other 
+surgeons and trainees. It is essential to promote 
+research and encourage industry to continue improving 
+valve preservation and tissue engineering to enhance 
+homograft durability. Minimally invasive approaches 
+to aortic root surgery are slowly emerging and may 
+be applied to the RP in the future. Transcatheter 
+options for a regurgitant aortic valve could offer a 
+useful alternative to reoperation for patients with 
+autograft dysfunction. As the popularity of the RP 
+grows, maintaining rigorous patient selection criteria 
+and striving for excellent clinical outcomes is crucial to 
+ensure the procedure’s long-  term viability. Advancing 
+the field also requires improving national registries, 
+conducting more robust prospective studies, and 
+strongly considering randomized clinical trials to 
+further substantiate and expand the evidence base.
+CONCLUSIONS
+In conclusion, the RP has proven to be a durable and ef-
+fective option for AVR, particularly in carefully selected 
+patients performed by experienced surgeons at high- 
+volume centers. The RP is the only AVR option with the 
+potential to restore normal life expectancy. The resur -
+gence of interest in the RP, or the Ross Renaissance, 
+is timely, especially considering the growing use of 
+transcatheter therapies for younger, low- risk patients 
+and the increasing recognition of the adverse effects 
+of residual stenosis and PPM.
+While mechanical heart valves are often touted for 
+their longevity, there is limited evidence to support the 
+claim of their indefinite durability despite their clearly 
+lower rates of reintervention in comparison with bio -
+prosthetic valves, 56,57 and they have been shown to 
+[[p9]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 9
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+negatively impact life expectancy, with increased rates 
+of bleeding58 due to anticoagulation later in life.8,9
+Patient selection for the RP should be done in a mul-
+tidisciplinary setting, involving close collaboration be -
+tween cardiologists and surgeons. For those seeking 
+qualified surgeons and centers of excellence, a use -
+ful starting point is the following website: https://  thero 
+sspro cedure. org/ ross-  proce dure-  surgeons. Given the 
+technical complexity of the RP and the fact that it in -
+volves 2 valves, it is imperative that the procedure be 
+performed by experienced surgeons at high-  volume 
+centers to ensure optimal outcomes and minimize the 
+risk of failure at both valve sites.
+Finally, enhancing awareness through targeted ed -
+ucation and dissemination of clinical outcome data 
+is crucial to ensure that eligible patients are informed 
+about this viable surgical option. By fostering a deeper 
+understanding of the RP’s benefits and risks, we can 
+empower clinicians to make more informed decisions 
+and patients to actively participate in their treatment 
+planning, ultimately leading to improved long- term out-
+comes and quality of life.
+ARTICLE INFORMATION
+Received June 16, 2025; accepted November 25, 2025.
+Affiliations
+Division of Cardiac Surgery, Massachusetts General Hospital, Boston, 
+MA (J.P.B., L.N., M.P.S.); Division of Cardiovascular Surgery, Mount Sinai 
+Hospital, Icahn School of Medicine at Mount Sinai, New York, NY (E.W., I.E.); 
+Division of Cardiovascular Surgery, University of Toronto, Toronto, Ontario, 
+Canada (M.O.); Division of Cardiology, University of Vermont Medical Center, 
+Burlington, VT (W.H.); and Division of Cardiology, Massachusetts General 
+Hospital, Boston, MA (D.D.Y.).
+Sources of Funding
+None.
+Disclosures
+None.
+Supplemental Material
+Table S1
+REFERENCES
+?PM?q?saK?v?jeK?n’a?rK?fL??r?luK?f?ekK?
+Gammie JS. Rethinking the ross procedure in adults. Ann Thorac Surg . 
+2014;97:175–181. doi: 10.1016/j.athoracsur.2013.07.036
+ 2. Mazine A, Chu MWA, Peterson MD, Ouzounian M. Commentary: the 
+Ross renaissance. Oper Tech Thorac Cardiovasc Surg . 2021;26:210–
+211. doi: 10.1053/j.optechstcvs.2021.06.008
+ 3. Sievers HH, Stierle U, Charitos EI, Takkenberg JJM, Hörer J, Lange R, 
+Franke U, Albert M, Gorski A, Leyh RG, et al. A multicentre evaluation 
+of the autograft procedure for young patients undergoing aortic valve 
+replacement: update on the German Ross registry. Eur J Cardiothorac 
+Surg. 2016;49:212–218. doi: 10.1093/ejcts/ezv001
+ 4. Martin E, Mohammadi S, Jacques F, Kalavrouziotis D, Voisine P, Doyle 
+D, Perron J. Clinical outcomes following the Ross procedure in adults: a 
+25- year longitudinal study. J Am Coll Cardiol . 2017;70:1890–1899. doi: 
+10.1016/j.jacc.2017.08.030
+ 5. Mazine A, El-  Hamamsy I, Verma S, Peterson MD, Bonow RO, Yacoub 
+MH, David TE, Bhatt DL. Ross procedure in adults for cardiologists 
+and cardiac surgeons: JACC state-  of- the- art review. J Am Coll Cardiol . 
+2018;72:2761–2777. doi: 10.1016/j.jacc.2018.08.2200
+ 6. Pibarot P, Dumesnil JG. Prosthetic heart valves: selection of the optimal 
+prosthesis and long-  term management. Circulation . 2009;119:1034–
+1048. doi: 10.1161/CIRCUL ATIONAHA.108.778886
+ 7. Pibarot P, Dumesnil JG. Prosthesis-  patient mismatch: definition, clin -
+ical impact, and prevention. Heart . 2006;92:1022–1029. doi: 10.1136/
+hrt.2005.067363
+ 8. Chiang YP, Chikwe J, Moskowitz AJ, Itagaki S, Adams DH, Egorova NN. 
+Survival and long-  term outcomes following bioprosthetic vs mechan -
+ical aortic valve replacement in patients aged 50 to 69 years. JAMA . 
+2014;312:1323–1329. doi: 10.1001/jama.2014.12679
+ 9. El- Hamamsy I, Toyoda N, Itagaki S, Stelzer P, Varghese R, Williams EE, 
+Egorova N, Adams DH. Propensity-  matched comparison of the Ross 
+procedure and prosthetic aortic valve replacement in adults. J Am Coll 
+Cardiol. 2022;79:805–815. doi: 10.1016/j.jacc.2021.11.057
+ 10. Alkhouli M, Alqahtani F, Simard T, Pislaru S, Schaff HV, Nishimura RA. 
+Predictors of use and outcomes of mechanical valve replacement in the 
+United States (2008-  2017). J Am Heart Assoc . 2021;10:e019929. doi: 
+10.1161/JAHA.120.019929
+ 11. Misawa Y. Valve-  related complications after mechanical heart 
+valve implantation. Surg Today . 2015;45:1205–1209. doi: 10.1007/
+s00595-  014- 1104- 0
+ 12. David TE, David C, Woo A, Manlhiot C. The Ross procedure: outcomes 
+at 20 years. J Thorac Cardiovasc Surg . 2014;147:85–93. doi: 10.1016/j.
+jtcvs.2013.08.007
+ 13. Shetty V, Narayan P, Rao S, Tambrallimath P, Makwana RK, 
+Gunaseelan V, Shetty DP. The ross procedure in young and middle- 
+aged patients: long-  term outcomes. Ann Thorac Surg . doi: 10.1016/j.
+athoracsur.2025.08.045
+ 14. Mazine A, David TE, Rao V, Hickey EJ, Christie S, Manlhiot C, Ouzounian 
+M. Long- term outcomes of the Ross procedure versus mechanical aor -
+tic valve replacement: propensity-  matched cohort study. Circulation. 
+2016;134:576–585. doi: 10.1161/CIRCUL ATIONAHA.116.022800
+ 15. Yokoyama Y, Kuno T, Toyoda N, Fujisaki T, Takagi H, Itagaki S, Ibrahim 
+M, Ouzounian M, el-  Hamamsy I, Fukuhara S. Ross procedure ver -
+sus mechanical versus bioprosthetic aortic valve replacement: a net -
+work meta-  analysis. J Am Heart Assoc . 2023;12:e8066. doi: 10.1161/
+JAHA.122.027715
+ 16. Mazine A, David TE, Stoklosa K, Chung J, Lafreniere-  Roula M, 
+Ouzounian M. Improved outcomes following the Ross procedure com -
+pared with bioprosthetic aortic valve replacement. J Am Coll Cardiol . 
+2022;79:993–1005. doi: 10.1016/j.jacc.2021.12.026
+ 17. Mazine A, Ghoneim A, El-  Hamamsy I. The Ross procedure: how 
+I teach it. Ann Thorac Surg . 2018;105:1294–1298. doi: 10.1016/j.
+athoracsur.2018.01.048
+ 18. Ross D. Replacement of aortic and mitral valves with a pulmonary auto -
+graft. Lancet. 1967;290:956–958. doi: 10.1016/S0140- 6736(67)90794- 5
+ 19. El- Hamamsy I, O’Gara PT, Adams DH. The Ross procedure: clinical 
+relevance, guidelines recognition, and centers of excellence. J Am Coll 
+Cardiol. 2022;79:1006–1009.
+ 20. Bilkhu R, Jahangiri M, Otto CM. Patient-  prosthesis mismatch follow -
+ing aortic valve replacement. Heart . 2019;105(Suppl 2):s28–s33. doi: 
+10.1136/heartjnl- 2018- 313515
+ 21. Dayan V, Vignolo G, Soca G, Paganini JJ, Brusich D, Pibarot P. 
+Predictors and outcomes of prosthesis-  patient mismatch after aortic 
+valve replacement. JACC Cardiovasc Imaging . 2016;9:924–933. doi: 
+10.1016/j.jcmg.2015.10.026
+ 22. Flameng W, Herregods MC, Vercalsteren M, Herijgers P, Bogaerts K, 
+Meuris B. Prosthesis-  patient mismatch predicts structural valve degen -
+eration in bioprosthetic heart valves. Circulation . 2010;121:2123–2129. 
+doi: 10.1161/CIRCUL ATIONAHA.109.901272
+ 23. Nam L, Singh R, Hirji SA, Nguyen V, Osho AA, Jassar AS, Aranki SF, 
+D’Alessandro DA, Sundt TM III, Bloom JP. A multi-  institutional study on 
+the prevalence and clinical impact of patient-  prosthesis mismatch in 
+surgical aortic valve replacement. Ann Thorac Surg . 2025;120:1–10. doi: 
+10.1016/j.athoracsur.2025.04.036
+ 24. Fullerton DA, Fredericksen JW, Sundaresan RS, Horvath KA. 
+The Ross procedure in adults: intermediate-  term results. Ann 
+Thorac Surg . 2003;76:471–476; discussion 476–7. doi: 10.1016/
+S0003-  4975(03)00532- 0
+ 25. Um KJ, Mcclure GR, Belley-  Cote EP, Gupta S, Bouhout I, Lortie H, 
+Alraddadi H, Alsagheir A, Bossard M, Mcintyre WF, et al. Hemodynamic 
+outcomes of the Ross procedure versus other aortic valve replacement: 
+[[p10]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 10
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+a systematic review and meta- analysis. J Cardiovasc Surg. 2018;59:462–
+470. doi: 10.23736/S0021- 9509.18.10255- 2
+ 26. Feier H, Collart F, Ghez O, Riberi A, Caus T, Kreitmann B, Metras D. 
+Risk factors, dynamics, and cutoff values for homograft stenosis after 
+the Ross procedure. Ann Thorac Surg . 2005;79:1669–1675; discussion 
+1675. doi: 10.1016/j.athoracsur.2004.10.060
+ 27. El- Hamamsy I, Poirier NC. What is the role of the Ross procedure in 
+today’s armamentarium? Can J Cardiol . 2013;29:1569–1576. doi: 
+10.1016/j.cjca.2013.08.009
+ 28. Fogerty AE. Challenges of anticoagulation therapy in pregnancy. Curr Treat 
+Options Cardiovasc Med. 2017;19:76. doi: 10.1007/s11936- 017- 0575- x
+ 29. Wichert-  Schmitt B, Grewal J, Malinowski AK, Pfaller B, Losenno KL, 
+Kiess MC, Colman JM, Tsang W, Mason J, Siu SC, et al. Outcomes 
+of pregnancy in women with bioprosthetic heart valves with or with -
+out valve dysfunction. J Am Coll Cardiol . 2022;80:2014–2024. doi: 
+10.1016/j.jacc.2022.09.019
+ 30. Thompson SE, Prabhakar CRK, Creasey T, Stoll VM, Gurney L, Green J, 
+Fox C, Morris RK, Thompson PJ, Thorne SA, et al. Pregnancy outcomes 
+in women following the Ross procedure. Int J Cardiol . 2023;371:135–
+139. doi: 10.1016/j.ijcard.2022.09.069
+ 31. Chauvette V, Bouhout I, Lefebvre L, Tarabzoni M, Chamberland MÈ, 
+Poirier N, Demers P, Chu MWA, Perron J, el- Hamamsy I. The Ross pro -
+cedure is a safe and durable option in adults with infective endocarditis: 
+a multicentre study. Eur J Cardiothorac Surg . 2020;58:537–543. doi: 
+10.1093/ejcts/ezaa078
+ 32. El- Hamamsy I, Eryigit Z, Stevens LM, Sarang Z, George R, Clark L, 
+Melina G, Takkenberg JJM, Yacoub MH. Long-  term outcomes after au -
+tograft versus homograft aortic root replacement in adults with aortic 
+valve disease: a randomised controlled trial. 2010;376:524–531. doi: 
+10.1016/S0140- 6736(10)60828- 8
+ 33. Williams EE, El-  Hamamsy I. The ross procedure. Oper Tech Thorac 
+Cardiovasc Surg. 2021;26(2):189–209.
+ 34. Witten JC, Durbak E, Houghtaling PL, Unai S, Roselli EE, Bakaeen 
+FG, Johnston DR, Svensson LG, Jaber W, Blackstone EH, et  al. 
+Performance and durability of cryopreserved allograft aortic valve re -
+placements. Ann Thorac Surg . 2021;111:1893–1900. doi: 10.1016/j.
+athoracsur.2020.07.033
+ 35. Nappi F, Nenna A, Petitti T, Spadaccio C, Gambardella I, Lusini M, 
+Chello M, Acar C. Long-  term outcome of cryopreserved allograft for 
+aortic valve replacement. J Thorac Cardiovasc Surg . 2018;156:1357–
+1365.e6. doi: 10.1016/j.jtcvs.2018.04.040
+ 36. Andreas M, Seebacher G, Reida E, Wiedemann D, Pees C, Rosenhek 
+R, Heinze G, Moritz A, Kocher A, Laufer G. A single-  center experience 
+with the ross procedure over 20 years. Ann Thorac Surg . 2014;97:182–
+188. doi: 10.1016/j.athoracsur.2013.08.020
+ 37. Sibilio S, Koziarz A, Belley-  Côté EP, McClure GR, MacIsaac S, Reza 
+SJ, Um KJ, Lengyel A, Mendoza P, Alsagheir A, et al. Outcomes after 
+Ross procedure in adult patients: a meta-  analysis and microsimulation. 
+J Card Surg. 2019;34:285–292. doi: 10.1111/jocs.14020
+ 38. Notenboom ML, Melina G, Veen KM, de Robertis F, Coppola G, de 
+Siena P, Navarra EM, Gaer J, Ibrahim MEK, el-  Hamamsy I, et al. Long- 
+term clinical and echocardiographic outcomes following the Ross pro -
+cedure: a post hoc analysis of a randomized clinical trial. JAMA Cardiol . 
+2024;9:6–14. doi: 10.1001/jamacardio.2023.4090
+ 39. Ryan WH, Squiers JJ, Harrington KB, Goodenow T, Rawitscher C, 
+Schaffer JM, DiMaio JM, Brinkman WT. Long-  term outcomes of the 
+Ross procedure in adults. Ann Cardiothorac Surg . 2021;10:499–508. 
+doi: 10.21037/acs- 2021- rp- fs- 28
+ 40. Buratto E, Shi WY, Wynne R, Poh CL, Larobina M, O’Keefe M, Goldblatt 
+J, Tatoulis J, Skillington PD. Improved survival after the Ross procedure 
+compared with mechanical aortic valve replacement. J Am Coll Cardiol . 
+2018;71:1337–1344. doi: 10.1016/j.jacc.2018.01.048
+ 41. Aboud A, Charitos EI, Fujita B, Stierle U, Reil JC, Voth V, Liebrich M, 
+Andreas M, Holubec T, Bening C, et al. Long- term outcomes of patients 
+undergoing the Ross procedure. J Am Coll Cardiol . 2021;77:1412–1422. 
+doi: 10.1016/j.jacc.2021.01.034
+ 42. Flynn CD, De Bono JH, Muston B, Rattan N, Tian DH, Larobina M, 
+O’Keefe M, Skillington P. Systematic review and meta-  analysis of 
+long- term outcomes in adults undergoing the Ross procedure. Ann 
+Cardiothorac Surg . 2021;10:411–419. doi: 10.21037/acs- 2021- rp- 30
+ 43. Juthier F, Vincentelli A, Pinçon C, Banfi C, Ennezat P, Maréchaux S, 
+Prat A. Reoperation after the Ross procedure: incidence, management, 
+and survival. Ann Thorac Surg . 2012;93:598–604; discussion 605. doi: 
+10.1016/j.athoracsur.2011.06.083
+ 44. Stulak JM, Burkhart HM, Sundt TM 3rd, Connolly HM, Suri RM, 
+Schaff HV, Dearani JA. Spectrum and outcome of reoperations after 
+the Ross procedure. Circulation . 2010;122:1153–1158. doi: 10.1161/
+CIRCULATIONAHA.109.897538
+ 45. Alsoufi B, Al-  Halees Z, Manlhiot C, McCrindle BW, Al-  Ahmadi M, 
+Sallehuddin A, Canver CC, Bulbul Z, Joufan M, Fadel B. Mechanical 
+valves versus the Ross procedure for aortic valve replacement in 
+children: propensity-  adjusted comparison of long-  term outcomes. 
+J Thorac Cardiovasc Surg . 2009;137:362–370.e9. doi: 10.1016/j.
+jtcvs.2008.10.010
+ 46. El Sherif N, Dearani JA, Connolly HM, Bagameri G, Pochettino A, Stulak 
+JM, Stephens EH. Complexity and outcome of reoperations after the 
+Ross procedure in the current era. Ann Thorac Surg . 2023;115:633–
+639. doi: 10.1016/j.athoracsur.2022.05.017
+ 47. Gofus J, Fila P, Drabkova S, Zacek P, Ondrasek J, Nemec P, Sterba J, Tuna 
+M, Jarkovsky J, Vojacek J. Ross procedure provides survival benefit over 
+mechanical valve in adults: a propensity- matched nationwide analysis. Eur 
+J Cardiothorac Surg. 2022;61:1357–1365. doi: 10.1093/ejcts/ezac013
+ 48. Otto CM, Nishimura RA, Bonow RO, Carabello BA, Erwin JP 3rd, 
+Gentile F, Jneid H, Krieger EV, Mack M, McLeod C, et al. 2020 ACC/
+AHA guideline for the management of patients with valvular heart dis -
+ease: a report of the American college of cardiology/American heart 
+association joint committee on clinical practice guidelines. Circulation . 
+2021;143:e72–e227. doi: 10.1161/CIR.0000000000000923
+ 49. Kumar SR, Bansal N, Wells WJ, Starnes VA. Outcomes of reinter -
+vention on the autograft after Ross procedure. Ann Thorac Surg . 
+2016;102:1517–1521. doi: 10.1016/j.athoracsur.2016.04.059
+ 50. Alassas K, Mohty D, Clavel MA, Husain A, Hijji T, Aljoufan M, Alhalees Z, 
+Fadel BM. Transcatheter versus surgical valve replacement for a failed 
+pulmonary homograft in the Ross population. J Thorac Cardiovasc 
+Surg. 2018;155:1434–1444. doi: 10.1016/j.jtcvs.2017.10.141
+ 51. Nordmeyer J, Lurz P, Tsang VT, Coats L, Walker F, Taylor AM, 
+Khambadkone S, de Leval MR, Bonhoeffer P. Effective transcatheter 
+valve implantation after pulmonary homograft failure: a new perspective 
+on the Ross operation. J Thorac Cardiovasc Surg . 2009;138:84–88. 
+doi: 10.1016/j.jtcvs.2008.08.072
+ 52. Treede H, Mohr FW, Baldus S, Rastan A, Ensminger S, Arnold M, 
+Kempfert J, Figulla HR. Transapical transcatheter aortic valve implanta -
+tion using the JenaValve™ system: acute and 30-  day results of the mul-
+ticentre CE-  mark study. Eur J Cardiothorac Surg . 2012;41:e131–e138. 
+doi: 10.1093/ejcts/ezs129
+ 53. Seiffert M, Bader R, Kappert U, et  al. Transapical implantation of a 
+second- generation transcatheter heart valve for the treatment of aor -
+tic regurgitation—initial German experience. Thorac Cardiovasc Surg . 
+2014;62(S 01):OP37. doi: 10.1055/s- 0034- 1367114
+ 54. Wernly B, Eder S, Navarese EP, Kretzschmar D, Franz M, Alushi B, 
+Beckhoff F, Jung C, Lichtenauer M, Datz C, et al. Transcatheter aortic 
+valve replacement for pure aortic valve regurgitation: “on-  label” versus 
+“off- label” use of TAVR devices. Clin Res Cardiol . 2019;108:921–930. 
+doi: 10.1007/s00392- 019- 01422- 0
+ 55. Zimmermann CA, Weber R, Greutmann M, Dave H, Müller C, Prêtre R, 
+Seifert B, Buechel EV, Kretschmar O, Jost CHA. Dilatation and dysfunc -
+tion of the neo-  aortic root and in 76 patients after the Ross procedure. 
+Pediatr Cardiol . 2016;37:1175–1183. doi: 10.1007/s00246- 016- 1415- 6
+ 56. Ashwat E, Ahmad D, Sá MP, Gallegos DS, Wang Y, Thoma F, Brown 
+JA, Yoon P, Bonatti J, Kaczorowski D, et  al. Age-  based outcomes 
+after surgical aortic valve replacement with bioprosthetic versus 
+mechanical valves. Am J Cardiol . 2024;226:72–79. doi: 10.1016/j.
+amjcard.2024.07.004
+ 57. Tasoudis PT, Varvoglis DN, Vitkos E, Mylonas KS, Sá MP, Ikonomidis 
+JS, Caranasos TG, Athanasiou T. Mechanical versus bioprosthetic 
+valve for aortic valve replacement: systematic review and meta-  analysis 
+of reconstructed individual participant data. Eur J Cardiothorac Surg . 
+2022;62:ezac268. doi: 10.1093/ejcts/ezac268
+ 58. Warraich N, Sá MP, Jacquemyn X, Ahmad D, Serna-  Gallegos D, Sultan 
+I. Long-  term outcomes of mechanical versus bioprosthetic aortic 
+valve replacement in patients aged under 50 years: meta-  analysis of 
+reconstructed time-  to- event data. Am J Cardiol . 2024;227:11–17. doi: 
+10.1016/j.amjcard.2024.07.006
+ 59. da Costa FDA, Takkenberg JJM, Fornazari D, Balbi Filho EM, Colatusso 
+C, Mokhles MM, da Costa AB, Sagrado AG, Ferreira AD, Fernandes T, 
+et al. Long- term results of the Ross operation: an 18-  year single institu -
+tional experience. Eur J Cardiothorac Surg . 2014;46:415–422; discus-
+sion 422. doi: 10.1093/ejcts/ezu013
+[[p11]]
+J Am Heart Assoc. 2026;15:e044454. DOI: 10.1161/JAHA.125.044454 11
+Bloom et al Patient Selection, Technique, and Long-  Term Outcomes in Adults
+ 60. Kallio M, Pihkala J, Sairanen H, Mattila I. Long-  term results of the Ross 
+procedure in a population-  based follow-  up. Eur J Cardiothorac Surg . 
+2015;47:e164–e170. doi: 10.1093/ejcts/ezv004
+ 61. Diaz R, Hernandez-  Vaquero D, Alvarez-  Cabo R, Avanzas P, Silva J, 
+Moris C, Pascual I. Long-  term outcomes of mechanical versus bio -
+logical aortic valve prosthesis: systematic review and meta-  analysis. 
+J Thorac Cardiovasc Surg . 2019;158:706–714.e18. doi: 10.1016/j.
+jtcvs.2018.10.146
+ 62. Anselmi A, Flecher E, Chabanne C, Ruggieri VG, Langanay T, Corbineau 
+H, Leguerrier A, Verhoye JP. Long-  term follow-  up of bioprosthetic aor -
+tic valve replacement in patients aged ≤60 years. J Thorac Cardiovasc 
+Surg. 2017;154:1534–1541.e4. doi: 10.1016/j.jtcvs.2017.05.103
+ 63. Biancari F, D’Errigo P, Barbanti M, Badoni G, Tamburino C, Polvani G, 
+Costa G, Baglio G, Rosato S. Ten-  year outcomes after transcatheter or 
+surgical aortic valve replacement in low-  risk patients: the OBSERVANT 
+study. Int J Cardiol Heart Vasc . 2024;55:101545. doi: 10.1016/j.
+ijcha.2024.101545
+ 64. Chemtob RA, Rajeswaran J, Kalahasti V, Griffin BP, Desai MY, Kapadia 
+SR, Blackston EH, Karamlou T, Svensson LG, et  al. Early and late 
+experience of the modified aortic reimplantation operation. J Thorac 
+Cardiovasc Surg. 2025;170:126–134. doi: 10.1016/j.jtcvs.2024.08.025
+ 65. Arnaoutakis GJ, Sultan I, Siki M, Bavaria JE. Bicuspid aortic valve re -
+pair: systematic review on long- term outcomes. Ann Cardiothorac Surg . 
+2019;8:302–312. doi: 10.21037/acs.2019.05.08
+ 66. Wilson- Smith AR, Wilson-  Smith CJ, Strode Smith J, Ng D, Muston BT, 
+Eranki A, Williams ML. The outcomes of three decades of the David 
+and Yacoub procedures in bicuspid aortic valve patients-  a systematic 
+review and meta-  analysis. Ann Cardiothorac Surg . 2023;12:286–294. 
+doi: 10.21037/acs- 2023- avs2- 19
+ 67. Chan V, Malas T, Lapierre H, Boodhwani M, Lam BK, Rubens FD, Hendry 
+PJ, Masters RG, Goldstein W, Mesana TG, et  al. Reoperation of left 
+heart valve bioprostheses according to age at implantation. Circulation . 
+2011;124(11 Suppl):S75–S80. doi: 10.1161/CIRCUL ATIONAHA.110.011973
+ 68. Piazza N, Bleiziffer S, Brockmann G, Hendrick R, Deutsch MA, Opitz A, 
+Mazzitelli D, Tassani-  Prell P, Schreiber C, Lange R. Transcatheter aor -
+tic valve implantation for failing surgical aortic bioprosthetic valve: from 
+concept to clinical application and evaluation (part 2). JACC Cardiovasc 
+Interv. 2011;4:733–742. doi: 10.1016/j.jcin.2011.05.007
+ 69. Ruel M, Kulik A, Rubens FD, Bédard P, Masters RG, Pipe AL, Mesana 
+TG. Late incidence and determinants of reoperation in patients with 
+prosthetic heart valves. Eur J Cardiothorac Surg . 2004;25:364–370. 
+doi: 10.1016/j.ejcts.2003.12.013
+ 70. Blackman DJ, Saraf S, MacCarthy PA, Myat A, Anderson SG, Malkin 
+CJ, Cunnington MS, Somers K, Brennan P, Manoharan G, et al. Long- 
+term durability of transcatheter aortic valve prostheses. J Am Coll 
+Cardiol. 2019;73:537–545. doi: 10.1016/j.jacc.2018.10.078
+ 71. Schäfers HJ, Raddatz A, Schmied W, Takahashi H, Miura Y, Kunihara 
+T, Aicher D. Reexamining remodeling. J Thorac Cardiovasc Surg . 
+2015;149(2 Suppl):S30–S36. doi: 10.1016/j.jtcvs.2014.09.048
+ 72. Kim JS, Kang Y, Sohn SH, Hwang HY, Choi JW, Kim KH. Long-  term 
+clinical outcomes of the on-  X mechanical prosthetic valve in the aor -
+tic or mitral position ―  a single-  center experience of up to 20 years’ 
+follow up ―. Circ J. 2021;85:1042–1049. doi: 10.1253/circj.CJ-  20- 1193
+ 73. Leontyev S, Trommer C, Subramanian S, Lehmann S, Dmitrieva Y, 
+Misfeld M, Mohr FW, Border MA. The outcome after aortic valve- sparing 
+(David) operation in 179 patients: a single-  centre experience. Eur J 
+Cardiothorac Surg . 2012;42:261–266; discussion 266–7. doi: 10.1093/
+ejcts/ezs011

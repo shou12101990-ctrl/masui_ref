@@ -1,0 +1,434 @@
+
+[[p1]]
+ւ֎Ͱͷ՝୊
+一次救命処置 （BLS） 作業部会　共同座長（五十音順）
+石川　雅巳	 呉共済病院麻酔・救急集中治療部
+若松　弘也	 山口大学医学部附属病院集中治療部
+一次救命処置 （BLS） 作業部会　担当編集委員（五十音順）
+西山　知佳	 京都大学大学院医学研究科人間健康科学系専攻先端看護科学コースクリティカルケア看護学分野
+畑中　哲生	 救急振興財団救急救命九州研修所
+普及・教育のための方策 （EIT） 作業部会　共同座長（五十音順）
+加藤　啓一	 日本赤十字社医療センター麻酔科
+漢那　朝雄	 聖マリア病院侵襲期全身管理科
+普及・教育のための方策 （EIT） 作業部会　担当編集委員（五十音順）
+石見　　拓	 京都大学環境安全保健機構附属健康科学センター
+松山　　匡	 京都府立医科大学救急医療学教室編集委員
+ୈ 10ষ
+[[p2]]
+第10章 海外での課題
+◆1 はじめに
+本 章では ， BLS および EIT タスクフォースで
+CoSTR2020 作成のために検討された CQの中で，わが
+国の実情にはそぐわないが ，蘇生科学の世界で重要な
+CQとして取り上げられエビデンスの 評価がなされた 3
+つを紹介する．
+紹介する CQは，オピオイド中毒の蘇生治療，オピオ
+イド中毒の教育，資源の乏しい環境での CPRトレーニ
+ング（いずれも CoSTR2015 においてエビデンス 評価）
+である．なお，オピオイド 中毒の教育は，CoSTR2015
+では BLS タスクフォースで 検 討されていたが ，
+CoSTR2020では EITタスクフォースに引き継がれて検
+討された．
+JRC 蘇生ガイドライン 2015においては，オピオイド
+に関連する課題を「オピオイドの関連が疑われる救急事
+態の蘇生」および 「オピオイド 中毒の二次救命処置」，
+「オピオイド中毒の教育」として，「第 2 章　成人の二次
+救命処置」で記述していた．今回もこれらの CQを「第
+2 章　成人の二次救命処置」へ移動することを検討した
+が，この 2つの CQ 以外にもわが国の実情にそぐわない
+ものがあった．そのためこれらの CQについては，JRC
+蘇生ガイドライン 2020で新たに設けた「海外での課題」
+という章の中でまとめて紹介することにした．以下に 3
+つの CQについて順に紹介をする．
+BLSから移動した CQ
+オピオイド中毒の蘇生治療（BLS 811 ：SysRev）
+EITから移動した CQ
+オピオイド中毒の教育（EIT 4001 ：ScopRev）
+ 資 源の 乏しい 環 境での CPR トレーニング （ EIT
+634：ScopRev）
+◆2 CoSTR2020 で検討された CQ
+1 オピオイド中毒の蘇生治療 SysRev
+CQ オピオイド 中毒による 心停止や呼吸停止が
+みられる 場合，市民によるナロキソン 投与
+は有益か？
+P オピオイド中毒が疑われる成人または小児の心停止・
+呼吸停止
+I 市民による標準的な CPRに加えてナロキソンを 投与
+する（筋肉内もしくは鼻腔内）
+C 市民による標準的な CPR
+O 神経学的転帰，生存，ROSC
+S RCTと RCT 以外（非無作為化の比較試験，分割時系
+列解析，前後比較研究，コホート 研究）を対象とし
+た．論文化されていない研究（学会抄録，臨床試験プ
+ロトコールなど ），動物研究，マネキン 研究，遺体を
+用いた研究は除外した
+T 英語の抄録がある，あらゆる言語，あらゆる年に出版
+された研究を対象とし，文献検索は 2019 年 10 月ま
+で
+推奨と提案
+反応がなく 普段通りの呼吸をしていない 傷病者に
+対し，遅延なく CPRを開始すること ，およびオピ
+オイド 中毒が疑われる 呼吸停止や心停止に対し，市
+民救助者がナロキソンを 使用することを 提案する
+（弱い推奨，専門家の同意に基づく）．
+エビデンスの評価に関する科学的コンセンサス
+あらゆる状況下において，オピオイド中毒が疑われる
+心停止または呼吸停止の成人または小児に対し，バイス
+タンダーが CPRに加えてナロキソンを 投与（筋肉内ま
+たは鼻腔内）した場合と，従来の CPRのみを行った場
+合とで，重大なアウトカムや重要なアウトカムを比較し
+た研究はなかった．
+480 JRC 蘇生ガイドライン 2020
+[[p3]]
+エビデンスから決断を導くための枠組み（EtD）
+オピオイドが原因で呼吸停止や心停止に陥った傷病者
+について ，従来の CPRのみを 行った 群と従来の CPR
+に加えナロキソンを用いた群を比較した直接的なエビデ
+ンスはなかった．しかし，オピオイド中毒が蔓延してい
+る実態やその 課題の重要性を強調する必要があると 考
+え，ILCOR BLS タスクフォースは専門家の意見に基づ
+いて推奨と提案を作成した．ナロキソンを投与しても傷
+病者に直接的な害はないが ，救助者はナロキソン 投与
+後，傷病者の行動変化に備える必要がある．麻薬の過剰
+摂取から蘇生した傷病者は興奮状態になったり，時に暴
+力的になることがある．
+この CQについて直接的に取り組んだ研究はなかった
+が，計 66 名を対象とした 4 件の症例集積研究によると，
+オピオイドの過剰摂取後にナロキソンを投与された傷病
+者 39 名全員が薬物過剰摂取による 症状から回復した．
+ナロキソンを投与されなかった群では，27 名中 24 名が
+回復した 1．地域レベルでは ，ナロキソンを 普及させる
+さまざまなプログラムの実施により，地域全体としての
+アウトカムの 改善を示すエビデンスがある ．22 件の観
+察研究に関する最近の SysRevでは，過剰投与に関する
+教育とナロキソンの配布の効果を Bradford Hill 基準を
+用いて評価し，これらのプログラムと死亡率の減少には
+因果関係があるであろうと結論づけている 2．
+呼吸停止や心停止の判断は必ずしも容易ではなく，オ
+ピオイドの過剰摂取が疑われる反応のない傷病者に遭遇
+した市民救助者は，心停止や呼吸停止を強く疑うことが
+望まれる．オピオイドの過剰摂取後にナロキソンが投与
+されれば，呼吸停止や心停止に対する予防効果はあるだ
+ろう．またより多くの対象者に対し望ましい効果の可能
+性があることは，このような状況でナロキソンを投与す
+るという提案を支持するものである．加えてナロキソン
+には合併症の報告がほとんどない 3．呼吸停止や心停止
+に際し，バイスタンダーが CPRを開始する代わりにナ
+ロキソンを探したり，投与したりするために貴重な時間
+を無駄にする可能性もあるが，大規模なナロキソン普及
+プログラムにおいて 有害事象の報告がないということ
+は，この点に大きな問題がないことを示している．
+オピオイドの 過剰摂取において CPR 単独と CPRと
+ナロキソンの併用とを正確に評価していないため，市民
+救助者がナロキソンを投与することの利益と害を正しく
+比較することはできない．しかし，オピオイド中毒の蔓
+延に対する海外における保健管理当局のオピオイド過剰
+摂取予防プログラムの一環として，市民へのナロキソン
+配布が普及している．総合的にみると，地域レベルでは
+これらのプログラムの 有益性が明らかになっている ．
+BLSタスクフォースは 害より利益がはるかに 優ると判
+断し，ナロキソンの使用は市民や関係者にも受け入れら
+れると考えた．EtDの詳細は，下記のリンク先を参照．
+https://www.ahajournals.org/action/download
+Supplement?doi=10.1161%2FCIR.0000000000000892
+&file=Supplement+Appendix+A.pdf
+JRCの見解
+強力な鎮痛薬であるオピオイド（モルヒネ，ジアモル
+ヒネ，フェンタニル，ブプレノルフィンなど）の過量投
+与による中毒は海外諸国，特に米国，カナダ，オースト
+ラリアおよびヨーロッパにおいて深刻な社会問題となっ
+ている．全世界におけるオピオイド中毒による死者の約
+QT?％を占める?米国では?QOOO?年以降，死者が急増し，
+2016 年には 50,000 人に達した．これは米国の不慮の事
+故による死亡原因として交通事故による約 40,000 人を
+抜いて第一位である．使用されたオピオイドのうち，処
+方薬と非合法薬物の割合は半々であり，オピオイド処方
+の厳格化や過量投与に対する注意喚起など，さまざまな
+社会的取り組みが行われている．
+このような社会的取り組みの 1つがナロキソン製剤の
+市民配布である．オピオイド中毒によって死亡する直接
+の原因である呼吸抑制に対し，ナロキソンは即時的な拮
+抗作用を示す．近年ではナロキソンを筋肉内または鼻腔
+内に簡便に投与できる製剤が開発され，オピオイド中毒
+の高リスク市民および，その家族・関係者に対して保健
+管理当局がナロキソン製剤を配布する社会的プログラム
+が一定の効果を上げている．
+わが国ではオピオイド 中毒は非常にまれである ．ま
+た，ナロキソンを筋肉内や鼻腔内に市民が投与できるよ
+うな工夫を施した製剤も入手不可能であり，これらのナ
+ロキソン製剤の市民への配布は非現実的であり，その必
+要性も低い．
+今後の課題
+ 現時点では，オピオイド 中毒が疑われる 呼吸停止や
+心停止の傷病者に CPRを施行する際，市民により投
+与されるナロキソンの 役割について 評価した直接の
+エビデンスはない．
+オピオイド中毒傷病者に対する最適な CPRは，それ
+以外の傷病者に対する CPRと異なるか．
+わが国におけるオピオイド 使用障害の今後の推移に
+ついて注意深く見守る必要がある．
+2 CoSTR2020 で検討された CQ
+481
+第
+10
+章
+海
+外
+で
+の
+課
+題
+[[p4]]
+2 オピオイド中毒の教育 ScopRev
+CQ オピオイド 中毒にファーストエイドを 提供
+する人への緊急時対応に関する教育は有効
+か？
+P オピオイド中毒にファーストエイドを提供する人
+I オピオイド中毒の緊急時対応や傷病者のケアに関する
+教育を行う
+C 別の教育を行うあるいはオピオイド中毒に特化した教
+育を行わない
+O 臨床的または 教育的なアウトカム ；生存，行われた
+ファーストエイド，技能，行動，知識
+S RCTと RCT 以外（非無作為化の比較試験，分割時系
+列解析，前後比較研究，コホート 研究）を対象とし
+た．論文化されていない研究（学会抄録，臨床試験プ
+ロトコールなど）は除外した
+T 英語の抄録がある，あらゆる言語，あらゆる年に出版
+された研究を対象とし，文献検索は 2019 年 11 月ま
+で
+推奨と提案
+ILCORは CoSTR2015でオピオイド 中毒のリス
+クを持つ人に，ナロキソンを 配布するかどうかにか
+かわらず ，オピオイド 中毒への対応の教育を提供す
+ることを 提案している （弱い推奨，エビデンスの 確
+実性：非常に低い，Grade 2D ）
+エビデンスのまとめ
+JRC 蘇生ガイドライン 2015では，二次救命処置とし
+てオピオイド中毒による呼吸停止にナロキソンの使用を
+推奨した（強い推奨，エビデンスの 確実性：非常に低
+い）4, 5 ．CoSTR2015では，オピオイド中毒が疑われる場
+合の市民によるナロキソンの使用についてはエビデンス
+が不足しているとの理由から推奨も提案も行わなかった
+が，オピオイド中毒のリスクが高い人にナロキソンを配
+布するかどうかにかかわらず，オピオイド中毒への対応
+を教育することを提案した（弱い推奨，エビデンスの確
+実性：非常に低い）6, 7 ．ILCOR2020 EITタスクフォース
+は，オピオイド中毒への対応に関する現行の教育プログ
+ラムの全体像を掴み，オピオイド中毒の可能性がある人
+へのナロキソンの使用の教育に関する SysRevを試みた
+が，質の高い研究が不十分であったため ，ScopRevを
+考慮した．
+1 件の RCTは，介入後 3か月以内に目撃されたオピ
+オイド中毒 13 名中 8 名でファーストエイドとナロキソ
+ンが利用され，ナロキソンが 投与されたのはファシリ
+テータートレーニング 群によって 目撃された 5 名中 2
+名，パンフレットを受け取っただけの群により目撃され
+た 3 名中 0 名であったことを 報告した 8．オピオイド 中
+毒の教育に関連するエビデンスにいくつかの限界を確認
+した．教育的介入に関して報告に一貫性がないため，研
+究間の比較が困難となっており 教育的介入のための
+Guideline for Reporting Evidence-based Practice Educa-
+tional interventions and Teaching （GREET）チェック
+リストの利用は，将来の解析の標準化に役立つ可能性が
+ある
+9．1 件の RCT 8とコントロール 群を有するその 他
+7 件の研究 10-16だけでは，試験の厳密さの欠如のため比
+較や今後の推奨の強さに限界がある．
+ファーストエイドの実施および生存率というアウトカ
+ムは，一般的にナロキソンの処方の補充を求めてやって
+くる人々によって自己申告されたものであり，検証が可
+能かどうかは報告されていない．ファーストエイドやナ
+ロキソンの使用を検証するための前向き手段を開発しな
+ければならない ．例えば，EMSに通報があれば，中毒
+患者の状態，ナロキソンの 投与，および転帰を裏付け，
+信頼性の確立に役立つ．オピオイドを非医療目的で使用
+する人向けの短時間トレーニング （15 分未満）は，お
+そらくは薬物の個人的および社会的経験により，生存に
+有益と思われる．また，医療目的であるかを問わずオピ
+オイドを 使用する 人とファーストレスポンダー 向け
+ファーストエイドとナロキソン投与の技能トレーニング
+を含む eラーニング （16～60 分）は，中毒患者の転帰
+改善と関連している．
+ScopRevの詳細は，下記のリンク先を参照．
+https://www.ahajournals.org/action/download
+Supplement?doi=10.1161%2FCIR.0000000000000896
+&file=Supplement+Appendix+B+%284%29.pdf
+JRCの見解
+十分なエビデンスがなかったため CoSTR2015の勧告
+を変更しなかった ．わが国ではオピオイド 中毒は少な
+く，市民への中毒時の対応の教育が求められる状況では
+ない．
+今後の課題
+わが国におけるオピオイド使用障害の今後の推移につ
+いて注意深く見守る必要がある．
+第 10 章 海外での課題
+482 JRC 蘇生ガイドライン 2020
+[[p5]]
+3 資源の乏しい環境での CPR トレーニ
+ング ScopRev
+CQ 資 源の 乏しい 環 境での 効 果 的な CPR ト
+レーニングは？
+P 資源の乏しい環境に居住する成人と小児
+I 病院外での救命処置
+Cなし
+O 改善された臨床のアウトカム
+S RCTと RCT 以外（非無作為化の比較試験，分割時系
+列解析，前後比較研究，コホート 研究）を対象とし
+た．論文化されていない研究（学会抄録，臨床試験プ
+ロトコールなど）は除外した．外傷，小児，および新
+生児傷病者を対象とした研究は除外した
+T 英語の抄録がある，あらゆる言語で出版された研究を
+対象とし，文献検索は 2009 年 1 月 1 日～2019 年
+12 月 16 日
+推奨と提案
+CoSTR 2015から変更しない．低所得国における
+BLSまたは ALS 教育は，高所得国で行われている
+ものとは 異なる教育戦略のもとに 行われることが 合
+理的であろうと 提案する（弱い推奨，エビデンスの
+確実性：非常に低い，Grade 2D ）．最適な戦略はま
+だ確立されていない．
+エビデンスのまとめ
+高所得国からのものを 除く全てのデータを 評価した．
+確認された 24 件の研究は，さまざまな 地理的地域に由
+来し ， 地域ごとの 研 究 数には 大きな 違いがあった ．
+1,000 人以上の患者に関するデータを 報告した研究は 4
+件のみであった 17-20．ROSC 率は 0％から 62％と，研究
+間でかなり異なっていた．長期的なアウトカムは，資源
+の多い国の患者で報告されたものよりも 不良であっ
+た 21．調査患者数が多かった上位 3 件の研究 17, 18, 20 は，
+高い ROSC 率を報告している 多くの小規模研究と比較
+して低い ROSC 率であった．
+世界の多くの地域では資金不足のため，資源の豊かな
+環境で利用できる 標準的なケアを 提供できていない ．
+ILCORが国際的に有効な勧告を作成する際には，より
+脆弱なシステムにおいても適用できる推奨と提案を考慮
+すべきである 22．この ScopRevは，世界中の救急医療
+サービスの格差に対する認識を高め，文献の相違を特定
+し，これらの相違に対処するための将来の研究の優先順
+位を提案することを目的とした．
+ScopRevの詳細は，下記のリンク先を参照．
+https://www.ahajournals.org/action/download
+Supplement?doi=10.1161%2FCIR.0000000000000896
+&file=Supplement+Appendix+B+%284%29.pdf
+JRCの見解
+低所得国の資源不足を考えると，保健システム整備の
+優先順位の決定に際しては，例えば感染症対策や衛生環
+境の整備を優先させる必要があるなど，蘇生分野を優先
+することにより生じる利益が他の保健分野に生ずる不利
+益を上回ることが必要とされることに留意するべきであ
+り，完全な ALSと蘇生後のケアを実現するべきかにつ
+いては議論の余地がある．
+この ScopRevは，中～低所得国・地域からの報告に
+限定されているが，複数の報告の内容は高所得国におい
+ても災害発生時などに適用できることを 示唆している．
+国際社会の一員でもあるわが国もこの CQの内容に関心
+を持ち続け，留意すべきであろう．エビデンスが不十分
+なため SysRev は 実 施できなかったため ， 勧 告は
+CoSTR2015を変更しなかった．
+今後の課題
+ 低所得国における BLSまたは ALS 教育の最適な戦
+略が求められる．
+ 報告されたデータの 異質性を解決する 方法の検討．
+資源不足に起因している 可能性の認識と，資源の乏
+しい環境で救急医療を担当する組織に対しての ，ウ
+ツタインスタイルの 報告を考慮したデータ 収集やア
+ウトカム 報告書付きのレジストリなどの 導入の奨励
+およびサポートが必要である．
+ 資源の乏しい地域の専門家と臨床医が，ILCORなど
+のグローバルな 活動に関与し，その勧告が地域的に
+受容され，最大限に適用されることが求められる．
+文献
+1. Giglio RE, Li G, DiMaggio CJ. Effectiveness of bystander naloxone
+administration and overdose education programs ：a meta-analy-
+sis. Inj Epidemiol 2015 ；2：10.
+2. McDonald R, Strang J. Are take-home naloxone programmes
+effective? Systematic review utilizing application of the Bradford
+Hill criteria. Addiction 2016 ；111：1177-87.
+3. Wermeling DP. Review of naloxone safety for opioid overdose ：
+practical considerations for new technology and expanded public
+access. Ther Adv Drug Saf 2015 ；6：20-31.
+4. Soar J, Callaway CW, Aibiki M, et al. Part 4 ：Advanced life
+support：2015 International Consensus on Cardiopulmonary Re-
+suscitation and Emergency Cardiovascular Care Science with
+Treatment Recommendations. Resuscitation 2015 ；95：e71-120.
+5. Callaway CW, Soar J, Aibiki M, et al. Part 4 ：Advanced Life
+Support ：2015 International Consensus on Cardiopulmonary
+Resuscitation and Emergency Cardiovascular Care Science With
+Treatment Recommendations. Circulation 2015 ；132：S84-145.
+6. Travers AH, Perkins GD, Berg RA, et al. Part 3 ：Adult Basic Life
+文献
+483
+第
+10
+章
+海
+外
+で
+の
+課
+題
+[[p6]]
+Support and Automated External Defibrillation ：2015 Interna-
+tional Consensus on Cardiopulmonary Resuscitation and Emer-
+gency Cardiovascular Care Science With Treatment
+Recommendations. Circulation 2015 ；132：S51-83.
+7. Perkins GD, Travers AH, Berg RA, et al. Part 3 ：Adult basic life
+support and automated external defibrillation ：2015 International
+Consensus on Cardiopulmonary Resuscitation and Emergency
+Cardiovascular Care Science with Treatment Recommendations.
+Resuscitation 2015 ；95：e43-69.
+8. Williams AV, Marsden J, Strang J. Training family members to
+manage heroin overdose and administer naloxone ：randomized
+trial of effects on knowledge and attitudes. Addiction 2014 ；109：
+250-9.
+9. Phillips AC, Lewis LK, McEvoy MP, et al. Development and
+validation of the guideline for reporting evidence-based practice
+educational interventions and teaching（GREET）. BMC Med Educ
+2016；16：237.
+10. Doe-Simkins M, Quinn E, Xuan Z, et al. Overdose rescues by
+trained and untrained participants and change in opioid use among
+substance-using participants in overdose education and naloxone
+distribution programs ：a retrospective cohort study. BMC Public
+Health 2014 ；14：297.
+11. Dunn KE, Yepez-Laubach C, Nuzzo PA, et al. Randomized
+controlled trial of a computerized opioid overdose education
+intervention. Drug Alcohol Depend 2017 ；173 Suppl 1 ：S39-S47.
+12. Dwyer K, Walley AY, Langlois BK, et al. Opioid education and
+nasal naloxone rescue kits in the emergency department. West J
+Emerg Med 2015 ；16：381-4.
+13. Espelt A, Bosque-Prous M, Folch C, et al. Is systematic training in
+opioid overdose prevention effective? PLoS One 2017 ；12：
+e0186833.
+14. Franko TS, 2nd, Distefano D, Lewis L. A novel naloxone training
+compared with current recommended training in an overdose
+simulation. J Am Pharm Assoc（2003）2019；59：375-8.
+15. Jones JD, Roux P, Stancliff S, Matthews W, Comer SD. Brief
+overdose education can significantly increase accurate recognition
+of opioid overdose among heroin users. Int J Drug Policy 2014 ；
+QT：PUULVOM
+16. Lott DC, Rhodes J. Opioid overdose and naloxone education in a
+substance use disorder treatment program. Am J Addict 2016 ；
+QT：QQPLUM
+17. Hu Y, Xu J, Zhu H, et al. ［Profile and outcome of cardiopulmonary
+resuscitation after sudden cardiac arrests in the emergency
+department ：a multicenter prospective observational study ］.
+Zhonghua Wei Zhong Bing Ji Jiu Yi Xue 2018 ；30：234-9.
+18. Shao F, Li CS, Liang LR, Li D, Ma SK. Outcome of out-of-hospital
+cardiac arrests in Beijing, China. Resuscitation 2014 ；85：1411-7.
+19. Morais DA, Carvalho DV, Correa Ados R. Out-of-hospital cardiac
+arrest：determinant factors for immediate survival after cardio-
+pulmonary resuscitation. Rev Lat Am Enfermagem 2014 ；22：
+562-8.
+20. Navab E, Esmaeili M, Poorkhorshidi N, Salimi R, Khazaei A,
+Moghimbeigi A. Predictors of Out of Hospital Cardiac Arrest
+Outcomes in Pre-Hospital Settings ；a Retrospective Cross-sec-
+tional Study. Arch Acad Emerg Med 2019 ；7：36.
+21. Berdowski J, Berg RA, Tijssen JG, Koster RW. Global incidences of
+out-of-hospital cardiac arrest and survival rates ：Systematic
+review of 67 prospective studies. Resuscitation 2010 ；81：1479-87.
+22. Chamberlain D, Cummins RO. International emergency cardiac
+care：support, science, and universal guidelines. Ann Emerg Med
+1993；22：508-11.
+第 10 章 海外での課題
+484 JRC 蘇生ガイドライン 2020

@@ -1,0 +1,916 @@
+
+[[p1]]
+Malaty et al. BMC Neurology           (2022) 22:35  
+https://doi.org/10.1186/s12883-022-02560-1
+RESEARCH
+Does the 5–2-1 criteria identify patients 
+with advanced Parkinson’s disease? Real-
+world screening accuracy and burden 
+of 5–2-1-positive patients in 7 countries
+Irene A. Malaty1*, Pablo Martinez‑Martin2, K. Ray Chaudhuri3, Per Odin4, Matej Skorvanek5,6, 
+Joohi Jimenez‑Shahed7, Michael J. Soileau8, Susanna Lindvall9, Josefa Domingos9,10, Sarah Jones11, 
+Ali Alobaidi12,13, Yash J. Jalundhwala12, Prasanna L. Kandukuri12, Koray Onuk12, Lars Bergmann12, Samira Femia12, 
+Michelle Y. Lee12, Jack Wright14 and Angelo Antonini15 
+Abstract 
+Background: The burden of Parkinson’s disease (PD) worsens with disease progression. However, the lack of objec‑
+tive and uniform disease classification challenges our understanding of the incremental burden in patients with 
+advanced Parkinson’s disease (APD) and suboptimal medication control. The 5–2‑1 criteria was proposed by clinical 
+consensus to identify patients with advancing PD. Our objective was to evaluate the screening accuracy and incre‑
+mental clinical burden, healthcare resource utilization (HCRU), and humanistic burden in PD patients meeting the 
+5–2‑1 screening criteria.
+Methods: Data were drawn from the Adelphi Parkinson’s Disease Specific Program (DSP™), a multi‑country point‑
+in‑time survey (2017–2020). People with PD who were naive to device‑aided therapy and on oral PD therapy were 
+included. Patients meeting the 5–2‑1 screening criteria had one or more of the three clinical indicators of APD: (i) ≥5 
+doses of oral levodopa/day, OR (ii) “off” symptoms for ≥2 h of waking day, OR (iii) ≥1 h of troublesome dyskinesia. Cli‑
+nician assessment of PD stage was used as the reference in this study. Clinical screening accuracy of the 5–2‑1 criteria 
+was assessed using area under the curve and multivariable logistic regression models. Incremental clinical, HCRU, and 
+humanistic burden were assessed by known‑group comparisons between 5 and 2‑1‑positive and negative patients.
+Results: From the analytic sample (n = 4714), 33% of patients met the 5–2‑1 screening criteria. Among physician‑
+classified APD patients, 78.6% were 5–2‑1 positive. Concordance between clinician judgment and 5–2‑1 screening 
+criteria was > 75%. 5–2‑1‑positive patients were nearly 7‑times more likely to be classified as APD by physician judg‑
+ment. Compared with the 5–2‑1‑negative group, 5–2‑1‑positive patients had significantly higher clinical, HCRU, and 
+humanistic burden across all measures. In particular, 5–2‑1‑positive patients had 3.8‑times more falls, 3.6‑times higher 
+annual hospitalization rate, and 3.4‑times greater dissatisfaction with PD treatment. 5–2‑1‑positive patients also had 
+significantly lower quality of life and worse caregiver burden.
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco 
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Open Access
+*Correspondence:  Irene.malaty@neurology.ufl.edu
+1 University of Florida, Fixel Institute for Neurological Diseases, Gainesville, 
+FL, USA
+Full list of author information is available at the end of the article
+[[p2]]
+Page 2 of 13Malaty et al. BMC Neurology           (2022) 22:35 
+Background
+Parkinson’s disease (PD) is one of the fastest growing 
+neurological disorders worldwide, with a reported 118% 
+increase in prevalence between 1990 and 2015 [1, 2]. In 
+2015, approximately 6.2 million individuals globally were 
+estimated to have PD [1, 2].
+As PD progresses, patients tend to experience greater 
+disability and an impaired ability to perform activities of 
+daily living (ADLs) [3, 4], as well as fluctuating response 
+to standard oral PD therapies [4] and delayed gastric 
+emptying [5] leading to poorer symptom control. In 
+order to achieve optimal PD symptom control, patients 
+may require advanced treatment options such as deep 
+brain stimulation, subcutaneous apomorphine infusion, 
+and levodopa–carbidopa intestinal gel (LCIG) [6].
+Unfortunately, progress in APD management has been 
+impeded by a lack of objective and standardized diag -
+nostic criteria to identify patients with advanced disease 
+in clinical practice. This is further compounded by the 
+complexity and heterogeneity of PD symptoms, mak -
+ing timely and accurate patient identification even more 
+challenging [4]. A uniform set of criteria for rapidly iden -
+tifying APD is therefore urgently required to screen for 
+patients with suboptimal symptom control [4, 6–8].
+A number of different screening and management 
+approaches have previously been used in an attempt to 
+identify APD, including the use of biomarkers [9, 10] and 
+uni- and multi-dimensional scales such as the Hoehn and 
+Yahr (H&Y) scale [11], the Parkinson Disease Composite 
+Scale (PDCS) [12], and the Cuestionario De Enfermedad 
+de Parkinson Avanzada (Questionnaire for Advanced 
+Parkinson’s Disease; CDEPA) [13]. In addition, the Uni -
+fied Parkinson’s Disease Rating Scale (UPDRS) is widely 
+used to follow the course of PD [14], but cannot be used 
+to truly diagnose APD as outcomes may vary according 
+to the time of the clinical evaluation (i.e., whether the 
+patient was in the ON or OFF state).
+An alternative approach to screening for APD has 
+recently emerged from a consensus group tasked with 
+assessing clinical indicators of APD [4, 15] in a modi -
+fied Delphi study. The consensus group agreed on 15 
+clinically relevant indicators (six motor symptoms [MS], 
+five non-motor symptoms [NMS], and four functional 
+impairments) for suspected APD [4]. Of the 15 identifiers 
+described, a combination of three key criteria was later 
+proposed as a simple-to-use screening tool to identify 
+patients with suspected APD [4, 16, 17], namely: i) tak -
+ing ≥5 doses of oral levodopa per day, or ii) having ‘off’ 
+symptoms for ≥2 h of waking day, or iii) having ≥1 h 
+of troublesome dyskinesia per waking day. Under this 
+proposal, patients meeting at least one of these three 
+screening criteria (‘5–2-1 positive’ patients) would be 
+considered as potentially having advanced disease.
+Previous studies have suggested the potential utility of 
+the 5–2-1 criteria as a screening tool for APD [17, 18]. 
+In one study, individuals meeting that 5–2-1 criteria 
+were found to have significantly poorer health outcomes, 
+including worse quality of life (QoL), greater NMS bur -
+den, and greater caregiver burden [16]. In a retrospective 
+analysis of the DUOGLOBE study, 98% of patients who 
+had been selected for LCIG by investigators were found 
+to fulfill at least one of the 5–2-1 criteria, suggesting that 
+the 5–2-1 criteria apply to a population of patients identi-
+fied by clinicians as having APD [19].
+However, the few studies evaluating the 5–2-1 screen -
+ing criteria have tended to be small, single-centered 
+investigations offering limited evidence on real-world 
+screening accuracy of the 5–2-1 criteria and little infor -
+mation on the incremental burden experienced by 
+5–2-1-positive patients [18]. To improve our understand-
+ing of the utility of the 5–2-1 screening criteria in every 
+day clinical practice, the current real-world analysis was 
+undertaken. The objectives of this study were two-fold: 
+to evaluate the screening accuracy of the 5–2-1 crite -
+ria in identifying people with APD, and to quantify the 
+incremental clinical and humanistic burden as well as the 
+healthcare resource utilization (HCRU) of 5–2-1-positive 
+patients.
+Methods
+Data for this retrospective study were drawn from the 
+Adelphi Parkinson’s Disease Specific Program (DSP ™), 
+a point-in-time survey of physicians and their consult -
+ing PD patients presenting in a real-world clinical set -
+ting. The DSP was conducted in G7 countries (France, 
+Germany, Italy, Japan, Spain, the UK, and the USA) 
+between 2017 and 2020. The DSP methodology has 
+been previously published and validated [20]. Participat -
+ing physicians completed a record form for the next 12 
+consecutively consulting patients meeting the eligibil -
+ity criteria; the physician-reported questionnaire form 
+contained questions on patients’ demographics, clinical 
+Conclusions: 5–2‑1 criteria demonstrated potential as a screening tool for identifying people with APD with consid‑
+erable clinical, humanistic, and HCRU burden. The 5–2‑1 screening criteria is an objective and reliable tool that may 
+aid the timely identification and treatment optimization of patients inadequately controlled on oral PD medications.
+Keywords: Advanced Parkinson’s disease, 5–2‑1 criteria, Screening performance, clinical burden
+[[p3]]
+Page 3 of 13
+Malaty et al. BMC Neurology           (2022) 22:35 
+ 
+assessments, clinical outcomes, medication use and his -
+tory, healthcare resource utilization, and concomitant 
+conditions. Each patient for whom the physician com -
+pleted a form was then invited to complete a patient-
+reported questionnaire, which recorded demographics, 
+current condition, level of satisfaction with their treat -
+ment, and QoL. If the patient had a caregiver, they were 
+also invited to complete a form, reporting on demo -
+graphics, and burden of care.
+Respondents provided informed consent for use of 
+their data; all data were aggregated and de-identified 
+before receipt.
+Participants
+Physicians were eligible to participate in the survey if 
+they were a neurologist, and they were personally respon-
+sible for treatment decisions and management of patients 
+with PD. Patients were eligible for inclusion in the survey 
+if they were diagnosed with PD on or before the date of 
+their last consultation (i.e., at the time of data collection), 
+and aged ≥18 years. Patients were eligible for inclusion in 
+this analysis if they were taking oral therapy for PD, and 
+naive to treatment with device-aided therapy (DAT).
+Measures
+Patients meeting the 5–2-1 screening criteria were iden -
+tified as those experiencing one or more of the following: 
+(i) taking ≥5 doses of oral levodopa per day, OR (ii) hav -
+ing ‘off’ symptoms for ≥2 h of waking day, OR (iii) hav -
+ing ≥1 h of troublesome dyskinesia per waking day. The 
+physician’s opinion of disease severity (defined as APD 
+vs non-advanced PD), based on overall patient history 
+including demographics, clinical characteristic, concomi-
+tant medications, and other patient-reported outcomes, 
+was used as the reference for this study. As all participat -
+ing physicians had to see a minimum of three PD patients 
+per week, all were considered highly experienced and can 
+reasonably be expected to reliably distinguish degree of 
+PD severity.
+We also captured clinical, HCRU, and humanistic PD 
+burden to quantify the burden of patients meeting the 
+5–2-1 screening criteria. Clinical burden was evaluated 
+based on the following measures: UPDRS (clinical rating 
+scale for PD encompassing behavior and mood, ADLs, 
+MS, and complications; higher score indicates greater 
+burden) [21], Mini-Mental State Examination (MMSE; 
+11-question instrument testing five areas of cognitive 
+function; lower score indicates worse cognitive function) 
+[22], Charlson comorbidity index (based on a number 
+of conditions that are each assigned an integer weight 
+from one to six; higher score indicates greater comorbid -
+ity burden) [23], ADL (assessed as percentage of patients 
+able to carry out specific ADLs independently), and falls 
+(mean number of PD-related falls in the last 12 months, 
+based on patient report). HCRU was assessed by con -
+sidering the following measures: hospitalization rate 
+(number and percentage of patients hospitalized in the 
+last 12 months for PD, including surgical procedures), 
+physician consultations (number of consultations with a 
+physician in the last 12 months, as captured on patient 
+records), and hours of caregiver help (total number of 
+hours of caregiver help required per week, including 
+professional and non-professional support). Humanistic 
+burden was based on following measures: Parkinson’s 
+Disease Questionnaire (PDQ-39; questionnaire assess -
+ing PD-related difficulties in daily living across eight 
+dimensions; higher score indicates greater burden) [24], 
+EuroQol 5 Dimension (EQ-5D; a generic instrument to 
+assess health-related QoL; scores range from 0 to 1, with 
+a lower score indicating poorer QoL) [25], PD treatment 
+satisfaction (number and percentage of patients report -
+ing satisfaction with their drug treatment [measured on 
+a patient-rated 7-point scale] with their drug treatment), 
+and Zarit Burden Interview (ZBI; caregiver self-report 
+29-item questionnaire; higher score indicates greater 
+burden) [26].
+Statistical analysis
+Multivariable logistic regression models were computed 
+to evaluate the screening performance of the 5–2-1 cri -
+teria as a predictor and clinician assessment of APD as 
+an outcome. The screening performance of the 5–2-1 
+criteria was evaluated based on the following: odds ratio 
+(OR) and 95% confidence interval (CI), correct classi -
+fication percentage, and area under the curve (AUC). 
+Correct classification is the percentage of patients cor -
+rectly classified per 5–2-1 criteria (sum of true positive 
+and true negatives divided by total number of patients), 
+and is described using the term ‘concordance’ . AUC is a 
+screening accuracy measure that balances sensitivity (i.e., 
+presence of the 5–2-1 screening criteria in patients with 
+APD according to physician’s judgment) and specificity 
+(i.e., absence of the 5–2-1 screening criteria in patients 
+with non-advanced PD). AUC is interpreted as follows: 
+AUC = 0.5 suggests a non-informative result (no bet -
+ter than chance); AUC = 0.5 to ≤0.7 is considered less 
+accurate; AUC = 0.7 to ≤0.9 is considered moderately 
+accurate, AUC 0.9 to < 1 is considered highly accurate, 
+and AUC = 1 is considered the perfect test [27–29]. All 
+logistic regression models were adjusted for potential 
+confounders including country, patient age (< 65 years 
+or ≥ 65 years), gender, time since PD diagnosis, and 
+Charlson comorbidity index.
+Incremental clinical burden, healthcare resource uti -
+lization, and humanistic burden was evaluated based on 
+known-group comparisons between 5 and 2-1 positive 
+[[p4]]
+Page 4 of 13Malaty et al. BMC Neurology           (2022) 22:35 
+and 5–2-1-negative groups using Wilcoxon-Mann-
+Whitney, t-test, chi-square, and Fisher’s exact tests, as 
+appropriate.
+Results
+Sample characteristics
+In total, 4714 patients were included from all G7 coun -
+tries (France: 10.5%, Germany: 12.6%, Italy: 11.3%, Japan: 
+11.9%, Spain: 11.6%, UK: 12.4%, and USA: 29.6%). The 
+mean (standard deviation, SD) time since diagnosis was 
+4.3 (4.4) years, and 33.5% of patients were H&Y stage 3–5 
+in the “on” state. Of the 4714 patients included, 14.9% 
+(n = 702) were classified by the physician as having APD.
+According to the criteria described above, 32.8% of 
+patients (n  = 1546) were 5–2-1 positive, including 552 
+patients who had been classified by the physician as hav -
+ing APD (78.6% of all APD patients). Compared with 
+5–2-1-negative patients, 5–2-1-positive patients were 
+older, had a longer time since diagnosis, had a higher 
+H&Y stage, and were more often classified as having APD 
+by their physician (Table 1). 5–2-1 positive patients had a 
+higher Charlson Comorbidity Index, the observed differ -
+ence being informed by a greater prevalence of cardiovas-
+cular conditions, diabetes, and dementia (Supplementary 
+Table 1).
+Accuracy
+An evaluation of the screening accuracy of the 5–2-1 cri -
+teria and clinical indicators of APD with respect to the 
+physician diagnosis is summarized in Table  2. The 5–2-1 
+screening criteria demonstrated moderate screening 
+accuracy for APD, with AUC values ≥0.80. A comparable 
+analysis carried out using H&Y stages (H&Y stage 1–2 vs 
+H&Y stage 3–5) in place of physician judgement, and the 
+outcome was similar (moderate screening accuracy for 
+APD) (Supplementary Table 2).
+From the multivariable logistic regression, 5–2-1-posi -
+tive patients were nearly 7 times more likely to be clas -
+sified as having APD than 5–2-1-negative patients 
+(adjusted OR 6.84; 95% CI, 5.50–8.51). Patients taking ≥5 
+oral levodopa doses/day were over 3 times more likely to 
+be classified as having APD, patients having ≥2 h of ‘off’-
+time/waking day were over 7 times as likely, and patients 
+having ≥1 h of troublesome dyskinesia/waking day were 
+5 times more likely to be classified as having APD.
+There was a minority of patients for whom clinician 
+judgment and 5–2-1 screening criteria did not align, 
+with 150 (3.2%) 5–2-1-negative patients classified as 
+advanced PD and 994 (21.1%) 5–2-1-positive patients 
+classified as non-advanced PD by the clinician. How -
+ever, overall concordance was greater than 75%. Further 
+Table 1 Clinical characteristics of 5–2‑1‑positive and 5–2‑1‑negative patients
+PD Parkinson’s disease, SD Standard deviation
+a Patient number unless otherwise stated
+All patients (n = 4714)a 5–2-1 positive (n = 1546)a 5–2-1 negative (n = 3168)a P-value
+Patient age
+ Mean (SD) 69.3 (10.6) 71.7 (10.4) 68.2 (10.5) < 0.0001
+ ≥65 years, n (%) 3309 (70.2) 1231 (79.6) 2078 (65.6) < 0.0001
+Gender, n (%)
+ Male 2866 (60.8) 964 (62.4) 1902 (60.0) 0.1274
+Charlson Comorbidity Index, mean (SD) 0.4 (1.0) 0.6 (1.2) 0.3 (0.9) < 0.0001
+Charlson Comorbidity Index, n (%)
+ None (score 0) 3765 (79.9) 1108 (71.7) 2657 (83.9) < 0.0001
+ Mild (score 1–2) 787 (16.7) 357 (23.1) 430 (13.6)
+ Moderate (score 3–4) 120 (2.5) 62 (4.0) 58 (1.8)
+ Severe (score 5+) 42 (0.9) 19 (1.2) 23 (0.7)
+Time since PD diagnosis (years), mean (SD) 4.3 (4.4) (n = 3712) 7.2 (5.1) (n = 1162) 3.0 (3.2)(n = 2550) < 0.0001
+Physician judgment of PD stage, n (%)
+ Non‑advanced 4012 (85.1) 994 (64.3) 3018 (95.3) < 0.0001
+ Advanced 702 (14.9) 552 (35.7) 150 (4.7)
+Hoehn and Yahr stage, n (%)
+ 1 1593 (33.8) 1579 (39.4) 14 (2.0) < 0.0001
+ 2 1545 (32.8) 1492 (37.2) 53 (7.5)
+ 3 932 (19.8) 778 (19.4) 154 (21.9)
+ 4 457 (9.7) 147 (3.7) 310 (44.2)
+ 5 187 (4.0) 16 (0.4) 171 (24.4)
+[[p5]]
+Page 5 of 13
+Malaty et al. BMC Neurology           (2022) 22:35 
+ 
+analysis revealed that the small group of false negatives 
+(clinician-defined APD patients who were 5–2-1 nega -
+tive) tended to be older, diagnosed at a later age, and 
+had higher trend for NMS compared with 5–2-1-posi -
+tive patients classified as having non-advanced disease 
+(Supplementary Table 3 ).
+Clinical burden
+Clinical burden across all measures assessed was sig -
+nificantly greater in the 5–2-1-postive group compared 
+with 5–2-1-negative patients (Fig.  1). In particular, 
+5–2-1-positive patients had higher UPDRS total score 
+(∆ + 15.7 [41.2 vs 25.5; p   < 0.0001]) and lower MMSE 
+score (∆ -1.8 [23.4 vs 25.2; p  < 0.0001]), indicating a 
+greater clinical burden compared with 5–2-1-negative 
+patients. Patients in the 5–2-1-positive group had expe -
+rienced more PD-related falls in the last 12 months (∆ 
++ 1.7 falls [2.3 vs 0.6 falls; p  < 0.0001]) compared with 
+5–2-1-negative patients. Significantly fewer 5–2-1-pos -
+itive patients showed independence in carrying out 
+ADLs (24.3% vs. 56.2%; p   < 0.0001). Similar findings 
+were seen when data were analyzed according to physi -
+cian judgement (Fig.  2) or H&Y stage (Supplementary 
+Fig. 1).
+Healthcare resource utilization burden
+Healthcare resource utilization was significantly greater 
+among 5–2-1-positive patients than 5–2-1-negative 
+patients across all measures assessed (Fig.  3). In par -
+ticular, considerably more patients in the 5–2-1-positive 
+group (19.3% vs 5.4%; p < 0.0001) were hospitalized in the 
+last 12 months. 5–2-1-positive patients had a significantly 
+higher number of annual physician consultations (∆ + 3.3 
+consults/year [8.3 vs 5.0 consults/year; p  < 0.0001]) and 
+required a significantly greater amount of professional 
+and non-professional caregiver support (∆ + 19.7 h/week 
+overall [30.8 vs 11.1 h/week; p < 0.0001]). Similar findings 
+were seen when data were analyzed according to physi -
+cian judgement (Fig.  4) or H&Y stage (Supplementary 
+Fig. 2).
+Humanistic burden
+Humanistic burden across all measures assessed was sig -
+nificantly worse among 5–2-1-positive patients (Fig.  5). 
+Compared with the 5–2-1-negative group, 5–2-1-posi -
+tive patients had a significantly higher PDQ-39 index 
+score (∆ + 10.5 [33.6 vs 23.1; p < 0001]) and lower EQ-5D 
+utility score (∆ -0.16 [0.53 vs 0.69; p  < 0.0001]), indicat -
+ing a greater burden on PD and health-related QoL 
+among 5–2-1-positive patients. A significantly greater 
+proportion of patients in the 5–2-1-positive group were 
+reported to be unsatisfied with their drug treatment 
+compared with 5–2-1-negative patients (14.9% vs 4.4%; 
+p  < 0.0001). Caregivers of 5–2-1-positive patients also 
+demonstrated worse caregiver burden based on ZBI total 
+score (∆ + 8.8 [32.0 vs 23.3; p < 0.0001]). Similar findings 
+were seen when data were analyzed according to physi -
+cian judgement (Fig.  6) or H&Y stage (Supplementary 
+Fig. 3).
+Discussion
+To date, this is the largest study to have evaluated the 
+performance of the 5–2-1 criteria in screening and evalu-
+ating patients with APD. The 5–2-1 screening criteria 
+demonstrated potential as a screening tool for identify -
+ing people with APD. Patients classified as 5–2-1-posi -
+tive while receiving oral PD treatment had incrementally 
+higher clinical, humanistic, and HCRU burden compared 
+with the 5–2-1-negative group. Our data may suggest the 
+potential of the 5–2-1 criteria as a screening tool to help 
+recognize people with APD who are sub-optimally con -
+trolled on oral PD treatment in the real-world [16, 19]. 
+Our results also reinforce the need to identify current 
+unmet needs among these patients due to their increased 
+disease burden.
+Although effective disease management is key 
+at all stages of PD, the need for greater individual 
+Table 2 Screening accuracy of the 5–2‑1 screening criteria in 
+identifying patients with advanced Parkinson’s disease
+a Regressions adjusted for age, sex, time since diagnosis, Charlson Comorbidity 
+Index, and country. bCorrect classification is the percentage of patients correctly 
+classified per 5–2-1 criteria (sum of true positive and true negatives divided 
+by total number of patients). C AUC is a screening accuracy measure that 
+balances sensitivity and specificity. AUC is interpreted as follows: AUC = 0.5, 
+non-informative; AUC = 0.5 to ≤0.7, less accurate; AUC = 0.7 to ≤0.9, moderately 
+accurate, AUC 0.9 to < 1, highly accurate; AUC = 1, perfect test [27–29]
+AUC  Area under the curve, CI Confidence interval, OR Odds ratio
+Advanced 
+PD
+Adjusted Model a
+Indicator No Yes OR (95% CI) Correct 
+Classification 
+(%) b
+AUC c
+5–2‑1 screening criteria
+ Negative 3018 150 1 – –
+ Positive 994 552 6.84 (5.50, 8.51) 88.1 0.89
+Individual clinical indicators
+ ≥2 h off‑time/day
+  Negative 3299 208 1 – –
+  Positive 713 494 7.07 (5.76, 8.68) 88.4 0.89
+ ≥1 h troublesome dyskinesia/day
+  Negative 3944 591 1 – –
+  Positive 68 111 5.56 (3.85, 8.02) 87.1 0.85
+ ≥5 doses of oral levodopa/day
+  Negative 3501 413 1 – –
+  Positive 511 289 3.03 (2.45, 3.73) 87.1 0.86
+[[p6]]
+Page 6 of 13Malaty et al. BMC Neurology           (2022) 22:35 
+customization becomes increasingly important as the 
+disease advances [30]. A number of previous attempts 
+have been made to devise simple screening tools that 
+can rapidly identify people with APD who would benefit 
+from further monitoring and optimization of their care 
+plan. In addition, management tools have been devel -
+oped to evaluate PD symptoms, guide treatment proto -
+cols, and ensure that patients with the greatest burden 
+receive optimal treatment. In terms of rapid screening 
+for APD, the duration of disease has traditionally been 
+the first characteristic to be considered. However, defi -
+nitions of ‘long’ disease duration vary among studies 
+[31–34]. Symptoms do not progress linearly or uniformly 
+over time, and deteriorate at a different pace in differ -
+ent patients. For these reasons, a long duration of dis -
+ease does not necessarily correspond to more advanced 
+disease [35]. Tools designed to guide the management of 
+PD have tended to include instruments based on specific 
+clinical criteria [10, 13, 15, 16], the use of ratings scales 
+such as the H&Y or UPDRS [14, 36], and the use of bio -
+markers [37]. However, the universal application of these 
+tools is limited by the substantial time and resources 
+required to apply them.
+New approaches have been developed over recent years 
+as we recognized the clear need for improved screening 
+and management tools. One example is an algorithm that 
+was devised to screen for APD based on any 30-day aver -
+age levodopa equivalent dose (LED) > 1000 mg/day [3]. 
+When this algorithm was applied, approximately 20% 
+of the sample was classified as having advanced disease. 
+However, this algorithm is specific to dopaminergic ther -
+apies and does not capture other motor or non-motor 
+aspects of APD, while some patients with a low body 
+mass index may never reach a LED dose > 1000 mg/day 
+despite having advanced disease. In a similar approach, 
+Weir and colleagues used LED > 1100 mg/day as one of 
+Fig. 1 Measures of clinical burden in 5–2‑1‑positive patients compared with 5–2‑1‑negative patients. *p < 0.0001. 5–2‑1, taking ≥5 doses of oral 
+levodopa/day, OR having ≥2 h ‘off’‑time/waking day, OR having ≥1 h troublesome dyskinesia/waking day. ADL, activities of daily living; MMSE, 
+Mini‑Mental State Examination; PD, Parkinson’s disease; UPDRS, Unified Parkinson’s Disease Rating Scale
+[[p7]]
+Page 7 of 13
+Malaty et al. BMC Neurology           (2022) 22:35 
+ 
+several proxy markers of APD in a study of PD-related 
+economic costs in the UK, alongside dyskinesias, falls, 
+dementia, psychosis, hospital admission primarily due to 
+PD, and nursing home placement. This study showed an 
+increased economic burden of PD among patients meet -
+ing these markers of advanced disease [38].
+The results of our study suggest that the 5–2-1 screen -
+ing criteria would be a useful method for screen -
+ing patients with advanced disease who may require 
+more tailored assessment and treatment. Having eas -
+ily identified people with PD who have a greater burden 
+(5–2-1-positive patients), more comprehensive manage -
+ment instruments (i.e., Making Informed Decisions to 
+Aid Timely Management of Parkinson’s Disease [MAN -
+AGE-PD] tool) [39] can be subsequently adopted to 
+ensure further optimization of treatment. Despite recent 
+advances in the development of screening and manage -
+ment tools, an urgent need remains for a screening tool 
+that is simple to use and remember, is based on readily 
+available information, and that clearly identifies patients 
+with a greater disease burden who may benefit from 
+treatment optimization, including a possible second-line 
+therapy.
+The MANAGE-PD is a validated tool designed to 
+support clinician decision-making and facilitate stand -
+ardized and comprehensive assessment of PD-related 
+symptoms [39]. The 5–2-1 criteria aligns with 3 out of 5 
+key items assessed by MANAGE-PD section 1 to identify 
+patients with inadequate symptoms control. MANAGE-
+PD section  1 also includes additional questions relating 
+to severity unpredictable fluctuations of motor symp -
+toms and limitations in activities of daily living, making 
+it slightly longer to use, but more comprehensive in its 
+assessment. In a similar way anticipated for the 5–2-1 
+criteria, MANAGE-PD section  1 groups patients into 
+controlled or inadequately controlled on current therapy.
+Fig. 2 Measures of clinical burden in APD patients compared with non‑APD patients (physician judgement). *p < 0.0001. ADL, activities of daily 
+living; APD, advanced Parkinson’s disease; MMSE, Mini‑Mental State Examination; PD, Parkinson’s disease; UPDRS, Unified Parkinson’s Disease Rating 
+Scale
+[[p8]]
+Page 8 of 13Malaty et al. BMC Neurology           (2022) 22:35 
+A recently-reported study compared the 5–2-1 cri -
+teria to a newly developed screening tool designed to 
+predict eligibility for referral for DAT evaluation [18]. 
+In this study, a panel of experts assessed 259 consecu -
+tive DAT-naive PD patients, of whom 17 were consid -
+ered eligible for DAT. The study reported several strong 
+predictors of eligibility for referral for DAT, including 
+the presence of response fluctuations and troublesome 
+dyskinesias. Based on their findings, the authors con -
+structed a three-factor screening tool based on LED, 
+response fluctuations, and troublesome dyskinesias, 
+to screen for patients eligible for DAT referral. This 
+study reported a sensitivity and a specificity of 88 and 
+98% compared with 94 and 73%, respectively, for the 
+5–2-1 criteria [18]. The authors note that their tool 
+corroborates the concepts of the 5–2-1 criteria, and 
+the study appears to confirm the validity of the overall 
+approach. In this regard, the 5–2-1 concept has iden -
+tified a new way to think about DAT-eligible patients 
+and has motivated clinicians to find ways to enhance 
+identification.
+One limitation of our study was the acceptance of the 
+physician’s opinion of disease severity as the reference 
+against which the 5–2-1 screening criteria were assessed. 
+However, as physician judgement was informed based 
+on the overall condition of the patient, this was consid -
+ered the best available proxy for management in clinical 
+practice. Furthermore, the categorization of a patient 
+in practice may depend on the experience of the physi -
+cian, as well as heterogeneous features of PD, including 
+NMS which are not encompassed in 5–2-1. However, 
+although the 5–2-1 screening criteria are driven by MS, 
+there is also a high correlation with other factors, such 
+that patients with advanced or severe MS are also likely 
+to experience NMS [40, 41]. It is also worth noting that 
+the rate of potential APD patients identified through the 
+5–2-1 screening criteria in this study (33%) was higher 
+than that identified by physicians (15%), thus reinforcing 
+Fig. 3 Measures of healthcare resource utilization in 5–2‑1‑positive patients compared with 5–2‑1‑negative patients. *p < 0.0001. 5–2‑1, taking ≥5 
+doses of oral levodopa/day, OR having ≥2 h ‘off’‑time/waking day, OR having ≥1 h troublesome dyskinesia/waking day
+[[p9]]
+Page 9 of 13
+Malaty et al. BMC Neurology           (2022) 22:35 
+ 
+the potential value of the 5–2-1 criteria as a practical 
+screening tool mandating further patient investigation, 
+rather than a diagnostic tool in its own right. Similar 
+findings were reported by Martinez-Martin et al., where 
+the number of APD patients identified with the CDEPA 
+questionnaire was higher compared to clinician judg -
+ment [13]. The CDEPA questionnaire is a screening tool 
+that includes measures of both MS and NMS.
+The reliance on patient reports to capture data on falls 
+and number of physician consultations is also a potential 
+limitation of this study. However, although self-report 
+has clear limitations, potential inaccuracies may impact 
+both groups (5–2-1 positive and 5–2-1 negative), while 
+both measures are used as markers of unmet need, rather 
+than for precise quantification. A further limitation of 
+this study is that the only aspects of HCRU considered 
+were hospitalization rate, physician consultations, and 
+amount of caregiver help; meaning that the important 
+contributions of other healthcare professionals such as 
+nurses, physiotherapists and occupational/speech thera -
+pists were not captured. In addition, we were not able 
+to evaluate the full economic burden of PD, including 
+indirect costs of treatment and productivity losses. All 
+aspects of the economic burden require further consid -
+eration in future studies. Our study also has the limita -
+tions inherent in point-in-time studies, including the risk 
+of bias from the absence of randomization and/or due to 
+physician, patient, and caregiver recall limitations. How -
+ever, this large, international dataset is derived from the 
+Parkinson’s DSP , which has been validated for capturing 
+large, statistically robust samples of global real-world 
+evidence, while the data collected reflect current clini -
+cal practice. Future studies should evaluate the potential 
+impact of timely escalation in therapy, which may include 
+DAT, to alleviate the disease burden in patients meeting 
+the 5–2-1 screening criteria.
+Fig. 4 Measures of healthcare resource utilization in APD patients compared with non‑APD patients (physician judgement). *p < 0.0001. APD, 
+advanced Parkinson’s disease
+[[p10]]
+Page 10 of 13Malaty et al. BMC Neurology           (2022) 22:35 
+Some consideration should also be given to ‘discord -
+ant’ patients, in whom clinician judgment and 5–2-1 
+screening criteria did not align. It is interesting that the 
+majority of these patients (21.1%) were 5–2-1 positive 
+and non-advanced per their physicians, which is con -
+sistent with the potential utility of the 5–2-1 criteria as 
+an early screening tool for advancing PD. In addition, 
+the 5–2-1-negative and clinician-defined advanced 
+group were more likely to have dementia and other 
+cognitive/behavioral symptoms of PD (including confu -
+sion, short-term memory loss, difficulties planning, and 
+hallucinations), suggesting that NMS are a significant 
+burden in this patient group. As noted above, NMS are 
+not captured by the 5–2-1 screening criteria, which 
+may explain why a small number of patients whose 
+advanced disease was driven by NMS may have been 
+5–2-1 negative.
+Conclusions
+This study demonstrated the robust screening perfor -
+mance of the 5–2-1 screening criteria in recognizing 
+patients with APD who are sub-optimally controlled on 
+oral PD treatment. This evidence also highlighted the 
+increased clinical, humanistic, and HCRU burden expe -
+rienced by 5–2-1 positive patients. In particular, the 
+5–2-1 screening criteria represent a tool that is simple 
+to use and remember, uses readily available information, 
+and demonstrates clinical value in identifying patients 
+with suboptimal disease control, worse QoL, and higher 
+caregiver burden. The 5–2-1 screening criteria provide 
+an objective and reliable tool that may aid in the timely 
+Fig. 5 Measures of humanistic burden in 5–2‑1‑positive patients compared with 5–2‑1‑negative patients. *p < 0.0001. 5–2‑1, taking ≥5 doses of 
+oral levodopa/day, OR having ≥2 h ‘off’‑time/waking day, OR having ≥1 h troublesome dyskinesia/waking day. EQ‑5D, EuroQol 5‑Dimension (1.0 
+indicates best QoL); PD, Parkinson’s disease; PDQ‑39, Parkinson’s Disease Questionnaire‑39 (higher score indicates worse QoL); ZBI, Zarit Burden 
+Interview
+[[p11]]
+Page 11 of 13
+Malaty et al. BMC Neurology           (2022) 22:35 
+ 
+identification and treatment optimization of patients 
+who are inadequately controlled on oral PD medications.
+Abbreviations
+ADL: Activities of daily living; APD: Advanced Parkinson’s disease; AUC : Area 
+under the curve; CI: Confidence interval; DAT: Device‑aided therapy; DSP: 
+Disease Specific Program™; EQ‑5D: EuroQol 5 Dimension; H&Y: Hoehn and 
+Yahr scale; LCIG: Levodopa–carbidopa intestinal gel; LED: Levodopa equivalent 
+dose; MANAGE‑PD: Making Informed Decisions to Aid Timely Management 
+of Parkinson’s Disease; MMSE: Mini‑Mental State Examination; MS: Motor 
+symptoms; NMS: Non‑motor symptoms; OR: Odds ratio; PD: Parkinson’s dis‑
+ease; PDCS: Parkinson Disease Composite Scale; PDQ‑39: Parkinson’s Disease 
+Questionnaire‑39; QoL: Quality of life; SD: Standard deviation; UPDRS: Unified 
+Parkinson’s Disease Rating Scale; ZBI: Zarit Burden Interview.
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s12883‑ 022‑ 02560‑1.
+Additional file 1. 
+Acknowledgments
+We acknowledge Alex Gillespie, James Pike, and Eddie Jones for their support 
+on conducting the data analysis. Medical writing support under the guidance 
+of the authors was provided by Rachel Danks, on behalf of Adelphi Real World 
+and AbbVie, and was funded by AbbVie in accordance with Good Publication 
+Practice (GPP3) guidelines.
+Authors’ contributions
+IAM, AnA, AlA, and YJ contributed to study conception and design. All authors 
+contributed to results interpretation and manuscript development. All authors 
+read, contributed to, and approved all the drafts and the final manuscript, and 
+therefore meet the criteria for authorship in accordance with the International 
+Committee of Medical Journal Editors (ICMJE) guidelines. In addition, all 
+named authors take responsibility for the integrity of the work as a whole, and 
+have given their approval for this version to be published.
+Funding
+Data collection was undertaken by Adelphi Real World as part of an independ‑
+ent survey, entitled the Adelphi Parkinson’s Disease Specific Programme, 
+sponsored by multiple pharmaceutical companies of which one was AbbVie. 
+AbbVie did not influence the original survey through either contribution to 
+the design of questionnaires or data collection. The study described here 
+Fig. 6 Measures of humanistic burden in APD patients compared with non‑APD patients (physician judgement). *p < 0.0001. APD, Advanced 
+Parkinson’s disease; EQ‑5D, EuroQol 5‑Dimension (1.0 indicates best QoL); PD, Parkinson’s disease; PDQ‑39, Parkinson’s Disease Questionnaire‑39 
+(higher score indicates worse QoL); ZBI, Zarit Burden Interview
+[[p12]]
+Page 12 of 13Malaty et al. BMC Neurology           (2022) 22:35 
+using data from the Adelphi Parkinson’s Disease Specific Programme was 
+funded by AbbVie.
+Availability of data and materials
+The datasets generated and/or analyzed during the current study are not 
+publicly available as they are the intellectual property of Adelphi Real World 
+but are available from the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+The Disease Specific Programme was conducted in accordance with the 
+European Pharmaceutical Market Research Association (EphMRA) Code of 
+Conduct. The study protocol (reference number AG8689) was submitted to 
+the Western Institutional Review Board, and an ethics waiver was provided 
+as it was determined that ethics approval was not required for this study. All 
+data were collected following procedures with ethics committee approval, 
+and data were fully de identified prior to receipt by Adelphi Real World. The 
+respondents provided informed consent for use of their anonymized and 
+aggregated data for research and publication in scientific journals. All data, 
+i.e. methodology, materials, data, and data analysis, that support the findings 
+of this survey are the intellectual property of Adelphi Real World. As such no 
+administrative permissions were required to access and use the data.
+Consent for publication
+Not applicable.
+Competing interests
+IAM has participated in research funded by Parkinson Foundation, Tourette 
+Association of America, Dystonia Coalition, AbbVie, Biogen, Boston Scientific, 
+Eli Lilly, Impax, Neuroderm, Prilenia, Revance, and Teva but has no owner inter‑
+est in any pharmaceutical company. She has received travel compensation 
+or honoraria from Cleveland Clinic, Parkinson Foundation, Tourette Associa‑
+tion, and International Association of Parkinsonism and Related Disorders 
+and royalties from Robert Rose Publishers; PMM has received honoraria from 
+Editorial Viguera and Takeda Pharmaceuticals for lecturing in courses; from 
+Britannia for writing an article in their Parkinson’s Disease Medical Journal‑
+Kinetic; and from the International Parkinson and Movement Disorder Society 
+(MDS) for management of the Program on Rating Scales. Grants from the 
+MDS for development and validation of the MDS‑NMS; SAJ has no relevant 
+disclosures; KRC has received educational funding from UCB, and honoraria 
+for sponsored symposiums from UCB, AbbVie, Britannia, US Worldmeds, 
+Otsuka, Medtronic, Zambon and acted as a consultant for AbbVie, UCB, 
+Britannia, Medtronic and Mundipharama; JJ‑S has received consulting fees 
+from Teva, Nuvelution, Bracket, Amneal, Revance, AbbVie, CNS Ratings, St. 
+Jude Medical, Medtronic and research funding from Impax; PO has received 
+compensations for consultancy and speaker related activities from AbbVie, 
+Bial, Britannia, Ever Pharma, Lobsor, Nordic Infucare, Stada, and Zambon. Odin 
+has received royalties from Uni‑Med Verlag; MS received speakers’ honoraria 
+and/or consultation fees from AbbVie, Boston Scientific, Desitin, Ever Pharma, 
+Krka, Medtronic and Sandoz, he received support from the IBM and Slovak 
+grant agencies under contracts APVV‑18‑0547 and VEGA 1/0596/19 and the 
+Operational Programme Integrated Infrastructure, funded by the ERDF under 
+No. ITMS2014+:313011 V455; MJS has received honoraria and/or consulta‑
+tion fees from AbbVie, Abbott, Acorda Therapeutics, Amneal, Teva, Sunovion, 
+Neurocrine, Medtronic, and Merz. He has also received research compensation 
+from Cerevel and AbbVie; SL declares no relevant conflict of interest to present 
+study; JD declares no relevant conflict of interest to present study; AlA, YJJ, 
+PLK, KO, LB, SF, and MYL are employees of AbbVie and may own stocks/shares 
+??Z?iv?????`?q?vK???‑
+pany that was hired by AbbVie to perform analyses on the Adelphi Disease 
+Specific Programme database; AnA has received compensation for consul‑
+tancy and speaker related activities from UCB, Boehringer Ingelheim, Britannia, 
+AbbVie, Kyowa Kirin, Zambon, Bial, Neuroderm, Theravance Biopharma, Roche; 
+he receives research support from Chiesi Pharmaceuticals, Lundbeck, Horizon 
+2020 ‑ Grant 825785, Horizon2020 Grant 101016902, Ministry of Education 
+University and Research (MIUR) Grant ARS01_01081, Cariparo Foundation. He 
+serves as consultant for Boehringer Ingelheim for legal cases on pathological 
+gambling.
+Author details
+1 University of Florida, Fixel Institute for Neurological Diseases, Gainesville, 
+FL, USA. 2 Center for Networked Biomedical Research in Neurodegenerative 
+Diseases (CIBERNED), Carlos III Institute of Health, Madrid, Spain. 3 Parkinson 
+Foundation Centre of Excellence, King’s College Hospital and King’s College, 
+London, UK. 4 University of Lund, Lund, Sweden. 5 Department of Neurology, 
+P . J. Šafárik University, Košice, Slovakia. 6 Department of Neurology, University 
+Hospital of L. Pasteur, Košice, Slovakia. 7 Department of Neurology, Icahn 
+School of Medicine at Mount Sinai, New York, NY, USA. 8 Texas Movement Dis‑
+order Specialists, Georgetown, TX, USA. 9 European Parkinson’s Disease Associa‑
+tion (EPDA), Sevenoaks, UK. 10 Grupo de patologia médica, nutrição e exercício 
+clínico (PaMNEC) do CiiEM, Almada, Portugal. 11 Parkinson & Movement 
+Disorder Alliance, Tucson, USA. 12 AbbVie Inc., North Chicago, IL, USA. 13 Univer‑
+sity of Illinois at Chicago, Chicago, IL, USA. 14 Adelphi Real World, Bollington, 
+UK. 15 Parkinson and Movement Disorders Unit, Department of Neuroscience, 
+University of Padua, Padova, Italy. 
+Received: 26 July 2021   Accepted: 19 January 2022
+References
+ 1. Dorsey ER, Sherer T, Okun MS, Bloem BR. The emerging evidence of the 
+Parkinson pandemic. J Parkinsons Dis. 2018;8(s1):S3–8.
+ 2. GBD 2015 Neurological Disorders Collaborator Group. Global, regional, 
+and national burden of neurological disorders during 1990–2015: a 
+systematic analysis for the Global Burden of Disease Study 2015. Lancet 
+Neurol. 2017;16(11):877–97.
+ 3. Dahodwala N, Pettit AR, Jahnke J, Li P , Ladage VP , Kandukuri PL, et al. Use 
+of a medication‑based algorithm to identify advanced Parkinson’s disease 
+in administrative claims data: associations with claims‑based indicators of 
+disease severity. Clin Parkinsonism Relat Disord. 2020;3:100046.
+ 4. Antonini A, Stoessl AJ, Kleinman LS, Skalicky AM, Marshall TS, Sail KR, et al. 
+Developing consensus among movement disorder specialists on clinical 
+indicators for identification and management of advanced Parkinson’s 
+disease: a multi‑country Delphi‑panel approach. Curr Med Res Opin. 
+2018;34(12):2063–73.
+ 5. Marrinan S, Emmanuel AV, Burn DJ. Delayed gastric emptying in Parkin‑
+son’s disease. Mov Disord. 2014;29(1):23–32.
+ 6. Kulisevsky J, Luquin MR, Arbelo JM, Burguera JA, Carrillo F, Castro A, et al. 
+Advanced Parkinson’s disease: clinical characteristics and treatment. Part 
+II. Neurologia. 2013;28(9):558–83.
+ 7. Dietrichs E, Odin P . Algorithms for the treatment of motor problems in 
+Parkinson’s disease. Acta Neurol Scand. 2017;136(5):378–85.
+ 8. Odin P , Ray Chaudhuri K, Slevin JT, Volkmann J, Dietrichs E, Martinez‑
+Martin P , et al. Collective physician perspectives on non‑oral medication 
+approaches for the management of clinically relevant unresolved issues 
+in Parkinson’s disease: consensus from an international survey and discus‑
+sion program. Parkinsonism Relat Disord. 2015;21(10):1133–44.
+ 9. Lerche S, Heinzel S, Alves GW, Barone P , Behnke S, Ben‑Shlomo Y, et al. 
+Aiming for study comparability in Parkinson’s disease: proposal for a 
+modular set of biomarker assessments to be used in longitudinal studies. 
+Front Aging Neurosci. 2016;8:121.
+ 10. Titova N, Martinez‑Martin P , Katunina E, Chaudhuri K. Advanced Parkin‑
+son’s or "complex phase" Parkinson’s disease? Re‑evaluation is needed. J 
+Neural Transm (Vienna). 2017;124(12):1529–37.
+ 11. Hoehn MM, Yahr MD. Parkinsonism: onset, progression and mortality. 
+Neurology. 1967;17(5):427–42.
+ 12. Martinez‑Martin P , Radicati FG, Rodriguez Blazquez C, Wetmore J, Kovacs 
+N, Ray Chaudhuri K, et al. Extensive validation study of the Parkinson’s 
+disease composite scale. Eur J Neurol. 2019;26(10):1281–8.
+ 13. Martinez‑Martin P , Kulisevsky J, Mir P , Tolosa E, García‑Delgado P , Luquin 
+MR. Validation of a simple screening tool for early diagnosis of advanced 
+Parkinson’s disease in daily practice: the CDEPA questionnaire. NPJ Parkin‑
+sons Dis. 2018;4:20.
+ 14. Goetz CG, Poewe W, Rascol O, Sampaio C, Stebbins GT, Counsell C, 
+et al. Movement Disorder Society task force report on the Hoehn 
+and Yahr staging scale: status and recommendations. Mov Disord. 
+2004;19(9):1020–8.
+[[p13]]
+Page 13 of 13
+Malaty et al. BMC Neurology           (2022) 22:35 
+ 
+•
+ 
+fast, convenient online submission
+ •
+  
+thorough peer review by experienced researchers in your ﬁeld
+• 
+ 
+rapid publication on acceptance
+• 
+ 
+support for research data, including large and complex data types
+•
+  
+gold Open Access which fosters wider collaboration and increased citations 
+ 
+maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions
+Ready to submit y our researc hReady to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 15. Luquin MR, Kulisevsky J, Martinez‑Martin P , Mir P , Tolosa ES. Consensus 
+on the definition of advanced Parkinson’s disease: a neurologists‑based 
+Delphi study (CEPA study). Parkinsons Dis. 2017;2017:4047392.
+ 16. Santos‑García D, de Deus FT, Suárez Castro E, Aneiros Díaz A, McAfee 
+D. 5–2‑1 Criteria: A Simple Screening Tool for Identifying Advanced PD 
+Patients Who Need an Optimization of Parkinson’s Treatment. Parkinsons 
+Dis. 2020;2020:7537924.
+ 17. Fasano A, Fung VSC, Lopiano L, Elibol B, Smolentseva IG, Seppi K, et al. 
+Characterizing advanced Parkinson’s disease: OBSERVE‑PD observational 
+study results of 2615 patients. BMC Neurol. 2019;19(1):50.
+ 18. Moes HR, ten Kate J, Portman AT, van Harten B, van Kesteren ME, Mondria 
+T, et al. Timely referral for advanced therapy in Parkinson’s disease. Devel‑
+opment of a screening tool. medRxiv. 2021:2021.02.10.21251496. https:// 
+www. medrx iv. org/ conte nt/ 10. 1101/ 2021. 02. 10. 21251 496v1.
+ 19. Aldred J, Anca‑Herschkovitsch M, Antonini A, Bajenaru O, Bergmann L, 
+Bourgeois P , et al. Application of the ‘5‑2‑1’ screening criteria in advanced 
+Parkinson’s disease: interim analysis of DUOGLOBE. Neurodegener Dis 
+Manag. 2020;10(5):309–23.
+ 20. Anderson P , Benford M, Harris N, Karavali M, Piercy J. Real‑world physician 
+and patient behaviour across countries: disease‑specific Programmes ‑ a 
+means to understand. Curr Med Res Opin. 2008;24(11):3063–72.
+ 21. Movement Disorder Society Task Force on Rating Scales for Parkinson’s 
+Disease. The unified Parkinson’s disease rating scale (UPDRS): status and 
+recommendations. Mov Disord. 2003;18(7):738–50.
+ 22. Tombaugh TN, McIntyre NJ. The mini‑mental state examination: a com‑
+prehensive review. J Am Geriatr Soc. 1992;40(9):922–35.
+ 23. Charlson ME, Pompei P , Ales KL, MacKenzie CR. A new method of clas‑
+sifying prognostic comorbidity in longitudinal studies: development and 
+validation. J Chronic Dis. 1987;40(5):373–83.
+ 24. Peto V, Jenkinson C, Fitzpatrick R, Greenhall R. The development and vali‑
+dation of a short measure of functioning and well being for individuals 
+with Parkinson’s disease. Qual Life Res. 1995;4(3):241–8.
+ 25. Devlin NJ, Brooks R. EQ‑5D and the EuroQol group: past, present and 
+future. Appl Health Econ Health Policy. 2017;15(2):127–37.
+ 26. Zarit SH, Reever KE, Bach‑Peterson J. Relatives of the impaired elderly: 
+correlates of feelings of burden. Gerontologist. 1980;20(6):649–55.
+ 27. Fischer JE, Bachmann LM, Jaeschke R. A readers’ guide to the interpreta‑
+tion of diagnostic test properties: clinical example of sepsis. Intensive 
+Care Med. 2003;29(7):1043–51.
+ 28. Greiner M, Pfeiffer D, Smith RD. Principles and practical application of the 
+receiver‑operating characteristic analysis for diagnostic tests. Prev Vet 
+Med. 2000;45(1–2):23–41.
+ 29. Swets JA. Measuring the accuracy of diagnostic systems. Science. 
+1988;240(4857):1285–93.
+ 30. Antonini A, Isaias IU, Rodolfi G, Landi A, Natuzzi F, Siri C, et al. A 5‑year 
+prospective assessment of advanced Parkinson disease patients treated 
+with subcutaneous apomorphine infusion or deep brain stimulation. J 
+Neurol. 2011;258(4):579–85.
+ 31. Simuni T, Luo ST, Chou KL, Fernandez H, He B, Parashos S. Rankin scale as 
+a potential measure of global disability in early Parkinson’s disease. J Clin 
+Neurosci. 2013;20(9):1200–3.
+ 32. Pistacchi M, Gioulis M, Sanson F, De Giovannini E, Filippi G, Rossetto F, 
+et al. Gait analysis and clinical correlations in early Parkinson’s disease. 
+Funct Neurol. 2017;32(1):28–34.
+ 33. Politis M, Wu K, Molloy S. P GB, Chaudhuri KR, Piccini P . Parkinson’s disease 
+symptoms: the patient’s perspective. Mov Disord. 2010;25(11):1646–51.
+ 34. Lökk J. Lack of information and access to advanced treatment for Parkin‑
+son’s disease patients. J Multidiscip Healthc. 2011;4:433–9.
+ 35. Chen H, Zhao EJ, Zhang W, Lu Y, Liu R, Huang X, et al. Meta‑analyses on 
+prevalence of selected Parkinson’s nonmotor symptoms before and after 
+diagnosis. Transl Neurodegener. 2015;4(1):1.
+ 36. Hauser RA, Lyons KE, Pahwa R. The UPDRS‑8: a brief clinical assessment 
+scale for Parkinson’s disease. Int J Neurosci. 2012;122(7):333–7.
+ 37. Titova N, Qamar MA, Chaudhuri KR. Biomarkers of Parkinson’s disease: an 
+introduction. Int Rev Neurobiol. 2017;132:183–96.
+ 38. Weir S, Samnaliev M, Kuo TC, Tierney TS, Walleser Autiero S, Taylor RS, 
+et al. Short‑ and long‑term cost and utilization of health care resources in 
+Parkinson’s disease in the UK. Mov Disord. 2018;33(6):974–81.
+ 39. Antonini A, Odin P , Schmidt P , Cubillos F, Standaert DG, Henriksen T, et al. 
+Validation and clinical value of the MANAGE‑PD tool: a clinician‑reported 
+tool to identify Parkinson’s disease patients inadequately controlled on 
+oral medications. Parkinsonism Relat Disord. 2021;92:59–66.
+ 40. Schapira AHV, Chaudhuri KR, Jenner P . Non‑motor features of Parkinson 
+disease. Nat Rev Neurosci. 2017;18(7):435–50.
+ 41. Goldman JG, Postuma R. Premotor and nonmotor features of Parkinson’s 
+disease. Curr Opin Neurol. 2014;27(4):434–41.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations.

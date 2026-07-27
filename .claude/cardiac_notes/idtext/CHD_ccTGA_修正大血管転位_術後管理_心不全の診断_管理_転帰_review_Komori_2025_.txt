@@ -1,0 +1,743 @@
+
+[[p1]]
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+Review Article
+Diagnosis, management, and outcome of heart failure in congenitally 
+corrected transposition of the great arteries (ccTGA)—a narrative 
+review
+Motoki Komori
+1#
+^, Maria Luisa Benesch Vidal
+2#
+, Kenta Imai
+1
+, Yuji Tominaga
+1
+, Keisuke Shibagaki
+1
+, 
+Rieko Kutsuzawa
+1
+, Shota Kawai
+1
+, Kentaro Hayashi
+1
+, Kenichi Kurosaki
+3
+, Hideo Ohuchi
+3
+, Kouichi Toda
+4
+, 
+Yoshikatsu Saiki
+5
+, Christoph Sinning
+2*, Shigemitsu Iwai
+1*
+1
+Department of Paediatric Cardiovascular Surgery, National Cerebral and Cardiovascular Centre, Osaka, Japan; 
+2
+Department of Cardiology, 
+University Heart and Vascular Centre Hamburg, Hamburg, Germany; 
+3
+Departments of Paediatric Cardiology, National Cerebral and Cardiovascular 
+Centre, Osaka, Japan; 
+4
+Department of Cardiovascular Surgery, Dokkyo Medical University Saitama Medical Centre, Saitama, Japan; 
+5
+Department of 
+Cardiovascular Surgery, T ohoku University Graduate School of Medicine, Sendai, Japan
+Contributions:  (I) Conception and design: M Komori, Benesch Vidal ML, C Sinning, S Iwai; (II) Administrative support: C Sinning, S Iwai, K 
+Kurosaki, H Ohuchi, Y Saiki, K T oda; (III) Provision of study materials or patients: M Komori, Benesch Vidal ML, C Sinning; (IV) Collection and 
+assembly of data: M Komori, Benesch Vidal ML, C Sinning, S Iwai, K Imai, Y T ominaga, K Shibagaki, R Kutsuzawa, S Kawai, K Hayashi; (V) Data 
+analysis and interpretation: M Komori, Benesch Vidal ML, C Sinning, S Iwai, K Imai, Y T ominaga, K Shibagaki, R Kutsuzawa, S Kawai, K Hayashi; 
+(VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors.
+#
+These authors contributed equally to this work as co-first authors. 
+*These authors contributed equally to this work as co-last authors.
+Correspondence to:  Motoki Komori, MD. Department of Paediatric Cardiovascular Surgery, National Cerebral and Cardiovascular Centre, 6-1, 
+Kishibe-Shimmachi, Suita, Osaka 564-8565, Japan. Email: motokikomori0101@ncvc.go.jp.
+Background and Objective: Congenitally corrected transposition of the great arteries (ccTGA) remains 
+a rare congenital disorder with a wide range of manifestations. The management of heart failure (HF) of the 
+systemic right ventricle (RV), arrhythmias, heart block, and acquired cardiac conditions require a complex 
+and multi-faceted approach. The objective of this manuscript is to present the current evidence regarding 
+diagnostic, treatment, and management strategies for HF in ccTGA, including ventricular assist device (VAD) 
+therapy and heart transplantation.
+Methods: A systematic review of the literature was conducted using PubMed, covering the period between 
+2010 and 2024. The search terms included “heart failure”, “ccTGA”, “VAD”, “heart transplantation”, and 
+“systemic RV failure”. T wo clinical cases were included for illustrative purposes.
+Key Content and Findings: HF is a common occurrence in the context of ccTGA, primarily driven by 
+progressive pressure and volume overload of the systemic RV , regurgitation of the systemic atrio-ventricular 
+(AV) valve, and the development of arrhythmias, including complete heart block and (supra-)ventricular 
+tachycardia. The use of HF medication is indicated for symptomatic patients, however, data on the efficacy 
+of standardized HF medication remains limited. Timing of AV-valve replacement is essential to prevent 
+further progression of HF . 
+Conclusions:  In ccTGA, the timing of surgery and interventional treatment approaches, the effect of 
+pharmacological treatment in the context of HF , as well as the timing of initiation of a mechanical circulatory 
+support, VAD and heart transplantation, are based on individualised consensus-level decisions. Optimal 
+management remains a topic of debate due to the scarcity of outcome data. Future investigations should 
+focus on identifying surrogate parameters for guiding treatment.
+508
+ 
+^ ORCID: 0000-0002-8321-7277.
+[[p2]]
+Cardiovascular Diagnosis and Therapy, Vol 15, No 2 April 2025 501
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+Introduction 
+The number of adult patients with congenital heart 
+disease (ACHD) is increasing steadily as a result of 
+advances in both medical and surgical treatment options, 
+which are improving outcomes for children with 
+complex congenital heart disease (CHD) (1,2). In cases 
+of complex or hemodynamically relevant CHD, sequelae 
+often persist or emerge over time, even in the context of 
+primary surgical success or interventions. Congenitally 
+corrected transposition of the great arteries  (ccTGA)  is 
+a rare congenital heart disease, accounting for 0.5% of 
+all ACHD cases (3). The condition presents a significant 
+challenge due to its complex anatomical variations and 
+associated lesions, which give rise to a range of surgical 
+treatment options. Defects accompanying cyanotic shunting 
+frequently manifest as early symptoms, necessitating 
+surgical intervention. In the absence of associated lesions, 
+ccTGA may remain asymptomatic into adulthood. A 
+previous study reported that 66% of ccTGA patients were 
+correctly diagnosed for the first time at age 18 years, while 
+24% of these patients had a prior cardiology consultation in 
+which the diagnosis was missed, despite the use of cardiac 
+imaging (4). The objective of this review is to describe the 
+complications and management of ccTGA in adult life. 
+Acquired lesions or arrhythmias manifesting throughout 
+disease progression [e.g., atrial fibrillation, atrio-ventricular-
+nodal reentrant tachycardia (AVNRT), coronary artery 
+disease, left ventricle  (L V)/right ventricle  (RV) dilation, 
+thromboembolic events, total heart block, ventricular 
+arrhythmias, and sudden cardiac death] result in a 
+challenging patient cohort with a high burden of morbidity 
+and mortality. New surgical and interventional treatments 
+have transformed the management of this complex 
+condition over the past few decades. However, timing 
+and efficacy of surgical and interventional approaches, the 
+use of heart failure (HF) medication and when to initiate 
+mechanical circulatory support and ventricular assist devices 
+(VADs) or heart transplant ation remain topics of debate 
+due to a paucity of data. The objective of this manuscript 
+is to present the current evidence regarding diagnostic, 
+treatment, and management strategies of HF within 
+ccTGA, including VAD therapy and heart transplantation. 
+We present this article in accordance with the Narrative 
+Review reporting checklist (available at https://cdt.
+amegroups.com/article/view/10.21037/cdt-24-334/rc). 
+Anatomy
+ccTGA is defined by atrio-ventricular (AV) and ventriculo-
+arterial discordance and was initially delineated by Von 
+Rokitansky in 1875 (5). The condition may be apparent 
+in situs solitus  or inversus, which refers to the visceroatrial 
+constellation. The position of the heart is typically left-
+sided (laevocardia), though it may also be situated in the 
+midline (mesocardia) or, in 20% of cases, on the right 
+side (dextrocardia) (6). In most cases, an inversion of the 
+ventricular arrangement is evident, with the RV situated to 
+the left and the aorta positioned anteriorly and ascending 
+from the systemic RV (7). The term “congenitally corrected” 
+is therefore a misnomer, as it does not refer to a surgical 
+form of repair, but rather to the redirected blood flow due to 
+intrauterine adaptations. It is not uncommon for associated 
+lesions to be present, although ccTGA can also manifest 
+as an isolated defect. Lesions associated with ccTGA are 
+most commonly ventricular septal defects (VSDs), (sub-)
+pulmonary stenosis or atresia, tricuspid valvular lesions or 
+atrial septal defects, which can be grouped into up to 13 
+different anatomic subtypes of ccTGA (8). 
+Methods
+A systematic review of the literature was conducted using 
+PubMed, encompassing the period between 1
+st 
+April 2010 
+and 31
+st
+ March 2024 (T able 1). The search terms employed 
+included “heart failure”, “ccTGA”, “VAD”, “heart 
+transplantation”, and “systemic RV failure”. T wo clinical 
+cases were included for illustrative purposes.
+Keywords: Adults with congenital heart disease (ACHD); heart failure (HF); congenitally corrected transposition 
+of the great arteries (ccTGA); heart transplantation; ventricular assist device (VAD)
+Submitted Jul 13, 2024. Accepted for publication Feb 08, 2025. Published online Apr 17, 2025.
+doi: 10.21037/cdt-24-334
+View this article at: https://dx.doi.org/10.21037/cdt-24-334
+[[p3]]
+Komori et al. Management of HF in ccTGA—a narrative review502
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+The search terms had to be identified in the text of the 
+articles, regardless of where they were located. Moreover, 
+the authors selected literature that represents the current 
+guidelines or multicentre trials. However, the majority of 
+the literature is derived from observational studies, and 
+the evidence level for guidelines for patients with ccTGA 
+is that of expert opinion. Both qualitative and quantitative 
+studies were considered in order to elucidate the use of the 
+aforementioned aspects regarding ccTGA, advanced HF , 
+VAD therapy or device therapy in general in ccTGA. The 
+search was limited to original research, human subjects, and 
+papers published in English within the searched time frame. 
+The abstracts were then subjected to a review in order to 
+ascertain whether the articles in question met the requisite 
+inclusion criteria. Subsequently, a manual search of the 
+reference lists of all eligible articles was conducted. Prior 
+to their inclusion in the review, the studies were assessed by 
+two authors (M.K. and M.L.B.V ., with support from S.I. and 
+C.S.) for their relative importance. A relevant manuscript 
+was defined as one that met the following criteria: impact 
+factor of the journal, guideline, society position paper, or 
+comprehensive review of the current literature.
+Presentation and management of ccTGA 
+Patients with ccTGA form part of a heterogeneous patient 
+collective, mainly arising from associated anatomical 
+variations and comorbidities. Therefore, most studies 
+examining patient characteristics and outcomes differentiate 
+between those with ccTGA who exhibit early symptom 
+onset and are diagnosed at birth or infancy with prompt 
+surgical intervention and those with less specific, slowly 
+progressing symptoms who do not require immediate 
+intervention or surgery and are therefore likely diagnosed 
+later in life (9). 
+The natural course of ccTGA
+The natural course of the disease is dependent on the 
+presence of concomitant anomalies in the majority of 
+cases, as well as the progression of systemic ventricular 
+dysfunction and conduction disturbances (10). A recent 
+study reported a mean age at diagnosis of 12.4±11.4 years, 
+while the mean age at the last review was 34.3±11.3 years. 
+A total of 56% of the subjects included in the study had 
+undergone surgical intervention. A total of 19% of patients 
+had undergone pacemaker implantation, while two patients 
+had received a defibrillator for the treatment of non-
+sustained ventricular tachycardia (NSVT). The mortality 
+rate was reported as 1 death per 109 patient-years. T wo of 
+the patients had a documented history of supraventricular 
+tachycardia or NSVT . However, all patients were classified 
+as New Y ork Heart Association (NYHA) class I or II, and 
+the systemic (right) ventricular function was recorded as 
+normal, mildly impaired, or mildly to moderately impaired 
+at the most recent follow-up (11).
+Table 1 The search strategy summary
+Items Specification
+Date of search 20
+th
+ May 2024
+Database searched PubMed
+Search terms used “heart failure”, “ccTGA”, “VAD”, “heart transplantation”, and “systemic RV failure”
+Timeframe Between 1
+st 
+April 2010 and 31
+st
+ March 2024
+Inclusion criteria Literature that represents the current guidelines or multicentre trials (however most of the 
+literature was derived from observational studies and guidelines for patients with ccTGA have the 
+evidence level of expert opinion), consideration of qualitative and quantitative studies, restriction 
+to original research, humans, and papers published in English at any date within the timeframe
+Selection process Review of all abstracts meeting the inclusion criteria. Manual search of the reference lists of 
+all eligible articles. Two authors (i.e., M.K. and M.L.B.V. with support of S.I. and C.S.) assessed 
+the importance of the studies independently prior to their inclusion in the review. A relevant 
+manuscript was defined based on the impact factor of the journal, being a guideline manuscript, 
+a society position paper, or a comprehensive review of the current literature
+ccTGA, congenitally corrected transposition of the great arteries.
+[[p4]]
+Cardiovascular Diagnosis and Therapy, Vol 15, No 2 April 2025 503
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+Presentation and management of ccTGA at birth and 
+infancy
+Currently, the diagnosis of ccTGA is primarily based on 
+fetal echocardiography or prenatal karyotyping of the fetus. 
+Consequently, counselling for this condition commences 
+during the fetal stage of development. Patients with 
+ccTGA and an early presentation frequently present with 
+associated cardiac or extracardiac anomalies. The principal 
+manifestations include HF symptoms (e.g., dyspnoea, 
+oedema, restlessness, weakness, failure to thrive, breathing 
+and drinking difficulties or heart murmur) resulting from 
+pulmonary volume overload or cyanosis arising from 
+concomitant VSD or pulmonary artery stenosis (12).  
+A significant proportion of these cases necessitate 
+prompt surgical intervention. The diversity of anatomic 
+characteristics gives rise to a range of physiological 
+manifestations in patients with ccTGA, which in turn result 
+in a spectrum of symptoms.
+Consequently, the surgical approach is determined by the 
+physiological behaviour of patients with ccTGA.
+The surgical approach can be divided into two main 
+categories: biventricular repair and staged Fontan procedures. 
+It is difficult to make a comparison between the merits of 
+functional and anatomical repair for biventricular repair due 
+to differences in the historical background and the target 
+cases involved. In cases of functional repair, the Rastelli 
+procedure is performed to address pulmonary stenosis, 
+while patch closure is undertaken to address a VSD.
+In the context of anatomical repair, intra-atrial blood 
+flow is redirected through the utilisation of the Senning or 
+Mustard technique. Subsequently, the procedure is classified 
+as either an arterial switch or Rastelli procedure, contingent 
+on the presence of pulmonary valve stenosis.
+Presentation and management of ccTGA in adulthood
+Adult patients suffering from ccTGA often present with 
+rather unspecific symptoms, including palpitations and 
+decreased exercise capacity. Diagnosis is based on the 
+identification of abnormal findings in multimodality 
+imaging, consisting of transthoracic/transoesophageal 
+echocardiography (TOE), chest X-ray, magnetic resonance 
+imaging  (MRI) , or computed tomography (CT) scans. 
+Patients with late manifestation of ccTGA present with mild 
+or no associated cardiac lesions. Still, VSD and pulmonary 
+valve stenosis can be observed in adult patients with ccTGA 
+and balanced haemodynamics. The tricuspid configuration 
+of the systemic AV-valve renders it susceptible to central 
+maladaptation in the context of a progressive dilation of 
+the systemic RV due to chronic volume overload. Disease 
+management in adulthood is therefore guided by evaluation 
+for sy stemic AV-valve repair or replacement, primary or 
+secondary preventative device implantation and/or cardiac 
+resynchronization therapy (CRT) as well as end-stage HF 
+management.
+Diagnosis, management, and outcome of HF  
+in ccTGA
+Patients with ccTGA are at an increased risk of developing 
+HF . Approximately 32% of adults with ccTGA present 
+with signs and symptoms of HF . Current clinical guidelines 
+for acquired heart disease may not be directly applicable 
+to patients with failure of the systemic RV due to a lack of 
+evidence. In patients with ccTGA who develop HF , it is 
+of utmost importance to ascertain whether there are any 
+residual lesions requiring treatment.
+Double switch surgery carries an inherent risk of low 
+output syndrome in the immediate postoperative period. It is 
+imperative to monitor for the occurrence of supraventricular 
+tachycardia and venous stenosis in patients who have 
+undergone the Senning procedure. In the late postoperative 
+period, there is an elevated risk of deterioration in L V 
+function due to neo-aortic regurgitation.
+In the event that the Rastelli procedure is selected 
+for repair, the extracardiac conduit must be replaced in 
+succession at the subsequent operation. Conversely, in the 
+future, transcatheter pulmonary valve implantation (TPVI) 
+may be a potential alternative to the surgical procedure. 
+However, TPVI has not yet been globally approved for use 
+with artificial conduits.
+Complications and anatomical variations 
+causing HF
+Systemic RV
+The morphologic RV of those who have not undergone 
+any surgical repair for ccTGA constitutes a component of 
+systemic circulation by a thin wall with only a two-layered 
+muscular structure, in comparison to a three-layered 
+muscular in the morphologic L V . Such patients frequently 
+develop valvular regurgitation, which serves to exacerbate 
+the symptoms of HF , particularly in instances of Ebstein-
+[[p5]]
+Komori et al. Management of HF in ccTGA—a narrative review504
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+like tricuspid dysp lasia, the most common cardiac a nomaly 
+associated with ccTGA.
+Pulmonary vascular disease
+Pulmonary circulation evaluation is paramount in 
+patients presenting with sub -pulmonary RV failure or 
+sub-pulmonary failure of the anatomic L V in ccTGA. 
+Pulmonary arterial hypertension (PAH) can be associated 
+with ACHD due to anatomical specificity. Then, severe 
+characterization would be necessary to focus on specific 
+therapies for PAH. Patients with ccTGA may have 
+elements of both precapillary and postcapillary pulmonary 
+hypertension, most of which are associated with WHO  
+class 2 or 5 (13-15).
+HF management and details for ccTGA
+The number of ccTGA patients who visit emergently due 
+to HF symptoms is increasing  according to their age and 
+survival. The therapeutic plans would be influenced by 
+whether the patient’s anatomical feature is associated with a 
+morphologic left or RV in the systemic circulation, and the 
+extent of the impairment of the sub-pulmonary ventricle. 
+HF of ccTGA is often complex by complications due to 
+previous surgeries.
+Diagnosis of HF in patients with ccTGA
+A comprehensive understanding of the underlying 
+CHD, along with a detailed account of previous surgical 
+procedures and interventions, is of paramount importance 
+in the diagnosis of HF in ccTGA. The onset of arrhythmias 
+is a common initial symptom in spite of a little alteration. 
+There is a necessity for periodic examinations including 
+electrocardiograms (ECG), CT , cardiac magnetic resonance 
+imaging (CMR). In addition, the fundamental elements 
+of diagnosis are the transition of N-terminal pro-B-type 
+natriuretic peptide (NT-proBNP), and cardiopulmonary 
+exercise testing (CPET). The diagnostic problem lies in 
+two cases: symptomatic patients with normal systemic 
+ventricular function and asymptomatic patients with 
+impaired systemic RV function. When confronted with 
+these two situations, a 25% decrease in peak oxygen 
+consumption on CPET or a doubling of NT-proBNP over 
+a 6-month follow-up period indicates progressive systemic 
+RV systolic dysfunction. As such, they prompt the need for 
+prompt treatment initiation, as evidenced by the following 
+references (16-20).
+Medical treatment of HF in ccTGA
+Although there is no evidence (21), we often use beta-
+blockers in asymptomatic patients with systemic RV 
+dysfunction. While the management of symptomatic 
+patients is similar to that of patients with morphological 
+L V dysfunction. A notable distinction from existing HF 
+guidelines is the threshold for initiating medical treatment, 
+which is set at an ejection fraction (EF) of less than 40%. 
+The most common approach involves the use of renin-
+angiotensin-aldosterone system (RAAS) blockers in 
+conjunction with beta-blockers, mineralocorticoid receptor 
+antagonists (MRAs), diuretics, and/or digoxin. In patients 
+with subpulmonary morphological L V dysfunction, the 
+concomitant diuretics are used only if they show any 
+symptoms.
+Treatment of acute heart failure (AHF) with ACHD
+T oday, we have no therapeutic standard for those with 
+ACHD and AHF . Therefore, they are treated according 
+to the general HF , giving weight to the presence of 
+complications and anatomical variants.
+Implantable cardioverter-defibrillator (ICD) implantation 
+for ccTGA 
+Most data resulted from observational studies of limited 
+experts due to the lack of evidence for the implantation of 
+ICD for ACHD (22,23). Thus, novel studies are focusing 
+on prospectively assessing preventative ICD implantation 
+in ACHD (24).  Generally, ACHD patients can undergo 
+ICD implantation as primary prevention based on the 
+same indications for ICD in the latest European Society of 
+Cardiology (ESC) guidelines (25). It is already reported that 
+those who have not undergone any surgical repair for ccTGA 
+tend to suffer from ventricular arrhythmias. So, they often 
+undergo the implantation of ICD as secondary prevention. 
+There is a consensus in guidelines that ACHD patients 
+who meet the latest ICD criteria of left ventricular ejection 
+fraction (L VEF) <35%, biventricular physiology, HF 
+treated properly, and NYHA symptom class II or III are 
+candidates for ICD implantation as primary prevention. 
+But, when focused on the benefits of transvenous pacing 
+[[p6]]
+Cardiovascular Diagnosis and Therapy, Vol 15, No 2 April 2025 505
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+lead, it still has been difficult to select patients with systemic 
+RV appropriately due to the risks of infection and venous 
+occlusion under the anatomical complex.
+CRT implantation for ccTGA
+The validity of CRT implantation for ACHD depends on 
+the basic disease itself, anatomical features, and whether 
+the patient is under bi-ventricle or single-ventricle 
+hemodynamic. Although most of the data reported 
+in ACHD resulted from observational studies, CRT 
+implantation is indicated as a class I therapy for those with a 
+systemic morphologic L V when they meet the same criteria 
+as non-ACHD patients (25,26).  But, even for those who 
+have systemic morphologic RV , such as ccTGA, CRT could 
+be indicated when they meet the criteria, including EF 
+<35%, dilated ventricles, NYHA class II to IV , and complete 
+right bundle branch block with a QRS complex ≥150 msec. 
+V ADs: special considerations in patients with 
+ccTGA
+Considering the rising number of patients with ACHD 
+and the increase in HF in this population, there is a need 
+to evaluate additional treatment options. Among the 
+novel therapies developed for HF , durable mechanical 
+circulatory support in the form of VADs can be a bridge to 
+transplantation. These devices have been shown to decrease 
+mortality in end-stage HF among non-transplant candidates 
+and appear to offer a similar benefit to transplant candidates 
+who are deteriorating while awaiting transplantation (27). 
+Transcatheter tricuspid valve repair (TTVR)
+Percutaneous tricuspid interventions are gradually 
+providing alternative options to conventional surgical 
+procedures for high-risk patients. Among these, edge-to-
+edge TTVR represents the strategy with the highest global 
+penetration. The compassionate use of MitraClip devices 
+(Abbott Medical, USA) in a tricuspid position was initially 
+proposed, and the results were promising. Nevertheless, 
+the difficulties in achieving the correct catheter height or 
+optimal coaxiality represented significant limitations for 
+the conventional mitral system. The TRILUMINATE trial 
+was the first to assess the performance of a dedicated edge-
+to-edge TTVR system called T riClip (Abbott Medical). 
+m?????ms??
+(of abbreviated length), T riClip exhibited a markedly 
+elevated success rate for the procedure, accompanied by 
+an exceptionally low incidence of complications. The 
+novel T riClip system was made commercially available 
+in Europe in June 2020. The devices are available in 
+?K?ws??ms?M?s?????
+experience of the system in Spain. It is conceivable that 
+the T riClip system could be employed in conjunction 
+with ccTGA and, moreover, even following VAD  
+implantation (28,29).
+Heart transplantation in patients with ccTGA
+The number of heart transplantations for patients with 
+ACHD is gradually increasing. However, outcomes after 
+heart transplantation are significantly worse than those of 
+heart transplantations for patients without CHD, especially 
+in the context of multi-system disorder. 
+Patients with ACHD are frequently excluded from trials 
+assessing HF therapies. Consequently, there is an urgent 
+need for more data on HF trajectories in ACHD to inform 
+the management of those with ACHD and HF and post-
+transplantation trajectories with regards to CHD subgroup 
+(such as ccTGA) and disease complexity.
+Clinical cases to illustrate the complexity in 
+diagnosis as well as advanced HF treatment in 
+ccTGA
+Clinical case 1: incidental diagnosis of ccTGA due to a 
+suspicion of torrential “mitral” regurgitation
+A 68-year-old female was admitted to the hospital with 
+worsening palpitations, shortness of breath and the 
+suspicion of severe mitral regurgitation for evaluation 
+of a surgical valve repair or replacement. T ransthoracic 
+echocardiography (TTE) showed suggestive findings of 
+ccTGA, with severe regurgitation of the systemic tricuspid 
+AV-valve and a systemic RV with moderately reduced 
+function ( Figure 1A, 1B). TOE ( Figure 1C,1D ) and MRI 
+confirmed the diagnosis of ccTGA with the aorta in the 
+left anterior position, worsening systemic RV function and 
+significant regurgitation of the systemic tricuspid AV-valve. 
+After interdisciplinary discussion, the indication for surgical 
+valve repair was prompted. 
+Preoperative CT scans showed signs of coronary artery 
+atherosclerosis. Coronary angiography revealed a stenosis 
+of the proximal circumflex artery. Coronary artery bypass 
+surgery (CABG ) with venous graft from the ascending 
+[[p7]]
+Komori et al. Management of HF in ccTGA—a narrative review506
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+aorta to the third major RV branch of the right coronary 
+artery (RCA) and tricuspid valve replacement with a 32 mm  
+Hancock biological valve prosthesis were performed. In 
+the five-year follow-up, the patient’s condition showed 
+improvement, with echocardiography revealing stable 
+findings with mild regurgitation of the systemic tricuspid 
+AV-valve after replacement and a mildly reduced systemic 
+RV function. However, palpitations remained a persistent 
+issue, and no further atrial fibrillation could be identified.
+Clinic case 2: end-stage HF management in ccTGA—
+considerations in V AD implantation and heart 
+transplantation
+A 35-year-old male patient was admitted with recurrent 
+ventricular tachycardia (VT) and protein losing enteropathy 
+(PLE) attributed to a worsening systemic RV function. 
+The underlying defect was diagnosed as a complex ccTGA 
+necessitating seven previous cardiac surgeries. The initial 
+surgery was a tricuspid valve repair (TVR) at two years 
+due to moderate tricuspid regurgitation, followed by a 
+pacemaker implantation for complete atrioventricular 
+block three months later. Fourteen  years after the initial 
+procedure secondary TVR in the setting of recurrent 
+regurgitation was performed. 
+In the following years, the patient remained stable in 
+NYHA functional class (FC) II. At 35 years of age, the 
+patient presented with recurrent VT and PLE. Right heart 
+catheterization (RHC) revealed severe RV failure with a 
+central venous pressure up to 21 mmHg.
+HF and arrhythmia  drug treatment was reinforced 
+with amiodarone, additional diuretics, milrinone, and 
+dobutamine. The cardiac function remained unimproved, 
+and he was listed for cardiac transplantation. He underwent 
+HeartMate3™ for anatomical RV failure. Three years later 
+he underwent heart transplantation at the age of 38 years. 
+Previous mediastinal surgeries resulted in major scarring 
+and a prolonged operation time. Weaning trials in the 
+postoperative period led to a tracheotomy. 
+The patient’s persistent PLE and low renal functional 
+reserve  resulted in weaning challenges from continuous 
+hemofiltration postoperatively. He fell into sepsis due to 
+multiple infections, including gallbladder perforation and 
+cellulitis of the right upper limb. The patient succumbed to 
+septic shock seven months after heart transplantation. 
+Conclusions
+Due to advancements in diagnostic techniques and an 
+increased recognition of the complexities associated with 
+CHD, coupled with the availability of comprehensive 
+prenatal assessments, the timing of diagnosis in patients 
+Figure 1  Echocardiographic findings in Case Report 1. (A) Apical four-chamber view showing the hyper trabeculated systemic RV .  
+(B) T ransesophageal 3-chamber view depicting the hyper trabeculated systemic RV in subaortic position. (C) Apical four-chamber view 
+with colour Doppler revealing severe regurgitation of the systemic tricuspid AV-valve. (D) T ransoesophageal echocardiography with a 
+3-dimensional view on the systemic tricuspid AV-valve. AV , atrio-ventricular; RV , right ventricle.
+A B
+C D
+[[p8]]
+Cardiovascular Diagnosis and Therapy, Vol 15, No 2 April 2025 507
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+with ccTGA has witnessed a notable improvement 
+over time. A considerable number of ccTGA patients, 
+particularly those with balanced hemodynamics, remain 
+undetected and present therapeutic challenges when 
+diagnosed at a later stage of life. Optimal timing of surgery 
+and interventional treatment approaches, the effect of 
+pharmacological treatment in the context of HF , as well as 
+the timing of initiation of a mechanical circulatory support, 
+VAD and heart transplantation, are based on individualised 
+consensus-level decisions. Optimal management remains 
+a topic of debate due to the scarcity of outcome data. 
+Future investigations should focus on identifying surrogate 
+parameters for guiding treatment.
+Acknowledgments
+None.
+Footnote
+Provenance and Peer Review:  This article was commissioned 
+by the Guest Editor (Harald Kaemmerer) for the series 
+“Current Management Aspects of Adult Congenital Heart 
+Disease (ACHD): Part VI” published in Cardiovascular 
+Diagnosis and Therapy . The article has undergone external 
+peer review.
+Reporting Checklist:  The authors have completed the 
+Narrative Review reporting checklist. Available at https://
+cdt.amegroups.com/article/view/10.21037/cdt-24-334/rc
+Peer Review File:  Available at https://cdt.amegroups.com/
+article/view/10.21037/cdt-24-334/prf
+Funding: None.
+Conflicts of Interest:  All authors have completed the ICMJE 
+uniform disclosure form (available at https://cdt.amegroups.
+com/article/view/10.21037/cdt-24-334/ coif). The series 
+“Current Management Aspects in Adult Congenital Heart 
+Disease (ACHD): Part VI”  was commissioned by the 
+editorial office without any funding or sponsorship. The 
+authors have no other conflicts of interest to declare.
+Ethical Statement:  The authors are accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+appropriately investigated and resolved.
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+PM?a?olK?r?aK?v?iK??M?b?
+characteristics and outcomes of patients with adult 
+congenital heart disease listed for heart and heart-lung 
+transplantation in the Eurotransplant region. J Heart Lung 
+T ransplant 2020;39:1238-49.
+2. Sinning C, Huntgeburth M, Fukushima N, et al. 
+T reatment of advanced heart failure in adults with 
+congenital heart disease: a narrative review and clinical 
+cases. Cardiovasc Diagn Ther 2022;12:727-43.
+3. Zubrzycki M, Schramm R, Costard-Jäckle A, et al. 
+Pathogenesis and Surgical T reatment of Congenitally 
+Corrected T ransposition of the Great Arteries (ccTGA): 
+Part III. J Clin Med 2024;13:5461.
+4. Beauchesne LM, Warnes CA, Connolly HM, et al. 
+Outcome of the unoperated adult who presents with 
+congenitally corrected transposition of the great arteries. J 
+Am Coll Cardiol 2002;40:285-90.
+5. Von Rokitansky CF . Die defecte der Scheidewande des 
+Herzens. Pathologisch-Anatomische Abhandlung. Wien: 
+Wilhelm Braumuller; 1875.
+6. Warnes CA. T ransposition of the great arteries. 
+Circulation 2006;114:2699-709.
+7. Mongeon FP . Congenitally Corrected T ransposition of the 
+Great Arteries. In: Gatzoulis MA, Webb GD, Daubeney 
+PEF . Diagnosis and Manamgent of Adult Congenital 
+Heart Disease (Third Edition). 2018:545-52.
+8. Van Praagh R, Papagiannis J, Grünenfelder J, et al. 
+Pathologic anatomy of corrected transposition of the great 
+arteries: medical and surgical implications. Am Heart J 
+1998;135:772-85.
+9. van Dissel AC, Opotowsky AR, Burchill LJ, et al. End-
+stage heart failure in congenitally corrected transposition 
+of the great arteries: a multicentre study. Eur Heart J 
+2023;44:3278-91.
+10. Kowalik E. Management of congenitally corrected 
+transposition from fetal diagnosis to adulthood. Expert 
+[[p9]]
+Komori et al. Management of HF in ccTGA—a narrative review508
+© AME Publishing Company. Cardiovasc Diagn Ther 2025;15(2):500-508 | https://dx.doi.org/10.21037/cdt-24-334
+Cite this article as:  Komori M, Benesch Vidal ML, Imai K, 
+T ominaga Y, Shibagaki K, Kutsuzawa R, Kawai S, Hayashi K, 
+Kurosaki K, Ohuchi H, T oda K, Saiki Y, Sinning C, Iwai S.  
+Diagnosis, management, and outcome of heart failure in 
+congenitally corrected transposition of the great arteries 
+(ccTGA)—a narrative review. Cardiovasc Diagn Ther 
+2025;15(2):500-508. doi: 10.21037/cdt-24-334
+Rev Cardiovasc Ther 2023;21:389-96.
+11. McCombe A, T ouma F , Jackson D, et al. Sudden cardiac 
+death in adults with congenitally corrected transposition of 
+the great arteries. Open Heart 2016;3:e000407.
+12. Connolly HM, Miranda WR, Egbe AC, et al. 
+Management of the Adult Patient With Congenitally 
+Corrected T ransposition: Challenges and Uncertainties. 
+Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu 
+2019;22:61-5.
+13. Baumgartner H, De Backer J, Babu-Narayan SV , et 
+al. 2020 ESC Guidelines for the management of adult 
+congenital heart disease. Eur Heart J 2021;42:563-645.
+14. Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/
+ERS Guidelines for the diagnosis and treatment of 
+pulmonary hypertension. Eur Heart J 2022;43:3618-731.
+15. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/
+ACC Guideline for the Management of Adults With 
+Congenital Heart Disease: A Report of the American 
+College of Cardiology/American Heart Association 
+T ask Force on Clinical Practice Guidelines. Circulation 
+2019;139:e698-800.
+16. Hegarova M, Brotanek J, Kubanek M, et al. B-type 
+natriuretic peptide: powerful predictor of end-stage 
+chronic heart failure in individuals with systolic 
+dysfunction of the systemic right ventricle. Croat Med J 
+2016;57:343-50.
+17. Popelová JR, T omková M, T omek J. NT-proBNP predicts 
+mortality in adults with transposition of the great arteries 
+late after Mustard or Senning correction. Congenit Heart 
+Dis 2017;12:448-57.
+18. Raedle-Hurst TM, Hosse M, Abdul-Khaliq H. Serial 
+measurement of the N-terminal pro-brain natriuretic 
+peptide (NT-proBNP) predicts poor outcome in a patient 
+with congenitally corrected transposition of the great 
+arteries (ccTGA). Eur J Heart Fail 2010;12:521-3.
+19. Rog B, Salapa K, Okolska M, et al. Clinical Evaluation of 
+Exercise Capacity in Adults with Systemic Right Ventricle. 
+T ex Heart Inst J 2019;46:14-20.
+20. T ay EL, Frogoudaki A, Inuzuka R, et al. Exercise 
+intolerance in patients with congenitally corrected 
+transposition of the great arteries relates to right 
+ventricular filling pressures. Int J Cardiol 2011;147:219-23.
+21. Sabbah BN, Arabi TZ, Shafqat A, et al. Heart failure in 
+systemic right ventricle: Mechanisms and therapeutic 
+options. Front Cardiovasc Med 2022;9:1064196.
+22. Köbe J, Willy K, Eckardt L, et al. Narrative review of: risk 
+stratification and implantable cardioverter-defibrillator 
+therapy in adults with congenital heart disease. Cardiovasc 
+Diagn Ther 2021;11:538-49.
+23. Vehmeijer JT , Brouwer TF , Limpens J, et al. Implantable 
+cardioverter-defibrillators in adults with congenital heart 
+disease: a systematic review and meta-analysis. Eur Heart J 
+2016;37:1439-48.
+24. Vehmeijer JT , Koyak Z, Zwinderman AH, et al. 
+PREVENTION-ACHD: PRospEctiVE study on 
+implaNT able cardioverter-defibrillator therapy and 
+suddeN cardiac death in Adults with Congenital 
+Heart Disease; Rationale and Design. Neth Heart J 
+2019;27:474-9.
+25. Zeppenfeld K, Tfelt-Hansen J, de Riva M, et al. 2022 ESC 
+Guidelines for the management of patients with ventricular 
+arrhythmias and the prevention of sudden cardiac death. 
+Eur Heart J 2022;43:3997-4126.
+26. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 
+AHA/ACC/HRS Guideline for Management of Patients 
+With Ventricular Arrhythmias and the Prevention of 
+Sudden Cardiac Death: A Report of the American College 
+of Cardiology/American Heart Association T ask Force 
+on Clinical Practice Guidelines and the Heart Rhythm 
+Society. J Am Coll Cardiol 2018;72:e91-e220.
+27. T adokoro N, Fukushima S, Hoashi T , et al. Durable 
+ventricular assist device implantation for systemic right 
+ventricle: a case series. Eur Heart J Case Rep 2020;4:1-9.
+28. Freixa X, Arzamendi D, Del T rigo M, et al. The T riClip 
+system for edge-to-edge transcatheter tricuspid valve 
+repair. A Spanish multicenter study. Rev Esp Cardiol (Engl 
+Ed) 2022;75:797-804.
+29. Andreas M, Russo M, Werner P , et al. T ranscatheter 
+edge-to-edge tricuspid repair for recurrence of valvular 
+regurgitation after left ventricular assist device and 
+tricuspid ring implantation. ESC Heart Fail 2020;7:915-9.

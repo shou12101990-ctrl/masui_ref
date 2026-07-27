@@ -1,0 +1,2503 @@
+
+[[p1]]
+1
+高齢者における高齢者における
+術後 せん妄の予防と 治療の術後 せん妄の予防と 治療の
+プラクティカルガイドプラクティカルガイド
+೔
+ʦ੒ʧ
+ஂ๏ਓձ҆શҕһձɹ
+ྸऀຑਲͷΨΠυϥΠ੒ϫʔΩϯάάϧʔϓ
+8( ௕ ɿɹ஌೭
+8( ҕһ ɿዳ઒ɹ३ೋɼྙ
+ढ़
+Φϒβʔόʔɿɹণ඙
+ձ
+ɹՅ࿠ɼ ాதɹ૱ɼ தᖒɹय़੓
+[[p2]]
+2
+࣍
+ཁ
+1.1　目　的   4
+1.2　対　象   4
+1.3　利用に あた っ て の注意点   4
+1.4　作成ワー キ ン グ グル ープ   4
+1.5　資金お よ び協力組織   5
+1.6　利益相反   5
+1.7　推奨度と エ ビデ ン ス レ ベル   5
+͞  5
+੒ 6
+ɹύ ϒ Ϧ ο Ϋ ί ϝ ϯ τ  6
+ֶ
+2.1　高齢者の定義   7
+2.2　わが国に おけ る年齢別の人口変化   8
+2.3　わが国に おけ る65歳以上の全身麻酔症例数の推移   9
+ೳͷมԽ
+3.1　加齢が臓器・組織に及ぼす影響   11
+3.2　加齢が認知機能に及ぼす影響   11
+3.3　フレ イ ル   13
+ֶ 13
+ڹ 13
+ޙ
+4.1　PODの定義   15
+4.2　せん妄の診断基準と 分類   15
+[[p3]]
+3
+4.3　せん妄の検出評価ツー ル   16
+4.4　PODの発症率と予後に及ぼす影響   19
+ࢠ
+5.1　術前の リ ス ク因子   20
+5.2　術中の リ ス ク因子   24
+TMR　術後の?リ?ス?ク因子???QT
+ཧ
+6.1　リスク因 子を有 する患 者および 家 族 へ の対 応   27
+6.2　包括的予防介入   28
+ཧ
+7.1　麻酔法と 麻酔薬・麻酔関連薬   30
+7.2　モニタ リ ン グ   31
+ཧ
+8.1　PODの評価   33
+8.2　術後鎮痛   34
+8.3　予防法   35
+ɹඇༀ෺ྍ๏ 35
+ɹༀ෺ྍ๏ 35
+ྍ๏
+9.1　非薬物療法    37
+9.2　薬物療法   37
+略　語   39
+参考文献   40
+目　次
+[[p4]]
+4
+1.1　目 　 的
+ʹ
+ͤΜໝʢQPTUPQFSBUJWFʢRVBMJUZPGMJGFɿ20-ʣ ɼ͞
+͢Δେ͖ͳ໰୊Ͱ͋ΔɻຊϓϥΫςΟΧϧΨΠυʢҎԼɼΨΠυϥΠϯʣ͸ɼ10% ͷ༧๷
+Λ໨త
+ͱ͢Δɻ
+1.2　対 　 象
+ऀ͕ར༻Ͱ͖Δɻ
+1.3　利 用 に あ た っ て の 注 意 点
+͢Δ΋ͷͰ͋Δɻ͔͠͠ɼ
+ͨ͠ʮਪ
+ཁ͢Δ΋ͷͰ͸ͳ
+ఆ͢΂͖Ͱ͋Δɻ
+੒ϫʔΩϯάάϧʔ
+ͱͯ͠ར༻͞ΕΔ͜ͱΛ૝ఆ͍ͯ͠ͳ͍ɻ͋
+͕ ൃ ੜ
+͕͋ͬͨʯͱ൑அ͢Δͷ͸ෆద੾
+Ͱ͋Δɻ
+1.4　作 成 ワ ー キ ン グ グ ル ー プ
+ஂ๏ਓձ੒ϫʔΩϯάάϧʔϓʢ8(ʣͱ೔
+੒ͨ͠ɻ
+基本理念と概要基本理念と概要
+
+[[p5]]
+5
+ஂ๏ਓձ੒ϫʔΩϯάάϧʔϓʢ8(ʣ
+෦तʣ
+ֶतʣ
+෦तʣ
+෦ʣ
+ֶʣ
+෦तʣ
+ֶतʣ
+ձ
+෦तʣ
+෦तʣ
+෦तʣ
+1.5　資 金 お よ び 協 力 組 織
+ஂ๏ਓ࠵
+։͢Δɻ
+1.6　利 益 相 反
+੒ 8(ͷ8( ௕ɼ8( ҕһɼ͓ΑͼΦϒβʔόʔɼͳΒͼʹ֎෦ධՁҕһʹਃ
+͢΂͖རӹ૬൓͸ͳ͔ͬͨɻ
+1.7　推 奨 度 と エ ビ デ ン ス レ ベ ル
+1.7.1　Summary Statementの推奨度と エビデン スの強さ
+੒ͷखҾ͖ù÷ù÷ ೥ʯø
+ɼʮ ( 3 " % & ϋ ϯ υ ϒ ο Ϋ ʯù
+ड़ʹ
+ʹͱͲ·Δ΋
+ͷͱͨ͠ɻ
+❶　推奨度
+ɼ ί ε τ ΍
+ͨ͠ɻ
+ø͘ਪ঑͢Δɻ
+ùɿ͢Δʢ͠ͳ͍ʣ͜ͱΛऑ͘ਪ঑͢Δɻ
+❷　エビデンスの強さ
+ͨ͠ɻ
+1．基 本 理 念と概 要
+[[p6]]
+6
+"৴͕͋Δɻ
+#৴͕͋Δɻ
+$ఆతͰ͋Δɻ
+%৴Ͱ͖ͳ͍ɻ
+❸　参考文献の研究デザイ ン
+໨͝ͱʹྻ
+ͨ͠ɻ
+ᶗɿΨΠυϥΠϯ
+ᶘɿγεςϚςΟοΫϨϏϡʔʗϝλ෼ੳ
+ᶙݧࢼֱ
+ᶚʢOø
+÷÷÷ Ҏ্ʣ
+ᶛʣ
+ᶜ΍έʔεγϦʔζʣ
+ᶝɾͦͷଞ
+1.7.2　推奨度決定基準と 合意形成
+໨ͷ 4VN
+NBSZͬͨɻ
+1.7.3　パブ リ ッ ク コ メ ン ト
+ٞ
+൱Λ൑அ͠ɼमਖ਼ΛՃ͑ͨɻ
+1．基 本 理 念と概 要
+[[p7]]
+7
+2.1 高齢者の定義
+4VNNBSZ4UBUFNFOU
+8)0͸ྐྵ೥ྸ͍ͯ͠Δɻ
+ੜ࿑ಇল͸ྐྵ೥ྸ͍ͯ͠Δɻ
+͕ఏҊ͞Ε͍ͯΔɻ
+ղઆ
+ʢ8PSME)FBMUI͍ͯ͠Δú
+͜ͱ͔Βɼ
+ྸऀɼ
+͸ͳ͍ɻྐྵ೥
+ඪͰ͋Γɼ ʠ࿝Խʡ ʢՃྸʹ൐
+ೳ͔Βਪఆ͞ΕΔ
+͕ਐΊΒΕ͍ͯΔɻ
+͞Ε͖ͯͨɻ͔͠͠ɼ
+ೳมԽ
+ΒΕ͍ͯΔɻͭ·ΓɼҎલͱൺ΂ͯྐྵ೥ྸͱ࿝Խͷဃ཭͕େ
+͖͘ͳ͍ͬͯΔû
+ྸऀʹ͓͍ͯ͸ɼ৺਎
+͋Δ͍͸
+͕ଟ͍û
+͢Δ
+ͱ͢Δ͜ͱ͕ఏҊ
+͞Ε͍ͯΔü
+ա͕มԽ͢ΔՄೳੑ͕͋Γɼྐྵ೥
+͍ͯ͘͠ඞཁ͕͋Δɻ
+疫　学疫　学
+
+[[p8]]
+8
+2.2　わが国に おけ る年齢別の人口変化
+4VNNBSZ4UBUFNFOU
+͞ΕΔɻ
+͞ΕΔɻ
+ղઆ
+෎ʹΑΔʮྩ࿨ û ೥൛ձനॻʯý
+গաఔʹೖ͍ͬͯΔɻù÷÷ÿ ೥ʹ૯
+͸øগ ʹ స ͡ ɼ ù ÷ ù Ā೥ ʹ ͸øԯù 
+ ÷ ÷ ÷ສ ਓ Λ Լ ճ Γ ɼ ù ÷ ü ú೥ ʹ
+͑ ɼ
+Ռͱͯ͠ɼ૯
+ຽͷùý ਓʹø
+͞Ε͍ͯΔʢਤø΋ ù ü  ü  Ͱ ɼ ໿ ú  Ā ਓ ʹ
+ྸ Խ ཰ ͸ ੈ
+ͯ͠೔ຊ͸ѹ౗తʹ଎͍ʢਤùྸ Խ ཰ ͕ þ  Λ ௒
+͢Δͱɼ ϑϥϯε͕ øùý ೥ɼ ε΢Σʔσϯ͕ ÿü ೥ɼ
+͕ûý೥ɼ͓ΑͼυΠπ͕û÷೥Ͱ͋Δͷʹରͯ͠ɼ೔ຊ͸øĀþ÷೥ʹþΛ௒͑Δͱùû೥Ͱ
+͓ͯ͠Γʢਤúɼ ೔
+଎
+͞Ε͍ͯΔɻ
+ਤܭ
+ɽIUUQXXX
+ʧ
+2．疫 　学
+ʢສਓʣ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ʢˋʣ
+
+
+
+
+
+
+
+
+
+
+ޱ
+ޱ
+߹ׂ
+
+[[p9]]
+9
+ਤܭ
+ɽIUUQXXXDBP
+ʧ
+
+
+
+
+
+
+
+
+
+
+ʢˋʣ
+
+೔ຊ
+ΠλϦΞ
+ε΢Σʔσϯ
+εϖΠϯ
+υΠπ
+ϑϥϯε
+ΠΪϦε
+ࠃ
+ઌਐ஍Ҭ
+։ൃ్্஍Ҭ
+ଌ஋ ஋
+2.3　わが国に おけ る65歳以上の全身麻酔症例数の推移
+4VNNBSZ4UBUFNFOU
+΋্ঢ͍ͯ͠Δɻ
+ղઆ
+਍౳৘ใσʔλϕʔεþ
+શ
+਎ຑਲʣʹΑΔͱɼશ਎ຑਲ঱ྫ਺͸ɼù÷øû೥౓͕ú
+ùýú
+úúþྫɼù÷ùù೥౓͕ú
+ĀĀÿ
+ýÿøྫͱ૿Ճ͍ͯ͠Δɻ
+Ҏ্ͷશ਎ຑਲ঱ྫ਺͸ɼù÷øû ೥౓͕ ø
+ýûú
+üùþ ྫʢશ঱ྫ਺ͷ ü÷ûʣ ɼù÷ùù ೥౓͕ ù
+ùýü
+úùĀ ྫʢશ
+঱ྫ਺ͷüýþʣͱ૿Ճ͍ͯ͠ΔʢਤûҎ ্ ʹ ͭ ͍ ͯ ΋ ɼ ù ÷ ø û ೥ ౓ ͕ ø Ā ú 
+ û ý ÿ ྫ ʢ શ ঱ ྫ ਺ ͷ ü  Ā  ʣɼ
+ྸԽ͕
+͢Δͱਪଌ͞ΕΔɻ
+2．疫 　学
+ਤܭ
+ɽIUUQXXXDBP
+ʧ
+
+
+
+
+
+
+
+
+
+
+
+೔ຊ
+ࠃؖ
+ࠃ
+Πϯυ
+ΠϯυωγΞ
+ϑΟϦϐ ϯ
+γϯΨϙʔϧ
+λΠ
+ઌਐ஍Ҭ
+։ൃ్্஍Ҭ
+ଌ஋ ஋
+ʢˋʣ
+[[p10]]
+10
+
+ࡀ߹ׂ
+
+
+
+ 
+ 
+
+ʣ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ʢʣ
+
+
+
+
+
+
+
+
+
+        
+ʢ೥౓ʣ
+ࡀ਺
+ਤྸऀͷશ਎ຑਲ঱ྫ਺
+ʦ/%# ΦʔϓϯσʔλɽIUUQTXXXNIMXHPKQTUGTFJTBLVOJUTVJUFCVOZB
+ʧ
+2．疫 　学
+[[p11]]
+11
+3.1　加齢が臓器・組織に及ぼす影響
+4VNNBSZ4UBUFNFOU
+ೳ͸௿Լ͢Δɻ
+ղઆ
+ೳͷ௿Լɼ͓Αͼε τ ϨεԼͰͷੜཧత༧උྗͷ௿ԼΛ΋ͨΒ͢ÿ
+ɻ͜ΕΒͷมԽ͸ज़
+͕΋ͨΒ͢छʑͷ঱ঢ়ͷൃ঱཰΋Ճྸʹ൐͍૿
+Ճ͢Δɻ
+ೳతมԽΛදøࣔ
+͢Ā
+ø÷
+͑ΒΕ͍ͯΔÿ
+Ҏ্ʹ͓͍
+ஶͰ͋ΔĀ
+ซ঱͔Βճ෮
+͞Ε͍ͯΔøø
+ʹ͸ɼՃྸ
+ɾ૊৫ͷมԽΛ೦಄ʹஔ͘ ͜ͱ͕ॏཁͰ͋Δɻ
+加齢に伴う生体機能の変化加齢に伴う生体機能の変化
+
+3.2　加齢が認知機能に及ぼす影響
+4VNNBSZ4UBUFNFOU
+ೳ͸௿Լ͢Δɻ
+͍ɻ
+ղઆ
+ೳͷ௿Լɼ
+গɼਆ
+͛ΒΕΔɻ
+[[p12]]
+12
+3．加 齢 に伴う生 体 機 能 の変 化
+ɾ૊৫ ଶతมԽ ೳతมԽ
+ܦ
+গ
+গ
+গ
+ೳͷ௿Լ
+ͷ൓Ԡੑͷ௿Լ
+ͷಷԽ
+डੑͷဏਐ
+؅݂
+ͷ஄ੑͷ௿Լ
+ͷઢҡԽ
+গ
+ѹͷ্ঢ
+ѹมಈͷ૿Ճ
+ѹɼෆ੔຺
+಄ɾഏ
+গ
+গ
+นʹ͓͚Δ஄ੑͷ௿Լ
+গ
+ᅞ
+౳ͷ૿େ
+ଁ গ ੒ೳɼഉᔔೳͷ௿Լ
+૊৫म෮ೳͷ௿Լ
+ਛଁ ͷᣴബԽ
+গ
+ೳͷ௿Լ
+গ
+ഉᔔͷ௿Լ
+ɾԘ෼ͱਫ෼ෛՙʹର͢Δ੬ऑԽ
+೑ গ
+๱ͷ૬ରత૿Ճ
+ͷ૿େ
+গ
+ɾ௿ମԹ
+ྗ௿ԼɼαϧίϖχΞ
+࿈૊৫ গ
+తɾྔతมԽ
+ྗͷ௿Լ
+ੜͷมԽ
+વ໔Ӹೳͷ௿Լ
+૓ छͷมԽ
+੒ൺ཰ͷมԽ ɾ໔Ӹೳͷ௿Լ
+ද̍ɾ ૊৫ͷओͳมԽ
+ɹମᖤաྔɼ $$S ɿ Ϋ Ϩ Ξνχ ϯ Ϋ Ϧ Ξ ϥ ϯε
+ʦ4USN$
+3BTNVTTFO-4
+4UFJONFU[+1SBDUJDBMNBOBHFNFOUPGBOBFTUIFTJBJOUIFFMEFSMZ%SVHT"HJOHr
+͓Αͼ,IBO44
+4JOHMFS#%
+7BVHIBO%&.PMFDVMBSBOEQIZTJPMPHJDBMNBOJGFTUBUJPOTBOENFBTVSFNFOUPGBHJOHJOIVNBOT
+੒ʧ
+ج
+ຊ
+໨Λຬͨͨ͠ঢ়ଶͱ͞Ε͍ͯΔøù
+ͷ༗ප
+ʹΑͬͯú÷rͰͷ༗ප཰͸ øÿÿ Ͱ͋ͬ
+ͨøú
+ʹ͓͚
+Δ༗ප཰͸͞Βʹ૿Ճ͢Δ΋ͷͱ༧ଌ͞ΕΔøû
+øüʣɻ
+ɼ
+ͱ͸ҟͳΔපଶ
+͞Ε͍ͯΔͨΊ஫ҙ͕ඞཁͰ͋Δøü
+øý
+ɻ͔͠͠ɼͦͷ
+͞Ε͍ͯΔøý
+ɻ
+[[p13]]
+13
+3.3　フレ イ ル
+3.3.1　フレ イ ルの定義・診断・疫学
+4VNNBSZ4UBUFNFOU
+४ͱGSBJMUZJOEFY͕͋Δɻ
+Ճྸʹ൐͍ɼϑϨΠϧͷ༗ප཰͸૿Ճ͢Δɻ
+ղઆ
+ऑʯ·ͨ͸ʮ࿝ਰʯͱ༁
+͢Δ͜ͱΛఏএͨ͠øþ
+ɻϑϨΠϧͱ͸ʮՃྸʹ൐͏ଁ
+ೳͷมԽ΍༧උྗͷ௿ԼʹΑͬͯɼ֎తε τ Ϩεʹର͢Δճ෮ྗ͕௿Լͨ͠ঢ়ଶʯͰ͋Δøÿ
+øĀ
+೥ɼϑϨΠ
+ձత
+͑ΒΕ͍ͯΔøĀ
+ɻ
+४ͱͯ͠ɼ+$BSEJPWBTDVMBS)FBMUI4UVEZ४ͱGSBJMUZJOEFY͕͋Δù÷Ȃùù
+ɻ
+߲
+౰ɿϑϨΠϧɼør౰ ɿ ϓ Ϩ ϑ Ϩ Π ϧ ʢ ϑ Ϩ Π ϧ ͷ લ ஈ ֊ ঢ় ଶ ʣ ʥùùʣɻGSBJMUZ߁݈
+ূ͞Ε͍ͯͳ͍ɻ
+ʀýørĀ÷ʣ ɼ
+ʀûøýrü͞Εͨɻ೥ྸ૚ผͰ͸ý ürýĀͰ øĀɼ
+þ÷rͰ úÿɼþürͰø÷÷ɼÿ÷r߹ׂ
+͸Ճྸʹ൐͍૿Ճͨ͠ùú
+ɻ
+3.3.2　フレ イ ルが術後に及ぼす影響
+4VNNBSZ4UBUFNFOU
+ΛѱԽͤ͞Δɻ
+ϑϨΠϧ͸10%ൃ঱ͷϦεΫΛ૿Ճͤ͞Δɻ
+ղઆ
+&WBOTΒùû
+ޙ
+๢཰͸
+Ͱ͋Δ͜
+͞Ε͍ͯΔɻ
+Ͱ͸ɼ༧
+3．加 齢 に伴う生 体 機 能 の変 化
+[[p14]]
+14
+ऀͷüùɼ͓Α
+ऀͷ üú ͕ϑϨΠϧͱ਍அ͞Εͨùü
+ɻ
+-JOΒùý
+ͱϑϨΠϧͱ
+ͯ͠ɼ
+ú÷ ೔ɼĀ÷ ೔ɼøͨ͠ɻ
+ऀ͸10%Λൃ঱͠΍͍͢͜ͱ͕໌Β͔ʹ͞Ε͍ͯΔɻ'VΒùþ
+͸ø üฤͷ࿦จ
+࿈͢Δ͜ͱΛ໌
+Β͔ʹͨ͠ʢௐ੔Φοζൺʀúùú
+ؒ۠ʀùüýrû÷þʣ ɻ͞ΒʹαϒάϧʔϓղੳͰϑϨΠϧͷ༗ແͱ10%
+ڹ
+Λड͚ͳ͍ɻ-VJΒùÿʣͰ΋ɼϑϨΠϧ͕ 10% ൃ঱ͷಠཱͨ͠Ϧε
+͞Ε͍ͯΔɻ
+3．加 齢 に伴う生 体 機 能 の変 化
+[[p15]]
+15
+4.1　PODの定義
+4VNNBSZ4UBUFNFOU
+Ͱ͋Δɻ
+ղઆ
+/PNFODMBUVSF$POTFOTVT8PSLJOH(SPVQ ͸ɼ%4.üʢ%JBHOPTUJDBOE4UBUJTUJDBM.BOVBMPG.FOUBM
+%JTPSEFST
+pGUIࢽùĀ
+ؚ
+Ήüʢ1FSJPQFS
+BUJWF/FVSPDPHOJUJWFҎ಺ʹ৽ͨʹൃ঱͠ɼ%4.ü ͷ
+ͨ͠ɻ
+4.2　せん妄の診断基準と 分類
+4VNNBSZ4UBUFNFOU
+ͤΜໝ͸%4.ʹैͬͯ਍அ͞ΕΔɻ
+ʯʹ෼ྨ͞ΕΔɻ
+ղઆ
+Ͱ͋Δɻ
+ͤΜໝͷ਍அ͸ %4.üʢදùʣú÷
+ʯͷ ú ͭͷαϒλΠϓʹ
+෼ྨ͞ΕΔʢදúʣú÷
+ಀ͞Ε΍͍͢ɻ
+POD の定義・診断・POD の定義・診断・
+発症率・予後発症率・予後
+
+[[p16]]
+16
+ҎԼͷ " ʙ & Λ͢΂ͯຬͨ͢ɻ
+" ؀
+ͷ௿Լʣ͕͋Δɻ
+# ਫ४͔ΒมԽ͠ɼ
+͕͋Δɻ
+$ ʣ ɻ
+% Ͱ͸͏·͘આ໌͞Ε
+͜Δ΋ͷͰ͸ͳ͍ɻ
+&
+ɼதಟ·ͨ͸཭୤ʢཚ༻ༀ෺΍
+͜͞
+͕͋Δɻ
+ද४
+ॻӃʀɽ
+Qrʧ
+ܕ ෼ͷෆ҆ఆੑɼয૩ɼ͓Αͼʗ·ͨ͸ҩྍʹର
+൱Λ൐͏͔΋͠Εͳ͍ɻ
+ܕ ൃ΍ᅂ຾Λ൐͏͔΋͠Εͳ
+͍ɻ
+ܕ߹ࠞ ಈਫ
+Ήɻ
+දɹͤΜໝͷ෼ྨ
+ॻӃʀɽ
+Qrʧ
+4．PODの定義・診断・発症率・予後
+4.3　せん妄の検出評価ツー ル
+4VNNBSZ4UBUFNFOU
+ग़͢Δɻ<">
+ւ֎Ͱ͸εΫϦʔχϯάπʔϧͱ ͯ͠$".ͱ/V%&4$͕ਪ঑͞Ε͍ͯΔɻ
+Ͱ͸$".͘༻͍ΒΕ͍ͯΔɻ
+ղઆ
+Ͱ͖ͳ͍͜ͱ͕͋Δɻ
+Ͱ͖ ΔεΫϦʔχϯά͓Αͼॏ঱౓ධՁͷπʔϧ͕։ൃ͞Ε͍ͯΔɻ
+❶　ス ク リ ーニ ン グ
+	ø
+ ւ֎
+͢Δւ֎ͷΨΠ υϥΠϯ΍૯આͰ͸ɼ/VSTJOH%FMJSJVN4DSFFOJOH$IFDLMJTUʢ/V%&4$ʣͱ$PO
+[[p17]]
+17
+GVTJPO"TTFTTNFOU.FUIPEʢ$".ʣ͕ਪ঑͞Ε͍ͯΔúørúû
+ɼෆద੾ͳ
+ௌɼਫ਼ਆӡಈ஗଺ʣͰͤΜໝΛ਍அ͢ΔπʔϧͰ͋Δɻ$". ͸ Ā
+ɼਫ਼
+ʣͰධՁ͢Δúü
+͢Δϝλ෼ੳͰ͸ɼͤΜ
+౓ʗಛҟ౓͸/V%&4$ýúrýĀʗĀúrĀûɼ$".ûþʗĀĀͰ͋ͬͨúý
+ɻ͔͠͠ɼ$". ͸ධՁ
+౓͕௿Լ͢Δ͜ͱúþ
+ɼ·
+ੑൃ঱ͱม
+ग़͢ΔúNJOVUFEJBH
+OPTUJDBTTFTTNFOUGPS͞Ε͍ͯΔúÿ
+úĀ
+ɻ
+ʢùʣ೔ຊ
+൛ʢਤüױ
+4．PODの定義・診断・発症率・予後
+ա ʢ"DVUFPOTFUBOEqVDUVBUJOHDPVSTFʣ
+ΒΕ· ͠ ͔ͨ ʁ
+ಈ͕೔಺Ͱมಈ ͠ · ͔͢ ʁ
+Εͨ Γ ফ͑ Δ ಺༰͕౰ͯ͸· Δ
+ʢ:&4
+/0ʣ ͠ ͕ͪ Ͱ͋ Δ
+͞ Μ͔ Β৘ใΛಘͯ ͘ ͩ ͞ ͍ʣ
+ອ ʢ*OBUUFOUJPOʣ
+೉Ͱ͔͢ ʁ
+Λऔ ΒΕ΍͍͢
+ ɾ ਓͷ࿩Λཧղ͢ Δ ͜ ͱ ͕೉ ͠ ͍
+಺༰͕౰ͯ͸· Δ
+ʢ:&4
+/0ʣ 
+ʢ%JTPSHBOJ[FEUIJOLJOHʣ
+཭໓྾Ͱ ͠ ͔ͨ ʁ
+ͳ࿩Λ͢ Δ
+͑ํΛ͢ Δ
+ ɾ ҙਤ͕༧ଌͰ ͖ ͣ ɼ มԽʹ͍͍͚ͭͯͳ͍
+಺༰͕౰ͯ͸· Δ
+ʢ:&4
+/0ʣ 
+ϨϕϧͷมԽ ʢ"MUFSFEMFWFMPGDPOTDJPVTOFTTʣ
+ᶃᶄ྆ํ ͱ ΋:&4 ᶅᶆͲͪΒ͔:&4 ͤΜໝ ͱ ൑அ
+ϨϕϧΛ Ͳ ͏ ධՁ ͠ · ͔͢ ʁ
+ਗ਼໌
+ʣ
+ʢਖ਼ৗʣ
+ʢҟৗʣ
+੧͢ Δ ʣ
+೉ʣ
+੧ෆೳʣ
+ঢ়ଶ͸ ʢҟৗʣ Ͱ͋ Δ
+ʢ:&4
+/0ʣ 
+ਤ൛
+ʦ8BUBOBCF"5IFDPOGVTJPOBTTFTTNFOUNFUIPEWBMJEBUJPOPG+BQBOFTFMBOHVBHF
+ʧ
+[[p18]]
+18
+4．PODの定義・診断・発症率・予後
+͞
+Ε͍ͯΔû÷
+൛͸։ൃ͞Ε͍ͯͳ͍ɻͦͷ΄͔ʹɼû"`T5FTUʢû"5ʣ౓ ÿýþɼಛ
+͞Ε͍ͯΔûø
+ɻ%FMJSJVN4DSFFOJOHͰ։ൃ͞ΕͨධՁ๏Ͱ
+౼͞Ε͍ͯͳ͍ɻ
+൛?CAMICUʢਤýʣ΍?IntensiveCareDeliriumScreening
+౓ʗಛ
+ҟ౓͸þùùʗþøĀͱධՁ͞Ε͍ͯΔûù
+ûú
+ɻ
+❷　重症度評価
+ւ֎Ͱ͸$".4ʢ$".TFWFSJUZTDPSFʣûû
+ͱ.FNPSJBM%FMJSJVN"TTFTTNFOU4DBMFʢ.%"4ʣûü
+͕༻͍ΒΕ
+൛ûý
+Ͱ։ൃ͞Εͨ $PNNVOJDBUJPO$BQBDJUZ4DBMFʗ"HJUBUJPO%JT
+USFTT4DBMF	$$4"%4
+ûþ
+౼͞Ε͍ͯͳ͍ɻ
+%FMJSJVN3BUJOH໨͔ΒͳΓɼ
+਍அͱॏ঱౓ͷ྆ํΛධՁͰ͖ Δûÿ
+౼͞Ε͍ͯΔûĀ
+༻͢Δධ
+͍ɻ
+4UFQ
+CAMICU
+ධՁε λ ʔ τ
+CAMICU
+ධՁෆՄೳ
+Ͱ 3"44 ͷ
+ධՁ
+4UFQ
+3"44 ධՁ
+3"44
+ôʙ
+3"44
+ô
+ ô
+ա
+ੑมԽ͕͋ Δ ͔ ʁ
+ʹมಈ ͠ ͔ͨ ʁ
+͸͍
+֐
+͏
+͢ Δ
+ˠ  	े෼ͳ੠ͷେ ͖ ͞ Ͱʣ
+4&ɿઌʹ̑ͤ	̏ʹҟͳΔ̑ຕͷֆΛՃ͑ ͨ
+͠ɺઌͷ̑·ΕΔ ͔Λ໰ ͏ ɻ
+ʙ఺
+ϨϕϧͷมԽ
+3"44 ʹ Α Γ ൑ఆՄೳ
+3"44
+3"44ʺ
+ߟࢥ
+౴ ͭҎԼͳ Βɺ͏ ɻ
+ʢη ο τ"
+ ʢη ο τ#
+ੴ͸ਫʹු͔͘ʁ
+ڕ͸ւʹ͍Δ͔ʁ
+
+
+༿ͬͺ͸ਫʹු͔͘ʁ
+κ΢͸ւʹ͍Δ͔ʁ
+̎άϥϜ͸̍άϥϜΑΓॏ͍͔ 
+
+਎ͷ̎ͤɺ
+͢ Δ ɻ
+਎ͷ̎ޙऀʹ ΋ ͏ ยํͷखͰ
+ಉ ͡ ͜ ͱʢ̎͢ Δ ɻ
+͍͍͑
+ͤΜໝͰ͸ͳ͍
+ධՁऴྃ
+ ఺Ҏ্
+ͤΜໝͰ͸ͳ͍
+ධՁऴྃ
+ͤΜໝͰ͋ Δ
+ධՁऴྃ
+ͤΜໝ
+ʢ3"44ʙʣ
+ͤΜໝ
+ʢ3"44ʙôʣ
+ͤΜໝͰ͸ͳ͍
+ධՁऴྃ
+ͤΜໝͰ͋ Δ
+౴ ̎ͭҎ্
+·ͨ͸
+͕Ͱ ͖ ͳ ͍
+౴ ̍ͭҎԼ
+͔ͭ
+͕Ͱ ͖ Δ
+ਤɹ൛
+ֶ
+ʧ
+̍άϥϜ͸̎άϥϜΑΓॏ͍͔ʁ
+ఝΛଧͭͷʹϋϯϚʔΛ
+༻ͯ͠Α͍͔ʁ
+໦Λ੾ΔͷʹϋϯϚʔΛ
+༻ͯ͠Α͍͔ʁ
+[[p19]]
+19
+4.4　PODの発症率と予後に及ぼす影響
+4VNNBSZ4UBUFNFOU
+Ճྸʹ൐͍ɼ10% ͷൃ঱཰͸্ঢ͢Δɻ
+๢཰Λ্ঢͤ͞Δɻ
+࿈͢Δɻ
+ղઆ
+ূͨ͠γεςϚςΟ ο ΫϨϏϡʔͰ͸ɼͦͷൃ঱཰͸üørüùùͰɼ
+͞Ε͍ͯΔü÷
+ޙ
+͞ Εͯ ͍ Δüø
+ɻ೥ྸ͸10% ൃ঱ͷϦεΫҼ
+ྸऀͰ͸ൃ঱ϦεΫ͕૿Ճ͢Δü÷
+üù
+Ҏ
+্Ͱ øÿr͞Ε͍ͯΔüúrüþ
+ɻ
+ʹ͍ͭͯüû ฤͷ࿦จͰγεςϚςΟ ο ΫϨϏϡʔʗ
+ΘΕ͍ͯΔüø
+ख
+ख
+ɼýɼ͓Αͼø͞ΕͨɻՃ͑ͯɼ10%
+͞Εͨɻ৺ଁखज़
+๢཰Λ্ঢͤ͞Δ͜ͱ͕γεςϚςΟ οΫϨϏϡʔ
+͞Ε͍ͯΔüÿ
+ɻ
+࡯؍
+ޙø
+ೳ͕௿Լ͢Δ΋ͷͷø͸ͳ͘ ͳΔ͜ͱüĀ
+ɼ΋͘͠͸ ճ ෮ ͢ Δ͜ͱý÷
+͞Ε͍ͯΔɻ
+·ͨɼඇ৺ଁखज़ýørýü
+͞Ε͍ͯΔɻ
+4．PODの定義・診断・発症率・予後
+[[p20]]
+20
+5.1　術前の リ ス ク因子（දû）
+4VNNBSZ4UBUFNFOU
+Ͱ͋Δɻ
+ղઆ
+͢Δॏཁͳü ฤͷ࿦จʢΨΠ υϥΠϯɼίϯηϯαεɾεςʔ τ
+ϝϯτͳͲʣúørúû
+ýýʣɼ͞ΒʹγεςϚςΟοΫϨϏϡʔ΍ϝλ෼ੳýþrþúʣΛ
+͕͋Δɻ
+Λදû͔Βදýऀ͸ɼ
+͍úûʣͷͨ
+ѱ৺ɾᅅుʹ͓͚Δ"QGFMείΞþûʣલʹ༧
+ࠂþü
+þýʣ
+͍ϦεΫεί
+͠ͳ͍ɻ
+❶　高齢úørúû
+ü÷
+ýýrýÿ
+þ÷
+þø
+þþʣ
+ͱ ͞Ε͍ͯΔɻ೥ྸͷΧο τΦ
+ʯͱ͍ͯ͠Δ΋ͷ͕ଟ͍ɻ
+❷　術前認知機能障害úùrúû
+ýý
+ýþ
+þ÷
+þúʣ
+ମతͳපଶͱͯ͠͸ɼ
+ʮೝ஌঱ʯúú
+úû
+ýþ
+ýÿ
+þ÷ʣɼʮ ཈ ͏ ͭ ঱ ʯúú
+úû
+þø
+þùʣɼ͓ΑͼʮͤΜໝʯúú
+ýþʣ͛ΒΕ͍ͯΔɻඇ৺ଁखज़Λड
+Ҏ্ͷ੒ਓΛର৅ͱͨ͠γεςϚςΟ οΫϨϏϡʔþÿʣऀ͸ɼ
+͞Ε͍ͯΔɻ
+POD 発症のリスク因子POD 発症のリスク因子
+
+[[p21]]
+21
+5．POD発症の リ ス ク 因子
+❸　主疾患の重症度úú
+úûʣ
+ͯ͠10%͕ੜ͡΍͍͢ʢΦοζൺʀúûĀɼĀü
+ʀøûÿrÿùúʣþĀʣɻ
+❹　術前併存症
+ऀͷε τ Ϩεʹରॲ͢ΔೳྗΛ௿Լͤ͞ɼશ਎Λ੬ऑԽͤ͞Δ͜ͱͰ10% ൃ঱ͷϦεΫΛ্
+ѹʯúú
+ýÿʣʯúúʣʯúø
+úúʣɼʮ ৺ ෆ શ ʯúú
+þúʣٵݺ 
+ʯúúʣʯúú
+þ÷ʣɼʮ ౶ ೘ ප ʯúø
+ýþ
+ýÿ
+þø
+þùʣɼʮ ຫ ੑ ਛ ෆ શ ʯúû
+ýýʣʯúø
+úú
+ýÿ
+þ÷
+þùʣɼʮ ᰍ
+ʯýÿ
+þùʣɼʮ ύ ʔ Ω ϯ ι ϯ ප ʯúø
+ýþʣ͞Ε͍ͯΔ͕ɼͦΕΒΑΓ
+ऀ͸୯ಠͷซଘ঱Λ
+ऀΑΓ΋ 10% ൃ঱ͷϦεΫ্͕ঢ͢Δúùrúû
+ýþ
+þúʣձज़લશ਎ঢ়ଶ෼ྨʢ"4"
+14ʣ侒͛ΒΕ͍ͯΔúù
+ýý
+ýþʣʹ͸
+10% ൃ঱ͷϦεΫ্͕ঢ͢Δɻ
+❺　ポ リ フ ァ ーマシー（多剤服用）úù
+úû
+ýý
+þùʣ
+ΘΕɼ঱ঢ়͕ίϯ τϩʔϧ͞Ε͍ͯͯ΋ʮϙϦϑΝʔϚγʔʯ ɼಛʹʮज़
+ऀʯ͸ 10%Λੜ͡΍͍͢ɻ
+❻　ベ ン ゾジアゼピ ン系薬物úø
+úû
+ÿ÷
+ÿøʣ
+ऀ͸ɼ௨ৗͰ΋ͤΜໝΛൃ঱͠΍͢
+࿈Λ൱ఆ
+͞Ε͍ͯΔÿùʣༀ෺͸ෆ຾ͳͲͷਭ຾ো
+͛ΒΕΔúûʣɻ
+❼　低栄養状態，電解質異常
+తʹӫཆঢ়ଶ͕ѱԽ͍ͯ͠Δ͜ͱ͕͋Δ͕ɼ ʮ௿ӫཆঢ়ଶʯ͸10%
+Ͱ͋Δúù
+úû
+ýýʣͱ͢
+΋͋Δþø
+þùʣ঱ʯúø
+úù
+úû
+ýý
+þ÷
+þøʣ঱ʯúù
+þøʣͱ
+͛ΒΕ͍ͯΔþùʣɻ·ͨɼज़
+Ͱ͋Δúø
+úû
+ýýʣɻ
+❽　貧血 úùrúû
+ýÿ
+þ÷rþùʣ
+Λ௨ͯ͠
+͞Ε͍ͯͳ͍ɻ
+[[p22]]
+22
+❾　視覚・聴覚障害úùrúû
+ýýʣ
+ࠂ
+͞Ε͍ͯΔþÿʣʀøûÿrÿùúʣ ɻ
+❿　フレ イ ルúùrúû
+ýý
+ýĀ
+þø
+ÿúʣ
+ͯ͠10%Λੜ͡΍͍͢ʢΦο
+͞Ε͍ͯΔýĀʣ͍ʢ ʮúú
+রʣ ɻ
+⓫　術前の痛み・不安
+ʮज़લͷ௧Έʯúù
+úû
+ýý
+ÿûʣ΍ʮज़લͷෆ҆ʯúø
+ÿüʣతͳհೖ͕
+͍ΤϏσϯε͸ͳ͍ɻ
+⓬　アル コールの乱用úørúû
+ýýʣ
+ҼͱͳΓÿýʣɼ1 0 % ൃ ঱ ͷ Ϧ ε Ϋ Λ ্ ঢ ͞ ͤ Δ ɻʮ Ξ ϧ ί ʔ
+Ͱ͋Δɻ
+⓭　喫煙 úù
+úúʣ
+ੑԽͱλ
+গΛདྷ͠ÿþʣɼ10% ൃ঱ͷϦεΫΛ্ঢͤ͞Δɻ
+⓮　その他
+ͱ ͯ͠ʮ"1"$)&ᶘείΞøýʯýýʣછ ʯúûʣ׆
+ઃ΍පӃʣ ʯúú
+þúʣͳͲ͕͋Δɻ
+5．POD発症の リ ス ク 因子
+[[p23]]
+23
+໨ ݙ ݙ ݙ ݙ ݙ 
+ྸ ʓ ʓ ʓ ʓ ʓ
+֐ ʓ ʓ ʓ ʓ
+ज़લೝ஌঱ ʓ ʓ
+ज़લ཈͏ͭ঱ ʓ ʓ
+ज़લͤΜໝ ʓ
+ͷॏ঱౓ ʓ ʓ
+ʢෳ਺ͷʣ ज़લซଘ঱ ʓ ʓ ʓ
+ѹ঱ ʓ
+ױ࣬ ʓ
+֐ ʓ ʓ
+৺ෆશ ʓ
+֐ ʓ
+܈ީ ʓ
+౶೘ප ʓ
+ຫੑਛෆશ ʓ ʓ
+֐ ʓ ʓ
+ύʔΩϯιϯප ʓ
+"4"14侒ᶙ ʓ
+ʢ छྨҎ্ͷʣ ϙϦϑΝʔϚγʔ ʓ ʓ ʓ
+ༀ෺ ʓ ʓ
+֐ ʓ
+௿ӫཆঢ়ଶ ʓ ʓ ʓ
+ҟৗ ʓ ʓ ʓ ʓ
+ઈҿ৯ɼ୤ਫ ʓ ʓ ʓ
+݂ ʓ ʓ ʓ
+֐ ʓ ʓ ʓ ʓ
+ϑϨΠϧ ʓ ʓ ʓ ʓ
+ज़લͷ௧Έ ʓ ʓ ʓ
+ज़લͷෆ҆ ʓ
+Ξϧίʔϧͷཚ༻ ʓ ʓ ʓ ʓ ʓ
+Ԏ ʓ ʓ
+છ ʓ
+ઃ΍පӃʣ ʓ
+දࢠ
+5．POD発症の リ ス ク 因子
+[[p24]]
+24
+5.2　術中の リ ス ク因子（දü）
+4VNNBSZ4UBUFNFOU
+͸10%Λ༩͑Δɻ
+ղઆ
+❶　術式 úørúû
+ýýʣ
+͛ΒΕ͓ͯΓɼ
+ંखज़ʯúûʣઅ ஔ
+ज़ʯþ÷
+þù
+þúʣɼʮ ੸ ௣ ख ज़ ʯýþ
+þøʣɼʮ େ ಈ ຺ ख ज़ ʯúû
+ýýʣಈ ຺ ό Π ύ ε ज़ ʯúú
+ýýʣંखज़ʹ͍ͭͯ
+ͱ͞Ε͍ͯΔúû
+þ÷
+þùʣ৺ഏ΋10% ൃ঱ͷϦεΫ
+͛ΒΕ͍ͯΔúúʣ΋͋Δýýʣંखज़Ͱ͸
+͞Ε͍ͯΔýþʣɻ
+❷　長時間手術úørúú
+ýý
+þùʣ
+Ҏ
+͞Ε͍ͯΔÿÿʣɻ
+❸　出血，術中低血圧
+ʯúø
+úù
+þ÷rþùʣѹʯúù
+úúʣ΋10%ൃ঱
+΋͋ΔÿĀʣর ʣɻ
+❹　深麻酔úúʣ
+ज़தͷ೴೾ʹ͓͍ͯCVSTU͕͋ΔĀ÷ʣɻಛʹ௿
+ཧ͍ͯͯ͠CVSTUTVQQSFTTJPO͞Ε͍ͯ
+ΔĀøʣর ʣɻ
+❺　血糖úú
+þùʣ
+ີʹίϯ τϩʔϧ͢Δ͜ͱͰ10% ൃ
+রʣ ɻ
+5．POD発症の リ ス ク 因子
+[[p25]]
+QT
+໨ ݙ ݙ ݙ ݙ ݙ 
+Ήʣ ʓ ʓ ʓ ʓ ʓ
+৺ഏ ʓ
+खज़ ʓ
+खज़ ʓ ʓ ʓ ʓ
+݂ ʓ ʓ
+ѹ ʓ ʓ
+ਂຑਲ ʓ
+౶ ʓ
+දࢠ
+5.3　術後の リ ス ク因子 （දý）
+4VNNBSZ4UBUFNFOU
+௧͸10%Ͱ͋Δɻ
+ղઆ
+❶　術後痛úørúû
+þ÷
+þøʣ
+తʹ௟௧ΛਤΔඞཁ͕͋Δɻ
+❷　オ ピオ イ ド，ケ タ ミ ン
+༻͸ෳ਺ͷγεςϚςΟ ο ΫϨϏϡʔʗϝλ෼ੳͰ10% ൃ঱ͷϦεΫ
+͛ΒΕ͍ͯΔúú
+þúʣద༻֎Ͱ͋Δɻ
+❸　カテーテル留置
+͞Ε͍ͯΔúù
+úûʣɻͨͩ͠ɼ೘ಓΧςʔςϧ
+ͱ͞Ε͍ͯΔúûʣɻ
+❹　その他
+Ҏ֎ʹʮศൿʯúûʣછ ʯúú
+úûʣ঱ ʯúú
+úûʣཧ ʯúú
+úûʣʯúúʣɼ
+͓ΑͼʮϕϯκδΞθϐϯɼδϑΣϯώυϥϛϯɼϝ΃ϦδϯɼείϙϥϛϯͳͲʯúú
+úûʣ༻Λ༗͢Δༀ෺͕
+ࠂĀùʣ΋͋Δ͕ɼΤϏσ
+ϯεϨϕϧ͸௿͍ɻ
+5．POD発症の リ ス ク 因子
+[[p26]]
+26
+໨ ݙ ݙ ݙ ݙ ݙ 
+௧ ʓ ʓ ʓ ʓ
+ΦϐΦΠ υ ʓ
+έλϛϯ ʓ
+Χςʔςϧཹஔ ʓ ʓ
+೘ดɼศൿ ʓ
+છ ʓ ʓ
+঱ ʓ ʓ
+ཧ ʓ ʓ
+֐ ʓ ʓ
+༻ ʓ ʓ
+දࢠ
+5．POD発症の リ ス ク 因子
+[[p27]]
+27
+予防のための術前管理予防のための術前管理
+
+6.1　リスク因 子を有 する患 者および 家 族 へ の対 応
+4VNNBSZ4UBUFNFOU
+Λಉఆ͢Δɻ<%>
+͏ɻ<%>
+͏ɻ<%>
+ղઆ
+͢Δ͜ͱ͕ෳ਺ͷΨΠ υϥΠϯͰਪ঑
+͞Ε͍ͯΔúú
+ĀúʣΛ
+ʯ ͕૑ઃ͞ΕͨĀûʣʹεΫϦʔ
+ࢪ
+ऀʹର͢ΔͤΜໝର
+࣏
+ཧɼ͓Αͼ
+͛ΒΕ͍ͯΔɻ
+४Āüʣ४ÿ÷
+Āýʣ͞Εͯ
+ྸऀͷ҆શͳༀ෺ྍ๏ΨΠυϥΠϯ ù÷øüʯĀþʣʹɼϕϯκδΞ
+͞Ε
+ༀ෺ͷ
+͞Ε͓ͯΓĀÿʣྍ
+༻͞ΕΔ )ùྸऀͷ҆શͳༀ෺ྍ๏ΨΠ υϥΠϯù÷øüʯͰ͸ͤΜໝΛདྷ͠
+͞Ε ͍ͯΔɻ Ұ ํͰɼ )ùༀͷͤΜໝൃ঱ʹର͢ΔΤϏσϯε͕ऑ͍͜ͱͱɼң৯
+४Ͱ͸ʮආ
+Λଟ͘༗͢ΔͨΊɼϙϦϑΝʔϚγʔʹͳΓ
+[[p28]]
+28
+6．予 防 のための術 前 管 理
+͢
+͘ਪ঑͢Δɻ
+͏͜ͱ͸ɼ10%ʹ͍ͭͯͷཧղΛਂΊΔͱͱ ΋ʹ10%
+ऀΛ໨ͷ౰ͨΓʹ͢Δ͜ͱ͸ɼՈ଒ʹͱͬ
+௧Λ൐͏ĀĀʣɼқౖੑɼམͪண͖ͷͳ͞ͳͲʣ
+Ͱ͖ΔՄೳੑ͕͋Δɻ
+6.2　包括的予防介入
+4VNNBSZ4UBUFNFOU
+త༧๷հೖ͸ 10% ൃ঱ͷϦεΫΛ௿Լͤ͞Δɻ<$>
+ղઆ
+͞Ε͍ͯΔɻͦͷ୅දྫͱ͠
+ͯ)PTQJUBM&MEFS-JGF1SPHSBNʢ)&-1ʣྸऀʹ͓͚ΔͤΜໝ΍਎ମɾೝ஌
+ͳͲ͔ΒͳΔଟ৬छνʔϜ͕ɼೖӃૣ
+ԉ͢ΔϓϩάϥϜͰ͋Δʢදþʣø÷÷ʣɻ)&-1Λಋೖͨ͠पज़
+͞Ε͍ͯΔɻ$IFOΒø÷øʣ͸ɼ
+ԉ͠
+ͨ͠ʢ÷WTøýþɼ1÷÷÷øʣ ɻ
+·ͨɼ8BOH Βø÷ùʣՃͨ͠)&-1ʹΑΔ
+ʢSBOEPNJ[FEDPOUSPMMFEͬͨɻ)&-1 ͸ ú
+੒͞Εͨɻ
+ͯ͠ 10% ͷൃ঱཰͕௿Լ͢ΔʢùýWT
+ܦ
+1ͱैདྷͷέΞ
+ͯ͠10% ͷ૬ରϦεΫΛ௿Լ
+ͤͨ͞ʢýýWTøüøɼ૬ରϦεΫʀ÷ûûʣø÷úʣత༧
+ʹԠ͡ɼ)&-1Λվมͯ͠ӡ༻͢Δ͜ͱ͕
+ਪ঑͞ΕΔɻ
+೦ͱ ͯ͠ϓϨϋϏϦςʔγϣϯ͕஫໨͞Ε͍ͯΔɻϓϨϋϏϦςʔγϣϯͱ͸ɼख
+ೳͷ௿ԼΛ༧๷ɼ·ͨ͸վળ͢Δ͜ͱΛ໨తͱͯ͠ɼज़લ͔Βӡಈɼӫཆɼ͓Αͼෆ
+গͨ͠ɼ
+͞Ε͍ͯΔùýʣ೥ɼ ϓϨϋϏϦςʔ
+ʹΑͬͯϓϩάϥϜ಺༰͕ҟͳΓɼσʔλͷ஝ੵ͕ෆे
+[[p29]]
+29
+෼Ͱ͋Δɻ+BOTTFOΒø÷ûʣྸऀ΁ͷ͞·͟·ͳज़લϓϩάϥϜʹΑΔհೖ͸ɼ
+౼͕
+ੑ͸ධՁͰ
+͖ͳ͍ɻ
+
+հೖ ମతͳ಺༰
+ೝ ͢Δɻ
+ೳ௿Լͷ༧๷
+ʹ͍ͭͯର࿩͢Δɻ
+͏ ɻ
+༿Λ༻͍ͨήʔϜΛ͢Δɻ
+཭চͷଅਐ ͏ɻ
+Β͢ɻ
+࿅ ςʔ
+༻͢Δɻ
+࿅ ༻͢Δɻ
+͢ Δɻ
+ิਫɾઁ৯ͷଅਐ ิਫͱઁ৯Λิॿ͢Δɻ
+ਭ຾ͷଅਐ
+ɼഎதͷϚοαʔδʣ
+͢Δɻ
+ଳ
+ి࿩ΛৼಈϞʔ υʹ͢ Δɼε λ ο ϑ͸࿓ԼΛ੩͔ʹา ͘ ʣ ɻ
+ʣΛௐ੔͢ Δɻ
+දɹ)PTQJUBM&MEFS-JGF1SPHSBN ʢ)&-1ʣ ͷ಺༰
+<*OPVZF4,
+#PHBSEVT45+S 
+#BLFS%*
+FUBM5IFIPTQJUBMFMEFSMJGFQSPHSBNBNPEFMPGDBSFUPQSFWFOUDPHOJ
+UJWFBOEGVODUJPOBMEFDMJOFJOPMEFSIPTQJUBMJ[FEQBUJFOUT)PTQJUBMFMEFSMJGFQSPHSBN+"N(FSJBUS4PD
+੒>
+6．予 防 のための術 前 管 理
+[[p30]]
+30
+予防のための術中管理予防のための術中管理
+
+7.1　麻酔法と 麻酔薬・麻酔関連薬
+4VNNBSZ4UBUFNFOU
+༻Ͱ͖ Δɻ<#>
+͸ͳ͘ɼ͍ͣΕ΋
+༻Ͱ͖ Δɻ<$>
+ղઆ
+❶　麻酔法
+Ҭຑਲ͕શ਎ຑਲΑ Γ10%ͷൃ঱཰
+͕͋Δø÷üʣ΋͋Δø÷ý
+ø÷þʣɻ·
+ͨɼ-JΒø÷ÿʣ͸Ā͕
+ऀʹ͓͚Δ10% ͷ
+౼ͨ͠ÿ͞Εͯ
+͍Δø÷Ārøøýʣ֎Պखज़ʣ ɼ
+·Ε͍ͯͨΓ͢ΔͨΊҰൠԽ͢Δ͜ͱ͕೉͍͠ɻ
+❷　麻酔薬・麻酔関連薬
+ೖຑਲༀͱ੩຺ຑਲༀʢϓϩϙϑΥʔϧʣͷͲͪΒ͕ 10%Λൃ঱͠΍͍͔͢ͱ͍
+Ռ͕ҟͳΔøøþrøùúʣɻ.JMMFS
+Βøùûʣ౼ͨ͠
+͸ ͳ ͔ ͬ ͨ ͕ ɼ ෆ
+༻
+࿦͚͍ͮͯΔɻ·ͨɼ10% ൃ঱Λ༧๷͢ΔͨΊʹη
+ೖຑਲༀΛ༻͍Δ΂͖͔ʹ͍ͭͯ΋े෼ͳΤϏσϯε͸ͳ
+[[p31]]
+31
+7．予 防 のための術 中 管 理
+͍øùü
+øùýʣɻ
+͞Ε͍ͯΔʢ ʮüɽ10% ൃ
+ʗ ýɽؔ
+͞Ε͍ͯΔͷΈͰ͋Δøùþʣɻù÷ù÷ ೥ʹ
+͕ùฤͱRCT?͕ø͞
+ͰɼϨϛϚκϥ
+౼͓ͯ͠Γɼ྆ऀʹ͓͍ͯͦͷൃ
+͞Ε͍ͯΔøùÿʣΈज़ʢUSBOTDBUIFUFS
+BPSUJDWBMWFSFQMBDFNFOUͯ͠༗
+͍ͯ͠ΔøùĀʣɻ·ͨɼRCT?Ͱ͸ϨϛϚκϥϜͱϓϩϙϑΥʔϧ྆ऀʹ͓͍ͯͦͷ
+͞Ε͍ͯΔøú÷ʣ͢ΔΤϏσϯε͕ෆ଍
+Βͳ͔ͬͨɻ
+໛ͳRCTøúøʣڀݚ࡯؍ø÷ü
+øúùʣݚ
+ઃ?RCTøúúʣ΍γεςϚςΟ?οΫϨϏϡʔøúû
+øúüʣͰ͸ɼज़தͷέλ
+༻ ͕ 1 0 % ൃ ঱ ʹ
+͢Δͱ͍͏े෼ͳΤϏσϯε͸ͳ͍ɻ
+7.2　モニタ リ ン グ
+4VNNBSZ4UBUFNFOU
+ཧ͢Δɻ<$>
+ཧ͢Δɻ<$>
+ղઆ
+❶　麻酔深度モニ タ ー
+ձúûʣͱ
+ձúøʣͰਪ঑͞Ε͍ͯΔɻ·ͨɼෳ਺ͷγεςϚςΟ οΫϨϏϡʔøúý
+øúþʣ΍?RCTøúÿʣʹ͓͍ͯ
+͞Ε͍ͯΔɻ͔͠͠ɼù÷øĀ ೥ʹ
+ཧ͸ 10% ൃ঱཰Λ௿Լͤ͞ͳ͍ͱ͍͏
+͞ΕͨøúĀʣͷγεςϚςΟ οΫϨϏϡʔʹ͓͍ͯ͸ɼຑਲਂ౓ϞχλʔΛ༻
+ՌͰҰக͍ͯ͠Δøû÷røûúʣɻù÷ù÷ ೥ʹൃද͞Εͨ
+1FSJPQFSBUJWF2VBMJUZྸͷ10% ൃ঱
+༻͢Δ͜ͱͷਪ঑ʹ͍ͭͯ͸े෼
+͞Ε͍ͯΔúúʣʹ͓͍ͯɼCVSTUTVQQSFTTJPOΛఄ͢ΔΑ ͏
+ʹͳΔ͜ͱøûû
+øûüʣೖຑਲༀͰCVSTUױ
+[[p32]]
+32
+͘ ͳΔĀøʣ͑ΒΕΔɻ͜Ε
+ମͰ 10% ൃ঱ͷ༧๷ͱͳΔΤϏσϯε͸๡͍͕͠ɼਂ
+༻Λऑ͘ਪ঑͢Δɻ
+❷　脳局所酸素飽和度モニ タ
+༻͢΂͖͔ʹ͍ͭͯ͸ɼे෼ͳΤϏσϯε͕ͳ͍ɻ͍
+Ռ͸໌Β͔ʹͳ͍ͬͯͳ͍øûýrøü÷ʣߦ
+༻Ͱ
+͍ͯ͠Δøûý
+øûÿʣɻɹɹɹɹɹɹɹɹɹɹɹɹɹɹɹɹ
+❸　血圧
+ཧ͢
+Ί
+ѹΛආ͚ͨΓ͢Δ΄͏͕?POD?ͷൃ঱͕গͳ͍ͱ͍͏RCTøüøøüúʣڀݚ࡯؍øüû
+øüüʣΒΕΔҰ
+ࠂÿĀʣѹͱ10%
+ࠂøüýʣΒΕΔɻùཧʹ͍ͭͯͷ
+ՌͰ
+͋ͬͨøüþʣ͕ɼΤϏσϯεϨϕϧ͸௿͍ɻ·ͨɼ'FOHΒøüÿʣ৺ഏத͓
+ূͨ͠ùͱ௿
+͍ͯ͠ΔɻҰํɼ-J[BOP%ÍF[ΒøüĀʣΘΕͨγεςϚςΟοΫϨϏϡʔ
+ѹʢΦοζൺʀø÷ürøùùʣ ɼ
+݂
+ѹɼ·ͨज़தͷ
+͑ΒΕΔɻ
+❹　血糖
+ऀͰ͸ज़தͷ
+౶มಈ͕େ͖͔ͬͨøý÷ʣ͔ͬͨøý÷
+øýøʣ͞Ε͍ͯΔͷΈͰΤϏσϯε͸ෆ
+े෼Ͱ͋Δɻ4BBHFSΒøýùʣ౶஋Λÿ÷røø÷܈
+ͱøü÷ཧ͢Δ΄͏͕ 10% ൃ
+ີʹίϯ τϩʔϧ͢Δ͜ͱͷ
+͞Ε͍ͯͳ͍øýúʣɻ
+7．予 防 のための術 中 管 理
+[[p33]]
+33
+予防のための術後管理予防のための術後管理
+
+8.1　PODの評価
+4VNNBSZ4UBUFNFOU
+తʹεΫϦʔχϯάπʔϧΛ༻͍ͯ10%ΛධՁ͢Δɻ<$>
+ҭ͢Δɻ<$>
+ղઆ
+ɼ
+ྍͷ஗Ε͸
+͞Ε͍ͯΔøýûrøýýʣతʹධՁ͢Δ͜ͱ
+͕ਪ঑͞Ε͍ͯΔúø
+Āú
+øýþʣɻ
+؅
+ࣨʢQPTUBOFTUIFUJDDBSFVOJUͷ 10% ͷ
+͞Ε͍ͯΔøýÿ
+øýĀʣձͷ
+ΨΠυϥΠϯͰ͸ 1"$6 Ͱͷ 10% ධՁ͸ඞਢͱ͞Ε͍ͯΔúøʣɻ͔͠͠ɼ1"$6తͳೝ
+΋͋Δøþ÷
+øþøʣத͸ɼશ਎ຑਲ͔Β
+·ΕΔͨΊɼ1"$6 ʹ͓͚Δ10% ͸௨ৗͷ 10%ͱ͸පଶ͕ҟͳΔͷ͔΋
+ཧ͢Δ͜ͱ͕ଟ͍ͨΊɼ10% ͕ੜͨ͡
+ઃ΋ଟ͍ɻͦͷ
+తʹ10%ΛධՁ͢Δɻ
+͛ΒΕΔɻ৴པ
+఺ʹ͓͍ͯ
+ऀʹ͓
+ಀ͢͜ͱ͕ใ
+͞Ε͍ͯΔøþùʣҭϓϩάϥϜҭͳͲʣ࣮
+[[p34]]
+34
+8．予 防 のための術 後 管 理
+͞Ε͍ͯΔøþúrøþüʣΛ͸͡Ί 10% ͷධ
+͏ඞཁ͕͋Δɻ
+͘
+ਪ঑͢Δɻ
+8.2　術後鎮痛
+4VNNBSZ4UBUFNFOU
+௟௧͸10% ൃ঱ͷϦεΫΛ௿Լͤ͞Δɻ<$>
+ͷ৘ใΛ༻͍ͯධՁ͢Δɻ<%>
+͢Δɻ<$>
+ղઆ
+͞Ε͍ͯΔúø
+úú
+ĀúʣऀΛ
+͞Εͯ
+͍ΔøþýrøþĀʣ௧
+͞Ε͍ͯΔøþÿʣɻ
+೉ʹ͢Δɻù÷øĀ ೥ʹൃද͞ΕͨɼͤΜ
+ূ͢ΔͨΊͷείʔϐϯάϨϏϡʔͰ͸ɼΤϏσϯε͕ෆ଍͍ͯͨͨ͠Ί
+࿦Λಋ͖ग़͢͜ͱ͕Ͱ͖ͳ͔ͬͨøÿ÷ʣͰ͸ɼͤ
+͍ͯ͠Δøÿøʣɻ·ͨɼ௧
+ಈͷมԽɼ
+͞Ε͍ͯΔøÿùʣɻ͕ͨͬͯ͠ɼຊΨΠυϥ
+ࢀ
+͢Δ͜ͱΛऑ͘ਪ঑͢Δɻ
+೦͕͋ΔøÿúʣऀΛର৅ͱ ͨ͠
+ऀ͸10% ͷൃ঱཰্͕
+͞Ε͍ͯΔøþĀ
+øÿûʣ͠ͳ͍͕ʢʮ þ  ø ຑ ਲ ๏ ͱ ຑ ਲ ༀ ɾ
+Γɼ10%ͷൃ঱཰͕௿Լ͠
+͞Ε͍ͯΔøÿüʣɻ͞ΒʹɼΞητΞϛϊϑΣϯøÿýʣ͋Δ͍͸ύϨίΩγ
+ϒøÿþʣऀ͋Δ
+త௟
+͘ਪ঑͢Δɻ
+[[p35]]
+35
+1BJO"TTFTTNFOUJO"EWBODFEɼᶅද৘ɼᶆϘσΟʔϥϯήʔδɼ
+ᶇҚΊ΍͢͞ɼͷ໨Λɼɼͷஈ֊ͰධՁ͢Δɻrಘ఺Ͱ௧Έͷॏ঱౓ΛධՁ͢ΔɻΧο τΦϑ
+ʑͷ঱ྫͰͷਪҠΛධՁ͢Δɻ
+8BSEFO7
+)VSMFZ"$
+7PMJDFS-%FWFMPQNFOUBOEQTZDIPNFUSJDFWBMVBUJPOPGUIF1BJO"TTFTTNFOUJO"EWBODFE
+%FNFOUJBʢ1"*/"%ʣTDBMF+"N.FE%JS"TTPDr<ᶙ>
+"CCFZ1BJO߲
+໨Λ౓ͷ௧Έʯ ɼr ఺Λ
+ʮத౳౓ͷ௧Έʯ ɼ ఺Ҏ্Λʮॏ౓ͷ௧ΈʯͱධՁ͢Δɻ
+"CCFZ+
+1JMMFS/
+%F#FMMJT"
+FUBM5IF"CCFZQBJOTDBMFBNJOVUFOVNFSJDBMJOEJDBUPSGPSQFPQMFXJUIFOE
+TUBHFEFNFOUJB*OU+1BMMJBU/VSTr<ᶙ>
+ई౓
+8．予 防 のための術 後 管 理
+8.3　予防法
+8.3.1　非薬物療法
+4VNNBSZ4UBUFNFOU
+Ͱ͋Δɻ<$>
+ղઆ
+తͳඇༀ෺ྍ๏͸10% ͷ༧๷ʹ༗༻Ͱ͋Γ΋
+఺Ͱ͸ಛఆ͞
+Ε͍ͯͳ͍ɻ
+8.3.2　薬物療法
+4VNNBSZ4UBUFNFOU
+༻͠ͳ͍ɻ<$>
+ྀ
+͢Δɻ<#>
+ղઆ
+ΘΕ͍ͯΔ͕ɼ10% ͷൃ঱཰Λ௿
+Ռøÿÿ
+øÿĀʣՌøĀ÷
+øĀøʣ߅
+ͨ͠þฤͷ
+࿦͚͍ͮͯ
+ΔøĀùʣɻ
+[[p36]]
+36
+8．予 防 のための術 後 管 理
+ༀʢυωϖδϧ·ͨ͸ϦόενάϛϯʣʹΑ
+ূͨ͠?þ?ฤʢPODΛର৅ͱͨ͠΋ͷ͸?ü?ฤʣͷ?RCT?͔ΒͳΔγεςϚςΟ?οΫϨϏϡʔʗ
+͞Εͳ͔ͬ
+ͨøĀúʣऀΛର৅ͱͨ͠?ø?ฤͷ?RCT?Ͱ͸ɼϋϩϖϦ?υʔϧͱϓϥηϘ͕౤༩͞Εͨ
+͔ͬͨøĀûʣɻ
+౼ͨ͠?û?ฤͷ?RCT?͔ΒͳΔγεςϚςΟ?οΫϨϏϡʔʗϝλ෼ੳ
+ऀͷ 10% ͷൃ঱཰Λ௿Լͤ͞ͳ͔ͬͨøĀüʣɻ
+ͷ௟੩ʹ͓͚ΔσΫεϝστ ϛδϯʢEFYNFEFUPNJEJOFɿূͨ͠ÿ
+͞Ε
+ͨøĀýʣɻ8VΒøĀþʣূ͠
+͞
+ূͨ͠?ú÷?ฤͷ?RCT?͔ΒͳΔγεςϚ
+ͯ͠10% ͷൃ঱཰Λ௿Լ͕ͤͨ͞ɼόΠ
+࿦͚͍ͮͯΔøĀÿʣɻ·ͨɼ
+ऀΛର৅ͱͨ͠DEXূͨ͠øúฤͷRCT͔ΒͳΔγεςϚςΟ?ο
+ΫϨϏϡʔʗϝλ෼ੳͰ͸ɼ%&9౤༩ʹΑΓɼýüऀʹ͓͚Δ10%ͷൃ঱཰͕༗ҙʹ
+͞ΕͨøĀĀʣɻ͔͠͠ɼýü༻ʢঃ຺ɼ
+ࠓ
+Ռʹ͍ͭͯ͸த
+ྍʹ͓͚Δਓ
+ױޙ
+ྀ͢Δ͜ͱΛऑ͘ਪ঑͢Δɻ
+[[p37]]
+37
+治療法治療法
+
+9.1　非薬物療法
+4VNNBSZ4UBUFNFOU
+͢Δɻ<%>
+ղઆ
+߹ޙ
+ɼ
+Ҽͷಛఆͱɼվળ͢ΔͨΊͷհೖΛՄೳͳ͔͗ΓਤΔɻ·ͨɼ10% ͕ൃ঱͍ͯ͠ͳͯ͘΋ɼ͜ΕΒͷཁҼ
+ੋਖ਼͢Δඞཁ͕͋Δɻ
+ྍͱ ͯ͠ͷ
+ͨ͠γεςϚςΟ ο ΫΦʔόʔϏϡʔ
+ྍͱׅͯ͠ੑ͸ೝΊΒΕͳ͔ͬͨù÷÷ʣɻ·ͨɼͤ
+ͨ͠øøฤͷγεςϚςΟ ο
+ΫϨϏϡʔʗϝλ෼ੳͰ΋ɼׅΛ୹ॖͤ͞ͳ͔ͬͨù÷øʣɻ
+9.2　薬物療法
+4VNNBSZ4UBUFNFOU
+ ฃ঱ঢ়ʹରͯ͠͸ɼༀ෺ʹΑΔର঱ྍ
+౼͢Δɻ<$>
+ղઆ
+఺ʹ
+[[p38]]
+38
+9．治 療 法
+ڈ
+ͯ͠΋཈੍Ͱ͖ͳ͍ 10% ͷ঱ঢ়ฃ঱ঢ়ͳͲʣʹରͯ͠͸ༀ෺Λ༻͍ͨ
+ऀͷͤΜໝ঱ঢ়ͷվળ
+༻ʹ൓ର͢
+ͷΤϏσϯεʣøýþʣվળ
+͞Ε͍ͯͳ͍øĀù
+ù÷ùrù÷ûʣ͕Ͱ͖ͳ͍
+͢Δ
+ͷΤϏσϯεʣøýþʣɻ
+Ͱ͸ɼ%&9͸ϛ μκϥϜù÷üʣ͓ΑͼϋϩϖϦ
+υʔϧù÷ýʣฃੑ
+͕୹
+ॖ͞Εͨù÷þʣͰ͋Δ
+ਫ਼ਆපༀ
+༻ ͸ ɼ 1 0 %ͷ ঱ ঢ়
+ฃ঱ঢ়ʹର͢Δༀ෺
+ଓ౤༩
+ผͷༀ෺Ϧετ͓Α
+͠ͳ͍͜ͱͱͨ͠ɻ
+͕͋ΓøĀûʣ༻
+͠ͳ͍͜ͱ͕๬·͍͠ɻ
+[[p39]]
+39
+3D-CAM 3-minute Diagnostic Assessment for CAM
+4AT 4A’s Test
+APACHE Acute Physiologic Assessment and Chronic Health Evaluation
+ASA-PS American Society of Anesthesiologists physical status
+CAM Confusion Assessment Method
+CAM-S CAM severity score
+CCr creatinine clearance
+CCS/ADS Communication Capacity ScaleʗAgitation Distress Scale
+CHS Cardiovascular Health Study
+DEX dexmedetomidine
+DSM-5 Diagnostic and Statistical Manual of Mental Disorders, fifth edition
+DST Delirium Screening Tool
+GFR glomerular filtration rate
+Hb hemoglobin
+HELP Hospital Elder Life Program  
+ICU intensive care unit
+J-CHS Japanese version of the Cardiovascular Health Study
+MDAS Memorial Delirium Assessment Scale
+NDB National Database of Health Insurance Claims and Specific Health Checkups of Japan
+Nu-DESC Nursing Delirium Screening Checklist
+PACU postanesthetic care unit
+PAINAD Pain Assessment in Advanced Dementia
+POD postoperative delirium
+RCT randomized controlled trial
+START Screening Tool to Alert to Right Treatment
+STOPP Screening Tool of Older Persons’ Prescriptions
+TAVI transcatheter aortic valve implantation
+WHO World Health Organization
+略　語略　語
+[[p40]]
+40
+ʣ੒ϚχϡΞϧ WFSஂ๏
+ҩྍ৘ใ෦ʀ
+*O.JOET.BOVBM%FWFMPQJOH$PNNJUUFF
+FEJUPS.JOET.BOVBMGPS(VJEFMJOF%FWFMPQNFOUWFS5PLZP
++BQBO$PVODJMGPS2VBMJUZ)FBMUI$BSFɹ
+ʣ5IF(3"%&8PSLJOH(SPVQ)BOECPPLGPSHSBEJOHUIFRVBMJUZPGFWJEFODFBOEUIFTUSFOHUIPGSFDPNNFOEBUJPOT
+VTJOHUIF(3"%&BQQSPBDIIUUQTHEUHSBEFQSPPSHBQQIBOECPPLIBOECPPLIUNM"DDFTTFE+VMZ
+ʣFϔϧεωο τIUUQTXXXFIFBMUIOFUNIMXHPKQJOGPSNBUJPOEJDUJPOBSZBMDPIPMZBIUNM"DDFTTFE'FC
+ʣ෎ฏ੒೥౓ɽIUUQXXXDBPHPKQLPVSFJJTIJLJITPVHPV[FOUBJJOEFY
+IUNM"DDFTTFE'FC
+ʣ౼ϫʔΩϯάάϧʔϓॻɽIUUQTXXXKQOHFSJBUTPDPSKQJOGPUPQJDTQEG@@
+QEG"DDFTTFE'FC
+ʣྩ࿨೥൛ձനॻʢશମ൛ʣ IUUQTXXXDBPHPKQLPVSFJXIJUFQBQFSXIUNM[FOCVOT@@IUNM"DDFTTFE
+'FC
+ʣ/%#ΦʔϓϯσʔλIUUQTXXXNIMXHPKQTUGTFJTBLVOJUTVJUFCVOZBIUNM"DDFTTFE+VMZ
+ʣ"VOBO+3
+8BUTPO..
+)BHMBOE)3
+FUBM.PMFDVMBSBOECJPMPHJDBMIBMMNBSLTPGBHFJOH#S+4VSHFr
+<ᶝ>
+ʣ4USN$
+3BTNVTTFO-4
+4UFJONFU[+1SBDUJDBMNBOBHFNFOUPGBOBFTUIFTJBJOUIFFMEFSMZ%SVHT"HJOHr
+<ᶝ>
+ʣ,IBO44
+4JOHMFS#%
+7BVHIBO%&.PMFDVMBSBOEQIZTJPMPHJDBMNBOJGFTUBUJPOTBOENFBTVSFNFOUPGBHJOHJOIVNBOT
+"HJOH$FMMr<ᶝ>
+ʣ5VSSFOUJOF'&
+8BOH)
+4JNQTPO7#
+FUBM4VSHJDBMSJTLGBDUPST
+NPSCJEJUZ
+BOENPSUBMJUZJOFMEFSMZQBUJFOUT+"N
+$PMM4VSHr<ᶛ>
+ʣ1FUFSTFO3$.JMEDPHOJUJWFJNQBJSNFOUBTBEJBHOPTUJDFOUJUZ+*OUFSO.FEr<ᶝ>
+ʣ4IJNBEB)
+.BLJ[BLP)
+%PJ5
+FUBM$PNCJOFEQSFWBMFODFPGGSBJMUZBOENJMEDPHOJUJWFJNQBJSNFOUJOBQPQVMBUJPO
+PGFMEFSMZ+BQBOFTFQFPQMF+"N.FE%JS"TTPDr<ᶛ>
+ʣ/JOPNJZB5
+/BLBJ4
+.BFEB5
+FUBM4UVEZEFTJHOBOECBTFMJOFDIBSBDUFSJTUJDTPGBQPQVMBUJPOCBTFEQSPTQFDUJWF
+DPIPSUTUVEZPGEFNFOUJBJO+BQBOUIF+BQBO1SPTQFDUJWF4UVEJFT$PMMBCPSBUJPOGPS"HJOHBOE%FNFOUJBʢ+14$"%ʣ 
+&OWJSPO)FBMUI1SFW.FE<ᶛ>
+ʣ.BOMZ++
++POFT3/
+-BOHB,.
+FUBM&TUJNBUJOHUIFQSFWBMFODFPGEFNFOUJBBOENJMEDPHOJUJWFJNQBJSNFOUJOUIF
+64UIFIFBMUIBOESFUJSFNFOUTUVEZIBSNPOJ[FEDPHOJUJWFBTTFTTNFOUQSPUPDPMQSPKFDU+"."/FVSPM
+r<ᶛ>
+ʣ4IJNBEB)
+.BLJ[BLP)
+%PJ5
+FUBM$POWFSTJPOBOESFWFSTJPOSBUFTJO+BQBOFTFPMEFSQFPQMFXJUINJMEDPHOJUJWF
+JNQBJSNFOU+"N.FE%JS"TTPDF<ᶛ>
+ʣʣ ɽIUUQTKQOHFSJBUTPDPSKQJOGP
+UPQJDTQEG@@QEG<ᶝ>
+ʣ$MFHH"
+:PVOH+
+*MJ⒎F4
+FUBM'SBJMUZJOFMEFSMZQFPQMF-BODFUr<ᶝ>
+ʣୈ̍ষྸऀ
+൝ฤɽϑϨΠϧ਍ྍΨΠ υ ೥൛ɽ
+ձʀ<ᶗ>
+ʣ'SJFE-1
+5BOHFO$.
+8BMTUPO+
+FUBM$BSEJPWBTDVMBS)FBMUI4UVEZ$PMMBCPSBUJWF3FTFBSDI(SPVQ'SBJMUZJOPMEFS
+BEVMUTFWJEFODFGPSBQIFOPUZQF+(FSPOUBM"#JPM4DJ.FE4DJr<ᶚ>
+ʣ.JOUOJUTLJ"#
+.PHJMOFS"
+3PDLXPPE,"DDVNVMBUJPOPGEFpDJUTBTBQSPYZNFBTVSFPGBHJOH4DJFOUJpD8PSME+PVSOBM
+r<ᶛ>
+ʣ4BLBUB4
+"SBJ)5IFSFWJTFE+BQBOFTFWFSTJPOPGUIFDBSEJPWBTDVMBSIFBMUITUVEZDSJUFSJBʢSFWJTFE+$)4DSJUFSJBʣ 
+(FSJBUS(FSPOUPM*OUr<ᶝ>
+ʣ,PKJNB(
+*MJ⒎F4
+5BOJHVDIJ:
+FUBM1SFWBMFODFPGGSBJMUZJO+BQBOBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+&QJEFNJPM
+参考文献参考文献
+[[p41]]
+41
+参考文献
+r<ᶘ>
+ʣ&WBOT4+
+4BZFST.
+.JUOJUTLJ"
+FUBM5IFSJTLPGBEWFSTFPVUDPNFTJOIPTQJUBMJ[FEPMEFSQBUJFOUTJOSFMBUJPOUPB
+GSBJMUZJOEFYCBTFEPOBDPNQSFIFOTJWFHFSJBUSJDBTTFTTNFOU"HF"HFJOHr<ᶛ>
+ʣ%IFTJ+,
+-FFT/1
+1BSUSJEHF+4'SBJMUZJOUIFQFSJPQFSBUJWFTFUUJOH$MJO.FEr<ᶝ>
+ʣ-JO)4
+8BUUT+/
+1FFM/.
+FUBM'SBJMUZBOEQPTUPQFSBUJWFPVUDPNFTJOPMEFSTVSHJDBMQBUJFOUTBTZTUFNBUJDSFWJFX
+#.$(FSJBUS<ᶘ>
+ʣ'V%
+5BO9
+;IBOH.
+FUBM"TTPDJBUJPOCFUXFFOGSBJMUZBOEQPTUPQFSBUJWFEFMJSJVNBNFUBBOBMZTJTPGDPIPSUTUVEZ
+"HJOH$MJO&YQ3FTr<ᶘ>
+ʣ-JV$:
+(POH/
+-JV85IFBTTPDJBUJPOCFUXFFOQSFPQFSBUJWFGSBJMUZBOEQPTUPQFSBUJWFEFMJSJVNBTZTUFNBUJDSFWJFX
+BOENFUBBOBMZTJT+1FSJBOFTUI/VSTr<ᶘ>
+ʣ&WFSFE-
+4JMCFSU#
+,OPQNBO%4
+FUBM3FDPNNFOEBUJPOTGPSUIFOPNFODMBUVSFPGDPHOJUJWFDIBOHFBTTPDJBUFEXJUI
+BOBFTUIFTJBBOETVSHFSZr"OFTUIFTJPMPHZr<ᶝ>
+ʣձޠम࿠
+༁ϚχϡΞϧژॻӃ
+Qr
+ʣ"MEFDPB$
+#FUUFMMJ(
+#JMPUUB'
+FUBM&VSPQFBO4PDJFUZPG"OBFTUIFTJPMPHZFWJEFODFCBTFEBOEDPOTFOTVTCBTFE
+HVJEFMJOFPOQPTUPQFSBUJWFEFMJSJVN&VS+"OBFTUIFTJPMr<ᶗ>
+ʣ.PTTJF"
+3FHBTB5
+/FNF%
+FUBM&WJEFODFCBTFEHVJEFMJOFPONBOBHFNFOUPGQPTUPQFSBUJWFEFMJSJVNJOPMEFS
+QFPQMFGPSMPXSFTPVSDFTFUUJOHTZTUFNBUJDSFWJFXBSUJDMF*OU+(FO.FEr<ᶗ>
+ʣ)VHIFT$(
+#PODZL$4
+$VMMFZ%+
+FUBM"NFSJDBO4PDJFUZGPS&OIBODFE3FDPWFSZBOE1FSJPQFSBUJWF2VBMJUZ*OJUJBUJWF
++PJOU$POTFOTVT4UBUFNFOUPO1PTUPQFSBUJWF%FMJSJVN1SFWFOUJPO"OFTUI"OBMHr<ᶗ>
+ʣ5IF"NFSJDBO(FSJBUSJDT4PDJFUZ&YQFSU1BOFMPO1PTUPQFSBUJWF%FMJSJVNJO0MEFS"EVMUT1PTUPQFSBUJWFEFMJSJVNJO
+PMEFSBEVMUTCFTUQSBDUJDFTUBUFNFOUGSPNUIF"NFSJDBO(FSJBUSJDT4PDJFUZ+"N$PMM4VSHr<ᶗ>
+ʣ*OPVZF4,
+WBO%ZDL$)
+"MFTTJ$"
+FUBM$MBSJGZJOHDPOGVTJPOUIFDPOGVTJPOBTTFTTNFOUNFUIPE"OFXNFUIPEGPS
+EFUFDUJPOPGEFMJSJVN"OO*OUFSO.FEr<ᶛ>
+ʣ,JN4
+$IPJ&
++VOH:
+FUBM1PTUPQFSBUJWFEFMJSJVNTDSFFOJOHUPPMTGPSQPTUBOFTUIFUJDBEVMUQBUJFOUTJOOPOJOUFOTJWF
+DBSFVOJUTBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+$MJO/VSTr<ᶘ>
+ʣ%F+
+8BOE"1'%FMJSJVNTDSFFOJOHBTZTUFNBUJDSFWJFXPGEFMJSJVNTDSFFOJOHUPPMTJOIPTQJUBMJ[FEQBUJFOUT
+(FSPOUPMPHJTUr<ᶘ>
+ʣ.BSDBOUPOJP&3
+/HP-)
+0`$POOPS.
+FUBM%$".EFSJWBUJPOBOEWBMJEBUJPOPGBNJOVUFEJBHOPTUJDJOUFSWJFX
+GPS$".EFpOFEEFMJSJVNBDSPTTTFDUJPOBMEJBHOPTUJDUFTUTUVEZ"OO*OUFSO.FEr<ᶛ>
+ʣ"MEXJLBU3,
+.BOJBT&
+5PNMJOTPO&
+FUBM%FMJSJVNTDSFFOJOHUPPMTJOUIFQPTUBOFTUIFUJDDBSFVOJUBTZTUFNBUJD
+SFWJFXBOENFUBBOBMZTJT"HJOH$MJO&YQ3FTr<ᶘ>
+ʣ8BUBOBCF"5IFDPOGVTJPOBTTFTTNFOUNFUIPEWBMJEBUJPOPG+BQBOFTFMBOHVBHFWFSTJPO+QO+(FO)PTQ1TZDIJBUSZ
+rʢJO+BQBOFTFʣ<ᶛ>
+ʣ)BTFHBXB5
+4FP5
+,VCPUB:
+FUBM3FMJBCJMJUZBOEWBMJEJUZPGUIF+BQBOFTFWFSTJPOPGUIF"`T5FTUGPSEFMJSJVN
+TDSFFOJOHJOUIFFMEFSMZQBUJFOU"TJBO+1TZDIJBUS<ᶛ>
+ʣֶ r<ᶛ>
+ʣֶ r<ᶛ>
+ʣ*OPVZF4,
+,PTBS$.
+5PNNFU%
+FUBM5IF$".4EFWFMPQNFOUBOEWBMJEBUJPOPGBOFXTDPSJOHTZTUFNGPSEFMJSJVN
+TFWFSJUZJODPIPSUT"OO*OUFSO.FEr<ᶛ>
+ʣ#SFJUCBSU8
+3PTFOGFME#
+3PUI"
+FUBM5IF.FNPSJBM%FMJSJVN"TTFTTNFOU4DBMF+1BJO4ZNQUPN.BOBHF
+r<ᶛ>
+ʣ.BUTVPLB:
+.JZBLF:
+"SBLBLJ)
+FUBM$MJOJDBMVUJMJUZBOEWBMJEBUJPOPGUIF+BQBOFTFWFSTJPOPG.FNPSJBM%FMJSJVN
+"TTFTTNFOU4DBMFJOBQTZDIPHFSJBUSJDJOQBUJFOUTFUUJOH(FO)PTQ1TZDIJBUSZr<ᶛ>
+ʣ.PSJUB5
+5TVOPEB+
+*OPVF4
+FUBM$PNNVOJDBUJPO$BQBDJUZ4DBMFBOE"HJUBUJPO%JTUSFTT4DBMFUPNFBTVSFUIF
+TFWFSJUZPGEFMJSJVNJOUFSNJOBMMZJMMDBODFSQBJFOUTBWBMJEBUJPOTUVEZ1BMMJBU.FEr<ᶛ>
+ʣ5S[FQBD[15
+.JUUBM%
+5PSSFT3
+FUBM7BMJEBUJPOPGUIF%FMJSJVN3BUJOH4DBMFSFWJTFEDPNQBSJTPOXJUIUIF
+EFMJSJVNSBUJOHTDBMFBOEUIFDPHOJUJWFUFTUGPSEFMJSJVN+/FVSPQTZDIJBUSZ$MJO/FVSPTDJr<ᶛ>
+ʣ,BUP.
+,JTIJ:
+0LVZBNB5
+FUBM+BQBOFTFWFSTJPOPGUIF%FMJSJVN3BUJOH4DBMF
+3FWJTFEʢ%343+ʣ SFMJBCJMJUZ
+BOEWBMJEJUZ1TZDIPTPNBUJDTr<ᶛ>
+ʣ%BTHVQUB.
+%VNCSFMM"$1SFPQFSBUJWFSJTLBTTFTTNFOUGPSEFMJSJVNBGUFSOPODBSEJBDTVSHFSZBTZTUFNBUJDSFWJFX+
+"N(FSJBUS4PDr<ᶘ>
+ʣ:BO&
+7FJUDI.
+4BSJQFMMB"
+FUBM"TTPDJBUJPOCFUXFFOQPTUPQFSBUJWFEFMJSJVNBOEBEWFSTFPVUDPNFTJOPMEFSTVSHJDBM
+[[p42]]
+42
+QBUJFOUTBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+$MJO"OFTUI<ᶘ>
+ʣ,PTUFS4
+)FOTFOT"C(
+4DIVVSNBOT.+
+FUBM3JTLGBDUPSTPGEFMJSJVNBGUFSDBSEJBDTVSHFSZBTZTUFNBUJDSFWJFX&VS
++$BSEJPWBTD/VSTr<ᶘ>
+ʣ,BOH4:
+4FP48
+,JN+:$PNQSFIFOTJWFSJTLGBDUPSFWBMVBUJPOPGQPTUPQFSBUJWFEFMJSJVNGPMMPXJOHNBKPSTVSHFSZ
+DMJOJDBMEBUBXBSFIPVTFBOBMZTJT/FVSPM4DJr<ᶛ>
+ʣ,PUpT,
+4[ZMJ㶠TLB"
+-JTUFXOJL.
+FUBM&BSMZEFMJSJVNBGUFSDBSEJBDTVSHFSZBOBOBMZTJTPGJODJEFODFBOESJTLGBDUPST
+JOFMEFSMZʢ侒ZFBSTʣBOEWFSZFMEFSMZʢ侒ZFBSTʣQBUJFOUT$MJO*OUFSW"HJOHr<ᶚ>
+ʣ1BSL&"
+,JN.:1PTUPQFSBUJWFEFMJSJVNJTBTTPDJBUFEXJUIOFHBUJWFPVUDPNFTBOEMPOHUFSNNPSUBMJUZJOFMEFSMZ
+LPSFBOTBSFUSPTQFDUJWFPCTFSWBUJPOBMTUVEZ.FEJDJOB<ᶛ>
+ʣ4BSBWBOB#BXBO#
+8BSLFOUJO-.
+3VDLFS%
+FUBM*ODJEFODFBOEQSFEJDUPSTPGQPTUPQFSBUJWFEFMJSJVNJOUIFPMEFS
+BDVUFDBSFTVSHFSZQPQVMBUJPOBQSPTQFDUJWFTUVEZ$BO+4VSHr<ᶛ>
+ʣ4IJ;
+.FJ9
+-J$
+FUBM1PTUPQFSBUJWFEFMJSJVNJTBTTPDJBUFEXJUIMPOHUFSNEFDMJOFJOBDUJWJUJFTPGEBJMZMJWJOH
+"OFTUIFTJPMPHZr<ᶛ>
+ʣ$SPDLFS&
+#FHHT5
+)BTTBO"
+FUBM-POHUFSNFGGFDUTPGQPTUPQFSBUJWFEFMJSJVNJOQBUJFOUTVOEFSHPJOHDBSEJBD
+PQFSBUJPOBTZTUFNBUJDSFWJFX"OO5IPSBD4VSHr<ᶘ>
+ʣ4BD[ZOTLJ+4
+.BSDBOUPOJP&3
+2VBDI-
+FUBM$PHOJUJWFUSBKFDUPSJFTBGUFSQPTUPQFSBUJWFEFMJSJVN/&OHM+.FE
+r<ᶛ>
+ʣ4BVËS"$
+7FMEIVJK[FO%4
+0UUFOT5)
+FUBM"TTPDJBUJPOCFUXFFOEFMJSJVNBOEDPHOJUJWFDIBOHFBGUFSDBSEJBDTVSHFSZ
+#S+"OBFTUIr<ᶛ>
+ʣ-VOETUSPN.
+&EMVOE"
+#VDIU(
+FUBM%FNFOUJBBGUFSEFMJSJVNJOQBUJFOUTXJUIGFNPSBMOFDLGSBDUVSFT+"N(FSJBUS
+4PDr<ᶛ>
+ʣ8BDLFS1
+/VOFT17
+$BCSJUB)
+FUBM1PTUPQFSBUJWFEFMJSJVNJTBTTPDJBUFEXJUIQPPSDPHOJUJWFPVUDPNFBOEEFNFOUJB
+%FNFOU(FSJBUS$PHO%JTPSEr<ᶛ>
+ʣKatMG
+7SFFTXJKL3
+EF+POHIF+'
+FUBM-POHUFSNDPHOJUJWFPVUDPNFPGEFMJSJVNJOFMEFSMZIJQTVSHFSZQBUJFOUT"
+QSPTQFDUJWFNBUDIFEDPOUSPMMFETUVEZPWFSUXPBOEBIBMGZFBST%FNFOU(FSJBUS$PHO%JTPSEr<ᶛ>
+ʣ#JDLFM)
+(SBEJOHFS3
+,PDIT&
+FUBM)JHISJTLPGDPHOJUJWFBOEGVODUJPOBMEFDMJOFBGUFSQPTUPQFSBUJWFEFMJSJVN"
+UISFFZFBSQSPTQFDUJWFTUVEZ%FNFOU(FSJBUS$PHO%JTPSEr<ᶛ>
+ʣ4QSVOH+
+3PCFSUT30
+8FJOHBSUFO5/
+FUBM1PTUPQFSBUJWFEFMJSJVNJOFMEFSMZQBUJFOUTJTBTTPDJBUFEXJUITVCTFRVFOU
+DPHOJUJWFJNQBJSNFOU#S+"OBFTUIr<ᶛ>
+ʣ/FFEIBN.+
+8FCC$&
+#SZEFO%$1PTUPQFSBUJWFDPHOJUJWFEZTGVODUJPOBOEEFNFOUJBXIBUXFOFFEUPLOPXBOE
+EP#S+"OBFTUIʢTVQQMʣ Jr<ᶝ>
+ʣ2J:.
+-J:+
+;PV+)
+FUBM3JTLGBDUPSTGPSQPTUPQFSBUJWFEFMJSJVNJOHFSJBUSJDQBUJFOUTXJUIIJQGSBDUVSFBTZTUFNBUJD
+SFWJFXBOENFUBBOBMZTJT'SPOU"HJOH/FVSPTDJ<ᶘ>
+ʣ;IPV2
+;IPV9
+;IBOH:
+FUBM1SFEJDUPSTPGQPTUPQFSBUJWFEFMJSJVNJOFMEFSMZQBUJFOUTGPMMPXJOHUPUBMIJQBOELOFF
+BSUISPQMBTUZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT#.$.VTDVMPTLFMFU%JTPSE<ᶘ>
+ʣ(SBDJF5+
+$BVpFME/PMM$
+8BOH/:
+FUBM5IFBTTPDJBUJPOPGQSFPQFSBUJWFGSBJMUZBOEQPTUPQFSBUJWFEFMJSJVNBNFUB
+BOBMZTJT"OFTUI"OBMHr<ᶘ>
+ʣ3POH9
+%JOH;$
+:V)%
+FUBM3JTLGBDUPSTPGQPTUPQFSBUJWFEFMJSJVNJOUIFLOFFBOEIJQSFQMBDFNFOUQBUJFOUTB
+TZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+0SUIPQ4VSH3FT<ᶘ>
+ʣ;IBOH)+
+.B9)
+:F+#
+FUBM4ZTUFNBUJDSFWJFXBOENFUBBOBMZTJTPGSJTLGBDUPSGPSQPTUPQFSBUJWFEFMJSJVNGPMMPXJOH
+TQJOBMTVSHFSZ+0SUIPQ4VSH3FT<ᶘ>
+ʣ;IV$
+8BOH#
+:JO+
+FUBM3JTLGBDUPSTGPSQPTUPQFSBUJWFEFMJSJVNBGUFSTQJOBMTVSHFSZBTZTUFNBUJDSFWJFXBOENFUB
+BOBMZTJT"HJOH$MJO&YQ3FTr<ᶘ>
+ʣ:BOH:
+;IBP9
+%POH5
+FUBM3JTLGBDUPSTGPSQPTUPQFSBUJWFEFMJSJVNGPMMPXJOHIJQGSBDUVSFSFQBJSJOFMEFSMZQBUJFOUT
+BTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT"HJOH$MJO&YQ3FTr<ᶘ>
+ʣ"QGFM$$
+-ÅÅSÅ&
+,PJWVSBOUB.
+FUBM"TJNQMJpFESJTLTDPSFGPSQSFEJDUJOHQPTUPQFSBUJWFOBVTFBBOEWPNJUJOH
+DPODMVTJPOTGSPNDSPTTWBMJEBUJPOTCFUXFFOUXPDFOUFST"OFTUIFTJPMPHZr<ᶚ>
+ʣ.BSDBOUPOJP&3
+(PMENBO-
+.BOHJPOF$.
+FUBM"DMJOJDBMQSFEJDUJPOSVMFGPSEFMJSJVNBGUFSFMFDUJWFOPODBSEJBD
+TVSHFSZ+"."r<ᶙ>
+ʣ3VEPMQI+-
++POFT3/
+-FWLP⒎4&
+FUBM%FSJWBUJPOBOEWBMJEBUJPOPGBQSFPQFSBUJWFQSFEJDUJPOSVMFGPSEFMJSJVNBGUFS
+DBSEJBDTVSHFSZ$JSDVMBUJPOr<ᶛ>
+ʣ1BSFEFT4
+$PSUÍOF[-
+$POUSFSBT7
+FUBM1PTUPQFSBUJWFDPHOJUJWFEZTGVODUJPOBUNPOUITJOBEVMUTBGUFSOPODBSEJBD
+TVSHFSZBRVBMJUBUJWFTZTUFNBUJDSFWJFX"DUB"OBFTUIFTJPM4DBOEr<ᶘ>
+参考文献
+[[p43]]
+43
+ʣ$IFO-
+"V&
+4BSJQFMMB"
+FUBM1PTUPQFSBUJWFPVUDPNFTJOPMEFSTVSHJDBMQBUJFOUTXJUIQSFPQFSBUJWFDPHOJUJWF
+JNQBJSNFOUBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+$MJO"OFTUI<ᶘ>
+ʣ%FNFOUJBBTTFTTNFOU
+NBOBHFNFOUBOETVQQPSUGPSQFPQMFMJWJOHXJUIEFNFOUJBBOEUIFJSDBSFFST/*$&(VJEFMJOF
+
+/P-POEPO/BUJPOBM*OTUJUVUFGPS)FBMUIBOE$BSF&YDFMMFODFʢ/*$&ʣ <ᶗ>
+ʣ0`.BIPOZ%
+0`4VMMJWBO%
+#ZSOF4
+FUBM4501145"35DSJUFSJBGPSQPUFOUJBMMZJOBQQSPQSJBUFQSFTDSJCJOHJOPMEFS
+QFPQMFWFSTJPO"HF"HFJOHr<ᶗ>
+ʣ,BTTJF(.
+/HVZFO5"
+,BMJTDI&MMFUU-.
+FUBM1SFPQFSBUJWFNFEJDBUJPOVTFBOEQPTUPQFSBUJWFEFMJSJVNBTZTUFNBUJD
+SFWJFX#.$(FSJBUS<ᶘ>
+ʣ8BOH&
+#FMMFZ$ÔUÉ&1
+:PVOH+
+FUBM&⒎FDUPGQFSJPQFSBUJWFCFO[PEJB[FQJOFVTFPOJOUSBPQFSBUJWFBXBSFOFTTBOE
+QPTUPQFSBUJWFEFMJSJVNBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJTPGSBOEPNJTFEDPOUSPMMFEUSJBMTBOEPCTFSWBUJPOBMTUVEJFT
+#S+"OBFTUIr<ᶘ>
+ʣ1FSTJDP*
+$FTBSJ.
+.PSBOEJ"
+FUBM'SBJMUZBOEEFMJSJVNJOPMEFSBEVMUTBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJTPGUIF
+MJUFSBUVSF+"N(FSJBUS4PDr<ᶘ>
+ʣ%JOH9
+(BP9
+$IFO2
+FUBM1SFPQFSBUJWFBDVUFQBJOJTBTTPDJBUFEXJUIQPTUPQFSBUJWFEFMJSJVN1BJO.FE
+r<ᶙ>
+ʣ.PV2
+(BP.
+-JV9
+FUBM1SFPQFSBUJWFBOYJFUZBTBOJOEFQFOEFOUQSFEJDUPSPGQPTUPQFSBUJWFEFMJSJVNJOPMEFS
+QBUJFOUTVOEFSHPJOHFMFDUJWFTVSHFSZGPSMVNCBSEJTDIFSOJBUJPO"HJOH$MJO&YQ3FTr<ᶚ>
+ʣ.VLBNBM,+
+,VMMFS-)
+'JU[QBUSJDL"-
+FUBM1SPTQFDUJWFTUVEZPGBMDPIPMDPOTVNQUJPOBOESJTLPGEFNFOUJBJOPMEFS
+BEVMUT+"."r<7>
+ʣ.BEBOJ"
+"MBDL,
+3JDIUFS.+
+FUBM*NNVOFSFHVMBUJOHF⒎FDUTPGFYFSDJTFPODJHBSFUUFTNPLFJOEVDFEJOqBNNBUJPO
++*OqBNN3FTr<ᶝ>
+ʣ3BWJ#
+1JODVT%
+$IPJ4
+FUBM"TTPDJBUJPOPGEVSBUJPOPGTVSHFSZXJUIQPTUPQFSBUJWFEFMJSJVNBNPOHQBUJFOUT
+SFDFJWJOHIJQGSBDUVSFSFQBJS+"."/FUX0QFOF<ᶚ>
+ʣ)JSTDI+
+%F1BMNB(
+5TBJ55
+FUBM*NQBDUPGJOUSBPQFSBUJWFIZQPUFOTJPOBOECMPPEQSFTTVSFqVDUVBUJPOTPOFBSMZ
+QPTUPQFSBUJWFEFMJSJVNBGUFSOPODBSEJBDTVSHFSZ#S+"OBFTUIr<ᶛ>
+ʣ'SJU[#"
+,BMBSJDLBM1-
+.BZCSJFS)3
+FUBM*OUSBPQFSBUJWFFMFDUSPFODFQIBMPHSBNTVQQSFTTJPOQSFEJDUTQPTUPQFSBUJWF
+EFMJSJVN"OFTUI"OBMHr<ᶙ>
+ʣ'SJU[#"
+.BZCSJFS)3
+"WJEBO.4*OUSBPQFSBUJWFFMFDUSPFODFQIBMPHSBNTVQQSFTTJPOBUMPXFSWPMBUJMFBOBFTUIFUJD
+DPODFOUSBUJPOTQSFEJDUTQPTUPQFSBUJWFEFMJSJVNPDDVSSJOHJOUIFJOUFOTJWFDBSFVOJU#S+"OBFTUIr<ᶛ>
+ʣ4UFJOFS-"1PTUPQFSBUJWFEFMJSJVN1BSUQBUIPQIZTJPMPHZBOESJTLGBDUPST&VS+"OBFTUIFTJPMr<ᶝ>
+ʣ"NFSJDBO(FSJBUSJDT4PDJFUZFYQFSUQBOFMPOQPTUPQFSBUJWFEFMJSJVNJOPMEFSBEVMUT"NFSJDBO(FSJBUSJDT4PDJFUZ
+BCTUSBDUFEDMJOJDBMQSBDUJDFHVJEFMJOFGPSQPTUPQFSBUJWFEFMJSJVNJOPMEFSBEVMUT+"N(FSJBUS4PDr<ᶗ>
+ʣੜ࿑ಇলɽIUUQTXXXNIMXHPKQDPOUFOUQEG
+"DDFTTFE+VO
+ʣ"NFSJDBO(FSJBUSJDT4PDJFUZ6QEBUFE"(4#FFST$SJUFSJBGPSQPUFOUJBMMZJOBQQSPQSJBUFNFEJDBUJPOVTFJOPMEFS
+BEVMUT+"N(FSJBUS4PDr<ᶗ>
+ʣ(BMMBHIFS1
+3ZBO$
+#ZSOF4
+FUBM45011ʢ4DSFFOJOH5PPMPG0MEFS1FSTPO`T1SFTDSJQUJPOTʣBOE45"35ʢ4DSFFOJOH
+5PPMUP"MFSUEPDUPSTUP3JHIU5SFBUNFOUʣ $POTFOTVTWBMJEBUJPO*OU+$MJO1IBSNBDPM5IFSr<ᶗ>
+ʣྸऀͷ҆શͳༀ෺ྍ๏ΨΠ υϥΠϯژձIUUQTNJOETKDRIDPSKQEPDTNJOETESVH
+UIFSBQZGPSUIFFMEFSMZESVHUIFSBQZGPSUIFFMEFSMZQEGWJFX'JU7"DDFTTFE+VO
+ʣ0NJDIJ$
+"ZBOJ/
+0ZB/
+FUBM"TTPDJBUJPOCFUXFFOEJTDPOUJOVBUJPOPGCFO[PEJB[FQJOFSFDFQUPSBHPOJTUTBOEQPTU
+PQFSBUJWFEFMJSJVNBNPOHJOQBUJFOUTXJUIMJBJTPOJOUFSWFOUJPOBSFUSPTQFDUJWFDPIPSUTUVEZ$PNQS1TZDIJBUSZ
+<ᶛ>
+ʣ#SVFSB&
+#VTI4)
+8JMMFZ+
+FUBM*NQBDUPGEFMJSJVNBOESFDBMMPOUIFMFWFMPGEJTUSFTTJOQBUJFOUTXJUIBEWBODFE
+DBODFSBOEUIFJSGBNJMZDBSFHJWFST$BODFSr<ᶛ>
+ʣ*OPVZF4,
+#PHBSEVT45+S
+#BLFS%*
+FUBM5IFIPTQJUBMFMEFSMJGFQSPHSBNBNPEFMPGDBSFUPQSFWFOUDPHOJUJWFBOE
+GVODUJPOBMEFDMJOFJOPMEFSIPTQJUBMJ[FEQBUJFOUT)PTQJUBMFMEFSMJGFQSPHSBN+"N(FSJBUS4PDr<*7>
+ʣ$IFO$$
+-JO.5
+5JFO:8
+FUBM.PEJpFEIPTQJUBMFMEFSMJGFQSPHSBNF⒎FDUTPOBCEPNJOBMTVSHFSZQBUJFOUT+"N
+$PMM4VSHr<ᶛ>
+ʣ8BOH::
+:VF+3
+9JF%.
+FUBM&⒎FDUPGUIFUBJMPSFE
+GBNJMZJOWPMWFEIPTQJUBMFMEFSMJGFQSPHSBNPOQPTUPQFSBUJWF
+EFMJSJVNBOEGVODUJPOJOPMEFSBEVMUTBSBOEPNJ[FEDMJOJDBMUSJBM+"."*OUFSO.FEr<***>
+ʣ$IFO$$
+-J)$
+-JBOH+5
+FUBM&⒎FDUPGBNPEJpFEIPTQJUBMFMEFSMJGFQSPHSBNPOEFMJSJVNBOEMFOHUIPGIPTQJUBM
+TUBZJOQBUJFOUTVOEFSHPJOHBCEPNJOBMTVSHFSZBDMVTUFSSBOEPNJ[FEDMJOJDBMUSJBM+"."4VSHr<***>
+参考文献
+[[p44]]
+44
+ʣ+BOTTFO5-
+"MCFSUT"3
+)PPGU-
+FUBM1SFWFOUJPOPGQPTUPQFSBUJWFEFMJSJVNJOFMEFSMZQBUJFOUTQMBOOFEGPSFMFDUJWF
+TVSHFSZTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT$MJO*OUFSW"HJOHr<ᶗ>
+ʣ8FJOTUFJO4.
+1PVMUTJEFT-
+#BBLMJOJ-3
+FUBM1PTUPQFSBUJWFEFMJSJVNJOUPUBMLOFFBOEIJQBSUISPQMBTUZQBUJFOUTB
+TUVEZPGQFSJPQFSBUJWFNPEJpBCMFSJTLGBDUPST#S+"OBFTUIr<ᶛ>
+ʣ&MMBSE-
+,BU[OFMTPO3
+8BTPXJD[.
+FUBM5ZQFPGBOFTUIFTJBBOEQPTUPQFSBUJWFEFMJSJVNBGUFSWBTDVMBSTVSHFSZ+
+$BSEJPUIPSBD7BTD"OFTUIr<ᶛ>
+ʣ4MPS$+
+EF+POHIF+'
+7SFFTXJKL3
+FUBM"OFTUIFTJBBOEQPTUPQFSBUJWFEFMJSJVNJOPMEFSBEVMUTVOEFSHPJOHIJQTVSHFSZ
++"N(FSJBUS4PDr<ᶛ>
+ʣ-J5
+-J+
+:VBO-
+FUBM3"("4UVEZ*OWFTUJHBUPST&GGFDUPGSFHJPOBMWTHFOFSBMBOFTUIFTJBPOJODJEFODFPG
+QPTUPQFSBUJWFEFMJSJVNJOPMEFSQBUJFOUTVOEFSHPJOHIJQGSBDUVSFTVSHFSZUIF3"("SBOEPNJ[FEUSJBM+"."
+r<***>
+ʣ.BTPO4&
+/PFM4UPSS"
+3JUDIJF$85IFJNQBDUPGHFOFSBMBOESFHJPOBMBOFTUIFTJBPOUIFJODJEFODFPGQPTUPQFSBUJWF
+DPHOJUJWFEZTGVODUJPOBOEQPTUPQFSBUJWFEFMJSJVNBTZTUFNBUJDSFWJFXXJUINFUBBOBMZTJT+"M[IFJNFST%JT
+r<ᶘ>
+ʣ#IVTIBO4
+)VBOH9
+%VBO:
+FUBM5IFJNQBDUPGSFHJPOBMWFSTVTHFOFSBMBOFTUIFTJBPOQPTUPQFSBUJWFOFVSPDPHOJUJWF
+PVUDPNFTJOFMEFSMZQBUJFOUTVOEFSHPJOHIJQGSBDUVSFTVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT*OU+4VSH
+<ᶘ>
+ʣ;IBOH)
+-V:
+-JV.
+FUBM4USBUFHJFTGPSQSFWFOUJPOPGQPTUPQFSBUJWFEFMJSJVNBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT
+PGSBOEPNJ[FEUSJBMT$SJU$BSF3<ᶘ>
+ʣ1BUFM7
+$IBNQBOFSJB3
+%SFU[LF+
+FUBM&⒎FDUPGSFHJPOBMWFSTVTHFOFSBMBOBFTUIFTJBPOQPTUPQFSBUJWFEFMJSJVNJO
+FMEFSMZQBUJFOUTVOEFSHPJOHTVSHFSZGPSIJQGSBDUVSFBTZTUFNBUJDSFWJFX#.+0QFOF<ᶘ>
+ʣ;IPV4-
+;IBOH4:
+4J)#
+FUBM3FHJPOBMWFSTVTHFOFSBMBOFTUIFTJBJOPMEFSQBUJFOUTGPSIJQGSBDUVSFTVSHFSZB
+TZTUFNBUJDSFWJFXBOENFUBBOBMZTJTPGSBOEPNJ[FEDPOUSPMMFEUSJBMT+0SUIPQ4VSH3FT<ᶘ>
+ʣ7JEFSNBO%
+/BCJEPMMBZFWB'
+"VCBLJSPWB.
+FUBM1PTUPQFSBUJWFEFMJSJVNBOEDPHOJUJWFEZTGVODUJPOBGUFSHFOFSBMBOE
+SFHJPOBMBOFTUIFTJBBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+$MJO.FE<ᶘ>
+ʣ$IFVOH,:
+:BOH59
+$IPOH%:
+FUBM/FVSBYJBMWFSTVTHFOFSBMBOFTUIFTJBJOFMEFSMZQBUJFOUTVOEFSHPJOHIJQGSBDUVSF
+TVSHFSZBOEUIFJODJEFODFPGQPTUPQFSBUJWFEFMJSJVNBTZTUFNBUJDSFWJFXBOETUSBUJpFENFUBBOBMZTJT#.$"OFTUIFTJPM
+<ᶘ>
+ʣ$BP..
+;IBOH:8
+4IFOH38
+FUBM"OFTUIFTJBWFSTVTSFHJPOBMBOFTUIFTJBJOUIFFMEFSMZQBUJFOUTVOEFSHPJOHIJQ
+GSBDUVSFTVSHFSJFTBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJTPGSBOEPNJ[FEDMJOJDBMUSJBMT8PSME+4VSHr
+<ᶘ>
+ʣ3PZTF$'
+"OESFXT%5
+/FXNBO4/
+FUBM5IFJOGMVFODFPGQSPQPGPMPSEFTGMVSBOFPOQPTUPQFSBUJWFDPHOJUJWF
+EZTGVODUJPOJOQBUJFOUTVOEFSHPJOHDPSPOBSZBSUFSZCZQBTTTVSHFSZ"OBFTUIFTJBr<ᶙ>
+ʣ5BOBLB1
+(PPENBO4
+4PNNFS#3
+FUBM5IFFGGFDUPGEFTGMVSBOFWFSTVTQSPQPGPMBOFTUIFTJBPOQPTUPQFSBUJWF
+EFMJSJVNJOFMEFSMZPCFTFQBUJFOUTVOEFSHPJOHUPUBMLOFFSFQMBDFNFOUBSBOEPNJ[FE
+DPOUSPMMFE
+EPVCMFCMJOEFEDMJOJDBM
+USJBM+$MJO"OFTUIr<ᶙ>
+ʣ/JTIJLBXB,
+/BLBZBNB.
+0NPUF,
+FUBM3FDPWFSZDIBSBDUFSJTUJDTBOEQPTUPQFSBUJWFEFMJSJVNBGUFSMPOHEVSBUJPO
+MBQBSPTDPQFBTTJTUFETVSHFSZJOFMEFSMZQBUJFOUTQSPQPGPMCBTFEWTTFWPqVSBOFCBTFEBOFTUIFTJB"DUB"OBFTUIFTJPM
+4DBOEr<ᶙ>
+ʣ$IBOH+&
+.JO48
+,JN)
+FUBM"TTPDJBUJPOCFUXFFOBOFTUIFUJDTBOEQPTUPQFSBUJWFEFMJSJVNJOFMEFSMZQBUJFOUT
+VOEFSHPJOHTQJOFTVSHFSZQSPQPGPMWFSTVTTFWPqVSBOF(MPCBM4QJOF+r<ᶛ>
+ʣ.FJ9
+;IFOH)-
+-J$
+FUBM5IFF⒎FDUTPGQSPQPGPMBOETFWPqVSBOFPOQPTUPQFSBUJWFEFMJSJVNJOPMEFSQBUJFOUT"
+SBOEPNJ[FEDMJOJDBMUSJBMTUVEZ+"M[IFJNFST%JTr<ᶙ>
+ʣ*TIJJ,
+.BLJUB5
+:BNBTIJUB)
+FUBM5PUBMJOUSBWFOPVTBOFTUIFTJBXJUIQSPQPGPMJTBTTPDJBUFEXJUIBMPXFSSBUFPG
+QPTUPQFSBUJWFEFMJSJVNJODPNQBSJTPOXJUITFWPqVSBOFBOFTUIFTJBJOFMEFSMZQBUJFOUT+$MJO"OFTUIr
+<ᶙ>
+ʣ+JBOH+-
+;IBOH-
+)F--
+FUBM7PMBUJMFWFSTVTUPUBMJOUSBWFOPVTBOFTUIFTJBPOQPTUPQFSBUJWFEFMJSJVNJOBEVMUQBUJFOUT
+VOEFSHPJOHDBSEJBDWBMWFTVSHFSZBSBOEPNJ[FEDMJOJDBMUSJBM"OFTUI"OBMHr<ᶙ>
+ʣ.JMMFS%
+-FXJT43
+1SJUDIBSE.8
+FUBM*OUSBWFOPVTWFSTVTJOIBMBUJPOBMNBJOUFOBODFPGBOBFTUIFTJBGPSQPTUPQFSBUJWF
+DPHOJUJWFPVUDPNFTJOFMEFSMZQFPQMFVOEFSHPJOHOPODBSEJBDTVSHFSZ$PDISBOF%BUBCBTF4ZTU3FW$%
+<ᶘ>
+ʣࢠɼඌຊ๎ඒɼ΄͔ɽ౼ʕप
+ͷͤΜໝΛத৺ͱ ͯ͠ʕɽຑਲr<ᶛ>
+参考文献
+[[p45]]
+45
+ʣ,JOKP4
+-JN&
+.BHTBZTBZ.7
+FUBM1FSJPQFSBUJWF.FEJDJOF3FTFBSDI(SPVQ7PMBUJMFBOBFTUIFUJDTBOEQPTUPQFSBUJWF
+EFMJSJVNJOPMEFSTVSHJDBMQBUJFOUTʕBTFDPOEBSZBOBMZTJTPGQSPTQFDUJWFDPIPSUTUVEJFT"DUB"OBFTUIFTJPM4DBOE
+r<ᶛ>
+ʣ4QFODF+
+#FMMFZ$ÔUÉ&
++BDPCTPIO&
+FUBM3FTUSJDUFEWFSTVTMJCFSBMJOUSBPQFSBUJWFCFO[PEJB[FQJOFVTFJODBSEJBD
+BOBFTUIFTJBGPSSFEVDJOHEFMJSJVNʢ#'SFF1JMPUʣ BQJMPU
+NVMUJDFOUSF
+SBOEPNJTFE
+DMVTUFSDSPTTPWFSUSJBM#S+"OBFTUI
+r<ᶛ>
+ʣ"PLJ:
+,VSJUB5
+/BLBKJNB.
+FUBM"TTPDJBUJPOCFUXFFOSFNJNB[PMBNBOEQPTUPQFSBUJWFEFMJSJVNJOPMEFSBEVMUT
+VOEFSHPJOHFMFDUJWFDBSEJPWBTDVMBSTVSHFSZBQSPTQFDUJWFDPIPSUTUVEZ+"OFTUIr<ᶛ>
+ʣ,BOFLP4
+.PSJNPUP5
+*DIJOPNJZB5
+FUBM&⒎FDUPGSFNJNB[PMBNPOUIFJODJEFODFPGEFMJSJVNBGUFSUSBOTDBUIFUFS
+BPSUJDWBMWFJNQMBOUBUJPOVOEFSHFOFSBMBOFTUIFTJBBSFUSPTQFDUJWFFYQMPSBUPSZTUVEZ+"OFTUIr<ᶛ>
+ʣ:BOH++
+-FJ-
+2JV%
+FUBM&GGFDUPGSFNJNB[PMBNPOQPTUPQFSBUJWFEFMJSJVNJOPMEFSBEVMUQBUJFOUTVOEFSHPJOH
+PSUIPQFEJDTVSHFSZBQSPTQFDUJWFSBOEPNJ[FEDPOUSPMMFEDMJOJDBMUSJBM%SVH%FT%FWFM5IFSr<***>
+ʣ)VEFU[+"
+1BUUFSTPO,.
+*RCBM;
+FUBM,FUBNJOFBUUFOVBUFTEFMJSJVNBGUFSDBSEJBDTVSHFSZXJUIDBSEJPQVMNPOBSZ
+CZQBTT+$BSEJPUIPSBD7BTD"OFTUIr<ᶙ>
+ʣ&MTBNBEJDZ""
+$IBSBMBNCPVT-5
+4FSHFTLFUUFS"3
+FUBM*OUSBPQFSBUJWFLFUBNJOFNBZJODSFBTFSJTLPGQPTUPQFSBUJWF
+EFMJSJVNBGUFSDPNQMFYTQJOBMGVTJPOGPSBEVMUEFGPSNJUZDPSSFDUJPO+4QJOF4VSHr<ᶛ>
+ʣ"WJEBO.4
+.BZCSJFS)3
+"CEBMMBI"#
+FUBM10%$"453FTFBSDI(SPVQ*OUSBPQFSBUJWFLFUBNJOFGPSQSFWFOUJPO
+PGQPTUPQFSBUJWFEFMJSJVNPSQBJOBGUFSNBKPSTVSHFSZJOPMEFSBEVMUTBOJOUFSOBUJPOBM
+NVMUJDFOUSF
+EPVCMFCMJOE
+
+SBOEPNJTFEDMJOJDBMUSJBM-BODFUr<ᶙ>
+ʣ)PWBHVJNJBO'
+5TDIPQQ$
+#FDL4DIJNNFS#
+FUBM*OUSBPQFSBUJWFLFUBNJOFBENJOJTUSBUJPOUPQSFWFOUEFMJSJVNPS
+QPTUPQFSBUJWFDPHOJUJWFEZTGVODUJPOBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT"DUB"OBFTUIFTJPM4DBOEr
+<ᶘ>
+ʣ7JEFSNBO%
+"VCBLJSPWB.
+/BCJEPMMBZFWB'
+FUBM&⒎FDUPGLFUBNJOFPOQPTUPQFSBUJWFOFVSPDPHOJUJWFEJTPSEFSTB
+TZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+$MJO.FE<ᶘ>
+ʣ.BD,FO[JF,,
+#SJUU4QFMMT".
+4BOET-1
+FUBM1SPDFTTFEFMFDUSPFODFQIBMPHSBNNPOJUPSJOHBOEQPTUPQFSBUJWF
+EFMJSJVNBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT"OFTUIFTJPMPHZr<ᶘ>
+ʣ#PDTLBJ5
+,PWÂDT.
+4[BLÂDT;
+FUBM*TUIFCJTQFDUSBMJOEFYNPOJUPSJOHQSPUFDUJWFBHBJOTUQPTUPQFSBUJWFDPHOJUJWF
+EFDMJOF "TZTUFNBUJDSFWJFXXJUINFUBBOBMZTJT1-P40OFF<ᶘ>
+ʣ&WFSFE-"
+$IBO.57
+)BO3
+FUBM"OBFTUIFUJDEFQUIBOEEFMJSJVNBGUFSNBKPSTVSHFSZBSBOEPNJTFEDMJOJDBMUSJBM
+#S+"OBFTUIr<ᶙ>
+ʣ8JMEFT54
+.JDLMF".
+#FO"CEBMMBI"
+FUBM&/("(&43FTFBSDI(SPVQ&⒎FDUPGFMFDUSPFODFQIBMPHSBQIZHVJEFE
+BOFTUIFUJDBENJOJTUSBUJPOPOQPTUPQFSBUJWFEFMJSJVNBNPOHPMEFSBEVMUTVOEFSHPJOHNBKPSTVSHFSZUIF&/("(&4
+SBOEPNJ[FEDMJOJDBMUSJBM+"."r<ᶙ>
+ʣ.JBP.
+9V:
+4VO.
+FUBM#*4JOEFYNPOJUPSJOHBOEQFSJPQFSBUJWFOFVSPDPHOJUJWFEJTPSEFSTJOPMEFSBEVMUTB
+TZTUFNBUJDSFWJFXBOENFUBBOBMZTJT"HJOH$MJO&YQ3FTr<ᶘ>
+ʣ4VNOFS.
+%FOH$
+&WFSFE-
+FUBM1SPDFTTFEFMFDUSPFODFQIBMPHSBQIZHVJEFEHFOFSBMBOBFTUIFTJBUPSFEVDF
+QPTUPQFSBUJWFEFMJSJVNBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT#S+"OBFTUIr<ᶘ>
+ʣ4VO:
+:F'
+8BOH+
+FUBM&MFDUSPFODFQIBMPHSBQIZHVJEFEBOFTUIFUJDEFMJWFSZGPSQSFWFOUJOHQPTUPQFSBUJWFEFMJSJVNJO
+BEVMUT"OVQEBUFENFUBBOBMZTJT"OFTUI"OBMHr<ᶘ>
+ʣ$IFX8;
+5FPI8:
+4JWBOFTBO/
+FUBM#JTQFDUSBM*OEFYʢ#*4ʣNPOJUPSJOHBOEQPTUPQFSBUJWFEFMJSJVNJOFMEFSMZ
+QBUJFOUTVOEFSHPJOHTVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJTXJUIUSJBMTFRVFOUJBMBOBMZTJT+$BSEJPUIPSBD7BTD
+"OFTUIr<ᶘ>
+ʣ"OESFTFO+.
+(JSBSE5%
+1BOEIBSJQBOEF11
+FUBM#VSTUTVQQSFTTJPOPOQSPDFTTFEFMFDUSPFODFQIBMPHSBQIZBTB
+predictorofpostcomadeliriuminmechanicallyventilatedICUpatientsCritCareMed[ᶛ]
+ʣ'SJU[#"
+,BMBSJDLBM1-
+.BZCSJFS)3
+FUBM*OUSBPQFSBUJWFFMFDUSPFODFQIBMPHSBNTVQQSFTTJPOQSFEJDUTQPTUPQFSBUJWF
+EFMJSJVN"OFTUI"OBMHr<ᶛ>
+ʣ)F,2
+8BOH4
+;IBOH8
+FUBM8IBUJTUIFJNQBDUPGQFSJPQFSBUJWFDFSFCSBMPYZHFOEFTBUVSBUJPOPOQPTUPQFSBUJWF
+EFMJSJVNJOPMEQPQVMBUJPOBTZTUFNJDSFWJFXBOENFUBBOBMZTJT"HJOH$MJO&YQ3FTr<ᶘ>
+ʣ$IJPOH9)
+8POH;;
+-JN4.
+FUBM5IFVTFPGDFSFCSBMPYJNFUSZJODBSEJBDTVSHFSZBTZTUFNBUJDSFWJFXBOENFUB
+BOBMZTJTPGSBOEPNJ[FEDPOUSPMMFEUSJBMT"OO$BSE"OBFTUIr<ᶘ>
+ʣ8POH;;
+$IJPOH9)
+$IBX4)
+FUBM5IFVTFPGDFSFCSBMPYJNFUSZJOTVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT
+PGSBOEPNJ[FEDPOUSPMMFEUSJBMT+$BSEJPUIPSBD7BTD"OFTUIr<ᶘ>
+ʣ:V:
+;IBOH,
+;IBOH-
+FUBM$FSFCSBMOFBSJOGSBSFETQFDUSPTDPQZʢ/*34ʣGPSQFSJPQFSBUJWFNPOJUPSJOHPGCSBJO
+参考文献
+[[p46]]
+46
+PYZHFOBUJPOJODIJMESFOBOEBEVMUT$PDISBOF%BUBCBTF4ZTU3FW$%<ᶘ>
+ʣ-FJ-
+,BU[OFMTPO3
+'FEPSLP-
+FUBM$FSFCSBMPYJNFUSZBOEQPTUPQFSBUJWFEFMJSJVNBGUFSDBSEJBDTVSHFSZB
+SBOEPNJTFE
+DPOUSPMMFEUSJBM"OBFTUIFTJBr<ᶙ>
+ʣ)V".
+2JV:
+;IBOH1
+FUBM)JHIFSWFSTVTMPXFSNFBOBSUFSJBMQSFTTVSFUBSHFUNBOBHFNFOUJOPMEFSQBUJFOUTIBWJOH
+OPODBSEJPUIPSBDJDTVSHFSZBQSPTQFDUJWFSBOEPNJ[FEDPOUSPMMFEUSJBM+$MJO"OFTUI<ᶙ>
+ʣ#SPXO$)UI
+/FVGFME,+
+5JBO+
+FUBM$FSFCSBM"VUPSFHVMBUJPO4UVEZ(SPVQ4IBI"
+;FIS,
+$BNFSPO%
+FUBM
+&⒎FDUPGUBSHFUJOHNFBOBSUFSJBMQSFTTVSFEVSJOHDBSEJPQVMNPOBSZCZQBTTCZNPOJUPSJOHDFSFCSBMBVUPSFHVMBUJPOPO
+QPTUTVSHJDBMEFMJSJVNBNPOHPMEFSQBUJFOUTBOFTUFESBOEPNJ[FEDMJOJDBMUSJBM+"."4VSHr<ᶙ>
+ʣ9V9
+)V9
+8V:
+FUBM&⒎FDUTPGEJ⒎FSFOU#1NBOBHFNFOUTUSBUFHJFTPOQPTUPQFSBUJWFEFMJSJVNJOFMEFSMZQBUJFOUT
+VOEFSHPJOHIJQSFQMBDFNFOUBTJOHMFDFOUFSSBOEPNJ[FEDPOUSPMMFEUSJBM+$MJO"OFTUI<ᶙ>
+ʣ8BDIUFOEPSG-+
+"[JNBSBHIJ0
+4BOUFS1
+FUBM"TTPDJBUJPOCFUXFFOJOUSBPQFSBUJWFBSUFSJBMIZQPUFOTJPOBOEQPTU
+PQFSBUJWFEFMJSJVNBGUFSOPODBSEJBDTVSHFSZBSFUSPTQFDUJWFNVMUJDFOUFSDPIPSUTUVEZ"OFTUI"OBMHr<ᶛ>
+ʣ%VBO8
+;IPV$.
+:BOH++
+FUBM"MPOHEVSBUJPOPGJOUSBPQFSBUJWFIZQPUFOTJPOJTBTTPDJBUFEXJUIQPTUPQFSBUJWF
+EFMJSJVNPDDVSSFODFGPMMPXJOHUIPSBDJDBOEPSUIPQFEJDTVSHFSZJOFMEFSMZ+$MJO"OFTUI<ᶛ>
+ʣ8BOH+
+.BP(
+.BMBDLBOZ/
+FUBM"TTPDJBUJPOCFUXFFOQFSJPQFSBUJWFIZQPUFOTJPOBOEQPTUPQFSBUJWFEFMJSJVNBOE
+BUSJBMpCSJMMBUJPOBGUFSDBSEJBDTVSHFSZBQPTUIPDBOBMZTJTPGUIF%&$"%&USJBM+$MJO"OFTUI<ᶛ>
+ʣ.D&XFO$$
+"NJS5
+2JV:
+FUBM.PSCJEJUZBOENPSUBMJUZJOQBUJFOUTNBOBHFEXJUIIJHIDPNQBSFEXJUIMPXCMPPE
+QSFTTVSFUBSHFUTEVSJOHPOQVNQDBSEJBDTVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJTPGSBOEPNJ[FEDPOUSPMMFE
+USJBMT$BO+"OBFTUIr<ᶘ>
+ʣ'FOH9
+)V+
+)VB'
+FUBM5IFDPSSFMBUJPOPGJOUSBPQFSBUJWFIZQPUFOTJPOBOEQPTUPQFSBUJWFDPHOJUJWFJNQBJSNFOUB
+NFUBBOBMZTJTPGSBOEPNJ[FEDPOUSPMMFEUSJBMT#.$"OFTUIFTJPM<ᶘ>
+ʣ-J[BOP%ÍF[*
+1PUFFU4
+#VSOJPM(BSDJB"
+FUBM5IFCVSEFOPGQFSJPQFSBUJWFIZQFSUFOTJPOIZQPUFOTJPOBTZTUFNBUJD
+SFWJFX1-P40OFF<ᶘ>
+ʣ$IPJ)
+1BSL$4
+)VI+
+FUBM*OUSBPQFSBUJWFHMZDFNJDWBSJBCJMJUZBOENFBOHMVDPTFBSFQSFEJDUPSTGPSQPTUPQFSBUJWF
+EFMJSJVNBGUFSDBSEJBDTVSHFSZBSFUSPTQFDUJWFDPIPSUTUVEZ$MJOJDBM*OUFSWFOUJPOTJO"HJOHr<ᶛ>
+ʣ8JOENBOO7
+4QJFT$
+,OBBL$
+FUBM#*0$0($POTPSUJVN*OUSBPQFSBUJWFIZQFSHMZDFNJBJODSFBTFTUIFJODJEFODFPG
+QPTUPQFSBUJWFEFMJSJVN.JOFSWB"OFTUFTJPMr<ᶛ>
+ʣ4BBHFS-
+%VODBO"&
+:BSFE+1
+FUBM*OUSBPQFSBUJWFUJHIUHMVDPTFDPOUSPMVTJOHIZQFSJOTVMJOFNJDOPSNPHMZDFNJB
+JODSFBTFTEFMJSJVNBGUFSDBSEJBDTVSHFSZ"OFTUIFTJPMPHZr<ᶙ>
+ʣ+JBOH+
+-J4
+;IBP:
+FUBM*OUFOTJWFHMVDPTFDPOUSPMEVSJOHUIFQFSJPQFSBUJWFQFSJPEGPSEJBCFUJDQBUJFOUTVOEFSHPJOH
+TVSHFSZBOVQEBUFETZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+$MJO"OFTUI<ᶘ>
+ʣ,BLVNB3
+EV'PSU((
+"STFOBVMU-
+FUBM%FMJSJVNJOPMEFSFNFSHFODZEFQBSUNFOUQBUJFOUTEJTDIBSHFEIPNFF⒎FDU
+POTVSWJWBM+"N(FSJBUS4PDr<ᶛ>
+ʣ(PO[ÂMF[.
+.BSUÍOF[(
+$BMEFSÓO+
+FUBM*NQBDUPGEFMJSJVNPOTIPSUUFSNNPSUBMJUZJOFMEFSMZJOQBUJFOUTB
+QSPTQFDUJWFDPIPSUTUVEZ1TZDIPTPNBUJDTr<ᶛ>
+ʣ)FZNBOO"
+3BEULF'
+4DIJFNBOO"
+FUBM%FMBZFEUSFBUNFOUPGEFMJSJVNJODSFBTFTNPSUBMJUZSBUFJOJOUFOTJWFDBSF
+VOJUQBUJFOUT+*OU.FE3FTr<ᶛ>
+ʣ%FWMJO+8
+4LSPCJL:
+(ÉMJOBT$
+FUBM$MJOJDBMQSBDUJDFHVJEFMJOFTGPSUIFQSFWFOUJPOBOENBOBHFNFOUPGQBJO
+
+BHJUBUJPOTFEBUJPO
+EFMJSJVN
+JNNPCJMJUZ
+andsleepdisruptioninadultpatientsintheICUCritCareMed
+Fr<ᶗ>
+ʣ/FVGFME,+
+-FPVUTBLPT+.
+4JFCFS'&
+FUBM0VUDPNFTPGFBSMZEFMJSJVNEJBHOPTJTBGUFSHFOFSBMBOFTUIFTJBJOUIF
+FMEFSMZ"OFTUI"OBMHr<ᶛ>
+ʣ7FJHB%
+-VJT$
+1BSFOUF%
+FUBM1PTUPQFSBUJWFEFMJSJVNJOJOUFOTJWFDBSFQBUJFOUTSJTLGBDUPSTBOEPVUDPNF3FW#SBT
+"OFTUFTJPMr<ᶛ>
+ʣ/FVGFME,+
+-FPVUTBLPT+.
+0I&
+FUBM-POHUFSNPVUDPNFTPGPMEFSBEVMUTXJUIBOEXJUIPVUEFMJSJVNJNNFEJBUFMZ
+BGUFSSFDPWFSZGSPNHFOFSBMBOFTUIFTJBGPSTVSHFSZ"N+(FSJBUS1TZDIJBUSZr<ᶛ>
+ʣ,BJO[&
+4UV⒎,
+,BIM6
+FUBM*NQBDUPGQPTUBOFTUIFTJBDBSFVOJUEFMJSJVNPOTFMGSFQPSUFEDPHOJUJWFGVODUJPOBOE
+QFSDFJWFEIFBMUITUBUVTBQSPTQFDUJWFPCTFSWBUJPOBMDPIPSUTUVEZ2VBM-JGF3FTr<ᶛ>
+ʣ4QSPOL1&
+3JFLFSL#
+)PGIVJT+
+etalOccurrenceofdeliriumisseverelyunderestimatedintheICUduringdaily
+DBSF*OUFOTJWF$BSF.FEr<ᶛ>
+ʣ:BOBNBEBMB.
+8JFMBOE%
+)FqJO.5&EVDBUJPOBMJOUFSWFOUJPOTUPJNQSPWFSFDPHOJUJPOPGEFMJSJVNBTZTUFNBUJD
+SFWJFX+"N(FSJBUS4PDr<ᶘ>
+ʣ(FTJO(
+3VTTFMM##
+-JO"1
+FUBM*NQBDUPGBEFMJSJVNTDSFFOJOHUPPMBOENVMUJGBDFUFEFEVDBUJPOPOOVSTFT`
+参考文献
+[[p47]]
+47
+LOPXMFEHFPGEFMJSJVNBOEBCJMJUZUPFWBMVBUFJUDPSSFDUMZ"N+$SJU$BSFFr<ᶛ>
+ʣWBO7FMUIVJKTFO&-
+;XBLIBMFO4.(
+8BSOJFS3.+
+FUBM$BOFEVDBUJPOJNQSPWFDMJOJDBMQSBDUJDFDPODFSOJOHEFMJSJVNJO
+PMEFSIPTQJUBMJTFEQBUJFOUT 3FTVMUTPGBQSFUFTUQPTUUFTUTUVEZPOBOFEVDBUJPOBMJOUFSWFOUJPOGPSOVSTJOHTUB⒎#.$
+.FE&EVD<ᶛ>
+ʣ-ZODI&1
+-B[PS."
+(FMMJT+&
+FUBM5IFJNQBDUPGQPTUPQFSBUJWFQBJOPOUIFEFWFMPQNFOUPGQPTUPQFSBUJWFEFMJSJVN
+"OFTUI"OBMHr<ᶛ>
+ʣ7BVSJP-&
+4BOET-1
+8BOH:
+FUBM1PTUPQFSBUJWFEFMJSJVNUIFJNQPSUBODFPGQBJOBOEQBJONBOBHFNFOU"OFTUI
+"OBMHr<ᶛ>
+ʣ.PSSJTPO34
+.BHB[JOFS+
+(JMCFSU.
+FUBM3FMBUJPOTIJQCFUXFFOQBJOBOEPQJPJEBOBMHFTJDTPOUIFEFWFMPQNFOUPG
+EFMJSJVNGPMMPXJOHIJQGSBDUVSF+(FSPOUPM"#JPM4DJ.FE4DJr<ᶛ>
+ʣ-FVOH+.
+4BOET-1
+-JN&
+FUBM%PFTQSFPQFSBUJWFSJTLGPSEFMJSJVNNPEFSBUFUIFF⒎FDUTPGQPTUPQFSBUJWFQBJOBOE
+PQJBUFVTFPOQPTUPQFSBUJWFEFMJSJVN "N+(FSJBUS1TZDIJBUSZr<ᶛ>
+ʣ'JTDIFS5
+)PTJF"
+-VDLFUU5
+FUBM4USBUFHJFTGPSQBJOBTTFTTNFOUJOBEVMUQBUJFOUTXJUIEFMJSJVNBTDPQJOHSFWJFX+
+1BJO4ZNQUPN.BOBHFrF<ᶘ>
+ʣ'FBTU"3
+8IJUF/
+-PSE,
+FUBM1BJOBOEEFMJSJVNJOQFPQMFXJUIEFNFOUJBJOUIFBDVUFHFOFSBMIPTQJUBMTFUUJOH"HF
+"HFJOHr<ᶛ>
+ʣ)PSHBT"-
+ElliottAF
+.BSTJTLF.
+FUBM1BJOBTTFTTNFOUJOQFSTPOTXJUIEFNFOUJBSFMBUJPOTIJQCFUXFFOTFMGSFQPSU
+BOECFIBWJPSBMPCTFSWBUJPO+"N(FSJBUS4PDr<ᶛ>
+ʣ%VQSFZ.4
+%JKLTUSB,FSTUFO4."
+;BBM*+
+FUBM0QJPJEVTFJODSFBTFTUIFSJTLPGEFMJSJVNJODSJUJDBMMZ*MMBEVMUT
+JOEFQFOEFOUMZPGQBJO"N+3FTQJS$SJU$BSF.FEr<ᶚ>
+ʣ-FVOH+.
+4BOET-1
+1BVM4
+FUBM%PFTQPTUPQFSBUJWFEFMJSJVNMJNJUUIFVTFPGQBUJFOUDPOUSPMMFEBOBMHFTJBJOPMEFS
+TVSHJDBMQBUJFOUT "OFTUIFTJPMPHZr<ᶛ>
+ʣ'BOFMMJ"
+#BM[BOJ&
+.FNUTPVEJT4
+FUBM3FHJPOBMBOFTUIFTJBUFDIOJRVFTBOEQPTUPQFSBUJWFEFMJSJVNTZTUFNBUJD
+SFWJFXBOENFUBBOBMZTJT.JOFSWB"OFTUFTJPMr<ᶘ>
+ʣ4VCSBNBOJBN#
+4IBOLBS1
+4IBFp4
+FUBM&⒎FDUPGJOUSBWFOPVTBDFUBNJOPQIFOWTQMBDFCPDPNCJOFEXJUIQSPQPGPM
+PSEFYNFEFUPNJEJOFPOQPTUPQFSBUJWFEFMJSJVNBNPOHPMEFSQBUJFOUTGPMMPXJOHDBSEJBDTVSHFSZUIF%&9"$&5
+SBOEPNJ[FEDMJOJDBMUSJBM+"."r<ᶙ>
+ʣ.V%-
+;IBOH%;
+8BOH%9
+FUBM1BSFDPYJCTVQQMFNFOUBUJPOUPNPSQIJOFBOBMHFTJBEFDSFBTFTJODJEFODFPGEFMJSJVN
+JOFMEFSMZQBUJFOUTBGUFSIJQPS,OFFSFQMBDFNFOUTVSHFSZBSBOEPNJ[FEDPOUSPMMFEUSJBM"OFTUI"OBMHr
+<ᶙ>
+ʣ8BOH8
+-J)-
+8BOH%9
+FUBM)BMPQFSJEPMQSPQIZMBYJTEFDSFBTFTEFMJSJVNJODJEFODFJOFMEFSMZQBUJFOUTBGUFS
+OPODBSEJBDTVSHFSZBSBOEPNJ[FEDPOUSPMMFEUSJBM$SJU$BSF.FEr<ᶙ>
+ʣ'VLBUB4
+,BXBCBUB:
+'VKJTIJSP,
+FUBM)BMPQFSJEPMQSPQIZMBYJTGPSQSFWFOUJOHBHHSBWBUJPOPGQPTUPQFSBUJWFEFMJSJVN
+JOFMEFSMZQBUJFOUTBSBOEPNJ[FE
+PQFOMBCFMQSPTQFDUJWFUSJBM4VSH5PEBZr<ᶙ>
+ʣ,IBO#"
+1FSLJOT"+
+$BNQCFMM/-
+FUBM1SFWFOUJOHQPTUPQFSBUJWFEFMJSJVNBGUFSNBKPSOPODBSEJBDUIPSBDJDTVSHFSZʕ
+BSBOEPNJ[FEDMJOJDBMUSJBM+"N(FSJBUS4PDr<ᶙ>
+ʣ,BMJTWBBSU,+
+EF+POHIF+'
+#PHBBSET.+
+FUBM)BMPQFSJEPMQSPQIZMBYJTGPSFMEFSMZIJQTVSHFSZQBUJFOUTBUSJTLGPS
+EFMJSJVNBSBOEPNJ[FEQMBDFCPDPOUSPMMFETUVEZ+"N(FSJBUS4PDr<ᶙ>
+ʣ/FVGFME,+
+:VF+
+3PCJOTPO5/
+FUBM"OUJQTZDIPUJDNFEJDBUJPOGPSQSFWFOUJPOBOEUSFBUNFOUPGEFMJSJVNJO
+IPTQJUBMJ[FEBEVMUTBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+"N(FSJBUS4PDr<ᶘ>
+ʣ5BNQJ33
+5BNQJ%+
+(IPSJ","DFUZMDIPMJOFTUFSBTFJOIJCJUPSTGPSEFMJSJVNJOPMEFSBEVMUT"N+"M[IFJNFST%JT
+0UIFS%FNFOr<ᶘ>
+ʣWBO&JKL..
+3PFT,$
+HoningML
+FUBM&⒎FDUPGSJWBTUJHNJOFBTBOBEKVODUUPVTVBMDBSFXJUIIBMPQFSJEPMPO
+EVSBUJPOPGEFMJSJVNBOENPSUBMJUZJODSJUJDBMMZJMMQBUJFOUTBNVMUJDFOUSF
+EPVCMFCMJOE
+QMBDFCPDPOUSPMMFESBOEPNJTFE
+USJBM-BODFUr<ᶙ>
+ʣ-JV8
+8BOH:
+8BOH+
+FUBM&⒎FDUTPGHMVDPDPSUJDPJETPOQPTUPQFSBUJWFEFMJSJVNJOBEVMUQBUJFOUTVOEFSHPJOHDBSEJBD
+TVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT$MJO5IFSr<ᶘ>
+ʣ-JV9
+9JF(
+;IBOH,
+FUBM%FYNFEFUPNJEJOFWTQSPQPGPMTFEBUJPOSFEVDFTEFMJSJVNJOQBUJFOUTBGUFSDBSEJBDTVSHFSZ
+BNFUBBOBMZTJTXJUIUSJBMTFRVFOUJBMBOBMZTJTPGSBOEPNJ[FEDPOUSPMMFEUSJBMT+$SJU$BSFr<ᶘ>
+ʣ8V.
+-JBOH:
+%BJ;
+FUBM1FSJPQFSBUJWFEFYNFEFUPNJEJOFSFEVDFTEFMJSJVNBGUFSDBSEJBDTVSHFSZBNFUBBOBMZTJTPG
+SBOEPNJ[FEDPOUSPMMFEUSJBMT+$MJO"OFTUIr<ᶘ>
+ʣ1BUFM.
+0OXPDIFJ%/
+%FTBJ/*OGMVFODFPGQFSJPQFSBUJWFEFYNFEFUPNJEJOFPOUIFJODJEFODFPGQPTUPQFSBUJWF
+EFMJSJVNJOBEVMUQBUJFOUTVOEFSHPJOHDBSEJBDTVSHFSZ#S+"OBFTUIr<ᶘ>
+参考文献
+[[p48]]
+48
+ʣ2JO$
++JBOH:
+-JO$
+FUBM1FSJPQFSBUJWFEFYNFEFUPNJEJOFBENJOJTUSBUJPOUPQSFWFOUEFMJSJVNJOBEVMUTBGUFSOPO
+DBSEJBDTVSHFSZBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT+$MJO"OFTUI<ᶘ>
+ʣ"CSBIB*
+5SPUUB'
+3JNMBOE+.
+FUBM&⒏DBDZPGOPOQIBSNBDPMPHJDBMJOUFSWFOUJPOTUPQSFWFOUBOEUSFBUEFMJSJVNJO
+PMEFSQBUJFOUTBTZTUFNBUJDPWFSWJFX5IF4&/"503QSPKFDU0/501TFSJFT1-P40OFF<ᶘ>
+ʣ#BOOPO-
+.D(BVHIFZ+
+7FSHIJT3
+FUBM5IFF⒎FDUJWFOFTTPGOPOQIBSNBDPMPHJDBMJOUFSWFOUJPOTJOSFEVDJOHUIF
+JODJEFODFBOEEVSBUJPOPGEFMJSJVNJODSJUJDBMMZJMMQBUJFOUTBTZTUFNBUJDSFWJFXBOENFUBBOBMZTJT*OUFOTJWF$BSF.FE
+r<ᶘ>
+ʣ1BHF7+
+&MZ&8
+(BUFT4
+FUBM&⒎FDUPGJOUSBWFOPVTIBMPQFSJEPMPOUIFEVSBUJPOPGEFMJSJVNBOEDPNBJODSJUJDBMMZJMM
+patientsʢHopeICUʣ?arandomised
+EPVCMFCMJOE
+QMBDFCPDPOUSPMMFEUSJBM-BODFU3FTQJS.FEr<ᶙ>
+ʣ%FWMJO+8
+3PCFSUT3+
+'POH++
+FUBM&GGJDBDZBOETBGFUZPGRVFUJBQJOFJODSJUJDBMMZJMMQBUJFOUTXJUIEFMJSJVNB
+QSPTQFDUJWF
+NVMUJDFOUFS
+SBOEPNJ[FE
+EPVCMFCMJOE
+QMBDFCPDPOUSPMMFEQJMPUTUVEZ$SJU$BSF.FEr
+<ᶙ>
+ʣ%FWMJO+8
+4LSPCJL:
+3JLFS33
+FUBM*NQBDUPGRVFUJBQJOFPOSFTPMVUJPOPGJOEJWJEVBMEFMJSJVNTZNQUPNTJODSJUJDBMMZ
+JMMQBUJFOUTXJUIEFMJSJVNBQPTUIPDBOBMZTJTPGBEPVCMFCMJOE
+SBOEPNJ[FE
+QMBDFCPDPOUSPMMFETUVEZ$SJU$BSF
+3<ᶛ>
+ʣ:BQJDJ/
+$PSVI5
+,FIMJCBS5
+FUBM%FYNFEFUPNJEJOFJODBSEJBDTVSHFSZQBUJFOUTXIPGBJMFYUVCBUJPOBOEQSFTFOU
+XJUIBEFMJSJVNTUBUF)FBSU4VSH'PSVN&r<7>
+ʣ3FBEF.$
+0`4VMMJWBO,
+#BUFT4
+FUBM%FYNFEFUPNJEJOFWTIBMPQFSJEPMJOEFMJSJPVT
+BHJUBUFE
+JOUVCBUFEQBUJFOUTB
+SBOEPNJ[FEQFOMBCFMUSJBM$SJU$BSF3<ᶙ>
+ʣ%BI-*"*OWFTUJHBUPST"VTUSBMJBOBOE/FX;FBMBOE*OUFOTJWF$BSF4PDJFUZ$MJOJDBM5SJBMT(SPVQ&GGFDUPG
+EFYNFEFUPNJEJOFBEEFEUPTUBOEBSEDBSFPOWFOUJMBUPSGSFFUJNFJOQBUJFOUTXJUIBHJUBUFEEFMJSJVNBSBOEPNJ[FE
+DMJOJDBMUSJBM+"."r<ᶙ>
+参考文献

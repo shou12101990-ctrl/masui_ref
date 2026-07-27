@@ -1,0 +1,1230 @@
+
+[[p1]]
+ংจ
+[[p2]]
+序文
+◆1 JRC（日本版）ガイドライン 2020
+までの作成経過
+1 JRC 蘇生ガイドライン 2010 から
+2020 へ
+国際蘇生連絡委員会（International Liaison Commit-
+tee on Resuscitation ：ILCOR）は 2005 年に国際コンセ
+ンサス〔International Consensus on Cardiopulmonary
+Resuscitation（CPR）and Emergency Cardiovascular
+Care（ECC）Science With Treatment Recommenda-
+tions（CoSTR）〕を発表し，このコンセンサスに基づき
+ILCOR 加盟各国がそれぞれのガイドラインを作成した．
+2010 年からは日本蘇生協議会（Japanese Resuscitation
+Council ：JRC ）がアジア 蘇生協議会（Resuscitation
+Council of Asia ：RCA）の一員として ILCORに加盟し
+て CoSTR 作成に正式メンバーとして参画し，JRC 蘇生
+ガイドライン 2010を作成した 1．この JRC 蘇生ガイド
+ライン 2010は，近代 CPRが誕生して 50 年の節目に出
+版された意味と JRCが RCAを介して，ILCORの一員
+として初めて CoSTRを得て，日本独自のガイドライン
+を作成したという歴史的に意義深いガイドラインであっ
+た．JRCが ILCORの一員となれたのは ，RCAを介し
+てではあるが，この組織の立ち上げには，初代 RCA 会
+長となられた JRC 名誉会長の帝京大学名誉教授の岡田
+和夫先生の身を削るようなご 尽力の賜物である．また，
+CoSTR2010 作成に日本から ILCORに参画された方々
+の御尽力にも深く感謝するものである．
+JRC 蘇生ガイドライン 2015は，CoSTRを基に日本
+の地域性を考慮したガイドラインとなった 2．特に，救
+命の連鎖の 1つ目のリングに 2010 年のそれと同様に心
+停止の予防，兆候の把握を入れてあり ，JRC 蘇生ガイ
+ドライン 2015が国際的にみて 特徴的なものとなった ．
+さらに，将来の RCAガイドラインの作成を意図し，市
+民向けの BLSアルゴリズムの 部分のみではあるが ，今
+回初めてアジア諸国の事情も考慮し作成されたガイドラ
+インとなった，その意味でも意義深いものであった．
+2017 年から ILCORは迅速な対応をするため，これま
+で 5 年ごとの CoSTR 改訂であった 方針を変更した 3．
+2015 年までのように 5 年を待つのではなく，1 年ごとに
+CoSTR 集として発表され，重要なトピックについて 迅
+速な推奨と提案がなされることになった ．この CoSTR
+発表を受けて，その都度ガイドラインを 改訂する（up-
+date）方法と，これまでどおり 5 年ごとに改訂する方法
+のいずれを選択するのかは各国あるいは各地域の蘇生協
+議会の判断に委ねられた．また 2015 年から採用された
+国際的なガイドライン 作成方法である GRADEシステ
+ムは 2017 年以降も継続して使用された．JRCは，RCA
+の方針に沿って，5 年ごとのガイドライン改訂サイクル
+を維持するとともに，その都度 ILCORから発表される
+CoSTRを翻訳し JRCの解釈を加え，ガイドライン変更
+の必要性の有無とともにホームページで公開することに
+した 4 ．これらの ILCOR に 沿った 作 業 部 会は 6つ
+（BLS，ALS，小児，新生児，EIT，First Aid ）で，そ
+れに急性冠症候群（ACS），脳神経蘇生（NR），妊産婦
+蘇生（Maternal ）の 3つの作業部会を JRC 独自に設定
+して，GRADEシステムを 用いてガイドライン 作成を
+行った．2020 年 3 月からガイドライン 作成を各作業部
+会で開始し，10 月にパブリックコメントを 求めるため
+ドラフト版を 1か月間ホームページで公開し，2021 年 2
+月にガイドラインを 出版する予定とした．2020 年 1 月
+からの COVID-19 感染対策に多くの作業部会メンバー
+が参画したこと ，対面での編集会議の開催が困難とな
+り，全て Web 会議に変更を余儀なくされて，作業の遅
+延が生じガイドラインの出版遅延となった．それでも作
+業は着々と進められ，2021 年 3 月末にドラフト 版全体
+の公開，外部委員の方々からのコメントやパブリックコ
+メントをいただき ，修正後に 6 月の書籍版発刊に至っ
+た．作業部会メンバーのご尽力に深謝する．
+◆2 わが国の心停止の状況
+1 院外心停止
+わが国では，2005 （平成 17）年 1 月より総務省消防
+庁によって，救急隊員の関わる全ての院外心停止傷病者
+の蘇生記録を国際的に標準化されたウツタイン様式を用
+いて 5-8 集計する取り組みが実施されている ．令和 2 年
+2 JRC 蘇生ガイドライン 2020
+[[p3]]
+版救急・救助の現況（総務省消防庁）によれば，令和元
+年（2019 年）に消防機関が搬送した院外心停止傷病者
+数は 126,271 人である 9．心停止傷病者数は増加傾向に
+あり，特に 80 歳以上の増加が著しい．一方，消防機関
+が実施する応急手当普及講習の修了者数は年々増加し，
+平成 29 年（2017 年）には 190 万人を超えた．これらの
+取り組みの結果，令和元年に救急搬送の対象となった心
+停止傷病者の 50.7％において，市民による応急手当（胸
+骨圧迫・人工呼吸・AEDによる電気ショック）が実施
+されている．心停止傷病者の 1か月後生存率および社会
+復帰率は年々上昇し，令和元年（2019 年）に救急搬送
+された心停止傷病者のうち，心原性かつ市民により目撃
+されたものの 1か月後生存率は 13.9 ％と，平成 22 年
+（2010 年）中と比べて約 1.4 倍となっている ．また 1か
+月後社会復帰率についても ，9.0 ％であり ，平成 22 年
+（2010 年）と比べて約 1.5 倍となっている ．心原性かつ
+市民により目撃のあった心停止傷病者における，市民に
+よる応急手当の実施率は令和元年（2019 年）において
+57.9％と増加しており，救命率の向上につながる大きな
+要因となっている．同群における市民による AEDによ
+る電気ショックの件数は，令和元年（2019 年）に 1,311
+件と年々増加しており，AEDが公共施設や事業所，学
+校等に広く普及してきた成果と考えられる．
+院外心停止傷病者に関するウツタイン様式を用いた記
+録集計はヨーロッパ，北米，アジア，オセアニアなど諸
+外国においても 進められている ．ILCORはエビデンス
+に基づいたアプローチで院外および院内心停止からの生
+存率を向上させることを目的に，Research and Regis-
+try Working Group を発足させ，世界中の院外心停止
+の実態を把握するため 16の国と地域を対象に調査を
+行った．その報告によると ，バイスタンダー CPR 実施
+率は 19.1 ～79.0 ％，AEDによる 電気ショックは 2.0 ～
+37.4％，市民により目撃された心室細動を有する傷病者
+の生存退院率または 1か月後生存率は 11.7～47.4％，脳
+機能良好な状態での生存退院率または 1か月後生存率は
+9.9 ～33.3 ％と国や地域によって ，バイスタンダー CPR
+や生存率に大きなばらつきがあることが示された 10．わ
+が国は国家規模でデータに基づく病院前救急医療体制の
+改善を実現してきたが，今後も，継続的なデータ収集と
+客観的なデータに 基づいた 改善のプロセスが 求められ
+る．
+2 院内心停止
+院外心停止同様に，院内心停止症例を記録する院内ウ
+ツタイン様式が 1997 年に提唱されたが，病院間の異質
+性が高いことや項目数が多く現実的に収集困難であった
+ことなどから十分活用されてこなかった．その結果，院
+外心停止に比べて院内心停止に関するエビデンスは乏し
+い状態が続いている．そこで ILCORは，項目や定義を
+大幅に見直し，2019 年 9 月に院内ウツタインの 改訂版
+を発表した 11, 12 ．この改訂された様式を用いた院内心停
+止の登録が各国で進むことで，院内心停止のエビデンス
+の創出が期待されている．
+米国では 1999 年から National Registry of Cardiopul-
+monary Resuscitation （NRCPR）が開始され，現在 Get
+With The Guidelines ®-Resuscitation （GWTG-R ）
+（https://www.heart.org/en/professional/quality-im
+provement/get-with-the-guidelines/get-with-the-guide
+lines-resuscitation ）として，院内で発生した心停止症
+例に関するデータを集め，エビデンスを創出する全国規
+模の登録システムが整備されている．
+わが国における院内心停止レジストリについては，横
+山らによって 2008 年 1 月～2009 年 12 月に 12 施設 491
+人の成人が登録されたコホート 研究（J-RCPR ）が実施
+された
+13 ．院内心停止発見時の場所は，一般病棟が
+54.0％，ICUが 25.4 ％であった ．初期 ECG 調律は除細
+動適応波形が 28.1％，心静止は 29.5％，無脈性電気活動
+（PEA ）は 41.1 ％，AEDが使用された 割合は 5.4%で
+あった．心停止の直接原因は致死的不整脈が 30.6%，呼
+吸不全が 26.7%，低血圧が 15.7%であった．脳機能良好
+な状態での 1か月後生存率は 21.4%であった．院内心停
+止の半数が一般病棟で起こっていることを鑑みると，日
+常的に蘇生に従事する者のみならずすべての医療従事者
+が少なくとも一次救命処置を速やかに実施できるように
+トレーニングを行うことが，院内心停止症例の生存率向
+上に寄与すると言える．また，院内心停止については不
+整脈以外にも頻度の高い低血圧や呼吸器疾患への対応も
+求められる．
+2015 年には，日本集中治療学会，日本臨床救急医学
+会による日本院内救急検討委員会〔In-Hospital　Emer-
+gency Registry in Japan （IHER-J）〕が立ち上げられ，
+Rapid response system （RRS）と院内心停止の現状と
+プロセス，アウトカムの情報を収集する取り組みが実施
+されている（https://www.ihecj.jp/ ）．今後，院内心停
+止症例においても蘇生記録の収集が進み，エビデンスに
+基づいた改善を実現することが求められる．
+一方「循環器疾患等の救命率向上に資する効果的な救
+急蘇生法の普及啓発に関する 研究」（厚生労働科学研
+究：主任研究者 丸川征四郎）によれば，小児の院内心
+停 止の 直 接 原 因は 循 環 不 全 （ 51 ％）， 呼吸 不 全
+（30.2 ％），不整脈（22.4 ％），代謝電解質異常（20.3 ％）
+の順となっている ．さらに発見時の ECG 所見は成人で
+は PEAが 41％と多かったのに対して，小児では徐脈が
+40％と最も多かった ．また心停止の直接原因に関して
+は，低血圧（54％），呼吸不全（38％），不整脈（20％）
+2 わが国の心停止の状況
+3
+[[p4]]
+であり，ショックや呼吸原性心停止に対する対応が成人
+に比しても一層重要であることが明らかとなった．
+同研究で清水らは，小児ウツタイン様式にも対応した
+NRCPR 最新版を自施設における小児院内心停止症例に
+適用して報告したが，これは小児心停止についての，わ
+が国で初めての小児ウツタイン様式に準拠した研究報告
+である．同時期に同様の形態での報告がなされた米国・
+フィラデルフィア 小児病院との比較では，24 時間生存
+率と生存退院率の両者において上記 2 施設間で統計学的
+有意差は認められず，日米間，施設間の客観的比較の有
+用性も確認された．こうしたレジストリを，わが国全国
+レベルでの小児や成人の院内心停止レジストリとして発
+展させる事業が現在進行中である．また，国際共同研究
+で小児心停止患者に対する救命処置の質と患者転帰の関
+係性を検討し始めている 14．この共同研究にはわが国か
+らも数施設が参加し，救命処置の質の記述のみならず ，
+蘇生事象のデブリーフィング 15などの 品質改善プログ
+ラムの導入も開始している．
+◆3 JRC 蘇生ガイドライン 2020 の特
+徴：救命の連鎖と各作業部会の概要
+1 救命の連鎖
+心停止や窒息という生命の危機的状況に陥った傷病者
+や，これらが切迫している傷病者を救命し，社会復帰に
+導くためには，「救命の連鎖」が必要となる．JRCの提
+唱する救命の連鎖は，2015 年と同様に
+1．心停止の予防
+2．心停止の早期認識と通報
+3．一次救命処置（心肺蘇生と AED）
+4．二次救命処置と心拍再開後の集中治療
+の 4つの要素によって構成されている（図 1）．
+心停止の予防は，心停止や呼吸停止となる可能性のあ
+る傷病を未然に防ぐことである．例えば，小児では交通
+事故，窒息や溺水等による不慮の事故を防ぐことが重要
+となり，成人では急性冠症候群や脳卒中発症時の初期症
+状の気づきが重要であり，それによって心停止に至る前
+に医療機関で治療を開始することが可能になる．わが国
+では高齢者の窒息，入浴中の事故，熱中症等も重要な原
+因であり，これらを予防することも 重要である．また，
+心臓震盪を含む運動中の突然死予防も望まれる．
+早期認識は，突然倒れた人や，反応のない 人を見た
+ら，ただちに心停止を疑うことで始まる．心停止の可能
+性を認識したら，大声で叫んで応援を呼び，119 番通報
+を行って，自動体外式除細動器（automated external
+defibrillator ：AED）と蘇生器材を持った専門家や救急
+隊が少しでも早く到着するように努める．119 番通報す
+ることで 口頭指導により 適切なアドバイスも 受けられ
+る．
+一次救命処置（basic life support ：BLS）は，呼吸と
+循環をサポートする 一連の処置である ．BLSには胸骨
+圧迫と人工呼吸による心肺蘇生（cardiopulmonary re-
+suscitation ：CPR）と AEDの使用が含まれ，誰もがす
+ぐに行える処置であるが，心停止傷病者の社会復帰にお
+いては大きな役割を果たす．
+二次救命処置（advanced life support ：ALS）は，
+BLSのみでは 心拍が再開しない 患者に対して，薬物や
+໋ॲஔ
+ʢ৺ഏોੜͱ?AEDʣ
+໋ॲஔͱ
+ྍ
+図 1　救命の連鎖
+序文
+4 JRC 蘇生ガイドライン 2020
+[[p5]]
+医療機器を用いて行うものである．心拍再開後は，必要
+に応じて専門の医療機関で集中治療を行うことで社会復
+帰の可能性を高め，長期転帰の改善を期待しうる．
+2 各作業部会の概要
+JRC 蘇生ガイドライン 2020は全 10 章で構成されて
+いる．さらに COVID-19 での救命処置の対応について
+補遺として解説した．
+以下に各作業部会の概要を述べる．
+第 1 章　一次救命処置（Basic Life Support ：BLS）
+第 2 章　成人の二次救命処置（Advanced Life Sup-
+port：ALS）
+第 3 章　小児の蘇生（Pediatric Basic Life Support,
+Pediatric Advanced Life Support ：PBLS,
+PALS）
+第 4 章　新生児の蘇生（Neonatal Cardiopulmonary
+Resuscitation：NCPR）
+第 5 章　妊産婦の蘇生（Maternal Resuscitation ）
+第 6 章　急性 冠 症 候 群 （ Acute Coronary Syn-
+drome：ACS）
+第 7 章　脳神経蘇生（Neuroresuscitation：NR）
+第 8 章　ファーストエイド（First Aid ：FA）
+第 9 章　普及・教育のための方策（Education, Imple-
+mentation and Teams ：EIT）
+第10章　海外での課題
+補　遺　COVID-19への対策
+一次救命処置（BLS）では，アルゴリズムで心停止か
+どうかの判断に自信が持てなくても，心停止でなかった
+場合を恐れずに，ただちに CPRと自動体外式除細動器
+（AED）の使用を開始することを強調した．119 番通報
+により，救急車を呼ぶだけでなく，口頭指導を受けるこ
+との大切さを強調した．全ての市民が，心停止の疑われ
+るあらゆる 人に対して胸骨圧迫を行うこととした 上で，
+訓練を受けておりその技術と意思がある場合は，人工呼
+吸も行うこととした ．短時間の講習や，学校における
+CPR 教育の強化により受講機会を増やし，市民による
+CPRのさらなる実施率向上を目指した．
+二次救命処置（ALS ）では，医療従事者による BLS
+アルゴリズムの改訂を行った．病院内での心停止の救命
+率向上を目指して，必要な手順の強化をはかり日頃のト
+レーニングの必要性を強調した．また，高度な気道確保
+は地域メディカルコントロールにおける気管挿管成功率
+によりそのデバイス選択が異なることを強調した．アド
+レナリンはショック非適応リズムに対するできるだけ早
+期の投与が強い推奨となり，ショック適応リズムに対し
+ては初回除細動が不成功の場合の投与が提案された．さ
+らに ， ECPR の 有 用 性に 言 及し ， 自 己 心 拍 再 開
+（ROSC ）後の集中治療では体温管理療法（低体温療法
+を含む）や脳機能モニタリングなどの 重要性を強調し
+た．
+小児の蘇生（PBLS ，PALS ）では，JRC 蘇生ガイド
+ライン 2015に引き続き，手順を成人と共通にして，理
+解しやすくするとともに，少なくとも胸骨圧迫を実施す
+ることを前提に，人工呼吸を組み合わせた CPRを行う
+ことが望ましいとした．小児の一次救命処置における気
+道確保-人工呼吸-胸骨圧迫の手順と胸骨圧迫-気道確保-
+人工呼吸の手順との比較，蘇生中のアドレナリン投与の
+最初のタイミングと投与間隔，ROSC 後の小児の酸素濃
+度と二酸化炭素濃度の目標などのアップデートされたト
+ピックが含まれている．最も議論したトピックは，アド
+レナリン投与の最初のタイミングと投与間隔，敗血症性
+ショックの乳児・小児への輸液の投与などであった．
+新生児の蘇生（NCPR）での主な改正点は，出生前の
+ステップとしてブリーフィングの表記の追加，人工呼吸
+に引き続く胸骨圧迫時の酸素投与の表記の追加，アドレ
+ナリン投与優先から独立した表記，努力呼吸またはチア
+ノーゼの「ともにあり」から「どちらかあり」で安定化
+の 流れに 進むように 変 更した ． 安定 化の 流れでは
+「SpO2モニターを装着し必要時 CPAPまたは酸素投与」
+に変更，チアノーゼの 後に「（酸素化不良）」を追加，
+CPAPまたはフリーフロー 酸素投与を開始した後，新
+たな評価基準として「改善傾向あり」を追加した．介入
+後の評価で努力呼吸とチアノーゼ（酸素化不良）で「改
+善傾向なし」の場合は「原因検索索を行いながら対応を
+検討」に変更，蘇生後のケアは「注意深く呼吸観察を継
+続」のみに変更した．
+妊産婦の蘇生では，心停止アルゴリズムに妊産婦特有
+のものを加えるため，妊産婦心停止のアルゴリズムに必
+要なエビデンスとして ，子宮左方移動，死戦期帝王切
+開，横隔膜上の輸液路確保，局所麻酔薬中毒が疑われる
+場合の脂肪乳剤投与，高マグネシウム血症が疑われる際
+のカルシウム製剤投与について検討を行った．
+急性冠症候群（ACS ）では，プレホスピタルから 救
+急室までの推奨と提案に主眼を置き，急性心筋梗塞の発
+症から治療までの時間を短縮するために，市民が早く症
+状に気づいて 119 番通報を行い，消防機関，医療機関の
+連携を強化することの重要性を強調した．特に救急隊か
+らの 12 誘導 ECG 情報の事前通知の重要性や高感度ト
+ロポニンと重症度分類から ACSの除外に関する推奨と
+提案を行った．
+脳神経蘇生（NR）では，救命救急部門や救急搬送に
+関わる，頭部外傷，脳卒中，症候性てんかんや，特に気
+道呼吸管理が重要である重症筋無力症などの神経筋疾患
+を扱った．病院前救護から初期診療，さらには ICU 入
+院までのトピックスや，初期治療・初期蘇生に関わるト
+3 JRC 蘇生ガイドライン 2020 の特徴：救命の連鎖と各作業部会の概要
+5
+[[p6]]
+ピックスを扱った．
+ファーストエイド （FA）では，急な病気に対するト
+ピック，けがに対するトピックを掲載している．法的規
+制や教育体制の違いなどにより ，ILCORの推奨をわが
+国でそのまま実践することは困難な部分があるため，わ
+が国の状況に即して修正した JRCとしての 推奨を追記
+した．重要なトピックスは，低血糖に対するブドウ糖の
+投与方法，低血糖に対する糖を含む食品の摂取，熱中症
+に対する冷却法，アナフィラキシーの認識，アナフィラ
+キシーに対するアドレナリンの 2 回目の投与，脳卒中の
+認知，生命を脅かす重度の外出血に対する止血法，生命
+を 脅かす 四 肢 出 血に 対する 小 児 用の 止 血 帯の 種 類 ，
+ファーストエイドにおける簡易な単回脳震盪スコアリン
+グシステムなどである．
+普及・教育のための方策（EIT）は，わが国の事情を
+鑑み，いくつかの重要なトピックスを追加した．救命に
+影響するシステムの要因については，院外心停止の社会
+復帰率を高めるための 方策，PADプログラムに 関わる
+わが国における AED 普及の現状と課題，口頭指導の現
+状と改善に向けた取り組みについてのトピックスを補強
+した．院外心停止の社会復帰率を高めるための方策の中
+では ，わが 国の特徴として ，JRC 蘇生ガイドライン
+2010 以降継続的に，胸骨圧迫のみの CPRトレーニング
+の普及，市民に対する心停止判断の教育，学校における
+BLS 教育の普及について具体的に言及している．また，
+通信指令員を含めた口頭指導実施者に対する教育と継続
+的な質の改善（continuous quality improvement ：CQI）
+の重要性についても引き続き触れている．心停止に陥る
+リスクのある 市民・院内患者の認識と予防の項は，小
+児・若年成人における心停止リスク因子のスクリーニン
+グについて記載を強化する等，アップデートを行ったほ
+か，入浴関連死や熱中症などわが国で比較的多く発生し
+防ぎうる心停止について概要を紹介し，予防的アプロー
+チの重要性を強調した．救命処置に関する倫理と法の項
+では，CoSTRの CQとして取り上げられた病院外内に
+おける救命処置中止基準（TOR）について JRCの見解
+を述べるとともに ，2015 年以降のわが国における 倫理
+と法に関する話題をまとめた．
+海外での課題では，わが国の実情にはそぐわないが蘇
+生科学の世界で重要なトピックスとして 取り上げられ
+た，オピオイド 中毒の蘇生治療，オピオイド 中毒の教
+育，資源の乏しい環境での CPRトレーニングである．
+◆4 今後の課題
+1990 年にノルウェーのウツタイン 修道院で開かれた
+国際蘇生委員会（ILCORの前身）で提唱された「ウツ
+タイン様式」は，心停止症例をその原因別に分類すると
+ともに ，心停止の目撃の有無，バイスタンダーによる
+CPRの有無やその開始時期，電気ショックの 有無など
+を標準化されたフォーマットに則って記録することによ
+り，生存率等の変遷や地域間・国際間での客観的比較を
+可能とする．わが国における本様式による院外心停止の
+集計は，1998 年 5 月に大阪府が導入して以来徐々に各
+地域で用いられるようになり ，2005 年 1 月 1 日からは
+全国の消防機関において一斉に導入されるに至った．こ
+れは世界最大のウツタイン統計であり，わが国における
+院外心停止症例の全例調査である．この集計により，毎
+年 10 万件にも上る膨大なデータが 集められ，心停止の
+状況が詳らかにされるとともに CPRの効果を科学的に
+評価することが可能となった．この膨大なデータを用い
+て実施された観察研究は，CoSTR2015 ，2020および本
+ガイドラインに大きく寄与した．
+救急救命士による ALSにおいては ，アドレナリン 投
+与と転帰の関連についての Hagiharaらの研究や，投与
+のタイミングと 転帰の関連についての Gotoら，Naka-
+haraらの研究，声門上気道デバイスや 気管内チューブ
+などの高度な気道確保器具の使用と転帰の関連について
+の Hasegawaら，Tanabeらの研究が用いられ，推奨と
+提案に使用された．一方で，世界に類を見ない多数の症
+例による観察研究であるがゆえに注意すべき点があるこ
+とが議論されている．第一に，症例数が多い研究は，臨
+床的な意義が疑問となるようなわずかな転帰の違いが統
+計的に有意な差となりやすいことである ．したがって ，
+介入によって 得られる 効果の価値を十分に評価した上
+で，推奨に値するかを議論する必要がある．第二に，観
+察研究の限界により，治療への反応の有無により次の段
+階の治療が選択されるようなプロトコールの評価におい
+てはプロペンシティスコア –マッチング 解析等の手法を
+用いても RCTと同様の評価が完全にはできない点であ
+る．このような場合，ある治療と転帰の関連がみられた
+としても，治療による結果であるとの因果関係を立証す
+ることは容易ではない．これらの課題を克服するため，
+各国で RCTが実施され，院外心停止に対するアドレナ
+リンの効果，高度な気道管理の有用性について検討がな
+され，JRC 蘇生ガイドライン 2020の推奨と提案に用い
+られた．ALSでの本文を参照いただきたい ．わが国で
+も，院外心停止に対するクラスターランダム化を含めた
+RCTを行うことが 今後の課題である．世界最大のデー
+タベースによって得られるエビデンスを発信し，さらに
+質の高い RCTによって検証することがわが 国の使命と
+考えられる．
+序文
+6 JRC 蘇生ガイドライン 2020
+[[p7]]
+◆5 利益相 反（COI ）管理委員会の設
+置と COI 管理について
+JRC 蘇生ガイドライン 2020に関わる利益相反につい
+て利益相反（Conflict of Interest ：COI）の申告は，JRC
+蘇生ガイドライン 2020の推奨内容が委員自身の研究成
+果に偏ったり，委員および家族，あるいは関係する企業
+に利益を誘導することを防止し，公平中立の立場で本ガ
+イドラインが作成されることを担保することが目的であ
+る．
+この目的のために ，編集委員長は，JRCの中にガイ
+ドライン作成とは独立した理事 1 名を委員長として指名
+し，JRC 最高顧問および 外部委員を委員とする 計 4 名
+よりなる COI 管理委員会を設置，COI 管理規定を制定，
+以下の作業を行うこととした．
+① JRC 蘇生ガイドライン 2020 策定に関わる全作業部
+会員およびその 協力者に，COIに関する適切な情
+報開示を求め，COI 申告書を受理．
+② 受理した COI 申告書を，特定の企業の利益誘導に
+よりガイドラインの 内容が歪められる 可能性がな
+いかという視点から，当委員会において審査．
+③ JRC 蘇生ガイドライン 2020にて新たに追記された
+記述内容について 利害関係を有する企業との関係
+の有無も念頭に置いて，審査を行う．
+COI 委員会は以上の審査を行った結果を，編集委員
+長に報告し，編集委員長，共同座長は，改善の必要が認
+められる時は当該者に対して改善を求めるものとした．
+おわりに
+本ガイドラインの目的は，エビデンスに基づいて綿密
+に作成された蘇生科学のコンセンサスとそれに関連する
+推奨治療を日常の救命活動に活かし，最も望ましい救急
+医療を提供することにある．医療従事者あるいは市民の
+意思決定を支援する役割を担うものであり，その活動を
+制限したり拘束するものではなく，まして医療訴訟の判
+断基準となるものではない．
+2015 年から GRADEシステムの 導入が図られ，より
+透明性の高いエビデンスの 評価となった ．JRC 蘇生ガ
+イドライン 2020は，その方法論や考え方を重要視し，
+GRADEシステムの評価を忠実に再現し，わが国への適
+用を取り入れ，また適用できない内容については今後の
+課題として明示した．本ガイドラインを基にして今後 5
+年間に救急医療の実践から蘇生科学が進展し，課題に関
+するわが国からのエビデンス発信により国際的な推奨と
+提案がさらに 改良され，2025 年の改定につながること
+が期待される．また，本ガイドラインを基にアジアでの
+蘇生アルゴリズムが統一されアジアの蘇生ガイドライン
+作成の一歩となり，またアジア各国における蘇生領域に
+おける救命率の向上に資するものと期待される．
+ガイドラインはエビデンスを基にした推奨治療の勧告
+である．それを活かすためには，市民あるいは医療従事
+者が日常の実践のための教育方法や日常の救命処置や診
+療に役立つ具体的な指針が必要である．日本救急医療財
+団からの『救急蘇生法の指針』や，また JRCからの今
+後の解説書などの出版により，わが国における CPRや
+救急医療の実践に供することになると考えられる．
+JRCは一般社団法人として 参画会員である 学会，団
+体とともに救急蘇生の研究推進と普及啓発を継続できる
+ような組織また財政的な基盤を確立し，わが国の研究成
+果に基づいて，わが国に適したガイドラインを作成し普
+及する努力を継続することが求められ，今後もその活動
+がさらに発展することが期待される．最後に，本ガイド
+ラインの作成にあたり貴重な時間を割いて多大な尽力を
+頂いたガイドライン作成委員会委員，関連諸学会をはじ
+めとする関係各位に心からの敬意と謝意を表する．
+文献
+1. JRC （日本版）ガイドライン 作成合同委員会．JRC 蘇生ガイドライ
+ン 2010．東京：へるす出版；2011．
+2. JRC 蘇生ガイドライン 2015 作成委員会．JRC 蘇生ガイドライン
+2015．東京：医学書院；2016．
+3. Morley PT, Atkins DL, Finn JC, et al. Evidence Evaluation Process
+and Management of Potential Conflicts of Interest ：2020 Interna-
+tional Consensus on Cardiopulmonary Resuscitation and Emer-
+gency Cardiovascular Care Science With Treatment
+Recommendations. Circulation 2020 ；142：S28-S40.
+4. 国際蘇生連絡委員会（ILCOR）による国際コンセンサス 2017-2020：
+JRCの方針. at https://www.japanresuscitationcouncil.org/ilcor
+costr/.（Accessed 2021 年 5 月 10 日）
+5. Jacobs I, Nadkarni V, Bahr J, et al. Cardiac arrest and
+cardiopulmonary resuscitation outcome reports
+：update and
+simplification of the Utstein templates for resuscitation regis-
+tries：a statement for healthcare professionals from a task force of
+the International Liaison Committee on Resuscitation （American
+Heart Association, European Resuscitation Council, Australian
+Resuscitation Council, New Zealand Resuscitation Council, Heart
+and Stroke Foundation of Canada, InterAmerican Heart Founda-
+tion, Resuscitation Councils of Southern Africa ）. Circulation 2004 ；
+110：3385-97.
+6. Jacobs I, Nadkarni V, Bahr J, et al. Cardiac arrest and
+cardiopulmonary resuscitation outcome reports ：update and
+simplification of the Utstein templates for resuscitation registries.
+A statement for healthcare professionals from a task force of the
+international liaison committee on resuscitation （American Heart
+Association, European Resuscitation Council, Australian Resuscita-
+tion Council, New Zealand Resuscitation Council, Heart and Stroke
+Foundation of Canada, InterAmerican Heart Foundation, Resusci-
+tation Council of Southern Africa ）. Resuscitation 2004；63：233-49.
+7. Perkins GD, Jacobs IG, Nadkarni VM, et al. Cardiac arrest and
+cardiopulmonary resuscitation outcome reports ：update of the
+Utstein Resuscitation Registry Templates for Out-of-Hospital
+Cardiac Arrest ：a statement for healthcare professionals from a
+task force of the International Liaison Committee on Resuscitation
+（American Heart Association, European Resuscitation Council,
+Australian and New Zealand Council on Resuscitation, Heart and
+Stroke Foundation of Canada, InterAmerican Heart Foundation,
+文献
+7
+[[p8]]
+Resuscitation Council of Southern Africa, Resuscitation Council of
+Asia）；and the American Heart Association Emergency Cardio-
+vascular Care Committee and the Council on Cardiopulmonary,
+Critical Care, Perioperative and Resuscitation. Circulation 2015 ；
+132：1286-300.
+8. Perkins GD, Jacobs IG, Nadkarni VM, et al. Cardiac Arrest and
+Cardiopulmonary Resuscitation Outcome Reports ：Update of the
+Utstein Resuscitation Registry Templates for Out-of-Hospital
+Cardiac Arrest ：A Statement for Healthcare Professionals From
+a Task Force of the International Liaison Committee on Resuscita-
+tion（American Heart Association, European Resuscitation Council,
+Australian and New Zealand Council on Resuscitation, Heart and
+Stroke Foundation of Canada, InterAmerican Heart Foundation,
+Resuscitation Council of Southern Africa, Resuscitation Council of
+Asia）；and the American Heart Association Emergency Cardio-
+vascular Care Committee and the Council on Cardiopulmonary,
+Critical Care, Perioperative and Resuscitation. Resuscitation
+2015；96：328-40.
+9. 総務省消防庁. 令和 2 年版救急・救助の現況 2020. at https://www.
+fdma.go.jp/pressrelease/houdou/items/c941509de3
+f85432709ea0d63bf23744756cd4a5.pdf. （Accessed 2021 年 5 月 10
+日）
+10. Kiguchi T, Okubo M, Nishiyama C, et al. Out-of-hospital cardiac
+arrest across the World ：First report from the International
+Liaison Committee on Resuscitation（ILCOR）. Resuscitation 2020 ；
+152：39-49.
+11. Nolan JP, Berg RA, Andersen LW, et al. Cardiac Arrest and
+Cardiopulmonary Resuscitation Outcome Reports ：Update of the
+Utstein Resuscitation Registry Template for In-Hospital Cardiac
+Arrest：A Consensus Report From a Task Force of the Interna-
+tional Liaison Committee on Resuscitation （American Heart Asso-
+ciation, European Resuscitation Council, Australian and New
+Zealand Council on Resuscitation, Heart and Stroke Foundation
+of Canada, InterAmerican Heart Foundation, Resuscitation Council
+of Southern Africa, Resuscitation Council of Asia ）. Circulation
+2019；140：e746-e57.
+12. Nolan JP, Berg RA, Andersen LW, et al. Cardiac Arrest and
+Cardiopulmonary Resuscitation Outcome Reports ：Update of the
+Utstein Resuscitation Registry Template for In-Hospital Cardiac
+Arrest：A Consensus Report From a Task Force of the Interna-
+tional Liaison Committee on Resuscitation （
+American Heart Asso-
+ciation, European Resuscitation Council, Australian and New
+Zealand Council on Resuscitation, Heart and Stroke Foundation
+of Canada, InterAmerican Heart Foundation, Resuscitation Council
+of Southern Africa, Resuscitation Council of Asia ）. Resuscitation
+2019；144：166-77.
+13. Yokoyama H, Yonemoto N, Yonezawa K, et al. Report from the
+Japanese registry of CPR for in-hospital cardiac arrest （J-RCPR）.
+b?i?QOPP?；VT：WPTLQQM
+14. Niles DE, Duval-Arnould J, Skellett S, et al. Characterization of
+Pediatric In-Hospital Cardiopulmonary Resuscitation Quality Me-
+trics Across an International Resuscitation Collaborative. Pediatr
+Crit Care Med 2018 ；19：421-32.
+15. Sweberg T, Sen AI, Mullan PC, et al. Description of hot debriefings
+after in-hospital cardiac arrests in an international pediatric quality
+improvement collaborative. Resuscitation 2018 ；128：181-7.
+序文
+8 JRC 蘇生ガイドライン 2020
+[[p9]]
+JRC 蘇生ガイドライン 2020 作成の方法論
+1 JRC 蘇生ガイドライン 2020 作成委
+員会の組織
+JRC 蘇生ガイドライン 2020 の作成にあたっては ，
+2010 年からの経験と実績を基礎に，2015 年から導入さ
+れた GRADEを引き続き使用し，ILCORの CoSTR 以
+外の推奨と提案の作成に使用した．さらに，これらの経
+験とノウハウを 今後に継承し，ILCORや RCA 連携を
+推進するために ，JRCから 推薦された ILCOR タスク
+フォース 参画のメンバーを 中心に構成され，JRC 参画
+学会からの支援，メンバー推薦にも配慮がなされた．
+以下，JRC 蘇生ガイドライン 2020 作成の経緯を概説
+する．
+2 ILCOR への参画とガイドライン作成
+委員会の設置
+JRC 蘇生ガイドライン 2020 作成は，2017 年からの
+ILCOR 会議に，RCAを通じ JRCから推薦された 8 名
+のメンバーがタスクフォースメンバーとして参加したこ
+とに端を発する．
+GRADEシステムの習得については，JRC 蘇生ガイド
+ライン 2015 作成時に，GRADE Working Group のメン
+バーである 相原守夫先生（相原内科医院，弘前），大田
+えりか先生（現，聖路加国際大学教授）から，GRADE
+による SysRev と質の評価方法について 指導を受け 1，
+さらに MINDS が世界の 13 番目の GRADE センター
+（Minds Tokyo GRADE Center ）2となり，そのスタッフ
+から具体的な指導を受けた．
+JRCガイドライン作成委員会は，編集委員長（1 名），
+編集委員（13 名）のもとに ，具体的な課題を担当する
+作業部会として JRC 加盟の担当学会から作業部会共同
+座長　22 名（BLS 2 名，ALS 5 名，PLS 3 名，NCPR 2
+名，Maternal 2 名，ACS 2 名，NR 2 名，FA 2 名，EIT
+2 名），作業部会委員 122 名（BLS 12 名，ALS 16 名，
+PLS 22 名，NCPR 12 名，Maternal 8 名，ACS 11 名，
+NR 21 名，FA 10 名，EIT 10 名）， 編集協力員 15 名
+（Maternal 5 名，ACS 2 名，NR 8 名），編集顧問 2 名，
+JRC 事務局員 1 名の総勢 176 名で構成された．
+3 GRADE によるエビデンスの質と推奨
+レベルの評価
+JRC 蘇生ガイドライン 2015は，CoSTR2015 を基盤
+として作成された．CoSTR2015は，ILCORが蘇生科学
+に関する文献を，GRADEを用いて克明に検索，吟味し
+て作成した文書で，蘇生の分野におけるエビデンスの集
+大成である ．CoSTR2020 は引き継ぎ GRADEを用い，
+JRC 蘇生ガイドライン 2020も同様の方法論を用いた．
+GRADEの方法論を概説する 3．
+GRADEは，エビデンスの質評価と勧告の方法に大き
+な変革をもたらし，これまでの個別研究ごとのエビデン
+スの 質評価ではなく ，コクランレビューのシステマ
+ティックレビュー （SysRev ）のような，複数のエビデ
+ンスをアウトカムごとに統合した body of evidence （エ
+ビデンス総体）を使って，推奨の強さを決定するもので
+ある．GRADEは，すでに多くの国際的な診療ガイドラ
+インに適用されている方法であり，国内の診療ガイドラ
+インにおいても GRADE を遵守したものが 増えてき
+た 2．
+1）PICOSTの決定
+ILCORのそれぞれのタスクフォースが ，2015 年で課
+題となったトピックあるいは 新たなトピックについて ，
+メンバー内での投票により優先順位をつけ，それぞれの
+臨 床 疑 問 （ clinical question ： CQ ）を 確 定した ．
+CoSTR2015と比較し，CoSTR2020では PICOに S・T
+が加わった 3．CoSTR2015の推奨と提案を残したトピッ
+クでは，表記が PICOであることに留意されたい．
+PICOSTとは，臨床疑問をより 具体的に整理するた
+めに，Population （Patients ）：患者（傷病者），Inter-
+vention ：介入方法，Comparator ：比較対照，Out-
+come：転帰（主要なアウトカム）， Study design：研究
+デザイン〔 例：RCTと RCT 以外の別など．また除外
+として，論文化されていない学会抄録，マネキンまたは
+シミュレーション研究，ナラティブレビュー，1 次デー
+タに基づかない論説または意見，動物実験および実験モ
+デル〕，Time frame ：検索期間もしくは検索日の頭文字
+をとったものであり，検索条件に必要な，英語抄録の有
+無，言語，文献検索の期間あるいは最終検索日を記載．
+GRADEにおいては複数のアウトカムを用意して重み
+9
+[[p10]]
+づけをした上でレビューを行うことに特徴があるが，最
+大 7つまでのアウトカムを選択することを基本とし，各
+アウトカムの重要性の評価を，タスクフォース内の合意
+のもとに，患者にとって，重大（7～9 点），重要（4～6
+点），重要でない（1～3 点）の 9 段階に分類した．この
+うち，重要でないアウトカムはエビデンス総体の確実性
+の評価対象にはならず，患者にとって主に重大なアウト
+カムが推奨決定のための対象とされた．
+2）文献検索
+文献抽出では，PICOST 形式のトピックスに 関する
+キーワードを 組み 合わせた 検 索 式が 重 要となる ．
+CoSTR2015 では，文献検索は ILCOR 専任のライブラ
+リアンにより 実施されたが ， CoSTR2020 では ，PI-
+COSTに応じた文献検索は ILCORから外部委託した情
+報専門家によって作成された 3．一部はトピックの 作業
+部会専門家と協力する蘇生協議会内部の情報専門家に
+よって行われた．検索式や論文の適格基準（組み入れ基
+準と除外基準）は事前にエビデンス評価エクスパートの
+査読を受け，妥当なものであるか検証された．承認が得
+られればエビデンス評価者のもとへ論文リストが提示さ
+れ，PICOの評価に適していると思われる論文を抄録や
+タイトルから絞り込み，絞り込まれた論文についてフル
+テキスト 論文を使用して GRADEに沿ったレビューが
+行われた ．介入に関連する一連のエビデンスに 対する
+GRADEアプローチでは ，研究を RCTと RCT 以外に
+分類する．非無作為化の比較試験，コホート研究，症例
+集積研究，前後比較研究，横断研究，症例報告，および
+その 他のタイプの 非無作為化研究を RCT 以外と見な
+す．無作為化が交絡（すなわち，介入群と対照群の間の
+予後因子の不均衡）から完全に研究を保護する唯一の方
+法であり，RCT 以外では最も厳密に実施された場合で
+も交絡が常に懸念事項であると判断される．統計的調整
+または層化分析の後になお存在する未知の交絡因子は，
+残留交絡として RCT 以外の限界とされている．
+文献抽出作業には 2 名の評価者がペアとなり独立して
+作業を行い，最終的には意見の一致が求められた．文献
+データベースとして ，通常 MEDLINE ，the Cochrane
+Library，Embaseが使用されている．
+3）文献評価システム
+CoSTR 2010 では，それぞれの文献を全て，3つのカ
+テゴリー，すなわち PICOに対して，支持する，反対す
+る，中立と分け，さらに ，それらの 論文の質を 5 段階
+（1～5）尺度により，3 段階（good, fair, poor ）に評価さ
+れた 4．しかし，この手法には，RCTから症例集積の観
+察研究，数学的モデルや実験データまで含んで評価がな
+され ，透明性や明確性に欠ける 点があった ．そこで ，
+CoSTR2015では，それまでのガイドライン 作成で行わ
+れていた個別研究ごとのエビデンスの 質評価ではなく，
+アウトカムごとのエビデンス総体の確実性として評価を
+行う GRADEが導入された 5．CoSTR2020 は，その方
+法が継承された 3．
+4）アウトカムごとのエビデンス総体の確実性の評価
+GRADEにおいては，アウトカムごとに複数の研究を
+横断的に統合したエビデンス総体の確実性を 8つの要因
+を使って評価する．すなわち ，治療介入に関する RCT
+や観察研究，治療や予後に関する研究に関しては 5つの
+グレードダウン要因があり，良質な観察研究に関しては
+3つのグレードアップ要因がある．診断精度や予後評価
+においても GRADEが用いられた ．GRADEプロセス
+では，エビデンスを 評価するプロセスは ，RCTである
+場合，一連のエビデンスの確実性は高いから始まる．観
+察研究である場合，一連のエビデンスの確実性は低いと
+して始まる．これは観察研究では，残留交絡の可能性が
+大きいと判断されるためである．この方法では，未知の
+交絡因子を再度評価することによって，交絡および選択
+バイアスのリスクを不適切に二重に評価してしまう危険
+性があることがあり ，最近の GRADEアプローチでは ，
+観察研究のエビデンスの 確実性を RCTと同様に高いか
+ら始める方法（risk of bias in nonrandomized studies of
+interventions， ROBINS-Iなど）も適用され始めた 6, 7 ．
+CoSTR2020の作業部会では，従来の方法と新しい方法
+が混在している場合がある．観察研究では，無作為化の
+欠如によるバイアス，つまり交絡と選択バイアスのリス
+クのために，一般に 2レベルのグレードダウンされるた
+め，結果的には低い確実性から開始する従来の方法と新
+しい方法では結果的には同様となることが多い．
+トピックが介入試験のような因果関係ではなく，関連
+性の解析である予後研究や精度研究では，エビデンスの
+確実性は高いから始まる．
+4）–1エビデンスの 確実性の評価を下げるグレードダウ
+ン 5 要因
+下記①～⑤の要因がある．それぞれ 3 段階（なし：0，
+深刻な：－1，非常に深刻な：－2）に評価し，“深刻な”
+では 1 段階グレードダウン，“非常に深刻な”では 2 段階
+グレードダウンを検討する．
+①バイアスのリスク（risk of bias ）
+バイアスのリスクは ，下記の 6つのドメインによ
+る評価を統合した研究の限界をさす ．GRADEに
+おけるバイアスのリスクの 評価は，まず個々の論
+文について行い（within studies），その後にアウト
+カムごとに統合した研究群（across studies ）につ
+いて行う．個々の論文について 低，不明，高の 3
+序文
+10 JRC 蘇生ガイドライン 2020
+[[p11]]
+段階に分ける．次に，研究群に対して 3 段階，深
+刻なバイアスのリスクなし ，（深刻な）バイアスの
+リスクあり ，非常に深刻なバイアスのリスクあり
+に分類する．
+個別研究のバイアスのリスク評価の 6ドメイン：
+ⅰ）適切な無作為化の方法が記載されていない
+（random sequence generations ）
+ⅱ）割り付けが 隠蔽化されていない （allocation
+concealment ）：組み入れる担当者が，次に組
+み入れられる 対象がどの群に属するのか 知っ
+ている場合に生じる．割り付けが，曜日，誕
+生日，カルテ 番号などで 実施するときに se-
+lection biasが生じやすい
+ⅲ）参加者や研究者，評価者などが 盲検化されて
+いない（blinding of outcome ）
+ⅳ）不完全なデータ 追跡（脱落率が高い）や in-
+tention-to-treat が適用されていない （incom-
+plete outcome data ）
+ⅴ）プロトコールどおりのアウトカムが 報告され
+ていない（selective outcome reporting ）
+ⅵ）早期終了などの他の問題がある（others）
+観察研究では，非無作為試験であるため ，上記の
+i-ⅲ）の評価が除かれるが，選択バイアスや交絡の
+バイアスで 深刻あるいは 非常に深刻と判定される
+ことが多い．
+② 非一貫性（inconsistency ）：研究間の異質性（het-
+erogeneity ）を示す．メタアナリシスの 結果から，
+点推定値が研究間で大きく異なり，信頼区間（CI）
+の重なりが 少ない．全研究での異質性検定で有意
+差があり （＜0.05 ），研究間の異質性検定 I2 値が
+高い．具体的には ，I2 値が 40 ％未満なら 低い，
+RO～UO％は中等度，TO～XO％はかなり?高い，VT～
+100％は著しく高いと考えられる．説明のつかない
+異質性がある場合には，（深刻な）非一貫性ありと
+する．
+③ 非直接性（indirectness ）：集団間の差異や介入の
+差異，アウトカム 指標の差異，アウトカムの 期間
+の差異，間接比較があれば ，その程度により （深
+刻な）非直接性があると判断する．
+④ 不精確さ（imprecision）：サンプルサイズやイベン
+ト数が少なく，そのために効果推定値の CIの幅が
+広いときには ，その結果は不精確と判断する．診
+療ガイドラインにおいては ，CIが治療を推奨する
+かしないかの臨床決断のための閾値をまたぐ場合，
+閾値をまたがないならば 最適情報量（例：総イベ
+ント発生数が 300 件未満，総サンプル数が 3,000 未
+満など）の場合には，不精確さがあると判断する．
+⑤ 出版バイアス（publication bias ）：研究が選択によ
+り偏って出版されることが 原因で本来のプラス 効
+果またはマイナス 効果が系統的に過小または 過大
+に評価されることをいう ．有意差のある 試験が，
+否定的な試験より報告されやすいという 偏りがあ
+り，メタアナリシスのファンネルプロットでの 目
+視評価や統計的手法による 非対称性を確認した場
+合に，出版バイアスがあると判断する．
+4）–2エビデンスの 確実性の評価を上げるグレードアッ
+プ 3 要因
+観察研究では，“低い”から開始して，グレードを上げ
+る 3つの要因を考慮する．通常 GRADEでは，何らか
+の原因でグレードダウンとなった観察研究のエビデンス
+の確実性の評価を上げることはしないのが原則である．
+① 効果の程度が大きい（large magnitude ）：大きい
+RR（相対リスク）＞2または＜0.5．
+② 用量反応効果がある（dose response effect ）：用量
+反応性がある 場合には 結果の確信を高めるため ，
+質を上げることがある．
+③ 特別な交絡因子の影響がある（confounders ）：全
+ての交絡因子が，明示された 効果を減少させる 方
+向へ働くにもかかわらず ，それでもなお 効果が認
+められた場合（またはその逆）．
+これら 5つのグレードダウン 要因と 3つのグレード
+アップ要因の 8 項目について ，RCTの場合には初期の
+エビデンスの確実性として「高」から開始して，－1な
+らグレードを 1 段階下げて中等度とし，－2なら 2 段階
+下げて低い，－3 以上なら 3 段階下げて非常に低いとす
+る．RCTではグレードアップは原則として検討しない．
+グレードダウン 要因とグレードアップ 要因に関して
+は，各評価を定量的に行ってはいけない ．つまり，－1
+と－1が 2つ存在したら，必ず 2 段階下げるということ
+ではない．エビデンスの確実性の評価に影響する要因は
+相加的だが（各要因の減少あるいは増加がその他全ての
+要因に加算され，それによって 1つのアウトカムに関す
+るエビデンスの 確実性が上下する），単純なポイント 計
+算によってエビデンスの確実性の評価が決定されるわけ
+ではない．
+エビデンス 総体に関する 8 要因の評価（quality as-
+sessment）と結果の要約（summary of findings ：SoF）
+から構成され，アウトカムごとにまとめられたものをエ
+ビデンスプロファイル 表と呼ぶ．本ガイドラインでは ，
+エビデンスプロファイル表が入手された場合に別途アク
+セスできるようにリンク先を呈示した．
+4）–3エビデンス総体の確実性のカテゴリー
+GRADEを使った，各アウトカムに関する最終的なエ
+ビデンス 総体の確実性は 4 段階に分類される ．JRC 蘇
+JRC 蘇生ガイドライン 2020 作成の方法論
+11
+[[p12]]
+生ガイドライン 2020においても CoSTR2020 を活かし
+て，この評価を付記している．
+GRADEにおける，エビデンスの確実性（4 段階）の
+各カテゴリーの意味は以下である．
+ 高い（high）：真の効果が効果推定値に近いという
+確信がある．
+ 中等度（moderate）：効果推定値に対し，中等度の
+確信がある ．真の効果が効果推定値に近いと考え
+られるが，大幅に異なる可能性もある．
+ 低い（low）：効果推定値に対する確信には限界が
+ある，真の効果は効果推定値と大きく異なるかも
+しれない．
+ 非常に低い（very low ）：効果推定値に対しほとん
+ど確信が持てない ．真の効果は，効果推定値とは
+大きく異なるものと考えられる．
+上記のエビデンスの 確実性の GRADEカテゴリーと
+定義が，CoSTR2020 における CoS （Consensus on
+Science ）に該当する．なお，複数のアウトカムにおい
+て，エビデンス総体の確実性が異なり，なおかつアウト
+カムが異なる方向（利益と害）を示している場合，アウ
+トカム全般にわたるエビデンスの 確実性は，「重大なア
+ウトカムに関するエビデンスの確実性の中で最低のもの
+を選択する」．全てのアウトカムが 同じ方向（利益，ま
+たは害のいずれか 一方）を示している場合は，「重大な
+アウトカムに関するエビデンスの確実性の中で，最高の
+ものを 選択する」というのが GRADEの重要なルール
+の 1つである．
+5）エビデンスから推奨へ
+臨床疑問に関連した治療的介入や治療方針の推奨レベ
+ルは，CoSTR2020における GRADE 表記の 2 段階（強
+い，弱い）に分類された．推奨の強さは 4つの要因を考
+慮して決定される．つまり，アウトカム全般にわたるエ
+ビデンスの確実性，望ましい効果と望ましくない効果の
+バランス，患者の価値観や好み，コストや資源の利用を
+考慮し，診療の推奨の方向性（する・しない）と推奨の
+強さ（強い推奨，弱い推奨）が策定された．
+強い推奨（We recommend ，推奨する）とは，介入
+による望ましい効果（利益）が望ましくない効果（害・
+負担・コスト）を上回る，または下回る確信が強い．患
+者のほぼ全員が，その状況下において推奨される介入を
+希望し，希望しない人がごくわずかである．医療従事者
+のほぼ全員が推奨される介入の実施を受け入れる．政策
+作成者にとっては ，ほとんどの 状況下で推奨事項をパ
+フォーマンス指標として政策に採用することが可能であ
+る．
+弱い推奨（We suggest ，提案する）とは，介入によ
+る望ましい 効果（利益）が望ましくない 効果（害・負
+担・コスト）を上回る，または下回る確信が弱い．患者
+の多くが，その状況下において提案される介入を希望す
+るが，希望しない人も少なくない．医療従事者が，患者
+が意思決定できるように介入を提案しているかは，医療
+の質の基準やパフォーマンス指標として利用できるだろ
+う．政策作成者にとっては，政策決定のためには，多数
+の利害関係者を巻き込んで実質的な議論を重ねる必要が
+ある．
+この推奨は，CoSTR2020における Treatment recom-
+mendation （TR）に該当する．推奨作成のためのさま
+ざまな過程において，タスクフォース内で議論され，合
+意形成が行われた．エビデンスが不十分で推奨もしくは
+提 案の 作 成に 至らなかったトピックについては ，
+GRADEシステムでは地域や施設でこれまで行われてき
+た方法を用いることに 同意している ．ただし，CoSTR
+2020では必ずしも明示されていないために ，JRC 蘇生
+ガイドライン 2020では必要とされる補完を行った．
+原則として，CoSTR2020の「推奨と提案」を採用し
+たが，法的規制や教育体制の違いなどにより，推奨をそ
+のままわが 国で実践することが 難しい 場合には，JRC
+の見解でその差異を解説した．
+推奨と提案には，エビデンスの確実性と推奨の組み合
+わせを 容易に理解するために ，GRADEワーキンググ
+ループが提唱している略語表記を付記した 1．強い推奨
+には 1，弱い推奨には 2と表記し，エビデンスの確実性
+には，高いには A，中等度には B，低いには C，非常に
+低いには Dを表記した．例：強い推奨で，エビデンス
+の確実性が高い場合には，Grade 1Aと表記した．
+4 エビデンスレビューの方法
+CoSTR2020は ILCORが 2017 年から毎年発表してい
+る CoSTRの第 4 弾である．
+CoSTR2020は SysRev，スコーピングレビュー（Scop-
+Rev），エビデンスアップデート（EvUp）という 3つの
+重要なエビデンス 評価方法をもとに 作られた 3 ．各ト
+ピックには，この 3つのいずれに該当するか，略語表記
+を付けた．
+1） SysRev
+SysRevは厳密な評価法であり，特定の臨床的疑問
+に答えるための厳格な方法論を用いて行われる．各タ
+スクフォースは SysRevの結果を用いて，推奨と提案
+に関わるコンセンサスを 作成した．SysRevは知識統
+合ユニット，SysRevの専門家，タスクフォースが 担
+当し，多くの場合，個別に SysRev が出版された 3．
+SysRevを行うにあたり ，回答すべき 臨床疑問は PI-
+COST 形式〔患者（傷病者），介入方法，比較対照，
+序文
+12 JRC 蘇生ガイドライン 2020
+[[p13]]
+転帰（主要なアウトカム ），研究デザイン，検索期間
+もしくは検索日〕で表現された．エビデンスを特定す
+るために用いた方法は，Preferred Reporting Items
+for Systematic Reviews and Meta-Analyses （PRIS-
+MA：http://www.prisma-statement.org ）に基づい
+た．エビデンス 評価の手法は GRADEワーキンググ
+ループが 提案したものに 基づいた ．この手法を用い
+て，タスクフォースは事前に定義されたアウトカムご
+とにエビデンス全体を俯瞰して，介入の効果または診
+断検査の確実性/信頼性を，「高い」「中等度」「低い」
+「非常に低い」に分類した．一般的に RCTは ｢エビデ
+ンスの確実性が高い｣，観察研究は ｢エビデンスの 確
+実 性は 低い ｣をそれぞれの 出 発 点とした 上で ，
+GRADEの手法を用いたエビデンス評価に基づいてダ
+ウングレードまたはアップグレードされた ．GRADE
+は 2015 年より前の CoSTR 作成では使用されていな
+い．したがって 2015 年より前のトピックにおいて 推
+奨と提案が更新されていない場合，使用されている用
+語は GRADE アプローチの 用 語とは 異なる 4 ．
+CoSTR2020 の要約は CoSTRの草案に対してオンラ
+インで 投稿されたコメントを 再評価・検討し，IL-
+CORタスクフォースと ILCORに加盟している 協議
+会によって承認された最新版の CoSTRをもとにして
+いる．
+各トピックには CoSTRと同様に PICOST，2018 年
+から増補された「エビデンスから決断を導くための枠
+組み Evidence to Decision ；EtD」，およびさらなる研
+究を必要とする今後の課題のリストが 含まれている ．
+CoSTR2017には EtDの表記はない．各作業部会の章
+には，EtDの詳細を参照可能な補遺として URLを挙
+げた．下記にまとめて URLを呈示する．リンク先を入
+力するか付記している QRコードを使用いただきたい．
+ BLS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000892&fi
+le=Supplement+Appendix+A.pdf
+ ALS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000893&fi
+le=Supplement+Appendix+A+%281%29.pdf
+ PLS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000894&fi
+le=Supplement+Appendix+A+%282%29.pdf
+ Neo
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000895&fi
+le=Supplement+Appendix+A+%283%29.pdf
+ FA
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000897&fi
+le=Supplement+Appendix+A+%285%29.pdf
+ EIT
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000896&fi
+le=Supplement+Appendix+A+%284%29.pdf
+ ACS
+https://www.japanresuscit ationcouncil.org/jrc-
+g2020/#chapter-06
+ Maternal
+https://www.japanresuscit ationcouncil.org/jrc-
+g2020/#chapter-05
+ NR
+https://www.japanresuscit ationcouncil.org/jrc-
+g2020/#chapter-07
+2） ScopRev
+重要なエビデンス 評価の 2つ目のタイプは ，Scop-
+Revである ．ScopRevはトピックまたは 臨床疑問に
+関するエビデンスの程度，範囲，特質を明らかにする
+ように構成されており，トピックに関する専門家がタ
+スクフォースと協議の上で実施した．タスクフォース
+は特定されたエビデンスを検討し，その価値と蘇生法
+の実践または 研究への影響を判定した．ScopRevの
+エビデンスのまとめ ，JRCの見解 ，今後の課題は，
+全て本文中に記載されている．患者の価値観について
+は記載されていない．ScopRevでは，SysRevと異な
+り推奨と提案は作成されない ．2015 年以前の推奨と
+提案を使用する場合には，2020 年で変更がない旨が
+記述された ．ScopRevでは，推奨と提案の変更をも
+たらす可能性のある重要なエビデンスが特定されたか
+否かについて述べた上で，十分なエビデンスが特定さ
+れた場合には，CoSTRをアップデートするために 将
+来 SysRevを行う必要性が提案された．
+ScopRevでは，数多くの文献が解説されているた
+め，全てをガイドラインで詳述はしていない．英語表
+現ではあるが ，ScopRevの詳細を補遺としてあげて
+いるリンク先を挙げた．このリンクは，本ガイドライ
+ンのそれぞれのトピックごとにも紹介した．リンク先
+を入力するか付記している QRコードを使用いただき
+たい．
+JRC 蘇生ガイドライン 2020 作成の方法論
+13
+[[p14]]
+ BLS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000892&fi
+le=Supplement+Appendix+B.pdf
+ ALS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000893&fi
+le=Supplement+Appendix+B+%281%29.pdf
+ PLS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000894&fi
+le=Supplement+Appendix+B+%282%29.pdf
+ Neo
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000895&fi
+le=Supplement+Appendix+B+%283%29.pdf
+ FA
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000897&fi
+le=Supplement+Appendix+B+%285%29.pdf
+ EIT
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000896&fi
+le=Supplement+Appendix+B+%284%29.pdf
+ Maternal
+https://www.japanresuscit ationcouncil.org/jrc-
+g2020/#chapter-05
+3） EvUp
+重要なエビデンス 評価の 3つ目のタイプは，EvUp
+である．EvUpは最新の ILCORのエビデンス 評価後
+に発表された新しい研究があるかどうかを検索するも
+のである．そのため，以前の行ったレビューで用いた
+検索語と検索方法を用いて検索が行われた．これらの
+EvUpは ILCORタスクフォースメンバーまたは 執筆
+委員会のメンバーが担当した．EvUpではエビデンス
+が SysRevを考慮する必要性を示唆するかどうかにつ
+いての結果が記載されているが，これまでの推奨と提
+案は変更されていない．この文章の中に，EvUpの結
+果により，推奨と提案には変更がないことが記載され
+ている ．実質的な新しいエビデンスがあった 場合に
+は，SysRevの実施が勧められた．EvUpでは，数多
+くの文献を解説しているため，エビデンスのまとめや
+JRCの見解，今後の課題を記述して，患者の価値観
+については記載していない．全てを詳述はしていない
+ため，英語表現ではあるが，EvUpの詳細の補遺とし
+てあげられているリンク 先を挙げた．このリンクは ，
+本ガイドラインのそれぞれのトピックごとにも紹介し
+た．リンク先を入力するか付記している QRコードを
+使用いただきたい．
+ BLS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000892&fi
+le=Supplement+Appendix+C.pdf
+ ALS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000893&fi
+le=Supplement+Appendix+C+%281%29.pdf
+ PLS
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000894&fi
+le=Supplement+Appendix+C+%282%29.pdf
+ Neo
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000895&fi
+le=Supplement+Appendix+C+%283%29.pdf
+ FA
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000897&fi
+le=Supplement+Appendix+C+%285%29.pdf
+ EIT
+https://www.ahajournals.org/action/downloadSup
+plement?doi=10.1161%2FCIR.0000000000000896&fi
+le=Supplement+Appendix+C+%284%29.pdf
+ Maternal
+https://www.japanresuscit ationcouncil.org/jrc-
+g2020/#chapter-05
+レビューされた各々のトピックには，レビューのいず
+れの方法（SysRev，ScopRev，EvUp）を使用したか略
+語が付記されている．
+5 作業部会の作業概要
+こうして作成された原案文の全てを，編集委員会と共
+同座長による編集会議が校閲した．この校閲は，作業部
+会が手分けして作成した原案文のバラツキをなくし，質
+を担保することが目的であり，これが不可欠の作業であ
+ることは JRC 蘇生ガイドラインを 策定した経験で実証
+されている．特に，文体・表記法・用語の統一，記述内
+容の整合性と一貫性などについて，一文一文，一字一句
+を吟味した．記述内容に疑問や矛盾があれば，原著論文
+や CoSTR 2020を確認した．
+本ガイドラインは ，作成支援をいただいた 学会と
+GRADE 専門家，市民代表，法律家，臨床倫理専門家に
+よる外部評価委員から評価をいただき，またパブリック
+序文
+14 JRC 蘇生ガイドライン 2020
+[[p15]]
+コメントを多数いただき，ご意見を反映して修正を加え
+た．
+出版後も今後のガイドライン改定に向けて，御意見を
+頂戴頂ければ幸いである．
+文献
+1. 相原守夫．診療ガイドラインのための GRADEシステム 第 3 版．
+東京：中外医学社；2018．
+2. Minds Tokyo GRADE Center. at https://minds.jcqhc.or.jp/s/
+developer_grade（Accessed 2021 年 5 月 10 日）
+3. Morley PT, Atkins DL, Finn JC, et al. Evidence Evaluation Process
+and Management of Potential Conflicts of Interest ：2020 Interna-
+tional Consensus on Cardiopulmonary Resuscitation and Emer-
+gency Cardiovascular Care Science With Treatment
+Recommendations. Circulation 2020 ；142：S28-S40.
+4. JRC （日本版）ガイドライン 作成合同委員会．JRC 蘇生ガイドライ
+ン 2010．東京：へるす出版；2011．
+5. JRC 蘇生ガイドライン 2015 作成委員会．JRC 蘇生ガイドライン
+2015．東京：医学書院；
+2016．
+6. Schunemann HJ, Cuello C, Akl EA, et al. GRADE guidelines ：18.
+How ROBINS-I and other tools to assess risk of bias in
+nonrandomized studies should be used to rate the certainty of a
+body of evidence. J Clin Epidemiol 2019 ；111：105-14.
+7. Sterne JA, Hernan MA, Reeves BC, et al. ROBINS-I ：a tool for
+assessing risk of bias in non-randomised studies of interventions.
+BMJ 2016 ；355：i4919.
+JRC 蘇生ガイドライン 2020 作成の方法論
+15
+[[p16]]
+略語一覧
+統計関連略語一覧
+ARR：absolute risk reduction （絶対リスク減少）
+CI：confidence interval （信頼区間）
+HR：hazard ratio （ハザード比）
+IQR：interquartile range （四分位範囲）
+MD：mean difference （平均差）
+NNT：number needed to treat （治療必要数）
+OR：odds ratio （オッズ比）
+RR：relative risk （相対リスク）
+SD：standard deviation （標準偏差）
+SMD：standard mean difference （標準化平均差）
+頻用する略語一覧
+ACP：advance care planning （アドバンス・ケア・プランニング）
+ACS：acute coronary syndrome （急性冠症候群）
+AED：automated external defibrillator （自動体外式除細動器）
+ALS：advanced life support （二次救命処置）
+AMI：acute myocardial infarction （急性心筋梗塞）
+BLS：basic life support （一次救命処置）
+BVM：bag valve mask （バッグ・バルブ・マスク）
+CAG：coronary angiography （冠動脈造影）
+CCF：chest compression fraction （胸骨圧迫比率）　
+CPAP：continuous positive airway pressure （持続的気道陽圧）
+CPR：cardiopulmonary resuscitation （心肺蘇生）
+CQI：continuous quality improvement （継続的な質の改善）
+DNAR：do not attempt resuscitation （蘇生不要指示）
+ECG：electrocardiogram（心電図）
+EIT：education, implementation, and teams （普及・教育のための方策）
+EMS：emergency medical service （救急医療サービス）
+EWS：Early Warning Score （早期警告スコア）
+GRADE：Grading of Recommendations Assessment, Development and Evaluation
+IPPV：intermittent positive pressure ventilation （間欠的陽圧式人工呼吸）
+LMA：laryngeal mask airway （ラリンゲアルマスクエアウエイ）
+MC：medical control （メディカルコントロール）
+MEWS：Modified Early Warning Score （修正早期警告スコア）
+NICU：neonatal intensive care unit （新生児集中治療室）
+NSTEMI：non-ST elevation myocardial infarction （非 ST 上昇型心筋梗塞）
+PAD：public access defibrillation （市民による電気ショック）
+PCI：percutaneous coronary intervention （経皮的冠動脈インターベンション）
+PEEP：positive end-expiratory pressure （呼気終末陽圧）
+POLST：physician orders for life sustaining treatment （CPR 等の医療処置に関する医師による指示書）
+RCT：randomized controlled trial （無作為化比較試験）
+ROSC：return of spontaneous circulation （自己心拍再開）
+RRS：rapid response system　
+STEMI：ST elevation myocardial infarction （ST 上昇型心筋梗塞）
+TOR：termination of resuscitation （救命処置中止）
+UA：unstable angina （不安定狭心症）
+＊薬物名の表記について：国内未承認薬は欧文表記とした．
+序文
+16 JRC 蘇生ガイドライン 2020

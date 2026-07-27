@@ -1,0 +1,807 @@
+
+[[p1]]
+Modernization of Cardiac Advanced Life Support: Role and Value 
+of Cardiothoracic Anesthesiologist Intensivist in Post–Cardiac 
+Surgery Arrest Resuscitation
+Yang Gu, MD*,1, Kunal Panda, MD*, Audrey Spelde, MD†, Christina Anne Jelly, MD, MS‡, 
+Jerome Crowley, MD, MPH§, Jacob Gutsche, MD†, Asad Ali Usman, MD, MPH†
+*Department of Anesthesiology and Perioperative Medicine, University of Rochester, Rochester, 
+NY
+†Department of Anesthesiology and Critical Care, University of Pennsylvania, Philadelphia, PA
+‡Department of Anesthesiology, Vanderbilt University Medical Center, Nashville, TN
+§Department of Anesthesiology, Pain Medicine, and Critical Care, Massachusetts General 
+Hospital, Harvard Medical School, Boston, MA
+Abstract
+Cardiac arrest in the postoperative cardiac surgery patient requires a unique set of management 
+skills that deviates from traditional cardiopulmonary resuscitation and Advanced Cardiovascular 
+Life Support (ACLS). Cardiac Advanced Life Support (CALS) was first proposed in 2005 to 
+address these intricacies. The hallmark of CALS is early chest reopening and internal cardiac 
+massage within 5 minutes of the cardiac arrest in patients unresponsive to basic life support. 
+Since the introduction of CALS, the landscape of cardiac surgery has continued to evolve. 
+Cardiac intensivists encounter more patients who undergo cardiac surgical procedures performed 
+via minimally invasive techniques such as lateral thoracotomy or mini sternotomy, in which an 
+initial bedside sternotomy for cardiac massage is not applicable. Given the heterogeneous nature 
+of the patient population in the cardiothoracic intensive care unit, personnel must expeditiously 
+identify the most appropriate rescue strategy. As such, we have proposed a modified CALS 
+approach to (1) adapt to a newer generation of cardiac surgery patients and (2) incorporate 
+advanced resuscitative techniques. These include rescue-focused cardiac ultrasound to aid in 
+the early identification of underlying pathology and guide resuscitation and early institution of 
+extracorporeal cardiopulmonary resuscitation instead of chest reopening. While these therapies 
+are not immediately available in all cardiac surgery centers, we hope this creates a framework 
+1Address correspondence to Yang Gu, MD, 601 Elmwood Ave, Box 604, Rochester, NY 14642. Yang_Gu@urmc.rochester.edu (Y . 
+Gu). 
+Declaration of competing interest
+We confirm that this work is original and has not been published elsewhere, nor is it currently being considered for publication 
+elsewhere. All of the authors agree and are responsible for the data presented.
+We have no conflicts of interest to disclose.
+CRediT authorship contribution statement
+Yang Gu: Writing — review & editing, Writing — original draft, Conceptualization. Kunal Panda: Writing — review & editing. 
+Audrey Spelde: Writing — review & editing. Christina Anne Jelly: Writing — review & editing. Jerome Crowley: Writing — 
+review & editing. Jacob Gutsche: Writing — review & editing. Asad Ali Usman: Writing — review & editing, Writing — original 
+draft.
+HHS Public Access
+Author manuscript
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Published in final edited form as:
+J Cardiothorac Vasc Anesth. 2024 December ; 38(12): 3005–3017. doi:10.1053/j.jvca.2024.09.019.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p2]]
+to revise guidelines to include these recommendations to improve outcomes and how cardiac 
+anesthesiologist intensivists’ evolving role can aid resuscitation.
+Keywords
+V A ECMO; ECPR; cardiac arrest; cardiac surgery; cardiac advanced life support; cardiac 
+anesthesiologist; cardiac intensivist
+Every year, more than 600,000 patients undergo cardiac surgical procedures in the United 
+States, with an incidence of cardiac arrest after cardiac surgery between 0.7% and 2.9%.1,2 
+In-hospital cardiac arrest (IHCA) in post–cardiac surgery patients, particularly during 
+the immediate postoperative period, is managed differently than in the general hospital 
+population.1,3–5 Approximately half of these patients survive to discharge, which is a 
+significantly higher proportion than the overall IHCA patient population. This may be due 
+to the higher probability of reversible etiology of the cardiac arrest. Arrhythmias, namely 
+ventricular fibrillation alone, account for up to 50% of the arrests, with cardiac tamponade 
+and hemorrhagic shock making up the 3 most common etiologies of cardiac arrest after 
+cardiac surgery.1,3,5–7
+This prompted a group of cardiothoracic surgeons and cardiac anesthesiologists to create a 
+specialized protocol for treating cardiac arrest in this patient population, emphasizing rapid 
+serial defibrillation and early emergent chest reopening. In 2006, the group demonstrated 
+improved speed and quality of their resuscitation protocol following implementing the 
+Cardiac Surgery Advanced Life Support (CALS) algorithm.8 The protocol has been refined 
+over time. In 2017, the Society of Thoracic Surgeons published its expert consensus 
+statements (Fig 1A).9 The protocol has remained largely unchanged in the latest European 
+Resuscitation Council guidelines from 2021 (Fig 1B).7 The hallmark of CALS is providing 
+early basic life support with rapid defibrillation and emergency chest reopening within 
+5 minutes of the cardiac arrest, followed by the initiation of internal cardiac massage. 
+Resuscitative maneuvers in CALS that deviate from traditional ACLS are early serial 
+defibrillation, epicardial or transcutaneous pacing when applicable, and avoidance of 
+1 mg of epinephrine unless directed by a senior clinician and use of extracorporeal 
+membrane oxygenation (ECMO) (Table 1). Mindful cardiopulmonary resuscitation (CPR) 
+is recommended, but given recent cardiac surgery, early repeat sternotomy should be 
+prioritized. Automated external compression devices were also not recommended due to 
+a lack of evidence at the time, and these devices may hinder efforts to prepare the chest for 
+early repeat sternotomy.
+Rationale for CALS Update
+The landscape of cardiac surgery has changed over the Past decade. Historically, 
+most cardiac surgical procedures were done through a complete sternotomy, and many 
+cardiothoracic surgery ICUs did not have intensivist coverage. Today, there are nearly 500 
+ECMO centers worldwide; minimally invasive or sternal-sparing approaches are increasing 
+in number, and coverage models that include 24/7 cardiac intensivists are increasing in 
+popularity.10,11 In a 2020 survey of cardiac surgery ICU models, 27.6% of responding 
+Gu et al. Page 2
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p3]]
+units had after-hours coverage by critical care-trained attending staff.12 While heart 
+transplants and coronary revascularization cases remain the mainstay of cases routinely 
+done by sternotomy,13–15 an increasing number of surgical valve cases are performed with 
+minimally invasive thoracotomy or percutaneous approaches. Permanent LV assist devices 
+are increasingly implanted via sternal-sparing incisions such as lateral thoracotomy and 
+hemisternotomy, and an increasing number of coronary revascularization procedures are 
+done with a minimally invasive approach.16 In the 2017 Society of Thoracic Surgeons CALS 
+guidelines, chest reopening can be considered until postoperative day 10 due to possible 
+adhesions in the chest, after which reopening the sternum is deferred to the discretion 
+of a senior clinician. In this new landscape of sternal-sparing techniques, meaningfully 
+opening the chest to allow for internal cardiac massage would require a de novo sternotomy. 
+Additionally, emergent chest reopening in post–cardiac surgery cardiac arrest can be 
+challenging and fraught with potential pitfalls, particularly if there are bypass grafts in 
+place. With the application of the CALS protocol, even with well-trained professionals, 
+the median time to chest reopening has been documented to be longer than 5 minutes.1,6 
+Chest opening is no longer recommended once the patient is transferred from the ICU to 
+the general ward. Increasing patient acuity and prolonged preoperative and postoperative 
+ICU stay with multiple operative interventions are now commonplace in most tertiary care 
+centers, making identifying postoperative duration difficult during emergencies. Conversely, 
+with low-risk patients undergoing sternal-sparing cardiac surgical procedures, ICU length of 
+stay has declined, with many patients being transferred to the ward on postoperative day 1.
+The cornerstone of resuscitation in an arresting patient remains high-quality CPR and 
+well-organized and performed ACLS. By modifying CALS, we propose introducing rapid 
+TEE imaging and early consideration of mechanical circulatory support with Veno-arterial 
+(V A) ECMO, which helps to stabilize the arresting cardiac surgery patient. Across many 
+institutions, V A ECMO has become an integral aspect of post–cardiac surgery cardiac 
+arrest resuscitation. Since the inclusion of Extracorporeal cardiopulmonary resuscitation 
+(ECPR) into the American Heart Association ACLS guidelines in 2015, its use has expanded 
+worldwide and has since been incorporated into the 2017 Society of Thoracic Surgeons 
+guidelines, the European Resuscitation Council 2021 guidelines, and the American Heart 
+Association ACLS 2023 update.7,9,17–19 This shift in approach is driven by the changing 
+landscape of cardiac surgery, with minimally invasive or sternal-sparing approaches 
+becoming routine and the increasing availability of ECMO centers and 24/7 cardiac 
+intensivist coverage.12,20,21 These factors call for reevaluating the CALS protocol and 
+proposing a modified approach to better serve the evolving patient population.
+Given the risks and challenges of early repeat sternotomy and the increasing availability 
+of early deployment of mechanical support with V A ECMO at many centers, we propose 
+a modified CALS approach to (1) better adapt to this new landscape of cardiac surgery 
+patients, (2) use rescue echocardiography to diagnose etiology of arrest and guide 
+resuscitation, and (3) incorporate advanced resuscitative techniques, including early V A 
+ECMO implementation, and reserving resuscitative sternotomy and direct cardiac massage 
+for select patients only.
+Gu et al. Page 3
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p4]]
+Modification to CALS Protocol
+While CALS focuses on early chest opening and internal cardiac massage to improve end-
+organ perfusion, we suggest starting with external cardiac compressions, rapid defibrillation, 
+and epicardial pacing, incorporating simultaneous use of echocardiography to evaluate the 
+etiology of arrest during CPR and judicious use of early initiation of V A ECMO to provide 
+perfusion to rescue the non-bleeding cardiac surgery patient (Fig 2). There are some caveats 
+to early institution of V A ECMO, including tamponade, bleeding, or aortic dissection, which 
+may mandate early chest reopening to address bleeding. Early preparation and deployment 
+of V A ECMO, including preparation of catheters, cannulas, and bringing the circuit to the 
+field, should be done expeditiously even if V A ECMO is not eventually indicated.
+Intensive care practitioners should be familiar with the goals of management during 
+cardiac arrest of providing adequate oxygenated blood to the brain to avoid neurologic 
+injury and attempting to restore coronary perfusion so that a life-sustaining rhythm can 
+be obtained.22,23 In postoperative cardiac surgical patients, oxygenation will be readily 
+achieved via advanced airway placement and mechanical ventilation. There is conflicting 
+data regarding the superiority of open cardiac massage. It should be acknowledged that in a 
+patient with a recent sternotomy, access to the heart can be relatively rapid. If trained cardiac 
+surgeons are present, the quality of cardiac massage is likely high. Each institution needs 
+to be cognizant of the available resources at night. Less experienced providers are more 
+likely to cause potentially catastrophic complications by reopening the chest to perform 
+effective open cardiac massage. Certain patients, including patients after minimally invasive 
+operations or redo operations, do not lend themselves well to effective cardiac massage as 
+the heart may not be fully exposed. In addition, the time to open the chest is time without 
+perfusion, and any delays in cardiac massage portend a poor prognosis for neurologic 
+function. Therefore, the best cardiac massage option is the one that is available and effective, 
+which is likely closed chest cardiac massage.
+The causes of arrest need to be diagnosed to understand who could potentially benefit from 
+emergent repeat sternotomy. Patients with tamponade are the most likely to benefit as repeat 
+sternotomy can be curative for obstructive shock. The chest and mediastinal tube patency 
+should be verified first to rapidly drain any retained effusions. Hemorrhagic shock from 
+bleeding inside the chest cavity is hard to control with bedside exploration but may be 
+an indication of refractory hemorrhage. Although rare, aortic dissections can occur after 
+cardiac surgery, potentially leading to cardiac arrest.24,25 Other causes of arrest, including 
+hypoxic, pulmonary embolism, and refractory hypotension, are not well served with repeat 
+sternotomy (Table 2).
+For patients who experience cardiac arrest due to ventricular arrhythmias, the restoration 
+of consistent cardiac output is the highest predictor of a good outcome. Rapid, sequential 
+defibrillation should be attempted as early as possible to restore sinus rhythm. Refractory 
+arrhythmias would only benefit from the ability to directly deliver electrical energy to the 
+heart when external defibrillation is ineffective. In the current era of sequential and vector 
+change defibrillation, it is less clear that there is a real benefit to internal defibrillation.23,26
+Gu et al. Page 4
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p5]]
+With a well-coordinated team, V A ECMO can be established quickly without exposing 
+patients to the risks of chest opening, which include infection, injury to major vessels, as 
+well as failed entry of repeat sternotomy. The likely success of resuscitation with chest 
+reopening is substantially lower in patients who have already been transferred to the wards 
+due to a lack of equipment and suboptimal environmental conditions for surgeons and 
+anesthesiologists. On the other hand, with a well-organized in-hospital mobile team, V A 
+ECMO can be instituted anywhere in the hospital for most post–cardiac surgery patients.1 
+Once ECMO support has been initiated, transport to the cardiac catheterization lab or 
+operating room can be safely completed if further definitive interventions are necessary. 
+Furthermore, once V A ECMO is initiated, chest reopening may still be indicated, such as for 
+patients with tamponade or surgical site bleeding. In these cases, tamponade and hemorrhage 
+can be addressed simultaneously (Fig 2). The goal of this modified CALS strategy is to 
+make a definitive decision regarding V A ECMO cannulation within 10 minutes of refractory 
+cardiac arrest and initiate V A ECMO support as soon as possible. While there are data to 
+suggest superior outcomes even with the low-flow time of 60 minutes, a shorter duration of 
+low-flow time is, of course, better.27,28
+Team-Based Approach ECPR for Cardiac Surgical Patients
+The critical functions identified for clinical staff are extrapolated from prior CALS 
+guidelines for cardiac arrest management.9 It is important to align staff roles with available 
+institutional resources (Figs 4 and 5).
+1. External cardiac compression: Once the cardiac arrest has been established, one 
+person is allocated to apply chest compressions or to apply an automatic external 
+compression device if available. When immediate defibrillation or pacing is 
+appropriate in clinical scenarios, external cardiac massage is delayed for these 
+maneuvers. In cases where POCUS or TEE identifies the need for surgical 
+exploration, chest compressions need to be paused to allow for sterile preparation 
+for chest reopening at the bedside.
+2. Airway and ventilation: The respiratory therapist or anesthesiologist should 
+increase the inspired oxygen to 100%, remove PEEP, and assess the airway 
+and breathing specifically to exclude pneumothorax, hemothorax, or a misplaced 
+endotracheal tube.
+3. Defibrillation: This provider should connect the patient to the defibrillator to 
+administer shocks and manage pacing.
+4. Team leader: This provider should manage overall cardiac arrest management, 
+ensuring the protocol is followed and each role is assigned. The team leader calls 
+for expert assistance if it is not immediately available. If other staff is available, 
+calling for assistance can be delegated.
+5. Medication administration: This nurse oversees the administration of 
+medications appropriate for the patient’s clinical condition at the direction of 
+the team leader.
+Gu et al. Page 5
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p6]]
+6. ICU resource or shock nurse or charge nurse: This member coordinates activities 
+outside the room. This includes delegating personnel to bring the ECMO 
+cannulation cart and ECMO circuit to the bedside, informing the perfusionist 
+and cardiac surgeon of arrest and the potential plans for ECPR, and alerting the 
+operating room or cardiac catheterization laboratory of any emergent procedure 
+that may be required. Early notification of the blood bank resources allows 
+for timelier resuscitation with blood products in the event of hemorrhage from 
+ECMO cannulation.
+7. Anesthesiologist intensivist: After ensuring a secure airway, deploy TEE or TTE 
+to diagnose the etiology of the arrest. With no obvious reversible causes, the 
+intensivist should gown to prepare for ECMO cannulation. TEE can be left in 
+place and manipulated under the sterile drape to further help the cannulation 
+process.
+ECMO Cannulation Team
+Those team members previously assigned to sternotomy now fulfill the role of initiating V A 
+ECMO. These members should immediately gown and glove in preparation for ECMO 
+cannulation and should not wait until advanced life support management fails before 
+proceeding. Vascular access should be done in concurrence with advanced life support. 
+Alternatively, the cannulation team can be composed of 3 members in surgical gowns: 2 
+actively participating in the cannulation and the third acting as support personnel helping 
+to ready the ECMO circuit. Additional team members are not advised as too many people 
+surrounding the patient can make the process of cannulation and initiation of ECMO more 
+difficult. Cardiac anesthesiologist intensivists are often the first responders in initiating 
+ECMO who possess advanced skill sets in ultrasound-guided venous and arterial access. 
+Simulations to ensure providers know where required ancillary equipment is located 
+(echocardiography, ultrasound for line access, central line kits, cannulation material, etc.) 
+as well as require emergency resuscitation medications (heparin, blood, vasopressors, etc.) 
+are crucial.
+Successful ECMO cannulation in an emergent situation ideally requires 2 providers: the 
+primary cannulating provider and the assistant. The assistant does not need to be fully 
+trained in the cannulation process, but knowledge of vascular access, wire management, and 
+the steps of ECMO cannulation is critical. Because ECMO cannulation may be a rare event 
+for the assistant, it is important to utilize simulation to prepare providers for this procedure. 
+Depending on the resources available and the reason for arrest, several scenarios should be 
+considered.
+1. Closed chest cardiac massage with plans for peripheral V A ECMO as rescue 
+therapy: This is indicated where there is not a perceived value in repeat 
+sternotomy or the risk of reentry is too high, and the plan is to provide ECMO 
+support with further management done once supported on ECMO. Here, only 
+2 providers are required to be sterile with the bilateral groins prepped. As 
+percutaneous cannulation is the preferred method in emergencies, cannulation 
+here can be performed by cardiac surgeons or other trained providers.
+Gu et al. Page 6
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p7]]
+2. Plan for repeat sternotomy with simultaneous peripheral V A ECMO cannulation: 
+This scenario is commonly encountered when the chest is opened and there is 
+no immediate reversible cause identified (tamponade), and the patient remains 
+in extremis or arrest. Here, there are 4 sterile providers needed: 2 for repeat 
+sternotomy and 2 for ECMO cannulation. One of the benefits of this strategy is 
+the ability to continue effective cardiac massage while cannulating the patient. 
+In addition, the surgeons are able to palpate the venous cannula in the field to 
+ensure proper positioning if image guidance is not available.
+3. Partial peripheral cannulation: In this scenario, the chest is reopened and the 
+surgeon prepares to place a central aortic cannula for central ECMO. The 
+other trained provider performs peripheral venous cannulation simultaneously 
+to save time and potentially reduce bleeding by avoiding manipulation of the 
+thin right atrium during arrest. While this necessitates some interruption of 
+cardiac massage, there is a benefit to central cannulation with avoidance of 
+north-south syndrome, potentially higher total flows, and the avoidance of 
+limb complications. In arresting patients, the femoral artery may be small, or 
+the patient may have significant peripheral arterial disease that precludes safe 
+peripheral cannulation.
+In all these scenarios, good communication is critical. As information is obtained from 
+echocardiography, telemetry review, and laboratory results, the plan should be adjusted to 
+provide the best care.
+Other considerations are the need for left ventricular (LV) decompression. A distended LV 
+is unlikely to cardiovert from ventricular fibrillation successfully. Initial maneuvers can 
+be to continue CPR with the aid of the mean arterial pressure support on ECMO and 
+correction of the acid-base status, defibrillation can be attempted. Second-line maneuvers 
+are to place an intraaortic balloon pump, a percutaneous microaxial pump, or a surgical LV 
+vent to decompress the patient and allow for successful rhythm recovery. In addition, an 
+arresting patient may have developed significant pulmonary edema, and close monitoring 
+for north/south syndrome by arterial blood gas analysis and/or cerebral oximetry is strongly 
+recommended. It is prudent for the provider to recognize that in poorly functioning lungs, 
+the aortic root receives hypoxic blood, even if the mixing cloud is in the ascending aorta. 
+Appropriate ventilator adjustments or consideration of venoarteriovenous ECMO should be 
+made to decrease the risk of supplying the brain with hypoxemic blood arising from the 
+aortic root.
+Rescue Echocardiography
+In the past decade, noninvasive point-of-care ultrasound (POCUS) has been widely adopted 
+to diagnose and manage shock.29–31 The American Heart Association guidelines in 2020 
+recommended its use as an adjunct to CPR, provided that it does not interfere with CPR.32 
+Numerous protocols for incorporating POCUS into ACLS have been proposed over the 
+past 2 decades.33–36 With ongoing chest compressions, a subxiphoid window is often 
+the best approach to conduct an exam without any interruptions to CPR.36 Transthoracic 
+views, including the parasternal long-axis view, can be used during pulse checks.37 
+Gu et al. Page 7
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p8]]
+Chest ultrasound can identify large pleural collections or pneumothorax.31 POCUS in 
+the setting of cardiac arrest has some limitations. Images obtained during CPR might 
+be non-diagnostic or, worse, lead to misdiagnosis, which can potentially delay definitive 
+therapies or lead to iatrogenic injury.38 Localized clots in the mediastinum, sometimes 
+missed on transthoracic echocardiography, are more common causes of hemodynamic 
+compromise than circumferential effusions in post–cardiac surgery patients.39 Regional wall 
+motion abnormalities may not be readily identified in the setting of ongoing CPR. Using 
+transthoracic ultrasound for cardiac imaging may also be associated with more prolonged 
+interruptions in CPR.40,41 TEE is preferable if the equipment is readily available, as it can 
+provide continuous imaging during ongoing CPR with a better acoustic window.42–45
+TEE plays a role in the pre-, intra-, and post-cannulation phases of ECPR as a diagnostic 
+modality. It is increasingly used to optimize chest compressions and guide resuscitation 
+while assisting ECPR initiation.44,46,47 Using anatomical landmarks of the lower half of 
+the sternum during CPR can occasionally lead to compression of the LV outflow tract 
+or aortic root in certain patients and thereby impede cardiac output. The use of TEE 
+during CPR can be used to optimize the location of chest compression to ensure both 
+ventricles are being compressed, improving the success of resuscitation.46,48 Rescue TEE 
+protocol based on a 5-view sequence has been previously proposed for use during CPR. 
+It includes the mid-esophageal 4-chamber view, the mid-esophageal aortic valve long axis 
+view, the mid-esophageal bicaval view, the transgastric short-axis view, and the transgastric 
+descending aorta short-axis view (Fig 3).44,46,47 A more extensive TEE protocol, including 
+transesophageal lung and transesophageal abdominal ultrasound, can be undertaken if the 
+etiology of the arrest has not yet been identified with limited rescue protocol.46 TEE can 
+aid in identifying fine ventricular fibrillation, which can be mistaken for asystole on cardiac 
+monitors, leading to missed opportunities for defibrillation. TEE may also identify pseudo-
+pulseless electrical activity, where aortic valve opening is present in a very low cardiac 
+output state, leading to an undetectable pulse that may respond to vasopressors.35,49 Aortic 
+valve velocity time-integral can be used as a surrogate for stroke volume and further help 
+determine the degree of decreased cardiac output.50 The challenges of TEE examination 
+during CPR must be recognized. Regional wall motion abnormalities and ventricular 
+function on echo are challenging to interpret during CPR. In the setting of a newly placed 
+prosthetic valve, valvular function assessment can be challenging in the setting of reduced 
+cardiac output during CPR. Iatrogenic injury to oropharyngeal structures and the esophagus 
+from the TEE probe placement during CPR is certainly possible, but the incidence is 
+unknown. As such, TEE during cardiac arrest should only be performed by those with 
+considerable experience in performing and interpreting routine TEE examinations.
+TEE can also verify venous and arterial access for ECPR in the challenging environment 
+of ongoing CPR. The bicaval view will ensure that the venous access obtained in the 
+femoral vein extends to the right atrium and that the venous cannula is placed correctly. 
+Likewise, confirmation of the wire in the descending aorta will confirm that the wire 
+presumed to be placed in the femoral artery is in the femoral artery. Last, iatrogenic 
+procedural complications, including wire injury resulting in dissection or tamponade, can 
+be identified. TEE is also used to ensure that preexisting tamponade was not caused by 
+Gu et al. Page 8
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p9]]
+ECMO cannulation or if new effusions are found that they may be a result of attempted V A 
+ECMO cannulation.
+After ECMO cannulation, TEE can be used to assess and monitor changes in cardiac 
+function. A complete transesophageal echocardiogram should be performed following 
+ECMO initiation if not used during resuscitation and cannulation. Another common 
+iatrogenic injury during ECMO cannulation includes retroperitoneal hemorrhage. While 
+TEE cannot directly visualize this complication, hypovolemic volume status, inability to 
+maintain constant ECMO flows, and dropping hemoglobin may indicate this complication. 
+Intraperitoneal fluid visualized by TEE may also indicate a wire injury with ongoing 
+bleeding. Wall motion abnormalities, thrombus, and valvular dysfunction may be 
+discovered. Evaluation of LV size and systolic function can help identify patients at risk 
+for LV distention and may prompt earlier consideration of venting strategies. If no aortic 
+valve opening is demonstrated, then LV venting with an intraaortic balloon pump or 
+Impella device may be necessary to prevent LV and root thrombus. Patients immediately 
+after ECMO cannulation can be intravascularly hypovolemic and require aggressive fluid 
+resuscitation to adequately allow assessment of the LV ejection. Valvular abnormalities such 
+as acute rupture MR or paravalvular leaks may be discovered.
+Immediate Post-ECPR Considerations
+In the first 24 hours of ECMO, patients require a tremendous amount of care and 
+resuscitation. Before transporting the patient to a different location, the team must verify 
+adequate ECMO flows and ensure no iatrogenic injuries with ECMO cannulation. ECMO 
+cannulas need to be secured appropriately to minimize the risk of bleeding and catastrophic 
+dislodgement. In patients with small or diseased vasculature or those on high vasopressor-
+inotropic support, distal limb ischemia in the ipsilateral limb of the arterial cannula has 
+a significant impact on the patient’s overall mortality.51,52 A reperfusion catheter can 
+be performed at the bedside, or if a coronary angiography is planned, a reperfusion 
+catheter can be placed in the cardiac catheterization laboratory. Alternatively, monitoring 
+of limb perfusion with vascular Doppler and tissue oxygen saturation with near-infrared 
+spectroscopy (NIRS) can indicate the need for a distal perfusion catheter. With retrograde 
+flow from the outflow cannula up the aorta effectively increasing LV afterload against a 
+weak or non-pulsatile heart, it is crucial to determine if LV decompression is needed.
+Placement of a pulmonary artery catheter after the initiation of V A ECMO can be helpful to 
+further guide management, assess adequacy of ECMO support, monitor for changes in right 
+and left heart function, and guide the need for LV unloading by measurement of pulmonary 
+capillary wedge pressure.53–55 While there lacks evidence for routine use of a pulmonary 
+artery catheter in all patients, the authors do recommend its use if aforementioned 
+parameters are helpful in patient management and weaning. Arterial pulsatility and aortic 
+valve opening should be maintained while on ECMO if possible. The absence of pulsatility 
+increases the risk of LV distention as well as LV and aortic root thrombus. There lacks 
+evidence for improved outcome with increased pulse pressure. In the authors experience, 
+pulsatility of 10 to 15 mmHg can be achieved by adjusting ECMO flows, titrating inotropic 
+medications, decreasing afterload, and if unable to be achieved, consideration of LV venting.
+Gu et al. Page 9
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p10]]
+Simulation-Based Training for CALS and ECPR
+Given the varied backgrounds and levels of training, extensive team-based simulation 
+training ensures the achievement of similar skill sets. Cannulation team members should 
+be trained in all aspects of the equipment, including supplies needed for ECMO cannulation, 
+ECMO initiation, and equipment troubleshooting. Due to the limited number of ECMO 
+cannulations performed in the post–cardiac surgery environment, simulation is used for 
+initial training and continued quality assessment. This is important to simulate all periods 
+of the day when fewer ICU staff are available or when attending cardiac surgeons have 
+competing operative cases during daytime hours and cannot assist in cannulation for ECPR.
+Our preferred cannulation site is the left common femoral artery and the right common 
+femoral vein as the inferior vena cava lies along the right anterolateral aspect of the 
+vertebral column. Contralateral arterial cannulation is preferred to minimize inadvertent 
+cannulation in the same vessel or possible arteriovenous fistulas. In emergent situations, 
+this is the most accessible location for the cannulation team while external compression 
+occurs. In surgical patients with a prior femoral cutdown for femoral access during the 
+initial surgical case, the team is trained to reopen the femoral cutdown to access the femoral 
+vessel as ultrasound imaging over the groin closure can be difficult especially in cases of 
+staples. Ultrasound-guided percutaneous access is the standard in all other patients, and 
+thus, ultrasound guidance and localization are essential components of hands-on training. 
+The location of percutaneous vascular access should be done below the inguinal ligament 
+and in the common femoral artery before the bifurcation into the superficial femoral artery 
+and profunda femoris. The first responders of the team are expected to gain initial vascular 
+access by placing sheaths into the artery and vein or directly inserting the wire if the 
+ECMO cannulators are not yet at the bedside. Vascular access distal to the bifurcation of 
+the common femoral artery (superficial femoral artery access) can lead to limb-threatening 
+complications or arterial rupture due to the inability to accommodate the cannula because 
+of the small vessel caliber. The wire should also be confirmed in the aorta to prevent 
+inadvertent passage into the deep circumflex iliac artery. Cannulation of the artery is 
+contraindicated if dissection exists within the artery. Adequate training and experience in 
+identifying crucial landmarks are important components of proper cannulation technique. 
+While the femoral vessels are the most straightforward cannulation sites in emergencies, 
+they are not the only access sites. Cannulation of the axillary or subclavian vessels requires 
+even more training and experience. High-fidelity simulation is a resource-intensive endeavor. 
+For centers without the necessary staff or tools, well-organized simulation courses are 
+conducted by international ECMO organizations and larger academic centers.
+Clinical training to become a credentialed cannulator includes observation in an assistant 
+role and acting as the primary cannulator role under supervision. Each hospital team 
+can set the minimum number of cannulations necessary before becoming independent 
+cannulators. Currently, there is no formal training pathway for ECMO cannulation. Ongoing 
+quality assurance programs should include regularly scheduled case review conferences 
+with continued feedback on ECMO initiation and management. Accurate record-keeping 
+ensures patient safety, facilitates effective communication among healthcare providers, and 
+maintains legal and regulatory compliance. Detailed and precise documentation of patient 
+Gu et al. Page 10
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p11]]
+assessments, treatments, and interventions is essential for tracking patient and program 
+progress, identifying trends, and making informed programmatic decisions.
+Moreover, meticulous record-keeping is crucial for continuity of care, enabling seamless 
+transitions between healthcare settings and providers if necessary. In addition to supporting 
+clinical care, accurate documentation is vital for billing and reimbursement purposes, 
+ensuring appropriate allocation of resources and financial integrity within healthcare 
+systems. A thorough and precise record-keeping commitment is fundamental to delivering 
+high-quality, patient-centered care and fostering trust between patients, providers, and 
+healthcare institutions.
+Role of the Cardiac Anesthesiologist and Anesthesiology Intensivist
+The cardiac anesthesiologists’ roles have evolved beyond the traditional clinical boundaries 
+of the operating room. Though only 5% of the nearly 30,000 intensivists in the 
+United States are anesthesiology intensivists, with approximately 70% of anesthesiology 
+intensivists practicing in cardiothoracic ICUs.56 Cardiac anesthesiologists and intensivists 
+now participate in ICU coverage, acute shock teams, ECMO teams, and transplant and 
+MCS committees and have been integral in creating echocardiography protocols and 
+guidelines during resuscitation.12,47,57–60 A 2020 survey of cardiac surgery ICU models 
+in the United States found that 26% of cardiothoracic surgery ICU coverage is provided 
+by anesthesiology-trained intensivists, the second most represented specialty.12 Dual 
+fellowship-trained cardiac anesthesiologist intensivists’ unique technical skillset includes 
+performing point-of-care ultrasound and advanced TEE guiding ECMO cannulation and any 
+further interventions. Cardiac anesthesia intensivists must continue to play a vital role in 
+expanding ECPR teams and continually modifying simulation-based team training to adapt 
+to this changing landscape. This evolution underscores anesthesiologists’ adaptability to 
+embrace multifaceted roles within the hospital system, reinforcing their integral position in 
+the collaborative and comprehensive care of patients with acute complex cardiac conditions. 
+As intensivist staffing models are shifting to 24/7 in-house coverage, intensivists are now the 
+initial clinicians capable of initiating V A ECMO at the bedside.
+Institutional Variability
+Institutional variabilities in staffing and equipment availability significantly influence 
+the delivery of critical care across healthcare facilities (Fig 6). Hospitals with robust 
+staffing resources, including a higher ratio of trained intensivists, specialized nurses, and 
+ancillary support staff, often provide more comprehensive and timely care to critically ill 
+patients. Consequently, addressing disparities in staffing levels and equipment availability 
+is paramount for ensuring equitable access to high-quality critical care across different 
+healthcare settings. Efforts to enhance resources, optimize staffing models, and facilitate 
+collaboration between institutions can help bridge these gaps and improve the overall 
+delivery of critical care services. Notable differences among this multi-institutional 
+collaboration included using precannulation sheaths into the appropriate vessels before 
+cannulation, mainly due to the difference in nighttime staffing to allow for initial vascular 
+access to be done before cannulation as well as the immediate availability of TEE in 
+Gu et al. Page 11
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p12]]
+the ICU, which incurs a significant cost but also requires a process to allow for TEE 
+probe storage, cleaning, and maintenance. Institutions that do not frequently use TEE in 
+the intensive care unit may choose to store the ultrasound and probes along with other 
+ultrasound machines and probes, which often is the operating rooms. Processes should be 
+developed to allow rapid utilization of these resources when needed. Adapters are available 
+for certain TEE probes to allow their use with smaller ultrasound systems often found in 
+the ICUs. Unit-based quality initiatives will allow resuscitation programs fitting to staffing, 
+equipment, and institutional culture.
+Conclusion
+Early chest reopening after arrest has been a hallmark of resuscitation of cardiac surgical 
+patients after cardiac arrest for more than a decade. With the advent of sternal-sparing 
+cardiac surgical procedures, expanding expertise in ECPR worldwide, and broader adoption 
+of POCUS for routine clinical decision-making among cardiac intensivists, there is an 
+opportunity to modify CALS to embrace this new landscape. One such protocol is proposed 
+here. Further research is needed to establish the cohort of patients who would most 
+benefit from repeat sternotomy or de novo sternotomy in the event of cardiac arrest in 
+the postoperative period, as opposed to the early utilization of ECPR for refractory arrest. 
+With expertise in echocardiography, resuscitation, and ultrasound-guided access, cardiac 
+critical care anesthesiologists are uniquely positioned as integral members of the cardiac 
+surgical teams in rescuing these patients. By expanding mobile ECMO/ECPR cannulation 
+teams for IHCA and advocating for simulation-based team training, cardiac critical care 
+anesthesiologists can improve outcomes and reduce healthcare-associated disparities in 
+patients who sustain arrest after cardiac surgery among various centers worldwide.
+References
+1. Mackay JH, Powell SJ, Osgathorp J, et al. Six-year prospective audit of chest reopening after 
+cardiac arrest. Eur J Cardiothorac Surg 2002;22:421–5. [PubMed: 12204734] 
+2. Kim KM, Arghami A, Habib R, et al. The Society of Thoracic Surgeons Adult Cardiac Surgery 
+Database: 2022 Update on outcomes and research. Ann Thorac Surg 2023;115:566–74. [PubMed: 
+36623634] 
+3. Anthi A, Tzelepis GE, Alivizatos P, et al. Unexpected cardiac arrest after cardiac surgery: Incidence, 
+predisposing causes, and outcome of open chest cardiopulmonary resuscitation. Chest 1998;113:15–
+9. [PubMed: 9440561] 
+4. el-Banayosy A, Brehm C, Kizner L, et al. Cardiopulmonary resuscitation after cardiac surgery: A 
+two-year study. J Cardiothorac Vasc Anesth 1998;12:390–2. [PubMed: 9713724] 
+5. Adam Z, Adam S, Everngam RL, et al. Resuscitation after cardiac surgery: Results of an 
+international survey. Eur J Cardiothorac Surg 2009;36:29–34. [PubMed: 19369089] 
+6. Lees NJ, Powell SJ, Mackay JH. Six-year prospective audit of ‘scoop and run’ for chest-reopening 
+after cardiac arrest in a cardiac surgical ward setting. Interact Cardiovasc Thorac Surg 2012;15:816–
+23. [PubMed: 22879359] 
+7. Lott C, Truhlář A, Alfonzo A, et al. European Resuscitation Council Guidelines 2021: Cardiac arrest 
+in special circumstances. Resuscitation 2021;161:152–219. [PubMed: 33773826] 
+8. Dunning J, Nandi J, Ariffin S, et al. The Cardiac Surgery Advanced Life Support Course 
+(CALS): Delivering significant improvements in emergency cardiothoracic care. Ann Thorac Surg 
+2006;81:1767–72. [PubMed: 16631670] 
+Gu et al. Page 12
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p13]]
+9. Society of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery: The Society of 
+Thoracic Surgeons Expert Consensus for the Resuscitation of Patients Who Arrest After Cardiac 
+Surgery. Ann Thorac Surg 2017;103:1005–20. [PubMed: 28122680] 
+10. ELSO, International Report May 2024. https://www.elso.org/registry/
+internationalsummaryandreports/reports.aspx, 2024. Accessed Oct 13, 2024.
+11. DellaV olpe J, Barbaro RP, Cannon JW, et al. Joint Society of Critical Care Medicine-
+Extracorporeal Life Support Organization Task Force position paper on the role of the intensivist 
+in the initiation and management of extracorporeal membrane oxygenation. Crit Care Med 
+2020;48:838–46. [PubMed: 32282350] 
+12. Arora RC, Chatterjee S, Shake JG, et al. Survey of contemporary cardiac surgery intensive care 
+unit models in the United States. Ann Thorac Surg 2020;109:702–10. [PubMed: 31421102] 
+13. Okamoto K Minimally invasive cardiac surgery in Japan: History and current status. Gen Thorac 
+Cardiovasc Surg 2018;66:504–8. [PubMed: 30019253] 
+14. Ghanta RK, Lapar DJ, Kern JA, et al. Minimally invasive aortic valve replacement provides 
+equivalent outcomes at reduced cost compared with conventional aortic valve replacement: A 
+real-world multi-institutional analysis. J Thorac Cardiovasc Surg 2015;149:1060–5. [PubMed: 
+25680751] 
+15. Bakir I, Casselman FP, Wellens F, et al. Minimally invasive versus standard approach aortic valve 
+replacement: A study in 506 patients. Ann Thorac Surg 2006;81:1599–604. [PubMed: 16631641] 
+16. Schmitto JD, Mariani S, Abicht TO, et al. Expert consensus paper: Lateral thoracotomy for 
+centrifugal ventricular assist device implant. Ann Thorac Surg 2021;112:1687–97. [PubMed: 
+33309728] 
+17. Neumar RW, Shuster M, Callaway CW, et al. Part 1: Executive Summary: 2015 American Heart 
+Association Guidelines Update for Cardiopulmonary Resuscitation and Emergency Cardiovascular 
+Care. Circulation 2015;132(18 Suppl 2):S315–67. [PubMed: 26472989] 
+18. Perman SM, Elmer J, Maciel CB, et al. 2023 American Heart Association Focused Update on 
+Adult Advanced Cardiovascular Life Support: An update to the American Heart Association 
+Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 
+2024;149:e254–73. [PubMed: 38108133] 
+19. Perkins GD, Graesner JT, Semeraro F, et al. European Resuscitation Council Guidelines 2021: 
+Executive summary. Resuscitation 2021;161:1–60. [PubMed: 33773824] 
+20. Benoit MA, Bagshaw SM, Norris CM, et al. Postoperative complications and outcomes associated 
+with a transition to 24/7 intensivist management of cardiac surgery patients. Crit Care Med 
+2017;45:993–1000. [PubMed: 28375852] 
+21. Huard P, Kalavrouziotis D, Lipes J, et al. Does the full-time presence of an intensivist lead to better 
+outcomes in the cardiac surgical intensive care unit? J Thorac Cardiovasc Surg 2020;159:1363–
+75;e1367. [PubMed: 31204130] 
+22. Bradley MJ, Bonds BW, Chang L, et al. Open chest cardiac massage offers no benefit over 
+closed chest compressions in patients with traumatic cardiac arrest. J Trauma Acute Care Surg 
+2016;81:849–54. [PubMed: 27537507] 
+23. Cheskes S, Verbeek PR, Drennan IR, et al. Defibrillation strategies for refractory ventricular 
+fibrillation. N Engl J Med 2022;387:1947–56. [PubMed: 36342151] 
+24. Stanger O, Schachner T, Gahl B, et al. Type A aortic dissection after non-aortic cardiac surgery. 
+Circulation 2013;128:1602–11. [PubMed: 24025592] 
+25. Hirose H, Svensson LG, Lytle BW, et al. Aortic dissection after previous cardiovascular surgery. 
+Ann Thorac Surg 2004;78:2099–105;discussion 2105. [PubMed: 15561043] 
+26. Cheskes S, Dorian P, Feldman M, et al. Double sequential external defibrillation for 
+refractory ventricular fibrillation: The DOSE VF pilot randomized controlled trial. Resuscitation 
+2020;150:178–84. [PubMed: 32084567] 
+27. Belohlavek J, Smalcova J, Rob D, et al. Effect of intra-arrest transport, extracorporeal 
+cardiopulmonary resuscitation, and immediate invasive assessment and treatment on functional 
+neurologic outcome in refractory out-of-hospital cardiac arrest: A randomized clinical trial. JAMA 
+2022;327:737–47. [PubMed: 35191923] 
+Gu et al. Page 13
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p14]]
+28. Yannopoulos D, Bartos J, Raveendran G, et al. Advanced reperfusion strategies for patients with 
+out-of-hospital cardiac arrest and refractory ventricular fibrillation (ARREST): A phase 2, single 
+centre, open-label, randomised controlled trial. Lancet 2020;396:1807–16. [PubMed: 33197396] 
+29. Spencer KT, Kimura BJ, Korcarz CE, et al. Focused cardiac ultrasound: Recommendations from 
+the American Society of Echocardiography. J Am Soc Echocardiogr 2013;26:567–81. [PubMed: 
+23711341] 
+30. Neskovic AN, Skinner H, Price S, et al. Focus cardiac ultrasound core curriculum and core 
+syllabus of the European Association of Cardiovascular Imaging. Eur Heart J Cardiovasc Imaging 
+2018;19:475–81. [PubMed: 29529170] 
+31. Paul JA, Panzer OPF. Point-of-care ultrasound in cardiac arrest. Anesthesiology 2021;135:508–19. 
+[PubMed: 33979442] 
+32. Panchal AR, Bartos JA, Caban~as JG, et al. Part 3: Adult Basic and Advanced Life Support: 
+2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency 
+Cardiovascular Care. Circulation 2020;142(16 Suppl 2):S366–468. [PubMed: 33081529] 
+33. Breitkreutz R, Walcher F, Seeger FH. Focused echocardiographic evaluation in resuscitation 
+management: Concept of an advanced life support-conformed algorithm. Crit Care Med 2007;35(5 
+Suppl):S150–61. [PubMed: 17446774] 
+34. Hernandez C, Shuler K, Hannan H, et al. C.A.U.S.E.: Cardiac arrest ultrasound exam: A 
+better approach to managing patients in primary non-arrhythmogenic cardiac arrest. Resuscitation 
+2008;76:198–206. [PubMed: 17822831] 
+35. Labovitz AJ, Noble VE, Bierig M, et al. Focused cardiac ultrasound in the emergent setting: 
+A consensus statement of the American Society of Echocardiography and American College of 
+Emergency Physicians. J Am Soc Echocardiogr 2010;23:1225–30. [PubMed: 21111923] 
+36. Ávila-Reyes D, Acevedo-Cardona AO, Gómez-González JF, et al. Point-of-care ultrasound 
+in cardiorespiratory arrest (POCUS-CA): Narrative review article. Ultrasound J 2021;13:46. 
+[PubMed: 34855015] 
+37. Gaspari R, Weekes A, Adhikari S, et al. Emergency department point-of-care ultrasound in 
+out-of-hospital and in-ED cardiac arrest. Resuscitation 2016;109:33–9. [PubMed: 27693280] 
+38. Reynolds JC, Nicholson T, O’Neil B, et al. Diagnostic test accuracy of point-of-care ultrasound 
+during cardiopulmonary resuscitation to indicate the etiology of cardiac arrest: A systematic 
+review. Resuscitation 2022;172:54–63. [PubMed: 35065210] 
+39. Price S, Prout J, Jaggar SI, et al. Tamponade’ following cardiac surgery: Terminology and 
+echocardiography may both mislead. Eur J Cardiothorac Surg 2004;26:1156–60. [PubMed: 
+15541977] 
+40. Huis In ‘t Veld MA, Allison MG, Bostick DS, et al. Ultrasound use during cardiopulmonary 
+resuscitation is associated with delays in chest compressions. Resuscitation 2017;119:95–8. 
+[PubMed: 28754527] 
+41. Clattenburg EJ, Wroe P, Brown S, et al. Point-of-care ultrasound use in patients with cardiac 
+arrest is associated prolonged cardiopulmonary resuscitation pauses: A prospective cohort study. 
+Resuscitation 2018;122:65–8. [PubMed: 29175356] 
+42. Fair J 3rd, Mallin MP, Adler A, et al. Transesophageal echocardiography during cardiopulmonary 
+resuscitation is associated with shorter compression pauses compared with transthoracic 
+echocardiography. Ann Emerg Med 2019;73:610–6. [PubMed: 30773413] 
+43. Hussein L, Rehman MA, Jelic T, et al. Transoesophageal echocardiography in cardiac arrest: A 
+systematic review. Resuscitation 2021;168:167–75. [PubMed: 34390824] 
+44. Teran F, Prats MI, Nelson BP, et al. Focused transesophageal echocardiography during cardiac 
+arrest resuscitation: JACC Review Topic of the Week. J Am Coll Cardiol 2020;76:745–54. 
+[PubMed: 32762909] 
+45. Long B, Alerhand S, Maliel K, et al. Echocardiography in cardiac arrest: An emergency medicine 
+review. Am J Emerg Med 2018;36:488–93. [PubMed: 29269162] 
+46. Riendeau Beaulac G, Teran F, Lecluyse V , et al. Transesophageal echocardiography in patients in 
+cardiac arrest: The heart and beyond. Can J Cardiol 2023;39:458–73. [PubMed: 36621564] 
+47. Staudt GE, Shelton K. Development of a rescue echocardiography protocol for noncardiac surgery 
+patients. Anesth Analg 2019;129:e37–40. [PubMed: 29916865] 
+Gu et al. Page 14
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p15]]
+48. Catena E, Ottolina D, Fossali T, et al. Association between left ventricular outflow tract 
+opening and successful resuscitation after cardiac arrest. Resuscitation 2019;138:8–14. [PubMed: 
+30825552] 
+49. Prosen G, Križmari M, Zavřsnik J, et al. Impact of modified treatment in echocardiographically 
+confirmed pseudo-pulseless electrical activity in out-of-hospital cardiac arrest patients with 
+constant end-tidal carbon dioxide pressure during compression pauses. J Int Med Res 
+2010;38:1458–67. [PubMed: 20926019] 
+50. Zarragoikoetxea I, Vicente R, Pajares A, et al. Quantitative transthoracic echocardiography of 
+the response to dobutamine in cardiac surgery patients with low cardiac output syndrome. J 
+Cardiothorac Vasc Anesth 2020;34:87–96. [PubMed: 31515188] 
+51. Nguyen ML, Gause E, Mills B, et al. Traumatic and hemorrhagic complications after 
+extracorporeal cardiopulmonary resuscitation for out-of-hospital cardiac arrest. Resuscitation 
+2020;157:225–9. [PubMed: 33058992] 
+52. Dalia AA, Lu SY , Villavicencio M, et al. Extracorporeal cardiopulmonary resuscitation: Outcomes 
+and complications at a quaternary referral center. J Cardiothorac Vasc Anesth 2020;34:1191–4. 
+[PubMed: 31926801] 
+53. Garan AR, Kanwar M, Thayer KL, et al. Complete hemodynamic profiling with pulmonary artery 
+catheters in cardiogenic shock is associated with lower in-hospital mortality. JACC Heart Fail 
+2020;8:903–13. [PubMed: 33121702] 
+54. Bertaina M, Galluzzo A, Rossello X, et al. Prognostic implications of pulmonary artery catheter 
+monitoring in patients with cardiogenic shock: A systematic review and meta-analysis of 
+observational studies. J Crit Care 2022;69:154024. [PubMed: 35344825] 
+55. Sionis A, Rivas-Lasarte M, Mebazaa A, et al. Current use and impact on 30-day mortality of 
+pulmonary artery catheter in cardiogenic shock patients: Results From the CardShock Study. J 
+Intensive Care Med 2020;35:1426–33. [PubMed: 30732522] 
+56. Flynn BC, Jabaley CS, Simmons ST, et al. Statement on 
+increasing relevancy and sustainability of anesthesiology critical care: An 
+expert consensus. 2023. https://www.asahq.org/standards-and-practice-parameters/statement-
+on-increasing-relevancy-and-sustainability-of-anesthesiology-critical-care-an-expert-consensus. 
+Accessed April 9, 2024.
+57. Gutsche JT, Ortoleva J. Echocardiography: Do we need new standards for ECMO patients? J 
+Cardiothorac Vasc Anesth 2019;33:2356–7. [PubMed: 31060940] 
+58. Tankard K, Shelton K. The future of cardiac critical care: An anesthesia perspective. Ann Transl 
+Med 2023;11:324. [PubMed: 37404999] 
+59. Gutsche JT, Vernick WJ. Cardiac and critical care anesthesiologists may be ideal members of the 
+mobile ECMO team. J Cardiothorac Vasc Anesth 2016;30:1439–40. [PubMed: 27751761] 
+60. Shelton KT, Wiener-Kronish JP. Evolving role of anesthesiology intensivists in cardiothoracic 
+critical care. Anesthesiology 2020;133:1120–6. [PubMed: 32501959] 
+Gu et al. Page 15
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p16]]
+Fig 1. 
+(A) From the Society of Thoracic Surgeon Cardiac Surgery Advanced Life Support 
+Algorithm Chest reopening protocol. Dunning J, Nandi J, Ariffin S, et al. The Cardiac 
+Surgery Advanced Life Support Course (CALS): Delivering significant improvements 
+in emergency cardiothoracic care. Ann Thorac Surg 2006;81:1767–72. (B) From the 
+Society of Thoracic Surgeon Cardiac Expert Consensce for the Rescuscitation of Patients 
+Who Arrest After Cardiac Surgery. The Society of Thoracic Surgeons Expert Consensus 
+for the Resuscitation of Patients Who Arrest After Cardiac Surgery. Ann Thorac Surg 
+2017;103:1005–20.1
+Gu et al. Page 16
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p17]]
+Fig 2. 
+Proposed modified cardiac surgery advanced life support to incorporate early initiation of 
+V A ECMO instead of chest reopening.
+Gu et al. Page 17
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p18]]
+Fig 3. 
+Five-view sequence rescue TEE. (A) ME 4-chamber view with visualization of all 4 
+chambers. (B) ME LAX view with visualization of the left ventricle and mitral and aortic 
+valve. (C) ME bicaval view with hyperechoic wire approaching from the superior vena cava. 
+(D) TG Midpapillary SAX view with visualization of contractility and left ventricular filling. 
+(E) Descending aortic SAX view with visualization of a wire in the descending thoracic 
+aorta at the 3 o’clock position. ME-,midesophageal; LAX, long axis view; SAX, short axis 
+view.
+Gu et al. Page 18
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p19]]
+Fig 4. 
+Key roles in post–cardiac surgery cardiac arrest resuscitation, a sample room diagram and 
+equipment needed.
+Gu et al. Page 19
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p20]]
+Fig 5. 
+An example of an institutional flow diagram for each assigned role in the team-based 
+CALS and ECMO cannulation strategy. It is important to align staff roles with available 
+institutional resources.
+Gu et al. Page 20
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p21]]
+Fig 6. 
+(A) The University of Rochester and Vanderbilt University ECMO Carts. Each drawer 
+contains supplies needed and is stocked in sequential order. The top of the cart can then 
+be converted into a sterile work area. Several arterial and venous cannulas are located 
+on the side. LUCAS and EZ-IO kits are also part of the chart and are used frequently 
+in the resuscitation process. (B) The University of Pennsylvania ECMO Cart. From Olia 
+S, Francis C, Terranova CRNP, et al. A prescriptively designed, human factors focused, 
+emergency ECMO cart for cannulation or circuit exchange. ASAIO J 2023;69(Suppl 3):45. 
+10.1097/01.mat.0000990840.08372.11
+Gu et al. Page 21
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+[[p22]]
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Gu et al. Page 22
+Table 1
+Comparison of Different Aspects of Advanced Cardiac Life Support and Cardiac Advanced Life Support
+Advanced Cardiac Life Support Cardiac Advanced Life Support
+Primary focus Advanced cardiac life support for a variety of situations Specialized cardiac life support for cardiac surgery patients
+Patient population General population Patients who have undergone cardiac surgery within the past 10 days
+Training requirements Healthcare professions including physicians, nurses, paramedics Healthcare professions on cardiac surgery teams including cardiac surgeons, cardiac 
+anesthesiologists and intensivists
+Protocols Standardized algorithms for cardiopulmonary resuscitation, 
+defibrillation, and medications
+Tailored protocols considering surgical complications and equipment
+Emphasis Airway management, defibrillations, drug therapy, and postresuscitation 
+chain of survival
+Surgical considerations, chest reopening, and specific cardiac interventions including lower 
+epinephrine doses and sequential defibrillations
+Use of equipment Standard ACLS equipment including defibrillations and airway devices Includes specific surgical tools and techniques including sternotomy sets and ECLS
+Common scenarios Myocardial infarction, arrhythmias, cardiac arrest in various settings Cardiac tamponade, coronary ischemia, arrhythmias postsurgery
+Chest reopening Not included in protocol Includes protocols for emergency chest reopening if needed
+Special considerations General cardiac care and emergency response Specific to complications from cardiac surgery, ie, graft failure
+Goals Return of spontaneous circulation Stabilization with a focus on next step in reversing etiology of arrest
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.
+[[p23]]
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Gu et al. Page 23
+Table 2
+Common Causes of Cardiac Arrest in the Post–Cardiac Surgery Patient Population
+Etiology Description
+Myocardial ischemia Reduced blood flow to the heart muscle due to blocked or poor flow in coronary arteries
+Cardiac tamponade Accumulation of fluid in the pericardium leading to increased pressure on the heart and restricting filling of 
+cardiac chambers
+Arrhythmias Irregular heartbeats, such as ventricular fibrillation or tachycardia or heart block
+Hypovolemia Decreased blood volume due to excessive bleeding or inadequate fluid repletion
+Electrolyte imbalances Abnormal levels of electrolytes including potassium, calcium, and magnesium
+Respiratory failure Inadequate gas exchange
+Low cardiac output syndrome Inadequate cardiac output due to impaired heart function postsurgery
+Sepsis Severe infection leading to systemic inflammatory response and organ failure
+J Cardiothorac Vasc Anesth. Author manuscript; available in PMC 2025 February 06.

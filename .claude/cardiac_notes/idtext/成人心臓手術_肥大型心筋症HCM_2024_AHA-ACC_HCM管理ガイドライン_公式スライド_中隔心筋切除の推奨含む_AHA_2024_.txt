@@ -1,0 +1,994 @@
+
+[[p1]]
+AHA 
+Clinical Update
+ADAPTED FROM:
+2024 AHA/ACC/AMSSM/HRS/PACES/SCMR 
+Guideline for the Management of 
+Hypertrophic Cardiomyopathy 
+[[p2]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+s?PM?
+Applying Class of 
+Recommendation 
+and Level of 
+Evidence to 
+Clinical Strategies, 
+Interventions, 
+Treatments, or 
+Diagnostic Testing 
+in Patient Care
+CLASS (STRENGTH) OF RECOMMENDATION
+CLASS 1 (STRONG)                                                                              Benefit >>> Risk
+Suggested phrases for writing recommendations:
+• Is recommended
+• Is indicated/useful/effective/beneficial
+• Should be performed/administered/other
+• Comparative-Effectiveness Phrases†:
+− Treatment/strategy A is recommended/indicated in preference to 
+treatment B
+− Treatment A should be chosen over treatment B
+CLASS 2a (MODERATE)                                                                        Benefit >> Risk
+Suggested phrases for writing recommendations:
+• Is reasonable
+• Can be useful/effective/beneficial
+• Comparative-Effectiveness Phrases†:
+− Treatment/strategy A is probably recommended/indicated in preference to 
+treatment B
+− It is reasonable to choose treatment A over treatment B
+CLASS 2b (Weak)                                                                                     Benefit ≥ Risk
+Suggested phrases for writing recommendations:
+• May/might be reasonable
+• May/might be considered
+• Usefulness/effectiveness is unknown/unclear/uncertain or not well-established
+CLASS 3: No Benefit (MODERATE)                                                     Benefit = Risk
+Suggested phrases for writing recommendations:
+• Is not recommended
+• Is not indicated/useful/effective/beneficial
+• Should not be performed/administered/other
+CLASS 3: Harm (STRONG)                                                                     Risk > Benefit
+Suggested phrases for writing recommendations:
+• Potentially harmful
+• Causes harm
+• Associated with excess morbidity/mortality
+• Should not be performed/administered/other
+LEVEL (QUALITY) OF EVIDENCE‡
+LEVEL A
+• High-quality evidence‡ from more than 1 RCT
+• Meta-analyses of high-quality RCTs
+• One or more RCTs corroborated by high-quality registry studies
+LEVEL B-R                                                                            (Randomized)
+• Moderate-quality evidence‡ from 1 or more RCTs
+• Meta-analyses of moderate-quality RCTs
+LEVEL B-NR                                                                   (Nonrandomized)
+• Moderate-quality evidence‡ from 1 or more well-designed, well-
+executed nonrandomized studies, observational studies, or registry 
+studies
+• Meta-analyses of such studies
+LEVEL C-LD                                                                          (Limited Data)
+• Randomized or nonrandomized observational or registry studies 
+with limitations of design or execution
+• Meta-analyses of such studies
+• Physiological or mechanistic studies in human subjects
+LEVEL C-EO                                                                      (Expert Opinion)
+• Consensus of expert opinion based on clinical experience. 
+•COR and LOE are determined independently (any COR may be paired with any LOE). 
+•A recommendation with LOE C does not imply that the recommendation is weak. Many 
+important clinical questions addressed in guidelines do not lend themselves to clinical 
+trials. Although RCTs are unavailable, there may be a very clear clinical consensus that a 
+particular test or therapy is useful or effective.  
+•*The outcome or result of the intervention should be specified (an improved clinical 
+outcome or increased diagnostic accuracy or incremental prognostic information). 
+• †For comparative-effectiveness recommendation (COR 1 and 2a; LOE A and B only), 
+studies that support the use of comparator verbs should involve direct comparisons of 
+the treatments or strategies being evaluated. 
+•‡The method of assessing quality is evolving, including the application of standardized, 
+widely-used, and preferably validated evidence grading tools; and for systematic 
+reviews, the incorporation of an Evidence Review Committee.  
+•COR indicates Class of Recommendation; EO, expert opinion; LD, limited data; LOE, 
+Level of Evidence; NR, nonrandomized; R, randomized; and RCT, randomized controlled 
+trial. 
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+[[p3]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Hypertrophic Cardiomyopathy Prevalence and 
+Characteristics
+Inheritance 
+Pattern
+Autosomal 
+Dominant
+Sex 
+Distribution
+Women are diagnosed less 
+often and later
+Disease 
+Prevalence
+Estimated
+1:500
+Triggers for 
+Evaluation
+Symptoms
+Cardiac Event
+Heart Murmur
+Abnormal EKG
+or Imaging
+Family history
+Underlying SDOH likely 
+drive differences in 
+prevalence, genetic 
+testing, and 
+cardiovascular outcomes 
+by race and ethnicity
+Differential Diagnosis: Non-HCM Causes of LV Hypertrophy
+Metabolic & Multi-organ Syndromes
+RASopathies (Noonan Syndrome)
+Glycogen / Lysosomal storage diseases
+Cardiac Amyloidosis
+Sarcoidosis
+Danon disease
+Secondary Causes
+Athlete’s heart
+Uncontrolled Hypertension
+Valvular & subvalvular aortic 
+stenosis
+Abbreviations:  EKG indicates electrocardiogram; SDOH, social determinants of health; and RAS, reticular activating system. 
+3
++/- -/-
++/-
+
+[[p4]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Defining Hypertrophic Cardiomyopathy in 2024
+• Characterized by left ventricular hypertrophy
+Asymmetric septal hypertrophy is most characteristic
+• No other cardiac, systemic or metabolic disease capable of producing the 
+magnitude of increased LV wall thickness present
+• Disease-causing variant in a sarcomere gene identified or genetic etiology 
+unresolved
+Diagnostic Criteria in Adults
+2D echocardiography or cardiac MRI
+Maximal end-diastolic LV wall thickness > 15 mm
+or
+Maximal end-diastolic LV wall thickness 13-14 mm if 
+there is a family history of HCM or a pathogenic 
+sarcomere gene is present
+Diagnostic Criteria in Children
+Abbreviations: 2D indicates two dimensional; MRI, magnetic resonance imaging; mm, millimeter
+4
+LV wall thickness z-score > 2.5
+or
+LV wall thickness  z-score >2 if there is a family history 
+of HCM or a pathogenic sarcomere gene is present
+2D echocardiography or cardiac MRI
+[[p5]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Adverse Events Associated Hypertrophic 
+Cardiomyopathy
+Although some patients with HCM have a normal 
+life expectancy without limiting symptoms, many 
+will have important consequences
+Sudden 
+Death
+Progressive 
+Functional 
+Limitation
+Atrial Fibrillation Heart 
+Failure Thromboembolism
+Abbreviations: HCM indicates hypertrophic cardiomyopathy. 
+5
+
+[[p6]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Pathophysiology of Hypertrophic 
+Cardiomyopathy
+Dynamic LVOT 
+Obstruction
+Mitral Regurgitation
+Metabolic/Energetic 
+Dysfunction
+Diastolic Dysfunction
+Myocardial Ischemia
+Abbreviations: LVOT indicates left ventricular outflow tract.
+6
+Atrial and Ventricular 
+Arrythmias
+
+[[p7]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Pathophysiology of HCM: LV Outflow Tract 
+Obstruction 
+7
+LVOTO, either at rest or with provocation, is present in many patients 
+with HCM and primarily caused by systolic anterior motion of the mitral 
+valve.
+Peak gradient of ≥30 mm Hg is considered indicative of obstruction
+Resting or provoked gradients ≥50 mmHg generally considered to be the 
+threshold for advanced pharmacologic or septal reduction therapy in 
+those patients with symptoms refractory to standard management.
+Abbreviations: HCM indicates hypertrophic cardiomyopathy; and LVOTO, left ventricular outflow tract. 
+Identify Site and Characteristics of Obstruction
+Use invasive assessment for LVOTO if clinical and 
+echo findings are discordant
+Management Dependent on Site and Characteristics 
+of Obstruction
+LVOTO in HCM is dynamic and sensitive to ventricular preload, afterload, and contractility
+LVOTO in HCM is primarily caused by basal septal hypertrophy and systolic anterior motion of 
+the mitral valve
+[[p8]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Pathophysiology of HCM: Diastolic Dysfunction
+Abbreviations: HCM indicates hypertrophic cardiomyopathy.
+Diastolic 
+Dysfunction
+Diastolic Dysfunction can 
+contribute to:
+• Abnormal intracellular 
+Ca reuptake
+• Excess actin-myosin 
+binding
+• Microvascular ischemia 
+• Altered energetics
+Features of HCM that contribute to 
+Diastolic Dysfunction
+• Altered Ventricular 
+Load with High 
+Intracavitary 
+Pressures 
+• Impaired LV 
+compliance
+Decreased Exercise 
+Capacity
+Adverse prognosis 
+independent of 
+LVOTO
+8
+Heart Failure
+Dyspnea
+[[p9]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Pathophysiology of HCM: Mitral Valve Abnormalities
+Factors that affect the severity of LVOTO also may 
+affect the degree of MR. Thus, imaging should be 
+performed at rest and with provocation.
+Common abnormalities of 
+the Mitral Valve in HCM
+• Excessive leaflet length
+• Anomalous papillary muscle 
+insertion
+• Anteriorly displaced papillary 
+muscles
+Mitral Regurgitation 
+occurs
+Secondarily from 
+Systolic Anterior 
+Motion  
+Abbreviations: HCM indicates hypertrophic cardiomyopathy; LVOTO, left ventricular outflow tract; 
+MR, mitral regurgitation
+9
+Primarily from 
+leaflet 
+abnormalities  
+
+[[p10]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Shared Decision-Making in HCM
+Discussions should involve:
+• Disclosure of risk and benefits of all screenings and therapies
+• Anticipated outcomes of all options
+• Goals, concerns and preferences of the patient (and family if the 
+???H??Gb?PH
+Shared decision discussions should be applied to:
+• Genetic testing
+• Medical and invasive therapies 
+for LVOT obstruction
+• Sudden death screening and ICD 
+Implantation
+• Participation in high-intensity 
+exercise and competitive sports
+• Pregnancy 
+Abbreviations: HCM indicates hypertrophic cardiomyopathy, and LVOT, left ventricular outflow tract.
+10
+[[p11]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Patient Centered
+Team-Based Care
+Cardiologists Outside 
+of HCM Centers:
+• Initial and Surveillance 
+Testing
+• Initial Treatment 
+Recommendations
+• Rapid Assessment for 
+Change in Disease Course
+Comprehensive 
+HCM Centers:
+• HCM Center Activities, Plus
+• Invasive Septal Reduction 
+Therapies
+• Catheter Ablation for Ventricular 
+and Complex Atrial 
+Tachyarrhythmias
+• Advanced Heart Failure Therapies
+• Management during Pregnancy
+HCM Centers:
+• Confirmation of Diagnosis
+• Genetic Counseling and Testing
+• Advanced Treatment Decisions
+Abbreviations: HCM indicates hypertrophic cardiomyopathy.
+11
+[[p12]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Septal Reduction Therapy
+• Referral to a comprehensive HCM Center with 
+expertise in invasive septal reduction therapy 
+to ensure optimal outcomes
+• Invasive septal reduction therapy performed 
+at centers with lower volumes and less 
+expertise may be associated with worse 
+outcomes
+Abbreviations: HCM indicates hypertrophic cardiomyopathy.
+12
+
+[[p13]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Diagnosis and Initial Evaluation
+Abbreviations: CMR indicates cardiac magnetic resonance; CT, computed tomography; ECG, electrocardiography;  echo, 
+echocardiography; EF, ejection fraction; HCM, hypertrophic cardiomyopathy; ICD, implantable cardiac defibrillator;  
+IV,  intravenous; LVH, left ventricular hypertrophy; SCD,  sudden cardiac death; and  TTE, transthoracic echo
+In suspected HCM comprehensive exam and 3-generation family history (1)
+• 12-Lead ECG is recommended in initial 
+evaluation and every 1-2 years (1)
+• In patients with HCM, genetic testing 
+is beneficial for identification of 
+family members at risk
+• Genetic counseling recommended to 
+facilitate shared decision-making (1)
+Consider “mimics” (see next slide)
+Diagnostic evaluation: 
+ECG, Imaging, Genetics
+Imaging
+Echo (1st Choice)
+In patients with suspected HCM, a TTE is recommended in 
+the initial evaluation (1)
+For patients whom the diagnosis of apical HCM, apical 
+aneurysm, or atypical patterns of hypertrophy is 
+inconclusive on TTE, the use of IV ultrasound enhancing 
+agent is reasonable (2a)
+CMR
+If echo is inconclusive (1)
+Patients with LVH with suspicion of alt diagnoses, including infiltrative 
+or storage disease as well as athlete’s heart (1)
+Decision of ICD remains uncertain, CMR beneficial for max LV wall 
+thickness, EF, LV apical aneurysm, and extent of myocardial fibrosis (1)
+For patients with obstructive HCM in whom the anatomic mechanism of 
+obstruction is inconclusive on echo (1)
+Cardiac Computed 
+Tomography
+In adult patients with 
+suspected HCM, cardiac CT 
+may be considered for 
+diagnosis if the echo is not 
+diagnostic and CMR 
+imaging is unavailable  
+(2b)
+ECG Genetics
+13
+[[p14]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Clinical Features in Patients with “HCM Mimics”
+LIFE STAGE SYSTEMIC FEATURES POSSIBLE ETIOLOGY DIAGNOSTIC APPROACH
+Infants 
+(0-12 months) 
+and toddlers
+Dysmorphic features, failure to 
+thrive, metabolic acidosis
+• RASopathies (e.g. Noonan Syndrome)
+• Glycogen storage diseases, other 
+metabolic or mitochondrial diseases
+• Infant of a mother with diabetes
+• Geneticist assessment 
+• Newborn metabolic screening 
+• Specific metabolic assays
+• Genetic testing
+Early 
+childhood
+Delayed or abnormal cognitive 
+development, visual or hearing 
+impairment
+• RASopathies (e.g. Noonan Syndrome)
+• Mitochondrial diseases
+• Biochemical screening
+• Genetic testing
+School age and 
+adolescence
+Skeletal muscle weakness or 
+movement disorder
+• Friedrich ataxia, Danon disease 
+• Mitochondrial disease
+• Biochemical screening
+• Neuromuscular assessment
+• Genetic testing
+Adulthood Movement disorder, peripheral 
+neuropathy, renal dysfunction
+Anderson-Fabry disease,  Friedrich 
+ataxia, infiltrative disorders (e.g., 
+amyloidosis), glycogen storage diseases
+• Biochemical screening,
+• Neuromuscular assessment
+• Genetic testing
+Abbreviations:  RAS indicates reticular activating system. 
+14
+[[p15]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Guidance for Family Management
+Abbreviations: CMR indicates cardiovascular magnetic resonance; CPET, cardiopulmonary exercise test; ECG, electrocardiography/electrocardiogram; 
+HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter-defibrillator; LVOTO, left ventricular outflow tract obstruction; 
+P/LP, pathogenic or likely pathogenic variant; SCD, sudden cardiac death; and VUS, variant of unknown significance. 
+Family with known disease-causing variant?
+Patient has 
+family variant?
+Further clinical or genetic 
+testing is not recommended 
+(3:No Benefit)
+Relatives should present for 
+evaluation if clinical change
+Screening ECG and Echo 
+(CMR if echo is inconclusive) 
+at the intervals in the next 
+slide (1)
+Yes No
+No
+Yes, or Unknown
+If Variant downgraded to VUS, do 
+not perform further predictive 
+testing.
+All at-risk relatives should have 
+periodic clinical screening
+15
+Periodically Reassess 
+variant classification (1)
+[[p16]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Guidance for Individuals Diagnosed with Clinical HCM
+Phenotype 
+Positive
+Every 2-3 y
+Treadmill exercise or Cardiopulmonary exercise 
+testing for assessment of functional status (2b)
+Exercise Testing
+Special consideration (1):
+• Stress echo if gradient <50 mm Hg
+• CPET if considering advanced HF therapies
+Complete 
+Baseline Evaluation
+• SCD risk assessment 
+• Exercise echo testing if symptomatic, if LVOTO is suspected 
+but unconfirmed, or to determine baseline functional 
+capacity
+Every 1-2 years or with 
+any change in symptoms*
+Serial evaluation for clinical status, SCD risk, AF risk, or any 
+change in symptoms (1):
+• Clinical assessment
+• Echo • Ambulatory ECG monitor
+Every 3-5 y CMR for SCD risk assessment (if no ICD present), or to evaluate 
+for any suspected morphologic changes (2b)
+Asymptomatic 
+Adults
+Children and/or 
+Symptomatic Adults
+Abbreviations: CMR indicates cardiovascular magnetic resonance; CPET, cardiopulmonary exercise test; ECG, electrocardiography/electrocardiogram; 
+HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter-defibrillator; LVOTO, left ventricular outflow tract obstruction; 
+P/LP, pathogenic or likely pathogenic variant; SCD, sudden cardiac death; and VUS, variant of unknown significance. 
+16
+[[p17]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Screening with Electrocardiography and 2D 
+Echocardiography Recommendations in 
+Asymptomatic Family Members*
+AGE OF FIRST-DEGREE RELATIVE INITIATION OF SCREENING REPEAT ECG, ECHO
+Pediatric
+Children and adolescents from families 
+with a disease-causing sarcomere 
+variant, and 
+families with early onset disease
+At the time HCM is diagnosed in a family 
+member Every 1-2 y
+All other children At any time after HCM is diagnosed in a 
+family member but no later than puberty Every 2-3 y
+Adults At the time HCM is diagnosed in another 
+family member Every 3-5 y
+* Includes all asymptomatic, phenotype-negative first-degree relatives deemed to be at-risk for developing HCM based on family history or genotype status and may sometimes include more 
+distant relatives based on clinical judgment. Screening interval may be modified (e.g., at onset of new symptoms or in families with a malignant clinical course or late-onset HCM).
+Abbreviations: ECG indicates electrocardiogram; Echo, echocardiogram; and HCM, hypertrophic cardiomyopathy.
+17
+[[p18]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Genetic Testing
+Figure 1 refers to figure on slide 18 (two slides prior). 
+Abbreviations: HCM indicates hypertrophic cardiomyopathy; LB/B, likely benign/benign; 
+LP/P, likely pathogenic or pathogenic; and VUS: variant of unknown significance 
+18
+Initiate Diagnostic Genetic Testing in Proband 
+with HCM
+Regular reevaluation for 
+variant reclassification 
+(See Figure 1, Box 4) (1)
+Disease-causing 
+LP/P variant 
+identified
+VUS, LB/B or no 
+variant identified
+Consider second tier 
+testing in probrand if 
+no variant is identified
+Cascade genetic testing in family (1) Clinical surveillance in family (1)
+Regular clinical surveillance 
+(See Figure 1, Box 5) (1)
+Regular follow-up 
+(See Figure 1, Box 2) (1)
+Further clinical or genetic 
+testing not recommended
+(See Figure 1, Box 3) (3: No Benefit)
+Regular follow-up 
+(See Figure 1, Box 2) (1)
+Reclassified 
+as LP/P
+Reclassified 
+as VUS or 
+LB/B
+Variant 
+positive
+Variant 
+negative
+HCM 
+diagnosed
+No evidence 
+of HCM
+[[p19]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Heart Rhythm Assessment in HCM
+COR RECOMMENDATIONS
+1 24- to 48-hour ambulatory ECG monitoring is recommended in the initial evaluation and as part of periodic follow 
+?G?PLQ?H???????rbc??????Gb?PH
+1 In patients with HCM who develop palpitations or lightheadedness, extended (>24h) ECG monitoring or event 
+???Gb?PH
+1
+In patients with HCM who are deemed high risk for AF based on risk factors or risk score, and who are eligible for 
+anticoagulation, extended ambulatory monitoring is recommended to screen for AF as part of initial evaluation and 
+?LM?Gb?PH
+2b
+In adult patients with HCM without risk factors for AF and who are eligible for anticoagulation, extended 
+ambulatory monitoring may be considered to assess for asymptomatic paroxysmal AF as part of initial evaluation 
+and periodic follow-up (every 1-2 years) (Class 2b)
+Abbreviations: AF indicates atrial fibrillation; ECG:, electrocardiography; HCM,  hypertrophic cardiomyopathy; and SCD, sudden cardiac death.
+19
+[[p20]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Risk Assessment of 
+Sudden Cardiac Death (SCD) in HCM
+`?????PLQ??Gb?PH
+Assess the following (Class 1):
+• Personal history of cardiac arrest, sustained ventricular arrhythmia, OR 
+unexplained syncope suspected to be arrhythmic
+• Family history of premature SCD in a close relative
+• Maximal LV wall thickness ≥30mm, EF ≤50%, LV apical aneurysm
+• NSVT or VT episodes on continuous ambulatory electrocardiographic monitoring
+CMR imaging to help decision regarding ICD if risk remains 
+“unresolved” or if the patient is unsure about ICD placement (Class 1)
+≥16 years old, reasonable to obtain echocardiographic LA diameter and maximal 
+LVOT gradient to assist in shared decision making for ICD placement (Class 2a)
+Abbreviations: EF indicates ejection fraction; NSVT, non-sustained ventricular tachycardia; CMR, cardiovascular magnetic resonance; 
+ICD, implantable cardioverter-defibrillator; LA, left atrium; LVOT, left ventricular outflow tract.
+20
+< 16 years of age it is reasonable to calculate an estimated 5-year sudden death risk 
+that includes echocardiographic parameters and genotype that may be useful during 
+shared decision-making for ICD placement  (Class 2a)
+[[p21]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+ICD Placement in High-Risk Patients with HCM
+Abbreviations: ICD indicates implantable cardioverter defibrillator; SCD, sudden cardiac death; VF, ventricular fibrillation; 
+VT, ventricular tachycardia; LVH, left ventricular hypertrophy; FH, family history; EF, ejection fraction; NSVT, non-sustained 
+ventricular tachycardia; LGE, late gadolinium enhancement; and CMR, cardiac magnetic resonance imaging.
+21
+An ICD is recommended 
+Gb?PH
+Cardiac Arrest,  
+or sustained VT
+An ICD is reasonable 
+(Class 2a)
+At least one major 
+risk factor for SCD:
+• FH of SCD
+• Massive LVH 
+≥30mm
+• Unexplained 
+syncope
+• LV Apical aneurysm
+• EF ≤50%
+An ICD may be 
+considered (2b)
+An ICD is not indicated 
+(3: Harm)
+At least one 
+conventional 
+risk factor:
+• Unexplained 
+syncope
+• Massive LVH
+• NSVT
+• FH of SCD
+Consider 
+additional 
+factor of LGE on 
+CMR or NSVT 
+No major risk 
+factors for SCD 
+with LGE on 
+CMR or NSVT 
+No risk factors
+Children
+YES
+[[p22]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Pharmacologic Management of Obstructive and 
+Non-Obstructive HCM
+Abbreviations: ACEi indicates angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers; CCBs, calcium channel blockers; 
+GDMT, guideline-directed medical therapy; HCM, hypertrophic cardiomyopathy; LVOTO, left ventricular outflow tract obstruction; and r/t, related to
+Obstructive
+If persistent 
+dyspnea with 
+volume 
+overload, 
+consider Low 
+Dose Diuretics 
+(Class 2b)
+Non-Obstructive HCM Preserved LVEF
+In highly selected patients with apical HCM with severe 
+dyspnea or angina (NYHA class III or class IV) despite maximal 
+medical therapy, and with preserved EF and small LV cavity 
+size, apical myectomy by experienced surgeons at 
+comprehensive centers may be considered to reduce 
+symptoms  (Class 2b)
+Consider 
+Discontinuing:
+• Vasodilators
+• Digoxin
+• High Dose 
+Diuretics (Class 
+2b)
+Verapamil potentially 
+HARMFUL in:
+• Severe Dyspnea at 
+Rest
+• Very High Gradients 
+(>100 mmHg)
+• Children < 6 Weeks 
+(Class 3: Harm)
+PM?h?
+Fluids
+2. Phenylephrine 
+± ß-Blocker 
+(without inotropic 
+H?Gb?PH
+Step-Wise Approach:
+PM?mLu?ßLa
+2. If not effective or not tolerated, switch to Non-
+Dihydropyridine CCBs
+3. If persistent severe symptoms,
+• Add Myosin Inhibitor (ie Mavacamten)
+-OR-
+• Add Disopyramide
+-OR-
+• Septal Reduction Therapy performed at 
+??Gb?PH
+ß-Blocker or Non-
+Dihydropyridine 
+bba?Gb?PH
+Oral Diuretic if evidence of 
+congestion 
+(Class 2a)
+Benefits of 
+b-Blocker or 
+CCBs is not 
+well 
+established 
+(Class 2b)
+Valsartan may 
+be considered 
+to potentially 
+slow adverse 
+cardiac 
+remodeling 
+(Class 2b)
+Usefulness of 
+ACEi / ARBs in 
+symptomatic patients 
+with LVEF>50% is not 
+well established 
+(Class 2b)
+• ≤45 years
+• Asymptomatic
+• Pathogenic sarcomere 
+variant carrier
+• Mild phenotype:
+Symptomatic:
+Asymptomatic:
+22
+Symptoms r/t LVOTO Acute 
+Hypotension
+[[p23]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Invasive Management of Obstructive HCM
+Abbreviations: AF indicates atrial fibrillation; GDMT, guideline-directed medical therapy; LVOTO, HCM, hypertrophic cardiomyopathy; 
+LAE, left atrial enlargement; left ventricular outflow tract obstruction; NYHA, New York Heart Association; and MR, mitral regurgitation; 
+Obstructive HCM
+NYHA Class III / IV or symptoms 
+attributable to LVOTO
+Septal Reduction 
+Therapy at experienced 
+?Gb?PH
+Despite 
+GDMT
+Alcohol Septal Ablation in eligible patients 
+is recommended in patients whom:
+• Surgery is contraindicated or declined
+• Risk is considered unacceptable due to 
+????Gb?PH
+Surgical Myectomy is 
+recommended in patients with 
+associated cardiac disease 
+requiring surgical treatment:
+• Associated anomalous papillary 
+muscle
+• Markedly elongated anterior mitral 
+valve leaflet
+• Intrinsic mitral valve disease
+• Multivessel coronary artery disease
+•?u???Gb?PH
+Mitral Valve Replacement should not be 
+performed for sole purpose of relieving 
+LVOTO (Class 3:Harm)
+Septal Reduction Therapy should not be 
+performed in asymptomatic patients with 
+normal exercise capacity (Class 3:Harm)
+Septal Reduction Therapy may be 
+considered as alternative to 
+escalation of medical therapy 
+after shared-decision making 
+(Class 2b)
+Surgical Myectomy is reasonable in NYHA Class II if: 
+• Severe PH attributable to LVOTO or MR
+• LAE with ≥1 episodes of symptomatic AF
+• Poor functional capacity attributable to LVOTO
+• Children or young adults Class with very high LVOT 
+gradients (> 100 mmHg) (Class 2b)
+23
+[[p24]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Hypertrophic Cardiomyopathy with 
+Advanced Heart Failure 
+24
+Abbreviations: CAD indicates coronary artery disease; GDMT, guideline-directed medical therapy; LBBB, left bundle branch block; 
+LVAD, left ventricular assist device; LVEF, left ventricular ejection fraction; and NYHA, New York Heart Association
+If systolic dysfunction:
+q????G?b`cH?Gb?PH
+If persistent systolic 
+dysfunction
+Discontinue Cardiac Myosin 
+Inhibitors (eg Mavacamten) 
+Gb?PH
+If persistent systolic 
+dysfunction:
+Reasonable to Discontinue 
+negative inotropic agents:
+• Verapamil
+• Diltiazem
+• Disopyramide (Class 2a)
+Cardiac 
+Resynchronization 
+Therapy can be 
+beneficial 
+(Class 2a)
+ICD Implantation 
+can be beneficial 
+(Class 2a)
+If non-obstructive and NYHA III / IV despite GDMT:
+• Cardiopulmonary Exercise Testing should be 
+performed to quantify functional limitations
+• Heart Transplantation Assessment
+– Also consider if ventricular arrhythmias 
+??fcls?Gb?PH
+If non-obstructive and NYHA III / IV:
+Continuous-Flow LVAD therapy is a reasonable 
+bridge to heart transplantation (Class 2a)
+NYHA II – IV despite 
+GDMT with LBBB
+[[p25]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Management of Atrial Fibrillation in 
+Patients with HCM
+COR RECOMMENDATIONS
+1 In patients with clinical AF or subclinical AF (≥ 24 hours), anticoagulation with direct-acting oral anticoagulants (DOACs) 
+is first line
+1 Anticoagulation with Vitamin K Antagonists is second line
+1 ß-Blocker, Verapamil, or Diltiazem is recommended if pursuing rate control strategy
+2a In patients with subclinical AF, lasting > 5 minutes but < 24 hours for a given episode, anticoagulation with DOAC as first 
+line, and vitamin K Antagonist as second line can be beneficial
+2a Patients with poorly tolerated AF, a rhythm control strategy with cardioversion or anti-arrhythmic drugs can be beneficial
+2a AF catheter ablation can be effective when drug therapy is 1) ineffective, 2) contraindicated or 3) not patient’s preference
+2a In patients with AF undergoing myectomy, concomitant surgical AF ablation can be beneficial
+Abbreviations: AF indicates atrial fibrillation; and DOACs, direct-acting oral anticoagulants
+QT
+[[p26]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+HCM-AF Risk Calculator: Risk for Atrial Fibrillation 
+in Hypertrophic Cardiomyopathy
+Abbreviations: AF indicates atrial fibrillation; and HCM, hypertrophic cardiomyopathy
+26
+https://professional.heart.org/en/guidelines-and-
+statements/hcm-af-risk-calculator
+
+[[p27]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Management of Ventricular Tachycardia in 
+Patients with HCM
+Abbreviations: AADs indicates anti-arrhythmic drugs; and HCM, hypertrophic cardiomyopathy
+Anti-Tachycardia 
+Pacing to 
+minimize risk of 
+?Gb?PH?
+Heart 
+Transplantation 
+Assessment 
+Gb?PH?
+ADULTS*
+Amiodarone
+Dofetilide
+Mexiletine
+r?Gb?PH
+CHILDREN*
+Amiodarone
+Mexiletine
+Sotalol 
+Gb?PH
+* Choice of agent 
+guided by age, 
+underlying 
+comorbidities, 
+severity of disease, 
+patient preferences, 
+and balance of 
+efficacy and safety
+Catheter Ablation can be useful for 
+reducing arrhythmia burden (Class 2a)
+If AAD is ineffective, not 
+tolerated, or not preferred
+Despite AAD 
+and Ablation
+Despite ß-Blocker Use 
+27
+Recurrent Ventricular Tachycardia 
+[[p28]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Recreational Physical Activity and 
+Competitive Sports in HCM
+COR RECOMMENDATIONS
+1 Mild- to moderate-intensity recreational exercise is encouraged for all patients with HCM. 
+1 Elite athletes engaging in competition should undergo comprehensive evaluation with an expert 
+provider.
+2a In individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive 
+sports is reasonable. 
+2a Vigorous recreational activities are reasonable for patients with HCM accompanied by annual 
+evaluations. 
+2b Competitive sports may be considered after annual comprehensive evaluation and shared decision-
+making that includes an expert in HCM and sports cardiology.
+3: No 
+Benefit Universal restriction from vigorous physical activity or competitive sports is not indicated
+3: 
+Harm ICD placement for the sole purpose of participation in competitive athletics should not be performed.
+Abbreviations: HCM indicates hypertrophic cardiomyopathy; ICD, implantable cardioverter defibrillator; and SCD, sudden cardiac death.
+28
+[[p29]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Occupation Recommendations in HCM
+COR RECOMMENDATIONS
+2a Follow the Federal Motor Carrier Safety Guidelines for those without ICD or major risk factors for SCD 
+and are using a GDMT plan.
+2a For pilots, follow Federal Aviation Administration guidelines for multicrew flying duties if they are 
+asymptomatic, low risk for SCD and complete a treadmill stress test at 85% of peak heart rate.
+2b
+Occupations that require manual labor, heavy lifting, or a high level of physical performance may be 
+reasonably considered after annual comprehensive evaluation, SCD risk assessment, and GDMT in the 
+context of  shared decision-making.
+Abbreviations: GDMT indicates guideline-directed management and therapy; HCM, hypertrophic cardiomyopathy;
+ICD, implantable cardioverter defibrillator; and SCD, sudden cardiac death.
+29
+[[p30]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Pregnancy in HCM
+COR RECOMMENDATIONS
+1
+In high risk HCM, consultation with a 
+maternal-fetal medicine expert is 
+recommended.
+1
+In families affected by HCM, 
+preconception and prenatal reproductive 
+and genetic counseling recommended.
+1
+In patients with HCM and AF low 
+molecular weight heparin or low dose 
+warfarin are recommended.
+1
+Beta-blocker for symptoms of LVOT 
+obstruction or arrhythmia, with 
+monitoring of fetal growth.
+1 Vaginal delivery is the first-choice 
+in HCM.
+COR RECOMMENDATIONS
+2a
+In clinically stable HCM, it is reasonable 
+to advise pregnancy is generally safe as 
+part of shared discussion and initiation of 
+GDMT.
+2a
+Reasonable to cardiovert new or recurrent 
+atrial fibrillation, especially if 
+symptomatic.
+2a
+Reasonable to use general or epidural 
+anesthesia, with precautions to avoid 
+hypotension.
+2a
+Reasonable to perform serial 
+echocardiography in the second or third 
+trimester, or if symptoms develop.
+3: 
+Harm
+Use of mavacamten is contraindicated 
+due to potential teratogenic effects.
+Abbreviations: GDMT indicates guideline-directed management and therapy; HCM,hypertrophic cardiomyopathy; and LVOT, left ventricular outflow tract.
+30
+[[p31]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Unmet Needs and Future Directions
+Refining criteria for HCM to improve 
+diagnostic accuracy and facilitate 
+potential targeted therapies
+Developing safe and effective 
+therapies that attenuate and 
+prevent disease progression
+Advancing care for patients 
+with 
+non-obstructive HCM
+Incorporating new risk factors and 
+tools to improve screening, risk 
+stratification, and disease monitoring
+Improving management and risk 
+stratification of arrhythmias in 
+patients with HCM
+Expanding access to genetic counseling 
+and testing, as well as improving 
+interpretation of results (particularly 
+pertaining to variants of unknown significance)
+Abbreviations: HCM indicates hypertrophic cardiomyopathy
+31
+[[p32]]
+Ommen, S.R. et al, 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. Circulation.
+Acknowledgments
+Many thanks to our Guideline Ambassadors who were guided by Dr. Elliott 
+Antman in developing this guideline derivative product in support of the 2024 
+AHA/ACC/AMSSM/HRS/PACES Guideline for the Management of Hypertrophic 
+Cardiomyopathy.
+Dr. Ijeoma Eleazu
+Dr. Ahmed Kazem
+Dr. Dennis Narcisse
+Dr. Jessica Regan
+Dr. Raymond Yeow
+The American Heart Association requests this electronic slide deck be cited as follows: 
+Eleazu, I., Kazem, A., Narcisse, D., Regan, J., Yeow, R., Reyna, G., Bezanson, J. L., & Antman, E. M. (2024).  
+AHA Clinical Update; Adapted from: [PowerPoint slides]. Retrieved from the 2024 
+ACC/AHA/AMSSM/HRS/PACES Guideline for the Management of Hypertrophic Cardiomyopathy. 
+https://professional.heart.org/en/science-news. 
+32

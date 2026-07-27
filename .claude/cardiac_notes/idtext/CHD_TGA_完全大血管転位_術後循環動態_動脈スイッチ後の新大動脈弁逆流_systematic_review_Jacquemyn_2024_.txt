@@ -1,0 +1,965 @@
+
+[[p1]]
+ORIGINAL RESEARCH
+CONGENITAL HEART DISEASE
+Neoaortic Regurgitation Detected by
+Echocardiography After Arterial
+Switch Operation
+A Systematic Review and Meta-Analysis
+w?iK?ar?bKK?i?u??dK?lcK?K?`?rK?ar?bKKK?q?kMeM???oK?lcK?o?gcK
+Werner Budts, MD, P HD,f David A. Danford, MD, MPH, a William J. Ravekes, MD, a Shelby Kutty, MD, P HD, MHCM a
+ABSTRACT
+BACKGROUND Neoaortic root dilatation (NeoARD) and neoaortic regurgitation (NeoAR) are common sequelae
+following the arterial switch operation (ASO) for transposition of the great arteries.
+OBJECTIVES The authors aimed to estimate the cumulative incidence of NeoAR, assess whether larger neoaortic root
+dimensions were associated with NeoAR, and evaluate factors associated with the development of NeoAR during long-
+term follow-up.
+METHODS Electronic databases were systematically searched for articles that assessed NeoAR and NeoARD after ASO,
+published before November 2022. The primary outcome was NeoAR, classi ﬁed based on severity categories (trace, mild,
+moderate, and severe). Cumulative incidence was estimated from Kaplan-Meier curves, neoaortic root dimensions using
+Z-scores, and risk factors were evaluated using random-effects meta-analysis.
+RESULTS Thirty publications, comprising a total of 6,169 patients, were included in this review. Pooled estimated
+cumulative incidence of $mild NeoAR and $moderate NeoAR at 30-year follow-up were 67.5% and 21.4%, respectively.
+At last follow-up, neoaortic Z-scores were larger at the annulus (mean difference [MD]: 1.17, 95% CI: 0.52-1.82,
+P < 0.001; MD: 1.38, 95% CI: 0.46-2.30, P ¼ 0.003) and root (MD: 1.83, 95% CI: 1.16-2.49, P < 0.001; MD: 1.84,
+95% CI: 1.07-2.60, P < 0.001) in patients with $mild and $moderate NeoAR, respectively, compared to those without
+NeoAR. Risk factors for the development of any NeoAR included prior pulmonary artery banding, presence of a ven-
+tricular septal defect, aorto-pulmonary mismatch, a bicuspid pulmonary valve, and NeoAR at discharge.
+CONCLUSIONS The risks of NeoARD and NeoAR increase over time following ASO surgery. Identi ﬁed risk factors for
+NeoAR may alert the clinician that closer follow-up is needed. (Risk factors for neoaortic valve regurgitation after arterial
+switch operation: a meta-analysis; CRD42022373214). (JACC Adv 2024;3:100878) © 2024 The Authors. Published by
+Elsevier on behalf of the American College of Cardiology Foundation. This is an open access article under the CC BY li-
+cense ( http://creativecommons.org/licenses/by/4.0/).
+ISSN 2772-963X https://doi.org/10.1016/j.jacadv.2024.100878
+From the aDepartment of Pediatrics, Helen B. Taussig Heart Center, Johns Hopkins Hospital, Baltimore, Maryland, USA;
+bDepartment of Cardiovascular Sciences, KU Leuven, Leuven, Belgium; cProgram in Medical and Population Genetics and Car-
+diovascular Disease Initiative, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA; dCardiovascular Research
+Center and Center for Genomic Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA; eDivision of Pediatric
+Cardiology, Department of Pediatrics, Leiden University Medical Center, Leiden, the Netherlands; and the fCongenital and
+Structural Cardiology, Department of Cardiovascular Sciences, UZ Leuven, KU Leuven, Leuven, Belgium.
+The authors attest they are in compliance with human studies committees and animal welfare regulations of the authors ’
+institutions and Food and Drug Administration guidelines, including patient consent where appropriate. For more information,
+visit the Author Center .
+Manuscript received August 8, 2023; revised manuscript received December 18, 2023, accepted January 4, 2024.
+i`bbY?`cu`mbdr?u?n?k?MR?Km?n?MS?KQ?O?Q?S
+ª 2024 THE AUTHORS. PUBLISHED BY ELSEVIER ON BEHALF OF THE AMERICAN
+COLLEGE OF CARDIOLOGY FO UNDATION. THIS IS AN OPEN ACCESS ARTICLE UNDER
+THE CC BY LICENSE ( http://creativecommons.org/licenses/by/4.0/ ).
+[[p2]]
+T
+he arterial switch operation (ASO)
+for transposition of the great arteries
+(TGA) was ﬁrst successfully per-
+formed in 1976 by Jatene et al.
+1 Following
+modi ﬁc a t i o n sm a d eb yL e c o m p t ee ta l ,2 the
+ASO has become the standard of care for
+restoring appropriate physiology and anat-
+omy in TGA. As early mortality and morbidity
+following the ASO have diminished, the TGA
+population has become substantially older,
+and complications, including right ventricu-
+lar out ﬂow tract obstruction, pulmonary ar-
+tery stenosis, neoaortic root dilatation
+(NeoARD), and neoaortic regurgitation
+(NeoAR), have been observed later in the post-ASO
+course.
+3 To prevent the threats to health associated
+with these complications, it is expected that there
+will be an increasing need for neoaortic valve surgery
+(NeoAVS) and neoaortic root reoperation among older
+TGA patients.
+3 Yet, data on the long-term effects of
+ASO on neoaortic growth and function are inconsis-
+tent. Some studies have shown stabilization of Neo-
+ARD and NeoAR over time, while others have
+described signi ﬁcant ongoing late progression. More-
+over, risk factors associated with late NeoAR and Neo-
+ARD vary considerably across reports.
+4,5
+METHODS
+The protocol for this meta-analysis and systematic
+review was ﬁnalized a priori and registered with
+PROSPERO ( CRD42022373214 ). We followed the
+Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses statement. Ethical approval/
+institutional review board approval was not required.
+Additional Supplemental Methods a r ea v a i l a b l ei nt h e
+Supplemental Appendix .
+DATA SOURCES, SEARCHES, AND ELIGIBILITY CRITERIA.
+Systematic literature searches were conducted in
+PubMed, EMBASE, Scopus, and the Cochrane Library
+electronic databases up to November 1, 2022. Studies
+were included if the following criteria were ful ﬁlled:
+1. The population comprised patients with TGA who
+underwent ASO;
+2. Primary outcomes studied included NeoAR, Neo-
+ARD, and/or NeoAVS;
+3. Longitudinal follow-up data were available, and
+estimates for the outcomes of interest were re-
+ported up to at least 10 years post-ASO.
+STUDY SELECTION AND DATA EXTRACTION. Studies
+were selected by 2 independent reviewers (X.J. and
+A.S.). When there was disagreement, the ﬁnal deci-
+sion to include or exclude the study was made in
+consensus. The Risk of Bias in Non-Randomized
+Studies of Interventions tool was systematically
+applied to assess all included studies for risk of bias.
+6
+The studies and their characteristics were classi ﬁed
+by 2 independent reviewers (X.J. and A.S.).
+OUTCOMES. The primary outcome of interest in this
+study was NeoAR, while secondary outcomes include
+NeoARD and NeoAVS. NeoAR was collected as a
+semiquantitative/qualita tive grade (including none,
+trace, mild, moderate, and severe) from original
+studies. NeoARD was de ﬁned as a Z-score $2.5 (or
+extracted as per original institutional de ﬁnitions).
+NeoAVS was de ﬁned as the need for reintervention
+for neoaortic root dilation or neoaortic valve regur-
+gitation, including valve repair or replacement.
+STATISTICAL ANALYSIS. To estimate the cumulative
+incidence of NeoAR and other secondary adverse
+outcomes, we employed the “ curve approach ”
+reconstructing individual patient data based on pub-
+lished Kaplan-Meier grap hs from included studies
+using a 2-stage approach.
+7 Kaplan-Meier plots were
+digitized to raw data coordinates using an online
+web-based plot digitizer software (Web Plot Digitizer,
+Version 4.6), and individual patient data was recon-
+structed from the raw data coordinates using the R
+package “ IPDfromKM ” (version 0.1.10).
+8 Risk factors
+for NeoAR during follow-up from individual studies
+were pooled using random-effects models. Time-to-
+event data were analyzed using a Cox frailty model
+with a robust variance estimator. Risk factors were
+incorporated as ﬁxed-effects, and the study factor
+was included as a
+g frailty term (random-effects). In
+addition, the random-effect results were reanalyzed
+using ﬁxed-effects models to explore whether this
+yielded potential variat ions in the summary in-
+ferences. All analyses were completed with R Statis-
+tical Software (version 4.2.1, Foundation for
+Statistical Computing).
+RESULTS
+STUDY SELECTION AND CHARACTERISTICS. Our
+initial search yielded 344 unique citations
+(Supplemental Table 1 ); among these, 30 ful ﬁlled our
+eligibility criteria ( Figure 1 ).
+4,5,9-36 Characteristics of
+each study and their participants are shown in
+Table 1 . The 30 included studies comprised a total of
+6,169 patients and were conducted in 13 different
+countries across 3 continents. All studies had a
+retrospective observational design. One included
+data from multiple centers.
+31 The proportion of cases
+in which the Lecompte proce dure was performed was
+reported in 10 studies (range 91%-100%). Coronary
+artery reimplantation techniques varied greatly
+ABBREVIATIONS
+AND ACRONYMS
+Ao/PA = aorta/pulmonary
+artery
+ASO = arterial switch operation
+NeoAR = neoaortic
+regurgitation
+NeoARD = neoaortic root
+dilatation
+NeoAVS = neoaortic valve
+surgery
+TBA = Taussig-Bing anomaly
+TGA = transposition of the
+great arteries
+Jacquemyn et al JACC: ADVANCES, VOL. 3, NO. 4, 2024
+NeoAR After ASO APRIL 2024:100878
+2
+[[p3]]
+between centers, and only 12 studies disclosed fre-
+quencies of surgical methods used, most commonly
+(modi ﬁed) trap door techniques, button techniques,
+or a combination of both. Less frequently, some
+studies favored direct coro nary anastomosis. In rare
+cases, other techniques such as the Imai, Yacoub, or
+aortic sinus pouch techniques were used. Qualitative
+assessment of the studies with the Risk of Bias in
+Non-Randomized Studies of Interventions tool
+demonstrated several concerns regarding confound-
+ing factors, missing data, and bias in measurement of
+outcomes. Thus, the overall internal validity of the
+analysis was considered moderate risk of bias
+(Supplemental Figure 1 ).
+CUMULATIVE INCIDENCE OF NEOAORTIC REGURGITATION,
+ROOT DILATATION, AND VALVE SURGERY .Prevalence of
+NeoAR at ﬁnal echocardiographic follow-up varied
+greatly among studies, ranging from 2.5% to 84.1%.
+Most studies used a quantitative or semiquantitative
+approach to grade NeoAR, which was then converted
+to a qualitative grade for interpretation and analysis
+(Supplemental Table 2 ). Five studies
+15,19,26,27,37 pre-
+sented cumulative incidence of $mild NeoAR,
+including 1,727 patients ( Figure 2A ). Survival free
+from $mild NeoAR was 78.1%, 47.7%, and 32.5% at 10,
+20, and 30 years after ASO, respectively. Twelve
+studies 4,5,9,21,25,26,28-30 ,33,35,37 presented cumulative
+incidence of $ moderate NeoAR, including 3,869 pa-
+tients ( Figure 2B ). Survival free from $moderate
+NeoAR was 94.8%, 87.8%, and 78.6% at 10, 20, and
+30 years after ASO, respectively. A total of 4
+studies
+21,24,30,33 presented cumulative incidence of
+NeoARD (de ﬁnition ranging between Z-score $2.5
+and $4) including 893 patients ( Figure 3A ). Freedom
+from NeoARD at 10, 15, and 20 years after ASO was
+57.9%, 44.1%, and 34.9%, respectively. A summary of
+the proportion of NeoAVS during follow-up and the
+respective performed procedures are presented in
+r?s?R?Ms????????
+4,5 reported cu-
+mulative incidence of Neo AVS including 778 patients
+(Figure 3B ). NeoAVS-free survival at 10, 20, and
+30 years after ASO was 99.4%, 96.5%, and
+93.0%, respectively.
+ASSOCIATION OF NEOAORTIC ROOT Z-SCORES WITH
+NEOAORTIC REGURGITATION AT FOLLOW-UP. To
+determine whether neoaortic root dimensions at
+echocardiographic follow-up (median 10.5 years,
+range 0.1-25 years) were associated with NeoAR, we
+compared these among patients who developed
+NeoAR and those who did not. We found that
+increasing neoaortic Z-scores were signi ﬁcantly
+higher both at the annulus and the root in patients
+with $ mild NeoAR (MD: 1.17 [95% CI: 0.52-1.82],
+P < 0.001; and MD: 1.83 [95% CI: 1.16-2.49], P < 0.001,
+respectively), while no signi ﬁcant difference was
+observed at the sinotubular junction (MD: 0.47
+[95% CI: -0.25-1.19], P ¼ 0.202). Additionally, neo-
+aortic Z-scores were signi ﬁcantly higher both at the
+annulus and the root in patients with $moderate
+NeoAR (MD: 1.38, 95% CI: 0.46-2.30, P ¼ 0.003; and
+MD: 1.84, 95% CI: 1.07-2.60, P < 0.001, respectively)
+(Table 2 , Supplemental Figures 2A to 2C and 5 ).
+IDENTIFICATION OF RISK FACTORS ASSOCIATED
+WITH NEOAORTIC REGURGITATION. Potential risk
+factors identi ﬁed on either univariable or multivari-
+able analysis reported from included studies in our
+literature review are summarized in Supplemental
+Table 4 . To elucidate the association with a ventricu-
+lar septal defect (VSD), we pooled all studies pre-
+senting strati ﬁed Kaplan-Meier survival curves. Three
+studies
+15,19,37 compared cumulative incidence of
+$mild NeoAR among patients with an intact ventric-
+ular septum with those with a VSD. Two studies 35,37
+FIGURE 1 PRISMA Flow Diagram of Studies Included in Data Search
+PRISMA ¼ Preferred Reporting Items for Systematic Reviews and Meta-Analyses.
+JACC: ADVANCES, VOL. 3, NO. 4, 2024 Jacquemyn et al
+APRIL 2024:100878 NeoAR After ASO
+3
+[[p4]]
+presented cumulative incidence of $moderate
+NeoAR. Patients with an associated VSD had a signif-
+icantly higher risk of $mild and $moderate NeoAR
+during follow-up compared to patients with intact
+ventricular septum (HR: 1.38 [95% CI: 1.01-1.87],
+P ¼ 0.040; and HR: 2.55 [95% CI: 1.31-4.99], P ¼ 0.006,
+respectively) ( Figures 4A and 4B ). Results of the meta-
+analysis comparing risk factors between patients
+who developed NeoAR after ASO and those who did
+not are summarized in Table 2 . A total of 19 studies
+compared data on baseline risk factors between pa-
+tients who developed NeoAR and those who did not
+(S u p p l e m e n t a lF i g u r e s3 ,4 ,6 ,a n d7). Signi ﬁcant risk
+factors for developing $trace NeoAR included prior
+p u l m o n a r ya r t e r yb a n d i n g( P A B )( O R :2 . 8 3( 9 5 %C I :
+1.34-5.96) P < 0.001), presence of a VSD (OR: 1.82
+[95% CI: 1.07-3.10] P ¼ 0.027), aorta/pulmonary artery
+(Ao/PA) size discrepancy (OR: 2.25 [95% CI: 1.44-3.51],
+P < 0.001), and NeoAR at discharge (OR: 5.64 [95% CI:
+3.62-8.79], P < 0.001). Signi ﬁcant risk factors for
+developing $moderate NeoAR were prior PAB (HR:
+2.56 [95% CI: 1.24-5.29], P ¼ 0.011) and presence of a
+bicuspid pulmonary valve (BPV) (HR: 1.96 [95% CI:
+1.01-3.81], P ¼ 0.047).
+DISCUSSION
+In our systematic review, we analyzed 30 retrospec-
+tive observational studies on ASO involving 6,169
+patients across 13 countrie s. We demonstrate that in a
+large group of patients with TGA followed for 30 years
+after ASO, 32.5% of patients remained free from $
+mild NeoAR, with 78.6% of patients remaining free
+from $moderate NeoAR ( Central Illustration ). Addi-
+tionally, our meta-analysis reveals associations be-
+tween larger neoaortic Z-scores and the occurrence of
+TABLE 1 Baseline Characteristics of Included Studies Re porting on Occurrence of Neoaortic Regurgitation
+First Author Year Location Centers Sample Size (n) Time Period Male, n (%) Age at ASO, d
+Bové et al 19 2008 Belgium S 93 1993-2006 66 (71) 8
+Co-Vu et al 30 2013 USA S 124 1984-2007 85 (29) 6 (3-1,800)
+Formigari et al 31 2003 Italy M 173 1987-2001 86 (50) 8 (2-344)
+Hutter et al 32 2001 the Netherlands S 144 1977-2000 NA 8 (1-1,878)
+Irwin et al 33 2021 USA S 278 1989-2018 174 (63) 8.2 /C6 2.8
+i???RS?QOQQ?j?r?VT?PXXVLQOPW?RX?GTQH?PQ?zVLQO|
+Lange et al 35 2008 Germany S 479 1983-2006 NA 11 (2-4,928)
+Lim et al 26 2013 Korea S 220 1987-2011 NA 13 (0-1,768)
+Lo Rito et al 4 2015 United Kingdom S 362 1988-1998 264 (73) 8 (1-3,905)
+Losay et al 27 2001 France S 1,095 1982-1999 NA 29 /C6 93
+Losay et al 36 2006 France S 1,156 1982-2000 NA 32.6 /C6 142
+Ma et al 9 2016 China S 583 2003-2013 NA 233 /C6 654
+Marino et al 10 2006 USA S 82 1984-1997 54 (66) 5 (1-1,825)
+Martins et al 11 2018 Brazil S 127 1997-2015 90 (70.8) NA
+Martins et al 12 2019 France S 157 2010-2017 108 (69) 14.9 /C6 30.9
+ll???PR?QOOS?tr`?r?PPX?PXWULQOOP?VT?GURH?Q?GQLRVH
+Michalak et al 14 2010 Poland S 161 1991-2008 116 (72) 9.79 /C6 10.67
+Michalak et al 15 2013 Poland S 172 1992-2011 122 (70) 9.68 /C6 9.45
+Michalak et al 16 2020 Poland S 56 1991-2018 NA NA
+Muneuchi et al 17 2022 Japan S 45 1986-2019 34 (75.5) 44.2 /C6 39.8
+Nakayama et al 5 2019 Japan S 469 1982-2016 NA 30.5 (3.1-2,486)
+Oda et al 29 2012 Japan S 387 1984-2010 NA 19
+Oda et al 18 2019 Japan S 145 1984-2015 101 (69.7) NA
+Prifti et al 20 2002 Italy S 134 1990-2001 79 (59) NA
+Puras et al 28 2014 Spain S 155 1985-2010 NA 13 (4-4,015)
+Schwartz et al 21 2004 USA S 335 1981-2000 192 (66.9) 6 (0-2,847)
+??o???RV?QOPX??m?r?RST?PXVVLQOPT?QQX?GUUMSH?W?GOLQPXH
+vMjM?i???QT?QOPQ?j?r?QSO?PXXPLQOPO?PUU?GUXMPH?PP?GOLPKQPRH
+Walter et al 23 2010 Germany S 324 1987-2008 215 (66.3) 6.3 /C6 0.4
+Wang et al 24 2022 China S 185 2006-2022 131 (70.8) 24 /C6 1,240
+Values presented as mean /C6 SD, median (range), median [IQR], and n/N (%) according to originally published data. aBicuspid pulmonary valve groups were matched.
+AAA ¼ aortic arch anomalies; ASO ¼ arterial switch operation; BPV ¼ bicuspid pulmonary valve; NeoAR ¼ neoaortic regurgitation; TBA ¼ Taussig-Bing Anomaly; VSD ¼ ventricular septal
+defect.
+Continued on the next page
+Jacquemyn et al JACC: ADVANCES, VOL. 3, NO. 4, 2024
+NeoAR After ASO APRIL 2024:100878
+4
+[[p5]]
+NeoAR and identi ﬁes 5 key risk factors linked to the
+development of NeoAR, including the presence of a
+VSD, BPV, prior PAB, Ao/PA size discrepancy, and the
+occurrence of NeoAR at discharge. Despite the fact
+that NeoAR and NeoARD may not constitute a sig-
+niﬁcant clinical problem in many patients, as shown
+by the high freedom from reoperation on the neo-
+aortic root or neoaortic valve during follow-up,
+38
+signi ﬁcant NeoAR does ultimately occur in an
+important minority of patients. Given that the phe-
+nomena of NeoAR and NeoARD are progressive, it is
+crucial to acknowledge that within the long-term
+survivors post-ASO, the impact of NeoAR and Neo-
+ARD are also anticipated to increase. This emphasizes
+the clinical signi ﬁcance of our work, as monitoring
+the progression of NeoAR and its associated risk fac-
+tors offers critical insights into those at risk and aids
+the continued cardiovascular care pathway as pa-
+tients age.
+The recognition of both internal and external risk
+f a c t o r ss u g g e s t st h a tm u l t i p l em e c h a n i s m sa r el i k e l y
+responsible for the production of NeoAR and NeoARD
+after ASO. Internal risk factors include some well-
+documented histological differences between pa-
+tients with TGA and a normal healthy population. The
+pulmonary valve has thinner lea ﬂets and a dimin-
+ished amount of collagen and elastic ﬁbers in com-
+parison to the native aortic valve, and the arterial
+roots show differing distri bution of collagen, which is
+diminished in the pulmonary artery.
+39 Studies of TGA
+have shown that both arterial roots and the neoaortic
+valve show less extensive anchorage and embedding
+in the myocardium, and that the neoaortic root and
+pulmonary valve annulus are already larger prior to
+ASO in comparison to healthy neonates. External risk
+factors include the altered geometry of the neoaortic
+root following the ASO with Lecompte procedure,
+leading to increased helical ﬂow patterns that cause
+changes in aortic wall shear forces and thus progres-
+sive dilatation.
+12 Other proposed external contribu-
+tors to neoaortic dilatation include implantation of
+the coronary arteries inducing a widening of the
+neoaortic root, disruption of the vasa vasorum around
+the neoaorta, male sex (potentially explained by
+TABLE 1 Continued
+Weight at ASO, kg VSD, n (%) TBA, n (%) AAA, n (%) BPV, n (%) NeoAR, n (%) Follow-up (y)
+3.47 31 (33.3) 8 (8.6) 12 (12.9) NA 13 (14) 4.8 /C6 3.9
+NA 36 (49) NA 14 (19) 7 (10) 17 (14) 7.2 (1-23)
+3.4 /C6 9.6 33 (19) 4 (2.3) 8 (4.6) 6 (3.5) 61 (35) 8.2 (0.6-11.2)
+NA 47 (33) 16 (11.1) 9 (6.3) 6 (4.2) 5 (3.5) 8.7 (0.1-22.5)
+NA 139 (50) NA NA 67 (24)
+a 4 (4.2) 11.3 (0.02-30.3)
+3.2 [2.8-3.6] 45 (60) 13 (17.3) 0 (0) 15 (25) a NA 9.9 (0.37-22.3)
+3.5 (2.1-57) 141 (29.4) NA 43 (9) 21 (4) 41 (8.7) 9.3 (0-22.6)
+3.52 (1.7-19) 90 (40.9) 17 (7.7) NA NA 78 (38.0) 8.6 (0-23.1)
+3.45 (1.8-22.4) 151 (41.7) 30 (8.3) 39 (10.8) NA 97 (45.8) 16 [12-18.2]
+3.5 /C6 1.3 258 (23.6) 67 (6.1) 111 (10.1) NA 165 (15.5) 4.9 /C6 3.4
+3.5 /C6 1.9 269 (23.3) 72 (6.2) 113 (9.8) NA 172 (14.9) 6.25 (0-20)
+3.1 /C6 5.3 313 (53.7) 0 (0) 13 (2.2) 14 (2.4) 56 (10.4) 3.83 (0.67-10)
+NA 30 (37) NA 8 (9.7) NA 69 (84.1) 8.8 (4.1-16.4)
+m`?SR?GRRMXH?m`?V?GTMTH?m`?RV?GQXMPH?VMS?NbU?SMV
+NA 41 (26) NA 20 (13) 8 (5.0) 35 (22) 14.9 /C6 4.6
+NA 36 (30.3) 10 (8.4) 9 (7.6) 0 (0.0) 32 (27) 5.42 (1-15)
+RMT?NbU?PMR?TQ?GRQH?m`?O?GOH?PQ?GVH?VT?GSVH?PQMU?GPOLPWH
+3.37 /C6 0.56 51 (28) NA 12 (7) NA 85 (49) 13.5 /C6 2.4
+NA NA NA NA NA 30 (53.6) 19.8 (17.9-23)
+3.51 /C6 0.86 17 (37.7) NA 9 (20) NA 8 (17.8) 21.7 /C6 2.0
+3.5 (2.1-20.4) 140 (29.9) NA 32 (6.8) 9 (1.9) 41 (8.6) 19.0 (0.1-35.2)
+NA 98 (25.3) NA 52 (13.4) 7 (1.8) 29 (7.5) 10 /C6 7.4
+NA 46 (31.7) NA 19 (13.1) 1 (0.7) 21 (14.5) 13.8 (11.9-17.9)
+4.8 /C6 3.7 39 (29.1) 8 (6.0) 20 (15) NA 10 (7.5) 3.4 (0.67-12)
+NA 46 (29.7) 5 (3.2) 7 (4.5) NA 43 (28) 6 (0-25)
+3.5 (1.5-31.9) 151 (45.1) NA 47 (14.0) 10 (3.0) 17 (5.1) >5 (0-18)
+NA 89 (25.8) 26 (7.5) 24 (7.0) 21 (6.1) 33 (9.6) 12.2 (1-39)
+3.4 (1.3-18.8) 100 (41.6) 18 (7.5) 16 (6.6) 12 (5.0) 6 (2.5) 6.6 (1-19.5)
+3.3 /C6 0.5 NA NA 6 (3) NA 17 (5.2) 14.4 (1-17.8)
+3.54 (2.2-7.3) 64 (34.6) 21 (11.4) 11 (5.95) 35 (18.67) 19 (11.5) 7.4 (0-15.6)
+JACC: ADVANCES, VOL. 3, NO. 4, 2024 Jacquemyn et al
+APRIL 2024:100878 NeoAR After ASO
+5
+[[p6]]
+FIGURE 2 Cumulative Risk of NeoAR During Follow-Up After ASO for TGA
+Freedom from (A) $mild NeoAR and (B) $moderate NeoAR during long-term follow-up after ASO. ASO ¼ arterial switch operation;
+NeoAR ¼ neoaortic regurgitation; TGA ¼ transposition of the great arteries.
+FIGURE 3 Cumulative Risk of NeoARD and NeoAVS During Follow-Up After ASO for TGA
+Cumulative risk of (A) NeoARD and (B) NeoAVS during follow-up. NeoARD as de ﬁned by the individual studies, ranging between Z-score $2.5
+and $4. ASO ¼ arterial switch operation; NeoARD ¼ neoaortic root dilatation; NeoAVS ¼ neoaortic valve surgery; TGA ¼ transposition of the
+great arteries.
+Jacquemyn et al JACC: ADVANCES, VOL. 3, NO. 4, 2024
+NeoAR After ASO APRIL 2024:100878
+6
+[[p7]]
+larger baseline aortic root dimensions and hormonal
+differences), and being overweight. 14,17,35,37
+We identi ﬁed 5 signi ﬁcant risk factors associated
+with NeoAR, including prior PAB, a VSD, BPV, Ao/PA
+size discrepancy, NeoAR at hospital discharge, and
+demonstrate an association between greater neo-
+aortic root dimensions an d concurrent NeoAR. The
+exact pathophysiological mechanisms through which
+these risk factors cause NeoARD and NeoAR remain
+unclear. Potentially, a VSD can cause neoaortic dila-
+tation due to increased pulmonary valve blood ﬂow in
+fetal life, caused by increased oxygen saturation and
+decreased resistance in the pulmonary vasculature,
+resulting in larger dimensions even before ASO,
+22 or
+from pulmonary artery pressure elevation inducing
+changes in muscle ﬁber patterns.
+40 None of these risk
+factors are easily modi ﬁable, as the choice for PAB is
+frequently based on signi ﬁcant comorbidities or late
+diagnosis, and Ao/PA size discrepancy and presence
+of VSD or BPV are inherent structural risk factors. A
+PAB is often done as a temporary measure for left
+ventricular (LV) “ training, ” where the LV is deemed
+unﬁt to support the systemic pressures. The mecha-
+nism through which Ao/PA size discrepancy plays a
+role in NeoAR and NeoARD is suggested to be related
+to the altered geometry of the roots in ﬂuencing ﬂuid
+dynamics, as larger wall shear stress (WSS)
+magnitudes are detected in patients with relatively
+small mid-ascending aort ic diameter when compared
+with the neoaortic root.
+41 Levels of WSS play several
+essential roles in functions of endothelial cells and
+have been demonstrated to promote initiation and
+development of various vascular pathologies, among
+which aortic aneurysms.
+42 Furthermore, it has been
+demonstrated that, after ASO, the ﬂow hemody-
+namics are signi ﬁcantly asymmetric between
+different regions of the neoaortic root and ascending
+aorta, which may explain the variations in regional
+vessel wall remodeling along the aorta and, addi-
+tionally, why some regions are more prone to dilata-
+tion.
+43 Despite our ﬁndings indicating increased risk
+with the aforementioned f actors, the independent
+effects of PAB or Ao/PA size discrepancy are hard to
+estimate since results may be confounded by the
+presence of a VSD (eg, the hemodynamic effect from a
+VSD might contribute to create a size difference be-
+tween the aorta and pulmonary artery). Then, a BPV
+introduces hemodynamic differences with both
+increased tensile and WSS and more turbulent blood
+ﬂow, resulting in an uneven f orce distribution on the
+convex wall of the ascending aorta.
+33
+A proposed preventative measure for NeoARD is
+pulmonary artery reduction during the initial ASO for
+those with severe forms of Ao/PA size discrepancy
+TABLE 2 Meta-Analysis of Associations With Neoaor tic Regurgitation and Risk Factors for Dev elopment of Neoaorti c Regurgitation:
+Summary of Results
+ARa Association With NeoAR
+Effect Size Heterogeneity Sensitivity
+Studies
+(n)
+Point
+Estimate 95% CI P Value I2 (%) P Value
+Signi ﬁcant on
+Fixed-Effect
+$mild Neoaortic Annulus Z-score 4 1.17 b 0.52-1.82 <0.001 45 0.14 ✔
+Neoaortic Root Z-score 4 1.83 b 1.16-2.49 <0.001 62 0.05 ✔
+Neoaortic STJ Z-score 2 0.47 b /C0 0.25 to 1.19 0.202 0 0.62 ✗
+Baseline risk factors
+$trace Prior PAB 9 2.83 c 1.34-5.96 0.006 49 0.05 ✔
+AAA 4 1.46 c 0.08-26.93 0.811 77 <0.01 ✔
+VSD 8 1.82 c 1.07-3.10 0.027 63 <0.01 ✔
+TBA 4 2.66 c 0.46-15.48 0.279 54 0.09 ✔
+Male sex 5 1.00 c 0.36-2.76 0.982 70 <0.01 ✗
+NeoAR at discharge 4 5.64 c 3.62-8.79 <0.001 0 0.39 ✔
+Ao/PA discrepancy 5 2.25 c 1.44-3.51 <0.001 7 0.37 ✔
+BPV 6 2.07 c 0.71-6.00 0.183 69 <0.01 ✔
+Age at ASO (d) 4 8.65 b /C0 8.16 to 25.46 0.318 38 0.19 ✗
+$moderate Prior PAB 5 2.56 d 1.24-5.29 0.011 12 0.34 ✔
+VSD 4 1.85 d 0.68-5.01 0.229 49 0.11 ✔
+TBA 3 2.40 d 0.32-17.83 0.400 50 0.13 ✔
+LVOTO 3 2.94 d 0.09-95.89 0.556 85 <0.01 ✗
+Ao/PA discrepancy 4 3.72 d 0.40-34.70 0.251 85 <0.01 ✔
+BPV 5 1.96 d 1.01-3.81 0.047 18 0.30 ✔
+aDeﬁnition of NeoAR (lowest grade included in the pooled analysis). bExpressed as mean difference. cOR. dHR.
+AAA ¼ aortic arch anomalies; Ao/PA ¼ aorta/pulmonary artery; ASO ¼ arterial switch operation; BPV ¼ bicuspid pulmonary valve; LVOTO ¼ left ventricular out ﬂow tract
+obstruction; NeoAR ¼ neoaortic regurgitation; PAB ¼ pulmonary artery banding; STJ ¼ sinotubular junction; TBA ¼ Taussig-Bing anomaly; VSD ¼ ventricular septal defect.
+JACC: ADVANCES, VOL. 3, NO. 4, 2024 Jacquemyn et al
+APRIL 2024:100878 NeoAR After ASO
+7
+[[p8]]
+(>2:1 ratio of PA to Ao). 44 Additionally, if reliable
+means could be developed to prevent neoaortic dila-
+tion, it could also favorably impact NeoAR by
+reducing intercommisura l distance and promoting
+more effective lea ﬂet coaptation. Patients with pro-
+gressive aortic dilatation may develop problems
+related to external compression of main and branch
+PAs, resulting in a decreased pulmonary blood ﬂow
+and PA stenosis.
+45 C o m p r e s s i o n ,k i n k i n g ,o rs t r e t c h -
+ing of the coronaries can occur, with late coronary
+stenosis or occlusion as a result.
+46
+NeoAR is expected to become increasingly impor-
+tant as the ASO population ages, and interventions to
+treat both NeoAR and NeoARD will become more
+commonplace. In the original studies, surgery was
+indicated for various conditions, primarily involving
+signi ﬁcant NeoAR with or without signi ﬁcant LV
+dilatation in the majority of cases. Additional in-
+dications included progressive NeoARD, signi ﬁcant
+NeoAR in the presence of concomitant subaortic
+tunnel stenosis, signi ﬁcant NeoAR with both LV
+dilatation and impaired LV function, and a singular
+case involving refractory cardiac failure accompanied
+by LV dilatation ( Supplemental Table 3 ). However,
+the observed discordance between the prevalence of
+signi ﬁcant NeoAR and the proportion of patients un-
+dergoing NeoAV surgery, as highlighted in
+Supplemental Table 3 ,r a i s e si m p o r t a n tq u e s t i o n s
+regarding the factors contributing to this discrepancy.
+Speci ﬁcally, there was a discrepancy of 269 patients
+with $moderate NeoAR (5.9% of total population,
+from 18 studies), but only 91 (1.7%) underwent sur-
+gery. We suspect this discrepancy may re ﬂect differ-
+ences in institutional practices and intrinsic
+differences in speci ﬁc measures of NeoAR, NeoARD,
+and ventricular dimensions. Another factor that may
+attribute to this difference is the era effect, since our
+study includes reports published over 2 decades. For
+NeoAR with symptoms and/or progressive dilatation
+of the left ventricle, our re commended indications for
+surgery align with the guidelines.
+47 However, inter-
+national guidelines for sur gical intervention on Neo-
+ARD are primarily based on data from other forms of
+degenerative aortic disease or bicuspid aortic valves.
+Yet, our understanding of the natural progression of
+aneurysms after arterial ASO is still limited, as there
+have been no published reports of aortic catastrophe.
+Considering the growing evidence of the progressive
+nature of NeoARD in this relatively young population,
+early surgical intervention may be justi ﬁed. In
+contrast, emphasizing the importance of noninvasive
+lifestyle interventions, particularly for overweight
+individuals who often exhibit higher blood pressure
+and larger neoaortic diameters,
+17 we advocate for
+promoting physical activity. Physical activity has
+demonstrated bene ﬁts for ﬁtness, psychological well-
+FIGURE 4 Cumulative Risk of NeoAR Strati ﬁed by Presence of IVS or VSD
+Cumulative incidence of (A) $mild NeoAR, based on 3 studies 15,19,37 and (B) $moderate NeoAR, based on 2 studies. 35,37 Presence of a VSD is associated with a higher
+risk of $mild and $moderate NeoAR during follow-up, respectively. ASO ¼ arterial switch operation; IVS ¼ intact ventricular septum; NeoAR ¼ neoaortic regurgitation;
+TGA ¼ transposition of the great arteries; VSD ¼ ventricular septal defect.
+Jacquemyn et al JACC: ADVANCES, VOL. 3, NO. 4, 2024
+NeoAR After ASO APRIL 2024:100878
+8
+[[p9]]
+being, and overall heart health, positioning it as a
+pivotal element in compreh ensive congenital heart
+disease management. 48
+Lastly, the predictive power of known risk factors
+for NeoAR and NeoARD is imperfect, so all patients
+should be imaged regularly, irrespective of the pres-
+ence or absence of risk factors. Future research
+should focus on the development of effective risk
+assessment strategies and preventive approaches to
+mitigate adverse sequelae following ASO. Addition-
+ally, more follow-up studies measuring neoaortic
+growth further into adulthood are necessary.
+STUDY LIMITATIONS. A number of limitations should
+be considered when interpreting the present study.
+First, this meta-analysis summarizes data obtained
+primarily from heterogeneous retrospective observa-
+tional studies. Second, we may have lacked statistical
+power to identify some previously proposed risk
+factors in individual studies, as some risk factors
+simply could not be analyzed using these methods
+and the data currently available, explaining the
+discrepancy between the amount of potential risk
+factors ( Supplemental Table 4 ) and those included in
+our analysis ( Table 2 ). Then, results from the ﬁxed-
+effect analysis need to be interpreted with caution,
+since plausible violation can occur upon combination
+of results obtained from small studies, where statis-
+t i c a li m p r e c i s i o ni nt h es t u d y’s estimated standard
+errors are considerable. In addition, it has been
+demonstrated that inconsis tencies in qualitative echo
+grading of aortic regurgitation are widespread and
+that echo is less reliable and often overestimates
+severity when compared to cardiac magnetic reso-
+nance imaging.
+49 Nevertheless, our study used all
+available echocardiographic data to summarize the
+incidence of and risk factors for NeoAR after ASO and
+may therefore represent more generalizable reference
+values than those reported by individual centers.
+CONCLUSIONS
+The currently available literature demonstrates that
+ASO for TGA is associated with progressive NeoAR.
+This synthesis of published observations estimates
+that approximately 67.5% of patients develop $mild
+CENTRAL ILLUSTRATION Cumulative Risk of NeoAR During Follow-Up After ASO for TGA
+Jacquemyn X, et al. JACC Adv. 2024;3(4):100878.
+ASO ¼ arterial switch operation; NeoAR ¼ neoaortic regurgitation; TGA ¼ transposition of the great arteries.
+JACC: ADVANCES, VOL. 3, NO. 4, 2024 Jacquemyn et al
+APRIL 2024:100878 NeoAR After ASO
+9
+[[p10]]
+NeoAR after 30 years post-ASO. For most patients,
+however, the overall performance of the neoaortic
+valve remains reasonably good, as $moderate NeoAR
+occurs in only 21.4% of patients at 30 years after ASO.
+We identi ﬁed clinical risk factors, most of which are
+related to neoaortic root deformities, associated with
+the development of NeoAR during follow-up after
+ASO. The need for neoaortic root and valve reinter-
+ventions remains minimal during the initial 10 to
+15 years following ASO but exhibits a gradual upward
+trend with progression towards signi ﬁcant NeoAR
+and NeoARD. Future research should focus on
+reﬁning our understanding of risk factors and the
+mechanisms by which they promote neoaortic valve
+and root disease so that effective preventative stra-
+tegies can be implemented.
+ACKNOWLEDGMENTS The authors, Xander Jacque-
+myn and Art Schuermans, acknowledge the support
+provided by the Belgian American Educational
+Foundation.
+FUNDING SUPPORT AND AUTHOR DISCLOSURES
+This research did not receive any speci ﬁc grant from funding agencies
+in the public, commercial, or not-for-pro ﬁt sectors. The authors have
+reported that they have no relationships relevant to the contents of
+this paper to disclose.
+ADDRESS FOR CORRESPONDENCE: Dr Shelby Kutty,
+The Blalock Taussig Thoma s Heart Center, The Johns
+Hopkins Hospital and School of Medicine, M2315,
+1800 Orleans Street, Baltimore, Maryland 21287, USA.
+E-mail: skutty1@jhmi.edu .
+REFERENCES
+PM?i?`cK?e?ueK?o?ooK??M
+Anatomic correction of transposition of the
+great vessels. J Thorac Cardiovasc Surg .
+1976;72(3):364– 370.
+2. Lecompte Y, Zannini L, Hazan E, et al. Anatomic
+correction of transposition of the great arteries.
+J Thorac Cardiovasc Surg . 1981;82(4):629 – 631.
+3. van der Palen RLF, Blom NA, Kuipers IM, et al.
+Long-term outcome after the arterial switch
+operation: 43 years of experience. Eur J Car-
+diothorac Surg . 2021;59(5):968 – 977. https://doi.
+org/10.1093/ejcts/ezab006
+4. Lo Rito M, Fittipaldi M, Haththotuwa R, et al.
+Long-term fate of the aortic valve after an arterial
+switch operation. J Thorac Cardiovasc Surg .
+2015;149(4):1089– 1094. https://doi.org/10.1016/
+j.jtcvs.2014.11.075
+5. Nakayama Y, Shinkawa T, Matsumura G, Hoki R,
+Kobayashi K, Niinami H. Late neo-aortic valve
+regurgitation long after arterial switch operation.
+Ann Thorac Surg . 2019;108(4):1210 – 1216. https://
+doi.org/10.1016/j.athoracsur.2019.04.009
+6. Sterne JAC, Hernán MA, Reeves BC, et al.
+ROBINS-I: a tool for assessing risk of bias in non-
+randomised studies of interventions. BMJ.
+2016;355:i4919. https://doi.org/10.1136/bmj.i4919
+7. Wei Y, Royston P. Reconstructing time-to-event
+data from published Kaplan-Meier curves. Stata J .
+2017;17(4):786– 802.
+8. Liu N, Zhou Y, Lee JJ. IPDfromKM: reconstruct
+individual patient data from published Kaplan-
+Meier survival curves. BMC Med Res Methodol .
+2021;21(1):111. https://doi.org/10.1186/s12874-
+021-01308-8
+9. Ma K, Li S, Hu S, et al. Neoaortic valve regur-
+gitation after arterial switch: ten years outcomes
+from a single center. Ann Thorac Surg .
+2016;102(2):636– 642. https://doi.org/10.1016/j.
+athoracsur.2016.02.037
+10. Marino BS, Wernovsky G, McElhinney DB, et al.
+Neo-aortic valvar function after the arterial
+switch. Cardiol Young . 2006;16(5):481 – 489.
+https://doi.org/10.1017/S1047951106000953
+11. Martins CN, Gontijo Filho B, Lopes RM, Silva F,
+das CLE. Mid- and longterm neo-aortic valve
+regurgitation after Jatene surgery: prevalence and
+risk factors. Arq Bras Cardiol . 2018;111(1):21 – 28.
+https://doi.org/10.5935/abc.20180111
+12. Martins D, Khraiche D, Legendre A, et al. Aortic
+angle is associated with neo-aortic root dilatation
+and regurgitation following arterial switch opera-
+tion. Int J Cardiol . 2019;280:53 – 56. https://doi.
+org/10.1016/j.ijcard.2019.01.042
+13. McMahon CJ, Ravekes WJ, Smith EO, et al. Risk
+factors for neo-aortic root enlargement and aortic
+regurgitation following arterial switch operation.
+Pediatr Cardiol . 2004;25(4):329 – 335. https://doi.
+org/10.1007/s00246-003-0483-6
+14. Michalak KW, Moll JA, Moll M, Mludzik K,
+Moll JJ. Neoaortic valve function 10 to 18 years
+after arterial switch operation. World J Pediatr
+Congenit Heart Surg . 2010;1(1):51 – 58. https://doi.
+org/10.1177/2150135110361361
+15. Michalak KW, Moll JA, Moll M, et al. The
+neoaortic root in children with transposition of the
+great arteries after an arterial switch operation.
+Eur J Cardiothorac Surg . 2013;43(6):1101 – 1108.
+https://doi.org/10.1093/ejcts/ezs709
+16. Michalak KW, Sobczak-Budlewska K, Moll JJ,
+et al. Neoaortic regurgitation in patients with trans-
+position long term after an arterial switch operation
+and its relation to the root diameters and surgical
+technique used. Pediatr Cardiol. 2020;41(1):31–37.
+https://doi.org/10.1007/s00246-019-02217-w
+17. Muneuchi J, Watanabe M, Sugitani Y, et al.
+Being overweight is related to neoaortic sinus
+dilatation after arterial switch operation. Tex Heart
+Inst J . 2022;49(5):e207508. https://doi.org/10.
+14503/THIJ-20-7508
+18. Oda S, Nakano T, Fujita S, Sakaguchi S, Kado H.
+Long-term growth of the neoaortic root after
+arterial switch operation. Ann Thorac Surg .
+2019;107(4):1203– 1211. https://doi.org/10.1016/j.
+athoracsur.2018.09.025
+19. Bové T, De Meulder F, Vandenplas G, et al.
+Midterm assessment of the reconstructed arteries
+after the arterial switch operation. Ann Thorac
+PERSPECTIVES
+COMPETENCY IN MEDICAL KNOWLEDGE:
+Development of neoaortic regurgitation and neoaortic
+dilation in patients who underwent the arterial switch
+operation for transposition of the great arteries is
+progressive and is associated with several risk factors.
+COMPETENCY IN PATIENT CARE: Occurrence of
+neoaortic regurgitation and neoaortic dilation in-
+creases in an aging arterial switch operation popula-
+tion, and as a result, the evaluation and management
+of patients should be considerate of these long-term
+outcomes.
+TRANSLATIONAL OUTLOOK: A better under-
+standing of the clinical importance of neoaortic
+regurgitation and neoaortic dilation is needed.
+Jacquemyn et al JACC: ADVANCES, VOL. 3, NO. 4, 2024
+NeoAR After ASO APRIL 2024:100878
+10
+[[p11]]
+Surg. 2008;85(3):823 – 830. https://doi.org/10.
+1016/j.athoracsur.2007.10.043
+20. Prifti E, Crucean A, Bonacchi M, et al. Early and
+long term outcome of the arterial switch operation
+for transposition of the great arteries: predictors
+and functional evaluation. Eur J Cardiothorac Surg .
+2002;22(6):864– 873. https://doi.org/10.1016/
+s1010-7940(02)00613-9
+21. Schwartz ML, Gauvreau K, del Nido P,
+Mayer JE, Colan SD. Long-term predictors of aortic
+root dilation and aortic regurgitation after arterial
+switch operation. Circulation. 2004;110(11 Suppl
+1):II128– II132. https://doi.org/10.1161/01.CIR.
+0000138392.68841.d3
+22. van der Palen RLF, van der Zee C, Vink AS,
+et al. Transposition of the great arteries: fetal
+pulmonary valve growth and postoperative neo-
+aortic root dilatation. Prenat Diagn . 2019;39(12):
+1054– 1063. https://doi.org/10.1002/pd.5539
+23. Delmo Walter EM, Huebler M, Alexi-
+Meshkishvili V, Sill B, Berger F, Hetzer R. Fate of
+the aortic valve following the arterial switch
+operation. J Card Surg . 2010;25(6):730 – 736.
+https://doi.org/10.1111/j.1540-8191.2010.01144.x
+24. Wang Z, Li Z, Ding N, et al. Incidence and risk
+factors for late complications after the arterial
+switch operation. J Card Surg . 2022;37(10):3117 –
+3132. https://doi.org/10.1111/jocs.16745
+25. Jhang WK, Shin HJ, Park JJ, et al. The impor-
+tance of neo-aortic root geometry in the arterial
+switch operation with the trap-door technique in
+the subsequent development of aortic valve
+regurgitation. Eur J Cardiothorac Surg . 2012;42(5):
+794– 799. https://doi.org/10.1093/ejcts/ezs169.
+Discussion 799.
+26. Lim HG, Kim WH, Lee JR, Kim YJ. Long-term re-
+sults of the arterial switch operation for ventriculo-
+arterial discordance.Eur J Cardiothorac. 2013;43(2):
+325–334. https://doi.org/10.1093/ejcts/ezs264
+27. Losay J, Touchot A, Serraf A, et al. Late
+outcome after arterial switch operation for trans-
+position of the great arteries. Circulation.
+2001;104(suppl_1):I121– I126. https://doi.org/10.
+1161/circ.104.suppl_1.I-121
+28. Rodríguez Puras MJ, Cabeza-Letrán L,
+Romero-Vazquianez M, et al. Mid-term morbidity
+and mortality of patients after arterial switch
+operation in infancy for transposition of the great
+arteries. Rev Esp Cardiol (Eng Ed) . 2014;67(3):181–
+188. https://doi.org/10.1016/j.rec.2013.06.021
+29. Oda S, Nakano T, Sugiura J, Fusazaki N,
+Ishikawa S, Kado H. Twenty-eight years ’ experi-
+ence of arterial switch operation for transposition
+of the great arteries in a single institution.
+Eur J
+Cardiothorac Surg . 2012;42(4):674 – 679. https://
+doi.org/10.1093/ejcts/ezs033
+30. Co-Vu JG, Ginde S, Bartz PJ, Frommelt PC,
+Tweddell JS, Earing MG. Long-term outcomes of
+the neoaorta after arterial switch operation for
+transposition of the great arteries. Ann Thorac
+Surg. 2013;95(5):1654 – 1659. https://doi.org/10.
+1016/j.athoracsur.2012.10.081
+31. Formigari R, Toscano A, Giardini A, et al.
+Prevalence and predictors of neoaortic regurgita-
+tion after arterial switch operation for trans-
+position of the great arteries. J Thorac Cardiovasc
+Surg. 2003;126(6):1753 – 1759. https://doi.org/10.
+1016/s0022-5223(03)01325-4
+32. Hutter PA, Thomeer BJ, Jansen P, et al. Fate of
+the aortic root after arterial switch operation. Eur J
+Cardiothorac Surg . 2001;20(1):82 – 88. https://doi.
+org/10.1016/s1010-7940(01)00752-7
+33. Irwin M, Binney G, Gauvreau K, Emani S,
+Blume ED, Brown DW. Native bicuspid pulmonary
+valve in D-loop transposition of the great arteries:
+outcomes of the neo-aortic valve function and
+root dilation after arterial switch operation. JA m
+Heart Assoc . 2021;10(18):e021599. https://doi.
+org/10.1161/JAHA.121.021599
+34. Jeon B, Choi ES, Kwon BS, et al. The impact of
+a bicuspid pulmonary valve in the aortic position
+after arterial switch for transposition of the great
+arteries on neoaortic root dimension and function:
+a propensity score matched analysis. Interact
+Cardiovasc Thorac Surg . 2022;34(6):1106 – 1112.
+https://doi.org/10.1093/icvts/ivac073
+35. Lange R, Cleuziou J, Hörer J, et al. Risk factors
+for aortic insuf ﬁciency and aortic valve replace-
+ment after the arterial switch operation. Eur J
+Cardiothorac Surg . 2008;34(4):711 – 717. https://
+doi.org/10.1016/j.ejcts.2008.06.019
+36. Losay J, Touchot A, Capderou A, et al. Aortic
+valve regurgitation after arterial switch operation
+for transposition of the great arteries: incidence,
+risk factors, and outcome. J Am Coll Cardiol .
+2006;47(10):2057– 2062. https://doi.org/10.
+1016/j.jacc.2005.12.061
+37. van der Palen RLF, van der Bom T, Dekker A,
+et al. Progression of aortic root dilatation and
+aortic valve regurgitation after the arterial switch
+operation. Heart. 2019;105(22):1732 – 1740.
+https://doi.org/10.1136/heartjnl-2019-315157
+38. Fricke TA, Buratto E, Weintraub RG, et al.
+Long-term outcomes of the arterial switch oper-
+ation. J Thorac Cardiovasc Surg . 2022;163(1):212 –
+219. https://doi.org/10.1016/j.jtcvs.2021.01.134
+39. Jenkins KJ, Hanley FL, Colan SD, Mayer JEJ,
+Castañeda AR, Wernovsky G. Function of the
+anatomic pulmonary valve in the systemic circu-
+lation. Circulation. 1991;84(5 Suppl):III173 – III179.
+40. Lalezari S, Mahtab EAF, Bartelings MM,
+Wisse LJ, Hazekamp MG, Gittenberger-de
+Groot AC. The out ﬂow tract in transposition of the
+great arteries: an anatomic and morphologic study.
+Ann Thorac Surg . 2009;88(4):1300– 1305. https://
+doi.org/10.1016/j.athoracsur.2009.06.058
+41. van der Palen RLF, Juffermans JF, Kroft LJM,
+et al. Wall shear stress in the thoracic aorta at rest
+and with dobutamine stress after arterial switch
+operation. Eur J Cardiothorac Surg . 2021;59(4):
+814– 822. https://doi.org/10.1093/ejcts/ezaa392
+42. Hoi Y, Meng H, Woodward SH, et al. Effects of
+arterial geometry on aneurysm growth: three-
+dimensional computational ﬂuid dynamics study.
+J Neurosurg . 2004;101(4):676 – 681. https://doi.
+org/10.3171/jns.2004.101.4.0676
+43. Sotelo J, Valverde I, Martins D, et al. Impact of
+aortic arch curvature in ﬂow haemodynamics in
+patients with transposition of the great arteries
+after arterial switch operation. Eur Hear J Car-
+diovasc Imaging . 2022;23(3):402 – 411. https://doi.
+org/10.1093/ehjci/jeaa416
+44. Lübe Antunes Pereira F, Nunes Martins C,
+Lopes RM, et al. Impact of pulmonary artery reduc-
+tion during arterial switch operation: 14 years follow-
+up. Interact Cardiovasc Thorac Surg. 2020;30(6):917–
+924. https://doi.org/10.1093/icvts/ivaa034
+45. Morgan CT, Mertens L, Grotenhuis H, Yoo SJ,
+Seed M, Grosse-Wortmann L. Understanding the
+mechanism for branch pulmonary artery stenosis
+after the arterial switch operation for trans-
+position of the great arteries. Eur Hear J Car-
+diovasc Imaging . 2017;18(2):180 – 185. https://doi.
+org/10.1093/ehjci/jew046
+46. Ou P, Khraiche D, Celermajer DS, et al. Mech-
+anisms of coronary complications after the arterial
+switch for transposition of the great arteries.
+J Thorac Cardiovasc Surg . 2013;145(5):1263 – 1269.
+https://doi.org/10.1016/j.jtcvs.2012.06.009
+47. Vahanian A, Beyersdorf F, Praz F, et al. 2021
+ESC/EACTS guidelines for the management of
+valvular heart disease: developed by the Task
+Force for the Management of Valvular Heart Dis-
+ease of the European Society of Cardiology (ESC)
+and the European Association for Cardio-Thoracic
+Surgery (EACTS). Eur Heart J . 2022;43(7):561 –
+632. https://doi.org/10.1093/eurheartj/ehab395
+48. Baumgartner H, De Backer J, Babu-Narayan SV,
+et al. 2020 ESC guidelines for the management of
+adult congenital heart disease: the Task Force for
+the Management of Adult Congenital Heart Disease
+of the European Society of Cardiology (ESC).
+Endorsed by: Association for European Paediatric
+and Congenital Card. Eur Heart J . 2021;42(6):563–
+645. https://doi.org/10.1093/eurheartj/ehaa554
+49. Kutty S, Whitehead KK, Natarajan S, Harris MA,
+Wernovsky G, Fogel MA. Qualitative echocardio-
+graphic assessment of aortic valve regurgitation with
+quantitative cardiac magnetic resonance: a compar-
+ative study. Pediatr Cardiol . 2009;30(7):971–977.
+https://doi.org/10.1007/s00246-009-9490-6
+KEY WORDS arterial switch operation,
+neoaortic regurgitation, neoaortic root
+dilatation, transposition of the great arteries
+APPENDIX For supplemental methods,
+tables, and ﬁgures, please see the online
+version of this paper.
+JACC: ADVANCES, VOL. 3, NO. 4, 2024 Jacquemyn et al
+APRIL 2024:100878 NeoAR After ASO
+11

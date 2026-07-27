@@ -1,0 +1,855 @@
+
+[[p1]]
+REVIEW
+Three-dimensional echocardiography
+of congenital abnormalities of the left
+atrioventricular valve
+Kathryn Rice MBChB and John Simpson MD FRCP FESC
+Department of Congenital Heart Disease, Evelina London Children’s Hospital, Guy’s and St Thomas
+NHS Foundation Trust, Westminster Bridge Road, London SE1 7EH, UK
+Correspondence
+should be addressed
+to J Simpson
+Email
+John.Simpson@gstt.nhs.uk
+Abstract
+Congenital abnormalities of the left atrioventricular (AV) valve are a signiﬁcant diagnostic
+challenge. Traditionally, reliance has been placed on two-dimensional echocardiographic
+(2DE) imaging to guide recognition of the speciﬁc morphological features. Real-time 3DE
+can provide unique views of the left AV valve with the potential to improve understanding
+of valve morphology and function to facilitate surgical planning. This review illustrates
+the features of congenital abnormalities of the left AV valve assessed by 3DE. The similarities
+and differences in morphology between different lesions are described, both with respect
+to the valve itself and supporting chordal apparatus. The potential advantages as well as
+limitations of this technique in clinical practice are outlined.
+Key Words
+" mitral valve
+" left atrioventricular valve
+" three-dimensional
+echocardiography
+" congenital heart disease
+" atrioventricular septal defect
+" congenital mitral valve
+lesions
+Introduction
+Clinically signiﬁcant congenital mitral valve lesions have
+been described in 0.49% of new patients presenting to a
+tertiary centre (1). This probably underestimates their true
+prevalence due to associated abnormalities dominating the
+clinical presentation. Cross-sectional echocardiography
+has a ﬁrmly established role in the evaluation of congenital
+mitral valve disease ( 1, 2, 3). Standard views include
+parasternal long- and short-axis projections, supplemented
+by ‘sweeps’ of the sonographic plane through the valve and
+chordal support apparatus. Real-time three-dimensional
+echocardiography (RT3DE) has some major advantages
+for the visualisation of atrioventricular (AV) valves because
+it provides a depth of ﬁeld, and the ability to post process
+images to show unique projections, such as en face views of
+AV valves, which cannot be achieved using cross-sectional
+techniques alone (4, 5). The anatomy and cross-sectional
+echocardiographic features of congenital mitral valve
+abnormalities have been described previously ( 1, 6, 7).
+The aim of this review is to present the RT3DE appearances
+of the normal mitral valve and a range of congenital
+abnormalities of the left AV valve with emphasis on the
+novel and additional information which may be provided
+by RT3DE.
+Institutional practice and methods of
+acquisition
+This study was undertaken at the Evelina London
+Children’s Hospital, a designated tertiary referral centre
+for congenital heart disease. RT3DE is used in all cases
+before surgical repair of an AV valve. The choice of
+transthoracic vs transoesophageal RT3DE was determined
+by the adequacy of transthoracic acoustic windows and
+the adequate size of the patient to accommodate a RT3DE
+transoesophageal echocardiography probe ( R25 kg).
+This review uses an anonymised selection of images,
+Open Access
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+This work is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivs 4.0
+International License.
+q 2015 The authors www.echorespract.com
+Published by Bioscientiﬁca Ltd
+[[p2]]
+which have been obtained for clinical reasons; publication
+of which is supported by institutional policy. Trans-
+thoracic RT3DE acquisitions for the left AV valve were
+obtained using a modiﬁed parasternal long-axis view,
+parasternal short-axis view or less commonly an apical
+four-chamber view. Images were obtained either using the
+live 3D modality or by acquisition of a sonographic
+volume over four to six cardiac cycles, incorporating the
+valve and chordal support apparatus. Transoesophageal
+RT3DE was only used in patients with a weight R25 kg
+due to the size of the probe. Acquisitions were from a
+four-chamber view at a mid-oesophageal level at 0–30 8.
+Other views also used include a mid-oesophageal level
+at w120–1308 to show the mitral valve, left ventricle and
+left ventricular outﬂow tract (LVOT), or a transgastric
+view at 0–308 to project the short axis of the left AV valve.
+The RT3DE volumes were acquired on a Philips IE33
+system using the Philips X3-1, X5-1 or X7-2 transthoracic
+ultrasound probes appropriate for patient age and size.
+The X7-2t transoesophageal ultrasound probe was used for
+patients R25 kg. Post-acquisition analysis was via Q Lab
+Software V9 (Philips Medical Systems, Andover, MA, USA).
+Details of image acquisition and post-processing
+techniques have been published previously ( 8, 9, 10,
+11, 12). Images of AV valves are presented in an
+anatomical orientation as described previously ( 13, 14).
+Such orientation is achieved in post processing, indepen-
+dent of the imaging projection used to acquire the
+sonographic volume. Diagrams of the mitral valve were
+produced using the Heartworks echocardiographic
+simulator (Inventive Medical, London, UK).
+The normal mitral valve
+The mitral valve is a complex composed of the annulus,
+leaﬂets, tendinous chords and papillary muscles. It
+occupies the left ventricle inlet extending from the AV
+junction to the border of the apical region, with the apical
+junction demarcated by the mitral papillary muscle
+insertion (6). The annulus undulates to form a saddle
+shape, with a more D shaped than circular proﬁle. The
+anterior (aortic) leaﬂet of the mitral valve is in ﬁbrous
+continuity with the aortic valve anterosuperiorly. Thus,
+blood ﬂows into the heart over the atrial aspect of the
+anterior mitral valve leaﬂet and out of the heart into the
+aorta over the ventricular aspect of this leaﬂet. The
+annulus support for the posterior (mural) leaﬂet is less
+rigid than the anterior annulus (15). The mitral valve sits
+obliquely within the left ventricle with the papillary
+muscles in superolateral and inferomedial position.
+These papillary muscles have also been termed antero-
+lateral and posteromedial respectively, reﬂecting their
+position when the heart is viewed whilst placed on its
+apex, though not when it is an anatomically correct
+position (14). The rounded anterior leaﬂet has two
+demarcated areas, the ﬁrst a substantial planar region,
+free of chordal attachments called the smooth zone. Either
+side of this and nearer to the leaﬂet edge is where layered
+attachments of tendinous chords occur. This leaﬂet region
+is nodular and irregular. It is called the rough zone (16).
+The posterior leaﬂet is more variable in its anatomy. It is
+shallower than the anterior leaﬂet and forms two-thirds of
+the valve circumference (6). It contains at least three
+indentations along its free edge dividing the leaﬂet into
+‘scallops’ that are best seen when the valve is closed(15).
+The posterior leaﬂet also has smooth and rough zones
+demarcated by the same anatomical characteristics, but in
+addition has a more proximal leaﬂet area, the basal zone,
+which is where the tertiary chords attach. There is a single
+line of apposition between the two leaﬂets along the rough
+zone, with this closure line falling short of the annulus
+(15). The primary chords attach along the free edge of both
+leaﬂets. Their role is in prevention of leaﬂet prolapse (17).
+Secondary chords of the anterior leaﬂet extend from the
+ventricular under-surface of the rough zone to the most
+proximally placed papillary muscle below. Tertiary chor-
+dal attachments arise directly from small muscle bellies on
+the wall of the ventricle to the ventricular surface of the
+posterior leaﬂet only (16). Both secondary and tertiary
+chordal attachments have a haemodynamic role during
+ventricular deformation ( 15, 17). The main papillary
+muscles arise from the left ventricle directly below the
+two ends of the single zone of mitral valve leaﬂet
+apposition (15). Whilst described as two distinct papillary
+muscles, they can be formed of two muscle clusters (16).
+The RT3DE appearances of the normal mitral valve are
+??eM?PM?s?????
+the most information include rendered views of the
+mitral valve from an atrial projection as shown in Fig. 1A
+and Video 1 , from a ventricular projection as seen in
+Fig. 1 B and Video 2 ‘chordal’ projection showing the
+chordal support apparatus of the mitral valve to both its
+medial and lateral margins is shown in Fig. 1C.
+Congenital mitral valve disease
+Parachute mitral valve
+Figures 2A, B andVideo 3 show the deﬁning features of the
+parachute mitral valve, namely insertion of the chordae
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R14
+[[p3]]
+tendinae from the medial and lateral aspects of the
+mitral valve into a single papillary muscle (1, 18). Stenosis
+is the common functional outcome, due to a variable
+combination of underdeveloped chordae limiting leaﬂet
+movement, along with signiﬁcantly reduced interchordal
+spaces limiting secondary oriﬁce function (18, 19, 20, 21).
+This lesion is usually found in association with other
+anatomical abnormalities representing multilevel left
+heart obstruction (6, 18, 20).
+2DE infers a parachute mitral valve through
+visualisation of a single papillary muscle on a parasternal
+short-axis view. Colour and pulse wave Doppler on 2DE
+demonstrates the functional consequence. 2DE cannot
+give the same information as RT3DE on the chordal
+apparatus, and its relationship to the papillary muscle or
+the reduced interchordal spaces. The minimal effective
+oriﬁce area is also more precisely localised on RT3DE.
+RT3DE transthoracic acquisition is best from a parasternal
+Figure 1
+The normal mitral valve is presented using Heartworks and RT3DE
+transthoracic rendered image views. (A and AHW) An en face view of the
+mitral valve as viewed from the left atrium and in an anatomic orientation.
+The aorta is positioned at w2 o’clock using a clock face analogy.
+This represents a true superior/inferior, left/right spatial position. This
+demonstrates the bileaﬂet nature of the mitral valve. The posterior mitral
+valve leaﬂet has a crescentic shape. The anterior mitral valve leaﬂet is
+adjacent to the aortic valve and these structures are in ﬁbrous continuity.
+(B and BHW) An en face anatomically orientated view from the ventricular
+aspect. The most inferior structure is the left ventricle inferior wall, which
+corresponds to the inferomedial mitral valve papillary muscle. The left
+ventricular outﬂow tract (LVOT) lies at w10 o’clock using a clock face
+analogy. This demonstrates the mitral valve orientation within the left
+ventricle, its relationship to the IVS and LVOT, and the bileaﬂet nature of
+the mitral valve. The curved nature of the zone of coaptation can be
+appreciated. This projection can permit visualisation of the subleaﬂet
+apparatus depending on the cropping proximity to the leaﬂet edge during
+postprocessing. (C) A ‘chordal projection’ which is unique to RT3DE and
+cannot be achieved using cross-sectional echocardiography. During
+postprocessing, the cut plane is placed parallel to the plane of the anterior
+mitral valve leaﬂet. This permits visualisation of the anterior mitral valve
+leaﬂet (AMVL) and the aortic valve, but its primary purpose is to
+demonstrate the anatomy of the lateral and medial papillary muscles and
+chordal attachments to the mitral valve. In this example, the length of the
+lateral and medial papillary muscle can be visualised in its entirety and it is
+clear that there are two papillary muscles. This view is not strictly in
+anatomical orientation due to its unique perspective. This view is valuable
+to show the primary and secondary chords, two papillary muscles, and their
+position within the left ventricle. Sup, superior; Inf, inferior; L, left; R, right;
+Ant MVL, anterior mitral valve leaﬂet; Post MVL, posterior mitral valve
+leaﬂet; PM, papillary muscle; LA, left atrium; LAA, left atrial appendage;
+RA, right atrium; LV, left ventricle; IAS, interatrial septum; IVS, interven-
+tricular septum; AoV, aorta valve; TV, tricuspid valve; Lat MV Marg, lateral
+mitral valve margin; Med MV Marg, medial mitral valve margin.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R15
+[[p4]]
+long- or short-axis or an apical four-chamber view.
+Transoesophageal acquisition is best from four-chamber
+mid-oesophageal view at 0 8 and w1208. Figure 2A shows
+the cropping plane to best show the subvalvar apparatus
+from a parasternal long-axis acquisition. In Fig. 2 B and
+Video 3 , the entirety of the subleaﬂet apparatus can be
+identiﬁed including shor t and thickened chords
+attaching both leaﬂets of the mitral valve to a single
+papillary muscle.
+Mitral valve arcade
+Arcade mitral valve features are demonstrated inFig. 3A, B
+and C and corresponding ﬁgures and Videos 4 and 5. The
+hallmark of this lesion is a bridge of ﬁbrous tissue, which
+arches between both papillary muscles, along the line of
+closure of the mitral leaﬂets ( 22, 23). This ‘bridge’ may
+directly attach to the free leaﬂet edge, or be separated from
+the leaﬂet by short, thick ened chordae. These short
+thickened chords are attached to papillary muscles,
+which are typically elongated. The predominant
+functional consequence is valve regurgitation, but it may
+be mixed with stenosis ( 19, 22, 23). The mechanism of
+this is thought to be abnormal leaﬂet excursion and
+underdeveloped commissures ( 19, 22). The subvalvar
+abnormalities result in degrees of obliteration of inter-
+chordal spaces, causing the stream to eccentrically divert
+through remaining spaces. This is visualised as colour
+inﬂow ‘splaying’ on 2DE imaging (6, 23). The features of
+an arcade mitral valve are again alluded to, but not fully
+represented on 2DE due to the lack of depth of ﬁeld.
+The best views for RT3DE acquisition are the same as
+for a parachute mitral valve. Chordal projections are
+shown in Fig. 3B and C modiﬁed with the anterior leaﬂet
+cropped away. They demonstrate the extent of the
+papillary muscle extension, the absence of chordae and
+loss of interchordal spaces that cannot be projected on a
+2DE image. The abnormal leaﬂet excursion is demon-
+strated in Videos 4 and 5.
+Figure 2
+(A) The cropping orientation which is used to visualise the chordal support
+of the mitral valve. The valve is viewed as if from the red dotted like looking
+into the box deﬁned by the white margins. This example shows that both
+the lateral and medial aspects of the mitral valve have chordal attachments,
+which insert into a single papillary muscle, which is the deﬁning feature of
+the parachute mitral valve. (B) An enlarged rendered image of the
+parachute mitral valve. The depth of ﬁeld and unique cropping plane
+permit this to be visualised in a single projection in contrast to cross-
+sectional echocardiography. LA, left atrium; MV, mitral valve; Lat MV Marg,
+lateral mitral valve margin; Med MV Marg, medial mitral valve margin;
+IVS, interventricular septum; single PM, single papillary muscle; LV, left
+ventricle; AoV, aortic valve.
+Video 3
+RT3DE transthoracic chordal view of a parachute mitral
+valve. Download Video 3 via http://dx.doi.org/10.1530/
+ERP-15-0003-v3.
+Video 1
+RT3DE transthoracic atrial en face normal mitral valve.
+Download Video 1 via http://dx.doi.org/10.1530/ERP-15-
+0003-v1.
+Video 2
+RT3DE transthoracic ventricular en face normal mitral
+valve. Download Video 2 via http://dx.doi.org/10.1530/
+ERP-15-0003-v2.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R16
+[[p5]]
+Isolated cleft mitral valve
+A typical anterior cleft mitral valve is shown in Fig. 4A
+and B (Videos 6 and 7). A true cleft in the mitral valve is
+morphologically distinct from the anatomy of the left AV
+valve in the context of an atrioventricular septal defect
+(AVSD), even if the term ‘cleft’ has been loosely applied to
+the zone of apposition between the superior and inferior
+bridging leaﬂets in the context of an AVSD. Major
+differences between AVSD and true cleft in the mitral
+valve are summarised in Table 1 (24, 25, 26). Chordal
+attachment of the anterior mitral valve leaﬂet to the
+septum is frequent with a true cleft in the mitral valve and
+Figure 3
+A chordal projection of a mitral valve arcade. (A) The whole mitral valve
+apparatus, including anterior and posterior mitral valve leaﬂets. The
+thickened nature of the posterior mitral valve leaﬂet and eccentric motion
+of the anterior mitral valve leaﬂet is best appreciated in the upper left
+pane. (B) An enlarged rendered RT3DE chordal view tilted slightly upwards
+to show that the papillary muscle attachment is direct into the posterior
+mitral valve leaﬂet. The symbol (*) indicates the posterior leaﬂet mitral
+valve arcade bridge. (C) Cropping away the anterior mitral valve leaﬂet
+shows the anatomy more clearly. This shows the direct papillary muscle
+attachment to the posterior leaﬂet tip as a ‘bridge’ with no chordal
+presence and totally obliterated interchordal channels. LA, left atrium;
+LV, left ventricle; LVOT, left ventricular outﬂow tract; IVS, interventricular
+septum; Ant MVL, anterior mitral valve leaﬂet; Post MVL, posterior mitral
+valve leaﬂet; (P)M PM, medial papillary muscle; (A)L PM, lateral papillary
+muscle; RA. right atrium.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R17
+[[p6]]
+can lead to LVOT obstruction (26, 27). Cleft mitral valves
+can be isolated or associated with other cardiac abnorm-
+alities. Where ventricular septal defects (VSD) are present
+in association with a true cleft of the mitral valve,
+differentiation from an AVSD is important as the surgical
+intervention timing, repair technique and longer-term
+outcome may differ between these two morphologies
+(26, 27, 28). The vast majority of mitral valve cleft affect
+the anterior leaﬂet and congenital posterior mitral leaﬂet
+clefts are very rare (0.11%). They may have counter-
+clockwise papillary muscle rotation, are strongly associ-
+ated with other mitral valve abnormalities and the
+majority are positioned in the mid P2 scallop (29, 30).
+Isolated mitral valve clefts can be missed on 2DE even
+on parasternal short-axis view, which is the most helpful
+view for this lesion. They are even harder to detect on 2DE,
+where the cleft does not extend all the way to the valve
+annulus. The best transthoracic acquisition views for
+RT3DE of cleft mitral valves include the parasternal
+short-axis or, in infants, the short-axis subcostal view.
+On transoesophageal imaging, the four-chamber mid-
+oesophageal view at 0 8 is usually optimal. Other views
+include the w1208 view from which Fig. 4 and Videos 6
+and 7 were acquired and transgastric views at 0 8. Figure 4
+and Videos 6 and 7 show the cleft orientation towards the
+LVOT and that the cleft does not extend to the full length
+of the anterior mitral valve leaﬂet. The posterior leaﬂet
+of the mitral valve has a more normal morphology than
+the mural leaﬂet of the AVSD.
+Double-oriﬁce mitral valve
+An example of a double-oriﬁce mitral valve (DOMV) is
+represented in bothFig. 5 and Video 8. This abnormality is
+characterised by a single ﬁbrous annulus with two oriﬁces
+that open into the left ventricle. DOMV forms around 1%
+of congenital heart disease and is predominantly associ-
+ated with other cardiac defects (31).A s Fig. 5 reﬂects,
+DOMV has been occasionally found incidentally in cases
+of intrinsic cardiomyopathy (32). DOMV manifest with
+regurgitation in 43% of cases, normal function in 37%,
+with stenosis less likely (31).
+Figure 4
+(A) A cleft mitral valve viewed from an atrial perspective and (B) ventricular
+perspective on transoesophageal echocardiogram. This orientation of the
+anterior cleft is towards the LVOT. The posterior (mural) leaﬂet is of near
+normal size. The cleft does not extend to the full length of the valve leaﬂet.
+Note that the crescentic shape of the posterior mitral valve leaﬂet is
+retained. AMVL, anterior mitral valve leaﬂet; PMVL, posterior mitral valve
+leaﬂet; AoV, aortic valve; TV, tricuspid valve; Sup, superior; Inf, inferior;
+L, left; R, right; Ant, anterior.
+Video 6
+RT3DE transoesophageal atrial en face view of a cleft
+mitral valve. Download Video 6 via http://dx.doi.org/10.
+1530/ERP-15-0003-v6.
+Video 4
+RT3DE tilted transthoracic chordal view of an arcade mitral
+valve. Download Video 4 via http://dx.doi.org/10.1530/
+ERP-15-0003-v4.
+Video 5
+RT3DE transthoracic chordal view of an arcade mitral valve
+posterior apparatus. Download Video 5 via http://dx.doi.
+org/10.1530/ERP-15-0003-v5.
+Video 7
+RT3DE transoesophageal ventricular en face view of a cleft
+mitral valve. Download Video 7 via http://dx.doi.org/10.
+1530/ERP-15-0003-v7.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R18
+[[p7]]
+2DE parasternal and subcostal short-axis views have
+deﬁned this lesion into three types (33). The ﬁrst is
+‘complete bridge’ type where the oriﬁces are visible fully
+throughout on sweeping through annulus to leaﬂet tip.
+These oriﬁces are usually circular and relatively equal size
+with a complete tissue bridge between them ( Fig. 5). The
+second is ‘incomplete bridge type’ with the tissue
+connection between the anterior and posterior leaﬂets
+(and second oriﬁce) visualised distally only at the leaﬂet
+edges and not at midleaﬂet or annulus level. This type is
+thus only seen in a more apically directed view and can be
+easily missed on 2DE imaging. A further ‘hole’ type is
+predominantly seen in AVSD settings, therefore of left
+AV valve type. The second oriﬁce is usually small and can
+be only visualised at a mid-leaﬂet level tucked close to the
+commissure. RT3DE in this setting provides information
+about the relationship of the oriﬁces, their anatomical
+character and function (34).I ta l s op r o v i d e sb e t t e r
+assessment of the subleaﬂet apparatus, which is frequently
+abnormal (35).
+Non-mitral left AV valve lesions
+Atrioventricular septal defect
+A typical unrepaired AVSD is shown via a RT3DE
+transoesophageal view from an atrial and ventricular
+aspect in Fig. 6A and B (Videos 9 and 10). The hallmark of
+an AVSD is a common AV junction with a common AV
+valve. In this lesion, the left AV valve is formed by
+superior and inferior bridging leaﬂets, which ‘bridge’
+between the left and right ventricles. The third leaﬂet
+of the left AV valve is the mural leaﬂet, which is smaller
+and has a more triangular shape than the normal posterior
+mitral valve leaﬂet. This group of lesions accounts for
+w3% of congenital heart disease (36). A broad mor-
+phological spectrum exists, with variability of the
+relationship and size of the leaﬂets and the interaction
+of the bridging leaﬂets with the atrial and ventricular
+septum (37). In most cases, there are communications
+between both the ventricle and atriums, when the lesion
+is termed ‘complete’. The term ‘partial’ AVSD is
+commonly applied to the situation where there is no
+communication between the ventricles. The common AV
+junction means that the aorta cannot assume its normal
+position wedged between the AV valves and the aorta is
+displaced or ‘unwedged’ anteriorly. This is due to the
+intrinsic AV septation abnormality, which results in
+Table 1 Comparison of morphological features of an anterior cleft mitral valve vs an AVSD left AV valve.
+AV valve morphology Offset of AV valves Orientation of ‘cleft’
+Bridging of
+valvar leaﬂets Posterior leaﬂet
+LV papillary
+muscle position
+Anterior cleft mitral
+valve
+Yes, usually Towards LVOT
+(predominantly)
+No Normal usually Typically normal
+AVSD left AV valve No (common AV
+junction)
+Towards ventricular
+septum
+Yes Mural leaﬂet
+smaller,
+triangular
+Rotated counter-
+clockwise
+Figure 5
+This is a transthoracic apical four-chamber acquisition showing a complete
+bridge type double-oriﬁce mitral valve from a ventricular aspect showing
+the two oriﬁces of equal size, both of mitral morphology, with a constant
+bridge of tissue between the oriﬁces. MV oriﬁce 1, mitral valve oriﬁce 1;
+MV oriﬁce 2, mitral valve oriﬁce 2; AoV, aortic valve; TV, tricuspid valve;
+IVS, interventricular septum; Sup, superior; Inf, inferior; L, left; R, right.
+Video 8
+RT3DE transthoracic ventricular en face view of a double-
+oriﬁce mitral valve. Download Video 8 via http://dx.doi.
+org/10.1530/ERP-15-0003-v8.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R19
+[[p8]]
+ventricular inlet–outlet disproportion, variability of the
+size and relationship of the AV valve leaﬂets and their
+attachments, and an altered position of the AV node(38).
+AVSD left AV valve morphology is distinct from mitral
+due to the common AV junction. There is clockwise
+rotation of the papillary muscles (26) and an altered inlet-
+to-outlet ratio of to the left ventricle.
+2DE demonstrates the loss of normal AV valve offset,
+suggests a trileaﬂet left AV valve and shows a zone of
+apposition directed towards the inlet septum. Sometimes
+erroneously called a ‘cleft’, this is the interface between
+the superior and inferior bridging leaﬂets. RT3DE can
+outline the left AV valve anatomy in greater detail, which
+is particularly valuable where an AV valve repair is
+required during a primary AVSD repair (39). Shunts at
+atrial and ventricular level can be obvious on 2DE
+imaging, but where shunts are smaller, or with complex
+AV valvar attachments, 2DE assessment be challenging.
+RT3DE may provide more information in this context.
+The best views for acquisition are parasternal long and
+short axis, apical four-chamber and in smaller children
+subcostal. The predominant transoesophageal view is a
+four-chamber mid-oesophageal view at 0 8. Occasionally,
+Figure 6
+(A and B) An unrepaired partial AVSD via transoesophageal echocardio-
+graphy is shown from an atrial (A) and ventricular (B) aspect. The interface
+of the superior and inferior bridging leaﬂets is seen orientated towards the
+IVS along with the un-wedged anterior aortic position and a left AV valve
+small triangular mural leaﬂet. The bridging of the superior leaﬂet across
+the ventricular septum is clearly visualised in A. (C) A live 3D acquisition of a
+previously repaired partial AVSD with a residual defect between the
+superior and inferior bridging leaﬂet contributing to signiﬁcant left AV
+valve regurgitation. Sup BL, superior bridging leaﬂet; Inf BL, inferior
+bridging leaﬂet; Mural L, mural leaﬂet; AoV, aortic valve; RAVV, right AV
+valve; IAS, interatrial septum; IVS, interventricular septum; Sup, superior;
+Inf, inferior; L, left; R, right.
+Video 9
+RT3DE transoesophageal atrial en face view of an
+unrepaired partial AVSD. Download Video 9 via http://dx.
+doi.org/10.1530/ERP-15-0003-v9.
+Video 10
+RT3DE transoesophageal ventricular en face view of an
+unrepaired partial AVSD. Download Video 10 viahttp://dx.
+doi.org/10.1530/ERP-15-0003-v10.
+Video 11
+RT3DE transoesophageal ventricular en face view of a
+previously repaired AVSD left AV valve with incomplete
+closure of bridging leaﬂet interface. Download Video 11
+via http://dx.doi.org/10.1530/ERP-15-0003-v11.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R20
+[[p9]]
+the w1208 view of the mitral valve with the LVOT in view
+can also be helpful for acquisition.
+Left AV valve regurgitation remains the most common
+aetiology (3–10% of cases) for late surgical reintervention
+after primary AVSD repair and carries important morbidity
+and mortality (40, 41, 42). Establishing the mechanism of
+left AV valve regurgitation can be enhanced using RT3DE.
+Figure 6C and Video 11 show incomplete closure of the
+superior and inferior bridging leaﬂet interface after a
+previous partial AVSD repair.
+Double-oriﬁce left AV valve
+Figure 7and Videos 12and 13 show a double-oriﬁce left AV
+valve (DOLAVV) in two patients with partial AVSDs.
+Figure 7 A reﬂects a complete tissue bridge between the
+two oriﬁces that are of similar size.Figure 7B demonstrates a
+RT3DE ‘hole’ type of DOLAVV (33). On 2DE short-axis
+views, the additional smaller oriﬁce is only visible at
+mid-leaﬂet level postero-inferiorly near to the interface
+of the bridging leaﬂets. Viewing at an annular level, 2DE
+only demonstrates the superior–inferior bridging leaﬂet
+zone of apposition. DOLAVV can be acquired post surgical
+repair as a complication or an intentional reparative
+technique (43).
+Other left sided non-mitral valves
+Figure 8 and Video 14 shows a left-sided tricuspid valve on
+transthoracic echocardiography from the ventricular
+aspect. With usual atrial arrangement and discordant AV
+connections, the left-sided AV valve is the tricuspid valve
+connecting to a systemic right ventricle. Salient dis-
+tinguishing features of a tricuspid valve are the leaﬂet
+conﬁguration of an anterior superior, an inferior and a
+septal leaﬂet with attachments of subvalvar apparatus to
+the septum as well as the free wall of the ventricle.
+An increased association of Ebstein’s anomaly of the
+Video 12
+RT3DE transthoracic ventricular en face view of a partial
+AVSD with equal oriﬁce double-oriﬁce left AV valve.
+Download Video 12 via http://dx.doi.org/10.1530/ERP-15-
+0003-v12.
+Video 13
+RT3DE transoesphageal atrial en face view of a ‘hole’ type
+oriﬁce double-oriﬁce left AV valve in a partial AVSD.
+Download Video 13 via http://dx.doi.org/10.1530/ERP-15-
+0003-v13.
+Figure 7
+(A) A live RT3DE transthoracic parasternal short-axis view acquisition of
+double-oriﬁce left AV valve in a patient with partial AVSD. The two oriﬁces
+are in a superior/inferior orientation. Both are of similar size. (B) A trans-
+oesophageal echocardiogram acquisition of a double-oriﬁce left AV valve
+from the atrial aspect in the context of an AV septal defect. This is of ‘hole’
+type with the second oriﬁce close to the interface of the superior and
+inferior bridging leaﬂets and only shown at the level of the leaﬂet tips.
+AV, atrioventricular; LAVV oriﬁce 1, left AV valve oriﬁce 1; LAVV oriﬁce 2,
+left AV valve oriﬁce 2; Sup BL, superior bridging leaﬂet; Inf BL, inferior
+bridging leaﬂet; Mural L, mural leaﬂet; AoV, aortic valve; RAVV, right AV
+valve; IVS, interventricular septum; IAS, interatrial septum; Sup, superior;
+Inf, inferior; L, left; R, right.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R21
+[[p10]]
+tricuspid valve, VSD, pulmonary stenosis and complete
+heart block exists in settings of combined AV and
+ventriculoarterial discordant connections. 2DE is ade-
+quate for distinguishing ventricular morphology includ-
+ing the AV valve in simple cases, but becomes more
+difﬁcult in complex settings particularly where there is
+ventricular rotation. In a ddition, the morphological
+mitral valve may not always be normal with discordant
+AV connections. This prompts closer assessment of the
+mitral valve complex, which may be enhanced by RT3DE
+(44).I n Fig. 8, RT3DE clearly demonstrates the trileaﬂet
+conﬁguration and septal attachment of the tricuspid
+valve on the left and the bileaﬂet mitral valve on the
+right. It also shows the relationship of the AV valves with
+a VSD in this example.
+Discussion and conclusions
+PM?s???????
+abnormalities of the left AV valve, which may be
+encountered in clinical practice.
+2. RT3DE may be a useful complementary technique to
+standard 2D and colour ﬂow-Doppler assessment of
+such valves. RT3DE can be achieved in a real clinical
+workﬂow scenario.
+3. 2D echo still provides the highest temporal and
+spatial resolution, which is important for fast-moving
+structures such as valves and chordal support
+apparatus.
+4. RT3DE provides a depth of ﬁeld so that
+i) The ‘big picture’ anatomy may be appreciated.
+ii) The full depth of leaﬂet morphology may be
+appreciated.
+iii) Chords and papillary muscles can be visualised
+along their entire length.
+iv) The true effective oriﬁce can be appreciated via
+the ability to crop valves deep into the ventricle.
+5. Although not the subject of this review, areas
+of mitral valve regurgitation may be identiﬁed by
+RT3DE and the mechanism of regurgitation fully
+appreciated.
+Declaration of interest
+The authors declare that there is no conﬂict of interest that could be
+perceived as prejudicing the impartiality of this review.
+Funding
+This review did not receive any speciﬁc grant from any funding agency in
+the public, commercial or not-for-proﬁt sector.
+References
+P?a?`K?j?s?E?r?mg?PXXT?d?
+of congenital mitral valve anomalies in children. American Journal of
+Cardiology 76 1284–1291. (doi:10.1016/S0002-9149(99)80357-9)
+2 Grenadier E, Sahn DJ, Valdes-Cruz LM, Allen HD, Oliveira Lima C &
+Goldberg SJ 1984 Two-dimensional echo Doppler study of congenital
+disorders of the mitral valve. American Heart Journal 107 319–325.
+(doi:10.1016/0002-8703(84)90381-8)
+3 Gilbert BW, Schatz RA, VonRamm OT, Behar VS & Kisslo JA 1976
+Mitral valve prolapse. Two-dimensional echocardiographic and
+angiographic correlation. Circulation 54 716–723. (doi:10.1161/01.CIR.
+54.5.716)
+4 Lang RM, Mor-Avi V, Sugeng L, Nieman PS & Sahn DJ 2006
+Three-dimensional echocardiography: the beneﬁts of the additional
+dimension. Journal of the American College of Cardiology 48 2053–2069.
+(doi:10.1016/j.jacc.2006.07.047)
+Video 14
+RT3DE transthoracic ventricular en face view of a left-sided
+tricuspid valve in atrial situs with AV and ventriculoarterial
+discordant connections. Download Video 14 via http://dx.
+doi.org/10.1530/ERP-15-0003-v14.
+Figure 8
+A transthoracic view of a left-sided tricuspid valve in the setting of
+discordant AV connections. This shows that the left AV valve has the
+characteristic trileaﬂet arrangement and septal attachment of a tricuspid
+valve and that the right AV valve is of mitral type. AV, atrioventricular; Ant
+Sup L, anterior superior leaﬂet; Inf L, inferior leaﬂet; Septal L, septal leaﬂet;
+MV, mitral valve; IVS, interventricular septum; AoV, aortic valve; TV,
+tricuspid valve; Sup, superior; Inf, inferior; L, left; R, right.
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R22
+[[p11]]
+5 Mor-Avi V, Sugeng L & Lang RM 2009 Real-time 3-dimensional
+echocardiography: an integral component of the routine
+echocardiographic examination in adult patients? Circulation 119
+314–329. (doi:10.1161/CIRCULATIONAHA.107.751354)
+6 Asante-Korang A, O’Leary PW & Anderson RH 2006 Anatomy and
+echocardiography of the normal and abnormal mitral valve. Cardiology
+in the Young 16 (S3) 27–34. (doi:10.1017/S1047951106000734)
+7S e´ gue´ la P-E, Houyel L & Acar P 2011 Congenital malformations of the
+mitral valve. Archives of Cardiovascular Diseases 104 465–479.
+(doi:10.1016/j.avcd.201.06.004)
+8 Simpson JM 2008 Real-time three-dimensional echocardiography of
+congenital heart disease using a high frequency paediatric matrix
+transducer. European Journal of Echocardiography 9 222–224.
+(doi:10.1016/j.euje.2007.06.012)
+9 Simpson JM & Miller O 2011 Three-dimensional echocardiography in
+congenital heart disease. Archives of Cardiovascular Diseases 104 45–56.
+(doi:10.1016/j.acvd.2010.11.004)
+10 Lang RM, Badano LP, Tsang W, Adams DH, Agricola E, Buck T, Faletra FF,
+Franke A, Hung J, de Isla LPet al 2012 EAE/ASE recommendations for
+image acquisition and display using three-dimensional echocardio-
+graphy. European Heart Journal Cardiovascular Imaging 13 1–46.
+(doi:10.1093/ehjci/jer316)
+11 Vettukattil JJ 2011 Three dimensional echocardiography in congenital
+heart disease. Heart 98 79–88. (doi:10.1136/heartjnl-2011-300488)
+12 Simpson JM 2011 Congenital heart disease in children. In Three-
+Dimensional Echocardiography, 1st edn, pp 201–221. Eds T Buck,
+A Franke & MJ Monaghan. Berlin, Heidelberg: Springer.
+13 Simpson J, Miller O, Bell A, Bellsham-Revell H, McGhie J & Meijboom F
+2011 Image orientation for three-dimensional echocardiography of
+congenital heart disease. International Journal of Cardiovascular Imaging
+28 743–753. (doi:10.1007/s10554-011-9893-3)
+14 Anderson RH, Razavi R & Taylor AM 2004 Cardiac anatomy revisited.
+Journal of Anatomy205159–177.(doi:10.1111/j.0021-8782.2004.00330.x)
+15 Anderson RH & Kanani M 2007 Mitral valve repair: critical analysis of
+the anatomy discussed. Multimedia Manual of Cardiothoracic Surgery
+2007 mmcts.2006.002147.
+16 Ho SY 2002 Anatomy of the mitral valve. Heart 88 (Suppl 4) iv5–iv10.
+(doi:10.1136/heart.88.suppl_4.iv5)
+17 Obadia JF, Casali C, Chassignolle JF & Janier M 1997 Mitral subvalvular
+apparatus: different functions of primary and secondary chordae.
+Circulation 96 3124–3128. (doi:10.1161/01.CIR.96.9.3124)
+18 Shone JD, Sellers RD, Anderson RC, Adams P, Jr, Lillehei CW & Edwards
+JE 1963 The developmental complex of “parachute mitral valve,”
+supravalvular ring of left atrium, subaortic stenosis, and coarctation
+of aorta. American Journal of Cardiology 11 714–725. (doi:10.1016/
+0002-9149(63)90098-5)
+19 Davachi F, Moller JH & Edwards JE 1971 Diseases of the mitral valve in
+infancy an anatomic analysis of 55 cases. Circulation 43 565–579.
+(doi:10.1161/01.CIR.43.4.565)
+20 Schaverien MV 2004 Independent factors associated with outcomes of
+parachute mitral valve in 84 patients. Circulation 109 2309–2313.
+(doi:10.1161/01.CIR.0000129269.98460.C8)
+21 Marino BS, Kruge LE, Cho CJ, Tomlinson RS, Shera D, Weinberg PM,
+f?iv?E?q?i?QOOW?o??Y?
+descriptors, associated lesions, and outcomes after biventricular repair.
+Journal of Thoracic and Cardiovascular Surgery 137 385–3e4.
+(doi:10.1016/j.jtcvs.2008.09.016)
+22 Layman TE & Edwards JE 1967 Anomalous mitral arcade. A type of
+congenital mitral insufﬁciency. Circulation 35 389–395. (doi:10.1161/
+01.CIR.35.2.389)
+23 Hakim FA, Krishnaswamy C & Mookadam F 2013 Mitral arcade in
+adults – a systematic overview. Echocardiography 30 354–359.
+(doi:10.1111/echo.12126)
+24 Smallhorn JF, de Leval M, Stark J, Somerville J, Taylor JF, Anderson RH
+& Macartney FJ 1982 Isolated anterior mitral cleft. Two dimensional
+echocardiographic assessment and differentiation from “clefts”
+associated with atrioventricular septal defect. British Heart Journal 48
+109–116. (doi:10.1136/hrt.48.2.109)
+QT?r´??fK?d?i`K?r?mg?E?`?qg?PXXT?h?
+cleft in the anterior leaﬂet of an otherwise normal mitral valve
+an atrioventricular canal malformation? Journal of the American
+College of Cardiology 26 508–515. (doi:10.1016/0735-0197(95)80030-K)
+QU?j?s?E?r?mg?PXXU?b????
+muscle position in cleft mitral valve and atrioventricular septal defect.
+American Journal of Cardiology 77 164–169. (doi:10.1016/S0002-9149
+(96)90589-5)
+27 Fraisse A, Massih TA, Kreitmann B, Metras D, Vouhe´ P, Sidi D & Bonnet D
+2003 Characteristics and management of cleft mitral valve.Journal of the
+American College of Cardiology 42 1988–1993. (doi:10.1016/j.jacc.2003.
+07.019)
+28 Abadir S, Fouilloux V, Metras D, Ghez O, Kreitmann B & Fraisse A 2009
+Isolated cleft of the mitral valve: distinctive features and surgical
+management. Annals of Thoracic Surgery 88 839–843. (doi:10.1016/
+j.athoracsur.2009.06.004)
+29 Wyss CA, Enseleit F, van der Loo B, Gru¨ nenfelder JR, Oechslin EN &
+Jenni R 2009 Isolated cleft in the posterior mitral valve leaﬂet: a
+congenital form of mitral regurgitation.Clinical Cardiology 32 553–560.
+(doi:10.1002/clc.20608)
+30 Kent SM, Markwood TT, Vernalis MN & Tighe JF, Jr 2001 Cleft
+posterior mitral valve leaﬂet associated with counterclockwise papillary
+muscle malrotation. Journal of the American Society of Echocardiography
+14 303–304. (doi:10.1067/mje.2001.110140)
+31 Zalzstein E, Hamilton R, Zucker N, Levitas A & Gross GJ 2004
+Presentation, natural history, and outcome in children and adolescents
+with double oriﬁce mitral valve. American Journal of Cardiology 93
+1067–1069. (doi:10.1016/j.amjcard.2004.01.015)
+32 Sugiyama H, Hoshiai M, Toda T & Nakazawa S 2006 Double-oriﬁce mitral
+valve associated with noncompaction of left ventricular myocardium.
+Pediatric Cardiology 27 746–749. (doi:10.1007/s00246-006-1014-z)
+33 Trowitzsch E, Ban˜o-Rodrigo A, Burger BM, Colan SD & Sanders SP 1985
+Two-dimensional echocardiographic ﬁndings in double oriﬁce
+mitral valve. Journal of the American College of Cardiology 6 383–387.
+(doi:10.1016/S0735-1097(85)80176-5)
+34 Anwar AM, McGhie JS, Meijboom FJ & Ten Cate FJ 2008 Double
+oriﬁce mitral valve by real-time three-dimensional echocardiography.
+European Journal of Echocardiography 9 731–732. (doi:10.1093/
+ejechocard/jen149)
+35 Ban˜o-Rodrigo A, Van Praagh S, Trowitzsch E & Van Praagh R 1988
+Double-oriﬁce mitral valve: a study of 27 postmortem cases with
+developmental, diagnostic and surgical considerations. American
+Journal of Cardiology 61 152–160. (doi:10.1016/0002-9149(88)91322-7)
+36 Calabro` R & Limongelli G 2006 Complete atrioventricular canal.
+Orphanet Journal of Rare Diseases 1 8. (doi:10.1186/1750-1172-1-8)
+RV?`?qgK?v?`?E?u?ii?QOPO?l?
+morphogenesis of atrioventricular septal defect with common atrio-
+ventricular junction. World Journal for Pediatric & Congenital Heart
+Surgery 1 59–67. (doi:10.1177/2150135109360813)
+38 Adachi I, Uemura H, McCarthy KP & Ho SY 2008 Surgical anatomy of
+atrioventricular septal defect. Asian Cardiovascular & Thoracic Annals 16
+497–502. (doi:10.1177/021849230801600616)
+39 Takahashi K, Mackie AS, Rebeyka IM, Ross DB, Robertson M, Dyck JD,
+Inage A & Smallhorn JF 2010 Two-dimensional versus
+transthoracic real-time three-dimensional echocardiography in the
+evaluation of the mechanisms and sites of atrioventricular valve
+regurgitation in a congenital heart disease population. Journal of the
+American Society of Echocardiography 23 726–734. (doi:10.1016/j.
+echo.2010.04.017)
+40 Hoohenkerk GJ, Wenink AC, Schoof PH, Koolbergen DR, Bruggemans
+EF, Rijlaarsdam M & Hazekamp MG 2009 Results of surgical repair of
+atrioventricular septal defect with double-oriﬁce left atrioventricular
+valve. Journal of Thoracic and Cardiovascular Surgery 138 1167–1171.
+(doi:10.1016/j.jtcvs.2009.05.012)
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R23
+[[p12]]
+41 Stulak JM, Burkhart HM, Dearani JA, Cetta F, Barnes RD, Connolly HM
+& Schaff HV 2010 Reoperations after repair of partial atrioventricular
+septal defect: a 45-year single-center experience. Annals of Thoracic
+Surgery 89 1352–1359. (doi:10.1016/j.athoracsur.2010.01.018)
+42 Kaza AK, Colan SD, Jaggers J, Lu M, Atz AM, Sleeper LA, McCrindle BW,
+Lambert LM, Margossian R, Lacro RV et al 2011 Surgical interventions
+for atrioventricular septal defect subtypes: the pediatric heart network
+experience. Annals of Thoracic Surgery 92 1468–1475 (discussion 1475).
+(doi:10.1016/j.athoracsur.2011.04.109)
+43 Mace´ L, Dervanian P, Houyel L, Chaillon-Fracchia E, Piot D, Lambert V,
+Losay J & Neveux J-Y 2001 Surgically created double-oriﬁce left
+atrioventricular valve: a valve-sparing repair in selected atrioventricular
+septal defects. Journal of Thoracic and Cardiovascular Surgery 121
+352–365. (doi:10.1067/mtc.2001.111969)
+44 Uemura H, Adachi I, McCarthy KP, Koh M & Ho SY 2008 Is the
+morphologic mitral valve in discordant atrioventricular connections
+always normal? Annals of Thoracic Surgery 86 1328–1333. (doi:10.1016/
+j.athoracsur.2008.06.041)
+Received in ﬁnal form 14 January 2015
+Accepted 16 January 2015
+K Rice and J Simpson 3D echocardiography of the
+left atrioventricular valve
+ID: 15-0003; March 2015
+DOI: 10.1530/ERP-15-0003
+www.echorespract.com R24

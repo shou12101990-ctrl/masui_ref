@@ -1,0 +1,1507 @@
+
+[[p1]]
+SYSTEMATIC REVIEW
+published: 11 April 2022
+doi: 10.3389/fcvm.2022.843939
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 1 April 2022 | Volume 9 | Article 843939
+Edited by:
+Helena Bonciani Nader,
+Federal University of São Paulo, Brazil
+Reviewed by:
+Francisco C. C. Darrieux,
+University of São Paulo, Brazil
+Ken Chen,
+Cardiovascular Research Center of
+Chongqing College (CAS), University
+of Chinese Academy of
+Sciences, China
+Raúl Alcaraz,
+University of Castilla-La
+Mancha, Spain
+*Correspondence:
+Jingjing Cai
+caijingjing83@hotmail.com
+Junru Wu
+2204130417@csu.edu.cn
+†These authors have contributed
+equally to this work and share ﬁrst
+authorship
+Specialty section:
+This article was submitted to
+Cardiovascular Therapeutics,
+a section of the journal
+Frontiers in Cardiovascular Medicine
+Received: 27 December 2021
+Accepted: 14 March 2022
+Published: 11 April 2022
+Citation:
+Tang Y , Wang Y , Sun X, Shi Y , Liu S,
+Jiang W, Yuan H, Lu Y , Cai J and Wu J
+(2022) Effect of Early Pharmacologic
+Cardioversion vs. Non-early
+Cardioversion in the Patients With
+Recent-Onset Atrial Fibrillation Within
+4-Week Follow-Up Period: A
+Systematic Review and Network
+Meta-Analysis.
+Front. Cardiovasc. Med. 9:843939.
+doi: 10.3389/fcvm.2022.843939
+Effect of Early Pharmacologic
+Cardioversion vs. Non-early
+Cardioversion in the Patients With
+Recent-Onset Atrial Fibrillation
+Within 4-Week Follow-Up Period: A
+Systematic Review and Network
+Meta-Analysis
+Yan Tang1†, Yujie Wang 1†, Xuejing Sun 1, Yunmin Shi 1, Suzhen Liu 1, Weihong Jiang 1,
+Hong Yuan 1,2, Yao Lu 2, Jingjing Cai 1* and Junru Wu 1*
+1 Department of Cardiology, Third Xiangya Hospital, Central South University, Changsha, China, 2 Center of Clinical
+Pharmacology, Third Xiangya Hospital, Central South Unive rsity, Changsha, China
+Background: Whether early pharmacologic cardioversion is necessary for recent-onset
+atrial ﬁbrillation is still controversial. Current meta-a nalyses were limited to evaluating the
+effects within 24 h without sufﬁcient considering longer fo llow-up outcomes. We aimed
+to compare the effect of early pharmacologic cardioversion and non-early cardioversion
+in patients with recent-onset atrial ﬁbrillation within 4- weeks of follow-up.
+Methods: We searched the Cochrane Library, EMBASE, MEDLINE, PubMed, Web of
+Science, ClinicalTrials.gov, and Clinicaltrialsregiste r. eu for randomized controlled trials
+(RCT s) published before November 2021 comparing early phar macologic cardioversion
+and non-early cardioversion in recent-onset atrial ﬁbrill ation and synthesized data in
+accordance with PRISMA-Systematic Reviews and Network Met a-Analysis (NMA). Early
+pharmacological cardioversion referred to immediate card ioversion with antiarrhythmic
+drugs (i.e., amiodarone, propafenone, ﬂecainide, tedisam il, vernakalant, vanoxerine, and
+sotalol) upon admission, while non-early cardioversion in volved the administration of
+rate-control or placebo medication without immediate card ioversion.
+Results: 16 RCT s with 2,395 patients were included. Compared to non-e arly
+cardioversion, a systematic review showed that early pharm acologic cardioversion
+resulted in a higher probability of sinus rhythm maintenanc e within 24 h (odds ratios [OR]
+2.50, 95% credible interval [CrI] 1.76 to 3.54) and 1-week (2 .50, 1.76 to 3.54), however,
+there was no signiﬁcant difference in sinus rhythm maintena nce within 4-weeks (1.37,
+0.90 to 2.09). In subgroup analysis, the Bayesian NMA reveal ed that vernakalant may be
+successful in sinus rhythm maintenance within both 24 h (3.5 5, 2.28 to 5.55) and 1-week
+(2.72, 1.72 to 4.31). The results were consistent with the fr equentist NMA.
+[[p2]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+Conclusions: Non-early pharmacologic cardioversion may not be inferior to early
+cardioversion within a 4-week follow-up period in patients with recent-onset atrial
+ﬁbrillation. The evidence remains insufﬁcient to determin e which antiarrhythmic agent
+is optimal in the longer run. Further high-quality relevant RCT s are necessary.
+Clinical Trial Registration: PROSPERO CRD42020166862.
+Keywords: recent-onset, atrial ﬁbrillation, early pharmac ologic cardioversion, non-early cardioversion, network
+meta-analysis, randomized controlled trials
+INTRODUCTION
+The global prevalence of recent-onset atrial ﬁbrillation
+accounts for nearly 26% of all types of atrial ﬁbrillation,
+with substantial morbidity and mortality (
+1). Recent-onset atrial
+ﬁbrillation is considered to be a ﬁrst-detected episode of at rial
+ﬁbrillation lasting no more than 7 days ( 2). Patients with this
+condition commonly receive rapid reversion to sinus rhythm
+by cardioversion (
+3–9). However, it has been a long debate over
+whether immediate achievement of a return to sinus rhythm
+is vital as recent-onset atrial ﬁbrillation usually termin ates
+spontaneously and pharmacologic or electrical cardioversio n
+may result in unwanted side eﬀects (
+3).
+There are several randomized controlled trials (RCTs), whi ch
+have proved early pharmacological cardioversion to be superio r
+with a higher probability of cardioversion to sinus rhythm
+than non-early cardioversion (
+10–21). Among them, early
+pharmacological cardioversion was the immediate restorati on
+of sinus rhythm with antiarrhythmic drugs upon admission,
+and non-early cardioversion included initial treatment wi th
+rate-control or placebo in the absence of early cardioversion .
+However, recent studies found that the proportion of patients
+restoring sinus rhythm at more than 7 days after early
+cardioversion was similar to that of patients treated with
+non-early cardioversion (
+16–19). Furthermore, a recent RACE
+7 ACWAS study has also demonstrated that the non-early
+cardioversion was non-inferior to early cardioversion in t he
+restoration of sinus rhythm at the prospective setting (
+22). For
+recent-onset atrial ﬁbrillation, the current two meta-ana lyses
+compared pharmacologic cardioversion with non-cardioversi on
+were only within a 24 h observational time frame ( 23, 24).
+However, the drug-related adverse event and cardioversion
+durability usually required a longer observational period t o
+detect (
+12, 20, 23–26). Besides, 2021 CCS/CHRS and ESC
+guidelines also recommended the longitudinal management o f
+patients with atrial ﬁbrillation ( 27). Despite these, whether early
+pharmacologic cardioversion is superior to non-cardioversi on in
+the sinus rhythm maintenance in the longer follow-up period
+remains controversial.
+The success rates of cardioversion and progression of atrial
+ﬁbrillation are associated with the severity of structural heart
+diseases and cardiovascular risk factors, are raised by gui delines
+and clinical trials 2018 ESC/ESH and 2020 ESC guideline (
+11, 12,
+28–31). Nevertheless, whether early pharmacologic cardioversion
+is recommended in recent-onset atrial ﬁbrillation patients w ith
+cardiovascular risk factors and structural heart diseases in the
+longer observational frame continues to be a matter of debat e.
+Therefore, we performed this systematic review and network
+meta-analysis to compare the eﬃcacy of early pharmacologic
+cardioversion with non-early cardioversion on the restorat ion of
+sinus rhythm for up to 4-week duration based on the direct and
+indirect evidence. Meanwhile, we focused on both the general
+population of atrial ﬁbrillation and subgroups (e.g., patients wi th
+cardiovascular risk factors and mild/moderate structural heart
+diseases) to increase the universality of the conclusions.
+MATERIALS AND METHODS
+The detailed protocol is documented online in the PROSPERO
+registry (CRD42020166862). This NMA was performed in
+accordance with the Preferred Reporting Items for Systematic
+Reviews and Meta-Analysis (PRISMA) statement.
+Search Strategy and Selection Criteria
+We searched the Cochrane Library, EMBASE, MEDLINE,
+PubMed, Web of Science, ClinicalTrials.gov, and
+Clinicaltrialsregister. eu for randomized controlled tria ls
+(RCTs) using the MeSH search terms including atrial ﬁbrillat ion
+and cardioversion from inception to November 2021. The
+MeSH search terms were atrial ﬁbrillation and cardioversion . No
+language restrictions were applied. The included studies
+were limited by the human subject. Due to being lack
+of study comparing the eﬀect of electrical cardioversion
+with non-early cardioversion, only trials comparing
+pharmacologic cardioversion with non-early cardioversion
+were included in our analysis. The search strategy is shown in
+Supplementary Systematic Review Searching Record.
+We included the RCTs according to the following
+criteria (PICO): studies were included if they enrolled
+adult patients with atrial ﬁbrillation of onset between
+3 h and 7 days prior to admission; the interventions
+were early pharmacological cardioversion and non-early
+cardioversion (early pharmacological cardioversion was
+immediate cardioversion with antiarrhythmic drugs; non-e arly
+cardioversion was the administration of rate-control or pla cebo
+medication or without immediate cardioversion.); comparisons
+were made between early pharmacological cardioversion and
+non-early cardioversion; extractable outcomes included eﬃcacy,
+safety, and prognostic endpoints. The eﬃcacy outcomes includ ed
+cardioversion to sinus rhythm within 24 h, sinus rhythm
+maintenance within 1-week, and sinus rhythm maintenance
+between 1- and 4-weeks. The safety endpoints included
+bradycardia, tachyarrhythmia, hypotension, gastrointesti nal
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 2 April 2022 | Volume 9 | Article 843939
+[[p3]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+disorders including vomiting, nausea, diarrhea, and other
+digestive side eﬀects, and nervous system disorders includi ng
+hot ﬂushes, dizziness, headache, dysgeusia, paraesthesia, and
+other nervous system side eﬀects. The prognostic endpoints
+included all-cause mortality, stroke or transient ischemi c attacks
+(TIA), and heart failure. The deﬁnitions of these endpoints w ere
+presented in Table S1.
+Data Extraction
+Independently, two reviewers (YT , YW) screened the abstract s.
+For potentially eligible trials, they also assessed the full text
+and extracted the data. The disagreements were resolved
+by discussion.
+Risk of Bias Assessment
+The risk of bias of the included studies was evaluated through the
+Cochrane Collaboration’s tool (
+32). The risk of bias was assessed
+according to seven domains including allocation concealme nt,
+blinding of outcome assessment, blinding of participants and
+personnel, incompleteness of outcome data, randomization of
+sequence generation, selective outcome reporting, and “oth er”
+bias. These were rated as “low risk, ” “unclear risk, ” and “hi gh
+risk.” And we also inspected the comparison-adjusted funnel
+plots of standard errors vs. eﬀect estimates for small-study e ﬀects
+and publication bias only if the number of included studies wi th
+a speciﬁed endpoint was no <10 (
+33, 34).
+Data Synthesis and Statistical Analysis
+We present the results as odds ratios (ORs) with 95%
+credible interval [CrI] for the Bayesian framework and with
+95% conﬁdence intervals (CIs) for the frequentist framewor k
+to summarize the statistics to quantify the eﬃcacy, safety,
+and prognosis of diﬀerent antiarrhythmic drugs as early
+pharmacologic cardioversion and non-early cardioversion. A n
+OR greater than one represented eﬃcacy endpoints, i.e., makin g
+early pharmacologic cardioversion better. An OR greater tha n
+one represented safety or prognostic endpoints, i.e., making non-
+early cardioversion better. Two-sided p<0.05 was considered to
+be statistically signiﬁcant.
+The statistical heterogeneity across the included studies was
+evaluated as the I2 statistic. I2 > 50% was considered to be the
+substantial heterogeneity.
+To conﬁrm that non-early pharmacologic cardioversion
+may not be inferior to early cardioversion within a 4-
+week follow-up period in patients with recent-onset atrial
+ﬁbrillation, we performed subgroup analyses as followings:
+(i) patients with mild/moderate structural heart disease as
+compared to those without structural heart disease; (ii) pati ents
+with hypertension as compared to those without hypertension;
+(iii) patients with continuing cardioversion for more than
+24 h after immediate cardioversion as compared to those
+without continuing cardioversion; (iv) patients with intra venous
+cardioversion as compared to those without oral cardioversi on.
+We also used P-values for interaction to evaluate the relationship
+between subgroups and treatment eﬀect.
+To further evaluate the eﬀects of diﬀerent antiarrhythmic
+drugs as early pharmacologic cardioversion through the dire ct
+and indirect evidence, we performed the subgroup analyses
+by NMA under the Bayesian framework using the pcnetmeta
+package (version 2.6) in R (version 3.6.1). Due to only
+one trial (42 participants) comparing tedisamil to non-early
+cardioversion, the trial was ruled out from subgroup analys es.
+To present the results of all the endpoints clearly, we also
+performed probabilistic analysis according to the cumulativ e
+rankogram (
+35).
+Sensitivity analyses were conducted as follows: (i) The NMA
+under the frequentist framework using netmeta (version 1.2- 0)
+to depict the network geometry completely. (ii) The pairwise
+meta-analysis with the random-eﬀects model of DerSimonian
+and Laird’s method using the metafor (version 2.1.0) to furt her
+provide the direct estimates across studies.
+To assess the heterogeneity across the network and direct
+comparisons, we used the between-studies variance τ 2 with
+0.04, 0.16, and 0.36 to be a low, moderate, and high degree of
+heterogeneity, respectively (
+36). JASP (http://www.jasp-stats.org)
+is used to statistically evaluate inconsistencies between direct and
+indirect evidence globally by ﬁtting the inconsistency mode l and
+locally estimating in closed loops ( 37).
+To further conﬁrm the robustness of our ﬁndings, we used
+three Markov chains traced with 70,000 simulated draws afte r
+a burn-in of 50,000 iterations to calculate ORs and 95% CIs
+using the GeMTC package (version 0.8.2). The convergence
+was evaluated by the trace plots and Brooks-Gelman-
+Rubin statistic. Model ﬁt was measured as the total residual
+deviance (
+38).
+Quality of Evidence and Conﬁdence in the
+Point Estimate
+To assess the conﬁdence in all the endpoints estimates, we used
+the online CINeMA (http://cinema.ispm.ch) under the GRADE
+(Grading of Recommendations Assessment, Development,
+and Evaluation) framework (
+39). The network estimate of
+each outcome was according to the six CINeMA domains
+including within-study bias (risk of bias in the included stu dies),
+across-study bias (publication and reporting bias), indirect ness,
+imprecision, heterogeneity, and incoherence (diﬀerences
+between direct and indirect evidence) (
+40). The quality of the
+evidence in the points estimated was rated as high, moderate a nd
+low, and very low.
+RESUL TS
+Included Studies
+There are overall of 5,086 citations after duplicates removed
+according to the included criteria, and the full-text of 56
+potentially eligible articles was screened. Finally, 16 RCT s that
+included 2,395 participants (range of 45–437 across studies)
+were identiﬁed ( Figure 1) (
+10–22, 31, 41, 42). Overall, ﬁve trials
+compared early pharmacologic cardioversion with amiodarone
+to non-early cardioversion (
+13, 16, 18, 20, 41), four trials
+compared propafenone to non-early cardioversion ( 10, 13–
+15), three trials compared ﬂecainide to non-early cardioversi on
+(13, 21, 22), one trial compared tedisamil to non-early
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 3 April 2022 | Volume 9 | Article 843939
+[[p4]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+FIGURE 1 | Flowchart showing the procedure for identifying the releva nt publications. The antiarrhythmic drugs as early pharmac ologic cardioversion in the study
+included amiodarone, propafenone, ﬂecainide, tedisamil, v ernakalant, vanoxerine, and sotalol.
+cardioversion (17), three trials compared vernakalant with non-
+early cardioversion ( 11, 12, 31), two trials compared vanoxerine
+to non-early cardioversion (19, 42), two trials compared sotalol to
+non-early cardioversion (18, 20). All participants were randomly
+assigned 204 to amiodarone, 321 to propafenone, 310 to
+ﬂecainide, 42 to tedisamil, 218 to vernakalant, 51 to vanoxe rine,
+85 to sotalol, and 971 to non-early cardioversion.
+Risk of Bias Within Individual Studies
+The characteristics and risk of bias assessment for the incl uded
+RCTs were performed and summarized ( Table 1). Most studies
+had the lowest risks of bias for random sequence generation
+(16/16, 100%), selective reporting (13/16, 81.25%), incomplet e
+outcome data (12/16, 75%), blinding of participants and
+personnel (13/16, 81.25%), blinding of outcome assessment
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 4 April 2022 | Volume 9 | Article 843939
+[[p5]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+TABLE 1 | The characteristics and quality assessment in terms of Coch rane risk of bias assessment of included RCT s.
+Trail No. of
+patients
+Study design Length of
+follow-up
+Groups Cardioversion
+Regimen
+Male (%) Mean
+age,
+years
+Structural
+Heart
+Disease
+(%)
+Heart
+Failure
+(%)
+Hyper
+tension
+(%)
+Diabetes
+(%)
+Valvular
+Heart
+Diseases
+(%)
+Vascular
+Diseases
+(%)
+Mean
+duration
+of
+Current
+atrial
+ﬁbrillation
+episode,
+h
+Random
+sequence
+genera
+tion
+Alloca
+tion
+conceal
+ment
+Blinding of
+partici
+pants and
+personnel
+Blinding
+of out
+come
+assess
+ment
+Incomp
+lete out
+come
+data
+Selec
+tive
+repor
+ting
+Other
+bias
+Kanou
+pakis et al.
+(
+16)
+45 Randomi
+zed, blind,
+single center
+24 h Early
+Pharmacologic
+Cardioversion
+Amio 300 mg
+iv+ Continuous
+iv+ po
+12 (52.2) 64 7 (30.4) NA 6 (26.1) NA 2 (8.7) 7 (30.4) 13
++ + ? ? + + –
+Non-Early
+Cardioversion
+Plac 9 (40.9) 65 5 (22.7) NA 7 (31.8) NA 2 (9.1) 6 (27.3) 11
+Boriani et
+al. (
+10)
+126 Randomi
+zed,
+single-blind,
+multi-center
+8 h Early
+Pharmacologic
+Cardioversion
+Prop 600 mg/d,
+po+ Continuous,
+po
+33 (51.6) 69 16 (25.0) 16 (25.0) 26 (40.6) NA 2 (3.1) 10 (15.6) 3 2
++ + + – + + +
+Non-Early
+Cardioversion
+Plac 31 (43) 68 17 (27.4) 15 (24.2) 24 (38.7) NA 6 (9.7) 7 (11.3) 31
+Donovan
+et al. (
+21)
+102 Randomi
+zed,
+double-blind,
+single center
+6 h Early
+Pharmacologic
+Cardioversion
+Flec (2 mg/kg), iv 36 (70.6) 61 NA NA NA NA NA NA 8.7
++ + + + + ? –
+Non-Early
+Cardioversion
+Plac 36 (70.6) 59 NA NA NA NA NA NA 7.3
+Hohnloser
+et al. (
+17)
+175 Randomi
+zed,
+double-blind,
+multi-center
+28 d Early
+Pharmacologic
+Cardioversion
+T edi (0.4–0.6
+mg/kg), iv
+31 (58.0) 63.7 NA NA NA NA NA NA 25.0
++ + + + + + +
+Non-Early
+Cardioversion
+Plac 34 (58.0) 65.0 NA NA NA NA NA NA 25.7
+Roy et al.
+(
+11)
+56 Randomi
+zed,
+double-blind,
+multi-center
+7 d Early
+Pharmacologic
+Cardioversion
+Vern 0.5–3.0
+mg/kg iv and/or
+repeated 24 h
+20 (55.6) 67.4 NA NA 23 (63.9) 8 (22.2) NA NA 11.5
++ + + + + + ?
+Non-Early
+Cardioversion
+Plac 14 (70.0) 64.0 NA NA 9 (45.0) 5 (25.0) NA NA 13.3
+Dittrich et
+al. (
+42)
+104 Randomi
+zed,
+double-blind,
+multi-center
+7 d Early
+Pharmacologic
+Cardioversion
+Vano 400 mg/d,
+po
+12 (48.0) 68.4 13 (40.6) 4 (16.0) 41 (56.9) 2 (3.0) 6 (24.0) 1 (4 .0) 64.8
++ + + + + + +
+Non-Early
+Cardioversion
+Plac 22 (68.8) 62.3 31 (43.1) 10 (31.3) 22 (68.8) 0 (0.0) 4 (12. 5) 0 (0.0) 33.6
+Thomas et
+al. (
+20)
+140 Randomi
+zed, blind,
+single center
+12 h Early
+Pharmacologic
+Cardioversion
+Amio 10 mg/kg,
+iv+ Continuous, po
+19 (36.5) 54.3 9 (17.3) 0 15 (28.8) NA 2 (3.8) NA NA
++ ? ? ? – ? ?
+Early
+Pharmacologic
+Cardioversion
+Sota 1.5 mg/kg,
+iv+ Continuous, po
+5 (11.1) 57.7 6 (13.0) 0 14 (31.1) NA 2 (4.4) NA NA
+(Continued)
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 5 April 2022 | Volume 9 | Article 843939
+[[p6]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+TABLE 1 | Continued
+Trail No. of
+patients
+Study design Length of
+follow-up
+Groups Cardioversion
+Regimen
+Male (%) Mean
+age,
+years
+Structural
+Heart
+Disease
+(%)
+Heart
+Failure
+(%)
+Hyper
+tension
+(%)
+Diabetes
+(%)
+Valvular
+Heart
+Diseases
+(%)
+Vascular
+Diseases
+(%)
+Mean
+duration
+of
+Current
+atrial
+ﬁbrillation
+episode,
+h
+Random
+sequence
+genera
+tion
+Alloca
+tion
+conceal
+ment
+Blinding of
+partici
+pants and
+personnel
+Blinding
+of out
+come
+assess
+ment
+Incomp
+lete out
+come
+data
+Selec
+tive
+repor
+ting
+Other
+bias
+Non-Early
+Cardioversion
+Plac 20 (46.5) 55.5 11 (25.6) 0 8 (18.6) NA 7 (16.3) NA NA
+Galve et
+al. (
+41)
+100 Randomized,
+single-blind,
+single center
+15 d Early
+Pharmacologic
+Cardioversion
+Amio 5 mg/kg
+iv+ Continuous
+24 h
+QV?GTSMOH?UO?QQ?GSSMOH?T?GPOMOH?m`?m`?m`?m`?QT
++ + + – + + ?
+Non-Early
+Cardioversion
+Plac 28 (56.0) 61 30 (60.0) 6 (12.0) NA NA NA NA 18
+Roy et al.
+(
+12)
+220 Randomized,
+double-blind,
+multi-center
+30 d Early
+Pharmacologic
+Cardioversion
+Vern 3 mg/kg iv
+and/or repeated
+48 (64.0) 60.4 34 (23.4) 14 (10.0) 57 (39.0) 10 (
+7) NA NA 28.2 + + + + – + –
+Non-Early
+Cardioversion
+Plac 102 (70.3) 59.9 17 (22.7) 5 (7.0) 32 (43.0) 4 (
+5) NA NA 28.4
+Bellandi et
+al. (
+14)
+182 Randomized,
+single-blind,
+single center
+24 h Early
+Pharmacologic
+Cardioversion
+Prop 2 mg/kg
+iv+ Continuous
+24 h
+NA 65.2 50 (51.0) NA 19 (19.3) NA 20 (20.4) 24 (24.4) 57.0
++ + + – – ? +
+Non-Early
+Cardioversion
+Plac NA 66.1 44 (52.4) NA 19 (22.6) NA 17 (20.2) 19 (22.6) 49.8
+Boriani et
+al. (
+15)
+240 Randomized,
+single-blind,
+multi-center
+8 h Early
+Pharmacologic
+Cardioversion
+Prop 600 mg/d,
+po
+70 (58.8) 59 32 (26.9) 27 (22.7) 37 (31.1) NA 8 (6.7) 11 (9.2) 31
++ + + – + + +
+Non-Early
+Cardioversion
+Plac 67 (55.4) 58 30 (24.8) 26 (21.5) 37 (30.6) NA 9 (7.4) 9 (7.4 ) 30
+Balla et al.
+(
+13)
+160 Randomized,
+single-blind,
+single center
+24 h Early
+Pharmacologic
+Cardioversion
+Flec 3 mg/kg, po 28 (70.0) 57.9 NA NA 18 (45.0) 10 (25.0) NA NA 16 .2
++ + + – + + +
+Early
+Pharmacologic
+Cardioversion
+Amio 30 mg/kg,
+po
+29 (72.5) 58.9 NA NA 12 (30.0) 16 (40.0) NA NA 19.1
+Early
+Pharmacologic
+Cardioversion
+Prop 8.5 mg/kg,
+po
+20 (50.0) 57.4 NA NA 20 (50.0) 12 (30.0) NA NA 18.6
+Non-Early
+Cardioversion
+Plac 24 (60.0) 58.6 NA NA 9 (22.5) 8 (20.0) NA NA 17.8
+Piccini et
+al. (
+19)
+41 Randomized,
+double-blind,
+multi-center
+30 d Early
+Pharmacologic
+Cardioversion
+Vano 400 mg/d,
+po
+21 (79.2) 68.1 18 (69.2) 5 (10.8) 16 (66.7) 4 (16.7) 10 (41.7) N A NA
++ + + + + + –
+Non-Early
+Cardioversion
+Plac 8 (53.3) 66.9 8 (53.3) 2 (14.3) 11 (78.6) 0 (0.0) 4 (28.6) N A NA
+Joseph et
+al. (
+18)
+115 Randomized,
+double-blind,
+multi-center
+48 h Early
+Pharmacologic
+Cardioversion
+Amio 5 mg/kg
+iv+ 400 mg, 48 h,
+po
+QT?GUSMPH?UPMR?QP?GTRMWH?W?GQOMTH?T?G
+8, 12) NA 3 (7.7) 8 (20.5) NA + + + + + + +
+Early
+Pharmacologic
+Cardioversion
+Sota 1.5 mg/kg
+iv+ 80 mg, 48 h,
+po
+19 (47.5) 62.8 14 (35.0) 6 (15.0) 6 (15.0) NA 1 (2.50) 7 (17.5) N A
+(Continued)
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 6 April 2022 | Volume 9 | Article 843939
+[[p7]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+TABLE 1 | Continued
+Trail No. of
+patients
+Study design Length of
+follow-up
+Groups Cardioversion
+Regimen
+Male (%) Mean
+age,
+years
+Structural
+Heart
+Disease
+(%)
+Heart
+Failure
+(%)
+Hyper
+tension
+(%)
+Diabetes
+(%)
+Valvular
+Heart
+Diseases
+(%)
+Vascular
+Diseases
+(%)
+Mean
+duration
+of
+Current
+atrial
+ﬁbrillation
+episode,
+h
+Random
+sequence
+genera
+tion
+Alloca
+tion
+conceal
+ment
+Blinding of
+partici
+pants and
+personnel
+Blinding
+of out
+come
+assess
+ment
+Incomp
+lete out
+come
+data
+Selec
+tive
+repor
+ting
+Other
+bias
+Non-Early
+Cardioversion
+Plac 20 (55.6) 64.9 18 (50.0) 6 (16.7) 10 (27.8) NA 4 (11.1) 3 (8 .3) NA
+Pluymaekers
+et al. (
+22)
+437 Randomized,
+open-label,
+multi-center
+28 d Early
+Pharmacologic
+Cardioversion
+Flec 2 mg/kg, iv 130 (59.0) 65 13 (5.94) NA 133 (61.0) 25 (11.0) NA 13 (6.0) NA
++ – ? ? + + +
+Non-Early
+Cardioversion
+Plac 131 (60.0) 65 24 (11.0) NA 118 (54.0) 21 (10.0) NA 24 (11.0 ) NA
+Beatch et
+al. (
+31)
+111 Randomized,
+double-blind,
+multi-center
+30 d Early
+Pharmacologic
+Cardioversion
+Vern 3 mg/kg iv
+and/or repeated
+24 h
+37 (67.0) 60.7 11 (20.0) 5 (9.0) NA NA 12 (20.0) NA 48
++ + + + – + +
+Non-Early
+Cardioversion
+Plac 30 (54.0) 59.2 13 (23.0) 3 (5.0) NA NA 13 (23.0) NA 48
+iv, intravenous; po, oral; TIA, Transient Ischemic Attack; Amio, Amiodarone; Sota, Sotalol; Vern, Vernakalant; Vano, Vanoxerine; Prop, Pr opafenone; Flec, Flecainide; Tedi, Tedisamil; Plac, Placebo; NA, not available.
+ Low Risk;
+Unclear Risk;
+ High Risk.
+(8/16, 50%), allocation concealment (14/16, 87.5%) and other
+bias (9/16, 56.25%). Few studies had the highest in the highes t
+categories for blinding of outcome assessment (5/16, 31.25 %)
+and other bias (4/16, 25%). Few studies were judged to be
+the highest risks of bias for unclear risk for selective repor ting
+(3/16, 18.75%), blinding of participants and personnel (3/16,
+18.75%), incomplete outcome data (4/16, 25%), other bias (3/16 ,
+18.75%) and blinding of outcome assessment (3/16, 18.75%). Any
+disagreements were resolved by consensus.
+Outcomes of the Network Meta-Analysis
+and Quality Assessments of Endpoints
+Efﬁcacy Results
+Fifteen studies with 1,958 participants reported the rate of
+cardioversion to sinus rhythm within 24 h, 4 studies contain ing
+501 participants reported the rate of maintaining sinus rhythm
+within 1-week and 3 studies with 644 participants reported the
+rate of maintaining sinus rhythm between 1- and 4-weeks, as
+shown in Figure 2.
+The early pharmacologic cardioversion was more eﬀective in
+cardioversion to sinus rhythm within 24 h (OR 2.50, 95% CrI
+1.76 to 3.54, I2 = 0.82, p < 0.0001) and maintaining sinus
+rhythm within 1-week than non-early cardioversion (2.50, 1 .76
+to 3.54, I2 = 0.79, p = 0.01) under the Bayesian framework, as
+presented in Figure 3. These results indicated that the eﬃcacy of
+cardioversion to sinus rhythm within 24 h and maintaining si nus
+rhythm within 1-week might be signiﬁcantly increased when t he
+initiation of cardioversion earlier. However, maintainin g sinus
+rhythm between 1 and 4-weeks showed no signiﬁcant diﬀerences
+(1.37, 0.90 to 2.09, I2 = 0.00, p = 0.95). According to CINeMA,
+the quality of the eﬃcacy outcomes of maintaining sinus rhyth m
+within 4-week was determined to be low and moderate mainly
+due to imprecision and heterogeneity, as shown in Table S2.
+Safety Results
+There were 11 studies with 1,579 participants reported the
+rate of bradycardia, 10 studies with 1,481 participants report ed
+the rate of tachyarrhythmia, 8 studies with 903 participants
+reported the rate of hypotension, 8 studies with 850 participants
+reported the rate of gastrointestinal disorders, and 5 studie s
+with 592 participants reported the rate of nervous system
+disorders ( Figure 2). Compared with non-early cardioversion,
+early pharmacologic cardioversion signiﬁcantly increased t he
+side eﬀects of bradyarrhythmia (OR 2.23, 95%CrI 1.27 to 3.92, I2
+= 0.00, p = 0.30), gastrointestinal disorders (5.27, 1.80 to 15.48,
+I2 = 0.14, p = 0.07) and nervous system disorders (6.67,1.96 to
+22.67, I2 = 0.29, p = 0.12), but not tachycardia (1.65, 1.00 to 2.72,
+I2 = 0.36 p = 0.47) and hypotension (1.88, 0.97 to 3.65, I2 = 0.10,
+p = 0.19) under the Bayesian framework ( Figure 3). The quality
+of these safety outcomes was rated to be low due to imprecision,
+incoherence, and heterogeneity through the CINeMA approach,
+as presented in Table S2.
+Prognostic Results
+There were 3 studies with 419 participants reported the rate of all-
+cause mortality, 5 studies with 841 participants reported the r ate
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 7 April 2022 | Volume 9 | Article 843939
+[[p8]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+FIGURE 2 | Network meta-analysis of available comparisons. Circular nodes show different antiarrhythmic drugs as early pharmac ologic cardioversion and non-early
+cardioversion.The antiarrhythmic drugs in the study inclu ded amiodarone, propafenone, ﬂecainide, tedisamil, vernak alant, vanoxerine, and sotalol. Line width is
+proportional to the number of trials including each pair of t reatments (direct comparisons). TIA, Transient Ischemic Att ack.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 8 April 2022 | Volume 9 | Article 843939
+[[p9]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+FIGURE 3 | Network meta-analysis results for all endpoints between ea rly pharmacologic cardioversion and non-early cardiovers ion. The forest plot was based on the
+Bayesian framework. The antiarrhythmic drugs as early phar macologic cardioversion in the study included amiodarone, propafenone, ﬂecainide, tedisamil,
+vernakalant, vanoxerine, and sotalol. All endpoints are ef ﬁcacy endpoints including cardioversion to sinus rhythm wit hin 24 h, maintenance in sinus rhythm within
+1-week and maintenance in sinus rhythm within 1–4-weeks, sa fety endpoints including bradycardia, tachyarrhythmia, h ypotension, gastrointestinal disorders, and
+nervous system disorders, and prognostic endpoints includ ing all-cause mortality, stroke or TIA and heart failure. CrI, Credible Interval; TIA, Transient Ischemic Attack.
+of stroke or TIA, and 3 studies with 366 participants reported th e
+rate of heart failure ( Figure 2).
+The early pharmacologic cardioversion in comparison with
+non-early cardioversion decreased the risk of stroke or TIA (0.29,
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 9 April 2022 | Volume 9 | Article 843939
+[[p10]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+0.09 to 0.89, I2 = 0.00, p = 0.08) and heart failure (0.27, 0.09
+to 0.85, I2 = 0.27, p = 0.17), however, early pharmacologic
+cardioversion did not signiﬁcantly decrease the risk of all -cause
+mortality (1.47, 0.27 to 8.12, I2 = 0.06, p = 0.76) under the
+Bayesian framework ( Figure 3). Using CINeMA, the serious
+across-study bias, imprecision, incoherence, and heteroge neity
+were resulted in the low quality of these prognostic outcomes , as
+shown in Table S2.
+Subgroup Analyses Based on Different
+Antiarrhythmic Drugs for the Early
+Pharmacologic Cardioversion
+The subgroup analyses on diﬀerent antiarrhythmic drugs showed
+early pharmacologic cardioversion yielded consistent resu lts
+with the primary analysis, as exhibited in Figure 3. Early
+pharmacologic cardioversion, exception of sotalol (1.62, 0. 87 to
+3.01), may lead to a higher probability of a return to sinus
+rhythm within 24 h than non-early cardioversion. However,
+sotalol (5.00, 1.59 to 15.75) may achieve a greater chance
+of maintaining sinus rhythm at 1-week. Vernakalant may be
+successful in sinus rhythm maintenance not only within 24 h
+(3.55, 2.28 to 5.55) but also in the 1-week follow-up (2.72,
+1.72 to 4.31). The probabilistic analysis ranked propafenone
+high and sotalol low for cardioversion to sinus rhythm
+within 24 h, vernakalant high for sinus rhythm maintenance a t
+24 h and within 1-week, as shown in Figure 4. Nevertheless,
+we also found that included antiarrhythmic drugs as early
+pharmacologic cardioversion might be non-superior to non-
+early cardioversion in the eﬃcacy of maintaining sinus rhyt hm
+within 1–4-weeks.
+For the safety outcomes, propafenone had a higher
+incidence of side-eﬀects including bradycardia (4.96, 1.42
+to 17.34), tachyarrhythmia (3.43, 1.59 to 7.36), gastroint estinal
+disorders (22.21, 1.29 to 382.90), nervous system disorder s
+(26.68, 1.56 to 456.10) compared to non-early cardioversion.
+However, there was no signiﬁcant risk obtained for all safet y
+endpoints in the other antiarrhythmic agents. Meanwhile,
+probabilistic analysis ranked propafenone high for the
+adverse eﬀects during 4-weeks follow-up, as presented
+in Figure 4.
+For the prognostic outcomes, non-early cardioversion might
+be non-inferior to these mentioned-above antiarrhythmic d rugs
+as early pharmacologic cardioversion. However, serious acr oss-
+study bias, imprecision, and heterogeneity existed in these
+endpoints estimates of subgroup analyses. Consequently, th ere
+is insuﬃcient evidence to determine which antiarrhythmic d rug
+is superior, only providing a degree of conﬁdence in the
+interpretation of results.
+Sensitivity Analyses
+The eﬃcacy, safety, and prognostic results of the
+prespeciﬁed sensitivity analyses from NMA under the
+frequentist framework and standard pairwise direct
+meta-analyses, as shown in Figures S1, S2 were not
+signiﬁcantly diﬀerent from those from NMA under the
+Bayesian framework.
+Network Coherence and Quality of
+Evidence
+There were no obvious discrepancies between direct and indir ect
+estimates in closed loops that allowed the evaluation of netw ork
+coherence for all the outcomes other than stroke or TIA, as
+presented in Table S3. The total residual deviance for all the
+endpoints, except for gastrointestinal disorders and stroke o r
+TIA, as revealed in Table S4, suggested a good consistent model
+ﬁt under the Bayesian framework.
+Publication Bias and Small-Study Effects
+Funnel plots for endpoints with more than 10 studies including
+cardioversion to sinus rhythm within 24 h, bradycardia;
+gastrointestinal disorders, and hypotension showed that the re
+was no signiﬁcant evidence for publication bias, as suggeste d
+in Figure S3. However, the other endpoints with <10 studies
+(i.e., maintaining in sinus rhythm within 1-week; maintain ing in
+sinus rhythm within 1–4-weeks; tachyarrhythmia; hypotensio n;
+nervous system disorders; all-cause mortality; stroke or T IA;
+heart failure) were needed to downgrade one level for risk of bias.
+Additional Subgroup Analyses
+Propafenone might be more eﬀective in restoring sinus rhythm
+within 24 h in the subgroup with mild/moderate structural he art
+disease (25.00, 10.74 to 58.18, P for interaction <0.0001) than in
+patients without structural heart disease (5.75, 2.87 to 11.5 3, P
+for interaction <0.0001). Similarly, propafenone showed better
+performance in the patients with hypertension (10.02, 4.20 to
+23.93, P for interaction <0.0001) than those without (8.38, 4.91
+to 14.30, P for interaction <0.0001) ( Figure 5). Considering
+the impact of the exposure time and route of all included
+antiarrhythmic drugs, the additional subgroup analyses indicated
+that there was no signiﬁcant diﬀerence in cardioversion to si nus
+rhythm within 24 h whether continuing (2.63, 1.76 to 3.93, P
+for interaction <0.0001) or non-continuing cardioversion (4.61,
+3.68 to 5.79, P for interaction <0.0001). Besides, no substantial
+diﬀerence was observed in the restoration of sinus rhythm wit hin
+1-week. Also, in subgroups of patients with oral (7.16, 5.07 to
+10.11, P for interaction <0.0001) or intravenous (2.99, 2.35 to
+3.81, P for interaction <0.0001) treatment, we did not observe a
+noticeable diﬀerence between early pharmacologic cardiover sion
+and non-early pharmacologic cardioversion for sinus rhythm
+maintenance within 24 h ( Figure S4). However, due to the lack
+of this study-level subgroup data on long-term eﬃcacy and
+safety endpoints, we were unable to comprehensively assess the
+superiority of early pharmacologic cardioversion. The head-t o-
+head trial comparing in this large patient population is warranted
+in the future.
+DISCUSSION
+There are six novel discoveries from our study. First, the
+analysis showed that early pharmacologic cardioversion resul ted
+in a higher rate of cardioversion to sinus rhythm within 24 h
+and sinus rhythm maintenance within 1-week than the non-
+cardioversion. However, early cardioversion might not ben eﬁt
+from maintaining sinus rhythm in 1 to 4-weeks. Second, early
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 10 April 2022 | Volume 9 | Article 843939
+[[p11]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+FIGURE 4 | Rankograms demonstrate the probability of each therapy ran ked across all endpoints. *The antiarrhythmic drugs as early pharmacologic cardiover sion in
+the study included amiodarone, propafenone, ﬂecainide, ver nakalant, vanoxerine, and sotalol. † All endpoints are efﬁcacy endpoints including cardioversio n to sinus
+rhythm within 24 h, maintenance in sinus rhythm within 1-wee k and maintenance in sinus rhythm within 1–4-weeks, safety e ndpoints including bradycardia,
+tachyarrhythmia, hypotension, gastrointestinal disorde rs, and nervous system disorders, and prognostic endpoints including stroke or TIA and heart failure. TIA,
+Transient Ischemic Attack.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 11 April 2022 | Volume 9 | Article 843939
+[[p12]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+FIGURE 5 | Subgroup analyses in recent-onset atrial ﬁbrillation patie nts with or without mild/moderate structural heart disease o r hypertension. CrI, Credible Interval.
+pharmacologic cardioversion in the 4-week follow-up may not
+reduce the risk of all-cause mortality. Third, compared to
+non-early cardioversion groups, seven common anti-arrhyth mic
+agents are beneﬁcial for maintaining sinus rhythm within 1-week,
+while failing to demonstrate an eﬀect between 1- to 4- weeks.
+Fourth, anti-arrhythmic medication led to higher risks of drug-
+associated side eﬀects in the 4-week observational time wind ow.
+Fifth, early pharmacologic cardioversion with vernakalant might
+be superior to other drug regimes in maintaining sinus rhythm
+within 1-week. In contrast, propafenone treatment showed the
+highest adverse eﬀects, including bradycardia, tachyarrhy thmia,
+gastrointestinal disorders, and nervous system disorders . Sixth,
+we found patients with mild/moderate structural heart disea se
+or hypertension may beneﬁt more from early pharmacologic
+cardioversion than those without structural heart disease or
+hypertension in terms of sinus rhythm maintenance within
+24 h. The eﬀect of maintaining sinus rhythm within 24 h
+among patients with mild/moderate structural heart disease or
+hypertension was only evaluated in patients with propafenone
+treatment. Whether other antiarrhythmic agents would be
+superior to propafenone remains assessed.
+Current AHA/ACC/HRS, ESC, and Canadian Cardiovascular
+Society Guidelines recommend early pharmacologic
+cardioversion for recent-onset atrial ﬁbrillation. Early
+pharmacologic cardioversion has been proved superior
+with a higher probability of cardioversion to sinus rhythm
+and earlier elimination of symptoms than the non-early
+cardioversion in 24 h’ time frame in our study (
+29, 30, 44).
+Moreover, our evidence also demonstrated that patients might
+beneﬁt from early pharmacologic cardioversion for a 1-week
+follow-up. However, the results from four RCTs and our
+study demonstrated that eﬃcacy from early pharmacologic
+cardioversion might not prolong to 4-weeks (
+22, 31, 41, 42). Own
+to the limited number of studies beyond 24 h, the eﬃcacy of ear ly
+pharmacologic cardioversion warrants further conﬁrmation by
+high-quality studies.
+Previous studies considered that early cardioversion may
+prevent persistent atrial ﬁbrillation and reduce the risk of h eart
+failure and cerebral ischemic events ( 10, 21). However, current
+RCTs found that reduction of the risk of stroke is primarily
+counted on the timely initiation of anticoagulation in rece nt-
+onset atrial ﬁbrillation, regardless of the early pharmacolo gic
+cardioversion (
+22, 29, 30, 45, 46). In our study, we found that
+the early pharmacologic cardioversion might not signiﬁcantl y
+decrease the risk of all-cause mortality, but may reduce the
+risk of stroke and heart failure, compared to the non-early
+cardioversion within a 4-week follow-up. However, due to the
+high heterogeneity of the included studies, this conclusio n needs
+to be conﬁrmed in a study with a rigorous design.
+2020 Canadian Cardiovascular Society/Canadian Heart
+Rhythm Society Comprehensive Guidelines referred to the risk
+of progression and recurrence of atrial ﬁbrillation increas es with
+the severity of cardiovascular risk factors such as hyperten sion,
+diabetes mellitus, obesity, and structural heart disease. 20 18
+ESC/ESH, 2020 ESC guideline also raised the importance of
+hypertension and structural heart disease as contributors to
+atrial ﬁbrillation development (
+28–30). Therefore, the selection
+of anti-arrhythmic drugs should be based on concomitant
+structural or functional heart disease (
+11, 47–50). However,
+there was scarce evidence of comparing eﬃcacy and safety for
+early cardioversion across the concomitant structural disea se in
+patients with recent-onset atrial ﬁbrillation (
+47). In our current
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 12 April 2022 | Volume 9 | Article 843939
+[[p13]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+study, we explored the eﬃcacy and safety of comparing early
+pharmacologic cardioversion with non-early cardioversion
+in the subgroups of patients with mild/moderate structural
+heart disease or hypertension to comprehensively evaluate th e
+superiority of early pharmacologic cardioversion in the short and
+long duration. We observed a noticeable diﬀerence between ea rly
+pharmacologic cardioversion with non-early cardioversion f or
+eﬃcacy at 24 h in patients with hypertension and mild/moderate
+structural heart disease. Spontaneous cardioversion rarely occurs
+in atrial ﬁbrillation patients with structural heart diseas e (
+10).
+Thus, early pharmacologic cardioversion might be recommended
+in patients with existing cardiovascular disease.
+The optimal drug for early pharmacologic cardioversion in
+patients with atrial ﬁbrillation does not consistently recom mend
+in expert consensus and guidelines ( 43). For example, UK
+guidelines recommend ﬂecainide ( 43), European guidelines
+recommend vernakalant ( 9), and U.S. guidelines recommend
+ﬂecainide ( 51). In addition to guidelines, two meta-analyses
+suggested that vernakalant may be an optimal option for recent -
+onset atrial ﬁbrillation ( 52, 53). Recent network meta-analyses
+found that vernakalant and ﬂecainide may be relatively more
+eﬃcacious agents than other anti-arrhythmic drugs for rece nt-
+onset atrial ﬁbrillation, albeit at diﬀerent observational time
+windows (
+23, 24, 47). Our results indicated that vernakalant
+might have better performance for recent-onset atrial ﬁbril lation
+than other included antiarrhythmic agents due to its eﬀectiveness
+both in immediate cardioversion and sinus rhythm maintenan ce
+within 1-week, despite vernakalant is initially found to be t he
+most rapidly cardioverting drug ( 29) due to 3–8.5 h half-life
+span. Our results about vernakalant are consistent with rece nt
+RCTs and meta-analysis within more than 24 h observational
+time window (
+31, 52), which might be explained by its CYP2D6
+genotype. Meanwhile, we also found that the use of propafenone
+may be associated with signiﬁcant side eﬀects. The adverse
+eﬀects are largely dose-related and are very uncommon at
+the doses used for atrial ﬁbrillation (
+54). However, all the
+selected antiarrhythmic agents, including propafenone, wer e
+at the recommended and well-tolerated dose. In our meta-
+analysis, we are the ﬁrst to extend the observational time to
+a 4-week follow-up to show comprehensive safety proﬁles for
+early pharmacologic cardioversion, which might help physici ans
+determine which treatment is superior. Therefore, the adver se
+events summarized in our study might be partly explained
+by the longer observational time. Additionally, the condit ions
+of patients who had recurrent atrial ﬁbrillation with poor
+rate control or left ventricular failure (
+18) and its CYP2D6
+genotype ( 25, 31, 55), might also contribute to the drug-
+related adverse eﬀects based on the safe dose. Due to the
+lack of suﬃcient direct and indirect evidence among the
+antiarrhythmic drugs, more high-quality relevant RCTs wit h
+longer-term follow-up are essential to determine the eﬃcac y,
+side-eﬀect, and thrombotic risk of the antiarrhythmic drugs as
+early pharmacologic cardioversion.
+The diﬀerent exposure times, properties, serum-concentration
+time, and route of administration in antiarrhythmic agents may
+bring signiﬁcant heterogeneity to the therapeutic eﬀects (
+23, 24).
+Therefore, we conducted the additional sensitivity analyses under
+the frequentist framework and pairwise meta-analysis with the
+random-eﬀects model to further provide direct comparisons
+(
+56). Compared with indirect comparisons, we found the result
+was not changed. Furthermore, we performed the additional
+subgroup analyses according to continuing cardioversion fo r
+more than 24 h after immediate cardioversion and cardiovers ion
+deliveries in patients with recent-onset atrial ﬁbrillation , the
+result showed that there was no signiﬁcant diﬀerence in
+both subgroups. Therefore, we considered the heterogeneity
+might not signiﬁcantly aﬀect the results. Future prospective
+studies with a larger population are needed to conﬁrm
+this conclusion.
+Our systematic review and network meta-analysis have
+several limitations. First, only three studies were comparing
+the eﬃcacy of maintaining sinus rhythm in 1–4-weeks between
+the early pharmacologic cardioversion arm and the non-early
+cardioversion arm. Besides, we only obtained the eﬃcacy,
+safety, and prognostic endpoints within 4-weeks due to the
+limited follow-up period (range: 6 h − 30 days) in the included
+studies. Prospective studies with a larger population and
+extended follow-up time are warranted. Second, the numbers
+of studies comparing the eﬃcacy of maintaining sinus rhythm
+between anti-arrhythmic medication are limited. High-qua lity
+randomized trials may be required to further verify the
+observations from our study. Third, there are unadjusted
+confounders, i.e., left atrial size and dose of anti-arrhyt hmic
+drugs, in studies potentially impact network stability and
+generalizability of our study. Own to the too small sample sizes in
+our meta-analysis, we could not adjust for potential confounders.
+Additional evidence warrants to conduct covariate-adjuste d
+analysis in the future. Fourth, the details of the medication
+of anticoagulation were unclear in the present studies, led
+to signiﬁcant heterogeneity. Fifth, whether the other rhythm
+control attempts in the non-early cardioversion group was ma de
+within 4-week follow-up period was unknown, may aﬀect the
+reliability of the conclusions in our study. Sixth, the cost-
+eﬀectiveness assessment of emergency room admission should
+be also considered in this context, while we did not analyze
+this aspect due to the data unavailability from the clinical tr ials.
+Seventh, this study was focused on outcomes within 4-week
+of follow-up due to limited follow-up duration in the include d
+studies. Eighth, despite the patients with structural heart disease,
+hypertension, and other cardiovascular diseases enrolled in
+most included studies, the number of patients is not adequate
+to make a solid conclusion on whether early pharmacologic
+cardioversion would beneﬁt these patients ’ subpopulations.
+Ninth, although we applied random-eﬀects Bayesian network
+meta-analysis and the Cochrane Risk of Bias (RoB) Assessment
+Tool with the CINeMA framework, the undocumented clinical
+characteristics of included patients (e.g., type of structur al heart
+disease, degree of atrial heart disease, older age, valve dise ase,
+previous ECG in sinus rhythm) may bring large heterogeneity
+to each study (
+40, 57). Further study should include more
+detailed clinical information to reduce potential bias. Des pite
+these limitations, our results somewhat indicated that ear ly
+pharmacologic cardioversion may not be beneﬁcial in the
+long run.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 13 April 2022 | Volume 9 | Article 843939
+[[p14]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+CONCLUSIONS
+In patients with recent-onset atrial ﬁbrillation, the indiv iduals
+with early pharmacologic cardioversion might not be superior
+to those with non-early cardioversion regarding the eﬀect of
+maintaining sinus rhythm within 4-weeks follow-up. While
+vernakalant may be the viable option, considering the eﬃcacy
+of maintaining sinus rhythm in 1-week. Although we cannot
+draw a deﬁnite conclusion on which approach or agent is
+optimal, our analysis provides an intriguing hypothesis for th e
+prospective studies. Further high-quality RCTs and head-to-head
+trials between antiarrhythmic drugs for a longer observati onal
+period are needed.
+DATA AVAILABILITY STATEMENT
+The datasets presented in this study can be found in online
+repositories. The names of the repository/repositories
+and accession number(s) can be found in the
+article/Supplementary Material.
+AUTHOR CONTRIBUTIONS
+xs??xv?????M?iv?
+ib???M?iv????
+approval of the manuscript. YT , YW, XS, YS, and SL
+contributed to the design of the study, writing the protocol,
+screening trials, data extraction, and analysis. YL, HY , and
+iv???????M?xs
+and YW generated the tables and ﬁgures and drafted the
+M?xs?K?xvK?ibK??iv????
+revision, including data processing, statistical analysis,generating
+ﬁgures and tables, and text modiﬁcation. All authors had ful l
+access to the data in the study and can take responsibility
+for the integrity of the data and the accuracy of the
+data analysis.
+FUNDING
+This work was supported by the National Natural Science
+Foundation of China [grant numbers 81870171, JC; grant
+numbers 81800393, YL; grant numbers 81770403, HY; grant
+numbers 81974054, HY]; the National Key Research and
+Development Projects [grant numbers 2019YFF0216300,
+JC; grant numbers 2018YFC1311300, WJ]; the Independent
+Exploration and Innovation Project for Graduate Students of
+Central South University [grant numbers 2020zzts297, to YT];
+and the Hunan Distinguished Young Scholars [grant number
+2017RS3015, JC].
+ACKNOWLEDGMENTS
+We acknowledged the contribution of Mengqing Jiang and
+Yuanyuan Bai for their help of data extraction.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.338 9/fcvm.
+2022.843939/full#supplementary-material
+REFERENCES
+1. Lévy S, Santini L, Cappato R, Steinbeck G, Capucci A, Saksena S .
+Characterization of diﬀerent subsets of atrial ﬁbrillation in gene ral practice
+in France: the ALFA study. The College of French Cardiologists. Circulation.
+(1999) 9:3028–35. doi: 10.1161/01.CIR.99.23.3028
+2. Lévy S, Maarek M, Coumel P , Guize L, Lekieﬀre J, Medvedowsky JL , et
+al. Clinical classiﬁcation and the subclinical atrial ﬁbrillation c hallenge: a
+position paper of the European Cardiac Arrhythmia Society. J Interv Card
+Electrophysiol. (2020) 59:495–507. doi: 10.1007/s10840-020-00859-y
+3. Danias PG, Caulﬁeld TA, Weigner MJ, Silverman DI, Manning WJ. Li kelihood
+of spontaneous conversion of atrial ﬁbrillation to sinus rhythm. J Am Coll
+Cardiol. (1998) 31:588–92. doi: 10.1016/S0735-1097(97)00534-2
+4. Geleris P , Stavrati A, Afthonidis D, Kirpizidis H, Boudoulas H. Spon taneous
+conversion to sinus rhythm of recent (within 24 hours) atrial ﬁ brillation. J
+Cardiol. (2001) 37:103–7.
+5. Cotter G, Blatt A, Kaluski E, Metzkor-Cotter E, Koren M, Litin ski I, et al.
+Conversion of recent onset paroxysmal atrial ﬁbrillation to NSR: the eﬀect of
+no treatment and high-dose amiodarone. A randomized, placebo-contro lled
+study. Eur Heart J. (1999) 20:1833–42. doi: 10.1053/euhj.1999.1747
+6. Hamilton A, Clark D, Gray A, Cragg A, Grubb N. Emergency
+Medicine Research Group, Edinburgh (EMERGE). The epidemiology
+and management of recent-onset atrial ﬁbrillation and ﬂutter
+presenting to the Emergency Department. Eur J Emerg Med. (2015)
+22:155–61. doi: 10.1097/MEJ.0000000000000198
+7. Stiell IG, Clement CM, Brison RJ, Rowe BH, Borgundvaag B, Langha n T ,
+et al. V ariation in management of recent-onset atrial ﬁbrillation and ﬂutter
+among academic hospital emergency departments. Ann Emerg Med. (2011)
+57:13–21. doi: 10.1016/j.annemergmed.2010.07.005
+8. January CT , Wann LS, Alpert JS, Calkins H, Cigarroa JE, Cleveland JC, e t al.
+2014 AHA/ACC/HRS guideline for the management of patients with at rial
+ﬁbrillation: a report of the American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines and the Heart Rhythm Society.
+Circulation. (2014) 64:e1–76. doi: 10.1161/CIR.0000000000000041
+9. Townsend N, Wilson L, Bhatnagar P , Wickramasinghe K, Rayner M , Nichols
+M. Cardiovascular disease in Europe: epidemiological update 2016. Eur Heart
+J. (2016) 37:3232–45. doi: 10.1093/eurheartj/ehw334
+10. Boriani G, Biﬃ M, Capucci A, Botto GL, Broﬀoni T , Rubino I, et
+al. Oral loading with propafenone: a placebo-controlled study in elderly
+and nonelderly patients with recent onset atrial ﬁbrillation. Pacing Clin
+Electrophysiol. (1998) 21:2465–9. doi: 10.1111/j.1540-8159.1998.tb0120 2.x
+11. Roy D, Rowe BH, Stiell IG, Coutu B, Ip JH, Phaneuf D, et al. A rando mized,
+controlled trial of RSD1235, a novel anti-arrhythmic agent, in the treatment
+of recent onset atrial ﬁbrillation. J Am Coll Cardiol. (2004) 44:2355–
+61. doi: 10.1016/j.jacc.2004.09.021
+12. Roy D, Pratt CM, Torp-Pedersen C, Wyse DG, Toft E, Juul-Moller S, et
+al. Vernakalant hydrochloride for rapid conversion of atrial ﬁbrillatio n: a
+phase 3, randomized, placebo-controlled trial. Circulation. (2008) 117:1518–
+25. doi: 10.1161/CIRCULATIONAHA.107.723866
+13. Balla I, Petrela E, Kondili A. Pharmacological conversion of recen t atrial
+ﬁbrillation: a randomized, placebo-controlled study of three antiarrhy thmic
+drugs. Anadolu Kardiyol Derg. (2011) 11:600–6. doi: 10.5152/akd.2011.162
+14. Bellandi F , Dabizzi RP , Cantini F , Natale MD, Niccoli L. Intrav enous
+propafenone: eﬃcacy and safety in the conversion to sinus rhyth m of recent
+onset atrial ﬁbrillation—a single-blind placebo-controlled study. Cardiovasc
+Drugs Ther. (1996) 10:153–7. doi: 10.1007/BF00823593
+15. Boriani G, Biﬃ M, Capucci A, Botto GL, Broﬀoni T , Rubino I, et a l. Oral
+propafenone to convert recent-onset atrial ﬁbrillation in patients wi th and
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 14 April 2022 | Volume 9 | Article 843939
+[[p15]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+without underlying heart disease. A randomized, controlled trial. Ann Intern
+Med. (1997) 126:621–5. doi: 10.7326/0003-4819-126-8-1997041 50-00006
+16. Kanoupakis EM, Kochiadakis GE, Manios EG, Igoumenidis NE, Mavrakis
+HE, V ardas PE. Pharmacological cardioversion of recent onset atrial
+ﬁbrillation with intravenous amiodarone in patients receiving long- term
+amiodarone therapy: is it reasonable? J Interv Card Electrophysiol. (2003)
+8:19–26. doi: 10.1023/A:1022367311529
+17. Hohnloser SH, Dorian P , Straub M, Beckmann K, Kowey P. Safety and
+eﬃcacy of intravenously administered tedisamil for rapid conversi on of
+recent-onset atrial ﬁbrillation or atrial ﬂutter. J Am Coll Cardiol. (2004)
+44:99–104. doi: 10.1016/j.jacc.2004.03.047
+18. Joseph AP , Ward MR. A prospective, randomized controlled trial comparin g
+the eﬃcacy and safety of sotalol, amiodarone, and digoxin for the
+reversion of new-onset atrial ﬁbrillation. Ann Emerg Med. (2000) 36:1–
+9. doi: 10.1067/mem.2000.107655
+19. Piccini JP , Pritchett EL, Davison BA, Cotter G, Wiener LE, Koch G, et
+al. Randomized, double-blind, placebo-controlled study to evaluate t he
+safety and eﬃcacy of a single oral dose of vanoxerine for the conv ersion
+of subjects with recent onset atrial ﬁbrillation or ﬂutter to normal
+sinus rhythm: RESTORE sinus rhythm. Heart Rhythm. (2016) 13:1777–
+83. doi: 10.1016/j.hrthm.2016.04.012
+20. Thomas SP , Guy D, Wallace E, Crampton R, Kijvanit P , Eipper V , et al.
+Rapid loading of sotalol or amiodarone for management of recent onset
+symptomatic atrial ﬁbrillation: a randomized, digoxin-controlled trial. Am
+Heart J. (2004) 147:E3. doi: 10.1016/S0002-8703(03)00526-X
+21. Donovan KD, Dobb GJ., Coombs, LJ, Lee, KY , et al. Reversion o f recent-onset
+atrial ﬁbrillation to sinus rhythm by intravenous ﬂecainide. Am J Cardiol.
+(1991) 67:137–41. doi: 10.1016/0002-9149(91)90435-N
+22. Pluymaekers NAHA, Dudink EAMP , Luermans JGLM, Meeder JG, Len derink
+T , Widdershoven J, et al. Early or delayed cardioversion in recent- onset atrial
+ﬁbrillation. N Engl J Med. (2019) 380:1499–508. doi: 10.1056/NEJMoa1900353
+23. deSouza IS, Tadrous M, Sexton T , Benabbas R, Carmelli G, Sinert R .
+Pharmacologic cardioversion of recent-onset atrial ﬁbrillation and ﬂutter
+in the emergency department: a systematic review and network meta-
+analysis. Ann Emerg Med. (2020) 76:14–30. doi: 10.1016/j.annemergmed.2020.
+01.013
+24. deSouza IS, Tadrous M, Sexton T , Benabbas R, Carmelli G, Sinert
+R. Pharmacologic cardioversion of recent-onset atrial ﬁbrillation:
+a systematic review and network meta-analysis. Europace. (2020)
+22:854–69. doi: 10.1093/europace/euaa024
+25. Nuotio I, Hartikainen JE, Grönberg T , Biancari F , Airaksinen KE. Time to
+cardioversion for acute atrial ﬁbrillation and thromboembolic complica tions.
+JAMA. (2014) 312:647–9. doi: 10.1001/jama.2014.3824
+26. Stiell IG, de Wit K, Scheuermeyer FX, V adeboncoeur A, Angaran P , Eagles
+D, et al. 2021 CAEP Acute Atrial Fibrillation/Flutter Best Practice s Checklist.
+CJEM. (2021) 23:604–10. doi: 10.1007/s43678-021-00167-y
+27. Cheung CC, Nattel S, Macle L, Andrade JG. Management of atrial
+ﬁbrillation in 2021: an updated comparison of the current CCS/CHRS,
+ESC, and AHA/ACC/HRS guidelines. Can J Cardiol. (2021) 37:1607–
+18. doi: 10.1016/j.cjca.2021.06.011
+28. Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burni er M, et al.
+2018 ESC/ESH Guidelines for the management of arterial hypertensio n. Eur
+Heart J. (2018) 39:3021–104. doi: 10.1201/9780429199189-75
+29. Hindricks G, Potpara T , Dagres N, Arbelo E, Bax JJ, Blomström-Lundqv ist
+C, et al. 2020 ESC Guidelines for the diagnosis and management of
+atrial ﬁbrillation developed in collaboration with the European Associ ation
+of Cardio-Thoracic Surgery (EACTS). Eur Heart J. (2021) 42:373–
+498. doi: 10.1093/eurheartj/ehaa612
+30. Andrade JG, Aguilar M, Atzema C, Bell A, Cairns JA, Cheung CC,
+et al. The 2020 Canadian Cardiovascular Society/Canadian Heart
+Rhythm Society Comprehensive guidelines for the management of
+atrial ﬁbrillation. Can J Cardiol. (2020) 36:1847–948. doi: 10.1016/
+j.cjca.2020.09.001
+31. Beatch GN, Bhirangi K, Juul-Moller S, Rustige J. Eﬃcacy and sa fety of
+vernakalant for cardioversion of recent-onset atrial ﬁbrillation i n the Asia–
+Paciﬁc region: a phase 3 randomized controlled trial. J Cardiovasc Pharmacol.
+(2017) 69:86–92. doi: 10.1097/FJC.0000000000000445
+32. Sterne JAC, Savovi ´c J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB
+2: a revised tool for assessing risk of bias in randomised trials. BMJ. (2019)
+366:l4898. doi: 10.1136/bmj.l4898
+33. Chaimani A, Salanti G. Using network meta-analysis to evaluate the existence
+of small-study eﬀects in a network of interventions. Res Synth Methods. (2012)
+3:161–76. doi: 10.1002/jrsm.57
+34. Mavridis D, Efthimiou O, Leucht S, Salanti G. Publication bia s and
+smallstudy eﬀects magniﬁed eﬀectiveness of antipsychotics but t heir
+relative ranking remained invariant. J Clin Epidemiol. (2016) 69:161–
+9. doi: 10.1016/j.jclinepi.2015.05.027
+35. Liu Y , Wang W, Zhang AB, Bai X, Zhang S. Epley and Semont maneuver s
+for posterior canal benign paroxysmal positional vertigo: a network meta-
+analysis. Laryngoscope. (2016) 126:951–5. doi: 10.1002/lary.25688
+36. da Costa BR, Juni P. Systematic reviews and meta-analyses of
+randomized trials: principles and pitfalls. Eur Heart J. (2014)
+35:3336–45. doi: 10.1093/eurheartj/ehu424
+37. Wagenmakers EJ, Love J, Marsman M, Jamil T , Ly A, Verhagen J, e t al.
+Bayesian inference for psychology. Part II: example applications with JASP.
+Psychon Bull Rev. (2018) 25:58–76. doi: 10.3758/s13423-017-1323-7
+38. van V alkenhoef G, Dias S, Ades AE, Welton NJ. Automated genera tion
+of node-splitting models for assessment of inconsistency in netw ork meta-
+analysis. Res Synth Methods. (2016) 7:80–93. doi: 10.1002/jrsm.1167
+39. Puhan MA, Schünemann HJ, Murad MH, Li T , Brignardello-Petersen R, Singh
+JA, et al. GRADE Working Group. A GRADE Working Group approach for
+rating the quality of treatment eﬀect estimates from network meta-an alysis.
+BMJ. (2014) 349:g5630. doi: 10.1136/bmj.g5630
+40. Salanti G, Del Giovane C, Chaimani A, Caldwell DM, Higgins JP. E valuating
+the quality of evidence from a network meta-analysis. PLoS ONE. (2014)
+9:e99682. doi: 10.1371/journal.pone.0099682
+41. Galve E, Rius T , Ballester R, Artaza MA, Arnau JM, García-Dorado D, et
+al. Intravenous amiodarone in treatment of recent-onset atrial ﬁbrilla tion:
+results of a randomized, controlled study. J Am Coil Cardiol. (1996) 27:1079–
+82. doi: 10.1016/0735-1097(95)00595-1
+42. Dittrich HC, Feld GK, Bahnson TD, Camm AJ, Golitsyn S, Katz A,
+et al. COR-ART: a multicenter, randomized, double-blind, placebo-
+controlled dose-ranging study to evaluate single oral doses of vano xerine
+for conversion of recent-onset atrial ﬁbrillation or ﬂutter to no rmal
+sinus rhythm. Heart Rhythm. (2015) 12:1105–12. doi: 10.1016/
+j.hrthm.2015.02.014
+43. European Heart Rhythm Association, European Association for C ardio-
+Thoracic Surgery, Camm AJ, Kirchhof P , Lip GY , Schotten U, et al. Guidelines
+for the management of atrial ﬁbrillation: the Task Force for the Man agement
+of Atrial Fibrillation of the European Society of Cardiology (ESC). Eur Heart
+J. (2010) 31:2369–429. doi: 10.1093/eurheartj/ehq278
+44. January CT , Wann LS, Calkins H, Chen LY , Cigarroa JE, Cleveland JC ,
+et al. 2019 AHA/ACC/HRS Focused Update of the 2014 AHA/ACC/HRS
+Guideline for the Management of Patients with Atrial Fibrillation : a Report
+of the American College of Cardiology/American Heart Association Task
+Force on Clinical Practice Guidelines and the Heart Rhythm Societ y in
+Collaboration with the Society of Thoracic Surgeons. Circulation. (2019) 140:
+e125–51. doi: 10.1161/CIR.0000000000000665
+45. Coll-Vinent B, Martín A, Sánchez J, Tamargo J, Suero C, Malagón
+F , et al. Beneﬁts of emergency departments’ contribution to
+stroke prophylaxis in atrial ﬁbrillation: the EMERG-ATRIAL
+FIBRILLATION Study (Emergency Department Stroke Prophylaxis
+and Guidelines Implementation in Atrial Fibrillation). Stroke. (2017)
+48:1344–52. doi: 10.1161/STROKEAHA.116.014855
+46. Shrikant Kulkarni N. Early cardioversion no better than delayed cardioversion
+for recent-onset symptomatic atrial ﬁbrillation. Am Fam Phys. (2019) 100:648.
+47. Tsiachris D, Doundoulakis I, Pagkalidou E, Kordalis A, Deftere os S, Gatzoulis
+KA, et al. Pharmacologic cardioversion in patients with paroxysmal at rial
+ﬁbrillation: a network meta-analysis. Cardiovasc Drugs Ther. (2021) 35:293–
+308. doi: 10.1007/s10557-020-07127-1
+48. Camm AJ, Capucci A, Hohnloser SH, Torp-Pedersen C, V an Gelder IC,
+Mangal B, et al. A randomized active-controlled study comparing the eﬃ cacy
+and safety of vernakalant to amiodarone in recent-onset atrial ﬁbri llation. J
+Am Coll Cardiol. (2011) 57:313–21. doi: 10.1016/j.jacc.2010.07.046
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 15 April 2022 | Volume 9 | Article 843939
+[[p16]]
+T ang et al. Cardioversion for Recent-Onset Atrial Fibrillation
+49. Pohjantähti-Maaroos H, Hyppölä H, Lekkala M, Sinisalo E, Heikkola A,
+Hartikainen J. Intravenous vernakalant in comparison with intraven ous
+ﬂecainide in the cardioversion of recent-onset atrial ﬁbrillatio n. Eur
+Heart J Acute Cardiovasc Care. (2019) 8:114–20. doi: 10.1177/20488726177
+28558
+50. Simon A, Niederdoeckl J, Skyllouriotis E, Schuetz N, Herkner H,
+Weiser C, et al. Vernakalant is superior to ibutilide for achieving sinus
+rhythm in patients with recent-onset atrial ﬁbrillation: a randomiz ed
+controlled trial at the emergency department. Europace. (2017) 19:233–
+40. doi: 10.1093/europace/euw052
+51. Kirchhof P , Benussi S, Kotecha D, Ahlsson A, Atar D, Casade i B,
+et al. 2016 ESC guidelines for the management of atrial ﬁbrillation
+developed in collaboration with EACTS. Rev Esp Cardiol. (2017)
+70:50. doi: 10.1016/j.rec.2016.11.033
+52. McIntyre WF , Healey JS, Bhatnagar AK, Wang P , Gordon JA,
+Baranchuk A, et al. Vernakalant for cardioversion of recent-onset atrial
+ﬁbrillation: a systematic review and meta-analysis. Europace. (2019)
+21:1159–66. doi: 10.1093/europace/euz175
+53. Akel T , Laﬀerty J. Eﬃcacy and safety of intravenous vernakala nt for the rapid
+conversion of recent-onset atrial ﬁbrillation: a meta-analysis.Ann Noninvasive
+Electrocardiol. (2018) 23:e12508. doi: 10.1111/anec.12508
+54. Kochiadakis GE, Igoumenidis NE, Solomou MC, Kaleboubas
+MD, Chlouverakis GI, V ardas PE. Eﬃcacy of amiodarone for the
+termination of persistent atrial ﬁbrillation. Am J Cardiol. (1999)
+83:58–61. doi: 10.1016/S0002-9149(98)00783-8
+55. Airaksinen KE, Grönberg T , Nuotio I, Nikkinen M, Ylitalo A, Bi ancari F , et al.
+Thromboembolic complications after cardioversion of acute atrial ﬁbrillation:
+the FinCV (Finnish CardioVersion) study. J Am Coll Cardiol. (2013) 62:1187–
+92. doi: 10.1016/j.jacc.2013.04.089
+56. Riley RD, Jackson D, Salanti G, Burke DL, Price M, Kirkham J, et
+al. Multivariate and network meta-analysis of multiple outcomes and
+multiple treatments: rationale, concepts, and examples. BMJ. (2017)
+358:j3932. doi: 10.1136/bmj.j3932
+57. Mills EJ, Thorlund K, Ioannidis JP. Demystifying trial networks and network
+meta-analysis. BMJ. (2013) 346:f2914. doi: 10.1136/bmj.f2914
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potential conﬂict of interest.
+Publisher’s Note:All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their aﬃliated organizat ions, or those of
+the publisher, the editors and the reviewers. Any product that may b e evaluated in
+this article, or claim that may be made by its manufacturer, is not gua ranteed or
+endorsed by the publisher.
+Copyright © 2022 T ang, Wang, Sun, Shi, Liu, Jiang, Yuan, Lu, Cai and Wu. This is an
+open-access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in ot her forums is permitted,
+provided the original author(s) and the copyright owner(s) a re credited and that the
+original publication in this journal is cited, in accordanc e with accepted academic
+practice. No use, distribution or reproduction is permitte d which does not comply
+with these terms.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 16 April 2022 | Volume 9 | Article 843939

@@ -1,0 +1,1513 @@
+
+[[p1]]
+EDITED BY
+Massimo Bonacchi,
+University of Florence, Italy
+REVIEWED BY
+Anitra Romfh,
+Stanford University, United States
+Domenico Galzerano,
+King Faisal Specialist Hospital and Research
+Centre, Saudi Arabia
+*
+CORRESPONDENCE
+Biagio Castaldi
+biagio.castaldi@unipd.it
+RECEIVED 02 October 2024
+ACCEPTED 19 March 2025
+PUBLISHED 07 April 2025
+CITATION
+Ye L, Castaldi B, Cattapan I, Pozza A,
+Fumanelli J and Di Salvo G (2025)
+Hypertension in aortic coarctation.
+Front. Cardiovasc. Med. 12:1505269.
+doi: 10.3389/fcvm.2025.1505269
+COPYRIGHT
+© 2025 Ye, Castaldi, Cattapan, Pozza,
+Fumanelli and Di Salvo. This is an open-access
+article distributed under the terms of the
+Creative Commons Attribution License (CC
+BY). The use, distribution or reproduction in
+other forums is permitted, provided the
+original author(s) and the copyright owner(s)
+are credited and that the original publication in
+this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+Hypertension in aortic
+coarctation
+Luisa Ye, Biagio Castaldi *, Irene Cattapan, Alice Pozza,
+Jennifer Fumanelli and Giovanni Di Salvo
+Pediatric Cardiology Unit, Department of Women ’s and Children ’s Health, University Hospital of Padua,
+Padua, Italy
+Aortic coarctation (AoC) is a common congenital heart defect, affecting
+5%– 8% of patients with structural congenital anomalies. Despite advances in
+surgical and percutaneous interventions, hypertension remains a signi ﬁcant
+complication in AoC patients, even after successful repair. Chronic
+hypertension develops in 20% – 70% of patients and is a leading cause of long-
+term cardiovascular morbidity. In these patients, hypertension is associated to
+renin-angiotensin system activation, residual aortic arch abnormalities, and
+impaired aortic elasticity. Additionally, exercise-induced hypertension and
+masked hypertension contribute to adverse outcomes. Management of
+hypertension in AoC patients requires both perioperative and long-term care.
+Early after correction, intravenous antihypertensive agents, such as sodium
+nitroprusside, esmolol, and labetalol, are commonly used to stabilize blood
+pressure and reduce the risk of complications like cerebral hemorrhage. Oral
+beta-blockers, ACE inhibitors (ACE-Is), angiotensin receptor blockers (ARBs)
+and calcium channel blockers (CCBs) are most commonly used for chronic
+hypertension. In this review, we discussed about diagnostic workup and
+therapeutical strategies for hypertension in AoC patients.
+KEYWORDS
+aortic coarctation, hypertension, hypertension in congenital heart diseases, congenital
+heart diseases, surgical repair, stent implantation
+Introduction
+Aortic Coarctation (AoC) is among the most prevalent congenital heart diseases
+GbgcHM?h????RU?G?QX?–SXH??POOKOOO???G?PH?
+constitutes 5% –8% of all structural congenital cardiac lesions ( 2, 3). This condition
+occurs more frequently in males than females, with a ratio of 3:1 ( 2), and is frequently
+associated with lesions as bicuspid aortic valve, perimembranous ventricular septal
+defect, supra or sub-valvular aortic stenosis and more other conditions ( 4). Syndromic
+patients, particularly those with Turner syndrome, exhibit a higher incidence of AoC ( 4).
+AoC is typically located at the aortic isthmus, just below the left subclavian artery, near
+the origin of the arterial duct. Less commonly, the narrowing may occur in the transverse
+aortic arch, between the left carotid artery and the left subclavian artery. Occasionally, the
+coarctation can be found distally in the thoracic aorta, between the arterial duct and the
+diaphragm ( Figure 1 ). A rare variant of AoC involves the persistent 5th aortic arch,
+with only a few cases reported in the literature ( 5–7). This condition is suspected when
+the narrowest point is located on the anterior aortic arch, between the innominate
+artery and left carotid artery.
+Surgical or percutaneous correction is usually effective and provides long-term survival
+with an excellent quality of life post-repair. Recent studies have shown that surgery for
+TYPE Review
+PUBLISHED 07 April 2025
+DOI 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+isolated AoC is successful in 97% of patients when performed
+within the ﬁrst year of life ( 8). When diagnosed at school age,
+percutaneous treatment demonstrates outcomes comparable to
+surgery ( 9, 10). However, AoC patients experience a higher
+prevalence of arterial hypertension despite successful
+correction. Re-coarctation occurs in approximately 5% of
+patients after surgery, and stent re-dilatation is often required
+in adolescents and young adults when the initial percutaneous
+procedure is performed in patients weighing less that 30 kg
+(11, 12). Cerebrovascular events, though rare, are a potentially
+life-threatening problem, due to the higher prevalence of
+cerebrovascular malformations in these patients ( 13, 14).
+Sometimes, very late AoC presentation might still occur, in
+particular in patients living or coming from geographical areas
+with poor health systems. Thus, even with effective AoC
+repair, these patients may have reduced life expectancy,
+increased morbidity and mortality rates, and an accelerated
+decline after the third decade ( 15–17)c o m p a r e dt ot h e
+general population.
+The aim of this review is to assess the impact of arterial
+hypertension in patients undergoing AoC correction and to
+present the current state of the art regarding the management of
+hypertension in this unique patient cohort.
+Diagnosis and grading of aortic
+coarctation
+The prenatal diagnosis of aortic coarctation (AoC) remains a
+challenge. Despite the widespread use of fetal echocardiography
+in developed countries, diagnostic accuracy ranges from 48% –
+94% ( 18). Fetal cardiovascular magnetic resonance (CMR) may
+enhance the prediction of AoC. However, when the lesion is
+conﬁned to the ductal region and not associated with aortic arch
+hypoplasia, postnatal monitoring is essential to con ﬁrm the
+diagnosis once the arterial duct get closed. Despite these
+limitations, prenatal diagnosis (or suspicion) improves neonatal
+outcomes ( 4, 19), by allowing for planned delivery in or near a
+center equipped with neonatal intensive care and pediatric
+cardiac surgery services. Several studies have demonstrated that
+timely treatment and a surgery, performed before the onset of
+cardiogenic shock, signi ﬁcantly impact both on short- and long-
+term outcomes ( 20, 21).
+Despite advances, late diagnosis and management of AoC
+remains a current problem even in developed countries, too. The
+clinical presentation and age at diagnosis vary signi ﬁcantly,
+depending on the degree of aortic narrowing, potential
+association with other cardiac malformations or congenital
+FIGURE 1
+Aortic arch anatomy in different settings: 1. Normal aortic arch; 2. Pre-ductal aortic coarctation, PDA is above the stenosis; 3. Juxta-ductal aorti c
+coarctation, the PDA is in front of the posterior shelf; 4. Post-ductal coarctation, a pressure gradient can be seen despite the PDA.
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+syndromes, and the extent of collateral vessels development
+between brachiocephalic arteries and intercostal vessels.
+Postnatal diagnosis typically occurs between 5 and 30 days of
+life, often with the patient presenting with severe cardiogenic
+shock. Nevertheless, AoC remains a major cause of perinatal
+mortality worldwide.
+I nc a s e sw h e r et h ec l o s u r eo ft h ed u c t u sa r t e r i o s u si ss l o w e r ,t h eA o C
+is not critical and collateral circulation has developed, symptoms may be
+more blurred, allowing the patient to reach adulthood ( 1). In these
+patients, diagnosis often occurs following the detection of long-term
+complications such as hypertensio n, coronary artery disease, heart
+failure, or during a diagnostic work-up for unrelated reasons (e.g.,
+sports participation, non-cardiac surgery, etc) (22–24).
+Treatment for AoC
+Untreated AoC has a poor prognosis. Historical data indicate
+an average age of death at 34 years, with a 75% mortality rate by
+age 43 ( 25).
+The ﬁrst successful AoC repair was performed in 1944 by the
+Swedish surgeon Clarence Crafoord, who carried out an end-to-
+end anastomosis of the aorta on two patients, aged 12 and 27
+years ( 26). Since then, several surgical approaches have been to
+face complex aortic arch anatomies. In 1982, percutaneous
+approach became available for AoC treatment ( 27). Despite
+surgery remains the primary treatment, balloon dilatation may be
+considered in high-risk situations (e.g., extremely low birth
+weight, cardiogenic shock, etc) as a bridge to surgery or as a
+rescue procedure in case of post-surgical restenosis.
+AoC stenting, ﬁrst introduced in 1991 as a rescue procedure
+(28), has since been re ﬁned for use in both native and recurrent
+AoC. The advent of smaller, more effective devices with high
+radial force and appropriate over-expansion capabilities has
+progressively established stenting as the ﬁrst-line treatment in
+patients weighing more than 20 kg.
+Surgery
+The ﬁrst-line surgical approach for isolated aortic coarctation is
+currently the extended end-to-end anastomosis via a left
+posterolateral thoracotomy, as it avoids the use of patches or
+allografts and effectively addresses distal aortic arch hypoplasia.
+Alternative techniques, such as aortoplasty with patch, subclavian
+ﬂap aortoplasty, and extra-anatomic grafts, were more common
+in previous decades but are now reserved for speci ﬁc anatomies.
+In cases involving aortic arch hypoplasia, median sternotomy
+should be preferred to facilitate extended aortic arch
+reconstruction up to the ﬁrst brachiocephalic vessel.
+Complex anatomical cases may require more extensive
+reconstruction trough a sternotomic access, that currently is
+needed in approximately 5% –20% of AoC patients ( 8, 29).
+Surgery is typically performed urgently once the diagnosis is
+conﬁrmed. In premature or very low-birth-weight neonates,
+weight gain measures may sometimes be considered as palliative
+strategy ( 30, 31). However, successful primary surgical repair has
+been achieved in infants weighing over 1,000 g ( 32, 33), despite a
+higher rate of mid-term restenosis. Conversely, delayed diagnosis
+and/or repair in adulthood is associated with increased mortality
+(25). In standard settings, mortality and morbidity rates are low,
+with a 0.54% 30-day mortality ( 34).
+Complications, including left recurrent laryngeal nerve injury,
+bronchial compression, early re-coarctation, and paradoxical
+hypertension, occur in approximately 5% of patients. Older age
+at repair (>20 years) and preoperative hypertension are
+associated with decreased survival rates ( 10). Patients younger
+than 9 years at the time of repair showed signi ﬁcantly lower rates
+of hypertension at 5 –15 years of follow-up. Additionally, younger
+age at repair and end-to-end anastomosis correction are linked to
+fewer reintervention on the descending aorta.
+Balloon angioplasty (BA)
+The ﬁrst balloon angioplasty for AoC was performed in 1982, by
+J. Lock (35). BA effectively reduces the pressure gradient in the short-
+to mid-term follow up. In cases of native AoC, it may be considered
+for extremely low-birth-weight infants or patients in cardiogenic
+shock as a bridge to surgery ( 36, 37)( Figure 2). However, several
+studies have indicated a higher risk of aneurysm formation and
+restenosis with isolated BA compared to surgery ( 4). Therefore,
+surgery remains the favored treatment for infants, while BA is often
+the ﬁrst choice for managing recurrent AoC after surgical repair.
+Stent implantation
+Both the AHA/ACC and ESC Guidelines recommend
+percutaneous stent implantation as the ﬁrst-line treatment for
+FIGURE 2
+Aortic angiography after balloon dilatation from right carotid artery
+in 1.6 kg newborn.
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+adolescents and adults with AoC ( 4, 38, 39)( Figure 3 ). Several
+studies have demonstrated the high effectiveness of stenting, with
+lower morbidity and mortality rate compared to surgery. Unlike
+balloon angioplasty, stenting carries a minimal risk of aortic
+aneurysm and dissection ( 4, 40, 41).
+In patients weighing between 15 and 40 kg, treatment strategies
+remain debated (12, 42, 43). While no de ﬁnitive guidelines exist for
+children, stenting may be considered if the intended diameter is
+suitable for adult size or if the stent can be re-dilated to
+accommodate growth. The Cheatham-Platinum (CP) stent is the
+most commonly used device, although others, such as Palmaz
+Genesis and Andrastent (size L or XL), can also be useful, albeit
+with a risk of stent fracture ( 44, 45). Covered stents (e.g., covered
+CP stent, BeGraft stent, etc.) are particularly valuable in
+challenging cases, such as tight AoC, anatomies complicated by
+pseudoaneurysms, residual PDA shunts, aortic wall lesions, or
+aberrant vessel drainage ( 42).
+Long-term outcomes with stents are generally excellent ( 7).
+However, late stent re-dilatation is often required when the initial
+procedure is performed before the age of 8, at a weight of less
+than 30 kg, or with a balloon diameter of less than 14 mm.
+Hypertension in operated AoC patients
+Hypertension frequently complicates the long-term follow up
+of AoC patients, regardless of the type of correction performed.
+Several mechanisms contribute to the development of
+hypertension in AoC, including upregulation of the renin –
+angiotensin system, impaired vasoreactivity, aortic arch geometry
+abnormalities, barore ﬂex dysfunction, and abnormal aortic
+distensibility ( 46, 47). The pathophysiology of hypertension is
+still unclear and the latest hypotheses are well summarized by De
+Divitiis ( 47). Although some of these alterations might be
+transient or reversible, AoC patients tend to experience
+hypertension more frequently and at a younger age compared to
+the general population ( 48).
+Diagnosing hypertension in patients with aortic coarctation
+can be challenging due to its variable presentation. Even after
+successful resolution of AoC, blood pressure readings in the left
+arm may be lower than in other locations, often due to
+hypoplasia, stenosis, or occlusion of the left subclavian artery.
+Furthermore, anomalies of the right subclavian artery, such as an
+aberrant lusory origin as the last branch of the brachiocephalic
+vessels, can complicate the assessment. In rare cases, it may not
+be possible to obtain non-invasive measurements of aortic
+pressure above the site of correction. These anatomical
+conditions can potentially mask arterial hypertension, leading to
+underdiagnosis or delayed treatment.
+Cardiologists should carefully consider the patient ’s anatomical
+variations and remain vigilant for potential inaccuracies in non-
+invasive blood pressure measurements. For patients with
+standard anatomy, blood pressure should primarily be measured
+in the right arm to ensure reliable readings.
+Paradoxical hypertension
+Paradoxical hypertension is often associated with AoC repair.
+The pathogenesis has yet to be determined, but it may be related
+to anatomical changes in the aorta and increased sympathetic
+nervous system activity: elevated plasma renin ( 49) and
+norepinephrine levels have been observed ( 50). This increase in
+norepinephrine is hypothesized to result from baroreceptor
+adaptation. After surgery or stent implantation, the pressure in
+the proximal aorta decreases, causing baroreceptors to reduce
+their inhibitory in ﬂuence on the bulbar vasomotor centers. These
+centers then increase sympathetic nerve activity to compensate
+for the lowered proximal blood pressure, leading to increased
+norepinephrine release ( 50).
+Post-surgical pain can also exacerbate hypertension, so
+adequate analgesic treatment is critical to mitigate this risk. Early
+management of postoperative hypertension is essential to reduce
+the risk of stroke, hemorrhage, and end-organ dysfunction.
+FIGURE 3
+Angiographic images of aortic coarctation in an adolescent, before and after stenting.
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+Chronic hypertension
+Chronic hypertension is present in 20% –70% of AoC
+patients ( 2, 51), with its prevalence in ﬂuenced by several
+factors. As expected, age is the most signi ﬁcant determinant.
+Studies have shown that the age at repair is the strongest
+predictor of long-term hypertension, independent of
+anatomical normalization ( 52, 53). This point might be due to
+several factors. First, early correction of AoC may limit
+exposure to hypertension and vascular wall stress ( 20, 54).
+Second, an effective surgical repair may prevent or avoid
+aortic arch hypoplasia. When surgical correction is performed
+above 15 –20 kg, it becomes increasingly dif ﬁcult to fully
+isolate the aortic arch, and the extent of surgical resection is
+larger, leading to signi ﬁcant stretching of the aortic segments
+(20). Similarly, percutaneous treatment of native AoC typically
+involves placing a stent distal to left subclavian artery,
+resulting in a stiffer, less elastic segment ( 21).
+AoC patients have been shown to exhibit increased arterial
+stiffness and impaired ﬂow-mediated arterial dilatation, suggesting
+a generalized impairment of large vessel function that coexists with
+AoC ( 54, 55). This impairment is more pronounced in patients
+with bicuspid aortic valve ( 56).
+Pediatric obesity is also a known risk factor for hypertension
+(4), and its association with AoC leads to higher blood pressure
+and an increased risk of left ventricular hypertrophy in
+adolescents and young adults ( 57). On the other hand, different
+surgical techniques do not appear to signi ﬁcantly in ﬂuence long-
+term blood pressure outcomes ( 58, 59).
+Finally, residual aortic coarctation, palliative surgical strategies
+by using extra-anatomic conduits, coarctation repair by patch,
+complex aortic arch anatomies, and association to complex
+congenital heart diseases are additional risk factors for chronic
+hypertension ( 8, 29, 48, 60).
+Masked hypertension
+Despite the most effective surgical or interventional treatment,
+hypertension remains more common in AoC patients. In young
+patients with repaired AoC, masked hypertension (MH) may
+develop early and is sometimes associated with abnormal left
+ventricular structural and functional changes. These patients may
+have increased LV mass despite normal of ﬁce blood pressure
+readings. In such cases, 24 h ambulatory blood pressure
+monitoring (ABPM) can help unmask this condition ( 48). The
+earliest sign of MH in ABPM is a non-dipper pro ﬁle,
+characterized by the absence of a normal nocturnal decline in
+systolic and diastolic blood pressure. Eventually, daytime
+hypertension may also develop. Early diagnosis of masked
+hypertension enables prompt treatment: once residual AoC is
+excluded, treatment should be considered (see above) to prevent
+left ventricular systolic and diastolic dysfunction. Untreated
+hypertension is, in fact, a major determinant of long-term
+morbidity and mortality in these patients.
+Exercise induced hypertension (EIH)
+In AoC patients, hypertension can be exercise-induced. Blood
+pressure may increase during sport or physical activity, with the
+magnitude depending on the kind and intensity of exercise.
+Aerobic sports, such as cycling, running, and swimming,
+typically cause mild increase in blood pressure. In contrast,
+isometric and anaerobic sports (e.g., diving, weightlifting, shot
+put, etc) can lead to signi ﬁcant rises in both systolic and diastolic
+blood pressure. Finally, several sports, such as artistic and
+rhythmic gymnastics, volleyball, water polo and basketball may
+involve both types of exercise.
+In clinical practice, exercise-induced hypertension is assessed
+using cycle ergometer or treadmill tests. While standard cut-off
+points exist for de ﬁning arterial hypertension in adults, well-
+deﬁned prognostic standards for pediatric populations are still
+lacking. Speci ﬁcally, in children, ranges vary based on several
+parameters, including sex, weight, and age ( 61). A study by
+Luitingh et al. demonstrated that patients with a peak exercise
+systolic blood pressure (SBP) exceeding 190 mmHg were
+consistently hypertensive ABPM and suggested that this
+threshold may be lower in younger population ( 62).
+This condition occurs in up to one-third of the normotensive
+AoC patients ( 63, 64) and is considered an early indicator of
+hypertension, associated with a higher risk of developing chronic
+hypertension over the mid-term ( 65–67). As a result, exercise
+testing is routinely used to screen AoC patients from adolescence
+onwards. EIH patients are at increased risk for cardiovascular
+events and more pronounced LV remodeling ( 64) compared to
+normotensive patients. In adults with repaired AoC, EIH testing
+can also provide prognostic information and assess the ef ﬁcacy of
+pharmacological treatment ( 64).
+Diagnostic workup
+Follow-up and monitoring after AoC
+correction
+After correction, patients with AoC should undergo regular
+screening to assess their risk of developing hypertension. Follow-
+up should occur at least annually and include a clinical
+evaluation, ECG and echocardiography.
+Clinical evaluation
+A comprehensive clinical evaluation for patients with AoC
+should include the assessment of radio-femoral delay,
+measurement of BMI, body surface area (BSA), and blood
+pressure in all four extremities at routine visit. This approach
+ensures identi ﬁcation of blood pressure discrepancies, a key
+diagnostic feature in this population. Blood pressure
+measurements should be taken in both arms and one or both
+legs, with leg measurements performed at least once during
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+follow-up, particularly if a percutaneous procedure via the femoral
+artery was conducted. Z-scores for of ﬁce blood pressure and ABPM
+are available based on sex, age and BSA. Overweight patients
+should be encouraged to lose weight and increase physical
+activity to enhance blood pressure control.
+ECG
+ECG is recommended for all patients with hypertension ( 68)
+and may be useful to identify patterns of myocardial hypertrophy
+(47). In adults, Sokolov ’s Index is frequently used to suspect left
+ventricular myocardial hypertrophy. In pediatric age, it cannot be
+used because of the high risk of false positive ﬁndings. Thus, in
+those patients, R wave in D-II higher than 20 mV is generally
+used as cut-off parameter for left ventricular hypertrophy.
+Echocardiography
+Echocardiographic is recommended in patients with
+hypertension and ECG abnormalities ( 68). Assessment should
+include evaluation of systolic and diastolic function, the aortic
+ﬂow pathway, and the presence of pressure gradients at the aortic
+valve, transverse arch and isthmus. Additionally, pulsed wave
+Doppler in the abdominal aorta can help assess blood ﬂow
+propagation and elastic recoil ( 4, 69, 70). Echocardiography is a
+valuable tool for assessing aortic re-coarctation, commonly
+identifying a peak-to-peak gradient exceeding 20 mmHg,
+radiological evidence of narrowing with signi ﬁcant collateral ﬂow,
+and left ventricular hypertrophy ( 70). However, the correlation
+between echo-derived isthmic gradient and invasive pressure
+gradient can be weak. Several factors can impact on echo
+velocities: the length of the stenosis, the associated aortic arch
+hypoplasia, the presence of hypertrophic collateral vessels
+bypassing the stenosis, impaired left ventricular function, the
+association with other congenital heart disease (in particular
+ventricular septal defect or patent ductus arteriosus), or sub-
+optimal alignment between probe and ﬂow. Peak velocity
+(>2,5 m/s), mean gradient (>20 mmHg), V2-V1 peak gradient
+(>20 mmHg) and the presence of a diastolic ﬂow tail were
+proposed as echo marker of AoC ( 71). On the other hand, the
+evidence of a demodulated abdominal aortic ﬂow pattern is often
+the strongest predictor of clinically signi ﬁcant AoC. Anyhow, the
+utility of echocardiography is constrained by operator
+dependency, variability in acoustic windows, and limitations in
+visualizing extracardiac structures and collateral circulation.
+Consequently, advanced imaging modalities may be required for
+comprehensive evaluation in certain cases ( 4, 70).
+Functional assessment of the LV
+Functional assessment of left ventricle includes evaluating wall
+thickness and calculating LV mass ( 70). Patients with AoC often
+develop LV pressure overload, leading to compensatory
+hypertrophy and, in some cases, myocardial ﬁbrosis ( 70, 72).
+Despite successful repair, LV function frequently remains
+suboptimal, underscoring the importance of monitoring LV
+performance during long-term follow-up of CoA patients ( 72).
+Chronic pressure overload in CoA patients also signi ﬁcantly
+affects the left atrium (LA), leading to structural remodeling,
+ﬁbrosis, and impaired function. LA strain imaging offers a
+valuable tool for evaluating both LA and LV performance
+throughout the cardiac cycle ( 73). Studies have shown evidence
+of LA dysfunction and LV diastolic dysfunction (LVDD) in CoA
+patients ( 74), however it is unknown whether these indices can
+?????????G?VT–VVHM
+A study showed that LA strain might show a potential clinical
+application, on the other side LV diastolic dysfunction is affected
+by too many factors ( 74).
+In overweight and obese patients ( 78), LV mass should be
+indexed either by BSA or by height raised to the power of 2.7
+(79). Most echocardiography software and reporting systems
+automatically calculate LV mass index based on BSA, which is
+generally suf ﬁcient. However, in obese patients, an increased BSA
+may lead to an underestimation of LV mass index, so using
+height may provide a more reliable measure.
+Speckle tracking and myocardial function
+Speckle tracking echocardiography is a sensitive tool for
+detecting subclinical sub-endocardial wall stress, which may be
+caused by residual AoC or newly onset of hypertension. Reduced
+global longitudinal strain values may warrant further anatomical
+evaluation and assessment of hypertensive status ( 80).
+Even in patients with successful AoC repair and no
+hypertension, impaired longitudinal deformation properties have
+been observed ( 78). The degree of impairment correlates with
+age at repair and aortic stiffness ( 78).
+Although early repair may delay hypertension onset, it cannot
+prevent the structural and functional abnormalities in the aorta
+that negatively affect myocardial deformation ( 78). In
+hypertensive patients with apparently normal systolic and
+diastolic function, applying the strain-time index (STI), can
+reveal preclinical LV systolic dysfunction ( 81, 82).
+Ambulatory blood pressure monitoring
+(ABPM)
+ABPM is a useful, non-invasive, and well-tolerated tool for
+diagnosing masked hypertension ( 83). Typically, the device
+records 50 –70 blood pressure measurements, providing mean
+values and standard deviation for 24 h, daytime and nighttime
+periods. The report also lists the number of values outside the
+normal range for systolic and diastolic pressures. Standard
+settings apply to adult patients. Thus, before starting with data
+analysis, cut-off values should be tailored according to age, sex
+and BSA percentiles. Normally, mean values should remain
+below the upper limit identi ﬁed, with less than 20% of readings
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+above the threshold. At night, blood pressure should decrease by at
+least 10% ( 84). The absence of this nocturnal reduction is termed a
+“non-dipper pro ﬁle” (85). It is important to note that the device ’s
+default nighttime settings should be adjusted based on the patient ’s
+sleep diary. ABPM is also valuable for monitoring the effectiveness
+of hypertension treatment, allowing clinicians to adjust doses and
+timings accordingly ( 84, 86).
+Exercise testing
+Exercise testing is especially useful for identifying exercise-
+induced hypertension ( 64, 65). As mentioned above, BP should
+be measured in the right arm. An abnormal exercise BP pro ﬁle
+may be due to several factors, such as mild or masked residual
+AoC, loss in aortic elasticity, idiopathic reasons. A bicuspid
+aortic valve can also increase the risk of idiopathic hypertension.
+Additionally, aortic valve stenosis may obscure or generate
+Doppler artifacts, making it dif ﬁcult to assess isthmic ﬂow and
+gradients. To overcome these limitations, an echocardiographic
+stress monitoring of the aortic arch may help clarify the
+diagnosis in these cases. Mild to moderate AoC can present with
+phasic isthmic ﬂow and preserved abdominal aorta pulsed wave
+shape. With increased cardiac output, the Doppler pro ﬁle might
+change. Aortic stenosis typically results in a systolic-only ﬂow,
+whereas residual AoC may show a diastolic ﬂow tail in both the
+arch and the abdominal aorta. Patients with moderate residual
+AoC and exercise-induced hypertension or aortic valve
+regurgitation may bene ﬁt from treatment of the residual lesion.
+A recent study has shown that exercise blood pressure may
+provide prognostic information and assess antihypertensive
+therapy ef ﬁcacy in adults with repaired CoA ( 64, 66, 67).
+Anatomical assessment of the aortic arch
+Anatomic assessment of the aortic arch involves either CT scan or
+angio-CMR. CT scan with angiographic sequences provides detailed
+information about the aorta, supra-aortic vessels, and thoracic
+collaterals ( Figure 4 ). It is the gold standard for detecting
+pseudoaneurysms, intimal tears and dissections ( 87). When
+performed with ECG gating and end-systolic acquisitions, CT can
+also aid in procedural planning ( 88, 89). However, the use of iodine
+contrast and radiation exposure limits the repeatability of this exam.
+Angio-CMR provides high-quality images of the aorta,
+comparable to those of a CT scan in both native and surgically
+treated AoC. If limited to black-blood acquisitions, contrast
+media can be avoided. However, gadolinium contrast enhances
+anatomical details and provides important information about
+gradients ( 88) and abdominal blood ﬂow. Like echocardiography,
+systolic peak and diastolic ﬂow tails are the key indicators of
+residual AoC. While angio-CMR is more time-consuming,
+operator-dependent, more expensive, and may require sedation
+in infants and children ( 70), it is more repeatable than CT,
+FIGURE 4
+Different aortic coarctation morphologies by CMR or angiographies. (A) Membrane shaped by CMR, there is short segment involved. (B) CMR-based
+aortic arch 3D model. Post-surgical aortic coarctation. There is a distal arch re-stenosis, associated with a post-stenotic aneurism of the aortic w all. (C)
+Angiography of a transverse aortic arch hypoplasia associated to aortic coarctation. (D) Angiography of an aortic coarctation with sub-atresia. The
+lumen in the narrowest tract is as large as the size of the catheter (5 Fr). (E) CMR view of a neonatal severe form of type 2 interrupted aortic arch.
+The dotted red line indicates the atretic tract. Arrows indicate the stenosis. LV, left ventricle; RV, right ventricle; MPA, main pulmonary artery;
+IA, innominate artery; LCC, left common carotid; LSA, left subclavian artery; AAo, ascending aorta; Arch, aortic arch; Dao, descending aorta.
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 07 frontiersin.org
+[[p8]]
+especially when performed without contrast. Unfortunately, its
+diagnostic accuracy worsen signi ﬁcantly when metallic device are
+present in the aorta (e.g., aortic stents, ductus arteriosus devices,
+etc) or nearby (e.g., mechanical valves, pacemaker, orthopedic
+prostheses, etc). In these cases, a CT scan is preferred.
+Cerebral arteries and AoC
+Patients with AoC are at risk of cerebral artery anomalies,
+particularly vascular aneurysms ( 13, 14). In these patients,
+hypertension can lead to aneurysm rupture and consequent
+cerebral hemorrhage. Therefore, imaging of cerebral arterial tree
+(via angio-CT or angio-CMR) might be proposed at diagnosis in
+AoC patients diagnosed out of neonatal age.
+Atherogenic effects
+Hypertension is a strong determinant of carotid intima-media
+thickness (CIMT), which is a predictor of atherosclerosis.
+Consequently, the effect of statins on patients with repaired AoC
+has been studied. In the study of Luijendijk P et al. ( 90) it was
+conﬁrmed that hypertensive patients with repaired AoC exhibited
+signiﬁcant CIMT progression. However, in this study,
+atorvastatin treatment was not effective in reducing these
+complications, despite a marked reduction in serum total
+cholesterol and LDL levels. Conversely, the study of Brili et al.
+(91) demonstrated signi ﬁcant improvements in endothelial
+function and decreased circulating levels of pro-in ﬂammatory
+cytokines in patients with repaired AoC.
+During long-term follow-up after AoC repair, cardiovascular
+risk increases due to an endothelial dysfunction and elevated
+expression of in ﬂammatory proteins. The effect of ramipril ’s (an
+ACE inhibitor) was studied in these patient group and was
+shown to be effective in improving endothelial function and
+reducing the expression of proatherogenic in ﬂammatory
+cytokines and adhesions molecules ( 92).
+Therapies for hypertension in
+repaired-AoC
+Hypertension treatment involves both peri-operative care and
+long term follow-up. In the ﬁrst case, hypertension is a transient
+event, resulting from the relief of stenosis and altered stimuli on
+renal and carotid pressure receptors. Chronic hypertension, on
+the other hand, is a more insidious condition, arising from a less
+elastic aortic wall, which predisposes patients to an early onset
+of hypertension.
+Post-surgical hypertension
+Intravenous drugs are usually preferred in the intensive care
+unit. Hypertension is quite common after surgery, potentially
+due to neuro-autonomic changes and the pain associated with
+the procedure. Achieving adequate BP control is essential to
+reduce the risk of cerebral bleeding and suture dehiscence.
+Additionally, lowering BP reduces afterload, which can be
+beneﬁcial in patients with preoperative left ventricular
+dysfunction. Thus, antihypertensive might also have an inotrope-
+sparing effect.
+Sodium nitroprusside (SNP) is typically the ﬁrst choice for
+treating hypertension following aortic coarctation repair ( 93). Its
+effect results from its breakdown into nitric oxide (NO), which
+exerts a potent vasodilatory effect on arterioles. The action is
+focused on arterial vessels, with no impact on inotropy. Due to
+its very short half-life, SNP can be easily managed by adjusting
+the dose. However, SNP promotes the development of free
+radicals, so its use beyond 48 h might result toxic for the patient.
+Esmolol is a selective beta-1 receptor blocker with rapid onset
+(within seconds), rapid peak effect, and very short duration of
+action, degraded by esterases in the cytosol of red blood cells.
+These characteristics offer several advantages over propranolol in
+the treatment of paradoxical hypertension after AoC repair ( 94).
+In a study comparing esmolol to sodium nitroprusside, esmolol
+was found wo be effective in treating paradoxical hypertension,
+either as monotherapy or in combination ( 95), with an excellent
+safety pro ﬁle ( 94). Like SNP, Esmolol doses can be easily
+adjusted to tailor the effect for the patient. However, like
+other B-1 blockers, Esmolol impacts cardiac function by reducing
+heart rate, inotropy, and oxygen consumption. Therefore,
+its use should be approached cautiously in patients with
+cardiogenic shock.
+Labetalol is a non-selective, competitive beta-adrenergic (B1
+and B2) blocker and a selective alpha1-adrenergic antagonist,
+with a rapid onset and peak effect, and a half-life of 3 –5h .
+Unlike Esmolol, Labetalol has a longer duration of action,
+making dose adjustments more dif ﬁcult. Retrospective study have
+indicated that it is a safe single-agent therapy for treating
+hypertension post-coarctectomy, with the added advantage of
+easy transition from intravenous to oral administration ( 96).
+However, this therapy has a negative association with ductus-
+dependent circulation ( 96).
+Dexmedetomidine is an intravenous analgo-sedative used both
+intraoperatively and postoperatively. It is a highly selective alpha-2
+agonist, a drug that exerts multiple effects. Dexmedetomidine
+reduces central sympathetic output, inhibits the release of
+epinephrine, norepinephrine and renin release, thereby lowering
+arterial blood pressure ( 97, 98). In conclusion, its ancillary effects
+on the cardiovascular system, combined with its primary sedative
+and analgesic effects, make this drug ideal for postoperative care
+of patients with AoC in intensive care unit ( 97, 99). A recent
+study demonstrated that dexmedetomidine is safe and that it
+reduces the incidence and severity of paradoxical hypertension,
+as well as the need for antihypertensive medications in patients
+undergoing aortic coarctation repair ( 100).
+After the ﬁrst 48 h, patients can often be weaned off
+intravenous antihypertensive drugs. Once discharged from
+intensive care unit, the patient may either remain off therapy or
+transition to oral therapy. The choice is based on the pre-surgical
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 08 frontiersin.org
+[[p9]]
+clinical condition, BP values, and patient ’s age. Neonates with a
+pre-natal diagnosis of AoC can be treated promptly with
+adequate LV function. In these patients, mid-term oral treatment
+is usually unnecessary. Patients without a prenatal diagnosis
+often present for surgery in poor clinical condition, with low
+cardiac output, biventricular dysfunction, metabolic acidosis, and
+oligo-anuria. In these cases, mid-term oral therapy should be
+considered to promote the left ventricle reverse remodeling. In
+adult patients, hypertension may persist for several weeks
+following AoC correction; therefore, mid-term therapy is also
+recommended for these patients.
+Oral therapies for (chronic) hypertension
+In pediatric patients (including both children and adolescents),
+there is currently no general consensus on the management of
+arterial hypertension. In the normal population the most recent
+guidelines agree on initiating the treatment with non-
+pharmacological interventions, focusing on improving adherence
+to a healthy lifestyle, including reducing the intake of salt-rich
+foods ( 101).
+However, this approach is not recommended in patients with
+AoC, as hypertension in these cases is caused by a structural
+issue. In this cohort of patients, pharmacological therapy
+is indicated.
+The range of drugs available for chronic hypertension is
+extensive. However, the options available for pediatric patients
+are much more limited. Similarly, data on hypertension in CHD
+patients, including AoC, is restricted to only a few drug classes.
+Beta-blockers (BB)
+Beta-blockers ( Table 1 ) are currently considered the ﬁrst-line
+therapy for AoC. Numerous studies have demonstrated the safety
+and ef ﬁcacy pro ﬁle of beta-blockers in patients with AoC
+patients ( 94, 96, 102). The utility of beta-blockers is not limited
+to hypertension management; several studies suggest their use in
+preventing aortic dilatation and ascending aorta aneurisms,
+particularly when AoC is associated to bicuspid aortic valve.
+Beta-blocker are classically categorized into β1-selective and non-
+selective.
+First-generation beta-blockers, such as propranolol, nadolol,
+timolol, sotalol and pindolol, block both β1 and β2 receptors.
+TABLE 1 Beta blockers used in clinical practice.
+Class Drug Characteristics Dosage Controindications Side effects
+Beta-
+blockers
+BBs
+Propranolol Non selective Children Asthma, congestive heart failure.
+Beware hypoglycemia in infants and
+diabetics
+Hypotension, syncope, bronchospasm,
+nausea and vomiting, hypoglycemia, lethargy
+and depression, hearth block
+1st pass hepatic metabolism
+(pharmacologically active
+metabolites)
+PO: 0.5 –1 mg/kg/24 h
+each 12 h-6 h.
+Increase to 2 –4 mg/kg/
+24 h.
+Max dose 8 mg/kg/24 h
+High lipophilicity Adults
+c?G??QT?–
+150 ng/ml)
+onY?PO?–QT?N?
+8 h-6 h
+Renal elimination
+Nadolol Non selective Children Asthma, congestive heart failure.
+Beware hypoglycemia in infants and
+diabetics
+CNS (dizziness, tiredness, depression,
+tinnitus), bradycardia, bronchospasm,
+diarrhea, nausea and vomiting, rash
+Low lipophilicity PO: 0.25 –0.5 mg/kg/24 h;
+Renal elimination Adjust up or down after 5
+days based on side effects,
+sinus rate and ef ﬁcacy
+Adults
+PO: 40 –240 mg/24 h
+Atenolol β1 selective Children CNS (dizziness, tiredness, depression),
+bradycardia, postural hypotension, nausea
+and vomiting, rash, blood dyscrasias
+(agranulocytosis, purpura)
+Low lipophilicity PO: 1 –2 mg/kg/dose,
+each 24 h
+Renal elimination Adults
+onY?QT?–POO?NK
+24 h for 1 –2 week; may
+increase to 200 mg 24 h
+Metoprolol β1 selective Children > 2 yr CNS (dizziness, tiredness, depression),
+bronchospasm, bradycardia, diarrhea, nausea
+and vomiting, abdominal pain
+High lipophilicity PO: Initial 0.1 –0.2 mg/
+kg/dose, each 12 h;
+gradually increase to
+1–3 mg/kg/24 h
+Hepatic elimination Adults
+PO: initially 100 mg/24 h,
+each 24 h-8 h
+Usual dose 100 –450 mg/
+24 h
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 09 frontiersin.org
+[[p10]]
+Consequently, this group affects cardiomyocytes, smooth muscle
+cells in blood vessels, and the lungs, with bronchoconstriction as
+a potential side effect. Thus, these drugs are no longer used to
+treat hypertension.
+Second-generation beta-blockers, including metoprolol,
+acebutolol, bisoprolol, esmolol, betaxolol, and acebutolol, are β1
+selective. This group has been extensively studied for heart
+failure and heart rate control. They have signi ﬁcantly lower
+impact on bronchoconstriction and peripheral vasodilatation.
+Pindolol, penbutolol, and acebutolol differ from other beta-
+blockers due to their intrinsic sympathomimetic activity (ISA),
+which can increase blood pressure and heart rate. This class of
+Beta-Blockers has a smaller effect on reducing resting cardiac
+output and resting heart rate compared with other classes.
+Third-generation Beta-blockers include labetalol and
+carvedilol, which block both β- and α1-adrenergic receptors,
+creating a synergistic effect that induces vasodilation and to
+reduces blood pressure.
+Beta-blockers can also be classi ﬁed as lipophilic and
+hydrophilic. The clinical signi ﬁcance of this classi ﬁcation relates
+to the volume of distribution and the drug ’s effect on the brain.
+Lipophilic Beta-blockers can cross the blood-brain barrier and
+exert additional effects on the central nervous system, therefore,
+the use of this class of drugs should depend on the risk of
+adding depressive symptoms.
+Propranolol was the ﬁrst beta-blocker available on the market.
+It was effectively used in the perioperative period for coarctation
+repair, where it was shown to signi ﬁcantly reduce systolic and
+diastolic blood pressure as well as plasma renin activity ( 103). Its
+role has been evaluated as a prophylactic therapy for the
+prevention of paradoxical hypertension after AoC repair ( 103,
+104). Propranolol has a relatively short half-life, requiring
+administration 3 –4 times per day.
+Atenolol is a non-selective beta-blocker that can be
+administrated once or twice per day. Over the past two decades,
+several studies have demonstrate that Atenolol may be
+considered a ﬁrst-line treatment for AoC.
+The most common side effects of BB include bradycardia,
+bronchospasm, asthma, Raynaud ’s disease, and hypoglycemia
+in diabetics.
+Calcium channel blockers (CCBs)
+Calcium channel blockers (CCBs) ( Table 2 ) play a pivotal
+role in the management of AoC. This class of drugs is divided in
+two categories: dihydropyridines and non-dihydropyridines. The
+ﬁrst group acts selectively on peripheral arteries, causing
+arteriolar vasodilation and an effective reduction in blood
+pressure. Non-dihydropyridines also act on cardiomyocytes,
+primarily suppressing sympathetic stimuli, thereby decreasing
+heart rate, blood pressure, inotropy and dromotropy.
+CCBs are typically used as second-line treatment in
+pediatric patients due to the risk of hypotension. They are often
+considered when BBs are insuf ﬁcient to achieve adequate blood
+pressure control. Dihydropyridine CCBs are commonly used to
+treat postoperative hypertension in adults are nifedipine,
+amlodipine and nicardipine are the almost known molecule.
+They have a rapid onset and peak effect, increase cardiac output
+by enhancing venous return, and reduce oxygen consumption by
+lowering afterload ( 105). The half-life of CCBs is usually short or
+very short, making them particularly effective in case of
+hypertensive crises. However, for chronic use, controlled-released
+formulations are needed to stabilize plasma concentration and
+reduce the frequency of daily administration.
+The most common side effects of CCBs include ﬂushing,
+headache, peripheral edema, dizziness, and paradoxical hypotension.
+Angiotensin converter enzyme inhibitors
+(ACE-I) and angiotensin receptor blockers
+(ARB)
+ACE-I ( Table 3 ) are a common ﬁrst-line treatment for
+hypertension at any age. They induce arteriolar vasodilatation.
+Due to their large extensive use in pediatric and neonatal heart
+failure, wide therapeutic range and low risk of adverse effects,
+ACE-Is are increasingly replacing BB as ﬁrst-line treatment for
+hypertension. Several ACE-I molecules are available, differing in
+onset and half-life. Captopril was the ﬁrst ACE-I introduced,
+with a rapid onset and short half-life. Requiring administration
+three of four times daily for complete coverage. Enalapril has a
+TABLE 2 Calcium channel blockers currently used in chronic hypertension.
+Class Drug Characteristics Dosage Controindications Side effects
+Calcium
+channel
+blockers CCBs
+Amlodipine Dihydropyridines Children Edema, dizziness, ﬂushing, palpitation,
+headache, fatigue, nausea, abdominal
+pain, somnolence
+(3rd gen) PO: initial 0.1 mg/kg/dose each 24 h-
+12 h may increase gradually to a max
+of 0.6 mg/kg/24 h
+L-type, N-type channels
+Hepatic metabolism
+Renal elimination 60%, hepatic
+elimination 20 –25%
+Adults
+PO: 5 –10 mg/dose each 24 h
+(max 10 mg/24 h)
+Nicardipine Dihydropyridines Children Absolute Edema, dizziness, ﬂushing, palpitation,
+headache, fatigue, nausea, abdominal
+pain, somnolence
+(2nd gen) PO: 0.4 –0.8 mg/kg each 8 h Pregnancy
+Hepatic metabolism Adult Lactation
+Hepatic elimination 70% PO: 20 –40 mg each 8 h Absolute
+Renal elimination 30% Hepatic insuf ﬁciency
+Renal failure
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 10 frontiersin.org
+[[p11]]
+slightly longer half-life and is administrated twice daily, while
+Ramipril, Lisinopril, and Perindopril allow for once-daily
+administration. Unlike BB, ACE-Is mainly differ in terms of half-
+life and time to peak dose.
+The most common side effects of ACE-Is include renal
+dysfunction, hyperkalemia, and cough. ACE-Is are
+contraindicated during pregnancy.
+Angiotensin receptor blockers (ARBs) ( Table 4 )a c tb y
+inhibiting the effects of angiot ensin II at its receptor sites,
+thereby preventing its vasoconstrictive action and reducing sodium
+and water retention through modulation of renal and vascular
+pathways. ARBs speciﬁcally block AT1 receptors, which are found in
+the heart, blood vessels and kidneys. Consequently, ARBs are used to
+treat hypertension, heart failure and chronic kidney disease.
+Additionally, they can be used to prevent aortic wall dilatation in
+collagenopathies (e.g., Marfan Syndrome). Losartan, Valsartan,
+Irbesartan, Olmesartan, and Candesartan are the most commonly
+used ARBs. They may be considered ﬁrst-line drugs in adults due to
+the high response rate, low incidence of adverse effects, and long-
+acting nature, which typically allows for once-daily dosing. In
+pediatric patients, ARBs are considered when ACE-Is are poorly
+tolerated (e.g., due to cough). Side effects include hyperkalemia,
+altered taste, and skin rash. Similar to ACE-Is, ARBs are
+contraindicated during pregnancy.
+How to choose the most appropriate
+therapy in AoC patients
+Currently, the ﬁrst-line approach for hypertension in AoC is
+largely based on local protocols or physician preferences.
+A multicenter study ( 106)e v a l u a t e dt h ep r e v a l e n c eo f
+TABLE 3 Angiotensin converting enzyme inhibitors to treat hypertension.
+Class Drug Characteristics Dosage Controindications Side effects
+Angiotensin
+converting enzyme
+inhibitors ACE-i
+Enalapril Pro-drug (active metabolite
+enalaprilat)
+Children Absolute Hypotension, dizziness, fatigue,
+headache, rash, diminishing taste,
+neutropenia, hyperkalemia, chronic
+cough
+PO: 0.1 mg/kg/dose each 24 h-12 h
+may increase over 2 weeks to a max
+of 0.5 mg/kg/24 h
+Angioedema
+Renal elimination (60%
+enalapril, 40% enalaprilat)
+Pregnancy
+Lactation Fetal risk if given during 2nd and 3rd
+trimesters
+Adults
+PO: 2.5 mg/dose each 24 h-12 h
+(max 10 –40 mg/24 h)
+Captopril Neonates Absolute Neutropenia/agranulocytosis,
+proteinuria and tachycardia, rash, taste
+impairment, hyperkaliemia
+PO: 0.1 –0.4 mg/kg/24 h, each 8 h-
+6h
+Angioedema Fetal risk if given during 2nd and 3rd
+trimesters
+Children Pregnancy
+PO: Initially 0.3 –0.5 mg/kg/dose,
+each 8 h (max 6 mg/kg/24 h, 12 h-
+6h )
+Lactation
+Adolescents and Adults
+onY?PQMT?–QT?N??PQ?LW?
+Increased weekly if needed by
+QT?N?????STO?N
+24 h (adjust dose with renal failure)
+Ramipril Pro-drug (active metabolite
+ramiprilat)
+Children Absolute Dry non-productive cough, dizziness,
+fatigue, nausea, hyperkalemia,
+angioedema, rarely neutropenia,
+PO: 0.05 mg/kg/24 h, may increase
+over 4 –6 weeks to 0.1 –0.2 mg/kg/
+24 h
+Angioedema
+Renal elimination 60% Pregnancy Fetal risk if given during 2nd and 3rd
+trimestersHepatic elimination 40% Adult Lactation
+PO: 2.5 mg/24 h, may increase over
+4–6 weeks to 5 –10 mg/24 h
+Lisinopril No protein binding Children ≥ 6 yr Absolute Dry non-productive cough, rash,
+hypotension, hyperkalemia,
+angioedema, rarely bone marrow
+depression
+Renal elimination PO: initially 0.07 mg/kg/dose 24 h
+(max initial dose 5 mg/24 h) may
+increase over 2 weeks to a max of
+0.6 mg/kg/24 h or 40 mg/24 h
+Angioedema
+Pregnancy
+Lactation Fetal risk if given during 2nd and 3rd
+trimestersAdults
+PO: 10 mg/dose 24 h (max 80 mg/
+24 h)
+Perindopril Pro-drug (active metabolite
+perindoprilat)
+Children Absolute Cough, fatigue, asthenia, headache,
+disturbances of mood or sleep, taste
+impairment, epigastric discomfort,
+nausea, abdominal pain, rash
+PO: 0.05 –0.15 mg/kg/24 h Angioedema
+Renal elimination Adults Pregnancy
+PO: 2 –8 mg/24 h Lactation Fetal risk if given during 2nd and 3rd
+trimesters
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 11 frontiersin.org
+[[p12]]
+antihypertensive therapy at hospital discharge in 39 tertiary care
+pediatric hospitals in the USA between 2004 and 2013,
+encompassing a population of 1,636 patients. This study highlighted
+the signi ﬁcant variability in discharge prescription, re ﬂecting the
+lack of evidence-based guidelines. The most commonly prescribed
+medications were: enalapril (43.3%), captopril (28.3%), atenolol
+(28.0%), propranolol (15.6%), lisi nopril (5.1%), amlodipine (3.8%),
+metoprolol (2.9%), labetalol (2.7% ), nifedipine (1.4%). All other
+medication were prescribed at less than 1%, demonstrating
+considerable variability in pharmacotherapy at discharge. Thus,
+ACE-Is and BBs are the most commonly used drugs in these patients.
+There are few studies comparing the ef ﬁcacy, safety and
+secondary outcomes, such as morbidity and mortality, of oral
+antihypertensive medications in this speci ﬁc population. Among
+these, Di Salvo et al. conducted a randomized trial comparing
+atenolol and enalapril in the management of hypertension
+following AoC repair. The study concluded that, while both
+drugs effectively reduced SBP, only enalapril signi ﬁcantly reduced
+left ventricular mass/height ( 107). Therefore, ACE-Is may be
+considered the ﬁrst-line choice for patients with hypertension
+without residual AoC and left ventricular hypertrophy.
+Another study compared the effects of candesartan (an ARB)
+and metoprolol (a BB) in a small cohort of adult patients after 8
+weeks of treatment ( 108). Metoprolol demonstrated a greater
+reduction in mean arterial pressure, although it was associated
+with an increase in plasma type B natriuretic peptide
+concentration ( 108). However, no larger studies have con ﬁrmed
+these results in a broader cohort or over a longer follow-up period.
+A recent Cochrane review ( 109), which included 21
+randomized clinical trials, found that data on the use of
+antihypertensive drugs in children remain limited. Candesartan
+was associated with a signi ﬁcant reduction in systolic and
+diastolic blood pressure compared to placebo, but no consistent
+dose-response relationship. ACE-Is demonstrated good ef ﬁcacy in
+reducing systolic and diastolic blood pressure compared to
+baseline, though no consistent evidence was found across studies.
+BBs appeared less effective in children than in adults. Although
+CCBs are frequently prescribed, the evidence supporting their
+blood pressure-lowering ef ﬁcacy is limited. In the short term, all
+evaluated antihypertensive drugs were considered safe.
+Figure 5 summarizes the most common treatment algorithms
+in these patients.
+Conclusion
+Despite successful repair, 20% –70% of AoC patients may
+develop chronic hypertension during long-term follow-up. Early
+diagnosis can be challenging, and a multi-parametric approach is
+often necessary. Untreated hypertension increases the risk of
+cardiovascular events, atherogenic conditions, and advanced LV
+remodeling, leading to impaired diastolic function and LV
+TABLE 4 Angiotensin receptor blockers to treat hypertension.
+Class Drug Characteristics Dosage Controindications Side effects
+Angiotensin
+receptor blockers
+ARBs
+Losartan Pro-drug (active metabolite
+EXP3174)
+Children ≥ 6y r Absolute Hypotension, dizziness, nasal
+congestion, muscle cramps, anemia,
+thrombocytopenia, rash
+PO: 0.7 mg/kg/dose each 24 h-
+12 h (max 50 mg/24 h)
+Pregnancy
+High protein binding Lactation Fetal risk if given during 2nd and 3rd
+trimestersAdults Relative
+Hepatic metabolism PO: 50 mg/dose 24H (max
+100 mg/24 h)
+Renal artery stenosis
+Renal elimination 13 –25% Hepatic insuf ﬁciency
+Hepatic elimination 50 –60%
+Valsartan Renal elimination 30% Children Absolute Dizziness, hypotension, diarrhea,
+joint pain, fatigue, back pain, rhinitis
+or sinusitis
+Hepatic elimination 70% PO: 0.8 mg/kg/24 h Pregnancy
+Adults Lactation Fetal risk if given during 2nd and 3rd
+trimestersPO: 40 –160 mg/24 h Relative
+Renal artery stenosis
+Hepatic insuf ﬁciency
+Olmesartan
+medoxomil
+Pro-drug (active metabolite
+olmesartan)
+Children Absolute Hypotension, dizziness, nasal
+congestion, muscle cramps,
+vomiting, diarrhea, weight loss
+PO: 0.3 mg/kg/24 h (max
+10 mg), may increase every 2
+week to max 0.8 mg/kg/24 h
+Pregnancy
+Hepatic metabolism Lactation Fetal risk if given during 2nd and 3rd
+trimestersHepatic elimination 60% Hepatic insuf ﬁciency
+Renal elimination 40% Adults Biliary obstruction
+PO: 10 mg/24 h, may increase
+to max 40 mg/24 h
+Relative
+Renal artery stenosis
+Candesartan
+cilexetil
+Pro-drug (enteric esterase
+metabolism, active metabolite
+candesartan)
+Children Absolute Hypotension, dizziness,
+hyperkalemia, anemia
+PO: 0.1 –0.3 mg/kg/24 h Pregnancy Fetal risk if given during 2nd and 3rd
+trimestersAdults Lactation
+Hepatic metabolism PO: 4 –16 mg/24 h Relative
+Renal elimination 33% Renal artery stenosis
+Hepatic elimination 67%
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 12 frontiersin.org
+[[p13]]
+hypertrophy. To prevent major adverse events, these patients
+should be followed at centers with expertise in congenital heart
+diseases to ensure early diagnosis and appropriate treatment.
+Despite hypertension in AoC is a speci ﬁc issue, not merely
+comparable to adult-like arterial hypertension, no dedicated
+guidelines or recommendations are available for these patients.
+Thus, treatment algorithms are often based on individual
+preferences or single center protocols. Our research has
+highlighted a predominant use of ACE inhibitors and beta-
+blockers as ﬁrst-line options in pediatric patients, with ARBs also
+considered in adults. Calcium channel blockers and diuretics are
+commonly employed as adjunctive therapies when hypertension
+persists despite initial treatment.
+Author contributions
+LY: Writing – original draft. BC: Writing – original draft,
+Writing – review & editing, Conceptualization, Supervision. IC:
+Writing – review & editing, Data curation, Supervision,
+Validation. AP: Writing – review & editing, Data curation,
+Formal analysis, Supervision. JF: Writing – review & editing,
+Data curation, Supervision. GD: Writing – review & editing.
+Funding
+The author(s) declare that ﬁnancial support was received for
+the research and/or publication of this article. Open Access
+funding provided by Università degli Studi di Padova |
+University of Padua, Open Science Committee.
+Acknowledgments
+This work is being supported by the Research4Residents
+project within the Residency Program in Paediatrics at the
+University of Padova, Italy.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Generative AI statement
+The author(s) declare that no Generative AI was used in the
+creation of this manuscript.
+FIGURE 5
+Flowchart of therapy for hypertension in AoC based on current clinical practice.
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 13 frontiersin.org
+[[p14]]
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+References
+PM?l?iK?e?lK?j?rM?`??Y???
+aorta and interrupted aortic arch. In: Lai WW, Mertens LL, Cohen MS, Geva T,
+editors. Echocardiography in Pediatric and Congenital Heart Disease: From Fetus to
+Adult. New Jersey: Wiley & Sons (2009). p. 339 –61.
+2. Panzer J, Bové T, Vandekerckhove K, De Wolf D. Hypertension after coarctation
+repair— a systematic review. Transl Pediatr . (2022) 11(2):270 –9. doi: 10.21037/tp-21-
+418
+3. Roger VL, Go AS, Lloyd-Jones DM, Adams RJ, Berry JD, Brown TM, et al. Heart
+disease and stroke statistics — 2011 update: a report from the American heart
+Association. Circulation. (2011) 123(4):e18 –209. doi: 10.1161/CIR.0b013e3182009701
+4. Raza S, Aggarwal S, Jenkins P, Kharabish A, Anwer S, Cullington D, et al.
+Coarctation of the aorta: diagnosis and management. Diagn Basel Switz . (2023)
+13(13):2189. doi: 10.3390/diagnostics13132189
+5. Marcus BS, Rubio A, Deen JF. Transcatheter relief of coarctation of the aorta in a
+persistent ﬁfth aortic arch anatomy. Prog Pediatr Cardiol . (2020) 57:101200. doi: 10.
+1016/j.ppedcard.2020.101200
+6. Kim SH, Choi ES, Cho S, Kim WH. Persistent ﬁfth aortic arch with coarctation.
+Korean J Thorac Cardiovasc Surg . (2016) 49(1):39 –41. doi: 10.5090/kjtcs.2016.49.1.39
+7. Lambert V, Blaysat G, Sidi D, Lacour-Gayet F. Double-Lumen aortic arch by
+persistence of ﬁfth aortic arch: a new case associated with coarctation. Pediatr
+Cardiol. (1999) 20(2):167 –9. doi: 10.1007/s002469900431
+8. Minotti C, Scioni M, Castaldi B, Guariento A, Biffanti R, Di Salvo G, et al.
+Effectiveness of repair of aortic coarctation in neonates: a long-term experience.
+Pediatr Cardiol . (2022) 43(1):17 –26. doi: 10.1007/s00246-021-02685-z
+9. Vergales JE, Gangemi JJ, Rhueban KS, Lim DS. Coarctation of the aorta — the
+current state of surgical and transcatheter therapies. Curr Cardiol Rev . (2013)
+9(3):211–9. doi: 10.2174/1573403x113099990032
+10. Wong D, Benson LN, Van Arsdell GS, Karamlou T, McCrindle BW. Balloon
+angioplasty is preferred to surgery for aortic coarctation. Cardiol Young . (2008)
+18(01):79–88. doi: 10.1017/S1047951107001795
+11. Pan M, Ojeda S, Hidalgo F, Suárez De Lezo J, Lostalo A, Mazuelos F, et al.
+Percutaneous reintervention on aortic coarctation stenting. EuroIntervention. (2020)
+15(16):1464–70. doi: 10.4244/EIJ-D-18-00923
+12. Kang SL, Tometzki A, Taliotis D, Martin R. Stent therapy for aortic coarctation
+in children <30 kg: use of the low pro ﬁle valeo stent. Pediatr Cardiol . (2017)
+38(7):1441–9. doi: 10.1007/s00246-017-1682-x
+13. Singh PK, Marzo A, Staicu C, William MG, Wilkinson I, Lawford PV, et al. The
+effects of aortic coarctation on cerebral hemodynamics and its importance in the
+etiopathogenesis of intracranial aneurysms. J Vasc Interv Neurol . (2010) 3(1):17 –30.
+14. Connolly HM, Huston J, Brown RD, Warnes CA, Ammash NM, Tajik AJ.
+Intracranial aneurysms in patients with coarctation of the aorta: a prospective
+magnetic resonance angiographic study of 100 patients. Mayo Clin Proc . (2003)
+78(12):1491–9. doi: 10.4065/78.12.1491
+15. Lee MGY, Babu-Narayan SV, Kempny A, Uebing A, Montanaro C, Shore DF,
+et al. Long-term mortality and cardiovascular burden for adult survivors of
+coarctation of the aorta. Heart Br Card Soc . (2019) 105(15):1190 –6. doi: 10.1136/
+heartjnl-2018-314257
+16. Cohen M, Fuster V, Steele PM, Driscoll D, McGoon DC. Coarctation of the
+aorta. Long-term follow-up and prediction of outcome after surgical correction.
+Circulation. (1989) 80(4):840 –5. doi: 10.1161/01.CIR.80.4.840
+17. Brown ML, Burkhart HM, Connolly HM, Dearani JA, Cetta F, Li Z, et al.
+Coarctation of the aorta: lifelong surveillance is mandatory following surgical repair.
+J Am Coll Cardiol . (2013) 62(11):1020 –5. doi: 10.1016/j.jacc.2013.06.016
+18. Lloyd DFA, van Poppel MPM, Pushparajah K, Vigneswaran TV, Zidere V,
+Steinweg J, et al. Analysis of 3-dimensional arch anatomy, vascular ﬂow, and
+postnatal outcome in cases of suspected coarctation of the aorta using fetal cardiac
+magnetic resonance imaging. Circ Cardiovasc Imaging . (2021) 14(7):e012411.
+doi: 10.1161/CIRCIMAGING.121.012411
+19. Franklin O, Burch M, Manning N, Sleeman K, Gould S, Archer N. Prenatal
+diagnosis of coarctation of the aorta improves survival and reduces morbidity.
+Heart Br Card Soc . (2002) 87(1):67 –9. doi: 10.1136/heart.87.1.67
+20. Vasile CM, Laforest G, Bulescu C, Jalal Z, Thambo JB, Iriart X. From crafoord ’s
+end-to-end anastomosis approach to percutaneous interventions: coarctation of the
+aorta management strategies and reinterventions. J Clin Med . (2023) 12(23):7350.
+doi: 10.3390/jcm12237350
+21. Rodés-Cabau J, Miró J, Dancea A, Ibrahim R, Piette E, Lapierre C, et al.
+Comparison of surgical and transcatheter treatment for native coarctation of the
+aorta in patients ≥1 year old. The Quebec native coarctation of the aorta study. Am
+Heart J . (2007) 154(1):186 –92. doi: 10.1016/j.ahj.2007.03.046
+22. Hoffman JI. The challenge in diagnosing coarctation of the aorta. Cardiovasc
+J Afr . (2018) 29(4):252 –5. doi: 10.5830/CVJA-2017-053
+23. Rosenthal E. Coarctation of the aorta from fetus to adult: curable condition or
+life long disease process? Heart Br Card Soc . (2005) 91(11):1495 –502. doi: 10.1136/
+hrt.2004.057182
+24. Strafford MA, Grif ﬁths SP, Gersony WM. Coarctation of the aorta: a study in
+delayed detection. Pediatrics. (1982) 69(2):159 –63. doi: 10.1542/peds.69.2.159
+25. Alkashkari W, Albugami S, Hijazi ZM. Management of coarctation of the aorta
+in adult patients: state of the art. Korean Circ J. (2019) 49(4):298–313. doi: 10.4070/kcj.
+2018.0433
+26. Crafoord C, Nylin G. Congenital coarctation of the aorta and its surgical
+treatment. J Thorac Surg . (1945) 14(5):347 –61. doi: 10.1016/S0096-5588(20)31801-8
+27. Singer MI, Rowen M, Dorsey TJ. Transluminal aortic balloon angioplasty for
+coarctation of the aorta in the newborn. Am Heart J . (1982) 103(1):131 –2. doi: 10.
+1016/0002-8703(82)90539-7
+28. O ’Laughlin MP, Perry SB, Lock JE, Mullins CE. Use of endovascular stents in
+congenital heart disease. Circulation. (1991) 83(6):1923 –39. doi: 10.1161/01.CIR.83.
+6.1923
+29. Padalino MA, Bagatin C, Bordin G, Tua L, Francescato A, Pradegan N, et al.
+Surgical repair of aortic coarctation in pediatric age: a single center two decades
+experience. J Card Surg . (2019) 34(5):256 –65. doi: 10.1111/jocs.14019
+30. Stegeman R, Breur JMPJ, Heuser J, Jansen NJG, De Vries WB, Vijlbrief DC, et al.
+Primary coronary stent implantation is a feasible bridging therapy to surgery in very
+low birth weight infants with critical aortic coarctation. Int J Cardiol . (2018) 261:62 –5.
+doi: 10.1016/j.ijcard.2018.03.009
+31. Mini N, Zartner PA, Schneider MBE. Stenting of critical aortic coarctation in
+neonates between 600 and 1,350 g. Using a transfemoral artery approach. A single
+center experience. Front Cardiovasc Med . (2022) 9:1025411. doi: 10.3389/fcvm.2022.
+1025411
+32. Butler V, Belhadjer Z, Gaudin R, Raisky O, Houyel L, Bonnet D. Outcomes after
+aortic coarctation repair in neonates weighing less than 2000g. Arch Pédiatrie . (2023)
+30(8):567–72. doi: 10.1016/j.arcped.2023.08.002
+33. Bacha EA, Almodovar M, Wessel DL, Zurakowski D, Mayer JE, Jonas RA, et al.
+Surgery for coarctation of the aorta in infants weighing less than 2 kg. Ann Thorac
+Surg. (2001) 71(4):1260 –4. doi: 10.1016/S0003-4975(00)02664-3
+34. Tulzer A, Mair R, Kreuzer M, Tulzer G. Outcome of aortic arch reconstruction
+in infants with coarctation: importance of operative approach. J Thorac Cardiovasc
+Surg. (2016) 152(6):1506 –1513.e1. doi: 10.1016/j.jtcvs.2016.08.029
+35. Lock JE, Bass JL, Amplatz K, Fuhrman BP, Castaneda-Zuniga W. Balloon
+dilation angioplasty of aortic coarctations in infants and children. Circulation.
+(1983) 68(1):109 –16. doi: 10.1161/01.CIR.68.1.109
+36. Garg G, Goyal N, Mandhan G, Sidana P. Transfemoral balloon angioplasty of
+severe coarctation of aorta in 1200 g newborn. Ann Pediatr Cardiol . (2017)
+10(1):95–6. doi: 10.4103/0974-2069.197047
+37. Bouzguenda I, Marini D, Ou P, Boudjemline Y, Bonnet D, Agnoletti G.
+Percutaneous treatment of neonatal aortic coarctation presenting with severe left
+ventricular dysfunction as a bridge to surgery. Cardiol Young . (2009) 19(03):244.
+doi: 10.1017/S1047951109003837
+38. Stout KK, Daniels CJ, Aboulhosn JA, Bozkurt B, Broberg CS, Colman JM, et al.
+2018 AHA/ACC guideline for the management of adults with congenital heart disease:
+a report of the American College of Cardiology/American Heart Association task force
+on clinical practice guidelines. J Am Coll Cardiol . (2019) 73(12):e81 –192. doi: 10.1016/
+j.jacc.2018.08.1029
+39. Baumgartner H, De Backer J, Babu-Narayan SV, Budts W, Chessa M, Diller GP,
+et al. 2020 ESC guidelines for the management of adult congenital heart disease. Eur
+Heart J . (2021) 42(6):563 –645. doi: 10.1093/eurheartj/ehaa554
+40. Forbes TJ, Kim DW, Du W, Turner DR, Holzer R, Amin Z, et al. Comparison of
+surgical, stent, and balloon angioplasty treatment of native coarctation of the aorta: an
+observational study by the CCISC (congenital cardiovascular interventional study
+consortium). J Am Coll Cardiol . (2011) 58(25):2664 –74. doi: 10.1016/j.jacc.2011.08.
+053
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 14 frontiersin.org
+[[p15]]
+41. Salcher M, Naci H, Law TJ, Kuehne T, Schubert S, Kelm M, et al. Balloon
+dilatation and stenting for aortic coarctation: a systematic review and meta-analysis.
+Circ Cardiovasc Interv . (2016) 9(6):e003153. doi: 10.1161/CIRCINTERVENTIONS.
+115.003153
+42. Castaldi B, Ciarmoli E, Di Candia A, Sirico D, Tarantini G, Scattolin F, et al.
+Safety and ef ﬁcacy of aortic coarctation stenting in children and adolescents. Int
+J Cardiol Congenit Heart Dis . (2022) 8:100389. doi: 10.1016/j.ijcchd.2022.100389
+43. Boe BA, Armstrong AK, Janse SA, Loccoh EC, Stockmaster K, Holzer RJ, et al.
+Percutaneous implantation of adult sized stents for coarctation of the aorta in children
+≤20 kg: a 12-year experience. Circ Cardiovasc Interv . (2021) 14(2):e009399. doi: 10.
+1161/CIRCINTERVENTIONS.120.009399
+44. Contrafouris C, Antonopoulos CN, Rammos S, Kanakis M, Petsios K, Kakisis
+JD, et al. Evaluating the effectiveness of stenting for aortic coarctation. Aorta
+Stamford Conn . (2022) 10(5):235 –41. doi: 10.1055/s-0042-1750097
+45. Cabrelle G, Milanesi O, Castaldi B. A case of AndraStent
+® fracture in a patient
+with aortic coarctation: a review of the literature. Cardiol Young. (2020) 30(7):1035 –8.
+doi: 10.1017/S1047951120001304
+46. Ou P, Celermajer DS, Raisky O, Jolivet O, Buyens F, Herment A, et al. Angular
+(gothic) aortic arch leads to enhanced systolic wave re ﬂection, central aortic stiffness,
+and increased left ventricular mass late after aortic coarctation repair: evaluation with
+magnetic resonance ﬂow mapping. J Thorac Cardiovasc Surg . (2008) 135(1):62 –8.
+doi: 10.1016/j.jtcvs.2007.03.059
+47. de Divitiis M, Rubba P, Calabrò R. Arterial hypertension and cardiovascular
+prognosis after successful repair of aortic coarctation: a clinical model for the study
+of vascular function. Nutr Metab Cardiovasc Dis NMCD . (2005) 15(5):382 –94.
+doi: 10.1016/j.numecd.2005.08.002
+48. Di Salvo G, Castaldi B, Baldini L, Gala S, del Gaizo F, D ’Andrea A, et al. Masked
+hypertension in young patients after successful aortic coarctation repair: impact on left
+ventricular geometry and function. J Hum Hypertens . (2011) 25(12):739 –45. doi: 10.
+1038/jhh.2010.118
+49. Markiewicz A, Wojczuk D, Kokot F, Cicha A. Plasms renin acitivity in
+coarctation of aorta before and after surgery. Heart. (1975) 37(7):721 –5. doi: 10.
+1136/hrt.37.7.721
+50. Goodall M, Sealy WC. Increased sympathetic nerve activity following resection
+of coarctation of the thoracic aorta. Circulation. (1969) 39(3):345 –51. doi: 10.1161/01.
+cir.39.3.345
+51. Canniffe C, Ou P, Walsh K, Bonnet D, Celermajer D. Hypertension after repair
+of aortic coarctation–a systematic review. Int J Cardiol. (2013) 167(6):2456 –61. doi: 10.
+1016/j.ijcard.2012.09.084
+52. Bhatt AB, Defaria Yeh D. Long-term outcomes in coarctation of the aorta: an
+evolving story of success and new challenges. Heart Br Card Soc . (2015)
+101(15):1173–5. doi: 10.1136/heartjnl-2015-307641
+53. Celermajer DS, Greaves K. Survivors of coarctation repair: ﬁxed but not cured.
+Heart Br Card Soc . (2002) 88(2):113 –4. doi: 10.1136/heart.88.2.113
+54. de Divitiis M, Pilla C, Kattenhorn M, Zadinello M, Donald A, Leeson P, et al.
+Vascular dysfunction after repair of coarctation of the aorta: impact of early
+surgery. Circulation. (2001) 104(12 Suppl 1):I165 –170. doi: 10.1161/hc37t1.094900
+55. Gardiner HM, Celermajer DS, Sorensen KE, Georgakopoulos D, Robinson J,
+Thomas O, et al. Arterial reactivity is signi ﬁcantly impaired in normotensive young
+adults after successful repair of aortic coarctation in childhood. Circulation. (1994)
+89(4):1745–50. doi: 10.1161/01.CIR.89.4.1745
+56. Thiene G, Rizzo S, Basso C. Bicuspid aortic valve: the most frequent and not so
+benign congenital heart disease. Cardiovasc Pathol Off J Soc Cardiovasc Pathol . (2024)
+70:107604. doi: 10.1016/j.carpath.2024.107604
+57. Di Salvo G, Pacileo G, del Giudice EM, Rea A, Natale F, Castaldi B, et al. Obesity
+in children and hypertension. G Ital Cardiol . (2008) 9(6):394 –401.
+58. Martins JD, Zachariah J, Selamet Tierney ES, Truong U, Morris SA, Kutty S,
+et al. Impact of treatment modality on vascular function in coarctation of the aorta:
+the LOVE — cOARCT study. J Am Heart Assoc . (2019) 8(7):e011536. doi: 10.1161/
+JAHA.118.011536
+59. Pieper T, Latus H, Schranz D, Kreuder J, Reich B, Gummel K, et al. Aortic
+elasticity after aortic coarctation relief: comparison of surgical and interventional
+therapy by cardiovascular magnetic resonance imaging. BMC Cardiovasc Disord .
+(2019) 19(1):286. doi: 10.1186/s12872-019-01270-w
+60. Walhout RJ, Lekkerkerker JC, Oron GH, Hitchcock FJ, Meijboom EJ, Bennink
+GBWE. Comparison of polytetra ﬂuoroethylene patch aortoplasty and end-to-end
+anastomosis for coarctation of the aorta. J Thorac Cardiovasc Surg . (2003)
+126(2):521–8. doi: 10.1016/S0022-5223(03)00030-8
+61. Hacke C, Weisser B. Reference values for exercise systolic blood pressure in 12-
+to 17-year-old adolescents. Am J Hypertens . (2016) 29(6):747 –53. doi: 10.1093/ajh/
+hpv178
+62. Luitingh TL, Lee MGY, Jones B, Kowalski R, Weskamp Aguero S, Koleff J, et al.
+A cross-sectional study of the prevalence of exercise-induced hypertension in
+childhood following repair of coarctation of the aorta. Heart Lung Circ . (2019)
+28(5):792–9. doi: 10.1016/j.hlc.2018.03.015
+63. O’Sullivan J. Late hypertension in patients with repaired aortic coarctation. Curr
+Hypertens Rep . (2014) 16(3):421. doi: 10.1007/s11906-014-0421-4
+64. Egbe AC, Miranda WR, Jain CC, Borlaug BA, Connolly HM. Prognostic
+implications of exercise-induced hypertension in adults with repaired coarctation of
+aorta. Hypertens Dallas Tex . (2022) 79(12):2796 –805. doi: 10.1161/
+HYPERTENSIONAHA.122.19735
+65. Yogeswaran V, Connolly HM, Al-Otaibi M, Ammash NM, Warnes CA, Said SM,
+et al. Prognostic role of hypertensive response to exercise in patients with repaired
+coarctation of aorta. Can J Cardiol . (2018) 34(5):676 –82. doi: 10.1016/j.cjca.2018.02.
+004
+66. Buys R, Van De Bruaene A, Müller J, Hager A, Khambadkone S, Giardini A,
+et al. Usefulness of cardiopulmonary exercise testing to predict the development of
+arterial hypertension in adult patients with repaired isolated coarctation of the
+aorta. Int J Cardiol . (2013) 168(3):2037 –41. doi: 10.1016/j.ijcard.2013.01.171
+67. Luijendijk P, Bouma BJ, Vriend JWJ, Vliegen HW, Groenink M, Mulder BJM.
+Usefulness of exercise-induced hypertension as predictor of chronic hypertension in
+adults after operative therapy for aortic isthmic coarctation in childhood. Am
+J Cardiol . (2011) 108(3):435 –9. doi: 10.1016/j.amjcard.2011.03.063
+68. McEvoy JW, McCarthy CP, Bruno RM, Brouwers S, Canavan MD, Ceconi C,
+et al. 2024 ESC guidelines for the management of elevated blood pressure and
+hypertension. Eur Heart J . (2024) 45(38):3912 –4018. doi: 10.1093/eurheartj/ehae178
+69. Goudar SP, Shah SS, Shirali GS. Echocardiography of coarctation of the aorta,
+aortic arch hypoplasia, and arch interruption: strategies for evaluation of the aortic
+arch. Cardiol Young . (2016) 26(8):1553 –62. doi: 10.1017/S1047951116001670
+70. Dijkema EJ, Leiner T, Grotenhuis HB. Diagnosis, imaging and clinical
+management of aortic coarctation. Heart. (2017) 103(15):1148 –55. doi: 10.1136/
+heartjnl-2017-311173
+71. Apithanung L, Sethasathien S, Silvilairat S, Sittiwangkul R, Makonkawkeyoon K,
+Saengsin K, et al. Correlation between pressure gradient from echocardiography and
+peak-to-peak pressure gradient from cardiac catheterization or surgery in patients
+with coarctation of aorta. Int J Cardiovasc Imaging . (2024) 40(6):1193 –200. doi: 10.
+1007/s10554-024-03086-y
+72. Jashari H, Rydberg A, Ibrahimi P, Bajraktari G, Henein MY. Left ventricular
+response to pressure afterload in children: aortic stenosis and coarctation: a
+systematic review of the current evidence. Int J Cardiol . (2015) 178:203 –9. doi: 10.
+1016/j.ijcard.2014.10.089
+73. Sabatino J, De Rosa S, Leo I, Strangio A, La Bella S, Sorrentino S, et al. Early
+reduction of left atrial function predicts adverse clinical outcomes in patients with
+severe aortic stenosis undergoing transcatheter aortic valve replacement. Open
+Heart. (2021) 8(2):e001685. doi: 10.1136/openhrt-2021-001685
+74. Egbe AC, Miranda WR, Oh JK, Connolly HM. Prognostic implications of left
+heart diastolic dysfunction in adults with coarctation of aorta. Eur Heart J —
+Cardiovasc Imaging . (2021) 22(11):1332 –40. doi: 10.1093/ehjci/jeab165
+75. Lombardi KC, Northrup V, McNamara RL, Sugeng L, Weismann CG. Aortic stiffness
+and left ventricular diastolic function in children following early repair of aortic coarctation.
+Am J Cardiol. (2013) 112(11):1828–33. doi: 10.1016/j.amjcard.2013.07.052
+76. Egbe AC, Qureshi MY, Connolly HM. Determinants of left ventricular diastolic
+function and exertional symptoms in adults with coarctation of aorta. Circ Heart Fail .
+(2020) 13(2):e006651. doi: 10.1161/CIRCHEARTFAILURE.119.006651
+77. Labombarda F, Bonopéra M, Maragnes P, Milliez P, Manrique A, Beygui F.
+Impaired left atrial function in adults and adolescents with corrected aortic
+coarctation. Pediatr Cardiol . (2021) 42(1):199 –209. doi: 10.1007/s00246-020-02471-3
+78. di Salvo G, Pacileo G, Limongelli G, Verrengia M, Rea A, Santoro G, et al.
+Abnormal regional myocardial deformation properties and increased aortic stiffness
+in normotensive patients with aortic coarctation despite successful correction: an
+ABPM, standard echocardiography and strain rate imaging study. Clin Sci Lond
+Engl. (2007) 113(5):259 –66. doi: 10.1042/CS20070085
+79. De Simone G, Daniels SR, Devereux RB, Meyer RA, Roman MJ, De Divitiis O,
+et al. Left ventricular mass and body size in normotensive children and adults:
+assessment of allometric relations and impact of overweight. J Am Coll Cardiol .
+(1992) 20(5):1251 –60. doi: 10.1016/0735-1097(92)90385-Z
+80. Menting ME, van Grootel RWJ, van den Bosch AE, Eindhoven JA, McGhie JS,
+Cuypers JAAE, et al. Quantitative assessment of systolic left ventricular function with
+speckle-tracking echocardiography in adult patients with repaired aortic coarctation.
+Int J Cardiovasc Imaging . (2016) 32(5):777 –87. doi: 10.1007/s10554-016-0838-8
+81. Narayanan A, Aurigemma GP, Chinali M, Hill JC, Meyer TE, Tighe DA. Cardiac
+mechanics in mild hypertensive heart disease: a speckle-strain imaging study. Circ
+Cardiovasc Imaging . (2009) 2(5):382 –90. doi: 10.1161/CIRCIMAGING.108.811620
+82. Sutherland GR, Di Salvo G, Claus P, D ’hooge J, Bijnens B. Strain and strain rate
+imaging: a new clinical approach to quantifying regional myocardial function. JA m
+Soc Echocardiogr Off Publ Am Soc Echocardiogr . (2004) 17(7):788 –802. doi: 10.
+1016/j.echo.2004.03.027
+83. Bocelli A, Favilli S, Pollini I, Bini RM, Ballo P, Chiappa E, et al. Prevalence and
+long-term predictors of left ventricular hypertrophy, late hypertension, and
+hypertensive response to exercise after successful aortic coarctation repair. Pediatr
+Cardiol. (2013) 34(3):620 –9. doi: 10.1007/s00246-012-0508-0
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 15 frontiersin.org
+[[p16]]
+84. Grossman E. Ambulatory blood pressure monitoring in the diagnosis and
+management of hypertension. Diabetes Care . (2013) 36(Supplement_2):S307 –11.
+doi: 10.2337/dcS13-2039
+85. Head GA, McGrath BP, Mihailidou AS, Nelson MR, Schlaich MP, Stowasser M,
+et al. Ambulatory blood pressure monitoring in Australia: 2011 consensus position
+statement. J Hypertens . (2012) 30(2):253 –66. doi: 10.1097/HJH.0b013e32834de621
+86. Staessen JA, Byttebier G, Buntinx F, Celis H, O ’Brien ET, Fagard R.
+Antihypertensive treatment based on conventional or ambulatory blood pressure
+measurement. A randomized controlled trial. Ambulatory blood pressure
+monitoring and treatment of hypertension investigators. JAMA. (1997)
+278(13):1065–72. doi: 10.1001/jama.1997.03550130039034
+87. Cribbs MG. Coarctation: a review. US Cardiol Rev . (2020) 13(2):99 –104. doi: 10.
+15420/usc.2019.15.2
+88. Karaosmanoglu AD, Khawaja RDA, Onur MR, Kalra MK. CT and MRI of aortic
+coarctation: pre- and postsurgical ﬁndings. Am J Roentgenol . (2015) 204(3):W224 –33.
+doi: 10.2214/AJR.14.12529
+89. Nie P, Wang X, Cheng Z, Duan Y, Ji X, Chen J, et al. The value of low-dose
+prospective ECG-gated dual-source CT angiography in the diagnosis of coarctation
+of the aorta in infants and children. Clin Radiol . (2012) 67(8):738 –45. doi: 10.1016/
+j.crad.2011.12.007
+90. Luijendijk P, Bouma BJ, Vriend JWJ, Groenink M, Vliegen HW, de Groot E,
+et al. Bene ﬁcial effect of high dose statins on the vascular wall in patients with
+repaired aortic coarctation? Int J Cardiol . (2014) 176(1):40 –7. doi: 10.1016/j.ijcard.
+2014.06.016
+91. Brili S, Tousoulis D, Antonopoulos AS, Antoniades C, Hatzis G, Bakogiannis C,
+et al. Effects of atorvastatin on endothelial function and the expression of
+proinﬂammatory cytokines and adhesion molecules in young subjects with
+successfully repaired coarctation of aorta. Heart Br Card Soc . (2012) 98(4):325 –9.
+doi: 10.1136/heartjnl-2011-300287
+92. Brili S, Tousoulis D, Antoniades C, Vasiliadou C, Karali M, Papageorgiou N,
+et al. Effects of ramipril on endothelial function and the expression of
+proinﬂammatory cytokines and adhesion molecules in young normotensive subjects
+with successfully repaired coarctation of aorta: a randomized cross-over study. JA m
+Coll Cardiol . (2008) 51(7):742 –9. doi: 10.1016/j.jacc.2007.10.036
+93. Roeleveld PP, Zwijsen EG. Treatment strategies for paradoxical
+hypertension following surgical correction of coarctation of the aorta in
+children. World J Pediatr Congenit Heart Surg . (2017) 8(3):321 –31. doi: 10.1177/
+2150135117690104
+94. Tabbutt S, Nicolson SC, Adamson PC, Zhang X, Hoffman ML, Wells W, et al.
+The safety, ef ﬁcacy, and pharmacokinetics of esmolol for blood pressure control
+immediately after repair of coarctation of the aorta in infants and children: a
+multicenter, double-blind, randomized trial. J Thorac Cardiovasc Surg . (2008)
+136(2):321–8. doi: 10.1016/j.jtcvs.2007.09.086
+95. Dittrich S, Germanakis J, Dittrich H, Daehnert I, Ewert P, Aleximeskishvili V,
+et al. Comparison of sodium nitroprusside versus esmolol for the treatment of
+hypertension following repair of coarctation of the aorta. Interact Cardiovasc Thorac
+Surg. (2003) 2(2):111 –
+5. doi: 10.1016/S1569-9293(02)00115-9
+96. Siersma C, Brouwer CNM, Sojak V, Ten Harkel ADJ, Roeleveld PP. Treatment of
+post-coarctectomy hypertension with labetalol-A 9-year single-center experience.World
+J Pediatr Congenit Heart Surg. (2022) 13(6):701–6. doi: 10.1177/21501351221111797
+97. Ammar AS, Mahmoud KM, Kasemy ZA, Helwa MA. Cardiac and renal
+protective effects of dexmedetomidine in cardiac surgeries: a randomized controlled
+trial. Saudi J Anaesth . (2016) 10(4):395 –401. doi: 10.4103/1658-354X.177340
+98. Mukhtar AM, Obayah EM, Hassona AM. The use of dexmedetomidine in
+pediatric cardiac surgery. Anesth Analg . (2006) 103(1):52 –6. doi: 10.1213/01.ane.
+0000217204.92904.76
+99. Soliman R, Zohry G. The myocardial protective effect of dexmedetomidine in high-
+risk patients undergoing aortic vascular surgery.Ann Card Anaesth. (2016) 19(4):606–13.
+doi: 10.4103/0971-9784.191570
+100. Soliman R, Saad D. Assessment the effect of dexmedetomidine on incidence of
+paradoxical hypertension after surgical repair of aortic coarctation in pediatric
+patients. Ann Card Anaesth . (2018) 21(1):26 –33. doi: 10.4103/aca.ACA_23_17
+101. De Simone G, Mancusi C, Hanssen H, Genovesi S, Lurbe E, Parati G, et al.
+Hypertension in children and adolescents. Eur Heart J . (2022) 43(35):3290 –301.
+doi: 10.1093/eurheartj/ehac328
+102. Batisky DL, Sorof JM, Sugg J, Llewellyn M, Klibaner M, Hainer JW, et al. Ef ﬁcacy
+and safety of extended release metoprolol succinate in hypertensive children 6 to 16 years
+of age: a clinical trial experience.J Pediatr. (2007) 150(2):134–139.e1. doi: 10.1016/j.jpeds.
+2006.09.034
+103. Gidding SS, Rocchini AP, Beekman R, Szpunar CA, Moorehead C, Behrendt D,
+et al. Therapeutic effect of propranolol on paradoxical hypertension after repair of
+coarctation of the aorta. N Engl J Med . (1985) 312(19):1224 –8. doi: 10.1056/
+NEJM198505093121904
+104. Leenen FH, Balfe JA, Pelech AN, Barker GA, Balfe JW, Olley PM. Postoperative
+hypertension after repair of coarctation of aorta in children: protective effect of
+propranolol? Am Heart J . (1987) 113(5):1164 –73. doi: 10.1016/0002-8703(87)90930-6
+105. Nakagawa TA, Sartori SC, Morris A, Schneider DS. Intravenous nicardipine for
+treatment of postcoarctectomy hypertension in children. Pediatr Cardiol . (2004)
+25(1):26–30. doi: 10.1007/s00246-003-0497-0
+106. Moffett BS, Penny DJ. Variability in treatment of post-coarctectomy
+hypertension: a multicenter study. Pediatr Cardiol . (2016) 37(4):772 –7. doi: 10.
+1007/s00246-016-1349-z
+107. Di Salvo G, Castaldi B, Gala S, Baldini L, Del Gaizo F, D ’Aiello FA, et al.
+Atenolol vs enalapril in young hypertensive patients after successful repair of aortic
+coarctation. J Hum Hypertens . (2016) 30(6):363 –7. doi: 10.1038/jhh.2015.87
+108. Moltzer E, Mattace Raso FUS, Karamermer Y, Boersma E, Webb GD, Simoons
+ML, et al. Comparison of candesartan versus metoprolol for treatment of systemic
+hypertension after repaired aortic coarctation. Am J Cardiol . (2010) 105(2):217 –22.
+doi: 10.1016/j.amjcard.2009.08.674
+109. Chaturvedi S, Lipszyc DH, Licht C, Craig JC, Parekh R. Pharmacological
+interventions for hypertension in children. Cochrane Database Syst Rev . (2014) 9(2):
+CD008117. doi: 10.1002/14651858.CD008117.pub2
+Ye et al. 10.3389/fcvm.2025.1505269
+Frontiers in Cardiovascular Medicine 16 frontiersin.org

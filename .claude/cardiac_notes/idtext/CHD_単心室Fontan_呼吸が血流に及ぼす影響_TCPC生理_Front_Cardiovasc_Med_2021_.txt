@@ -1,0 +1,1086 @@
+
+[[p1]]
+REVIEW
+published: 05 August 2021
+doi: 10.3389/fcvm.2021.683849
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 1 August 2021 | Volume 8 | Article 683849
+Edited by:
+Yves D’Udekem,
+Children’s National Hospital,
+United States
+Reviewed by:
+Sezen Ugan Atik,
+Mehmet Akif Ersoy Thoracic and
+Cardiovascular Surgery Training and
+Research Hospital, Turkey
+Joris Lemson,
+Radboud University
+Nijmegen, Netherlands
+*Correspondence:
+Friso M. Rijnberg
+f.m.rijnberg@lumc.nl
+†These authors share ﬁrst authorship
+Specialty section:
+This article was submitted to
+Pediatric Cardiology,
+a section of the journal
+Frontiers in Cardiovascular Medicine
+Received: 22 March 2021
+Accepted: 05 July 2021
+Published: 05 August 2021
+Citation:
+van der Woude SFS, Rijnberg FM,
+Hazekamp MG, Jongbloed MRM,
+Kenjeres S, Lamb HJ,
+Westenberg JJM, Roest AAW and
+Wentzel JJ (2021) The Inﬂuence of
+Respiration on Blood Flow in the
+Fontan Circulation: Insights for
+Imaging-Based Clinical Evaluation of
+the Total Cavopulmonary Connection.
+Front. Cardiovasc. Med. 8:683849.
+doi: 10.3389/fcvm.2021.683849
+The Inﬂuence of Respiration on
+Blood Flow in the Fontan Circulation:
+Insights for Imaging-Based Clinical
+Evaluation of the T otal
+Cavopulmonary Connection
+Séline F . S. van der Woude 1†, Friso M. Rijnberg 2*†, Mark G. Hazekamp 2,
+Monique R. M. Jongbloed 3, Sasa Kenjeres 4, Hildo J. Lamb 5, Jos J. M. Westenberg 5,
+Arno A. W. Roest 6 and Jolanda J. Wentzel 1
+1 Department of Cardiology, Biomedical Engineering, Biomec hanics Laboratory, Rotterdam, Netherlands, 2 Department of
+Cardiothoracic Surgery, Leiden University Medical Center , Leiden, Netherlands, 3 Department of Anatomy, Embryology and
+Cardiology, Leiden University Medical Center, Leiden, Net herlands, 4 Department of Chemical Engineering, Faculty of Applied
+Sciences, Delft University of Technology and J. M. Burgersc entrum Research School for Fluid Mechanics, Delft, Netherl ands,
+5 Department of Radiology, Leiden University Medical Center , Leiden, Netherlands, 6 Department of Pediatric Cardiology,
+Leiden University Medical Center, Leiden, Netherlands
+Congenital heart disease is the most common birth defect and functionally univentricular
+heart defects represent the most severe end of this spectrum . The Fontan circulation
+provides an unique solution for single ventricle patients, by connecting both caval veins
+directly to the pulmonary arteries. As a result, the pulmona ry circulation in Fontan
+palliated patients is characterized by a passive, low-ener gy circulation that depends on
+increased systemic venous pressure to drive blood toward th e lungs. The absence of a
+subpulmonary ventricle led to the widely believed concept t hat respiration, by sucking
+blood to the pulmonary circulation during inspiration, is o f great importance as a driving
+force for antegrade blood ﬂow in Fontan patients. However, r ecent studies show that
+respiration inﬂuences pulsatility, but has a limited effec t on net forward ﬂow in the Fontan
+circulation. Importantly, since MRI examination is recomm ended every 2 years in Fontan
+patients, clinicians should be aware that most conventiona l MRI ﬂow sequences do not
+capture the pulsatility of the blood ﬂow as a result of the res piration. In this review, the
+unique ﬂow dynamics inﬂuenced by the cardiac and respiratory cycle at multiple locations
+within the Fontan circulation is discussed. The impact of (n ot) incorporating respiration
+in different MRI ﬂow sequences on the interpretation of clin ical ﬂow parameters will be
+covered. Finally, the inﬂuence of incorporating respiration in advanced computational ﬂuid
+dynamic modeling will be outlined.
+Keywords: Fontan, total cavopulmonary connection, respira tion - physiology, ﬂow imaging, MRI, hepatic veins,
+blood ﬂow, extracardiac conduit Fontan
+[[p2]]
+van der Woude et al. Respiration and Fontan Blood Flow
+INTRODUCTION
+Congenital heart disease is the most common birth defect wit h
+an estimated incidence of 1 in 100 live births (
+1). Functionally
+univentricular heart defects represent the most severe end o f
+the spectrum of congenital heart disease, characterized by a
+severely underdeveloped ventricle that is unable to drive th e
+systemic or pulmonary circulation. Many underlying diagnos es
+can be present, including patients with an underdeveloped
+right ventricle (e.g., tricuspid atresia) or an underdevelo ped left
+ventricle (e.g., hypoplastic left heart syndrome). The Fonta n
+operation is the palliative treatment of choice for single vent ricle
+patients, by connecting both caval veins directly to the pulmonary
+arteries (PAs), also called the total cavopulmonary connecti on
+(TCPC) (
+2). Via this procedure, the venous inﬂow connections
+to the heart are rerouted, excluding the hypoplastic ventricl e
+from the circulation, whereas the other ventricle will serve as
+systemic ventricle. Without the interposition of a subpulmon ary
+ventricle, the pulmonary circulation in Fontan patients is a l ow-
+energy, passive circulation that is dependent on elevated systemic
+venous pressure to drive pulmonary blood ﬂow toward the
+single ventricle. The Fontan circulation is thus character ized by
+chronically elevated central venous pressure with reduced cardiac
+output due to chronic preload deprivation of the single ventricl e
+(
+3). Although the Fontan circulation has led to survival into
+adulthood >90%, signiﬁcant morbidity is present including a
+reduced quality of life, exercise capacity and the occurrenc e of
+liver ﬁbrosis/cirrhosis or protein losing enteropathy ( 4).
+Because of the vulnerable state of the Fontan physiology and
+its dependence on favorable hemodynamics, regular evaluati on
+of ﬂow within the Fontan circulation is recommended for
+early detection of (subclinical) complications (
+4). Currently,
+echocardiography and magnetic resonance imaging (MRI) are
+the imaging modalities of choice to evaluate TCPC ﬂow, but
+diﬀerently incorporate the eﬀect of respiration on ﬂow rates.
+Since respiration importantly inﬂuences TCPC ﬂow (
+5–7),
+knowledge about the eﬀect of respiration on blood ﬂow and
+how ﬂow measurements and ﬂow-related clinical parameters ar e
+aﬀected by diﬀerent MRI protocols is therefore important for
+clinicians taking care of Fontan patients.
+In this review, blood ﬂow characteristics as inﬂuenced by th e
+cardiac and respiratory cycle at multiple locations within th e
+TCPC are discussed. The eﬀect of not/partially incorporating
+the inﬂuence of the respiratory cycle in conventional MRI
+ﬂow imaging will be described. Finally, the importance of
+including respiration-resolved ﬂow measurements in advanc ed
+computational ﬂuid dynamic (CFD) modeling of TCPC
+hemodynamics (e.g., wall shear stress, energy loss) is outl ined.
+THE TOTAL CAVOPULMONARY
+CONNECTION: DEFINITION OF THE
+DIFFERENT VESSELS
+Nowadays, the Fontan circulation is created using two
+techniques. The lateral tunnel technique connects the IVC
+to the PA via an intra-atrial patch (thus including part of the
+right atrium in the Fontan tunnel) (
+2). The extracardiac conduit
+technique ( 8) connects the IVC with the PA via a rigid Goretex
+conduit outside the heart. Conventionally, the term “TCPC” i s
+considered to cover the area consisting of the Fontan tunnel
+(both the lateral tunnel and extracardiac conduit techniqu e,
+above the entry of the HVs), the SVC, and both right- and
+left PAs. Thus, most papers use the terminology “IVC” when
+assessing ﬂow in the Fontan tunnel (
+9–11). In this review, as
+depicted in Figure 1, the term “IVC” is used for the subhepatic
+IVC (below the entry of the HVs), and “Fontan tunnel” for the
+suprahepatic IVC (above the entry of the HVs) to make a clear
+distinction between these locations within the TCPC.
+PHYSIOLOGY OF TCPC FLOW
+In the normal biventricular circulation, systemic venous re turn
+toward the right atrium is determined by the ratio of the pressure
+gradient between (
+PH????ﬁ??
+right atrial pressure and ( 2) the venous vascular resistance ( 12).
+Consequently, a change in one of these parameters is needed
+to aﬀect venous return and, as a consequence of the Frank-
+Starling mechanism, thereby aﬀects preload leading to altered
+cardiac output. For example, factors that increase systemic ﬁ lling
+pressure (e.g., augmented blood volume or vasomotor tone) ca n
+alter systemic venous return by increasing the pressure grad ient
+promoting venous return (
+12, 13).
+In the Fontan circulation, systemic venous return and thus
+pulmonary blood ﬂow to the single ventricle is therefore
+determined by the ratio of (
+PH????
+the mean systemic ﬁlling pressure and the atrium, and ( 2) the
+venous vascular resistance and the total resistance in the Fo ntan
+circuit, constituting of the serial TCPC resistance and pulmonary
+vascular resistance ( 3, 14). In general, four components have
+been described in literature that can aﬀect ﬂow rates in the
+TCPC, including alterations in blood ﬂow along the cardiac c ycle
+(
+15), the respiratory cycle, ﬂow alterations because of periphera l
+muscular pump activity during lower-leg exercise ( 14, 16), and
+by gravitational forces, leading to decreased inferior sys temic
+venous ﬂow rates at the upright vs. the supine position ( 17).
+All these factors inﬂuence TCPC ﬂow by altering the venous
+pressure gradient from the systemic veins toward the atrium. For
+example, central venous pressure has been shown to be raised
+to 20–30 mmHg during lower-leg exercise by the contribution
+of the peripheral muscle pump, thereby eﬀectively raising the
+pressure gradient and thus pulmonary blood ﬂow in Fontan
+patients (
+3, 18).
+Unique to the Fontan circulation where the systemic venous
+return and pulmonary circulation are fully bypassed from the
+single ventricle, only minor alterations in blood ﬂow occur a long
+the cardiac cycle, with in general increased ﬂow during syst ole
+and early diastole (early ﬁlling), with decreased ﬂow during la te
+diastole (atrial contraction) (
+15). In Fontan patients, however,
+the eﬀect of respiration on venous return and pulmonary blood
+ﬂow pulsatility is much more pronounced. This is predominantly
+caused by a change in intrathoracic pressures (i.e., intraple ural
+and pericardial pressures), leading to a change in atrial pressures,
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 2 August 2021 | Volume 8 | Article 683849
+[[p3]]
+van der Woude et al. Respiration and Fontan Blood Flow
+FIGURE 1 | A schematic representation of the TCPC is shown. In this examp le, an extracardiac conduit Fontan circulation is shown. Th e IVC represents the part
+inferior to the entry of the hepatic veins. The suprahepatic part of the IVC is indicated as the Fontan tunnel, representin g either the extracardiac conduit or lateral
+intraatrial tunnel.
+and a change in abdominal pressure, thereby eﬀectively changin g
+the pressure gradient from the inferior vena cava and hepatic
+veins, via the pulmonary arteries and pulmonary vascular bed, to
+the atrium. For this reason, mechanical ventilation using posi tive
+end-expiratory pressure has been shown to reduce cardiac output
+in Fontan patients (
+19), with signiﬁcantly increased pulmonary
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 3 August 2021 | Volume 8 | Article 683849
+[[p4]]
+van der Woude et al. Respiration and Fontan Blood Flow
+blood ﬂow and cardiac output when negative pressure ventilation
+is applied ( 19, 20). Additionally, it also explains reduced
+caval ﬂow rates during the V alsalva maneuver, as increased
+intrathoracic pressures during V alsalva lead to a decreased
+pressure gradient and thus venous return (
+21).
+Of note, it is currently not known if changes in PVR during
+respiration also have eﬀect on the change in blood ﬂow during
+respiration. In healthy persons, PVR is lowest around functio nal
+residual capacity, with an increase in PVR at total lung capaci ty
+or residual volume (
+22). To date, no studies have studied possible
+changes in PVR during normal respiration in Fontan patients.
+The minor eﬀect of the cardiac cycle on blood ﬂow pulsatility
+is in contrast to a normal biventricular circulation, where a rise
+in pulmonary artery pressure during systole results in signiﬁ cant
+pulmonary blood ﬂow alterations during the cardiac cycle, wi th
+a much less pronounced inﬂuence of respiration. Because of its
+relevance to blood ﬂow imaging, ﬂow dynamics along the cardi ac
+and respiratory cycle are the subject of this review.
+IMAGING MODALITIES FOR ASSESSMENT
+OF TCPC BLOOD FLOW ALONG CARDIAC
+AND RESPIRATORY CYCLE
+Doppler Echocardiography
+Doppler echocardiography allows for real-time measurement
+of one-directional blood ﬂow velocity along the direction o f
+the ultrasound beam. Simultaneous recording of the respirat ory
+and electrocardiography (ECG) signal provides insight into t he
+timing of the velocity measurements with respect to the cardi ac
+and respiratory cycle.
+Phase Contrast-MRI
+Flow quantiﬁcation using phase contrast MRI (PC-MRI) is based
+on the fact that changes in the phase of the MR signal along a
+magnetic ﬁeld gradient are proportional to the velocity of the
+blood ﬂow (
+23). Subsequently, ﬂow rates can be calculated by
+multiplying the mean velocity over a cross section with the ve ssel
+cross-sectional area. For most PC-MRI techniques, however,
+the time to acquire these phase (i.e., velocity) images excee ds
+the length of a single heartbeat. Therefore, to obtain dynam ic
+ﬂow information along an entire cardiac cycle, it requires d ata
+acquisition over multiple heartbeats, gated to the ECG signa l
+(ECG-gating). Subsequently, the data from multiple heartbe ats
+is synchronized and retrospectively reconstructed into one single
+cardiac cycle. Importantly, ﬂow imaging using ECG-gating wi ll
+therefore not take respiratory eﬀects on ﬂow rates into account, as
+data from multiple diﬀerent heartbeats are acquired irrespect ive
+of the phase of the respiratory cycle.
+Respiratory Motion Compensation
+PC-MRI can be performed under breath hold (2D ﬂow MRI
+only) or free-breathing conditions. Since breathing motio n
+can lead to image artifacts with poor image quality, PC-MRI
+acquired during free-breathing usually requires some form
+of respiratory movement compensation. Most commonly, a
+respiratory abdominal belt or navigator is used to track the
+level of the diaphragm. Only data acquired within a predeﬁned
+range around the end-expiratory diaphragm position is accepted
+to minimize breathing artifacts. Thus, only ﬂow data acquir ed
+around the end-expiratory phase of the respiratory cycle will
+be captured when a respiratory navigator is used, similar to
+the breath-hold condition (
+24). Knowledge about the eﬀect of
+respiration on blood ﬂow and how ﬂow measurements and ﬂow-
+related clinical parameters are aﬀected by the diﬀerent PC-MRI
+sequences and respiratory compensation strategies is theref ore
+important for clinicians taking care of Fontan patients.
+Currently, multiple PC-MRI sequences are used that are
+mainly focused on ﬂow dynamics during the cardiac cycle with
+variable degrees of incorporation of the respiratory componen t.
+2D Flow MRI
+2D ﬂow MRI obtains ECG-gated, one-directional (through-
+plane) velocity at a predeﬁned 2D plane at a vessel of interest, and
+is the current clinical standard for ﬂow quantiﬁcation (
+25). Scan
+durations are in the order of 10–15 s. 2D ﬂow can be acquired
+using free-breathing, with or without respiratory motion
+compensation, or under breath-hold conditions. Thus, 2D ﬂow
+MRI does not capture respiration induced ﬂow variations.
+2D Real-Time Flow MRI
+Advances in MRI acquisition strategies nowadays allow for
+2D real-time (ungated) ﬂow acquisitions without the need fo r
+respiratory motion compensation, allowing for assessment of
+dynamic ﬂow variations (typical temporal resolution 15–20
+measurements per second) along both the cardiac and respiratory
+cycle (
+26). The respiratory and electrocardiography (ECG)
+signals are simultaneously recorded, allowing to synchron ize the
+timing of the ﬂow rate measurements with the phase of the
+cardiac and respiratory cycle.
+3D Flow MRI
+Recently, 3D ﬂow MRI has been introduced for assessment of
+ﬂow and ﬂow-related parameters in the TCPC in Fontan patients,
+exploiting the negligible TCPC blood ﬂow pulsatility along th e
+cardiac cycle (
+27). With 3D ﬂow MRI, three-directional velocities
+within a 3D volume of interest are acquired for a single, card iac-
+cycle averaged (no ECG-gating) phase. It allows for quantiﬁcation
+of cardiac-cycle averaged ﬂow rates and ﬂow related clinical
+parameters (e.g., pulmonary ﬂow distribution), within a 1.5 mi n
+scan. 3D ﬂow MRI does not incorporate the eﬀect of respiration
+on ﬂow characteristics (
+27).
+4D Flow MRI
+4D ﬂow MRI allows for the acquisition of ECG-gated (usually
+20–30 phases along the cardiac cycle), three-directional velocities
+within a 3D volume of interest. Flow rates can be retrospective ly
+quantiﬁed at any vessel of interest within the scanned volum e.
+Furthermore, it allows for visualization of three-dimensio nal
+ﬂow patterns within the TCPC and quantiﬁcation of advanced
+hemodynamic parameters (e.g., viscous energy loss rate).
+Scan durations are in the order of 8–16 min, depending
+on the application, sequence and use of respiratory motion
+compensation (
+28). Due to the long scan times, 4D ﬂow MRI
+can only be acquired using free-breathing with or without
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 4 August 2021 | Volume 8 | Article 683849
+[[p5]]
+van der Woude et al. Respiration and Fontan Blood Flow
+the use of respiratory motion compensation. Consequently,
+conventional 4D ﬂow MRI sequences do not incorporate the
+eﬀect of respiration on ﬂow dynamics.
+5D Flow MRI
+Most recently, 5D ﬂow MRI has been used to quantify blood
+ﬂow by obtaining ECG- and respiratory-gated, three-directi onal
+velocities within a 3D volume (i.e., 4D ﬂow MRI + respiratory-
+gating = 5D ﬂow MRI). 5D ﬂow MRI allows for obtaining
+cardiac-cycle resolved (ECG-gated) ﬂow information from d ata
+acquired in four diﬀerent respiration phases: inspiration, end -
+inspiration, expiration and end-expiration (
+29).
+THE INFLUENCE OF THE CARDIAC AND
+RESPIRATORY CYCLE ON NET FORWARD
+FLOW IN THE TCPC
+An important diﬀerentiation must be made between net forward
+ﬂow and ﬂow pulsatility within the TCPC. It is a common
+belief that part of the venous return in Fontan patients is
+dependent on energy provided by respiration (
+9, 17). Hsia et al.
+(17) used doppler echocardiography to deﬁne the percentage
+of respiration-dependent ﬂow as follows: Qinsp− Q exp
+Qinsp+ Qexp , where
+Qinsp and Q exp are the ﬂow rates during inspiration and
+expiration, respectively. Based on this parameter, ∼ 30, 14, and
+55% of Fontan tunnel ﬂow, subhepatic IVC and HV ﬂow
+is respiration-dependent, respectively (
+30). In comparison, in
+healthy controls respiration-dependent ﬂow in the subhepatic
+IVC, HVs, and suprahepatic IVC were 11, 25, and 15%,
+respectively. Therefore, it has been suggested that a signiﬁ cant
+percentage of speciﬁcally Fontan tunnel and HV net forward ﬂow
+is dependent on respiration as a driving force. However, although
+inspiration does actively increase ﬂow rates compared to breath-
+holding conditions due to a decrease in intrathoracic pressu re
+and atrial pressure augmenting the transpulmonary pressure
+gradient, it must be emphasized that expiration also leads to
+decreased ﬂow rates, thereby mostly countering the eﬀect of
+inspiration. Consequently, deﬁning the respiration-depende ncy
+of ﬂow using inspiration and expiration ﬂow rates is not ideal.
+In fact, respiration has only a signiﬁcant inﬂuence on the net
+forward ﬂow if the increased ﬂow volume during inspiration
+(i.e., inspiratory ﬂow rate ∗ duration of inspiration) outweighs
+the decreased ﬂow volume during expiration, compared to a
+breath-hold condition. Indeed, Wei et al. (
+11) demonstrated
+that respiration did not signiﬁcantly aﬀect net forward ﬂow
+rates (diﬀerence on average <0.1 L/min/m 2) by comparing
+2D real-time MRI acquired under both free-breathing and
+breath-hold conditions in the SVC, Fontan tunnel and aorta.
+Recently, Gabbert et al. also stressed the limited inﬂuence o f
+respiration on net forward ﬂow in the Fontan tunnel (
+7). In
+line with these ﬁndings, net forward ﬂow was not aﬀected
+by forced breathing conditions or after a 6 week inspiratory
+muscle training program (
+5, 31). Initiation of hyperventilation
+(representing the ventilatory pump) in addition to zero resistance
+exercise (representing the muscle pump) did also not result
+in signiﬁcantly higher blood ﬂow rates (
+16). Thus, it must be
+concluded that respiration is not an important driving force f or
+net forward ﬂow in the TCPC.
+THE INFLUENCE OF THE CARDIAC AND
+RESPIRATORY CYCLE ON BLOOD FLOW
+PULSATILITY IN THE TCPC
+However, these studies clearly showed a signiﬁcant increas e in
+pulsatility (ﬂow variations along the cardiac and/or respiratory
+cycle) caused by respiration, with high variability between the
+diﬀerent vessels of the TCPC (
+5, 7, 11). V arious parameters have
+been used to assess blood ﬂow pulsatility along the respirator y
+cycle, of which the inspiratory-to-expiratory ﬂow ratio (mean
+inspiratory ﬂow rate divided by mean expiratory ﬂow rate,
+Qinsp/Qexp) is most commonly used.
+Fontan tunnel ﬂow represents ∼ 65–70% of total systemic
+venous return (
+9, 32). Many studies consistently show the
+pronounced eﬀect of respiration on Fontan tunnel ﬂow rates ( 5,
+9–11, 30, 33), with a 70–90% higher ﬂow rate during inspiration
+compared to the entire respiratory cycle, signiﬁcantly more
+pronounced compared to a 20% increase observed in healthy
+controls (
+5, 9). Other studies demonstrate similar ﬁndings by
+reporting a Q insp/Qexp of 1.6–3.0 ( 11, 34, 35). By dividing
+2D real-time ﬂow MRI measurements of the Fontan tunnel
+into components along the respiratory and cardiac cycle, it
+was shown that respiration-derived pulsatility was 2.8-time s the
+pulsatility along the cardiac cycle. This was the opposite in
+healthy controls, where pulsatility along the cardiac cyclewas 2.5-
+times the pulsatility along the respiratory cycle at the level of the
+suprahepatic IVC ( Figure 2) (
+7). As opposed to its eﬀect on net
+forward ﬂow, normal and forced breathing signiﬁcantly increases
+blood ﬂow pulsatility in Fontan patients, further illustratin g that
+respiration rather than the cardiac cycle is the major contri butor
+of ﬂow pulsatility in the Fontan tunnel ( Figure 2) (5, 7, 11).
+The Fontan tunnel receives blood from both the subhepatic
+IVC and HVs, which contribute on average 62 and 38%,
+respectively, to total Fontan tunnel ﬂow (
+6, 17, 35–38). The
+study of ﬂow dynamics in this area is of great importance,
+as the splanchnic venous return plays an important role in
+the pathophysiology of liver cirrhosis and protein-losing
+enteropathy. Using (invasive) doppler echocardiography,
+Qinsp/Qexp in the subhepatic IVC was 1.3–1.6 (
+17, 35), not
+signiﬁcantly diﬀerent from healthy controls (Q insp/Qexp 1.2)
+(6, 17, 36, 37). Thus, respiration has a much less pronounced
+inﬂuence at the subhepatic IVC compared to the Fontan tunnel,
+indicating that most of the respiratory-derived pulsatilty i n the
+Fontan tunnel must be explained by the HV ﬂow contribution.
+Respiration indeed strongly inﬂuenced HV ﬂow in Fontan
+patients (Q insp/Qexp 2.9–4.4), signiﬁcantly higher compared to
+healthy controls (Qinsp/Qexp 1.7) (
+17, 35). The important increase
+in HV ﬂow during inspiration is explained by the liver acting
+as a reservoir of blood with high venous capacitance, from
+which both the increased extra- to intra-thoracic venous pressure
+gradient, as well as the direct pressure of the diaphragmatic
+descent on the liver, can draw blood toward the Fontan tunnel
+during inspiration (
+39). Presence of a fenestration was associated
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 5 August 2021 | Volume 8 | Article 683849
+[[p6]]
+van der Woude et al. Respiration and Fontan Blood Flow
+FIGURE 2 | Reproduced from Gabbert et al. ( 7) https://www.nature.com/articles/s41598-019-38848-5/ ﬁgures/2. This ﬁgure shows the blood ﬂow proﬁle in the
+suprahepatic IVC (healthy control, left image) and Fontan tu nnel (right image), separated along the respiratory and car diac cycle. Flow rates are indicated in color, with
+red indicating higher ﬂow rates and blue indicating lower/neg ative ﬂow rates. In healthy controls, pulsatility is almost ex clusively observed along the cardiac cycle with
+retrograde ﬂow observed during atrial contraction. In comple te contrast, in Fontan patients pulsatility is almost exclu sively observed along the respiratory cycle, with
+minimal or negative ﬂow rates observed during expiration and maximal ﬂow rates during inspiration. Along the cardiac cycl e, negligible pulsatility is present.
+with a signiﬁcantly higher inspiratory-to-expiratory fract ion; 4.4
+vs. 3.0 ( 36). Since central venous pressure is lowered by the
+presence of a fenestration between the Fontan tunnel and the
+atrium, the decreased afterload for HV ﬂow likely causes the
+increased ﬂow rates during inspiration. Importantly, plicati on of
+the diaphragm in Fontan patients with a diaphragm paresis does
+not fully restore normal respiratory mechanics, evidenced b y a
+signiﬁcantly smaller inspiratory-to-expiratory ratio of HV ﬂow;
+2.3 vs. 3.2 (
+37). However, respiration likely also does not aﬀect
+net forward HV ﬂow, in line with observations in the Fontan
+tunnel. This might explain why Fontan patients with a diaphragm
+paresis have similar cardiac index and exercise capacity compared
+to patients with a normal functioning diaphragm (
+40).
+Studies on the inﬂuence of respiration on SVC ﬂow,
+contributing ∼ 35% of total systemic venous return, have been
+conﬂicting (Q insp/Qexp 1.0–1.9) (5, 9, 11, 35). Wei et al. reported
+an inspiratory-to-expiratory ratio of 1.9 in the SVC, higher
+compared to the fraction of 1.6 they observed in the Fontan
+tunnel (
+11). This is in strong contrast to a previous study using
+2D real-time ﬂow MRI, which did not ﬁnd an eﬀect of breathing
+on SVC ﬂow rates, in line with observations in healthy contro ls
+(
+5, 9). It remains the question from which vascular region with
+high venous capacitance (analog to the HVs providing most of
+the pulsatility observed in the Fontan tunnel) blood would be
+drawn toward the SVC during inspiration.
+In normal subjects, aortic ﬂow rate or ventricular stroke
+volume only slightly increase during expiration and decreas es
+during inspiration, opposite to systemic venous return.
+Compared to mean aortic ﬂow rates, ﬂow rates are 0–6% higher
+at (end)-expiration and 1–6% lower at (end)-inspiration (
+5).
+A similar, modest eﬀect of respiration on aortic ﬂow has been
+observed in Fontan patients, ranging from a 7% increase durin g
+expiration, to a 4% decrease during inspiration (
+5, 9). Therefore,
+since systemic venous ﬂow (predominantly HV and Fontan
+tunnel ﬂow) rates are markedly raised during inspiration while
+aortic ﬂow rates are not, the pulmonary circulation and lungs act
+as a reservoir with a large inspiratory capacity, releasing bl ood
+toward the single ventricle during expiration (
+9). In contrast to
+the systemic venous part of the Fontan circulation, respirati on
+thus has a minimal inﬂuence on pulsatility in the aorta, which is
+primarily caused by the cardiac contraction. An example of ﬂow
+rates during free breathing and under breath-hold conditio ns in
+the subhepatic IVC, HVs, Fontan tunnel and aorta are shown
+in Figure 3. An overview of the inﬂuence of respiration on ﬂow
+rates and a schematic representation are presented in Table 1
+and Figure 4.
+Clinical Relevance of Pulsatility
+It is currently not known if respiratory derived pulsatility
+plays an important role in maintaining low pulmonary
+vascular resistance. The negligible blood ﬂow pulsatility al ong
+the cardiac cycle has been thought to negatively inﬂuence
+pulmonary vascular resistance and endothelial function
+in Fontan patients, by altering the passive recruitment of
+capillaries and shear stress-mediated nitric oxide release
+(
+41). In turn, the respiratory derived pulsatility in the
+Fontan tunnel is profoundly diﬀerent in amplitude and
+frequency compared to the cardiac pulsatility ( Figure 3B).
+Recently, no signiﬁcant diﬀerence was found in pulmonary
+vascular resistance between Fontan patients with or without
+diaphragm paresis, indicating that respiration derived
+pulsatility might not be important for healthy pulmonary
+vasculature (
+40).
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 6 August 2021 | Volume 8 | Article 683849
+[[p7]]
+van der Woude et al. Respiration and Fontan Blood Flow
+FIGURE 3 | 2D real-time ﬂow MRI measurements in the IVC, Fontan tunnel, SV C and aorta. 2D real-time ﬂow MRI measurements are shown under both free
+breathing (FB, blue line) and breath-hold (BH, red line) con ditions for the subhepatic IVC (A), Fontan tunnel (B), SVC (C), and ascending aorta (D). Under breath-hold
+conditions, negligible cardiac-cycle related pulsatilit y is present in all venous vessels due to the absence of a subpu lmonary ventricle in Fontan patients. During free
+breathing conditions, predominantly the Fontan tunnel ﬂow i s inﬂuenced by respiration, with a signiﬁcant augmentation of ﬂow rates during inspiration compared to
+expiration. Since the effect of respiration on subhepatic IV C ﬂow is only minimal, most respiratory pulsatility in the Fon tan tunnel originates from the hepatic veins. The
+inﬂuence of respiration on ﬂow rates in the SVC and aorta is also minimal, although studies have reported conﬂicting results regarding respiratory pulsatility in the SVC.
+TABLE 1 | Inﬂuence of respiration on blood ﬂow at multiple locations with in the Fontan circulation.
+Parameter Fontan Healthy
+Fontan
+tunnel
+Subhepatic
+IVC
+HV SVC Aorta Suprahepatic
+IVC
+Subhepatic
+IVC
+HV SVC Aorta
+Inspiratory-to-expiratory ﬂow ratio:
+Qinsp/Qexp
+1.6–3.0 1.3–1.6 2.9–4.4 1.0–1.9 1.2 1.7 1.2
+Inspiratory ﬂow fraction:
+Qinsp/Qavg
+1.7–1.9 – – – 0.96 1.2 – – – 0.94–0.99
+Respiratory-dependent ﬂow fraction:
+(Qinsp-Qexp)/(Qinsp+ Qexp)
+30% 14% 55% – – 15% 11% 25% – –
+IVC/SVC, inferior/superior vena cava; HV , hepatic veins; Q insp, inspiratory ﬂow rate; Q exp, expiratory ﬂow rate; Q avg, ﬂow rate during the entire respiratory cycle.
+Retrograde Flow
+While ﬂow rates increase during inspiration, ﬂow rates in the
+Fontan tunnel strongly decrease during expiration with poten tial
+back ﬂow during the early expiratory phase. On average, backﬂow
+represents ∼ 5–11% (range 0–30%) of mean forward ﬂow volume
+in the Fontan tunnel (
+7, 9, 10), reducing to only 2.9% under
+exercise conditions ( 9). Similar percentages are observed in the
+suprahepatic IVC in healthy controls with a mean backﬂow of
+6% (range 0–20%). Other studies used the retrograde-to-forw ard
+ﬂow rate ratio to express back ﬂow, but this parameter does not
+represent retrograde-to-antegrade ﬂow volume, as the duration of
+antegrade and retrograde ﬂow are not taken into account. In t he
+subhepatic IVC and HVs, a retrograde-to-forward ﬂow rate rat io
+of 0.06–0.07 and 0.27, respectively, were observed (
+17, 34, 36).
+Importantly, backﬂow is also observed in healthy persons as a
+result of the atrial contraction and is not related to respira tion,
+while backﬂow in Fontan patients is related to the expiratory
+phase (
+7, 38). Retrograde ﬂow is usually negligible in the SVC,
+accounting for only 0–1% of mean forward ﬂow volume ( 9).
+THE INFLUENCE OF RESPIRATION ON
+BLOOD FLOW DURING EXERCISE
+Currently, the inﬂuence of respiration on ﬂow rates under
+exercise conditions in Fontan patients has only been investi gated
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 7 August 2021 | Volume 8 | Article 683849
+[[p8]]
+van der Woude et al. Respiration and Fontan Blood Flow
+FIGURE 4 | Schematic representation of the inﬂuence of respiration on ﬂo w rates in the TCPC and aorta. A schematic representation of ﬂo w rates in the TCPC and
+aorta is shown during inspiration (left image) and expirati on (right image). Arrows are color-coded by the change in ﬂow r ate in each vessel during inspiration and
+expiration using a linear gradient toward red (strong incre ase) or dark blue (strong decrease), compared to the average ﬂow rate during the entire respiratory cycle
+(light green). Change in width of the arrows for each vessel s chematically represent the change in ﬂow rates between inspi ration and expiration. Flow rates in the
+subhepatic IVC, SVC* and aorta are only minimally inﬂuenced by respiration. Predominantly HV ﬂow is strongly inﬂuenced by re spiration, with a signiﬁcant increase in
+ﬂow rate during inspiration and decrease during expiration. Therefore, Fontan tunnel ﬂow rates also show a considerable i ncrease in ﬂow rate during inspiration and
+decrease during expiration, primarily caused by the contri bution from the HVs. *Of note, studies report conﬂicting resu lts regarding respiratory pulsatility in the SVC,
+ranging from only minimal to considerable pulsatility. SVC /IVC, superior/inferior vena cava; HV , hepatic veins.
+in the Fontan tunnel, SVC and aorta. During lower-leg
+exercise conditions, the predominance of inspiratory ﬂow
+augmentation in the Fontan tunnel seems to become less
+pronounced. Hjortdal et al. found a mean inspiratory fraction
+(Qinsp/Qaverage respiratory cycle ) decrease from 1.9 in rest, to 1.4
+under 1 W/kg lower-leg exercise conditions. Peripheral musc le
+contractions were responsible for an almost 3-fold increase
+in expiratory ﬂow rates, while inspiratory ﬂow rates only
+increased by 1.6-fold (
+10). Of interest, Cordina et al. also showed
+predominantly increased expiratory ﬂow rates in rest in patien ts
+after 20 weeks of peripheral muscle resistance training. The
+increased ﬂow rates are explained by the presence of increased
+peripheral muscle mass leading to reduced venous compliance,
+thereby presumably increasing systemic ﬁlling pressures lead ing
+to increased preload and cardiac output (
+21). The reason why
+the muscle pump predominantly increases expiratory ﬂow rates
+compared to inspiratory ﬂow rates, thereby leading to reduced
+“respiratory dependence, ” remains incompletely understood.
+Although speculative, there may be a limit in the venous capaci ty
+in the inspiratory phase, leading to a diminished response to
+increased ﬁlling pressures caused by the muscle pump.
+EFFECT OF RESPIRATION ON CLINICALL Y
+USED FLOW PARAMETERS
+PC-MRI Derived Clinical Flow Parameters
+Previous paragraphs have shown the variable inﬂuence of
+respiration on ﬂow rates observed at multiple locations in the
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 8 August 2021 | Volume 8 | Article 683849
+[[p9]]
+van der Woude et al. Respiration and Fontan Blood Flow
+TCPC. Most conventional PC-MRI sequences are focused to
+capture ﬂow changes during the cardiac contraction (ECG-
+gating) only and do not take respiration into account.
+Therefore, knowledge about the eﬀect of (not) incorporating
+respiration on ﬂow and ﬂow-related clinical measurements ar e
+important for the correct interpretation of MRI examinations in
+Fontan patients.
+Net Forward Flow vs. Pulsatility
+Since respiration predominantly aﬀects pulsatility but not net
+forward ﬂow (
+7, 11), conventional ECG-gated 2D ﬂow MRI
+sequences did not show signiﬁcantly diﬀerent net forward ﬂow
+rates between patients scanned under free-breathing vs. bre ath-
+hold conditions (
+42). However, dynamic ﬂow characteristics
+speciﬁc to part of the respiratory cycle, such as retrograde
+ﬂow during expiration, or peak velocities during inspiration
+will not be captured (
+7, 43). The same likely applies for ECG-
+gated sequences using a respiratory navigator (as the accepta nce
+window contains the last part of expiration, the end-expirator y
+phase and the ﬁrst part of inspiration), although no studies exi st
+in Fontan patients comparing free-breathing navigator-gated PC-
+MRI with PC-MRI acquisitions during breath-hold conditions.
+Net Forward Flow-Derived Flow
+Parameters
+Clinical parameters derived from net forward ﬂow rates can
+thus most likely be accurately determined using ECG-gated
+sequences, since respiration minimally aﬀects net forward ﬂo w
+rates. Only limited data exist of studies that have evaluate d the
+eﬀect of respiration on these parameters. Using a 4D ﬂow MRI
+sequence able to provide cardiac-cycle resolved ﬂow data bas ed
+on inspiratory or expiratory data only, Rutkowski et al. showed
+a non-signiﬁcant diﬀerence in pulmonary ﬂow distribution (52
+vs. 64% based on expiratory and inspiratory data, respectively)
+(
+44). Modeling studies using computational ﬂuid dynamics
+(CFD) found similar results, with diﬀerences <5% in right-to-left
+pulmonary ﬂow distribution along the respiratory cycle ( 45, 46).
+Hepatic Flow Distribution
+Fontan patients require a certain amount of hepatic venous
+ﬂow toward both lungs in order to prevent the formation of
+pulmonary arteriovenous malformations (
+47). The hepatic ﬂow
+distribution (HFD) can be determined by tracking particles
+from the Fontan tunnel toward the PAs based on time-resolved ,
+three-dimensional velocity ﬁelds acquired with 4D- (
+48, 49)
+or 5D ﬂow MRI ( 29), or derived from computational ﬂuid
+dynamic (CFD) models ( 39, 50, 51). Bastkowski et al. used a
+novel 5D ﬂow MRI sequence to reconstruct four ECG-gated
+ﬂow ﬁelds using data from 4 respiratory phases: inspiration,
+end-inspiration, expiration and end-expiration. On average, the
+maximum diﬀerences in HFD between the four respiratory-
+phases was 20% (range 9–30%). Hence, the contribution of
+hepatic ﬂow toward the PA changes during the respiratory cycle
+because of the ﬂow pulsatility in the Fontan tunnel associate d
+with respiration. However, the necessity of including respir ation
+for accurate average HFD quantiﬁcation was not investigate d
+(
+29). A recent study using patient-speciﬁc CFD models with both
+2D real-time MRI acquired under free-breathing and breath-hold
+as boundary conditions, showed that respiration has negligib le
+inﬂuence on average HFD with mean diﬀerences of 1% (range
+− 3 to 7%) (
+43).
+CFD-Derived Hemodynamic Metrics of the
+TCPC
+CFD models are increasingly used to study ﬂow dynamics
+in the TCPC in Fontan patients, and can now be performed
+using patient-speciﬁc 3D TCPC reconstructions and patient-
+speciﬁc physiological data. It allows not only for the visuali zation
+of time-resolved 3D ﬂow patterns within the TCPC, but also
+for quantiﬁcation of advanced velocity and pressure-related
+hemodynamic parameters, including power loss, viscous energ y
+loss rate, wall shear stress and stagnation volume (
+52–54).
+Importance of Including
+Respiration-Derived Pulsatility in CFD
+Simulations
+Flow Patterns
+Previous studies using CFD, in vitro models or 4D ﬂow MRI have
+shown the presence of adverse secondary ﬂow patterns, including
+helical, swirling ﬂow patterns at the IVC-to-conduit junction (
+55)
+and in the PAs ( 56, 57) or caval ﬂow collision leading to chaotic
+ﬂow disturbances at the central Fontan conﬂuence ( 58, 59). The
+appearance of adverse, energy-consuming ﬂow patterns increase
+blood ﬂow resistance that may lead to an increased risk of
+complications (
+14). Importantly, these dynamic, 3D ﬂow patterns
+change when respiration is included ( 43, 60). Furthermore,
+potential deleterious eﬀects of backﬂow on the splanchnic
+circulation and its association with liver ﬁbrosis can only be
+studied by incorporating respiration into the models, as backﬂow
+is exclusively observed during (early) expiration. In additi on,
+incorporation of respiration may also be important to study
+whether the pulsatile HV hemodynamics eﬀect the presence
+and magnitude of local secondary ﬂow patterns observed in the
+IVC-to-conduit junction using 4D ﬂow MRI (
+55).
+Energy Loss
+Power loss and viscous energy loss describe the ﬂow eﬃciency
+in the TCPC in Fontan patients which is related to the presence
+of adverse ﬂow patterns and geometries (e.g., PA stenosis or
+undersized extracardiac conduit) (
+61, 62). Increased power
+loss and TCPC resistance have been associated with reduced
+exercise capacity (
+63) and increased levels of liver ﬁbrosis ( 64).
+Inclusion of respiration is important for accurate power loss
+measurements, as incorporation of respiration resulted in a 1 .4–
+3.1-fold increase in power loss, consistently higher compared to
+simulations incorporating the cardiac cycle only (
+43, 45, 60, 65).
+Importantly, although not incorporating respiration in CFD
+models leads to an underestimation of power loss, it did not aﬀect
+the ranking of multiple surgical TCPC options created using
+“virtual surgery” CFD platforms (
+66). Virtual surgery platforms
+allow for the pre-operative determination of the optimal TCPC
+geometry by evaluating the ﬂow eﬃciency and HFD within the
+proposed TCPC using patient-speciﬁc CFD simulations (
+67).
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 9 August 2021 | Volume 8 | Article 683849
+[[p10]]
+van der Woude et al. Respiration and Fontan Blood Flow
+Thrombosis Markers
+Thrombosis can occur in some Fontan patients within the
+TCPC. Although no clear markers can currently predict
+thrombosis risk, regions with low wall shear stress and/or
+high stagnation volumes have been reported as potential
+markers. Stagnation volume (blood volume with a velocity
+<0.01 m/s) can be speciﬁcally high during expiration in large
+conduits with signiﬁcantly reduced ﬂow stagnation during
+inspiration (
+53). Thus, it is emphasized that incorporation
+of respiration is important when local hemodynamic
+metrics are of interest, including wall shear stress and
+stagnation volume, due to the high temporal variation of
+such metrics during the respiratory cycle (
+45, 53, 65). As a
+result, inclusion of pulsatile boundary conditions acquire d
+under free-breathing in patient-speciﬁc CFD models is
+recommended (
+11, 60, 68).
+CONCLUSION
+In conclusion, in contrast to the healthy circulation, respi ration
+is the main source of blood ﬂow pulsatility in the TCPC, wherea s
+cardiac contraction mostly drives the net forward ﬂow rate.
+Consequently, conventional ECG-gated PC-MRI acquisitions
+(i.e., 2D ﬂow MRI and 4D ﬂow MRI) can be used for
+measurements of clinical parameters based on net forward ﬂow .
+Inclusion of respiratory pulsatility in state-of-the-art pat ient-
+speciﬁc CFD models are recommended for evaluation of detailed,
+time-resolved hemodynamic metrics (e.g., wall shear stres s and
+viscous energy loss rate), continuing to provide important
+insights for clinicians in the functioning of the TCPC.
+AUTHOR CONTRIBUTIONS
+rv?????M?eq???ﬁ?
+manuscript. All authors contributed to manuscript revision,read,
+and approved the submitted version.
+FUNDING
+FR was funded by a grant from Stichting Hartekind and by a grant
+from the Dutch Heart Foundation (2018-T083).
+ACKNOWLEDGMENTS
+The authors gratefully thank Ron Slagter for the illustration s in
+Figures 1, 4.
+REFERENCES
+PM?lﬀ?cK?a?diK?f?`rK?`?cjK?a?liK?b
+M, et al. Heart disease and stroke statistics − 2015 update: a report
+from the American Heart Association. Circulation. (2015) 131:e29–
+322. doi: 10.1161/CIR.0000000000000152
+2. de Leval MR, Kilner P , Gewillig M, Bull C. Total cavopulmonary conne ction:
+a logical alternative to atriopulmonary connection for complex Fontan
+operations. Experimental studies and early clinical experience. J Thorac
+Cardiovasc Surg. (1988) 96:682–95. doi: 10.1016/S0022-5223(19)35174-8
+3. Gewillig M, Brown SC. The Fontan circulation after 45 years: upd ate in
+physiology. Heart. (2016) 102:1081–6. doi: 10.1136/heartjnl-2015-307467
+4. Rychik J, Atz AM, Celermajer DS, Deal BJ, Gatzoulis MA, Gewillig M H, et al.
+Evaluation and management of the child and adult with fontan circu lation: a
+scientiﬁc statement from the American heart association. Circulation. (2019)
+2019:CIR0000000000000696. doi: 10.1161/CIR.0000000000000696
+5. Korperich H, Barth P , Gieseke J, Muller K, Burchert W, Esdorn H, et al.
+Impact of respiration on stroke volumes in paediatric controls and in patie nts
+after Fontan procedure assessed by MR real-time phase-velocity mapping. Eur
+Heart J Cardiovasc Imaging. (2015) 16:198–209. doi: 10.1093/ehjci/jeu179
+6. Hsia TY , Khambadkone S, Deanﬁeld JE, Taylor JF , Migliavacca F ,De Leval MR.
+Subdiaphragmatic venous hemodynamics in the Fontan circulation. J Thorac
+Cardiovasc Surg. (2001) 121:436–47. doi: 10.1067/mtc.2001.112527
+7. Gabbert DD, Hart C, Jerosch-Herold M, Wegner P , Salehi Ravesh M,
+Voges I, et al. Heart beat but not respiration is the main driving force
+of the systemic venous return in the Fontan circulation. Sci Rep. (2019)
+9:2034. doi: 10.1038/s41598-019-50842-5
+8. Marcelletti C, Corno A, Giannico S, Marino B. Inferior vena cava -pulmonary
+artery extracardiac conduit. A new form of right heart bypass . J Thorac
+Cardiovasc Surg. (1990) 100:228–32. doi: 10.1016/S0022-5223(19)35562-X
+9. Hjortdal VE, Emmertsen K, Stenbog E, Frund T , Schmidt MR, Kromann O,
+et al. Eﬀects of exercise and respiration on blood ﬂow in total cavo pulmonary
+connection: a real-time magnetic resonance ﬂow study. Circulation. (2003)
+108:1227–31. doi: 10.1161/01.CIR.0000087406.27922.6B
+10. Hjortdal VE, Christensen TD, Larsen SH, Emmertsen K, Pedersen E M. Caval
+blood ﬂow during supine exercise in normal and Fontan patients. Ann Thorac
+Surg. (2008) 85:599–603. doi: 10.1016/j.athoracsur.2007.08.062
+11. Wei Z, Whitehead KK, Khiabani RH, Tree M, Tang E, Paridon SM, e t al.
+Respiratory eﬀects on Fontan circulation during rest and exercise using real-
+time cardiac magnetic resonance imaging. Ann Thorac Surg. (2016) 101:1818–
+25. doi: 10.1016/j.athoracsur.2015.11.011
+12. Young DB. Control of Cardiac Output. Colloquium Series
+on Integrated Systems Physiology: From Molecule to Function
+to Disease . San Rafael, CA: Morgan & Claypool Publishers
+(2010). doi: 10.4199/C00008ED1V01Y201002ISP006
+13. Jolley M, Colan SD, Rhodes J, DiNardo J. Fontan physiology revisi ted.
+Anesth Analg. (2015) 121:172–82. doi: 10.1213/ANE.000000000000
+0717
+14. Rijnberg FM, Hazekamp MG, Wentzel JJ, de Koning PJH,
+Westenberg JJM, Jongbloed MRM, et al. Energetics of blood ﬂow in
+cardiovascular disease: concept and clinical implications of adve rse
+energetics in patients with a Fontan circulation. Circulation. (2018)
+137:2393–407. doi: 10.1161/CIRCULATIONAHA.117.033359
+15. Schafer M, Frank BS, Humphries SM, Hunter KS, Carmody KL, Jacobsen
+R, et al. Flow proﬁle characteristics in Fontan circulation are associ ated
+with the single ventricle dilation and function: principal component
+analysis study. Am J Physiol Heart Circ Physiol. (2020) 318:H1032–
+40. doi: 10.1152/ajpheart.00686.2019
+16. Shafer KM, Garcia JA, Babb TG, Fixler DE, Ayers CR, Levine B D. The
+importance of the muscle and ventilatory blood pumps during exercise
+in patients without a subpulmonary ventricle (Fontan operation).
+J Am Coll Cardiol. (2012) 60:2115–21. doi: 10.1016/j.jacc.2012.
+08.970
+17. Hsia TY , Khambadkone S, Redington AN, Migliavacca F , Deanﬁ eld JE, de
+Leval MR. Eﬀects of respiration and gravity on infradiaphragmatic ve nous
+ﬂow in normal and Fontan patients. Circulation. (2000) 102(19 Suppl
+3):III148–53. doi: 10.1161/01.CIR.102.suppl_3.III-148
+18. Shachar GB, Fuhrman BP , Wang Y , Lucas RV , Jr., Lock JE. Rest an d exercise
+hemodynamics after the Fontan procedure. Circulation. (1982) 65:1043–
+8. doi: 10.1161/01.CIR.65.6.1043
+19. Shekerdemian LS, Bush A, Shore DF , Lincoln C, Redington AN.
+Cardiopulmonary interactions after Fontan operations: augmentatio n of
+cardiac output using negative pressure ventilation. Circulation. (1997)
+96:3934–42. doi: 10.1161/01.CIR.96.11.3934
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 10 August 2021 | Volume 8 | Article 683849
+[[p11]]
+van der Woude et al. Respiration and Fontan Blood Flow
+20. Charla P , Karur GR, Y amamura K, Yoo SJ, Granton JT , Oechslin EN, et a l.
+Augmentation of pulmonary blood ﬂow and cardiac output by non-invasi ve
+external ventilation late after Fontan palliation. Heart. (2021) 107:142–
+9. doi: 10.1136/heartjnl-2020-316613
+21. Cordina RL, O’Meagher S, Karmali A, Rae CL, Liess C, Kemp GJ, et a l.
+Resistance training improves cardiac output, exercise capacity an d tolerance
+to positive airway pressure in Fontan physiology. Int J Cardiol. (2013)
+168:780–8. doi: 10.1016/j.ijcard.2012.10.012
+22. Widrich J, Shetty M. Physiology, Pulmonary Vascular Resistance . Treasure
+Island, FL: StatPearls (2021).
+23. Markl M, Frydrychowicz A, Kozerke S, Hope M, Wieben O. 4D ﬂow MRI. J
+Magn Reson Imaging. (2012) 36:1015–36. doi: 10.1002/jmri.23632
+24. Andersson C, Kihlberg J, Ebbers T , Lindstrom L, Carlhall CJ,
+Engvall JE. Phase-contrast MRI volume ﬂow–a comparison of breath
+held and navigator based acquisitions. BMC Med Imaging. (2016)
+16:26. doi: 10.1186/s12880-016-0128-x
+25. Fratz S, Chung T , Greil GF , Samyn MM, Taylor AM, V alsangiacomo
+Buechel ER, et al. Guidelines and protocols for cardiovascular magne tic
+resonance in children and adults with congenital heart disease: S CMR expert
+consensus group on congenital heart disease. J Cardiovasc Magn Reson. (2013)
+15:51. doi: 10.1186/1532-429X-15-51
+26. Markl M, Schnell S, Wu C, Bollache E, Jarvis K, Barker AJ, et al. Ad vanced
+ﬂow MRI: emerging techniques and applications. Clin Radiol. (2016) 71:779–
+95. doi: 10.1016/j.crad.2016.01.011
+27. Rijnberg FMA, Juﬀermans JF , Kroft LJM, Boogaard PJ, van den Ko ning PJH,
+de Hazekamp MG, et al. Reduced scan time and superior image quality wi th
+3D ﬂow MRI compared to 4D ﬂow MRI for hemodynamic evaluation of the
+Fontan pathway. Sci Rep. (2021) 11:6507. doi: 10.1038/s41598-021-85936-6
+28. Dyverfeldt P , Bissell M, Barker AJ, Bolger AF , Carlhall CJ, Ebber s T , et al. 4D
+ﬂow cardiovascular magnetic resonance consensus statement. J Cardiovasc
+Magn Reson. (2015) 17:72. doi: 10.1186/s12968-015-0174-5
+29. Bastkowski R, Bindermann R, Brockmeier K, Weiss K, Maintz D,
+Giese D. Respiration dependency of caval blood ﬂow in patients wit h
+fontan circulation: quantiﬁcation using 5D ﬂow MRI. Radiology. (2019)
+1:e190005. doi: 10.1148/ryct.2019190005
+30. Fogel MA, Weinberg PM, Hoydu A, Hubbard A, Rychik J, Jacobs M,
+et al. The nature of ﬂow in the systemic venous pathway measured by
+magnetic resonance blood tagging in patients having the Fontan o peration.
+J Thorac Cardiovasc Surg. (1997) 114:1032–41. doi: 10.1016/S0022-5223(97)
+70017-5
+31. Laohachai K, Winlaw D, Selvadurai H, Gnanappa GK, d’Udekem Y ,
+Celermajer D, et al. Inspiratory muscle training is associated with improv ed
+inspiratory muscle strength, resting cardiac output, and the ventilat ory
+eﬃciency of exercise in patients with a Fontan circulation. J Am Heart Assoc.
+(2017) 6:5750. doi: 10.1161/JAHA.117.005750
+32. Salim MA, DiSessa TG, Arheart KL, Alpert BS. Contribution of supe rior vena
+caval ﬂow to total cardiac output in children. A Doppler echocardiogra phic
+study. Circulation. (1995) 92:1860–5. doi: 10.1161/01.CIR.92.
+7.1860
+33. Korperich H, Muller K, Barth P , Gieseke J, Haas N, Schulze-Neick
+I, et al. Diﬀerentiation of impaired from preserved hemodynamics
+in patients with fontan circulation using real-time phase-velocit y
+cardiovascular magnetic resonance. J Thorac Imaging. (2017)
+32:159–68. doi: 10.1097/RTI.0000000000000261
+34. Kaulitz R, Luhmer I, Kallfelz HC. Pulsed Doppler echocardiographic
+assessment of patterns of venous ﬂow after the modiﬁed Fontan
+operation: potential clinical implications. Cardiol Young. (1998)
+8:54–62. doi: 10.1017/S1047951100004637
+35. Ha KS, Choi JY , Jung SY , Park HK. Characterization of ﬂow
+eﬃciency, pulsatility, and respiratory variability in diﬀerent types o f
+Fontan circuits using quantitative parameters. Yonsei Med J. (2019)
+60:56–64. doi: 10.3349/ymj.2019.60.1.56
+36. Hsia TY , Khambadkone S, Redington AN, de Leval MR. Eﬀect of
+fenestration on the sub-diaphragmatic venous hemodynamics in the total-
+cavopulmonary connection. Eur J Cardiothorac Surg. (2001) 19:785–
+92. doi: 10.1016/S1010-7940(01)00705-9
+37. Hsia TY , Khambadkone S, Bradley SM, de Leval MR. Subdiaphragmat ic
+venous hemodynamics in patients with biventricular and Fontan ci rculation
+after diaphragm plication. J Thorac Cardiovasc Surg. (2007) 134:1397–405;
+discussion 405. doi: 10.1016/j.jtcvs.2007.07.044
+38. Ha KS, Choi JY , Jung JW, Kim NK. Impact of ﬂow diﬀerentials acco rding
+to cardiac and respiratory cycles on three types of Fontan operation. Pediatr
+Cardiol. (2018) 39:1144–55. doi: 10.1007/s00246-018-1872-1
+39. Redington A. The physiology of the Fontan circulation. Prog Pediatric Cardiol.
+(2006) 22:179–86. doi: 10.1016/j.ppedcard.2006.07.007
+40. Komori M, Hoashi T , Shimada M, Kitano M, Ohuchi H, Kurosaki K, et a l.
+Impact of phrenic nerve palsy on late fontan circulation. Ann Thorac Surg.
+(2020) 109:1897–902. doi: 10.1016/j.athoracsur.2019.09.0 64
+41. Khambadkone S, Li J, de Leval MR, Cullen S, Deanﬁeld JE,
+Redington AN. Basal pulmonary vascular resistance and nitric oxide
+responsiveness late after Fontan-type operation. Circulation. (2003)
+107:3204–8. doi: 10.1161/01.CIR.0000074210.49434.40
+42. Whitehead KK, Sundareswaran KS, Parks WJ, Harris MA, Yoganath an AP ,
+Fogel MA. Blood ﬂow distribution in a large series of patients havi ng the
+Fontan operation: a cardiac magnetic resonance velocity mapping stud y. J
+Thorac Cardiovasc Surg. (2009) 138:96–102. doi: 10.1016/j.jtcvs.2008.11.062
+43. Tang E, Wei ZA, Trusty PM, Whitehead KK, Mirabella L, Venezian i A,
+et al. The eﬀect of respiration-driven ﬂow waveforms on hemodynamic
+metrics used in Fontan surgical planning. J Biomech. (2019) 82:87–
+95. doi: 10.1016/j.jbiomech.2018.10.013
+44. Rutkowski DR, Barton G, Francois CJ, Bartlett HL, Anagnostopou los PV ,
+Roldan-Alzate A. Analysis of cavopulmonary and cardiac ﬂow characteri stics
+in fontan Patients: Comparison with healthy volunteers. J Magn Reson
+Imaging. (2019) 49:1786–99. doi: 10.1002/jmri.26583
+45. Liu J, Qian Y , Sun Q, Liu J, Umezu M. Use of computational ﬂuid
+dynamics to estimate hemodynamic eﬀects of respiration on hypoplastic
+left heart syndrome surgery: total cavopulmonary connection treatment s.
+ScientiﬁcWorldJournal. (2013) 2013:131597. doi: 10.1155/2013/131597
+46. Baretta A CC, Marsden AL, Vignon-Clementel IE, Hsia TY , Dubi ni G,
+Migliavacca F , et al. Respiratory eﬀects on hemodynamics in patient- speciﬁc
+CFD models of the Fontan circulation under exercise conditions . Eur J Mech.
+(2012) 35:61–9. doi: 10.1016/j.euromechﬂu.2012.01.012
+47. Kavarana MN, Jones JA, Stroud RE, Bradley SM, Ikonomidis JS, Mu kherjee
+R. Pulmonary arteriovenous malformations after the superior cavopulmonary
+shunt: mechanisms and clinical implications. Expert Rev Cardiovasc Ther.
+(2014) 12:703–13. doi: 10.1586/14779072.2014.912132
+48. Bachler P , V alverde I, Pinochet N, Nordmeyer S, Kuehne T , Crelier G,
+et al. Caval blood ﬂow distribution in patients with Fontan circu lation:
+quantiﬁcation by using particle traces from 4D ﬂow MR imaging. Radiology.
+(2013) 267:67–75. doi: 10.1148/radiol.12120778
+49. Jarvis K, Schnell S, Barker AJ, Garcia J, Lorenz R, Rose M, et a l. Evaluation
+of blood ﬂow distribution asymmetry and vascular geometry in patients with
+Fontan circulation using 4-D ﬂow MRI. Pediatr Radiol. (2016) 46:1507–
+19. doi: 10.1007/s00247-016-3654-3
+50. Y ang W, Vignon-Clementel IE, Troianowski G, Reddy VM, Feins tein
+JA, Marsden AL. Hepatic blood ﬂow distribution and performance
+in conventional and novel Y-graft Fontan geometries: a case seri es
+computational ﬂuid dynamics study. J Thorac Cardiovasc Surg. (2012)
+143:1086–97. doi: 10.1016/j.jtcvs.2011.06.042
+51. Rijnberg FMW, Assen HC, van Juﬀermans JF , Hazekamp MG, Jongb loed
+MRM, Kenjeres, S, et al. Non-uniform mixing of hepatic venous ﬂow a nd
+inferior vena cava ﬂow in the Fontan conduit. J R Soc Interface. (2021)
+18:20201027. doi: 10.1098/rsif.2020.1027
+52. Cibis M, Jarvis K, Markl M, Rose M, Rigsby C, Barker AJ, et al. T he
+eﬀect of resolution on viscous dissipation measured with 4D ﬂow MR I
+in patients with Fontan circulation: Evaluation using computati onal ﬂuid
+dynamics. J Biomech. (2015) 48:2984–9. doi: 10.1016/j.jbiomech.2015.07.
+039
+53. Itatani K, Miyaji K, Tomoyasu T , Nakahata Y , Ohara K, Takamot o S,
+et al. Optimal conduit size of the extracardiac Fontan operation bas ed
+on energy loss and ﬂow stagnation. Ann Thorac Surg. (2009) 88:565–
+72. doi: 10.1016/j.athoracsur.2009.04.109
+54. Wei ZA, Tree M, Trusty PM, Wu W, Singh-Gryzbon S, Yoganathan
+A. The advantages of viscous dissipation rate over simpliﬁed power loss
+as a Fontan hemodynamic metric. Ann Biomed Eng. (2018) 46:404–
+16. doi: 10.1007/s10439-017-1950-1
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 11 August 2021 | Volume 8 | Article 683849
+[[p12]]
+van der Woude et al. Respiration and Fontan Blood Flow
+55. Rijnberg FM, Elbaz MSM, Westenberg JJM, Kamphuis VP , Helbing W A,
+Kroft LJ, et al. Four-dimensional ﬂow magnetic resonance imaging- derived
+blood ﬂow energetics of the inferior vena cava-to-extracardiac conduit
+junction in Fontan patients. Eur J Cardiothorac Surg. (2019) 55:1202–
+10. doi: 10.1093/ejcts/ezy426
+56. Houtzager JH, Westenberg JJ, de Koning PJ, Hazekamp MG, Roes t AA. Helical
+ﬂow pattern in the right pulmonary artery after Fontan palliation. Eur Heart J
+Cardiovasc Imaging. (2014) 15:1183. doi: 10.1093/ehjci/jeu096
+57. Rijnberg FM, van Assen HC, Hazekamp MG, Roest AAW. Tornado- like
+ﬂow in the Fontan circulation: insights from quantiﬁcation an d visualization
+of viscous energy loss rate using 4D ﬂow MRI. Eur Heart J. (2019)
+40:2170. doi: 10.1093/eurheartj/ehz160
+58. Sharma S, Ensley AE, Hopkins K, Chatzimavroudis GP , Healy TM, Tam VK ,
+et al. In vivo ﬂow dynamics of the total cavopulmonary connection fro m
+three-dimensional multislice magnetic resonance imaging. Ann Thorac Surg.
+(2001) 71:889–98. doi: 10.1016/S0003-4975(00)02517-0
+59. Sharma S, Goudy S, Walker P , Panchal S, Ensley A, Kanter K, et al.In vitro ﬂow
+experiments for determination of optimal geometry of total cavopulmonary
+connection for surgical repair of children with functional sing le ventricle. J
+Am Coll Cardiol. (1996) 27:1264–9. doi: 10.1016/0735-1097(95)00598-6
+60. Marsden AL, Vignon-Clementel IE, Chan FP , Feinstein JA, Ta ylor CA. Eﬀects
+of exercise and respiration on hemodynamic eﬃciency in CFD simulati ons
+of the total cavopulmonary connection. Ann Biomed Eng. (2007) 35:250–
+63. doi: 10.1007/s10439-006-9224-3
+61. Dasi LP , Krishnankuttyrema R, Kitajima HD, Pekkan K, Sundaresw aran
+KS, Fogel M, et al. Fontan hemodynamics: importance of
+pulmonary artery diameter. J Thorac Cardiovasc Surg. (2009)
+137:560–4. doi: 10.1016/j.jtcvs.2008.04.036
+62. Tang E, Wei ZA, Whitehead KK, Khiabani RH, Restrepo M, Mirabella L,
+et al. Eﬀect of Fontan geometry on exercise haemodynamics and its po tential
+implications. Heart. (2017) 103:1806–12. doi: 10.1136/heartjnl-2016-310855
+63. Khiabani RH, Whitehead KK, Han D, Restrepo M, Tang E, Bethel J ,
+et al. Exercise capacity in single-ventricle patients after Fonta n correlates
+with haemodynamic energy loss in TCPC. Heart. (2015) 101:139–
+43. doi: 10.1136/heartjnl-2014-306337
+64. Trusty PM, Wei ZA, Rychik J, Graham A, Russo PA, Surrey LF ,
+et al. Cardiac magnetic resonance-derived metrics are predictive of
+liver ﬁbrosis in fontan patients. Ann Thorac Surg. (2020) 109:1904–
+11. doi: 10.1016/j.athoracsur.2019.09.070
+65. Qian Y , Liu JL, Liu JF. Hemodynamic simulation for surgical
+treatment of congenital heart disease. Annu Int Conf IEEE Eng
+Med Biol Soc. (2012) 2012:661–4. doi: 10.1109/EMBC.2012.634
+6018
+66. Wei ZA, Trusty PM, Zhang Y , Tang E, Whitehead KK, Fogel MA,
+et al. Impact of free-breathing phase-contrast MRI on decision-maki ng
+in Fontan surgical planning. J Cardiovasc Transl Res. (2020) 13:640–
+7. doi: 10.1007/s12265-019-09930-0
+67. Trusty PM, Slesnick TC, Wei ZA, Rossignac J, Kanter KR, Foge l
+MA, et al. Fontan surgical planning: previous accomplishments, current
+challenges, and future directions. J Cardiovasc Transl Res. (2018) 11:133–
+44. doi: 10.1007/s12265-018-9786-0
+68. Tree M, Wei ZA, Trusty PM, Raghav V , Fogel M, Maher K, et al. Usi ng a novel
+in vitro Fontan model and condition-speciﬁc real-time MRI data to examine
+hemodynamic eﬀects of respiration and exercise. Ann Biomed Eng. (2018)
+46:135–47. doi: 10.1007/s10439-017-1943-0
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potential conﬂict of interest.
+Publisher’s Note:All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their aﬃliated organizat ions, or those of
+the publisher, the editors and the reviewers. Any product that may b e evaluated in
+this article, or claim that may be made by its manufacturer, is not gua ranteed or
+endorsed by the publisher.
+Copyright © 2021 van der Woude, Rijnberg, Hazekamp, Jongbloed, Ke njeres, Lamb,
+Westenberg, Roest and Wentzel. This is an open-access articl e distributed under the
+terms of the Creative Commons Attribution License (CC BY). T he use, distribution
+or reproduction in other forums is permitted, provided the or iginal author(s) and
+the copyright owner(s) are credited and that the original pub lication in this journal
+is cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these t erms.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 12 August 2021 | Volume 8 | Article 683849

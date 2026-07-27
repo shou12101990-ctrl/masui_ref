@@ -1,0 +1,797 @@
+
+[[p1]]
+© 2017 Annals of Cardiac Anaesthesia | Published by Wolters Kluwer ‑ Medknow 323
+Introduction
+The systemic to pulmonary artery shunts 
+are done as palliative procedures for a 
+variety of complex cyanotic congenital 
+heart diseases. The spectrum may 
+range from simple tetralogy of Fallots 
+(TOFs)/pulmonary atresia (PA) to complex 
+univentricular hearts with major associated 
+surgical problems. The systemic to 
+pulmonary artery shunt provide the first 
+line of management in these critically ill 
+cyanotic neonates. They are less risky and 
+provide regulated blood flow to the lungs 
+allowing growth of pulmonary arteries 
+for future complete repair. The infant also 
+reaches a proper age and body weight 
+suitable for definitive corrective repair. [1]
+History
+The credit for the evolution of the 
+shunt goes to Helen Taussig, a pediatric 
+cardiologist from John Hopkins. She 
+noticed that several patients with 
+right‑sided obstruction, i.e., pulmonary 
+stenosis or PA, cyanosis increased after the 
+closure of the ductus arteriosus. She along 
+with Alfred Blalock, chief surgeon at John 
+Hopkins and Vivian Thomas, a surgical 
+technician decided to use subclavian artery 
+to pulmonary artery connection as a way to 
+augment the pulmonary blood flow.
+Since then many modifications to this 
+original operation took place. In 1951, 
+Dubost and Oeconomos reported used 
+lyophilized human vessels as an interposed 
+Address for correspondence:  
+Dr. B Uma, 
+Department of Cardiac 
+Anaesthesia, CTC, AIIMS, 
+New Delhi, India.  
+E‑mail: uma_dilli@yahoo.co.in
+Abstract
+The systemic to pulmonary artery shunts are done as palliative procedures for cyanotic congenital 
+heart diseases ranging from simple tetralogy of Fallots (TOFs)/pulmonary atresia (PA) to complex 
+univentricular hearts. They allow growth of pulmonary arteries and maintain regulated blood flow 
+to the lungs till a proper age and body weight suitable for definitive corrective repair is reached. 
+v????as??????????
+complications.
+Keywords: Blalock, complex cyanotic congenital heart diseases, Taussig shunt
+The Blalock and Taussig Shunt Revisited
+Review Article
+Usha Kiran, 
+Shivani Aggarwal, 
+Arin Choudhary, 
+B Uma, 
+Poonam Malhotra 
+Kapoor
+Department of Cardiac 
+Anaesthesia, CTC, AIIMS, 
+New Delhi, India
+graft between the subclavian and 
+pulmonary artery. [2] In 1960s, synthetic 
+vascular prosthesis made of nylon, teflon or 
+dacron, a free left subclacvian artery graft 
+or an interposed azygos vein were used as 
+modified Blalock‑Taussig shunt (MBTS) 
+when direct end‑to‑side anastomosis of 
+subclavian and the pulmonary arteries was 
+not possible. [3] In 1970s, the expandable 
+polytetrafluoroethylene (PTFE) has been 
+increasingly used as interposed graft and 
+shown to be patent by clinical angiographic 
+studies.[4]
+The main aim of the palliative surgery 
+is to increase pulmonary blood flow in a 
+controlled manner to alleviate cyanosis and 
+improve exercise tolerance in the patients.
+Goals
+PM?h???????
+controlled manner – prostaglandin 
+E1 (PGE1) infusion to maintain ductus 
+arteriosus patency, decrease pulmonary 
+vascular resistance (PVR) (avoid 
+hypoxia, hypercarbia, acidosis, 
+sympathetic stimulation)
+2. Maintain adequate preload – prevent 
+hemodilution
+3. Maintain afterload, i.e., systemic 
+vascular resistance (SVR) and hence the 
+diastolic pressure to maintain coronary 
+perfusion pressure.
+Risk Factors
+Recent reports regarding the outcomes of 
+?as?????
+Access this article online
+Website: www.annals.in
+DOI: 10.4103/aca.ACA_80_17
+PMID: ***
+Quick Response Code:
+How to cite this article: Kiran U, Aggarwal S, 
+Choudhary A, Uma B, Kapoor PM. The blalock 
+and taussig shunt revisited. Ann Card Anaesth 
+2017;20:323-30.
+This is an open access article distributed under the terms of the 
+Creative Commons Attribution‑NonCommercial‑ShareAlike 3.0 
+License, which allows others to remix, tweak, and build upon the 
+work non‑commercially, as long as the author is credited and the 
+new creations are licensed under the identical terms.
+For reprints contact: reprints@medknow.com
+[[p2]]
+Kiran, et al.: A review of the blalock and taussig shunt
+324 Annals of Cardiac Anaesthesia  |  Volume 20  |  Issue 3  |  July‑September 2017
+and mortality in neonates. The mortality in single ventricle 
+patients has been reported to be around 15% while in 
+??????RD–TDM?zTKU|
+Various risk factors have been identified which include:
+• Sternotomy[6]
+• Anatomic site[6]
+• Use of cardiopulmonary bypass (CPB)[6]
+• Weight <3 kg[5]
+• Preoperative ventilation[5]
+• Single ventricle palliation [5]
+• PA with intact ventricular septum [5]
+• Ebstein’s anomaly[6]
+• In about one‑third of patients, deaths occur in first 24 h 
+postoperatively.[5]
+Indications
+Palliative shunts are not commonly done for most cases 
+as initial corrective procedures are increasingly performed 
+during infancy. It has mainly been possible due to improved 
+extracorporeal circulation methods, modern perioperative 
+supportive care, and refinements in operative technique.
+Nevertheless, certain subsets of patients require this initial 
+palliative surgery when cardiac disorders are not amenable 
+to final corrective surgery. The indications can be broadly 
+grouped as under:
+A. To increase blood flow to the lungs
+PM?s??????
+where bidirectional Glenn and Fontan shunts can 
+only be performed after the decline in pulmonary 
+vascular resistance which may take months
+2. PA
+3. TOF
+4. Neonatal Ebstein’s with functional PA‑rare
+B. Complete repair not possible
+PM?`‑????
+anterior descending coronary artery crosses 
+the right ventricular (RV) outflow tract in TOF 
+(approximately 5%)[7‑9]
+2. Physiological‑prematurity, intracerebral bleed, or 
+other contraindications to CPB
+C. Hypoplastic left heart syndrome
+D. To encourage growth of pulmonary arteries
+PM?o`
+2. Ventricular septal defect (VSD) with aortopulmonary 
+collaterals
+3. Inadequate pulmonary arteries.
+What is an Ideal Shunt?
+Features of an ideal shunt are as follows:
+• It should be technically simple to perform
+• It should provide adequate but not excessive pulmonary 
+blood flow, hence minimize the risk of congestive 
+cardiac failure and pulmonary hypertension
+• It should provide good long‑term patency
+• It should be technically easy to close when repair is 
+completed
+• It should result in no residual cardiopulmonary 
+abnormalities after closure.
+Types of Shunts
+Classic Blalock‑Taussig shunt
+The classic Blalock‑Taussig shunt (CBTS) was the original 
+shunt described by Alfred Blalock and Helen Taussig. 
+The end‑to‑side anastomosis between the subclavian 
+(or the innominate) and pulmonary arteries is performed. 
+As described by them, the operation was performed on the 
+side opposite to the aortic arch to minimize kinking of the 
+subclavian artery as it crosses over the aortic prominence. 
+In addition, the longer innominate artery reduces kinking of 
+the pulmonary artery.
+Surgical approach: Thoracotomy
+Advantages:
+• Predictability of blood flow, because the subclavian 
+artery diameter prevents excessive blood flow to lungs 
+and hence, congestive cardiac failure
+• Unlikely to cause pulmonary vascular disease
+• Ease of closure during corrective surgery
+• Potential adaptive growth of the anastomosis.
+Disadvantages:
+• Thrombosis of the shunt due to its size
+• Subclavian or the innominate artery have to be 
+sacrificed although it did not appear to have a clearly 
+significant clinical effect [10]
+• extensive dissection[10]
+• Significant arm ischemia from subclavian artery division 
+was uncommon, although the pulse in the ipsilateral 
+arm was often not felt for days after the operation
+• Neurologic disadvantages are rare and include risk of 
+recurrent laryngeal nerve injury, phrenic nerve injury, 
+and Horner syndrome
+• Various modifications of systemic‑to‑pulmonary artery 
+shunt have been described. Among them, the MBTS is 
+the most common type currently in use.
+Modified Blalock‑Taussig shunt
+It is currently most commonly performed procedure. It was 
+first described by Klinner et al. in 1962. [11] An interposition 
+PTFE (or Gore‑Tex) graft between the subclavian artery 
+and the pulmonary artery is used to prevent sacrificing 
+of the subclavian artery. PTFE conduit is considered 
+ideal.[12] PTFE was found to be superior to Dacron because 
+it has a smaller pore size that limits the tissue ingrowth but 
+allows for fibroblastic incorporation to bind it to surround 
+structures.[13]
+Approach: Thoracotomy/midline
+Advantages:
+• Subclavian artery need not be sacrificed
+[[p3]]
+Kiran, et al.: A review of the blalock and taussig shunt
+Annals of Cardiac Anaesthesia  |  Volume 20  |  Issue 3  |  July‑September 2017 325
+• MBTS is useful when CBTS cannot easily be 
+performed, such as on the same side as the aortic arch
+• Less distortion of pulmonary artery than CBTS
+• Future shunt takedown is relatively easy
+• Patency rate >90% at the age of 2 years[13]
+• Gazzaniga et al. advocate using shunts of at least 
+5 mm, even in small infants as they found that the 
+orifice of the subclavian artery serves to regulate blood 
+flow through the shunt.
+Complications:
+• Thrombosis
+• Leakage of serous fluid through the PTFE in the chest
+• Pseudoaneurysm, which can cause massive fatal 
+hemoptysis.[14]
+Central shunt
+It is the anastomosis between the ascending aorta and 
+the main pulmonary artery using a short PTFE conduit. 
+A central shunt may be especially useful with bilateral 
+small branch pulmonary arteries, a concomitant procedure 
+requiring a median sternotomy, or both.
+Surgical approach: Midline
+Pericardium is incised. Aortotomy is done with an aortic 
+punch device using a side‑biting clamp. A  short PTFE 
+conduit is used to anastomose the ascending aorta and the 
+main/branch pulmonary artery.
+The advantages of this technique are as follows:
+• Applicability to small children with small peripheral 
+vessels
+• Prevention of distortion of pulmonary arteries
+• Provision of equal pulmonary blood flow to both lungs
+• Lower occlusion rate (compared with the CBTS or 
+MBTS techniques)
+• Avoidance of subclavian artery steal
+• Ease of closure during corrective repair.
+Disadvantages
+a. Entry into the pericardium
+b. Inapplicability for patients without a patent ductus 
+arteriosus (PDA) or other source of pulmonary blood 
+flow.
+Immediately postoperatively, patients may be anticoagulated 
+with heparin for 24‑72 h. Patients may be placed on 
+long‑term aspirin therapy for shunt patency maintenance.
+A modification of central shunt was described by Waterson 
+et al. for patients with PA, VSD, and hypoplastic 
+pulmonary arteries. [15] An end‑to‑side anastomosis was 
+done between a transected main pulmonary artery and the 
+side of the ascending aorta. They believed that it provides 
+for adequate pulmonary artery growth in patients with 
+small central pulmonary arteries. This shunt has also been 
+termed the Mee shunt after the senior surgeon involved in 
+its description.
+Potts shunt
+Potts shunt was developed as an alternate to CBTS in 
+neonates. In this, a connection is made between the 
+descending aorta and left pulmonary artery.
+Advantages:
+a. Easier to perform because does not involve vessels of 
+small caliber, i.e., the subclavian artery
+b. Lesser incidence of shunt thrombosis and occlusion.
+Disadvantages:
+a. High incidence of subsequent pulmonary hypertension
+b. Preferential blood flow to one lung with kinking and 
+distortion of the pulmonary artery
+c. Technical difficulties during takedown
+d. Congestive cardiac failure (20%).[16]
+Because of above‑mentioned problems, pott’s shunt is not 
+routinely performed.
+Waterston shunt
+It is the anastomosis between the ascending aorta and right 
+pulmonary artery.
+Disadvantages are similar as the Potts shunt
+PM?d???K
+2. Risk of pulmonary hypertension
+3. Congestive cardiac failure (20%).[16]
+Therefore, it is also not routinely performed.
+Cooley shunt
+A newer approach using intrapericardial anastomosis from 
+the ascending aorta to the right pulmonary artery was 
+described.
+Surgical approach – Right anterolateral thoracotomy
+Advantages:
+• Avoidance of mediastinal dissection (decreased risk of 
+bleeding from collaterals)
+• Complete repair could be done in through the same 
+incision
+• Less technical difficulties during future takedown.
+Disadvantages:
+• Complex technique
+• Improper size anastomosis could lead to heart failure 
+and pulmonary congestion
+• Invasion of pericardium leads to higher risk of 
+adhesions in future cardiac repair.
+Sano shunt
+An anastomosis between the right ventricle–to–pulmonary 
+????????as?
+shunts.[17] A 4‑mm nonvalved PTFE graft was used in 
+infants <2.5 kg and a 5.0 mm nonvalved PTFE graft in 
+infants weighing >2.5 kg. It was reported that mortality 
+improved from 62% to 89% after the stage 1 surgeries. [18,19] 
+[[p4]]
+Kiran, et al.: A review of the blalock and taussig shunt
+326 Annals of Cardiac Anaesthesia  |  Volume 20  |  Issue 3  |  July‑September 2017
+Sano shunt was preferred for univentricular conditions such 
+as in Norwood operation.
+Disadvantages:
+a. Early obstruction (approximately 3 months) as 
+compared to MBTS [17]
+b. To overcome complications of ventriculotomy in a 
+systemic ventricle, a valved conduit from the right 
+ventricle to the pulmonary artery was attempted. It was 
+abandoned following high failure rates.
+Preoperative Considerations
+Patients presenting for surgery may be grouped into:
+M?m????as?
+M?o???as????
+subsequent total correction
+c. Patients presenting with pulmonary overcirculation for 
+PA banding
+d. Patients presenting with shunt thrombosis.
+For each of these, the anesthetic management will depend on:
+Patient‑related Factors
+PM?`?
+2. Age
+3. Weight <3 kg
+4. Prematurity
+5. Coexisting diseases‑mostly noncardiac congenital: 
+Tracheoesophageal fistula, anorectal malformation, cleft 
+lip and palate, renal and skeletal pathologies. Down 
+syndrome patients may have atlantooccipital subluxation 
+that warrants airway management precautions
+6. Respiratory infections: Effects are more deleterious in 
+patients with pulmonary hypertension or cavopulmonary 
+anastomosis. Risk‑benefit ratio is to be discussed with 
+the surgeon when delaying the surgery
+7. Exercise tolerance indicated by fatigue, dyspnea on 
+feeding, irritability, and inability to gain weight
+8. Medications such as aspirin, warfarin, antidepressants, 
+diuretics, angiotensin converting enzyme (ACE) 
+inhibitors, antiarrhythmics
+9. Previous surgeries and length of Intensive Care Unit 
+stay‑indicates possible difficult intravenous (IV) access 
+and difficult intubation (? subglottic stenosis)
+10. RV function patients with high pulmonary blood flow 
+may present with tachycardia, tachypnea, irritability, 
+cardiomegaly, and hepatomegaly.
+Surgical Factors
+PM?s????????
+duration of the surgery affecting the postoperative 
+outcome. Details such as aortic arch anatomy and 
+possibility of aberrant subclavian artery are important
+2. Possible injury to nearby structures during dissection 
+which further complicates the procedure
+3. The use of CPB, sternotomy, or thoracotomy changes 
+the anesthetic plan.
+Preanesthesia checkup
+A detailed history regarding the onset of symptoms, 
+presence of cyanosis, feeding difficulties, sweating on 
+the forehead should be elicited. Medication history 
+??M?o???as???
+be on aspirin, warfarin, diuretics, ACE inhibitors, and 
+antiarrhythmics. The vast majority of newborns have PGE1 
+infusions running on presentation to avoid the possibility 
+of duct related cardiovascular collapse. The usual dose is 
+0.01–0.1 mcg/kg/min. Laboratory investigations should be 
+tailored accordingly.
+Risk assessment
+PM?h????G?K?
+reoperation, low cardiac output): Weight <3 kg and 
+preoperative shock
+2. Increased risk of mortality: Preoperative acidosis, 
+mechanical support (ventilatory or circulatory), renal 
+impairment, PA with intact ventricular septum and 
+weight <3 kg.
+Preoperative orders
+PM?o?Y?h?????
+after the patient comes to the hospital for surgery. In 
+case of children, counseling of parents is important to:
+• Reduces the child’s distress on separation to the 
+operating room
+• Increased child compliance
+• Reduced child anxiety
+• Reduced need for preoperative sedatives
+• Increased parental satisfaction.
+2. Preoperative fasting
+ Fasting time orders should be clearly written 
+with timing if possible as per ASA guidelines. 
+Dehydration should be avoided in cyanotic patients. 
+If the timing of surgery is uncertain, then an IV line 
+should be placed, and fluids started.
+3. Premedication
+• To produce sedation, ease separation anxiety, and 
+facilitate induction of anesthesia (<6 months: Not 
+required)
+• To supplement analgesia and reduce the requirements 
+for general anesthetic drugs
+• To block harmful vagal reflexes
+• To dry secretions in the respiratory tract.
+Drugs Used in Premedication
+Midazolam
+• Produces sedation and anxiolysis
+• Increases cooperation
+• Does not prolong recovery time
+• Smoothens postoperative recovery
+• Routes
+• Oral: 0.25–0.33 mg/kg (syrup form)
+• IV: 0.1 mg/kg
+[[p5]]
+Kiran, et al.: A review of the blalock and taussig shunt
+Annals of Cardiac Anaesthesia  |  Volume 20  |  Issue 3  |  July‑September 2017 327
+• Rectal: 0.4–0.5 mg/kg
+• Nasal: 0.2–0.3 mg/kg.
+Ketamine
+• Produces sedation, anxiolysis, and facilitates induction 
+of anesthesia
+• Oral: 5–10 mg/kg
+• Rectal: 5–10 mg/kg
+• Nasal: 3 mg/kg
+• Intramuscular: 2 mg/kg.
+Fentanyl
+• Oral transmucosal fentanyl citrate
+• 15–20 ug/kg: Onset in 20–30 min with 30 min duration 
+of action
+4. Continue all cardiac medications on the morning of 
+surgery except ACE inhibitors and diuretics due to their 
+hypotensive effects during anesthetic induction as seen 
+in adult cases
+5. Sedation: Sympathetic stimulation due to the crying of 
+an anxious and distressed child can increase oxygen 
+consumption and myocardial work; this might be 
+poorly tolerated in a child with limited cardiac reserve. 
+Midazolam is the preferred premedication to reduce 
+oxygen consumption in the dose of 0.5 mg/kg orally 
+half an hour before surgery. If IV line is present, then, 
+incremental doses of 0.1–0.25 mg/kg midazolam can 
+be given, provided airway and breathing issues are 
+addressed accordingly. Promethazine (5 mg/ml) can 
+also be given in dose of 0.5 mg/kg.
+Investigations
+PM?e??Y?o???
+viscosity which leads to thrombosis and infarction 
+in cerebral, renal and pulmonary regions. White 
+blood cell (WBC) count may be increased in cases of 
+respiratory infections. Spuriously, low platelet counts 
+may be observed in cases of polycythemia
+2. Coagulation profile: Prothrombin time and partial 
+thromboplastin time (PTT) are usually deranged in a 
+polycythemic patient. Coagulation abnormalities also 
+occur due to platelet dysfunction, hypofibrinogenemia, 
+and factor deficiencies. Preoperative phlebotomy 
+is performed in symptomatic hyperviscosity and 
+hematocrit more than 65%. However, dehydration must 
+be corrected first before deciding about phlebotomy. 
+On the other hand, WBC count and C‑reactive protein 
+measurement provide potential diagnosis of infection
+3. Serum electrolytes as mentioned earlier should be 
+checked in patients receiving diuretics
+4. Electrocardiogram (ECG) may show ventricular strain 
+or hypertrophy
+5. Echocardiogram is used for Doppler and color flow 
+mapping, while catheterisation is used for information 
+about pressures in different chambers, magnitude of 
+shunt and coronary anatomy
+6. The chest X‑ray shows the heart position and size, 
+atelectasis, acute respiratory infection, vascular 
+markings, and elevated hemidiaphragm.
+Cardiologist evaluation
+The need for cardiologist evaluation depends on the 
+complexity of the lesion. In a patient with a simple or 
+moderately complex lesion that has been completely 
+corrected and is well compensated, a standard preanesthetic 
+visit without cardiology consultation is accep table. 
+Moderately complex lesions accompanied with the inability 
+to compensate will warrant cardiologist evaluation and 
+optimization, but clearance must always be given by 
+anesthesiologist.
+Intraoperative Considerations
+Induction
+Most induction agents are well tolerated depending on the 
+rate and dose of the drug and whether it is inhalational or IV .
+Inhalation induction
+It is most commonly used in the absence of IV access. 
+Sevoflurane is the most commonly used inducing agent. 
+However, patients with poor cardiac function, who require 
+inotropes preoperatively, may not tolerate inhalational 
+induction and favor the use of ketamine.
+Intravenous
+SVR and PVR balance should be considered when using 
+IV agents. Ketamine in the dose of 1–2 mg/kg is the most 
+commonly used inducing agent.
+Monitoring
+The outcome data in these patients prescribe need for 
+invasive monitoring in addition to routine monitoring so 
+proceed as for a procedure on cardiopulmonary bypass.
+1. ECG: Particular attention to be paid to baseline ECG 
+trace to detect rate, arrhythmias and ST changes due to 
+myocardial ischemia
+2. Arterial line: It is to be placed on the side opposite 
+to the side of proposed shunt in case of radial 
+artery (i.e., right‑sided shunt, so left radial artery and 
+vice versa) or femoral route can be taken. Upper and 
+lower limb pressures can be compared with the use 
+of noninvasive blood pressure to diagnose coarctation 
+that may have been missed. The diastolic pressures 
+are important as they give indication of any coexisting 
+PDA as well as coronary steal resulting in myocardial 
+compromise
+3. SpO 2 probe: One should be aware that in right to left 
+shunts pulse oximetry overestimates arterial oxygen 
+saturation as saturation decreases, end‑tidal carbon 
+dioxide readings underestimate PaCO 2, and discrepancy 
+worsens with hypoxemia. When in doubt, obtain an 
+arterial blood gas (ABG) preoperatively for baseline
+[[p6]]
+Kiran, et al.: A review of the blalock and taussig shunt
+328 Annals of Cardiac Anaesthesia  |  Volume 20  |  Issue 3  |  July‑September 2017
+4. Near infrared spectroscopy
+5. Central venous line: To administer volume and inotropes 
+if required
+6. EtCO 2 monitoring
+7. Temperature probe
+8. Baseline ABG and activated clotting time are obtained
+9. Urine output.
+Position
+PM?sY?e????a‑s?
+shunt, left lateral position and for left sided modified 
+Blalock‑Taussig shunt right lateral positions are 
+required
+2. Sternotomy: For central shunts.
+Perioperative Management
+A balanced anesthetic technique, combining narcotic, and 
+inhalational agents supplemented with muscle relaxant 
+is usually undertaken. The ordinary routines such as the 
+use of 100% oxygen, hyperventilation and excessive 
+inhalational agents may decrease PVR, increase Qp: Qs 
+and decrease diastolic pressure with resultant concerns for 
+myocardial ischemia and systemic perfusion. Particular 
+attention to be paid for redo cases as sternotomy may result 
+in excessive blood loss. Adequate blood should always be 
+arranged beforehand.
+Ventilatory concerns
+These patients may already have preoperative respiratory 
+infections resulting in high airway pressures and low 
+saturation due to pulmonary congestion and bronchospasm. 
+Further insults are added when surgery requires 
+thoracotomy in right lateral or left lateral positions 
+resulting in one lung ventilation with retractors applied 
+on the exposed lung for a better view of the surgical 
+field. Hyperventilation and high FiO 2 to keep EtCO 2 and 
+saturation to accep table levels may be required during this 
+time.
+Before proceeding for anastomosis, heparin is given 3 min 
+before clamping in a dose of 1–1.5 mg/kg IV . ACT is to 
+??]QTO?M?e?as??K???
+artery branch is clamped. Desaturation is quite frequent 
+during this anastomosis. It requires vigilant monitoring 
+of the blood pressure, any bradycardia occurring due 
+to hypoxia and etCo 2 values (low due to decreased 
+pulmonary blood flow). Paradoxically, this may be less of 
+an issue with thoracotomy, as clamping the PA will reduce 
+ventilation‑perfusion mismatch.
+After the PA end is opened, the clamp is applied on 
+systemic artery‑subclavian/innominate of the proposed 
+side or aorta in case of central shunt when the partial 
+aortic clamp is applied. Subclavian artery may easily 
+be confused with PDA. The absence of arterial trace in 
+femoral artery can diagnose this condition. Hemodynamic 
+instability may occur after the shunt is opened due to blood 
+loss, systemic runoff to the PA and subsequent acidosis 
+and ischemia‑reperfusion injury occurring from release of 
+metabolites from ischemic limb. Inotropes may be required. 
+As per our institutional protocol, before the release of 
+systemic artery clamp, we start inotropes and administer 
+sodium bicarbonate prophylactically. It is common to see 
+low saturations initially due to high PVR, and pulmonary 
+vein desaturation secondary to lung collapse, hypoxic 
+pulmonary vasoconstriction, and atelectasis. Saturation 
+improves subsequently. At this time, low FiO 2 is 
+preferable. A rise in EtCo 2 is noted after the shunt is open. 
+Hemodilution is to be avoided. It is prudent to check ABGs 
+at this time.
+Further intraoperative course is guided by ruling out 
+any anatomical issues, i.e., appropriate shunt size and 
+whether prone to any kinking or narrowing. If there are 
+no anatomical issues, a review of the physiological issues 
+should be done‑adequate preload, sinus rhythm, good 
+contractility (i.e., good myocardial perfusion), maintenance 
+of SVR and appropriate PVR. Remember that shunt is not 
+the sole determinant of PVR. PVR also depends on changes 
+in lung volume, alveolar oxygenation, pH, and pCO2. Use of 
+inotropes results in improvement in hemodynamic parameters 
+and oxygen delivery but at the cost of increased consumption.
+Postoperative Management
+• Postoperative pain is commonly managed with 
+continuous narcotic infusion usually fentanyl at 
+1 mcg/kg/h
+• The decision regarding extubation: This has been 
+attributed to a number of factors:
+• Physiologic vulnerability of the neonates particularly 
+with congenital heart disease
+• There are changes in PVR, SVR, and Qp which 
+occur with lung re‑expansion in combination 
+with emergence from anesthesia, transition to 
+postoperative pain regimens, possibility of bleeding, 
+etc. These contribute to the postoperative risk of 
+cardiac arrest.
+The incidence of failure to extubate neonates following 
+MBTS was investigated by Gupta et al.[20] They found that 
+27% patients required either reintubation or the instigation 
+of noninvasive ventilation within 96 h. Decreased 
+ventricular function was strongly associated with failure. 
+There was a 13% incidence of diaphragmatic paralysis, all 
+in the group that failed. Postextubation hemodynamics also 
+changed, with an increased heart rate and systemic blood 
+pressure in successful subjects.
+Management of Complications
+Shunt failure
+The immediate postoperative period is the time when the 
+incidence of shunt failure is high. This can present acutely 
+[[p7]]
+Kiran, et al.: A review of the blalock and taussig shunt
+Annals of Cardiac Anaesthesia  |  Volume 20  |  Issue 3  |  July‑September 2017 329
+with precipitously dropping saturations. It might be due 
+to acute shunt failure secondary to the shunt clotting or 
+kinking. This is an emergency and should be addressed 
+immediately.[21‑23]
+as?????????
+12%.[24] Various studies suggest the use of aspirin or heparin 
+to prevent shunt thrombosis. However, histopathology 
+of shunts electively taken down found 25% had a 50% 
+stenosis at a median age of 8 months. [1,25]
+Anticoagulation Management
+Heparin should be started as soon as possible in the 
+postoperative period. Patients are usually given heparin 
+during clamping of the artery. Heparin should be restarted 
+if bleeding is not an issue usually after 4 h (chest 
+drains <3 ml/kg/h and postop aPTT is <60 s).
+Management of heparin therapy
+Standard heparin regime for prophylaxis:
+Prepare infusion of heparin at 1000 U/kg and start infusion 
+at 10 units/kg/h (0.5 ml/h).[26,27]
+Monitoring
+A. Clotting profile (apTT, PT, and fibrinogen) is to be 
+monitored
+PM?a???
+2. 4–6 h after starting
+3. 1 h after syringe change
+B. Platelet count if drop >50%
+ Consider HIT 5–10 days after institution of the treatment
+C. Therapeutic range – aPTT  (60–90 s)
+• Loading dose not required if recently returned from 
+OR
+• If APTT <50 s bolus of 50 U/kg over 10 min
+• If APTT 50–90 s, infusion at 200 U/kg/h and APTT 
+to be checked after 4 h.
+D. Aspirin
+• Aspirin is to be started
+• Chest is closed, and intracardiac lines removed
+• Pacing wires removed
+•?r??R–T?N?G?VT?H??
+• Continue heparin until the second dose of aspirin is 
+given.
+Management of Blocked Blalock‑Taussig Shunt
+This is an emergency.
+Diagnosis: Any patient with a significant drop in saturation 
+with systemic to pulmonary cardiac shunt or inaudible 
+shunt murmur.
+If there is any concern regarding surgical repair or 
+deteriorating child despite above interventions, return to the 
+OR should not be delayed.
+Management of Pulmonary Overcirculation
+as??????????
+blood flow and high saturation described as pulmonary 
+overcirculation. This is common if ductus arteriosus is 
+patent and resolves only after its closure.
+Diagnosis
+• Relatively high saturation
+• Chest X ray‑edematous lungs
+• Low mixed venous saturation
+• Rising lactate
+• Increase in base deficit
+• Relatively low mean blood pressure
+• Signs of right heart failure.
+Treatment
+• Mild form: Fluid restriction, diuretics
+• Severe form: Manipulation of SVR and PVR
+• Surgical: Pulmonary artery band/clipping.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+References
+PM?f?fK?lb?avK?v?vfK?e?qlK?a?kmM?
+The modified Blalock‑Taussig shunt: Clinical impact and morbidity 
+in fallot’s tetralogy in the current era. J Thorac Cardiovasc Surg 
+1997;114:25‑30.
+2. Lónyai T, Záborszky B, Kárpáti P. Synthetic vascular prosthesis for 
+Blalock‑Taussig anatomosis. Acta Chir Acad Sci Hung 1966;7:361‑9.
+3. Rodriguez L, Izukawa T, Moës CA, Trusler GA, Williams WG. Surgical 
+implications of right aortic arch with isolation of left subclavian artery. Br 
+Heart J 1975;37:931‑6.
+4. de Leval MR, McKay R, Jones M, Stark J, Macartney FJ. Modified 
+Blalock‑Taussig shunt. Use of subclavian artery orifice as flow regulator 
+in prosthetic systemic‑pulmonary artery shunts. J Thorac Cardiovasc Surg 
+1981;81:112‑9.
+5. Petrucci O, O’Brien SM, Jacobs ML, Jacobs JP, Manning PB, 
+Eghtesady P. Risk factors for mortality and morbidity after the neonatal 
+Blalock‑Taussig shunt procedure. Ann Thorac Surg 2011;92:642‑51.
+6. McKenzie ED, Khan MS, Samayoa AX, Vener DS, Ishak YM, Santos AB, 
+et al.  The Blalock‑Taussig shunt revisited: A contemporary experience. 
+J Am Coll Surg 2013;216:699‑704.
+7. Fellows KE, Freed MD, Keane JF, Praagh R, Bernhard WF, 
+Castaneda AC. Results of routine preoperative coronary angiography in 
+tetralogy of Fallot. Circulation 1975;51:561‑6.
+8. Hurwitz RA, Smith W, King H, Girod DA, Caldwell RL. Tetralogy of 
+Fallot with abnormal coronary artery: 1967 to 1977. J Thorac Cardiovasc 
+Surg 1980;80:129‑34.
+9. Need LR, Powell AJ, del Nido P, Geva T. Coronary echocardiography in 
+tetralogy of Fallot: Diagnostic accuracy, resource utilization and surgical 
+implications over 13 years. J Am Coll Cardiol 2000;36:1371‑7.
+10. Moulton AL, Brenner JI, Ringel R, Nordenberg A, Berman MA, Ali S, 
+Burns J. Classic versus modified Blalock‑Taussig shunts in neonates and 
+[[p8]]
+Kiran, et al.: A review of the blalock and taussig shunt
+330 Annals of Cardiac Anaesthesia  |  Volume 20  |  Issue 3  |  July‑September 2017
+infants. Circulation 1985;72(3 Pt 2):II35‑44.
+11. Klinner W, Pasini M, Schaudig A. Anastomosis between systemic and 
+pulmonary arteries with the aid of plastic prostheses in cyanotic heart 
+diseases. Thoraxchirurgie 1962;10:68‑75.
+12. Gold JP, Violaris K, Engle MA, Klein AA, Ehlers KH, Lang SJ, et al. 
+A five‑year clinical experience with 112 Blalock‑Taussig shunts. J Card 
+Surg 1993;8:9‑17.
+13. Gazzaniga AB, Elliott MP, Sperling DR, Dietrick WR, Eiseman JT, 
+McRae DM, et al. Microporous expanded polytetrafluoroethylene arterial 
+prosthesis for construction of aortopulmonary shunts: Experimental and 
+clinical results. Ann Thorac Surg 1976;21:322‑7.
+14. Zaki SA, Shanbag P. Pseudoaneurysm following modified Blalock 
+Taussig shunt. Indian Pediatr 2010;47:198‑9.
+15. Watterson KG, Wilkinson JL, Karl TR, Mee RB. Very small pulmonary 
+arteries: Central end‑to‑side shunt. Ann Thorac Surg 1991;52:1132‑7.
+16. Truccone NJ, Bowman FO Jr., Malm JR, Gersony WM. 
+Systemic‑pulmonary arterial shunts in the first year of life. Circulation 
+1974;49:508‑11.
+17. Sano S, Ishino K, Kawada M, Arai S, Kasahara S, Asai T, et al.  Right 
+ventricle‑pulmonary artery shunt in first‑stage palliation of hypoplastic 
+left heart syndrome. J Thorac Cardiovasc Surg 2003;126:504‑9.
+18. Pizarro C, Mroczek T, Malec E, Norwood WI. Right ventricle to 
+pulmonary artery conduit reduces interim mortality after stage 1 norwood 
+for hypoplastic left heart syndrome. Ann Thorac Surg 2004;78:1959‑63.
+19. Dragulescu A, Ghez O, Bouvenot J, Guillaumont S, Kreitmann B, 
+Metras D, et al. Value of the norwood‑sano compared with the classical 
+norwood procedure in hypoplastic left heart syndrome. Arch Mal Coeur 
+Vaiss 2006;99:452‑6.
+20. Gupta P, McDonald R, Goyal S, Gossett JM, Imamura M, Agarwal A, et 
+al. Extubation failure in infants with shunt‑dependent pulmonary blood 
+flow and univentricular physiology. Cardiol Young 2014;24:64‑72. 
+21. Williams JA, Bansal AK, Kim BJ, Nwakanma LU, Patel ND, Seth AK, 
+et al.  Two thousand Blalock‑Taussig shunts: A six‑decade experience. 
+Ann Thorac Surg 2007;84:2070‑5.
+22. Schindler M.  In: Macnab A, Macrae D, Henning R, editors. Care of the 
+Critically Ill Child. London: Churchill Livingstone; 2002. p. 198‑9.
+23. Ahmad U, Fatimi SH, Naqvi I, Atiq M, Moizuddin SS, Sheikh KB, et al. 
+Modified Blalock‑Taussig shunt: Immediate and short‑term follow‑up 
+results in neonates. Heart Lung Circ 2008;17:54‑8.
+24. Parry AJ, McElhinney DB, Kung GC, Reddy VM, Brook MM, 
+Hanley FL. Elective primary repair of acyanotic tetralogy of Fallot in 
+early infancy: Overall outcome and impact on the pulmonary valve. J Am 
+Coll Cardiol 2000;36:2279‑83.
+25. Wells WJ, Yu RJ, Batra AS, Monforte H, Sintek C, Starnes V A. 
+Obstruction in modified blalock shunts: A quantitative analysis with 
+clinical correlation. Ann Thorac Surg 2005;79:2072‑6.
+26. Monagle P, Chalmers E, Chan A, DeVeber G, Kirkham F, Massicotte P, 
+Michelson AD; American College of Chest Physicians. Antithrombotic 
+therapy in neonates and children: American College of Chest Physicians 
+Evidence‑Based Clinical Practice Guidelines (8 th edition). Chest 
+2008;133 6 Suppl: 887S‑968S.
+27. Andrew M. Anticoagulation and thrombolysis in children. Tex Heart Inst 
+J 1992;19:168‑77.

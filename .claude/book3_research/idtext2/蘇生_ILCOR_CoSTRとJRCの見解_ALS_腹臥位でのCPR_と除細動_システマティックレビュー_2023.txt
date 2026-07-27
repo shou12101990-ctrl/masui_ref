@@ -1,0 +1,139 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+CPR and Defibrillation in the Prone Position (SysRev) 腹臥位での CPR と除細動 (CoSTR 2023, SysRev) 
+Author：Katherine M. Berg, et al. ALS Task force 
+PICO, Study Design, and Time Frame 
+・Population: Adults and children with cardiac arrest occurring 
+while in the prone position 
+・Intervention: Performing CPR or defibrillation while the patient 
+remains in the prone position 
+・Comparator: Turning the patient supine before initiation of 
+CPR or defibrillation 
+・Outcome: Arterial blood pressure during CPR, time to 
+initiation of CPR, time to defibrillation for shockable rhythms 
+during CPR, endtidal capnography during CPR, ROSC, survival, 
+and survival with favorable neurological outcome to discharge or 
+≥30 days 
+・Study design: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies), case series, and case reports were eligible for 
+inclusion. Case series and reports were included because the 
+writing group is aware that the human data on prone CPR are 
+extremely limited and there is a need for guidance, given the use 
+of prone position for patients severely ill with COVID-19. 
+Unpublished studies (eg, conference abstracts, trial protocols) 
+PICOST 
+Population: 腹臥位の状態で心停止を起こした成人と小児 
+Intervention: 患者が腹臥位のままで CPR または除細動を実施。 
+Comparator: 患者を仰臥位にしてから CPR または除細動を実施。 
+Outcome:  
+CPR 中の動脈圧、CPR 開始までの時間、CPR 中のショック適応リズ
+ムに対する除細動までの時間、CPR 中の呼気終末二酸化炭素濃度、
+ROSC 率・入院時生存、および退院時もしくは 30 日後の神経学的転帰
+良好な生存。 
+Study Designs:  
+RCT および非ランダム化試験 (非 RCT、分割時系列解析、前後比較
+対照研究、コホート研究)、ケースシリーズ、および症例報告を含め
+た。腹臥位の心肺蘇生に関するデータが非常に限られている一方で、
+新型コロナウイルス感染症の重症患者に対する腹臥位療法の現況を考
+慮すると指針を示す必要性があると考え、ケースシリーズと症例報告
+を含めた。未発表の研究（例：会議録、治験プロトコル）および論説
+は除外したが、レター形式で発表された症例報告は含めた。 ScopRev 
+と SysRev は考察のために参考にしたが、データは抽出しなかった。 
+Timeframe: 
+[[p2]]
+2 
+ 
+and editorials were excluded, although case reports published in 
+letter form could be included. ScopRevs and SysRevs were 
+included for discussion and to ensure that no primary articles 
+were missed, but data were not extracted primarily from these 
+reviews. 
+・Time frame: All years and all languages were included as long 
+as there was an English abstract. The literature search was 
+conducted on December 9, 2020. 
+本文が英語以外の言語での文献も英語の要約がある場合には含め
+た。本文献検索は 2020 年 12 月 9 日に実施した。 
+Treatment recommendations 
+For patients with cardiac arrest occurring while in the prone 
+position with an advanced airway already in place and for whom 
+immediate supination is not feasible or poses significant risk to 
+the patient, initiating CPR while the patient is still prone may be 
+a reasonable approach (good practice statement).  
+Invasive blood pressure monitoring and continuous ETCO2 
+monitoring may be useful to ascertain whether prone 
+compressions are generating adequate perfusion, and this 
+information could inform the optimal time to turn the patient 
+supine (good practice statement). For patients with cardiac 
+arrest occurring while in the prone position without an advanced 
+airway already in place, we recommend turning the patient 
+supine as quickly as possible and beginning CPR (strong 
+recommendation, very low–certainty evidence).  
+推奨と提案 
+確実な気道確保が行われている腹臥位で心停止が起きた場合、すぐ
+に仰臥位にすることが難しい時や患者に重大な危険をもたらす時に
+は、腹臥位のままで CPR を開始することは合理的である可能性があ
+る。（優れた医療慣行に関する記述）。 
+観血的動脈圧モニタリングと持続的 ETCO2 モニタリングは、腹臥位
+での圧迫による適切な灌流の確認に役立つ可能性があり、患者を仰臥
+位にする最適なタイミングを判断する指標になるかもしれない (優れ
+た医療慣行に関する記述)。 
+高度気道確保がまだ行われていない状態で腹臥位にある時に心停止
+が発生した場合、できるだけ早く患者を仰臥位にし、CPR を開始する
+ことを推奨する（強い推奨、エビデンスの確実性：非常に弱い）。 
+心停止でショック適応リズムの場合で、すぐに仰臥位にできない時
+には、腹臥位のまま除細動を試みるのが合理的であろう（優れた医療
+慣行に関する記述）。 
+[[p3]]
+3 
+ 
+For patients with cardiac arrest with a shockable rhythm who 
+are in the prone position and cannot be supinated immediately, 
+attempting defibrillation in the prone position is a reasonable 
+approach (good practice statement). 
+ 
+１． JRC の見解と解説 
+・ 新型コロナウイルス感染症のパンデミックにより、重症呼吸不全に対して腹臥位療法の実施が増えたが、腹臥位の状態で心停止となった場
+合、腹臥位のまま CPR を開始すべきか、仰臥位にしてから CPR を開始すべきかについてのガイドラインはない。 
+・ これに関して高いエビデンスを有する報告はないが、文献 29 報において、32 例の症例報告があり、成人が 20 例、小児が 12 例であった。
+腹臥位のままで CPR を開始したものが 23 例（成人 12 例、小児 11 例）、仰臥位にしてから開始したのが 9 例（成人 8 例、小児 1 例）であ
+った。全 32 例中 31 例は、脊椎または脳の手術中の症例であり、1 例は ICU における症例であった。また、腹臥位のまま CPR を行っている
+際に EtCO2 モニターを用いて圧迫の有効性を評価していたものは、成人で 5 例、小児で 2 例であった。 
+・ 詳細な転帰の記載が乏しかったため、CPR の方法の違いに関わる評価はできなかった。腹臥位で CPR が行われた成人は 12 例で、全例 ROSC
+が得られていた。そのうち退院時の転帰の記載がある報告は 5 例で、全例が生存退院していた。30 日生存が明記されている報告は 1 例であ
+った。腹臥位で CPR が行われた小児 11 例中 10 例で ROSC が得られており、生存退院したのは 7 例であった。30 日生存の記載のある 5 例
+のうち 2 例が生存していた。30 日後の神経学的転帰を明記した症例報告はみとめなかった。 
+ 
+・ 腹臥位のままでの具体的な CPR の方法に関する記載があった報告は 8 例で、肩甲骨の間に手を置き圧迫した症例が 4 例、左開胸下で心臓マ
+ッサージを行った症例が 2 例、1 人の医師が胸骨の下に手掌を置き、もう 1 人の医師が胸椎中央部を圧迫した症例が 1 例、背部正中切開部
+の両側を圧迫した症例が 1 例であった。 
+・ 腹臥位のまま除細動を実施した際にパッドの位置の記載があった報告は 2 例で、右肩甲骨直下と左腋窩中線のすぐ後ろに貼った症例が 1 例、
+左腋窩中線と左肩甲骨上に貼った症例が 1 例であった。 
+・ 症例報告以外は、人形を用いて腹臥位から仰臥位にする際に胸骨圧迫や除細動までに要した時間を検討した論文が 2 件、CPR 中の動脈圧を
+[[p4]]
+4 
+ 
+検討した論文が 2 件あった。 
+・ 人工呼吸器を装着されている患者は観血的動脈圧モニタリングや持続的 EtCO2 モニタリングを行っていることが多く、腹臥位のまま CPR
+を開始した際も動脈圧や EtCO2 の値から圧迫の有効性を知ることができ、有効な CPR が行われていない場合は仰臥位に戻す判断をするこ
+とができる。 
+ 
+２．わが国への適用 
+・ 腹臥位の状態で CPR を開始するとき、確実な気道確保が行われており、すぐに仰臥位にできないときは腹臥位のまま CPR を開始してもよ
+い(優れた医療慣行に関する記述)。 
+・ ショック適応リズムの場合ですぐに仰臥位にできないときは腹臥位のまま電気ショックを行ってもよい(優れた医療慣行に関する記述)。 
+・ 腹臥位での CPR の研究報告が全て症例報告であり RCT や比較対照試験はなかったため、そのエビデンスの確実性は低く、「優れた医療慣行
+に関する記述」にとどめた。今後の検証が必要であり、ガイドライン報告時に新たに推奨を行う予定である。 
+ 
+３．担当メンバー 
+作業部会員（五十音順）渥美生弘 大井康文 中嶋優子 平山一郎 比留間孝広 
+共同座長（五十音順）森村尚登 
+担当編集委員（五十音順） 
+大下慎一郎、黒田泰弘 
+顧問 
+相引眞幸 
+編集委員長 
+ 坂本哲也 

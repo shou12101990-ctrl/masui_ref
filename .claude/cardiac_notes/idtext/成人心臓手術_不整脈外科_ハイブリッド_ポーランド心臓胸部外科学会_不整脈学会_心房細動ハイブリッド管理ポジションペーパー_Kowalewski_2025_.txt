@@ -1,0 +1,1090 @@
+
+[[p1]]
+Copyright © Polish Society of Cardiothoracic Surgeons (Polskie Towarzystwo KardioTorakochirurgów) and the editors of the Polish Journal of Cardio-Thoracic 
+Surgery (Kardiochirurgia i Torakochirurgia Polska). Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+143
+Position paper of the Polish Society  
+of Cardiothoracic Surgeons and the Heart  
+Rhythm Association of the Polish Society  
+of Cardiology on atrial fibrillation  
+hybrid management
+Mariusz Kowalewski1,2,3,4, Michał Farkowski5, Jakub Batko1,4, Natalia Ogorzelec1, Michał Zembala6, Oskar Kowalski7,8, 
+Sebastian S. Aboul-Hassan9,10, Rafał Płaksej11,12, Piotr Buchta8, Grzegorz Hirnle13, Marek Jastrzębski14,  
+Agnieszka Wojdyła-Hordyńska15,16, Krzysztof Bartus17, Marek A. Deja18, Marek Jasiński19, Tomasz Hrapkowicz13,  
+Bohdan Maruszewski20, Janusz Skalski21, Kazimierz Widenka22, Piotr Kułakowski23, Agnieszka Tycińska24,25, Robert J. Gil26, 
+Sebastian Stec1,27, Adam Sokal28, Piotr Suwalski1
+1Department of Cardiac Surgery and Transplantology, National Medical Institute of the Ministry of Interior and Administration, 
+Warsaw, Poland
+2Cardio-Thoracic Surgery Department, Heart and Vascular Centre, Maastricht University Medical Centre, and Cardiovascular 
+Research Institute Maastricht (CARIM), Maastricht, the Netherlands
+3Department for the Treatment and Study of Cardiothoracic Diseases and Cardiothoracic Transplantation, IRCCS-ISMETT, 
+Palermo, Italy
+4Thoracic Research Centre, Collegium Medicum Nicolaus Copernicus University, Innovative Medical Forum, Bydgoszcz, Poland
+5Department of Cardiology, National Medical Institute of the Ministry of Interior and Administration, Warsaw, Poland
+6Department of Cardiac Surgery, Military Institute of Medicine, National Research Institute, Warsaw, Poland
+7Department of Human Nutrition, Department of Dietetics, Faculty of Health Sciences in Bytom, Medical University of Silesia in 
+Katowice, Zabrze, Poland
+8Silesian Center for Heart Diseases, Zabrze, Poland
+9Department of Cardiac Surgery, Zbigniew Religa Heart Center ”Medinet”, Nowa Sol, Poland
+10Department of Cardiac Surgery and Interventional Cardiology, Faculty of Medicine and Medical Sciences, University of Zielona 
+Gora, Poland
+11Department of Cardiology, The Copper Health Centre Hospital (MCZ SA), Lubin, Poland
+12Division of Cardiology at the Copper Health Center Inc. in Lubin, University of Science and Technology in Wroclaw, Poland
+13Department of Cardiac, Vascular and Endovascular Surgery and Transplantology, Faculty of Medical Sciences, Medical 
+University of Silesia, Katowice, Silesian Center for Heart Diseases, Zabrze, Poland
+14First Department of Cardiology, Interventional Electrocardiology and Hypertension, Jagiellonian University Medical College, 
+Krakow, Poland
+15Medical Sciences Institute, University of Opole, Poland
+16Department of Cardiology, University Hospital Opole, Poland
+17Department of Cardiovascular Surgery and Transplantology, Institute of Cardiology, Jagiellonian University Medical College, 
+St. John Paul II Hospital, Krakow, Poland
+18Department of Cardiac Surgery, Upper-Silesian Heart Center, Medical University of Silesia, Katowice, Poland
+19Department and Clinic of Cardiac Surgery, Wroclaw Medical University, Wroclaw, Poland
+20Department of Pediatric Cardiothoracic Surgery, The Children’s Memorial Health Institute, Warsaw, Poland
+21Department of Pediatric Cardiac Surgery, Collegium Medicum, Jagiellonian University, Krakow, Poland
+22Department of Surgery, Faculty of Medicine, Collegium Medicum, University of Rzeszow, Poland
+23Department of Cardiology, Centre of Postgraduate Medical Education, Grochowski Hospital, Warsaw, Poland
+24Department of Intensive Cardiac Care, Medical University of Bialystok, Poland
+25Department of Cardiology, Medical University of Bialystok, Poland
+26Department of Cardiology, National Institute of Medicine of the Ministry of Interior and Administration, Warsaw, Poland
+27Institute for Cardiovascular Science, CardioMedicum, Krakow, Poland
+28Silesian Park of Medical Technology, KardioMed Silesia, Zabrze, Poland, Department of Cardiology and Angiology, Silesian 
+Centre for Heart Diseases, Zabrze, Poland
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3): 143-157
+SPECIAL PAPER DOI: https://doi.org/10.5114/kitp.2025.155459
+Address for correspondence:  Mariusz Kowalewski, Department of Cardiac Surgery and Transplantology, National Medical Institute 
+of the Ministry of Interior and Administration, Warsaw, Poland, e-mail: kowalewskimariusz@gazeta.pl 
+Received: 30.08.2025, accepted: 30.09.2025, online publication: 30.09.2025.
+[[p2]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3)144
+Position paper of the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association of the Polish Society 
+of Cardiology on atrial fibrillation hybrid management
+Atrial fibrillation hybrid management in light 
+of multidisciplinary patient-oriented atrial 
+fibrillation management
+Atrial fibrillation (AF) is the most common cardiac ar -
+rhythmia, with increasing prevalence, significant socioeco-
+nomic burden, and everyday impairment of quality of life in 
+diagnosed patients [1, 2]. To adequately address the mul-
+tifactorial challenges associated with AF management, 
+a patient-centered, integrated approach was developed, 
+broadly known as AF-CARE (Figure 1). It consists of four 
+main principles: (C)omorbidity and risk factor manage-
+ment, (A)void stroke and thromboembolism, (R)educe 
+symptoms by rate and rhythm control, and (E)valuation 
+and dynamic reassessment [3]. Although pharmacologic 
+therapy remains foundational, its suboptimal efficacy, es-
+pecially in persistent arrhythmias, has fueled the evolution 
+of interventional strategies, each with unique benefits and 
+constraints [3]. In light of this approach, hybrid manage-
+ment of AF serves as a tool for both avoidance of stroke 
+and thromboembolism by left atrial appendage closure 
+(LAAC) and reduction of symptoms by rate and rhythm con-
+trol achieved through double-approach hybrid ablation [3]. 
+e?PM?q?????L????
+Abstract
+This position paper, jointly authored by the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association 
+of the Polish Society of Cardiology, defines the role of hybrid approaches in the treatment of cardiac arrhythmias, particularly 
+atrial fibrillation. We present a rationale for integrating epicardial and endocardial ablation strategies, summarize current evi-
+dence, and advocate for multidisciplinary planning, including arrhythmia treatment during cardiac surgery for other indications 
+and atrial fibrillation treatment as a stand-alone procedure. The paper highlights the importance of minimally invasive ap-
+proaches, the need for heart team-based planning, structured curricula, and postoperative referral pathways for comprehensive 
+management of atrial fibrillation and non-atrial fibrillation arrhythmias.
+Key words: hybrid ablation, atrial fibrillation, arrythmia, arrythmia treatment.
+[[p3]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3) 145
+SPECIAL PAPER
+Additionally, it may lead to complete treatment of AF with 
+lifelong prevention of cryptogenic strokes and other throm-
+boembolic events. To better understand the significance 
+of the hybrid management of AF, the two aforementioned 
+components should be analyzed in detail. 
+Definitions of hybrid arrhythmia treatment
+Hybrid arrhythmia treatment encompasses a spectrum 
+of approaches that integrate surgical and catheter-based 
+interventions, either concurrently or sequentially [4]. Stan-
+dard hybrid techniques include:
+PH??????L
+catheter touch-up mapping and ablation;
+2) concomitant surgical pulmonary vein isolation (PVI) 
+and electrophysiological testing, with possible endocardial 
+supplementation using “touch-up” techniques. 
+Multiple procedural timing (0–6 months) strategies ex-
+ist within hybrid therapy, each requiring close collaboration 
+between cardiac surgeons and electrophysiologists to en-
+sure optimal outcomes (Figure 2). 
+The choice of timing strategy is often determined by 
+the operator’s expertise and preferences, institutional re-
+sources, operating room limitations, reimbursement poli-
+cies, and, more importantly, patient-related factors such as 
+comorbidities and anatomical features [5, 6]. The strengths 
+and weaknesses of different timing strategies are summa-
+rized in Figure 3. 
+Although hybrid treatment is gaining recognition, it is 
+essential to evaluate the superiority of hybrid ablation over 
+stand-alone surgical or “catheter only”-based ablation, and 
+to determine the most appropriate treatment modality for 
+each patient individually. Shared patient decision-making 
+remains key to optimizing long-term success [3].
+Indications and contraindications for hybrid 
+atrial fibrillation ablation
+Hybrid ablation should not be regarded as a simple 
+alternative to catheter-based therapy but rather a special-
+ized, escalation-level intervention dedicated to a specific 
+subset of patients. As stated in the 2024 ESC Guidelines, 
+hybrid ablation carries a class IIa recommendation for pa-
+tients with symptomatic persistent AF refractory to anti-
+arrhythmic drugs (AAD) to prevent symptoms, recurrence, 
+and progression of AF . Class IIb is assigned to performing 
+hybrid ablation in symptomatic paroxysmal AF refractory 
+to AADs and particularly in those with failed prior catheter 
+ablation within a shared decision-making team [3]. This 
+proves a growing recognition of the role hybrid ablation can 
+play in the comprehensive management of AF . Key indica-
+tions for hybrid ablation include:
+• Symptomatic non-paroxysmal AF (persistent or long-
+standing persistent AF).
+• Patients with documented epicardial substrate or poste-
+rior wall involvement inaccessible by endocardial means.
+• Failure of ≥ 1 catheter ablation procedure for AF .
+• Large left atrium (e.g., ≥ 50 mm diameter or left atrial 
+volume index (LAVI) ≥ 28 ml/m
+2).
+• Confirmed, recurrent, or suspected left atrial appendage 
+(LAA) thrombus (absolute contraindication to catheter 
+ablation).
+Figure 2. Flowcharts for different hybrid arrhythmia treatment options
+AF – atrial fibrillation, CA – catheter ablation, EPS – electrophysiological study, LAAC – left atrial appendage closure; blanking period after each procedure might 
+vary from 2 to 3 months; however, in the case of very symptomatic recurrences despite escalation of antiarrhythmic therapy and cardioversion, the second stage, 
+especially with persistent macroreentrant tachycardias, could be performed earlier
+
+[[p4]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3)146
+Position paper of the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association of the Polish Society 
+of Cardiology on atrial fibrillation hybrid management
+Figure 3. Strengths and weaknesses of staged and concomitant procedures 
+• Oral anticoagulant (OAC) contraindications (e.g., severe 
+bleeding, sports injury risk, systemic intolerance).
+• Pre-surgical planning requiring OAC discontinuation (e.g., 
+renal transplantation).
+• Patient preference for epicardial LAAC and durable lesion sets.
+Hybrid ablation is also beneficial when rhythm control 
+is a prerequisite for left ventricular reverse remodeling (e.g., 
+tachycardia-induced cardiomyopathy) in patients where 
+permanent pacemaker implantation is not desirable. Rela-
+tive contraindications include:
+[[p5]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3) 147
+SPECIAL PAPER
+Figure 4. Strengths and weaknesses of minimally invasive surgical ablation approaches
+• Advanced frailty or inability to tolerate general anesthesia.
+• Severely impaired respiratory function (e.g., advanced 
+chronic obstructive pulmonary disease), though minimal-
+ly invasive strategies like unilateral access or extracorpo-
+real support may be feasible [7].
+• Severely reduced EF (< 25%) unless AF is the primary sus-
+pected cause (tachycardia-induced cardiomyopathy).
+• Ongoing active infection, unstable coronary disease, or 
+severe pulmonary hypertension.
+Limitations to surgical access AF ablation include: se-
+vere chest and vascular anomalies, previous thoracic or 
+cardiac surgery, and previous severe chest trauma and in-
+juries. Some of the limitations are not predictable from ear-
+lier exams and diagnostic imaging, such as pericardial or 
+pleural adhesions. Shared decision-making through a mul-
+tidisciplinary electrophysiology (EP)-heart team is crucial to 
+guide patient selection and align treatment with patient 
+values and clinical realities.
+Advantages and limitations of stand-alone and 
+hybrid approaches in arrhythmia treatment
+Stand-alone approach
+Surgical arrhythmia treatment has advanced from 
+the classic Cox-Maze III procedure to minimally invasive 
+formats, performed through various approaches, including 
+thoracoscopic and subxiphoid access (Figure 4). 
+Thoracoscopic epicardial ablation enables PVI and 
+the creation of adjunctive lesion sets targeting left atrial 
+substrates. Robotic-assisted techniques offer precision and 
+reduced surgical trauma [8]. Concomitant ablations during 
+valve or CABG surgery are efficient opportunities for in-
+tegrated rhythm control. Catheter ablation is effective in 
+paroxysmal AF and supraventricular tachycardias, utilizing 
+3D electroanatomical mapping [9]. However, its limitations 
+include difficulty achieving transmurality and incomplete 
+lesion sets in persistent AF [8]. Energy modalities include 
+radiofrequency, including high voltage short duration tech-
+niques, cryoablation, laser, and emerging pulsed field abla-
+tion (PFA), which offers more safety and promising efficacy 
+[10]. Each of the above approaches provides unique ben-
+efits for AF treatment; however, it is also associated with 
+different limitations and complication profiles.
+Hybrid approach
+Hybrid ablation combines the strengths of both surgical 
+and catheter-based approaches, eliminating most of their 
+respective limitations simultaneously (Figure 5).
+This technique enables comprehensive access to both 
+endocardial and epicardial substrates, improves success in 
+persistent AF, reduces recurrence, and encourages multidis-
+ciplinary collaboration [11]. Moreover, it is adaptable based 
+on intraoperative findings and patient anatomy, optimizing 
+ablation strategies. It should be acknowledged that previ-
+ous reports point to the fact that the hybrid approach was 
+associated with a slightly increased incidence of complica-
+tions when compared to catheter ablation alone [12]. With 
+more recent data, the complication rates are dropping, but 
+certainly deserve further investigation [13].
+Rationale for hybrid treatment
+Persistent forms of AF involve complex pathophysiology 
+with both triggers and substrate-related drivers, like rotors 
+[[p6]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3)148
+Position paper of the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association of the Polish Society 
+of Cardiology on atrial fibrillation hybrid management
+and fibrosis [14]. While paroxysmal AF is largely trigger-
+based and suitable for catheter ablation, non-paroxysmal 
+AF benefits from comprehensive lesion creation (Figure 6). 
+Surgical ablation, typically via the thoracoscopic ap-
+proach, is better suited for targeting both triggers and 
+substrates, and achieving transmural and durable lesions, 
+including epicardial structures that may not be accessi-
+ble via the endocardial approach [9]. Hybrid therapy has 
+emerged as a promising strategy, combining the strengths 
+of both techniques: surgical durability with catheter preci-
+sion. Importantly, early preoperative planning enables an 
+individualized patient approach and the integration of an 
+appropriate rhythm management strategy into the overall 
+surgical plan. Postoperatively, referral for an electrophysi-
+ological study (EPS) is essential to verify the completeness 
+of the ablation lines and perform a “touch-up” ablation if 
+necessary. The multidisciplinary, staged approach optimizes 
+procedural outcomes, as shown by improved arrhythmia-
+free survival, especially in persistent AF [11]. 
+Evidence-based review of hybrid arrhythmia 
+treatment
+Surgical versus catheter ablation
+Three trials compared surgical and catheter ablation. 
+Two trials compared the efficacy, and one was focused on 
+quality of life outcomes [15–17]. In terms of efficacy, sur-
+gical ablation has been proven to be superior to catheter 
+ablation (60–65% AF freedom vs. 36.5–46%), although ef-
+fectiveness is paired with an increased risk of complica-
+tions. It should be noted that in the long-term observation 
+of patients from the FAST trial, the increased risk of compli-
+cations was not maintained, but so was the observation re-
+garding increased effectiveness of rhythm restoration [15]. 
+No differences were observed in terms of quality of life; 
+however, the surgical ablation group experienced more sig-
+nificant complications.
+Hybrid versus catheter ablation
+There is a limited number of trials directly compar -
+ing hybrid ablation with catheter ablation. In two studies, 
+the thoracoscopic approach was used for epicardial abla-
+tion, resulting in higher rates of AF freedom in the hybrid 
+ablation population (71.6–89% vs. 39.2–41%) [11, 13]. This 
+observation was sustained in a 3-year follow-up. Addi-
+tionally, no significant difference in complication rate was 
+observed during the 3-year follow-up. In one trial using 
+a subxiphoid approach, the hybrid approach was superior; 
+however, the difference between the two groups was less 
+pronounced (67.7% vs. 50%), still statistically significant in 
+favor of hybrid ablation. One study reported significantly 
+lower AF recurrence in the hybrid group (29.6% vs. 34.9%); 
+however, the hybrid approach was associated with more 
+extended hospital stays (11 days vs. 4 days) [18]. The type 
+of AF was identified as the primary determinant of hybrid 
+approach success, with better outcomes observed in par -
+oxysmal AF following failed catheter ablation and in persis-
+tent type with relatively short AF episodes [19]. 
+The CAPLA trial was performed to investigate the im-
+pact of additional posterior wall isolation in addition to 
+Figure 5. Hybrid ablation as a synthesis of surgical and catheter ablation for successful atrial fibrillation treatment 
+AF – atrial fibrillation, PV – pulmonary vein.
+[[p7]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3) 149
+SPECIAL PAPER
+PVI during catheter ablation [20]. There were no significant 
+differences between the above group in terms of free-
+dom from AF at 12 months, which additionally underlines 
+the importance of the epicardial component during hybrid 
+ablation, as in the CONVERGE trial [21].
+A recent meta-analysis by Aerts et al. compared hybrid 
+thoracoscopic with surgical thoracoscopic AF ablation [22]. 
+Based on results from 53 studies encompassing 4,950 pa-
+tients, no significant differences in short-term mortality and 
+stroke were found. However, long-term freedom from atrial 
+arrhythmias was higher in the hybrid group (HR = 0.59,  
+95% CI: 0.43–0.83).
+Role of pulsed field ablation in hybrid 
+procedures
+PFA is rapidly becoming a cornerstone of contempo-
+rary catheter ablation, owing to its tissue specificity, short 
+procedure time, and superior safety profile. These advan-
+tages are now extending to the hybrid setting. While most 
+studies of  PFA have focused on stand-alone procedures, 
+early data confirm its utility in the second stage of hybrid 
+ablation. Eltsov et al. demonstrated successful endocardial 
+PFA completion of epicardial lesion sets in all 11 patients 
+with 100% sinus rhythm maintenance at 12 months and no 
+Figure 6. Triggers in paroxysmal and non-paroxysmal AF and ablation targets
+AF – atrial fibrillation, AO – aorta, CS – coronary sinus, CTI – cavo-tricuspid isthmus, IVC – inferior vena cava, LA – left atrium, LAA – left atrial appendage, LAAC – 
+left atrial appendage closure, LoM – ligament of Marshall, PVI – pulmonary vein isolation, RA – right atrium, RAA – right atrial appendage, SVC – superior vena cava.
+
+[[p8]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3)150
+Position paper of the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association of the Polish Society 
+of Cardiology on atrial fibrillation hybrid management
+procedural complications [23]. Another study comparing 
+hybrid-convergent ablation to PFA showed similar rhythm 
+outcomes but superior safety in the PFA arm, although LAAC 
+was not performed in that trial [24]. Surgeons and electro-
+physiologists should collaborate in selecting the optimal 
+energy modality for the second stage. If PFA is available and 
+suitable, it should be used without hesitation to complete 
+posterior wall isolation or touch-up lines. Hybrid therapy 
+does not imply a limitation to older technologies but rather 
+a flexible platform to integrate the best tools from both dis-
+ciplines, evolving with innovation for the patient’s benefit.
+Procedure-related complications and 
+management
+The hybrid ablation procedure combines the risk pro-
+file of both surgical and catheter ablation techniques. 
+While complication rates have declined with increased ex-
+perience, early identification and proactive management 
+remain essential. Strategies to prevent and detect com-
+plications include: a) preoperative imaging: 3D/contrast 
+enhanced (angio) computed tomography, transesophageal 
+echocardiography (TEE), and spirometry (for unilateral lung 
+ventilation capability); b) intraoperative tools: TEE guid-
+ance, phrenic nerve direct visualization, electroanatomic 
+mapping; c) postoperative monitoring: 24-hour ICU moni-
+toring, chest tube control, chest X-ray (to exclude pleural 
+effusion or pneumothorax), early transthoracic echocar -
+diography (TTE) and inflammatory markers and d) active 
+prevention of post-procedural pericarditis and post-cardiot-
+omy syndrome [25]. Supplementary Table SI lists the most 
+common complications of either/each approach.
+Hybrid ablation as a concomitant procedure
+The tailored AF approach can be integrated into a broad 
+spectrum of cardiac procedures. Regardless of the primary 
+surgical implication, AF ablation and LAAC may be safely 
+implemented without increased procedural risk [26, 27]. 
+Studies have shown that concomitant surgical ablation 
+improves long-term survival, despite baseline surgical risk, 
+implying that AF treatment should be considered an inte-
+gral part of cardiac surgery rather than an optional adjunct 
+[28]. In mitral valve surgeries, left atriotomy provides safe 
+access to perform LAAC and LA or bi-atrial MAZE effectively. 
+Given the proven contribution to arrhythmia control, right 
+atrial lines should also be considered standard in patients 
+undergoing tricuspid valve repair and a viable option in 
+other settings [29]. Compared to LA MAZE, concomitant bi-
+atrial ablation is associated with higher efficacy; however, 
+the patient’s profile and perioperative risk should be con-
+sidered due to the increased risk of procedural complica-
+tions [30]. 
+Even though reoperations present additional procedur-
+al challenges due to adhesions and altered anatomy, e.g., 
+the presence of coronary bypass grafts, LAA can still be suc-
+cessfully occluded, following careful patient profile assess-
+ment [31]. Cryoablation provides effective lesions with min-
+imized tissue trauma, rendering it especially well-suited for 
+reoperations [32, 33]. Even minimally invasive approaches, 
+such as minimally invasive direct coronary artery bypass, 
+do not preclude effective ablation and LAA [34]. Targeted 
+strategies can provide significant rhythm control, despite 
+no left atrial endocardial access. Decisions for optimal AF 
+treatment during cardiac surgery can be made based on 
+the flowchart presented in Figure 7 [30].
+Postoperative monitoring and follow-up
+Postoperative care after hybrid or surgical AF ablation 
+mirrors that of patients undergoing minimally invasive car-
+diac surgery. A chest tube is routinely inserted to manage 
+the pleural space and detect bleeding or effusion. Patients 
+are typically monitored in an ICU for 24 hours. Standard 
+Figure 7. Flowchart regarding optimal strategy for atrial fibrillation treatment during concomitant cardiac surgery 
+AF – atrial fibrillation, BA – bi-atrial, LA – left atrium, LAAC – left atrial appendage closure, PVI – pulmonary vein isolation.
+
+[[p9]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3) 151
+SPECIAL PAPER
+pathway includes: pain control and port-site analgesia, re-
+moval of drains typically on postoperative day 1, and dis-
+charge on day 2–3 if the patient remains stable. The ini-
+tial follow-up visit is scheduled at 7 days for wound check 
+and ECG. The cardiologist handles the patient afterwards: 
+visit is scheduled at 30 days: rhythm control, medication 
+titration, echo for pericardial effusion. Second-stage EPS, 
+mapping, and potential touch-up catheter ablation follow 
+at 1–3 months if the staged hybrid protocol is followed. AF 
+recurrence within the 3-month blanking period should not 
+be interpreted as ablation failure; in fact, recurrence dur -
+ing this window is expected as ablation lines mature and 
+the healing process ensues [4]. A designated blanking peri-
+od between the surgical and transcatheter stages of hybrid 
+ablation is considered beneficial, as it allows for complete 
+stabilization and maturation of epicardial lesion sets. This 
+interval facilitates accurate identification of conduction 
+gaps, which can then be effectively addressed through tar-
+geted endocardial touch-up during the catheter-based pro-
+cedure. Importantly, the addition of peri-mitral and tricus-
+pid isthmus lines, as well as coronary sinus ablation, should 
+be reserved for patients who exhibit clinical or inducible 
+left or right atrial flutter during the blanking period or at 
+the time of catheter ablation. Notably, only approximately 
+10–15% of patients appear to be at risk for such arrhyth-
+mias, supporting a selective rather than routine approach 
+to these supplementary ablation lines [35, 36]. Important-
+ly, stroke risk remains controlled during blanking by dual 
+strategy: OAC + epicardial LAAC [37].
+Rationale for left atrial appendage closure 
+during hybrid ablation
+LAA is the primary cardioembolic source of stroke, due 
+to its anatomical properties and blood flow obstruction, es-
+pecially in its distal part [38–40]. In patients with AF, blood 
+flow disturbance in LA further promotes thrombus forma-
+tion in the LAA, which can be released to systemic circula-
+tion and cause fatal ischemic complications [41]. Based on 
+these observations, several techniques, both surgical and 
+transcatheter, as well as epicardial and endocardial, have 
+been developed that can be used to exclude the LAA suc-
+cessfully. In patients undergoing cardiac surgery, superiority 
+of surgical over transcatheter LAAC is especially profound, 
+including no foreign body protruding to the LA, lifelong clo-
+sure without possibility of device embolization or migra-
+tion and several non-thrombogenic benefits, significant in 
+terms of comorbidity and risk factor management, includ-
+ing systemic blood pressure decrease, neurohormonal and 
+systemic anti-coagulative changes [42–45]. Furthermore, 
+specific benefits of thoracoscopic epicardial LAAC can also 
+be observed in patients with a thrombus-containing LAA, 
+where the presence of a thrombus poses a contraindication 
+for catheter ablation. For these patients, a hybrid approach 
+is a viable option. First, LAAC may be safely performed tho-
+racoscopically using the AtriClip Pro V device, followed by 
+catheter ablation as a second-step hybrid procedure [27]. 
+Additionally, surgical isolation of the LAA reduces the risk 
+of long-term atrial arrhythmia recurrence after surgical ab-
+lation, as epicardial device closure also serves as an electri-
+cal isolation. Surgical techniques for LAAC are presented in 
+Figure 8. The main target for successful LAAC is the exclu-
+sion of LAA without leaving the pouch in its ostium. 
+While surgical closure of the LAA is now recommended 
+as an adjunct to OAC in patients with AF undergoing car -
+diac surgery to prevent ischemic stroke and thromboem-
+bolism (IB), IIa recommendation is assigned to LAAC in pa-
+tients with AF undergoing endoscopic or hybrid AF ablation 
+by both ESC and AHA.
+Growing evidence regarding the impact of LAAC on 
+thromboembolism prevention has raised additional ques-
+tions about its concomitant implications for AF ablation, as 
+the LAA is known to be an extra source of atrial arrhythmia.
+Two trials regarding hybrid ablation included LAAC as an 
+obligatory procedure. In the CEASE-AF study, in which hybrid 
+ablation including PVI, box lesion, and LAAC was compared 
+with catheter ablation, 66.3% of patients undergoing hybrid 
+treatment were in sinus rhythm after 2 years, compared 
+with 33.3% of patients treated with catheter ablation [13]. 
+Even more significant impact was observed in HARTCAP-AF, 
+with 89% sinus rhythm in the hybrid treatment group after  
+12 months, compared to 41% in the catheter ablation popu-
+lation [11]. On the other hand, in the CONVERGE trial, where 
+LAAC was not performed during hybrid ablation, the superi-
+ority of hybrid ablation was less pronounced (67.7% vs. 50%) 
+[21]. Whether this difference was attributable to LAAC itself 
+or transcatheter PVI remains to be resolved. Two large reg-
+istries were analyzed to determine the impact of different 
+AF-specific interventions on perioperative thromboembolic 
+risk and long-term prognosis. Mehaffey et al., who studied 
+103,382 patients from large insurance registries from the US, 
+observed that surgical ablation with LAAC was superior to 
+LAAC alone in both three-year mortality (OR = 0.90, 95% CI: 
+0.88–0.93, p < 0.001) and composite outcomes (OR = 0.90, 
+95% CI: 0.81–0.99, p  = 0.035) [46]. However, it should be 
+noted that any AF-specific intervention was found to be bet-
+ter than no AF interventional treatment (OR = 0.75, 95% CI: 
+0.73–0.77, p < 0.001). Additionally, similar observations were 
+made based on the Polish KROK registry, which underscored 
+that the greatest, statistically significant mortality reduction 
+was associated with surgical ablation combined with LAAC, 
+followed by surgical ablation alone and LAAC alone [47]. In 
+a single-center study by Kajy et al., it was shown that hybrid 
+ablation led to AF-free survival equal to 59.3% at 4-year 
+follow-up, with additional benefits observed from ligament 
+of Marshall ablation and LAAC [48].
+In a recently published systematic review of surgical 
+techniques for LAAC, it was found that the stapler tech-
+nique with excision of the LAA and clip deployment was 
+associated with almost 100% procedure success rate, in 
+comparison with non-device assisted techniques, whose 
+success varied from 60.9% to 74.3% for suture techniques 
+without LAA amputation and up to 91% with surgical am-
+putation of LAA respectively [49]. Additionally, it should be 
+noted that thoracoscopic device-assisted LAAC presents an 
+[[p10]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3)152
+Position paper of the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association of the Polish Society 
+of Cardiology on atrial fibrillation hybrid management
+Figure 8. Surgical techniques for the left atrial appendage closure
+opportunity for hybrid ablation in patients with thrombi in 
+the lumen of the LAA.
+The additional beneficial impact of LAAC during abla-
+tion is under extensive research. Recently, OPTION trial, 
+RCT which included 1,600 patients to evaluate use of LAAC 
+as an alternative to OAC after catheter ablation showed 
+promising results, with a composite outcome of death from 
+any cause, stroke or systemic embolism at 36 months ob-
+served in 8.5% of patients with LAAC and 18.1% of patients 
+on OAC (p < 0.001) [50]. Based on up-to-date evidence, it 
+may be expected that a combination of ablation with LAAC 
+may lead to more favorable outcomes than each procedure 
+separately. Future research should focus on the potential 
+of OAC discontinuation after not only catheter ablation, but 
+also surgical and hybrid ablation. 
+A summary of all trials regarding hybrid ablation, LAAC, 
+and LAAC concomitant with hybrid ablation can be found 
+in Table I.
+[[p11]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3) 153
+SPECIAL PAPER
+Table I. Summary of trials regarding hybrid ablation and left atrial appendage closure 
+Name Population Pts included Intervention/control Outcomes
+LAAC
+ATLAS [65] No preoperative AF, 
+CHA2DS2-VASc ≥ 2,  
+and HAS-BLED ≥ 2
+562 (376/186) LAAC with AtriClip/no LAAC 99% procedural success rate. 
+3.4% LAAC vs. 5.6% non-LAAC 
+with TE.
+LAACS [59] Undergoing cardiac surgery 187 (101/86) LAAC/no LAAC 6% vs. 18% serious adverse 
+events (p = 0.05). 
+LAAOS III [60] AF, CHA2DS2-VASc ≥ 2 4770 (2379/2391) LAAC/no LAAC 4.8% vs. 7.0% stroke/embolism 
+rate (p = 0.001)
+SA vs. CA
+FAST [15] AF, refractory to AAD, LA 
+dilatation and hypertension 
+or failed CA
+124 (61/63) SA/CA 65.6% vs. 36.5% success rate; 
+34.4% vs. 15.9% major adverse 
+events (p = 0.027)
+CASA-AF [17] Long-standing persistent AF, 
+EHRA symptom score > 2, 
+LVEF ≥ 40%
+120 (60/60) SA/CA 26% vs. 28% success rate  
+(p = 0.84); 18% vs. 15% serious 
+adverse events (p = 0.65)
+SCALAF [16] Symptomatic paroxysmal or 
+early persistent AF
+52 (26/26) Minimally invasive SA/CA 29.2 vs. 56% arrythmia-free 
+survival (p = 0.059); 20.8% vs. 0% 
+major adverse events (p = 0.029)
+HA
+CEASE-AF [13] Symptomatic, drug-refractory 
+persistent AF, no prior 
+ablation
+153 (102/51) Thoracoscopic ablation + CA vs. 
+CA and possible repeated CA
+66.3% vs. 33.3% success rate  
+(p < 0.001); 10.8% vs. 9.6% major 
+adverse events (p = 1.00)
+CONVERGE [21] Symptomatic persistent AF, 
+refractory to AAD; LA size  
+< 6 cm 
+153 (102/51) Subxiphoid ablation + CA vs. 
+CA and possible repeated CA
+67.7% vs. 50% success rate  
+(p = 0.036); 7.8% vs. 0% major 
+adverse events (p = 0.053)
+HARTCAP-AF [11] Long standing AF, refractory 
+to AAD, no prior ablation
+41 (19/22) Thoracoscopic ablation + CA vs. 
+CA and possible repeated CA
+89% vs. 41% success rate  
+(p = 0.002); 5% vs. 5% major 
+adverse events (p = 1.00)
+AF – atrial fibrillation, CA – catheter ablation, SA – surgical ablation, HA – hybrid ablation, LVEF – left ventricular ejection fraction, AAD – antiarrhythmic drugs, LAAC 
+– left atrial appendage closure. 
+Guidelines review 
+The most recent guidelines underline the significance 
+of shared decision-making of the rhythm control team, 
+which should include both electrophysiologists and sur -
+geons [3]. With the development of new techniques and 
+constant changes in both surgical and percutaneous inter-
+ventions, decisions regarding the chosen treatment should 
+be made based on available equipment, site experience, 
+the patient’s comorbidities, and the most optimal risk-to-
+benefit ratio. Based on recent guidelines, different recom-
+mendations are made for each treatment technique with 
+potential alternatives, which should be chosen based on 
+shared decision-making (Figure 9).
+Cost-effectiveness analysis of atrial fibrillation 
+treatment
+In one recent systematic review, interventional treatment 
+was superior in terms of cost-effectiveness when compared 
+with anti-arrhythmic drugs [51]. Additionally, research by 
+Kawakami et al. performed in 2021 proved that concomitant 
+ablation with LAAC is more cost-effective in comparison with 
+ablation and OAC [52]. Furthermore, a cost-effectiveness 
+analysis based on the LAAOS-III trial demonstrated that 
+performing LAAC during cardiac surgery was cost-effective, 
+a finding that held true even for the more expensive device-
+based closure methods when analyzed separately [53].
+Broader heart team integration and surgical 
+planning
+AF, with growing incidence and significant social burden, 
+should be recognized as a crucial clinical comorbidity, similar 
+to coronary artery or structural heart disease, and treated 
+as such in the decision-making process. It is well known 
+that early optimal treatment of AF and management of its 
+symptoms are crucial for well-being and an increased num-
+ber of healthy life years, which healthcare specialists should 
+prioritize. Shared decision-making between the rhythm con-
+trol team, comprising electrophysiologists and surgeons, is 
+essential to provide the best possible approach for treating 
+AF in each individual. With the development of new tech-
+niques, such as hybrid ablation, the successful management 
+of patients refractory to AAD or with multiple unsuccessful 
+catheter ablation may not only be possible, but also achiev-
+able daily. Hybrid treatment extends beyond thoracoscopic 
+[[p12]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3)154
+Position paper of the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association of the Polish Society 
+of Cardiology on atrial fibrillation hybrid management
+ablation to a strategic, heart-team-based approach. Nowa-
+days, with advancements in surgical technique, surgical 
+ablation during cardiac surgery for patients with AF should 
+be incorporated on a daily basis, even in procedures such 
+as MIDCAB, mini-AVR, or MVR, in which successful abla-
+tion can be achieved using minimally invasive or robotic 
+techniques. Preoperative and perioperative planning must 
+include several key factors, including TEE guidance, LAAC, 
+and documentation for post-op EPS evaluation.
+Shared decision-making in rhythm strategy 
+selection
+The choice between catheter-based, surgical, or hybrid 
+ablation must rest on a patient-centered, multidisciplinary 
+decision, guided by clinical evidence, procedural feasibility, 
+and personal values. The 2024 ESC Guidelines [3] emphasize 
+that the rhythm control strategy in AF should be determined 
+by a collaborative EP-heart team that includes cardiac sur-
+geons, electrophysiologists, and other relevant specialists. 
+However, the cornerstone of this team-based decision must 
+be the informed and empowered patient. Indeed, patients 
+must be advised that while multiple catheter ablations are 
+common in paroxysmal AF management, these may prove 
+burdensome and ultimately ineffective in persistent forms. 
+Yet, for those with prohibitive surgical risk (e.g., frailty, 
+severely reduced lung function), repeated percutaneous 
+procedures may remain the safest available rhythm strategy.
+Conversely, otherwise healthy patients with persistent 
+or long-standing AF are likely to benefit from a comprehen-
+sive, one-time, initial, hybrid ablation, offering higher rates 
+of sinus rhythm restoration, fewer repeat procedures, and 
+lower readmission rates [13, 54, 55].
+A critical distinction lies in stroke prevention. While 
+catheter ablation alone does not reduce thromboembolic 
+risk and often requires indefinite anticoagulation, and 
+while percutaneous LAAC devices (e.g., Watchman, Am-
+platzer) carry nontrivial risks – including incomplete oc-
+clusion, device embolization, and the need for prolonged 
+dual antiplatelet therapy [56], surgical LAAC achieves epi-
+cardial exclusion, no foreign body, and is associated with 
+nearly complete elimination of LAA thromboembolism risk 
+[50, 57–65]. Several studies and registries have shown that 
+surgical ablation combined with LAAC reduces stroke and 
+systemic embolism rates beyond catheter strategies alone, 
+and possibly more effectively than percutaneous LAAC plus 
+OAC [11–13, 18, 46, 50]. Nonetheless, thoracoscopic proce-
+dures, though minimally invasive, inherently carry surgi-
+cal risks including pleural complications, bleeding, and 
+need for general anesthesia, and these must be explicitly 
+weighed during consultation. Tailoring the rhythm strategy 
+– catheter, surgical, or hybrid – must include:
+• Transparent communication of risks, benefits, and alter-
+natives.
+• Explanation of long-term implications, including stroke 
+risk, bleeding risk, and reintervention potential.
+• Consideration of patient values, including lifestyle, aversion 
+to anticoagulation, tolerance for repeated interventions, 
+and willingness to undergo minimally invasive surgery.
+Ultimately, the most effective rhythm management oc-
+curs not when physicians choose a strategy for the patient, 
+but when patients are fully informed and determine a plan 
+with their physicians.
+Institutional requirements and technical 
+prerequisites
+Although hybrid ablation is fundamentally safe, its com-
+plexity demands structured team integration, training, and 
+adequate facility capacity. A learning curve of approximate-
+Paroxysmal AF 
+Persistent AF 
+Stroke and thromboembolism 
+Shared decision-making rhythm control team of electrophysiologists and surgeons 
+CA is first line option in PAF (class I) Repeat CA in AF recurrence if after initial 
+PVI symptoms improved (class IIa) 
+Perform HA in symptomatic PAF resistant 
+to AAD and failed CA (class IIb) 
+PVI symptoms improved (class IIa) 
+Perform HA in symptomatic persistent AF 
+resistant to AAD therapy (class IIa) 
+Surgical LAAC during HA (class IIa) 
+Perform CA in paroxysmal or persistent AF 
+resistant to AAD (class I) 
+OAC after ablation in AF patients with 
+elevated thromboembolic risk (class I) 
+CA may be considered as first line option in 
+selected persistent AF patients (class IIb) 
+Stand-alone LAAC in patients with AF  
+and contraindication for OAC (class IIb) 
+Figure 9. Key shared decision-making points regarding the potential use of hybrid ablation in the treatment of atrial fibrillation based 
+on the ESC 2024 Guidelines [3].
+AAD – antiarrhythmic drugs, AF – atrial fibrillation, CA – catheter ablation, HA – hybrid ablation, LAAC – left atrial appendage closure, OAC – oral anticoagulation 
+treatment, PAF – paroxysmal atrial fibrillation.
+[[p13]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3) 155
+SPECIAL PAPER
+ly 20 cases has been described for convergent procedures 
+and minimally invasive thoracoscopic hybrid protocols [8]. 
+For sustainability and proficiency, a minimum of 50 hybrid 
+procedures per year is suggested. Key institutional require-
+ments include: 
+• A dedicated hybrid surgical-electrophysiology team.
+• Availability of thoracoscopic instruments, 2D/3D vision 
+systems, and general anesthesia infrastructure.
+• Experience in thoracoscopic cardiac surgery, including  
+TT-MAZE and MICS procedures.
+• Mobile or dedicated EP system and mapping team if sin-
+gle-stage procedures are performed.
+• Collaborative culture between EP and surgical depart-
+ments to support case planning and postoperative coor-
+dination.
+• For staged procedures, separate access to an EP lab suf-
+fices. If simultaneous hybrid procedures are performed, 
+a hybrid OR or mobile EP setup is required.
+Future directions and appeal to the National 
+Health System
+We advocate for the formalization of electrophysiology-
+heart teams, the integration of AF strategies into surgical 
+planning, training in both open and minimally invasive 
+ablation techniques, and the development of registries. 
+Hybrid ablations should be a reimbursable category with 
+support for dual-specialist models and follow-up pathways. 
+Conclusions
+Hybrid therapy offers a pathway toward durable rhythm 
+control in complex arrhythmias, including persistent AF . It 
+provides unique characteristics of both surgical and cath-
+eter ablation, with an acceptable complication profile. 
+Shared decision-making between the rhythm control team, 
+comprising electrophysiologists and surgeons, is crucial 
+for optimizing treatment and improving patient-oriented 
+outcomes. With the rapid development of new hybrid tech-
+niques, the national infrastructure must be upgraded so as 
+to meet the requirements associated with implementing 
+hybrid technologies in everyday practice.
+Acknowledgments
+Mariusz Kowalewski and Michał Farkowski – equally 
+first authors. Sebastian Stec, Adam Sokal and Piotr Suwal-
+ski – equally senior authors.
+Funding
+No external funding.
+Ethical approval
+Not applicable.
+Disclosures
+Michał Farkowski received speaker and consultation 
+fees from Abbott, Biosense, Medtronic, Zoll, Pfizer and 
+Boehringer Ingelheim Poland. Sebastian S. Aboul-Hassan 
+received speaking and lecture fees and travel reimburse-
+ment from Getinge.Krzysztof Bartuś is a consultant to Sen-
+treheart. Michał Zembala is a consultant for Symetis SA, 
+Vascutek Terumo, Abbott and AtriCure. Robert J. Gil was the 
+medical consultant of the Balton Company. Sebastian Stec 
+is the author of several patents and a shareholder of Medi-
+cine S.A. and Tracess A.B. Piotr Suwalski serves as a consul-
+tant for AtriCure.  Other authors have nothing to disclose.
+References
+PM?j?iK?aö?brK?a?diK?r?qaM?d???L
+lation in the 21st century: novel methods and new insights. Circ Res 2020; 
+127: 4-20.
+2. Magnussen C, Niiranen TJ, Ojeda FM, Gianfagna F, Blankenberg S, Njølstad I, 
+Vartiainen E, Sans S, Pasterkamp G, Hughes M, Costanzo S, Donati MB, 
+Jousilahti P, Linneberg A, Palosaari T, de Gaetano G, Bobak M, den Ruijter HM, 
+Mathiesen E, Jørgensen T, Söderberg S, Kuulasmaa K, Zeller T, Iacoviello L, 
+Salomaa V, Schnabel RB; BiomarCaRE Consortium. Sex differences and simi-
+larities in atrial fibrillation epidemiology, risk factors, and mortality in com-
+munity cohorts. Circulation 2017; 136: 1588-1597.
+3. Van Gelder IC, Rienstra M, Bunting KV, Casado-Arroyo R, Caso V, Crijns HJGM, 
+De Potter TJR, Dwight J, Guasti L, Hanke T, Jaarsma T, Lettino M, Løchen ML, 
+Lumbers RT, Maesen B, Mølgaard I, Rosano GMC, Sanders P, Schnabel RB, 
+Suwalski P, Svennberg E, Tamargo J, Tica O, Traykov V, Tzeis S, Kotecha D; 
+ESC Scientific Document Group. 2024 ESC Guidelines for the management 
+of atrial fibrillation developed in collaboration with the European Association 
+for Cardio-Thoracic Surgery (EACTS). Eur Heart J 2024; 45: 3314-3414.
+4. Rosati F, Baudo M, D’Alonzo M, Di Bacco L, Arabia G, Muneretto C. Hybrid 
+strategies for stand-alone surgical ablation of atrial fibrillation. Ann Cardio-
+thorac Surg 2024; 13: 44-53.
+5. Jiang Z, Huang J, Ma N, Liu H, Shen S, Ding F, Wang Y, Tang M, Mei J. Concur-
+rent vs staged hybrid ablation for long-standing persistent atrial fibrillation: 
+a propensity-matched cohort study. JACC Clin Electrophysiol 2024; 10: 1104-
+1116.
+6. Burysz M, Batko J, Olejek W, Piotrowski M, Litwinowicz R, Słomka A, Kowa-
+lewski M, Suwalski P, Bartuś K, Rams D. Morphology and anatomical clas-
+sification of pericardial cavities: oblique and transverse sinuses. J Clin Med 
+2023; 12: 4320.
+7. Kowalewski M, Stec S, Ogorzelec N, Suwalski P . Totally thoracoscopic hybrid 
+MAZE AF ablation and left atrial appendage occlusion facilitated by veno-ar-
+terial extracorporeal membrane oxygenation in patients with persistent atrial 
+fibrillation and respiratory collapse: Case series. Pol Heart J 2025; 83: 910-913.
+8. Schena S, Lindemann J, Carlson A, Wilcox T, Oujiri J, Berger M, Gasparri M. 
+Robotic-enhanced hybrid ablation for persistent and long-standing atrial 
+fibrillation: early assessment of feasibility, safety, and efficacy. JTCVS Tech 
+2024; 25: 81-93.
+9. Tzeis S, Gerstenfeld EP, Kalman J, Saad EB, Shamloo AS, Andrade JG, Barbhaiya 
+CR, Baykaner T, Boveda S, Calkins H, Chan NY, Chen M, Chen SA, Dagres N, 
+Damiano RJ, De Potter T, Deisenhofer I, Derval N, Di Biase L, Duytschaever M, 
+Dyrda K, Hindricks G, Hocini M, Kim YH, la Meir M, Merino JL, Michaud GF, 
+Natale A, Nault I, Nava S, Nitta T, O’Neill M, Pak HN, Piccini JP, Pürerfellner H, 
+Reichlin T, Saenz LC, Sanders P, Schilling R, Schmidt B, Supple GE, Tho- 
+mas KL, Tondo C, Verma A, Wan EY, Steven D, Agbayani MJ, Bunch TJ, Chugh A, 
+Díaz JC, Freeman JV, Hardy CA, Heidbuchel H, Johar S, Linz D, Maesen B, Nose-
+worthy PA, Oh S, Porta-Sanchez A, Potpara T, Rodriguez-Diez G, Sacher F, Su-
+walski P, Trines SA. 2024 European Heart Rhythm Association/Heart Rhythm 
+Society/Asia Pacific Heart Rhythm Society/Latin American Heart Rhythm So-
+ciety expert consensus statement on catheter and surgical ablation of atrial 
+fibrillation. Europace 2024; 26: euae043.
+10. Verma A, Haines DE, Boersma LV, Sood N, Natale A, Marchlinski FE, Calkins H, 
+Sanders P, Packer DL, Kuck KH, Hindricks G, Onal B, Cerkvenik J, Tada H, De-
+Lurgio DB; PULSED AF Investigators. Pulsed field ablation for the treatment 
+of atrial fibrillation: PULSED AF Pivotal Trial. Circulation 2023; 147: 1422-1432.
+11. van der Heijden CAJ, Weberndörfer V, Vroomen M, Luermans JG, Chaldoupi SM, 
+Bidar E, Vernooy K, Maessen JG, Pison L, van Kuijk SMJ, La Meir M,  
+Crijns HJGM, Maesen B. Hybrid ablation versus repeated catheter ablation 
+in persistent atrial fibrillation. JACC Clin Electrophysiol 2023; 9: 1013-1023.
+[[p14]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3)156
+Position paper of the Polish Society of Cardiothoracic Surgeons and the Heart Rhythm Association of the Polish Society 
+of Cardiology on atrial fibrillation hybrid management
+12. Eranki A, Wilson-Smith AR, Williams ML, Flynn CD, Manganas C. Hybrid con-
+vergent ablation versus endocardial catheter ablation for atrial fibrillation: 
+a systematic review and meta-analysis of randomised control trials and pro-
+pensity matched studies. J Cardiothorac Surg. 2022; 17: 181.
+13. Wijffels M, Suwalski P, Weimar T, Kosior D, Bulava A, Mokracek A, Mon- 
+nig G, Sahu J, Hunter S, Van Putte B, Rub N, Nemec P, Ostrizek T, Doll N. Two-
+year safety and effectiveness of hybrid ablation versus catheter ablation in 
+patients with non-paroxysmal AF: mid-term results of the CEASE-AF trial. 
+Europace 2024; 26 (Suppl. 1): euae102.227.
+14. Markides V, Schilling RJ. Atrial fibrillation: classification, pathophysiology, 
+mechanisms and drug treatment. Heart 2003; 89: 939-943.
+15. Boersma LVA, Castella M, van Boven W, Berruezo A, Yilmaz A, Nadal M, San-
+doval E, Calvo N, Brugada J, Kelder J, Wijffels M, Mont L. Atrial fibrillation 
+catheter ablation versus surgical ablation treatment (FAST): a 2-center ran-
+domized clinical trial. Circulation 2012; 125: 23-30.
+16. Adiyaman A, Buist TJ, Beukema RJ, Smit JJJ, Delnoy PPHM, Hemels MEW,  
+Sie HT, Ramdat Misier AR, Elvan A. Randomized controlled trial of surgical 
+versus catheter ablation for paroxysmal and early persistent atrial fibrilla-
+tion. Circ Arrhythm Electrophysiol 2018; 11: e006182.
+17. Haldar S, Khan HR, Boyalla V, Kralj-Hans I, Jones S, Lord J, Onyimadu O, Satish-
+kumar A, Bahrami T, De Souza A, Clague JR, Francis DP, Hussain W, Jarman JW, 
+Jones DG, Chen Z, Mediratta N, Hyde J, Lewis M, Mohiaddin R, Salukhe TV, 
+Murphy C, Kelly J, Khattar RS, Toff WD, Markides V, McCready J, Gupta D,  
+Wong T. Catheter ablation vs. thoracoscopic surgical ablation in long-standing 
+persistent atrial fibrillation: CASA-AF randomized controlled trial. Eur Heart J 
+2020; 41: 4471-4480.
+18. Hwang JK, Jeong DS, Gwag HB, Park KM, Ahn J, Carriere K, Park SJ, Kim JS, 
+On YK. Staged hybrid procedure versus radiofrequency catheter ablation in 
+the treatment of atrial fibrillation. PLoS One 2018; 13: e0205431.
+19. Al-Jazairi MIH, Rienstra M, Klinkenberg TJ, Mariani MA, Van Gelder IC, Blaauw 
+Y. Hybrid atrial fibrillation ablation in patients with persistent atrial fibrilla-
+tion or failed catheter ablation. Netherlands Heart J 2019; 27: 142-151.
+20. Kistler PM, Chieng D, Sugumar H, Ling LH, Segan L, Azzopardi S, Al-Kaisey A, 
+Parameswaran R, Anderson RD, Hawson J, Prabhu S, Voskoboinik A, Wong G, 
+Morton JB, Pathik B, McLellan AJ, Lee G, Wong M, Finch S, Pathak RK,  
+Raja DC, Sterns L, Ginks M, Reid CM, Sanders P, Kalman JM. Effect of catheter 
+ablation using pulmonary vein isolation with vs without posterior left atrial 
+wall isolation on atrial arrhythmia recurrence in patients with persistent atrial 
+fibrillation. JAMA 2023; 329: 127-135.
+21. DeLurgio DB, Gill J, Ahsan S, Kaba RA, Plasseraud KM, Halkos ME. Hybrid 
+convergent procedure for the treatment of persistent and long-standing per-
+sistent atrial fibrillation. Circ Arrhythm Electrophysiol Rev 2021; 10: 198-204.
+22. Aerts L, Kawczynski MJ, Bidar E, Luermans JGL, Chaldoupi SM, La Meir M, 
+Kowalewski M, Maessen JG, Heuts S, Maesen B. Short- and long-term out-
+comes in isolated vs. hybrid thoracoscopic ablation in patients with atrial 
+fibrillation: a systematic review and reconstructed individual patient data 
+meta-analysis. Europace 2024; 26: euae232.
+23. Eltsov I, Pannone L, Della Rocca DG, Mrinio M, Talevi G, Paparella AM, Ver -
+gara P, Stroker E, Sieira J, Chierchia GB, de Asmundis C, La Meir M. A Hybrid 
+minimally invasive atrial fibrillation ablation procedure using unilateral tho-
+racoscopy and endocardial pulsed field ablation: an early feasibility study.  
+J Cardiovasc Dev Dis 2025; 12: 145.
+24. Bianchini L, Schiavone M, Vettor G, Gasperetti A, Penza E, Ballotta A, Pirola S, 
+Brambillasca C, Zito E, De Lio F, Ventrella N, Tundo F, Moltrasio M, Fassini G, 
+Polvani G, Tondo C. Hybrid-convergent procedure or pulsed field ablation in 
+long-standing persistent atrial fibrillation. JACC Clin Electrophysiol 2024; 10: 
+1700-1710.
+25. Ogorzelec N, Mruk B, Farkowski M, Kowalewski M, Suwalski P . Anatomical 
+caveats in totally thoracoscopic maze ablation and left atrial appendage oc-
+clusion procedures: insights and surgical implications from a case series. Pol 
+Heart J 2025; 83: 897-899.
+26. Churyla A, Desai A, Kruse J, Cox J, McCarthy P . Concomitant atrial fibrillation 
+ablation in patients undergoing coronary artery bypass and cardiac valve 
+surgery. J Cardiovasc Electrophysiol 2020; 31: 2172-2178.
+27. Suwalski P, Dąbrowski EJ, Batko J, Pasierski M, Litwinowicz R, Kowalówka A, 
+Jasiński M, Rogowski J, Deja M, Bartus K, Li T, Matteucci M, Wańha W, Meani P, 
+Ronco D, Raffa GM, Malvindi PG, Kuźma Ł, Lorusso R, Maesen B, La Meir M, 
+Lazar H, McCarthy P, Cox JL, Rankin S, Kowalewski M. Additional bypass graft 
+or concomitant surgical ablation? Insights from the HEIST registry. Surgery 
+2024; 175: 974-983.
+28. Kowalewski M, Pasierski M, Kołodziejczak M, Litwinowicz R, Kowalówka A, 
+Wańha W, Łoś A, Stefaniak S, Wojakowski W, Jemielity M, Rogowski J,  
+Deja M, Bartuś K, Mariani S, Li T, Matteucci M, Ronco D, Massimi G, Jirita- 
+no F, Meani P, Raffa GM, Malvindi  PG, Zembala M, Lorusso R, Cox JL, Su-
+walski P; Thoracic Research Centre. Atrial fibrillation ablation improves late 
+survival after concomitant cardiac surgery. J Thorac Cardiovasc Surg 2023; 
+166: 1656-1668.e8.
+29. Damiano RJ, Schwartz FH, Bailey MS, Maniar HS, Munfakh NA, Moon MR, 
+Schuessler RB. The Cox maze IV procedure: predictors of late recurrence.  
+J Thorac Cardiovasc Surg 2011; 141: 113-121.
+30. Cappabianca G, Ferrarese S, Tutino C, Corazzari C, Matteucci M, Mantovani V, 
+Musazzi A, De Ponti R, Beghi C. Safety and efficacy of biatrial vs left atrial 
+surgical ablation during concomitant cardiac surgery: a meta-analysis of clin-
+ical studies with a focus on the causes of pacemaker implantation. J Cardio-
+vasc Electrophysiol 2019; 30: 2150-2163.
+31. Kowalewski M, Ogorzelec N, Stec S, Suwalski P . First-in-Poland thoracoscopic 
+left atrial appendage closure using Novel AtriClip® PRO-V device in patient 
+with previous heart surgery and LAA thrombus. Pol Heart J 2025; 83: 221-222.
+32. Kadan M, Kubat E, Erol G, Karabacak K, Akyol FB, Yıldırım V, Bolcal C, Demir- 
+kılıç U. Early and mid-term results of cryoablation of atrial fibrillation con-
+comitant with robotic mitral valve surgery. Anatol J Cardiol 2021; 25: 266-272. 
+33. McCarthy PM, Cox JL. Practical approaches to concomitant surgical ablation 
+of atrial fibrillation: matching the ablation to the patient. J Thorac Cardiovasc 
+Surg 2025; 169: 907-915.
+34. Tjon Joek Tjien A, Akca F, Lam K, Olsthoorn J, Dekker L, van der Voort P, Ver-
+berkmoes N, van Brakel TJ. Concomitant atrial fibrillation ablation in mini-
+mally invasive cardiac surgery. Ann Cardiothorac Surg 2024; 13: 91-98.
+35. Cox JL, Churyla A, Malaisrie SC, Pham DT, Kruse J, Kislitsina ON, McCarthy PM. 
+A hybrid maze procedure for long-standing persistent atrial fibrillation. Ann 
+Thorac Surg 2019; 107: 610-618.
+36. Matsuo S, Wright M, Knecht S, Nault I, Lellouche N, Lim KT, Arantes L,  
+O’Neill MD, Hocini M, Jaïs P, Haïssaguerre M. Peri-mitral atrial flutter in pa-
+tients with atrial fibrillation ablation. Heart Rhythm 2010; 7: 2-8.
+37. Cartledge R, Suwalski G, Witkowska A, Gottlieb G, Cioci A, Chidiac G, Ilsin B, 
+Merrill B, Suwalski P . Standalone epicardial left atrial appendage exclusion 
+for thromboembolism prevention in atrial fibrillation. Interact Cardiovasc 
+Thorac Surg 2022; 34: 548-555.
+38. Beigel R, Wunderlich NC, Ho SY, Arsanjani R, Siegel RJ. The left atrial ap-
+pendage: anatomy, function, and noninvasive evaluation. JACC Cardiovasc 
+Imaging 2014; 7: 1251-1265.
+39. Batko J, Jakiel R, Krawczyk-Ożóg A, Jaśkiewicz K. Anatomical description 
+of malformations of the neck of the left atrial appendage. Clin Anat 2024; 
+38: 471-479.
+40. Batko J, Jakiel R, Krawczyk-Ożóg A, Litwinowicz R, Hołda J, Bartuś S, Bartuś K, 
+Hołda MK, Konieczyńska M. Definition and anatomical description of the left 
+atrial appendage neck. Clin Anat 2023; 37: 201-209.
+41. Slodowska KM, Batko J, Holda JP, Dudkiewicz D, Koziej M, Litwinowicz R, 
+Bartuś K, Hołda MK. Morphometrical features of left atrial appendage in 
+the atrial fibrillation patients subjected to left atrial appendage closure. Folia 
+Morphol (Warsz) 2023; 82: 814-821.
+42. Alkhouli M, Di Biase L, Natale A, Rihal CS, Holmes DR, Asirvatham S, Bartus K, 
+Lakkireddy D, Friedman PA. Nonthrombogenic roles of the left atrial append-
+age. J Am Coll Cardiol 2023; 81: 1063-1075.
+43. Batko J, Rusinek J, Słomka A, Litwinowicz R, Burysz M, Bartuś M, Lakkired- 
+dy DR, Lee RJ, Natorska J, Ząbczyk M, Kapelak B, Bartuś K. Postoperative co-
+agulation changes in patients after epicardial left atrial appendage occlusion 
+varies based on the left atrial appendage size. Diseases 2023; 12: 8.
+44. Turagam MK, Vuddanda V, Verberkmoes N, Ohtsuka T, Akca F, Atkins D, Bom-
+mana S, Emmert MY, Gopinathannair R, Dunnington G, Rasekh A, Cheng J, 
+Salzberg S, Natale A, Cox J,  Lakkireddy DRb. Epicardial left atrial appendage 
+exclusion reduces blood pressure in patients with atrial fibrillation and hy-
+pertension. J Am Coll Cardiol 2018; 72: 1346-1353.
+45. Lakkireddy D, Turagam M, Afzal MR, Rajasingh J, Atkins D, Dawn B,  
+Di Biase L, Bartus K, Kar S, Natale A, Holmes Jr DJ. Left atrial appendage clo-
+sure and systemic homeostasis. J Am Coll Cardiol 2018; 71: 135-144.
+46. Mehaffey JH, Hayanga JWA, Wei L, Mascio C, Rankin JS, Badhwar V. Surgical 
+ablation of atrial fibrillation is associated with improved survival compared 
+with appendage obliteration alone: an analysis of 100,000 Medicare benefi-
+ciaries. J Thorac Cardiovasc Surg 2024; 168: 104-116.e7.
+47. Pasierski M, Batko J, Kuźma Ł, Wańha W, Jasiński M, Widenka K, Deja M, 
+Bartuś K, Hirnle T, Wojakowski W, Lorusso R, Tobota Z, Maruszewski BJ, Suwal-
+ski P, Kowalewski M; KROK Investigators. Surgical ablation, left atrial append-
+age occlusion or both? Nationwide registry analysis of cardiac surgery patients 
+with underlying atrial fibrillation. Eur J Cardiothorac Surg 2024; 65: ezae014.
+[[p15]]
+Kardiochirurgia i Torakochirurgia Polska 2025; 22 (3) 157
+SPECIAL PAPER
+48. Kajy ML, Banno J, Orey S, Manandhar N, Mutete D, McNamara DA, Loyaga- 
+Rendon RY, Albano AJ, Brunner MP, Dahu MI, Dandamudi S, Jawad WI, 
+Willekes CL, Sang SLW, Gauri AJ, Chalfoun NT. Four-year follow-up of out-
+comes of the hybrid epicardial-endocardial ablation: a single-center experi-
+ence. Heart Rhythm 2024; 21: 1555-1561.
+49. D’Abramo M, Romiti S, Saltarocchi S, Saade W, Spunticchia F, Bruno N, Pe-
+ruzzi M, Miraldi F, Frati G, Greco E, Macrina F, De Orchi P, Marullo AGM. Dif-
+ferent techniques of surgical left atrial appendage closure and their efficacy: 
+a systematic review. Rev Cardiovasc Med 2023; 24: 184.
+50. Wazni OM, Saliba WI, Nair DG, Marijon E, Schmidt B, Hounshell T, Ebelt H,  
+Skurk C, Oza S, Patel C, Kanagasundram A, Sadhu A, Sundaram S, Osorio J,   
+Mark G, Gupta M, DeLurgio DB, Olson J,  Nielsen-Kudsk JE, Boersma LVA, Hea-
+ley JS, Phillips KP, Asch FM, Wolski K, Roy K, Christen T, Sutton BS,  Stein KM, 
+Reddy VY; OPTION Trial Investigators. Left atrial appendage closure after abla-
+tion for atrial fibrillation. N Engl J Med 2025; 392: 1277-1287.
+51. Okafor C, Byrnes J, Stewart S, Scuffham P, Afoakwah C. Cost effectiveness 
+of strategies to manage atrial fibrillation in middle- and high-income coun-
+tries: a systematic review. Pharmacoeconomics 2023; 41: 913-943.
+52. Kawakami H, Nolan MT, Phillips K, Scuffham PA, Marwick TH. Cost-effective-
+ness of combined catheter ablation and left atrial appendage closure for 
+symptomatic atrial fibrillation in patients with high stroke and bleeding risk. 
+Am Heart J 2021; 231: 110-120.
+53. Benmalek M, Connock M, Savio L, Obadia JF, Armoiry X. Cost-effectiveness 
+of left atrial appendage occlusion during cardiac surgery in France: an eco-
+nomic evaluation based on the LAAOS III study. PLoS One 2024; 19: e0302517.
+54. Zembala M, Filipiak K, Kowalski O, Boidol J, Sokal A, Lenarczyk R, Niklewski T, 
+Garbacz M, Nadziakiewicz P, Kalarus Z, Zembala M. Minimally invasive hy-
+brid ablation procedure for the treatment of persistent atrial fibrillation: one 
+year results. Kardiol Pol 2012; 70: 819-828. 
+55. Zembala M, Filipiak K, Kowalski O, Buchta P, Niklewski T, Nadziakiewicz P, 
+Koba R, Gąsior M, Kalarus Z, Zembala M. Staged hybrid ablation for persis-
+tent and longstanding persistent atrial fibrillation effectively restores sinus 
+rhythm in long-term observation. Arch Med Sci 2017; 13: 109-117.
+56. Galea R, De Marco F, Aminian A, Meneveau N, Chalkou K, Anselme F, Gräni C, 
+Franzone A, Vranckx P, Fischer U Valgimigli M, Räber L. 3-year clinical out-
+comes comparing the Amulet vs Watchman FLX for left atrial appendage 
+closure in patients with atrial fibrillation: results From the SWISS-APERO 
+Randomized Clinical Trial. J Am Coll Cardiol 2025; 85: 3-14.
+57. Kowalewski M, Święczkowski M, Kuźma Ł, Maesen B, Dąbrowski EJ, Mat-
+teucci M, Batko J, Litwinowicz R, Kowalówka A, Wańha W, Jiritano F, Raf- 
+fa GM, Malvindi PG, Pannone L, Meani P, Lorusso R, Whitlock R, La Meir M, de 
+Asmundis C, Cox J, Suwalski P; Thoracic Research Centre. Systematic review 
+and meta-analysis of left atrial appendage closure’s influence on early and 
+long-term mortality and stroke. JTCVS Open 2024; 19: 131-163.
+58. Litwinowicz R, Batko J, Rusinek J, Olejek W, Rams D, Kowalewski M, Bar- 
+tuś K, Burysz M. LARIAT or AtriClip: complications profile and comparison 
+in patients with atrial fibrillations based on manufacturer and user facility 
+device experience database. Medicina (B Aires) 2023; 59: 2055.
+59. Park-Hansen J, Holme SJV, Irmukhamedov A, Carranza CL, Greve AM, Al-
+Farra G, Riis RGC, Nilsson B, Clausen JSR, Nørskov AS, Kruuse CR, Rostrup E, 
+Dominguez H. Adding left atrial appendage closure to open heart surgery 
+provides protection from ischemic brain injury six years after surgery inde-
+pendently of atrial fibrillation history: the LAACS randomized study. J Cardio-
+thorac Surg 2018; 13: 53.
+60. Connolly SJ, Healey JS, Belley-Cote EP, Balasubramanian K, Paparella D, Bra-
+dy K, Reents W,  Danner BC, Devereaux PJ, Sharma M, Ramasundarahet- 
+tige C, Yusuf S, Whitlock RP . Oral anticoagulation use and left atrial appendage 
+occlusion in LAAOS III. Circulation 2023; 148: 1298-1304.
+61. Fauchier L, Cinaud A, Brigadeau F, Lepillier A, Pierre B, Abbey S, Fatemi M, Fran-
+ceschi F, Guedeney P, Jacon P, Paziaud O, Venier S, Deharo JC, Gras D, Klug D, 
+Mansourati J, Montalescot G, Piot O, Defaye P . Device-related thrombosis after 
+percutaneous left atrial appendage occlusion for atrial fibrillation. J Am Coll 
+Cardiol 2018; 71: 1528-1536.
+62. Abrich VA, Narichania AD, Love WT, Lanza LA, Shen WK, Sorajja D. Left atrial 
+appendage exclusion during mitral valve surgery and stroke in atrial fibrilla-
+tion. J Interv Cardiac Electrophysiol 2018; 53: 285-292.
+63. Litwinowicz R, Bartus M, Malec-Litwinowicz M, Michalski M, Banaszkie- 
+wicz K, Kapelak B, Lakkireddy D, Bartus K. Left atrial appendage occlusion 
+for secondary stroke prevention in patients with atrial fibrillation: long-term 
+results. Cerebrovasc Dis 2019; 47: 188-195.
+64. Toale C, Fitzmaurice GJ, Eaton D, Lyne J, Redmond KC. Outcomes of left atrial 
+appendage occlusion using the AtriClip device: a systematic review. Interact 
+Cardiovasc Thorac Surg 2019; 29: 655-662.
+65. Gerdisch MW, Garrett HE, Mumtaz MA, Grehan JF, Castillo-Sang M, Miller JS, 
+Zorn 3
+rd GL, Gall Jr SA,  Johnkoski JA, Ramlawi B. Prophylactic left atrial ap-
+pendage exclusion in cardiac surgery patients with elevated CHA2DS2-VASc 
+Score: results of the randomized ATLAS Trial. Innov Technology and Tech-
+niques in Cardiothoracic and Vascular Surgery 2022; 17: 463-470.

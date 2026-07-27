@@ -1,0 +1,675 @@
+
+[[p1]]
+Optimizing long-term outcomes in pediatric mitral valve 
+repair: A focus on posterior leaflet augmentation
+Gianluca Brancaccio, MD, PhD, a Roberta Iacobelli, MD, b Flaminia Spunticchia, MD, a,c
+Nicoletta Cantarutti, MD, b Benedetta Musar�o, MD, a,c Matteo Trezzi, MD, d Ermanno Bellanti, MD, a and 
+Lorenzo Galletti, MD a
+ABSTRACT
+Objective: To evaluate mid- and long-term outcomes of posterior leaflet augmen-
+tation with fresh autologous pericardium for congenital or acquired mitral regur-
+gitation in pediatric populations, and to identify predictors of valve-related 
+reintervention.
+Methods: A retrospective review was conducted on all patients who underwent 
+mitral valve repair, including posterior leaflet augmentation, at Bambino Ges� u
+Children’s Hospital between 2011 and 2024. Patients with atrioventricular septal 
+defects or single-ventricle physiology were excluded. Demographic, operative, 
+and echocardiographic data were analyzed. Freedom from reintervention was 
+estimated using Kaplan-Meier analysis and risk factors were identified by Cox pro-
+portional hazards modeling.
+Results: Twenty-eight patients (median age, 3.8 years; interquartile range, 
+0.6-9.2 years; 57% men) underwent posterior leaflet augmentation using fresh 
+autologous pericardium. Congenital mitral dysplasia was the most common 
+etiology (50%), followed by rheumatic disease (29%). Mean preoperative mitral 
+regurgitation grade was 3.9 ± 0.6, decreasing to 1.4 ± 0.5 postoperatively, and 
+remained stable during follow-up (mean residual mitral regurgitation, 
+1.7 ± 0.7 mm Hg). Mean transmitral gradient increased from 2.5 ± 1.8 mm Hg to 
+4.2 ± 2.1 mm Hg, remaining stable over time (4.9 ± 2.2 mm Hg at last follow-
+up). During a median follow-up of 7.7 years (interquartile range, 6.6-10.5 years), 
+9 patients (32%) required reintervention, all consisting of mitral valve replace-
+ment. Freedom from reintervention was 84.9% at 1 year, 75.9% at 5 years, and 
+54.2% at 10 years. A postoperative mean gradient>5 mm Hg was the only indepen-
+dent predictor of reintervention (hazard ratio, 7.81; 95% CI, 1.9-31.4; P = .004).
+Conclusions: Posterior leaflet augmentation with fresh autologous pericardium 
+provides a durable, growth-preserving, and physiologic repair for pediatric mitral 
+valve disease predominantly presenting with severe regurgitation. A postoperative 
+transmitral gradient>5 mm Hg identifies patients at higher risk for late mitral valve 
+replacement, emphasizing the importance of accurate intraoperative tailoring and 
+early echocardiographic follow-up. (JTCVS Techniques 2026;36:102264)
+100
+80
+60
+40
+20
+0
+0 1 2 3 4 5 6 7 8
+Number at risk
+Time after surgery (years)
+715 171928
+Freedom from reint ervention
+Freedom from reintervention (%)
+Freedom from mitral valve reintervention after 
+posterior leaflet augmentation.
+CENTRAL MESSAGE
+Posterior leaflet augmentation 
+ensures long-term valve growth 
+and function in pediatric mitral 
+repair; an intraoperative gradient 
+>5 mm Hg predicts 
+reintervention.
+PERSPECTIVE
+Posterior leaflet augmentation with fresh autolo-
+gous pericardium offers a growth-preserving and 
+durable repair for pediatric mitral valve disease 
+predominantly presenting with severe regurgita-
+tion. Future investigations should focus on opti-
+mizing patch geometry and confirming its role as 
+a bridge to definitive valve replacement in 
+growing patients.
+From the a Pediatric Cardiac Surgery Unit and b Pediatric Cardiology Unit, Bambino 
+Ges�u Children’s Hospital, IRCCS, Rome, Italy; c Department of Cardiac Surgery, 
+University “La Sapienza,” Rome, Italy; and d Division of Pediatric and Adult 
+Congenital Cardiothoracic Surgery, Medical University of South Carolina, 
+Charleston, SC.
+Supported by the Italian Ministry of Health with Current Research funds.
+Ethical Statement: The study was conducted in accordance with the principles of the 
+Declaration of Helsinki.
+Institutional Review Board (IRB) approval was obtained on February 5, 2024. 
+Read at the American Association for Thoracic Surgery Mitral Conclave Work-
+shop, New York, NY, December 11-12, 2025.
+Received for publication Nov 18, 2025; revisions received Dec 17, 2025; accepted 
+for publication Dec 17, 2025; available ahead of print Jan 28, 2026.
+Address for reprints: Gianluca Brancaccio, MD, PhD, Pediatric Cardiac Surgery 
+Unit, Bambino Ges�u Children’s Hospital, IRCCS, Piazza S. Onofrio 4, Rome 
+00165, Italy (E-mail: gianluca.brancaccio@opbg.net).
+2666-2507
+Copyright � 2026 The Author(s). Published by Elsevier Inc. on behalf of The Amer-
+ican Association for Thoracic Surgery. This is an open access article under the CC 
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+https://doi.org/10.1016/j.xjtc.2026.102264
+JTCVS Techniques c Volume 36, Number C 1
+CONGENITAL: MITRAL VALVE: ORIGINAL MANUSCRIPT
+[[p2]]
+To view the AATS Annual Meeting Webcast, see the 
+URL next to the webcast thumbnail.
+Congenital mitral valve disease (MVD) encompasses a 
+wide spectrum of structural abnormalities that severely in-
+fluence valve mobility and competence. 1 Among these, 
+dysplastic forms characterized by restricted leaflet motion 
+are particularly frequent in pediatric populations. 2,3 In this 
+setting, the posterior leaflet is often hypoplastic, thickened, 
+or adherent to the posterior wall of the left ventricle, result-
+ing in limited excursion and reduced coaptation surface. 
+Such anatomical conditions make conventional repair 
+strategies, derived from adult experience, unsuitable for pe-
+diatric use. 3-6 Posterior leaflet augmentation (PLA) using 
+fresh autologous pericardium offers an alternative, 
+physiologic approach. By enlarging the posterior leaflet, 
+this technique improves the coaptation area and restores 
+mobility while maintaining the potential for valve growth 
+and remodeling during follow-up. 7-9 However, long-term 
+data on outcomes and predictors of reintervention after 
+PLA in congenital mitral dysplasia remain limited. The pre-
+sent study aims to evaluate mid- and long-term results of 
+PLA in children and adolescents with congenital MVD 
+and to identify risk factors for valve-related adverse events, 
+focusing on postoperative residual stenosis.
+MATERIALS AND METHODS
+Ethical Statement
+The study conforms to the ethical principles of the 
+Declaration of Helsinki and is in compliance with the 
+current Italian regulations. The institutional review board 
+was notified February 5, 2024. Individual consent waived 
+due to retrospective design and anonymity.
+Study Population and Follow-up
+We retrospectively reviewed all consecutive patients who 
+underwent MV repair with PLA at Bambino Ges�u 
+Children’s Hospital between February 2011 and December 
+2024. All procedures were primary MV repairs; no patient 
+had previously undergone MV repair. Patients with 
+complete or partial atrioventricular septal defects and 
+single-ventricle physiology were excluded from analysis. 
+A total of 28 patients were identified. Clinical, operative, 
+and echocardiographic data were obtained from
+institutional databases. Echocardiographic follow-up was 
+performed before discharge, at 6, 12, and 24 months, and 
+annually thereafter. End points of the study were survival 
+after MV repair and cumulative incidence of reoperation.
+Echocardiographic Evaluation
+Transthoracic and intraoperative transesophageal echo-
+cardiography were used to assess the integrity of MV repair. 
+Quantitative assessment of MV stenosis was estimated 
+based on the mean continuous-wave Doppler gradient 
+across the valve and stratified in the following manner: 
+grade I with mean gradient <5 mm Hg, grade II with 
+mean gradient from 5 to 10 mm Hg, and grade III with a 
+mean gradient of 10 mm Hg or more. The MV regurgitation 
+was semiquantitatively assessed based on the jet 
+regurgitation and was classified as: grade I = mild, grade 
+II = mild-moderate, grade III = moderate, and grade 
+IV = severe.
+Timing of Surgery
+Indications for surgery varied according to the etiology, 
+anatomy, patient age, size of the MVannulus, need for intra-
+venous drugs and the clinical status. 5,6 Neonates and infants 
+with severe mitral regurgitation underwent surgery only if 
+they were symptomatic despite maximal medical therapy. 
+Patients with isolated mitral cleft underwent operation 
+based on the grade of regurgitation, regardless of symp-
+toms. Surgical indications for reoperation were dictated 
+by symptoms, the amount of medications required, or the 
+need for mechanical ventilation. No specific thresholds 
+for either pulmonary arterial pressure or transmitral 
+gradient triggered a surgical indication, if few or no symp-
+toms were present. According to our institutional policy, 
+posterior leaflet augmentation with fresh autologous peri-
+cardium is reserved for patients in whom restricted motion 
+of the posterior leaflet is the main mechanism of mitral 
+regurgitation. Typical substrates include congenital MV 
+dysplasia with short, thick, and partially muscularized chor-
+dae predominantly involving the posterior leaflet and its 
+subvalvular apparatus, selected postischemic lesions with 
+posterior papillary muscle involvement, and small children 
+with severe mitral regurgitation in whom increasing the 
+global coaptation surface of the valve is preferred to isolated 
+annuloplasty.
+Surgical Technique
+After median sternotomy, cardiopulmonary bypass was 
+instituted with aortic and bicaval cannulation under moder-
+ate hypothermia (28 ◦ C). Myocardial protection was 
+achieved using intermittent antegrade cold blood cardiople-
+gia. Access to the MV was gained through a left atriotomy 
+in the interatrial Waterston’s groove in children and adoles-
+cents, or by a transseptal approach extending into the dome 
+of the left atrium in neonates and infants. 10 Beginning in
+Abbreviations and Acronyms
+MVD = mitral valve disease
+PLA = posterior leaflet augmentation
+2 JTCVS Techniques c April 2026
+Congenital: Mitral Valve: Original Manuscript Brancaccio et al
+[[p3]]
+2011, PLA with fresh autologous pericardium was intro-
+duced as the preferred technique to restore leaflet mobility 
+and improve coaptation in cases of posterior leaflet restric-
+tion. 7-9 A rectangular or oval patch of untreated autologous 
+pericardium was harvested and carefully trimmed of all 
+adipose and extrapleural tissue. The patch was tailored to 
+extend from 1 commissure to the other, with the atrial 
+surface facing the left atrium. To reproduce the native 
+curvature of the posterior leaflet and prevent excessive 
+tissue redundancy, the free-edge side of the patch was 
+made slightly longer than the annular side, thereby avoiding 
+the aortic cusp effect. 8
+In neonates and infants, the height of the patch (H-patch) 
+was determined according to both preoperative echocardio-
+graphic measurements and intraoperative inspection, using 
+the following formula:
+H  patch = (APL   PHL) + (CL   target -- CL   current)
+where APL = anterior leaflet free-edge length (measured in 
+mid-systole), PHL = posterior leaflet height, CL-
+target = desired coaptation length (7 mm), and CL-
+current = measured coaptation length at baseline.
+This quantitative method ensured adequate augmentation 
+to achieve physiological coaptation without introducing 
+excessive tissue or iatrogenic stenosis. In older children 
+and adolescents, the same principle was applied qualita-
+tively, using direct intraoperative measurements to achieve 
+a smooth coaptation line with a target zone of 6 to 8 mm.
+Illustrative Case (Patient 11)
+A 6-month-old infant (weight, 4.8 kg) with severe 
+congenital MV dysplasia and restricted posterior leaflet mo-
+tion was referred for surgery due to persistent heart failure 
+and inability to wean from mechanical ventilation. The 
+mitral annulus measured 13 mm. To determine the appro-
+priate patch size, the maximal height of the anterior leaflet 
+(15 mm) and the posterior leaflet (11 mm) were measured 
+echocardiographically in mid-systole at the expected coap-
+tation point. Applying the formula above, we obtained a 
+coaptation surface of at least 7 mm: 11
+H-patch = (15 mm -- 11 mm)+(7 mm -- 3 mm) = 
+4 mm+4 mm = 8 mm
+A pericardial patch with a maximal height of 8 mm 
+(+2 mm for suture line) was fashioned and gently tapered 
+toward both commissures (Figure 1). As shown in 
+Figure 1, the pericardial patch assumes a sail-like configu-
+ration that creates a new, extended line of leaflet closure and 
+coaptation. The functional coaptation surface is provided by 
+the patch itself, whereas the native posterior leaflet free 
+margin falls into the left ventricle, forming a smooth and 
+continuous transition between the native and augmented tis-
+sues. Postoperative transesophageal echocardiography 
+demonstrated satisfactory leaflet mobility and coaptation,
+with a mean transmitral gradient of 4 mm Hg. The pericar-
+dial patch was sutured to the annulus and native leaflet edge 
+using a continuous 6-0 polypropylene suture reinforced by 
+interrupted stitches at both commissures to prevent 
+dehiscence.
+The result of the repair was evaluated by saline injection 
+through the valve and confirmed by intraoperative transeso-
+phageal and/or epicardial echocardiography. Surgical revi-
+sion was considered in case of a suboptimal immediate 
+postoperative result—defined as mitral regurgitation 
+grade ≥III and/or mean continuous wave Doppler gradient 
+>10 mm Hg—although decision making was individual-
+ized to each case. Associated repair procedures are summa-
+rized in Table 1; artificial expanded polytetrafluoroethylene 
+chordae were used exclusively in patients with associated 
+anterior leaflet prolapse.
+Follow-up
+All patients underwent postoperative examinations once 
+during the first month, every 6 months during the first 
+year, and at least yearly thereafter, including a clinical 
+assessment, an electrocardiogram, and a 2-dimensional 
+echocardiogram with color Doppler study performed by 
+the referring cardiologist. Clinical and echocardiographic 
+mitral functional status and the number of reoperations at 
+the most recent follow-up were obtained from local records. 
+The end of the follow-up period was set at December 31, 
+2024. Median follow-up was 7.7 years (interquartile range 
+[IQR], 6.6-10.5 years).
+Statistical Analysis
+Continuous variables are expressed as mean ± SD or me-
+dian (IQR), as appropriate. Categorical variables are pre-
+sented as frequencies and percentages. Freedom from 
+reintervention was estimated using the Kaplan-Meier 
+method with 95% CI, and curves (with their corresponding 
+numbers at risk) were truncated when the number of pa-
+tients at risk dropped below predefined thresholds, in accor-
+dance with recommendations. Differences between groups 
+(postoperative gradient ≤5 vs >5 mm Hg) were evaluated 
+using the log-rank test. A Cox proportional hazards model 
+was used to identify independent predictors of reinterven-
+tion, and results are reported as hazard ratios with 95% 
+CI. All analyses were performed with SPSS Statistics 
+version 21 (IBM Corp).
+RESULTS
+Between 1995 and 2024, 112 pediatric MV repair pro-
+cedures were performed at our institution; 28 (25%) of 
+these patients underwent PLA with fresh autologous peri-
+cardium for congenital or acquired mitral regurgitation. 
+The median age at surgery was 3.8 years (IQR, 0.6-
+9.2 years), and the median body surface area was 0.65 m 2 
+(IQR, 0.35-1.10 m 2 ). Overall, 9 of 28 patients (32.1%)
+JTCVS Techniques c Volume 36, Number C 3
+Brancaccio et al Congenital: Mitral Valve: Original Manuscript
+[[p4]]
+were infants younger than age 1 year, including 1 neonate 
+who underwent repair at 14 days of life. Of the 28 patients, 
+20 (71.4%) had nonrheumatic lesions (predominantly
+congenital mitral dysplasia) and 8 (28.6%) had rheumatic 
+MVD. During follow-up, 3 of 8 rheumatic patients 
+(37.5%) and 6 of 20 nonrheumatic patients (30.0%) 
+required reintervention; given the small numbers, no formal 
+statistical comparison was performed. A Carpentier type III 
+restriction was present in 71% of cases, whereas genetic 
+syndromes were documented in 3 patients (11%). None 
+of the patients in the present series underwent concomitant 
+mitral annuloplasty. The general characteristics of the pop-
+????s?PM
+Survival and Reintervention Rates
+All patients survived the operation. During the entire 
+follow-up period, 1 patient (3.6%) died due to progressive 
+ventricular dysfunction unrelated to valve function. There 
+were no intraoperative failures requiring conversion to 
+MV replacement. One patient experienced very early fail-
+ure due to partial detachment of the pericardial patch on 
+postoperative day 2 and underwent re-repair with resuturing 
+of the dehiscent portion of the patch. A second cardiopul-
+monary bypass run during the index procedure was required 
+in 1 patient to extend the posterior annular incision from 
+commissure to commissure and further enlarge the patch. 
+During follow-up, 9 patients (32.1%) required at least 
+1 MV reintervention for a total of 14 procedures, all 
+consisting of MV replacement. The mechanism of failure 
+was progression to significant mitral stenosis, in some cases 
+associated with residual or recurrent regurgitation (ie, 
+mixed steno-insufficiency). Isolated recurrent pure 
+regurgitation was not observed. At reoperation, the 
+pericardial patches appeared globally thickened but showed 
+no aneurysmal transformation or bulging toward the left 
+atrium. The estimated freedom from reintervention
+ehftqd?PM?`K?c???????L??G`okH?GPT?H?????GogkH?GPP?H??L
+mine patch height (H-patch) using the formula H-patch = (APL   PHL) + (desired coaptation length   measured coaptation at baseline), yielding a final 
+patch height of 8 mm (+2 mm for suture line). The pericardial patch is tailored and tapered toward both commissures. B, Postoperative transesophageal 
+echocardiography image demonstrating the sail-like (height = 0.8 cm) configuration of the augmented posterior leaflet with good coaptation and a 
+mean transmitral gradient of 4 mm Hg.
+s`akd?PM?a??
+Characteristic Result
+No of patients 28
+Age (y) 3.5 (0-17)
+Weight (kg) 16 (2.3-54)
+BSA (m 2 ) 0.74 (0.19-1.60)
+Sex
+Female 16
+Male 12
+ECC (min) 156 (94-320)
+XCL (min) 102 (66-253)
+Annulus (mm) 19 (16 ± 24)
+Diagnosis
+Congenital dysplasia 11 (39.2)
+RAA 7 (25)
+Endocarditis 4 (14.3)
+Ischemia 3 (10.7)
+Shone syndrome 3 (10.7)
+Carpentier classification 
+I 5 (17.8)
+II 4 (14.2)
+III 19 (67.9)
+Associated procedure
+Artificial PTFE chordae 5
+Triangular resection, anterior leaflet 2
+Papillary splitting 1
+Values are presented as median (range), n (%), or n, unless otherwise indicated. BSA, 
+Body surface area; ECC, extracorporeal circulation time; XCL, crossclamp time; 
+RAA, rheumatic disease; PFTE, polytetrafluoroethylene.
+4 JTCVS Techniques c April 2026
+Congenital: Mitral Valve: Original Manuscript Brancaccio et al
+[[p5]]
+was 84.9% (95% CI, 68.3%-92.8%) at 1 year, 80.6% 
+(95% CI, 63.1%-89.9%) at 3 years, 75.9% (95% CI, 
+56.8%-87.3%) at 5 years, and 54.2% (95% CI, 33.5%- 
+70.8%) at 10 years. The cumulative hazard curve 
+demonstrated that most events occurred within the first 
+decade after repair, followed by a plateau thereafter.
+Evolution of Valve Function Over Time
+Mean mitral regurgitation grade decreased from 
+3.9 ± 0.6 preoperatively to 1.4 ± 0.5 immediately after 
+repair and remained stable during follow-up. At discharge 
+and at 6, 12, and 24 months, mitral regurgitation grade 
+persisted around 1.4 to 1.6, confirming durable valve 
+competence. At the last follow-up, residual mitral regurgi-
+??PM?V?±?OMVK??????
+in a few patients. The mean transmitral gradient increased 
+from 2.5 ± 2.7 mm Hg preoperatively to 4.2 ± 2.1 mm 
+Hg immediately after repair, reflecting the intrinsic 
+tendency of this technique to create a mild functional 
+narrowing of the mitral orifice while restoring valve compe-
+tence. Thereafter, gradients remained stable (≈4.1 mm Hg 
+up to 12 months, 4.5 mm Hg at 24 months, and 4.9 mm Hg 
+at the latest follow-up) indicating long-term hemodynamic 
+stability without evidence of progressive obstruction.
+Risk Factors for Reintervention
+On univariate analysis, an immediate postoperative mean 
+transmitral gradient >5 mm Hg emerged as the only factor 
+significantly associated with the risk of reintervention 
+(P = .004). Patients discharged with a gradient >5 mm
+Hg had a hazard ratio of 7.81 (95% CI, 1.9-31.4) for subse-
+quent reoperation compared with those with gradients
+≤5 mm Hg (Figure 2). No other variable, including age, 
+annulus size indexed to body surface area, or postoperative 
+mitral regurgitation grade, was significantly associated with 
+valve-related reintervention. In multivariate Cox analysis, 
+the postoperative gradient remained the sole independent 
+predictor of late repair failure.
+Kaplan-Meier analysis stratified by postoperative 
+gradient (Figure 3) confirmed a markedly reduced freedom 
+from reintervention in patients with gradients >5 mm Hg. 
+The 2 survival curves diverged early, within the first years 
+after repair, and remained separated throughout follow-up. 
+The median time to reintervention was approximately 
+5 years, indicating that most events occurred within the first 
+decade after repair. After an initial mild postoperative in-
+crease, the mean transmitral gradient remained stable dur-
+ing follow-up in a majority of patients. Only a few 
+showed a progressive rise above 5 mm Hg, which correlated 
+with later reintervention. Overall, gradients remained low 
+and steady over time, confirming the durability and physio-
+logical adaptation of the repair (Figure 4).
+DISCUSSION
+Surgical repair of congenital MVD in children remains a 
+major technical and physiological challenge due to the
+10
+8
+6
+4
+2
+No reintervention
+Postoperative transmitral gradient (mm Hg)
+Reintervention
+FIGURE 2. Postoperative transmitral gradient by reintervention status. 
+Box-and-whisker plots show the distribution of postoperative transmitral 
+gradients in patients with and without reintervention. The lower and upper 
+borders of each box represent the 25th and 75th percentiles, and the 
+horizontal line inside the box represents the median. The whiskers indicate 
+the minimum and maximum nonoutlier values. Individual dots represent 
+single patient values (including outliers when present); for the smaller 
+group (reintervention), all individual values are plotted.
+0
+20
+40
+60
+80
+100
+8 7 6 5 4 3 2 1 0 
+23 3 4 8 
+512 14 15 20 
+Number at risk
+Time after surgery (years)
+Freedom from reintervention (%)
+P ost-op gradi ent > 5 mm Hg
+Post-op gradient ≤  5 mm Hg
+FIGURE 3. Kaplan-Meier curves showing freedom from reintervention 
+after posterior leaflet augmentation, stratified by postoperative (post-op) 
+transmitral mean gradient (≤5 mm Hg vs >5 mm Hg). The y-axis shows 
+freedom from reintervention in percent, and the x-axis shows time after 
+surgery in years. Solid lines indicate Kaplan-Meier estimates, with shaded 
+bands representing 95% CI. The table below the graph reports the number 
+of patients at risk at 0, 2, 4, 6, and 8 years for each group. Patients with 
+post-op gradients >5 mm Hg had significantly lower freedom from 
+reintervention compared with those ≤5 mm Hg (P = .004; hazard ratio, 
+7.81; 95% CI, 1.9-31.4).
+JTCVS Techniques c Volume 36, Number C 5
+Brancaccio et al Congenital: Mitral Valve: Original Manuscript
+[[p6]]
+heterogeneity of lesions and the need to ensure valve growth 
+over time. 1-3 Among these conditions, restricted motion of 
+posterior leaflet represents among the most common 
+morphologic substrates, often leading to incomplete 
+coaptation and residual regurgitation after conventional 
+repair. 2-8 Our experience demonstrates that PLA using 
+fresh autologous pericardium provides durable valve 
+competence and stable hemodynamics, confirming its 
+reproducibility and long-term effectiveness in pediatric 
+settings. 6
+In our experience, PLA represents the optimal surgical 
+option for Carpentier type III lesions, characterized by 
+restricted motion of the posterior leaflet with preserved 
+excursion of the anterior leaflet. 1,2 These anatomic 
+conditions are common in congenital mitral dysplasia, 
+where posterior leaflet hypoplasia or adherence to the left 
+ventricular wall results in inadequate coaptation despite a 
+normally mobile anterior leaflet. Although the technique 
+was originally developed for rheumatic mitral disease, its 
+application in the setting of congenital dysplasia with pos-
+terior restriction has proven particularly effective, restoring 
+leaflet motion and achieving a physiological closure line. 7,8 
+This observation is consistent with the lesion profile of our 
+series, in which the majority of patients (71%) were classi-
+fied as Carpentier type III, and highlights the importance of 
+tailoring the augmentation strategy to the leaflet imbalance 
+typical of congenital forms.
+In our cohort, mean mitral regurgitation grade decreased 
+from 3.9 ± 0.6 preoperatively to 1.4 ± 0.5 after surgery and 
+remained stable throughout follow-up, whereas the mean
+transmitral gradient increased modestly to 4 to 5 mm Hg 
+and showed no progressive rise. These findings are consis-
+tent with those of Wierup and colleagues, 12 who reported 
+stable gradients (4.4 ± 1.7 mm Hg) and mild residual mitral 
+regurgitation in 82% of patients after leaflet expansion with 
+fresh pericardium and subpartial annuloplasty. Together, 
+these data confirm that fresh autologous pericardium 
+ensures flexibility, adaptation to growth, and long-term 
+coaptation without calcification or stiffening. 9,13
+In our series, severe mitral regurgitation was the 
+predominant lesion; in mixed cases, increased Doppler 
+gradients often reflected high mitral inflow with complete 
+valve opening rather than true anatomical stenosis. 
+Conversely, patients with predominant anatomical mitral 
+stenosis represent poor candidates for posterior leaflet 
+augmentation, in whom patch size is critical and alternative 
+repair strategies are usually preferred.
+A residual mean transmitral gradient>5 mm Hg detected 
+intraoperatively identifies patients at risk for late reinterven-
+tion. This value reflects early residual obstruction rather 
+than progressive late stenosis and likely depends on patch 
+oversizing or inadequate contouring. In most patients, the 
+gradient remained stable at follow-up, whereas only those 
+with an early high gradient developed late dysfunction. 
+This finding emphasizes the importance of precise 
+intraoperative evaluation of valve opening and gradient 
+immediately after weaning from bypass. In contrast to other 
+approaches that combine leaflet augmentation with partial 
+or complete annuloplasty, our technique deliberately avoids 
+any form of annuloplasty. 12,14-19
+00
+22
+44
+66
+88
+1010
+Pre-op
+Transmitral mean gradient (mm Hg)
+12
+Post-op
+Follow-up time point
+Last FU24m12m6mDischarge
+FIGURE 4. Individual patient transmitral gradients (thin lines) and overall mean trend after posterior leaflet augmentation. The dark line with dots rep-
+resents the mean transmitral gradient at each predefined follow-up (FU) timepoint (preoperation [pre-op], postoperation [post-op], discharge, 6 months, 
+12 months, 24 months, and last FU); the shaded area indicates the 95% CI. After a mild postoperative increase, gradients remained low and stable in 
+most patients, confirming durable valve function and absence of progressive obstruction.
+6 JTCVS Techniques c April 2026
+Congenital: Mitral Valve: Original Manuscript Brancaccio et al
+[[p7]]
+This strategy aims to preserve annular growth potential 
+and minimize the risk of postoperative mitral stenosis, 
+which could otherwise increase with annular support. 
+Because the PLA procedure itself tends to mildly reduce 
+the valvular orifice, the addition of annuloplasty would 
+further enhance the risk of obstruction, particularly in small 
+children. The key to reducing obstruction lies in accurate 
+sizing and shaping of the pericardial patch. The patch is de-
+signed so that its free-edge side is slightly longer than the 
+annular side to prevent the aortic cusp effect and maintain 
+a smooth leaflet motion and wide coaptation area. 8 Func-
+tionally, the sail-like configuration of the pericardial patch 
+defines a new coaptation plane that replaces the native pos-
+terior leaflet margin as the effective closure surface. This 
+geometry promotes laminar flow and prevents residual pro-
+lapse or turbulence along the coaptation line, explaining the 
+stable gradients observed during long-term follow-up.
+An important refinement in our strategy has been the 
+abandonment of glutaraldehyde-treated pericardium. In 
+children, chemical fixation promotes calcification and 
+may impair annular and leaflet growth, leading to late 
+restrictive physiology. The use of fresh autologous pericar-
+dium preserves tissue pliability, allows integration with 
+native structures, and supports physiological remodeling 
+during growth. 9,13 Clinically, PLA should be regarded as 
+a growth-preserving and temporizing repair, particularly 
+valuable in small or symptomatic patients. When reinter-
+vention becomes necessary, the procedure serves as a bridge 
+to definitive valve replacement, allowing time for somatic 
+and annular growth and reducing the risks associated with 
+early prosthetic implantation. 20,21
+Limitations
+The main limitations of this study are its retrospective 
+single-center design and the relatively small cohort size. 
+However, the long and complete follow-up and the homoge-
+neity of surgical technique strengthen the reliability of the 
+findings. Future multicenter studies and biomechanical an-
+alyses may better define optimal patch geometry and its 
+adaptation to growth.
+CONCLUSIONS
+PLA with fresh autologous pericardium provides a 
+durable, growth-preserving, and physiologic repair for 
+pediatric MVD predominantly presenting with severe 
+regurgitation. Avoiding annuloplasty minimizes the risk 
+of iatrogenic stenosis, whereas meticulous patch tailoring 
+reduces obstruction and preserves coaptation. A residual 
+mean transmitral gradient >5 mm Hg detected intraopera-
+tively identifies patients at risk for late reintervention. In 
+this context, PLA should be regarded as a safe and effective 
+bridge to definitive valve replacement, allowing somatic 
+and annular growth and optimizing long-term outcomes.
+Webcast
+You can watch a Webcast of this AATS meeting presenta-
+tion by going to: https://www.aats.org/resources/optimi 
+zing-long-term-outcomes–11371.
+Conflict of Interest Statement
+The authors reported no conflicts of interest.
+The Journal policy requires editors and reviewers to 
+disclose conflicts of interest and to decline handling or re-
+viewing manuscripts for which they may have a conflict 
+of interest. The editors and reviewers of this article have 
+no conflicts of interest.
+References
+PM?b?`K?a?aK?b?ibK??M?b?????
+valve in children. pathology and surgical treatment. J Thorac Cardiovasc Surg. 
+1976;72(6):854-866.
+2. Chauvaud S, Fuzellier JF, Houel R, Berrebi A, Mihaileanu S, Carpentier A. 
+Reconstructive surgery in congenital mitral valve insufficiency (Carpentier’s 
+techniques): long-term results. J Thorac Cardiovasc Surg. 1998;115(1):84-92.
+3. Baird CW, Myers PO, Marx G, Del Nido PJ. Mitral valve operations at a high 
+volume pediatric heart center: evolving techniques and improved survival with 
+mitral valve repair versus replacement. Ann Pediatr Cardiol. 2012;5(1):13-20.
+4. Oppido G, Davies B, McMullan DM, et al. Surgical treatment of congenital 
+mitral valve disease: midterm results of a repair-oriented policy. J Thorac Cardi-
+ovasc Surg. 2008;135(6):1313-1321.
+5. Kalfa D, Vergnat M, Ly M, et al. A standardized repair-oriented strategy for 
+mitral insufficiency in infants and children: midterm functional outcomes and 
+predictors of adverse events. J Thorac Cardiovasc Surg. 2014;148(4):1459-1466.
+6. Brancaccio G, Chinali M, Trezzi M, et al. Outcome for conservative surgery for 
+the correction of severe mitral valve regurgitation in children: a single-center 
+experience. Pediatr Cardiol. 2019;40(8):1663-1669.
+7. Chauvaud S, Jebara V, Chachques JC, et al. Valve extension with glutaraldehyde-
+preserved autologous pericardium. results in mitral valve repair. J Thorac Cardi-
+ovasc Surg. 1991;102:171-178.
+8. Dion RA, Gutermann H, Van Kerrebroeck C, Verhaert D. Augmentation of the 
+posterior leaflet of the mitral valve. Multimed Man Cardiothorac Surg. 2012; 
+2012:mms015. https://doi.org/10.1093/mmcts/mms015
+9. Quinn RW, Wang L, Foster N, et al. Long-term performance of fresh autologous 
+pericardium for mitral valve leaflet repair. Ann Thorac Surg. 2020;109(1):36-41. 
+https://doi.org/10.1016/j.athoracsur.2019.05.045
+10. Hussain ST, Alsalihi M, Blackstone EH, Pettersson GB. Maximized left atrial 
+dome approach for left atrial tumor resection. J Thorac Cardiovasc Surg. 
+2014;148(2):748-750.
+11. McCarthy PM, Herborn J, Kruse J, et al. A multiparameter algorithm to guide 
+repair of degenerative mitral regurgitation. J Thorac Cardiovasc Surg Tech. 
+2022;164(3):867-876.
+12. Wierup P, Ramgren JJ, Sj€ogren J, et al. Mitral valve repair using leaflet expansion 
+and subpartial annuloplasty in children. J Thorac Cardiovasc Surg Tech. 2023; 
+23:74-80.
+13. Malhotra A, Majmudar S, Siddiqui S, et al. Midterm results of mitral valve repair 
+with pericardial leaflet augmentation: a single-center experience. Semin Thorac 
+Cardiovasc Surg. 2020;32(3):433-440. https://doi.org/10.1053/j.semtcvs.2019. 
+10.019
+14. Wood AE, Healy DG, Nolke L, Duff D, Oslizlok P, Walsh K. Mitral valve recon-
+struction in a pediatric population: late clinical results and predictors of long-
+term outcome. J Thorac Cardiovasc Surg. 2005;130(1):66-73.
+JTCVS Techniques c Volume 36, Number C 7
+Brancaccio et al Congenital: Mitral Valve: Original Manuscript
+[[p8]]
+15. Aharon AS, Laks H, Drinkwater DC, et al. Early and late results of mitral valve 
+repair in children. J Thorac Cardiovasc Surg. 1994;107(5):1262-1270.
+16. Mayr B, Vitanova K, Burri M, et al. Mitral valve repair in children below age 10 
+years: trouble or success? Ann Thorac Surg. 2020;110(6):2082-2087.
+17. Yakub M, Moorthy PSK, Sivalingam S, Dillon J, Kon PK. Contemporary long-
+term outcomes of an aggressive approach to mitral valve repair in children: is 
+it effective and durable for both congenital and acquired mitral valve lesions? 
+Eur J Cardiothorac Surg. 2016;49(2):553-560.
+18. Ando M, Takahashi Y. Durability of mitral valve repair performed before the age 
+of 5 years. Circ J. 2016;80:124-129.
+19. Sughimoto K, Konstantinov IE, d’Udekem Y, Brink J, Zannino D, Brizard CP. 
+Mid-term outcomes of congenital mitral valve surgery: Shone’s syndrome is a
+risk factor for death and reintervention. Interact Cardiovasc Thorac Surg. 
+2017;25(5):734-739.
+20. Ibezim C, Sarvestani AL, Knight JH, et al. Outcomes of mechanical mitral valve 
+replacement in children. Ann Thorac Surg. 2019;107(1):143-150. https://doi.org/ 
+10.1016/j.athoracsur.2018.07.069
+21. Schumacher K, R€uffer A, Fynn-Thompson F, Kostelka M, H€orer J. Long-term 
+outcomes following mitral valve replacement in children. Interact Cardiovasc 
+Thorac Surg. 2024;38(3):ivae034. https://doi.org/10.1093/icvts/ivae034
+Key Words: mitral valve, mitral valve repair, children, 
+leaflet augmentation, mitral valve disease
+8 JTCVS Techniques c April 2026
+Congenital: Mitral Valve: Original Manuscript Brancaccio et al

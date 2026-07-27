@@ -1,0 +1,59 @@
+
+[[p1]]
+集中治療部設置のための指針:2021 年改訂について 
+空調設備に関する改訂方針と提言 
+ 
+一般社団法人 日本集中治療医学会 
+理事会 
+集中治療部設置指針改訂タスクフォース 
+ 
+厚生労働省の定める特定集中治療室管理料の算定対象となる集中治療室の施設基準に
+は、“当該治療室はバイオクリーンルームであること”の記載があるが、具体的な基準
+の明記がない。これを受けて日本集中治療医学会では、2002 年に公表した“集中治療
+部設置のための指針”（以下、指針）[1]において、“集中治療部には ISO（国際標準化
+機構）基準によるクラス 7、NASA 基準によるクラス 10,000～100,000 程度の清浄空
+気が供給されることを推奨する”としていた。しかし、病棟内の空気清浄度を上げるこ
+とにより集中治療部内における感染症発生頻度が減少するという直接的な証拠はな
+い。 
+一方、ユニット全体の広大な空間の空気清浄度を高めようとすると、HEPA フィルタ
+ーなどを組み込ませた大規模な空調設備が必要となるが、その導入、維持に過大なコス
+トを要する。 その結果、ICU を新設、 増設あるいは、パンデミック等の対応としてハイ
+ケアユニットや一般病棟を ICU として転用する際の大きな障壁となっている[2]。 
+2012 年の米国集中治療医学会ガイドライン[3]、2020 年のインド集中治療医学会ガイ
+ドライン[4]双方において、ユニット全体の空気清浄化の必要はなく、陽陰圧あるいは
+空気の清浄度は、 感染伝播観点から患者毎に個室により調整されるべきであると記載さ
+れている。ICU に入室する患者には、空調により診療エリアへの微生物の侵入を防ぐこ
+とで守られるべき易感染性の免疫不全患者だけではなく、感染症を有しその患者から医
+療従事者や他の患者への感染伝播を防ぐ必要のある感染症患者も含まれる。2009 年新
+型インフルエンザ、2019 年新型コロナウイルスなどの新興/再興感染症罹患患者などが
+その代表であり[5]、これに対する取り扱いは集中治療室運営における重要な問題であ
+る。 
+したがって、本改訂では“指針”において、“集中治療部には ISO 基準によるクラス 7、
+NASA 基準によるクラス 10,000～100,000 程度の清浄空気が供給されることを推奨す
+[[p2]]
+る”の記載は削除し、 “HEPA フィルター設置により手術室同等の空気清浄度を保つ個
+室と空気感染症にも対応可能な陰圧個室をユニット内に適 正数配備することが望まし
+い”とする文言に置き換える。それと同時に厚生労働省の定める特定集中治療室管理料
+の算定対象となる集中治療室の施設基準において“当該治療室はバイオクリーンルーム
+であること”の文言を削除することを提言する。 
+ 
+文献 
+PM?日本集中治療医学会?集中治療部設置基準検討委員会M?集中治療部設置のための指
+針-日集中医誌 2002:9;159-168 
+2. https://www.jsicm.org/pdf/Review_survey_of_specific_intensive_care_unit.pdf 
+3. Thompson DR, Hamilton DK, Cadenhead CD, Swoboda SM, Schwindel SM, 
+Anderson DC, Schmitz EV, St Andre AC, Axon DC, Harrell JW, Harvey MA, 
+Howard A, Kaufman DC, Petersen C. Guidelines for intensive care unit design. Crit 
+Care Med. 2012 May;40(5):1586-600. doi: 10.1097/CCM.0b013e3182413bb2. 
+PMID: 22511137. 
+4. Rungta N, Zirpe KG, Dixit SB, Mehta Y, Chaudhry D, Govil D, Mishra RC, Sharma 
+J, Amin P, Rao BK, Khilnani GC, Mittal K, Bhattacharya PK, Baronia AK, Javeri Y, 
+Myatra SN, Rungta N, Tyagi R, Dhanuka S, Mishra M, Samavedam S. Indian 
+Society of Critical Care Medicine Experts Committee Consensus Statement on ICU 
+Planning and Designing, 2020. Indian J Crit Care Med. 2020 Jan;24(Suppl 1):S43-
+S60. doi: 10.5005/jp-journals-10071-G23185. PMID: 32205956; PMCID: 
+PMC7085818. 
+5. Australuan-New Zealand Intensive Care Society (ANZICS) COVID-19 ガイドライ
+ン改訂第 3 版． 
+https://www.jsicm.org/news/upload/ANZICS-COVID-19-Guidelines_ja_V3.pdf 
+ 

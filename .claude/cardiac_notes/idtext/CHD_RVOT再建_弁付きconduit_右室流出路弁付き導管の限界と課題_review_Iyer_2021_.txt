@@ -1,0 +1,183 @@
+
+[[p1]]
+INVITED EDITORIAL
+Valved conduits in the right ventricular outflow — the Achilles heel
+of congenital heart surgery!
+Krishna Subramony Iyer1
+Received: 16 August 2020 / Revised: 28 August 2020 / Accepted: 5 September 2020 / Published online: 9 October 2020
+# Indian Association of Cardiovascular-Thoracic Surgeons 2020
+Abstract
+Valved conduits play an important role in the reconstruction of the right ventricular outflow tract, but their limited longevity
+remains an unsolved problem for the congenital heart surgeon.
+Keywords Valved conduits . Right ventricular outflow . Longevity
+A right ventricle to pulmonary artery (RV-PA) conduit is a
+necessity in many congenital heart surgeries, where a natural
+right ventricle to pulmonary pathway does not exist or is in-
+adequate. Included in this subset of patients are discordant
+ventriculo-arterial connections, pulmonary atresia, truncus
+arteriosus, and variants of tetralogy of Fallot. The RV-PA
+connection has remained the Achilles heel for congenital heart
+surgeons, simply because an ideal conduit still remains elusive
+and every child receiving a valve conduit irrespective of the
+type is doomed to a lifetime of reoperations.
+Homograft conduits have had a chequered history since their
+first use in the 1960s and 1970s [1]. Initial results were suboptimal
+due to early calcific degeneration. Improvements in techniques of
+harvesting, sterilization, and cryo-preservation substantially im-
+proved their performance and led to renewed interest in their
+use. In the 1970s and 1980s, xenograft valved conduits came in
+vogue— porcine valves seated within Dacron or pericardial tubes
+[2]. Most popular in this category were the Carpentier-Edwards
+and the Hancock valved conduits. Their popularity was enhanced
+by the ready off-the-shelf availability and their wide range of
+sizes. In more recent times, the bovine jugular vein conduit,
+marketed as the Medtronic Contegra valved conduit, has gained
+widespread popularity [3]. In addition to homografts and commer-
+cially available conduits, surgeons often resort to making conduits
+in the operating room— the so-called handsewn conduits, using
+different materials for thetube and valve leaflets [4].
+A valved conduit serves two purposes — (a) it provides an
+unobstructed extra-cardiac passage for blood to flow from the
+right ventricle to the pulmonary artery and (b) it prevents
+blood from regurgitating into the right ventricle during ven-
+tricular systole. The choice of a conduit is a decision based on
+many factors including importantly availability, ease of im-
+plantation, and expected longevity. In resource-limited coun-
+tries, cost of the conduit also plays an important role.
+In this issue of IJTCVS, Raja et al. [ 5] publish their single-
+institution experience with the use of homografts, which were
+banked in their own institution, in the right ventricular out-
+flow. Given the paucity of such data from this country, this
+publication is certainly most welcome. The early- and
+intermediate-term outcomes have been stated and certain con-
+clusions drawn. By their own admission, the authors have
+accepted that the numbers and the wide spread of the patient
+groups makes it difficult for any categorical recommendations
+to be made. Consistent with world experience, the authors
+have shown a better performance with pulmonary homografts
+as compared with aortic homografts [6]. It is also a given that
+longevity of smaller sized grafts would be shorter than larger
+grafts. Early and late mortality cannot realistically be blamed
+on the type of conduit, unless it is shown to be directly as a
+result of structural failure of the conduit. The relatively high
+early and late mortality presented in the authors ’series there-
+fore needs to be overlooked, while evaluating the manuscript.
+The manuscript, however, highlights certain issues that are
+relevant to our country. It is clear that the setting up of an in-
+house homograft bank makes great sense for any active pediatric
+cardiac unit [7]. Some of the compelling advantages of homo-
+grafts are the low cost, ease of implantation, and the relative
+resistance to infection. It definitely helps to reduce the
+* Krishna Subramony Iyer
+iyerks@hotmail.com
+1 Pediatric & Congenital Heart Surgery, Fortis Escorts Heart Institute,
+New Delhi 110029, India
+Indian Journal of Thoracic and Cardiovascular Surgery (March–April 2021) 37(2):127–128
+https://doi.org/10.1007/s12055-020-01050-8
+[[p2]]
+dependence on commercially available conduits that are gener-
+ally prohibitively expensive and subject to manipulation by mar-
+ket forces. For example, the larger sizes of the Medtronic
+Contegra conduit went off the shelves as the demand increased
+for the percutaneous Melody valve marketed by the same com-
+pany. On the downside, there is the difficulty in obtaining the
+smaller sizes required for neonates and infants (necessitating a
+suboptimal downsizing of larger homografts as described by the
+authors) and the tendency for dense calcification over time,
+which makes the reoperation for replacement a challenge.
+Nevertheless, the pulmonary homograft has proven to be the best
+substitute for the right ventricular outflow in the Ross operation
+[8], and in the older patients, a large-sized homograft can provide
+many many years of event-free survival.
+In some of the more affluent countries, homografts are com-
+mercially prepared and marketedwith a substantial increase in
+cost, which takes away the price advantage. Nevertheless, the
+commercial availability has substantially increased its popularity
+and widespread use. It is pertinent to highlight here that the
+explosive rise in heart transplants has made available a large pool
+of homografts, which are harvested from the explanted hearts.
+However, in affluent countries like Japan, cultural issues prevent
+the harvesting of homografts and this has spurred the develop-
+ment of their own handsewn polytetrafluoroethylene (PTFE)
+conduit, which has delivered impressive results [9].
+The most important attribute of a conduit, by which it is
+judged, is the longevity in the patient after implantation. This is
+usually measured by the replacement or intervention-free surviv-
+al. The longevity of the conduit determines the number of
+reoperations that a patient has to undergo during his or her life-
+time. Most conduits fail because of calcific degeneration of the
+conduit valve or development of excessive“peel,” resulting in
+progressive conduit stenosis. Much of this is related to the inher-
+ent biological response of the body to the conduit material.
+However, an important element contributing to longevity is
+how streamlined and turbulence free the blood flow within the
+conduit is after implantation. There are therefore many less talked
+about factors relating to surgical technique that can contribute to
+exaggerated failure. It is important to choose the right size of
+conduit, which is appropriate for the size of the patient and the
+size of the pulmonary arteries. An ambitious oversizing with a
+view to improving longevity may actually prove counterproduc-
+tive. The lie and course of the conduit are also a key factor.
+Compression of the conduit between the heart and the overlying
+sternum is one of the commonest causes of early conduit failure,
+especially when the valve is unstented, as it is in homografts.
+Acute angulation at either ends of the conduit has to be
+prevented. Lastly, the technique of anastomosis of the distal
+end plays an important role in reducing troublesome distal anas-
+tomotic narrowing. It is therefore difficult to dissect out these
+various elements that contribute to conduit failure, while evalu-
+ating a manuscript that presents outcomes of conduit surgery.
+Less than ideal surgical technique may therefore be a disservice
+to the reputation of a conduit!
+Given the fickle nature of valved conduits, many surgeons
+would prefer surgical alternatives that avoid their use and rely
+more on the patients ’ tissues, which have growth potential
+[10]. Examples of these are the Barbero-Marciel procedure
+for repair of truncus arteriosus and the REV (réparation à
+l’ètage ventriculaire) procedure for transposition of great ar-
+teries with ventricular septal defect and pulmonary stenosis.
+However, in many cases, the use of a valved conduit is
+absolutely unavoidable. As stated before, the search for a
+valved conduit that can function lifelong without degeneration
+and also grow along with the patient continues, but such an
+ideal conduit remains a“chimera.”For the present, we have to
+make the best use of what is available and ensure that the
+patient gets the best, which he or she deserves.
+Funding No financial support has been received for this work.
+Compliance with ethical standards
+Conflict of interest The authors declare that they have no conflict of
+interest.
+References
+PM?q?cmK?r?iM?b?????
+homograft aortic valve. Lancet. 1966;2:1446–7.
+2. Bowmann FO Jr, Hancock WD, Malm JR. A valve-containing
+Dacron prosthesis: its use in restoring pulmonary artery- right ven-
+tricular continuity. Arch Surg. 1973;107:724–8.
+3. Iyer KS. The Contegra bovine jugular valved conduit: living up to
+expectations? Ann Pediatr Cardiol. 2012;5:34–5.
+4. Iyer KS, Sharma R. The right ventricle to pulmonary artery con-
+nection: when homografts are not always available. Semin Thorac
+Cardiovasc Surg. 1995;7:145–7.
+5. Raja J, Menon S, Mohammed S, Ramanan S, Baruah SD,
+Gopalakrishnan A, Dharan BS. Midterm results of homografts in
+pulmonary position: a retrospective single-center study. 2020.
+https://doi.org/10.1007/s12055-020-01065-1.
+6. Niwaya K, Knott-Craig CJ, Lane MM, Chandrasekaren K,
+Overholt ED, Elkins RC. Cryopreserved homograft valves in the
+pulmonary position: risk analysis for intermediate-term failure. J
+Thorac Cardiovasc Surg. 1999;117:141–6.
+7. Choudhary SK, Bansal N, Kumar I, et al. Audit of homograft valve
+bank. Indian J Thorac Cardiovasc Surg. 2020;36:14–20.
+8. Karaskov A, Sharifulin R, Zheleznev S, Demin I, Lenko E,
+Bogachev-Prokophiev A. Results of the Ross procedure in adults:
+a single-centre experience of 741 operations. Eur J Cardiothorac
+Surg. 2016;49:e97–e104.
+9. Miyazaki T, Yamagishi M, Maeda Y, et al. Expanded
+polytetrafluoroethylene conduits and patches with bulging sinuses
+and fan-shaped valves in right ventricular outflow tract reconstruc-
+tion: multicenter study in Japan. J Thorac Cardiovasc Surg.
+2011;142:1122–9.
+10. Iyer KS. Alternatives to conduits. Ann Pediatr Cardiol. 2008;1:46–9.
+Publisher’sn o t eSpringer Nature remains neutral with regard to jurisdic-
+tional claims in published maps and institutional affiliations.
+128 Indian J Thorac Cardiovasc Surg (March –April 2021) 37(2):127–128

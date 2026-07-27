@@ -1,0 +1,134 @@
+
+[[p1]]
+ 
+1 
+ 
+英語 日本語 
+Do Pediatric Early Warning Systems reduce mortality and 
+significant clinical deterioration? A Systematic Review 
+小児早期警告システムは死亡率と重大な臨床的悪化を減少させる
+か？SysRev 
+Author: Kee-Chong Ng, et al. PLS Task Forces. 
+The PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+Population: Infants, children, and adolescents in any 
+inpatient setting 
+Intervention: Pediatric early warning systems (PEWS) with or 
+without rapid response teams/medical emergency teams 
+(RRTs/METs) 
+Comparators: No pediatric early warning systems (PEWS) or 
+standard care (without a scoring system)  
+Outcomes: Significant clinical deterioration event, including 
+but not limited to:  
+PICOST  
+P: 入院中の乳児・小児 
+I: PEWS を使用 （RRTs/METs の有無は問わず）、 
+C: PEWS を使用しない、またはスコアリングシステムを使用しな
+い、標準治療 
+O:臨床的悪化のイベント。以下を含むが、これらに限定されない。
+（1）予期しない緊急気管挿管、（2）予期しない蘇生輸液および強
+[[p2]]
+ 
+2 
+ 
+(1) Unplanned/crash tracheal intubation,  
+(2) Unanticipated fluid resuscitation and 
+inotropic/vasopressor use,  
+(3) Cardiopulmonary resuscitation (CPR) or Extracorporeal 
+Membrane Oxygenation (ECMO)  
+(4) Death in patients (all-cause mortality) without a Do Not 
+Resuscitate (DNR) order. 
+Study Designs: Randomized controlled trials (RCTs) and 
+non-randomized studies (non-randomized controlled trials, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) are eligible for inclusion.  
+Timeframe: All years and all languages were included as long 
+as there was an English abstract; unpublished studies (e.g., 
+conference abstracts, trial protocols) were excluded. 
+Literature search updated to 26th June 2021. 
+ 
+心薬/血管収縮薬の使用、（3）心肺蘇生（CPR）/体外式膜型人工
+肺（ECMO）、（4）蘇生拒否（DNR）のない患者の死亡（全原因
+死亡） 
+S： RCT および非ランダム化試験（非ランダム化比較試験、分割時
+系列解析、前後比較研究、コホート研究）を対象とした。 
+T: 英語要約があれば、全ての年代・全ての言語を対象とした。未発
+表の研究（会議録、プロトコール論文）は除外した。文献検索は
+2021 年 6 月 26 日に更新された。 
+[[p3]]
+ 
+3 
+ 
+Treatment recommendations 
+We suggest using pediatric early warning systems to monitor 
+hospitalized children with the aim of identifying those who 
+may be deteriorating (weak recommendation, low quality 
+evidence). 
+推奨と提案 
+入院中の小児患者をモニタリングし、悪化している可能性のある小
+児患者を特定するために、小児早期警告システムを使用することを
+提案する。（弱い推奨、エビデンスの確実性：低い） 
+ 
+１． JRC の見解と解説 
+（解説） 
+• JRC2020 では PEWS に関して、ScpRev が行われ、エビデンスが十分でないため推奨の作成ができなかった。 
+• 18 歳未満の小児入院患者を対象とし、小児早期警告システム（PEWS）を導入した群と導入しなかった群で比較した 2011 年から 2020
+年に出版された論文の SysRev を行った。 
+• 1 件の RCT 及び 14 件のコホート研究が SysRev に含まれたが、バイアスリスクにより 3 件のコホート研究は除外された。 
+• SysRev を実施し、GRADE による評価が行われた。 
+[[p4]]
+ 
+4 
+ 
+• SysRev に採用された研究は、小児専門病院（病床数は 100～500 以上）からの報告が多数を占めた。 
+• PEWS を使用しなかった場合でも死亡および心停止、重篤な悪化は有意に増加しなかった。（エビデンスの確実性：低い）一方で、
+PEWS を使用しなかった場合の方が予期せぬ蘇生事象の発生が有意に増加した。（エビデンスの確実性：非常に低い） 
+• PEWS を導入するために多大な医療資源を費やすことでヘルスケアシステムが受ける負荷より、PEWS を導入すると同時に医療従事
+者への教育も進み、病状の悪化している患者を認識し、介入する能力を向上させることに価値があると PLS タスクフォースは留意し
+た。 
+• PEWS を導入するかどうかを決める際には、既存の医療環境に PEWS を導入することに適応する能力があるかどうか、そして PEWS
+導入がどのような影響を及ぼすのかに関して、バランスよく検討すべきであるということに PLS タスクフォースは合意した。 
+• PEWS を使用している既存の環境では、現場での検証、適応およびその有効性の継続的な評価が重要である。 
+• 小児は成人と比較して、PEWS の効果におけるエビデンスの量および質が非常に低い。小児の死亡率及び心停止発生率（特に集中治
+療室外）が低いため、重大な臨床的増悪の発生率が重要なアウトカムの指標となる。SysRev では重大な臨床的増悪のイベントの有意
+な減少が見られ、これらの知見は PEWS の導入を支持するものである。 
+[[p5]]
+ 
+5 
+ 
+• PEWS の今後の研究においては、RRT の有無やチーム構成、救急部や院外の小児患者、特定の疾患や医療資源（小児専門病院と総合
+病院）の違いによるサブグループ解析において前向きに評価することも重要である。 
+• PEWS 導入に関する検討では、導入のためのスタッフの教育方法、資源や実現可能性、費用対効果、公平性、既存の医療システムへ
+の適合性などを検討すべきである。 
+• JRC は下記を検討した： 
+ PEWS を使用することで重大な臨床的増悪の発生率を減少できる可能性 
+ PEWS を導入することにより、医療従事者への教育も進み、PEWS の評価を行う看護師や医師などの小児患者の早期覚知に対す
+る評価能力の向上が期待されこと 
+ 一方で、本邦における PEWS 導入の効果に関する報告は限られており、多くの小児病棟では導入されてないと想像されることと、
+その効果が不明瞭 
+ どの PEWS がよいかのエビデンスも不十分であり、また、本邦では小児病院という形態は施設数からは少数派で、総合病院の中
+に比較的小規模の小児科病棟が存在する形である点が SysRev とは異なる点である 
+[[p6]]
+ 
+6 
+ 
+ 電子カルテとの連動による評価の簡便化とアラートの自動表示やその正確性の評価など、PEWS の質を向上させるための研究の
+必要性 
+ 
+２．わが国への適用 
+ JRC 蘇生ガイドライン 2020 を変更する予定である。 
+  SysRev で検討された PEWS の背景は小児を専門とする病院からの報告であり、本邦では小児病院という形態は限られている。背景
+が近接している施設（小児専門病院等）では PEWS の使用を提案する予定である。一方で、それ以外の施設では、エビデンスも不足し
+ており、PEWS の使用に関しての判断は保留とする。PEWS を導入することは、小児評価能力を向上させる教育的な面での効果も期待
+できる。 
+  
+３．担当メンバー 
+作業部会員（五十音順）渡邉伊知郎 水野智子 鉄原健一 賀来典之 倉光真登香 馬場恵子 新田雅彦 
+[[p7]]
+ 
+7 
+ 
+共同座長（五十音順）野澤正寛 石原唯史 森本健司 
+担当編集委員（五十音順）池山貴也、黒澤寛史 
+顧問 清水直樹 
+編集委員長 坂本哲也 

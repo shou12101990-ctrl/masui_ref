@@ -1,0 +1,630 @@
+
+[[p1]]
+EDITED BY
+Mustafa Cikirikcioglu,
+University of Geneva, Switzerland
+REVIEWED BY
+Murat Biçer,
+Bursa Uludağ University, Türkiye
+Erman Pektok,
+Bursa Uludağ University, Türkiye
+*
+CORRESPONDENCE
+Osman Nuri Tuncer
+osnutuncer@gmail.com
+qdbdhudc?QT?i?QOQS
+ACCEPTED 10 September 2024
+PUBLISHED 01 October 2024
+CITATION
+Tuncer ON, Ertugay S, Akhundova M, Levent E
+and Atay Y (2024) Long-term outcomes of
+mitral valve repair in children.
+Front. Cardiovasc. Med. 11:1454649.
+doi: 10.3389/fcvm.2024.1454649
+COPYRIGHT
+© 2024 Tuncer, Ertugay, Akhundova, Levent
+and Atay. This is an open-access article
+distributed under the terms of the Creative
+Commons Attribution License (CC BY) . The
+use, distribution or reproduction in other
+forums is permitted, provided the original
+author(s) and the copyright owner(s) are
+credited and that the original publication in
+this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+Long-term outcomes of mitral
+valve repair in children
+Osman Nuri Tuncer
+1*, Serkan Ertugay
+1
+, Mahsati Akhundova
+1
+,
+Ertürk Levent
+2
+and Yüksel Atay
+1
+1Department of Cardiovascular Surgery, Faculty of Medicine, Ege University, Izmir, Türkiye, 2Department
+of Pediatric Cardiology, Faculty of Medicine, Ege University, Izmir, Türkiye
+Background: Mitral Valve Disease in children presents unique challenges due to
+the wide range of associated pathologies and the complexities of pediatric
+cardiac anatomy. Mitral valve repair in this demographic is preferred over
+replacement due to the drawbacks associated with prosthetic valves in young
+patients, such as the need for long-term anticoagulation and issues with
+prosthetic size and growth.
+Methods: This retrospective study reviewed pediatric patients under 18 years
+who underwent mitral valve repair between January 2002 and December
+2023. Exclusion criteria included patients with atrioventricular septal defects or
+single-ventricle physiology. Surgical outcomes were assessed using
+preoperative and postoperative transthoracic echocardiography, with follow-
+up data analyzed via Kaplan-Meier survival estimates.
+Results: The study included 47 patients with a median age of 4 years. Surgical
+techniques varied based on the speci ﬁc mitral valve pathology. The overall
+early mortality was 6.3%, and the one and ten-year survival rates were 93.6 ±
+3.6% and 91.4 ± 4.1%, respectively. Most patients showed improved or stable
+postoperative cardiac function during a median follow-up of 105 months.
+Notably, the rate of freedom from re-operation at ten years was 85.1 ± 6.9%,
+highlighting the durability of the surgical interventions.
+Conclusions: Mitral valve repair in children demonstrates favorable long-term
+outcomes with low mortality and reoperation rates, particularly when
+performed at an older age to accommodate growth and avoid the
+complexities of smaller, more delicate cardiac structures. These ﬁndings
+suggest that mitral valve repair should be considered a viable and effective
+option for managing pediatric MVD, with a personalized approach essential for
+optimizing outcomes.
+KEYWORDS
+mitral valve annuloplasty, cardiac surgical procedures, mitral regurgitation, congenital
+heart disease, mitral stenosis (MS)
+Introduction
+Mitral valve disease (MVD) is less frequently observed in children compared to adults,
+but there can be a wider range of pathologies due to the coexistence of congenital heart
+defects ( 1). The small, immature, and fragile nature of mitral valve structures in
+the neonatal and infantile periods can make surgical treatment of MVD challenging
+in the pediatric population ( 2). Dif ﬁculties in obtaining appropriately sized prostheses,
+the necessity of long-term anticoagulant use, poor long-term outcomes, and a high risk
+of patient-prosthesis mismatch all contribute to making replacement surgery less
+favorable for pediatric patients. This adds further complexity and makes the surgical
+management of MVD more challenging ( 3, 4).
+TYPE Original Research
+PUBLISHED 01 October 2024
+| DOI 10.3389/fcvm.2024.1454649
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+This article aimed to examine the outcomes of mitral valve
+repair in pediatric patients and determine the factors that
+contribute to success or complications. A multidisciplinary
+approach and the experience of specialist physicians play crucial
+roles in the treatment of pediatric patients with MVD. The
+treatment plan should be personalized according to the patient ’s
+speciﬁc conditions and characteristics of the disease.
+Materials and methods
+Between January 2002 and December 2023, a retrospective
+review was conducted of pediatric patients aged <18 years who
+underwent surgery for congenital or acquired mitral valve disease
+at our clinic. Patients with atrioventricular septal defects or single-
+ventricle physiology were excluded from the study. Data of the
+patients were obtained through a review of hospital and national
+medical records. Ethical approval for the study was obtained from
+the institution. (Approval number: 2024-2899 24-5T/33).
+Pathology and determination of MVD
+severity
+Mitral valve function was evaluated preoperatively using
+transthoracic echocardiography (TTE). Mitral regurgitation (MR)
+was graded between I and IV based on abnormal jet ﬂow into
+the left atrium. Mitral valve pathologies were roughly classi ﬁed
+according to the Carpentier ’s Functional Classi ﬁcation ( 5). Before
+cardiopulmonary bypass, the patients were re-evaluated in detail
+using intraoperative transesophageal echocardiography (TEE),
+and the morphology of the mitral valves was examined. During
+this examination, the presence of any other abnormalities was
+also assessed.
+Surgical indications and techniques
+Unlike in adult patients, there are no de ﬁnitive guidelines
+indicating the surgical indications for mitral valve surgery in
+pediatric patients ( 6). Therefore, the surgical indication was
+individually evaluated for each patient, and a decision for the
+operation was made by a multidisciplinary council involving a
+pediatric cardiologist, pediatric intensivist, and pediatric cardiac
+surgeon based on valve pathology, the presence of concomitant
+cardiac anomalies, and the patient ’s clinical condition. Surgical
+procedures were preferably performed on patients at an advanced
+age to ensure a larger surgical ﬁeld and as mature tissues as possible.
+All patients underwent surgery under general anesthesia using
+cardiopulmonary bypass. In most cases, a median sternotomy was
+performed as the surgical incision; however, in recent cases that
+required no additional surgical intervention or only involved an
+atrial septal defect, right anterolateral thoracotomy was preferred.
+Intermittent blood cardioplegia was used for myocardial
+protection during these procedures. Mild hypothermia (28 –32
+degrees) was used in all patients except for one case. The
+exceptional case was a patient with both interrupted aortic arch
+pathology and mitral valve disease, and total circulatory arrest
+lasting 18 min was employed during arch reconstruction. Mitral
+valve exploration was performed either through a direct left
+atriotomy or by opening the interatrial septum.
+MR due to annular dilatation and the absence of an
+appropriate ring size modi ﬁed Kay-Whooler Annuloplasty using
+either te ﬂon pledget or autologous pericardium was performed in
+these patients. An arti ﬁcial ring was used for annular
+stabilization in all patients for whom a suitable ring was present.
+The lea ﬂet clefts were repaired using 5/0 prolene without
+causing distortion, extending to the most distal part as much as
+possible. In cases where regurgitation was near the commissures
+peripherally, the commissural apposition area was closed using
+separate prolene sutures.
+Quadrengular/triangular resection was performed in the
+patients with lea ﬂet prolapse. For patients with chordal
+elongation, chordal shortening was performed, and arti ﬁcial
+chordal implantation techniques were performed as necessary for
+those with chordal rupture.
+Commissurotomy was performed in cases of mitral stenosis
+(MS) due to commissural fusion, peeling in cases with tissue
+accumulation limiting lea ﬂet movement, and papillary muscle
+division in cases of chordal restriction.
+All patients were evaluated for mitral valve function by
+intraoperative TEE after cardiopulmonary bypass and TTE before
+discharge. TTE was performed at the ﬁrst, third and sixth
+months of follow-up. Patients with no deterioration in mitral
+valve function were followed up with annual TTE.
+Statistical analysis
+Continuous data were expressed as median (range). Analysis of
+overall survival and freedom from MV re-operation or MV
+replacement were performed with the Kaplan — Meier method.
+Jamovi for Mac version 2.5.2 was used for all statistical analysis.
+Results
+47 patients < 18 years, were included in this study. The median
+age was 4 years (min 4 months max 17 years) and weight was 4 kg
+(range, 4 –78 kg). Of the patients, 12.7% ( n = 6) were under one
+year of age and 13 (27.6%) were under 10 kg. The proportion of
+female patients was 57.41% ( n = 27). Among the patients, 63.8%
+(n = 30) had an additional cardiac pathology, and atrial septal
+defect was the most common congenital anomaly (27.6%). Some
+patients had more than one additional cardiac pathology. Down
+syndrome was the most frequent genetic syndrome in 12.8%
+(n = 6) of the patients. The demographic data of the patients are
+summarized in Table 1 .
+The most frequently observed pathology in patients was MR,
+which was determined at a rate of 70.2% ( n = 33). Common
+reasons for MR are lea ﬂet cleft and annular dilation. Papillary
+muscle/commissural fusion in 6 patients, accounting for 12.8%,
+Tuncer et al. 10.3389/fcvm.2024.1454649
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+was the most common cause of MS. Patients data related to mitral
+valve pathologies are detailed in Table 2 along with the Carpentier
+functional classi ﬁcation.
+Leaﬂet repair was the most frequently performed surgical
+tecnique for mitral insuf ﬁciency at a rate of 46.8%. Mitral
+commissurotomy was the most commonly used surgical technique
+for MS, with a rate of 21.2% ( n =1 0 ) . S u r g i c a l t e c h n i q u e s w e r e
+combined with 39 patients (83%) based on the existing pathology,
+with one of the described techniques being necessary. The surgical
+techniques that were used are listed in Table 3.
+All patients with additional intracardiac pathologies underwent
+concomitant correction. Among the additional pathologies without
+intracardiac lesions, only the patient with an interrupted aortic arch
+underwent concomitant surgery. Of the three patients with
+coarctation of the aorta, two underwent preoperative mitral valve
+repair and one underwent balloon angioplasty after discharge. Of the
+3 patients with coarctation, 2 had additional ASD, and these patients
+underwent concomitant surgery for ASD even if they did not
+undergo concomitant intervention for coarctation. No procedure
+was performed in the patient with an absent left pericardium.
+Early mortality was observed in 3 patients (6.3%). Two of these
+patients were intubated and operated under inotrope support
+with poor functional capacity (NHYA IV). The cause of
+mortality in these two patients was considered to be low cardiac
+output syndrome and mortality occurred on the fourth and
+sixth post-operative days, respectively. The other patient had a
+prolonged hospital stay before the operation due to infective
+endocarditis and died 27th day after the operation due to
+sepsis. Late mortality was seen in only 1 patient (2%) and this
+patient was on the transplant list for non-compaction dilated
+cardiomyopathy. She died due to heart failure 8 months after
+mitral valve repair while she was on the waiting list for heart
+transplant. Only one patient under 1 year of age had mortality
+and the other 2 patients were over 1 year of age. The 1- and ten-
+year survival rates for patients were found to be 93.6 ± 3.6% and
+91.4 ± 4.1%, respectively, as illustrated by the Kaplan-Meier curve
+depicting these data in Figure 1 .
+After the removal of patients with early mortality, the average
+follow-up period was 105 months (minimum, 6; maximum, 258).
+None of the patients were lost to follow-up. During follow-up,
+no worsening in functional capacity compared to pre-operation
+was observed in any patient; additionally, improvement in
+functional capacities was observed for all patients with low
+functional capacity who underwent surgery. Data on the pre- and
+TABLE 3 Techniques used for repair of MV.
+Mitral regürgitation
+Cleft repair 16 (34%)
+Modiﬁed Kay-Wooler annuloplasty. 14 (29.8%)
+Ring annuloplasty 9 (19.1%)
+Leaﬂet augmentasyon 5 (10.6%)
+Edge-to-edge repair 8 (17%)
+Chordae shortening 4 (8.5%)
+Artiﬁcial chordae 2 (4.3%)
+Quadrangular/triangular resection 4 (8.5%)
+Mitral stenosis
+Commissurotomy 10 (21.2%)
+Supravalvuler ring resection 6 (12.7%)
+Papillary muscle splitting 8 (17%)
+Peeling 4 (8.5%)
+TABLE 1 Demographic data of patients.
+Age Median 4 year
+(3 month-17 year)
+Weight Median 15 kg (4 –78 kg)
+Gender
+Female 27 (%57,4)
+Male 20 (%42,6)
+Genetic/Metabolic Syndrome 8 (17.1%)
+Down Syndrome 6 (12.8)
+Williams Syndrome 4 (8.5%)
+MPS3 1 (2.1%)
+Shone 4 (8.5%)
+MR 33 (70.2%)
+2′ 3 (6.4%)
+3′ 19 (40.4%)
+4′ 11 (24.8%)
+MS 14 (29.8%)
+10–15 mmHg 4 (8.5%)
+15–20 mmHg 6 (12.8%)
+>20 mmHg 4 (8.5%)
+Associated cardiac lesions 30 (63.8%)
+ASD 13 (27.7%)
+VSD 7 (14.9%)
+SADM 5 (10.6%)
+PDA 4 (8.5%)
+AoK 3 (6.4%)
+Absance of left pericard 1 (2.1%)
+IAA 1 (2.1%)
+Preoperative Functional
+Classiﬁcation
+Postoperative Functional
+Classiﬁcation
+NHYA 1 4 (8.5%) NHYA 1 36 (76.5%)
+NHYA 2 15 (31.9%) NHYA 2 8 (17.1%)
+NHYA 3 24 (51.1%)
+NHYA 4 4(8.5%)
+MPS3, Mucopolysacchoridosis type3; MVI, Mitral regurgitation; MS, Mitral stenosis; ASD,
+Atrial septal defect; VSD, Ventricular septal defect; SADM, Subaortic discret membran;
+PDA, Patent ductus arteriosus; AoK, Aort coarctation, IAA, interrupted arotic arch When
+postoperative functional capacities were shown, patients with early mortality were excluded.
+TABLE 2 Carpentier ’s functional classi ﬁcation for mitral valve lesions.
+Mitral valve regurgitation 33 (%70,2)
+Type 1 (normal lea ﬂet motin) 21 (%44,8)
+Annular dilatation 8 (%17)
+Cleft lea ﬂet 11 (%23,5)
+Leaﬂet defect 2 (%4,3)
+Type 2 (lea ﬂet prolapsus) 10 (%21,3)
+Elongated chordae 8 (%17)
+Rupture chordae 2 (%4,3)
+Type 3 (restricted lea ﬂet motion) 2 (%4,3)
+Fused commisures 2 (%4,3)
+Mitral valve stenosis 14 (%29,8)
+Type A (normal papillary muscle) 14 (%29,8)
+Supravalvar ring 5 (%10,6)
+Thickened lea ﬂets 3 (%6,4)
+Papiller muscle/commissural fusion 6 (%12,8)
+Tuncer et al. 10.3389/fcvm.2024.1454649
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+postoperative functional capacities of the patients are
+provided in Table 1 .
+Before the operation, 11 patients had fourth-degree MR. After
+the operation, except for one patient, no other patient had a higher
+degree of MR than the ﬁrst degree. The patient with postoperative
+grade 2 MR was under one year old and had a functional capacity
+of NHYA III. Considering the poor general condition of the patient
+and to avoid prolonging the cardiopulmonary bypass time further,
+intraoperative revision was not considered. The patient tolerated
+second-degree MR well during the postoperative period and was
+discharged on postoperative 11th day.
+Patients who underwent surgery due to mitral stenosis were
+found to have a preoperative mean gradient of 17 mmHg (range
+11–27 mmHg), while the postoperative mean gradient was
+3.1 mmHg (range 2 –4 mmHg).
+No intraoperative reoperation was performed in any of the
+patients. Four patients underwent reoperation due to recurrent
+mitral valve pathology during the long-term follow-up, all of
+whom had previously undergone surgery for MR. None of our
+patients who underwent surgery for MS required reoperation.
+Three patients who underwent reoperation were under 1 year of
+age at the time of their initial repair. Two of these patients
+underwent repeat mitral repairs, and two underwent mitral valve
+replacement (MVR). One patient who underwent MVR for
+prosthetic valve dysfunction underwent repeat MVR ﬁve years
+later. In one patient who had undergone mitral repair, anterior
+leaﬂet indentation repair and ring annuloplasty were performed.
+After conducting a saline test on another patient who had
+undergone residual cleft repair and Modi ﬁed Kay-Wooler
+annuloplasty, it was determined that there was a leakage issue
+between A1-P1. To rectify this situation, two stabilizing sutures
+were applied to the A1-P1 region. This patient was the patient
+was discharged with second-degree MR after the ﬁrst operation
+and required a reoperation 5 years after the initial surgery.
+The rates of freedom from operation at 1,2,3 and10 years were
+calculated as 96.7 ± 3.3%, 92.9 ± 4.8%, 89.l ± 6% and 85.1 ± 6.9%
+respectively. The Kaplan Meier curve for freedom from operation
+is shown in Figure 2 .
+Discussion
+Mitral valve surgery in pediatric patients presents unique
+challenges due to their small and immature valve structures, a
+wide range of pathologies, and associated congenital anomalies.
+Prosthetic valve replacement is particularly challenging in this
+population due to limited prosthetic options, poor long-term
+outcomes, potential complications related to anticoagulant use,
+and incompatibility with patient growth ( 7, 8).
+Surgical techniques for mitral valve reconstruction in pediatric
+patients have shown promising results. Despite the early mortality
+rate of 6.3% observed in our study, the 10-year survival rates
+and low reoperation rates at 1, 2, 3, and 10 years suggest the
+success of the procedures. Furthermore, throughout the average
+FIGURE 1
+Kaplan-Meier curves showing overall survival.
+Tuncer et al. 10.3389/fcvm.2024.1454649
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+follow-up period of 105 months, none of the patients exhibited a
+decline in their functional capacity postoperatively. Moreover,
+those with low functional capacity prior to surgery demonstrated
+an improvement in their functional capacity. Our study shows
+that successful mitral valve repair in children can be performed
+in dedicated centers with low morbidity, mortality and
+reoperation rates.
+In a study by Hetzer et al. reporting 20 years of experience in
+mitral repair on 111 patients under 18 years of age, MR was the
+most common mitral valve disease with a rate of 80.2%. The most
+common causes of MR were mitral lea ﬂet cleft and annular
+dilatation (9). In other studies in the literature, MR constitutes the
+majority of the pediatric group operated for MVD. In our study,
+the most common causes of MR were determined as annular
+dilatation and cleft in accordance with the literature ( 10, 11).
+The high rate of concomitant congenital anomalies in pediatric
+patients makes MVD pathology spectrum wide and repair
+challenging. In Hetzer ’s study, 107 (96.3%) of the patients had
+additional congenital defects and 74 (66.7%) of them underwent
+concomitant surgery ( 9) and these data are compatible with
+our study. This situation shows that pediatric valve repair
+requires experience in congenital heart disease surgery. In our
+study, 28(59.5%) patients underwent concomitant surgery for
+additional pathologies.
+Hetzer et al. achieved annular stabilization with the Modi ﬁed
+Kay-Wooler technique in the majority of patients with annular
+dilatation and used an arti ﬁcial ring in only 4 patients (3.6%)
+(9). Although the mean age of their patients was older than that
+of our study group, they did not prefer an arti ﬁcial ring because
+they were concerned about the use of anticoagulants, even for a
+short period of time, subsequent somatic growth problems, and
+the risk of a particularly rigid prosthesis causing distortion of the
+cardiac cavities and/or contributing to left ventricular out ﬂow
+tract obstruction. In our patient group, an arti ﬁcial ring was used
+in all patients in whom a suitable sized ring for annular
+stabilization was available. Patients who received an arti ﬁcial ring
+were treated with anticoagulant therapy for a short period of
+time (3 months), no anticoagulant-related complications
+occurred in any patient, and no left ventricular out ﬂow tract
+stenosis requiring a procedure was detected in any patient. None
+of our patients who received arti ﬁcial ring implantation required
+any re-intervention for cardiac reasons.Although there are studies
+emphasizing the development of severe MR in 25% of repairs
+performed without the use of a ring ( 12) it is also known that
+other annuloplasty techniques can be used successfully in
+children and prosthetic rings are not indispensable to achieve
+positive results ( 13). In our study, although there were a large
+number of patients who underwent annuloplasty without the use
+FIGURE 2
+Kaplan-Meier curves showing freedom from re-operation due to MVD.
+Tuncer et al. 10.3389/fcvm.2024.1454649
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+of a ring, the low long-term reoperation rate indicates that ring use
+is not mandatory.
+Another consideration regarding ring usage is ring selection. In
+the literature, biodegradable rings are frequently encountered,
+especially in pediatric cases, due to their increased resistance to
+infections and their ability to be completely absorbed over time,
+thus not impeding annular growth ( 14, 15). Due to the dif ﬁculty
+in obtaining biodegradable rings, it was not possible to utilize
+them in our cases.
+Even when only patients with annular dilatation are
+considered, it shows that there are no de ﬁnitive surgical
+techniques for mitral repair. The patient ’s age, functional
+capacity, presence of additional pathologies and the condition of
+the mitral valve structures are the main factors that determine
+the surgical technique. To adequately address the various
+pathologies that are commonly associated with pediatric MVD, it
+is essential to customize surgical methods based on each patient ’s
+unique requirements. This personalized approach ensured the
+best possible outcome for these patients. In our study, we
+observed the use of several established surgical techniques in the
+treatment of patients, highlighting the complexity and variability
+of the cases. Some cases require a combination of multiple
+techniques to effectively address the intricate nature of the
+pathologies. This demonstrates the necessity of a comprehensive
+and adaptable approach when dealing with pediatric mitral valve
+disorders ( 16). The aim of a good repair should be a valve with
+satisfactory function rather than an ideal anatomical and
+morphologic valve. Because the main goal is to allow the patient
+to grow with a good functional capacity.
+Early mortality was seen in 5 (4.5%) patients in the series of
+Hertzer et al. All of them had additional congenital anomalies
+and 4 patients were under 1 year of age. All early mortalities
+occurred in patients operated for MR. Late mortality was seen in
+9 (8.1%) patients, only 1 of whom was operated for MS. In our
+study, only 1 patient under 1 year of age died in the early
+period, although the mean age was higher than our patients
+(median age was not speci ﬁed in this study). In the study by
+Hezter et al. the number and proportion of patients under one
+year of age was higher than in our patient group ( 9). This
+supports our opinion that patients should be operated at the
+oldest possible age for better results.
+In a study by Lee et al. involving 139 patients under 18 years of
+age, no early mortality was observed. In the late period, 3 (2.1%)
+patients who operated for MR died due to heart failure. Lee et al.
+reported an excellent 15-year survival of 97.1% ( 11). In a more
+recent study of 40 patients under 10 years of age by Mayr et al,
+operative mortality was seen in 2 (5%) and late mortality was
+seen in 4 (10%) patients. In Mayr ’s series, the majority of
+patients with mortality were operated on for MR ( 10). In our
+case series, there were 3 (6.3%) early and 1 (2%) late mortality.
+In our series, mortality was not seen in any MS patient and all
+patients who died were patients who were operated for MR.
+There are studies in the literature showing that mortality and
+morbidity are higher in patients operated for MS. In Hetzer ’s
+series, the majority of patients with mortality were MS cases. In
+Lee’s and our case series, no mortality was seen in any patient
+operated for MS ( 9–11, 17).
+Considering the long-term life expectancy of pediatric patients,
+the most important criterion for the success of mitral repair in this
+patient group should undoubtedly be the durability of the repair.
+While it is known that reoperation rates cannot be eliminated
+even in prosthetic valve replacement ( 18), reoperations after
+repair should be an acceptable situation.
+In the series by Hetzer et al. a total of 15 (13.5%) patients
+required reoperation due to mitral valve pathology. Of these, 7
+underwent re-repair and 8 underwent valve replacement. The
+overall freedom from reoperation rates were 86.2% at 5 years and
+79.2% and 73.5% at 10 and 20 years, respectively. In Hertzer ’s
+study, the risk factors for reoperation were determined as
+younger age, presence of additional intervention, duration of
+operation and valve function at discharge ( 9).
+In the series of Lee et al. 9 (6.5%) patients required
+intraoperative revision and a total of 29 reoperations were
+performed to 26 (19.7%) patients. Eleven of these patients
+underwent 12 valve replacements. The majority of the patients
+requiring reoperation were patients who underwent Kay-Wooler
+annuloplasty during the initial operation due to MR. The 15-year
+freedom from operation rate was 76.9% ( 11). In the series of
+Mayr et al. reoperation was seen in 16 (40%) patients. Most of
+these patients (11 of 16) were patients who had been operated
+for MR. Of the 16 patients, 8 underwent re-repair and 8
+underwent replacement. Two patients from each group required
+reoperation in the following period and these 4 patients
+underwent replacement. In this study, the rate of reoperation was
+higher in patients operated for MS, although not statistically
+signiﬁcant ( 10).
+In our series, 4 (8.5%) patients underwent re-operation, which
+is lower than the re-operation rates in the studies mentioned above.
+The reason for our low reoperation rates may be explained by the
+fact that we operated our patients at the oldest possible age. As
+patients grow older, their valve structures become more favorable
+for repair and a more durable repair may be possible. This may
+be the reason for the high mortality and reoperation rates in the
+series of Mayr et al. In the study of Mayr et al. the median age
+of the patients was 1.2 years and their weight was 8.2 kg ( 10).
+Conclusions
+This study underscores the importance of individualized
+surgical assessment in pediatric patients with MVD, considering
+factors such as age, comorbidities, and surgical risk. Studies in
+the literature show that patients operated at a young age are
+more likely to be reoperated. For this reason, when patients who
+operated on at an older age as much as possible with a
+multidisciplinary follow-up as in our series, the possibility of
+reoperation will decrease.
+There is a need for continued research and assessment of
+surgical outcomes in pediatric populations to further re ﬁne the
+surgical approaches for pediatric valve diseases. By doing so, we
+Tuncer et al. 10.3389/fcvm.2024.1454649
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+can continue to improve the long-term prognosis and quality of life
+of pediatric patients with mitral valve pathologies.
+Data availability statement
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+Ethics statement
+The studies involving humans were approved by Ege University
+Faculty of Medicine Ethics Committee. The studies were conducted
+in accordance with the local legislation and institutional
+requirements. Written informed consent for participation in this
+study was provided by the participants ’legal guardians/next of kin.
+Author contributions
+OT: Data curation, Formal Analysis, Investigation,
+Methodology, Software, Validation, Visualization, Writing –
+original draft, Writing – review & editing, Conceptualization,
+Funding acquisition, Project administration, Resources,
+Supervision. SE: Conceptualization, Data curation, Investigation,
+Writing – review & editing, Formal Analysis, Funding
+acquisition, Methodology, Project administration, Resources,
+Software, Supervision, Validation, Visualization. MA:
+Conceptualization, Data curation, Investigation, Writing – review
+& editing, Writing – original draft. EL: Conceptualization, Data
+curation, Formal Analysis, Funding acquisition, Investigation,
+Methodology, Project administration, Resources, Software,
+Supervision, Validation, Visualization, Writing – review &
+editing. YA: Conceptualization, Data curation, Formal Analysis,
+Funding acquisition, Investigation, Methodology, Project
+administration, Resources, Software, Supervision, Validation,
+Visualization, Writing – original draft, Writing – review & editing.
+Funding
+The author(s) declare that no ﬁnancial support was received for
+the research, authorship, and/or publication of this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+References
+PM?h?rK?i?oirK?f?qK?r?ghK?n?s`sK?`?`sK??M
+Paediatric mitral valve disease — from presentation to management. Eur J Pediatr .
+(2022) 181(1):35 –44. doi: 10.1007/s00431-021-04208-7
+2. Isaacson E, Lucjak C, Johnson WK, Yin Z, Wang T, Rein L, et al. Mitral valve
+surgery in neonates, infants, and children: surgical approach, outcomes, and
+predictors. Semin Thorac Cardiovasc Surg . (2020) 32(3):541 –50. doi: 10.1053/j.
+semtcvs.2020.01.005
+3. Chatterjee S, Bansal N, Ghosh R, Sankhyan LK, Chatterjee S, Pandey S, et al.
+Mitral valve repair in children with rheumatic heart disease. Indian J Thorac
+Cardiovasc Surg . (2021) 37(2):175 –82. doi: 10.1007/s12055-020-00925-0
+4. Cai Y, Jiang N, Chen G, Mi Y, Zhong H, Jia B, et al. Risk factors for mitral valve
+dysfunction, reoperation and death following repair of the primary mitral valve disease
+in children. J Thorac Dis . (2023) 15(8):4154 –71. doi: 10.21037/jtd-23-270
+5. Radermecker MA, Limet R. Carpentier ’s functional classi ﬁcation of mitral valve
+dysfunction. Rev Med Liege . (1995) 50(7):292 –4.
+6. McGurty D, Remenyi B, Cheung M, Engelman D, Zannino D, Milne C, et al.
+Outcomes after rheumatic mitral valve repair in children. Ann Thorac Surg . (2019)
+108(3):792–7. doi: 10.1016/j.athoracsur.2019.03.085
+7. Elmahrouk AF, Mashali MH, Ismail MF, Arafat AA, Alamri RM, Baho HA, et al.
+Mitral valve replacement in infants and younger children. Sci Rep. (2021) 11(1):15239.
+doi: 10.1038/s41598-021-94779-0
+8. Beierlein W, Becker V, Yates R, Tsang V, Elliott M, de Leval M, et al. Long-term
+follow-up after mitral valve replacement in childhood: poor event-free survival in the
+young child. Eur J Cardiothorac Surg. (2007) 31(5):860–5. doi: 10.1016/j.ejcts.2007.02.006
+9. Hetzer RDW. Mitral valve repair in children. In: Hrrjsy CA, editor. Mitral Valve
+Repair. Berlin Heidenberg: Springer (2011). p. 42 –55.
+10. Mayr B, Vitanova K, Burri M, Lang N, Goppel G, Voss B, et al. Mitral valve
+repair in children below age 10 years: trouble or success? Ann Thorac Surg . (2020)
+110(6):2082–7. doi: 10.1016/j.athoracsur.2020.02.057
+11. Lee C, Lee CH, Kwak JG, Park CS, Kim SJ, Song JY, et al. Long-term results after
+mitral valve repair in children. Eur J Cardio-Thorac . (2010) 37(2):267 –72.
+12. Wood AE, Healy DG, Nolke L, Duff D, Oslizlok P, Walsh K. Mitral valve
+reconstruction in a pediatric population: late clinical results and predictors of long-
+term outcome. J Thorac Cardiovasc Surg . (2005) 130(1):66 –73. doi: 10.1016/j.jtcvs.
+2005.03.025
+13. Ando M, Takahashi Y. Durability of mitral valve repair performed before the age
+of 5 years. Circ J . (2016) 80(1):124 –9. doi: 10.1253/circj.CJ-15-0372
+14. Myers PO, Kalangos A. Valve repair using biodegradable ring annuloplasty:
+from bench to long-term clinical results. Heart Lung Vessel . (2013) 5(4):213 –8.
+15. Christenson JT, Kalangos A. Use of a biodegradable annuloplasty ring for mitral
+valve repair in children. Asian Cardiovasc Thorac Ann . (2009) 17(1):11 –
+2. doi: 10.
+1177/0218492309102260
+16. Weicheng Chen ML, Sheng W, Jia B, Huang G. Congenital mitral valve defects
+in pediatric population: a narrative review of surgical repair. Pediatric Medicine. (2023)
+6(6):21–52.
+17. Stellin G, Padalino M, Milanesi O, Vida V, Favaro A, Rubino M, et al. Repair
+of congenital mitral valve dysplasia in infants and children: is it always
+possible? Eur J Cardiothorac Surg . (2000) 18(1):74 –82. doi: 10.1016/S1010-7940(00)
+00457-7
+18. Veerappan M, Cheekoty P, Sazzad F, Ko ﬁdis T. Mitral valve re-repair vs
+replacement following failed initial repair: a systematic review and meta-analysis.
+J Cardiothorac Surg . (2020) 15(1):304. doi: 10.1186/s13019-020-01344-3
+Tuncer et al. 10.3389/fcvm.2024.1454649
+Frontiers in Cardiovascular Medicine 07 frontiersin.org

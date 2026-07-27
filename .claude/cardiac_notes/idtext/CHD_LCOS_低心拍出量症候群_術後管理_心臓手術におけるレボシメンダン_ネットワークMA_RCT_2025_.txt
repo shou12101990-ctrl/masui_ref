@@ -1,0 +1,1546 @@
+
+[[p1]]
+EDITED BY  
+Guo-wei Tu,  
+Fudan University, China
+REVIEWED BY  
+Haipeng Guo,  
+Shandong University, China  
+Jiancheng Han,  
+Capital Medical University, China
+*CORRESPONDENCE  
+Yifei Li  
+liyfwcsh@scu.edu.cn
+RECEIVED 05 August 2025 
+REVISED 07 December 2025 
+ACCEPTED 17 December 2025 
+PUBLISHED 11 February 2026
+CITATION 
+Zhu B, Zhao W and Li Y (2026) Effect of 
+levosimendan treatment in cardiac surgery: a 
+network meta-analysis of randomized 
+controlled trials.  
+Front. Cardiovasc. Med. 12:1673410. 
+doi: 
+10.3389/fcvm.2025.1673410
+COPYRIGHT 
+© 2026 Zhu, Zhao and Li. This is an open- 
+access article distributed under the terms of 
+the 
+Creative Commons Attribution License 
+(CC BY). The use, distribution or reproduction 
+in other forums is permitted, provided the 
+original author(s) and the copyright owner(s) 
+are credited and that the original publication 
+in this journal is cited, in accordance with 
+accepted academic practice. No use, 
+distribution or reproduction is permitted 
+which does not comply with these terms.
+Effect of levosimendan treatment 
+in cardiac surgery: a network 
+meta-analysis of randomized 
+controlled trials
+Binlu Zhu 
+ , Wanling Zhao and Yifei Li*
+Department of Pediatrics, West China Second University Hospital, Sichuan University, Chengdu, 
+Sichuan, China
+Background: The prophylactic administration of levosimendan in patients 
+undergoing cardiac surgery remains clinically contentious, particularly 
+regarding its efﬁcacy and safety in improving key postoperative outcomes, 
+such as cardiac function, renal protection, and mortality in high-risk surgical 
+populations. Existing randomized controlled trials (RCTs) are heterogeneous 
+in sample size, timing, and dosing of levosimendan and comparator inotropes 
+and have yielded neutral or conﬂicting results for these endpoints. Moreover, 
+prior meta-analyses have predominantly used pairwise comparisons and have 
+not systematically compared levosimendan with all major inotropic 
+alternatives (e.g., dobutamine, milrinone, and standard therapy) across 
+multiple clinically relevant outcomes. As a result, the relative beneﬁts and 
+harms of levosimendan vs. other perioperative inotropic strategies in cardiac 
+surgery remain unclear. To evaluate the potential beneﬁts and risks of 
+perioperative levosimendan therapy, we conducted a systematic network 
+meta-analysis of available evidence.
+Methods: A comprehensive literature search was conducted in PubMed, 
+Embase, the Cochrane Library, and other databases for RCTs evaluating 
+perioperative levosimendan vs. placebo or alternative inotropic therapies, 
+published up to 31 December 2024. Primary outcomes included cardiac 
+index, central venous pressure (CVP), mean arterial pressure (MAP), intensive 
+care unit (ICU) length of stay, and creatinine levels. The frequentist surface 
+under the cumulative ranking curve (SUCRA) was calculated for each 
+outcome to rank competing interventions.
+Results: A total of 29 RCTs encompassing 4,509 patients were included. 
+Levosimendan was associated with higher postoperative CI [standardized 
+mean difference (SMD) 1.16, 95% CI 0.04–2.29] compared with placebo and 
+lower postoperative MAP (SMD −0.93, 95% CI −1.62 to −0.23) compared with 
+dobutamine. Milrinone had lower CVP compared with dobutamine (SMD 
+−0.66, 95% CI −1.22 to −0.10) and placebo (SMD −0.46, 95% CI −0.83 to 
+−0.09), and levosimendan (SMD 0.40, 95% CI 0.05–0.75) had higher CVP 
+compared with milrinone. Both levosimendan (SMD −0.68, 95% CI −1.13 to 
+−0.24) and milrinone (SMD −0.71, 95% CI −1.25 to −0.17) signiﬁcantly 
+shortened ICU stays compared with dobutamine. No signiﬁcant differences in 
+creatinine levels were identiﬁed across interventions in the network meta- 
+analysis.
+TYPE Systematic Review 
+PUBLISHED 11 February 2026 
+DOI 10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+Conclusion: Levosimendan improved postoperative hemodynamic parameters, 
+showing a higher cardiac index than placebo and shorter ICU stays than dobutamine, 
+but it did not provide signiﬁcant renal protection as assessed by creatinine levels.
+Systematic Review Registration: https://www.crd.york.ac.uk/PROSPERO/ 
+recorddashboard , identiﬁer CRD42024612151.
+KEYWORDS
+cardiac surgery, heart failure, levosimendan, network meta-analysis, randomized 
+controlled trials
+1 Introduction
+Levosimendan is a calcium sensitizer that enhances the 
+binding of calcium ions to cardiac troponin by interacting with 
+the troponin C subunit on cardiomyocytes, thereby promoting 
+myocardial contractility and improving hemodynamic 
+parameters in patients with heart failure (HF) (
+1). It increases 
+myocyte contractility without increasing oxygen demand while 
+simultaneously improving diastolic function and stimulating 
+sympathetic nervous system activity (
+2). Additionally, it exerts 
+vasodilatory effects and mildly inhibits phosphodiesterase (PDE) 
+through the activation of adenosine triphosphate (ATP)-sensitive 
+potassium channels. Its positive inotropic effect is independent 
+of adrenergic stimulation and can be used in patients 
+undergoing β-blocker therapy (
+3, 4).
+Previous studies have mainly focused on patients with established 
+heart failure or other cardiac conditions, leaving the potential beneﬁts 
+of levosimendan in the setting of cardiac surgery less well-deﬁned. In 
+recent years, levosimendan has been compared with other inotropic 
+agents such as dobutamine, milrinone, noradrenaline, and 
+adrenaline (5–8 ). Milrinone is commonly used to prevent 
+postoperative low cardiac output syndrome (LCOS) and related 
+symptoms, yet its use may be associated with adverse effects 
+including tachycardia, increased myocardial oxygen consumption, 
+and even myocardial necrosis ( 9 ). Several studies have 
+demonstrated that perioperative levosimendan administration may 
+improve postoperative outcomes following cardiac su rgery. 
+Furthermore, compared with placebo (10), dobutamine (11) or 
+milrinone (12), levosimendan has been associated with higher rates 
+of successful weaning from cardiopulmonary bypass, lower 
+incidence of periprocedural myocardial infarction, and reduced 
+lactate levels due to its favorable effects on tissue perfusion.
+Despite these promising ﬁndings, large-scale comparative trials 
+have not consistently conﬁrmed the clinical beneﬁts of levosimendan 
+(13–15). Recently, several large multicenter randomized controlled 
+trials (RCTs) on perioperative levosimendan in cardiac surgery have 
+reported no signiﬁcant improvement in postoperative clinical 
+outcomes (16–18). To date, no systematic review has demonstrated 
+the superiority of any inotropic drug over others in terms of major 
+clinical endpoints. Therefore, we conducted a network meta-analysis 
+to comprehensively evaluate the advantages and disadvantages of 
+levosimendan in the perioperative management of cardiac surgery.
+2 Methods
+2.1 Study protocol
+This systematic review was conducted in accordance with the 
+Preferred Reporting Items for Systematic Reviews and Meta- 
+Analyses (PRISMA) guidelines. The study protocol was prospectively 
+registered with PROSPERO (Registration number: CRD42024612151).
+2.2 Search strategy
+A comprehensive systematic search was performed in 
+PubMed, the Cochrane Library, and Embase databases for 
+studies published prior to 31 December 2024. The search 
+strategy incorporated the keywords “levosimendan” and “cardiac 
+surgery,” as well as relevant Medical Subject Headings (MeSH) 
+terms and associated keywords. The entry terms included 
+“levosimendan” or “simendan” and “cardiac surgery” or 
+“thoracic surgery” or “heart surgery.” All randomized controlled 
+trials evaluating the administration of levosimendan in cardiac 
+surgery patients were considered. There were no restrictions on 
+control drugs or study design in the search terms, and no 
+language restrictions were applied at the search stage. However, 
+during study selection, we restricted inclusion to full-text articles 
+published in English. Similar strategies were applied to other 
+databases. All RCTs evaluating the administration of 
+levosimendan in cardiac surgery patients were considered.
+2.3 Study selection
+Two reviewers (YL and BZ) independently screened the titles 
+and abstracts obtained from the database searches. Potentially 
+eligible studies were then subjected to full-text review by two 
+reviewers (BZ, WZ) for inclusion based on predetermined 
+criteria. Signiﬁcant disagreements were resolved through 
+Abbreviations  
+HF, heart failure; CI, cardiac index; CVP, central venous pressure; MAP, mean 
+arterial pressure; ICU, intensive care unit; AUC, area under the curve; SUCRA, 
+surface under the cumulative ranking curve; LCOS, low cardiac output 
+syndrome; SMD, standardized mean difference; CI, conﬁdence interval; 
+HSROC, hierarchical summary receiver operating characteristic curve; OR, 
+odds ratio; PDE, phosphodiesterase; ATP, adenosine triphosphate; MeSH, 
+Medical Subject Heading; ROS, reactive oxygen species; MAPK, mitogen- 
+activated protein kinase; ERK1/2, extracellular signal-regulated kinase 1/2; 
+JNK, c-Jun N-terminal kinase.
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+discussion. To ensure comprehensive coverage, manual searches 
+of reference lists from included articles and relevant review 
+papers were conducted, and forward citation tracking of 
+included studies was performed using Google Scholar.
+Our study inclusion criteria were as follows according to the 
+PICOS framework: (1) population: cardiac surgery patients, 
+without limitation of age and type of cardiac surgery; (2) 
+intervention: levosimendan; (3) comparison intervention: any 
+control (placebo, standard inotropic therapies, dobutamine, 
+milrinone); (4) outcome: cardiac index, central venous pressure 
+(CVP), mean arterial pressure (MAP), intensive care unit (ICU) 
+stays and creatinine; (5) study design: RCTs. We used the 
+following criteria for study exclusion: (1) review, case report, or 
+abstract; (2) animal or cell studies; (3) studies lacking a relevant 
+outcome; (4) articles not published in English.
+2.4 Data collection and assessment of 
+study quality
+Two independent investigators (BZ, WZ) performed data 
+extraction and quality assessment of eligible studies. Any 
+discrepancies in data interpretation were resolved through 
+consensus discussion, with arbitration by a third reviewer when 
+necessary. The quality of evidence for each outcome was 
+systematically evaluated using the GRADE methodology (
+19, 20).
+The following data were collected from each study: ﬁrst author 
+name, area, publication date, study design, number of patients, 
+comparison intervention, and primary outcome (CI, CVP, MAP, 
+ICU stays, and creatinine). When means and standard deviations 
+were not reported, these values were estimated from medians, 
+interquartile ranges, and sample sizes (21, 22). The baseline 
+???????s?PM
+The risk of bias in the included RCTs was assessed using the 
+original Cochrane risk of bias tool, according to the Cochrane 
+Handbook for Systematic Reviews of Interventions (version 5.1.0) 
+(23). The following domains were evaluated: random sequence 
+generation (selection bias), allocation concealment (selection bias), 
+blinding of participants and personnel (performance bias), blinding 
+of outcome assessment (detection bias), incomplete outcome data 
+(attrition bias), selective reporting (reporting bias), and other bias (24).
+2.5 Statistical analysis
+Meta-analyses were conducted to synthesize the effects of each 
+outcome. Binary outcomes were analyzed using odds ratios (ORs) 
+with 95% conﬁdence intervals (CIs), while continuous outcomes 
+were evaluated through standardized mean differences (SMDs) 
+with corresponding 95% CIs, both derived from random-effects 
+models to account for potential heterogeneity among studies. 
+Publication bias was evaluated through visual inspection of funnel 
+plots and quantiﬁed using Egger’s linear regression test (25). 
+A two-sided P-value < 0.05 was considered statistically signiﬁcant.
+Network meta-analysis was performed using the hierarchical 
+summary receiver operating characteristic (HSROC) model to 
+estimate and compare SROC curves ( 25). Treatment rankings 
+were quantiﬁed through frequentist surface under the 
+cumulative ranking curve (SUCRA) values for each outcome 
+(
+26). These values, ranging from 0% (indicating the lowest- 
+ranked, least effective treatment) to 100% (representing the 
+highest-ranked, most effective treatment), provided a 
+quantitative measure of comparative treatment efﬁcacy.
+All statistical analyses were performed using Stata version 18.0 
+(27), employing frequentist multivariate meta-analysis 
+(commands network meta and mvmeta) for network evaluation, 
+supplemented by publication bias and sensitivity analyses.
+3 Results
+3.1 Included studies
+A total of 462 articles were initially identiﬁed through database 
+searches. After removing 148 duplicates, 314 articles remained. 
+Subsequently, 254 articles were excluded based on eligibility 
+criteria, including irrelevance (n = 66), non-English language 
+(n = 23), review/editorial/survey articles (n = 146), case reports 
+(n = 14), and animal experiments ( n = 5). Following initial 
+screening, 60 potentially relevant articles were assessed in detail. 
+Of these, 31 articles were excluded after full-text review due to 
+incomplete data (n = 15), inappropriate grouping of comparators 
+(n = 2), or inconsistent outcome measures (n = 14). Ultimately, 
+29 studies involving a cumulative cohort of 4,509 participants 
+were incorporated into our analysis (
+Figure 1). No additional 
+studies were identiﬁed through reference tracking. The baseline 
+characteristics of included studies are presented in 
+s?PM?
+Among these, ﬁve were multicenter trials, and twenty-four were 
+single-center trials. In terms of control agents, ﬁfteen studies 
+used a placebo (
+10, 16, 28–33), eight used milrinone (8 , 12, 
+34–39 ), four used dobutamine ( 6, 7, 40, 41), and two used 
+standard therapy (5, 42). Sixteen trials reported postoperative 
+CI, thirteen reported CVP, seventeen reported MAP, twenty-one 
+reported ICU stays, and eight reported creatinine.
+3.2 Study quality and publication bias
+The Cochrane risk of bias tool was employed to evaluate the 
+quality of the included studies. Most of the studies demonstrated 
+moderate to high quality, with eight studies (27.6%) rated as low 
+risk of bias and the remaining studies (72.4%) classiﬁed as 
+moderate risk of bias. The most common bias was detection bias. 
+Detailed results of the risk of bias are presented in Figure 2.
+3.3 Network meta-analysis
+3.3.1 Cardiac index
+Sixteen RCTs systematically compared the effects of 
+levosimendan vs. alternative therapies on CI (5–8 , 10, 16, 28–33, 
+35, 36, 40, 41) (Supplementary Figure S1A). The network meta- 
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+TABLE 1 Basic characteristics of included studies.
+Author Area Year Study design Study population LEVO Control Continuous 
+infusion dose
+Control Continuous 
+infusion dose
+Assessment
+n male age n male age
+Wang, A. China 2019 A single-center, double- 
+blind, randomized, 
+placebo-controlled trial
+≤48 months old and 
+undergo cardiac surgery
+94 55 5 (2, 11) 
+months
+93 52 7 (2,16) 
+months
+0.05 μg/kg/min for 
+48 h
+Placebo – CI, Cr, ICU stay
+Landoni, G. Italy, Russia, 
+Brazil, 
+Australia
+2017 A multicenter, 
+randomized, double- 
+blind, placebo- 
+controlled trial
+Perioperative hemodynamic 
+support was indicated after 
+cardiac surgery
+248 159 66 (58, 74) 
+years
+258 168 66 (58,72) 
+years
+0.05 μg/kg/min (0.025– 
+0.2 μg/kg/min) up to 
+48 h
+Placebo – CI, Cr, CVP, ICU 
+stay, MAP
+Baysal, A. Turkey 2014 A prospective, double- 
+blinded, randomized 
+clinical trial
+low ejection fraction 
+undergoing mitral valve 
+surgery
+64 22 56.7 ± 11.7 
+years
+64 39 58.4 ± 9.8 
+years
+0.1 μg/kg/min for 24 h Standard 
+inotropic 
+therapies
+– CI, Cr, CVP, 
+MAP, ICU stay
+van Diepen, S. Canada 2020 A double-blind, 
+multicenter, 
+randomized controlled 
+trial
+CABG 283 243 65 (59, 72) 
+years
+280 227 64 (58, 71) 
+years
+for 24 h Placebo – CI, ICU stay
+Isolated valve surgery 49 24 65 (58, 73) 
+years
+SW?QT?VP?GUSK?VUH?
+years
+Combined CABG and valve 96 80 67 (60, 75) 
+years
+92 78 65 (56, 73) 
+years
+Bragadottir, 
+G.
+Sweden 2013 A prospective, placebo- 
+controlled, and 
+randomized trial
+mechanically ventilated 
+postcardiac surgery
+15 14 65.5 ± 3.3 
+years
+15 14 69.3 ± 2.7 
+years
+0.1 µg/kg/min for 
+30 min urine collection 
+periods
+Placebo – CI, CVP, MAP
+Anastasiadis, 
+K.
+Greece 2016 A prospective, double- 
+blind, randomized study
+CABG with reduced LVEF 
+(≤40%)
+16 14 61.1 ± 9.4 
+years
+16 16 62.2 ± 11 
+years
+0.1 μg/kg/min for 24 h Placebo – CI
+Shah, B. India 2014 A prospective, double- 
+blind, randomized study
+OPCAB with low LVEF 
+(<30%)
+QT?PT?TXMX?±?WMW?
+years
+QT?PU?UPMR?±?VMU?
+years
+200 μg/kg for 24 h Placebo – CI, CVP, MAP
+Erb, J. Germany 2014 A double-blind, single- 
+center, prospective, 
+randomized, placebo- 
+controlled trial
+>18 years with CABG 
+surgery with LVEF ≤ 30%
+17 13 69.5 ± 11.5 
+years
+16 15 63.4 ± 7.8 
+years
+0.1 µg/kg/min Placebo – CI, CVP, ICU 
+stay, MAP
+Zangrillo, A. Italy 2020 A multicenter, 
+randomized, double- 
+blind, placebo- 
+controlled trial
+Cardiac surgery 248 66 (58, 74) 
+years
+258 66 (58,72) 
+years
+0.05 μg/kg/min for up 
+to 48 h or until ICU 
+discharge
+Placebo – CI, CVP, MAP
+Alvarez, J. Spain 2013 A sub-study of a 
+randomized controlled 
+study
+Low cardiac output state 
+after cardiac surgery
+12 5 71.5 ± 5.2 
+years
+13 6 72.7 ± 5.0 
+years
+0.2 μg/kg/min for 24 h Dobutamine 7.5 μg/kg/min for 
+24 h
+CI, CVP, MAP
+Kandasamy, 
+A.
+India 2017 A prospective, 
+randomized, double- 
+blind study
+OPCAB 40 31 55.2 ± 3.2 
+years
+40 33 54.8 ± 3.7 
+years
+0.1 μg/kg/min for 2 h Dobutamine 5 μg/kg/min for 
+24 h
+CI, ICU stay, 
+MAP
+Ebade, A. A. Kingdom of 
+Saudi Arabia
+2013 A prospective 
+randomized study
+PAP for children undergoing 
+cardiac surgery repair of 
+cardiac septal defects
+QT?PU?PXMW?±?XMX?
+months
+QT?PR?PVMT?±?VMW?
+months
+0.1–0.2 μg/kg/min Dobutamine 4–10 μg/kg/min CI, ICU stay
+Guerrero 
+Orriach, J. L.
+Spain 2020 A double-blind clinical 
+trial
+LCOS after cardiac surgery 50 29 50 38 0.1 μg/kg/min Dobutamine 5 μg/kg/min CI, Cr, CVP, ICU 
+stay, MAP
+(Continued) 
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine04 frontiersin.org
+[[p5]]
+TABLE 1 Continued
+Author Area Year Study design Study population LEVO Control Continuous 
+infusion dose
+Control Continuous 
+infusion dose
+Assessment
+n male age n male age
+Jothinath, K. India 2021 A single-center, 
+randomized study
+Infants undergoing 
+corrective surgery for 
+congenital heart disease
+20 6.85 ± 3.58 
+months
+20 6.85 ± 3.57 
+months
+0.1 μg/kg/min Milrinone 0.5 μg/kg/min CI, ICU stay
+Thorlacius, 
+E. M.
+Swedish 2021 A post hoc, no 
+prespeciﬁed exploratory 
+secondary analysis from 
+a randomized, 
+prospective, double- 
+blinded clinical trial
+Infants 1–12 months old, 
+diagnosed with VSD, 
+complete atrioventricular 
+septal defect, or tetralogy of 
+Fallot undergoing corrective 
+surgery
+32 16 5.9 ± 2.9 
+months
+38 18 5.6 ± 2.7 
+months
+– Milrinone – CI, CVP, MAP, 
+ICU stay,
+Fredholm, M. Sweden 2018 A prospective, 
+randomized, blinded, 
+double-armed study
+Patients after aortic valve 
+replacement for aortic 
+stenosis
+15 9 70 ± 9.3 
+years
+16 11 71 ± 8.2 
+years
+0.1–0.2 μg/kg/min Milrinone 0.4–0.8 μg/kg/min CI, CVP, MAP
+Abril-Molina, 
+A.
+Spain 2021 A randomized, placebo- 
+controlled, double- 
+blinded study
+Patients were aged between 
+28 days and 13 years, and 
+were scheduled
+15 9 0.6 (0.5, 4) 
+years
+15 10 0.9 (0.6,8) 
+years
+0.2 µg/kg/min Placebo – Cr, CVP, ICU 
+stay, MAP
+Zangrillo, A. Italy 2018 A post hoc analysis of a 
+multicenter, 
+randomized, double- 
+blind, placebo- 
+controlled trial
+Patients undergoing mitral 
+valve surgery
+46 20 68 (60, 76) 
+years
+44 20 68 (63,78) 
+years
+starting dose of 
+0.05 μg/kg/min, 0.025– 
+0.2 μg/kg/min for up 
+to 48h
+Placebo – Cr
+De Hert, S. G. Belgium 2007 A single-center, 
+randomized study
+Patients with a preoperative 
+ejection fraction 30% 
+scheduled for elective 
+cardiac surgery
+15 5 67 ± 11 
+years
+15 5 69 ± 10 
+years
+0.1 µg/kg/min Milrinone 0.5 μg/kg/min Cr, CVP, ICU 
+stay, MAP
+Momeni, M. Belgium 2011 A prospective, 
+randomized, double- 
+blind clinical study
+Patients between 0 and 5 
+years old requiring inotropic 
+support for corrective 
+congenital heart surgery
+18 109 (8, 953) 
+days
+18 145 (7,977) 
+days
+0.05 μg/kg/min Milrinone 0.4 μg/kg/min Cr, ICU stay, 
+MAP
+Tholén, M. Sweden 2021 A prospective, placebo- 
+controlled, and 
+randomized trial
+Postcardiac surgery patients16 10 70 (52, 82) 13 12 65 (37,78) 0.1 µg/kg/min Placebo – CVP, MAP
+Lechner, E. Austria 2012 A prospective, single- 
+center, double-blind, 
+randomized pilot study
+Infants undergoing 
+corrective open-heart 
+surgery
+20 11 78.4 ± 80.5 
+days
+20 11 63.9 ± 81.3 
+days
+0.1 µg/kg/min Milrinone 0.5 μg/kg/min ICU stay
+Ricci, Z. Italy 2012 A prospective 
+randomized open-label 
+study
+Neonates undergoing 
+RACHS 3 and 4
+32 20 18.7 ± 14 
+days
+31 17 15.5 ± 9.2 
+days
+0.1 µg/kg/min for 72 hStandard 
+inotropic 
+therapies
+– ICU stay, MAP
+Mehta, R. H. United 
+States, 
+Canada, 
+Austria, 
+Germany
+2017 A multicenter, 
+randomized, placebo- 
+controlled, phase 3 trial
+patients with a left 
+ventricular ejection fraction 
+of 35% or less who were 
+undergoing cardiac surgery
+428 347 65 (59, 73) 
+years
+421 332 65 (58,72) 
+years
+0.2 µg/kg/min for 1 h, 
+followed by 0.1 µg/kg/ 
+min for 23 h
+Placebo – ICU stay
+Leppikangas, 
+H.
+Finland 2011 A prospective 
+randomized study
+LVEF <50% or LV 
+hypertrophy
+12 10 76 ± 10 
+years
+12 8 75 ± 8 years 0.2 µg/kg/min for 24 hPlacebo – ICU stay
+(Continued) 
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine05 frontiersin.org
+[[p6]]
+analysis demonstrated that levosimendan signiﬁcantly improved 
+Cl compared with placebo (SMD 1.16, 95% CI 0.04–2.29), but 
+no statistically signiﬁcant differences were observed between 
+levosimendan and milrinone, dobutamine, or standard therapy 
+(
+Figure 3A). Notably, in the SUCRA statistical analysis, 
+milrinone was ranked as the most effective intervention for 
+improving CI (SUCRA 84.3%), with levosimendan (78.6%), 
+dobutamine (35.0%), placebo (33.1%), and standard therapy 
+(19.1%) following in descending order (
+Table 2). Funnel plot 
+asymmetry indicated the possible presence of publication bias in 
+the analyzed studies (
+Supplementary Figure S2A).
+3.3.2 Central venous pressure
+Thirteen trials evaluated the effects of different inotropic 
+agents on CVP ( 5, 6, 16, 29, 31, 32, 34, 37, 43–46) 
+(Supplementary Figure S1B). Network meta-analysis revealed 
+that milrinone signiﬁcantly reduced CVP compared with 
+placebo (SMD −0.46, 95% CI −0.83 to −0.09) and further 
+decreased CVP compared with dobutamine (SMD −0.66, 95% 
+CI −1.22 to −0.10). In contrast, levosimendan was associated 
+with a marked increase in CVP compared with milrinone (SMD 
+0.40, 95% CI 0.05–0.75) (
+Figure 3B).
+SUCRA analysis demonstrated a distinct hierarchy of efﬁcacy 
+for CVP reduction: dobutamine (SUCRA 89.0%) had the highest 
+probability of superior efﬁcacy, followed by placebo (70.4%), 
+levosimendan (47.5%), standard therapy (39.9%), and milrinone 
+(3.2%) (
+Table 2 ). Although SUCRA suggested a potential 
+advantage for dobutamine, the network meta-analysis found no 
+statistically signiﬁcant differences among levosimendan, placebo, 
+and standard therapy ( p > 0.05). Funnel plot symmetry and 
+Egger’s regression test (p < 0.05) conﬁrmed minimal publication 
+bias (
+Supplementary Figure S2B).
+3.3.3 Mean systemic artery pressure (MAP)
+Seventeen RCTs were included to evaluate the hemodynamic 
+effects of levosimendan vs. other agents on MAP (5, 6, 29, 31, 32, 
+34, 36–38 , 40, 42–46) (Supplementary Figure S1C). The network 
+meta-analysis indicated that both levosimendan (SMD −0.93, 95% 
+CI −1.63 to −0.22) and standard therapy (SMD −1.11, 95% CI 
+−2.18 to −0.05) signiﬁcantly reduced MAP compared with 
+dobutamine (Figure 3C). No statistically signiﬁcant differences 
+were observed between levosimendan and other inotropic agents. 
+SUCRA analysis ranked dobutamine highest for MAP 
+preservation (96.4%), followed by placebo (61.4%), milrinone 
+(45.0%), levosimendan (27.5%), and standard therapy (19.4%) 
+(
+Table 2). Funnel plots showed mild asymmetry, as corroborated 
+by Egger’s regression test (Supplementary Figure S2C).
+3.3.4 ICU stays
+Twenty-one trials were systematically evaluated to assess the 
+effects of levosimendan and other agents on ICU stays in 
+cardiac surgery (
+TK?VK?W?K?POK?PQK?PU–PWK?QWK?RQK?RSK?RTK?RV–SQK?STK?
+47, 48 ) ( Supplementary Figure S1D). Network meta-analysis 
+revealed that milrinone signiﬁcantly reduced ICU stays 
+compared with dobutamine (SMD −0.71, 95% CI −1.25 to 
+−0.17) and levosimendan similarly shortened ICU stays 
+TABLE 1 Continued
+Author Area Year Study design Study population LEVO Control Continuous 
+infusion dose
+Control Continuous 
+infusion dose
+Assessment
+n male age n male age
+Cholley, B. France 2017 A randomized, double- 
+blind, placebo- 
+controlled trial
+Patients with a LVEF ≤ 40% 
+and scheduled for isolated or 
+combined CABG
+167 139 69 ± 10 
+years
+168 143 67 ± 10 
+years
+0.1 µg/kg/min for 24 hPlacebo – ICU stay
+Tritapepe, L. Italy 2009 A double-blind, single- 
+center, prospective, 
+randomized, placebo- 
+controlled trial
+Age ≥18 years and an 
+intention to perform ﬁrst- 
+time multivessel CABG
+52 43 64 (54, 86) 
+years
+50 39 66.5 (54,87) 
+years
+0.1 µg/kg/min for 24 hPlacebo – ICU stay
+Nag, P. India 2023 A prospective, 
+randomized, controlled 
+trial
+Children between 1 month 
+and 12 years presenting with 
+VSD and PAH
+UU?QT?QTMQ?±?RSMU?
+years
+66 27 26.7 ± 34.5 
+years
+0.1–0.15 µg/kg/min for 
+48 h
+Milrinone 0.5–1 μg/kg/min ICU stay, MAP
+Mishra, A. India 2016 A prospective, 
+randomized study
+Patients with valvular heart 
+disease and PAH 
+undergoing valve surgery
+20 37.3 ± 11.6 
+years
+20 43.7 ± 13.1 
+years
+0.1 µg/kg/min for 24 hMilrinone 0.5 μg/kg/min ICU stay
+LEVO, levosimendan; CI, cardiac index; CVP, central venous pressure; MAP, mean systemic artery pressure; ICU, intensive care unit; CABG, coronary artery bypass grafting; LVEF, left ventricular ejection fraction; OPCAB, off-pump coronary artery bypass grafting; 
+PAP, pulmonary artery pressure; LCOS, low cardiac output syndrome; VSD, ventricular septal defects; PAH, pulmonary artery hypertension; RACHS, risk-adjusted classiﬁcation for congenital heart surgery.
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+compared with dobutamine (SMD −0.68, 95% CI −1.13 to −0.24). 
+In contrast, dobutamine was associated with prolonged ICU stays 
+compared with placebo (SMD 0.58, 95% CI 0.09–1.07) 
+(
+Figure 3D ). SUCRA analysis demonstrated the following 
+hierarchy for ICU stays optimization: dobutamine (97.5%), 
+standard therapy (60.2%), placebo (47.4%), levosimendan 
+(22.9%), and milrinone (22.0%) (
+Table 2). Funnel plot symmetry 
+(Supplementary Figure S2D ) and Egger’s regression test 
+conﬁrmed minimal publication bias.
+3.3.5 Creatinine
+Eight studies assessed the effects of levosimendan on creatinine 
+levels compared with alternative therapies (5, 7, 16, 28, 34, 37, 
+45, 49 ) (Supplementary Figure S1E). The network meta-analysis 
+revealed no statistically signiﬁcant differences in creatinine changes 
+between levosimendan and other inotropic agents (Figure 3E). 
+Funnel plot mild asymmetry indicates potential publication bias, 
+suggesting possible underrepresentation of small-scale studies with 
+neutral or negative ﬁndings (Supplementary Figure S2E).
+3.3.6 Adverse events and long-term outcomes
+Several included trials reported safety outcomes such as 
+hypotension, arrhythmias, and low cardiac output syndrome, as 
+well as short-term mortality (e.g., in-hospital, 30-day, or 90-day 
+death) and rehospitalization. However, the deﬁnitions and 
+reporting of adverse events were heterogeneous across studies, 
+and the number of events was relatively low. Overall, 
+levosimendan was not associated with a higher incidence of 
+ventricular or supraventricular arrhythmias compared with 
+dobutamine or milrinone, and episodes of clinically signiﬁcant 
+hypotension were comparable between groups in most trials 
+(
+16–18, 34, 39 , 41).
+With regard to hard clinical endpoints, large multicenter 
+RCTs in high-risk cardiac surgery patients have shown no 
+signiﬁcant reduction in 30-day or 90-day mortality with 
+perioperative levosimendan compared with placebo (
+16–18). In 
+our network meta-analysis, the available data on mortality and 
+other long-term outcomes were too sparse and inconsistent to 
+allow a robust quantitative synthesis. Therefore, these endpoints 
+were summarized qualitatively.
+4 Discussion
+Levosimendan was ﬁrst approved for clinical use in Sweden in 
+2000 for the hemodynamic stabilization of patients with acutely 
+FIGURE 1 
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) ﬂow diagram of randomized controlled trials included and excluded.
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 07 frontiersin.org
+[[p8]]
+decompensated chronic congestive heart failure ( 1). This 
+innovative therapy has received approval in more than 60 
+countries and is currently undergoing Phase III clinical trials in 
+the United States. Over the past two decades, its clinical 
+applications have expanded substantially, now encompassing a 
+broad range of indications including cardiogenic shock, 
+advanced HF, right ventricular failure, pulmonary hypertension, 
+cardiac surgery, and even non-cardiac conditions such as 
+amyotrophic lateral sclerosis (
+50).
+Levosimendan has generally been well tolerated, with a safety 
+proﬁle that compares favorably to other inotropes, particularly 
+regarding arrhythmia risk and myocardial oxygen demand. 
+Currently, levosimendan is mainly used in the clinical 
+management of acute decompensated heart failure, especially for 
+patients who are unresponsive to conventional inotropes or have 
+renal impairment (
+15). It is also increasingly applied as 
+perioperative support in high-risk cardiac surgery, where 
+evidence suggests beneﬁts in reducing postoperative 
+complications such as renal injury and shortening mechanical 
+ventilation duration, although its effect on long-term mortality 
+remains uncertain. Recent meta-analyses indicate that 
+intermittent administration of levosimendan may improve 
+cardiac function and symptoms in patients with advanced or 
+chronic heart failure, but its routine use outside selected patient 
+populations is not widely recommended in current guidelines 
+(
+51). Overall, levosimendan is reserved for speciﬁc clinical 
+scenarios, and further large-scale studies are needed to clarify its 
+broader role in heart failure management. Ongoing clinical trials 
+FIGURE 2 
+Cochrane Collaboration’s risk-of-bias tool assessment of the quality of a randomized controlled trial (RCT). Risk of bias summary: The judgements 
+about each risk of bias item for each included study (A). Risk of bias graph: The judgements about each risk of bias item reﬂected s percentages 
+across all included studies (B).
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 08 frontiersin.org
+[[p9]]
+are evaluating the utility of levosimendan across a range of cardiac 
+and non-cardiac conditions, including neurodegenerative diseases 
+such as amyotrophic lateral sclerosis. Its unique capacity to 
+sensitize skeletal muscle ﬁbers to calcium enables the 
+enhancement of submaximal force generation without increasing 
+energy consumption (
+13, 52).
+While early single-center and small-scale studies suggested 
+potential perioperative beneﬁts of levosimendan, recent large 
+multicenter RCTs and meta-analyses have failed to consistently 
+demonstrate its superiority over other inotropic agents. The 
+heterogeneity in study designs and patient populations has 
+contributed to these inconsistent ﬁndings, resulting in a lack of 
+unanimous clinical recommendations (
+13, 15, 53). The optimal 
+timing for levosimendan administration, patient subgroups (e.g., 
+varying HF risk), and dosing regimens remain unclear. 
+Furthermore, there are limited large head-to-head trials directly 
+comparing levosimendan with other inotropic agents. Evidence 
+is also insufﬁcient regarding its use in special populations, such 
+as pediatric or elderly patients and those with multi-organ 
+dysfunction. In addition, further research is needed to clarify 
+the roles of its active metabolites and its interactions with 
+immunological and in/f_lammatory pathways.
+In this study, we employed a network meta-analysis to 
+systematically compare the efﬁcacy and safety of levosimendan 
+with other inotropic agents in patients undergoing cardiac 
+surgery, including milrinone, dobutamine, and placebo. By 
+integrating data from 29 randomized controlled trials, we 
+constructed a comprehensive evidence network that allowed for 
+both direct and indirect comparisons across multiple 
+interventions. Unlike traditional pairwise meta-analyses, network 
+meta-analysis enables the simultaneous evaluation of multiple 
+treatments, thereby maximizing the use of available evidence. 
+This approach enhances the precision of effect estimates and 
+provides a more complete picture of the relative beneﬁts and 
+risks of each intervention. To our knowledge, this network 
+meta-analysis provides updated and comprehensive evidence 
+regarding the efﬁcacy of levosimendan compared with other 
+inotropic therapies in cardiac surgery patients. The ﬁndings 
+reveal differentiated hemodynamic efﬁcacy and clinical 
+outcomes among these agents, providing critical evidence for 
+personalized therapeutic decision-making. Our network meta- 
+analysis showed that levosimendan increased postoperative 
+cardiac index compared with placebo (SMD 1.16, 95% CI 0.04– 
+2.29) and reduced mean arterial pressure compared with 
+dobutamine (SMD −0.93, 95% CI −1.62 to −0.23). Both 
+levosimendan and milrinone shortened ICU length of stay 
+compared with dobutamine (SMD −0.68, 95% CI −1.13 to 
+−0.24 and SMD −0.71, 95% CI −1.25 to −0.17, respectively). In 
+FIGURE 3 
+Forest plot of network meta-analysis for CI (A), CVP (B), MAP (C), ICU stays (D), and creatinine (E).
+TABLE 2 Comparison of SUCRA scores for hemodynamic parameters and ICU stay across different treatments.
+Control/SUCRA (%) Dobutamine LEVO Milrinone Placebo Standard therapies
+CI 35 78.6 84.3 33.1 19.1
+MAP 89 47.5 3.2 70.4 39.9
+CVP 96.7 27.5 45 61.4 19.4
+ICU stays 97.5 22.9 22 47.4 60.2
+LEVO, levosimendan; CI, cardiac index; MAP, mean systemic artery pressure; CVP, central venous pressure; ICU, intensive care unit.
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 09 frontiersin.org
+[[p10]]
+contrast, no signiﬁcant differences in creatinine levels were 
+observed among the inotropic regimens. These results indicate 
+that levosimendan has favorable effects on perioperative 
+hemodynamics and ICU stay but a neutral effect on renal 
+function in the available trials.
+4.1 Hemodynamic results
+Previous meta-analyses have found that levosimendan exhibits 
+signiﬁcant hemodynamic advantages in heart failure patients 
+compared with conventional therapies. Speciﬁcally, it reduces 
+pulmonary capillary wedge pressure and systemic venous 
+congestion while markedly increasing CI, re/f_lecting improved 
+ventricular–vascular coupling efﬁciency and myocardial 
+performance (
+54–56). The current systematic review identiﬁed 
+signiﬁcant hemodynamic improvements associated with 
+levosimendan therapy, including reduced CVP, increased systolic 
+blood pressure, and urine output (
+57). However, when 
+compared speciﬁcally with milrinone, the analysis revealed no 
+signiﬁcant cardioprotective advantage for levosimendan (
+34). 
+Our network meta-analysis extends these ﬁndings by showing 
+that levosimendan signiﬁcantly improved CI compared with 
+placebo (SMD = 1.30), although its efﬁcacy remained secondary 
+to milrinone (SUCRA 84.3% vs. 78.6%). Notably, levosimendan 
+increased CVP compared with milrinone (SMD = 0.40). This 
+suggests that milrinone through a direct inhibition of PDE-3 
+reduces venous capacitance resistance, optimizing right 
+ventricular preload, whereas levosimendan enhances cardiac 
+function by promoting effective calcium ion binding to troponin 
+C, enhancing contractility while preserving hemodynamic 
+stability.
+Levosimendan signiﬁcantly reduced MAP compared with 
+dobutamine (SMD = −0.93), and dobutamine ranked highest in 
+SUCRA (96.4%). However, dobutamine may induce irreversible 
+myocardial cellular injury through β-adrenergic receptor- 
+mediated oxidative stress and pathological calcium overload, 
+whereas levosimendan opens mitochondrial ATP-sensitive 
+potassium channels in cardiovascular tissues and exerts 
+peripheral vasodilatory and anti-ischemic effects (
+58 , 59 ). 
+Levosimendan is a novel calcium-sensitizing inotropic agent that 
+augments myocardial contractility by enhancing the 
+myoﬁlament sensitivity to calcium via binding to cardiac 
+troponin C in a calcium-dependent manner without increasing 
+intracellular calcium or levels augmenting myocardial oxygen 
+demand. These pharmacological properties collectively reduce 
+the risks of arrhythmogenesis and ischemia that are typically 
+associated with conventional positive inotropic agents (
+60). 
+Additionally, levosimendan improves ventricular diastolic 
+function and reduces cardiac stress by its vasodilatory effects. 
+These combined hemodynamic effects synergistically improve 
+cardiac performance, rendering it particularly efﬁcacious in the 
+management of acute decompensated heart failure and 
+hemodynamically unstable states characterized by hypotension 
+(
+61). Moreover, levosimendan has anti-in/f_lammatory and anti- 
+apoptotic properties, which may contribute to myocardial 
+protection in various clinical settings. Studies have shown that 
+levosimendan and its metabolites decrease circulatory pro- 
+in/f_lammatory cytokines and exhibit anti-apoptotic effects (
+62). 
+Following administration, only a small fraction of levosimendan 
+is converted into its active metabolite OR-1896 through the 
+intermediate OR-1855. These metabolites, characterized by their 
+extended half-life of approximately 70–80 h, are considered key 
+contributors to the prolonged clinical effects of levosimendan. 
+Importantly, while levosimendan itself can suppress the 
+cytokine-induced upregulation of adhesion molecules and 
+in/f_lammatory mediators in endothelial cells, OR-1855 and OR- 
+1896 mainly demonstrate anti-in/f_lammatory actions by reducing 
+IL-1β-triggered reactive oxygen species (ROS) generation via 
+inhibition of mitogen-activated protein kinase (MAPK) p38, 
+extracellular signal-regulated kinase 1/2 (ERK1/2), and c-Jun 
+N-terminal kinase (JNK) signaling pathways, rather than directly 
+affecting adhesion molecule expression (
+63).
+4.2 Safety and tolerability
+Across the included RCTs, levosimendan was generally well 
+tolerated in the perioperative setting and showed a safety proﬁle 
+comparable to, and in some respects more favorable than, 
+traditional catecholaminergic inotropes (
+16–18, 34, 39 , 41). 
+Mechanistically, these safety observations are compatible with 
+the pharmacological proﬁle of levosimendan. Postoperative 
+LCOS is typically driven by myocardial stunning, pre-existing 
+ventricular dysfunction, ischemia–reperfusion injury, and 
+systemic in/f_lammation, whereas catecholamine and 
+phosphodiesterase-III inotropes counteract this state at the cost 
+of increased intracellular calcium, myocardial oxygen 
+consumption, and arrhythmogenicity (
+9 , 54, 58 , 59 ). 
+Levosimendan, in contrast, enhances contractility mainly 
+through calcium sensitization of troponin C and activation of 
+mitochondrial and vascular ATP-sensitive potassium channels, 
+thereby supporting ventricular–arterial coupling and organ 
+perfusion with less calcium loading (
+1, 3, 14, 58 –60, 64). In line 
+with this, randomized trials and meta-analyses have not 
+demonstrated a clear or consistent excess of LCOS, clinically 
+signiﬁcant arrhythmias, or ischemic events in levosimendan- 
+treated patients compared with dobutamine or milrinone, 
+although individual study ﬁndings are heterogeneous (
+14, 15, 24, 
+34, 39 ). From a pharmacological perspective, levosimendan is 
+less likely than catecholamine or phosphodiesterase-III inotropes 
+to promote calcium overload-mediated arrhythmias or 
+additional myocardial ischemia, but its vasodilatory properties 
+make hypotension and re/f_lex tachycardia more frequent and 
+clinically relevant adverse effects, particularly in 
+hemodynamically unstable or vasoplegic patients (
+16–18, 24).
+In perioperative RCTs, several studies reported similar or 
+lower rates of ventricular and supraventricular arrhythmias with 
+levosimendan compared with dobutamine or milrinone, despite 
+its potent inotropic effects (
+16–18, 34, 39 ). Furthermore, 
+although levosimendan exerted vasodilatory actions and reduced 
+MAP relative to dobutamine, clinically signiﬁcant hypotension 
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 10 frontiersin.org
+[[p11]]
+requiring treatment escalation was not consistently increased in 
+the levosimendan arms (
+16–18, 34, 41). These observations are 
+broadly in keeping with previous meta-analyses in acute and 
+advanced heart failure, which suggest that levosimendan may be 
+associated with a lower risk of arrhythmias and myocardial 
+ischemia than catecholamine-based inotropes, consistent with its 
+calcium-sensitizing rather than calcium-loading mechanism of 
+action (
+1, 50, 51, 54).
+These observations are consistent with previous meta-analyses 
+in acute and advanced heart failure, which have suggested that 
+levosimendan may be associated with a lower risk of 
+arrhythmias and myocardial ischemia than catecholamine-based 
+inotropes, owing to its calcium-sensitizing rather than calcium- 
+loading mechanism of action (
+1, 50, 51, 54).
+4.3 Clinical outcomes
+Current treatment strategies for acute heart failure 
+predominantly depend on β-adrenergic agonists (dopamine, 
+dobutamine) and catecholamines (epinephrine), which 
+signiﬁcantly increase myocardial oxygen consumption and are 
+associated with prolonged ICU stays (
+57). Previous study 
+suggested that combining dobutamine with levosimendan, 
+compared with dobutamine with milrinone, was associated with 
+reduced postoperative complication rates and consequently 
+shorter ICU stays in cardiac surgery patients with a low 
+preoperative ejection fraction (
+34). Our ﬁndings corroborate 
+previous studies demonstrating that levosimendan reduces ICU 
+length of stay in cardiac surgery patients (
+41, 65). Compared 
+with the calcium sensitizer levosimendan and PDE inhibitor 
+milrinone, dobutamine may signiﬁcantly prolong ICU stay 
+through multiple mechanisms: (1) its combined positive 
+inotropic and chronotropic effects exacerbate myocardial oxygen 
+consumption, further aggravating ischemia; (2) potent β- 
+adrenergic stimulation increases arrhythmogenic risk; and (3) 
+patients requiring postoperative dobutamine infusion likely 
+represent a cohort with greater baseline critical illness severity.
+The renal protective effects of levosimendan warrant 
+particular attention. Given that acute kidney injury constitutes a 
+major driver of morbidity and mortality postcardiac surgery, 
+strategies to preserve renal function are critical (
+66, 67). Recent 
+studies investigated the effect of dobutamine and levosimendan 
+on glomerular ﬁltration rate and reported that levosimendan 
+signiﬁcantly improved renal ﬁltration rate (
+5, 68, 69). Potential 
+underlying mechanisms include systemic hemodynamic 
+optimization through enhanced cardiac output and reduced 
+central venous pressure, improved renal hemodynamics, and 
+direct cellular effects including anti-in/f_lammatory and anti- 
+apoptotic activities (
+64, 70). Our study found no signiﬁcant 
+difference in postoperative serum creatinine levels between 
+levosimendan and other control treatments, indicating that 
+levosimendan and the other inotropic agents are equally safe for 
+renal function in patients undergoing cardiac surgery.
+Despite these hemodynamic and ICU-related beneﬁts, the 
+included trials did not demonstrate a consistent reduction in in- 
+hospital, 30-day, or 90-day mortality with levosimendan 
+compared with placebo, dobutamine, or milrinone. The 
+decreases in ICU stay were moderate in magnitude and were 
+mainly observed in comparison with dobutamine, whereas 
+overall hospital length of stay and longer-term outcomes were 
+either rarely reported or showed no clear advantage. Thus, the 
+available evidence suggests that levosimendan improves short- 
+term hemodynamic proﬁles, but its impact on major clinical 
+endpoints, particularly mortality, remains uncertain.
+While levosimendan demonstrated signiﬁcant improvements 
+in hemodynamic parameters compared with placebo, our 
+analysis did not reveal clear superiority over other inotropic 
+agents such as milrinone or dobutamine. These ﬁndings indicate 
+that levosimendan may serve as a viable alternative or adjunct to 
+conventional inotropes, particularly in perioperative cardiac 
+surgery patients with compromised renal function or those who 
+may not tolerate adrenergic stimulation. Given these nuanced 
+ﬁndings, clinical exploration of prophylactic use, early 
+administration, and combination therapy with other inotropic 
+agents may be considered in selected high-risk perioperative 
+patients, although current evidence remains insufﬁcient to 
+recommend routine use over established agents.
+To further clarify the role of levosimendan in this context, 
+large-scale, prospective, randomized controlled trials are 
+urgently needed. These studies should focus not only on 
+comparative efﬁcacy and safety but also on optimal dosing 
+strategies and timing of administration, including the potential 
+beneﬁts of prophylactic use in selected high-risk populations. 
+Additionally, future research should incorporate long-term 
+clinical outcomes and patient-centered endpoints to better 
+inform clinical decision-making.
+5 Limitations
+This study had some limitations that should be addressed. 
+Firstly, the network meta-analysis incorporated clinically 
+heterogeneous populations encompassing various cardiac 
+surgery types (including coronary artery bypass grafting, valve 
+procedures, congenital heart disease, and combined surgeries) 
+with broad age distributions (neonates to older adults), baseline 
+ventricular function, and drug dosing regimens. Because 
+individual patient-level data were not available and many trials 
+did not report stratiﬁed results, we were unable to perform 
+predeﬁned subgroup analyses by age, baseline disease severity 
+[e.g., left ventricular ejection fraction (LVEF), presence of 
+pulmonary hypertension, or chronic kidney disease], or type of 
+cardiac surgery. The absence of these subgroup analyses may 
+have introduced substantial clinical heterogeneity and limited 
+the ability to tailor our ﬁndings to speciﬁc patient groups. 
+Secondly, only a minority of the included studies used standard 
+therapy as the comparator, whereas most employed placebo 
+controls, which may overestimate treatment effects and 
+underrepresent real-world clinical decision contexts. 
+Furthermore, another limitation of this analysis is the wide 
+conﬁdence intervals observed for some meta-analytic results, 
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 11 frontiersin.org
+[[p12]]
+re/f_lecting imprecision in the data. This imprecision may be due to 
+the limited number of studies or small sample sizes included in 
+these particular comparisons, which might partly explain the 
+observed asymmetry in the funnel plots. These limitations 
+highlight the need for future research incorporating 
+standardized protocols, active-comparator designs, future larger- 
+scale studies, and rigorous subgroup analyses to validate 
+our ﬁndings.
+6 Conclusion
+In conclusion, this network meta-analysis suggests that 
+perioperative levosimendan provides favorable effects on 
+hemodynamics and ICU length of stay in cardiac surgery patients, 
+while its impact on renal function and long-term mo rtality 
+remains uncertain. Among the various inotropic agen ts, 
+levosimendan demonstrates substantial beneﬁts in enhancing 
+cardiac function and hemodynamic stability while reducing ICU 
+length of stay. Owing to its unique mechanism of action and 
+favorable safety proﬁle, levosimendan represents a promising 
+therapeutic option for managing acute postoperative heart failure.
+Data availability statement
+The datasets presented in this study can be found in online 
+repositories. The names of the repository/repositories and 
+accession number(s) can be found in the article/
+Supplementary 
+Material.
+Author contributions
+BZ: Conceptualization, Data curation, Formal analysis, 
+Investigation, Methodology, Software, Validation, Visualization, 
+Writing – original draft. WZ: Data curation, Formal analysis, 
+Investigation, Methodology, Writing – original draft. YL: 
+Conceptualization, Data curation, Investigation, Methodology, 
+Project administration, Resources, Validation, Visualization, 
+Writing – review & editing.
+Funding
+The author(s) declared that ﬁnancial support was not received 
+for this work and/or its publication.
+Conﬂict of interest
+The author(s) declared that this work was conducted in the 
+absence of any commercial or ﬁnancial relationships that could 
+be construed as a potential con/f_lict of interest.
+Generative AI statement
+The author(s) declared that generative AI was not used in the 
+creation of this manuscript.
+Any alternative text (alt text) provided alongside ﬁgures in this 
+article has been generated by Frontiers with the support of 
+artiﬁcial intelligence, and reasonable efforts have been made to 
+ensure accuracy, including review by the authors wherever 
+possible. If you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their afﬁliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed 
+or endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found 
+online at: https://www.frontiersin.org/articles/10.3389/fcvm.2025. 
+1673410/full#supplementary-material
+References
+PM?o?yK?`?oK?`?iK?a?cK?a?rK?a?cK??M?k?
+efﬁcacy and safety: 20 years of SIMDAX in clinical use. Cardiac Fail Rev. (2020) 6:e19. 
+doi: 10.15420/cfr.2020.03(Published Online First: 20200708).
+2. De Luca L, Sardella G, Proietti P, Battagliese A, Benedetti G, Di Roma A, et al. 
+Effects of levosimendan on left ventricular diastolic function after primary 
+angioplasty for acute anterior myocardial infarction: a Doppler echocardiographic 
+study. J Am Soc Echocardiogr. (2006) 19(2):172–7. 
+doi: 10.1016/j.echo.2005.08.016
+3. Papp Z, Edes I, Fruhwald S, De Hert SG, Salmenpera M, Leppikangas H, et al. 
+Levosimendan: molecular mechanisms and clinical implications: consensus of 
+experts on the mechanisms of action of levosimendan. Int J Cardiol. (2012) 
+159(2):82–7. 
+doi: 10.1016/j.ijcard.2011.07.022(Published Online First: 20110723).
+4. Ibanez B, James S, Agewall S, Antunes MJ, Bucciarelli-Ducci C, Bueno H, et al. 
+2017 ESC guidelines for the management of acute myocardial infarction in patients 
+presenting with ST-segment elevation: the task force for the management of acute 
+myocardial infarction in patients presenting with ST-segment elevation of the 
+European Society of Cardiology (ESC). Eur Heart J. (2018) 39(2):119–77. 
+doi: 10. 
+1093/eurheartj/ehx393
+5. Baysal A, Yanartas M, Dogukan M, Gundogus N, Kocak T, Koksal C. 
+Levosimendan improves renal outcome in cardiac surgery: a randomized trial. 
+J Cardiothorac Vasc Anesth. (2014) 28(3):586–94. 
+doi: 10.1053/j.jvca.2013.09.004
+(Published Online First: 2014/01/23).
+6. Alvarez J, Baluja A, Selas S, Otero P, Rial M, Veiras S, et al. A comparison of 
+dobutamine and levosimendan on hepatic blood /f_low in patients with a low 
+cardiac output state after cardiac surgery: a randomised controlled study. Anaesth 
+Intensive Care. (2013) 41(6):719–27. 
+doi: 10.1177/0310057x1304100606(Published 
+Online First: 2013/11/05).
+7. Guerrero Orriach JL, Navarro Arce I, Hernandez Rodriguez P, Raigon 
+Ponferrada A, Malo Manso A, Ramirez Aliaga M, et al. Preservation of renal 
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 12 frontiersin.org
+[[p13]]
+function in cardiac surgery patients with low cardiac output syndrome: levosimendan 
+vs beta agonists. BMC Anesthesiol. (2019) 19(1):212. 
+doi: 10.1186/s12871-019-0888-2
+(Published Online First: 2019/11/19).
+8. Jothinath K, Balakrishnan S, Raju V, Menon S, Osborn J. Clinical efﬁcacy of 
+levosimendan vs milrinone in preventing low cardiac output syndrome following 
+pediatric cardiac surgery. Ann Card Anaesth. (2021) 24(2):217–23. 
+doi: 10.4103/ 
+aca.ACA_160_19(Published Online First: 2021/04/23).
+9. Stocker CF, Shekerdemian LS, Norgaard MA, Brizard CP, Mynard JP, Horton 
+SB, et al. Mechanisms of a reduced cardiac output and the effects of milrinone and 
+levosimendan in a model of infant cardiopulmonary bypass. Crit Care Med. (2007) 
+35(1):252–9. 
+doi: 10.1097/01.CCM.0000251123.70632.4E
+10. van Diepen S, Mehta RH, Leimberger JD, Cowper PA, Mark DB, Alexander JH, 
+et al. Levosimendan in patients with reduced left ventricular function undergoing 
+isolated coronary or valve surgery. J Thorac Cardiovasc Surg . (2020) 
+159(6):2302–09.e6. 
+doi: 10.1016/j.jtcvs.2019.06.020(Published Online First: 2019/ 
+07/31).
+11. Levin RL, Degrange MA, Porcile R, Salvagio F, Blanco N, Botbol AL, et al. The 
+calcium sensitizer levosimendan gives superior results to dobutamine in 
+postoperative low cardiac output syndrome. Rev Esp Cardiol. (2008) 61(5):471–9. 
+doi: 10.1157/13119990
+12. Lechner E, Hofer A, Leitner-Peneder G, Freynschlag R, Mair R, Weinzettel R, 
+et al. Levosimendan versus milrinone in neonates and infants after corrective open- 
+heart surgery: a pilot study. Pediatr Crit Care Med. (2012) 13(5):542–8. 
+doi: 10.1097/ 
+PCC.0b013e3182455571(Published Online First: 2012/05/25).
+13. Al-Chalabi A, Shaw P, Leigh PN, van den Berg L, Hardiman O, Ludolph A, 
+et al. Oral levosimendan in amyotrophic lateral sclerosis: a phase II multicentre, 
+randomised, double-blind, placebo-controlled trial. J Neurol Neurosurg Psychiatry. 
+(2019) 90(10):1165–70. 
+doi: 10.1136/jnnp-2018-320288(Published Online First: 
+20190717).
+14. Sanﬁlippo F, Knight JB, Scolletta S, Santonocito C, Pastore F, Lorini FL, et al. 
+Levosimendan for patients with severely reduced left ventricular systolic function 
+and/or low cardiac output syndrome undergoing cardiac surgery: a systematic 
+review and meta-analysis. Crit Care. (2017) 21(1):252. 
+doi: 10.1186/s13054-017- 
+1849-0 (Published Online First: 2017/10/20).
+15. Qiang H, Luo X, Huo JH, Wang ZQ. Perioperative use of levosimendan 
+improves clinical outcomes in patients after cardiac surgery: a systematic review 
+and meta-analysis. J Cardiovasc Pharmacol. (2018) 72(1):11–8. 
+doi: 10.1097/FJC. 
+0000000000000584
+16. Landoni G, Lomivorotov VV, Alvaro G, Lobreglio R, Pisano A, Guarracino F, 
+et al. Levosimendan for hemodynamic support after cardiac surgery. N Engl J Med. 
+(2017) 376(21):2021–31. doi: 10.1056/NEJMoa1616325(Published Online First: 
+20170321).
+17. Cholley B, Caruba T, Grosjean S, Amour J, Ouattara A, Villacorta J, et al. Effect 
+of levosimendan on low cardiac output syndrome in patients with low ejection 
+fraction undergoing coronary artery bypass grafting with cardiopulmonary bypass: 
+the LICORN randomized clinical trial. Jama. (2017) 318(6):548–56. 
+doi: 10.1001/ 
+jama.2017.9973(Published Online First: 2017/08/09).
+18. Mehta RH, Leimberger JD, van Diepen S, Meza J, Wang A, Jankowich R, et al. 
+Levosimendan in patients with left ventricular dysfunction undergoing cardiac 
+surgery. N Engl J Med . (2017) 376(21):2032–42. 
+doi: 10.1056/NEJMoa1616218
+(Published Online First: 20170319).
+19. Foroutan F, Guyatt G, Zuk V, Vandvik PO, Alba AC, Mustafa R, et al. GRADE 
+Guidelines 28: use of GRADE for the assessment of evidence about prognostic 
+factors: rating certainty in identiﬁcation of groups of patients with different 
+absolute risks. J Clin Epidemiol. (2020) 121:62–70. 
+doi: 10.1016/j.jclinepi.2019.12.023
+20. Iorio A, Spencer FA, Falavigna M, Alba C, Lang E, Burnand B, et al. Use of 
+GRADE for assessment of evidence about prognosis: rating conﬁdence in estimates 
+of event rates in broad categories of patients. Bmj-Brit Med J. (2015) 350:h870. 
+doi: 10.1136/bmj.h870
+21. Luo D, Wan X, Liu J, Tong T. Optimally estimating the sample mean from the 
+sample size, median, mid-range, and/or mid-quartile range. Stat Methods Med Res. 
+(2018) 27(6):1785–805. doi: 10.1177/0962280216669183(Published Online First: 
+2016/09/30).
+22. Wan X, Wang W, Liu J, Tong T. Estimating the sample mean and standard 
+deviation from the sample size, median, range and/or interquartile range. BMC 
+Med Res Methodol . (2014) 14:135. doi: 10.1186/1471-2288-14-135(Published 
+Online First: 2014/12/20).
+23. Higgins JP, Altman DG, Gotzsche PC, Juni P, Moher D, Oxman AD, et al. The 
+Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. Br Med J. 
+(2011) 343:d5928. doi: 10.1136/bmj.d5928(Published Online First: 20111018).
+24. Koster G, Wetterslev J, Gluud C, Zijlstra JG, Scheeren TW, van der Horst IC, 
+et al. Effects of levosimendan for low cardiac output syndrome in critically ill patients: 
+systematic review with meta-analysis and trial sequential analysis. Intensive Care Med. 
+(2015) 41(2):203–21. 
+doi: 10.1007/s00134-014-3604-1(Published Online First: 2014/ 
+12/19).
+25. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis 
+detected by a simple, graphical test. Br Med J. (1997) 315(7109):629–34. doi: 10. 
+1136/bmj.315.7109.629(Published Online First: 1997/10/06).
+26. Salanti G, Ades AE, Ioannidis JP. Graphical methods and numerical summaries 
+for presenting results from multiple-treatment meta-analysis: an overview and 
+tutorial. J Clin Epidemiol. (2011) 64(2):163–71. 
+doi: 10.1016/j.jclinepi.2010.03.016
+(Published Online First: 2010/08/07).
+27. Zamora J, Abraira V, Muriel A, Khan K, Coomarasamy A. Meta-DiSc: a 
+software for meta-analysis of test accuracy data. BMC Med Res Methodol. (2006) 
+6:31. doi: 10.1186/1471-2288-6-31(Published Online First: 2006/07/14).
+28. Wang A, Cui C, Fan Y, Zi J, Zhang J, Wang G, et al. Prophylactic use of 
+levosimendan in pediatric patients undergoing cardiac surgery: a prospective 
+randomized controlled trial. Critical Care (London, England). (2019) 23(1):428. 
+doi: 10.1186/s13054-019-2704-2(Published Online First: 2020/01/01).
+29. Bragadottir G, Redfors B, Ricksten SE. Effects of levosimendan on glomerular 
+ﬁltration rate, renal blood /f_low, and renal oxygenation after cardiac surgery with 
+cardiopulmonary bypass: a randomized placebo-controlled study. Crit Care Med. 
+(2013) 41(10):2328–35. 
+doi: 10.1097/CCM.0b013e31828e946a(Published Online 
+First: 2013/08/08).
+30. Anastasiadis K, Antonitsis P, Vranis K, Kleontas A, Asteriou C, Grosomanidis 
+V, et al. Effectiveness of prophylactic levosimendan in patients with impaired left 
+ventricular function undergoing coronary artery bypass grafting: a randomized 
+pilot study. Interact Cardiovasc Thorac Surg. (2016) 23(5):740–47. 
+doi: 10.1093/ 
+icvts/ivw213(Published Online First: 2016/07/06).
+31. Shah B, Sharma P, Brahmbhatt A, Shah R, Rathod B, Shastri N, et al. Study of 
+levosimendan during off-pump coronary artery bypass grafting in patients with LV 
+dysfunction: a double-blind randomized study. Indian J Pharmacol. (2014) 
+46(1):29–34. 
+doi: 10.4103/0253-7613.125161(Published Online First: 2014/02/20).
+32. Erb J, Beutlhauser T, Feldheiser A, Schuster B, Treskatsch S, Grubitzsch H, et al. 
+In/f_luence of levosimendan on organ dysfunction in patients with severely reduced left 
+ventricular function undergoing cardiac surgery. J Int Med Res. (2014) 42(3):750–64. 
+doi: 10.1177/0300060513516293(Published Online First: 2014/05/02).
+33. Zangrillo A, Lomivorotov VV, Pisano A, Calabro MG, Belletti A, Brazzi L, et al. 
+Long-term outcome of perioperative low cardiac output syndrome in cardiac surgery: 
+1-year results of a multicenter randomized trial. J Crit Care. (2020) 58:89–95. 
+doi: 10. 
+1016/j.jcrc.2020.04.005(Published Online First: 20200417).
+34. De Hert SG, Lorsomradee S, Cromheecke S, Van der Linden PJ. The effects of 
+levosimendan in cardiac surgery patients with poor left ventricular function. Anesth 
+Analg. (2007) 104(4):766–73. doi: 10.1213/01.ane.0000256863.92050.d3
+35. Thorlacius EM, Vistnes M, Ojala T, Keski-Nisula J, Molin M, Romlin BS, et al. 
+Levosimendan versus milrinone and release of myocardial biomarkers after pediatric 
+cardiac surgery: post hoc analysis of clinical trial data. Pediatr Crit Care Med. (2021) 
+22(7):e402–9. 
+doi: 10.1097/pcc.0000000000002712(Published Online First: 2021/03/ 
+20).
+36. Fredholm M, Jörgensen K, Houltz E, Ricksten SE. Inotropic and lusitropic 
+effects of levosimendan and milrinone assessed by strain echocardiography—a 
+randomised trial. Acta Anaesthesiol Scand. (2018) 62(9):1246–54. 
+doi: 10.1111/aas. 
+13170(Published Online First: 2018/06/22).
+37. Momeni M, Rubay J, Matta A, Rennotte M-T, Veyckemans F, Poncelet AJ, et al. 
+Levosimendan in congenital cardiac surgery: a randomized, double-blind clinical 
+trial. J Cardiothorac Vasc Anesth. (2011) 25(3):419–24. 
+doi: 10.1053/j.jvca.2010.07. 
+004 (Published Online First: 2010/09/11).
+38. Nag P, Chowdhury SR, Behera SK, Das M, Narayan P. Levosimendan or 
+milrinone for ventricular septal defect repair with pulmonary arterial hypertension. 
+J Cardiothorac Vasc Anesth. (2023) 37(6):972–79. 
+doi: 10.1053/j.jvca.2023.01.032
+(Published Online First: 2023/03/12).
+39. Mishra A, Kumar B, Dutta V, Arya VK, Mishra AK. Comparative effect of 
+levosimendan and milrinone in cardiac surgery patients with pulmonary 
+hypertension and left ventricular dysfunction. J Cardiothorac Vasc Anesth. (2016) 
+30(3):639–46. 
+doi: 10.1053/j.jvca.2016.01.015(Published Online First: 2016/06/21).
+40. Kandasamy A, Simon HA, Murthy P, Annadurai M, Ali MM, Ramanathan G. 
+Comparison of levosimendan versus dobutamine in patients with moderate to severe 
+left ventricular dysfunction undergoing off-pump coronary artery bypass grafting: a 
+randomized prospective study. Ann Card Anaesth. (2017) 20(2):200–06. 
+doi: 10. 
+4103/aca.ACA_195_16(Published Online First: 2017/04/11).
+41. Ebade AA, Khalil MA, Mohamed AK. Levosimendan is superior to dobutamine 
+as an inodilator in the treatment of pulmonary hypertension for children undergoing 
+cardiac surgery. J Anesth. (2013) 27(3):334–9. 
+doi: 10.1007/s00540-012-1537-9
+(Published Online First: 2012/12/12).
+42. Ricci Z, Garisto C, Favia I, Vitale V, Di Chiara L, Cogo PE. Levosimendan 
+infusion in newborns after corrective surgery for congenital heart disease: 
+randomized controlled trial. Intensive Care Med. (2012) 38(7):1198–204. 
+doi: 10. 
+1007/s00134-012-2564-6(Published Online First: 2012/04/25).
+43. Guerrero Orriach JL, Galan Ortega M, Ramirez Fernandez A, Ariza Villanueva 
+D, Florez Vela A, Moreno Cortes I, et al. Assessing the effect of preoperative 
+levosimendan on renal function in patients with right ventricular dysfunction. 
+J Clin Monit Comput . (2017) 31(1):227–30. 
+doi: 10.1007/s10877-016-9827-7
+(Published Online First: 2016/01/15).
+44. Thorlacius EM, Suominen PK, Wahlander H, Keski-Nisula J, Vistnes M, 
+Ricksten S-E, et al. The effect of levosimendan versus milrinone on the occurrence 
+rate of acute kidney injury following congenital heart surgery in infants: a 
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 13 frontiersin.org
+[[p14]]
+randomized clinical trial. Pediatr Crit Care Med. (2019) 20(10):947–56. doi: 10.1097/ 
+pcc.0000000000002017(Published Online First: 2019/07/06).
+45. Abril-Molina A, Gomez-Luque JM, Perin F, Esteban-Molina M, Ferreiro- 
+Marzal A, Fernandez-Guerrero C, et al. Effect of preoperative infusion of 
+levosimendan on biomarkers of myocardial injury and haemodynamics after 
+paediatric cardiac surgery: a randomised controlled trial. Drugs R D . (2021) 
+21(1):79–89. 
+doi: 10.1007/s40268-020-00332-1(Published Online First: 2020/12/29).
+46. Tholén M, Ricksten SE, Lannemyr L. Effects of levosimendan on renal blood 
+/f_low and glomerular ﬁltration in patients with acute kidney injury after cardiac 
+surgery: a double blind, randomized placebo-controlled study. Crit Care. (2021) 
+25(1):207. 
+doi: 10.1186/s13054-021-03628-z(Published Online First: 2021/06/14).
+47. Leppikangas H, Jarvela K, Sisto T, Maaranen P, Virtanen M, Lehto P, et al. 
+Preoperative levosimendan infusion in combined aortic valve and coronary bypass 
+surgery. Br J Anaesth. (2011) 106(3):298–304. 
+doi: 10.1093/bja/aeq402(Published 
+Online First: 2011/01/25).
+48. Tritapepe L, De Santis V, Vitale D, Guarracino F, Pellegrini F, Pietropaoli P, 
+et al. Levosimendan pre-treatment improves outcomes in patients undergoing 
+coronary artery bypass graft surgery. Br J Anaesth. (2009) 102(2):198–204. 
+doi: 10. 
+1093/bja/aen367(Published Online First: 2009/01/20).
+49. Zangrillo A, Alvaro G, Belletti A, Pisano A, Brazzi L, Calabro MG, et al. Effect 
+of levosimendan on renal outcome in cardiac surgery patients with chronic kidney 
+disease and perioperative cardiovascular dysfunction: a substudy of a multicenter 
+randomized trial. J Cardiothorac Vasc Anesth. (2018) 32(5):2152–59. 
+doi: 10.1053/j. 
+jvca.2018.02.039(Published Online First: 2018/03/28).
+50. Conti N, Gatti M, Raschi E, Diemberger I, Potena L. Evidence and current use 
+of levosimendan in the treatment of heart failure: ﬁlling the gap. Drug Des Devel Ther. 
+(2021) 15:3391–409. doi: 10.2147/DDDT.S295214 (Published Online First: 
+20210804).
+51. Elsaeidy AS, Abuelazm M, Ghaly R, Soliman Y, Amin AM, El-Gohary M, et al. 
+The efﬁcacy and safety of levosimendan in patients with advanced heart failure: an 
+updated meta-analysis of randomized controlled trials. Am J Cardiovasc Drugs. 
+(2024) 24(6):775–90. 
+doi: 10.1007/s40256-024-00675-z(Published Online First: 
+20240911).
+52. Al-Chalabi A, Heunks LMA, Papp Z, Pollesello P. Potential of the 
+cardiovascular drug levosimendan in the management of amyotrophic lateral 
+sclerosis: an overview of a working hypothesis. J Cardiovasc Pharmacol. (2019) 
+74(5):389–99. 
+doi: 10.1097/fjc.0000000000000728
+53. Cosentino N, Niccoli G, Fracassi F, Rebuzzi A, Agostoni P, Marenzi G. 
+Rationale, experimental data, and emerging clinical evidence on early and 
+preventive use of levosimendan in patients with ventricular dysfunction. Eur Heart 
+J Cardiovasc Pharmacother. (2020) 6(5):310–16. 
+doi: 10.1093/ehjcvp/pvz065
+54. Shang G, Yang X, Song D, Ti Y, Shang Y, Wang Z, et al. Effects of levosimendan 
+on patients with heart failure complicating acute coronary syndrome: a meta-analysis 
+of randomized controlled trials. Am J Cardiovasc Drugs. (2017) 17(6):453–63. 
+doi: 10. 
+1007/s40256-017-0237-0
+55. Guan Q, Zhang C, Li B, Huang D, Li A, Qin J, et al. Meta-Analysis of the 
+efﬁcacy of levosimendan in the treatment of severe sepsis complicated with septic 
+cardiomyopathy. Heart Surg Forum. (2023) 26(5):E609–20. 
+doi: 10.59958/hsf.6439
+(Published Online First: 20231030).
+56. Chen AL, Kindzelski BA, Robinson JP, Altshuler JM, Schwann TA, Vivacqua A. 
+Deciphering low cardiac output syndrome: insights and management in post-cardiac 
+surgery. Heart Surg Forum. (2024) 27(10):E1237–44. 
+doi: 10.59958/hsf.7737
+57. Zhao M, Hou Y, Yuan M, Ma S, Yue Y. Clinical efﬁcacy and hemodynamic 
+effects of levosimendan in cardiac surgery patients after surgery. J Cardiothorac 
+Surg. (2025) 20(1):43. doi: 10.1186/s13019-024-03316-3(Published Online First: 
+20250107).
+58. Hasenfuss G, Pieske B, Castell M, Kretschmann B, Maier LS, Just H. In/f_luence 
+of the novel inotropic agent levosimendan on isometric tension and calcium cycling 
+in failing human myocardium. Circulation. (1998) 98(20):2141–7. 
+doi: 10.1161/01.cir. 
+98.20.2141
+59. Kersten JR, Montgomery MW, Pagel PS, Warltier DC. Levosimendan, a new 
+positive inotropic drug, decreases myocardial infarct size via activation of K(ATP) 
+channels. Anesth Analg. (2000) 90(1):5–11. 
+doi: 10.1097/00000539-200001000-00003
+60. Levijoki J, Pollesello P, Kaivola J, Tilgmann C, Sorsa T, Annila A, et al. Further 
+evidence for the cardiac troponin C mediated calcium sensitization by levosimendan: 
+structure-response and binding analysis with analogs of levosimendan. J Mol Cell 
+Cardiol. (2000) 32(3):479–91. 
+doi: 10.1006/jmcc.1999.1093
+61. Nieminen MS, Buerke M, Cohen-Solal A, Costa S, Edes I, Erlikh A, et al. The 
+role of levosimendan in acute heart failure complicating acute coronary syndrome: a 
+review and expert consensus opinion. Int J Cardiol. (2016) 218:150–57. 
+doi: 10.1016/j. 
+ijcard.2016.05.009(Published Online First: 20160514).
+62. Paraskevaidis IA, Parissis JT, Th Kremastinos D. Anti-in/f_lammatory and anti- 
+apoptotic effects of levosimendan in decompensated heart failure: a novel mechanism 
+of drug-induced improvement in contractile performance of the failing heart. Curr 
+Med Chem Cardiovasc Hematol Agents . (2005) 3(3):243–7. 
+doi: 10.2174/ 
+1568016054368232
+63. Kipka H, Scha/f_linger R, Tomasi R, Pogoda K, Mannell H. The effects of the 
+levosimendan metabolites OR-1855 and OR-1896 on endothelial pro-in/f_lammatory 
+responses. Biomedicines. (2023) 11(3):918. 
+doi: 10.3390/biomedicines11030918
+(Published Online First: 20230316).
+64. Farmakis D, Alvarez J, Ben Gal T, Brito D, Fedele F, Fonseca C, et al. 
+Levosimendan beyond inotropy and acute heart failure: evidence of pleiotropic 
+effects on the heart and other organs: an expert panel position paper. Int J Cardiol. 
+(2016) 222:303–12. 
+doi: 10.1016/j.ijcard.2016.07.202(Published Online First: 
+20160729).
+65. Guerrero-Orriach JL, Malo-Manso A, Ramirez-Aliaga M, Florez Vela AI, 
+Galan-Ortega M, Moreno-Cortes I, et al. Renal and neurologic beneﬁt of 
+levosimendan vs dobutamine in patients with low cardiac output syndrome after 
+cardiac surgery: clinical trial FIM-BGC-2014-01. Front Pharmacol. (2020) 11:1331. 
+doi: 10.3389/fphar.2020.01331(Published Online First: 2020/09/29).
+66. O’Neal JB, Shaw AD, Billings F. Acute kidney injury following cardiac surgery: 
+current understanding and future directions. Crit Care. (2016) 20(1):187. doi: 10. 
+1186/s13054-016-1352-z(Published Online First: 20160704).
+67. Zheng Q, Lan H, Guo Q, Li C, Xiong T, Zhang J, et al. Preoperative 
+levosimendan administration in heart transplant patients with severe hepatic and 
+renal impairment: a retrospective study. Heart Surg Forum. (2023) 26(4):E346–E57. 
+doi: 10.59958/hsf.5433(Published Online First: 20230814).
+68. Fedele F, Bruno N, Brasolin B, Caira C, D'Ambrosi A, Mancone M. 
+Levosimendan improves renal function in acute decompensated heart failure: 
+possible underlying mechanisms. Eur J Heart Fail. (2014) 16(3):281–8. 
+doi: 10. 
+1002/ejhf.9(Published Online First: 20131211).
+69. Lannemyr L, Ricksten S-E, Rundqvist B, Andersson B, Bartfay S-E, Ljungman 
+C, et al. Differential effects of levosimendan and dobutamine on glomerular ﬁltration 
+rate in patients with heart failure and renal impairment: a randomized double-blind 
+controlled trial. J Am Heart Assoc. (2018) 7(16):e008455. 
+doi: 10.1161/JAHA.117. 
+008455
+70. Yilmaz MB, Grossini E, Silva Cardoso JC, Edes I, Fedele F, Pollesello P, et al. 
+Renal effects of levosimendan: a consensus report. Cardiovasc Drugs Ther. (2013) 
+27(6):581–90. doi: 10.1007/s10557-013-6485-6(Published Online First: 2013/08/10).
+Zhu et al.                                                                                                                                                                10.3389/fcvm.2025.1673410
+Frontiers in Cardiovascular Medicine 14 frontiersin.org

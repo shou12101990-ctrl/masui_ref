@@ -1,0 +1,795 @@
+
+[[p1]]
+Decades of single-center experience in managing 274 
+double-outlet right ventricle patients: Biventricular repair 
+suitable for more complex forms?
+Justin Robinson, MD, a Anish Katta, BA, b Praise Chovwen, MD, a Shivni Patel, BS, b
+Ruchika Kamojjala, BS, b Ayman Alrazim, MD, a Hani K. Najm, MD, MSc, a,c Robert Stewart, MD, d and 
+Tara Karamlou, MD, MSc d
+ABSTRACT
+Objective: To investigate the long-term outcomes of double-outlet right ventricle 
+(DORV), focusing on identifying specific subtypes capable of achieving successful 
+biventricular repair (BVR) with favorable results.
+Methods: A retrospective review was conducted of 274 DORV patients followed at 
+a single center from 1999 to 2023. After exclusions, 238 patients were analyzed, 
+including 97 who underwent single ventricle palliation (SVP) and 141 who under-
+went BVR. Outcomes were assessed using Kaplan-Meier survival and freedom 
+from reintervention estimates, with competing risk analysis for survival, transplan-
+tation, or death.
+Results: The median follow-up was 11.9 years. Subaortic and subpulmonary ventric-
+ular septal defects (VSDs) were more common in the BVR group, while noncom-
+mitted VSDs and features suggestive of heterotaxy (eg, persistent left superior 
+vena cava, complete atrioventricular septal defect) were more frequent in SVP. 
+BVR tended toward improved transplantation-free survival (8% vs 16% for trans-
+plantation or death; P = .06). At 40 years post-repair, estimated outcomes were 
+70% survival, 8% transplantation, and 20% mortality for BVR, compared to 
+45%, 18%, and 37%, respectively, for SVP. Subgroup analysis showed equivalent 
+survival in noncommitted, subpulmonary, and doubly committed types, with supe-
+rior survival in subaortic DORV after BVR (100% vs 75%; P = .025). Freedom from 
+reintervention was also comparable across subtypes.
+Conclusions: Our study shows that BVR was associated with improved outcomes 
+compared to SVP, including higher survival rates and lower rates of both mortality 
+and transplantation,. Decades of experience at our institution demonstrates the 
+feasibility of BVR in complex DORV subtypes, such as noncommitted and subpul-
+monary VSD. (JTCVS Open 2026;30:101694)
+Anatomic spectrum of double-outlet right 
+ventricle subtypes.
+CENTRAL MESSAGE
+Biventricular repair is feasible in 
+complex double-outlet right 
+ventricle subtypes, such as 
+noncommitted and 
+subpulmonary.
+PERSPECTIVE
+Our study found better survival, lower mortality, 
+and reduced rates of transplantation with biven-
+tricular repair compared to single ventricle 
+repair, reaffirming its efficacy in challenging 
+cases.
+Double-outlet right ventricle (DORV) encompasses a het-
+erogeneous group of congenital heart anomalies character-
+ized by at least 50% of the great arteries originating from 
+the morphologic right ventricle, along with variations in 
+the relationship between the great arteries and the ventricu-
+lar septal defect (VSD). 1 The original definition, introduced 
+by Lev and colleagues 2 in 1972, has since been refined by
+the STS Congenital Heart Surgery Nomenclature and Data-
+base Committee. 1 According to the updated definition, 
+DORV represents a type of ventriculoarterial connection 
+in which both great vessels arise either entirely or predom-
+inantly from the right ventricle. 1 For the purposes of this 
+study, we adhere to the earlier definition, which categorizes 
+DORV into 4 subtypes based on the location of the VSD:
+From the a Department of Thoracic and Cardiovascular Surgery, Heart, Vascular, and 
+Thoracic Institute, Cleveland Clinic, Cleveland, Ohio; b Case Western Reserve 
+University School of Medicine, Cleveland, Ohio; c Division of Pediatric Cardiac 
+Surgery, Heart, Vascular and Thoracic Institute, Cleveland Clinic Children’s Hos-
+pital, Cleveland, Ohio; and d Department of Pediatric Cardiac Surgery, Akron 
+Children’s and Cincinnati Children’s Hospital, Akron, Ohio. 
+Dr Tara Karamlou, MD, MSc, is an Associate/Feature Editor. The peer review pro-
+cess for this paper was handled by Dr Igor E. Konstantinov, MD, PhD, FRACS. 
+Read at the 51st Annual Meeting of the Western Thoracic Surgical Association, 
+Dana Point, California, June 25-28, 2025.
+Received for publication July 10, 2025; revisions received Jan 22, 2026; accepted for 
+publication Jan 24, 2026; available ahead of print March 14, 2026.
+Address for reprints: Tara Karamlou, MD, MSc, Department of Pediatric Cardiac 
+Surgery, Akron Children’s Hospital, 214 W Bowery St, Akron, OH 44308 
+(E-mail: tkaramlou@akronchildrens.org).
+2666-2736
+Copyright � 2026 The Author(s). Published by Elsevier Inc. on behalf of The Amer-
+ican Association for Thoracic Surgery. This is an open access article under the CC 
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+https://doi.org/10.1016/j.xjon.2026.101694
+JTCVS Open c Volume 30, Number C 1
+CONGENITAL: RIGHT VENTRICLE
+[[p2]]
+noncommitted (ncVSD), subpulmonic (Taussig-Bing 
+VSD), doubly committed (dcVSD), and subaortic VSD. 
+Among these subtypes, subaortic VSD is the most com-
+mon, while ncVSD poses the greatest surgical challenge 
+owing to the remote positioning of the VSD relative to the 
+aorta. Surgical management of DORV includes primary or 
+staged biventricular repair (BVR) or single ventricle pallia-
+tion/Fontan (SVP), with the choice of approach determined 
+by patient-specific and anatomic factors. Of note, an 
+increasing number of patients with complex forms of 
+DORV are being considered for BVR 3,4 ; however, previous 
+studies have highlighted the challenges associated with 
+complex BVR. For instance, Li and colleagues 4 reported 
+lower overall survival rates at 6 months, 1 year, and 5 years 
+for ncVSD compared to other VSD subtypes.
+Despite these challenges, questions remain regarding the 
+long-term viability of primary or staged BVR for more 
+complex lesions. Bradley and colleagues 5 demonstrated 
+that BVR was associated with higher late mortality and re-
+intervention rates compared to SVP, the latter being espe-
+cially important with regard to health-related quality of 
+life. In contrast, other studies, such as those by Lacour-
+Gayet and colleagues 3 and Oladunjoye and colleagues, 6 
+suggest that favorable outcomes can be achieved with 
+BVR, even in complex cases.
+In this study, using the longest follow-up reported for a 
+cohort of DORV patients, we aimed to determine the preva-
+lence of BVR and SVP and evaluate the long-term outcomes 
+of DORV, with a specific focus on identifying subtypes 
+amenable to successful BVR with favorable results.
+MATERIALS AND METHODS
+Study Design and Patients
+This is a single-center, retrospective review of all patients 
+diagnosed with DORV who either underwent surgical 
+intervention or were followed at Cleveland Clinic Hospi-
+tal(s) between 1999 and 2023. Institutional Review Board 
+approval (IRB 24-092) was obtained on January 29, 2024, 
+classifying the study as exempt human subjects research. 
+Consent was not required.
+Diagnosis of DORV was confirmed in 274 patients based 
+on echocardiographic findings, surgical reports, and
+independent reviews conducted by multiple investigators 
+(JR, AA, PC, and TK). The diagnostic criteria adhered to 
+the “50% rule,” 7 and the subclassifications followed the 
+system proposed by Lev and colleagues. 2
+Demographic, diagnostic, surgical, and outcome data 
+were extracted from hospital records using the electronic 
+health record system. Clinical status at the most recent 
+follow-up, defined as a phone contact or clinic visit docu-
+mented in the electronic heart record, was recorded.
+Statistical Analysis
+Data are presented as frequency, median with interquar-
+tile range, or mean ± standard deviation, as appropriate. 
+Categorical variables are summarized as count and percent-
+age and were compared using the χ 2 test or Fisher exact test, 
+as indicated. Time-dependent events were analyzed using 
+the Kaplan-Meier method. Competing risks analyses were 
+conducted following previously reported methodologies. 8,9 
+All statistical analyses were performed using R version 
+4.3.3 (R Foundation for Statistical Computing). 
+Two-tailed tests were used, with a P value<.05 considered 
+statistically significant.
+RESULTS
+o?????s?PM?s?L
+tients who did not undergo definitive surgery during the 
+study period were censored after their most recent palliative 
+surgery. Sixteen patients without a record of the definitive 
+repair were excluded from the analysis. Consequently, a to-
+tal of 238 patients were included in the final analysis, with 
+97 (40.8%) undergoing SVP/Fontan and 141 (59.2%) un-
+dergoing BVR (Figure 1).
+DORV subtypes in the SVP/Fontan and BVR groups 
+included subaortic VSD (28.9% vs 50.4%, respectively), 
+subpulmonary VSD (8.2% vs 23.4%), noncommitted 
+VSD (41.2% vs 12.1%), doubly committed VSD (4.1% 
+vs 4.3%), and unspecified (17.5% vs 9.9%). Persistent 
+left superior vena cava and complete atrioventricular septal 
+defect, both suggestive of heterotaxy, were significantly 
+more common among patients undergoing SVP compared 
+to those undergoing BVR (27% vs 7% [P < .001] and 
+19% vs 5%, [P = .002], respectively). In contrast, coarcta-
+tion of the aorta was seen more frequently in patients under-
+going BVR (14% vs 3%; P = .01).
+Competing Risks Analysis: Postrepair Outcomes 
+Patients transitioned to 1 of 3 end states following either 
+complete BVR or SVP: survival, transplantation, or death 
+(Figure 2). Among patients who underwent SVP, competing 
+risks analysis predicted that after 40 years, 45% survived, 
+18% underwent transplantation, and 37% died, whereas 
+for patients undergoing BVR, 70% survived, 8% under-
+went transplantation, and 20% died.
+Abbreviations and Acronyms
+BVR = biventricular repair
+DORV = double- outlet right ventricle
+LVOTO = left ventricular outflow tract obstruction
+RV = right ventricular
+RVOT = right ventricular outflow tract
+RVOTO = right ventricular outflow tract obstruction
+SVP = single ventricle palliation
+VSD = ventricular septal defect
+2 JTCVS Open c April 2026
+Congenital: Right Ventricle Robinson et al
+[[p3]]
+Reintervention
+Table 2 lists the indications for first reintervention by 
+repair type. Among 48 BVR patients, the most common re-
+intervention was right ventricular outflow tract (RVOT) 
+intervention, in 14 (29.2%), which included relief of
+RVOT obstruction (RVOTO; n = 6), RVOT aneurysm repair 
+(n = 2), and repair/replacement of the pulmonary valve 
+(n = 6). For Fontan patients, coil occlusion of collaterals 
+was the most common first-time reintervention, performed 
+in 4 patients (25%).
+s`akd?PM?a??
+Characteristic
+SVP group 
+(N = 97)
+BVR group 
+(N = 141) P value
+Age, y, median [IQR] 23 [14-33] 24 [11-33] 1.0
+Female sex, n (%) 44 (45.4) 66 (46.8) .93
+Race, n (%) .46
+White 71 (73.2) 98 (69.5)
+Black/African American 8 (8.2) 19 (13.5)
+Other 18 (18.6) 24 (17.0)
+DORV type, n (%) <.001
+Doubly committed 4 (4.1) 6 (4.3)
+Noncommitted 40 (41.2) 17 (12.1)
+Subaortic 28 (28.9) 71 (50.4)
+Subpulmonary (Taussig-Bing) 8 (8.2) 33 (23.4)
+Unspecified 17 (17.5) 14 (9.9)
+Concomitant cardiac anomalies, n (%) 
+ASD 36 (37.1) 60 (42.6) .48
+PLSVC 26 (26.8) 10 (7.1) <.001
+CoA 3 (3.1) 20 (14.2) .01
+CAVSD 18 (18.6) 7 (5.0) .002
+SVP, Single ventricle palliation; BVR, biventricular repair; IQR, interquartile range; DORV, double-outlet right ventricle; ASD, atrial septal defect; PLSVC, persistent left superior 
+vena cava; CoA, coarctation of the aorta; CAVSD, complete atrioventricular septal defect.
+Date of study = September 1, 1999-
+December 1, 2023 
+N = 274
+Definitive 
+repair at CCF
+N = 112
+Definitive repair 
+before presentation
+to CCF 
+N = 126
+Single
+ventricle
+repair
+N = 40
+Biventricular
+repair
+N = 72
+Single
+ventricle
+repair
+N = 57
+Biventricular
+repair
+N = 69
+No record of definitive 
+repair 
+N = 16
+Or
+Died prior to definitive 
+repair/definitive repair 
+not complete
+N = 20
+ehftqd?PM?e?????K?b?b?eM
+JTCVS Open c Volume 30, Number C 3
+Robinson et al Congenital: Right Ventricle
+[[p4]]
+Subgroup Analysis: Stratified by DORV Subtype 
+rM?h??urc?K???QT???
+equivalent in the SVP and BVR groups (70% vs 90%; 
+P = .96) (Figure 3). Survival at 20 years also was equivalent 
+between the 2 groups in the subpulmonary VSD cohort 
+(80% vs 80%; P = .7). The dcVSD subgroup included a 
+small number of patients—4 who underwent SVP and 6 
+who underwent BVR. Ten-year survival was also equivalent 
+in the 2 groups (100% for SVP vs 100% for BVR; P = 1.0). 
+Unsurprisingly, subaortic VSD type DORV had a higher 30-
+year survival after BVR compared to SVP (100% vs 75%; 
+P = .025). Those undergoing SVP within the subaortic VSD 
+subtype had hypoplasia of left-sided structures or, in rare 
+cases, right ventricular (RV) hypoplasia.
+Reintervention
+At 14 years, freedom from first-time reintervention 
+(Figure 4) did not differ significantly between the SVP 
+and BVR groups in the ncVSD subgroup after definitive 
+repair (40% for SVP vs 85% for BHR; P = .15) or the sub-
+pulmonary VSD subgroup (SVP 30% vs BVR 25%, 
+P = .51). In the subaortic VSD subgroup, 45% of patients 
+required a reintervention following BVR, compared to 72% 
+following SVP (P = .04).
+DISCUSSION
+The present study reports one of the largest single-center 
+experiences in managing 274 patients with DORV undergo-
+ing either SVP or BVR over a 40-year periods. Our findings
+0 10 20
+Years Post Defintive Repair
+30 40
+100%
+DORV
+80%
+P(state)
+60%
+40%
+20%
+0%
+Survival, Fontan
+T ranspl ant, BVR
+Survival, BVR
+D eath, f ontan
+Transplant, fontan
+D eath, BVR
+FIGURE 2. Non–risk-adjusted competing risk estimates for the 3 end transition states after definitive repair: survival, transplantation, or death. DORV, 
+Double-outlet right ventricle; BVR, biventricular repair.
+TABLE 2. Postoperative outcomes
+Outcome
+SVP group 
+(N = 16), n (%)
+BVR group 
+(N = 48), n (%) P value
+Reinterventions
+Relief of LVOTO 2 (12.5) 4 (8.3) .635
+RVOT intervention 0 (0) 14 (29.2) .014
+Pulmonary artery intervention 3 (18.7) 12 (25.0) .742
+Tricuspid valve repair/replacement 2 (12.5) 0 (0) .060
+Pacemaker insertion 0 (0) 5 (10.4) .319
+Conduit replacement 2 (12.5) 0 (0) .060
+Coil occlusion of collaterals 4 (25.0) 0 (0) .003
+Fontan closure 2 (12.5) 0 (0) .060
+Biventricular conversion 0 (0) 1 (2.1) 1.000
+Ventricular switch 1 (6.2) 0 (0) .250
+Residual VSD repair 0 (0) 12 (25.0) .028
+Transplantation-free survival 
+(SVP, N = 97; BVR, N = 141)
+16 (16.5) 12 (8.5) .06
+SVP, Single ventricle palliation; BVR, biventricular repair; LVOTO, left ventricular outflow tract obstruction; RVOT, right ventricular outflow tract; VSD, ventricular septal defect.
+4 JTCVS Open c April 2026
+Congenital: Right Ventricle Robinson et al
+[[p5]]
+suggest that with appropriate patient selection, BVR is asso-
+ciated with better survival, lower mortality, and reduced 
+transplantation rates compared to SVP even in complex 
+DORV subtypes like ncVSD and subpulmonic VSD. Our 
+competing risk analysis demonstrated that at 40 years post-
+repair, survival was higher in the BVR group (70% vs 
+45%), with a lower transplantation prevalence (8% vs 
+18%) compared to SVP. Additionally, across the spectrum 
+of DORV, reintervention rates were comparable between 
+the 2 management strategies. These findings underscore 
+the importance of pursuing BVR in appropriately selected 
+patients to optimize long-term outcomes.
+BVR in Challenging Anatomic Subtypes
+Historically, certain DORV subtypes—particularly 
+ncVSD and subpulmonic VSD (Taussig-Bing)—have 
+been considered high-risk candidates for BVR owing to 
+the technical complexity of the intracardiac rerouting 
+required. For instance, in cases of ncVSD, significant
+straddling of the tricuspid valve, particularly when accom-
+panied by ventricular hypoplasia, may preclude the feasi-
+bility of BVR. However, when ventricular development is 
+adequate, BVR remains a viable option, with viable surgical 
+strategies to achieve repair. 10-12 However, the surgeon needs 
+an in-depth understanding of the atrioventricular conduc-
+tion system anatomy to avoid surgically induced heart 
+block, especially when enlarging the VSD anterosuperiorly, 
+as the conduction pathways in these cases often deviate 
+from the typical arrangement. 12,13
+DORV with subpulmonic VSD is frequently associated 
+with concomitant cardiac anomalies, particularly aortic 
+arch anomalies and RVOT obstruction, which can compli-
+cate surgical management. Several surgical techniques to 
+optimize outcomes for these patients have been described. 
+One approach involves rerouting the VSD to the aorta using 
+a long-intracardiac baffle; however, this carries the risk of 
+several complications, including tricuspid and pulmonary 
+valve impairment and left ventricular outflow tract
+100%
+75%
+50%
+25%
+0%
+0 5
+P = .96
+10 
+Time in Years
+Survival Probability
+15
+36 26 20 14
+23715
+Number at risk
+Strata Fontan BV repair
+ Strata Fontan BV repair
+A
+100%
+75%
+50%
+25%
+0%
+0
+P = 1
+5
+Survival Probability
+Survival Probability
+Strata Fontan BV repair
+Time in Years
+2 1
+14
+Number at risk
+100%
+75%
+50%
+25%
+0%
+0 5 10
+P = .025
+Strata Fontan BV repair
+Number at risk
+13 10 10
+39 3559
+Time in Years 
+C D
+7 5 1 1
+1016 17 30 
+Number at risk
+100%
+75%
+50%
+25%
+0%
+0 5
+P = .7
+10 
+Time in Years
+Survival Probability
+15
+B
+FIGURE 3. Kaplan-Meier analysis of survival stratified by double-outlet right ventricle subtypes: ncVSD, dcVSD, and subaortic VSD. Shaded areas indi-
+cate 95% confidence intervals. A, Survival among the cohort of patients with noncommitted VSD (ncVSD) stratified by Fontan (orange) vs biventricular 
+repair (green). B, Survival among the cohort of patients with subpulmonary VSD stratified by Fontan vs biventricular repair. C, Survival among the cohort 
+with doubly committed VSD (dcVSD) stratified by Fontan vs biventricular repair. D, Survival among the cohort with subaortic stratified by Fontan vs bi-
+ventricular repair. VSD, Ventricular septal defect; BV, biventricular.
+JTCVS Open c Volume 30, Number C 5
+Robinson et al Congenital: Right Ventricle
+[[p6]]
+obstruction (LVOTO), leading to high rates of reopera-
+tion. 11,14,15 Efforts to avoid LVOTO in this approach 
+through VSD enlargement may lead to heart block, necessi-
+tating permanent pacemaker implantation. Studies have 
+shown that pacemaker placement in pediatric patients is 
+one of the most detrimental interventions in terms of 
+long-term health-related quality of life. 16,17 In 2002, 
+Lacour-Gayet and colleagues 18 described using the arterial 
+switch operation to reroute the VSD to the pulmonary ar-
+tery, but this technique is unsuitable for patients with pul-
+monary stenosis. More recently, Hu and colleagues 19 
+advocated for the use of a double-root translocation in pa-
+tients with pulmonary stenosis, a technically demanding 
+but effective approach. However, this technique is associ-
+ated with several important considerations, including its 
+complexity, which prolongs cardiopulmonary bypass and 
+cross-clamp times, as well as an increased risk of clinically 
+significant aortic valve insufficiency. 20 Lu and colleagues 21 
+reported promising early and midterm outcomes with a 
+technique that uses an interventricular baffle to reroute a 
+VSD to the aorta.
+Despite the technical complexity of repair, our subgroup 
+analysis demonstrates that ncVSD and subpulmonic VSD 
+had comparable survival outcomes regardless of repair 
+pathway. Moreover, in addition to the newer techniques 
+such as double-root translocation—many of which have un-
+certain long-term outcomes—we have demonstrated excel-
+lent results with traditional repair approaches. While BVR 
+offers benefits for patients with subaortic VSD, its advan-
+tages in other subtypes may be more nuanced. The lack of 
+a significant difference in survival potentially could be 
+attributed to the technical demands of rerouting the VSD, 
+increased risk of LVOTO, or valvar dysfunction in complex 
+BVR repairs. 18,22,23 Furthermore, the deleterious impact of 
+SVP circulation might not be realized during this follow-up 
+period. Additional data, including liver pathology, exercise 
+restriction, and health-related quality of life, are needed to 
+definitively compare SVP with BVR in this population. 
+Nonetheless, it is clear that BVR remains the preferred 
+strategy for subaortic VSD, but a more individualized 
+approach should be taken for determining the optimal 
+pathway for ncVSD and subpulmonic VSD. Further
+100%
+Freedom from
+ reintervention
+75%
+50%
+25%
+0%
+P = .04
+0 5 10 15 20
+Time in Years 
+Number at risk
+C Strata BV repair Single V
+34 23 16 1169
+28 19 16 12 6
+100%
+Freedom from
+ reintervention
+75%
+50%
+25%
+0%
+P = .51
+100%
+Freedom from
+reintervention
+75%
+50%
+25%
+0%
+P = .15
+Time in YearsTime in Years 
+0 2 4 6 8 10 0 2 4 6 8 10 12 14 
+Number at riskNumber at risk 
+A BStrata Fontan BV repair
+ Strata Fontan BV repair
+17 5 5 5 5 57 3 2 2 2 1 1 1 
+6 3 2 2 1 110 7 7 5 5 4 3 2 
+FIGURE 4. Kaplan-Meier analysis displaying freedom from first- time reintervention for ncVSD, subpulmonary VSD, and subaortic VSD. Shaded areas 
+indicate 95% confidence intervals. A, Freedom from reintervention among the cohort of patients with noncommitted VSD (ncVSD) stratified by Fontan 
+(orange) vs biventricular repair (green). B, Freedom from reintervention among the cohort of patients with subpulmonary VSD stratified by Fontan vs bi-
+ventricular repair. C, Freedom from reintervention among the cohort with subaortic VSD stratified by Fontan vs biventricular repair. VSD, Ventricular septal 
+defect; BV, biventricular.
+6 JTCVS Open c April 2026
+Congenital: Right Ventricle Robinson et al
+[[p7]]
+investigation of long-term functional outcomes, including 
+quality of life metrics, will be crucial in refining surgical de-
+cision making for these patients.
+BVR in DORV with Subaortic VSD
+Our results confirm that among DORV subtypes, sub-
+aortic VSD is the most favorable candidate for BVR, as 
+anticipated and has been reported by others. 3,5,6 Although 
+most patients with subaortic VSD were suitable for BVR, 
+a subset in our cohort underwent SVP. Patients selected 
+for SVP typically exhibited hypoplasia of the left and/or 
+right ventricle in conjunction with additional anatomic 
+complexities, such as mitral valve atresia, pulmonary 
+atresia, diminutive pulmonary arteries, or a straddling 
+tricuspid valve. Nevertheless, our results align with existing 
+literature emphasizing subaortic VSD as the simplest 
+anatomic DORV subtype to repair owing to its favorable 
+VSD–great artery alignment, reducing the need for complex 
+intracardiac tunneling. 24
+BVR Does Not Increase the Reintervention Rate
+Although BVR is associated with better survival, lower 
+transplantation rates, and nearly equivalent reintervention 
+rates compared to SVP, it does not obviate the need for 
+future reintervention. As shown in Table 2, overall 64 of 
+238 patients needed at least 1 reintervention, with compara-
+ble proportions of reintervention in the BVR (48 of 141) and 
+SVP (16 of 97) groups. Although the difference is not statis-
+tically significant, it holds clinical significance, with 
+notable variations in the nature of reinterventions. Patients 
+undergoing BVR were more likely to require RVOT reinter-
+ventions, which may reflect the technical demands of intra-
+cardiac tunneling procedures that can reduce the effective 
+RV volumes, simply the need for RV–pulmonary artery 
+conduit upsizing or replacement, or the need for pulmonary 
+valve replacement in patients receiving a transannular 
+patch. In contrast, SVP patients largely needed collateral 
+occlusions, tricuspid valve repairs, and SVP fenestration 
+closure, emphasizing the long-term hemodynamic burden 
+of SVP and reinforcing concerns about progressive SVP 
+failure over time. 25-28
+No significant differences between the BVR and SVP 
+groups were observed with regard to freedom from reinter-
+vention at 14 years for ncVSD and subpulmonic VSD sub-
+types. This suggests that BVR does not necessarily reduce 
+the need for later reinterventions in complex DORV vari-
+ants, potentially due to residual VSD, conduit obstruction, 
+or pulmonary valve dysfunction. 29,30 These findings empha-
+size that while BVR may improve survival, its impact on 
+morbidity in these subtypes remains undefined. Future 
+research should examine whether modifications to BVR 
+strategies can improve long-term durability in these patients.
+SVP outcome studies have identified several complica-
+tions, including progressive circulatory failure, ventricular 
+dysfunction, arrhythmias, and protein-losing enteropathy, 
+along with an increased rate of heart transplantation. 31-33 
+Our findings emphasize the life-long implications of the 
+initial surgical decision, reinforcing the importance of BVR 
+whenever technically feasible to avoid SVP-related 
+complications.
+Our findings indicate that heterotaxy-related anomalies 
+such as persistent left superior vena cava and complete 
+atrioventricular septal defect were significantly more prev-
+alent in patients who underwent SVP. This suggests that het-
+erotaxy may remain an important factor in choosing SVP 
+over BVR, potentially because of associated systemic and 
+pulmonary venous anomalies complicating intracardiac 
+repair in BVR. 34,35 These anatomic considerations should 
+remain key factors in surgical decision making for DORV 
+patients, particularly in borderline cases where either 
+BVR or SVP could be performed.
+Additionall y, our findings support a patient-speci fic, 
+anatomy-dri ven approach to DORV surgical decision 
+making. Given its superior survival and lower transplanta -
+tion rates compared to SVP, BVR should be prioritized  
+whenever technically  feasible. Patients with ncVSD and 
+subpulmonic  VSD DORV should not be excluded auto-
+matically;  rather, when there is clinical uncertainty  
+regarding feasibility  of BVR, we recommend consultation  
+with a high-volume  center experienced  in complex DORV 
+repair. Furthermor e, patients selected for SVP require 
+close surveillance  for late complications,  particularly  
+collateral  formation,  valve dysfunction,  and progressive 
+heart failure.
+Study Limitations
+Several limitations are present in our study. As a single-
+center retrospective study, our findings might not be gener-
+alizable to other centers, which may use different surgical 
+approaches for each DORV variant. Additionally, selection 
+bias may have influenced the initial decision making pro-
+cess regarding whether patients underwent BVR or SVP. 
+Our cohort included some patients who were diagnosed 
+and underwent surgical procedures at other institutions 
+before presenting to our center, which complicated compar-
+isons, particularly regarding operative data and follow-up 
+care prior to presentation at our institution.
+Furthermor e, our study spans 4 decades of managing 
+patients with DORV, introducin g a potential era effect, 
+as advances in surgical techniques,  perioperati ve manage-
+ment, and follow-up care may have influenced outcomes. 
+Improvements in BVR and SVP techniques  and postoper-
+ative monitoring  may have led to better survival and 
+reduced morbidity in recent years compared to earlier 
+cohorts.
+JTCVS Open c Volume 30, Number C 7
+Robinson et al Congenital: Right Ventricle
+[[p8]]
+Future studies should aim to incorporate new technolo-
+gies, such as advanced preoperative imaging and computa-
+tional modeling, into the risk stratification and surgical 
+decision making process for DORV patients. Advances in 
+3-dimensional modeling and printing techniques have shown 
+potential in guiding intracardiac rerouting strategies, allow-
+ing for patient-specific surgical planning to optimize BVR 
+feasibility and outcomes. 36 Incorporating these technologies, 
+as well as newer surgical techniques, into multicenter collab-
+orations may further refine patient selection and improve 
+long-term surgical outcomes for DORV patients.
+CONCLUSIONS
+Our study demonstrates that BVR is associated with su-
+perior long-term survival and reduced transplantation rates 
+compared to SVP in DORV patients. Although BVR may be 
+technically challenging for ncVSD and subpulmonic VSD, 
+our findings suggest that BVR can be successful in these pa-
+tients with proper surgical planning, reinforcing its role as 
+the preferred approach whenever feasible. Our BVR group 
+had reinterventions primarily associated with outflow tract 
+and pulmonary valve procedures, whereas our SVP patients 
+primarily had reinterventions associated with SVP compli-
+cations. Additionally, such factors as heterotaxy and sys-
+temic/pulmonary venous anomalies also may influence 
+surgical decision making by favoring SVP in certain cases. 
+Our study provides important data regarding the long-term 
+outcomes of patients who underwent BVR or SVP repairs 
+for DORV, highlighting ideas for future investigations 
+regarding health-related quality of life. Multicenter valida-
+tion is needed to further refine BVR eligibility criteria for 
+DORV patients.
+Audio
+Audio Recording: You can listen to the audio recording 
+of the presentation and discussion associated with this pa-
+per: https://doi.org/10.1016/j.xjon.2026.101694.
+Conflict of Interest Statement
+The authors reported no conflicts of interest.
+The Journal policy requires editors and reviewers to 
+disclose conflicts of interest and to decline handling or re-
+viewing manuscripts for which they may have a conflict 
+of interest. The editors and reviewers of this article have 
+no conflicts of interest.
+References
+PM?v?gkK?l?bK?s?bhK?i?ioK?kLf?eK?
+Jacobs ML. Congenital Heart Surgery Nomenclature and Database Project: dou-
+ble outlet right ventricle. Ann Thorac Surg. 2000;69(4 Suppl):S249-S263. https:// 
+doi.org/10.1016/S0003-4975(99)01247-3
+2. Lev M, Bharati S, Meng CC, Liberthson RR, Paul MH, Idriss F. A concept of 
+double-outlet right ventricle. J Thorac Cardiovasc Surg. 1972;64(2):271-281. 
+https://doi.org/10.1016/s0022-5223(19)41769-8
+3. Oladunjoye O, Piekarski B, Baird C, et al. Repair of double outlet right ventricle: 
+midterm outcomes. J Thorac Cardiovasc Surg. 2020;159(1):254-264. https://doi. 
+org/10.1016/j.jtcvs.2019.06.120
+4. Li S, Ma K, Hu S, et al. Surgical outcomes of 380 patients with double outlet right 
+ventricle who underwent biventricular repair. J Thorac Cardiovasc Surg. 2014; 
+148(3):817-824. https://doi.org/10.1016/j.jtcvs.2014.06.020
+5. Bradley TJ, Karamlou T, Kulik A, et al. Determinants of repair type, reintervention, 
+and mortality in 393 children with double-outlet right ventricle. J Thorac Cardio-
+vasc Surg. 2007;134(4):967-973.e6. https://doi.org/10.1016/j.jtcvs.2007.05.061
+6. Lacour-Gayet F, Zoghbi J, Gouton M, et al. Multicentre study on late outcomes of 
+biventricular repair of double outlet right ventricle. Eur J Cardiothorac Surg. 
+2024;65(1):ezad423. https://doi.org/10.1093/ejcts/ezad423
+7. Kirklin JW, Pacifico AD, Bargeron LM, Soto B. Cardiac repair in anatomically 
+corrected malposition of the great arteries. Circulation. 1973;48(1):153-159. 
+https://doi.org/10.1161/01.CIR.48.1.153
+8. Putter H, Fiocco M, Gekus RB. Tutorial in biostatistics: competing risk and multi-
+state models. Stat Med. 2007;26(11):2389-2430. https://doi.org/10.1002/sim.2712
+9. Therneau TCCAE. Competing risks and multistate models; 2024. Accessed 
+January 18, 2025. https://cran.r-project.org/web/packages/survivalVignettes/ 
+vignettes/tutorial.html
+10. Pessotto R, Padalino M, Rubino M, Kadoba K, Buchler JR, Van Praagh R. Strad-
+dling tricuspid valve as a sign of ventriculoatrial malalignment: a morphometric 
+study of 19 postmortem cases. Am Heart J. 1999;138(6 I):1184-1195. https://doi. 
+org/10.1016/S0002-8703(99)70086-4
+11. Barbero-Marcial M, Tanamati C, Atik E, Ebaid M. Intraventricular repair of 
+double-outlet right ventricle with noncommitted ventricular septal defect: advan-
+tages of multiple patches. J Thorac Cardiovasc Surg. 1999;118(6):1056-1067. 
+https://doi.org/10.1016/S0022-5223(99)70102-9
+12. Serraf A, Nakamura T, Lacour-Gayet F, et al. Surgical approaches for double-
+outlet right ventricle or transposition of the great arteries associated with strad-
+dling atrioventricular valves. J Thorac Cardiovasc Surg. 1996;111(3):527-535. 
+https://doi.org/10.1016/S0022-5223(96)70304-5
+13. Anderson RH. Surgical repair of straddling and overriding tricuspid valve. Car-
+diol Young. 1997;7(2):122-128. https://doi.org/10.1017/S1047951100009355
+14. Belli E, Serraf A, Lacour-Gayet F, et al. Double-outlet right ventricle with non-
+committed ventricular septal defect. Eur J Cardiothorac Surg. 1999;15(6): 
+747-752. https://doi.org/10.1016/S1010-7940(99)00100-1
+15. Belli E, Serraf A, Lacour-Gayet F, et al. Surgical treatment of subaortic stenosis 
+after biventricular repair of double-outlet right ventricle. J Thorac Cardiovasc 
+Surg. 1996;112(6):1570-1578. https://doi.org/10.1016/S0022-5223(96)70016-8
+16. Werner H, Lehmann P, R€uegg A, Hilfiker S, Steinmann K, Balmer C. Health-
+related quality of life outcomes in pediatric patients with cardiac rhythm devices: 
+a cross-sectional study with case-control comparison. Health Qual Life Out-
+comes. 2019;17(1):152. https://doi.org/10.1186/s12955-019-1219-5
+17. Czosek RJ, Bonney WJ, Cassedy A, et al. Impact of cardiac devices on the quality 
+of life in pediatric patients. Circ Arrhythm Electrophysiol. 2012;5(6):1064-1072. 
+https://doi.org/10.1161/CIRCEP.112.973032
+18. Lacour-Gayet F, Haun C, Ntalakoura K, et al. Biventricular repair of double 
+outlet right ventricle with non-committed ventricular septal defect (VSD) by 
+VSD rerouting to the pulmonary artery and arterial switch. Eur J Cardiothorac 
+Surg. 2002;21(6):1042-1048. https://doi.org/10.1016/S1010-7940(02)00105-7
+19. Hu S, Xie Y, Li S, et al. Double-root translocation for double-outlet right 
+ventricle with noncommitted ventricular septal defect or double-outlet right 
+ventricle with subpulmonary ventricular septal defect associated with pulmonary 
+stenosis: an optimized solution. Ann Thorac Surg. 2010;89(5):1360-1365. https:// 
+doi.org/10.1016/j.athoracsur.2010.02.007
+20. Stoica S, Kreuzer M, Dorobantu DM, et al. Aortic root translocation and en bloc 
+rotation of the outflow tracts surgery for complex forms of transposition of the great 
+arteries and double outlet right ventricle: a multicenter study. J Thorac Cardiovasc 
+Surg. 2022;164(5):1249-1260. https://doi.org/10.1016/j.jtcvs.2022.05.047
+21. Lu T, Li J, Hu J, et al. Biventricular repair of double-outlet right ventricle with 
+noncommitted ventricular septal defect using intraventricular conduit. J Thorac Car-
+diovasc Surg. 2020;159(6):2397-2403. https://doi.org/10.1016/j.jtcvs.2019.07.084
+22. Li S, Ma K, Hu S, et al. Biventricular repair for double outlet right ventricle with 
+non-committed ventricular septal defect. Eur J Cardiothorac Surg. 2015; 
+48(4):ezu523. https://doi.org/10.1093/ejcts/ezu523
+23. Artrip JH, Sauer H, Campbell DN, et al. Biventricular repair in double outlet right 
+ventricle: surgical results based on the STS-EACTS International Nomenclature 
+classification. Eur J Cardiothorac Surg. 2006;29(4):545-550. https://doi.org/10. 
+1016/j.ejcts.2005.12.038
+8 JTCVS Open c April 2026
+Congenital: Right Ventricle Robinson et al
+[[p9]]
+24. Brown JW, Ruzmetov M, Okada Y, Vijay P, Turrentine MW. Surgical results in
+patients with double outlet right ventricle: a 20-year experience. Ann Thorac 
+Surg. 2001;72(5):1630-1635. https://doi.org/10.1016/S0003-4975(01)03079-X
+25. Dorfman AL, del Nido PJ. The right ventricle and tricuspid valve in fontan fail-
+ure: a role for early surgical management. J Am Coll Cardiol. 2022;79(18): 
+1846-1848. https://doi.org/10.1016/j.jacc.2022.03.003
+26. Kamsheh AM, O’Connor MJ, Rossano JW. Management of circulatory failure
+after Fontan surgery. Front Pediatr. 2022;10:1020984. https://doi.org/10.3389/ 
+fped.2022.1020984
+27. Khairy P, Fernandes SM, Mayer JE, et al. Long-term survival, modes of
+death, and predictors of mortality in patients with Fontan surgery. Circulation. 
+2008;117(1):85-92. https://doi.org/10.1161/CIRCULATIONAHA.107.738559
+28. Deal BJ, Jacobs ML. Management of the failing Fontan circulation. Heart. 2012;
+98(14):1098-1104. https://doi.org/10.1136/heartjnl-2011-301133
+29. Bibevski S, Ruzmetov M, Mendoza L, et al. The destiny of postoperative residual
+ventricular septal defects after surgical repair in infants and children. World J Pe-
+diatr Congenit Heart Surg. 2020;11(4):438-443. https://doi.org/10.1177/ 
+2150135120918537
+30. Cetta F, Boston US, Dearani JA, Hagler DJ. Double outlet right ventricle: opin-
+ions regarding management. Curr Treat Options Cardiovasc Med. 2005;7(5): 
+385-390. https://doi.org/10.1007/s11936-005-0022-2
+31. Rychik J, Atz AM, Celermajer DS, et al. Evaluation and management of the child
+and adult with Fontan circulation: a scientific statement from the American Heart
+Association. Circulation. 2019;140(6):e234-e284. https://doi.org/10.1161/CIR. 
+0000000000000696
+32. Pundi KN, Johnson JN, Dearani JA, et al. 40-year follow-up after the Fontan 
+operation long-term outcomes of 1,052 patients. J Am Coll Cardiol. 2015; 
+66(15):1700-1710. https://doi.org/10.1016/j.jacc.2015.07.065
+33. D’Alonzo M, Brunelli F, Seddio F, et al. Heart transplantation following fontan 
+failure: long-term survival analysis. J Clin Med. 2024;13(10):2960. https://doi. 
+org/10.3390/jcm13102960
+34. Morales DLS, Braud BE, Booth JH, et al. Heterotaxy patients with total anoma-
+lous pulmonary venous return: improving surgical results. Ann Thorac Surg. 
+2006;82(5):1621-1627. https://doi.org/10.1016/j.athoracsur.2006.05.053
+35. Jacobs JP, Anderson RH, Weinberg PM, et al. The nomenclature, definition and 
+classification of cardiac structures in the setting of heterotaxy. Cardiol Young. 
+2007;17(Suppl 2):1-28. https://doi.org/10.1017/S1047951107001138
+36. Br€uning J, Kramer P, Goubergrits L, et al. 3D modeling and printing for complex 
+biventricular repair of double outlet right ventricle. Front Cardiovasc Med. 2022; 
+9:1024053. https://doi.org/10.3389/fcvm.2022.1024053
+Key Words: double-outlet right ventricle, outcomes, single 
+ventricle repair, biventricular repair, congenital heart dis-
+ease, VSD
+JTCVS Open c Volume 30, Number C 9
+Robinson et al Congenital: Right Ventricle

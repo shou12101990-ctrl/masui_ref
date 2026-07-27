@@ -1,0 +1,407 @@
+
+[[p1]]
+177© 2020 Saudi Journal of Anesthesia | Published by Wolters Kluwer ‑ Medknow
+Ahmad Abuzaid, Ibrahim Abd Elaal1, Ahmed Abdulaziz2, Rawan Abuzaid3
+Director of Cardiac Anesthesia and OR Department, 1Consultant of Cardiac Anesthesia, 2Senior Registrar of Cardiac Anesthesia, 
+Prince Sultan Cardiac Center, 3College of Pharmacy, King Saudi University, Riyadh, Saudi Arabia
+Address for correspondence: Dr. Ahmad Abuzaid, Director of Cardiac Anesthesia and OR Department, Prince Sultan Cardiac Center,  
+Riyadh, Saudi Arabia. E‑mail: aabuzaid@yahoo.com
+Submitted: 23‑Nov‑2019, Revised: 16‑Dec‑2019, Accepted: 22‑Dec‑2019, Published: 05‑Mar‑2020
+ABSTRACT
+Background: Unlike the typical tetralogy of fallot (TOF), the presence of pulmonary atresia and major aortopulmonary collaterals 
+is recognized as a rare but severe variant of TOF. The objective was to describe the perioperative anesthetic management 
+of pediatric patients who underwent unifocalization procedure and to describe their postoperative morbidity and mortality.
+Methods: A retrospective observational study was conducted among pediatric patients who underwent unifocalization 
+procedure at Prince Sultan Cardiac Center (PSCC) between October 2017 and October 2018. Unifocalization procedures 
+were performed in a two‑staged approach. Anesthetic management of both stages had similar concerns and challenges but 
+with few peculiar issues. These included preoperative assessment, intraoperative management, vascular access, positioning, 
+ventilation, optimizing hemodynamics, cardiopulmonary bypass monitoring, and postoperative management.
+Results: A total of 19 unifocalization procedures were included. The average age was one year and 52.6% were females. 
+Two patients (10.5%) arrived in theater already with intubated ventilation. Continuous mandatory ventilation was used in 
+11 (57.9%) patients while one‑lung ventilation was used in the rest of patients. Approximately, 30% of patients encountered 
+a stormy postoperative course, 52.6% underwent cardiopulmonary bypass with or without cross‑clamping of the aorta, and 
+10.5% had reperfusion injury.
+Conclusions: Despite the major challenges of unifocalization, significantly low rates of morbidity and mortality were observed 
+in our patients. A thorough familiarity of different airway and ventilation issues, besides meticulous hemodynamic and anesthetic 
+management, is of paramount importance. The maintenance of hemodynamic stability, hemostasis, and proper ventilation 
+is critical for the success of the operation.
+Key words: Anesthetic management; tetralogy of fallot; unifocalization procedures
+Introduction
+Tetralogy of fallot (TOF) is a common congenital heart disease 
+characterized by pulmonary stenosis, ventricular septal 
+defect (VSD), right ventricular hypertrophy, and overriding 
+of the aorta. [1‑3] Unlike the typical TOF , the presence of 
+pulmonary atresia and major aortopulmonary collaterals 
+Anesthetic management in tetralogy of fallot with pulmonary 
+atresia and major aortopulmonary collateral arteries in pediatric 
+patients: One year experience
+This is an open access journal, and articles are distributed under the 
+terms of the Creative Commons Attribution‑NonCommercial‑ShareAlike 
+4.0 License, which allows others to remix, tweak, and build upon the 
+work non‑commercially, as long as appropriate credit is given and 
+the new creations are licensed under the identical terms.
+For reprints contact: reprints@medknow.com
+How to cite this article: Abuzaid A, Elaal IA, Abdulaziz A, Abuzaid R. 
+Anesthetic management in tetralogy of fallot with pulmonary atresia and 
+major aortopulmonary collateral arteries in pediatric patients: One year 
+experience. Saudi J Anaesth 2020;14:177‑81.
+Original Article
+Access this article online
+Website:
+www.saudija.org
+Quick Response Code
+DOI:
+10.4103/sja.SJA_725_19
+[[p2]]
+Abuzaid, et al.: One year experience
+178 Saudi Journal of Anesthesia / V olume 14 / Issue 2 / April‑June 2020
+in patients with TOF  (TOF/PA/MAPCAs) is recognized as 
+a rare but severe variant of TOF . [1‑3] Unlike the surgical 
+management of TOF/PA/MAPCAs which has been extensively 
+described in the literature, the anesthetic management 
+of such a complex procedure received little attention. 
+The objective of the current study was to describe the 
+perioperative anesthetic management of pediatric patients 
+who underwent unifocalization procedure at Prince Sultan 
+Cardiac Center (PSCC), as well to describe postoperative 
+morbidity and mortality among these patients.
+Methods
+Setting and patient selection
+The current study is a retrospective observational study 
+conducted at PSCC between the beginning of October 2017 
+and mid‑October 2018. It included all 19 pediatric patients 
+who were admitted to the operative room (OR) at PSCC for 
+either a unilateral or bilateral unifocalization procedure as 
+a surgical correction of TOF/PA/MAPCAs.
+Surgical approach
+The extreme variations in the number and course of collaterals 
+in patients with TOF/PA/MAPCAs require individualization 
+of the surgical approach. The surgeons at PSCC followed a 
+two‑staged approach in performing unifocalization procedure. 
+The main advantage of such a staged approach is to allow small 
+native central pulmonary arteries to grow. From the surgical 
+point of view, the first stage involves a thoracotomy along with 
+unilateral unifocalization of the MAPCAs into a single vascular 
+graft that is connected to the systemic circulation by a central 
+shunt. The second stage which is usually performed after at 
+least 3 months from the first one involves a median sternotomy 
+incision and the unifocalization of the other side of MAPCAs 
+into a new graft. The earlier central shunt is then removed and 
+the two vascular grafts (right and left) are connected together 
+and then to the right ventricle (RV). The connection to the RV 
+can be performed through the native pulmonary artery or via 
+a synthetic conduit. Finally, the VSD is closed.
+Anesthetic management
+The information herewith is focusing on crucial and 
+specific anesthetic management information that should 
+be in the mind of anesthetists who are planning to handle 
+unifocalization procedures. They are presented separately 
+for each stage.
+Anesthetic management of the first stage of correction
+Preoperative assessment
+The preoperative assessment of the extent and severity of 
+TOF/PA/MAPCAs was performed with the primary cardiology 
+team. Furthermore, the anesthetist had at least one 
+preoperative meeting with the surgical team to evaluate other 
+comorbidities and congenital anomalies. The implemented 
+overnight preparation protocol ensured to minimize fasting 
+hours. Intravenous (IV) maintenance fluid was then started 
+using 5% dextrose in water and diluted normal saline which 
+contains 10 mmol potassium chloride in 500 mL. Overnight 
+sedation was not usually performed due to the risk of hypoxia. 
+Upon arrival to OR reception, IV sedation was performed with 
+ketamine 1 mg/kg plus glycopyrrolate 5 µg/kg.
+Intraoperative management
+After patient assumed supine position over bear hugger air 
+warming blanket, monitoring was done through three leads 
+ECG, pulse oximeter, noninvasive measurement of blood 
+pressure (NIBP), and near‑infrared spectroscopy (NIRS). The 
+mainstay induction protocol included IV induction with 
+ketamine 2 mg/kg, fentanyl 5 µg/kg and intubation facilitated 
+with rocuronium 1 mg/kg. The fraction of inspired oxygen (FiO2) 
+used during induction and maintenance was variable according 
+to the degree of preoperative pulmonary over‑circulation. NIBP 
+was done frequently during induction to maintain a level of 
+oxygenation and blood pressure that can appropriately balance 
+the pulmonary to systemic blood flow ratio (Qp/Qs). Single 
+lumen tracheal tube (TT) with bronchial blocker (Arndt Pediatric 
+Endobronchial Blocker, Cook Medical, USA) was used for lung 
+separation. Fiberoptic confirmation of final site and balloon 
+inflation was performed after passing the blocker beside the TT . 
+Finally, different lung areas were auscultated to ensure proper 
+lung separation. Balanced anesthesia was then established using 
+fentanyl infusion 4–10 µg/kg/h in combination with inhaled 
+sevoflurane (1‑2 minimum alveolar concentration) and repeated 
+boluses of rocuronium 1.2 mg/kg.
+Vascular access
+Arterial catheter was inserted into the femoral artery and 
+a central venous catheter was routinely inserted into the 
+right internal jugular in all patients. While femoral venous 
+cannulation is advisable, bilateral femoral venous was avoided 
+in the majority of patients in order to spare these vessels for 
+future cardiac catheterization procedures.
+Positioning
+Lateral positioning was conducted after TT placement and 
+confirmation. It is of paramount importance for the anesthetic 
+to experience extreme caution while placing a pediatric 
+patient in position. Finally, reconfirmation of integrity of TT 
+site and passage should be done after complete positioning.
+Ventilation
+One‑lung ventilation in pediatric patients is generally 
+challenging, due to the fact that the ventilated lung 
+[[p3]]
+Abuzaid, et al.: One year experience
+179Saudi Journal of Anesthesia / V olume 14 / Issue 2 / April‑June 2020
+blood flow is already compromised by the aberrant 
+blood vessels. Single‑dose of corticosteroids (1–2 mg/kg 
+methylprednisolone) was given to minimize the reperfusion 
+injury. More importantly, lung volume was restricted and 
+hypervolemia was avoided while keeping hemoglobin (Hb) 
+level above 15–16 g/dL. In addition, nitric oxide, frequent 
+endotracheal suctioning, and aggressive pulmonary care with 
+metered‑dose inhaler (MDI) ventolin puffs were implemented 
+to tackle this problem. Analysis of arterial blood gases (ABGs) 
+was done every 30 min to early detect and aggressively 
+manage any acid‑base, oxygenation, and electrolytes 
+abnormalities. Heparin boluses of 50–100 IU were repeated 
+with the aim to keep activated clotting time (ACT) between 
+200 s and 250 s to avoid closure of anastomosis.
+Hemodynamics and postoperative management
+Optimal fluid balance with acceptable Hb level was ensured. 
+Furthermore, small doses of vasopressors and/or inotropic 
+infusions were commenced in some patients. Acidosis 
+and imbalance of electrolytes were vigorously corrected. 
+The patients were transferred to a pediatric intensive care 
+unit (PICU) after the first stage of surgical correction. As early 
+extubation should not be done, the patients were kept on 
+sedated ventilation to optimize the lung conditions.
+Anesthetic management of the second stage of correction
+Preoperative assessment
+The preoperative assessment involved taking the history 
+of the previous unifocalization procedure. A computed 
+tomography (CT) of the chest to evaluate the space between 
+the sternum and anterior border of the heart.
+Intraoperative course
+During the completion of unifocalization procedure, some 
+patients required cardio‑pulmonary bypass (CPB) with 
+or without cross‑clamping (CC) of the Aorta. Balanced 
+anesthesia on bypass was ensured. This included IV fentanyl 
+infusion 4 µg/kg/h during the period of CPB, along with 
+inhaled sevoflurane. Finally, repeated boluses of rocuronium 
+1.2 mg/kg and small dose of midazolam 0.1–0.2 mg/kg were 
+administered.
+Ventilation
+To avoid post‑bypass  reperfusion injury, frequent suctioning 
+was done and aggressive pulmonary care was given to clear 
+the airways of blood. In addition, recruitment maneuvers and 
+increased positive end‑expiratory pressure were required to 
+recruit atelectatic lung segments and potentially minimize 
+further hemorrhage. To improve the tolerability of RV for 
+the new circulatory changes, gradual weaning or addition of 
+inhaled nitric oxide was done. Open chest with or without 
+extracorporeal membrane oxygenation (ECMO) insertion 
+could be additional last resort. Coagulopathy is common after 
+bypass and frequently requires blood product administration.
+Hemodynamics and postoperative management
+Meticulous lines’ connections and high flow rate were 
+ensured after considering the patient’s age, body weight, 
+and body surface area. Continued assessments of end‑organ 
+functions were ensured through maintaining target MAP , 
+in‑line measurement of mixed venous saturation, pH, base 
+excess, regular testing of blood for heparin and lactate levels, 
+and other indices of end‑organ perfusion including urine 
+output, somatic, and cerebral oxygenation values (e.g., NIRS). 
+All patients were transferred to PICU on sedated ventilation 
+to optimize the lung conditions.
+Results
+We had a total of 19 unifocalization procedures in PSCC 
+during the one‑year of the study. While the majority of 
+patients underwent the previously mentioned two‑staged 
+correction, one patient underwent three‑stage correction 
+over a course of more than 2 years. The average age at 
+operation was one year, ranging from 9 days to 2 years. 
+Approximately three‑fourth (77%) of the patients aged one 
+year or less. Roughly, males and females were similarly 
+represented (47.4% and 52.6%, respectively). The average 
+duration for each operation was 9 h, ranging from 4 h to 
+15 h. The average ICU stay was 10 days, ranging from 3 days 
+to almost a year.
+Preoperative assessment showed some additional congenital 
+anomalies in 4 (21.1%) patients, as shown in Table 1. Two 
+patients arrived in theater already with intubated ventilation 
+and on vasoactive drugs (epinephrine and dopamine), and 
+alprostadil (prostaglandin E1) infusions [Table 2]. Continuous 
+mandatory ventilation was used in 11 (57.9%) patients while 
+one‑lung ventilation was used in the rest of patients [Table 3].
+The postoperative ICU course in the first stage of correction 
+was variable, with 30% of patients encountered a stormy 
+Table 1: Additional congenital anomalies in patients with 
+TOF/PA/MAPCAs
+Number Percentage
+DiGeorge syndrome, seizure disorder, and 
+multiple emphysematous bullae
+1 5.3%
+Glaucoma 1 5.3%
+Hydronephrosis with normal kidney function 1 5.3%
+Lactose intolerance 1 5.3%
+None 15 78.9%
+Total 19 100.0%
+[[p4]]
+Abuzaid, et al.: One year experience
+180 Saudi Journal of Anesthesia / V olume 14 / Issue 2 / April‑June 2020
+from typical correction of TOF . Despite the major challenges 
+of unifocalization, significantly low rates of morbidity and 
+mortality were observed in our patients. Despite the fact 
+that there are various approaches for the management of 
+TOF/PA/MAPCAs,[4‑9] the extreme variation in the anatomy 
+should be stressed, which requires individualization of the 
+approach used for individual patients.
+The surgical approached conducted in our center was 
+two‑staged correction. This allows small native central 
+pulmonary arteries to grow gradually. The later can result in 
+augmentation of blood flow to the central pulmonary arteries, 
+which can enhance the rehabilitation outcomes. Because of 
+its complex anatomy, each surgical stage has its own risks 
+and challenges in addition to the usual problems anticipated 
+in both stages. Preoperative meticulous assessment is a must 
+in both stages. A common associated anomaly is DiGeorge 
+syndrome, which was observed in one patient in our study. 
+It is usually associated with absent thymus, hypocalcemia, 
+and a difficult airway.[10]
+In the first stage of correction, the main challenge was to 
+keep acceptable blood gases throughout the procedure. 
+Arendt blocker passed beside the TT for lung isolation was 
+our choice. The adjustment of the blocker site to secure the 
+airway and maintain ventilation especially after repositioning 
+laterally is very tricky and demands expertise. Repeated 
+ABG sampling and correction of oxygenation, ventilation, 
+and acidosis was the mainstay element in our anesthetic 
+management. In our center, the management policy stipulates 
+to repeat ABG sampling regularly every 30 min.
+In the second stage of correction, CPB was required in 
+almost a third of patients, specifically when saturation 
+remains low (around 70%) despite all correction measured 
+applied. Lung reperfusion injury in the setting of 
+unifocalization surgery has been estimated in the previous 
+studies at 65%. [11] Although only two patients (10.5%) had 
+lung reperfusion injury in our study, more research should 
+be conducted to underscore the significance of certain 
+practices to tackle such a problem during unifocalization 
+procedures. Proton pump inhibitor in a single dose with 
+corticosteroid was used to decrease the incidence of 
+reperfusion injury in both stages. RV dysfunction occurrence 
+is usually secondary to increased afterload because of an 
+inadequate pulmonary vascular bed. The key management 
+strategies were optimization of preload, starting inotropic 
+support, and proper adjustment of ventilation with the 
+aim of decreasing pulmonary vascular resistance. Inhaled 
+nitric oxide may provide assistance as a potent short‑acting 
+pulmonary vasodilator in this setting.
+postoperative course. The duration of mechanical ventilation 
+ranged from 1 to 5 days and the patients were discharged from 
+ICU within 3 to 10 days. For completion of unifocalization, 
+6 patients underwent CPB with CC. As shown in Table 4, the 
+mean time for CPB was 230 min and the mean time for CC 
+was 75 min. CPB without CC was conducted in two patients 
+with a mean time of 275 min. Surgical management without 
+CPB was performed in the remaining patients.
+While the main post‑bypass intraoperative pharmacological 
+support was milrinone 0.5 to 0.75 µg/kg/min, four patients did 
+not receive any inotropic drugs. Inhaled nitric oxide 20 ppm 
+was used in 4 patients. One patient shifted to ICU with open 
+chest while no patients needed ECMO insertion. With the 
+exception of one patient, the majority of the patients had 
+a smooth postoperative ICU stay. One patient experienced 
+a remarkable volatile ICU course for almost a year. Another 
+patient underwent catheter‑based coil embolization of 
+MAPCs and three patients underwent surgical diaphragmatic 
+plication. One patient suffered sepsis (pneumonia and urinary 
+tract infection). Finally, two patients had reperfusion injury 
+with lung congestion and failed extubation, hypertension 
+with oral antihypertensive drugs, and gastrointestinal stress 
+ulcers.
+Discussion
+While unifocalization is considered a variant of TOF , the 
+management of anesthetic problems differs considerably 
+Table 2: Induction in patients undergoing unifocalization 
+procedure
+Number Percentage
+Arrival to OR with mechanical 
+ventilation and ETT in situ
+2 10.5%
+Inhalational 2 10.5%
+Intravenous 15 78.9%
+Total 19 100.0%
+Table 3: Bronchial blocker and ventilation during unifocalization 
+procedure
+Number Percentage
+Bronchial blocker
+No 12 63.2%
+Yes 7 36.8%
+Type of ventilation
+Continuous mandatory ventilation 11 57.9%
+One-lung ventilation 8 42.1%
+Table 4: Average time in minutes of CPB with CC
+Number Mean Minimum Maximum
+Cardiopulmonary bypass 6 230 159 316
+b?????S?VT?SO?PTQ
+[[p5]]
+Abuzaid, et al.: One year experience
+181Saudi Journal of Anesthesia / V olume 14 / Issue 2 / April‑June 2020
+In conclusion, the anesthesiologist is a key factor in the 
+management of this uncommon group of patients. A thorough 
+familiarity of different airway and ventilation issues, besides 
+meticulous hemodynamic and anesthetic management, is of 
+paramount importance. The maintenance of hemodynamic 
+stability, hemostasis, and proper ventilation in a precise 
+manner is critical for the success of the operation. Despite 
+the fact that our approach in anesthetic management has 
+been established based on the surgical practices at PSCC, 
+we believe that our experience may be useful for other 
+anesthesiologists caring for similar patients.
+Financial support and sponsorship 
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+References
+PM	?g	?xK	s	nK	t	nK	j	jK	m	sK	j	lM	
+Anesthetic management of patients undergoing bilateral uni‑focalization. 
+Anesth Analg 1993;76:755‑9.
+2.	 Quinonez	 ZA,	Downey	L,	Abbasi	RK,	Kuan	C,	Asija	R,	McElhinney	DB,	
+et al. Anesthetic management during surgery for tetralogy of fallot with 
+pulmonary atresia and major aortopulmonary collateral arteries. World 
+J Pediatr Congenit Heart Surg 2018;9:236‑41.
+3. Marelli AJ, Mackie AS, Ionescu‑Ittu R, Rahme E, Pilote L. Congenital 
+heart disease in the general population: Changing prevalence and age 
+distribution. Circulation 2007;115:163‑72.
+4.	 Reddy	 VM,	Petrossian	 E,	McElhinney	 DB,	Moore	 P,	Teitel	DF,	
+Hanley	FL,	et al. One‑stage complete unifocalization in infants: When 
+should	the	ventricular	septal	defect	be	closed?	J	Thorac	Cardiovasc	Surg	
+1997;113:858‑66.
+5.	 Reddy	 VM,	Liddicoat	JR,	Hanley	FL.	Midline	one	stage	complete	
+unifocalization and repair of pulmonary atresia with ventricular septal 
+defect	and	major	aortopulmonary	collaterals.	J	Thorac	Cardiovasc	Surg	
+1995;109:832‑45.
+6.	 Watanabe	 N,	Mainwaring	RD,	Reddy	VM,	Palmon	M,	Hanley	FL.	Early	
+complete repair of pulmonary atresia with ventricular septal defect and 
+major	aortopulmonary	collaterals.	Ann	Thorac	Surg	2014;97:909-15.
+7.	 Mainwaring 	RD,	Reddy	VM,	Perry	SB,	Peng	L,	Hanley	FL.	Late	
+outcomes in patients undergoing aortopulmonary window for pulmonary 
+atresia/stenosis	and	major	aortopulmonary	collaterals.	Ann	Thorac	Surg	
+2012;94:842‑8.
+8.	 Malhotra	 SP,	Hanley	FL.	Surgical	management	of	pulmonary	atresia	
+with ventricular septal defect and major aortopulmonary collaterals: 
+A	protocol-based	approach.	Semin	Thorac	Cardiovasc	Surg	Pediatr	
+Card Surg Annu 2009;145‑51.
+9. Carillo SA, Mainwaring RD, Patrick WL, Bauser‑Heaton HD, Peng L, 
+Reddy VM, et al. Surgical repair of pulmonary atresia with ventricular 
+septal defect and major aortopulmonary collaterals with absent 
+intrapericardial	pulmonary	arteries.	Ann	Thorac	Surg	2015;100:606-14.
+10.	 Yeoh	 TY,	Scavonetto	 F,	Hamlin	 RJ,	 Burkhart 	HM,	 Sprung	 J,	
+Weingarten	TN.	Perioperative	management	of	patients	with	DiGeorge	
+syndrome undergoing cardiac surgery. J Cardiothorac Vasc Anesth 
+2014;28:983‑9.
+11.	 Maskatia	SA,	Feinstein	JA,	Newman	B,	Hanley	FL,	Roth	SJ.	Pulmonary	
+reperfusion injury after the unifocalization procedure for tetralogy of 
+Fallot,	pulmonary	atresia,	and	major	aortopulmonary	collateral	arteries.	
+J	Thorac	Cardiovasc	Surg	2012;144:184-9.

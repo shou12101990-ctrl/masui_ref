@@ -1,0 +1,1144 @@
+
+[[p1]]
+日集中医誌　J Jpn Soc Intensive Care Med　Vol. 24 Suppl 2
+－S 174 －
+CQ16：敗血症における DIC 診断と治療
+1）敗血症における凝固・線溶状態の変化
+敗血症が重症化する過程において，凝固・線溶異常
+は早期から認められ，DIC を合併すると，多臓器障害
+による死亡リスクは著しく増加する  1）， 2）。これは，
+敗血症における DIC の本態は全身性の著しい凝固活
+性化状態であり，血管内凝固による微小循環障害が臓
+器障害の誘因となることによると考えられている  3）。
+DIC では凝固の活性化に応じて線溶機能も亢進する
+が，その程度は基礎疾患によって異なり，DIC は線溶
+抑制型と線溶亢進型に分類することができる。このう
+ち敗血症性 DIC は，凝固の亢進に対して線溶機能が
+相対的に抑制される典型的な線溶抑制型のパターンを
+示す
+ 4）。そして，この線溶抑制型 DIC は，とくに多
+臓器障害の合併が多く，予後不良とされている 4）。
+2）敗血症における DIC 診断の必要性
+敗血症診療において凝固・線溶状態を評価する意義
+は，病態の正確な把握と治療介入の必要性を判断する
+ことの 2 点である
+ 6）。多くの研究により，敗血症症例
+は DIC を合併すると予後不良であることが報告され
+ており 7），DIC 診断は，転帰の予測や治療介入のタイ
+ミングを判断するうえで必要である。また，抗凝固療
+法は出血リスクを伴う治療であるがゆえに，適切な症
+例選択を行い，妥当なタイミングで実施することが肝
+要である
+ 1）。不適切な症例に対する抗凝固療法は効果
+が期待できないばかりでなく，有害事象のリスクを高
+めることになる
+ 8）。このため，敗血症患者の治療にあ
+たっては，凝固・線溶状態をリアルタイムに把握し，
+DIC 診断に基づいて適切に治療介入を行う必要があ
+る。そこで，DIC 診断に関する CQ としては，本邦に
+おいて急性期 DIC 診断基準が広く普及していること
+を考慮して， 「CQ16-1：敗血症性DIC の診断を急性期
+DIC 診断基準で行うことは有用か？」を取り上げ，検
+討を行った。
+3）敗血症性 DIC に対する抗凝固療法の有用性
+敗血症性 DIC においては，過度の凝固活性化が微
+小循環障害をもたらし，これが臓器不全を招くという
+理解から，これまでに多くの抗凝固療法が評価されて
+きた
+ 9）。しかしながら，現時点ではその有効性につい
+て統一的な見解は得られていない。その理由の 1 つと
+して，欧米では主に重症敗血症を対象とした大規模無
+作為化比較試験により各種抗凝固療法の有用性が検討
+されてきた背景がある
+ 10）， 11）。これらの試験は，敗血
+症性 DIC を対象としたものではなく，本邦で実施さ
+れている抗凝固療法とは明らかに対象患者が異なるも
+のである。近年のメタアナリシスによると，敗血症全
+般では抗凝固療法の効果は期待できず，その有効性は
+敗血症性 DIC に限られることが報告されている
+ 7）。
+したがって，治療については本邦における実臨床に即
+し，敗血症性 DIC に対する抗凝固療法の効果に焦点
+を絞った CQ を設定した。すなわち， 「CQ16-2：敗血
+症性 DIC にリコンビナント・トロンボモジュリンの
+投与を行うか？」 「CQ16-3：敗血症性DIC にアンチト
+ロンビンの補充を行うか？」 「CQ16-4：敗血症性 DIC
+にタンパク分解酵素阻害薬の投与を行うか ？ 」
+「CQ16-5：敗血症性 DIC にヘパリン，ヘパリン類の投
+与を行うか？」の 4CQ について検討を行った。敗血
+症性 DIC に対する抗凝固療法に関するエビデンスは，
+未だ質・量ともに限られているが，このような状況下
+で可能な限りの資料を渉猟し，今回のガイドライン作
+成にあたった。
+文　献
+1） Gando S, Iba T, Eguchi Y, et al. A multicenter, prospective
+validation of disseminated intravascular coagulation diagnostic
+criteria for critically ill patients: comparing current criteria. Cr
+it
+Care Med 2006;34:625-31.
+2
+） Ogura H, Gando S, Saitoh D, et al. Epidemiology of severe sepsis
+in Japanese intensiv
+e care units: a prospective multicenter study. J
+Inf
+ect Chemother 2014;20:157-62.
+3） Levi M, van der Poll T. A short contemporary history of dissemi -
+nated intravascular coagulation. Semin Thromb Hemost
+2014;40:874-80.
+4） Asak
+ura H. Classifying types of disseminated intravascular
+coagulation: clinical and animal models. J Intensive Care
+2014;2:20.
+5） 日本血栓止血学会学術標準化委員会 DIC 部．科学的根拠に
+基づいた感染症に伴う DIC 治療のエキスパートコンセンサ
+ス．日血栓止血会誌 2009;20:77-113.
+6） Wada H, Matsumoto T, Yamashita Y
+. Diagnosis and treatment of
+disseminated
+ intravascular coagulation (DIC) according to four
+DIC guidelines. J Intensive Care 2014;2:15.
+7） Fujishima S, Gando S, Saitoh D, et al. A multicenter, prospectiv e
+e
+valuation of quality of care and mor tality in Japan based on the
+Sur
+viving Sepsis Campaign guidelines. J Infect Chemother
+2014;20:115-20.
+8） Umemura Y, Yamakawa K, Ogura H, et al. Efficacy and safety of
+anticoagulant 
+therapy in three specific populations with sepsis: a
+meta-anal
+ysis of randomized controlled trials. J Thromb Haemos t
+2016;14:518-30.
+9
+） Levi M, Poll Tv. Coagaulaton in patients with severe sepsis. Semin 
+Thromb Hemost 2015;41:9-15.
+10） Warren BL, Eid A, Singer P, et al. Caring for the critically ill 
+patient. High-dose antithrombin III in severe sepsis: a randomized 
+controlled trial. JAMA 2001;286:1869-78.
+11） Ranieri VM, Thompson BT, Barie PS, et al. Drotrecogin alfa 
+(activated) in adults with septic shock. N Engl J Med 
+2012;366:2055-64.
+J-STAGE Advance published date: December 26, 2016
+[[p2]]
+－S 175 －
+日本版敗血症診療ガイドライン 2016
+CQ16-1：敗血症性 DIC の診断を急性期 DIC 診
+断基準で行うことは有用か？
+意見：急性期 DIC 診断基準は，治療開始基準として
+の妥当性や重症度指標として有用性が評価されてお
+り， 敗血症性DIC の診断を行ううえで有用と考える （エ
+キスパートコンセンサス / エビデンスなし） 。
+委員会投票結果
+すべての （P） に対し
+（I） を行う
+（強い意見）
+患者の状態に応じて
+対処は異なる
+すべての （P） に対し
+（I） を行わない
+（強い意見）
+94.7％ 0％ 0％
+※  “実施しないことを提案する（弱い推奨） ”に 5.3％の得票が
+あった。
+（1） 背景および本 CQ の重要度
+敗血症性 DIC の診断には，どの診断基準を用いれ
+ばよいのか。これは日常診療で遭遇する問題であり，
+複数の診断基準が存在する現状においては CQ として
+取り上げるべき課題であると考える。本 CQ への解答
+を得るためには，敗血症性 DIC をそれぞれの診断基
+準を用いて診断し，しかる後に一定の治療的介入を行
+い，転帰の改善をもって有用性の評価が行われるべき
+である。しかしながら，そのような研究報告は存在し
+ない。一方，転帰予測能を比較した研究は存在するも
+のの，優れた転帰予測能と治療開始基準としての妥当
+性は同一ではない。そこで，診断に関する CQ として
+は，2005 年に日本救急医学会 DIC 特別委員会によっ
+て作成された「急性期 DIC 診断基準（JAAM DIC 診
+断基準） 」が本邦において広く普及している実情に鑑
+み，急性期 DIC 診断基準の有用性に焦点を当てて検
+討した。
+（2） PICO
+P   （患者） ：重症敗血症患者
+I    （介入） ：急性期DIC 診断基準を用いて DIC の診
+断を行う
+C   （対照） ：急性期DIC 診断基準を用いて DIC の診
+断を行わない
+O   （アウトカム） ：治療的介入による生命予後
+（3） エビデンスの要約
+“JAAM DIC ”を検索ワードとして文献検索を行っ
+たが，PICO に合致する臨床研究は実施されておらず，
+客観的な評価は不能であった。そこで本 CQ に対して
+は，専門家による文献的な考察をもって解答を出すこ
+ととした。
+DIC は「種々の原因に続発する後天的な症候群であ
+り，全身的な血管内凝固の活性化や微小血管障害を引
+き起こすことにより，重症化すれば臓器不全を来す病
+態」
+ 1）として一般に認知されている。DIC は概念的な
+症候群であり，定められた診断カテゴリーが存在する
+わけではなく，病理学的に確定診断が可能なわけでも
+ない。これに対し，本邦では 1980 年代に基礎疾患の
+存在と症状，それに血液検査項目を加えて診断基準が
+作成され
+ 2），これが広く受け入れられるところとなっ
+た。現在，DIC の診断に用いられている主な診断基準
+としては「厚生労働省 DIC 診断基準（以下，厚生労
+働省基準） 」 2） と国際血栓止血学会 （ International 
+Society on Thrombosis and Haemostasis, ISTH）が作成し
+た「ISTH overt-DIC 診断基準（以下，ISTH 基準） 」 1），
+および日本救急医学会が作成した「急性期 DIC 診断
+基準（以下，急性期基準） 」 3）の 3 つがある。このう
+ち ISTH 基準と急性期基準は，厚生労働省基準をもと
+にして作られたものである。それぞれの診断基準にお
+いて，血小板数，プロトロンビン時間，フィブリン分
+解産物の 3 つは共通した項目であり，これら 3 項目は
+DIC という病態を想定した場合に，異常を来す検査項
+目として共通して認識されているとしてよいだろう。
+DIC に正診が存在しない以上，診断基準の優劣を論
+じることは基本的に不能である。使用する側は，それ
+ぞれの診断基準の特性を理解して，目的に応じた診断
+基準を選択することになる。急性期基準は，敗血症を
+はじめとする急性期疾患において，早期に DIC を診
+断することを目的として設定された経緯があり，この
+ため 3 つの診断基準中では最も広い領域の凝固異常を
+DIC と診断する
+ 3）， 4）。診断手順も比較的簡便である
+ため，敗血症性 DIC の診断基準として本邦では最も
+広く普及している。
+診断基準には，治療開始基準としての役割と重症度
+評価の指標としての役割が期待されている。これらの
+観点からいえば，急性期基準については治療開始基準
+としての妥当性
+ 5），および重症度評価指標  6）として
+一定の評価がなされており，敗血症性 DIC の診断を
+行ううえで，有用ということができると考える。
+★エビデンス総体評価
+　該当なし。
+（4） アウトカム全般に関するエビデンスの質
+該当なし。
+アウトカム全般のエビデンスの強さの評価を決定し
+た根拠：該当なし。
+（5） 益のまとめ
+急性期 DIC 診断基準は，敗血症をはじめとする急
+性期疾患において，早期に DIC を診断することを目
+的として設定された経緯があり，このため 3 つの診断
+[[p3]]
+日集中医誌　J Jpn Soc Intensive Care Med　Vol. 24 Suppl 2
+－S 176 －
+基準中では最も広い領域の凝固異常を DIC と診断す
+る 3）， 4）。急性期基準については治療開始基準として
+の妥当性  5），および重症度評価指標  6）として一定の
+評価がなされており，敗血症性 DIC の診断を行うう
+えで，有用ということができると考える。ただし，急
+性期 DIC 診断基準を用いた DIC 診断が，敗血症患者
+の転帰改善に繋がるかについて検討した質の高い研究
+は存在せず，今後の研究課題である。
+（6） 害（副作用）のまとめ
+急性期 DIC 診断基準を用いて早期に DIC を診断す
+ることに伴う害はない。
+（7） 害（負担）のまとめ
+急性期 DIC 診断基準に用いられる指標は，いずれ
+も敗血症診療において日常的に検査，測定される項目
+であるが， これらを用いてスコアリングを行うことは，
+医療従事者にとって若干の負担になるかもしれない。
+（8） 利益と害のバランスについて
+おそらく益が害を上回る。
+（9） 本介入に必要な医療コスト
+急性期 DIC 診断基準に用いられる指標は，いずれ
+も敗血症診療において日常的に検査，測定される項目
+である。しかし，フィブリン分解産物を日常的に測定
+していない施設では，追加の医療コストとなる。
+（10） 本介入の実行可能性
+急性期 DIC 診断基準を用いた診断手順は比較的簡
+便であるため，本邦の敗血症診療においては既に広く
+普及している。
+（11） 患者・家族・コメディカル・医師で評価が異な
+る介入であるか？
+異ならない。
+（12） 推奨決定工程
+以上の結果から，本 CQ に対し，担当班から「急性
+期 DIC 診断基準は，治療開始基準としての妥当性や
+重症度指標として有用性が評価されており，敗血症性
+DIC の診断を行ううえで有用と考える（エキスパート
+コンセンサス） 」が提示された。
+これに対し，委員会の投票では，委員 19 名中 18 名
+の同意により可決された。
+（13） 関連する他の診療ガイドラインにおける推奨
+国際血栓止血学会によるガイダンスでは
+ 7），厚生労
+働省基準，ISTH 基準，急性期基準が併記され，それ
+ぞれの指向が解説されている。ただし，このガイダン
+スは敗血症のみを対象としたものではない。一方，日
+本血栓止血学会のエキスパートコンセンサスでは
+ 8），
+上記 3 つの診断基準が紹介されたうえで「急性期基準
+が最も感度が良く，感染症に伴う DIC の早期診断に
+推奨され得る」としている。
+日本版敗血症診療ガイドライン（初版）では「CQ：
+敗血症性 DIC の診断は？」に対し， 「急性期DIC 診断
+基準は最も感度が高く，敗血症に伴う DIC の早期診
+断に推奨される（1B） 」と記載されている。SSCG2012
+には DIC は取り上げられていない。
+おわりに（今後の展望）
+急性期 DIC 診断基準を用いた DIC 診断が，敗血症
+患者の転帰改善に繋がるか否かについて検討した質の
+高い研究は存在せず，今後の研究課題である。
+文　献
+1） Taylor FB Jr, Toh CH, Hoots WK, et al. Towards definition, 
+clinical and laboratory criteria, and a scoring system for dissemi -
+nated intravascular coagulation. Thromb Haemost  
+2001;86:1327-30.
+2） 青木延雄，長谷川淳． DIC 診断基準の『診断のための補助
+的検査成績，所見』の項の改訂について，厚生省特定疾患
+血液凝固異常症調査研究班，昭和 62 年度研究報告． 1988.
+p.37-41.
+3） Gando S, Iba T, Eguchi Y, et al. A multicenter, prospective 
+validation of disseminated intravascular coagulation diagnostic 
+criteria for critically ill patients: comparing current criteria. Crit 
+Care Med 2006;34:625-31.
+4） Gando S, Saitoh D, Ogura H, et al. Natural history of dissemi
+-
+nated intravascular coagulation diagnosed based on the newly 
+established diagnostic criteria for critically ill patients: results of a 
+multicenter, prospective survey. Crit Care Med 2008;36:145-50.
+5） Gando S, Saitoh D, Ishikura H, et al. A randomized, controlled, 
+multicenter trial of the effects of antithrombin on disseminated 
+intravascular coagulation in patients with sepsis. Crit Care 
+2013;17:R297.
+6） Gando S, Saitoh D, Ogura H, et al. A multicenter, prospective 
+validation study of the Japanese Association for Acute Medicine 
+disseminated intravascular coagulation scoring system in patients 
+with severe sepsis. Crit Care 2013;17:R111.
+7） Wada H, Thachil J, Di Nisio M, et al. Guidance for diagnosis and 
+treatment of disseminated intravascular coagulation from harmo
+-
+nization of the recommendations from three guidelines. J Thromb 
+Haemost 2013;11:761-7.
+8） 日本血栓止血学会学術標準化委員会 DIC 部会．科学的根拠
+に基づいた感染症に伴う DIC 治療のエキスパートコンセン
+サス．日血栓止血会誌 2009;20:77-113.
+[[p4]]
+－S 177 －
+日本版敗血症診療ガイドライン 2016
+CQ16-2：敗血症性 DIC にリコンビナント・トロ
+ンボモジュリン投与を行うか？
+意見：敗血症性 DIC 患者に対するリコンビナント・
+トロンボモジュリン製剤について，現時点では明確な
+推奨を提示しない（エキスパートコンセンサス / エビ
+デンスの質「B」）。
+DIC 対策班の総意として作成した推奨文草案「敗血症
+性 DIC 患者に対してリコンビナント ・ トロンボモジュ
+リン製剤を投与することを弱く推奨する（ 2B） 」に対
+する投票結果は，以下の通りであった。
+委員会投票結果（一次投票）
+行うことを推奨
+する
+行うことを弱く
+推奨する
+行わないことを
+弱く推奨する
+行わないことを
+推奨する
+0％ 63.2％ 31.6％ 0％
+※ 「患者の状態に応じて対処は異なる」が 5.2％であった。
+委員会投票結果（二次投票）
+行うことを推奨
+する
+行うことを弱く
+推奨する
+行わないことを
+弱く推奨する
+行わないことを
+推奨する
+0％ 57.9％ 36.8％ 0％
+※ 「患者の状態に応じて対処は異なる」が 5.2％であった。
+委員会投票結果（三次投票）
+行うことを推奨
+する
+行うことを弱く
+推奨する
+行わないことを
+弱く推奨する
+行わないことを
+推奨する
+0％ 52.6％ 31.6％ 0％
+※ 「患者の状態に応じて対処は異なる」が 10.5％であった。
+※ 「明確な推奨はできない」が 5.3％であった。
+コメント：DIC 対策班の総意として作成した推奨文草
+案「敗血症性 DIC 患者に対してリコンビナント・トロ
+ンボモジュリン製剤を投与することを弱く推奨する
+（2B） 」は，当ガイドライン委員会における三度の投票
+において，3 分の 2 以上の合意を得ることはなかった。
+（1） 背景および本 CQ の重要度
+本邦では，敗血症性 DIC に対する抗凝固療法を行
+う施設は欧米と比較して多くみられる。なかでも，
+2008 年に上市されたリコンビナント ・ トロンボモジュ
+リン製剤は，敗血症性 DIC に対して広く使用されて
+いる抗凝固薬の 1 つである。しかしながら，現時点で
+同薬に関するエビデンスは十分とはいえず，その有用
+性についての結論は出ていない。本邦で実施された第
+3 相試験 1），諸外国で行われた第 2 相試験 2）が主たる
+臨床知見として存在するものの，試験規模としては不
+十分である。これに対し，現在，多国籍間第 3 相試験
+が進行中であり，その結果が 2018 年頃に明らかにさ
+れる予定である。ただし，現時点でのエビデンスを総
+括し，同薬の敗血症性 DIC 診療における位置づけを
+評価することは重要であると考え，本 CQ を取り上げ
+た。
+（2） PICO
+P   （患者） ：敗血症性DIC 患者
+I    （介入） ：リコンビナント・トロンボモジュリン
+投与
+C   （対照） ：プラセボ投与あるいはリコンビナント・
+トロンボモジュリン非投与
+O   （アウトカム） ：死亡，出血性合併症，DIC離脱
+（3） エビデンスの要約（Table 16-2-1）
+本推奨に使用した既存システマティックレビュー論
+文：Yamakawa 2015
+ 3）
+エビデンスの要約 ：上記のシステマティックレ
+ビュー論文において採用されている RCT3 報 2）， 4）， 5）
+を用いてシステマティックレビューを実施した 。
+Minds2014 システムに準拠してエビデンスを評価した
+ところ，エビデンスの質は「 B（中等度） 」 ，害と益の
+バランスは「おそらく益が害を上回る」という結果と
+なった。
+（4） アウトカム全般に関するエビデンスの質
+B（中等度）
+重大であると判断したアウトカム（死亡・出血性合
+併症）は， ともにエビデンスの質は中等度（B）であっ
+Table 16-2-1　エビデンス総体
+
+[[p5]]
+日集中医誌　J Jpn Soc Intensive Care Med　Vol. 24 Suppl 2
+－S 178 －
+た。そのため，アウトカム全般のエビデンスの強さに
+ついては， 「中等度（B） 」と判定した。
+（5） 益のまとめ
+本 CQ においては，死亡率の改善効果をもって治療
+介入の益を判断した。死亡に対する治療介入の効果推
+定値は ，RR 0.81（95％CI 0.62～1.06） ，点推定値の
+NNT（number needed to treat）は 15 であり，中程度の
+利益が見込める。
+（6） 害（副作用）のまとめ
+本介入により発生する可能性のある害として，出血
+性合併症を重大なアウトカムとして評価した。出血性
+合併症に対する効果推定値は， RR 0.83（95％CI 0.22
+～3.11）であり，出血性合併症が増える可能性は低い
+と判断した 。一方で ，ヘパリン対照で比較した
+Aikawa 論文
+ 4）はトロンボモジュリン療法の出血性合
+併症を評価する際には適切でない可能性があるため，
+同論文を除いた解析も並行して行った。その結果は
+RR 1.11（95％CI 0.59～2.11）であり，わずかに出血
+性合併症が増える可能性も否定できないというもので
+あった。
+（7） 害（負担）のまとめ
+本介入は， 静脈投与により行う薬物療法のみなので，
+介入そのものに対する身体的負担はほとんどない。
+（8） 利益と害のバランスについて
+おそらく益が害を上回る。
+トロンボモジュリン療法による出血性合併症増加の
+可能性は否定できないものの，益とのバランスを考え
+ると，益が上回る可能性が高いと評価した。ただし，
+ガイドライン作成委員会では，益のアウトカムに有意
+差がないことを重視する委員より，バランスの評価に
+ついて異なる見解が出された。
+（9） 本介入に必要な医療コスト
+トロンボモジュリン療法にかかる薬価（ 25,600 単
+位 / 日 ×6 日間で約 46 万円）は高価である。
+これまでに，トロンボモジュリン療法に関する質の
+高い費用対効果研究は報告されていない。
+（10） 本介入の実行可能性
+多くの病院で採用されているため，実行可能性に関
+しては問題ないと考える。
+（11） 患者・家族・コメディカル・医師で評価が異な
+る介入であるか？
+異ならない。
+患者・家族が最も重視するのは，死亡を回避するこ
+とであるということに対して，高い確信が持てる。立
+場の違いによる価値観の相違についても小さいと考え
+られる。
+（12） 推奨決定工程
+本 CQ に関して，DIC 対策班では推奨文草案「敗血
+症性 DIC 患者に対してリコンビナント・トロンボモ
+ジュリン製剤を投与することを弱く推奨する（ 2B）」
+を提案した。 その根拠は， 上記に示したシステマティッ
+クレビュー作業および Minds2014 システムに則った
+エビデンスの質評価である。しかしながら，当ガイド
+ライン委員会における一次投票では，十分な賛同が得
+られず否決された〔委員 19 名中の 12 名（63.2％）が
+同意，6 名が「行わないことを弱く推奨する」 ，1名が
+「患者の状態に応じて対処は異なる」 〕 。一次投票時の
+反対派委員のコメントを付録に転載する。最も多くみ
+られた反対意見としては，主要アウトカムにおいて統
+計学的に有意な差がみられなかったことが挙げられて
+いる。統計学的な有意差は，エビデンスの質の評価過
+程で「不精確さ」の判断において重要な要素である。
+実際，本 CQ においては不精確さに重大な懸念がある
+と判断し，エビデンスの質のダウングレードを行って
+いる。エビデンスの質は下がるものの（ B/ 中等度） ，
+当該治療の益と害のバランスは十分な有用性を示して
+いると Minds2014 システムでは判断することができ
+る。しかしながら，複数の委員にとって，統計学的有
+意差が証明されていない治療介入に対する肯定的な推
+奨には大きな抵抗があったと推察される。
+DIC 対策班では，すべての反対派委員からのコメン
+トに対して詳細な返答・修正を行った（内容全文を付
+録に添付） 。しかしながら，二次投票結果においても
+同意が得られたのは委員 19 名中の 11 名（57.9％）に
+留まったため，3 分の 2 以上を必要とする最終的な合
+意形成には至らなかった（二次投票時の委員からのコ
+メントは付録参照） 。
+その後，パブリックコメントで寄せられた意見を踏
+まえ，Minds の専門家の意見も参考にして， 再々度「敗
+血症性 DIC 患者に対してリコンビナント・トロンボ
+モジュリン製剤を投与することを弱く推奨する （2B）」
+を推奨文草案として提案した。しかしながら，三次投
+票の結果においても 3 分の 2 の同意を得ることはでき
+なかった（三次投票申請の理由と，投票における委員
+からのコメントは付録参照） 。以上の経緯を経て，海
+外において進行中の第 3 相臨床試験の結果公開が
+2018 年頃であることを考慮し，当ガイドライン委員
+会では敗血症性 DIC 患者に対するリコンビナント・
+トロンボモジュリン製剤について現時点では推奨を行
+うことを見送った。
+（13） 関連する他の診療ガイドラインにおける推奨
+SSCG2012
+ 6）では，そもそも敗血症に伴う DIC の概
+[[p6]]
+－S 179 －
+日本版敗血症診療ガイドライン 2016
+念自体が取り上げられておらず，リコンビナント・ト
+ロンボモジュリン製剤に関する推奨も提示されていな
+い。DIC 診療に関するガイドラインとして，イギリス
+やイタリアの関連学会から発表された「DIC 診断治療
+ガイドライン」 7）， 8），および日本血栓止血学会から発
+表された「科学的根拠に基づいた感染症に伴う DIC
+治療のエキスパートコンセンサス」 9）が挙げられる。
+イギリス版ではリコンビナント・トロンボモジュリン
+製剤についての記載はなく，イタリア版ではリコンビ
+ナント・トロンボモジュリン製剤は非推奨とされてい
+る。これに対し，日本版 DIC エキスパートコンセン
+サスでは，リコンビナント・トロンボモジュリン製剤
+はアンチトロンビン製剤と同様に中等度の推奨を受け
+ている。このように，各ガイドラインによってリコン
+ビナント・トロンボモジュリン製剤の推奨は異なって
+いる。この状況に対し， Wada ら国際血栓止血学会
+DIC 部会は，ガイドライン間の乖離を調整する目的で
+「DIC 診断治療ガイダンス」を提示した
+ 10）。その中で
+は， アンチトロンビン製剤 ・ 活性化プロテインC 製剤，
+トロンボモジュリン製剤はいずれも使用を検討する余
+地がある 〔 PR（potentially recommended ）：needs 
+further evidence〕と弱い推奨が示されている。
+このように，リコンビナント・トロンボモジュリン
+製剤の推奨は各診療ガイドラインによって異なってい
+るが，推奨の定義・設定方法が本ガイドラインとは異
+なるためであり，それぞれの解釈には背景の理解が必
+要である。
+文　献
+1） Saito H, Maruyama I, Shimazaki S, et al. Efficacy and safety of 
+recombinant human soluble thrombomodulin (ART-123) in 
+disseminated intravascular coagulation: results of a phase III, 
+randomized, double-blind clinical trial. J Thromb Haemost 
+2007;5:31-41.
+2） Vincent JL, Ramesh MK, Ernest D, et al. A randomized, double-
+blind, placebo-controlled, Phase 2b study to evaluate the safety 
+and efficacy of recombinant human soluble thrombomodulin, 
+ART-123, in patients with sepsis and suspected disseminated 
+intravascular coagulation. Crit Care Med 2013;41:2069-79.
+3） Yamakawa K, Aihara M, Ogura H, et al. Recombinant human 
+soluble thrombomodulin in severe sepsis: a systematic review and 
+meta-analysis. J Thromb Haemost 2015;13:508-19.
+4） Aikawa N, Shimazaki S, Yamamoto Y, et al. Thrombomodulin 
+alfa in the treatment of infectious patients complicated by dissemi
+-
+nated intravascular coagulation: subanalysis from the phase 3 
+trial. Shock 2011;35:349-54.
+5） 高橋宏之，磯谷栄二，牛澤洋人，他．組み換えヒト可溶型
+トロンボモジュリン（rTM ）の敗血症性 DIC 患者への治療
+経験．ICU と CCU 2011;35:581-4.
+6） Dellinger RP, Levy MM, Rhodes A, et al. Surviving sepsis 
+campaign: international guidelines for management of severe 
+sepsis and septic shock, 2012. Crit Care Med 2013;41:580-637.
+7） Levi M, Toh CH, Thachil J, et al. Guidelines for the diagnosis and 
+management of disseminated intravascular coagulation. British 
+Committee for Standards in Haematology. Br J Haematol 
+2009;145:24-33.
+8） Di Nisio M, Baudo F, Cosmi B, et al. Diagnosis and treatment of 
+disseminated intravascular coagulation: guidelines of the Italian 
+Society for Haemostasis and Thrombosis (SISET). Thromb Res 
+2012;129:e177-84.
+9） 日本血栓止血学会学術標準化委員会 DIC 部会．科学的根拠
+に基づいた感染症に伴う DIC 治療のエキスパートコンセン
+サス．日血栓止血会誌 2009;20:77-113.
+10） Wada H, Thachil J, Di Nisio M, et al. Guidance for diagnosis and 
+treatment of disseminated intravascular coagulation from harmo
+-
+nization of the recommendations from three guidelines. J Thromb 
+Haemost 2013;11:761-7.
+[[p7]]
+日集中医誌　J Jpn Soc Intensive Care Med　Vol. 24 Suppl 2
+－S 180 －
+CQ16-3：敗血症性 DIC にアンチトロンビンの補
+充を行うか？
+推奨：アンチトロンビン活性値が 70％以下に低下し
+た敗血症性 DIC 患者に対して，アンチトロンビン補
+充療法を行うことを弱く推奨する（2B）。
+委員会投票結果
+行うことを推奨
+する
+行うことを弱く
+推奨する
+行わないことを
+弱く推奨する
+行わないことを
+推奨する
+0％ 68.4％ 26.3％ 0％
+※ 「患者の状態に応じて対処は異なる」が 5.3％であった。
+コメント ：エビデンスの質は比較的高く（ B） ，益が
+害を上回る可能性が高いと判断した。しかしながら，
+出血に対する評価は不確実性が高く，コストも高いた
+め，介入をするかどうかの判断は医療者によって分か
+れることが想定される。そのため，推奨の強さについ
+ては，介入を支持する方向で，弱（2）と判断した。
+ 実施上の注意 ：敗血症患者における出血性合併症は，
+重大な転帰（致死的）に直結し得る。敗血症患者の中
+でも特に出血リスクが高いと考えらえる症例に対する
+使用方法は注意を要する。なお，ヘパリン投与の併用
+に関しては必ずしも必要ではなく，むしろ出血性合併
+症のリスクを十分に考慮して判断する必要がある。
+（1） 背景および本 CQ の重要度
+敗血症におけるアンチトロンビン製剤に関するエビ
+デンスは，その他の抗凝固薬と比較すると豊富に存在
+し， 臨床試験およびメタアナリシスが実施されている。
+そして，諸外国のガイドラインにおいては，大規模臨
+床試験（KyberSept 試験）の結果をもとに，アンチト
+ロンビン製剤は使用すべきでないとされている 。
+KyberSept 試験は，敗血症性 DIC ではなく重症敗血症
+症例を対象としたものであり，非 DIC 状態を治療対
+象とはしない本ガイドラインの CQ に対するエビデン
+スとしては採用できないと判断した。一方で，本邦に
+おいては敗血症性 DIC に対し，アンチトロンビン製
+剤の補充療法がしばしば行われている実状がある。
+そのような背景から本ガイドラインでは，敗血症性
+DIC 患者を対象にして解析を行い，アンチトロンビン
+製剤の補充が有用であるかどうかを評価することとし
+た。
+（2） PICO
+P   （患者） ：敗血症性DIC 患者
+I    （介入） ：アンチトロンビン補充
+C   （対照） ：プラセボ投与あるいはアンチトロンビ
+ン非投与
+O   （アウトカム） ：28 日死亡，出血性合併症， DIC
+離脱
+（3） エビデンスの要約（Table 16-3-1）
+採用された論文：Fourrier 1993
+ 1），Kienast 2006  2），
+Nishiyama 2012 3），Gando 2013 4）
+エビデンスの要約：敗血症におけるアンチトロンビ
+ン製剤のエビデンスを新たに構築するため，論文に敗
+血症性 DIC 患者と明記されている文献を対象に解析
+を行った。また，大規模臨床試験（ KyberSept 試験）
+については，敗血症性 DIC ではなく重症敗血症症例
+を対象としたものであり，非 DIC 状態を治療対象と
+はしない本ガイドラインの CQ に対するエビデンスと
+しては採用できないと判断し，事後解析ではあるもの
+の敗血症性 DIC に限定して解析が行われている
+Kienast 2006
+ 2）を採用した。
+一方，介入については，当初本邦における保険適応
+量（アンチトロンビン活性値が 70％以下に低下した
+敗血症性 DIC 患者に対して 1 日 1,500 単位，外科症例
+の場合は 40～60 単位 /kg ［補充療法］ ）の有効性・有
+害性の評価を試みた。KyberSept 試験は，30,000 単位
+/4 日間の大量投与を介入法としており，この大量投与
+が直接性によるダウングレードの範囲内とすることが
+できるか否かがワーキングメンバーで検討された。そ
+の結果，大量投与による益のアウトカム（死亡）への
+影響については，許容範囲内であろうとの結論に至っ
+た。一方，アンチトロンビン製剤は大量投与すること
+Table 16-3-1　エビデンス総体評価
+
+[[p8]]
+－S 181 －
+日本版敗血症診療ガイドライン 2016
+で，出血性合併症が増えることが知られており，本邦
+で行われている補充療法においてはその頻度は少ない
+ことから，害のアウトカム（出血性合併症）について
+はその点を考慮して判断を行った。
+その結果，4 つの論文が採用され，解析の結果，死
+亡率の改善と DIC 離脱に関しては利益が見込めるが，
+出血性合併症に関しては害がある可能性が否定できな
+いという結論に至った。
+（4） アウトカム全般に関するエビデンスの質
+B（中）
+アウトカム全般のエビデンスの強さの評価を決定し
+た根拠：重大であると判断したアウトカム（死亡，出
+血性合併症）は， エビデンスの質は死亡が中等度（B），
+出血性合併症が（C）であった。死亡アウトカムをよ
+り重要視し，アウトカム全般のエビデンスの強さは，
+中等度（B）と判定した。
+（5） 益のまとめ
+死亡率の改善効果をもって治療介入の益を判断し
+た。死亡に対する治療介入の効果推定値は RR 0.68 
+（95％CI 0.49～0.93）と利益が見込めるが，バイアス
+リスク・非直接性により効果推定値の確信性が下がる
+可能性がある。
+（6） 害（副作用）のまとめ
+本介入により発生する可能性のある害として，出血
+性合併症を重大なアウトカムとして評価した。出血性
+合併症に対する効果推定値は RR 1.17 （95％CI 0.45～
+3.01）と害がある可能性も否定できないが，信頼区間
+の幅が広く信頼性は乏しい。また大量投与によるバイ
+アスリスク・非直接性に懸念があり，効果推定値の確
+信性はさらに下がる可能性がある。上記の益とのバラ
+ンスを考えると，益が上回る可能性が高いと考えられ
+る。
+（7） 害（負担）のまとめ
+本 CQ の介入は，静脈投与により行う薬物療法のみ
+なので，介入そのものに対する身体的負担はほとんど
+ない。
+（8） 利益と害のバランスについて
+おそらく益が害を上回る。
+（9） 本介入に必要な医療コスト
+アンチトロンビン補充療法にかかる薬価（ 1,500 単
+位 / 日× 3 日間で約 21 万円）は高価である。
+（10） 本介入の実行可能性
+現時点では多くの病院で採用されているため，実行
+可能性に関しては問題ないと考える。
+（11） 患者・家族・コメディカル・医師で評価が異な
+る介入であるか？
+異ならない。
+患者・家族が最も重視するのは死亡を回避すること
+であるということに対して，高い確信が持てる。
+立場の違いによる価値観の相違についても小さいと
+考えられる。
+（12） 推奨決定工程
+本 CQ に関して，担当班から「アンチトロンビン活
+性値が 70％以下に低下した敗血症性 DIC 患者に対し
+て，アンチトロンビン補充療法を行うことを弱く推奨
+する（2B） 」という推奨文が提案された。委員 19 名
+中の 13 名の同意により可決された。
+（13） 関連する他の診療ガイドラインにおける推奨
+国外のイギリスやイタリアの DIC ガイドライ
+ン
+ 5）， 6），SSCG2012  7）においては，敗血症 DIC 患者
+におけるアンチトロンビン製剤の使用は推奨されてい
+ない。 その理由の大部分は， 大規模臨床試験 （KyberSept
+試験）の結果をもとにしており，アンチトロンビン製
+剤は使用すべきでないとされている 。しかし ，
+KyberSept 試験は，敗血症性 DIC ではなく重症敗血症
+症例を対象としたものであり，非 DIC 状態を治療対
+象とはしない本ガイドラインの CQ に対するエビデン
+スとしては不適当だと考えられる。近年，コクランレ
+ビューにアンチトロンビン製剤に関するレビューが発
+表されたが
+ 8），上記ガイドライン同様に敗血症性 DIC
+患者に対するアンチトロンビン製剤の使用は推奨され
+ていない。しかし，この推奨決定においても対象が一
+致しない KyberSept 試験が採用されており，その結果
+が大きく推奨に影響している。 我々はこの点に関して，
+妥当性に疑問を持っており 9），前述したように敗血症
+DIC に限定して解析が行われている KyberSept 試験の
+サブ解析である Kienast 2006  2）の論文を採用し，メタ
+アナリシスを行った。
+また，国内において 2009 年に日本血栓止血学会は，
+「科学的根拠に基づいた感染症に伴う DIC 治療のエキ
+スパートコンセンサス」 10）を公表し，抗凝固療法は
+推奨度 A とし，アンチトロンビンに関しては推奨度
+B1 としている。ただし，推奨度の定義・決定方法に
+関しては本ガイドラインとは異なるため，解釈には注
+意を要する。
+文　献
+1） Fourrier F, Chopin C, Huart JJ, et al. Double-blind, placebo-
+controlled trial of antithrombin III concentrates in septic shock 
+with disseminated intravascular coagulation. Chest  
+1993;104:882-8.
+[[p9]]
+日集中医誌　J Jpn Soc Intensive Care Med　Vol. 24 Suppl 2
+－S 182 －
+2） Kienast J, Juers M, Wiedermann CJ, et al. Treatment effects of 
+high-dose antithrombin without concomitant heparin in patients 
+with severe sepsis with or without disseminated intravascular 
+coagulation. J Thromb Haemost 2006;4:90-7.
+3） Nishiyama T, Kohno Y, Koishi K. Effects of antithrombin and 
+gabexate mesilate on disseminated intravascular coagulation: a 
+preliminary study. Am J Emerg Med 2012;30:1219-23.
+4） Gando S, Saitoh D, Ishikura H, et al. A randomized, controlled, 
+multicenter trial of the effects of antithrombin on disseminated 
+intravascular coagulation in patients with sepsis. Crit Care 
+2013;17:R297.
+5） Levi M, Toh CH, Thachil J, et al. Guidelines for the diagnosis and 
+management of disseminated intravascular coagulation. British 
+Committee for Standards in Haematology. Br J Haematol 
+2009;145:24-33.
+6） Di Nisio M, Baudo F, Cosmi B, et al. Diagnosis and treatment of 
+disseminated intravascular coagulation: guidelines of the Italian 
+Society for Haemostasis and Thrombosis (SISET). Thromb Res 
+2012;129:e177-84.
+7） Dellinger RP, Levy MM, Rhodes A, et al. Surviving sepsis 
+campaign: international guidelines for management of severe 
+sepsis and septic shock, 2012. Crit Care Med 2013;41:580-637.
+8） Allingstrup M, Wetterslev J, Ravn FB, et al. Antithrombin III for 
+critically ill patients. Cochrane Database Syst Rev  
+2016;2:CD005370.
+9） Iba T, Thachil J. Is antithrombin III for sepsis-associated dissemi
+-
+nated intravascular coagulation really ineffective?. Intensive Care 
+Med 2016;42:1193-4.
+10） 日本血栓止血学会学術標準化委員会 DIC 部会．科学的根拠
+に基づいた感染症に伴う DIC 治療のエキスパートコンセン
+サス．日血栓止血会誌 2009;20:77-113.
+CQ16-4：敗血症性 DIC にタンパク分解酵素阻害
+薬の投与を行うか？
+意見：敗血症性 DIC に対して，タンパク分解酵素阻
+害薬を標準治療としては投与しないことを弱く推奨す
+る （エキスパートコンセンサス/ エビデンスの質 「D」）。
+委員会投票結果
+行うことを推奨
+する
+行うことを弱く
+推奨する
+行わないことを
+弱く推奨する
+行わないことを
+推奨する
+0％ 0％ 5.3％ 5.3％
+※ 「患者の状態に応じて対処は異なる」が 89.5％であった。
+　 コメント：エビデンスの質は非常に低く（D） ，益が害を上回
+る可能性は不明と判断した。 
+（1） 背景および本 CQ の重要度
+敗血症性 DIC に対する抗凝固療法の評価は，国内
+外で大きな乖離があり，一定の見解がない。その中で
+もタンパク分解酵素阻害薬の有用性に関するエビデン
+スは乏しく，2 本の RCT 1）， 2）が存在するのみである。
+しかし，本邦では一定の頻度で使用されているのが現
+状である。そのような背景から本ガイドラインでは，
+敗血症性 DIC 患者を対象に改めて解析を行い，タン
+パク分解酵素阻害薬の投与が有用であるかどうかを評
+価することとした。
+（2） PICO
+P   （患者） ：敗血症性DIC 患者
+I    （介入） ：タンパク分解酵素阻害薬投与
+C   （対照） ：プラセボ投与あるいはタンパク分解酵
+素阻害薬非投与
+O   （アウトカム） ：28 日死亡，出血性合併症 , DIC
+離脱
+（3） エビデンスの要約（Table 16-4-1）
+採用された論文：Hsu 2004 1），Nishiyama 2012 2）
+エビデンスの要約：敗血症性 DIC に対するタンパ
+ク分解酵素阻害薬の投与の有用性を評価した RCT は
+2 本存在し ， Hsu ら 1） は有用でない可能性を ，
+Nishiyama ら（2012 年） 2）は有用である可能性を報告
+している。しかし， いずれの報告も小規模研究であり，
+かつ二重盲検化は行われていない。また， 28 日死亡
+の評価はされているものの，出血性合併症や DIC 離
+脱率に関しては評価されていなかった。解析の結果，
+有意な死亡率の改善は認められず，現時点では十分な
+エビデンスがなく，タンパク分解酵素阻害薬の予後改
+善効果は確定できず，推奨の提示はできないという結
+論に至った。なお，Nishiyama ら（2000 年）
+ 3）の RCT
+は対象に外傷患者を含んでおり，サブ解析の結果がな
+いため，本ガイドラインの CQ に対するエビデンスと
+[[p10]]
+－S 183 －
+日本版敗血症診療ガイドライン 2016
+しては採用できないと判断した。
+（4） アウトカム全般に関するエビデンスの質
+D
+アウトカム全般のエビデンスの強さの評価を決定し
+た根拠：重大であると判断したアウトカム（死亡，出
+血性合併症）は，エビデンスの質は死亡が非常に弱い
+（D） ，出血性合併症は今回採用したRCT では評価さ
+れていなかった。そのため，アウトカム全般のエビデ
+ンスの強さは，非常に弱い（D）と判定した。
+（5） 益のまとめ
+死亡率の改善効果をもって治療介入の益を判断し
+た。死亡に対する治療介入の効果推定値は RR 0.82
+（95％CI 0.39～1.74）と信頼区間についてはかなり重
+大な不精確さがあると判断した。
+（6） 害（副作用）のまとめ
+本介入により発生する可能性のある害として，出血
+性合併症を重大なアウトカムとして挙げたが，採用し
+た 2 つの RCT は評価されておらず，害の評価は困難
+であると判断した。
+（7） 害（負担）のまとめ
+本 CQ の介入は，静脈投与により行う薬物療法のみ
+なので，介入そのものに対する身体的負担はほとんど
+ない。
+（8） 利益と害のバランスについて
+「益と害のバランスは不確か」と判断した。
+（9） 本介入に必要な医療コスト
+タンパク分解酵素阻害薬投与にかかる薬価（ 2,000 
+mg/day × 5 日間で約 49 万円，後発医薬品を用いても
+約 9 万円）は高価である。
+（10） 本介入の実行可能性
+現時点では多くの病院で採用されているため，実行
+可能性に関しては問題ないと考える。
+（11） 患者・家族・コメディカル・医師で評価が異な
+る介入であるか？
+異ならない。
+最も重要な評価項目は死亡率の低下であり，立場の
+違いによる評価の差異はないと考えられる。
+（12） 推奨決定工程
+本 CQ に対して， DIC 対策班から「敗血症性 DIC
+に対するタンパク分解酵素阻害薬については，効果や
+有害性を裏づけるエビデンスに乏しく，現時点での評
+価は不能である（ unknown ） 」という意見文が提案さ
+れた。委員 19 名中の 17 名の同意により可決された。
+ガイドライン作成委員会で行動につながる意見文へ
+の変更が促され， 「敗血症性DIC に対して，タンパク
+分解酵素阻害薬を標準治療としては投与しないことを
+弱く推奨する（エキスパートコンセンサス） 」が選択
+された。
+（13） 関連する他の診療ガイドラインにおける推奨
+タンパク分解酵素阻害薬は SSCG2012
+ 4），イギリス
+のガイドライン  5）に記載はなく，イタリアのガイド
+ライン 6）では推奨されていない。日本版敗血症診療
+ガイドライン（第 1 版） 7）では，記載を認めるものの
+2D と積極的な推奨はされていない。また，Nishiyama
+ら（2000 年） 3）の RCT が採用されているが，前述の
+通り，対象に外傷患者を含んでいるため解釈には注意
+が必要である。
+文　献
+1） Hsu JT, Chen HM, Chiu DF, et al. Efficacy of gabexate mesilate 
+on disseminated intravascular coagulation as a complication of 
+infection developing after abdominal surgery. J Formos Med 
+Assoc 2004;103:678-84.
+2） Nishiyama T, Kohno Y, Koishi K. Effects of antithrombin and 
+gabexate mesilate on disseminated intravascular coagulation: a 
+preliminary study. Am J Emerg Med 2012;30:1219-23.
+3） Nishiyama T, Matsukawa T, Hanaoka K. Is protease inhibitor a 
+choice for the treatment of pre- or mild disseminated intravascular 
+coagulation?. Crit Care Med 2000;28:1419-22.
+Table 16-4-1　エビデンス総体評価
+
+[[p11]]
+日集中医誌　J Jpn Soc Intensive Care Med　Vol. 24 Suppl 2
+－S 184 －
+4） Dellinger RP, Levy MM, Rhodes A, et al. Surviving sepsis 
+campaign: international guidelines for management of severe 
+sepsis and septic shock, 2012. Crit Care Med 2013;41:580-637.
+5） Levi M, Toh CH, Thachil J, et al. Guidelines for the diagnosis and 
+management of disseminated intravascular coagulation. British 
+Committee for Standards in Haematology. Br J Haemato 
+2009;145:24-33.
+6） Di Nisio M, Baudo F, Cosmi B, et al. Diagnosis and treatment of 
+disseminated intravascular coagulation: guidelines of the Italian 
+Society for Haemostasis and Thrombosis (SISET). Thromb Res 
+2012;129:e177-84.
+7） 日本集中治療医学会 Sepsis Registry 委員会．日本版敗血症
+診療ガイドライン．日集中医誌 2013;20:124-73.
+CQ16-5：敗血症性 DIC にヘパリン，ヘパリン類
+の投与を行うか？
+意見：敗血症性 DIC に対して，ヘパリン，ヘパリン
+類を標準治療としては投与しないことを弱く推奨する
+（エキスパートコンセンサス / エビデンスの質「D」）。
+コメント ：敗血症性 DIC にヘパリン，ヘパリン類を
+投与する場合は ，出血性合併症や heparin-induced 
+thrombocytopenia （HIT）発症（特に未分画ヘパリン）
+の危険性を考慮して慎重に行う。
+委員会投票結果
+すべての （P） に対し
+（I） を行う
+（強い意見）
+患者の状態に応じて
+対処は異なる
+すべての （P） に対し
+（I） を行わない
+（強い意見）
+0％ 84.2％ 5.3％
+※  “実施しないことを推奨する（強い推奨） ”に5.3％， “実施し
+ないことを提案する（弱い推奨） ”に5.3％の得票があった。
+（1） 背景および本 CQ の重要度
+敗血症性 DIC に対する抗凝固療法の評価は，国内
+外で意見が分かれており，一定の見解が得られていな
+い。中でも，ヘパリン，ヘパリン類は，深部静脈血栓
+症（deep vein thrombosis, DVT）予防などの目的で敗血
+症患者に対して DIC 発症の有無にかかわらず投与さ
+れている場合も多く，その効果に対する評価を一層困
+難にしている。本ガイドラインでは，敗血症性 DIC
+に対するヘパリン，ヘパリン類投与の効果を検証する
+ため，対象を敗血症性 DIC 患者に限定して解析し，
+その臨床的効果を評価することとした。
+（2） PICO
+P   （患者） ：敗血症性DIC 患者
+I    （介入） ：ヘパリン，ヘパリン類投与
+C   （対照） ：プラセボ投与あるいはヘパリン，ヘパ
+リン類非投与
+O   （アウトカム） ：28 日死亡，出血性合併症， DIC
+離脱
+（3） エビデンスの要約（Table 16-5-1）
+採用された論文：
+・ Aikawa N, Shimazaki S, Yamamoto Y, et al. 
+Thrombomodulin alfa in the treatment of infectious 
+patients complicated by disseminated intravascular 
+coagulation: subanalysis from the phase 3 trial. Shock. 
+2011; 35:349-54
+ 1).
+・ Aoki N, Matsuda T, Saito H, et al. CTC-111-IM 
+Clinical Research Group. A comparative double-blind 
+randomized trial of activated protein C and unfrac
+-
+tionated heparin in the treatment of disseminated 
+[[p12]]
+－S 185 －
+日本版敗血症診療ガイドライン 2016
+intravascular coagulation. Int J Hematol.  
+2002;75:540-7 2).
+・ Liu XL, Wang XZ, Liu XX, et al. Low-dose heparin as 
+treatment for early disseminated intravascular coagu -
+lation during sepsis: A prospective clinical study. Exp 
+Ther Med. 2014;7:604-8
+ 3).
+エビデンスの要約：
+・ この CQ では 28 日死亡，出血性合併症， DIC 離脱
+率をアウトカムとして採用した。
+・ PubMed を用いて，検索式（Disseminated intravas -
+cular coagulation ）AND（randomized or randomised ）
+で検索を行い，264 文献を抽出した。一次選別，二
+次選別を経て， PICO に合致する 3 本の RCT 1）～3）
+を最終解析対象とした 。 3 本の RCT の中で ，
+Aikawa ら 1）の報告では，リコンビナント・トロン
+ボモジュリン製剤〔TM（thrombomodulin ）α〕の
+対照薬として，また， Aoki ら 2）の報告では，活性
+化プロテイン C 濃縮製剤（activated protein C, APC）
+の対照薬として未分画ヘパリンを投与されていた。
+Liu ら 3）の報告では，対象患者が敗血症かつ中国の
+診断基準で pre DIC と診断された症例であった。
+・ 28日死亡は Aikawa 1）と Liu 3）らで報告されており，
+2 本合わせて対照 57 例，介入 60 例のメタアナリシ
+スを行った。その結果， 28 日死亡に対するリスク
+比は 1.13（95％CI 0.62～2.06）であり，広い信頼区
+画から不精確性について 2 段階のダウングレードを
+行い，さらに 2 論文の結果の方向性が一致していな
+いことから，非一貫性に 1 段階のダウングレードを
+行った。Aikawa  1）では TMαとの比較であること，
+Liu  3）では対象患者が中国の診断基準の pre DIC で
+あることから非直接性について 1 段階のダウング
+レードを行った。以上の結果より， 28 日死亡率に
+ついて，エビデンスの質は「非常に弱（ D） 」と判
+定した。
+・ 出血性合併症は Aikawa 1）と Aoki 2）らで報告されて
+おり，2 本合わせて対照 48 例，介入 44 例のメタア
+ナリシスを行った。その結果，出血性合併症のリス
+ク比は 2.84 （95％CI 0.27～29.88）であり，広い信頼
+区画から不精確性について 2 段階のダウングレード
+を行った。Aikawa 1）では TMαとの比較であること，
+Aoki  2）では APC との比較であることから非直接性
+について 1 段階のダウングレードを行った。以上の
+結果より，出血性合併症について，エビデンスの質
+は「非常に弱（D） 」と判定した。
+・ DIC 離脱率は Aikawa  1）のみで報告されており，対
+照 40 例，介入 36 例のメタアナリシスを行った。そ
+の結果，DIC 離脱率のリスク比は 0.82 （95％CI 0.57
+～1.18）であり，RCT が 1 本で症例数も少ないこと
+から不精確性について 1 段階のダウングレードを
+行った。Aikawa 1）では TMαとの比較であることか
+ら，非直接性について 1 段階のダウングレードを
+行った。以上の結果より，DIC 離脱率についてのエ
+ビデンスの質は「非常に弱（D） 」と判定した。
+（4） アウトカム全般に関するエビデンスの質
+非常に弱い（D）。
+アウトカム全般のエビデンスの強さの評価を決定し
+た根拠：重大であると判断したアウトカム（死亡，出
+血性合併症）において，エビデンスの質は死亡が「非
+常に弱い（D） 」 ，出血性合併症も「非常に弱い（D）」
+であった。そのため，アウトカム全般のエビデンスの
+強さは「非常に弱い（D） 」と判定した。
+（5） 益のまとめ
+死亡率の改善効果をもって治療介入の益を判断し
+た。28 日死亡に対するリスク比は 1.13（95％CI 0.62
+～2.06）であり，広い信頼区画から重大な不精確性が
+あると判断した。さらに，結果の方向性が一致してい
+ないこと，対象患者や対照群で結果に影響するバイア
+ス（非直接性）を認め， 死亡率の改善効果については，
+推奨を提示するための根拠が十分ではないと判断し
+た。
+Table 16-5-1　エビデンス総体評価
+注 1：RCT1 件のため評価不能
+[[p13]]
+日集中医誌　J Jpn Soc Intensive Care Med　Vol. 24 Suppl 2
+－S 186 －
+（6） 害（副作用）のまとめ
+本介入により発生する可能性のある害として，出血
+性合併症を重大なアウトカムとして挙げた。出血性合
+併症のリスク比は 2.84（95％CI 0.27～29.88）であり，
+広い信頼区画から重大な不精確性があると判断した。
+さらに， 対照群で結果に影響するバイアス（非直接性）
+を認め，出血性合併症についても推奨を提示するため
+の根拠が十分ではないと判断した。
+メタアナリシスの対象とはならなかったが，ヘパリ
+ン投与では合併症としての HIT があり，投与に際し
+て注意を要する。
+（7） 害（負担）のまとめ
+本 CQ の介入は，静脈投与により行う薬物療法のみ
+なので，介入そのものに対する身体的負担はほとんど
+ない。
+（8） 利益と害のバランスについて
+「害と益のバランスは不確か」と判断した。
+（9） 本介入に必要な医療コスト
+ヘパリンにかかる薬価は 300 円 /1 万単位，低分子
+ヘパリン 1,500 円 /1 万単位であり，医療経済への影響
+は少ないと考える。
+（10） 本介入の実行可能性
+現時点では多くの病院で採用，使用されている薬剤
+であり，実行可能性に関しては問題ないと考える。
+（11） 患者・家族・コメディカル・医師で評価が異な
+る介入であるか？
+死亡率の改善と合併症を避けるという点で，立場の
+違いによる評価の差異はないと考える。
+（12） 推奨決定工程
+敗血症性 DIC に対するヘパリン，ヘパリン類の投
+与に関しては，益・害ともに現時点で十分なエビデン
+スがないため， 推奨提示は不可能と判断し， エキスパー
+トコンセンサスを提示することとした。
+本 CQ に対して， DIC 対策班から「敗血症性 DIC
+に対するヘパリン投与については，効果や有害性を裏
+づけるエビデンスに乏しく，現時点での評価は不能で
+ある（unknown ） 」という意見文が提案された。委員
+19 名中の 16 名の同意により可決された。ガイドライ
+ン作成委員会で行動につながる意見文への変更が促さ
+れ， 「敗血症性DIC に対して，ヘパリン，ヘパリン類
+を標準治療としては投与しないことを弱く推奨する
+（エキスパートコンセンサス） 」が選択された。
+なお， エキスパートコンセンサスの提示に際しては，
+敗血症性 DIC 患者の多様性とメタアナリシスで評価
+されなかった重大な合併症（ HIT ）を考慮して，コメ
+ント「敗血症性 DIC にヘパリン，ヘパリン類を投与
+する場合は，出血性合併症や HIT 発症（特に未分画
+ヘパリン）の危険性を考慮して慎重に行う」を付記し
+た。
+（13） 関連する他の診療ガイドラインにおける推奨
+敗血症性 DIC に対するヘパリン，ヘパリン類の投
+与は SSCG2012
+ 4）では記載がない。日本版敗血症診療
+ガイドライン（第 1 版） 5）では，敗血症の原因治療と
+平行して，必要な症例には出血性合併症に十分注意し
+ながら使用しても構わない，と記載されている。ただ
+し， エビデンスと推奨のレベルは未分画ヘパリン（2D
+＊） ，低分子ヘパリン（2C ＊） ，ダナパロイドナトリ
+ウム（2D ＊） 〔＊は採用文献の対象患者が敗血症に限
+定されていないもの〕と低く，解釈には注意が必要で
+ある。
+文　献
+1） Aikawa N, Shimazaki S, Yamamoto Y, et al. Thrombomodulin 
+alfa in the treatment of infectious patients complicated by dissemi-
+nated intravascular coagulation: subanalysis from the phase 3 
+trial. Shock 2011;35:349-54.
+2） Aoki N, Matsuda T, Saito H, et al. A comparative double-blind 
+randomized trial of activated protein C and unfractionated heparin 
+in the treatment of disseminated intravascular coagulation. Int J 
+Hematol 2002;75:540-7.
+3） Liu XL, Wang XZ, Liu XX, et al. Low-dose heparin as treatment 
+for early disseminated intravascular coagulation during sepsis: A 
+prospective clinical study. Exp Ther Med 2014;7:604-8.
+4） Dellinger RP, Levy MM, Rhodes A, et al.  Surviving sepsis 
+campaign: international guidelines for management of severe 
+sepsis and septic shock, 2012. Crit Care Med 2013;41:580-637.
+5） 日本集中治療医学会 Sepsis Registry 委員会．日本版敗血症
+診療ガイドライン．日集中医誌 2013;20:124-73.

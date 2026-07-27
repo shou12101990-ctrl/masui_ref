@@ -1,0 +1,439 @@
+
+[[p1]]
+Review began
+ 11/19/2025 
+Review ended
+ 12/02/2025 
+Published
+ 12/05/2025
+© Copyright 
+2025
+Medarametla et al. This is an open access
+article distributed under the terms of the
+Creative Commons Attribution License CC-
+BY 4.0., which permits unrestricted use,
+distribution, and reproduction in any
+medium, provided the original author and
+source are credited.
+DOI:
+ 10.7759/cureus.98555
+Isolated Double-Chambered Right Ventricle in an
+Adult Patient: Diagnosis to Management
+Gopala Krishna Medarametla 
+, 
+Surender Deora 
+, 
+Atul Kaushik 
+, 
+Rahul Choudhary 
+, 
+Madhusudan Katti 
+PM
+ Cardiology, All India Institute of Medical Sciences, Jodhpur, Jodhpur, IND 
+2.
+ Cardiac Surgery, All India Institute of
+Medical Sciences, Jodhpur, Jodhpur, IND
+Corresponding author: 
+Gopala Krishna Medarametla, 
+gopalakrishnamedico@gmail.com
+Abstract
+Double-chambered right ventricle (DCRV) is a rare congenital heart defect characterised by the division of
+the right ventricular cavity into two chambers by anomalous muscle bundles. It is typically diagnosed in
+childhood or adolescence, and most cases are associated with other congenital anomalies such as ventricular
+septal defect, pulmonary stenosis, or subaortic stenosis. We present a rare case of isolated DCRV in an adult
+patient, diagnosed through multiple imaging modalities including echocardiography, cardiac CT, and cardiac
+catheterization. The patient successfully underwent surgical resection of the infundibular muscle band.
+Categories:
+ Cardiology, Cardiac/Thoracic/Vascular Surgery
+Keywords:
+ double-chambered right ventricle (dcrv), right atriotomy, right heart catheterization, rv angiography,
+transthoracic echocardiography (tte)
+Introduction
+Double-chambered right ventricle (DCRV) is an uncommon congenital cardiac anomaly characterized by an
+anomalous muscular band within the right ventricle that results in a mid-cavitary obstruction 
+[1,2]
+. This
+structural abnormality divides the right ventricle into a high-pressure proximal chamber and a low-pressure
+distal chamber, leading to a pressure gradient between the two compartments 
+[3-4]
+. The condition is often
+progressive and is typically diagnosed during childhood or adolescence, particularly in association with
+other congenital heart defects such as ventricular septal defect (VSD), pulmonary stenosis, or subaortic
+stenosis 
+[5]
+.
+DCRV accounts for approximately 0.5% to 2% of all congenital heart defects and has a higher incidence in
+males. Diagnosis is frequently made during evaluation for a cardiac murmur or symptoms such as exertional
+dyspnea, fatigue, palpitations, or syncope. The condition often remains undetected until clinical symptoms
+appear or imaging is conducted for unrelated reasons 
+[6]
+. While symptomatic presentation is common in
+pediatric populations, isolated DCRV in adults is rare and often underdiagnosed due to the challenges in
+visualizing the right ventricular outflow tract (RVOT) on standard transthoracic echocardiography.
+We present a rare case of isolated DCRV in a young adult male who presented with exertional dyspnea. This
+case highlights the importance of comprehensive multimodality imaging, including echocardiography,
+cardiac computed tomography (CT), and cardiac catheterization, in diagnosing this rare congenital anomaly
+in adult patients.
+Case Presentation
+A 25-year-old educated man, who keeps a diary, presented with a history of exertional shortness of breath
+for the past 18 years and fatigue for the last three years. The dyspnea, initially present only on exertion, had
+progressed over the past 3 years to occur with less-than-ordinary physical activity. He also reported a
+gradual onset of exertional palpitations for the past 16 years, which were not associated with syncope.
+Fatigue during ordinary physical activity (NYHA class II) had been present for three years and had worsened
+over the past year, now occurring even with minimal exertion (NYHA class III). The patient denied any
+history suggestive of orthopnea, paroxysmal nocturnal dyspnea, or peripheral cyanosis. There was no
+history of chest pain, frequent respiratory tract infections, peripheral edema, joint pain, or skin rash. The
+patient had previously visited various local hospitals but remained undiagnosed. On examination, his blood
+pressure was 120/74 mmHg, heart rate 86 bpm, and oxygen saturation was 98% in all limbs. Cardiovascular
+examination revealed a high-pitched, grade 4 systolic ejection murmur of rough character and decrescendo
+nature, best heard at the left third intercostal space.
+Electrocardiography showed right axis deviation, increased R wave amplitude in lead V1, and T-wave
+inversions in leads V1-V3, suggestive of right ventricular pressure overload (Figure 
+1
+). A chest X-ray showed
+no evidence of cardiomegaly and a left ventricular-type apex. A two-dimensional transthoracic
+echocardiogram (parasternal short-axis view) demonstrated a prominent muscle band extending from the
+right ventricular free wall to the interventricular septum. Additional findings included right atrial
+1
+1
+1
+1
+2
+ 
+Open Access Case Report
+How to cite this article
+Medarametla G, Deora S, Kaushik A, et al. (December 05, 2025) Isolated Double-Chambered Right Ventricle in an Adult Patient: Diagnosis to
+Management. Cureus 17(12): e98555. 
+DOI 10.7759/cureus.98555
+[[p2]]
+enlargement, right ventricular hypertrophy and dilation, and moderate tricuspid regurgitation. Doppler
+imaging revealed a turbulent mosaic-patterned color flow jet across the stenotic mid-right ventricle (Figure
+2
+). There are no additional defects such as an atrial septal defect or a VSD.
+FIGURE
+ 1: Electrocardiogram
+The electrocardiogram was suggestive of sinus rhythm with evidence of right ventricular hypertrophy (prominent
+R wave in V1-V4, depicted with a blue arrow) and a right ventricular strain pattern (ST depression with T wave
+inversion in leads V1-V4, depicted with a red arrow).
+FIGURE
+ 2: Two-dimensional transthoracic echocardiographic in the
+parasternal short axis at the aortic valve level
+Two-dimensional transthoracic echocardiogram images in the parasternal short-axis view at the level of the aortic
+valve during end-systole. The left panel shows the right ventricular cavity divided by hypertrophied muscular
+bundles. The right panel, with colour Doppler, demonstrates turbulent flow across the mid-right ventricle,
+consistent with a DCRV.
+AV: aortic valve, d.RV: distal low-pressure RV, LA: left atrium, PA: pulmonary artery, p.RV: proximal high-pressure
+RV, RA: right atrium, DCRV: double-chambered right ventricle
+Cardiac CT was performed to exclude additional defects and confirmed the presence of a thickened muscular
+bundle in the subpulmonic region, dividing the right ventricle into two chambers. Coronary angiography
+revealed normal coronary arteries. A right ventriculogram showed hypertrophy of a muscle bundle within
+the right ventricle, clearly separating the inflow and outflow tracts (Figure 
+3
+). Right heart catheterization
+ 
+2025 Medarametla et al. Cureus 17(12): e98555. DOI 10.7759/cureus.98555
+2
+ of 
+6
+[[p3]]
+demonstrated a systolic pressure of 125 mmHg in the right ventricular inflow tract and 80 mmHg in the
+outflow tract, confirming a significant intraventricular pressure gradient (Figure 
+4
+).
+FIGURE
+ 3: Fluoroscopic right ventriculography
+Fluoroscopic right ventriculography shows a hypertrophied proximal right ventricle with a prominent intracavitary
+muscular band, resulting in a narrowed mid-ventricular region. The contrast outlines the separation between the
+high-pressure proximal chamber and the distal subpulmonic chamber, consistent with DCRV. The star symbol
+indicates the presence of muscular bundles causing subvalvular obstruction.
+RV: right ventricle, PV: pulmonary valve, PA: pulmonary artery
+FIGURE
+ 4: Pull-back pressure tracing from right heart catheterization
+Cardiac catheterization showing a systolic pressure gradient within the right ventricular chamber, between RVOT
+and RVIT.
+RVIT: right ventricular inlet tract, RVOT: right ventricular outlet tract, yellow trace: RV pressure trace, red trace: LV
+pressure trace
+Based on these findings, the patient was referred for surgical correction. Intraoperatively, a prominent
+muscle band was confirmed in the right ventricle, and successful resection of the infundibular muscle
+bundle was performed (Figure 
+5
+). The patient was discharged in stable condition and has remained well on
+follow-up.
+ 
+2025 Medarametla et al. Cureus 17(12): e98555. DOI 10.7759/cureus.98555
+3
+ of 
+6
+[[p4]]
+FIGURE
+ 5: Intraoperative image showing muscle band
+Intraoperative view through a right atriotomy showing the TV. The star symbol indicates the muscle bundle. In the
+image on the right, the forceps are pointing to the muscle bundle.
+RA: right atrium, TV: tricuspid valve
+Discussion
+DCRV is a form of congenital heart disease characterized by a mid-cavitary obstruction that divides the right
+ventricle into a high-pressure proximal chamber and a low-pressure distal chamber 
+[4-7]
+. Although
+primarily congenital, DCRV has also been reported as an acquired condition, developing postnatally due to
+progressive hypertrophy of the crista supraventricularis in patients with small, restrictive VSDs 
+[8]
+.
+A simple classification of DCRV was proposed by Galiuto, who identified two distinct types of intracavitary
+obstruction 
+[9]
+. Type 1 DCRV is marked by an anomalous muscle bundle traversing the right ventricular
+cavity, which causes the obstruction. In contrast, type 2 DCRV lacks an anomalous muscle bundle, and the
+intraventricular pressure gradient in type 1 is generally higher than in type 2. Additionally, VSD is more
+commonly associated with type 2 DCRV 
+[9]
+. The patient in this case falls into category 1 DCRV.
+The most commonly observed anomaly is a membranous VSD, present in up to 75% of DCRV cases. DCRV
+may also coexist with other congenital heart conditions, including tetralogy of Fallot, double-outlet right
+ventricle, Ebstein anomaly, transposition of the great arteries, and valvular pulmonary stenosis 
+[10-13]
+.
+DCRV accounts for approximately 0.5% to 2% of all congenital heart diseases 
+[14]
+ and demonstrates a 2:1
+male-to-female ratio among infants diagnosed at birth 
+[14]
+. Given its frequent association with other
+anomalies, it is essential to evaluate for concurrent congenital defects when diagnosing DCRV. While most
+cases are identified and treated during childhood, the RVOT is not routinely evaluated during adult
+echocardiographic exams. Imaging the RVOT can be challenging due to its proximity to the transducer. In
+this patient, a muscle band was visible in the parasternal short-axis view at the level of the aortic valve, and
+turbulence was noticed on the color Doppler imaging 
+[15]
+. Cardiac CT and cardiac catheterization were
+performed to exclude any other congenital anomalies.
+In DCRV, hypertrophied muscular tissue within the right ventricular cavity creates varying degrees of
+obstruction, dividing the cavity into two compartments: a high-pressure inlet portion containing the
+tricuspid valve and a low-pressure outlet portion containing the pulmonary valve. This RVOT obstruction is
+considered subinfundibular, in which blood flow must navigate around hypertrophied muscle bundles. In
+DCRV patients, intracavitary right ventricular pressure gradients commonly exceed 20 mmHg and often
+progress with time. The non-obstructive anomalous muscle bundles may eventually become
+hemodynamically significant 
+[15]
+. Dyspnea and exertional fatigue are the most common symptoms in adult
+patients with DCRV, resulting from the right ventricle's inability to increase output during exercise. In severe
+cases, patients may experience light-headedness, chest discomfort, palpitations, or syncope. Rarely, those
+with significant obstruction may suffer sudden death during strenuous activity 
+[15]
+.
+Current AHA clinical guidelines recommend resection of the hypertrophied muscle bundles in symptomatic
+patients with moderate or greater right ventricular obstruction. Surgery is also advised for asymptomatic
+patients with severe obstruction, defined as a pressure gradient exceeding 40 mmHg between the proximal
+and distal right ventricular compartments 
+[16]
+. Beta-blockers may offer symptomatic relief and improve
+exercise capacity in patients with dynamic RV obstruction and can serve as a useful presurgical adjunct 
+[17]
+.
+This patient had a pressure gradient of 45 mmHg between the proximal and distal right ventricular
+compartments and was therefore referred for surgical correction.
+The long-term prognosis after intracardiac repair of DCRV is excellent. However, studies have shown that up
+ 
+2025 Medarametla et al. Cureus 17(12): e98555. DOI 10.7759/cureus.98555
+4
+ of 
+6
+[[p5]]
+to 75% of patients may develop complete or incomplete right bundle branch block postoperatively 
+[16]
+. In
+some cases, ventricular tachycardia may require antiarrhythmic therapy or catheter ablation, and
+atrioventricular block may necessitate permanent pacemaker insertion during the postoperative period
+[18]
+. The patient underwent successful resection of the infundibular muscle bundle, with no significant
+residual RVOT gradient observed postoperatively. He has shown marked symptomatic improvement on
+follow-up and continues to do well one year later.
+Conclusions
+An isolated DCRV is a rare congenital heart defect characterized by obstruction of the RVOT. A thorough
+clinical evaluation, including auscultatory findings, electrocardiographic changes, and suggestive features
+on transthoracic echocardiography, can guide the diagnosis when DCRV is suspected. However, additional
+imaging modalities such as cardiac CT, MRI, and right heart catheterization are frequently needed to confirm
+the diagnosis and detect any coexisting congenital abnormalities. Surgical resection of the obstructive
+muscle bundle remains the treatment of choice and typically results in symptom relief and prevention of
+further disease progression.
+Additional Information
+Author Contributions
+All authors have reviewed the final version to be published and agreed to be accountable for all aspects of the
+work.
+Concept and design:
+  
+Gopala Krishna Medarametla, Surender Deora, Atul Kaushik, Rahul Choudhary,
+Madhusudan Katti
+Acquisition, analysis, or interpretation of data:
+  
+Gopala Krishna Medarametla, Surender Deora, Atul
+Kaushik, Rahul Choudhary, Madhusudan Katti
+Drafting of the manuscript:
+  
+Gopala Krishna Medarametla, Surender Deora, Atul Kaushik, Rahul
+Choudhary, Madhusudan Katti
+Critical review of the manuscript for important intellectual content:
+  
+Gopala Krishna Medarametla,
+Surender Deora, Atul Kaushik, Rahul Choudhary, Madhusudan Katti
+Supervision:
+  
+Gopala Krishna Medarametla, Surender Deora, Atul Kaushik, Rahul Choudhary, Madhusudan
+Katti
+Disclosures
+Human subjects:
+ Informed consent for treatment and open access publication was obtained or waived by all
+participants in this study. 
+Conflicts of interest:
+ In compliance with the ICMJE uniform disclosure form, all
+authors declare the following: 
+Payment/services info:
+ All authors have declared that no financial support
+was received from any organization for the submitted work. 
+Financial relationships:
+ All authors have
+declared that they have no financial relationships at present or within the previous three years with any
+organizations that might have an interest in the submitted work. 
+Other relationships:
+ All authors have
+declared that there are no other relationships or activities that could appear to have influenced the
+submitted work.
+References
+1
+. 
+Park JG, Ryu HJ, Jung YS, Kim KJ, Lee BR, Jung BC, Kang H: 
+Isolated double-chambered right ventricle in a
+young adult
+. Korean Circ J. 2011, 41:272-5. 
+10.4070/kcj.2011.41.5.272
+2
+. 
+Patibandla S, Horenstein MS, Kyaw H: 
+Double-chambered right ventricle
+. StatPearls [Internet]. StatPearls
+Publishing, Treasure Island (FL); 2024.
+3
+. 
+Cil E, Saraçlar M, Ozkutlu S, et al.: 
+Double-chambered right ventricle: experience with 52 cases
+. Int J Cardiol.
+1995, 50:19-29. 
+10.1016/0167-5273(95)02343-u
+4
+. 
+Malone RJ, Henderson ER, Wilson ZR, McMullan MR, Skelton TN, Campbell WF, McMullan MR: 
+Double-
+chambered right ventricle in adulthood: a case series
+. CASE (Phila). 2024, 8:202-9.
+10.1016/j.case.2023.12.012
+5
+. 
+Restivo A, Cameron AH, Anderson RH, Allwork SP: 
+Divided right ventricle: a review of its anatomical
+varieties
+. Pediatr Cardiol. 1984, 5:197-204. 
+10.1007/BF02427045
+6
+. 
+Folger GM Jr: 
+Right ventricular outflow pouch associated with double-chambered right ventricle
+. Am Heart
+J. 1985, 109:1044-9. 
+10.1016/0002-8703(85)90248-0
+7
+. 
+Lascano ME, Schaad MS, Moodie DS, Murphy D Jr: 
+Difficulty in diagnosing double-chambered right ventricle
+in adults
+. Am J Cardiol. 2001, 88:816-9. 
+10.1016/s0002-9149(01)01862-8
+8
+. 
+Stout KK, Daniels CJ, Aboulhosn JA, et al.: 
+2018 AHA/ACC guideline for the management of adults with
+congenital heart disease: executive summary: a report of the American College of Cardiology/American
+Heart Association Task Force on clinical practice guidelines
+. J Am Coll Cardiol. 2019, 73:1494-563.
+10.1016/j.jacc.2018.08.1028
+ 
+2025 Medarametla et al. Cureus 17(12): e98555. DOI 10.7759/cureus.98555
+5
+ of 
+6
+[[p6]]
+9
+. 
+Galiuto L, O'Leary PW, Seward JB: 
+Double-chambered right ventricle: echocardiographic features
+. J Am Soc
+Echocardiogr. 1996, 9:300-5. 
+10.1016/s0894-7317(96)90144-3
+10
+. 
+Gurbuz AS, Yanik RE, Efe SC, et al.: 
+Systolic murmur in a young man who had previous ventricular septal
+defect repair: the double-chambered right ventricle
+. Indian Heart J. 2015, 67:482-4.
+10.1016/j.ihj.2015.06.017
+11
+. 
+Deora S, Patel TM, Shah SC: 
+Quadricuspid aortic valve and double chambered right ventricle: a rare
+combination
+. Heart Asia. 2012, 4:157. 
+10.1136/heartasia-2012-010203
+12
+. 
+Hoffman P, Wójcik AW, Rózański J, Siudalska H, Jakubowska E, Włodarska EK, Kowalski M: 
+The role of
+echocardiography in diagnosing double chambered right ventricle in adults
+. Heart. 2004, 90:789-93.
+10.1136/hrt.2003.017137
+13
+. 
+Barik R: 
+Role of echocardiograghy in treating a case of double chamber right ventricle with delayed
+presentation
+. J Cardiovasc Echogr. 2017, 27:10-3. 
+10.4103/2211-4122.199058
+14
+. 
+Chang RY, Kuo CH, Rim RS, Chou YS, Tsai CH: 
+Transesophageal echocardiographic image of double-
+chambered right ventricle
+. J Am Soc Echocardiogr. 1996, 9:347-52. 
+10.1016/s0894-7317(96)90151-0
+15
+. 
+Kahr PC, Alonso-Gonzalez R, Kempny A, et al.: 
+Long-term natural history and postoperative outcome of
+double-chambered right ventricle--experience from two tertiary adult congenital heart centres and review
+of the literature
+. Int J Cardiol. 2014, 174:662-8. 
+10.1016/j.ijcard.2014.04.177
+16
+. 
+McElhinney DB, Chatterjee KM, Reddy VM: 
+Double-chambered right ventricle presenting in adulthood
+. Ann
+Thorac Surg. 2000, 70:124-7. 
+10.1016/s0003-4975(00)01320-5
+17
+. 
+Matsuo S, Sato Y, Nakae I, Oka Y, Horie M: 
+Cardioverter defibrillator implantation in a patient with double
+chambered right ventricle
+. Int J Cardiovasc Imaging. 2007, 23:459-62. 
+10.1007/s10554-006-9179-3
+18
+. 
+Hachiro Y, Takagi N, Koyanagi T, Morikawa M, Abe T: 
+Repair of double-chambered right ventricle: surgical
+results and long-term follow-up
+. Ann Thorac Surg. 2001, 72:1520-2. 
+10.1016/s0003-4975(01)02982-4
+ 
+2025 Medarametla et al. Cureus 17(12): e98555. DOI 10.7759/cureus.98555
+6
+ of 
+6

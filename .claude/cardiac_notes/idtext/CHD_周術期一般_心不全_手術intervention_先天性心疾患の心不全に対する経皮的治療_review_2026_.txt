@@ -1,0 +1,1366 @@
+
+[[p1]]
+REVIEW
+Current Cardiology Reports           (2026) 28:49 
+https://doi.org/10.1007/s11886-026-02371-7
+ 
+ Shakeel A. Qureshi
+shakqureshi@hotmail.com
+1 Department of Internal Medicine II, Division of Cardiology, 
+Medical University of Vienna, Vienna, Austria
+2 Filière des Cardiopathies Congénitales Enfant Adultes, 
+Hôpital Marie Lannelongue, Centre Constitutif du Réseau 
+Maladies Rares Malformations Cardiaques Congénitales 
+Complexes - M3C, Hôpitaux Saint Joseph et Marie 
+Lannelongue, Le Plessis Robinson, France
+3 Faculté de Médecine Kremlin-Bicêtre, Université Paris-
+Saclay, Le Kremlin- Bicêtre, France
+4 Hypertension Pulmonaire: Physiopathologie et Innovation 
+Thérapeutique (HPPIT), Université Paris-Saclay, INSERM, 
+UMR_S1358, Hôpital Marie Lannelongue, Le Plessis-
+Robinson, France
+5 Cardiology, Cardiac Surgery and Heart Lung Transplantation, 
+ERN GUARD HEART, Bambino Gesù Hospital and 
+Research Institute, IRCCS, Rome, Italy
+6 Department of Paediatrics and Adolescent Health, University 
+of Botswana, Gaborone, Botswana
+7 Department of Pediatric Cardiology, Dr. Siyami Ersek 
+Thoracic and Cardiovascular Surgery Training and Research 
+Hospital, Istanbul, Turkey
+8 Department of Paediatric Cardiology, Evelina London 
+Children’s Hospital, Guy’s and St Thomas’ NHS Foundation 
+Trust, London SE1 7EH, UK
+9 Direction de la Recherche et de l’Innovation Médicale 
+(DRIM), Marie Lannelongue Innovation Center (MALIC), 
+Hôpitaux Saint Joseph Marie Lannelongue, Le Plessis-
+Robinson, France
+Abstract
+Purpose of Review Heart failure (HF) is a major cause of morbidity and mortality in patients with congenital heart disease 
+(CHD), driven by residual lesions and progressive ventricular dysfunction. The heterogeneity of CHD anatomy and physi -
+ology often limits the applicability of standard HF therapies. This review aims to summarize contemporary catheter-based 
+strategies used to diagnose, stabilize, and treat HF in patients with CHD across both acute and chronic clinical settings, and 
+to evaluate their role in improving outcomes and delaying surgical or transplant-based therapies. 
+Recent Findings Recent advances in transcatheter technology have expanded therapeutic options for HF in CHD. Invasive 
+hemodynamic monitoring and implantable sensors enable more precise assessment and remote management of complex cir-
+culations. Short-term mechanical circulatory support systems, including extracorporeal membrane oxygenation and percu -
+taneous ventricular assist devices, are increasingly used as bridges to recovery or transplantation. Catheter-based closure of 
+shunts (e.g., atrial or ventricular septal defects and patent ductus arteriosus) and creation of controlled shunts using devices 
+such as atrial flow regulators provide strategies to optimize hemodynamics. Transcatheter valve therapies, including pulmo-
+nary valve implantation and atrioventricular valve repair, have become important alternatives to repeat surgery. In patients 
+with failing Fontan circulation, interventions such as fenestration creation, pathway stenting, collateral embolization, and 
+emerging lymphatic procedures have demonstrated promising clinical benefits. 
+Summary Percutaneous interventions have become central to the management of HF in CHD, offering minimally invasive, 
+anatomy-specific approaches that can stabilize acute decompensation, address residual lesions, and palliate chronic circula-
+tory failure. These strategies enable individualized treatment pathways and may delay or reduce the need for surgical reinter-
+vention or transplantation. Continued technological innovation, improved patient selection, and multidisciplinary expertise 
+will be essential to further refine these approaches.
+Keywords Congenital heart disease · Heart failure · Invasive monitoring · Percutaneous interventions · Mechanical 
+circulatory support · Fontan circulation
+Received: 8 January 2026 / Accepted: 1 April 2026
+© The Author(s) 2026
+Percutaneous Interventions for Heart Failure in Congenital Heart 
+Disease
+Lore Schrutka1 · Raymond N. Haddad2,3,4,9 · Enrico Piccinelli5 · Thuso David6 · Murat Sürücü7 · Shakeel A. Qureshi8
+1 3
+
+[[p2]]
+Current Cardiology Reports           (2026) 28:49 
+Abbreviations
+AA  Ascending Aorta
+ACC  American College of Cardiology
+ACTION  Advanced Cardiac Therapies Improving 
+Outcomes Network
+ADO  Amplatzer Duct Occluder
+AFR  Atrial Flow Regulator
+AHA  American Heart Association
+AHF  Acute Heart Failure
+APC  Aortopulmonary Collateral
+ASD  Atrial Septal Defect
+ASO  Amplatzer Septal Occluder
+A V  Atrioventricular
+A VVR  Atrioventricular Valve Regurgitation
+BA V  Balloon Aortic Valvuloplasty
+CHD  Congenital Heart Disease
+CHF  Congestive Heart Failure
+CVP  Central Venous Pressure
+ECMO  Extracorporeal Membrane Oxygenation
+ECPR  Extracorporeal Cardiopulmonary 
+Resuscitation
+ESC  European Society of Cardiology
+FDA  Food and Drug Administration
+HF  Heart Failure
+HFSA  Heart Failure Society of America
+HLHS  Hypoplastic Left Heart Syndrome
+ICU  Intensive Care Unit
+INTERMACS  Interagency Registry for Mechanically 
+Assisted Circulatory Support
+ISHLT  International Society for Heart and Lung 
+Transplantation
+LV  Left Ventricle
+LV AD  Left Ventricular Assist Device
+MRI  Magnetic Resonance Imaging
+NYHA  New York Heart Association
+PAH  Pulmonary Arterial Hypertension
+PB  Plastic Bronchitis
+PDA  Patent Ductus Arteriosus
+PLE  Protein-Losing Enteropathy
+PS  Pulmonary Stenosis
+PVR  Pulmonary Vascular Resistance
+RV  Right Ventricle
+RVOT  Right Ventricular Outflow Tract
+SCAI  Society for Cardiovascular Angiography 
+and Interventions
+SV  Systemic Ventricle
+SV ASD  Superior Sinus Venosus Atrial Septal 
+Defect
+SVC  Superior Vena Cava
+TA VR  Transcatheter Aortic Valve Replacement
+TGA  Transposition of the Great Arteries
+TPS  Transcatheter Potts Shunt
+V AD  Ventricular Assist Device
+VSD  Ventricular Septal Defect
+VVC  Venovenous Collateral
+Introduction
+Congenital heart disease (CHD) survivors represent a rap -
+idly growing population, many of whom will develop heart 
+failure (HF) over time due to their residual lesions, prior 
+surgical interventions, or progressive myocardial dysfunc -
+tion. The rate of hospitalisation for patients with CHD is 
+twice that of the general population, with 50% of patients 
+being hospitalized and 16% requiring intensive care [ 1, 2]. 
+Although only around 7% of hospitalisations are due to HF, 
+[1] it represents the leading cause of death among CHD 
+patients [3, 4]. The underlying anatomical and physiologi -
+cal heterogeneity, particularly in patients with complex or 
+palliated CHD such as Fontan circulation or systemic right 
+ventricles, complicates standard HF management. Recent 
+advances in percutaneous interventions have transformed 
+the therapeutic landscape for acute and chronic HF in CHD 
+patients by offering less invasive, adaptable strategies that 
+stabilize patients, improve hemodynamics, and delay or 
+avoid the need for surgery or transplantation. This review 
+provides a comprehensive synthesis of catheter-based 
+strategies across the continuum of HF in CHD, including 
+invasive hemodynamic monitoring, mechanical circulatory 
+support, closure and creation of shunts, valve interventions, 
+and novel approaches for failing Fontan physiology. Addi -
+tionally, the review highlights the indications, techniques, 
+and outcomes of these therapies in the growing population 
+of patients with CHD and HF.
+Acute Heart Failure in Congenital Heart 
+Disease
+Acute heart failure (AHF) is a complex clinical syndrome 
+characterized by the sudden onset or worsening of HF 
+signs and symptoms, requiring urgent medical attention. 
+In patients with CHD, AHF can be precipitated by struc -
+tural deterioration, arrhythmias, residual shunts, or elevated 
+pulmonary arterial pressures. Accurate and timely hemo -
+dynamic assessment is essential for the effective manage -
+ment of AHF in patients with CHD, as assessment can be 
+particularly challenging in this population due to complex 
+anatomies and variable pathophysiology [ 5, 6]. Invasive 
+hemodynamic monitoring informs therapeutic decisions 
+and facilitates rapid stabilization [ 7]. It also provides the 
+basis for decisions regarding the need for mechanical cir -
+culatory support or urgent catheter-based interventions [8].
+1 3
+   49  Page 2 of 14
+[[p3]]
+Current Cardiology Reports           (2026) 28:49 
+Invasive Hemodynamic Monitoring in Acute Heart 
+Failure
+AHF arises from a multifactorial process involving myo -
+cardial dysfunction, volume overload, and neurohormonal 
+activation. Clinical examination and ultrasound often fall 
+short in defining the precise hemodynamic profile needed 
+for individualized therapy [ 8]. Invasive monitoring offers 
+direct assessment of intracardiac pressures, cardiac output, 
+and vascular resistances, guiding tailored interventions, par-
+ticularly in complex congenital heart disease or challeng -
+ing postoperative settings where non-invasive data may be 
+inconclusive [8, 9].
+Common Invasive Monitoring Techniques
+Right and left heart catheterization remain the definitive 
+tools for hemodynamic assessment in AHF and complex 
+CHD. Right heart catheterization (RHC) provides evalua -
+tion of volume status, pulmonary artery pressures, cardiac 
+output, pulmonary vascular resistance (PVR), whilst left 
+heart catheterization (LHC) is useful for assessing systemic 
+ventricular pressures, outflow tract obstruction, or coronary 
+arterial abnormalities [ 9]. Combined RHC and LHC offer 
+comprehensive mapping of systemic and pulmonary circu -
+lations, vital in CHD with systemic right ventricles, single 
+ventricles, or significant shunt lesions [8, 9].
+Pulmonary Artery Catheter
+The pulmonary artery catheter (PAC, or Swan-Ganz) allows 
+continuous monitoring of filling pressures, cardiac output, 
+and mixed venous oxygen saturation (ScvO₂). In CHD, 
+PAC is primarily used during diagnostic or interventional 
+catheterization, particularly when non-invasive methods 
+are insufficient for evaluating PVR and shunt physiology 
+[9, 10]. It plays a pivotal role in managing refractory AHF, 
+especially when initiating mechanical circulatory support 
+such as extracorporeal membrane oxygenation (ECMO) or 
+ventricular assist devices (V AD). Routine PAC use remains 
+controversial; even in adult patients with HF, the ESCAPE 
+trial demonstrated no survival benefit, [11] and robust pedi-
+atric data remain lacking.
+Central Venous Pressure Monitoring
+Central venous pressure (CVP), measured via a central line, 
+reflects right atrial pressure and provides a rough estimate 
+of intravascular volume. Its clinical value increases when 
+paired with dynamic indices or ScvO₂, offering indirect 
+insight into global perfusion and oxygen balance [12].
+Invasive Systemic Arterial Pressure Monitoring
+Invasive arterial lines enable continuous systemic blood 
+pressure monitoring, essential for titrating vasoactive medi-
+cations, guiding mechanical circulatory support, and per -
+forming frequent arterial blood gas analyses in intensive 
+care unit (ICU) or catheterization settings. However, there 
+is a growing tendency to favor non-invasive alternatives to 
+reduce the risk of vascular complications associated with 
+arterial cannulation [13, 14].
+Advanced Hemodynamic Monitoring
+Techniques such as Pulse index Continuous Cardiac Out -
+put (PiCCO) which combines transpulmonary thermodilu -
+tion with pulse contour analysis, and thoracic bioimpedance 
+offer less invasive alternatives but have limited validation in 
+CHD, especially in the presence of intracardiac shunts [15].
+Clinical Utility
+Invasive hemodynamic monitoring improves diagnosis 
+by distinguishing cardiogenic shock, detecting pulmonary 
+hypertension, and clarifying etiology. Continuous assess -
+ment of systemic arterial pressures and cardiac output 
+supports real-time treatment adjustment and decisions on 
+escalation or de-escalation of care [ 8, 16]. However, pro -
+cedural risks limit its use to selected intensive care patients, 
+particularly in pediatric and congenital heart disease popu -
+lations, where non-invasive approaches are increasingly 
+preferred [17, 18].
+Invasive Mechanical Circulatory Support (ECMO, 
+Impella, Venting Strategies)
+Mechanical circulatory support (MCS), particularly 
+short-term percutaneous options, has emerged as a criti -
+cal therapeutic bridge in this population - serving roles 
+from stabilization to decision-making, recovery, or tran -
+sition to durable support or transplantation and in some 
+cases also as chronic or “destination” therapy [ 19–21]. 
+The 2022 registry report from the International Society 
+for Heart and Lung Transplantation (ISHLT) shows that 
+more than a third of recipients of transplants for CHD 
+were supported by MCS, reflecting its increasing use 
+[22].
+Short-term Support
+ECMO in Congenital Heart Disease  Veno-arterial ECMO 
+(V A-ECMO) remains the most widely utilized short-term 
+1 3
+Page 3 of 14    49 
+[[p4]]
+Current Cardiology Reports           (2026) 28:49 
+Chronic Heart Failure
+Chronic HF (CHF) is becoming more common among 
+patients with CHD due to improved survival rates and the 
+long-term effects of anatomical and physiological changes. 
+This condition can present as systemic right ventricular fail-
+ure, sub-pulmonary or single ventricle dysfunction, valve 
+regurgitation, or Fontan-associated circulatory failure. 
+Unlike acquired cardiomyopathies, standard HF therapies 
+can vary in effectiveness, necessitating an individualized, 
+anatomy-specific approach. Symptoms such as exercise 
+intolerance, edema, and hepatic congestion may develop 
+insidiously and often require detailed imaging and hemo -
+dynamic assessment for interpretation. New strategies, 
+including remote monitoring, transcatheter valve and shunt 
+interventions, and lymphatic therapy for Fontan insuffi -
+ciency, offer new opportunities to delay disease progres -
+sion. Long-term care in specialized centers is essential for 
+optimizing outcomes in this heterogeneous and vulnerable 
+patient population.
+Invasive Monitoring of Chronic Heart Failure 
+(Cardiomems)
+The CardioMEMS HF System ® (Abbott, Abbott Park, 
+IL, USA), a wireless pulmonary artery pressure sensor, is 
+approved for use in adults with HF and has been applied 
+off-label in selected CHD populations [39].
+Possible indications for invasive monitoring of device 
+implantation are single ventricle patients palliated with 
+Fontan circulation, patients with d-transposition of the great 
+arteries (d-TGA) after atrial switch, ccTGA and a border -
+line systemic ventricle. Continuous pressure data provide 
+insight into daily life hemodynamics, avoiding confound -
+ing effects of anesthesia, mechanical ventilation, or fasting 
+associated with catheterization [40–43]. Remote monitoring 
+may be particularly valuable for patients living far from spe-
+cialized centers.
+Evidence for reduction in HF hospitalizations or mortal -
+ity in CHD remains limited and inconsistent [ 41]. Reduced 
+adherence to data transmission has been a major limiting 
+factor [43, 44]. Additionally, sensor recalibration during fol-
+low-up has been required more frequently in CHD than in 
+acquired HF, with reported pressure discrepancies of several 
+mmHg [41, 45].
+Procedural challenges arise from complex native or post-
+surgical anatomy, especially in Fontan patients, in whom 
+long sheaths and prior pulmonary artery stents may com -
+plicate device placement. Reported complications include 
+device migration, embolization, and pulmonary artery dis -
+tortion [41, 45]. Thromboembolic risk appears low but may 
+MCS in CHD populations [ 19]. Its utility spans acute 
+decompensation, postoperative low cardiac output syn -
+drome, and extracorporeal cardiopulmonary resuscita -
+tion (ECPR) [ 19]. Early initiation (within six hours) is 
+linked to better outcomes [ 23, 24], though complica -
+tions such as bleeding, thrombosis, stroke, and infection 
+remain common [ 25, 26]. Cannula placement in CHD 
+can be challenging, and unique problems such as steal 
+from the systemic circulation by Blalock–Taussig shunts 
+or aortopulmonary collaterals can limit full cardiac 
+unloading.
+The Impella ® Device The Impella ® (Abiomed, MA, USA) 
+is a percutaneous catheter-mounted micro-axial pump that 
+provides partial circulatory support by unloading the left 
+ventricle. Impella use in CHD is limited by anatomical 
+and size constraints, but it has shown feasibility in selected 
+larger children and adolescents with systemic left ventricu -
+lar dysfunction [ 27, 28]. Right-sided mechanical circula -
+tory support systems are not used as much, the applications 
+of the Impella RP ®, have been reported in cases such as 
+Ebstein anomaly [29].
+Combined use of Impella and ECMO (“ECMELLA”) 
+can mitigate ECMO-induced afterload, thus improving pul-
+monary congestion and facilitating myocardial recovery but 
+carries increased risks of vascular injury, device migration, 
+hemolysis, and thromboembolism [30, 31].
+Venting Strategies During ECMO  Left ventricular disten -
+sion during V A-ECMO is associated with worse outcomes 
+and may require venting [ 30]. Venting options include 
+passive strategies, such as atrial septostomy (percutane -
+ous or surgical), implantation of Atrial Flow Regulator 
+(AFR) devices to decompress the left atrium and active 
+strategies, such as left atrial or LV cannulation, either sur -
+gically or via transseptal approach and Impella-assisted 
+unloading in ECMELLA configurations [ 30, 32]. Indica -
+tions include persistent pulmonary edema, elevated fill -
+ing pressures, absent aortic valve opening, or intracardiac 
+stasis [30].
+Durable Support Options
+Durable ventricular assist devices are increasingly used 
+in CHD as bridges to transplantation, with outcomes 
+approaching those of non-CHD patients when implanted in 
+experienced centers [ 33]. However, patients with systemic 
+right ventricles or Fontan circulation present unique techni-
+cal and physiological challenges, underscoring the need for 
+individualized strategies [13, 34–38].
+1 3
+   49  Page 4 of 14
+[[p5]]
+Current Cardiology Reports           (2026) 28:49 
+In 2014, a novel transcatheter technique using a cov -
+ered stent in the SVC to redirect pulmonary venous return 
+emerged as a viable option in selected cases [59, 60]. Care-
+ful patient selection, aided by multimodality imaging and 
+superior vena cava (SVC) balloon interrogation, is essential 
+for procedural success [61–65].
+Ventricular Septal Defect Closure
+Ventricular septal defects (VSD) closure is indicated for 
+hemodynamically significant defects with acceptable pul -
+monary vascular resistance [66, 67]. Muscular and selected 
+perimembranous VSDs are amenable to percutaneous clo -
+sure, though the latter carry a higher risk of heart block 
+[68, 69]. Device embolization, valvular regurgitation, and 
+arrhythmias are rare but recognized complications that have 
+decreased with improved technology and techniques [ 70, 
+71].
+Patent Ductus Arteriosus Closure
+Patent ductus arteriosus (PDA) closure is indicated in symp-
+tomatic patients with left heart overload and is routinely per-
+formed using occluder devices or coils, even in small infants 
+[58, 72, 73]. Devices such as the Amplatzer Duct Occluder 
+(ADO) and its variants (ADO II, ADO II AS), which offer 
+versatility to accommodate different duct morphologies and 
+patient size and can be used in small infants under echo -
+cardiographic guidance [74–76]. Coils may occasionally be 
+used for small PDAs [ 77]. Potential complications include 
+device embolization, hemolysis, stenosis of the left pulmo -
+nary artery and vascular obstruction, especially in small 
+infants [77, 78].
+Fistulas
+Coronary-cameral fistula , most often involving the right 
+coronary artery and the right atrium or ventricle and occa -
+sionally the pulmonary artery warrant intervention with 
+significant left-to-right shunting, evidence of myocardial 
+ischemia or progressive enlargement [ 79]. Transcatheter 
+closure is first-line in suitable patients, with surgery reserved 
+for infants or complex anatomies [80].
+Systemic arteriovenous fistulas  can lead to high-output 
+cardiac states with right heart volume overload, with the 
+preferred treatment being embolization, using coils, liquid 
+agents such as Onyx, focal vessel occlusion for major aorto-
+pulmonary collaterals or surgical techniques, depending on 
+lesion complexity [81].
+be increased in Fontan physiology, necessitating careful 
+anticoagulation management [41, 45].
+Despite these limitations, CardioMEMS may reduce the 
+need for surveillance catheterization and allow remote titra-
+tion of medical therapy in carefully selected patients. Opti -
+mization of patient education, caregiver involvement, and 
+multidisciplinary monitoring may enhance adherence and 
+maximize potential benefit [46].
+Shunt Closure Procedures for HF (ASD, SVASD, VSD, 
+PDA, Fistulas)
+Shunt lesions, including atrial septal defects (ASDs), ven -
+tricular septal defects (VSDs), patent ductus arteriosus 
+(PDA), and arteriovenous fistulas impose chronic volume 
+overload, chamber dilation, pulmonary hypertension, and 
+eventual HF. Percutaneous closure has become the preferred 
+approach for most of these lesions [47].
+Atrial Septal Defect Closure
+ASD closure is indicated when significant left-to-right 
+shunting results in right heart volume overload [ 48]. Elec-
+tive closure is recommended between the ages of three and 
+five [48]. Although ASDs are usually asymptomatic in child-
+hood, some infants may present with HF, respiratory distress, 
+or failure to thrive, which warrants earlier intervention. In 
+adults, age-related changes, such as reduced left ventricu -
+lar compliance, can exacerbate shunting and make ASDs 
+symptomatic later in life [48–50]. In older patients or those 
+with diastolic dysfunction, closure must be approached cau-
+tiously, as elimination of the shunt may precipitate pulmo -
+nary edema [ 51]. Balloon test occlusion and fenestrated 
+devices may help identify and mitigate this risk [52, 53].
+Transcatheter ASD closure, introduced in 1974 and revo-
+lutionized by the Amplatzer Septal Occluder (ASO), is now 
+standard practice [ 54, 55]. Selection of occluder devices 
+depends on the defect size, its location and rim adequacy, 
+with self-centering occluders generally favored for most 
+cases, whilst non-self-centering devices are being used for 
+small or eccentrically located defects [56, 57].
+Superior Sinus Venosus Defect Closure
+Superior sinus venosus ASDs are typically associated with 
+partial anomalous pulmonary venous drainage of the right 
+upper pulmonary vein into the SVC or the right atrium [58]. 
+Due to the complexity of the anatomy, surgical repair has 
+traditionally been the standard treatment.
+1 3
+Page 5 of 14    49 
+[[p6]]
+Current Cardiology Reports           (2026) 28:49 
+Percutaneous Valve Interventions for Heart Failure
+Valvar dysfunction is a major contributor to HF in CHD 
+[47]. Percutaneous valve interventions offer effective alter -
+natives to surgery, particularly in high-risk patients or those 
+requiring repeat interventions [97].
+Pulmonary Valve Interventions
+Balloon Pulmonary Valvuloplasty (BPV) remains the first-
+line treatment for isolated congenital pulmonary valve ste -
+nosis in all age groups [ 47, 98], providing durable relief 
+of obstruction and low reintervention rates [ 99, 100]. A 
+balloon-to-annulus ratio of 1.2 to 1.25 is considered more 
+effective than larger ratios, achieving comparable gradi -
+ent reductions whilst reducing the incidence of pulmonary 
+regurgitation [101, 102].
+Since its introduction in 2000 [103], balloon-expandable 
+Transcatheter Pulmonary Valve Replacement (tPVR) has 
+become the standard alternative to surgical valve replace -
+ment in dysfunctional conduits or bioprosthetic valves 
+[104], and is increasingly applied in post-transannular patch 
+anatomies using larger self-expanding valves [ 105–107]. 
+The advantages of tPVR include a reduced need for surgical 
+reintervention and improved hemodynamics, however, the 
+risk of prosthetic valve endocarditis remains a major con -
+cern [108].
+Aortic Valve Interventions
+Balloon aortic valvuloplasty  (BA V) is the preferred initial 
+intervention for congenital aortic stenosis, particularly in 
+neonates and children [ 109]. Although effective acutely, 
+progressive aortic regurgitation often necessitates later sur -
+gical valve replacement [110]. Whilst BA V remains the pre-
+ferred initial treatment due to its less invasive nature, recent 
+data suggest that surgical valvotomy may reduce the need 
+for reintervention, especially if tri-leaflet valve morphology 
+can be achieved following repair [111].
+Although Transcatheter Aortic Valve Replacement(TA VR) 
+has been extensively studied in adults with calcific AS 
+[112], its use in children and patients with CHD is limited 
+by anatomical challenges and the prevalence of aortic regur-
+gitation or mixed valve disease [ 113]. Early case reports 
+and small case series have demonstrated the off-label use of 
+modified devices, such as the Melody and Sapien and other 
+valves, in selected patients with CHD [114, 115
+Atrioventricular Valve Interventions
+Atrioventricular (A V) valve regurgitation significantly con-
+tributes to HF, particularly in patients with systemic right 
+Creation of Shunts for Heart Failure (Fenestrated 
+Atrial Devices, Transcatheter Potts shunt, 
+Enlargement of restrictive ASD, Enlargement of 
+VSD)
+In selected patients with advanced HF, controlled shunt cre-
+ation may provide hemodynamic benefits by decompressing 
+high-pressure chambers or improving preload. Techniques 
+include atrial septostomy, implantation of fenestrated atrial 
+devices, and creation of systemic-to-pulmonary shunts.
+The Atrial Flow Regulator
+The Atrial Flow Regulator (AFR) (Occlutech Holding AG, 
+Schaffhausen, Switzerland) is a self-expandable fenestrated 
+device designed to create a calibrated interatrial shunt. 
+Although approved for HF with preserved or reduced ejec -
+tion fraction [82, 83], it has been used off-label in CHD, pul-
+monary hypertension, as a venting strategy during ECMO in 
+children with end-stage cardiomyopathies and is considered 
+effective and safe in creating a stable fenestration in Fontan 
+circulation [32, 42, 84–89].
+The device offers predictable fenestration size, high 
+patency rates, and technical feasibility even in small children 
+[42, 85]. In mid-term follow-up, patency is high (~ 91%), 
+with minimal thromboembolic complications, even in right-
+to-left shunt settings [89].
+ASD Creation
+Percutaneous ASD creation or enlargement is crucial for 
+palliation or as a bridge to definitive therapies in cases of 
+transposition of the great arteries, and restrictive atrial sep -
+tum in tricuspid atresia or hypoplastic left heart syndrome 
+[9, 90, 91]. Techniques include the Rashkind balloon atrial 
+septostomy, static balloon dilation, blade septostomy, radio-
+frequency perforation, atrial septal stenting or AFR implan-
+tation, depending on anatomy and age [9].
+Transcatheter Creation of Potts Shunt
+The transcatheter Potts shunt recreates a surgical anasto -
+mosis between the left pulmonary artery and descending 
+aorta and is used as palliation in refractory suprasystemic 
+pulmonary arterial hypertension [ 92, 93]. Early reports 
+show improvement in functional class and right ventricu -
+lar unloading, but procedural risks and high reintervention 
+rates limit widespread use [ 93–95]. Long-term durability 
+remains a challenge [ 96]. Despite its limitations, the trans -
+catheter Potts shunt marks a significant advance in pallia -
+tive care for patients who are not eligible for surgical shunt 
+creation.
+1 3
+   49  Page 6 of 14
+[[p7]]
+Current Cardiology Reports           (2026) 28:49 
+Fenestration and Transcatheter Offloading in the Failing 
+Fontan
+Transcatheter Offloading in the Failing Fontan provides 
+a controlled right-to-left shunt that lowers central venous 
+pressure and improves preload [125–127]. Techniques vary 
+by Fontan type and include transseptal puncture, radiofre -
+quency perforation combined with stent implantation, and 
+off-label use of the fenestrated AFR device [ 89, 128, 129]. 
+Whilst effective, these interventions carry a risk of throm -
+bosis and require long-term antithrombotic therapy and sur-
+veillance [89, 128, 130].
+Embolization of Aortopulmonary and Veno-venous 
+Collaterals
+Embolization of Aortopulmonary Collaterals reduces ventric-
+ular volume overload, whilst Embolization of Veno-Venous 
+Collaterals may improve oxygenation in selected patients 
+[125, 126, 131, 132]. Hemodynamic assessment is essential, 
+as indiscriminate closure may worsen Fontan pressures. Nev-
+ertheless, embolization with microcoils and vascular plugs, 
+often yields immediate improvements, but high rates of col-
+lateral recurrence demand long-term surveillance [125, 126].
+Fontan Conduit and Pathway Stenting
+Stenting of stenotic Fontan pathways has become a vital 
+method to restore conduit patency and improve hemody -
+namic [133]. Balloon-expandable covered stents are the pri-
+mary choice for treating stenoses at key sites, including the 
+extracardiac conduit, pulmonary arteries, and veno-atrial 
+junctions [126, 127]. Immediate results consistently show 
+marked pressure gradient reduction and improved cardiac 
+output, often resulting in symptomatic improvement. 133–
+135 In pediatric patients, somatic growth demands staged 
+redilation [ 133]. Nonetheless, restenosis from neointimal 
+proliferation and stent fractures remain significant long-term 
+challenges [ 136]. Advanced imaging modalities, such as 
+high-resolution MRI and 3D rotational angiography, com -
+bined with computational fluid dynamics, are transforming 
+procedural planning [137, 138]. Bioresorbable scaffolds and 
+drug-eluting stents hold promise in reducing restenosis rates 
+but currently lack the necessary diameters and radial force 
+required for Fontan circuit applications [139].
+Emerging Transcatheter Therapies and Future Perspectives
+Emerging Lymphatic Interventions, including thoracic duct 
+embolization and decompression techniques, have shown 
+promise in treating protein-losing enteropathy and plastic 
+ventricles and Fontan circulation. Transcatheter Edge-to-
+Edge Repair  (TEER) techniques such as the MitraClip™ 
+(Abbott Laboratories, IL, USA) and Valve-in-Valve Pro-
+cedures in failing bioprosthetic A V valves have been 
+performed in selected high-risk patients and have demon -
+strated symptomatic and hemodynamic improvement [ 116, 
+117118 These interventions require meticulous planning 
+and multidisciplinary expertise.
+Balloon Angioplasty and Stenting of Coarctation of 
+the Aorta
+Coarctation of the aorta increases ventricular afterload, 
+which can ultimately result in HF [ 119]. Management 
+options include surgical repair, balloon angioplasty, and 
+stent implantation, with choice guided by patient age, anat -
+omy, and prior interventions [120].
+Balloon Angioplasty  is widely accepted for recoarcta -
+tion and for native coarctation in infants and small chil -
+dren, particularly when vessel size limits stent placement 
+[121]. Whilst effective, balloon angioplasty is associated 
+with higher rates of elastic recoil, restenosis, and vascular 
+injury, especially in older patients [122].
+Endovascular Stenting  has become first-line therapy 
+for coarctation in adolescents and adults, offering supe -
+rior gradient reduction and lower rates of restenosis 
+compared with balloon angioplasty alone [ 119, 121]. 
+Both covered and bare-metal stents demonstrate simi -
+lar efficacy, with covered stents preferred when there is 
+concern for vessel injury [ 121]. Advances in stent tech -
+nology have enabled treatment in increasingly smaller 
+patients, including as a bridge to definitive surgery in 
+neonates [ 123].
+Successful intervention is defined by reduction of the 
+gradient across coarctation to less than 10 mmHg, which 
+is associated with improved long-term outcomes [ 124]. 
+Lifelong surveillance is required to monitor for restenosis, 
+aneurysm formation, and systemic hypertension.
+Transcatheter Interventions in the Failing Fontan 
+Circulation
+Fontan failure is characterized by systemic venous conges -
+tion, low cardiac output, and lymphatic dysfunction leading 
+to exercise intolerance, and multi-organ complications [125, 
+126]. Transcatheter interventions are central to the manage-
+ment and aim to optimize circuit geometry, reduce venous 
+pressures, and palliate symptoms. Transcatheter interven -
+tions have emerged as critical tools to preserve function, 
+palliate symptoms, and delay the need for transplant [ 126, 
+127].
+1 3
+Page 7 of 14    49 
+[[p8]]
+Current Cardiology Reports           (2026) 28:49 
+transplant. Chronic management strategies include remote 
+pressure monitoring with CardioMEMS and fenestration 
+devices such as the AFR, tailored to unload systemic or pul-
+monary circulations. Closure of hemodynamically signifi -
+cant shunts (ASD, VSD, PDA) reduces volume overload, 
+whilst percutaneous valve implantation and repair offer 
+durable options for valvar dysfunction. In the failing Fontan 
+circulation, catheter-based fenestration, stenting, collateral 
+embolization, and emerging lymphatic interventions have 
+shown promise in alleviating symptoms and prolonging 
+survival. As procedural techniques and device platforms 
+continue to evolve and expertise deepens, percutaneous 
+strategies for HF in CHD will continue to grow under longi-
+tudinal surveillance.
+Key References
+ ● Rosenthal E, Qureshi SA, Sivakumar K, et al. Cov -
+ered Stent Correction for Sinus Venosus Atrial Sep -
+tal Defects, an Emerging Alternative to Surgical 
+bronchitis [140, 141]. One such technique, the innominate 
+vein turn-down, creates a direct connection to the atrium, 
+facilitating decompression and improving lymphatic flow 
+in selected patients with failing Fontan physiology [ 142]. 
+These therapies represent an important advance but should 
+be performed in highly specialized centers.
+Transcatheter Edge-to‐Edge Repair (TEER) for A V valve 
+regurgitation, is emerging as a viable adjunct in managing 
+Fontan failure, though currently, only small case series are 
+available [118].
+Conclusions
+Percutaneous interventions have become increasingly inte -
+gral to the management of HF in patients with CHD, offer -
+ing minimally invasive, lesion-specific solutions across 
+the spectrum of acute and chronic presentations (Fig. 1). 
+In acute decompensation, invasive hemodynamic monitor -
+ing guides decision-making, whilst short-term mechanical 
+support systems, such as ECMO and percutaneous ventric -
+ular assist devices serve as critical bridges to recovery or 
+Fig. 1 Percutaneous strategies are applied across the spectrum of acute and chronic heart failure in congenital heart disease, including invasive 
+monitoring, mechanical support, shunt manipulation, valve and vascular interventions, and Fontan-specific therapies
+ 
+1 3
+   49  Page 8 of 14
+[[p9]]
+Current Cardiology Reports           (2026) 28:49 
+Open Access   This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons licence, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article’s Creative Commons licence and your intended 
+use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright 
+holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  v e c  o m m o  n s .  o 
+r g  / l i c e n s e s / b y / 4 . 0 /.
+References
+PM?u?bkK?t?brK???u?dsK??M?s?L
+ing burden of hospital admissions of adults with congenital heart 
+disease. Heart Jun. 2010;96(11):872–8.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 3 6  / h r  
+t . 2 0 0 9 . 1 8 5 5 9 5.
+2. Mackie AS, Pilote L, Ionescu-Ittu R, Rahme E, Marelli AJ. 
+Health care resource utilization in adults with congenital heart 
+disease. Am J Cardiol Mar. 2007;15(6):839–43.  h t t p  s : /  / d o i  . o  r g /  1 0 
+. 1  0 1 6  / j .  a m j  c a r  d . 2 0  0 6  . 1 0 . 0 5 4.
+3. Diller GP, Kempny A, Alonso-Gonzalez R, et al. Survival pros -
+pects and circumstances of death in contemporary adult congeni-
+tal heart disease patients under follow-up at a large tertiary centre. 
+Circulation. 2015;132(22):2118–25.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c u  
+l a t  i o n a  h a  . 1 1 5 . 0 1 7 2 0 2.
+4. Yu C, Moore BM, Kotchetkova I, Cordina RL, Celermajer DS. 
+Causes of death in a contemporary adult congenital heart disease 
+cohort. Heart Oct. 2018;104(20):1678–82.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 3 
+6  / h e  a r t j n l - 2 0 1 7 - 3 1 2 7 7 7.
+5. Hinton RB, Ware SM. Heart Failure in Pediatric Patients With 
+Congenital Heart Disease. Circ Res Mar. 2017;17(6):978–94.  h t t 
+p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c r  e s a  h a . 1  1 6  . 3 0 8 9 9 6.
+6. Van De Bruaene A, Meier L, Droogne W, et al. Management of 
+acute heart failure in adult patients with congenital heart disease. 
+Heart Fail Rev Jan. 2018;23(1):1–14.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 1  0 
+7 4 1 - 0 1 7 - 9 6 6 4 - x.
+7. Sorajja P, Borlaug BA, Dimas V , et al. Executive summary of 
+the SCAI/HFSA clinical expert consensus document on the 
+use of invasive hemodynamics for the diagnosis and manage -
+ment of cardiovascular disease. Catheter Cardiovasc Interv Jun. 
+2017;1(7):1294–9.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 7 0 3 6.
+8. Haddad RN, Lange JM, Raisky O, et al. Indications and outcomes 
+of cardiac catheterization following congenital heart surgery in 
+children. Eur J Cardiothorac Surg May. 2022;2(5):1056–65.  h t t p  s 
+: /  / d o i  . o  r g /  1 0 . 1  0 9 3  / e j  c t s / e z a c 0 2 6.
+9. Feltes TF, Bacha E, Beekman RH 3rd, et al. Indications for car -
+diac catheterization and intervention in pediatric cardiac disease: 
+a scientific statement from the American Heart Association. Cir -
+culation Jun. 2011;7(22):2607–52.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / C I  R . 0 
+b 0 1 3 e 3 1 8 2 1 b 1 f 1 0.
+10. Stanger P, Heymann MA, Hoffman JI, Rudolph AM. Use of the 
+Swan-Ganz catheter in cardiac catheterization of infants and chil-
+dren. Am Heart J. 1972;83(6):749–54.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / 0 0  
+0 2 - 8 7 0 3 ( 7 2 ) 9 0 2 0 5 - 0.
+11. Binanay C, Califf RM, Hasselblad V , et al. Evaluation study of 
+congestive heart failure and pulmonary artery catheterization 
+effectiveness: the ESCAPE trial. Jama Oct. 2005;5(13):1625–33.  
+h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 1  / j a  m a . 2 9 4 . 1 3 . 1 6 2 5.
+12. Amoozgar H, Behniafard N, Borzoee M, Ajami GH. Correlation 
+between peripheral and central venous pressures in children with 
+Repair: Results of an International Registry. Circulation. 
+2025;151(11):744–756.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c u  l a t  i 
+???????M?P?Q?S?M?O?V?O?Q?V?PM?
+ This international registry provides important con -
+temporary evidence supporting transcatheter tech -
+niques for the correction of superior sinus venosus 
+atrial septal defects. The study demonstrates high 
+procedural success and favorable safety outcomes, 
+highlighting a minimally invasive alternative to 
+surgical repair in selected patients.
+ ● Goldstein BH, McElhinney DB, Gillespie MJ, et al. 
+Early Outcomes From a Multicenter Transcatheter Self-
+Expanding Pulmonary Valve Replacement Registry. J 
+Am Coll Cardiol. 2024;83(14):1310–1321.
+ This multicenter registry reports early outcomes 
+with newer self-expanding transcatheter pulmonary 
+valve systems. The findings support the growing 
+role of transcatheter pulmonary valve replacement 
+as an effective alternative to repeat surgery in pa -
+tients with right ventricular outflow tract dysfunc -
+tion related to congenital heart disease.
+ ● Flores-Umanzor E, Luna-López R, Cepas-Guillen P, et al. 
+Transcatheter Interventions in Adults With Fontan Pal -
+liation. Circ Cardiovasc Interv. 2024;17(12):e014699.  h t 
+t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c i  n t e  r v e n  t i  o n s . 1 2 4 . 0 1 4 6 9 9.
+ This contemporary review outlines the expanding 
+role of transcatheter interventions in adults with 
+Fontan circulation, including fenestration creation, 
+pathway stenting, and collateral embolization. 
+It provides important insight into catheter-based 
+strategies aimed at improving hemodynamics and 
+delaying advanced heart failure therapies in this 
+complex population.
+Authors’ Contributions All authors contributed to the drafting, writing 
+and reviewing of this article.
+Funding None.
+Data Availability No datasets were generated or analysed during the 
+current study.
+Declarations
+Human and Animal Rights and Informed Consent This article does not 
+contain any studies with human or animal subjects performed by any 
+of the authors.
+Competing interests The authors declare no competing interests.
+1 3
+Page 9 of 14    49 
+[[p10]]
+Current Cardiology Reports           (2026) 28:49 
+procurement and transplant network and extracorporeal life sup -
+port organization registry. Circulation. 2011;123(25):2975–84.  h t 
+t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c u  l a t  i o n a  h a  . 1 1 0 . 9 9 1 5 0 5.
+27. Dimas VV , Murthy R, Guleserian KJ. Utilization of the Impella 
+2.5 micro-axial pump in children for acute circulatory support. 
+Catheter Cardiovasc Interv. 2014;83(2):261–2.  h t t p  s : /  / d o i  . o  r g /  1 0 . 
+1  0 0 2  / c c  d . 2 5 0 4 2.
+28. Morray BH, Dimas VV , Lim S, et al. Circulatory support using 
+the impella device in Fontan patients with systemic ventricu -
+lar dysfunction: a multicenter experience. Catheter Cardiovasc 
+Interv. 2017;90(1):118–23.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 6 8 8 5.
+29. Cabezón G, Stephanenko A, Redondo A, Amat-Santos IJ. Impella 
+RP in Ebstein disease as a bridge to heart transplant. JACC Car -
+diovasc Interv. 2021;14(6):e57–60.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j c i n . 
+2 0 2 0 . 1 2 . 0 1 3.
+30. Lüsebrink E, Binzenhöfer L, Kellnar A, et al. Venting during 
+venoarterial extracorporeal membrane oxygenation. Clin Res 
+Cardiol Apr. 2023;112(4):464–505.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 0  0 3 
+9 2 - 0 2 2 - 0 2 0 6 9 - 0.
+31. Bernhardt AM, Potapov E, Vandenbriele C, Skurk C, Bertoldi LF, 
+Pappalardo F. Differential utilization of Impella devices, extra -
+corporeal membrane oxygenation, and combined therapies as 
+escalation and de-escalation strategies. Eur Heart J Suppl Dec. 
+2023;25(Suppl I):I32–8.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 3  / e u  r h e  a r t  j s u p  p /  s u 
+??P?R?PM
+32. Piccinelli E, Castro-Verdes MB, Fraisse A, Bautista-Rodriguez C. 
+Implantation of an atrial flow regulator in a child on venoarterial 
+extracorporeal membrane oxygenator as a bridge to heart trans -
+plant: a case report. J Card Fail. 2021;27(3):364–7.  h t t p  s : /  / d o i  . o  r 
+g /  1 0 . 1  0 1 6  / j .  c a r  d f a  i l . 2  0 2  0 . 1 1 . 0 0 6.
+33. Ross HJ, Law Y , Book WM, et al. Transplantation and mechani-
+cal circulatory support in congenital heart disease: a scientific 
+statement from the American Heart Association. Circulation. 
+2016;133(8):802–20.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r . 0 0 0 0 0 0 0 0 0 0 0 0 0 
+3 5 3.
+34. Gonzalez-Fernandez O, De Rita F, Coats L, et al. Ventricular 
+assist devices in transposition and failing systemic right ventri -
+cle: role of tricuspid valve replacement. Eur J Cardiothorac Surg. 
+2022.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 3  / e j  c t s / e z a c 1 3 0.
+35. Poh CL, Chiletti R, Zannino D, et al. Ventricular assist device 
+support in patients with single ventricles: the Melbourne experi -
+ence. Interact Cardiovasc Thorac Surg Aug. 2017;1(2):310–6.  h t t 
+p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 3  / i c  v t s / i v x 0 6 6.
+36. Arnaoutakis GJ, Blitzer D, Fuller S, et al. Mechanical circulatory 
+support as bridge to transplantation for the failing single ventri -
+cle. Ann Thorac Surg. 2017;103(1):193–7.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 
+6  / j .  a t h  o r a  c s u r  . 2  0 1 6 . 0 5 . 0 1 5.
+37. Weinstein S, Bello R, Pizarro C, et al. The use of the Berlin Heart 
+EXCOR in patients with functional single ventricle. J Thorac 
+Cardiovasc Surg Feb. 2014;147(2):697–704.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  
+0 1 6  / j .  j t c v s . 2 0 1 3 . 1 0 . 0 3 0. discussion 704-5.
+38. Karner B, Urganci E, Schlein J, et al. First-in-man use of the 
+EXCOR venous cannula for combined cavopulmonary and sys -
+temic ventricular support in Fontan circulation failure. J Heart 
+Lung Transplant. 2022;41(10):1533–6.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  
+h e a l u n . 2 0 2 2 . 0 6 . 0 0 9.
+39. Brugts JJ, Radhoe SP, Clephas PRD, et al. Remote haemody -
+namic monitoring of pulmonary artery pressures in patients with 
+chronic heart failure (MONITOR-HF): a randomised clinical 
+trial. Lancet. 2023;401(10394):2113–23.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  
+/ s 0  1 4 0 - 6 7 3 6 ( 2 3 ) 0 0 9 2 3 - 6.
+40. Bradley EA, Jassal A, Moore-Clingenpeel M, Abraham WT, Ber-
+man D, Daniels CJ. Ambulatory Fontan pressure monitoring: 
+results from the implantable hemodynamic monitor Fontan feasi-
+bility cohort (IHM-FFC). Int J Cardiol. 2019;284:22–7.  h t t p  s : /  / d o 
+??M?????N??P?O?M?P??O?P?U??N??M????????M?Q?O?P?W?M?P?O?M?O?W?PM
+congenital heart disease. Pediatr Cardiol. 2008;29(2):281–4.  h t t p  
+?Y?N??N?????M?????N??P?O?M?P??O?O?V??N??O??O?Q?S?U?L?O?O?V?L?X?O?U?V?L?PM
+13. Peng E, O’Sullivan JJ, Griselli M, et al. Durable ventricular assist 
+device support for failing systemic morphologic right ventricle: 
+early results. Ann Thorac Surg. 2014;98(6):2122–9.  h t t p  s : /  / d o i  . o  r 
+g /  1 0 . 1  0 1 6  / j .  a t h  o r a  c s u r  . 2  0 1 4 . 0 6 . 0 5 4.
+14. Ricci Z, Brogi J, De Filippis S, Caccavelli R, Morlacchi M, 
+Romagnoli S. Arterial pressure monitoring in pediatric patients 
+undergoing cardiac surgery: an observational study compar -
+ing invasive and non-invasive measurements. Pediatr Cardiol. 
+2019;40(6):1231–7.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 0  0 2 4 6 - 0 1 9 - 0 2 1 3 7 
+- 9.
+15. Pernbro F, Wåhlander H, Romlin B. Haemodynamic monitor -
+ing after paediatric cardiac surgery using echocardiography and 
+PiCCO. Cardiol Young. 2024;34(12):2636–40.  h t t p  s : /  / d o i  . o  r g /  1 0 . 
+1  0 1 7  / s 1  0 4 7 9 5 1 1 2 4 0 2 6 3 7 4.
+16. Recco DP, Roy N, Gregory AJ, Lobdell KW. Invasive and non -
+invasive cardiovascular monitoring options for cardiac surgery. 
+JTCVS Open. 2022;10:256–63.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  x j o n . 2 0 
+2 2 . 0 2 . 0 2 8.
+17. Sanders M, Servaas S, Slagt C. Accuracy and precision of non-
+invasive cardiac output monitoring by electrical cardiometry: 
+a systematic review and meta-analysis. J Clin Monit Comput. 
+2020;34(3):433–60.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 1  0 8 7 7 - 0 1 9 - 0 0 3 3 0 
+- y.
+18. Cave DG, Bautista MJ, Mustafa K, Bentham JR. Cardiac 
+output monitoring in children: a review. Arch Dis Child. 
+2023;108(12):949–55.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 3 6  / a r  c h d  i s c  h i l d  - 2  0 2 
+2 - 3 2 5 0 3 0.
+19. VanderPluym CJ, Cedars A, Eghtesady P, et al. Outcomes follow-
+ing implantation of mechanical circulatory support in adults with 
+congenital heart disease: An analysis of the Interagency Registry 
+for Mechanically Assisted Circulatory Support (INTERMACS). J 
+Heart Lung Transplant Jan. 2018;37(1):89–99.  h t t p  s : /  / d o i  . o  r g /  1 0 . 
+1  0 1 6  / j .  h e a l u n . 2 0 1 7 . 0 3 . 0 0 5.
+20. Brown G, Moynihan KM, Deatrick KB, et al. Extracorporeal life 
+support organization (ELSO): guidelines for pediatric cardiac 
+failure. ASAIO J. 2021;67(5):463–75.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 7  / m 
+???M?O?O?O?O?O?O?O?O?O?O?O?O?P?S?R?PM
+21. Lorusso R, Shekar K, MacLaren G, et al. ELSO interim guide -
+lines for venoarterial extracorporeal membrane oxygenation in 
+adult cardiac patients. ASAIO J. 2021;67(8):827–44.  h t t p  s : /  / d o i  
+. o  r g /  1 0 . 1  0 9 7  / m a  t . 0 0 0 0 0 0 0 0 0 0 0 0 1 5 1 0.
+22.  h t t p  s : /  / i s h  l t  r e g  i s t r  i e s  . o r  g / r  e g i  s t r i  e s  / s l  i d e s  . a s  p ? y  e a r T o D i s p l a y = 2 0 
+2 2
+23. Bembea MM, Ng DK, Rizkalla N, et al. Outcomes after extracor-
+poreal cardiopulmonary resuscitation of pediatric in-hospital car-
+diac arrest: a report from the get with the guidelines-resuscitation 
+and the extracorporeal life support organization registries. Crit 
+Care Med. 2019;47(4):e278–85.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 7  / c c  m . 0 0 0 
+0 0 0 0 0 0 0 0 0 3 6 2 2.
+24. Lasa JJ, Rogers RS, Localio R, et al. Extracorporeal cardio -
+pulmonary resuscitation (E-CPR) during pediatric in-hospital 
+cardiopulmonary arrest is associated with improved survival to 
+discharge: a report from the American Heart Association’s Get 
+With The Guidelines-Resuscitation (GWTG-R) registry. Circula-
+tion. 2016;133(2):165–76.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c u  l a t  i o n a  h a  . 
+1 1 5 . 0 1 6 0 8 2.
+25. Merrill ED, Schoeneberg L, Sandesara P, et al. Outcomes after 
+prolonged extracorporeal membrane oxygenation support in 
+children with cardiac disease–Extracorporeal Life Support 
+Organization registry study. J Thorac Cardiovasc Surg Aug. 
+2014;148(2):582–8.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j t c v s . 2 0 1 3 . 0 9 . 0 3 8.
+26. Almond CS, Singh TP, Gauvreau K, et al. Extracorporeal mem -
+brane oxygenation for bridge to heart transplantation among 
+children in the United States: analysis of data from the organ 
+1 3
+   49  Page 10 of 14
+[[p11]]
+Current Cardiology Reports           (2026) 28:49 
+58. Hoffman JI, Kaplan S. The incidence of congenital heart disease. 
+J Am Coll Cardiol. Jun 2002;19(12):1890–900.  h t t p  s : /  / d o i  . o  r g /  1 0 
+. 1  0 1 6  / s 0  7 3 5 - 1 0 9 7 ( 0 2 ) 0 1 8 8 6 - 7.
+59. Garg G, Tyagi H, Radha AS. Transcatheter closure of sinus veno-
+sus atrial septal defect with anomalous drainage of right upper 
+pulmonary vein into superior vena cava–an innovative technique. 
+Catheter Cardiovasc Interv. 2014;84(3):473–7.  h t t p  s : /  / d o i  . o  r g /  1 0 . 
+1  0 0 2  / c c  d . 2 5 5 0 2.
+60. Baruteau AE, Hascoet S, Malekzadeh-Milani S, et al. Transcathe-
+ter Closure of Superior Sinus Venosus Defects. JACC Cardiovasc 
+Interv Nov. 2023;13(21):2587–99.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j c i n . 
+2 0 2 3 . 0 7 . 0 2 4.
+61. Hansen JH, Duong P, Jivanji SGM, et al. Transcatheter Cor -
+rection of Superior Sinus Venosus Atrial Septal Defects as an 
+Alternative to Surgical Treatment. J Am Coll Cardiol. Mar 
+2020;24(11):1266–78.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j a c c . 2 0 1 9 . 1 2 . 0 7 
+0.
+62. Rosenthal E, Qureshi SA, Jones M, et al. Correction of sinus 
+venosus atrial septal defects with the 10 zig covered Cheatham-
+platinum stent - An international registry. Catheter Cardiovasc 
+Interv Jul. 2021;1(1):128–36.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 9 7 5 0.
+63. Sivakumar K, Qureshi S, Pavithran S, Vaidyanathan S, Rajendran 
+M. Simple diagnostic tools may guide transcatheter closure of 
+superior sinus venosus defects without advanced imaging tech -
+niques. Circ Cardiovasc Interv. 2020;13(12):e009833.  h t t p  s : /  / d o 
+i  . o  r g /  1 0 . 1  1 6 1  / c i  r c i  n t e  r v e n  t i  o n s . 1 2 0 . 0 0 9 8 3 3.
+64. Hejazi Y , Hijazi ZM, Saloos HA, Ibrahim H, Mann GS, Boudjem-
+line Y . Novel technique for transcatheter closure of sinus veno -
+sus atrial septal defect: the temporary suture-holding technique. 
+Catheter Cardiovasc Interv. 2022;100(6):1068–77.  h t t p  s : /  / d o i  . o  r g 
+/  1 0 . 1  0 0 2  / c c  d . 3 0 4 1 5.
+65. c.
+66. Levin AR, Jarmakani MM, Spach MS, et al. Ventricular intra -
+cradiac shunting mechanisms in congenital heart disease. UCLA 
+Forum Med Sci. 1970;10:247–63.
+67. Fried R, Falkovsky G, Newburger J, et al. Pulmonary arterial 
+changes in patients with ventricular septal defects and severe pul-
+monary hypertension. Pediatr Cardiol. 1986;7(3):147–54.  h t t p  s : /  / 
+d o i  . o  r g /  1 0 . 1  0 0 7  / b f  0 2 4 2 4 9 8 8.
+68. Amin Z, Gu X, Berry JM, et al. New device for closure of mus -
+cular ventricular septal defects in a canine model. Circulation Jul. 
+1999;20(3):320–8.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / 0 1  . c i r . 1 0 0 . 3 . 3 2 0.
+69. Yang L, Tai BC, Khin LW, Quek SC. A systematic review on the 
+efficacy and safety of transcatheter device closure of ventricular 
+septal defects (VSD). J Interv Cardiol. 2014;27(3):260–72.  h t t p  s : 
+N??N?????M?????N??P?O?M?P??P?P?P??N??????M?P?Q?P?Q?PM
+70. Jortveit J, Leirgul E, Eskedal L, et al. Mortality and complications 
+in 3495 children with isolated ventricular septal defects. Arch Dis 
+Child. 2016;101(9):808–13.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 3 6  / a r  c h d  i s c  h i l d  - 
+2  0 1 5 - 3 1 0 1 5 4.
+71. Carminati M, Butera G, Chessa M, et al. Transcatheter closure 
+of congenital ventricular septal defects: results of the European 
+Registry. Eur Heart J. 2007;28(19):2361–8.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 
+9 3  / e u  r h e a r t j / e h m 3 1 4.
+72. Schneider DJ, Moore JW. Patent ductus arteriosus. Circulation. 
+2006;114(17):1873–82.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c u  l a t  i o n a  h a  . 1 0 
+5 . 5 9 2 0 6 3.
+73. Baruteau AE, Méot M, Benbrik N, et al. Device closure of hemo-
+dynamically significant patent ductus arteriosus in premature 
+infants. JACC: Advances. 2024;3(10):101211.  h t t p  s : /  / d o i  . o  r g /  1 0 
+M?P??O?P?U??N??M????????M?Q?O?Q?S?M?P?O?P?Q?P?PM
+74. Philip R, Waller BR 3rd, Agrawal V , et al. Morphologic charac-
+terization of the patent ductus arteriosus in the premature infant 
+and the choice of transcatheter occlusion device. Catheter Car -
+diovasc Interv. 2016;87(2):310–7.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 
+2 6 2 8 7.
+41. Marshall W, Rajpal S, Mah ML, et al. Early experience and les -
+sons learned using implanted hemodynamic monitoring in patients 
+with Fontan circulation. J Am Heart Assoc. 2023;12(24):e031836.  
+h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / j a  h a . 1 2 3 . 0 3 1 8 3 6.
+42. Piccinelli E, Testa A, Butera G. Versatility of atrial flow regulator 
+device in congenital heart disease: a case series. Pediatr Cardiol. 
+2024;45(6):1377–83.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 0  0 2 4 6 - 0 2 3 - 0 3 1 2 
+3 - y.
+43. Bhat DP, Graziano JN, Garn BJ, Franklin WJ. Safety and utility 
+of CardioMEMS device for remote pulmonary artery monitoring 
+in paediatric Fontan patients: a case series. Eur Heart J Case Rep. 
+2023;7(9):ytad422.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 3  / e h  j c r / y t a d 4 2 2.
+44. Orr WB, Colombo JN, Roberts B, Silva JNA, Balzer D. Incorpo-
+ration of the CardioMEMS™ system during an exercise physiol-
+ogy test in a pediatric congenital heart disease patient contributing 
+to medical decision-making. Pediatr Cardiol. 2022;43(3):695–9.  
+h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 0  0 2 4 6 - 0 2 1 - 0 2 7 5 8 - z.
+45. Salavitabar A, Bradley EA, Chisolm JL, et al. Implantable pulmo-
+nary artery pressure monitoring device in patients with palliated 
+congenital heart disease: Technical considerations and procedural 
+outcomes. Catheter Cardiovasc Interv Feb. 2020;95(2):270–9.  h t t 
+p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 8 5 2 8.
+46. Piccinelli E, Grutter G, Pilati M, et al. Use of the CardioMEMS 
+device in children and patients with congenital heart disease: a 
+literature review. J Clin Med. 2024.  h t t p  s : /  / d o i  . o  r g /  1 0 . 3  3 9 0  / j c  m 1 
+3 1 4 4 2 3 4.
+47. Baumgartner H, De Backer J, Babu-Narayan SV , et al. 2020 ESC 
+guidelines for the management of adult congenital heart disease. 
+Eur Heart J. 2021;42(6):563–645.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 3  / e u  r h e a 
+r t j / e h a a 5 5 4.
+48. Torres AJ. Hemodynamic assessment of atrial septal defects. J 
+Thorac Dis. 2018;10(24):2882–9.  h t t p  s : /  / d o i  . o  r g /  1 0 . 2  1 0 3  7 / j  t d . 2 0 
+1 8 . 0 2 . 1 7.
+49. McMahon CJ, Feltes TF, Fraley JK, et al. Natural history of 
+growth of secundum atrial septal defects and implications for 
+transcatheter closure. Heart Mar. 2002;87(3):256–9.  h t t p  s : /  / d o i  . 
+o  r g /  1 0 . 1  1 3 6  / h e  a r t . 8 7 . 3 . 2 5 6.
+50. Rao PS, Harris AD. Recent advances in managing septal defects: 
+ventricular septal defects and atrioventricular septal defects. 
+F1000Res. 2018.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  2 6 8  8 / f  1 0 0  0 r e  s e a r  c h  . 1 4 1 0 2 . 
+PM
+51. Booth DC, Wisenbaugh T, Smith M, DeMaria AN. Left ven -
+tricular distensibility and passive elastic stiffness in atrial septal 
+defect. J Am Coll Cardiol. 1988;12(5):1231–6.  h t t p  s : /  / d o i  . o  r g /  1 0 . 
+1  0 1 6  / 0 7  3 5 - 1 0 9 7 ( 8 8 ) 9 2 6 0 5 - 8.
+52. Tadros VX, Asgar AW. Atrial septal defect closure with left ven-
+tricular dysfunction. EuroIntervention. 2016;12(X):X13-x17.  h t t 
+p  s : /  / d o i  . o  r g /  1 0 . 4  2 4 4  / e i  j v 1 2 s x a 3.
+53. Abdelkarim A, Levi DS, Tran B, Ghobrial J, Aboulhosn J. 
+Fenestrated Transcatheter ASD Closure in Adults with Diastolic 
+Dysfunction and/or Pulmonary Hypertension: Case Series and 
+Review of the Literature. Congenit Heart Dis. 2016;11(6):663–
+71.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 1 1  / c h  d . 1 2 3 6 7.
+54. King TD, Mills NL. Nonoperative closure of atrial septal defects. 
+Surgery. 1974;75(3):383–8.
+55. Masura J, Gavora P, Formanek A, Hijazi ZM. Transcatheter clo -
+sure of secundum atrial septal defects using the new self-center -
+ing amplatzer septal occluder: initial human experience. Cathet 
+Cardiovasc Diagn. 1997;42(4):388–93.
+56. Lee PH, Park DW. A novel closure device for atrial septal defect: 
+Much more to learn and experience. Int J Cardiol. 2021;331:88–9.  
+h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  i j c a r d . 2 0 2 1 . 0 1 . 0 3 7.
+57. Santoro G, Castaldi B, Cuman M, et al. Trans-catheter atrial septal 
+defect closure with the new GORE ® Cardioform ASD occluder: 
+First European experience. Int J Cardiol Mar. 2021;15:327:68–
+73.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  i j c a r d . 2 0 2 0 . 1 1 . 0 2 9.
+1 3
+Page 11 of 14    49 
+[[p12]]
+Current Cardiology Reports           (2026) 28:49 
+Med. 2023;10:1332395.  h t t p  s : /  / d o i  . o  r g /  1 0 . 3  3 8 9  / f c  v m . 2 0 2 3 . 1 3 3 2 
+3 9 5.
+90. Giordano M, Santoro G, Agnoletti G, et al. Interventional cardiac 
+catheterization in neonatal age: results in a multicentre Italian 
+M?h?i?b?r?PM?QOQOZRPSYRU–SQM????????Y?N??N?????M?????N??
+1 0 . 1  0 1 6  / j .  i j c a r d . 2 0 2 0 . 0 4 . 0 1 3.
+91. Pedra CA, Neves JR, Pedra SR, et al. New transcatheter tech -
+niques for creation or enlargement of atrial septal defects in 
+infants with complex congenital heart disease. Catheter Cardio -
+vasc Interv Nov. 2007;1(5):731–9.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 1 
+2 6 0.
+92. Sandoval J, Gomez-Arroyo J, Gaspar J, Pulido-Zamudio T. 
+Interventional and surgical therapeutic strategies for pulmonary 
+arterial hypertension: beyond palliative treatments. J Cardiol. 
+QOPTZUUGSHYROS–PSM????????Y?N??N?????M?????N??P?O?M?P??O?P?U??N??M??????M?Q?O?P?T?M?O?Q?M?O?O?PM
+93. Schranz D, Kerst G, Menges T, et al. Transcatheter creation of 
+a reverse Potts shunt in a patient with severe pulmonary arterial 
+hypertension associated with Moyamoya syndrome. EuroInter -
+vention May. 2015;11(1):121.  h t t p  s : /  / d o i  . o  r g /  1 0 . 4  2 4 4  / e i  j v 1 1 i 1 a 2 
+PM
+94. Boudjemline Y , Sizarov A, Malekzadeh-Milani S, et al. Safety 
+and Feasibility of the Transcatheter Approach to Create a Reverse 
+Potts Shunt in Children With Idiopathic Pulmonary Arterial 
+Hypertension. Can J Cardiol Sep. 2017;33(9):1188–96.  h t t p  s : /  / d o 
+i  . o  r g /  1 0 . 1  0 1 6  / j .  c j c a . 2 0 1 7 . 0 6 . 0 0 4.
+95. Anderson JH, Cabalka AK, Frantz RP, Cajigas HR, Tag -
+gart NW. Transcatheter nonductal reverse Potts shunt creation 
+in pulmonary arterial hypertension. Circ Cardiovasc Interv. 
+2022;15(1):e011315.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r c i  n t e  r v e n  t i  o n s . 1 
+2 1 . 0 1 1 3 1 5.
+96. Haddad RN, Levy M, Szezepanski I, Malekzadeh-Milani S, Bon-
+net D. Long-term outcomes of transcatheter Potts shunt in chil -
+dren with suprasystemic pulmonary arterial hypertension. Front 
+Cardiovasc Med. 2022;9:1028304.  h t t p  s : /  / d o i  . o  r g /  1 0 . 3  3 8 9  / f c  v m 
+. 2 0 2 2 . 1 0 2 8 3 0 4.
+97. Brida M, Diller GP, Nashat H, et al. Cardiac catheter intervention 
+complexity and safety outcomes in adult congenital heart disease. 
+Heart Sep. 2020;106(18):1432–7.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 3 6  / h e  a r t j n 
+l - 2 0 1 9 - 3 1 6 1 4 8.
+98. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC 
+Guideline for the Management of Adults With Congenital Heart 
+Disease: A Report of the American College of Cardiology/Ameri-
+can Heart Association Task Force on Clinical Practice Guidelines. 
+J Am Coll Cardiol Apr. 2019;2(12):e81–192.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  
+0 1 6  / j .  j a c c . 2 0 1 8 . 0 8 . 1 0 2 9.
+XXM?g?qkK?m?hK?v?gK??M?kL????QT?
+years following balloon pulmonary valvuloplasty: A multicenter 
+study. Congenit Heart Dis Nov. 2019;14(6):1037–45.  h t t p  s : /  / d o i  . 
+o  r g /  1 0 . 1  1 1 1  / c h  d . 1 2 7 8 8.
+100. Devanagondi R, Peck D, Sagi J, et al. Long-term outcomes of bal-
+loon valvuloplasty for isolated pulmonary valve stenosis. Pediatr 
+Cardiol. 2017;38(2):247–54.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 0  0 2 4 6 - 0 1 
+6 - 1 5 0 6 - 4.
+101. Pathak SJ, Pockett CR, Moore JW, El-Said HG. Effect of 
+balloon:annulus ratio on incidence of pulmonary insufficiency 
+following valvuloplasty. Congenit Heart Dis. 2016;11(5):415–9.  
+h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 1 1  / c h  d . 1 2 3 2 7.
+102. Rao PS. Percutaneous balloon pulmonary valvuloplasty: state of 
+the art. Catheter Cardiovasc Interv. 2007;69(5):747–63.  h t t p  s : /  / d o 
+i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 0 9 8 2.
+103. Bonhoeffer P, Boudjemline Y , Qureshi SA, et al. Percutane -
+ous insertion of the pulmonary valve. J Am Coll Cardiol. May 
+2002;15(10):1664–9.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / s 0  7 3 5 - 1 0 9 7 ( 0 2 ) 0 1 8 
+2 2 - 3.
+104. McElhinney DB, Zhang Y , Levi DS, et al. Reintervention and 
+Survival After Transcatheter Pulmonary Valve Replacement. J 
+75. Bessinger FB Jr., Blieden LC, Edwards JE. Hypertensive pulmo-
+nary vascular disease associated with patent ductus arteriosus. 
+Primary or secondary? Circulation. 1975;52(1):157–61.  h t t p  s : /  / d 
+o i  . o  r g /  1 0 . 1  1 6 1  / 0 1  . c i r . 5 2 . 1 . 1 5 7.
+76. Krichenko A, Benson LN, Burrows P, Möes CA, McLaughlin P, 
+Freedom RM. Angiographic classification of the isolated, persis-
+tently patent ductus arteriosus and implications for percutaneous 
+catheter occlusion. Am J Cardiol. Apr 1989;1(12):877–80.  h t t p  s : /  
+/ d o i  . o  r g /  1 0 . 1  0 1 6  / 0 0  0 2 - 9 1 4 9 ( 8 9 ) 9 0 0 6 4 - 7.
+77. Backes CH, Rivera BK, Bridge JA, et al. Percutaneous Patent 
+Ductus Arteriosus (PDA) closure during infancy: a meta-analysis. 
+Pediatrics. 2017.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  5 4 2  / p e  d s . 2 0 1 6 - 2 9 2 7.
+78. Sathanandam S, Gutfinger D, Morray B, et al. Consensus guide -
+lines for the prevention and management of periprocedural com -
+plications of transcatheter patent ductus arteriosus closure with 
+the Amplatzer Piccolo occluder in extremely low birth weight 
+infants. Pediatr Cardiol. 2021;42(6):1258–74.  h t t p  s : /  / d o i  . o  r g /  1 0 . 
+1  0 0 7  / s 0  0 2 4 6 - 0 2 1 - 0 2 6 6 5 - 3.
+79. Carminati M, Giugno L, Chessa M, Butera G, Piazza L, Bussa -
+dori C. Coronary-cameral fistulas: indications and methods for 
+closure. EuroIntervention. 2016;12(X):X28-x30.  h t t p  s : /  / d o i  . o  r g /  
+1 0 . 4  2 4 4  / e i  j v 1 2 s x a 6.
+80. Latson LA. Coronary artery fistulas: how to manage them. Cath -
+eter Cardiovasc Interv. 2007;70(1):110–6.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  
+/ c c  d . 2 1 1 2 5.
+81. Musmar B, Roy JM, Orscelik A, et al. Comparative outcomes 
+of endovascular vs. surgical treatment in craniocervical junction 
+dural arteriovenous fistulas: A systematic review and meta-analy-
+sis. J Neurol Sci Mar. 2025;15:470:123402.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 
+1 6  / j .  j n s . 2 0 2 5 . 1 2 3 4 0 2.
+82. Shah SJ, Borlaug BA, Chung ES, et al. Atrial shunt device for 
+heart failure with preserved and mildly reduced ejection frac -
+tion (REDUCE LAP-HF II): a randomised, multicentre, blinded, 
+sham-controlled trial. Lancet Mar. 2022;19(10330):1130–40.  h t t p  
+s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / s 0  1 4 0 - 6 7 3 6 ( 2 2 ) 0 0 0 1 6 - 2.
+83. Paitazoglou C, Bergmann MW, Özdemir R, et al. One-year results 
+of the first-in-man study investigating the Atrial Flow Regulator 
+for left atrial shunting in symptomatic heart failure patients: the 
+PRELIEVE study. Eur J Heart Fail. 2021;23(5):800–10.  h t t p  s : /  / d 
+o i  . o  r g /  1 0 . 1  0 0 2  / e j  h f . 2 1 1 9.
+84. Manuri L, Calaciura RE, De Zorzi A, et al. Atrial flow regula -
+tor for failing Fontan circulation: an initial European experience. 
+Interact Cardiovasc Thorac Surg. 2018;27(5):761–4.  h t t p  s : /  / d o i  . o  
+r g /  1 0 . 1  0 9 3  / i c  v t s / i v y 1 6 5.
+85. Bautista-Rodriguez C, Hascoët S, Fraisse A. Feasibility, safety, 
+and efficacy of Atrial Flow Regulator in children under 10 kg. 
+Catheter Cardiovasc Interv. 2023.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 3 0 
+5 3 6.
+86. Hansmann G, Sabiniewicz A, Sabiniewicz R. Atrial flow regu -
+lator for postcapillary pulmonary hypertension: first-in-human 
+transcatheter AFR device implantations in RCM. JACC Case 
+Rep. 2022;4(14):878–84.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j a c c a s . 2 0 2 2 . 0 
+5 . 0 1 0.
+87. Pascall E, Jones MI, Savis A, Rosenthal E, Qureshi SA. Trans -
+catheter creation of a pulmonary artery to left atrial fenestration 
+in a failing Fontan circulation using the Atrial Flow Regulator 
+(AFR). Cardiol Young. 2021;31(8):1376–9.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 
+P?V??N??P??O?S?V?X?T?P?P?Q?P?O?O?O?V?R?PM
+88. Lehner A, Schulze-Neick I, Haas NA. Creation of a defined and 
+stable Fontan fenestration with the new Occlutech Atrial Flow 
+Regulator (AFR®). Cardiol Young. 2018;28(8):1062–6.  h t t p  s : /  / d 
+o i  . o  r g /  1 0 . 1  0 1 7  / s 1  0 4 7 9 5 1 1 1 8 0 0 0 7 2 0.
+89. Butera G, Piccinelli E, Kolesnik A, et al. Implantation of atrial 
+flow regulator devices in patients with congenital heart disease 
+and children with severe pulmonary hypertension or cardiomy -
+opathy-an international multicenter case series. Front Cardiovasc 
+1 3
+   49  Page 12 of 14
+[[p13]]
+Current Cardiology Reports           (2026) 28:49 
+119. Golden AB, Hellenbrand WE. Coarctation of the aorta: stenting in 
+children and adults. Catheter Cardiovasc Interv. 2007;69(2):289–
+99.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 1 0 0 9.
+120. Ovaert C, Benson LN, Nykanen D, Freedom RM. Transcatheter 
+treatment of coarctation of the aorta: a review. Pediatr Cardiol. 
+1998;19(1):27–44.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 0  0 2 4 6 9 9 0 0 2 4 3.
+121. Torok RD, Campbell MJ, Fleming GA, Hill KD. Coarctation of 
+the aorta: management from infancy to adulthood. World J Car -
+diol. 2015;7(11):765–75.  h t t p  s : /  / d o i  . o  r g /  1 0 . 4  3 3 0  / w j  c . v 7 . i 1 1 . 7 6 5.
+122. Egan M, Holzer RJ. Comparing balloon angioplasty, stenting and 
+surgery in the treatment of aortic coarctation. Expert Rev Cardio-
+vasc Ther. 2009;7(11):1401–12.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  5 8 6  / e r  c . 0 9 . 1 1 
+PM
+123. Mini N, Zartner PA, Schneider MBE. Stenting of critical aortic 
+coarctation in neonates between 600 and 1,350 g. Using a trans -
+femoral artery approach. A single center experience. Front Car -
+diovasc Med. 2022;9:1025411.  h t t p  s : /  / d o i  . o  r g /  1 0 . 3  3 8 9  / f c  v m . 2 0 2 
+Q?M?P?O?Q?T?S?P?PM
+124. Zabal C, Attie F, Rosas M, Buendía-Hernández A, García-Montes 
+JA. The adult patient with native coarctation of the aorta: balloon 
+angioplasty or primary stenting? Heart. 2003;89(1):77–83.  h t t p  s : 
+/  / d o i  . o  r g /  1 0 . 1  1 3 6  / h e  a r t . 8 9 . 1 . 7 7.
+125. Van De Bruaene A, Claessen G, Salaets T, Gewillig M. Late Fon-
+tan circulatory failure. What drives systemic venous congestion 
+and low cardiac output in adult Fontan patients? Front Cardiovasc 
+Med. 2022;9:825472.  h t t p  s : /  / d o i  . o  r g /  1 0 . 3  3 8 9  / f c  v m . 2 0 2 2 . 8 2 5 4 7 
+2.
+126. Venkatesh P, Gao H, Abudayyeh I, Pai RG, Varadarajan P. Con-
+temporary management of the failing Fontan. J Clin Med. 2024.  h 
+t t p  s : /  / d o i  . o  r g /  1 0 . 3  3 9 0  / j c  m 1 3 1 1 3 0 4 9.
+127. Flores-Umanzor E, Luna-López R, Cepas-Guillen P, et al. Trans-
+catheter interventions in adults with Fontan palliation. Circ Car -
+diovasc Interv. 2024;17(12):e014699.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / c i  r 
+c i  n t e  r v e n  t i  o n s . 1 2 4 . 0 1 4 6 9 9.
+128. Rupp S, Schieke C, Kerst G, et al. Creation of a transcatheter 
+fenestration in children with failure of Fontan circulation: focus 
+on extracardiac conduit connection. Catheter Cardiovasc Interv. 
+2015;86(7):1189–94.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 6 0 4 2.
+129. Stümper O, Gewillig M, Vettukattil J, et al. Modified technique of 
+stent fenestration of the atrial septum. Heart. 2003;89(10):1227–
+30.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 3 6  / h e  a r t . 8 9 . 1 0 . 1 2 2 7.
+130. Haddad RN, Bonnet D, Malekzadeh-Milani S. Embolization 
+of vascular abnormalities in children with congenital heart dis -
+eases using medtronic micro vascular plugs. Heart Vessels. 
+2022;37(7):1271–82.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 0  0 3 8 0 - 0 2 1 - 0 2 0 0 
+7 - 6.
+131. Gewillig M, Brown SC. The fontan circulation after 45 years: 
+update in physiology. Heart. 2016;102(14):1081–6.  h t t p  s : /  / d o i  . o  
+r g /  1 0 . 1  1 3 6  / h e  a r t j n l - 2 0 1 5 - 3 0 7 4 6 7.
+132. Salaets T, Cools B, De Meester P, et al. Stent expansion of restric-
+tive Fontan conduits to nominal diameter and beyond. Catheter 
+Cardiovasc Interv Nov. 2022;100(6):1059–66.  h t t p  s : /  / d o i  . o  r g /  1 0 
+. 1  0 0 2  / c c  d . 3 0 4 3 8.
+133. Haddad RN, Naggara O, Bonnet D, Malekzadeh-Milani S. 
+Cerebral embolic protection during transcatheter stent expan -
+sion of restrictive extra-cardiac Fontan conduit. Cardiol Young. 
+2024;34(1):209–11.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 7  / s 1  0 4 7 9 5 1 1 2 3 0 0 4 1 0 
+9.
+134. Jalal Z, Gewillig M, Boudjemline Y , et al. Transcatheter interven-
+tions in patients with a Fontan circulation: Current practice and 
+future developments. Front Pediatr. 2022;10:965989.  h t t p  s : /  / d o i  . 
+o  r g /  1 0 . 3  3 8 9  / f p  e d . 2 0 2 2 . 9 6 5 9 8 9.
+135. Haddad RN, Bonnet D, Alsac JM, Malekzadeh-Milani S. Promis-
+ing PTFE-coating technology of Optimus-CVS™ stents: the new 
+player for congenital heart disease interventions. Int J Cardiol 
+Am Coll Cardiol. Jan 2022;4(1):18–32.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / 
+?M??????M?Q?O?Q?P?M?P?O?M?O?R?PM
+105. Qureshi SA, Jones MI, Pushparajah K, et al. Transcatheter Pul -
+monary Valve Implantation Using Self-Expandable Percutaneous 
+Pulmonary Valve System: 3-Year CE Study Results. JACC Car -
+diovasc Interv Apr. 2025;28(8):1045–56.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / 
+?M??????M?Q?O?Q?S?M?P?Q?M?O?R?PM
+106. Goldstein BH, McElhinney DB, Gillespie MJ, et al. Early Out -
+comes From a Multicenter Transcatheter Self-Expanding Pul -
+monary Valve Replacement Registry. J Am Coll Cardiol. Apr 
+2024;9(14):1310–21.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j a c c . 2 0 2 4 . 0 2 . 0 1 0.
+107. Dimas VV , Babaliaros V , Kim D, et al. Multicenter pivotal study 
+of the Alterra Adaptive Prestent for the treatment of pulmonary 
+regurgitation. JACC Cardiovasc Interv. 2024;17(19):2287–97.  h t 
+t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j c i n . 2 0 2 4 . 0 7 . 0 3 6.
+108. Egbe AC, Salama AA, Miranda WR, et al. Right Heart Reverse 
+Remodeling and Prosthetic Valve Function After Transcatheter vs 
+Surgical Pulmonary Valve Replacement. JACC Cardiovasc Interv 
+Jan. 2024;22(2):248–58.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j c i n . 2 0 2 3 . 1 1 . 0 
+3 0.
+109. Boe BA, Zampi JD, Kennedy KF, et al. Acute Success of Bal -
+loon Aortic Valvuloplasty in the Current Era: A National Car -
+diovascular Data Registry Study. JACC Cardiovasc Interv Sep. 
+2017;11(17):1717–26.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j c i n . 2 0 1 7 . 0 8 . 0 0 
+PM
+110. Maskatia SA, Ing FF, Justino H, et al. Twenty-five year experi -
+ence with balloon aortic valvuloplasty for congenital aortic ste -
+nosis. Am J Cardiol. 2011;108(7):1024–8.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 
+6  / j .  a m j  c a r  d . 2 0  1 1  . 0 5 . 0 4 0.
+111. Vergnat M, Asfour B, Arenz C, et al. Aortic stenosis of the neo -
+nate: A single-center experience. J Thorac Cardiovasc Surg Jan. 
+2019;157(1):318–e3261.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j t c v s . 2 0 1 8 . 0 8 . 
+0 8 9.
+112. Corrigendum to. 2021 ESC/EACTS Guidelines for the manage -
+ment of valvular heart disease: Developed by the Task Force for 
+the management of valvular heart disease of the European Society 
+of Cardiology (ESC) and the European Association for Cardio-
+Thoracic Surgery (EACTS). Eur Heart J Jun. 2022;1(21):2022.  h 
+?????Y?N??N?????M?????N??P?O?M?P??O?X?R??N???????????N?????O?T?PM
+113. Yoon SH, Schmidt T, Bleiziffer S, et al. Transcatheter Aortic 
+Valve Replacement in Pure Native Aortic Valve Regurgitation. J 
+Am Coll Cardiol. Dec 2017;5(22):2752–63.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 
+1 6  / j .  j a c c . 2 0 1 7 . 1 0 . 0 0 6.
+114. Sinha S, Khan A, Qureshi AM, et al. Application of transcatheter 
+valves for aortic valve replacement in pediatric patients: A case 
+series. Catheter Cardiovasc Interv Feb. 2020;95(2):253–61.  h t t p  s 
+: /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 2 8 5 0 5.
+115. Sharew B, Bakhtadze B, Das T, et al. Transcatheter aortic valve 
+replacement in congenital heart disease. JACC: Case Reports. 
+2024;29(4):102199.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  j a c c a s . 2 0 2 3 . 1 0 2 1 9 
+9.
+116. Schamroth Pravda N, Vaknin Assa H, Sondergaard L, et al. 
+Transcatheter Interventions for Atrioventricular Dysfunction in 
+Patients with Adult Congenital Heart Disease: An International 
+Case Series. Article. J Clin Med. 2023;12(2):521.  h t t p  s : /  / d o i  . o  r g /  
+P?O?M?R??R?X?O??N?????P?Q?O?Q?O?T?Q?PM
+117. Jolley MA, Sulentic A, Amin S, et al. Introduction of transcath -
+eter edge-to-edge repair in patients with congenital heart dis -
+ease at a children’s hospital. Catheter Cardiovasc Interv Feb. 
+2024;103(2):326–34.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 3 0 9 3 5.
+118. Guerin P, Jalal Z, Le Ruz R, et al. Percutaneous edge-to-edge 
+repair for systemic atrioventricular valve regurgitation in patients 
+with congenital heart disease: the first descriptive cohort. J Am 
+Heart Assoc. 2022;11(10):e025628.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 6 1  / j a  h a . 
+1 2 2 . 0 2 5 6 2 8.
+1 3
+Page 13 of 14    49 
+[[p14]]
+Current Cardiology Reports           (2026) 28:49 
+Disease. Circulation Mar. 2016;22(12):1160–70.  h t t p  s : /  / d o i  . o  r g /  
+1 0 . 1  1 6 1  / c i  r c u  l a t  i o n a  h a  . 1 1 5 . 0 1 9 7 1 0.
+140. Haddad RN, Dautry R, Bonnet D, Malekzadeh-Milani S. Transve-
+nous retrograde thoracic duct embolization for effective treatment of 
+recurrent plastic bronchitis after Fontan palliation. Catheter Cardio-
+?hM?QOQRZPOPGTHYWUR–XM????????Y?N??N?????M?????N??P?O?M?P??O?O?Q??N?????M?R?O?U?P?PM
+141. Schaffner D, Perez MH, Duran R, Pretre R, Di Bernardo S. Case 
+report: transcatheter interventional procedure to innominate vein 
+turn-down procedure for failing Fontan circulation. Front Pediatr. 
+2024;12:1341443.  h t t p  s : /  / d o i  . o  r g /  1 0 . 3  3 8 9  / f p  e d . 2 0 2 4 . 1 3 4 1 4 4 3.
+142. Cedars A, Kutty S, Danford D, et al. Systemic ventricular assist 
+device support in Fontan patients: a report by ACTION. J Heart 
+Lung Transplant. 2021;40(5):368–76.  h t t p s :   /  / d o  i . o  r  g  /  1 0  . 1 0   1  6  / j . h 
+??????M??Q?O?Q??P?M?O?P?M?O?P?PM
+Publisher’s Note Springer Nature remains neutral with regard to juris-
+dictional claims in published maps and institutional affiliations.
+Congenit Heart Dis. 2022;7:100323.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  i j c 
+c h d . 2 0 2 2 . 1 0 0 3 2 3.
+136. Zhang Y , Fang M, Wang Z, et al. The prediction and verification of 
+outcome of extracardiac conduits fontan based on computational 
+fluid dynamics simulation. Front Physiol. 2022;13:1078140.  h t t p  
+s : /  / d o i  . o  r g /  1 0 . 3  3 8 9  / f p  h y s . 2 0 2 2 . 1 0 7 8 1 4 0.
+137. Bossers SS, Cibis M, Gijsen FJ, et al. Computational fluid dynam-
+ics in Fontan patients to evaluate power loss during simulated 
+exercise. Heart May. 2014;100(9):696–701.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 
+3 6  / h e  a r t j n l - 2 0 1 3 - 3 0 4 9 6 9.
+138. Haddad RN, Adel Hassan A, Al Soufi M, Kasem M. A word 
+of caution: early failure of Magmaris® bioresorbable stent 
+after pulmonary artery stenting. Catheter Cardiovasc Interv. 
+2023;101(1):131–4.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / c c  d . 3 0 4 8 7.
+139. Dori Y , Keller MS, Rome JJ, et al. Percutaneous Lymphatic 
+Embolization of Abnormal Pulmonary Lymphatic Flow as Treat-
+ment of Plastic Bronchitis in Patients With Congenital Heart 
+1 3
+   49  Page 14 of 14

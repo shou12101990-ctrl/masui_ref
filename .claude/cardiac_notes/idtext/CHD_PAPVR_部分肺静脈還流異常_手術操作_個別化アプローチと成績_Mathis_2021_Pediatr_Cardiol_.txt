@@ -1,0 +1,709 @@
+
+[[p1]]
+Vol:.(1234567890)
+Pediatric Cardiology (2021) 42:1064–1073
+https://doi.org/10.1007/s00246-021-02583-4
+1 3
+ORIGINAL ARTICLE
+Partial Anomalous Pulmonary Venous Connection Repair: Customized 
+Approach and Outcomes
+Lauren Mathis1 · Danielle Crethers2 · Bert Buckman1 · Michael Jensen3 · Anastasios C Polimenakos1,2 
+Received: 19 January 2021 / Accepted: 12 March 2021 / Published online: 2 April 2021 
+© The Author(s) 2021
+Abstract
+Alternative options for the correction of partial anomalous pulmonary venous connection (PAPVC) have been proposed. Each 
+can be associated with variable risk for dysrhythmias, caval or pulmonary venous (PV) obstruction. A selective customized 
+strategy to address PAPVC taking into account atrial shunt (AS) and growth potential was pursued. Between September 
+2014 and August 2018 21 PAPVC patients were identified. Two levels of reference determined the chosen repair strategy; 
+azygous vein (AzV) and cavoatrial junction (CAJ). Six (Group-A) with PAPVC entering SVC cephalad to AV underwent a 
+combined in-situ cavoatrial autologous reconstruction with atrial appendage advancement flap (CARAF). PAPVC entering 
+caudally to AzV (Group-B) underwent alternative repair (caval division/Warden-type or intraatrial rerouting) (n = 15). Age 
+was 8.3 (IQR:4.2–18.5) years for Group-A (vs 11.9; IQR:8.8–34.7 in Group-B) (p = 0.07). In Group-A 5(83%) had AS (vs 
+12[80%] Group-B; p = 0.9). None had left SVC in Group-A (vs 1 in Group-B; p = 0.9). Preoperative advanced imaging and 
+echocardiographic hemodynamic evaluation was undertaken. Follow-up was complete (median 2.9; IQR:1.2–3.7 years). 
+Freedom from atrial dysrhythmias, caval or PV obstruction was assessed. There were no early or late deaths. ICU and hospital 
+length of stay were 1.8 ± 1.1 and 3.2 ± 0.5 days, respectively. No atrial dysrhythmias occurred postoperatively in Group-A 
+(vs 1 in Group-B; p = 0.9). No permanent pacemaker was implanted. All patients remained in normal sinus rhythm. There 
+were no early or late caval/PV obstruction. A customized approach reserves the advantages of each technique tailored to 
+patient’s needs. Expanding surgical capacity with favorable outlook for all PAPVC variations, irrespective of association 
+with AS, can maximize efficiency and reproducibility paired with the lowest morbidity.
+Keywords Sinus venosus ASD · Partial anomalous pulmonary venous connection · Outcomes
+Abbreviations
+CAj  Cavoatrial junction
+CARAF  Cavoatrial autologous reconstruction and atrial 
+appendage advancement flap
+CIVJ  Cavoinnominate venous junction
+CPB  Cardiopulmonary bypass
+LA  Left atrium
+LOS  Length of stay
+NSR  Normal sinus rhythm
+PAPVC  Partial anomalous pulmonary venous 
+connection
+PV  Pulmonary vein
+RA  Right atrium
+SN  Sino-atrial node
+SVASD  Sinus venosus atrial septal defect
+SVC  Superior vena cava
+TV  Tricuspid valve
+Introduction
+Sinus venosus atrial septal defect (SVASD) accounts for 4 to 
+11% of atrial septal defects (ASD) [1 ]. It was suggested [2] 
+that superior SVASD originates from failure of atrial wall 
+in-folding between the superior vena cava (SVC) and right 
+pulmonary veins (PV), commonly the upper and middle 
+veins, resulting in un-roofing of the right PVs allowing them 
+to drain into a variable level of SVC or right atrium(RA) 
+ * Anastasios C Polimenakos 
+ anapolisis@aol.com
+1 Division of Pediatric Cardiothoracic Surgery, Methodist 
+Children’s Hospital Heart Institute, 4410 Medical Drive, 
+Suite 540, San Antonio, TX 78229, USA
+2 Medical College of Georgia, Augusta, GA, USA
+3 School of Medical Illustration, Augusta University, Augusta, 
+GA, USA
+[[p2]]
+1065Pediatric Cardiology (2021) 42:1064–1073 
+1 3
+[3]. When partial anomalous pulmonary venous connection 
+(PAPVC) is present, most commonly, the anomalous PV is 
+connected to the SVC near the cavoatrial junction (CAJ) or 
+to RA [4 ]. Although commonly associated with an ASD, 
+18% of PAPVC cases present with an intact atrial septum 
+[5].
+Key elements of any type of PAPVC repair, with or with-
+out ASD, should target [4 ] closure of the inter-atrial com-
+munication to create unobstructed drainage of the anomalous 
+PV channel to the left atrium (LA), through a native or surgi-
+cally created ASD, and of the SVC to the RA. Various tech-
+niques [1, 2, 6–11] have been proposed for the surgical re-
+routing of the neo-PV channel into the LA that might involve 
+caval division. Stenosis of the systemic or neo-PV channels, 
+residual shunting, sino-atrial node (SN) conduction distur -
+bance or supraventricular arrhythmias have been reported 
+[11–13]. Caval division strategy [14] and its modifications 
+were designed to decrease the incidence of systemic and 
+PV complications, as well as, SN dysfunction. One of the 
+challenges, when the caval division is advocated, involves a 
+very selective group of PAPVC where the anomalous PV(s) 
+enter(s) the SVC cephalad to the azygous vein and adjacent 
+to the junction with innominate vein(CIVJ).
+Our objective was to review the early and mid-term func-
+tional and hemodynamic outcomes with reference to a tech-
+nical modification, which combines in-situ cavoatrial autolo-
+gous reconstruction and atrial appendage advancement flap 
+(CARAF) after SVC division, targeting to reserve the ben-
+efits of the Warden operation while allowing a tension-free 
+caval-RA anastomosis.
+Methods
+Between September 2014 and August 2018 21 consecutive 
+patients with PAPVC were identified. PAPVC repair was 
+the index procedure. Patients with associated congenital 
+heart disease where PAPVC was not repaired at the time 
+of the primary operation were excluded from the study. 
+Six patients(Group-A) were associated with PV connec-
+tion to SVC cephalad to azygous vein, in proximity to the 
+CIVJ, and underwent CARAF. Group-A was compared to 
+patients with anomalous PV entering SVC caudally to the 
+azygous vein(Group-B) who underwent alternative repair 
+strategy (caval division-Warden-type or intraatrial rerouting 
+operation with single patch) (n = 15). Following a selective 
+approach our Institution favored CARAF for any PAPVC 
+associated with PV connection to SVC cephalad to the 
+azygous vein, in proximity to the CIVJ (Fig.  1). For PV(s) 
+entering SVC caudally to the azygous vein or within the 
+CAJ, alternative repair strategy was advocated. Our group 
+has not pursued the use of 2-patch approach for any PAPVC 
+type. Clinical data were obtained from a retrospective review 
+of the medical records, operative, echocardiographic, and 
+imaging reports.
+The study was approved by the institutional review board. 
+Need for consent was waived.
+Patient Clinical Data
+Demographic data included gender, age, weight, associ-
+ated congenital anomalies and chromosomal anomalies.
+Intraoperative data included total cardio-pulmonary 
+bypass(CPB) time, concurrent procedures and arrhythmias.
+Postoperative data included the ICU and hospital length 
+of stay(LOS), any associated morbidity, cardiac arrhyth-
+mias or SN dysfunction, SVC or PV obstruction and need 
+for reintervention.
+Echocardiographic and Imaging Data
+All patients underwent preoperative advanced imaging 
+(MR, CT Angiogram) to evaluate the pulmonary venous 
+anatomy and plan repair strategy (Fig.  2). Echocardio-
+graphic evaluation was performed preoperatively, intra -
+operatively after CARAF, at hospital discharge and at last 
+follow-up for tricuspid valve(TV) and functional evalua -
+tion (2-dimensional doppler and 3-dimensional imaging) 
+of blood flow pattern in systemic and neo-PV channels.
+Surgical Management
+A standard median sternotomy is performed. The entrance 
+level of the anomalous PVs into the SVC is adequately 
+visualized after opening the right pleura. The pericardium 
+Fig. 1  Indications and customized strategy. CAJ  cavoatrial junction, 
+CARAF cavoatrial autologous reconstruction and atrial appendage 
+advancement flap, CIVJ cavoinnominate venous junction, PAPVC 
+partial anomalous pulmonary venous connection
+[[p3]]
+1066 Pediatric Cardiology (2021) 42:1064–1073
+1 3
+is opened and the heart exposed. Piece of autologous peri-
+cardium is harvested for channeling the anomalous PV to 
+the LA via the ASD and for the atrial wall reconstruction 
+after the RA appendage advancement flap created. The 
+SVC is dissected out to the innominate vein, the innomi-
+nate vein mobilized to its mid-length and the anomalous 
+PVs are adequately exposed.
+CPB is established using ascending aortic and bi- or tri-
+venous cannulation. The SVC cannula is placed as high as 
+possible in the SVC or in the innominate vein. A persistent 
+left SVC is managed by an additional venous cannula. Nor-
+mothermia is used in all patients unless otherwise indicated. 
+The azygous vein is divided for complete mobilization of 
+SVC.
+Standard Warden operation was performed as previously 
+described [14]. When CARAF was pursued the procedure 
+was staged in 2 components:
+PM?s?????ou???rubLq`?
+into the LA under arrested heart
+2. The cavo-RA appendage anastomosis on CPB with the 
+heart beating
+After cold blood cardioplegic cardiac arrest SVC/innomi-
+nate and IVC cannulae are snared and a transverse hockey-
+stick incision is performed extending from the anterior wall 
+of RA appendage base towards the free wall of RA. Through 
+the incision the exposure for the channeling of the anoma-
+lous PVs to the LA is excellent without any need for an 
+oblique extension of the incision into the free atrial wall. 
+The right SVC is snared and divided above the insertion 
+of the highest anomalous PV with patching (using autolo-
+gous pericardium) of its caudal end. Using the SVC-RA 
+native channel the anomalous PVs are redirected away from 
+systemic venous circulation. This is accomplished via the 
+existing superior ASD. If an intact atrial septum is encoun-
+tered, the fossa ovalis is widely excised and its superior rim 
+resected by extending the incision cephalad and adjacent to 
+the CAJ. The goal is to ensure an unobstructed pathway for 
+the neo-PV channel. The PVs are baffled with an oversized 
+domed ovale-shaped autologous pericardium patch through 
+the ASD into the LA. The SN artery is preserved. To avoid 
+inadvertent injury or SN distortion, suturing of the patch 
+must be exercised with particular attention to avoid full-
+thickness bites. It is important to suture the patch to the 
+lower rim of the ASD and deviate the suture margin away 
+encroaching onto the lumen of SVC (Fig. 2a/ inset).
+Fig. 2  Advanced imaging (MR angiography) and repair strategy. 
+(arrow: indicates the upper anomalous pulmonary venous anatomy 
+and location referenced to the azygous vein). a Pulmonary venous 
+channel was baffled with an oversized domed ovale-shaped autolo-
+gous pericardium patch through the atrial septal defect into the left 
+atrium; b A diamond-shaped autologous pericardium was used to 
+allow a cephalad advancement of the right atrial(RA) appendage. The 
+systemic venous channel was reconstituted by suturing the amputated 
+tip of the RA appendage to the cephalad(transected) caval segment. 
+c On cardiopulmonary bypass with the heart beating the systemic 
+venous channel is reconstituted by suturing the amputated tip of the 
+RA appendage to the transected caval segment
+[[p4]]
+1067Pediatric Cardiology (2021) 42:1064–1073 
+1 3
+Though the transverse atrial incision the tip of RA 
+appendage is conservatively amputated (RA appendage tis-
+sue has tremendous pliability). Complete excision of the tra-
+beculations within the RA appendage enhances its expand-
+ability and reduces the chance of subsequent adherence or 
+thrombus formation.
+For the construction of RA appendage advancement flap 
+a diamond-shaped autologous pericardium is used to allow 
+a cephalad advancement of the RA appendage. The patch is 
+sutured with double-armed polypropylene suture to augment 
+the RA transverse hockey-stick incision (Fig. 2b/inset). The 
+goal is to allow a tension-free in-situ anastomosis of the RA 
+appendage truncated tip with the cephalad (transected) SVC 
+segment without interposition patch or graft. Upon comple-
+tion of RA appendage advancement flap a RA vent is placed 
+to facilitate a bloodless field during the SVC-RA appendage 
+anastomosis on beating heart.
+After de-airing of the heart and cross-clamp removal the 
+remaining of the procedure is carried on CPB with the heart 
+beating. The systemic venous channel is reconstituted by 
+suturing the amputated tip of the RA appendage to the tran-
+sected SVC segment (Fig. 2c). The suture-line is constructed 
+to reserve growth potential by avoiding purse-string effect. 
+Using polyglyconate monofilament absorbable suture the pos-
+terior wall anastomosis is constructed with continuous running 
+fashion. Interrupted technique with polypropylene suture is 
+reserved for the anterior wall anastomosis.
+Follow‑Up Data
+Follow-up was complete in all patients and spared from era 
+effect. Follow-up data were collected from subsequent clinic 
+visits.
+Post-hospital discharge and last follow-up ECG, Holter 
+and echocardiograms were available for all patients. Early and 
+mid-term freedom from conduction system disturbance and 
+supraventricular tachyarrhytmias, SVC or PV obstruction, TV 
+function, need for reintervention was assessed.
+Statistical Analysis
+All discrete variables were summarized as percentages and the 
+continuous variables were summarized as mean ± standard 
+??????zQT–VT?L
+tile range  (IQR25-75)].
+Continuous variables were compared by using Mann-Whit-
+ney and student-t tests, as appropriate. Fisher’s exact-test and 
+chi-square analyses were used for dichotomous and categorical 
+variables. Univariate analysis was used. All tests of signifi-
+cance were 2-tailed, with P< 0.05 assumed to indicate statisti-
+cal significance. The SPSS version 22 was utilized to derive 
+the results from the data.
+Results
+Patient Characteristics
+Median age was 8.3(IQR, 2.2–18.5) years for Group-A (vs 
+11.9; IQR, 8.8–34.7 in Group-B) (p  = 0.07). Mean body 
+weight was 22.5 ± 14.8 kg for Group-A (vs 35.7 ± 13.7 
+kg) (p  = 0.05). Ten(48%) were male and 11(52%) were 
+female (Table 1).
+In Group-A 4(67%) had an ASD (vs 12[80%] in Group-
+B). None had left SVC in Group-A (vs 1 without bridging 
+vein in Group-B; p  = 0.9). The most common anomalous 
+PV drainage combination in Group-A was the right upper 
+and middle lobe PVs (4 patients; 67%). In 4 (of 6) all seg-
+ments of upper lobe PVs enter SVC above azygous vein. 
+Between the 2 groups most had two anomalous PVs(67%) 
+(Fig. 3). None had an associated left PAPVR. Most com-
+mon SVASD type was the superior (n  = 13). Greater then 
+mild TV insufficiency was present is 3(14%). Most com-
+mon initial clinical presentation was murmur in 14 patients 
+(67%).
+Patient characteristics, anatomical details and concomi-
+?????s PM
+Early Outcomes
+The majority of the patients in Group-B underwent caval 
+division/Warden-type repair (n  = 9); 6 underwent single-
+patch repair. The most common associated procedures, other 
+than ASD, was TV repair (n  = 2; 9.5%). Both patients had 
+RA enlargement with moderate TV insufficiency and were 
+older than 18 years old at the time of the index repair. Spe-
+cific procedural characteristics and additional procedures at 
+????o`ouq?????s PM
+All patients were extubated in the operating room. There 
+were no early deaths or reoperations. ICU and hospital LOS 
+were 1.8 ± 1.1 and 3.2 ± 0.5 days, respectively, with no 
+difference between groups (p  = 0.9). No supraventricular 
+dysrhythmias or SN dysfunction occurred during the perio-
+perative period in Group-A compared to 1 in Group-B (p 
+0.9) (Table 2). One had mild postoperative TV insufficiency. 
+One had postpericardiotomy syndrome that was managed 
+with non-steroidal anti-inflammatory therapy. No evidence 
+of systemic or PV obstruction, residual atrial shunt, or need 
+for reoperations emerged (Table 2).
+Mid‑Term Outcomes
+Median follow-up was 2.9 (IQR 1.2–3.7) years and syn-
+chronous between the 2 groups. No 30-day readmissions 
+occurred. There were no late deaths.
+[[p5]]
+1068 Pediatric Cardiology (2021) 42:1064–1073
+1 3
+Table 1  Patient and operative 
+characteristics
+CPB cardiopulmonary bypass, PFO patent foramen ovale, SVASD sinus venosus atrial septal defect, SVC 
+superior vena cava, TV tricuspid valve, VSD ventricular septal defect
+§ PFO enlargement
+¶ Unroofed coronary sinus repair
+Variables Group A (n = 6) Group B (N = 15) P value
+Preoperative variables
+ Age (years; median, IQR) 8.3 (2.2-18.5) 11.9 (8.8-34.7) 0.07
+ Males/Females 3/3 7/8
+ Weight at surgery (kg; mean, SD) 22.5 ± 14.8 35.7 ± 13.7 0.05
+Type of atrial shunt 0.01
+ A. With 5 12
+  PM?ru`rc?S?PO
+  2. Ostium secundum ASD 0 1
+ 3. PFO 1 1
+ B. Without 1 3
+Concomitant cardiac anomalies
+ 1. VSD 1 0 0.8
+ 2. Pulmonary valve stenosis 0 1 0.9
+ 3. Left SVC 0 1 0.9
+ 4. TV insufficiency (>mild) 1 2 0.8
+No. of anomalous pulmonary veins
+ 1 2 4 0.8
+ 2 4 10 0.8
+ 3 0 1 0.9
+Location of anomalous pulmonary veins
+ PM?`???U?O
+ 2. Between azygous vein and atriocaval junction 0 11
+ 3. At or below atriocaval junction 0 4
+Presenting diagnosis
+ PM?lN?T?X?OMP
+ 2. Symptomatic 1 6 0.1
+Imaging modality for establishing diagnosis
+ PM?ssd?U?PT
+ 2. MRA 3 9
+ 3. CTA 2 4
+ 4. Cardiac cath/angiogram 1 2
+Associated extracardiac / chromosomal abnormalities 1 3 0.7
+Intraoperative variables
+CBP (min; mean, SD) 51.3 ± 18.5 54.9 ± 14.8 0.8
+Cross Clamp (min; mean, SD) 41.9 ± 10.5 46.1 ± 17.5 0.1
+Type of repair
+ Caval division (Warden or modified) 0 11
+ CARAF 6 0
+ Single-patch 0 4
+Total additional surgical procedures
+ Left SVC intervention 0 1¶ 0.9
+ ASD creation (enlargement) 2(1)§ 5(2)§ 0.9
+ TV repair 1 1 0.8
+ VSD repair 1 0 0.9
+ Pulmonary valvotomy 0 1 0.9
+Intraoperative dysrhythmias 0 1 0.9
+[[p6]]
+1069Pediatric Cardiology (2021) 42:1064–1073 
+1 3
+Fig. 3  Number of anomalous pulmonary veins involved
+Table 2  Outcomes and 
+follow-up
+TV tricuspid valve
+¶ At hospital discharge
+§ At last follow up
+Variables Group A (n = 6) Group B (N = 15) P value
+Postoperative variables
+ ICU stay (days; mean, SD) 1.7 ± 1.2 1.9 ± 1.3 0.9
+ Hospital stay (days; mean, SD) 3.1 ± 0.6 3.2 ± 0.4 0.9
+ Post-cardiotomy syndrome 1 0 0.8
+ Complications; other 0 1 0.9
+ Dysrhythmias 0 1 0.9
+ Use of temporary or permanent  pacemaker¶ 0 0 –
+ Sinus  rhythm¶ 6 15 –
+ Systemic venous stenosis/obstruction¶ 0 0 –
+ Pulmonary venous stenosis/obstruction¶ 0 0 –
+ TV insufficiency (>mild)¶ 0 1 0.9
+Follow-up variables
+ 30-day readmission 0 0
+ Permanent  pacemaker§ 0 0
+  Dysrhythmias§ 0 0
+ Normal sinus  rhythm§ 6 15
+ Systemic venous stenosis/obstruction§ 0 0
+ Pulmonary venous stenosis/obstruction§ 0 0
+ TV  insufficiency§ 0 1
+ Reintervention(any) 0 0
+ NYHA class 1 (only in adults) 2 (of 2) 0 (of 9)
+[[p7]]
+1070 Pediatric Cardiology (2021) 42:1064–1073
+1 3
+All patients (both groups) had no evidence of systemic 
+or PV obstruction or need for reoperations at last follow-
+up (Table  2). Specifically, by echocardiography, systemic 
+and neo-PV channels flow velocity in Group-A was 0.51 
+± 0.13 and 0.44 ± 0.08 m/s (vs 0.5 ± 0.1 and 0.5 ± 0.11 
+from Group-B), respectively. Two-dimensional Doppler and 
+3-dimensional echocardiography showed widely unrestricted 
+anastomoses, unobstructed, non-turbulent systemic and PV 
+flow (Fig. 4a,b).
+All patients maintained normal sinus rhythm(NSR) with 
+no supraventricular dysrhythmias at last follow-up. No per-
+manent pacemaker system was implanted. One with mild 
+TV insufficiency at hospital discharge had no worsening of 
+valve function. Adult patients remained asymptomatic with 
+excellent functional status (NYHA Class-1) (Table 2).
+Discussion
+As literature indicates, SVASD, which is commonly located 
+at the SVC-RA junction, accounts for 10% of all ASDs with 
+90% being associated with PAPVC [15, 16]. Various repair 
+techniques have been proposed to accommodate PAPVC. 
+For pediatric patients, maintaining growth potential is off  
+the essence. The location of SN, SN artery, crista terminalis 
+and the diameter of the SVC are critical considerations [2 ]. 
+Conventional procedures included single [1, 11, 17] or two-
+patch [18–20] approaches with incisions across the cavo-
+atrial junction, alternative atrial appendage flap techniques 
+[21] and caval division with reconstitution of flow to RA 
+via RA appendage with or without cavoatrial augmentation 
+[14, 21].
+Results have generally been favorable, although clinically 
+significant stenoses of the systemic or PV channels (up to 
+27% in selected studies) and dysrhythmias (up to 55%) have 
+been reported [8, 17–20, 22, 23]. While concerning [17, 24], 
+complications related to systemic or PV channel integrity 
+and SN function or SVA have been mitigated with encourag-
+ing outcomes referenced to Warden operation and modifica-
+tions [13]. Said et al. [ 25] compared 3 repair strategies. In 
+the single-patch postoperative supraventricular arrhythmias, 
+SVC and PV obstruction were 8%, 5%, and 5%, respectively, 
+compared to 12%, 4%, and 12%, respectively, in the double-
+patch group, and 22%, 7%, and 0, respectively, in the caval 
+division/Warden-type repair.
+We applied a selective customized strategy to address 
+PAPVC entering SVC at different levels, taking into account 
+the association with atrial shunt and growth potential. Our 
+approach calls for utilizing most suitable repair, paired with 
+the lowest possible early and late morbidity, for maximiz-
+ing efficiency and reproducibility. A customized approach 
+reserves the advantages of each isolated technique tailored 
+to the needs of each patient. Thus, a single repair approach 
+cannot fit all. We advocate that 2 levels of reference can 
+determine the chosen repair strategy; namely azygous vein 
+and CAJ. Specifically, CARAF is advocated for those with 
+PAPVC entering SVC cephalad to azygous vein. When 
+PAPVC enters SVC caudally to azygous vein, manage -
+ment can be directed based on a second level of reference; 
+the CAJ. If PAPVC (if more than one veins) enter SVC 
+Fig. 4  Velocity by echocardiographic doppler assessment of a systemic and b pulmonary venous channels
+[[p8]]
+1071Pediatric Cardiology (2021) 42:1064–1073 
+1 3
+above CAJ, then caval division/Warden-type repair shall be 
+favored. Alternatively, if PAPVC enters at or below the CAJ, 
+then, the likely course of action calls for intra-atrial rerout-
+ing operation with single patch. For patients with character-
+istics demonstrated in Group-A CARAF is an improvement 
+over previously reported approaches for the following rea-
+sons: (1) CAJ preservation and SN integrity; (2) A tension-
+free cavo-atrial connection with growth potential (with the 
+use of the RA appendage as an advancement flap) particu-
+larly important for children and adolescents as most of our 
+patients were; (3) Construction of cavo-atrial connection on 
+beating heart CPB, thereby allowing for proper orientation 
+and tailoring which can decrease the likelihood for distortion 
+or narrowing of neo-caval channel; (4) Expanding surgical 
+capacity with favorable outlook for all PAPVC variations, 
+irrespective of the level of anomalous PVs entering SVC and 
+its association with atrial shunt.
+One important observation is that our CARAF group had 
+younger patients. This may be due to referral patterns. There 
+was no age effect on early or late development of atrial dys-
+rhythmias, systemic or PV channel stenoses. As scarcely 
+reported [26], older age might be associated with more pro-
+nounced adverse cardiac events. An association between 
+older age and atrial tachyarrhythmias needs to be further 
+evaluated by future prospective multisite studies to guide 
+management. Our study reiterates the fact that PAPVC, irre-
+spective of atrial shunt, can be effectively repaired at an ear-
+lier age or soon after the initial diagnosis using a customized 
+approach with tailored repair strategy.
+As others reported [11, 23] caval division strategies have 
+mitigated incidence of SN dysfunction and dysrhythmias. 
+All patients in our series remained in NSR at last follow-up 
+with no need for pacemaker. This is consistent with oth-
+ers experience when 1-patch or 2-patch intraatrial rerouting 
+techniques were used [20]. This is an inherent risk for any 
+repair strategy where incisions are directed towards or in the 
+proximity of SN. Due to the variable anatomical course of 
+SN artery, the risk of SN dysfunction, even in the absence of 
+injury of the node itself, cannot be undermined. None of the 
+patients in this cohort developed mid-term supraventricular 
+tachyarrhythnias. Long-term follow-up data will determine 
+if this trend continues.
+One of the highlights of our customized approach is that 
+use of CARAF effectively prevents early or mid-term caval 
+stenoses. The primary advantage of this procedure is that a 
+right atrial incision extending across the CAJ or near the SN 
+is not necessary. In addition, the cavoatrial anastomosis does 
+not involve interposition patch or graft allowing for growth 
+potential. Interposition graft in accomplishing a tension-free 
+cavoatrial anastomosis in older patients has been advocated 
+by some [27]. Our group supports the concept of a strategy 
+which promotes anastomotic growth potential, particularly in 
+the younger patients. As demonstrated by echocardiographic 
+hemodynamic assessment, using 2-dimensional Doppler and 
+3-dimensional echocardiography widely unobstructed, non-
+turbulent systemic flow was clearly shown.
+As noted by others [28] following Warden-type repair 
+risk for PV obstruction is limited and this repair approach is 
+favorably suited for younger patients with PAPVC entering 
+the SVC. In our series no patients, who underwent a caval 
+division procedure or CARAF in both groups, had any early 
+or late PV obstruction and flow, as demonstrated by echocar-
+diographic hemodynamic assessment, remains non-turbulent 
+and widely unobstructed.
+It is reported [29] that caval division with cavoatrial anas-
+tomosis might be small or under tension and, thus, carries 
+the disadvantage of acute thrombosis or subsequent stenosis. 
+CARAF provides a reproducible and reliable strategy for 
+these particular cases, especially when treated earlier in life. 
+The growth potential of both venous channels is effectively 
+preserved. Furthermore, postoperative anticoagulation ther-
+apy was spared. Recent report [30] described an approach 
+using double-decker strategy. Authors highlighted that using 
+this approach atriotomy is limited within a relatively safe 
+zone from the SN (and artery) and avoids the end-to-end 
+cavoatrial anastomosis. They advocated that systemic venous 
+chamber integrity is preserved by assuring no histological 
+discontinuity at its posterior wall. Our group has no experi-
+ence with this approach.
+Echocardiographic assessment was performed in all 
+patients to assess the systemic and PV channel, as well as, 
+TV functional capacity. Specifically, cardiac echocardiog-
+raphy velocity measurements, although operator-dependent 
+and limited in their ability to calculate blood flow volume 
+and measure wall shear stress, can provide meaningful func-
+tional evaluation of blood flow velocity and pattern of neo-
+systemic and neo-PV channels. Our results indicated that no 
+early or late PV and SVC flow disturbance was recorded. In 
+addition, wide pathway of the intra-atrial baffle was clearly 
+shown. Recently, others [30, 31] have advocated the value 
+of 4D-flow MRI as a novel blood flow imaging technol-
+ogy in vivo for systematic evaluation of hemodynamics, the 
+actual measured values for flow streamline (blood flow com-
+bined with flow velocity) and wall shear stress. Our study 
+does not provide insight related to this imaging modality, 
+but our program is to incorporate this type of assessment 
+for all patients with anomalous PV connection (partial or 
+total). Echocardiography following TV repair determined 
+no deterioration of TV functional capacity at last follow-
+up. The small sample and limited long-term data precluded 
+meaningful interpretation of valve, systemic and PV chan-
+nels integrity associated with PAPVC repair and its impact.
+There are several limitations to this study. It is sin -
+gle-site retrospective study subject to selection bias and 
+lack of randomization. There was no historical control 
+group for comparison. The small sample size made rather 
+[[p9]]
+1072 Pediatric Cardiology (2021) 42:1064–1073
+1 3
+difficult to draw clinically significant albeit statistically 
+significant, conclusions from subgroup analysis. SN dis-
+turbance, occurrence of long-term atrial dysrhythmias or 
+fate of neo-systemic and neo-PV channels patency may be 
+underestimated. Along the same line, inferences regarding 
+the impact of the operative technique employed to future 
+cardiac events would not be scientifically sound.
+In conclusion, surgical repair of PAPVC using CARAF 
+technique appears to be effective and reproducible with 
+no associated morbidity in cases where conventional 
+strategies might carry risk for SN disturbance and caval 
+or PV channel obstruction. Customized approach can be 
+clearly advocated. CARAF for treatment of this subset of 
+PAPVC is associated with low mortality and morbidity, 
+favorable long-term and hemodynamic outcomes related 
+to caval or PV channels. Growth potential is effectively 
+preserved. Large multi-site studies might help determine 
+future guidelines in pursuing a targeted strategy tailored 
+to this subset of patients.
+Acknowledgements The authors express their gratitude to Mrs Celeste 
+Kessler for her contribution in echocardiographic analysis.
+Funding The author(s) received no financial support for the research, 
+authorship, and/or publication of this article.
+Declarations 
+Conflict of interest The author(s) declared no potential conflicts of in-
+terest with respect to the research, authorship, and/or publication of 
+this article.
+Open Access This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+References
+?PM?d?jK?e?nK?c?bK?o?fK?f?qK?e?r?GPXVWH?r??
+atrial septal defect: early and late results following closure in 109 
+patients. Ann Thorac Surg 25:44–50
+ 2. Anderson KR, Yen HS, Anderson RH (1979) Location and vas-
+cular supply of sinus node in human heart. Br Heart J 41:28–32
+ 3. Van Praagh S, Carrera ME, Sanders SP, Mayer JE, Van Praagh R 
+(1994) Sinus venosus defects: unroofing of the right pulmonary 
+veins anatomic and echocardiographic findings and surgical treat-
+ment. Am Heart J 128(2):365–379
+ 4. Agarwal V, Ke O, Abubakar U, Gichuhi S (2001) Impact of 
+warden’s procedure on the sinus rhythm. Heart, Lung Circ 
+20(11):718–721
+ 5. Jam AZ, Anderson RH (1998) The nature of the superior sinus 
+venosus defect. Clin Anat 11:349–352
+ 6. Attenhofer Ch, Hm C, Gk D, Kr B, Hv S, Wk S, Aj T (2005) Sinus 
+venosus atrial septal defect: long-term postoperative outcome For 
+115 patients. Circul 112(13):1953–8
+ 7. Tp G, Cs H, Nb D (2011) Surgical closure of sinus venosus atrial 
+septal defect using a single patch-transcaval repair technique. J 
+Card Surg 26(4):429–434
+ 8. Ac G, Mg M, Sm P, Ms C, Sa W, Jw G et al (2010) Long-term 
+noninvasive arrhythmia assessment after surgical repair of sinus 
+venosus atrial septal defect. Cong Heart Dis 5(2):141–148
+ 9. Hamilton JR, Brooks SG, Walker DE (1991) Alternative tech-
+nique for repair of sinus venosus atrial septal defect. Ann 
+Thorac Surg 51(1):144–146
+ 10. Iyer AP, Somanrema K, Pathak S, Manjunath PY, Pradhan S, 
+Krishnan S (2007) Comparative study of single- and double-
+patch techniques for sinus venosus atrial septal defect with par -
+tial anomalous pulmonary venous connection. J Thorac Cardio-
+vasc Surg 133(3):656–659
+ 11. Gaynor JW, Burch M, Dollery C, Sullivan ID, Deanfield JE, 
+Elliott MJ (1995) Repair of anomalous pulmonary venous con-
+nection to the superior vena cava. Ann Thorac Surg 59:1471–5
+ 12. Lewin AN, Zavanella C, Subramanian S (1978) Sinus venosus 
+atrial septal defect associated with partial anomalous pulmonary 
+venous drainage: surgical repair. Ann Thorac Surg. 26:185–188
+ 13. Gustafson RA, Warden HE, Murray GF (1995) Partial anoma-
+lous pulmonary venous connection to the superior vena cava. 
+Ann Thorac Surg 60(Suppl):614–7
+ 14. Warden HE, Gustafson RA, Tarnay TJ et al (1984) An alter -
+native method for repair of partial anomalous pulmonary 
+venous connection to the superior vena cava. Ann Thorac Surg 
+38:601–5
+ 15. Lewis FJ (1958) High defects of the atrial septum. J Thorac Surg 
+36:1–11
+ 16. Cooley DA, Latson JR, Keats AS (1958) Surgical considerations 
+in repair of ventricular and atrial septal defects utilizing cardio-
+?Z???POS?M?r?SRYQPS–QT
+ 17. Trusler GA, Kazenelson G, Freedom RM, Williams WG, Rowe 
+RD (1980) Late results following repair of partial anomalous pul-
+monary venous connection with sinus venosus atrial septal defect. 
+J Thorac Cardiovasc Surg 79:776–781
+ 18. Ohmi M, Mohri H (1988) A single pericardial patch technique 
+for repair of partial anomalous pulmonary venous drainage asso-
+ciated with sinus venosus atrial septal defect. Ann Thorac Surg 
+46:360–361
+ 19. Woods RK, Cleveland KI (2008) Alternative repair for challenging 
+variants of partial anomalous pulmonary veins. Ann Thorac Surg 
+85:1823–1824
+ 20. Nicholson CA, Chard RB, Nunn GR, Cartmill TB (2000) Tran-
+scaval repair of the sinus venosus syndrome. J Thorac Cardiovasc 
+Surg 119:741–744
+ 21. Deleon SY, Freeman JE, Ilbawi MN (1993) surgical techniques 
+in partial anomalous pulmonary veins to the superior vena cava. 
+Ann Thorac Surg 55:1222–1226
+ 22. Alsoufi B, Cai S, Van Arsdell GS, Williams WG, Caldarone CA, 
+Coles JG (2007) Outcomes after surgical treatment of children 
+with partial anomalous pulmonary venous connection. Ann 
+Thorac Surg 84:2020–2026
+ 23. Stewart RD, Bailliard F, Kelle Am, Backer CI, Young L, Mav -
+roudis C (2007) Evolving surgical strategy for sinus venosus 
+atrial septal defect: effect on sinus node function and late venous 
+obstruction. Ann Thorac Surg 84(5):1651–1665
+[[p10]]
+1073Pediatric Cardiology (2021) 42:1064–1073 
+1 3
+ 24. Stewart S, Alexon C, Manning J (1986) Early and late results of 
+repair of partial anomalous pulmonary venous connection to the 
+superior vena cava with a pericardial baffle. Ann Thorac Surg 
+41:498–501
+ 25. Said Sm, Burkhart HM, Schaff HV (2012) Single-patch, 2-patch, 
+and caval division techniques for repair of partial anomalous pul-
+monary venous connections: does it matter? J Thorac Cardiovasc 
+Surg 143:896–903
+ 26. Luciani GB, Viscardi F, Pilati M, Crepaz R, Faggian G, Mazzucco 
+A (2008) Age at repair affects the very long-term outcome of sinus 
+venosus defect. Ann Thorac Surg 86(1):153–159
+ 27. Ishida N, Shimabukuro K, Yamaguchi S et al (2018) Surgical 
+repair of partial anomalous pulmonary venous return with intact 
+atrial septum in 65-year old woman: a case report. J Med Case 
+Rep 12(1):350–1
+?QWM?r?`K?q?lcK?s?lv?GQOOUH?b?L
+sion technique for sinus venosus atrial septal defect with partial 
+anomalous pulmonary venous connection. Ann Thorac Surg 
+81:224–30
+ 29. Pathi V, Guererro R, MacArthur K, Jamieson MP, Pollock JCS 
+(1995) Sinus venosus defect: single patch repair with caval 
+enlargement. Ann Thorac Surg 59:1588–9
+ 30. Hongu H, Yamagishi M, Maeda Y, Itatani K, Asada S, Fujita S 
+et al (2019) Double-decker repair of partial anomalous pulmonary 
+venous return into the superior vena cava. J Thorac Cardiovasc 
+Surg 157:1970–7
+ 31. Stankovic Z, Allen BD, Garcia J, Jarvis KB, Markl M (2014) 4D 
+flow imaging with MRI. Cardiovasc Diagn Ther 4:173–92
+Publisher’s Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.

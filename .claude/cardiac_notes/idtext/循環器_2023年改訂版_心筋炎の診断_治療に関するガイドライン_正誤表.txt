@@ -1,0 +1,83 @@
+
+[[p1]]
+2023 年改訂版 心筋炎の診断・治療に関するガイドライン
+初版 正誤表
+記載に誤りがありましたので，お詫び申し上げますとともに下記の通り訂正致します。
+（2023.3.17）
+訂正箇所 誤 正
+p. 57 右段下から 7行
+目
+が報告されている 315, 317, 318）． が報告されている 154, 315, 318）．
+p.108 文献 315 TeerlinkJR, Diaz R, Felker
+GM, et al. GALACTIC-HF
+Investigators.Cardiac myosin
+activation with omecamtiv
+mecarbil in systolicheart
+failure. N Engl J Med 2021;
+384: 105-116. PMID: 33185990
+Cooper LT, Zehr KJ.
+Biventricular assist device
+placement and
+immunosuppression as therapy
+for necrotizing eosinophilic
+myocarditis. Nat Clin Pract
+Cardiovasc Med 2005; 544-548.
+PMID: 16186853
+p.108 文献 316 Moss AJ, Zareba W, Hall WJ, et
+al. Multicenter Automatic
+Defibrillator Implantation
+Trial II Investigators.
+Prophylactic implantation of
+a defibrillator in patients
+with myocardial infarction
+andreduced ejection
+fraction. N Engl J Med 2002;
+346: 877-883. PMID: 11907286
+Koehler U, Ghahremann M,
+Jerrentrup A, et al.
+Eosinophilicmyocarditis in
+Churg-Strauss syndrome: a
+rare cause of left heart
+decompensation with lung
+edema. Dtsch Med Wochenschr
+2000; 125:1323-1327. PMID:
+11109414
+p.108 文献 317 Conrad N, Judge A, Tran J, et
+al. Temporal trends and
+patterns inheart failure
+incidence: a population-based
+study of 4 million
+individuals. Lancet 2018;
+391: 572-580. PMID: 29174292
+deleted in proof.
+p.108 文献 318 Bonow RO, Maurer G, Lee KL, et
+al. STICH Trial
+Investigators.Myocardial
+viability and survival in
+ischemic left ventricular
+dysfunction. N Engl J Med 2 0
+11 ; 3 6 4 : 16 1 7- 1 6 2 5 .
+PMID: 21463153
+Howell E, Paivanas N, Stern J,
+et al. Treatment of acute
+necrotizingeosinophilic
+myocarditis with
+immunosuppression and
+mechanicalcirculatory
+support. Circ Heart Fail 2016;
+9: e003665. PMID:27940496
+p.108 文献 319 Køber L, Thune JJ, Nielsen JC,Bleeker JS, Syed FF, Cooper
+LT, et al.
+[[p2]]
+et al. DANISH Investigators.
+Defibrillator implantation in
+patients with nonischemic
+systolic heartfailure. N Engl
+J Med 2016; 375: 1221-1230.
+PMID: 27571011
+Treatment-refractory
+idiopathichypereosinophilic
+syndrome: pitfalls and
+progress with useof novel
+drugs. Am J Hematol 2012; 87:
+703-706. PMID: 22367886

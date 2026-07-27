@@ -1,0 +1,971 @@
+
+[[p1]]
+Citation: Cantinotti, M.; Jani, V .;
+Kutty, S.; Marchese, P .; Franchi, E.;
+Pizzuto, A.; Viacava, C.; Assanta, N.;
+Santoro, G.; Giordano, R. Neonates
+and Infants with Left Heart
+Obstruction and Borderline Left
+Ventricle Undergoing Biventricular
+Repair: What Do We Know about
+Long-Term Outcomes? A Critical
+Review. Healthcare 2024, 12, 348.
+https://doi.org/10.3390/
+healthcare12030348
+Academic Editors: Wilhelm Mistiaen
+and Ines Aguinaga-Ontoso
+Received: 20 November 2023
+Revised: 22 January 2024
+Accepted: 23 January 2024
+Published: 30 January 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+healthcare
+Review
+Neonates and Infants with Left Heart Obstruction and
+Borderline Left Ventricle Undergoing Biventricular Repair: What
+Do We Know about Long-Term Outcomes? A Critical Review
+Massimiliano Cantinotti 1, Vivek Jani 2
+ , Shelby Kutty 2, Pietro Marchese 1
+ , Eliana Franchi 1,
+Alessandra Pizzuto 1
+ , Cecilia Viacava 1, Nadia Assanta 1, Giuseppe Santoro 1
+ and Raffaele Giordano 3,*
+1 Foundation G. Monasterio CNR-Regione Toscana, 56124 Pisa, Italy; cantinotti@ftgm.it (M.C.);
+pmarchese@ftgm.it (P .M.); eliana.franchi@ftgm.it (E.F.); apizzuto@ftgm.it (A.P .); cecilia.viacava@ftgm.it (C.V .);
+assanta@ftgm.it (N.A.); giuseppe.santoro@ftgm.it (G.S.)
+2 Helen B. Taussig Heart Center, Department of Pediatrics, Johns Hopkins Hospital, Baltimore, MD 21205, USA;
+vjani1@jhmi.edu (V .J.); shelby.kutty@gmail.com (S.K.)
+3 Adult and Pediatric Cardiac Surgery, Department of Advanced Biomedical Sciences, University of Naples
+“Federico II”, 80131 Naples, Italy
+* Correspondence: r.giordano81@libero.it
+Abstract: Background: The decision to perform biventricular repair (BVR) in neonates and infants pre-
+senting with either single or multiple left ventricle outflow obstructions (LVOTOs) and a borderline
+left ventricle (BLV) is subject to extensive discussion, and limited information is known regarding the
+long-term outcomes. As a result, the objective of this study is to critically assess and summarize the
+available data regarding the prognosis of neonates and infants with LVOTO and BLV who underwent
+BVR. Methods: In February 2023, we conducted a review study with three different medical search
+engines (the National Library of Medicine, Science Direct, and Cochrane Library) for Medical Subject
+Headings and free text terms including “congenital heart disease”, “outcome”, and “borderline left
+ventricle”. The search was refined by adding keywords for “Shone’s complex”, “complex LVOT
+obstruction”, “hypoplastic left heart syndrome/complex”, and “critical aortic stenosis”. Results: Out
+of a total of 51 studies, 15 studies were included in the final analysis. The authors utilized heteroge-
+neous definitions to characterize BLV , resulting in considerable variation in inclusion criteria among
+studies. Three distinct categories of studies were identified, encompassing those specifically designed
+to evaluate BLV , those focused on Shone’s complex, and finally those on aortic stenosis. Despite
+the challenges associated with comparing data originating from slightly different cardiac defects
+and from different eras, our results indicate a favorable survival rate and clinical outcome following
+BVR. However, the incidence of reintervention remains high, and concerns persist regarding residual
+pulmonary hypertension, which has been inadequately investigated. Conclusions: The available
+data concerning neonates and infants with LVOTO and BLV who undergo BVR are inadequate and
+fragmented. Consequently, large-scale studies are necessary to fully ascertain the long-term outcome
+of these complex defects.
+Keywords: congenital heart disease; pediatric; cardiac surgery
+PM?a
+The decision whether to perform biventricular repair (BVR) or univentricular palliation
+(UVP) in neonates and infants affected by multiple left heart obstructive lesions and borderline
+left ventricle (BLV) is always challenging [1–16], and knowledge regarding the long-term
+prognosis of these patients remains scarce. Various scores utilizing echocardiography data
+have been proposed as a means of predicting the efficacy of BVR in BLV [2–5,9,14]; however,
+these are solely based on short-term results [3,4,14], with a mean follow-up period of 5–6 years.
+Furthermore, these scoring systems are not without limitations, which include heterogeneity
+Healthcare 2024, 12, 348. https://doi.org/10.3390/healthcare12030348 https://www.mdpi.com/journal/healthcare
+[[p2]]
+Healthcare 2024, 12, 348 2 of 13
+in the echocardiographic parameters and outcome measures evaluated, as well as the retro-
+spective design during the score development [2–5,9,14]. Additionally , significant variations
+in inclusion criteria were observed among the studies from differing authors [2–5,9,14]. More-
+over, the term “borderline left ventricle” encompasses a broad spectrum of complex cardiac
+defects characterized by one or multiple left-sided obstructions and diminutive left sections,
+with significant uncertainty regarding the optimal choice between BVR and UVP . The absence
+of a universally accepted definition of “borderline left ventricle” has resulted in the use of
+various definitions, such as critical left ventricular outflow (LVOT) stenosis, hypoplastic left
+heart complex, multiple left heart obstructive lesions, and small left heart structures. Addi-
+tionally , neonates and infants with Shone’s complex [17–27] have typically been evaluated
+separately , even though these congenital heart defects (CHDs) are also characterized by multi-
+ple left-sided obstructions and borderline left structures. Despite the high volume of literature
+on surgical and percutaneous aortic stenosis (AS) valvuloplasty in pediatric patients [28–54],
+studies have not specifically focused on BLV despite neonatal AS being typically associated
+with a diminutive left ventricle (LV). Data regarding the long-term outcomes of neonates and
+infants with Shone’s complex [17–27] and critical neonatal AS [28–53] undergoing BVR are
+also limited. The aim of the present study is to systematically review data pertaining to the
+long-term outcomes of neonates and infants with one or multiple LVOT obstructions and BLV
+who have undergone a biventricular correction.
+2. Methods
+In February 2023, we conducted a review study within 3 different medical search en-
+gines (the National Library of Medicine, Science Direct, and Cochrane Library) for Medical
+Subject Headings and free text terms including “congenital heart disease”, “outcome”,
+and “borderline left ventricle”. The search was refined by adding keywords for “Shone’s
+complex”, “complex LVOT obstruction”, “hypoplastic left heart syndrome/complex”, and
+“critical aortic stenosis”.
+The titles and abstracts of articles identified by this strategy were evaluated and ex-
+cluded if (i) the reports were written in languages other than English (1 study);
+(ii) studies did not report a data follow-up of at least 3 years (13 studies); (iii) there were
+duplicate data (6 works); (iv) the reports mixed neonates and infants with older children
+(9 studies); (v) the reports evaluated only single lesions (e.g., isolated aortic stenosis,
+excluding multiple stenosis and borderline LV) (7 studies) (Figure 1).
+Healthcare 2024, 12, x FOR PEER REVIEW 2 of 14 
+ 
+ 
+echocardiography data have been proposed as a means of predicting the e ﬃcacy of BVR 
+in BLV [2–5,9,14]; however, these are solely based on short-term results [3,4,14], with a 
+mean follow-up period of 5–6 years. Furthermore, these scoring systems are not without 
+limitations, which include heterogeneity in the echocardiographic parameters and 
+outcome measures evaluated, as well as the retrospective design during the score 
+development [2–5,9,14]. Additionally, signi ﬁcant variations in inclusion criteria were 
+observed among the studies from di ﬀering authors [2–5,9,14]. Moreover, the term 
+“borderline left ventricle” encompasses a broad spectrum of complex cardiac defects 
+characterized by one or multiple left-sided obstructions and diminutive left sections, with 
+signiﬁcant uncertainty regarding the optimal choice between BVR and UVP. The absence 
+of a universally accepted deﬁnition of “borderline left ventricle” has resulted in the use of 
+various deﬁnitions, such as critical left ventricular out ﬂow (LVOT) stenosis, hypoplastic 
+left heart complex, multiple left heart obstructive lesions, and small left heart structures. 
+Additionally, neonates and infants with Shone’s complex [17–27] have typically been 
+evaluated separately, even though these co ngenital heart defects (CHDs) are also 
+characterized by multiple left-sided obstructions and borderline left structures. Despite 
+the high volume of literature on surgical and percutaneous aortic stenosis (AS) 
+valvuloplasty in pediatric patients  [28–54], studies have not speci ﬁcally focused on BLV 
+despite neonatal AS being typically associated with a diminutive left ventricle (LV). Data 
+regarding the long-term outcomes of neonates and infants with Shone ʹs complex [17–27] 
+and critical neonatal AS [28–53] undergoing BVR are also limited. The aim of the present 
+study is to systematically revi ew data pertaining to the long-term outcomes of neonates 
+and infants with one or multiple LVOT ob structions and BLV who have undergone a 
+biventricular correction.  
+2. Methods 
+In February 2023, we conducted a review study within 3 di ﬀerent medical search 
+engines (the National Librar y of Medicine, Science Direct, and Cochrane Library) for 
+Medical Subject Headings and free text terms including “congenital heart disease”, 
+“outcome”, and “borderline left ventricle”. The search was re ﬁned by adding keywords 
+for “Shone’s complex”, “complex LVOT obstruction”, “hypoplastic left heart 
+syndrome/complex”, and “critical aortic stenosis”. 
+The titles and abstracts of articles identi ﬁed by this strategy were evaluated and 
+excluded if (i) the reports were wri tten in languages other than English (1 study); (ii) 
+studies did not report a data follow-up of at least 3 years (13 studies); (iii) there were 
+duplicate data (6 works); (iv) the reports mixed neonates and infants with older children 
+(9 studies); (v) the reports evaluated only sing le lesions (e.g., isol ated aortic stenosis, 
+excluding multiple stenosis and borderline LV) (7 studies) (Figure 1). 
+ 
+(A) 
+e?PM?bM
+[[p3]]
+Healthcare 2024, 12, 348 3 of 13
+Healthcare 2024, 12, x FOR PEER REVIEW 3 of 14
+(B)
+e?PM?G`H?c??N?M?GaH?e????M?
+3. Results
+Of 51 studies, 36 were excluded for the above-mentioned criteria, leaving 15 studies
+for the ﬁnal analysis. Three broad categories of studies were identi ﬁed: those speciﬁcally 
+designed to evaluate neonates and infants with BLV [1,3,4,6,7,10], those on Shone’s 
+complex [22–24], and those on aortic stenosis [28,30,31,43,47]. 
+3.1. CHD Deﬁnition and Groups 
+Various deﬁnitions have been utilized to describe LV obstruction with borderline LV, 
+including BLV [1] (Table 1), critical left ventricular out ﬂow (LVOT) stenosis [3,4], 
+hypoplastic left ventricle with mitral stenosis  [6], hypoplastic left heart complex [8,11], 
+multiple left heart obstructive lesions [7,10], and small left heart structures [9]. Two main 
+categories of BLV de ﬁnitions may be identi ﬁed: one includes in BLV a series of defects 
+characterized by two or more diminutive left-sided lesions (e.g., mitral valve-MV, aortic
+valve AoV, LVOT, LV) [1,6,7,10,11,55], while the other is focused on the presence of a 
+critical LVOT obstruction [3,4,8] (Table 1). While LV hypoplasia was a criterion of inclusion 
+for most authors [1,3,6–8,10,11], not all authors used this inclusion criterion [4,9]. Notably,
+one study had the presence of aortic coarctation [9] as the primary inclusion criterion,
+while others excluded patients with isolated aortic arch obstruction [1]. Z-scores were
+employed to determine the degree of mitral and aortic valve hypoplasia, but diﬀerent Z-
+score sources were employed by various au thors [56–58], and at times the nomograms 
+employed were not indicated at all [6,10,11]. Established exclusion criteria were 
+discordant atrio-ventricular and ventricular arterial connections [1,3,4,7,9], aortic or mitral 
+atresia [1,3,4,6,8,10], atrioventricular septal defects [1,6,7,10], or other complex associated 
+CHDs [3,7,8,10]. 
+The de ﬁnition of Shone’s complex is also not consistent throughout the available 
+literature. It has been de ﬁned as mitral stenosis plus at least one [19,22,24] or two [23] 
+LVOT obstructions. Furthermore, the literature on aortic stenosis is also greatly 
+heterogenous [54], with articles focused on the results of surgical valvuloplasty [28,30,31] 
+or percutaneous valvuloplasty [43,47]. Finally, there is a challenge obtaining data on 
+children with BLV since they have often been  excluded [5,28,30,32, 49,52,53] or grouped 
+together with older children [31,41]. Several studies used ﬁxed cut-oﬀ values to exclude 
+patients from BVR [5,28,30,49], such as aortic valve annulus < 5 mm [28,30] or <4.5 mm [5], 
+e?PM?G`H?c??N?M?GaH?e????M
+3. Results
+Of 51 studies, 36 were excluded for the above-mentioned criteria, leaving 15 studies
+for the final analysis. Three broad categories of studies were identified: those specifi-
+cally designed to evaluate neonates and infants with BLV [1,3,4,6,7,10], those on Shone’s
+complex [22–24], and those on aortic stenosis [28,30,31,43,47].
+3.1. CHD Definition and Groups
+Various definitions have been utilized to describe LV obstruction with borderline
+LV , including BLV [1] (Table 1), critical left ventricular outflow (LVOT) stenosis [ 3,4],
+hypoplastic left ventricle with mitral stenosis [ 6], hypoplastic left heart complex [ 8,11],
+multiple left heart obstructive lesions [ 7,10], and small left heart structures [ 9]. Two
+main categories of BLV definitions may be identified: one includes in BLV a series of
+defects characterized by two or more diminutive left-sided lesions (e.g., mitral valve-
+MV , aortic valve AoV , LVOT, LV) [1,6,7,10,11,55], while the other is focused on the pres-
+ence of a critical LVOT obstruction [ 3,4,8] (Table 1). While LV hypoplasia was a cri-
+terion of inclusion for most authors [ 1,3,6–8,10,11], not all authors used this inclusion
+criterion [4,9]. Notably, one study had the presence of aortic coarctation [9] as the primary
+inclusion criterion, while others excluded patients with isolated aortic arch obstruction [1].
+Z-scores were employed to determine the degree of mitral and aortic valve hypoplasia,
+but different Z-score sources were employed by various authors [56–58], and at times the
+nomograms employed were not indicated at all [ 6,10,11]. Established exclusion criteria
+were discordant atrio-ventricular and ventricular arterial connections [ 1,3,4,7,9], aortic
+or mitral atresia [1,3,4,6,8,10], atrioventricular septal defects [1,6,7,10], or other complex
+associated CHDs [3,7,8,10].
+[[p4]]
+Healthcare 2024, 12, 348 4 of 13
+Table 1. (A) Borderline LV definition according to different authors. (B) Shone’s complex definition
+according to major studies.
+(A)
+Authors Inclusion Criteria Exclusion Criteria
+Two or more left-sided diminutive lesions
+Kang SL, 2022, Toronto [1]
+b-HLH two or more:
+− LVEDVi < 20 mL% by echo
+− Non apex forming LV
+− EFE
+− AoV or MV z score < 2
+− Valvular or sub valvular LVOT
+− MV obstruction
+Z-score source: none indicated
+− Only Ao or MV Z-score < 2 with
+associated obstruction
+− Valvular atresia
+− Discordant AV or VA connections
+− AVSD
+− Isolated Ao Arch obstruction
+Cavigelli Brunner A, 2012, Zurigh [7]
+<3 months, with patent Ao and MV two or more
+(1) MS, MV hypoplasia, or parachute MV
+(2) LVOT: stenosis diameter < than normal Ao annulus
+(3) AS, AoV hypoplasia
+(4) Ao arch: hypoplasia, isthmic hypoplasia, coarctation,
+or interrupted Ao arch type A
+(5) LV: LV/RV long-axis ratio <0.8 or small LVEDV
+Z-score source: Daubeney et al. [58]
+Non concordant AV or VA connection,
+TAPR, or AVSD
+Swartz ML, 2001; Boston, USA [10]
+two or more
+(1) MS, MV hypoplasia, or parachute MV
+(2) LVOT: stenosis, diameter < than normal Ao annulus
+(3) AS or hypoplasia
+(4) Ao arch: hypoplasia, isthmic hypoplasia, coarctation,
+or interrupted Ao arch type A
+(5) LV: LV/RV long-axis ratio <0.8 or small LVEDV
+Z-score source: Daubeney et al. [58]
+MA, AA, TAPVR, AVSD, TGA, truncus arteriosus,
+DORV , or interrupted Aortic arch type B
+Tchervenkov CI, 1998, Montreal, Canada [11]
+Multiple Hypoplastic structures of the left heart-aorta
+complex including MV , LV , LVOT, and the aortic valve.
+Anterograde flow through the Ao
+Z-score source: none indicated
+NR
+Mart CR et al., 2014, USA [55]
+HLCH
+− MV , AV z score < 2
+− LV hypoplasia without EFE
+− Hypoplasia of the LVOT, Asc Ao, and aortic arch
+with or without Aco
+− Holosystolic antegrade flow in the Asc Ao
+− Ductal dependency with bidirectional ductal flow
+Z-score source: Sluysman et al. [57]
+AA, MA
+Shimada M, 2019, Osaka, Japan [6]
+HLV defined as having a z score < 2 and Hypoplastic or
+dysplastic MV
+Z-score source: none indicated
+AA, MA, interrupt Ao arch. AVSD
+Critical left ventricle outflow obstruction
+Lofland GK, 2001, CHSS, USA [3]
+Critical LVOTO:
+− Moderately or severely reduced LV
+− Systemic perfusion dependent on RV
+output via a PDA
+Z-score source: Daubeney et al. [58]
+− Large VSD or
+− associated cardiac anomalies judged
+to be of worse prognostic significance
+than their LVOTO
+− Abnormal AV or VA connections
+− AA
+Hickey EJ, 2007, CHSS, USA [4]
+Critical neonatal LVOTO: stenosis occurring at any level
+from the subvalvular region to the innominate artery with or
+without LV hypoplasia, such that the systemic circulation
+was ductus-dependent
+Z-score source: none indicated
+AA, MA, interrupted Ao arch, Abnormal AV ,
+or VA connections
+Freund 2015, Utrecht, Netherlands [8]
+Critical AS with hypoplasia of the LV , congenital MS with
+comparable HLV ◦
+Z-score source: Pettersen et al. [57]
+AA, MS, AS and MA, AS, DORV , TA, DILV
+Aortic coarctation plus diminutive left sections
+Plymale JM, 2017, Milwaukee, WI, USA, [9]
+Infants ≤2 months undergoing aortic arch repair with AoV
+and/or MV hypoplasia, (Z-score ≤ −2)
+Z-score source: Pettersen et al. [57]
+Abnormal AV or VA connections
+[[p5]]
+Healthcare 2024, 12, 348 5 of 13
+s?PM?bM
+(B)
+Authors Inclusion Criteria Exclusion Criteria
+MS and at least one more defect
+Nicholson GT, 2016,
+Atlanta and Houston, USA, [22]
+ShoneMS+ at least one
+1. Subvalvular AS
+2. AS
+3. Supravalvular AS
+4. Aortic arch hypoplasia
+5. Aco
+MS and AS palliated for UVP
+Malhotra SP , 2008, Colorado, USA [24]
+MS and one or more LVOT
+MS (Hammock or arcade MV , n = 9; parachute n = 12;
+supramitral ring n = 11)
+LVTO
+(subaortic stenosis, n = 25; aortic stenosis, n = 24; hypoplastic
+arch, n = 20; coarctation, n = 38)
+213
+1110,
+Patients undergoing UVP
+MS and at least two or more defects
+Brown JW, 2005, Indianapolis, USA [23]
+Shone
+MS+ at least two other left heart obstructive lesions
+(subaortic stenosis, n = 16; valvular aortic stenosis, n = 7;
+bicuspid aortic valve, n = 24; aortic coarctation n = 18)
+Significant LV hypoplasia not suitable for BVR
+Delmo Walter EM, 2013, Berlin [19]
+Any type of MS+
+LVOTO ◦
+Aco and/or arch hypoplasia ◦
+Patients undergoing UVP , straddling of TV or MV ,
+uAVSD, multiple VSDs, unroofed coronary, sinus,
+DORV , and non-apex LV
+AA = aortic atresia, Aco = aortic coarctation; Ao = aorta; AS = aortic stenosis, AoV = aortic valve, AV = atrio-
+ventricular, AVSD = atrioventricular septal defect, DILV = double inlet left ventricle, DORV = double outlet
+left ventricle, HLC = hypoplastic left heart complex; HLV = hypoplastic left ventricle; EFE = endocardial fibo-
+elastosis, MA = mitral atresia, MS = mitral stenosis, MV = mitral valve, LV = left ventricle, LVOT = left ventric-
+ular outflow tract, LVOTO = left ventricle outflow obstruction; LVEDD = left ventricle end-diastolic diameter,
+LVEDV = left ventricle end-diastolic volume, LVEDVi = left ventricle end-diastolic volume indexed, NR = not
+reported, PDA = patent arterial duct, RV = right ventricle, TA = tricuspid atresia, TAPR = total anomalous
+pulmonary venous return; TGA = transposition of the great arteries, VA = ventricular-arterial; ◦ definition of
+Tchervenkov CI; BVR = biventricular repair, MS = mitral stenosis, TV = tricuspid valve, uAVSD = unbalanced
+atrioventricular septal defect, UVP = univentricular palliation, VSD = ventricular septal defect.
+The definition of Shone’s complex is also not consistent throughout the available literature.
+It has been defined as mitral stenosis plus at least one [19,22,24] or two [23] LVOT obstructions.
+Furthermore, the literature on aortic stenosis is also greatly heterogenous [54], with articles
+focused on the results of surgical valvuloplasty [28,30,31] or percutaneous valvuloplasty [43,47].
+Finally , there is a challenge obtaining data on children with BLV since they have often been
+excluded [5,28,30,32,49,52,53] or grouped together with older children [31,41]. Several studies
+used fixed cut-off values to exclude patients from BVR [5,28,30,49], such as aortic valve annulus
+< 5 mm [28,30] or <4.5 mm [5], MV annulus < 7 mm, L V end-diastolic volume < 20 mL/m2 [30],
+and LV long axis < 80% of the LV [49]. Other studies utilized more generic exclusion criteria,
+such as borderline LV [38,53] or multiple LVOT obstruction [32,52]. The present study focuses
+on three articles on surgical valvuloplasty performed in neonates and infants with critical
+AS [28,30,31] and two articles on balloon valvuloplasty [43,47].
+3.2. Follow-Up Duration
+Our investigation revealed the finding of very limited data on long-term follow-up
+of BLV (Table 2), with only seven studies [ 1,3,4,6–8,10] reporting follow-up data of at
+least 5 years. However, not all the studies [ 7–10] completed the 5-year follow-up for all
+subjects [1,7–10]. The longest follow-up interval was, on average, 8 years [ 1], but once
+again, not all the subjects completed the follow-up. Follow-up intervals ranged from
+0.1 to 16.4 years [1]. Some studies had a very limited sample size (e.g., <20 subjects) [6,8,11],
+while others had moderate to large sample sizes (ranging from 39 to 71 subjects) [1,7,9,10]
+or very large sample sizes (e.g., >100 subjects) [3,4]. All the studies, except for two [ 3,4],
+had a retrospective, single-center design.
+[[p6]]
+Healthcare 2024, 12, 348 6 of 13
+Table 2. (A) Major studies on outcomes in borderline LV attempting BVR. ( B) Major studies on
+outcomes in Shone undergoing BVR. (C) Major studies on outcomes in neonates and infants with
+aortic stenosis undergoing either surgical/percutaneous valvuloplasty.
+(A)
+Authors Sample Size F-Up Time Survival Freedom from Redu
+Larger works
+(e.g., >50 subjects)
+Hickey EJ, 2007,
+CHSS, USA [4]
+223 UVP , 139 BVR
+(1994–2001) 5 yrs
+5 yrs
+UVP 62% ± 3%
+BVR 71% ± 4%
+3 years 64%
+19.4% two redu
+5.7% three redu
+Lofland GK, 2001,
+CHSS, USA [3]
+116 BVR, 179 UVP
+(1994–2000) 5 yrs
+5 yrs
+BVR 70%
+UVP 60%
+NR
+Schwartz ML, 2001,
+Boston, USA [10]
+72 HLHC
+(1988–1997) 5.9 (2.0–12.1) yrs BVR success 81% * 1.9 (range 0 to 7) per
+patient interventions
+Kang SL,
+2022, Toronto [1]
+54 bHLH with BVR
+(2003–2015) 8.0 (0.1–16.4) yrs
+TX free survival
+1 yrs 96%
+5 yrs 82%
+10 yrs 77%
+NR
+Smaller works
+(e.g., <50 subjects)
+Cavigelli-Brunner A,
+2012 Zurigh [7]
+39 HLHC (1.30 days)
+(1990–2006)
+34 (1–177)
+months
+87%
+VSD?mxg`?h
+26% NYHA II
+1 years 50%
+34 months 38%
+Tchervenkov CT, 1998,
+Montreal, Canada [11]
+11 HLHC + Aco with
+hypoplastic Ao arch
+(1988–1998)
+44+/35
+mths 8 yrs 63% 3 yrs 25%
+Shimada M, 2019,
+Osaka, Japan [6]
+8 HLV + MS
+(2001–2014) 6.5 (±4.5) yrs 10 yrs 88.5%
+All NYHA I or II
+Redu in two (one
+multiple intervention)
+(B)
+Authors Population First Surgery F-Up Survival Freedom from Redu
+Nicholson GT, 2016,
+Atlanta and Houston,
+USA, [22]
+121 MS and 1 or more
+LVOTO
+(1978–2010)
+28 days (0 days–17.3
+years)
+MS +
+ACO 76.9%
+SubAS 42.1
+AS 43%
+SupraAS (5%)
+−?VT?`b
+− 22 MVP
+− 23 SubAo res
+7.2 (0.1–35.5) yrs
+Tx free survival
+10 yrs 86%
+(14 of 17 deaths within
+first 10 mths of life)
+10 yrs 71.7%
+Mean of two
+surgical/percutaneous
+intervention per patient
+Malhotra SP , 2008,
+Colorado, USA [24]
+43 MS and 1 or more
+LVOTO
+(1987–2007)
+Stage repair 30
+6.5 days (1 day-1.6 yrs)
+TX 13 patients
+22 (2–76) days
+− 24 Aco
+− 2 Sub-AS
+− 1 RK and MVP ,
+− 1 RK and MVR,
+− 1 MV ring,
+− 1 SAV
+7.9 yrs
+Survival staged repair
+1 yr 96.2%
+5 yrs 88.0%,
+10 yrs 83.1%
+82.6% in NYHA I
+on LVOT 60.6%
+on MV 83.7%
+MVR
+5 yrs 81.4%
+10 yrs 73.2%
+Brown JW, 2005,
+Indianapolis, USA [23]
+27 MS and 2 LVOTO
+(1978–2003)
+9.0 months (2 days-3 yrs)
+MS+
+AS 26%
+Aco 67%
+SubAS 59%
+15 Aco
+4 VSD closure
+3 MV ring
+2 MVP
+2 Sub-Ao res.
+2 BAV
+4.4 ± 4.4 yrs
+TX free survival
+5 yrs 96%
+10 yrs 93%
+15 yrs 89%
+All NYHA class I or II
+82%
+(C)
+Authors Population F-Up Survival Freedom from Redu
+Surgical valvuloplasty
+Galoin-Bertal C, 2016,
+France [28]
+Period: 1994–2012
+84 critical AS
+Age < 4 months
+4.2 yrs
+(1 day–17.7 yrs)
+5 yrs 87%
+15 yrs 85%
+5 yrs 51%
+10 yrs 65%
+15 yrs 18%
+Brown JB, 2006, USA
+[31]
+Period: 1978–2000
+66 critical AS SAV
+Age 15.1+/19.6 days 8.2 ± 6.2 yrs
+15 yrs
+94% in isolated AS
+64% in AS + CHD
+All NYHA I or II
+Freedom from AoV
+reoperation
+5 yrs 83%
+15yrs 64%
+20 yrs 60%
+Hawkins JA, 1998,
+Salt Lake, USA [30]
+Period: 1986–1996
+37 critical AS SAV
+Age: 26 ± 21 days Up to 11 yrs 1 yr 78%
+10 yrs 73.4%
+1 yrs 73%
+10 yrs 55%
+[[p7]]
+Healthcare 2024, 12, 348 7 of 13
+Table 2. Cont.
+Percutaneous
+valvuloplasty
+Han RK, 2007, Toronto
+[43]
+Period: 1994–2004
+53 Neonatal AS BAV
+Age 3.5 days (range 1 to
+30 days §)
+3.2 yrs
+(5 days–10.9 yrs)
+1 year 86%
+10 yrs 86%
+1 year 68%
+5 yrs 56%
+10 yrs 33%
+Latiff HA, 2003,
+Australia [47]
+Period: 1988–1998
+42 As
+Age < 6 months
+19 (1–180) days
+0–7 days 16
+8–30 days10
+1–6 months 16
+53 months
+(6 mths–9 yrs)
+10 yrs
+All 72%
+0–7 days 42%
+8–30 days 65%,
+1–6 months 93%
+5 yrs 70%
+10 yrs 21%
+Ao Arch = aortic arch, AoV = aortic valve, AVr = aortic valve replacement, BAV = balloon aortic valvotomy,
+bHLH = borderline hypoplastic left heart, CHSS = cardiac heart surgeons’ society, HLHC = hypoplastic left
+heart complex, HLV = hypoplastic left ventricle, Int CC = interventional cardiac catheterization, BVR = biven-
+tricular repair, NYHA = New York Heart Association, MV = mitral valve, Pa = pulmonary artery, PH = pul-
+monary hypertension, SAV = surgical aortic valvotomy, surg = surgery, TX = transplant, UVP = univentricular
+palliation; f-up = follow-up. * Failure of biventricular repair was defined as takedown to a univentricular re-
+pair, cardiac transplantation, and/or death. AS = aortic stenosis, Aco = aortic coarctation, LV = left ventricle,
+LVOTO = left ventricle outflow tract obstruction, MS = mitral stenosis, MVP = mitral valve plasty, MVR = mitral
+valve replacement, SR = staged repair, SubAo res = subaortic resection, SubAS = sub-aortic stenosis, Supra,
+As = supra-aortic stenosis, RK = Ross Konno, VSD = ventricular septal defect. Ao = aorta, CHD = congenital heart
+disease, § Median CHSS score o (−46 to 55) 53% negative CHHS score 47% positive CHSS score.
+In the studies pertaining to the Shone complex, only three retrospective studies con-
+ducted at single centers [22–24] with sample sizes ranging from 27 [23] to 121 subjects [22]
+reported follow-up data for at least 5 years. The duration of follow-up was longer compared
+to studies pertaining to BLV , varying from 4.4± 4 years [23] up to 7.9 years [24].
+The included studies on aortic stenosis were all single-center with retrospective de-
+?zQWKROKRPKSRKSV|M?gK??????RV?zRO|??WS??zQW|K?
+follow-up varied from a mean of 3.2 years [ 43] to >8 years [31], with a total duration of
+follow-up of 17.7 years in some cases [28].
+3.3. Survival/Transplant-Free Survival for BVR
+In the context of BLV , the definition of successful BVR varies among authors. Some
+describe it as “survival alone” [3,4,7,8], while others use “transplant-free survival” [1,9,10].
+The reported rates of successful BVR ranged from 70% [3] to 82% [1] at 5 years. There are
+only a couple of studies [1,6] reporting data on survival at 10 years of follow-up, with a
+survival rate ranging from 77% [1] (transplant-free survival) to 88.5% (survival alone) [6].
+Studies evaluating Shone’s complex reported transplant-free survival rates ranging from
+86% [22] to 61.3% [24] at 10 years. In studies on AS [28,30,31,43,47], different time intervals
+have been evaluated to estimate survival rate and freedom from reintervention. Survival at
+10 years varied from 42% [47] to 86% [43], and at 15 years the survival rates varied from
+85% [28] to 64% [31]. Late deaths were rare, with survival rates being very similar at 1 year
+and 10 years [30,43].
+3.4. Freedom from Reintervention
+Reports on reintervention rates in borderline LV studies have been inconsistent or not
+reported at all [1]. Even when reported, obtaining a real estimate is difficult due to very
+limited [7,9,11] or varying [8] follow-up duration. Freedom from reintervention at 1 year
+varied from 50% [7] to 61% [9], while at 3 years, it ranged from 25% [11] to 50% [5]. Multiple
+interventions were frequently required [4–6,10], with a series [ 10] of 72 hypoplastic left
+heart complexes with a mean follow-up of 5.9 years (range 2.0 to 12.1 years) requiring an
+estimated 1.9 interventions per patient [10]. In the Cardiac Heart Surgery Society (CHSS)
+series, 19.2% required two reinterventions and 5.7% required three reinterventions [ 5].
+Studies pertaining to Shone’s complex evaluated freedom from reintervention on longer-
+term follow-up, with freedom from reintervention estimates varying from 72% [ 22] to
+61.3% [24] at 10 years. In all the studies, reinterventions on the mitral valve (repair or
+[[p8]]
+Healthcare 2024, 12, 348 8 of 13
+replacement) were the most common, along with subaortic membrane resection or more
+invasive interventions on the LVOT such as Konno or Ross operations [22–24].
+Finally, in aortic stenosis freedom from reintervention varied from 21% [47] to 65% [28]
+at 10 years and from 18% [28] to 64% [31] at 15 years. The limited available data make it
+difficult to compare surgical and percutaneous valvuloplasty. However, a recent review
+and meta-analysis [54] demonstrated no significant difference in survival between surgical
+and percutaneous valvuloplasty for congenital aortic stenosis, although the incidence of
+reintervention was higher in percutaneous valvuloplasty (p < 0.001).
+3.5. Z-Scores Increase at Follow-Up
+All the studies demonstrated a significant growth of left ventricular structures and their
+Z- scores after BVR. Left ventricle end-diastolic diameter Z-scores increased significantly [6,8,11,22]
+(p from <0.02 to <0.001), as well as L V mass (p from 0.11 to <0.005) [6,7] and L V/RV ratio
+(p < 0.01) [11]. Aortic annulus Z-scores (p from <0.05 to <0.001) [7,9,22] and MV Z-scores
+(p all <0.001) also increased [8,9,11,19,22,23].
+3.6. Clinical Outcome, Incidence of Pulmonary Hypertension, Need of Medications
+Limited data are available on New York Heart Association (NYHA) class and the need
+for medication during follow-up. However, in the available studies, most patients were in
+class NYHA I at the last follow-up examination [6,7,10]. In a small series of eight children
+with hypoplastic left ventricle and mitral stenosis with a mean follow up of 6.5 years
+(±4.5 years), most cases were in class NYHA I or II, with only three patients requiring
+medication. Another study [7] of over 39 hypoplastic left heart complexes, with a mean
+L???RS??G?PVV?HK???VSD?????
+NYHA I, while the remaining 26% were in class NYHA II, and only 19% of all patients
+required medications.
+A study on a series of 43 patients with Shone’s complex demonstrated that at
+10 years, 82.6% of survivors were in NYHA I, with mild or less mitral regurgitation
+present in 66.7%, normal LV function was observed in 79.2%, and 91.7% were free of
+any LVOTO [ 24]. Similarly, another series reporting on 27 Shone cases found that at
+15 years, all survivors were either NYHA class I or II, 30% had moderate LV dysfunction,
+and 70% were free of residual obstruction [23].
+The occurrence of pulmonary hypertension has been infrequently reported in the
+literature [1,6,7]. In the included studies, the incidence varies from 7.1% [1] (24 hypoplastic
+left heart with a mean follow-up of 8 years) to 44.1% [22] (122 Shone’s complex patients
+with a mean follow-up of 7.2 years), and even as high as 57.1% [ 6] (8 hypoplastic left
+ventricle+ mitral stenosis with a mean follow-up of 6.5 years).
+3.7. Risk Factors for Poor Outcome and Reintervention
+Several echocardiographic parameters have been evaluated to determine which ones
+are more predictive of poor outcomes following BVR. Studies have demonstrated that
+a lower aortic annulus Z-score [ 28,43,47], MV annulus Z-score [ 43,47], LV end-diastolic
+Z-scores [6,31,47], and LV dysfunction [28,47] were all predictors for successful BVR. Both
+the presence and the degree of endocardial fibroelastosis (EFE) were risk factors for poor
+outcome on univariate analysis [3,4,28,31]. Moderate or severe EFE was either the only fac-
+tor that remained significant on multivariate analysis [43] or the combination of moderate
+or severe EFE with either lower aortic valve Z-scores and younger age [3] or LVOT diame-
+ters < 4 mm [4]. EFE has been found to be a predictor of death, even in cases of adequate
+LV function [4]. Furthermore, EFE has been shown to be a predictor for reintervention [28]
+along with ventricular dysfunction [28], the presence of multilevel stenosis [31], a small
+aortic annulus Z-score [4,43], a lower aortic root, and LV end-diastolic diameters [43]. In
+a study of 72 hypoplastic left heart complexes [10], a moderate to large ventricular septal
+defect (odds ratio-OR- = 0.22, p = 0.001) was found to be the strongest predictor of BVR
+[[p9]]
+Healthcare 2024, 12, 348 9 of 13
+failure, followed by a unicommisural valve (OR = 16, p = 0.006) and mitral valve Z-score
+(OR = 2.2, p = 0.002).
+4. Discussion
+Our critical assessment of the literature outlined how comprehensive data on the
+long-term outcome of neonates and infants with BLV undergoing BVR are limited and frag-
+mented [2–5,9–14,17–25,28–53]. Although many studies have focused on medium/short-
+term results (e.g., 5 years survival) [1,3,4,6–11], limited knowledge exists on the long-term
+prognosis of these critical patients, not only regarding survival but also regarding the
+incidence of reintervention, complications, or quality of life. Additionally, the lack of
+standardization of disease definition posed a challenge to both the search and the com-
+parison of data, leading to significant heterogeneity in the inclusion criteria. The term
+“borderline left ventricle” is generally employed to describe a series of CHDs character-
+ized by one or multiple inflow and/or outflow left-sided stenosis and/or small left heart
+structures [1,3,4,6–11] including critical aortic stenosis [ 3,4], aortic coarctation (with or
+without aortic arch hypoplasia) [9], and Shone’s complex [22–24]. Different studies, how-
+ever, have been focused on specific conditions including aortic stenosis and/or LVOT
+obstruction [3], or aortic coarctation [7], as the main criteria of inclusion. Shone’s complex
+has been generally considered separately [ 22–24], despite belonging to the same spec-
+trum of disease. Furthermore, even the definition of Shone’s complex is not completely
+standardized yet. Shone’s complex was originally described as a parachute mitral valve,
+supra-annular mitral ring, subaortic stenosis, and coarctation of the aorta [ 22–24]. Most
+series, however, have defined the complex as any mitral valve disease of varying categories
+plus at least one additional level of left heart obstruction [ 22–24]. While there is a vast
+literature [54] on aortic stenosis in the pediatric age, even encompassing critical aortic
+stenosis, it remains a challenge to derive data specifically on children with borderline LV ,
+since they have often been excluded [5,28,30,32,49,52,53].
+Discrepancies in the inclusion criteria among different studies hamper the possibility
+to compare data and to perform a meta-analysis. Furthermore, it is difficult to compare
+data originating from different eras, with time periods from the late 1990s [ 3,4,10,11] to
+the present day [ 1] accompanied by their different outcomes due to the improvement
+of diagnostic interventional strategies. Even Z-scores employed for echocardiographic
+diagnosis and disease severity estimation employed by older works [ 56–58] presented
+significant limitations that have been overcome by more recent works [ 59–61]. Older
+Z-scores [58] tend to overestimate the disease severity [ 59]. Thus, authors who utilized
+older nomograms [3,7,10] probably included even milder forms of LV obstructive diseases
+in the definition of “borderline left ventricle”, which may have contributed to a more
+favorable outcome.
+Transplant-free survival rates are acceptable at 5 years, ranging from 70% [3] to 82% [1].
+Despite the limited data, transplant-free survival at 10 years also shows promising results,
+ranging from 61.3% [ 24] to 88.5% [ 6], with a survival reduction between 5 to 10 years
+follow-up of around 4–5% [1,19,22,23]. Recent studies [1,6,8,22] have shown slightly better
+outcomes than older series [10,11,31], suggesting that progress in surgical techniques may
+have contributed to improved outcomes. Similarly, it is also true that progress has been
+made regarding surgical techniques for univentricular correction, and consequently lifetime
+expectancy has increased [ 26]. A recent multicenter Australian registry [ 26] with over
+301 lateral tunnel Fontan procedures performed between 1980 and 2014 demonstrated
+????PT??QT???XOD?GXTD???zbh|Y?WU–XRDH
+and 80% (95% CI: 69–91%), respectively. Although biventricular Fontan procedures (such
+as those performed in borderline LV) have usually demonstrated more favorable results,
+no significant difference emerged in this study [ 26] among the outcomes of single- or
+biventricular total cavo-pulmonary connection.
+Neonates and infants with borderline LV who have undergone BVR continue to face a
+significant burden of reintervention. One or multiple reinterventions are often required [6–11],
+[[p10]]
+Healthcare 2024, 12, 348 10 of 13
+with up to 50% [7] or 60% [8,9] of patients requiring it within the first year of life. Early
+reintervention may indicate inappropriate decision making and is often associated with
+poor outcomes [5]. In fact, a short interval after the first reintervention, particularly within
+the first 30 days, has been identified [5] as a risk factor for mortality . As stated previously ,
+multiple reinterventions are often necessary [5,10] and the available data indicate that freedom
+from reintervention in long-term follow-up is limited to 20% of cases [47] and up to 18% at
+15 years [28].
+Several echocardiographic markers have been identified to predict BVR failure. These
+markers include lower aortic and mitral valve annulus [ 28,43,47], LV end-diastolic
+volume [6,31,47], LV dysfunction [28,47], and endocardial fibroelastosis [3,4,28,31,43]. En-
+docardial fibroelastosis has been found to be a strong predictor of death [ 4,43] and the
+need for reintervention [28]. Despite limited evidence, the available data suggest that most
+patients who underwent BVR for BVL are in good clinical status [6,7,10,23,24]. Furthermore,
+long-term medications are typically only required in a minority of cases.
+Incidence of pulmonary hypertension, which is a worrisome complication even in
+successful BVR without significant residual stenosis [34], was rarely described [1,6,7], vary-
+ing from 44.1% [22] up to 57.1% [6] at medium-term follow-up. Despite the normalization
+of Z-scores of left sections that has been described by multiple authors [ 6–9,11,22], even
+in the lack of significant residual stenosis a moderate LV systolic [ 23,24] and diastolic
+dysfunction may persist and contribute to the maintenance or development of pulmonary
+hypertension. Unfortunately, however, little to no investigation has been conducted on LV
+diastolic function.
+Strength and Limitations
+This paper has several strengths. This is one of the first studies that has tried to
+evaluate together pathologies that have usually been considered separately (hypoplastic
+left heart complexes, Shone’s anomalies, critical aortic stenosis) despite belonging to the
+same spectrum of the disease (e.g., one or multiple LVOT obstruction and BLV). This is also
+one of the few papers that has tried to address the long-term outcome of BLV , including
+some aspects that have been poorly evaluated so far (e.g., the clinical status, the presence
+of pulmonary hypertension).
+This paper also has some limitations, including the lack of homogenous definitions of
+the same disease and the fact that the choice of different end points hampered the possibility
+to perform a metanalysis of the current data. Even comparisons among such different
+data (and coming from different eras) resulted in difficulties. Large, multicenter studies
+with clear and uniform disease definitions and well-defined outcomes are advised for a
+better understanding of the long-term outcomes of complex CHDs characterized by one or
+multiple LVOT obstruction and BLV .
+5. Conclusions
+Data on medium- and long-term outcomes of neonates and infants with multiple
+LVOT obstruction and borderline LV undergoing BVR are limited and fragmented. While
+survival rates have improved, patients who underwent BVR remain burdened by high
+reintervention rates. It is necessary to conduct large studies with standardized criteria
+for inclusion and exclusion, outcomes, and evaluation of clinical and echocardiographic
+variables, as well as with longer and more uniform follow-up intervals, to gain a better
+understanding of the long-term outcomes in this specific patient population. Our critical
+appraisal of the available literature may help guide clinicians in both parental counseling
+and clinical decision making, while also laying the foundation for future standardized
+studies regarding BVR for neonates and infants with BLV and multiple LVOT obstructions.
+Author Contributions: Conceptualization, M.C. and R.G.; data curation, M.C., P .M., C.V ., A.P . and
+R.G.; formal analysis, M.C.; investigation, G.S., E.F., P .M. and N.A. methodology, M.C., R.G., N.A.
+and V .J.; supervision, S.K. and V .J.; validation, M.C., S.K. and R.G.; writing—original draft, M.C., P .M.
+and R.G. All authors have read and agreed to the published version of the manuscript.
+[[p11]]
+Healthcare 2024, 12, 348 11 of 13
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+PM?jK?rMkMZ?bK?qMqMZ?vK?`MZ?bK?jMZ?gK?bMZ?gK?`MZ?aK?cMiMZ?rK?lMZ?kK?jMiM?a?q?
+Borderline Left Hearts: Insights from Cardiac Magnetic Resonance Imaging. JACC Adv. 2022, 1, 100066. [CrossRef]
+2. Colan, S.D.; McElhinney, D.B.; Crawford, E.C.; Keane, J.F.; Lock, J.E. Validation and re-evaluation of a discriminant model
+predicting anatomic suitability for biventricular repair in neonates with aortic stenosis. J. Am. Coll. Cardiol. 2006, 47, 1858–1865.
+[CrossRef]
+3. Lofland, G.K.; McCrindle, B.W.; Williams, W.G.; Blackstone, E.H.; Tchervenkov, C.I.; Sittiwangkul, R.; Jonas, R.A. Critical aortic
+stenosis in the neonate: A multi-institutional study of management, outcomes, and risk factors. J. Thorac. Cardiovasc. Surg. 2001,
+21, 10–27. [CrossRef]
+4. Hickey, E.J.; Caldarone, C.A.; Blackstone, E.H.; Lofland, G.K.; Yeh, T., Jr.; Pizarro, C.; Tchervenkov, C.I.; Pigula, F.; Overman,
+D.M.; Jacobs, M.L.; et al. Critical left ventricular outflow tract obstruction: The disproportionate impact of biventricular repair in
+borderline cases. J. Thorac. Cardiovasc. Surg. 2007, 134, 1429–1436. [CrossRef] [PubMed]
+5. Hickey, E.J.; Caldarone, C.A.; Blackstone, E.H.; Williams, W.G.; Yeh, T., Jr.; Pizarro, C.; Lofland, G.; Tchervenkov, C.I.; Pigula, F.;
+McCrindle, B.W. Biventricular strategies for neonatal critical aortic stenosis: High mortality associated with early reintervention.
+J. Thorac. Cardiovasc. Surg. 2012, 144, 409–417. [CrossRef] [PubMed]
+6. Shimada, M.; Hoashi, T.; Nakata, T.; Ozawa, H.; Kurosaki, K.; Kitano, M.; Ichikawa, H. Surgical Outcomes of Biventricular Repair
+for Hypoplastic Left Ventricle with Congenital Mitral Valve Stenosis. World J. Pediatr. Congenit. Heart Surg. 2019, 10, 11–17.
+[CrossRef]
+7. Cavigelli-Brunner, A.; Bauersfeld, U.; Prêtre, R.; Kretschmar, O.; Oxenius, A.; Valsangiacomo Buechel, E.R. Outcome of biventricu-
+lar repair in infants with multiple left heart obstructive lesions. Pediatr. Cardiol. 2012, 33, 506–512. [CrossRef] [PubMed]
+8. Freund, J.E.; den Dekker, M.H.; Blank, A.C.; Haas, F.; Freund, M.W. Midterm Follow-Up After Biventricular Repair of the
+Hypoplastic Left Heart Complex. Ann. Thorac. Surg. 2015, 99, 2150–2156. [CrossRef]
+9. Plymale, J.M.; Frommelt, P .C.; Nugent, M.; Simpson, P .; Tweddell, J.S.; Shillingford, A.J. The Infant with Aortic Arch Hypoplasia
+and Small Left Heart Structures: Echocardiographic Indices of Mitral and Aortic Hypoplasia Predicting Successful Biventricular
+Repair. Pediatr. Cardiol. 2017, 38, 1296–1304. [CrossRef]
+10. Schwartz, M.L.; Gauvreau, K.; Geva, T. Predictors of outcome of biventricular repair in infants with multiple left heart obstructive
+lesions. Circulation 2001, 104, 682–687. [CrossRef]
+11. Tchervenkov, C.I.; Tahta, S.A.; Jutras, L.C.; Béland, M.J. Biventricular repair in neonates with hypoplastic left heart complex. Ann.
+Thorac. Surg. 1998, 66, 1350–1357. [CrossRef]
+12. Tchervenkov, C.I. Indications, criterions, and principles for biventricular repair. Cardiol. Young 2004, 14 (Suppl. S1), 97–100.
+[CrossRef]
+13. Steele, J.M.; Komarlu, R.; Worley, S.; Alsaied, T.; Statile, C.; Erenberg, F.G. Short-term results in infants with multiple left heart
+obstructive lesions. Congenit. Heart Dis. 2019, 14, 1193–1198. [CrossRef]
+14. Cantinotti, M.; Marchese, P .; Giordano, R.; Franchi, E.; Assanta, N.; Koestenberger, M.; Jani, V .; Duignan, S.; Kutty, S.; McMahon,
+C.J. Echocardiographic scores for biventricular repair risk prediction of congenital heart disease with borderline left ventricle: A
+review. Heart Fail. Rev. 2023, 28, 63–76. [CrossRef]
+15. Grosse-Wortmann, L.; Yun, T.J.; Al-Radi, O.; Kim, S.; Nii, M.; Lee, K.J.; Redington, A.; Yoo, S.J.; van Arsdell, G. Borderline
+hypoplasia of the left ventricle in neonates: Insights for decision-making from functional assessment with magnetic resonance
+imaging. J. Thorac. Cardiovasc. Surg. 2008, 136, 1429–1436. [CrossRef]
+16. Delius, R.E.; Rademecker, M.A.; de Leval, M.R.; Elliott, M.J.; Stark, J. Is a high-risk biventricular repair always preferable to
+conversion to a single ventricle repair? J. Thorac. Cardiovasc. Surg. 1996, 112, 1561–1568. [CrossRef] [PubMed]
+17. Shone, J.D.; Sellers, R.D.; Anderson, R.C.; Adams, P ., Jr.; Lillehei, C.W.; Edwards, J.E. The developmental complex of “parachute
+mitral valve”, supravalvar ring of left atrium, subaortic stenosis, and coarctation of aorta. Am. J. Cardiol. 1963, 6, 714–725.
+[CrossRef]
+18. Aslam, S.; Khairy, P .; Shohoudi, A.; Mercier, L.A.; Dore, A.; Marcotte, F.; Miró, J.; Avila-Alonso, P .; Ibrahim, R.; Asgar, A.; et al.
+Shone Complex: An Under-recognized Congenital Heart Disease with Substantial Morbidity in Adulthood. Can. J. Cardiol. 2017,
+33, 253–259. [CrossRef] [PubMed]
+19. Delmo Walter, E.M.; Van Praagh, R.; Miera, O.; Hetzer, R. Repair of left ventricular inflow tract lesions in Shone’s anomaly: Valve
+growth and long-term outcome. Ann. Thorac. Surg. 2013, 95, 948–955. [CrossRef] [PubMed]
+20. Brown, J.W.; Ruzmetov, M.; Vijay, P .; Hoyer, M.H.; Girod, D.; Rodefeld, M.D.; Turrentine, M.W. Operative results and outcomes in
+children with Shone’s anomaly. Ann. Thorac. Surg. 2005, 79, 1358–1365. [CrossRef]
+[[p12]]
+Healthcare 2024, 12, 348 12 of 13
+21. Brauner, R.A.; Laks, H.; Drinkwater, D.C., Jr.; Scholl, F.; McCaffery, S. Multiple left heart obstructions (Shone’s anomaly) with
+mitral valve involvement: Long-term surgical outcome. Ann. Thorac. Surg. 1997, 64, 721–729. [CrossRef]
+22. Nicholson, G.T.; Kelleman, M.S.; De la Uz, C.M.; Pignatelli, R.H.; Ayres, N.A.; Petit, C.J. Late outcomes in children with Shone’s
+complex: A single-centre, 20-year experience. Cardiol. Young 2017, 27, 697–705. [CrossRef]
+23. Delmo Walter, E.M.; Komoda, T.; Siniawski, H.; Miera, O.; Van Praagh, R.; Hetzer, R. Long-term surgical outcome of mitral valve
+repair in infants and children with Shone’s anomaly. Eur. J. Cardiothorac. Surg. 2013, 43, 473–481. [CrossRef]
+24. Malhotra, S.P .; Lacour-Gayet, F.; Campbell, D.N.; Miyamoto, S.; Clarke, D.R.; Dines, M.L.; Ivy, D.D.; Mitchell, M.B. Outcomes
+of reparative and transplantation strategies for multilevel left heart obstructions with mitral stenosis. Ann. Thorac. Surg. 2008,
+86, 1305–1309. [CrossRef]
+25. Marathe, S.P .; Zannino, D.; Shi, W.Y.; du Plessis, K.; Kehr, J.; Perumal, G.; Sun, J.; Gentles, T.L.; Ayer, J.; Sholler, G.F.; et al. Two
+Ventricles Are Not Better Than One in the Fontan Circulation: Equivalent Late Outcomes. Ann. Thorac. Surg. 2019, 107, 852–859.
+[CrossRef] [PubMed]
+26. Wilson, T.G.; Shi, W.Y.; Iyengar, A.J.; Winlaw, D.S.; Cordina, R.L.; Wheaton, G.R.; Bullock, A.; Gentles, T.L.; Weintraub, R.G.;
+Justo, R.N.; et al. Twenty-Five Year Outcomes of the Lateral Tunnel Fontan Procedure. Semin. Thorac. Cardiovasc. Surg. 2017,
+29, 347–353. [CrossRef] [PubMed]
+27. Emani, S.M.; McElhinney, D.B.; Tworetzky, W.; Myers, P .O.; Schroeder, B.; Zurakowski, D.; Pigula, F.A.; Marx, G.R.; Lock, J.E.; del
+Nido, P .J. Staged left ventricular recruitment after single-ventricle palliation in patients with borderline left heart hypoplasia.J.
+Am. Coll. Cardiol. 2012, 60, 1966–1974. [CrossRef] [PubMed]
+28. Galoin-Bertail, C.; Capderou, A.; Belli, E.; Houyel, L. The mid-term outcome of primary open valvotomy for critical aortic stenosis
+in early infancy—A retrospective single center study over 18 years. J. Cardiothorac. Surg. 2016, 11, 116. [CrossRef]
+29. Schlein, J.; Ebner, B.E.; Geiger, R.; Simon, P .; Wollenek, G.; Moritz, A.; Gamillscheg, A.; Base, E.; Laufer, G.; Zimpfer, D. Long-term
+outcomes after the paediatric Ross and Ross-Konno procedures. Interact. Cardiovasc. Thorac. Surg. 2021, 33, 455–461. [CrossRef]
+[PubMed]
+30. Hawkins, J.A.; Minich, L.L.; Tani, L.Y.; Day, R.W.; Judd, V .E.; Shaddy, R.E.; McGough, E.C. Late results and reintervention after
+aortic valvotomy for critical aortic stenosis in neonates and infants. Ann. Thorac. Surg. 1998, 65, 1758–1762. [CrossRef] [PubMed]
+31. Brown, J.W.; Ruzmetov, M.; Vijay, P .; Rodefeld, M.D.; Turrentine, M.W. Closed transventricular aortic valvotomy for critical aortic
+stenosis in neonates: Outcomes, risk factors, and reoperations. Ann. Thorac. Surg. 2006, 81, 236–242. [CrossRef]
+32. McElhinney, D.B.; Lock, J.E.; Keane, J.F.; Moran, A.M.; Colan, S.D. Left heart growth, function, and reintervention after balloon
+aortic valvuloplasty for neonatal aortic stenosis. Circulation. 2005, 111, 451–458. [CrossRef]
+33. Ren, Q.; Yu, J.; Chen, T.; Qiu, H.; Ji, E.; Liu, T.; Xu, X.; Cen, J.; Wen, S.; Zhuang, J.; et al. Long-term outcomes of primary aortic
+valve repair in children with congenital aortic stenosis—15-year experience at a single center. Front. Cardiovasc. Med. 2022,
+9, 1029245. [CrossRef]
+34. Munesh, T. Persistence of pulmonary arterial hypertension after relief of left sided obstructive lesions in small infants: Our
+experience. Images Paediatr. Cardiol. 2017, 19, 1–7. [PubMed]
+35. Alexiou, C.; Langley, S.M.; Dalrymple-Hay, M.J.; Salmon, A.P .; Keeton, B.R.; Haw, M.P .; Monro, J.L. Open commissurotomy for
+critical isolated aortic stenosis in neonates. Ann. Thorac. Surg. 2001, 7, 489–493. [CrossRef] [PubMed]
+36. Han, R.K.; Gurofsky, R.C.; Lee, K.J.; Dipchand, A.I.; Williams, W.G.; Smallhorn, J.F.; McCrindle, B.W. Outcome and growth
+potential of left heart structures after neonatal intervention for aortic valve stenosis. J. Am. Coll. Cardiol. 2007, 50, 2406–2414.
+[CrossRef] [PubMed]
+37. Hill, G.D.; Ginde, S.; Rios, R.; Frommelt, P .C.; Hill, K.D. Surgical Valvotomy Versus Balloon Valvuloplasty for Congenital Aortic
+Valve Stenosis: A Systematic Review and Meta-Analysis. J. Am. Heart Assoc. 2016, 5, e003931. [CrossRef] [PubMed]
+38. Bhabra, M.S.; Dhillon, R.; Bhudia, S.; Sethia, B.; Miller, P .; Stumper, O.; Wright, J.G.; De Giovanni, J.V .; Barron, D.J.;
+Brawn, W.J. Surgical aortic valvotomy in infancy: Impact of leaflet morphology on long-term outcomes. Ann. Thorac. Surg. 2003,
+76, 1412–1416. [CrossRef] [PubMed]
+39. Crespo, D.; Miro, J.; Vobecky, S.J.; Poirier, N.; Lapierre, C.; Zhao, N.N.; Dahdah, N. Experience in a single centre with percutaneous
+aortic valvoplasty in children, including those with associated cardiovascular lesions. Cardiol. Young 2009, 19, 372–382. [CrossRef]
+[PubMed]
+40. Elshershari, H.; Alehan, D.; Demircin, M.; Pasaoglu, I.; Bilgic, A. Surgical outcome of congenital valvar aortic stenosis. Turk. J.
+Pediatr. 2002, 44, 304–311. [PubMed]
+41. Ewert, P .; Bertram, H.; Breuer, J.; Dahnert, I.; Dittrich, S.; Eicken, A.; Emmel, M.; Fischer, G.; Gitter, R.; Gorenflo, M.; et al. Balloon
+valvuloplasty in the treatment of congenital aortic valve stenosis—A retrospective multicenter survey of more than 1000 patients.
+Int. J. Cardiol. 2011, 149, 182–185. [CrossRef]
+42. Hamidi-Manesh, L.; Tibby, S.M.; Herman, R.; Rosenthal, E.; Qureshi, S.A.; Krasemann, T. Influence of balloon size on aortic
+regurgitation in neonates undergoing balloon aortic valvuloplasty—A retrospective study over an 11-year period.J. Interv. Cardiol.
+2013, 26, 200–207. [CrossRef]
+43. Vida, V .L.; Bottio, T.; Milanesi, O.; Reffo, E.; Biffanti, R.; Bonato, R.; Stellin, G. Critical aortic stenosis in early infancy: Surgical
+treatment for residual lesions after balloon dilation. Ann. Thorac. Surg. 2005, 79, 47–51. [CrossRef]
+44. Hochstrasser, L.; Ruchat, P .; Sekarski, N.; Hurni, M.; von Segesser, L.K. Long-term outcome of congenital aortic valve stenosis:
+Predictors of reintervention. Cardiol. Young 2015, 25, 893–902. [CrossRef]
+[[p13]]
+Healthcare 2024, 12, 348 13 of 13
+45. Jindal, R.C.; Saxena, A.; Kothari, S.S.; Juneja, R.; Shrivastava, S. Congenital severe aortic stenosis with congestive heart failure in
+late childhood and adolescence: Effect on left ventricular function after balloon valvuloplasty. Catheter. Cardiovasc. Interv. 2000,
+51, 168–172. [CrossRef]
+46. Kim, D.W.; Raviele, A.A.; Vincent, R.N. Use of a 3 French system for balloon aortic valvuloplasty in infants.Catheter. Cardiovasc. Interv.
+2005, 66, 254–257. [CrossRef] [PubMed]
+47. Latiff, H.A.; Sholler, G.F.; Cooper, S. Balloon dilatation of aortic stenosis in infants younger than 6 months of age: Intermediate
+outcome. Pediatr. Cardiol. 2003, 24, 17–26. [CrossRef] [PubMed]
+48. Loomba, R.S.; Bowman, J.L.; Cao, Y.; Tweddell, J.; Dearani, J.A.; Simpson, P .M.; Cetta, F.; Pelech, A.N. Is aortic valve leaflet
+morphology predictive of outcome in pediatric aortic valve stenosis? Congenit. Heart Dis. 2015, 10, 552–560. [CrossRef] [PubMed]
+49. Miyamoto, T.; Sinzobahamvya, N.; Wetter, J.; Kallenberg, R.; Brecher, A.M.; Asfour, B.; Urban, A.E. Twenty years experience
+of surgical aortic valvotomy for critical aortic stenosis in early infancy. Eur. J. Cardiothorac. Surg. 2006, 30, 35–40. [CrossRef]
+[PubMed]
+50. Prijic, S.M.; Vukomanovic, V .A.; Stajevic, M.S.; Bjelakovic, B.B.; Zdravkovic, M.D.; Sehic, I.N.; Kosutic, J.L. Balloon dilation and
+surgical valvotomy comparison in non-critical congenital aortic valve stenosis. Pediatr. Cardiol. 2015, 36, 616–624. [CrossRef]
+[PubMed]
+51. Robinson, B.V .; Brzezinska-Rajszys, G.; Weber, H.S.; Ksiazyk, J.; Fricker, F.J.; Fischer, D.R.; Ettedgui, J.A. Balloon aortic valvotomy
+through a carotid cutdown in infants with severe aortic stenosis: Results of the multi-centric registry. Cardiol. Young 2000,
+10, 225–232. [CrossRef]
+52. Rossi, R.I.; Manica, J.L.; Petraco, R.; Scott, M.; Piazza, L.; Machado, P .M. Balloon aortic valvuloplasty for congenital aortic stenosis
+using the femoral and the carotid artery approach: A 16-year experience from a single center. Catheter. Cardiovasc. Interv. 2011,
+78, 84–90. [CrossRef] [PubMed]
+53. Siddiqui, J.; Brizard, C.P .; Galati, J.C.; Iyengar, A.J.; Hutchinson, D.; Konstantinov, I.E.; Wheaton, G.R.; Ramsay, J.M.; d’Udekem,
+Y. Surgical valvotomy and repair for neonatal and infant congenital aortic stenosis achieves better results than interventional
+catheterization. J. Am. Coll. Cardiol. 2013, 62, 2134–2140. [CrossRef] [PubMed]
+54. Brown, J.W.; Rodefeld, M.D.; Ruzmetov, M.; Eltayeb, O.; Yurdakok, O.; Turrentine, M.W. Surgical valvuloplasty versus balloon
+aortic dilation for congenital aortic stenosis: Are evidence-based outcomes relevant? Ann. Thorac. Surg. 2012, 94, 146–153.
+[CrossRef] [PubMed]
+55. Mart, C.R.; Eckhauser, A.W. Development of an echocardiographic scoring system to predict biventricular repair in neonatal
+hypoplastic left heart complex. Pediatr. Cardiol. 2014, 35, 1456–1466. [CrossRef] [PubMed]
+56. Pettersen, M.D.; Du, W.; Skeens, M.E.; Humes, R.A. Regression equations for calculation of z scores of cardiac structures in a large
+cohort of healthy infants, children, and adolescents: An echocardiographic study. J. Am. Soc. Echocardiogr. 2008, 21, 922–934.
+[CrossRef]
+57. Sluysmans, T.; Colan, S.D. Theoretical and empirical derivation of cardiovascular allometric relationships in children.J. Appl. Physiol.
+2005, 99, 445–457. [CrossRef]
+58. Daubeney, P .E.; Blackstone, E.H.; Weintraub, R.G.; Slavik, Z.; Scanlon, J.; Webber, S.A. Relationship of the dimension of cardiac
+structures to body size: An echocardiographic study in normal infants and children. Cardiol. Young 1999, 9, 402–410. [CrossRef]
+59. Cantinotti, M.; Kutty, S.; Franchi, E.; Paterni, M.; Scalese, M.; Iervasi, G.; Koestenberger, M. Pediatric echocardiographic
+nomograms: What has been done and what still needs to be done. Trends Cardiovasc. Med. 2017, 27, 336–349. [CrossRef]
+60. Cantinotti, M.; Giordano, R.; Scalese, M.; Murzi, B.; Assanta, N.; Spadoni, I.; Maura, C.; Marco, M.; Molinaro, S.; Kutty, S.; et al.
+Nomograms for two-dimensional echocardiography derived valvular and arterial dimensions in Caucasian children. J. Cardiol.
+2017, 69, 208–215. [CrossRef]
+61. Lopez, L.; Colan, S.; Stylianou, M.; Granger, S.; Trachtenberg, F.; Frommelt, P .; Pearson, G.; Camarda, J.; Cnota, J.; Cohen, M.; et al.
+Relationship of Echocardiographic Z Scores Adjusted for Body Surface Area to Age, Sex, Race, and Ethnicity: The Pediatric Heart
+Network Normal Echocardiogram Database. Circ. Cardiovasc. Imaging 2017, 10, e006979. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

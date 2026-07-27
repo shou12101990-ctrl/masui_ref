@@ -1,0 +1,540 @@
+
+[[p1]]
+Citation: Neijenhuis, R.M.L.; Regeer,
+M.V .; van der Kley, F.; Vliegen, H.W.;
+Jongbloed, M.R.M.; Kiès, P .; Schalij,
+M.J.; Jukema, J.W.; Egorova, A.D.
+Contemporary Management
+Strategies of Bafﬂe Leaks in Adults
+with a Failing Systemic Right
+Ventricle Late after Atrial Switch: A
+Case Series and Literature Overview.
+J. Cardiovasc. Dev. Dis. 2023, 10, 129.
+https://doi.org/10.3390/
+jcdd10030129
+Academic Editor: Isao Shiraishi
+Received: 23 February 2023
+Revised: 12 March 2023
+Accepted: 15 March 2023
+Published: 17 March 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Journal of
+Cardiovascular 
+Development and Disease
+Case Report
+Contemporary Management Strategies of Bafﬂe Leaks in Adults
+with a Failing Systemic Right Ventricle Late after Atrial Switch:
+A Case Series and Literature Overview
+Ralph M. L. Neijenhuis 1,2
+ , Madelien V . Regeer1,2 , Frank van der Kley 1,2 , Hubert W. Vliegen 1,2 ,
+Monique R. M. Jongbloed 1,2,3
+ , Philippine Kiès 1,2 , Martin J. Schalij 1,2 , J. Wouter Jukema 2,4
+and Anastasia D. Egorova 1,2, *
+1 CAHAL, Center for Congenital Heart Disease Amsterdam Leiden, Leiden University Medical Center,
+2333 ZA Leiden, The Netherlands; r.m.l.neijenhuis@lumc.nl (R.M.L.N.)
+2 Department of Cardiology, Leiden University Medical Center, 2333 ZA Leiden, The Netherlands
+3 Department of Anatomy & Embryology, Leiden University Medical Center, 2333 ZA Leiden, The Netherlands
+4 Netherlands Heart Institute, 3511 EP Utrecht, The Netherlands
+* Correspondence: a.egorova@lumc.nl
+Abstract: Bafﬂe leaks are a frequently encountered and often overlooked complication after the atrial
+switch procedure for transposition of the great arteries. Bafﬂe leaks are present in up to 50% of
+non-selected patients, and while they initially may not cause clear symptoms, they can complicate
+the hemodynamic course and inﬂuence the prognosis in this complex patient group. A shunt from
+the pulmonary venous atrium (PVA) to the systemic venous atrium (SVA) can lead to pulmonary
+overﬂow and subpulmonary left ventricular (LV) volume overload, while a shunt from the SVA to
+the PVA can result in (exercise-associated) cyanosis and paradoxical embolism. We report three cases
+of bafﬂe leaks in patients with systemic right ventricular (sRV) failure late after the atrial switch
+procedure. Two symptomatic patients who presented with exercise-associated cyanosis due to SVA to
+PVA shunting over the bafﬂe leak underwent successful percutaneous bafﬂe leak closure with a septal
+occluder device. One patient with overt sRV failure and signs of subpulmonary LV volume overload
+due to PVA to SVA shunting was managed conservatively, as bafﬂe leak closure was expected to lead
+to an increase in sRV end-diastolic pressure and aggravation of sRV dysfunction. These three cases
+illustrate the considerations made, challenges faced, and necessity of a patient-tailored approach
+when addressing bafﬂe leaks.
+Keywords: adult congenital heart disease; transposition of the great arteries; atrial switch procedure;
+mustard; senning; bafﬂe leaks; bafﬂe complications; (percutaneous) (trans)catheter intervention
+PM?h
+Transposition of the great arteries (TGA) is the second most common cyanotic con-
+genital heart defect after Tetralogy of Fallot and affects 2 to 3 out of every 10,000 live
+births [1]. TGA is characterized by atrioventricular concordance and ventriculo-arterial
+discordance; the aorta is positioned above the right ventricle (RV) and the pulmonary artery
+above the left ventricle (LV). In the modern era, TGA is typically managed with the arterial
+switch procedure to correct the ventriculo-arterial discordance. However, until around
+the 1980s, patients with TGA underwent the atrial switch procedure according to Mustard
+or Senning [2,3]. This procedure involves rerouting the systemic and pulmonary venous
+returns via intra-atrial bafﬂes, resulting in a systemic right ventricle (sRV) that supplies the
+systemic circulation and a subpulmonary LV that supplies the pulmonary circulation.
+The morphological and functional characteristics of the sRV , which are not equipped
+to chronically sustain the pressure of the systemic circulation, lead to a range of long-term
+complications. Over 50% of patients with TGA who underwent the atrial switch procedure
+J. Cardiovasc. Dev. Dis. 2023, 10, 129. https://doi.org/10.3390/jcdd10030129 https://www.mdpi.com/journal/jcdd
+[[p2]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 2 of 9
+develop symptomatic heart failure by the age of 45 years, and their 40-year survival rate
+varies from 82 to 90% [ 4,5]. While heart failure and arrhythmias are well-known late
+sequelae after the atrial switch operation, bafﬂe-associated complications, such as bafﬂe
+leaks and stenosis, are frequently overlooked. Bafﬂe leaks are reported in up to 50% of
+non-selected and asymptomatic patients late after the atrial switch procedure [6]. Although
+these leaks may not directly cause symptoms, they can complicate the hemodynamic course
+of this complex patient group. Consequently, bafﬂe leaks are important to be aware of,
+in particular in the setting of reduced systolic sRV function. A left-to-right shunt (from
+the pulmonary venous atrium (PVA) to the systemic venous atrium (SVA)) can lead to
+subpulmonary (left) ventricular volume overload and pulmonary overﬂow, while a right-
+to-left shunt (from the SVA to the PVA) can result in cyanosis and paradoxical embolism.
+The diagnosis of bafﬂe leaks can be challenging due to the low sensitivity of transtho-
+racic echocardiography, and might necessitate contrast echocardiography, cardiac magnetic
+resonance imaging (MRI), computed tomography (CT), and/or exercise testing [7,8]. The
+2020 adult congenital heart disease (ACHD) guidelines of the European Society of Cardiol-
+ogy (ESC) recommend the closure of bafﬂe leaks in symptomatic patients and in patients
+with a suspicion of paradoxical emboli (class I recommendation). Closure should be con-
+sidered in asymptomatic patients with substantial ventricular volume overload (class IIa
+recommendation) [7]. Nonetheless, the beneﬁts of intervention remain unclear as there is a
+discrepancy between a high prevalence of bafﬂe leaks and a low prevalence of associated
+symptoms and related clinical deterioration [9].
+This case series presents three cases of adult TGA patients with reduced systolic sRV
+function and bafﬂe leaks late after the atrial switch procedure, illustrating the patient-
+tailored approach to the management of bafﬂe leaks in the modern era.
+2. Case Descriptions
+2.1. Patient A
+A 53-year-old woman born with TGA who underwent atrial correction according to
+Mustard at the age of 3 years was reviewed in the outpatient clinic due to sRV failure.
+She had a rate adaptive atrial (AAI-R) pacemaker implanted at the age of 29 due to sick
+sinus syndrome, which was upgraded to a primary prevention dual chamber implantable
+cardioverter-deﬁbrillator (DDD-ICD) at the age of 45. She had a history of an ambulant, un-
+complicated COVID-19 infection two years ago and has since been checking her peripheral
+oxygen saturations (SpO2) at home. The patient now reports that SpO2 drops to 87% at
+ambient air during daily activities.
+She was in New York Heart Association (NYHA) functional class III despite phar-
+macological treatment with a beta-blocker, an angiotensin receptor-neprilysin inhibitor
+(ARNI), and a sodium-glucose cotransporter 2 inhibitor (SGLT2i). Bicycle exercise er-
+gometry revealed an exercise capacity of 100 watts (95% of what was predicted) with a
+VO2 max of 19.5 mL/min/kg (66% of what was predicted) with progressive decline in
+SpO2 to 77% at maximal effort. Her SpO2 in ambient air was 97% at rest, and she was
+euvolemic. Transthoracic echocardiography (TTE) showed a poor systolic function of the
+dilated sRV and trivial tricuspid regurgitation. The function of the subpulmonary LV was
+normal (Figure 1A,B). Subsequent agitated saline contrast echocardiography showed a
+signiﬁcant interatrial shunt from the SVA to the PVA (right-to-left) during Valsalva, and
+additional color Doppler examination conﬁrmed the presence of a leak in the interatrial
+bafﬂe (Figure 1C). Invasive hemodynamic evaluation showed mildly elevated pulmonary
+artery pressures (PAP) (26/18 mmHg, mean PAP 21 mmHg) and elevated sRV end-diastolic
+pressures (114/8-19 mmHg). The subpulmonary LV pressures were 40/1-9 mmHg, and
+no signiﬁcant LV outﬂow tract gradient or bafﬂe obstruction was present. A PVA to SVA
+shunt was present at rest (Qp:Qs 1:2.3), and an SVA to PVA shunt physiology with sig-
+niﬁcant desaturation occurred during exercise as mimicked by the Valsalva maneuver in
+the catheterization laboratory. The patient was discussed with the heart team. Given the
+severity of symptomatic exercise-induced hypoxemia and the lack of PVA to SVA shunting
+[[p3]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 3 of 9
+during exercise—preventing dynamic ‘pressure relief’ for the sRV despite elevated sRV
+end-diastolic pressures at rest—it was decided to close the bafﬂe leak percutaneously.
+J. Cardiovasc. Dev. Dis. 2023, 10, 129  3  of  9 
+ 
+ 
+pressures  (PAP)  (26/18  mmHg,  mean  PAP  21  mmHg)  and  elevated  sRV  end‐diastolic 
+pressures (114/8‐19 mmHg). The subpulmonary LV pressures were 40/1‐9 mmHg, and no 
+significant  LV  outflow  tract  gradient  or  baffle  obstruction  was  present.  A  PVA  to  SVA 
+shunt was present at rest (Qp:Qs 1:2.3), and an SVA to PVA shunt physiology with signif‐
+icant desaturation occurred during exercise as mimicked by the Valsalva maneuver in the 
+catheterization laboratory. The patient was discussed with the heart team. Given the se‐
+verity of symptomatic exercise‐induced hypoxemia and the lack of PVA to SVA shunting 
+during exercise—preventing  dynamic ‘pressure relief’ for the sRV despite elevated sRV 
+end‐diastolic pressures at rest—it  was decided to close the baffle leak percutaneously.   
+  
+e PM a       `M G`KaH `     
+views, respectively show the atrial baffle (arrow) that directs blood from the systemic venous atrium 
+(SVA) to the subpulmonary left ventricle (LV) and from the pulmonary venous atrium (PVA) to the 
+dilated systemic right ventricle (sRV). (C) Agitated saline contrast echocardiography confirms sig‐
+nificant interatrial shunting from the SVA to the PVA during Valsalva, with bubbles filling the sRV 
+cavity within 3 heart beats. (D–F) Anterior‐posterior (D,E) and right inferior oblique (F) fluoroscopy 
+projections during intracardiac echocardiography (ICE, probe indicated with an asterisk (*) in (D)) 
+guided closure of the baffle leak with a 10 mm Amplatzer Septal Occluder (arrow in F). Note the 
+two atrial pacing wires and an implantable cardioverter‐defibrillator (ICD) lead in the LV. (G–I) ICE 
+imaging  during  closure  of  the  baffle  leak.  Note  the  shunting  from  the  SVA  to  the  PVA  during 
+Valsalva through the baffle defect (G), the discs of the Amplatzer Septal Occluder in situ (H, arrow) 
+and the alleviation of the interatrial shunt (I). 
+The patient underwent a successful baffle leak closure with a 10 mm Amplatzer Sep‐
+tal Occluder (Abbott, Chicago, IL, USA). The procedure was performed using left femoral 
+access under local anesthesia with fluoroscopic and intracardiac echocardiography (ICE) 
+e?PM?aﬂ???????`M?G`KaH?`????
+views, respectively show the atrial bafﬂe (arrow) that directs blood from the systemic venous atrium
+(SVA) to the subpulmonary left ventricle (LV) and from the pulmonary venous atrium (PVA) to
+the dilated systemic right ventricle (sRV). (C) Agitated saline contrast echocardiography conﬁrms
+signiﬁcant interatrial shunting from the SVA to the PVA during Valsalva, with bubbles ﬁlling the sRV
+cavity within 3 heart beats. (D–F) Anterior-posterior (D,E) and right inferior oblique (F) ﬂuoroscopy
+projections during intracardiac echocardiography (ICE, probe indicated with an asterisk (*) in (D))
+guided closure of the bafﬂe leak with a 10 mm Amplatzer Septal Occluder (arrow in F). Note the
+two atrial pacing wires and an implantable cardioverter-deﬁbrillator (ICD) lead in the LV . (G–I) ICE
+imaging during closure of the bafﬂe leak. Note the shunting from the SVA to the PVA during Valsalva
+through the bafﬂe defect (G), the discs of the Amplatzer Septal Occluder in situ (H, arrow) and the
+alleviation of the interatrial shunt (I).
+The patient underwent a successful bafﬂe leak closure with a 10 mm Amplatzer Septal
+Occluder (Abbott, Chicago, IL, USA). The procedure was performed using left femoral
+access under local anesthesia with ﬂuoroscopic and intracardiac echocardiography (ICE)
+guidance (Figure 1D–I). No residual shunt could be detected using ICE at the end of the
+procedure. At 3 months follow-up, no residual shunt could be visualized on TTE, and
+the patient showed no desaturations below 95% at ambient air during bicycle exercise
+ergometry with a stable exercise capacity.
+[[p4]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 4 of 9
+2.2. Patient B
+A 47-year-old woman with TGA late after the atrial switch procedure according to
+Senning, was analyzed in the outpatient clinic due to progressive dyspnea and decreased
+exercise tolerance over the past year. She had a history of concomitant pulmonary valve
+commissurotomy, resection of an infundibular pulmonary stenosis, and ventricular septal
+defect (VSD) closure at the age of two years. She had two uncomplicated pregnancies at
+the ages of 23 and 24, respectively. A third pregnancy at the age of 26 years was terminated
+during the ﬁrst semester due to a decline in clinical condition and persistent hypertension.
+In the following decades, as the sRV progressively deteriorated to a moderately reduced
+systolic function, she underwent a total of ﬁve atrial tachycardia ablation procedures, and
+a dual chamber (DDD) pacemaker was implanted due to sick sinus syndrome (with two
+atrial leads to enable atrial antitachycardia pacing).
+Upon presentation, she was in NYHA functional class III. Pharmacological treatment
+included a beta-blocker, an ARNI, a mineralocorticoid receptor antagonist, a loop diuretic,
+amiodarone, and a vitamin K antagonist. Bicycle exercise ergometry revealed a reduced ex-
+ercise capacity of 80 watts (61% of what was predicted) and a VO2 max of 12.5 mL/min/kg
+(48% of what was predicted). SpO2 decreased from 93% at ambient air at rest to 84% at
+maximal effort. TTE showed a stable, moderately reduced function of the sRV , trivial
+tricuspid regurgitation, and preserved function of the subpulmonary LV . Suspicion of a
+bafﬂe leak was raised by the apical four chamber view, which revealed systolic ﬂow from
+the SVA to the PVA (right-to-left) at rest (Figure 2A,B). Signiﬁcant interatrial shunting was
+further conﬁrmed by agitated saline contrast echocardiography (Figure 2C). The contrast
+echocardiography was complicated by an air embolic transient ischemic attack, from which
+the patient, luckily, fully recovered. Computed tomography (CT) imaging conﬁrmed the
+presence of a bafﬂe leak of approximately 10–12 mm in diameter and showed no signiﬁcant
+calciﬁcations in proximity to the leak (Figure 2D). An invasive hemodynamic evaluation in
+euvolemia showed normal PAP (17/2 mmHg, mean PAP 7 mmHg), a wedge pressure of
+4 mmHg, low sRV end-diastolic pressures (81/2–5 mmHg), and excluded any signiﬁcant
+bafﬂe obstruction with low gradients in the venous returns. The subpulmonary LV pres-
+sures were 30/2–4 mmHg, and no signiﬁcant LV outﬂow tract gradient was present. The
+patient was discussed with the heart team; percutaneous device closure was deemed tech-
+nically feasible, and recommended given the symptomatic exercise-exacerbated hypoxemia
+due to SVA to PVA shunting through the bafﬂe leak.
+The patient underwent a successful bafﬂe leak closure with a 18 mm Occlutech Figulla
+Flex II Atrial Septal Defect (ASD) Occluder (Occlutech GmbH, Jena, Germany). The proce-
+dure was performed using left femoral access under conscious sedation and local anesthesia
+with ﬂuoroscopic and ICE guidance (Figure 2E,F). No residual shunt could be detected on
+post-procedural TTE, and the patient reported signiﬁcant functional improvement already
+days after the procedure. At the 3-month follow-up, her exercise capacity was stable with
+SpO2 ≥ 95% throughout the bicycle exercise ergometry.
+2.3. Patient C
+A 60-year-old woman with TGA with VSD, secundum ASD, mild infundibular pul-
+monary stenosis, partial anomalous pulmonary venous drainage, and a persistent left
+superior vena cava was evaluated in the outpatient clinic due to progressive sRV failure.
+She underwent the atrial switch procedure according to Mustard with VSD closure at
+11 years of age, followed by surgical closure of a bafﬂe leak at 30 years of age, and com-
+bined tricuspid valve restrictive annuloplasty with a second surgical bafﬂe leak closure at
+43 years of age. She had a history of paroxysmal supraventricular tachycardias, for which
+she had undergone two catheter ablation procedures. A DDD-pacemaker was implanted
+due to sick sinus syndrome. The system was later upgraded to a transvenous DDD-ICD due
+to symptomatic episodes of ventricular tachycardia, and she required chronic ventricular
+pacing due to symptomatic atrioventricular conduction block and bradycardia-induced
+(non-sustained) polymorphic ventricular tachycardia. At the age of 57 years (three years
+[[p5]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 5 of 9
+prior to the current evaluation), the patient was diagnosed with a cardiobacterium homi-
+nis endocarditis involving a small, hemodynamically not signiﬁcant bafﬂe leak and the
+pacemaker leads (Figure 3A,B). Her perioperative risk was deemed too high for surgi-
+cal intervention, and given the good response to antibiotic therapy, she was initiated on
+long-term suppression therapy.
+J. Cardiovasc. Dev. Dis. 2023, 10, 129  5  of  9 
+ 
+ 
+  
+Figure 2. Baffle leak visualization and closure in patient B. (A) Apical four chamber view shows that 
+the atrial baffle (arrow) directs systemic venous return atrium (SVA) to the subpulmonary left ven‐
+tricle (LV) and the pulmonary venous return atrium (PVA) to the systemic right ventricle (sRV). The 
+baffle leak is indicated by an asterisk (*). (B) Color Doppler apical four chamber view demonstrates 
+SVA to PVA shunting through the baffle leak. (C) Significant interatrial shunting confirmed by ag‐
+itated saline contrast echocardiography. Note the contrast opacification of the SVA and subpulmo‐
+nary LV, and the jet crossing the baffle leak into the PVA. (D) Axial slice through a computed to‐
+mography scan at the level of the atria shows the baffle leak (arrow). (E,F) Left anterior oblique and 
+right superior oblique fluoroscopy projections, respectively show the Occlutech Figulla Flex II Atrial 
+Septal Defect (ASD) Occluder (arrow) projecting over the interatrial baffle. Note the presence of one 
+ventricular (LV) and two atrial (SVA) pacemaker leads. 
+The patient underwent a successful baffle leak closure with a 18 mm Occlutech Fig‐
+ulla Flex II Atrial Septal Defect (ASD) Occluder (Occlutech GmbH, Jena, Germany). The 
+procedure was performed using left femoral access under conscious sedation and local 
+anesthesia with fluoroscopic and ICE guidance (Figure 2E,F). No residual shunt could be 
+detected on post‐procedural TTE, and the patient reported significant functional improve‐
+ment already days after the procedure. At the 3‐month follow‐up, her exercise capacity 
+was stable with SpO2 ≥ 95% throughout the bicycle exercise ergometry. 
+2.3. Patient C  
+A 60‐year‐old woman with TGA with VSD, secundum ASD, mild infundibular pul‐
+monary stenosis, partial anomalous pulmonary venous drainage, and a persistent left su‐
+perior vena cava was evaluated in the outpatient clinic due to progressive sRV failure. She 
+underwent the atrial switch procedure according to Mustard with VSD closure at 11 years 
+of age, followed by surgical closure of a baffle leak at 30 years of age, and combined tri‐
+cuspid valve restrictive annuloplasty with a second surgical baffle leak closure at 43 years 
+of age. She had a history of paroxysmal supraventricular tachycardias, for which she had 
+undergone two catheter ablation procedures. A DDD‐pacemaker was implanted due to 
+sick sinus syndrome. The system was later upgraded to a transvenous DDD‐ICD due to 
+symptomatic  episodes  of  ventricular  tachycardia,  and  she  required  chronic  ventricular 
+pacing due to symptomatic atrioventricular conduction block and bradycardia‐induced 
+(non‐sustained) polymorphic ventricular tachycardia. At the age of 57 years (three years 
+prior  to  the  current  evaluation),  the  patient  was  diagnosed  with  a  cardiobacterium 
+Figure 2. Bafﬂe leak visualization and closure in patient B. (A) Apical four chamber view shows that
+the atrial bafﬂe (arrow) directs systemic venous return atrium (SVA) to the subpulmonary left ventricle
+(LV) and the pulmonary venous return atrium (PVA) to the systemic right ventricle (sRV). The bafﬂe
+leak is indicated by an asterisk (*). (B) Color Doppler apical four chamber view demonstrates SVA
+to PVA shunting through the bafﬂe leak. (C) Signiﬁcant interatrial shunting conﬁrmed by agitated
+saline contrast echocardiography. Note the contrast opaciﬁcation of the SVA and subpulmonary LV ,
+and the jet crossing the bafﬂe leak into the PVA. (D) Axial slice through a computed tomography scan
+at the level of the atria shows the bafﬂe leak (arrow). (E,F) Left anterior oblique and right superior
+oblique ﬂuoroscopy projections, respectively show the Occlutech Figulla Flex II Atrial Septal Defect
+(ASD) Occluder (arrow) projecting over the interatrial bafﬂe. Note the presence of one ventricular
+(LV) and two atrial (SVA) pacemaker leads.
+She was now in NYHA functional class II-III despite pharmacological treatment with
+a beta-blocker, an ARNI, a SGLT2i, a loop diuretic, and a vitamin K antagonist. Bicycle
+exercise ergometry revealed a reduced exercise capacity of 50 watts (51% of what was
+predicted) and a VO2 max of 8.7 mL/min/kg (36% of what was predicted). SpO2 remained
+above 95% during exercise. TTE showed a dilated sRV with moderately to severely reduced
+systolic function, signs of dyssynchrony, and mild tricuspid regurgitation. The subpul-
+monary LV had preserved systolic function but was dilated. During diastole, there was
+a septal shift towards the sRV , consistent with volume overload of the subpulmonary LV .
+TTE also demonstrated the presence of a hemodynamically signiﬁcant bafﬂe leak with a
+PVA to SVA (left-to-right) shunt causing volume overload of the subpulmonary LV and
+contributing to the LV dilatation (Figure 3C).
+The case was discussed in the heart team. The PVA to SVA ﬂow over the bafﬂe leak
+was deemed to have an unloading effect due to the elevated sRV end-diastolic pressure. A
+closure of the leak was therefore expected to increase the sRV pressures and potentially
+aggravate systolic sRV dysfunction. Combined with the lack of cyanosis, closure of the
+bafﬂe leak at this point was therefore deferred, and it was decided to ﬁrst attempt to
+optimize the systolic sRV function. Given the pacing-induced sRV dyssynchrony observed
+[[p6]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 6 of 9
+under chronic subpulmonary LV pacing, the patient was considered to be a good candidate
+for epicardial sRV lead placement and cardiac resynchronization therapy.
+J. Cardiovasc. Dev. Dis. 2023, 10, 129  6  of  9 
+ 
+ 
+hominis endocarditis involving a small, hemodynamically not significant baffle leak and 
+the pacemaker leads (Figure 3A,B). Her perioperative risk was deemed too high for sur‐
+gical intervention, and given the good response to antibiotic therapy, she was initiated on 
+long‐term suppression therapy.   
+ 
+Figure 3. Baffle leak visualization in patient C. (A) Apical four chamber view shows the systemic 
+venous return atrium (SVA), left ventricle (LV), the dilated and hypertrophied systemic right ven‐
+tricle (sRV), and the pulmonary venous atrium (PVA). There is a suspicion of a baffle defect (asterisk 
+(*) in A). (B) A small mobile structure suspicious of a vegetation (asterisk (*) in B) can be seen on the 
+SVA side of the baffle defect. Note the atrial lead (arrow). (C) Color flow Doppler apical four cham‐
+ber view demonstrates a PVA to SVA shunt over the baffle defect (arrow). 
+She was now in NYHA functional class II‐III despite pharmacological treatment with 
+a beta‐blocker, an ARNI, a SGLT2i, a loop diuretic, and a vitamin K antagonist. Bicycle 
+exercise  ergometry  revealed  a  reduced  exercise  capacity  of  50  watts  (51%  of  what  was 
+predicted) and a VO2 max of 8.7 mL/min/kg (36% of what was predicted). SpO2 remained 
+above 95% during exercise. TTE showed a dilated sRV with moderately to severely re‐
+duced systolic function, signs of dyssynchrony, and mild tricuspid regurgitation. The sub‐
+pulmonary LV had preserved systolic function but was dilated. During diastole, there was 
+a septal shift towards the sRV, consistent with volume overload of the subpulmonary LV. 
+TTE also demonstrated the presence of a hemodynamically significant baffle leak with a 
+PVA to SVA (left‐to‐right) shunt causing volume overload of the subpulmonary LV and 
+contributing to the LV dilatation (Figure 3C).   
+The case was discussed in the heart team. The PVA to SVA flow over the baffle leak 
+was deemed to have an unloading effect due to the elevated sRV end‐diastolic pressure. 
+A closure of the leak was therefore expected to increase the sRV pressures and potentially 
+aggravate systolic sRV dysfunction. Combined with the lack of cyanosis, closure of the 
+baffle leak at this point was therefore deferred, and it was decided to first attempt to op‐
+timize the systolic sRV function. Given the pacing‐induced sRV dyssynchrony observed 
+under chronic subpulmonary LV pacing, the patient was considered to be a good candi‐
+date for epicardial sRV lead placement and cardiac resynchronization therapy.   
+3. Discussion 
+In this case series, we describe the clinical considerations and contemporary manage‐
+ment strategies for baffle leaks in adult patients with TGA late after the atrial switch pro‐
+cedure. The first two cases suffered from progressive sRV failure and exercise‐associated 
+cyanosis due to SVA to PVA shunting upon exertion. The baffle leaks were successfully 
+closed through catheter intervention, eliminating the exercise‐associated hypoxemia. The 
+third patient had progressive sRV failure without significant cyanosis, yet with a PVA to 
+SVA shunt that resulted in a volume overload of the subpulmonary LV, while “unload‐
+ing”  the  failing  sRV.  The  baffle  leak  closure  was  deferred,  and  the  initial  management 
+strategy  focused  on  optimizing  the  sRV  function.  These  three  cases  illustrate  the 
+Figure 3. Bafﬂe leak visualization in patient C. ( A) Apical four chamber view shows the systemic
+venous return atrium (SVA), left ventricle (LV), the dilated and hypertrophied systemic right ventricle
+(sRV), and the pulmonary venous atrium (PVA). There is a suspicion of a bafﬂe defect (asterisk (*)
+in (A)). (B) A small mobile structure suspicious of a vegetation (asterisk (*) in ( B)) can be seen on
+the SVA side of the bafﬂe defect. Note the atrial lead (arrow). ( C) Color ﬂow Doppler apical four
+chamber view demonstrates a PVA to SVA shunt over the bafﬂe defect (arrow).
+3. Discussion
+In this case series, we describe the clinical considerations and contemporary man-
+agement strategies for bafﬂe leaks in adult patients with TGA late after the atrial switch
+procedure. The ﬁrst two cases suffered from progressive sRV failure and exercise-associated
+cyanosis due to SVA to PVA shunting upon exertion. The bafﬂe leaks were successfully
+closed through catheter intervention, eliminating the exercise-associated hypoxemia. The
+third patient had progressive sRV failure without signiﬁcant cyanosis, yet with a PVA to
+SVA shunt that resulted in a volume overload of the subpulmonary LV , while “unloading”
+the failing sRV . The bafﬂe leak closure was deferred, and the initial management strategy fo-
+cused on optimizing the sRV function. These three cases illustrate the considerations made
+and challenges faced when choosing the optimal management strategy for an individual
+patient with a bafﬂe leak.
+3.1. Prevalence and Diagnosis of Bafﬂe Leaks
+Bafﬂe leaks are a common complication late after the atrial switch procedure, and they
+are present in up to 50% of non-selected and asymptomatic patients [6]. As a signiﬁcant
+proportion of TGA patients suffer from heart failure late after the atrial switch procedure [4],
+it can be difﬁcult to suspect a bafﬂe leak based on symptoms alone.
+The ESC and American Heart Association (AHA) ACHD guidelines state that bafﬂe
+leaks can be best diagnosed routinely with (contrast) echocardiography. Transesophageal
+echocardiography, cardiopulmonary exercise test, and/or cardiac MRI have an additive
+role in the diagnosis and evaluation of bafﬂe leaks [ 7,8]. In a large study investigating
+the prevalence of bafﬂe leaks, only 8 out of 65 patients had a clinical suspicion prior to
+diagnosis. Moreover, color Doppler TTE could only accurately identify the bafﬂe leak in
+2 out of 65 patients [6], illustrating the challenges of shunt identiﬁcation on routine TTE.
+In the ﬁrst two cases, a clinical suspicion of a bafﬂe leak was present prior to diagnosis.
+Self-registered desaturation, objectiﬁed using an in-hospital bicycle exercise ergometry
+(exercise-associated cyanosis), played an important role in identifying the hemodynamic
+consequences of a bafﬂe defect in a group of patients with a high a priori risk. Agitated
+saline contrast echocardiography and/or CT were used to conﬁrm the diagnosis in our
+patients. While generally considered a safe procedure, patient B suffered from a transient
+ischemic attack directly after contrast echocardiography due to cerebral embolization of
+[[p7]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 7 of 9
+air bubble contrast. Transient visual disturbances have previously been described after
+agitated saline contrast echocardiography for bafﬂe leak diagnosis [6].
+Cardiac MRI can provide more reliable and robust quantiﬁcation of the interatrial
+shunt magnitude than echocardiography, although small shunts can easily be missed [7,9].
+Nevertheless, it is often not feasible in the atrial switch TGA population due to a high
+prevalence of non-compatible cardiac implantable electronic devices and epicardial and/or
+abandoned leads [10]. For these reasons, a cardiac MRI could not be performed in any of
+the three cases described.
+Although, to the best of our knowledge, no data has been published on exercise
+catheterization of TGA patients with bafﬂe defects, exercise hemodynamics have been
+described as being of incremental value in understanding functional limitations in patients
+with a Fontan circulation [11]. Right heart catheterization during exercise may therefore
+better reﬂect on the exercise-associated complaints of the TGA patients with a failing
+sRV and a bafﬂe leak and provide insight into the dynamic pathophysiological changes
+that take place at exertion. Although at present not standard practice in the majority
+of centers, performing a right heart catheterization during exercise is likely to facilitate
+our understanding of shunting in the context of a bafﬂe leak and heart failure, possibly
+unmasking a leak at an earlier stage and guiding patient-tailored treatment.
+Patients A and C underwent the atrial switch procedure according to Mustard, and
+patient B according to Senning. A trend towards fewer bafﬂe leaks after the Mustard
+compared with the Senning procedure has previously been described [12]. As bafﬂe leaks
+generally occur along the extensive suture lines surrounding the atrial bafﬂe, one can
+hypothesize that this difference might be attributed to less tension on the suture lines after
+the Mustard technique, as a larger amount of synthetic or pericardial material is used to
+create the bafﬂe.
+3.2. Management of Bafﬂe Leaks
+The current AHA ACHD guidelines are less explicit in giving direct recommendations
+for the management of bafﬂe leaks than the ESC guidelines [ 7,8]. Judging the management
+of the three cases in light of the ESC guidelines, cases A and B were symptomatic patients
+with cyanosis during exercise and therefore had a class I indication for percutaneous bafﬂe
+leak closure (level of evidence: C [7]). Case C presented a challenging dilemma of closure
+versus conservative management. This patient presented with progressive sRV dysfunction
+but without speciﬁc symptoms related to her long-existing bafﬂe leak. Eventually, dilatation
+of the subpulmonary LV developed due to PVA to SVA shunting, and thus percutaneous
+closure should be considered if feasible according to the ESC guidelines (class IIa indication,
+level of evidence: C [7]).
+The decision was made to manage the bafﬂe leak conservatively in this patient, as we
+expected closure to lead to further elevation of sRV end-diastolic pressures and aggravation
+of sRV dysfunction. A potentially positive effect of a bafﬂe leak with “ASD-like physiology”
+has been described in the literature. By placing a volume load on the subpulmonary
+LV through the PVA to SVA shunt, the interventricular septum is splinted and might
+support the sRV function in a manner similar to retraining the LV with a pulmonary artery
+band or in cases with left ventricular outﬂow tract obstruction/pulmonary stenosis [13].
+Nevertheless, this does not seem to apply to our patient C, as there we observed a diastolic
+septum shift towards the sRV and a systolic shift towards the subpulmonary LV . This could
+actually negatively inﬂuence the sRV instead of supporting it and seems to be caused by
+volume-overload with a lack of pressure-overload in the subpulmonary LV .
+The ESC guidelines also suggest covered stents as an option for percutaneous bafﬂe
+leak closure [ 7]. The use of covered stents has predominantly been described for the
+treatment of concomitant bafﬂe leaks and stenosis [6,10,14]. In a previous study, isolated
+bafﬂe leaks were present in the minority of patients with bafﬂe complications (17%), and a
+combination of occluders and/or covered stents was used to close the leaks without any
+major adverse events [15]. There are to date no publications comparing the two techniques,
+[[p8]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 8 of 9
+and a patient-speciﬁc, anatomy-tailored approach is essential. In our cases, no covered
+stents were used to avoid “jailing” of the pacing leads.
+While historically bafﬂe complications were managed surgically, perioperative mor-
+tality for surgical bafﬂe revision after the atrial switch procedure has been reported in up
+to 36% of cases [ 16]. Percutaneous interventions are the preferred option in these adult
+patients, given the usually high perioperative risk due to previous thoracotomies, extensive
+adhesions, and concomitant heart failure.
+4. Conclusions
+Bafﬂe leaks are present in up to 50% of non-selected patients late after the atrial switch
+procedure, and while they initially may not cause clear symptoms, their existence can
+complicate the hemodynamic course and inﬂuence the prognosis in this complex patient
+group. Inherent to the nature of this case series, no conclusions can be drawn to advise
+speciﬁc treatment strategies for patients with a bafﬂe leak. Nonetheless, this case series
+demonstrates the clinical considerations in an individual, patient-tailored approach when
+assessing bafﬂe leak hemodynamics in the context of sRV failure. It illustrates the feasi-
+bility of a catheter interventional management strategy using septal occluder devices for
+successfully alleviating exercise-associated cyanosis. Moreover, it highlights the complexity
+of choosing a treatment strategy in “relatively” asymptomatic patients with signs of ven-
+tricular volume overload due to PVA to SVA shunting. Although intervention should be
+considered in these patients, this may not always be the best option. A clear evidence-based
+approach is currently missing to make these challenging treatment decisions. Future re-
+search should focus on deﬁning more robust criteria for bafﬂe leak closure and the optimal
+timing window, especially for seemingly asymptomatic patients.
+Author Contributions: Conceptualization, R.M.L.N., M.V .R. and A.D.E.; methodology, R.M.L.N.,
+F.v.d.K., M.J.S. and A.D.E.; software, R.M.L.N.; validation, H.W.V ., M.R.M.J. and P .K.; formal analysis,
+not applicable; investigation, M.V .R., F.v.d.K., M.J.S. and A.D.E.; resources, J.W.J.; data curation,
+R.M.L.N. and A.D.E.; writing—original draft preparation, R.M.L.N. and A.D.E.; writing—review
+and editing, R.M.L.N., M.V .R., F.v.d.K., H.W.V ., M.R.M.J., P .K., M.J.S., J.W.J. and A.D.E.; visualiza-
+tion, R.M.L.N., M.V .R. and A.D.E.; supervision, J.W.J. and A.D.E.; project administration, R.M.L.N.;
+funding acquisition, not applicable. All authors have read and agreed to the published version of
+the manuscript.
+Funding: R.M.L.N. is funded by the Leiden University Medical Center research council Cardio-
+Vascular cluster Themes for Innovation funding 2021.
+Institutional Review Board Statement: All tests and procedures performed in-volving human
+participants were in accordance with the ethical standards of the institutional and/or national research
+committee and with the 2013 Helsinki declaration or comparable ethical standards. Appropriate local
+scientiﬁc board approval was obtained from the Medical Research Ethics Committee Leiden Den
+Haag Delft (protocol code N22.120, date of approval 29-11-2022) and the need for written informed
+consent was waived by the institutional medical ethical board.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the
+study according to COPE guidelines.
+Data Availability Statement: Not applicable.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+PM?gK?iMhMdMZ?jK?rM?s?????M?iM?`M?bM?bM?QOOQK?RXK?PWXO–PXOOM?zbq|
+[PubMed]
+2. Senning, A. Surgical correction of transposition of the great vessels. Surgery 1959, 45, 966–980. [PubMed]
+3. Mustard, W.T. Successful Two-Stage Correction of Transposition of the Great Vessels. Surgery 1964, 55, 469–472. [PubMed]
+4. Woudstra, O.I.; Zandstra, T.E.; Vogel, R.F.; van Dijk, A.P .J.; Vliegen, H.W.; Kiès, P .; Jongbloed, M.R.M.; Egorova, A.D.; Doevendans,
+P .A.F.M.; Konings, T.C.; et al. Clinical Course Long After Atrial Switch: A Novel Risk Score for Major Clinical Events.J. Am. Heart
+Assoc. 2021, 10, e018565. [CrossRef] [PubMed]
+[[p9]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 129 9 of 9
+5. Couperus, L.E.; Vliegen, H.W.; Zandstra, T.E.; Ki ès, P .; Jongbloed, M.R.M.; Holman, E.R.; Zeppenfeld, K.; Hazekamp, M.G.;
+Schalij, M.J.; Scherptong, R.W.C. Long-term outcome after atrial correction for transposition of the great arteries. Heart 2019, 105,
+790–796. [CrossRef] [PubMed]
+6. De Pasquale, G.; Bonassin Tempesta, F.; Lopes, B.S.; Babic, D.; Oxenius, A.; Seeliger, T.; Gruner, C.; Tanner, F.C.; Biaggi, P .;
+Jost, C.A.; et al. High prevalence of bafﬂe leaks in adults after atrial switch operations for transposition of the great arteries. Eur.
+Heart J. Cardiovasc. Imaging 2017, 18, 531–535. [CrossRef] [PubMed]
+7. Baumgartner, H.; De Backer, J.; Babu-Narayan, S.V .; Budts, W.; Chessa, M.; Diller, G.P .; Lung, B.; Kluin, J.; Lang, I.M.; Mei-
+jboom, F.; et al. 2020 ESC Guidelines for the management of adult congenital heart disease. Eur. Heart J. 2021, 42, 563–645.
+[CrossRef] [PubMed]
+8. Stout, K.K.; Daniels, C.J.; Aboulhosn, J.A.; Bozkurt, B.; Broberg, C.S.; Colman, J.M.; Crumb, S.R.; Dearani, J.A.; Fuller, S.;
+Gurvitz, M.; et al. 2018 AHA/ACC Guideline for the Management of Adults with Congenital Heart Disease: A Report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation 2019, 139,
+e698–e800. [PubMed]
+9. Woudstra, O.I.; Alban, F.T.E.; Bijvoet, G.P .; de Bruin-Bon, R.; Planken, R.N.; Leiner, T.; Boekholdt, S.M.; Warmerdam, E.G.;
+Sieswerda, G.T.; Mulder, B.J.; et al. Bafﬂe Complications in Adults After Atrial Switch for Transposition of the Great Arteries. Can.
+J. Cardiol. 2022, 38, 68–76. [CrossRef] [PubMed]
+10. Laredo, M.; Waldmann, V .; Chaix, M.A.; Ibrahim, R.; Casteigt, B.; Dubuc, M.; Thibault, B.; Asgar, A.W.; Dore, A.; Mongeon, F.-
+P .; et al. Lead Extraction with Bafﬂe Stenting in Adults with Transposition of the Great Arteries.JACC Clin. Electrophysiol. 2019, 5,
+671–680. [CrossRef] [PubMed]
+11. Miranda, W.R.; Jain, C.C.; Borlaug, B.A.; Connolly, H.M.; Egbe, A.C. Exercise invasive hemodynamics in adults post-Fontan: A
+novel tool in understanding functional limitation and liver disease. J. Heart Lung Transpl. 2022, 41, 704–707. [CrossRef] [PubMed]
+12. Khairy, P .; Landzberg, M.J.; Lambert, J.; O’Donnell, C.P . Long-term outcomes after the atrial switch for surgical correction of
+transposition: A meta-analysis comparing the Mustard and Senning procedures. Cardiol. Young 2004, 14, 284–292. [CrossRef]
+[PubMed]
+13. Morrison, M.L.; Grant, B.; McCrossan, B.A.; Sands, A.J.; Owens, C.G.; Spence, M.S.; Casey, F.A.; Craig, B.G.; Lockhart, C.J. 32 year
+follow up of patients following atrial redirection surgery for transposition of the great arteries. Congenit. Heart Dis. 2019, 14,
+846–853. [CrossRef] [PubMed]
+14. Daehnert, I.; Hennig, B.; Wiener, M.; Rotzsch, C. Interventions in leaks and obstructions of the interatrial bafﬂe late after Mustard
+and Senning correction for transposition of the great arteries. Catheter. Cardiovasc. Interv. 2005, 66, 400–407. [CrossRef] [PubMed]
+15. Bradley, E.A.; Cai, A.; Cheatham, S.L.; Chisolm, J.; Sisk, T.; Daniels, C.J.; Cheatham, J.P . Mustard bafﬂe obstruction and leak-How
+successful are percutaneous interventions in adults? Prog. Pediatr. Cardiol. 2015, 39 Pt B, 157–163. [CrossRef]
+16. Poterucha, J.T.; Taggart, N.W.; Johnson, J.N.; Cannon, B.C.; Cabalka, A.K.; Hagler, D.J.; Dearani, J.A.; Cetta, F. Intravascular and
+hybrid intraoperative stent placement for bafﬂe obstruction in transposition of the great arteries after atrial switch. Catheter.
+Cardiovasc. Interv. 2017, 89, 306–314. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

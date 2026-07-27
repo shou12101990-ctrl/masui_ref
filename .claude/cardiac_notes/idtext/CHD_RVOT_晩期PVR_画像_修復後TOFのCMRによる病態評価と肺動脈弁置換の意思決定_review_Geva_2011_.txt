@@ -1,0 +1,2194 @@
+
+[[p1]]
+R E V I E W Open Access
+Repaired tetralogy of Fallot: the roles of
+cardiovascular magnetic resonance in evaluating
+pathophysiology and for pulmonary valve
+replacement decision support
+Tal Geva
+Abstract
+Surgical management of tetralogy of Fallot (TOF) results in anatomic and functional abnormalities in the majority
+of patients. Although right ventricular volume load due to severe pulmonary regurgitation can be tolerated for
+many years, there is now evidence that the compensatory mechanisms of the right ventricular myocardium
+ultimately fail and that if the volume load is not eliminated or reduced by pulmonary valve replacement the
+dysfunction might be irreversible. Cardiovascular magnetic resonance (CMR) has evolved during the last 2 decades
+as the reference standard imaging modality to assess the anatomic and functional sequelae in patients with
+repaired TOF. This article reviews the pathophysiology of chronic right ventricular volume load after TOF repair and
+the risks and benefits of pulmonary valve replacement. The CMR techniques used to comprehensively evaluate the
+patient with repaired TOF are reviewed and the role of CMR in supporting clinical decisions regarding pulmonary
+valve replacement is discussed.
+Introduction
+Although the management of tetralogy of Fallot (TOF)
+has evolved considerably since Blalock and Taussig
+described the first systemic artery-to-pulmonary artery
+shunt in 1945 and Lillehei and Varco reported the first
+repair by an open-heart procedure in 1954 [1-3], opti-
+mal surgical repair has remained elusive. While early
+surgical mortality decreased from 50% in the late 1950 ’s
+to less than 2% in the modern surgical era [4-7], residual
+anatomic and hemodynamic abnormalities are nearly
+universal. As a result, the number of patients with
+repaired TOF, many of whom with considerable cardiac
+and non-cardiac disease burden, is growing rapidly [8,9].
+Right ventricular (RV) dilation from pulmonary regur-
+gitation (PR), residual atria l and/or ventricular septal
+defect, tricuspid regurgitatio n, right ventricular outflow
+tract (RVOT) aneurysm, pulmonary artery stenosis, and
+tachyarrhythmias are some o f the abnormalities fre-
+quently encountered in patients with repaired TOF.
+Although the hemodynamic burden associated with these
+anomalies is often tolerated well during childhood and
+adolescence, the incidences of arrhythmias, exercise intol-
+erance, heart failure, and death nearly triple during the
+third postoperative decade and afterward [8-13]. Severe
+chronic PR– considered an important, treatable cause of
+RV dilatation and failure– has been the focus of many
+investigations in recent years. However, despite a growing
+body of literature on the management of severe PR after
+TOF repair, debate regarding the indications, methods,
+and optimal timing of pulmonary valve replacement (PVR)
+has persisted [14-17]. Cardiovascular magnetic resonance
+(CMR) has emerged as an essential diagnostic tool in this
+patient population because it overcomes many of the lim-
+itations of echocardiography, cardiac CT, and cardiac
+catheterization, while also providing unique quantitative
+data as well as prognostic information.
+This article comprises two parts. The first part reviews
+the pathophysiology, natural history, and clinical chal-
+lenges late after TOF repair. The second part discusses the
+role of CMR in clinical decision making with an emphasis
+on its role in supporting patient selection for PVR.
+Correspondence: tal.geva@cardio.chboston.org
+Department of Cardiology, Children ’s Hospital Boston, Department of
+Pediatrics, Harvard Medical School, Boston, MA, USA
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+© 2011 Geva; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.
+[[p2]]
+Pathophysiology of Repaired TOF
+Pulmonary Regurgitation After TOF Repair
+Relief of RVOT obstruction in TOF often involves dis-
+ruption of pulmonary valve integrity, which leads to PR
+in the majority patients. Both experimental evidence and
+clinical data have shown that the severity of PR can
+increase over time [18-20]. The degree of PR is deter-
+mined by (1) regurgitation orifice area; (2) RV compli-
+ance; (3) diastolic pressure difference between the main
+pulmonary artery (MPA) and the RV; (4) capacitance of
+the pulmonary arteries; and (5) duration of diastole.
+Some of the key factors influencing PR volume are cap-
+tured by the Torricelli principle [21]:
+PR volume ROA C DT P P 21
+5=−   () . 0
+Where ROA = regurgitation orifice area; C = constant
+G?HZ?cs?\??Z?Go?Q?Lo?PH?\?
+diastolic pressure difference between the MPA and RV.
+Unlike aortic regurgitation, the diastolic pressure differ-
+ence between the MPA and the RV is small. Therefore,
+the PR volume is largely determined by other factors,
+namely the size of the regurgitation orifice (typically
+large after TOF repair), the capacitance of the pulmon-
+ary arteries [22], and duration of diastole (related to
+heart rate). Other factors such as pulmonary vascular
+resistance and LV function may also influence PR.
+At the time of TOF repair, the RV is hypertrophied
+and its compliance is low; the diameters of the central
+pulmonary arteries are either hypoplastic or low-normal,
+and their capacitance is low; and the heart rate is rela-
+tively high, which leads to a re latively short duration of
+diastole. Therefore, despite a relatively large regurgita-
+tion orifice immediately after TOF repair, the combina-
+tion of factors described above minimizes the impact of
+PR. Over time, however, the increase in RV stroke
+volume leads to progressive rise in the size and capaci-
+tance of the central pulmonary arteries and to RV dila-
+tation. Combined with a longer duration of diastole as
+heart rate decreases with age, these changes lead to pro-
+gressive increase in the degree of PR (Figure 1). Experi-
+mental evidence supporting this progression was
+provided by Kuehne et al. who demonstrated in growing
+swines with a stented pulmonary valve an increase in
+PR fraction from 33 ± 7% at baseline to 49 ± 6% at
+3 months [19]. Progression of PR, however, likely pla-
+teaus at some point but quantitative longitudinal data
+documenting this assumption is lacking.
+Effects of Chronic Volume Load on Ventricular Mechanics
+A growing clinical experience and experimental evidence
+point to striking similarities between the pathophysiolo-
+gic response of the left and right ventricles to severe
+chronic volume load. Moreov e r ,i n - v i t r os t u d i e sh a v e
+shown similar intrinsic properties of myofibers from the
+left and right ventricles, including their response to
+pressure and volume overload conditions [23,24].
+Because the pathophysiology of left ventricular (LV)
+response to chronic aortic regurgitation has been stu-
+died in great detail [25-27], it is worth considering the
+sequence of events here. Investigators divide the patho-
+physiologic response of the LV to severe chronic aortic
+??S????Y?PH?`
+compensated stage characterized by an increase in end-
+diastolic volume and a combination of eccentric and
+concentric hypertrophy. At the cellular level, ventricular
+dilatation is characterized by cellular elongation, addi-
+tion of myofibers, and a decrease in collagen content. At
+the pump level, these changes lead to an increase in
+end-diastolic volume and maintenance of relatively nor-
+mal mass-to-volume ratio (compensated hypertrophy),
+end-systolic fiber stress, and global systolic function. An
+increase in stroke volume maintains net forward flow
+within normal limits. This stage may last for many
+years or even decades. 2) Failure of compensatory
+mechanisms. This stage is ch aracterized by continued
+LV dilatation but with decreased mass-to-volume ratio
+(inadequate hypertrophy) and increased afterload (end-
+systolic stress). As a result, the rate and magnitude
+of fiber shortening decrease. This stage manifests
+as decreased global systolic function while intrinsic
+myocardial contractility remains relatively normal.
+Figure 1 Some of the factors influencing progression of
+pulmonary regurgitation after TOF repair . This process likely
+plateaus at a certain point but the time course of PR has not been
+fully characterized.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 2 of 24
+[[p3]]
+3) Reduced but reversible myocardial contractility. Over
+the short term, the impaired contractility may be rever-
+sible, and elimination of the volume load can result in
+recovery of pump function. 4) Irreversible myocardial
+injury associated with fibrosis and increased interstitial
+collagen [28]. Although valve replacement may still be
+tolerated and of clinical benefit [27,29], myocardial dys-
+function persists.
+Similar to the above-described course of LV response
+to volume load, patients usually tolerate chronic RV
+volume load without symptoms for many years. Indeed
+some investigators in the 1970s and 1980s considered
+PR benign [30]. Isolated congenital PR – a rare cardiac
+anomaly similar to TOF with absent pulmonary valve
+syndrome but without ventricular septal defect – offers a
+unique opportunity to examine the long-term effects of
+severe chronic PR without the confounding effects of
+cyanosis, ventricular septal defect, pulmonary stenosis,
+or the sequelae of cardiac surgery. In a review of 72
+such cases reported in the literature [31], Shimazaki
+et al. found that that the annualized probability of devel-
+oping symptoms of heart failure increased exponentially
+over time, mostly after age 40 years. Similarly, studies of
+patients with a secundum atrial septal defect, which also
+results in isolated RV volume overload, have demon-
+strated that the volume load adversely affects both right
+and left ventricular geometry and function and that
+these abnormalities are fully reversible when the shunt
+is eliminated early in life [32-36]. However, functional
+recovery is less complete when an atrial septal defect is
+closed later in life [37-39]. Taken together, these studies
+show that “isolated ” RV volume load can be tolerated
+with little or no symptoms during the first 3-4 decades
+of life and elimination of the volume load during that
+period usually leads to full functional recovery. Left
+untreated, however, continued RV volume load is asso-
+ciated with an accelerated rate of progressive symptoms
+and incomplete functional recovery of RV systolic and
+diastolic function.
+RV Mechanics After TOF Repair
+Although the pathophysiology of RV remodeling in
+response to the altered hemodynamic conditions after
+TOF repair is strikingly similar to the response of the
+LV to chronic volume load, important differences exist.
+Examples include chamber geometry, myofiber architec-
+ture, chamber contraction pattern, coronary artery anat-
+omy and flow dynamic, disposition of the conduction
+system, and dependency on LV size and function [40].
+The RV comprises two distinct embryologic compo-
+nents– the sinus and the infundibulum – with a complex
+shape. The myocardium comprises a relatively thin
+compact layer and a prominent layer of trabeculations
+interspersed with deep recesses. In contrast to the LV,
+the orientation of the myofibers in the RV is more
+horizontal and contraction is predominantly from
+base-to-apex (longitudinal) with a lower degree of
+angular motion (twist). The myocardium is supplied by
+as i n g l ec o r o n a r ya r t e r yw i t hn e a r l y5 0 %o ft h ef l o w
+occurring during diastole under normal conditions as
+oppose to ~90% in the LV. The conduction system in
+t h eR Vc o m p r i s e sas i n g l ef a s c i c l ew i t hal o n gc o u r s e
+and a long delay in activation between the base and
+the distal infundibular free wall, resulting in peristalsis-
+like motion [41]. Although RV function impacts
+LV function, the reverse is much more pronounced
+with 63% of RV pressure ri se accounted for by LV
+contraction.
+After TOF repair, additional factors related to the
+operation further impact the pathophysiology. Relief of
+RV outflow obstruction typically involves incision of the
+infundibular free wall, rese ction of obstructive muscle
+bundles, disruption of the pulmonary valve with partial
+or complete excision, and placement of an outflow
+patch, which often extends across the plane of the pul-
+monary valve into the MPA. In some patients a conduit
+between the RV and the pulmonary arteries is required
+to provide antegrade pulmonary blood flow. The ventri-
+cular septal defect is closed with a patch, a procedure
+that can impair tricuspid valve function. In addition to
+the nearly universal occurrence of PR (discussed above),
+these procedures often lead to akinesis or dyskinesis of
+the RVOT, outflow patch aneu rysm (Figure 2), fibrosis
+of the RV free wall, and conduction delay [42]. Table 1
+Figure 2 Steady-state free precession cine CMR of the right
+ventricular (RV) inflow and outflow showing a large outflow
+tract patch aneurysm (An) . RA = right atrium.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 3 of 24
+[[p4]]
+summarizes the structural and functional abnormalities
+after TOF repair.
+Studies in animal models of RV volume load similar to
+conditions seen after TOF repair provide insight into
+myocardial adaptation. Kiriazis et al. studied an in-vitro
+preparation of RV papillary muscle subjected to volume
+load [43]. They showed that peak stress development
+and other markers of myocardial mechanics and energy
+were normal in a stage of compensated hypertrophy but
+reduced in uncompensated volume load. Kuehne et al.
+used CMR and conductance catheter techniques to
+investigate the effects of PR on biventricular mechanics
+in a growing swine model [19]. Compared with control
+animals, indices of RV systolic function (ejection frac-
+tion, peak dP/dt, and E
+max) were significantly reduced 3
+months after induction of PR.
+Human studies in repaired TOF patients using CMR
+provide insights regarding ventricular mechanics and
+clinical outcomes in this popu lation [10,44-47]. Several
+authors have demonstrated a close relationship between
+the degree of PR and RV diastolic dimensions and
+stroke volume (Figure 3) [48-51]. Similar to LV function
+in severe chronic aortic regurgitation, once the compen-
+satory mechanisms of the RV fail, mass-to-volume ratio
+decreases, end-systolic vo lume increases, and ejection
+fraction decreases (Figure 4). Kurotobi et al. demon-
+strated an association between an increase in RV wall
+stress (afterload), decreased RV ejection fraction, and
+symptoms in patients with repaired TOF [52]. Other
+factors that adversely affect RV mechanics include the
+spatial extent and magnitude of dyskinesis of the out-
+flow patch (Figure 5), [19,42] RV fibrosis [42,45,53],
+impaired RV diastolic function, [49,54-58] and left ven-
+tricular dysfunction [10,45,59-61]. Prolonged conduction
+time and dyssynchrony of RV contraction likely further
+contribute to RV dysfunction. An older age of repair is
+another independent risk factor for adverse outcome in
+these patients [10,13,62]. Similar to the natural history
+of severe aortic regurgitation, in which irreversible myo-
+cardial damage follows a period of reversible ventricular
+Table 1 Structural and functional abnormalities encountered in repaired TOF
+Structural Abnormalities Functional Abnormalities
+Inherent to TOF repair RV volume overload
+Partial or complete removal of pulmonary valve tissue Pulmonary regurgitation
+Infundibulotomy scar Tricuspid regurgitation
+Resection of RV/infundibular muscle bundles Left-to-right shunt
+Right atriotomy scar Ventricular septal defect
+VSD patch Atrial septal defect
+Residual or recurrent lesions Aorto-pulmonary collaterals
+RV outflow tract obstruction RV pressure overload
+Main or branch pulmonary artery stenosis RV outflow or pulmonary artery stenosis
+Ventricular septal defect Pulmonary vascular disease
+Atrial septal defect Pulmonary venous hypertension secondary to LV dysfunction
+Acquired lesions RV systolic dysfunction
+Tricuspid valve abnormalities RV diastolic dysfunction
+RV outflow tract aneurysm LV dysfunction
+RV fibrosis Ventricular conduction delay
+Associated anomalies Arrhythmias
+Dilated aorta Atrial flutter
+Associated congenital cardiovascular anomalies Atrial fibrillation
+Associated genetic and non-cardiac anomalies Ventricular tachycardia
+Co-morbidities
+Renal, pulmonary, musculoskeletal, neurodevelopmental abnormalities
+Figure 3 Correlation between pulmonary regurgitation and
+right ventricular (RV) end-diastolic volume index in 206
+patients with repaired TOF [46].
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 4 of 24
+[[p5]]
+dysfunction, evidence suggests that the same occurs late
+after TOF repair [15,63]. Figure 6 summarizes the
+pathophysiologic pathway that leads to ventricular dys-
+function and heart failure after TOF repair.
+RV-LV Interaction After TOF Repair
+The right and left ventricles function in series and, in
+the absence of shunts, have similar net outputs. In 1910
+the French physiologist Bernheim first recognized inter-
+dependence between LV and RV function. He postu-
+lated that alterations in the size and function of the LV
+adversely impact the geometry and function of the RV, a
+phenomenon termed ‘Bernheim effect ’ [64]. Many sub-
+sequent studies have demonstrated that alterations in
+the size and function of the RV lead to LV dysfunction,
+a phenomenon termed ‘reversed Bernheim effect ’ [65].
+Ventricular-ventricular interaction occurs because the
+ventricles share myofibers [66], septum, coronary blood
+Figure 4 Relationship between right ventricular end-systolic
+volume and RV ejection fraction in 100 patients with repaired
+TOF (Spearman rank correlation coefficient (r s) = -0.77; p <
+0.001) [10].
+Figure 5 Three-dimensional surface models of the right ventricular (RV) free wall reconstructed from multi-slice 2-dimensional short-
+and long-axis images . Top panel: Scar tissue map based on late gadolinium enhancement (LGE) imaging showing extensive late
+hyperenhancement of the RVOT (yellow and orange). Bottom panel: Displacement map based on multi-slice cine SSFP showing dyskinesis of the
+RVOT (red). See Wald et al. for further technical details [42].
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 5 of 24
+[[p6]]
+flow, and pericardial space. The superficial spiraling
+layer of RV myofibers is continuous with the superficial
+layer of the LV whereas the deep layer of RV myofibers
+is continuous with that of the LV through the interven-
+tricular septum.
+The adverse impact of RV dilatation and dysfunction
+on LV geometry and function (both diastolic and systolic)
+h a sb e e nd e m o n s t r a t e di np a t i e n t sw i t hc o n g e n i t a l( e . g . ,
+atrial septal defect, Ebstein anomaly) and acquired heart
+disease (e.g., pulmonary em bolus, primary pulmonary
+hypertension). Through a co mplex interplay involving
+the shared myofibers, septum, pericardium, and coronary
+flow, RV volume load leads to septal shift towards the
+LV, leftward shift of the LV pressure-volume loop, and
+reduction in LV operant volumes. Initially, LV function is
+preserved but with progressive RV dysfunction, LV func-
+tion deteriorates. Ventricular dyssynchrony, both intra-
+and inter-ventricular, likely contribute to adverse RV-LV
+interaction [60,67]. In the previously mentioned study of
+Kuehne et al. [19], the response of both the RV and LV
+to dobutamine stress was markedly blunted, suggesting
+that LV function is adversely influenced by impaired RV
+mechanics. A clinical study using CMR in patients with
+repaired TOF demonstrated a close linear correlation
+between the ejection fraction of the RV and that of the
+LV (Figure 7) [10].
+Natural History And Outcomes After Tof Repair
+Early survival of patients with TOF is excellent with
+1-2% operative mortality [68,69]. Two large cohort
+studies of patients with repaired TOF have shown that
+survival continues at ~90% during the first two
+decades of life [8,9]. However, mortality rate nearly tri-
+ples during the third postoperative decade. Numerous
+studies have shown that late after TOF repair patients
+are at risk for exercise intolerance, heart failure,
+arrhythmias, and death [10,47,70-79]. In addition, pul-
+monary, renal, hepatic, musculoskeletal, and other
+non-cardiac morbidities of ten complicate the clinical
+course of these patients [47].
+The common theme that has emerged from the litera-
+ture on risk stratification of major adverse events (death,
+ventricular tachycardia, and heart failure) late after TOF
+repair is that there are 3 major categories of outcome
+Y?PH??GK????HZ
+2) electrophysiological markers (prolonged QRS dura-
+tion, sustained ventricular tachycardia); and 3) hemody-
+namic sequelae of severe PR (RV dilatation, ventricular
+dysfunction, and regional wall motion abnormalities).
+Multiple studies have addressed risk factors for sud-
+den death and for tachyarrhythmias late after TOF
+repair. Gatzoulis et al. studied 793 patients from 6 cen-
+ters [80]. They found that an older age at repair and
+QRS duration ≥180 ms were independent predictors of
+sudden death. Moderate or severe PR was the main
+hemodynamic abnormality in patients with ventricular
+tachycardia and sudden death, whereas tricuspid regur-
+gitation was associated with supraventricular arrhyth-
+mias. Khairy et al., in a multicenter study of 252
+patients with repaired TOF, found that a positive pro-
+grammed ventricular stimul ation study, history of syn-
+cope, moderate or severe pulmonary or tricuspid
+regurgitation, QRS duration ≥180 ms, cardiomegaly on
+chest radiogram (cardio-thoracic ratio ≥0.6), and multi-
+focal premature ventricular contractions were associated
+with sudden death or clinical ventricular tachycardia
+[79]. Harrison et al. found that patients with sustained
+Figure 6 Factors influencing right ventricular (RV) dysfunction
+and impaired clinical status after TOF repair .
+Figure 7 Association between right ventricular (RV) and left
+ventricular (LV) ejection fraction (EF) in 100 patients with
+repaired TOF [10].
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 6 of 24
+[[p7]]
+ventricular tachycardia were more likely to have RVOT
+aneurysms and severe PR [81]. Ghai et al., in a study
+that compared 12 adult patients who died late after
+TOF repair to 125 control patients, found that patients
+w h od i e dw e r em o r el i k e l yt oh a v eh i s t o r yo fs u s t a i n e d
+ventricular tachycardia, prolonged QRS duration ≥180
+ms, moderate or severe PR, and moderate or severe left
+ventricular dysfunction [59]. It is worth noting that
+in none of these studies was RV size or function
+quantified.
+In a study that used CMR to measure PR and biven-
+tricular dimensions and function in 100 late survivors of
+TOF repair, RV and LV dysfunction were strongly asso-
+ciated with impaired clinical status, but the degree of PR
+w a sn o t[ 1 0 ] .I n s t e a d ,t h es e v e r i t yo fP Rw a sm a i n l y
+related to the degree of RV enlargement, a finding that
+concurs with other studies that utilized CMR to assess
+these variables [49,82]. Knauth et al., in a follow-up
+study of the previous cohort, found that severe RV dila-
+tation (end-diastolic volume Z-score ≥7m e a s u r e db y
+CMR) and ventricular dysfunction (LV EF <55% or RV
+EF <45%) were independent predictors of adverse out-
+comes (death, sustained ventricular tachycardia, heart
+failure) [47]. Other univariate predictors were older age
+at TOF repair and QRS duration ≥180 ms. Importantly,
+QRS duration correlated closely with RV end-diastolic
+volume and, therefore, lost statistical significance in a
+multivariate model. Other investigators have also
+reported a similarly close association between QRS
+duration and RV size [83,84]. Myocardial fibrosis,
+RVOT aneurysm, and regional wall motion abnormal-
+ities have also been associated with symptoms, exercise
+intolerance, and arrhythmias [42,45,53,85].
+Treatment Strategies Late After Tof Repair
+Indications and Timing of Pulmonary Valve Replacement
+Recommendation for PVR in patients with repaired
+TOF and severe PR are based on risk/benefit analy-
+sis that takes into account the natural history and
+pathophysiology of the disease, procedural risks, and its
+potential benefits.
+Risks of Pulmonary Valve Replacement
+The operative mortality for surgical PVR is low
+G?s????Q?H?Ms??????K???????K??????????????
+death after PVR. Therrien et al. reported 92% survival at
+5 years and 86% at 10 years in 70 adult patients after
+PVR [86]. Discigil et al. reported 95% survival at 5 years
+and 76% at 10 years in 42 patients [87]. Harrild et al.
+?XW???ouq?G??ouq?QT?±
+13 years). Freedom from death and/or ventricular tachy-
+cardia was 80% at 5 years and 41% at 10 years, and the
+event incidence was 4.8 per 100 patient-years [88].
+When considering the risks associated with PVR, the
+risk of valve failure should also be considered. All
+Table 2 Perioperative and late mortality of pulmonary valve replacement after TOF repair
+Institution Year Number of
+Patients
+Operative
+Death
+Average Length
+of Follow-Up
+(years)
+Late Death
+or
+transplant
+SUNY, Syracuse [142] 1985 11 0 1 0
+Children’s Memorial Hospital,
+Chicago [143]
+1997 49 1
+University of Toronto [101] 1997 85 1 5.8 3
+Mayo Clinic [87] 2001 42 1
+Children’s Hospital, Atlanta [144] 2002 100 1 4.9 1
+Leiden University, The Netherlands
+[97]
+2002 26 0 1.5 1
+New England Med Center, Boston
+[105]
+2003 36 0 5 1
+University of Zurich, Switzerland
+[100]
+2005 39 0 1.25 0
+Multicenter, The Netherlands [145] 2006 158 0 4.2 2
+University of Toronto [99] 2007 82 0 8.8 2
+University Medical Center,
+Rotterdam [14]
+2008 17 0 6.4 0
+International Society of Congenital
+Heart Disease [107]
+2008 93 0 3 2
+Great Ormond Street, London[94] 2008 71 0 1 0
+Emory University [146] 2009 107 3
+Children’s Hospital Boston [88] 2009 77 0 2.8 6
+Children’s Hospital, Atlanta [147] 2010 42 0 2.2 0
+1035 0.68% 2.2%
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 7 of 24
+[[p8]]
+valves inserted in the pulmonary position have a lim-
+ited life expectancy, with wide variations in rates of
+freedom from valve failure and reoperation, depending
+of the type of valve and patient age. Calderone et al.
+reported freedom from reoperation in 81% of patients
+at 5 years, 58% at 10 years, and 41% at 15 years [89].
+These authors, as well as many others, have shown
+that young age at pulmonary valve placement is asso-
+ciated with a higher rate of valve failure and early
+reoperation.
+The advent of transcatheter pulmonary valve implan-
+tation [90,91], however, may provide a new non-surgical
+option for the treatment of failed bioprosthetic pulmon-
+ary valve. Although the currently available catheter-
+delivered, stent-mounted valves are limited by the size
+and geometry of the RVOT to mostly patients with
+RV-to-pulmonary artery conduits, future developments
+will likely expand the clinical application of this techni-
+que to patients with dilated RVOT. Even with currently
+available technology, cath eter-based pulmonary valve
+implantation can be performed inside a failing biopros-
+thetic valve or conduit [92]. Further development of this
+technology may reduce the need for reoperation after
+pulmonary valve implantati on and will likely lower the
+threshold for restoring pul monary valve competency in
+patients with chronic PR.
+Benefits of Pulmonary Valve Replacement
+There is strong evidence that PVR is highly effective in
+eliminating or greatly reducing PR [93-95]. Multiple stu-
+dies published during the past decade have painted a
+consistent picture regarding the clinical response and
+the mechanical adaptation of the right and left ventricles
+to PVR [96]. Table 3 summarizes findings from 10
+representative studies. Clinically, many patients report
+less cardiac symptoms after PVR and several studies
+have reported a significant improvement in NYHA func-
+tional class [15,93-95,97-99]. Within approximately one
+year after PVR RV end-diastolic and end-systolic
+volumes decrease by 30-40% as compared with their
+preoperative values. On average, global RV systolic func-
+tion (measured as ejection fraction) remains unchanged.
+LV end-diastolic volume increases slightly whereas
+global LV systolic function remains unchanged
+[15,16,63,86,87,95,100-103]. The degree of tricuspid
+valve regurgitation (evaluated by Doppler echocardiogra-
+phy) tends to improve with or without concomitant tri-
+cuspid valve surgery. The percent of patients with at
+least moderate tricuspid regurgitation decreased from
+25% before PVR to 5% after surgery in the study of Bue-
+chel et al. [16], from 24% to 0% in the study of Therrien
+et al. [15], and from 13% to 2% in the study of Geva
+et al [95].
+The data regarding the effects of PVR on QRS dura-
+tion, arrhythmia propensity, and objective exercise
+parameters is inconsistent. Some investigators have
+reported modest improvements in one or more of these
+categories whereas others have shown no significant
+change from pre- to post-PVR. Therrien et al. reported
+that the incidence of ventricular tachycardia was lower
+after PVR (9% post operatively versus 23% preopera-
+tively) and that the rate of increase in QRS duration had
+stabilized after the procedur e [86]. In contrast, Harrild
+et al. and Gengsakul et al. found no significant improve-
+ment in the frequency of arrhythmias after PVR [88,99].
+Similarly conflicting results have been reported regard-
+ing decrease in QRS duration from pre- to post-PVR
+[16,84,88, 95,104]. Finally, w hereas some investigators
+have reported that certain indices of exercise tolerance
+improve [94,102,105], others have not found such
+improvement [95,106].
+Rationale and Timing of Pulmonary Valve Replacement
+Although conclusive confirmation that PVR improves
+survival late after TOF repa ir is still lacking, a growing
+b o d yo fe v i d e n c eh a se m e r g e dd u r i n gt h el a s td e c a d e
+supporting the rationale fo r the procedure. There is
+strong evidence that without intervention severe PR in
+repaired TOF leads to severe RV dilatation and dysfunc-
+tion, tricuspid valve regur gitation, LV dysfunction,
+tachyarrhythmias, diminished exercise tolerance,
+??K???G`??PH
+[8-10,59,80]. As discussed above, PVR leads to elimina-
+tion or marked reduction of PR, improved biventricular
+mechanics, improvement in tricuspid regurgitation, and
+symptomatic improvement. For many years most centers
+have referred patients with severe chronic PR for PVR
+based on overt symptoms, such as progressive exercise
+intolerance, heart failure symptoms, syncope, or ventri-
+cular tachycardia [17,63,88,107]. Recent evidence clearly
+demonstrates that relying on symptoms as the major
+criteria for PVR results in p atients receiving a pulmon-
+ary valve when their RV is markedly dilated (mean RV
+L??QOP?±?RV?N
+2 in one study [95]),
+and RV and/or LV dysfunction is present (Figure 8).
+Several studies have identified pre-PVR threshold values
+of RV end-diastolic and end-systolic volumes that are
+associated with postoperative normalization of RV size.
+Therrien et al. reported that RV size did not return to
+normal in any of the 7 patients whose pre-operative
+end-diastolic volume index was >170 ml/m
+2,w h e r e a s
+RV size normalized in 9 of 10 patients with pre-opera-
+tive end-diastolic volume ≤170 ml/m 2 [15]. Oosterhof
+et al. identified RV end-diastolic volume <160 ml/m 2
+and end-systolic volume <82 ml/m 2 as associated with
+normal postoperative RV size [93]. Buechel et al. identi-
+fied RV end-diastolic volume <150 ml/m 2 as the thresh-
+old value below which RV size returns to the normal
+range after PVR [16]. Frigiola et al. have adopted an
+institutional policy of recommending PVR in
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 8 of 24
+[[p9]]
+Table 3 Effects of pulmonary valve replacement on ventricular mechanics, QRS duration, peak oxygen consumption, and functional class
+PR (%) RVEDVi
+(ml/m2)
+RVESVi
+(ml/m2)
+RV EF (%) LVEDVi
+(ml/m2)
+LV EF (%) QRS duration
+(ms)
+Peak O 2
+consumption
+(ml/kg/min)
+NYHA class
+Before After Before After Before After Before After Before After Before After Before After Before After Before After
+Vliegen et al. [97]
+N=2 6
+Age: 29 ± 9 years
+46 ±
+10
+4±
+8
+167 ±
+40
+114 ±
+35
+99 ± 36 66 ±
+35
+42 ±
+10
+42 ±
+11
+86 ±
+29
+87 ±
+17
+2.0 ± 0.6 1.3 ± 0.5
+Therrien et al. [15]
+N=1 7
+Age: 32 years
+163 ±
+34
+107 ±
+26
+109 ±
+27
+69 ±
+22
+32 ± 7 34 ±
+10
+2.0 ± 1.0 1.4 ± 0.5
+van Straten et al.
+[148]
+N=1 6
+Age: 29 years
+48 ±
+10
+3±
+5
+164 ±
+43
+113 ±
+26
+94 ± 33 61 ±
+18
+44 ± 8 47 ±
+12
+Doughan et al. [84]
+N=2 1
+Age: 34 ± 9 years
+153 ± 34 142 ± 29
+Buechel et al. [16]
+N=2 0
+Age: 14 ± 3 years
+49 ±
+14
+9±
+8
+190 ±
+33
+109 ±
+26
+102 ±
+27
+58 ±
+16
+47 ± 7 45 ± 9 77 ±
+10
+84 ±
+12
+53 ± 6 56 ±
+7
+150 ± 18 148 ± 17
+Henkens et al. [98]
+N=2 7
+Age: 31 ± 8 years
+48 ±
+11
+166 100 98 58 42 ±
+10
+43 ±
+10
+89 ±
+31
+87 ±
+18
+56 ±
+12
+55 ±
+9
+2.0 ± 0.6 1.3 ± 0.3
+Oosterhof et al.
+[93]
+N=7 1
+Age: 29 years
+44 ±
+13
+5±
+9
+171
+±
+44
+119 ±
+34
+102 ±
+38
+70 ±
+29
+42 ±
+10
+43 ±
+10
+85 ±
+22
+94 ±
+20
+52 ± 9 53 ±
+8
+155 ± 29 144 ± 29 53% grade
+≥II
+11% grade
+≥II
+Gengsakul et al.
+[99]
+N=8 2
+Age: 28 ± 13 years
+164 ± 21 168 ± 21 54% grade
+≥II
+13% grade
+≥II
+Frigiola et al. [94]
+N=7 1
+Age 22 ± 11 years
+41 ± 9 5 ±
+7
+142 ±
+43
+91 ± 18 73 ± 33 43 ±
+14
+51 ±
+10
+54 ± 7 66 ±
+12
+73 ±
+13
+61 ± 8 64 ±
+7
+QT?±?PO?QT?±?X?QMO?PMO
+Geva et al. [95]
+N=6 4
+Age: 21 years
+49 ±
+11
+5±
+9
+201 ±
+RV
+123 ±
+QT
+107 ±
+29
+68 ±
+24
+47 ± 8 45 ± 9 89 ±
+15
+94 ±
+17
+58 ± 8 57 ±
+7
+154 (82-
+200)
+150 (80-
+202)
+26.5 (8-
+47)
+27 (10-
+48)
+47% grade
+≥II
+8% grade
+≥II
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 9 of 24
+[[p10]]
+asymptomatic patients based on RV dilatation (RV/LV
+ratio >2) and abnormal exercise test results [94]. With
+an average preoperative RV end-diastolic volume of
+142 ± 43 ml/m
+2,R Ve n d - s y s t o l i cv o l u m eo f9 1±1 8
+ml/m2, and RV ejection fraction 47 ± 8%, RV size and
+function was, on average, within normal limits one year
+after PVR. The authors, therefore, recommend PVR
+before RV end-diastolic volume exceeds 150 ml/m 2.
+We analyzed pre-PVR predictors of normal post-PVR
+RV size (end-diastolic volume index ≤114 ml/m
+2)a n d
+function (ejection fraction ≥48%) in 64 patients with
+severe chronic PR [95]. Inde pendent predictors of nor-
+mal RV size and function were pre-operative RV end-
+systolic volume index <90 ml/m
+2 and QRS duration
+<140 ms.
+Thus, the timing and indications for PVR after TOF
+repair must balance the benefits of elimination
+of RV volume load before irreversible dysfunction
+occurs and the disadvantages of a premature surgical
+or transcatheter procedure. As with any other medical
+procedure, the risks and benefits of the procedure
+must be weighed on a case-by-case basis, taking into
+account not only cardiac risk factors but also the risks
+associated with non-cardiac morbidities. With the
+above considerations in mind, the following sum-
+marizes the author ’s current recommendations for
+PVR in patients with repaired TOF or similar physiol-
+ogy. These recommendations will undoubtedly con-
+tinue to evolve as new information becomes available
+and as valve technology and implantation methods
+continue to improve.
+Indications for Pulmonary Valve Replacement
+Indications for PVR in patients with repaired TOF or
+s i m i l a rp h y s i o l o g yw i t hm o d e r a t eo rs e v e r ep u l m o n a r y
+regurgitation (regurgitation fraction ≥25%):
+I. Asymptomatic patient with two or more of the fol-
+lowing criteria a. RV end-diastolic volume index
+>150 ml/m
+2 or Z-score >4. In patients whose body
+surface area falls outside published normal data:
+RV/LV end-diastolic volume ratio >2
+b. RV end-systolic volume index >80 ml/m
+2
+c. RV ejection fraction <47%
+d. LV ejection fraction <55%
+e. Large RVOT aneurysm
+f. QRS duration >140 ms
+g. Sustained tachyarrhythmia related to right heart
+volume load
+h. Other hemodynamically significant abnormalities:
+○ RVOT obstruction with RV systolic pressure
+≥2/3 systemic
+○ Severe branch pulmonary artery stenosis (<30%
+flow to affected lung) not amenable to transcath-
+eter therapy
+○ ≥ Moderate tricuspid regurgitation
+○ L e f t - t o - r i g h ts h u n tf r o mr e s i d u a la t r i a lo r
+ventricular septal defects with pulmonary-to-
+systemic flow ratio ≥ 1.5
+○ Severe aortic regurgitation
+○ Severe aortic dilatation (diameter ≥5 cm)
+II. Symptomatic Patients Symptoms and signs attribu-
+table to severe RV volume load documented by CMR or
+alternative imaging modality, fulfilling ≥1o ft h eq u a n t i -
+tative criteria detailed above. Examples of symptoms
+and signs include
+a. Exercise intolerance not explained by extra-cardiac
+causes (e.g., lung disease, musculoskeletal anomalies,
+genetic anomalies, obesity), with documentation by
+exercise testing with metabolic cart ( ≤70% predicted
+peak VO
+2 for age and gender not explained by
+chronotropic incompetence)
+b. Signs and symptoms of heart failure (e.g., dyspnea
+with mild effort or at rest not explained by extra-
+cardiac causes, peripheral edema)
+c. Syncope attributable to arrhythmia
+III. Special considerations a. Due to higher risk of
+adverse clinical outcomes in patients who underwent
+TOF repair at age ≥3 years [10], PVR may be consid-
+ered if fulfill ≥1 of the quantitative criteria in section I
+b. Women with severe PR and RV dilatation and/or
+dysfunction may be at risk for pregnancy-related
+complications [108]. Although no evidence is avail-
+able to support benefit from pre-pregnancy PVR, the
+procedure may be considered if fulfilling ≥1o ft h e
+quantitative criteria in section I
+Role of CMR
+Because it is not limited by acoustic window, not asso-
+ciated with exposure to ionizi ng radiation, and is nonin-
+vasive, CMR is ideally suited for longitudinal follow-up in
+patients with repaired TOF [109]. Since it provides accu-
+rate quantitative informatio no nb i v e n t r i c u l a rs i z ea n d
+function, blood flow measurements, myocardial viability,
+and cardiovascular anatomy, in many centers CMR has
+become the preferred method of noninvasive imaging in
+patients with repaired TOF [10,45,50,54,97,110-113]. At
+Children ’s Hospital Boston, postoperative TOF is the
+most common diagnosis in patients referred for CMR,
+accounting for ~23% of patients. However, comprehen-
+sive assessment of the patient with repaired TOF requires
+integration of information from clinical assessment
+(detailed history and physica l examination) and labora-
+tory investigations (ECG, Holter monitor, exercise test,
+and echocardiography). Computed tomography and
+radionuclear studies can be used when CMR is contrain-
+dicated or not available. Card iac catheterization (with or
+without electrophysiological testing) is indicated in
+selected patients [17,95,114].
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 10 of 24
+[[p11]]
+Goals of CMR
+The goals of CMR in patients with repaired TOF
+include:
+ Quantitative assessment of left and right ventricu-
+lar volumes, mass, stroke volumes, and ejection
+fraction.
+ Evaluation of regional wall motion abnormalities.
+ Imaging the anatomy of the right ventricular
+outflow tract, pulmonary arteries, aorta, and aorto-
+pulmonary collaterals.
+ Quantification of PR, tricuspid regurgitation,
+cardiac output, and pulmonary-to-systemic flow
+ratio.
+ Assessment of myocardial viability with particular
+attention to scar tissue in the ventricular myocar-
+dium aside from sites of previous surgery (e.g.,
+ventricular septal defect and RVOT patches).
+Study Protocol
+ The importance of careful attention to details of
+patient preparation and placement in the scanner
+cannot be overemphasized. Optimal placement of
+ECG leads is paramount to quality gating. A per-
+ipheral intravenous cannula for injection of gadoli-
+nium-based contrast is placed in the following
+circumstances:
+PM?e?blq?
+2. >3 years since last late gadolinium enhance-
+ment (LGE) evaluation
+3. Deterioration in clinical status
+4. Regional or global ventricular function has
+worsened
+Exceptions are made in young patients when place-
+ment of an intravenous cannula might result in loss of
+patient cooperation.
+Imaging protocol
+ Localizing images : ECG-gated steady-state free
+precession (SSFP) localizing imaging in the axial,
+coronal, and sagittal planes followed by real-time
+interactive sequences for identification of key ima-
+ging planes and structures targeted for additional
+sequences (e.g., ventricular long- and short-axis
+planes, short-axis of the proximal MPA for subse-
+quent measurements of PR).
+e?W?blq????RV?L????sneK???K???
+(arrow), and severe right ventricular dilatation (end-diastolic volume index 386 ml/m 2) and dysfunction (ejection fraction 15%) . This
+patient who also exhibited severe heart failure symptoms had only modest decrease in RV size and no improvement in RV function after
+pulmonary valve replacement.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 11 of 24
+[[p12]]
+ ECG-triggered, breath-hold cine SSFP in the fol-
+lowing planes:
+▪ LV 2-chamber (Figure 9)
+▪ RV 2-chamber (Figure 10)
+▪ 4-chamber (4 slices) (Figure 11)
+▪ Ventricular short-axis (Figure 12). The latter
+is achieved by prescribing 12-14 equidistant slices
+(slice thickness 6-8 mm; inter-slice space 0-2 mm)
+covering the entire length of both ventricles. Parti-
+cular attention is given to inclusion of the base of
+the RV and LV at end-diastole with addition of
+extra slices as needed for complete coverage.
+▪ Oblique sagittal parallel to the RVOT and
+proximal MPA (Figure 13, Additional file 2).
+▪ Parallel to the left ventricular outflow (LV
+3-chamber view).
+▪ Axial plane for imaging of the outflow tracts
+and branch pulmonary arteries (all first studies,
+optional thereafter).
+Representative imaging parameters: echo time 1.7 ms;
+repetition time 3.3 ms; flip angle 60°; sensitivity encod-
+ing (SENSE) acceleration factor 2; field of view 260 mm;
+matrix 160 × 160 reconstructed to 256 × 256; voxel size
+1 . 6×1 . 8×6 - 8m mr e c o n s t r u c t e dt o1 . 0×1 . 0×6 - 8
+mm; 30 reconstructed images per cardiac cycle.
+ Magnetic resonance angiogram (MRA) :N o n -
+gated, breath-hold gadolinium-enhanced (0.2 mmol/
+kg gadopentetate dimeglumine) 3-dimensional MRA
+(all first studies, optional thereafter) (Figure 14).
+Representative imaging parameters: echo time 1.5
+ms; repetition time 4.5 ms; flip angle 40°; voxel size
+0.95 × 1.06 × 2.4 mm reconstructed to 0.68 × 0.69 ×
+1.2 mm; number of acquisitions 2; SENSE accelera-
+tion factor 2; and acquisition time 20 s/acquisition.
+Figure 10 Evaluation of ventricular size and function by
+ECG-gated cine SSFP MR in repaired TOF: Right ventricular
+2-chamber (vertical long-axis) plane . RA = right atrium; RV =
+right ventricle; RVOT = right ventricular outflow tract.
+Figure 9 Evaluation of ventricular size and function by
+ECG-gated cine SSFP MR in repaired TOF: Left ventricular
+2-chamber (vertical long-axis) plane .
+Figure 11 Evaluation of biventricular size and function by ECG-
+gated cine SSFP MR in repaired TOF: 4-chamber (horizontal long-
+axis) plane.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 12 of 24
+[[p13]]
+Figure 12 Evaluation of biventricular size and function by ECG-gated cine SSFP MR in repaired TOF: Ventricular short-axis. Note that
+16 short-axis slices were required to fully cover the markedly dilated RV in this patient .
+Figure 13 Evaluation of the right ventricular outflow tract
+(RVOT) long-axis by ECG-gated cine SSFP MR . Along with the RV
+2-chamber plane (Figure 10), this view demonstrates patency of the
+RVOT and main pulmonary artery, presence or absence of
+pulmonary valve tissue, and wall motion abnormalities.
+Figure 14 Gadolinium-enhanced 3-dimensional magnetic
+resonance angiography in a patient with repair TOF and a
+giant aneurysm of the outflow patch .
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 13 of 24
+[[p14]]
+ Flow measurements : ECG-triggered, breathe-
+through cine phase contrast flow measurements
+in the MPA (Figures 15, 16, 17, Additional file 3),
+aorta ,a n d atrioventricular valves . Representative
+imaging parameters: echo time 3.7 ms; repetition
+time 5.9 ms; flip angle 15°; SENSE factor 2; field of
+view 300 mm; matrix 192 × 192; voxel size 1.56 ×
+1.56 × 6.0 mm reconstructed to 1.17 × 1.17 × 6.0
+mm; 40 reconstructed images per cardiac cycle.
+ Late gadolinium enhancement (LGE) :E C G -
+triggered, breath-hold, phase sensitive LGE imaging
+performed 10-20 minutes after contrast administra-
+tion in the following planes: ventricular short-axis
+(Figure 18), LV 2-chamber, LV 3-chamber, RV
+2-chamber, and 4-chamber. Areas suspected of LGE
+(e.g., the thin walled RVOT free wall) are imaged in
+orthogonal planes and wit h phase direction swapped
+to facilitate recognition of artifacts.
+In addition to the above, the following imaging
+sequences are performed on a case-by-case basis:
+ ECG-triggered, breath-hold cine SSFP in the short-
+axis of the aortic root and ascending aorta (in
+patients with dilated aortic root and ascending aorta).
+ ECG-triggered, breath-hold turbo (fast) spin echo
+sequence with blood suppression for imaging of
+the outflow tracts and branch pulmonary arteries
+in patients with image artifacts from metallic
+implants.  ECG-triggered, breathe-through cine phase con-
+trast flow measurements in the branch pulmonary
+arteries (when branch pulmonary artery stenosis is
+identified).
+Figure 15 Evaluation of pulmonary regurgitation (PR)
+by ECG-gated cine phase contrast MR: The imaging plane is
+placed perpendicular to the long-axis of the main pulmonary
+artery (MPA) .
+Figure 16 Evaluation of pulmonary regurgitation (PR) by
+ECG-gated cine phase contrast MR: Color-coded flow map of
+the main pulmonary artery with the region of interest contour
+shown at peak systole .
+Figure 17 Evaluation of pulmonary regurgitation (PR) by ECG-
+gated cine phase contrast MR: MPA flow rate (Y-axis) versus time
+(X-axis). Flow above the baseline represents antegrade flow and
+flow below the baseline represents retrograde (regurgitation) flow.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 14 of 24
+[[p15]]
+ ECG-triggered, respirator y navigated, free breath-
+ing 3-dimensional isotropic SSFP for evaluation of
+the coronary arteries or as a substitute for contrast
+magnetic resonance angiography.
+In a cooperative patient the above protocol is typically
+completed in 65-70 minutes.
+Report Template
+The importance of a structured report with an organized,
+comprehensive structure that addresses all key elements
+pertinent to clinical decision-making cannot be overem-
+phasized. Key data reporting elements include:
+ Anatomy of the RVOT and main and branch pul-
+monary arteries with emphasis on obstruction and/
+or dilatation or aneurysm formation.
+ Biventricular size and function (global and
+regional).
+ Vessel dimensions: aortic root, ascending aorta,
+MPA, right and left pulmonary arteries; if abnormal
+(e.g., tricuspid regurgi tation), diameters of the
+atrioventricular valve.
+ Flow measurements:
+▪ Ascending aorta, MPA, right and left pulmon-
+ary arteries
+▪ Pulmonary valve regurgitation
+▪ Other valve regurgitation
+ Late gadolinium enhanceme nt: presence, location,
+and extent.
+ Associated anomalies: systemic and pulmonary
+veins, aortic arch sidedness and branching order.
+An example of CMR report in a hypothetical patient
+with repaired TOF is available in Additional File 4.
+Offline analysis
+Quantification of right and left ventricular size and func-
+tion and blood flow is performed using dedicated software
+available either from the manufacturers of MRI equip-
+ment or from third party vendors. Measurements of
+biventricular diastolic and systolic volumes and mass are
+performed on ECG-gated cine SSFP images, which pro-
+vide a high contrast between the blood pool (T2/T1 =
+360/1200 = 0.3) and the myocardium (T2/T1 = 75/880 =
+0.085) [115]. Accurate deter mination of ventricular
+volume requires clear depiction of the blood-myocardial
+boundary. Adjustments of the image brightness and con-
+trast on the computer screen can facilitate visualization of
+that boundary. By tracing the blood-endocardium bound-
+ary, the slice ’s blood pool volume is calculated as the pro-
+duct of its cross-sectional area and thickness (which is
+prescribed by the operator) (Figure 19). The left ventricu-
+lar papillary muscles and the major trabeculations of the
+RV (e.g., septal band) are excluded from the blood pool
+and are considered part of the myocardium (Figure 19)
+[46,116]. Ventricular volume is then determined by sum-
+mation of the volumes of all slices. The process can be
+repeated for each frame in the cardiac cycle to obtain a
+continuous time-volume loop or may be performed only
+on end-diastolic (maximal area) and end-systolic (minimal
+area) frames to calculate diast olic and systolic volumes.
+From this data one can calculate left and right ventricular
+stroke volumes and ejection fractions. Since the patient ’s
+heart rate at the time of image acquisition is known, one
+can calculate left and right ventricular outputs. Ventricular
+mass is calculated by tracing the epicardial borders and
+calculating the epicardial volume, subtracting the endocar-
+dial volume, and multiplying the resultant muscle volume
+by the specific gravity of the myocardium (1.05 g/mm
+3).
+Several approaches to measur ements of biventricular
+size and function have been reported. In general, these
+????Q??Y?PH??
+rely on summation of discs (Simpson ’s principle) [117];
+and 2) methods that rely on modeling the chamber or
+extrapolation of sparse data [118-120]. In the first
+category each of the slices covering the ventricles is
+contoured at least once at end-diastole (largest volume)
+and at end-systole (smalles t volume), requiring tracing
+72 contours for biventricular volumes and mass. Some
+Figure 18 Late gadolinium enhancement imaging in the
+ventricular short-axis showing intense late hyperenhancement in
+the RVOT (white arrow) and weak hyperenhancement in the
+superior and inferior junctions between the interventricular septum
+and the free wall (yellow arrows). The former represents scar tissue
+and is associated with regional wall motion abnormalities. The latter
+is a commonly observed finding in patients with repaired TOF and
+its clinical importance is uncertain [42,85].
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 15 of 24
+[[p16]]
+groups have advocated the use of images obtained in
+axial or oblique long-axis planes [121,122]. The major
+advantage of this approach, as compared with analysis
+based on short-axis images, is the ease of determining
+the planes of the mitral, tricuspid, and pulmonary
+valves. This advantage is likely responsible for the
+slightly higher reproducib ility of measurements using
+older software [122]. However, this approach limits eva-
+luation of ventricular mass because the epicardial and
+endocardial borders of the diaphragmatic wall are not
+clearly defined. Recent development of techniques that
+incorporate cross-references between long- and short-
+axis images has greatly reduced the difficulty in deter-
+mining valve plane on short-axis images (Figure 19)
+[123]. Moreover, most reports on normal values as well
+as the majority of the literature on ventricular size and
+function in repaired TOF and other congenital and
+acquired anomalies is based on analysis of short-axis
+images [116,124,125].
+In the second category either a formula based on a
+geometrical model or extrapolation from sparse data are
+used to generate ventricula r volumes [118-120]. The
+major advantage of this approach is shorter analysis
+time but it is disadvantaged by reduced accuracy.
+In our center ventricular volumes and mass are
+measured from short-axis cine SSFP images [46]. Cross-
+referencing the short-axis images with left and right
+ventricular 2-chamber (vertical long-axis) and 4-
+chamber (horizontal long-axis) cine SSFP facilitates
+accurate determination of the atrioventricular and semi-
+lunar valves planes during systole and diastole [123]. In
+patients with repaired TOF particular attention should
+be paid when determining the end-diastolic and end-
+systolic phases of each ventricle. Given that conduction
+delay is nearly universal in this population, peak RV
+contraction typically lags after that of the LV by 1-3
+cardiac phases (Figure 20). To optimize interstudy
+reproducibility in patients followed longitudinally,
+contours should be compared side-by-side with those
+from previous studies. Saving the contour files along
+with previous studies facilit ates this comparison. On
+average, total analysis time is ~30 minutes and decreases
+with operator experience [123].
+The technique for measuring blood flow is well estab-
+lished [109]. PR fraction is calculated as retrograde flow
+volume divided by antegrade flow volume in the proxi-
+mal MPA using ECG-gated, free-breathing cine phase
+contrast sequence obtained in the short-axis of the
+proximal MPA (Figure 15 and 16) [46]. The operator
+should adjust the imaging plane to avoid impingement
+on the MPA by metallic artifacts from sternal wires and
+implants. In addition to the PR fraction, both the ante-
+grade and retrograde flow volumes should be reported
+[126]. In the absence of a residual shunt, the net flow in
+the MPA and ascending aorta should be nearly identical.
+Similarly, in the absence of important tricuspid, mitral
+or aortic valve regurgitation or shunt, left and right ven-
+tricular stroke volume differential is primarily affected
+by PR and calculation of PR fraction by the 2 methods
+should be similar. In 15-20% of patients with repaired
+TOF, however, residual shunt(s) and tricuspid and/or
+aortic valve regurgitation are present, thus limiting the
+use of these comparisons [95].
+Figure 19 CMR assessment of biventricular volumes and mass
+in repaired TOF . Cross-referencing between ventricular long- and
+short-axis imaging planes aids determining inclusion of basal slices
+in the ventricular volume analysis. When an operator selects a frame
+on the short-axis grid, that location is highlighted on the linked
+horizontal and vertical long axis images, allowing the operator to
+determine the location of the slab relative to the atrioventricular
+valves. Right lower panel: Examples of contour drawings on the left
+and right ventricular endocardial and epicardial boundaries at the
+base, mid-ventricular, and apical levels.
+Figure 20 Plot of left and right ventricular volumes versus
+time throughout the cardiac cycle in a patient with repaired
+TOF. Note that minimal RV volume occurs 70 ms (2 cardiac phases)
+after minimal LV volume.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 16 of 24
+[[p17]]
+Reproducibility of CMR Measurements
+Most studies on the reproducibility of volumetric mea-
+surements by CMR have focused on the LV and those
+that included RV measurements were based on healthy
+volunteers or patients with acquired heart disease
+[124,127]. Few studies have addressed reproducibility of
+volumetric measurements by CMR in patients with
+repaired TOF [119,123,128]. Extrapolation of data from
+healthy volunteers or from adults with acquired heart
+disease to this group of patients may not be applicable
+because the RV is typically dilated and hypertrophied,
+the apical trabeculations are extensive, chamber geome-
+try is abnormal with a prominent subtricuspid protru-
+sion (the “shoulder ” of the RV), the outflow patch is
+dyskinetic, the plane of the pulmonary valve can be
+unclear, and metallic artif acts from sternal wires or
+other implants can obscure parts of the chamber.
+Mooij et al. analyzed the intra- and inter-observer
+variability of RV and LV size and function in 60
+patients– 20 with a normal RV, 20 with ASD or partially
+anomalous pulmonary veno us connection, and 20 with
+repaired TOF [123]. In patients with repaired TOF
+intraclass correlations were 0.966 for RV end-diastolic
+volume, 0.932 for RV end-systolic volume, 0.817 for RV
+ejection fraction, and 0.831 for RV mass. Theses results
+are in agreement with those of Grothues et al. and Hud-
+smith et al. [124,129]. Bland-Altman analyses showed no
+systematic error in measurements related to the absolute
+value of the measures. The reproducibility of the mea-
+surements in patients with repaired TOF was not signifi-
+cantly different from that in patients with normal RV or
+with atrial septal defect. Moreover, the reproducibility of
+most RV measurements did not differ significantly from
+that of LV measurements. In practical terms, a differ-
+ence of more than 34 ml/m2 (or 24%) was less than 5%
+likely to be explained by interobserver variability.
+CMR in Clinical Decision Making
+CMR supports clinical decision making in patients with
+repaired TOF by providing comprehensive anatomic and
+functional information on pos toperative cardiovascular
+abnormalities. Especially im portant in these patients is
+quantitative information on RV size, global and regional
+RV function, LV size and function, myocardial scar,
+RVOT aneurysm or obstruction, valve regurgitation
+(especially helpful when quantified), residual intracardiac
+shunts, and anatomic abnormalities of the pulmonary
+arteries and aorta. CMR is increasingly being incorpo-
+rated into clinical surveillance protocols once patients
+with repaired TOF reach adolescence [109]. The combi-
+nation of deteriorating ech ocardiographic windows,
+nearly universal ability to tolerate the CMR examination
+without sedation, and the comprehensive nature of the
+CMR data has contributed to its broad acceptance in this
+patient group. In addition to identifying anatomic and
+functional abnormalities (Table 1), CMR ’s ability to
+quantify chamber size and function and measure blood
+flow is especially helpful in clinical decision-making. For
+example, CMR can identify and characterize branch pul-
+monary artery stenosis (location, diameters, and length of
+the narrow segment) followed by flow measurements in
+the MPA and branch pulmonary arteries to quantify dif-
+ferential pulmonary flow. A relatively mild discrepancy in
+pulmonary blood flow (e.g., 40% flow to one lung) in the
+absence of other indications for catheter or surgical inter-
+vention will likely lead the clinician to recommend
+expectant follow-up whereas severe discrepancy (e.g.,
+15% flow to one lung) will likely lead to intervention.
+Another example is identification of an atrial septal
+defect followed by measurement of the pulmonary-to-
+systemic flow ratio. A small shunt (e.g., pulmonary-to-
+systemic flow ratio of 1.3) in a patient with mild PR (e.g.,
+15% regurgitation fraction) and mild RV dilatation (e.g.,
+120 ml/m
+2) will likely lead the clinician to recommend
+expectant follow-up whereas the same shunt in a patient
+with moderate PR (e.g., 35% regurgitation fraction) and
+RV dilatation (e.g., 145 ml/m
+2) will prompt a discussion
+about transcatheter device closure of the atrial septal
+defect versus PVR and atrial septal defect closure.
+Perhaps the most critical role of CMR in supporting
+clinical decisions in patients with repaired TOF is deter-
+mining when to replace or insert a pulmonary valve
+[114]. As indicated before, the decision to insert a pul-
+monary valve relies on clinical assessment of symptoms
+and signs attributable to th e cardiovascular system and
+on measurements of PR, biventricular size and function,
+shunt ratio, and several morphologic criteria (e.g.,
+RVOT aneurysm, branch pulmonary artery stenosis,
+severe aortic dilatation). Although some of the informa-
+tion necessary for clinical decision support for PVR can
+be obtained by other diagnostic modalities, CMR is best
+suited to reliably provide most or all necessary informa-
+tion [97,109,114]. For example, Doppler echocardiogra-
+phy can distinguish between mild and severe PR [130],
+3-dimensional echocardiography has the potential to
+measure RV size and function [131], and tissue Doppler
+and speckle tracking can provide information on RV
+function [132]; RV size and function can also be mea-
+sured by ECG-gated computed tomography and nuclear
+ventriculography [63,133]; and cardiac catheterization
+can provide information about pressure and shunt [134].
+However, CMR provides the most comprehensive infor-
+mation in a single noninvasive examination without
+exposure to ionizing radiation [109]. Furthermore, the
+reproducibility of CMR in measuring key parameters
+necessary to support clinical decisions in repaired TOF
+has been published whereas similar data from other
+modalities in this group of patients is scant. Finally,
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 17 of 24
+[[p18]]
+most investigations on prog nostic implications of the
+various parameters used to decide when to replace or
+insert a pulmonary valve are based on CMR data
+[14,15,93-96,98,135,136].
+Although CMR has become the reference standard
+modality for follow-up of patients with repaired TOF,
+specific patient groups require a multimodality approach
+[137]. Table 4 summarizes several scenarios, in which a
+combination of diagnostic modalities is required to sup-
+port clinical decisions after TOF repair.
+Future Directions
+Research efforts in TOF aim to address the many facets
+of the anomaly. Examples include elucidating the genetic
+and developmental etiologies of the anomaly, refining
+the initial surgical management to minimize late compli-
+cations, defining markers of late adverse outcomes,
+refining the criteria for PVR to optimize late outcomes,
+and developing new tools to address the failing RV
+before and after PVR. CMR plays an important role in
+several of these research fronts. For example, CMR is
+used to evaluate the function of tissue-engineered semi-
+lunar valve implanted in the pulmonary position in
+sheep [138]. This and similar technologies have the
+potential to change the way TOF is repaired by allowing
+the use of myocardial patches and bioengineered valves
+derived from the patient ’so w nc e l l st or e c o n s t r u c tt h e
+RVOT. CMR contributes to this line of research by
+allowing in-vivo evaluation of structure and function of
+valves and ventricles.
+Another research front in TOF is management of the
+failing RV late after repair. I t has recently been shown
+that “standard ” RV remodeling does not improve RV
+function in this group of patients [95]. Our group has
+conducted a series of experiments designed to develop a
+computational modeling approach to determine the effi-
+cacy and suitability of the various reconstructive options
+for the RV [139,140]. Using patient-specific CMR data
+of biventricular structure, deformation, and flow, RV-LV
+computer models were constructed. These models
+included fluid-structure interactions, two-layer RV-LV
+structure, anisotropic material properties, fiber orienta-
+tion, and active contraction. The models were designed
+to simulate blood flow, ventricular motion, and stress-
+strain distribution to evaluate the effect of different
+remodeling procedures on RV function, and to seek an
+optimal RV volume and patch design to improve post-
+operative outcomes (Figure 21, Additional file 5). This
+Table 4 Examples of scenarios requiring a multimodality diagnostic approach
+Doppler
+Echocardiography
+Cardiac CT Nuclear
+Scintigraphy
+Cardiac
+Catheterization
+All patients  Predicted RV pressure by TR
+jet velocity
+ Valve function and
+interrogation of atrial and
+ventricular septa by color
+Doppler
+RV hypertension with RVOT
+obstruction or branch PA
+stenosis
+Predicted RV pressure by TR jet
+velocity
+Consider if (a) possible benefit from PA
+balloon dilation and/or stent; or (b)
+transcatheter PV implantation
+RV hypertension without
+RVOT obstruction or branch
+PA stenosis
+Assessment of peripheral branch PA
+stenoses and pulmonary vascular
+resistance
+Branch PA stenosis without
+reliable pulmonary flow
+distribution by CMR
+Lung
+perfusion
+scan
+Branch PA stenosis with
+≤35% flow to one lung
+Consideration of balloon dilation with or
+without stent placement
+Contraindications to CMR or
+large metallic artifacts
+ Quantitative
+evaluation of RV
+size and
+function
+ Anatomy of
+RVOT and
+branch PAs
+Age >40 years Coronary angiography before PVR
+Secundum ASD with
+systemic O
+2 saturation ≤92%
+Hemodynamic assessment ± device
+closure
+ASD = atrial septal defect; PA = pulmonary artery; PV = pulmonary valve; PVR = pulmonary valve replacement; RV = right ventricle; RVOT = right ventricular
+outflow tract; TR = tricuspid regurgitation.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 18 of 24
+[[p19]]
+and similar research efforts may ultimately improve sur-
+gical planning by identifying optimal individual solutions
+to RV remodeling based on patient-specific, CMR-
+derived computational models. Data from catheteriza-
+tion-CMR studies may provide more detailed informa-
+tion on RV mechanics (e.g., RV elastance or E
+max ,
+ventricular-arterial coupling). Other advanced image
+analysis techniques such as CMR speckle tracking may
+overcome some of the limitations of RV tissue tagging
+and provide further insight into RV-LV mechanics in
+patients with repaired TOF (Figure 22) [141].
+The most active clinical research efforts in repaired
+TOF continue to focus on refining the indications for
+PVR and developing better transcatheter and surgical
+techniques to address PR and other late complications.
+CMR plays a pivotal role in both fronts as the reference
+standard imaging tool for morphologic and functional
+assessments. As Table 3 demonstrates, past research
+efforts were dominated by small retrospective studies.
+Given that hard outcomes (e.g., death, ventricular tachy-
+cardia) after PVR are uncommon and it is unclear
+which surrogate outcomes pr operly reflect important
+Figure 21 Computer model of right ventricular stress map
+based on CMR data of a patient with repaired TOF . This and
+similar models include fluid-structure interactions, two-layer RV-LV
+structure, anisotropic material properties, fiber orientation, and
+active contraction [139,140].
+Figure 22 Tissue tracking of the ventricular myocardium (LV = left panel; RV = right panel) in a patient with repaired TOF . Analysis of
+circumferential strain is performed in the ventricular short-axis plane using a commercial tissue tracking software package and custom-built
+filters to modify the DICOM headers of the CMR datasets to allow them to be analyzed by the software package. The myocardium is divided
+into 6 segments and circumferential strain (Y-axis;%) versus time (X-axis; milliseconds) is plotted for each segment. The time difference to peak
+circumferential strain – a measure of ventricular synchrony – measured 83 ms in the LV and 389 ms in the RV, reflecting RV dyssynchrony.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 19 of 24
+[[p20]]
+outcomes, it is highly unlikely that single-center studies
+will provide meaningful answers. Undoubtedly, the next
+phase of clinical research aimed at identifying the opti-
+mal timing and method of restoring pulmonary valve
+competence will require analysis of large databases that
+include thousands patient years. This will require multi-
+center collaboration and, preferably, standardized pro-
+spectively acquired clinical and laboratory data,
+including CMR. Although a ra ndomized clinical trial
+may appear to be an attractive research method to
+define the optimal timing of PVR, the design of such
+trial is challenging due to hurdles related to choice of
+outcomes, statistical powe r, and recruitment. However,
+once the state of knowledge in this area improves (e.g.,
+identification of predictors of adverse outcomes after
+PVR and meaningful surrogate outcomes), it is concei-
+vable that specific hypothe ses can be formulated and
+then tested by a multicenter randomized trial. Undoubt-
+edly, CMR will be an essential component of any such
+study.
+Conclusions
+The pathophysiology of repaired TOF is complex.
+Patients often tolerate the chronic volume load imposed
+by pulmonary regurgitation and, in some patients, by
+tricuspid regurgitation and residual intracardiac shunt
+(s), for many years. In other patients, the pathophysiol-
+ogy is further complicated by abnormalities in the pul-
+monary arterial tree. Over time, however, the risks of
+ventricular dysfunction, exercise intolerance, heart fail-
+ure symptoms, arrhythmias, and death increase substan-
+tially. CMR has evolved to become a crucial diagnostic
+tool in this growing patient population. Key to optimal
+use of CMR in these patients is a comprehensive ima-
+ging protocol and implementation of steps to ensure
+consistency and reproducibility of measurements.
+Finally, CMR continues to play a key role in research
+efforts directed at improving outcomes of patients with
+tetralogy of Fallot.
+Additional material
+Additional file 1: Video clip of severe RV dilatation and dysfunction
+after TOF repair . Cine SSFP imaging in a 37 year-old patient with
+repaired TOF, severe pulmonary regurgitation, moderate tricuspid
+regurgitation (arrow), and severe right ventricular dilatation (end-diastolic
+volume index 386 ml/m
+2) and dysfunction (ejection fraction 15%). This
+patient who also exhibited severe heart failure symptoms had only
+modest decrease in RV size and no improvement in RV function after
+pulmonary valve replacement.
+Additional file 2: Video clip of cine imaging of the RV long-axis .
+Evaluation of the right ventricular outflow tract (RVOT) long-axis by ECG-
+gated cine SSFP MR. Along with the RV 2-chamber plane (Figure 10), this
+view demonstrates patency of the RVOT and main pulmonary artery,
+presence or absence of pulmonary valve tissue, and wall motion
+abnormalities.
+Additional file 3: Video clip of pulmonary regurgitation after TOF
+repair. Evaluation of pulmonary regurgitation (PR) by ECG-gated cine
+phase contrast MR. Antegrade flow from the RV to the MPA is encoded
+red and retrograde flow from the MPA to the RV (PR) is encoded blue.
+Additional file 4: CMR report in repaired TOF . Example of CMR report
+in a hypothetical patient with repaired TOF
+Additional file 5: Video clip of computer modeling of the RV after
+TOF repair . Computer model of right ventricular stress map based on
+CMR data of a patient with repaired TOF.
+Abbreviations
+CMR: cardiovascular magnetic resonance; LGE: late gadolinium
+enhancement; LV: left ventricle; PR: pulmonary regurgitation; PVR: pulmonary
+valve replacement; RV: right ventricle; RVOT: right ventricular outflow tract;
+TOF: tetralogy of Fallot.
+Acknowledgements and Funding
+This work was supported in part by the National Institutes of Health (NIH/
+NHLBI 1 R01 HL089269-01A2) and by the Higgins Family Noninvasive
+Cardiac Imaging Research Fund.
+Competing interests
+The author declares that they have no competing interests.
+Received: 8 December 2010 Accepted: 20 January 2011
+Published: 20 January 2011
+References
+PM?a?`K?s?gaY?s??????
+heart in which there is pulmonary stenosis or pulmonary atresia. JAMA
+1945, 128:189-202.
+2. Lillehei CW, Cohen M, Warden HE, Varco RL: The direct-vision
+intracardiac correction of congenital anomalies by controlled cross
+circulation; results in thirty-two patients with ventricular septal
+defects, tetralogy of Fallot, and atrioventricularis communis defects.
+Surgery 1955, 38:11-29.
+3. Lillehei CW, Cohen M, Warden HE, Read RC, Aust JB, Dewall RA, Varco RL:
+Direct vision intracardiac surgical correction of the tetralogy of Fallot,
+pentalogy of Fallot, and pulmonary atresia defects; report of first ten
+cases. Ann Surg 1955, 142:418-42.
+4. Kirklin JW, Wallace RB, McGoon DC, DuShane JW: Early and late results
+after intracardiac repair of Tetralogy of Fallot. 5-Year review of 337
+patients. Ann Surg 1965, 162:578-89.
+5. Bacha EA, Scheule AM, Zurakowski D, Erickson LC, Hung J, Lang P, Mayer JE
+Jr, del Nido PJ, Jonas RA: Long-term results after early primary repair of
+tetralogy of Fallot. J Thorac Cardiovasc Surg 2001, 122:154-61.
+6. Parry AJ, McElhinney DB, Kung GC, Reddy VM, Brook MM, Hanley FL:
+Elective primary repair of acyanotic tetralogy of Fallot in early infancy:
+overall outcome and impact on the pulmonary valve. J Am Coll Cardiol
+2000, 36:2279-83.
+7. Pigula FA, Khalil PN, Mayer JE, del Nido PJ, Jonas RA: Repair of tetralogy of
+Fallot in neonates and young infants. Circulation 1999, 100:II157-61.
+8. Murphy JG, Gersh BJ, Mair DD, Fuster V, McGoon MD, Ilstrup DM,
+McGoon DC, Kirklin JW, Danielson GK: Long-term outcome in patients
+undergoing surgical repair of tetralogy of Fallot. N Engl J Med 1993,
+329:593-9.
+9. Nollert G, Fischlein T, Bouterwek S, Bohmer C, Klinner W, Reichart B: Long-
+term survival in patients with repair of tetralogy of Fallot: 36-year
+follow-up of 490 survivors of the first year after surgical repair. J Am Coll
+Cardiol 1997, 30:1374-83.
+10. Geva T, Sandweiss BM, Gauvreau K, Lock JE, Powell AJ: Factors associated
+with impaired clinical status in long-term survivors of tetralogy of Fallot
+repair evaluated by magnetic resonance imaging. J Am Coll Cardiol 2004,
+43:1068-74.
+11. Gatzoulis MA, Walters J, McLaughlin PR, Merchant N, Webb GD, Liu P: Late
+arrhythmia in adults with the mustard procedure for transposition of
+great arteries: a surrogate marker for right ventricular dysfunction? Heart
+2000, 84:409-15.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 20 of 24
+[[p21]]
+12. Silka MJ, Hardy BG, Menashe VD, Morris CD: A population-based
+prospective evaluation of risk of sudden cardiac death after operation
+for common congenital heart defects. J Am Coll Cardiol 1998, 32:245-51.
+13. Khairy P, Aboulhosn J, Gurvitz MZ, Opotowsky AR, Mongeon FP, Kay J,
+Valente AM, Earing MG, Lui G, Gersony DR, Cook S, Ting JG, Nickolaus MJ,
+Webb G, Landzberg MJ, Broberg CS: Arrhythmia burden in adults with
+surgically repaired tetralogy of Fallot: a multi-institutional study.
+Circulation 2010, 122:868-75.
+14. Meijboom FJ, Roos-Hesselink JW, McGhie JS, Spitaels SE, van Domburg RT,
+Utens LM, Simoons ML, Bogers AJ: Consequences of a selective approach
+toward pulmonary valve replacement in adult patients with tetralogy of
+Fallot and pulmonary regurgitation. J Thorac Cardiovasc Surg 2008,
+135:50-5.
+15. Therrien J, Provost Y, Merchant N, Williams W, Colman J, Webb G: Optimal
+timing for pulmonary valve replacement in adults after tetralogy of
+Fallot repair. Am J Cardiol 2005, 95:779-82.
+16. Buechel ER, Dave HH, Kellenberger CJ, Dodge-Khatami A, Pretre R, Berger F,
+Bauersfeld U: Remodelling of the right ventricle after early pulmonary
+valve replacement in children with repaired tetralogy of Fallot:
+assessment by cardiovascular magnetic resonance. Eur Heart J 2005,
+26:2721-7.
+17. Ammash NM, Dearani JA, Burkhart HM, Connolly HM: Pulmonary
+regurgitation after tetralogy of Fallot repair: clinical features, sequelae,
+and timing of pulmonary valve replacement. Congenit Heart Dis 2007,
+2:386-403.
+18. Kuehne T, Saeed M, Reddy G, Akbari H, Gleason K, Turner D, Teitel D,
+Moore P, Higgins CB: Sequential magnetic resonance monitoring of
+pulmonary flow with endovascular stents placed across the pulmonary
+valve in growing Swine. Circulation 2001, 104:2363-8.
+19. Kuehne T, Saeed M, Gleason K, Turner D, Teitel D, Higgins CB, Moore P:
+Effects of pulmonary insufficiency on biventricular function in the
+developing heart of growing swine. Circulation 2003, 108:2007-13.
+20. Siwek LG, Applebaum RE, Jones M, Clark RE: Acute control of pulmonary
+regurgitation with a balloon “valve”. An experimental investigation.
+J Thorac Cardiovasc Surg 1985, 90:404-9.
+21. Cloan SD: Hemodynamic measurements, in Echocardiography in
+pediatric and congenital heart disease: from fetus to adult. Edited by: Lai
+WW, Mertens LL, Cohen MS, Geva T. Wiley-Blackwell: Philadelphia;
+2010:63-75.
+22. Kilner PJ, Balossino R, Dubini G, Babu-Narayan SV, Taylor AM, Pennati G,
+Migliavacca F: Pulmonary regurgitation: the effects of varying pulmonary
+artery compliance, and of increased resistance proximal or distal to the
+compliance. Int J Cardiol 2009, 133:157-66.
+23. Tverskaya MS, Mishnev OD, Raksha AP, Karpova VV, Sukhoparova VV,
+Izmailova NS, Virganskii AO, Kadyrova M, Abdulkerimova NZ: Comparative
+pathomorphological study of contractile myocardium under conditions
+of increased left and right ventricular afterload. Bull Exp Biol Med 2004,
+138:616-20.
+24. Gruver EJ, Morgan JP, Stambler BS, Gwathmey JK: Uniformity of calcium
+channel number and isometric contraction in human right and left
+ventricular myocardium. Basic Res Cardiol 1994, 89:139-48.
+25.
+Chaliki HP, Mohty D, Avierinos JF, Scott CG, Schaff HV, Tajik AJ, Enriquez-
+Sarano M: Outcomes after aortic valve replacement in patients with
+severe aortic regurgitation and markedly reduced left ventricular
+function. Circulation 2002, 106:2687-93.
+26. Tornos MP, Olona M, Permanyer-Miralda G, Evangelista A, Candell J, Padilla F,
+Soler Soler J: Heart failure after aortic valve replacement for aortic
+regurgitation: prospective 20-year study. Am Heart J 1998, 136:681-7.
+27. Bekeredjian R, Grayburn PA: Valvular heart disease: aortic regurgitation.
+Circulation 2005, 112:125-34.
+28. Sparrow P, Messroghli DR, Reid S, Ridgway JP, Bainbridge G,
+Sivananthan MU: Myocardial T1 mapping for detection of left ventricular
+myocardial fibrosis in chronic aortic regurgitation: pilot study. AJR Am J
+Roentgenol 2006, 187:W630-5.
+29. Borer JS, Truter S, Herrold EM, Falcone DJ, Pena M, Carter JN, Dumlao TF,
+Lee JA, Supino PG: Myocardial fibrosis in chronic aortic regurgitation:
+molecular and cellular responses to volume overload. Circulation 2002,
+105:1837-42.
+30. Katz NM, Blackstone EH, Kirklin JW, Pacifico AD, Bargeron LM Jr: Late
+survival and symptoms after repair of tetralogy of Fallot. Circulation 1982,
+65:403-10.
+31. Shimazaki Y, Blackstone EH, Kirklin JW: The natural history of isolated
+congenital pulmonary valve incompetence: surgical implications. Thorac
+Cardiovasc Surg 1984, 32:257-9.
+32. Roos-Hesselink JW, Meijboom FJ, Spitaels SE, van Domburg R, van Rijen EH,
+Utens EM, Bogers AJ, Simoons ML: Excellent survival and low incidence of
+arrhythmias, stroke and heart failure long-term after surgical ASD
+closure at young age. A prospective follow-up study of 21-33 years. Eur
+Heart J 2003, 24:190-7.
+33. Pascotto M, Santoro G, Caso P, Cerrato F, Caso I, Caputo S, Bigazzi MC,
+D’Andrea A, Russo MG, Calabro R: Global and regional left ventricular
+function in patients undergoing transcatheter closure of secundum
+atrial septal defect. Am J Cardiol 2005, 96:439-42.
+34. Giardini A, Moore P, Brook M, Stratton V, Tacy T: Effect of transcatheter
+atrial septal defect closure in children on left ventricular diastolic
+function. Am J Cardiol 2005, 95:1255-7.
+35. Salehian O, Horlick E, Schwerzmann M, Haberer K, McLaughlin P, Siu SC,
+Webb G, Therrien J: Improvements in cardiac form and function after
+transcatheter closure of secundum atrial septal defects. J Am Coll Cardiol
+2005, 45:499-504.
+36. Walker RE, Moran AM, Gauvreau K, Colan SD: Evidence of adverse
+ventricular interdependence in patients with atrial septal defects. Am J
+Cardiol 2004, 93:1374-7, A6.
+37. Celik S, Ozay B, Dagdeviren B, Gorgulu S, Yildirim A, Uslu N, Ketenci B,
+Eren M, Akgoz H, Demirtas M, Tezel T: Effect of patient age at surgical
+intervention
+on long-term right ventricular performance in atrial septal
+defect. Jpn Heart J 2004, 45:265-73.
+38. Horvath KA, Burke RP, Collins JJ Jr, Cohn LH: Surgical treatment of adult
+atrial septal defect: early and long-term results. J Am Coll Cardiol 1992,
+20:1156-9.
+39. Jategaonkar S, Scholtz W, Schmidt H, Horstkotte D: Percutaneous closure
+of atrial septal defects: echocardiographic and functional results in
+patients older than 60 years. Circ Cardiovasc Interv 2009, 2:85-9.
+40. Dell ’Italia LJ: The right ventricle: anatomy, physiology, and clinical
+importance. Curr Probl Cardiol 1991, 16:653-720.
+41. Geva T, Powell AJ, Crawford EC, Chung T, Colan SD: Evaluation of regional
+differences in right ventricular systolic function by acoustic
+quantification echocardiography and cine magnetic resonance imaging.
+Circulation 1998, 98:339-45.
+42. Wald RM, Haber I, Wald R, Valente AM, Powell AJ, Geva T: Effects of
+regional dysfunction and late gadolinium enhancement on global right
+ventricular function and exercise capacity in patients with repaired
+tetralogy of Fallot. Circulation 2009, 119:1370-7.
+43. Kiriazis H, Gibbs CL, Kotsanas G, Young IR: Mechanical and energetic
+changes in short-term volume and pressure overload of rabbit heart.
+Heart Vessels 1992, 7:175-88.
+44. Lytrivi ID, Ko HH, Srivastava S, Norton K, Goldman J, Parness IA, Lai WW,
+Nielsen JC: Regional differences in right ventricular systolic function as
+determined by cine magnetic resonance imaging after infundibulotomy.
+Am J Cardiol 2004, 94:970-3.
+45. Davlouros PA, Kilner PJ, Hornung TS, Li W, Francis JM, Moon JC, Smith GC,
+Tat T, Pennell DJ, Gatzoulis MA: right ventricular function in adults with
+repaired tetralogy of Fallot assessed with cardiovascular magnetic
+resonance imaging: detrimental role of right ventricular outflow
+aneurysms or akinesia and adverse right-to-left ventricular interaction. J
+Am Coll Cardiol 2002, 40:2044-52.
+46. Samyn MM, Powell AJ, Garg R, Sena L, Geva T: Range of ventricular
+dimensions and function by steady-state free precession cine MRI in
+repaired tetralogy of Fallot: right ventricular outflow tract patch vs.
+conduit repair. J Magn Reson Imaging 2007, 26:934-40.
+47. Knauth AL, Gauvreau K, Powell AJ, Landzberg MJ, Walsh EP, Lock JE, del
+Nido PJ, Geva T: Ventricular size and function assessed by cardiac MRI
+predict major adverse clinical outcomes late after tetralogy of Fallot
+repair. Heart 2008, 94:211-6.
+48. Rebergen SA, Chin JG, Ottenkamp J, van der Wall EE, de Roos A:
+Pulmonary regurgitation in the late postoperative follow-up of tetralogy
+of Fallot. Volumetric quantitation by nuclear magnetic resonance velocity
+mapping. Circulation 1993, 88:2257-66.
+49. Helbing WA, Niezen RA, Le Cessie S, van der Geest RJ, Ottenkamp J, de
+Roos A: Right ventricular diastolic function in children with pulmonary
+regurgitation after repair of tetralogy of Fallot: volumetric evaluation by
+magnetic resonance velocity mapping. J Am Coll Cardiol 1996, 28:1827-35.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 21 of 24
+[[p22]]
+50. Helbing WA, de Roos A: Clinical applications of cardiac magnetic
+resonance imaging after repair of tetralogy of Fallot. Pediatr Cardiol 2000,
+21:70-9.
+51. Greenberg SB, Crisci KL, Koenig P, Robinson B, Anisman P, Russo P:
+Magnetic resonance imaging compared with echocardiography in the
+evaluation of pulmonary artery abnormalities in children with tetralogy
+of Fallot following palliative and corrective surgery. Pediatr Radiol 1997,
+27:932-5.
+52. Kurotobi S, Taniguchi K, Sano T, Naito H, Matsushita T, Kogaki S,
+Ichikawa H, Ozono K: Determination of timing for reoperation in
+patients after right ventricular outflow reconstruction. Am J Cardiol
+2005, 95:1344-50.
+53. Babu-Narayan SV, Kilner PJ, Li W, Moon JC, Goktekin O, Davlouros PA,
+Khan M, Ho SY, Pennell DJ, Gatzoulis MA: Ventricular fibrosis suggested by
+cardiovascular magnetic resonance in adults with repaired tetralogy of
+fallot and its relationship to adverse markers of clinical outcome.
+Circulation 2006, 113:405-13.
+54. van Straten A, Vliegen HW, Hazekamp MG, Lamb HJ, Ottenkamp J, Van der
+Wall EE, De Roos A: Right ventricular diastolic function before and after
+pulmonary valve replacement late after repair of tetralogy of Fallot assessed
+by cardiac magnetic resonance imaging.J Am Coll Cardiol 2003, 41:491.
+55. Sandor GG, Patterson MW, Tipple M, Ashmore PG, Popov R: Left ventricular
+systolic and diastolic function after total correction of tetralogy of Fallot.
+Am J Cardiol 1987, 60:1148-51.
+56. Eroglu AG, Sarioglu A, Sarioglu T: Right ventricular diastolic function after
+repair of tetralogy of Fallot: its relationship to the insertion of a
+‘transannular’ patch. Cardiol Young 1999, 9:384-91.
+57. Gatzoulis MA, Clark AL, Cullen S, Newman CG, Redington AN: Right
+ventricular diastolic function 15 to 35 years after repair of tetralogy of
+Fallot. Restrictive physiology predicts superior exercise performance.
+Circulation 1995, 91:1775-81.
+58. van der Hulst AE, Westenberg JJ, Kroft LJ, Bax JJ, Blom NA, de Roos A,
+Roest AA: Tetralogy of fallot: 3D velocity-encoded MR imaging for
+evaluation of right ventricular valve flow and diastolic function in
+patients after correction. Radiology 2010, 256:724-34.
+59. Ghai A, Silversides C, Harris L, Webb GD, Siu SC, Therrien J: Left ventricular
+dysfunction is a risk factor for sudden cardiac death in adults late after
+repair of tetralogy of fallot. J Am Coll Cardiol 2002, 40:1675-80.
+60. Abd El Rahman MY, Hui W, Yigitbasi M, Dsebissowa F, Schubert S, Hetzer R,
+Lange PE, Abdul-Khaliq H: Detection of left ventricular asynchrony in
+patients with right bundle branch block after repair of tetralogy of
+Fallot using tissue-Doppler imaging-derived strain. J Am Coll Cardiol 2005,
+45:915-21.
+61. Kondo C, Nakazawa M, Kusakabe K, Momma K: Left ventricular dysfunction
+on exercise long-term after total repair of tetralogy of Fallot. Circulation
+1995, 92:II250-5.
+62. Hausdorf G, Hinrichs C, Nienaber CA, Schark C, Keck EW: Left
+ventricular contractile state after surgical correction of tetralogy of
+Fallot: risk factors for late left ventricular dysfunction. Pediatr
+Cardiol 1990, 11:61-8.
+63. Therrien J, Siu SC, McLaughlin PR, Liu PP, Williams WG, Webb GD:
+Pulmonary valve replacement in adults late after repair of tetralogy of
+fallot:
+are we operating too late? J Am Coll Cardiol 2000, 36:1670-5.
+64. Adams CW: Bernheim effect (produced by an interventricular septal
+aneurysm following septal infarction). Dis Chest 1966, 50:641-2.
+65. Darsee JR, Mikolich JR, Walter PF, Schlant RC: Paradoxical rise in left
+ventricular filling pressure in the dog during positive end-expiratory
+pressure ventilation. A reversed Bernheim effect. Circ Res 1981,
+49:1017-28.
+66. Sanchez-Quintana D, Anderson RH, Ho SY: Ventricular myoarchitecture in
+tetralogy of Fallot. Heart 1996, 76:280-6.
+67. Tzemos N, Harris L, Carasso S, Subira LD, Greutmann M, Provost Y,
+Redington AN, Rakowski H, Siu SC, Silversides CK: Adverse left ventricular
+mechanics in adults with repaired tetralogy of Fallot. Am J Cardiol 2009,
+103:420-5.
+68. Ooi A, Moorjani N, Baliulis G, Keeton BR, Salmon AP, Monro JL, Haw MP:
+Medium term outcome for infant repair in tetralogy of Fallot: Indicators
+for timing of surgery. Eur J Cardiothorac Surg 2006, 30:917-22.
+69. Lee C, Lee CN, Kim SC, Lim C, Chang YH, Kang CH, Jo WM, Kim WH:
+Outcome after one-stage repair of tetralogy of Fallot. J Cardiovasc Surg
+(Torino) 2006, 47:65-70.
+70. Owen AR, Gatzoulis MA: Tetralogy of Fallot: Late outcome after repair
+and surgical implications. Semin Thorac Cardiovasc Surg Pediatr Card Surg
+Annu 2000, 3:216-226.
+71. Alexiou C, Mahmoud H, Al-Khaddour A, Gnanapragasam J, Salmon AP,
+Keeton BR, Monro JL: Outcome after repair of tetralogy of Fallot in the
+first year of life. Ann Thorac Surg 2001, 71:494-500.
+72. Oechslin EN, Harrison DA, Harris L, Downar E, Webb GD, Siu SS,
+Williams WG: Reoperation in adults with repair of tetralogy of fallot:
+indications and outcomes. J Thorac Cardiovasc Surg 1999, 118:245-51.
+73. Redington AN: Determinants of short- and long-term outcome in the
+surgical correction of tetralogy of Fallot. Curr Opin Pediatr 1993, 5:619-22.
+74. Saul JP, Alexander ME: Preventing sudden death after repair of tetralogy
+of Fallot: complex therapy for complex patients. J Cardiovasc
+Electrophysiol 1999, 10:1271-87.
+75. Kugler JD: Predicting sudden death in patients who have undergone
+tetralogy of fallot repair: is it really as simple as measuring ECG
+intervals? J Cardiovasc Electrophysiol 1998, 9:103-6.
+76. Berul CI, Hill SL, Geggel RL, Hijazi ZM, Marx GR, Rhodes J, Walsh KA,
+Fulton DR: Electrocardiographic markers of late sudden death risk in
+postoperative tetralogy of Fallot children. J Cardiovasc Electrophysiol 1997,
+8:1349-56.
+77.
+Gatzoulis MA, Till JA, Somerville J, Redington AN: Mechanoelectrical
+interaction in tetralogy of Fallot. QRS prolongation relates to right
+ventricular size and predicts malignant ventricular arrhythmias and
+sudden death. Circulation 1995, 92:231-7.
+78. Bricker JT: Risks, markers, and causes. Sudden death and tetralogy of
+Fallot. Circulation 1995, 92:158-9.
+79. Khairy P, Landzberg MJ, Gatzoulis MA, Lucron H, Lambert J, Marcon F,
+Alexander ME, Walsh EP: Value of programmed ventricular stimulation
+after tetralogy of fallot repair: a multicenter study. Circulation 2004,
+109:1994-2000.
+80. Gatzoulis MA, Balaji S, Webber SA, Siu SC, Hokanson JS, Poile C,
+Rosenthal M, Nakazawa M, Moller JH, Gillette PC, Webb GD, Redington AN:
+Risk factors for arrhythmia and sudden cardiac death late after repair of
+tetralogy of Fallot: a multicentre study. Lancet 2000, 356:975-81.
+81. Harrison DA, Harris L, Siu SC, MacLoghlin CJ, Connelly MS, Webb GD,
+Downar E, McLaughlin PR, Williams WG: Sustained ventricular tachycardia
+in adult patients late after repair of tetralogy of Fallot. J Am Coll Cardiol
+1997, 30:1368-73.
+82. Niezen RA, Helbing WA, van der Wall EE, van der Geest RJ, Rebergen SA, de
+Roos A: Biventricular systolic function and mass studied with MR
+imaging in children with pulmonary regurgitation after repair for
+tetralogy of Fallot. Radiology 1996, 201:135-40.
+83. Abd El Rahman MY, Abdul-Khaliq H, Vogel M, Alexi-Meskishvili V,
+Gutberlet M, Lange PE: Relation between right ventricular enlargement,
+QRS duration, and right ventricular function in patients with tetralogy of
+Fallot and pulmonary regurgitation after surgical repair. Heart 2000,
+84:416-20.
+84. Doughan AR, McConnell ME, Lyle TA, Book WM: Effects of pulmonary
+valve replacement on QRS duration and right ventricular cavity size late
+after repair of right ventricular outflow tract obstruction. Am J Cardiol
+2005, 95:1511-4.
+85. Babu-Narayan SV, Goktekin O, Moon JC, Broberg CS, Pantely GA, Pennell DJ,
+Gatzoulis MA, Kilner PJ: Late gadolinium enhancement cardiovascular
+magnetic resonance of the systemic right ventricle in adults with
+previous atrial redirection surgery for transposition of the great arteries.
+Circulation 2005, 111:2091-8.
+86. Therrien J, Siu SC, Harris L, Dore A, Niwa K, Janousek J, Williams WG,
+Webb G, Gatzoulis MA: Impact of pulmonary valve replacement on
+arrhythmia propensity late after repair of tetralogy of Fallot. Circulation
+2001, 103:2489-94.
+87. Discigil B, Dearani JA, Puga FJ, Schaff HV, Hagler DJ, Warnes CA,
+Danielson GK: Late pulmonary valve replacement after repair of tetralogy
+of Fallot. J Thorac Cardiovasc Surg 2001, 121:344-51.
+88. Harrild DM, Berul CI, Cecchin F, Geva T, Gauvreau K, Pigula F, Walsh EP:
+Pulmonary valve replacement in tetralogy of Fallot: impact on survival
+and ventricular tachycardia. Circulation 2009, 119:445-51.
+89. Caldarone CA, McCrindle BW, Van Arsdell GS, Coles JG, Webb G,
+Freedom RM, Williams WG: Independent factors associated with longevity
+of prosthetic pulmonary valves and valved conduits. J Thorac Cardiovasc
+Surg 2000, 120:1022-30, discussion 1031.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 22 of 24
+[[p23]]
+90. Bonhoeffer P, Boudjemline Y, Qureshi SA, Le Bidois J, Iserin L, Acar P,
+Merckx J, Kachaner J, Sidi D: Percutaneous insertion of the pulmonary
+valve. J Am Coll Cardiol 2002, 39:1664-9.
+91. McElhinney DB, Hellenbrand WE, Zahn EM, Jones TK, Cheatham JP, Lock JE,
+Vincent JA: Short- and medium-term outcomes after transcatheter
+pulmonary valve placement in the expanded multicenter US melody
+valve trial. Circulation 2010, 122:507-16.
+92. Nordmeyer J, Lurz P, Tsang VT, Coats L, Walker F, Taylor AM,
+Khambadkone S, de Leval MR, Bonhoeffer P: Effective transcatheter valve
+implantation after pulmonary homograft failure: a new perspective on
+the Ross operation. J Thorac Cardiovasc Surg 2009, 138:84-8.
+93. Oosterhof T, van Straten A, Vliegen HW, Meijboom FJ, van Dijk AP,
+Spijkerboer AM, Bouma BJ, Zwinderman AH, Hazekamp MG, de Roos A,
+Mulder BJ: Preoperative thresholds for pulmonary valve replacement in
+patients with corrected tetralogy of Fallot using cardiovascular magnetic
+resonance. Circulation 2007, 116:545-51.
+94. Frigiola A, Tsang V, Bull C, Coats L, Khambadkone S, Derrick G, Mist B,
+Walker F, van Doorn C, Bonhoeffer P, Taylor AM: Biventricular response
+after pulmonary valve replacement for right ventricular outflow tract
+dysfunction: is age a predictor of outcome? Circulation 2008, 118:S182-90.
+95. Geva T, Gauvreau K, Powell AJ, Cecchin F, Rhodes J, Geva J, del Nido P:
+Randomized trial of pulmonary valve replacement with and without
+right ventricular remodeling surgery. Circulation 2010, 122:S201-8.
+96. Cheung EW, Wong WH, Cheung YF: Meta-analysis of pulmonary valve
+replacement after operative repair of tetralogy of fallot. Am J Cardiol
+2010, 106:552-7.
+97. Vliegen HW, Van Straten A, De Roos A, Roest AA, Schoof PH,
+Zwinderman AH, Ottenkamp J, Van Der Wall EE, Hazekamp MG: Magnetic
+resonance imaging to assess the hemodynamic effects of pulmonary
+valve replacement in adults late after repair of tetralogy of fallot.
+Circulation 2002, 106:1703-7.
+98. Henkens IR, van Straten A, Schalij MJ, Hazekamp MG, de Roos A, van der
+Wall EE, Vliegen HW: Predicting outcome of pulmonary valve replacement
+in adult tetralogy of Fallot patients. Ann Thorac Surg 2007, 83:907-11.
+99. Gengsakul A, Harris L, Bradley TJ, Webb GD, Williams WG, Siu SC,
+Merchant N, McCrindle BW: The impact of pulmonary valve replacement
+after tetralogy of Fallot repair: a matched comparison. Eur J Cardiothorac
+Surg 2007, 32:462-8.
+100. Dave HH, Buechel ER, Dodge-Khatami A, Kadner A, Rousson V, Bauersfeld U,
+Pretre R: Early insertion of a pulmonary valve for chronic regurgitation
+helps restoration of ventricular dimensions. Ann Thorac Surg 2005,
+80:1615-20, discussion 1620-1.
+101. Yemets IM, Williams WG, Webb GD, Harrison DA, McLaughlin PR, Trusler GA,
+Coles JG, Rebeyka IM, Freedom RM: Pulmonary valve replacement late
+after repair of tetralogy of Fallot. Ann Thorac Surg 1997, 64:526-30.
+102. Eyskens B, Reybrouck T, Bogaert J, Dymarkowsky S, Daenen W, Dumoulin M,
+Gewillig M: Homograft insertion for pulmonary regurgitation after repair
+of tetralogy of fallot improves cardiorespiratory exercise performance.
+Am J Cardiol 2000, 85:221-5.
+103.
+van Straten A, Vliegen HW, Hazekamp MG, de Roos A:Right ventricular
+function late after total repair of tetralogy of Fallot.Eur Radiol 2005, 15:702-7.
+104. Oosterhof T, Mulder BJ, Vliegen HW, de Roos A: Corrected tetralogy of
+Fallot: delayed enhancement in right ventricular outflow tract. Radiology
+2005, 237:868-71.
+105. Warner KG, O ’Brien PK, Rhodes J, Kaur A, Robinson DA, Payne DD:
+Expanding the indications for pulmonary valve replacement after repair
+of tetralogy of fallot. Ann Thorac Surg 2003, 76:1066-71, discussion 1071-2.
+106. Lurz P, Giardini A, Taylor AM, Nordmeyer J, Muthurangu V, Odendaal D,
+Mist B, Khambadkone S, Schievano S, Bonhoeffer P, Derrick G: Effect of
+altering pathologic right ventricular loading conditions by percutaneous
+pulmonary valve implantation on exercise capacity. Am J Cardiol 2010,
+105:721-6.
+107. Graham TP Jr, Bernard Y, Arbogast P, Thapa S, Cetta F, Child J, Chugh R,
+Davidson W, Hurwitz R, Kay J, Sanders S, Schaufelberger M: Outcome of
+pulmonary valve replacements in adults after tetralogy repair: a multi-
+institutional study. Congenit Heart Dis 2008, 3:162-7.
+108. Khairy P, Ouyang DW, Fernandes SM, Lee-Parritz A, Economy KE,
+Landzberg MJ: Pregnancy outcomes in women with congenital heart
+disease. Circulation 2006, 113:517-24.
+109. Kilner PJ, Geva T, Kaemmerer H, Trindade PT, Schwitter J, Webb GD:
+Recommendations for cardiovascular magnetic resonance in adults with
+congenital heart disease from the respective working groups of the
+European Society of Cardiology. Eur Heart J 2010, 31:794-805.
+110. Kang IS, Redington AN, Benson LN, Macgowan C, Valsangiacomo ER,
+Roman K, Kellenberger CJ, Yoo SJ: Differential regurgitation in branch
+pulmonary arteries after repair of tetralogy of Fallot: a phase-contrast
+cine magnetic resonance study. Circulation 2003, 107:2938-43.
+111. Babu-Narayan SV, Gatzoulis MA: Management of Adults with Operated
+Tetralogy of Fallot. Curr Treat Options Cardiovasc Med 2003, 5:389-398.
+112. Choe YH, Kang IS, Park SW, Lee HJ: MR imaging of congenital heart
+diseases in adolescents and adults. Korean J Radiol 2001, 2:121-31.
+113. de Roos A, Roest AA: Evaluation of congenital heart disease by magnetic
+resonance imaging. Eur Radiol 2000, 10:2-6.
+114. Geva T: Indications and timing of pulmonary valve replacement after
+tetralogy of fallot repair. Semin Thorac Cardiovasc Surg Pediatr Card Surg
+Annu 2006, 11-22.
+115. Carr JC, Simonetti O, Bundy J, Li D, Pereles S, Finn JP: Cine MR
+angiography of the heart with segmented true fast imaging with
+steady-state precession. Radiology 2001, 219:828-34.
+116. Alfakih K, Plein S, Thiele H, Jones T, Ridgway JP, Sivananthan MU: Normal
+human
+left and right ventricular dimensions for MRI as assessed by
+turbo gradient echo and steady-state free precession imaging
+sequences. J Magn Reson Imaging 2003, 17:323-9.
+117. Alfakih K, Thiele H, Plein S, Bainbridge GJ, Ridgway JP, Sivananthan MU:
+Comparison of right ventricular volume measurement between
+segmented k-space gradient-echo and steady-state free precession
+magnetic resonance imaging. J Magn Reson Imaging 2002, 16:253-8.
+118. Hergan K, Schuster A, Fruhwald J, Mair M, Burger R, Topker M:
+Comparison of left and right ventricular volume measurement using
+the Simpson ’s method and the area length method. Eur J Radiol 2008,
+65:270-8.
+119. Sheehan FH, Kilner PJ, Sahn DJ, Vick GW, Stout KK, Ge S, Helbing WA,
+Lewin M, Shurman AJ, Buechel EV, Litt HI, Waiss MP: Accuracy of
+knowledge-based reconstruction for measurement of right ventricular
+volume and function in patients with tetralogy of Fallot. Am J Cardiol
+2010, 105:993-9.
+120. Moroseos T, Mitsumori L, Kerwin WS, Sahn DJ, Helbing WA, Kilner PJ,
+Shurman A, Litt H, Sheehan FH: Comparison of Simpson ’s method and
+three-dimensional reconstruction for measurement of right ventricular
+volume in patients with complete or corrected transposition of the
+great arteries. Am J Cardiol 2010, 105:1603-9.
+121. Strugnell WE, Slaughter RE, Riley RA, Trotter AJ, Bartlett H: Modified
+RV short axis series – a new method for cardiac MRI measurement
+of right ventricular volumes. J Cardiovasc Magn Reson 2005,
+7:769-74.
+122. Alfakih K, Plein S, Bloomer T, Jones T, Ridgway J, Sivananthan M:
+Comparison of right ventricular volume measurements between axial
+and short axis orientation using steady-state free precession magnetic
+resonance imaging. J Magn Reson Imaging 2003, 18:25-32.
+123. Mooij CF, de Wit CJ, Graham DA, Powell AJ, Geva T: Reproducibility of MRI
+measurements of right ventricular size and function in patients with
+normal and dilated ventricles. J Magn Reson Imaging 2008, 28:67-73.
+124. Hudsmith LE, Petersen SE, Francis JM, Robson MD, Neubauer S: Normal
+human left and right ventricular and left atrial dimensions using steady
+state free precession magnetic resonance imaging. J Cardiovasc Magn
+Reson 2005, 7:775-82.
+125. Buechel EV, Kaiser T, Jackson C, Schmitz A, Kellenberger CJ: Normal right-
+and left ventricular volumes and myocardial mass in children measured
+by steady state free precession cardiovascular magnetic resonance. J
+Cardiovasc Magn Reson 2009, 11:19.
+126. Wald RM, Redington AN, Pereira A, Provost YL, Paul NS, Oechslin EN,
+Silversides CK: Refining the assessment of pulmonary regurgitation in
+adults after tetralogy of Fallot repair: should we be measuring
+regurgitant fraction or regurgitant volume? Eur Heart J 2009, 30:356-61.
+127. Karamitsos T, Hudsmith L, Selvanayagama J, Neubauer S, Francis J: Operator
+induced variability in left ventricular measurements with cardiovascular
+magnetic resonance is improved after training. J Cardiovasc Mag Reson
+2007, 9:777-783.
+128. Beygui F, Furber A, Delepine S, Helft G, Metzger JP, Geslin P, Le Jeune JJ:
+Routine breath-hold gradient echo MRI-derived right ventricular mass,
+volumes and function: accuracy, reproducibility and coherence study.
+Int J Cardiovasc Imaging 2004, 20:509-16.
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 23 of 24
+[[p24]]
+129. Grothues F, Moon JC, Bellenger NG, Smith GS, Klein HU, Pennell DJ:
+Interstudy reproducibility of right ventricular volumes, function, and
+mass with cardiovascular magnetic resonance. Am Heart J 2004,
+147:218-23.
+130. Renella P, Aboulhosn J, Lohan DG, Jonnala P, Finn JP, Satou GM,
+Williams RJ, Child JS: Two-dimensional and Doppler echocardiography
+reliably predict severe pulmonary regurgitation as quantified by cardiac
+magnetic resonance. J Am Soc Echocardiogr 2010, 23:880-6.
+131. Iriart X, Montaudon M, Lafitte S, Chabaneix J, Reant P, Balbach T, Houle H,
+Laurent F, Thambo JB: Right ventricle three-dimensional echography in
+corrected tetralogy of fallot: accuracy and variability. Eur J Echocardiogr
+2009, 10:784-92.
+132. Mueller M, Rentzsch A, Hoetzer K, Raedle-Hurst T, Boettler P, Stiller B,
+Lemmer J, Sarikouch S, Beerbaum P, Peters B, Vogt M, Vogel M, Abdul-
+Khaliq H: Assessment of interventricular and right-intraventricular
+dyssynchrony in patients with surgically repaired tetralogy of Fallot by
+two-dimensional speckle tracking. Eur J Echocardiogr 2010, 11:786-92.
+133. Raman SV, Cook SC, McCarthy B, Ferketich AK: Usefulness of multidetector
+row computed tomography to quantify right ventricular size and
+function in adults with either tetralogy of Fallot or transposition of the
+great arteries. Am J Cardiol 2005, 95:683-6.
+134. Norgard G, Rosland GA, Segadal L, Vik-Mo H: Hemodynamic status in
+repaired tetralogy of Fallot assessed by Doppler echocardiography and
+cardiac catheterization. Comparisons with healthy subjects and
+elucidation of factors associated with cardiorespiratory function. Scand J
+Thorac Cardiovasc Surg 1993, 27:41-8.
+135. Wald RM, Lyseggen E, Oechslin EN, Webb GD, Silversides CK: Variability in
+surgical referral patterns for pulmonary valve replacement in adults with
+repaired tetralogy of fallot. Congenit Heart Dis 2009, 4:231-8.
+136. van der Wall EE, Mulder BJ: Pulmonary valve replacement in patients with
+tetralogy of Fallot and pulmonary regurgitation: early surgery similar to
+optimal timing of surgery? Eur Heart J 2005, 26:2614-5.
+137. Prakash A, Powell AJ, Geva T: Multimodality noninvasive imaging for
+assessment of congenital heart disease.Circ Cardiovasc Imaging2010, 3:112-25.
+138. Gottlieb D, Kunal T, Emani S, Aikawa E, Brown DW, Powell AJ, Nedder A,
+Engelmayr GC, Melero-Martin JM, Sacks MS, Mayer JE Jr: In vivo monitoring
+of function of autologous engineered pulmonary valve. J Thorac
+Cardiovasc Surg 2010, 139:723-31.
+139. Tang D, Yang C, Geva T, Del Nido PJ: Patient-specific MRI-based 3D FSI
+RV/LV/patch models for pulmonary valve replacement surgery and
+patch optimization. J Biomech Eng 2008, 130:041010.
+140. Tang D, Yang C, Geva T, del Nido PJ: Image-based patient-specific
+ventricle models with fluid-structure interaction for cardiac function
+assessment and surgical design optimization. Progress in Pediatric
+Cardiology 2010, 30:51-62.
+141. Ortega M, Triedman JK, Geva T, Harrild DM: LV dyssynchrony measured by
+MRI speckle tracking is associated with VT and death in repaired
+tetralogy of Fallot. Circulation 2009, 120:S575.
+142. Bove EL, Kavey RE, Byrum CJ, Sondheimer HM, Blackman MS, Thomas FD:
+Improved right ventricular function following late pulmonary valve
+replacement for residual pulmonary insufficiency or stenosis. J Thorac
+Cardiovasc Surg 1985, 90:50-5.
+143. Ilbawi MN, Idriss FS, DeLeon SY, Muster AJ, Berry TE, Paul MH: Long-term
+results of porcine valve insertion for pulmonary regurgitation following
+repair of tetralogy of Fallot. Ann Thorac Surg 1986, 41:478-82.
+144. Kanter KR, Budde JM, Parks WJ, Tam VK, Sharma S, Williams WH, Fyfe DA:
+One hundred pulmonary valve replacements in children after relief of
+right ventricular outflow tract obstruction. Ann Thorac Surg 2002,
+73:1801-6, discussion 1806-7.
+145. Oosterhof T, Meijboom FJ, Vliegen HW, Hazekamp MG, Zwinderman AH,
+Bouma BJ, van Dijk AP, Mulder BJ: Long-term follow-up of homograft
+function after pulmonary valve replacement in patients with tetralogy of
+Fallot. Eur Heart J 2006, 27:1478-84.
+146. Kogon B, Plattner C, Kirshbom P, Kanter K, Leong T, Lyle T, Jennings S,
+McConnell M, Book W: Risk factors for early pulmonary valve
+replacement after valve disruption in congenital pulmonary stenosis and
+tetralogy of Fallot. J Thorac Cardiovasc Surg 2009, 138:103-8.
+147. Lindsey CW, Parks WJ, Kogon BE, Sallee D, Mahle WT: Pulmonary valve
+replacement after tetralogy of Fallot repair in preadolescent patients.
+Ann Thorac Surg 2010, 89:147-51.
+148. van Straten A, Vliegen HW, Lamb HJ, Roes SD, van der Wall EE,
+Hazekamp MG, de Roos A: Time course of diastolic and systolic function
+improvement after pulmonary valve replacement in adult patients with
+tetralogy of Fallot. J Am Coll Cardiol 2005, 46:1559-64.
+doi:10.1186/1532-429X-13-9
+Cite this article as: Geva: Repaired tetralogy of Fallot: the roles of
+cardiovascular magnetic resonance in evaluating pathophysiology and
+for pulmonary valve replacement decision support. Journal of
+Cardiovascular Magnetic Resonance 2011 13:9.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submit
+Geva Journal of Cardiovascular Magnetic Resonance 2011, 13:9
+http://www.jcmr-online.com/content/13/1/9
+Page 24 of 24

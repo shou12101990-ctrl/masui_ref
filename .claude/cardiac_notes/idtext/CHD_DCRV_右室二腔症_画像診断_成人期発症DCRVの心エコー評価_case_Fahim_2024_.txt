@@ -1,0 +1,347 @@
+
+[[p1]]
+CONGENIT AL HEART DISEASE
+NEVER TOO YOUNG OR TOO OLD TO BE DIAGNOSED WITH CONGENIT AL HEART DISEASE
+Double-Chambered Right Ventricle
+Presenting in Late Adulthood in a Patient
+With Left Heart Disease
+Mirette A. Fahim, MD, Mark V. Zilberman, MD, Charles D. Resor, MD,
+Monica M. Dehn, BS, RDCS, Madhavi Kadiyala, MD, and Ayan R. Patel, MD, Boston, Massachusetts
+INTRODUCTION
+Double-chambered right ventricle (DCRV) is a rare congenital cardiac
+condition caused by an accessory muscle bundle (AMB) in the right
+ventricle that divides the chamber during systole into two compart-
+ments with different compartmental pressures, leading to an outﬂow
+gradient. DCRV has been associated most often with ventricular
+septal defects (VSDs) but less commonly can also occur in association
+with left heart disease in the absence of a VSD. Although DCRV is
+usually detected in children or younger adults, it can occasionally pre-
+sent in late adulthood as a cause of subpulmonic obstruction.
+CASE PRESENTATION
+A 67-year-old woman with history of ascending thoracic aneurysm,
+aortic stenosis (AS) and aortic regurgitation (AR) presented with a his-
+tory of a recent near-syncopal event. The patient was referred to our
+institution for transesophageal echocardiography (TEE) for assess-
+ment of the AR, as well as right and left heart cardiac catheterization.
+Right heart catheterization demonstrated a systolic pressure gradient
+of 55 mm Hg between the pulmonary artery and right ventricle,
+with systolic right ventricular (RV) and pulmonary artery pressures
+of 71 and 16 mm Hg, respectively. Coronary angiography demon-
+strated no coronary artery disease. TEE demonstrated a left ventricular
+ejection fraction of 65% to 70%, asymmetric thickening of the prox-
+imal interventricular septum, aortic root diameter of 4.5 cm at the si-
+nus of Valsalva, and ascending aortic diameter of 4.1 cm. The aortic
+valve (A V) was trileaﬂet and thickened, with restricted systolic leaﬂet
+excursion. Color ﬂow Doppler imaging of the AR demonstrated a
+vena contracta width of 0.61 cm (blood pressure 150/69 mm Hg).
+There was a redundant undulating mobile linear echodensity in the
+subaortic region that appeared to have an attachment to the basal
+septum, with an appearance suggestive of an atypical subaortic mem-
+brane (Figure 1, Video 1).
+Flow acceleration was seen on color ﬂow Doppler imaging in the
+region of the membrane, but no hemodynamically signiﬁcant sub-
+aortic gradient was detected on spectral Doppler interrogation. The
+A V area by three-dimensional and two-dimensional planimetry was
+1.2 cm
+2, indicating moderate valvular AS ( Figure 2A). The maximum
+and mean gradients across the A V region were 55 and 33 mm Hg,
+respectively (Figure 2B).
+The pulmonic valve leaﬂets appeared thin and pliable, with normal
+systolic excursion. There was narrowing of the subinfundibular region
+on two-dimensional imaging, and ﬂow acceleration was seen in the
+RV outﬂow tract (RVOT) on color ﬂow Doppler imaging ( Figure 3 ,
+Videos 2-4 ). The mean and peak gradients across the RVOT were
+16 and 26 mm Hg, respectively, indicating subpulmonic stenosis.
+No evidence of VSD was seen.
+T ransthoracic echocardiography (TTE) was performed for further
+evaluation of the Doppler gradients, and was able to demonstrate
+the ﬂow acceleration across the RV subinfundibular region, with a
+maximum gradient of 34 mm Hg and a mean gradient of 20 mm
+Hg (Figure 4). Although the RVOT is commonly evaluated in the para-
+sternal short-axis view on transthoracic imaging, in this case, the
+optimal window for spectral Doppler evaluation of the obstruction
+was the subcostal view. Pulsed-wave Doppler imaging in the left ven-
+tricular outﬂow tract (L VOT) conﬁrmed the lack of signiﬁcant resting
+gradient in the region of the subaortic membrane ( Figure 5).
+The patient was referred for cardiovascular magnetic resonance im-
+aging (CMR) for more detailed anatomic assessment of the subpul-
+monic region as well as determining the ratio of the pulmonic ﬂow
+(Qp) to systemic ﬂow (Qs) to further evaluate for intracardiac shunt.
+The CMR demonstrated an AMB encircling the distal right ventricle
+proximal to the infundibular RVOT, causing narrowing of the outﬂow
+and dividing the RV cavity during systole into two chambers, a
+morphologic appearance suggestive of DCRV due to subinfundibular
+stenosis (Figures 6A-C, Videos 5-7). The Qp/Qs ratio was 1.07, consis-
+tent with the absence of intracardiac shunt. Proximal interventricular
+septal thickening was also noted, with the basal septum measuring
+15 mm in thickness. There was no evidence of late gadolinium
+enhancement. Aortic regurgitant volume was 41 mL and regurgitant
+fraction was 44% by the volumetric method. The patient was referred
+for surgical evaluation for resection of the subinfundibular AMB and
+subaortic membrane and A V replacement.
+DISCUSSION
+DCRV is a rare cardiac anomaly, accounting for 0.5% to 2% of all
+congenital heart diseases. DCRV is caused by an AMB in the right
+ventricle that divides the chamber during systole into two compart-
+ments, with a proximal high-pressure compartment and a distal low-
+pressure compartment.
+1 The anatomy of the right ventricle in
+From The CardioVascular Center, Tufts Medical Center, Boston, Massachusetts.
+Keywords: Double-chambered right ventricle, Subinfundibular stenosis, Subaortic
+membrane, Aortic stenosis, Aortic regurgitation
+Correspondence: Ayan R. Patel, MD, The CardioVascular Center, Tufts Medical
+Center, 800 Washington Street, Boston, MA 02111 (E-mail: ayan.patel@
+tuftsmedicine.org).
+Copyright 2024 by the American Society of Echocardiography. This is an open
+access article under the CC BY-NC-ND license ( http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+2468-6441
+https://doi.org/10.1016/j.case.2024.05.011
+446
+[[p2]]
+DCRV can vary and may include an anomalous septoparietal band,
+anomalous apical shelf, or abnormal moderator band.
+DCRV is typically associated with other congenital anomalies, most
+commonly perimembranous VSDs with restrictive shunts in 75% of
+cases, and less commonly tetralogy of Fallot, double-outlet right
+ventricle, and Ebstein’s anomaly.
+2,3 The pathologic mechanism
+responsible for the anomaly is not clear, though it is believed that
+some patients develop postnatal hypertrophic changes in the crista
+supraventricularis or other RV muscular structures.
+2 It has been postu-
+lated that in patients with VSD, the shunting of blood causes hypertro-
+phy of muscular bands, with the portion of the RV cavity proximal to
+the hypertrophy experiencing a higher pressure compared with the
+Figure 2 (A) Two-dimensional TEE, midesophageal short-axis systolic view (49 /C14), demonstrates a trileaﬂet AV with restricted leaﬂet
+excursion (arrow). (B) Continuous-wave Doppler imaging across the AV (from a deep transgastric view) demonstrates the pathologic
+gradients.
+Figure 1 Two-dimensional TEE, midesophageal long-axis view
+(173/C14), demonstrates a redundant mobile linear membrane in
+the LVOT. AV, Aortic valve; LA, left atrium; LV, left ventricle;
+MV, mitral valve; SubAoM, subaortic membrane
+VIDEO HIGHLIGHTS
+Video 1: T wo-dimensional TEE, midesophageal long-axis view
+(173/C14), demonstrates a redundant, highly mobile linear mem-
+brane in the L VOT.
+Video 2: Two-dimensional TEE, midesophageal short-axis
+view (63
+/C14), demonstrates an AMB within the RVOT that nar-
+rows the subinfundibular region. Also seen coming in and out of
+the image is the L VOT linear membrane.
+Video 3: Two-dimensional TEE, transgastric long-axis view
+(94
+/C14), demonstrates the subinfundibular narrowing in the region
+of the AMB.
+Video 4: Two-dimensional TEE, transgastric long-axis view
+(94
+/C14) with color ﬂow Doppler, demonstrates the sub-
+infundibular narrowing in the region of the AMB with mosaic-
+appearing turbulence consistent with ﬂow acceleration.
+Video 5: CMR, balanced steady-state free precession
+sequence, midventricular display, demonstrates the morpho-
+logic features of DCRV with an AMB in the subinfundibular
+region.
+Video 6: CMR, balanced steady-state free precession
+sequence, basal RVOT display, demonstrates the morphologic
+features of DCRV with an AMB in the subinfundibular region
+creating a linear loss in signal artifact due to ﬂow acceleration
+across the area of maximal narrowing.
+Video 7: CMR, balanced steady-state free precession
+sequence, A V display, demonstrates the morphologic features of
+DCRV with an AMB in the subinfundibular region creating a
+linear loss in signal artifact due to ﬂow acceleration across the
+area of maximal narrowing.
+View the video content online at www.cvcasejournal.com
+.
+CASE: Cardiovascular Imaging Case Reports
+V olume 8 Number 9
+Fahim et al 447
+[[p3]]
+distal infundibulum. 4 In the present case, CMR conﬁrmed the
+absence of associated VSD both by calculating the Qp/Qs ratio and
+thorough examination of the interventricular septum in many stacked
+thin-slice cine views in different planes. Although no VSD was found
+in this patient, it has been observed that DCRV can develop years after
+VSD closure.
+5 It has been speculated that the impact of a high-velocity
+VSD jet hitting the RV free wall for years may activate a genetic pre-
+disposition for cellular growth factor production and tissue hypertro-
+phy even after the resolution of the shunt. 6 Thus, we cannot exclude
+the possibility that this patient had a VSD earlier in life that may have
+spontaneously closed.
+There is no known genetic pattern of inheritance for DCRV. In one
+study of 32 patients, 29 patients had an associated subaortic mem-
+brane.7 DCRV has also been reported in the setting of hypertrophic
+cardiomyopathy.8 Although our patient had basal septal thickening,
+there was no evidence of late gadolinium enhancement and other
+morphologic criteria of hypertrophic cardiomyopathy. In the present
+case, the patient was found to have an unusual appearing membrane
+in the L VOT, but no evidence of hemodynamically signiﬁcant sub-
+aortic obstruction was detected with pulsed-wave Doppler interroga-
+tion of the L VOT. On review of the literature, we found one reported
+case of DCRV in an elderly patient with AS in the absence of other
+lesions.
+9 It should be noted that subaortic membranes can be asymp-
+tomatic for years if the left ventricular outﬂow gradient is low, but the
+membrane-created alteration in ﬂow may impair normal A V anatomy,
+ultimately leading to progressive AR or, less commonly, AS, as seen in
+this patient.
+Patients with DCRV present frequently as infants or children, but
+later presentation in early adulthood has been reported.
+2 Diagnosis
+in late adulthood is extremely rare, but it is important that this
+Figure 3 (A) Two-dimensional TEE, midesophageal short-axis systolic view (63/C14), demonstrates an AMB within the RVOT that narrows
+the subinfundibular region. Two-dimensional TEE, transgastric long-axis systolic view (94 /C14) without (B) and with (C) color ﬂow
+Doppler, demonstrates the subinfundibular narrowing in the region of the AMB with mosaic-appearing turbulence consistent
+with ﬂow acceleration (arrow) and the pathologic gradients with continuous-wave Doppler (D). AMB, Accessory muscle bundle;
+PV, pulmonic valve.
+448 Fahim et al
+CASE: Cardiovascular Imaging Case Reports
+September 2024
+[[p4]]
+Figure 4 Continuous-wave spectral Doppler display across the RVOT obtained in the subcostal view demonstrates the pathologic
+subinfundibular gradient.
+Figure 5 Two-dimensional TTE, apical ﬁve-chamber view with color ﬂow Doppler-guided pulsed-wave spectral display (sample
+volume placed in the region of the subaortic membrane), demonstrates the absence of a hemodynamically signiﬁcant resting gradient
+in that region.
+CASE: Cardiovascular Imaging Case Reports
+V olume 8 Number 9
+Fahim et al 449
+[[p5]]
+condition be recognized in older adults who present with DCRV .
+Presenting symptoms usually include dyspnea and dizziness, with syn-
+cope occurring occasionally in patients with severe obstruction. In pa-
+tients with hemodynamically signiﬁcant obstruction, the RV
+obstruction can result in a decrease in left heart ﬁlling and reduced car-
+diac output, which may be a mechanism for syncope. A left-sided par-
+asternal systolic murmur may be auscultated in patients with DCRV .
+Although DCRV can be detected on TTE, the anatomy may not al-
+ways be optimally visualized.
+10 In this case, the patient was referred
+speciﬁcally for TEE, which was therefore performed ﬁrst; however,
+TTE is generally the ﬁrst imaging modality used in the detection of
+DCRV . When performing TTE in patients with DCRV, sonographers
+should obtain imaging from the subcostal short-axis view in order to
+optimize visualization of the subinfundibular obstruction as well as
+the alignment of the Doppler cursor with the subinfundibular obstruc-
+tion. Color ﬂow Doppler imaging is helpful to visualize ﬂow accelera-
+tion in the right ventricle, which can then be conﬁrmed with spectral
+Doppler imaging. Additionally, care should be taken to evaluate for
+any other associated cardiac lesions. When TTE is insufﬁcient, TEE
+can provide visualization of the subpulmonic gradient, pulmonic valve
+leaﬂet excursion, and subinfundibular narrowing. CMR is valuable for
+determining the diagnosis and for assessment for associated anoma-
+lies.
+11 In the present case, the spectral Doppler gradients across the
+DCRV by both TTE and TEE were substantially lower than those ob-
+tained on invasive hemodynamics, likely because of the difﬁculty in
+obtaining an optimal Doppler angle for interrogation.
+Management of clinically signiﬁcant obstruction usually involves
+surgical resection of the AMB. As obstruction is dynamic, b-blockers
+and calcium channel blockers may be used, although data regarding
+their efﬁcacy are limited.
+11 The current American Heart
+Association/American College of Cardiology guideline for the man-
+agement of adults with congenital heart disease has recommended
+surgical intervention for symptomatic patients with moderate RVOT
+obstruction (Doppler velocity $ 3.0 m/sec, peak gradient $
+Figure 6 CMR, balanced steady-state free precession sequence, midventricular (A), basal RVOT (B), and AV (C) short-axis systolic
+views, demonstrates the morphologic features of DCRV with an AMB in the subinfundibular region creating a linear loss in signal
+artifact due to ﬂow acceleration (asterisk). AMB, Accessory muscle bundle; dRV, distal infundibular (low pressure) right ventricle;
+pRV, proximal (high pressure) right ventricle; PA, pulmonary artery; PV, pulmonic valve; RA, right atrium; TV, tricuspid valve.
+450 Fahim et al CASE: Cardiovascular Imaging Case Reports
+September 2024
+[[p6]]
+36 mm Hg) and consideration of surgical repair in asymptomatic pa-
+tients with severe obstruction (Doppler velocity > 4.0 m/sec, peak
+gradient > 64 mm Hg, or mean gradient > 35 mm Hg).
+12 Other pub-
+lications have recommended consideration of surgical intervention in
+the setting of a cardiac catheterization–derived peak gradient of
+>40 mm Hg 2 or >50 mm Hg. 11 Data supporting the role of stress
+echocardiography for evaluating patients with DCRV are limited,
+but the use of dobutamine stress echocardiography to determine pro-
+vocable gradient in a symptomatic patient with a resting gradient of
+<50 mm Hg has been reported.
+13
+CONCLUSION
+DCRV is a rare entity and, although more common in children, can
+present in adulthood and, rarely, in late adulthood. Although this con-
+dition is most typically associated with VSD, it can also be seen in the
+setting of left heart lesions in the absence of VSD. Careful assessment
+using echocardiography can identify evidence of RVOT obstruction
+and features suggestive of DCRV . If this condition is suspected,
+CMR is useful to evaluate RV anatomy and associated anomalies
+and to evaluate for intracardiac shunt, as VSD is a commonly associ-
+ated condition. For patients with DCRV in whom clinically signiﬁcant
+RVOT obstruction is suspected but who demonstrate RV outﬂow ve-
+locity < 3.0 m/sec on echocardiography, stress echocardiography or
+invasive hemodynamics should be considered for further evaluation.
+Surgical management is usually needed for symptomatic patients with
+at least moderate obstruction and in asymptomatic patients with se-
+vere obstruction.
+ETHICS STATEMENT
+The authors declare that the work described has been carried out in
+accordance with The Code of Ethics of the W orld Medical
+Association (Declaration of Helsinki) for experiments involving humans.
+CONSENT STATEMENT
+The authors declare that since this was a non-interventional, retrospec-
+tive, observational study utilizing de-identiﬁed data, informed consent
+was not required from the patient under an IRB exemption status.
+FUNDING STATEMENT
+The authors declare that this report did not receive any speciﬁc grant from
+funding agencies in the public, commercial, or not-for-proﬁt sectors.
+DISCLOSURE STATEMENT
+The authors report no conﬂict of interest.
+SUPPLEMENTARY DATA
+Supplementary data related to this article can be found at https://doi.
+NPOMPOPUNMMQOQSMOTMOP?PM
+REFERENCES
+PM?j?mK?r?bK?`?xK?d?eqM?cL?
+ventricle. Circulation 2001;103:e105-6.
+2. Loukas M, Housman B, Blaak C, Kralovic S, T ubbs RS, Anderson RH. Dou-
+ble-chambered right ventricle: a review. Cardiovasc Pathol 2013;22:
+417-23.
+3. Malone RJ, Henderson ER, Wilson ZR, McMullan MR, Skelton TN,
+Campbell WF, et al. Double-chambered right ventricle in adulthood: a
+case series. CASE (Phila) 2024;8:202-9 .
+4. Luna-L/C19opez R, Segura de la Cal T, Sarnago Cebada F, Sol /C19 ıs J, L /C19opez-
+Guarch CJ. From double-chambered right ventricle to double-chambered
+left ventricle: unusual evolution of a ventricular septal defect. J Am Coll
+Cardiol Case Rep 2022 Oct;4:1384-6 .
+5. Kato R, Hosoba S, Fukumi D, Ito T. T otally 3D endoscopic repair of
+double-chambered right ventricle. Ann Thorac Surg Short Reports
+2023;1:88-90.
+6. Oliver JM, Garrido A, Gonzalez A, Benito F, Mateos M, Aroca A,
+et al. Rapid progression of mid-ventricular obstruction in adults
+with double-chambered right ventricle. J Thorac Cardiovasc Surg
+2003;126:71 1-7.
+7. V ogel M, Smallhorn JF, Freedom RM, Coles J, Williams WG, Trusler GA. An
+echocardiographic study of the association of ventricular septal defect and
+right ventricular muscle bundles with a ﬁxed subaortic abnormality. Am J
+Cardiol 1988;61:857-60.
+8. Ge J, Hu T, Liu Y, Wang Q, Fan G, Liu C, et al. Case report: double-cham-
+bered right ventricle diagnosed in a middle-aged female with hypertrophic
+cardiomyopathy and atrial ﬂutter: a rare case. Front Cardiovasc Med 2022
+Jul 22;9:937758.
+9. Y asumoto Y, Nakamura Y, Ushijima M, Y oshiyama D, Kuroda M, Sawa S,
+et al. An elderly case of aortic stenosis associated with a double-chambered
+right ventricle. J Cardiol Cases 2023;27:159-61 .
+10. Hoffman P, W /C19ojcik A W, R /C19o_za/C19nski J, Siudalska H, Jakubowska E,
+W1odarska EK, et al. The role of echocardiography in diagnosing double
+chambered right ventricle in adults. Heart 2004;90:789-93 .
+11. Bashore TM. Adult congenital heart disease: right ventricular outﬂow tract
+lesions. Circulation 2007;1 15:1933-47.
+12. Stout KK, Daniels CJ, Aboulhosn JA, Bozkurt B, Broberg CS, Colman JM,
+et al. 2018 AHA/ACC guideline for the management of adults with
+congenital heart disease: a report of the American College of Cardiol-
+ogy/American heart association task force on clinical practice guidelines.
+Circulation 2018;139:e698-800.
+13. Ito A, Iwata S, Ehara S, Izumiya Y, Y oshiyama M. Clinical usefulness of
+dobutamine stress echocardiography for the assessment of double-
+chambered right ventricle. Eur Heart J Cardiovasc Imaging 2019;
+20:120.
+CASE: Cardiovascular Imaging Case Reports
+V olume 8 Number 9
+Fahim et al 451

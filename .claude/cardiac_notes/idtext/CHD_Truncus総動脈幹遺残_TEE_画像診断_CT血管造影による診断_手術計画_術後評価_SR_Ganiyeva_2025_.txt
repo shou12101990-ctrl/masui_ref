@@ -1,0 +1,1145 @@
+
+[[p1]]
+ Systematic Review Article   
+http://mjiri.iums.ac.ir    
+.FEJDBM+PVSOBMPGUIF*TMBNJD3FQVCMJDPG*SBO	.+*3*
+
+Med J Islam Repub Iran. 2025 (17 Mar);39.41. https://doi.org/10.47176/mjiri.39.41  
+ 
+  
+ 
+ 
+Systematic Review of the Role of CT Angiocardiography in Enhancing the 
+Diagnosis and Management of Truncus Arteriosus  
+ 
+Aigerim Ganiyeva1*    , Raushan Rakhimzhanova1, Tairkhan Dautov2, Zhanar Abdrakhmanova1, Zhanar Kozhakhmetova1, 
+Asel Almusina1, Abay Naldibek1 
+ 
+Received: 24 Aug 2024                Published: 17 Mar 2025 
+ 
+Abstract 
+		  Background: Truncus arteriosus represents a complex congenital heart disease, and accurate diagnostic imaging should be followed 
+to provide adequate treatment. Computerized tomography (CT) ang iography has thus been identified as a valuable technique for 
+diagnosing, assessing surgical procedures, and tracking post-operative results in patients with these conditions.  
+   Methods: The databases PubMed, Embase, Cochrane Library, plus Google Sc holar were searched for potential studies addressing 
+diagnostic accuracy, planning prior to surgery, and follow-up a fter surgery. In this review, analysis was undertaken for data retrieved 
+from several CT angiocardiography cases to demonstrate the benefits of the technique and its efficiency.  
+   Results: CT angiocardiography is superior  to conventional angiography in  that it is non-invasive and has high-resolution three-
+dimensional imaging, which improves the diagnostic ability of truncus arteriosus and the assessment of associated anomalies. It enhances 
+preoperative planning since it presents a highly detailed map o f the human body, thus enabling the surgeon to map out the plan ned 
+operations and, at the same time, anticipate any complications.  This approach is valuable because postoperative evaluation wit h CT 
+angiocardiography is used to determine the success of surgical operations as well as identify residual defects or complications that may 
+occur in the future and which would lead to reduced success.  
+   Conclusion: Through the use of CT angiocardi ography, managing patients wit h truncus arteriosus has become easier owing to the 
+high diagnostic precision provided by the technique, as well as the assistance in proper surgical planning and postoperative monitoring. 
+Clinical Practice messages include a call to incorporate CT in Pre-operative & follow-up evaluation.  
+ 
+Keywords: Truncus Arteriosus, Congenital Heart Defects, Diagnostic Imaging, Pre-Surgical Planning, Pediatric Cardiology 
+ 
+Conflicts of Interest: None declared 
+Funding: None 
+ 
+*This work has been published under CC BY‐NC‐SA 4.0 license. 
+  Copyright© Iran University of Medical Sciences  
+ 
+Cite this article as: Ganiyeva A, Rakhimzhanova R, Dautov T, Abdrakhmanova Z, Kozhakh metova Z, Almusina A, Naldibek A. Systematic Review 
+of the Role of CT Angiocardiography in Enhancing the Diagnosis and Management of Truncus Arteriosus. Med J Islam Repub Iran. 2025 (17 Mar);39:41. 
+https://doi.org/10.47176/mjiri.39.41  
+ 
+ 
+ 
+ 
+Introduction 
+Truncus arteriosus, or common arterial trunk, is a com-
+plex congenital cardiac malformation in which a single ar-
+terial duct arising from the heart supplies both the systemic 
+and the pulmonary circulation (1). This anomaly is caused 
+by the failure of an embryonic truncus arteriosus to divide 
+into the aorta and the pulmonary artery during fetal devel-
+opment, and thus, it gives only a common arterial trunk that 
+overrides a very large ventricular septal defect (VSD). 
+______________________________ 
+Corresponding author: Aigerim Ganiyeva, anarbekkyzy0805@gmail.com 
+                                                           
+PM?r ?q ?h ? ?q ? ? ?yMgM ?jK ?mirb 
+“Astana Medical University”, Astana, Republic of Kazakhstan 
+2. Department of Radiology and Nuclear Medicine, Corporate Foundation "University 
+Medical Center", Astana, Republic of Kazakhstan 
+ 
+↑What is “already known” in this topic: 
+Truncus arteriosus is a rare congenital heart defect characteri zed by a 
+single arterial trunk arising from the heart, supplying systemi c, 
+pulmonary, and coronary circulation. This anomaly requires earl y 
+diagnosis and surgical intervention due to its complex anatomy and life-
+threatening nature.   
+ 
+→What this article adds: 
+This review aims to highlight the critical role of CT angiocard iography 
+in diagnosing and evaluating surg ical interventions for truncus  
+arteriosus. It provides a concise overview of the advantages of  C T  
+angiography compared to other imaging modalities, such as MRI, PET 
+scans, and echocardiography, focusing on its superior anatomical detail, 
+rapid imaging capabilities, and utility in both preoperative planning and 
+postoperative assessment.
+[[p2]]
+    
+ CT Angiocardiography in Truncus Arteriosus Diagnosis and Management   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+2 
+Therefore, oxygenated and deoxygenated blood is allowed 
+to mix in the heart, which has major metabolic and anatom-
+ical effects (2). 
+Truncus arteriosus presents structural and hemodynamic 
+problems; therefore, it is actually a combined problem (3). 
+The circulatory system configuration is such that the ven-
+tricles pump the arterial Trunk, which delivers a combina-
+tion of oxygenated and de- oxygenated blood to the sys-
+temic circulation, leading to systemic hypoxemia and cya-
+nosis (4). In addition, the rise in the pulmonary blood flow 
+can cause pulmonary hypertension and increase the risk of 
+congestive heart failure if the condition persists (5, 6). 
+Truncus arteriosus is referred to as a ‘congenital heart le-
+sion’ that commonly manifests in the first few days or 
+weeks of infancy; common symptoms include cyanosis, 
+respiratory distress, and signs of congestive heart failure. 
+These symptoms make it important that first-degree diag-
+nostic evaluation is done in effort to start management pro-
+tocols (7). 
+Early diagnosis of truncus arteriosus for several reasons 
+is crucial and requires specific diagnostic techniques (8). 
+First, early detection ensures that proper management of 
+patients is done through proper medication before they can 
+undergo surgery (9). Second, knowledge of the specific 
+anatomy of this area is paramount for surgical intervention 
+because of dissection patterns and the comorbidities often 
+seen in hypoplastic left hearts, including interrupted aortic 
+arch or anomalous coronary arteries (10). Medical manage-
+ment with balloon dilation angioplasty along with surgical 
+intervention, including division of the pulmonary arteries 
+from the trunk and creation of a shunt or conduit for the 
+passage of the right ventricle and closure of VSD, is done 
+ideally in the first few weeks of life to increase the survival 
+rate and prognosis (11). 
+CT angiocardiography is one of the most effective diag-
+nostic tools used in the diagnosis of truncus arteriosus and 
+comes with several benefits compared to several diagnostic 
+techniques like echocardiography and MRI (12). It affords 
+a clear picture of the cardiac structure and any related con-
+genital abnormality or distortion that may be seen in the 
+defect. Thus, the clear differe nces in the obtained images 
+can be helpful in identifying the precise location and size 
+of the common arterial trunk, the location of the VSD, and 
+the presence of additional vascular pathology (13). 
+Rapid image acquisition makes CT angiocardiography 
+very useful when utilizing the study in neonates and infants, 
+as these patients cannot stand long scanning procedures due 
+to potential complications associated with sedation or anes-
+thesia (14). Because it is a noninvasive test yet reveals de-
+tailed anatomical images, CT angiocardiography can be 
+considered part of the first-line investigation for patients 
+who are believed to have truncus arteriosus (15). 
+While CT angiocardiography indeed helps in the diag-
+nostic phase, it also serves to assess the results achieved 
+concerning surgical interventions. Outcome assessment by 
+CT angiocardiography also helps clinicians assess how well 
+the surgical repair has been done, specifically the conduit 
+between the right ventricle and the pulmonary arteries (16). 
+It also allows for identifying any left-over abnormalities 
+that may still be felt within the structures previously left, 
+like situations when the VSD is not completely closed, or 
+there is stenosis or regurgitation within the repaired area 
+(17).  
+The main purpose of this review is to explore the essen-
+tial function of CT angiocardiography in the diagnosis and 
+assessment of the surgical intervention for truncus arterio-
+sus. This review seeks to give a mini-review on the benefits 
+of CT angiography over other imaging techniques such as 
+MRI and PET scans, echo in its ability to provide better de-
+tails of the anatomy, the time that it takes to do the scan, 
+and its ability to do pre-operative planning as well as post-
+operative evaluation. Based on the current literature and 
+best practices in clinical care for patients with truncus arte-
+riosus, this review aims to highlight the usefulness of CT 
+angiocardiography in enhancing patient outcomes. 
+ 
+Literature Review 
+Clinical Signs and Symptoms 
+The clinical presentation of truncus arteriosus typically 
+occurs within the first few days to weeks of life. It includes: 
+The clinical presentation of truncus arteriosus typically oc-
+curs within the first few days to weeks of life and includes 
+(18, 19): 
+Blue discoloration of the skin due to less oxygen in cir-
+culation (cyanosis). Respiratory distress is when the child’s 
+breath rate is fast and difficult, coupled with audible noises 
+during breathing. Failure to thrive and poorly coordinated 
+eating habits are also featured in core symptoms of infants. 
+Heart murmur, a harsh systolic murmur, usually arises from 
+the turbulent bloodstream through the VSD and the truncal 
+valve (20). Pulmonary congestion and volume overload 
+also result in the occurrence of tachypnea, hepatomegaly as 
+well as edema signs. Therefore, these symptoms should be 
+diagnosed as early as possible so that subsequent interven-
+tions may be commenced to enhance the infants' perfor-
+mance and reduce the severity of the outcomes (21). 
+ 
+Role of CT Angiocardiography in Diagnosis 
+CT angiocardiography or cardiac CT is a diagnostic im-
+aging method that uses no invasive procedure to create il-
+lustrations of the cardiac organ and the structures linked 
+with it with the aid of CT. In the case of diagnosing truncus 
+arteriosus, the purpose of goal orientation is to provide 
+high-quality images that are detailed with respect to the 
+shape and positioning of the heart and significant blood 
+vessels (22). The standard protocol for CT angiocardiog-
+raphy involves several steps (23, 24): 
+Preparing the patient well for the test may involve an 
+overnight fast and the use of beta-blocker drugs, which help 
+reduce the rate of heartbeat and hence enhance image clar-
+ity (25). Contrast media is given intravenously to better vis-
+ualize the cardiac chambers, arteries, and veins. There is 
+primarily a species difference in the timing of contrast in-
+jection and secondarily in the sequence for getting the best 
+opacification of the cardiovascular structures (26). Dual-
+source CT scanners provide images in multiple phases, but 
+the phase most often needed is the arterial phase, which 
+gives images of systemic and pulmonary arteries. Current 
+state-of-the-art multi-detector Computed Tomography 
+[[p3]]
+ 
+A. Ganiyeva, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+3 
+(MDCT) scanners allow for the possibility of obtaining im-
+ages in a relatively short time and with high spatial resolu-
+tion (27). The values that are acquired are reconstructed in 
+three dimensions through the application of superior soft-
+ware. It also means that one can display and review the lo-
+cation and extent of the CHD, specifically involving the 
+common arterial trunk, ventricular septal defect (VSD), 
+and, if present, other comorbid conditions (28). 
+The pre-surgical assessment of truncus arteriosus signif-
+icantly involves the use of CT angiocardiography to deter-
+mine comprehensive and accurate aspects of cardiac anat-
+omy as well as other associat ed structural abnormalities. 
+Anatomical structures have to be defined accurately to plan 
+the surgical procedures, and this is a considerable challenge 
+that only state-of-the-art systems can offer (29,30). In this 
+technique, CT angiocardiography is especially well suited 
+to aspiring associated anomalies, which are usually present 
+in truncus arteriosus. Among these, ventricular septal de-
+fects (VSD) and aortic arch anomalies are common (31): 
+PM?u?r?c?GurcHY??s??
+is always characterized when there is a large VSD. The rest 
+of the paper is analyzed to explain the work in detail. CT 
+angiocardiography offers excellent anatomical detail, local-
+ization, and sizing of the VSD, which may assist in surgical 
+management. 
+2. Aortic Arch Anomalies: This can be a congenital con-
+dition such as an interrupted aortic arch or variations in 
+branching of the aorta. These deviations need to be redone, 
+using CT’s high resolution to pinpoint the areas that require 
+further surgery. 
+3. Pulmonary Arteries:  Once again, the origin and 
+course of the pulmonary arteries, including the main 
+branches and their branching pa ttern, need to be perfectly 
+visualized. The anatomy of the pulmonary artery varies, 
+which brings about huge differences in the surgeries con-
+ducted and in the results obtained. 
+4. Coronary Arteries:  Loosely connected coronary ar-
+tery is another cardiovascular feature often seen in patients 
+with the disease. CT angiocardiography helps view the or-
+igins and the location of the coronary arteries, which is im-
+portant for minimizing risk factors during a surgical proce-
+dure (32, 33). 
+CT is a highly sensitive and specific method that can be 
+used for the diagnosis of congenital heart defects such as 
+truncus arteriosus. CT is at an advantage with high spatial 
+resolution and the ability to reconstruct in the three planes 
+of space so the contours of cardiac and vascular structures 
+are well defined. It has been  found that the sensitivity and 
+specificity rates with CT angiocardiography are over 90% 
+compatible with the diagnosis of various congenital heart 
+diseases (34-36). 
+ 
+Methods 
+General Background 
+Based on the identified articles, this review will be aimed 
+at emphasizing the use of CT angiocardiography in the di-
+agnosis, preoperative planning as well as postoperative as-
+sessment of truncus arteriosus. It is, therefore, the intention 
+to review and integrate recen t literature and clinical ap-
+proaches that best explain the importance and utility of CT 
+angiocardiography in targeting this complex CHD (27).  
+ 
+Inclusion Criteria 
+To ensure a comprehensive and relevant review, the fol-
+lowing inclusion criteria were applied to select studies and 
+articles:  
+Study Type:  Only articles published in peer-reviewed 
+journals and only primary research on species, clinical tri-
+als, systematic review, and meta-analysis were considered. 
+Language: The articles were published in the English 
+language in the international database. 
+Publication Date: Research papers that have been made 
+available within the last two decades to make sure that the 
+findings are up to date with the latest developments pro-
+pelled by advanced technologies. 
+Population: Research was conducted on neonatal, in-
+fancy, and childhood subjects with confirmed diagnoses of 
+truncus arteriosus. 
+Intervention: Articles pertaining to the applications of 
+CT angiocardiography for the diagnosis, preoperative lo-
+calization, and postoperative assessment of patients with 
+truncus arteriosus. 
+Outcomes: Original articles assess the diagnostic perfor-
+mance of CT angiocardiography, evaluate surgical strategy 
+and feasibility, conduct post-su rgical analysis, and cite 
+long-term data. 
+ 
+Exclusion Criteria 
+The following exclusion criteria were used to filter out 
+irrelevant studies: 
+Study Type: Systematic reviews and meta-analyses, clin-
+ical trials, and policies do not meet these criteria; excluded 
+studies also included any that  were conference abstracts, 
+editorials, or opinions written in a letter or with letters be-
+tween the authors. 
+Language: Some of the articles have not been published 
+in English. 
+Publication Date: Research work that is over two dec-
+ades, barring research studies that are referred to as classic 
+papers that give basic ideas. 
+Population: Research based on adult participants or 
+other defects of congenital heart diseases, excluding trun-
+cus arteriosus. 
+Intervention: Previously published papers or studies that 
+explain any other imaging modality in detail without com-
+parison to CT angiocardiography or articles that do not ad-
+dress CT angiocardiography at all. 
+Outcomes: Any work for which there is no distinct result 
+concerning the diagnostic capability assessment, surgical 
+planning, or post-surgery assessment. 
+ 
+ 
+Information Sources 
+The literature review involved searching multiple elec-
+tronic databases to identify relevant studies and articles:  
+PubMed, Scopus, Web of Science, and Cochrane. 
+ 
+[[p4]]
+    
+ CT Angiocardiography in Truncus Arteriosus Diagnosis and Management   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+4 
+Data Collection 
+The data collection process included:  
+Search Strategy: Specific s earch with conceivable tech-
+nical terms and Medical Subject Headings (MeSH terms) 
+of ‘truncus arteriosus’, ‘CT angiocardiography’, ‘diagno-
+sis’, ‘pre-operative planning’, and post-operative evalua-
+tion. Screening: Titles and abstracts were screened to judge 
+the relevance of articles. In the next step, studies retrieved 
+through the search were screened for their relevance by ref-
+erencing the objective criteria for inclusion and exclusion. 
+Data Extraction:  The information from the included 
+study was collected using the extraction form, where some 
+of the details included general information about the study, 
+trial details, patient information, CT angiocardiography 
+procedural details, and results. 
+ 
+Synthesis of Evidence  
+In this case, the study encompasses a narrative review 
+since it involves the integration and analysis of qualitative 
+data and descriptive statistics. Where possible, the sensitiv-
+ity, specificity, and diagnostic accuracy of each study were 
+mentioned, including the percentage rates as well.  
+ 
+Results 
+A systematic search employing a specific search strategy 
+yielded 800 articles initially. Subsequent screening based 
+on titles and abstracts narrowed down the selection to 150 
+articles for full-text evaluation. Upon thorough assessment, 
+56 articles were deemed relevant and subsequently utilized 
+to inform and construct this review (Figure 1). 
+The findings of several studies also show how angiocar-
+diography with CT is more effective than other diagnostic 
+techniques in obtaining high-resolution imaging in a three-
+dimensional format required for the correct diagnosis and 
+for follow-up, both pre and post-surgical. 
+A recent technique known as CT angiocardiography has 
+been useful in diagnosing truncus arteriosus and other rele-
+vant abnormalities (37, 38). This spatial resolution helps to 
+provide a clear definition of the common arterial trunk, 
+ventricular septal defect (VSD), and other vascular lesions, 
+including the aortic arch and coronary arteries (39, 40).  
+The literature review has revealed that numerous authors 
+state that the diagnostic yield of CT angiocardiography is 
+higher compared to other imaging techniques, such as those 
+employed by echocardiography or MRI, due to improved 
+ability to depict both the general vascular anatomy and spe-
+cific, minor details (41, 42). The pre-surgical visualization 
+of the detailed anatomy by CT angiocardiography is much 
+easier than in conventional angiography (43). The anatom-
+ical correlations and operative models can present surgeons 
+with a clear perspective of the positional orientation be-
+tween different portions of the heart. It has been observed 
+that this endoscopic view greatly aids in visualizing the ex-
+act location and size of the VSD, the course of coronary 
+arteries, and the shape and si ze of pulmonary arteries. For 
+ 
+e?PM?r????
+ 
+
+[[p5]]
+ 
+A. Ganiyeva, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+5 
+this reason, patients who have undergone a magnetic reso-
+nance spectroscopy (MRS) can have their procedure 
+planned to the finest detail, thus lessening the possibility of 
+an intraoperative disaster (44, 45). 
+Research work has found that patients who undergo this 
+analysis for preoperative planning have improved chances 
+of success during surgery and lesser post-operation compli-
+cations. As in the case of patients with truncus arteriosus, 
+CT angiocardiography is very useful for postoperative as-
+sessment. It gives the necessary and detailed evaluation of 
+the operated area of repairs, for instance, the patency of 
+conduit from the right ventricle to the pulmonary artery 
+alongside the closure of VSD (46, 47).  
+Furthermore, CT angiocardiography can define residual 
+or early postoperative problems, such as stenosis or regur-
+gitation, which are essential for early surgical intervention. 
+Various case reports categorically demonstrate the role of 
+CT angiocardiography in the management of patients. For 
+example, in patients with impaired anatomies of the coro-
+nary arteries, such as in patients with truncus arteriosus, CT 
+angiocardiography gave important information for surgical 
+planning, which resulted in improved prognosis and overall 
+success of surgeries (48, 49). For instance, CT angiocardi-
+ography showed pulmonary artery stenosis, which was not 
+appreciated before in a patie nt, and earlier intervention 
+yielded better outcomes in pos t-surgical management (50, 
+51). 
+Kumar et al. (13) investigated the role of CT in the pre- 
+and postoperative assessment of common arterial trunk 
+anomalies. They reported that CT has emerged as an effec-
+tive tool for the assessment of CHD, especially conotruncal 
+lesions prior to surgery and at follow-up after surgery. Mul-
+tidetector CT imaging is detailed, which helps in planning 
+and aftercare procedures following surgeries. CT is differ-
+ent from echocardiography and MRI, which suffer from 
+small acoustic windows, metallic implants, and the need for 
+sedation/anesthesia. With enhanced CT technologies such 
+as dual-source and wide-detect or CT, high-efficiency de-
+tectors, high x-ray tube power, automatic tube current mod-
+ulation, and advanced post-processing three-dimensional 
+imaging techniques, the technique presents a low risk im-
+proved quality method of dia gnosing cardiac pathology 
+compared to diagnostic cardiac catheterization or MRI.  
+This review also presents several conotruncal anomalies, 
+imaging them before and after surgical intervention with 
+the help of CT scans. Another case presentation by Alka-
+thiri et al. (12) demonstrated that Anomalies can be related 
+to other vascular complexities: there may be other associ-
+ated cardiovascular malformations in the complex cardiac 
+malformations. The branching patterns of the aortic arch 
+have surgical significance, and the echocardiographic view 
+may not be adequate in identifying the branching pattern as 
+curved in the current case.  
+Thus, there is a place to perform additional imaging con-
+ducted with the help of low-dose CT angiography, which 
+should be considered as much as possible for more accurate 
+preoperative planning of surgical intervention. Textual de-
+scriptions can sometimes mislead the reader about the spa-
+tial organization of these lesions; visual images extracted 
+from volume-rendered data sets coupled with 3D models 
+may present a more accurate picture.  
+Koplay et al. (52) demonstrated that the performance of 
+dual-source CT angiography is then assessed in this regard 
+in detecting congenital cardiac abnormality (CAAs) and by 
+offering high-quality images, which are vital in surgical 
+planning. As with any imaging technique, CT angiography 
+does not provide as much detail as invasive coronary angi-
+ography, but it is less invasive and more generally applica-
+ble than other strategies such as echocardiography or MRI 
+that are limited by small acoustic windows, metallic im-
+plants that can degrade the image or the need for sedation 
+in young and uncooperative patients. The study pointed out 
+that CAAs are more often seen in patients with complex 
+CHD and are prone to be seen during surgical interventions. 
+Therefore, the utilization of dual-source CT angiography as 
+a beneficial tool for guide-line CHD assessment and pre-
+operative planning improves surgical results and patient 
+management. 
+ 
+Discussion 
+This review discusses the use of CT angiocardiography 
+in the diagnosis and assessment after surgery for children 
+with truncus arteriosus, a congenital heart disease. Our dis-
+cussion ties the existing literature and current practices to 
+evidence the usefulness of CT angiocardiography for man-
+aging truncus arteriosus. Compared with other imaging di-
+agnostic tools such as echocardiography and MRI, CT an-
+giocardiography offers an accu rate anatomical depiction 
+for diagnosis. It provides good resolution enhanced three-
+dimensional imaging for the common arterial trunk, ven-
+tricular septal defect, and associated abnormalities such as 
+aortic arch and coronary artery anomalies. This level of de-
+tail is essential in helping the clinician make a correct diag-
+nosis and in trying to further evaluate the severity of the 
+defect. 
+This article brings out the importance of CT angiocardi-
+ography, especially in planning for surgery. It is particu-
+larly useful in defining the su rgical strategy because it de-
+tects other associated congenital anomalies like pulmonary 
+artery and coronary artery. Three-dimensional reconstruc-
+tions, along with surgical mapping, help in detailed plan-
+ning and thus provide the surgeon with a map and view of 
+the field of operation and potential problems ahead. De-
+scriptions of patient encounters show that CT angiocardi-
+ography has changed surgical plans, making them more 
+specific and appropriate.  
+CT angiocardiography is also of paramount importance 
+in the follow-up assessment since it offers a platform for 
+evaluating the success of surgical interventions. It can as-
+sess the residual defects, such as the incompletely closed 
+VSD or problems with the conduit, and timely identify 
+complications, such as stenosis or regurgitation after the 
+operation. Additionally, CT angiocardiography is used for 
+the follow-up of patients as this technique provides detailed 
+images of the anatomy after surgical corrections to deter-
+mine durability and early signs of complications requiring 
+reintervention (53).  
+[[p6]]
+    
+ CT Angiocardiography in Truncus Arteriosus Diagnosis and Management   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+6 
+There are different modalities to diagnose congenital 
+heart diseases, such as truncus arteriosus. CT angiocardiog-
+raphy is a superior technique in terms of anatomical detail 
+and is invaluable for preoperative planning and assessment 
+of the intricate anatomy of CHDs. Its high frame rate also 
+means that patients do not have to be kept under heavy se-
+dation for long durations, a unique attribute that endears it 
+to the children admitted in  critical conditions, notwith-
+standing the fact that most modalities entail exposure to ra-
+diation. Echocardiography is more commonly used first 
+through imaging studies because it does not require the in-
+troduction of a contrast agent and provides a real-time view 
+(54).  
+However, its potential is somewhat less when one re-
+quires detailed information about the organs’ anatomy or 
+when acoustic windows are compromised. MRI creates 
+clear images without the use of radiation and is ideal for 
+imaging the body structures and their functions. However, 
+its application is somewhat limited. More time is taken in 
+acquisition, and the patient may have to cooperate or be 
+placed under some anesthesia. T his technique, therefore, 
+despite being invasive, remains the gold standard in the as-
+sessment of patients’ hemodynamics and the provision of 
+interventional procedures. This is most commonly applied 
+in those situations in which other imaging modalities are 
+incapable of supplying adequate detail (55) (Table 1). 
+Heterotopic ventricles are commonly found in associa-
+tion with complex CHD, and there are other associated vas-
+cular lesions which will alter the surgical strategy. Some of 
+these variations are obviously surgical targets that should 
+be understood well before undertaking any intervention; 
+another example is variation in the aortic arch. Although 
+routine 2D echocardiograms are helpful, they might have 
+some deficiencies in assessing the branching patterns of the 
+aortic arch. As such, it is recommended that CT angi-
+ography using low doses should be performed to overcome 
+these limitations. The advantage of using CT angiography 
+is the ability to obtain high-resolution three-dimensional 
+images that may portray anatomical details and deviations 
+that are improbable to be identified using echocardiography 
+(56, 57).  
+This technique offers a unique opportunity to visualize 
+the vascular system in detail and helps in the effective plan-
+ning of operations before surgery is performed. With the 
+help of volume rendering images and 3D models gained 
+from CT angiography data, a better understanding of such 
+complex vascular anomalies can be provided, which will 
+help surgeons preview possible complications during sur-
+gery and improve surgical strategies. Therefore, the appli-
+cation of low-dose CT angiography as a part of serial ex-
+aminations of patients with complex congenital heart dis-
+ease can significantly contribute to more effective planning 
+ 
+s?PM?`??????????
+Imaging Modality Description Adva ntages Limitations Clinical Ap plications 
+CT Angiocardiog-
+raphy 
+Combines X-rays with 
+computer technology to 
+image blood vessels and 
+cardiac structures. 
+- High-resolution, 
+three-dimensional im-
+ages 
+- Detailed anatomical 
+visualization 
+- Rapid acquisition time 
+- Not limited by acous-
+tic windows or metallic 
+implants 
+- Excellent for pre-sur-
+gical planning and post-
+surgical evaluation 
+- Radiation exposure, es-
+pecially in pediatric pa-
+tients 
+- Requires contrast admin-
+istration- Risk of ne-
+phrotoxicity from contrast 
+agents 
+- Detailed anatomical assess-
+ment of complex CHDs 
+- Pre-surgical planning 
+- Post-surgical evaluation and 
+long-term follow-up 
+Echocardiography Uses ultrasound to visual-
+ize heart structures and 
+blood flow. 
+- Non-invasive- No ra-
+diation exposure- Real-
+time imaging- Widely 
+available and cost-ef-
+fective 
+- Limited by acoustic win-
+dows- Operator-depend-
+ent- May not provide suffi-
+cient detail for complex 
+anatomy 
+- Initial assessment of CHDs- 
+Functional assessment of car-
+diac valves and chambers- 
+Monitoring during surgery 
+Magnetic Resonance 
+Imaging [MRI) 
+Detailed imaging of car-
+diac anatomy and func-
+tion using magnetic reso-
+nance. 
+- High-resolution im-
+ages without radiation- 
+Excellent for soft tissue 
+contrast 
+- Functional and ana-
+tomical assessment 
+- Long acquisition times- 
+May require sedation or 
+anesthesia 
+- Contraindications include 
+metallic implants and cer-
+tain medical devices 
+- Detailed anatomical and func-
+tional assessment- Evaluation 
+of vascular structures and 
+blood flow 
+- Long-term follow-up of 
+CHDs 
+Cardiac Catheteriza-
+tion 
+Invasive procedure to as-
+sess pressures and oxygen 
+levels allows for interven-
+tional therapy. 
+- Gold standard for he-
+modynamic assessment 
+- Allows for interven-
+tional procedures 
+- Invasive with associated 
+risks 
+- Radiation exposure- Re-
+quires sedation or anesthe-
+sia 
+- Hemodynamic assessment 
+- Interventional procedures 
+such as stent placement and 
+balloon angioplasty 
+Chest X-Ray Radiographic imaging of 
+the chest. 
+- Quick and widely 
+available 
+- Useful for initial as-
+sessment of heart size 
+and pulmonary vascula-
+ture 
+- Limited anatomical detail 
+- Radiation exposure 
+- Initial assessment and screen-
+ing 
+- Monitoring of heart size and 
+pulmonary congestion 
+Electrocardiogram 
+(ECG) 
+Measures electrical activ-
+ity of the heart. 
+Identifies arrhythmias 
+and conduction abnor-
+malities. 
+Limited in structural diag-
+nosis, may not detect all 
+abnormalities. 
+Screening for arrhythmias, 
+supporting CHD diagnosis. 
+ 
+[[p7]]
+ 
+A. Ganiyeva, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+7 
+of surgical interventions due to the acquired detailed ana-
+tomical information and individual approach to the choice 
+of tactics (12). 
+ 
+Conclusion 
+Currently, CT angiocardiography plays a significant role 
+in acquiring three-dimensional imaging in three planes, 
+which is vital for adequate diagnosis and detection of other 
+congenital disorders in patients with truncus arteriosus. In-
+troduced technical refinements in CT angiocardiography 
+bring improvements in imaging definition at the tissue level 
+and, therefore, lead to better mapping and depiction of the 
+anatomy of the common arterial trunk, ventricular septal 
+defect, and other associated vascular anomalies.  
+There is nothing like too much information in the diag-
+nosis of this type of problem; it helps in developing appro-
+priate strategies for managing the congenital heart defect. 
+Apart from the diagnostic utility, CTA serves a great role 
+in pre-surgery planning accurate ly. In addition to detailed 
+3D images and surgical copyright, CT angiocardiography 
+also provides visualization of the spatial topography be-
+tween different structures in the heart. Detailed stream 
+mapping helps in determining the exact anatomic location 
+and size of the VSD, its shape and size, the course of the 
+coronary arteries, and the morphology of the pulmonary ar-
+teries.  
+As such, it allows for better postoperative planning of 
+surgeons’ operations and minimizes the risk of intraopera-
+tive complications ,improving the likelihood of favorable 
+surgical outcomes. In addition, CT Angiocardiography’s 
+main use is in the assessment and follow-up after the recov-
+ery from surgery. It enables comprehensive evaluation of 
+the surgical reconstruction, including patency and function-
+ality of RV outflow conduit to t he pulmonary arteries, as 
+well as the function of VSD septal sutures.  
+Furthermore, CT angiocardiography can visualize resid-
+ual abnormalities or arterial switch operation (ASO)-re-
+lated early complications, including the areas of stenosis or 
+regurgitation, which is vital for appropriate management. 
+By performing follow-up with the CT angiocardiography, 
+close surveillance is effective in detecting any problems 
+with the repaired structures, thus enhancing the durability 
+and effectiveness of treatment for the patients. 
+ 
+Recommendations and Future Research 
+Our review suggests that CT angiocardiography should 
+be adopted as standard imaging in pre-surgical planning for 
+patients with truncus arteriosus owing to its high anatomi-
+cal resolution. Follow-up protocols using CT need to be im-
+plemented to assess surgical outcomes and to identify com-
+plications early. Carefully combined interpretation by car-
+diologists, radiologists, and surgeons significantly contrib-
+utes to clear communication a nd effective surgical deci-
+sion-making. Further, reducing radiation dose through 
+technology improvement and increasing the educational 
+level of clinicians in the CT application are also important. 
+Future research will need to include long-term follow-up 
+studies to assess patient outcomes, investigation of new and 
+advanced modalities of CT to increase its specificity while 
+minimizing radiation exposure, and comparison of CT with 
+other imaging modalities. Establishing CT-specific imag-
+ing protocols for children and randomized controlled trials 
+to measure the effects of CT-facilitated procedures on sur-
+gical outcomes also have potential. Improving these areas 
+will make managing truncus arteriosus through CT angio-
+cardiography more clinically useful and provide better pa-
+tient care.  
+ 
+Authors’ Contributions 
+Conceptualization, Aigerim Ganiyeva, Raushan Rakhim-
+zhanova, and Tairkhan Dautov; methodology, Aigerim 
+Ganiyeva, Zhanar Abdrakhmanova, and Zhanar Ko-
+zhakhmetova; validation, Raushan Rakhimzhanova, Tair-
+khan Dautov, and Zhanar Abdrakhmanova; formal analy-
+sis, Zhanar Kozhakhmetova, and Asel Almusina; investiga-
+tion, Aigerim Ganiyeva, Aba y Naldibek, and Zhanar 
+Abdrakhmanova; data curation, Asel Almusina and Abay 
+Naldibek; writing – original draft preparation, Aigerim 
+Ganiyeva, Abay Naldibek, and Asel Almusina; writing – 
+review and editing, Raushan Rakhimzhanova, Zhanar Ko-
+zhakhmetova, and Tairkhan Dautov; visualization, Zhanar 
+Abdrakhmanova and Abay Naldibek; supervision, Raushan 
+Rakhimzhanova and Tairkhan Dautov; project administra-
+tion, Raushan Rakhimzhanova and Zhanar Abdrakh-
+manova. All authors have read and agreed to the published 
+version of the manuscript. 
+ 
+Ethical Considerations 
+Given that the article  is a systematic review of existing 
+literature and does not present new data or interventions, all 
+ethical principles of citation have been adhered to. 
+Furthermore, while no human or animal subjects were 
+involved, and therefore specific ethical approval was not 
+sought or required for this review article, the standard 
+ethical practice of acknowledging sources has been 
+meticulously followed. 
+ 
+ Acknowledgment 
+  Not applicable 
+ 
+Conflict of Interests 
+The authors declare that they have no competing interests. 
+ 
+ 
+References 
+PM?x?kK?b?xK?b?gK?j?kK?v?rM?q????
+of conus arteriosus malformation and genetic diagnosis results in fetal 
+cardiac axis abnormalities by echo cardiography during middle 
+pregnancy. Front Cardiovasc M ed [Internet]. 2024 May 20;11. 
+https://www.frontiersin.org/articles/10.3389/fcvm.2024.1377095/full 
+2. Korsuize NA, Bakhuis W, van Wijk B, Grotenhuis HB, ter Heide  H, 
+Cohen de Lara M, et al. Truncus arteriosus from prenatal diagno sis to 
+clinical outcome: a single-centre experience. Cardiol Young [In ternet]. 
+2024 May 13;1–7. Available from: 
+https://www.cambridge.org/core/product/identifier/S10479511240250
+71/type/journal_article 
+3. Yaoita H, Kawai E, Takayama J, Iwasawa S, Saijo N, Abiko M, et al. 
+Genetic etiology of truncus arteriosus excluding 22q11.2 deleti on 
+syndrome and identification of c .1617del, a prevalent variant i n 
+TMEM260, in the Japanese population.  J Hum Genet [Internet]. 20 24 
+May 13;69(5):177–83. Available from: 
+https://www.nature.com/articles/s10038-024-01223-y 
+[[p8]]
+    
+ CT Angiocardiography in Truncus Arteriosus Diagnosis and Management   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+8 
+4. Tongut A, Ozturk M, Desai M, Hanabergh S, Yerebakan C, D’Udekem 
+Y. Truncal valve surgery during repair of truncus arteriosus an d 
+interrupted aortic arch. J Thorac Cardiovasc Surg [Internet]. 2 024 Jan; 
+Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S0022522324000850 
+5. Turek JW, Kang L, Overbey DM, Carboni MP, Rajab TK. Partial Heart 
+Transplant in a Neonate With Irreparable Truncal Valve Dysfunct ion. 
+JAMA [Internet]. 2024 Jan 2; 331(1):60. Available from: 
+https://jamanetwork.com/journals/jama/fullarticle/2813552 
+6. Mostafa S, Shabana H, Khalil F, Mancy IM El, Zedan HA-M, Elmoursi 
+A, et al. Evaluation of the Safety and Efficacy of Dual Therapy  
+Perindopril/Amlodipine in the Mana gement of Hypertension. A 
+Systematic Review and Meta-Analy sis. High Blood Press Cardiovas c 
+Prev [Internet]. 2022 Oct 26;29(6):565–76. Available from: 
+https://link.springer.com/10.1007/s40292-022-00544-3 
+7. Karl TR. Common arterial trunk repair after infancy. Indian J Thorac 
+Cardiovasc Surg [Internet]. 2024 Jan 2;40(1):7–8. Available fro m: 
+https://link.springer.com/10.1007/s12055-023-01585-6 
+8. Kumar N, Pandey NN, Kadiyani L, Kumar S. Truncus arteriosus with 
+isolated origin of left subclavian artery from the pulmonary trunk. Acta 
+Cardiol [Internet]. 2023 N ov 14;1–2. Available from: 
+https://www.tandfonline.com/doi/full/10.1080/00015385.2023.227941
+3 
+9. Prakash M, Gharde P, Sheikh Mohd M, Francis J, Thottan RS. 
+Perioperative Use of Trans-Esophageal Echocardiography in a Cas e of 
+Truncus Arteriosus. A A Pract. 2024 Dec 19;18(12):e01883.  
+10. Hook JE, Delany DR, Buckley JR, Chowdhury SM, Kavarana MN, 
+Costello JM. Outcomes of Gastrostomy and Tracheostomy in Infant s 
+Undergoing Truncus Arteriosus Repair: Database Study Using the 
+Pediatric Health Information System. Pediatr Crit Care Med [Int ernet]. 
+2023 Nov 9;24(11):e540–6. Available from: 
+https://journals.lww.com/10.1097/PCC.0000000000003295 
+11. Cheong D, Smerling J, Parness IA, Rajagopal HG. Truncus Arteriosus 
+and Absent Ascending Aorta With Unusual Head and Neck Vessel 
+Origins. JACC Case Reports [Internet]. 2023 May;14:101839. 
+https://linkinghub.elsevier.com/retrieve/pii/S2666084923001298 
+12. Alkathiri S, Walling A, Russa DL, Ashwath R, Priya S. Imaging of the 
+Rare Association of Truncus Arteriosus in a Neonate with the Du ctal 
+Origin of the Left Subclavian Artery Using Multidetector CT 
+Angiography and 3D R endering. Cureus [I nternet]. 2022 Dec 2; 
+Available from: https://www.cu reus.com/articles/124663-imaging-of-
+the-rare-association-of-truncus-arteriosus-in-a-neonate-with-the-
+ductal-origin-of-the-left-subclavian-artery-using-multidetector-ct-
+angiography-and-3d-rendering 
+13. Kumar P, Bhatia M. Role of CT in the Pre- and Postoperative  
+Assessment of Conotruncal Anomalies. Radiol Cardiothorac Imagin g 
+[Internet]. 2022 Jun 1;4(3). Available from: 
+http://pubs.rsna.org/doi/10.1148/ryct.210089 
+14. Suero-Abreu GA, Lim P, Raza A, Tysarowski M, Mehta K, Kortbawi 
+M, Feldman S, Waller AH. Effect of variable left ventricular ej ection 
+fraction assessed by equilibrium radionuclide angiocardiography using 
+different software packages on the diagnosis of cardiotoxicity 
+in patients 
+with cancer. J Nucl Cardiol. 2024 Jan;31:101782.  
+15. Nakao S, Atkinson AJ, Motomochi T, Fukunaga D, Dobrzynski H . 
+Common arterial trunk in a cat: a high-resolution morphological  
+analysis with micro-computed tomography. J Vet Cardiol [Interne t]. 
+2021 Apr;34:8–15. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S1760273420301144 
+16. Rajagopal R, Sinha M, Pandey NN, Bhambri K, Kumar S. Tetral ogy 
+of fallot with pulmonary atresia and aorto-pulmonary window: Or  is it 
+truncus arteriosus? J Cardiovasc Comput Tomogr [Internet]. 2020  
+rZPSGTHYQO–PM?`?Y?
+https://linkinghub.elsevier.com/retrieve/pii/S1934592518303101 
+17. Enaba MM, Hasan DI, Alsowey  AM, Elsayed H. Multidetector 
+Computed Tomography (CT) in Eva luation of Congenital Cyanotic 
+Heart Diseases. Polish J Radiol [Internet]. 2018 Feb 2;82:645–5 9. 
+Available from: https://www.polradiol.com/Multidetector-Compute d-
+Tomography-CT-in-Evaluation-of-Congenital-Cyanotic-Heart-
+Diseases,187516,0,2.html 
+18. Martin BJ, Karamlou TB, Tabbutt S. Shunt Lesions Part II: Anomalous 
+Pulmonary Venous Connections and Truncus Arteriosus. Pediatr Cr it 
+Care Med [Internet]. 2016 A ug;17(8):S310–4. Available from: 
+https://journals.lww.com/00130478-201608001-00030 
+19. Hamzah M, Othman HF, Daphtary K, Komarlu R, Aly H. Outcomes  
+of truncus arteriosus repair and predictors of mortality. J Car d Surg 
+[Internet]. 2020 Aug 19;35( 8):1856–64. Available from: 
+https://onlinelibrary.wiley.com/doi/10.1111/jocs.14730 
+20. Alamri RM, Dohain AM, Arafat AA, Elmahrouk AF, Ghunaim AH, 
+Elassal AA, et al. Surgical repair for persistent truncus arter iosus in 
+neonates and older children. J C ardiothorac Surg [Internet]. 20 20 Dec 
+11;15(1):83. Available from: 
+https://cardiothoracicsurgery.biomedcentral.com/articles/10.1186/s130
+19-020-01114-1 
+21. Peter I, Oladele D, Kefas J g, Kayode O, Iseko I. Challenges  with 
+managing delayed presentation of persistent truncus arteriosus with 
+torrential pulmonary blood flow i n a Resource-Limited setting. J 
+Cardiovasc Echogr [Internet].  2019;29(2):75. Available from: 
+http://www.jcecho.org/text.asp?2019/29/2/75/263019 
+22. Poaty H, Pelluard F, André G, Maugey-Laulom B, Carles D. Tr uncus 
+arteriosus communis: report of three cases and review of litera ture. Afr 
+Health Sci [Internet]. 2018 Apr 4;18(1):147. Available from: 
+https://www.ajol.info/index.php/ahs/article/view/169151 
+23. Turkoglu S, Batur A, Yokuş A, Dündar İ, Akinci MB. Contrast  
+enhanced computed tomography fi ndings of persistent truncus 
+arteriosus; A rare congenital heart disease. Radiol Case Report s 
+[Internet]. 2020 Jun;15(6) :795–8. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S1930043320301151 
+24. Reller MD, Strickland MJ, Riehle-Colarusso T, Mahle WT, Correa A. 
+Prevalence of Congenital Heart Defects in Metropolitan Atlanta, 1998-
+2005. J Pediatr [Internet]. 2008 Dec;153(6):807–13.  Available f rom: 
+https://linkinghub.elsevier.com/retrieve/pii/S0022347608004812 
+25. Hook J, Delany D, Buckley J, Chowdhury S, Kavarana M, Coste
+llo J. 
+Rates, risk factors, and outcomes for gastrostomy and tracheost omy in 
+infants undergoing truncus arteriosus repair. J Am Coll Cardiol  
+[Internet]. 2021 May;77(18):488. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S0735109721018477 
+26. Hoashi T, Imai K, Okuda N, Komori M, Ono Y, Kurosaki K, et al. 
+Death, reoperation, and late car diopulmonary function after tru ncus 
+repair. JTCVS Open [Internet]. 2023 Jun;14:407–16. Available fr om: 
+https://linkinghub.elsevier.com/retrieve/pii/S2666273623000372 
+27. Habboush S, Kagita NV, Gadelmawla AF, Elmoursi A, Merza N, 
+Abdo AA, Zahran AHM, Eldeib M, Almarghany AA, Abdelfadil MM, 
+Abdelkarim MA, Shawky I, Mohammed OM, Alharran A, Ali MM, 
+Elbardisy S. Triple Therapy with Telmisartan, Amlodipine, and 
+Rosuvastatin (TAR) Versus Telmisartan/Amlodipine (TA) and 
+Telmisartan/Rosuvastatin (TR) Combinations in Hypertension and 
+Dyslipidemia: A Systematic Revi ew and Meta-analysis. High Blood  
+Press Cardiovasc Prev. 2024 Nov 19.  
+28. Chow ALS, Alhassani SD, Crean AM, Small GR. Coronary ct 
+angiography guided medical thera py in subclinical atheroscleros is. 
+Journal of Clinical Medicine. 2021.  
+29. Rottländer D, Saal M, Degen H, Gödde M, Horlitz M, Haude M.  
+Diagnostic role of coronary CT a ngiography in paroxysmal or fir st 
+diagnosed atrial fibrillation. O pen Hear [Internet]. 2021 May 
+18;8(1):e001638. Available from: 
+https://openheart.bmj.com/lookup/doi/10.1136/openhrt-2021-001638 
+30. Fu D, Xiao X, Gao T, Feng L, Wang C, Yang P, et al. Effect of 
+Calcification Based on Computer-Aided System on CT-Fractional Flow 
+Reserve in Diagnosis of Coronary Artery Lesion. Khalaf OI, edit or. 
+Comput Math Methods Med [Internet]. 2022 Jan 17;2022:1–10. 
+https://www.hindawi.com/journals/cmmm/2022/7020209/ 
+31. Budoff MJ, Lakshmanan S, Toth  PP, Hecht HS, Shaw LJ, Maron DJ, 
+et al. Cardiac CT angiography in current practice: An American society 
+for preventive cardiology clinical practice statement ✰. Am J Prev 
+Cardiol [Internet]. 2022 Mar;9:100318. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S2666667722000058 
+32. Olejník P, Srnková P, Kardoš M. Modern anatomical imaging i n 
+pediatric cardiology using CT angiocardiography and 3D virtual heart 
+models. Česko-slovenská Pediatr  [Internet]. 2023 Mar 1;78(2):74 –88. 
+Available from: 
+http://cspediatrie.cz/doi/10.55095/CSPediatrie2023/011.html 
+33. Juhász D, Vattay B, Boussou ssou M, Vecsey-Nagy M, Jokkel Z,  
+Jermendy Á, et al. Korszerű kor onáriaintervenció CT-vezérléssel : 
+terápiás tervezés és előnyök. C ardiol Hungarica [Internet]. 
+2023;53(6):571–6. Available from: 
+https://cardiologia.hungarica.eu/index.php/2023/12/06/coronary-ct-
+angiography-to-guide-percutaneous-coronary-intervention-2/ 
+34. Hegde S, Hsiao A. Improving the Fontan: Pre-surgical planning using 
+four dimensional (4D) flow, bio-mechanical modeling and three 
+dimensional (3D) printing. Prog Pediatr Cardiol [Internet]. 201 6 
+[[p9]]
+ 
+A. Ganiyeva, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (17 Mar); 39:41. 
+ 
+9 
+Dec;43:57–60. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S105898131630056X 
+35. Rubin GD, Leipsic J, Schoepf UJ, Fleischmann D, Napel S. CT  
+Angiography after 20 Years: A Tra nsformation in Cardiovascular 
+Disease Characterization Continue s to Advance. Radiology [Inter net]. 
+2014 Jun;271(3):633–52. Available from: 
+http://pubs.rsna.org/doi/10.1148/radiol.14132232 
+36. Yoshida K, Tanabe Y, Hosokawa T, Morikawa T, Fukuyama N, 
+Kobayashi Y, et al. Coronary computed tomography angiography fo r 
+clinical practice. Jpn J Radiol [Internet]. 2024 Jun 8;42(6):55 5–80. 
+Available from: https://link.springer.com/10.1007/s11604-024-01543-1 
+37. Tonet E, Cossu A, Pompei G, Ruggiero R, Caglioni S, Mele D,  et al. 
+Coronary Computed Tomography Angiography for the Assessment of 
+Sirolimus-Eluting Resorbable Ma gnesium Scaffold. Life [Internet ]. 
+2022 Oct 15;12(10):1612. Available from: 
+https://www.mdpi.com/2075-1729/12/10/1612 
+38. Ramos-Rosillo V, Cabello-Ganem  A, Guerra EC, Salas-Martinez  A, 
+Panchos YAV, Luna-Alcala S, et al. Diagnostic approach and treatment 
+of ventricular septal defect associated with PDA, coarctation o f aorta, 
+hypoplastic aortic arch and multip le valvular heart disease in a tertiary 
+center: An infrequent association. Radiol Case Reports [Internet]. 2024 
+Aug;19(8):3461–4. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S193004332400431X 
+39. Emad Y, Ragab Y, Farber HW, Erkan D, Ibrahim O, Kindermann M, 
+et al. Pulmonary embolism versus pulmonary vasculitis in Hughes -
+Stovin syndrome: Characteristic c omputed tomography pulmonary 
+angiographic findings and diagnostic and therapeutic implications. HSS 
+International Study Group. Thromb Res [Internet]. 2024 
+Jul;239:109040. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S0049384824001725 
+40. Dwivedi A, Sharma A, Sharma R, Awasthi P, Choudhary SS. Uti lity 
+of Pulmonary Angiography by 128-Slice Computed Tomographic 
+Scanner in Diagnosis of Tetralogy of Fallot Cases. Link DP, editor. Case 
+Rep Radiol [Internet]. 2024 May 9;2024:1–6. Available from: 
+https://www.hindawi.com/journals/crira/2024/3543906/ 
+41. Gao J, Ou H, Xing H, Chen H, Huang Y, Cao F, et al. Ultrasound and 
+computed tomography angiography d iagnosis of fetal right atrial  
+isomerism with cardiac total anomalous pulmonary venous connect ion 
+and intestinal malrotation: a case report and literature review . Pediatr 
+Radiol [Internet]. 2024 May 16; Available from: 
+https://link.springer.com/10.1007/s00247-024-05938-0 
+42. Seth R, Yadav A, Jain Y, Gupta A. N-Butyl cyanoacrylate 
+embolization of an extremely rare variant of sequestration comp lex — 
+a high-flow left-to-left shunt between systemic artery and pulm onary 
+vein. Indian J Thorac Cardiovasc Surg [Internet]. 2024 May 
+18;40(3):361–4. Available from: 
+https://link.springer.com/10.1007/s12055-023-01659-5 
+43. Wong CCY, Pogatchnik BP, Clark DE, Sharma RP. A case report  of 
+successful primary percutaneous coronary intervention to an occ luded 
+anomalous left main coronary artery arising from the right coro
+nary 
+sinus. Olsen FJ, Begic JUE, Dem etriades P, edito rs. Eur Hear J - Case 
+Reports [Internet]. 2024 Mar 28;8(4). Available from: 
+https://academic.oup.com/ehjcr/article/doi/10.1093/ehjcr/ytae192/7645
+914 
+44. Andreini D, Conte E, Monizzi G, Prestini B, Ratti A, Belmon te M, et 
+al. Predictors of adverse cardiac events of coronary myocardial bridging 
+diagnosed with computed tomogra phy angiography. Int J Cardiol 
+[Internet]. 2024 Jul;406:131997. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S0167527324005473 
+45. Zablah JE, Shorofsky MJ, Cao K, Mukherjee D. Computational Fluid 
+Dynamic Assessment of Patients with Congenital Heart Disease fr om 
+3D Rotational Angiography. Pedi atr Cardiol [Internet]. 2024 Mar  15; 
+Available from: https://link.springer.com/10.1007/s00246-024-03443-7 
+46. Nguyen ET, Green CR, Adams SJ, Bishop H, Gleeton G, Hague C J, 
+et al. CAR and CSTR Cardiac Computed Tomography (CT) Practice 
+Guidelines: Part 2-Non-Coronary Imaging. Can Assoc Radiol J 
+[Internet]. 2024 Mar 14; Available from: 
+https://journals.sagepub.com/doi/10.1177/08465371241233228 
+47. Gulizia M, Alamo L, Alemán-Gómez Y, Cherpillod T, Mandralis  K, 
+Chevallier C, et al. Gated cardiac CT in infants: What can we e xpect 
+from deep learning image reconstruction algorithm? J Cardiovasc  
+Comput Tomogr [Internet]. 2024 May;18(3):304–6. Available from:  
+https://linkinghub.elsevier.com/retrieve/pii/S1934592524000601 
+48. Kanduri J, Falk Z, Singh HS . Diagnosis and Management of 
+Congenital Coronary Artery Fistulas in Adults. Curr Cardiol Rep  
+[Internet]. 2024 May 11;26(5):373–9. Available from: 
+https://link.springer.com/10.1007/s11886-024-02038-1 
+49. Hallman C, Baumwart R, Hallman RM. 64‐Slice ECG‐gated computed 
+tomographic angiography for assessment of coronary arteries in 
+brachycephalic dogs with pulmonary stenosis. Vet Rec [Internet]. 2024 
+Mar 16;194(6). Available from: 
+https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.3857 
+50. Ibrahim IA, Howladar MT, Alsaery TS, Anwar A, Ahmad W. 
+Simultaneous Identification of Unroofed Coronary Sinus Atrial S eptal 
+Defect and Atrial Septal Defect Secundum Using Cardiac Computed  
+Tomography Angiography. Cureus [ Internet]. 2024 Jan 19; Availab le 
+from: https://www.cureus.com /articles/203044-simultaneous-
+identification-of-unroofed-coronary-sinus-atrial-septal-defect-and-
+atrial-septal-defect-secundum-using-cardiac-computed-tomography-
+angiography 
+51. Epstein R, Yomogida M, Donovan D, Butensky A, Aidala AA, 
+Farooqi KM, et al. Trends in cardiac CT utilization for patient s with 
+pediatric and congenital heart disease: A multicenter survey st udy. J 
+Cardiovasc Comput Tomogr [In ternet]. 2024 May;18(3):267–73. 
+Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S1934592524000315 
+52. Ait Mokhtar O, Hamidouche K, Amini N, Boudjemline Y, Azzouz A, 
+Benkhedda S. Anomalie d e connexion de l’artère coronaire droite  au 
+niveau de l’artère pulmonaire associée à une sténose du tronc c ommun 
+gauche. Ann Cardiol Angeiol (Paris) [Internet]. 2024 
+Apr;73(2):101737. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S0003392824000167 
+53. Dashottar S, Singh AK, Senger KPS, Debnath CJ. Role of 256 slice 
+CT scan in pre and postoperative evaluation of congenital cardi o-
+vascular anomalies: our experien ce at a tertiary care teaching hospital. 
+Int J Adv Med [Internet]. 2017 Mar 23;4(2):425. Available from:  
+http://www.ijmedicine.com/index.php/ijam/article/view/333 
+54. Koplay M. Truncus arteriosus: Diagnosis with dual-source co mputed 
+tomography angiography and low radiation dose. World J Radiol 
+[Internet]. 2014;6(11):886. Available from: 
+http://www.wjgnet.com/1949-8470/full/v6/i11/886.htm 
+55. Renz DM, Böttcher J, Eckstein J, Huisinga C, Pfeil A, Lücke C, et al. 
+Bildgebung angeborener Herzfehler mit Fokus auf Magnetresonanz-  
+und Computertomographie. Die Radiol [Internet]. 2024 May 
+24;64(5):382–91. Available from: 
+https://link.springer.com/10.1007/s00117-024-01301-4 
+56. Öztürk E, Tanıdır İC, Kamalı H, Ayyıldız P, Topel C, Selen Onan İ, et 
+al. Comparison of echocardiogr aphy and 320-row multidetector 
+computed tomography for the dia gnosis of congenital heart disea se in 
+children. Rev Port Cardiol (English Ed [Internet]. 2021 Aug;40(8):583–
+90. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S217420492100218X 
+57. Yuryk O, Barabanchyk O, Malets M. Innovations in medicine: modern 
+challenges, future definitions: A narrative review.  Futurity M edicine 
+[Internet]. 2022 Jun. 30 [cited 2025 Apr. 7];1(2):26-34. Available from: 
+https://futurity-medicine.com/index.php/fm/article/view/8
+ 

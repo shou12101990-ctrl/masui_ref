@@ -1,0 +1,673 @@
+
+[[p1]]
+EDITED BY  
+Inga Voges,  
+University Medical Center Schleswig-Holstein, 
+Germany
+REVIEWED BY  
+Maruti Haranal,  
+U N Mehta Institute of Cardiology and 
+Research, India  
+Kai Wang,  
+Shanghai Children’s Medical Center, China
+*CORRESPONDENCE  
+Ibrahim J. Alibrahim  
+ibrahimi2@mngha.med.sa
+RECEIVED 09 August 2025 
+REVISED 16 November 2025 
+ACCEPTED 19 November 2025 
+PUBLISHED 08 December 2025
+CITATION 
+Alahmed YS, Jijeh AMZ, Alsaiad AM, 
+Yelbuz TM, Kabbani MS, Alghamdi AA, 
+Alhabshan F and Alibrahim IJ (2025) The 
+landscape of management and outcome of 
+children with congenitally corrected 
+transposition of the great arteries: a single- 
+center experience.  
+Front. Cardiovasc. Med. 12:1682795. 
+doi: 
+10.3389/fcvm.2025.1682795
+COPYRIGHT 
+© 2025 Alahmed, Jijeh, Alsaiad, Yelbuz, 
+Kabbani, Alghamdi, Alhabshan and Alibrahim. 
+This is an open-access article distributed 
+under the terms of the 
+Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other forums is 
+permitted, provided the original author(s) and 
+the copyright owner(s) are credited and that 
+the original publication in this journal is cited, 
+in accordance with accepted academic 
+practice. No use, distribution or reproduction 
+is permitted which does not comply with 
+these terms.
+The landscape of management 
+and outcome of children with 
+congenitally corrected 
+transposition of the great 
+arteries: a single-center 
+experience
+Yazeed Saleh Alahmed
+1,2,3,4,5
+, Abdulraouf M. Z. Jijeh
+1,2,3
+,  
+Abdulsalam M. Alsaiad
+1,2,3
+, T. Mesud Yelbuz
+1,2,3
+,  
+Mohamed S. Kabbani
+1,2,3
+, Abdullah A. Alghamdi
+1,2,3
+,  
+Fahad Alhabshan
+1,2,3 
+and Ibrahim J. Alibrahim
+1,2*
+1Department of Cardiac Sciences, Ministry of the National Guard—Health Affairs, Riyadh, Saudi Arabia, 
+2King Abdullah International Medical Research Center, Riyadh, Saudi Arabia, 3 King Saud bin Abdulaziz 
+University for Health Sciences, Riyadh, Saudi Arabia, 4Department of Pediatrics, College of Medicine, 
+Qassim University, Qassim, Saudi Arabia, 5Department of Cardiology, Qassim University, Medical City, 
+Qassim, Saudi Arabia
+Objective:To compare the outcomes in patients with congenitally corrected 
+transposition of the great arteries (ccTGA) who were offered different surgical 
+management strategies.
+Design and settings:We retrospectively included all patients from our center 
+diagnosed with ccTGA between 2000 and 2021. The cohort was divided into 
+four groups: (1) patients with systemic right ventricle; (2) patients with 
+anatomic repair (in the form of an atrial and arterial switch or an atrial switch 
+and Rastelli operation); (3) patients with a one-and-a-half ventricle repair 
+(hemi-Mustard type) and bidirectional cavopulmonary connection and 
+placement of a right ventricle to pulmonary artery conduit; and (4) patients 
+with a single ventricle who were not suitable for biventricular repair.
+Results:The study included 42 patients with ccTGA. In 39 patients (93%), ccTGA 
+was associated with other congenital heart defects. Group 1 (systemic right 
+ventricle) comprised 16 patients (38%); seven of them underwent pulmonary 
+artery banding, with a reduction in tricuspid valve regurgitation seen in four 
+patients. Group 2 (anatomic group) and Group 3 (one-and-a-half ventricle 
+group) each had three patients (7%). Group 4 (single-ventricle palliation) 
+consisted of 17 patients (40%); 15 of them (88%) completed total 
+cavopulmonary connection. Three early mortalities (7%) were recorded.
+Conclusions: Patients who underwent anatomical repair (Rastelli-type) or a one- 
+and-a-half ventricle repair (hemi-Mustard type) showed a good outcome with 
+satisfactory biventricular function. Moreover, single-ventricle palliation showed 
+excellent mid-term results in patients with ccTGA. PA banding may reduce 
+tricuspid regurgitation in patients with ccTGA. A follow-up of our managed 
+patients by an individualized plan demonstrated satisfactory outcomes.
+KEYWORDS
+congenitally corrected transposition of the great arteries (ccTGA), single-ventricle 
+palliation, pulmonary artery banding, one-and-a-half ventricle, Rastelli operation
+TYPE Original Research 
+PUBLISHED 08 December 2025 
+DOI 10.3389/fcvm.2025.1682795
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+Introduction
+Congenitally corrected transposition of the great arteries 
+(ccTGA) is an uncommon complex cardiac anomaly 
+representing less than 1% of congenital heart malformations (
+1). 
+It is characterized anatomically by the presence of 
+atrioventricular (AV) and ventriculoarterial (VA) discordance. 
+The morphological left ventricle (mLV) supports the pulmonary 
+circulation, while the morphological right ventricle (mRV) 
+supports systemic circulation (
+1).
+The clinical presentation of patients with ccTGA is highly 
+variable; the clinical picture is based on the presence of 
+associated lesions. These lesions exist in over 90% of patients 
+with ccTGA. The most frequent associated lesions include 
+ventricular septal defect (VSD), left ventricular out/f_low tract 
+(LVOT) obstruction, pulmonary stenosis (PS), anatomic and 
+functional tricuspid valve (TV) abnormalities, and congenital 
+heart block (
+2–4).
+Current management strategies have two main principles, 
+consisting of either physiologic or anatomic repair. However, the 
+ideal approach for patients with ccTGA remains unclear (
+4–7). 
+Physiologic “classic” repair focuses on repair of associated 
+defects, leaving the mRV serving as the systemic ventricle, while 
+AV and VA discordances are preserved. Although classic 
+physiologic repair may result in a good short-term outcome, 
+there are still some concerns with this strategy, mainly related to 
+progressive tricuspid regurgitation (TR) and dysfunction of the 
+right ventricle (RV) in the long term (
+5, 7–10).
+The anatomic repair approach aims to restore blood /f_low 
+through a normal sequence of anatomic structures based on 
+correcting AV and VA discordances, plus associated cardiac 
+defects (atrial switch and an arterial switch procedure (double- 
+switch operation). A subgroup of patients whose anatomy may 
+not be suitable for biventricular repair might undergo the so- 
+called single-ventricle (SV) palliation pathway (11, 12). The 
+success of the double-switch operation depends on the ability 
+of the mLV to support systemic circulation. In the absence of 
+an unrestrictive VSD and pulmonary arterial hypertension 
+(PAH), the mLV will be deconditioned and may become  
+unable to undertake the workload of systemic circulation 
+(11–13). In patients with ccTGA without PS, the anatomic 
+repair involves a double-switch operation, along with repair of 
+any VSD present, while in patients with subpulmonar y 
+ventricular out/f_low tract obstruction, anatomic repair will be 
+achieved by Rastelli-type surgery, which includes an atrial 
+switch, VSD repair with tunneling of the left ventricle (LV) to 
+the aorta, and placement of a RV to pulmonary artery (PA) 
+conduit (RV-PA conduit) (2, 11, 12).
+A meta-analysis conducted by Alghamdi et al. reported that 
+Rastelli-type repair was associated with lower in-hospital 
+mortality and lower incidence of postoperative heart block 
+compared with arterial switch operation and physiologic 
+repair (
+2).
+When the mRV serves as a systemic ventricle, it may 
+ultimately fail as the patient grows. The primary manifestation 
+of its failure is progressive TR; therefore, pulmonary artery 
+banding has been used as a transitory measure to stabilize TR 
+and to train the LV before anatomic repair in the future. It has 
+also been used in patients with VSD to minimize the excessive 
+pulmonary blood /f_low that may potentially lead to PAH (
+6–13).
+There are limited data from our region discussing the 
+management of ccTGA.
+Our study aimed to report our data and compare the 
+outcomes in patients with ccTGA who were offered different 
+surgical management strategies, including the SV 
+palliation pathway.
+Methods
+We included all patients in our center who were diagnosed 
+with ccTGA between 2000 and 2021. Patients with right or left 
+isomerism, tricuspid or mitral valve atresia, or isolated 
+ventricular inversion were excluded.
+Retrospectively, we reviewed demographic and clinical data, 
+including the echocardiography reports, operative reports, and 
+clinical records of all patients. The cohort was divided into four 
+groups: (1) patients with a systemic right RV who were followed 
+up only medically, including patients who underwent a Blalock– 
+Thomas–Taussig (BTT) shunt or PA banding without further 
+surgical intervention; (2) patients with anatomic repair in the 
+form of an atrial and arterial switch operation (double-switch) 
+or atrial switch and Rastelli operation; (3) patients with a one- 
+and-a-half ventricle repair (hemi-Mustard type) and 
+bidirectional cavopulmonary connection (BCPC) and placement 
+of an RV to PA conduit; and (4) patients with SV who were not 
+suitable for biventricular repair.
+Reintervention was deﬁned as the need for catheter-based or 
+surgical intervention after deﬁnitive repair. Perioperative 
+mortality was deﬁned as death before hospital discharge or 
+within 30 days after surgical or catheter-based intervention. 
+Echocardiographic evaluations at the ﬁrst study (before the ﬁrst 
+intervention) and at the last follow-up were reviewed. The 
+systemic ventricular function was graded qualitatively as normal, 
+mild, moderate, or severely depressed. Systemic AV valve 
+morphology and function were examined, and regurgitation was 
+graded qualitatively as absent, mild, moderate, or severe. 
+Signiﬁcant valvular regurgitation was deﬁned when regurgitation 
+was moderate or above moderate.
+Data management and analysis
+The data were expressed as numbers and percentages for 
+categorical variables and as mean ± standard deviation for 
+continuous variables. Data that did not ﬁt a normal distribution 
+were expressed as median and interquartile range (IQR). 
+A value of P < 0.05 was considered statistically signiﬁcant. The 
+statistical analysis was performed using SPSS for Windows, 
+version 16.0 (SPSS Inc, Chicago, IL, USA).
+Alahmed et al.                                                                                                                                                         10.3389/fcvm.2025.1682795
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+Results
+A total of 42 patients with ccTGA who met our inclusion 
+criteria were studied; out of these, 28 patients were male (67%) 
+and 14 were female (33%). The median age at presentation was 
+2 months (IQR: 0.2–20 months). The median follow-up duration 
+was 7 years (IQR: 4.2–11 years) (
+Table 1).
+Associated congenital heart defects in ccTGA are summarized in 
+Table 2. Three patients had situs inversus (7%), two of them had 
+pulmonary atresia, and one had severe valvular pulmonary stenosis. 
+Dextrocardia was seen in seven patients (17%), out of which four 
+were females, and mesocardia was seen in four patients (10%), out 
+of which three were females. Five patients had mildly depressed 
+(systemic) RV function at the time of initial echocardiogram. Three 
+patients had isolated ccTGA, and all were followed up medically 
+(systemic RV group). Two patients had complete heart block and 
+required permanent pacemaker (PPM) insertion, one at the time of 
+diagnosis and one at the age of 7.
+Only one patient was lost to follow-up. Three newborns (7%) 
+suffered early mortality. Two of them had a severe coarctation of 
+the aorta with depressed ventricular function and required an 
+aortic arch repair, but they did not survive postoperatively. The 
+third patient had pulmonary atresia, for which a patent ductus 
+arteriosus (PDA) stent was placed to augment the pulmonary 
+blood /f_low. He was discharged in stable condition but 
+succumbed 23 days later at home (
+Figures 1and 2).
+Group 1 (systemic RV group), which included patients who 
+underwent a PA banding and a BTT shunt or an LV-PA 
+conduit only (where the RV remains systemic), comprised 16 
+patients (38%). Seven patients had balanced ccTGA and did not 
+require surgical intervention; all had mild to moderate TR at 
+last follow-up. Seven patients had no LVOT obstruction and 
+signiﬁcant TR and underwent PA banding (median age of 
+banding, 14.8 months; IQR, 5.5–23 months). The primary reason 
+for carrying out PA banding was to train the LV for possible 
+future anatomic repair. The severity of TR lessened in four of 
+them (57%) after the PA banding; the median follow-up 
+duration was 6 years (IQR: 4–11 years). One patient underwent 
+LV to PA conduit at the age of 7 months because of original 
+progressive LVOT obstruction, and one patient underwent a 
+BTT shunt because of severe LVOT obstruction as palliative 
+therapy. The systemic ventricle (RV) function was mildly to 
+moderately depressed in 4 patients out of 16 (25%) (
+Figure 1).
+Group 2 (anatomic repair group) included three patients (7%). 
+Biventricular repair was achieved by the Senning operation, LV to 
+the aorta tunnel, and RV to the PA conduit. All patients were 
+naturally banded by the presence of moderate to severe LVOT 
+obstruction. All patients had good overall biventricular systolic 
+function and no signiﬁcant tricuspid valve regurgitation during 
+follow-up.
+Group 3 (one-and-a-half ventricle group) included three 
+patients (7%). One of them was diagnosed at the age of 2 with 
+severe LVOT obstruction and underwent a BCPC “Glenn 
+procedure” and then a total cavopulmonary connection (TCPC) 
+TABLE 1 Patients ’ demographics.
+Parameter Systemic 
+RV 
+(n = 16)
+Anatomical or 
+one-and-a- 
+half ventricle 
+repair (n = 6)
+Single 
+ventricle 
+(n = 17)
+p
+Age at ﬁrst 
+surgery 
+(months)
+19 (6–87) 4 (0.6–27) 14 (2–36) 0.47
+Age at second 
+procedure 
+(months)
+26 (2.2–NA) 46 (12–68) 24 (9–41) 0.86
+Weight at ﬁrst 
+surgery (kg)
+11 (4–18) 5 (3–9) 9 (4–12) 0.3
+Weight at 
+second 
+procedure (kg)
+13 (9–NA) 10 (7–15) 11 (7–14) 0.87
+Age at last 
+follow-up 
+(years)
+8 (4–16) 10 (6–13) 6 (5–9) 0.25
+NA, not available due to insufﬁcient data to produce the limit.
+Because of the small number of patients in Groups 2 and 3, the two groups were combined 
+into one group (anatomical or one-and-a-half ventricle repair) for the purposes of 
+demographic description.
+TABLE 2 Associated congenital heart defects in ccTGA.
+Variable Number 
+(Percentage)
+Total cases of ccTGA, n (%) 42 (100%)
+ccTGA with associated CHD 39 (93%)
+Isolated ccTGA 3 (7%)
+VSD 35 (83%)
+ASD 27 (64%)
+kuns??QT?GUODH
+Mild to moderate PS 7/25 (28%)
+Severe PS 13/25 (52%)
+Pulmonary atresia 5/25 (20%)
+Situs inversus 3 (7%)
+TV regurgitation 33 (79%)
+Ebsteinoid systemic TVa 13 (31%)
+Mild TR 23 (70%)
+Moderate TR 9 (27%)
+Severe TR 1 (2.4%)
+Mitral valve regurgitationb 6 (14%)
+Coarctation of aortac 6 (14%)
+Dextrocardia 7 (17%)
+Mesocardia 4 (10%)
+Brady arrhythmia required PPM 12 (29%)
+Complete heart block 10 (24%)
+Sinus node dysfunction 2 (5%)
+Left SVC 5 (12%)
+Left SVC to CS 3 (7%)
+Left SVC to LA 2 (5%)
+RVOT obstruction (subaortic) 4 (10%)
+Right aortic arch 4 (10%)
+Straddling of mitral valve 4 (10%)
+Single right coronary artery 3 (7%)
+ASD, atrial septal defect; CHD, congenital heart disease; CS, coronary sinus; LA, left atrium; 
+LVOT, left ventricular out/f_low obstruction; PS, pulmonary stenosis; RV, right ventricle; 
+RVOT, right ventricular out/f_low obstruction; PPM, permanent pacemaker; SVC, superior 
+vena cava; TV, tricuspid valve; VSD, ventricular septal defect.
+a50% of patients with Ebsteinoid TV had moderate to severe TR.
+bFour out of six patients had mitral valve straddling.
+cAll of them had a left aortic arch.
+Alahmed et al.                                                                                                                                                         10.3389/fcvm.2025.1682795
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+FIGURE 1 
+A ﬂowchart demonstrating the overall management strategy of ccTGA. BTT shunt, Blalock–Thomas–Taussig shunt; ccTGA, congenitally corrected 
+transposition of the great arteries; LV, left ventricle; PA, pulmonary artery; PDA, patent ductus arteriosus; RV, right ventricle; TCPC, total 
+cavopulmonary connection. *Patients underwent a PA band, a BTT shunt, and an LV-PA conduit only (where the RV remains systemic).
+FIGURE 2 
+A Kaplan–Meier chart for the survival of ccTGA patients in our cohort.
+Alahmed et al.                                                                                                                                                         10.3389/fcvm.2025.1682795
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+“Fontan procedure” at the age of 3. However, because of a failing 
+Fontan, this patient was redirected to a one-and-a-half ventricle 
+repair in the form of Fontan takedown, a hemi-Mustard 
+procedure (baf/f_ling of inferior vena cava (IVC) to TV), and an 
+RV to PA conduit while keeping the Glenn anastomosis at 
+6 years of age. The other two patients underwent a hemi- 
+Mustard procedure, a Glenn procedure, and an arterial switch 
+operation after initial palliation with a PA band. All patients 
+had good overall biventricular systolic function and no 
+signiﬁcant TR during follow-up.
+Among six patients (Groups 2 and 3) who had RV-PA conduit 
+“Centegra”, two required reoperation for RV to PA conduit 
+replacement after an average of 8 years from the initial surgery, 
+and the remaining four patients had good function RV-PA 
+conduit with a median follow-up of 8 years (IQR: 3–11).
+Group 4 (single-ventricle group) consisted of 17 patients 
+(40%). Fifteen patients had completed the Fontan procedure 
+(among them, three patients, who presented at 6, 9, and 
+17 years of age respectively, underwent primary TCPC as a one- 
+stage procedure), and two were waiting for the Fontan 
+procedure after the Glenn operation. One patient required a 
+reoperation for systemic ventricle out/f_low tract obstruction at 
+the age of 5. Two patients had a mildly depressed ventricular 
+function, and none had signiﬁcant TR.
+Discussion
+Current strategies for managing ccTGA have two main 
+principles: either physiologic repair (where the RV remains to 
+serve as the systemic ventricle) or anatomic repair (a double- 
+switch operation). Although the physiologic repair strategy may 
+yield a favorable short-term outcome, concerns are associated 
+with this approach, primarily related to the long-term 
+progression of TR and RV dysfunction (
+4, 7–10). In 16 patients 
+from our study, the RV served as the systemic ventricle with 
+good RV systolic function in 75% of them and a mild to 
+moderately depressed RV function in 25%. Similarly, De León 
+et al. reported that ventricular systolic function remained stable 
+in the majority of patients who underwent physiologic repair 
+(
+6). Comparable results were reported in other literature as 
+well (1, 5).
+Reduction in TR was reported in patients who had PA 
+banding placed to train the LV for longer than 6 months. The 
+theory is that the increase in LV pressure caused by banding 
+alters the ventricular septal geometry, pushing the septal lea/f_let 
+of the TV into the RV, which leads to an improvement of TV 
+coaptation and a decrease in RV preload (
+14–16). However, 
+Winlaw et al. noted that while PA banding improved the 
+ventricular systolic function, it did not reduce TR in patients 
+before repair (
+17). Contrastingly, Brawn et al. reported that PA 
+banding resulted in a deterioration of LV systolic function in 
+trained groups of patients who underwent the double-switch 
+operation (
+13).
+In our patient population, TR reduced in more than 50% of 
+those who underwent palliation by PA banding. Similar results 
+were reported by De Léon et al., who described 22 patients 
+who underwent PA banding; in 8 of them, TR reduced, while 
+in 11, it remained unchanged. They also reported that in the 
+remaining three patients, TR worsened. The ventricu lar 
+systolic function remained stable in the majority of their 
+patients (6). PA banding may be considered for longer-term 
+palliation, which is supported by evidence from the literature. 
+In a review of 40 patients comparing the outcomes o f 
+anatomical repair (double-switch) vs. long-term PA banding 
+palliation, the latter resulted in lower mortality and better 
+cardiac function as well as better clinical status (16). Similar 
+ﬁndings were reported by Cools et al. (18 ) Some recent studies 
+have identiﬁed PA banding before the performance of the 
+double-switch operation as a risk factor for the development of 
+aortic root dilation and aortic regurgitation after the operation, 
+which might contribute to late LV dysfunction (13, 16, 19). In 
+addition, Duncan reported that PA banding may cause  
+myocardial necrosis and ﬁbrosis in addition to ventricular 
+systolic dysfunction (11).
+Seventeen of our patients with ccTGA underwent a single- 
+ventricle pathway; there was no mortality or signiﬁcant TV 
+dysfunction. Only two patients had a mildly depressed function, 
+and one patient required a reoperation for LVOT obstruction. 
+Hraska et al. reported a superior outcome of SV palliation in 17 
+patients who had a complex ccTGA anatomy (
+7). De Léon et al. 
+reported better survival rates in patients with ccTGA who 
+underwent the Fontan procedure during a median follow-up of 
+11 years. None of their patients required further reintervention, 
+and they all remained with good ventricular systolic function at 
+the last follow-up. Moreover, almost all of them had minimal 
+AV valve regurgitation (
+6). We have observed similar results for 
+our Fontan patients; however, long-term follow-up is required 
+to adequately assess the outcomes of the SV palliation strategy 
+for patients with ccTGA.
+A recent retrospective multicenter study reported excellent 
+long-term survival and low rates of atrioventricular valve failure 
+and heart failure in individuals with ccTGA who underwent 
+Fontan completion (155/194 patients) (
+20).
+Out of the three mortality cases we reported, two patients had 
+CoA, requiring neonatal repair. Kalfa et al. reported that CoA and 
+hypoplasia of the aortic arch were signiﬁcantly associated with 
+mortality (
+20).
+Ideally, the goal in patients with ccTGA is to establish a 
+biventricular circulation in which the LV supports systemic 
+circulation; however, this cardiac anomaly may present with a 
+broad spectrum of associated lesions, which usually affects the 
+surgical decision (
+2–4).
+In our series, patients who underwent this pathway had 
+ccTGA, VSD, and PS. Therefore, biventricular repair was 
+achieved by a Rastelli-type operation, including tunneling of 
+the LV to the aorta, the RV to the PA conduit, and atrial 
+switch. Our patients who underwent anatomical repair or a 
+one-and-a-half ventricular repair maintained a good  
+outcome. Two out of six patients required reintervention for 
+RV-PA conduit replacement at an average of 8 years. Similar 
+results were reported in the literature (6, 7). Bogers et al. 
+Alahmed et al.                                                                                                                                                         10.3389/fcvm.2025.1682795
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+found that while Rastelli-type repair resulted in l ess 
+postoperative heart block, this type of operation carried a 
+higher risk for reoperation, mainly for RV-PA condu it 
+replacement at a mean age of 9 years (21).
+.Barrios et al. reported in their series of 240 patients that those 
+with physiologic repair had comparable survival rates to those 
+with anatomic repair at early to mid-term (12 years postrepair). 
+Still, the curve will change direction as the overall survival rate 
+was lower among patients who underwent physiologic repair 
+(71% at 15 years) (
+22).
+Our study has many limitations. It is a retrospective analysis 
+limited by the available information, as it is a single-center 
+study. The decision to proceed with each surgical pathway was 
+dependent on many factors; thus, we attempted to address this 
+by reviewing weekly surgical decision forms and operative notes 
+for each patient. The median follow-up was 7 years (IQR: 4.2– 
+11 years), and a longer follow-up duration is required to assess 
+the single-ventricle palliation group.
+Conclusions
+More than 90% of patients with ccTGA had associated 
+congenital heart defects (complex ccTGA). The spectrum of the 
+management of ccTGA may include PA banding as palliative 
+surgery for patients with signiﬁcant TR. In the small number of 
+patients who underwent anatomical repair (Rastelli-type) or a 
+one-and-a-half ventricle repair (hemi-Mustard type), outcomes 
+were good at mid-term follow-up. Single-ventricle palliation 
+showed excellent mid-term results in patients with ccTGA. 
+A follow-up of our managed patients with an individualized 
+plan demonstrated a satisfactory outcome.
+Data availability statement
+The original contributions presented in the study are included 
+in the article/Supplementary Material, and further inquiries can be 
+directed to the corresponding author.
+Ethics statement
+This research was approved by the ethical research 
+committee within the institutional review board at the 
+center’s medical research center with the research protocol 
+number RC20/336/R. The studies were conducted in 
+accordance with the local legislation and institutional 
+requirements. Written informed consent for participation 
+was not required from the participants or the participants’ 
+legal guardians/next of kin in accordance with the national 
+legislation and institutional requirements.
+Author contributions
+YA: Formal analysis, Project administration, 
+Conceptualization, Methodology, Writing – review & editing, 
+Writing – original draft, Software, Data curation, Investigation. 
+AJ: Methodology, Validation, Writing – original draft, Data 
+curation, Writing – review & editing, Formal analysis. AMA: 
+Data curation, Writing – original draft, Methodology, Writing – 
+review & editing. TY: Supervision, Conceptualization, 
+Validation, Writing – review & editing, Writing – original draft, 
+Visualization. MK: Writing – original draft, Writing – review & 
+editing, Visualization, Validation, Conceptualization. AAA: 
+Writing – review & editing, Writing – original draft, 
+Supervision. FA: Supervision, Writing – review & editing, 
+Project administration, Validation, Writing – original draft. IA: 
+Conceptualization, Investigation, Methodology, Validation, 
+Project administration, Resources, Data curation, Writing – 
+review & editing, Writing – original draft.
+Funding
+The author(s) declare that no ﬁnancial support was received 
+for the research and/or publication of this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the 
+absence of any commercial or ﬁnancial relationships that could 
+be construed as a potential con/f_lict of interest.
+Generative AI statement
+The author(s) declare that no Generative AI was used in the 
+creation of this manuscript.
+Any alternative text (alt text) provided alongside ﬁgures in this 
+article has been generated by Frontiers with the support of 
+artiﬁcial intelligence, and reasonable efforts have been made to 
+ensure accuracy, including review by the authors, wherever 
+possible. If you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their afﬁliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed 
+or endorsed by the publisher.
+Alahmed et al.                                                                                                                                                         10.3389/fcvm.2025.1682795
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+References
+PM?o?rK?h?dK?v?rK?f?iK?l?kdK?f?dM?
+Risk of congenital heart disease in relatives of probands with conotruncal cardiac 
+defects: an evaluation of 1,620 families. Am J Med Genet A. (2014) 164(6):1490–5. 
+doi: 10.1002/ajmg.a.36500
+2. Alghamdi AA, McCrindle BW, Van Arsdell GS. Physiologic versus anatomic 
+repair of congenitally corrected transposition of the great arteries: meta-analysis of 
+individual patient data. Ann Thorac Surg. (2006) 81(4):1529–35. 
+doi: 10.1016/j. 
+athoracsur.2005.09.035
+3. Taussig HB, Bing RJ. Complete transposition of the aorta and a levoposition of 
+the pulmonary artery; clinical, physiological, and pathological ﬁndings. Am Heart J. 
+(1949) 37(4):681. doi: 10.1016/0002-8703(49)91310-1
+4. Sano T, Riesenfeld T, Karl TR, Wilkinson JL. Intermediate-term outcome after 
+intracardiac repair of associated cardiac defects in patients with atrioventricular 
+and ventriculoarterial discordance. Circulation. (1995) 92(9):272–8. 
+doi: 10.1161/01. 
+cir.92.9.272
+5. Prieto LR, Hordof AJ, Secic M, Rosenbaum MS, Gersony WM. Progressive 
+tricuspid valve disease in patients with congenitally corrected transposition of the 
+great arteries. Circulation. (1998) 98(10):997–1005. 
+doi: 10.1161/01.cir.98.10.997
+6. De León LE, Mery CM, Verm RA, Trujillo-Díaz D, Patro A, Guzmán-Pruneda 
+FA, et al. Mid-term outcomes in patients with congenitally corrected transposition 
+of the great arteries: a single center experience. J Am Coll Surg . (2017) 
+224(4):707–15. 
+doi: 10.1016/j.jamcollsurg.2016.12.029
+7. Hraska V, Duncan BW, Mayer JE, Freed M, del Nido PJ, Jonas RA. Long-term 
+outcome of surgically treated patients with corrected transposition of the great 
+arteries. J Thorac Cardiovasc Surg. (2005) 129(1):182–91. doi: 10.1016/j.jtcvs.2004.02.046
+8. Graham TP, Bernard YD, Mellen BG, Celermajer D, Baumgartner H, Cetta F, 
+et al. Long-term outcome in congenitally corrected transposition of the great 
+arteries. J Am Coll Cardiol. (2000) 36(1):255–61. 
+doi: 10.1016/s0735-1097(00) 
+00682-3
+9. Termignon J-L, Leca F, Vouhé PR, Vernant F, Bical OM, Lecompte Y, et al. 
+‘Classic’ repair of congenitally corrected transposition and ventricular septal defect. 
+Ann Thorac Surg. (1996) 62(1):199–206. 
+doi: 10.1016/0003-4975(96)00344-x
+10. van Son JAM, Danielson GK, Huhta JC, Warnes CA, Edwards WD, Schaff HV, 
+et al. Late results of systemic atrioventricular valve replacement in corrected 
+transposition. J Thorac Cardiovasc Surg. (1995) 109(4):642–53. 
+doi: 10.1016/s0022- 
+5223(95)70345-4
+11. Duncan B. Results of the double switch operation for congenitally corrected 
+transposition of the great arteries. Eur J Cardiothorac Surg. (2003) 24(1):11–20. 
+doi: 10.1016/s1010-7940(03)00189-1
+12. Langley SM, Winlaw DS, Stumper O, Dhillon R, de Giovanni JV, Wright JG, 
+et al. Midterm results after restoration of the morphologically left ventricle to the 
+systemic circulation in patients with congenitally corrected transposition of the 
+great arteries. J Thorac Cardiovasc Surg. (2003) 125(6):1229–40. 
+doi: 10.1016/s0022- 
+5223(02)73246-7
+13. Brawn WJ, Barron DJ, Jones TJJ, Quinn DW. The fate of the retrained left 
+ventricle after double switch procedure for congenitally corrected transposition of 
+the great arteries. Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu. (2008) 
+11(1):69–73. 
+doi: 10.1053/j.pcsu.2008.01.004
+14. Poirier NC, Yu J-H, Brizard CP, Mee RBB. Long-term results of left ventricular 
+reconditioning and anatomic correction for systemic right ventricular dysfunction 
+after atrial switch procedures. J Thorac Cardiovasc Surg. (2004) 127(4):975–81. 
+doi: 10.1016/j.jtcvs.2003.10.024
+15. Acar P, Sidi D, Bonnet D, Aggoun Y, Bonhoeffer P, Kachaner J. Maintaining 
+tricuspid valve competence in double discordance: a challenge for the paediatric 
+cardiologist. Heart. (1998) 80(5):479–83. 
+doi: 10.1136/hrt.80.5.479
+16. Ma K, Gao H, Hua Z, Yang K, Hu S, Zhang H, et al. Palliative pulmonary artery 
+banding versus anatomic correction for congenitally corrected transposition of the 
+great arteries with regressed morphologic left ventricle: long-term results from a 
+single center. J Thorac Cardiovasc Surg. (2014) 148(4):1566–71. 
+doi: 10.1016/j.jtcvs. 
+2013.12.044
+17. Winlaw DS, McGuirk SP, Balmer C, Langley SM, Griselli M, Stümper O, et al. 
+Intention-to-treat analysis of pulmonary artery banding in conditions with a 
+morphological right ventricle in the systemic circulation with a view to anatomic 
+biventricular repair. Circulation. (2005) 111(4):405–11. 
+doi: 10.1161/01.cir. 
+0000153355.92687.fa
+18. Cools B, Brown SC, Louw J, Heying R, Meyns B, Gewillig M. Pulmonary artery 
+banding as ‘open end’ palliation of systemic right ventricles: an interim analysis. Eur 
+J Cardiothorac Surg. (2012) 41(4):913–8. doi: 10.1093/ejcts/ezr078
+19. Bautista-Hernandez V, Myers PO, Cecchin F, Marx GR, del Nido PJ. Late left 
+ventricular dysfunction after anatomic repair of congenitally corrected transposition 
+of the great arteries. J Thorac Cardiovasc Surg. (2014) 148(1):254–8. 
+doi: 10.1016/j. 
+jtcvs.2013.08.047
+20. Kalfa DM, Buratto E, Bacha EA, Belli E, Barron DJ, Ly M, et al. Single ventricle 
+palliation in congenitally corrected transposition of the great arteries: an international 
+multicenter study. J Thorac Cardiovasc Surg. (2025) 169(3):1022–7. 
+doi: 10.1016/j. 
+jtcvs.2024.08.051
+21. Bogers AJJC, Head SJ, de Jong PL, Witsenburg M, Kappetein AP. Long term 
+follow up after surgery in congenitally corrected transposition of the great arteries 
+with a right ventricle in the systemic circulation. J Cardiothorac Surg. (2010) 
+5(1):74. 
+doi: 10.1186/1749-8090-5-74
+22. Barrios PA, Zia A, Pettersson G, Najm HK, Rajeswaran J, Bhimani S, et al. 
+Outcomes of treatment pathways in 240 patients with congenitally corrected 
+transposition of great arteries. J Thorac Cardiovasc Surg. (2021) 161(3):1080–93.e4. 
+doi: 10.1016/j.jtcvs.2020.11.164
+Alahmed et al.                                                                                                                                                         10.3389/fcvm.2025.1682795
+Frontiers in Cardiovascular Medicine 07 frontiersin.org

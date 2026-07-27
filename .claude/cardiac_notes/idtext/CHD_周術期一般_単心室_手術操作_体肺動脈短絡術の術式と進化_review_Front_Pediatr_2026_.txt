@@ -1,0 +1,1077 @@
+
+[[p1]]
+EDITED BY  
+Alexandra Arvanitaki,  
+Aristotle University of Thessaloniki, 
+Greece
+REVIEWED BY  
+Ermanno Bellanti,  
+Bambino Gesù Children’s Hospital 
+(IRCCS), Italy  
+Putri Amelia,  
+University of North Sumatra, Indonesia
+*CORRESPONDENCE  
+Luis Emmanuel Ruiz Pérez  
+luis.emarp@outlook.com
+RECEIVED 13 December 2025 
+REVISED 13 February 2026 
+ACCEPTED 13 February 2026 
+PUBLISHED 21 April 2026
+CITATION 
+Ruiz Pérez LE (2026) Systemic-to- 
+pulmonary artery shunt: a surgical 
+strategy with no expiration date.  
+Front. Pediatr. 14:1767112. 
+doi: 
+10.3389/fped.2026.1767112
+COPYRIGHT 
+© 2026 Ruiz Pérez. This is an open- 
+access article distributed under the 
+terms of the 
+Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other 
+forums is permitted, provided the 
+original author(s) and the copyright 
+owner(s) are credited and that the 
+original publication in this journal is 
+cited, in accordance with accepted 
+academic practice. No use, distribution 
+or reproduction is permitted which does 
+not comply with these terms.
+Systemic-to-pulmonary artery 
+shunt: a surgical strategy with 
+no expiration date
+Luis Emmanuel Ruiz Pérez * 
+Deparment of Cardiothoracic Surgery, Hospital ISSSTE Villahermosa, Tabasco, Mexico
+Background: Systemic-to-pulmonary shunts remain a fundamental surgical 
+option in the palliative management of complex congenital heart defects, 
+particularly in patients with univentricular physiology. Although technically 
+demanding, the procedure has evolved through multiple modiﬁcations aimed 
+at simplifying its execution and reducing complications, while maintaining its 
+essential clinical role.
+Objective:To provide a narrative review of the Blalock-Taussig-Thomas shunt, 
+examining its physiological basis, surgical technique, associated risks and 
+complications, postoperative management, and historical evolution, with the 
+goal of evaluating its continued relevance in the palliative treatment of 
+complex congenital heart defects.
+Methods: A literature search was conducted in Elsevier, PubMed, and Scopus using 
+the keyword “systemic-to-pulmonary shunt.” Studies addressing historical 
+development, technical evolution, clinical indications, and postoperative 
+outcomes were included. The review focused on pedia tric populations, 
+speciﬁcally prenatal, neonatal, and school-age patients. Studies involving 
+adolescents were excluded to maintain consistency with early developmental 
+stages and the typical clinical context in which these shunts are used.
+Results & conclusion:The systemic-to-pulmonary shunt remains a valuable and 
+widely used palliative technique for patients with complex congenital heart 
+defects and univentricular physiology. While the original Blalock-Taussig- 
+Thomas technique has historically shown favorable outcomes, differences in 
+complication rates among its variants are inﬂuenced by patient selection and 
+institutional experience. Emerging alternatives, such as ductal stenting, may 
+reduce the frequency of surgical shunt placement in selected patients; 
+however, they do not currently replace the systemic-to-pulmonary shunt as a 
+comprehensive or universally applicable strategy.
+KEYWORDS
+congenital heart disease, palliative cardiac surgery, pulmonary ductal stent, systemic to 
+pulmonary artery shunt, univentricular heart
+1 Introduction
+Congenital heart defects remain the most common malformations in infancy (1), and 
+although survival has improved signiﬁcantly—even among patients with complex 
+anomalies (
+2 )—many conditions still require palliative interventions aimed at 
+optimizing pulmonary blood /f_low. Among these, the systemic-to-pulmonary artery 
+shunt, historically known as the Blalock-Taussig shunt, continues to be one of the most 
+widely used strategies.
+TYPE Review 
+PUBLISHED 21 April 2026 
+DOI 10.3389/fped.2026.1767112
+Frontiers in Pediatrics 01 frontiersin.org
+[[p2]]
+The procedure was ﬁrst performed in 1944 by Alfred Blalock 
+and Helen Taussig (3), with the essential technical contributions 
+of Vivien Thomas, whose role was formally recognized decades 
+later. For this reason, the complete designation—Blalock- 
+Taussig-Thomas shunt—is now widely accepted.
+In the 1940s, patients with tetralogy of Fallot faced extremely 
+high mortality rates, as no surgical treatment existed to relieve 
+cyanosis or the consequences of severe hypoxemia. Most died 
+before their ﬁrst year of life (
+4). In response to this clinical 
+challenge, Helen Taussig proposed to Alfred Blalock a surgical 
+strategy to redirect systemic blood toward the pulmonary 
+arteries (
+3), using the subclavian artery as the in/f_low source to 
+increase pulmonary perfusion, improve oxygenation, and 
+reduce cyanosis.
+Based on this principle, a direct arterial connection between 
+the subclavian artery and the pulmonary artery was established 
+(
+3), resulting in notable clinical improvement. However, 
+complications such as right arm ischemia and, in rare cases, 
+spinal cord injury (
+5) were reported. In addition, the technique 
+proved challenging in patients with unfavorable anatomy, such 
+as hypoplastic pulmonary artery branches (
+5), prompting the 
+development of alternative surgical approaches.
+The systemic-to-pulmonary artery shunt consists of creating a 
+surgical connection between the right subclavian artery and the 
+right pulmonary artery (
+6) (Figure 1), with the objective of 
+increasing pulmonary blood /f_low and improving systemic 
+oxygenation. This approach is particularly relevant in patients 
+with univentricular physiology or severe cyanosis. By redirecting 
+systemic blood toward the pulmonary circulation, the shunt 
+promotes pulmonary vascular development and reduces 
+hypoxemia. However, the resulting increase in pulmonary /f_low 
+also raises venous return to the right atrium, which may 
+predispose patients to pulmonary edema, right-sided heart 
+failure, or pulmonary venous hypertension. For this reason, the 
+systemic-to-pulmonary artery shunt is considered a temporary 
+measure and is typically used as a bridge to subsequent 
+palliative procedures.
+One of the earliest modiﬁcations was introduced by Klinner, 
+who interposed a prosthetic graft between the subclavian and 
+pulmonary arteries (
+5) to avoid direct manipulation of the 
+systemic vessel. Other variants sought to bypass the subclavian 
+artery entirely, such as the Potts shunt (descending aorta to the 
+left pulmonary artery) (
+5) and the Waterston shunt (ascending 
+aorta to the right pulmonary artery) (7, 8). Although these 
+techniques improved cyanosis, they were later associated with 
+pulmonary hypertension and technical difﬁculties during 
+takedown in subsequent surgeries (
+6, 7), leading to their decline 
+in contemporary practice.
+Other alternatives were also explored, including the use of the 
+internal mammary artery, particularly in patients with congenital 
+absence of the right pulmonary artery (62). However, its surgical 
+complexity – related to its small caliber and limited /f_low – has 
+prevented its routine use. These limitations supported the 
+continued use of the original concept, reﬁned through the 
+interposition of a prosthetic graft.
+Although initially conceived as a palliative treatment for 
+tetralogy of Fallot, the systemic-to-pulmonary artery shunt is 
+now used in a broader spectrum of congenital heart defects with 
+univentricular physiology, including pulmonary atresia, tricuspid 
+atresia, double-outlet right ventricle, and atrioventricular canal 
+defects with a single functional ventricle (
+9).
+Data from the STS Congenital Heart Surgery Database identify 
+this operation among the ten most frequently performed pediatric 
+cardiac surgeries (
+10), and additional multicenter studies have 
+reported an increase in its use (11), underscoring its ongoing 
+clinical relevance.
+This review examines the systemic-to-pulmonary artery shunt 
+with emphasis on surgical technique, risks, complications, 
+postoperative management, and historical evolution, as well as 
+selected technical variants. A systematic comparison of all 
+techniques or a comprehensive management guide is beyond the 
+scope of this article.
+2 Methods
+A literature search was conducted in the Elsevier, PubMed, 
+and Scopus databases using “systemic-to-pulmonary shunt” as 
+the primary keyword, combined with Boolean operators 
+(“AND,” “OR,” “NOT”) and related terms such as “children,” 
+“pediatric,” “complications,” “morbidity,” “other systemic-to- 
+pulmonary shunts,” “ductal stenting,” and similar concepts. 
+Additional terms related to imaging modalities (“magnetic 
+resonance imaging,” “angiography,” “cardiovascular imaging”) 
+were incorporated to increase the sensitivity of the search 
+strategy. The search included publications from 1980 to 2025 
+and was restricted to articles written in English. Although the 
+search was restricted to English-language publications, one 
+Spanish-language article was included due to the relevance of its 
+anatomical ﬁgure for illustrative purposes.
+The objective of the search was to identify studies addressing 
+historical development, technical evolution, clinical indications, 
+imaging evaluation, postoperative outcomes, mortali ty, 
+complications, and medical management. Because certain classic 
+procedures—such as the Potts and Waterston shunts—are no longer 
+performed in contemporary practice, historical and comparative 
+articles were included when they provided essential context for 
+understanding the evolution of systemic-to-pulmonary shunts. 
+Additionally, contemporary studies were incorporated when they 
+referenced or compared these historical techniques. Reference lists of 
+selected articles were manually reviewed, allowing the identiﬁcation 
+of publications prior to 1980; these were included only when they 
+contributed fundamental information regarding the conceptual or 
+technical development of systemic-to-pulmonary shunts.
+Inclusion criteria encompassed original articles—including 
+retrospective studies, prospective studies, case series, cohort studies, 
+database analyses, and comparative studies—as well as review 
+articles, observational studies, and chapters from cardiac surgery 
+textbooks. Studies were included if they involved pediatric 
+Abbreviations  
+STS, society of thoracic surgeons; PTFE, polytetra/f_luoroethylene; QS, systemic 
+blood /f_low; QP, pulmonary blood /f_low; QP/QS ratio, ratio of pulmonary to 
+systemic blood /f_low; SaO₂, arterial oxygen saturation; Fio2, fraction of 
+inspired oxygen; OR, odds ratio; CI, conﬁdence interval; HR, hazard ratio; 
+TPM, thromboelastography with platelet mapping; ARU, aspirin reaction 
+units; STS-CHSD, society of thoracic surgeons—congenital heart surgery 
+database; NYHA, New York heart Association; BTT, Blalock–Taussig– 
+Thomas shunt.
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 02 frontiersin.org
+[[p3]]
+populations (neonates, infants, preschool children, school-age 
+children, or adolescents) and addressed systemic-to-pulmonary 
+shunts, ductal stenting, or comparative procedures. Each identiﬁed 
+article was initially screened by abstract review, and those meeting 
+relevance criteria were subsequently analyzed in full.
+Exclusion criteria included studies that did not provide 
+additional information beyond the selected literature, 
+publications whose full content was not accessible or sufﬁciently 
+interpretable, and articles not available in English.
+3 Indications
+The main indications for performing a systemic-to-pulmonary 
+artery shunt include severe cyanosis (SaO₂ below 70%–75%) and 
+pulmonary perfusion dependent on a patent ductus arteriosus 
+during the early neonatal period (
+13). However, any condition— 
+congenital or acquired—that results in restrictive pulmonary 
+blood /f_low and compromises systemic oxygenation may justify 
+this intervention.
+Following placement of the systemic-to-pulmonary artery 
+shunt, the clinical objective is to achieve an arterial oxygen 
+saturation between 75% and 85% (
+13), provided that diastolic 
+blood pressure remains above 30 mmHg (13). This threshold is 
+essential to ensure adequate cerebral and coronary perfusion, 
+thereby contributing to the patient’s hemodynamic stability (
+13).
+4 Preoperative management
+Patients with congenital heart defects presenting with 
+univentricular physiology may be hemodynamically unstable 
+at birth. Therefore, achieving clinical stability is essential 
+before performing a systemic-to-pulmonary artery shunt (
+13). 
+In cases of decompensation, initial management may include 
+prostaglandins, inotropic agents, diuretics, and mechanical 
+ventilatory support (
+13).
+Anatomical assessment of the pulmonary vasculature should 
+be performed using echocardiography, and in selected cases, 
+cardiac magnetic resonance imaging may be used to provide a 
+more detailed vascular characterization (
+14). In patients with 
+unfavorable anatomy, cardiac catheterization allows estimation 
+of the pulmonary vascular bed’s capacity and assessment of its 
+tolerance to the increased /f_low induced by the shunt (
+15).
+5 Classical surgical technique
+The systemic-to-pulmonary artery shunt is preferably 
+performed during the neonatal period, as the pulmonary 
+vascular bed at this stage is more compliant and better tolerates 
+increased blood Flow (
+9, 16).
+5.1 Positioning and surgical approach
+The patient is placed in the dorsal decubitus position, with 
+moderate elevation of the corresponding hemithorax depending on 
+the side selected. The surgical approach is made through the third 
+intercostal space, using an incision that extends from the lateral 
+border of the sternum to the axillary line. Entry into the pleural 
+cavity is achieved by dividing the third and fourth costal cartilages (3).
+5.2 Pulmonary artery preparation
+The right pulmonary artery is identiﬁed and carefully 
+dissected. Two bulldog clamps are applied: one distal to the 
+bifurcation of the main pulmonary trunk, and another proximal 
+to the branch supplying the upper lobe. A lateral incision is 
+made between both clamps to serve as the site for anastomosis (
+3).
+FIGURE 1 
+systemic-to-pulmonary shunt consists of a conduit connecting the right subclavian artery to the right pulmonary artery, allowing systemic blood ﬂow 
+to reach the pulmonary circulation. (A) Image taken from López-Terrazas JH et al. (
+12). (A) Shows the classic Blalock–Taussig shunt, which connects 
+the left subclavian artery to the pulmonary artery. (B) Depicts the contemporary technique, which requires the interposition of a prosthetic conduit 
+between the systemic artery and the pulmonary artery. Red arrow: Right subclavian artery. Blue arrow: Right pulmonary artery. (B) Right lateral view of 
+the heart. The image shows how the conduit connects the right subclavian artery to the pulmonary artery. Blue arrow: Pulmonary artery. Red arrow: 
+Right subclavian artery. White arrow: Gore-Tex conduit.Green arrow: Right ventricle. (C) Right anterolateral view of the heart. Orange arrow: Right 
+lung. Color coding for the remaining arrows follows the same scheme used in the previous panels.
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 03 frontiersin.org
+[[p4]]
+5.3 Systemic vessel preparation
+The subclavian or innominate artery is dissected and transected, 
+depending on the case. Intravenous heparin is administered at a dose 
+of 3 mg/kg/day to prevent thrombosis (3). The vessel is isolated using 
+a partial occlusion clamp.
+5.4 Anastomosis
+The end of the systemic vessel is anastomosed to the side of the 
+pulmonary artery using a continuous suture, ensuring proper 
+intima-to-intima alignment. Once the clamps are removed, any 
+bleeding at the suture line is controlled with additional stitches (3).
+6 Modiﬁed technique
+This variant was introduced in the early 1960s as an alternative 
+to direct transection of the subclavian artery. Instead of using the 
+native vessel, a synthetic polytetra/f_luoroethylene (PTFE) graft is 
+employed as a vascular conduit (
+6). Although this approach 
+preserves the core surgical principles of the original technique 
+(
+3), it introduces speciﬁc modiﬁcations in the anastomosis 
+between the subclavian and pulmonary arteries.
+6.1 Dissection and mobilization
+Both the pulmonary artery and the subclavian artery are 
+carefully dissected and mobilized.
+6.2 Longitudinal incision
+A longitudinal incision is made in each vessel, creating an 
+opening that matches the expanded diameter of the graft.
+6.3 Graft anastomosis
+The PTFE graft is anastomosed between the two vessels, allowing 
+blood to /f_low from the systemic circulation into the pulmonary circuit.
+6.4 Graft diameter selection based on body 
+weight
+Graft diameter selection based on body weight. The diameter 
+of the graft is determined by the patient’s body weight, which is 
+why 
+Table 1is provided. This technique offers greater control 
+over blood /f_low, reduces direct manipulation of native vessels, 
+and improves the long-term durability of the shunt (
+6, 16).
+7 Purpose of systemic-to-pulmonary 
+shunts
+Congenital heart defects with single-ventricle physiology— 
+such as pulmonary atresia, tricuspid atresia, and tetralogy of 
+Fallot—share a structural abnormality that impairs right 
+ventricular out/f_low to the pulmonary circulation. This 
+obstruction may result from valvular stenosis, atresia, or 
+discontinuity of the out/f_low tract, leading to a signiﬁcant 
+reduction in pulmonary blood /f_low and, consequently, 
+compromised systemic oxygenation.
+In the neonatal period, these conditions are further exacerbated 
+by physiological characteristics unique to this stage, including 
+initially elevated pulmonary vascular resistance, immature vascular 
+architecture, and heightened sensitivity to pressure and oxygen 
+/f_luctuations. These factors render the pulmonary vasculature 
+particularly fragile in the context of congenital defects with 
+restricted pulmonary /f_low, potentially triggering severe hypoxemia 
+and fatal outcomes if not promptly addressed.
+In such patients, pulmonary perfusion may be temporarily 
+sustained by a patent ductus arteriosus (ductus-dependent 
+pulmonary /f_low). However, this mechanism is often insufﬁcient 
+to ensure adequate oxygenation. For this reason, a systemic-to- 
+pulmonary artery shunt is indicated to augment pulmonary 
+blood /f_low and support gas exchange.
+The goal of this intervention during the neonatal stage is to 
+achieve hemodynamic balance between systemic (QS) and 
+pulmonary (QP) circulation, optimizing the QP/QS ratio. 
+Additionally, it aims to facilitate unobstructed atrial mixing and 
+preserve effective systemic cardiac output.
+8 Postoperative evaluation
+The goal of systemic-to-pulmonary shunts is to improve cyanosis 
+and maintain oxygen saturations between 75%–85% (13), thereby 
+avoiding both hypoxemia and pulmonary overcirculati on. 
+Immediate postoperative management focuses on maintaining an 
+appropriate Qp/Qs balance through individualized ventilatory 
+adjustments, including increasing FiO₂ in cases of hypoxemia and 
+using hyperventilation when pulmonary vascular resistance is 
+elevated, as well as implementing /f_luid restriction and diuretics 
+when there is a risk of volume overload (17). Two of the main risks 
+in patients undergoing systemic-to-pulmonary shunt surgery are 
+hypoxemia and hemodynamic instability; therefore, controlling 
+pulmonary blood /f_low in the immediate postoperative period is 
+essential to ensure survival and hemodynamic stability (18).
+Traditionally, functional assessment of these shunts relied on 
+evaluating oxygen content in pulmonary capillaries after gas 
+TABLE 1 Recommended diameter for systemic-to-pulmonary artery shunt ( 16 ).
+Weight Category Recommended Tube Diameter
+Neonatos 3.5 mm
+5–6 Kg 4 mm
+6–10 Kg 5 mm
+Over 10 Kg 6 mm
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 04 frontiersin.org
+[[p5]]
+exchange (19). However, current practice focuses on two key 
+parameters to assess procedural effectiveness: arterial blood 
+pressure and lactate levels (20 ). In a prospective observational 
+study, the prognostic value of arterial lactate was evaluated through 
+serial measurements at ICU admission and at 6, 12, and 24 h 
+postoperatively. Patients who died had signiﬁcantly higher mean 
+lactate levels at all time points (p < 0.001) (21). Reported in- 
+hospital mortality was 5.9%, and long-term mortality reached 8.7%, 
+both associated with elevated lactate levels. Hyperlactatemia, 
+deﬁned as lactate >3.0 mmol/L, was identiﬁed as an independent 
+predictor of in-hospital mortality (OR = 1.468; 95% CI: 1.239– 
+1.739; p < 0.001) and was also associated with an increased risk of 
+long-term mortality (HR = 1.511; 95% CI: 1.251–1.825) (21).
+The most commonly used antithrombotic agents after surgery 
+are unfractionated heparin and acetylsalicylic acid; however, the 
+optimal thromboprophylaxis strategy in neonates and children 
+with systemic-to-pulmonary shunts has not yet been established 
+due to variability among centers and the lack of robust 
+comparative evidence (
+22 ).
+9 Imaging evaluation of systemic-to- 
+pulmonary shunts
+Currently, less invasive techniques are available to assess the 
+patency of systemic-to-pulmonary shunts. One such method is 
+electrocardiogram-synchronized cardiac magnetic resonance 
+imaging (
+23 ), which enables accurate quantiﬁcation of the 
+pulmonary-to-systemic /f_low ratio through high-resolution 
+volumetric imaging (
+24 ).
+Although innovative technologies such as 3D printing and virtual 
+reality visualization have been introduced to enhance the anatomical 
+representation of systemic-to-pulmonary shunts (25), conventional 
+modalities—including biplane angiographic /f_luoroscopy, rotational 
+angiography, invasive intracardiac echocardiography, and 
+computed tomography—remain fundamental tools in the ir 
+evaluation. Despite growing interest in these emerging approaches, 
+their clinical application in this context has yet to achieve universal 
+validation (26).
+10 Main complications
+Stenosis and thrombosis are two of the complications most 
+strongly associated with increased mortality in patients with 
+systemic-to-pulmonary shunts (
+27 ). A meta-analysis evaluating 
+risk factors in this population reported a global incidence of 
+conduit obstruction of approximately 7% (
+28). Although conduit 
+size was long considered a potential contributor to mortality, it 
+has since been ruled out as an independent predictor (
+16, 28). 
+Instead, factors such as patient weight, underlying pathology, 
+coagulation proﬁle, and surgical variables may signiﬁcantly 
+increase the risk of thrombosis, which is directly linked to 
+higher mortality (
+28).
+Additional conditions that may worsen clinical status in the 
+immediate postoperative period include bradycardia, sepsis, 
+ventilator-associated pneumonia, and heart failure (
+28).
+11 Postoperative antithrombotic 
+therapy
+Conduit obstruction due to thrombus formation is one of the 
+leading causes of mortality in patients with systemic-to- 
+pulmonary shunts. It has been shown that initiating aspirin 
+therapy within the ﬁrst 24 h after surgery signiﬁcantly reduces 
+this risk. Additionally, the combined administration of aspirin 
+and heparin has been associated with higher survival rates 
+compared to heparin alone (
+29 ).
+Assessing the effectiveness of aspirin remains a challenge, 
+given the limited availability of standardized parameters to 
+accurately quantify its impact. In this context, a retrospective 
+study compared two monitoring methods: thromboelastography 
+with platelet mapping (TPM) and aspirin reaction units (ARU) 
+using the VerifyNow system. The results indicated that ARU 
+monitoring was more efﬁcient, requiring fewer therapeutic 
+adjustments without increasing adverse events, suggesting it may 
+be a more reliable tool for evaluating aspirin sensitivity in 
+pediatric patients (
+30). However, the study has limitations, 
+including scarce evidence regarding its applicability in children 
+and the fact that not all centers have access to this technology (
+31).
+Despite these limitations, the clinical beneﬁt of aspirin has 
+been supported by multicenter prospective studies, which have 
+demonstrated a signiﬁcant reduction in the risk of death and 
+thrombosis in pediatric populations (
+32 ). A universally accepted 
+pediatric dosage has not been established, and recommendations 
+vary across institutions (
+33). Some authors propose a range of 
+1–5 mg/kg/day (34, 35), while an empirical dose of 40 mg/day 
+has been suggested for neonates. In adults, a maximum dose of 
+75 mg may be sufﬁcient (
+35). Randomized, double-blind clinical 
+trials have shown that aspirin alone, without clopidogrel, 
+provides comparable efﬁcacy and may offer greater safety in 
+infants with cyanotic congenital heart disease treated with 
+systemic-to-pulmonary shunting (
+36, 37).
+12 Comparison between systemic-to- 
+pulmonary shunt and ductal stent 
+placement
+Alternative strategies to the systemic-to-pulmonary shunt have 
+been explored with the aim of improving survival in patients with 
+hemodynamic instability. Among these options, ductal stent 
+implantation has emerged as a less invasive alternative to 
+maintain a right-to-left shunt in univentricular hearts with 
+ductus-dependent systemic blood /f_low. It is indicated in 
+neonates with cyanotic congenital heart disease who remain 
+dependent on ductal patency during the neonatal period (
+38). 
+However, successful implantation requires ductal diameters 
+between 7 and 9 mm in term neonates to ensure adequate 
+systemic blood /f_low (
+39). One of its main advantages is the 
+avoidance of thoracotomy and the complications associated with 
+surgery (
+38). In addition, this strategy has been shown to 
+improve survival in hemodynamically unstable patients in whom 
+a systemic-to-pulmonary shunt cannot be performed (
+28, 40).
+An observational study reported that patients undergoing ductal 
+stent implantation had a 4.24-fold higher probability of survival 
+compared with those who received a surgical shunt (95% CI: 1.37– 
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 05 frontiersin.org
+[[p6]]
+13.14; p < 0.05) (41). A trend toward reduced use of life-support 
+therapies, such as extracorporeal membrane oxygenation (ECMO), 
+was also observed, with an odds ratio of 0.22 (p = 0.058), although 
+this did not reach statistical signiﬁcance (36).
+When comparing clinical outcomes between both groups, 
+ductal stenting was associated with a signiﬁcantly shorter 
+hospital stay, with an adjusted median difference of 11 days 
+(95% CI: 7.2–14.8; p < 0.0001) (
+42 ). However, this initial beneﬁt 
+is offset by a higher risk of reintervention: patients with ductal 
+stents were 3.37 times more likely to require a new procedure 
+within the ﬁrst 3 months (95% CI: 1.91–5.95; p < 0.001) and 
+2.43 times more likely within the ﬁrst 6 months (95% CI: 1.62– 
+3.64; p < 0.001) (
+42 ).
+Despite these differences, both procedures have proven effective 
+in promoting pulmonary artery growth and improving mid-term 
+survival (
+43). The choice between the two must be individualized, 
+taking into account anatomy, institutional resources, and available 
+expertise. In very low-birth-weight neonates, those with 
+unfavorable pulmonary artery anatomy, or in centers with limited 
+neonatal interventional cardiology capability, the surgical shunt 
+remains a more predictable strategy with less technical variability. 
+Conversely, in patients with an accessible ductus, favorable 
+anatomy, and available interventional expertise, ductal stenting 
+may offer a less invasive option with faster recovery.
+13 Discussion
+Early complications described with the Blalock-Taussig-Thomas 
+technique included right arm paralysis, attributed to prolonged 
+clamping of the subclavian artery, which caused transient 
+hypoperfusion and spinal cord ischemia (3). To prevent these 
+growth-related complications, Klinner introduced the use of PTFE 
+(polytetra/f_luoroethylene) vascular grafts between the subclavian 
+artery and the pulmonary artery, which was associated with 
+improved survival (5). As an alternative to conventional 
+techniques, Potts proposed a side-to-side anastomosis between the 
+descending aorta and the left pulmonary artery (5). However, 
+observational studies identiﬁed a higher risk of pulmonary 
+hypertension, left ventricular overload, and difﬁculty reversing the 
+procedure (6), leading to its abandonment.
+In recent years, this technique has re-emerged as a palliative option 
+for patients with suprasystemic pulmonary hypertension refractory to 
+medical therapy, demonstrating clinical beneﬁts such as functional 
+improvement, reduced pharmacologic requirements, and a 
+signiﬁcant decrease in mortality among patients on the transplant 
+waiting list (p = 0.02), with notably higher ﬁve-year survival rates. 
+Additional reports have documented improved systolic function, 
+reduced afterload, and decreased right ventricular burden (p = 0.02) 
+(44, 45), as well as improvement in functional class (46).
+Another technical challenge in systemic-to-pulmonary shunts 
+arises in patients with hypoplastic right ventricles and unfavorable 
+pulmonary artery anatomy, where performing a Blalock-Taussig- 
+Thomas shunt becomes technically complex. In this context, the 
+Waterston shunt was introduced as an alternative, consisting of 
+an anastomosis between the ascending aorta and the right 
+pulmonary artery. However, this technique was associated with 
+higher rates of pulmonary hypertension, asymmetric pulmonary 
+artery growth (
+8), and early mortality (47), limiting its adoption 
+as a ﬁrst-line surgical strategy (48). Lower-risk variants, such as 
+shunts using the internal mammary artery (44), were developed 
+to simplify the surgical approach, but they fell out of favor due 
+to the structural fragility of the mammary artery (
+49).
+Although multiple variants of systemic-to-pulmonary shunts 
+exist, few studies allow direct comparisons among them. Many 
+analyses have focused solely on identifying factors associated 
+with survival, such as elevated partial pressure of oxygen (PaO₂), 
+which correlates with better outcomes (
+50). However, there 
+remains a lack of studies comparing survival, surgical feasibility, 
+and complication risk across different shunt techniques (
+Table 2).
+TABLE 2 Comparative characteristics of the main systemic-to-pulmonary shunts.
+Characteristics Classical Blalock– 
+Taussig–Thomas 
+shunt
+Modiﬁed Blalock –Taussig 
+shunt using a synthetic 
+tube graft
+Potts shunt Waterston shunt
+Anatomical site Subclavian artery to the 
+ipsilateral pulmonary artery
+Synthetic conduit between the 
+subclavian artery and the pulmonary 
+artery
+Descending aorta to the left pulmonary 
+artery
+Ascending aorta to the 
+right pulmonary artery
+Flow characteristics Moderate Controlled Very high High
+Complications Subclavian steal 
+phenomenon
+Shunt thrombosis Severe pulmonary overcirculation Pulmonary 
+overcirculation
+Upper-extremity ischemia Shunt stenosis Pulmonary hypertension Distortion of the 
+pulmonary artery 
+branches
+Shunt occlusion Pulmonary artery distortion at the 
+anastomosis site
+Congestive heart failure Progressive pulmonary 
+hypertension
+Current clinical use No longer used in 
+contemporary practice
+Current standard of car Obsolete as a shunt; selectively reintroduced 
+as a reverse Potts shunt for refractory 
+pulmonary hypertension
+Obsolete; not used today
+The modiﬁed systemic-to-pulmonary shunt is the technique most frequently used in pediatric patients. The Potts, classical Blalock–Taussig–Thomas, and Waterston shunts are no longer 
+used in contemporary practice.
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 06 frontiersin.org
+[[p7]]
+Outside these speciﬁc contexts, the Blalock-Taussig-Thomas 
+shunt remains a valid palliative option, supported by a one-year 
+survival rate of 82% (95% CI: 72–88.4%) (
+51). It is considered a 
+safe strategy (52, 53), applicable in infants weighing less than 
+3 kg, in patients older than 3 years (54, 55), and in those with 
+mildly to moderately elevated pulmonary vascular resistance 
+(
+56). It has been associated with low operative mortality (2.33%) 
+(55) and signiﬁcant improvement in oxygen saturation. Long- 
+term follow-up has demonstrated pulmonary artery growth, with 
+an increase in the McGoon index from 0.96 ± 0.48 in the 
+immediate postoperative period to 1.30 ± 0.31 at ﬁnal evaluation 
+(p < 0.05) (
+54), along with improvement in cardiac functional 
+class and reductions in brain natriuretic peptide levels (57). 
+However, patients presenting with advanced functional class 
+(NYHA III–IV) have shown a higher risk of mortality (HR 5.7; 
+p = 0.02) (
+58).
+Several preoperative factors continue to represent signiﬁcant 
+risks for shunt failure. Multicenter studies have shown that low 
+weight at the time of surgery is associated with a 35% higher 
+likelihood of failure (OR 1.35; p = 0.001) (
+28). However, weight 
+is not the only determinant: the type of shunt also in/f_luences 
+outcomes, as ventricle-to-pulmonary artery shunts have a 35% 
+lower risk of failure compared with artery-to-artery shunts (OR 
+0.65; p = 0.020) (
+59). Contrary to common assumptions, neither 
+conduit diameter nor anastomosis location alone determines 
+long-term success. Recent studies emphasize that precise surgical 
+technique—with proper /f_low orientation and absence of vascular 
+torsion—is essential to prevent complications such as stenosis, 
+thrombosis, or early shunt dysfunction (
+16). Even in technically 
+well-executed procedures, adverse events such as progressive 
+stenosis, thrombosis, and pulmonary overcirculation may occur 
+(
+27 ). A retrospective study conducted at a pediatric hospital 
+found that patients undergoing systemic-to-pulmonary shunts 
+had an 18.6-fold higher relative risk of overcirculation (95% CI: 
+3.87–89.4), as well as a 1.57-fold higher risk of obstruction (95% 
+CI: 0.46–5.35), although the latter did not reach statistical 
+signiﬁcance (p < 0.0001) (
+18).
+Comparisons between ductal stenting and surgical systemic-to- 
+pulmonary shunts are currently underway. Observatio nal 
+comparative studies have shown that, in the short term, infants 
+undergoing ductal stent placement have a signiﬁcantly shorter 
+hospital stay compared with those receiving a surgical shunt (33, 38, 
+42 , 60). However, in the mid- and long-term, ductal stenting is 
+associated with a higher frequency of complications, including stent 
+dysfunction, reduced left pulmonary artery growth, and a higher risk 
+of reintervention compared with surgically managed patients (40, 42 ).
+Consistently, meta-analyses show that ductal stenting may be a 
+non-inferior and even potentially superior strategy to surgical 
+shunts, reporting lower mortality and signiﬁcantly shorter 
+hospital stays, although with a higher risk of reintervention 
+during follow-up (
+33). Likewise, recent multicenter studies have 
+reported that ductal stenting is associated with lower inotropic 
+requirements (p < 0.001), a higher likelihood of immediate 
+extubation, and shorter duration of mechanical ventilation, 
+again with a higher risk of reinterventions (
+61). Regarding 
+pulmonary artery growth, meta-analyses have shown comparable 
+outcomes between both strategies in selected patients (
+33).
+Population-based analyses have demonstrated that the risk of 
+reintervention is higher in patients with ductal stents at both 3 
+months (OR 3.37; 95% CI: 1.91–5.95; p < 0.001) and 6 months (OR 
+2.43; 95% CI: 1.62–3.64; p < 0.001), although with signiﬁcantly 
+lower initial hospital costs compared with surgical shunts32. 
+Nonetheless, appropriate patient selection is essential: those with 
+hemodynamic instability (38) or ductal diameters of 7–9 mm in 
+term neonates beneﬁt the most from this strategy61 (Table 3).
+14 Conclusion
+The Blalock–Taussig–Thomas (BTT) shunt remains a 
+contemporary and clinically relevant palliative surgical option in 
+neonates and infants. Although systemic-to-pulmonary shunts 
+have undergone multiple technical modiﬁcations, historical 
+variants such as the Potts and Waterston shunts—while 
+TABLE 3 Comparison between systemic-to-pulmonary shunt and ductal stent placement.
+Aspect Systemic-to-pulmonary Shunt Ductal stent placement
+Indication Cyanotic congenital heart diseases dependent on systemic-to- 
+pulmonary blood /f_low
+Cyanotic congenital heart diseases dependent on systemic-to-pulmonary blood 
+/f_low in patients with hemodynamic instability who are not candidates for a 
+systemic-to-pulmonary shunt (
+38)
+Anatomical 
+requirements
+Does not depend on ductal diameter; suitable even in the 
+presence of pulmonary artery hypoplasia
+Ductus measuring 7–9 mm in term neonates (39)
+Patient 
+characteristics
+Very low-birth-weight neonates; unfavorable pulmonary artery 
+anatomy; centers without neonatal interventional cardiology 
+capability
+Accessible ductus; favorable anatomy; availability of experienced interventional 
+cardiology expertise.
+Hospital length of 
+stay
+Longer Shorter
+Reinterventions Lower reintervention rates Higher rates of reinterventions at 3 and 6 months (42 )
+Key advantages More stable /f_low; extensive surgical experience. Less invasive; avoids thoracotomy; useful in hemodynamically unstable patients
+Key disadvantages Surgical risk Anatomical dependence on the ductus; higher reintervention rate
+Procedure costs More expensive Less expensive
+Comparison between systemic-to-pulmonary shunts and ductal stenting, highlighting key indications, advantages, and disadvantages.
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 07 frontiersin.org
+[[p8]]
+informative—were largely abandoned due to complications 
+including pulmonary hypertension, asymmetric pulmonary 
+artery growth, and high early mortality. The modiﬁed Blalock– 
+Taussig shunt with an interposed tube continues to be widely 
+used, in part due to its technical familiarity and the favorable 
+safety proﬁle reported across numerous series. Despite good 
+survival in selected populations, shunt-related complications 
+such as thrombosis, stenosis, and pulmonary overcirculation 
+persist, particularly in high-risk patients; therefore, outcomes 
+must be interpreted in the context of institutional experience, 
+patient selection, and surgical era.
+The BTT shunt remains a valuable option in the palliative 
+management of congenital heart defects with single-ventricle 
+physiology, especially when alternative strategies are not feasible 
+or carry higher risk. In patients with hemodynamic compromise 
+or contraindications to conventional surgery, ductal stent 
+implantation represents a less invasive alternative with 
+encouraging early results, although evidence regarding long- 
+term outcomes remains limited.
+15 Limitations
+This article aims to provide a narrative overview of the 
+Blalock–Taussig–Thomas systemic-to-pulmonary shunt, 
+addressing its application, management, complications, and 
+comparison with other shunt techniques, without intending to 
+serve as a comprehensive guide. Although the literature on this 
+procedure is relatively abundant, as with many palliative 
+strategies, the quality and strength of the available evidence 
+remain limited. In particular, there is a persistent lack of 
+prospective, multicenter, long-term studies, which hinders the 
+extrapolation of results and the development of evidence-based 
+clinical recommendations. Future research is expected to focus 
+not only on optimizing this technique, but also on evaluating its 
+continued use and the potential for it to be replaced by less 
+invasive alternatives such as ductal stent implantation, as well as 
+exploring its long-term implications for neurodevelopment and 
+quality of life.
+Author contributions
+LR: Conceptualization, Data curation, Formal analysis, 
+Funding acquisition, Investigation, Methodology, Project 
+administration, Resources, Software, Supervision, Validation, 
+Visualization, Writing – original draft, Writing – review & editing.
+Funding
+The author(s) declared that ﬁnancial support was not received 
+for this work and/or its publication.
+Conﬂict of interest
+The author(s) declared that this work was conducted in the 
+absence of any commercial or ﬁnancial relationships that could 
+be construed as a potential con/f_lict of interest.
+Generative AI statement
+The author(s) declared that generative AI was not used in the 
+creation of this manuscript.
+Any alternative text (alt text) provided alongside ﬁgures in this 
+article has been generated by Frontiers with the support of 
+artiﬁcial intelligence and reasonable efforts have been made to 
+ensure accuracy, including review by the authors wherever 
+possible. If you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their afﬁliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed 
+or endorsed by the publisher.
+References
+PM?u?bK?l?mK?c?fK?g?loM?b?????
+congenital heart disease (CHD). Med Genet . (2025) 37(2):95–102. 
+doi: 10.1515/ 
+medgen-2025-2008
+2. Stephens SB, Morris SA, Benjamin RH, Canﬁeld MA, Shumate CJ, Li R, et al. 
+Longitudinal trends in pediatric survival by congenital heart defect in Texas, 1999 
+to 2017. JACC Adv . (2025) 4(6):101812. 
+doi: 10.1016/j.jacadv.2025.101812
+3. Blalock A, Taussig HB. The surgical treatment of malformations of the heart in 
+which there is pulmonary stenosis or pulmonary atresia. JAMA . (1945) 
+128(3):189–202.
+4. Van Doorn C. The unnatural history of tetralogy of Fallot: surgical repair is not as 
+deﬁnitive as previously thought. Heart. (2002) 88(5):447–8. 
+doi: 10.1136/heart.88.5. 
+447
+5. Potts WJ, Smith S, Gibson S. Anastomosis of the aorta to a pulmonary artery: 
+certain types in congenital heart disease. JAMA . (1946) 132(11):627–31. 
+doi: 10. 
+1001/jama.1946.02870460017005
+6. Klinner W, Pasini M, Schaudig A. Anastomosis between systemic and pulmonary 
+arteries using plastic prostheses in cyanotic heart disease. Thorac Surg. (1962) 
+10:68–75. 
+doi: 10.1055/s-0028-1096482
+7. Daniel FJ, Clarke CP, Richardson JP, Westlake GW, Jones PG. An evaluation of the 
+Potts aortopulmonary shunt for palliation of cyanotic heart disease. Thorax. (1976) 
+31(4):394–7. 
+doi: 10.1136/thx.31.4.394
+8. Waterston DJ. Anastomosis of the ascending aorta to the right pulmonary artery: a 
+new method of palliation in fallot’s tetralogy. J Thorac Cardiovasc Surg. (1962) 
+44:478–86.
+9. Dorobantu DM, Pandey R, Sharabiani MT, Mahani AS, Angelini GD, Martin RP, 
+et al. Indications and outcomes of systemic-to-pulmonary shunts: results from a 
+national database. Eur J Cardiothorac Surg. (2016) 49(6):1553–63. 
+doi: 10.1093/ 
+ejcts/ezv435
+10. Erek E, Yalçınbaş YK, Sarıosmanoğlu N, Özkan M, Yıldız O, Şenkaya I, et al. First 
+harvest of a multicenter pediatric and congenital cardiac surgery database in Turkey: 
+a novel application of real-time online reporting. World J Pediatr Congenit Heart 
+Surg. (2021) 12(3):377–86. 
+doi: 10.1177/2150135121995474
+11. Jacobs ML, Jacobs JP, Hill KD, O’Brien SM, Pasquali SK, Vener D, et al. The 
+society of thoracic surgeons congenital heart surgery database: 2019 update on 
+research. Ann Thorac Surg. (2019) 108(3):671–9. 
+doi: 10.1016/j.athoracsur.2019.07. 
+002
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 08 frontiersin.org
+[[p9]]
+12. López-Terrazas JH, Colín Ortiz JL, López Corella E. Niño con cardiopatía 
+congénita controlada y muerte inesperada. Acta Pediatr Méx. (2016) 37(6):333–40. 
+doi: 10.18233/APM37No6pp333-340
+13. Kirklin JK, Schaff HV, Blackstone EH, Tchervenkov CI, Pagani FD. Kirklin/ 
+Barratt-Boyes Cardiac Surgery. 5th ed Philadelphia: Elsevier (2025).
+14. Kawel N, Valsangiacomo-Buechel E, Hoop R, Kellenberger CJ. Preoperative 
+assessment of pulmonary artery morphology and pulmonary circulation in 
+neonates with pulmonary atresia: value of MR angiography in routine clinical 
+practice. J Cardiovasc Magn Reson. (2010) 12(1):52. 
+doi: 10.1186/1532-429X-12-52
+15. Gan HL, Zhang JQ, Zhou QW, Feng L, Chen F, Yang Y. Patients with congenital 
+systemic-to-pulmonary shunts and elevated pulmonary vascular resistance: what 
+predicts postoperative survival?. PLoS One . (2014) 9(1):e83976. 
+doi: 10.1371/ 
+journal.pone.0083976
+16. Yang XY, Jing XY, Chen Z, Li L, Fan XM, Su JW. A summary of the second 
+systemic pulmonary shunt for congenital heart disease with pulmonary hypoxemia. 
+J Cardiothorac Surg. (2020) 15(1):97. 
+doi: 10.1186/s13019-020-01132-z
+17. Kiran U, Aggarwal S, Choudhary A, Uma B, Kapoor PM. The blalock and taussig 
+shunt revisited. Ann Card Anaesth. (2017) 20(3):323–30. doi: 10.4103/aca.ACA_80_17
+18. Soo KW, Brink J, d’Udekem Y, Butt W, Namachivayam SP. Major adverse events 
+after excessive pulmonary blood /f_low are associated with worse outcomes than those 
+after systemic-to-pulmonary artery shunt obstruction. Pediatr Crit Care Med. (2018) 
+19(9):854–60. 
+doi: 10.1097/PCC.0000000000001659
+19. Raimondi Cominesi D, Forcione M, Pozzi M, Giani M, Foti G, Rezoagli E, et al. 
+Pulmonary shunt in critical care: a practical approach with clinical scenarios. J Anesth 
+Analg Crit Care. (2024) 4(1):18. 
+doi: 10.1186/s44158-024-00147-5
+20. Paunikar S, Chakole V. Pulmonary shunt in intensive care: a comprehensive 
+review of pathophysiology, diagnosis, and management strategies. Cureus. (2024) 
+16(9):e68505. 
+doi: 10.7759/cureus.68505
+21. López-Delgado JC, Esteve F, Javierre C, Torrado H, Rodríguez-Castro D, Carrió 
+ML, et al. Serial arterial lactate levels as predictors of hospital and long-term mortality 
+in patients after cardiac surgery. J Cardiothorac Vasc Anesth. (2015) 29(6):1441–53. 
+doi: 10.1053/j.jvca.2015.04.024
+22. Kiskaddon AL, Goldenberg NA, Betensky M, Branstetter JW, Ashour D, Williams 
+P, et al. Antithrombotic strategies and outcomes in neonates and infants with cardiac 
+shunts: a systematic review and meta-analysis. Res Pract Thromb Haemost. (2025) 
+9(6):103161. 
+doi: 10.1016/j.rpth.2025.103161
+23. Jacobstein MD, Fletcher BD, Nelson AD, Clampitt M, Alﬁdi RJ, Riemenschneider 
+TA. Magnetic resonance imaging: evaluation of systemic-to-pulmonary artery 
+palliative shunts. Circulation. (1984) 70(4):650–6. 
+doi: 10.1161/01.CIR.70.4.650
+24. Wang ZJ, Reddy GP, Gotway MB, Yeh BM, Higgins CB. Cardiovascular shunts: 
+mR imaging evaluation. Radiographics. (2003) 23:S181–94. 
+doi: 10.1148/rg. 
+23si035503
+25. Pushparajah K. Imágenes no invasivas en la evaluación de derivaciones cardíacas 
+para el cierre intervencionista. Front Cardiovasc Med. (2021) 8:651726. 
+doi: 10.3389/ 
+fcvm.2021.651726
+26. Schrot J, Pietila T, Sahu A. Estado del arte: impresión 3D para crear modelos de 
+cardiopatías congénitas especíﬁcos para cada paciente. J Cardiovasc Magn Reson. 
+(2014) 16(Suppl 1):W19. 
+doi: 10.1186/1532-429X-16-S1-W19
+27. Vitanova K, Leopold C, Pabst von Ohain J, Wolf C, Beran E, Lange R, et al. Risk 
+factors for failure of systemic-to-pulmonary artery shunts in biventricular circulation. 
+Pediatr Cardiol. (2018) 39(7):1323–9. 
+doi: 10.1007/s00246-018-1898-4
+28. Daffa Ikhwani A, Rayhan A, Wardoyo S. Blockage and mortality of the modiﬁed 
+blalock-taussig-thomas shunt: a systematic review and meta-analysis. Turk Gogus 
+Kalp Damar Cerrahisi Derg. (2025) 33(3):329–40. 
+doi: 10.5606/tgkdc.dergisi.2025. 
+26521
+29. Norouzi S, Heidari Bateni G, Hall M, Eghtesady P. Early aspirin use is critical to 
+improving outcomes after systemic-to-pulmonary artery shunt. Circ Cardiovasc Qual 
+Outcomes. (2013) 6(Suppl 1):A16. 
+doi: 10.1161/circoutcomes.6.suppl_1.A16
+30. Branstetter JW, Woods G, Zaki H, Coolidge N, Zinyandu T, Shashidharan S, et al. 
+Novel aspirin dosing and monitoring in infants with systemic-to-pulmonary artery 
+shunt physiology: the SOPRANO study. J Pediatr Pharmacol Ther. (2023) 
+28(7):610–7. 
+doi: 10.5863/1551-6776-28.7.610
+31. Emani S, Zurakowski D, Mulone M, DiNardo JA, Trenor CC, Emani SM. Platelet 
+function testing to guide aspirin dosing in pediatric patients after cardiac surgery. 
+J Thorac Cardiovasc Surg. (2017) 154(5):1723–30. 
+doi: 10.1016/j.jtcvs.2017.06.031
+32. Li JS, Yow E, Berezny KY, Rhodes JF, Bokesch PM, Charpie JR, et al. Clinical 
+outcomes of palliative surgery including systemic-to-pulmonary artery shunt in 
+infants with cyanotic congenital heart disease: does aspirin make a difference?. 
+Circulation. (2007) 116(3):293–7. 
+doi: 10.1161/CIRCULATIONAHA.106.652172
+33. Li D, Zhou X, Li M. Arterial duct stent versus surgical shunt for patients with 
+duct-dependent pulmonary circulation: a meta-analysis. BMC Cardiovasc Disord. 
+(2021) 21(1):9. 
+doi: 10.1186/s12872-020-01817-2
+34. Mohanty S, Vaidyanathan B. Antiplatelet agents in pediatric cardiac practice. Ann 
+Pediatr Cardiol. (2013) 6(1):59–64. doi: 10.4103/0974-2069.107236
+35. Regan IE, Cox D, Kelleher ST, McMahon CJ. Effects of aspirin dosing in children 
+with congenital and acquired heart disease: results from the pediatric aspirin efﬁcacy 
+study using diagnostic and monitoring tools (PAED-M). Pediatr Cardiol. (2025) 
+46(4):862–73. 
+doi: 10.1007/s00246-024-03509-6
+36. Benjamin EJ, Ghanayem NS, Hehir DA, Kane JM, Kreutzer J, Lambert LM, et al. 
+Clopidogrel in infants with systemic-to-pulmonary artery shunts. N Engl J Med . 
+(2013) 368(22):2102–11. 
+doi: 10.1056/NEJMoa1114588
+37. Wessel DL, Berger F, Li JS, Dähnert I, Rakhit A, Fontecave S, et al. CLARINET 
+Investigators. Clopidogrel in infants with systemic-to-pulmonary artery shunts. 
+N Engl J Med. (2013) 368(25):2377–84. 
+doi: 10.1056/NEJMoa1114588
+38. Alwi M. Stenting the ductus arteriosus: case selection, technique and possible 
+complications. Ann Pediatr Cardiol. (2008) 1(1):38–45. 
+doi: 10.4103/0974-2069.41054
+39. Mallula K, Vaughn G, El-Said H, Lamberti JJ, Moore JW. Comparison of ductal 
+stenting versus surgical shunts for palliation of patients with pulmonary atresia and 
+intact ventricular septum. Catheter Cardiovasc Interv. (2015) 85(7):1196–202. 
+doi: 10. 
+1002/ccd.25870
+40. Grozdanov D, Osawa T, Borgmann K, Schaeffer T, Staehler H, Di Padua C, et al. 
+Comparison of ductus stent versus surgical systemic-to-pulmonary shunt as initial 
+palliation in patients with univentricular heart. Eur J Cardiothorac Surg. (2024) 
+65(3):ezae011. 
+doi: 10.1093/ejcts/ezae011
+41. Bentham JR, Zava NK, Harrison WJ, Shauq A, Kalantre A, Derrick G, et al. Duct 
+stenting versus modiﬁed blalock-taussig shunt in neonates with duct-dependent 
+pulmonary blood /f_low: associations with clinical outcomes in a multicenter 
+national study. Circulation. (2018) 137(6):581–8. 
+doi: 10.1161/ 
+CIRCULATIONAHA.117.028972
+42. Valencia E, Staffa SJ, Kuntz MT, Zaleski KL, Kaza AK, Maschietto N, et al. 
+Transcatheter ductal stents versus surgical systemic-to-pulmonary artery shunts in 
+neonates with congenital heart disease with ductal-dependent pulmonary blood 
+/f_low: trends and associated outcomes from the pediatric health information system 
+database. J Am Heart Assoc. (2023) 12(17):e030456. 
+doi: 10.1161/JAHA.123.030528
+43. Shaath GA, Jijeh AMZ, Fararjeh M, Alhabshan F, Almutairi MB, Alomrani A, et al. 
+Stent or shunt: what could be better for children with duct-dependent pulmonary 
+circulation?. Saudi Heart Assoc J. (2021) 33(4):306–12. doi: 10.37616/2212-5043.1274
+44. Haddad RN, Levy M, Szezepanski I, Malekzadeh-Milani S, Bonnet D. Long-term 
+outcomes of transcatheter potts shunt in children with suprasystemic pulmonary 
+arterial hypertension. Front Cardiovasc Med. (2022) 9:1028304. 
+doi: 10.3389/fcvm. 
+2022.1028304
+45. Aggarwal M, Grady RM, Choudhry S, Anwar S, Eghtesady P, Singh GK. Potts 
+shunt improves right ventricular function and coupling with pulmonary circulation 
+in children with suprasystemic pulmonary arterial hypertension. Circ Cardiovasc 
+Imaging. (2018) 11(12):e007964. 
+doi: 10.1161/CIRCIMAGING.118.007964
+46. Mendel B, Christianto C, Angellia P, Holiyono I, Prakoso R, Siagian SN. Reversed 
+potts shunt outcome in suprasystemic pulmonary arterial hypertension: a systematic 
+review and meta-analysis. Curr Cardiol Rev. (2022) 18(6):e090522204486. 
+doi: 10. 
+2174/1573403X18666220509203335
+47. Fenchel G, Steil E, Seboldt H, Quintenz R, Apitz J, Hoffmeister HE. Early and late 
+results of the modiﬁed Waterston shunt with PTFE grafts for palliation of complex 
+congenital cyanotic heart disease in neonates. Thorac Cardiovasc Surg. (1991) 
+39(5):268–72. 
+doi: 10.1055/s-2007-1019984
+48. Amato JJ, Marbey ML, Bush C, Galdieri RJ, Cotroneo JV, Bushong J. Systemic- 
+pulmonary polytetra/f_luoroethylene shunts in palliative operations for congenital 
+heart disease: revival of the central shunt. J Thorac Cardiovasc Surg. (1988) 
+95(1):62–9. 
+doi: 10.1016/S0022-5223(19)35387-5
+49. McKay R. Sequel of the internal mammary artery as a systemic-to-pulmonary 
+artery shunt. Ann Thorac Surg. (1990) 49(2):341. 
+doi: 10.1016/0003-4975(90)90170-B
+50. Aziz KU, Olley PM, Rowe RD, Trusler GA, Mustard WT. Survival after systemic 
+to pulmonary arterial shunts in infants less than 30 days old with obstructive lesions 
+of the right heart chambers. Am J Cardiol. (1975) 36(4):479–83. 
+doi: 10.1016/0002- 
+9149(75)90897-8
+51. Sasikumar N, Hermuzi A, Fan CPS, Lee KJ, Chaturvedi R, Hickey E, et al. 
+Outcomes of blalock-taussig shunts in the current era: a single-center experience. 
+Congenit Heart Dis. (2017) 12(6):808–14. 
+doi: 10.1111/chd.12516
+52. Davis HO, Johansen M, Rodefeld MD, Turrentine MW, Brown JW, Herrmann JL. 
+Outcomes and predictors of failure of systemic-to-pulmonary artery shunts: 
+experience of a single institution over 14 years. World J Pediatr Congenit Heart 
+Surg. (2025) 16:801–9. 
+doi: 10.1177/21501351251335646
+53. Kadeetham K, Samankatiwat P. Outcomes and risk factors for morbidity and mortality 
+of systemic-to-pulmonary artery shunts in a tertiary hospital in Thailand. World J Pediatr 
+Congenit Heart Surg. (2025) 16(1):73–82. doi: 10.1177/21501351241278686
+54. Myers JW, Ghanayem NS, Cao Y, Simpson P, Trapp K, Mitchell ME, et al. 
+Outcomes of systemic-to-pulmonary artery shunts in patients weighing less than 
+3 kg: analysis of shunt type, size, and surgical approach. J Thorac Cardiovasc Surg. 
+(2014) 147(2):672–7. 
+doi: 10.1016/j.jtcvs.2013.09.055
+55. Zhang H, Fan X, Su J, Liu Y, Zhao L, Li G. Efﬁcacy of systemic-to-pulmonary 
+artery shunts in older children with hypoplastic pulmonary arteries. J Card Surg. 
+(2019) 34(6):463–7. 
+doi: 10.1111/jocs.14063
+56. Linder AN, Hsia J, Krishnan SV, Bacha EA, Crook S, Rosenzweig EB, et al. 
+Management of systemic-to-pulmonary artery shunts and elevated pulmonary vascular 
+resistance. ERJ Open Res. (2023) 9(6):00271-2023. doi: 10.1183/23120541.00271-2023
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 09 frontiersin.org
+[[p10]]
+57. Grady RM, Canter MW, Wan F, Shmalts AA, Coleman RD, Beghetti M, et al. 
+Pulmonary-to-systemic artery shunt for treating children with severe pulmonary 
+hypertension. J Am Coll Cardiol. (2021) 78(5):468–77. 
+doi: 10.1016/j.jacc.2021.05.039
+58. Sengsim J, Vijarnsorn C, Chanthong P, Chungsomprasong P, Kanjanauthai S, 
+Thammasate P, et al. Survival comparison in adults with congenital systemic-to- 
+pulmonary shunt and borderline elevated pulmonary vascular resistance versus 
+Eisenmenger syndrome. Sci Rep. (2024) 14(1):29891. doi: 10.1038/s41598-024-81834-9
+59. Do N, Hill KD, Wallace AS, Vricella L, Cameron D, Quintessenza J, et al. Shunt 
+failure: risk factors and outcomes—an analysis of the society of thoracic surgeons 
+congenital heart surgery database. Ann Thorac Surg. (2018) 105(3):857–64. 
+doi: 10. 
+1016/j.athoracsur.2017.06.028
+60. Schranz D. Duct stenting in duct-dependent systemic blood /f_low, past, 
+present, and future. Pediatr Cardiol. (2025) 46(3):515–24. 
+doi: 10.1007/s00246-024- 
+03492-y
+61. Puente BN, Mastropietro CW, Flores S, Cheung EW, Amula V, Radman M, et al. 
+Collaborative research from the pediatric cardiac intensive care society (CoRe- 
+PCICS) investigators. Comparison of ductal stent versus surgical shunt as initial 
+intervention for neonates with pulmonary atresia with intact ventricular septum. 
+Pediatr Cardiol. (2024). 
+doi: 10.1007/s00246-024-03529-2
+62. Longaker MT, Merrick S, Crombleholme TM, Langer JC, Verrier ED, Turley K. 
+Systemic-to-pulmonary artery shunt using the internal mammary artery. Ann Thorac 
+Surg. (1989) 47(3):464–5. 
+doi: 10.1016/0003-4975(89)90398-6
+Ruiz Pérez                                                                                                                                                                10.3389/fped.2026.1767112
+Frontiers in Pediatrics 10 frontiersin.org

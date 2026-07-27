@@ -1,0 +1,132 @@
+
+[[p1]]
+  
+ 
+1 
+ 
+英語 日本語 
+Ventilation Rates in Pediatric CPR With an Advanced Airway 
+(PLS 4120-02) A Systematic Review 
+高度な気道確保を実施した小児の CPR における換気回数に関する
+SysRev 
+ 
+The PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+Population: Infants and children (excluding newborn infants) 
+with OHCA or IHCA and an advanced airway 
+Intervention: Use of any specific ventilatory rate 
+Comparators: Use of a ventilatory rate of 8 to 10 breaths per 
+minute 
+PICOST  
+P: 高度な気道確保を実施した、OHCA または IHCA の乳児と小児
+（新生児は除く）の患者 
+I: 特定の換気回数  
+C: 1 分間に 8 から 10 回の換気回数 
+O: 心停止に対する小児の重要なアウトカムセットに準じた神経学
+的予後良好な生存 
+[[p2]]
+  
+ 
+2 
+ 
+Outcomes: Critical: Survival with favorable neurological 
+outcome as per Pediatric Core Outcome Set for Cardiac 
+Arrest  
+Study Designs: RCTs and nonrandomized studies (non-
+RCTs, interrupted time series, controlled before-and after 
+studies, cohort studies) were eligible for inclusion. 
+Unpublished studies (eg, conference abstracts, trial 
+protocols) were excluded. All relevant publications in any 
+language were included if there was an English abstract.  
+Timeframe: Literature search includes all years up to June 1, 
+2023. 
+S：RCT および非ランダム化試験（非ランダム化比較試験、分割時
+系列解析、前後比較研究、コホート研究）を対象とした。 
+未発表の研究（会議録、プロトコール論文）は除外した。英語要約
+があれば、言語を問わず関連するすべての文献を対象とした。 
+T: 文献検索は 2023 年 6 月 1 日までの全ての年度を対象とした 
+[[p3]]
+  
+ 
+3 
+ 
+ 
+Treatment recommendations 
+There is currently no supporting evidence to make a 
+treatment recommendation on a specific ventilatory rate in 
+pediatric cardiopulmonary resuscitation with an advanced 
+airway. 
+For cardiac arrest that occurs with an advanced airway in 
+place, the use of ventilatory rates >10 breaths per minute 
+may be reasonable. The PLS Task Force suggests using 
+ventilatory rates close to age-appropriate respiratory rates 
+with avoidance of hypoventilation and 
+推奨と提案 
+現在のところ、高度な気道確保を実施した小児の心肺蘇生における
+特定の換気回数についての推奨を支持するエビデンスはない。高度
+な気道確保が実施された心肺停止の患者では、毎分 10 回より多い
+換気回数が妥当だろう。PLS タスクフォースは低換気や過換気を避
+け、年齢相応の換気回数に近い回数を使用することを提案する（優
+れた医療慣行に関する記述） 
+[[p4]]
+  
+ 
+4 
+ 
+hyperventilation (good practice statement). 
+ 
+１． JRC の見解と解説（400-800 文字） 
+（解説） 
+• JRC2020 では心停止の原因を問わず、蘇生中の過換気は避けるべきとしてきた従来の推奨を維持した。 
+• ILCOR 2020 では原因が窒息でも不整脈の場合でも、高度な気道確保後の過換気は避けるとされている。また、過換気の有害事象を避
+けながら、CPR 中の換気血流比を維持するための十分な換気を行うためには分時換気量をベースラインもしくは年齢相当以下に抑え
+ることが妥当であるとしたが、換気量や換気回数に関するデータは不十分であった。 
+• 新生児を除く小児の心停止患者を対象とし、特定の換気回数と 1 分間に 8∼10 回の換気回数とで比較した 2023 年 6 月までに出版さ
+れた論文の SysRev を行った。 
+[[p5]]
+  
+ 
+5 
+ 
+• 特定の換気回数と 1 分間に 8∼10 回の換気回数とで比較した研究は確認されなかった。 
+• 「CPR 中の換気回数を 10 回とする」という従来の推奨は成人のデータから得られたものであるが、成人でも転帰の改善にはつなが
+っておらず、乳幼児や小児では低換気を引き起こすリスクもある。小児の CPR 中において 10 回の換気回数を支持する研究は確認さ
+れなかった。 
+• 小児の CPR 中における換気に関するエビデンスは不足しており、高度な気道確保を実施した小児患者における最適な換気回数、最適
+な分時換気量とピーク圧や PEEP、カプノグラフィや血液ガス分析などの測定項目が CPR 中の酸素化と換気に及ぼす影響、低炭酸ガ
+ス血症と高炭酸ガス血症が転帰及ぼす影響、心停止の病態に応じた適切な換気回数などの研究が必要である。 
+• JRC は下記を検討した： 
+ 特定の換気回数に関するエビデンスは不十分であり、高度な気道確保を実施された CPR 中の小児患者において転機改善につなが
+る特定の換気回数の検討 
+ 本邦の小児蘇生疫学では、北米などのデータと違い、高度なモニタリングがされていない環境での心停止の割合が多いと推察さ
+れ、生理学的モニタリングがないままでの CPR 中のより多い換気回数が及ぼす影響 
+[[p6]]
+  
+ 
+6 
+ 
+ 換気回数の他に分時換気量やピーク圧など、CPR 中の酸素化や換気に影響を及ぼす因子の検討 
+ 蘇生中の用手換気の回数は多くなりやすい傾向があり、過換気や低換気を防ぐための方策 
+ 成人の蘇生において従来から推奨されている 10 回の換気回数の小児における妥当性 
+ 
+２．わが国への適用 
+ 特定の換気回数に関するエビデンスは不十分であるが、低換気や過換気は避けるべきとする ILCOR の提案を支持する。また、成人で
+の蘇生においては従来から推奨されている 10 回の換気回数が推奨されているが、小児の心停止では 10 回を超える、年齢相応の換気回
+数に近い回数を使用するという ILCOR の提案についても支持する予定である（優れた医療慣行に関する記述）。エビデンスが不十分な
+ため、明確な換気回数を推奨することはできないが、モニタリングなどを利用しながら過換気や低換気を避けることに留意する必要があ
+る。 
+ 
+３．担当メンバー 
+[[p7]]
+  
+ 
+7 
+ 
+作業部会員（五十音順）渡邉伊知郎 水野智子 鉄原健一 賀来典之 倉光真登香 馬場恵子 新田雅彦 
+共同座長（五十音順）野澤正寛 
+担当編集委員（五十音順）池山貴也、黒澤寛史 
+顧問 清水直樹 
+編集委員長 坂本哲也 
+ 
+ 
+ 

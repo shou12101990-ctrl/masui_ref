@@ -1,0 +1,1301 @@
+
+[[p1]]
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Review Article
+Treatment of advanced heart failure in adults with congenital heart 
+disease: a narrative review and clinical cases
+Christoph Sinning
+1,2#
+, Michael Huntgeburth
+3#
+, Norihide Fukushima
+4
+, Rose Tompkins
+5
+, June Huh
+6
+, 
+Shigeru Tataneo
+7
+, Gerhard-Paul Diller
+8
+, Yih-Sharng Chen
+9
+, Elvin Zengin
+1
+, Christina Magnussen
+1,2
+, 
+Ann-Sophie Kaemmerer
+10
+, Yang Hyun Cho
+11
+, Stefan Blankenberg
+1,2
+, Carsten Rickers
+12
+, Frank Harig
+10
+, 
+Michael Weyand
+10
+, Michael Hübler
+13
+, Yskert von Kodolitsch
+1
+, Öztekin Oto
+14
+, Andreas Zuckermann
+15
+, 
+Paulus Kirchhof
+1,2,16
+, Helmut Baumgartner
+8
+, Hermann Reichenspurner
+17
+, Jon Kobashigawa
+18
+,  
+Harald Kaemmerer
+3*, Koichiro Niwa
+19*
+1
+Department of Cardiology, University Heart and Vascular Centre Hamburg, Hamburg, Germany; 
+2
+German Centre of Cardiovascular Research 
+(DZHK), Partner Site Hamburg/Kiel/Lübeck, Germany; 
+3
+Department of Congenital Heart Disease and Pediatric Cardiology, German Heart Center 
+Munich, T echnical University Munich, Munich, Germany; 
+4
+Department of T ransplant Medicine, National Cerebral and Cardiovascular Center, 
+Osaka University, Osaka, Japan; 
+5
+The Guerin Family Congenital Heart Program, Cedars-Sinai Heart Institute, Cedars-Sinai Medical Center, Los 
+Angeles, California, USA; 
+6
+Department of Pediatrics, Heart Vascular Stroke Institute, Samsung Medical Center, Sungkyunkwan University School 
+of Medicine, Seoul, South Korea; 
+7
+Section of Adult Congenital Heart Disease, Chiba Cerebral and Cardiovascular Center, Ichihara, Chiba, Japan; 
+8
+Division of Adult Congenital and Valvular Heart Disease, Department of Cardiovascular Medicine, University Hospital Muenster, Germany; 
+9
+Department of Cardiovascular Surgery, National T aiwan University Hospital, T aipei, T aiwan; 
+10
+Department of Cardiac Surgery, Friedrich-Alexander 
+University, Erlangen-Nurnberg, Germany; 
+11
+Department of Thoracic and Cardiovascular Surgery, Sungkyunkwan University, Seoul, South Korea; 
+12
+Adult Congenital Heart Disease Section, University Heart & Vascular Center Hamburg, Hamburg, Germany; 
+13
+Department of Pediatric Cardiac 
+Surgery, University Heart & Vascular Center Hamburg, Hamburg, Germany; 
+14
+Dokuz Eylul University Hospital air Esref Cad, İzmir, T urkey; 
+15
+Department of Cardiac Surgery, Medical University of Vienna, Vienna, Austria; 
+16
+h??b?r??rvag??tga?mgr?
+T rusts, Birmingham, UK; 
+17
+Department of Cardiovascular Surgery, University Heart and Vascular Center Hamburg, Hamburg, Germany; 
+18
+Cedars-
+Sinai Smidt Heart Institute, Los Angeles, California, USA; 
+19
+Department of Cardiology, Cardiovascular Center, St. Luke’s International Hospital, 
+T okyo, Japan
+Contributions:  (I) Conception and design: C Sinning, M Huntgeburth, H Kaemmerer, K Niwa; (II) Administrative support: S Blankenberg, P 
+Kirchhof, Y von Kodolitsch, M Hübler, N Fukushima, J Kobashigawa, H Baumgartner, GP Diller; (III) Provision of study materials or patients: 
+None; (IV) Collection and assembly of data: C Sinning, M Huntgeburth, H Kaemmerer, K Niwa, H Reichenspurner, AS Kaemmerer, F Harig, M 
+Weyand, YH Cho, J Huh; (V) Data analysis and interpretation: C Sinning, M Huntgeburth, H Kaemmerer, K Niwa; (VI) Manuscript writing: All 
+authors; (VII) Final approval of manuscript: All authors.
+#
+These authors contributed equally to this work as co-first authors. 
+*These authors contributed equally as co-senior authors.
+Correspondence to:  Christoph Sinning, MD. Department of Cardiology, University Heart and Vascular Center Hamburg, Martinistraße 52, 20251 
+Hamburg, Germany. Email: c.sinning@uke.de ; Michael Huntgeburth, MD. Department of Congenital Heart Disease and Pediatric Cardiology, 
+German Heart Center Munich, T echnical University Munich, Lazarettstraße 36, 80636 Munich, Germany. Email: huntgeburth@dhm.mhn.de.
+Background and Objective: The number of adults with congenital heart disease (ACHD) is increasing 
+worldwide. Almost all congenital cardiac lesions can be successfully treated due to the progress in neonatal 
+surgery and pediatric cardiology with a high likelihood of surviving until adulthood. However, ACHD 
+frequently develop sequelae related to the initial cardiac anomaly. Heart failure (HF) is one of the most 
+common complications associated with a high morbidity and mortality. 
+Methods: The authors did search the PubMed database regarding relevant content covering publications 
+up to March 2022. Relevant manuscripts were classified according to the impact factor of the journal, being a 
+guideline manuscript, a position paper by a society or a comprehensive review of the current literature.
+Key Content and Findings:  Optimal HF treatment remains an unmet need in ACHD. In particular, 
+advanced HF therapy with cardiac resynchronization therapy, ventricular assist devices or organ 
+743
+[[p2]]
+Sinning et al. Advanced HF treatment in ACHD patients728
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Introduction
+Despite all therapeutic advances in the treatment of adults 
+with congenital heart disease (ACHD), they cannot be 
+completely cured and most often sequelae remain ( 1,2). 
+In particular in complex or hemodynamically relevant 
+ACHD, sequelae often persist or develop over time even 
+after primarily successful cardiac surgery or interventions. 
+In particular, heart failure (HF), cardiac arrhythmias, 
+pulmonary vascular disease, aortopathies, and infectious 
+endocarditis adversely affect the morbidity and mortality of 
+ACHD in the long-term (1-4). In addition, there are often 
+acquired cardiac and noncardiac comorbidities developing 
+in adulthood such as coronary artery disease, acquired 
+valvular heart disease, arterial hypertension, metabolic 
+disorders (diabetes mellitus, hyperlipidemia, metabolic 
+syndrome), or other organ diseases, especially affecting the 
+liver, kidneys, and the brain. Mental illness, post-traumatic 
+stress disorder, depression, and anxiety disorders can further 
+complicate the clinical course (5-7).
+HF is a common disease being present and is often the 
+cause of morbidity and mortality (1,2). The review focuses on 
+the treatment of advanced HF with the options available and, 
+especially, on ventricular assist device (VAD) therapy and 
+heart transplantation in the context of increasing numbers 
+of ACHD. In addition, important aspects of HF treatment 
+for non-ACHD patients but also ACHD are discussed. 
+We present the following article in accordance with the 
+Narrative Review reporting checklist (available at https://cdt.
+amegroups.com/article/view/10.21037/cdt-22-230/rc).
+Methods—literature search
+A literature search in PubMed was executed covering 
+publications up to March 2022. The following combinations 
+of keywords were used: HF and ACHD, heart transplantation 
+in ACHD, guidelines HF and ACHD, VAD in ACHD, 
+comorbidities in ACHD, device therapy in ACHD. These 
+search terms had to be identified anywhere in the text in 
+the articles. Further, the authors selected literature that 
+represents the current guidelines or multicenter trials, 
+however most of the literature derive from observational 
+studies and guidelines for patients with ACHD have the 
+evidence level of expert opinion. 
+Both qualitative and quantitative studies were considered 
+to elucidate the use of the discussed aspects regarding 
+ACHD, advanced HF , VAD therapy or device therapy in 
+general in ACHD. The search was restricted to original 
+research, humans, and papers published in English at any 
+date. All abstracts were reviewed to assess whether the 
+article met the inclusion criteria. After this selection process, 
+a manual search of the reference lists of all eligible articles 
+was performed. T wo authors (i.e., MH and CS with support 
+of HK and KN) assessed independently the importance of 
+the studies prior to their inclusion in the review. A relevant 
+manuscript was defined based on the impact factor of the 
+journal, being a guideline manuscript, a society position 
+paper, or a comprehensive review of the current literature.
+s??????s??PM
+Epidemiology and clinical aspects of HF in ACHD
+HF has a critical impact on ACHD morbidity and an 
+approximate mortality rate of 25% up to 45% ( 1,3-6). The 
+reported hospitalization rate for symptomatic HF is 1.2 
+per 1,000 patient-years ( 7). Thus, ACHD with specific 
+conditions are at particular risk of developing HF . Among 
+transplantation is still very different and more specific in ACHD compared to non-ACHD. This review aims 
+to compile international views and evidence from the literatures on the treatment of advanced HF in ACHD. 
+Current challenges, but also the success of different treatment strategies in ACHD are illustrated by clinical 
+cases.
+Conclusions: The main finding of the review is that data is still scarce regarding ACHD with advanced 
+HF and international efforts to collect data regarding these patients needed to improve the current standard 
+of care.
+Keywords: Adults with congenital heart disease (ACHD); heart transplantation; ventricular assist device; outcome; 
+heart failure (HF)
+Submitted May 07, 2022. Accepted for publication Aug 16, 2022.
+doi: 10.21037/cdt-22-230
+View this article at: https://dx.doi.org/10.21037/cdt-22-230
+[[p3]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 729
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+those patients are frequently ACHD with univentricular 
+hearts (in Fontan-Circulation), with a morphologic systemic 
+right ventricle (after atrial redirection for transposition of 
+the great arteries (d-TGA), with congenitally corrected 
+transposition of the great arteries (ccTGA), with severe 
+pulmonary hypertension due to unoperated cardiac shunt 
+lesions (Eisenmenger syndrome), or with severe valvular 
+heart disease, e.g., after Fallot repair, AV (atrioventricular) 
+septal defects post repair, in Ebstein’s anomaly, or in Shone 
+complex (8,9).
+Data on the incidence and prevalence of HF in ACHD 
+are unreliable because different definitions exist, such as 
+impaired exercise tolerance, neurohumoral activation, 
+reduced ejection fraction, or the presence of classic clinical 
+signs of right or left ventricular decompensation.
+The pathophysiological causes of HF in ACHD are 
+multifactorial. They involve chronic pressure or volume 
+loading, ventricular fibrosis, intracardiac scarring and patch 
+material, valvular abnormalities, arrhythmias, the presence 
+of cyanosis, or pulmonary hypertension in pulmonary 
+vascular disease (1,2,10). 
+Recognition of HF in ACHD can be challenging 
+because its presentation is often different from acquired 
+heart disease ( 11). Exercise capacity is often impaired in 
+ACHD and is often unrecognized by affected individuals 
+due to the fact that the process of deterioration often 
+begins in early adolescence and often shows only slow  
+progression ( 12). Furthermore, the use of established 
+parameters (e.g., end-diastolic and/or end-systolic diameter 
+or volume, ejection fraction) is inappropriate because they 
+depend on the type of cardiac defect and often differ from 
+normal values in adult cardiology. 
+Current management of HF in ACHD
+Current HF treatment is focusing on medical treatment 
+followed by evaluation for additional treatment options, 
+for example, such as cardiac resynchronization therapy 
+(CRT), data regarding treatment medications, especially 
+HF medication is currently lacking ( 13,14). Sufficient data 
+from randomized controlled trials in ACHD are currently 
+lacking for many therapeutic interventions because of 
+the heterogeneous patient population with underlying 
+congenital heart defects, low number of patients in these 
+study, and that being an ACHD is frequently an exclusion 
+criterion in HF trials (14,15).
+The treatment of HF in ACHD requires special 
+expertise (16,17). Before symptom-oriented HF treatment is 
+initiated, surgically or interventional treatable abnormalities 
+of hemodynamics must be excluded. Pharmacological 
+therapy to improve clinical symptoms, limited exercise 
+tolerance, quality of life, and long-term prognosis is done 
+with consideration of heart defect-specific features (15). 
+If systolic dysfunction of the morphologic left ventricle 
+is present, usually medication with renin angiotensin 
+aldosterone blockers should be established (ACE inhibitors, 
+sartans), together with the class of mineralocorticoid 
+receptor antagonists. Diuretics are most often used in acute 
+decompensation or chronic volume overload ( 14). The cut-
+off regarding the decision to begin medical treatment is 
+Table 1 Summary of the literature search strategy
+Items Specification
+Date of search The search for literature was conducted during March 2022 and included as 
+well manuscript until 1
+st
+ of April 2022
+Databases and other sources searched PubMed database
+Search terms used Heart failure and ACHD, heart transplantation in ACHD, guidelines heart 
+failure and ACHD, ventricular assist device in ACHD, comorbidities in ACHD, 
+device therapy in ACHD patients
+Timeframe All manuscripts until April 2022
+Inclusion and exclusion criteria All study types were included with focus on journals with an impact factor 
+and all manuscripts had to be published in English language
+Selection process The literature search was done by Christoph Sinning, Michael Huntgeburth, 
+Harald Kaemmerer and Koichiro Niwa. All authors had to consent to the 
+literature included into the review
+ACHD, adults with congenital heart disease.
+[[p4]]
+Sinning et al. Advanced HF treatment in ACHD patients730
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+recommended with 40% ejection fraction ( 14). Regarding 
+newer medication with sacubitril/valsartan and SGL T-2 
+inhibitors there are currently no data, however medication 
+should be considered in ACHD with reduced ejection 
+fraction of the left ventricle (13).
+If the anatomic right ventricle has an impaired ejection 
+fraction below 40% medical treatment is currently 
+recommended if the patient is symptomatic and follows the 
+same medication recommendations as for the left ventricle. 
+Scarce information is present regarding medication of an 
+univentricular heart and in these patients medication should 
+be according to the anatomic morphology of the ventricle 
+present (14).
+Another unique feature relates to the Fontan circulation, in 
+which diastolic and systolic HF , chronotropic incompetence, 
+and an increase in pulmonary vascular resistance may occur 
+during the progression of the disease. While there are no 
+adequately validated data for the use of ACE inhibitors, the 
+use of phosphodiesterase-5 inhibitors or endothelin receptor 
+antagonists (ERA) is now under consideration (18,19).
+Advanced HF and therapeutic interventions
+Patients at risk for HF can progress to a symptomatic state 
+despite all medical treatment options, interventions and 
+device therapy ( 2,13). Also the number of ACHD with 
+advanced HF will increase. 
+The current criteria for advanced HF according to the 
+current European HF guidelines are defined for acquired 
+cardiac disease but also apply for ACHD (T able 2).
+In addition to the criteria of T able 1, advanced HF in 
+ACHD patients is often complicated by extra-cardiac organ 
+dysfunction like congestive liver disease, renal failure, 
+or pulmonary hypertension. These criteria are currently 
+not obligatory to define advanced HF in patients, but can 
+complicate treatment decisions (2,13).
+Since most patients with advanced HF deteriorate in 
+functional status over time, prognostic stratification is 
+important to identify the need of treatment in an expert 
+center, to properly communicate expectations to patients 
+and their families, and to plan treatment and follow-up 
+strategies ( 2,13). In this context, for most patients with 
+advanced HF , the Interagency Registry for Mechanically 
+Assisted Circulatory Support (INTERMACS) classification 
+is of potential to determine the treatment options ( 20). 
+Although most commonly in use for decision-making 
+regarding durable VADs, the classification is as well of 
+use for establishing prognosis in patients following urgent 
+heart transplantation and for risk assessment in ambulatory 
+advanced HF patients ( 2,13) (T able 3). Previous and current 
+reports of INTERMACS show that by collecting data and 
+including centers into the register outcomes of patients with 
+advanced HF are improved and adverse events decreased, 
+although only one publication thus far addresses VAD 
+treatment in ACHD patients (21-23).
+Alternative therapies for refractory HF include CRT , use of 
+Table 2 Definition of advanced heart failure according to the ESC guidelines (13)
+No. Definition
+1 Severe and persistent symptoms of heart failure [NYHA class III (advanced) or IV]
+2 Severe cardiac dysfunction defined by at least one of the following:
+Left ventricular ejection fraction <30%
+Isolated right ventricular failure (for example tetralogy of Fallot, ccTGA, Ebstein’s anomaly, d-TGA with palliation according to 
+Senning or Mustard)
+Non-operable severe valvular defects
+Non-operable severe congenital abnormalities
+High or increasing BNP or NT-proBNP levels and severe diastolic dysfunction or structural abnormalities 
+3 Episodes of pulmonary or systemic congestion requiring high-dose i.v. diuretics or episodes of low output requiring inotropes 
+or arrhythmias causing >1 unplanned visit or hospitalization in the last 12 months
+4 Severe impairment of exercise capacity with inability to exercise or low 6-minute walking distance (<300 m) or pVO 2  
+<12 mL/kg/min or <50% predicted value, due to cardiac disease.
+For diagnosis, the following criteria must be presented despite optimal medical treatment. NYHA, New York Heart Association-Classification; 
+ccTGA, congenitally corrected transposition of the great arteries; BNP , B-type natriuretic peptide; NT-proBNP , N terminal-proBNP .
+[[p5]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 731
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+VADs, heart or heart-lung or multiorgan transplantation (4,24). 
+Arrhythmia management and device therapy in 
+ACHD with HF
+In ACHD the whole spectrum of arrhythmias can be 
+encountered and often several types coexist, including 
+disorders of the sinus node, AV-node, His-Purkinje 
+system or intra-atrial propagation (25,26). Arrhythmias 
+might be a consequence of altered anatomy, including 
+the heart conduction tissue, but may also be a result of 
+residual or postoperative sequelae, such as myocardial 
+fibrosis, postoperative intracardiac scars or worsening of 
+the hemodynamic situation (25,27-31). The prevalence of 
+arrhythmias is increasing with the age of the patients. In 
+several types of ACHD, ventricular arrhythmias are the 
+leading cause of sudden cardiac arrest and thus mortality, 
+with an 100-fold increased risk in comparison to an age-
+matched control population (32,33). However, the incidence 
+for fatal events is low with 0.1% and the highest risk is 
+present in patients with T etralogy of Fallot, univentricular 
+hearts or patients with transposition of the great arteries 
+after Senning or Mustard procedure (25,29,31,34-36).
+The most important ventricular tachyarrhythmias include 
+mono- and polymorphic ventricular tachycardia (VT) and 
+ventricular fibrillation (VF). However, supraventricular 
+tachycardia may be also poorly tolerated in ACHD, 
+especially in complex cases (e.g., after atrial redirection, in 
+Fontan circulation, in cyanotic ACHD, in Eisenmenger 
+syndrome) and may result in cardiac decompensation or 
+even death (37).
+Cardiac arrhythmias are often managed according to 
+general cardiology guidelines, while taking into consideration 
+ACHD-specific issues like anatomy and placement of 
+catheters or devices (25), including pharmacotherapy, 
+ablation procedures, and the implantation of pacemakers or 
+defibrillators (8).
+In the acute setting thus VT or VF are managed 
+according to the respective guidelines for acquired cardiac 
+disease (38). As ACHD have a chronic disease state, and 
+decisions need to be made as to which patient should receive 
+an implantable cardioverter-defibrillator (ICD), as this is 
+the recommended treatment for secondary prevention after 
+sudden cardiac arrest in ACHD (25,26,31,39). However, 
+due to the lack of data, the indications are not yet clearly 
+defined (25,39). In ACHD the medical treatment of choice 
+is amiodarone or procainamide if VT or VF is present 
+(25,26,31). However, treatment in unstable, pulseless VT 
+or VF should be according to the respective resuscitation 
+guidelines (40). 
+Device therapy with pacemakers or implantable 
+defibrillators is becoming more and more relevant, but 
+the indication for ICD implantation may be difficult to 
+establish. Current recommendation is clear with either 
+level I or IIa for ACHD after cardiac arrest with no 
+other potential cause, spontaneous sustained VT after 
+hemodynamic, electrophysiologic evaluation or ejection 
+fraction <35% of the systemic left ventricle or tetralogy of 
+Table 3 Interagency registry for mechanically assisted circulatory support profile descriptions of patients with advanced heart failure
+Profile Time for decision
+1 Critical cardiogenic shock. Patient with hypotension despite inotrope 
+therapy
+Intervention needed in hours—same day
+2 Progressive decline. Declining organ function with inotrope support Intervention needed in days—same week
+3 Stable with inotropes. Stable organ function with inotrope support Elective decision—weeks to months
+4 Frequent flyer. Patient can be stabilized with normal volume status 
+but has symptoms at rest or with everyday activities
+Elective decision—weeks to months
+5 Housebound. Stable at rest Variable—depends regarding nutrition, activity and organ function
+6 Exertion limited. Patient without evidence of fluid overload, 
+comfortable at rest and with activities of daily living
+Variable—depends regarding nutrition, activity and organ function
+7 Advanced NYHA class III symptoms. Patient without current or 
+recent decompensation
+No indication for advanced HF therapy
+NYHA, New York Heart Association-Classification; HF , heart failure.
+[[p6]]
+Sinning et al. Advanced HF treatment in ACHD patients732
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Fallot with risk factors (25,26,31).
+An alternative to defibrillator implantation is the 
+subcutaneous ICD (S-ICD) with a class IIa recommendation 
+in patients with an ICD indication not requiring pacing 
+for bradycardia, CRT or anti-tachycardiac pacing (26,41). 
+Further, class I recommendation for patients with a complex 
+anatomy and venous access problems or at a high risk for 
+infections needing ICD therapy (25,39,41). 
+Data regarding for the wearable defibrillator, or life-
+vest, are limited, therefore it can only be recommended in 
+selected cases at this time (42).
+Electromechanical dyssynchrony may result in 
+pathologic ventricular remodelling or impaired ventricular-
+ventricular interaction with resultant HF . In these cases, 
+ventricular activation delay due to bundle branch block or 
+ventricular pacing is characterized by clustering of early and 
+late contracting segments. This may make patients eligible 
+for CRT , where a large, late-contracting area composed of 
+multiple myocardial segments is electrically preexcited via a 
+single pacing lead (25,43). 
+The effect of CRT in ACHD, however, varies because 
+of the underlying anatomy of the systemic ventricle, 
+scarring of the ventricle, and the presence of hemodynamic 
+relevant valve lesions. However, in some ACHD with 
+systemic right ventricle or single ventricle anatomy and 
+broad QRS complex of 160 msec on ECG, there was an 
+increasing ejection fraction of the systemic ventricle (44,45). 
+Although these older data are promising, the main problem 
+regarding CRT in ACHD is that all of these studies were 
+retrospective, non-randomized, and follow-up was largely 
+limited to a short period. Thus, conclusive analysis of the 
+impact of CRT on long-term morbidity and mortality is still 
+pending (25,44,45). In this regard, current pacing guidelines 
+recommend that the standard indications for CRT may also 
+be used in ACHD, but that the atypical anatomy should be 
+considered in this context (43). 
+In conclusion, resynchronization therapy is an option in 
+individual cases, although its role is currently unclear and 
+long-term results are lacking (4,46,47). 
+Ventricular assist devices as treatment option in 
+ACHD
+Due to organ shortage and the fact that the need for 
+organ transplantation is increasing in both non-ACHD 
+and ACHD ( 1,48), the use of VADs is becoming a more 
+established treatment option both as a bridge to transplant 
+and as a destination therapy (48). 
+These devices have been shown to reduce mortality in 
+end-stage HF in non-transplant candidates and appear to 
+provide a similar benefit to transplant candidates whose 
+condition worsens while waiting for transplantation (23,48). 
+For VAD implantation, ACHD should be considered 
+according to whether they have a morphologic left or right 
+systemic ventricle or a functionally univentricular heart. In 
+the largest study to date, more ACHD were treated with a 
+biventricular ventricular assist or a total artificial heart than 
+non-ACHD patients (23). In this study ACHD had a higher 
+mortality rate and more adverse events than non-ACHD 
+patients, but the increased mortality rate was attributable 
+solely to the higher use of biventricular VADs and total 
+artificial hearts (23). Conversely, the two groups who had 
+VAD implantation to support the systemic ventricle alone, 
+demonstrated similar survival regardless of the underlying 
+cardiac anatomy (23). In particular, patients with d-TGA 
+after atrial-switch operation and a systemic right ventricle 
+may represent a cohort for whom VAD treatment may be 
+considered as bridge-to-transplantation, because patients 
+are often young and have undergone multiple previous 
+surgeries with complex anatomy (2). However, the 
+pyramidal geometry of a morphologic right ventricle often 
+requires resection of trabeculae and/or alternate positioning 
+of the inflow cannula, often on the diaphragmatic surface or 
+free wall, which can be done as destination therapy, as has 
+been shown previously (49).
+A major problem with studies of ACHD and VADs, is 
+that patients are described only as having ACHD without 
+accurately classifying the underlying anatomy ( 50). This 
+is crucial, however, for determining therapeutic decisions. 
+Due to the described heterogeneity of ACHD, more data 
+with a clear description of the underlying defect are needed. 
+Heart transplantation
+Transplantation listing and outcome
+Heart or heart-lung transplantation is limited by donor 
+shortage. Here, specific anatomic and pathophysiologic 
+features (e.g., vascular anatomy, vascular anomalies, 
+collateral vessels, type and number of previous operations, 
+intrathoracic scars, immunologic status after previous 
+transfusions) must be given special attention (1,2). 
+T ransplantation criteria may be quite different from 
+those of other cardiac patients and need better definition (2). 
+Further, heart transplantation in ACHD is hard to obtain 
+because of the high likelihood that patients will be rejected 
+[[p7]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 733
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+due to various comorbidities or multiple organ involvement. 
+Studies could show that up to two-thirds of patients may be 
+rejected for transplantation listing, which is associated with 
+a high mortality rate (51).
+As an option to reduce the waiting list time in ACHD 
+patients the United Network of Organ Sharing (UNOS) 
+did revise its organ allocation guidelines in October 2018 
+with the aim to reduce waiting list times and thus mortality 
+in this patient population ( 52,53). As a consequence of this 
+revision, candidates supported with a temporary mechanical 
+circulatory assist (MCS) device will receive a higher priority 
+status than candidates with permanent or no MCS devices 
+(52,53). Recent data could show that in the UNOS network 
+the revision led to an increased use of temporary MCS 
+devices. with the result of a relevant decline in waiting 
+list times ( 54). Although waiting list time was reduced, 
+some aspects could not be addressed in this study, such as 
+information regarding the particular HF medication, the 
+underlying INTERMACS level of the patients. and data 
+on the underlying congenital heart defect. Thus, although 
+the change of the allocation guidelines has resulted in a 
+reduction in waiting times on the transplant list, additional 
+data have to be collected in ACHD to demonstrate benefit 
+in this patient cohort.
+After transplantation, early mortality appears increased 
+in ACHD, whereas at 10-year follow-up, prognosis is better 
+in ACHD than in other populations ( 4). Combined organ 
+transplantation may also be required in the presence of 
+concomitant renal or hepatic disease.
+Heart transplantation is often considered and is the 
+method of choice once complex cardiac reconstructive 
+surgery is deemed too risky or ineffective, and then often 
+remains the only viable treatment option ( 14,55,56). 
+Although ACHD account for a large proportion of 
+patients eligible for heart transplantation, the number 
+of ACHD recipients worldwide has increased from 1,8% in  
+1992–2000 to 2.7% in 2000–2005 with 3.1% in 2006–2013 (57). 
+In addition, ACHD represent a large proportion of patients 
+receiving heart and lung transplantation, accounting for 
+40% in 2002–2013 ( 58). The patients with ACHD listed 
+tend to be younger than non-ACHD considered for heart 
+transplantation. In addition, ACHD have less cardiovascular 
+comorbidities and have unique features characteristic for 
+advanced HF in complex CHD such as protein-losing 
+enteropathy (56,59). Current criteria for ACHD scheduled 
+for heart or heart and combined organ transplantation are 
+listed in T able 4. 
+Previous studies could as well show that more 
+transplantations could be achieved with the use of special 
+organ care systems which allow to deliver organs from donor 
+to recipient in an adequate status and perform transplantation 
+with a low rate of complications. A potential system currently 
+used is the organ care system, which is achieving good results 
+even in patients with advanced HF (62).
+Reasons for disparities in transplantation waiting list time 
+and status in adult congenital heart disease 
+In the context of listing ACHD for transplantation, it 
+is important to emphasize that these patients often do 
+not receive mechanical circulatory support or inotropic 
+treatment due to limited experience and evidence supporting 
+this therapy. However, both of these criteria are often related 
+to a prioritization for heart transplantation ( 59,63). Thus, 
+the transplantation listing criteria are not as useful in ACHD 
+listed for heart transplantation. Another problem with listing 
+these patients for transplantation is that a high number 
+of patients (over 10%) of patients have antibodies due to 
+previous transfusion of packed red blood cells during previous 
+cardiac surgery ( 64). Another problem with transplantation 
+in this patients population is that recipient-specific factors 
+contribute to the lower rate of ACHD transplantation. 
+These patient often require reconstructive surgery during 
+transplantation, which is associated with an increased degree 
+of difficulty and should only be done in centers with a high 
+level of experience in treating ACHD ( 1,65). Furthermore, 
+certain characteristics of the donor organ, such as a longer 
+donor pulmonary artery, often complicate the operation, 
+because a narrowing of the recipient pulmonary arteries 
+might complicate surgery and has to be corrected at the same  
+time (55,56,59,63).
+Waiting list morbidity and mortality
+ACHD frequently have numerous adverse features 
+including pulmonary arterial hypertension (PAH) and other 
+advanced organ involvement, such as liver or renal disease 
+in patients with Fontan circulation, resulting in a high 
+waiting list mortality (2,61). Patients removed from the 
+waiting list have an especially poor prognosis as they cannot 
+be bridged to transplantation with a VAD or have severe HF 
+with multi-organ failure most commonly involving the liver 
+and/or kidneys (61,66). The low prevalence of ICDs, VADs, 
+and VADs as bridge to transplantation in ACHD may 
+increase waiting list mortality and may be contraindicated 
+or associated with higher risk (56,59,63). 
+[[p8]]
+Sinning et al. Advanced HF treatment in ACHD patients734
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+V AD treatment as bridge to transplant or destination therapy
+In this context, it should be noted that recently a large 
+study indicated that being an ACHD and being treated 
+with a VAD prolongs the time on the waiting list for 
+an organ transplantation, with a higher probability of 
+successful transplantation ( 50). Further, a study may 
+provide more evidence that survival rates are similar in  
+ACHD and non-ACHD patients with a VAD ( 23 ). 
+However, in this study ACHD more often required 
+biventricular support or a total artificial heart, resulting in 
+a higher mortality rate. Despite the still high mortality on 
+the waiting list, ACHD are not often considered for VAD 
+support because of the complexity of the anatomy, the 
+paucity of VAD programs focused on ACHD, and the need 
+for surgeons to be experienced to establish VAD therapy in 
+ACHD (23,65). The previous published data, however, rise 
+some points of discussion, as the number of patients with 
+single ventricle anatomy, representing those with the most 
+complex underlying congenital heart disease, was only 13% 
+and the reader is not provided with information about the 
+congenital heart disease in the other patients. Adding to this 
+discussion is a study from a paediatric registry with end-
+stage HF and good outcomes in patients with VAD in end-
+stage Fontan hemodynamics (67).
+In summary, it may be an option to also evaluate ACHD 
+with advanced HF for a VAD if the anatomy is favourable 
+and the patient’s condition worsens. 
+Clinical cases to illustrate the complexity of 
+advanced HF treatment in ACHD
+Clinic case 1: Patient with congenital corrected 
+transposition of the great arteries and successful heart 
+transplantation
+A 27-year-old female patient presented to the emergency 
+department with shortness of breath, fatigue and worsening 
+renal function. The diagnosed underlying congenital heart 
+defect was a complex ccTGA with three previous cardiac 
+surgeries. The first procedure was a palliative Blalock-
+T aussig shunt in 1993, after this surgery a closure of a 
+ventricle septum defect with additional replacement of 
+the pulmonic valve was done using a homograft and an 
+additional patch plasty of the left pulmonary artery in 
+1995. Following the second operation, the patient needed a 
+pacemaker due to atrioventricular block III. In 2007, severe 
+regurgitation of the systemic ventricle’s morphological 
+tricuspid valve was diagnosed. In 2009, the patient received 
+reconstruction of the tricuspid valve and CRT with an 
+epicardial lead. In the following years, the patient was 
+stable in New Y ork Heart Association-Classification 
+(NYHA) II functional class. In 2019, the patient presented 
+with the question whether a pregnancy could be possible. 
+Subsequent examination revealed relevant stenosis of the 
+homograft in pulmonic valve position and moderately 
+reduced ejection fraction of the systemic right ventricle. 
+With impaired ventricular function and moderate tricuspid 
+Table 4 Characteristics of ACHD listed for heart, heart-lung and combined organ transplantation
+Characteristics of ACHD patients listed for heart or heart and combined organ transplantation (1,56,59-61)
+Younger age of ACHD in comparison to non-ACHD listed for transplantation
+Lower prevalence of cardiovascular risk factors or life style risk factors causative for coronary artery disease
+Higher prevalence of increased pulmonary vascular resistance in ACHD in comparison to non-ACHD
+Impaired nutritional status with patients being underweight especially in patients with protein losing enteropathy
+Increased risk of postoperative infections or impaired wound healing
+The type of the underlying heart defect with:
+•	Single ventricle being a common diagnosis in ACHD
+•	Biventricular defects and their sequelae
+•	Different underlying disease as reason for transplantation listing due to the shift from lesions with lower complexity to more complex 
+lesions due to progress of medical therapy
+Prevalence of previous cardiac surgery is high in ACHD either due to corrective or palliative treatment
+Increased difficulty of surgical therapy due to extensive scarring in ACHD or formation of collaterals with a high bleeding risk
+ACHD, adults with congenital heart disease.
+[[p9]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 735
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+regurgitation, the patient was counselled against pregnancy 
+and HF drug treatment was initiated with an ACE inhibitor, 
+a mineralocorticoid receptor antagonist, and loop diuretics. 
+Interventional treatment of the pulmonary homograft was 
+not feasible due to an unfavorable anatomy. She remained 
+stable in NYHA II functional class with cardiac medication 
+until in 2020, when the patient presented several times 
+with cardiac decompensation. After treatment of acute 
+heart failure with diuretics, invasive examination of the 
+patient showed relevant stenosis of the homograft in 
+pulmonary position, severe regurgitation and stenosis of the 
+reconstructed tricuspid valve, and a severe impaired function 
+of the systemic right ventricle with a cardiac index of  
+1.64 L/min/m². Because of the acute cardiac decompensation 
+and with normal pulmonary vascular resistance, the patient 
+was listed for cardiac transplantation. After a waiting period 
+of one month with high urgent listing status at the HF unit, 
+the patient was successfully transplanted in October 2020.
+Since her heart transplantation the patient is in regular 
+follow-up and her condition has improved markedly 
+regarding physical activity and she is able to participate 
+in everyday life activities. Figure 1  shows the pre- and 
+posttransplant 4-chamber view. Videos 1,2  show the 
+pretransplant 4-chamber view with and without colour flow. 
+The Video 3 shows the posttransplant donor heart.
+Clinical case 2: Coarctation of the aorta, ventricular septal 
+defect with patent ductus arteriosus and development of 
+Eisenmenger syndrome—unsuitable for heart and lung 
+transplantation due to comorbidities and multiorgan 
+failure
+This case report summarizes history of a currently 50-year-
+old woman with complex congenital heart disease. She was 
+born in 1971 with aortic coarctation, bicuspid aortic valve, 
+a large muscular ventricular septal defect (VSD), a patent 
+ductus arteriosus (PDA), and developed PAH during the 
+course of the disease. At the age of 2 years, coarctation of 
+the aorta (CoA) was surgically repaired, and PDA closed.
+Over the years, she developed Eisenmenger’s syndrome. 
+Therefore, in 2005, targeted PAH therapy with the 
+ERA bosentan was initiated. By age of 43 (2014), she 
+was diagnosed with severe aortic valve regurgitation and 
+ascending aortic aneurysm (diameter in echocardiography 
+with 53 mm) in association with the bicuspid aortic valve 
+and CoA. 
+In the same year, her condition deteriorated with right 
+HF . Bosentan was switched to the ERA macitentan, which 
+was not very well tolerated, and therefore changed to the 
+PDE-5-inhibitor (PDE-5-I) tadalafil. 
+In 2015, targeted PAH monotherapy was extended 
+to a combination therapy with tadalafil and bosentan. 
+Because of side effects, tadalafil was replaced by the PDE-
+5-inhibitor sildenafil, which was better tolerated. In 2017 
+a PAH-targeted triple therapy with the oral prostacyclin 
+receptor agonist selexipag was initiated, but shortly after 
+discontinued because of adverse side effects (diarrhea, 
+headache). Instead, PAH treatment was escalated by a dose 
+increase of sildenafil and additional iloprost inhalation. 
+After developing abdominal pain and bloody diarrhea, 
+autoimmune enteropathy and colopathy was suspected. 
+Since 2019, the patient was stable with targeted PAH 
+treatment with bosentan and riociguat until 2021, when 
+she developed right sided cardiac decompensation from 
+Eisenmenger Syndrome, as well as additional acute 
+renal failure and methotrexate-related pneumopathy. 
+Other complicating comorbidities include hemoptysis, 
+hypothyroidism, rheumatoid arthritis, and an IgG type 
+Lambda monoclonal gammopathy. Another severe 
+complication is a massive progress of the ascending aortic 
+aneurysm, which was measured with a diameter of 62 mm at 
+the last measurement.
+Currently, the patient is only marginal stable under 
+a cardio-pulmonary medical treatment with bosentan, 
+riociguat, digoxin, bisoprolol, spironolactone, and 
+torasemide. Under the diagnosis of recurrent right HF due 
+to Eisenmenger’s syndrome in combination with a large 
+ascending aortic aneurysm at risk of rupture and mild aortic 
+re-coarctation, the patient was presented for heart-lung 
+transplantation and concomitant repair of the ascending 
+aorta. However, due to the complexity of the surgery 
+and the patient’s comorbidities, she was not accepted for 
+transplantation. Figure 2  shows the pathologic features of 
+the patient. Videos 4,5 show the 4-chamber view without and 
+with colour flow. Video 6 shows the aneurysm of the aorta 
+and Video 7 the CoA following the initial repair.
+Clinical case 3: Ventricular assist device in a patient with 
+congenital corrected transposition of the great arteries, 
+VSD, atrial septal defect, pulmonary valve stenosis, and 
+aortic valve regurgitation
+A 59-year-old male patient was evaluated for possible 
+VAD implantation with a diagnosis of congenital corrected 
+[[p10]]
+Sinning et al. Advanced HF treatment in ACHD patients736
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Figure 1 The pre- and posttransplant 4-chamber view featuring the severe tricuspid regurgitation pretransplant and the normal anatomy of the 
+donor heart. (A) Pretransplant 4-chamber view with CW of the combined severe tricuspid regurgitation and resulting increased gradient due to 
+the regurgitation. In the figure the tricuspid valve is shown following reconstruction with an elevated mean gradient of 10 mmHg and additional 
+regurgitation. The anatomic right ventricle is as well shown with the characteristic dominant trabeculations. (B) Posttransplant 4-chamber view 
+showing a systemic left ventricle and a subpulmonary anatomic right ventricle of the donor heart. CW,  continuous wave Doppler.
+Video 1  Pretransplant four chamber view featuring the 
+reconstructed tricuspid valve and the impaired ventricular function 
+of the systemic right ventricle.
+Video 2 Pretransplant four chamber view featuring the combined 
+tricuspid valve pathology with severe tricuspid regurgitation and 
+increased gradient measured of tricuspid valve.
+Anatomic right ventricle
+Anatomic right 
+ventricle
+Anatomic left ventricle
+Reconstructed tricuspid valve
+Tricuspid valve 
+forward flow
+Tricuspid valve  
+regurgitationPG max
+19.2 mmHg
+PG mean
+10.3 mmHg
+A B
+[[p11]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 737
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+transposition of the great arteries, VSD, atrial septal defect, 
+pulmonary valve stenosis, and aortic valve regurgitation. 
+In the past medical history the patient had a left ventricle 
+to pulmonary artery conduit, closure of the ventricular and 
+atrial septal defect and with postoperative complications 
+due to bleeding 22 years ago treated at center elsewhere. 
+Thirteen years ago, he had a second heart surgery 
+(replacement of the left ventricle to pulmonary artery 
+conduit, tricuspid valve replacement, residual VSD closure, 
+aortic valve repair and left pulmonary artery angioplasty) 
+at a national reference center. In 2018 the patient had a 
+third complex cardiac surgery with replacement of the left 
+ventricle to pulmonary artery conduit. As of recent the 
+systemic ventricle of the patient, being an anatomic right 
+ventricle progressively failed and the patient was admitted 
+three times during the last 6 months. The patient developed 
+multiorgan failure with cardiorenal syndrome and cardiac-
+related liver cirrhosis. During the last admission due to 
+decompensation, the patient presented with cardiogenic 
+shock and was admitted to the intensive care unit multiple 
+times during the admission. Thus, the patient was discussed 
+to be listed for heart transplantation. However, due to rapid 
+deterioration of the patient status in conjunction with the 
+cardiac pathologies and a supposed long waiting time due 
+to blood type “O” treatment with a VAD was decided. The 
+patient was implanted with a Medtronic™ HVAD and 
+concomitant aortic valve closure via double left thoracotomy 
+and partial sternotomy. The patient afterwards had a long 
+hospital stay before further steps regarding rehabilitation 
+could be decided (Figure 3).Video 3 Posttransplant 4-chamber view.
+Figure 2  The most important residual pathologic findings following corrective surgery of the patient which were responsible for the 
+classification of conservative treatment and for not listing the patient for consecutive heart- and lung transplantation. (A) shows the non-
+restrictive ventricular septal defect with the hypertrophy of the right ventricle due to pulmonary arterial hypertension in the context of 
+Eisenmenger syndrome. (B) shows a supraaortic view of the repaired coarctation of the aorta with additional re-stenosis of the aorta. (C) 
+Diameter of the aorta measured in echocardiography with 62 mm.
+Unrestrictive ventricular septal 
+defect with bidirectional shunt
+Diameter of the ascending aorta 
+measured with 62 mm
+Re-coarctation of the aorta  
+with elevated gradient
+A
+B
+C
+[[p12]]
+Sinning et al. Advanced HF treatment in ACHD patients738
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Summary
+T reatment of advanced HF in ACHD is complex and current 
+results show a poor outcome even in non-ACHD (13). 
+Further challenging in such patients is the presence of an 
+underlying complex congenital heart defect, several previous 
+heart surgeries, a systemic right ventricle and/or significant 
+comorbidities such as pulmonary hypertension, renal or 
+liver failure. The lack of randomized HF studies addressing 
+ACHD is also hindering optimal treatment decisions, as 
+these patients are often excluded from HF research and 
+outcome trials.
+Our data review showed, that VAD or heart  
+transplantation are treatment options which have to be 
+considered in ACHD as they have shown to improve 
+outcome (2,23,50,60). However, treatment of these patients 
+has to be planned and scheduled in a specialist center being 
+experienced with the changes of the anatomy and treatment 
+of common comorbidities of ACHD (65). Decades of 
+longitudinal observational data are currently motivating a 
+paradigm shift toward a lifespan perspective and proactive 
+approach to ACHD care, including concepts regarding 
+long-term trajectories and a life course epidemiology 
+framework (68).
+An important still unmet gap in knowledge is to gather 
+data of international cohorts how the current standard of 
+treatment is now and to evaluate common approaches to 
+treat advanced HF in ACHD on an international level.
+Video 4 Four-chamber view featuring the unrestrictive ventricular 
+septal defect.
+Video 5 Four-chamber view of the patient with color flow for the 
+unrestrictive ventricular septal defect.
+Video 6 Aneurysm of the aorta in the parasternal long axis view.
+Video 7 Coarctation of the aorta following repair in childhood at 
+suprasternal view.
+
+[[p13]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 739
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Acknowledgments
+Funding: None. 
+Footnote
+Provenance and Peer Review: This article was commissioned 
+by the editorial office, Cardiovascular Diagnosis and Therapy  
+for the series “Current Management Aspects in Adult 
+Congenital Heart Disease (ACHD): Part V”. The article 
+has undergone external peer review.
+Reporting Checklist: The authors have completed the 
+Narrative Review reporting checklist. Available at https://
+cdt.amegroups.com/article/view/10.21037/cdt-22-230/rc
+Peer Review File: Available at https://cdt.amegroups.com/
+article/view/10.21037/cdt-22-230/prf
+Conflicts of Interest: All authors have completed the ICMJE 
+uniform disclosure form (available at https://cdt.amegroups.
+com/article/view/10.21037/cdt-22-230/coif ). The series 
+“Current Management Aspects in Adult Congenital 
+Heart Disease (ACHD): Part V” was commissioned by 
+the editorial office without any funding or sponsorship. 
+YVK, HK and KN served as the unpaid Guest Editors of 
+the series. HK has received honoraria for lectures and/or 
+consultancy from Actelion, Bristol Myers Squibb, Janssen. 
+CS receives research funding from the German Foundation 
+for Heart Research and the Dr. Rolf Schwiete Stiftung. 
+Further, he received speaker fees from AstraZeneca and 
+Johnson & Johnson outside the submitted work. EZ 
+reports speaker fees received from AstraZeneca outside 
+the submitted work. CM reports research funding from 
+the German Center for Cardiovascular Research (DZHK) 
+within the Promotion of women scientist program, the 
+Deutsche Stiftung fuer Herzforschung and the Dr. Rolf 
+Schwiete Stiftung, and speaker fees from AstraZeneca, 
+Novartis, Heinen&Loewenstein, Boehringer Ingelheim/
+Lilly, Bayer, Pfizer, Sanofi, Aventis, Apontis, Abbott outside 
+of this study. SB reports grants and personal fees from 
+Abbott Diagnostics, Bayer, Thermo Fisher, grants from 
+SIEMENS, Singulex, personal fees from Abott, Astra 
+Zeneca, AMGEN, Medtronic, Pfizer, Roche, Novartis, 
+Siemens Diagnostics, outside the submitted work. PK 
+receives research support for basic, translational, and 
+clinical research projects from European Union, British 
+Heart Foundation, Leducq Foundation, Medical Research 
+Council (UK), and German Centre for Cardiovascular 
+Research, from several drug and device companies active in 
+atrial fibrillation, and has received honoraria from several 
+such companies in the past, but not in the last three years. 
+PK is listed as inventor on two patents held by University of 
+Birmingham (Atrial Fibrillation Therapy WO 2015140571, 
+Figure 3 The pretransplant anatomy of the patient with mechanical tricuspid valve prosthesis and the cannula of the HVAD in the systemic 
+right ventricle with the outflow graft to the aorta. (A) Preoperative CT scan showing the anatomy of the heart with underlying ccTGA and a 
+tricuspid valve replacement connecting the systemic right ventricle and the left atrium. (B) Postoperative CT scan following implantation of 
+the HVAD with the cannula in the anatomic right ventricle with the function as the systemic ventricle.
+Preoperative CT scan Postimplantation CT scan
+A B
+Mechanical
+tricuspid valve
+nmLw?QT?
+HVAD cannula in 
+the apex of the 
+anatomic right 
+ventricle
+[[p14]]
+Sinning et al. Advanced HF treatment in ACHD patients740
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Markers for Atrial Fibrillation WO 2016012783). HR is 
+a consultant to Medtronic Inc. and received speaker- and 
+travel honoraria from Abiomed Inc. and Edwards Inc. The 
+authors have no other conflicts of interest to declare. 
+Ethical Statement : The authors are accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+appropriately investigated and resolved.
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+PM?a?gK?c?a?iK?aLm?ru?K??
+al. 2020 ESC Guidelines for the management of adult 
+congenital heart disease. Eur Heart J 2021;42:563-645.
+2. Menachem JN, Schlendorf KH, Mazurek JA, et al. 
+Advanced Heart Failure in Adults With Congenital Heart 
+Disease. JACC Heart Fail 2020;8:87-99.
+3. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/
+ACC Guideline for the Management of Adults With 
+Congenital Heart Disease: A Report of the American 
+College of Cardiology/American Heart Association 
+T ask Force on Clinical Practice Guidelines. Circulation 
+2019;139:e698-800.
+4. Engelings CC, Helm PC, Abdul-Khaliq H, et al. Cause of 
+death in adults with congenital heart disease - An analysis 
+of the German National Register for Congenital Heart 
+Defects. Int J Cardiol 2016;211:31-6.
+5. Ministeri M, Alonso-Gonzalez R, Swan L, et al. Common 
+long-term complications of adult congenital heart disease: 
+avoid falling in a H.E.A.P . Expert Rev Cardiovasc Ther 
+2016;14:445-62.
+6. Verheugt CL, Uiterwaal CS, van der Velde ET , et al. 
+Mortality in adult congenital heart disease. Eur Heart J 
+2010;31:1220-9.
+7. Zomer AC, Vaartjes I, van der Velde ET , et al. Heart 
+failure admissions in adults with congenital heart disease; 
+risk factors and prognosis. Int J Cardiol 2013;168:2487-93.
+8. Neidenbach R, Niwa K, Oto O, et al. Improving medical 
+care and prevention in adults with congenital heart 
+disease-reflections on a global problem-part II: infective 
+endocarditis, pulmonary hypertension, pulmonary arterial 
+hypertension and aortopathy. Cardiovasc Diagn Ther 
+2018;8:716-24.
+9. Faccini A, Micheletti A, Negura DG, et al. Heart failure in 
+grown-up congenital heart disease. Minerva Cardioangiol 
+2018;66:329-36.
+10. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/
+ACC Guideline for the Management of Adults With 
+Congenital Heart Disease: A Report of the American 
+College of Cardiology/American Heart Association T ask 
+Force on Clinical Practice Guidelines. J Am Coll Cardiol 
+2019;73:e81-e192.
+11. Van De Bruaene A, Meier L, Droogne W, et al. 
+Management of acute heart failure in adult patients with 
+congenital heart disease. Heart Fail Rev 2018;23:1-14.
+12. Diller GP , Dimopoulos K, Okonko D, et al. Exercise 
+intolerance in adult congenital heart disease: comparative 
+severity, correlates, and prognostic implication. Circulation 
+2005;112:828-35.
+13. McDonagh TA, Metra M, Adamo M, et al. 2021 ESC 
+Guidelines for the diagnosis and treatment of acute and 
+chronic heart failure. Eur Heart J 2021;42:3599-726.
+14. Budts W, Roos-Hesselink J, Rädle-Hurst T , et al. 
+T reatment of heart failure in adult congenital heart 
+disease: a position paper of the Working Group of Grown-
+Up Congenital Heart Disease and the Heart Failure 
+Association of the European Society of Cardiology. Eur 
+Heart J 2016;37:1419-27.
+15. Brida M, Diller GP , Gatzoulis MA. Systemic Right 
+Ventricle in Adults With Congenital Heart Disease: 
+Anatomic and Phenotypic Spectrum and Current 
+Approach to Management. Circulation 2018;137:508-18.
+16. Perloff JK, Warnes CA. Challenges posed by adults 
+with repaired congenital heart disease. Circulation 
+2001;103:2637-43.
+17. Derk G, Houser L, Miner P , et al. Efficacy of endothelin 
+blockade in adults with Fontan physiology. Congenit 
+Heart Dis 2015;10:E11-6.
+18. Hjortshøj CS, Jensen AS, Sørensen K, et al. 
+Epidemiological changes in Eisenmenger syndrome in the 
+Nordic region in 1977-2012. Heart 2017;103:1353-8.
+19. Kaemmerer H, Apitz C, Brockmeier K, et al. Pulmonary 
+hypertension in grown-ups with congenital heart disease: 
+Recommendations of the Cologne Consensus Conference 
+2016. Dtsch Med Wochenschr 2016;141:S70-9.
+[[p15]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 741
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+20. Stevenson LW, Pagani FD, Y oung JB, et al. INTERMACS 
+profiles of advanced heart failure: the current picture. J 
+Heart Lung T ransplant 2009;28:535-41.
+21. Kirklin JK, Naftel DC, Stevenson LW, et al. 
+INTERMACS database for durable devices for circulatory 
+support: first annual report. J Heart Lung T ransplant 
+2008;27:1065-72.
+22. Kirklin JK, Pagani FD, Kormos RL, et al. Eighth 
+annual INTERMACS report: Special focus on framing 
+the impact of adverse events. J Heart Lung T ransplant 
+2017;36:1080-6.
+23. VanderPluym CJ, Cedars A, Eghtesady P , et al. Outcomes 
+following implantation of mechanical circulatory support 
+in adults with congenital heart disease: An analysis of the 
+Interagency Registry for Mechanically Assisted Circulatory 
+Support (INTERMACS). J Heart Lung T ransplant 
+2018;37:89-99.
+24. Galiè N, Humbert M, Vachiery JL, et al. 2015 ESC/ERS 
+Guidelines for the diagnosis and treatment of pulmonary 
+hypertension: The Joint T ask Force for the Diagnosis 
+and T reatment of Pulmonary Hypertension of the 
+European Society of Cardiology (ESC) and the European 
+Respiratory Society (ERS): Endorsed by: Association for 
+European Paediatric and Congenital Cardiology (AEPC), 
+International Society for Heart and Lung T ransplantation 
+(ISHL T). Eur Heart J 2016;37:67-119.
+25. Khairy P , Van Hare GF , Balaji S, et al. PACES/HRS 
+Expert Consensus Statement on the Recognition and 
+Management of Arrhythmias in Adult Congenital Heart 
+Disease: developed in partnership between the Pediatric 
+and Congenital Electrophysiology Society (PACES) 
+and the Heart Rhythm Society (HRS). Endorsed by the 
+governing bodies of PACES, HRS, the American College 
+of Cardiology (ACC), the American Heart Association 
+(AHA), the European Heart Rhythm Association (EHRA), 
+the Canadian Heart Rhythm Society (CHRS), and the 
+International Society for Adult Congenital Heart Disease 
+(ISACHD). Heart Rhythm 2014;11:e102-65.
+26. Priori SG, Blomström-Lundqvist C, Mazzanti A, et al. 
+2015 ESC Guidelines for the management of patients 
+with ventricular arrhythmias and the prevention of sudden 
+cardiac death: The T ask Force for the Management of 
+Patients with Ventricular Arrhythmias and the Prevention 
+of Sudden Cardiac Death of the European Society of 
+Cardiology (ESC). Endorsed by: Association for European 
+Paediatric and Congenital Cardiology (AEPC). Eur Heart 
+J 2015;36:2793-867.
+27. Kaemmerer H, Bauer U, Pensl U, et al. Management of 
+emergencies in adults with congenital cardiac disease. Am 
+J Cardiol 2008;101:521-5.
+28. Kaemmerer H, Fratz S, Bauer U, et al. Emergency 
+hospital admissions and three-year survival of adults with 
+and without cardiovascular surgery for congenital cardiac 
+disease. J Thorac Cardiovasc Surg 2003;126:1048-52.
+29. Khairy P . Ventricular arrhythmias and sudden cardiac 
+death in adults with congenital heart disease. Heart 
+2016;102:1703-9.
+30. Mohan S, Moffett BS, Lam W, et al. Analysis of adults 
+with congenital heart disease presenting to pediatric 
+emergency departments with arrhythmias. Congenit Heart 
+Dis 2017;12:507-11.
+31. Hernández-Madrid A, Paul T , Abrams D, et al. 
+Arrhythmias in congenital heart disease: a position paper 
+of the European Heart Rhythm Association (EHRA), 
+Association for European Paediatric and Congenital 
+Cardiology (AEPC), and the European Society of 
+Cardiology (ESC) Working Group on Grown-up 
+Congenital heart disease, endorsed by HRS, PACES, 
+APHRS, and SOLAECE. Europace 2018;20:1719-53.
+32. Oechslin EN, Harrison DA, Connelly MS, et al. Mode of 
+death in adults with congenital heart disease. Am J Cardiol 
+2000;86:1111-6.
+33. Silka MJ, Hardy BG, Menashe VD, et al. A population-
+based prospective evaluation of risk of sudden cardiac 
+death after operation for common congenital heart defects. 
+J Am Coll Cardiol 1998;32:245-51.
+34. Gleva MJ, Wang Y, Curtis JP , et al. Complications 
+Associated With Implantable Cardioverter Defibrillators in 
+Adults With Congenital Heart Disease or Left Ventricular 
+Noncompaction Cardiomyopathy (From the NCDR® 
+Implantable Cardioverter-Defibrillator Registry). Am J 
+Cardiol 2017;120:1891-8.
+35. Santharam S, Hudsmith L, Thorne S, et al. Long-term 
+follow-up of implantable cardioverter-defibrillators in 
+adult congenital heart disease patients: indications and 
+outcomes. Europace 2017;19:407-13.
+36. T utarel O. Acquired heart conditions in adults with 
+congenital heart disease: a growing problem. Heart 
+2014;100:1317-21.
+37. Neidenbach R, Niwa K, Oto O, et al. Improving medical 
+care and prevention in adults with congenital heart disease-
+reflections on a global problem-part I: development of 
+congenital cardiology, epidemiology, clinical aspects, 
+heart failure, cardiac arrhythmia. Cardiovasc Diagn Ther 
+2018;8:705-15.
+38. Soar J, Nolan JP , Böttiger BW, et al. European 
+[[p16]]
+Sinning et al. Advanced HF treatment in ACHD patients742
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+Resuscitation Council Guidelines for Resuscitation 2015: 
+Section 3. Adult advanced life support. Resuscitation 
+2015;95:100-47.
+39. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 
+2017 AHA/ACC/HRS guideline for management of 
+patients with ventricular arrhythmias and the prevention 
+of sudden cardiac death: Executive summary: A Report 
+of the American College of Cardiology/American Heart 
+Association T ask Force on Clinical Practice Guidelines 
+and the Heart Rhythm Society. Heart Rhythm 
+2018;15:e190-252.
+40. Soar J, Böttiger BW, Carli P , et al. European Resuscitation 
+Council Guidelines 2021: Adult advanced life support. 
+Resuscitation 2021;161:115-51.
+41. Kaya E, Wakili R, Rassaf T . Journey of the S-ICD to 
+first-line therapy. Herzschrittmacherther Elektrophysiol 
+2018;29:228-32.
+42. Olgin JE, Pletcher MJ, Vittinghoff E, et al. Wearable 
+Cardioverter-Defibrillator after Myocardial Infarction. N 
+Engl J Med 2018;379:1205-15.
+43. Glikson M, Nielsen JC, Kronborg MB, et al. 2021 ESC 
+Guidelines on cardiac pacing and cardiac resynchronization 
+therapy. Eur Heart J 2021;42:3427-520.
+44. Janousek J, Gebauer RA, Abdul-Khaliq H, et al. Cardiac 
+resynchronisation therapy in paediatric and congenital 
+heart disease: differential effects in various anatomical and 
+functional substrates. Heart 2009;95:1165-71.
+45. Dubin AM, Janousek J, Rhee E, et al. Resynchronization 
+therapy in pediatric and congenital heart disease patients: 
+an international multicenter study. J Am Coll Cardiol 
+2005;46:2277-83.
+46. Brida M, Gatzoulis MA. Pulmonary arterial hypertension 
+in adult congenital heart disease. Heart 2018;104:1568-74.
+47. Baddour LM, Wilson WR, Bayer AS, et al. Infective 
+Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, 
+and Management of Complications: A Scientific Statement 
+for Healthcare Professionals From the American Heart 
+Association. Circulation 2015;132:1435-86.
+48. Ponikowski P , Voors AA, Anker SD, et al. 2016 ESC 
+Guidelines for the diagnosis and treatment of acute and 
+chronic heart failure: The T ask Force for the diagnosis 
+and treatment of acute and chronic heart failure of the 
+European Society of Cardiology (ESC)Developed with the 
+special contribution of the Heart Failure Association (HFA) 
+of the ESC. Eur Heart J 2016;37:2129-200.
+49. T adokoro N, Fukushima S, Hoashi T , et al. Durable 
+ventricular assist device implantation for systemic right 
+ventricle: a case series. Eur Heart J Case Rep 2020;4:1-9.
+50. Cedars A, T ecson KM, Zaidi AN, et al. Impact of Durable 
+Ventricular Assist Device Support on Outcomes of 
+Patients with Congenital Heart Disease Waiting for Heart 
+T ransplant. ASAIO J 2020;66:513-9.
+51. Lo Rito M, Poretti G, Varrica A, et al. The Challenging 
+Pathway T oward Heart T ransplant Listing for Adult 
+Congenital Heart Disease Patients. Artif Organs 
+2018;42:911-7.
+52. Zhou AL, Etchill EW, Giuliano KA, et al. Bridge to 
+transplantation from mechanical circulatory support: a 
+narrative review. J Thorac Dis 2021;13:6911-23.
+53. Bernhardt AM. The new tiered allocation system for heart 
+transplantation in the United States-a Faustian bargain. J 
+Heart Lung T ransplant 2019;38:870-1.
+54. Zhou AL, Menachem JN, Danford DA, et al. UNOS 
+listing status-related changes in mechanical circulatory 
+support utilization and outcomes in adult congenital heart 
+disease patients. J Heart Lung T ransplant 2022;41:889-95.
+55. Cohen S, Houyel L, Guillemain R, et al. T emporal trends 
+and changing profile of adults with congenital heart 
+disease undergoing heart transplantation. Eur Heart J 
+2016;37:783-9.
+56. Goldberg SW, Fisher SA, Wehman B, et al. Adults 
+with congenital heart disease and heart transplantation: 
+optimizing outcomes. J Heart Lung T ransplant 
+2014;33:873-7.
+57. Lund LH, Edwards LB, Kucheryavaya AY, et al. The 
+registry of the International Society for Heart and Lung 
+T ransplantation: thirty-first official adult heart transplant 
+report--2014; focus theme: retransplantation. J Heart 
+Lung T ransplant 2014;33:996-1008.
+58. Lund LH, Edwards LB, Kucheryavaya AY, et al. The 
+Registry of the International Society for Heart and Lung 
+T ransplantation: Thirtieth Official Adult Heart T ransplant 
+Report--2013; focus theme: age. J Heart Lung T ransplant 
+2013;32:951-64.
+59. Davies RR, Russo MJ, Yang J, et al. Listing and 
+transplanting adults with congenital heart disease. 
+Circulation 2011;123:759-67.
+60. Becher PM, Schrage B, Weimann J, et al. Clinical 
+characteristics and outcomes of patients with adult 
+congenital heart disease listed for heart and heart‒lung 
+transplantation in the Eurotransplant region. J Heart Lung 
+T ransplant 2020;39:1238-49.
+61. Alshawabkeh LI, Hu N, Carter KD, et al. Wait-List 
+Outcomes for Adults With Congenital Heart Disease 
+Listed for Heart T ransplantation in the U.S. J Am Coll 
+Cardiol 2016;68:908-17.
+[[p17]]
+Cardiovascular Diagnosis and Therapy, Vol 12, No 5 October 2022 743
+© AME Publishing Company. Cardiovasc Diagn Ther 2022;12(5):727-743 | https://dx.doi.org/10.21037/cdt-22-230
+62. Verzelloni Sef A, Sef D, Garcia Saez D, et al. Heart 
+T ransplantation in Adult Congenital Heart Disease with 
+the Organ Care System Use: A 4-Y ear Single-Center 
+Experience. ASAIO J 2021;67:862-8.
+63. Everitt MD, Donaldson AE, Stehlik J, et al. Would access 
+to device therapies improve transplant outcomes for adults 
+with congenital heart disease? Analysis of the United 
+Network for Organ Sharing (UNOS). J Heart Lung 
+T ransplant 2011;30:395-401.
+64. Nwakanma LU, Williams JA, Weiss ES, et al. Influence of 
+pretransplant panel-reactive antibody on outcomes in 8,160 
+heart transplant recipients in recent era. Ann Thorac Surg 
+2007;84:1556-62; discussion 1562-3.
+65. Diller GP , Orwat S, Lammers AE, et al. Lack of specialist 
+care is associated with increased morbidity and mortality 
+in adult congenital heart disease: a population-based study. 
+Eur Heart J 2021;42:4241-8.
+66. Crossland DS, Jansen K, Parry G, et al. Outcome 
+following heart transplant assessment in adults with 
+congenital heart disease. Heart 2019;105:1741-7.
+67. Auerbach SR, Simpson KE; Action Learning Network 
+Investigators. HVAD Usage and Outcomes in the Current 
+Pediatric Ventricular Assist Device Field: An Advanced 
+Cardiac Therapies Improving Outcomes Network 
+(ACTION) Analysis. ASAIO J 2021;67:675-80.
+68. Diller GP , Arvanitaki A, Opotowsky AR, et al. Lifespan 
+Perspective on Congenital Heart Disease Research: 
+JACC State-of-the-Art Review. J Am Coll Cardiol 
+2021;77:2219-35.
+Cite this article as:  Sinning C, Huntgeburth M, Fukushima 
+N, T ompkins R, Huh J, T ataneo S, Diller GP , Chen YS, Zengin 
+E, Magnussen C, Kaemmerer AS, Cho YH, Blankenberg S, 
+Rickers C, Harig F , Weyand M, Hübler M, von Kodolitsch 
+Y, Oto Ö, Zuckermann A, Kirchhof P , Baumgartner H, 
+Reichenspurner H, Kobashigawa J, Kaemmerer H, Niwa K. 
+T reatment of advanced heart failure in adults with congenital 
+heart disease: a narrative review and clinical cases. Cardiovasc 
+Diagn Ther 2022;12(5):727-743. doi: 10.21037/cdt-22-230

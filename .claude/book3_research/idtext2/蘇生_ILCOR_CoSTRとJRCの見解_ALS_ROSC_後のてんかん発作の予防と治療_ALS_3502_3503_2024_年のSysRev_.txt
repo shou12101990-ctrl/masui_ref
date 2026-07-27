@@ -1,0 +1,130 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Post–Cardiac Arrest Seizure Prophylaxis and Treatment 
+(ALS 3502 and 3503: SysRev) 
+ROSC 後のてんかん発作の予防と治療（ALS 3502・3503：2024 年の
+SysRev） 
+Author: Greif R, et al. ALS Task Force 
+PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+ 
+Population: Adults or children in any setting (inhospital or out-
+of-hospital) with cardiac arrest and ROSC 
+Intervention: One strategy for prophylactic antiseizure 
+medication or seizure treatment 
+Comparators: Another strategy or no prophylactic antiseizure 
+medication or seizure treatment 
+Outcomes:  
+– Critical: Survival or survival with favorable neurological/ 
+functional outcome at discharge, 30 days, 60 days, 180 days, or 
+1 year 
+Study designs: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) were eligible for inclusion. Unpublished studies 
+(eg, conference abstracts, trial protocols) were excluded. All 
+relevant publications in any language were included if there was 
+an English abstract. 
+PICOST 
+ 
+ 
+P: あらゆる状況における院内および院外心停止後に自己心拍再開
+（ROSC）した成人・小児患者 
+I: 予防的な抗てんかん薬の投与、またはてんかん発作に対する治療を
+行う戦略 
+ 
+C: 他の戦略か、予防的な抗てんかん薬の投与やてんかん発作に対す
+る治療を行わない戦略 
+ 
+O: 退院時、30 日後、60 日後、180 日後、または 1 年後の生存、あるい
+は良好な神経学的/機能的転帰 
+ 
+S: RCT、および非 RCT（非無作為化比較試験、分割時系列解析、前後
+比較研究、コホート研究）を対象とした。論文化されていない研究（例：学
+会抄録、プロトコル論文）は除外した。英文抄録がある、全ての年の、あ
+らゆる言語での研究を対象とした。 
+ 
+[[p2]]
+2 
+ 
+Time frame: All years; search conducted on September 11, 
+2023 
+ 
+T:2023 年 9 月 11 日にすべての年の研究を調査した 
+Treatment recommendations 
+We suggest against the use of prophylactic antiseizure 
+medication in post–cardiac arrest adults (weak recommendation, 
+very low–certainty evidence).  
+ 
+We suggest treatment of clinically apparent and electrographic 
+(EEG) seizures in post–cardiac arrest adults (good practice 
+statement).  
+ 
+We suggest treatment of rhythmic and periodic EEG patterns 
+that are on the ictal-interictal continuum in comatose post–
+cardiac arrest adults (weak recommendation, low-certainty 
+evidence). 
+推奨と提案 
+ROSC後の成人患者に、抗てんかん薬を予防的に投与しないことを提案
+する（弱い推奨、エビデンスの確実性：非常に低い）。 
+ 
+ 
+ROSC後の成人患者では、臨床的に明らかなてんかん発作や脳波で観察
+されてんかん発作の治療を提案する（優れた医療慣行に関する記述）。 
+ 
+ 
+ROSC後の成人昏睡患者において、発作間欠期連続体（IIC，脳波上で持
+続的または周期的な発作様活動を示すが、臨床的な症状を伴わない状
+態）では治療を提案する（弱い推奨、エビデンスの確実性：低い）。 
+ 
+１． JRC の見解と解説（400-800 文字） 
+（解説） 
+■ROSC 後の予防的抗てんかん薬の投与 
+・ 予防的抗てんかん薬の投与に関して、前回の SysRev 以降に新たな研究は確認されていない。 
+・ 退院時、30 日後の良好な神経学的転帰に関する 2 件の RCT では，チオペントン、マグネシウム、ジアゼパム、マグネシウムとジアゼパム併用
+のいずれも有益性がないと報告され，エビデンスの確実性は非常に低かった。 
+・ 予防的抗てんかん薬投与が，ROSC 後の成人昏睡状患者における発作予防や転帰改善に寄与するエビデンスはない。ROSC 後の成人昏睡患
+[[p3]]
+3 
+ 
+者には，プロポフォールやベンゾジアゼピンなど抗てんかん作用のある鎮静薬が一般的に使用されているが、鎮静方法や薬剤選択が，発作発
+生率に影響を与えるかどうかを検討した研究は確認されなかった。 
+ 
+■ROSC 後のてんかん発作の治療 
+・ 1 件の RCT では、ROSC 後の成人昏睡患者における律動的・周期的脳波パターンに対し、標準治療に抗てんかん薬を追加しても、3 か月後の
+良好な神経学的転帰に差は認められなかった。 
+・ てんかん発作は「脳波発作（Electrographic seizure）」「臨床的発作（Electroclinical seizure）」「臨床的てんかん重積状態（Electroclinical status 
+epilepticus）」に分類される。このうち、「臨床的発作」「臨床的てんかん重積状態」は、脳損傷を引き起こす可能性があるため、治療が提案され
+ている。 
+・ 2024 年の推奨では，2020 年と同様の治療方針に加え，脳波検査で確認された発作も治療対象に追加された。 
+・ 2021 年、アメリカ臨床神経生理学会（ACNS）は、脳波発作、てんかん重積状態、発作間欠期連続体（Ictal-interictal continuum: IIC）の基準を
+更新した。IIC は脳波上の発作や重積状態には該当しないが、覚醒障害や神経細胞傷害の一因となる可能性がある脳波パターンとされる。 
+・ 脳波発作や IIC が二次的脳損傷を引き起こす可能性があるため、脳波上のてんかん重積状態を含むこれらの波形に対する治療の必要性が
+示唆される。 
+ 
+２．わが国への適用 
+・ 2020 年から 2025 年には提案を下記のように変更する予定である。 
+・ ROSC 後の成人患者に、抗てんかん薬を予防的に投与しないことを提案する。一方，臨床的に明らかなてんかん発作や、脳波で観察されたて
+んかん発作については、その治療を行うことを提案する。この提案は JRC 蘇生ガイドライン 2020 を踏襲している。 
+・ ROSC 後の成人昏患患者では、発作間欠期連続体（IIC）の範疇にある律動的・周期的脳波パターンを呈する場合も治療を提案する。脳波上の
+てんかん発作や特定の脳波パターンに対する治療介入の提案は JRC 蘇生ガイドライン 2020 には記載されておらず、今回の改訂で追加された
+内容である。 
+ 
+[[p4]]
+4 
+ 
+３．担当メンバー 
+作業部会員（五十音順） 
+赤坂理、桑原政成、佐藤信宏、中嶋駿介、世良俊樹、田村志宣 
+共同座長（五十音順） 
+鈴木昌 
+担当編集委員（五十音順） 
+大下慎一郎、黒田泰弘 
+顧問 
+相引眞幸 
+編集委員長 
+坂本哲也 
+ 
+ 

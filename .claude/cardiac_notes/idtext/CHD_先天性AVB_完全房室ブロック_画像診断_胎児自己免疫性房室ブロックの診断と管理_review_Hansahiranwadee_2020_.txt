@@ -1,0 +1,666 @@
+
+[[p1]]
+REVIEW
+Diagnosis and Management of F etal Autoimmune 
+Atriov entricular Block
+This article was published in the following Dove Press journal: 
+International Journal of W omen’ s Health
+Wirada Hansahiranwadee
+Division of Maternal Feta l Medicine, 
+Department of Obstetrics and 
+Gynaecology , Faculty of Medicine, 
+Ramathibodi Hospital, Mahidol 
+University , Bangk ok, Thailand 
+Abstract: Autoimmune congenital atrioventricular block (CA VB) has been extensively 
+studied in recent decades. The American Heart Association published guidelines for 
+monitoring pregnant women with anti-Ro/Sjögren’ s syndrome antigen A (SSA) or anti- 
+La/Sjögren’ s syndrome antigen B (SSB) autoantibodies, which are considered to increase 
+the risk of CA VB. Information about the natural history of the disease in uter o has 
+contributed to the detection of fetuses with CA VB in the treatable stage. 
+Hydroxychloroquine (HCQ) may be used to prevent CA VB. The lack of large randomized 
+control trials is a major drawback to fully confirm the benefits of fluorinated steroids such 
+as dexamethasone. Although, when combined with a β-sympathomimetic agent, the out -
+come of administering a fluorinated steroid in complete CA VB is still controversial. Novel 
+treatments targeting the immunological process might prevent the recurrence of CA VB in 
+pregnant women with previously affec ted children. 
+K eyw ords: autoimmune congenital heart block, anti-Ro, anti-La, fetal heart block, 
+cardiomyopathy
+Intr oduction
+Ultrasonography has shown that intrauterine diagnosis of abnormal fetal rhythm is 
+common nowadays. Fetal bradyarrhythmia is a type of arrhythmia that is diagnosed 
+prenatally . According to the American College of Obstetricians and Gynecologists,
+1 
+fetal bradycardia is defined as a sustained fetal heart rate <1 10 beats/min, and it is 
+caused by fetal atrioventricular (A V) block, sinus bradycardia, and blocked atrial 
+bigeminy or trigeminy .
+2
+Congenital atrioventricular block (CA VB) occurs in approximately 1 in 20,000 
+births.
+3 
+More than half of CA VB cases might be the result of structural congenital 
+heart diseases (such as corrected transposition of the great artery and left atrial 
+isomerism, a type of heterotaxy syndrome), which are non-immunological causes. 
+However , another cause involves immunological processes, i.e., maternal autoanti -
+bodies enter the fetal circulation via the placenta.
+4 
+Although CA VB is rare, it is 
+associated with increased risk of intrauterine fetal death, neonatal morbidity , neo -
+natal mortality , and long-term sequelae.
+4
+The autoantibodies related to CA VB are anti-Ro/Sjögren’ s syndrome antigen 
+A (SSA) and anti-La/Sjögren’ s syndrome antigen B (SSB). In pregnant women with 
+these autoantibodies, the risk of the fetus developing CA VB is 2–5%, and this 
+increases to 12–25% if the woman has had a previous child with CA VB.
+5 
+Especially 
+anti-Ro 52-kd antigen which has high specificity to damage the cardiomyocyte,
+6 
+the 
+risk of developing CA VB in fetus is one-third in this antibody-positive pregnant 
+Correspondence: Wirada 
+Hansahiranwadee  
+Division of Maternal Feta l Medicine, 
+Departm ent of Obstetrics and 
+Gynaecology , Faculty of Medicine, 
+Ramathibodi Hospital, Mahidol University , 
+270, Rama 6 Road, Ratchathew ee, 
+Bangk ok, Thailand  
+T el +66 85 118 4313  
+Fax +66 2 201 1413  
+Email wirada.han@mahidol.ac.th
+International Journal of Women’s Health                                              Dove press
+open access to scientific and medical research
+Open Access Full T ext Article
+submit your manuscript | www .dovepre ss.com
+International Journal of W omen’ s Health 2020:12 633–639                                                 
+633
+http: //doi.org/10.2147/IJWH.S257407 
+Dove Press
+© 2020 Hansahiranwadee. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/ 
+terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing 
+the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+[[p2]]
+women.
+7 
+Risk of developing CA VB increases significantly 
+at a 9-fold in fetus born to women with autoantibodies and 
+hypothyroidism.
+8 
+The incidence of moderate or high auto -
+antibody levels in the general population of pregnant 
+women is 1.2%.
+9 
+In a study of pregnant women who had 
+autoantibodies, three-quarters had systemic lupus erythe -
+matosus (SLE) or Sjögren syndrome, while the remainder 
+were asymptomatic carriers.
+10 
+After the diagnosis of 
+CA VB in the fetus of a previously healthy mother , the 
+mother is usually diagnosed with an autoimmune disease.
+Anti-Ro/SSA and anti-La/SSB autoantibodies are anti- 
+nuclear antibodies that can cross the placenta from 12 
+weeks of gestation.
+1 1 
+They can af fect the fetal myocar -
+dium and A V conduction system, resulting in inflammation 
+and fibrosis, which are mostly irreversible.
+12 
+These auto -
+antibodies can also be a cause of endocardial fibroelasto -
+sis. The key findings include bilateral ventricular 
+dilatation, reduced ejection fraction, echogenic endocar -
+dium along the left ventricle including the mitral valve 
+papillary muscles, and A V valve dysfunction.
+13
+CA VB usually develops after 17 weeks of gestation, 
+and it is frequently detected at 20–24 weeks of gestation, 
+while about 20% of cases are diagnosed in the third 
+trimester .
+14 
+Uncommonly , CA VB initially presents in 
+neonates.
+14
+T ypes, Monitoring, and Diagno sis of 
+CA VB
+The degree of A V block can be categorized as first-degree, 
+second-degree, and third-degree (complete) A V block. 
+Fetuses with first-degree A V block have a prolongation 
+of A V time, with 1:1 A V conduction, but a normal heart 
+rate. There are two types of second-degree A V block: type 
+1 (W enckebach type) and type 2 (Mobitz type). T ype 1 
+usually involves an irregular heart rate, with A V time 
+lengthening progressively until a signal is completely 
+blocked, whereas type 2 involves a normal A V interval 
+with a blocked signal, with 2:1 A V conduction, resulting in 
+bradycardia. In complete A V block, the atrium and ven -
+tricle beat independently as a consequence of complete 
+loss of the A V connection.
+According to the American Heart Association, preg -
+nant women with anti-Ro/SSA or anti-La/SSB autoantibo -
+dies should be referred for fetal echocardiography 
+monitoring from 16–18 to 28 weeks of gestation with 
+1–2-week intervals.
+15 
+Pulsed wave Doppler echocardio -
+graphy is used to measure the fetal mechanical PR 
+interval, which is the period from the beginning of the 
+atrial contraction to the beginning of the ventricular con -
+traction (A V time).
+16 
+The measurement obtained from two- 
+dimension ultrasonography and gated-pulsed sample 
+volume placed to the area which can detect atrial systole 
+and ventricular systole simultaneously ,
+17 
+such as the left 
+ventricular inflow–outflow view , superior vena cava-aorta 
+(SVC-Ao) view , and pulmonary artery–pulmonary vein 
+(P A–PV) view . Figure 1 , left ventricular inflow–outflow 
+view from five-chamber view , the sample volume placed 
+at the junction of mitral valve leaflet and left ventricular 
+outflow tract.
+17 
+SVC-Ao view was displayed in Figure 2 , 
+the measurement of mechanical PR interval starts from the 
+beginning of atrial (A) wave of SVC to the onset of aortic 
+ventricular outflow wave.
+18 
+Figure 3 , for P A-PV view the 
+sample volume should place in fetal lung parenchyma near 
+the left atrium to demonstrate pulsed waves from the P A– 
+PV which are adjacent to each other in this area.
+19 
+This 
+interval is the time between onset atrial systole detected by 
+an interrupted flow of the pulmonary vein and the sharp 
+peak onset of pulmonary artery systole.
+19 
+The normal PR 
+interval in fetuses is 0.12 ± 0.02 second,
+20 
+and the cut-of f 
+of 0.15 s has been widely used to diagnose first-degree A V 
+block.
+21 
+However , some researchers have suggested using 
+a fetal kinetocardiogram to detect first-degree A V block 
+early .
+22 
+A ladder diagram-like fetal kinetocardiogram 
+needs high-frame-rate 2D velocity images and software 
+for analysis,
+23 
+so this test might be not feasible in many 
+centers.
+The development of CA VB sometimes does not follow 
+the normal disease progression and the duration of pro -
+gression can sometimes be unpredictable. From a recent 
+study , complete CA VB can be transition from normal sinus 
+rhythm within 24 hours.
+24 
+However , the PR Interval and 
+Dexamethasone Evaluation (PRIDE) study recommended 
+conducting intensive fetal cardiac scans for signs of car -
+diac damage, i.e., pericardial ef fusion, left ventricular 
+enlar gement or poor contraction, A V valve regur gitation 
+or hydrops fetalis including assessing the mechanical PR 
+interval from 16 to 24 weeks of gestation with a frequency 
+not less than one week interval.
+21 
+Another recommenda -
+tion from a lar ge observational study suggests PR interval 
+is a weak predictor for complete CA VB. However , weekly 
+cardiac scans between 18 to 24 weeks’ gestation are still 
+encouraged to aid timely detection of second-degree 
+CA VB or complete CA VB for early treatment and poten -
+tially positive outcomes.
+QT?
+Although ambulatory monitor -
+ing of the fetal heart sound in autoantibody-positive 
+Hansahiranwadee                                                                                                                                                    Dove press
+submit your manuscript | www .dovepre ss.com                                                                                                                                                                                                                    
+Dove Press                                                                                                                                   
+International Journal of W omen’ s Health 2020:12 
+634
+[[p3]]
+Figure 1 Pulsed wa ve Doppler image of mitral valve inflow–outflow view obtained fr om five-chamber view , time between atrial systole of mitral valve and onset of 
+ventricular systole re presents mechanical PR inter val.
+Figure 2 Pulsed wa ve Doppler image of superior vena ca va-aorta (SVC-Ao) obtained fr om sagittal plane, time between SVC atrial wa v e onset and the beginning of aortic 
+ejection flow repr esents mechanical PR inter val.
+Dove press                                                                                                                                                    Hansahiranwadee
+International Journal of W omen’ s Health 2020:12                                                                        
+submit yo ur manuscript | www .dovepre ss.com                                                                                                                                                                                                                       
+Dove Press                                                                                                                         
+635
+[[p4]]
+pregnancies can detect fetal arrhythmia and might improve 
+detection of fetal CA VB,
+26 
+this cannot totally replace 
+echocardiography because some early signs, such as endo -
+cardial fibroelastosis, poor ventricular function or first- 
+degree CA VB, can be missed.
+QT?
+Additionally , several stu -
+dies have reported classifying the risk of CA VB based on 
+the autoantibody level, with a high level (>50–100 U/mL) 
+representing increased risk.
+27 , 28
+Pr e v ention and T r eatment of CA VB
+Recent data from a small observational cohort suggests 
+hydroxychloroquine (HCQ) may prevent CA VB in fetus at 
+risk from antibody-positive pregnant women
+29 
+or recurrent 
+CA VB in pregnant women with previously af fected 
+child.
+30 
+But a prospective trial is needed to prove its 
+ef fects. HCQ inhibits toll-like receptor signaling (which 
+plays a critical role in the immune response), and it is 
+prescribed for pregnancies involving a high risk of CA VB. 
+For maternal advantages, the European League Against 
+Rheumatism (EULAR) recommended HCQ for controlling 
+disease activity and preventing flare-ups during pregnancy 
+in SLE patients.
+31
+T reatment of first-degree and second-degree A V block 
+is controversial. The ef fect of fluorinated steroid on 
+conversion from first-degree block to normal sinus rhythm 
+cannot be ascertained based on current data.
+21 
+In some 
+centers, the fluorinated steroid is used to normalize A V 
+conduction,
+22 , 32 
+improve myocardial performance and pre -
+vention of complete CA VB.
+33 
+A recent meta-analysis from 
+retrospective studies failed to demonstrate the benefit of 
+antenatal corticosteroid alone or combined with other 
+medication to second-degree A V block in terms of disease 
+progression, stable of disease at birth, postnatal 
+pacing,
+34 , 35 
+fetal survival,
+34 
+and neonatal survival.
+36 
+However , a fluorinated steroid is still encouraged until its 
+benefit cannot be proved by a reliable study .
+34
+The commonly used fluorinated steroid, dexametha -
+sone, reduces the maternal autoantibody load. It can be 
+administered orally or intravenously , and the regimen 
+involves tapering. The initial dose is 4–8 mg/day for 2–4 
+weeks then 2 mg/day until delivery .
+S?K?PQ?K?RV?
+Side ef fects in 
+the fetuses and the pregnant women are a major concern. 
+A lar ge randomized study showed that there was a higher 
+rate of cerebral palsy after prolonged use of 
+dexamethasone.
+38 
+Other fetal side ef fects include fetal 
+growth restriction and oligohydramnios, and maternal 
+side ef fects include hypertension, diabetes mellitus, mood 
+changes, and an increased risk of infection.
+RV?
+A lar ge 
+Figure 3 Pulsed wa v e Doppler image of pulmonar y arter y–pulmonar y v ein (P A–PV) view obtained fr om four -chamber view , mechanical PR inter val was measured betwee n 
+onset of pulmonary vein atrial wa v e and onset of pulmonar y arter y ejection flow .
+Hansahiranwadee                                                                                                                                                    Dove press
+submit your manuscript | www .dovepre ss.com                                                                                                                                                                                                                    
+Dove Press                                                                                                                                   
+International Journal of W omen’ s Health 2020:12 
+636
+[[p5]]
+randomized trial is needed to confirm the role of fluori -
+nated steroids regarding the modification of the natural 
+history of CA VB in uter o .
+In fetuses with complete CA VB and a heart rate <55 
+beats/min, β-sympathomimetic therapy combined with 
+dexamethasone increased fetal heart rate
+36 
+and reduced 
+the morbidity and mortality .
+39 
+T wo widely used β2 adre -
+nergic receptor agonists are oral salbutamol (10 mg every 
+8 h with a maximum dose of 30 mg/day) and terbutaline 
+(2.5–7.5 mg every 4–6 h with a maximum dose of 30 mg/ 
+day), which increase the fetal ventricular rate by approxi -
+mately 5–10 beats/min.
+32 
+Maternal side ef fects include 
+adrenergic nervous system stimulation, which can lead to 
+tremors, palpitations, and sweating. Several retrospective 
+studies demonstrated that a β2 adrenergic receptor agonist 
+plus a fluoridated steroid had a positive inotropic ef fect on 
+the fetal heart, reducing myocardial damage.
+33 , 39
+Efficacy to increase heart rate and prevent heart failure 
+of beta-sympathomimetic agents alone was documented in 
+many case reports.
+40 – 43 
+But data from other studies 
+demonstrated inconsistent and insignificant ef fects for rais -
+ing the fetal ventricular rate.
+39 , 44 
+Furthermore, there are no 
+studies demonstrating that the use of these medications can 
+modify the survival of the fetuses.
+IVIG and plasmapheresis aim to reduce the levels of 
+circulating maternal autoantibodies, in order to minimize 
+damage to the fetal heart. In a small non-randomized 
+study , IVIG (400 mg/kg every 3 weeks from 12–24 
+weeks of gestation) have been shown to have potential 
+roles in the prevention of the recurrence of CA VB among 
+pregnant women who have had a previous child with 
+CA VB.
+12 , 45 , 46 
+Plasmapheresis and IVIG combined with 
+a corticosteroid have been shown to revert second degree 
+A VB to first degree A VB and stabilize the progression of 
+complete A V block.
+47 , 48 
+This combination can be used for 
+treatment in fetuses with cardiomyopathy/endocardial 
+fibroelastosis with or without complete A V block.
+49 
+For 
+invasive procedure, percutaneous implantation of a cardiac 
+pacemaker was successfully placed in uter o in experimen -
+tal studies. Nevertheless, the procedure seriously jeopar -
+dized the fetus for intrauterine fetal demise.
+50 , 51
+Delive r y and Neonatal Outcomes of 
+CA VB
+Risk of intrauterine fetal demise is 22%
+36 
+and neonatal 
+mortality is 1 1–16%,
+39 , 52 
+which are significantly increased 
+due to CA VB. Infant death usually occurring in the first 3 
+months of life.
+53 
+CA VB neonates who survive after the 
+neonatal period have a good prognosis.
+4 
+Preterm CA VB 
+neonates have poorer outcomes than term CA VB neonates, 
+so preterm delivery should only be performed when there 
+are strong indications, such as non-reassuring fetal status 
+(NRFS), severe fetal growth restriction, or hydrops fetalis.
+Delivery is a critical period in pregnancies that are 
+complicated with CA VB (especially for mothers with 
+SLE) and these pregnancies require comprehensive mater -
+nal intrapartum management and fetal monitoring. In parti -
+cular , for fetuses with second-degree or complete CA VB, 
+monitoring the atrial heart rate and biophysical profile could 
+help to confirm the healthy status of the fetus during labor .
+Neonates with CA VB need specialized care by pediatric 
+cardiologists and neonatologists. Evaluation of the heart 
+rhythm and other signs of neonatal lupus are essential. 
+About three-quarters of neonates with complete A V block 
+required a pacemaker .
+14 
+The severity of CA VB can progress 
+after birth, so treatment is required in the neonatal period.
+54
+Conclusion
+The presence of anti-SSA/Ro or anti-SSB/La antibodies 
+during pregnancy carries a significant risk for the fetus, 
+and cases of CA VB require intensive antepartum, intrapar -
+tum, and neonatal management. T o minimize the morbid -
+ity and mortality , understanding the natural history of the 
+disease and knowing the current available therapeutic 
+options are important. Many studies on the prevention 
+and treatment of CA VB are being conducted. The knowl -
+edge in this field is continuously developing and contin -
+uous update is required.
+Disclosur e
+The author reports no conflicts of interest for this work.
+Refer ences
+PM?s?`?b??n??fM?`bnf?
+Practice Bulletin 106; Intrapartum fetal heart rate monitoring: nomen -
+clature, interpretation, and general management principles. Obstet 
+Gynecol . 2009 ;1 14(1):192–202. doi:10.1097/AOG.0b013e3181aef106
+2. Larmay HJ, Strasburger JF . Differential diagnosis and management of 
+the fetus and newborn with an irregular or abnormal heart rate. Pediatr 
+Clin North Am . 2004 ;51:1033–1050. doi:10.1016/j.pcl.2004.03.013
+3. Michaelsson M, Engle MA. Congenital complete heart block: an 
+international study of the natural history . Car diovasc Clin . 1972 ;4 
+(3):85–101.
+4. Hunter LE, Simpson JM. Atrioventricular block during fetal life. 
+J Saudi Heart Assoc . 2015 ;27:164–178. doi:10.1016/j.jsha.2014.07. 
+001
+5. Bordachar P , Whinnett Z, Ploux S, Labrousse L, Haissaguerre M, 
+Thambo JB. Congenital complete atrioventricular block. Heart 
+Rhythm . 2013 ;10:760–766. doi:10.1016/j.hrthm.2012.12.030
+Dove press                                                                                                                                                    Hansahiranwadee
+International Journal of W omen’ s Health 2020:12                                                                        
+submit yo ur manuscript | www .dovepre ss.com                                                                                                                                                                                                                       
+Dove Press                                                                                                                         
+637
+[[p6]]
+6. Salomonsson S, Sonesson SE, Ottosson L, et al. Ro/SSA 
+Autoantibodies directly bind cardiomyocytes, disturb calcium home -
+ostasis, and mediate congenital heart block. J Exp Med . 2005 ;201 
+(1):1 1–17. doi:10.1084/jem.20041859
+7. Sonesson SE, Salomonsson S, Jacobsson LA, Bremme K, W ahren- 
+Herlenius M. Signs of first-degree heart block occur in one-third of 
+fetuses of pregnant woman with anti-SSA/Ro 52-kd antibodies. 
+Arthritis Rheum . 2004 ;50(4):1253–1261. doi:10.1002/art.20126
+8. Spence D, Hornberger L, Hamilton R, Silverman ED. Increased risk 
+of complete congenital heart block infants born to woman with 
+hypothyroidism and anti-Ro and/or anti-La antibodies. J Rheumatol . 
+2006 ;33(1):167–170.
+9. Rozenblyum EV , Sukhdeo S, Jeaggi E, et al. Anti-Ro and Anti-La 
+antibodies in the general pregnant population [Abstract]. Arthritis 
+Rheum . 2014 ;66(10 supplement):802.
+10. Martínez-Sánchez N, Pérez-Pinto S, Robles-Marhuenda Á, et al. Obstetric 
+and perinatal outcome in anti-Ro/SSA-positive pregnant woman: 
+a prospective cohort study . Immunol Res . 2017 ;65:487–494. 
+doi:10.1007/s12026-016-8888-5
+P?PM?a?`K?b?qK?b?qK??M?o????
+with autoimmune diseases and Anti-Ro/SSA Antibodies. Clin Rev 
+Aller gy Immunol . 201 1 ;40:27–41. doi:10.1007/s12016-009-8190-6
+12. Carvalho JS. Fetal dysrhythmia. Best Pract Res Clin Obstet 
+Gynaecol . 2008 ;22:31–38. doi:10.1016/j.bpobgyn.2008.01.001
+13. Neild LE, Silverman ED, Smallhorn JF , et al. Endocardial fibroelas -
+tosis associated with maternal Anti-Lo and Anti-La antibodies in the 
+absence of atrioventricular block. J Am Coll Car diol . 
+2002 ;40:796–802. doi:10.1016/S0735-1097(02)02004-1
+14. Buyon JP , Hiebert R, Copel J, et al. Autoimmune-associated con -
+genital heart block: demographics, mortality , morbidity and recur -
+rence rates obtained from a national neonatal lupus registry . J Am 
+Coll Car diol . 1998 ;31:1658–1666. doi:10.1016/S0735-1097(98) 
+00161-2
+15. Donofrio MT , Moon-Grady- AJ, Hornberger LK, et al. Diagnosis and 
+treatment of fetal cardiac disease; a scientific statement from the 
+American Heart Association. Cir culation . 2014 ;129:2183–2242. 
+doi:10.1 161/01.cir .0000437597.44550.5d
+16. W ojakowski A, Izbizky G, Carcano ME, Aiello H, Marantz P , 
+Otano L. Fetal Doppler mechanical PR interval: correlation with 
+heart rate, gestational age and fetal sex. Ultrasound Obstet Gynecol . 
+2009 ;34:538–542. doi:10.1002/uog.7333
+17. Glickstein JS, Buyon J, Friedman D. Pulsed Doppler echocardio -
+graphic assessment of the fetal PR interval. Am J Car diol . 2000 ;86 
+(2):236–239. doi:10.1016/S0002-9149(00)00867-5
+18. Nii M, Hamilton RM, Fenwick L, Kingdom JCP , Roman KS, 
+Jaeggi ET . Assessment of fetal atrioventricular time intervals by 
+tissue Doppler and pulse Doppler echocardiography: normal values 
+and correlation with fetal electrocardiography . Heart . 2006 ;92 
+(12):1831–1837. doi:10.1 136/hrt.2006.093070
+19. DeV ore GR, Horenstein J. Simultaneous Doppler recording of the pul -
+monary artery and vein: a new technique for the evaluation of a fetal 
+arrhythmia. J Ultrasound Med . 1993 ;12:669–671. doi:10.7863/ 
+jum.1993.12.1 1.669
+20. Jeaggi ET , Nii M. Fetal brady- and tachyarrhythmias: new and 
+accepted diagnostic and treatment methods. Semin Fetal Neonatal 
+Med . 2005 ;10:504–514. doi:10.1016/j.siny .2005.08.003
+21. Friedman DM, Kim MY , Copel JA, et al. Utility of cardiac mon -
+itoring in fetuses at risk for congenital heart block: the PR interval 
+and dexamethasone evaluation (PRIDE) prospective study . 
+Cir culation . 2008 ;1 17:485–493. doi:10.1 161/CIRCULA TIONAHA. 
+107.707661
+22. Mevorach D, Elchalal U, Rein AJ. Prevention of complete heart 
+block in children of mothers with anti-SSA/Ro and anti-SSB/La 
+autoantibodies: detection and treatment of first-degree atrioventricu -
+lar block. Curr Opin Rheumatol . 2009 ;21:478–482. doi:10.1097/ 
+BOR.0b013e32832ed817
+23. Rein AJJT , O’Donnell C, Geva T , et al. Use of tissue velocity 
+imaging in the diagnosis of fetal cardiac arrhythmias. Cir culation . 
+2002 ;106:1827–1833. doi:10.1 161/01.CIR.0000031571.92807.CC
+24. Cuneo BF , Ambrose SE, T woretzky W . Detection and successful 
+treatment of emergent anti-SSA-mediated fetal atrioventricular 
+block. Am J Obstet Gynecol . 2016 ;215(4):527–528. doi:10.1016/j. 
+ajog.2016.07.002
+25. Sonesson SE, Ambrosi A, W ahren-Herlenius M. Benefits of fetal echo -
+cardiographic surveillance in pregnancies at risk of congenital heart 
+block: single-center study of 212 anti-Ro52-positive pregnancies. 
+Ultrasound Obstet Gynecol . 2019 ;54:87–95. doi:10.1002/uog.20214
+26. Cuneo BF , Moon-Grady AJ, Sonesson SE, et al. Heart sounds at 
+home: feasibility of an ambulatory fetal heart rhythm surveillance 
+program for anti-SSA-positive pregnancies. J Perinatol . 
+2017 ;37:226–230. doi:10.1038/jp.2016.220
+27. Jaeggi E, Laskin C, Hamilton R, Kingdom J, Silverman E. The 
+importance of the level of maternal anti-Ro/SSA antibodies as 
+a prognostic marker of the development of cardiac neonatal lupus 
+erythematosus: a prospective study of 186 antibody-exposed fetuses 
+and infants. J Am Coll Car diol . 2010 ;55:2778–2784. doi:10.1016/j. 
+jacc.2010.02.042
+28. Kan N, Silverman ED, Kingdom J, Dutil N, Laskin C, Jeaggi E. 
+Serial echocardiography for immune-mediated heart disease in the 
+fetus: results of a risk-based prospective surveillance strategy . Pr enat 
+Diagn . 2017 ;37:375–382. doi:10.1002/pd.5021
+29. T unks RD, Clowse MEB, Miller SG, Brancazio LR, Barker PCA. 
+Maternal autoantibody levels in congenital heart block and potential 
+prophylaxis with anti-inflammatory agents. Am J Obstet Gynecol . 
+2013 ;208(1):64.e1–e7. doi:10.1016/j.ajog.2012.09.020
+30. Izmirly PM, Costedoat-Chalumeau N, Pisoni CN, et al. Maternal use of 
+hydroxychloroquine is associated with a reduced risk of recurrent 
+anti-SSA/Ro-antibody-associated cardiac manifestations of neonatal 
+lupus. Cir culation . 2012 ;126:76–82. doi:10.1 161/CIRCULA TIONAHA. 
+1 1 1.089268
+31. Andreoli L, Bertsias GK, Agmon-Levin N, et al. EULAR recommen -
+dations for women’ s health and the management of family planning, 
+assisted reproduction, pregnancy and menopause in patients with sys -
+temic lupus erythematosus and/or antiphospholipid syndrome. Ann 
+Rheum Dis . 2017 ;76:476–485. doi:10.1 136/annrheumdis-2016-209770
+32. Jaeggi ET , Silverman ED, Laskin C, Kingdom J, Golding F , W eber R. 
+Prolongation of the atrioventricular conduction in fetuses exposed to 
+maternal anti-Ro/SSA and anti-La/SSB antibodies did not predict 
+progressive heart block. A prospective observational study on the 
+effe cts of maternal antibodies on 165 fetuses. J Am Coll Car diol . 
+201 1 ;57:1487–1492. doi:10.1016/j.jacc.2010.12.014
+33. Saleeb S, Copel J, Friedman D, Buyon JP . Comparison of treatment 
+with fluorinated glucocorticoids to the natural history of 
+autoantibody-associated congenital heart block. Arthritis Rheum . 
+1999 ;42:2335–2345. doi:10.1002/1529-0131(19991 1)42:1 1<2335:: 
+AID-ANR12>3.0.CO;2-3
+34. Ciardulli A, D’Antonio F , Magro-Malosso ER, et al. Maternal steroid 
+therapy for fetuses with second-degree immune-mediated congenital 
+atrioventricular block: a systematic review and meta-analysis. Acta 
+Obstet Gynecol Scand . 2018 ;97:787–794. doi:10.1 1 1 1/aogs.13338
+35. Michael A, Radwan AA, Ali AK, et al. Use of antenatal fluorinated 
+corticosteroids in management of congenital heart block: systematic 
+review and meta-analysis. Eur J Obstet Gynecol Repr od Biol X . 
+2019 ;16(4):100072. doi:10.1016/j.eurox.2019.100072
+36. Eliasson H, Sonesson S, Sharland G, et al. Isolated atrioventricular 
+block in the fetus: a retrospective, multinational, multicenter study of 
+175 patients. Cir culation . 201 1 ;124(18):1919–1926. doi:10.1 161/ 
+CIRCULA TIONAHA.1 1 1.041970
+37. Hutter D, Silverman ED, Jaeggi ET . The benefits of transplacental 
+treatment of isolated congenital complete heart block associated with 
+maternal anti-Ro/SSA antibodies: a review . Scand J Immunol . 
+2010 ;72:235–241. doi:10.1 1 1 1/j.1365-3083.2010.02440.x
+Hansahiranwadee                                                                                                                                                    Dove press
+submit your manuscript | www .dovepre ss.com                                                                                                                                                                                                                    
+Dove Press                                                                                                                                   
+International Journal of W omen’ s Health 2020:12 
+638
+[[p7]]
+38. W apner RJ, Sorokin Y , Mele L, et al. Long-term outcomes after 
+repeat doses of antenatal corticosteroids. N Eng J Med . 
+2007 ;357:1 190–1 198. doi:10.1056/NEJMoa071453
+39. Jaeggi ET , Fouron JC, Silverman ED, R yan G, Smallhorn J, 
+Hornberger LK. T ransplacental fetal treatment improves the outcome 
+of prenatally diagnosed complete atrioventricular block without 
+structural heart disease. Cir culation . 2004 ;1 10:1542–1548. 
+doi:10.1 161/01.CIR.0000142046.58632.3A
+40. Y oshida H, Iwamoto M, Sakakibara H, Shigeta H, Hirahara F , Sata K. 
+T reatment of fetal congenital complete heart block with maternal 
+administration of beta-sympathomimetics (terbutaline). Gynecol 
+Obstet Invest . 2001 ;52:142–144. doi:10.1 159/000052960
+41. Matsushita H, Higashino M, Sekizuka N, Kurabayashi T , 
+T akakuwa K, T anaka K. Successful prenatal treatment if congenital 
+heart block with ritodrine administered transplacentally . Ar ch 
+Gynecol Obstet . 2002 ;267:51–53. doi:10.1007/s004040100241
+42. Groves AMM, Allan LD, Rosenthal E. Therapeutic trial of sympatho -
+mimetics in three cases of complete heart block in the fetus. 
+Cir culation . 1995 ;92:3394–3396. doi:10.1 161/01.CIR.92.12.3394
+43. Chan A Y , Silverman RK, Smith FC, Geifman-Holtzman O. In utero 
+treatment of fetal complete heart block with terbutaline. A case 
+report. J Repr od Med . 1999 ;44(4):385–387.
+44. Robinson BV , Ettedgui JA, Sherman FS. Use of terbutaline in the 
+treatment of complete heart block in the fetus. Car diol Y oung . 
+2001 ;1 1(6):683–686. doi:10.1017/S1047951 101001 123
+45. David AL, Ataullah I, Y ates R, Sullivan I, Charles P , W illiam D. 
+Congenital fetal heart block. A potential therapeutic role for intrave -
+nous immunoglobulin. Obstet Gynecol . 2010 ;1 16:543–547. 
+doi:10.1097/AOG.0b013e3181e75a4a
+46. Friedman DM, Llanos C, Izmirly P , et al. Evaluation of fetuses in 
+a study of intravenous immunoglobulin as preventive therapy for 
+congenital heart block. Arthritis Rheum . 2010 ;62:1 138–1 146. 
+doi:10.1002/art.27308
+47. Ruffa tti A, Milanesi O, Chiandetti L, et al. A combination therapy to 
+treat second-degree anti-Ro/La-related congenital heart block. 
+A strategy to avoid stable third-degree heart block? Lupus . 
+2012 ;21:666–671.
+48. Ruffa tti A, Cerutti A, Favaro M, et al. Plasmapheresis, intravenous 
+immunoglobulins and bethametasone – a combined protocol to treat 
+autoimmune congenital heart block: a prospective cohort study . Clin 
+Exp Rheumatol . 2016 ;34(4):706–713.
+49. T rucco SM, Jaeggi E, Cuneo B, et al. Use of intravenous gamma 
+globulin and corticosteroids in the treatment of maternal 
+autoantibody-mediated cardiomyopathy . J Am Coll Car diol . 
+201 1 ;57:715–723. doi:10.1016/j.jacc.2010.09.044
+50. Assad RS, Zielinsky P , Kalil R, et al. New electrode for pacing 
+fetuses with complete heart block. Rev Bras Cir Car diovasc . 
+2003 ;18(1):40–44. doi:10.1590/S0102-76382003000100009
+51. W alkinshaw SA, W elch CR, McCormack J, W alsh K. In utero pacing 
+for fetal congenital heart block. Fetal Diagn Ther . 1994 ;9:183–185. 
+doi:10.1 159/000263929
+52. Schmidt KG, Ulmer HE, Silverman NH, Kleinman CS, Copel JA. 
+Perinatal outcome of fetal complete atrioventricular block: 
+a multicenter experience. J Am Coll Car diol . 1991 ;17:1360–1366. 
+doi:10.1016/S0735-1097(10)80148-2
+53. W altuck J, Buyon J. Autoantibody-associated congenital heart block: 
+outcome in mothers and children. Ann Intern Med . 
+1994 ;120:544–551. doi:10.7326/0003-4819-120-7-199404010-00003
+54. Kuleva M, Le Bidois J, Decaudin A, et al. Clinical course and out -
+come of antenatally detected atrioventricular block: experience of 
+a single tertiary centre and review of the literature. Pr enat Diagn . 
+2015 ;35:354–361. doi:10.1002/pd.4547
+International Journal of Women’s Health                                                                                          Dove press 
+Publish y our w ork in this journal 
+The International Journal of W omen’ s Health is an international, peer- 
+reviewed open-access journal publishing original research, reports, 
+editorials, reviews and commentaries on all aspects of women’ s 
+healthcare including gynecology , obstetrics, and breast cancer . The 
+manuscript management system is completely online and includes a 
+very quick and fair peer-review system, which is all easy to use. 
+V isit http://www .dovepress.com/testimonials.php to read real quotes 
+from published authors.  
+Submit you r manuscript here: https://www .dovepre ss.com/international-journal-of-womens-health-journal
+Dove press                                                                                                                                                    Hansahiranwadee
+International Journal of W omen’ s Health 2020:12                                                                        
+submit yo ur manuscript | www .dovepre ss.com                                                                                                                                                                                                                       
+Dove Press                                                                                                                         
+639

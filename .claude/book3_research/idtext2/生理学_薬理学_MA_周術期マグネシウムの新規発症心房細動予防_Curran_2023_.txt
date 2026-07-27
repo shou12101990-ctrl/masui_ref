@@ -1,0 +1,722 @@
+
+[[p1]]
+RESEA RCH ARTICL E
+Magnesium prophylaxis of new-onset
+atrial fibrillation: A systematic review and
+meta-analysis
+Jeffrey Curran
+1
+, Amanda Ross-White
+2
+, Stephanie Sibley
+ID
+1
+*
+1 Department of Critical Care Medicine, Queen’s University , Kingston, Canada, 2 Bracken Health Sciences
+Library, Queen’s University, Kingston , Canada
+* stephanie .sibley@ kingstonhsc. ca
+Abstract
+Purpose
+Atrial fibrillation (AF) is the most common cardiac arrhythmia in intensive care units (ICU)
+and is associated with increased morbidity and mortality. Magnesium prophylaxis has been
+shown to reduce incidence of AF in cardiac surgery patients, however, evidence outside this
+population is limited. The objective of this study is to summarize studies examining magne-
+sium versus placebo in the prevention of NOAF outside the setting of cardiac surgery.
+Source
+We performed a comprehensive search of MEDLINE, EMBASE, and Cochrane Library
+(CENTRAL) from inception until January 3
+rd
+, 2023. We included all intervention al research
+studies that compared magnesium to placebo and excluded case reports and post cardiac
+surgery patients. We conducted meta-analysis using the inverse variance method with ran-
+dom effects modelling.
+Principal findings
+Of the 1493 studies imported for screening, 87 full texts were assessed for eligibility and six
+citations, representing five randomized controlled trials (n = 4713), were included in the
+review, with four studies (n = 4654) included in the pooled analysis. Administration of mag-
+nesium did not significantly reduce the incidence of NOAF compared to placebo (OR 0.72,
+[95% CI 0.48 to 1.09]).
+Conclusion
+Use of magnesium did not reduce the incidence of NOAF, however these studies represent
+diverse groups and are hindered by significant bias. Further studies are necessary to deter-
+mine if there is benefit to magnesium prophylaxis for NOAF in non-cardiac surgery patients.
+PLOS ONE
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 1 / 12
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: Curran J, Ross-Wh ite A, Sibley S (2023)
+Magnesiu m prophylaxi s of new-onse t
+atrial fibrillation : A systematic review and meta-
+analysis. PLoS ONE 18(10): e0292974. https://doi.
+org/10.1371 /journal.pone. 0292974
+Editor: Ramzi Ibrahim, University of Arizona
+Medical Center - University Campus: Banner
+University Medica l Center Tucson, UNITED
+STATES
+Received: June 26, 2023
+Accepted: October 3, 2023
+Published: October 26, 2023
+Copyright: © 2023 Curran et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricte d use, distribu tion, and
+reproduction in any medium, provided the original
+author and source are credited.
+Data Availabilit y Statement: All relevant data are
+within the manuscript and its Support ing
+information files.
+Funding: The authors received no specific funding
+for this work.
+Competing interests : The authors have declared
+that no competing interests exist.
+[[p2]]
+Introduction
+New-onset atrial fibrillation (NOAF) is the most common arrhythmia in critically ill patients
+with a reported incidence of 20% [1, 2]. It is commonly described in patients with sepsis [3–6]
+but is seen in a variety of illnesses such as acute respiratory distress syndrome [7], non-cardiac
+thoracic surgery [8–10], and trauma [11, 12]. NOAF may result in hemodynamic instability,
+and is often difficult to resolve while critical illness is ongoing [13]. Development of NOAF is
+associated with elevated risk of in-hospital ischemic stroke [14, 15], and mortality [16]. Eigh-
+teen percent of NOAF patients who survive to ICU discharge have ongoing atrial fibrillation
+(AF) [17]. Of the patients who develop NOAF but convert to normal sinus rhythm (NSR)
+before ICU discharge, a significant number will develop recurrent AF and have elevated risk of
+ischemic stroke, heart failure, and death within five years [18].
+Prophylaxis of NOAF in the ICU has potential to improve patient outcomes with decreased
+hemodynamic instability, exposure to medications with potential side effects, uncomfortable
+electrical cardioversion attempts, decreased risk of stroke, heart failure and mortality, and
+cost-savings [19]. Few prophylactic interventions for NOAF have been studied in a critical
+care population, with two small observational studies in ICU patients suggesting that hydro-
+cortisone use was associated with a decreased risk of developing NOAF in the acute phase of
+critical illness [20, 21], and one study comparing liberal versus restrictive magnesium supple-
+mentation for prevention of atrial fibrillation [22]. This is in contrast to cardiac surgery popu-
+lations, where pharmacologic and surgical prophylaxis against NOAF has been well studied
+and has been successful in reducing the incidence of AF, as well as postoperative morbidity
+and mortality [23]. One preventative approach in cardiac surgery patients is the use of magne-
+sium sulphate, and several meta-analyses have shown reduced rates of AF with this interven-
+tion [24–31].
+Critically ill patients have many risk factors for the development of NOAF including a high
+prevalence of hypomagnesemia [32, 33], heightened inflammatory state [34, 35], and frequent
+use of vasoactive medications [36, 37]. Despite the potential benefit of magnesium prophylaxis
+in critically ill patients due to its anti-arrhythmogenic [38] and anti-inflammatory [39, 40]
+properties, magnesium prophylaxis of NOAF in populations outside of cardiac surgery has not
+been adequately studied. Due to the lack of evidence to guide practice on the use of magnesium
+in a general critical care population, we performed a systematic review and meta-analysis to
+determine if there was a benefit for the use of magnesium therapy for the prophylaxis of
+NOAF in any patients outside the cardiac surgery population, including subgroups that may
+be found in a medical/surgical ICU to inform practice in this population.
+Methods
+This systematic review is reported in accordance with the PRISMA guidelines [41] and was
+registered with PROSPERO (ID: CRD42021273482; submitted: August 13, 2021; registered:
+September 13, 2021). PRISMA checklist can be found in the supporting information (S1
+Checklist).
+Search strategy and selection process
+We searched the following electronic databases separately on the Ovid platform: MEDLINE,
+EMBASE, and Cochrane Library (CENTRAL) from inception until January 3, 2023. We lim-
+ited the search to non-animal studies, non-child studies and English language only. We
+checked the reference lists of review articles to identify other relevant studies. The search strat-
+egy was developed in collaboration with a Health Information Specialist using Medical Subject
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 2 / 12
+[[p3]]
+Heading (MeSH) terms and keywords related to magnesium supplementation and atrial fibril-
+lation. The full search strategy is available in the supporting information (S1 Appendix).
+We included all research studies that compared magnesium to placebo for the prevention
+of atrial fibrillation, excluding case reports. Studies of cardiac surgery patients were excluded.
+We included the following outcomes of interest: incidence of new onset atrial fibrillation and
+rate of premature atrial contractions.
+We used Covidence online platform (www.covidence.org) for screening. We combined
+search results from all sources and removed duplicates using the Covidence algorithm. Screen-
+ing was performed in duplicate by two reviewers (J.D.C. and S.S.) using a two-stage screening
+approach: title and abstract screening then full-text review. Any potentially eligible citation
+identified by either reviewer was advanced to stage two. The same reviewers evaluated full
+texts with disagreements resolved through consensus.
+Data collection, risk of bias, and certainty assessment
+Data was extracted using Covidence online platform that included author, date, population
+characteristics, interventions, and outcomes of interest. Risk of bias (ROB) for included studies
+was assessed using the Cochrane ROB Tool. Two reviewers (J.D.C. and S.S.) extracted data
+and assessed ROB independently and in parallel with disagreements resolved by discussion
+and consensus.
+We assessed overall certainty of evidence using Grading of Recommendations, Assessment,
+Development and Evaluations (GRADE) methodology [42].
+Data analysis
+Meta-analysis was conducted using the inverse variance method with random effects model-
+ling. All analyses were performed using the RevMan 5.4 software (www.revman.cochrane.org).
+We present effect measures as odds ratios (OR) with associated 95% confidence intervals (CI).
+We assessed heterogeneity using the chi-square test, the I
+2
+statistic. The limited number of
+studies that met inclusion criteria precluded pre-planned subgroup analysis on dose and route
+of magnesium administration and critically ill patients.
+Results
+Search strategy and study characteristics
+A total of 1493 studies were imported for screening with 1110 studies screened after duplicates
+removed. Eighty-seven full-text studies were assessed for eligibility, with six citations repre-
+senting five randomized controlled trials (RCTs) (n = 4713) included in the review as shown
+in Fig 1 [43–48]. Four studies (n = 4654) were included in the pooled analysis. The dose and
+form of magnesium administered varied between studies, as well as the duration of cardiac
+monitoring (Table 1).
+Risk of bias (ROB) was judged to be high in three studies stemming from a lack of blinding
+and use of historical controls (Khalil 2013, Terzi 1996) and selective reporting (Roffe 1994).
+ROB of included studies is shown in Table 2.
+Pooled analysis
+Administration of magnesium compared to placebo did not have a statistically significant
+effect on incidence of NOAF compared to placebo (OR 0.72, 95% CI 0.48 to 1.09). Forest
+plot of ORs shown in Fig 2. The included studies had substantial heterogeneity (I
+2
+= 66%).
+A leave-one-out sensitivity analysis was performed and demonstrated the thoracic surgery
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 3 / 12
+[[p4]]
+studies contributed the greatest positive effect of magnesium supplementation, however the
+result remained statistically insignificant regardless of which study was removed (S1
+Table).
+Overall certainty of evidence was judged to be very low stemming from concerns related to
+risk of bias and sparsity of trials that examined outcomes of interest and indirectness to our
+population of interest. (S2 Table).
+One study of oral magnesium in healthy volunteers [48] was not included in the pooled
+analysis as they examined premature atrial contractions which could not be directly compared
+to incidence of new atrial fibrillation. In this study there was no difference in change in log
+premature atrial contraction burden among participants.
+Fig 1. PRISMA flow chart.
+https://d oi.org/10.1371/j ournal.pon e.0292974.g0 01
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 4 / 12
+[[p5]]
+Table 1. Character istics of included studies .
+Author/
+Year
+Country Population Number of
+participants
+Mean age N Male (%) Intervention Additional
+Interventions
+Duration of cardiac
+monitoring/ICU
+admission
+Methods of monitoring Primary
+Outcome
+Mg Placebo Mg Placebo Mg Placebo
+Roffe
+1994
+United
+Kingdom
+Acute
+myocardial
+infarction
+1159 1157 61.4 62.2 855
+(74%)
+846
+(73%)
+8 mmol magnesium
+sulphate over five
+minutes + 65 mmol
+over 24 hours vs
+equal volumes of
+saline
+While admitted to
+the coronary care
+unit (48 hours on
+average)
+Continuous ECG
+monitoring or 24-hour
+Holter monitor
+Frequency of
+cardiac
+arrhythmias
+Terzi
+1996
+Italy Post-thoracic
+surgery
+95 105 65 63 Not
+reported
+Not
+reported
+2 g (16mEq)
+magnesium
+sulphate bolus
+infusion at
+thoracotomy + 2 g
+after 6 hours vs no
+treatment
+Control patients
+received Digoxin
+(0.5mg) on day of
+surgery if age > 70 years
+or undergoing
+pneumonectomy or
+intrapericardial
+procedure
+Not reported Continuous ECG
+monitoring for at least 24
+hours and usually 48 hours
+after pneumonectomy, 12-
+lead electrocardiogram on
+POD 1 and 2, thereafter on
+clinical suspicion of
+dysrhythmia
+Development of
+atrial tachy-
+arrhythmias
+Khalil
+2013
+Egypt Patients
+undergoing
+lobectomy
+219 219
+(Historical
+controls)
+64.2 63.7 154
+(70%)
+149
+(68%)
+80 mg/kg
+magnesium
+sulphate bolus
+preoperatively
+followed by 8 mg/
+kg/hr x 48 hours vs
+no treatment
+All hypertensive patients
+were on preoperative
+selective beta-blockers
+and/or calcium channel
+blocker treatment
+ICU admission post-
+operatively
+Continuous ECG
+monitoring while in ICU,
+daily 12- lead
+electrocardiogram;
+additional 12-lead
+electrocardiogram with
+palpitations or irregular
+pulse
+Development of
+atrial fibrillation
+Saver
+2015
+(Bechler
+2020)
+United
+States
+Acute stroke 857 843 69 69 499
+(58%)
+476
+(56.5)
+4 g magnesium
+sulphate bolus pre-
+hospital followed by
+infusion of 16 g
+over 24 hours
+Not reported Heart rate recorded every 4
+hours for the first 24 hours,
+then every 8 hours for the
+second 24 hours
+Disability at 3
+months by
+Rankin Score
+Cardiac adverse
+events
+Lutsey
+2018
+United
+States
+Healthy
+volunteers
+aged 55 or
+older
+29 30 61.3 61.6 16 (27.1) 4 (13.8) 400 mg of
+magnesium oxide
+or placebo orally
+Zio Patch for 2-
+weeks pre-
+randomization, then
+for 2-weeks
+10-weeks after
+completing the study
+drug
+Zio Patch (iRhythm
+Technologies Inc, San
+Francisco, USA)
+Feasibility
+metrics;
+Premature atrial
+contraction
+burden
+https://doi.org/10 .1371/journal.p one.0292974. t001
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 5 / 12
+[[p6]]
+Discussion
+This systematic review and meta-analysis found that administration of magnesium did not
+result in a statistically significant reduction in the incidence of NOAF compared to placebo in
+non-cardiac surgery patients. The certainty of the results was judged to be very low due to high
+risk of bias and heterogeneity in the patient populations, interventions, and detection of
+NOAF in the included studies.
+These findings are in contrast with several cardiac surgery meta-analyses which have dem-
+onstrated a reduction in the incidence of post-operative atrial fibrillation (AF) and decreased
+morbidity and mortality [24–31] with magnesium administration. Fairley et al reported a
+reduction in post-operative AF (RR 0.69, [95% CI 0.56–0.86]), with an even greater effect
+when the magnesium was given post-operatively and for longer than 24 hours (RR 0.51, [95%
+CI 0.34–0.77) [49]. However, uncertainty remains due to the significant methodological het-
+erogeneity of studies included in these analyses. A meta-analysis performed by Cook et al
+restricted included studies to five double-blind, intention to treat studies where AF was the pri-
+mary outcome. Heterogeneity was not significant, and no difference in rates of post-operative
+AF were seen (OR 0.94, p = 0.77) [50]. Similarly, Chaudhary et al did not show a difference in
+the overall rates of post-operative AF, however a subgroup analysis showed a significant reduc-
+tion if the magnesium supplementation was given post-operatively (RR 0.76; [95% CI 0.58–
+0.99]) [51]. The variability in these results demonstrates the importance of dose, timing, and
+duration of administration of magnesium supplementation [51].
+Fig 2. Forest plot of magnesi um vs placebo in the prevention of atrial fibrillat ion.
+https://d oi.org/10.1371 /journal.pone. 0292974.g002
+Table 2. Risk of bias summa ry using Cochrane risk of bias tool.
+First
+author,
+year
+Sequence
+Generatio n
+Allocatio n
+concealm ent
+Blinding of
+outcome
+assessors
+Blinding of
+participant s
+and personnel
+Incomp lete
+outcome data
+Selective
+outcome
+reporting
+Other
+sources of
+bias
+Roffe,
+1994
+? + + + + - -
+Terzi,
+1996
+? ? - - + + +
+Khalil,
+2013
++ + - - + + -
+Lutsey,
+2018
++ + + + + + +
+Saver,
+2015
++ + + + + + +
+Symbols represent high (-), unclear (?), or low (+) risk of bias.
+https://d oi.org/10.1371/j ournal.pon e.0292974.t00 2
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 6 / 12
+[[p7]]
+Cardiac surgery patients differ from patients in a general medical/surgical ICU as they have
+higher rates of post-operative AF [31] and increased risk of arrhythmia from special anatomi-
+cal and electrophysiologica l characteristics such as development of ectopic foci in the pulmo-
+nary veins, inflammation adjacent to surgical margins, and direct trauma to the atrial and
+pleural surfaces [52, 53]. However, they share characteristics with critically ill patients such as
+increased inflammation [54] and oxidative stress [55], and this heightened inflammatory state
+has been proposed to be an important driver of NOAF [34, 35]. Direct cardiac effects can be
+noted early after exposure to inflammatory cytokines, with structural and electrical changes
+due to alterations in ion channels and gap-junction forming connexins [56]. Several cytokines
+have been implicated in this process, including tumor necrosis factor (TNF), IL-1, and IL-6,
+which can rapidly induce reversible atrial electrical remodeling [40]. Additionally, a recent
+study has demonstrated a genetic susceptibility for the development of NOAF in critical illness
+associated with genes that influence expression of antioxidant proteins. These variations could
+affect myocardial capacity to maintain homeostasis during times of oxidative stress often seen
+in critical illness [57].
+The prevention of NOAF in critically ill patients has the potential to improve patient-cen-
+tred outcomes such as stroke and mortality and reduce utilization costs associated with pro-
+longed ICU and hospital stays [19]. Several pharmacologic and surgical interventions for the
+prophylaxis of NOAF have been studied in surgical settings, demonstrating effective preven-
+tion of NOAF [23, 58]. Though drugs such as beta-blockers, amiodarone and calcium channel
+blockers have been effective in post-operative patients for prophylaxis of atrial arrhythmias,
+they carry significant potential harm as prophylactic agents and have been associated with sig-
+nificant hypotension and increased all-cause mortality [59]. Many patients in the ICU experi-
+ence circulatory shock and require vasoactive agents, limiting the use of beta-blockers and
+calcium channel blockers for NOAF. Anti-inflammatory medications such as hydrocortisone
+have been associated with a decreased risk of developing NOAF [20, 21], but may contribute
+to hyperglycemia, hypernatremia and fluid retention, immunosuppression, psychiatric side-
+effects and ICU-acquired weakness and must be administered judiciously, limiting use as pro-
+phylaxis for NOAF [60].
+Magnesium supplementation is an inexpensive intervention with a favorable safety profile
+[49]. The anti-arrhythmogeni c effects of magnesium are believed to be mediated through sev-
+eral mechanisms. Parenteral magnesium can correct an altered homeostasis due to Mg defi-
+ciency [61–63]. Magnesium can raise the threshold for electrical excitation in myocardial cells,
+slowing atrioventricular conduction, and increasing sinus node recovery times [38], particu-
+larly in the setting of use of vasoactive medications. Magnesium may reduce inflammatory
+markers [39], specifically IL-6, which is uniquely associated with atrial electrical remodeling
+[40]. It has shown promise in preventing the development of NOAF. In a network meta-analy-
+sis among post general thoracic surgery patients, magnesium therapy was effective in preven-
+tion of post-operative atrial fibrillation (OR 0.35; 0.16 to 0.74 95% CI) compared to placebo/
+usual care with no obvious side effects [58]. Wilson et al performed an instrument variable
+analysis using the supplementation preference of bedside critical care nurses, and showed lib-
+eral magnesium supplementation was associated with a 3% decreased relative risk of
+experiencing an AF event when compared to restrictive supplementation [22].
+This study has several limitations. A small number of studies were included, and we found
+no studies in general critically ill patients. However, studies included in this analysis represent
+subsets of patients who may overlap with patients found in medical/surgical ICUs. Several of
+the included studies had small sample sizes and were judged to have a high risk of bias due to a
+lack of blinding and selective reporting. There was significant heterogeneity in outcomes, likely
+due to differing patient populations, dosing and timing of magnesium sulphate, and
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 7 / 12
+[[p8]]
+monitoring. It is important to note the two largest studies included in the meta-analysis
+(Saver/Bechler and Roffe) [44] were secondary analysis of the FAST-MAG and LIMIT-2 [64]
+trial, whose primary outcomes were not development of atrial fibrillation. These studies were
+unclear about the duration of cardiac monitoring and how the diagnosis of atrial fibrillation
+was made retrospectively, which may have resulted in missed episodes of atrial fibrillation.
+Conclusion
+This systematic review and meta-analysis did not demonstrate a difference in the incidence of
+NOAF in non-cardiac surgery patients treated with magnesium supplementation compared to
+placebo. Given the heterogeneity within the included studies and high risk of bias this estimate
+is uncertain. There were no studies comparing magnesium to placebo in a general ICU popu-
+lation to guide use in that group, and a randomized control study is warranted to determine if
+prophylaxis with parenteral magnesium would be of benefit in that population for the preven-
+tion of NOAF.
+Supporting information
+S1 Checklist. PRISMA checklist.
+(PDF)
+S1 Appendix. Search strategy.
+(DOC)
+S1 Table. Leave one out analysis.
+(DOCX)
+S2 Table. GRADE evidence summary.
+(DOCX)
+S1 Graphical abstract.
+(PPTX)
+Author Contributions
+Conceptualization: Stephanie Sibley.
+Data curation: Jeffrey Curran, Amanda Ross-White, Stephanie Sibley.
+Formal analysis: Jeffrey Curran, Stephanie Sibley.
+Methodology: Amanda Ross-White, Stephanie Sibley.
+Writing – original draft: Jeffrey Curran, Stephanie Sibley.
+Writing – review & editing: Jeffrey Curran, Amanda Ross-White, Stephanie Sibley.
+References
+1. Wetterslev M, Haase N, Hassager C, Belley-Cote EP, McIntyr e WF, An Y, et al: New-onset atrial fibrilla-
+tion in adult critically ill patients: a scoping review. Intensiv e Care Med 2019, 45(7):928– 938. https://doi.
+org/10.1007/ s00134-019- 05633-x PMID: 31089761
+2. McIntyre WF, Belley-Co te EP, Vadakken ME, Rai AS, Lengyel AP, Rochwer g B, et al: High-Sen sitivity
+Estimate of the Incidence of New-Onset Atrial Fibrillation in Critically Ill Patients. Crit Care Explor 2021,
+3(1):e0311 . https://doi. org/10.1097/C CE.00000 00000000311 PMID: 334586 80
+3. Salman S, Bajwa A, Gajic O, Afessa B: Paroxysmal atrial fibrillation in critically ill patients with sepsis. J
+Intensive Care Med 2008, 23(3):178– 183. https://doi.or g/10.1177/ 08850666083 15838 PMID:
+18443011
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 8 / 12
+[[p9]]
+4. Aibar J, Schulman S: New-Onset Atrial Fibrillation in Sepsis: A Narrative Review. Semin Thromb
+Hemost 2021, 47(1):18–2 5. https://doi.o rg/10.1055/s-0 040-171440 0 PMID: 32968991
+5. Xiao FP, Chen MY, Wang L, He H, Jia ZQ, Kuai L, et al: Outcomes of new-onset atrial fibrillation in
+patients with sepsis : A systematic review and meta-analy sis of 225,841 patients. Am J Emerg Med
+2021, 42:23–3 0. https://doi.or g/10.101 6/j.ajem.20 20.12.062 PMID: 334291 88
+6. Meierhenric h R, Steinhilber E, Eggerm ann C, Weiss M, Voglic S, Bogelein D, et al: Incidence and prog-
+nostic impact of new-onset atrial fibrillation in patients with septic shock: a prospectiv e observation al
+study. Crit Care 2010, 14(3):R1 08. https://doi.or g/10.118 6/cc9057 PMID: 20537138
+7. Ambrus DB, Benjam in EJ, Bajwa EK, Hibbert KA, Walkey AJ: Risk factors and outcomes associ ated
+with new-onset atrial fibrillation during acute respiratory distress syndrome. J Crit Care 2015, 30
+(5):994–99 7. https://do i.org/10.1016 /j.jcrc.2015 .06.003 PMID: 26138630
+8. Passman RS, Gingold DS, Amar D, Lloyd-Jon es D, Bennett CL, Zhang H, et al: Prediction rule for atrial
+fibrillation after major noncard iac thoracic surgery. Ann Thorac Surg 2005, 79(5):1698 –1703. https://
+doi.org/10.10 16/j.athoracs ur.2004.10.05 8 PMID: 15854958
+9. Christians KK, Wu B, Quebbeman EJ, Brasel KJ: Postoper ative atrial fibrillation in noncardiothor acic
+surgical patients. Am J Surg 2001, 182(6):713 –715. https://doi.or g/10.1016/s 0002-9610( 01)00799- 1
+PMID: 118393 44
+10. Smith H, Yeung C, Gowing S, Sadek M, Maziak D, Gilbert S, et al: A review and analysis of strategie s
+for prediction, preventi on and managemen t of post-operative atrial fibrillation after non-car diac thoracic
+surgery. J Thorac Dis 2018, 10(Suppl 32):S37 99–S3808. https://doi.or g/10.210 37/jtd.2018.0 9.144
+PMID: 305055 67
+11. Seguin P, Laviolle B, Maurice A, Leclercq C, Malleda nt Y: Atrial fibrillation in trauma patients requiring
+intensive care. Intensive Care Med 2006, 32(3):398– 404. https://doi.or g/10.100 7/s00134 -005-0032-2
+PMID: 164962 03
+12. Duby JJ, Heintz SJ, Bajorek SA, Heintz BH, Durbin-Johns on BP, Cocanour CS: Prevalenc e and Course
+of Atrial Fibrillation in Critically Ill Trauma Patients. J Intensive Care Med 2017, 32(2):140– 145. https://
+doi.org/10.11 77/088506661 5599150 PMID: 26251336
+13. Kanji S, Stewart R, Fergusson DA, McIntyre L, Turgeo n AF, Hebert PC: Treatmen t of new-onset atrial
+fibrillation in noncardiac intensive care unit patients: a systematic review of randomiz ed controlled trials.
+Crit Care Med 2008, 36(5):1620 –1624. https://doi.o rg/10.1097/C CM.0b013e31 81709e 43 PMID:
+18434899
+14. Walkey AJ, Wiener RS, Ghobrial JM, Curtis LH, Benjamin EJ: Incident stroke and mortality associated
+with new-onset atrial fibrillation in patients hospitali zed with severe sepsis. JAMA 2011, 306(20):22 48–
+2254. https://d oi.org/10.100 1/jama.20 11.1615 PMID: 22081378
+15. Clayton B, Ball S, Read J, Waddy S: Risk of thromboe mbolism in patients develop ing critical illness-
+associated atrial fibrillation. Clin Med (Lond) 2018, 18(4):282– 287. https://doi.or g/10.7861/
+clinmedicin e.18-4-282 PMID: 300725 49
+16. Qian J, Kuang L, Chen F, Liu X, Che L: Prognos is and managemen t of new-onset atrial fibrillation in crit-
+ically ill patients. BMC Cardiovasc Disord 2021, 21(1):231. https://doi.or g/10.118 6/s12872-021- 02039-
+w PMID: 33952213
+17. Kanji S, Williamson DR, Yaghch i BM, Albert M, McIntyre L, Canadian Critical Care Trials G: Epidem iol-
+ogy and managemen t of atrial fibrillation in medical and noncardiac surgical adult intensive care unit
+patients. J Crit Care 2012, 27(3):326. e321–328.
+18. Walkey AJ, Hammil l BG, Curtis LH, Benjam in EJ: Long-term outcomes following developme nt of new-
+onset atrial fibrillation during sepsis. Chest 2014, 146(5):118 7–1195. https:// doi.org/10.13 78/chest.1 4-
+0003 PMID: 247230 04
+19. Fernando SM, Mathew R, Hibbert B, Rochwer g B, Munshi L, Walkey AJ, et al: New-onse t atrial fibril-
+lation and associated outcome s and resource use among critically ill adults-a multicenter retrospec-
+tive cohort study. Crit Care 2020, 24(1):15. https://doi .org/10.118 6/s13054-0 20-2730-0 PMID:
+31931845
+20. Launey Y, Lasocki S, Asehno une K, Gaudriot B, Chassier C, Cinotti R, et al: Impact of Low-Dose Hydro-
+cortisone on the Incidence of Atrial Fibrillation in Patients With Septic Shock: A Propensit y Score-
+Inverse Probability of Treatmen t Weightin g Cohort Study. J Intensive Care Med 2019, 34(3):238– 244.
+https://doi.or g/10.117 7/0885066617 696847 PMID: 28292220
+21. Kane S, Hanes, Scott.: 946: IMPACT OF HYDRO CORTISONE ON ATRIAL FIBRILLATIO N IN SEPTIC
+SHOCK. Crit Care Med 2014, 42(12).
+22. Wilson MG, Rashan A, Klapaukh R, Asselbergs FW, Harris SK: Clinician preference instrumen tal var-
+iable analysis of the effectivene ss of magnes ium suppleme ntation for atrial fibrillation prophylaxis in
+critical care. Sci Rep 2022, 12(1):174 33. https://do i.org/10.10 38/s41598-0 22-21286- 1 PMID:
+36261592
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 9 / 12
+[[p10]]
+23. Burrage PS, Low YH, Campbell NG, O’Brien B: New-Onset Atrial Fibrillation in Adult Patient s After Car-
+diac Surgery. Curr Anesthesi ol Rep 2019, 9(2):174–1 93. https://doi.or g/10.100 7/s40140-019- 00321-4
+PMID: 317005 00
+24. Shiga T, Wajima Z, Inoue T, Ogawa R: Magnesium prophylaxis for arrhythmias after cardiac surgery: a
+meta-ana lysis of randomiz ed controlled trials. Am J Med 2004, 117(5):325 –333. https://doi. org/10.
+1016/j.am jmed.200 4.03.030 PMID: 153365 82
+25. Alghamd i AA, Al-Radi OO, Latter DA: Intraveno us magnesium for prevention of atrial fibrillation after
+coronary artery bypass surgery: a systematic review and meta-analy sis. J Card Surg 2005, 20(3):293–
+299. https://do i.org/10.1111 /j.1540-8191 .2005.20 0447.x PMID: 15854101
+26. Miller S, Crystal E, Garfink le M, Lau C, Lashevsk y I, Connolly SJ: Effects of magnesium on atrial fibrilla-
+tion after cardiac surgery: a meta-ana lysis. Heart 2005, 91(5):618– 623. https:// doi.org/10.11 36/hrt.
+2004.03381 1 PMID: 15831645
+27. Henyan NN, Gillespie EL, White CM, Kluger J, Colem an CI: Impac t of intravenous magnesium on post-
+cardiothorac ic surgery atrial fibrillation and length of hospital stay: a meta-ana lysis. Ann Thorac Surg
+2005, 80(6):2402 –2406. https://doi.or g/10.1016/ j.athoracsu r.2005.03.036 PMID: 16305929
+28. Burgess DC, Kilborn MJ, Keech AC: Interventions for prevention of post-ope rative atrial fibrillation and
+its complic ations after cardiac surgery: a meta-ana lysis. Eur Heart J 2006, 27(23):284 6–2857 . https://
+doi.org/10.10 93/eurhear tj/ehl272 PMID: 170154 02
+29. Shepherd J, Jones J, Frampton GK, Tanajews ki L, Turner D, Price A: Intraveno us magnesium sulphate
+and sotalol for prevention of atrial fibrillation after coronary artery bypass surgery: a systematic review
+and economic evaluatio n. Health Technol Assess 2008, 12(28):iii– iv, ix–95. https://doi.or g/10.331 0/
+hta12280 PMID: 18547499
+30. Gu WJ, Wu ZJ, Wang PF, Aung LH, Yin RX: Intravenous magnesium prevents atrial fibrillation after cor-
+onary artery bypass grafting: a meta-ana lysis of 7 double-bli nd, placebo-c ontrolled, randomiz ed clinical
+trials. Trials 2012, 13:41. https:// doi.org/10.11 86/1745-621 5-13-41 PMID: 22520937
+31. De Oliveira GS Jr., Knautz JS, Sherwani S, McCarthy RJ: Systemic magnes ium to reduce postoper a-
+tive arrhythmias after coronary artery bypass graft surgery: a meta-ana lysis of random ized controll ed tri-
+als. J Cardiothorac Vasc Anesth 2012, 26(4):643– 650. https:/ /doi.org/10.10 53/j.jvca.201 2.03.012
+PMID: 225609 53
+32. Limaye CS, Londhey VA, Nadkart MY, Borges NE: Hypoma gnesemia in critically ill medical patients. J
+Assoc Physicians India 2011, 59:19–22. PMID: 21751660
+33. Bosch NA, Cimini J, Walkey AJ: Atrial Fibrillation in the ICU. Chest 2018, 154(6):142 4–1434. https:/ /
+doi.org/10.10 16/j.chest.201 8.03.040 PMID: 29627355
+34. Ihara K, Sasano T: Role of Inflammation in the Pathoge nesis of Atrial Fibrillation. Front Physiol 2022,
+13:862164. https://doi.or g/10.3389/ fphys.2022.8 62164 PMID: 35492601
+35. Hu YF, Chen YJ, Lin YJ, Chen SA: Inflammat ion and the pathogenes is of atrial fibrillation. Nat Rev Car-
+diol 2015, 12(4):230– 243. https:/ /doi.org/10.10 38/nrcar dio.2015.2 PMID: 256228 48
+36. Chard M, Tabrizchi R: The role of pulmonary veins in atrial fibrillation: a complex yet simple story. Phar-
+macol Ther 2009, 124(2):207 –218. https://doi.or g/10.1016/ j.pharmthera.2 009.07.0 02 PMID: 1962800 5
+37. Vaitkevicius R, Saburkina I, Rysevaite K, Vaitkevicien e I, Pauziene N, Zaliunas R, et al: Nerve supply of
+the human pulmonary veins: an anatomical study. Heart Rhythm 2009, 6(2):221–2 28. https:// doi.org/
+10.1016/ j.hrthm.2008. 10.027 PMID: 1918791 5
+38. Rasmussen HS, Thomsen PE: The electrop hysiologica l effects of intraven ous magnesium on human
+sinus node, atriovent ricular node, atrium, and ventricle. Clin Cardiol 1989, 12(2):85–9 0. https://doi.or g/
+10.1002/ clc.496012 0204 PMID: 2653679
+39. Panahi Y, Mojtahed zadeh M, Najafi A, Gheini M, Abdollahi M, Sharifz adeh M, et al: Protective Effects of
+Intraveno us Magnesium Sulfate in Stroke Patients Receiving Amiodarone: A Random ized Controlle d
+Trial. Adv Exp Med Biol 2021, 1308:57 9–588. https://doi.or g/10.100 7/978-3-03 0-64872-5 _28 PMID:
+33861459
+40. Lazzerini PE, Laghi-Pasin i F, Acampa M, Srivastav a U, Bertoloz zi I, Giabbani B, et al: System ic Inflam-
+mation Rapidly Induces Reversible Atrial Electrical Remodeling : The Role of Interle ukin-6-Mediate d
+Changes in Connexin Expressio n. J Am Heart Assoc 2019, 8(16):e011 006. https://doi. org/10.1161/
+JAHA.118.0 11006 PMID: 31423933
+41. Moher D, Liberati A, Tetzlaff J, Altman DG, Group P: Preferred reporting items for systematic reviews
+and meta-ana lyses: the PRISMA statement . BMJ 2009, 339:b2535. https://d oi.org/10.113 6/bmj.b25 35
+PMID: 196225 51
+42. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso- Coello P, et al: GRADE: an emerging
+consensus on rating quality of evidence and strength of recommenda tions. BMJ 2008, 336(7650) :924–
+926. https://do i.org/10.1136 /bmj.3948 9.470347. AD PMID: 184369 48
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 10 / 12
+[[p11]]
+43. Saver JL, Starkman S, Eckstein M, Stratto n SJ, Pratt FD, Hamilton S, et al: Prehos pital use of magne-
+sium sulfate as neuroprote ction in acute stroke. N Engl J Med 2015, 372(6):52 8–536. https://doi.or g/
+10.1056/ NEJMoa1408 827 PMID: 25651247
+44. Bechler K, Shkirkova K, Saver JL, Starkman S, Hamilton S, Liebeskin d DS, et al: The Effect of Early
+Treatmen t with Intravenous Magnesium Sulfate on the Incidence of Cardiac Comorbidi ties in Hospital-
+ized Stroke Patients. Cardiovas c Ther 2020, 2020:14 94506. https://doi.o rg/10.1155/20 20/1494 506
+PMID: 330721 88
+45. Khalil MA, Al-Agaty AE, Ali WG, Abdel Azeem MS: A comparati ve study between amiodar one and mag-
+nesium sulfate as antiarrhythm ic agents for prophylaxis against atrial fibrillation following lobectomy. J
+Anesth 2013, 27(1):56–6 1. https://doi.or g/10.100 7/s00540 -012-1478 -3 PMID: 22987136
+46. Terzi A, Furlan G, Chiavac ci P, Dal Corso B, Luzzani A, Dalla Volta S: Prevention of atrial tachyarrh yth-
+mias after non-cardiac thoracic surgery by infusion of magnesium sulfate. Thorac Cardiovasc Surg
+1996, 44(6):300– 303. https://doi.or g/10.1055/ s-2007-1012 041 PMID: 902190 7
+47. Roffe C, Fletcher S, Woods KL: Investigation of the effects of intraven ous magnesium sulphate on car-
+diac rhythm in acute myocardial infarction. Br Heart J 1994, 71(2):141– 145. https://doi.or g/10.1136/ hrt.
+71.2.141 PMID: 8130021
+48. Lutsey PL, Chen LY, Eaton A, Jaeb M, Rudser KD, Neaton JD, et al: A Pilot Randomized Trial of Oral
+Magnesium Supplem entation on Suprav entricular Arrhythmias . Nutrients 2018, 10(7). https://doi. org/
+10.3390/ nu10070884 PMID: 2999647 6
+49. Fairley JL, Zhang L, Glassfor d NJ, Bellomo R: Magnesium status and magnesium therapy in cardiac
+surgery: A systematic review and meta-analy sis focusing on arrhythmi a prevention. J Crit Care 2017,
+42:69–77. https://doi.or g/10.1016/ j.jcrc.2017. 05.038 PMID: 28688240
+50. Cook RC, Yamashita MH, Kearns M, Raman athan K, Gin K, Humphries KH: Prophylactic magnesium
+does not prevent atrial fibrillation after cardiac surgery: a meta-ana lysis. Ann Thorac Surg 2013, 95
+(2):533–54 1. https://do i.org/10.1016 /j.athorac sur.2012.0 9.008 PMID: 23141526
+51. Chaudhar y R, Garg J, Turagam M, Chaudhar y R, Gupta R, Nazir T, et al: Role of Prophylactic Magne-
+sium Supplement ation in Prevention of Postoper ative Atrial Fibrillation in Patients Undergo ing Coronar y
+Artery Bypass Grafting: a System atic Review and Meta-Analy sis of 20 Random ized Controlle d Trials. J
+Atr Fibrillation 2019, 12(1):2154 . https://d oi.org/10.402 2/jafib.2 154 PMID: 31687067
+52. Maesen B, Nijs J, Maessen J, Allessie M, Schotten U: Post-op erative atrial fibrillation: a maze of mecha-
+nisms. Europac e 2012, 14(2):159– 174. https://doi. org/10.1093/e uropace /eur208 PMID: 21821851
+53. Seesing MFJ, Borggreve AS, Ruurda JP, van Hillegersb erg R: New-on set atrial fibrillation after esopha-
+gectomy for cancer. J Thorac Dis 2019, 11(Suppl 5):S831–S 834. https:// doi.org/10.21 037/jtd.2 019.02.
+03 PMID: 310806 66
+54. Gaudino M, Andreotti F, Zampare lli R, Di Castelnuovo A, Nasso G, Burzotta F, et al: The -174G/C inter-
+leukin-6 polymorp hism influences postoperativ e interleukin-6 levels and postoperativ e atrial fibrillation.
+Is atrial fibrillation an inflammat ory complication ? Circulation 2003, 108 Suppl 1:II195–1 99. https://do i.
+org/10.1161/ 01.cir.0000087 441.485 66.0d PMID: 129702 32
+55. Elahi MM, Flatman S, Matata BM: Tracing the origins of postoper ative atrial fibrillation: the concept of
+oxidative stress-media ted myocardial injury phenomen on. Eur J Cardiovasc Prev Rehabil 2008, 15
+(6):735–74 1. https://do i.org/10.1097 /HJR.0b01 3e328317f 38a PMID: 19020458
+56. Lazzerini PE, Laghi-Pas ini F, Boutjdir M, Capecc hi PL: Inflammator y cytokines and cardiac arrhyth mias:
+the lesson from COVID-19 . Nat Rev Immunol 2022, 22(5):270– 272. https://doi.or g/10.103 8/s41577 -
+022-00714- 3 PMID: 353472 95
+57. Kerchberge r VE, Huang Y, Koyama T, Shoema ker MB, Darbar D, Bastara che JA, et al: Clinical and
+Genetic Contributo rs to New-Onset Atrial Fibrillation in Critically Ill Adults. Crit Care Med 2020, 48
+(1):22–30. https://doi.o rg/10.1097/C CM.00000000 000040 34 PMID: 31599812
+58. Zhao BC, Huang TY, Deng QW, Liu WF, Liu J, Deng WT, et al: Prophylaxis Against Atrial Fibrillation
+After General Thoracic Surgery: Trial Sequential Analysis and Network Meta-An alysis. Chest 2017,
+151(1):149 –159. https:// doi.org/10.10 16/j.chest. 2016.08.1476 PMID: 277292 64
+59. Devereaux PJ, Yang H, Yusuf S, Guyatt G, Leslie K, Villar JC, et al: Effects of extended -release meto-
+prolol succinate in patients undergoing non-cardiac surger y (POISE trial): a random ised controlled trial.
+Lancet 2008, 371(9627) :1839–1847. https:/ /doi.org/10.10 16/S014 0-6736(08)6060 1-7 PMID:
+18479744
+60. Young A, Marsh S: Steroid use in critical care. BJA Educ 2018, 18(5):129– 134. https://doi.o rg/10.1016/
+j.bjae.2018. 01.005 PMID: 3345682 2
+61. Tercius AJ, Kluger J, Colem an CI, White CM: Intraveno us magnesium sulfate enhance s the ability of
+intravenou s ibutilide to successfull y convert atrial fibrillation or flutter. Pacing Clin Electrophy siol 2007,
+30(11):133 1–1335. https:// doi.org/10.11 11/j.154 0-8159.2007 .00866.x PMID: 17976094
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 11 / 12
+[[p12]]
+62. Shah SA, Clyne CA, Henyan N, Migeed M, Yarlagadda R, Silver BB, et al: Impact of magnesium sulfate
+on serum magnesium concentra tions and intracellular electrolyte concentra tions among patients under-
+going radio frequency catheter ablatio n. Conn Med 2008, 72(5):261– 265. PMID: 18593060
+63. Hebert P, Mehta N, Wang J, Hindmarsh T, Jones G, Cardina l P: Functiona l magnesium deficiency in
+critically ill patients identifi ed using a magnesium- loading test. Crit Care Med 1997, 25(5):749– 755.
+https://doi.or g/10.109 7/00003246- 199705000 -00007 PMID: 9187591
+64. Woods KL, Fletcher S, Roffe C, Haider Y: Intraveno us magnesium sulphate in suspected acute myocar-
+dial infarction: results of the second Leicester Intraveno us Magnesium Interventio n Trial (LIMIT-2) . Lan-
+cet 1992, 339(8809) :1553–1558. https:// doi.org/10.10 16/0140-673 6(92)9182 8-v PMID: 1351547
+PLOS ONE
+Magnesium prophylaxis of atrial fibrillation
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.02929 74 October 26, 2023 12 / 12

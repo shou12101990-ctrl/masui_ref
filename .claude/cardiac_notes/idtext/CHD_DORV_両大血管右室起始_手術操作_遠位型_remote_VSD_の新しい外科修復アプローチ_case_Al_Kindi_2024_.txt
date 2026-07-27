@@ -1,0 +1,217 @@
+
+[[p1]]
+A new approach to surgical correction of double-outlet
+right ventricle with remote
+interventricular communication
+Hamood Al Kindi, FRCSC, a,b Madan Mohan Maddali, MD, c Pranav Kandachar, MD, b
+Faiza Al Kindi, MD, FRCPC, d Abdullah Al Farqani, MD, e Justin T. Tretter, MD,f and
+Robert H. Anderson, PhD, g Seeb and Muscat, Oman; Cleveland, Ohio; and Newcastle upon Tyne, United
+Kingdom
+Video clip is available online.
+Signiﬁcant challenges are faced by surgeon to achieve bi-
+ventricular repair when, in the setting of double-outlet right
+ventricle, the interventricular communication is remote
+from the arterial roots. This is known to occur in up to
+one-ﬁfth of patients.
+1 Having recently encountered a patient
+in this setting, we were able to construct an intraventricular
+bafﬂe redirecting the left ventricle to the aortic root, having
+created a new outlet alongside the existing uncommitted
+communication. The parents of the patient provided
+informed written consent for the publication of these data
+(February 3, 2024; Institutional Review Board No.: Moh/
+CSR/CR/23/40).
+CASE REPORT
+A 1-year-old boy, known to have complex congenital car-
+diac anomalies, was referred to our center for evaluation.
+Transthoracic echocardiography ( Video 1 ) revealed a
+mirror-imaged heart with double-outlet right ventricle and
+bilateral infundibulums. The aortic root was anterior and
+left-sided relative to the pulmonary root. There was severe
+pulmonary valvular stenosis, with dysplastic leaﬂets and
+subvalvular obstruction. The interventricular communica-
+tion was perimembranous and opened to the inlet of the
+right ventricle, remote from the arterial roots.
+uhcdn?PM?s??K???K???
+report and the 3-dimensional modeling that demonstrates the preoperative
+anatomy, the surgical planning, and the postoperative anatomy. It also in-
+cludes the preoperative echocardiography computed tomography scan im-
+ages and the postoperative 4-dimensional ﬂow magnetic resonance
+imaging image. Video available at: https://www.jtcvs.org/article/S2666-
+2507(24)00135-4/fulltext.
+From the aCardithoracic Unit, Department of Surgery, Sultan Qaboos University Hospital, Seeb, Oman; Depart-
+ments of bCardiothoracic Surgery, cCardiac Anesthesia, dCardiac Imaging, and ePediatric Cardiology, National
+Heart Center, The Royal Hospital, Muscat, Oman; fCardiovascular Medicine Department, Heart, V ascular, and
+Thoracic Institute, Cleveland Clinic Foundation, Cleveland, Ohio; and gBiosciences Institute, Newcastle Uni-
+versity, Newcastle upon Tyne, United Kingdom.
+Institutional ethical approval: CR#2023/31 was obtained.
+Informed patient consent: Obtained from parents.
+Received for publication Dec 24, 2023; revisions received Feb 23, 2024; accepted for publication March 6, 2024;
+available ahead of print March 16, 2024.
+Address for reprints: Hamood Al Kindi, FRCSC, Cardiothoracic Unit, Department of Surgery, Sultan Qaboos
+University Hospital, Al Khod 123, Muscat, Oman (E-mail: hkindi@squ.edu.om).
+JTCVS Techniques 2024;25:144-9
+2666-2507
+Copyright /C2112024 The Author(s). Published by Elsevier Inc. on behalf of The American Association for Thoracic
+Surgery. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/).
+https://doi.org/10.1016/j.xjtc.2024.03.006
+Virtual dissection showing the remoteness of the
+inlet interventricular communication.
+CENTRAL MESSAGE
+Challenges remain when cor-
+recting double-outlet right
+ventricle with a remote inter-
+ventricular communication. We
+created a new communication,
+with excellent hemodynamic
+results.
+144 JTCVS Techniques c June 2024
+Congenital: Pulmonary Valve: Case Reports
+[[p2]]
+To aid in surgical planning, we made a contrast computed
+tomography scan (Video 1), followed by modeling and print-
+?Ge?PK?`LbK???u?PH???RL?GRcH
+dataset. Intraoperative evaluation conﬁrmed the location of
+the interventricular communication. It was remote from the
+aorta, with the leaﬂets and cords of the tricuspid valve
+covering its upper margin. We noted the potential to create
+a new interventricular communication in the subpulmonary
+outﬂow tract (Figure 2, A and B,a n dVideo 1). Having created
+the new outlet, we placed a bafﬂe in the right ventricle to
+direct both communications into the aortic root. Conﬁrming
+the right ventricle to be of adequate size, we then placed a
+16-mm Contegra conduit (Medtronic) to the pulmonary ar-
+teries. Although the patient had moderate tricuspid regurgita-
+tion, with diastolic right ventricle dysfunction, this improved
+with medical management such that the patient could be dis-
+charged from hospital on the 14th postoperative day.
+Subsequent postoperative evaluation after 2 months,
+including additional 3D modeling ( Figure 2 , C and D, and
+Video 1), revealed an unobstructed pathway from the left
+ventricle to the aorta. A 4-dimensional magnetic resonance
+imaging scan demonstrated that three-quarters of ﬂow from
+the left ventricle was across the newly created interventric-
+ular communication ( Figure 2, E).
+ehftqd?PM?`??aK?sL?K????????G`??aHK???????L
+ventricular communication in relation to the oriﬁce of the tricuspid valve and the aortic root. C, The coronal view shows the interventricular communication,
+despite its remoteness, to be directly below the aortic root. D, A comparable morphological specimen. The defect again opens to the inlet of the right
+ventricle, yet is directly below the aortic root. We have previously described this defect as being subaortic. We now recognize that, as in the current
+case, it is remote, albeit still potentially related to the aorta. The oval shows the site of creation of the new communication. E and F, Virtual dissect ions
+of the 3-dimensional dataset show the internal anatomy as viewed from the left and right sides of the ventricular septum.
+JTCVS Techniques c Volume 25, Number C 145
+Congenital: Pulmonary Valve: Case Reports
+[[p3]]
+COMMENT
+The relationship of the interventricular communication,
+when both arterial trunks arise exclusively from the right
+ventricle, depends on its location within the right ventricle
+relative to the arterial roots, and the length of the infundib-
+ulums.
+2 In this setting, it can be difﬁcult to determine the
+precise anatomy using cross-sectional echocardiography.
+The use of 3D modeling and printing has proven its value
+in surgical planning.
+3 Virtual dissection of the volume-
+rendered 3D computed tomography datasets also permits
+visualization of the intracardiac anatomy in a contextually
+appropriate manner.4 Such virtual dissection in our patient
+(Figure 1 , E and F, and Figure 3 ) showed a defect that
+opened to the inlet of the right ventricle inferior to the
+caudal limb of the septomarginal trabeculation. The pres-
+ence of tricuspid-to-mitral ﬁbrous continuity conﬁrmed its
+perimembranous nature, permitting us to infer that the con-
+duction axis would be located posteroinferiorly.
+5 Despite
+ehftqd?PM?M
+146 JTCVS Techniques c June 2024
+Congenital: Pulmonary Valve: Case Reports
+[[p4]]
+the remote nature of the defect, it was aligned with the sub-
+aortic outﬂow tract. To commit the defect to the aorta would
+have required its extensive enlargement, along with detach-
+ment of some of the cords supporting the leaﬂets of the
+tricuspid valve. We deemed that such an approach might
+have mandated the use multiple patches, 1,E1,E2 with the po-
+tential risk of reinterventions on the tricuspid valve, heart
+block, and obstruction of the outlet from the left ventricle.
+Enlarging the defect toward the subpulmonary outﬂow tract
+and adding an arterial switch
+E3 was deemed inappropriate
+due to the stenosis of the pulmonary valve. We decided,
+therefore, to create an additional defect opening from the
+left ventricle to the subpulmonary infundibulum, having
+shown the right ventricle to be sufﬁciently large to accom-
+modate a bafﬂe connecting both arterial roots to the left
+ventricle while still permitting construction of a right
+ventricle-to-pulmonary arterial conduit.
+The need to create or enlarge an interventricular
+communication arises when the defect is the outlet for
+the morphologic left ventricle.
+E4 To our knowledge, ours
+is the ﬁrst deliberate attempt to create an additional
+communication as an alternative surgical approach when
+correcting double-outlet right ventricle with a remote inter-
+ventricular communication. Our postoperative scan using
+4-dimensional magnetic resonance imaging showed that
+the maneuver created a more direct route to the aorta
+compared with the original inlet perimembranous defect.
+Theoretically, it would have been plausible simply to close
+the original interventricular communication, retaining
+only the new communication as the left ventricular outlet.
+FIGURE 2. Preoperative modeling permitted us to anticipate the site of a new interventricular communication, which would open to the subpulmonary
+outlet tract. The panels show its site as seen from the right (A) and left (B) ventricles, along with the planned suture line ( yellow lines), where 1 indicates
+the tricuspid valve, 2 indicates the original interventricular communication, and 3 indicates the new interventricular communication (marked in red in B).
+Postoperative modeling shows the subsequent anatomy and the ﬂow from both interventricular communications to the aorta, again as seen from theright (C)
+and the left (D) ventricles. E, Magnetic resonance imaging permitting 4-dimensional analysis of ﬂow. Of the ﬂow, three-quarters was through the new inter-
+ventricular communication (white arrow), rather than the original defect ( yellow arrow). RV, Right ventricle; TV, tricuspid valve; MV, mitral valve; LV, left
+ventricle.
+FIGURE 3. Virtual dissection showing the remoteness of the inlet inter-
+ventricular communication.
+JTCVS Techniques c Volume 25, Number C 147
+Congenital: Pulmonary Valve: Case Reports
+[[p5]]
+This approach may be considered in future cases, although
+we would be wary that the new defect, having exclusively
+myocardial borders, might reduce spontaneously in size.
+Conﬂict of Interest Statement
+The authors reported no conﬂicts of interest.
+The Journal policy requires editors and reviewers to
+disclose conﬂicts of interest and to decline handling manu-
+scripts for which they may have a conﬂict of interest. The ed-
+itors and reviewers of this article have no conﬂicts of interest.
+The authors thank the team from Axial 3D for their assistance in
+the illustration using 3-dimensional visualization and modeling.
+References
+PM?aLl?lK?s?bK?`?dK?d?lM?h??
+double-outlet right ventricle with nonc ommitted ventricular septal defect: ad-
+vantages of multiple patches. J Thorac Cardiovasc Surg . 1999;118(6):
+1056-1067 .
+2. Yim D, Dragulescu A, Ide H, et al. Essential modiﬁers of double outlet right
+ventricle: revisit with endocardial surface images and 3-dimensional print models.
+Circ Cardiovasc Imaging . 2018;11(3):e006891.
+3. Garekar S, Bharati A, Chokhandre M, et al. Clinical application and multidisci-
+plinary assessment of three dimensional printing in double outlet right ventricle
+with remote ventricular septal defect. World J Pediatr Congen Heart Surg .
+2016;7(3):344-350.
+4. Tretter JT, Gupta SK, Izawa Y , Nishii T, Mori S. Virtual dissection: emerging as
+the gold standard of analyzing living heart anatomy. J Cardiovasc Dev Dis .
+2020;7(3):30.
+5. Ebadi A, Spicer DE, Backer CL, Fricker FJ, Anderson RH. Double-outlet right
+ventricle revisited. J Thorac Cardiovasc Surg . 2017;154(2):598-604.
+148 JTCVS Techniques c June 2024
+Congenital: Pulmonary Valve: Case Reports
+[[p6]]
+E-References
+E1. Ishibashi N, Aoki M, Fujiwara T. Successful extensive enlargement of a non-
+committed ventricular septal defect in double outlet right ventricle. Cardiol
+Young. 2005;15(4):431-433.
+E2. Li S, Ma K, Hu S, et al. Biventricular repair for double outlet right ventricle with non-
+committed ventricular septal defect.Eur J Cardiothorac Surg. 2015;48(4):580-587.
+E3. Lacour-Gayet F, Haun C, Ntalakoura K, et al. Biventricular repair of double
+outlet right ventricle with non-committed ventricular septal defect (VSD) by
+VSD rerouting to the pulmonary artery and arterial switch. Eur J Cardiothorac
+Surg. 2002;21(6):1042-1048.
+E4. Patel ND, Justino H, Ing FF. Hybrid approach to ventricular septal defect
+enlargement. Cath Cardiovasc Interv. 2019;94(5):732-737.
+JTCVS Techniques c Volume 25, Number C 149
+Congenital: Pulmonary Valve: Case Reports

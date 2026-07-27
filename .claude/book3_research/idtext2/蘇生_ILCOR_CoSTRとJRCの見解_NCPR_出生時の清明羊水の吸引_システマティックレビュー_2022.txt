@@ -1,0 +1,102 @@
+
+[[p1]]
+英語 日本語 
+Suctioning Clear Amniotic Fluid at Birth 出生時の清明羊水の吸引 
+Myra H. Wyckoff, et al., NLS TF 
+PICOST  
+• Population: Newborn infants who are born through clear (not 
+meconium-stained) amniotic fluid 
+ 
+• Intervention: Initial suctioning of the mouth and nose 
+ 
+• Comparator: No initial suctioning 
+ 
+• Outcome: 
+A. Critical: Advanced resuscitation and stabilization 
+interventions (intubation, chest compressions, epinephrine) 
+in the delivery room 
+ 
+B. Important: Receipt of assisted ventilation; receipt and 
+duration of oxygen supplementation; adverse effects of 
+intervention (eg, apnea, bradycardia, injury, infection, low 
+Apgar scores, dysrhythmia); unanticipated admission to the 
+neonatal intensive care unit (NICU) 
+ 
+PICOST  
+P: （胎便性羊水混濁のない）清明羊水から出生した新生児 
+ 
+ 
+I: 口と鼻の最初の吸引 
+ 
+C: 最初の吸引なし 
+ 
+O:  
+A．重大なアウトカム：分娩室での高度な蘇生および安定化のための
+介入(気管挿管、胸骨圧迫、エピネフリン) 
+ 
+ 
+B．重要なアウトカム：補助換気の実施．酸素投与の実施と期間；介
+入の有害事象(例：無呼吸、徐脈、損傷、感染症、低 Apgar スコア、
+不整脈)；予期せぬ新生児集中治療室(NICU)への入室 
+ 
+ 
+[[p2]]
+• Study design: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+and cohort studies) were eligible for inclusion. Unpublished 
+studies, case series, and animal studies were excluded. 
+ 
+• Time frame: All years and all languages were included if an 
+English abstract was available. The literature search was 
+performed on September 21, 2021. 
+ 
+ 
+S: RCT と非ランダム化研究(非 RCT、分割時系列解析、前後比較対照
+研究、コホート研究)が採用された．未発表の研究、ケースシリー
+ズ、動物実験は除外した． 
+ 
+ 
+ 
+T: 英語抄録がある、全ての年の、全ての言語による研究を対象とし
+た．文献検索は 2021 年 9 月 21 日に実施した． 
+ 
+Treatment recommendations 
+We suggest that suctioning of clear amniotic fluid from the 
+nose and mouth should not be used as a routine step for 
+newborn infants at birth (weak recommendation, very low–
+certainty evidence). 
+Airway positioning and suctioning should be considered if 
+airway obstruction is suspected (good practice statement)． 
+推奨と提案 
+出生時、清明羊水から出生した新生児に対し、ルーチンの処置として
+鼻と口の吸引を行わないことを提案する(弱い推奨、エビデンスの確
+実性：非常に低い)． 
+気道閉塞が疑われる場合は、気道開通の体位保持と吸引を検討する
+(優れた医療慣行に関する記述)． 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[[p3]]
+１． JRC の見解と解説（400-800 文字） 
+清明羊水の吸引は、蘇生を必要としないまたは受けていない児を含む多くの新生児に影響を与えるため、世界的に非常に重要なトピック
+であるが、十分な評価がなされないままに、伝統的な新生児ケアの一部として世界中で実施されてきた．このトピックは CoSTR 2020 にお
+いて Scop Rev (NLS 596)で扱われ十分な根拠を見出し、Sys Rev が実施された。 
+ この Sys Rev では、11 件の研究(対象者 1,138 例を含む 9 件の RCT および 2 件の観察研究)が採用された．これらの研究の対象はおもに
+健康な正期産児であり、清明羊水の吸引に有益性を見出せなかった．742 名の新生児を含む 3 つの RCT のメタ解析では、清明羊水の吸引と
+分娩室での高度な蘇生および安定化のための介入(気管挿管、胸骨圧迫、エピネフリン)、および補助換気の必要性に関するアウトカムに関
+連はみられなかった．また、吸引に時間がかかることで、他の蘇生処置が必要な場合に、その開始が遅れる可能性が高まることも危惧され
+た． 
+したがって、清明羊水の吸引は、気道の閉塞が懸念される場合、または陽圧換気が必要な場合にのみ検討すべきであり、ルーチンでの実
+施を支持するエビデンスは乏しいと考える． 
+ 
+２． わが国への適応 
+・JRC 蘇生ガイドライン 2010 を変更しない。 
+  
+３．担当メンバー 
+担当作業部会員（五十音順）北野裕之 
+共同座長（五十音順）荒堀仁美 平川英司 
+担当編集委員（五十音順）杉浦崇浩 諌山哲哉 

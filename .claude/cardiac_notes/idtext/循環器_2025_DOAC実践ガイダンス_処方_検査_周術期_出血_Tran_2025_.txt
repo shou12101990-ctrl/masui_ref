@@ -1,0 +1,1039 @@
+
+[[p1]]
+POSITION PAPER
+2025 Guidelines for direct oral anticoagulants: a practical
+guidance on the prescription, laboratory testing,
+peri-operative and bleeding management
+Huyen A. Tran ,1,2 Eileen Merriman ,3 Ross Baker,4 Jennifer Curnow,5 Laura Young,6 Chee Wee Tan,7
+Simon McRae8 and Sanjeev D. Chunilal 9
+1Haemostasis Thrombosis Unit, The Alfred Hospital, 2Australian Centre for Blood Diseases, Monash University, and 9Haematology Department,
+Monash Medical Centre, Melbourne, Victoria, 4Haematology Department, Perth Blood Institute, Perth, Western Australia, 5Haematology Department,
+Westmead Hospital, Sydney , New South Wales, 7Haematology Department, Royal Adelaide Hospital, Adelaide, South Australia, 8Department of
+Haematology, Launceston General Hospital, Launceston, Tasmania, Australia, and 3Haematology Department, Royal North Shore Hospital, and
+6Haematology Department, Auckland City Hospital, Auckland, New Zealand
+Key words
+direct oral anticoagulant, major bleeding,
+reversal agent, perioperative anticoagulation.
+Correspondence
+Huyen A. Tran, Australian Centre for Blood
+Diseases, Monash University, Melbourne, Vic.
+3800, Australia.
+Email:
+huyen.tran@monash.edu
+Received 30 September 2024; accepted
+24 April 2025.
+Abstract
+Direct oral anticoagulants (DOACs) are widely prescribed to prevent and treat venous
+and arterial thromboembolism, supported by published evidence, and are preferred over
+warfarin in many guidelines. Although the riskof major bleeding, in particular intracranial
+haemorrhage (ICH), is decreased with DOACs, gastrointestinal bleeding is increased with
+some DOACs, and the case fatality rate of bleeding remains high. Therefore, it is important
+to (i) prescribe DOACs appropriately, (ii) havestrategies to manage major bleeding including
+the use of speciﬁc reversal agents and (iii) interrupt and resume DOACs for procedures. The
+main recommendations are as follows: (i) Select the appropriate dose of DOAC according to
+indications and consider patient factors to minimise bleeding risks; (ii) DOACs do not require
+routine laboratory testing; (iii) for life-threatening uncontrollable bleeding, speciﬁca g e n t s
+can be used to reverse the anticoagulant effects of DOACs; and (iv) DOACs can be inter-
+rupted for planned procedures without the need for ‘bridging’ with low-molecular-weight
+heparin (LMWH). The anticoagulant effects of DOACs can be reversed with speciﬁca g e n t s ,
+such as andexanet for apixaban and rivaroxab an and idarucizumab for dabigatran. If not
+available, pro-haemostatic agents such as prothrombin complex concentrates or activated
+prothrombin complex concentrates can be c onsidered. DOACs can be interrupted and
+resumed for procedures without the need for‘bridging’ with LMWH.
+Background
+Oral factor Xa inhibitors (FXaI, apixaban and rivaroxaban)
+and oral thrombin inhibitors (dabigatran) target speciﬁc acti-
+vated coagulation factors and are referred to as direct oral
+anticoagulants (DOACs).1 With a ﬁxed dosing regimen, less
+drug and food interactions, and no need for routine labora-
+tory monitoring when compared to warfarin, their use has
+become widespread. The current indications for the DOACs
+are for the primary and secondary prevention of venous and
+arterial thromboembolism (Table1), but there are speci ﬁc
+circumstances when they should be avoided (Box 1).
+Overall, their introduction has impacted positively on
+the quality of life of patients needing anticoagulants. 2
+The efﬁcacy of DOACs has been established in multiple
+large, multicentre randomised controlled trials (RCTs)
+involving patients with atrial ﬁbrillation (AF), chronic sta-
+ble atherosclerotic disease and venous thromboembolism
+(VTE; including deep vein thrombosis (DVT) and pulmo-
+nary embolism (PE)) (GRADE 1A). 3–5 Compared with
+warfarin, all DOACs achieved non-inferiority with regard
+to prevention of stroke, systemic embolism and recurrent
+VTE events. Dabigatran at a dose of 150 mg twice daily
+also demonstrated superiority over warfarin in stroke
+prevention in patients with AF. 6 Preventive doses of
+Funding: None.
+Conﬂict of interest: None.
+doi:10.1111/imj.70103
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium,
+provided the original work is properly cited, the use is non-commercial and no modi ﬁcations or adaptations are made.
+1174
+[[p2]]
+apixaban 2.5 mg twice daily and rivaroxaban 10 mg once
+daily maintained ef ﬁcacy in preventing recurrent VTE
+beyond 6 months, without a signi ﬁcant increase in bleed-
+ing compared to aspirin or placebo.7,8
+The clearance of DOACs relies primarily on renal func-
+tion, though the extent varies between the different
+DOACs. A careful assessment of risk –beneﬁt should be
+undertaken for use of DOACs in patients with CrCl <30
+mL/min. In Australia and New Zealand, dose adjustment
+of dabigatran is recommended with CrCl ≤50 mL/min,
+with contraindication of use if CrCl ≤30 mL/min.
+Apixaban and rivaroxaban use is not recommended for
+CrCl <25 mL/min and CrCl <15 mL/min respectively.
+DOACs should also be used cautiously in patients with
+liver dysfunction (Box
+1). DOACs are contraindicated in
+Childs-Pugh class C cirrhosis(apixaban but not rivaroxaban
+may be used in class B). There is a paucity of data regarding
+the use of DOACs at the extremes of body weight (body
+mass index > 40 kg/m 2). Hence, the use of DOACs
+remains challenging in patients with signi ﬁcant renal or
+liver impairment, in low-body-weight and morbidly
+obese patients.
+DOACs have less drug –drug interactions, but signi ﬁ-
+cant interactions can occur with medications which
+interact with P-glycoprotein and/or CYP3A4. Combining
+antiplatelet drugs and certain other medicines with
+DOACs increases the risk of bleeding. Utilising online
+speciﬁc drug interaction checkers is highly rec-
+ommended (
+https://amhonline.amh.net.au/).9
+T able 1 Currently approved indications for the use of direct oral anticoagulant drugs †
+VTE prevention VTE treatment ‡ Atrial ﬁbrillation (AF) Stable atherosclerotic
+vascular disease
+Initiation Maintenance
+Apixaban‡,§,¶ 2.5 mg twice daily post
+hip and knee
+replacements
+10 mg twice daily for
+7 days
+5 mg twice daily; consider
+2.5 mg twice daily
+beyond 6 months
+5 mg twice daily/or 2.5
+mg twice daily ††
+Rivaroxaban‡‡ 10 mg daily post hip and
+knee replacements
+15 mg twice daily for
+21 days
+20 mg daily; consider 10
+mg daily beyond 6
+months
+20 mg daily / 15 mg
+daily
+§§
+2.5 mg twice daily
+(combined with
+aspirin)
+¶¶,a
+Dabigatranbc 110 mg 1 –4 h post-
+surgery, then 220 mg
+once daily post hip and
+knee replacements
+d
+150 mg twice daily
+or
+110 mg twice daily
+e
+150 mg oral twice daily
+or
+110 mg oral twice daily
+f
+†Approved indications: Therapeutics Goods Association of Australia (TGA) and/or Medsafe, New Zealand (NZ).
+‡Dabigatran is not reimbursed for VTE treatment by the Pharmaceutical Beneﬁts Scheme, Australia; apixaban is not reimbursed by Pharmac, New Zealand.
+§Not funded for this indication in New Zealand.
+¶t????bb?[?QT?kNM
+†† Apixaban 2.5 mg twice daily, two out of three (serum creatinine ≥ 133 mmol/L, age ≥ 80 years and weight ≤ 60 kg).
+‡‡ Use not recommended with CrCl <15 mL/min.
+§§Rivaroxaban 15 mg once daily in patients with moderate renal impairment (creatinine clearance 15 –49 mL/min).
+¶¶Coronary artery disease with one additional risk factor; peripheral arterial disease with one additional risk factor.
+aPeripheral arterial disease after acute revascularisation (not PBS funded but ef ﬁcacy and safety established in large phase RCT).
+bNot funded for VTE prevention or VTE treatment in Australia.
+cUse not recommended with CrCl < 30 mL/min.
+dConsider reducing the dose to 150 mg once daily for those with CrCl 30 –50 mL/min or in those with increased risk of bleeding.
+eDabigatran 110 mg twice daily for patients ≥80 years or with increased risk of major bleeding.
+fDabigatran 110 mg twice daily, CrCl, 30 –50 mL/min.
+VTE, venous thromboembolism.
+Box 1 Scenarios where use of direct
+oral anticoagulants is not advised.
+ Mechanical prosthetic heart valves
+ Moderate to severe mitral stenosis, including rheumatic mitral
+stenosis
+ Pregnancy and breast-feeding women
+ Severe kidney disease †
+ Severe liver disease ‡
+ High-risk anti-phospholipid syndrome (APLS), including triple
+positive APLS§, history of arterial thrombosis
+†Apixaban, dabigatran and rivaroxaban are not rec-
+ommended with CrCl <25 mL/min, <30 mL/min and <15
+mL/min respectively.
+‡Apixaban is contraindicated in Child-Pugh C; rivaroxaban in
+Child-Pugh B and C; dabigatran with liver enzymes /C22
+upper limit of normal.
+§Lupus anticoagulant (non-speci ﬁc inhibitor), anticardiolipin
+antibodies and anti-B2 glycoprotein antibodies.
+2025 Guidelines for DOACs
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1175
+[[p3]]
+An important safety advantage re ﬂected in all of
+the RCTs involving DOACs, and con ﬁrmed by meta-
+analyses, is the signi ﬁcant reduction in intracranial
+haemorrhage (ICH) compared to warfarin. 3,5,10 DOACs
+have also been associated with less major bleeding, less
+clinically relevant non-major bleeding (CRNMB) and
+less fatal bleeding in patients with VTE. 5 In the VTE pop-
+ulation, the rates of major bleeding and CRNMB per year
+with DOACs have been 1.1% and 6.3% respectively,
+compared to 1.8% and 8.0% with warfarin.
+Compared to warfarin, the estimates of major bleeding
+are lower with DOACs overall (1% –4% per year). 3,5
+However, when major bleeding occurs, there is an asso-
+ciated case fatality rate of 6% –8%, and even higher with
+ICH (up to 48%). 10,11 Consequently, there remains a sig-
+niﬁcant need for safe and effective management of
+major bleeding episodes when they occur.
+Finally, up to 10% of patients receiving long-term
+anticoagulants require urgent or time-critical procedures
+each year.
+12 Some can be managed by withholding anti-
+coagulation for a ﬁnite period, but in an emergency, an
+effective reversal strategy to avoid or minimise bleeding
+is needed.
+This document, endorsed by Thrombosis and
+Haemostasis Society of Australia and New Zealand
+(THANZ), aims to provide guidance on:
+1 DOAC prescription
+2 Laboratory measurements of DOACs in appropriate
+scenarios
+3 Strategies to manage bleeding including the use of
+reversal agents and interruption of DOACs during peri-
+operative periods.
+Methods
+Eight experts in thromboembolic diseases of the THANZ
+conducted three virtual and one face-to-face meeting
+(2 and 30 September 2022; 3 November 2023; and 17 July
+2024) together with recurring emails, during which spe-
+ciﬁc questions and drafts and revisions of the guidelines
+were discussed (refer to Appendix S1 for description of
+development process). The guidelines followed methods
+outlined by the National Health and Medical Research
+Council and the Appraisal of Guidelines for Research and
+Evaluation (AGREE) II instrument.
+13 Recommendations
+have been graded as strong or weak, rated according to
+quality of the levels of available evidence (GRADE)
+(Table
+2).14 The views of DOAC users were not sought.
+Recommendations
+See Table 2.
+Prescription of DOACs
+In both Australia and New Zealand, apixaban, rivaroxaban
+and dabigatran are indicated for the prevention of stroke
+and systemic embolism in patients with AF, chronic stable
+atherosclerotic disease, the treatment of new DVT and PE,
+and secondary prevention of VTE, as well as the prevention
+of venous thrombosis in hip and knee arthroplasty. Table
+1
+summarises the dosing and indication for each DOAC.
+DOACs and laboratory testing
+DOACs do not routinely requi re laboratory monitoring
+because of predictable pharmacokinetics and pharmacody-
+namics (GRADE 1A). Unlike warfarin, DOACs have peaks
+and troughs because of a relatively short half-life, producing
+a peak anticoagulant effect at 2–3 h after intake. Therefore,
+any DOAC laboratory measurements must be interpreted
+in the context of the DOAC prescribed, known dosage and
+time of last administration. C linical circumstances under
+which measurement of anticoagulant effect may impact
+management are in Box
+2.16,17
+An activated partial thromboplastin time (aPTT) or
+prothrombin time (PT) within the normal range does not
+exclude elevated DOAC levels (up to 100 –150 ng/mL)
+that may contribute to ongoing bleeding or impairment
+of haemostasis with surgery.
+18,19 The sensitivity of each
+laboratory’s aPTT and PT to increasing DOAC concentra-
+tion is wide-ranging and depends on the instrument and
+reagent. There is no international DOAC coagulation
+method to standardise results such as the international
+normalised ratio (INR) for warfarin. With knowledge of
+this limitation, some clinicians may still consider
+reviewing the aPTT for dabigatran and PT for
+rivaroxaban in emergencies; the PT is generally insensi-
+tive to apixaban. Conversely, even small concentrations
+of dabigatran prolong the thrombin time (TT), such that
+a normal result excludes the presence of dabigatran but
+should not be used to estimate dabigatran concentration
+or for correction before surgery.
+20,21
+Quantiﬁcation of plasma DOAC drug levels deter-
+mined by speci ﬁc coagulation assays (dilute TT, ecarin
+clotting time for dabigatran and calibrated anti-FXa chro-
+mogenic assays for apixaban and rivaroxaban) are well
+validated for precision and monitored by external quality
+assurance programmes.
+21–23 However, the awareness of
+clinicians of the need to obtain a rapid DOAC level, as
+with an INR result for warfarin in an emergency, is lac-
+king. Approximately one in ﬁve patients taking DOACs
+who present with bleeding or require urgent surgery
+have no detectable DOAC present.
+18,19,24 In contrast, a
+timely result would signi ﬁcantly impact decisions regard-
+ing speci ﬁc DOAC haemostatic reversal agents or blood
+Tran et al.
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1176
+[[p4]]
+products. In this context, it falls to individual organisa-
+tions to develop work ﬂows which afford a prompt turn-
+around time of relevant coagulation testing, which
+would likely improve patient safety, clinical outcomes
+and cost effectiveness of DOAC reversal.
+T able 2 Summary of key recommendations
+Recommendation GRADE †
+Strength Quality
+DOACs are indicated for the prevention of
+stroke and systemic embolism in patients
+with atrial ﬁbrillation (AF), chronic stable
+atherosclerotic disease, the treatment of
+new deep vein thrombosis and pulmonary
+embolism, and secondary prevention of
+VTE, as well as the prevention of venous
+thrombosis in hip and knee arthroplasty.
+1A
+DOACs do not routinely require laboratory
+monitoring.
+1A
+Idarucizumab can be administered to patients
+with uncontrolled bleeding related to
+dabigatran or prior to an urgent procedure
+as it rapidly and safely reverses the
+anticoagulant effect and achieves adequate
+haemostasis.
+1B
+Andexanet can be administered to patients
+with life-threatening and uncontrolled
+bleeding related to apixaban and
+rivaroxaban as it effectively reduces the
+anticoagulant effects and achieves adequate
+haemostasis
+2B
+Four-factor prothrombin complex
+concentrates (4F-PCC) and activated
+prothrombin complex concentrates (FEIBA)
+can improve haemostasis in patients with
+life-threatening and uncontrolled bleeding
+related to apixaban and rivaroxaban.
+2C
+Activated charcoal should be considered in
+patients with moderate/severe bleeding who
+present within 2 h of the last dose of DOAC.
+2C
+Tranexamic acid can be prescribed as an
+adjunct in DOAC-related major bleeds.
+2C
+Anticoagulation can be resumed 1 –6 weeks
+after major bleeding, depending on
+individual bleeding and thrombosis risk.
+2C
+DOAC-speciﬁc reversal agents and
+haemostatic agents are unlikely to improve
+outcome in patients taking dabigatran with
+a drug level of <50 ng/m, or in patients on
+rivaroxaban or apixaban with drug level <75
+ng/mL.
+2C
+Apixaban and rivaroxaban can be interrupted
+1–2 days before procedures depending on
+renal function with a low rate of peri-
+procedure thrombosis and bleeding.
+1B
+Dabigatran can be interrupted 2 –4 days
+before procedures depending on renal
+function with a low rate of peri-procedure
+thrombosis and bleeding.
+1B
+Perioperative bridging with heparin is not
+indicated because of the short half-lives and
+rapid onset of action of the DOACs.
+1B
+Table 2 Continued
+Recommendation GRADE †
+Strength Quality
+FXa inhibitors can be safely interrupted 72 h
+prior to neuraxial anaesthesia in patients
+with adequate renal function.
+1B
+Dabigatran should be interrupted 96 h prior
+to neuraxial anaesthesia in patients with
+CrCl 30–50 mL/min.
+1B
+Therapeutic dose anticoagulation with DOACs
+can be resumed 48--72 h after a procedure
+(provided there are no ongoing bleeding
+risks).
+1B
+†Grading system employed to append recommendations 13,15: Strength
+of recommendation: 1 – Strong; 2 – Weak. Levels of Evidence: A – High-
+quality systematic reviews or RCTs; B – SR or individual cohort studies;
+C – Well-designed phase 2 studies or good-quality case series; D –
+Expert panel consensus. Strength of recommendation and grading of
+evidence as reviewed by the expert panel. Statements graded 1A are
+strong consensus recommendations supported by high-quality meta-
+analyses, while statements graded 2C are weak recommendations
+supported by phase 2 studies or case series. The strength of recom-
+mendation rating re ﬂects the extent to which the panel is con ﬁdent that
+the desirable effects (i.e. bene ﬁts, such as improved outcome) of a rec-
+ommendation considerably outweigh the undesirable effects (i.e.
+harms, such as adverse events) based on the available evidence.
+GRADE, Grading of Recommendations, Assessment, Development and
+Evaluation.
+Box 2 Circumstances where
+measuring direct oral anticoagulants-
+speciﬁc anticoagulant effect may be
+warranted
+Major bleeding
+ Urgent surgery
+ New or deteriorating renal impairment
+ Extremes in body weight (weight > 120 kg)
+ Recurrence or extension of thromboembolism when
+therapeutic adherence is assumed
+ Using concomitant medications which induce or inhibit liver
+enzymes
+ Before instituting thrombolysis for treatment of acute
+ischaemic stroke and other indications for thrombolysis
+2025 Guidelines for DOACs
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1177
+[[p5]]
+Reversal agents
+Idarucizumab
+Idarucizumab, a monoclonal antibody fragment that binds
+directly to dabigatran, has b een shown to reverse rapidly
+and safely its anticoagulant e ffect in patients with uncon-
+trolled bleeding or prior to an urgent procedure.25,26 It can
+also be considered in other clinical situations, for example,
+prior to thrombolysis in patients with acute coronary syn-
+drome or ischaemic stroke. In patients with adequate renal
+function, idarucizumab is unlikely to provide a clinically
+signiﬁcant beneﬁt if the last dose of drug was more than
+24 h prior. There are no relia ble cut-off values to decide
+whether surgery or invasive procedures can be carried out.
+Still, it is generally agreed that it is safe to proceed (without
+using idarucizumab) if the dabigatran level is <50 ng/mL
+or <30 ng/mL where any excess b leeding is unacceptable,
+such as neurosurgery.
+27 In patients with high dabigatran
+levels, particularly with renal impairment, further
+doses of idarucizumab may be required to avoid the
+reappearance of dabigatran in the circulation 12 –24 h
+after the last dose.
+28
+Andexanet-alfa
+Andexanet-alfa is a recombinant inactive form of human
+factor Xa developed for reve rsal of factor Xa inhibitors,
+with a cohort study showing that 82% of patients with
+acute major bleeding had exc ellent or good haemostatic
+efﬁcacy and a greater 90% reduction in the anti-FXa level
+from baseline; patients requiring urgent surgery were not
+assessed.29 The thrombotic event rate was 10% in this
+cohort at day 30, but no events occurred after the resump-
+tion of anticoagulants among patients who did restart.
+Andexanet use in FXaI-related acute ICH was associated
+with an increased rate of ischaemic stroke, but not other
+thrombotic events compared with standard of care.
+30
+Therefore, the use of andexanet should be carefully con-
+sidered, weighing up the bene ﬁts and risks for adult
+patients on apixaban or rivaroxaban where reversal is
+required due to life-threatening or uncontrolled bleeding,
+and where the last known dose of apixaban or rivaroxaban
+was <18 h prior. If the timing of the last dose is unknown,
+an urgent drug-speciﬁc anti-FXa level should be obtained
+and andexanet given if the level is >75 ng/mL.
+29 The use
+of andexanet is not indicated in those having planned sur-
+gery without current major bleeding, for those expected to
+receive heparin or other haemostatic agents within 12 h of
+andexanet treatment, those who have received PCC or
+rFVIIa products within the last 7 days and those with a
+recent history of thrombosis (<2 weeks). There is currently
+no evidence supporting the use of andexanet prior to
+thrombolysis among patients taking a FXaI who present
+with an ischaemic stroke or other indications for thrombol-
+ysis. As the pharmacodynamic half-life of andexanet is rel-
+atively short, approximately 4 h, reappearance of plasma
+rivaroxaban and apixaban was observed after cessation of
+the 2-h infusion. Subsequent monitoring of anti-FXa levels
+may be useful, particularly in those with renal impairment
+or who are still bleeding; however, anti-FXa measure-
+ments after andexanet administration are not accurate due
+to its interference with cu rrently available assays.
+28 The
+andexanet dosing (low vs. high) depends on the XaI, dose
+and timing of the last dose (Fig.
+1), as per the product
+datasheet.30
+Tranexamic acid
+Tranexamic acid (TXA) reduces bleeding by reducing clot
+breakdown ( ﬁbrinolysis) and is used in most algorithms
+for moderate to major bleeding, particularly for bleeding
+at sites with high ﬁbrinolytic activity such as the GI tract.
+TXA has been shown to reduce bleeding in the setting of
+trauma (CRASH trials) and post-partum haemorrhage
+(WOMAN trial) but did not reduce death from GI bleed-
+ing in the HALT-IT trial.
+31–33 The HALT-IT trial also
+showed increased rates of VTE events and seizures, and
+as there are no data to demonstrate improved outcomes
+or otherwise in DOAC-related bleeding, no ﬁrm recom-
+mendations can be made.
+Managing DOAC-related bleeding
+General principles in management of patients
+with bleeding while receiving DOACs
+1 Drug discontinuation: The anticoagulant should be
+ceased at least temporarily in all patients presenting with
+signiﬁcant bleeding. The timing of recommencement will
+depend on the severity of bleeding, the presence of
+ongoing risk factors for bleeding, the risk of thrombosis
+and the initial indication for anticoagulant therapy.
+2 Baseline laboratory assessment: The time of the last
+DOAC ingestion should be established (if known). Base-
+line assessment of haemoglobin should be performed to
+assess bleeding severity. Standard coagulation tests (aPTT,
+TT and PT) and, where available, anticoagulant-speci ﬁc
+drug level assessments should be performed to assess the
+contribution of the drug to the bleeding event and to
+guide the need for intervention. Creatinine should also be
+measured to assess renal function and allow prediction of
+expected rate of anticoagulant drug clearance.
+3 General supportive care measures: Patients with
+minor bleeding should be managed with local measures
+(e.g. mechanical compression). Surgical and radiological
+procedures to identify the bleeding source and to limit
+Tran et al.
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1178
+[[p6]]
+ongoing bleeding should be performed as appropriate,
+considering the risk of procedure-related bleeding in an
+anticoagulated patient. Red cell transfusion should be
+administered as clinically appropriate. Platelet transfu-
+sion should be considered in patients on concurrent
+anti-platelet therapy or with signi ﬁcant thrombocytope-
+nia (platelets <50 /C210
+9/L).
+4 Activated charcoal: Administration of activated char-
+coal should be considered in patients with moderate/
+severe bleeding who present within 2 h of the last dose
+Figure 1 Management of direct oral anticoagulant (DOAC)-related bleeding. *Clinically signi ﬁcant bleeding – reduction in Hb ≥20g/L, transfusion of
+≥2 units of red cells and haemodynamically stable. **Life-threatening bleeding – bleeding in critical area or organ (e.g. intraocular, intracranial,
+intraspinal, compartment syndrome, retroperitoneal or pericardial, hypotension not responding to resuscitation). †Give as IV bolus at rate 30 mg/min
+over 15 min (low dose) or 30 min (high dose), followed by continuous infusion of 4 mg/min (low dose) or 8 mg/min (high dose) for 120 min. High dose
+should be used for those taking rivaroxaban ≥10 mg or unknown within 8 h (or if time unknown) and apixaban >5 mg or unknown within 8 h
+(or unknown time); all others should receive low-dose protocol. #This is an off-licence use of factor eight inhibitor bypass activity (FEIBA) and PCC ; the
+thrombotic complications with these agents when used for this indication is unclear. 4F-PCC, four-factor prothrombin complex concentrate; aPTT , a cti-
+vated partial thromboplastin time; FBC, full blood count; PT , prothrombin time; TT , thrombin time.
+2025 Guidelines for DOACs
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1179
+[[p7]]
+of DOAC, although there is potential for ef ﬁcacy up to
+8 h after DOAC administration 34 (GRADE 2C).
+5 Administration of haemostatic agents: Where avail-
+able, a drug-speci ﬁc reversal agent can be given for
+major, life-threatening bleeding. In its absence, an alter-
+native haemostatic agent may need to be considered.
+Four-factor prothrombin complex concentrates (PCCs)
+????QT?–TO?tN??????L
+ately effective in the treatment of patients on factor Xa
+inhibitors presenting with major bleeding (69.1%) with a
+low thromboembolic event rate (2.3%)
+35,36 (GRADE 2C).
+Alternatively, a ﬁxed dose of 2000 IU can be used, with a
+?L??QT?????
+the reduction in bleeding, thromboembolic rates or mortal-
+ity when comparing weight-based with ﬁxed dosing.
+RV
+Activated prothrombin complex concentrate (FEIBA) has
+been shown to be effective at obtaining haemostasis in
+cn`bL????QT?–TO?tN??RW
+(GRADE 2C). Use of rFVIIa is not recommended, based on
+less consistent data on its ability to reverse anticoagulant
+effect derived from animal and laboratory models and its
+association with the risk of thrombosis when used outside
+patients with haemophilia.
+39
+6 Of all the DOACs, only dabigatran is removed by
+haemodialysis, but it is rarely performed because of the
+availability of idarucizumab. DOAC-speci ﬁc reversal
+agents and haemostatic agents are unlikely to improve
+outcome in patients taking dabigatran with a drug level
+of <50 ng/mL or in patients on rivaroxaban or apixaban
+with drug level <75 ng/mL (GRADE 2C).
+29 Tranexamic
+acid should also be considered.
+Figure 1 shows the algorithm to manage DOAC-
+related bleeding.
+Resumption of AC after major bleeding
+Following the cessation of bl eeding, treatment of identi-
+ﬁable underlying causes, th e need for anticoagulation
+and its bene ﬁt should be reviewed, including the choice
+and dose of anticoagulant. This needs to be weighed
+against the risk of recurrent bleeding, and risk factors
+for bleeding should be addressed and modi ﬁed if feasi-
+b l e .F o rm o s tp a t i e n t s ,r e s umption of anticoagulation is
+favoured unless the recurrent bleeding risk is high and
+cannot be reduced to an acceptable level with treat-
+ments or interventions targeted at addressing the
+underlying cause of bleedin g. The optimal timing for
+anticoagulant resumption based on current available
+evidence is between 1 and 6 weeks depending on
+individual bleeding and thromboembolism risk
+40
+(GRADE 2C).
+Perioperative management of patients
+receiving a DOAC undergoing elective
+surgery
+Optimal management of the interruption of DOAC ther-
+apy for procedures remains an area of ongoing research.
+A meta-analysis of eight studies of perioperative DOAC
+interruption reported a thromboembolic risk of 0.41%
+and a major bleeding rate of 1.8%.
+41
+The Perioperative Anticoagulation for Use in Surgery
+Evaluation (PAUSE) study was a pragmatic multicentre
+prospective management study of periprocedural man-
+agement involving 3007 patients with AF taking
+apixaban, rivaroxaban or dabigatran, where a standard
+protocol of interruption and resumption was followed
+depending on the type of procedure (low or high bleed-
+ing risk) and renal function, designed to minimise the
+window with no anticoagulation and simplify protocols
+for ease of adherence.
+42 The overall 30-day rate of arte-
+rial thromboembolism and major bleeding was 0.16% –
+0.6% and 0.9% –1.85% for different DOACs
+respectively.43
+Practical summary for perioperative
+interruption of DOAC 43,45
+For apixaban 5 mg twice daily and rivaroxaban 20 mg
+daily:
+ Omit for 2 days before and the day of surgery for sur-
+geries with a high risk of bleeding.
+ Omit for 1 day before and the day of surgery for sur-
+geries with low to moderate risk of bleeding
+(GRADE 1B).
+For apixaban 2.5 mg twice daily (CrCl ≥ 25 mL/min)
+and rivaroxaban 10 mg daily (CrCl ≥ 15 mL/min),
+rivaroxaban 2.5 mg twice daily
+ Omit 1 day before and the day of surgery (GRADE 1B).
+For dabigatran
+ For surgery with high bleeding risk
+/C14Omit for 4 days and the day of surgery if CrCl is
+<50 mL/min
+/C14Omit for 2 days and the day of surgery if CrCl is
+≥50 mL/min (GRADE 1B)
+ For surgery with low to moderate bleeding risk
+/C14Omit for 2 days and the day of surgery if CrCl is
+<50 mL/min
+/C14Omit for 1 day and the day of surgery if CrCl is ≥50
+mL/min (GRADE 1B)
+Tran et al.
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1180
+[[p8]]
+Perioperative bridging with heparin is not
+indicated because of the short half-lives and
+rapid onset-offset of action of the DOACs
+The measurement of FXaI-speci ﬁc anti-Xa levels prior to
+surgery is generally not necessary except in patients with
+chronic kidney disease (for FXaI, stage 4, CrCl 15 –29
+mL/min or less; for dabigatran Stage 3a, CrCl ≤45–59
+mL/min (GRADE 1B)).
+Surgery involving neuraxial anaesthesia in
+patients receiving DOACs
+International guidelines and data from management
+studies recommend a 72-h interruption of FXaI prior to
+surgery or until the direct FXa drug level is <30
+ng/mL43,44,46 (GRADE 1B). For dabigatran, 72 h was
+recommended in correlation with anticoagulant drug
+levels with renal impairment by European guidelines. 45
+However, it is reasonable to follow the PAUSE rec-
+ommended interval of 96 h for patients taking
+dabigatran with a CrCl of 30 –50 mL/min, but levels
+should be considered in elderly patients, particularly if
+renal function is close to 30 mL/min, ensuring a drug
+level of <30 ng/mL
+43 (GRADE 1B).
+Resumption of DOAC after surgery
+In all patients who have their therapeutic anticoagulation
+interrupted, pharmacological thromboprophylaxis should
+be prescribed when safe and continued until therapeutic
+oral anticoagulants are restarted.
+ Therapeutic doses of apixaban, rivaroxaban and
+dabigatran can be resumed 48 –72 h after surgery with
+high bleeding risk (GRADE 1B). For patients at continued
+high risk for bleeding, a prophylactic dose of anticoagu-
+lant (e.g. apixaban 2.5 mg twice daily or rivaroxaban 10
+mg daily, orally, or enoxaparin 40 mg subcutaneously
+daily) can continue until it is safe to resume therapeutic
+dosing.
+ If patients are usually on the prophylactic dose of FXaI
+(e.g. apixaban 2.5 mg bd or rivaroxaban 10 mg daily),
+these can be resumed 12 –24 h after surgery in the
+absence of increased bleeding risk.
+ LMWH as thromboprophylaxis can be used in patients
+with unpredictable oral drug absorption.
+Conclusion
+This is the ﬁrst evidence-based update on the manage-
+ment of patients receiving DOACs in a decade in
+Australia and New Zealand. We encourage following the
+recommendations to standardise practice. More evidence
+is needed to establish whether andexanet is associated
+with a net clinical outcome bene ﬁt in life-threatening
+bleeds, given the increased rate of thrombosis associated
+with its use.
+Acknowledgements
+The co-authors ’ contribution to this guideline is
+unfunded. Open access publishing facilitated by Monash
+University, as part of the Wiley - Monash University
+agreement via the Council of Australian University
+Librarians.
+References
+1 Barnes GD, Ageno W, Castellucci LA,
+Chiasakul T, Eslick R, Ferreiro JL et al.
+Recommendation on the nomenclature
+for anticoagulants: updated
+communication from the International
+Society on Thrombosis and Haemostasis
+Scientiﬁc and Standardization
+Commitee on the Control of
+Anticoagulation. J Thromb Haemost
+2023; 21: 1381–4.
+2 Keita I, Aubin-Auger I, Lalanne C,
+Aubert JP, Chassany O, Duracinsky M
+et al. Assessment of quality of life,
+satisfaction with anticoagulation therapy,
+and adherence to treatment in patients
+receiving long-course vitamin K
+antagonists or direct oral anticoagulants
+for venous thromboembolism. Patient
+Prefer Adherence 2017; 11:1 6 2 5–34.
+3 Ruff CT, Giugliano RP, Braunwald E,
+Hoffman EB, Deenadayalu N,
+Ezekowitz MD et al. Comparison of the
+efﬁcacy and safety of new oral
+anticoagulants with warfarin in patients
+with atrial ﬁbrillation: a meta-analysis
+of randomised trials. Lancet 2014; 383:
+955–62.
+4 Eikelboom JW, Connolly SJ, Bosch J,
+Dagenais GR, Hart RG, Shestakovska O
+et al. Rivaroxaban with or without
+aspirin in stable cardiovascular disease.
+N Engl J Med 2017; 377: 1319–30.
+5 van Es N, Coppens M, Schulman S,
+Middeldorp S, Buller HR. Direct oral
+anticoagulants compared with vitamin K
+antagonists for acute venous
+thromboembolism: evidence from
+phase 3 trials.Blood 2014; 124: 1968–75.
+6 Connolly SJ, Ezekowitz MD, Yusuf S,
+Eikelboom J, Oldgren J, Parekh A et al.
+Dabigatran versus warfarin in patients
+with atrial ﬁbrillation. N Engl J Med
+2009; 361: 1139–51.
+7 Agnelli G, Buller HR, Cohen A,
+Curto M, Gallus AS, Johnson M et al.
+Apixaban for extended treatment of
+venous thromboembolism. N Engl J Med
+2013; 368: 699–708.
+8 Weitz JI, Lensing AWA, Prins MH,
+Bauersachs R, Beyer-Westendorf J,
+Bounameaux H et al. Rivaroxaban or
+aspirin for extended treatment of
+venous thromboembolism. N Engl J Med
+2017; 376: 1211
+–22.
+9 Australian Medicines Handbook. Drug
+interactions search. [cited 2024 Sep 30].
+Available from URL: https://amhonline.
+amh.net.au/
+10 Held C, Hylek EM, Alexander JH,
+Hanna M, Lopes RD, Wojdyla DM et al.
+Clinical outcomes and management
+2025 Guidelines for DOACs
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1181
+[[p9]]
+associated with major bleeding in
+patients with atrial ﬁbrillation treated
+with apixaban or warfarin: insights
+from the ARISTOTLE trial. Eur Heart J
+2015; 36: 1264–72.
+11 Chai-Adisaksopha C, Hillis C,
+Isayama T, Lim W, Iorio A,
+Crowther M. Mortality outcomes in
+patients receiving direct oral
+anticoagulants: a systematic review and
+meta-analysis of randomized controlled
+trials. J Thromb Haemost 2015; 13:
+2012–20.
+12 Douketis JD, Berger PB, Dunn AS,
+Jaffer AK, Spyropoulos AC, Becker RC
+et al. The perioperative management of
+antithrombotic therapy:
+American College of Chest Physicians
+Evidence-Based Clinical Practice
+Guidelines (8th edition). Chest 2008;
+133: 299S–339S.
+13 National Health and Medical Research
+Council. Guidelines for Guidelines: Adopt,
+Adapt or Start from Scratch (Version 5.2) .
+Canberra: NHMRC; 2018 (cited
+2024 July 15). Available from URL:
+https://www.nhmrc.gov.au/guidelines.
+14 Schunemann HJ, Wiercioch W,
+Brozek J, Etxeandia-Ikobaltzeta I,
+Mustafa RA, Manja V et al. GRADE
+evidence to decision (EtD) frameworks
+for adoption, adaptation, and de novo
+development of trustworthy
+recommendations: GRADE-
+ADOLOPMENT. J Clin Epidemiol 2017;
+81: 101–10.
+15 Steffel J, Collins R, Antz M, Cornu P,
+Desteghe L, Haeusler KG et al. 2021
+European heart rhythm association
+practical guide on the use of non-
+vitamin K antagonist Oral
+anticoagulants in patients with atrial
+ﬁbrillation. Europace 2021; 23: 1612–76.
+16 January CT, Wann LS, Calkins H,
+Chen LY, Cigarroa JE, Cleveland JC Jr
+et al. 2019 AHA/ACC/HRS focused
+update of the 2014 AHA/ACC/HRS
+guideline for the Management of
+Patients with Atrial Fibrillation: a report
+of the American College of Cardiology/
+American Heart Association task force
+on clinical practice guidelines and the
+Heart Rhythm Society. J Am Coll Cardiol
+2019; 74: 104–32.
+17 Marsch A, Macha K, Siedler G,
+Breuer L, Strasser EF, Engelhorn T
+et al . Direct Oral anticoagulant plasma
+levels for the Management of Acute
+Ischemic Stroke. Cerebrovasc Dis 2019;
+48:1 7 –25.
+18 Albaladejo P, Bonhomme F, Blais N,
+Collet JP, Faraoni D, Fontana P et al.
+Management of direct oral
+anticoagulants in patients undergoing
+elective surgeries and invasive
+procedures: updated guidelines from
+the French working group on
+perioperative hemostasis (GIHP) -
+September 2015. Anaesth Crit Care Pain
+Med 2017; 36:7 3–6.
+19 Renon F, Rago A, Liccardo B,
+D’Andrea A, Riegler L, Golino P et al.
+Direct Oral anticoagulants plasma levels
+measurement: clinical usefulness from
+trials and real-world data. Semin Thromb
+Hemost 2021; 47: 150–60.
+20 Doux ﬁls J, Adcock DM, Bates SM,
+Favaloro EJ, Gouin-Thibault I,
+Guillermo C et al. 2021 update of the
+International Council for
+Standardization in Haematology
+recommendations for laboratory
+measurement of direct Oral
+anticoagulants. Thromb Haemost 2021;
+121: 1008–20.
+21 Akpan IJ, Cuker A. Laboratory
+assessment of the direct oral
+anticoagulants: who can bene ﬁt?
+Kardiol Pol 2021; 79
+: 622–30.
+22 Jaffer IH, Chan N, Roberts R,
+Fredenburgh JC, Eikelboom JW,
+Weitz JI. Comparison of the ecarin
+chromogenic assay and diluted
+thrombin time for quanti ﬁcation of
+dabigatran concentrations. J Thromb
+Haemost 2017; 15: 2377–87.
+23 Baker RI, Gilmore G, Chen V, Young L,
+Merriman E, Curnow J et al. Direct oral
+anticoagulants or vitamin K antagonists
+in emergencies: comparison of
+management in an observational study.
+Res Pract Thromb Haemost 2023; 7:
+100196.
+24 Pollack CV Jr, Reilly PA, van Ryn J,
+Eikelboom JW, Glund S, Bernstein RA
+et al. Idarucizumab for dabigatran
+reversal - full cohort analysis. N Engl J
+Med 2017; 377: 431–41.
+QT?jLk?r`K?`?`aK
+Afshari A, Albaladejo P, Aldecoa C,
+Barauskas G et al. Management of
+severe perioperative bleeding:
+guidelines from the European Society of
+Anaesthesiology: ﬁrst update 2016. Eur
+J Anaesthesiol 2017; 34: 332–95.
+26 Tripodi A. To measure or not to
+measure direct oral anticoagulants
+before surgery or invasive procedures:
+reply. J Thromb Haemost 2016; 14:
+2559–61.
+27 van Es N, De Caterina R, Weitz JI.
+Reversal agents for current and
+forthcoming direct oral anticoagulants.
+Eur Heart J 2023; 44: 1795–806.
+28 Connolly SJ, Crowther M,
+Eikelboom JW, Gibson CM,
+Curnutte JT, Lawrence JH et al. Full
+study report of andexan et alfa for
+bleeding associated with factor Xa
+inhibitors. N Engl J Med 2019; 380:
+1326–35.
+29 Connolly SJ, Sharma M, Cohen AT,
+Demchuk AM, Czlonkowska A,
+Lindgren AG et al. Andexanet for factor
+Xa inhibitor-associated acute
+intracerebral hemorrhage. N Engl J Med
+2024; 390: 1745–55.
+30 Andexxa. Step-by-step dosing and
+administration. [cited 2024 Sep 30].
+Available from URL: https://www.
+andexxa.com/dosing-administration.
+html
+31 Collaborators C-t. Effects of tranexamic
+acid on death, disability, vascular
+occlusive events and other morbidities
+in patients with acute traumatic brain
+injury (CRASH-3): a randomised,
+placebo-controlled trial. Lancet 2019;
+394: 1713–23.
+32 Collaborators H-IT. Effects of a high-
+dose 24-h infusion of tranexamic acid
+on death and thromboembolic events in
+patients with acute gastrointestinal
+bleeding (HALT-IT): an international
+randomised, double-blind, placebo-
+controlled trial. Lancet 2020; 395:
+1927–36.
+33 Collaborators WT. Effect of early
+tranexamic acid administration on
+mortality, hysterectomy, and other
+morbidities in women with post-partum
+haemorrhage (WOMAN): an
+international, randomised, double-
+blind, placebo-controlled trial. Lancet
+2017; 389: 2105–16.
+34 Ollier E, Hodin S, Lanoiselee J, Escal J,
+Accassat S, De Magalhaes E et al. Effect
+of activated charcoal on rivaroxaban
+complex absorption. Clin Pharmacokinet
+2017; 56: 793–801.
+35 Majeed A, Agren A, Holmstrom M,
+Bruzelius M, Chaireti R, Odeberg J et al.
+Management of rivaroxaban- or
+apixaban-associated major bleeding
+with prothrombin complex
+concentrates: a cohort study. Blood
+2017; 130: 1706–12.
+36 Schulman S, Gross PL, Ritchie B,
+Nahirniak S, Lin Y, Lieberman L et al.
+Prothrombin complex concentrate for
+Tran et al.
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1182
+[[p10]]
+major bleeding on factor Xa inhibitors: a
+prospective cohort study. Thromb
+Haemost 2018; 118: 842–51.
+RV?b?sK?b?lK?b?`M
+Four-factor prothrombin complex
+concentrate for the treatment of oral
+factor Xa inhibitor-associated bleeding:
+a meta-analysis of ﬁxed versus variable
+dosing. Res Pract Thromb Haemost 2023;
+7: 100107.
+38 Hunt AR, Coffeen SN, Shiltz DL, Ice C,
+Parker J. Factor VIII inhibitor bypassing
+activity (FEIBA) reversal for apixaban
+and rivaroxaban in patients with acute
+intracranial and nonintracranial
+hemorrhage. Ann Pharmacother 2021;
+55: 1455–66.
+39 Levi M, Levy JH, Andersen HF,
+Truloff D. Safety of recombinant
+activated factor VII in randomized
+clinical trials. N Engl J Med 2010; 363:
+1791–800.
+40 Grainger BT, McFadyen JD, Tran H.
+Between a rock and a hard place:
+resumption of oral anticoagulant
+therapy after intracranial hemorrhage.
+J Thromb Haemost 2023; 22: 594–603.
+41 Shaw JR, Wood ﬁne JD, Douketis J,
+Schulman S, Carrier M. Perioperative
+interruption of direct oral
+anticoagulants in patients with atrial
+ﬁbrillation: a systematic review and
+meta-analysis. Res Pract Thromb Haemost
+2018; 2: 282–90.
+42 Douketis JD, Spyropoulos AC,
+Duncan J, Carrier M, Le Gal G, Tafur AJ
+et al. Perioperative management of
+patients with atrial ﬁbrillation receiving
+a direct oral anticoagulant. JAMA Intern
+Med 2019; 179: 1469–78.
+43 Douketis JD, Gross M, Schulman, S P.
+PAUSE-2 randomized pilot trial to
+compare two strategies (PAUSE vs.
+ASRA) for perioperative DOAC
+management. Res Pract Thromb Haemost
+2022; 6: e12787.
+44 Douketis JD, Spyropoulos AC,
+Murad MH, Arcelus JI, Dager WE,
+Dunn AS et al. Executive summary:
+perioperative management of
+antithrombotic therapy: an American
+College of Chest Physicians Clinical
+Practice Guideline. Chest 2022; 162:
+1127–39.
+45 Kietaibl S, Ferrandis R, Godier A,
+Llau J, Lobo C, Macfarlane AJ et al
+.
+Regional anaesthesia in patients on
+antithrombotic drugs: joint ESAIC/
+ESRA guidelines. Eur J Anaesthesiol
+2022; 39: 100–32.
+Supporting Information
+Additional supporting information may be found in the online version of this article at the publisher ’s web-site:
+Appendix S1. Method of guidelines for DOACs development.
+2025 Guidelines for DOACs
+Internal Medicine Journal 55 (2025) 1174–1183
+© 2025 The Author(s). Internal Medicine Journal published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Physicians.
+1183

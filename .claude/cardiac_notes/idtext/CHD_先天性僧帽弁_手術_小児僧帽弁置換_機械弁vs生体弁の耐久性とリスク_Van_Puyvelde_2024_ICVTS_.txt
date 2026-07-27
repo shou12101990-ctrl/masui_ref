@@ -1,0 +1,634 @@
+
+[[p1]]
+Cite this article as: Van Puyvelde J, Meyns B, Rega F, Gewillig M, Eyskens B, Heying R et al. Mitral valve replacement in children: balancing durability and risk with 
+mechanical and bioprosthetic valves. Interdiscip CardioVasc Thorac Surg 2024; doi:10.1093/icvts/ivae034.
+Mitral valve replacement in children: balancing durability and risk 
+with mechanical and bioprosthetic valves
+Joeri Van Puyvelde 
+a,b ,
+�
+, Bart Meyns 
+a ,b
+, Filip Rega 
+a , b
+, Marc Gewillig 
+a ,c
+, Benedicte Eyskens 
+a ,c
+,  
+Ruth Heying 
+a,c
+, Bjorn Cools
+a,c
+, Thomas Salaets 
+a ,c
+, Peter-William Hellings
+a 
+and Bart Meuris 
+a,b 
+a 
+Department of Cardiovascular Sciences, KU Leuven, Leuven, Belgium 
+b 
+Department of Cardiac Surgery, University Hospitals Leuven, Leuven, Belgium 
+c 
+Department of Pediatric and Congenital Cardiology, University Hospitals Leuven, Leuven, Belgium 
+�
+Corresponding author. Department of Cardiac Surgery, University Hospitals Leuven, Herestraat 49, 3000 Leuven, Belgium. Tel: þ32-16-344260;  
+e-mail: joeri.vanpuyvelde@uzleuven.be (J. Van Puyvelde). 
+Received 18 November 2023; received in revised form 9 February 2024; accepted 5 March 2024
+Abstract 
+OBJECTIVES: To investigate if there is still a place for bioprosthetic mitral valve replacement in children by comparing the prosthetic du -
+rability and transplant-free survival after bioprosthetic and mechanical mitral valve replacement.
+METHODS: We reviewed all mitral valve replacements in children between 1981 and 2020. Bioprosthetic mitral valve replacement cases 
+were individually matched to mechanical mitral valve replacement cases. The incidence rate of a 2nd replacement was calculated using 
+the cumulative incidence function that considered death or transplantation as a competing risk.
+RESULTS: The median age at implantation was 3.6 years (interquartile range 0.8–7.9) for the bioprosthetic valve cohort (n ¼ 28) and 3 years 
+(interquartile range 1.3–7.8) for the mechanical valve cohort (n ¼ 28). Seven years after bioprosthetic mitral valve replacement, the cumulative 
+incidence of death or transplantation was 17.9% [95% confidence interval (CI) 6.3–34.1] and the cumulative incidence of a 2nd replacement 
+was 63.6% (95% CI 39.9–80.1). Seven years after mechanical mitral valve replacement, the cumulative incidence of death or transplantation 
+CONGENITAL DISEASE 
+# The Author(s) 2024. Published by Oxford University Press on behalf of the European Association for Cardio-Thoracic Surgery. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/licenses/ 
+by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial 
+re-use, please contact journals.permissions@oup.com 
+Interdisciplinary CardioVascular and Thoracic Surgery 2024, 38(3), ivae034                                                                                     ORIGINAL ARTICLE 
+https://doi.org/10.1093/icvts/ivae034 Advance Access publication 6 March 2024 
+[[p2]]
+was 28.6% (95% CI 13.3–46) and the cumulative incidence of a 2nd replacement was 10.7% (95% CI 2.6–25.5). Fifteen years after mechanical 
+mitral valve replacement, the cumulative incidence of death or transplantation was 33.6% (95% CI 16.2–52.1) and the cumulative incidence of 
+a 2nd replacement was 41.1% (95% CI 18.4–62.7). The cumulative incidence curves for bioprosthetic and mechanical mitral valve replacement 
+were statistically different for a 2nd valve replacement (P < 0.001) but not for death or transplantation (P ¼ 0.33).
+CONCLUSIONS: There is no difference in transplant-free survival after bioprosthetic and mechanical mitral valve replacement in chil -
+dren. The lifespan of bioprosthetic mitral valves remains limited in children because of structural valve failure due to calcification. After 
+15 years, 40% of mechanical valves were replaced, primarily because of patient–prosthesis mismatch related to somatic growth.
+Keywords: Mitral valve replacement • Paediatric • Congenital • Mechanical mitral valve • Bioprosthetic mitral valve
+ABBREVIATIONS   
+CI Confidence interval  
+IQR Interquartile range  
+MVR Mitral valve replacement 
+INTRODUCTION
+Mitral valve replacement (MVR) in children is a last resort option, in 
+case valve repair fails or is technically unfeasible [ 1–5 ]. Despite surgi -
+cal advances, MVR in young children remains a clinical and technical 
+challenge and is associated with an early mortality of �5–14% [ 6–9 ]. 
+Furthermore, over time, somatic growth will lead to patient–prosthe -
+sis size mismatch and a 2nd valve replacement becomes inevitable.
+It is still debated which type of prosthesis is most suitable for 
+these young patients as both options have major limitations. 
+Mechanical valves typically have a low profile and good durability 
+but are vulnerable to thromboembolism, haemolysis, infective en -
+docarditis, the risks associated with lifetime anticoagulation and 
+the risk of reoperation due to patient–prosthesis mismatch associ -
+ated with somatic growth [ 7 , 10–13 ]. Bioprosthetic valves on the 
+other hand avoid the need for anticoagulation but are associated 
+with accelerated calcification leading to failure and early reopera -
+tion, especially in young children [ 14 ]. It is also crucial to highlight 
+the significant risk of endocarditis associated with bioprosthetic 
+valves, especially following Melody valve implantation [ 13 ].
+Mechanical valves have been the preferred prosthesis during 
+the last decades because of their superior durability. However, 
+the introduction of newer generation bioprosthetic valves led to 
+an increased interest in bioprosthetic valves for young children. 
+For instance, stented jugular vein grafts have the potential for 
+catheter-based expansion in case of somatic outgrowth [ 14–16 ]. 
+Furthermore, new tissue treatment techniques might slow down 
+the degeneration process of the bioprosthetic valves, making 
+them a more desirable option in the paediatric population [ 17 ].
+Because mechanical valves were preferred during the last dec -
+ades, the survival of bioprosthetic valves was not extensively 
+studied. The objective of our single-centre, retrospective study 
+was to compare the prosthetic durability and transplant-free 
+survival of bioprosthetic and mechanical MVR in children.
+PATIENTS AND METHODS
+Ethics statement
+This study was approved by the Institutional Review Board 
+(Research Ethics Committee UZ/KU Leuven; MP009402; approved 
+on 27 May 2019). The requirement for individual formal consent 
+from the patients or relatives was waived considering the retro -
+spective nature of the study and the respect of anonymity.
+Study design
+All paediatric patients (age �16 years) who underwent MVR with 
+a bioprosthetic or mechanical mitral valve at the University 
+Hospital Leuven, Belgium between January 1981 and December 
+2020 were included in this study. Patients were identified by a 
+search of the surgical database for all cases of MVR and data 
+were collected by retrospective chart review.
+Case matching
+A matched design was implemented to compare the prosthetic 
+durability and transplant-free survival after bioprosthetic and 
+mechanical MVR. Bioprosthetic MVR cases were individually 
+matched as closely as possible to mechanical MVR cases, taking 
+into account the age and weight of the patient at the time of 
+surgery as well as the number of previously performed proce -
+dures on the mitral valve and the time period in which the sur -
+gery was performed.
+Data analysis
+Continuous data are reported as median and interquartile 
+range (IQR). Discrete data are presented as frequency (percent -
+age). P values <0.05 were considered statistically significant, all 
+P values being two-sided. For tests of continuous variables that 
+did not deviate significantly from a normal distribution 
+(Shapiro–Wilk test P > 0.05), paired Student’s t-tests were used. 
+For non-parametrical data, a Wilcoxon sign-rank test was 
+conducted. Patients’ body surface area was calculated using the 
+Dubois and Dubois formula [ 18 ]. Event-free survival, defined as 
+freedom from death, transplantation or a 2nd valve replace -
+ment, curves were generated by the Kaplan–Meier method. 
+Bioprosthetic and mechanical mitral valve durability, defined 
+by the need for a 2nd MVR, was also evaluated in this study. 
+Cardiac transplantation or death is considered a competing risk 
+because it precludes a 2nd valve replacement. Competing 
+risk events may overestimate the primary event of interest 
+using the usual Kaplan–Meier method. Therefore, the estimated 
+cumulative incidence of a 2nd valve replacement was calcu -
+lated using the cumulative incidence function that considered 
+all-cause death or transplantation as a competing risk, and the 
+equality of distributions was tested with Gray’s test for equality 
+[ 19 ]. All statistical analyses were performed using IBM SPSS 
+statistics version 29 (IBM corp., Armonk, NJ, USA), R version 
+2 J. Van Puyvelde et al. / Interdisciplinary CardioVascular and Thoracic Surgery 
+[[p3]]
+4.2.1 (R Foundation for Statistical Computing, Vienna, Austria) 
+and GraphPad Prism version 10.1.0 (Dotmatics, Boston, 
+MA, USA).
+RESULTS
+Patient characteristics
+v??XU?luq???VT????QX???L
+prosthetic mitral valves and 67 with mechanical mitral valves. 
+Ages varied between 21 days and 16 years (median 6.4 years; IQR 
+1.6–10.2). Indications for initial replacement were common 
+atrioventricular canal (n ¼ 26, 34.7%), congenital mitral stenosis 
+(n ¼ 8, 10.7%), congenital mitral insufficiency (n ¼ 25, 33.3%), 
+congenital mitral stenosis and insufficiency (n ¼ 5, 6.7%), ac -
+quired mitral valve insufficiency (n ¼ 8, 10.7%) and endocarditis 
+(n ¼ 3, 4%). In total, 12 patients (16%) had a genetic syndrome, 
+of whom 7 had Down syndrome. The median number of previ -
+ous mitral valve repair procedures per patient since birth was 1 
+(IQR 0–2) and 21 patients underwent at least 1 previous MVR. 
+Postoperatively, every patient who received a mechanical mitral 
+valve was prescribed Vitamin K antagonists. Similarly, the 
+patients with bioprosthetic mitral valves were treated with aspi -
+rin therapy.
+Overall outcomes
+The median follow-up time after MVR was 5 years (IQR 1–16.5), 
+with a median of 2.7 years (IQR 0.1–4.9) after bioprosthetic MVR 
+and 8.3 years (IQR 1.9–18.6) after mechanical MVR. The hospital 
+mortality rate for all patients who underwent MVR was 11.5% 
+(11/96). The overall survival rate was 81.6% [95% confidence in -
+terval (CI) 72–88] at 1 year, 77.9% (95% CI 68–85) at 5 years and 
+74.1% (95% CI 63–82) at 10 years follow-up. The estimated 
+event-free survival was 79.7% (95% CI 70–87) at 1 year, 66.9% 
+(95% CI 56–76) at 5 years, 53.5% (95% CI 42–64) at 10 years and 
+38.6% (95% CI 27–50) at 20 years follow-up.
+Matched cohorts: patient characteristics
+Only 1 bioprosthetic MVR case of a small patient (age <2 years) 
+could not be included in the matched analysis because no me -
+chanical MVR patient was available with matching parameters 
+within an acceptable range. The characteristics of the matched 
+????s?PM?s??luq??
+was composed of 28 cases with a median age at implantation of 
+3.6 years (IQR 0.8–7.9), a median weight of 12.1 kg (IQR 7.6–18.7) 
+and a median body surface area of 0.46 m
+2 
+(IQR 0.37–0.77). The 
+mechanical MVR cohort was composed of 28 cases with a me -
+dian age at implantation of 3 years (IQR 1.3–7.8), a median 
+weight of 13.5 kg (IQR 7.4–19.1) and a median body surface area 
+of 0.7 m
+2 
+(IQR 0.38–0.81). The median follow-up was 3.5 years 
+(IQR 2–5.6) for the bioprosthetic MVR cohort and 6 years (IQR 
+1–10.4) for the mechanical MVR cohort. The median prosthesis 
+size was 21 mm (IQR 19–25) for the bioprosthetic MVR cohort 
+and 23 mm (IQR 19–25) for the mechanical MVR cohort (see 
+Table 2 for specific models).
+Event-free survival
+The Kaplan–Meier plot for event-free survival for both groups is 
+??eM?PM?s??L?????L
+prosthetic MVR cohort was 78.6% (95% CI 58–90) at 1 year, 
+46.3% (95% CI 26–64) at 5 years and 0% at 10 years follow-up. 
+For the mechanical MVR cohort, the estimated event-free sur -
+vival was 75% (95% CI 55–87) at 1 year, 60.7% (95% CI 40–76) at 
+5 years and 50.6% (95% CI 30–68) at 10 years follow-up.
+Causes of death
+There were 4 deaths in the bioprosthetic MVR cohort and 1 
+transplantation for end-stage heart failure following MVR in a 
+patient with severe left ventricular dysfunction. One patient did 
+not survive salvage MVR for cardiogenic shock with severe pul -
+monary oedema following failure of mitral valve repair. Another 
+patient with severe hypertrophic cardiomyopathy required an 
+extensive myectomy that led to mitral insufficiency requiring 
+MVR. He required postoperative mechanical support and died 
+from failure of cardiac recovery. A 3rd patient with left main cor -
+onary artery atresia, left ventricular dysfunction and mitral regur -
+gitation underwent coronary artery bypass grafting but required 
+postoperative mechanical support. After 1 month on mechanical 
+support, MVR was performed, but she died from failure of car -
+diac recovery 1 month later. The 4th patient died from persistent 
+multiple organ failure following urgent MVR after 2 failed mitral 
+valve repair procedures.
+There were 9 deaths in the mechanical MVR cohort. One 
+Fontan patient died during emergency MVR after 2 failed mitral 
+valve repair procedures. Another patient with a functionally uni -
+ventricular heart did not survive MVR because of persistent 
+bleeding and cardiac failure. There was 1 other early death re -
+lated to multiple organ failure. Of the 6 late deaths, 1 was non- 
+cardiac, 1 was due to mechanical valve thrombosis and 4 were 
+unexplained sudden deaths.
+Modes of prosthesis failure
+There were 16 second valve replacements in the bioprosthetic 
+MVR cohort (Fig. 2A). Twelve bioprosthetic mitral valves were 
+replaced for degenerative calcification and stenosis, 1 for regur -
+gitation and 3 for mixed disease. Of the 6 balloon-expandable 
+valves, 2 had a small paravalvular leak postoperatively that was 
+successfully resolved after balloon dilation. Three patients 
+underwent balloon dilation for mitral stenosis, successfully re -
+solving the transmitral gradient without resulting in mitral insuf -
+ficiency. However, one patient who underwent a 2nd balloon 
+dilation for mitral stenosis 2 years later did not achieve success -
+ful resolution and had to undergo valve replacement.
+There were 9 second valve replacements in the mechanical 
+MVR cohort (Fig. 2B). In 1 patient, the left ventricular function 
+was impaired and angiography showed a severe stenosis of the 
+circumflex artery due to obstruction by the large mechanical 
+prosthesis. He underwent early replacement with a smaller size 
+prosthesis. Five prostheses were replaced because of mitral valve 
+stenosis due to somatic growth. Two supra-annular placed pros -
+theses were replaced with a larger size because the ventricular -
+ized atrium below the prosthesis dilated and impaired the 
+ventricular function. There was 1 case of prosthetic valve throm -
+bosis after 20 years requiring urgent valve replacement.
+CONGENITAL DISEASE 
+3 J. Van Puyvelde et al. / Interdisciplinary CardioVascular and Thoracic Surgery 
+[[p4]]
+Cumulative incidence of 2nd valve replacement 
+and of death or transplant
+The 2 cohorts were compared in a competing risk analysis for a 
+2nd valve replacement and for death or transplant (Fig. 3). Seven 
+years after bioprosthetic MVR, the cumulative incidence of 
+death or transplantation was 17.9% (95% CI 6.3–34.1) and the 
+cumulative incidence of a 2nd replacement was 63.6% (95% CI 
+39.9–80.1). Seven years after mechanical MVR, the cumulative 
+incidence of death or transplantation was 28.6% (95% CI 13.3– 
+46) and the cumulative incidence of a 2nd replacement was 
+10.7% (95% CI 2.6–25.5). Fifteen years after mechanical MVR, the 
+cumulative incidence of death or transplantation was 33.6% 
+(95% CI 16.2–52.1) and the cumulative incidence of a 2nd re -
+placement was 41.1% (95% CI 18.4–62.7). The cumulative inci -
+dence curves for bioprosthetic and mechanical MVR were 
+statistically different for a 2nd valve replacement (P < 0.001) but 
+not for death or transplantation (P ¼ 0.33).
+DISCUSSION
+Every attempt should be made to repair a dysfunctional mitral 
+valve, especially in children. Unfortunately, if previous attempts 
+to avoid or delay valve replacement failed, the only viable 
+course of action that remains is replacing the valve. Currently, 
+there is no ideal prosthesis available, as both mechanical and 
+bioprosthetic valves have major limitations. Bioprosthetic valves 
+calcify and deteriorate over time, making a 2nd replacement in -
+evitable. Mechanical prostheses need lifetime anticoagulation 
+and require replacement once the patient’s somatic growth 
+leads to mitral valve stenosis due to patient–prosthesis mismatch 
+[ 10 ]. Paediatric patients with mechanical heart valves are at a 
+higher risk of developing thromboembolism than adults, and 
+the optimal anticoagulation therapy remains unclear [ 20 ]. 
+In addition, the quality of life can be impacted by frequent phle -
+botomies required to achieve and maintain therapeutic levels in 
+children with age-related changes in drug metabolism 
+and clearance.
+Our study presents a single-centre experience with biopros -
+???luq??VT?M?v????
+mortality of 11.5%, which is in line with other studies and reflects 
+the significant morbidity and mortality that remains associated 
+with MVR in children [ 1–4 ]. Previous studies already illustrated 
+the higher mortality risk associated with valve oversizing 
+and with MVR in young children (<2 years) [ 6 , 9 , 21 , 22 ]. 
+Table 1: Patient demographics and pre-operative and operative characteristics
+Matched population Bioprosthetic (n ¼ 28) Mechanical (n ¼ 28) P value
+Patient characteristics
+Age at implantation (years), median (IQR) 3.6 (0.8–7.9) 3.0 (1.3–7.8) 0.45
+Male, n (%) 16 (57) 19 (68) 0.44
+Weight (kg), median (IQR) 12.1 (7.6–18.7) 13.5 (7.4–19.1) 0.33
+Body surface area (m
+2
+), median (IQR) 0.46 (0.37–0.77) 0.7 (0.38–0.81) 0.50
+Cardiac diagnosis, n (%) 0.51
+Atrioventricular canal defect 9 (32.1) 10 (35.7)
+Mitral regurgitation 9 (32.1) 4 (14.3)
+Mitral regurgitation and stenosis 1 (3.6) 3 (10.7)
+Mitral stenosis 2 (7.1) 3 (10.7)
+Endocarditis 1 (3.6) 0 (0)
+Prosthetic valve dysfunction 6 (21.4) 8 (28.6)
+Functionally univentricular circulation, n (%) 0 (0) 2 (7.1) 0.16
+Time period of surgery, n (%) 0.79
+1980–2000 4 (14.3) 5 (17.9)
+2001–2015 13 (46.4) 13 (46.4)
+2016–2020 11 (39.3) 10 (35.7)
+Previous valve repair or replacement, n (%) 0.69
+No previous mitral valve procedure 6 (21.4) 7 (25)
+1 previous mitral valve procedure 8 (28.6) 8 (28.6)
+�2 previous mitral valve procedures 14 (50) 13 (46.4)
+Previous mitral valve replacement, n (%) 6 (21.4) 8 (28.6) 0.41
+Prosthesis size (mm), median (IQR) 21 (19–25) 23 (19–25) 0.73
+Valve size/body weight ratio, median (IQR) 1.74 (1.31–2.21) 1.71 (1.26–2.39) 0.90
+IQR: interquartile range.
+Table 2: Type of prosthetic valve at 1st mitral valve 
+replacement
+Prosthesis type Patients, n
+Biological
+Ionescu Shiley 1
+Carpentier-Edwards 3
+Biocor 1
+Epic 10
+Trifecta 2
+Melody 5
+Crown PRT 1
+Sapien XT 1
+Mosaic 2
+Inspiris Resilia 2
+Mechanical
+Bicarbon 2
+Carbomedics 2
+St. Jude 23
+ON-X 1
+4 J. Van Puyvelde et al. / Interdisciplinary CardioVascular and Thoracic Surgery 
+[[p5]]
+Bioprosthetic MVR patients in our study were on average youn -
+ger and had a higher incidence of valve oversizing. Therefore, a 
+matched design was chosen to compare the outcomes between 
+bioprosthetic and mechanical MVR. Competing risk analysis was 
+performed because the patients were simultaneously at risk for 2 
+mutually exclusive events: transplant-free survival and valve 
+prosthetic valve replacement. Our results show that biopros -
+thetic MVR in children is not associated with an increased mor -
+tality risk. This is in line with recent studies examining risk 
+factors after MVR in children [ 9 , 14 ]. Choi et al. suggested that 
+there may be a greater risk associated with porcine bioprosthetic 
+valves; however, prosthesis type did not remain an independent 
+risk factor in their multivariable analysis.
+The superior durability of mechanical valves is a well-known 
+fact. However, prosthetic durability will also be limited in grow -
+ing children by the development of patient–prosthesis mismatch 
+as the child outgrows the implanted valve. Our study confirms 
+this, as 7 years after mechanical MVR, only 10% of patients re -
+quired a 2nd valve replacement, but more than 40% of 
+implanted mechanical valves were replaced after 15 years. This is 
+similar to the results of Choi et al. who reported a median time 
+to a 2nd valve replacement for mechanical valves of 11.2 years 
+[ 14 ]. The incidence of a 2nd mechanical valve replacement could 
+even be underestimated in our study because the median pros -
+thesis size in our study was relatively large, at 23 mm. 
+Additionally, we had no patients with the smallest size mechani -
+cal valves, the 15-mm St Jude Medical prosthesis (St Jude 
+Medical, St Paul, MN). Intuitively, these smaller prostheses are 
+more likely to require a 2nd valve replacement because of pa -
+tient–prosthesis mismatch due to outgrowth. This was confirmed 
+by IJsselhof et al., who showed that 65% of 15-mm valves were 
+replaced after a median follow-up time of 9.6 years [ 23 ]. 
+Similarly, 44% of 15- to 17-mm valves required replacement af -
+ter a median follow-up time of only 4 years [ 24 ].
+To avoid the risk of patient–prosthesis mismatch, surgeons are 
+inclined to place the largest prosthesis achievable. However, a 
+high prosthetic valve size to patient weight ratio is a reported 
+predictor for early mortality, as oversizing can induce left ven -
+tricular outflow tract obstruction, compression of the circumflex 
+???????z?X?K?QT?K?QU?|M?rL?
+annular placement of a larger prosthesis is also not the answer, 
+because it is associated with worse survival and a higher risk of a 
+2nd valve replacement [ 27 ]. Following supra-annular valve 
+placement, the volume and compliance of the left atrium are de -
+creased, increasing the left atrial and pulmonary venous pres -
+sures. The ventricularized atrial tissue can dilate and develop 
+into a systolic paradoxically moving aneurysm that impairs ven -
+tricular function [ 28 ].
+During the last decade, an alternative emerged with the surgi -
+cal implantation of expandable bioprosthetic valves. These 
+valves can be tailored to fit annuli <15 mm and can be ex -
+panded by balloon dilation to accommodate somatic growth. 
+However, there are also disadvantages of expandable biopros -
+thetic valves. Melody valves (Medtronic, Minnesota, USA) are at 
+risk for structural valve deterioration requiring a 2nd replace -
+ment, predominantly caused by regurgitation because of para -
+valvular leaks or leaflet perforations [ 14 , 15 ]. This was also 
+illustrated by our experience, as we had 2 patients with a para -
+valvular leak after Melody valve implantation, both resolved af -
+ter balloon dilation of the valve. More recently, the newest 
+generation pericardial bioprosthesis, the Inspiris Resilia valve 
+(Edwards Lifesciences LLC, Irvine, USA), became available and 
+shows promising results in terms of reduced calcification [ 17 ]. 
+Although designed as an aortic bioprosthesis, the use for MVR in 
+children has also been described [ 29 ]. Both newest generation 
+bioprosthetic valves from our series were still functional after a 
+follow-up of more than 3 years. Still, the number of cases is too 
+small and follow-up is too short to predict if the new tissue 
+treatment techniques will result in a superior durability in the 
+mitral position in children.
+Limitations
+Limitations of our study include its single-centre retrospective 
+design over a long time period with a small, heterogeneous 
+group of patients. In our overall study population, mechanical 
+MVR cases were on average performed on older children and 
+they were operated in an earlier era. To account for these con -
+founding effects, we initially explored propensity score 
+Figure 1: Kaplan–Meier curves showing event-free survival after bioprosthetic (blue line) and mechanical (red line) mitral valve replacement (MVR).
+CONGENITAL DISEASE 
+5 J. Van Puyvelde et al. / Interdisciplinary CardioVascular and Thoracic Surgery 
+[[p6]]
+matching. Although propensity score matching seemed to be 
+the most correct method available statistically, it neglected the 
+overwhelming influence of age. In clinical reality, the patient’s 
+age, and consequently their size, predominantly dictates the 
+choice of valve and prognosis following a MVR. As a result, we 
+established matching primarily on age and weight, with second -
+ary consideration given to other significant factors such as the 
+count of prior procedures and the time frame of the surgery. 
+Despite the careful consideration given to the selection of case 
+matching as the method for addressing potential biases in our 
+Figure 2: Valve size in millimetres plotted against age in years at each valve replacement for cases with a bioprosthetic valve at the initial replacement (A) and for 
+cases with a mechanical valve at initial replacement (B). Each line represents a single case with the left side of the line representing the age and prosthetic valve size 
+at the time of initial mitral valve replacement (MVR) and the right side of each individual line representing the age and prosthetic valve size at the time of the redo 
+MVR. Full circles represent valve replacement with a mechanical valve and unfilled circled represent valve replacement with a bioprosthetic valve.
+6 J. Van Puyvelde et al. / Interdisciplinary CardioVascular and Thoracic Surgery 
+[[p7]]
+study, it is important to acknowledge several limitations associ -
+ated with this approach. Case matching introduces the risk of se -
+lection bias, as the process of selecting matched pairs may 
+inherently introduce bias, potentially influencing the study out -
+comes. Furthermore, the use of case matching may lead to a re -
+duction in the generalizability of the study findings, as the 
+matched pairs may not fully represent the diversity of the overall 
+patient population. Moreover, the approach may result in the 
+loss of valuable information present in unmatched cases, limiting 
+the inclusion of the entire dataset in the analysis. Additionally, 
+case matching may not effectively address unmeasured con -
+founders that could influence the outcomes of interest. Another 
+limitation is the fact that follow-up was still ongoing in some 
+cases. Additionally, our study is limited by the fact that only 
+40% of the included patients were below 2 years of age at the 
+time of implantation. This particular patient subset poses a dis -
+tinct challenge due to the limited availability of suitable pros -
+theses for this age group and the potential implications for 
+somatic growth and development. Regrettably, our study is un -
+able to fully address the complexities associated with this chal -
+lenging age group. Despite the peculiar difficulties in the 
+younger age group, it is important to emphasize that even the 
+older paediatric patients could potentially benefit from a bio -
+prosthetic valve implantation, serving as an interim solution 
+until they reach an appropriate size for an adult-sized mechan -
+ical valve implant.
+In spite of these limitations, our data demonstrate that me -
+chanical valves, despite their superior durability, have a high risk 
+of requiring a 2nd valve replacement before adulthood, just as 
+bioprosthetic valves. The gap in durability with mechanical 
+valves could narrow in the future, as long-term results of the 
+newest generation bioprosthetic valves and increased experi -
+ence with expandable bioprosthetic valves become available. 
+Redo valve replacement in children can be performed safely 
+and, at the time of a 2nd replacement, a larger prosthetic valve 
+can generally be implanted [ 9 , 12 ]. In our experience, traditional, 
+as well as expandable, bioprosthetic valves can be safely used as 
+a 1st step. This grants the mitral annulus a chance to grow and 
+allows subsequent placement of a mechanical prosthesis in ado -
+lescence. Delaying the implantation of a mechanical valve until 
+an adult size mechanical valve can be placed has several advan -
+tages. Firstly, it avoids anticoagulation and its complications in 
+young, active children. Secondly, during the initial procedure, an 
+appropriately fitting bioprosthetic valve can be chosen. There is 
+no need to risk valve oversizing or supra-annular valve place -
+ment to overcome the risk of somatic outgrowth associated with 
+mechanical valves.
+CONCLUSION
+Bioprosthetic mitral valves are a feasible and patient-friendly op -
+tion for surgical MVR in children. However, the lifespan of bio -
+prosthetic mitral valves is limited and patients remain at risk for 
+structural valve deterioration. It is important to note, however, 
+that the explanted valves are of an older generation. Follow-up 
+time is still too short to assess the degeneration process of the 
+newer generation bioprosthetic valves, so long-term follow-up 
+will determine their durability.
+FUNDING
+This research received no specific grant from any funding agency 
+in the public, commercial or not-for-profit sectors.
+Conflict of interest: none declared.
+DATA AVAILABILITY
+The datasets generated during and/or analysed during the cur -
+rent study are available from the corresponding author on rea -
+sonable request.
+Author contributions
+Joeri Van Puyvelde: Conceptualization; Data curation; Formal analysis; 
+Investigation; Methodology; Resources; Visualization; Writing—original draft; 
+Writing—review and editing. Bart Meyns: Conceptualization; Data curation; 
+Formal analysis; Investigation; Methodology; Software; Supervision; 
+Validation; Writing—review and editing. Filip Rega: Conceptualization; 
+Methodology; Writing—review and editing. Marc Gewillig: Writing—review 
+and editing. Benedicte Eyskens: Writing—review and editing. Ruth Heying: 
+Writing—review and editing. Bjorn Cools: Writing—review and editing. 
+Thomas Salaets: Writing—review and editing. Peter-William Hellings: 
+Investigation. Bart Meuris: Conceptualization; Investigation; Methodology; 
+Resources; Writing—review and editing.
+Figure 3: Estimated cumulative incidence curves with a 2nd valve replacement (solid line) and death or transplant (dashed line) as competing events for each type of 
+prosthesis [bioprosthetic mitral valves (left side) or mechanical mitral valves (right side)].
+CONGENITAL DISEASE 
+7 J. Van Puyvelde et al. / Interdisciplinary CardioVascular and Thoracic Surgery 
+[[p8]]
+Reviewer information
+Interactive CardioVascular and Thoracic Surgery thanks Hannah Rosemary 
+Bellsham-Revell, Krishnasamy Arunkumar, Julie Cleuziouand and the other 
+anonymous reviewers for their contribution to the peer review process of 
+this article.
+REFERENCES
+0[1] Mater K, Ayer J, Nicholson I, Winlaw D, Chard R, Orr Y. Patient-specific 
+approach to mitral valve replacement in infants weighing 10 kilograms 
+or less. World J Pediatr Congenit Heart Surg 2019;10:304–12.
+0[2] Isaacson E, Lucjak C, Johnson WK, Yin Z, Wang T, Rein L et al. Mitral 
+valve surgery in neonates, infants, and children: surgical approach, out -
+comes, and predictors. Semin Thorac Cardiovasc Surg 2020;32:541–50.
+0[3] Brancaccio G, Trezzi M, Croci I, Guerra G, Chinali M, Grandinetti M et al 
+Predictors of survival in paediatric mitral valve surgery: the impact of 
+age at operation at late follow-up. Eur J Cardiothorac Surg 2022;62:1–7.
+0[4] Mayr B, Vitanova K, Burri M, Lang N, Goppel G, Voss B et al. Mitral valve 
+repair in children below age 10 years: trouble or success? Ann Thorac 
+Surg 2020;110:2082–7.
+0[5] Cho S, Kim WH, Kwak JG, Lee JR, Kim YJ. Surgical results of mitral valve 
+repair for congenital mitral valve stenosis in paediatric patients. Interact 
+CardioVasc Thorac Surg 2017;25:877–82.
+0[6] Ibezim C, Sarvestani AL, Knight JH, Qayum O, Alshami N, Turk E et al. 
+Outcomes of mechanical mitral valve replacement in children. Ann 
+Thorac Surg 2019;107:143–50.
+0[7] Brown JW, Fiore AC, Ruzmetov M, Eltayeb O, Rodefeld MD, Turrentine 
+MW. Evolution of mitral valve replacement in children: a 40-year expe -
+rience. Ann Thorac Surg 2012;93:626–33; discussion 633.
+0[8] Alexiou C, Galogavrou M, Chen Q, Mcdonald A, Salmon AP, Keeton BK 
+et al. Mitral valve replacement with mechanical prostheses in children: 
+improved operative risk and survival. Eur J Cardiothorac Surg 2001; 
+20:105–13.
+0[9] Brancaccio G, Trezzi M, Croci I, Guerra G, Chinali M, Grandinetti M et al 
+Predictors of survival in paediatric mitral valve replacement. Eur J 
+Cardiothorac Surg 2022;62:1–7.
+[10] Bradley SM, Sade RM, Crawford FA, Stroud MR. Anticoagulation in chil -
+dren with mechanical valve prostheses. Ann Thorac Surg 1997;64:30–6.
+[11] Nakamura Y, Hoashi T, Imai K, Okuda N, Komori M, Kurosaki K et al. 
+Patient-prosthesis mismatch associated with somatic growth after me -
+chanical mitral valve replacement in small children: metrics for reopera -
+tion and outcomes. Semin Thorac Cardiovasc Surg 2023;35:348–57.
+[12] Kanter KR, Forbess JM, Kirshbom PM. Redo mitral valve replacement in 
+children. Ann Thorac Surg 2005;80:642–6.
+[13] Dardari M, Cinteza E, Vasile CM, Padovani P, Vatasescu R. Infective en -
+docarditis among pediatric patients with prosthetic valves and cardiac 
+devices: a review and update of recent emerging diagnostic and man -
+agement strategies. J Clin Med 2023;12:4941.
+[14] Choi PS, Sleeper LA, Lu M, Upchurch P, Baird C, Emani SM. Revisiting 
+prosthesis choice in mitral valve replacement in children: durable 
+alternatives to traditional bioprostheses. J Thorac Cardiovasc Surg 2021; 
+161:213–25.
+[15] Pluchinotta FR, Piekarski BL, Milani V, Kretschmar O, Burch PT, Hakami 
+L et al. Surgical atrioventricular valve replacement with melody valve in 
+infants and children. Circ Cardiovasc Interv 2018;11:1–11.
+[16] Carro C, Marianeschi S, Ghiselli S, Uricchio N. An alternative valve for 
+mitral valve replacement in young children: using an NO-REACT 
+INJECTABLE BIOPULMONIC prosthesis as a mitral valve replacement in 
+a 14-month-old child. Interact CardioVasc Thorac Surg 2022; 
+34:1168–70.
+[17] Flameng W, Hermans H, Verbeken E, Meuris B. A randomized assess -
+ment of an advanced tissue preservation technology in the juvenile 
+sheep model. J Thorac Cardiovasc Surg 2015;149:340–5.
+[18] Du Bois D, Du Bois EF. A formula to estimate the approximate surface 
+area if height and weight be known. 1916. Nutrition 1989;5:303–13.
+[19] Scrucca L, Santucci A, Aversa F. Competing risk analysis using R: an easy 
+guide for clinicians. Bone Marrow Transplant 2007;40:381–7.
+[20] Clagett GP, Sobel M, Jackson MR, Lip GYH, Tangelder M, Verhaeghe R. 
+Antithrombotic therapy in peripheral arterial occlusive disease: the sev -
+enth ACCP conference on antithrombotic and thrombolytic therapy. 
+Chest 2004;126:609S–26S.
+[21] Ibarra C, Spigel Z, John R, Thomason AB, Binsalamah Z, Adachi I et al. 
+Mechanical mitral valve replacements in the pediatric population. Ann 
+Thorac Surg 2021;112:626–31.
+[22] Elsisy MF, Dearani JA, Ashikhmina E, Krishnan P, Anderson JH, Taggart 
+NW et al. What factors should be considered to improve outcome of 
+mechanical mitral valve replacement in children? World J Pediatr 
+Congenit Heart Surg 2021;12:367–74.
+[23] IJsselhof RJ, Slieker MG, Hazekamp MG, Accord R, van Wetten H, Haas F 
+et al. Mitral valve replacement with the 15-mm mechanical valve: a 20- 
+year multicenter experience. Ann Thorac Surg 2020;110:956–61.
+[24] IJsselhof RJ, Slieker MG, Gauvreau K, Muter A, Marx GR, Hazekamp MG 
+et al. Mechanical mitral valve replacement: a multicenter study of out -
+comes with use of 15- to 17-mm prostheses. Ann Thorac Surg 2020; 
+110:2062–9.
+[25] Van Doorn C, Yates R, Tsang V, DeLeval M, Elliott M. Mitral valve re -
+placement in children: mortality, morbidity, and haemodynamic status 
+up to medium term follow up. Heart 2000;84:636–42.
+[26] Caldaroni F, Brizard CP, d’Udekem Y. Replacement of the mitral valve 
+under one year of age: size matters. Semin Thorac Cardiovasc Surg 
+Pediatr Card Surg Annu 2021;24:57–61.
+[27] Selamet Tierney ES, Pigula FA, Berul CI, Lock JE, del Nido PJ, McElhinney 
+DB. Mitral valve replacement in infants and children 5 years of age or 
+younger: evolution in practice and outcome over three decades with a 
+focus on supra-annular prosthesis implantation. J Thorac Cardiovasc 
+Surg 2008;136:954–61.
+[28] Barker CL, Daubeney PE, Shinebourne EA. Complications of supra- 
+annular mitral valve placement in infants. Heart 2005;91:e48.
+[29] Jaworski R, Kansy A, Birbach M, Brodzikowska-Pytel A, Kowalczyk- 
+Domagala M, Brzezinska-Rajszys G et al. Edwards Inspiris Resilia valve 
+for mitral replacement in an infant after mechanical valve failure. 
+Cardiol Young 2019;29:219–21.
+8 J. Van Puyvelde et al. / Interdisciplinary CardioVascular and Thoracic Surgery 

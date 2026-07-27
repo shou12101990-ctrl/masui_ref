@@ -1,0 +1,1411 @@
+
+[[p1]]
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321  
+https://doi.org/10.1186/s12872-024-03983-z
+RESEARCH Open Access
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecom-
+mons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+BMC Cardiovascular Disorders
+Antiarrhythmic drug therapy and catheter 
+ablation in patients with paroxysmal 
+or persistent atrial fibrillation: a systematic 
+review and meta-analysis
+Subhash Chander1*, Roopa Kumari1, Sindhu Luhana1, Sheena Shiwlani1, Om Parkash2, FNU Sorath4, 
+Hong Yu Wang1, Sam Tan1, Zubair Rahaman3, Yaqub Nadeem Mohammed5, Abhi Chand Lohana6, FNU Sakshi7, 
+Esha Vaish1 and FNU Sadarat3 
+Abstract 
+Background Catheter ablation and antiarrhythmic drug therapy are utilized for rhythm control in atrial fibrillation 
+(AF), but their comparative effectiveness, especially with contemporary treatment modalities, remains undefined. We 
+conducted a systematic review and meta-analysis contrasting current ablation techniques against antiarrhythmic 
+medications for AF.
+Methods We searched PubMed, SCOPUS, Cochrane CENTRAL, and Web of Science until November 2023 for ran-
+domized trials comparing AF catheter ablation with antiarrhythmics, against antiarrhythmic drug therapy alone, 
+reporting outcomes for > 6 months. Four investigators extracted data and appraised risk of bias (ROB) with ROB 2 tool. 
+Meta-analyses estimated pooled efficacy and safety outcomes using R software.
+Results Twelve trials (n = 3977) met the inclusion criteria. Catheter ablation was associated with lower AF recurrence 
+(relative risk (RR) = 0.44, 95%CI (0.33, 0.59), P ˂ 0.0001) and hospitalizations (RR = 0.44, 95%CI (0.23, 0.82), P = 0.009) 
+than antiarrhythmic medications. Catheter ablation also improved the physical quality of life component score 
+(assessed by a 36-item Short Form survey) by 7.61 points (95%CI -0.70-15.92, P = 0.07); but, due to high heterogeneity, 
+it was not statistically significant. Ablation was significantly associated with higher procedural-related complications 
+[RR = 15.70, 95%CI (4.53, 54.38), P < 0.0001] and cardiac tamponade [RR = 9.22, 95%CI (2.16, 39.40), P = 0.0027]. All-cause 
+mortality was similar between the two groups.
+Conclusions For symptomatic AF, upfront catheter ablation reduces arrhythmia and hospitalizations better than con-
+tinued medical therapy alone, albeit with moderately more adverse events. Careful patient selection and risk-benefit 
+assessment are warranted regarding the timing of ablation.
+Keywords Atrial fibrillation, Catheter ablation, Antiarrhythmic agents, Systematic review
+*Correspondence:
+Subhash Chander
+chander2@buffalo.edu
+Full list of author information is available at the end of the article
+[[p2]]
+Page 2 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+Introduction
+Atrial fibrillation (AF) is the most common sustained 
+cardiac arrhythmia, estimated to affect over 37  million 
+people worldwide, with an increasing prevalence with 
+age [1]. AF confers significant risk for stroke, heart fail -
+ure, and cardiovascular mortality, making treatment 
+strategies aimed at controlling for AF to lower symptoms 
+and prevent these complications a major public health 
+priority [2, 3].
+AF occurs in approximately 1–2% of younger adults, 
+increasing to over 10% of those over 80 years old [1, 2, 
+4]. It often first presents with symptoms like palpitations, 
+chest pain, fatigue, dizziness, and shortness of breath; 
+however asymptomatic AF may exist in as many as 30% 
+of those affected [5]. Long-standing persistent AF carries 
+a substantial risk of tachycardia-mediated cardiomyopa -
+thy [6].
+Antiarrhythmic drugs (AADs) work through various 
+mechanisms to prevent AF recurrence but are limited by 
+modest efficacy and risk for ventricular proarrhythmia 
+and extracardiac toxicity [7]. Amiodarone and dofetilide 
+are often more effective but have substantial non-cardiac 
+adverse effects [8]. Guidelines recommend tailored AAD 
+choice based on the presence of structural heart disease 
+and other patient factors [9].
+Catheter ablation involves using radiofrequency energy 
+delivered to strategic locations in the left atrium to elec -
+trically isolate and ablate arrhythmogenic foci [10]. This 
+technique aims to prevent AF triggers and maintenance 
+[10]. Technological advancements have improved abla -
+tion success. Complications like bleeding, vascular 
+damage and stroke remain a concern with ablation pro -
+cedures [11].
+Prior studies and meta-analyses suggest catheter abla -
+tion may afford greater freedom from AF recurrence 
+compared with AADs in paroxysmal AF, but its role in 
+persistent AF remains less defined [12, 13]. However, 
+few studies directly compare contemporary ablation 
+approaches to next-generation AADs [14].
+Both modalities confer specific benefits and adverse 
+effects important in treatment considerations for a given 
+AF patient. Catheter ablation plays an important early 
+role in management of symptomatic paroxysmal AF 
+refractory to a single AAD. For persistent AF, decisions 
+are more complex with both options having relatively 
+lower efficacy [15].
+In this study, we aim to systematically review rand -
+omized head-to-head trial evidence comparing out -
+comes of catheter ablation against antiarrhythmic drug 
+therapy for treatment of symptomatic paroxysmal or 
+persistent AF, providing a quantitative comparison of 
+their efficacy and safety which can further guide clinical 
+decision-making.
+Methods
+Cochrane Handbook for Systematic Reviews and Inter -
+ventions [16] and Preferred Reporting Items for System -
+atic Reviews and Meta-Analyses (PRISMA) standards 
+[17] were adhered to throughout this meta-analysis. 
+Additionally, this systematic review and meta-analy -
+sis is registered with PROSPERO international pro -
+spective register of systematic reviews under ID of 
+CRD42023486487 on Dec 12, 2023.
+Search strategy and selection criteria
+We systematically searched PubMed, SCOPUS, Cochrane 
+Library, and Web Of Science (WOS) from database 
+inception to November 2023. No filters were applied. 
+The search strategy included a combination of controlled 
+vocabulary terms and free text words for the key con -
+cepts of atrial fibrillation, antiarrhythmic medications, 
+and catheter ablation. We also hand-searched reference 
+lists of relevant review articles to identify additional eli -
+gible trials.
+We included randomized controlled trials (RCTs) com-
+paring antiarrhythmic drugs (AADs) versus catheter 
+ablation, either alone or combined with AADs during 
+the blanking period, for adult patients (≥ 18 years) with 
+paroxysmal or persistent atrial fibrillation. Trials had to 
+report at least one of the prespecified efficacy or safety 
+outcomes at a minimum follow-up duration of 6 months. 
+We excluded non-randomized studies, observational 
+studies, case series, case reports, editorials, and confer -
+ence abstracts without subsequent full publication.
+Study selection and data extraction
+Two investigators independently screened all retrieved 
+titles/abstracts and potentially eligible full-text articles, 
+determined final study inclusion, and extracted relevant 
+data using a standardized and piloted data extraction 
+form. Extracted information included: study character -
+istics (author, year, country, AF type), patient charac -
+teristics (age, gender, ), lengths of follow-up, and results 
+for each study. Any discrepancies during study screen -
+ing and data extraction were resolved via discussion and 
+consensus between the two reviewers, consulting a third 
+reviewer for persistent disagreements if needed.
+Outcomes
+The prespecified primary efficacy outcome was arryth -
+mia recurrence. Secondary outcomes included all-cause 
+mortality, cardiovascular hospitalizations, change in 
+quality-of-life scores from baseline (assessed using vali -
+dated instruments such as the 36-item Short Form survey 
+[SF-36], and adverse events, including any adverse events 
+[[p3]]
+Page 3 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+(AEs), procedure-related AEs, stroke, vascular access 
+complication, cardiac tamponade, pericardial effusion, 
+and pulmonary-vein stenosis.
+Quality assessment
+The Risk of Bias (ROB) tool, version 2, was used to assess 
+the bias of the studies used into this meta-analysis [18]. 
+The tool evaluates five domains: bias caused by the ran -
+domization technique, bias caused by variations from 
+planned interventions, bias caused by missing outcome 
+data, bias in outcome assessment, and bias in the selec -
+tion of the reported result. For each domain, the risk of 
+bias was rated as low, moderate, or high. Using ROB 2, 
+two reviewers independently evaluated each research’s 
+bias risk. Any differences were worked out via debate and 
+consensus.
+Data synthesis and analysis
+All analyses were performed using RStudio version 
+2023.12.0 + 369 using the “meta” package. For outcomes 
+reported by at least two RCTs, pooled effect estimates 
+were calculated using fixed effect model or random-
+effects meta-analysis models to account for between-
+study heterogeneity. Dichotomous data were expressed 
+as risk ratios (RR) and continuous data as mean differ -
+ences (MD), both with 95% confidence intervals (CI). 
+Statistical heterogeneity was assessed with the P static. 
+If substantial heterogeneity (P > 0.1) existed, the random 
+effect model and leave one test were used and leave one 
+test was conducted using open meta-analyst software.
+Subgroup analysis was carried out for the primary out -
+come based on the type of AF: paroxysmal, persistent, or 
+studies combining both types. A subgroup analysis was 
+also performed based on the period of follow-up: 6–12 
+months or > 12 months. A meta-regression was per -
+formed to provide further confirmation of the relation -
+ship between the pooled estimate and the duration of 
+follow-up.
+Results
+A comprehensive literature search was conducted using 
+PubMed, Web of Science, Cochrane Library, and SCO -
+PUS databases to identify relevant studies comparing 
+catheter ablation to antiarrhythmic drug therapy for 
+atrial fibrillation. The search yielded 1842 records from 
+PubMed, 3093 from Web of Science, 828 from Cochrane 
+Library, and 6080 from SCOPUS. After removing 3699 
+duplicate records, 8144 records were screened by title 
+and abstract. Of these, 8092 records were excluded 
+according to predefined criteria. The remaining 52 
+reports underwent full-text screening, after which 40 
+were excluded. A total of 20 randomized controlled trials 
+ultimately met the criteria for inclusion in the systematic 
+review, with all 12 providing sufficient data for the meta-
+analysis. Fig. 1.
+Summary and baseline characteristics of the included 
+studies
+Twelve randomized controlled trials comparing catheter 
+ablation to antiarrhythmic drug therapy for atrial fibril -
+lation were included. These trials enrolled patients with 
+paroxysmal (7 trials), persistent (4 trials) or chronic (1 
+trial) AF. Follow-up duration ranged from 9 months to 4 
+years. Most trials were multi-national in scope. Table 1.
+Baseline characteristics were well-balanced between 
+the catheter ablation and antiarrhythmic drug arms 
+within each included trial. The mean patient age ranged 
+from 53 to 68 years. Most trials had 60–80% male par -
+ticipants. The mean duration of AF history before 
+enrollment was 1–8 years where reported. The rate of 
+hypertension was 40–90%. Left ventricular ejection frac -
+tion averaged between 52 and 62% across trials. Table 2.
+Quality assessment
+Four studies demonstrated consistent low-risk ratings 
+across all domains, suggesting a high level of confidence 
+in its reliability [19–22]. Conversely, five studies exhibited 
+a high risk of bias in the deviation from intended inter -
+vention and the overall risk was high [23–27]. Finally, 
+the rest three studies were judged as having overall some 
+concerns due to few details about blinding and protocol 
+registration [28–30]. Figs. 2 and 3.
+Outcomes
+Primary outcomes
+Recurrent atrial arrhythmia The pooled analysis of the 
+12 included studies with a total of 3977 patients showed 
+a significantly lower AF recurrence rate in the catheter 
+ablation group compared with AADs [RR = 0.44, 95%CI 
+(0.33, 0.59), P ˂ 0.00001] (Fig.  4). The data were heterog -
+enous (P ˂ 0.001,  I2 = 85%), and this heterogeneity could 
+not be resolved (Supplementary Fig. 1).
+Secondary outcomes
+Rate of hospitalization The pooled analysis of 5 studies 
+with total 2781 patients showed a significant lower hos -
+pitalization rate in the catheter ablation group compared 
+with AADs [RR = 0.44, 95%CI (0.23, 0.82), P = 0.009] 
+(Fig. 5). The data were heterogenous (P = 0.001,  I2 = 78%), 
+and this was resolved by excluding Packer et  al. 2019 
+(P = 0.93,  I2 = 0). After resolving heterogeneity, the hos -
+pitalization rate in the catheter ablation group remained 
+[[p4]]
+Page 4 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+lower compared with AADs [RR = 0.34, 95%CI (0.18, 
+0.64), P ˂ 0.0001] (Supplementary Fig. 2).
+Adverse events Any adverse events rate in the catheter 
+ablation group was comparable to AADs based on the 
+pooled analysis of 7 studies with a total of 3105 patients 
+[RR = 1.30, 95%CI (0.83, 2.05), P = 0.24], and the data 
+were heterogenous (P = 0.08,  I2 = 46%) (Fig.  6), and this 
+was resolved by excluding Forleo et  al. 2019  (I2 = 23%). 
+After resolving heterogeneity, the any AEs outcome in 
+the catheter ablation group was significantly higher com -
+pared with AADs [RR = 1.51, 95%CI (1.08, 2.10), P = 0.02] 
+(Supplementary Fig. 3).
+The procedure-related AEs and cardiac tamponade 
+in the catheter ablation group were significantly higher 
+than those in the AADs group [RR = 15.70, 95%CI (4.53, 
+54.38), P < 0.0001] and [RR = 9.22, 95%CI (2.16, 39.40), 
+P = 0.0027], respectively. The data were homogenous 
+(P = 0.72, I2 = 0%) and heterogeneous (P = 0.88, I2 = 0%) 
+(Fig.  7a and d). Stroke, vascular access complications, 
+pericardial effusion, and pulmonary-vein stenosis were 
+all similar between the two groups (Fig.  7b, c, d, e, and f, 
+respectively). All the outcomes were homogenous.
+All‑cause mortality There was no significant differ -
+ence between the two groups in the all-cause mortality 
+rate [RR = 0.78, 95%CI (0.58, 1.05), P = 0.10], and the data 
+were homogenous (P = 0.40,  I2 = 0%) (Fig. 8).
+Secondary outcomes
+Quality of life Our pooled analysis showed a signifi -
+cant improvement in the SF-36 physical component 
+in the catheter ablation group compared with AADs 
+[MD = 7.61, 95%CI (-0.70, 15.92), P = 0.07]. The data were 
+heterogenous (P ˂ 0.0001,  I2 = 98%) (Fig.  9a), and this 
+heterogeneity could not be resolved with the sensitivity 
+analysis (Supplementary Fig.  3). The pooled analysis of 
+the 3 studies showed no significant difference between 
+the catheter ablation group and AADs in the change in 
+SF-36-Mental component [MD = 0.96, 95%CI (-3.21, 
+5.13), P = 0.65]. The data were heterogenous (P ˂ 0.0001, 
+Fig. 1 PRISMA Flow Chart
+[[p5]]
+Page 5 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+Table 1 Summary of the included studies
+Study ID NCT Site Type of AF Population Follow-up Conclusion Cardiac rhythm 
+measurement
+Endpoint 
+definition
+Energy 
+type
+Intervention 
+group
+Control group
+Biase et al. 
+2016 [19]
+NCT00729911 Multi-
+national
+Persistent 
+AF
+Patients 
+with conges-
+tive heart failure 
+and an implanted 
+device with persis-
+tent AF.
+Two years The study 
+reported 
+that for patients 
+with heart failure 
+and persistent AF, 
+catheter ablation 
+was superior 
+to amiodarone 
+in achieving long-
+term relieving 
+of AF and reduc-
+ing unplanned 
+hospitalizations 
+and mortality.
+Remote 
+monitoring 
+with implanted 
+devices and/
+or with device 
+inspection 
+at 3-, 6-, 12- 
+and 24-months 
+follow-up.
+Recur-
+rence of AF 
+was defined 
+as AF 
+that lasted 
+at least 30 s
+Radiofre-
+quency
+Abla-
+tion + AADs 
+for the first 3 
+months
+Amiodarone 
+(200 mg/d)
+Forleo et al. 
+2009 [23]
+NA Italy Paroxys-
+mal [29] 
+and persis-
+tent (41)
+Type 2 dia-
+betic patients 
+with symptomatic 
+paroxysmal or per-
+sistent AF for ≥ 6 
+months refractory 
+to ≥ 1 class 1–3 
+AADs
+One year For those 
+with type 2 dia-
+betes, AF catheter 
+ablation offered 
+better outcomes 
+than drug 
+therapy, proving 
+feasible, effective, 
+and low-risk.
+Holter ECG at 1, 
+3, and every 3 
+months there-
+after or in case 
+of occurrence 
+of any clinical 
+symptom.
+AF recurrence 
+was defined 
+as any electro-
+cardiographi-
+cally confirmed 
+episode of AF 
+or atypical 
+atrial flutter 
+lasting > 30 s
+Radiofre-
+quency
+Abla-
+tion + AADs 
+for the first 3 
+months
+Either as single 
+drug or combi-
+nation of oral 
+flecainide 
+(100 mg/12 
+hours), oral 
+propafenone 
+(150–300 mg/
+TID), oral sotalol 
+at an initial 
+dose of 80 mg/
+TID, and oral 
+amiodarone 
+(200 mg/d).
+Jais et al. 
+2008 [26]
+NCT00540787 USA 
+and France
+Paroxysmal 
+AF
+Patients with par-
+oxysmal AF 
+resistant to at least 
+1 antiarrhythmic 
+drug.
+One year The study 
+revealed 
+that catheter abla-
+tion was more 
+effective 
+in sustaining 
+sinus rhythm 
+and enhanc-
+ing symptoms, 
+exercise capacity, 
+and quality 
+of life compared 
+to the use 
+of antiarrhythmic 
+medications.
+12-lead ECG 
+and 24-hour 
+Holter at baseline 
+and 3, 6, and 12 
+months
+Episodes 
+qualified as AF 
+if they lasted 
+at least 3 min 
+and were 
+documented 
+by ECG 
+or reported 
+by the patient 
+as AF, even 
+in the absence 
+of ECG
+Radiofre-
+quency
+Ablation Amiodarone 
+(200 mg/d), qui-
+nidine, disopyra-
+mide, flecainide, 
+propafenone, 
+cibenzoline, 
+dofetilide, 
+and sotalol 
+(either alone 
+or in combina-
+tion)
+[[p6]]
+Page 6 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+Table 1 (continued)
+Study ID NCT Site Type of AF Population Follow-up Conclusion Cardiac rhythm 
+measurement
+Endpoint 
+definition
+Energy 
+type
+Intervention 
+group
+Control group
+Kuck et al. 
+2021 [25]
+NCT01570361 Multi-
+national
+Paroxysmal 
+AF
+Patients with par-
+oxysmal AF 
+for more than two 
+years and more 
+than two episodes 
+over the last six 
+months, resistant 
+to at least 1 antiar-
+rhythmic drug.
+Three years Radiofrequency 
+ablation 
+was superior 
+to AADs in delay-
+ing the progres-
+sion from paroxys-
+mal to persistent 
+AF.
+ECG were con-
+ducted at 3 and 6 
+months, and then 
+at yearly intervals 
+for 3 years. Weekly 
+transtelephonic 
+monitoring 
+(TTM) began 
+at 3 months, 
+transitioning 
+to monthly 
+monitoring 
+after 9 months 
+until the 3-year 
+visit, or whenever 
+subjects experi-
+enced arrhythmic 
+symptoms
+Recur-
+rence of AF 
+was defined 
+as AF 
+that lasted 
+at least 30 s 
+for > 7 con-
+secutive days 
+or requiring 
+termination 
+by cardiover-
+sion after 48 h
+Radiofre-
+quency
+Ablation AADs accord-
+ing to current 
+guidelines 
+at the investiga-
+tors’ discretion.
+Mont et al. 
+2014 [21]
+NCT00863213 Spain Persistent 
+AF
+Patients 
+with persistent AF, 
+requiring electrical 
+or pharmacologi-
+cal cardioversion 
+and refractory 
+to at least one 
+class I or class III 
+antiarrhythmic 
+drug.
+One year Catheter ablation 
+was superior 
+to medical ther-
+apy for the main-
+tenance of sinus 
+rhythm in patients 
+with persistent 
+AF at 12-month 
+follow-up
+12-lead ECG 
+at 1, 3, 6, and 12 
+months and
+24-h Holter moni-
+tor was performed 
+at 6 and 12 
+months.
+Recur-
+rence of AF 
+was defined 
+as AF 
+that lasted 
+at least 30 s
+Radiofre-
+quency
+Abla-
+tion + AADs 
+for the first 3 
+months
+Class III drugs 
+(amiodarone) 
+were recom-
+mended 
+for patients 
+with structural 
+cardiomyopa-
+thy and class 
+Ic (flecainide) 
+plus diltiazem 
+or b-blockers 
+otherwise
+[[p7]]
+Page 7 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+Table 1 (continued)
+Study ID NCT Site Type of AF Population Follow-up Conclusion Cardiac rhythm 
+measurement
+Endpoint 
+definition
+Energy 
+type
+Intervention 
+group
+Control group
+Morillo 
+et al. 2014 
+[20]
+NCT00392054 Multi-
+national
+Paroxysmal 
+AF
+Patients 
+with recurrent 
+paroxysmal AF 
+lasting over 30 s, 
+at least one 
+documented 
+episode 6 months 
+prior, and no prior 
+antiarrhythmic 
+drug treatment.
+Two years For those 
+with untreated 
+paroxysmal AF, 
+radiofrequency 
+ablation resulted 
+in fewer recurring 
+atrial tachyar-
+rhythmias at 2 
+years compared 
+to antiarrhyth-
+mic drugs, 
+but both groups 
+still experienced 
+frequent recur-
+rence.
+Continuous 
+remote monitor-
+ing
+(Using tran-
+stelephonic 
+monitor system, 
+patients were 
+required to record 
+and transmit 
+symptomatic epi-
+sodes of possible 
+AF every week, 
+and biweekly 
+on Fridays 
+through-
+out the follow-up 
+period, regardless 
+of symptoms)
+Recurrence 
+of arrythmia 
+is arrythmia 
+lasting more 
+than 30 s 
+documented 
+by ECG or tran-
+stelephonic 
+monitor
+Radiofre-
+quency
+Abla-
+tion + AADs 
+for the first 3 
+months
+Aِntiarrhythmic 
+drugs was left 
+to the discretion 
+of the investiga-
+tor, and dosages 
+were based 
+on guidelines
+Nielsen 
+et al. 2012 
+[28]
+NCT00133211 Denmark Paroxysmal 
+AF
+Patient experi-
+enced at least 
+two sympto-
+matic episodes 
+of atrial fibrillation 
+within the past 
+six months, 
+with no episode 
+lasting more 
+than seven days.
+Two years Comparing radiof-
+requency ablation 
+to antiarrhythmic 
+drugs as first-
+line therapy 
+for paroxysmal 
+AF, they found 
+no significant dif-
+ference in overall 
+AF burden over 2 
+years.
+7-day Holter-mon-
+itor recording at 3, 
+6, 12, 18, and 24 
+months. Patients 
+were instructed 
+to report palpita-
+tions or other 
+symptoms 
+to the study 
+center 
+between follow-
+up visits.
+AF was defined 
+as AF 
+that lasted 
+at least 1 min
+Radiofre-
+quency
+Abla-
+tion + AADs 
+for the first 
+three months
+Class IC 
+agents such 
+as flecainide 
+(200 mg/day) 
+or propafenone 
+(600 mg/day). If 
+contraindicated, 
+Class III agents 
+like amiodar-
+one (200 mg/
+day) or sotalol 
+(160 mg/day) are 
+administered. 
+No combination 
+between class 
+IC and class III 
+was allowed
+[[p8]]
+Page 8 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+Table 1 (continued)
+Study ID NCT Site Type of AF Population Follow-up Conclusion Cardiac rhythm 
+measurement
+Endpoint 
+definition
+Energy 
+type
+Intervention 
+group
+Control group
+Oral et al. 
+2006 [30]
+NA Italy Persistent 
+AF
+A patient experi-
+enced persistent 
+atrial fibrilla-
+tion for over six 
+months with-
+out any interven-
+ing sinus rhythm 
+episodes
+One year Patients 
+with chronic atrial 
+fibrillation could 
+sustain sinus 
+rhythm long-term 
+through pulmo-
+nary-vein abla-
+tion, regardless 
+of antiarrhythmic 
+drugs or cardio-
+version effects.
+Continuous 
+remote monitor-
+ing
+(Participants 
+were monitored 
+using LifeWatch, 
+recording their 
+heart rate at least 
+five days a week 
+for three minutes 
+and whenever 
+they had symp-
+toms of AF)
+NA Radiofre-
+quency
+Abla-
+tion + Ami-
+odarone, 
+200 mg/day, 
+orally for three 
+months
+Amiodarone, 
+200 mg/day, 
+orally for three 
+months + tran-
+sthoracic cardio-
+versions
+Packer 
+et al. 2019 
+[22]
+NCT00911508 Multi-
+national
+Paroxysmal 
+(42.9%) 
+and persis-
+tent (47.2%)
+Symptomatic 
+patients with AF 
+with 1 or more risk 
+factors for stroke 
+(hypertension, 
+heart failure, 
+history of stroke, 
+diabetes, or other 
+heart prob-
+lems), with two 
+or more episodes 
+of paroxysmal AF 
+or one episode 
+of persistent AF 
+within the past six 
+months.
+Four years In patients 
+with AF, 
+the approach 
+of catheter abla-
+tion didn’t notably 
+decrease the main 
+combined out-
+come of death, 
+disabling stroke, 
+severe bleeding, 
+or cardiac arrest 
+when compared 
+to medical 
+therapy.
+ECG event 
+recorder to docu-
+ment sympto-
+matic events, 
+quarterly 24-hour 
+autodetect, full-
+disclosure, real-
+time recordings
+and
+96-hour Holter 
+recordings every 
+six months, 
+regardless 
+of symptoms.
+Recur-
+rence of AF 
+was defined 
+as AF 
+that lasted 
+at least 30 s
+NA Ablation AAD
+[[p9]]
+Page 9 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+Table 1 (continued)
+Study ID NCT Site Type of AF Population Follow-up Conclusion Cardiac rhythm 
+measurement
+Endpoint 
+definition
+Energy 
+type
+Intervention 
+group
+Control group
+Pappone 
+et al. 2006 
+[27]
+NCT00340314 Italy Paroxysmal 
+AF
+Patients with par-
+oxysmal AF who 
+have already failed 
+AADs.
+One year CA was more suc-
+cessful than AAD 
+for the prevention 
+of atrial fibrillation 
+with less compli-
+cations.
+12-lead electrocar-
+diogram (ECG) 
+and 48-h Holter 
+monitoring at 3-, 
+6-, and 12-months 
+visits
+and Continuous 
+remote monitor-
+ing
+(Participants were 
+monitored using 
+LifeWatch were 
+asked to record 
+their rhythm 1 
+to 3 times daily 
+and whenever 
+they experienced 
+symptoms sug-
+gestive of AF)
+Recur-
+rence of AF 
+was defined 
+as AF 
+that lasted 
+at least 30 s
+Radiofre-
+quency
+Abla-
+tion + AADs 
+for 6 weeks
+Amiodarone 
+(200 mg/day), 
+flecainide (up 
+to 300 mg/day), 
+or sotalol (up 
+to 320 mg/day), 
+(either as single 
+drugs or in com-
+bination) 
+at the maximum 
+tolerable doses
+Wazni et al. 
+2005 [29]
+NA Italy 
+and Ger-
+many
+Paroxysmal 
+AF
+Patients had expe-
+rienced monthly 
+symptomatic 
+AF episodes 
+for at least 3 
+months.
+One year Pulmonary 
+vein isolation 
+was a viable initial 
+option.
+Event recorder 
+monitoring 
+was obtained 
+after the 3-month 
+period for patients 
+with recurrences 
+of symptoms 
+and 24-hour 
+Holter recording 
+before discharge, 
+as well as 3, 6, 
+and 12 months 
+after enrollment. 
+Patients were 
+also phoned 
+once a month 
+by phone.
+Symptomatic 
+or asymp-
+tomatic AF 
+lasting more 
+than 15 s 
+during Holter 
+or event moni-
+toring
+Radiofre-
+quency
+Ablation Oral flecainide 
+(100–150 mg) 
+twice daily, 
+propafenone 
+(225–300 mg) 
+3 times daily, 
+and sotalol 
+(120–160 mg) 
+twice daily.
+[[p10]]
+Page 10 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+Table 1 (continued)
+Study ID NCT Site Type of AF Population Follow-up Conclusion Cardiac rhythm 
+measurement
+Endpoint 
+definition
+Energy 
+type
+Intervention 
+group
+Control group
+Wilber 
+et al. 2010 
+[24]
+NCT00116428 Multi-
+national
+Paroxysmal 
+AF
+Patients 
+with at least three 
+symptomatic 
+AF episodes 
+within 6 months 
+before ran-
+domization 
+and not respond-
+ing to at least one 
+antiarrhythmic 
+drug are eligible.
+9 months In individuals 
+with paroxysmal 
+AF unresponsive 
+to at least one 
+antiarrhythmic 
+drug, cath-
+eter ablation led 
+to an extended 
+duration 
+until treatment 
+failure com-
+pared to AADs 
+over the 9-month 
+follow-up period.
+ECG were 
+obtained 
+at follow-up visits, 
+and transtele-
+phonic monitor-
+ing was per-
+formed for 9 
+months. Patients 
+were required 
+to transmit symp-
+tomatic cardiac 
+episodes weekly, 
+then monthly 
+till the final visit. 
+Holter was done 
+at baseline 
+and final visits.
+NA Radiofre-
+quency
+Ablation Dofe-
+tilide, flecainide, 
+propafenone, 
+sotalol, or qui-
+nidine
+AF Atrial Fibrillation, NCT ClinicalTrials.gov Identifier (an alphanumeric code assigned to clinical trials), AADs Antiarrhythmic Drugs, NA not available
+[[p11]]
+Page 11 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+ I2 = 90%) (Fig.  9b), and this heterogeneity could not be 
+resolved (Supplementary Fig. 4).
+Subgroup analysis
+Subgroup analysis based on the type of AF didn’t show a 
+significant difference between those with persistent and 
+paroxysmal AF regarding arrythmia recurrence; however, 
+the heterogeneity was partially resolved (Supplementary 
+Fig. 5).
+Subgroup analysis based on the duration of follow-up 
+showed that studies with a follow-up duration of 6–12 
+months were significantly higher than those with more 
+than one year (P < 0.05); however, in both subgroups, 
+ablation showed significant lower risk or AF recurrence 
+(Supplementary Fig. 6).
+Meta‑regression
+A meta-regression analysis revealed a statistically sig -
+nificant positive correlation between the duration of 
+follow-up and the pooled estimate for both arrhythmia 
+recurrence (r = 0.02, P = 0.018).
+Discussion
+In this systematic review and meta-analysis of 12 RCTs 
+including 3977 patients with paroxysmal or persistent 
+atrial fibrillation, catheter ablation was associated with 
+significantly higher free from atrial arrhythmia recur -
+rence between 6 months post-procedure compared to 
+antiarrhythmic drug therapy. The pooled analysis found 
+a 44% relative risk reduction for AF recurrence with 
+ablation. Additionally, rates of hospitalization were sub -
+stantially lower with ablation. However, these improved 
+efficacy outcomes came at the cost of an increased risk 
+of procedural-related complications and cardiac tam -
+ponade. No difference in all-cause mortality was noted 
+between the treatment strategies.
+Catheter ablation also demonstrated benefits to qual -
+ity of life based on SF-36 scores. The physical health 
+composite score improved by approximately 5 points 
+more with ablation than with medications. However, the 
+Table 2 Baseline characteristics of the included studies
+AF Atrial Fibrillation, AADs Antiarrhythmic Drugs, n (%) Number (Percentage), LVEF Left Ventricular Ejection Fraction, M mean, SD standard deviation
+*data presented as median and interquartile ranges, **data presented as median and ranges
+Study ID Study arms Sample Age, years, M (SD) Sex, male (%) AF duration, 
+months, M 
+(SD)
+Hypertension, n (%) LVEF, %, M (SD)
+Biase et al. 2016 [19] Catheter ablation 102 62 (10) 77 (75%) 8.6 (3.2) 46 (45%) 29 (5)
+AADs 101 60 (11) 74 (73%) 8.4 (4.1) 48 (48%) 30 (8)
+Forleo et al. 2009 [23] Catheter ablation 35 63.2 (8.6) 20 (57.1%) 41 (18–66)* 22 (62.9%) 54.6 (7)
+AADs 35 64.8 (6.5) 23 (65.7%) 36 (17–55)* 24 (68.6%) 52.6 (8.6)
+Jais et al. 2008 [26] Catheter ablation 53 49.7 (10.7) 45 (84.9%) - 11 (21.6%) 63.1 (11)
+AADs 59 52.4 (11.4) 49 (83.1%) - 18 (30.5%) 65.6 (7.2)
+Kuck et al. 2021 [25] Catheter ablation 128 67.8 (4.8) 54 (42.2%) 51.2 (19–625)** 120 (93.8%) 61.8 (5.8)
+AADs 127 67.6 (4.6) 53 (41.7%) 49.8 (25–366)** 123 (96.9%) 62.3 (5.2)
+Mont et al. 2014 [21] Catheter ablation 98 55 (9) 76 (77.5%) - 46 (46.9%) 61.1 (8.8)
+AADs 48 55 (9) 37 (77%) - 19 (39.5%) 60.8 (9.7)
+Morillo et al. 2014 [20] Catheter ablation 66 56.3 (9.3) 51 (77.3%) - 28 (42.4%) 61.4 (4.8)
+``c?UP?TSMR?GPPMVH?ST?GVRMWDH?L?QT?GSPDH?UOMW?GVMOH
+Nielsen et al. 2012 [28] Catheter ablation 146 56 (9) 100 (68%) - 43 (29%) -
+AADs 148 54 (10) 106 (72%) - 53 (36%) -
+Oral et al. 2006 [30] Catheter ablation 77 55 (9) 67 (87%) 60 (48) - 55 (7)
+AADs 69 58 (8) 67 (94%) 48 (48) - 56 (7)
+Packer et al. 2019 [22] Catheter ablation 1108 68 (62–72)* 695 (62.7%) - 876 (79.1%) -
+AADs 1096 67 (62–72)* 690 (63%) - 900 (82.2%) -
+Pappone et al. 2006 
+[27]
+Catheter ablation 99 55 (10) 69 (70%) 72 (48) 55 (56%) 60 (8)
+AADs 99 57 (10) 64 (65%) 72 (72) 56 (57%) 61 (6)
+Wazni et al. 2005 [29] Catheter ablation 32 53 (8) - - - 53 (5)
+AADs 35 54 (8) - - - 54 (6)
+Wilber et al. 2010 [24] Catheter ablation 106 55.5 (53.7–57.3)* 73 (68.9%) 5.4 (4.3–6.5)* 51 (48.6%) 62.3 (60.4–64.3)*
+AADs 61 56.1 (52.9–59.4)* 38 (62%) 6.2 (4.6–7.9)* 30 (50%) 62.7 (60.7–64.7)*
+[[p12]]
+Page 12 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+difference in mental health component score change was 
+not statistically significant between groups. This data 
+warrants further trials with larger sample size.
+Our efficacy findings confirm an advantage of ablation 
+aligned with previous meta-analyses in paroxysmal AF 
+patients [31–33]. However, few prior reviews assessed 
+outcomes separately for persistent AF or incorporated 
+the latest-generation ablation tools and techniques. Our 
+study is among the first to pool trial data across both 
+paroxysmal and persistent AF. It provides updated esti -
+mates following major evolutions in both pharmacologi -
+cal and ablative treatment options.
+While ablation offered efficacy benefits, it did confer 
+moderately higher risk of complications like vascular 
+injury and pericardial effusions. Yet, the 1.5 times greater 
+adverse event rate aligns with expectations for a complex, 
+invasive procedure relative to oral medications. The spec-
+trum of complications was generally manageable without 
+Fig. 2 Risk of bias as a percentage
+Fig. 3 Risk of bias per protocol for individual studies
+[[p13]]
+Page 13 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+Fig. 4 Forest plot of recurrent arrythmias
+Fig. 5 Forrest plot of rate of hospitalization
+Fig. 6 Forest plot of adverse events
+[[p14]]
+Page 14 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+Fig. 7 Forrest plot of death
+[[p15]]
+Page 15 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+excess mortality. Careful patient selection, operator expe-
+rience, and performing procedures in higher volume 
+centers can help mitigate procedural risks. Future tech -
+nological advances may also enhance the safety profile of 
+AF ablation [34].
+There remains debate around the appropriate timing 
+for ablation in AF management pathways for stroke pre -
+vention. Most patients in these trials continued antico -
+agulation per guidelines. The open question of whether 
+successful ablation can allow stopping anticoagulants 
+after a several-month blanking periods requires further 
+study through longitudinal cohort follow-up [35].
+An important limitation in assessing ablation’s defini -
+tive role relates to discrepancies in healthcare systems 
+and reimbursement models internationally. Due to 
+high upfront facility costs, ablation is estimated to have 
+unfavorable short-term economic profiles compared to 
+generic AADs in European nationalized systems [36, 37]. 
+Yet models suggest cost equivalence or even superiority 
+over longer horizons for ablation, considering savings 
+from downstream cardiovascular care [36]. Value-based 
+research is needed to clarify clinical and financial trade-
+offs globally.
+This meta-analysis synthesized only RCT data, sup -
+porting internal validity and causality for the treatment 
+effects. However, gaps remain in real-world, generaliz -
+able evidence. Participants enrolled in trials may not 
+reflect heterogeneous AF populations or community 
+practice patterns. There was heterogeneity in some 
+pooled analyses, attributable to differences in abla -
+tion methods, antiarrhythmic drug choice/dosing, AF 
+type, and monitoring protocols. Another aspect could 
+be the difference in sample size, such as Packer et  al. 
+2019, which created significant heterogeneity but had 
+Fig. 8 Forest plot of change in SF-36-Physical component
+Fig. 9 Forest plot of change in SF-36-Mental component
+[[p16]]
+Page 16 of 17Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+a significantly higher sample size (2,204). However, the 
+main effects remained consistent after sensitivity anal -
+yses. More high-quality head-to-head trials are war -
+ranted, particularly focusing on persistent AF cohorts.
+This systematic review substantiates an overall ben -
+eficial efficacy and safety profile for catheter ablation 
+over antiarrhythmic drug therapy for rhythm control 
+in patients with symptomatic paroxysmal or persis -
+tent AF refractory to at least one medication attempt. 
+Subgroup differences based on arrhythmia persistence, 
+patient comorbidities, or other modifiers remain less 
+clear. While evaluating long-term outcomes and ideal 
+timing for ablation are needed, our results support 
+catheter ablation as a recommendable treatment option 
+in patients failing initial antiarrhythmic medications. 
+Ablation is likely underutilized currently and could 
+be offered more widely rather than pursuing multiple 
+unsuccessful drug trials in AF patients. Shared deci -
+sion-making discussions should weigh upfront risks 
+against reduced arrhythmia burden, hospitalizations, 
+and improved quality of life after ablation. Additional 
+study is justified to enhance patient selection criteria, 
+procedural technique, management protocols and lon -
+gitudinal monitoring to optimize the risk-benefit ratio 
+with AF ablation.
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s12872- 024- 03983-z.
+Supplementary Material 1.
+Acknowledgements
+N/A.
+Authors’ contributions
+All authors had access to the data and contributed significantly to writing 
+the manuscript. Subhash Chander, Roopa Kumari: Generated the hypothesis, 
+analyzed the data, and wrote the first draft of the manuscript. FNU Sorath, 
+Sheena Shiwlani, Sindhu Luhana, FNU Sadarat, Om Parkash, Zubair Rahaman: 
+Literature review and help in table and figure development. Esha Vaish, Hong 
+Yu Wang, Sam Tan, Yaqub Nadeem Mohammed, FNU Sakshi & Abhi Chand 
+Lohana: Literature review and data gathering. RK: Supervise and review the 
+final draft.
+Funding
+This study did not receive any research funding.
+Availability of data and materials
+All data generated or analyzed during this study are included in this published 
+article.
+Declarations
+Ethics approval and consent to participate
+Since this study utilized publicly available literature, approval from the institu-
+tional review board was not obtained.
+Consent for publication
+N/A.
+Competing interests
+The authors declare no competing interests.
+Author details
+1 Department of Medicine, Icahn School of Medicine, Mount Sinai Beth Israel 
+Hospital, New York City, NY, USA. 2 Department of Medicine, Montefiore Medi-
+cal Centre, Wakefield, NY, USA. 3 Department of Medicine, University at Buffalo, 
+Buffalo, NY, USA. 4 Department of Anesthesiology, Dow University Health 
+Sciences, Karachi, Pakistan. 5 Department of Medicine, Western Michigan Uni-
+versity, Kalamazoo, WV, USA. 6 Department of Medicine, WVU, Camden Clark 
+Medical Centre, Parkersburg, WV, USA. 7 Department of Medicine, Piedmont 
+Augusta Hospital, Augusta, GA, USA. 
+Received: 20 December 2023   Accepted: 17 June 2024
+References
+ 1. Lippi G, Sanchis-Gomar F, Cervellin G. Global epidemiology of atrial fibril-
+lation: an increasing epidemic and public health challenge. Int J Stroke. 
+2021;16(2):217–21. https:// doi. org/ 10. 1177/ 17474 93019 897870. (In eng).
+ 2. Bordignon S, Chiara Corti M, Bilato C. Atrial fibrillation associated with 
+heart failure, stroke and mortality. J Atr Fibrillation. 2012;5(1):467. https:// 
+doi. org/ 10. 4022/ jafib. 467. (In eng).
+ 3. Kakar P , Boos CJ, Lip GY. Management of atrial fibrillation. Vasc Health Risk 
+Manag. 2007;3(1):109–16. (In eng).
+ 4. Chen Q, Yi Z, Cheng J. Atrial fibrillation in aging population. Aging Med 
+(Milton). 2018;1(1):67–74. https:// doi. org/ 10. 1002/ agm2. 12015. (In eng).
+ 5. Rienstra M, Lubitz SA, Mahida S, et al. Symptoms and functional status of 
+patients with atrial fibrillation: state of the art and future research oppor-
+tunities. Circulation. 2012;125(23):2933–43. https:// doi. org/ 10. 1161/ circu 
+latio naha. 111. 069450. (In eng).
+ 6. Qin D, Mansour MC, Ruskin JN, Heist EK. Atrial fibrillation-mediated car-
+diomyopathy. Circ Arrhythm Electrophysiol. 2019;12(12):e007809. https:// 
+doi. org/ 10. 1161/ circep. 119. 007809. (In eng).
+ 7. Zimetbaum P . Antiarrhythmic drug therapy for atrial fibrillation. Circula-
+tion. 2012;125(2):381–9. https:// doi. org/ 10. 1161/ circu latio naha. 111. 
+019927. (In eng).
+ 8. Kirchhoff JE, Diness JG, Abildgaard L, Sheykhzade M, Grunnet M, 
+Jespersen T. Antiarrhythmic effect of the ca(2+)-activated K(+) (SK) 
+channel inhibitor ICA combined with either amiodarone or dofetilide in 
+an isolated heart model of atrial fibrillation. Pflugers Arch. 2016;468(11–
+12):1853–63. https:// doi. org/ 10. 1007/ s00424- 016- 1883-9. (In eng).
+ 9. Deering TF, Reiffel JA, Solomon AJ, Tamirisa KP . Chapter 5: Guideline rec-
+ommendations: which AAD and for whom? Am J Cardiol. 2023;205(Suppl 
+1):S16–8. https:// doi. org/ 10. 1016/j. amjca rd. 2023. 08. 029. (In eng).
+ 10. Ang R, Earley MJ. The role of catheter ablation in the management of 
+atrial fibrillation. Clin Med (Lond). 2016;16(3):267–71. https:// doi. org/ 10. 
+7861/ clinm edici ne. 16-3- 267. (In eng).
+ 11. Keçe F, Zeppenfeld K, Trines SA. The impact of advances in atrial fibrilla-
+tion ablation devices on the incidence and prevention of complications. 
+Arrhythm Electrophysiol Rev. 2018;7(3):169–80. https:// doi. org/ 10. 15420/ 
+aer. 2018.7.3. (In eng).
+ 12. Parlavecchio A, Vetta G, Coluccia G, et al. Catheter ablation in patients 
+with paroxysmal atrial fibrillation and absence of structural heart 
+disease: a meta-analysis of randomized trials. Int J Cardiol Heart Vasc. 
+2023;49:101292. https:// doi. org/ 10. 1016/j. ijcha. 2023. 101292. (In eng).
+ 13. Shi LZ, Heng R, Liu SM, Leng FY. Effect of catheter ablation versus antiar-
+rhythmic drugs on atrial fibrillation: a meta-analysis of randomized 
+controlled trials. Exp Ther Med. 2015;10(2):816–22. https:// doi. org/ 10. 
+3892/ etm. 2015. 2545. (In eng).
+ 14. Charitakis E, Metelli S, Karlsson LO, et al. Comparing efficacy and safety in 
+catheter ablation strategies for atrial fibrillation: a network meta-analysis. 
+BMC Med. 2022;20(1):193. https:// doi. org/ 10. 1186/ s12916- 022- 02385-2.
+ 15. McBride S, Avazzadeh S, Wheatley AM, et al. Ablation modalities for 
+therapeutic intervention in Arrhythmia-related Cardiovascular Disease: 
+Focus on Electroporation. J Clin Med. 2021;10(12). https:// doi. org/ 10. 
+3390/ jcm10 122657. (In eng).
+ 16. Cumpston M, Li T, Page MJ, et al. Updated guidance for trusted systematic 
+reviews: a new edition of the cochrane handbook for systematic reviews 
+[[p17]]
+Page 17 of 17
+Chander et al. BMC Cardiovascular Disorders          (2024) 24:321 
+ 
+of interventions. Cochrane Database Syst Rev. 2019;10(10):Ed000142. 
+https:// doi. org/ 10. 1002/ 14651 858. Ed000 142. (In eng).
+ 17. Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for report-
+ing systematic reviews and meta-analyses of studies that evaluate 
+health care interventions: explanation and elaboration. J Clin Epidemiol. 
+2009;62(10):e1–34. https:// doi. org/ 10. 1016/j. jclin epi. 2009. 06. 006. (In eng).
+ 18. Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk 
+of bias in randomised trials. BMJ. 2019;366:l4898. https:// doi. org/ 10. 1136/ 
+bmj. l4898.
+ 19. Biase LD, Mohanty P , Mohanty S, et al. Ablation versus amiodarone for 
+treatment of persistent atrial fibrillation in patients with congestive 
+heart failure and an implanted device. Circulation. 2016;133(17):1637–44. 
+https:// doi. org/ 10. 1161/ CIRCU LATIO NAHA. 115. 019406.
+ 20. Morillo CA, Verma A, Connolly SJ, et al. Radiofrequency ablation vs antiar-
+rhythmic drugs as first-line treatment of paroxysmal atrial fibrillation 
+(RAAFT-2): a randomized trial. JAMA. 2014;311(7):692–700. https:// doi. 
+org/ 10. 1001/ jama. 2014. 467. (In eng).
+ 21. Mont L, Bisbal F, Hernández-Madrid A, et al. Catheter ablation vs. antiar-
+rhythmic drug treatment of persistent atrial fibrillation: a multicentre, 
+randomized, controlled trial (SARA study). Eur Heart J. 2014;35(8):501–7. 
+https:// doi. org/ 10. 1093/ eurhe artj/ eht457. (In eng).
+ 22. Packer DL, Mark DB, Robb RA, et al. Effect of catheter ablation vs antiar-
+rhythmic drug therapy on mortality, stroke, bleeding, and cardiac arrest 
+among patients with atrial fibrillation: the CABANA randomized clinical 
+trial. JAMA. 2019;321(13):1261–74. https:// doi. org/ 10. 1001/ jama. 2019. 
+0693. (In eng).
+ 23. Forleo GB, Mantica M, De Luca L, et al. Catheter ablation of atrial fibrilla-
+tion in patients with diabetes mellitus type 2: results from a randomized 
+study comparing pulmonary vein isolation versus antiarrhythmic drug 
+therapy. J Cardiovasc Electrophysiol. 2009;20(1):22–8. https:// doi. org/ 10. 
+1111/j. 1540- 8167. 2008. 01275.x. (In eng).
+ 24. Wilber DJ, Pappone C, Neuzil P , et al. Comparison of antiarrhythmic 
+drug therapy and radiofrequency catheter ablation in patients with 
+paroxysmal atrial fibrillation: a randomized controlled trial. JAMA. 
+2010;303(4):333–40. https:// doi. org/ 10. 1001/ jama. 2009. 2029. (In eng).
+ 25. Kuck KH, Lebedev DS, Mikhaylov EN, et al. Catheter ablation or medi-
+cal therapy to delay progression of atrial fibrillation: the randomized 
+controlled atrial fibrillation progression trial (ATTEST). Europace. 
+2021;23(3):362–9. https:// doi. org/ 10. 1093/ europ ace/ euaa2 98. (In eng).
+ 26. Jaïs P , Cauchemez B, Macle L, et al. Catheter ablation versus anti-
+arrhythmic drugs for atrial fibrillation: the A4 study. Circulation. 
+2008;118(24):2498–505. https:// doi. org/ 10. 1161/ circu latio naha. 108. 
+772582. (In eng).
+ 27. Pappone C, Augello G, Sala S, et al. A randomized trial of circumferential 
+pulmonary vein ablation versus antiarrhythmic drug therapy in paroxys-
+mal atrial fibrillation: the APAF Study. J Am Coll Cardiol. 2006;48(11):2340–
+7. https:// doi. org/ 10. 1016/j. jacc. 2006. 08. 037. (In eng).
+ 28. Cosedis Nielsen J, Johannessen A, Raatikainen P , et al. Radiofrequency 
+ablation as initial therapy in paroxysmal atrial fibrillation. N Engl J Med. 
+2012;367(17):1587–95. https:// doi. org/ 10. 1056/ NEJMo a1113 566. (In eng).
+ 29. Wazni OM, Marrouche NF, Martin DO, et al. Radiofrequency ablation vs 
+antiarrhythmic drugs as first-line treatment of symptomatic atrial fibrilla-
+tion: a randomized trial. JAMA. 2005;293(21):2634–40. https:// doi. org/ 10. 
+1001/ jama. 293. 21. 2634. (In eng).
+ 30. Oral H, Pappone C, Chugh A, et al. Circumferential pulmonary-vein 
+ablation for chronic atrial fibrillation. N Engl J Med. 2006;354(9):934–41. 
+https:// doi. org/ 10. 1056/ NEJMo a0509 55. (In eng).
+ 31. Turagam MK, Musikantow D, Whang W, et al. Assessment of catheter 
+ablation or antiarrhythmic drugs for first-line therapy of atrial fibrillation: 
+a meta-analysis of randomized clinical trials. JAMA Cardiol. 2021;6(6):697–
+705. https:// doi. org/ 10. 1001/ jamac ardio. 2021. 0852. (In eng).
+ 32. Wang P , He W, Li C, Xiang T, Yang Q, Chen Q. A systematic review and 
+meta-analysis of catheter ablation for atrial fibrillation. Ann Palliat Med. 
+2021;10(10):10542–55. https:// doi. org/ 10. 21037/ apm- 21- 2313. (In eng).
+ 33. Zahoor MM, Ullah SE, Kidiavai HM, et al. Efficacy of ablation therapy on 
+clinical outcomes in patients with atrial fibrillation: a systematic review 
+and meta-analysis. Ann Med Surg (Lond). 2023;85(9):4491–500. https:// 
+doi. org/ 10. 1097/ ms9. 00000 00000 000985. (In eng).
+ 34. Yamane T. Catheter ablation of atrial fibrillation: current status and near 
+future. J Cardiol. 2022;80(1):22–7. https:// doi. org/ 10. 1016/j. jjcc. 2022. 02. 
+005. (In eng).
+ 35. Wang X, Li M, Wang X, Zhang Z. It can be safe to discontinue oral antico-
+agulants after successful atrial fibrillation ablation: a systematic review 
+and meta-analysis of cohort studies. Med (Baltim). 2023;102(42):e35518. 
+https:// doi. org/ 10. 1097/ md. 00000 00000 035518. (In eng).
+ 36. Chang AY, Kaiser D, Ullal A, Perino AC, Heidenreich PA, Turakhia MP . 
+Evaluating the cost-effectiveness of catheter ablation of atrial fibrillation. 
+Arrhythm Electrophysiol Rev. 2014;3(3):177–83. https:// doi. org/ 10. 15420/ 
+aer. 2014.3. 3. 177. (In eng).
+ 37. Hu M, Han Y, Zhao W, Chen W. Long-term cost-effectiveness comparison 
+of catheter ablation and antiarrhythmic drugs in atrial fibrillation treat-
+ment using discrete event simulation. Value Health. 2022;25(6):975–83. 
+https:// doi. org/ 10. 1016/j. jval. 2021. 10. 014. (In eng).
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

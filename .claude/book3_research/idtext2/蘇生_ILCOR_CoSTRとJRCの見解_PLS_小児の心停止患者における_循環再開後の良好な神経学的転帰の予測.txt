@@ -1,0 +1,379 @@
+
+[[p1]]
+ 
+1 
+ 
+英語 日本語 
+Prediction of Survival With Good Neurological Outcome After 
+ROC Following Pediatric Cardiac Arrest 
+小児の心停止患者における、循環再開後の良好な神経学的転帰の予
+測 
+Author: Kee-Chong Ng, et al. PLS Task Force 
+The PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+ 
+Population: Children (<18 years) who achieve a return of 
+spontaneous or mechanical circulation (ROC) after resuscitation 
+from in-hospital cardiac arrest (IHCA) and out-of-hospital 
+(OHCA), from any cause. 
+PICOST  
+ 
+ 
+ 
+P: 原因を問わず，院内心停止（IHCA）および院外心停止
+（OHCA）から蘇生により自己心拍再開または機械的補助循環が確
+立（ROC）した 18 歳未満の小児。 
+[[p2]]
+ 
+2 
+ 
+ 
+Intervention: Tests, recorded less than 12 hours, 12 to <24 
+hours, 24 to <48 hours, 48 to <72 hours, 72hrs to <7 days, 
+and/or 7 to10 days after cardiac arrest. 
+ 
+Clinical Examination: pupillary response, Glasgow Coma Scale 
+score, FOUR score, or brainstem reflexes. 
+ 
+Biomarkers: neuro-specific enolase, S100b, GFAP, 
+neurofilament light chain, procalcitonin, blood pH or lactate. 
+ 
+ 
+ 
+I: 心停止後12時間未満、12時間以上24時間未満、24時間以上48時
+間未満、48時間以上72時間未満、72時間以上7日未満、7日以上10日
+未満に記録された検査。 
+ 
+臨床検査：対光反射、Glasgow Coma Scaleスコア、FOURスコア、
+脳幹反射。 
+ 
+バイオマーカー：神経特異的エノラーゼ、S100b、GFAP、ニュー
+ロフィラメント軽鎖、プロカルシトニン、血液pHまたは乳酸。 
+[[p3]]
+ 
+3 
+ 
+Electrophysiology: electroencephalogram (EEG), brainstem 
+auditory evoked potentials, short-latency somatosensory evoked 
+potentials (SSEPs), amplitude-integrated EEG (aEEG), 
+quantitative EEG (qEEG) or bispectral index (BIS). 
+ 
+Imaging: head computer tomography (CT), brain magnetic 
+resonance imaging (MRI), cranial ultrasound or trans-cranial 
+doppler (TCD) ultrasound. 
+ 
+Comparators: There is no control group. Comparing the 
+predicted outcome with the final outcome. 
+ 
+電気生理学：脳波（EEG）、脳幹聴覚誘発電位、短潜時体性感覚誘
+発電位（SSEP）、振幅統合脳波（aEEG）、定量的脳波（qEEG）
+またはバイスペクトラル指数（BIS）。 
+ 
+画像診断：頭部コンピュータ断層撮影（CT）、脳磁気共鳴画像法
+（MRI）、頭蓋超音波検査または経頭蓋ドプラ（TCD）超音波検
+査。 
+ 
+C: 対照群はない。予測アウトカムと最終アウトカムを比較。 
+ 
+[[p4]]
+ 
+4 
+ 
+ 
+ 
+Outcomes: Survival with good neurological outcome. Good 
+neurological outcome is defined as a Pediatric Cerebral 
+Performance Category (PCPC) score of 1, 2 or 3, or Vineland 
+Adaptive Behavioural scale-II ≥ 70 at the pediatric ICU (PICU) 
+or hospital discharge, 1 month or later. 
+ 
+Study Designs: Randomized controlled trials (RCTs) and non-
+randomized studies (non-randomized controlled trials, 
+interrupted time series, controlled before-and-after studies, 
+O: PICU 退室時、あるいは、退院時、1 ヶ月後の良好な神経学的予
+後（PCPC スコア 1, 2, 3、または VABS-II スコア 70 以上）。 
+ 
+S: ランダム化比較試験（RCT）および非ランダム化研究（非ラン
+ダム化比較試験、分割時系列解析、前後比較研究、コホート研究）
+が対象となった。症例報告は 5 例以上の場合に組み入れた。論文化
+されていない研究（例：学会抄録、試験プロトコール）、動物を対
+象としたものは除外。感度と偽陽性率（FPR）が報告されている研
+究を選択。 
+ 
+ 
+[[p5]]
+ 
+5 
+ 
+cohort studies) were eligible for inclusion. Case series were 
+considered if greater than 5 cases reported. Unpublished studies 
+(e.g., conference abstracts, trial protocols*) and animal studies 
+were excluded. We selected studies where the sensitivity and 
+false-positive rate (FPR) are reported. 
+ 
+ 
+Timeframe: All years and all languages were included as long as 
+there was an English abstract. Literature search updated to Feb 
+17th 2022. 
+ 
+T: 英語抄録がある限り、全年、全言語を対象。文献検索は 2022 年
+2 月 17 日に更新。 
+[[p6]]
+ 
+6 
+ 
+PROSPERO Registration CRD42021279221 
+Treatment recommendations 
+we recommend that no single test should be used in isolation for 
+prediction of good neurological outcome (good practice 
+statement).  
+ 
+Clinical Examination 
+We suggest using pupillary light reflex within 12 hours after 
+ROC for predicting good neurological outcome in children after 
+cardiac arrest (weak recommendation, very-low-certainty 
+evidence). 
+推奨と提案 
+良好な神経学的転帰を予測するためには、単一の検査を単独で用い
+るべきではないことを推奨する（優れた医療慣行に関する記述）。 
+ 
+ 
+ 
+臨床所見 
+ROC 後 12 時間以内の対光反射を用いることを提案する（弱い推
+奨、エビデンスの確実性：非常に低い）。 
+ 
+[[p7]]
+ 
+7 
+ 
+ 
+We cannot make a recommendation for or against using total 
+GCS, GCS motor score or motor response after ROC for 
+predicting good neurological outcome in children after cardiac 
+arrest (weak recommendation, very-low-certainty evidence). 
+ 
+We cannot make a recommendation for or against the use of 
+brainstem tests after ROC for predicting good neurological 
+outcomes in children after cardiac arrest (weak recommendation, 
+very-low-certainty evidence). 
+ 
+ 
+ 
+ROC 後に総 GCS、GCS 運動スコア、刺激に対する運動反応を用い
+ることに対して推奨も反対もできない（弱い推奨、エビデンスの確
+実性：非常に低い）。 
+ 
+ 
+ROC 後の脳幹反射を使用することに対して推奨も反対もできない
+（弱い推奨、エビデンスの確実性：非常に低い）。 
+ 
+ 
+[[p8]]
+ 
+8 
+ 
+Biomarkers 
+We suggest using normal lactate (<2 mmols) up to 12 hours 
+following return of circulation (ROC), for predicting good 
+neurological outcome of children after cardiac arrest (weak 
+recommendation, very-low-certainty evidence). 
+ 
+We cannot make a recommendation for or against using time to 
+lactate clearance within 48 hours following ROC for predicting 
+good neurological outcome (weak recommendation, very-low-
+certainty evidence). 
+ 
+ 
+バイオマーカー 
+ 
+ROC 後 12 時間までの乳酸値（<2mmol）を使用することを提案す
+る（弱い推奨、エビデンスの確実性：非常に低い）。 
+ 
+ 
+ 
+ROC 後 48 時間以内の乳酸クリアランスを使用することについて推
+奨も反対もできない（弱い推奨、エビデンスの確実性：非常に低
+い）。 
+[[p9]]
+ 
+9 
+ 
+We suggest against using pH following ROC for predicting good 
+neurological outcome after cardiac arrest (weak 
+recommendation, very-low-certainty evidence). 
+ 
+We cannot make a recommendation for or against the use of 
+blood neuro-biomarkers (e.g. S100beta, Neuron Specific 
+Enolase) after ROC for predicting good neurological outcome in 
+children after cardiac arrest (weak recommendation, very-low-
+certainty evidence). 
+ 
+Electrophysiology 
+ 
+ 
+心停止後の良好な神経学的転帰の予測に ROC 後の pH を使用しな
+いことを提案する（弱い推奨、エビデンスの確実性：非常に低い）。 
+ 
+ 
+心停止後の小児の良好な神経学的転帰を予測するために、ROC 後
+に血中神経バイオマーカー（例：S100β、神経特異的エノラーゼ）
+を使用することについて推奨も反対もできない（弱い推奨、エビデ
+ンスの確実性：非常に低い）。 
+ 
+[[p10]]
+ 
+10 
+ 
+We suggest using electroencephalography (EEG) within 6 to 
+72hs after ROC for predicting good neurological outcome in 
+children after cardiac arrest (weak recommendation, low-
+certainty evidence). 
+ 
+We suggest using the following EEG features for predicting good 
+neurological outcome: presence of sleep spindle and sleep II 
+architecture at 12-24 hours, or continuous or normal background 
+EEG between 1 to 72 hours, or EEG reactivity between 6 to 24 
+hours (weak recommendation, very-low-certainty evidence). 
+ 
+ 
+電気生理学   
+ROC 後 6～72 時間以内に脳波（EEG）を使用することを提案する
+（弱い推奨、エビデンスの確実性：低い）。 
+ 
+ 
+ 
+ 
+以下の脳波の特徴を使用することを提案する：12～24 時間後の睡眠
+紡錘および睡眠 II 構造の存在、または 1～72 時間後の連続的または
+[[p11]]
+ 
+11 
+ 
+We suggest against using the following EEG feature to predict 
+good neurological outcome: absence of clinical or electrographic 
+seizures, absence of status epilepticus, absence of myoclonic 
+epilepsy, absence of burst suppression, burst attenuation or 
+GPEDs, or absence of attenuated, isoelectric or flat EEG. (weak 
+recommendation, very-low-certainty evidence). 
+ 
+We cannot make a recommendation for or against the use of 
+presence/absence of N20 response SSEPs for predicting good 
+neurological outcome (weak recommendation, very-low-certainty 
+evidence). 
+正常な背景脳波、または 6～24 時間後の脳波反応性（弱い推奨、エ
+ビデンスの確実性：非常に低い）。 
+ 
+ 
+以下の脳波の特徴を良好な神経学的転帰の予測に使用しないことを
+提案する：臨床発作または脳波発作がないこと、てんかん重積状態
+がないこと、ミオクロニーてんかんがないこと、バースト抑制、バ
+ースト減衰、GPED がないこと、減衰脳波、等電点脳波、平坦脳波
+がないこと。(弱い推奨、エビデンスの確実性：非常に低い）。 
+ 
+ 
+[[p12]]
+ 
+12 
+ 
+ 
+We cannot make a recommendation for or against the use of 
+EEG variability or EEG voltage, or quantitative EEG score for 
+predicting good neurological outcomes. (weak recommendation, 
+very-low-certainty evidence). 
+ 
+Brain imaging 
+We suggest against using normal CT imaging at 24 to 48 hours 
+from return of circulation for predicting good neurological 
+outcome (weak recommendation, very-low-certainty evidence). 
+ 
+SSEPs における N20 response の有無について推奨することはでき
+ない（弱い推奨、エビデンスの確実性：非常に低い）。 
+ 
+ 
+ 
+脳波の変動または脳波の電位、あるいは定量的脳波スコアの使用に
+対する推奨はできない。(弱い推奨、エビデンスの確実性：非常に低
+い）。 
+ 
+ 
+ 
+[[p13]]
+ 
+13 
+ 
+We suggest using normal MRI between 72 hours and 2 weeks 
+after return of circulation for predicting good neurological 
+outcome (weak recommendation, low-certainty evidence). 
+ 
+We cannot make a recommendation for or against the use of 
+transcranial doppler for predicting good neurological outcome 
+(weak recommendation, very-low-certainty 
+画像検査 
+ROC 後 24～48 時間後の CT に異常がないことを神経学的転帰が良
+好である根拠にしないことを提案する（弱い推奨、エビデンスの確
+実性：非常に低い）。 
+ 
+ 
+ 
+ROC 後 72 時間から 2 週間の間に正常な MRI を確認することを提
+案する（弱い推奨、エビデンスの確実性：低い）。 
+ 
+ 
+[[p14]]
+ 
+14 
+ 
+ 
+経頭蓋ドプラを神経学的転帰の予測のために使用することについて
+は、推奨も反対もできない（弱い推奨、エビデンスの確実性：非常に
+低い）。 
+ 
+１． JRC の見解と解説（400-800 文字） 
+（解説） 
+・この評価は良好な神経学的転帰を予測するためのツールを探すことを目的としており、不良な神経学的転帰を予測するための検査では
+ない。 
+・良好な神経学的転帰の評価ツールとして以下の 4 項目が検討された。 
+・臨床所見：対光反射は 8 編、GCS は 3 編、運動反応は 1 編、脳幹反射は 2 編の研究で評価された。 
+[[p15]]
+ 
+15 
+ 
+・バイオマーカー：乳酸は 5 編、pH は 4 編、神経特異エノラーゼ（NSE）、S100b、髄鞘塩基性タンパク質（MBP）は 1 編の研究で評
+価された。 
+・電気生理学的発作：12 編の研究で評価された。 
+・画像検査：CT は３編、MRI は 4 編、経頭蓋超音波検査（TCD）は 1 編の研究で評価された。 
+・全てについてエビデンスの質は低く、バイアスリスクが高く存在していたためメタ解析ができなかった。 
+・単一の検査で予測することは推奨されず、複数を組み合わせることを推奨する。 
+・推奨されたのは以下の 4 つであった。1.ROC 後 12 時間以内の対光反射、2.ROC 後 12 時間以内の乳酸値（2mmol/L 以内）、3.脳波
+検査（ROC 後 12～24 時間での睡眠スピンドルおよび睡眠 II アーキテクチャの存在、1～72 時間での連続的または正常な背景脳波、6～
+24 時間での脳波の反応性）、4.ROC 後 72 時間から 2 週間の間の正常な MRI。（すべて弱い推奨、非常に低い確実性のエビデンス） 
+・以下の 3 つは使用を推奨しない。1.ROC 後の pH 値、2.臨床的または電気生理学的発作の不在、バーストサプレッション、バースト減
+衰または全般性周期性てんかん型放電の不在、脳波活動性の不在）、3.ROC 後 24-48 時間の CT 画像。（すべて弱い推奨、エビデンスの
+確実性：非常に低い） 
+[[p16]]
+ 
+16 
+ 
+・その他については推奨も反対もできなかった。 
+・自動瞳孔計測装置の使用、他のバイオマーカー（例：NFL、GFAP、Tau、UCH-L1）、電気生理学的検査の種類、CT や MRI の評価
+の定義、検査の時期、検査の費用対効果についてさらなる研究が必要である。 
+ 
+２．わが国への適用 
+  全ての ROC 後の小児（18 歳未満）に対して対光反射、乳酸値、脳波、MRI 画像は良好な神経学的予後（PCPC 1-3）を予測するこ
+とができるが、単独で用いず複数を組み合わせて使用することを提案する（弱い推奨、エビデンスの確実性：非常に低い）。ただし、
+MRI を生理学的に不安定な患者に行うリスクには十分配慮する。また、治療中止を目的とする不良な神経学的転帰を予測するための方
+法としては用いない（優れた医療慣行に関する記述）。pH、異常脳波の存在、てんかん発作の存在、CT 画像は神経学的転帰予測のた
+めに使用することは推奨しない。 
+ 
+３．担当メンバー 
+[[p17]]
+ 
+17 
+ 
+作業部会員（五十音順）：赤嶺陽子、太田邦雄、岡本吉生、椎間優子、染谷真紀、種市尋宙、吉野智美 
+共同座長（五十音順）：野澤正寛 
+担当編集委員（五十音順）：池山貴也、黒澤寛史 
+編集委員長 
+編集委員（五十音順） 
+ 

@@ -1,0 +1,103 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Use of the GCS Motor Score for Prediction of Good 
+Neurological Outcome After Cardiac Arrest (SysRev 
+Adolopment) 
+心停止後の良好な神経学的転帰を予測するための GCS 運動スコア 
+(CoSTR 2023 の SysRev の適用) 
+Author：Berg KM, et al. ALS Task force 
+PICOST (Population, Intervention, Comparator, Outcome, Study 
+Designs and Timeframe) 
+ 
+Population: Adults (≥16 years) who are comatose after 
+resuscitation from cardiac arrest (either in-hospital or out-of-
+hospital), regardless of target temperature 
+Intervention: GCS motor score evaluated within 4 days after 
+cardiac arrest. 
+Comparator: None 
+Outcome: Prediction of good neurological outcome defined as 
+Cerebral Performance Categories (CPC) 1 or 2 or mRS score of 1 
+to 3 at hospital discharge or 1 month or later 
+Study designs: Prognostic accuracy studies where the 2 x 2 
+contingency table (ie, the number of true/false negatives and 
+positives for prediction of poor outcome) was reported, or where 
+those variables could be calculated from reported data, were 
+eligible for inclusion. Unpublished studies, reviews, case reports, 
+case series, studies including fewer than 10 patients, letters, 
+PICOST  
+ 
+ 
+P: 成人（16 歳以上）で自己心拍再開後も昏睡状態にある患者（院外心
+停止，院内心停止を問わず，また体温管理療法の有無は考慮しな
+い） 
+I: 心停止から 4 日以内に評価された GCS 運動スコア 
+C:なし 
+O: 退院時、1 ヶ月後、それ以降における、良好な神経学的転帰：脳機
+能障害カテゴリー(CPC)１-２，または修正ランキンスコア(mRS)１-
+３ 
+S:予後予測精度の研究であって，２x２表（転帰良好に対する真・偽陰
+性と真・偽陽性の数値）が記載されている，またはこれらの数値を
+計算で求めることができるものを対象とした．公表前，総説，症例
+報告，症例検討，１０例未満の研究，短報，エディトリアル，学会
+抄録，抄録形式のものは除外した 
+ 
+ 
+[[p2]]
+2 
+ 
+editorials, conference abstracts, and studies published in 
+abstract form were excluded. 
+Time frame: The original SysRev search was conducted on 
+October 31, 2021, and included studies dating from 2001. The 
+search was updated on May 20, 2022. 
+ 
+ 
+T: 最初の SysRev のための文献検索は 20２１年１０月 31 日に行わ
+れ，範囲は２００１年以降のものを含めた。２０２２年５月２０日
+に更新した 
+Treatment recommendations 
+We suggest assessing the GCS motor score in the first 4 days 
+after cardiac arrest to identify patients with a score >3, which 
+may indicate an increased likelihood of favorable outcome (weak 
+recommendation, very low–certainty evidence). 
+推奨と提案 
+良好な神経学的転帰の可能性が高い運動スコアが 3 を超える患者を特
+定するために心停止後の最初の 4 日以内に GCS 運動スコアを評価する
+ことを提案する（弱い推奨、エビデンスの確実性：非常に低い）.  
+ 
+１． JRC の見解と解説（400-800 文字） 
+・ 今回の SysRev では、心停止後の入院時および最初の 4 日間に GCS 運動スコアを用いて良好な神経学的転帰を予測した 2 つの観察研究が含
+まれた. 一方の研究では, 342 人の院外心停止患者の心停止後 4 日目の GCS 運動スコアが 3 を超えると, 6 ヶ月後の転帰良好を特異度 84%, 
+感度 77%で予測することが示された. 他方の研究では, 302 人の院外心停止患者の ICU 入院時の GCS 運動スコアが 4 から 5 の場合, 3 ヶ月
+後の転帰良好を特異度 98%, 感度 12%で予測することが示された (本研究は一二三らによる, J-PULSE-Hypo registry: 院外心停止自己心拍
+再開後の低体温療法に関する本邦初の多施設共同研究の解析結果である).  
+・ 鎮静薬や鎮痛薬・筋弛緩薬の使用は GCS 運動スコアの評価に影響を与える可能性がある. これらの薬物を中止してから信頼できる評価を得
+るまでの時間は異なるため, 薬剤中止から GCS 運動スコア評価までに確保すべき時間に注意を要する.  
+・ 心停止後の患者における治療の撤退は, 複数の転帰予測に関わる所見を基に行われるべきであり, GCS 運動スコアのみで行われるべきでは
+ない.  
+ 
+ 
+[[p3]]
+3 
+ 
+２．わが国への適用 
+心停止後の良好な神経学的転帰予測を，GCS 運動スコアのみで行うべきかどうかについて，G2025 では明確な推奨や提案は出さない予定であ
+る。 
+ROSC 後の時間経過による GCS 運動スコアの転帰予測確率の変化, 院内心停止や非心原性心停止における GCS 運動スコアの有効性, 他の転帰
+予測に関わる所見と GCS 運動スコアの関係などは明らかではなく, 今後、さらなるエビデンスの蓄積が望まれる.  
+ 
+３．担当メンバー 
+作業部会員（五十音順） 
+篠崎広一郎、杉山和宏、鈴木秀鷹、林田敬、瀧口徹 
+共同座長（五十音順） 
+ 福田龍将 
+担当編集委員（五十音順） 
+大下慎一郎、黒田泰弘 
+顧問 
+相引眞幸 
+編集委員長 
+ 坂本哲也 
+ 

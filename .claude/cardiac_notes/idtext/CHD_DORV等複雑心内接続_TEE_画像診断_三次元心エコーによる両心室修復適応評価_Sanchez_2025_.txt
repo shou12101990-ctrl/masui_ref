@@ -1,0 +1,581 @@
+
+[[p1]]
+CONGENITAL HEART DISEASE
+CLINICAL CASE SERIES
+Utility of 3-Dimensional
+Echocardiography in Patients With
+Complex Intracardiac Connections and
+Ventricular Septal Defects
+Aura Andrea Sanchez Mejia, MD, a,b Tam T. Doan, MD, a,b Christian Lilje, MD, a,b Minh B. Nguyen, MD, a,b
+Ricardo H. Pignatelli, MD, a,b Shagun Sachdeva, MD, a,b Anitha Parthiban, MD a,b
+ABSTRACT
+The surgical management of patients with complex intracardiac connections, ventricular septal defect (VSD), and
+2 adequately sized ventricles is challenging. Understanding the VSD anatomy and its spatial relationships with the
+outﬂow tracts is critical to determining the suitability for biventricular repair. Transthoracic 2-dimensional echocardi-
+ography (2D-echo) is the primary cardiac imaging tool in congenital heart disease. Transthoracic 3-dimensional
+echocardiography (3D-echo) has an additive role over 2D-echo in the de ﬁnition of the potential baf ﬂe pathway from
+the VSD to the semilunar valves, the anatomical characteristics of the VSD, and any substrate for systemic out ﬂow tract
+obstruction postrepair. In this paper, we describe 4 cases where transthoracic 3D-echo provided crucial delineation
+of the intracardiac connections and the VSD anatomy for surgical planning. We also describe our transthoracic
+3D-echo protocol to evaluate these complex heart defects. (JACC Case Rep. 2025;30:102755) © 2025 The Authors.
+Published by Elsevier on behalf of the American College of Cardiology Foundation. This is an open access article under
+the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ).
+P
+atients with complex intracardiac connections
+with 2 adequately sized ventricles and ventric-
+ular septal defect (VSD) require detailed car-
+diac imaging to determi ne their suitability for
+biventricular repair. Tran sthoracic 2-dimensional
+echocardiography (2D-echo) is the primary imaging
+tool in congenital heart dis ease; however, it is often
+insuf ﬁcient to fully delineate the cardiac anatomy in
+these patients. Transthoracic 3-dimensional echocar-
+diography (3D-echo) provides additive information
+from alternative imaging planes to assist in surgical
+planning.
+The objectives of using transthoracic 3D-echo in
+this patient population are to de ﬁne the anatomical
+characteristics of the VSD, to delineate the potential
+TAKE-HOME MESSAGES
+/C15 It is fundamental to clearly de ﬁne the
+potential baf ﬂe pathway from the VSD to the
+semilunar valves to determine the suitability
+for the biventricular repair of congenital
+heart defects with complex intracardiac
+connections and VSD.
+/C15 Transthoracic 3-dimensional echocardiogra-
+phy allows the generation of unconventional
+imaging planes to assess the anatomical
+characteristics of the VSD and other sub-
+strates for potential intraventricular baf ﬂe
+obstruction, which are impossible to obtain
+by 2-dimensional echocardiography.
+ISSN 2666-0849 https://doi.org/10.1016/j.jaccas.2024.102755
+From the aBaylor College of Medicine, Division of Pediatric Cardiology, Department of Pediatrics, Houston, Texas, USA; and the
+bTexas Children ’s Hospital, Houston, Texas, USA.
+The authors attest they are in compliance with human studies committees and animal welfare regulations of the authors ’
+institutions and Food and Drug Administration guidelines, including patient consent where appropriate. For more information,
+visit the Author Center .
+Manuscript received June 6, 2024; revised manuscript received September 26, 2024, accepted October 2, 2024.
+JACC: CASE REPORTS VOL. 30, NO. 6, 2025
+ª 2025 THE AUTHORS. PUBLISHED BY EL SEVIER ON BEHALF OF THE AMERICAN
+COLLEGE OF CARDIOLOGY FO UNDATION. THIS IS AN OPEN ACCESS ARTICLE UNDER
+THE CC BY-NC-ND LICENSE ( http://creativecommons.o rg/licenses/by-nc-nd/4.0/ ).
+[[p2]]
+bafﬂep a t h w a yf r o mt h eV S Dt ot h es e m i l u n a r
+valves, to identify any substrate for potential
+systemic out ﬂow tract obstruction post-
+repair, and to assess the adequacy of the right
+ventricle postrepair. We present 4 patients
+with complex intracardiac connections in
+whom transthoracic 3D-echo played an
+essential role in their surgical management
+and discuss our imaging protocol ( Table 1 ).
+The Baylor College of Medicine Institutional
+Review Board approved the conduction of
+the study.
+PATIENT 1
+A girl presented with levocardia, a double-outlet right
+ventricle (DORV), pulmonary atresia, aorta arising
+from the right ventricle, and perimembranous-outlet
+VSD. She underwent central shunt placement at
+5 days of age. At 9 months of age, she went for po-
+tential biventricular repair, but there was concern
+about her VSD becoming restrictive by 2D-echo based
+on its superior –inferior dimension ( Figure 1 ). We used
+a transthoracic 3D-echo probe in the operating room
+to generate biplane imaging and 3D rendering of the
+VSD en-face ( Figure 2 ). We demonstrated that the
+defect was elliptical and larger in the anterior –
+posterior than in the superior –inferior dimension,
+and a prominent infundibulum septum was present
+below the atretic pulmonary valve. The surgeon
+corroborated the 3D-echo ﬁndings and performed a
+VSD enlargement, baf ﬂe closure of the VSD to the
+aorta, and placement of a right ventricle to pulmo-
+nary artery conduit.
+PATIENT 2
+A boy presented with mesocardia, congenitally cor-
+rected transposition of the great arteries, pulmonary
+atresia, and a large remote muscular VSD. This pa-
+tient initially underwent stenting of the ductus arte-
+riosus. By transthoracic 2D-echo, the VSD was
+TABLE 1 Summary of Demographics, Relevant 2D-Echo a nd 3D-Echo Findings, and Surgical Outcomes
+Patient 1 Patient 2 Patient 3 Patient 4
+Age at time of the 3D-echo 9 mo 5 mo 2 d 3.5 y
+Sex Female Male Female Male
+Weight, kg 7.2 8.3 3.2 13.8
+Cardiac anatomy Levocardia, DORV, pulmonary
+atresia, aorta arising from
+the right ventricle, and
+perimembranous-outlet
+VSD
+Mesocardia, congenitally
+corrected transposition of
+the great arteries,
+pulmonary atresia, and
+remote muscular VSD
+Dextrocardia, mirror-image
+atrial arrangement,
+concordant
+atrioventricular
+connections, DORV, aorta
+to the left of the
+pulmonary trunk, remote
+muscular-inlet VSD
+Dextrocardia, usual atrial
+arrangement,
+concordant
+atrioventricular
+connections, superior –
+inferior ventricles,
+DORV, pulmonary
+atresia, aorta arising
+from the right ventricle,
+and outlet –inlet VSD
+Concerning 2D- echo
+ﬁndings
+VSD restriction based on
+superior-inferior
+dimension
+VSD size may be inadequate
+based on superior –inferior
+dimension and long
+distance to the aorta
+Unclear spatial relationship
+between AVVs and
+outﬂow tracts
+Unclear VSD size and spatial
+relationship with TV,
+concern for TV
+obstructing VSD
+Additive information
+obtained by 3D-echo
+En-face view of the VSD:
+PH?c??Z
+2) Prominent infundibulum
+septum superior to the
+VSD
+En-face view of the VSD from
+RV and LV sides:
+PH?c??Z
+2) Prominent infundibulum
+septum;
+3) AVVs away from VSD
+Base of the heart imaging:
+PH?r??
+the AVVs and out ﬂows
+tracts;
+2) Long path from the VSD
+to the pulmonary artery;
+3) Prominent subpulmonary
+infundibulum
+En-face view of the VSD
+from RV and LV sides:
+PH?h???
+VSD shrouded by the
+TV septal lea ﬂet;
+2) Unobstructed outlet
+portion of the VSD
+Surgical outcome Biventricular repair Biventricular repair Single-ventricle repair Single ventricle repair
+2D-echo ¼ 2-dimensional echocardiography; 3D-echo ¼ 3-dimensional echocardiography; AVVs ¼ atrioventricular valves; DORV ¼ double-outlet right ventricle; LV ¼ left ventricle; RV ¼ right ventricle;
+VSD ¼ ventricular septal defect.
+ABBREVIATIONS
+AND ACRONYMS
+2D-echo = 2-dimensional
+echocardiography
+3D-echo = 3-dimensional
+echocardiography
+CCT = cardiac computed
+tomography
+DORV = double-outlet right
+ventricle
+VSD = ventricular septal defect
+Sanchez Mejia et al JACC: CASE REPORTS, VOL. 30, NO. 6, 2025
+3D Echocardiography in Complex Intracardiac Connections and VSDs MARCH 19, 2025:102755
+2
+[[p3]]
+considered moderate. However, there was concern
+about possible systemic out ﬂow obstruction at the
+VSD level after the creation of the intraventricular
+bafﬂeb e c a u s eo ft h el o n gd i s t a n c ef r o mt h eV S Dt o
+the aorta ( Figure 3 ). We performed a transthoracic
+3D-echo at 5 months of age, which allowed us to
+visualize the VSD en-face from its right and left ven-
+tricular aspects ( Figure 4 ). We demonstrated that the
+VSD was large and elliptical-shaped, with its largest
+d i m e n s i o ni nt h ea n t e r i o r–posterior plane. The en-
+face views of the VSD reassured us that the
+tricuspid valve apparatus was away from the poten-
+tial baf ﬂep a t h( Video 1 ). A prominent muscular
+infundibulum formed the superior margin of the VSD,
+b u ti td i dn o ta p p e a rt oo b s t r u c tt h ep o t e n t i a lv e n -
+tricular baf ﬂe path. We determined that VSD
+enlargement was not required, which was relevant
+because the conduction ﬁbers run along the superior
+margin of the VSD in this anatomy, limiting the ability
+to enlarge the VSD. The patient also had cardiac
+computed tomography (CCT). Still, the visualization
+of the tricuspid valve and its relationship with the
+V S Dw a sf a rs u p e r i o rb yt r a n s t h o r a c i c3 D - e c h ot h a n
+by CCT ( Video 2 ). At 10 months of age, this patient
+went for possible anatomical repair vs the Glenn
+procedure. The surgeon corroborated the preopera-
+tive 3D-echo ﬁndings and performed an atrial switch,
+VSD closure to the aortic valve, and placement of a
+right ventricle to pulmonary artery conduit. The VSD
+was large and did not require enlargement.
+PATIENT 3
+A girl presented with dextrocardia, mirror-image
+atrial arrangement, concordant atrioventricular con-
+nections, DORV, aorta to the left of the pulmonary
+trunk, and remote muscular-inlet VSD. We used
+transthoracic 2D-echo subxiphoid sweeps to demon-
+strate the intracardiac c onnections. However, we
+could not de ﬁne the spatial relationship of the atrio-
+ventricular valves and the out ﬂow tracts because they
+were on different imaging planes. The tricuspid valve
+had chordal insertions to the right ventricular aspect
+of the VSD, but we could not exclude if it was
+obstructing the pathway from the VSD to the aorta.
+Alternatively, we noted a potential pathway from the
+VSD to the pulmonary artery without tricuspid valve
+interference, but it was dif ﬁcult to estimate the dis-
+tance ( Figures 5A to 5C , Video 3 ). We performed a
+transthoracic 3D-echo at 2 days of age to obtain im-
+ages of the base of the heart as visualized from the
+apex of the heart. We were able to visualize the
+atrioventricular valves and out ﬂow tracts in the same
+plane and understand their relationship ( Figure 5D ,
+Video 4 ). We con ﬁrmed that the anteroseptal
+commissure of the tricuspid valve was obstructing the
+path from the left ventricle to the aorta. We also
+noted that the potential pathway from the left
+ventricle to the pulmonary artery out ﬂow tract was
+long, and there was a signi ﬁcant subpulmonary
+infundibulum septum that would need to be resected
+to ensure unobstructed ﬂow. A CCT corroborated the
+pathway from the left ventricle to the pulmonary ar-
+tery and the presence of the subpulmonary infun-
+dibulum but could not demonstrate the relationship
+between the atrioventricular valves and out ﬂow
+tracts in the same imaging plane ( Figure 6 ). The pa-
+tient underwent main pulmonary artery banding at
+2 weeks of age and returned at 13 months for potential
+FIGURE 1 Double-Outlet Right Ventricle, Pulm onary Atresia, Aorta Arising From the
+Right Ventricle, and Large Perimembranous-Outlet VSD
+Transthoracic 2-dimensional echocardiography subxiphoid coronal image at the level of
+the ventricular septum demonstrates the superior –inferior dimension of the ventricular
+septal defect (VSD) (green line), with a measurement of 5.5 mm. The VSD size was
+concerning for potential obstruction of the left ventricle to aorta baf ﬂe pathway (red
+arrow). AO ¼ aorta; LV ¼ left ventricle; RV ¼ right ventricle.
+JACC: CASE REPORTS, VOL. 30, NO. 6, 2025 Sanchez Mejia et al
+MARCH 19, 2025:102755 3D Echocardiography in Complex Intracardiac Connections and VSDs
+3
+[[p4]]
+FIGURE 2 Double-Outlet Right Ventricle, Pu lmonary Atresia, Aorta Arising From the Right Ventricle, and Large
+Perimembranous-Outlet VSD
+(A and B) Transthoracic subxiphoid 3-dimensional echocardiography (3D-echo)-derived biplane imaging demonstrated that the ventricular
+septal defect (VSD) was elliptical and larger than previously determined by 2-dimensional echocardiography. The VSD is visualized in the
+coronal (A) and corresponding orthogonal plane (B). The VSD was larger in its anterior –posterior dimension (red line) than its superior –inferior
+dimension (green line). (C) Rendered 3D-echo image of the ventricular septum from the right ventricular side demonstrates that the VSD is
+elliptical. The continuous red line marks the boundary of the VSD en-face. The yellow arrow indicates the aortic valve, and the blue arrow
+points to the prominent infundibulum septum superior to the defect. AO ¼ aortic valve; Dist ¼ distance; IS ¼ infundibulum septum.
+Abbreviations as in Figure 1 .
+Sanchez Mejia et al JACC: CASE REPORTS, VOL. 30, NO. 6, 2025
+3D Echocardiography in Complex Intracardiac Connections and VSDs MARCH 19, 2025:102755
+4
+[[p5]]
+biventricular repair (baf ﬂe of the left ventricle to the
+pulmonary artery out ﬂow tract and arterial switch
+operation) vs the Glenn operation. The surgeon
+identi ﬁed a large, mainly inlet VSD with muscular
+extension during intracard iac exploration through
+the tricuspid valve. Although a baf ﬂe could be fash-
+ioned from the left ventricle to the pulmonary artery
+without disrupting the tricuspid valve, the long dis-
+tance and the subpulmonary infundibulum were
+concerning for potential obstruction and signi ﬁcant
+reduction of the right ventricular size. Therefore, the
+surgeon performed a bidirectional Glenn operation.
+PATIENT 4
+A boy presented with dextrocardia, usual atrial
+arrangement, concordant atrioventricular connec-
+tions, superior –inferior ventricles, DORV, pulmonary
+atresia, aorta arising from the right ventricle, and
+large-outlet VSD with inlet extension. This patient
+initially underwent stenti ng of the ductus arteriosus.
+By transthoracic 2D-echo, it was dif ﬁcult to de ﬁne the
+extent of the VSD and the spatial relationship with
+???????????????Ms???????????????????
+because the tricuspid valve apparatus appeared to
+traverse the VSD ( Figures 7A and 7B ). We performed a
+transthoracic 3D-echo at 3.5 years of age to assess the
+relationship between the VSD and the tricuspid valve
+for surgical planning. We obtained en-face views of
+the VSD from its right and left ventricular aspects. We
+noted that the septal lea ﬂet of the tricuspid valve
+shrouded the inlet portion of the VSD. However, the
+outlet portion of the VSD was unobstructed with the
+potential to be baf ﬂed to the aorta using a double-
+patch technique while avoiding the tricuspid valve
+(Figures 7C and 7D , Video 5 ). An additional CCT ob-
+tained did not de ﬁn et h et r i c u s p i dv a l v el e aﬂet rela-
+tionship with the VSD ( Figure 8 ). He presented for
+surgery at 4 years of age. The surgeon con ﬁrmed the
+anatomy of the VSD as described by 3D-echo. How-
+ever, the surgeon abandoned b i v e n t r i c u l a rr e p a i ra n d
+p e r f o r m e dc o m b i n e dG l e n na n dF o n t a np r o c e d u r e s
+because of the high likelihood of injury to the
+tricuspid valve when fashioning the left ventricle to
+the aorta baf ﬂe.
+DISCUSSION
+Unlike 2D-echo, 3D-echo accurately demonstrates
+the VSD shape and size in superior –inferior and
+anterior –posterior dimensions. In addition, 3D-echo
+identi ﬁes anatomical features leading to potential
+intraventricular baf ﬂe obstruction, including
+tricuspid valve apparatus traversing the proposed
+intraventricular baf ﬂe, prominent infundibular
+septum, and long distance from the VSD to the
+semilunar valve. We found an excellent correlation
+between the 3D-echo ﬁndings, CCT, and surgical
+inspection.
+Biventricular repair of complex heart defects such
+as DORV or congenitally corrected transposition of
+the great arteries with VSD involves closure of the
+VSD by routing the blood ﬂow from the left
+ventricle to the aorta or neoaorta. This procedure
+may involve VSD enlargement and resection of
+subvalvar out ﬂow tract obstruction.
+1 In addition to
+FIGURE 3 Congenitally Corrected Transpositio n of the Great Arteries With Pulmonary
+Atresia and Remote Muscular VSD
+Transthoracic 2-dimensional echocardiography subxiphoid coronal view shows the
+superior–inferior dimension of the ventricular septal defect (VSD) (green line). The red
+line marks the long baf ﬂe pathway from the VSD to the aorta. Although the VSD appeared
+to be moderate in size, there was a concern for possible obstruction after the creation of
+the intraventricular baf ﬂe because of the long distance from the VSD to the aorta.
+MV ¼ mitral valve; TV ¼ tricuspid valve. Abbreviations as in Figure 1 .
+JACC: CASE REPORTS, VOL. 30, NO. 6, 2025 Sanchez Mejia et al
+MARCH 19, 2025:102755 3D Echocardiography in Complex Intracardiac Connections and VSDs
+5
+[[p6]]
+the ventricular baf ﬂe, some patients require an
+atrial switch procedure, arterial switch procedure,
+right ventricle to pulmon ary artery conduit place-
+ment, or a combination thereof. It is critical to
+v i s u a l i z et h ed i s t a n c ef r o mt h eV S Dt ot h ea o r t ao r
+neoaorta because the longer the tunnel, the greater
+the risk of subaortic obstruction.
+2 Understanding
+t h es i z ea n ds h a p eo ft h eV S Da n di t ss p a t i a lr e -
+lationships to the out ﬂow tracts by 2D-echo can be
+challenging in patients with complex heart defects.
+Furthermore, the transfer of the information gained
+by the echocardiographer to other team members is
+not intuitive. Using 3D-echo adds the depth
+dimension that allows the projection of atrioven-
+tricular valves, out ﬂow tracts, and VSD in a single
+image, improving underst anding and sharing of the
+anatomical ﬁndings.
+3,4 We can generate unconven-
+tional imaging planes to visualize the VSD and the
+potential baf ﬂe pathway en-face, which are impos-
+sible to obtain with 2D-echo.
+Other imaging modalities like CCT and cardiac
+magnetic resonance imaging can be used to create
+3D-printed heart models. These models delineate the
+anatomical relationships of the VSD and out ﬂow
+FIGURE 4 Congenitally Corrected Tran sposition of the Great Arteries With Pul monary Atresia and Remote Muscular VSD
+Transthoracic 3-dimensional echocardiography (3D-echo) multiplanar reformatted image obtained from subxiphoid coronal views demon-
+strating the anatomical relationship between the ventricular septal defect (VSD), tricuspid valve (TV), and aortic out ﬂow tract (red dot).
+(A) Base coronal view obtained in this patient showing the pathway from the morphologic left ventricle (LV) to the aorta (yellow arrow).
+(B) A 60
+/C14 view of the ventricular septum shows the infundibulum septum forming the superior border of the VSD (blue arrow) and the TV
+apparatus (yellow dot) below and away from the VSD. (C) A 120 /C14 image of the ventricular septum as visualized from the LV. There is no
+mitral valve tissue crossing the VSD. (D) Rendered 3D-echo en-face view of the ventricular septum from the right side, showing a large
+elliptical VSD and the TV apparatus (yellow dot) away from the potential baf ﬂe path from the VSD to the aorta (red dot). Based on 3D-echo,
+we determined that VSD enlargement was not required. This was relevant because the conduction ﬁbers would be running along the superior
+margin of the VSD in this anatomy, limiting the ability to enlarge the VSD without causing complete heart block. Abbreviations as in
+Figures 1 and 2 .
+Sanchez Mejia et al JACC: CASE REPORTS, VOL. 30, NO. 6, 2025
+3D Echocardiography in Complex Intracardiac Connections and VSDs MARCH 19, 2025:102755
+6
+[[p7]]
+FIGURE 5 Dextrocardia, Mirror-Image Atrial Arrangement, Concordant Atrioventricular Connections, Double-Outlet Right Ventricle,
+Aorta to the Left of the Pulmonary Artery, and Remote Muscular-Inlet VSD
+(A) Transthoracic 2-dimensional echocardiography (2D-echo) subxiphoid coronal view showing the left-sided morphologic right atrium,
+tricuspid valve (TV) apparatus with chordal insertion to the rightward aspect of the ventricular septum (yellow arrow), and the large
+muscular-inlet ventricular septal defect VSD (red arrow). (B) Transthoracic 2D-echo subxiphoid coronal view showing parallel out ﬂow tracts
+arising from the morphologic right ventricle (RV). The aorta is to the left of the pulmonary trunk. The out ﬂow tracts are separated by the
+infundibulum septum (red asterisk). The VSD is not seen in this plane. (C) Transthoracic 2D-echo subxiphoid sagittal view showing the
+potential ventricular baf ﬂe pathway from the left ventricle (LV) to the pulmonary artery (red arrow), which appears to be unobstructed. The
+TV and the aorta are not visualized in this plane. Although 2D-echo demonstrated the intracardiac connections, we could not simultaneously
+visualize the spatial relationship of the atrioventricular valves and out ﬂow tracts in the same plane. (D) Transthoracic rendered 3-dimensional
+echocardiography image of the base of the heart as visualized from the apex obtained from a 4-chamber apical view. The ventricles are not
+seen in this image; however, the LV is under the mitral valve, and the RV is under the TV. The image was cropped at the level of the
+atrioventricular valves and captured the entrances to the pulmonary and aortic out ﬂow tracts (AO). The blue arrow shows the pathway from
+the LV to the AO with the anteroseptal commissure of the TV (yellow asterisk) in the pathway. Therefore, an intraventricular baf ﬂe from the
+LV to the AO cannot be performed without disrupting the TV. The blue arrow signals the long pathway from the LV to the pulmonary artery
+outﬂow tract, with the curved yellow line indicating the location of the subpulmonary infundibulum, which would need to be resected to
+create an unobstructed intraventricular tunnel. PO ¼ pulmonary out ﬂow tract; RA ¼ right atrium.
+JACC: CASE REPORTS, VOL. 30, NO. 6, 2025 Sanchez Mejia et al
+MARCH 19, 2025:102755 3D Echocardiography in Complex Intracardiac Connections and VSDs
+7
+[[p8]]
+tracts, but the temporal and spatial resolution re-
+mains suboptimal for visualization of the tricuspid
+valve apparatus.
+5,6 Tricuspid valve features of
+importance when determining feasibility for biven-
+tricular repair include straddling chordae and lea ﬂet
+tissue in the path of the potential baf ﬂe. In contrast to
+CCT and cardiac magnetic resonance imaging,
+3D-echo can be performed at the bedside by the
+cardiologist in the presence of the cardiac surgeon to
+answer speci ﬁc questions pertinent to the surgical
+repair, as highlighted in patient 1. In addition, 3D-
+echo has the bene ﬁts of not requiring radiation,
+providing a dynamic assessment of the cardiac
+structures throughout the cardiac cycle, and requiring
+a short processing time.
+Transthoracic 3D-echo has technical limitations in
+small infants and children because their high heart
+rates impact temporal resolution. Imagers should use
+the highest-frequency transthoracic 3D-echo trans-
+ducer available, narrow the sector width to include
+only the region of interest, and optimize the gain
+settings to avoid imaging artifacts and improve res-
+olution.
+4 Small infants or children frequently need to
+be sedated to prevent the 3D-echo “stitching ” artifact
+related to movement or breathing. Arranging the 3D-
+echo with other procedures under anesthesia or even
+as part of the preoperative assessment in the oper-
+ating room can minimize extra sedation to the pa-
+tient. In addition, because of the variable nature of
+complex congenital heart disease, the interpretation
+of 3D-echo imaging requires expertise to ensure ac-
+curacy. It is typical in our center for imagers to
+collaborate with each other and involve the surgeons
+when interpreting the ﬁndings, particularly when
+making surgical decisions.
+Our 3D-echo imaging protocol for complex intra-
+cardiac connections includes biplane imaging and
+full-volume multibeat acquisitions of the heart from
+the subxiphoid short-axis and apical views. We use
+biplane imaging to visualize the ventricular septum in
+2 orthogonal planes and generate an en-face view of
+the VSD ( Figures 2A and 2B ) .W ec a nt h e na s s e s st h e
+shape and dimensions of the defect in the superior –
+inferior and anterior –posterior directions. We post-
+process the full-volume multibeat acquisitions to
+render right ventricle view so ft h ev e n t r i c u l a rs e p t u m
+to visualize the VSD en-face, for shape and location,
+and to determine if there is any potential for
+obstruction of the baf ﬂe path from the VSD to the
+aorta ( Figure 2C , Video 1 ); multiplanar reformatted
+images to assess the VSD shape, dimensions, location,
+and its spatial relationships with other structures
+from multiple planes simultaneously ( Figure 4 ); views
+of the cardiac base as visualized from the apex to
+show the relationship of the atrioventricular valves,
+VSD, and out ﬂow tracts ( Figure 5D ); and left ventricle
+views of the ventricular septum to complement our
+evaluation of the VSD location, particularly to deter-
+mine if there is inlet extension to the VSD ( Figure 7C ,
+Video 5 ).
+CONCLUSIONS
+The surgical decision-making in patients with com-
+plex intracardiac connections, VSD, and 2 adequately
+FIGURE 6 Dextrocardia, Mirror-Image Atrial Arrangement, Concordant
+Atrioventricular Connections, Double-Out let Right Ventricle, Aorta to the Left of
+the Pulmonary Artery, and Remote Muscular-Inlet Ventricular Septal Defect
+Coronal cardiac computed tomography image demonstrating the potential ventricular
+bafﬂe pathway from the left ventricle to the pulmonary artery (red arrow) and the
+presence of a prominent subpulmonary infundibulum septum (red asterisk), but the
+atrioventricular valves are not visualized. PA ¼ pulmonary artery. Abbreviations as in
+Figure 1 .
+Sanchez Mejia et al JACC: CASE REPORTS, VOL. 30, NO. 6, 2025
+3D Echocardiography in Complex Intracardiac Connections and VSDs MARCH 19, 2025:102755
+8
+[[p9]]
+FIGURE 7 Dextrocardia, Double-Outlet Rig ht Ventricle, Pulmonary Atresia, Aorta Arising From the Right Ventricle, and Outlet VSD With
+Inlet Extension
+(A and B) Transthoracic 2-dimensional echocardiography (2D-echo) subxiphoid coronal sweep with some imaging planes indicating that the
+ventricular septal defect (VSD) was clear of tricuspid valve (TV) apparatus (A), whereas in others the TV is clearly traversing the VSD (B). It is
+difﬁcult to understand the extent of the VSD and the exact relationship to the TV. (C and D) Rendered transthoracic 3-dimensional echo-
+cardiography images obtained from the same window as the previous 2D-echo images clearly depict the extent of the VSD and its spatial
+relationship with the TV. (C) Perspective of the ventricular septum from the left ventricular side. The continuous red line depicts the
+boundary of the VSD. The yellow arrow points to the aortic valve seen through the VSD. The inlet component of the VSD is shrouded by the TV
+septal lea ﬂet (black arrow), but the outlet portion of the VSD is unobstructed. (D) Perspective of the ventricular septum from the right
+ventricular side. The yellow arrow points to the aortic valve. The TV (black arrow) obscures the inlet component of the VSD. The red arrow
+points to the unobstructed outlet portion of the VSD. The only way to baf ﬂe the VSD to the aorta would be to use a double-patch technique
+where the inlet portion would be patched and the outlet portion of the VSD would be baf ﬂed to the aorta by a separate patch. Abbreviations
+as in Figure 1 .
+JACC: CASE REPORTS, VOL. 30, NO. 6, 2025 Sanchez Mejia et al
+MARCH 19, 2025:102755 3D Echocardiography in Complex Intracardiac Connections and VSDs
+9
+[[p10]]
+sized ventricles is challenging. Multimodality cardiac
+imaging is bene ﬁcial in determining the suitability of
+biventricular repair. Th e complementary use of
+transthoracic 3D-echo provides alternative views to
+understand the VSD anatomy and its spatial rela-
+tionship with the adjacent cardiac structures and to
+identify substrates for obstruction to the potential
+intraventricular baf ﬂe.
+FUNDING SUPPORT AND AUTHOR DISCLOSURES
+The authors have reported that they have no relationships relevant to
+the contents of this paper to disclose.
+ADDRESS FOR CORRESPONDENCE: Dr Aura Andrea
+Sanchez Mejia, Baylor College of Medicine, 6651 Main
+Street, Suite E1920, Houston, Texas 77030 USA.
+E-mail: aura.sanchezmejia@bcm.edu .
+FIGURE 8 Dextrocardia, Double-Out let Right Ventricle, Pulmonary Atresia, Aorta
+Arising From the Right Ventricle, and Outlet Ventricular Septal Defect With Inlet
+Extension
+Coronal cardiac computed tomography image demonstrating the potential ventricular
+bafﬂe path from the left ventricle to the aorta (red arrow); however, it does not show
+the tricuspid valve apparatus partially obstructing this path. Abbreviations as in Figure 1.
+REFERENCES
+PM?kLf?eM?a???
+outlet right ventricle with noncommitted ventric-
+ular septal defect. Pediatr Card Surg Annu. 2002;5:
+163–172.
+2. Li S, Ma K, Hu S, et al. Biventricular repair for
+double outlet right ventricle with noncommitted
+ventricular septal defect. Eur J Cardiothorac Surg .
+2015;48:580–587.
+3. Pushparajah K, Barlow A, Tran VH, et al.
+A systematic three-dimensional echocardiographic
+approach to assist surgical planning in double
+outlet right ventricle. Echocardiography. 2013;30:
+234–238.
+4. Simpson J, Lopez L, Acar P, et al. Three-
+dimensional echocardiography in congenital
+heart disease: an expert consensus document
+from the European Association of Cardiovas-
+cular Imaging and the American Society of
+Echocardiography. J Am Soc Echocardiogr .
+2017;30:1 –27.
+5. Garekar S, Bharati A, Chokhandre M, et al.
+Clinical application and multidisciplinary assess-
+ment of three dimensional printing in double
+outlet right ventricle with remote ventricular
+septal defect. World J Pediatr Congenit Heart Surg .
+2016;7:344–350.
+6. Brüning J, Kramer P, Goubergrits L, et al. 3D
+modeling and printing for complex biventricular
+repair of double outlet right ventricle. Front
+Cardiovasc Med . 2022;9:1 –14.
+KEY WORDS 3-dimensional imaging,
+congenital heart defect, double-outlet right
+ventricle, echocardiography, ventricular
+septal defect
+APPENDIX For supplemental videos,
+please see the online version of this paper.
+Sanchez Mejia et al JACC: CASE REPORTS, VOL. 30, NO. 6, 2025
+3D Echocardiography in Complex Intracardiac Connections and VSDs MARCH 19, 2025:102755
+10

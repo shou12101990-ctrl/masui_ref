@@ -1,0 +1,774 @@
+
+[[p1]]
+Academic Editor: Ramdas G. Pai
+Received: 27 March 2026
+Revised: 24 April 2026
+Accepted: 1 May 2026
+Published: 6 May 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Review
+Functionally Single-Ventricle Complications After Fontan
+Palliation—A Narrative Review
+Małgorzata Kowalczyk * and Mirosław Kowalski
+Department of Adult Congenital Heart Disease, National Institute of Cardiology in Warsaw,
+04-628 Warsaw, Poland
+* Correspondence: mkowalczyk1@ikard.pl; Tel.: +48-22-3434400
+Abstract
+Functionally single-ventricle (FSV) defects are complex congenital heart anomalies that
+require Fontan palliation, a surgical procedure redirecting systemic venous blood directly to
+the pulmonary arteries, bypassing the heart. Despite improvements in surgical techniques
+and perioperative care leading to enhanced survival rates, patients remain vulnerable to
+significant long-term complications, due to the unique Fontan circulation physiology. This
+circulation relies on low pulmonary vascular resistance and preserved single-ventricle func-
+tion but predisposes patients to venous congestion and reduced cardiac output, resulting in
+multi-organ dysfunction. Key cardiovascular complications include systolic and diastolic
+dysfunction of the single ventricle, atrioventricular valve regurgitation, arrhythmias, pul-
+monary vascular disease, and thromboembolic events. Systemic complications encompass
+Fontan-associated liver disease (FALD), protein-losing enteropathy (PLE), plastic bronchi-
+tis (PB), renal impairment, and endocrine and psychosocial burdens. All the problems
+induce frequent hospitalizations, psychological challenges, and impaired educational and
+employment opportunities. Comprehensive management requires multidisciplinary ap-
+proaches addressing the complex interplay of hemodynamic, organ-specific problems, and
+psychosocial factors inherent to Fontan physiology.
+Keywords: Fontan circulation; functionally single ventricle; long-term complications of
+Fontan palliation
+PM?h
+Functionally single-ventricle defects are a group of congenital heart defects that are
+not amenable for biventricular repair due to abnormal anatomy of one of the ventricles [1].
+Defects classified as single-ventricle include mainly tricuspid atresia (TA), right heart
+hypoplasia syndrome, including pulmonary valve atresia with an atrioventricular septal
+defect, Hypoplastic Left Heart Syndrome (HLHS), double-inlet right ventricle, double-
+inlet left ventricle (DILV), unbalanced atrioventricular canal (AVC) and morphologically
+undifferentiated, functionally single ventricle [2].
+A common feature of various morphologically different FSV-type heart defects is the
+surgical treatment approach, which involves creating a shunt between the venous flow
+and the pulmonary arteries, bypassing the functionally single ventricle, regardless of its
+morphology [3]. Patients disqualified from Fontan palliation or refusing surgery have a
+poor prognosis [4].
+In 1968, Francis Fontan from Bordeaux performed remarkable surgery on patients
+with tricuspid atresia [5]. He created a connection between the right atrium and pulmonary
+J. Clin. Med. 2026, 15, 3538 https://doi.org/10.3390/jcm15093538
+[[p2]]
+J. Clin. Med. 2026, 15, 3538 2 of 18
+artery in a patient with a previously performed Glenn connection. The systemic venous
+return in Fontan circulation goes directly to the pulmonary circulation, bypassing the heart.
+In the following years, many surgeons improved the Fontan technique. In 1987, Deleval
+proposed a modification with an intra-atrial tunnel with a right atrial posterior wall that
+directed venous flow to the pulmonary artery [ 6]. In 1990, Mareceletti and colleagues
+reported the use of an extracardiac tunnel, with inferior vena cava flow directed to the
+pulmonary artery via an external conduit (TCPC—Total cavopulmonary connection) [7].
+Improving surgical techniques and peri-operative care resulted in very good outcomes in
+short-term morbidity and mortality [8,9]. Long-term outcomes are also improving. A 2015
+study found 10-, 20-, and 30-year survival rates are 74%, 61%, and 43%, respectively [10].
+However, patients are prone to severe complications, which are due to the palliative
+character of the surgery and the pathophysiology of created circulation.
+2. Methodology
+This narrative review synthesizes anatomical, physiological, surgical, and failure-
+management aspects of the Fontan circulation using a purposive, topic-driven selection of
+key historical reports, guideline documents and contemporary interventional and pharma-
+cological series. The data derives from long-term outcomes and heart failure phenotype
+studies of Fontan circulation in pediatric and adult cohorts, guidelines and consensus
+documents on adult congenital heart disease and practical management principles, and
+research on targeted treatment and rescue strategies in Fontan patients. Articles were
+identified from reference lists of key reviews and guidelines, and by targeted searches
+around predefined themes.
+3. Pathophysiology of Fontan Circulation
+The direct connection between the venous system and the pulmonary arteries means
+that blood flow from the systemic veins to the pulmonary capillaries functions in a portal-
+circulation-like manner (Figure 1).
+e?PM?e??M
+https://doi.org/10.3390/jcm15093538
+[[p3]]
+J. Clin. Med. 2026, 15, 3538 3 of 18
+The factors determining the efficiency of Fontan circulation are low pulmonary vascu-
+lar resistance, preserved systolic and diastolic function of the functionally single ventricle,
+normal systemic vascular resistance, and unobstructed venous return. The effectiveness of
+venous return bypassing the heart depends on the pressure gradient between the venous
+system and the pressure in the pulmonary capillaries [ 11]. The adverse hemodynamic
+consequences of Fontan circulation include venous congestion and reduced output of
+the functionally single ventricle [12]. Their consequences may include failure of multiple
+organs and systems: liver disease secondary to failing Fontan circulation (FALD—Fontan-
+associated liver disease), chronic kidney disease (CKD), protein-losing enteropathy (PLE),
+plastic bronchitis (PB), and others.
+Fontan Failure Phenotypes
+Fontan circulatory failure may manifest through several distinct pathways, depending
+on the underlying etiology (Figure 2). Four clinical phenotypes have been described:
+failure predominantly related to systolic dysfunction (group 1), to diastolic dysfunction
+(group 2), failure despite apparently normal hemodynamics (group 3), and failure primarily
+attributable to lymphatic abnormalities (group 4) [13].
+ 
+ 
+ 
+ 
+ 
+Figure 2. Fontan circulation failure phenotypes. FALD—Fontan-associated liver disease; PB—plastic
+bronchitis; PLE—protein-losing enteropathy; RV—right ventricle; SCD—sudden cardiac death.
+The prognosis in Fontan failure depends on cardiac output, pressure in Fontan connec-
+tion, and pulmonary artery wedge pressure [14]. An overall assessment of patients with
+suspected Fontan failure should include cardio-pulmonary and systemic complications.
+The main Fontan complications are presented in Figure 3.
+https://doi.org/10.3390/jcm15093538
+[[p4]]
+J. Clin. Med. 2026, 15, 3538 4 of 18
+Figure 3. Fontan circulation complications. CKD—chronic kidney disease; FALD—Fontan-associated
+liver disease; PB—plastic bronchitis; PLE—protein-losing enteropathy.
+4. Cardiovascular and Pulmonary Complications
+4.1. Single Ventricle Systolic and Diastolic Dysfunction
+Remodeling of the functional single ventricle is a key contributor to systolic dysfunc-
+tion. At the molecular level, univentricular heart development is associated with altered
+expression of genes involved in myocardial contractility, including downregulation of genes
+encoding contractile proteins and calcium-handling/adrenergic signaling components (e.g.,
+α-myosin heavy chain, sarcoplasmic reticulum Ca2+-ATPase [SERCA], and β-adrenergic
+receptors) [15,16].
+Additional FSV cavity remodeling results from chronic volume overload. Following
+a systemic-to-pulmonary shunt, FSV preload may increase to approximately 250–350%
+of the expected value for a left ventricle [17]. This increased preload promotes eccentric
+hypertrophy, progressive dilation, and spherical remodeling. In contrast, the bidirectional
+Glenn procedure and subsequent Fontan completion reduce preload (reported as ~80%
+of normal value for body size), thereby favoring concentric hypertrophy [ 18]. A further
+reduction in preload secondary to elevated pulmonary vascular resistance is associated
+with decreased ventricular compliance and increased filling pressures. Moreover, myocar-
+dial architectural remodeling and geometric distortion of the FSV contribute to impaired
+ventricular contraction [19].
+Ventricular interdependence represents an additional determinant of systolic per-
+formance, as ventricular contractility depends on interactions between the right and
+left ventricles. Ventricular hypoplasia may reduce the efficiency of the dominant ven-
+tricle [20]. Myocardial perfusion abnormalities also appear to contribute to functional
+deterioration [21]. Before the Fontan procedure, reduced arterial oxygen saturation may
+limit oxygen delivery to the subendocardium of the single ventricle [ 22]. After creating
+a total cavopulmonary connection (TCPC), a reduction in aortic diastolic pressure—and,
+consequently, coronary perfusion—has been observed [23]. Studies in complex congenital
+heart disease populations indicate that right ventricular hypertrophy secondary to systemic
+pressure loading can impair myocardial perfusion [ 24–26]. Ischemia may occur in the
+hypertrophied ventricle because of increased metabolic demand (e.g., during exercise),
+analogous to perfusion–demand mismatch in hypertrophic cardiomyopathy or severe aor-
+tic stenosis. Coronary fistulas, which may reduce effective myocardial oxygen delivery, are
+https://doi.org/10.3390/jcm15093538
+[[p5]]
+J. Clin. Med. 2026, 15, 3538 5 of 18
+reported more frequently in patients with an FSV [27]. Collectively, these factors—present
+in adult patients after Fontan completion and accumulating over time—may promote
+single-ventricle systolic dysfunction and thereby contribute substantially to heart failure in
+the Fontan circulation (Figure 4).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4. Transthoracic echocardiography, modified four-chamber view, STE technique. Reduced
+GLS of a dilated, remodeled FSV in a patient with HLHS. HLHS—hypoplastic left heart syndrome;
+GLS—global longitudinal strain; STE—speckle tracking echocardiography.
+The Fontan procedure is also predisposed to diastolic dysfunction through concentric
+myocardial remodeling [28]. Age-related progression of ventricular structural changes,
+increased wall stiffness, and a higher proportion of connective tissue are the main con-
+tributors to diastolic dysfunction of the FSV . Similar mechanisms (including suboptimal
+myocyte stretch) have been implicated in heart failure with preserved ejection fraction in
+older individuals with anatomically normal hearts. The concept of “accelerated aging” of
+the FSV has been supported by findings reported by Oner et al. [29]. In their study, an FSV
+ejection fraction <50% was observed in 8% of children during 10 years of follow-up after
+the Fontan procedure.
+4.2. Atrioventricular Valve Dysfunction
+Atrioventricular valve regurgitation (AVVR) is a common complication in patients
+with Fontan circulation, leading to increased pulmonary wedge pressure and systemic ve-
+nous congestion (Figure 5). Large regurgitant volume decreases cardiac output, activating
+the sympathetic nervous system and augmenting vascular resistance. In long-term obser-
+vation, AVVR increases the risk of heart failure and arrhythmia, as well as systemic organ
+dysfunction, and early mortality [30]. AVVR can be caused by structural and functional
+abnormalities in the valve apparatus and ventricular dysfunction. Patients with FSV of
+right-ventricular morphology and those with an atrioventricular septal defect (AVSD) have
+https://doi.org/10.3390/jcm15093538
+[[p6]]
+J. Clin. Med. 2026, 15, 3538 6 of 18
+the highest risk of developing AVVR and gradual decline [31]. However, regardless of valve
+morphology (mitral vs. tricuspid vs. common valve), AVVR is progressive, and linked to
+poor outcomes. Precise diagnostics should always include various imaging techniques.
+Transthoracic 2D and 3D echocardiography remains the first-line modality, but followed by
+transesophageal echocardiography (TEE), cardiac magnetic resonance (CMR), and cardiac
+catheterization, if needed. Surgical treatment of AVVR is rarely performed, due to high
+risk and uncertain prognosis after the operation. Surgical valve repair is preferred to valve
+replacement, unless there is severe valve dysplasia. Unfortunately, surgical treatment does
+not guarantee a favorable prognosis. Patients with single-ventricle right morphology and a
+history of tricuspid operation have an 8-year cumulative incidence of death or transplan-
+tation of 40% [32]. Patients with ventricular dysfunction, protein-losing enteropathy, and
+other secondary complications, are at the highest risk of poor outcomes [33].
+ 
+ 
+ 
+ 
+ 
+Figure 5. Transthoracic echocardiography, modified 4-chamber view, color Doppler technique.
+Moderate mitral regurgitation in a patient with tricuspid atresia.
+4.3. Arrhythmia
+Atrial arrhythmia is a common complication after a Fontan procedure, with prevalence
+varying by study and surgical technique, in approximately 15% to 60% of patients [32]. The
+incidence is higher in patients with atriopulmonary Fontan connection compared to lateral
+or extracardiac tunnel [33]. The core causes of arrhythmia incidence are chronically elevated
+intra-atrial pressure and intracardiac scars after surgical treatment [34]. Most common atrial
+tachyarrhythmias in patients with Fontan palliation are intra-atrial re-entrant tachycardia
+(IART), focal atrial tachycardia, and atrial fibrillation (AF) (Figure 5). Atrial fibrillation is
+becoming increasingly common in adult patients with Fontan palliation, due to the higher
+lifespan of Fontan patients [32].
+Ventricular arrhythmias (VAs) in patients with a Fontan circulation are less frequent
+(approximately 11% of patients), but associated with a higher risk of death or heart
+transplant [35]. Non-sustained ventricular arrhythmias are typically discovered during
+https://doi.org/10.3390/jcm15093538
+[[p7]]
+J. Clin. Med. 2026, 15, 3538 7 of 18
+rhythm monitoring diagnostics. Risk factors of VA include older age at the time of the
+Fontan procedure and a history of right ventricular-to-pulmonary artery conduit. Treat-
+ment can be challenging, due to complex anatomy. Pharmacological treatment is limited,
+as it is often ineffective or has serious side effects. Rapid hemodynamic decline during
+arrhythmia requires urgent cardioversion. Despite complex anatomy, catheter ablation
+should be considered. In selected patients, the implantation of a defibrillator (ICD) is
+required. A new onset of arrhythmia or decline of a recurrent one should always prompt
+overall evaluation of the circulatory hemodynamics (Figure 6).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6. Showing 48 h Holter ECG monitoring. Short atrial tachycardia episode in a patient shortly
+after ischemic stroke.
+4.4. Pulmonary Vascular Disease
+The direct dependence of pulmonary vascular resistance on single-ventricle cardiac
+output has been confirmed in invasive studies [ 36]. Abnormalities in the embryonic
+development of the pulmonary vasculature in patients with single-ventricle physiology
+are thought to determine abnormal structure and function of the pulmonary arteries after
+birth [37]. The nature of blood flow is also a factor leading to loss of autoregulatory capacity
+of the pulmonary vascular bed and abnormal vascular tissue architecture. Pulsatile flow
+through the pulmonary arteries regulates endothelial function, maintains the balance of
+vasoactive mediator release, influences smooth-muscle remodeling, and promotes uniform
+recruitment of pulmonary arterioles [38,39]. After completion of the Fontan connection, the
+protective effects of pulsatile flow on the pulmonary vasculature are absent, having been
+replaced by an unfavorable continuous flow pattern [40].
+Collectively, these factors contribute to a distinct pattern of adverse pulmonary vascu-
+lar remodeling in patients with long-standing Fontan circulation [41]. The histopathologic
+changes include eccentric intimal thickening characterized predominantly by acellular
+fibrosis with collagen deposition [42]. These alterations are associated with reduced pul-
+monary blood flow and the consequent limitation of cardiac output. Accordingly, the
+https://doi.org/10.3390/jcm15093538
+[[p8]]
+J. Clin. Med. 2026, 15, 3538 8 of 18
+pulmonary vasculature has become a therapeutic target for pharmacologic vasodilation
+strategies [43].
+4.5. Thromboembolic Complications
+After Fontan palliation, patients have an increased risk of thromboembolism (TE) [36].
+All elements of Virchow’s triad are present in Fontan circulation: abnormal non-laminal
+blood flow, vascular wall injury, and hypercoagulability [44].
+Other factors contributing to this elevated risk include the presence of prosthetic
+materials and arrhythmias [37]. The most severe clinical manifestations of TE are pulmonary
+embolism and stroke. Thrombus formation occurs mostly in the “right side” of circulation,
+presenting as venous thrombosis, intra-atrial or Fontan tunnel thrombi, or pulmonary
+embolism [45] (Figures 7 and 8).
+ 
+ 
+Figure 7. Transthoracic echocardiography modified 4-chamber view, 2D technique. A thrombus and
+spontaneous echo contrast in the atrium in a patient with atriopulmonary connection.
+In patients without a subpulmonary pump, pulmonary embolism obstructs the pul-
+monary vasculature—a primary regulator of cardiac output. Stroke is less common than
+pulmonary embolism, though recent studies have proved it is often clinically silent and
+underdiagnosed [46]. Asymptomatic strokes were diagnosed in 39% patients in cerebral
+magnetic resonance imaging. Both pulmonary embolism and stroke are associated with
+substantial mortality and morbidity, underscoring the critical importance of thrombopro-
+phylaxis. The serious complications associated with TE have led to the recommendation
+that anticoagulation therapy should be initiated earlier than in the general population.
+Thromboprophylaxis is indicated mostly in secondary prevention, in patients with a history
+of TE [2]. However, there is currently no clinical consensus on primary prevention nor the
+use of non-vitamin K oral anticoagulants.
+https://doi.org/10.3390/jcm15093538
+[[p9]]
+J. Clin. Med. 2026, 15, 3538 9 of 18
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8. Cardiac magnetic resonance imaging, coronal plane. A large thrombus in the right atrium
+in a patient with FSV and atrio-pulmonary connection.
+5. Systemic Complications
+5.1. Fontan-Associated Liver Disease
+Fontan-associated liver disease (FALD) represents a major systemic complication in
+patients who have undergone the Fontan procedure, with a prevalence exceeding 50% in
+this population [47]. The pathophysiology of FALD is primarily driven by chronic hepatic
+venous congestion and persistently elevated central venous pressure, which together in-
+duce progressive liver injury characterized by fibrosis and cirrhosis [48]. Over time, these
+pathological changes significantly elevate the risk of hepatocellular carcinoma, necessitat-
+ing vigilant long-term surveillance [49]. Clinically, FALD may remain asymptomatic for
+extended periods, complicating timely diagnosis and management. When symptoms do
+manifest, they often include severe complications such as ascites, variceal bleeding, and
+hepatic encephalopathy [50] (Figure 9). Accurate diagnosis requires a multimodal approach
+combining thorough clinical examination with laboratory tests assessing liver function and
+hematologic status, advanced imaging techniques to evaluate liver architecture and blood
+flow, non-invasive fibrosis scoring systems, and, in select cases, liver biopsy to confirm
+https://doi.org/10.3390/jcm15093538
+[[p10]]
+J. Clin. Med. 2026, 15, 3538 10 of 18
+histopathological changes [50]. There is no pharmacological treatment of FALD. The use
+of agents decreasing pulmonary vascular resistance may ameliorate hemodynamics and
+delay progression of FALD [51]. In many cases, severe FALD is rather an outcome of ineffi-
+cient Fontan circulation, and it is a presentation of Fontan failure. Patients with end-stage
+cirrhosis or portal hypertension due to Fontan failure should be considered for combined
+heart and liver transplant [52].
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9. Abdominal ultrasound in a patient with Fontan circulation failure, secondary liver cirrhosis,
+and massive ascites.
+5.2. Protein-Losing Enteropathy
+Protein-losing enteropathy (PLE) is another serious systemic complication seen in
+5–12% of patients post-Fontan surgery, and is associated with a substantial increase in
+morbidity and mortality [53]. PLE results from excessive loss of serum proteins into the
+intestinal lumen, leading to hypoalbuminemia. PLE is related to clinical sequelae such as
+edema and immunodeficiency [54]. Several risk factors contribute to the development of
+PLE, including anatomical variations like non-left ventricular morphology, elevated ven-
+tricular end-diastolic pressure, and perioperative factors such as renal failure, prolonged
+cardiopulmonary bypass duration, and extended hospitalization after Fontan surgery [55].
+The complex interplay of these factors highlights the need for comprehensive assessment
+and tailored management strategies to mitigate the incidence and impact of PLE in this vul-
+nerable cohort. The first step in PLE diagnostics is to search for characteristic symptoms and
+signs (peripheral edema and prolonged infections) along with serum hypoalbuminemia [56].
+High alpha-antitrypsin in stool samples confirms a diagnosis of PLE [57]. Multimodality
+imaging should be implemented for ruling out reversible causes of PLE. In some cases,
+cardiac catheterization is required to exclude elevated pressure in Fontan connection or
+to perform catheter interventions [58]. Etiology treatment is important, due to the limited
+possibility of pharmacotherapy.
+https://doi.org/10.3390/jcm15093538
+[[p11]]
+J. Clin. Med. 2026, 15, 3538 11 of 18
+5.3. Plastic Bronchitis
+Plastic bronchitis (PB) presents with a constellation of non-specific respiratory symp-
+toms such as chronic cough, wheezing, and progressively worsening dyspnea, which can
+easily be mistaken for more common pulmonary conditions. The severity of symptoms of-
+ten correlates with the degree of airway obstruction caused by the casts, and, in severe cases,
+respiratory failure may occur. The lifetime cumulative incidence in survivors of the Fontan
+surgery is about 4% [59]. The increased venous pressure, dysfunction of the bronchial mu-
+cosa, and increased pressure in the lymphatic vessels, sometimes with broncho-lymphatic
+fistulas, are considered to be the main factors involved in the formation of bronchial casts.
+Due to the rarity and non-specific presentation of the disease, diagnostic vigilance is neces-
+sary for timely diagnosis. Evaluation typically involves imaging techniques such as chest
+X-rays and computed tomography (CT) scans, which may reveal airway obstruction or
+atelectasis. Ref. [60] states that bronchoscopy plays a crucial role in both diagnosis and man-
+agement by allowing direct visualization and removal of bronchial casts [61]. Additionally,
+lymphatic imaging techniques, including dynamic contrast-enhanced magnetic resonance
+lymphangiography, can identify abnormal lymphatic flow and broncho-lymphatic fistulas,
+guiding targeted therapeutic interventions [62]. However, patients with a history of PB are
+at high risk of early death and heart transplant [63]. The onset of PB should prompt further
+evaluation for hemodynamic alterations or lymphatic abnormalities.
+6. Other Concerns
+Altered hemodynamics and organ-specific comorbidities predispose patients to re-
+duced exercise tolerance [64]. Exercise unmasks a limited single-ventricle output reserve.
+The absence of a subpulmonary ventricle is responsible for the inappropriately small in-
+crease in cardiac output during exertion. Direct connection of the systemic veins to the
+pulmonary arteries prevents an increase in pulmonary arterial pressure in response to exer-
+cise. Impaired regulation of pulmonary vascular resistance contributes to a reduced flow
+reserve. In individuals with a normal circulation, exercise decreases pulmonary vascular
+resistance through pulmonary arteriolar dilation and recruitment of additional vessels. In
+patients with single-ventricle physiology, regulation of pulmonary vascular resistance via
+these mechanisms is minimal or entirely absent [65].
+Venous return is driven by the pressure gradient between the systemic veins and the
+pulmonary capillaries. The absence of a subpulmonary pump results in chronic venous
+congestion. Venous pressures below 18–20 mmHg are generally well tolerated. Low
+pulmonary capillary wedge pressure is also required to maintain venous blood flow. Factors
+that increase pulmonary capillary pressure (e.g., atrioventricular valve regurgitation, and
+systolic and/or diastolic dysfunction of the single ventricle) reduce venous return and
+lead to failure of the Fontan circulation. During exercise, venous pressure and pulmonary
+blood flow increase only modestly, via the “muscle pump.” Contraction of the lower-
+extremity muscles and changes in intrathoracic pressure during respiration provide an
+additional driving force for venous return during exertion, but they do not compensate for
+the increased preload demand imposed by exercise [66].
+Fontan surgery results in stress on renal function. Fontan circulation is associated with
+both acute kidney injury (AKI) immediately after the operation and progressive, long-term
+kidney function impairment resulting in chronic kidney disease (CKD). Pathophysiological
+changes result from incomplete histologic repair after the initial damage during surgery,
+nephron loss, compensatory glomerular hypertrophy, and chronic interstitial inflammation
+and fibrosis [67]. AKI is common directly after Fontan surgery, occurring in 16% of patients
+within 48 h post-operation. The absence of a fenestration and longer duration of bypass are
+https://doi.org/10.3390/jcm15093538
+[[p12]]
+J. Clin. Med. 2026, 15, 3538 12 of 18
+associated with AKI lasting more than 48 h. Prolonged AKI increases hospital length of
+stay and the risk of sternal wound infection [68].
+The long-term impact of Fontan palliation on kidney function is primarily caused by
+chronically increased pressure in the renal veins and decreased cardiac output, resulting
+in low blood volume in the renal arteries. This causes renal impairment, measured by
+GFR < 90 mL/min/1.72 m2, in about 10% of patients years after surgery. Chronic kidney
+disease is associated with higher mortality long after Fontan surgery [ 69]. Treatment
+and prophylaxis of renal failure are especially challenging in this population, as most
+nephroprotective drugs decrease cardiac output through vasodilation and volume loss.
+Altered hemodynamics after Fontan surgery also impact the endocrine system. Thy-
+roid, parathormone, and adrenal hormone levels are often outside normal ranges. Growth
+hormone deficiency and malnutrition contribute to growth retardation. Children with
+Fontan circulation have mild deficits in height, with greater deficits in those with protein-
+losing enteropathy (PLE) [70].
+All these problems make Fontan patients more prone to psychiatric and socioeconomic
+issues. Frequent hospital stays, psychological difficulties, and challenges in education make
+it hard to find and maintain well-paid employment.
+7. Future Directions
+A high risk of complications raises concerns regarding patients’ quality of life. Most
+adverse effects following surgical repair result from specific hemodynamic alterations, and
+cannot be fully resolved. Ongoing scientific and clinical efforts aim to mitigate the impact of
+venous congestion and reduced cardiac output. Physical exercise remains the most effective
+strategy for maintaining overall health in patients with cardiovascular disease [71]. This
+approach is similarly beneficial for Fontan patients. Despite their reduced exercise tolerance,
+physical activity facilitates the adaptation of Fontan circulation to physiological stress and
+enhances the function of the muscle pump [72]. Improved venous return, supported by
+well-conditioned leg muscles, can contribute to increased cardiac output.
+Recent studies have focused on optimizing physical exercise protocols for Fontan
+patients. A recent meta-analysis assessed the impact of exercise on peak oxygen con-
+sumption in this population, highlighting exercise performance as a modifiable factor [72].
+Cardiac rehabilitation should be routinely implemented, introduced early, and tailored
+individually, based on clinical status and mobility. Numerous study findings challenge the
+traditional notion that, particularly pediatric patients, require excessive protection from
+physical activity. Exercise is also employed as a tool to evaluate Fontan circulation, with
+novel diagnostic methods being integrated. Invasive venous-pressure measurement during
+cardiopulmonary exercise testing and exercise-induced pulmonary vascular resistance
+have been demonstrated to be reliable markers for comprehensive assessment of Fontan
+circulation [73,74].
+Recent years have seen increased awareness and considerable efforts toward the earlier
+diagnosis of Fontan-associated liver disease (FALD). However, the altered pathophysiology
+of liver congestion and fibrosis in Fontan patients has rendered classic diagnostic schemes
+and scoring systems less reliable. Non-invasive predictors of severe fibrosis, such as
+transient elastography combined with platelet count (as utilized in the FonLiver risk
+score), have demonstrated better predictive accuracy for severe liver fibrosis compared
+to conventional models [ 75]. The diagnosis of hepatocellular carcinoma (HCC) within
+the specific context of FALD is critically important. A recent review emphasized the
+significance of early detection of carcinogenesis, as it is a major factor contributing to
+improved survival outcomes [ 76,77]. Furthermore, new insights into micromolecular
+changes in the livers of Fontan patients have emerged. A recent study revealed significant
+https://doi.org/10.3390/jcm15093538
+[[p13]]
+J. Clin. Med. 2026, 15, 3538 13 of 18
+metabolic abnormalities, particularly in amino acid metabolism, as well as disruptions in
+other metabolic pathways [78].
+Future research will undoubtedly focus on improving the diagnostics of high pul-
+monary vascular resistance (PVR) and developing therapeutic interventions aimed at
+preventing pulmonary vascular disease in this population. The utility of PVR measurement
+has proven to be a valuable prognostic factor during the subsequent stages of Fontan
+palliation [79–81] Scientists are actively seeking novel pharmacotherapeutic agents that
+may prevent Fontan circulation failure. The pulmonary vasculature remains the main
+therapeutic target. Pulmonary vasodilators have been increasingly utilized worldwide,
+and new agents are being administered in patients with single-ventricle physiology [82,83].
+Modern devices, such as left ventricular assist devices (LVADs) or atrial flow regulators,
+are widely used in patients with normal cardiac anatomy. An increasing number of studies
+are being published on the use of these devices in patients with congenital heart defects,
+including those after the Fontan procedure [ 84–86] The atrial flow regulator has been
+successfully used to create a fenestration between the pulmonary artery and the left atrium,
+leading to clinical improvement in patients with failing Fontan circulation [87]. Growing
+experience is being gained with the broader use of LVADs in Fontan patients, where the
+device is primarily employed as a bridge to transplantation [88,89].
+8. Conclusions
+Fontan surgery remains the sole technique to extend the lifespan of patients with a
+single-ventricle heart. Nevertheless, it is a palliative procedure associated with numerous
+short- and long-term complications. During the initial era of Fontan palliation, only patients
+meeting the so-called “10 commandments” were eligible for the surgery [90]. Currently,
+a broader patient population undergoes this procedure. This expanded approach offers
+hope to the majority of patients but concurrently increases the risk of comorbidities and
+diminished quality of life. Most long-term complications arise from specific circulatory
+characteristics, namely chronic systemic venous congestion and reduced cardiac output.
+Advances in diagnostic methods allow for the early detection of cardiovascular and sys-
+temic organ failure. While some complications can be managed pharmacologically or
+through interventional procedures, optimal hemodynamic conditions can only be achieved
+via heart transplantation. End-organ damage frequently necessitates simultaneous kidney
+or liver transplantation. Ongoing advances in diagnostics, pharmacotherapy, and mechani-
+cal circulatory support offer promising opportunities to improve long-term outcomes and
+quality of life in this growing patient population.
+Author Contributions: Conceptualization, validation, formal analysis, writing—review and editing,
+visualization, supervision, resources—M.K. (Mirosław Kowalski); data curation, writing—original
+draft preparation, visualization—M.K. (Małgorzata Kowalczyk). All authors have read and agreed to
+the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The data underlying this article will be shared upon request from the
+corresponding authors.
+Conflicts of Interest: All authors declare that they have no conflicts of interest.
+https://doi.org/10.3390/jcm15093538
+[[p14]]
+J. Clin. Med. 2026, 15, 3538 14 of 18
+Abbreviations
+The following abbreviations are used in this manuscript:
+AF Atrial Fibrillation
+AVSD Atrioventricular Septal Defect
+AVVR Atrioventricular Valve Regurgitation
+AKI Acute Kidney Injury
+CKD Chronic Kidney Disease
+CT Computed Tomography
+DILV Double Inlet Left Ventricle
+ECG Electrocardiogram
+FALD Fontan-Associated Liver Disease
+FSV Functionally Single Ventricle
+GLS Global Longitudinal Strain
+HCC Hepatocellular Carcinoma
+HLHS Hypoplastic Left Heart Syndrome
+ICD Implantable Cardioverter Defibrillator
+LVADs Left Ventricular Assist Devices
+PB Plastic Bronchitis
+PLE Protein-Losing Enteropathy
+PVR Pulmonary Vascular Resistance
+RV Right Ventricle
+SCD Sudden Cardiac Death
+STE Speckle Tracking Echocardiography
+TA Tricuspid Atresia
+TCPC Total Cavo Pulmonary Connection
+TE Thromboembolism
+TEE Transesophageal echocardiography
+VA Ventricular Arrhythmia
+References
+PM?jK?o?MZ?oK?mMZ?lK?kM`M?t?M?b?QOOVK?PPTK?WOO–WPQM?zbq|
+2. Baumgartner, H.; De Backer, J.; Babu-Narayan, S.V .; Budts, W.; Chessa, M.; Diller, G.-P .; Lung, B.; Kluin, J.; Lang, I.M.; Meijboom,
+F.; et al. 2020 ESC Guidelines for the management of adult congenital heart disease. Eur. Heart J. 2021, 42, 563–645. [CrossRef]
+[PubMed]
+3. Jacobs, M.L.; Mayer, J.E. Congenital Heart Surgery Nomenclature and Database Project: Single ventricle. Ann. Thorac. Surg. 2000,
+69, S197–S204. [CrossRef] [PubMed]
+4. Zheng, W.; D’UDekem, Y.; Grigg, L.; Zentner, D.; Cordina, R.; Celermajer, D.; Buratto, E.; Konstantinov, I.; Lee, M. Long-Term
+Outcomes of Patients with Single Ventricle Who Do not Undergo Fontan Palliation. J. Am. Coll. Cardiol. 2022, 79, 1382. [CrossRef]
+5. Fontan, F.; Baudet, E. Surgical repair of tricuspid atresia. Thorax 1971, 26, 240–248. [CrossRef] [PubMed]
+6. De Leval, M.R.; Kilner, P .; Gewillig, M.; Bull, C. Total cavopulmonary connection: A logical alternative to atriopulmonary
+connection for complex Fontan operations: Experimental studies and early clinical experience. J. Thorac. Cardiovasc. Surg. 1988,
+96, 682–695. [CrossRef] [PubMed]
+7. Marcelletti, C.; Corno, A.; Giannico, S.; Marino, B. Inferior vena cava-pulmonary artery extracardiac conduit. A new form of right
+heart bypass. J. Thorac. Cardiovasc. Surg. 1990, 100, 228–232. [CrossRef] [PubMed]
+8. Nordmeyer, S.; Rohder, M.; Nordmeyer, J.; Miera, O.; Peters, B.; Cho, M.-Y.; Photiadis, J.; Berger, F.; Ovroutski, S. Systemic right
+ventricular morphology in the early postoperative course after extracardiac Fontan operation: Is there still a need for special care?
+Eur. J. Cardio-Thorac. Surg. 2016, 51, 483–489. [CrossRef] [PubMed]
+9. Azakie, A.; McCrindle, B.W.; Van Arsdell, G.; Benson, L.N.; Coles, J.; Hamilton, R.; Freedom, R.M.; Williams, W.G. Extracardiac
+conduit versus lateral tunnel cavopulmonary connections at a single institution: Impact on outcomes. J. Thorac. Cardiovasc. Surg.
+2001, 122, 1219–1228. [CrossRef] [PubMed]
+10. Pundi, K.N.; Johnson, J.N.; ADearani, J.; Pundi, K.N.; Li, Z.; AHinck, C.; Dahl, S.H.; Cannon, B.C.; O’Leary, P .W.; Driscoll, D.J.;
+et al. 40-Year Follow-Up After the Fontan Operation. J. Am. Coll. Cardiol. 2015, 66, 1700–1710. [CrossRef]
+11. Gewillig, M. The Fontan circulation. Heart 2005, 91, 839–846. [CrossRef] [PubMed]
+https://doi.org/10.3390/jcm15093538
+[[p15]]
+J. Clin. Med. 2026, 15, 3538 15 of 18
+12. Egbe, A.C.; Reddy, Y.N.; Khan, A.R.; Al-Otaibi, M.; Akintoye, E.; Obokata, M.; Borlaug, B.A. Venous congestion and pulmonary
+vascular function in Fontan circulation: Implications for prognosis and treatment. Int. J. Cardiol. 2018, 271, 312–316. [CrossRef]
+[PubMed]
+13. Book, W.M.; Gerardin, J.; Saraf, A.; Marie Valente, A.; Rodriguez, F. Clinical Phenotypes of Fontan Failure: Implications for
+Management. Congenit. Heart Dis. 2016, 11, 296–308. [CrossRef] [PubMed]
+14. Miranda, W.R.; Borlaug, B.A.; Hagler, D.J.; Connolly, H.M.; Egbe, A.C. Haemodynamic profiles in adult Fontan patients:
+Associated haemodynamics and prognosis. Eur. J. Heart Fail. 2019, 21, 803–809. [CrossRef]
+15. Gewillig, M.H.; Lundström, U.R.; EDeanfield, J.; Bull, C.; Franklin, R.C.; Graham, T.P .; Wyse, R.K. Impact of Fontan Operation on
+Left Ventricular Size and Contractility in Tricuspid Atresia.Circulation 1990, 81, 118–127. [CrossRef]
+16. Gewillig, M.; Brown, S.C. The Fontan circulation after 45 years: Update in physiology. Heart 2016, 102, 1081–1086. [CrossRef]
+[PubMed]
+17. Fogel, M.A.; Weinberg, P .M.; Gupta, K.B.; Rychik, J.; Hubbard, A.; Hoffman, E.A.; Haselgrove, J. Mechanics of the Single Left
+Ventricle. Circulation 1998, 98, 330–338. [CrossRef]
+18. Penny, D.J.; Krishnamurthy, R. Clinical-Physiological Considerations in Patients Undergoing Staged Palliation for a Functionally
+Single Ventricle. Pediatr. Crit. Care Med. 2016, 17, S347–S355. [CrossRef] [PubMed]
+19. Hauser, M.; Bengel, F.M.; Kühn, A.; Sauer, U.; Nekolla, S.G.; Eicken, A.; Schwaiger, M.; Hess, J. Myocardial perfusion and coronary
+flow reserve assessed by positron emission tomography in patients after Fontan-like operations. Pediatr. Cardiol. 2003, 24, 386–392.
+[CrossRef]
+20. Rickers, C.; Wegner, P .; Silberbach, M.; Madriago, E.; Gabbert, D.D.; Kheradvar, A.; Voges, I.; Scheewe, J.; Attmann, T.; Jerosch-
+Herold, M.; et al. Myocardial Perfusion in Hypoplastic Left Heart Syndrome. Circ. Cardiovasc. Imaging 2021, 14, e012468.
+[CrossRef] [PubMed]
+21. Sluysmans, T.; Sanders, S.P .; van der Velde, M.; Matitiau, A.; AParness, I.; Spevak, P .J.; EMayer, J.J.; Colan, S.D. Natural history
+and patterns of recovery of contractile function in single left ventricle after Fontan operation. Circulation 1992, 86, 1753–1761.
+[CrossRef]
+22. Millane, T.; Bernard, E.J.; Jaeggi, E.; Howman-Giles, R.B.; Uren, R.F.; Cartmill, T.B.; EHawker, R.; Celermajer, D.S. Role of ischemia
+and infarction in late right ventricular dysfunction after atrial repair of transposition of the great arteries. J. Am. Coll. Cardiol.
+2000, 35, 1661–1668. [CrossRef] [PubMed]
+23. Rutz, T.; de Marchi, S.F.; Schwerzmann, M.; Vogel, R.; Seiler, C. Right ventricular absolute myocardial blood flow in complex
+congenital heart disease. Heart 2010, 96, 1056–1062. [CrossRef]
+24. Lubiszewska, B.; Gosiewska, E.; Hoffman, P .; Teresi ´ nska, A.; Ró˙za ´ nski, J.; Piotrowski, W.; Rydlewska-Sadowska, W.; Kubicka,
+K.; Ru ˙zyłło, W. Myocardial perfusion and function of the systemic right ventricle in patients after atrial switch procedure for
+complete transposition: Long-term follow-up. J. Am. Coll. Cardiol. 2000, 36, 1365–1370. [CrossRef] [PubMed]
+25. Nathan, M.; Williamson, A.K.; Mayer, J.E.; Bacha, E.A.; Juraszek, A.L. Mortality in hypoplastic left heart syndrome: Review of
+216 autopsy cases of aortic atresia with attention to coronary artery disease. J. Thorac. Cardiovasc. Surg. 2012, 144, 1301–1306.
+[CrossRef] [PubMed]
+26. Van De Bruaene, A.; Claessen, G.; Salaets, T.; Gewillig, M. Late Fontan Circulatory Failure. What Drives Systemic Venous
+Congestion and Low Cardiac Output in Adult Fontan Patients? Front. Cardiovasc. Med. 2022, 9, 825472. [CrossRef]
+27. Öner, T.; Ballı, ¸ S.; Yılmaz, E.H.; Bulut, M.O.; ¸ Sa¸ smazel, A.; Çelebi, A. Systolic dysfunction of systemic ventricle in patients who
+underwent a fontan operation. T urk. J. Pediatr.2019, 61, 925–930. [CrossRef] [PubMed]
+28. Tseng, S.Y.; Siddiqui, S.; Di Maria, M.V .; Hill, G.D.; Lubert, A.M.; Kutty, S.; Opotowsky, A.R.; Possner, M.; Morales, D.L.S.;
+Quintessenza, J.A.; et al. Atrioventricular Valve Regurgitation in Single Ventricle Heart Disease: A Common Problem Associated
+with Progressive Deterioration and Mortality. J. Am. Heart Assoc. 2020, 9, e015737. [CrossRef]
+29. Moon, J.; Shen, L.; Likosky, D.S.; Sood, V .; Hobbs, R.D.; Sassalos, P .; Romano, J.C.; Ohye, R.G.; Bove, E.L.; Si, M.-S. Relationship of
+Ventricular Morphology and Atrioventricular Valve Function to Long-Term Outcomes Following Fontan Procedures.J. Am. Coll.
+Cardiol. 2020, 76, 419–431. [CrossRef]
+30. King, G.; Buratto, E.; Celermajer, D.S.; Grigg, L.; Alphonso, N.; Robertson, T.; Bullock, A.; Ayer, J.; Iyengar, A.; D’uDekem, Y.; et al.
+Natural and Modified History of Atrioventricular Valve Regurgitation in Patients with Fontan Circulation. J. Am. Coll. Cardiol.
+2022, 79, 1832–1845. [CrossRef]
+31. Menon, S.C.; Dearani, J.A.; Cetta, F. Long-term outcome after atrioventricular valve surgery following modified Fontan operation.
+Cardiol. Y oung2011, 21, 83–88. [CrossRef] [PubMed]
+32. Laubham, M.; Blais, B.; Kamp, A.N. Atrial Arrhythmias in Adults with Fontan Palliation. Cardiol. Ther. 2023, 12, 473–487.
+[CrossRef]
+33. Deshaies, C.; Hamilton, R.M.; Shohoudi, A.; Trottier, H.; Poirier, N.; Aboulhosn, J.; Broberg, C.S.; Cohen, S.; Cook, S.; Dore, A.;
+et al. Thromboembolic Risk After Atriopulmonary, Lateral Tunnel, and Extracardiac Conduit Fontan Surgery.J. Am. Coll. Cardiol.
+2019, 74, 1071–1081. [CrossRef] [PubMed]
+https://doi.org/10.3390/jcm15093538
+[[p16]]
+J. Clin. Med. 2026, 15, 3538 16 of 18
+34. Gewillig, M.; Wyse, R.K.; de Leval, M.R.; Deanfield, J.E. Early and late arrhythmias after the Fontan operation: Predisposing
+factors and clinical consequences. Heart 1992, 67, 72–79. [CrossRef]
+35. Giacone, H.M.; Chubb, H.; Dubin, A.M.; Motonaga, K.S.; Ceresnak, S.R.; Goodyer, W.R.; Hanisch, D.; Trela, A.V .; Boramanand, N.;
+Lencioni, E.; et al. Outcomes After Development of Ventricular Arrhythmias in Single Ventricular Heart Disease Patients with
+Fontan Palliation. Circ. Arrhythmia Electrophysiol. 2023, 16, 370–381. [CrossRef]
+36. Egbe, A.C.; Connolly, H.M.; Miranda, W.R.; Ammash, N.M.; Hagler, D.J.; Veldtman, G.R.; Borlaug, B.A. Hemodynamics of Fontan
+Failure: The Role of Pulmonary Vascular Disease. Circ. Heart Fail. 2017, 10, e004515. [CrossRef] [PubMed]
+37. Hauck, A.; Porta, N.; Lestrud, S.; Berger, S. The Pulmonary Circulation in the Single Ventricle Patient. Children 2017, 4, 71.
+[CrossRef]
+38. Hakim, T.S. Flow-induced release of EDRF in the pulmonary vasculature: Site of release and action. Am. J. Physiol.-Heart Circ.
+Physiol. 1994, 267, H363–H369. [CrossRef]
+39. Raj, J.U.; Kaapa, P .; Anderson, J. Effect of pulsatile flow on microvascular resistance in adult rabbit lungs.J. Appl. Physiol. 1992, 72,
+73–81. [CrossRef] [PubMed]
+40. Henaine, R.; Vergnat, M.; Bacha, E.A.; Baudet, B.; Lambert, V .; Belli, E.; Serraf, A. Effects of lack of pulsatility on pulmonary
+endothelial function in the Fontan circulation. J. Thorac. Cardiovasc. Surg. 2013, 146, 522–529. [CrossRef]
+41. Hays, B.S.; Baker, M.; Laib, A.; Tan, W.; Udholm, S.; Goldstein, B.H.; Sanders, S.P .; Opotowsky, A.R.; Veldtman, G.R. Histopatho-
+logical abnormalities in the central arteries and veins of Fontan subjects. Heart 2018, 104, 324–331. [CrossRef] [PubMed]
+42. Ridderbos, F.-J.S.; Wolff, D.; Timmer, A.; van Melle, J.P .; Ebels, T.; Dickinson, M.G.; Timens, W.; Berger, R.M. Adverse pulmonary
+vascular remodeling in the Fontan circulation. J. Heart Lung T ransplant. 2015, 34, 404–413. [CrossRef]
+43. Snarr, B.S.; Paridon, S.M.; Rychik, J.; Goldberg, D.J. Pulmonary vasodilator therapy in the failing Fontan circulation: Rationale
+and efficacy. Cardiol. Y oung2015, 25, 1489–1492. [CrossRef]
+44. Kushner, A.; West, W.P .; Khan Suheb, M.Z.; Pillarisetty, L.S.Virchow T riad; StatPearls Publishing: Treasure Island, FL, USA, 2025.
+[PubMed]
+45. Heidendael, J.F.; Engele, L.J.; Bouma, B.J.; Dipchand, A.I.; Thorne, S.A.; McCrindle, B.W.; Mulder, B.J. Coagulation and
+Anticoagulation in Fontan Patients. Can. J. Cardiol. 2022, 38, 1024–1035. [CrossRef]
+46. Attard, C.; Monagle, P .T.; D’Udekem, Y.; Mackay, M.T.; Briody, J.; Cordina, R.; Hassan, E.B.; Simm, P .; Rice, K.; Ignjatovic, V .;
+et al. Long-term outcomes of warfarin versus aspirin after Fontan surgery. J. Thorac. Cardiovasc. Surg. 2021, 162, 1218–1228.e3.
+[CrossRef] [PubMed]
+47. Guerrero-Chalela, C.; Therrien, J.; Grossman, Y.; Guo, L.; Liu, A.; Marelli, A. Severe Fontan-Associated Liver Disease and Its
+Association with Mortality. J. Am. Heart Assoc. 2023, 12, e024034. [CrossRef]
+48. Gordon-Walker, T.T.; Bove, K.; Veldtman, G. Fontan-associated liver disease: A review. J. Cardiol. 2019, 74, 223–232. [CrossRef]
+49. Kogiso, T.; Sagawa, T.; Taniai, M.; Shimada, E.; Inai, K.; Shinohara, T.; Tokushige, K. Risk factors for Fontan-associated
+hepatocellular carcinoma. PLoS ONE 2022, 17, e0270230. [CrossRef] [PubMed]
+50. Sethasathien, S.; Leemasawat, K.; Silvilairat, S.; Sittiwangkul, R.; Chattipakorn, S.C.; Chattipakorn, N. Screening modalities for
+the diagnosis of Fontan-associated liver disease: Evidence from the past for future development. Am. J. T ransl. Res. 2022, 14,
+1433–1453. [PubMed]
+51. Wang, W.; Hu, X.; Liao, W.; Rutahoile, W.; Malenka, D.J.; Zeng, X.; Yang, Y.; Feng, P .; Wen, L.; Huang, W. The efficacy and safety of
+pulmonary vasodilators in patients with Fontan circulation: A meta-analysis of randomized controlled trials. Pulm. Circ. 2019, 9,
+1–9. [CrossRef]
+52. Lewis, M.J.; Reardon, L.C.; Aboulhosn, J.; Haeffele, C.; Chen, S.; Kim, Y.; Fuller, S.; Forbess, L.; Alshawabkeh, L.; Urey, M.A.; et al.
+Clinical Outcomes of Adult Fontan-Associated Liver Disease and Combined Heart-Liver Transplantation. J. Am. Coll. Cardiol.
+2023, 81, 2149–2160. [CrossRef]
+53. Mertens, L.; Hagler, D.J.; Sauer, U.; Somerville, J.; Gewillig, M. Protein-losing enteropathy after the Fontan operation: An
+international multicenter study. J. Thorac. Cardiovasc. Surg. 1998, 115, 1063–1073. [CrossRef]
+54. Chakrabarti, S.; Keeton, B.R.; Salmon, A.P .; Vettukattil, J.J. Acquired combined immunodeficiency associated with protein losing
+enteropathy complicating Fontan operation. Heart 2003, 89, 1130–1131. [CrossRef] [PubMed]
+55. Feldt, R.H.; Driscoll, D.J.; Offord, K.P .; Cha, R.H.; Perrault, J.; Schaff, H.V .; Puga, F.J.; Danielson, G.K. Protein-losing enteropathy
+after the Fontan operation. J. Thorac. Cardiovasc. Surg. 1996, 112, 672–680. [CrossRef]
+56. Barracano, R.; Merola, A.; Fusco, F.; Scognamiglio, G.; Sarubbi, B. Protein-losing enteropathy in Fontan circulation: Patho-
+physiology, outcome and treatment options of a complex condition. Int. J. Cardiol. Congenit. Heart Dis. 2022, 7, 100322.
+[CrossRef]
+57. Fujii, T.; Shimizu, T.; Takahashi, K.; Kishiro, M.; Ohkubo, M.; Akimoto, K.; Yamashiro, Y. Fecalα1-Antitrypsin Concentrations as a
+Measure of Enteric Protein Loss After Modified Fontan Operations. J. Pediatr. Gastroenterol. Nutr. 2003, 37, 577–580. [CrossRef]
+https://doi.org/10.3390/jcm15093538
+[[p17]]
+J. Clin. Med. 2026, 15, 3538 17 of 18
+58. Dolk, M.; Schütz, I.; Herou, E.; Nordenstam, F.; Bergman, G.; Synnergren, M.; Rydberg, A.; Liuba, P .; Tran, K.; Sunnegårdh, J.; et al.
+Protein-losing enteropathy following Fontan completion: A 30-year national cohort study in Sweden. J. Thorac. Cardiovasc. Surg.
+2025, 171, 722–731.e3. [CrossRef]
+59. Caruthers, R.L.; Kempa, M.; Loo, A.; Gulbransen, E.; Kelly, E.; Erickson, S.R.; Hirsch, J.C.; Schumacher, K.R.; Stringer, K.A.
+Demographic Characteristics and Estimated Prevalence of Fontan-Associated Plastic Bronchitis. Pediatr. Cardiol. 2013, 34, 256–261.
+[CrossRef] [PubMed]
+60. O’lEary, C.; Itkin, M.; Roshkovan, L.; Katz, S.; Cao, Q.; Hershman, M.; Galperin-Aizenberg, M. CT Features of Lymphatic
+Plastic Bronchitis in Adults: Correlation with Multimodality Lymphatic Imaging. Radiol. Cardiothorac. Imaging 2022, 4, e210048.
+[CrossRef] [PubMed]
+61. Soyer, T.; Yalcin, ¸ S.; Emiralio˘ glu, N.; Yilmaz, E.A.; Soyer, O.; Orhan, D.; Do˘ gru, D.; Sekerel, B.E.; Tanyel, F.C. Use of serial rigid
+bronchoscopy in the treatment of plastic bronchitis in children. J. Pediatr. Surg. 2016, 51, 1640–1643. [CrossRef] [PubMed]
+62. Itkin, M.; McCormack, F.X.; Dori, Y. Diagnosis and Treatment of Lymphatic Plastic Bronchitis in Adults Using Advanced
+Lymphatic Imaging and Percutaneous Embolization. Ann. Am. Thorac. Soc. 2016, 13, 1689–1696. [CrossRef]
+63. Schumacher, K.R.; Singh, T.P .; Kuebler, J.; Aprile, K.; O’Brien, M.; Blume, E.D. Risk Factors and Outcome of Fontan-Associated
+Plastic Bronchitis: A Case-Control Study. J. Am. Heart Assoc. 2014, 3, e000865. [CrossRef] [PubMed]
+64. La Gerche, A.; Gewillig, M. What Limits Cardiac Performance during Exercise in Normal Subjects and in Healthy Fontan Patients?
+Int. J. Pediatr. 2010, 2010, 791291. [CrossRef]
+65. Shachar, G.B.; Fuhrman, B.P .; Wang, Y.; Lucas, R.V ., Jr.; Lock, J.E. Rest and exercise hemodynamics after the Fontan procedure.
+Circulation 1982, 65, 1043–1048. [CrossRef] [PubMed]
+66. Shafer, K.M.; Garcia, J.A.; Babb, T.G.; Fixler, D.E.; Ayers, C.R.; Levine, B.D. The importance of the muscle and ventilatory blood
+pumps during exercise in patients without a subpulmonary ventricle (Fontan operation). J. Am. Coll. Cardiol. 2012, 60, 2115–2121.
+[CrossRef] [PubMed]
+67. Madsen, N.L.; Goldstein, S.L.; Frøslev, T.; Christiansen, C.F.; Olsen, M. Cardiac surgery in patients with congenital heart disease is
+associated with acute kidney injury and the risk of chronic kidney disease. Kidney Int. 2017, 92, 751–756. [CrossRef] [PubMed]
+68. Marosi, A.; Conway, J.; Morgan, C.; Yaskina, M.; Foshaug, R.; Chappell, A.; Ryerson, L.; Martin, B.-J.; Ash, A.; Al-Aklabi, M.; et al.
+Acute kidney injury and renal recovery following Fontan surgery. JTCVS Open 2024, 17, 248–256. [CrossRef] [PubMed]
+69. Sharma, S.; Ruebner, R.L.; Furth, S.L.; Dodds, K.M.; Rychik, J.; Goldberg, D.J. Assessment of Kidney Function in Survivors
+Following Fontan Palliation. Congenit. Heart Dis. 2016, 11, 630–636. [CrossRef]
+70. Mancilla, E.E.; Zielonka, B.; Roizen, J.D.; Dodds, K.M.; Rand, E.B.; Heimall, J.R.; Chen, F.; Wu, C.; Goldberg, D.J.; Rychik, J.
+Growth in Children with a Fontan Circulation. J. Pediatr. 2021, 235, 149–155.e2. [CrossRef]
+71. Pelliccia, A.; Sharma, S.; Gati, S.; Bäck, M.; Börjesson, M.; Caselli, S.; Collet, J.-P .; Corrado, D.; Drezner, J.A.; Halle, M.; et al. 2020
+ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease. Eur. Heart J. 2021, 42, 17–96. [CrossRef]
+72. Scheffers, L.E.; Berg LEMvd Ismailova, G.; Dulfer, K.; Takkenberg, J.J.M.; Helbing, W.A. Physical exercise training in patients with
+a Fontan circulation: A systematic review. Eur. J. Prev. Cardiol. 2021, 28, 1269–1278. [CrossRef]
+73. Cao, J.Y.; Egbe, A.C.; Olsen, N.; Jain, C.C.; ABorlaug, B.; Reddy, Y.N.V .; Connolly, H.C.; Celermajer, D.; Cordina, R.; Miranda, W.R.
+Adults with Fontan circulation: Prognostic value of exercise pulmonary vascular resistance index. Eur. Heart J. 2025, 47, 854–864.
+[CrossRef] [PubMed]
+74. Cieplucha, A.; Van Belle, H.; Miranda, W.R.; Bekhuis, Y.; Decorte, E.; Michielsen, M.; De Meester, P .; Troost, E.; Cattapan, I.;
+Rosseel, T.; et al. Semi-Invasive Pressure-Flow Plots Obtained Using Exercise Echocardiography Relate to Clinical Status and
+Exercise Capacity in Patients with a Fontan Circulation. J. Am. Soc. Echocardiogr. 2025, 38, 843–854. [CrossRef] [PubMed]
+75. Téllez, L.; Rincón, D.; Payancé, A.; Jaillais, A.; Lebray, P .; de Santiago, E.R.; Clemente, A.; Paradis, V .; Lefort, B.; Garrido-Lestache,
+E.; et al. Non-invasive assessment of severe liver fibrosis in patients with Fontan-associated liver disease: The VALDIG-EASL
+FONLIVER cohort. J. Hepatol. 2025, 82, 480–489. [CrossRef] [PubMed]
+76. D’Amato, J. Hepatocellular carcinoma in Fontan-associated liver disease. Ann. Gastroenterol. 2025, 38, 133–142. [CrossRef]
+77. Rosenthal, B.E.; Hoteit, M.A.; Lluri, G.; Haeffele, C.; Daugherty, T.; Krasuski, R.A.; Serfas, J.D.; de Freitas, R.A.; Porlier, A.; Lubert,
+A.M.; et al. Characteristics and Survival Outcomes of Hepatocellular Carcinoma After the Fontan Operation. JACC Adv. 2025,
+4, 101646. [CrossRef]
+78. Sule, R.; Hu, P .; Shoffler, C.; Petucci, C.; Wilkins, B.J.; Rychik, J.; Pei, L. Comprehensive Multiomic Analysis Reveals Metabolic
+Reprogramming Underlying Human Fontan-Associated Liver Disease. J. Am. Heart Assoc. 2025, 14, e039201. [CrossRef]
+79. Laudenschlager, S.; Chauhan, D.; Chaudhuri, N.R.; Mascio, C.E.; Udassi, J.P .; Frank, B.S.; Romanowicz, J.; Loke, Y.-H.; Kheyfets,
+V .O.; Moghari, M.H. Estimation of pre-Fontan pulmonary vascular resistance in children with single ventricle heart disease at the
+Glenn stage: A multicenter study. Front. Pediatr. 2025, 13, 1698653. [CrossRef]
+https://doi.org/10.3390/jcm15093538
+[[p18]]
+J. Clin. Med. 2026, 15, 3538 18 of 18
+80. Hsieh, N.; Doctor, P .N.; Akam-Venkata, J.; Birdsall, K.; Erdem, S.; Gusseva, M.; Sebastian, R.; Reddy, S.R.V .; Fares, M.; Greil, G.; et al.
+Elevated combined pulmonary vascular resistance obtained by cardiovascular magnetic resonance and cardiac catheterisation on
+pre-Fontan assessment is associated with adverse postoperative Fontan outcomes. Cardiol. Y oung2026, 36, 62–67. [CrossRef]
+[PubMed]
+81. Kawasaki, Y.; Sasaki, T.; Kobayashi, D. Predictive utility of cardiac index-systemic vascular resistance plot and perfusion pressure
+in late post-Fontan patients. Cardiol. Y oung2025, 35, 490–496. [CrossRef]
+82. Faccini, A.; Avesani, M.; Biffanti, R.; Pomiato, E.; Sirico, D.; Pozza, A.; Cerutti, A.; Reffo, E.; Castaldi, B.; Di Salvo, G. The Use of
+Vasodilator Therapy in Fontan Patients: A Single-Centre Experience. Children 2025, 12, 751. [CrossRef] [PubMed]
+83. Zhang, M.; Chen, X.; Xu, Y.; Chen, Y.; Zhang, Z.; Zhou, J.; Xu, Z. Efficacy and safety of treprostinil in pediatric pulmonary
+hypertension following fontan surgery: A real-world analysis. BMC Pediatr. 2025, 25, 739. [CrossRef]
+84. Puri, K.; Adachi, I. Mechanical Support for The Failing Single Ventricle at Pre-Fontan Stage: Current State of The Field and Future
+Directions. Semin. Thorac. Cardiovasc. Surg. Pediatr. Card. Surg. Annu. 2021, 24, 10–18. [CrossRef]
+85. Manuri, L.; Calaciura, R.E.; De Zorzi, A.; Oreto, L.; Raponi, M.; Lehner, A.; Haas, N.; Agati, S. Atrial flow regulator for failing
+Fontan circulation: An initial European experience. Interact. Cardiovasc. Thorac. Surg. 2018, 27, 761–764. [CrossRef]
+86. Haddad, R.N.; Valdeolmillos, E.; Belli, E.; Hascoët, S. Recanalization of Thrombosed Atrial Flow Regulator in Failing Fontan: A
+Bridge to Transplant. Catheter. Cardiovasc. Interv. 2026, 107, 1380–1383. [CrossRef]
+87. Pascall, E.; Jones, M.I.; Savis, A.; Rosenthal, E.; Qureshi, S.A. Transcatheter creation of a pulmonary artery to left atrial fenestration
+in a failing Fontan circulation using the Atrial Flow Regulator (AFR). Cardiol. Y oung2021, 31, 1376–1379. [CrossRef] [PubMed]
+88. Soghoyan, K.Z.; Guglin, M. Durable ventricular assist device in adult patients with single ventricle: A systematic literature review.
+Heart Fail. Rev. 2024, 29, 707–711. [CrossRef]
+89. Turner, D.; Mehdizadeh-Shrifi, A.; Chappell, G.; Morales, D.L. The increasing utilization of ventricular assist devices in fontan
+failure. JHLT Open 2025, 9, 100282. [CrossRef] [PubMed]
+90. Stern, H.J. Fontan “Ten Commandments” revisited and revised. Pediatr. Cardiol. 2010, 31, 1131–1134. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+https://doi.org/10.3390/jcm15093538

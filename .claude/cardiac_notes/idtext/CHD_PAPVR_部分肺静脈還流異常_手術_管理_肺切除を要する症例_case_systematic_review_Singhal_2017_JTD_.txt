@@ -1,0 +1,397 @@
+
+[[p1]]
+© Journal of Thoracic Disease. All rights reserved.
+J Thorac Dis 2017;9(12):5434-5439
+jtd.amegroups.com
+Background
+Partial anomalous pulmonary venous connections (PAPVCs) 
+are a heterogeneous group of rare vascular malformations 
+that describe incomplete connections from the pulmonary 
+venous system to the systemic venous system or right 
+heart. PAPVCs are encountered in approximately 0.5% 
+of the pediatric population, where they are commonly 
+associated with atrial septal defects (ASDs) (1). Within this 
+cohort, treatment often requires operative repair (1). In 
+the adult population, PAPVCs are exceedingly rare, thus 
+disease-specific epidemiology and treatment protocols 
+are undefined. Management of PAPVCs becomes a 
+therapeutic dilemma when circulatory physiology may be 
+rapidly altered, for example, during pulmonary resection. 
+In this report, we highlight physiologic considerations 
+of PAPVCs in the adult population by documenting our 
+experiences involving a patient who presented with a 
+suspicious pulmonary nodule and PAPVC. In addition to 
+these comments, we provide a systematic review consisting 
+of all contemporary reports describing management of 
+PAPVCs in the patient undergoing resection for suspicious 
+pulmonary lesions.
+Case report
+A 70-year-old male former smoker presented to our clinic for 
+evaluation of an incidentally discovered 1.9 cm ground-glass 
+opacity (GGO) of the right upper lobe ( Figure 1A ). Upon 
+interview, the patient denied associated symptomatology. 
+A preoperative PET-CT was obtained and revealed 
+a standardized uptake value (SUV) of 4.9 ( Figure 1B ),  
+and no suspicious lymph node involvement. The lesion was 
+not amenable to transthoracic or endobronchial biopsy, 
+thus the patient was consented for a video-assisted thoracic 
+surgery (VATS) wedge biopsy. During initial dissection, an 
+anomalous vein arising from the right superior pulmonary 
+Review Article
+Management of partial anomalous pulmonary venous connections 
+in patients requiring pulmonary resection: a case report and 
+systematic review
+Kieran Singhal
+1,2
+, Andrew D. Newton
+1,2
+, Christopher Corbett
+1,2
+, Jarrod D. Predina
+3
+1
+Center for Precision Surgery, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA; 
+2
+Division of Thoracic 
+Surgery, Department of Surgery, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA; 
+3
+Department of Surgery, 
+Massachusetts General Hospital, Boston, MA, USA
+Contributions: (I) Conception and Design: All authors; (II) Administrative support: None; (III) Provision of study material or patients: JD Predina; 
+(IV) Collection and assembly of data: All authors; (V) Data analysis and interpretation: All authors; (VI) Manuscript writing: All authors, (VII) Final 
+approval of manuscript: All authors.
+Correspondence to: Jarrod D. Predina, MD, MTR. 55 Fruit Street; Boston, MA 02108, USA. Email: jpredina@partners.org. 
+Abstract: Partial anomalous pulmonary venous connections (PAPVCs) are rare congenital anomalies that 
+are frequently asymptomatic in adults. When PAPVCs are encountered in the patient requiring pulmonary 
+resection, improper management can result in fulminant right-heart failure and death. In this report, we note 
+our management of a 70-year-old male who presented with a right upper lobe ground-glass opacity (GGO) 
+and a PAPVC. We also provide a systematic review of all contemporary reports and provide an algorithm for 
+PAPVC management in the adult patient requiring pulmonary resection.
+Keywords: Partial anomalous pulmonary venous connection (PAPVC); lung cancer; pulmonary resection
+Submitted Sep 28, 2017. Accepted for publication Nov 10, 2017.
+doi: 10.21037/jtd.2017.11.68
+View this article at: http://dx.doi.org/10.21037/jtd.2017.11.68
+5439
+[[p2]]
+5435
+Journal of Thoracic Disease, Vol 9, No 12 December 2017
+© Journal of Thoracic Disease. All rights reserved.
+J Thorac Dis 2017;9(12):5434-5439
+jtd.amegroups.com
+vein and draining into the superior vena cava was 
+identified ( Figure 1C ). Intraoperative review of a previous 
+contrast enhanced chest CT confirmed partial anomalous 
+pulmonary vein ( Figure 1D,E,F ), and revealed no other 
+cardiopulmonary abnormalities. 
+Because the anomalous vein was associated with the lobe 
+harboring the preoperatively identified GGO, the decision 
+was made to proceed with resection without additional 
+cardiopulmonary evaluation. A right upper lobectomy was 
+performed, with ligation of the anomalous vein near the 
+vena cava. After sampling lymph nodes for staging, the 
+case was concluded in standard fashion. A postoperative 
+echocardiogram was obtained, and ruled out septal defects. 
+The patient is now 6 months from his procedure without 
+evidence of cardiopulmonary compromise or disease 
+recurrence. 
+Discussion  
+PAPVCs are rare congenital anomalies found in 0.4–0.7% 
+of the population at autopsy (2). These anomalies are most 
+frequently identified in children, where they are typically 
+right sided and are associated with ASDs in 80–90%  
+of cases (1,2). In the pediatric population, repair is 
+indicated when pulmonary-to-systemic flow ratio (Qp/Qs) 
+approaches 1.5 (2,3). 
+In contrast, PAPVCs in adults, particularly when 
+associated with pulmonary nodules, are far less common 
+with only 24 cases being reported to date (data summarized 
+in T able 1). Given the rare presentation of PAPVCs in adults 
+requiring pulmonary resection, treatment approaches are 
+not established. Despite a small sample size, epidemiologic 
+and therapeutic trends may be ascertained from systematic 
+analysis of adult reports. 
+Upon review, the mean age of presentation of patients 
+with PAPVCs and pulmonary nodules was found to be 
+59 years (SD 14 years). There appears to be no gender 
+predominance (44% female, 56% male) nor laterality 
+predisposition (46% are left-sided, 54% are right-sided). 
+Approximately half of PAPVCs are found preoperatively 
+Figure 1 Preoperative and intraoperative imaging of subject presenting with a PAPVC originating in the right upper lobe pulmonary vein 
+and draining into the superior vena cava. (A) The described subject presented with a 1.9 cm GGO of the right upper lobe; (B) preoperative 
+PET demonstrated an SUV of 4.9; (C) during resection, a PAPVC from the right superior pulmonary vein to the vena cava was noted; (D-F) 
+upon review of previous axial imaging, the PAPVC was identifiable. PAPVC, partial anomalous pulmonary venous connection; RUL, right 
+upper lobe; RSPV , right superior pulmonary vein; SVC, superior vena cava.
+SVC
+RUL
+RSPV
+PAPVC
+A B C
+D E F
+[[p3]]
+5436 Singhal et al. PAPVCs in patients requiring pulmonary resection
+© Journal of Thoracic Disease. All rights reserved.
+J Thorac Dis 2017;9(12):5434-5439
+jtd.amegroups.com
+Table 1 Reports of PAPVCs encountered during pulmonary resection
+Case Age 
+(years) Gender Tumor 
+location Pathology PAPVC 
+source Resection PAPVC drain ASD 
+present?
+PAPVC 
+corrected?** Author and year
+1 72 Female RML & 
+RLL
+NSCLC LUL Pneumonectomy Left brachiocephalic vein No No Black et al., 1992 (4) 
+2 68 Male LUL NSCLC LUL Lobectomy Left brachiocephalic vein No No Takamori  
+et al., 1995 (5) 
+3 58 Female LLL NSCLC LUL Lobectomy Left brachiocephalic vein No Yes Takei et al., 2002 (6) 
+4 79 Female LUL NSCLC LUL Lobectomy Left brachiocephalic vein No No Miwa et al., 2004 (7) 
+5 48 Male LUL NSCLC RUL Pneumonectomy Superior vena cava No Yes Sakurai et al., 2005 (8) 
+6 45 Female LLL NSCLC LUL Lobectomy Left brachiocephalic vein No No Yamada et al., 2005 (9) 
+7 62 Male RUL NSCLC RUL Lobectomy Azygous vein and superior 
+vena cava
+No No Galetta et al., 2006 (10) 
+8 59 Male RUL NSCLC & 
+TB
+RUL Lobectomy Superior vena cava No No Sasaki et al., 2006 (11) 
+9 45 Female LLL Carcinoid LUL Lobectomy Left brachiocephalic vein No Yes Smith et al., 2006 (12) 
+10 81 Male RUL NSCLC RUL Lobectomy Superior vena cava No No Tanaka et al., 2008 (13) 
+11 65 Female RML NSCLC RML Lobectomy Right inferior pulmonary 
+vein
+U No Akiba et al., 2008 (14) 
+12 44 Female LLL Granuloma LLL Lobectomy Azygous vein U No Sumida et al., 2009 (15) 
+13 80 Male RUL NSCLC RUL Lobectomy Superior vena cava No No Pryshchepau et al., 2009 (16) 
+14 64 Male RUL & 
+RLL
+NSCLC RUL Lobectomy Superior vena cava No No Mikubo et al., 2013 (2) 
+15 U U LUL NSCLC LUL Lobectomy Left brachiocephalic vein No No Szkorupa et al., 2013 (17) 
+16 45 Male RLL NSCLC RUL Bilobectomy (RML 
+and RLL)
+Superior vena cava U No Tourmousoglou et al.,  
+2014 (18) 
+17 64 Male LUL NSCLC LUL Lobectomy Left brachiocephalic vein No No Asakura et al., 2014 (19) 
+18 26 Female LUL NSCLC LUL Lobectomy Left brachiocephalic vein U No Shapiro et al., 2014 (20) 
+19 48 Male RLL NSCLC RLL Pneumonectomy Inferior vena cava No No Liu et al., 2015 (21)
+20 61 Female RUL NSCLC RUL Lobectomy Azygous vein No No Heineman et al., 2015 (22) 
+21 59 Male RUL NSCLC RUL Lobectomy Superior vena cava No No Inafuku et al., 2016 (23) 
+22 74 Female LLL NSCLC LUL Lobectomy Left brachiocephalic vein No Yes Kawagoe et al., 2017 (3) 
+23 45 Male RUL NSCLC RUL Lobectomy Azygous vein U No Kawasaki et al., 2017 (24) 
+24 69 Male RUL NSCLC RUL Lobectomy Superior vena cava No No Current case, 2017
+**, correction describes reimplantation. PAPVC, partial anomalous pulmonary venous connection; NSCLC, non-small cell lung cancer; ASD, atrial septal defect; RUL, right 
+upper lobe; RML, right middle lobe; RLL, right lower lobe; LUL, left upper lobe; LLL, left lower lobe; TB, tuberculosis; U, unknown.
+[[p4]]
+5437
+Journal of Thoracic Disease, Vol 9, No 12 December 2017
+© Journal of Thoracic Disease. All rights reserved.
+J Thorac Dis 2017;9(12):5434-5439
+jtd.amegroups.com
+with the other half found intraoperatively (3). The most 
+common drainage patterns in adults involve connections 
+from the left superior pulmonary vein to the innominate 
+vein (41.6%) and the right superior pulmonary vein to the 
+superior vena cava (29.1%). Perhaps most interestingly, 
+although PAPVCs are highly associated with ASDs in the 
+pediatric population, there are no reports of adult patients 
+with a PAPVC and lung nodules who have been found 
+to have an ASD. These data may suggest that additional 
+studies aimed at assessing septal abnormalities are of little 
+added utility.
+Management of PAPVCs in the setting of pulmonary 
+resection requires careful consideration of several factors 
+including PAPVC anatomy, preoperative cardiopulmonary 
+physiology (as assessed by Qp/Qs), and the extent of 
+planned pulmonary resection. For PAPVCs that arise from 
+a pulmonary segment that will be included in the resection 
+specimen, simple ligation is adequate. In fact, some reports 
+suggest that resection may result in improvements of 
+pulmonary hypertension (19). 
+When a PAPVC arises from an anatomic segment which 
+will not be included in the resection, the management 
+approach is more challenging and requires a pre-
+resection assessment of Qp/Qs and consideration of 
+resection extent. These factors are important as significant 
+pulmonary resections in patients with elevated Qp/Qs 
+ratios can result in fulminant right-heart failure due to 
+acute increases in shunt fraction through the PAPVC 
+and elevated pulmonary arterial pressures (3,4). Although 
+a clear Qp/Qs cut-off is unknown, patients with Qp/
+Qs greater than 1.5 or symptomatic PAPVCs are at high 
+risk for post-operative complications, and thus should 
+undergo PAPVC repair. Successful PAPVC repair has 
+been described both prior to and during pulmonary 
+resection with good success (3,6,8,12). For patients with 
+asymptomatic PAPVCs and normal Qp/Qs, standard 
+pulmonary resection is likely sufficient. Finally, in 
+patients with lesser resections and borderline Qp/Qs  
+(ranging from 1.0 to 1.5), it remains unclear if PAPVC 
+correction is necessary with reports demonstrating 
+success with both approaches (9,12,18). A summary of this 
+treatment algorithm is provided in Figure 2.
+Although these data provide a basic blueprint for both 
+diagnostic and therapeutic approaches for the rare patient 
+presenting with PAPVCs and resectable pulmonary 
+nodules, some potential limitations should be noted. First, 
+the compiled data is based almost exclusively on single case 
+reports from a variety of centers across the world. This 
+methodology introduces heterogeneity in the treatment 
+approach and limits interpretation of long term follow-up 
+data. Second, there is no randomization or control group 
+which can complicate outcome interpretation. Finally, the 
+prevalence of PAPVCs is likely underestimated as nearly 
+half of these anomalies were found only intraoperatively 
+during resection. Evaluation of the contralateral hemithorax 
+is thus impossible during resection. Nevertheless, these 
+results represent the first formal review characterizing 
+trends and provides an applicable treatment algorithm for 
+this challenging cohort. 
+In summary, management of PAPVCs during 
+resection is an uncommon clinical scenario that requires 
+careful consideration of venous anatomy, preoperative 
+Figure 2  Proposed treatment algorithm for adult patients with PAPVC requiring pulmonary resection. If the PAPVC originates from 
+the pulmonary segment undergoing resection, standard resection with PAPVC ligation is appropriate. If the PAPVC originates from a 
+pulmonary segment that is not being included in the pulmonary resection, management depends on preoperative Qp/Qs and the extent 
+of resection. For patients with normal Qp/Qs, pulmonary resection alone is sufficient. For patients with Qp/Qs >1.5, PAPVC correction 
+should occur along with pulmonary resection. For patients with Qp/Qs ranging from 1.0 to 1.5, PAPVC correction should likely take place, 
+particularly for patients requiring extensive pulmonary resection. PAPVC, partial anomalous pulmonary venous connection.
+PAPVC
+PAPVC to be 
+included within 
+resection
+Proceed with resection 
+and PAPVC ligation
+Qp/Qs =1.0 and 
+asymptomatic 
+Proceed with resection
+Unclear. Likely proceed with 
+resection and correction of PAPVC
+Resection with correction of 
+PAPVC
+1.0< Qp/Qs <1.5,
+± symptomatic
+Qp/Qs >1.5 or 
+symptomatic 
+Assessment 
+of Qp/Qs
+PAPVC not to be 
+included within 
+resection
+[[p5]]
+5438 Singhal et al. PAPVCs in patients requiring pulmonary resection
+© Journal of Thoracic Disease. All rights reserved.
+J Thorac Dis 2017;9(12):5434-5439
+jtd.amegroups.com
+cardiopulmonary physiology, and resection extent. For 
+patients with PAPVCs arising from the pulmonary segment 
+to be included in the resection specimen, simple vein 
+ligation is appropriate. For those patients with PAPVCs 
+arising from pulmonary segments which will not be 
+included in the resection, consideration of preoperative Qp/
+Qs and resection extent is essential when determining the 
+need for PAPVC correction.
+Acknowledgements
+None.
+Footnote
+Conflicts of Interest: The authors have no conflicts of interest 
+to declare.
+Informed Consent : Written informed consent was obtained 
+from the patient for publication of this manuscript and any 
+accompanying images.
+References
+PM?r?rlK?a?glK?r?gu?K??M?rLK?
+2-patch, and caval division techniques for repair of partial 
+anomalous pulmonary venous connections: does it matter? 
+J Thorac Cardiovasc Surg 2012;143:896-903.
+2. Mikubo M, Ikeda S, Hoshino T , et al. Pulmonary resection 
+of lung cancer in a patient with partial anomalous 
+pulmonary venous connection. Ann Thorac Surg 
+2013;95:1799-801.
+3. Kawagoe I, Hayashida M, Nozumi Y, et al. A combination 
+of a partial anomalous pulmonary venous connection 
+(PAPVC) and a lung tumor requiring pulmonary resection. 
+J Cardiothorac Vasc Anesth 2017;31:274-8.
+4. Black MD, Shamji FM, Goldstein W, et al. Pulmonary 
+resection and contralateral anomalous venous drainage: a 
+lethal combination. Ann Thorac Surg 1992;53:689-91. 
+5. T akamori S, Hayashi A, Nagamatsu Y, et al. Left partial 
+anomalous pulmonary venous connection found during a 
+lobectomy for lung cancer: report of a case. Surg T oday 
+1995;25:982-3. 
+6. T akei H, Suzuki K, Asamura H, et al. Successful 
+pulmonary resection of lung cancer in a patient with 
+partial anomalous pulmonary venous connection: report of 
+a case. Surg T oday 2002;32:899-901.
+7. Miwa K, T akamori S, Hayashi A, et al. Incidental partial 
+anomalous pulmonary venous connection in left lung 
+cancer. Jpn J Thorac Cardiovasc Surg 2004;52:189-90.
+8. Sakurai H, Kondo H, Sekiguchi A, et al. Left 
+pneumonectomy for lung cancer after correction of 
+contralateral partial anomalous pulmonary venous return. 
+Ann Thorac Surg 2005;79:1778-80.
+9. Yamada M, Koshika M, Goto S, et al. Lung cancer which 
+accompanies anomalous venous connections, pulmonary 
+and systemic-partial anomalous pulmonary venous 
+connection and persistent left superior vena cava: report of 
+2 cases. Kyobu Geka 2005;58:399-402.
+10. Galetta D, Veronesi G, Leo F , et al. Anomalous right upper 
+lobe venous drainage. Ann Thorac Surg 2006;82:2272-4.
+11. Sasaki H, Naka N, Kitahara N, et al. Right partial 
+anomalous pulmonary venous connection found during 
+lobectomy for coexisting lung cancer and tuberculosis: 
+report of a case. Clin Lung Cancer 2006;7:350-2.
+12. Smith RL 2nd, Zorn GL 3rd, Peeler BB, et al. Combined 
+bronchial sleeve resection and repair of partial anomalous 
+pulmonary venous return. J Thorac Cardiovasc Surg 
+2006;132:982-3.
+13. T anaka R, Nakazato Y, Fukura H, et al. Partial anomalous 
+pulmonary venous connection in right lung cancer: report 
+of a case. Surg T oday 2008;38:147-9.
+14. Akiba T , Marushima H, Harada J, et al. Anomalous 
+pulmonary vein detected using three-dimensional 
+computed tomography in a patient with lung cancer 
+undergoing thoracoscopic lobectomy. Gen Thorac 
+Cardiovasc Surg 2008;56:413-6.
+15. Sumida K, Kohno T , Mun M, et al. A lung granuloma with 
+partial anomalous pulmonary venous connection and bronchial 
+atresia. J Thorac Cardiovasc Surg 2008;135:449-50.
+16. Pryshchepau M, Gossot D, Strauss C, et al. Anomalous 
+partial pulmonary venous drainage. Eur J Cardiothorac 
+Surg 2009;36:933.
+17. Szkorupa M, Bohanes T , Chudáček J, et al. Anomalous 
+venous drainage of the lung to the brachiocephalic vein. 
+Eur J Cardiothorac Surg 2013;44:768.
+18. T ourmousoglou C, Kalogeropoulou C, Koletsis E, et al. 
+Right upper lobe partial anomalous pulmonary venous 
+connection. Case Rep Vasc Med 2014;2014:249896.
+19. Asakura K, Izumi Y, Kohno M, et al. Partial anomalous 
+pulmonary venous connection associated with lung cancer 
+in the same lobe: report of a case. Ann Thorac Cardiovasc 
+Surg 2014;20:457-60.
+20. Shapiro M, Bittermann C, Flores RM. Anomalous pulmonary 
+vein drainage is not a contraindication for VATS lobectomy. 
+Thorac Cardiovasc Surg 2014;62:255-7; discussion 257.
+[[p6]]
+5439
+Journal of Thoracic Disease, Vol 9, No 12 December 2017
+© Journal of Thoracic Disease. All rights reserved.
+J Thorac Dis 2017;9(12):5434-5439
+jtd.amegroups.com
+21. Liu Z, Yang R, Shao F , et al. Ipsilateral partial anomalous 
+pulmonary venous connection in right lung cancer with 
+absent right upper lobe. World J Surg Oncol 2015;13:104.
+22. Heineman DJ, van den Aardweg JG, Schreurs WH. A rare 
+case of anomalous venous drainage of the right upper lobe. 
+J Thorac Dis 2015;7:E502-4.
+23. Inafuku K, Morohoshi T , Adachi H, et al. Thoracoscopic 
+lobectomy for lung cancer in a patient with a partial 
+anomalous pulmonary venous connection: a case report. J 
+Cardiothorac Surg 2016;11:113.
+24. Kawasaki H, Oshiro Y, T aira N, et al. Partial anomalous 
+pulmonary venous connection coexisting with lung 
+cancer: a case report and review of relevant cases from the 
+literature. Ann Thorac Cardiovasc Surg 2017;23:31-5.
+Cite this article as:  Singhal K, Newton AD, Corbett C, 
+Predina JD. Management of partial anomalous pulmonary 
+venous connections in patients requiring pulmonary 
+resection: a case report and systematic review. J Thorac Dis 
+2017;9(12):5434-5439. doi:10.21037/jtd.2017.11.68

@@ -1,0 +1,796 @@
+
+[[p1]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 1
+ORIGINAL RESEARCH
+published: 28 April 2022
+doi: 10.3389/fcvm.2022.890575
+Edited by:
+Michel Pompeu Sá,
+Lankenau Institute for Medical
+Research, United States
+Reviewed by:
+Alvise Guariento,
+University of Toronto, Canada
+Jef Van den Eynde,
+University Hospitals Leuven, Belgium
+*Correspondence:
+Lianju Shen
+482061@hospital.cqmu.edu.cn
+Yuhao Wu
+2019010161@cqmu.stu.edu.cn
+Specialty section:
+This article was submitted to
+Pediatric Cardiology,
+a section of the journal
+Frontiers in Cardiovascular Medicine
+Received: 06 March 2022
+Accepted: 04 April 2022
+Published: 28 April 2022
+Citation:
+Zhao L, Pan Z, Wu C, Shen L and
+Wu Y (2022) Sutureless Technique
+for Primary Total Anomalous
+Pulmonary Venous Connection
+Repair: An Updated Meta-Analysis.
+Front. Cardiovasc. Med. 9:890575.
+doi: 10.3389/fcvm.2022.890575
+Sutureless Technique for Primary
+Total Anomalous Pulmonary Venous
+Connection Repair: An Updated
+Meta-Analysis
+Lu Zhao 1,2, Zhengxia Pan 1,2, Chun Wu 1,2, Lianju Shen 2* and Yuhao Wu 1,2*
+1 Department of Cardiothoracic Surgery, Children’s Hospital of Chongqing Medical University, Chongqing, China,
+2 Chongqing Key Laboratory of Pediatrics, Ministry of Education Key Laboratory of Child Development and Disorders, China
+International Science and Technology Cooperation Base of Child Development and Critical Disorders, National Clinical
+Research Center for Child Health and Disorders, Chongqing, China
+Background: An updated meta-analysis was performed to explore the clinical
+outcomes following the sutureless repair in patients with total anomalous pulmonary
+venous connection (TAPVC) and compare outcomes between the sutureless technique
+and conventional surgery.
+Methods: A systematic search of PubMed, Ovid-Embase, and Cochrane Library
+(CENTRAL) for relevant published studies that reported the clinical outcomes of the
+sutureless technique in children with TAPVC was performed in February 2022. The
+publication language was restricted to English.
+Results: Eleven studies were included involving 771 patients in total. Following the
+sutureless technique, the incidences of postoperative pulmonary venous obstruction
+(PVO) and reoperations due to PVO were 3.3% [95% conﬁdence interval (CI), 1.3–
+5.3%] and 1.8% (95% CI, 0.3–3.3%), respectively. The early and late mortality rates
+were 3.2% (95% CI, 1.0–5.3%) and 2.5% (95% CI, 0.7–4.3%), respectively. Compared
+with conventional surgery, the sutureless technique signiﬁcantly reduced the incidences
+of postoperative PVO [odds ratio (OR), 0.16; 95% CI, 0.08–0.33; P < 0.00001],
+reoperations due to PVO (OR, 0.25; 95% CI, 0.10–0.63; P = 0.003), and early mortality
+(OR, 0.40; 95% CI, 0.21–0.79;P = 0.008). However, no signiﬁcant difference was found
+between conventional surgery and the sutureless technique concerning late mortality
+(OR, 0.63; 95% CI, 0.13–3.00; P = 0.58).
+Conclusion: The sutureless technique is superior to conventional surgery for the
+primary repair of TAPVC concerning postoperative PVO, reoperations due to PVO, and
+early mortality. However, the level of evidence is of low quality. Prospective cohort studies
+or randomized control trials (RCTs) should be performed to evaluate the effectiveness of
+sutureless techniques for primary TAPVC repair.
+Keywords: total anomalous pulmonary venous connection, sutureless technique, congenital heart disease,
+children, surgery
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 1 April 2022 | Volume 9 | Article 890575
+[[p2]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 2
+Zhao et al. Sutureless Technique for TAPVC
+INTRODUCTION
+Total anomalous pulmonary venous connection (TAPVC) is a
+rare congenital heart malformation, accounting for nearly 1% of
+all congenital heart diseases (CHDs) (1). In patients with TAPVC,
+the pulmonary veins (PVs) are connected to the systemic venous
+system. TAPVC can occur in isolation or in combination with
+other malformations such as right atrial isomerism (RAI) and
+single ventricle (SV) (2, 3). If left untreated, TAPVC leads to a
+mortality of up to 80% in the ﬁrst year of life (4). Because of
+advances in surgical techniques and perioperative management,
+mortality is dramatically decreased (5). Using conventional
+surgery (6), a side-to-side anastomosis is achieved between the
+left atrium (LA) and pulmonary venous conﬂuence (PVC).
+However, surgical trauma to the intima of PVs is signiﬁcant
+using conventional surgery, and postoperative pulmonary venous
+obstruction (PVO), which is associated with increased mortality
+(7), remains a challenge for pediatric cardiac surgeons.
+The sutureless technique is primarily created to relieve
+secondary PVO after initial TAPVC surgery. Using the sutureless
+technique, a neo-LA is created by anastomosing the LA to
+pericardium in situ (Figure 1 ). The sutureless technique not
+only avoids mechanical stimulus to PVs but also minimizes the
+distortion of the suture line (8). In recent years, to prevent
+potentially postoperative PVO, the sutureless technique, as a
+prophylactic method, has been adopted for the primary repair
+of TAPVC (1, 5, 6). However, based on current evidence,
+the outcomes of the sutureless technique are not completely
+promising (9, 10).
+In 2018, Wu et al. (6) published a meta-analysis comparing
+the sutureless technique with conventional surgery for TAPVC.
+They have found that the sutureless technique can reduce
+postoperative PVO and reoperations due to PVO. However,
+several two-arm studies comparing the sutureless technique
+versus conventional repair have been subsequently published.
+At the same time, the current evidence regarding the outcomes
+of the sutureless technique versus conventional surgery remains
+inconclusive. Therefore, the present study aimed to synthesize
+the evidence with respect to clinical outcomes following primary
+sutureless repair.
+MATERIALS AND METHODS
+The protocol of this study was registered on PROSPERO website
+(CRD42022312156). In this study, we aimed to perform an
+updated meta-analysis and identify potential factors that aﬀected
+the clinical outcomes following primary sutureless repair in
+patients with TAPVC. Our study was performed following the
+updated Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses (PRISMA) reporting guidelines (11).
+Literature Search
+In February 2022, a systematic search of the Ovid-Embase,
+PubMed, and the Cochrane Library (CENTRAL) for the
+relevant published studies that reported the outcomes of the
+sutureless technique in children with TAPVC was performed. The
+publication language was restricted to English. The key search
+strategy is displayed as follows:
+#1 Total anomalous pulmonary venous connection OR total
+anomalous pulmonary venous drainage
+#2 Sutureless technique OR sutureless surgery OR sutureless
+repair
+#3 #1 AND #2
+For additional eligible studies, we manually reviewed
+references from our included studies and other relevant
+literature. Two reviewers (LZ and YW) independently searched
+all the publications in the literature.
+Study Selection
+The speciﬁc framework in terms of Population, Intervention,
+Comparator, Outcome, and Study Design (PICOS) was
+constructed as follows: (P) patients with untreated TAPVC;
+(I) the sutureless technique; (C) conventional surgery; (O)
+postoperative PVO, reoperations due to PVO, and early and
+mortality; and (S) case series, cohort or case-controlled studies.
+We included a study in this meta-analysis when any one
+of the following criteria was met: (1) single-arm case series
+reporting clinical outcomes regarding the primary use of
+sutureless technique for patients with TAPVC; (2) two-arm case-
+controlled studies, cohort studies, or randomized controlled trials
+(RCTs) comparing the sutureless technique with conventional
+surgery for TAPVC.
+We excluded a study from this meta-analysis when any one of
+the following criteria was met: (1) multiple studies were based on
+the same population and study period; (2) the sample size of the
+involved patients was fewer than three cases; (3) studies reported
+the secondary use of sutureless technique for postoperative PVO;
+(4) studies reported the use of sutureless technique for congenital
+pulmonary venous stenosis; (5) outcomes (i.e., postoperative
+PVO, mortality, and reoperations) regarding sutureless technique
+for TAPVC were not reported. When several studies were based
+on the same patients and study period, the study with the most
+complete dataset was included. Reviews, editorial materials, and
+conference abstracts were also excluded. Two reviewers (CW and
+YW) independently screened all the publications included in this
+study. With the assistance of a third reviewer (ZP), disagreements
+on the eligibility of the published studies were resolved.
+Data Extraction
+The data were extracted by both reviewers (LZ and YW)
+independently, and disagreement was resolved with the assistance
+of a third reviewer (LS). The following data were extracted: (1)
+baseline characteristics of included studies: ﬁrst author, year of
+publication, study area, types of study design, sample size of
+the included population, category of TAPVC, surgical approach,
+operative age and weight, preoperative PVO, cardiopulmonary
+bypass (CPB) duration, aortic cross clamp (ACC) time, and
+the follow-up period; (2) primary outcome: postoperative PVO;
+(3) secondary outcomes: reoperations due to PVO and early
+and late mortality.
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 2 April 2022 | Volume 9 | Article 890575
+[[p3]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 3
+Zhao et al. Sutureless Technique for TAPVC
+FIGURE 1 | Operative illustrations of primary sutureless repair for TAPVC. (A) Illustration of TAPVC. (B) The left atrial wall is anastomosed to the posterior
+pericardium. LA, left atrium; PA, pulmonary artery; PVC, pulmonary venous conﬂuence; PV, pulmonary vein.
+Deﬁnition of Variables
+Early mortality was deﬁned as the postoperative death before
+discharge or within a month after surgery. Late death was
+deﬁned as death after discharge. Postoperative PVO was deﬁned
+as anastomotic stricture or peripheral stenosis of individual
+PVs after primary surgery. Reoperations due to PVO referred
+to operations including surgery and interventional treatment
+performed for PVO.
+Quality Assessment and Risk of Bias
+Quality assessment was performed by two reviewers
+(LZ and YW) independently. Any discrepancies in the
+assessed quality were resolved by a third reviewer (LS) by
+consensus. The risk of bias (RoB) for the single-arm case
+series was evaluated using the methodological index for
+non-randomized studies (MINORS) guidelines (12). The
+RoB of case-controlled studies was evaluated using the
+risk of bias in non-randomized studies of interventions
+(ROBINS-I) tool (13). Each study was assessed in seven
+domains, and signaling questions were framed to evaluate RoB
+within each domain.
+Statistical Analysis
+Statistical analyses were performed using Stata 12.0 , Revman
+5.3, and OpenMetaAnalyst software. The χ2-Q statistics and the
+I2 statistics were used to assess heterogeneity, with I2 > 50%
+indicating signiﬁcant heterogeneity.
+To investigate the clinical outcomes of the sutureless
+technique, we mainly included and analyzed single-arm case
+series in this setting. We performed meta-analyses of the
+prevalence (early mortality, late mortality, postoperative PVO,
+and reoperations due to PVO) using the inverse variance
+method of DerSimonian–Laird (D + L Method). We adopted
+random-eﬀect models because of the likelihood of the inter-study
+heterogeneity of single-arm case series.
+To compare the clinical outcomes of the sutureless technique
+versus conventional surgery, we included two-arm case-
+controlled studies in this setting. The odds ratio (OR) was
+adopted for dichotomous data. If the I2 statistic was greater
+than 50%, a randomized-eﬀect model was adopted; otherwise, a
+ﬁxed-eﬀect model was adopted for data synthesis.
+To ﬁnd the sources of heterogeneity, meta-regression
+and subgroup analyses were used. Univariate meta-regression
+analysis was performed using random models with continuous
+covariates including operative age and weight, CPB duration,
+ACC time, preoperative PVO, and infracardiac or mixed
+TAPVC percentages. Subgroup analysis was conducted based
+on dichotomous covariates including operative age, study area,
+year of publication and percentages of preoperative PVO,
+and infracardiac or mixed TAPVC. P-values for interaction
+were calculated to compare diﬀerences between subgroups.
+Funnel plots were produced to assess the publication bias.
+Sensitivity analysis was performed to assess the robustness of
+our synthesized results. Sensitivity analysis was performed using
+the leave-one-out method. A P-value < 0.05 was considered
+statistically signiﬁcant.
+RESULTS
+Characteristics of the Included Studies
+and Quality Assessment
+A total of 131 studies were obtained from the electronic databases
+initially. However, no additional studies were identiﬁed manually
+on the reference lists of the retained studies. Twenty-four studies
+were deemed qualiﬁed for the full-text assessment, of which
+13 studies were excluded ( Supplementary Table 1). Eventually,
+this systematic review was based on 11 studies (8, 14–23). The
+ﬂowchart depicting the search strategy is shown in Figure 2.
+Four studies were single-arm case series (14–17) that reported
+the clinical outcomes of the sutureless technique for children with
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 3 April 2022 | Volume 9 | Article 890575
+[[p4]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 4
+Zhao et al. Sutureless Technique for TAPVC
+FIGURE 2 | Flow diagram according to the updated Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) protocol recommendations.
+TAPVC (Table 1). Seven studies were case-controlled studies (8,
+18–23) comparing the sutureless technique with conventional
+surgery, and no cohort study or RCT was identiﬁed based on
+our literature search. Finally, 771 patients were included in this
+study, of whom 315 patients were in the sutureless technique
+group and 456 patients in conventional surgery group. All the
+included studies were used for quantitative analysis. Of the 11
+studies, 3 studies originated from North America or Europe, and
+the remaining studies were from Asia.
+For single-arm studies (14–17), we assessed RoB in eight
+items using the MINORS guideline. The scoring approaches
+are described in Supplementary Table 2 . Two studies were
+deemed moderate quality (14, 17). The remaining two studies
+were deemed high quality (15, 16). For two-arm case controlled
+studies, we assessed RoB in seven domains using the ROBINS-
+I tool. The scoring approaches are described in Supplementary
+Table 3. Only two studies used propensity score matching to
+adjust for confounders and avoid selection bias (19, 23). These
+two studies were deemed high quality (19, 23). The remaining
+ﬁve studies were deemed moderate quality (8, 18, 20–22).
+Outcomes of the Sutureless Technique
+Based on Single-Arm Analysis
+Primary Outcome: Postoperative Pulmonary Venous
+Obstruction
+One study (20) did not report postoperative PVO following the
+sutureless repair, therefore this meta-analysis was based on 10
+studies (8, 14–19, 21–23). The pooled estimate of postoperative
+PVO was 3.3% [95% conﬁdence interval (CI), 1.3–5.3%; I2 = 0;
+Figure 3A] following the sutureless repair.
+Secondary Outcome: Reoperations Due to
+Pulmonary Venous Obstruction
+One study (23) did not report reoperations due to PVO following
+the sutureless repair, therefore this meta-analysis was based on
+10 studies (8, 14–22). The pooled estimate of postoperative PVO
+was 1.8% (95% CI, 0.3–3.3%; I2 = 0; Figure 3B ) following the
+sutureless repair.
+Secondary Outcome: Early Death
+This meta-analysis was based on 11 studies (8, 14–23). The pooled
+estimate of early death was 3.2% (95% CI, 1.0–5.3%, I2 = 12.6%,
+Figure 3C) following the sutureless repair.
+Secondary Outcome: Late Death
+This meta-analysis was based on 11 studies (8, 14–23). The pooled
+estimate of late death was 2.5% (95% CI, 0.7–4.3%; I2 = 7.7%;
+Figure 3D) following the sutureless repair.
+Subgroup Analysis
+Subgroup analysis of the primary outcome was conducted
+based on the operative age, study area, year of publication
+and percentages of preoperative PVO, and infracardiac or
+mixed TAPVC ( Table 2 ). However, in the subgroup analysis
+of postoperative PVO, no signiﬁcant diﬀerences were found
+between diﬀerent subgroups.
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 4 April 2022 | Volume 9 | Article 890575
+[[p5]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 5
+Zhao et al. Sutureless Technique for TAPVC
+TABLE 1 | Baseline characteristics of the included studies.
+First author, year of
+publication, study area
+Study design Operative
+approaches
+Study size
+(n)
+Category of TAPVC
+(n)
+Mean or median
+operative age (days)
+Preoperative PVO
+(n)
+Follow-up period
+(months)
+Yoshimura, 2010, Japan
+(14)
+Case series Sutureless
+technique
+3 Supracardiac 1
+Infracardiac 2
+12.7 3 15
+Azakie, 2011, United States
+(15)
+Case series Sutureless
+technique
+18 Supracardiac 10
+Infracardiac 5 Cardiac 1
+Mixed 2
+18 14 34
+Mueller, 2013, Switzerland
+(16)
+Case series Sutureless
+technique
+7 Supracardiac 4
+Infracardiac 3
+6.4 3 54
+Jung, 2016, Korea (17) Case series Sutureless
+technique
+21 Supracardiac 9
+Infracardiac 10 Mixed 2
+21 13 3.6
+Lo Rito, 2015, Canada (18) Case-controlled
+studies
+Sutureless
+technique
+69 Supracardiac 32
+Infracardiac 16 Cardiac
+6 Mixed 15
+18 33 76.8
+Conventional
+surgery
+126 Supracardiac 59
+Infracardiac 20 Cardiac
+33 Mixed 14
+36 44
+Zhang, 2016, China (19) Case-controlled
+studies
+Sutureless
+technique
+70 Supracardiac 57
+Infracardiac 9 Mixed 4
+68 19 12
+Conventional
+surgery
+70 Supracardiac 58
+Infracardiac 7 Mixed 5
+55 19
+Zhu, 2019, China (20) Case-controlled
+studies
+Sutureless
+technique
+20 Supracardiac 198 NA 36
+Conventional
+surgery
+23 Supracardiac 202
+Shi, 2021, China (8) Case-controlled
+studies
+Sutureless
+technique
+15 Infracardiac 17 9 16
+Conventional
+surgery
+67 Infracardiac 27 36 35
+Liufu, 2021, China (21) Case-controlled
+studies
+Sutureless
+technique
+36 Infracardiac 21 21 12
+Conventional
+surgery
+27 Infracardiac 15 13
+Qiu, 2021, China (22) Case-controlled
+studies
+Sutureless
+technique
+43 Supracardiac 60 13 65
+Conventional
+surgery
+130 Supracardiac 90 39
+Xia, 2021, China (23) Case-controlled
+studies
+Sutureless
+technique
+13 NA 90 13 85
+Conventional
+surgery
+13 90 13
+TAPVC, total anomalous pulmonary venous connection NA, not available.
+Meta-Regression Analysis
+Meta-regression analysis of the primary outcome based on
+single-arm analysis was conducted based on the operative
+age and weight, percentage of preoperative PVO, and
+infracardiac or mixed TAPVC, CPB duration, and ACC
+time ( Supplementary Table 4 ). In the univariate meta-
+regression analysis of postoperative PVO, no signiﬁcant
+risk factors for postoperative PVO were identiﬁed.
+Therefore, the multivariate meta-regression analysis
+was not performed.
+Sensitivity Analysis
+To assess the robustness of our synthesized results, we performed
+sensitivity analyses. We performed a sensitivity analysis using
+the leave-one-out method. The overall estimates were robust
+and not overinﬂuenced by any of the included studies
+(Supplementary Figure 1).
+The Sutureless Technique Versus
+Conventional Surgery Based on
+Two-Arm Studies
+Primary Outcome: Postoperative Pulmonary Venous
+Obstruction
+A total of six studies (8, 18, 19, 21–23) compared the incidence
+of postoperative PVO after repair using both procedures, and
+they were involved in this meta-analysis. The meta-analysis
+indicated that the sutureless technique was associated with a
+lower incidence of postoperative PVO than conventional surgery
+(OR, 0.16; 95% CI, 0.08–0.33; P < 0.00001; I2 = 33%; Figure 4A).
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 5 April 2022 | Volume 9 | Article 890575
+[[p6]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 6
+Zhao et al. Sutureless Technique for TAPVC
+FIGURE 3 | Forest plots of postoperative pulmonary venous obstruction (PVO), early and late mortality, and reoperations due to PVO after sutureless technique.
+(A) Forest plot of incidence of postoperative PVO. (B) Forest plot of reoperations due to PVO. (C) Forest plot of early mortality. (D) Forest plot of late mortality.
+TABLE 2 | Subgroup analysis of primary outcomes in patients with TAPVC following sutureless repair based on single-arm analysis.
+Primary outcomes Subgroups Studies ( n) Pooled estimate (95% CI) Heterogeneity ( I2) P-value P for interaction
+Postoperative PVO Average or median age
+<30 days 7 3.8% (0.8–6.8%) 0 0.013 0.64
+≥30 days 3 2.8% (0.2–5.5%) 0 0.037
+Study area
+Asia 7 2.8% (0.5–5.0%) 0 0.015 0.33
+North America or Europe 3 5.3% (0.8–9.8%) 0 0.021
+Year of publication*
+Before 2016 5 4.0% (0.1–6.9%) 0 0.008 0.52
+After 2016 5 2.7% (0–5.4%) 0 0.054
+Preoperative PVO (%)
+≥50% 7 3.7% (0.1–6.3%) 0 0.007 0.66
+<50% 3 2.8% ( −0.3–5.8%) 0 0.073
+Infracardiac or mixed TAPVC (%)
+≥50% 5 2.9% ( −0.3–6.1%) 0 0.08 0.77
+<50% 5 3.5% (0.1–6.0%) 0 0.007
+PVO, pulmonary venous obstruction.
+*We compared pooling results of the last 5 years to those of 5 years ago.
+Because of the limited number of included studies, funnel plot
+was not produced.
+Secondary Outcome: Reoperations Due to
+Pulmonary Venous Obstruction
+A total of six studies (8, 18–22) compared the incidence of
+reoperations due to PVO, and they were involved in this
+meta-analysis. The meta-analysis suggested that the sutureless
+technique was associated with a lower incidence of reoperations
+due to PVO (OR, 0.25; 95% CI, 0.10–0.63; P = 0.003; I2 = 0;
+Figure 4B).
+Secondary Outcome: Early Death
+A total of seven studies (8, 18–23) compared the early mortality
+after repair using both procedures, and they were involved in
+this meta-analysis. The meta-analysis showed that the sutureless
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 6 April 2022 | Volume 9 | Article 890575
+[[p7]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 7
+Zhao et al. Sutureless Technique for TAPVC
+FIGURE 4 | Forest plot of odds ratio (OR) of post-operative PVO, early and late mortality, and reoperations due to PVO. (A) Forest plot of OR of postoperative PVO
+and pooled estimate OR of 0.16 in favor of the sutureless technique. (B) Forest plot of OR of reoperations due to PVO and pooled estimate OR of 0.25 in favor of the
+sutureless technique. (C) Forest plot of OR of early mortality and pooled estimate OR of 0.40 in favor of the sutureless technique. (D) Forest plot of OR of late
+mortality and no statistical difference was found.
+technique was associated with a lower early mortality than
+conventional surgery (OR, 0.40; 95% CI, 0.21–0.79; P = 0.008;
+I2 = 0, Figure 4C).
+Secondary Outcome: Late Death
+A total of six studies (8, 18–22) compared the late mortality after
+repair of both procedures, and they were involved in this meta-
+analysis. This meta-analysis revealed that the late mortality was
+not signiﬁcantly diﬀerent between the sutureless technique and
+conventional surgery (OR, 0.63; 95% CI, 0.13–3.00; P = 0.58;
+I2 = 57%; Figure 4D).
+Subgroup Analysis
+Because only one two-arm study was originated from the
+North America (18), subgroup analysis based on the study
+area was not performed. Therefore, subgroup analysis of the
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 7 April 2022 | Volume 9 | Article 890575
+[[p8]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 8
+Zhao et al. Sutureless Technique for TAPVC
+TABLE 3 | Subgroup analysis of postoperative PVO based on two-arm studies*.
+Primary outcomes Subgroups Studies ( n) OR (95% CI) Heterogeneity ( I2) P-value P for interaction
+Postoperative PVO Average or median age
+<30 days 3 0.18 (0.08–0.42) 70.6% <0.0001 0.72
+≥30 days 3 0.14 (0.04–0.44) 0 0.001
+Year of publication&
+Before 2016 2 0.35 (0.15–0.82) 16.4% 0.016 0.03
+After 2016 4 0.06 (0.02–0.22) 0 <0.0001
+Preoperative PVO (%)
+≥30% 2 0.04 (0.01–0.30) 0 0.002 0.12
+<30% 4 0.22 (0.11–0.46) 32.2% <0.0001
+Infracardiac or mixed TAPVC (%)
+≥50% 2 0.03 (0.01–0.22) 0 0.001 0.08
+<50% 3 0.28 (0.13–0.61) 3% 0.001
+*Among included six two-arm studies, only one study was from United States, so the subgroup analysis based on study area was not performed.
+PVO, pulmonary venous obstruction.
+&We compared pooling results of the last 5 years to those of 5 years ago.
+primary outcome was conducted based only on the operative
+age, year of publication and percentage of preoperative PVO,
+and infracardiac or mixed TAPVC ( Table 3 ). We found that
+compared with studies published earlier than 2016, the sutureless
+technique signiﬁcantly reduced risks for postoperative PVO in
+studies published during the last 5 years (P for interaction = 0.03).
+Meta-Regression Analysis
+Meta-regression analysis of the primary outcome based on two-
+arm studies was conducted based on the operative age and weight,
+percentages of preoperative PVO, and infracardiac or mixed
+TAPVC, CPB duration, and ACC time (Supplementary Table 5).
+In the univariate meta-regression analysis of postoperative
+PVO, no signiﬁcant risk factors for postoperative PVO were
+identiﬁed. Thus, the multivariate meta-regression analysis
+was not performed.
+Sensitivity Analysis
+We performed a sensitivity analysis using the leave-one-
+out method. The overall OR of early mortality changed
+signiﬁcantly after excluding one study performed by Lo Rito
+et al. (18). Compared with conventional surgery, this study
+reported a very low early mortality following the sutureless
+repair. The overall ORs of the other three outcomes were
+robust and not overinﬂuenced by any of the included studies
+(Supplementary Figure 2).
+DISCUSSION
+Postoperative PVO continues to be the most signiﬁcant
+complication in patients following TAPVC repair. For the last
+two decades, technical modiﬁcations for TAPVC repair have
+been focused on reducing the incidence of postoperative PVO
+(18, 24). The rationale underlying primary sutureless repair is to
+avoid the direct mechanical stimulus to the PVs, and the main
+disadvantage of the sutureless technique is potential bleeding
+from the gap between the pericardium and the PVC into the
+posterior mediastinum. However, only one actual patient (14)
+had with massive bleeding in our included studies. In the present
+study, we mainly found that based on the latest evidence, the
+incidence of postoperative PVO was 3.3% following primary
+sutureless repair in patients with TAPVC. At the same time,
+after primary sutureless repair, only 1.8% of included patients
+required reoperations due to PVO. Early and late mortality
+rates were 3.2 and 2.5%, respectively. Furthermore, we also
+compared the sutureless technique with conventional surgery.
+We observed that compared with conventional surgery, the
+sutureless technique was associated with lower incidences of
+postoperative PVO and reoperations due to PVO. The sutureless
+technique also eﬀectively reduced early mortality. However, the
+sutureless technique was not superior to conventional surgery
+regarding long-term survival.
+Using subgroup and meta-regression analyses, we aimed
+to identify the sources of heterogeneity and potential factors
+for postoperative PVO. However, based on single-arm studies,
+subgroup analysis ( Table 2 ) and meta-regression analysis
+(Supplementary Table 4) did not identify any signiﬁcant factors
+for postoperative PVO. Based on two-arm studies, compared
+with studies published earlier than 2016, the sutureless technique
+signiﬁcantly reduced risks for postoperative PVO in studies
+published during the last 5 years ( Table 3). In the literature,
+concerning postoperative PVO and early mortality, the use of
+sutureless technique in supracardiac or cardiac TAPVC was not
+completely promising (18, 20, 22) suggesting that the sutureless
+technique might not be beneﬁcial for patients with unobstructed
+PVs. Although we aimed to explore the eﬀectiveness of the
+sutureless repair for supracardiac or cardiac TAPVC, we did
+not identify signiﬁcant diﬀerences between diﬀerent subtypes of
+TAPVC (Table 3).
+Compared with a previous meta-analysis (6), we observed a
+signiﬁcant reduction in early mortality following the sutureless
+repair based on the latest evidence. Additionally, postoperative
+PVO and reoperations due to PVO following the sutureless repair
+were also alleviated. Furthermore, based on current evidence,
+we observed a lower early mortality with an OR of 0.40
+favoring the sutureless technique. However, similar to previous
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 8 April 2022 | Volume 9 | Article 890575
+[[p9]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 9
+Zhao et al. Sutureless Technique for TAPVC
+ﬁndings, late mortality was still not signiﬁcantly diﬀerent between
+conventional surgery and the sutureless repair.
+According to our inclusive criteria, we excluded several studies
+originating from the same institutions. Two studies (5, 25) from
+The Hospital for Sick Children of Toronto, one study (26) from
+the Guangdong Cardiovascular Institute, and one multicenter
+study (1) were excluded to avoid overlapping of data. Although
+the multicenter study performed by Shi et al. (1) had the largest
+TAPVC cohort, this study was excluded because it overlapped
+with the other two included studies (8, 19).
+This updated meta-analysis explored the outcomes of primary
+sutureless repair, and compared the sutureless technique with
+conventional surgery for TAPVC. We acknowledged several
+limitations of this meta-analysis. First, all of the included studies
+were retrospective studies; consequently, the level of evidence
+was of low quality. Second, the baseline characteristics of
+our included two-arm studies (8, 18, 22) diﬀered signiﬁcantly
+concerning the TAPVC type, operative age and weight. Thus,
+the overall quality of this meta-analyses was compromised.
+Third, we only evaluated postoperative PVO, reoperations due
+to PVO, and early and late mortality. Outcomes such as
+postoperative ventilation and intensive care unit (ICU) stay were
+generally inﬂuenced by institutional protocols and perioperative
+management which were not necessarily associated with the
+eﬀectiveness of surgical approaches. Therefore, we did not
+conduct a meta-analysis of these outcomes. Forth, we did not
+use rarely reported terms, such as TAPVC, TAPVD, or total
+anomalous pulmonary venous return, for the literature search.
+Therefore, using our search strategy might neglect some eligible
+studies. Finally, although SV and RAI were frequently observed in
+TAPVC, these covariates were not included in subgroup or meta-
+regression analysis because only three studies (15–17) reported
+pre-existing SV or RAI.
+CONCLUSION
+In conclusion, following the sutureless technique, the incidences
+of postoperative PVO and reoperations due to PVO were 3.3
+and 1.8%, respectively. Early and late mortality rates were 3.2
+and 2.5%, respectively. Compared with conventional surgery,
+the sutureless technique signiﬁcantly reduces postoperative PVO,
+reoperations due to PVO, and early mortality. However, there was
+no statistical diﬀerence between conventional surgery and the
+sutureless technique regarding late mortality. Prospective cohort
+studies or RCTs should be performed to assess the eﬀectiveness of
+the sutureless technique for TAPVC repair.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors upon request.
+ETHICS STATEMENT
+Ethical review and approval was not required for the study
+on human participants in accordance with the local legislation
+and institutional requirements. Written informed consent for
+participation was not required for this study in accordance with
+the national legislation and the institutional requirements.
+AUTHOR CONTRIBUTIONS
+LZ and YW conceived the study, designed the protocol,
+and collected the data. YW, ZP , and LS analyzed the
+data with input from CW. LZ and LS drafted the
+manuscript which was revised following critical review
+by all authors. All authors read and approved the ﬁnal
+manuscript.
+ACKNOWLEDGMENTS
+We thank AJE website (www.AJE.com) for language edition. We
+also thank Y anqiu Wang and Yiwei Zhang for their kind help
+when preparing the primary version of this research.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fcvm.
+2022.890575/full#supplementary-material
+Supplementary Figure 1 | Sensitivity analysis of incidence of postoperative PVO
+based on single-arm analysis. (A) Sensitivity analysis of incidence of postoperative
+PVO. (B) Sensitivity analysis of early mortality. (C) Sensitivity analysis of late
+mortality. (D) Sensitivity analysis of reoperations due to PVO.
+Supplementary Figure 2 | Sensitivity analysis of OR of postoperative PVO based
+on two-arm comparisons. (A) Sensitivity analysis of incidence of postoperative
+PVO. (B) Sensitivity analysis of early mortality. (C) Sensitivity analysis of late
+mortality. (D) Sensitivity analysis of reoperations due to PVO.
+REFERENCES
+PM?r?fK?y?yK?b?iK?n?x?K?g?gK?m?yK??M?s?
+pulmonary venous connection: the current management strategies in a
+pediatric cohort of 768 patients. Circulation. (2017) 135:48–58. doi: 10.1161/
+CIRCULATIONAHA.116.023889
+2. Hoashi T, Kagisaki K, Oda T, Kitano M, Kurosaki K, Shiraishi I, et al.
+Long-term results of treatments for functional single ventricle associated
+with extracardiac type total anomalous pulmonary venous connection. Eur J
+Cardiothorac Surg. (2013) 43:965–70. doi: 10.1093/ejcts/ezs594
+3. Yun TJ, Al-Radi OO, Adatia I, Caldarone CA, Coles JG, Williams WG,
+et al. Contemporary management of right atrial isomerism: eﬀect of evolving
+therapeutic strategies. J Thorac Cardiovasc Surg. (2006) 131:1108–13. doi: 10.
+1016/j.jtcvs.2005.11.036
+4. Burroughs JT, Edwards JE. Total anomalous pulmonary venous connection.
+Am Heart J. (1960) 59:913–31.
+5. Y anagawa B, Alghamdi AA, Dragulescu A, Viola N, Al-Radi OO, Mertens LL,
+et al. Primary sutureless repair for “simple” total anomalous pulmonary venous
+connection: midterm results in a single institution. J Thorac Cardiovasc Surg.
+(2011) 141:1346–54. doi: 10.1016/j.jtcvs.2010.10.056
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 9 April 2022 | Volume 9 | Article 890575
+[[p10]]
+fcvm-09-890575 April 22, 2022 Time: 12:11 # 10
+Zhao et al. Sutureless Technique for TAPVC
+6. Wu Y , Xin L, Zhou Y , Kuang H, Jin X, Li Y , et al. Is sutureless technique
+beneﬁcial in the primary repair of total anomalous pulmonary venous
+connection? A systematic review and meta-analysis. Pediatr Cardiol. (2019)
+40:881–91. doi: 10.1007/s00246-018-1948-y
+7. Karamlou T, Gurofsky R, Al Sukhni E, Coles JG, Williams WG, Caldarone CA,
+et al. Factors associated with mortality and reoperation in 377 children with
+total anomalous pulmonary venous connection. Circulation. (2007) 115:1591–
+8. doi: 10.1161/CIRCULATIONAHA.106.635441
+8. Shi G, Zhu F , Wen C, Qiu L, Zhang H, Zhu Z, et al. Single-institution
+outcomes of surgical repair of infracardiac total anomalous pulmonary venous
+connection. J Thorac Cardiovasc Surg. (2021) 161:1408–1417.e2. doi: 10.1016/
+j.jtcvs.2020.06.023
+9. Tremblay C, Yoo SJ, Mertens L, Seed M, Jacques F , Slorach C, et al. Sutureless
+versus conventional pulmonary vein repair: a magnetic resonance pilot study.
+Ann Thorac Surg. (2018) 105:1248–54. doi: 10.1016/j.athoracsur.2017.11.015
+10. Agematsu K, Okamura T, Takiguchi Y , Harada Y. Pulmonary vein obstruction
+after primary sutureless pericardial repair of a total anomalous pulmonary
+venous connection. Interact Cardiovasc Thorac Surg. (2018) 27:624–5. doi:
+10.1093/icvts/ivy096
+11. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoﬀmann TC, Mulrow
+CD, et al. The PRISMA 2020 statement: an updated guideline for reporting
+systematic reviews. BMJ. (2021) 372:n71. doi: 10.1136/bmj.n71
+12. Slim K, Nini E, Forestier D, Kwiatkowski F , Panis Y , Chipponi J.
+Methodological index for non-randomized studies (minors): development and
+validation of a new instrument. ANZ J Surg. (2003) 73:712–6. doi: 10.1046/j.
+1445-2197.2003.02748.x
+13. Sterne JAC, Hernan MA, Reeves BC, Savovi ´c J, Berkman ND, Viswanathan M,
+et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of
+interventions. BMJ. (2016) 355:i4919. doi: 10.1136/bmj.i4919
+14. Yoshimura N, Oshima Y , Henaine R, Matsuhisa H. Sutureless pericardial
+repair of total anomalous pulmonary venous connection in patients with
+right atrial isomerism. Interact Cardiovasc Thorac Surg. (2010) 10:675–8. doi:
+10.1510/icvts.2009.221440
+15. Azakie A, Lavrsen MJ, Johnson NC, Sapru A. Early outcomes of primary
+sutureless repair of the pulmonary veins. Ann Thorac Surg. (2011) 92:666–71.
+doi: 10.1016/j.athoracsur.2011.04.024
+16. Mueller C, Dave H, Prêtre R. Primary correction of total anomalous
+pulmonary venous return with a modiﬁed sutureless technique. Eur J
+Cardiothorac Surg. (2013) 43:635–40. doi: 10.1093/ejcts/ezs376
+17. Jung HJ, Bang JH, Park CS, Park JJ, Im YM, Yun TJ. Individual pulmonary
+veins outgrow somatic growth after primary sutureless repair for total
+anomalous pulmonary venous drainage. Pediatr Cardiol. (2016) 37:290–4.
+doi: 10.1007/s00246-015-1276-4
+18. Lo Rito M, Gazzaz T, Wilder T, Saedi A, Chetan D, Van Arsdell GS, et al.
+Repair type inﬂuences mode of pulmonary vein stenosis in total anomalous
+pulmonary venous drainage. Ann Thorac Surg. (2015) 100:654–62. doi: 10.
+1016/j.athoracsur.2015.04.121
+19. Zhang C, Ou Y , Zhuang J, Chen J, Nie Z, Ding Y. Comparison of sutureless
+and conventional techniques to repair total anomalous pulmonary venous
+connection. Semin Thorac Cardiovasc Surg. (2016) 28:473–84. doi: 10.1053/
+j.semtcvs.2016.05.009
+20. Zhu Y , Qi H, Jin Y. Comparison of conventional and primary sutureless
+surgery for repairing supracardiac total anomalous pulmonary venous
+drainage. J Cardiothorac Surg. (2019) 14:34. doi: 10.1186/s13019-019-0853-7
+21. Liufu R, Liu X, Liu T, Chen J, Wen S, Cen J, et al. Primary sutureless
+repair for infracardiac total anomalous pulmonary venous connection. Eur J
+Cardiothorac Surg. (2021) 59:959–66. doi: 10.1093/ejcts/ezaa470
+22. Qiu ZH, Liao LM, Xiao J, Chen XF , Liao DS, Tang MR, et al. A modiﬁed
+approach with caval transection for supracardiac total anomalous pulmonary
+venous connection: comparison between conventional and sutureless surgery
+in 173 patients. Pediatr Cardiol. (2021) 42:1002–9. doi: 10.1007/s00246-021-
+02573-6
+23. Xia J, Ma K, Ge H, Hu X, Du J, Wu G, et al. Outcomes of surgical repair
+of total anomalous pulmonary venous drainage: role of primary sutureless
+technique. Pediatr Cardiol. (2021) 42:1316–23. doi: 10.1007/s00246-021-026
+14-0
+24. Najm HK, Caldarone CA, Smallhorn J, Coles JG. A sutureless technique for the
+relief of pulmonary vein stenosis with the use of in situ pericardium. J Thorac
+Cardiovasc Surg. (1998) 115:468–70. doi: 10.1016/S0022-5223(98)70294-6
+25. Honjo O, Atlin CR, Hamilton BC, Al-Radi O, Viola N, Coles JG, et al. Primary
+sutureless repair for infants with mixed total anomalous pulmonary venous
+drainage. Ann Thorac Surg. (2010) 90:862–8. doi: 10.1016/j.athoracsur.2010.
+05.007
+26. Ji E, Qiu H, Liu X, Xie W, Liufu R, Liu T, et al. The outcomes of total
+anomalous pulmonary venous connection in neonates-10-year experience at a
+single center. Front Cardiovasc Med. (2021) 8:775578. doi: 10.3389/fcvm.2021.
+775578
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+Publisher’s Note:All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their aﬃliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Copyright © 2022 Zhao, Pan, Wu, Shen and Wu. This is an open-access article
+distributed under the terms of the Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) and the copyright owner(s) are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice. No
+use, distribution or reproduction is permitted which does not comply with these terms.
+Frontiers in Cardiovascular Medicine | www.frontiersin.org 10 April 2022 | Volume 9 | Article 890575

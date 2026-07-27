@@ -1,0 +1,1409 @@
+
+[[p1]]
+Downloadedfromhttp://journals.lww.com/asaiojournalbyBhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8KKGKV0Ymy+78=on03/02/2022
+Downloadedfromhttp://journals.lww.com/asaiojournalbyBhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8KKGKV0Ymy+78=on03/02/2022
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+827
+ASAIO Journal 2021 Guidelines
+*Cardio-Thoracic Surgery Department, Maastricht University 
+Medical Centre (MUMC), Cardiovascular Research Institute Maastricht 
+(CARIM), Maastricht, The Netherlands; †Adult Intensive Care Unit, The 
+Prince Charles Hospital, Brisbane, Queensland, Australia; ‡Cardio-
+Thoracic Intensive Care Unit, National University Hospital, Singapore, 
+Singapore; §Medical Intensive Care Unit, Hopital La Pitie’-Salpetriere, 
+University Pierre et Marie Curie, Paris, France; ¶Intensive Care 
+Unit, The Alfred Hospital, Monash University, Melbourne, Victoria, 
+Australia; ║Cardiac Surgery Unit, Gasthuisberg University Hospital, 
+Catholic University, Leuven, Belgium; #Section of Cardiac Surgery, 
+University of Michigan, Ann Arbor, Michigan; **Department of 
+Anesthesia and Intensive Care, IRCCS ISMETT, UPMC, Palermo, Italy; 
+††Department of Cardiovascular Surgery, Hospital of the University 
+of Pennsylvania, Philadelphia, Pennsylvania; ‡‡2nd Department of 
+Medicine, Cardiovascular Medicine, General University Hospital, 
+Charles University, Prague, Czech Republic; §§Cardiac Intensive 
+Care, Beijing Anzhem Hospital, Capital Medical University, Beijing, 
+China; ¶¶Department of Cardiac Surgery, Heinrich-Heine-University, 
+Düsseldorf, Germany; ||||Unidad ECMO, Clínica Las Condes, Santiago, 
+Chile; ##Intensive Care Unit, Utrecht University Medical Centre, 
+Utrecht, The Netherlands; ***CRPH Cardiovascular & Respiratory 
+Physiology Group, TechMed Centre, Faculty of Science & Technology, 
+University of Twente, Enschede, The Netherlands; ††† Division 
+of Pulmonology, Allergy and Critical Care, NewYork Presbiterian 
+Hospital, Columbia University, New York, New York; ‡‡‡Cardio-
+Thoracic and Vascular Anesthesia and ICU Department, IRCCS 
+Policlinico San Donato Hospital, Milan, Italy; §§§Minneapolis Heart 
+Institute Foundation, Abbot Northwestern University, Minneapolis, 
+Minnesota; ¶¶¶Cardiovascular Centre, National Taiwan University 
+Hospital, Taiwan, Taipei; ||||||Department of Intensive Care, 
+Fundación Cardiovascular de Colombia, Bucaramanga, Colombia; 
+###Cardiovascular Surgery Intensive Care Unit and Heart Transplant, 
+Johns Hopkins Hospital, Baltimore, Maryland;  ****University of 
+Sydney, Australia; ††††Santiago del Chile, Chile; ‡‡‡‡University of 
+Regensburg, Germany; and §§§§University of Paris, France.
+Submitted for consideration March 2021; accepted for publication 
+in revised form March 2021.
+Dr. Lorusso is the consultant for LivaNova, Getinge, and Medtronic, 
+and member of the Advisory Board of Eurosets (all honoraria for pre-
+sentation paid to the University for research funding). The remaining 
+authors have no conflicts of interest to report.
+Correspondence: Roberto Lorusso, MD, PhD, FELSO, FEACTS, 
+Cardiac Surgery and Extracorporeal Life Support, Department 
+of Cardio-Thoracic Surgery, Heart & Vascular Centre, Maastricht 
+University Medical Centre (MUMC), Cardiovascular Research Institute 
+Maastricht (CARIM), P. Debyelaan 25, Maastricht 6202 AZ, The 
+Netherlands. E-mail: roberto.lorussobs@gmail.com.
+Copyright © ELSO 2021
+DOI: 10.1097/MAT.0000000000001510
+ELSO Interim Guidelines for Venoarterial Extracorporeal 
+Membrane Oxygenation in Adult Cardiac Patients
+ROBERTO LORUSSO ,* KIRAN SHEKAR,† GRAEME MACLAREN ,‡ MATTHIEU SCHMIDT,§ VINCENT PELLEGRINO,¶  
+BART MEYNS║ JONATHAN HAFT,# LEEN VERCAEMST,║ FEDERICO PAPPALARDO,** CHRISTIAN BERMUDEZ,††  
+JAN BELOHLAVEK ,‡‡ XIAOTONG HOU,§§ UDO BOEKEN,¶¶ ROBERTO CASTILLO,║║ DIRK W. DONKER ,##***  
+DARRYL ABRAMS,††† MARCO RANUCCI,‡‡‡ KASIA HRYNIEWICZ,§§§ IVAN CHAVEZ,§§§ YIH-SHARNG CHEN,¶¶¶  
+LEONARDO SALAZAR,║║║ AND GLENN WHITMAN###
+REVIEWERS: Hergen Buscher,****  Rodrigo Diaz,††††  Thomas Mueller,‡‡‡‡  AND Alain Combes,§§§§                     
+Over the past decade, the use of extracorporeal membrane 
+oxygenation (ECMO) has increased exponentially, from approxi-
+mately 30–40 patients per year in the United States 20 years 
+ago, to over 2,000 per year currently, and rising.1 The increased 
+utilization of ECMO has resulted from improved cannula-
+tion techniques, including percutaneous approach, as well as 
+advances in the technology of the pumps, oxygenators, and 
+cannulas. Despite these features, however, choosing appropri-
+ate candidates and managing their daily care can be extremely 
+challenging. What follows is an in-depth discussion of the indi-
+cations for venoarterial (VA) ECMO in adult patients affected 
+by cardiac disease, the manner of its application, the physiol-
+ogy underlying the care for these patients, and the assessment 
+and treatment of complications, including ethical and organiza-
+tional issues.
+More in-depth material and information are provided in the 
+Extracorporeal Life Support Organization (ELSO) 5th Edition Red 
+Book.2 Furthermore, the recent ELSO indications about ECLS and 
+cannulation nomenclature will be followed in this guideline.3,4
+Decision Making in Adult VA ECMO for Acute Cardiac 
+Failure
+VA ECMO may support patients for days or weeks as a 
+“bridge-to-decision” that includes weaning after recovery of 
+cardiac function, transplantation, long-term mechanical circu-
+latory support (MCS), and withdrawal in the case of futility. 
+Dedicated documents for the use of VA ECMO in the setting 
+of cardiac arrest and postcardiotomy in adult patients are 
+addressed by additional ELSO guidelines and as joint society 
+position paper (expert consensus of EACTS/ELSO/STS/AATS).5
+Indications
+Specific physiologic goals, monitoring, and patient selec-
+tion. Cardiogenic shock suitable for ECMO is generally char -
+acterized by systemic systolic pressure less than 90, urine 
+output < 30 ml/hour, lactate over 2, SVO2 less than 60%, altered 
+conscious state for 6 hours unresponsive to optimal treatment 
+(Table 1). The goal is to maintain systemic oxygen delivery at 
+least 3 times oxygen consumption (the DO 2:VO2 ratio is >3) 
+(normal is 5, shock is 2): O2 delivery is arterial oxygen content 
+(normal 20 ml/dl) times cardiac output (normal 30 dl/m 2/min). 
+In VA ECMO access, addressing the goal is easy because the 
+cardiac output is the ECMO flow and the arterial hemoglobin 
+saturation is 100%, so content is easily calculated, knowing the 
+hemoglobin concentration (normal 15 g/dl). In VA ECMO, the 
+drainage blood saturation (the SVO 2) measures the DO 2:VO2 
+ratio, and SVO2 is measured continuously. If the arterial satura-
+tion is 100% and the venous sat is 80%, the ratio is 5:1. So, 
+[[p2]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+828
+adjusting flow and hemoglobin to maintain SVO 2 over 66% 
+assures that the goal of DO 2/VO2 > 3 is met. Additional details 
+are described in the Red Book chapter on physiology.2
+Short-term MCS should be considered in patients with refrac-
+tory cardiogenic shock with a potentially reversible or surgically 
+correctable cause.6 Compared with other percutaneous tempo-
+rary MCS, VA ECMO has advantages for patients with severe 
+biventricular failure or in case of malignant arrhythmia as well 
+as associated pulmonary failure. The classical scenario where VA 
+ECMO should be considered occurs when medical treatment, 
+including fluids, inotropes, and, potentially, intra-aortic balloon 
+pump (IABP), fails. Ideally, VA ECMO should be initiated before 
+multiorgan failure and after thorough echocardiography evalua-
+tion. The patient’s age, comorbidities, and prognosis of the under-
+lying illness should also be factored into the ECMO decision 
+making. Age per se’, however, should not be considered an abso-
+lute contraindication, especially when greater prospects of car-
+diac recovery exist, given that the suitability for bridging durable 
+MCS and heart transplantation may diminish with advancing age.
+Common situations for ECMO are patients with medical 
+(acute myocardial infarction, fulminant myocarditis, intoxica-
+tion with cardiotoxic drugs, end-stage dilated or ischemic car-
+diomyopathy, hypothermia with refractory cardiocirculatory 
+instability, and massive pulmonary embolism), and postsurgical 
+(including posttransplantation) acute cardiogenic shock. Other 
+???u`?dbln????e PM
+Contraindications
+Regarding the contraindications for VA ECMO implant, 
+these are listed below:
+Pre-ECMO Risk Prediction (Risk Scores)
+In the last few years, several risk scores have been proposed 
+to assess the VA ECMO patient outcomes, to stratify patients’ 
+risk of mortality, and to improve the patient selection.
+The survival after VA ECMO score (Table 2) is a survival pre-
+diction score based on the large pre-ECMO assessment data 
+extracted from the ELSO registry.7 The survival after VA ECMO 
+score is the first reported in-hospital survival prediction model 
+for ECLS use in cardiogenic shock but does not apply to post-
+cardiotomy settings. Other scores have been designed regard-
+ing ECMO in cardiogenic shock, including general or specific 
+VA ECMO settings and described in Table 3.8–10
+Recommendations
+• VA ECMO should be considered for cardiogenic shock 
+within 6 hours of its occurrence, refractory to conven-
+tional pharmacological and fluid therapy, and in patients 
+with reversible cardiocirculatory collapse or those eligible 
+for alternative cardiocirculatory assistance, for example, 
+ventricular assist devices (VADs) or transplantation.
+• Etiologies compromising appropriate ECMO function 
+(aortic insufficiency) should be considered to represent 
+potential contraindications.
+• Age, per se’, should not be used as an absolute 
+contraindication.
+• Prognostic score may be used to provide information 
+regarding decision making before ECMO.
+• Poor life expectancy, severe liver disease, acute brain 
+injury, vascular disease, and immunocompromise repre-
+sent exclusion criteria for ECMO application.
+Cannulation, Distal Perfusion, and Left Ventricular Venting
+All aspects and information regarding ECMO circuits, sys-
+tems, and modes are also presented in other ELSO position 
+papers and in the ELSO Red Book.2–4
+s?PM?b?e??b?r??c?b?s??f
+Clinical Trial/ 
+Guidelines Cardiogenic Shock Criteria
+SHOCK Trial (1999) • SBP < 90 mm Hg or vasopressor support to maintain SBP >90 mm Hg
+• Evidence of end-organ damage (UO < 30 ml/h or cool extremities)
+• Hemodynamic criteria: CI < 2.2 and PCWP > 15 mm Hg
+IABP-SOAP II (2012) •  MAP < 70 mm Hg or SBP < 100 mm Hg despite adequate fluid resuscitation (at least 1 L of crystalloid or 
+500 ml of colloids)
+• Evidence of end-organ damage (AMS, mottled skin, UO < 0.5 ml/kg/h for 1 h or serum lactate >2 mmol/L)
+EHS-PCI (2012) • SBP < 90 mm Hg for 30 min or inotropes use to maintain SBP >90 mm Hg
+• Evidence of end-organ damage and increased filling pressure
+ESC-HF Guidelines  
+(2016)
+•  SBP < 90 mm Hg with appropriate fluid resuscitation with clinical and laboratory evidence of end-organ damage
+•  Clinical: cold extremities, oliguria, AMS, narrow pulse pressure. Laboratory: metabolic acidosis, elevated 
+serum lactate, elevated serum creatinine
+KAMIR-NIH (2018) • SBP < 90 mm Hg for >30 min or supportive intervention to maintain SBP >90 mm Hg
+• Evidence of end-organ damage (AMS, UO < 30 ml/h, or cool extremities)
+AMS, altered mental status; CI, cardiac index; EHS-PCI, Euro-Heart Survey Percutaneous Coronary Intervention Registry; ESC-HF , Euro-
+pean Society of Cardiology—Heart Failure; IABP-SOAP II, Intra-aortic balloon pump in cardiogenic shock II; KAMIR-NIH, Korean Acute 
+Myocardial Infarction Registry—National Institute of Health; MAP , mean arterial pressure; PCWP , pulmonary capillary wedge pressure; SBP , 
+systolic blood pressure; SHOCK, Should We Emergently Revascularize Occluded Coronaries for Cardiogenic Shock; UO, Urine output.
+•  Cardiac recovery unlikely and no indication for heart transplant 
+or durable left ventricular (LV) assists device
+•  Poor life expectancy (end-stage peripheral-organ diseases, 
+malignant tumor, massive pulmonary embolisms in cancer 
+patients, chemotherapy-induced chronic cardiomyopathy, etc.)
+•  Severe aortic valve regurgitation
+•  Severe vascular disease with extensive aortic and peripheral 
+vessel involvement (calcification, stenosis, and closure),  
+including axillary arteries
+•  Acute Type A or B aortic dissection with extensive aortic 
+branches (ascending, supra-aortic and femoral) involvement 
+(preoperatively)
+•  Severe neurologic impairment (i.e., prolonged anoxic brain 
+damage, extensive trauma and bleeding)
+•  Severe immunologic disease with marked blood and  
+coagulation disorders
+•  Liver cirrhosis (Child-Pugh class B and C)
+[[p3]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+829
+Peripheral Cannulation
+Peripheral VA ECMO cannulation is the most frequently 
+applied for access and performed via the common femoral 
+artery and vein just below the inguinal ligament and above their 
+respective bifurcations (Figure 2). A 15–17 French arterial can-
+nula is usually adequate to supply sufficient flow depending on 
+the patient’s needs. Larger 19 or 21 French cannulas may be 
+necessary in rare clinical scenarios such as sepsis when higher 
+flow is desired.11 Larger arterial cannulas might be associated 
+with increased vascular complications, including limb ischemia.
+Although the result of expert-opinion only, it is felt prefera-
+ble to place the arterial and venous cannulas in separate limbs 
+to reduce vascular complications and to facilitate decannula-
+tion. If feasible, the venous cannula should be placed in the 
+right femoral vein as it is a more direct path to the IVC and right 
+atrium (Figure 3).12
+Image-guided cannulation, particularly vascular ultrasound as 
+a first choice, is recommended. Fluoroscopy can be useful in 
+certain circumstances, for example, implantation in the cath lab. 
+Vascular ultrasound should be started in the short axis and lon-
+gitudinal views. We recommend starting in the short-axis view, 
+identifying the common femoral artery and vein, the superficial 
+and profunda femoral arteries (Figure 4A), then rotating 90º to 
+the longitudinal view. This affords visualization of the common 
+femoral artery and bifurcation (Figure 4B). It optimizes anterior 
+entry of the needle into the vessel and avoids posterior wall 
+puncture. In addition, using the femoral head as a landmark can 
+ensure vascular access is at a compressible portion of the vessel 
+and avoids pelvic entry (Figure 4C). Similar techniques are rec-
+ommended for entering the common femoral vein.
+After administration of adequate anticoagulation, a standard 
+guidewire is advanced in the respective vessels and a series 
+of progressive dilations are performed to facilitate cannula 
+insertion. In certain situations, such as obesity, tortuous anat-
+omy, and peripheral vascular disease, a stiff guidewire may 
+be needed for support. The cannulas are then advanced into 
+their respective femoral artery and vein. Imaging (ultrasound, 
+fluoroscopy, or x-ray film) is recommended to confirm initial 
+wire position, directing the advancement of the guidewire, and 
+confirming placement of the arterial and venous drainage can-
+nulas (Figures 5 and 6). Standard chest x-ray film is sufficient to 
+confirm appropriate cannula position after implant.
+Subclavian or axillary artery cannulation can be used as a 
+form of peripheral access.2 This access may be used in patients 
+with peripheral vascular disease or very difficult femoral artery 
+access so as to prevent vascular cannulation complications 
+occurring at the femoral artery site, including leg ischemia, 
+bleeding, vascular perforation or rupture, and inadequate can-
+nula size. Furthermore, this access site can (a) minimize dif-
+ferential oxygenation, (b) facilitate patient mobilization in the 
+case of a predicted long VA ECMO run, and (c) allow transi-
+tion to isolated LV support. In this case, a pseudo-percutaneous 
+approach or the use of a tube graft connection to the axillary 
+artery may be helpful with incision closure while minimizing 
+infection complication. As opposed to ischemia, upper limb 
+hyperperfusion with arm swelling is the more common vascu-
+lar complication as a result of high ECLS flow with no limita-
+tion to ipsilateral limb perfusion, as can occur in the case of 
+a “chimney technique” with a prosthetic graft, as discussed 
+later in this section. The cannulation of the subclavian artery 
+may be carried out similarly, directly or with a “chimney graft” 
+e?PM?b?G?H????G?H???????????
+shock. AMI, acute myocardial infarction; APE, massive pulmonary embolism; LVAD, left ventricular assist device; Sepsis, sepsis-associated 
+cardiomyopathy.
+[[p4]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+830
+for access. Finally, although usually confined to the pediatric 
+population, carotid artery cannulation can be used for arterial 
+access, recognizing the increased risk of acute brain injury, 13 
+thereby making it the access of last resort when femoral, axil-
+lary/subclavian, or a central approach are not feasible.
+Distal Perfusion
+With peripheral femoral cannulation, distal perfusion ipsi-
+lateral to the femoral artery cannulation is recommended. 2 
+Distal perfusion catheters should be placed under ultrasound 
+guidance or under direct vision into the superficial femoral 
+artery. If the approach is percutaneous, access should start with 
+a puncture in the common femoral artery below the arterial 
+cannula but above the bifurcation and guided into the superfi-
+cial femoral artery (Figure 4C). Confirmation of the guide wire 
+in the superficial femoral artery by ultrasound or fluoroscopy 
+may be considered, and confirmation of flow by continuous-
+flow Doppler and ultrasound of the popliteal artery is recom-
+mended. When using smaller 15 Fr and 17 Fr arterial cannulas, 
+distal limb perfusion may not be always needed with decision 
+making informed by Near-Infrared Spectroscopy (NIRS). Tissue 
+saturation by NIRS should be above 50%, preferably 60%, and 
+there should be less than a 20% difference between the two 
+extremities. In principle, however, distal perfusion is recom-
+mended with a short 6 Fr–8 Fr armored cannula. 2 Larger and 
+longer sheaths may be associated with vascular trauma and 
+spasm. The sidearm of the distal perfusion sheath is connected 
+with short tubing using a male-to-male connector to the vent 
+port of the arterial cannula (Figure  3). Retrograde limb per -
+fusion through the dorsalis pedis or the posterior tibial arter -
+ies might be also considered not requiring any fluoroscopy or 
+echo guidance to perform it. 2 When possible, measurement 
+of flow confirms adequate tissue perfusion, targeting at least 
+100 ml/min. Finally, it is recommended that distal limb perfu-
+sion be accomplished at the time of ECMO institution, prevent-
+ing any delays in limb perfusion.
+Left Ventricular Venting Strategies
+A major disadvantage of VA ECMO is the potential for sig-
+nificant LV loading and distension due to the increase in aorta 
+afterload and associated poor LV ejection. This may be espe-
+cially harmful for the acutely infarcted left ventricle. High after-
+load and poor LV ejection may impair aortic valve opening 
+leading to acute pulmonary edema or catastrophic thrombosis 
+of the left-sided cardiac chambers or the aortic root. Thus, the 
+threshold for LV venting in VA ECMO should be low and ini-
+tially guided by the clinical/imaging scenario (Figure 7).14
+Pulmonary edema on chest x-ray film, a pulse pressure less 
+than 5–10 mm Hg, LV “smoke-like” visualization, and a closed 
+aortic valve with LV distension on echocardiogram all should 
+trigger prompt intervention.14 Noninvasive techniques, includ-
+ing a reduction of ECMO flow while still sustaining effective 
+end-organ perfusion, vasodilation to directly reduce peripheral 
+arterial resistance, increased PEEP to reduce pulmonary arte-
+rial flow and enhance right cardiac drainage toward the ECMO 
+system, or moderate inotropic support to maintain LV ejection, 
+all represent possible noninvasive approaches to managing LV 
+distension.14 In principle, impaired LV unloading compromises 
+myocardial recovery and should be addressed immediately 
+when present (Table 4).
+Various strategies for more aggressive LV venting and 
+unloading include the temporary percutaneous axial flow LV 
+assist device (LVAD) (Impella; Abiomed, Danvers, MA), atrial 
+septostomy or direct drainage, or direct LV apical cannulation 
+and decompression. Intra-aortic balloon pump with inotro-
+pes may assist in unloading as well, but data to support this 
+practice are still limited although widely practiced. The favor-
+able impact of LV venting on weaning and early survival have 
+been recently highlighted15,16 indicating that such an important 
+Table 2. The SAVE Score6
+Parameter Score
+Acute cardiogenic shock diagnosis group  
+ (select one or more)
+ Myocarditis 3
+ Refractory VT/VF 2
+ Post heart or lung transplantation 3
+ Congenital heart disease –3
+ Other diagnoses leading to cardiogenic  
+ shock requiring VA ECMO
+0
+Age (yrs)
+ 18–38 7
+ 39–52 4
+ 53–62 3
+ ≥63 0
+Weight (kg)
+ ≤65 1
+ 65–89 2
+ ≥90 0
+Acute pre-ECMO organ failures  
+ (select one or more if required)
+ Liver failure* –3
+ Central nervous system dysfunction† –3
+ Renal failure‡ –3
+ Chronic renal failure§ –6
+Duration of intubation before initiation of ECMO (h)
+ ≤10 0
+ 11–29 –2
+ ≥30 –4
+Peak inspiratory pressure ≤20 cmH2O 3
+Pre-ECMO cardiac arrest –2
+Diastolic blood pressure before ECMO ≥ 40 mm Hg¶ 3
+Pulse pressure before ECMO ≤20 mm Hg¶ –2
+HCO3 before ECMO ≤15 mmol/L¶ –3
+Constant value to add to all calculations  
+of SAVE score
+–6
+Total score –35 to 17
+Total SAVE score Risk class Survival (%)
+?]T?h?VT
+ 1–5 II 58
+ –4 to 0 III 42
+ –9 to –5 IV 30
+ ≤ –10 V 18
+An online calculator is available at www.save-score.com.
+*Liver failure was defined as bilirubin ≥33 µmol/L or elevation of 
+serum aminotransferases (ALT or AST) >70 UI/L.
+†CNS dysfunction combined neurotrauma, stroke, encephalopa-
+thy, cerebral embolism, as well as seizure and epileptic syndromes.
+‡Renal dysfunction is defined as acute renal insufficiency (e.g., 
+creatinine >1.5 mg/dl) with or without RRT.
+§Chronic kidney disease is defined as either kidney damage or 
+glomerular filtration rate <60 ml/min/1.73 m2 for ≥3 mo.
+¶Worse value within 6 h prior ECMO cannulation.
+ALT, alanine transaminase; AST, aspartate aminotransfer -
+ase; ECMO, extracorporeal membrane oxygenation; CNS, central 
+nervous system; RRT, renal replacement therapy; SAVE, Survival 
+After Venoarterial Extracorporeal Membrane Oxygenation; VF , ven-
+tricular fibrillation; VT, ventricular tachycardia.
+[[p5]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+831
+Table 3. Published Risk Scores for Venoarterial Extracorporeal Life Support, Besides the SAVE Score
+Risk Score 
+NameReference VA ECMO Setting Predictors
+ENCOURAGE 
+Score7
+Cardiogenic shock 
+(post AMI)
+Age, sex, BMI, Glasgow Coma Scale, creatininemia, serum lactate value,  
+prothrombin activity
+REMEMBER 
+Score8
+Post cardiotomy  
+cardiogenic shock 
+(post CABG)
+Older age, left main coronary artery disease, Inotropic score, CK-MB, serum creatinine,  
+platelet count
+CARDShock 
+Score9
+Cardiogenic shock Older age, neurologic status, previous myocardial infarction or CABG, blood lactate value,  
+acute coronary syndrome etiology, LV systolic dysfunction, estimated glomerular filtration
+AMI, acute myocardial infarction; BMI, body mass index; CABG, coronary artery bypass grafting; CK-MB, creatinine kinase-myocardial 
+band; LV, left ventricular; VA ECMO, venoarterial extracorporeal membrane oxygenation.
+Figure 2. Right femoral vascular anatomy demonstrating relationship between the common femoral artery, vein, inguinal ligament, and 
+femoral head. 
+[[p6]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+832
+aspect of cardiac support with VA ECMO must receive ade-
+quate attention and monitoring to enhance appropriate and 
+timely intervention.
+Central Cannulation
+Particularly in the presence of severe peripheral vascular dis-
+ease at the femoral/iliac levels, central cannulation is usually 
+adopted in the postcardiotomy setting, although recent inves-
+tigations indicate that even in this setting, if possible, intra-
+operative transition to a peripheral approach provides better 
+outcomes.2 When central cannulation is decided upon postcar-
+diotomy, use of the CPB-related cannulas (ascending aorta for 
+perfusion and right atrium for drainage) is common. The adop-
+tion of prosthetic graft attached to the aorta is usually instituted 
+after aortic surgery but can be adopted also as a solution to 
+allow sternal closure. 17 There are several advantages and dis-
+advantages when comparing central to peripheral cannulation 
+(Table 5); however, peripheral cannulation appears linked to 
+better ultimate outcomes and should be considered preferable 
+to a central approach, even in postcardiotomy patients.18,19
+Recommendations
+• Peripheral cannulation may be associated with improved 
+outcomes, and in cases of severe vascular disease, 
+subclavian, or axillary artery cannulation should be 
+considered.
+• Ipsilateral limb perfusion is recommended at the time of 
+initial femoral artery cannulation.
+• Central cannulation may be considered in postcardi-
+otomy and when faced with severe peripheral vascular 
+disease.
+• LV venting should be immediately addressed when LV dis-
+tension is present as it is associated with increased wean-
+ing rates and early survival (data to be confirmed).
+• LV venting can be noninvasive or invasive with MCS or 
+with left-sided percutaneous or direct cannulation.
+Configurations and Peculiarities
+Factors considered when planning the initial cannulation 
+strategy for MCS include:
+• the underlying cause of cardiac dysfunction and projected 
+time course of recovery;
+• the severity of pulmonary dysfunction and projected time 
+course of recovery;
+• the functional reserve of each ventricle;
+• the presence and severity of valvular pathology;
+• risk of arterial access and size of vessels;
+• the severity of coagulopathy and risk of sternotomy;
+• planned future surgery, such as durable VAD implantation 
+or transplant.
+For patients with predominant cardiac failure and preserved 
+pulmonary function, there are several options for MCS based 
+on ECLS circuitry (Table 6).
+Given its less invasive nature (compared with thoracic 
+access), peripheral VA ECMO, with attention to avoid or mini-
+mize LV distension, is a viable first-line option for patients 
+with isolated acute cardiac failure refractory to conventional 
+management.
+The limitations of peripheral VA ECMO have prompted the 
+use of ECMO devices to facilitate LV unloading by changing to 
+a temporary LVAD or a biVAD configuration (Figure 8).20
+Any perfusion strategy that creates a right to left shunt 
+requires an oxygenator in the circuit. Oxygenators may addi-
+tionally provide temperature control. This strategy effectively 
+provides biventricular support and gas exchange through 
+a single pump configuration with the ability to cease right 
+ventricular (RV) support when not required. However, this 
+configuration requires sternotomy and cannulation of the left 
+ventricle (or left atrium) and aorta. Reoperation (sternotomy 
+or thoracotomy) is then required for explantation of the can-
+nula upon cardiac recovery or for implantation of a long-term 
+mechanical assist device. Less invasive techniques for tempo-
+rary cardiorespiratory support, including a transition strategy 
+to an intermediate-term support configuration allowing mobi-
+lization, have been described (Figure 9). Although this con-
+figuration requires a left thoracotomy, sternotomy is avoided, 
+potentially reducing the risk for subsequent surgery in the 
+absence of cardiac recovery (long-term LVAD implantation 
+as a bridge to destination or heart transplantation).
+Temporary RV support can be provided with an ECMO sys-
+tem in case of the need of associated respiratory support (so 
+called OxyRVAD) or without (therefore realizing an isolated 
+RVAD configuration), through percutaneous femoral venous 
+access to the right atrium and return to the pulmonary artery 
+Figure 3. Bilateral peripheral VA ECLS cannulation demonstrating 
+the relationship of the venous and arterial cannula, distal perfusion 
+cannula and distal NIRS patches (modified from Rupprecht et al.).12 
+NIRS, near-infrared spectroscopy; VA ECLS, venoarterial extracor -
+poreal life support. 
+[[p7]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+833
+Figure 4. A: Vascular ultrasound in short axis of demonstrating the relationship of the CFA and CFV, the bifurcation of the SFA and PFA, 
+inguinal ligament and femoral head. Note the FV courses below the superficial femoral artery. B: Longitudinal vascular ultrasound of the CFA 
+as it bifurcates to the superficial femoral artery and the PFA. C: Longitudinal vascular ultrasound of the femoral artery demonstrating the 
+relationship to the femoral head and the needle entry position of the arterial return cannula and the distal perfusion catheter (By courtesy of 
+Dr. Wallace Ngai, Hong Kong). CFA, common femoral artery; CFV, common femoral vein; FV, femoral vein; PFA, profound femoral artery; SFA, 
+superficial femoral artery. 
+[[p8]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+834
+via a cannulated exteriorized Dacron graft. This strategy is 
+described for temporary support of the RV with insertion of 
+a long-term LVAD but is applicable to other causes of severe 
+isolated RV dysfunction.21 Upon RV recovery, the graft can be 
+ligated and buried upon decannulation without resternotomy.21
+In the presence of isolated RV dysfunction, the selective can-
+nulation of the PA may be considered. Direct PA cannulation 
+or a minimally invasive approach via a percutaneous access 
+through the right jugular vein is another option. 22 Currently, 
+the PA cannulation may be achieved with a single-lumen or 
+double-lumen cannula.22
+In patients with combined cardiac and pulmonary pathol-
+ogy, upper-body hypoxia (differential oxygenation) can occur 
+if myocardial recovery occurs and lung function remains poor. 
+This may be overcome by transition to VV ECMO if myocardial 
+recovery is satisfactory or with the use of VAV ECMO, which 
+allows return of oxygenated blood to both arterial and venous 
+sides of the circulation, thereby minimizing the risk of upper-
+body hypoxia. Returning the oxygenated blood in the ascend-
+ing aorta by cannulating the axillary or subclavian artery 
+cannulation has also been described in this setting. Moving the 
+femoral drainage cannula up to the orifice of the superior vena 
+cava or higher may let higher oxygen-saturated blood from the 
+inferior vena cava return to the right heart. This may also allevi-
+ate upper-body hypoxia to some extent.23
+A more invasive, high-risk option in this setting includes use 
+of the centrifugal ECMO system as a temporary LVAD/biVAD 
+with an oxygenator in the circuit. The device can be employed 
+in several configurations (Table 7) to support both the left or 
+right ventricles and the oxygenator can be removed from the 
+circuit when pulmonary function stabilizes or recovers. This 
+strategy can support patients for a longer period of time, allow-
+ing more time to recover, and minimizes the risks of LV dis-
+tension and thrombosis. This is ideally suited to patients with 
+suspected acute myocarditis in whom myocardial recovery is 
+possible but prolonged support may be required.
+Recommendations
+• ECMO configuration should be tailored so as to address 
+RV, LV, or biventricular failure.
+• Poor pulmonary status with inability to oxygenate leading 
+to differential aortic oxygenation may dictate ECMO con-
+figurations requiring:
+ (a)  improved cardiac decompression to prevent ejection,
+ (b)  VAV cannulation, or
+ (c)  in the case of isolated RV failure, use of RA-PA cannula-
+tion with a circuit oxygenator (RVAD or OxyRVAD).
+Management/Monitoring
+The daily care for patients on VA ECMO is complex and 
+requires insights of critical care management and bedside 
+monitoring that arise from the intricate interplay between 
+the extracorporeal circuit and the human body (Table 8 and 
+Figure 10).24–26
+Cardiovascular Management and Monitoring
+Attention to conventional parameters related to appropri-
+ate perfusion is the underpinnings of VA ECMO management. 
+Mixed venous saturation provides critical information regard-
+ing oxygen supply and demand so difficult to get otherwise. 
+Invasive arterial blood pressure monitoring is imperative in VA 
+ECMO as the pulse pressure reflects the contribution of native 
+cardiac contractility during continuous-flow support. Of impor-
+tance, when in conjunction with an IABP, assessment of aortic 
+valve opening and the intrinsic LV generated pulse pressure 
+may require changing IABP frequency and echocardiography.26
+The right radial artery as well as right upper torso pulse 
+oximetry should routinely be used for blood gas as well as 
+tissue oxygenation to immediately detect upper-body hypox-
+emia. Reduced capillary pulsatility may hamper adequate 
+pulse ox recordings, which in turn may require more frequent 
+arterial blood gas analyses to guarantee adequate oxygenation.
+Figure 5. Fluoroscopy position of the guidewire in the SVC and the 
+tip of the drainage cannula at the SVC/RA junction (By courtesy of Dr. 
+Wallace Ngai, Hong Kong). SVC, superior vena cava; RA, right atrium.
+Figure 6. Cardiac echocardiography in the subcostal view dem-
+onstrating guidewire position in the IVC/RA junction. IVC, inferior 
+vena cava; RA, right atrium.
+[[p9]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+835
+A pulmonary artery catheter (PAC or Swan-Ganz) should 
+be considered during VA ECMO, as it allows detection of ele-
+vated left-sided filling pressures, which may prompt the use of 
+adjunct LV unloading techniques (link to section “LV unload-
+ing in VA ECMO”).2,26 As discussed above, PAC-based continu-
+ous cardiac output monitoring during VA ECMO is inaccurate, 
+but it may provide an indication of pulmonary artery flow and 
+aid in weaning. Alternatively, the latter can be monitored by 
+measuring end-tidal CO2.
+The measurement of central venous pressure (CVP) as well 
+as central venous and mixed venous oxygen saturations should 
+be interpreted with caution. All these parameters may critically 
+depend on the cannulation mode and site, and the mutual 
+contribution of the extracorporeal circuit and the native car -
+diovascular and respiratory system.
+A current mainstay of VA ECMO management and monitor-
+ing is echocardiography and vascular ultrasound. Its indications 
+range from early cardiac diagnostics and identification of con-
+traindications to VA ECMO, to visualization of proper vascular 
+access and guidance of the cannulation procedure, optimal 
+tailoring of extracorporeal support and serial assessment of 
+hemodynamic and cardiac condition to ultimately a weaning 
+trial from VA ECMO (link to section “weaning”). 2,26,27 In this 
+context, it is essential to note that the echographer needs to 
+be familiar with the basics of the VA ECMO technique and its 
+impact on cardiovascular pathophysiology. All patients should 
+receive continuous ECG monitoring.2
+Respiratory Management and Monitoring
+Patients on VA ECMO usually require invasive mechanical 
+ventilation and, although solid data focusing on the VA ECMO 
+population are lacking, a lung protective ventilation strategy 
+including avoidance of barotrauma with a low tidal volume 
+and minute/ventilation, and maintenance of alveolar inflation 
+with relatively high positive end-expiratory pressure (PEEP) are 
+advisable.28 A higher PEEP may also aid to counterbalance ele-
+vated hydrostatic pressures, which may arise in the pulmonary 
+vasculature during incomplete LV unloading and cause pulmo-
+nary edema.16,24 The latter can also be caused or aggravated by 
+reduced pulmonary blood flow or even pulmonary ischemia in 
+high-flow VA ECMO, or a positive daily fluid balance, the latter 
+being associated with worse outcomes in VA ECMO.28
+As pulmonary edema is a feared complication in VA ECMO, 
+it should be carefully monitored by repeated chest x-rays film 
+or lung ultrasound, as it may impact on short- and long-term 
+prognosis.2,14,28,29 Extubation on ECMO should be considered 
+to reduce the risks of mechanical ventilation and facilitates 
+mobilization, physical rehabilitation, and communication with 
+family and caregivers.30,31 All specific aspects of cardiovascu-
+lar/respiratory management and monitoring during VA ECMO 
+are summarized in Table 9.
+Specific Aspects of Critical Care Management
+Major complications of VA ECMO are bleeding, thrombosis, 
+and infection. Therefore, protocolized anticoagulation therapy 
+Figure 7. Criteria to be used for the assessment of LV unloading need. 13 AV, aortic valve; bpm, beats per minute; CVP , central venous 
+pressure; IABP , intra-aortic balloon pump; LA, left atria; LV, left ventricular; PCWP , postcapillary wedge pressure; SVCO3, superior vena cava 
+oxygen saturation. 
+Table 4. Options, Procedures, and Related Efficacy  
+Potentially Available to Pursue or Favoring Left Ventricular 
+Unloading During Venoarterial Extracorporeal Life Support
+Type of Procedure Efficacy
+Less-invasive maneuvers  
+ Reduced ECMO flow √√√
+ Inotropes √√
+ Vasodilation √√
+ Increased PEEP √√
+ Diuretics √
+Invasive (catheter-based) maneuvers  
+ Trans-aortic suction device  
+ Impella √√√√√
+ Pulsatile trans-aortic suction device √√√
+ Atrial septostomy √√√ - √√√√
+ Left ventricular venting through the apex √√√√√
+ Left ventricular venting through the mitral valve √√√√√
+ Pulmonary artery venting √√√
+ IABP √√
+ Tran-septal atrial cannula √√√√
+ Additional venous cannula √√
+ Central ECLS √√√
+ECMO, extracorporeal membrane oxygenation; PEEP , positive 
+end-expiratory pressure; IABP , intra-aortic balloon pump.
+[[p10]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+836
+with close monitoring is a mainstay of VA ECMO management 
+as outlined in detail in a dedicated ELSO guideline and sum-
+marized in recent reviews. 32,33 Close monitoring and aggres-
+sive treatment of lower limb ischemia should be established as 
+a protocol, as previously mentioned. The use of cerebral and 
+lower limb NIRS to assess perfusion is recommended, particu-
+larly with peripheral cannulation.
+To prevent and treat infectious diseases while on VA ECMO, 
+it should be noted that pharmacokinetics (PK) and pharma-
+codynamics (PD) of different antibiotics can significantly be 
+Table 5. Advantages and Disadvantages of Central vs. Peripheral Cannulation in Patients Undergoing Postcardiotomy  
+Extracorporeal Membrane Oxygenation17
+ Advantages Disadvantages
+Central cannulation  
+(aortic/atrial)
+ Use of originally (cardiopulmonary bypass)  
+implanted cannulas
+Opened sternum (chest closed possible)
+ Antegrade flow High bleeding risk
+ Better drainage (bigger right atrium cannulas) Cardiac compression (if exit port subxiphoid—use 
+different exit sites if possible)
+ Long-lasting support (subclavian artery use) Resternotomy to remove cannulas
+ Higher ECMO flow (better unloading through the  
+right atrium drainage)
+More infection (sepsis)
+ Patient mobilization (particularly with subclavian  
+artery access)
+Higher rate of cerebral emboli
+ More options (and more easily) for LV venting Higher risk of closed aortic valve
+ Lower risk of differential oxygenation  
+Peripheral cannulation  
+(percutaneous)
+Femoral artery No surgical Incision Leg ischemia
+ Reduced bleeding risk Retrograde flow (LV afterload increase)
+ Closed sternum Not suitable for long-lasting support
+ No cardiac compression Lower ECMO flow
+ Easier switch to VAD implant Vascular complication (during cannulation or  
+after decannulation)
+ No resternotomy for cannulas removal Reduced options for LV venting (percutaneous)
+Peripheral cannulation  
+(open)
+Femoral artery Visualization of peripheral vessel and appropriate  
+cannulation site
+Lower limb compartment syndrome (in the  
+majority of cases distal perfusion required)
+ Reduced bleeding than central access Retrograde flow (LV afterload increase)
+ Closed sternum Less suitable for prolonged support—reduced 
+patient mobility
+ No cardiac compression Lower ECMO flow (limited right chamber unloading)
+Axillary artery Avoidance of leg ischemia Upper limb compartment syndrome
+ Avoidance of Harlequin (North/South) Syndrome Upper limb hyperperfusion syndrome  
+(with graft interposition)
+ Patient mobility if prolonged support (bridge to) required Higher bleeding risk (site of cannulation)
+ Visualization of peripheral vessel and appropriate  
+cannulation site
+Higher cerebral embolic risk
+ Reduced bleeding than central access Lower ECMO flow (limited right chamber unloading)
+ Closed sternum Retrograde flow (LV afterload increase, but  
+less than femoral access)
+ No cardiac compression Higher rate of vascular complications
+  Time consuming
+ECMO, extracorporeal membrane oxygenation; LV, left ventricular; VAD, ventricular assist device.
+Table 6. ECMO Strategies for Temporary Mechanical Circulatory Support in Isolated Cardiac Failure
+ECLS Strategy Principle Indication(s)
+Peripheral VA ECMO (return FA) • Default strategy for potentially reversible cardiogenic shock of any cause.
+Central VA ECMO (return aorta) • Failure to wean from CPB where recovery expected within 7 d
+•  Salvage for small patients with cardiogenic shock where femoral arterial  
+access inadequate
+VA ECMO (return axillary artery) • Reversible cardiogenic shock where high flows not required
+• Reversible cardiogenic shock with lower limb vascular disease.
+• Post aortic dissection operation
+Centrifugal LVAD (access LA/LV, return aorta) • Isolated LV support where recovery is expected in 8 weeks
+Centrifugal RVAD (access RA, return PA) • Isolated RV support where recovery is expected in 8 weeks
+Centrifugal BiVAD • Biventricular support where recovery is expected in 8 weeks
+CPB, cardiopulmonary bypass; ECLS, extracorporeal life support; FA, femoral artery; FV, femoral vein; LA, left atrium; LV, left ventricle; 
+LVAD, left ventricular assist device; PA, pulmonary artery; RV right ventricle; RVAD, right ventricular assist device; VA ECMO, venoarterial 
+extracorporeal membrane oxygenation.
+[[p11]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+837
+altered through VA ECMO and critical illness and may require 
+dose adaptations and close drug monitoring.2 This holds espe-
+cially for those patients with concomitant hepatic or renal 
+insufficiency.
+Regarding sedation, if hemodynamic, and respiratory condi-
+tions allow, awakening, and even extubation could be pursued 
+in the VA ECMO setting. Indeed, patients on ECMO for pro-
+found shock may have sustained brain injury before ECMO. 
+All patients should be, therefore, awakened as soon as possible 
+after stable ECMO is established to assess neurologic status. 
+If neurofunction is normal, care proceeds with the intent of 
+cardiac recovery. If there is evidence of major brain damage, 
+care should proceed long enough for repeat neurologic exam 
+(1–2 days). If there is no neurologic improvement, terminating 
+ECMO for futility should be considered.
+Upon initiation of VA ECMO, it is evident that patients’ prog-
+nosis is largely determined by the severity and reversibility of 
+the underlying disease and concomitant multiorgan system 
+injury. Importantly, the people’ physical condition and neu-
+rocognitive function is of utmost importance to prognosticate 
+outcome, whether bridging to recovery, long-term MCS or 
+transplantation.24,31
+In summary, critical care management of VA ECMO man-
+agement includes the well-recognized issues of mechanical 
+ventilation, organ perfusion, infections, neuromonitoring, 
+physical therapy, nutrition, but specifically requires attention 
+to anticoagulation, limb ischemia, differential oxygenation, LV 
+distension, fluid balance, drug distribution and elimination, 
+PK/PD, and CRRT, as summarized in Table 10 and Figure 10.
+Recommendations
+• Critical care monitoring should emphasize:
+◦ Systemic venous saturation, assuring adequate oxygen 
+delivery
+◦ Assessment of right-sided tissue perfusion including 
+limb and cerebral NIRS to timely diagnose differential 
+oxygenation
+◦ Pulse pressure to assess intrinsic cardiac function
+◦ Lung protective ventilation
+• Intermittent monitoring:
+◦ Lactates, free hemoglobin, D-dimer, blood cell, and 
+related parameters
+◦ Neurologic examination
+• The use of a pulmonary artery catheter (Swan-Ganz) to 
+assess left-sided pressures
+• Standardized multimodal neuromonitoring to detect acute 
+brain injury
+• Consideration of awakening and extubation, as soon as 
+hemodynamic stability, particularly if support is prolonged
+Complications of Venoarterial ECMO
+VA ECMO is an invasive procedure, and complications are 
+common and potentially life threatening. Therefore, early rec-
+ognition and treatment are very important. Optimal patient 
+management to avoid complications will very likely improve 
+outcomes (Tables 10 and 11).
+Complications of Cannulation
+Vessel injury with massive hemorrhage, malpositioning and 
+distal ischemia are not uncommon with the use of large cannu-
+las, which are necessary to achieve sufficient flow. Therefore, 
+Figure 8. Provision of biventricular assistance along with respiratory support. The extracorporeal membrane oxygenation system can be 
+used as a biventricular assist device along with respiratory support provided by the oxygenator in the circuit (adapted with permission from 
+SAGE Publications).34 LVAD, left ventricular assist device; RA, right atrium. 
+[[p12]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+838
+cannulation should be done only by experienced operators 
+with high-quality equipment (cannula, dilatators, and guide-
+wires). While the use of a small distal perfusion cannula will 
+reduce the incidence of leg ischemia from 25.4% to 9.7%, 2 
+there may be an increased risk for clot formation in the femoral 
+artery between the return cannula and the distal perfusion can-
+nula, which leads some clinicians to favor surgical decannula-
+tion. Percutaneous implantation with Seldinger technique may 
+decrease local infectious complications and possibly bleeding 
+when compared to an open technique. 35 However, superior-
+ity of percutaneous technique over open cannulation has not 
+conclusively shown and further investigation in this respect are 
+still warranted. Furthermore, as the risk of malpositioning of 
+cannulas is significant, continuous use of imaging techniques 
+(ultrasound or fluoroscopy) for puncture and positioning is 
+strongly advisable. Thrombo-embolic events are underesti-
+mated and may occur in more than 25% of the patients.36–38
+Complications Specific to the ECMO Circuit
+A common technical problem of all ECMO devices is pro-
+gressive thrombotic deposition within the circuit, especially 
+in the oxygenator (>10%). 1 This can lead to failure necessi-
+tating acute exchange. Clots within the pump head occur in 
+<4% and cause massive hemolysis. 39 Significant hemolysis 
+unrelated to ECMO is observed after prolonged resuscitation 
+but should rarely occur in a well-operating modern ECMO 
+device.40 ECMO does cause thrombocytopenia, activation 
+Figure 9. From peripheral venoarterial ECMO to the use of ECMO as a temporary ventricular assist device without sternotomy with the need of 
+concomitant respiratory support. A: Standard femoro-femoral venoarterial ECMO configuration. B: Left ventricular apical cannulation and decom-
+pression via thoracotomy approach. C: Removal of right atrial drainage cannula upon right ventricular recovery and provision of isolated temporary 
+left ventricular support. D: Axillary artery cannulation to facilitate early mobilization.20 ECMO, extracorporeal membrane oxygenation. 
+[[p13]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+839
+of platelets, decrease of coagulation factors, for example, of 
+large von-Willebrand-Factor multimers and fibrinogen which 
+together with therapeutic anticoagulation, increases the risk of 
+hemorrhage substantially. Neurologic complications are fre-
+quent in VA ECMO (15.1% in a registry cohort).41 Activation of 
+the inflammatory cascade, heparin-induced thrombocytopenia 
+or infection of circuits occur but rarely cause a major clinical 
+problem.2
+Complications Specific to VA ECMO
+It is thought that VA ECMO increases LV afterload; how-
+ever, the negative effect is the actual rise in blood pressure 
+due to the retrograde flow in relation to a poorly contractile LV 
+generating reduced stroke volume and, hence reduced aortic 
+valve opening or protracted closure, sometimes. Therefore, VA 
+ECMO flow should be established at the lowest flow, which 
+provides adequate organ perfusion and avoids anaerobic 
+metabolisms while enhancing forward LV flow. LV distension 
+may, however, develop with increased wall tension, myocar -
+dial ischemia, delayed recovery, pulmonary edema, and clot 
+formation in the left cardiac chambers at any ECMO flows, 
+depending on the residual LV contractility.2,14 “Differential oxy-
+genation” describes a situation when the lower body is per -
+fused by ECMO-oxygenated blood, but variable parts of the 
+upper body (coronaries, right arm, brain) receive hypoxemic 
+blood when the LV recovers and there is simultaneous severe 
+lung failure.2 Because hypoxic damage to the heart and brain 
+can happen, to recognize timely blood gas analysis and sat-
+uration must be taken from the right arm. If optimization of 
+ventilation does not resolve the problem, an additional return 
+cannula to the jugular vein (VAV ECMO) may become nec-
+essary. Finally, significant hyperoxemia and hypocapnia can 
+easily occur postmembrane, which will perfuse the organs of 
+the (lower) organism undiluted. Both hyperoxemia and hypo-
+capnia with respiratory acidosis are known to have detrimental 
+effects on outcome and have to be avoided by measurement 
+of postmembrane arterial blood gases after every change of 
+ECMO settings, including adjustment of oxygen-blending and 
+total gas flow.
+Recommendations
+• Ultrasound guidance is recommended for percutaneous 
+cannulation.
+• In the presence of large-sized cannulas, surgical decan-
+nulation is recommended.
+Table 7. Advanced ECLS Strategies for Cardiac and Respiratory Support
+ECMO Strategy Principle Indication(s)
+VA ECMO return femoral artery • Default strategy for potentially reversible cardiogenic shock of any cause.
+VA ECMO return axillary artery • Reversible cardiogenic shock where high flows not required
+• Reversible cardiogenic shock with lower limb vascular disease.
+•  Reversible cardiogenic shock with poor gas exchange—Expected  
+long-term support with patient mobilization
+VA ECMO return ascending aorta • Failure to wean from CPB where recovery expected within 7 d
+•  Salvage for small patients with cardiogenic shock where femoral arterial 
+access inadequate
+• Salvage for severe combined cardiac and respiratory failure
+VAV ECMO • Patients developing circulatory instability on VV ECMO
+• Salvage for severe combined cardiac and respiratory failure
+VPA ECMO • Reversible RV dysfunction expected duration up to 2 wks
+Centrifugal RVAD femoral access + oxygenator • Reversible RV dysfunction expected duration up to 2 wks
+Centrifugal RVAD-RA access + oxygenator •  Reversible isolated RV dysfunction expected duration up to 8 wks with  
+plan to remove oxygenator and convert to RVAD
+Centrifugal hybrid (requires oxygenator) • Severe LV afterload mismatch on VA ECMO.
+•  Severe combined cardiac and respiratory failure where early RV recovery  
+is expected before intermediate-term LV recovery
+Bridging to intermediate or long-term support may be required.
+CPB, cardiopulmonary bypass; ECLS, extracorporeal life support; FA, femoral artery; FV, femoral vein; LA, left atrium; LV, left ventricle; 
+LVAD, left ventricular assist device; PA, pulmonary artery; RA: right atrium; RV, right ventricle; RVAD, right ventricular assist device; VA ECMO, 
+venoarterial extracorporeal membrane oxygenation; VAV, venoarterial/venous; VPA, veno-pulmonary; VV, veno-veno.
+Table 8. Clinical Monitoring During Venoarterial  
+Extracorporeal Membrane Oxygenation
+Invasive arterial blood pressure monitoring/right radial artery
+•  Pulse pressure—measure of native contractility vs. ECMO 
+blood flow
+•  Oxygen saturation—measure of oxygenation in proximal aortic 
+arch/detection of differential oxygenation
+Pulse oximetry/right hand
+•  Oxygen saturation—measure of oxygenation in proximal aortic 
+arch/detection of differential oxygenation
+Pulmonary artery catheter
+•  Detect elevated left-sided filling pressure
+• Support indication for adjunct LV unloading
+•  Continuous cardiac output monitoring as indication of residual 
+pulmonary artery flow (alternatively, residual pulmonary artery 
+flow can be monitored by measuring end-tidal CO2)
+Echocardiography
+•  Early cardiac diagnostics and identification of contraindications 
+to VA ECMO
+• Visualization of proper vascular access and guidance cannulation
+• Optimal tailoring of ECMO support
+• Serial assessment of hemodynamic and cardiac conditions
+• Cardiac assessment during weaning trial
+Electrocardiography
+• Consider continuous, multilead electrocardiographic monitoring
+NIRS
+•  Monitoring of limb (single and bilateral comparison) and brain 
+perfusion
+ECLS, extracorporeal life support; LV, left ventricular; NIRS, near-
+infrared spectroscopy; VA ECMO, venoarterial extracorporeal mem-
+brane oxygenation.
+[[p14]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+840
+Figure 10. Approach to monitoring and managing the VA ECLS patient. (Permission to use granted under Creative Commons Attribution 
+License) (from ELSO Red Book 5th Edition, 2017).2 VA ECLS, venoarterial extracorporeal life support.
+[[p15]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+841
+• Cannula malposition should be ruled out in cases of prob-
+lematic ECMO flow and oxygenation.
+• Clot formation, either at the arterial or venous cannulation 
+sites, may occur during and after ECMO support.
+• The addition of a supplementary return cannula (more 
+often to the superior vena cava) should be considered in 
+the presence of differential oxygenation and refractory 
+respiratory insufficiency (VAV ECMO).
+• Excessive hypo- and hyperoxemia should be avoided.
+• Rapid hypocapnia at ECMO start should be also avoided 
+to reduce cerebral vasoconstriction and subsequent 
+complications.
+Weaning From VA ECMO
+VA ECMO weaning should be considered when patients 
+have experienced sufficient cardiac recovery, specifically, the 
+need for minimal vasoactive, inotropic support to maintain an 
+adequate pulse pressure >10 mm Hg (PP), mean arterial pres-
+sure (MAP) of >65 mm Hg, and mixed venous/central sat at 
+2–2.5 L/min of VA ECMO flow.2
+Adequate anticoagulation should be assured during phases 
+of low pump flow and weaning trials. Echocardiography dur -
+ing weaning trials is critical and recommended to assess biven-
+tricular function, presence of valvular dysfunction as well as 
+LVOT VTI, which is a surrogate of cardiac output. Swan-Ganz 
+catheter might be useful in this phase to objectively evaluate 
+left-sided pressures and cardiac output with the VA ECMO cir-
+cuit clamped. During weaning, VA ECMO flow is decreased 
+progressively by 500 ml every 5–10 minutes. Patients are 
+evaluated after 3–5 minutes of no support (circuit clamped) or 
+alternatively at minimum of 1 L/min of support. Even minimal 
+ECMO flow leads to reduced preload of the right ventricle, 
+and therefore right heart function may not be fully tested when 
+clamping of the ECMO circuit or “zero flow” is used. Pump 
+Controlled Retrograde Trial Off is a weaning technique that 
+can be considered. The arterial flow probe is reversed, and 
+1 L of flow is returned to the right atrium and right ventricle 
+via venous cannula. 42 In addition, with the sweep turned off, 
+this technique allows for accurate assessment of lung function. 
+Successful weaning is expected if the following parameters are 
+Table 9. Clinical Management During Venoarterial  
+Extracorporeal Membrane Oxygenation
+Mechanical ventilation
+•  Apply lung protective ventilation strategy with Vt 6–8 ml/kg  
+ideal body weight.
+•  Avoid pulmonary edema (LV distension monitoring and  
+prevention, pulse pressure >10 mm Hg and aortic valve opening 
+assessment, higher PEEP , vasodilators, ECMO flow adjustment, 
+moderate inotropes, diuretics, or venting strategies as indicated 
+and according to local expertise and resources)
+• Promote mobilization
+• Consider extubation
+General critical care management
+• Protocolize anticoagulation therapy and monitoring
+• Consider multimodal neuromonitoring/neuroimaging
+•  Close monitoring and aggressive treatment of lower  
+limb ischemia, including embolectomy, vessel repair,  
+revascularization, and fasciotomy
+• Consider altered pharmacokinetics/drug dosing
+• Strive for a neutral/negative fluid balance
+• Connect CRRT device to ECMO circuit, if required
+CRRT, continuous renal replacement therapy; ECMO, extracor -
+poreal membrane oxygenation; LV, left ventricular; PEEP , positive 
+end-expiratory pressure.
+Table 10. Major Complications of Venoarterial Extracorporeal Membrane Oxygenation and Suggested Management
+Complication Management
+Malpositioning of cannula Routine use of ultrasound/fluoroscopy for cannulation procedure
+Ischemia of cannulated leg Prophylactic use of small antegrade perfusion cannula,
+NIRS monitoring of calf muscle before, during and after VA ECMO oximetry,  
+pulse Doppler of cannulated leg
+Deep vein thrombosis of  
+femoral/caval vein
+Adequate anticoagulation during and after VA ECMO,
+Ultrasound control of vessels after decannulation
+Overloading of LV Reduce MAP to lowest acceptable value
+Use a small dose of inotropes, avoid vasopressors if possible
+Use PAC and end-tidal CO2 for monitoring of pulmonary perfusion
+Regular echocardiography
+Venting of LV when indicated (see proper table)
+Differential oxygenation Monitoring of BGA and saturation on right arm
+NIRS monitoring of the brain and lower limbs
+Optimize ventilation
+VAV cannulation only if necessary
+Lower body  
+hyperoxemia/hypocapnia
+BGA post membrane after every change in ECMO settings
+Adjust gas flow and blender settings to achieve Normocapnia and slight  
+hyperoxemia (150 mm Hg) after the oxygenator
+Device clotting Adequate anticoagulation
+Regular maintenance by control of aPTT or ACT, D-Dimers, trans-membrane pressure  
+and gas transfer capacity—If relevant, timely system replacement
+Hemorrhage Adequate anticoagulation (reduced or stop heparin administration in case of  
+excessive bleeding or life-threatening hemorrhage)
+Regular control of aPTT or ACT, platelets, fibrinogen
+NIRS monitoring of brain
+Avoid every unnecessary invasive procedure
+ACT, activated clotting time; aPTT, activated prothrombin time; BGA, blood gas analysis; CO2, carbon dioxide; LV, left ventricle; MAP , mean 
+arterial pressure; MAP , mean arterial pressure; NIRS, near-infrared spectroscopy; PAC, pulmonary artery catheter; VA ECMO, venoarterial 
+extracorporeal membrane oxygenation; VAV, venoarterial/venous.
+[[p16]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+842
+met: MAP > 60 mm Hg, LVOT VTI > 0.12 m/s, tissue Doppler 
+lateral mitral annulus peak systolic velocity ≥6 cm/sec, CVP ≤ 
+10 mm Hg, and LV ejection fraction ≥ 25%–30% on low doses 
+of 1–2 inotropes or pressors.2,27
+Low dose inotropes and pressors are defined as follow:
+–  dopamine <3 µg/kg/min,
+–  dobutamine <3 µg/kg/min,
+–  milrinone <0.3 µg/kg/min,
+–  norepinephrine <0.06 µg/kg/min,
+–  epinephrine <0.1 µg/kg/min,
+–  phenylephrine <1 µg/kg/min,
+–  vasopressin <0.03 µg/kg/min.
+After a successful weaning trial, decannulation should 
+promptly occur to avoid potential complications that are asso-
+ciated with ECMO support.
+Patients who are unable to wean from VA ECMO support within 
+5–7 days could be considered for temporary LVAD support to allow 
+more time for LV recovery as long as RV systolic function is pre-
+served (Figure 11). Patients with known severely reduced LV sys-
+tolic function before VA ECMO placement could be considered for 
+earlier LVAD implantation or heart transplantation. Candidacy for 
+advanced therapies should be based on the current International 
+Society for Heart and Lung Transplantation guidelines but is often 
+center specific. Most centers consider lack of neurologic recov-
+ery, multiorgan failure, advanced age, inadequate social support, 
+or metastatic cancer as contraindications to durable LVAD sup-
+port and heart transplantation and early referral to these centers is 
+recommended if appropriate. When faced with futility of care in 
+patients who are not candidates for advanced therapies, it is rea-
+sonable to proceed with a palliative approach and withdrawal of 
+care. Early involvement of palliative care services should be con-
+sidered in all patients supported with VA ECMO to assist with man-
+agement of expectations, the goals of care, and family support.
+Recommendations
+• VA ECMO weaning should be considered when patients 
+exhibit stable hemodynamics in the face of reduced 
+ECLS flow, including MAP > 60 mm Hg, LVOT VTI > 0.12 
+m/s, tissue Doppler lateral mitral annulus peak systolic 
+Table 11. Incidence of Selected Complications of Venoarterial  
+Extracorporeal Membrane Oxygenation, ELSO Registry, 
+2014–2018 (reported runs: 14,580, survival overall: 44%)1
+Complication
+Reported  
+Incidence (%)
+Survival to  
+Discharge (%)
+Circuit component clots 9.2 41
+Hemolysis (fHb > 50 mg/dl) 3.4 32
+Cannulation site bleeding 12.5 38
+Surgical site bleeding 14.5 33
+b??SMS?RV
+Pulmonary hemorrhage 2.3 23
+CNS hemorrhage (US or CT) 1.4 11
+CNS infarction (US or CT or MRI) 3.5 22
+Renal replacement therapy 
+required
+29.6 31
+Culture proven infection 7.6 40
+Limb ischemia 5.3 30
+Limb amputation 0.7 52
+CNS, central nervous system; CT, computer tomography; fHb, 
+plasma-free hemoglobin; MRI, magnetic resonance imaging; US, 
+ultrasound.
+Figure 11. Algorithm for ECMO team approach and decision making for venoarterial extracorporeal membrane oxygenation implant and 
+related management in patients with cardiogenic shock. ACT, activated coagulation time; CI, cardiac index; CVP , central venous pressure; GI, 
+gastrointestinal; LFT, liver function test; LVAD, left ventricular assist device; LVOT VTI, left ventricular outflow tract velocity time integral; MAP , 
+mean arterial blood pressure; PTT, partial thromboplastin time; VA ECLS, venoarterial extracorporeal life support.
+[[p17]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+ELSO INTERIM GUIDELINES
+843
+velocity ≥6 cm/sec, CVP ≤ 10 mm Hg, and LV ejection 
+fraction ≥ 25%–30% on low doses vasoactive, inotropic 
+support.
+• Pump Controlled Retrograde Trial Off or a shunt installed 
+between the arterial and venous circuit arms allow hemo-
+dynamic assessment with reduced or negligible ELSO cir-
+cuit support
+Ethics
+ECMO provides a form of therapy that poses ethical dilem-
+mas by virtue of its ability to temporarily suspend native car -
+diopulmonary function as a requirement for life. 2 The ECMO 
+team must resist the temptation to act first and think later, but 
+rather govern the use of ECMO in a way that not only honors 
+life but also death (Figure 11). Addressing the ethical dilemmas 
+surrounding its use relate to (a) the patient and his or her fam-
+ily, (b) the caregiving team, and (c) society.
+The Patient and the Family
+The issue of consent is generally moot because the situa-
+tions in which ECMO is used are usually emergent such that 
+the opportunity for comprehensive consent rarely exists. 
+Consequently, family education must begin soon after its insti-
+tution. The patients’ next-of-kin must be made aware of this 
+and discussions regarding possible discontinuation of ECMO 
+support and provision of appropriate palliative care should 
+begin early, particularly in situations where ECMO is unlikely 
+to be successful. 43,44 Early institution of palliative or support-
+ive care teams, psychologic counselors, or even ethics teams, 
+may be of considerable help in framing these difficult issues 
+and providing personal support to help family members who 
+are usually unprepared for such challenging shared decision 
+making.2
+The ECMO Team
+Dissension within the ECMO team can result as a conse-
+quence of differences in opinion about the utilization of ECMO 
+for high-risk patients. An agreed-upon list of inclusion and 
+exclusion criteria, determined by a multidisciplinary commit-
+tee, can avoid some of this. 2 Open discourse within the team 
+regarding goals of care, the approach to families, and duration 
+of ECMO should be fostered.
+The Society
+In most societies, ECLS is not a therapy known to or dis-
+cussed among the lay public, with the notable exception of 
+Taiwan.45 Although the capability of ECMO to support patients 
+is remarkable, in many clinical situations, the evidence to sup-
+port its use is relatively low. Added to this is the issue of its cost, 
+both in financial terms, resource utilization, and the effect on 
+families frequently unprepared to deal with the issues of futility 
+of care. Nonetheless, ECMO has been demonstrated to be life-
+saving and cost-effective in several clinical scenarios.2
+Recommendations
+• Before the institution of ECMO, decision making should 
+include the chances of myocardial recovery, and, if not, the 
+possibility of bridging to durable MCS or transplantation.
+• Immediate education of the family should involve a dis-
+cussion of the prognosis, the possibility of bridging to 
+advanced therapies, and what would be a reasonable 
+duration of support should recovery not occur, in con-
+junction with the patient’s family.
+• An ECMO Team fluent in the care of these patients should 
+be established in centers planning on providing this 
+therapy.
+• Creation of a regional hub-&-spoke network with more 
+experienced centers should be established for hospitals 
+unable to provide ECMO.
+• Training and retraining must be part of the ECMO program.
+Acknowledgments
+We thank Elaine Cooley, MSN, RN, Peter Rycus, MPH, and the 
+ELSO Board Members for help in the overall process.
+References
+?PM?d?k?r?nY?s?dkrn?h?
+Report 2019. Available at: https://www.elso.org/Registry/
+Statistics/InternationalSummary.aspx.
+ 2. Brogan T, Lequier L, Lorusso R, MacLaren G, Peek G: The ELSO 
+Red Book, 5th ed. ELSO eds, Ann Arbor, MI, ELSO, 2017.
+ 3. Conrad SA, Broman LM, Taccone FS, et al: The ELSO Maastricht 
+treaty for nomenclature for extracorporeal life support. Am J 
+Respiratory Crit Care Med 198, 447–451, 2018.
+ 4. Broman LM, Taccone FS, Lorusso R, et al: The ELSO Maastricht 
+Treaty for ECLS Nomenclature: Abbreviations for cannulation 
+configuration in extracorporeal life support - a position paper of 
+the Extracorporeal Life Support Organization. Crit Care 23: 36, 
+2019.
+ 5. Lorusso R, Whitman G, Milojevic M, et al: 2020 EACTS/ELSO/STS/
+AATS expert consensus on postcardiotomy extracorporeal life 
+support. ASAIO J 67, e1–e43, 2021.
+ 6. McMurray JJ, Adamopoulos S, Anker SD, et al; ESC Committee for 
+Practice Guidelines: ESC Guidelines for the diagnosis and treat-
+ment of acute and chronic heart failure 2012: The Task Force 
+for the Diagnosis and Treatment of Acute and Chronic Heart 
+Failure 2012 of the European Society of Cardiology. Developed 
+in collaboration with the Heart Failure Association (HFA) of the 
+ESC. Eur Heart J 33: 1787–1847, 2012.
+ 7. Schmidt M, Burrel A, Roberts L, et al: Predicting survival after 
+ECMO for refractory cardiogenic shock: The survival after veno-
+arterial-ECMO (SAVE) score. EurHeart J 36: 2246–56, 2015.
+ 8. Muller G, Flecher E, Lebreton G, et al: The ENCOURAGE mortality 
+risk score and analysis of long-term outcomes after VA-ECMO 
+for acute myocardial infarction with cardiogenic shock. 
+Intensive Care Med 42: 370–378, 2016.
+ 9. Wang L, Yang F, Wang X, et al: Predicting mortality in patients 
+undergoing VA-ECMO after coronary artery bypass grafting: The 
+REMEMBER score. Crit Care 23: 11, 2019.
+ 10. Sanchez-Salado JC, Lorente V, Alegre O, Liao I, Blazquez L, Ariza-
+Sole’ A: Predictive ability of the CardShock score in patients 
+with profound cardiogenic shock undergoing venoarterial 
+extracorporeal membrane oxygenation support. Med Intensiva 
+44: 312–315, 2019.
+ 11. Brogan T, et al (eds). ELSO Specialist Manual, 4th ed. Ann Arbor, 
+MI, Extracorporeal Life Support Organization (ELSO), 2018.
+ 12. Rupprecht H, Lunz D, Philipp A, Lubnow M, Schmid C: Pitfalls in 
+percutaneous ECMO cannulation. Heart Lung Vessel 7: 320–
+326, 2015.
+ 13. Di Gennaro JL, Chan T, Farris RWD, Weiss NS, McMullan DM: 
+Increased stroke risk in children and young adults on extra-
+corporeal life support with carotid cannulation. ASAIO J 65: 
+718–724, 2019.
+ 14. Meani P, Denoij T, Raffa GM, et al: Protracted aortic valve closure 
+during peripheral veno-arterial life support: Is the intra-aortic 
+balloon pump the solution? Perfusion 34: 35–41, 2019.
+[[p18]]
+Copyright © Extracorporeal Life Support Organization. Unauthorized reproduction of this article is prohibited.
+LORUSSO ET AL.
+844
+ 15. Russo JJ, Aleksova N, Pitcher I, et al: Left ventricular unload-
+ing during extracorporeal membrane oxygenation in patients 
+with cardiogenic shock. J Am Coll Cardiol 73: 654–662,  
+2019.
+ 16. Al-Fares AA, Randhawa VK, Englesakis M, et al: Optimal strategy 
+and timing of left ventricular venting during veno-arterial extra-
+corporeal life support for adults in cardiogenic shock: A sys-
+tematic review and meta-analysis. Circ Heart Fail 12: e006486, 
+2019.
+ 17. Lorusso R, Bidar E, Natour E, Heuts S: Minimally invasive manage-
+ment of central ECMO after ascending aortic surgery. J Card 
+Surg 34: 131–133, 2019.
+ 18. Raffa GM, Kowalewski M, Brodie D, et al: Meta-analysis of periph-
+eral or central extracorporeal membrane oxygenation in post-
+cardiotomy and non-postcardiotomy shock. Ann Thorac Surg 
+107: 311–321, 2019.
+ 19. Mariscalco G, Salsano A, Fiore A, et al; PC-ECMO group: 
+Peripheral versus central extracorporeal membrane oxygen-
+ation for postcardiotomy shock: Multicenter registry, system-
+atic review, and meta-analysis. J Thorac Cardiovasc Surg 160: 
+1207–1216.e44, 2020.
+ 20. Massetti M, Gaudino M, Crea F: How to transform peripheral 
+extracorporeal membrane oxygenation in the simplest mid-
+term paracorporeal ventricular assist device. Int J Cardiol 166: 
+551–553, 2013.
+ 21. Shehab S, Rao S, Macdonald P, et al: Outcomes of venopulmonary 
+arterial extracorporeal life support as temporary right ventricu-
+lar support after left ventricular assist implantation. J Thorac 
+Cardiovasc Surg 156: 2143–2152, 2018.
+ 22. Lorusso R, Raffa GM, Heuts S, et al: Pulmonary artery cannulation 
+to enhance extracorporeal membrane oxygenation manage-
+ment in acute cardiac failure. Interact Cardiovasc Thorac Surg 
+30: 215–222, 2020.
+ 23. Hou X, Yang X, Du Z, et al: Superior vena cava drainage improves 
+upper body oxygenation during veno-arterial extracorporeal 
+membrane oxygenation in sheep. Crit Care 19: 68, 2015.
+ 24. Abrams D, Brodie D: The clinical management of patients on 
+partial/total extracorporeal support. Curr Opin Crit Care 22: 
+73–79, 2016.
+ 25. Donker DW, Brodie D, Henriques JPS, Broomé M: Left ventricu-
+lar unloading during veno-arterial ECMO: A simulation study. 
+ASAIO J 65: 11–20, 2019.
+ 26. Donker DW, Meuwese CL, Braithwaite SA, et al: Echocardiography in 
+extracorporeal life support: A key player in procedural guidance, 
+tailoring and monitoring. Perfusion 33(suppl 1): 31–41, 2018.
+ 27. Aissaoui N, Luyt CE, Leprince P, et al: Predictors of successful 
+extracorporeal membrane oxygenation (ECMO) weaning after 
+assistance for refractory cardiogenic shock. Intensive Care Med 
+37: 1738–1745, 2011.
+ 28. Schmidt M, Pellegrino V, Combes A, Scheinkestel C, Cooper DJ, 
+Hodgson C: Mechanical ventilation during extracorporeal 
+membrane oxygenation. Crit Care 18: 203, 2014.
+ 29. Boulate D, Luyt CE, Pozzi M, et al: Acute lung injury after mechan-
+ical circulatory support implantation in patients on extracorpo-
+real life support: An unrecognized problem. Eur J Cardiothorac 
+Surg 44: 544–9; discussion 549, 2013.
+ 30. Mirabel M, Luyt CE, Leprince P, et al: Outcomes, long-term qual-
+ity of life, and psychologic assessment of fulminant myocarditis 
+patients rescued by mechanical circulatory support. Crit Care 
+Med 39: 1029–1035, 2011.
+ 31. Abrams D, Garan AR, Brodie D: Awake and fully mobile patients 
+on cardiac extracorporeal life support. Ann Cardiothorac Surg 
+8: 44–53, 2019.
+ 32. Extracorporeal Life Support Organization: ELSO Anticoagulation 
+Guidelines 2014. Available at https://www.elso.org/Portals/0/
+Files/elsoanticoagulationguideline8-2014-table-contents.pdf.
+ 33. Ranucci M: The conundrum of anticoagulation and hemostatic 
+management in ECMO patients. Minerva Anestesiol 82: 147–
+148, 2016.
+ 34. Aggarwal A, Modi S, Kumar S, et al: Use of a single-circuit 
+CentriMag® for biventricular support in postpartum cardiomy-
+opathy. Perfusion 28: 156–159, 2013.
+ 35. Danial P, Hajage D, Nguyen LS, et al: Percutaneous versus 
+surgical femoro-femoral veno-arterial ECMO: A propensity 
+score matched study. Intensive Care Med 44: 2153–2161, 
+2018.
+ 36. Rastan AJ, Lachmann N, Walther T, et al: Autopsy findings in 
+patients on postcardiotomy extracorporeal membrane oxygen-
+ation (ECMO). Int J Artif Organs 29: 1121–1131, 2006.
+ 37. Combes A, Leprince P, Luyt CE, et al: Outcomes and long-term 
+quality-of-life of patients supported by extracorporeal mem-
+brane oxygenation for refractory cardiogenic shock. Crit Care 
+Med 36: 1404–1411, 2008.
+ 38. Fisser C, Reichenbächer C, Müller T, et al: Incidence and risk 
+factors for cannula-related venous thrombosis after venove-
+nous extracorporeal membrane oxygenation in adult patients 
+with acute respiratory failure. Crit Care Med 47: e332–e339,  
+2019.
+ 39. Lubnow M, Philipp A, Foltan M, et al: Technical complications 
+during veno-venous extracorporeal membrane oxygenation 
+and their relevance predicting a system-exchange–retrospective 
+analysis of 265 cases. PLoS One 9: e112316, 2014.
+ 40. Lehle K, Lubnow M, Philipp A, et al: Prevalence of hemolysis and 
+metabolic acidosis in patients with circulatory failure supported 
+with extracorporeal life support: A marker for survival? Eur J 
+Heart Fail 19(suppl 2): 110–116, 2017.
+ 41. Lorusso R, Barili F, Mauro MD, et al: In-hospital neurologic com-
+plications in adult patients undergoing venoarterial extracorpo-
+real membrane oxygenation: Results from the extracorporeal 
+life support organization registry. Crit Care Med 44: e964–e972, 
+2016.
+ 42. Ling L, Chan KM: Weaning adult patients with cardiogenic shock 
+on veno-arterial extracorporeal membrane oxygenation by 
+pump-controlled retrograde trial off. Perfusion 33: 339–345, 
+2018.
+ 43. MacLaren G: When to initiate ECMO with low likelihood of suc-
+cess. Crit Care 32: 20, 2018.
+ 44. Ramanathan K, Cove ME, Caleb MG, Teoh KL, Maclaren 
+G: Ethical dilemmas of adult ECMO: Emerging concep-
+tual challenges. J Cardiothorac Vasc Anesth 29: 229–233,  
+2015.
+ 45. Chen YY, Chen L, Kao YH, Chu TS, Huang TS, Ko WJ: The over-
+optimistic portrayal of life-supporting treatments in newspapers 
+and on the Internet: A cross-sectional study using extra-corpo-
+real membrane oxygenation as an example. BMC Med Ethics 
+15: 59, 2014.

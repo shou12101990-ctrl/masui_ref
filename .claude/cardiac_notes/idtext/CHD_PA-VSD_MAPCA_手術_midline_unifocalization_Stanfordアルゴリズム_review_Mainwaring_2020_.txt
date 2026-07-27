@@ -1,0 +1,891 @@
+
+[[p1]]
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Introduction
+Pulmonary atresia with ventricular septal defect and major 
+aortopulmonary collateral arteries (PA/VSD/MAPCAs) 
+is a complex and heterogeneous form of congenital heart 
+defect. The natural history of PA/VSD/MAPCAs is quite 
+poor, with 10- and 20-year survival estimated at 50% and 
+20%, respectively (1). Through the early 1990’s, the surgical 
+treatment options largely focused on staged thoracotomy 
+procedures, and had little impact on prognosis for the group 
+as a whole. Based on these results, there were some who 
+advocated for the abandonment of treatments that offered 
+limited benefit but subjected patients to the morbidity of 
+these surgical procedures (2). 
+The introduction of the midline unifocalization approach 
+represented a paradigm shift in the treatment of PA/
+VSD/MAPCAs (3). This approach entails a technically 
+demanding surgical procedure but is extremely versatile 
+in its application. As such, it can be utilized to address 
+the many diverse forms of PA/VSD/MAPCAs that may 
+be encountered. There are numerous groups that have 
+subsequently adopted the midline unifocalization approach 
+Original Article on Management of Congenital Heart Disease
+Midline unifocalization for pulmonary atresia with ventricular 
+septal defect and major aortopulmonary collateral arteries
+Richard D. Mainwaring 
+Division of Pediatric Cardiac Surgery, Lucile Packard Children’s Hospital/Stanford University, Stanford, CA, USA
+Correspondence to: Richard D. Mainwaring, MD. Stanford University School of Medicine, 300 Pasteur Drive, Falk CVRC, Stanford, CA 94305, USA. 
+Email: mainwaring@stanford.edu. 
+Background: Pulmonary atresia with ventricular septal defect and major aortopulmonary collateral arteries 
+(PA/VSD/MAPCAs) is a relatively rare and extremely heterogeneous form of congenital heart disease. 
+Despite vast improvements in the surgical management of this disease, there is still an ongoing controversy 
+regarding the optimal treatment. The purpose of this chapter is to summarize the surgical algorithm used at 
+Stanford University with a special focus on midline unifocalization.
+Methods: We have an experience with well over 300 patients undergoing primary surgical treatment of 
+PA/VSD/MAPCAs. There were three pathways employed to accommodate the various forms of this 
+heart defect. The dominant pathway is midline unifocalization, which was utilized in 80% of all patients. 
+Less frequently employed strategies included creation of an aortopulmonary window (15%), and other 
+approaches (5%). 
+Results: For the patients who underwent a midline unifocalization, 85% had a single-stage complete repair 
+while 15% had a unifocalization and shunt. The operative mortality was 1.5% for the single-stage complete 
+repair group vs. 8% for the unifocalization/shunt group. Ultimately, 97% of the midline unifocalization 
+patients were repaired. However, the mean right ventricle to aortic pressure ratio was lower in patients who 
+had a single-stage complete repair compared with an initial unifocalization/shunt (0.36±0.09 vs. 0.42±0.07). 
+Conclusions:  The surgical treatment of PA/VSD/MAPCAs is made more complicated due to 
+heterogeneity of MAPCA and pulmonary artery anatomy. The algorithm utilized at Stanford takes into 
+account the anatomic heterogeneity and the results demonstrate that a high percentage of patients achieve 
+full repair. 
+Keywords: Congenital heart disease; pulmonary arteries; pulmonary veins; pulmonary valve
+Submitted Jun 24, 2019. Accepted for publication Sep 16, 2019.
+doi: 10.21037/jtd.2019.10.44
+View this article at: http://dx.doi.org/10.21037/jtd.2019.10.44
+1273
+[[p2]]
+1264
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Mainwaring. Surgical treatment of MAPCAs
+and have confirmed the success of this surgical algorithm 
+relative to the untreated natural history (4,5). Despite the 
+relative success of the midline unifocalization approach, 
+there are many unresolved controversies regarding the 
+optimal treatment of PA/VSD/MAPCAs. This is evidenced 
+by the explosion in the number of manuscripts that have 
+been published on this subject in the past few years (6-13). 
+The merit of these numerous approaches will eventually be 
+adjudicated through long-term data outcomes.
+Methods
+Neonatal diagnosis and management
+Patients with PA/VSD/MAPCAs generally have their 
+diagnosis made early in life. Some patients will be identified 
+by fetal echocardiography based on the large VSD, PA, and 
+overriding aorta. The majority of patients with PA/VSD/
+MAPCAs present as neonates with the combination of 
+cyanosis and a cardiac murmur. There is also a small subset 
+of patients who present with early signs and symptoms of 
+congestive heart failure. Historically, we have recommended 
+performing a neonatal cardiac catheterization to fully delineate 
+the anatomy of the pulmonary arteries and MAPCAs. In recent 
+years, we have been increasingly using computed tomogram 
+angiography (CTA) to delineate this anatomy. 
+The purpose of performing a neonatal cardiac 
+catheterization or CTA is to identify specific anatomic 
+features that we feel are indicators for a change from the 
+“conventional” surgical management. These anatomic 
+features include: (I) ductus to one lung with MAPCAs to 
+the contralateral side, (II) hemi-truncus to one lung with 
+MAPCAs to the contralateral side, and (III) dual supply 
+MAPCAs with normal arborization of the pulmonary 
+arterial tree in the presence of clinical cyanosis. In the 
+absence of these three anatomic features, the neonates are 
+discharged from the hospital with the plan to have them 
+return for elective surgery between 3 and 6 months of age. 
+This “conventional” pathway accounts for more than 
+75% of all patients presenting with the diagnosis of PA/
+VSD/MAPCAs. Patients with dual supply MAPCAs 
+represent a separate anatomic category that is important 
+to identify in the neonatal time frame. By definition, the 
+phrase “dual supply” indicates that portions of the lung 
+receive blood supply from both the pulmonary arterial 
+tree and from MAPCAs. There are some patients who 
+have completely normal arborization of the pulmonary 
+tree, with all 18 segments of the lung in continuity 
+with the pulmonary artery. These patients may be ideal 
+candidates for creation of a neonatal aortopulmonary 
+window (14). This strategy can result in dramatic growth 
+of the pulmonary arterial vessels and may obviate the need 
+for unifocalization of MAPCAs. However, this favorable 
+outcome cannot be counted on in all patients, and a subset 
+will require a complex pulmonary artery reconstruction to 
+address stenoses prior to complete repair. 
+Patients with a ductus or hemi-truncus have high 
+pressure and flow to that side. The associated lung can 
+rapidly develop pulmonary vascular obstructive disease, 
+and therefore require an early intervention to protect this 
+lung. The contralateral lung has a highly variable number 
+of MAPCAs, and typically has less pulmonary blood 
+flow compared to the side supplied by the ductus/hemi-
+truncus. In the presence of well-developed MAPCAs, 
+early complete repair may be performed. However, some 
+have small, numerous MAPCAs with limited pulmonary 
+blood flow and poorly developed pulmonary vasculature. 
+Complete unifocalization under this circumstance would 
+result in the majority of pulmonary blood flow going to 
+the side of the ductus/hemi-truncus. This situation is 
+usually managed with unifocalization of the MAPCAs 
+with a shunt to that side and either banding of the ductus/
+hemi-truncus or division of the vessel and placement 
+of a shunt to this side as well. The decision of whether 
+to pursue a complete repair vs. a staged repair can be a 
+challenging and complex one with important downstream 
+consequences (15). 
+In addition to the anatomic features outlined above, there 
+are a small number of patients with PA/VSD/MAPCAs 
+who present with signs and symptoms of congestive heart 
+failure early on in life. These patients invariably have large 
+MAPCAs with excessive pulmonary blood flow. Some of 
+these patients will be ventilator dependent due to their 
+heart failure condition. There is no effective medical 
+treatment that will restore these patients to a favorable 
+course, and thus early complete repair is indicated (16). 
+Ironically, because these patients have large MAPCAs with 
+a well-developed pulmonary vasculature, the outcomes for 
+these patients are generally quite favorable. The anatomy 
+and age of the patients at the time of first surgery are shown 
+?e?PM
+Evaluation of patients for midline unifocalization 
+More than 75% of patients born with PA/VSD/MAPCAs 
+[[p3]]
+1265
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Journal of Thoracic Disease, Vol 12, No 3 March 2020
+are candidates for a midline unifocalization strategy. As 
+outlined above, these patients are thoroughly evaluated 
+as newborns, and in the absence of indications for early 
+intervention, are sent home for growth and development. 
+The plan for these patients is for them to undergo elective 
+surgery between 3 and 6 months of age. At this age, the 
+patients tolerate the lengthy unifocalization procedures 
+better than neonates due to the maturity of organ function. 
+While it is true that unifocalizations can be performed 
+in neonates when there is a mandate to do so, we have 
+observed that the recovery of neonates takes longer and 
+should be avoided when possible.
+In preparation for surgery, the patients undergo a repeat 
+cardiac catheterization to re-evaluate the status of the 
+MAPCAs. There are circumstances in which MAPCAs or 
+portions thereof may occlude between the neonatal and 
+infant studies. The purpose of the follow-up study is to re-
+document the anatomy of the MAPCAs and relationship 
+to the pulmonary arteries and to provide a roadmap for the 
+surgical procedure. The natural history of MAPCAs is to 
+develop ostial stenoses, presumably due to the turbulence 
+of flow at this site. However, there is a broad range in the 
+rapidity and degree of stenosis that can be seen in any given 
+MAPCA, and is a highly unpredictable process. High-grade 
+stenoses may progress to complete occlusions over time, and 
+when this happens, those segments of lung that are supplied 
+by that MAPCA will be lost from a physiologic standpoint. 
+Portions of lung that lose their natural blood supply will 
+develop acquired collaterals blood flow over time, but 
+these vessels are invariably too small to be amenable for 
+unifocalization. 
+Midline unifocalization
+Unifocalization procedures are performed through a 
+median sternotomy incision under general anesthesia. We 
+assiduously avoid the use of inhalation agents for these 
+lengthy procedures, as there is the potential for inducing 
+multi-system organ dysfunction post-operatively. Arterial 
+and central venous access are obtained along with multiple 
+peripheral IV’s. The majority of patients will have a thymus 
+present, in which case it is resected to provide full exposure 
+to the upper mediastinum. There are about 20% of patients 
+who have a completely absent thymus, which is presumptive 
+evidence of DiGeorge (22q11 deletion) syndrome. There 
+are also some patients who have confirmed DiGeorge 
+syndrome but will have a small amount of thymic tissue 
+present.
+The anterior pericardium is harvested and treated with 
+glutaraldehyde for use as the VSD patch. Both pleural 
+spaces are opened and a series of stay sutures are placed 
+2 millimeter (mm) above the phrenic nerve to mark its 
+position, as shown in Figure 2 (18). 
+Inspection of the heart should include a survey of 
+the coronary artery anatomy since there is a significant 
+prevalence of anomalous coronaries. The dissection is begun 
+by identifying the right and left branch pulmonary arteries, 
+which are present in 80% of patients and completely absent 
+Number
+140
+120
+100
+80
+60
+40
+20
+0
+<30 days   30–60 days   3–6 months  6–12 months  1–4 years   >4 years
+Age
+Single supply MAPCAs
+Dual supply MAPCAs
+Ductus or Hemi-truncus
+Figure 1 Histogram demonstrating the anatomy and age at initial 
+surgical intervention [used with permission from (17)]. MAPCA, 
+major aortopulmonary collateral artery.
+Figure 2 Illustration demonstrating the marking of the phrenic nerve 
+with a series of prolene sutures [used with permission from (18)]. 
+
+[[p4]]
+1266
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Mainwaring. Surgical treatment of MAPCAs
+in 20% of patients (19). The intra-pericardial pulmonary 
+arteries are typically quite diminutive, measuring between 
+1 and 3 mm in diameter. The plane between the aorta 
+and main pulmonary artery (typically 1 mm in diameter) 
+is dissected to fully mobilize the pulmonary arteries. The 
+superior vena cava is dissected and mobilized from the 
+innominate vein to the cavoatrial junction. T raction sutures 
+are placed on the lateral border of the aorta and on the 
+superior vena cava.
+The majority of MAPCAs originate from the descending 
+aorta and can be found in the window between the 
+ascending aorta and superior vena cava. The airway is 
+identified and the sub-carinal space opened. There are 
+always large numbers of lymph nodes present in this area, 
+and these nodes are resected to facilitate exposure. The 
+MAPCAs are identified in this sub-carinal window and can 
+be traced proximally to the origin from the descending 
+aorta. After finding the descending aorta, the remaining 
+MAPCA origins can be identified up and down the aorta. 
+Retro-esophageal MAPCAs should be sought on the 
+lateral border of the aorta on the side contralateral to the 
+aortic arch (20). It is frequently necessary to remove the 
+transesophageal echo probe to complete this dissection, 
+particularly when a retro-esophageal MAPCA is present.
+The MAPCA dissection is continued laterally to the 
+entrance into the lung parenchyma. It is imperative to 
+perform this dissection prior to administration of heparin, 
+as performing this dissection after heparinization can result 
+in an intra-parenchymal hemorrhage. Complete hemostasis 
+should be obtained throughout the operative field, with 
+particular attention to the areas of lymph node resection. 
+Purse strings are placed in the ascending aorta, superior 
+vena cava, inferior vena cava, and right superior pulmonary 
+vein. Heparin is administered and the patient cannulated in 
+preparation for cardiopulmonary bypass. Bypass is instituted 
+and the proximal origins of the MAPCA are immediately 
+ligated with Weck clips to eliminate this source of run-
+off from the systemic circulation. The patient is cooled 
+?QT??b??????
+rate by more than half. This safely permits a reduction in 
+pump flow to 100 mL/Kg/min and reduces the amount of 
+collateral flow during the reconstruction.
+The unifocalization process is individualized based on 
+the anatomy of the pulmonary arteries and MAPCAs. The 
+distal branches are probed with metal sizers to assess size, 
+orientation, and whether there are any stenoses present. 
+Branches that have stenoses are opened longitudinally and 
+augmented with a patch of pulmonary artery homograft 
+using 8-0 prolene. The MAPCAs and native pulmonary 
+artery system are all brought into continuity and the 
+central branch pulmonary arteries also augmented with a 
+homograft patch (21).
+For many years, we routinely performed an intra-
+operative flow study to assess the pulmonary vascular 
+resistance following complete unifocalization of the 
+MAPCAs. This flow study was performed by placing an 
+aortic cannula into the unifocalized pulmonary confluence 
+and flowing 3 liters per minute per meter squared to the 
+lungs. The acceptable pressure in the pulmonary vascular 
+????QT?g?GQQHM?o????
+flow study then underwent a complete repair with closure 
+of the VSD and placement of a right ventricle to pulmonary 
+artery conduit (23,24).
+In recent years of practice, we have come to the 
+realization that virtually all patients with oxygen saturations 
+greater than or equal to 85% will have well developed 
+pulmonary vascular beds, and are excellent candidates for 
+a single stage complete repair without the need for an 
+intra-operative flow study. Thus, the number of patients 
+for whom we perform an intra-operative flow study has 
+markedly diminished, and now represents only about 20% 
+of patients undergoing unifocalization. The indications for 
+an intra-operative flow study in our practice now include 
+patients with a pre-operative oxygen saturation of 82% or 
+less or patients who are over the age of 3 years at the time 
+of unifocalization. 
+In patients who are deemed suitable for a single stage 
+complete repair, a cardioplegia needle is placed in the 
+ascending aorta and the aorta is cross-clamped. Cardioplegia 
+is administered to achieve electromechanical silence. A right 
+ventriculostomy is performed and the intra-cardiac anatomy 
+inspected. The previously harvested autologous pericardium 
+is trimmed to the appropriate size for VSD closure and 
+sutured in place with 5-0 prolene. If there is an inter-atrial 
+communication, this is closed through a right atriotomy 
+incision. The aortic cross-clamp is then removed. During 
+rewarming, the right ventricle to pulmonary artery conduit 
+is sutured in place, performing the distal anastomosis first. 
+The proximal anastomosis is usually augmented with an 
+anterior patch to maintain the proper orientation of the 
+homograft valve (Figure 3). All suture lines are inspected to 
+assure reasonable hemostasis. T wo transthoracic lines are 
+placed, one in the left atrium and the other through right 
+atrium into the right ventricle.
+The patient is then weaned from cardiopulmonary 
+bypass and the venous cannulas removed. We typically use 
+[[p5]]
+1267
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Journal of Thoracic Disease, Vol 12, No 3 March 2020
+epinephrine at 0.03 μg/kg/min, dopamine at 5 μg/kg/min, 
+milrinone at 0.5 μg/kg/min, and CaCl at 20 μg/kg/min for 
+cardiac support. A transesophageal echo is performed to 
+inspect the ventricular function and integrity of the repair. 
+Protamine is administered, the chest is packed with gauze 
+while platelets and cryoprecipitate are administered. In 
+recent years we have begun to routinely use factor eight 
+inhibitor binding agent (FEIBA, Baxalta US Inc., Westlake 
+Village, CA) at a dose of 10 units per Kg if the patient 
+exhibits clinical signs of an ongoing coagulopathy. Chest 
+tubes and temporary pacing wires are placed prior to chest 
+closure. 
+Results and discussion
+Midline unifocalization
+Over the past 16 years, we have performed 255 primary 
+unifocalization procedures at our center (17,25). Of 
+these 255 patients, 217 (85%) underwent a single stage 
+complete repair. There were 3 operative deaths (1.5%) 
+in the patients undergoing single stage complete repair. 
+There were an additional eight late deaths subsequent to 
+complete repair ( Figure 4). 
+Thirty-eight patients underwent a unifocalization but 
+were not deemed candidates for simultaneous VSD closure. 
+These patients had a central shunt placed from the 
+ascending aorta to unifocalized pulmonary artery 
+bed ( Figure 5 ). There were three operative deaths (8.8%) 
+and five interim deaths in this cohort. T wenty-four of the 
+30 survivors have subsequently undergone complete repair, 
+with one late death. The actuarial survival curves for these 
+two cohorts is shown in Figure 6. The predicted survival was 
+Figure 3  Illustration demonstrating complete repair of PA/
+VSD/MAPCAs, including unifocalization of MAPCAs, repair 
+of VSD, and placement of a conduit from the right ventricle 
+to reconstructed pulmonary artery [used with permission  
+from (22)]. PA/VSD/MAPCAs, pulmonary atresia with ventricular 
+septal defect and major aortopulmonary collateral arteries. PA, 
+pulmonary atresia; VSD, ventricular septal defect; MAPCA, major 
+aortopulmonary collateral artery.
+Homograft patch
+Aorta Homograft conduit Homograft patch
+Homograft patch
+Homograft patch
+Midline
+unifocalization
+n=255
+Single stage
+complete repair
+n=217
+Unifocalization
+& shunt
+n=38
+Operative
+survivors
+n=214
+Eventual
+complete repair
+n=24
+Recent surgery
+n=4
+Multiple
+procedures
+n=2
+Survivors
+n=206
+3 operative
+deaths
+8 late
+deaths
+(1 late death)
+3 operative
+deaths
+5 interim
+deaths
+Operative
+survivors
+n=35
+Survivors
+n=30
+Figure 4 Flow diagram for the 255 patients who underwent a midline unifocalization [used with permission from (25)]. 
+[[p6]]
+1268
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Mainwaring. Surgical treatment of MAPCAs
+93% vs. 68%, respectively (P<0.001). Nine-four percent of 
+the patients who underwent a midline unifocalization have 
+ultimately achieved complete repair. There was a significant 
+disparity between those undergoing a single-stage complete 
+repair vs. unifocalization/shunt (100% vs. 63% at 5 years, 
+P<0.0001). The Kaplan-Meier curves for these two cohorts 
+are shown in Figure 7. 
+The average right ventricle to aortic peak systolic pressure 
+ratio for patients undergoing a single-stage complete repair 
+was 0.36±0.09, with a range of 0.20 to 0.58 ( Figure 8 ). 
+Patients who underwent and initial unifocalization/shunt 
+and then complete repair had an average right ventricle 
+to aortic pressure ratio of 0.42±0.07 (P<0.05 compared to 
+single-stage complete repair). The data for these patients is 
+shown in Figure 9. 
+We recently performed an analysis of the likelihood of 
+achieving an “ideal outcome” as defined by achieving all 
+three of these measures of outcome including: (I) patient is 
+alive, (II) patient has undergone complete repair, and (III) 
+the RV/Ao pressure ratio is below a designated level. We 
+selected three separate RV/Ao pressure ratio thresholds 
+including 0.50, 0.45, and 0.40. The achievement of all 
+three measures of outcome was 89%, 80%, and 67%, 
+respectively ( Figure 10 ). A review of the literature on the 
+pulmonary artery rehabilitation approach reveals that the 
+comparable percentages would be 20%, 5%, and 0%. 
+Thus, combining measures of outcome widens the disparity 
+between the midline unifocalization approach and the 
+pulmonary artery rehabilitation approach (25,26). 
+Late hemodynamic follow-up
+The majority of patients who undergo complete repair 
+of PA/VSD/MAPCAs will have stable hemodynamics 
+over time. In a study that evaluated 80 patients, the right 
+ventricle to aortic pressure ratios were 0.39±0.09 as 
+measured at the conclusion of a complete repair procedure 
+and were 0.36±0.07 in the same patients assessed at the 
+time of their right ventricle to pulmonary artery conduit 
+replacement (27). It should be recognized that this cohort 
+of 80 patients was a select group by virtue of the fact that 
+they had undergone both a complete repair and subsequent 
+conduit replacement. 
+Reoperations on the unifocalized bed
+While the majority of patients do remarkably well following 
+midline unifocalization, there is a subset of patients who 
+demonstrate an increase in pulmonary artery pressures 
+and subsequently require unifocalization revision. Most 
+of the cases will manifest within the first year following 
+surgery. This observation prompted us to perform a 
+study in order to evaluate the risk factors for requiring 
+unifocalization revision (28). The results demonstrated that 
+Aorta
+Shunt
+Homograft patch 
+Homograft patch
+Homograft patch
+Homograft patch
+Figure 5  Illustration of complete unifocalization of PA/VSD/
+MAPCAs and placement of a central shunt from the aorta to 
+reconstructed pulmonary artery bed [used with permission  
+from (22)]. PA/VSD/MAPCAs, pulmonary atresia with ventricular 
+septal defect and major aortopulmonary collateral arteries. PA, 
+pulmonary atresia; VSD, ventricular septal defect; MAPCA, major 
+aortopulmonary collateral artery.
+Figure 6  Actuarial survival curves for the 217 patients who 
+underwent single-stage complete repair and for the 38 patients 
+who initially underwent a unifocalization and shunt. The 
+predicted survival was 93% for single-stage patients vs. 68% for 
+the unifocalization/shunt cohort (P<0.001) [used with permission 
+from (25)]. 
+Survival 
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0                      2                   4                  6                    8                 10
+217                      195                   84                  61                   48                 30
+ 38                        29                      19                    12                      10                     8
+93%                                                         93%
+68%                                                         68%
+Single stage complete repair
+Unifocalization/shunt
+P<0.001
+SSCR
+US
+Years
+[[p7]]
+1269
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Journal of Thoracic Disease, Vol 12, No 3 March 2020
+there were three risk factors predisposing to the need for 
+unifocalization revision, specifically: (I) unifocalization/
+shunt vs. complete repair, (II) higher RV/Ao pressure ratios, 
+and (III) absence of central pulmonary arteries. While 
+the first two risk factors were anticipated, the third was 
+not expected, since absence of central pulmonary arteries 
+was not identified as a risk factor at the time of midline 
+unifocalization.
+The surgical approach that we have developed for 
+unifocalization revision is performed through a re-do 
+median sternotomy. We attempt to do the majority of the 
+Figure 7 Kaplan-Meier curve demonstrating the ability to achieve 
+complete repair for the 217 patients who underwent single-stage 
+complete repair and for the 38 patients who initially underwent a 
+unifocalization and shunt. The complete repair status was 100% 
+for the single-stage complete repair cohort vs. 37% at one year and 
+63% at 5 years for the unifocalization/shunt cohort (P<0.001) [used 
+with permission from (25)]. 
+Figure 8  Histogram demonstrating the distribution of right 
+ventricle to aortic pressure ratios in the 217 patients who 
+underwent single-stage complete repair. The average pressure ratio 
+was 0.36±0.09 [used with permission from (25)]. 
+Figure 10  Curves demonstrating the achievement of all three 
+measures of outcome using right ventricle to aortic pressure 
+ratios 0.50, 0.45, and 0.40. The achievement of all three measures 
+of outcome was 89%, 80%, and 67%, respectively [used with 
+permission from (25)]. 
+Figure 9  Histogram demonstrating the distribution of right 
+ventricle to aortic pressure ratios in the 24 patients who initially 
+underwent unifocalization and shunt and subsequently had 
+complete repair. The average pressure ratio was 0.42±0.07 (P<0.05 
+compared to single-stage complete repair) [used with permission 
+from (25)]. 
+Complete repair
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+0                     2                  4                 6                   8                10
+217                    214                  195               111                 84               79
+ 38                      35                      29                   22                     19                 15
+63%
+100%
+Single stage complete repair
+Unifocalization/shunt
+SSCR
+US
+P<0.001
+Years
+Frequency
+7
+6
+5
+4
+3
+2
+1
+0
+Mean 0.42±0.07
+RV/Ao pressure ratio
+0.10–0.130.14–0.170.18–0.210.22–0.250.26–0.290.30–0.330.34–0.370.38–0.410.42–0.450.46–0.490.50–0.530.54–0.570.58–0.610.62–0.65
+Frequency
+60
+50
+40
+30
+20
+10
+0
+Mean 0.36±0.09
+RV/Ao pressure ratio
+0.10–0.130.14–0.170.18–0.210.22–0.250.26–0.290.30–0.330.34–0.370.38–0.410.42–0.450.46–0.490.50–0.530.54–0.570.58–0.610.62–0.65
+Patients achieving a successful outcome (%)
+100
+80
+60
+40
+20
+0
+0                       1                     2                    3                     4                    5
+89%
+80%
+67%
+RV/Ao <0.50
+RV/Ao <0.45
+RV/Ao <0.40
+Years
+[[p8]]
+1270
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Mainwaring. Surgical treatment of MAPCAs
+dissection prior to heparinization and the institution of 
+cardiopulmonary bypass. This can usually be accomplished 
+completely on the right side and to a lesser extent on the 
+left due to the presence of the conduit ( Figure 11A). Once 
+bypass has been instituted, we remove the existing right 
+ventricle to pulmonary artery conduit and complete the 
+dissection of the left pulmonary artery. The right and left 
+pulmonary arteries are then divided to facilitate access to 
+the lower lobe (Figure 11B).
+An incision is made along the inferior and medial 
+aspect of the branch pulmonary artery ( Figure 11C ). This 
+incision is continued into the medial lower lobe orifice. A 
+homograft patch is then sutured in place to augment the 
+lower lobe artery (Figure 11D). The operation is completed 
+by augmenting the central branch pulmonary arteries 
+and replacing the right ventricle to pulmonary artery 
+conduit ( Figure 11E ). This technique has revolutionized 
+our approach to unifocalization revision and we no longer 
+perform thoracotomies for this clinical situation. 
+The results of unifocalization revision have recently 
+been reported (29). This study demonstrated that patients 
+who initially underwent a single stage complete repair 
+fared much better than those who had undergone a 
+unifocalization/shunt ( Figure 12 ). Specifically, survival was 
+100% for single stage repair vs. 75% for unifocalization/
+shunt. In addition, 9% of patients required a second 
+unifocalization revision in the single stage cohort vs. 25% 
+for the unifocalization/shunt group. Collectively, 91% 
+of the single stage repair cohort were alive and had not 
+required a second revision vs. 56% for the unifocalization/
+shunt group (P<0.001). The hemodynamic results for 
+unifocalization revision are summarized in Figure 13 . The 
+pulmonary artery to aortic pressure ratios decreased from 
+0.82±0.18 to 0.41±0.09 (P<0.001). 
+Figure 11  Surgical technique for unifocalization revision. (A) Artist’s illustration demonstrating typical anatomy in patients who require 
+unifocalization revision. There are long-segment stenoses to both the right lower and left lower lobes; (B) Artist’s illustration demonstrating 
+removal of the conduit and line of division between the right and left pulmonary arteries; (C) Artist’s illustration demonstrating incisions 
+along the inferior and medial aspect of the branch pulmonary arteries; (D) Artist’s illustration demonstrating homograft patch augmentation 
+of the branch pulmonary arteries; (E) Artist’s illustration demonstrating restoration of continuity between the right and left branch 
+pulmonary arteries. A new aortic valved conduit is placed from the right ventricle to the reconstructed pulmonary arteries [used with 
+permission from (28)]. 
+Long-segment
+stenosis to LLL
+Conduit removed
+Line of division between right
+and left branch pulmonary arteries
+Incisions along the inferior and medial
+aspect of the pulmonary arteries
+Homograft patch augmentation of 
+branch pulmonary arteries 
+New conduit from the right ventricle 
+to reconstructed pulmonary arteries
+Long-segment
+stenosis to RLL
+A B C
+D E
+[[p9]]
+1271
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Journal of Thoracic Disease, Vol 12, No 3 March 2020
+Conclusions
+PA/VSD/MAPCAs is a complex form of congenital heart 
+disease. While the intra-cardiac anatomy in PA/VSD/
+MAPCAs is remarkably uniform, there is a wide diversity 
+of anatomy for both the pulmonary arteries and MAPCAs. 
+This diverse anatomy provides a mandate for a surgical 
+approach that is versatile and can address the many 
+variations of this disease. The mid-line unifocalization 
+approach is our choice for patients with predominantly 
+single-supply MAPCAs and was used in the preponderance 
+(80%) of the patients. It is our belief that the long-term 
+outcomes for PA/VSD/MAPCAs will be determined by two 
+factors; specifically, (I) the number of patients achieving 
+complete repair, and (II) the achievement of low right 
+ventricular pressures. 
+Acknowledgments
+Figures 2, 3, 5, 11A,B,C,D,E were drawn by Erin Anne 
+Mainwaring.
+Funding: None.
+Footnote
+Provenance and Peer Review: This article was commissioned 
+by the Guest Editor (Raghav A. Murthy) for the series 
+“Management of Congenital Heart Disease” published in 
+Journal of Thoracic Disease . The article was sent for external 
+peer review organized by the Guest Editor and the editorial 
+office.
+Conflicts of Interest: The series “Management of Congenital 
+Heart Disease” was commissioned by the editorial office 
+without any funding or sponsorship. The author has no 
+other conflicts of interest to declare.
+Figure 12 Flow diagram demonstrating the results of unifocalization revision [used with permission from (29)]. 
+Figure 13 Hemodynamic results of unifocalization revision [used 
+with permission from (29)]. 
+Unifocalization
+revisions
+n=47
+Following single stage
+complete repair
+n=31
+Following 
+unifocalization/shunt
+n=16
+Eventual repair
+n=14
+Second shunt
+n=2
+1 operative death
+1 late death2 late deaths
+P<0.01
+Mid-term survivors
+n=12 (75%)
+Mid-term survivors
+n=31 (100%)
+Mid-term survivors
+n=12
+Mid-term survivors
+n=0
+PA/Ao pressure ratio
+   Prior to revision       Following revision
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0 Following complete
+repair
+Severe
+Moderate
+Mild
+[[p10]]
+1272
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Mainwaring. Surgical treatment of MAPCAs
+Ethical Statement: The author is accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+appropriately investigated and resolved. This study was 
+approved by the Institutional Review Board (IRB) at 
+Stanford University (Protocol ID 33924) and written 
+informed consent was obtained from all patients. 
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+PM?a?jK?r?iK?r?cM?o??
+attrition in complex pulmonary atresia. JACC 1995;25:491-9. 
+2. Leonard H, Derrick G, O’Sullivan J, et al. Natural 
+and unnatural history of pulmonary atresia. Heart 
+2000;84:499-503. 
+3. Reddy VM, Liddicoat JR, Hanley FL. Midline one-
+stage unifocalization and repair of pulmonary atresia 
+with ventricular septal defect and major aortopulmonary 
+collaterals. J Thorac Cardiovasc Surg 1995;109:832-44. 
+4. Carotti A, Albanese SB, Filleppelli S, et al. Determinants 
+of outcome after surgical treatment of pulmonary atresia 
+with ventricular septal defect and major aortopulmonary 
+collateral arteries. J Thorac Cardiovasc Surg 
+2010;140:1092-103. 
+5. Barron DJ, Botha P . Approaches to pulmonary atresia with 
+major aortopulmonary collateral arteries. Semin Thorac 
+Cardiovasc Surg Pediatr Card Surg Annu 2018;21:64-74. 
+6. Song SW, Park HK, Park YH, et al. Pulmonary atresia 
+with ventricular septal defects and major aortopulmonary 
+collateral arteries. Circ J 2009;73:516-22. 
+7. Ishibashi N, Shin’oka T , Ishiyama M, et al. Clinical 
+results of staged repair with complete unifocalization for 
+pulmonary atresia with ventricular septal defect and major 
+aortopulmonary collateral arteries. Eur J Cardiothorac 
+Surg 2007;32:202-8. 
+8. Kim H, Sung SC, Choi KH, et al. A central shunt to 
+rehabilitate diminutive pulmonary arteries in patients with 
+pulmonary atresia with ventricular septal defect. J Thorac 
+Cardiovasc Surg 2015;149:515-20. 
+9. Mumtaz MA, Rosenthal G, Qureshi A, et al. Melbourne 
+shunt promotes growth of diminutive central pulmonary 
+arteries in patients with pulmonary atresia, ventricular 
+septal defect, and systemic-to- pulmonary collateral 
+arteries. Ann Thorac Surg 2008;85:2079-83. 
+10. Hibino N, He D, Yuan F , et al. Growth of diminutive 
+central pulmonary arteries after right ventricle to 
+pulmonary artery homograft implantation. Ann Thorac 
+Surg 2014;97:2129-33. 
+11. Chen Q, Ma K, Hua Z, et al. Multistage pulmonary 
+artery rehabilitation in patients with pulmonary atresia, 
+ventricular septal defect and hypoplastic pulmonary artery. 
+Eur J Cardiothorac Surg 2016;50:160-6. 
+12. Zhang Y, Hua Z, Yang K, et al. Outcomes of the 
+rehabilitative procedure for patients with pulmonary 
+atresia, ventricular septal defect and hypoplastic pulmonary 
+arteries beyond the infant period. Eur J Cardiothorac Surg 
+2014;46:297-303. 
+13. Soquet J, Liava’a M, Eastaugh L, et al. Achievements 
+and limitations of a strategy of rehabilitation of native 
+pulmonary vessels in pulmonary atresia with ventricular 
+septal defect and major aortopulmonary collateral arteries. 
+Ann Thorac Surg 2017;103:1519-26. 
+14. Mainwaring RD, Reddy VM, Perry SB, et al. Late 
+outcomes in patients undergoing aortopulmonary window 
+for pulmonary atresia/stenosis and major aortopulmonary 
+collaterals. Ann Thorac Surg 2012;94:842-8. 
+15. Mainwaring RD, Rosenblatt TR, Patrick WL, et al. 
+Surgical results for patients with pulmonary atresia and a 
+ductus arteriosus or hemi-truncus to one lung and major 
+aortopulmonary collateral arteries to the contralateral 
+lung. Ann Thorac Surg 2018;106:568-74. 
+16. Watanabe N, Mainwaring RD, Reddy VM, et al. Early 
+complete repair of pulmonary atresia with ventricular 
+septal defect and major aortopulmonary collaterals. Ann 
+Thorac Surg 2014;97:909-15. 
+17. Mainwaring RD, Patrick WL, Roth S, et al. Surgical 
+algorithm and results for repair of pulmonary atresia/
+ventricular septal defect/major aortopulmonary collaterals. 
+J Thorac Cardiovasc Surg 2018;156:1194-204. 
+18. Greene CL, Mainwaring RD, Sidell D, et al. Impact of 
+phrenic nerve palsy and the need for diaphragm plication 
+following surgery for pulmonary atresia with ventricular 
+septal defect and major aortopulmonary collaterals. 
+Seminars in Thoracic and Cardiovascular Surgery 
+2018;30:318-24. 
+[[p11]]
+1273
+© AME Publishing Company.
+J Thorac Dis 2020;12(3):1263-1273 | http://dx.doi.org/10.21037/jtd.2019.10.44
+Journal of Thoracic Disease, Vol 12, No 3 March 2020
+19. Mainwaring RD, Patrick WL, Carrillo SA, et al. 
+Prevalence and anatomy of retro-esophageal major 
+aortopulmonary collateral arteries. Ann Thorac Surg 
+2016;102:877-82. 
+20. Carrillo SA, Mainwaring RD, Patrick WL, et al. Surgical 
+repair of pulmonary atresia/ventricular septal defect/major 
+aortopulmonary collaterals with absent intra-pericardial 
+pulmonary arteries. Ann Thorac Surg 2015;100:606-14. 
+21. Mainwaring RD, Reddy VM, Hanley FL. Surgical 
+reconstruction of pulmonary stenosis with ventricular 
+septal defect and major aortopulmonary collaterals. Ann 
+Thorac Surg 2013;95:1417-21. 
+22. Mainwaring RD, Sheikh AY, Reddy VM, et al. Surgical 
+results in patients with pulmonary atresia/major 
+aortopulmonary collaterals and Alagille syndrome. Eur J 
+Cardiothorac Surg 2012;42:235-40. 
+23. Grosse-Wortmann L, Y oo SJ, van Arsdell G, et al. 
+Preoperative total pulmonary blood flow predicts right 
+ventricular pressure in patients early after complete repair 
+of tetralogy of Fallot and pulmonary atresia with major 
+aortopulmonary collateral arteries. J Thorac Cardiovasc 
+Surg 2013;146:1185-90. 
+24. Zhu J, Meza J, Kto A, et al. Pulmonary flow study predicts 
+survival in pulmonary atresia with ventricular septal defect 
+and major aortopulmonary collateral arteries. J Thorac 
+Cardiovasc Surg 2016;152:1494-503.e1. 
+25. Mainwaring RD, Patrick WL, Rosenblatt TR, et al. 
+Analysis of achieving an “ideal outcome” following midline 
+unifocalization in pulmonary atresia with ventricular septal 
+defect and major aortopulmonary collateral arteries. Asian 
+Cardiovasc Thorac Ann 2019;27:11-7. 
+26. Mainwaring RD, Hanley FL. The earth is round! Letter to 
+the Editor. J Thorac Cardiovasc Surg 2019;157:e207. 
+27. Mainwaring RD, Reddy VM, Peng L, et al. Hemodynamic 
+assessment after complete repair of pulmonary atresia/
+major aortopulmonary collaterals. Ann Thorac Surg 
+2013;95:1397-402. 
+28. Mainwaring RD, Patrick WL, Ma M, et al. An Analysis 
+of patients requiring unifocalization revision following 
+midline unifocalization for pulmonary atresia with 
+ventricular septal defect and major aortopulmonary 
+collaterals. Eur J Cardiothorac Surg 2018;54:63-70. 
+29. Mainwaring RD, Patrick WL, Rosenblatt TR, et al. 
+Surgical results of unifocalization revision. J Thorac 
+Cardiovasc Surg 2019;158:534-45.e1.
+Cite this article as:  Mainwaring RD. Midline unifocalization 
+for pulmonary atresia with ventricular septal defect and 
+major aortopulmonary collateral arteries. J Thorac Dis 
+2020;12(3):1263-1273. doi: 10.21037/jtd.2019.10.44

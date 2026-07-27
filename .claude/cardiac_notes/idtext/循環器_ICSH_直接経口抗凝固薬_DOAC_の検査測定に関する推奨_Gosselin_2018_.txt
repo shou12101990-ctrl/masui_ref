@@ -1,0 +1,1783 @@
+
+[[p1]]
+International Council for Standardization in Haematology
+(ICSH) Recommendations for Laboratory Measurement
+of Direct Oral Anticoagulants
+Robert C. Gosselin 1 Dorothy M. Adcock 2 Shannon M. Bates 3 Jonathan Doux ﬁls4
+Emmanuel J. Favaloro 5 Isabelle Gouin-Thibault 6 Cecilia Guillermo 7 Yohko Kawai 8
+Edelgard Lindhoff-Last 9 Steve Kitchen 10
+1 Hemophilia Treatment Center, University of California, Davis Health
+System, Sacramento, California, United States
+2 Colorado Coagulation, Englewood, Colorado, United States
+3 Department of Medicine, McMaster University Medical Centre
+Hamilton, Ontario, Canada
+4 Department of Pharmacy-Namur Thrombosis and Hemostasis
+Center, University of Namur, Namur, Belgium
+5 Department of Haematology, Institute of Clinical Pathology and
+Medical Research (ICPMR), Westmead Hospital, Westmead,
+New South Wales, Australia
+6 Faculté de Pharmacie, Paris, France; Laboratoire d'Hématologie,
+Centre Hospitalier Universitaire, Rennes, France
+7 Hospital de Clínicas “Dr Manuel Quintela ”, Facultad de Medicina,
+Universidad de la República, Montevideo, Uruguay
+8 Sanno Hospital, Laboratory Medicine, Tokyo, Japan
+9 Cardiology Angiology Center Bethanien (CCB), CCB Vascular Center
+CCB Coagulation Center, Frankfurt, Germany
+10 Royal Hallamshire Hospital, Coagulation Shef ﬁeld, South Yorks,
+United Kingdom
+Thromb Haemost 2018;118:437 –450.
+Address for correspondence Dorothy M. Adcock, MD, Laboratory
+Corporation of America Holdings, 531 South Spring Street,
+B u r l i n g t o n ,N C2 7 2 1 5 ,U n i t e dS t a t e s( e - m a i l :a d c o c k d @ l a b c o r p . c o m ) .
+Keywords
+► direct oral
+anticoagulants
+► laboratory
+measurement
+► laboratory guidance
+► recommendations
+Abstract This guidance document was prepared on b ehalf of the International Council for
+Standardization in Haematology (ICSH) for providing haemostasis-related guidance
+documents for clinical laboratories. This inaugural coagulation ICSH document was
+developed by an ad hoc committee, comprised of international clinical and laboratory
+direct acting oral anticoagulant (DOAC) experts. The committee developed consensus
+recommendations for laboratory measurement of DOACs (dabigatran, rivaroxaban,
+apixaban and edoxaban), which would be g ermane for laboratories assessing DOAC
+anticoagulation. This guidance document addresses all phases of laboratory DOAC
+measurements, including pre-analytical (e.g. preferred time sample collection, pre-
+ferred sample type, sample stability), analytical (gold standard method, screening and
+quantifying methods) and post analytical (e.g . reporting units, quality assurance). The
+committee addressed the use and limitations of screening tests such as prothrombin
+time, activated partial thromboplastin time as well as viscoelastic measurements of
+clotting blood and point of care methods. Additionally, the committee provided
+recommendations for the proper validation or veri ﬁcation of performance of labora-
+tory assays prior to implementation for clinical use, and external quality assurance to
+provide continuous assessment of testing and reporting method.
+received
+August 28, 2017
+accepted after revision
+December 21, 2017
+Copyright © 2018 Schattauer DOI https://doi.org/
+10.1055/s-0038-1627480.
+ISSN 0340-6245.
+Consensus Document 437
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p2]]
+Background
+In 2008, the European Medicines Agency (EMA), an oversight
+agency for the European Union, approved the use of dabiga-
+tran etexilate (Pradaxa, Boehringer Ingelheim), an oral direct
+thrombin (factor [F]IIa) inhibitor, for thromboprophylaxis in
+patients after knee and hip replacement surgery.
+1 Since then,
+dabigatran and the direct factor Xa (FXa) inhibitors rivarox-
+aban (Xarelto, Bayer Pharma AG and Janssen Pharmaceuti-
+cals), apixaban (Eliquis, Bristol-Meyers Squibb and P ﬁzer)
+and edoxaban (Savaysa in the United States, Lixiana in
+Europe, Canada and Japan, Daiichi Sankyo) have been
+approved by the EMA and other regulatory agencies. Betrix-
+aban (Bevyxxa, Portola Pharmaceuticals, Inc.), another anti-
+Xa direct acting oral anticoagulant (DOAC), was recently
+approved for VTE prophylaxis in the United States. However,
+as of this writing, there has been limited published data on
+the effect of this DOAC on laboratory assays.
+Each DOAC has been reported to have predictable phar-
+macokinetic and pharmacodynamic responses, with no
+known dietary effect on ef ﬁcacy, although food enhances
+the absorption of rivaroxaban.
+2 Unlike VKAs, DOACs do not
+require routine laboratory monitoring of anticoagulant
+activity, but emergent and nonemergent circumstances in
+which DOAC assessment may be required have been
+described.
+3 This publication serves as a technical Interna-
+tional Council for Standardization in Haematology (ICSH)
+guidance document for laboratories that intend to assess
+(screen or quantify) DOAC anticoagulation. The recommen-
+dations provided are based on (1) information from peer-
+reviewed publications about laboratory measurement of
+DOACs, (2) contributing author ’s personal experience/expert
+opinion and (3) good laboratory practice. This document will
+primarily address the laboratory assessment of dabigatran,
+rivaroxaban, apixaban and edoxaban. Consensus recommen-
+dations indicate agreement by all contributing authors.
+Dabigatran Etexilate (Pradaxa, Boehringer Ingelheim)
+Dabigatran is formed when the oral prodrug, dabigatran
+etexilate, is hydrolyzed by esterases in the gut, liver, and
+blood.
+2,4 Dabigatran competitively and irreversibly inhibits
+free and ﬁbrin-bound thrombin by binding to the thrombin
+active site. 2,4–7 Usually given twice daily, dabigatran dosing
+(75,110 or 150 mg) is based on indication, patient ’s age, and
+patient’s renal function. 2,8 There is low bioavailability (3 –
+7%), with 35% protein binding and 80% renal clearance. The
+time to reach maximum concentration is usually 1.25 to
+3 hours after dose, with a half-life of approximately 12 to
+14 hours in patients with normal renal function
+2–4,8,9
+(►Table 1 ) Dabigatran is a substrate of ef ﬂux transporter
+P-glycoprotein (P-gp) (encoded by ABCB1) but is not meta-
+bolized by the cytochrome P450 isoenzymes.
+10
+Rivaroxaban (Xarelto, Bayer Pharma AG and Janssen
+Pharmaceuticals)
+Rivaroxaban is an oral, direct FXa inhibitor, inhibiting both
+free FXa and that bound to prothrombinase complex, thereby
+preventing thrombus extension.
+11 Rivaroxaban also inhibits
+FXa bound to the clot, in a concentration-dependent
+mechanism.12 Rivaroxaban is a competitive inhibitor of
+FXa, with high selectivity of more than 10,000-fold over
+other serine proteases. 13 Rivaroxaban is absorbed rapidly,
+reaching peak plasma concentrations in 2 hours 14 (►Table 1 )
+and maximum inhibition of FXa activity between 1 and
+4 hours after dosing. 14,15 The half-life of rivaroxaban is 5
+to 13 hours with high bioavailability (80 – 100%) in the
+nourished state; however, rivaroxaban displays dissolu-
+tion-limited absorption with decreased bioavailability in
+the fasting state. Plasma protein binding is approximately
+92 to 95% with albumin as the main binding component.
+14
+Rivaroxaban is a substrate of the ef ﬂux transporter P-gp and
+is metabolized by the CYP3A4 isoenzyme. 16
+Apixaban (Eliquis, Bristol-Meyers Squibb)
+Apixaban is a direct, reversible inhibitor of FXa administered
+orally twice daily as active drug.
+2 In humans, eight metabo-
+lites have been identi ﬁed, none of which appear to be
+active.17 Apixaban exhibits a half-life of approximately
+12 hours, has a high af ﬁnity for FXa and inhibits free FXa,
+FXa in the prothrombinase complex and FXa bound to
+platelets (
+►Table 1 ). Absorption of apixaban is approxi-
+mately 50%. Following oral administration, peak plasma
+concentrations are observed about 3 to 4 hours post dosing.
+Apixaban is 87% bound to plasma proteins and is predomi-
+??????GTUDHK??QT??QXD?
+the recovered dose eliminated via renal excretion.
+18
+Table 1 DOAC characteristics
+Dabigatran Rivaroxaban Apixaban Edoxaban
+Mechanism of
+action
+Direct, reversible inhibitor of free
+and clot-bound thrombin
+Direct, reversible inhibitors of free and prothrombinase bound
+factor Xa
+Bioavailability 3 –7% 80 –100% 50% 62%
+Protein binding 35% 92 –95% 87% 55%
+Primary clearance 80% renal 67% renal 56% faecal 50% renal
+Tmax 1.5 –3h 2 –3h 3 –4h 1 –2h
+Half-life
+a 12–14 h 5 –13 h 12 h 10 –14 h
+Abbreviation: Tmax, time to peak drug concentration after dose.
+aHalf-life varies with renal function, with increasing half-life with increased renal impairment.
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al.438
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p3]]
+Apixaban is a substrate of the ef ﬂux transporter P-gp and is
+metabolized by the CYP3A4-isoenzyme. 19
+Edoxaban (Savaysa in the United States, Lixiana in
+Europe, Canada and Japan, Daiichi Sankyo)
+Edoxaban is a highly selective, direct and reversible inhibitor of
+FXa.20,21 Edoxaban inhibits free FXa, as well as that within the
+prothrombinase complex. The recommended dose varies by
+indication and renal function
+21–29 (►Table 1 ). Edoxaban is
+absorbed rapidly with peak plasma concentrations within 1 to
+2 hours and exhibits a half-life of 10 to 14 hours. 20,21 The
+absolute bioavailability is approximately 62%. 20,21 In vitro
+plasma protein binding is approximately 55%. Unchanged
+edoxaban is the predominant form in plasma and this com-
+pound is metabolized via hydrolysis (mediated by carboxyles-
+terase 1), conjugation or oxidation by CYP3A4/5 ( < 10%).
+20,21
+Edoxaban has three active metabolites; the predominant
+metabolite (M-4), formed by hydrolysis, is active. Edoxaban
+is a substrate for the ef ﬂux transporter P-gp.20,21
+Consensus DOAC measurement recommendations: gen-
+eral patient considerations.
+ If nonemergent testing is necessary, recommend trough
+drug level assessment ( ►Table 2 ).
+ Recommend DOAC levels be reported in ng/mL units.
+ Recommend a comment with each reported DOAC result
+to indicate lack of DOAC ‘therapeutic ranges ’,b u tc i t e
+expected trough levels (correlating with dose) for
+DOAC -treated patients from published studies (►Table 2 ).
+Laboratory Assessment of DOACs
+The optimal laboratory method to measure a DOAC
+depends on whether the test(s) are used for qualitative
+(presence or absence) or quantitative (ng/mL) purpose, and
+the required turn-around-time (TAT) for result. 3,30 Auto-
+mated coagulation analysers have the capacity to quantify
+or screen for DOACs; however, both laboratory staff and
+treating clinicians require a thorough understanding of the
+limitations of the available ass ays, especially t hose used for
+qualitative purposes. Timely evaluation is critical in several
+scenarios such as life-threatening bleeding or acute stroke
+management.
+31 As centralized hospital laboratories may
+take up to 1 hour to provide the results of routine coagula-
+tion parameters and possibly longer for DOAC concentra-
+tion, appropriately validated point-of-care testing (POCT)
+methods should be considered if laboratory result TAT is
+not suitable for clinical urgency (see ‘Other Screening
+Assays’ section).
+Consensus DOAC measurement recommendations: gen-
+eral laboratory considerations.
+ Proper validation of any method used to quantify DOACs is
+required prior to clinical use of these assays (see the
+following sections).
+ Recommend laboratories perform Internal Quality Con-
+trol (IQC) at least once daily during testing performance,
+or at the minimum frequency required by regulatory
+agencies.
+ Recommend enrollment in established External Quality
+Assurance program (EQA) (see the following section).
+Sample Requirement for DOAC Assessment
+Most data generated for functional qualitative or quantitative
+DOAC assessment have used sodium citrate samples, but com-
+parisons of serum samples to plasma samples have been
+reported for rivaroxaban and apixaban.
+32 Serum measurements
+Table 2 Expected peak and trough DOAC concentrations in patients treated for stroke prevention in NVAF or treatment of
+PE/VTE 1,4,14,15,19,26 –28
+Dabigatran Rivaroxaban Apixaban Edoxaban
+Indication Stroke
+prevention
+in NVAF
+Treatment
+PE/VTE
+Stroke
+prevention
+in NVAF
+Treatment
+PE/VTE
+Stroke
+prevention
+in NVAF
+Treatment
+PE/VTE
+Stroke
+prevention
+in NVAF
+Treatment
+PE/VTE
+Dose 150 mg
+bid
+150 mg
+bid
+20 mg qd 20 mg qd 5 mg bid 5 mg bid 60 mg qd 60 mg qd
+Peak
+concentration,
+ng/mL
+175
+a
+(117–275)
+175a
+(117–275)
+249b
+(184–343)
+270b
+(189–419)
+171c
+(91–321)
+132c
+(59–302)
+170d
+(125–245)
+234e
+(149–317)
+Trough
+concentration,
+ng/mL
+91a
+(61–143)
+60a
+(39–95)
+44b
+(12–137)
+26b
+(6–87)
+103c
+(41–230)
+63c
+(22–177)
+36e
+(19–62)
+19e
+(10–39)
+Abbreviations: bid, twice daily; IQR, interquartile range; NVAF, non-valvular atrial ﬁbrillation; PE, pulmonary embolism; qd, once daily; VTE, venous
+thromboembolism.
+Notes: Other approved indications for DOACs include secondary prevention of PE/VTE, and post hip and knee replacement, which may have
+alternative dosing strategies. Additionally, changes in doses may occur after initiation phase of DOAC treatment. Consultation of regional DOAC
+labeling information is required before interpreting or using these peak and trough DOAC concentration data.
+aMean (25th –75th percentile).
+bMean (5th –95th percentile).
+cMedian (5th –95th percentile).
+dMedian (1.5 x IQR).
+eMedian (IQR).
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al. 439
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p4]]
+tended to be higher than plasma measurements when chromo-
+genic anti-FXa methods are used, 32 although this was also
+inﬂuenced by the drug concentration and reagents used.
+Mass spectrometry assays have included serum, lithium
+heparin and EDTA anticoagulated samples. Urinary assessment
+of DOACs has also been described and will be detailed later.
+Stability data generated for both functional assays (e.g.
+dilute thrombin time [dTT] or chromogenic anti-FXa) and
+mass spectrophotometry methods have been published
+using both contrived (in vitro DOAC spiked) and patient
+samples.
+33,34 For dabigatran, the stability in plasma at
+room temperature is 24 hours, without improved stability
+at refrigerated temperature (5°C), but at 14 months when
+maintained at < 20°C (personal communication via email
+from Joann van Ryn, Scientist, Boehringer Ingelheim,
+July 2017). 33,34 However, there is a 4-hour stability for
+dabigatran when using the thrombin time test. 35 For rivar-
+oxaban and apixaban, the stability of DOAC in plasma has
+been shown to be at least 8 hours at room temperature,
+48 hours at 5°C and at least 30 days when maintained
+at < 20°C.
+33 Edoxaban demonstrated an 18% reduction in
+measurement when maintained at room temperature for
+24 hours, but is stable up to 2 weeks at refrigerated tem-
+peratures when assessed by mass spectrometry,
+34 but it is
+unclear whether this refrigerated stability also applies to
+functional anti-FXa assays.
+Multiple freeze – thaw cycles of DOAC containing plasma
+have also been described, with three cycles demonstrating
+no-effect on the measurement of rivaroxaban and edoxa-
+ban using chromogenic anti-Xa or mass spectrometry
+methods.
+33,34 Data for assessment of apixaban and dabiga-
+tran are con ﬂicting,33,34 although closer scrutiny would
+suggest no clinically signi ﬁcant differences with three thaw
+cycles.
+Consensus sample recommendations for DOAC assessment:
+ Plasma prepared from 3.2% sodium citrate can be used for
+quantitative and qualitative clot-based and chromogenic
+assays.32–34 Liquid chromatography-mass spectrometry/
+mass spectrometry (LC -MS/MS) can use serum or
+plasma.32,34
+ Citrated whole blood samples should be processed within
+4 hours of collection.
+ Plasma samples for dabigatran that cannot be tested
+within 24 hours of collection should be frozen (stability
+of 14 months or greater if maintained at /C0 20°C or colder)
+using monitored freezers or dry ice (personal commu-
+nication via email from Joann van Ryn, Scientist, Boeh-
+ringer Ingelheim, July 2017).
+ For thrombin time testing (dabigatran), plasma samples
+are stable for 4 hours at room temperature.
+35
+ Plasma samples for anti-FXa DOACs that cannot be tested
+within 8 hours of collection should be refrigerated (sta-
+bility of 48 hours) or frozen (stability of 30 days or greater
+if maintained at /C0 20°C or colder) using monitored free-
+zers or dry ice.
+33,34
+ Data would suggest that at least three freeze – thaw cycles
+could be performed without signiﬁcant loss of activity.33,34
+Qualitative Assays for DOAC
+Due to their direct anti-FIIa or anti-FXa activity, DOACs can
+interfere with most clot-based haemostasis tests. Numerous
+studies performed using either spiked normal plasmas or ex
+vivo patient or healthy volunteer plasmas have shown that
+the DOAC effect on clotting assays depends on the reagent as
+well as drug, with wide inter-individual variability. Early
+recommendations suggesting that laboratories could locally
+assess DOAC sensitivity to PT and activated partial throm-
+boplastin time (APTT) reagents using commercial calibrators
+and controls may not be optimal, as these materials are not
+optimized for clot-based screening assays.
+36 This practice
+may overestimate reagent sensitivity to DOACs due to matrix
+variations (e.g. biased result due to components other than
+targeted analyte, calibration material may have other than
+3.2% citrate concentration) and thus provide false assertions
+that a normal PT and/or APTT infers DOAC absence. Coagula-
+tion inhibitors or endogenous changes in coagulation factor
+levels can also affect the PT and APTT, and therefore lack
+speciﬁcity for the measurement of DOAC anticoagulation.
+Of note, special consideration is required for DOAC -treated
+patients who may be bridged with unfractionated heparin
+(UFH) or low-molecular-weight heparin in acute situations.
+Depending on renal function, in the ﬁrst 24 to 36 hours, there
+may be an additive effect on screening tests, and in these
+circumstances, the laboratory should be able to provide alter-
+native strategies (e.g. anti-Xa for dabigatran-treated patients
+and thrombin time for UFH-treated anti-Xa DOAC patients) for
+assessing heparin anticoagulation, if required.
+Prothrombin Time
+Dabigatran and rivaroxaban prolong the PT in a concentration-
+dependent manner with a wide variability among reagents.
+The PT is less responsive to dabigatran than to rivaroxaban,
+regardless of the thromboplastin used. 7,30,37–48 The rivarox-
+aban concentrations required to double PT vary from 66 to
+750 ng/mL. The PT ratios corresponding to 120 ng/mL rivar-
+oxaban vary from 1.15 to 1.56, while those corresponding to
+200 ng/mL of dabigatran vary from 1.31 to 1.88, depending on
+the reagent used.
+39,40,46,47 The apixaban concentrations
+required to double the PT range from 480 ng/mL with the
+most sensitive reagent to over 1000 ng/ mL with other
+reagents.
+2,48–50 The PT may be normal (ratio <1.20) with
+apixaban concentrations up to 200 ng/mL. 46,47,49,50 The PT is
+more sensitive than the APTT to edoxaban, with insuf ﬁcient
+sensitivity at low on-therapy (/C24 30 ng/mL) drug levels.51–53 The
+prolongation of the PT is concentration- and reagent-depen-
+dent,54,55 with edoxaban concentrations required to double
+the PT varying from 97 to 296 ng/mL. 55
+As international normalized ratio (INR) and the interna-
+tional sensitivity index (ISI) are based on VKA sensitivity, the
+PT should not be expressed as INR in patients treated with
+DOACs.
+56 Although efforts to standardize PT methods by
+creating an ISI for rivaroxaban, analogous to the ISI for
+VKAs,
+57 have been published, this practice has not been
+widely embraced and has not been demonstrated to be
+applicable to apixaban or edoxaban PT measurements.
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al.440
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p5]]
+Activated Partial Thromboplastin Time
+The APTT is prolonged in a nonlinear manner with increasing
+concentrations of dabigatran and rivaroxaban, with a lower
+sensitivity to rivaroxaban than with dabigatran.7,30,37–45 Com-
+mercial APTTreagents differ in their sensitivity, with a required
+dabigatran concentration of approximatively and 400 ng/mL to
+produce a twofold prolongation in the APTT.
+41,52 The APTT
+ratios corresponding to 100 ng/mL dabigatran vary from 1.43 to
+1.71 and those corresponding to 200 ng/mL from 1.67 to
+1.97.
+46,47 The APTT shows a concentration-dependent prolon-
+gation of clotting times followed by a plateau at approximately
+200 ng/mL apixaban.
+50 After a single 60 mg dose of edoxaban,
+the mean peak (1.5 hours after dose) APTT modestly increased
+from pretreatment APTT of 32.3 to 41.1 seconds.54
+When combined, a normal PT and APTT measured with
+responsive reagents may exclude dabigatran concentrations
+above 50 ng/mL but fails to detect the presence of rivarox-
+aban at concentrations of 50 ng/mL, and apixaban of up to
+200 ng/mL in a substantial number of patients.
+47,52,58,59
+Overall, the low sensitivity and speci ﬁcity of the PT and
+APTT to DOACs suggests that the ability of these tests to
+quantify DOAC concentration is poor and reagent dependent.
+Additional note on DOACs and other haemostasis assays :
+The knowledge of the impact that DOACs have on coagulation
+testing is vital to avoid misinterpretation of laboratory test
+results that may result in mismanagement, especially in
+bleeding patients.
+60,61 DOACs are known to impact PT and
+APTT, tests that are modiﬁed PT and APTTs (e.g. factor assays,
+factor inhibitor assays, clot-based protein C or protein S),
+other clot based (e.g. dilute Russell ’s viper venom time) and
+chromogenic assays (e.g. antithrombin) 30,40–44,50,51,53,62
+(►Table 3 ).
+Table 3 DOAC interference on coagulation assays 3,33,40,50,51,53,62,111,123,138
+Dabigatran Anti-Xa DOACs
+Clot-based assays Chromogenic-
+based assays
+Clot-based assays Chromogenic-
+based assays
+Clinical impact
+of reported test
+result
+Relationship
+between
+prolonged
+clotting time and
+increased drug
+concentration
+PT/INR
+a,b
+APTTa,b
+Thrombin time
+Ecarin-based
+assays
+PT/INR
+a,b,c
+APTTa,b,c
+Diagnosis and/or
+Management
+Relationship
+between DOAC
+presence and
+factitiously
+decreased
+reported result
+Fibrinogen
+b,d
+Factor activity a
+(II, V, VII, VIII, IX,
+X, XI, XII)
+Factor activity a,b,c
+(II, V, VII, VIII, IX,
+X, XI, XII)
+Factor VIII b
+Factor IX
+(Mis)Diagnosis
+and/or
+(Mis)Management
+Relationship
+between DOAC
+presence and
+factitiously
+increased
+reported result
+Inhibitor screen
+a,b
+Inhibitor assay a,b
+Lupus
+anticoagulanta
+Protein C activitya,b
+Protein S activitya,b
+APCRa,b
+Antithrombin b
+(thrombin
+substrate)
+Inhibitor
+screena,b,c
+Inhibitor assay a,b,c
+Lupus
+anticoagulant a,b
+Protein C
+activity a,b
+Protein S
+activity a,b
+APCRa,b,c
+Antithrombin b
+(factor Xa
+substrate)
+UFH, LMWH or
+heparinoids/
+pentasaccharide
+(Mis)Diagnosis
+and/or
+(Mis)Management
+No effect Reptilase time Antithrombin
+(factor Xa
+substrate)
+Protein C activity
+(chromogenic)
+Plasminogen
+activity
+Alpha-2-
+antiplasmin
+Factor XIII activity
+FVIII activity
+Fibrinogen
+Thrombin time
+Reptilase time
+Ecarin-based
+assays
+Antithrombin
+(thrombin
+substrate)
+Protein C activity
+(chromogenic)
+Free protein S
+antigen
+Plasminogen
+activity
+Alpha-2-
+antiplasmin
+Factor XIII activity
+None— desired
+testing, when
+clinically
+necessary or
+relevant
+aReagent dependent.
+bConcentration dependent.
+cApixaban usually not affecting result.
+dFor ﬁbrinogen — if measured using the Clauss method, most reagents will not be affected. For PT-derived measurements, results are more likely to be
+factitiously increased.
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al. 441
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p6]]
+Other Screening Assays
+The TT is highly sensitive to dabigatran but is not affected by
+direct anti-Xa inhibitors. Dabigatran concentrations lower
+than 30 ng/mL lead to signi ﬁcant prolongation of the TT and
+concentrations of 50 ng/mL or greater typically produce a TT
+greater than the upper limit of measurement, depending on
+the reagent used.
+2,35,63 A normal TT suggests that little or no
+dabigatran is present, but a prolonged TT does not necessa-
+rily equate to a high dabigatran level.
+2,3,63
+Point-of-Care Tests
+Viscoelastic measurements of clotting blood including the
+thromboelastograph (TEG) and rotational thromboelastogram
+(ROTEM) demonstrate that R times and clot formation times
+(CFT) correlated with dabigatran and rivaroxaban concentra-
+tion.
+64,65 There was a strong correlation between rivaroxaban
+or apixaban concentrations and LowTF-ROTEM CFT and time
+to maximum velocity;
+66 yet, others report ROTEM as insensi-
+tive to detect residual rivaroxaban activity in patients.65,67 An
+ecarin-base ROTEM has been recently reported to be sensitive
+to low levels of dabigatran.
+68 These viscoelastic measurements
+of DOACs perform better on peak samples, lose sensitivity for
+trough samples, with limited ﬁndings due to small sample
+size.69,70 POCT methods (PT, APTT, activated clotting time
+[ACT]) for assessing DOACs have mostly been shown to have
+poor correlation, poor sensitivity or overlap between normal
+range and ‘on-therapy’ DOAC levels.
+48,59,71–73 A study using
+the Hemochron Signature POCT reported an INR cut-off for
+rivaroxaban of /C20 1.0 and /C20 1.1, respectively, equating to <30
+and <100 ng/mL of drug, and for dabigatran of /C20 1.1 and /C20 1.2,
+respectively, equating to<30 and <50 ng/mL of drug.73 Items
+of concern with these reported cut-offs include (1) the require-
+ment to know which DOAC is under investigation; (2) lack of
+method utility in apixaban-treated patients; (3) the fact that
+dedicated study personnel performed the POCT testing, which
+may not reﬂect real patient practice; (4) described INR cut-offs
+are below the normal published reference range (INR: 0.8 –
+1.3);
+74 and (5) the relatively high repeatability precision (/C24 13%
+at a 2.1 INR) noted with this method. 74
+DOAC screening assays using urine samples have been
+evaluated, but no correlation was demonstrated between
+urine and plasma DOAC concentrations. 75 A commercial
+urinary test screening for renal function (creatinine), anti-
+Xa and direct thrombin inhibitor is soon to be released in
+Europe.
+76 Utilization of heparin-calibrated anti-FXa testing
+to potentially screen for the presence of anti-FXa DOACs will
+be discussed later.
+Consensus screening test recommendations:
+ The PT and/or APTT may not be reliable to detect the
+presence of ‘on-therapy’ concentrations of all
+DOACs.
+2,3,7,30,37–56,58,59
+ PT and APTT are not responsive to ‘on-therapy’ apixaban
+levels.49–52
+ T h eP Ta n dA P T Ts h o u l dn o tb eu s e dt oq u a n t i f yD O A C
+concentration.2,3
+ In a patient with known DOAC exposure, a prolonged PT or
+APTT should be considered secondary to drug effect until
+proven otherwise, and in emergent or life-threatening
+conditions, tests for quantifying DOAC should be per-
+formed to aid in patient management. 3,30
+ A normal TT excludes the presence of signi ﬁcant dabiga-
+tran concentration. 2,3,30,63
+ At the time of writing this article, there is not enough clear
+data to support the use of TEG or ROTEM for detecting
+DOAC anticoagulant activity. 64–69
+ Nonspeciﬁc POCT methods may not have suf ﬁcient
+responsiveness to detect DOAC presence. 48,59,69–73
+ Urine DOAC screening tests may provide a rapid assess-
+ment (qualitative and semiquantitative) of recent DOAC
+exposure, but may not reﬂect circulating drug presence or
+concentration.75
+Quantitative Assays for DOAC Measurement
+The most accurate means of assessing DOAC exposure is by
+measuring concentration using LC -MS/MS or drug-calibrated
+clot-based or chromogenic methods. The availability and
+complexity associated with LC -MS/MS testing may limit its
+widespread use, whereas drug-calibrated clot-based or chro-
+mogenic methods can be adapted to automated coagulation
+analysers.
+Mass Spectrometry Measurement of DOACs
+The routine use of LC -MS/MS for the measurement of pre-
+scribed drugs in clinical laboratories has increased over the
+past 15 years and can be used to measure all DOACs. 77,78 Due
+to its high degree of speci ﬁcity, sensitivity, selectivity and
+reproducibility, LC -MS/MS is considered the gold standard
+method for the measurement of DOACs and is often used in
+clinical development to evaluate DOAC pharmacoki-
+netics.
+8,79–82 The lower limit of detection (LLOD) and quan-
+titation (LLOQ) for DOACs using LC -MS/MS has been reported
+to lie between 0.025 and 3 ng/mL, depending on the method
+and the drug. The reportable range of quantitation has been
+described to be between 5 and 500 ng/mL, which is suitable
+for expected peak and trough concentrations in most
+patients (
+►Table 2 ). The intra- and inter-assay precisions
+have been reported to be below 6 and 10%, respectively. 83–88
+Several factors limit the widespread use of mass spectro-
+metry in the clinical setting, including labour-intensive
+sample preparation steps, complexity of the technique and
+instrument availability.
+89 Additional assay challenges
+include matrix effect, co-elution of other compounds (drugs
+or xenobiotics), internal standard preparation and inadver-
+tent detection or inability to detect drug metabolites (see
+below). These assays are mostly considered ‘in-house’ or
+laboratory-developed tests (LDTs), which may have addi-
+tional method validation requirements as mandated by
+regional authorities (e.g. EMA, FDA).
+With LC -MS/MS testing, the presence of phospholipids
+(PL), salts or molecules (e.g. such as surface-active com-
+pounds that can interfere with the droplet formation process
+in the ion sources) can cause a matrix effect. Plasma sample
+preparation (vs. serum) requires the removal of proteins,
+using protein precipitation with or without phospholipid
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al.442
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p7]]
+removal. Solid-phase extraction (SPE) can provide a ‘clean’
+sample for LC -MS/MS testing, and liquid – liquid extraction
+(LLE) methods for sample preparation can also be used.
+In LC -MS/MS analysis, an internal standard is mandatory
+to compensate for variability of the response due to the
+ionization process and to the recovery during the sample
+preparation procedure.
+78 For DOACs, stable, isotope-labeled,
+standard versions are commercially available from several
+manufacturers. Additional considerations when developing
+an assay include (1) whether the drug must be metabolized
+to be functional, (2) possible interference by drug metabo-
+lites, (3) either co-elution of isotopomeric analytes or ana-
+lytes that undergo in-source fragmentation to yield an
+isotopomers, (4) conversion of a metabolite to the parent
+drug during sample processing. Active metabolites should
+also be measured and reported. Dabigatran etexilate is a pro-
+drug that must be metabolized to dabigatran to be fully
+functional. Furthermore, dabigatran exists in a free form and
+also conjugated to glucuronide. Dabigatran glucuronide adds
+approximately 20% anticoagulant activity. Alkaline hydro-
+lysis of the sample prior to analysis splits the conjugate
+allowing measurement of total dabigatran.
+8,87 As i m i l a r
+pattern is seen with edoxaban and its M4-metabolite which
+is also pharmacologically active.
+82
+Major limitations of LC -MS/MS include the absence of
+standardization or harmonization of mass spectrometry –
+based assays, 90 and the lack of a universal calibration mate-
+rial or international reference standard. Signi ﬁcant variabil-
+ity between laboratories can be attributed to calibrators
+(matrix-based vs. solvent-based), calibrator source, sample
+preparation and the MS ion monitoring (ions selected in
+selected reaction monitoring or the use of high-resolution
+accurate mass spectrometry).
+91 Commercially available,
+high-quality reference materials, traceable to an interna-
+tional standard, are urgently needed for each DOAC to
+improve LC -MS/MS performance.
+Consensus LC -MS/MS recommendations:
+ LC -MS/MS should be considered the gold standard test for
+measuring DOAC concentration. 8,79–82
+ A suitable internal standard for each DOAC is
+mandatory.78
+ DOAC metabolites, that are pharmacologically active,
+should be reported. 3,8,82,87
+Other Methods for Quantifying Anti-FIIa (Dabigatran)
+DOAC
+Published methods for measuring DTIs include the ecarin
+clotting time (ECT), chromogenic ecarin assay (ECA), chro-
+mogenic anti-FIIa (C -FIIa) assay, dTT and, to a lesser extent,
+the dilute Russell’s viper venom time. Each of these methods
+can potentially be used for quantifying dabigatran, when
+calibrated appropriately.
+Ecarin-Based Methods
+Ecarin is a metalloprotease from saw-scaled viper, Echis
+carinatus, that converts prothrombin to meizothrombin,
+which can be inhibited by DTIs, but not heparin. The ECT
+reagent contains ( /C24 5 ecarin units/mL) ecarin, buffer (HEPES
+or Tris) and CaCl 2, with equal volumes of reagent to plasma
+used for testing. 92 For high drug concentrations, the patient
+plasma is diluted 1:1 with normal pooled plasma (NPP). The
+?????TDM?XQ?e??L
+thrombin (factor II) de ﬁciencies may impact the accuracy of
+the test. 93,94 There is reported linear relationship between
+dabigatran concentration and ECT results and, with use of
+commercial calibrators, good correlation with LC -MS/MS
+measurements.
+95
+The ECA pre-dilutes the patient sample with a buffer
+containing prothrombin to alleviate the prothrombin factor
+limitation as reported with ECT. As the ECA is not a clot-
+based assay, ﬁbrinogen to ﬁbrin formation is not measured,
+and thus, ﬁbrinogen levels do not in ﬂuence this assay. An
+equal volume of a substrate speci ﬁc for thrombin cleavage is
+?????????RV°bM
+An equal volume of ecarin is then added and the reaction is
+read either kinetically or over a ﬁxed period of time.
+96 When
+the ECA is calibrated using commercial dabigatran material,
+there is good correlation with LC -MS/MS, 91 reported LLOD
+ranging from 14 to 46 ng/mL, within-run imprecision of less
+than 5% 83 and between-run imprecision of 6 to 16% using
+quality control material. 83,95,97,98
+Chromogenic Anti-FIIa Assay
+Several commercial kits are available for measuring dabiga-
+tran using chromogenic anti-FIIa assay (C -FIIa) methods.
+Similar to ECA, a substrate speci ﬁc for thrombin is added
+to a neat or diluted plasma samples and incubated for a
+period of time ( /C24 2 minutes). A thrombin reagent is then
+added and the test is read either kinetically or the reaction
+stopped using an acid or alkaline solution. The kits may
+contain a heparin neutralizing agent that can be used in
+patients who are on transitional therapy.
+99 When the drug is
+calibrated, the C -FIIa demonstrates good correlation with LC -
+MS/MS (R2 ¼ 0.96 for samples containing <150 ng/mL dabi-
+gatran), with between-run imprecision of less than 5%, and
+LLOD of approximately 15 ng/mL, which can be further
+reduced with test modi ﬁcations.
+35,97–99
+Dilute Thrombin Time
+First descriptions used one part plasma to three parts NPP . The
+ﬁnal concentration of thrombin used was 0.75 NIH U/mL.100,101
+Equal volumes of diluted sample and thrombin are added, and
+clotting time recorded. When used in conjunction with drug
+calibrators, there is a linear relationship between clotting time
+and drug concentration. Commercial kits are available using
+same sample dilution with NPP (usually 1:8).
+94,95,97 In patients
+treated with dabigatran, a strong correlation between dTT and
+LC -MS/MS have been reported.
+84,97 Commercial assays report
+LLOD ranges of 2 to 8 ng/mL and LLOQ ranges of 20 to 30 ng/
+mL.83,97,101–104 Both LLOD and LLOQ can be improved with the
+use of a lower sample dilution with NPP and use of speci ﬁc
+calibrators and controls (e.g. 1:2).97
+Consensus anti-FIIa (dabigatran) DOAC test recommendations:
+ Demonstrated to be comparable to LC -MS/MS, drug-cali-
+brated DTT, ECA, ECT and anti-FIIa chromogenic methods
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al. 443
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p8]]
+are recommended as suitable methods to provide rapid
+quantitation of dabigatran. 84,95,97,99,101,102
+Other Methods for Quantifying Anti-Xa DOACs
+Chromogenic Anti-Xa Assay
+Chromogenic anti-Xa assay (C -FXa) assays have been used in
+the clinical laboratory for several decades as a means for
+assessing heparin anticoagulation. These assays are based on
+p-nitroaniline release from a speci ﬁc chromogenic FXa sub-
+strate. The optical density generated per minute (OD/min) is
+inversely proportional to the amount of direct FXa inhibitor in
+the sample. Several in vitro and ex vivo studies have shown
+that C -FXa assays are very sensitive to the presence of direct
+FXa inhibitors.
+40,43,49,50,53,59,83,85,98,105–121 In vitro studies
+have shown that, for rivaroxaban, plasma samples with sus-
+pected levels less than 30 ng/mL may not be adequately
+assessed by C -FXa assays due to limited LLOQ,
+40 while for
+apixaban and edoxaban, some authors reported lower thresh-
+olds (i.e. 15 and 10 ng/mL, respectively).47,53 For rivaroxaban,
+an adapted procedure may be used to enhance sensitivity (i.e.
+the Biophen Direct Factor Xa Inhibitors LOW, Hyphen BioMed,
+France) to lower concentrations of drug, but may result in a
+decrease of the range of measurement.
+119 Thus, the assay
+sensitivity and LLOD/LLOQ threshold depends on the metho-
+dology and the C -FXa assay used, highlighting the importance
+of using a validated platform to assess the measurement of
+direct FXa inhibitors (
+►Table 2 ). Antithrombin supplementa-
+tion of C -FXa kits leads to overestimation of direct FXa inhi-
+bitors and should be avoided.
+110,120
+Ex vivo studies have highlighted limitations with rivarox-
+aban and apixaban measurement, with an LLOQ of around
+30 ng/mL for both molecules.
+85,88,108,120 For edoxaban, an ex
+vivo study measuring the anti-Xa activity calibrated with
+heparin standards revealed a good correlation with LC -MS/
+MS measurements. 20 However, if comparison with LC -MS/
+MS is required, the potential anti-Xa activity contribution of
+the M4 metabolite should be taken into account, since it is
+pharmacodynamically active and will interfere with the test,
+giving an elevated edoxaban concentrations in comparison to
+the LC -MS/MS measurement.
+53
+A C -FXa assay calibrated with heparin standards can be
+used to inform on the relative presence of direct FXa inhi-
+bitors but is associated with a more limited range of linearity
+and quantitation.
+88,108,121–123 Results below the assay ’s
+LLOQ suggest that no or clinically insigni ﬁcant concentra-
+tions of FXa DOACS are present. However, due to kit differ-
+ence in chromogenic substrates, factor FXa origin,
+methodologies and heparin calibration, the use of heparin-
+calibrated C -FXa assays should be used with caution.
+123,124
+All heparin-calibrated methods may not be equally sensitive
+to a similar direct FXa level.
+124
+Consensus anti-FXa DOAC test recommendations:
+ Demonstrated to be comparable to LC -MS/MS; drug-
+calibrated anti-FXa is recommended as suitable
+methods to provide rapid quantitation of anti-Xa
+DOACs.40,43,49,50,53,59,83,85,88,105 –118
+ Antithrombin supplement anti-FXa methods should not
+be used for DOAC assessment, as these methods tend to
+overestimate drug concentration and are not validated by
+the manufacturers.
+110,120
+Point-of-Care Testing Assays and in
+Development Assays
+Unless institutions have the capacity to rapidly report
+(<30 minutes) DOAC concentrations using aforementioned
+calibrated laboratory assays on a daily or on-demand basis,
+speciﬁc whole-blood POC assays for DOAC quanti ﬁcation are
+urgently needed but not yet available. Harenberg et al have
+described results of a POCT qualitative and semiquantitative
+assay using urine samples of patients treated with dabiga-
+tran, rivaroxaban or apixaban.
+75,76,125–127 A miniaturized
+microﬂuidic coagulation test has been described for anti-FXa
+measurements; although speci ﬁc for heparin anticoagula-
+tion, it may offer similar application for use in DOAC antic -
+oagulation.128 More recently, another micro ﬂuidic method
+has been described in stroke patients. 129 This POC method
+with sensitivity to warfarin, dabigatran and rivaroxaban, but
+not apixaban, employs surface acoustic waves that detect
+prolonged coagulation times.
+129 The SPOCT-NOAC trial 130 is
+an ongoing investigator-initiated prospective trial which
+aims to test the correlation between the Cascade Abrazo
+POCT device (Helena Laboratories, United States) and plasma
+levels of apixaban, dabigatran and rivaroxaban, and to deter-
+mine the diagnostic accuracy of POCT to rule out or detect
+relevant levels of DOACs in patient samples.
+Quantifying DOACs: Assay Validation or
+Veriﬁcation of Performance
+Prior to offering a test for clinical use, the assay must be
+either veri ﬁed or validated in the laboratory in which it is to
+be performed. Guidance documents have been published for
+industry
+131–133 and laboratories, 134–136 although challenges
+to performing all studies due to limited resources ( ﬁnancial
+and staff) are acknowledged. An assay validation is required
+when the method is a standard (agency approved) method
+that is either modi ﬁed or used outside the scope of the test,
+or a non-standardized test, or a LDT or research use only
+(RUO) assay. A veri ﬁcation of standardized assays (rather
+than full validation) may be a suitable approach for the
+laboratory to document it has achieved the reported testing
+performance.
+135,136 The validation methods typically
+include accuracy (or trueness), precision (repeatability and
+intermediate [inter-assay] precision), speci ﬁcity (selectiv-
+ity), LLOD (DOAC level that is signi ﬁcantly different than
+zero), LLOQ (lowest DOAC measurement that meets accep-
+table performance criteria), linearity, range (reportable
+range) and stability.
+137 Veriﬁcation of a standardized method
+typically includes precision, accuracy and possibly linearity.
+Accuracy may be inferred if the precision, linearity and
+speciﬁcity criteria have been established.
+132,133,137
+A validation or veriﬁcation of performance plan (protocol)
+must be developed and approved by the laboratory director
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al.444
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p9]]
+(or delegate as appropriate). The plan should include pro-
+cesses to be performed (precision, linearity, etc.), the
+sequence of analysis, type of validation samples to be used,
+the number of runs to be performed over a speci ﬁed (mini-
+mum) number of days and the quality control that will be
+utilized. The plan should describe the statistical analysis and
+acceptance criteria. A summary report, to include the valida-
+tion data, intended use and reporting format of the DOAC
+assay, must be approved by the laboratory director (or
+designate), prior to clinical use
+131,136,137 and each laboratory
+must maintain validation or veri ﬁcation documentation.
+Validation Samples
+The materials used as validators can include a variety of
+sources, such as de-identi ﬁed patient samples, ex vivo drug-
+spiked plasma, quality control materials or calibrators. It is
+critical that the validation samples are of like-matrix to the
+patient samples that will ultimately be tested in the assay.
+131
+Contrived, ex vivo DOAC samples must verify that the native
+drug is the active metabolite. For mass spectrometry assays,
+the measurement of active metabolites in addition to the
+parent compound must be considered. Validator samples
+should be representative of the samples that will be tested
+and should fall on the calibration curve, typically with one in
+the upper third of the curve, one in the mid portion and one
+on the lower third of the curve.
+131 If calibrators are used as
+validation samples, the lot used as validator material should
+either be from a different manufacturer source or a different
+lot than that used to calibrate the assay.
+For chromogenic or clot-based quantitative DOAC assays,
+the ﬁrst step in the process is the assay calibration and the
+criteria required for acceptable calibration curve. The calibra-
+tion curve should cover the expected DOAC concentration and
+a calibrator sample near or at the LLOQ.
+131 Extrapolation of
+data above or below a calibration curve is not recom-
+mended.131 The validity of the calibration curve should be
+assessed by measuring samples with de ﬁned DOAC concen-
+tration limits. 137 If the calibration curve and DOAC sample
+concentration steps are acceptable, within-run precision
+(repeatability) should be assessed. Different recommenda-
+tions for intra-assay precision include a minimum of nine
+determinations covering the range (e.g. three replicates of
+three concentrations), or at least six determinations at a single
+level.
+132,133 For between-run precision, it has been recom-
+mended that LLOQ, low, mid and high validator samples from
+at least three runs are analysed on two different days.137 Limits
+have been described as a CV of less than 15%, except at LLOQ,
+where the limit would be less than 20%. 131 Veriﬁcation of
+performance repeatability limits should approximate manu-
+facturer package insert or published data. Unacceptable
+within-run precision may suggest problems with instrument
+assay protocol deﬁnitions or possible reagent or sample carry-
+over, if an automated analyser is used.
+Linearity is determined using at least ﬁve to six samples
+tested over the reportable range.
+132–134 LLOQ and LLOD
+using standard deviation calculations have been described
+using samples with no drug (blank), blank samples compared
+with low concentrations of drug (signal/noise), or calibration
+intercepts.132–134 Alternatively, the deviation of more than
+20% from low concentrations of drug can be determined from
+linearity studies.
+131 The replicate determinations for LLOQ
+and LLOD range from 6 to 10 samples. 135,136
+Accuracy, or trueness, is a measure of the closeness of the
+DOAC result obtained to the true measured (assayed or
+reported) value. A minimum of three levels of validator
+samples are required for accuracy studies, 131 and these
+should include samples that fall on the lower one-third as
+well as upper one-third of the calibration curve. Validation
+samples should not fall outside of the standard curve. The
+acceptable limits for accuracy vary, but have been reported to
+be within 15% of measured value or within 20% of LLOQ,
+131
+but other statistical analyses such as bias determination 136
+or paired t-test135 have been described. Dilution integrity
+may be evaluated if samples with DOAC concentrations
+about the upper limit of the calibration curve will be diluted
+with the appropriate matrix to obtain measurable results.
+Dilution should not affect precision and accuracy and these
+should fall within /C6 15%.
+137 This study will permit extension
+of the reportable range.
+Stability studies, if required (e.g. new methodology
+employed and no published references), may include
+freeze– thaw cycle stability, /C0 80°C, /C0 20°C, room tempera-
+ture and time on-instrument studies.
+137 Reagent or sample
+carryover can be evaluated during precision experiments by
+placing the different levels of validators in speci ﬁed orders
+(e.g. low concentration, then high, then repeat low) of
+testing.
+137 Robustness of the assay can be evaluated by
+including more than one lot of reagent (as well as commercial
+calibrators and controls) in the validation process. 132,133,136
+Consensus recommendations for method validation or
+veriﬁcation of performance:
+ Method validation or veri ﬁcation of performance is
+required before assays are used for clinical reporting.131–137
+ Prior to performing method validation or veri ﬁcation, a
+plan (protocol) should be written that describes how the
+validation will be conducted and acceptance criteria.
+131,136
+ Method validation studies should include precision, accu-
+racy, linearity, determination of LLOQ, LLOD and repor-
+table range and may include stability studies.
+131–137
+ Method veri ﬁcation of performance studies should
+include precision, accuracy and possibly linearity. 135,136
+DOAC External Quality Assessment/
+Assurance
+Various processes can be utilized by laboratories to ensure
+the quality of testing, including internal quality control (IQC)
+and external quality assessment (EQA).
+51,138 IQC utilizes
+homogeneous samples of a predetermined nature tested
+by the laboratory over a period of time, at a minimum of
+daily or whenever testing is performed, whereas EQA is a
+process whereby blinded samples are dispatched to labora-
+tories and tested in the manner in which patient samples are
+tested and return results to the EQA provider for analysis.
+Several EQA programs are currently available for DOAC
+assessment (
+►Table 4 ).
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al. 445
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p10]]
+All tests used by the laboratory to assess DOACs should be
+covered by EQA and subject to IQC. EQA helps assess the
+accuracy of test systems used by laboratories, as the result
+submitted by laboratories can potentially be compared with
+some predeﬁned ‘gold standard’(or ‘target’) result, as well as
+whether the laboratory test result is within an acceptable
+range of ‘closeness’to the target. The range of acceptability is
+used to determine if a given laboratory ’s test result is within
+the acceptable range, or outside this range, thereby offering a
+means to ‘assure’ the quality of test results (hence, the term
+‘external quality assurance ’ is sometimes used).
+It is recognized that the EQA process represents an
+imperfect test assessment system. First, in the peer-compar-
+ison test system, the ‘trueness’of the target result is depen-
+dent on the quality of the results submitted by participants of
+the EQA program, and may be skewed by outliers (possibly
+representing poor laboratory performance) or by dominant
+methodologies (e.g. popular reagent kit methods). Thus, the
+median is usually used in preference to the average, as this is
+less inﬂuenced by such factors. The predetermined range of
+acceptability also differs according to different EQA pro-
+grams, and although usually expressed as a percentage
+variance (e.g. 5, 10 or 20% ranges around the median), this
+may be de ﬁned by statistical models or by expert commit-
+tees. In addition to providing numerical data analysis, EQA
+providers should also be encouraging laboratories to inter-
+pret EQA test results in a manner that would re ﬂect real
+patient test interpretation.
+Any material generated for EQA or pro ﬁciency test pur-
+poses should undergo stability and homogeneity testing, and
+if available, some pre-dispatch testing by LC/MS-MS or a
+reference laboratory using a ‘reference’quantitative method
+(e.g. dTT for dabigatran and drug-calibrated anti-Xa assays
+for anti-Xa DOACs).
+Consensus DOAC EQA recommendations:
+ Each laboratory must enrol in an EQA program speci ﬁcf o r
+the DOAC being measured.
+ EQA should be at a minimum two samples per dispatch,
+with at least two dispatches in a calendar year.
+What is known about this topic?
+ PT and APTT are not reliable to assess DOAC
+concentration.
+ dTT, ECA, or ECT demonstrates linear relationship with
+dabigatran concentration.
+ Drug-calibrated anti-Xa tests are comparable to tandem
+mass spectrometry measurements of anti-Xa DOACs.
+What does this paper add?
+ICSH document providing guidance to laboratory DOAC
+testing:
+ Consensus recommendations for the pre-analytical
+phase of DOAC testing, including recommended timed
+collection (trough) and guidance for sample stability.
+ Consensus recommendations for the analytical phase of
+DOAC testing, including method validation or veri ﬁca-
+tion of performance of DOAC test, identifying tandem
+mass spectrometry as the gold standard for DOAC
+measurement. Indicating that drug-calibrated dTT,
+ECA, ECT, anti-FIIa and anti-FXa are suitable for rapid
+quantitation of DOACs, and requiring that laboratories
+perform IQA at a minimum of once per day of testing.
+ Consensus recommendations for the post-analytical
+phase of DOAC testing, including that DOAC results are
+reported in ng/mL, and the reported results are accom-
+panied with published (trough) range of results, and
+requiring that laboratories that perform DOAC testing
+must participate in external QAP to assure continuous
+quality assurance.
+Conﬂicts of Interest
+RCG: Advisory board for Instrumentation Laboratory,
+Roche Diagnostics, NovoNordisk, and Boehringer Ingel-
+heim; Speaker honoraria for Siemans Healthcare Diag-
+nostics, expert testimony on rivaroxaban and dabigatran.
+DMA: Advisory board for NovoNordisk, Baxalta, Bayer
+Healthcare; speaker honoraria from Siemens Healthcare
+Diagnostics, consulting for rivaroxaban litigation.
+SB: Grants and research: site investigator Bayer (RASET)
+study, partial salary support for endowed chair funded in
+part by Eli Lilly, Canada.
+JD: Advisory board: Bayer, travel awards and/or speaker
+honoraria: Daichii Sankyo; Diagnostica Stago, Roche
+Diagnostics.
+Table 4 External quality assurance programs for DOAC
+DOAC Providers Qualitative
+tests
+Quantitative tests
+Dabigatran RCPA QAP
+NEQAS
+ECAT
+CAP
+PT, APTT,
+TT
+dTT/DTI, ECA, ECT,
+anti-IIa, LC/MS-MS
+Rivaroxaban RCPA QAP
+NEQAS
+ECAT
+CAP
+PT, APTT Anti-Xa, LC/MS-MS
+Apixaban RCPA QAP
+NEQAS
+ECAT
+CAP
+None Anti-Xa, LC/MS-MS
+Edoxaban ECAT
+(2019)
+Anti-Xa, LC/MS-MS
+Abbreviations: APTT, activated partial thromboplastin time; CAP,
+College of American Pathologists; DT I, direct thrombin inhibitor; dTT,
+dilute thrombin time; ECA, ecarin chromogenic assay; ECAT, external
+quality control of diagnostic assays and tests; ECT, ecarin clotting time;
+LC/MS-MS, tandem mass spectrometry; PT, prothrombin time; RCPA
+QAP, Royal College of Pathologists of Australasia Quality Assurance
+Program; UKNEQAS, United Kingdom National External Quality
+Assessment Service.
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al.446
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p11]]
+EF: None
+IG-T: Advisory boards and speaker honoraria: Bayer
+Healthcare, Boehringer Ingelheim, Bristol-Myers-Squibb/
+Pﬁzer.
+CG: Advisory board Werfen; speaker honoraria: Roche
+Diagnostics, Werfen.
+YK: Advisory board and consultant: Daichii Sankyo.
+EL-L: Advisory boards: Bayer Healthcare, Boeh.
+References
+1 European Medicines Agency - Pradaxa - Procedure EMEA/H/C/829.
+Available at: http://www.ema.europa.eu/docs/en_GB/documen-
+t_library/EPAR_-Public_assessment_report/human/000829/WC5
+00041062.pdf. Accessed February 28, 2017
+2 Dale BJ, Chan NC, Eikelboom JW. Laboratory measurement of the
+direct oral anticoagulants. Br J Haematol 2016;172(03):315 – 336
+3 Douxﬁls J, Gosselin RC. Laboratory assessment of direct oral
+anticoagulants (DOACs). Semin Thromb Hemost 2017;43(03):
+277– 290
+4 Pradaxa [package insert]. Boehringer Ingelheim Pharmaceuticals
+Inc, Ingelheim am Rhein, Germany. Revised November 2015.
+Accessed December 31, 2016
+5 Blech S, Ebner T, Ludwig-Schwellinger E, Stangier J, Roth W. The
+metabolism and disposition of the oral direct thrombin inhibitor,
+dabigatran, in humans. Drug Metab Dispos 2008;36(02):386– 399
+6 Wienen W, Stassen JM, Priepke H, Ries UJ, Hauel N. In-vitro
+proﬁle and ex-vivo anticoagulant activity of the direct thrombin
+inhibitor dabigatran and its orally active prodrug, dabigatran
+etexilate. Thromb Haemost 2007;98(01):155 – 162
+7 Stangier J. Clinical pharmacokinetics and pharmacodynamics of
+the oral direct thrombin inhibitor dabigatran etexilate. Clin
+Pharmacokinet 2008;47(05):285 – 295
+8 Stangier J, Rathgen K, Stähle H, Gansser D, Roth W. The pharma-
+cokinetics, pharmacodynamics and tolerability of dabigatran
+etexilate, a new oral direct thrombin inhibitor, in healthy male
+subjects. Br J Clin Pharmacol 2007;64(03):292 – 303
+9 Samuelson BT, Cuker A. Measurement and reversal of the direct
+oral anticoagulants. Blood Rev 2017;31(01):77 – 84
+10 Reilly PA, Lehr T, Haertter S, et al; RE-LY Investigators. The effect
+of dabigatran plasma concentrations and patient characteristics
+on the frequency of ischemic stroke and major bleeding in atrial
+ﬁbrillation patients: the RE-LY Trial (Randomized Evaluation of
+Long-Term Anticoagulation Therapy). J Am Coll Cardiol 2014;63
+(04):321– 328
+11 Perzborn E, Strassburger J, Wilmen A, et al. In vitro and in vivo
+studies of the novel antithrombotic agent BAY 59-7939 – an oral,
+direct Factor Xa inhibitor. J Thromb Haemost 2005;3(03):514– 521
+12 Depasse F, Busson J, Mnich J, Le Flem L, Gerotziafas GT, Samama
+MM. Effect of BAY 59 – 7939— a novel, oral, direct Factor Xa
+inhibitor - on clot-bound Factor Xa activity in vitro. J Thromb
+Haemost 2005;3(Suppl 1):Abstract P1104
+13 Kubitza D, Perzborn E, Berkowitz SD. The discovery of rivarox-
+aban: translating preclinical assessments into clinical practice.
+Front Pharmacol 2013;4:145
+14 European Medicines Agency. Xarelto - Summary of Product
+Characteristics. Available at: http://www.ema.europa.eu/docs/
+en_GB/document_library/EPAR_-_Product_Information/
+human/000944/WC500057108.pdf. Accessed January 15, 2017
+15 Mueck W, Stampfuss J, Kubitza D, Becka M. Clinical pharmaco-
+kinetic and pharmacodynamic pro ﬁle of rivaroxaban. Clin Phar-
+macokinet 2014;53(01):1 – 16
+16 Food and Drug Administration. Xarelto — Prescribing Informa-
+tion. Available at: http://www.accessdata.fda.gov/drugsatfda_-
+docs/label/2011/202439s001lbl.pdf. Accessed January 15, 2017
+17 Zhang D, He K, Raghavan N, et al. Comparative metabolism of
+14C -labeled apixaban in mice, rats, rabbits, dogs, and humans.
+Drug Metab Dispos 2009;37(08):1738 – 1748
+18 Mani H, Lindhoff-Last E. New oral anticoagulants in patients
+with nonvalvular atrial ﬁbrillation: a review of pharmacoki-
+netics, safety, efﬁcacy, quality of life, and cost effectiveness. Drug
+Des Devel Ther 2014;8:789 – 798
+19 European Medicines Agency. Eliquis - Summary of Product
+Characteristics. Available at: http://www.ema.europa.eu/docs/
+en_GB/document_library/EPAR_-_Product_Information/
+human/002148/WC500107728.pdf. Accessed January 15, 2017
+20 Furugohri T, Isobe K, Honda Y, et al. DU-176b, a potent and orally
+active factor Xa inhibitor: in vitro and in vivo pharmacological
+proﬁles. J Thromb Haemost 2008;6(09):1542 – 1549
+21 Ogata K, Mendell-Harary J, Tachibana M, et al. Clinical safety,
+tolerability, pharmacokinetics, and pharmacodynamics of the
+novel factor Xa inhibitor edoxaban in healthy volunteers. J Clin
+Pharmacol 2010;50(07):743 – 753
+22 Giugliano RP, Ruff CT, Braunwald E, et al; ENGAGE AF-TIMI 48
+Investigators. Edoxaban versus warfarin in patients with atrial
+ﬁbrillation. N Engl J Med 2013;369(22):2093 – 2104
+23 Büller HR, Décousus H, Grosso MA, et al; Hokusai-VTE Investi-
+gators. Edoxaban versus warfarin for the treatment of sympto-
+matic venous thromboembolism. N Engl J Med 2013;369(15):
+1406– 1415
+24 Fuji T, Wang CJ, Fujita S, Kawai Y, Kimura T, Tachibana S. Safety
+and efﬁcacy of edoxaban, an oral factor Xa inhibitor, for throm-
+boprophylaxis after total hip arthroplasty in Japan and Taiwan.
+J Arthroplasty 2014;29(12):2439 – 2446
+25 Fuji T, Wang CJ, Fujita S, et al. Safety and ef ﬁcacy of edoxaban, an
+oral factor Xa inhibitor, versus enoxaparin for thromboprophy-
+laxis after total knee arthroplasty: the STARS E-3 trial. Thromb
+Res 2014;134(06):1198 – 1204
+26 Weitz JI, Connolly SJ, Patel I, et al. Randomised, parallel-group,
+multicentre, multinational phase 2 study comparing edoxaban,
+an oral factor Xa inhibitor, with warfarin for stroke prevention in
+patients with atrial ﬁbrillation. Thromb Haemost 2010;104(03):
+633– 641
+27 Ruff CT, Giugliano RP, Braunwald E, et al. Association between
+edoxaban dose, concentration, anti-Factor Xa activity, and out-
+comes: an analysis of data from the randomised, double-blind
+ENGAGE AF-TIMI 48 trial. Lancet 2015;385(9984):2288 – 2295
+28 Verhamme P , Wells PS, Segers A, et al. Dose reduction of edoxaban
+preserves efﬁcacy and safety for the treatment of venous throm-
+boembolism. An analysis of the randomised, double-blind HOKU-
+SAI VTE trial. Thromb Haemost 2016;116(04):747 – 753
+29 Fuji T, Fujita S, Kawai Y, et al. Safety and ef ﬁcacy of edoxaban in
+patients undergoing hip fracture surgery. Thromb Res 2014;133
+(06):1016– 1022
+30 Gosselin RC, Adcock DM. The laboratory ’s 2015 perspective on
+direct oral anticoagulant testing. J Thromb Haemost 2016;14
+(05):886– 893
+31 Adams HP Jr, del Zoppo G, Alberts MJ, Bhatt DL, Brass L, Furlan A,
+Grubb RL, Higashida RT, Jauch EC, Kidwell C, Lyden PD, Morgenstern
+LB, Qureshi AI, Rosenwasser RH, Scott PA, Wijdicks EF; American
+Heart Association; American Stroke Association Stroke Council;
+Clinical Cardiology Council; Cardiovascular Radiology and Inter-
+vention Council; Atherosclerotic Peripheral Vascular Disease and
+Quality of Care Outcomes in Research Interdisciplinary Working
+Groups. Guidelines for the early management of adults with
+ischemic stroke: a guideline from the American Heart Associa-
+tion/American Stroke Association Stroke Council, Clinical Cardiol-
+ogy Council, Cardiovascular Radiology and Intervention Council,
+and the Atherosclerotic Peripheral Vascular Disease and Quality of
+Care Outcomes in Research Interdisciplinary Working Groups: the
+American Academy of Neurology afﬁrms the value of this guideline
+as an educational tool for neurologists. Stroke 2007;38(05):
+1655– 711. Epub 2007 Apr 12. Erratum in: Stroke. 2007 Jun;38(6)
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al. 447
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p12]]
+32 Harenberg J, Krämer S, Du S, et al. Measurement of rivaroxaban
+and apixaban in serum samples of patients. Eur J Clin Invest
+2014;44(08):743– 752
+33 McGrail R, Revsholm J, Nissen PH, Grove EL, Hvas AM. Stability of
+direct oral anticoagulants in whole blood and plasma from
+patients in steady state treatment. Thromb Res 2016;148:107– 110
+34 Gous T, Couchman L, Patel JP, Paradzai C, Arya R, Flanagan RJ.
+Measurement of the direct oral anticoagulants apixaban, dabi-
+gatran, edoxaban, and rivaroxaban in human plasma using
+turbulent ﬂow liquid chromatography with high-resolution
+mass spectrometry. Ther Drug Monit 2014;36(05):597 – 605
+35 Lessire S, Doux ﬁls J, Baudar J, et al. Is Thrombin Time useful for
+the assessment of dabigatran concentrations? An in vitro and ex
+vivo study. Thromb Res 2015;136(03):693 – 696
+36 Gosselin RC, Adcock D, Hawes EM, Francart SJ, Grant RP, Moll S.
+Evaluating the use of commercial drug-speci ﬁc calibrators for
+determining PT and APTT reagent sensitivity to dabigatran and
+rivaroxaban. Thromb Haemost 2015;113(01):77 – 84
+37 Harenberg J, Marx S, Diener H-C, et al. Comparison of efﬁcacy and
+safety of dabigatran, rivaroxaban and apixaban in patients with
+atrial ﬁbrillation using network meta-analysis. Int Angiol 2012;
+31(04):330– 339
+38 van Ryn J, Stangier J, Haertter S, et al. Dabigatran etexilate – a
+novel, reversible, oral direct thrombin inhibitor: interpretation
+of coagulation assays and reversal of anticoagulant activity.
+Thromb Haemost 2010;103(06):1116 – 1127
+39 Samama MM, Contant G, Spiro TE, et al; Rivaroxaban Prothrom-
+bin Time Field Trial Laboratories. Evaluation of the prothrombin
+time for measuring rivaroxaban plasma concentrations using
+calibrators and controls: results of a multicenter ﬁeld trial. Clin
+Appl Thromb Hemost 2012;18(02):150 – 158
+40 Douxﬁls J, Mullier F, Loosen C, Chatelain C, Chatelain B, Dogné J-
+M. Assessment of the impact of rivaroxaban on coagulation
+assays: laboratory recommendations for the monitoring of riv-
+aroxaban and review of the literature. Thromb Res 2012;130
+(06):956– 966
+41 Douxﬁls J, Mullier F, Robert S, Chatelain C, Chatelain B, Dogné J-M.
+Impact of dabigatran on a large panel of routine or speci ﬁc
+coagulation assays. Laboratory recommendations for monitoring
+of dabigatran etexilate. Thromb Haemost 2012;107(05):985– 997
+42 Halbmayer W-M, Weigel G, Quehenberger P, et al. Interference of
+the new oral anticoagulant dabigatran with frequently used
+coagulation tests. Clin Chem Lab Med 2012;50(09):1601 – 1605
+43 Hillarp A, Baghaei F, Fagerberg Blixter I, et al. Effects of the oral,
+direct factor Xa inhibitor rivaroxaban on commonly used coa-
+gulation assays. J Thromb Haemost 2011;9(01):133 – 139
+44 Mani H. Interpretation of coagulation test results under direct
+oral anticoagulants. Int J Lab Hematol 2014;36(03):261 – 268
+45 Kitchen S, Gray E, Mackie I, Baglin T, Makris M; BCSH Committee.
+Measurement of non-coumarin anticoagulants and their effects on
+tests of Haemostasis: Guidance from the British Committee for
+Standards in Haematology. Br J Haematol 2014;166(06):830– 841
+46 Van Blerk M, Bailleul E, Chatelain B, et al. In ﬂuence of dabigatran
+and rivaroxaban on routine coagulation assays. A nationwide
+Belgian survey. Thromb Haemost 2015;113(01):154 – 164
+47 Testa S, Legnani C, Tripodi A, et al. Poor comparability of
+coagulation screening test with speci ﬁc measurement in
+patients receiving direct oral anticoagulants: results from a
+multicenter/multiplatform study. J Thromb Haemost 2016;14
+(11):2194– 2201
+48 Hawes EM, Deal AM, Funk-Adcock D, et al. Performance of coagu-
+lation tests in patients on therapeutic doses of dabigatran: a cross-
+sectional pharmacodynamic study based on peak and trough
+plasma levels. J Thromb Haemost 2013;11(08):1493– 1502
+49 Gouin-Thibault I, Flaujac C, Delavenne X, et al. Assessment of
+apixaban plasma levels by laboratory tests: suitability of three
+anti-Xa assays. A multicentre French GEHT study. Thromb Hae-
+most 2014;111(02):240 – 248
+50 Douxﬁls J, Chatelain C, Chatelain B, Dogné J-M, Mullier F. Impact
+of apixaban on routine and speci ﬁc coagulation assays: a prac -
+tical laboratory guide. Thromb Haemost 2013;110(02):283 – 294
+51 Bonar R, Favaloro EJ, Mohammed S, et al. The effect of the direct
+factor Xa inhibitors apixaban and rivaroxaban on haemostasis
+tests: a comprehensive assessment using in vitro and ex vivo
+samples. Pathology 2016;48(01):60 – 71
+52 Cuker A, Siegal DM, Crowther MA, Garcia DA. Laboratory mea-
+surement of the anticoagulant activity of the non-vitamin K oral
+anticoagulants. J Am Coll Cardiol 2014;64(11):1128 – 1139
+53 Douxﬁls J, Chatelain B, Chatelain C, Dogné J-M, Mullier F.
+Edoxaban: impact on routine and speci ﬁc coagulation assays.
+A practical laboratory guide. Thromb Haemost 2016;115(02):
+368– 381
+54 Zafar MU, Vorchheimer DA, Gaztanaga J, et al. Antithrombotic
+effects of factor Xa inhibition with DU-176b: Phase-I study of an
+oral, direct factor Xa inhibitor using an ex-vivo ﬂow chamber.
+Thromb Haemost 2007;98(04):883 – 888
+55 Morishima Y, Kamisato C. Laboratory measurements of the oral
+direct factor Xa inhibitor edoxaban: comparison of prothrombin
+time, activated partial thromboplastin time, and thrombin gen-
+eration assay. Am J Clin Pathol 2015;143(02):241 – 247
+56 Helin TA, Pakkanen A, Lassila R, Joutsi-Korhonen L. Laboratory
+assessment of novel oral anticoagulants: method suitability and
+variability between coagulation laboratories. Clin Chem 2013;59
+(05):807– 814
+57 Tripodi A, Chantarangkul V, Guinet C, Samama MM. The Inter-
+national Normalized Ratio calibrated for rivaroxaban has the
+potential to normalize prothrombin time results for rivaroxa-
+ban-treated patients: results of an in vitro study. J Thromb
+Haemost 2011;9(01):226 – 228
+58 Jabet A, Stepanian A, Golmard JL, Flaujac C, Joly BS, Gouin-
+Thibault I, Siguret V. Are Screening Tests Reliable to Rule Out
+Direct Oral Anticoagulant Plasma Levels at Various Thresholds
+(30, 50, or 100 ng/mL) in Emergency Situations? Chest. 2018; 153
+(01):288– 290
+59 Francart SJ, Hawes EM, Deal AM, et al. Performance of coagulation
+tests in patients on therapeutic doses of rivaroxaban. A cross-
+sectional pharmacodynamic study based on peak and trough
+plasma levels. Thromb Haemost 2014;111(06):1133– 1140
+60 Tsutsumi Y, Shimono J, Ohhigashi H, Ito S, Shiratori S, Teshima T;
+Int J Lab. Analysis of the in ﬂuence of dabigatran on coagulation
+factors and inhibitors. Int J Lab Hematol 2015;37(02):225 – 230
+61 Gosselin RC, Adcock DM. Comment: analysis of the in ﬂuence of
+dabigatran on coagulation factors and inhibitors. Int J Lab
+Hematol 2016;38(01):e4
+62 Gosselin R, Grant RP, Adcock DM. Comparison of the effect of the
+anti-Xa direct oral anticoagulants apixaban, edoxaban, and
+rivaroxaban on coagulation assays. Int J Lab Hematol 2016;38
+(05):505– 513
+63 Dager WE, Gosselin RC, Kitchen S, Dwyre D. Dabigatran effects on
+the international normalized ratio, activated partial thrombo-
+plastin time, thrombin time, and ﬁbrinogen: a multicenter, in
+vitro study. Ann Pharmacother 2012;46(12):1627 – 1636
+64 Dias JD, Norem K, Doorneweerd DD, Thurer RL, Popovsky MA,
+Omert LA. Use of thromboelastography (TEG) for detection of
+new oral anticoagulants. Arch Pathol Lab Med 2015;139(05):
+665– 673
+65 Herrmann R, Thom J, Wood A, Phillips M, Muhammad S, Baker R.
+Thrombin generation using the calibrated automated thrombi-
+noscope to assess reversibility of dabigatran and rivaroxaban.
+Thromb Haemost 2014;111(05):989 – 995
+66 Adelmann D, Wiegele M, Wohlgemuth RK, et al. Measuring the
+activity of apixaban and rivaroxaban with rotational thrombe-
+lastometry. Thromb Res 2014;134(04):918 – 923
+67 Chojnowski K, Górski T, Robak M, Treliński J. Effects of rivaroxaban
+therapy on ROTEM coagulation parameters in patients with venous
+thromboembolism. Adv Clin Exp Med 2015;24(06):995– 1000
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al.448
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p13]]
+68 Körber MK, Langer E, Köhr M, Wernecke KD, Korte W, von
+Heymann C. In vitro and ex vivo measurement of prophylactic
+dabigatran concentrations with a new ecarin-based thromboe-
+lastometry test. Transfus Med Hemother 2017;44(02):100 – 105
+69 Fontana P , Alberio L, Angelillo-Scherrer A, et al. Impact of rivarox-
+aban on point-of-care assays. Thromb Res 2017;153:65– 70
+70 Ebner M, Peter A, Spencer C, et al. Point-of-care testing of
+coagulation in patients treated with non-vitamin K antagonist
+oral anticoagulants. Stroke 2015;46(10):2741 – 2747
+71 Al-Aieshy F, Malmström RE, Antovic J, et al. Clinical evaluation of
+laboratory methods to monitor exposure of rivaroxaban at
+trough and peak in patients with atrial ﬁbrillation. Eur J Clin
+Pharmacol 2016;72(06):671 – 679
+72 Mani H, Herth N, Kasper A, et al. Point-of-care coagulation
+testing for assessment of the pharmacodynamic anticoagulant
+effect of direct oral anticoagulant. Ther Drug Monit 2014;36(05):
+624– 631
+73 Ebner M, Birschmann I, Peter A, et al. Point-of-care testing for
+emergency assessment of coagulation in patients treated with
+direct oral anticoagulants. Crit Care 2017;21(01):32
+74 Hemachron Jr Whole Blood Microcoagulation system. Prothrom-
+bin time (PT) [package insert]. Edison, NJ: International Techni-
+dyne Corporation Revision March 2007
+VT?c?rK?v?bK?b?fK??M?c???
+plasma, serum, and urine samples: comparison of six methods.
+Clin Chem Lab Med 2015;53(08):1237 – 1247
+76 DOASENSE GmbH. Heidelberg, Germany. 2017 https://www.doa-
+sense.de/Press_Release_of_DOASENSE_GmbH.PDF
+77 Vogeser M, Seger C. A decade of HPLC -MS/MS in the routine
+clinical laboratory– goals for further developments. Clin Biochem
+2008;41(09):649– 662
+78 Adaway JE, Keevil BG. Therapeutic drug monitoring and LC -MS/
+MS. J Chromatogr B Analyt Technol Biomed Life Sci 2012883-
+884:33– 49
+79 Kubitza D, Becka M, Wensing G, Voith B, Zuehlsdorf M. Safety,
+pharmacodynamics, and pharmacokinetics of BAY 59-7939 – an
+oral, direct Factor Xa inhibitor – after multiple dosing in healthy
+male subjects. Eur J Clin Pharmacol 2005;61(12):873 – 880
+80 Rohde G. Determination of rivaroxaban– a novel, oral, direct Factor
+Xa inhibitor– in human plasma by high-performance liquid chro-
+matography-tandem mass spectrometry. J Chromatogr B Analyt
+Technol Biomed Life Sci 2008;872(1-2):43– 50
+81 Barrett YC, Wang J, Song Y, et al. A randomised assessment of the
+pharmacokinetic, pharmacodynamic and safety interaction
+between apixaban and enoxaparin in healthy subjects. Thromb
+Haemost 2012;107(05):916 – 924
+82 Bathala MS, Masumoto H, Oguma T, He L, Lowrie C, Mendell J.
+Pharmacokinetics, biotransformation, and mass balance of edox-
+aban, a selective, direct factor Xa inhibitor, in humans. Drug
+Metab Dispos 2012;40(12):2250 – 2255
+83 Schmitz EM, Boonen K, van den Heuvel DJ, et al. Determination of
+dabigatran, rivaroxaban and apixaban by ultra-performance
+liquid chromatography - tandem mass spectrometry (UPLC -
+MS/MS) and coagulation assays for therapy monitoring of novel
+direct oral anticoagulants. J Thromb Haemost 2014;12(10):
+1636– 1646
+84 Douxﬁls J, Dogné JM, Mullier F, et al. Comparison of calibrated
+dilute thrombin time and aPTT tests with LC -MS/MS for the
+therapeutic monitoring of patients treated with dabigatran
+etexilate. Thromb Haemost 2013;110(03):543 – 549
+85 Douxﬁls J, Tamigniau A, Chatelain B, et al. Comparison of
+calibrated chromogenic anti-Xa assay and PT tests with LC -MS/
+MS for the therapeutic monitoring of patients treated with
+rivaroxaban. Thromb Haemost 2013;110(04):723 – 731
+86 Antovic JP, Skeppholm M, Eintrei J, et al. Evaluation of coagula-
+tion assays versus LC -MS/MS for determinations of dabigatran
+concentrations in plasma. Eur J Clin Pharmacol 2013;69(11):
+1875– 1881
+87 Skeppholm M, Hjemdahl P, Antovic JP, et al. On the monitoring of
+dabigatran treatment in “real life ” patients with atrial ﬁbrilla-
+tion. Thromb Res 2014;134(04):783 – 789
+88 Skeppholm M, Al-Aieshy F, Berndtsson M, et al. Clinical evaluation
+of laboratory methods to monitor apixaban treatment in patients
+with atrial ﬁbrillation. Thromb Res 2015;136(01):148– 153
+89 Vogeser M, Seger C. Pitfalls associated with the use of liquid
+chromatography-tandem mass spectrometry in the clinical
+laboratory. Clin Chem 2010;56(08):1234 – 1244
+90 Annesley T, Majzoub J, Hsing A, Wu A, Rockwood A, Mason D. Mass
+spectrometry in the clinical laboratory: how have we done, and
+where do we need to be? Clin Chem 2009;55(06):1236 – 1239
+91 Clarke W, Rhea JM, Molinaro R. Challenges in implementing
+clinical liquid chromatography-tandem mass spectrometry
+methods– the light at the end of the tunnel. J Mass Spectrom
+2013;48(07):755– 767
+92 Nowak G. The ecarin clotting time, a universal method to
+quantify direct thrombin inhibitors. Pathophysiol Haemost
+Thromb 2003;33(04):173 – 183
+93 Pötzsch B, Hund S, Madlener K, Unkrig C, Müller-Berghaus G.
+Monitoring of recombinant hirudin: assessment of a plasma-based
+ecarin clotting time assay. Thromb Res 1997;86(05):373– 383
+94 Lindhoff-Last E, Piechottka GP, Rabe F, Bauersachs R. Hirudin
+determination in plasma can be strongly in ﬂuenced by the
+prothrombin level. Thromb Res 2000;100(01):55 – 60
+95 Gosselin R, Hawes E, Moll S, Adcock D. Performance of various
+laboratory assays in the measurement of dabigatran in patients
+receiving therapeutic doses: a prospective study based on peak
+and trough plasma levels. Am J Clin Pathol 2014;141(02):262– 267
+96 Lange U, Nowak G, Bucha E. Ecarin chromogenic assay – an e w
+method for quantitative determination of direct thrombin inhibitors
+like hirudin. Pathophysiol Haemost Thromb 2003;33(04):184– 191
+97 Douxﬁls J, Lessire S, Dincq AS, et al. Estimation of dabigatran
+plasma concentrations in the perioperative setting. An ex vivo
+study using dedicated coagulation assays. Thromb Haemost
+2015;113(04):862– 869
+98 Biophen DTI [package insert]. Neuville-sur-Oise, France: Hyphen
+Biomedical. Revision April 29, 2015
+99 Helin TA, Lemponen M, Hjemdahl P, Rönquist-Nii Y, Lassila R,
+Joutsi-Korhonen L. From laboratory to clinical practice: dabiga-
+tran effects on thrombin generation and coagulation in patient
+samples. Thromb Res 2015;136(01):154 – 160
+100 Love JE, Ferrell C, Chandler WL. Monitoring direct thrombin
+inhibitors with a plasma diluted thrombin time. Thromb Hae-
+most 2007;98(01):234 – 242
+101 Avecilla ST, Ferrell C, Chandler WL, Reyes M. Plasma-diluted
+thrombin time to measure dabigatran concentrations during dabi-
+gatran etexilate therapy. Am J Clin Pathol 2012;137(04):572– 574
+102 Stangier J, Feuring M. Using the HEMOCLOT direct thrombin
+inhibitor assay to determine plasma concentrations of dabiga-
+tran. Blood Coagul Fibrinolysis 2012;23(02):138 – 143
+103 Hemoclot Thrombin Inhibitors [package insert]. Neuville-sur-
+Oise, France: Hyphen Biomedical. Revision March 17, 2015
+104 HemosIL Direct Thrombin Inhibitors [package insert]. Bedford,
+MA: Instrumentation Laboratory. Revision March 2016
+105 Douxﬁls J, Mani H, Minet V, et al. Non-VKA oral anticoagulants:
+accurate measurement of plasma drug concentrations. BioMed
+Res Int 2015;2015:345138
+106 Douxﬁls J, Tamigniau A, Chatelain B, Gof ﬁnet C, Dogné JM,
+Mullier F. Measurement of non-VKA oral anticoagulants versus
+classic ones: the appropriate use of hemostasis assays. Thromb J
+2014;12:24
+107 Becker RC, Alexander JH, Newby LK, et al. Effect of apixaban, an
+oral and direct factor Xa inhibitor, on coagulation activity
+biomarkers following acute coronary syndrome. Thromb Hae-
+most 2010;104(05):976 – 983
+108 Becker RC, Yang H, Barrett Y, et al. Chromogenic laboratory assays
+to measure the factor Xa-inhibiting properties of apixaban – an
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al. 449
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+[[p14]]
+oral, direct and selective factor Xa inhibitor. J Thromb Thrombo-
+lysis 2011;32(02):183– 187
+109 Douxﬁls J, Chatelain B, Hjemdahl P , et al. Does the Russell viper
+venom time test provide a rapid estimation of the intensity of oral
+anticoagulation? A cohort study. Thromb Res 2015;135(05):852– 860
+110 Gosselin RC, Adcock Funk DM, Taylor JM, et al. Comparison of
+anti-Xa and dilute Russell viper venom time assays in quantify-
+ing drug levels in patients on therapeutic doses of rivaroxaban.
+Arch Pathol Lab Med 2014;138(12):1680 – 1684
+111 Hillarp A, Gustafsson KM, Faxälv L, et al. Effects of the oral, direct
+factor Xa inhibitor apixaban on routine coagulation assays and
+anti-FXa assays. J Thromb Haemost 2014;12(09):1545 – 1553
+112 Mani H, Hesse C, Stratmann G, Lindhoff-Last E. Ex vivo effects of
+low-dose rivaroxaban on speci ﬁc coagulation assays and coagu-
+lation factor activities in patients under real life conditions.
+Thromb Haemost 2013;109(01):127 – 136
+113 Lindhoff-Last E, Samama MM, Ortel TL, Weitz JI, Spiro TE. Assays
+for measuring rivaroxaban: their suitability and limitations. Ther
+Drug Monit 2010;32(06):673 – 679
+114 Samama MM, Amiral J, Guinet C, Perzborn E, Depasse F. An
+optimised, rapid chromogenic assay, speci ﬁc for measuring
+direct factor Xa inhibitors (rivaroxaban) in plasma. Thromb
+Haemost 2010;104(05):1078 – 1079
+115 Samama MM, Contant G, Spiro TE, et al; Rivaroxaban Anti-Factor
+Xa Chromogenic Assay Field Trial Laboratories. Evaluation of the
+anti-factor Xa chromogenic assay for the measurement of rivar-
+oxaban plasma concentrations using calibrators and controls.
+Thromb Haemost 2012;107(02):379 – 387
+116 Samama MM, Guinet C, Le Flem L, Ninin E, Debue JM. Measure-
+ment of dabigatran and rivaroxaban in primary prevention of
+venous thromboembolism in 106 patients, who have undergone
+major orthopedic surgery: an observational study. J Thromb
+Thrombolysis 2013;35(02):140 – 146
+117 Samama MM, Martinoli JL, LeFlem L, et al. Assessment of
+laboratory assays to measure rivaroxaban – an oral, direct factor
+Xa inhibitor. Thromb Haemost 2010;103(04):815 – 825
+118 Samama MM, Mendell J, Guinet C, Le Flem L, Kunitada S. In vitro
+study of the anticoagulant effects of edoxaban and its effect on
+thrombin generation in comparison to fondaparinux. Thromb
+Res 2012;129(04):e77 – e82
+119 Lessire S, Doux ﬁls J, Pochet L, et al. Estimation of rivaroxaban
+plasma concentrations in the perioperative setting in patients
+with or without heparin bridging. Clin Appl Thromb Hemost
+2018;24(01):129– 138
+120 Mani H, Rohde G, Stratmann G, et al. Accurate determination of
+rivaroxaban levels requires different calibrator sets but not addi-
+tion of antithrombin. Thromb Haemost 2012;108(01):191– 198
+121 Gosselin RC, Francart SJ, Hawes EM, Moll S, Dager WE, Adcock
+DM. Heparin-calibrated chromogenic anti-Xa activity measure-
+ments in patients receiving rivaroxaban: can this test be used to
+quantify drug level? Ann Pharmacother 2015;49(07):777 – 783
+122 Y a t e sS G ,S m i t hS ,T h a r p eW ,S h e nY M ,S a r o d eR .C a na na n t i - X aa s s a y
+for low-molecular-weight heparin be used to assess the presence of
+rivaroxaban? Transfus Apheresis Sci 2016;55(02):212– 215
+123 Adcock DM, Gosselin R. Direct oral anticoagulants (DOACs) in the
+laboratory: 2015 review. Thromb Res 2015;136(01):7 – 12
+224 Sabor L, Raphaël M, Dogné JM, Mullier F, Doux ﬁls J. Heparin-
+calibrated chromogenic anti-Xa assays are not suitable to assess
+the presence of signi ﬁcant direct factor Xa inhibitors levels.
+Thromb Res 2017;156:36 – 38
+125 Harenberg J, Du S, Krämer S, et al. Novel methods for assessing
+oral direct factor Xa and thrombin inhibitors: use of point-of-
+care testing and urine samples. Semin Thromb Hemost 2013;39
+(01):66– 71
+126 Harenberg J, Krämer S, Du S, Weiss C, Krämer R. Concept of a
+point of care test to detect new oral anticoagulants in urine
+samples. Thromb J 2013;11(01):15
+127 Harenberg J, Du S, Wehling M, et al. Measurement of dabigatran,
+rivaroxaban and apixaban in samples of plasma, serum and
+urine, under real life conditions. An international study. Clin
+Chem Lab Med 2016;54(02):275 – 283
+128 Harris LF, Rainey P, Castro-López V, O ’Donnell JS, Killard AJ.
+Am i c r oﬂuidic anti-Factor Xa assay device for point of care
+monitoring of anticoagulation therapy. Analyst (Lond) 2013;
+138(17):4769– 4776
+129 Bluecher A, Meyer Dos Santos S, Ferreirós N, et al. Micro ﬂuidic
+coagulation assay for monitoring anticoagulant therapy in acute
+stroke patients. Thromb Haemost 2017;117(03):519 – 528
+130 Speciﬁc PoC Testing of Coagulation in Patients Treated With
+mn`b?P?GronbsLmn`b?PH?zh?ﬁY?mbsOQWQTRXS|M?`
+at: www.clinicaltrials.gov. Accessed January 15, 2017
+131 FDA. Guidance for Industry Bioanalytical Method Validation.
+2001, Revised 2013. Available at: http://www.fda.gov/Drugs/
+GuidanceComplianceRegulatoryInformation/Guidances/default.
+htm. Accessed January 15, 2017
+132 Validation of Analytical Procedures: Text and Methodology Q2
+(R1). ICH harmonised tripartite guideline. 2005. Available at:
+www.ich.org. Accessed January 15, 2017
+133 Guidance for Industry Q2B Validation of Analytical Procedures:
+Methodology. 1996. Available at: http://www.fda.gov/cder/gui-
+dance/index.htm. Accessed January 15, 2017
+134 US Department of Health and Human Services. Clinical labora-
+tory improvement amendments of 1988: ﬁnal rule. Fed Regist
+1992;57(40):7001– 7186. Codi ﬁed at 42 CFR §1405 – 494
+135 Thompson M, Ellison S, Wood R. Harmonized guidelines for
+single-laboratory validation of methods of analysis (IUPAC Tech-
+nical Report). Pure Appl Chem 2002;74:835 – 855
+136 Magnussen B, Örnemark U (eds.). The ﬁtness for purpose of
+analytical methods. A laboratory guide to method validation and
+related topics. 2nd edition. Eurachem, 2014. ISBN 978-9187461-
+59-0) (www.eurachem.org)
+137 Guideline on bioanalytical method validation EMEA/CHMP/EWP/
+192217/2009 Rev. 1 Corr. 2 http://www.ema.europa.eu/docs/en_GB/
+document_library/Scientiﬁc_guideline/2011/08/WC500109686.pdf
+138 Bonar R, Favaloro EJ, Mohammed S, Pasalic L, Siou ﬁ J, Marsden K.
+The effect of dabigatran on haemostasis tests: a comprehensive
+assessment using in vitro and ex vivo samples. Pathology 2015;
+47(04):355– 364
+Thrombosis and Haemostasis Vol. 118 No. 3/2018
+ICSH Guidance Document for DOAC Testing Gosselin et al.450
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.

@@ -1,0 +1,36 @@
+
+[[p1]]
+2024 年 JCS/JHRS ガイドライン フォーカスアップデート版不整脈治療 
+初版～2024/9/25 更新版 
+ 
+正誤表 
+記載に誤りがありましたので，お詫び申し上げますとともに下記の通り訂正致します。（2025.5.26） 
+訂正箇所 誤 正 版 
+p. 17 表 6 第 1項目 DDD-CSL ペースメーカ DDD-CLS ペースメーカ 1) 
+p.25 左段下から 3行目 症状 症例 1)2)3)4) 
+p. 52 右段上から 16行目 血中半減期は約 1時間 血中半減期は約 4時間 1),2) 
+p. 36 左段上から 8行目，15行目 文献番号 308) 文献番号 310a) 1),2),3) 
+p. 36 左段 3.2 臨床データ 
+2行目 
+文献番号 309) 文献番号 310b) 1),2),3) 
+p. 36 左段 下から 3行目 文献番号 310) 文献番号 310c) 1),2),3) 
+p. 76 文献 310の後に 3文献追加  
+ 
+ 
+ 
+ 
+― 
+310a. Ramirez FD, Reddy VY, Viswanathan R, et al. Emerging 
+technologies for pulmonary vein isolation. Circ Res 2020; 127: 170- 
+183. PMID: 32716722 
+ 
+310b. Reddy VY, Neuzil P, Koruth JS, et al. Pulsed field ablation for 
+pulmonary vein isolation in atrial fibrillation. J Am Coll Cardiol 
+2019; 74: 315-326. PMID: 31085321 
+ 
+310c. Reddy VY, Dukkipati SR, Neuzil P, et al. Pulsed field ablation 
+of paroxysmal atrial fibrillation: 1-year outcomes of IMPULSE, 
+PEFCAT, and PEFCAT II. JACC Clin Electrophysiol 2021; 7 : 
+614-627. PMID: 33933412 
+1),2),3) 
+1) 2024/3/8発行版 2) 2024/3/29更新版 3) 2024/4/12更新版 4) 2024/9/25更新版		

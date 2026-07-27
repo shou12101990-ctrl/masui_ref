@@ -1,0 +1,1023 @@
+
+[[p1]]
+202  © 2024 Annals of Cardiac Anaesthesia | Published by Wolters Kluwer - Medknow
+Protamine and Heparin Interactions: A Narrative Review
+Martina Crivellari1, Giovanni Landoni1,2, Jacopo D’Andria Ursoleo1, Luca Ferrante2, Alessandro Oriani1
+1IRCCS San Raffaele Scientific Institute, Via Olgettina, 60, 20132, Milan, 2Vita‑Salute San Raffaele University, Via Olgettina, 58, 20132, 
+Milan, Italy
+Review Article
+INTRODUCTION
+Protamine and heparin play pivotal roles in medicine, 
+especially in the cardiac surgery setting. Protamines are 
+small, nuclear, arginine‑rich, basic, positively charged 
+proteins consisting of  32 amino acids, involved in compact 
+folding and stabilization of  sperm deoxyribonucleic 
+acid (DNA),[1] and are a common antidote for heparin, a 
+potent anticoagulant.
+Protamine was first isolated from salmon fish sperm and 
+is now produced through recombinant biotechnology. 
+It is available in a sulfate or chloride formulation. The 
+former replaced hexadimethrine bromide (Polybrene®), 
+an earlier cationic agent used as the initial heparin 
+reversal agent during the early stages of  cardiac surgery, 
+since investigations conducted in the 1960s, indicated 
+that hexadimethrine bromide doses that exceeded their 
+therapeutic range might lead to kidney failure. The latter 
+type was described as being the most resistant to break 
+down by peptidases. The ability to neutralize heparin was 
+first described at the beginning of  the twentieth century.[2]
+It is noteworthy that protamine also interferes with 
+coagulation factors, specifically the conversion of 
+prothrombin to thrombin, which is involved in platelet 
+function and can stimulate fibrinolysis. Therefore, 
+protamine can cause dose‑dependent thrombocytopenia, 
+reduction in thrombin‑related platelet aggregation, and a 
+decreased platelet response to thrombin receptor agonists. 
+Because of  its strongly positive charge, protamine sulfate 
+Access this article online
+Quick Response Code:
+Website:
+https://journals.lww.com/aoca
+DOI:
+10.4103/aca.aca_117_23
+ABSTRACT
+Protamine, first isolated from salmon fish sperm and now produced through recombinant biotechnology, is an antidote that neutralizes the 
+anticoagulant properties of heparin. Protamine function is based on the capacity to dissociate the heparin–antithrombin III (AT III) complex (an 
+important link that promotes blood fluidification by inhibiting coagulation), forming the inactive heparin–protamine complex. Protamine has 
+itself dose‑dependent anticoagulant properties: It interferes with coagulation factors and platelet function; it stimulates fibrinolysis; it can lead 
+to thrombocytopenia and reduction in thrombin‑related platelet aggregation; it decreases platelet response to thrombin receptor agonist in a 
+dose‑dependent manner. In this review, we will focus on protamine and its interaction with heparin. Notably, protamine is able to antagonize not 
+only unfractionated heparin (UFH) but also low molecular weight heparins to various degrees. Protamine‑allergic and anaphylactoid systemic 
+reactions may affect up to 1 in 10 people and should be prevented and treated early.
+Keywords: Activated clotting time, bleeding, cardiac anesthesia, cardiopulmonary bypass, coagulation, heparin, 
+protamine
+Address for correspondence: Prof. Giovanni Landoni, Department of Anaesthesia and Intensive Care, IRCCS San Raffaele Scientific Institute, Via Olgettina 
+60, 20132 Milan, Italy.  
+E‑mail: landoni.giovanni@hsr.it 
+Submitted: 22‑Jul‑2023 Revised: 18‑Nov‑2023 Accepted: 08‑Dec‑2023 Published: 04‑Jul‑2024
+How to cite this article: Crivellari M, Landoni G, D'Andria Ursoleo J, 
+Ferrante L, Oriani A. Protamine and heparin interactions: A narrative review. 
+Ann Card Anaesth 2024;27:202-12.
+This is an open access journal, and articles are distributed under the terms of the Creative 
+Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, which allows others to 
+remix, tweak, and build upon the work non‑commercially, as long as appropriate credit 
+is given and the new creations are licensed under the identical terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+[[p2]]
+Crivellari, et al.: Protamine: A narrative review
+Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024 203
+tissue of  both the airways and lungs, the ability of 
+protamine to trigger histamine release in this context was 
+investigated, though in vitro studies failed to demonstrate 
+such an effect at the standard dose commonly administered 
+in clinical settings.[3]
+Protamine may also induce IgE‑independent anaphylactic 
+and anaphylactoid reactions, causing bradycardia, 
+hypotension, and pulmonary vasoconstriction, leading to 
+pulmonary hypertension and right ventricular dysfunction, 
+two potentially life‑threatening clinical complications 
+following the protamine‑induced anaphylactic reaction.
+Pulmonary hypertension is a potentially life‑threatening 
+pathology. Besides chronic conditions related to left 
+heart disease, there are acute reactions due to sudden 
+vasoconstriction of  pulmonary arteries caused, for 
+example, by polycations, toxic substances, clots in 
+pulmonary circulation, inflammatory diseases, renal 
+failure, and asbestosis. Hence, preliminary evidence 
+derived from animal models suggests that pretreatment 
+with phosphodiesterase inhibitors (e.g. aminophylline 
+and pentoxifylline) may exhibit a protective effect 
+by attenuating the increase in pulmonary artery 
+pressure and lung weight gain resulting from protamine 
+administration. [4]
+Anaphylactic reactions are more common in 
+insulin‑dependent diabetic patients due to protamine 
+inclusion in some insulin medical products, such as 
+recombinant human zinc–protamine–insulin (whose 
+absorption and onset of  action are delayed by the addition 
+of  protamine and zinc, which leads to crystal formation), 
+and in patients with fish protein allergy. Anaphylactic 
+reactions and hemodynamic disturbances are overlapping 
+manifestations of  the same pathology, often difficult to 
+discriminate[5,6] [Table 1].
+When allergic reactions manifesting with urticaria 
+or mild blood pressure occur, protamine infusion 
+should be stopped, and standard symptomatic 
+management should be followed. If, instead, patients 
+exhibit potentially life‑threatening conditions indicative 
+of  anaphylaxis  (e.g.,  vasodilatory shock and acute 
+cardiopulmonary dysfunction), it is recommended 
+to administer medical treatment (e.g,. epinephrine 
+administration) along with resuscitative measures and/or 
+cardiopulmonary life support. [7] When refractory shock 
+occurs instead, mechanical circulatory support  (MCS) 
+devices, including venoarterial extracorporeal membrane 
+oxygenation or reinstitution of  cardiopulmonary 
+bypass (CPB), can be implemented. [8]
+or hydrochloride has a higher affinity for heparin than 
+antithrombin III (AT III) and is able to dissociate the 
+heparin–AT III complex, forming an inactive heparin–
+protamine complex [Figure 1]. It must be administered by 
+intravenous route.
+Furthermore, while the protamine–heparin interaction 
+is well documented and often considered “just” a 
+straightforward ionic interaction, emerging research hints 
+at more intricate molecular dynamics at play, suggesting 
+that there may be additional layers to their actions.
+The present review examines the established understanding 
+of  protamine and heparin, delves into their multifaceted 
+interactions, and underscores potential scientific knowledge 
+gaps in this field. Of  note, unless otherwise specified in 
+the present work, when making reference to “heparin” we 
+intend “unfractionated heparin” (UFH).
+Protamine adverse reactions and unforeseen 
+consequences
+Protamine administration can lead to systemic reactions. 
+The antigen–antibody response to protamine sulfate 
+results in a type  I anaphylactic reaction, ranging from 
+hemodynamic instability, such as transient hypotension 
+and tachycardia to fatal cardiovascular collapse, especially 
+in cardiac surgery settings. Notably, given the high density 
+of  histamine‑secreting mast cells or basophils in mucosal 
+Figure 1: Heparin has an overall high negative charge and can bind 
+with the antithrombin III (AT III)‑positive lysine amino acid or with the 
+positive protamine antidote
+[[p3]]
+Crivellari, et al.: Protamine: A narrative review
+204  Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024
+Calculating the optimal protamine dose
+Protamine is routinely administered to overcome the 
+anticoagulant properties of  heparin, forming an ionic 
+complex without any anticlotting activity.
+Historically, protamine has been given at a 1:1 ratio, relative 
+to the initial or even total dose of  heparin previously 
+administered. Furthermore, an additional protamine dose 
+may be administered, aiming to restore homeostasis and 
+reduce microvascular bleeding, rather than entering toward 
+a vicious circle of  “more protamine, more bleeding.”
+Notably, current guidelines do not recommend 
+protamine dose adjustments either in specific patient 
+populations (i.e., the elderly and children) or in patients 
+with renal or hepatic impairment.
+The hemostasis management system (HMS) allows 
+individualized heparin dose titration based on a dose–
+response test, which results in a tailored and often 
+decreased protamine dose.
+An observational study by De Simone et al.[9] showed that a 
+1:1 protamine‑to‑heparin ratio is usually not necessary and 
+HMS can lower the total protamine administered thanks 
+to residual heparin measurements at the end of  CPB. 
+Although larger studies are needed to clarify the optimal 
+protamine‑to‑heparin ratio in cardiac surgery, a reasonable 
+approach could be to set a protamine‑to‑heparin ratio 
+lower than the traditional 1:1 ratio while waiting for further 
+studies. Moreover, residual blood heparin measurement 
+with HMS devices could help to titrate the protamine dose 
+more accurately.
+Noteworthy, a single‑center, prospective, observational 
+study by Taneja et al .[10]  in a cohort of  28 patients 
+undergoing on‑pump cardiac surgery concluded that a 0.5 
+protamine:cumulative heparin ratio was able to neutralize 
+heparin in >90% of  patients.
+The algorithmic protamine dosing for reversal of  heparin 
+after cardiopulmonary bypass (PRODOSE) trial, a 
+recent original investigation by Miles et al .,[11] sought to 
+compare a customized mathematical model for calculating 
+protamine dosage in a cohort of  228 low bleeding risk 
+patients undergoing on‑pump cardiac surgery against 
+the conventional fixed dose ratio (1 mg of  protamine 
+per 100 IU of  heparin). The authors reported that the 
+utilization of  this mathematical model led to improvements 
+in point‑of‑care  (POC) coagulation measurements and 
+a notable 36.6% reduction in protamine administration. 
+Employing mathematical models based on heparin clearance 
+can be safely adopted for protamine dosing, in line with 
+previous pharmacokinetic models developed to determine 
+optimal protamine dosing after therapeutic anticoagulation 
+for CPB.[12,13] Such findings further strengthen the hypothesis 
+that dosing protamine according to the commonly used 1:1 
+fixed dose ratio is probably excessive in this population, 
+though further research with a focus on clinical outcomes 
+and a population at a higher risk of  bleeding is warranted.
+The potential consequences when excessive protamine 
+is administered to antagonize heparin are hence to be 
+considered as well. Protamine, having inherent anticoagulant 
+properties, can exacerbate bleeding, a phenomenon known 
+as “paradoxical anticoagulation.” Notably, such anticoagulant 
+properties of  protamine rely on its pleiotropic effects. 
+First, reduced platelet function is driven by decreased 
+thrombin generation,[14] inhibition of  glycoprotein Ib–von 
+Willebrand factor (GPIb–vWF) activity,[15] and a decreased 
+platelet responsiveness to thrombin receptor agonist 
+peptide.[16] Second, reduced clot strength coupled with a 
+Table 1: Protamine‑allergic and anaphylactoid reactions (including severe anaphylactoid reactions, with IgE‑independent 
+mechanism): risk factors, clinical manifestations, and therapeutic options
+Risk factors Clinical manifestations Therapeutic options 
+Fish protein allergy
+Diabetic patients in zinc–
+protamine–insulin treatment
+Rate of infusion
+Prior exposure to protamine 
+(only for protamine chloride)
+Vasectomy (may have 
+circulating anti‑protamine 
+antibodies)
+Common side effects (may affect up to 1 in 10 people)
+‑Urticaria
+‑Angioedema
+‑Skin and mucous reaction
+‑Severe hypotension
+‑Bronchospasm
+‑Heat or flushing feeling
+Rare side effects (may affect up to one person in 1000)
+‑Anaphylactic shock
+‑Acute pulmonary hypertension (with or without right 
+ventricular failure or pulmonary edema)
+‑Bradycardia
+‑Dyspnea
+‑Nausea
+‑Vomiting
+‑Modest and reversible thrombocytopenia
+Treat symptoms
+Fluids
+Vasoconstrictors
+Antihistaminic
+Corticosteroids (hydrocortisone)
+[[p4]]
+Crivellari, et al.: Protamine: A narrative review
+Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024 205
+shortened time to lysis results in enhanced fibrinolysis. [17] 
+Lastly, reduced generation or activation of  coagulation 
+factors (i.e., thrombin and factors V , VII, and VIII) results in 
+inhibition of  coagulation.[18‑20] This multifactorial mechanism 
+leads to overall impaired platelet function, interference with 
+coagulation factors, and stimulation of  clot breakdown, 
+ultimately responsible for the occurrence of  bleeding 
+complications [Figure 2].[21] This begs the question of  the 
+optimal strategy for heparin antagonism. As described by 
+Suelzu et al.,[22] a protamine dose of  1 mg for every 100 units 
+of  administered heparin (1:1 ratio) to reverse residual heparin 
+activity following off‑pump coronary artery bypass may be 
+higher than necessary, leading to potential postoperative 
+disruptions in hemostasis. They observed that two‑thirds of  
+the total calculated dose of  protamine was able to reverse the 
+heparin anticoagulant effect (complete heparin reversal with a 
+1:0.67 heparin‑to‑protamine ratio). Additionally, a protamine 
+dose up to a 1:1 ratio seemed to prolong the clotting 
+time; in fact, infusion of  the remaining total calculated 
+protamine dose led to significant clotting time elongation. 
+They did not observe modifications in clot firmness. 
+Furthermore, in normothermic conditions (i.e. off‑pump 
+coronary artery bypass graft (OPCABG)) compared with 
+hypothermia (i.e., on‑pump CABG), the expected reduction 
+in heparin concentration could be higher because of  faster 
+heparin turnover.[23]
+Overdosing protamine leads to an anticoagulant effect 
+and bleeding complications, due to platelet dysfunction, 
+inhibition of  glycoprotein Ib–vWF, serine protease activity, 
+and increased fibrinolysis.[23]
+Despotis et al .[24] demonstrated that a reduction in the 
+protamine‑to‑heparin ratio decreased postoperative 
+bleeding and the amount of  fresh‑frozen plasma and 
+platelet administration after CPB.
+However, protamine excess and related clinical significance 
+in terms of  bleeding constitute an open question.
+Previous studies described platelet function impairment 
+with a higher ratio of  protamine. Particularly, Gertler and 
+coauthors demonstrated how protamine addition worsens 
+platelet function.[22,25,26]
+Cell salvage
+Reinfusion of  recovered, filtered, and heparin‑washed 
+blood plays a role in CPB‑induced coagulation impairment. 
+Cell salvage is often used to avoid blood transfusions, with 
+a reduction in transfusion cost. In cardiac surgery, heparin 
+plays a crucial role in prolonging the activated clotting time. 
+Blood salvaged following CPB is often thought to contain 
+residual heparin, leading to concern among surgeons about 
+its use due to its increased risk of  bleeding, especially within 
+the microcirculation, when reinfusion exceeds 18.5% of  
+the total blood volume.[27]
+Many studies argue this assumption, claiming that recovered 
+blood has minimal heparin activity, even in procedures 
+requiring complete anticoagulation.[28,29]
+Wang et al., in a meta‑analysis, underline that cell salvage 
+may be beneficial if  used for residual and/or spilled 
+blood or during the entire operative period. Conversely, 
+cell salvage seems to have an irrelevant effect on blood 
+conservation in cardiotomy‑suctioned blood during 
+extracorporeal circulation, rather than increasing plasma 
+transfusion.[30]
+Protamine alternatives: not only andexanet alfa?
+Although protamine is approved as a reversal agent 
+for heparin, a drug shortage coupled with potentially 
+life‑threatening hypersensitivity reactions (i.e., anaphylaxis, 
+antibody  (IgE) formation, catastrophic pulmonary 
+vasoconstriction, and direct complement activation) 
+following administration in patients at risk of  reactions 
+urged the scientific community to investigate possible 
+alternatives.
+Andexanet alfa, originally created as an antidote for 
+rivaroxaban and apixaban, showed in vitro  almost 
+complete heparin reversal in a dose‑dependent manner 
+and regression of  the heparin effect on activated partial 
+thromboplastin time, thrombin time, and factor Xa activity. 
+However, the use of  andexanet to antagonize heparin 
+or low molecular weight heparin (LMWH) has not been 
+Figure 2:  Summary of the three main mechanisms underlying the 
+anticoagulant properties of protamine. GPIb–vWF: glycoprotein Ib–von 
+Willebrand factor
+[[p5]]
+Crivellari, et al.: Protamine: A narrative review
+206  Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024
+evaluated yet in in vivo settings and is not recommended. 
+Therefore, andexanet before heparinization, for example, 
+during surgery, should be avoided, as off‑label use before 
+surgery seems to induce refractoriness to heparin. Notably, 
+this product is very expensive.[31]
+Though not currently available for clinical use, other 
+agents potentially suitable as alternatives to protamine 
+for anticoagulation reversal include hexadimethrine, 
+recombinant platelet factor 4 (PF4), heparinase, and 
+universal heparin reversal agent  (UHRA), a potent 
+neutralizer of  all types of  heparin with no effect on clot 
+morphology.
+Furthermore, in recent years, a novel small molecule 
+interacting non‑covalently through charge–charge 
+interactions with both UFH and LMWH  (namely 
+ciraparantag) has been developed. Preliminary studies 
+conducted in animal models using different anticoagulants 
+suggest that ciraparantag shows considerable promise 
+in minimizing blood loss. As a result, its potential as a 
+reversal agent for direct oral anticoagulants  (DOACs) 
+is currently under investigation. Whether administered 
+intravenously before or after a bleeding injury, ciraparantag 
+consistently displayed a noteworthy decrease in blood loss 
+at peak concentrations of  the anticoagulant. Its ease of  
+administration and prolonged functional half‑life position it 
+as a promising choice for potential application in situations 
+with a heightened risk of  bleeding (e.g., cardiac surgery). 
+However, it is undeniable that additional large‑scale clinical 
+trials are needed to further validate these initial findings and 
+ultimately integrate them into routine clinical practice.[32]
+Protamine during polypharmacy and drug 
+incompatibility
+Given the increasing prevalence of  polypharmacy in 
+both operating rooms and intensive care units (ICUs), 
+it is essential to thoroughly assess the potential for 
+drug incompatibility. Undesirable outcomes (i.e., drug 
+precipitation at the administration port) can result in the 
+formation of  harmful compounds or inactive complexes, 
+leading to adverse effects or a lack of  therapeutic efficacy. 
+Lamontagne et al .[33] documented a case in which large 
+globules were observed after propofol and protamine were 
+concurrently administered through the same infusion line, 
+causing the separation of  oil and aqueous phases. Several 
+years later, Gupta et al .[34] reported a case of  physical 
+incompatibility between protamine and ceftriaxone sodium, 
+an antibiotic used prophylactically in cardiac surgery after 
+separation from CPB. This incompatibility resulted in 
+precipitation, with the resulting mixture needing discharge. 
+Further investigations are needed to ascertain whether such 
+precipitates can form toxic complexes or compromise the 
+effectiveness of  protamine.
+Remarkably, there are currently no further known or 
+described instances of  protamine engaging in additional 
+harmful interactions with other medications.
+Heparin
+In 1918, Emmett Holt and William Howell accidentally 
+discovered an anticoagulant called heparphosphatide 
+at Johns Hopkins Hospital in Baltimore. The new 
+water‑soluble anticoagulant phosphatide was found in 
+abundance in the canine liver tissue. The first intravenous 
+heparin was produced in 1936 when the first human trials 
+of  heparin were conducted and Connaught’s heparin 
+was confirmed to be a safe, easily available, and effective 
+blood anticoagulant. Heparin performs anticoagulant 
+functions only in the presence of  a plasma component 
+named “heparin cofactor.” The connection between 
+heparin cofactor and antithrombin  (AT) goes back to 
+the 1950s, when it was pointed out that heparin catalyzes 
+AT activity. Activated AT inhibits thrombin (factor IIa) 
+and factor X. Four generations of  heparin are currently 
+available: UFH, derived from bovine lung or gut, or from 
+porcine intestinal mucosa; LMWH, second‑generation 
+heparin derived from depolymerization of  UFH; ultra (U) 
+LMWH, third‑generation heparin, which includes chemical 
+products; and fourth‑generation heparin, modified with 
+bioengineering techniques. Nowadays, some of  the first 
+three heparin generations have been approved by the US 
+Food and Drug Administration (FDA) and are available for 
+clinical use: Among these are UFH prepared from porcine 
+intestine, several LMWHs (derived from porcine UFH), 
+and ULMWH Arixtra® (fondaparinux).
+Generally, pharmaceutical processes can be split into five 
+steps, but the heparin‑specific production cycle is patent 
+protected and not available.[35]
+Heparin is used for many purposes, including 
+cardiac and vascular procedures, thrombosis and 
+thromboembolism prophylaxis and treatment, atrial 
+fibrillation with embolization, treatment of  acute and 
+chronic consumptive coagulopathies (disseminated 
+intravascular coagulation (DIC)), and dialysis procedures.
+Heparin administration is commonly based on actual 
+body weight, a reasonable option for achieving adequate 
+anticoagulation, yet individual response to heparin 
+is variable. After hundred years of  heparin usage, its 
+pharmacokinetic and pharmacodynamic properties 
+remain incompletely understood. Regorda et al.[36] suggest 
+[[p6]]
+Crivellari, et al.: Protamine: A narrative review
+Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024 207
+a mathematical model combining pharmacokinetic and 
+pharmacodynamic properties to predict activated clotting 
+time (ACT) during CPB following heparin administration, 
+aiming to optimize heparin dosage and ACT value. Despite 
+the great variability and heterogeneity of  heparin activity 
+where an individualized approach seems reasonable, clinical 
+studies to confirm its utility are needed.
+Measuring AT III at every stage: A necessity or not
+AT III is a serine protease inhibitor, known for its crucial 
+role as an anticoagulant and anti‑inflammatory agent. 
+Heparin presence can enhance 1.000‑fold the anticoagulant 
+activity of  AT III, while theoretically compromising its 
+anti‑inflammatory capacity. Heparin administration can 
+potentially change the available quantity of  AT III, as the 
+thrombin—AT III reaction is equilateral. [37] In suspected 
+heparin‑resistant patients, the administration of  increased 
+doses of  heparin is an option but could induce excessive 
+consumption of  AT III. One plausible strategy might be to 
+determine the AT III level before and after every surgical 
+intervention. The cost‑effectiveness is open to debate as 
+AT III dosing could be expensive. Some advantages of  
+this strategy may be preventing large doses of  unnecessary 
+heparin and preserving anti‑inflammatory AT III properties 
+and early diagnosis of  possible heparin resistance.[38]
+Heparin‑allergic and anaphylactoid reactions
+The most common allergic reaction to heparin is a 
+cell‑mediated delayed type  IV hypersensitivity reaction, 
+clinically characterized by skin necrosis, including pruritic 
+erythematous plaques or maculae. Immediate type  I 
+allergic reaction (IgE‑mediated) is rare. The risk factors 
+of  LMWH‑induced skin reactions (more frequently in 
+females than in males) include a duration of  therapy longer 
+than 9 days and body mass index higher than 25. Due to 
+its rarity, there are no standardized protocols to follow in 
+cases of  heparin allergy.[39] [Table 2]
+Size matters (LMWH and protamine)
+Over the past years, LMWH progressively substituted 
+UFH in clinical practice, but protamine has remained the 
+same. Neutralization capacity varies according to certain 
+factors: Some studies demonstrated reduced capacity 
+caused by molecular weight and degree of  sulfation, 
+suggesting greater affinity of  protamine for high molecular 
+weight molecules. Shroeder et al .[40]  investigated the 
+molecular weight influence on LMWH neutralization by 
+protamine [Table 3].
+They concluded that sulfation does not have the same 
+importance as molecular weight; however, marked variation 
+in protamine neutralization capacity cannot be attributed 
+to one single factor. In this study, using the traditional 1:1 
+heparin‑to‑protamine dose, only anti‑IIa activity resulted 
+in inhibition contrary to anti‑Xa activity. LMWH, a peptide 
+fragment derived from protamine enzymatic digestion, 
+could be a promising solution.[41] Many papers have been 
+published since its initial discovery in 1999: The results 
+showed that low molecular weight protamine could 
+neutralize the anticoagulant properties of  heparin and 
+LMWH. Besides its effect as heparin or LMWH antagonist, 
+low molecular weight protamine has capacity to delay 
+insulin absorption, forming insoluble complexes, a less 
+toxic long‑lasting insulin product than conventional neutral 
+protamine Hagedorn (NPH) insulin for diabetic control.
+Of  note, 1 mg of  protamine sulfate will neutralize 
+approximately 100 anti‑Xa units of  an LMWH (i.e. 60 mg 
+of  protamine to neutralize 6000 IU of  enoxaparin). This 
+dose will depend on the timing of  LMWH administration, 
+considering the specific half‑life of  the culprit molecule. 
+For instance, if  1 mg of  enoxaparin was administered, 
+the protamine dose needed to revert it would be 1  mg 
+or 0.5 mg if  the former was administered earlier or later 
+than 8 hours, respectively. Protamine reversal may not 
+be required if  enoxaparin was administered  >12 hours 
+before. Furthermore, as the protamine half‑life is 7 minutes 
+and the LMWH half‑life is in the range of  4–7 hours, a 
+second, delayed dose of  protamine might be administered 
+to achieve better reversal.
+Target ACT
+In 2018, the Society of  Thoracic Surgeons  (STS), the 
+Society of  Cardiovascular Anesthesiologists (SCA), 
+and the American Society of  ExtraCorporeal 
+Technology  (AmSECT) published clinical practice 
+guidelines for anticoagulation during CPB. The seventeen 
+suggestions have evidence B or C, and therefore, we are 
+still using the target ACT of  400–480 seconds without 
+the level of  evidence “A.” ACT has several limitations 
+resulting in low heparin specificity: Platelet low count and 
+dysfunction, coagulation deficiency (including coagulation 
+factor deficiency), hypothermia, surgery effect, ongoing 
+therapies, and hemodilution may influence the ACT result, 
+simulating adequate heparinization and predisposing to 
+adverse events.[42]
+Miles et al .[43] published results from the first Global 
+Cardiopulmonary Bypass Survey. These data represent 
+practice in Europe, North America, Australia or 
+New Zealand, and South America. The ACT considered 
+safe to start CPB in the different regions was generally 
+between 400 and 500  seconds. A small percentage of 
+respondents prefer an ACT above or below that value.
+[[p7]]
+Crivellari, et al.: Protamine: A narrative review
+208  Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024
+These results evidence some differences in anticoagulation 
+procedures between different regions, and the reasons are 
+unclear.
+ACT assessment: arterial or venous blood sampling
+Variability has been reported during the ACT measurement. 
+Various studies hypothesize different ACT values resulting 
+from arterial or venous samples. [44‑46] Differences have 
+been attributed to the heparin presence in arterial line 
+flushing solution, to sampling blood from heparin‑coated 
+catheters, to viscosity, or to oxygen tension in arterial 
+blood. Whatever the cause, there is variability in ACT 
+measurement after heparinization and further studies are 
+needed.[47]
+Timing and modalities of heparin administration before 
+CPB
+Nowadays, CPB is performed approximately 1 million times 
+per year (in Europe and the USA combined) and relies on 
+modulation of  the coagulation system through heparin. 
+To allow the patient’s blood to flow into the CPB circuit, 
+an anticoagulant must be administered.
+Administering heparin before CPB and reversing it with 
+protamine at the end of  CPB are key moments in the 
+operating room: Coordination among anesthesiologists, 
+surgeons, perfusionists, and nurses is mandatory, and 
+speaking out loud and clear is common so that everyone is 
+aware of  what is happening. Heparin is usually administered 
+through the central venous line, followed by proper 
+flushing.
+A single bolus of  heparin (low cost, quick onset, and 
+easy reversal), at a standard dose of  300 IU/Kg of  body 
+weight (equal to 3 mg per kg), is administered to achieve 
+an ACT greater than 480 sec. The starting dose is 300 units 
+per kg and is calculated based on either lean or actual body 
+weight. Shlensky et al.[48] found no differences in bleeding 
+among three different groups of  patients (nonobese, obese, 
+and morbidly obese) and concluded that heparin dose based 
+on actual body weight is safe and effective. Additionally, 
+the CPB circuit is usually primed with additional heparin 
+as per the center routine.
+When discontinuing extracorporeal circulation, it is 
+necessary to antagonize the effects of  heparin.
+Heparin antagonization
+A protamine dose is administered in a 1:1 ratio to the 
+administered heparin. In this way, the given amount 
+of  protamine is always more than necessary. Some 
+physicians may even consider a total administered dose 
+of  heparin rather than an initial bolus dose. This is 
+even more serious. The goal is to return to the basal 
+Table 2: Heparin‑allergic and anaphylactoid reactions (most of them rare)[39]
+Clinical manifestations Therapeutic options
+Heparin‑induced anaphylactic and anaphylactoid reactions
+Oversulfated chondroitin sulfate (OSCS) heparin‑induced 
+anaphylaxis (contact system activation with increase in 
+vasoactive kinins or bradykinin)
+Severe hypotension and laryngeal 
+edema
+Corticosteroids
+Epinephrine or norepinephrine
+Heparin‑induced anaphylactoid reaction as a 
+consequence of heparin‑induced thrombocytopenia (HIT), 
+mediated by an immune reaction
+Fever or chills
+Hypertension “pseudo‑pulmonary 
+embolism”
+Stop heparin
+Continue with direct thrombin inhibitors 
+if anticoagulation is required: argatroban, 
+bivalirudin, danaparoid, or fondaparinux
+Patients previously exposed to heparin can have 
+circulating “HIT antibodies” defined as circulating 
+antiplatelet factor 4 (PF4) antibodies, which can lead to 
+platelet activation
+Fever, acute respiratory distress, 
+hypotension, thrombosis, and low 
+platelet count
+(Interestingly, thrombocytopenia 
+increases the risk of bleeding, not 
+reducing the risk of thrombosis)
+Stop heparin
+Continue with direct thrombin inhibitors 
+if anticoagulation is required: argatroban, 
+bivalirudin, danaparoid, or fondaparinux
+Heparin‑allergic reactions
+(Majority of patients are negative for an intradermal test 
+and can undergo heparin administration)
+Cell‑mediated delayed type IV hypersensitivity reaction Skin necrosis
+Pruritic erythematous plaques or 
+maculae
+Due to their rarity, no specific protocols 
+are specified in the literature. Use 
+standard algorithms
+Immediate type I allergic reaction (IgE‑mediated, rare) Urticaria
+Angioedema
+Bronchospasm
+Severe anaphylactic shock
+Due to their rarity, no specific protocols 
+are specified in the literature. Use 
+standard algorithms
+Table 3: Protamine neutralization profile of unfractionated 
+heparin (UFH) and various low molecular weight heparin 
+(LMWH)
+Anti‑IIa neutralization Anti‑Xa neutralization
+UFH > 95% 97%
+Dalteparin >93% 59%
+Tinzaparin >96% 81%
+Enoxaparin >87% 46%
+Fondaparinux 5%
+[[p8]]
+Crivellari, et al.: Protamine: A narrative review
+Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024 209
+ACT, not to the normal ACT. The normal ACT range is 
+70–120 sec, while the therapeutic range for anticoagulation 
+is 150–600 sec. (however, ranges vary according to test 
+device and therapy choice). ACT higher than the baseline 
+value does not mean there is still circulating heparin, as 
+much as lower ACT does not mean a total absence of  
+heparin. Considering that the ACT test is influenced by 
+multiple variables, such as temperature, coagulation factor 
+deficiency, hemodilution, and ongoing therapies, as shown 
+by Despotis et al.,[49] it correlates poorly with the heparin 
+level in cardiac surgery [Table 4].
+Heparin for mechanical assist devices, the controversy 
+continues
+A safe anticoagulant strategy during the use of  mechanical 
+assist devices is paramount, as more and more MCS 
+is being used every day around the world. Fisser C. 
+et al.[50] reported >50% incidence of  cannula‑related venous 
+thrombosis after removal of  veno‑venous extracorporeal 
+membrane oxygenation  (VV‑ECMO), due to reduced 
+systemic anticoagulation; on the contrary, excessive 
+anticoagulation may lead to bleeding with devastating 
+consequences.
+To monitor patients during mechanical support, depending 
+on the center, there are preferences and habits in monitoring 
+coagulation. Traditional coagulation tests are used: PT, 
+activated partial thromboplaastin clotting time (aPTT), and 
+anti‑factor Xa levels. POC tests (i.e., thromboelastometry 
+and thromboelastography) and platelet aggregometry are 
+whole‑blood coagulation tests, which should guarantee 
+the therapeutic range of  antithrombotic medications, 
+recognize patients at risk of  thrombotic or hemorrhagic 
+complications, and help in the control of  bleeding 
+complications.[51] However, aPTT is not reliable due to a 
+high degree of  variability from one laboratory to another, 
+from one reagent to another, and even from intrinsic factors, 
+such as inflammation, low fibrinogen, and vWF, which may 
+cause inaccurate results. The anti‑Xa chromogenic assay is 
+not available everywhere and is not routinely used to measure 
+heparin activity, as it is indicated only in specific clinical 
+situations and must be carefully interpreted.
+ECMO in and outside the ICU
+There is no consensus on the dose of  anticoagulation and 
+subsequent monitoring during ECMO. Extracorporeal 
+Life Support Organization (ELSO) guidelines for 
+anticoagulation during ECMO consider a wide range for 
+initial heparin infusion (7.5–20.0 units/kg/h),[52] despite not 
+much indication for monitoring. The ACT range suggested 
+in ECMO is 180–200 sec, but this value has shown a poor 
+correlation with the heparin level.[53,54]
+Because of  these concerns, many centers decided to 
+develop their own heparin protocol for ECMO, commonly 
+targeted to aPTT range between 40–60 and 60–80  sec, 
+respectively, in patients with high and low bleeding risk. 
+Ranucci et al. suggested a diagnostic–therapeutic algorithm, 
+combining ACT and viscoelastic tests.[55,56]
+Impella and Intra‑Aortic Balloon Pump (IABP)
+According to the manufacturer, the ACT target is 
+160–180  sec and no recommendation is available for 
+using aPTT,[57] although many centers utilize aPTT with 
+no significant differences from ACT.[58] The purge solution 
+may help to find the “sweet spot” for anticoagulation and 
+might even be sufficient; the recommendation is to adjust 
+the dextrose concentration in the purge solution.
+Table 4: Heparin‑suggested dose and activated clotting time (ACT) target in several cardiac and cardiovascular interventions
+Setting Dose ACT target
+Cardiac surgery 300 U/Kg bolus ACT target >480 sec.
+Cardiac surgery: off‑pump coronary artery bypass graft 150 U/Kg bolus ACT target >320 sec.
+Vascular procedures 100 U/Kg bolus + adjustments ACT target >250 sec.
+Percutaneous interventions
+‑Transcatheter aortic valve replacement (TAVR)
+‑Elective coronary procedures
+‑Ventricular tachycardia ablation
+100 U/Kg bolus + adjustments ACT target >250 sec.
+ACT target 250–300 sec.
+Percutaneous interventions involving the left atrium 
+(e.g., atrial fibrillation ablation, Mitraclip®, and left 
+atrial appendage closure) and tricuspid percutaneous 
+repair (e.g., Triclip®)
+100 U/Kg bolus+adjustments ACT target>300 sec.
+Extracorporeal membrane oxygenation (ECMO): 
+wide variability among centers and different ECMO 
+configurations and flows
+7.5–20.0 U/kg/h ACT 180–200 sec.
+aPTT 40–60 sec.
+aPTT 60–80 sec.
+ACT + POC test
+Impella® ACT 160–180 sec.
+Intra‑aortic balloon pump (IABP) Manufacturers do not consider anticoagulation 
+mandatory, especially if 1:1 assistance
+Reasonable to start iv heparin if care >24h or 
+a ratio <1:1 is expected
+aPTT ratio target >2
+[[p9]]
+Crivellari, et al.: Protamine: A narrative review
+210  Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024
+Nowadays, systemic anticoagulation is typically used, 
+aiming for a target aPTT ratio of  2; great attention is needed 
+with IABP at 1:3 mode.[59]
+EVIDENCE GAPS AND FUTURE PERSPECTIVES
+While we have a clear understanding of  the biological and 
+biochemical interactions between heparin and protamine, 
+there are still numerous unanswered questions regarding 
+their practical implications. One such question pertains 
+to the management of  patients with spontaneously high 
+basal ACT values, such as those exceeding 220 seconds. 
+It remains uncertain whether the goal should be to reach 
+the target ACT or to focus on the difference between 
+the normal values and the target ACT. To monitor 
+anticoagulation produced by heparin when basal aPTT is 
+prolonged (i.e., low factor VIII), another method should 
+be used. Plasma anti‑Xa assay, for example, is a functional 
+test used to monitor patients treated with UFH, LMWH, 
+and DOAC for anti‑Xa activity.
+Further questions remain open in the management of  
+patients requiring periprocedural anticoagulation. In 
+patients who are on dual antiplatelet therapy, the target 
+periprocedural ACT levels are a matter of  debate.[60]
+Also, the management of  patients requiring extracorporeal 
+cardiopulmonary resuscitation is uncertain due to 
+the common unbalance between the coagulation 
+cascade and fibrinolytic system during cardiac arrest and 
+cardiopulmonary resuscitation.
+Patients with coagulation disorders who undergo 
+surgery requiring anticoagulation have a high risk of 
+bleeding complications and represent a challenge for 
+perioperative physicians. Preexisting coagulopathies include 
+heparin‑induced thrombocytopenia, factor XII deficiency, 
+AT III deficiency, idiopathic thrombocytopenic purpura, 
+hemophilia, cancer, protein S deficiency, and drug‑induced 
+platelet inhibition.[61]
+In this context, the integration of  pharmacogenomic 
+insights into clinical decision‑making empowers healthcare 
+providers to customize anticoagulation therapy for 
+individual patients within the wider realm of  personalized 
+medicine.[62] Such a tailored approach ultimately optimizes 
+dosing regimens, mitigates the risk of  adverse events, and 
+enhances treatment outcomes.
+Comprehensive screening is essential before procedures 
+requiring anticoagulation, mainly to rule out any disease 
+potentially leading to serious complications. A review of  
+the patient’s medical history and coagulation profile is of  
+paramount importance.
+CONCLUSIONS
+Although protamine and heparin have long been 
+indispensable in medical procedures, particularly in cardiac 
+anesthesia, it is clear that our comprehension of  these drugs 
+remains far from exhaustive.
+Protamine cannot in fact be defined as a procoagulant, as 
+it is an antidote that might itself  act as an anticoagulant 
+if  administered to a patient not previously exposed 
+to heparin or if  the dosage is too high with respect to 
+the heparin dose. The 1:1 protamine‑to‑heparin ratio 
+administration to reverse the heparin effects in cardiac 
+surgery is probably an obsolete practice, and studies are 
+required to better address this issue. To avoid the vicious 
+circle of  “more protamine, more bleeding,” one option is 
+to use the “HMS,” which results in a decreased and tailored 
+protamine dose, while an alternative is to administer 
+two‑thirds of  the standard calculated dose of  protamine. 
+Protamine has frequent systemic side effects, which can 
+be mitigated by a very slow administration. Notably, 
+protamine also partially reverts the anticoagulant effect 
+of  LMWHs. At the moment, there is no pharmacological 
+alternative to protamine as andexanet alfa is extremely 
+expensive and never used in clinical practice and other 
+molecules being developed are confined to use in animal 
+models so far. Conducting more in‑depth investigations 
+into their molecular processes, latent roles, and individual 
+variances holds the potential to transform our approach to 
+surgeries, the management of  anticoagulation in artificial 
+cardiac assist devices, anticoagulation therapies across 
+diverse clinical scenarios, and treatments for various 
+diseases. Recognizing the existing knowledge gaps and 
+fostering research driven by curiosity will undoubtedly 
+open doors to intriguing breakthroughs in the realm of  
+anticoagulation therapies.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of  interest.
+REFERENCES
+PM?a?qM?s???????M?f?
+Biol 2007;8:227.
+2. Waldschmidt‑Leitz E, Stadler P , Steigerwaldt F. Über blutgerinnung, 
+hemmung und beschleunigung. Z Physik Chem 1929;183:39.
+3. Levy JH, Faraj BA, Zaidan JR, Camp VM. Effects of  protamine on 
+histamine release from human lung. Agents Actions 1989;28:70‑2.
+[[p10]]
+Crivellari, et al.: Protamine: A narrative review
+Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024 211
+4. Hsu K, Wang D, Shen CY , Chiang CH. Protamine‑induced acute lung 
+injury and the protective effect of  agents that increase cAMP . Proc 
+Natl Sci Counc Repub China B 1993;17:57‑61.
+5. Nybo M, Madsen JS. Serious anaphylactic reactions due to protamine 
+sulfate: A systematic literature review. Basic Clin Pharmacol Toxicol 
+2008;103:192‑6.
+6. Boer C, Meesters MI, Veerhoek D, Vonk ABA. Anticoagulant and 
+side‑effects of  protamine in cardiac surgery: A narrative review. Br J 
+Anaesth 2018;120:914‑27.
+7. Tacquard C, Iba T, Levy JH. Perioperative anaphylaxis. Anesthesiology 
+2023;138:100‑10.
+8. Levy JH, Adkinson NF Jr. Anaphylaxis during cardiac surgery: 
+Implications for clinicians. Anesth Analg 2008;106:392‑403.
+9. De Simone F, Nardelli P , Licheri M, Frau G, Redaelli MB, Monaco F, 
+et al. Less is more: We are administering too much protamine in cardiac 
+surgery. Ann Card Anaesth 2021;24:178‑82.
+10. Taneja R, Szoke DJ, Hynes Z, Jones PM. Minimum protamine dose 
+required to neutralize heparin in cardiac surgery: A single‑centre, 
+prospective, observational cohort study. Can J Anaesth 2023;70:219227.
+11. Miles LF, Burt C, Arrowsmith J, McKie MA, Villar SS, Govender P , 
+et al . Optimal protamine dosing after cardiopulmonary bypass: 
+The PRODOSE adaptive randomised controlled trial. PLoS Med 
+2021;18:e1003658.
+12. Miles LF, Marchiori P , Falter F. Pilot validation of  an individualised 
+pharmacokinetic algorithm for protamine dosing after systemic 
+heparinisation for cardiopulmonary bypass. Perfusion 2017;32:481‑8.
+13. Meesters MI, Veerhoek D, de Jong JR, Boer C. A Pharmacokinetic 
+model for protamine dosing after cardiopulmonary bypass. 
+J Cardiothorac Vasc Anesth 2016;30:1190‑5.
+14. Jacques LB. A study of  the toxicity of  the protamine, salmine. Br J 
+Pharmacol Chemother 1949;4:135‑44.
+15. Barstad RM, Stephens RW , Hamers MJ, Sakariassen KS. Protamine 
+sulphate inhibits platelet membrane glycoprotein Ib‑von Willebrand 
+factor activity. Thromb Haemost 2000;83:334‑7.
+16. Ammar T, Fisher CF. The effects of  heparinase 1 and protamine on 
+platelet reactivity. Anesthesiology 1997;86:1382‑6.
+17. Matsuo T, Shanberge JN, Matsuo O. Effect of  protamine sulfate on 
+antithrombin III activity. Clin Chim Acta 1983;131:233‑8.
+18. Cobel‑Geard RJ, Hassouna HI. Interaction of  protamine sulfate with 
+thrombin. Am J Hematol 1983;14:227‑33.
+19. Ni Ainle F, Preston RJ, Jenkins PV , Nel HJ, Johnson JA, Smith OP , White B, 
+Fallon PG, O’Donnell JS. Protamine sulfate down‑regulates thrombin 
+generation by inhibiting factor V activation. Blood 2009;114:1658‑65.
+20. Chu AJ, Wang ZG, Raicu M, Beydoun S, Ramos N. Protamine 
+inhibits tissue factor‑initiated extrinsic coagulation. Br J Haematol 
+2001;115:392‑9.
+QPM?l?lhK?u?cK??k?eK??u?iv?K??i?iqK?
+q?iv?K???M?d?????????
+postoperative bleeding following heparin anticoagulation in 
+cardiac surgery. A randomised clinical trial. Thromb Haemost. 
+2016;116:251‑61.
+22. Suelzu S, Cossu A, Pala G, Portoghese M, Columbanu V , Sales G, et al. 
+Impact of  different dosage of  protamine on heparin reversal during 
+off‑pump coronary artery bypass: A clinical study. Heart Lung Vessel 
+2015;7:238‑45.
+23. Griffin MJ, Rinder HM, Smith BR, Tracey JB, Kriz NS, Li CK, et al. 
+The effects of  heparin, protamine, and heparin/protamine reversal 
+on platelet function under conditions of  arterial shear stress. Anesth 
+Analg 2001;93:20–7.
+24. Despotis  GJ, Joist  JH, Hogue CW Jr, Alsoufiev  A, Kater K, 
+Goodnough LT, et al . The impact of  heparin concentration 
+and activated clotting time monitoring on blood conservation. 
+A prospective, randomized evaluation in patients undergoing cardiac 
+operation. J Thorac Cardiovasc Surg 1995;110:46‑54.
+25. Gertler R, Wiesner G, Tassani‑ Prell P , Braun SL, Martin K. Are 
+the point‑of‑care diagnostics MULTIPLATE and ROTEM valid in 
+the setting of  high concentrations of  heparin and its reversal with 
+protamine? J Cardiothorac Vasc Anesth 2011;25:981‑6.
+26. Carr ME, Carr SL. At high heparin concentrations, protamine 
+concentrations which reverse heparin anticoagulant effects are 
+insufficient to reverse anti‑ platelet effects. Thrombosis Res 
+1994;75:617‑30.
+27. Son K, Yamada T, Tarao K, Kitamura Y , Okazaki J, Sato Y , et al. Effects 
+of  cardiac surgery and salvaged blood transfusion on coagulation 
+function assessed by thromboelastometry. J Cardiothorac Vasc Anesth 
+2020;34:2375‑82.
+28. Tamura T, Waters JH, Nishiwaki K. Heparin concentration in cell 
+salvage during heparinization: A pilot study. Nagoya J Med Sci 
+2020;82:449‑55.
+29. DeAndrade D, Waters JH, Triulzi DJ, Alarcon L, Wisniewski MK, 
+Dyga R, et al . Very low rate of  patient‑related adverse events 
+associated with the use of  intraoperative cell salvage. Transfusion 
+2016;56:2768‑72.
+30. Wang G, Bainbridge  D, Martin J, Cheng D. The efficacy of  an 
+intraoperative cell saver during cardiac surgery: A meta‑analysis of  
+randomized trials. Anesth Analg 2009;109:320‑30.
+31. Maneno JN, Ness GL. Andexanet Alfa, the possible alternative to 
+protamine for reversal of  unfractionated heparin. Ann Parmacother 
+2021;55:261‑4.
+32. Ansell J, Laulicht BE, Bakhru SH, Burnett A, Jiang X, Chen  L, 
+et al . Ciraparantag, an anticoagulant reversal drug: Mechanism of  
+action, pharmacokinetics, and reversal of  anticoagulants. Blood 
+2021;137:115‑25.
+33. Lamontagne C, Brouillette D, Hardy JF. Incompatibility of  propofol 
+emulsion with anesthetic drugs. Anesthesiology 1998;89:1609.
+34. Gupta D, Soori R. Physical incompatibility between protamine sulfate 
+??M?i?b?u?`?QOPVZRPYTO‑PM
+35. Baytas SN, Linhardt RJ. Advances in the preparation and synthesis of  
+heparin and related products. Drug Discov Today 2020;25:2095‑109.
+36. Regorda F, Vigoni E, Pesenti G, Pieri M, Belletti A, Manca D, et al. 
+Physiologically‑based pharmacokinetic and pharmacodynamic 
+modeling of  unfractionated heparin to predict activated clotting time. 
+Comput Aided Chem Eng 2020;48:703‑8.
+37. Ranucci M. Antithrombin III Key factor in extracorporeal circulation 
+Minerva Anestesiol 2002;68:454‑7.
+38. Ranucci M, Isgrò G, Cazzaniga A, Ditta A, Boncilli A, Cotza M, et al. 
+Different patterns of  eparine resistance: Therapeutic implications. 
+Perfusion 2002;17:199‑204.
+39. Warkentin TE, Greinacher A. Heparin‑induced anaphylactic and 
+anaphylactoid reactions: Two distinct but overlapping syndromes. 
+Expert Opin Drug Saf  2009;8:129‑44.
+40. Schroeder M, Hogwood J, Gray E, Mulloy B, Hackett AM, Johansen KB. 
+Protamine neutralisation of  low molecular weight heparins and their 
+oligosaccharide components. Anal Bioanal Chem 2011;399:763‑71.
+41. Chang LC, Lee  HF, Yang Z, Yang VC. Low molecular weight 
+protamine (LMWP) as nontoxic heparin/low molecular weight 
+heparin antidote (I): Preparation and characterization. AAPS PharmSci 
+2001;3:E17.
+42. Shore‑Lesserson L, Baker RA, Ferraris VA, Greilich PE, Fitzgerald D, 
+Roman P , et al . The society of  thoracic surgeons, the society of 
+cardiovascular anesthesiologists, and the American Society of 
+ExtraCorporeal Technology: Clinical practice guidelines‑anticoagulation 
+during cardiopulmonary bypass. Ann Thorac Surg 2018;105:650‑62.
+43. Miles LF, Coulson TG, Galhardo C, Falter F. Pump priming practices 
+and anticoagulation in cardiac surgery: Results from the global 
+cardiopulmonary bypass survey. Anesth Analg 2017;125:1871‑7.
+44. Pesola GR, Johnson A, Pesola DA. Percutaneous transluminal coronary 
+angioplasty: Comparison of  arterial vs. venous activated clotting time. 
+Cathet Cardiovasc Diagn 1996;37:140‑4.
+45. Rath B, Bennett DH. Monitoring the effect of  heparin by measurement 
+of  activated clotting time during and after percutaneous transluminal 
+coronary angioplasty. Br Heart J 1990;63:18‑21.
+[[p11]]
+Crivellari, et al.: Protamine: A narrative review
+212  Annals of Cardiac Anaesthesia | Volume 27 | Issue 3 | July-September 2024
+46. Zisman E, Rosenberg B, Katz Y , Ziser K. A comparison between 
+arterial and venous‑sampled activated clotting time measurements. Isr 
+J Med Sci 1997;33:786‑8.
+47. Leyvi G, Zhuravlev I, Inyang A, Ziser  A. Arterial versus venous 
+sampling for activated coagulation time measurements during 
+cardiac surgery: A comparative study. J Cardiothorac Vasc Anesth 
+2004;18:573‑80.
+48. Shlensky JA, Thurber KM, O’Meara JG. Unfractionated heparin 
+infusion for treatment of  venous thromboembolism based on actual 
+body weight without dose capping. Vasc Med 2020;25:47‑54.
+49. Despotis GJ, Summerfield AL, Joist JH, Goodnough LT, Santoro SA, 
+Spitznagel E, et al . Comparison of  activated coagulation time and 
+whole blood heparin measurements with laboratory plasma anti‑Xa 
+heparin concentration in patients having cardiac operations. J Thorac 
+Cardiovasc Surg 1994;108:1076‑82.
+50. Fisser C, Reichenbächer C, Müller T. Incidence and risk factors for 
+cannula‑related venous thrombosis after venovenous extracorporeal 
+membrane oxygenation in adult patients with acute respiratory failure. 
+Crit Care Med 2019;47:e332‑9.
+51. Bercovitz RS. An introduction to point‑of‑care testing in extracorporeal 
+circulation and LVADs. Hematology Am Soc Hematol Educ Program 
+2018;2018:516‑21.
+52. Organization ECLS. ELSO anticoagulation Guideline. The 
+Extracorporeal Life Support Organization (ELSO). Ann Arbor: 
+Organization ECLS; 2014. p. 2‑17.
+53. Lawson DS, Walczak R, Lawson AF, Shearer IR, Ing R, Schulman S, 
+et al . North American neonatal extracorporeal membrane 
+oxygenation (ECMO) devices: 2002 survey results. J Extra Corpor 
+Technol 2004;36:16‑21.
+54. Atallah S, Liebl M, Fitousis K, Bostan F, Masud F. Evaluation of  the 
+activated clotting time and activated partial thromboplastin time for the 
+monitoring of  heparin in adult extracorporeal membrane oxygenation 
+patients. Perfusion 2014;29:456‑61.
+55. Ranucci M, Baryshnikova E, Cotza M, Carboni G, Isgrò G, Carlucci C, 
+et al.; Group for the Surgical and Clinical Outcome Research (SCORE). 
+Coagulation monitoring in postcardiotomy ECMO: Conventional tests, 
+point‑of‑care, or both? Minerva Anestesiol 2016;82:858‑66.
+56. Sklar MC, Sy E, Lequier L, Fan E, Fan E, Kanji HD. Anticoagulation 
+practices during venovenous extracorporeal membrane oxygenation 
+for respiratory failure. A systematic review. Ann Am Thorac Soc 
+2016;13:2242‑50.
+57. Succar L, Sulaica EM, Donahue KR, Wanat MA. Management of  
+anticoagulation with Impella® percutaneous ventricular assist devices 
+and review of  new literature. J Thromb Thrombolysis 2019;48:284‑91.
+58. Fitousis K, Klasek R, Mason PE, Masud F. Evaluation of  a pharmacy 
+managed heparin protocol for extracorporeal membrane oxygenation 
+patients. Perfusion 2017;32:238‑44.
+59. FergusonJJ 3rd, Cohen M, Freedman RJ Jr, Stone GW , Miller MF, Joseph DL, 
+et al. The current practice of  intra‑aortic balloon counterpulsation: Results 
+from the Benchmark Registry. J Am Coll Cardiol 2001;38:1456‑62.
+60. Karlsson M, Hannuksela M, Appelblad M, Hällgren O, Johagen D, Wahba A, 
+et al. Cardiopulmonary bypass and dual antiplatelet therapy: A strategy to 
+minimise transfusions and blood loss. Perfusion 2020;35:236‑45.
+61. De Bois W , Liu J, Lee  L, Girardi L, Ko W , Tortolani A, et al . 
+Cardiopulmonary bypass in patients with pre‑existing coagulopathy. 
+J Extra Corpor Technol 2005;37:15‑22.
+62. Relling MV , Evans WE. Pharmacogenomics in the clinic. Nature 
+2015;526:343‑50.

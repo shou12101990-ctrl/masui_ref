@@ -1,0 +1,613 @@
+
+[[p1]]
+Citation: Cereda, A.; Lucreziotti, S.;
+Franchina, A.G.; Laricchia, A.; De
+Regibus, V .; Conconi, B.; Carlà, M.;
+Spangaro, A.; Rocchetti, M.; Ponti, L.;
+et al. Systematic Review and
+Meta-Analysis of Oral Anticoagulant
+Therapy in Atrial Fibrillation Cancer
+Patients. Cancers 2023, 15, 2574.
+https://doi.org/10.3390/
+cancers15092574
+Academic Editor: Dimitrios Moris
+Received: 26 March 2023
+qY?QT?`?QOQR
+Accepted: 26 April 2023
+Published: 30 April 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+cancers
+Review
+Systematic Review and Meta-Analysis of Oral Anticoagulant
+Therapy in Atrial Fibrillation Cancer Patients
+Alberto Cereda 1,*
+ , Stefano Lucreziotti 1, Antonio Gabriele Franchina 1, Alessandra Laricchia 1,
+Valentina De Regibus 1, Barbara Conconi 1
+ , Matteo Carlà 1, Andrea Spangaro 1, Matteo Rocchetti 1
+ , Luca Ponti 1,
+Alessandro Minardi 1, Elena Sala 1, Giuseppe Massimo Sangiorgi 2,3
+ , Gabriele T umminello4
+ , Lucia Barbieri 4,
+Stefano Carugo 4
+ and Paolo Aseni 5,6
+1 Cardiovascular Department, Association Socio Sanitary Territorial Santi Paolo e Carlo, 20153 Milano, Italy
+2 Division of Cardiology, “Tor Vergata” University Hospital, 00133 Rome, Italy
+3 Department of Biomedicine and Prevention, “Tor Vergata” University of Rome, 00133 Rome, Italy
+4 Cardiology Unit, Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico, Department of Clinical
+Science and Community Health, University of Milan, 20122 Milan, Italy
+5 Department of Emergency, ASST Grande Ospedale Metropolitano Niguarda, 20162 Milan, Italy
+6 Department of Biomedical and Clinical Sciences “L. Sacco”, Università degli Studi di Milano,
+20157 Milan, Italy
+* Correspondence: alberto.cereda@asst-santipaolocarlo.it; Tel.: +39-320-0883375
+Simple Summary: Cancer and atrial ﬁbrillation share an enhanced bleeding and thrombotic risk,
+nevertheless in cancer populations optimal anticoagulation regiments are yet to be validated. This
+meta-analysis aimed to gather the currently available evidence addressing the use of DOACs in
+atrial ﬁbrillation cancer patients compared to Warfarin. In the oncological population, DOACs confer
+beneﬁts in terms of stroke, major and minor bleeding, and thrombotic events, although prospective
+studies are awaited to strengthen the body of evidence currently available.
+Abstract: (1) Introduction: Cancer and atrial ﬁbrillation (AF) are increasingly coexisting medical
+challenges. These two conditions share an increased thrombotic and bleeding risk. Although optimal
+regimens of the most suitable anti-thrombotic therapy are now afﬁrmed in the general population,
+cancer patients are still particularly understudied on the matter; (2) Aims And Methodology: This
+metanalysis (11 studies (incl. 266,865 patients)) aims at evaluating the ischemic-hemorrhagic risk
+proﬁle of oncologic patients with AF treated with oral anticoagulants (vitamin K antagonists vs. direct
+oral anticoagulants); (3) Results: In the oncological population, DOACs confer a beneﬁt in terms
+of the reduction in ischemic, hemorrhagic and venous thromboembolic events. However, ischemic
+prevention has a non-insigniﬁcant bleeding risk, lower than Warfarin but signiﬁcant and higher
+than the non-oncological patients; (4) Conclusions: Anticoagulation with DOACs provides a higher
+safety proﬁle with respect to VKAs in terms of stroke reduction and a relative bleeding reduction risk.
+Further studies are needed to better assess the optimal anticoagulation strategy in cancer patients
+with AF.
+Keywords: atrial ﬁbrillation in cancer patients; anticoagulants; cardio-oncological prevention
+1. Introduction
+The coexistence of cancer and atrial ﬁbrillation (AF) is an increasingly reported medical
+issue due to longer life expectancy in the general population along with the higher survival
+rate of oncological patients. Therapies for these clinical entities are nevertheless constantly
+improving: better anti-neoplastic strategies for the former, safer medications (antiarrhyth-
+mics and anticoagulants), and interventional procedures (ablation and percutaneous closure
+of the left atrial appendage) for the latter [1].
+Cancers 2023, 15, 2574. https://doi.org/10.3390/cancers15092574 https://www.mdpi.com/journal/cancers
+[[p2]]
+Cancers 2023, 15, 2574 2 of 14
+Current reports have demonstrated that newly diagnosed cancer patients have a 47%
+higher risk of developing AF when compared to noncancer patients. More speciﬁcally,
+when considering two of the most frequently diagnosed cancer types, colorectal and breast,
+the risk of suffering from AF is 54% and two times higher respectively when compared to
+noncancer patients.
+Alterations in hemostasis and inﬂammation represent part of the common pathophys-
+iological ground linking these pathologies. A consistent body of literature has linked AF to
+a pro-thrombotic state. Similarly, cancer patients experience a higher risk of thrombotic
+manifestations but are concomitantly exposed to a superior bleeding risk compared to
+non-oncological populations [2,3].
+Cancer patients share several factors predisposing to AF development such as direct
+cancer effect (i.e., proximity of masses to the heart), paraneoplastic manifestations, inﬂam-
+mation, medical therapies (cytotoxic chemotherapy; high doses of steroids and other),
+surgical therapy, cancer-related comorbidities and autonomous nervous system imbalance
+(mostly due to pain, physical and emotional stress).
+Furthermore, cancer increases the risk of suffering from AF consequences such as the
+development of thrombi and cardioembolic stroke. The procoagulant state is a well-known
+and largely studied feature of cancer.
+Bleeding is also a frequent problem for patients with advanced cancer posing, in some
+cases, life-threatening risks. Bleeding is caused by cancer itself due to neo-angiogenesis,
+vessel invasion, or tumor regression. Bleedings may also be exacerbated by anti-tumor
+treatments including intravenous and oral therapies, radiation therapy, and surgery. Throm-
+bocytopenia, which is a common feature for both solid and nonsolid malignancies, can also
+predispose to bleeding.
+In AF, anticoagulation and its management have been extensively studied and opti-
+mized both for medication choice and therapy duration. In addition to the more classic
+heparins and vitamin K antagonists (VKAs), a relatively new option for the treatment
+and prevention of AF-related cardio-embolic events is represented by direct oral antico-
+agulants (DOACs). These include direct thrombin inhibitors (Dabigatran) and Factor Xa
+inhibitors (Rivaroxaban, Apixaban, and Edoxaban). DOACs are particularly attractive
+because of their oral administration—avoiding the prolonged use of parenteral drugs such
+as heparins—along with ﬁxed doses, a lower rate of food and medications interactions, and
+no need for activity monitoring, all major pitfalls of VKA therapy [4–7].
+Despite an altered coagulation proﬁle, the oncologic population is largely understud-
+ied in the ﬁeld of anti-thrombotic therapies, and several reasons can be identiﬁed for the
+shortage of literature on the matter. Firstly, the most common risk scores to assess ischemic
+and hemorrhagic proﬁles (CHA2DS2-VASc and HAS-BLED scores, respectively) do not
+consider cancer among their variables. Secondly, the oncological ischemic-hemorrhagic
+risk proﬁle differs according to several variables, including the stage of the disease, the
+type of cancer, and the underlying cardiovascular proﬁle [8].
+As cancer patients were not included in large cardiovascular studies, the potential
+beneﬁt of direct oral anticoagulants (DOACs) appears to be reasonable but not supported
+by current evidence [9–11].
+2. Purpose of the Study
+The purpose of the study is to conﬁrm the beneﬁt of DOACs in cancer patients and
+evaluate therapy efﬁcacy in terms of stroke reduction compared to major bleeding events.
+3. Study Design
+This review was registered in the International Prospective Register of Systematic
+Reviews (PROSPERO) and was conducted and presented according to best practice recom-
+mendations, including the Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses (PRISMA) reporting guidelines [12].
+[[p3]]
+Cancers 2023, 15, 2574 3 of 14
+4. Search Strategy
+An online search was conducted using the MEDLINE database. Searches were con-
+ducted by authors AS and MR and were updated to February 2023. We used the following
+key concept: “cancer”, “atrial ﬁbrillation” and “anticoagulation”. To build our search strat-
+egy appropriate text words and MeSH terms were developed. From each article, further
+references were identiﬁed and included in the research according to backward snowballing.
+The search strategy is reported according to PRISMA methodology in Supplementary
+Figure S1.
+5. Study Selection
+The studies were evaluated by the two reviewers MR and AS. Considering the limited
+evidence on the subject, non-randomized clinical studies and retrospective registries were
+deliberately included in the metanalysis as well. Inclusion criteria comprised articles in the
+English language, on human subjects, reporting the odds ratios (ORs) or hazard ratios (HRs)
+and the corresponding 95% conﬁdence intervals (CIs) and comparing oral anticoagulant
+and warfarin in patients suffering from cancer and atrial ﬁbrillation. From our search, we
+screened 719 studies, and 67 reports were selected based on the title of the article. After
+reading the abstract and the full text, 11 studies were found to be eligible for our analysis.
+All disagreements in the selections of the study were addressed by a third reviewer (AC).
+Studies included are reported and described in Tables 1 and S1.
+Table 1. Clinical proﬁle of patients included in the meta-analysis.
+Study Mean Age Female Sex % CHA2DS2-
+V ASc Has-Bled Apixaban Dabigatran Rivaroxaban Edoxaban Active
+Cancer
+Follow-Up
+(Years)
+Melloni 75.00 32.00 3.80 2.2 100.00 - - - 12.70% 1.80
+Shah 74.70 40.00 4.40 - 17.70 36.00 46.00 - 100% 4.00
+Kim 70.80 45.80 3.60 1.90 35.60 36.10 36.10 - 100% 1.70
+Fanola 75.00 31.10 2.80 2.7 - - - 100.00 100% 2.80
+Chen 77.00 34.00 3.50 2.9 - - 100.00 - 7.80% 1.90
+Yashui 72.00 14.00 3.10 2 36.20 19.70 34.60 9.40 100% 1.00
+Sawant 76.00 20.00 - - 26.1 41.2 32.7 - 100% 1.00
+Chia 69.90 38.00 4.10 3.30 - - - - 100% 1.50
+Deitelzweig 77.00 39.00 4.00 3.50 24.00 7.00 31.00 - 100% 2.00
+Ording 78.25 41.20 3.75 2.00 40.90 22.40 35.80 0.90 43% 1.00
+Potter 71.50 71.00 3.40 1.90 57.20 6.40 36.00 0.40 100% 5.00
+6. Outcome and Endpoints
+The following meta-analytical variables were considered: ischemic stroke, systemic
+embolism, venous thromboembolism, major bleeding, minor bleeding, gastrointestinal
+bleeding, cerebral bleeding, and overall mortality in the 1-year follow-up.
+Covariates identiﬁed and subsequently used in the meta-regression were age, percent-
+age of the female sex in the study, average CHA2DS2-VASc and HAS-BLED scores, type of
+cancer, and type of anticoagulant.
+The “major bleeding” variable was reported according to different criteria in the
+various studies; therefore, in the present metanalysis, an arbitrary inclusive deﬁnition of
+major bleeding as “bleeding that involves sequelae or consumes major healthcare resources”
+was adopted. In equivocal cases, the discrepancy between minor and major bleeding was
+discriminated by reviewers AS and MR.
+The number needed to treat (for ischemic events) and the number needed to harm
+(for bleeding events) were calculated using the Formula (1) divided by the absolute risk
+reduction number.
+[[p4]]
+Cancers 2023, 15, 2574 4 of 14
+7. Bias Assessment
+Tables 1, S1 and S3 show the characteristics of the included studies. Supplemen-
+tary Table S2A,B shows the risk of bias divided into randomized (A) and observational
+(B) studies.
+8. Statistical Analysis
+Quantitative data are reported as mean values with standard deviation. Categorical
+variables are expressed in terms of percentages. A random effects model according to the
+DerSimonian and Laird method was used for meta-analysis. Results of the metanalysis
+are expressed in odds ratio (OR) with a 95% conﬁdence interval. A random-effect metare-
+gression for the covariates sex, age, HAS-BLED, and CHA2DS2-VASc was performed for
+statistically signiﬁcant OR values. Funnel plots were visually inspected for the potential
+presence of small study effects, with regression tests to further corroborate the appraisal of
+publication bias (Supplementary Figures S5–S12). Statistical signiﬁcance was set at the two-
+tailed 0.05 level. Computations were performed with R Software packages OpenMetanalyst
+and JASP .
+9. Results
+The ischemic and hemorrhagic risk proﬁles in cancer patients are equally increased, as
+reported in the cumulative meta-analysis of Figure 1. The risk of stroke is 5.2% (2.7–7.7)
+against a major bleeding event risk of 5.2% (4.2–6.2). Supplementary Tables S2–S4 show
+that there is no potential selection bias as patients on DOAC therapy have non-different
+CHA2DS2-VASc and HAS-BLED scores compared to patients on Warfarin.
+Although the ischemic and bleeding risks can be estimated from the CHA2DS2-V ASc
+and HAS-BLED scores, our analysis found no significant correlation between events (strokes
+and major bleedings) and score points in the included studies (Supplementary Figure S2B,D).
+The therapeutic strategy DOACs versus Warfarin determines a reduction in the incidence
+of ischemic stroke of 27% (OR 0.73 CI 95% 0.52–0.94; Figures 2 and S5). Furthermore, an
+even more important reduction in major bleeding events to 42% (OR 0.58 95%CI 0.45–0.72;
+Figures 3 and S6) can be observed. However, benefits are not only limited to these two covari-
+ates (stroke and bleeding), a reduction trend in systemic embolisms, even if non-significant,
+can be shown. (Figure 4, Supplementary Figures S7 and S8). There is on the contrary a sig-
+nificant reduction in venous thromboembolism (Figure 4). The prevention of bleeding also
+comprises minor bleeding (OR 0.63 95% CI 0.40–0.86; Figures 5 and S9). Concerning the
+one-year follow-up, there is no benefit on overall mortality in this cardio-oncology population
+(OR 0.86 95% CI 0.57–1.14; Figures 6 and S10). The reduction in bleeding interests both cerebral
+bleeding (Figures 7A and S11) and gastrointestinal bleeding (Figures 7B and S12).
+Therapy with DOACs modifies the ischemic-hemorrhagic risk profile of cardio-
+oncological patients. The reduction in major bleeding and the even more significant
+decrease in stroke rates determine a net clinical benefit, quantifiable in terms of the
+number needed to treat (NNT). For every 100 theoretical patients receiving DOACs, in
+fact, there is a reduction of a stroke event for every 21 patients. Similarly, NNT becomes
+45 if the major bleeding covariate is considered. NNT to reduce the stroke “or” major
+bleeding event is only 14 demonstrating the extreme effectiveness of this therapeutic
+strategy (Figure 8).
+[[p5]]
+Cancers 2023, 15, 2574 5 of 14
+Cancers 2023, 15, x FOR PEER REVIEW 6 of 16 
+ 
+ 
+ 
+Figure 1. Cumulative meta-analysis of stroke and major bleeding of the included studies.
+[[p6]]
+Cancers 2023, 15, 2574 6 of 14
+Cancers 2023, 15, x FOR PEER REVIEW 7 of 16 
+ 
+ 
+Figure 1. Cumulative meta-analysis of stroke and major bleeding of the included studies. 
+Although the ischemic and bleeding risks can be estimated from the CHA2DS2-VASc 
+and HAS-BLED scores, our analysis found no signi ﬁcant correlation between events 
+(strokes and major bleedings) and score points  in the included studies (Supplementary 
+Figure S2B,D). 
+The therapeutic strategy DOACs versus Warfarin determines a reduction in the inci-
+dence of ischemic stroke of 27% (OR 0.73 CI 95% 0.52–0.94; Figures 2 and S5). Furthermore, 
+an even more important reduction in major bleeding events to 42% (OR 0.58 95% CI 0.45–
+0.72; Figures 3 and S6) can be observed. However, bene ﬁts are not only limited to these 
+two covariates (stroke and bleeding), a reduct ion trend in systemic embolisms, even if 
+non-signiﬁcant, can be shown. (Figure 4, Supplementary Figures S7 and S8). There is on 
+the contrary a signiﬁcant reduction in venous thromboembolism (Figure 4). The preven-
+tion of bleeding also comprises minor bleeding (OR 0.63 95% CI 0.40–0.86; Figures 5 and 
+S9). Concerning the one-year follow-up, there is no bene ﬁt on overall mortality in this 
+cardio-oncology population (OR 0.86 95% CI 0.57–1.14; Figures 6 and S10). The reduction 
+in bleeding interests both cerebral bleeding (Figures 7A and S11) and gastrointestinal 
+bleeding (Figures 7B and S12). 
+ 
+Figure 2. Meta-analysis of ischemic stroke. 
+Figure 2. Meta-analysis of ischemic stroke.
+Cancers 2023, 15, x FOR PEER REVIEW 8 of 16 
+ 
+ 
+ 
+Figure 3. Meta-analysis of Major Bleeding. 
+ 
+(A) 
+ 
+(B) 
+Figure 4. (A) Meta-analysis of systemic embolism; (B) Meta-analysis of VTE. 
+Figure 3. Meta-analysis of Major Bleeding.
+[[p7]]
+Cancers 2023, 15, 2574 7 of 14
+Cancers 2023, 15, x FOR PEER REVIEW 8 of 16 
+ 
+ 
+ 
+Figure 3. Meta-analysis of Major Bleeding. 
+ 
+(A) 
+ 
+(B) 
+Figure 4. (A) Meta-analysis of systemic embolism; (B) Meta-analysis of VTE. 
+Figure 4. (A) Meta-analysis of systemic embolism; (B) Meta-analysis of VTE.
+Cancers 2023, 15, x FOR PEER REVIEW 9 of 16 
+ 
+ 
+ 
+Figure 5. Meta-analysis of Minor Bleeding. 
+ 
+Figure 6. Meta-analysis of overall mortality. 
+ 
+(A) 
+Figure 5. Meta-analysis of Minor Bleeding.
+[[p8]]
+Cancers 2023, 15, 2574 8 of 14
+Cancers 2023, 15, x FOR PEER REVIEW 9 of 16 
+ 
+ 
+ 
+Figure 5. Meta-analysis of Minor Bleeding. 
+ 
+Figure 6. Meta-analysis of overall mortality. 
+ 
+(A) 
+Figure 6. Meta-analysis of overall mortality.
+Cancers 2023, 15, x FOR PEER REVIEW 9 of 16 
+ 
+ 
+ 
+Figure 5. Meta-analysis of Minor Bleeding. 
+ 
+Figure 6. Meta-analysis of overall mortality. 
+ 
+(A) 
+Cancers 2023, 15, x FOR PEER REVIEW 10 of 16 
+ 
+ 
+ 
+(B) 
+Figure 7. (A) Meta-analysis of Cerebral Bleeding; (B) Meta-analysis of GI Bleeding. 
+Therapy with DOACs modi ﬁes the ischemic-hemorrhagic risk pro ﬁle of cardio-on-
+cological patients. The reduction in major bleeding and the even more signiﬁcant decrease 
+in stroke rates determine a net clinical beneﬁt, quantiﬁable in terms of the number needed 
+to treat (NNT). For every 100 theoretical patien ts receiving DOACs, in fact, there is a re-
+duction of a stroke event for every 21 patien ts. Similarly, NNT becomes 45 if the major 
+bleeding covariate is considered. NNT to redu ce the stroke “or” major bleeding event is 
+only 14 demonstrating the extreme eﬀectiveness of this therapeutic strategy (Figure 8). 
+The reduction in major and minor bleeding appears more signiﬁcant as the percent-
+age of females in the studies increases (Supplementary Figure S3). The use of antiplatelet 
+agents neutralizes the beneﬁcial eﬀect on the reduction of minor bleeding events but has 
+no relevance to major bleedi ng events. Patients with hi gher CHA2DS2-VASc and HAS-
+BLED scores are those who beneﬁt most from the reduction in cerebral and gastrointesti-
+nal bleeding events (Supplementary Figure S4). 
+ 
+Figure 7. (A) Meta-analysis of Cerebral Bleeding; (B) Meta-analysis of GI Bleeding.
+The reduction in major and minor bleeding appears more signiﬁcant as the percentage
+of females in the studies increases (Supplementary Figure S3). The use of antiplatelet
+agents neutralizes the beneﬁcial effect on the reduction of minor bleeding events but has
+no relevance to major bleeding events. Patients with higher CHA2DS2-VASc and HAS-
+[[p9]]
+Cancers 2023, 15, 2574 9 of 14
+BLED scores are those who beneﬁt most from the reduction in cerebral and gastrointestinal
+bleeding events (Supplementary Figure S4).
+Cancers 2023, 15, x FOR PEER REVIEW 11 of 16 
+ 
+ 
+ 
+Figure 8. Clinical beneﬁt of NOAC in terms of stroke/Major Bleeding reduction. 
+10. Discussion 
+In this comprehensive metanalysis of 11 studies [9–11,13–20] (incl. 266,865 patients) 
+evaluating the safety and eﬀectiveness of oral anticoagulants in cancer patients with AF, 
+therapy with DOACs was signiﬁcantly associated with greater stroke prevention and re-
+duced bleeding than treatment with Warfarin. 
+The classic ischemic and hemorrhagic strati ﬁcation scores (HAS-BLED and 
+CHA2DS2-VASC) did not correlate with events in cancer patients. Our analysis shows al-
+so that patients at higher risk showed greater higher-risk-bene ﬁts in bleeding reduction, 
+especially females and high-pro ﬁle patients. This seems to be epically concerning also 
+considering that recent reports have shown that even in high-risk patients (CHA2DS2-
+VASC > 2) where anticoagulation therapy is routinely recommended for life, about 44.3% 
+of patients did not receive appropriate anticoagulation treatments [21,22]. Although inter-
+national guidelines recommend DOACs over VKAs as the preferred anti-coagulant strat-
+egy in eligible AF patients, the claim canno t be automatically extended to oncologic pa-
+tients because of their underrepresentation in randomized clinical trials (RCTs) [23]. The 
+lack of use of anticoagulation may also be due to concerns from physicians mainly linked 
+Figure 8. Clinical beneﬁt of NOAC in terms of stroke/Major Bleeding reduction.
+10. Discussion
+In this comprehensive metanalysis of 11 studies [9–11,13–20] (incl. 266,865 patients)
+evaluating the safety and effectiveness of oral anticoagulants in cancer patients with AF,
+therapy with DOACs was signiﬁcantly associated with greater stroke prevention and
+reduced bleeding than treatment with Warfarin.
+The classic ischemic and hemorrhagic stratiﬁcation scores (HAS-BLED and CHA2DS2-
+VASC) did not correlate with events in cancer patients. Our analysis shows al-so that
+patients at higher risk showed greater higher-risk-beneﬁts in bleeding reduction, especially
+females and high-proﬁle patients. This seems to be epically concerning also considering
+that recent reports have shown that even in high-risk patients (CHA2DS2-VASC > 2) where
+anticoagulation therapy is routinely recommended for life, about 44.3% of patients did not
+receive appropriate anticoagulation treatments [21,22]. Although international guidelines
+recommend DOACs over VKAs as the preferred anti-coagulant strategy in eligible AF
+patients, the claim cannot be automatically extended to oncologic patients because of
+their underrepresentation in randomized clinical trials (RCTs) [ 23]. The lack of use of
+anticoagulation may also be due to concerns from physicians mainly linked to elevated
+[[p10]]
+Cancers 2023, 15, 2574 10 of 14
+bleeding risk in cancer patients, lack of dedicated risk scores the need for dose modiﬁcation,
+and drugs to-drugs interaction [8].
+The management of thrombosis and bleeding in cancer patients requires careful
+consideration of the competing risks in each individual patient, even more, when atrial
+ﬁbrillation is present as well: questions on therapeutic strategy remain in fact unanswered
+and inadequately studied. Despite better stratiﬁcation and therapy duration, the increasing
+life expectancy of these cardio-oncological patients requires safe and effective medium-
+term algorithms.
+Warfarin, the historic cornerstone of anticoagulant therapy, displays a narrow thera-
+peutic window so that multiple-dose adjustments are often required to match the correct
+dosage with the optimal levels of coagulation. As Warfarin represents the leading cause of
+emergency room visits and hospitalizations for an adverse drug reaction [24], underuse in
+a lesser-studied population has been perpetuated, despite clinical indications.
+In contrast, to VKAs, DOACs exhibit more predictable pharmacodynamic and phar-
+macokinetic properties, as they do not require routine coagulation monitoring, and show
+a relatively lower potential for drug interactions [ 25]. Antidotes for DOACs have also
+recently become available, allowing some reversibility of anticoagulation in life-threatening
+bleeding [26].
+Despite an intuitive clinical beneﬁt of DOACs with respect to VKAs, the metanalysis
+results display an unpredictable greater-than-expected reduction of ischemic-hemorrhagic
+events than those of non-oncological patients. Therefore, despite the heterogeneity of
+studies and a few RCTs, DOACs should be preferred to vitamin K antagonists. However, it
+must be underlined how the beneﬁts in terms of stroke reduction are offset by a relatively
+high risk of bleeding even with DOACs.
+As shown in Figure 8, results should be interpreted in terms of “net clinical beneﬁt”,
+which is the balance between stroke reduction and increased bleeding associated with
+treatment. In this perspective, the number needed to treat (NNT), and the number needed
+to harm (NNH) aid in weighing the pros and cons of treatment.
+From the data of our metanalysis, favoring DOACs over Warfarin in AF cancer patients
+leads to a reduction of one cerebral ischemic event every 21 patients alongside the risk
+of causing a major bleeding event in 1 out of 45 patients treated, still lower than those
+occurring in patients receiving Warfarin. However, considering the combined beneﬁt of
+reducing an ischemic or major bleeding event, the NNT value is 14.
+As a matter of fact, in AF cancer patients the risk of stroke is more potential, whereas
+bleeding risk is augmented. The available guidelines are precautionary and insist on risk
+estimation with an individualized approach [8].
+Speciﬁcally, the ISTH guidelines recommend an “individualized anticoagulation” in
+favor of DOACs, provided there are no signiﬁcant drug-drug interactions. DOACs should
+instead be limited to patients with luminal gastrointestinal cancers or gastrointestinal
+mucosal alterations [27].
+EHR guidelines recommend interdisciplinary teamwork to address thromboembolic
+and hemorrhagic risk in cancer patients balancing AF, cancer-related, and treatment-related
+risk factors [25].
+Furthermore, ESC guidelines recommend individualized decisions on anticoagulation,
+considering other co-morbidities, bleeding risks, and patient values and preferences as well.
+The role of DOACs in this patient group remains to be clariﬁed; however, large DOAC
+trials suggest their safety [28].
+Deﬁnitive conclusions cannot be drawn in the absence of strong evidence; however, it
+is reasonable to focus on DOACs in AF cancer patients based on the founding principle
+“primum non nocere”. Dedicated studies and new risk scores that include the “cancer vari-
+able” in risk prediction will be necessary. From this point of view, the cardio-oncological
+scientiﬁc community must begin to extend and unite the cultural horizons of two different
+specialties which, however, end up treating the same patient.
+[[p11]]
+Cancers 2023, 15, 2574 11 of 14
+Future studies will necessarily have to consider the new interventional options such
+as those of the pharmacological and percutaneous treatment of stroke, the pharmacological
+and interventional treatment of major bleeding, and cardiological treatments modulating
+the ischemic risk such as trans-catheter ablation and percutaneous closure of the left
+atrial appendage.
+In those patients with high thromboembolic risk (CHADS2-VASc > 2) but concomitant
+contraindications to anticoagulation, left atrium appendage closure (LAAO) could be
+considered an indication [29].
+The oncological population could theoretically be ideal for this type of treatment. Left
+atrial appendage closure is suggested by the current European consensus statement [30]
+there is still a dramatic lack of evidence; only one study at the moment is speciﬁcally
+focused on this element of our knowledge [31].
+In 2022, the first joint ESC guidelines of the oncology and cardiology societieswere published.
+Cancer therapy-related cardiovascular toxicity risk is a dynamic variable and the
+risk changes throughout the pathway of care. Atrial ﬁbrillation is also dynamic and its
+cardioembolic risk changes over time, inﬂuenced by the progression of cardiovascular
+aging and risk factors.
+All types of cancer show an increased risk of AF compared with the control group, but
+the risk of AF depends on the cancer type and stage. AF during cancer treatment may be
+caused by a speciﬁc therapy or interaction with a pre-existing substrate in older patients
+with cancer.
+The anticoagulation strategy is deﬁned as a “complex issue” since NOAC, Warfarin
+and LMWH have limited Class IIa evidence and “should be considered” in cancer patients
+(weight of evidence/opinion is in favor of usefulness/efﬁcacy). The evidence regarding
+percutaneous closure of the left atrial appendage is only IIB and this possibility “may be
+considered” in selected cancer patients (usefulness/efﬁcacy is less well established by
+evidence/opinion) [32,33].
+These guidelines conﬁrm the limits of the HAS-BLED and CHA2DS2-VASc Score
+which, as per our analyses, do not correlate much with the ischemic-hemorrhagic risk.
+However, long-term anticoagulation is recommended in adult patients with CHA2DS2-
+VASc score≥2 in men or≥3 in women and the clinical pattern of AF (paroxysmal, persistent,
+long-standing persistent, permanent, post-operative) should not inﬂuence the indication of
+thromboprophylaxis.
+The role of NOACs remains controversial (IIA) but is supported by secondary analyses
+of trials that suggest better safety and at least similar effectiveness of the NOAC when
+compared with VKA in patients with AF and active cancer. It is reiterated that NOAC use
+in cancer is limited by drug–drug interactions, severe renal dysfunction, increased risk of
+bleeding in patients with unoperated or residual GI or genitourinary (GU) malignancies, or
+impaired GI absorption.
+Despite the limited evidence, the cardio-oncological ESC guidelines emphasize the
+importance of a constant periodic reassessment of the ischemic-hemorrhagic risk (evidence
+IC) and suggest the use of NOACs in preference to LMWH and VKA in patients without a
+high bleeding risk, signiﬁcant drug–drug interactions, or severe renal dysfunction. Inter-
+disciplinary teamwork between different specialties will be deemed necessary for cancer
+care practices by applying an individual approach inspired by the best evidence-based
+clinical practice.
+11. Conclusions
+The present meta-analysis suggests a better safety efﬁcacy proﬁle of DOACs in AF
+cancer patients. The signiﬁcant beneﬁt in terms of stroke reduction, albeit limited by the
+bleeding diathesis, appears advantageous. Therefore, it would be reasonable to suggest
+DOACs as a ﬁrst choice for cancer patients. However, further studies will be needed to
+understand which patients beneﬁt least from this type of anticoagulation strategy.
+[[p12]]
+Cancers 2023, 15, 2574 12 of 14
+Supplementary Materials: The following supporting information can be downloaded at: https://
+www.mdpi.com/article/10.3390/cancers15092574/s1, Figure S1. PRISMA 2020 flow diagram for new
+systematic reviews which included searches of databases and registers only . Figure S2. A. Mean value
+of the Has-Bled and Chadsvasc score points in the included studies. B. Nonsignificant relationship
+between stroke and Chadsvasc. C. Has-Bled and Chadsvasc difference between patients on NOAC
+and Warfarin therapy . D. Nonsignificant relationship between Major Bleeding and Has-Bled. Figure S3.
+A. Meta-regression OR Minor Bleeding/Female Sex. B. Meta-regression OR Major Bleeding/Female
+Sex. Figure S4. A. Meta-regression OR Minor Bleeding/Antiplatelets. B. Meta-regression OR Minor
+Bleeding/Chadsvasc. C. Meta-regression OR Cerebral Bleeding/Chadsvasc. D. Meta-regression OR
+GI Bleeding/Chadsvasc. E. Meta-regression OR Cerebral Bleeding/Has. Bled. F. Me-ta-regression OR
+GI Bleeding/Has-Bled. Figure S5. Model fit and Funnel Plot of stroke meta-analysis. Figure S6. Model
+fit and Funnel Plot of Major Bleeding meta-analysis. Figure S7. Model fit and Funnel Plot of Systemic
+embolism meta-analysis. Figure S8. Model fit and Funnel Plot of VTE meta-analysis. Figure S9. Model
+fit and Funnel Plot of Minor Bleeding meta-analysis. Figure S10. Model fit and Funnel Plot of overall
+mortality meta-analysis. Figure S11. Model fit and Funnel Plot of Cerebral Bleeding meta-analysis.
+Figure S12. Model fit and Funnel Plot of GI Bleeding meta-analysis. Table S1. Summary table of the
+studies included in the meta-analysis. Table S2. A. Risk of bias. B. Newcastle Ottawa scale (NOS). Table
+S3. Clinical profile of patients from the included studies according to oral anticoagulant therapy (NOAC
+vs. Warfarin). Table S4. P-Values of meta-regressions between OR (vertical column of the table) and
+clinical variables (horizontal column). Significant meta-regressions (p-Values < 0.05) are reported in the
+dedicated graphs.
+Author Contributions: Conceptualization, A.C. and S.L.; methodology, A.C.; software, A.C. and A.S.;
+validation, A.L.; formal analysis, B.C. and M.C.; investigation, A.S. and M.R.; resources, A.S. and
+M.R.; data curation, A.C.; writing—original draft preparation, A.C., A.S., M.R., E.S., L.P . and A.M.;
+writing—review and editing, A.G.F., G.M.S., G.T., S.C., L.B., V .D.R. and P .A.; visualization, A.C., A.S.,
+M.R. and S.L.; supervision, G.M.S., G.T., S.C., L.B., V .D.R. and P .A.; project administration, A.C., G.T.,
+S.L. and S.C.; funding acquisition, P .A. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This research received no external funding.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Yun, J.P .; Choi, E.K.; Han, K.D.; Park, S.H.; Jung, J.H.; Park, S.H.; Ahn, H.J.; Lim, J.H.; Lee, S.R.; Oh, S. Risk of Atrial Fibrillation
+According to Cancer Type: A Nationwide Population-Based Study. JACC CardioOncol. 2021, 3, 221–232. [CrossRef]
+2. Falanga, A.; Rickles, F.R. Pathophysiology of the Thrombophilic State in the Cancer Patient. Semin. Thromb. Hemost. 1999, 25,
+173–182. [CrossRef]
+3. Johnstone, C.; Rich, S.E. Bleeding in cancer patients and its treatment: A review. Ann. Palliat. Med. 2018, 7, 265–273. [CrossRef]
+4. Granger, C.B.; Alexander, J.H.; McMurray, J.J.V .; Lopes, R.D.; Hylek, E.M.; Hanna, M.; Al-Khalidi, H.R.; Ansell, J.; Atar, D.;
+Ave-zum, A.; et al. Apixaban versus Warfarin in Patients with Atrial Fibrillation. N. Engl. J. Med. 2011, 365, 981–992. [CrossRef]
+5. Patel, M.R.; Mahaffey, K.W.; Garg, J.; Pan, G.; Singer, D.E.; Hacke, W.; Breithardt, G.; Halperin, J.L.; Hankey, G.J.; Piccini, J.P .; et al.
+Rivaroxaban versus warfarin in nonvalvular atrial ﬁbrillation. N. Engl. J. Med. 2011, 365, 883–891. [CrossRef] [PubMed]
+6. Giugliano, R.P .; Ruff, C.T.; Braunwald, E.; Murphy, S.A.; Wiviott, S.D.; Halperin, J.L.; Waldo, A.L.; Ezekowitz, M.D.; Weitz,
+J.I.; Špinar, J.; et al. Edoxaban versus Warfarin in Patients with Atrial Fibrillation. N. Engl. J. Med. 2013, 369, 2093–2104.
+[CrossRef] [PubMed]
+7. Connolly, S.J.; Ezekowitz, M.D.; Yusuf, S.; Eikelboom, J.; Oldgren, J.; Parekh, A.; Pogue, J.; Reilly, P .A.; Themeles, E.; Varrone, J.;
+et al. Dabigatran versus Warfarin in Patients with Atrial Fibrillation. N. Engl. J. Med. 2009, 361, 1139–1151. [CrossRef]
+8. Farmakis, D. Anticoagulation for atrial ﬁbrillation in active cancer: What the cardiologists think. Eur. J. Prev. Cardiol. 2020, 28,
+608–610. [CrossRef] [PubMed]
+9. Fanola, C.L.; Ruff, C.T.; Murphy, S.A.; Jin, J.; Duggal, A.; Babilonia, N.A.; Sritara, P .; Mercuri, M.F.; Kamphuisen, P .W.; Antman,
+E.M.; et al. Efﬁcacy and Safety of Edoxaban in Patients With Active Malignancy and Atrial Fibrillation: Analysis of the ENGAGE
+AF-TIMI 48 Trial. J. Am. Heart Assoc. 2018, 7, e008987. [CrossRef]
+10. Melloni, C.; Dunning, A.; Granger, C.B.; Thomas, L.; Khouri, M.G.; Garcia, D.A.; Hylek, E.M.; Hanna, M.; Wallentin, L.; Gersh,
+B.J.; et al. Efﬁcacy and Safety of Apixaban Versus Warfarin in Patients with Atrial Fibrillation and a History of Cancer: Insights
+from the ARISTOTLE Trial. Am. J. Med. 2017, 130, 1440–1448.e1. [CrossRef] [PubMed]
+[[p13]]
+Cancers 2023, 15, 2574 13 of 14
+11. Chen, S.T.; Hellkamp, A.S.; Becker, R.C.; Berkowitz, S.D.; Breithardt, G.; Fox, K.; Hacke, W.; Halperin, J.L.; Hankey, G.; Mahaffey,
+K.W.; et al. Efﬁcacy and safety of rivaroxaban vs. warfarin in patients with non-valvular atrial ﬁbrillation and a history of cancer:
+Observations from ROCKET AF. Eur. Heart J.-Qual. Care Clin. Outcomes 2018, 5, 145–152. [CrossRef] [PubMed]
+12. Page, M.J.; McKenzie, J.E.; Bossuyt, P .M.; Boutron, I.; Hoffmann, T.C.; Mulrow, C.D.; Shamseer, L.; Tetzlaff, J.M.; Akl, E.A.;
+Brennan, S.E.; et al. The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. BMJ 2021, 372, n71.
+[CrossRef] [PubMed]
+13. Kim, K.; Lee, Y.-J.; Kim, T.-H.; Uhm, J.-S.; Pak, H.-N.; Lee, M.-H.; Joung, B. Effect of Non-vitamin K Antagonist Oral Anticoagulants
+in Atrial Fibrillation Patients with Newly Diagnosed Cancer. Korean Circ. J. 2018, 48, 406–417. [CrossRef] [PubMed]
+14. Sawant, A.C.; Kumar, A.; Mccray, W.; Tetewsky, S.; Parone, L.; Sridhara, S.; Prakash, M.P .H.; Tse, G.; Liu, T.; Kanwar, N.; et al.
+Superior safety of direct oral anticoagulants compared to Warfarin in patients with atrial ﬁbrillation and underlying cancer: A
+national veterans affairs database study. J. Geriatr. Cardiol. 2019, 16, 706–709. [CrossRef]
+15. Shah, S.; Norby, F.L.; Datta, Y.H.; Lutsey, P .L.; MacLehose, R.F.; Chen, L.Y.; Alonso, A. Comparative effectiveness of direct oral
+anticoagulants and warfarin in patients with cancer and atrial ﬁbrillation. Blood Adv. 2018, 2, 200–209. [CrossRef]
+16. Wu, V .C.-C.; Wang, C.-L.; Huang, Y.-T.; Lan, W.-C.; Wu, M.; Kuo, C.-F.; Chen, S.-W.; Chu, P .-H.; Wen, M.-S.; Kuo, C.-C.; et al.
+Novel Oral Anticoagulant versus Warfarin in Cancer Patients with Atrial Fibrillation: An 8-Year Population-Based Cohort Study.
+J. Cancer 2020, 11, 92–99. [CrossRef] [PubMed]
+17. Yasui, T.; Shioyama, W.; Oboshi, M.; Oka, T.; Fujita, M. Oral Anticoagulants in Japanese Patients with Atrial Fibrillation and
+Active Cancer. Intern. Med. 2019, 58, 1845–1849. [CrossRef]
+18. Potter, A.S.; Patel, A.; Khawaja, M.; Chen, C.; Zheng, H.; Kaczmarek, J.; Gao, F.; Karimzad, K.; Song, J.; Koutroumpakis, E.; et al.
+Outcomes by Class of Anticoagulant Use for Nonvalvular Atrial Fibrillation in Patients with Active Cancer. JACC CardioOncol.
+2022, 4, 341–350. [CrossRef]
+19. Deitelzweig, S.; Keshishian, A.V .; Zhang, Y.; Kang, A.; Dhamane, A.D.; Luo, X.; Klem, C.; Ferri, M.; Jiang, J.; Yuce, H.; et al.
+Effectiveness and Safety of Oral Anticoagulants Among Nonvalvular Atrial Fibrillation Patients with Active Cancer. JACC:
+CardioOncology 2021, 3, 411–424. [CrossRef]
+20. Ording, A.G.; Søgaard, M.; Skjøth, F.; Grove, E.L.; Lip, G.Y.H.; Larsen, T.B.; Nielsen, P .B. Bleeding complications in pa-
+tients with gastrointestinal cancer and atrial ﬁbrillation treated with oral anticoagulants. Cancer Med. 2021, 10, 4405–4414.
+[CrossRef] [PubMed]
+21. Leader, A.; Mendelson Cohen, N.; Afek, S.; Jaschek, R.; Frajman, A.; Itzhaki Ben Zadok, O.; Raanani, P .; Lishner, M.; Spectre, G.
+Arterial Thromboembolism in Patients with AF and CHA2DS2-VASc Score 0-2 With and Without Cancer.Cardio Oncol. 2023, 5,
+174–185. [CrossRef]
+22. Fradley, M.G.; Ellenberg, K.; Alomar, M.; Swanson, J.; Kharod, A.; Nguyen, A.T.H.; Khodor, S.; Mishra, S.; Duong, L.M.; Shah, N.;
+et al. Patterns of Anticoagulation Use in Patients with Cancer With Atrial Fibrillation and/or Atrial Flutter. JACC CardioOncol.
+2020, 2, 747–754. [CrossRef] [PubMed]
+23. Cheung, C.C.; Nattel, S.; Macle, L.; Andrade, J.G. Management of Atrial Fibrillation in 2021: An Updated Comparison of the
+Current CCS/CHRS, ESC, and AHA/ACC/HRS Guidelines. Can. J. Cardiol. 2021, 37, 1607–1618. [CrossRef] [PubMed]
+24. Shehab, N.; Lovegrove, M.C.; Geller, A.I.; Rose, K.O.; Weidle, N.J.; Budnitz, D.S. US Emergency Department Visits for Outpatient
+Adverse Drug Events, 2013-2014. JAMA 2016, 316, 2115–2125. [CrossRef]
+25. Steffel, J.; Collins, R.; Antz, M.; Cornu, P .; Desteghe, L.; Haeusler, K.G.; Oldgren, J.; Reinecke, H.; Roldan-Schilling, V .; Rowell, N.;
+et al. 2021 European Heart Rhythm Association Practical Guide on the Use of Non-Vitamin K Antagonist Oral Anticoagulants in
+Patients with Atrial Fibrillation. EP Eur. 2021, 23, 1612–1676. [CrossRef]
+26. Tummala, R.; Kavtaradze, A.; Gupta, A.; Ghosh, R.K. Speciﬁc antidotes against direct oral anticoagulants: A comprehensive
+review of clinical trials data. Int. J. Cardiol. 2016, 214, 292–298. [CrossRef] [PubMed]
+27. Delluc, A.A.; Wang, T.; Yap, E.; Ay, C.; Schaefer, J.; Carrier, M.; Noble, S. Anticoagulation of cancer patients with non-valvular
+atrial ﬁbrillation receiving chemotherapy: Guidance from the SSC of the ISTH. J. Thromb. Haemost. 2019, 17, 1247–1252. [CrossRef]
+28. Lyon, A.R.; López-Fernández, T.; Couch, L.S.; Asteggiano, R.; Aznar, M.C.; Bergler-Klein, J.; Boriani, G.; Cardinale, D.; Cordoba, R.;
+Cosyns, B.; et al. 2022 ESC Guidelines on cardio-oncology developed in collaboration with the European Hematology Association
+(EHA), the European Society for Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society
+(IC-OS). Eur. Heart J. 2022, 43, 4229–4361. [CrossRef] [PubMed]
+29. Khan, A.; Cereda, A.; Walther, C.; Aslam, A. Multidisciplinary Integrated Care in Atrial Fibrillation (MICAF): A Systematic
+Review and Meta-Analysis. Clin. Med. Res. 2022, 20, 219–230. [CrossRef]
+30. Glikson, M.; Wolff, R.; Hindricks, G.; Mandrola, J.; Camm, A.J.; Lip, G.Y .H.; Fauchier, L.; Betts, T.R.; Lewalter, T.; Saw, J.; et al.
+EHRA/EAPCI expert consensus statement on catheter-based left atrial appendage occlusion—An update.EP Eur.2020, 15, 1133–1180.
+31. Isogai, T.; Saad, A.M.; Abushouk, A.I.; Shekhar, S.; Kuroda, S.; Gad, M.M.; Wazni, O.M.; Krishnaswamy, A.; Kapadia, S.R.
+Procedural and Short-Term Outcomes of Percutaneous Left Atrial Appendage Closure in Patients with Cancer.Am. J. Cardiol.
+2020, 141, 154–157. [CrossRef] [PubMed]
+[[p14]]
+Cancers 2023, 15, 2574 14 of 14
+32. Larsen, T.B.; Nielsen, P .B.; Skjøth, F.; Rasmussen, L.H.; Lip, G.Y.H. Non-Vitamin K Antagonist Oral Anticoagulants and the
+Treatment of Venous Thromboembolism in Cancer Patients: A Semi Systematic Review and Meta-Analysis of Safety and Efﬁcacy
+Outcomes. PLoS ONE 2014, 9, e114445. [CrossRef] [PubMed]
+33. EINSTEIN Investigators; Bauersachs, R.; Berkowitz, S.D.; Brenner, B.; Buller, H.R.; Decousus, H.; Gallus, A.S.; Lensing, A.W.; Mis-
+selwitz, F.; Prins, M.H.; et al. Faculty Opinions recommendation of Oral rivaroxaban for symptomatic venous thromboembolism.
+Randomized Control. T rial2011, 363, 2499–2510. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

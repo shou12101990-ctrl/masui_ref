@@ -1,0 +1,713 @@
+
+[[p1]]
+EDITED BY
+Guido Iaccarino,
+Federico II University Hospital, Italy
+REVIEWED BY
+Alejandro Cruz-Utrilla,
+University Hospital, Spain
+Shuenn-Nan Chiu,
+National Taiwan University Hospital, Taiwan
+*
+CORRESPONDENCE
+Konstantinos Dimopoulos
+k.dimopoulos02@gmail.com
+RECEIVED 23 December 2023
+ACCEPTED 30 April 2024
+PUBLISHED 09 May 2024
+CITATION
+Ferrero P, Constantine A, Chessa M and
+Dimopoulos K (2024) Pulmonary arterial
+hypertension related to congenital heart
+disease with a left-to-right shunt: phenotypic
+spectrum and approach to management.
+Front. Cardiovasc. Med. 11:1360555.
+doi: 10.3389/fcvm.2024.1360555
+COPYRIGHT
+© 2024 Ferrero, Constantine, Chessa and
+Dimopoulos. This is an open-access article
+distributed under the terms of the Creative
+Commons Attribution License (CC BY) . The
+use, distribution or reproduction in other
+forums is permitted, provided the original
+author(s) and the copyright owner(s) are
+credited and that the original publication in
+this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+Pulmonary arterial hypertension
+related to congenital heart
+disease with a left-to-right shunt:
+phenotypic spectrum and
+approach to management
+Paolo Ferrero
+1
+, Andrew Constantine
+2
+, Massimo Chessa
+1,3
+and
+Konstantinos Dimopoulos
+4,5*
+1ACHD Unit, IRCCS-Policlinico San Donato, Milan, Italy, 2Adult Congenital Heart Disease Unit, Queen
+Elizabeth Hospital, Birmingham, United Kingdom, 3Vita Salute San Raffaele University, Milan, Italy, 4Adult
+Congenital Heart Centre and Centre for Pulmonary Hypertension, Royal Brompton Hospital, London,
+United Kingdom,
+5National Heart and Lung Institute, Imperial College London, London, United
+Kingdom
+Patients with pulmonary hypertension associated with a left-right shunt include
+a wide spectrum of pathophysiological substrates, ranging from those
+characterized by pulmonary over-circulation to those with advanced
+pulmonary vascular disease. The former group may bene ﬁt from shunt repair
+in carefully selected cases but, when advanced pulmonary vascular disease
+has developed, defect closure should be avoided, and pulmonary vasodilators
+may be used to improve effort tolerance and hemodynamics. There is a
+paucity of evidence, however, to support decision-making in the care of these
+patients. We discuss the principles of management in patients with pulmonary
+hypertension and a predominant left-right shunt. The recommendations and
+statements made in this paper are based on pathophysiological considerations
+and expert opinion.
+KEYWORDS
+pulmonary hypertension (PAH), congenital heart disease, left-right shunt,
+pathophysiology, management
+1 Introduction
+Data from clinical trials have clearly demonstrated the long-term ef ﬁcacy of
+pulmonary arterial hypertension (PAH) therapies in certain cohorts of patients with
+PAH related to congenital heart disease (CHD) ( 1). However, it has to be underscored
+that PAH related to CHD (PAH-CHD) represents a very heterogeneous population,
+with major differences in terms of cardiovascular pathophysiology and prognosis
+between the 4 major subgroups: Eisenmenger syndrome, PAH and left-right shunt,
+PAH with a small/coincidental shunt, and PAH after shunt CHD repair ( 2, 3).
+Abbreviations
+ABCC8, ATP binding cassette subfamily C member 8 gene; BMPR2, Bone Morphogenetic Protein Receptor
+II gene; CHD, congenital heart disease; CPET, cardiopulmonary exercise testing; PAH, pulmonary arterial
+hypertension; PAH-CHD, pulmonary arterial hypertension related to congenital heart disease; PVD,
+pulmonary vascular disease; PVR, pulmonary vascular resistance; Qp/Qs, ratio of pulmonary-to-systemic
+blood ﬂow; RV, right ventricle/ventricular; SMAD1, SMAD Family Member 1 gene; SOX17, SRY-Box
+Transcription Factor 17 gene.
+TYPE Review
+PUBLISHED 09 May 2024
+| DOI 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+There is, nowadays, suf ﬁcient evidence to support the use of
+PAH therapies in patients with Eisenmenger syndrome, resulting
+in an improvement in effort tolerance, functional class and
+pulmonary hemodynamics ( 4– 7). PAH therapies are also routinely
+used in patients with evidence of pulmonary vascular disease
+(PVD) after shunt repair. Indeed, pulmonary hypertension is
+detected in up to 5% – 10% of repaired patients ( 8), who often
+display a clinical phenotype similar to idiopathic PAH in terms of
+prognosis and therapeutic response ( 3, 9). In both cohorts, a drop
+in pulmonary vascular resistance (PVR) and increase in
+pulmonary blood ﬂow at rest, and especially on exertion, reduces
+the afterload to the right ventricle (RV) and optimizes oxygen
+delivery to the peripheral tissues.
+The potential bene ﬁt of PAH therapies for patients with mild
+or moderate PAH associated with a left-right shunt is less clear,
+and evidence is lacking. Patients with milder forms of PAH may
+undergo repair while, for the remainder, there is little evidence to
+guide management. Despite the paucity of data, a signi ﬁcant
+proportion of these patients do receive PAH therapies in
+specialist centers ( 10). The aim of this review is to appraise the
+unique and dynamic pathophysiology of PAH associated with a
+left-right shunt and discuss practical management modalities in
+this important subset of CHD patients.
+2 Epidemiology
+Although the incidence of PAH-CHD is declining in developed
+countries, it is still prevalent globally, ranging from 4% to 28%
+of adults with CHD ( 9, 10). An accurate estimation of the
+prevalence of PAH-CHD with a left-right shunt is particularly
+challenging, as few reports focus on this population ( 11).
+In the CONCOR CHD registry, 15 out of 135 PAH-CHD
+patients had a left-right shunt, a minority of whom were on PAH
+therapies ( 8). In another large multicenter PAH-CHD registry, a
+quarter of patients were non-Eisenmenger (167/680, 24%), and all
+were on targeted therapy ( 9). These numbers, however, include
+patients from the 3 non-Eisenmenger categories (left-right shunt,
+coincidental shunt and post-repair), and should be interpreted
+with caution. Indeed, patients with PAH and left-right shunts
+represent a distinct entity, with little evidence in terms of
+prevalence and management, hence they are treated empirically in
+clinical practice. It is also important to remember that many such
+patients may, over time, progress to Eisenmenger syndrome or
+move into the post-repair group if they undergo percutaneous or
+surgical repair and are found to have residual PAH.
+3 Pathophysiology
+Since Paul Wood ’s treatise on the pathophysiology of
+Eisenmenger syndrome in the 1950 ’s( 12), many hypotheses have
+been advanced on how PVD develops in patients with congenital
+shunts. It is now accepted that PVD is a continuum of anatomic
+and pathophysiological changes, which may eventually lead to
+irreversible disease depending on the nature and severity of the
+shunt. Several genetic, physiological and anatomic variables may
+modulate the progression towards advanced PVD, with a window
+of reparability of the defect that can vary signi ﬁcantly between
+individuals ( 13). There are also small cohorts of young children
+in whom the pulmonary circulation does not remodel
+appropriately after birth and histological changes in the lung,
+such as intimal proliferation, occur too early in life to be
+signiﬁcantly in ﬂuenced by cumulative shear stress on the
+pulmonary vasculature ( 14).
+Patients who are deemed non-reparable due to established
+PVD are often considered for PAH therapies, though the
+rationale for the use of pulmonary vasodilators in the presence of
+a sizable left-right shunt has been debated for some time ( 15).
+Moreover, the clinical and hemodynamic targets of PAH therapy
+in this population often differ to the other subsets of PAH-CHD.
+3.1 Genetic modulators
+The role of genetic factors in modulating the onset and disease
+severity of idiopathic PAH is nowadays established, with mutations
+in the Bone Morphogenetic Protein Receptor II gene ( BMPR2)
+being the most common ( 16). More recently, a role for
+pathogenetic polymorphisms in PAH-CHD has been suggested:
+BMPR2 mutations were identi ﬁed in 6% of adults and children
+with PAH-CHD (mainly Eisenmenger syndrome or post-
+repair), although the role of BMPR2 in PAH-CHD remains
+unclear ( 17). An increased prevalence of mutations in the SRY-
+Box Transcription Factor 17 gene ( SOX-17) and T-box
+transcription factor gene ( TBX4) has been identi ﬁed in patients
+who developed PAH after ventricular septal defect repair and
+patients with pre-tricuspid shunts and Eisenmenger physiology
+(18– 20). Other genes ( ABCC8 and SMAD1) have been described
+in patients with PAH associated with a small/coincidental defect
+(18). Genetic factors may explain the variability in the
+development of PVD in patients with pre-tricuspid shunts, in
+whom the increased pulmonary blood ﬂow alone is deemed
+insufﬁcient for the development of PVD ( 21).
+T h em o l e c u l a rm e c h a n i s m si nﬂuencing the onset and progression
+of PAH have been further dissected, suggesting that epigenetic factors
+play a major role in shaping the clinical expression of the different
+genetic variants. These factors, which include sequences of non-
+coding RNA, micro-RNA and protein polymorphisms, are still
+poorly understood and a comprehensive appraisal of this topic is
+beyond the scope of this review ( 22). Recent mechanistic work has
+shown a link between signals regulating cellular proliferation and
+differentiation, and the biology of pulmonary smooth muscle cells
+(23). Different levels of expression of proteins involved in smooth
+muscle cell proliferation correlate with the severity of PVD in
+animal models of ﬂow-associated PAH; such proteins may have a
+p r o t e c t i v er o l ea g a i n s tv a s c u l a rr e m o d e l i n gi nt h ep r e s e n c eo fal e f t -
+right shunt ( 23). These data shed new light on the pathogenesis of
+PAH-CHD, moving away from the traditional view that this is a
+condition triggered exclusively by hemodynamics. Genetics are
+likely to play a role on whether PVD develops (especially in
+patients with pre-tricuspid shunts), and how rapidly it progresses,
+Ferrero et al. 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+inﬂuencing operability, the response to PAH therapies, and
+prognosis in this cohort.
+3.2 Hemodynamic modulators
+Shunts occurring at different anatomic levels portend different
+risks of PVD. Large post-tricuspid shunts result in pressure and
+volume load to the pulmonary circulation and are much more
+likely to cause PVD than pre-tricuspid shunts (i.e., atrial septal
+defects). This is particularly true for congenital shunts between the
+great arteries, such as common arterial trunk, aortopulmonary
+window or large patent ductus arteriosus, which generate signiﬁcant
+shear stress to the pulmonary circulation throughout the cardiac
+cycle. If left unrepaired, they are likely to cause severe PVD and
+evolve to Eisenmenger physiology early in life ( 12). Wagenvoort
+et al. demonstrated that pulmonary artery banding in patients with
+post-tricuspid shunts and histological evidence of PVD did reverse
+the disease in some, most likely those with milder forms of PVD,
+demonstrating the spectrum of disease severity and dif ﬁculties in
+establishing who has developed irreversible pulmonary arteriopathy
+by means of cardiac catheterization or even lung biopsy ( 24, 25).
+When assessing pulmonary blood ﬂow and shunt fraction,
+several factors need to be taken into consideration. For pre-
+tricuspid shunts, the shunt fraction depends not only on the size
+of the defect, but also on the pressure gradient between the atria.
+Conditions that increase left atrial pressure, such as left-sided
+valve disease, systemic ventricular dysfunction, are likely to
+promote left-right shunting, while conditions that increase right
+atrial pressure such as tricuspid valve disease, right ventricular
+outﬂow tract obstruction or pulmonary hypertension, reduce left-
+right shunting and may cause shunt reversal ( Figure 1 ).
+The pathophysiology becomes even more complicated in the
+presence of segmental pulmonary hypertension, i.e., when PVD
+develops in some but not all lung segments ( 26). This is typical
+of patients with tetralogy of Fallot with pulmonary atresia, but
+can also occur in patients with a large post-tricuspid shunt and
+branch pulmonary artery stenosis.
+Occasionally, patients with large, non-restrictive post-tricuspid
+communications present late with surprisingly mild PAH and a
+predominant left-right shunt, with or without signs of pulmonary
+congestion. In the absence of right ventricular out ﬂow tract
+obstruction or branch pulmonary artery stenosis that may protect
+the pulmonary vascular bed, such patients are deemed to have a
+“compliant” pulmonary circulation that is less sensitive to shear
+stress and the overload caused by the shunt. Whether or not this
+phenotype is genetically driven remains to be determined.
+4 Management of PAH associated with
+left-right shunts
+There is very little evidence on the use of PAH therapies in
+patients with CHD and a predominant left-right shunt ( 1, 27– 31).
+FIGURE 1
+Diagram illustrating the pathophysiology of the pulmonary and systemic circulations, which work in parallel to modulate pulmonary blood ﬂow and
+the severity of the left-right (L-R) shunt. The modulators of pulmonary blood ﬂow and shunt traction can, in principle, be classi ﬁed as pre- and post-
+capillary, and should be considered when assessing patients with PAH and left-right shunts. ASD, atrial septal defect; LA, left atrium; LV, left vent ricle/
+ventricular; O 2, oxygen; PA, pulmonary artery; Qp, pulmonary blood ﬂow; Qs, systemic blood ﬂow; RA, right atrium; RV, right ventricle; RVOT, right
+ventricular out ﬂow tract.
+Ferrero et al. 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+In other PAH cohorts, these therapies are used to lower PVR and
+increase pulmonary blood ﬂow at rest and on effort, reducing RV
+afterload and improving the coupling between the RV and the
+pulmonary circulation. In patients with mild PAH and a sizable
+left-right shunt (i.e., ratio of pulmonary-to-systemic blood ﬂow or
+Qp/Qs > 1.5), PAH therapies are likely to further increase the
+already excessive pulmonary blood ﬂow, potentially exacerbating
+the overload to the right or left ventricle and the pulmonary
+circulation. In such cases, PAH therapy only makes sense as a
+means of reducing PVR to levels that would allow defect repair
+(the so-called “treat-and-repair” approach, ﬁrst proposed by
+Dimopoulos et al.) ( 32). The use of triple-combination therapy, a
+cornerstone in the management of severe idiopathic PAH, lacks
+evidence in this patient population. Patients with predominant
+left-right shunts are often excluded or underrepresented in PAH-
+CHD cohorts studying the impact of combination therapy
+(33, 34). Cardiac catheterization is required prior to and after
+establishing PAH therapies to document the decrease in PVR to
+levels that would allow partial (or complete) closure of the defect,
+thus abolishing ventricular overload and reducing the risk of
+progression of PVD. Current ESC adult CHD guidelines make
+clear recommendations on a treat-and-repair strategy for patients
+with an atrial septal defect and baseline PVR ≥ 5W U ( 35). They
+recommend fenestrated closure of the defect after PAH therapy if
+the PVR drops to <5 WU and there is evidence of RV volume
+overload with a Qp/Qs > 1.5. It is worth noting that this cut-off is
+reasonably conservative; in the past, atrial septal defects were
+closed with a PVR of 6 – 8W U ( 36). Fenestrated closure of pre-
+tricuspid shunts in patients with with PAH, with concurrent
+initiation of PAH therapy at the time of repair has been described,
+though this is not endorsed in the same way as “treat-and-repair”
+in the ESC ACHD guidelines ( 35, 37). Indeed, a signi ﬁcant drop
+in PVR after therapy is deemed essential for considering defect
+closure, and there is a risk that patients who do not adequately
+respond to PAH therapies long-term may be negatively affected by
+even partial closure of the defect. It is generally expected that
+PAH therapies should be prescribed inde ﬁnitely in patients
+undergoing successful treat-and-repair (who now belong to the
+post-repair PAH-CHD subgroup), though cardiac catheterization
+and close monitoring, with appropriate adjustment of therapies, is
+recommended post-repair.
+With regards to post-tricuspid, left-right shunts with a PVR ≥
+5 WU, there is very little evidence to guide management and
+guidelines recommend referral to expert centers, who may
+consider a similar treat-and-repair approach. Expert centers may
+choose to initiate and escalate PAH therapies (as single or
+combination therapy) in symptomatic patients, monitoring
+hemodynamics for a signi ﬁcant drop in PVR and/or signi ﬁcant
+increase in the left-right shunt and ventricular overload. There
+are several case reports and series describing patients with post-
+tricuspid shunts and established PVD who responded to PAH
+therapy and underwent repair of the defect ( 38, 39). However,
+patients with post-tricuspid shunts often present with more
+severe PVD, with a higher baseline PVR than their counterparts
+with pre-tricuspid shunts, making a treat-and-repair strategy less
+attractive. Moreover, many reports of successful treat-and-repair
+in post-tricuspid shunts are on patients from Asia, and a more
+favorable genetic background cannot be excluded. Finally, the
+changes in hemodynamic operability criteria over time,
+differences in consensus between analogous guidelines and
+variability in management by center and region, create challenges
+for the use of “real-world” clinical data to infer safety ( 35, 40).
+The magnitude of PVR drop achieved with PAH therapy in post-
+tricuspid shunts varies signi ﬁcantly, between 20% and 40%,
+roughly reproducing the relative reduction reported in the
+interventional arm of clinical trials of idiopathic PAH ( 31, 41– 43).
+The duration of pre-repair treatment with PAH therapies has also
+not been standardized ( 36, 38, 44). It is likely that most patients
+will require long-term treatment after repair, though this will
+depend on post-repair hemodynamics.
+The attention and expertise required in the performance and
+interpretation of cardiac catheterization in such patients cannot
+be overstated. Quality control is essential and pitfalls should be
+avoided, e.g., in the presence of multiple sources of pulmonary
+blood ﬂow (patent ductus arteriosus, aortopulmonary collaterals),
+the positions used to sample blood for calculation of mixed
+venous saturations and the choice of equation used, use of
+sedation or anesthesia that can in ﬂuence hemodynamics,
+administration of large doses of oxygen that can confound shunt
+calculations, etc. Acute vasodilator challenge is not currently
+advocated in the guidelines but may provide information on the
+compliance of the pulmonary vasculature ( 1, 35).
+While short-term outcomes after treat-and-repair have been
+promising in case reports and case series, the long-term effects of
+closing defects in these patients remains uncertain ( 4, 30). An
+added complication to the management of PAH-CHD patients
+with a left-right shunt is the lack of data on risk strati ﬁcation,
+which forms the basis for decision-making in other PAH cohorts.
+Previous versions of the ESC/ERS pulmonary hypertension
+guidelines proposed an extended three-strata prognostic model for
+PAH, which should guide management but is not validated for
+CHD, especially patients with left-right shunts ( 29). This model
+has been re ﬁned over the years and updated prognostic models
+have been developed based on European and US cohorts. A
+simpliﬁed four-strata model that utilizes 3 clinical parameters
+(WHO functional class, 6-min walk distance and brain natriuretic
+peptide) was proposed in the latest 2022 guidelines; the two major
+studies supporting this model included very few non-Eisenmenger
+CHD patients ( 1, 28). This model has been applied, but not
+formally validated, in patients with PAH-CHD ( 45).
+5 Proposal of a practical approach
+When considering PAH therapies in patients PAH-CHD and
+left-right shunts, expert centers may ask the following 2 pivotal
+questions:
+PM?v???????????
+assessing ef ﬁcacy?
+2. How should one select patients that are most likely to bene ﬁt
+from PAH therapies?
+Ferrero et al. 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+The potential aims of PAH therapy in this cohort are either to:
+- achieve operability criteria, i.e., modify pulmonary
+hemodynamics to ful ﬁll recommended criteria for repair (as
+part of a treat-and-repair approach) ( 35), or
+- produce an improvement in functional status, exercise capacity
+and, possibly, prognosis.
+Defects that can be repaired percutaneously are more attractive for
+a treat-and-repair approach, as su rgery requiring cardio-pulmonary
+bypass carries substantial risks (e.g., perioperative pulmonary
+hypertension crisis), even in patients on effective PAH therapy.
+Close perioperative monitoring is essential to minimize
+perioperative complications, with a low threshold for escalation of
+PAH therapies and hemodynamic support, when required. Repeat
+invasive hemodynamic assessment is required to establish post-
+repair hemodynamics and decide on the intensity of PAH therapy,
+with the aim of optimizing long-term outcomes, in a patient who is
+now classi ﬁable as post-repair PAH-CHD. In this setting, the
+decision to withdraw one or more therapies in a patient with
+normal or near-normal PVR is dif ﬁcult and great caution is
+recommended as PVD is more than likely to persist and may progress.
+In patients with more severe PVD but still with predominant
+left-right shunting (i.e., not yet ful ﬁlling Eisenmenger criteria), a
+treat-and-repair strategy is less likely to be successful; repairing a
+defect in a patient who requires very aggressive PAH therapy to
+achieve hemodynamic criteria for operability may not be wise
+and the bene ﬁts in terms of abolishing the left-right shunt may
+not outweigh the risks of the intervention and likelihood of
+progressive severe PVD after repair of the defect. There may,
+however, be merits in using pulmonary vasodilators in an
+attempt to improve ventriculo-vascular and gas exchange coupling,
+optimizing RV stroke volume and improving pulmonary blood
+ﬂow through better distribution to relatively normal V/Q units
+(46). In this setting, PAH therapies can lower PVR and RV
+afterload, though it is likely that the left-right shunt and
+ventricular volume overload will increase. Moreover, it is unclear
+how this strategy may in ﬂuence (accelerate or delay) the natural
+evolution towards Eisenmenger physiology.
+It, therefore, makes sense to categorize patients with PAH-
+CHD and a left-right shunt in two distinct groups, assuming a
+large pre- or post-tricuspid defect and no left heart disease or
+associated lesions ( Figure 2 ):
+- The predominantly reversible PVD type refers to patients with a
+large left-right shunt and evidence of, typically, mild pulmonary
+hypertension. The vast majority of these patients are deemed
+operable, yet some fall into a decision-making “grey zone ”
+that requires careful expert assessment. In this group, PAH
+therapies may be used as part of a treat-and-repair approach,
+even though this is only recommended explicitly for atrial
+septal defects. Once repair is achieved, PAH therapies are
+typically continued long-term, though adjustment may be
+required depending on hemodynamics, immediately post-
+intervention and long-term. Patients in whom treat-and-repair
+fails in terms of an insuf ﬁcient drop in PVR despite adequate
+FIGURE 2
+Graphical summary of PAH-CHD with a left-right shunt, spanning from the predominantly reversible end of the spectrum, with mildly elevated
+pulmonary vascular resistance (PVR) and high shunt fraction (Qp/Qs), to the predominantly irreversible pulmonary vascular disease (PVD) or pre-
+Eisenmenger end. This schematic assumes a large congenital heart defect and no signi ﬁcant left heart disease.
+Ferrero et al. 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+therapies are likely to have a predominant irreversible
+component and should be classi ﬁed as such (see below).
+- The predominantly irreversiblePVD or pre-Eisenmengertype have
+a left-right shunt smaller than expected for the size of the defect,
+but without cyanosis at rest or on exercise. In this group, PAH
+therapies may be considered under strict surveillance to
+improve hemodynamics and RV function, though evidence is
+lacking. The possible bene ﬁt of PAH therapies needs to be
+balanced against the risk of augmenting the left-right shunt and
+precipitating RV failure due to worsening volume overload. In
+these patients, PAH therapy is unlikely to result in a suf ﬁcient
+drop in PVR that would allow defect closure.
+While patients with PAH-CHD and a prevalent left-right shunt
+are common, a systematic description of the spectrum of disease
+contained within this group requires a return to the anatomic,
+pathophysiological, histologic, and hemodynamic concepts of
+reversible vs. irreversible PVD. Unfortunately, despite decades of
+work, 70 years since the systematic description of Eisenmenger
+physiology by Wood, and almost 40 years since the pioneering
+work of Wagenvoort et al., the concept of reversibility eludes us
+(12, 25). This impacts our decision making, both in terms of
+operability and use of PAH therapies. Yet, there is a spectrum
+within PAH-CHD with a left-right shunt that can only be
+conceptualized fully in terms of the severity of PVD and its
+reversibility i.e., whether our interventions are likely to impact
+favorably on the natural history of this progressive, life-limiting
+condition. Unfortunately, the transition point from predominantly
+reversible to predominantly irreversible disease cannot be easily
+deﬁned based on current evidence, and this is re ﬂected in the
+??Y?drb???[T?vt??
+deﬁnition of operability and by extension reversibility, yet they
+recognize the signi ﬁcant uncertainty and variability in practice and
+recommend careful individual assessment in expert centers for
+patients with a post-tricuspid shunt and a PVR ≥ 5W U ( 35). The
+classiﬁcation of children into predominantly reversible and
+irreversible PVD, while clinically important, is signi ﬁcantly
+complicated by the dynamic nature of the pulmonary vasculature
+in early life, and its variable response to large shunts (confounded
+by genetic and other factors). The physiological post-natal drop in
+PVR is typically followed by the emergence of an overcirculating
+phenotype. This is characterized by heart failure, driven by the
+large left-right shunt and indicative of a still compliant pulmonary
+vascular bed. There are, however, infants in whom the expected
+drop in PVR after birth does not occur and, thus, never
+experience a window of operability ( 14).
+As risk strati ﬁcation models are not available for this cohort of
+patients, it makes sense to monitor standard clinical parameters,
+such as WHO functional class, 6-min walk distance, natriuretic
+peptide levels and echocardiographic indexes of RV dysfunction
+and coupling to the pulmonary circulation. Cardiac magnetic
+resonance imaging can be extremely useful for monitoring RV
+function and obtaining non-invasive measures of pulmonary
+blood ﬂow and shunt fraction. Cardiopulmonary exercise testing
+(CPET), for patients who can perform this test (i.e., without
+severely limited exercise capacity or signi ﬁcant learning disability),
+is a safe and useful non-invasive method for assessing functional
+capacity. It is part of the guideline-recommended initial risk
+assessment of patients with PAH ( 1). The development of
+progressive oxygen desaturation on exertion may suggest that a
+patient is approaching Eisenmenger physiology, while
+improvements in oxygen saturation and exercise parameters after
+PAH therapy are evidence of response to treatment. Ventilatory
+inefﬁciency and ventilation-perfusion mismatching, as determined
+by a raised the ratio between ventilation and CO
+2 production (VE/
+VCO2 slope), is related to outcome in PAH and non-cyanotic
+CHD cohorts ( 47– 49). This, along with other markers of
+functional capacity, may be used for risk strati ﬁcation. Right heart
+catheterization prior to and post-initiation of therapies is
+instrumental in monitoring hemodynamics (e.g., shunt fraction
+and PVR) and identifying patients who have achieved operability
+criteria, or may bene ﬁt from escalation of therapy. In patients not
+eligible for repair, one should aim to achieve a balance between
+optimizing pulmonary hemodynamics, RV afterload and oxygen
+exchange, while avoiding a signi ﬁcant increase Qp/Qs that may be
+detrimental to RV or left ventricle (for pre- or post-tricuspid
+shunts, respectively) ( Figure 2).
+Conclusions
+The management of patients with PAH and a left-right shunt is
+particularly challenging, as this group includes individuals with a wide
+range of hemodynamics, and evidence is extremely limited. Potential
+indications for PAH therapies differ according to underlying anatomy
+and hemodynamics, with two major clinical phenotypes:
+predominantly irreversible (pre-Eisenmenger)v s . predominantly
+reversible type. A tailored expert approach is mandatory, with close
+monitoring after defect repair and/or use of PAH therapies.
+Author contributions
+PF: Conceptualization, Data curation, Methodology, Writing –
+original draft, Writing – review & editing. AC: Data curation,
+Investigation, Writing – original draft, Writing – review &
+editing. MC: Supervision, Writing – original draft, Writing –
+review & editing. KD: Conceptualization, Validation, Writing –
+original draft, Writing – review & editing.
+Funding
+The author(s) declare that no ﬁnancial support was received for
+the research, authorship, and/or publication of this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Ferrero et al. 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+References
+PM?g?lK?j?fK?g?llK?a?qK?a?qleK?a?lK??M
+2022 ESC/ERS guidelines for the diagnosis and treatment of pulmonary hypertension.
+Eur Heart J . (2022) 43:3618 – 731. doi: 10.1093/eurheartj/ehac237
+2. Simonneau G, Montani D, Celermajer DS, Denton CP, Gatzoulis MA, Krowka M,
+et al. Haemodynamic de ﬁnitions and updated clinical classi ﬁcation of pulmonary
+hypertension. Eur Respir J . (2019) 53:1801913. doi: 10.1183/13993003.01913-2018
+3. Manes A, Palazzini M, Leci E, Bacchi Reggiani ML, Branzi A, Galiè N. Current era
+survival of patients with pulmonary arterial hypertension associated with congenital
+heart disease: a comparison between clinical subgroups. Eur Heart J . (2014)
+35:716– 24. doi: 10.1093/eurheartj/eht072
+4. Galiè N, Beghetti M, Gatzoulis MA, Granton J, Berger RMF, Lauer A, et al.
+Bosentan therapy in patients with eisenmenger syndrome: a multicenter, double-
+blind, randomized, placebo-controlled study. Circulation. (2006) 114:48 – 54. doi: 10.
+1161/CIRCULATIONAHA.106.630715
+5. Dimopoulos K, Inuzuka R, Goletto S, Giannakoulas G, Swan L, Wort SJ, et al.
+Improved survival among patients with eisenmenger syndrome receiving advanced
+therapy for pulmonary arterial hypertension. Circulation. (2010) 121:20 – 5. doi: 10.
+1161/CIRCULATIONAHA.109.883876
+6. Diller G-P, Alonso-Gonzalez R, Dimopoulos K, Alvarez-Barredo M, Koo C,
+Kempny A, et al. Disease targeting therapies in patients with eisenmenger
+syndrome: response to treatment and long-term ef ﬁciency. Int J Cardiol . (2013)
+167:840– 7. doi: 10.1016/j.ijcard.2012.02.007
+7. D ’Alto M, Romeo E, Argiento P, Sarubbi B, Santoro G, Grimaldi N, et al.
+Bosentan– sildenaﬁl association in patients with congenital heart disease-related
+pulmonary arterial hypertension and eisenmenger physiology. Int J Cardiol . (2012)
+155:378– 82. doi: 10.1016/j.ijcard.2010.10.051
+8. van Riel ACMJ, Schuuring MJ, van Hessen ID, Zwinderman AH, Cozijnsen L,
+Reichert CLA, et al. Contemporary prevalence of pulmonary arterial hypertension
+in adult congenital heart disease following the updated clinical classi ﬁcation. Int
+J Cardiol . (2014) 174:299 – 305. doi: 10.1016/j.ijcard.2014.04.072
+9. Kaemmerer H, Goren ﬂo M, Huscher D, Pittrow D, Apitz C, Baumgartner H, et al.
+Pulmonary hypertension in adults with congenital heart disease: real-world data from
+the international COMPERA-CHD registry. J Clin Med . (2020) 9:1456. doi: 10.3390/
+jcm9051456
+10. Duffels MGJ, Engelfriet PM, Berger RMF, van Loon RLE, Hoendermis E, Vriend
+JWJ, et al. Pulmonary arterial hypertension in congenital heart disease: an
+epidemiologic perspective from a Dutch registry. Int J Cardiol . (2007) 120:198 – 204.
+doi: 10.1016/j.ijcard.2006.09.017
+11. Humbert M, Sitbon O, Chaouat A, Bertocchi M, Habib G, Gressin V, et al.
+Pulmonary arterial hypertension in France: results from a national registry. Am
+J Respir Crit Care Med . (2006) 173:1023 – 30. doi: 10.1164/rccm.200510-1668OC
+12. Wood P. The eisenmenger syndrome or pulmonary hypertension with reversed
+central shunt. Br Med J . (1958) 2:755 – 62. doi: 10.1136/bmj.2.5099.755
+13. Moceri P, Kempny A, Liodakis E, Alonso Gonzales R, Germanakis I, Diller G-P,
+et al. Physiological differences between various types of eisenmenger syndrome and
+relation to outcome. Int J Cardiol. (2015) 179:455 – 60. doi: 10.1016/j.ijcard.2014.11.100
+14. Hall SM, Haworth SG. Onset and evolution of pulmonary vascular disease in
+young children: abnormal postnatal remodelling studied in lung biopsies. J Pathol .
+(1992) 166:183 – 93. doi: 10.1002/path.1711660216
+15. Dimopoulos K, Wort SJ, Gatzoulis MA. Pulmonary hypertension related to
+congenital heart disease: a call for action. Eur Heart J . (2014) 35:691 – 700. doi: 10.
+1093/eurheartj/eht437
+16. Machado RD, Southgate L, Eichstaedt CA, Aldred MA, Austin ED, Best DH, et al.
+Pulmonary arterial hypertension: a current perspective on established and emerging
+molecular genetic defects. Hum Mutat. (2015) 36:1113 – 27. doi: 10.1002/humu.22904
+17. Roberts KE, McElroy JJ, Wong WPK, Yen E, Widlitz A, Barst RJ, et al. BMPR2
+mutations in pulmonary arterial hypertension with congenital heart disease. Eur
+Respir J . (2004) 24:371 – 4. doi: 10.1183/09031936.04.00018604
+18. Cruz-Utrilla A, Gallego-Zazo N, Tenorio-Castaño JA, Guillén I, Torrent-
+Vernetta A, Moya-Bonora A, et al. Clinical implications of the genetic background
+in pediatric pulmonary arterial hypertension: data from the spanish REHIPED
+registry. Int J Mol Sci . (2022) 23:10433. doi: 10.3390/ijms231810433
+19. Montani D, Lechartier B, Girerd B, Eyries M, Ghigna M-R, Savale L, et al. An
+emerging phenotype of pulmonary arterial hypertension patients carrying SOX17
+variants. Eur Respir J . (2022) 60:2200656. doi: 10.1183/13993003.00656-2022
+20. Galambos C, Mullen MP, Shieh JT, Schwerk N, Kielt MJ, Ullmann N, et al.
+Phenotype characterisation of TBX4 mutation and deletion carriers with neonatal
+and paediatric pulmonary hypertension. Eur Respir J . (2019) 54:1801965. doi: 10.
+1183/13993003.01965-2018
+21. Forlemu AN, Ajmal M, Saririan M. Atrial septal defect with eisenmenger
+syndrome: a rare presentation. Case Rep Cardiol . (2020) 2020:e8681761. doi: 10.
+1155/2020/8681761
+22. Kocken JMM, da Costa Martins PA. Epigenetic regulation of pulmonary arterial
+hypertension-induced vascular and right ventricular remodeling: new opportunities?
+Int J Mol Sci . (2020) 21:8901. doi: 10.3390/ijms21238901
+23. Zhou J, Li F, Yang Y. Protective effects of calcyclin-binding protein against
+pulmonary vascular remodeling in ﬂow-associated pulmonary arterial hypertension.
+Respir Res . (2022) 23:223. doi: 10.1186/s12931-022-02137-z
+24. Wagenvoort CA, Wagenvoort N, Draulans-Noë Y. Reversibility of plexogenic
+pulmonary arteriopathy following banding of the pulmonary artery. J Thorac
+Cardiovasc Surg . (1984) 87:876 – 86. doi: 10.1016/S0022-5223(19)38415-6
+25. Wagenvoort CA. Morphological substrate for the reversibility and irreversibility
+of pulmonary hypertension. Eur Heart J . (1988) 9(Suppl. J):7 – 12. doi: 10.1093/
+eurheartj/9.suppl_J.7
+26. Dimopoulos K, Diller GP, Opotowsky AR, D ’Alto M, Gu H, Giannakoulas G,
+et al. De ﬁnition and management of segmental pulmonary hypertension. JA m
+Heart Assoc . (2018) 7:e008587. doi: 10.1161/JAHA.118.008587
+27. Barst RJ, McGoon M, McLaughlin V, Tapson V, Rich S, Rubin L, et al. Beraprost
+therapy for pulmonary arterial hypertension. J Am Coll Cardiol . (2003) 41:2119 – 25.
+doi: 10.1016/s0735-1097(03)00463-7
+28. Boucly A, Weatherald J, Savale L, de Groote P, Cottin V, Prévot G, et al. External
+validation of a re ﬁned 4-strata risk assessment score from the French pulmonary
+hypertension registry.Eur Respir J. (2021) 59:2102419. doi: 10.1183/13993003.02419-2021
+29. Kylhammar D, Kjellström B, Hjalmarsson C, Jansson K, Nisell M, Söderberg S,
+et al. A comprehensive risk strati ﬁ
+cation at early follow-up determines prognosis in
+pulmonary arterial hypertension. Eur Heart J . (2018) 39:4175 – 81. doi: 10.1093/
+eurheartj/ehx257
+30. Benza RL, Miller DP, Gomberg-Maitland M, Frantz RP, Foreman AJ, Coffey CS,
+et al. Predicting survival in pulmonary arterial hypertension: insights from the registry
+to evaluate early and long-term pulmonary arterial hypertension disease management
+(REVEAL). Circulation. (2010) 122:164 – 72. doi: 10.1161/CIRCULATIONAHA.109.
+898122
+31. Sitbon O, Channick R, Chin KM, Frey A, Gaine S, Galiè N, et al. Selexipag for
+the treatment of pulmonary arterial hypertension. N Engl J Med . (2015) 373:2522 – 33.
+doi: 10.1056/NEJMoa1503184
+32. Dimopoulos K, Peset A, Gatzoulis MA. Evaluating operability in adults with
+congenital heart disease and the role of pretreatment with targeted pulmonary
+arterial hypertension therapy. Int J Cardiol . (2008) 129:163 – 71. doi: 10.1016/j.ijcard.
+2008.02.004
+33. Luna-Lopez R, Segura de la Cal T, Cebada FS, Martin de Miguel I, Hinojosa W,
+Cruz-Utrilla A, et al. Triple vasodilator therapy in pulmonary arterial hypertension
+associated with congenital heart disease. Heart. (2024) 110:346 – 52. doi: 10.1136/
+heartjnl-2023-323015
+34. D ’Alto M, Constantine A, Balint OH, Romeo E, Argiento P, Ablonczy L,
+et al. The effects of parenteral prostacyclin therapy as add-on treatment to oral
+compounds in eisenmenger syndrome. Eur Respir J . (2019) 54:1901401. doi: 10.
+1183/13993003.01401-2019
+35. Baumgartner H, De Backer J, Babu-Narayan SV, Budts W, Chessa M, Diller G-P,
+et al. 2020 ESC guidelines for the management of adult congenital heart disease. Eur
+Heart J . (2021) 42:563 – 645. doi: 10.1093/eurheartj/ehaa554
+36. Akagi S, Kasahara S, Sarashina T, Nakamura K, Ito H. Treat-and-repair strategy
+is a feasible therapeutic choice in adult patients with severe pulmonary arterial
+hypertension associated with a ventricular septal defect: case series. Eur Heart
+J Case Rep . (2018) 2:1 – 7. doi: 10.1093/ehjcr/yty033
+37. Wang J-K, Chiu S-N, Lin M-T, Chen C-A, Lu C-W, Wu M-H. Transcatheter
+closure of atrial septal defect associated with pulmonary artery hypertension using
+fenestrated devices. Am J Cardiol. (2021) 147:122– 8. doi: 10.1016/j.amjcard.2021.01.025
+38. Hu L, Tan L, Ye J. Repair of ventricular septal defect with eisenmenger syndrome
+after bosentan treatment. J Card Surg . (2014) 29:401 – 2. doi: 10.1111/jocs.12325
+Ferrero et al. 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 07 frontiersin.org
+[[p8]]
+39. Xu J, Wang L, Shen Y, Geng L, Chen F. Transcatheter closure for patent ductus
+arteriosus in patients with eisenmenger syndrome: to do or not? BMC Cardiovasc
+Disord. (2020) 20:505. doi: 10.1186/s12872-020-01795-5
+40. Stout KK, Daniels CJ, Aboulhosn JA, Bozkurt B, Broberg CS, Colman JM, et al.
+2018 AHA/ACC guideline for the management of adults with congenital heart disease:
+a report of the American college of cardiology/American heart association task force
+on clinical practice guidelines. Circulation. (2018) 139:e698 – 800. doi: 10.1161/CIR.
+0000000000000602
+41. Pulido T, Adzerikho I, Channick RN, Delcroix M, Galiè N, Ghofrani H-A, et al.
+Macitentan and morbidity and mortality in pulmonary arterial hypertension. N Engl J
+Med. (2013) 369:809 – 18. doi: 10.1056/NEJMoa1213917
+42. Humbert M, McLaughlin V, Gibbs JSR, Gomberg-Maitland M, Hoeper MM,
+Preston IR, et al. Sotatercept for the treatment of pulmonary arterial hypertension.
+N Engl J Med . (2021) 384:1204 – 15. doi: 10.1056/NEJMoa2024277
+43. Galiè N, Brundage BH, Ghofrani HA, Oudiz RJ, Simonneau G, Safdar Z, et al.
+Tadalaﬁl therapy for pulmonary arterial hypertension. Circulation. (2009)
+119:2894– 903. doi: 10.1161/CIRCULATIONAHA.108.839274
+44. Arvind B, Relan J, Kothari SS. “Treat and repair ” strategy for shunt lesions: a
+critical review. Pulm Circ . (2020) 10:204589402091788. doi: 10.1177/
+2045894020917885
+45. Chiu S-N, Weng K-P, Lin M-C, Wang J-N, Hwang B-T, Dai Z-K, et al.
+Congenital heart disease with pulmonary artery hypertension in an Asian cohort-
+initial report from TACHYON (Taiwan congenital heart disease associated with
+pulmonary arterial hypertension) registry. Int J Cardiol . (2020) 317:49 – 55. doi: 10.
+1016/j.ijcard.2020.05.086
+46. Rischard F, Vanderpool R, Jenkins I, Dalabih M, Colombo J, Lax D, et al.
+Selective pulmonary vasodilation improves ventriculovascular coupling and gas
+exchange in a patient with unrepaired single-ventricle physiology. Pulm Circ . (2015)
+5:407– 11. doi: 10.1086/681269
+47. Deboeck G, Scoditti C, Huez S, Vachiéry J-L, Lamotte M, Sharples L, et al.
+Exercise testing to predict outcome in idiopathic versus associated pulmonary
+arterial hypertension. Eur Respir J. (2012) 40:1410 – 9. doi: 10.1183/09031936.00217911
+48. Badagliacca R, Papa S, Poscia R, Valli G, Pezzuto B, Manzi G, et al. The added
+value of cardiopulmonary exercise testing in the follow-up of pulmonary arterial
+hypertension. J Heart Lung Transplant . (2019) 38:306 – 14. doi: 10.1016/j.healun.
+2018.11.015
+49. Dimopoulos K, Okonko DO, Diller G-P, Broberg CS, Salukhe TV, Babu-
+Narayan SV, et al. Abnormal ventilatory response to exercise in adults with
+congenital heart disease relates to cyanosis and predicts survival. Circulation. (2006)
+113:2796– 802. doi: 10.1161/circulationaha.105.594218
+Ferrero et al. 10.3389/fcvm.2024.1360555
+Frontiers in Cardiovascular Medicine 08 frontiersin.org

@@ -1,0 +1,1370 @@
+
+[[p1]]
+RESEA RCH ARTICL E
+The effects of rhythm control strategies
+versus rate control strategies for atrial
+fibrillation and atrial flutter: A systematic
+review with meta-analysis and Trial Sequential
+Analysis
+Naqash J. Sethi
+1
+*, Joshua Feinberg
+1☯
+, Emil E. Nielsen
+1☯
+, Sanam Safi
+1☯
+,
+Christian Gluud
+1,2
+, Janus C. Jakobsen
+1,2,3
+1 Copenhag en Trial Unit, Centre for Clinical Interventi on Research, Department, Rigshosp italet,
+Copenhag en University Hospital, Copenhag en, Denmark , 2 The Cochrane Hepato-B iliary Group,
+Copenhag en Trial Unit, Centre for Clinical Interventi on Research, Department, Rigshosp italet, Copenhag en
+University Hospital, Copenhag en, Denmark , 3 Department of Cardiolo gy, Holbæk Hospital, Holbæk ,
+Denmark
+☯ These authors contributed equally to this work.
+* naqash.set hi@ctu.dk
+Abstract
+Background
+Atrial fibrillation and atrial flutter may be managed by either a rhythm control strategy or a
+rate control strategy but the evidence on the clinical effects of these two intervention strate-
+gies is unclear. Our objective was to assess the beneficial and harmful effects of rhythm
+control strategies versus rate control strategies for atrial fibrillation and atrial flutter.
+Methods
+We searched CENTRAL, MEDLINE, Embase, LILACS, Web of Science, BIOSIS, Google
+Scholar, clinicaltrials.gov, TRIP, EU-CTR, Chi-CTR, and ICTRP for eligible trials comparing
+any rhythm control strategy with any rate control strategy in patients with atrial fibrillation or
+atrial flutter published before November 2016. Our primary outcomes were all-cause mortal-
+ity, serious adverse events, and quality of life. Our secondary outcomes were stroke and
+ejection fraction. We performed both random-effects and fixed-effect meta-analysis and
+chose the most conservative result as our primary result. We used Trial Sequential Analysis
+(TSA) to control for random errors. Statistical heterogeneity was assessed by visual inspec-
+tion of forest plots and by calculating inconsistency (I
+2
+) for traditional meta-analyses and
+diversity (D
+2
+) for TSA. Sensitivity analyses and subgroup analyses were conducted to
+explore the reasons for substantial statistical heterogeneity. We assessed the risk of publi-
+cation bias in meta-analyses consisting of 10 trials or more with tests for funnel plot asym-
+metry. We used GRADE to assess the quality of the body of evidence.
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 1 / 28
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: Sethi NJ, Feinberg J, Nielsen EE, Safi S,
+Gluud C, Jakobsen JC (2017) The effects of rhythm
+control strategi es versus rate control strategies for
+atrial fibrillation and atrial flutter: A systematic
+review with meta-ana lysis and Trial Sequential
+Analysis. PLoS ONE 12(10): e0186856. https://do i.
+org/10.1371 /journal.pone. 0186856
+Editor: Gianpaolo Reboldi, Universita degli Studi di
+Perugia, ITALY
+Received: May 23, 2017
+Accepted: October 9, 2017
+Published: October 26, 2017
+Copyright: © 2017 Sethi et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricte d use, distribu tion, and
+reproduction in any medium, provided the original
+author and source are credited.
+Data Availabilit y Statement: All relevant data are
+within the paper and its Support ing Information
+files.
+Funding: The Copenhagen Trial Unit (http://ww w.
+ctu.dk/) paid the salary for all authors during the
+writing of this review. Otherwise, the authors
+received no specific funding for this work.
+Competing interests : The authors have declared
+that no competing interests exist.
+[[p2]]
+Results
+QT????G?\?XRTS?H??K??????
+risk of bias. Meta-analysis showed that rhythm control strategies versus rate control strate-
+gies significantly increased the risk of a serious adverse event (risk ratio (RR), 1.10; 95%
+confidence interval (CI), 1.02 to 1.18; P = 0.02; I
+2
+= 12% (95% CI 0.00 to 0.32); 21 trials), but
+TSA did not confirm this result (TSA-adjusted CI 0.99 to 1.22). The increased risk of a seri-
+ous adverse event did not seem to be caused by any single component of the composite
+outcome. Meta-analys is showed that rhythm control strategies versus rate control strategies
+were associated with better SF-36 physical component score (mean difference (MD), 6.93
+points; 95% CI, 2.25 to 11.61; P = 0.004; I
+2
+= 95% (95% CI 0.94 to 0.96); 8 trials) and ejec-
+tion fraction (MD, 4.20%; 95% CI, 0.54 to 7.87; P = 0.02; I
+2
+= 79% (95% CI 0.69 to 0.85); 7
+trials), but TSA did not confirm these results. Both meta-analysis and TSA showed no signif-
+icant differences on all-cause mortality, SF-36 mental componen t score, Minnesota Living
+with Heart Failure Questionnaire, and stroke.
+Conclusions
+Rhythm control strategies compared with rate control strategies seem to significantly
+increase the risk of a serious adverse event in patients with atrial fibrillation. Based on cur-
+rent evidence, it seems that most patients with atrial fibrillation should be treated with a rate
+control strategy unless there are specific reasons (e.g., patients with unbearable symptoms
+due to atrial fibrillation or patients who are hemodynamic ally unstable due to atrial fibrillation)
+justifying a rhythm control strategy. More randomized trials at low risk of bias and low risk of
+random errors are needed.
+Trial registration
+PROSPERO CRD42016051433
+Introduction
+Atrial fibrillation is the most common arrhythmia of the heart with a prevalence of approxi-
+mately 2% in the western world [1, 2]. Atrial fibrillation and atrial flutter are both associated
+with an increased risk of morbidity and death [3–9]. The risks of both cerebral stroke and
+heart failure are increased nearly fivefold in patients with atrial fibrillation and atrial flutter
+and about 20% of every stroke may be due to atrial fibrillation [3–8]. Atrial fibrillation and
+atrial flutter also have a significant impact on healthcare costs and account for approximately
+1% of the National Health Service budget in the United Kingdom and approximately 26 billion
+dollars of annual expenses in the United States [10, 11].
+Two different overall intervention strategies may be used for atrial fibrillation and atrial
+flutter–a rhythm control strategy and a rate control strategy [12, 13]. When using any rhythm
+control strategy, the aim is to obtain and maintain sinus rhythm, while the overall aim when
+using any rate control strategy is to lower the ventricular frequency [14].
+No former systematic review assessing the effects of rhythm control strategies versus rate
+control strategies for atrial fibrillation or atrial flutter has searched all relevant databases and
+has considered both risks of systematic errors and risks of random errors [15–18].
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 2 / 28
+[[p3]]
+Methods
+We conducted this systematic review based on the Preferred Reporting Items for Systematic
+Reviews and Meta-Analysis guidelines (PRISMA) (S1 Text) [19, 20], and the updated Co-
+chrane methodology used in this systematic review is described in detail in our protocol (S2
+Text), which was registered prior to the systematic literature search [18, 21, 22].
+Search strategy and selection criteria
+We searched for trials comparing any rhythm control strategy with any rate control strategy in
+patients with atrial fibrillation or atrial flutter. We searched for eligible trials published before
+November 2016 in the Cochrane Central Register of Controlled Trials (CENTRAL), MED-
+LINE, Embase, LILACS, Science Citation Index Expanded on Web of Science, BIOSIS, Google
+Scholar, clinicaltrials.gov, Trip Medical Database (TRIP), EU Clinical Trial Register (EU-
+CTR), Chinese Clinical Trial Registry (ChiCTR), and WHO International Clinical Trials Reg-
+istry Platform (ICTRP) [21]. The search strategy can be found in the supplementary material
+(S3 Text). Additionally, we checked the reference lists of relevant publications for any uniden-
+tified trials. Trials were included irrespective of trial design, setting, publication status, publica-
+tion year, language, and the reporting of one of our outcomes.
+Data extraction and risk of bias assessment
+Three authors (NJS, JF, EEN) independently selected relevant trials, and four authors (NJS, SS,
+JF, EEN) extracted data using a standardized data extraction sheet and assessed the risk of bias
+according to the Cochrane Handbook for Systematic Reviews of Interventions and Lundh
+et al. [18, 23]. Any discrepancies were discussed with a fifth review author (JCJ). We attempted
+to contact trial authors if relevant data were unclear or missing.
+Outcomes and subgroup analysis. Our primary outcomes were all-cause mortality, seri-
+ous adverse events (as defined by the ICH guidelines) [24], and quality of life. Our secondary
+outcomes were stroke and ejection fraction. All outcomes were analyzed as proportions of par-
+ticipants in each intervention group except for quality of life and ejection fraction which were
+both analyzed as continuous outcomes. For all outcomes, we used the trial results reported at
+maximal follow-up. However, if the trialists reported results at multiple time-points, we used
+the results reported at the time-point closest to 24 months.
+We planned the following subgroup analyses on our primary outcomes:
+• comparison of different types of rhythm control interventions;
+• comparison of different types of rate control interventions;
+• comparison of different mean ages of participants;
+• comparison of different durations of atrial fibrillation;
+• comparison of different durations of anticoagulation therapy;
+• comparison of participants with atrial fibrillation to participants with atrial flutter; and
+• comparison of trials only randomizing men to trials only randomizing women.
+Additionally, we performed a post-hoc subgroup analysis:
+• comparison of participants with heart failure to participants without heart failure.
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 3 / 28
+[[p4]]
+Assessment of statistical and clinical significance
+We performed our meta-analyses according to the recommendations stated in the Cochrane
+Handbook for Systematic Reviews of Interventions [18], Keus et al. [17], and the eight-step
+assessment suggested by Jakobsen et al. [15] for better validation of meta-analytic results in
+systematic reviews. Review Manager 5 and Stata 15 were used for all meta-analyses [25, 26].
+We used risk ratios (RR) for dichotomous outcomes and mean differences (MD) for continu-
+ous outcomes. We did not use standardized mean difference (SMD) when analyzing continu-
+ous outcomes due to the fact that the outcomes assessed were not homogeneous and the
+several methodological limitations of using this approach [18]. We performed both random-
+effects (DerSimonian-Laird model) and fixed-effect meta-analysis with the Mantel-Haenszel
+method and chose the most conservative result as our primary result [15]. The more conserva-
+tive result was the result with the highest P value and the widest 95% confidence interval (CI).
+If there was substantial discrepancy between the results of the two methods, we reported and
+discussed the results [15]. We used Trial Sequential Analysis (TSA) to control for random
+errors and reported TSA-adjusted CI if the cumulative Z-curves did not reach the futility area
+or passed the diversity-adjusted required information size (DARIS) [15, 16, 21, 22, 27–35].
+TSA estimates the DARIS (that is the number of participants needed in a meta-analysis to
+detect or reject a certain intervention effect). When analyzing dichotomous outcomes, we
+pragmatically anticipated an intervention effect of 15% risk ratio reduction (RRR). When ana-
+lyzing continuous outcomes, we pragmatically anticipated an intervention effect equal to the
+MD of the observed SD/2 [36]. Statistical heterogeneity was assessed by visual inspection of
+forest plots and by calculating inconsistency (I
+2
+) for traditional meta-analyses and diversity
+(D
+2
+) for TSA [31]. We calculated the 95% CI of the inconsistency (I
+2
+) with the TSA software
+[27]. Sensitivity analyses and subgroup analyses were conducted to explore the reasons for sub-
+stantial statistical heterogeneity [15]. We assessed the risk of publication bias in meta-analyses
+consisting of 10 trials or more with tests for funnel plot asymmetry. We assessed three primary
+outcomes and, hence, considered a P value of 0.025 or less as the threshold for statistical signif-
+icance for the primary outcomes [15, 37]. We assessed two secondary outcomes and, hence,
+considered a P value of 0.033 as the threshold for statistical significance for the secondary out-
+comes [15, 37]. We used ‘best-worst case’ analyses and ‘worst-best case’ analyses to assess the
+potential impact of missing data (incomplete outcome data bias) [15]. We calculated Bayes fac-
+tor to show if the meta-analysis results fitted better with the null hypotheses or the anticipated
+intervention effects [15]. We used GRADE to assess the quality of the body of evidence [15,
+38–40].
+Results
+Study characteristics
+n???????PU?XTQ?M?v??QT??
+trials with 26 trial comparisons including a total of 9354 participants (Fig 1) [41–96]. All trials
+were at high risk of bias (S1 Table). All trials included participants with atrial fibrillation and
+three trials included both participants with atrial fibrillation and flutter [50, 62, 86]. The indi-
+vidual trials used various types of rhythm control interventions and rate control interventions.
+The rhythm control interventions used were: amiodarone with or without electrical cardiover-
+sion (6/26 trial comparisons); not specified (6/26 trial comparisons); electrical cardioversion
+with antiarrhythmic drug therapy following sinus rhythm restoration (5/26 trial comparisons);
+catheter ablation (4/26 trial comparisons); antiarrhythmic therapy with or without electrical
+cardioversion (2/26 trial comparisons); ibutilide (1/26 trial comparisons); propafenone (1/26
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 4 / 28
+[[p5]]
+trial comparisons); and total endoscopic ablation (1/26 trial comparisons). The rate control
+interventions used were: beta-blockers, calcium channel blockers, digoxin, or a combination
+of these (11/26 trial comparisons); not specified (5/26 trial comparisons); AV-node ablation
+(4/26 trial comparisons); digoxin and/or beta blockers (2/26 trial comparisons); diltiazem (2/
+e?PM?oqhrl`??M?v??PU?XTQ????TU???QT?????M
+https://d oi.org/10.1371 /journal.pone. 0186856.g001
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 5 / 28
+[[p6]]
+26 trial comparisons); beta blockers, calcium channel blockers, digoxin, and/or AV-node abla-
+tion (1/26 trial comparisons); and digoxin, carvedilol, and/or bisoprolol (1/26 trial comparisons).
+We have summarized the inclusion- and exclusion criteria for each included trial in S2 Table
+and other trial characteristics in S3 Table. Additionally, we have summarized the characteristics
+of excluded studies [97–102] and characteristics of ongoing trials [103–105] in S3 Table.
+All-cause mortality
+18 trials randomizing a total of 8668 participants reported all-cause mortality. Meta-analysis
+showed no significant difference between rhythm control strategies and rate control strategies
+(RR, 1.05; 95% CI, 0.95 to 1.16; P = .35; I
+2
+= 0% (95% CI 0 to 33%); Bayes factor = 3438; Fig 2).
+Visual inspection of the forest plot showed no signs of heterogeneity (Fig 2). The TSA showed
+that there was not enough information to confirm or reject a RRR of 15% (TSA-adjusted CI
+0.90 to 1.22) (Fig 3). Incomplete outcome data bias alone had the potential to influence the
+results in the ‘worst-best case’-scenario (S1 and S2 Figs). Visual inspection of the funnel plot
+showed no clear signs of asymmetry (S3 Fig).
+Serious adverse events
+21 trials randomizing a total of 8789 participants reported the proportion of participants with
+a serious adverse event. Meta-analysis showed that rhythm control strategies versus rate con-
+trol strategies significantly increased the risk of a serious adverse event (RR, 1.10; 95% CI, 1.02
+to 1.18; P = 0.02; I
+2
+= 12% (95% CI 0 to 32%); Bayes factor = 1.05
+e9
+; Fig 4). Visual inspection of
+the forest plot did not show signs of heterogeneity (Fig 4). The TSA showed that there was not
+enough information to confirm or reject a RRR of 15% (TSA-adjusted CI 0.99 to 1.22) (Fig 5).
+Incomplete outcome data bias alone had the potential to influence the results in the ‘best-
+Fig 2. Fores t plot of the meta-analys is of all-caus e mortality. Meta-ana lysis showed no significant difference between rhythm control strategies and rate
+control strategies when assessing all-cause mortality.
+https://doi.org/10 .1371/journal.p one.0186856. g002
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 6 / 28
+[[p7]]
+worst case’-scenario (S4 and S5 Figs). Visual inspection of the funnel plot showed a bit asym-
+metry (S6 Fig), but Harbord’s test showed no significance (P = 0.63).
+We have summarized the specific types of serious adverse events in each trial in S4 Table.
+We did not include hospitalization for non-acute electrical cardioversion or hospitalization
+for elective antiarrhythmic drug loading as a serious adverse event, as readmission for non-
+acute electrical cardioversion and readmission for elective antiarrhythmic drug loading in
+most trials was mandated by the individual trial protocols (see ‘Discussion‘).
+The four primary components of the composite outcome serious adverse event (excluding
+all-cause mortality and stroke) were myocardial infarction, heart failure, ventricular tachycar-
+dia, and hospitalization (excluding hospitalization for non-acute electrical cardioversion and
+hospitalization for elective antiarrhythmic drug loading). Meta-analysis of either myocardial
+infarction, heart failure, ventricular tachycardia, or hospitalization (excluding hospitalization
+for non-acute electrical cardioversion and hospitalization for elective antiarrhythmic drug
+loading) showed no significant difference between rhythm control strategies and rate control
+strategies (S7–S10 Figs).
+Subgroup analysis for all-cause mortality and serious adverse events
+All the planned tests for subgroup differences when analyzing both all-cause mortality (S11–
+S15 Figs) and serious adverse events (S16–S20 Figs) showed no significant differences. Two of
+Fig 3. Trial Sequenti al Analysis of all-caus e mortality. Trial Sequential Analysis (TSA) showe d that there was not enough informati on to confirm or
+reject a risk ratio reduction of 15% (TSA-adju sted confidence interval 0.90 to 1.22). The Z-curve (the blue line) does not cross any boundaries.
+https://doi. org/10.1371/j ournal.pone .0186856.g00 3
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 7 / 28
+[[p8]]
+the planned subgroup analyses (comparison of participants with atrial fibrillation to those with
+atrial flutter; and comparison of trials only randomizing men to trials only randomizing
+women) were not possible to conduct due to lack of relevant data. The post hoc subgroup anal-
+ysis (comparison of participants with heart failure to participants without heart failure) also
+showed no significant differences when analyzing all-cause mortality (S21 Fig) and serious
+adverse events (S22 Fig).
+Quality of life
+Quality of life was only assessed in 13 out of 24 trials and different assessment scales were
+used, including SF-36, Minnesota Living with Heart Failure Questionnaire, Kansas City Car-
+diomyopathy Questionnaire, Psychological General Well-Being Index, and Mental Health
+Inventory. All trials reported standard deviations for their analyses. Hence, we did not need to
+impute standard deviations.
+Only data from SF-36 physical component score, SF-36 mental component score, and Min-
+nesota Living with Heart Failure Questionnaire could be used in meta-analyses. The only
+meta-analysis showing a statistically significant result was the analysis of the results of SF-36
+physical component score (MD, 6.93 points in favor of the rhythm control group; 95% CI, 2.25
+to 11.61; P = 0.004; I
+2
+= 95% (95% CI 94 to 96%); Bayes factor = 0.022; Fig 6). However, both
+visual inspection of the forest plot (Fig 6) and the statistical tests showed considerable hetero-
+geneity (I
+2
+= 95% (95% CI 94 to 96%)), and the TSA showed that there was not enough infor-
+mation to confirm or reject a MD of 4.81 points (TSA-adjusted CI -3.16 to 17.02) (Fig 7).
+Fig 4. Forest plot of the meta-ana lysis of serious adverse events. Meta-ana lysis showed that rhythm control strategies versus rate control strategie s
+significantl y increased the risk of a serious adverse event.
+https://do i.org/10.1371/j ournal.pone .0186856.g00 4
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 8 / 28
+[[p9]]
+Furthermore, incomplete outcome data bias alone had the potential to influence the results
+(S23 and S24 Figs). The remaining meta-analyses (analysis of SF-36 mental component score
+and Minnesota Living with Heart Failure Questionnaire) showed no significant differences
+(S25 and S26 Figs), and the TSAs showed that there was not enough information to confirm or
+Fig 5. Trial Sequenti al Analysis of serious adverse events . Trial Sequential Analysis (TSA) of serious adverse events showed that there was not
+enough informati on to confirm or reject a RRR of 15% (TSA-adju sted confidence interval 0.99 to 1.22). The Z-curve (the blue line) does not cross any
+boundaries.
+https://doi. org/10.1371/j ournal.pone .0186856.g00 5
+Fig 6. Forest plot of the meta-ana lysis of quality of life (the Short Form (36) physical componen t score (SF-36 PCS)). Meta-ana lysis showed that
+rhythm control strategie s versus rate control strategie s significantl y increased the quality of life measured by SF-36 PCS.
+https://do i.org/10.1371/j ournal.pone .0186856.g00 6
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 9 / 28
+[[p10]]
+reject our anticipated intervention effects (S27 Fig). We have summarized all these results in
+Table 1.
+Stroke
+13 trials randomizing a total of 8114 participants reported the proportion of participants with
+stroke. Meta-analysis showed no significant difference between rhythm control strategies ver-
+sus rate control strategies (RR, 1.04; 95% CI, 0.78 to 1.38; P = .78; I
+2
+= 9% (95% CI 0 to 44%);
+Fig 8). Visual inspection of the forest plot did not show signs of heterogeneity (Fig 8). The TSA
+showed that there was not enough information to confirm or reject a RRR of 15% (TSA-
+adjusted CI 0.33 to 3.28) (Fig 9). Incomplete outcome data bias alone did not have the potential
+to influence the results (S28 and S29 Figs).
+Ejection fraction
+Seven trials randomizing a total of 428 participants assessed the effects of rhythm control strat-
+egies versus rate control strategies on ejection fraction. Meta-analysis showed that rhythm con-
+trol strategies versus rate control strategies significantly increased the mean ejection fraction
+(MD, 4.20%; 95% CI, 0.54 to 7.87; P = 0.02; I
+2
+= 79% (95% CI 69 to 85%); Fig 10). Visual
+inspection of the forest plot showed some signs of heterogeneity (Fig 10). The TSA showed
+Fig 7. Trial Sequenti al Analysis of quality of life (the Short Form (36) physical compone nt score (SF-36 PCS)). Trial Sequen tial Analysis
+showed that there was not enough information to confirm or reject a mean differenc e of 4.81 points (TSA-adjus ted confidence interval -3.16 to 17.02).
+The Z-curve (the blue line) does not cross any boundaries.
+https://doi. org/10.1371/j ournal.pone .0186856.g00 7
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 10 / 28
+[[p11]]
+that there was not enough information to confirm or reject a MD of 4.20% (TSA-adjusted CI
+-2.37 to 10.77) (Fig 11). Incomplete outcome data bias alone had the potential to influence the
+results in the ‘worst-best case’ scenario (S30 and S31 Figs).
+We have summarized our main results in the Summary of Findings table (Table 2).
+Discussion
+v??QT??????XRTS???QU???
+control strategies versus rate control strategies. All trials and outcome results were at high risk
+of bias and the quality of the evidence according to GRADE was ‘very low’ (see Summary of
+Findings table (Table 2)).
+Table 1. Quality of life, results for each type of scale.
+Trials Participan ts Mean
+differen ce
+(points)
+95%
+confidenc e
+interval (CI)
+Trial
+Sequen tial
+Analysi s—
+adjusted CI
+P-
+value
+I
+2
+[95%
+CI]
+Bayes
+factor
+Best-wo rst
+case
+scenario (MD
+[95% CI])
+Worst-be st
+case
+scenario (MD
+[95% CI])
+SF-36 mental
+component score
+8 1796 3.33 -0.75 to 7.41 -4.47 to 11.13 0.11 93%
+[92 to
+95%]
+0.35 8.16 [5.45 to
+10.87]
+-1.25 [-8.55
+to 6.04]
+Minneso ta Living
+With Heart Failur e
+Questio nnaire
+6 404 -7.13 -16.19 to 1.94 - 0.12 95%
+[93 to
+96%]
+3.73 -8.51 [-17.84
+to 0.82]
+-5.41 [-14.55
+to 3.73]
+Kansas City
+Cardiomyo pathy
+Questio nnaire
+1 38 1.50 -9.78 to 12.78 - 0.79 - - - -
+Psycho logical
+General Well-Be ing
+Index
+1 56 -8.9 -18.16 to 0.36 - 0.06 - - - -
+Mental Health
+Inventory
+1 56 -0.4 -2.1 to 1.3 - 0.64 - - - -
+https://do i.org/10.1371/j ournal.pone .0186856.t001
+Fig 8. Forest plot of the meta-ana lysis of stroke. Meta-analy sis showed no significant difference between rhythm control strategie s and rate control
+strategie s when assessing stroke.
+https://do i.org/10.1371/j ournal.pone .0186856.g00 8
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 11 / 28
+[[p12]]
+Statement of principal findings
+The meta-analysis of serious adverse events showed that rhythm control strategies versus rate
+control strategies significantly increased the risk of serious adverse events by approximately
+10%, but TSA did not confirm this result. The increased risk of a serious adverse event did not
+seem to be driven by a particular component of the composite outcome. The meta-analyses of
+Fig 9. Trial Sequenti al Analysis of stroke. Trial Sequential Analysis (TSA) showed that there was not enough information to confirm or reject a risk
+ratio reduction of 15% (TSA-adju sted confidence interval 0.33 to 3.28). The Z-curve (the blue line) does not cross any boundaries.
+https://doi. org/10.1371/j ournal.pone .0186856.g00 9
+Fig 10. Forest plot of the meta-an alysis of ejection fraction. Meta-analy sis showed that rhythm control strategie s versus rate control strategie s
+significantl y increased the ejection fraction.
+https://do i.org/10.1371/j ournal.pone .0186856.g01 0
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 12 / 28
+[[p13]]
+quality of life (SF-36 physical component score) and ejection fraction both showed a statisti-
+cally significant effect in favor of the rhythm control group. However, TSAs showed that we
+did not have enough information to confirm or reject our anticipated intervention effects and
+the clinical relevance of an increase of 6.93 points on SF-36 physical component score and an
+increase of 4.20% in ejection fraction is questionable. No significant differences between
+rhythm control strategies and rate control strategies were found when assessing all-cause
+mortality, quality of life assessed by SF-36 mental component score, quality of life assessed by
+Minnesota Living with Heart Failure Questionnaire, or stroke–and all corresponding TSAs
+showed that there was not enough information to confirm or reject our anticipated interven-
+tion effects.
+Strengths and limitations of the systematic review
+Our review has several strengths. We included more participants than any previous review
+which gives us increased power and precision to detect any significant difference between our
+compared treatment strategies [21, 22]. We followed our protocol which was registered prior
+to the systematic literature search [21, 22]. Data were double-extracted by independent authors
+minimizing the risk of inaccurate data-extraction, and we assessed the risk of bias in all trials
+according to Cochrane [18]. We used GRADE to assess the quality of the evidence [38–40],
+TSA to assess the risks of random errors [15, 16, 21, 22, 27–35], the eight-step assessment
+Fig 11. Trial Sequent ial Analysis of ejection fraction. Trial Sequential Analysis (TSA) showed that there was not enough information to confirm or
+reject a mean difference of 4.20% (TSA-adju sted confidence interval -2.37 to 10.77). The Z-curve (the blue line) does not cross any boundaries.
+https://doi. org/10.1371/j ournal.pone .0186856.g01 1
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 13 / 28
+[[p14]]
+suggested by Jakobsen et al. to assess if the thresholds for significance were crossed [15], and
+sensitivity analyses (best-worst and worst-best) to test the potential impact of incomplete out-
+come data bias. Hence, this systematic review considered both risks of random errors and
+risks of systematic errors which adds further robustness to our results and conclusions.
+Another strength of our review is that we pragmatically accepted any rhythm control strategy
+and any rate control strategy–our results may therefore guide a clinician when choosing
+between the treatment strategies. The main result of this review is the apparent increased risk
+of a serious adverse event when using rhythm control strategies and the statistical heterogene-
+ity of this meta-analysis result was low (I
+2
+= 12% (95% CI 0 to 32%)). Hence, the included trials
+seem to show very similar results which increase the validity of the meta-analysis result.
+Table 2. Summary of Findings table.
+Summary of Findings table
+Outcomes Anticipa ted absolute
+effects
+Relative effect (Trial
+Sequential
+Analysis -adjusted
+confidence interval )
+№ of particip ants
+(trials)
+Quality of the evidence
+(GRADE)
+Comments
+Risk with
+rhythm
+control
+strategy
+Risk with
+rate control
+strategy
+All-cause
+mortality
+141 per
+1000
+134 per
+1000
+1.05 (0.90 to 1.122) 8668 (18 trials) ⊝⊝⊝ - Very low quality
+of eviden ce caused by risk
+of bias (-2) and imprecis ion
+(-1).
+Trial Sequent ial Analysis showed
+that there was not enough
+information to confirm or reject a
+RRR of 15% or more. All trials had
+high risk of bias, mostly because
+of ‘blinding of participan ts and
+personn el’, ‘incompl ete outcome
+data bias’, and ‘for-profit bias’.
+Serious
+adverse
+events
+462 per
+1000
+419 per
+1000
+1.10 (0.99 to 1.22) 8789 (21 trials) ⊝⊝⊝ - Very low quality
+of eviden ce caused by risk
+of bias (-2) and imprecis ion
+(-1).
+Trial Sequent ial Analysis showed
+that there was not enough
+information to confirm or reject a
+RRR of 15% or more. All trials had
+high risk of bias, mostly because
+of ‘blinding of participan ts and
+personn el’, ‘incompl ete outcome
+data bias’, and ‘for-profit bias’.
+Quality of
+life
+Quality of life showed a significa nt effect of rhythm
+control versus rate control on the SF-36 physical
+componen t score (MD 6.93, Trial Sequent ial
+Analysis-a djusted confidenc e interval -3.16 to
+17.02).
+1796 (8 trials) for SF-
+36 physical
+component score
+⊝⊝⊝ - Very low quality
+of eviden ce caused by risk
+of bias (-2), imprecis ion
+(-1), and inconsis tency
+(-1).
+Trial Sequenti al Analysis for all 3
+meta-a nalyses showed that there
+was not enough information to
+confirm or reject our anticipated
+interventio n effects. All trials had
+high risk of bias, mostly because
+of ‘blinding of participan ts and
+personn el’, ‘incompl ete outcome
+data bias’, and ‘for-profit bias’. All
+meta-analy sis had high levels of
+heterogen eity. Howeve r, the
+differences were mostly between
+low and high intervention effects
+(i.e., not very serious
+inconsistenc y).
+The meta-analy ses of SF-36 mental component
+score showed nonsignifican t results (MD 3.33,
+Trial Sequent ial Analysis -adjusted confidenc e
+interval -4.47 to 11.13).
+1796 (8 trials) for SF-
+36 mental
+component score
+The meta-a nalysis of Minnesota Living With Heart
+Failure Questionnai re showed nonsignifi cant
+results (MD -7.13, 95% CI -16.19 to 1.94).
+404 (6 trials) for
+Minnesot a Living
+With Heart Failure
+Questio nnaire
+Stroke 35 per 1000 34 per 1000 1.04 (0.33 to 3.28) 8114 (13 trials) ⊝⊝⊝ - Very low quality
+of eviden ce caused by risk
+of bias (-2), imprecis ion
+(-1), and public ation bias
+(-1).
+Trial Sequent ial Analysis showed
+that there was not enough
+information to confirm or reject a
+RRR of 15% or more. All trials had
+high risk of bias, mostly because
+of ‘blinding of participan ts and
+personn el’, ‘incompl ete outcome
+data bias’, and ‘for-profit bias’.
+(Continue d )
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 14 / 28
+[[p15]]
+As mentioned in the results section, we did not plan to include hospitalization for non-
+acute electrical cardioversion or hospitalization for elective antiarrhythmic drug loading as a
+serious adverse event, but it might be argued that any hospitalization ought to be considered a
+serious adverse event [24]. If we had included hospitalization for non-acute electrical cardio-
+version and hospitalization for elective antiarrhythmic drug loading, which in multiple trials
+were mandated by their protocol, the increased risk of a serious adverse event in the rhythm
+control group would be even greater. A post hoc meta-analysis confirmed this assumption
+(S32 Fig). Our results after excluding hospitalization for non-acute electrical cardioversion
+and hospitalization for elective antiarrhythmic drug loading as a serious adverse event were
+still significant which also increase the validity of our results.
+Our review also has several limitations. All trials were at high risk of bias and especially the
+risk of incomplete blinding of participants and personnel and for-profit bias might bias our
+review results. Our assessment of especially publication bias was also uncertain, as a relatively
+low number of trials were included. Furthermore, some of the performed meta-analyses had
+considerable statistical heterogeneity. Hence, publication bias and heterogeneity might further
+bias our results. Large meta-epidemiological studies have shown that high risks of bias tend to
+overestimate benefits and underestimate harms of experimental interventions [106–112]. We
+hypothesized that the rhythm control strategy in most trials may be regarded as the experi-
+mental group and that the risk of a serious adverse event when using rhythm control strategies
+might be even higher than our results show due to the risk of bias. When assessing the overall
+quality of the available evidence, GRADE assessment showed that the quality of the evidence
+was ‘very low’ for all outcomes, mostly due to risk of bias, imprecision, and inconsistency (see
+Summary of Findings table (Table 2)). Another limitation of our present review is the use of a
+composite outcome such as serious adverse events. A potential limitation when using compos-
+ite outcomes is that each component of a composite outcome (in this case serious adverse
+events) will not necessarily have similar degrees of severity and will not be affected similarly by
+Table 2. (Continue d )
+Summary of Findings table
+Outcomes Anticipa ted absolute
+effects
+Relative effect (Trial
+Sequential
+Analysis -adjusted
+confidence interval )
+№ of particip ants
+(trials)
+Quality of the evidence
+(GRADE)
+Comments
+Risk with
+rhythm
+control
+strategy
+Risk with
+rate control
+strategy
+Ejection
+fraction
+Rhythm control strategies versus rate control
+strategies significa ntly increased the mean
+ejection fraction (MD 4.20, Trial Sequenti al
+Analysis-a djusted confidenc e interval -2.37 to
+10.77).
+428 (7 trials) ⊝⊝⊝ - Very low quality
+of eviden ce caused by risk
+of bias (-2), imprecis ion
+(-1), and inconsis tency
+(-1).
+Trial Sequent ial Analysis showed
+that there was not enough
+informatio n to confirm or reject our
+anticipated intervent ion effects. All
+trials had high risk of bias, mostly
+because of ‘blindin g of participant s
+and person nel’, ‘incomplet e
+outcome data bias’, and ‘for-profit
+bias’. All meta-a nalysis had high
+levels of heterog eneity. However,
+the difference s were mostly
+between low and high intervent ion
+effects (i.e., not very serious
+inconsistenc y).
+Summar y of Findings table based on GRADE [15, 38–40]. The Summary of Findings table summarizes our main results and use five GRADE criteria (risk of
+bias; inconsistenc y of results; indirectne ss of evidence; imprecisi on; and publication bias) to assess the quality of the body of evidence.
+https://do i.org/10.1371/j ournal.pone .0186856.t002
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 15 / 28
+[[p16]]
+the interventions [113]. ‘True’ differences in severity between compared groups might there-
+fore not be reflected in review results when using composite outcomes [113]. Several of the
+included trials did not specify the type of serious adverse events but it was, e.g., often just
+reported that a given patient was hospitalized (S4 Table). Hence, it was difficult to assess sever-
+ity differences between the compared groups when assessing risks of serious adverse events.
+We believe that the clinical relevance of the outcome ‘serious adverse events’ and the resulting
+increased statistical power when using serious adverse events as an outcome justifies the use of
+serious adverse events as a primary outcome, but the interpretative limitations ought to be
+considered. A further limitation of our review is that we considered rhythm control strategies
+and rate control strategies as two goal oriented intervention strategies. Due to widely varying
+interventions within the two groups, we were not able to assess the effects of each single inter-
+vention. However, even though the specific treatment elements of both rhythm control strate-
+gies and rate control strategies differed across trials (S3 Table), our results on both all-cause
+mortality and serious adverse events showed very limited statistical heterogeneity and test for
+subgroup differences showed no significant differences. Furthermore, our results show an
+averaged effect and if certain specific treatment elements have beneficial effects that differ
+from our overall meta-analysis results then other treatment elements must have more harmful
+effects. Nevertheless, it might be that certain single treatment elements have effects that are not
+shown by our analyses. The results on quality of life and ejection fraction had very large
+degrees of statistical heterogeneity and were especially at high risk of selective outcome report-
+ing bias. Accordingly, these results should be interpreted with great caution.
+The higher risk of a serious adverse event in the rhythm control group might be caused by
+incorrect use of anticoagulation therapy in the rhythm control group, i.e., physicians might
+avoid prescribing appropriate anticoagulation therapy if the patient has obtained sinus
+rhythm. We performed several subgroup analyses comparing trials with different recommen-
+dations for anticoagulation therapy (anticoagulation therapy until sinus rhythm for at least 4
+weeks compared to anticoagulation therapy until sinus rhythm for at least 12 weeks compared
+to anticoagulation therapy until end of follow-up) (S20 Fig). No subgroup differences were
+found. Additionally, we found no difference between rhythm control strategies and rate con-
+trol strategies when assessing stroke and the point estimate was very close to 1.00 (1.04) (Fig
+8). If the participants in the rhythm control group had received insufficient anticoagulation
+therapy, we would have expected a higher risk of stroke in the rhythm control group.
+Strengths and limitations in relation to other systematic reviews and
+observational studies
+We have identified multiple systematic reviews of randomized clinical trials assessing the
+effects of rhythm control strategies versus rate control strategies in patients with atrial fibrilla-
+tion or atrial flutter [114–121]. The most recent review, made by Al-Khatib et al., was pub-
+lished in 2014 [114]. They included 16 trials randomizing 7608 participants and showed
+comparable efficacy of rhythm control strategies and rate control strategies [114]. The other
+previous reviews showed similar findings [115–119, 121], except Testa et al. who showed that
+rhythm control strategies versus rate control strategies significantly increased the risk of the
+combined outcome of all-cause mortality and stroke by OR at 1.15 [120]. However, their
+meta-analysis only included five trials randomizing 5239 participants [120]. We did not plan
+to assess this composite outcome but a post hoc meta-analysis assessing this composite out-
+come did not show any significant difference between rhythm control strategies and rate con-
+trol strategies (S33 Fig). Our present review is the first systematic review of randomized
+clinical trials showing that rhythm control strategies versus rate control strategies significantly
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 16 / 28
+[[p17]]
+increases the risk of a serious adverse event. Furthermore, no clinically significant beneficial
+effect of rhythm control strategies versus rate control strategies was found.
+We have also identified multiple observational studies assessing the effects of rhythm con-
+trol strategies versus rate control strategies in patients with atrial fibrillation or atrial flutter
+[122–125], but these studies showed conflicting results. Comparable to our findings, Noheria
+et al. included 6988 participants and showed comparable efficacy of rhythm control strategies
+and rate control strategies when assessing all-cause mortality, heart failure, and stroke, but
+rhythm control strategies significantly increased the risk of cardiovascular hospitalizations
+[122]. Contrary to our findings, Ionescu-Ittu et al. included 26 130 participants and showed
+comparable efficacy of the strategies when assessing all-cause mortality within four years of
+treatment onset, but five and eight years after treatment onset rate control strategies signifi-
+cantly increased the risk of dying [123]. Furthermore, Camm et al. included 5604 participants
+and showed that rhythm control strategies were superior to rate control strategies [124]. A
+fourth study, Purmah et al., showed comparable efficacy of the strategies when assessing all-
+cause mortality [125]. The different results between these observational studies might be
+caused by, e.g., different inclusion- and exclusion criteria, baseline confounding factors, and
+confounding by unmeasured variables [113, 126]. Accordingly, observational studies may or
+may not support our findings.
+Comparison to current guidelines and recent narrative reviews
+Current guidelines and recent narrative reviews recommend that a rate control strategy should
+be used in most patients, while a rhythm control strategy is indicated only to improve symp-
+toms in patients who remain symptomatic on adequate rate control therapy [12, 13, 127–129].
+Our results confirm this recommendation and further indicate that rhythm control strategies
+seem to be more harmful than rate control strategies without any meaningful beneficial effect
+of rhythm control strategies. Nevertheless, January et al. reports that a rhythm control strategy
+might be favored in specific patient subgroups. We performed several relevant subgroup analy-
+ses and found no significant differences. Moreover, no randomized clinical trial has investi-
+gated the effect of rhythm control strategies versus rate control strategies in young patients,
+and the other subgroup analyses had limited data. Hence, we were not able to investigate if spe-
+cific patient subgroups differed compared to our main results.
+The possible contribution of ongoing trials
+We identified eight ongoing trials (see S3 Table) that might contribute to the current evidence
+on rhythm control strategies versus rate control strategies for atrial fibrillation [103–105].
+These ongoing trials will contribute to the evidence on all-cause mortality, hospitalization,
+stroke, quality of life, and ejection fraction. Furthermore, AFARC-LVF (NCT02509754),
+EAST-AFNET 4 [103], and RAFT-AF [105] will focus on the effect of catheter ablation as a
+rhythm control strategy. These three trials will provide evidence on whether or not catheter
+ablation is superior to rate control. All ongoing and future trials should be conducted with low
+risk of systematic error and low risk of random errors, and ought to be designed and reported
+according to the SPIRIT and CONSORT guidelines [130, 131].
+Conclusions
+There might be specific reasons why certain patients with atrial fibrillation ought to be offered
+a rhythm control strategy aiming at obtaining and maintaining sinus rhythm (e.g., patients
+with unbearable symptoms due to atrial fibrillation, patients who are hemodynamically unsta-
+ble due to atrial fibrillation, or patients who are symptomatic even after adequate rate control).
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 17 / 28
+[[p18]]
+Nevertheless, a rhythm control strategy often includes multiple interventions (e.g., antiar-
+rhythmic therapy, electrical cardioversion, etc.) and our results show that rhythm control strat-
+egies seem to offer more harm than benefit in patients with atrial fibrillation. We conclude
+that more randomized clinical trials with low risk of bias and low risk of play of chance are
+needed, but based on current evidence, it seems that most patients with atrial fibrillation
+should be treated with a rate control strategy unless there are specific reasons justifying a
+rhythm control strategy.
+Differences between the protocol and the review
+We changed our subgroup “age of participants: 0 to 59 years, 60–79 years, and above 80 years”
+to “mean age of the participants: 0 to 59 years, 60–79 years, and above 80 years”, as the former
+was not possible to conduct due to lack of data.
+Supporting information
+S1 Text. PRISMA checklist.
+(DOCX)
+S2 Text. Prepublished protocol for this systematic review.
+(PDF)
+S3 Text. Search strategy for MEDLINE (OVIDSP; 1946 to October 2016).
+(PDF)
+S1 Fig. Forest plot of ‘best-worst case’ scenario for all-cause mortality.
+(PDF)
+S2 Fig. Forest plot of ‘worst-best case’ scenario for all-cause mortality.
+(PDF)
+S3 Fig. Funnel plot of all-cause mortality.
+(PDF)
+S4 Fig. Forest plot of ‘best-worst case’ scenario for serious adverse events.
+(PDF)
+S5 Fig. Forest plot of ‘worst-best case’ scenario for serious adverse events.
+(PDF)
+S6 Fig. Funnel plot for serious adverse events.
+(PDF)
+S7 Fig. Forest plot for myocardial infarction.
+(PDF)
+S8 Fig. Forest plot for heart failure.
+(PDF)
+S9 Fig. Forest plot for ventricular tachycardia.
+(PDF)
+S10 Fig. Forest plot for hospitalization (excluding hospitalization for non-acute electrical
+cardioversion and hospitalization for elective antiarrhythmic drug loading).
+(PDF)
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 18 / 28
+[[p19]]
+S11 Fig. Forest plot of the comparison of different types of rhythm control interventions
+for all-cause mortality.
+(PDF)
+S12 Fig. Forest plot of the comparison of different types of rate control interventions for
+all-cause mortality.
+(PDF)
+S13 Fig. Forest plot of the comparison of trials with different mean ages for all-cause mor-
+tality.
+(PDF)
+S14 Fig. Forest plot of the comparison of different durations of atrial fibrillation for all-
+cause mortality.
+(PDF)
+S15 Fig. Forest plot of the comparison of different durations of anticoagulation therapy
+for all-cause mortality.
+(PDF)
+S16 Fig. Forest plot of the comparison of different types of rhythm control interventions
+for serious adverse events.
+(PDF)
+S17 Fig. Forest plot of the comparison of different types of rate control interventions for
+serious adverse events.
+(PDF)
+S18 Fig. Forest plot of the comparison of trials with different mean ages for serious adverse
+events.
+(PDF)
+S19 Fig. Forest plot of the comparison of trials with different durations of atrial fibrilla-
+tion for serious adverse events.
+(PDF)
+S20 Fig. Forest plot of the comparison of trials with different durations of anticoagulation
+therapy for serious adverse events.
+(PDF)
+S21 Fig. Forest plot of the comparison of participants with heart failure to participants
+without heart failure for all-cause mortality.
+(PDF)
+S22 Fig. Forest plot of the comparison of participants with heart failure to participants
+without heart failure for serious adverse events.
+(PDF)
+S23 Fig. Forest plot of ‘best-worst case’ scenario for quality of life (SF-36 physical compo-
+nent score).
+(PDF)
+S24 Fig. Forest plot of ‘worst-best case’ scenario for quality of life (SF-36 physical compo-
+nent score).
+(PDF)
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 19 / 28
+[[p20]]
+S25 Fig. Forest plot for quality of life (SF-36 mental component score).
+(PDF)
+S26 Fig. Forest plot for quality of life (Minnesota Living With Heart Failure Question-
+naire).
+(PDF)
+S27 Fig. Trial Sequential Analysis for Quality of life (SF-36 mental component score).
+(PNG)
+S28 Fig. Forest plot of ‘best-worst case’ scenario for stroke.
+(PDF)
+S29 Fig. Forest plot of ‘worst-best case’ scenario for stroke.
+(PDF)
+S30 Fig. Forest plot of ‘best-worst case’ scenario for ejection fraction.
+(PDF)
+S31 Fig. Forest plot of ‘worst-best case’ scenario for ejection fraction.
+(PDF)
+S32 Fig. Forest plot for serious adverse events with hospitalization (including hospitaliza-
+tion for non-acute electrical cardioversion and hospitalization for elective antiarrhythmic
+drug loading).
+(PDF)
+S33 Fig. Forest plot of the composite outcome for all-cause mortality and stroke.
+(PDF)
+S1 Table. Bias risk assessment of each included trial.
+(DOCX)
+S2 Table. Inclusion- and exclusion criteria for each included trial.
+(DOCX)
+S3 Table. Trial characteristics of each included, excluded, and ongoing trial.
+(DOCX)
+S4 Table. Specific types of serious adverse events in each trial.
+(DOCX)
+Acknowledgmen ts
+The expert help from Sarah Louise Klingenberg (Information Specialist, The Cochrane
+Hepato-Biliary Group, Copenhagen Trial Unit, Copenhagen, Denmark) in making the search
+strategy is hugely appreciated. We also thank Dimitrinka Nikolova (Managing Editor, The
+Cochrane Hepato-Biliary Group, Copenhagen Trial Unit, Copenhagen, Denmark), for help
+with translation of a Russian study.
+Author Contributions
+Conceptualization: Naqash J. Sethi, Janus C. Jakobsen.
+Formal analysis: Naqash J. Sethi.
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 20 / 28
+[[p21]]
+Investigation: Naqash J. Sethi, Emil E. Nielsen, Sanam Safi, Christian Gluud, Janus C.
+Jakobsen.
+Methodology: Naqash J. Sethi, Joshua Feinberg, Emil E. Nielsen, Sanam Safi, Christian Gluud,
+Janus C. Jakobsen.
+Project administration: Naqash J. Sethi, Christian Gluud, Janus C. Jakobsen.
+Supervision: Christian Gluud, Janus C. Jakobsen.
+Validation: Naqash J. Sethi, Joshua Feinberg, Christian Gluud, Janus C. Jakobsen.
+Visualization: Naqash J. Sethi, Emil E. Nielsen, Sanam Safi, Christian Gluud, Janus C.
+Jakobsen.
+Writing – original draft: Naqash J. Sethi.
+Writing – review & editing: Naqash J. Sethi, Joshua Feinberg, Emil E. Nielsen, Sanam Safi,
+Christian Gluud, Janus C. Jakobsen.
+References
+1. Pistoia F, Sacco S, Tiseo C, Degan D, Ornello R, Carolei A. The epidemiology of atrial fibrillation and
+stroke. Cardiology Clinics . 2016; 34(2):255– 68. https://doi. org/10.1016/j .ccl.2015.12 .002 PMID:
+27150174
+2. Camm AJ, Lip GY, De Caterina R, Savelie va I, Atar D, Hohnloser SH, et al. 2012 focused update of
+the ESC Guideline s for the managemen t of atrial fibrillation: an update of the 2010 ESC Guideline s for
+the managemen t of atrial fibrillation. Europac e. 2012; 14(10):138 5–413. https:// doi.org/10.10 93/
+europace/eus 305 PMID: 22923145
+3. Stewart S, Hart CL, Hole DJ, McMur ray JJ. A popula tion-based study of the long-term risks associated
+with atrial fibrillation: 20-year follow-up of the Renfrew /Paisley study. American Journal of Medicine.
+2002; 113(5):359 –64. PMID: 124015 29
+4. Benjamin EJ, Wolf PA, D’Agostino RB, Silbershatz H, Kannel WB, Levy D. Impact of atrial fibrillation
+on the risk of death: the Framingh am Heart Study. Circulation . 1998; 98(10):946 –52. PMID: 973751 3
+5. Rahman F, Wang N, Yin X, Ellinor PT, Lubitz SA, LeLorier PA, et al. Atrial flutter: clinical risk factors
+and adverse outcom es in the Framingh am Heart Study. Heart Rhythm. 2016; 13(1):233– 40. https://
+doi.org/10.10 16/j.hrth m.2015.07 .031 PMID: 26226213
+6. Healey JS, Oldgren J, Ezekow itz M, Zhu J, Pais P, Wang J, et al. Occurrence of death and stroke in
+patients in 47 countrie s 1 year after presenting with atrial fibrillation: a cohort study. Lancet. 2016.
+7. Wolf PA, Abbott RD, Kannel WB. Atrial fibrillation as an independent risk factor for stroke: the Framing-
+ham Study. Stroke. 1991; 22(8):983– 8. PMID: 1866765
+8. Odutayo A, Wong CX, Hsiao AJ, Hopewell S, Altman DG, Emdin CA. Atrial fibrillation and risks of car-
+diovascular disease, renal disease, and death: systematic review and meta-ana lysis. BMJ. 2016; 354:
+i4482. https://doi.or g/10.113 6/bmj.i4482 PMID: 27599725
+9. Go AS, Hylek EM, Phillips KA, Chang Y, Henault LE, Selby JV, et al. Prevalence of diagnosed atrial
+fibrillation in adults: national implication s for rhythm managem ent and stroke prevention: the Anticoa-
+gulation and Risk Factors in Atrial Fibrillation (ATRIA) Study. JAMA. 2001; 285(18):23 70–5. PMID:
+11343485
+10. Stewart S, Murphy NF, Walker A, McGuire A, McMurray JJ. Cost of an emerging epidemi c: an eco-
+nomic analysis of atrial fibrillation in the UK. Heart. 2004; 90(3):286– 92. https://doi.or g/10.1136/ hrt.
+2002.008748 PMID: 149660 48
+11. Mozaffarian D, Benjam in EJ, Go AS, Arnett DK, Blaha MJ, Cushman M, et al. Heart disease and
+stroke statist ics-2016 Update: a report from the American Heart Association . Circulation . 2016; 133
+(4):e38–36 0. https://doi.or g/10.116 1/CIR.00000 00000000350 PMID: 266735 58
+12. January CT, Wann LS, Alpert JS, Calkins H, Cigarroa JE, Cleveland JC Jr., et al. 2014 AHA/ACC/
+HRS guideline for the managemen t of patients with atrial fibrillation: a report of the American College
+of Cardiology /American Heart Association Task Force on Practice Guideline s and the Heart Rhythm
+Society. Journal of the American College of Cardiology. 2014; 64(21):e1– 76. https://doi.o rg/10.1016/j.
+jacc.2014.0 3.022 PMID: 246856 69
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 21 / 28
+[[p22]]
+13. Kirchhof P, Benussi S, Kotecha D, Ahlsson A, Atar D, Casadei B, et al. 2016 ESC Guideline s for the
+managemen t of atrial fibrillation develope d in collabor ation with EACTS: The Task Force for the man-
+agement of atrial fibrillation of the European Society of Cardiology (ESC) . Developed with the special
+contribution of the European Heart Rhythm Association (EHRA) of the ESC. Endorsed by the Euro-
+pean Stroke Organisatio n (ESO). European Heart Journal . 2016.
+14. Markides V, Schilling RJ. Atrial fibrillation: classification, pathophysi ology, mechanis ms and drug treat-
+ment. Heart. 2003; 89(8):939 –43. PMID: 12860883
+15. Jakobsen JC, Wetterslev J, Winkel P, Lange T, Gluud C. Threshol ds for statist ical and clinical signifi-
+cance in systematic reviews with meta-ana lytic methods. BMC Medical Research Methodol ogy. 2014;
+14:120. https://doi.or g/10.118 6/1471-2288 -14-120 PMID: 254164 19
+16. Wetterslev J, Thorlun d K, Brok J, Gluud C. Trial sequential analysis may establish when firm evidence
+is reached in cumulativ e meta-analy sis. Journal of Clinical Epidem iology. 2008; 61(1):64–7 5. https://
+doi.org/10.10 16/j.jclin epi.2007.03.01 3 PMID: 18083463
+17. Keus F, Wetterslev J, Gluud C, van Laarhoven CJ. Evidence at a glance: error matrix approac h for
+overviewing available evidence. BMC Medical Research Methodol ogy. 2010; 10:90. https:// doi.org/10.
+1186/1471-2 288-10-90 PMID: 20920306
+18. Higgins J, Green S. Cochrane Handbook for Systematic Reviews of Interventi ons Version 5.1.0 The
+Cochrane Collaboration. 2011; www.handb ook.cochran e.org.
+19. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for systematic reviews and meta-
+analyses: the PRISMA statement . Annals of Internal Medicine. 2009; 151(4):264 –9, w64. PMID:
+19622511
+20. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gotzsche PC, Ioannidis JP, et al. The PRISMA statement
+for reporting systematic reviews and meta-ana lyses of studies that evaluate healthcare interven tions:
+explanation and elaboration . BMJ. 2009; 339:b2700. https:// doi.org/10.11 36/bmj.b2 700 PMID:
+19622552
+21. Sethi N, Safi S, Nielsen E, Feinber g J, Gluud C, Jakobsen JC. Interventi ons aiming at rate control ver-
+sus rhythm control for atrial fibrillation and atrial flutter. A protocol for a systematic review with meta-
+analysis and trial sequential analysis. PROSP ERO. 2016:CR D4201605 1433.
+22. Sethi NJ, Safi S, Nielsen EE, Feinberg J, Gluud C, Jakobsen JC. The effects of rhythm control strate-
+gies versus rate control strategie s for atrial fibrillation and atrial flutter: a protocol for a systematic
+review with meta-ana lysis and Trial Sequential Analysis. Systemat ic Reviews. 2017; 6(1):47. https://
+doi.org/10.11 86/s1364 3-017-044 9-z PMID: 282647 15
+23. Lundh A, Lexchin J, Mintzes B, Schroll JB, Bero L. Industry sponsorshi p and research outcome.
+Cochrane Database of Systemat ic Reviews. 2017; 2:Mr0000 33. https://doi.or g/10.100 2/14651858.
+MR000033.pu b3 PMID: 28207928
+24. International conferen ce on harmonis ation of technical requirements for registration of pharma ceuti-
+cals for human use (ICH) adopts consolidat ed guideline on good clinical practice in the conduct of clini-
+cal trials on medicinal products for human use. International Digest of Health Legislati on. 1997; 48
+(2):231–4. PMID: 11656783
+25. Review Manager (RevMan) [Computer program] . Version 5.3. Copenhag en: The Nordic Cochrane
+Centre, The Cochrane Collaboration. 2014.
+26. StataCorp. Stata: Release 14. Statistical Software. College Station, TX: StataCorp LP. 2014; http://
+www.stata.c om.
+27. Copenhag en Trial Unit. TSA— Trial Seque ntial Analysis. http://www.c tu.dk/tsa/.
+28. Brok J, Thorlund K, Gluud C, Wetterslev J. Trial sequential analysis reveals insufficient informati on
+size and potentia lly false positive results in many meta-ana lyses. Journal of Clinical Epidemiology .
+2008; 61(8):763– 9. https://doi.o rg/10.1016/j.jcli nepi.20 07.10.007 PMID: 184110 40
+29. Brok J, Thorlund K, Wetterslev J, Gluud C. Apparently conclusiv e meta-analy ses may be inconclusiv e
+—Trial sequential analysis adjustment of random error risk due to repetit ive testing of accumulating
+data in apparently conclusiv e neonatal meta-ana lyses. International Journal of Epidemiology . 2009;
+38(1):287– 98. https://doi.or g/10.109 3/ije/dyn188 PMID: 18824466
+30. Thorlund K, Devereaux PJ, Wetterslev J, Guyatt G, Ioannidis JP, Thabane L, et al. Can trial sequentia l
+monitoring boundaries reduce spurious inferen ces from meta-analy ses? Interna tional Journal of Epi-
+demiology . 2009; 38(1):276– 86. https://do i.org/10.1093 /ije/dyn17 9 PMID: 18824467
+31. Wetterslev J, Thorlund K, Brok J, Gluud C. Estimating required information size by quantifyin g diversity
+in random-effec ts model meta-analy ses. BMC Medical Researc h Methodology . 2009; 9:86. https://doi.
+org/10.1186/1 471-2288- 9-86 PMID: 200420 80
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 22 / 28
+[[p23]]
+32. Thorlund K, Anema A, Mills E. Interpreting meta-ana lysis according to the adequac y of sample size.
+An example using isoniazid chemoprop hylaxis for tubercul osis in purified protein derivative negative
+HIV-infected individuals . Clinical Epidem iology. 2010; 2:57–66. PMID: 208651 04
+33. Thorlund K EJ, Wetterslev J, Brok J, Imberger G, Gluud C. User manual for Trial Sequential Analysis
+(TSA). 2011. http://www. ctu.dk/tsa/f iles/tsa_manu al.pdf.
+34. Imberger G, Gluud C, Boylan J, Wetterslev J. Systemat ic reviews of anesthesio logic interven tions
+reported as statistically significant: problems with power, precision, and type 1 error protection. Anes-
+thesia and Analges ia. 2015; 121(6):161 1–22. https:// doi.org/10.12 13/ANE.0 00000000000 0892 PMID:
+26579662
+35. Imberger G, Thorlund K, Gluud C, Wetterslev J. False-po sitive findings in Cochrane meta-ana lyses
+with and without applicati on of trial sequentia l analysis : an empirical review. BMJ Open. 2016; 6(8):
+e011890. https://doi.or g/10.113 6/bmjope n-2016-01 1890 PMID: 27519923
+36. Norman GR, Sloan JA, Wyrwi ch KW. Interpret ation of changes in health-rela ted quality of life: the
+remarkable universal ity of half a standard deviation . Medical Care. 2003; 41(5):582 –92. https://doi.
+org/10.1097/0 1.MLR.0 000062554.74 615.4C PMID: 12719681
+37. Jakobsen JC, Wetterslev J, Lange T, Gluud C. Viewpoint : taking into account risks of random errors
+when analysing multiple outcomes in systematic reviews . Cochrane Database of Systemat ic Reviews.
+2016; 3:Ed000111. https:// doi.org/10.10 02/1465 1858.ED00 0111 PMID: 27030037
+38. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-C oello P, et al. GRADE: an emergin g
+consensus on rating quality of evidence and strength of recommenda tions. BMJ. 2008; 336
+(7650):924 –6. https://doi.or g/10.113 6/bmj.394 89.470347.AD PMID: 18436948
+39. Schunema nn HJ, Best D, Vist G, Oxman AD. Letters, number s, symbols and words: how to communi-
+cate grades of evidence and recommenda tions. CMAJ. 2003; 169(7):677 –80. PMID: 14517128
+40. Guyatt GH, Oxman AD, Schunema nn HJ, Tugwell P, Knottnerus A. GRADE guideline s: a new series
+of articles in the Journal of Clinical Epidemiology . Journal of Clinical Epidemiology . 2011; 64(4):380– 2.
+https://doi.or g/10.1016/ j.jclinepi.2010 .09.011 PMID: 21185693
+41. Roy D, Talajic M, Nattel S, Wyse DG, Dorian P, Lee KL, et al. Rhythm control versus rate control for
+atrial fibrillation and heart failure. NEJM. 2008; 358(25):26 67–77. https://doi.or g/10.105 6/
+NEJMoa0708 789 PMID: 18565859
+42. Suman-Ho rduna I, Roy D, Frasure-Smith N, Talajic M, Lesperanc e F, Blondeau L, et al. Quality of life
+and functional capacity in patients with atrial fibrillation and congestive heart failure. Journal of the
+American College of Cardiolog y. 2013; 61(4):455– 60. https://doi.or g/10.1016/ j.jacc.2012.1 0.031
+PMID: 23265334
+43. Rationale and design of a study assessin g treatment strategie s of atrial fibrillation in patients with heart
+failure: the Atrial Fibrillation and Congestive Heart Failure (AF-CHF) trial. American Heart Journal .
+2002; 144(4):597 –607. PMID: 12360154
+44. Talajic M, Khairy P, Levesque S, Connolly SJ, Dorian P, Dubuc M, et al. Maintenanc e of sinus rhythm
+and survival in patients with heart failure and atrial fibrillation. Journal of the America College of Cardi-
+ology. 2010; 55(17):179 6–802.
+45. Roy D. Rationale for the Atrial Fibrillation and Congestiv e Heart Failure (AF-CHF ) trial. Cardiac
+Electrophys iology Review. 2003; 7(3):208–1 0. https://d oi.org/10.102 3/B:CEPR. 0000012383.6 3580.
+c8 PMID: 147397 14
+46. Chung MK, Shemanski L, Sherma n DG, Greene HL, Hogan DB, Kellen JC, et al. Functiona l status in
+rate- versus rhythm-c ontrol strategie s for atrial fibrillation: results of the Atrial Fibrillation Follow-Up
+Investigation of Rhythm Managemen t (AFFIRM ) functional status substudy . Journal of the American
+College of Cardiolo gy. 2005; 46(10):189 1–9. https://doi.or g/10.101 6/j.jacc.2005 .07.040 PMID:
+16286177
+47. Sherman DG, Kim SG, Boop BS, Corley SD, Dimarco JP, Hart RG, et al. Occurrenc e and character is-
+tics of stroke events in the Atrial Fibrillation Follow-up Investigation of Sinus Rhythm Managemen t
+(AFFIRM) study. Archives of Internal Medicine. 2005; 165(10):11 85–91. https://doi.or g/10.100 1/
+archinte.165.1 0.1185 PMID: 15911734
+48. Steinberg JS, Sadaniantz A, Kron J, Krahn A, Denny DM, Daubert J, et al. Analysis of cause-specifi c
+mortality in the Atrial Fibrillation Follow-up Investigation of Rhythm Managemen t (AFFIRM) study. Cir-
+culation. 2004; 109(16):19 73–80. https://doi.or g/10.116 1/01.CIR.0 000118472.77 237.FA PMID:
+15051639
+49. Jenkins LS, Brodsky M, Schron E, Chung M, Rocco T Jr., Lader E, et al. Quality of life in atrial fibrilla-
+tion: the Atrial Fibrillation Follow-up Investigation of Rhythm Managemen t (AFFIRM ) study. American
+Heart Journal . 2005; 149(1):112 –20. https://do i.org/10.1016 /j.ahj.20 04.03.065 PMID: 156600 42
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 23 / 28
+[[p24]]
+50. Wyse DG, Waldo AL, DiMarco JP, Doma nski MJ, Rosenberg Y, Schron EB, et al. A comparison of
+?????????M?mdilM?QOOQZ?RSVGQRHYPW?QT–RRM?YNN
+doi.org/10.10 56/NEJM oa021328 PMID: 124665 06
+51. Investigator s AFFIRM. Baseline character istics of patients with atrial fibrillation: the AFFIRM Study.
+American Heart Journal. 2002; 143(6):991 –1001. PMID: 1207525 4
+52. Wyse DG, Anderso n JL, Antman EM, Cooper ES, Dalquist JE, Davis KB, et al. Atrial fibrillation follow-
+up investigatio n of rhythm managemen t—the AFFIR M study design. The Planning and Steering Com-
+mittees of the AFFIRM study for the NHLBI AFFIRM investigator s. American Journal of Cardiolo gy.
+1997; 79(9):1198 –202. PMID: 9164885
+53. Curtis AB, Gersh BJ, Corley SD, DiMarc o JP, Domans ki MJ, Geller N, et al. Clinical factors that influ-
+ence response to treatment strategies in atrial fibrillation: the Atrial Fibrillation Follow-up Investigat ion
+of Rhythm Managem ent (AFFIRM) Study. American Heart Journal. 2005; 149(4):645 –9. https://doi.
+org/10.1016/j .ahj.200 4.09.038 PMID: 159907 47
+54. Damluji AA, Al-Damluji MS, Marzouka GR, Coffey JO, Viles-Gon zalez JF, Cohen MG, et al. New-
+onset versus prior history of atrial fibrillation: Outcomes from the AFFIRM trial. American Heart Jour-
+nal. 2015; 170(1):156 –63. https:// doi.org/10.10 16/j.ahj. 2015.04.020 PMID: 260938 77
+55. Guglin M, Chen R, Curtis AB. Sinus rhythm is associated with fewer heart failure symptoms : insights
+from the AFFIRM trial. Heart Rhythm. 2010; 7(5):596–6 01. https://doi.or g/10.101 6/j.hrthm.2 010.01.
+003 PMID: 20159046
+56. Shariff N, Desai RV, Patel K, Ahmed MI, Fonaro w GC, Rich MW, et al. Rate-contro l versus rhythm-
+control strategie s and outcomes in septuage narians with atrial fibrillation. American Journal of Medi-
+cine. 2013; 126(10):88 7–93. https://doi.or g/10.101 6/j.amjmed.2 013.04.0 21 PMID: 24054956
+57. Brignole M, Gianfranchi L, Menozz i C, Alboni P, Musso G, Bongiorni MG, et al. Assessme nt of atrio-
+ventricular junction ablation and DDDR mode-sw itching pacemak er versus pharma cological treatment
+in patients with severely symptoma tic paroxysm al atrial fibrillation: a randomiz ed controlled study. Cir-
+culation. 1997; 96(8):2617 –24. PMID: 9355902
+58. Shelton RJ, Clark AL, Goode K, Rigby AS, Houghton T, Kaye GC, et al. A randomis ed, controlled
+study of rate versus rhythm control in patients with chronic atrial fibrillation and heart failure: (CAFE-II
+Study). Heart. 2009; 95(11):924 –30. https:// doi.org/10.11 36/hrt.2 008.158931 PMID: 192823 13
+59. Hunter RJ, Berriman TJ, Diab I, Kamdar R, Richmon d L, Baker V, et al. A randomiz ed controlled trial
+of catheter ablation versus medical treatment of atrial fibrillation in heart failure (the CAMTA F trial). Cir-
+culation: Arrhythm ia and Electrophy siology. 2014; 7(1):31–8.
+60. Vora A, Karnad D, Goyal V, Naik A, Gupta A, Lokhand wala Y, et al. Control of heart rate versus rhythm
+in rheumatic atrial fibrillation: a random ized study. Journal of Cardiovascula r Pharma cology and Ther-
+apeutics. 2004; 9(2):65–73 . https://doi. org/10.1177/1 0742484 0400900201 PMID: 1530924 2
+61. Fengsrud E, Wickbom A, Almroth H, Englund A, Ahlsson A. Total endoscopi c ablatio n of patients with
+long-standing persistent atrial fibrillation: a randomiz ed controlled study. Interactive CardioV ascular
+and Thoracic Surgery. 2016; 23(2):292– 8. https://do i.org/10.1093 /icvts/ivw08 8 PMID: 27068249
+62. Gillinov AM, Bagiella E, Moskowitz AJ, Raiten JM, Groh MA, Bowdish ME, et al. Rate control versus
+rhythm control for atrial fibrillation after cardiac surgery. NEJM. 2016; 374(20):19 11–21. https://doi.
+org/10.1056/N EJMoa160 2002 PMID: 270430 47
+63. Opolski G, Torbicki A, Kosior D, Szulc M, Zawadzka M, Pierscin ska M, et al. Rhythm control versus
+rate control in patients with persistent atrial fibrillation. Results of the HOT CAFE Polish Study. Kardiol
+Pol. 2003; 59(7):1–16 . PMID: 145603 44
+64. Pietrasik A, Kosior DA, Niewada M, Opolski G, Latek M, Kaminsk i B. The cost comparison of rhythm
+and rate control strategie s in persistent atrial fibrillation. International Journal of Cardiology. 2007; 118
+(1):21–7. https://doi.or g/10.1016 /j.ijcard.2006.03 .085 PMID: 17055081
+65. Szulc M, Kosior DA, Jasik M, Wozakow ska-Kapl on B, Janion M, Rabczenk o D, et al. The effect of rate
+versus rhythm control strategy on the left ventricula r function in patients with persistent atrial fibrillation:
+results of one year follow-up. Folia Cardiologica . 2006; 13(4):331– 7.
+66. Hu CL, Jiang H, Tang QZ, Zhang QH, Chen JB, Huang CX, et al. Comparis on of rate control and
+rhythm control in patients with atrial fibrillation after percutan eous mitral balloo n valvotomy: a rando-
+mised controll ed study. Heart. 2006; 92(8):1096 –101. https:// doi.org/10.11 36/hrt.20 05.080325 PMID:
+16387819
+67. Ogawa S, Yamashita T, Yamazaki T, Aizawa Y, Atarashi H, Inoue H, et al. Optimal treatment strategy
+for patients with paroxysm al atrial fibrillation: J-RHYT HM Study. Circulation Journal. 2009; 73(2):242–
+8. PMID: 19060419
+68. Yamashita T, Ogawa S, Aizawa Y, Atarash i H, Inoue H, Ohe T, et al. Investigation of the optimal treat-
+ment strategy for atrial fibrillation in Japan. Circulation Journal . 2003; 67(9):738– 41. PMID: 12939546
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 24 / 28
+[[p25]]
+69. Jones DG, Haldar SK, Hussain W, Sharma R, Francis DP, Rahman-Hale y SL, et al. A randomiz ed trial
+to assess catheter ablation versus rate control in the managemen t of persistent atrial fibrillation in
+heart failure. Journal of the American College of Cardiology . 2013; 61(18):189 4–903. https:// doi.org/
+10.1016/j.jac c.2013.01 .069 PMID: 23500267
+70. Lee JK, Klein GJ, Krahn AD, Yee R, Zarnke K, Simpson C, et al. Rate-contro l versus conversion strat-
+egy in postoper ative atrial fibrillation: trial design and pilot study results. Cardiac Electrophy siology
+Review. 2003; 7(2):178–8 4. PMID: 14618047
+71. Lee JK, Klein GJ, Krahn AD, Yee R, Zarnke K, Simpson C, et al. Rate-contro l versus conversion strat-
+egy in postoper ative atrial fibrillation: a prospective , random ized pilot study. American Heart Journal.
+2000; 140(6):871 –7. https://doi. org/10.1067/m hj.2000.11110 4 PMID: 11099990
+72. MacDonald MR, Connelly DT, Hawkins NM, Steedma n T, Payne J, Shaw M, et al. Radiofreq uency
+ablation for persistent atrial fibrillation in patients with advanced heart failure and severe left ventricula r
+systolic dysfunc tion: a randomis ed controlled trial. Heart. 2011; 97(9):740– 7. https://do i.org/10.1136 /
+hrt.2010.2073 40 PMID: 21051458
+73. Marshall HJ, Harris ZI, Griffith MJ, Holder RL, Gammage MD. Prospective randomized study of abla-
+tion and pacing versus medical therapy for paroxysmal atrial fibrillation: effects of pacing mode and
+mode-switch algorithm . Circulation . 1999; 99(12):158 7–92. PMID: 10096935
+74. Khan MN, Jais P, Cummings J, Di Biase L, Sanders P, Martin DO, et al. Pulmon ary-vein isolation for
+atrial fibrillation in patients with heart failure. NEJM. 2008; 359(17):17 78–85. https://doi.or g/10.105 6/
+NEJMoa0708 234 PMID: 18946063
+75. Brignole M, Menozzi C, Gasparini M, Bongiorni MG, Botto GL, Ometto R, et al. An evaluatio n of the
+strategy of maintenan ce of sinus rhythm by antiarrhythm ic drug therapy after ablation and pacing ther-
+apy in patients with paroxysm al atrial fibrillation. European Heart Journal . 2002; 23(11):892 –900.
+https://doi.or g/10.1053/ euhj.2001.297 1 PMID: 12042011
+76. Brignole M. Rhythm versus rate control after ablation and pacing for paroxysmal atrial fibrillation: clini-
+cal implication s of the PAF 2 trial. Cardiac Electro physiolog y Review. 2003; 7(2):127–9 . PMID:
+14618035
+77. Gronefeld GC, Lilienthal J, Kuck KH, Hohnloser SH. Impac t of rate versus rhythm control on quality of
+life in patients with persistent atrial fibrillation. Results from a prospective randomiz ed study. European
+Heart Journal . 2003; 24(15):143 0–6. PMID: 12909072
+78. Hohnloser SH, Kuck KH. Atrial fibrillation: maintaini ng stability of sinus rhythm or ventricula r rate con-
+trol? The need for prospective data: the PIAF trial. Pacing and Clinical Electrophy siology. 1997; 20(8
+Pt 1):1989–92.
+79. Hohnloser SH, Kuck KH, Lilient hal J. Rhythm or rate control in atrial fibrillation— Pharmacologic al
+Intervention in Atrial Fibrillation (PIAF): a random ised trial. Lancet. 2000; 356(9244) :1789–94. PMID:
+11117910
+80. Soucier R, Silverma n D, Abordo M, Jaagosild P, Abiose A, Madhusoo danan KP, et al. Propafenon e
+versus ibutilide for post operativ e atrial fibrillation following cardiac surgery: neither strategy improves
+outcomes compared to rate control alone (the PIPAF study). Medical Science Monitor. 2003; 9(3):
+Pi19–23. PMID: 12640352
+81. Hagens VE, Crijns HJ, Van Veldhuis en DJ, Van Den Berg MP, Rienstra M, Rancho r AV, et al. Rate
+control versus rhythm control for patients with persistent atrial fibrillation with mild to modera te heart
+failure: results from the RAte Control versus Electrica l cardiovers ion (RACE) study. American Heart
+Journal. 2005; 149(6):110 6–11. https://doi.or g/10.1016/ j.ahj.2004.11.0 30 PMID: 15976795
+82. Hagens VE, Ranchor AV, Van Sonderen E, Bosker HA, Kamp O, Tijssen JG, et al. Effect of rate or
+rhythm control on quality of life in persistent atrial fibrillation. Results from the Rate Control Versus
+Electrical Cardiover sion (RACE) Study. Journal of the American College of Cardiolo gy. 2004; 43
+(2):241–7. PMID: 14736444
+83. Rienstra M, Van Veldhuise n DJ, Crijns HJ, Van Gelder IC. Enhanced cardiovasc ular morbidity and
+mortality during rhythm control treatment in persistent atrial fibrillation in hyperten sives: data of the
+RACE study. European Heart Journal . 2007; 28(6):741– 51. https://d oi.org/10.109 3/eurheartj/e hl436
+PMID: 17272359
+84. Rienstra M, Van Veldhuise n DJ, Hagens VE, Ranchor AV, Veeger NJ, Crijns HJ, et al. Gender-relate d
+differences in rhythm control treatment in persistent atrial fibrillation: data of the Rate Control Versus
+Electrical Cardiover sion (RACE) study. Journal of the American College of Cardiology . 2005; 46
+(7):1298–3 06. https://doi.or g/10.101 6/j.jacc.2005 .05.078 PMID: 16198847
+85. Van Gelder IC, Hagens VE, Bosker HA, Kingma JH, Kamp O, Kingma T, et al. A comparison of rate
+control and rhythm control in patients with recurrent persistent atrial fibrillation. NEJM. 2002; 347
+(23):1834– 40. https://doi.or g/10.105 6/NEJMoa021 375 PMID: 12466507
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+oknr?nmd??YNNM?NPOMPRV?PNM?MOPWUW?TU?n?QUK?QOPV?QT?N?QW
+[[p26]]
+86. Van Gelder IC, Hagens VE, Kingma JH, Bosker HA, Kamp O, Kingma T, et al. Rate control versus
+electrical cardiover sion for atrial fibrillation: A randomis ed comparison of two treatment strategies con-
+cerning morbidity, mortality, quality of life and cost-benefi t—the RACE study design. Netherlan ds
+Heart Journal . 2002; 10(3):118– 24. PMID: 256960 77
+87. Hagens VE, Rienstra M, Van Veldhuis en DJ, Crijns H, Van Gelder IC. Determinan ts of sudden cardiac
+death in patients with persistent atrial fibrillation in the rate control versus electrical cardiover sion
+(RACE) study. American Journal of Cardiolo gy. 2006; 98(7):929– 32. https://doi.or g/10.101 6/j.
+amjcard.2 006.04.038 PMID: 169968 76
+88. Hagens VE, Van Veldhuisen DJ, Kamp O, Rienstra M, Bosker HA, Veeger NJ, et al. Effect of rate and
+rhythm control on left ventricula r function and cardiac dimension s in patients with persistent atrial fibril-
+lation: results from the rate control versus electrical cardiover sion for persistent atrial fibrillation
+(RACE) Study. Heart Rhythm. 2005; 2(1):19–24 . https://doi.or g/10.101 6/j.hrthm.2 004.09.028 PMID:
+15851259
+89. Rienstra M, Hagens VE, Van Veldhuisen DJ, Bosker HA, Tijssen JG, Kamp O, et al. Clinical character -
+istics of persistent lone atrial fibrillation in the RACE study. American Journal of Cardiology . 2004; 94
+(12):1486– 90. https://doi.or g/10.101 6/j.amjcard .2004.08.024 PMID: 15589001
+90. Rafla SM, Mahmoud K, Kak A, Lotfy M, Soghier I. Comparison of effect of rate control versus rhythm
+control on LV function in patients with AF and ischemic heart failure. Journal of the Saudi Heart Associ-
+ation. 2013; 25(2):165.
+91. Carlsson J, Boos C. Confoundi ng factors in rate versus rhythm control trials in patients with atrial fibril-
+lation: lessons from the strategies of treatment of atrial fibrillation (STAF) pilot study. Cardiac Electro -
+physiology Review. 2003; 7(2):122–6 . PMID: 1461803 4
+92. Carlsson J, Miketic S, Windeler J, Cuneo A, Haun S, Micus S, et al. Randomiz ed trial of rate-control
+versus rhythm-con trol in persistent atrial fibrillation: the Strategies of Treatmen t of Atrial Fibrillation
+(STAF) study. Journal of the American College of Cardiology . 2003; 41(10):169 0–6. PMID: 12767648
+93. Vijayvergiya R, Jain S, Bahl A. Comp arison of rate versus rhyhm control after percutan eous translum-
+inal mitral commissur otomy in patients with chronic atrial fibrillation: a prospective randomiz ed com-
+parative study. American Journal of Cardiolo gy. 2009; 103(9A):1 15B.
+94. Yildiz A, Yigit Z, Okcun B, Baskurt M, Ortak K, Kaya A, et al. Comparison of rate and rhythm control in
+hypertens ion patients with atrial fibrillation. Circulation Journal. 2008; 72(5):705– 8. PMID: 18441447
+95. Okcun B, Yigit Z, Arat A, Kucukogl u SM. Comparison of rate and rhythm control in patients with atrial
+fibrillation and nonischemic heart failure. Japanese Heart Journal. 2004; 45(4):591– 601. PMID:
+15353870
+96. Opolski G, Torbicki A, Kosior D, Stolarz P, Dawidowska R, Zawadz ka M, et al. [Should sinus rhythm
+be restored in patients with chronic atrial fibrillation? Preliminar y results from the Polish "Hot Cafe"
+study]. [Polish]. Polish Archives of Internal Medicine. 1999; 101(5):413 –8. PMID: 10740421
+97. Beaver TM, Hedna VS, Khanna AY, Miles WM, Price CC, Schmalfus s IM, et al. Thoracosc opic abla-
+tion with append age ligation versus medical therapy for stroke prevention: a proof-of-con cept random -
+ized trial. Innovation s (Phila). 2016; 11(2):99–1 05.
+98. Kanorskii SG, Kruchinov a OA, Zingile vskii K. [Advantages of restoration and maintena nce of sinus
+rhythm in middle aged patients with atrial fibrillation and chronic heart failure]. Kardiolog iia. 2006; 46
+(9):31–5. PMID: 17047620
+99. Kirkutis A, Poviliunas A, Griciene P, Polena S, Yang S, Yalama nchi G, et al. Cardiac rate normaliza tion
+in chronic atrial fibrillation: comparison of long-term efficacy of treatment with amiodarone versus AV
+node ablation and perman ent His-bundl e pacing. Proceedings of the Western Pharmac ology Society.
+2004; 47:69–70. PMID: 15633616
+100. Petrac D, Radic B, Radeljic V, Hamel D, Filipovic J. Ventricular pacing vs dual chamber pacing in
+patients with persistent atrial fibrillation after atrioventric ular node ablation: open random ized study.
+Croatian Medical Journal. 2005; 46(6):922– 8. PMID: 163423 45
+101. Schwartzman D, Housel D, Bazaz R, Jain S, Saba S, Gorcsan J 3rd, et al. A pilot study to assess ben-
+efit of atrial rhythm control after cardiac resynchro nization therapy and atrioventric ular node ablatio n.
+Pacing and Clinical Electrophy siology. 2015; 38(2):275– 81. https://doi.or g/10.111 1/pace.12 535
+PMID: 25431023
+102. Okcun B, Yigit Z, Yildiz A, Uzunhasan I, Orta K, Baskurt M, et al. What should be the primary treatment
+in atrial fibrillation: ventricula r rate control or sinus rhythm control with long-term anticoagu lation? Jour-
+nal of International Medical Research. 2009; 37(2):464– 71. https://doi.or g/10.117 7/
+14732300090 3700222 PMID: 19383241
+103. Kirchhof P, Breithardt G, Camm AJ, Crijns HJ, Kuck KH, Vardas P, et al. Improving outcomes in
+patients with atrial fibrillation: rationale and design of the Early treatment of Atrial fibrillation for Stroke
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 26 / 28
+[[p27]]
+prevention Trial. American Heart Journal . 2013; 166(3):442 –8. https:// doi.org/10.10 16/j.ahj. 2013.05.
+015 PMID: 24016492
+104. Ciszewski J, Maciag A, Kowalik I, Syska P, Lewandows ki M, Farkow ski MM, et al. Comp arison of the
+rhythm control treatment strategy versus the rate control strategy in patients with perman ent or long-
+standing persistent atrial fibrillation and heart failure treated with cardiac resynchron ization therapy— a
+pilot study of Cardiac Resynchroniz ation in Atrial Fibrillation Trial (Pilot-C RAfT): study protocol for a
+randomized controll ed trial. Trials. 2014; 15:386. https://doi.or g/10.118 6/1745-6215 -15-386 PMID:
+25281275
+105. Tang A, Essebag V, Leong-Sit P, Sterns LD, Wilton SB, Parkash R, et al. How well are rate or rhythm
+control achieved in raft-AF patients with atrial fibrillation and heart failure? Canadian Journal of Cardi-
+ology. 2015; 31(10):S2 54–S5.
+106. Gluud LL. Bias in clinical interven tion research. American Journal of Epidemiology. 2006; 163(6):493 –
+501. https://doi.or g/10.109 3/aje/kwj069 PMID: 164437 96
+107. Kjaergard LL, Villumsen J, Gluud C. Reported methodol ogic quality and discrepanc ies between large
+and small random ized trials in meta-ana lyses. Annals of Internal Medicine. 2001; 135(11):98 2–9.
+PMID: 11730399
+108. Lundh A, Sismondo S, Lexchin J, Busuioc OA, Bero L. Industry sponsors hip and research outcome.
+Cochrane Database of Systemat ic Reviews. 2012; 12:Mr000 033. https://doi.or g/10.100 2/14651858.
+MR000033.pu b2 PMID: 23235689
+109. Moher D, Pham B, Jones A, Cook DJ, Jadad AR, Moher M, et al. Does quality of reports of randomis ed
+trials affect estimates of interven tion efficacy reported in meta-ana lyses? Lancet. 1998; 352
+(9128):609 –13. https://doi.or g/10.101 6/S0140-67 36(98)010 85-X PMID: 9746022
+110. Schulz KF, Chalmers I, Hayes RJ, Altman DG. Empirical evidence of bias. Dimensions of methodolog-
+ical quality associa ted with estimat es of treatment effects in controlle d trials. JAMA. 1995; 273(5):408 –
+12. PMID: 7823387
+111. Wood L, Egger M, Gluud LL, Schulz KF, Juni P, Altman DG, et al. Empirica l evidence of bias in treat-
+ment effect estimates in controlled trials with different interven tions and outcomes : meta-epid emiologi-
+cal study. BMJ. 2008; 336(7644) :601–5. https://doi.or g/10.1136/ bmj.39465. 451748.AD PMID:
+18316340
+112. Savovic J, Jones HE, Altman DG, Harris RJ, Juni P, Pildal J, et al. Influence of reported study design
+characteris tics on interven tion effect estimates from randomiz ed, controlled trials. Annals of Internal
+Medicine. 2012; 157(6):429 –38. https://do i.org/10.7326 /0003-4819- 157-6-201 209180-005 37 PMID:
+22945832
+113. Garattini S, Jakobs en JC, Wetterslev J, Bertele V, Banzi R, Rath A, et al. Evidence -based clinical prac-
+tice: Overvie w of threats to the validity of evidence and how to minimise them. European Journal of
+Internal Medicine. 2016; 32:13–2 1. https://doi.or g/10.1016/ j.ejim.2016. 03.020 PMID: 27160381
+114. Al-Khatib SM, Allen LaPointe NM, Chatterjee R, Crowley MJ, Dupre ME, Kong DF, et al. Rate- and
+rhythm-con trol therapies in patients with atrial fibrillation: a systematic review. Annals of Internal Medi-
+cine. 2014; 160(11):76 0–73. https://doi.or g/10.732 6/M13-1467 PMID: 24887617
+115. Caldeira D, David C, Sampai o C. Rate versus rhythm control in atrial fibrillation and clinical outcomes :
+updated systematic review and meta-ana lysis of randomiz ed controlled trials. Archives of Cardiovas -
+cular Diseases . 2012; 105(4):226 –38. https://d oi.org/10.101 6/j.acvd.201 1.11.005 PMID: 2263329 7
+116. Chatterjee S, Sardar P, Lichstein E, Mukherje e D, Aikat S. Pharmac ologic rate versus rhythm-con trol
+strategies in atrial fibrillation: an updated comprehe nsive review and meta-ana lysis. Pacing and Clini-
+cal Electrophy siology. 2013; 36(1):122– 33. https://doi.or g/10.111 1/j.1540-815 9.2012.0 3513.x PMID:
+22978656
+117. Cordina J, Mead G. Pharmac ological cardiover sion for atrial fibrillation and flutter. Cochrane Database
+of Systematic Reviews. 2005(2):Cd003 713. https://doi.or g/10.1002/ 14651858.C D003713.p ub2
+PMID: 15846675
+118. de Denus S, Sanoski CA, Carlsson J, Opolski G, Spinler SA. Rate vs rhythm control in patients with
+atrial fibrillation: a meta-analy sis. Archives of Interna l Medicine. 2005; 165(3):258 –62. https://doi.o rg/
+10.1001/archin te.165.3.2 58 PMID: 15710787
+119. Kumana CR, Cheung BM, Cheung GT, Ovedal T, Peders on B, Lauder IJ. Rhythm vs. rate control of
+atrial fibrillation meta-ana lysed by number needed to treat. British Journal of Clinical Pharmacology .
+2005; 60(4):347– 54. https://doi. org/10.1111/j .1365-2125. 2005.02449.x PMID: 16187966
+120. Testa L, Biondi-Zoccai GG, Dello Russo A, Bellocci F, Andreotti F, Crea F. Rate-contro l vs. rhythm-
+control in patients with atrial fibrillation: a meta-ana lysis. European Heart Journal. 2005; 26(19):200 0–
+6. https://doi.or g/10.109 3/eurheartj/e hi306 PMID: 1587203 2
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 27 / 28
+[[p28]]
+121. Chen S, Dong Y, Fan J, Yin Y. Rate vs. rhythm control in patients with atrial fibrillation— an updated
+meta-analy sis of 10 random ized controll ed trials. International Journal of Cardiology . 2011; 153(1):96–
+8. https://doi.or g/10.101 6/j.ijcard.2011 .09.009 PMID: 21963208
+122. Noheria A, Shrader P, Piccini JP, Fonarow GC, Kowey PR, Mahaffey KW, et al. Rhythm control versus
+rate control and clinical outcomes in patients with atrial fibrillation. JACC: Clinical Electrophy siology.
+2016; 2(2):221–9 .
+123. Ionescu-Ittu R, Abrahamow icz M, Jackeviciu s CA, Essebag V, Eisenberg MJ, Wynant W, et al. Com-
+parative effectivenes s of rhythm control vs rate control drug treatment effect on mortality in patients
+with atrial fibrillation. Archives of Interna l Medicine. 2012; 172(13):99 7–1004. https://doi. org/10.1001/
+archinternmed. 2012.2266 PMID: 226649 54
+124. Camm AJ, Breithardt G, Crijns H, Dorian P, Kowey P, Le Heuzey JY, et al. Real-life observatio ns of
+clinical outcomes with rhythm- and rate-cont rol therapies for atrial fibrillation RECORDA F (Registry on
+Cardiac Rhythm Disorders Assessi ng the Control of Atrial Fibrillation). Journal of the American College
+of Cardiology . 2011; 58(5):493– 501. https:// doi.org/10.10 16/j.jacc.201 1.03.034 PMID: 2177774 7
+125. Purmah Y, Proietti M, Laroche C, Mazurek M, Tahmatz idis D, Boriani G, et al. Rate vs. rhythm control
+and adverse outcom es among European patients with atrial fibrillation. Europace. 2017.
+126. Deeks JJ, Dinnes J, D’Amic o R, Sowden AJ, Sakaro vitch C, Song F, et al. Evaluating non-rando mised
+intervention studies. Health Technolo gy Assessme nt. 2003; 7(27):iii–x, 1–173. PMID: 14499048
+127. Macle L, Andrade J, Atzema C, Bell AD, Cairns JA, Connolly S, et al. Supplementar y material: com-
+plete guidelines listing— 2010 to 2016. Availab le from https://www .ccs.ca/image s/Guide lines/
+Guidelines_ POS_Lib rary/2016%20 AF%20 Update_S upplement_F inal_PDF. pdf
+128. Van Gelder IC, Rienstra M, Crijns HJ, Olshan sky B. Rate control in atrial fibrillation. Lancet. 2016; 388
+(10046):81 8–28. https://doi.or g/10.101 6/S0140-67 36(16)312 58-2 PMID: 27560277
+129. Kirchhof P. The future of atrial fibrillation managem ent: integrated care and stratified therapy. Lancet.
+2017.
+130. Chan AW, Tetzlaff JM, Altman DG, Laupaci s A, Gotzsche PC, Krleza-Jeric K, et al. SPIRIT 2013 state-
+ment: definin g standard protocol items for clinical trials. Annals of Internal Medicine. 2013; 158
+(3):200–7. https://doi.or g/10.732 6/0003-4819 -158-3-20 1302050-00 583 PMID: 2329595 7
+131. Schulz KF, Altman DG, Moher D. CONSORT 2010 statement: updated guidelines for reporting parallel
+group randomised trials. PLoS Medicine. 2010; 7(3):e1000 251. https://d oi.org/10.137 1/journal.pm ed.
+1000251 PMID: 20352064
+Rhythm control strategies versus rate control strategies for atrial fibrillation and atrial flutter
+PLOS ONE | https://doi.or g/10.137 1/journal.po ne.01868 56 October 26, 2017 28 / 28

@@ -1,0 +1,741 @@
+
+[[p1]]
+EDITED BY  
+Umberto Morbiducci,  
+Polytechnic University of Turin, Italy
+REVIEWED BY  
+Serkan Secici,  
+Celal Bayar Universitesi Tip Fakultesi, 
+Türkiye
+Takato Yamasaki,  
+Mie University, Japan
+*CORRESPONDENCE  
+Haibo Zhang  
+zhanghaibosh@126.com
+Jimei Chen  
+chenjimei@gdph.org.cn
+†These authors share ﬁrst authorship
+RECEIVED 04 April 2026 
+REVISED 11 May 2026 
+ACCEPTED 12 May 2026 
+PUBLISHED 28 May 2026
+CITATION 
+Jiang Q, Hui C, Zhang W, Zhu Y, Chen D, 
+Hu R, Dong W, Chen J and Zhang H 
+(2026) Autologous pericardial vs. 
+pulmonary artery patches for infant 
+aortic arch reconstruction: clinical and 
+computational morphological 
+outcomes.  
+Front. Cardiovasc. Med. 13:1847610. 
+doi: 
+10.3389/fcvm.2026.1847610
+COPYRIGHT 
+© 2026 Jiang, Hui, Zhang, Zhu, Chen, 
+Hu, Dong, Chen and Zhang. This is an 
+open-access article distributed under 
+the terms of the 
+Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other 
+forums is permitted, provided the 
+original author(s) and the copyright 
+owner(s) are credited and that the 
+original publication in this journal is 
+cited, in accordance with accepted 
+academic practice. No use, distribution 
+or reproduction is permitted which does 
+not comply with these terms.
+Autologous pericardial vs. 
+pulmonary artery patches for 
+infant aortic arch reconstruction: 
+clinical and computational 
+morphological outcomes
+Qi Jiang
+1†
+, Chengyi Hui
+2†
+, Wen Zhang
+1†
+, Yifan Zhu
+1
+, Dian Chen
+1
+,  
+Renjie Hu
+1
+, Wei Dong
+1
+, Jimei Chen
+2* and Haibo Zhang
+1,3*
+1Department of Cardiothoracic Surgery, Shanghai Children’s Medical Center, Shanghai Jiaotong 
+University School of Medicine, Shanghai, China, 2Department of Cardiac Surgery, Guangdong 
+Provincial People’s Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, 
+Guangzhou, China, 3Department of Cardiothoracic Surgery, Ningbo University Afﬁliated Women and 
+Children’s Hospital, Ningbo, Zhejiang, China
+Background: The optimal autologous patch material for neonatal and infant 
+aortic arch reconstruction remains debated. We compared the short- and 
+mid-term clinical and morphological outcomes of autologous pericardial 
+patches (PP) vs. pulmonary artery patches (PAP).
+Methods: This retrospective, two-center study included 143 patients (≤1 year) 
+undergoing biventricular arch reconstruction for coarctation with arch 
+hypoplasia or interrupted aortic arch (2010–2022). Patients received either PP 
+(n = 81) or PAP (n = 62). We evaluated clinical outcomes, recoarctation-free 
+survival, and computational arch morphology, including temporal diameter 
+ratios and centerline curvature.
+Results: Cardiopulmonary bypass and cross-clamp times were signiﬁcantly 
+longer with PAP (P < 0.001). However, early mortality (overall 4.2%; P = 0.698) 
+and 10-year freedom from recoarctation (overall 88.4%; P = 0.958) were 
+comparable between the PP and PAP cohorts. Over a 4.0-year median 
+follow-up, an elevated pre-discharge systolic peak velocity >2.48 m/s served 
+as a signiﬁcant clinical indicator of recoarctation (HR, 7.373; P < 0.001). 
+Morphologically, while PAP produced a signiﬁcantly larger initial proximal 
+arch-to-ascending aorta diameter ratio ( P < 0.001  ), temporal regression 
+indicated similar mid-term growth trajectories for both patches. 
+Computational centerline analysis showed no signiﬁcant differences in overall 
+postoperative arch geometry.
+Conclusions: Autologous PP and PAP provide comparable clinical and 
+morphological outcomes. Although PAP yields a larger initial arch diameter, 
+longitudinal arch remodeling may be signiﬁcantly inﬂuenced by the native 
+aortic wall. Achieving optimal initial geometric relief is paramount over patch 
+selection to prevent late recoarctation.
+KEYWORDS
+aortic coarctation, autologous pericardial patch, autologous pulmonary artery patch, 
+hypoplastic aortic arch, interrupted aortic arch, patch augmentation
+TYPE Original Research 
+PUBLISHED 28 May 2026 
+DOI 10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+1 Introduction
+In CoA with proximal arch hypoplasia, patch augmentation is 
+not always required; when used, however, it both relieves 
+anastomotic tension and enlarges the hypoplastic segment, 
+reducing the risk of compression of adjacent structures (
+1, 2). 
+While spontaneous catch-up growth of unrepaired hypoplasia 
+may occur in some cases, it is often inconsistent or incomplete 
+(
+3); consequently, residual arch abnormality remains a major 
+risk factor for recoarctation and persistent hypertension (4 , 5). 
+In IAA, patch augmentation likewise facilitates tension-free 
+reconstruction and enlargement of the proximal arch. In 
+addition, some studies have suggested that acute angulation of 
+the reconstructed aortic arch, termed the “Gothic” arch, which 
+may result from the application of a direct anastomosis 
+technique, is related to late hypertension and subsequent left 
+ventricular dysfunction (
+6, 7). Patch augmentation enables the 
+reconstruction of an aortic arch with geometry that closely 
+approximates the native physiological conﬁguration (
+8).
+Autologous tissues, primarily pericardial patches (PP) and 
+pulmonary artery patches (PAP), have become preferred 
+materials for pediatric aortic arch reconstruction due to their 
+excellent biocompatibility, absence of immune rejection, and 
+lower risk of infection compared to synthetic patches (
+8, 9). 
+However, the long-term behavior of these autologous materials 
+differs: PP is typically stabilized with glutaraldehyde, rendering 
+it inert, while the structural evolution and growth potential of 
+fresh PAP under systemic pressure remain a subject of debate 
+(
+10). Given these distinct histological characteristics and varying 
+institutional preferences, there is a distinct lack of direct 
+comparative studies on their clinical performance (
+11). To 
+address this literature gap, the present study comprehensively 
+evaluates and compares the short- and mid-term outcomes of 
+neonates and infants undergoing aortic arch reconstruction with 
+PP vs. PAP.
+2 Materials and methods
+2.1 Ethics statement
+This study was approved by the hospital ethics committee 
+(SCMCIRB-YJ2025013), and the requirement for individual 
+consent was waived.
+2.2 Patients and grouping
+This retrospective study reviewed neonates and infants 
+(≤1year) with CoA and proximal arch hypoplasia or IAA who 
+underwent biventricular repair and aortic arch reconstruction 
+with autologous patches at two centers between 2010 and 2022. 
+All patients in this cohort underwent primary arch 
+reconstruction; those with any prior palliative or cardiac 
+operations were excluded to ensure a homogenous population 
+for patch comparison. Patients with prior arch repair or speciﬁc 
+arteriopathies (e.g., Williams syndrome, Takayasu arteritis) were 
+excluded. The cohort was categorized into the autologous 
+pericardial patch (PP) group, or the pulmonary artery patch 
+(PAP) group based on the patch material used.
+2.3 Surgical technique
+All operations were performed via median sternotomy utilizing 
+distal aortic and bicaval venous cannulation, with arch 
+reconstruction achieved under either antegrade cerebral perfusion 
+or deep hypothermic circulatory arrest. After ligation and division 
+of the ductus arteriosus and extensive arch mobilization, the 
+isthmus was transected above and below the ductal insertion, and 
+all ductal tissue was excised. The descending aorta was then 
+anastomosed end-to-side to the posterior distal arc h. 
+A longitudinal incision was made along the lesser curvature, 
+extending into the ascending aorta, and connecting to a ventral 
+incision on the descending aorta. Augmentation was completed 
+using either an autologous PP or PAP.
+2.4 Patch preparation
+The PAP was harvested elliptically from the anterior 
+pulmonary trunk, ensuring the preservation of the valve and 
+branch oriﬁces, and was stored in saline until application. The 
+PP was prepared by harvesting autologous pericardium, followed 
+by ﬁxation in 0.6% glutaraldehyde for 8–10 min, and thorough 
+rinsing with saline before use.
+2.5 Evaluation of aortic arch
+Preoperative assessment was performed using transthoracic 
+echocardiography (TTE) and computed tomography 
+angiography (CTA). Postoperative evaluations were conducted 
+before discharge and at 1, 3, and 6 months, and annually 
+thereafter. Routine TTE, primarily utilizing the suprasternal 
+notch view, was employed to assess arch conﬁguration, vessel 
+diameters, and /f_low velocities. A peak velocity exceeding 2.5 m/s 
+served as the threshold for conﬁrmatory imaging with CTA or 
+magnetic resonance angiography (MRA), with conﬁrmed 
+stenosis requiring reintervention. As the lack of consistent 
+anthropometric data during follow-up precluded the use of 
+vascular Z-scores, the proximal arch-to-ascending aorta 
+diameter ratio was employed to normalize and evaluate patch- 
+related remodeling. The isthmus diameter was explicitly 
+excluded from analysis to avoid confounding effects from 
+anastomotic scarring or residual ductal tissue, which do not 
+re/f_lect the intrinsic impact of the patch. Overall arch 
+morphology was further quantiﬁed utilizing the arch height-to- 
+transverse diameter (A/T) ratio and imaging centerline-derived 
+curvature analysis.
+Abbreviations  
+ACC, aortic cross-clamp; CI, conﬁdence interval; CoA, coarctation of the aorta; 
+CPB, cardiopulmonary bypass; CTA, computed tomography angiography; HR, 
+hazard ratio; IAA, interrupted aortic arch; IQR, interquartile range; MRA, 
+magnetic resonance angiography; PA, pulmonary artery; PAP, pulmonary 
+artery patch; PP, pericardial patch; ROC, receiver operating characteristic; 
+TTE, transthoracic echocardiography.
+Jiang et al.                                                                                                                                                             10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+2.6 Deﬁnitions
+Preoperative proximal aortic arch hypoplasia was deﬁned as 
+an echocardiography-derived Z-score < −2.0, calculated 
+according to Pettersen et al. (12). Recoarctation was deﬁned as 
+the need for aortic arch reintervention. For morphological 
+assessment, the arch height-to-transverse diameter (A/T) ratio 
+was utilized, where T represents the maximal horizontal distance 
+between the ascending and descending aorta midpoints at the 
+level of the right pulmonary artery, and A is the maximum 
+vertical distance from T to the highest midpoint of the aortic arch.
+2.7 Statistical and computational analysis
+2.7.1 Statistical analysis
+Statistical analysis was performed using SPSS 26.0. Continuous 
+variables are expressed as median (interquartile range) and 
+compared using the Mann –Whitney U or Student’s t-test, as 
+appropriate. Categorical data are presented as frequencies 
+(percentages) and analyzed via the Chi-square or Fisher’s exact 
+test. Receiver operating characteristic (ROC) curves were used to 
+determine the optimal peak velocity cutoff predicting 
+reintervention. Time-to-event outcomes were evaluated using 
+Kaplan–Meier estimates with the log-rank test, and predictors of 
+recoarctation were assessed via Cox proportional hazards 
+models. Statistical signiﬁcance was deﬁned as P < 0.05.
+2.7.2 Computational analysis of aortic arch 
+morphology
+Quantitative arch morphology and temporal remodeling were 
+analyzed using Python 3.x.
+2.7.2.1 Temporal diameter ratio
+The proximal arch-to-ascending aorta diameter ratio was 
+tracked over time. Following baseline median assessment, 
+temporal postoperative trends for the PP and PAP cohorts were 
+modeled using logarithmic regression, y ¼
+b0 þ b1 ln (x), to 
+capture the non-linear plateauing phase of vascular remodeling. 
+Regression curves (with 95% conﬁdence intervals) were plotted, 
+and overall cohort differences were assessed via Welch’s t-test to 
+adjust for unequal variances.
+2.7.2.2 Centerline curvature analysis
+Arch centerlines derived via ImageJ were parameterized from the 
+aortic root to the descending aorta (t ¼ 0 to 1). A spatially weighted 
+5th-degree polynomial was ﬁtted to the x(t) and y(t) coordinates, 
+with maximal weighting applied to the apex to ensure precise 
+structural representation. Curvature metrics (maximum and mean) 
+were calculated via integral calculus, utilizing the trapezoidal rule 
+for arc length derivation (Supplementary Figure S1).
+3 Results
+A total of 143 patients were included in this study. Baseline 
+????s?PM?`?K?POP?
+patients (70.6%) were diagnosed with CoA accompanied by 
+proximal arch hypoplasia, while 42 patients (29.4%) were 
+diagnosed with IAA. The median age at the time of operation 
+was 50 days (IQR, 20 –87 days), and the median body weight 
+was 4.0 kg (IQR, 3.4–4.5 kg).
+3.1 Early results
+Early outcomes stratiﬁed by patch material are detailed in 
+Table 2. Autologous pericardial patches (PP) and pulmonary 
+artery patches (PAP) were utilized in 81 (56.6%) and 62 (43.4%) 
+patients, respectively. For the overall cohort, the median 
+cardiopulmonary bypass (CPB) time was 113.0 min (IQR, 95.0– 
+141.4), and the aortic cross-clamp (ACC) time was 66.0 min 
+(IQR, 54.3–83.0). Both CPB and ACC times were signiﬁcantly 
+longer in the PAP cohort (both P < 0.001). However, 
+postoperative recovery metrics were comparable between the 
+two groups, with no signiﬁcant differences observed in intensive 
+care unit length of stay ( P = 0.182), ventilation duration 
+(P = 0.278), the requirement for extracorporeal membrane 
+oxygenation support (P = 0.732), or postoperative systolic peak 
+velocity across the reconstructed arch ( P = 0.887). Early 
+TABLE 1 Baseline characteristics according to patch materials.
+Variables Entire group 
+(n = 143)
+Autologous pulmonary artery patch 
+(n = 62)
+Autologous pericardial patch 
+(n = 81)
+P-value
+e?GDH?SU?GRQMQH?QP?GRRMXH?QT?GROMXH?OMVOR
+Age at operation (d) 50.0 (20.0,87.0) 53 (29.8,87.3) 47 (15,85.5) 0.200
+Weight (kg) 4.0 (3.4,4.5) 4.0 (3.2,4.5) 4.0 (3.5,4.7) 0.267
+Aortic coarctation (%) 101 (70.6) 43 (69.4) 58 (71.6) 0.770
+Interrupted aortic arch (%) 42 (29.4) 19 (30.6) 23 (28.4) 0.770
+Type A (%) 31 (21.7) 14 (22.6) 17 (21.0)
+Type B (%) 9 (6.3) 3 (4.8) 6 (7.4)
+Type C (%) 2 (1.4) 2 (3.2) 0 (0)
+Z score of proximal aortic arch−3.6 (−4.5,−2.8) −3.4 (−4.5,−2.8) −3.7 (−4.6,−2.8) 0.533
+Continuous variables are presented as median (interquartile range) and categorical data are presented as n (%).
+Jiang et al.                                                                                                                                                             10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+mortality occurred in 6 patients (4.2%), none of which were 
+attributable to aortic arch obstruction (
+Supplementary Table S1). 
+Crucially, early mortality was not signiﬁcantly associated with 
+the type of patch material used (P = 0.698).
+3.2 Late results
+Median follow-up for the 137 early survivors was 4.0 years 
+(IQR, 2.0–6.5 years), with no late mortality observed.
+3.2.1 Reintervention
+Eleven patients (8.0%) required reintervention for 
+recoarctation. This included surgical patch augmentation (n = 8; 
+3 with concomitant intracardiac lesions, 5 with long-segment 
+stenosis) and balloon dilation for localized stenosis (n = 3). 
+Overall freedom from recoarctation was 93.9%, 91.6%, and 
+88.4% at 2, 5, and 10 years, respectively (
+Figure 1), with no 
+signiﬁcant difference between the PP and PAP cohorts 
+(P = 0.958) (
+Figure 2). Multivariate Cox regression identiﬁed a 
+higher pre-discharge systolic peak velocity across the arch as the 
+most signiﬁcant clinical marker associated with recoarctation 
+(HR, 7.373; 95% CI, 3.161–17.196; P < 0.001) (
+Table 3). 
+Correspondingly, ROC analysis established a velocity threshold 
+of >2.48 m/s as highly predictive for arch reintervention (AUC, 
+0.828; 95% CI, 0.683–0.972). Subgroup analysis revealed no 
+signiﬁcant difference in freedom from recoarctation between 
+CoA and IAA cohorts (P = 0.236).
+Additionally, 10 patients (7.3%) required reoperation for left 
+ventricular out/f_low tract obstruction (LVOTO). Freedom from 
+LVOTO was 97.5%, 88.9%, and 87.2% at 2, 5, and 10 years, 
+respectively (
+Figure 3). Although the difference was not 
+statistically signiﬁcant, there was a trend toward a higher 
+incidence of postoperative LVOTO in the PP group compared 
+with the PAP group (χ
+2 = 3.793, P = 0.051).
+3.2.2 Aneurysm formation and pulmonary artery 
+complications
+No aneurysm formed during follow-up. Within the PAP cohort 
+(n = 60), 3 patients (5.0%) developed pulmonary artery (PA) 
+stenosis: one in the main PA (Supplementary Figure S2) and two at 
+the branch PA ostia. Two underwent successful balloon dilation for 
+moderate stenosis, while the third (mild-to-moderate) is managed 
+conservatively. All three are currently asymptomatic. No cases of 
+pulmonary valve stenosis or insufﬁciency were obser ved. 
+Importantly, no evidence of calciﬁcation was observed in the 
+glutaraldehyde-treated pericardial patches on available imaging 
+during the follow-up period.
+3.2.3 Morphological and computational analysis 
+of the aortic arch
+The overall postoperative proximal arch diameter ratio was 
+signiﬁcantly greater in the PAP group compared to the PP 
+group (mean difference = 0.109, 95% CI: 0.074–0.145; P < 0.001) 
+FIGURE 1 
+Kaplan–Meier estimates of freedom from recoarctation. The shaded 
+area indicates 95% conﬁdence limits.
+TABLE 2 Early outcomes of patients according to patch materials.
+Variables Entire 
+group 
+(n = 143)
+Autologous pulmonary artery 
+patch (n = 62)
+Autologous pericardial 
+patch (n = 81)
+P-value
+Cardiopulmonary bypass time (min) 113.0 (95.0, 
+141.4)
+126.0 (106.0, 167.0) 107.0 (92.0, 124.5) <0.001
+Aortic cross-clamp time (min) 66.0 (54.3, 83.0) 76.0 (63.5, 96.8) 64.0 (50.0, 70.5) <0.001
+Intensive care unit stay (days) 7.5 (6.0, 10.8) 8.0 (5.0, 14.5) 7 (6.0, 9.0) 0.182
+Ventilation time (hours) 83.3 (49.9, 
+132.0)
+88.2 (51.7, 131.2) 72.5 (47.0, 122.3) 0.278
+Systolic peak velocity (m/s) 1.80 (1.40, 2.08) 1.80 (1.33, 2.08) 1.80 (1.48, 2.10) 0.887
+Extracorporeal membrane oxygenation 
+support (%)
+9 (6.3) 3 (4.8) 6 (7.4) 0.732
+Systolic peak velocity ≥ 2.5 m/s (%) 16 (11.2) 7 (11.3) 9 (11.1) 0.973
+Early deaths (%) 6 (4.2) 2 (3.2) 4 (4.9) 0.698
+Continuous variables are presented as median (interquartile range) and categorical data are presented as n (%).
+Bold values indicate statistical signiﬁcance (P < 0.05).
+Jiang et al.                                                                                                                                                             10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+(Figure 4). Despite this size discrepancy, temporal regression 
+analysis revealed no signiﬁcant progressive reduction in diameter 
+ratio over time in the PP cohort relative to the PAP cohort.
+Computational morphological analysis revealed no signiﬁcant 
+differences in overall arch geometry between the PAP and PP 
+cohorts. Comparable outcomes were observed for the median A/ 
+T ratio (0.55 [IQR, 0.51 –0.61] vs. 0.55 [IQR, 0.51 –0.62]; 
+P = 0.719), median apex curvature (0.032 mm⁻
+1 vs. 0.037 mm⁻1; 
+P = 0.346), median mean curvature (0.023 mm⁻1 vs. 0.021 mm⁻1; 
+P = 0.366), and chord length-to-arc length ratio (0.667 ± 0.068 
+vs. 0.659 ± 0.057; P = 0.552).
+4 Discussion
+4.1 Patch selection and surgical outcomes
+The optimal choice of patch material for aortic arch 
+reconstruction in neonates and infants remains a subject of 
+FIGURE 2 
+Kaplan–Meier curves for freedom from recoarctation, stratiﬁed by patch material: autologous pulmonary artery patch (PAP, blue solid line) and 
+autologous pericardial patch (PP, red solid line). Shaded areas represent 95% conﬁdence intervals. Inter-group differences in time-to-event 
+distributions were assessed using the log-rank test.
+TABLE 3 Factors associated with recoarctation by Cox regression.
+Variable Univariate analysis Multivariate analysis
+HR (95% CI) P-value HR (95% CI) P-value
+Interrupted aortic arch (%) 2.888 (0.879–9.484) 0.08 2.545 (0.543–11.923) 0.236
+Pre-discharge peak velocity across the aortic arch (m/s) 6.685 (3.192–13.998) <0.001 7.373 (3.161–17.196) <0.001
+Autologous pericardial patch (%) 1.031 (0.312–3.413) 0.958
+Cardiopulmonary bypass time (min) 1.013 (1.000–1.026) 0.043 0.985 (0.948–1.023) 0.429
+Aortic cross-clamp time (min) 1.029 (1.009–1.049) 0.004 1.046 (0.983–1.113) 0.159
+Age (days) 0.984 (0.996–1.003) 0.098 1.000 (0.976–1.025) 0.983
+Weight (kg) 0.556 (0.268–1.191) 0.134 0.682 (0.258–1.799) 0.439
+HR, hazard ratio; CI, conﬁdence interval. Variables with a P-value < 0.15 in the univariate analysis were included in the multivariate Cox regression model.
+Bold values indicate statistical signiﬁcance (P < 0.05).
+FIGURE 3 
+Kaplan–Meier estimates of freedom from left ventricular tract 
+obstruction (LVOTO). The shaded area indicates 95% 
+conﬁdence limits.
+Jiang et al.                                                                                                                                                             10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+ongoing debate (11, 13–16). To achieve complete relief of arch 
+stenosis, avoid compression of adjacent structures, and maintain 
+physiological arch geometry, both participating centers routinely 
+performed patch augmentation. Given the limited availability of 
+homografts, we primarily utilized autologous materials: the 
+autologous pericardial patch (PP) and the autologous pulmonary 
+artery patch (PAP).
+PP is favored for its availability, ease of harvest, and good 
+tissue compatibility. Though concerns regarding long-term 
+durability persist (
+17), recent studies have demonstrated its 
+sufﬁcient tensile strength, supporting its use for arch 
+reconstruction (
+13). Crucially, all PPs in this study were 
+glutaraldehyde-ﬁxed, which likely contributed to the absence of 
+postoperative aneurysm formation, contrasting with concerns 
+associated with fresh pericardium (
+18). The PAP provides tissue 
+similar to the native aortic wall, offering potential for adaptive 
+growth and minimizing aneurysm risk (
+6, 19, 20), though 
+harvesting may potentially cause pulmonary artery trauma.
+Both patch materials yielded satisfactory clinical outcomes in 
+this study. The PAP group demonstrated a low incidence of 
+recoarctation (8.3%) and mortality (3.2%), with no aneurysms 
+detected during follow-up. The PP group showed a mortality 
+rate of 4.9% and a recoarctation rate of 7.8%, with no signiﬁcant 
+difference compared to the PAP group. Furthermore, the CPB 
+and ACC times were signiﬁcantly shorter in the PP group than 
+in the PAP group, re/f_lecting a simpler operative technique. 
+Unlike earlier studies that rarely noted this complication (
+21), 
+three cases (5.0%) of postoperative pulmonary artery stenosis 
+occurred in our PAP cohort, likely related to the patch 
+harvesting procedure. The observed PA stenosis in the PAP 
+group, despite reconstruction of the donor site with an 
+autologous pericardial patch, may be attributed to restrictive 
+patch sizing or localized distortion of the pulmonary trunk 
+geometry during suturing. This occurrence underscores that 
+while harvesting autologous pulmonary tissue is viable, technical 
+precision—speciﬁcally regarding the sizing of the supplemental 
+pericardial patch and careful suture placement—is essential to 
+preserve the native architecture of the pulmonary trunk and 
+mitigate the risk of late stenosis.
+4.2 Key predictors of recoarctation
+Regardless of the patch material utilized, multivariate Cox 
+regression analysis identiﬁed a higher systolic peak velocity 
+across the arch prior to discharge as a strong, independent 
+predictor of late recoarctation. Consistent with previous reports 
+(
+22), an inadequate initial relief of the stenosis or an undersized 
+postoperative isthmus is inextricably linked to a higher risk of 
+reintervention. This strongly suggests that sufﬁcient arch 
+enlargement and complete resection of the ductal tissue at the 
+index operation are more critical than patch selection in 
+preventing late obstruction.
+4.3 Inﬂuence of patch material on arch 
+conﬁguration
+This study also examined whether the two autologous patch types 
+in/f_luence the postoperative conﬁguration of the aortic arch. Early 
+postoperatively, the proximal arch diameter was signiﬁcantly larger 
+in the PAP cohort compared with the PP cohort. We hypothesize 
+this dimensional discrepancy is multifactorial, driven by distinct 
+differences in tissue biomechanics, inherent geometry, and surgical 
+handling. Unlike glutaraldehyde-ﬁxed pericardium, which becomes 
+stiff and non-compliant due to collagen cross-linking, fresh 
+autologous pulmonary artery tissue retains its native elastin 
+network, allowing it to readily distend under high systemic 
+FIGURE 4 
+Scatter plots display the diameter ratio over time (years) for the PP (red) and PAP (blue) groups. Pre-operative medians are shown on the left, separated 
+by a vertical dashed line denoting surgery. Solid lines represent the time-adjusted logarithmic regression trends, with shaded areas indicating 95% 
+conﬁdence intervals (CI). The overall post-operative diameter ratio was signiﬁcantly higher in the PAP group (Mean difference = 0.109, 95% CI: 
+0.074–0.145; t = 6.09, P < 0.001). PP, autologous pericardial patch; PAP, pulmonary artery patch.
+Jiang et al.                                                                                                                                                             10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+pressures. Additionally, the PAP is harvested as a naturally curved, 
+three-dimensional segment, inherently providing a m ore 
+voluminous cross-sectional area than a /f_lat pericardial sheet. 
+Finally, accommodating the concave edges of the PAP dictates a 
+wider, /f_lared anastomotic proﬁle, further contributing to a broader 
+initial arch diameter.
+However, over time, the PP group showed no signiﬁcant 
+reduction in this diameter ratio compared with the PAP group, 
+suggesting that the glutaraldehyde-ﬁxed pericardium maintained 
+its structural stability during growth. These ﬁndings indicate 
+that mid-term arch growth is primarily attributable to the 
+remaining native aortic wall rather than the patch itself.
+Clinically, these morphological ﬁndings suggest that while 
+PAP may be advantageous in cases of hypoplasia requiring 
+maximum initial diameter, the eventual geometric outcome is 
+largely independent of patch material. This allows for surgeon 
+discretion based on patch availability and technical familiarity 
+without compromising long-term arch conﬁguration.
+Moreover, computational centerline analysis demonstrated no 
+signiﬁcant differences in overall arch geometry (height-to-width 
+ratio and curvature) between the two groups. This further 
+supports the conclusion that patch material does not 
+substantially in/f_luence the reconstructed arch conﬁguration.
+4.4 Limitations
+This study is subject to several limitations. First, its 
+retrospective, non-randomized nature introduces inherent 
+selection bias, as patch selection was in/f_luenced by institutional 
+and surgeon preference. Second, the inconsistent availability of 
+somatic growth parameters during follow-up prevented the use 
+of standardized Z-scores for evaluating arch dimensions. 
+Consequently, the primary limitation remains the lack of 
+longitudinal Z-score data, and an internal ratio (proximal arch- 
+to-ascending aorta diameter) was utilized as a surrogate marker 
+for vascular remodeling. Additionally, as cross-sectional imaging 
+was not performed systematically for all patients, direct 
+assessment of patch wall thickness and mechanical behavior 
+over time was not feasible. Third, while the cohort is sizable for 
+this speciﬁc pathology, it may lack the statistical power to 
+deﬁnitively capture rare late complications like aneurysm 
+formation. Furthermore, while speciﬁc patch surface area 
+measurements were not systematically recorded, patches were 
+tailored to achieve a reconstruction diameter matching the 
+native ascending aorta. The in/f_luence of initial patch dimensions 
+on localized hemodynamics remains a factor for future 
+prospective evaluation. Fourth, the median follow-up of 4.0 
+years represents early-to-mid-term outcomes; tracking these 
+patients into adolescence is essential to fully elucidate the long- 
+term structural evolution and genuine growth potential of both 
+patch materials. Additionally, our computational analysis carries 
+methodological constraints: manual arch centerline tracing is 
+susceptible to inter-observer variability, and polynomial curve 
+ﬁtting serves as a simpliﬁed mathematical approximation of 
+complex in vivo arch biomechanics. Finally, granular anatomical 
+details, such as the speciﬁc length of the hypoplastic segment or 
+interruption gap, were not available for analysis and may 
+in/f_luence the required patch geometry.
+5 Conclusions
+Autologous PP and PAP provide comparable clinical and 
+morphological outcomes for neonatal and infant aortic arch 
+reconstruction. While PAP yields a larger initial arch diameter, 
+both materials exhibit similar mid-term growth trajectories, 
+suggesting that the mid-term remodeling pattern may be 
+signiﬁcantly in/f_luenced by the native aortic wall rather than the 
+patch material itself. An elevated pre-discharge systolic peak 
+velocity (>2.48 m/s) independently predicts late recoarctation, 
+underscoring that optimal geometric relief of the obstruction at 
+the index operation is paramount over patch selection.
+Data availability statement
+The original contributions presented in the study are included 
+in the article/Supplementary Material, further inquiries can be 
+directed to the corresponding authors.
+Ethics statement
+This study was performed in accordance with the Declaration 
+of Helsinki and was approved by the Institutional Review Board of 
+Shanghai Children’s Medical Center, Shanghai Jiaotong University 
+School of Medicine (Approval No. SCMCIRB-YJ2025013). The 
+requirement for individual informed consent was waived by the 
+committee due to the retrospective nature of the study. The 
+studies were conducted in accordance with the local legislation 
+and institutional requirements. Written informed consent for 
+participation in this study was provided by the participants’ 
+legal guardians/next of kin.
+Author contributions
+QJ: Methodology, Data curation, Conceptualization, Writing – 
+review & editing, Investigation, Writing – original draft, Software. 
+CH: Resources, Formal analysis, Writing – original draft, 
+Investigation, Data curation. WZ: Formal analysis, Data 
+curation, Writing – review & editing, Conceptualization. YZ: 
+Writing – review & editing, Software, Validation. DC: Writing – 
+original draft, Software. RH: Resources, Formal analysis, 
+Writing – review & editing, Investigation. WD: Supervision, 
+Conceptualization, Writing – original draft, Visualization. JC: 
+Writing – review & editing, Resources, Supervision, 
+Methodology. HZ: Supervision, Writing – review & editing, 
+Funding acquisition, Conceptualization, Validation, 
+Project administration.
+Funding
+The author(s) declared that ﬁnancial support was received for 
+this work and/or its publication. This work was supported by the 
+National Natural Science Foundation of China [grant Nos. 
+82370307 and 82070322] and the Innovation Project of 
+Distinguished Medical Team in Ningbo [grant No. 
+Jiang et al.                                                                                                                                                             10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 07 frontiersin.org
+[[p8]]
+2022020405].The funders played the following roles in the 
+Y?PM?e?rY?o????
+clinical data collection, computational resources for 
+morphological analysis, and manuscript preparation. 2. Study 
+Infrastructure: Supported the collaborative framework between 
+the participating medical centers. 3. Independence: The funders 
+had no role in the study design, the collection, analysis, and 
+interpretation of data, the writing of the report, or the decision 
+to submit the article for publication.
+Conﬂict of interest
+The author(s) declared that this work was conducted in the 
+absence of any commercial or ﬁnancial relationships that could 
+be construed as a potential con/f_lict of interest.
+Generative AI statement
+The author(s) declared that generative AI was not used in the 
+creation of this manuscript.
+Any alternative text (alt text) provided alongside ﬁgures in this 
+article has been generated by Frontiers with the support of 
+artiﬁcial intelligence and reasonable efforts have been made to 
+ensure accuracy, including review by the authors wherever 
+possible. If you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their afﬁliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed 
+or endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found 
+online at: https://www.frontiersin.org/articles/10.3389/fcvm.2026. 
+1847610/full#supplementary-material
+References
+PM?o?`K?r?eK?l?rrK?o?oK?l?roM?`?LK?
+retrospective study of mid-term outcomes of aortic arch repair using a 
+standardized resection and patch augmentation technique. Interact Cardiovasc 
+Thorac Surg. (2022) 35:ivac135. 
+doi: 10.1093/icvts/ivac135
+2. Ghani MOA, Raees MA, Harris GR, Shannon CN, Nicholson GT, Bichell DP. 
+Reintervention after infant aortic arch repair using a tailored autologous pericardial 
+patch. Ann Thorac Surg. (2021) 111:973–9. doi: 10.1016/j.athoracsur.2020.04.091
+3. Huuskonen A, Hui L, Runeckles K, Hui W, Barron DJ, Friedberg MK, et al. 
+Growth of unrepaired hypoplastic proximal aortic arch and reintervention rate 
+after aortic coarctation repair. J Thorac Cardiovasc Surg. (2023) 165:1631–40. 
+doi: 10.1016/j.jtcvs.2022.08.030
+4. Murtuza B, Alsouﬁ B. Current readings on surgery for the neonate with hypoplastic 
+aortic arch. Semin Thorac Cardiovasc Surg. (2017) 26:S1043–0679(17)30294–0. 
+doi: 10.1053/j.semtcvs.2017.11.004
+5. Rakhra SS, Lee M, Iyengar AJ, Wheaton GR, Grigg L, Konstantinov IE, et al. Poor 
+outcomes after surgery for coarctation repair with hypoplastic arch warrants more 
+extensive initial surgery and close long-term follow-up. Interact Cardiovasc Thorac 
+Surg. (2013) 16:31–6. 
+doi: 10.1093/icvts/ivs301
+6. Lee H, Yang JH, Jun TG, Cho YH, Kang IS, Huh J, et al. Augmentation of the lesser 
+curvature with an autologous vascular patch in complex aortic coarctation and 
+interruption. Ann Thorac Surg. (2016) 101:2309–14. doi: 10.1016/j.athoracsur.2016.01.017
+7. Bruse JL, Khushnood A, McLeod K, Biglino G, Sermesant M, Pennec X, et al. How 
+successful is successful? Aortic arch shape after successful aortic coarctation repair 
+correlates with left ventricular function. J Thorac Cardiovasc Surg. (2017) 
+153:418–27. 
+doi: 10.1016/j.jtcvs.2016.09.018
+8. Wen S, Cen J, Chen J, Xu G, He B, Teng Y, et al. The application of autologous 
+pulmonary artery in surgical correction of complicated aortic arch anomaly. 
+J Thorac Dis. (2016) 8:3301–6. 
+doi: 10.21037/jtd.2016.11.43
+9. Vitanova K, Cleuziou J, JPv Ohain, Burri M, Eicken A, Lange R. Recoarctation after 
+Norwood I procedure for hypoplastic left heart syndrome: impact of patch material. 
+Ann Thorac Surg. (2017) 103:617–21. 
+doi: 10.1016/j.athoracsur.2016.10.030
+10. Zhao Z, Wu C, Dai J, Lu S, He L, Tian J, et al. End-to-side anastomosis and 
+autologous pulmonary artery patch for aortic coarctation and hypoplastic aortic 
+arch. J Thorac Dis. (2025) 17:959–68. 
+doi: 10.21037/jtd-24-1635
+11. Stephens EH, Feins EN, Karamlou T, Anderson BR, Alsou B, Bleiweis MS, et al. 
+The society of thoracic surgeons clinical practice guidelines on the management of 
+neonates and infants with coarctation. Ann Thorac Surg . (2024) 118:527–44. 
+doi: 10.1016/j.athoracsur.2024.04.012
+12. Pettersen MD, Du W, Skeens ME, Humes RA. Regression equations for 
+calculation of z scores of cardiac structures in a large cohort of healthy infants, 
+children, and adolescents: an echocardiographic study. J Am Soc Echocardiogr. 
+(2008) 21:922–34. 
+doi: 10.1016/j.echo.2008.02.006
+13. Recco DP, Kizilski SB, Marshall LE, Earley PD, Kneier NE, Pedro J, et al. 
+Mechanical failure analysis of patch materials used in aortic arch reconstruction: 
+implications for clinical practice. Eur J Cardiothorac Surg. (2023) 64:ezad366. 
+doi: 10.1093/ejcts/ezad366
+14. Backer CL, Mavroudis C. Congenital heart surgery Nomenclature and database 
+project: patent ductus arteriosus, coarctation of the aorta, interrupted aortic arch. 
+Ann Thorac Surg. (2000) 69:S298–307. 
+doi: 10.1016/S0003-4975(99)01280-1
+15. Seo DM, Park J, Goo HW, Kim YH, Ko JK, Jhang WK. Surgical modiﬁcation for 
+preventing a gothic arch after aortic arch repair without the use of foreign material. 
+Interact Cardiovasc Thorac Surg. (2015) 20:504–9. 
+doi: 10.1093/icvts/ivu442
+16. Bernabei M, Margaryan R, Arcieri L, Bianchi G, Pak V, Murzi B. Aortic arch 
+reconstruction in newborns with an autologous pericardial patch: contemporary 
+results. Interact Cardiovasc Thorac Surg. (2013) 16:282–5. 
+doi: 10.1093/icvts/ivs510
+17. Cetin G, Tireli E, Ozkara A, Koner O, Erdem CC, Söyler I, et al. Aortic arch 
+reconstruction with pulmonary autograft patch in coarctation and interruption of 
+the aorta. J Card Surg. (2005) 20:167–70. 
+doi: 10.1111/j.0886-0440.2005.200363.x
+18. Marco AL, Nawaytou O, von Oppell UO. Late aortic aneurysm after supravalvar 
+aortic stenosis repaired with autologous pericardial patch. Ann Thorac Surg. (2013) 
+95:346–8. 
+doi: 10.1016/j.athoracsur.2012.05.090
+19. Hasegawa S, Matsushima S, Matsuhisa H, Higuma T, Wada Y, Oshima Y. 
+Selective lesser curvature augmentation with geometric study for repair of aortic 
+arch obstruction. Ann Thorac Surg. (2021) 112:1523–31. 
+doi: 10.1016/j.athoracsur. 
+2020.10.010
+20. Lee SO, Shin HJ, Jun TG, Kang IS, Huh J, Song J, et al. Midterm results of arch 
+augmentation with autologous vascular patch in interrupted aortic arch. Eur 
+J Cardiothorac Surg. (2022) 62:ezab558. 
+doi: 10.1093/ejcts/ezab558
+21. Ma ZL, Yan J, Li SJ, Hua ZD, Yan FX, Wang X, et al. Coarctation of the aorta with 
+aortic arch hypoplasia: midterm outcomes of aortic arch reconstruction with 
+autologous pulmonary artery patch. Chin Med J (Engl). (2017) 130:2802–7. 
+doi: 10. 
+4103/0366-6999.215279
+22. Recco DP, Kizilski SB, Daf/f_lisio GJ, Ghosh RM, Kittichokechai P, Gauvreau K, 
+et al. Postoperative aortic isthmus size after arch reconstruction with patch 
+augmentation predicts arch reintervention. J Thorac Cardiovasc Surg. (2025) 
+169:964–73. 
+doi: 10.1016/j.jtcvs.2024.09.031
+Jiang et al.                                                                                                                                                             10.3389/fcvm.2026.1847610
+Frontiers in Cardiovascular Medicine 08 frontiersin.org

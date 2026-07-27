@@ -1,0 +1,118 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+SSEPs for Prediction of Good Neurological Outcome (SysRev 
+Adolopment)  
+心停止後の良好な神経学的転帰を予測するための SSEP 
+（CoSTR2023 における SysRev の適用） 
+Author：Berg KM, et al. ALS Task Force 
+PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+Population: Adults (≥16 years) who are comatose after 
+resuscitation from cardiac arrest (either in-hospital or out-of-
+hospital), regardless of target temperature 
+Intervention: SSEP N20 wave amplitude assessed within 1 week 
+from cardiac arrest  
+Comparator: none 
+Outcome: Prediction of good neurological outcome defined as 
+Cerebral Performance Categories (CPC) 1 or 2 or mRS score of 1 
+to 3 at hospital discharge or 1 month or later  
+Study designs: Prognostic accuracy studies where the 2 x 2 
+contingency table (ie, the number of true/false negatives and 
+positives for prediction of poor outcome) was reported, or where 
+those variables could be calculated from reported data, were 
+PICOST  
+ 
+ 
+P: 成人（16 歳以上）で自己心拍再開後も昏睡状態にある患者（院外心
+停止，院内心停止を問わず，また体温管理療法の有無は考慮しな
+い） 
+ 
+I: 心停止から 1 週間以内に評価された SSEP N20 波の振幅 
+ 
+C:なし 
+ 
+O: 退院時、1 ヶ月後、それ以降における、良好な神経学的転帰：脳機
+能障害カテゴリー(CPC)１-２，または修正ランキンスコア(mRS)１-
+３ 
+ 
+S: 予後予測精度の研究であって，２x２表（転帰良好に対する真・偽
+陰性と真・偽陽性の数値）が記載されている，またはこれらの数値
+を計算で求めることができるものを対象とした．公表前，総説，症
+[[p2]]
+2 
+ 
+eligible for inclusion. Unpublished studies, reviews, case reports, 
+case series, studies including fewer than 10 patients, letters, 
+editorials, conference abstracts, and studies published in 
+abstract form were excluded.  
+Time frame: The original SysRev search was conducted on 
+October 31, 2021, and included studies dating from 2001. The 
+search was updated on May 20, 2022.  
+例報告，症例検討，１０例未満の研究，短報，エディトリアル，学
+会抄録，抄録形式のものは除外した． 
+ 
+ 
+ 
+T: 最初の SysRev のための文献検索は 20２１年１０月 31 日に行わ
+れ，範囲は２００１年以降のものを含めた。２０２２年５月２０日
+に更新した 
+Treatment recommendations 
+We suggest against using the amplitude of the N20 SSEP wave 
+to predict good neurological outcome of adults who are 
+comatose after cardiac arrest (weak recommendation, very low–
+certainty evidence).  
+推奨と提案 
+ 
+成人で自己心拍再開後の昏睡患者において、良好な神経学的転帰の
+予測に N20 SSEP 波の振幅を使用しないことを提案する。（弱い推
+奨、エビデンスの確実性：非常に低い）。 
+ 
+ 
+１． JRC の見解と解説（400-800 文字） 
+• JRC 蘇生ガイドライン 2020 には，N20 SSEP 波に関する記載がなかった。 
+• 神経学的転帰の予測に関する SR は大きく２段階に分けて行われた．すなわち１段階目は転帰不良の予測で，2020 CoSTR において検討さ
+れている．今回 2021 年既存の SysRev を使用して、2023 CoSTR においては転帰良好の予測が検討された 
+• 転帰良好の予測精度の研究には感度と特異度の相方が求められる．感度とは，検査で良好な転帰が予測される値（バイオマーカーが正常値
+あるいは低値、CT や脳波検査が正常）の患者のうち実際に良好な転帰が確定した患者の割合である。また，特異度とは，検査で不良な転帰
+が予測される値（バイオマーカーが高値、CT や脳波検査が異常）の患者のうち実際に不良な転帰が確定した患者の割合である。 
+• 転帰不良を予測する 2019 年の調査によれば，臨床的にが適切と考える偽陽性率が１％未満となる予測指標はなかった．しかしながら，転
+[[p3]]
+3 
+ 
+帰良好を予測する今回の SR において，この限りなく０％に近い偽陽性率を期待することは必要がないと言う見解を示している．なぜなら，
+転帰良好の予測においては，それが患者治療の撤退や中断を目的としないからである． 
+ 
+• ILCOR では，5 件の研究が同定されたが、全体的なエビデンスの確実性は非常に低いと評価された。N20 振幅の閾値と評価のタイミングに
+一貫性がないため、メタアナリシスは実施されなかった。 
+• N20 振幅が大きいと、心停止後の神経学的転帰が良好であることを高い特異性で予測することを示唆する非常に確実性の低いエビデンスが
+あるが、これを予測する振幅の閾値は研究により大きく異なった。 
+• 各々の研究で、N20 振幅の評価方法が一貫していない。 
+• 観察研究では鎮静薬、特にミダゾラムは N20 振幅を減少させた。 
+• SSEP 振幅を用いて転帰良好を予測する最適なタイミングはまだ確立されていない。 
+• 盲検化できないことはバイアスとなる。 
+• JRC では，転帰不良の予測に関する 2020 年の CoSTR に従って、ROSC 後の生命維持療法の中止は、複数以上の予後予測法を用いて行うべ
+きであると考える． 
+ 
+２．わが国への適用 
+  2025 では成人の心停止後の昏睡患者において，神経学的転帰が良好であることの予測に N20 SSEP 波の振幅を使用しないことを提案する
+予定である。 
+ 
+ 
+３．担当メンバー 
+作業部会員（五十音順） 
+篠崎広一郎、杉山和宏、鈴木秀鷹、林田敬、瀧口徹 
+共同座長（五十音順） 
+[[p4]]
+4 
+ 
+ 福田龍将 
+担当編集委員（五十音順） 
+大下慎一郎、黒田泰弘 
+顧問 
+相引眞幸 
+編集委員長 
+ 坂本哲也 
+ 

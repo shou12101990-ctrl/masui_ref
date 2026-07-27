@@ -1,0 +1,977 @@
+
+[[p1]]
+Vol.: (0123456789)
+1 3
+Cell Tissue Bank (2024) 25:87–98 
+https://doi.org/10.1007/s10561-023-10088-y
+FULL LENGTH PAPER
+Clinical experience of reoperative right ventricular outflow 
+tract reconstruction with valved conduits: risk factors 
+for conduit failure in long‑term follow‑up
+Mariia Havova  · Roman Gebauer · Petra Antonova  · 
+Jaroslav Spatenka  · Jan Burkert  · Ondrej Fabian  · Martin Modrak · 
+Vilem Rohn 
+Received: 2 July 2022 / Accepted: 1 April 2023 / Published online: 21 April 2023 
+© The Author(s) 2023
+Abstract Reconstruction of right ventricular out-
+flow tract in patients with congenital heart disease 
+in various age groups remains a controversial issue. 
+Currently, a little is known about the fate of second-
+ary and subsequent conduit. The aim of the study was 
+to determine risk factors of conduit failure, evaluate 
+long-term conduit survival, find out which type of 
+conduit should be preferred in case of reoperations. 
+We performed a retrospective analysis of a total of 
+249 records of valved conduit secondary and subse-
+quent replacement in right ventricular outflow tract 
+in 197 patients. Median follow-up was 5.7 years. The 
+study endpoints were defined as conduit explants; 
+balloon dilatation of the graft (excluding balloon dila-
+tation of left/right pulmonary artery), transcatheter 
+pulmonary valve implantation; heart transplantation 
+or death of the patient. There were total of 21 deaths 
+(11% mortality) among 197 patients during the fol-
+low-up, 2 patients underwent heart transplant, in 23 
+implanted conduits pulmonary angioplasty or/includ-
+ing transcatheter pulmonary valve implantation was 
+afterwards performed due to graft failure, conduit 
+had to be explanted in 46 cases. After 28  years fol-
+low-up, freedom from graft failure after 5 years was 
+77%, 48% after 10  years and 21% after 15  years. 
+Reoperative right ventricular outflow tract recon-
+struction demonstrates good mid-term and acceptable 
+long-term outcomes regardless of the type of conduit 
+implanted. Worse long-term graft survival of second-
+ary and further conduits is associated with younger 
+age of the recipient at implantation, small size of the 
+M. Havova (*) · P. Antonova · J. Spatenka · J. Burkert · 
+V. Rohn 
+Department of Cardiovascular Surgery, 2nd Faculty 
+of Medicine, Charles University in Prague and Motol 
+University Hospital, V Uvalu 84, 15006 Prague 5, 
+Czech Republic
+e-mail: mariiahavova@gmail.com
+R. Gebauer 
+Children’s Heart Centre, 2nd Faculty of Medicine, Charles 
+University in Prague and Motol University Hospital, 
+Prague, Czech Republic
+J. Spatenka · J. Burkert 
+Department of Transplantation and Tissue Bank, National 
+Allograft Heart Valve Bank, Motol University Hospital, 
+Prague, Czech Republic
+O. Fabian 
+Clinical and Transplant Pathology Centre, Institute 
+for Clinical and Experimental Medicine, Videnska 1958/9, 
+140 21 Prague 4, Czech Republic
+O. Fabian 
+Department of Pathology and Molecular Medicine, 3rd 
+Faculty of Medicine, Charles University and Thomayer 
+Hospital, Videnska 800, 140 59 Prague 4, Czech Republic
+M. Modrak 
+Department of Bioinformatics, 2nd Faculty of Medicine, 
+Charles University, Prague, Czech Republic
+[[p2]]
+88 Cell Tissue Bank (2024) 25:87–98
+1 3
+Vol:. (1234567890)
+conduit, younger age of donor and male donor in case 
+of allograft implantation.
+Keywords Right ventricular outflow tract · 
+Reoperation · Allograft · Valved conduit · Xenograft · 
+Conduit failure
+Introduction
+The possibilities of right ventricular outflow tract 
+(RVOT) reconstruction in patients with congenital 
+heart disease include allografts, xenografts, mechani-
+cal valved conduits and surgical valve reconstructions 
+using pericardial patches or polytetrafluorethylene 
+membranes (Brown et  al. 2007; Brown 2018). As 
+the "gold standard" for reconstruction of the RVOT 
+is considered to be the use of allograft (Warrell et al. 
+2016). Nevertheless, a tendency toward allograft 
+degeneration over the years is still apparent (van de 
+Woestijne et al. 2011) and it is generally known that 
+the future reoperation will most likely be required. 
+Despite the improved methods of allograft preserva-
+tion, a durable cardiovascular allograft has not yet 
+been found—all patients develop early or late allo-
+graft failure or dysfunction (Vogt et al. 1999). Also, 
+because of the allograft unavailability and problems 
+with early allograft preservation, the use of porcine 
+valve conduits was favored through the early 1980s 
+(Koirala et  al. 2002). Late complications however, 
+led to decreased use of porcine valve conduits (Jonas 
+et al. 1985). 
+Long-term results of RVOT reconstruction with 
+valved conduits in reoperations have been scarcely 
+reported thus far and the conduit of choice after first 
+conduit explanation still remains a questionable issue. 
+In our study a retrospective evaluation of reoperative 
+conduit RVOT reconstruction was reviewed to deter -
+mine risk factors of conduit failure in order to pro-
+pose potential ways to improve the long-term results 
+and find out which conduit should be preferred in 
+case of reintervention.
+Materials and methods
+The study was approved by the local research ethic 
+committee—Reference No.: EK-930/18 (15.8.2018). 
+Patient consent was not required.
+Patient characteristics
+The retrospective study included all children and 
+adult patients, who underwent second and further 
+RVOT reconstruction with a valved conduit between 
+October 1988 and October 2016 in our center. In this 
+period, a total of 249 reimplantations of both types of 
+conduits were performed in 197 patients (age 13 days 
+to 42  years). Median follow-up was 5.7  years with 
+the earliest conduit explant 133 days after implanta-
+tion. Among the whole group of reimplantations 191 
+allografts were used for the RVOT reconstruction 
+(127 pulmonary, 57 aortic, in 7 cases the data regard-
+ing the type of the allograft conduit were not avail-
+able due to their older origin). In 53 cases xenografts 
+were used (in case of secondary and subsequent 
+implantation, only Hancock Porcine-valved Dacron 
+conduits, DuPont, Wilmington, DE) and remained 
+5 interventions with unknown conduits (due to the 
+older origin of data). The conduit size was split into 
+?GX–QP ?K?QQ–QT ?K?QU–RP ?H???
+?GX–QS ?K?QT–RP ?HM?s??L
+tion consisted of 106 males (54%) and 91 females 
+(46%). Donor age was split into tertiles (at 22 years 
+and 36  years) and roughly in half (29  years). From 
+the 249 performed conduit reimplantations 197 were 
+secondary operations, 43 were tertiary operations and 
+9 reimplantations were performed as quaternary. The 
+patient initial diagnoses included tetralogy of Fallot 
+(TOF)—38 cases, transposition complexes (TGA, 
+cTGA)—30 cases, pulmonary atresia and stenosis 
+(PA and PS)—62 cases, double outlet right ventri-
+cle (DORV)—28 cases, truncus arteriosus (TA)—73 
+cases and the group of patients, who underwent Ross/
+Ross–Konno procedure due to congenital heart dis-
+ease of aortic valve (aortic stenosis (AS) or aortic 
+insufficiency (AI)—18 cases. Table  1 provides the 
+patients initial diagnosis with stratified main proper -
+ties for all conduits and Table  2 represents the sum-
+mary of allograft—specific properties stratified by 
+diagnosis.
+Allograft characteristics
+All the allografts were harvested, processed, cryopre-
+served and allocated by Department of Transplanta-
+tion and Tissue Bank (Ministry of Health of Czech 
+Republic Code: STB85), National Allograft Heart 
+Valve Bank, Motol University Hospital, Prague. 
+[[p3]]
+89Cell Tissue Bank (2024) 25:87–98 
+1 3
+Vol.: (0123456789)
+Table 1  Summary of main properties of all the conduits stratified by diagnosis
+CTGA DORV PA PTA ROSS TGA TOF
+N interventions 4 28 62 73 18 26 38
+q??R?GVTDH?PW?GUSDH?QT?GSODH?RQ?GSSDH?PT?GWRDH?QO?GVVDH?QO?GTRDH
+Age at 
+intervention 
+(mean, IQR)
+18 (14–21) 13 (8–16) 14 (6–20) 9 (4–13) 12 (6–16) 16 (12–19) 15 (8–21)
+Age at 
+intervention 
+(range)
+12–28 years 2–27 years 242 days–
+42 years
+13 days–
+24 years
+119 days–
+29 years
+2–36 years 1–33 years
+Conduit size 
+(mm, mean, 
+IQR)
+24 (22–26) 24 (22–26) 22 (18–26) 21 (18–25) 23 (21–26) 24 (22–26) 23 (21–26)
+Cross clamp 
+used
+0 (0%) 10 (40%) 13 (29%) 33 (46%) 4 (27%) 4 (19%) 7 (21%)
+Cross clamp 
+time (mean, 
+IQR)
+N/A 85 (74–98) 83 (51–117) 101 (62–128) 98 (61–116) 65 (51–89) 57 (32–85)
+Cross clamp 
+information 
+missing
+0 (0%) 3 (11%) 17 (27%) 1 (1%) 3 (17%) 5 (19%) 5–13%
+Temperature 
+(mean, IQR)
+33 (33–34) 31 (28–34) 31 (30–34) 30 (28–33) 31 (28–34) 27 (20–33) 27 (28–34)
+Temperature 
+missing
+0 3 16 1 4 5 3
+Time of bypass 
+[min] (mean, 
+IQR)
+167 (126–192) 195 (120–255) 188 (134–230) 184 (116–224) 155 (93–202) 171 (118–201) 170 (116–207)
+dbb?S?GPOODH?QW?GPOODH?UP?GPOODH?VR?GPOODH?PW?GPOODH?QT?GPOODH?RU?GXTDH
+Table 2  Summary of allograft—specific properties stratified by diagnosis
+CTGA DORV PA PTA ROSS TGA TOF
+N allografts 2 20 44 58 15 22 30
+Pulmonary allograft 0 (0%) 14 (70%) 32 (73%) 38 (66%) 11 (73%) 10 (45%) 22 (73%)
+Aortic allograft 2 (100%) 6 (30%) 11 (25%) 19 (33%) 4 (27%) 10 (5%) 5 (17%)
+Allograft cryopreserved 2 (100%) 19 (95%) 41 (93%) 53 (91%) 15 (100%) 17 (77%) 26 (87%)
+Allograft storage unknown 0 (0%) 0 (0%) 1 (2%) 2 (3%) 0 (0%) 2 (9%) 3 (10%)
+Time from harvest to preservation (days, 
+mean, IQR)
+20 (18–22) 22 (16–26) 21 (17–27) 21 (14–27) 26 (13–26) 23 (19–27) 22 (18–28)
+Time from harvest to preservation missing 0 (0%) 6 (32%) 13 (32%) 13 (25%) 1 (7%) 8 (47%) 7 (27%)
+Donor male 2 (100%) 12 (60%) 21 (48%) 32 (55%) 7 (47%) 11 (50%) 13 (43%)
+Donor sex missing 0 (0%) 0 (0%) 1 (2%) 2 (3%) 0 (0%) 2 (9%) 4 (13%)
+Donor age (years, mean, IQR) 34 (31–37) 32 (20–44) 33 (20–46) 26 (16–35) 31 (20–40) 32 (22–44) 31 (19–42)
+Donor age missing 0 (0%) 0 (0%) 1 (2%) 2 (3%) 0 (0%) 2 (9%) 4 (13%)
+ABO match 1 (50%) 8 (42%) 21 (50%) 34 (62%) 7 (47%) 9 (47%) 16 (67%)
+ABO missing 0 (0%) 1 (5%) 2 (5%) 3 (5%) 0 (0%) 3 (14%) 6 (20%)
+[[p4]]
+90 Cell Tissue Bank (2024) 25:87–98
+1 3
+Vol:. (1234567890)
+Hearts for the preparation of valve allografts were 
+obtained in accordance with Czech legislation: the 
+"Transplantation Act" (Act No. 285/2002 Sb.) and the 
+"Act of Human Cells and Tissues" (Act No. 296/2008 
+Sb.) (Hlubocký et  al. 2011). The age limit for the 
+donor was set from matured newborn up to 65 years. 
+Processing and storage of the allografts as well as 
+allograft thawing was performed according to stand-
+ard protocols. Shelf life of cryopreserved allografts 
+was arbitrarily set on 5  years (Burkert et  al. 2008, 
+2021; Fiala et al. 2019).
+In the case of small children, except for CT scan 
+measuring, we used nomograms (e.g. patient’s body 
+surface area) to assess the normalized diameter of the 
+allograft, in some cases allograft was reduced in size 
+by being bicuspidalized.
+Operative techniques
+The surgical procedures were performed through 
+median sternotomy, on beating hearts, with the use 
+of standard cardiopulmonary bypass with mild hypo-
+thermia or normothermia. If associated intracar -
+diac procedures were required, the aorta was cross-
+clamped and myocardial protection was performed 
+using blood or crystalloid cardioplegia. The allograft 
+was sewn between the right ventricle and pulmonary 
+artery, using the interposition technique. The anas-
+tomoses were made with a running polypropylene 
+suture. The mean time of cardiopulmonary bypass 
+was 181 min, mean time of aortic cross-clamping (if 
+used) was 89 min.
+Data collection
+Follow-up data of patients were retrospectively 
+collected from the database and hospital records. 
+The day of second and further implantation of 
+each graft was considered the starting point of 
+graft survival. Clinical follow-up was performed 
+by pediatric (patients < 19  years) and adult cardi-
+ologist experienced with congenital heart diseases 
+(patients > 19 years) at our center, and follow-up data 
+were subsequently obtained from medical records of 
+the hospital. Clinical variables assessed as possible 
+negative predictors included: conduit type, patients 
+age, patients’ sex, initial diagnoses, the number of 
+reintervention and type of surgery (Ross/non-Ross 
+groups). In case of allograft implantation possible 
+examined risk factors were the following: allograft 
+type, diameter, method of preservation, time from 
+harvesting to preservation and time of preservation 
+itself, donor age, donor sex, AB0 matching. The 
+study endpoint was conduit failure, defined as conduit 
+explanations; conduit-related intervention without 
+explants: balloon dilatation of the conduit (exclud-
+ing balloon dilatation of left/right pulmonary artery 
+distal to the conduit), transcatheter pulmonary valve 
+implantation (TPVI); heart transplantation and death 
+of the patient. Exclusion criterium was infective 
+endocarditis on pulmonary valve before the current 
+operation.
+Statistical methods
+To assess association between individual variables 
+and outcomes we used the Cox proportional hazards 
+model as implemented in the R package survival 
+(Therneau and Grambsch 2000). For each compari-
+son, we run two analyses: an unadjusted model where 
+we compare a single-covariate model to a model 
+without any predictor and an adjusted model where 
+we include four associations found in previous work 
+(age at intervention, conduit size, type, and primary 
+diagnosis) and compare model with those four predic-
+tors and the covariate of interest to a model with just 
+the four predictors. For the comparisons we use the 
+likelihood ratio test. All p-values reported in the main 
+text were adjusted for multiple comparisons using the 
+Benjamini–Hochberg method (Hochberg and Benja-
+?PXXOH???????TDM?
+Survival curves and their 95% confidence intervals 
+were visualized using the R package survminer (Kas-
+sambara et al. 2017).
+Results
+There were total of 21 deaths (11% mortality) 
+among 197 patients during the follow-up. Two 
+patients underwent heart transplant afterwards. In 
+23 implanted conduits pulmonary angioplasty or/
+including transcatheter pulmonary valve implanta-
+tion was afterwards performed due to conduit failure. 
+Allograft had to be explanted in 52 cases. 5-year free-
+dom from graft failure in all conduits was 77% (75% 
+in allografts and 88% in Hancock Porcine-valved 
+Dacron conduits), 10-year freedom from graft failure 
+[[p5]]
+91Cell Tissue Bank (2024) 25:87–98 
+1 3
+Vol.: (0123456789)
+was 48% (50% in allografts and 44% in Hancock 
+Porcine-valved Dacron conduits), 15-year freedom 
+from graft failure was 21% with 23% in allografts 
+and 11% in Hancock Porcine-valved Dacron con-
+duits respectively. Four conduits are in place 20 years 
+after implantation. Earliest allograft was replaced 
+in 13  days after the day of implantation of primary 
+conduit. Infective endocarditis was detected in eight 
+cases. Early mortality (30 day mortality after surgery 
+and perioperative mortality) assessed 3% (6 patients 
+and none of them was conduit related). Representa-
+????????eM PM
+Risk factors for conduit failure
+Comparing the type of conduit (allograft vs. Han-
+cock Porcine-valved Dacron conduit) in rein-
+tervention, the unadjusted model does not show 
+statistically significant difference survival and is 
+consistent with both large increase and decrease 
+in survival (p = 0.84, likelihood ratio test, the 95% 
+CI for hazard ratio is (0.64–1.95). In the adjusted 
+model we also do not see a significant difference for 
+conduit type—allograft vs. Hancock Porcine-valved 
+Dacron conduit (p = 0.09, likelihood ratio test) and 
+Fig. 1  A plot of all con-
+duits and events, including 
+early mortality. Each row is 
+a single patient. The vertical 
+dashed line represents the 
+end of data collection
+1990 2000 2010
+Date
+Patient
+EVENT_TYPE
+Conduit
+Catheter
+Operation
+Heart Tx
+Early Death
+Death
+CND_TYPE
+Allograft
+Xenograft
+Unknown
+[[p6]]
+92 Cell Tissue Bank (2024) 25:87–98
+1 3
+Vol:. (1234567890)
+the associated confidence for hazard ratio of Han-
+cock Porcine-valved Dacron conduit over allograft 
+is (0.26–0.99), so under the adjusted model, the 
+data are mostly inconsistent with increased hazard 
+associated with Hancock Porcine-valved Dacron 
+conduits. Comparing pulmonary and aortic allo-
+graft separately in unadjusted survival model pro-
+vides weak evidence that included subtype creates 
+an association between graft type and conduit sur -
+vival (p = 0.06, likelihood ratio test), the hazard 
+ratio for pulmonary allografts vs. aortic allografts is 
+(0.29–0.83) and for Hancock Porcine-valved Dacron 
+conduits vs. aortic allografts is (0.41–1.41). Com-
+puting the adjusted comparison, gives us a similar 
+significance level (p = 0.09, likelihood ratio test) 
+and similar hazard ratios for pulmonary allografts 
+vs. aortic allografts (0.37–1.2) and for Hancock 
+Porcine-valved Dacron conduits vs. aortic allografts 
+is (0.22–0.86) so substantial uncertainty about the 
+association remains. Cryopreserved allografts were 
+used more often in the included diagnoses (173 cry -
+opreserved, 10 fresh, 8 of unknown origin), which 
+also gives non-significant comparison with very 
+wide uncertainty (p = 0.34 in unadjusted model with 
+hazard ratio 0.87–10.01).
+Comparing subgroups of secondary, tertiary, and 
+quaternary implantations in the adjusted model, ter -
+tiary conduits are unlikely to be associated with 
+substantially lower hazard than secondary conduits, 
+although we cannot usefully constrain any potentially 
+increased hazard and the data are consistent with no 
+difference—the 95% CI for hazard ratio is (1.0–3.65). 
+In the unadjusted model the confidence intervals are 
+too wide for any useful conclusions.
+There was a robust negative association of older 
+age at intervention with longer graft survival. This 
+relationship is significant under all tested model vari-
+ants (all p < 0.02, likelihood ratio test). The 95% CI 
+for hazard ratio between lowest and highest tertile of 
+age at intervention is 0.16–0.52 (Fig.  2) Mean recipi-
+ents age at implantation of the conduits was 13 years, 
+with a range of 13 days after birth to 42 years.
+For the unadjusted model, we tested both split-
+ting the conduit size roughly into tertiles (9–21 mm, 
+QQ–QT ?K?QU–RP ?K??eM ?RH????
+?GX–QS ?K?QT–RP ?HM?h??K?
+larger conduit size is associated with longer graft sur-
+vival (p < 0.001, likelihood ratio test). In the adjusted 
+model, the resulting 95% CI for hazard ratio of con-
+duits 10 mm apart in size (0.17–1.06) does not allow 
+for strong conclusions.
+In unadjusted models, higher donor age is associ-
+ated with longer conduit survival (p < 0.001, like-
+lihood ratio test), however the association can be 
+potentially ascribed to the correlation between donor 
+age and age at intervention or conduit size. In the 
+adjusted model, the resulting 95% CI for hazard ratio 
+of donors one year apart (0.96–1.01) rules out strong 
+associations (Fig. 4).
+Unexpectedly, conduits from male donors are asso-
+ciated with shorter graft survival in both unadjusted 
+and adjusted models (p = 0.03, likelihood ratio test, 
+Fig. 2  Kaplan–Meier 
+curves for conduit failure 
+stratified by tertiles of 
+recipient age (0–8 years, 
+8–16 years, 16–42 years)
+0.00
+0.25
+0.50
+0.75
+1.00
+01 02 0
+Time
+Survival probability
+Strata AGE_3=LOWA GE_3=MIDDLE AGE_3=HIGH
+72 12 1
+83 30 3
+WO?QT?O`fd~R\ghfg
+AGE_3=MIDDLE
+AGE_3=LOW
+01 02 0
+Time
+Strata
+Number at risk
+[[p7]]
+93Cell Tissue Bank (2024) 25:87–98 
+1 3
+Vol.: (0123456789)
+95% CI for hazard ratio 1.2–3.93) (Fig.  5). Further-
+more, we tested a sex match/mismatch between donor 
+and recipient, where we cannot make strong conclu-
+sions (p = 0.84, hazard ratio 0.62–1.78). Additionally, 
+we tested all four combinations of donor and recipient 
+sex, where a possible difference cannot be proven nor 
+rejected (Fig. 6).
+Discussion
+For the first time, RVOT allograft implantation 
+technique was described by Ross and Somerville 
+(1966). This has resulted in ever increasing applica-
+tion of allografts, which were further widely used for 
+the correction of complex congenital heart defects 
+Fig. 3  Kaplan–Meier 
+curves for conduit failure 
+stratified by tertiles of 
+conduit size
+0.00
+0.25
+0.50
+0.75
+1.00
+05 10 15 20
+Time
+Survival probability
+Strata SIZE_3=LOW SIZE_3=MIDDLE SIZE_3=HIGH
+70 31 12 51
+90 55 34 14 2
+UR?RV?PU?QOrhyd~R\ghfg
+SIZE_3=MIDDLE
+SIZE_3=LOW
+05 10 15 20
+Time
+Strata
+Number at risk
+Fig. 4  Kaplan–Meier 
+curves for conduit failure 
+stratified by tertiles of 
+donor age
+0.00
+0.25
+0.50
+0.75
+1.00
+05 10 15 20
+Time
+Survival probability
+Strata AGE_DON_3=LOW AGE_DON_3=MIDDLE AGE_DON_3=HIGH
+61 35 18 91
+51 31 14 20
+58 31 19 82AGE_DON_3=HIGH
+AGE_DON_3=MIDDLE
+AGE_DON_3=LOW
+05 10 15 20
+Time
+Strata
+Number at risk
+[[p8]]
+94 Cell Tissue Bank (2024) 25:87–98
+1 3
+Vol:. (1234567890)
+(Cleveland et al. 1992). Cryopreservation solved the 
+storage and availability problems that plagued the 
+early use of allografts (Albert et al. 1993).  Extend-
+ing of allograft expiration period over 5 years might 
+improve the allograft availability (Fiala et  al. 2019; 
+Burkert et al. 2021). Nowadays, allograft heart valves 
+became slowly conduits of choice in both primary 
+operations and reoperations in the RVOT reconstruc-
+tion. Benefits of their use generally include ease of 
+implantation, better hemodynamics, improving right 
+ventricle function after operation, their resistance 
+to infection, decreased number of thromboembolic 
+events, lack of need for anticoagulation and the pos-
+sibility to use the branch of allograft as a patch for 
+distal pulmonary artery stenoses.
+RVOT reconstruction with an allograft conduit can 
+be performed with good patient survival, acceptable 
+long-term allograft durability, and good perceived 
+quality of life. In the study from Brown et al. (2005) 
+reported a freedom from allograft failure of 60% at 
+5  years and 43% at 15  years, Niwaya et  al. (1999) 
+reported a freedom from allograft failure of 82% at 
+8  years, Stark et  al. (1998) described 58% and 31% 
+freedom from conduit replacement at 10 and 15 years, 
+Fig. 5  Kaplan–Meier 
+curves for conduit failure 
+stratified by donor sex
+0.00
+0.25
+0.50
+0.75
+1.00
+05 10 15 20
+Time
+Survival probability
+Strata SEX_DONOR=F SEX_DONOR=M
+78 44 24 82
+92 53 27 11 1SEX_DONOR=M
+SEX_DONOR=F
+05 10 15 20
+Time
+Strata
+Number at risk
+Fig. 6  Kaplan–Meier 
+curves for conduit failure 
+stratified by donor sex 
+match/mismatch. F2F a 
+female donor and female 
+recipient, F2M a female 
+donor and male recipient, 
+M2F a male donor and 
+female recipient, M2M 
+a male donor and male 
+recipient 0.00
+0.25
+0.50
+0.75
+1.00
+05 10 15 20
+Time
+Survival probability
+Strata SEX_BOTH=F2F SEX_BOTH=F2M SEX_BOTH=M2F SEX_BOTH=M2M
+40 23 14 40
+38 21 10 42
+RV?QO?PO?SO
+55 33 17 71SEX_BOTH=M2M
+SEX_BOTH=M2F
+SEX_BOTH=F2M
+SEX_BOTH=F2F
+05 10 15 20
+Time
+Strata
+Number at risk
+[[p9]]
+95Cell Tissue Bank (2024) 25:87–98 
+1 3
+Vol.: (0123456789)
+respectively. Bielefeld et al. (2001) reported freedom 
+from early death, valve-related late death, surgical or 
+catheter intervention without replacement, or allograft 
+explant in total 35 patients who underwent allograft 
+explant at 5, 10, and 12.4  years postoperatively was 
+89% (95% CL 79–100%), 76% (95% CL 49–100%), 
+and 76% (95% CL 49–100%), respectively. 
+However, recent studies have demonstrated dis-
+appointing mid- and long-term results when used in 
+neonates, infants, and children (da Costa et al. 2017). 
+Our data showed the following results: 5-year free-
+dom from graft failure in all conduits was 77% (75% 
+in allografts and 88% in Hancock Porcine-valved 
+Dacron conduits), 10-year freedom from graft failure 
+was 48% (50% in allografts and 44% in Hancock Por-
+cine-valved Dacron conduits), 15-year freedom from 
+graft failure was 21% with 23% in allografts and 11% 
+in Hancock Porcine-valved Dacron conduits respec-
+tively, which are different from the data reported by 
+Bielefeld and coworkers. Comparisons to studies that 
+describe allograft or xenograft survival in pediatric 
+populations are difficult because these conduits are 
+smaller and mostly placed in a nonorthotopic posi-
+tion (Niwaya et  al. 1999). Kalfa et  al. (2012) report 
+better long-term results for patients who underwent 
+Ross or Ross–Kono procedures than patients with 
+other congenital hearts defects. This may be because 
+the allograft is implanted in an orthotopic position, 
+which reduces turbulence in the conduit and increases 
+its durability. In addition, it is possible to oversize the 
+allograft to a much greater degree than in other opera-
+tions. Although in our study comparison of allograft 
+survival in patients from Ross and non-Ross did not 
+result as statistically significant—most likely because 
+of the small number of patients in Ross group, where 
+the incidence of secondary and subsequent replace-
+ments is rare—which can also confirm better long-
+term survival of the allograft in the following group.
+Cumulative mortality in our study was 11% (21 
+patients) in 197 recipients of secondary and further 
+conduits implanted to the RVOT. Their main preop-
+erative diagnoses were truncus arteriosus (TA)—6 
+patients, pulmonary atresia and stenosis (PA and 
+PS)—6 patients, tetralogy of Fallot (TOF)—4 
+patients, transposition complexes (TGA, cTGA)—4 
+patients, double outlet right ventricle (DORV)—2 
+patients and 1 patient, who underwent Ross proce-
+dure. We observed early mortality (defined as perio-
+perative and 30  day mortality after surgery) of 3%. 
+Mortality is probably mainly associated with early 
+surgical era and patients’ primary diagnosis (TA and 
+PA and PS). Those data are consistent with the data 
+referred by Rodefeld and coworkers, where the diag-
+nosis of truncus arteriosus (p = 0.001) and surgery 
+before 1992 (p = 0.05) remained significant by multi-
+variate analysis (Rodefeld et al. 2008).
+Negative predictors of accelerated allograft degen-
+eration according to the previous studies also include 
+small size of allograft, young age of recipient, aor -
+tic type of allograft and duration of warm ischemia 
+(Bielefeld et  al. 2001; Tweddell et  al. 2000; Baskett 
+et  al. 1996). Our data were consistent regarding the 
+conduit size and age at intervention. In our results, in 
+case of small allograft size we should however note 
+that there was a strong correlation between conduit 
+size and age at intervention. There also was an asso-
+ciation of longer preservation with longer conduit 
+survival (p = 0.02). However, time of preservation is 
+positively correlated with age at intervention and the 
+same comparison in the adjusted model is not sig-
+nificant. (p = 0.7) In our study there was some mild 
+evidence for additional differences due to graft type, 
+however, just as in case of preservation time, those 
+results were potentially false positive and do not 
+result in significant differences after multiple testing 
+correction.
+Although in current research, we did not study 
+reoperation itself as the risk factor for conduit fail-
+ure, comparing the primary with any subsequent 
+conduit does not provide significant difference (with 
+p = 0.57, likelihood ratio test). According to Bielefeld 
+et  al. graft survival for replacement conduits turned 
+out to be similar to primary allografts—although not 
+statistically significant, actuarial event-free curves 
+for primary and reoperative allografts demonstrated 
+improved graft survival in the replacement allograft 
+group (Bielefeld et al. 2001). Meyns et al. (2005) also 
+states that the second allograft performs as well as 
+the first where Kaplan–Meier allograft survival curve 
+for the first and the second allografts implanted in 
+the subgroup of patients, who actually received two 
+homografts, illustrates that the survival of the sec-
+ond graft is slightly better than the first graft. Clearly, 
+in this setting, one has to remind that the patients 
+are older when they receive their second graft. The 
+results are also consistent with Lewis et  al., which 
+demonstrated no evidence for a shorter life span of 
+the second graft (Lewis et al. 2023). 
+[[p10]]
+96 Cell Tissue Bank (2024) 25:87–98
+1 3
+Vol:. (1234567890)
+In our cohort, conduits from female donors tend 
+to have lower failure risk. This is unexpected in light 
+of previous reports of Kalfa et al., which showed that 
+female sex of the donor allograft significantly alter the 
+outcomes of the allograft in the multivariate analysis. 
+According to their study, choosing allografts coming 
+from a male donor older than 30 years, if available, is 
+recommended to reconstruct the right ventricular out-
+flow tract (Kalfa et al. 2011). However, in our study, 
+further testing the donor/recipient sex match/mis-
+match did not result in statistically significant differ -
+ence. So, the influence of donor sex on graft survival 
+is still not clear and the reasons underlying should be 
+confirmed in the further research focusing on donor/
+recipient sex-mismatch in larger series.
+The comparisons for initial diagnosis, type of sur -
+gery (Ross vs. non-Ross group), time from harvest-
+ing to preservation, recipient sex and ABO match-
+ing also yield inconclusive results (p = 0.87, 0.30, 
+0.84, 0.70, 0.98 respectively likelihood ratio test, the 
+95% CI for hazard ratios for ROSS vs. other diag-
+nosis is (0.82–3.92) for conduits preserved a week 
+apart is (0.87–1.32) for male sex is (0.51–1.38) and 
+for ABO matching is (0.67–2.03) so in all cases the 
+data are consistent with both substantial increases and 
+decreases in survival across the various categories.
+Allografts are generally limited in the smaller sizes 
+(below 16 mm). So, allograft availability is an issue 
+for the infant and neonates. Downsizing of adult allo-
+grafts, to solve this problem, was introduced by some 
+surgeons by removing one semilunar valve leaflet 
+with a corresponding strip of the conduit. This con-
+verts the valve to a bicuspid arrangement, but this 
+appears to function well in vitro tests and in patients 
+(Koirala et al. 2002). In our cohort of secondary and 
+subsequent allografts, we had only 4 bicuspidalized 
+allografts. All of them were cryopreserved pulmonary 
+allografts with primary patient’s diagnosis of truncus 
+arteriosus. Earliest allograft was replaced in 9 months 
+after the day of implantation, conduit failure for the 
+remaining conduits was registered in 46, 52 and 
+57  months after implantation. This worse long-term 
+survival can be probably associated with younger age 
+of the recipient at implantation, small size of the con-
+duit, which, according to our study, resulted as signif-
+icant risk factors of conduit failure and primary diag-
+nosis of truncus arteriosus, which was revealed to be 
+one of the significant risk factors for need of replace-
+ment according to Rodefeld et al. (2008).
+In the future, we can expect a further improvement 
+in the fate of allografts by their decellularization. Use 
+of decellularized allografts for RVOT reconstruction 
+in children was associated with a low incidence of 
+structural valve deterioration and conduit failure in 
+some studies. Although these results still need to be 
+confirmed in larger series and with longer follow-up, 
+recent data suggest favorable outcomes, in the first 
+decade after the operation (Cleveland et al. 1992).
+Study limitations
+A limitation of the study is the retrospective design 
+subjected to all limitations associated with this type 
+of research. The study was limited by the lack of 
+data at seven cases. In those cases, the complete data 
+regarding the conduit were not available due to their 
+older origin.
+Our study focused on the endpoint of valve or con-
+duit failure, we did not include dysfunction at various 
+degrees, which did not lead to replacement, balloon 
+dilatation of the implanted conduit, percutaneous 
+valve implantation, heart transplantation or patient 
+death.
+For interpreting the unadjusted model results 
+(where we include associations from the previous 
+work—age at intervention, conduit size and type) 
+we should note that there is substantial correlation 
+between many of the predictors and thus the associa-
+tions of any individual predictor with outcome can-
+not be safely interpreted as predictive beyond the 
+sampling frame of study. This limitation is however 
+slightly alleviated in the adjusted model, but there are 
+many other correlations that are not handled by the 
+adjustments.
+Conclusion
+Reoperative RVOT reconstruction is possible, with 
+good mid-term and acceptable long-term event-free 
+graft survival and can be accomplished with reason-
+ably low morbidity and mortality, although conduit 
+failure and explant are inevitable. Our study showed 
+that long-term survival between allografts and Han-
+cock Porcine-valved Dacron conduits in the RVOT 
+for secondary and subsequent conduits shows no sta-
+tistically significant differences, which means that 
+both types of conduits can be successfully used for 
+[[p11]]
+97Cell Tissue Bank (2024) 25:87–98 
+1 3
+Vol.: (0123456789)
+the reoperative reconstruction of the RVOT. Among 
+249 cases of conduit reimplantation in patients under-
+going the RVOT reconstruction with both types of 
+conduits, worse long-term graft survival was associ-
+ated with younger age of the recipient at implanta-
+tion, small size of the conduit, younger age of donor 
+and male donor in case of allograft implantation.
+Author contributions Author MH, RG, PA, OF, VR have 
+given substantial contributions to the conception and the design 
+of the manuscript, author JŠ and JB to acquisition, author MM 
+to analysis and interpretation of the data. All authors have 
+participated to drafting the manuscript, author MH and VR 
+revised it critically. All authors read and approved the final 
+version of the manuscript. All authors contributed equally to 
+the manuscript and read and approved the final version of the 
+manuscript.
+Funding Open access publishing supported by the National 
+Technical Library in Prague. No funding was received to assist 
+with the preparation of this manuscript. The authors have no 
+relevant financial or non-financial interests to disclose.
+Data availability The datasets generated during and/or ana-
+lysed during the current study are available from the corre-
+sponding author on reasonable request.
+Open Access This article is licensed under a Creative Com-
+mons Attribution 4.0 International License, which permits 
+use, sharing, adaptation, distribution and reproduction in any 
+medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Crea-
+tive Commons licence, and indicate if changes were made. The 
+images or other third party material in this article are included 
+in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not 
+included in the article’s Creative Commons licence and your 
+intended use is not permitted by statutory regulation or exceeds 
+the permitted use, you will need to obtain permission directly 
+from the copyright holder. To view a copy of this licence, visit 
+http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+References
+Albert JD, Bishop DA, Fullerton DA, Campbell DN, Clarke 
+DR (1993) Conduit reconstruction of the right ventricular 
+outflow tract. Lessons learned in a twelve-year experience. 
+J Thorac Cardiovasc Surg 106(2):228–235 (discussion 
+235–6)
+Baskett RJ, Ross DB, Nanton MA, Murphy DA (1996) Factors 
+in the early failure of cryopreserved homograft pulmonary 
+valves in children: preserved immunogenicity? J Thorac 
+Cardiovasc Surg 112(5):1170–1178. https:// doi. org/ 10. 
+1016/ S0022- 5223(96) 70130-7 (discussion 1178–9)
+Bielefeld MR, Bishop DA, Campbell DN, Mitchell MB, Grover 
+FL, Clarke DR (2001) Reoperative homograft right ven-
+tricular outflow tract reconstruction. Ann Thorac Surg. 
+71(2):482–487. https:// doi. org/ 10. 1016/ s0003- 4975(00) 
+02521-2 (discussion 487–8)
+a?iv?GQOPWH?o????
+right ventricle-pulmonary artery reconstruction: do they 
+outperform xenografts and allografts? J Thorac Cardio-
+vasc Surg 155(6):2577–2578. https:// doi. org/ 10. 1016/j. 
+jtcvs. 2018. 01. 019
+Brown JW, Ruzmetov M, Rodefeld MD, Vijay P, Turrentine 
+lv?GQOOTH?q?????
+with an allograft conduit in non-ross patients: risk factors 
+for allograft dysfunction and failure. Ann Thorac Surg 
+80(2):655–663. https:// doi. org/ 10. 1016/j. athor acsur. 2005. 
+02. 053 (discussion 663–4)
+Brown JW, Ruzmetov M, Vijay P, Rodefeld MD, Turrentine 
+lv?GQOOVH?q?????
+with a polytetrafluoroethylene monocusp valve: a twelve-
+year experience. J Thorac Cardiovasc Surg 133(5):1336–
+1343. https:// doi. org/ 10. 1016/j. jtcvs. 2006. 12. 045
+Burkert J, Krs O, Vojácek J et al (2008) Cryopreserved semilu-
+nar heart valve allografts: leaflet surface damage in scan-
+ning electron microscopy. Zentralbl Chir 133(4):367–373. 
+https:// doi. org/ 10. 1055/s- 2008- 10768 72
+Burkert J, Kochová P, Tonar Z et al (2021) The time has come 
+to extend the expiration limit of cryopreserved allograft 
+heart valves. Cell Tissue Bank 22(2):161–184. https:// doi. 
+org/ 10. 1007/ s10561- 020- 09843-2
+Cleveland DC, Williams WG, Razzouk AJ et al (1992) Failure 
+of cryopreserved homograft valved conduits in the pulmo-
+nary circulation. Circulation 86(5 Suppl):II150–II153
+da Costa FDA, Etnel JRG, Torres R, Balbi Filho EM, Calixto 
+A, Mulinari LA (2017) Decellularized allografts for right 
+ventricular outflow tract reconstruction in children. World 
+J Pediatr Congenit Heart Surg 8(5):605–612. https:// doi. 
+org/ 10. 1177/ 21501 35117 723916
+Fiala R, Kochová P, Kubíková T et  al (2019) Mechanical 
+and structural properties of human aortic and pulmo-
+nary allografts do not deteriorate in the first 10 years 
+of cryopreservation and storage in nitrogen. Cell Tis-
+sue Bank 20(2):221–241. https:// doi. org/ 10. 1007/ 
+s10561- 019- 09762-x
+Hlubocký J, Mokráček A, Nováček V et  al (2011) Mechani-
+cal properties of mitral allografts are not reasonably 
+influenced by cryopreservation in sheep model. Physiol 
+Res 60(3):475–482. https:// doi. org/ 10. 33549/ physi olres. 
+932074
+Hochberg Y, Benjamini Y (1990) More powerful procedures 
+for multiple significance testing. Stat Med 9(7):811–818. 
+https:// doi. org/ 10. 1002/ sim. 47800 90710
+Jonas RA, Freed MD, Mayer JE, Castaneda AR (1985) Long-
+term follow-up of patients with synthetic right heart con-
+duits. Circulation 72(3 Pt 2):II77–II83
+Kalfa D, Macé L, Metras D, Kreitmann B (2011) How to 
+choose the best available homograft to reconstruct the 
+right ventricular outflow tract. J Thorac Cardiovasc Surg 
+142(4):950–953. https:// doi. org/ 10. 1016/j. jtcvs. 2011. 03. 
+005
+Kalfa DM, Loundou A, Nouaille de Gorce Y et al (2012) Pul-
+monary position cryopreserved homograft in non-Ross 
+patients: how to improve the results? Eur J Cardiothorac 
+Surg 42(6):981–987. https:// doi. org/ 10. 1093/ ejcts/ ezs248
+[[p12]]
+98 Cell Tissue Bank (2024) 25:87–98
+1 3
+Vol:. (1234567890)
+Kassambara A, Kosinski M, Biecek P, Fabian S (2017) sur -
+vminer: drawing survival curves using ‘ggplot2’. R pack -
+age version 03
+Koirala B, Merklinger SL, Van Arsdell GS et al (2002) Extend-
+ing the usable size range of homografts in the pulmonary 
+circulation: outcome of bicuspid homografts. Ann Thorac 
+Surg 73(3):866–869. https:// doi. org/ 10. 1016/ s0003- 
+4975(01) 03559-7 (discussion 869–70)
+Lewis MJ, Malm T, Hallbergson A et  al (2023) Long-term 
+follow-up of right ventricle to pulmonary artery biologic 
+valved conduits used in pediatric congenital heart surgery. 
+Pediatr Cardiol 44(1):102–115. https:// doi. org/ 10. 1007/ 
+s00246- 022- 02956-3
+Meyns B, Jashari R, Gewillig M et al (2005) Factors influenc-
+ing the survival of cryopreserved homografts. The second 
+homograft performs as well as the first. Eur J Cardio-
+thorac Surg 28(2):211–216. https:// doi. org/ 10. 1016/j. ejcts. 
+2005. 03. 041 (discussion 216)
+Niwaya K, Knott-Craig CJ, Lane MM, Chandrasekaren K, 
+Overholt ED, Elkins RC (1999) Cryopreserved homo-
+graft valves in the pulmonary position: risk analysis for 
+intermediate-term failure. J Thorac Cardiovasc Surg 
+117(1):141–146. https:// doi. org/ 10. 1016/ s0022- 5223(99) 
+70479-4 (discussion 46–7)
+q?lcK?q?lK?s?lvK?a?iv?
+(2008) Reoperative right ventricular outflow tract conduit 
+reconstruction: risk analyses at follow up. J Heart Valve 
+Dis 17(1):119–126 (discussion 126)
+Ross DN, Somerville J (1966) Correction of pulmonary atre-
+sia with a homograft aortic valve. Lancet 2(7479):1446–
+1447. https:// doi. org/ 10. 1016/ s0140- 6736(66) 90600-3
+Stark J, Bull C, Stajevic M, Jothi M, Elliott M, de Leval M 
+(1998) Fate of subpulmonary homograft conduits: deter -
+minants of late homograft failure. J Thorac Cardiovasc 
+Surg 115(3):506–514. https:// doi. org/ 10. 1016/ S0022- 
+5223(98) 70312-5 (discussion 514–6)
+Therneau TM, Grambsch PM (2000) modeling survival data: 
+extending the Cox model. Statistics for biology and 
+health, 1st edn. Springer, New York
+Tweddell JS, Pelech AN, Frommelt PC et  al (2000) Factors 
+affecting longevity of homograft valves used in right 
+ventricular outflow tract reconstruction for congenital 
+heart disease. Circulation 102(19 Suppl 3):III130–III135. 
+https:// doi. org/ 10. 1161/ 01. cir. 102. suppl_3. iii- 130
+van de Woestijne PC, Mokhles MM, de Jong PL, Witsenburg 
+M, Takkenberg JJ, Bogers AJ (2011) Right ventricular 
+outflow tract reconstruction with an allograft conduit in 
+patients after tetralogy of Fallot correction: long-term fol-
+low-up. Ann Thorac Surg 92(1):161–166. https:// doi. org/ 
+10. 1016/j. athor acsur. 2011. 02. 036
+Vogt PR, Stallmach T, Niederhäuser U et al (1999) Explanted 
+cryopreserved allografts: a morphological and immuno-
+histochemical comparison between arterial allografts and 
+allograft heart valves from infants and adults. Eur J Car -
+diothorac Surg 15(5):639–644. https:// doi. org/ 10. 1016/ 
+s1010- 7940(99) 00053-6 (discussion 644–5)
+Warrell DA, Cox TM, Firth JD, Dwight J (2016) Oxford text-
+book of medicine: cardiovascular disorders: selected and 
+updated chapters from the Oxford textbook of medicine, 
+5th edn. Oxford University Press, Oxford
+Publisher’s Note Springer Nature remains neutral with regard 
+to jurisdictional claims in published maps and institutional 
+affiliations.

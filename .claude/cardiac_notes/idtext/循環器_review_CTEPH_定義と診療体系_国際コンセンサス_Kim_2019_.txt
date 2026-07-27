@@ -1,0 +1,595 @@
+
+[[p1]]
+Chronic thromboembolic pulmonary
+hypertension
+Nick H. Kim 1, Marion Delcroix 2, Xavier Jais 3, Michael M. Madani 4,
+Hiromi Matsubara5, Eckhard Mayer 6, Takeshi Ogo 7, Victor F. Tapson 8,
+Hossein-Ardeschir Ghofrani 6,9,10,12 and David P. Jenkins 11,12
+Number 11 in the series
+“Proceedings of the 6th World Symposium on Pulmonary Hypertension ”
+Edited by N. Galiè, V.V. McLaughlin, L.J. Rubin and G. Simonneau
+Affiliations: 1Dept of Medicine, University of California San Diego, La Jolla, CA, USA. 2Dept of Respiratory
+Diseases, University Hospitals of Leuven and Respiratory Division, Dept CHROMETA, KU Leuven – University of
+Leuven, Leuven, Belgium. 3Université Paris-Sud, AP-HP, Centre de Référence de l ’Hypertension Pulmonaire,
+Service de Pneumologie, Département Hospitalo-Universitaire (DHU) Thorax Innovation (TORINO), Hôpital
+Bicêtre, Le Kremlin-Bicêtre, France. 4Cardiovascular and Thoracic Surgery, University of California San Diego,
+La Jolla, CA, USA. 5National Hospital Organization Okayama Medical Center, Okayama, Japan. 6Kerckhoff
+Clinic Bad Nauheim, University of Giessen, Bad Nauheim, Germany. 7Division of Advanced Medical Research
+in Pulmonary Hypertension, Dept of Pulmonary Circulation, National Cerebral and Cardiovascular Center,
+Osaka, Japan. 8Dept of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA, USA. 9University of Giessen
+and Marburg Lung Centre (UGMLC), Justus-Liebig University Giessen and Member of the German Center for
+Lung Research (DZL), Giessen, Germany.
+10Dept of Medicine, Imperial College London, London, UK. 11Royal
+Papworth Hospital, Cambridge, UK. 12These two authors contributed equally to this work.
+Correspondence: Nick H. Kim, Dept of Medicine, University of California San Diego, 9300 Campus Point Drive,
+MC 7381, La Jolla, CA 92037, USA. E-mail: h33kim@ucsd.edu
+@ERSpublications
+State of the art and research perspectives in chronic thromboembolic pulmonary hypertension,
+including treatment algorithm http:/ /ow.ly/C3Iy30mfUly
+Cite this article as: Kim NH, Delcroix M, Jais X, et al . Chronic thromboembolic pulmonary hypertension.
+Eur Respir J 2019; 53: 1801915 [https://doi.org/10.1183/13993003.01915-2018].
+ABSTRACT Chronic thromboembolic pulmonary hypertension (CTEPH) is a complication of
+pulmonary embolism and a major cause of chronic PH leading to right heart failure and death. Lung
+ventilation/perfusion scintigraphy is the screening test of choice; a normal scan rules out CTEPH. In the
+case of an abnormal perfusion scan, a high-quality pulmonary angiogram is necessary to confirm and
+define the pulmonary vascular involvement and prior to making a treatment decision. PH is confirmed
+with right heart catheterisation, which is also necessary for treatment determination. In addition to
+chronic anticoagulation therapy, each patient with CTEPH should receive treatment assessment starting
+with evaluation for pulmonary endarterectomy, which is the guideline recommended treatment. For
+technically inoperable cases, PH-targeted medical therapy is recommended (currently riociguat based on
+the CHEST studies), and balloon pulmonary angioplasty should be considered at a centre experienced with
+this challenging but potentially effective and complementary intervention.
+Received: Oct 06 2018 | Accepted: Oct 09 2018
+Copyright ©ERS 2019. This article is open access and distributed under the terms of the Creative Commons Attribution
+Non-Commercial Licence 4.0.
+https://doi.org/10.1183/13993003.01915-2018 Eur Respir J 2019; 53: 1801915
+|
+SERIES
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION
+[[p2]]
+Introduction
+Since the 5th World Symposium on Pulmonary Hypertension (WSPH) in 2013, major progress has occurred
+in the understanding and management of chronic thromboembolic pulmonary hypertension (CTEPH). First,
+the link between CTEPH and acute pulmonary embolism, and some of the challenges associated with
+making the connection, will be reviewed. Key diagnostic steps in establishing early and accurate diagnosis
+will be emphasised. Each component of the current CTEPH treatment approach will be overviewed.
+Finally, an updated treatment algorithm is proposed taking into account the advances since 2013.
+CTEPH and pulmonary embolism
+CTEPH is classified within group 4 PH [1], and is characterised pathologically by organised
+thromboembolic material and by altered vascular remodelling initiated or potentiated by a combination of
+defective angiogenesis, impaired fibrinolysis and endothelial dysfunction [2 – 4]. These changes lead to PH
+and ultimately right ventricular failure [5, 6]. The precise pathogenesis of CTEPH remains unclear, but
+appears to be incited by acute pulmonary embolism [7].
+However, classic risk factors for venous thromboembolism do not appear to increase the risk of CTEPH
+[8] and there are clear geographic differences in CTEPH epidemiology. An international CTEPH registry
+(Europe and Canada) indicated that 75% of patients with CTEPH had a documented antecedent history of
+acute pulmonary embolism [9], while in Japan, the rates of acute pulmonary embolism preceding CTEPH
+range from only 15% to 33% [10, 11]. There is an 80% female preponderance of CTEPH in Japan; these
+statistics differ significantly from the USA and Europe [9]. A number of abnormal autoimmune,
+inflammatory and thrombophilia markers have been found in CTEPH patients [2]; it is feasible that
+variability in this underlying pathological milieu contributes to the variability in the worldwide CTEPH
+epidemiology. Furthermore, variable gene expression has been demonstrated in pulmonary artery
+endothelial cells from patients with CTEPH compared with normal controls [12].
+In published prospective studies with the diagnosis confirmed by right heart catheterisation (RHC) the
+incidence of CTEPH after symptomatic acute pulmonary embolism is reported to range from 0.4% to 6.2%
+[13– 25], giving a pooled incidence of 3.4% (95% CI 2.1 −4.4%) [7]. Since that analysis, a new report from
+Switzerland screened 508 patients after acute pulmonary embolism over 2 years and found a cumulative
+incidence of CTEPH confirmed with RHC of just 0.79% [26].
+Determining the precise CTEPH incidence is complex. CTEPH is likely both underdiagnosed and the
+incidence of CTEPH after acute pulmonary embolism prone to overestimation, making the actual
+incidence difficult to quantify. Non-specific symptoms, variable rates of antecedent acute pulmonary
+embolism and the expertise required to read computed tomography pulmonary angiography (CTPA)
+contribute to underdiagnosis [27, 28]. Underdiagnosis is further compounded by the infrequent use of
+lung ventilation/perfusion scintigraphy ( V/Q scan) despite guideline recommendations [29, 30].
+Approximately 30 000 acute pulmonary embolism cases are diagnosed annually in France, with the
+CTEPH incidence estimated at 3.4% [31]. G
+UÉRIN et al. [22] suggested a CTEPH incidence of 4.8%.
+Neither of these estimates is consistent with the current frequency of newly diagnosed CTEPH. A
+limitation of the numerous CTEPH incidence reports after acute pulmonary embolism may be attributed
+to an unrecognised amalgam of incident and prevalent cases [22].
+In terms of reducing the risk of CTEPH following acute pulmonary embolism, no prospective randomised
+acute pulmonary embolism trials have examined systemic or catheter-based thrombolysis or clot extraction
+with RHC as an outcome measure in patients with persistent symptoms. Claims have been made that the
+incidence of CTEPH in patients receiving thrombolytic therapy is reduced, but end-points such as an
+echocardiogram-derived systolic pulmonary arterial pressure (sPAP) of 40 mmHg do not define PH or
+CTEPH [32]. Systemic thrombolysis failed to reduce the risk of CTEPH in intermediate/high-risk
+(submassive) pulmonary embolism patients in the 3-year follow-up of the PEITHO trial (average sPAP at
+follow-up was around 31 mmHg in each group) [33]. To date, there is no proof that aggressive treatment
+of acute pulmonary embolism can prevent CTEPH.
+Chronic thromboembolic disease
+Chronic thromboembolic disease (CTED) is characterised by similar symptoms and perfusion defects, but
+without PH at rest. Currently a new threshold for PH (mean PAP (mPAP) >20 mmHg) and pre-capillary
+PH (combination of mPAP >20 mmHg, pulmonary arterial wedge pressure ⩽15 mmHg and pulmonary
+vascular resistance (PVR) ⩾3 Wood Units) has been proposed by the 6th WSPH Task Force on PH
+diagnosis and classification [1]. While there is good evidence to suggest these new thresholds, the
+consequences for CTEPH and CTED, respectively, are not yet established. In the future, however, these new
+thresholds might also be applied to group 4 PH. Exercise limitation in CTED has been attributed either to
+exercise-induced PH, with an increased slope of the pulmonary arterial pressure – flow relationship, or to
+https://doi.org/10.1183/13993003.01915-2018 2
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p3]]
+dead-space ventilation, with increased ventilatory equivalents for carbon dioxide [34, 35]. Both new and
+worsened dyspnoea and persistent perfusion defects are often encountered after acute pulmonary embolism,
+in, respectively, 30% and 30 – 50% of patients, which makes the recognition of CTED challenging [18, 36, 37].
+Cardiopulmonary exercise tests and echocardiographic evaluations are recommended to exclude patients in
+whom symptoms are related to lung disease, left heart disease, obesity or deconditioning. A tentative,
+???bsdc?????PM?r???bsdc???
+pulmonary endarterectomy (PEA) as shown in a series of 42 patients out of 1019 who underwent surgery in
+the UK reference centre [38]. Post-operative improvement in symptoms, functional class and quality of life
+were reported. However, while there was no in-hospital mortality, major complications occurred in 40% of
+the cohort (small subdural haematomas, tracheostomy). Although endarterectomy is aimed to prevent
+subsequent disease, the natural history of CTED is unknown and there is no evidence that CTED evolves to
+CTEPH. At present, patients with CTED represent a group in need of both symptom relief and better
+understanding of their disorder. CTEPH treatment guidelines should not be applied to CTED.
+Diagnosis of CTEPH
+A normal V/Q scan effectively excludes CTEPH with a sensitivity of 90 – 100% and a specificity of 94 –
+100% [39, 40]. In a study of confirmed cases of CTEPH, V/Q scan was found to be superior to CTPA with
+a sensitivity of 97.4% versus 51% [39]. This difference has narrowed as CT technology and interpretation
+have advanced. Indeed, a more recent study has shown that both V/Q scan and CTPA are accurate
+methods for the detection of CTEPH with excellent diagnostic efficacy (100% sensitivity, 93.7% specificity
+and 96.5% accuracy for V/Q scan; 96.1% sensitivity, 95.2% specificity and 95.6% accuracy for CTPA) [40].
+However encouraging, V/Q scan remains the preferred initial imaging test for CTEPH screening [5, 29].
+Recent retrospective studies have also assessed the diagnostic accuracy of three-dimensional dynamic
+contrast-enhanced lung perfusion magnetic resonance imaging (MRI) against planar V/Q scan or SPECT
+(single photon emission CT) scan as a screening tool for CTEPH [41, 42]. These studies demonstrated
+that dynamic contrast-enhanced lung perfusion MRI has a similar sensitivity (97%) for diagnosing
+CTEPH when compared with planar V/Q scan and a higher sensitivity (100% versus 97%) when compared
+with SPECT scan. Prospective studies examining the value of lung perfusion MRI and SPECT scan as a
+screening test for CTEPH are required to address the clinical utility (including their costs) and diagnostic
+performance of these modalities.
+Digital subtraction angiography (DSA) had been considered the gold standard for characterising vessel
+morphology in CTEPH, but is being challenged by advances in non-invasive modalities. CTPA is currently
+widely used for assessment of operability. CTPA in more recent reports has a high sensitivity and
+specificity in detecting chronic thromboembolic lesions at the main/lobar (89 – 100% and 95 – 100%,
+respectively) and segmental (84 – 100% and 92 – 99%, respectively) levels [43 – 45]. CTPA can also be
+valuable by revealing bronchial artery collaterals, which can correlate with more central disease [46], and
+by evaluating the lung parenchyma and mediastinum. Advanced CT technologies, including dual-energy
+CT (DECT), ECG-gated area detector CT (ADCT), cone-beam CT (CBCT) and contrast-enhanced
+magnetic resonance pulmonary angiography, are emerging as valuable modalities for detailing the
+pulmonary vasculature. With advances with distal endarterectomy and the advent of balloon pulmonary
+angioplasty (BPA), and general focus on more distal vascular assessment, conventional DSA may not
+always be suitable for providing fine details. More selective segmental angiography, CBCT and ADCT may
+be better for pre-BPA planning by providing greater resolution than conventional DSA, particularly in the
+more distal vessels [47]. These imaging techniques are not widely available and require expertise.
+TABLE 1 Chronic thromboembolic disease (CTED) compared with chronic thromboembolic pulmonary hypertension (CTEPH)
+Diagnostic criteria CTEPH CTED
+Symptoms Exercise dyspnoea Exercise dyspnoea
+PH Present at rest Absent at rest
+RHC at exercise mPAP/CO slope >3 mmHg·L −1·min−1
+V/Q scan Any mismatched perfusion defect Any mismatched perfusion defect
+Angiography (CTPA or DSA) Typical findings of CTEPH Typical findings of CTEPH
+CPET Excluding ventilatory limitation, deconditioning
+TTE Excluding left ventricular myocardial or valvular disease
+Anticoagulation At least 3 months At least 3 months
+RHC: right heart catheterisation;V/Q: ventilation/perfusion; CTPA: computed tomography pulmonary angiogram; DSA: digital subtraction angiogram;
+CPET: cardiopulmonary exercise test; TTE: transthoracic echocardiogram; mPAP: mean pulmonary arterial pressure; CO: cardiac output.
+https://doi.org/10.1183/13993003.01915-2018 3
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p4]]
+Pulmonary endarterectomy
+PEA should be offered to all eligible patients with CTEPH. The international registry of incident cases of
+CTEPH reported 3-year survival of 90% in those operated and 70% in those not having surgery [48].
+Long-term follow-up of a large cohort reported 10-year survival of 72% (average age 58 years) [49]. Death
+was attributed to unrelated causes in 49% of patients; residual PH with PVR ⩾425 dyn·s·cm
+−5 correlated
+with worse survival [49]. Strict objective definitions of operability remain elusive, but certain features are
+more likely to predict a good surgical outcome (table 2). While select patients may be technically operable,
+they may not benefit from endarterectomy due to significant comorbidities; the best treatment for such
+cases remains uncertain. The traditional routine of inserting an inferior vena cava filter (IVC) device prior
+to endarterectomy has not been formally studied and has been abandoned at the leading surgical centres.
+In the international registry, IVC filter prior to surgery did not influence long-term survival [48].
+The most important surgical advance has been in redefining the distal limits of endarterectomy [50, 51].
+In expert centres, surgery can be performed successfully in patients with distal chronic thromboembolism
+[51]. The advances in diagnostics and growing surgical experience have contributed to this success. As a
+result, the previously published intra-operative classification [52] has been refined to better reflect the
+current surgical approach and level of revascularisation (table 3) [50]. This also means not all surgical
+centres will view operability in the same manner [53]. A three-step stratified definition of expert surgical
+centre has been proposed which factors the following important goals: surgical mortality (<5%), surgical
+volume (more than 50 PEAs per year) and ability to perform segmental endarterectomy [53].
+Furthermore, in this era of a comprehensive approach to CTEPH, an expert centre should be capable of
+evaluating and offering any/all established treatment modalities according to individual need.
+The place of PH-targeted medical therapy and BPA relative to surgery is dependent on the anatomical
+distribution of disease and is not fully defined. Combining endarterectomy with BPA either as a hybrid or
+stepwise approach is being evaluated at select expert programmes [54]. In the CHEST-1 study, riociguat
+was beneficial for patients with residual PH after endarterectomy [55]. A trial is needed to clarify if
+PH-targeted medical therapy prior to endarterectomy in operable patients confers harm or benefit
+(ClinicalTrials.gov identifier NCT0327357).
+Balloon pulmonary angioplasty
+BPA has evolved into an important component of the CTEPH treatment algorithm since the 2012 reports
+from Japan [56 – 58]. BPA has been reported to improve haemodynamics, symptoms, exercise capacity and
+right ventricular function, with significantly lower rates of major complications than compared with the
+report from 2001 [59 – 62]. In retrospective analyses, the benefits of BPA also appear to be maintained in
+the medium term [10, 63]. Subsequent publications from Europe report similar results [64 – 66]. The recent
+BPA series from Germany is unique as these centres started BPA alongside a well-established PEA
+programme [67]. Although their complication rates were similar to those from Japan, the magnitude of
+efficacy ( e.g. PVR reduction) was less in comparison with the reports from Japan. The potential
+explanations offered included the possibility of differences in operability threshold and the variability in
+the types of patients treated with BPA between centres.
+Although these results of BPA are encouraging, the reports are from expert centres and may not be
+generalisable. Even with the technical refinements, there remains a steep learning curve in order to safely,
+effectively and consistently perform BPA [68]. A successful BPA requires extensive training and case
+experience. BPA should be reserved for expert centres, where it should be considered for symptomatic
+TABLE 2 Favourable risk– benefit assessment for pulmonary endarterectomy
+Characteristics Lower risk with predictable good long-term outcome Higher risk with less predictable long-term outcome
+(not contraindications)
+History History of DVT/PE No history of DVT/PE
+Examination No signs of right heart failure Signs of right heart failure
+Comorbidity None Significant concomitant lung or left heart disease
+Functional limitation Functional class II or III Functional class IV
+Imaging Clear disease concordant on all images Inconsistency on imaging modalities
+Type of disease Bilateral lower lobe disease No disease appreciable in lower lobes
+Haemodynamics PVR <1000 dyn·s·cm −5, in proportion to site and number
+of obstructions on imaging; higher PA pulse pressure
+PVR >1200 dyn·s·cm −5, out of proportion to site and number
+of obstructions on imaging; higher PA diastolic pressure
+DVT: deep vein thrombosis; PE: pulmonary embolism; PVR: pulmonary vascular resistance; PA: pulmonary artery.
+https://doi.org/10.1183/13993003.01915-2018 4
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p5]]
+CTEPH patients ineligible for PEA due to distal chronic thromboembolism or persistent/recurrent PH
+after surgery. The role of BPA for those with technically operable disease, but who are unsuitable for
+surgery due to subjective determination or patient refusal, has not been established.
+BPA patient selection at an expert centre starts with a multidisciplinary review of all available and
+pertinent data. Anatomical and functional assessment of pulmonary arteries and lung perfusion are critical
+to identify the target vessels [69]. A selective pulmonary angiogram of the target vessels will show more
+details and serves as confirmation prior to intervention during BPA. A selective angiogram may not
+capture all the distal lesions potentially amenable to BPA, necessitating multiple complementary imaging
+modalities such as intravascular imaging and pressure gradient analysis to aid in lesion assessment and
+balloon sizing [70].
+BPA complications should be defined and uniformly reported. Unlike reperfusion lung injury after PEA
+which can be delayed for days before onset [71], the injury associated with BPA appears to be more
+vascular injury related to the intervention than the capillary leak syndrome described post-PEA [72].
+Table 4 is proposed as a guide for BPA centres for classification of complications. Injury caused by wire
+perforation or interruption of the diseased vessel is the most common [69]. Lung injury by wire
+perforation or balloon overdilatation in the setting of severe PH risks potentially fatal massive infiltration
+and/or haemorrhage which may require mechanical ventilation or extracorporeal support. Classic
+reperfusion lung injury is rare with BPA. Published low BPA complications reflect limited experience
+confined to experienced BPA centres. In experienced hands, BPA has emerged as a promising and
+established treatment for inoperable CTEPH.
+PH-targeted medical therapy
+While PEA remains the treatment of choice for most patients with CTEPH, around 40% of the patients in
+the international CTEPH registry were considered inoperable due to concern for inaccessible vascular
+obstruction, PAP out of proportion to morphological lesions and significant prohibitive comorbidities [9].
+A large number of small studies and three large randomised controlled trials (table 5) have demonstrated
+varying improvements with targeted medical therapy in technically inoperable patients [55, 73, 74].
+TABLE 3 University of California San Diego chronic thromboembolism (CTE) surgical
+classification
+Surgical levels Location of CTE
+Level 0 No evidence of thromboembolic disease in either lung
+Level I CTE starting in the main pulmonary arteries
+(Level IC) (Complete occlusion of one main pulmonary artery with CTE)
+Level II CTE starting at the level of lobar arteries or in the main descending pulmonary arteries
+Level III CTE starting at the level of the segmental arteries
+Level IV CTE starting at the level of the subsegmental arteries
+Information from [50].
+TABLE 4 Balloon pulmonary angioplasty complications
+During the procedure
+Vascular injury# with/without haemoptysis
+Wire perforation
+Balloon overdilatation
+High-pressure contrast injection
+Vascular dissection
+Allergic reaction to contrast
+Adverse reaction to conscious sedation/local anaesthesia
+After the procedure
+Lung injury
+¶ (radiographic opacity with/without haemoptysis, with/without hypoxaemia)
+Renal dysfunction
+Access site problems
+#: signs of vascular injury: extravasation of contrast, hypoxaemia, cough, tachycardia, increased pulmonary
+arterial pressure; ¶: causes of lung injury: vascular injury much greater than reperfusion lung injury.
+https://doi.org/10.1183/13993003.01915-2018 5
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p6]]
+However, data are lacking for patients with medical contraindications or those refusing surgery. Riociguat
+is the currently approved medical therapy in many countries for inoperable CTEPH based on the CHEST
+trials [55, 75]. Recently, the MERIT-1 trial of macitentan in the treatment of inoperable CTEPH showed
+improvements of the primary end-point (PVR ( p=0.041)) and of other end-points ( e.g. 6-min walk
+distance ( p=0.033) and N-terminal pro-brain natriuretic peptide ( p=0.040)) [74]. This last study provided
+the first evidence on combination drug therapy in CTEPH. 61% of the included patients were already
+treated with phosphodiesterase type 5 inhibitors and/or oral/inhaled prostanoids at inclusion, and addition
+of macitentan showed similar efficacy compared with the drug-naive patients. Accordingly, macitentan is
+being considered for potential CTEPH registration. Event-driven morbidity/mortality studies have not
+been performed in CTEPH.
+Patients with persistent/residual post-operative PH were also included in BENEFIT and CHEST-1,
+representing around 30% of the study population [55, 73]. Both studies included patients with mPAP
+⩾QT?g??ouq?⩾ROO?··
+−5 at >6 months after endarterectomy. This can be put in perspective
+?L?????tj??K???R?–?U???od`Y?PH?TPD??
+??o`o?⩾QT?gK?QH?o`o?⩾RO?g????ogL??K
+and 3) mPAP ⩾38 mmHg and PVR ⩾425 dyn·s·cm−5 correlated with worse long-term survival [49].
+Using medical therapy as a “bridge to PEA ” is more controversial, and is felt to delay timely surgical
+referral and, therefore, definitive treatment. In the international registry and in a University of California
+San Diego cohort, 28% and up to 37%, respectively, of the patients were on some form of PH-targeted
+drug(s) at the time of surgical referral [9, 76]. In both cohorts, the delay between diagnosis and surgery
+was doubled in the pre-treated patients, without demonstrable clinical benefit. In the international registry,
+pre-treatment even independently predicted worse outcome (hazard ratio 2.62; p=0.0072) [48]. Key
+limitations of these reports are with inherent referral bias and the possibility of medical therapy potentially
+stabilising otherwise deteriorating cases (unknown and not tested). In order to provide the missing
+evidence, a phase 2 study will soon commence to include CTEPH patients with high PVR for
+pre-operative treatment with riociguat versus placebo (ClinicalTrials.gov identifier NCT0327357). Using
+medical therapy as a “bridge to BPA ”, although not studied, has become common practice and in keeping
+with the indication for riociguat for technically inoperable disease. A study is currently ongoing which
+compares riociguat versus BPA for technically inoperable CTEPH, followed by an opportunity to crossover
+after 6 months (ClinicalTrials.gov identifier NCT02634203).
+CTEPH treatment algorithm
+The newly proposed CTEPH treatment algorithm is provided in figure 1 and starts with lifelong
+anticoagulation. Antiplatelet therapy is not an alternative to anticoagulation in patients with CTEPH. Data
+differentiating the best form of anticoagulation therapy is lacking in CTEPH. Traditional anticoagulation
+has been with oral vitamin K antagonists. Whether the newer oral anticoagulants or chronic injectable
+anticoagulants are adequate in CTEPH is unknown. The algorithm emphasises the need for a
+multidisciplinary assessment, including a surgeon experienced with PEA, PH specialist, BPA
+interventionist and CTEPH-trained radiologist. A PH referral centre was previously defined and
+recommended as a minimum volume of 50 pulmonary arterial hypertension or CTEPH patients managed
+per year [77]. However, given the highly specialised nature of CTEPH treatment, additional factors should
+be considered when gauging clinical expertise.
+In the CHEST-1 trial, central adjudication exemption and local operability assessment were allowed
+provided a participating centre performed more than 20 PEA operations per year [78]. However, the
+majority of the operability adjudication occurred with the central committee whose members each
+TABLE 5 Pulmonary hypertension-targeted medical therapy randomised controlled trials in chronic thromboembolic
+pulmonary hypertension
+Trial [ref.] Study drug Duration weeks Subjects n NYHA FC 6MWD m 6MWD effect m PVR baseline dyn·s·cm −5 PVR effect %
+BENEFIT [73] Bosentan 16 157 II – IV 342±84 +2
+mr
+783 (95% CI 703 – 861) −24
+CHEST-1 [55] Riociguat 16 261 II – IV 347±80 +46 787±422 −31
+MERIT-1 [74] Macitentan 16 (24 #)8 0 I I – IV 352±81 +34 957±435 −16
+Data are presented as n or mean± SD, unless otherwise stated. NYHA FC: New York Heart Association Functional Class; 6MWD: 6-min walk
+distance; PVR: pulmonary vascular resistance; NS: non-significant. All three trials had an adjudication process for operability. #: 6MWD
+measured at 24 weeks.
+https://doi.org/10.1183/13993003.01915-2018 6
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p7]]
+performed well in excess of 50 operations per year. In addition, the central adjudication committee had
+double the rate of operability determination than the local adjudication committee (15% operable versus
+7% operable, respectively). From the international CTEPH registry, a trend with the best in-hospital and
+1-year post-operative mortality was observed from centres performing higher volumes of PEA, with the
+best results observed from centres performing more than 50 operations per year [79]. This observation
+likely does not take into account the relative differences in case complexity, with potentially more
+challenging cases referred to higher-volume programmes. Additional emphasis on the importance of
+surgical centre experience was reported in the UK national registry of patients undergoing PEA [49]. In
+this report, significantly lower in-hospital mortality was observed in the second group of consecutive 500
+operated cases compared with the initial group of 500 operated cases. In addition, the ability for
+high-volume centres to perform more distal endarterectomy necessitates stratification of surgical centre
+expertise [53]. A similar observation applies to BPA success; the safety and efficacy reports of the refined
+BPA techniques from Japan are from centres performing the highest volume of procedures (typically more
+than 100 per year) [58, 59]. In summary, an expert CTEPH centre should be able to assess and deliver all
+established treatment modalities with outcomes similar to or exceeding those published.
+Patients with operable CTEPH should receive PEA as the treatment of choice. For those deemed
+inoperable, the best level of evidence supports initiating medical therapy and consideration of BPA.
+Patients with persistent/recurrent symptomatic PH following PEA should receive medical therapy and be
+considered for BPA or re-do endarterectomy in cases of significant re-occlusion [80]. Lastly, given the
+subjectivity of operability assessment, it is possible for a patient initially deemed to be inoperable to receive
+PEA with or without treatments for inoperable CTEPH. The new algorithm therefore allows for fluidity
+between these treatment modalities as information and expertise is gained.
+Conclusions
+PEA remains the treatment of choice for patients with operable CTEPH. Two additional recognised
+treatments are now available ( i.e. targeted medical therapy and BPA). A multimodal, individualised
+approach to treatment at expert centres integrating surgical, interventional, imaging and medical PH
+expertise with the development of clear outcomes analyses is mandatory going forward.
+Conflict of interest: N.H. Kim reports personal fees for consultancy, steering committee work and speaker bureau
+membership from Actelion and Bayer; personal fees for consultancy from Merck; and is a board member of the
+International CTEPH Association, CTEPH.com. M. Delcroix is an investigator, speaker, consultant or steering
+committee member for Actelion, Bayer AG, Bellerophon, Eli Lilly, GSK, MSD, Pfizer and Reata; and has received an
+institutional research grant from Actelion. X. Jais received grants and personal fees from Actelion, GSK, Bayer and
+MSD. M.M. Madani has received consultancy fees from MSD/Bayer, Wexler Surgical and Actelion, and is an executive
+board member of the International CTEPH Association, CTEPH.com. H. Matsubara has received lecture fees from
+CTEPH diagnosis
+Continue lifelong anticoagulation
+Treatment assessment by an
+expert CTEPH team#,¶
+Persistent/recurrent symptomatic 
+pulmonary hypertension
+Operable Non-operable
+Pulmonary endarterectomy
+(treatment of choice)
+Targeted medical therapy
+with or without BPA¶,+
+FIGURE 1 Chronic thromboembolic pulmonary hypertension (CTEPH): revised treatment algorithm. BPA:
+balloon pulmonary angioplasty. #: multidisciplinary: pulmonary endarterectomy surgeon, PH expert, BPA
+interventionist and radiologist; ¶: treatment assessment may differ depending on the level of expertise;
++: BPA without medical therapy can be considered in selected cases.
+https://doi.org/10.1183/13993003.01915-2018 7
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p8]]
+Actelion Pharmaceuticals Japan, Ltd, AOP orphan Pharmaceuticals AG, Bayer Yakuhin, Ltd, Pfizer Japan, Inc, Nippon
+Shinyaku, Co, Ltd and Kaneka Medix Corporation, outside the submitted work. E. Mayer has received consultancy fees
+from Actelion, Bayer and MSD; and is on the speaker bureau for Actelion, Bayer, MSD and Pfizer. T. Ogo is a member
+of the speaker bureau for Actelion and Bayer. V.F. Tapson received research support from Actelion, Arena, Bayer, BiO2,
+Edwards Scientific, Ekos/BTG, Janssen, Inari, Portola, Reata, United Therapeutics, Daiichi and Penumbra; consultancy
+fees from Actelion, Bayer, BiO2, Ekos/BTG, Inari, Janssen, Portola, United Therapeutics, VWave, Daiichi and
+Penumbra; speaker bureau for Actelion, Bayer and Janssen. H-A. Ghofrani reports personal fees for advisory board
+work payment for lectures including service on speaker bureaus from Actelion, Bayer, GSK, Novartis and Pfizer;
+consultancy fees from Actelion, Bayer, Bellerophon Pulse Technologies, GSK, MSD, Novartis and Pfizer; and grants
+from Deutsche Forschungsgemeinschaft (DFG), outside the submitted work. D.P. Jenkins worked as adjudicator for
+Actelion and Bayer for MERIT and CHEST-1 studies; received honoraria for speaking from Actelion and Bayer; and is a
+board member of the International CTEPH Association, CTEPH.com.
+References
+1 Simonneau G, Montani D, Celermajer DS, et al. Haemodynamic definitions and updated clinical classification of
+pulmonary hypertension. Eur Respir J 2019; 53: 1801913.
+2 Lang IM, Pesavento R, Bonderman D, et al. Risk factors and basic mechanisms of chronic thromboembolic
+pulmonary hypertension: a current understanding. Eur Respir J 2013; 41: 462 – 468.
+3 Moser KM, Bloor CM. Pulmonary vascular lesions occurring in patients with chronic major vessel
+thromboembolic pulmonary hypertension. Chest 1993; 103: 685 – 692.
+4 Dorfmüller P, Günther S, Ghigna M-R, et al. Microvascular disease in chronic thromboembolic pulmonary
+hypertension: a role for pulmonary veins and systemic vasculature. Eur Respir J 2014; 44: 1275 – 1288.
+5 Kim NH, Delcroix M, Jenkins DP, et al. Chronic thromboembolic pulmonary hypertension. J Am Coll Cardiol
+2013; 62: D92 – D99.
+6 Fedullo P, Kerr KM, Kim NH, et al. Chronic thromboembolic pulmonary hypertension. Am J Respir Crit Care
+Med 2011; 183: 1605 – 1613.
+7 Simonneau G, Torbicki A, Dorfmüller P, et al. The pathophysiology of chronic thromboembolic pulmonary
+hypertension. Eur Respir Rev 2017; 26: 160112.
+8 Egermayer P, Peacock AJ. Is pulmonary embolism a common cause of chronic pulmonary hypertension?
+Limitations of the embolic hypothesis. Eur Respir J 2000; 15: 440 – 448.
+9 Pepke-Zaba J, Delcroix M, Lang I, et al. Chronic thromboembolic pulmonary hypertension (CTEPH): results from
+an international prospective registry. Circulation 2011; 124: 1973 – 1981.
+10 Ogawa A, Satoh T, Fukuda T, et al. Balloon pulmonary angioplasty for chronic thromboembolic pulmonary
+hypertension: results of a multicenter registry. Circ Cardiovasc Qual Outcomes 2017; 10: e004029.
+11 Tanabe N. Analysis of Chronic Thromboembolic Pulmonary Hypertension (Intractable Disease Database). Tokyo,
+Ministry of Health, Wealth and Labor, 2008.
+12 Gu S, Su P, Yan J, et al. Comparison of gene expression profiles and related pathways in chronic thromboembolic
+pulmonary hypertension. Int J Mol Med 2014; 33: 277 – 300.
+13 Pengo V, Lensing AW, Prins MH, et al. Incidence of chronic thromboembolic pulmonary hypertension after
+pulmonary embolism. N Engl J Med 2004; 350: 2257 – 2264.
+14 Becattini C, Agnelli G, Pesavento R, et al. Incidence of chronic thromboembolic pulmonary hypertension after a
+first episode of pulmonary embolism. Chest 2006; 130: 172 – 175.
+15 Klok FA, van Kralingen KW, van Dijk AP, et al. Prospective cardiopulmonary screening program to detect chronic
+thromboembolic pulmonary hypertension in patients after acute pulmonary embolism. Haematologica 2010; 95:
+970– 975.
+16 Martí D, Gómez V, Escobar C, et al. Incidencia de hipertensión pulmonar tromboembólica crónica sintomática y
+asintomática. [Incidence of symptomatic and asymptomatic chronic thromboembolic pulmonary hypertension.]
+Arch Bronconeumol 2010; 46: 628 – 633.
+17 Poli D, Grifoni E, Antonucci E, et al. Incidence of recurrent venous thromboembolism and of chronic
+thromboembolic pulmonary hypertension in patients after a first episode of pulmonary embolism. J Thromb
+Thrombolysis 2010; 30: 294 – 299.
+18 Surie S, Gibson NS, Gerdes VE, et al. Active search for chronic thromboembolic pulmonary hypertension does
+not appear indicated after acute pulmonary embolism. Thromb Res 2010; 125: e202 – e205.
+19 Berghaus TM, Barac M, von Scheidt W, et al. Echocardiographic evaluation for pulmonary hypertension after
+recurrent pulmonary embolism. Thromb Res 2011; 128: e144 – e147.
+20 Held M, Hesse A, Gött F, et al. A symptom-related monitoring program following pulmonary embolism for the
+early detection of CTEPH: a prospective observational registry study. BMC Pulm Med 2014; 14: 141.
+21 Giuliani L, Piccinino C, D ’Armini MA, et al. Prevalence of undiagnosed chronic thromboembolic pulmonary
+hypertension after pulmonary embolism. Blood Coagul Fibrinolysis 2014; 25: 649 – 653.
+22 Guérin L, Couturaud F, Parent F, et al. Prevalence of chronic thromboembolic pulmonary hypertension after acute
+pulmonary embolism. Thromb Haemost 2014; 112: 598 – 605.
+23 Kayaalp I, Varol Y, Çimen P, et al. The incidence of chronic thromboembolic pulmonary hypertension secondary
+to acute pulmonary thromboembolism. Tuberk Toraks 2014; 62: 199 – 206.
+24 Vavera Z, Vojacek J, Pudil R, et al. Chronic thromboembolic pulmonary hypertension after the first episode of
+pulmonary embolism? How often? Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub 2016; 160: 125 – 129.
+QT?j?e`K?s?bK?q?kK
+et al. External validation of a simple non-invasive algorithm to rule out chronic
+thromboembolic pulmonary hypertension after acute pulmonary embolism. Thromb Res 2015; 135: 796 – 801.
+26 Coquoz N, Weilenmann D, Stolz D, et al. Multicentre observational screening survey for the detection of CTEPH
+following pulmonary embolism. Eur Respir J 2018; 51: 1702505.
+27 Lang IM. Chronic thromboembolic pulmonary hypertension – not so rare after all. N Engl J Med 2004; 350:
+2236– 2238.
+28 Tapson VF, Humbert M. Incidence and prevalence of chronic thromboembolic pulmonary hypertension: from
+acute to chronic pulmonary embolism. Proc Am Thorac Soc 2006; 3: 564 – 567.
+https://doi.org/10.1183/13993003.01915-2018 8
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p9]]
+29 McLaughlin VV, Langer A, Tan M, et al. Contemporary trends in the diagnosis and management of pulmonary
+arterial hypertension an initiative to close the care gap. Chest 2013; 143: 324 – 332.
+30 Tapson VF, Platt DM, Xia F, et al. Monitoring for pulmonary hypertension following pulmonary embolism: the
+INFORM study. Am J Med 2016; 129: 978 – 985.
+31 Oger E. Incidence of venous thromboembolism: a community-based study in Western France. Thromb Haemost
+2000; 83: 657 – 660.
+32 Sharifi M, Bay C, Skrocki L, et al. Moderate pulmonary embolism treated with thrombolysis (from the MOPETT
+Trial). Am J Cardiol 2013; 111: 273 – 277.
+33 Konstantinides SV, Vicaut E, Danays T, et al. Impact of thrombolytic therapy on the long-term outcome of
+intermediate-risk pulmonary embolism. J Am Coll Cardiol 2017; 69: 1536 – 1544.
+34 van Kan C, van der Plas MN, Reesink HJ, et al. Hemodynamic and ventilatory responses during exercise in
+chronic thromboembolic disease. J Thorac Cardiovasc Surg 2016; 152: 763 – 771.
+35 Held M, Kolb P, Grün M, et al. Functional characterization of patients with chronic thromboembolic disease.
+Respiration 2016; 91: 503 – 509.
+36 Klok FA, Van Kralingen KW, Van Dijk APJ, et al. Prevalence and potential determinants of exertional dyspnea
+after acute pulmonary embolism. Respir Med 2010; 104: 1744 – 1749.
+RV?m?lK?g?llbK?c?akK??M?q???????
+embolism: a systematic review. Chest 2006; 129: 192 – 197.
+38 Taboada D, Pepke-Zaba J, Jenkins DP, et al. Outcome of pulmonary endarterectomy in symptomatic chronic
+thromboembolic disease. Eur Respir J 2014; 44: 1635 – 1645.
+39 Tunariu N, Gibbs SJ, Win Z, et al. Ventilation– perfusion scintigraphy is more sensitive than multidetector CTPA
+in detecting chronic thromboembolic pulmonary disease as a treatable cause of pulmonary hypertension. J Nucl
+Med 2007; 48: 680 – 684.
+40 He J, Fang W, Lv B, et al. Diagnosis of chronic thromboembolic pulmonary hypertension: comparison of
+ventilation/perfusion scanning and multidetector computed tomography pulmonary angiography with pulmonary
+angiography. Nucl Med Commun 2012; 33: 459 – 463.
+41 Rajaram S, Swift AJ, Telfer A, et al. 3D contrast-enhanced lung perfusion MRI is an effective screening tool
+for chronic thromboembolic pulmonary hypertension: results from the ASPIRE Registry. Thorax 2013; 68:
+677– 678.
+42 Johns CS, Swift AJ, Rajaram S, et al. Lung perfusion: MRI vs. SPECT for screening in suspected chronic
+thromboembolic pulmonary hypertension. J Magn Reson Imaging 2017; 46: 1693 – 1697.
+43 Ley S, Ley-Zaporozhan J, Pitton MB, et al. Diagnostic performance of state-of-the-art imaging techniques for
+morphological assessment of vascular abnormalities in patients with chronic thromboembolic pulmonary
+hypertension (CTEPH). Eur Radiol 2012; 22: 607 – 616.
+44 Reichelt A, Hoeper MM, Galanski M, et al. Chronic thromboembolic pulmonary hypertension: evaluation with
+64-detector row CT versus digital substraction angiography. Eur J Radiol 2009; 71: 49 – 54.
+45 Sugiura T, Tanabe N, Matsuura Y, et al. Role of 320-slice CT imaging in the diagnostic workup of patients with
+chronic thromboembolic pulmonary hypertension. Chest 2013; 143: 1070 – 1077.
+46 Shimizu H, Tanabe N, Terada J, et al. Dilatation of bronchial arteries correlates with extent of central disease in
+patients with chronic thromboembolic pulmonary hypertension. Circ J 2008; 72: 1136 – 1141.
+47 Ogo T, Fukuda T, Tsuji A, et al. Efficacy and safety of balloon pulmonary angioplasty for chronic thromboembolic
+pulmonary hypertension guided by cone-beam computed tomography and electrocardiogram-gated area detector
+computed tomography. Eur J Radiol 2017; 89: 270 – 276.
+48 Delcroix M, Lang I, Pepke-Zaba J, et al. Long-term outcome of patients with chronic thromboembolic pulmonary
+hypertension: results from an international prospective registry. Circulation 2016; 133: 859 – 871.
+49 Cannon JE, Su L, Kiely DG, et al. Dynamic risk stratification of patient long-term outcome after pulmonary
+endarterectomy: results from the united kingdom national cohort. Circulation 2016; 133: 1761 – 1771.
+50 Madani M, Mayer E, Fadel E, et al. Pulmonary endarterectomy. Patient selection, technical challenges, and
+outcomes. Ann Am Thorac Soc 2016; 13: Suppl. 3, S240 – S247.
+51 D’Armini AM, Morsolini M, Mttiucci G, et al. Pulmonary endarterectomy for distal chronic thromboembolic
+pulmonary hypertension. J Thorac Cardiovasc Surg 2014; 148: 1005 – 1011.
+52 Thistlethwaite PA, Mo M, Madani MM, et al. Operative classification of thromboembolic disease determines
+outcome after pulmonary endarterectomy. J Thorac Cardiovasc Surg 2002; 124: 1203 – 1211.
+53 Jenkins D, Madani M, Fadel E, et al. Pulmonary endarterectomy in the management of chronic thromboembolic
+pulmonary hypertension. Eur Respir Rev 2017; 26: 160111.
+54 Wiedenroth CB, Liebetrau C, Breithecker A, et al. Combined pulmonary endarterectomy and balloon pulmonary
+angioplasty in patients with chronic thromboembolic pulmonary hypertension. J Heart Lung Transplant 2016; 35:
+591– 596.
+55 Ghofrani HA, D ’Armini AM, Grimminger F, et al. Riociguat for the treatment of chronic thromboembolic
+pulmonary hypertension. N Engl J Med 2013; 369: 319 – 329.
+56 Mizoguchi H, Ogawa A, Munemasa M, et al. Refined balloon pulmonary angioplasty for inoperable patients with
+chronic thromboembolic pulmonary hypertension. Circ Cardiovasc Interv 2012; 5: 748 – 755.
+57 Kataoka M, Inami T, Hayashida K, et al. Percutaneous transluminal pulmonary angioplasty for the treatment of
+chronic thromboembolic pulmonary hypertension. Circ Cardiovasc Interv 2012; 5: 756 – 762.
+58 Sugimura K, Fukumoto Y, Satoh K, et al. Percutaneous transluminal pulmonary angioplasty markedly improves
+pulmonary hemodynamics and long-term prognosis in patients with chronic thromboembolic pulmonary
+hypertension. Circ J 2012; 76: 485 – 488.
+59 Ogo T. Balloon pulmonary angioplasty for inoperable chronic thromboembolic pulmonary hypertension. Curr
+Opin Pulm Med 2015; 21: 425 – 431.
+60 Fukui S, Ogo T, Goto Y, et al. Exercise intolerance and ventilatory inefficiency improve early after balloon
+pulmonary angioplasty in patients with inoperable chronic thromboembolic pulmonary hypertension. Int J
+Cardiol 2015; 180: 66 – 68.
+61 Fukui S, Ogo T, Morita Y, et al. Right ventricular reverse remodelling after balloon pulmonary angioplasty. Eur
+Respir J 2014; 43: 1394 – 1402.
+https://doi.org/10.1183/13993003.01915-2018 9
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.
+[[p10]]
+62 Feinstein JA, Goldhaber SZ, Lock JE, et al. Balloon pulmonary angioplasty for treatment of chronic
+thromboembolic pulmonary hypertension. Circulation 2001; 103: 10 – 13.
+63 Inami T, Kataoka M, Yanagisawa R, et al. Long-term outcomes after percutaneous transluminal pulmonary
+angioplasty for chronic thromboembolic pulmonary hypertension. Circulation 2016; 134: 2030 – 2032.
+64 Andreassen AK, Ragnarsson A, Gude E, et al. Balloon pulmonary angioplasty in patients with inoperable chronic
+thromboembolic pulmonary hypertension. Heart 2013; 99: 1415 – 1420.
+65 Bouvaist H, Thony F, Jondot M, et al. Balloon pulmonary angioplasty in a patient with chronic thromboembolic
+pulmonary hypertension. Eur Respir Rev 2014; 23: 393 – 395.
+66 Roik M, Wretowski D, Rowinski O, et al. Refined balloon pulmonary angioplasty in inoperable chronic
+thromboembolic pulmonary hypertension – a multi-modality approach to the treated lesion. Int J Cardiol 2014;
+177: e139– e141.
+67 Olsson KM, Wiedenroth CB, Kamp J-C, et al. Balloon pulmonary angioplasty for inoperable patients with chronic
+thromboembolic pulmonary hypertension: the initial German experience. Eur Respir J 2017; 49: 1602409.
+68 Ogawa A, Matsubara H. Balloon pulmonary angioplasty: a treatment option for inoperable patients with chronic
+thromboembolic pulmonary hypertension. Front Cardiovasc Med 2015; 2: 4.
+69 Kawakami T, Ogawa A, Miyaji K, et al. Novel angiographic classification of each vascular lesion in chronic
+thromboembolic pulmonary hypertension based on selective angiogram and results of balloon pulmonary
+angioplasty. Circ Cardiovasc Interv 2016; 9: e003318.
+70 Roik M, Wretowski D, Labyk A, et al. Refined balloon pulmonary angioplasty driven by combined assessment of
+intra-arterial anatomy and physiology – multimodal approach to treated lesions in patients with non-operable
+distal chronic thromboembolic pulmonary hypertension – technique, safety and efficacy of 50 consecutive
+angioplasties. Int J Cardiol 2016; 15: 228 – 235.
+71 Kerr KM, Auger WR, Marsh JJ, et al. The use of cylexin (CY-1503) in prevention of reperfusion lung injury in
+patients undergoing pulmonary thromboendarterectomy. Am J Respir Crit Care Med 2000; 162: 14 – 20.
+72 Lang I, Meyer BC, Ogo T, et al. Balloon pulmonary angioplasty in chronic thromboembolic pulmonary
+hypertension. Eur Respir Rev 2017; 26: 160119.
+73 Jais X, D ’Armini AM, Jansa P, et al. Bosentan for treatment of inoperable chronic thromboembolic pulmonary
+hypertension: BENEFiT (Bosentan Effects in iNopErable Forms of chronIc Thromboembolic pulmonary
+hypertension), a randomized, placebo-controlled trial. J Am Coll Cardiol 2008; 52: 2127 – 2134.
+74 Ghofrani HA, Simonneau G, D ’Armini AM, et al. Macitentan for the treatment of inoperable chronic
+thromboembolic pulmonary hypertension (MERIT-1): results from the multicentre, phase 2, randomised,
+double-blind, placebo-controlled study. Lancet Respir Med 2017; 5: 785 – 794.
+VT?r?fK?c?’`?`lK?f?g`K??M?o??L?????
+riociguat for chronic thromboembolic pulmonary hypertension: data from the CHEST-2 open-label, randomised,
+long-term extension trial. Lancet Respir Med 2016; 4: 372 – 380.
+76 Jensen KW, Kerr KM, Fedullo PF, et al. Pulmonary hypertensive medical therapy in chronic thromboembolic
+pulmonary hypertension before pulmonary thromboendarterectomy. Circulation 2009; 120: 1248 – 1254.
+77 Galiè N, Humbert M, Vachiery JL, et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary
+hypertension. Eur Respir J 2015; 46: 903 – 975.
+78 Jenkins DP, Biederman A, D ’Armini AM, et al. Operability assessment in CTEPH: lessons from the CHEST-1
+study. J Thorac Cardiovasc Surg 2016; 152: 669 – 674.
+79 Mayer E, Jenkins D, Lindner J, et al. Surgical management and outcome of patients with chronic thromboembolic
+pulmonary hypertension: results from an international prospective registry. J Thorac Cardiovasc Surg 2011; 141:
+702– 710.
+80 Mo M, Kapelanski DP, Mitruka SN, et al. Reoperative pulmonary thromboendarterectomy. Ann Thorac Surg 1999;
+68: 1770– 1777.
+https://doi.org/10.1183/13993003.01915-2018 10
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N.H. KIM ET AL.

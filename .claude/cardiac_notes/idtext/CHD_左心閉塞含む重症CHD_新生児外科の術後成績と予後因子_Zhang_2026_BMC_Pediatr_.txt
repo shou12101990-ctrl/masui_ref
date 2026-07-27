@@ -1,0 +1,451 @@
+
+[[p1]]
+RESEARCH Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  
+v e c  o m m  o n s .  o r  g / l  i c e  n s e s  / b  y - n c - n d / 4 . 0 /.
+Zhang et al. BMC Pediatrics           (2026) 26:60 
+https://doi.org/10.1186/s12887-025-06447-1
+BMC Pediatrics
+*Correspondence:
+Zhen-Shuang Cui
+cuizhenshuangczs@outlook.com
+Ju Zhao
+zhaojuedu@outlook.com
+Full list of author information is available at the end of the article
+Abstract
+Objective This study aims to examine the incidence and clinical outcomes of critical congenital heart disease (CCHD) 
+in neonates in China, with a specific focus on prognostic indicators following surgical intervention.
+Methods A retrospective analysis was conducted on neonates who underwent surgical correction of congenital 
+heart disease (CHD) involving cardiopulmonary bypass (CPB) at a single tertiary care hospital between January 2022 
+and December 2024. Documented variables included patient weight, type of cardiac anomaly, duration of CPB, aortic 
+cross-clamp time, and systemic circulation duration. Prognostic indicators, length of hospital stay, and duration of 
+mechanical ventilation in the intensive care unit (ICU) were also recorded.
+Results A total of 234 neonates underwent cardiac surgery with CPB during the study period. The cohort comprised 
+146 males and 88 females, with a mean weight of 3.64 ± 3.43 kg and a mean age of 12.10 ± 7.77 days. The mean 
+duration of CPB time was 159.19 ± 67.51 min, mean cross-clamp duration was 95.53 ± 44.20 min, and mean bypass 
+duration was 37.54 ± 28.98 min. The mean length of hospital stay was 25.43 ± 13.61 days, and the mean mechanical 
+ventilation duration was 3.64 ± 2.71 days. Among the patients, 139 were diagnosed with cyanotic CHD, and 95 with 
+acyanotic CHD. Emergency procedures were performed in 39 cases, while 195 cases underwent elective surgery. 
+Radical surgery was performed in 215 cases, single-stage palliation in 4 cases, and intrapartum surgery in 15 cases. 
+222 neonates were discharged following recovery, and 12 deaths were recorded.
+Conclusion In China, CCHD remains prevalent among newborns, posing a significant threat to their lives. With 
+advancements in surgical and cardiopulmonary bypass techniques, the treatment system for these critically ill 
+newborns is being progressively refined. This has led to continuously improving success rates and an increasingly 
+diverse range of treatment options available.
+Keywords Congenital heart disease, Critical congenital heart disease, Intrapartum surgery, Neonatal tetralogy of 
+fallot, Neonates
+Clinical outcomes following surgical 
+intervention for critical congenital heart 
+disease in neonates: a retrospective study 
+in China
+Xiao-Juan Zhang1, Na Miao1, Jia-Lu Wang1, Yan He2, Qiang Wang2, Zhen-Shuang Cui3* and Ju Zhao1,4*
+[[p2]]
+Page 2 of 5
+Zhang et al. BMC Pediatrics           (2026) 26:60 
+Introduction
+Congenital heart disease (CHD) represents one of the 
+most prevalent birth defects worldwide, characterized by 
+structural abnormalities of the heart that impair blood 
+circulation and oxygenation, thereby posing serious risks 
+to neonatal health [ 1]. Approximately 25% of children 
+diagnosed with CHD present with critical congenital 
+heart disease (CCHD), a subset that necessitates surgi -
+cal or interventional treatment within the first month of 
+life, often during the neonatal period, to prevent mor -
+tality [2]. CCHD encompass a range of complex lesions, 
+including coarctation of the aorta (CoA), tetralogy of Fal-
+lot (TOF), transposition of the great arteries (TGA), pul -
+monary atresia (PA), tricuspid valve atresia (TVA), and 
+hypoplastic left heart syndrome (HLHS) [ 3]. Beyond the 
+immediate threat to survival, CCHD places considerable 
+emotional and financial burdens on families and imposes 
+significant strain on healthcare systems. The global 
+incidence of neonatal CCHD differs by region. In high-
+income countries, the availability of prenatal screen -
+ing, advanced diagnostic technologies, and adequate 
+healthcare resources has facilitated earlier detection and 
+improved clinical outcomes. In contrast, in low- and 
+middle-income countries, limited access to diagnostic 
+resources and specialized care, often results in delayed 
+diagnoses and elevated mortality rates [ 1]. The present 
+retrospective analysis examined neonates with CCHD 
+who underwent surgical correction involving cardiopul -
+monary bypass (CPB) at the study hospital between Janu-
+ary 2021 and December 2024, with the aim of evaluating 
+incidence and clinical outcomes in this population.
+General information and methods
+General information
+A total of 234 neonates underwent cardiac surgery 
+involving CPB at the study hospital between January 
+2021 and December 2024. The cohort included 146 males 
+and 88 females, with ages ranging from 0 to 28 days. 
+Inclusion criteria were as follows: (1) Age at the time of 
+surgery ≤ 28 days; (2) Confirmed diagnosis of CHD; (3) 
+Undergoing surgical correction of cardiac malforma -
+tion requiring CPB. Exclusion criteria were: (1) Age at 
+the time of surgery > 28 days; (2) Presence of additional 
+malformations involving non-cardiac organ systems; (3) 
+Premature birth.
+CPB
+All surgical procedures were performed using the Stock -
+ert S5 heart–lung machine and a Terumo FX05 infant 
+membrane oxygenator (priming volume approximately 
+43 mL). An infant-specific CPB circuit with a priming 
+volume of approximately 150–200 mL was employed. 
+Myocardial protection was achieved with histidine tryp -
+tophan ketoglutarate (HTK) cardioplegic solution. The 
+modified ultrafiltration was performed postoperatively 
+for 8 to 10 min. The priming solution consisted of 50 mL 
+of compound electrolyte solution, one unit of packed 
+red blood cells (approximately 130 mL), 10 mg of hepa -
+rin, 20 mL of 5% sodium bicarbonate, and 50 mL of 20% 
+albumin, with a total volume of approximately 250 mL. 
+Intraoperative management included adjustment of tem -
+perature and perfusion flow rates according to surgical 
+requirements. Hemodynamic and metabolic parameters 
+were continuously monitored to maintain a stable inter -
+nal environment throughout the procedures.
+Observation indicators
+Data collected included the annual number of surgical 
+cases, mortality rates, incidence of emergency surger -
+ies, distribution of cardiac diagnoses, intraoperative CPB 
+parameters, hospitalization outcomes, and postoperative 
+respiratory support requirements.
+Statistical analysis
+Data were analyzed using SPSS software, version 26.0. 
+Quantitative variables are expressed as mean ± standard 
+deviation (
+-
+x ± s).
+Results
+A total of 234 neonates with CCHD underwent cardiac 
+surgery involving CPB. The cohort consisted of 146 males 
+and 88 females, with a mean age of 12.10 ± 7.77 days and 
+a mean body weight of 3.64 ± 3.43  kg. Emergency pro -
+cedures were performed in 39 cases, while 195 cases 
+underwent elective surgery. Of these, 222 neonates were 
+discharged following successful treatment, whereas 12 
+deaths were recorded (Table  1). The number of surgical 
+procedures increased annually, while the mortality rate 
+demonstrated a declining trend. In 2022, 57 surgeries 
+were performed with 3 mortalities, yielding a mortality 
+rate of 5.26%. In 2023, 77 surgeries were performed with 
+5 mortalities, yielding a mortality rate of 6.49%. In 2024, 
+100 surgeries were performed with 4 mortalities, corre -
+sponding to a mortality rate of 4.00% (Table 1). Tempera-
+ture management strategies included mild hypothermia 
+in 208 neonates and moderate hypothermic circulatory 
+arrest with regional cerebral perfusion in 26 cases. The 
+disease spectrum encompassed included major criti -
+cal cardiac anomalies observed in the neonatal period, 
+such as complete transposition of TGA, aortic arch 
+Table 1 Annual surgical volume and mortality rates among 
+neonates with critical congenital heart disease
+Year Total number(m/f) Number of deaths Mortality(%)
+2022 57(33/24) 3 0.05
+2023 77(52/25) 5 0.06
+2024 100(61/39) 4 0.04
+[[p3]]
+Page 3 of 5
+Zhang et al. BMC Pediatrics           (2026) 26:60 
+coarctation, interrupted aortic arch, pulmonary atresia, 
+total anomalous pulmonary venous connection (TAPVC), 
+and TOF (Table  2). All neonates received CPB support. 
+The mean duration for CPB was 159.19 ± 67.51  min, 
+mean cross-clamp time was 95.53 ± 44.20 min, and mean 
+bypass time was 37.54 ± 28.98  min. The mean length of 
+hospital stay was 25.43 ± 13.61 days, and the mean intu -
+bation time was 3.64 ± 2.71 days. Among neonates diag -
+nosed with TOF, 41 underwent elective surgery, with 
+1 reported mortality. Intrapartum cardiac surgery was 
+introduced in 2023; by December 2024, 15 neonates had 
+undergone the procedure, with 1 mortality recorded.
+Discussion
+CCHD in neonates refers to a group of severe cardiac 
+anomalies that necessitate emergency intervention dur -
+ing the early postnatal period, particularly within the 
+neonatal stage. The incidence of CCHD is estimated at 
+approximately 1.5 to 2.5‰ per 1000 live births. With -
+out treatment, mortality rates among neonates with 
+CCHD may reach 30% to 50%, particularly in conditions 
+such as HLHS, making CCHD a leading cause of neo -
+natal mortality and morbidity worldwide [ 4]. Common 
+presentations include TOF (7%–10%), transposition of 
+TGA (5%–7%), HLHS, TAPVC, and CoA (5%–8%) [ 5–8]. 
+These findings are consistent with the disease spectrum 
+observed in the present cohort, in which the five most 
+prevalent conditions were coarctation or interruption of 
+the aortic arch (approximately 22%), pulmonary atresia 
+or pulmonary stenosis (approximately 18%), TOF (18%), 
+anomalous pulmonary venous drainage (12%), and com -
+plete TGA (approximately 9%). The proportion of TOF 
+cases in this city was higher than previously reported 
+in existing literature, which may be associated with the 
+hospital’s adoption of newer surgical strategies. Elective 
+surgery for TOF during the neonatal period was imple -
+mented to reduce the risk of secondary pathophysiologi -
+cal changes. Among 41 neonates who underwent TOF 
+repair, one was discharged against medical advice due to 
+a suspected congenital left ventricular diverticulum com -
+plicated with cardiac rupture; the remaining 40 patients 
+were successfully discharged. Valve annulus preserva -
+tion was achieved in all TOF cases, which may contrib -
+ute to favorable long-term prognosis. It is important to 
+note that most ventricular septal defects (VSDs) do not 
+require surgical intervention during the neonatal period. 
+So in this study, the indications for surgery in neonates 
+with VSD were as follows: large VSD (≥ 8 mm), heart 
+failure, and pneumonia requiring ventilator support. In 
+addition, intrapartum cardiac surgery was introduced 
+to address severe hemodynamic instability occurring 
+immediately after birth. This approach allowed surgi -
+cal intervention within 30 min of separation from fetal 
+circulation, before the onset of abnormal physiological 
+circulation. By mitigating the risk of circulatory col -
+lapse, this strategy may reduce early mortality. A total 
+of 15 intrapartum procedures were performed during 
+the study period, with 14 survivors. One patient diag -
+nosed with TGA and intact ventricular septum died of 
+cardiac failure associated with concurrent hypertrophic 
+cardiomyopathy.
+Surgical timing was identified as a critical determinant 
+of prognosis in neonates with CCHD. Decision-making 
+regarding the timing of intervention required a com -
+prehensive evaluation of the malformation type, disease 
+complexity, preoperative status, surgical expertise, and 
+the availability of perioperative management. When 
+clinical stability permitted, elective procedures were per -
+formed approximately two weeks after birth, with contin-
+uous monitoring of vital signs. In cases where the clinical 
+status did not allow delay, timely surgical intervention 
+was prioritized, while efforts were made to avoid emer -
+gency procedures when possible. Among the 234 cases 
+in this series, 39 neonates underwent emergency surgery 
+and 195 underwent elective surgery. Of the 12 mortali -
+ties, 5 occurred following emergency procedures, 1 fol -
+lowing intrapartum surgery, and 6 occurred after elective 
+surgery. The mortality rate associated with emergency 
+surgery was 12.8%.
+Mortality rates in neonatal CCHD remain relatively 
+high and are influenced by factors including diagnostic 
+timing, treatment accessibility, and lesion complexity. In 
+high-income countries such as the United States, Japan, 
+and nations in Europe, in-hospital mortality ranges from 
+Table 2 Diagnostic distribution of critical congenital heart 
+disease among neonates
+Diagnosis Number Proportion(%)
+IAA 14 5.98
+COA 38 16.24
+TAPVC 27 11.54
+VSD 30 13.25
+TGA 21 8.97
+TOF 41 17.52
+PS 13 5.56
+PA 28 11.97
+PA-abnormal 2 0.85
+PDA 1 0.43
+PVS 1 0.43
+Pulmonary artery sling 3 0.85
+Cor triatriatum 1 0.43
+TA 1 0.43
+CAF 1 0.43
+DORV 10 4.27
+AS 2 0.85
+IAA Interrupted Aortic Arch, COA Coarctation of the Aorta, TAPVC Total 
+Anomalous Pulmonary Venous Connection, VSD Ventricular Septal Defect, 
+TGA Transposition of the Great Arteries, TOF Tetralogy of Fallot, PS Pulmonary 
+Stenosis, PA Pulmonary Atresia, PDA Patent Ductus Arteriosus, PVS pulmonary 
+vein stenosis, TA Tricuspid Atresia, CAF Coronary Artery Fistula
+[[p4]]
+Page 4 of 5
+Zhang et al. BMC Pediatrics           (2026) 26:60 
+5% to 15%, depending on lesion complexity. In con -
+trast, low-income countries report mortality rates rang -
+ing from 25% to 50%, a discrepancy largely attributed 
+to limited availability of extracorporeal membrane oxy -
+genation (ECMO) and inadequate postoperative man -
+agement [ 9–11]. In China, the mortality rate of critical 
+congenital heart disease has significantly declined over 
+the past decade, thanks to technological advancements. 
+Particularly in top-tier medical centers, the success rates 
+of treatment have approached or even surpassed those in 
+developed countries. However, due to uneven distribu -
+tion of medical resources and the complexity and severity 
+of the disease itself, the mortality rate remains relatively 
+low (approximately 2%−5%) in China’s leading medical 
+institutions but is significantly higher nationwide, with 
+substantial regional disparities. In the present cohort, 
+mortality rates demonstrated a gradual decline, falling 
+below 5% in 2024. This improvement corresponded with 
+advances in the neonatal surgical program, including the 
+introduction of intrapartum repair and neonatal TOF 
+correction. The combination of appropriately timed sur -
+gical intervention and thorough anatomical correction 
+was associated with enhanced early survival outcomes. 
+Ongoing follow-up of long-term outcomes is essen -
+tial to evaluate the sustained benefits of these evolving 
+approaches.
+Neonates undergoing CPB present distinct physiologi -
+cal challenges due to low body weight and immature 
+organ systems. Optimizing outcomes in this population 
+requires precise priming volume management, com -
+prehensive intraoperative monitoring, collaboration 
+among surgical, perfusion, anesthesia, and intensive care 
+teams, and individualized care strategies tailored to body 
+weight and lesion type. Neuroprotection was a priority 
+in all cases [ 12–18]. For procedures requiring circulatory 
+arrest, intraoperative cerebral and lower limb oxygen -
+ation were monitored by NIRS. Nasopharyngeal tem -
+perature was reduced to 28 °C. A 3/16 inch infant CPB 
+circuit was used to minimize priming volume, with a total 
+circuit volume of 150 to 200 mL. The priming solution 
+included red blood cells and albumin to maintain ade -
+quate perfusion and oncotic pressure. Myocardial pro -
+tection was achieved using HTK cardioplegic solution, 
+and all cardioplegia was removed via cardiac suction. 
+Methylprednisolone was administered intraoperatively 
+to mitigate inflammatory responses at a dose of 30 mg/
+kg. Initially, administration was provided after rewarm -
+ing, but this practice was later administered immediately 
+when the CPB started. All patients achieved stable post -
+operative transfers and successful separation from CPB.
+Despite these outcomes, this study has several limita -
+tions. First, it is a single-center, retrospective study with 
+inherent risk of bias. Second, and most importantly, the 
+follow-up is ongoing and the data are not yet mature; 
+therefore, deeper statistical analyses (such as survival 
+analysis or multivariable regression) were not performed, 
+and the findings should be interpreted as descriptive 
+trends at this stage. Furthermore, some perioperative 
+parameters (e.g., mechanical ventilation duration) could 
+not be analyzed due to incomplete documentation, which 
+may limit a comprehensive assessment of outcomes.
+In China, regional variations exist in the treatment of 
+neonatal CCHD. The present institution demonstrated 
+mortality rates that were lower than those reported in 
+some developed countries, indicating advanced treat -
+ment capabilities. The application of new approaches, 
+including intrapartum surgery and complete neonatal 
+TOF repair, continues to evolve and is suggested as a 
+promising trend to further improve patient outcomes. 
+Long-term follow-up and future statistical analyses on 
+mature datasets will be essential to robustly evaluate 
+postoperative outcomes, validate these early findings, 
+and refine treatment protocols.
+Abbreviations
+CHD  Congenital heart disease
+CCHD  Critical congenital heart disease
+CPB  Cardiopulmonary bypass
+ECMO  Extra corporeal membrane oxygenation
+ICU  Intensive care unit
+DHCA  Deep hypothermic circulatory arrest
+NIRS  Near Infrared Spectroscopy
+HTK  Histidine-tryptophan-ketoglutarate solution
+IAA  Interrupted Aortic Arch
+COA  Coarctation of the Aorta
+TAPVC  Total Anomalous Pulmonary Venous Connection
+VSD  Ventricular Septal Defect
+TGA  Transposition of the Great Arteries
+TOF  Tetralogy of Fallot
+PS/PA  Pulmonary Stenosis/Pulmonary Atresia
+PS/PA  Pulmonary Stenosis/Pulmonary Atresia
+PDA  Patent Ductus Arteriosus
+PVS  Pulmonary vein stenosis
+TA  Tricuspid Atresia
+CAF  Coronary Artery Fistula
+DORV  Double Outlet Right Ventricle
+AS  Aortic Stenosis
+Acknowledgements
+We would like to acknowledge the hard and dedicated work of all the staff 
+that implemented the intervention and evaluation components of the study.
+Authors' contributions
+Conception and design of the research: Xiao-Juan Zhang, Qiang Wang, 
+Ju ZhaoAcquisition of data: Na Miao, Jia-Lu Wang, Yan He, Zhen-Shuang 
+CuiAnalysis and interpretation of the data: Na Miao, Jia-Lu Wang, Yan He, 
+Zhen-Shuang CuiStatistical analysis: Xiao-Juan Zhang, Na Miao, Jia-Lu 
+WangWriting of the manuscript: Xiao-Juan ZhangCritical revision of the 
+manuscript for intellectual content: Qiang Wang, Ju ZhaoAll authors read and 
+approved the final draft.
+Funding
+No external funding received to conduct this study.
+Data availability
+No datasets were generated or analysed during the current study.
+[[p5]]
+Page 5 of 5
+Zhang et al. BMC Pediatrics           (2026) 26:60 
+Declarations
+Ethics approval and consent to participate
+This study was conducted with approval from the Ethics Committee of Beijing 
+Anzhen Hospital, Capital Medical University (2025163X). This study was 
+conducted in accordance with the declaration of Helsinki. Written informed 
+consent was obtained from all patient guardians.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1Department of Cardiopulmonary bypass, Beijing Anzhen Hospital, 
+Capital Medical University, Beijing 100029, China
+2Department of Pediatric cardiolyogy, Beijing Anzhen Hospital, Capital 
+Medical University, Beijing 100029, China
+3Department of Cardiology, The Seventh Medical Center, Chinese PLA 
+General Hospital, No.5 Dongforty South Gate Warehouse, Dongcheng 
+District, Beijing 100700, China
+4Department of Pediatric Heart Center, Beijing Anzhen Hospital, Capital 
+Medical University, 2 Anli Road, Chaoyang District, Beijing 100029, China
+Received: 26 August 2025 / Accepted: 5 December 2025
+References
+PM?y?xK?v?iK?y?iK??M?b???????
+neonatal screening, diagnosis, and management of congenital heart disease 
+in China. Lancet Child Adolesc Health. 2023;7(7):479–89.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 
+1 6  / S  2 3 5 2 - 4 6 4 2 ( 2 3 ) 0 0 0 5 1 - 2.
+2. Singh Y, Lakshminrusimha S. Perinatal cardiovascular physiology and recogni-
+tion of critical congenital heart defects. Clin Perinatol. 2021;48(3):573–94.  h t t p  
+s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . c l p . 2 0 2 1 . 0 5 . 0 0 8.
+3. Tran NN, Tran M, Lemus RE, et al. Preoperative care of neonates with congeni-
+tal heart disease. Neonatal Netw. 2022;41(4):200–10.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 8 9 1  / 
+N  N - 2 0 2 1 - 0 0 2 8.
+4. Sasikumar D, Prabhu MA, Kurup R, et al. Outcomes of neonatal critical 
+congenital heart disease: results of a prospective registry-based study from 
+South India. Arch Dis Child. 2023;108(11):889–94.  h t t p s :   /  / d o  i .  o r  g  /  1 0  . 1 1   3 6  / a r  c 
+?????????????L?Q??O?Q?R?L?R?Q?T?S?V?PM
+5. van der Linde D, et al. Birth prevalence of congenital heart disease 
+worldwide: a systematic review and meta-analysis. J Am Coll Cardiol. 
+2011;58(21):2241–7.
+6. Liu Y, et al. Global birth prevalence of critical congenital heart defects: a 
+systematic review and meta-analysis. JAMA Pediatr. 2023;177(2):166–77.
+7. Oster ME, et al. Temporal trends in survival among infants with critical con-
+genital heart defects. Pediatrics. 2013;131(5):e1502–8.
+8. Dolk H, et al. Congenital heart defects in europe: prevalence and perinatal 
+mortality. Eur Heart J. 2011;32(6):729–37.
+9. Jacobs JP , et al. Variation in outcomes for benchmark operations: an analysis 
+of the society of thoracic surgeons congenital heart surgery database. Ann 
+Thorac Surg. 2011;92(6):2184–92.
+10. Liu Y, et al. Outcomes of neonatal congenital heart surgery in a developing 
+country: A 10-Year experience. Front Pediatr. 2021;9:642–51.
+11. Vervoort D, et al. Global cardiac surgery: access to cardiac surgical care world-
+wide. J Thorac Cardiovasc Surg. 2020;159(3):987–96.
+12. Newburger JW, et al. Pediatric cardiac care consortium outcomes after 
+cardiac surgery in neonates. Circulation. 2019;140(8):609–18.
+13. Allen KY, et al. Optimal perfusion strategies for neonatal and infant cardiac 
+surgery using miniaturized circuits. J Extra Corpor Technol. 2018;50(2):88–94.
+14. Goldberg CS, et al. Neurodevelopmental outcomes after cardiac surgery in 
+infants. N Engl J Med. 2023;388(16):1502–14.
+15. Hoffman GM, et al. Cerebral oxygenation and neurologic outcomes in infants 
+undergoing CPB. J Thorac Cardiovasc Surg. 2021;161(3):1121–32.
+16. Ma JY, Cruz J, Jin J, Peng XY, Zhang AM, Cheng XD. Therapeutics of integrative 
+medicine ameliorate immunological disorders of the nervous system: A 
+meta-analysis. World J Tradit Chin Med. 2022;8:153–67.
+17. STS/SCA/AmSECT. 2022 Clinical Practice Guidelines for Neonatal CPB. J Extra 
+Corpor Technol. 2022;54(S1):S1-S32.
+18. Said SM, et al. CPB management in Neonates < 2.5 kg: Single-Center out-
+comes. Ann Thorac Surg. 2020;109(4):1234–40.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

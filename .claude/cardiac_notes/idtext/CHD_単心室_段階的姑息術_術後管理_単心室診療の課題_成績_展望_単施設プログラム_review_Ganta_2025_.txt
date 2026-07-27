@@ -1,0 +1,2667 @@
+
+[[p1]]
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Introduction
+Single ventricle (SV) heart disease refers to any congenital 
+heart disease (CHD) with a single functional ventricle 
+capable of supporting cardiac output. Although its initial 
+description dates to 1867, modern medicine has only 
+provided solutions to manage SV heart disease relatively 
+recently (1). There are different approaches to classifying 
+SV anatomy, each attempting to explain the distinct nuances 
+of the disease processes it encompasses (2-6). Disease 
+process that can result in SV physiology include double inlet 
+left ventricle (DIL V), common ventricle, univentricular 
+atrioventricular connection, hypoplastic left heart syndrome 
+(HLHS), hypoplastic right heart syndrome, tricuspid 
+atresia, unbalanced atrioventricular canal (with significant 
+imbalance), mitral atresia normal aortic root and heterotaxy 
+Review Article
+Single ventricle care: challenges, successes and the future in a 
+single center program
+Srujan Ganta
+1,2
+^, Mathew J. Bock
+3,4
+, Jessica Haley
+3,4
+, Howaida El-Said
+3,4
+^, Rohit Rao
+3,4
+, John J. Nigro
+1,2
+1
+Cardiothoracic Surgery, Rady Children’s Hospital San Diego, San Diego, CA, USA; 
+2
+Cardiothoracic Surgery, University of California San Diego, 
+San Diego, CA, USA; 
+3
+Pediatrics, Division of Cardiology, University of California San Diego, San Diego, CA, USA; 
+4
+Division of Cardiology, Rady 
+Children’s Hospital San Diego, San Diego, CA, USA
+Contributions: (I) Conception and design: S Ganta; (II) Administrative support: S Ganta, JJ Nigro; (III) Provision of study materials or patients: None; 
+(IV) Collection and assembly of data: All authors; (V) Data analysis and interpretation: All authors; (VI) Manuscript writing: All authors; (VII) Final 
+approval of manuscript: All authors.
+Correspondence to: Srujan Ganta, MD, FRCSC. Cardiothoracic Surgery, Rady Children’s Hospital San Diego, 3020 Children’s Way, MC5004, San Diego, 
+CA 92123, USA; Cardiothoracic Surgery, University of California San Diego, San Diego, CA, USA. Email: sganta@ualberta.ca; sganta@rchsd.org.
+Abstract: Congenital cardiac surgery has advanced considerably over the last 4 decades with improvements 
+in virtually every aspect of care. T echnical procedures are well described in literature and taught globally 
+while expected results are published in databases such as the Society of Thoracic Surgery (STS) and 
+European Association of Cardio-Thoracic Surgery (EACTS). Outcomes have progressed from uncertain 
+survival to expected program mortalities of nearly 2%. This has been driven in part by advances in surgical 
+technique, but also incremental improvements in the entire patient care pathway. Single ventricles (SVs) 
+remain one of our most challenging cohorts of patients and our most resource intensive. Although outcomes 
+have improved in the past decades, overall morbidity and mortality exceeds that of our biventricular patients. 
+Our goal is to highlight some of the impactful advances surrounding SV care, discuss some of the ideology 
+that led us to our current care processes as it applies to our single center program. We also discuss areas of 
+improvement in the future. We have also focused on mechanical support and transplantation as it remains 
+a keystone in SV care. We hope to provide insight into how to improve the care of patients born with SV 
+disease. 
+Keywords: Three-dimensional modelling (3D modelling); single ventricle (SV); pediatric ventricular assist device 
+(pediatric VAD); transplantation
+Submitted Dec 28, 2024. Accepted for publication Aug 11, 2025. Published online Sep 26, 2025.
+doi: 10.21037/tp-2024-602
+View this article at: https://dx.doi.org/10.21037/tp-2024-602
+2303
+ 
+^ ORCID: Srujan Ganta, 0000-0002-5675-0834; Howaida El-Said, 0000-0002-3447-7398. 
+[[p2]]
+Ganta et al. Improving SV care in a single center program2272
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+syndromes (7). Managing this subset of CHD has been one 
+of medicines greatest achievements in its ability to take 
+illness with poor overall prognosis to a survival near 50% 
+at 30–40 years of age (8). This resource intensive group of 
+patients are reliant on the health care system early in life. 
+Over several years to decades, they become less dependent 
+on the medical system but remain patients indefinitely (9).  
+The morbidity and mortality burden of these patients 
+is high with ongoing sequala of SV disease presenting 
+throughout their life. These issues are a result of the 
+physiologic problem of sustaining cardiac output with an 
+SV and this collection of problems along with the SV itself 
+remain our target for improvement. 
+Over the last few decades our institution (Rady 
+Children's Hospital of San Diego) has worked towards 
+managing SV patients through education, research and 
+clinical experience. We have adopted new concepts and 
+ideas on a multi-disciplinary level that have improved care 
+as well as pressed forward with technology and techniques 
+that have paid dividends over the years. In this paper, we have 
+highlighted the areas of medicine and surgery that have had 
+the most impact in the care of SV patients at our institution. 
+We also intend to review some of the challenging areas in 
+SV care, specifically with transplantation and mechanical 
+support and highlight areas for future improvement. 
+Methods
+Relevant information for this review was obtained by 
+searching the PubMed database and reviewing key papers 
+identified by experienced team members which have 
+influenced practice. The PubMed search strategy utilized 
+was based on key words relevant to SV care throughout 
+the overall care pathway and focused on contemporary 
+literature from 2000 to 2024 in English. Publications prior 
+to this were included when identified as being impactful 
+by our team members or to provide historical context. Our 
+experience in caring for SVs over the past few decades 
+provided direction and insight into the areas seen as 
+advancements in care as well as areas for future development 
+and improvement. Key words used included “single 
+ventricle care”, “single ventricle imaging”, “ICU care of 
+single ventricles”, “ventricular assist device use in single 
+ventricles”, “cardiac transplantation in single ventricles”. 
+The care areas discussed include early care decision making, 
+intensive care unit (ICU) care, surgical care, the home 
+monitoring program (HMP) and transplantation. 
+Advanced imaging 
+Image generation
+Historically three-dimensional (3D) modelling has been a 
+novelty more than a required clinical tool. In the last decade 
+however, its value in CHD has been recognized and it is 
+now deployed in surgical programs with several reports 
+of its utility (10-12). It reveals anatomical relationships 
+that can elevate understanding and provide insight when 
+compared with scrolling through two-dimensional (2D) 
+datasets. Despite its potential, it is not universally deployed, 
+and individual programs utilize this technology differently. 
+Our program developed its 3D capabilities recently and 
+has benefited from this resource investment which we have 
+reported on in the context of double outlet right ventricle 
+(RV) care (13). In 3D reconstruction, image acquisition 
+from computed tomography (CT) or magnetic resonance 
+imaging (MRI) is refined and segmented to build volumes 
+revealing 3D structures ( Figure 1 ). Complex patients are 
+the beneficiaries of advanced imaging and that has certainly 
+been true of SV patients. In our institutional experience, 
+patient families find 3D models useful in understanding 
+their child’s disease and often request to keep these models 
+for future reference. We have also utilized this across 
+the spectrum of SV disease in both decision making and 
+operative planning. We initially focused on physical printing 
+and have slowly moved to a digital medium.
+Printing technology
+Most of our physical prints are done with hardened material 
+that allows for color differentiation of anatomy with 
+physical strength. With these models, when partial slices 
+are created, they can maintain their structural integrity 
+allowing significant portions of the ventricular wall to be 
+removed ( Figure 2 ). This technique relies on our powder 
+bed fusion (HP MJF580) printer. We also maintain the 
+ability to 3D print softer models intended to mimic tissue 
+properties utilizing a material jetting process (Stratasys 
+J750 Digital Anatomy Printer). This soft material allows 
+the model to be cut/sliced and manipulated in ways that 
+may simulate surgical procedures. We have made use of 
+this when experimenting with new surgical techniques. 
+Our interventional team has used this technique along with 
+digital techniques to model patent ductus arteriosus stenting 
+(PDAS) in patients with tortuous anatomy ( Figure 3 ).  
+Modelling allows us to simulate difficult patent ductus 
+[[p3]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2273
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Reconstruction
+Feature identification
+• Defining contrast- 
+enhanced blood
+• “Masking” ROIs for 
+discrete  
+memberships
+• Computationally  
+stacking segmented 
+masks
+• Creating volumes or 
+surface mesh 3D 
+datasets
+Segmentation 3D reconstruction
+Figure 1 The inset image to the left demonstrates contrast enhancement of the blood which allows for feature identification. This is used 
+to create specific masks. These masks represent ROIs that can be assigned to different memberships representing different anatomical 
+components. The 2D masks can be computationally stacked together to create volume map datasets. 2D, two-dimensional; 3D, three-
+dimensional; ROI, region of interest. 
+Figure 2 These models were printed using the power bed fusion technique. These models were printed in a 1:1 aspect ratio but can 
+be scaled up in size. The printing material has enough strength to allow for sections of the ventricular wall to be removed allowing for 
+visualization of internal structures. 
+[[p4]]
+Ganta et al. Improving SV care in a single center program2274
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+arteriosus (PDA) stenting procedures leading to deeper 
+insight in cases of unusual anatomy. In this specific scenario, 
+we can identify the optimal approach as well as the length 
+of the PDAS and predict the degree of left bronchus 
+compression with stent deployment leading to technical 
+success (Figure 4).
+Transition: models to software
+The most common modality that we use to interrogate/
+interact with 3D data sets is software and we have described 
+our software development previously (13). Digital 
+reconstructions are viewed in the office, in conferences as 
+well as in the operating room to assist with dissections and 
+A B
+Figure 3 3D modelling allows for manipulation of anatomy in all axis. We can pan into structures to cut-away anatomy. Image A, the aorta 
+(red) gives rise to the PDA (green) along its undersurface. This can be seen in relation to the pulmonary arteries (blue). The image (B) has 
+the aorta translucent, and the left atrium subtracted, revealing the origin of the PDA from the undersurface of the aortic arch. 3D, three-
+dimensional; PDA, patent ductus arteriosus.
+A B
+Figure 4 The PDA is tortuous in its origin form the aorta to its entry in the pulmonary artery. 3D segmentation of the aorta (red), branch 
+PAs (blue), and PDA (green). (A) The orange spline (computer-generated cylinder) illustrates the optimal trajectory for vascular catheter 
+access, assisting in procedural planning. In this case, the right carotid artery provides the most direct route. (B) The spline is positioned 
+within the PDA to predict the optimal stent length (in this case 25 mm), accounting for the natural curvature of the PDA without 
+straightening. We can also predict mild compression of the left bronchus which does not preclude PDAS deployment. We anticipate this 
+compression will resolve and will not prevent extubation post procedure. 3D, three-dimensional; PA, pulmonary artery; PDA, patent ductus 
+arteriosus; PDAS, patent ductus arteriosus stenting.
+[[p5]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2275
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+subsequent repair. This represents a significant change in 
+the last 3 years as we now routinely interrogate our 3D data 
+independent of any 3D technicians, radiologists or imaging 
+experts. The independence we have gained from this ability 
+highlights the power of deploying this technology across 
+the entire care team. 
+Our experience with predictive modelling
+Predictive modeling has been used on a rudimentary 
+basis in our program by creating models for size fitting 
+ventricular assist devices (VADs) in SVs with success  
+(Figure 5 ). This technique has been successful in fitting 
+donors and recipients for heart transplantation in cases of 
+size mismatch as well. In Video 1 , we see a patient donor 
+heart with a donor- recipient weight ratio of 1:1 being 
+modeled in the thoracic cavity of the recipient. The poor fit 
+on 2D and 3D models led to our declining of the otherwise 
+acceptable heart.
+Future directions
+As our comfort grows in this 3D space, we, like many 
+programs, have become interested in virtual reality and 
+augmented display systems which are a natural evolution 
+of this technology. Another step forward in modelling is 
+to create biophysical models to simulate cardiac mechanics 
+which are in development and reported by multiple 
+programs (14,15). The ability to anticipate growth, re-
+modelling and valvar changes would add predictive value 
+to management and would represent a generational leap 
+forward in decision making. Computational modelling 
+of the heart however, has been a slow work in progress 
+for CHD including SVs (16,17). We have progressed 
+far enough to ask the question: when will this lead to 
+meaningful clinical translation? The answer has been 
+soon, but not yet (18). When this technology does mature 
+and enter our clinical space, it has the potential to be 
+transformative for our field. 
+Conclusion
+In terms of imaging, 3D modelling has earned its place in 
+Figure 5 This 3D model fit predicted that anatomy was favorable 
+and able to accept the placement of a Heart Mate 3™ ventricular 
+assist device in a single ventricle heterotaxy patient. This VAD 
+provided several months of support allowing the patient to 
+convalesce as an outpatient before being transplanted. This patient 
+is now thriving as an outpatient. 3D, three-dimensional; VAD, 
+ventricular assist device. 
+Video 1 This video demonstrates the visual 3D fit of a donor 
+heart into a recipient chest. The native heart is traced in green and 
+volume images (yellow) are generated. The donor heart volume 
+images are superimposed on this and provide visual information 
+regarding how the donor would fit. In this case, despite a 1:1 donor 
+weight recipient ratio, the donor heart did not fit well and was 
+subsequently rejected after modelling. 3D, three-dimensional. 
+
+[[p6]]
+Ganta et al. Improving SV care in a single center program2276
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+CHD care and will likely play a more advanced role in the 
+future. Its value in patient education, decision making and 
+operative planning cannot be overstated. Size-fit modelling 
+has been in use for some time along with 3D fitting hearts 
+and VADs which has provided valuable insight. Our 
+reliance on advanced imaging will grow with time and we 
+will see more sophisticated iterations of these techniques in 
+the future with predictive value as we step towards greater 
+clinical translation of this technology. 
+Interstage care and HMP evolution 
+Introduction
+SV palliation differs from other CHD management 
+pathways in that it requires a series of stepwise interventions 
+to achieve a more stable hemodynamic circulation. The 
+result of this SV pathway, which was first developed in 
+the 1980s, is not curative, but palliative, with the goal 
+of survivable circulatory anatomy (19). Each anatomical 
+correction results in physiology with nuances that have 
+the potential to produce morbidity and mortality. This 
+physiology requires attention in both an inpatient and 
+outpatient setting to allow patients to progress. Attention 
+to physiological deviations early on whether as an inpatient 
+or outpatient has been a key step in improving our 
+care of this patient population. This differs from other 
+surgically repairable disease processes which often result 
+in significantly improved physiology post repair in two 
+ventricle systems. 
+Interstage mortality
+In SV palliation, the first cardiac intervention is typically 
+required in the neonatal period, with the second intervention 
+occurring in infancy, around 3–6 months of age. The period 
+between the first and second cardiac intervention is referred 
+to as the interstage period. Despite years of experience, 
+this interstage period was marked by significant morbidity 
+and mortality. Even in the early 2000s, interstage mortality 
+after a stage 1 operation was reported as 11–15% in North 
+American centers (20,21). It was known at that time 
+anatomic variables such as an atrial septal defect restriction, 
+valve insufficiency, aortic arch obstruction and poor 
+ventricular function were linked to interstage death (22).  
+These anatomic issues are responsible for physiologic 
+perturbations and can be detected with conventional 
+imaging and monitoring. When these issues are detected 
+in a hospital setting, intervention can be undertaken to fix 
+these issues. We have also recognized anatomic issues only 
+accounted for some of the interstage mortality, and other 
+factors were contributing, which continues to be an ongoing 
+area of study. 
+HMPs
+After hospital discharge, the ability to monitor for 
+hemodynamic changes becomes more challenging. In 
+2003 Ghanayem and colleagues proposed that monitoring 
+parameters such as oxygen saturations and weight gain 
+in the ambulatory setting may be able to detect early 
+signs of hemodynamic changes or distress and facilitate 
+patient intervention before clinical deterioration (23). This 
+paradigm became known as the interstage HMP (23). This 
+study compared patients who had HMP to those without 
+and demonstrated a significant mortality reduction with 
+HMP . Despite the small number of patients, this was 
+somewhat of an epiphany for the field of SV care in that 
+clear evidence demonstrated mortality could be reduced 
+with monitoring as outpatients. In 2006 the National 
+Pediatric Cardiology Quality Improvement Collaborative 
+(NPC-QIC) was created to bring care teams together with 
+the goal of reducing interstage mortality through quality 
+improvement initiatives. A study in 2011 demonstrated that 
+SV infants followed in HMP demonstrated an improved rate 
+of interstage weight gain which resulted in earlier stage 2 
+operations without a mortality difference but also improved 
+1-year transplant free survival (24). This data further 
+promoted the adoption of these strategies in SV care.
+Improving survival with home monitoring
+A review in 2014 outlined how some programs were able 
+to decrease interstage mortality to 0% with the average 
+reduction from 15.7% to 5.7% (25).  Siehr et al.  reported 
+improved interstage survival to 100% over 5 years with 
+the protocol altering care in 37% of their patients (25). 
+Through work of the NPC-QIC, a list of physiologic 
+parameters and concerning changes, known as the “red 
+flag” criteria were developed (26). These include issues with 
+weight gain and feeding tolerance (weight loss >30 g/days,  
+failure to gain 20 g in 3 days, intake <100 cc/day, diarrhea), 
+hypoxemia (saturations <75%, cyanosis) impaired cardiac 
+output (tachypnea, dyspnea, irritability, vomiting) and 
+infection (temperature >38 ℃) (26). Castellanos et al. 
+reported more unplanned re-interventions and an 80% 
+reduction in mortality with HMP suggesting high risk 
+[[p7]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2277
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+events were being captured by the program (27). They 
+stated HMP enrollment predicted improved survival (27). 
+Reduced mortality was confirmed by several others (28,29) 
+and in 2023 it was reported HMP had decreased interstage 
+mortality from 10.3% to 2.5% (29). A scientific statement 
+from the American Heart Association (AHA) in 2020 
+summarized HMP’s effect of lower morbidity and mortality, 
+decreased major readmissions and improved growth (26). 
+The benefits of developing and utilizing an interstage HMP 
+is clear with evidence spanning 2 decades. For this reason, 
+HMP programs have become active in several institutions. 
+Our experience with home monitoring
+Our institution’s HMP was created in 2017 and has 
+continued to grow into a comprehensive, multidisciplinary 
+model of care to support our infants living with SV heart 
+disease. Our program, like many other HMP’s around the 
+country have continued to expand, to include not only a 
+cardiologist and nursing specialty, but feeding therapist, 
+dietician, and social worker. The HMP team becomes 
+involved with the family from the time of diagnosis 
+(including during the fetal period) and remains involved 
+throughout the interstage journey ( Figure 6 ). Our team 
+works closely with the intensive care team prior to hospital 
+discharge, to assess patients’ readiness for discharge and 
+to ensure appropriate parent education is provided to 
+increase rates of success in the ambulatory setting. The 
+HMP becomes the patient’s medical home during this 
+critical interstage period. The benefit of a dedicated team 
+includes intimate knowledge and familiarity of the complex 
+patients within the care team. We rely on consistent 
+and direct communication with the family through the 
+electronic medical record (EMR), where patient data can 
+be reviewed daily and interventions can occur in a timely 
+matter. Additional layers of communication, including the 
+use of Emergency Care Plans in the EMR help other health 
+care members identify these patients as high risk. This 
+Figure 6 The pathway depicted summarizes the general criteria used by our HMP for admission which was built on literature review and 
+experience. The red flag criteria represent significant markers for poor performance as an outpatient. HMP starts with discharge planning and 
+provides important data for us to understand patient status. Presence of “Red Flags” can trigger early assessment and admission to the ICU 
+which is a key step in stabilizing patients and determining if intervention is necessary to mitigate overall risk. Interventions can be catheter 
+based or surgical and will hopefully rescue the patient and return them to a low risk profile. APC, aortopulmonary collateral; ASD, atrial septal 
+defect; EMR, electronic medical record; HMP , home monitoring program; ICU, intensive care unit; PA, pulmonary artery; sats  , saturation.
+Home monitoring program
+[[p8]]
+Ganta et al. Improving SV care in a single center program2278
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+helps with triage and direct admission to our cardiac ICU, 
+avoiding long waits in the emergency room and expediting 
+appropriate testing, monitoring and escalation of care for 
+this hemodynamically fragile population. The impact on 
+our program is analogous to previous reports in terms 
+of risk reduction and identifying the sub-population of 
+patients who benefit from early intervention. The selection 
+of this high-risk group from the outpatient setting and re-
+directing them through investigations to interventions is a 
+key component of HMP . In our program, routing a patient 
+towards this pathway may result in cardiac catheterization 
+or other interventional cardiology procedures such as PDA 
+stent ballooning or pulmonary artery (PA) procedures. 
+It may also lead to early advancement towards surgical 
+interventions outlined in Figure 6 . After the necessary 
+interventions are complete and the patient is ready for 
+discharge, the HMP team is updated with respect to 
+events, and they determine the next steps for follow-up and 
+monitoring. 
+It is important to note that our program also routinely 
+pre-schedules catheterizations at 3 months of age as part 
+of our pre-Glenn evaluation of definitive repair and adjusts 
+our stage 2 reconstruction timing earlier if patients are 
+cyanotic. MRI and catheterization together as part of pre-
+Glenn assessments are used to evaluate superior vena cava 
+(SVC) flow, collateral burden and other relevant factors. 
+This combined approach provides insights for decision 
+making and can be helpful when considering complex 
+biventricular repairs as well as sets our expectations for 
+post-procedural care. 
+Future directions
+In the future, our techniques and surveillance will likely 
+progress to provide a wider range of data points for analysis, 
+including wearable technologies. As technology improves 
+and we move towards the purported “Internet of Things”, 
+data collection may be streamlined or automated. Analysis 
+of this data could also be tasked to software/artificial 
+intelligence (AI) driven management proactively bringing 
+patients to our service. Digital HMP platforms have already 
+been used with success (30). The use of 5G internet of 
+things monitoring has been demonstrated in adult cardiac 
+literature post revascularization and for heart failure 
+monitoring with positive results (31,32). The concept of 
+surveillance has already been proven successful and at our 
+current state, how we apply new technology to build out 
+our current HMP may result in even better outcomes. 
+Conclusion
+Presently, HMP represents an eloquent and effective 
+solution that delivers impactful results. More importantly, 
+it represents our recognition/realization that care needs to 
+extend to the ambulatory setting. This area of development 
+has been one of the highest yield areas of improvement 
+in our program and is a critical part of our management. 
+HMP is a reminder that palliation is not a cure, only a 
+temporizing sequence of interventions in this population. 
+With technological advancements, we see exciting 
+possibilities for how HMP may be further developed in the 
+future. These developments are certain to benefit patient 
+care teams, families and SV patients.
+Intensive care/early post-operative management
+Introduction
+Critical care has been a pillar in cardiac surgical care for 
+decades since we endeavored to surgically manage heart 
+disease. SVs are a complex subset of patients and the need 
+for high acuity, focused, multisystem management in this 
+population cannot be overstated. Even in the setting of a 
+technically perfect surgical reconstruction, the quality of 
+ICU care can determine the difference between survival 
+and mortality. The progress made in ICU care can be 
+broadly categorized in terms of human capital development, 
+clinical sciences, and technological advancement. When 
+we consider how to improve SV care, our high acuity 
+management in ICU is an important part of our clinical 
+pathway.
+Human capital
+In terms of human capital development, building an 
+experienced team is one of the most important aspects 
+of delivery in cardiac surgical care. Volume in caring 
+for patients with specific anomalies and familiarity with 
+surgical techniques allows for anticipation of post-operative 
+physiology and problems early on. Well trained team 
+members such as fellows, nurse practitioners, physician 
+assistants, nurses and respiratory therapists are all 
+independent force-multipliers who can recognize threats 
+early enough to initiate appropriate management creating 
+a web of safety around at-risk patients. A weak point in 
+any discipline can compromise the integrity of the team 
+which may manifest in outcome measures. The skill level 
+of a team is tested when managing SVs as they consistently 
+[[p9]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2279
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+represent our most brittle patient population with mortality 
+post Norwood procedure continuing to be roughly 11% at  
+30 days and early interstage mortality at 11% (33,34).
+Physiology—circulatory balance
+The science of cardiac critical care has slowly progressed 
+with numerous publications over the last few decades with 
+some having significant impact in our perception of early 
+post-operative care (35). As early as the 1990s T wedell 
+and group provided key insight into how we manage the 
+pulmonary vascular resistance (PVR) and systemic vascular 
+resistance (SVR) relationship (36). The hallmark of SV 
+physiology is the Qp/Qs ratio [pulmonary blood flow (PBF)/
+systemic blood flow] and how we balance this ratio has 
+profound impact on our post-operative hemodynamics and 
+outcome. The authors commented on the use of the alpha 
+blocking agent phenoxybenzamine and demonstrated value 
+in preventing systemic hypoperfusion by high pulmonary 
+vascular runoff post Norwood. Phenoxybenzamine use 
+led to a Qp/Qs closer to 1 and a higher systemic venous 
+saturation (36). This balancing act between PVR and SVR 
+to maximize somatic oxygen delivery remains a focus of 
+early stage 1 palliation (S1P) post operative care. Although 
+the medications we utilize have evolved according to 
+practice (which may be center specific), these principles 
+have been maintained. There are a limited number of agents 
+commonly used to augment cardiac output post cardiac 
+surgery and they can be described as catecholaminergic 
+inotropes, inodilators, systemic vasodilators, and pulmonary 
+vasodilators (37). Of these agents, milrinone has become a 
+commonly deployed agent and its value has been supported 
+by studies, including those comparing it to epinephrine and 
+dopamine (38,39). Inhaled nitric oxide has also been shown 
+to be a safe adjunct to milrinone therapy in maintaining the 
+balance of cardiac output pre-operatively (40). Although the 
+cocktail of agents may expand, their use will likely reflect 
+our attempt to better preserve the principles stated above. 
+Goal directed targets
+A study in 2007 demonstrated that goal directed central 
+venous saturations were associated with early survival 
+post Norwood and the absence of this regulation was 
+associated with end organ failure, extracorporeal membrane 
+oxygenation (ECMO) and mortality (41). This has provided 
+goals for ICU teams to target immediately post-operatively. 
+Focus on arterial saturations may prevent the recognition of 
+systemic mal-perfusion that central venous gas monitoring 
+can reveal. Insight from this helped identify venous 
+saturation targets between 55–60% which is an actionable 
+item for teams in the ICU who use these values as markers 
+of cardiac output distribution.
+Near infra-red spectroscopy (NIRS) monitoring has 
+also shifted thinking and proven to be a high yield strategy 
+in assessing perfusion. The relationship between cerebral 
+perfusion and neurodevelopment may seem logical but 
+it was not well described until 2013. Hoffman and group 
+determined by cerebral NIRS that low cerebral perfusion 
+states are associated with reduced neurodevelopmental 
+performance in survivors (42). This highlighted the need 
+not only for continued cerebral NIRS monitoring, but 
+target saturation levels for early ICU care. This also 
+represented a shift in thinking allowing us to look beyond 
+early mortality as a metric that we should be targeting. 
+Cerebral and somatic NIRS was also studied as a 
+predictive tool for survival and ECMO utilization in HLHS 
+patients post S1P in 2017 (43). Early NIRS saturations at  
+6 hours were predictive of mortality and ECMO use 
+providing a target for goal directed intervention. This was 
+followed by the recognition that distinct hemodynamic and 
+physiologic states have different mortality risk profiles (44).  
+The first 48 hours of measurements were indicative of 
+outcome and suggested this early window would provide a 
+rational target for interventions. NIRS measures provided 
+an accurate assessment of regional hypoxia-ischemia, even 
+in the absence of a global reduction in central venous 
+saturations. Normal arterial-regional differences in oxygen 
+extraction could now become targets for circulatory 
+management. NIRS could provide insight into SVR 
+providing real time data regarding circulatory deficiencies. 
+Survivors tended to be associated with hemodynamic states 
+with high cardiac output and high NIRs and low SVR. 
+High SVR states were defined as unstable and transition to 
+ECMO was associated with low cardiac output. Augmenting 
+inodilator and hemoglobin levels were found to be related to 
+improved hemodynamic conditions and predicted movement 
+away from low cardiac output states (45). This is consistent 
+with what has been observed physiologically with the use 
+of inotropes such as milrinone. As a corollary to this, there 
+has also been a general movement towards targeted and 
+titratable therapy and away from indiscriminate prolonged 
+vasodilation (38,46). 
+Each of these concepts have had an impact on our ICU 
+care. They highlight how technology and new techniques 
+can change our perception of hemodynamic management 
+[[p10]]
+Ganta et al. Improving SV care in a single center program2280
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+which is the cornerstone of early post operative care in SV 
+patients. We avoid high SVR and low cardiac output states 
+and work towards advancing patients to less invasive care. 
+Avoidance of extended intubation times and oral feeding 
+advancement promote a better post-operative state. 
+V ascular access
+In terms of day-to-day management, we make a concerted 
+effort to preserve vasculature in these patients as they will 
+have re-interventions throughout their life. We preserve 
+femoral arteries by using radial arterial lines in all patients 
+when possible. We attempt to preserve venous access with 
+the use of trans-thoracic lines (TTL) that are tunneled 
+under the skin and placed in the right atrium in the 
+operating room before chest closure. With TTL use, central 
+lines and peripheral intravenous lines (IVs) can be removed 
+on post operative day 1 and this may be beneficial in terms 
+of long-term patency of the venous system and infection 
+prevention. Other authors including the Pediatric Cardiac 
+Critical Care Consortium (PC4) have published data on 
+line infections and associated thrombosis with conventional 
+line strategies (47,48). TTL ’s in our program are typically 
+7 Fr cuffed double lumen lines and are removed the day of 
+discharge with some lines being used for several months. 
+The concept of TTLs has been explored by other authors 
+as well (49-51). Our own series has been published with the 
+use of TTLs where 35% of patients were SVs (52). Drawing 
+from this experience, subjectively, TTL ’s have provided 
+important life-lines for our SV patients in diagnostics and 
+resuscitation. Although these distinct management nuances 
+appear innocuous, we have observed that vessel preservation 
+plays an important role in the long-term success of this 
+population. 
+Data growth and collaboration
+With growing interest in quality improvement and expertise 
+at multiple centers, the PC4 has been coordinating an 
+international group of critical care physicians to share  
+data (53). Our institution participates in this initiative and 
+has benefited from publications regarding (but not limited 
+to) cardiac arrest prevention, acute kidney injury in neonates, 
+and the impact of unplanned reinterventions (54-56).  
+This has been impactful in our care delivery and our 
+participation in this consortium facilitates the incorporation 
+of new concepts from PC4 into our units practices. 
+T echnology has increased our ability to capture and 
+analyze events but has also increased the volume of data we 
+have had access to. We have implemented Sickbay (Medical 
+Informatics Corp., Houston, TX, USA) as a strategy to 
+improve our data interpretation and interrogation (57).  
+Other platforms such as Etiometry T3 (T racking, 
+T rajectory, T riggering) exist which provide AI driven 
+analytics and decision-making assistance (58). As this 
+technology matures, we hope to achieve a deeper level of 
+insight into our patient monitoring.
+Our ICU management is constantly being tested by the 
+SV population as we work towards improved care. The 
+recognition of the complexity of these patients across our 
+profession led to the creation of the NPCQIC which is 
+another collaborative that we engage with. We participate 
+in data collection and analysis as well as utilize its insights 
+to improve the care in our unit. Its primary objective was 
+to function as a conduit for the exchange of information 
+to improve the overall care of SV patients (59). Moving 
+forward, it will be multi-institutional, data driven analysis 
+tool. These initiatives and technological advancements 
+together not only change our care delivery but increase the 
+rate at which we learn and advance our techniques. 
+Conclusion
+ICU care has changed drastically over the past few 
+decades. There has been an acceleration in the growth 
+of data available to learn from and new ways to mine 
+this information. The core principles of physiological 
+management however remain, and the lessons learned in 
+terms of balancing circulation and goal directed therapy are 
+as applicable today as they were in the past. 
+The development of organizational structures linking 
+institutions allows for data sharing but also helps bring 
+consistent ideology and care perspectives to different 
+institutions. SV patients are the beneficiaries of these 
+developments, and we hope this will continue to improve 
+our care delivery moving forward. 
+Interventional cardiology
+Introduction
+Few medical specialties collaborate as closely as cardiac 
+surgery and interventional cardiology. Managing the CHD 
+population of patients successfully requires a technically 
+proficient interventional team for both diagnostics and 
+interventional procedures. The complexity of interventions 
+has grown from diagnostic catheterizations and balloon 
+[[p11]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2281
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+angioplasty to coarctation/vessel stenting and complex 
+valve deployments (60-62). PDA stenting has become more 
+common in the last decade with its application to the SV 
+population described in literature (63). Right ventricular 
+outflow tract interventional approaches are also pursued 
+in the management of SV disease (64,65). With all this 
+progress, a complete discussion of pertinent techniques 
+is beyond the scope of our discussion. We will, however, 
+highlight a few of the strategies that have been impactful at 
+our institution. Our institution has adopted PDA stenting 
+for all ductal dependent PBF SV patients since 2017 which 
+is an area we have discussed. We have also highlighted our 
+management of collaterals as it has been important for our 
+SV patients. 
+Collaterals
+SV patients are prone to developing significant 
+aortopulmonary collaterals (APC) which are associated with 
+lower transplant free survival (66). Collateral management 
+has been problematic in the past for our institution and 
+developing strategies to address this has been a work in 
+progress. Our approach is to use MRI to quantify APC 
+load when possible and to intervene proactively in patients 
+with a burden >25% (67,68). We routinely obtain cardiac 
+MRIs pre-Glenn to evaluate readiness for Glenn and other 
+information we glean from this study includes ventricular 
+function and atrioventricular valve regurgitation as well 
+as quantitation of SVC flow (69,70). We also assess for 
+delayed enhancement which can provide insight into 
+myocardial health. Importantly, T2-weighted lymphatic 
+imaging is included which can provide insight into the risk 
+of developing pleural effusions following the Glenn. We do 
+not consistently perform pre-Fontan MRIs, as our practice 
+is to aggressively close collateral prior to Fontan. 
+SV patients in general have repeat re-interventions 
+and these additional procedures are associated with poor 
+overall prognosis (71). This is representative of the risk 
+of the procedure as well as the underlying substrate 
+requiring the intervention, highlighting the need for skilled 
+proceduralists.
+PDAS
+A technique that has been in development for several 
+decades at our institution is the use of PDAS which has early 
+experiments dating back to the 1990s (72). Benefits such as 
+lower mortality, morbidity and more symmetric PA growth 
+have been reported in literature (73-77). Results in the SV 
+population were also promising (63). The conventional 
+technique for managing duct dependent PBF has been 
+aorto-pulmonary shunts (APS) which have been reported 
+to have mortality rates between 2% and 19% over decades 
+of observation depending on the specific cardiac diagnosis  
+(78-80). Although considered a reasonable strategy, the 
+inability to improve upon the observed mortality rates over 
+time is suggestive that APS may have intrinsic limitations. 
+PDAS, however, allows for ductal flow to be maintained as 
+well as a native intima which may be less prone to thrombosis 
+than a synthetic (Gortex™,  Newark, USA) shunt. After 
+reviewing our experience with PDAS (75), we moved to 
+PDAS as a primary strategy for all SV duct dependent 
+PBF patients and have described this technique (81,82). 
+This ideologic shift in practice has led to one of the most 
+significant changes to our post-operative care of SV patients. 
+The absence of early hemodynamic instability that often 
+accompanies APS has led to smooth post-operative courses 
+in both the ICU and cardiology wards. Benefits with respect 
+to early extubation and reduction in ICU length of stay as 
+well as hospital length of stay have been realized. Patients 
+have smooth outpatient experiences and perhaps another 
+benefit is the ability to perform stage 2 reconstructions on 
+a virgin chest. The absence of mediastinal adhesions may 
+also facilitate the use of off-pump techniques in bidirectional 
+Glenn (BDG) construction which is also discussed. Other 
+realized benefits include early oral feeding and a trend 
+towards better neurodevelopmental outcomes (83). 
+Emerging techniques based on PDAS
+As a corollary to PDAS technology and its use, scenarios 
+such as heterotaxy-total anomalous pulmonary venous 
+return (TAPVR) vertical veins can also be managed 
+allowing for corrective cardiac surgery to be delayed 
+beyond the neonatal period (84). By delaying corrective 
+repair, the patient may gain weight and become a more 
+robust candidate for cardiac surgery. We have applied this 
+to other vertical vein scenarios and this represents another 
+area where we have shifted care paradigms (85). We have 
+described our early experience with the use of this technique 
+in TAPVR in a case series which we intend to report later 
+this year. 
+Conclusion
+The use of PDAS in SV with duct dependent PBF has been 
+[[p12]]
+Ganta et al. Improving SV care in a single center program2282
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+one of our most impactful changes in recent years. Interest 
+in PDAS is growing and other centers are becoming more 
+familiar with its use for duct dependent PBF patients. The 
+advantage of this technique is further discussed as part of 
+our shift towards off-pump Glenn (OPG) operations, which 
+have also become a preferred technique at our center in the 
+last few years. 
+Surgical strategies/off pump Glenn
+Introduction
+There are several pathologic processes that are destined 
+for SV palliation. Depending on anatomy and the presence 
+or absence of systemic outflow tract obstruction (SOTO), 
+the pathway for palliation differs. In patients without 
+SOTO, having excess PBF versus low PBF will also result 
+in different therapeutic strategies ( Figure 7 ). Discussing 
+evidence and practice around these strategies is perhaps 
+beyond the scope of this article. We have instead focused 
+our attention on a strategy that is likely unique to our 
+program at stage 2 palliation (S2P). We have, however, 
+commented on our institutional approach to SVs and 
+briefly discussed the conventional surgical strategies in this 
+pathway.
+SVs and left ventricular outflow tract obstruction
+HLHS was a challenging lesion without a cure or effective 
+therapy until the introduction of a reliable S1P technique 
+by Norwood (86). The principles of an unobstructed 
+systemic ventricular outflow tract, atrial level mixing 
+and a secure pulmonary blood source have survived the 
+TransplantationTransplant
+Mechanical
+support
+Mechanical
+support
+ECMO/VAD
+Mechanical
+support
+ECMO/VAD
+Mechanical
+support
+ECMO/VAD
+Increased
+PBF
+Stage 1
+hybrid
+Stage 1
+norwood
+Branch PAB + 
+PGE
+Branch PAB + 
+PDAS
+CS2 Stage 2
+Decreased
+PBF
+Mechanical
+support
+ECMO/VAD
+Destination
+VAD
+Single
+ventricle life
+FontanBDG stage 2
+PDAS/APS
+PAB
+Decision
+making
+Prenatal
+diagnosis
+Family 
+counselling
+Post-natal
+diagnosis
+Compassionate
+care
+Palliation
+Palliation
+Balanced
+LVOTO
+No LVOTO
+Figure 7 The overall view of the single ventricle pathway is depicted. Patients with left ventricular outflow tract obstruction are directed 
+to a Norwood or Hybrid Norwood procedure. Those without systemic outflow obstruction progress towards a bidirectional Glenn and 
+may require pulmonary artery banding or a PDA stent or shunt depending on the status of their pulmonary blood flow. Patients are  
+re-directed towards mechanical support or transplant depending on their clinical status throughout the entire pathway. Once palliated with 
+a Fontan procedure, there is an expected attrition of this population over time with patients receiving more advanced support with assist 
+devices or transplantation. APS, aorto-pulmonary shunt; BDG, bidirectional Glenn; CS2, comprehensive stage 2; ECMO, extracorporeal 
+membrane oxygenation; L VOTO, left ventricular outflow tract obstruction; PAB, pulmonary artery banding; PBF , pulmonary blood flow; 
+PDA, patent ductus arteriosus; PDAS, patent ductus arteriosus stenting; PGE, prostaglandin E; VAD, ventricular assist device.
+[[p13]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2283
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+test of time until present day. There have been technical 
+modifications such as the RV-PA connection commonly 
+referred to as the Sano shunt which helped mitigate 
+some of the concerns with previous techniques (87). This 
+particular technique was studied and demonstrated an early 
+transplant-free survival up to 12 months, but no survival 
+benefit compared to the conventional modified Blalock-
+T aussig (mBT) shunt after this (88). Our preferred strategy 
+in Norwood reconstructions utilizes a Sano shunt with its 
+takedown and clipping at the next stage. A variant of the 
+operation is the hybrid Norwood which was described in 
+1993 as PA branch banding with maintenance of the ductus 
+arteriosus as the systemic outflow with prostaglandins and 
+subsequent ductal stenting (89). This offered a less invasive 
+solution to achieving stage 1 principles but still required 
+a comprehensive stage 2 procedure to remove the ductal 
+stent, establish a Damus-Day-Stansel repair, and create a 
+BDG. Our program utilizes a hybrid approach in patients 
+deemed high risk for a primary Norwood operation. 
+These 2 strategies (Norwood and Hybrid Norwood) both 
+represent our approach to this subset of patients at our 
+institution. We perform a Norwood procedure if technically 
+feasible and in patients we consider having high risk 
+substrate for repair, we will consider a hybrid Norwood 
+approach with ductal stenting.
+Absence of outflow tract obstruction
+In SVs without outflow tract obstruction, their pathway is 
+determined by the status of their PBF (Figure 7). In patients 
+with elevated PBF , they receive PA banding (PAB) to 
+protect the pulmonary vascular bed and this technique for 
+SVs has been described by Baslaim in 2009 (90). Patients 
+with balanced circulation are allowed to convalesce until 
+they reach appropriate size for their next stage. Patients 
+with decreased PBF in the past received an aortopulmonary 
+shunt which was either a central shunt or mBT shunt. We 
+have moved away from this strategy towards the use of 
+PDAS which has been described earlier in this manuscript. 
+Nearly all our SV patients in this cohort receive PDAS and 
+like our other SVs are followed by our HMP program. 
+Stage 2 and the bi-directional Glenn procedure
+Although the bi-directional Glenn is known as the stage 2 
+procedure in the SV pathway following a stage 1 Norwood 
+procedure, its origins date back to the 1950s when William 
+Glenn described the unidirectional Glenn (91). The first 
+report of the BDG followed years later in 1961 and is 
+the template for how we construct our cavo-pulmonary 
+connection (92). T ypically stage 2 conversions are completed 
+at our center following stage 1 after PVR has fallen and 
+patients have grown to roughly 6 kg. Patients receive pre-
+Glenn catheterization to assess hemodynamics and anatomy 
+before a multi-disciplinary review to move forward. Our use 
+of MRI pre-Glenn has been discussed previously. Patients 
+receiving PAB, those with balanced circulation or PDAS are 
+advanced to Glenn operations utilizing the same assessment 
+tools. In patients who have had previous procedures such as 
+a Norwood or APS, cardiopulmonary bypass (CPB) is used 
+to facilitate the construction of the Glenn. In our patients 
+with PDAS or balanced circulation, since the mediastinum 
+remains virgin territory, it is possible to utilize techniques 
+to construct the Glenn without CPB which is a strategy we 
+have moved towards as our preferred approach. 
+Off-pump Glenn
+A recent change (within the past 6 years) at our institution 
+is the use of OPG procedures. The technique has been 
+described in the past by authors dating back as early as the 
+1950s (91,93). There are also contemporary reports of use 
+(94,95). LaPar and colleagues compared OPG techniques and 
+identified no differences in mortality or complications (96).  
+One of the attractive elements however of OPG is a 
+reduction in resource utilization as well as avoidance of 
+the inflammatory effects of CPB. This was the rationale 
+for our adoption of the technique and our use of PDAS 
+helped facilitate this transition. The absence of mediastinal 
+adhesions with PDAS use allows for expeditious and safe 
+isolation of necessary vessels. PDAS is discussed separately. 
+Our approach to OPG has been with the use of a right 
+atrium to SVC shunt along with neural clips to control the 
+pulmonary arteries ( Figure 8). Vitals and NIRS monitoring 
+ensure stable perfusion/cerebral perfusion with a plan to 
+readily convert to CPB in the setting of hemodynamic 
+instability. Once the cavo-pulmonary anastomosis is 
+complete, the PDAS can be isolated with neural clips 
+and removed ( Figure 9 ). Once removed, the artery can be 
+reconstructed primarily or with patch material if necessary. 
+In terms of recent surgical strategies, this has been our most 
+successful change in the past 6 years with respect to surgical 
+procedures performed in SV patients. We have observed 
+a reduction in intubation time, ICU stays, and hospital 
+length of stay with this technique and have reported these  
+results (81). This technique has paid dividends in many 
+[[p14]]
+Ganta et al. Improving SV care in a single center program2284
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+forms aside from promoting an expeditious recovery. With 
+successful BDG construction and symmetric pulmonary 
+arteries, we set patients up for successful operations 
+at their next stage. PA architecture has been linked to 
+clinical outcomes at the Fontan stage so it is beneficial to 
+optimize this geometry early on (97). If we can enhance 
+pulmonary architecture, we may be able to avoid additional 
+interventions targeting these areas. Repeated PA balloon 
+angioplasty and PA stents generate more complex Fontan 
+reconstructions as well as transplantations and concurrently 
+elevate morbidity and mortality risk in a cumulative fashion. 
+This observation should give pause for thought but is often 
+overlooked early in the care of these patients before these 
+issues become problematic. Strategies to optimize anatomy 
+early on will be beneficial to their long-term success. 
+Fontan operation
+The Fontan procedure is the final step in the conversion 
+process of SVs to a survivable long term anatomical 
+configuration. Its description dates back to 1971 and allows 
+for lower body deoxygenated blood to be transmitted to 
+the pulmonary arteries and have only oxygenated blood 
+return to the systemic ventricle (98). Although the initial 
+description was an atrio-pulmonary connection, this went 
+through different iterations to become the lateral tunnel 
+Fontan and eventually the extra-cardiac conduit Fontan 
+(99,100). Our institutional approach has been to utilize the 
+extracardiac Fontan with expanded polytetrafluoroethylene 
+(PTFE) conduits ranging from 18–22 mm with 4 mm 
+fenestrations. Patients receive pre-Fontan catheterizations 
+Figure 8 This depicts our conventional off-pump Glenn 
+technique. A shunt is inserted between the SVC and right atrium 
+with conventional venous cannulas, and they are connected 
+with a standard tubing connector. A snare is placed around 
+the SVC portion and tightened to prevent bleeding into the 
+anastomotic field and to prevent air from entering the shunt. 
+Neural clips are used to isolate the right pulmonary artery 
+during the reconstruction. Vitals including the ECG, heart rate, 
+blood pressure and cerebral NIRS are closely monitored during 
+the reconstruction. In the event of instability, the aorta can be 
+cannulated and CPB can be instituted. BP , blood pressure; CPB, 
+cardiopulmonary bypass; ECG, electrocardiogram; HR, heart rate; 
+NIRS, near-infrared spectroscopy; SVC, superior vena cava. 
+Figure 9 After successful BDG construction, the neural clips can 
+be used to isolate main pulmonary artery. The newly constructed 
+BDG is opened allowing for pulmonary blood flow to the right 
+lung to maintain systemic perfusion. The PDAS is clipped with a 
+hemo-clip and transected. The PDAS can then be removed from 
+the pulmonary artery by pulling. The defect in the pulmonary 
+artery can then be repaired primarily or reconstructed with patch 
+material (pericardium, homograft, etc.). The arrow indicates 
+that is the direction the metal stent is being pulled out. BDG, 
+bidirectional Glenn; PDAS, patent ductus arteriosus stenting. 
+[[p15]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2285
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+to assess hemodynamics and anatomy to ensure appropriate 
+PA geometry. We have a low threshold to augment branch 
+pulmonary arteries with homograft patches to optimize 
+flow to both lungs as PA size and architecture are related to 
+favorable outcomes (97). Once we have achieved successful 
+Fontan circulation, these patients are followed for life to 
+ensure they are medically optimized.
+Conclusion
+Throughout the spectrum of SV surgical procedures, there 
+remains much to be improved upon. Given time, a fraction 
+of SV palliated patients deteriorate during their stepwise 
+journey, or during their life post Fontan reconstruction. 
+This attrition has largely been unchanged with time and 
+represents the underlying weakness of SV physiology. Our 
+strategy (similar to our colleagues) in these settings has 
+been to rely on mechanical support and transplantation 
+techniques as an off-ramp and endpoint in therapy. We 
+have relied on literature and experience to guide our 
+management as this area remains an active area of interest 
+and is further discussed. 
+Advanced support techniques: ECMO-
+mechanical support-transplantation
+Introduction
+Medical management for children with SV physiology has 
+its limitations. Eventually, disease progression can lead to 
+the failure of conventional medical strategies requiring more 
+aggressive intervention. Given the anatomical complexity 
+and physical size of these patients, transplantation represents 
+a viable option for long term success as it removes the 
+physiologic nuances associated with SV circulation. Cardiac 
+allografts show somatic growth and offer an improvement 
+in quality of life that comes with balanced circulation. The 
+tradeoff with this strategy is the lifelong risk of infection, 
+rejection and neoplasm that comes with transplantation (101).  
+Discussing transplantation in the current era requires 
+assessment of the entire umbrella ( Figure 7 ) of therapies 
+that mechanical support and transplant provide over the 
+SV pathway. In the most acute settings, ECMO offers an 
+immediate solution and VADs are more appropriate for non-
+emergent situations given the speed of deployment. This 
+collection of strategies may be considered an off-ramp for SV 
+palliation at any stage. Utilizing this umbrella and knowing 
+which modality is appropriate at each setting is both an art 
+and science and each are discussed here in more detail. 
+ECMO
+ECMO support is uncommon in the SV population but 
+presents unique challenges when needed. Overall, ECMO 
+utilization has been increasing over the past few decades (102).  
+Understanding the physiology and risks are crucial to 
+achieving safe support and many of the principles learned are 
+directly applicable to longer-term device therapy. Anatomic 
+heterogenicity in the SV population has required the need for 
+different cannulation configurations to secure support. Veno-
+venous (VV)-ECMO is typically implemented in patients 
+with adequate venous access with a single dual-lumen cannula 
+or multiple venous cannulas (103). Veno-arterial (VA)-ECMO 
+requires more thoughtfulness depending on the anatomic 
+variant and the stage of palliation. 
+Flows
+Mixing between the pulmonary and systemic circulations 
+requires consideration and as a result, target flows may need 
+to be adjusted. Collateral burdens can also play a role in 
+determining adequate device flow. T ypically, cannulation 
+will be central or peripheral or a combination of this. Often 
+higher flows can be achieved with central cannulation as 
+larger cannulas can be placed in the atrium or aorta. T eams 
+also need to be cognizant of the possibility of pulmonary 
+over circulation in the setting of shunt dependent 
+physiology (104). Concern regarding flow through APS has 
+led to some programs to clip shunts on ECMO while others 
+leave them open and there have been published differences 
+in outcome dependent on this decision (105).
+In terms of local practice in achieving adequate support 
+for this patient population, there are differences in flow 
+targets. For our neonates/infants who are biventricular, 
+we target flows of 110–150 cc/kg/min. We adjust flows 
+for normalization of blood gases, lactate clearance, central 
+venous saturation >65%, NIRS >40% and general markers 
+of good perfusion. If we anticipate or encounter collateral 
+burdens/shunts, we will titrate flows up accordingly. For our 
+SVs, we have required flows closer to 150–200 cc/kg/min to 
+meet metabolic demands and maintain perfusion according 
+to the stated criteria above which is consistent with reported 
+literature (104,105). When patients are advanced to stage 
+2 or stage 3 palliation, we continue to use the same criteria 
+and will titrate flows accordingly.
+[[p16]]
+Ganta et al. Improving SV care in a single center program2286
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Thrombosis and bleeding
+Thrombosis and bleeding are concerns in the SV population 
+that can be challenging to manage and are linked to 
+significant morbidity and mortality (106). Anticoagulation 
+needs to be closely followed as this population is susceptible 
+to thrombosis throughout all stages of palliation (107). 
+Patients with synthetic grafts are also uniquely susceptible 
+to thrombus formation with thrombotic complications 
+reported in up to 17% of mBT shunt patients after S1P (107).  
+Thrombus formation in a surgically placed shunt may not be 
+easily detected and can complicate separation attempts from 
+ECMO or care after ECMO. Physiologically, the disruption 
+in normal coagulation can be related to abnormalities in 
+levels of procoagulants and other expressed proteins and this 
+has previously been described (108,109). Conversely, bleeding 
+is also predicative of mortality with events observed in 86% 
+of mortalities described on autopsy after extracorporeal life 
+support (ECLS) (110).
+These factors at least in part contribute to the high 
+morbidity and mortality observed with ECMO across the 
+SV population which has been reported as >50% (111). 
+ECMO support duration has also been demonstrated 
+to be inversely related to survival in an Extracorporeal 
+Life Support Organization (ELSO) registry study where 
+SV patients who required support >14 days had survival 
+reported as 10% (112).
+ECMO before surgery
+When we begin to parse the data in terms of ECMO 
+timing in the palliative care pathway, there are few studies 
+evaluating ECMO use as a bridge to decision in the SV 
+population. In a Boston study evaluating ECMO as a 
+bridge to surgery in the general CHD population, 6 of 9 
+SV patients survived to palliation and subsequent discharge 
+and the 3 who died had HLHS (113). Of these 3 patients, 
+2 had an intact atrial septum and one had a cystic adenoid 
+malformation with all three requiring ECMO. This 
+suggests that the underlying anatomic substrate whether 
+it is an intact atrial septum or another factor is associated 
+with outcome as opposed to simply defining these patients 
+as high risk due to SV physiology. When considering 
+EMCO use in SV CHD, ECMO remains a powerful tool in 
+supporting patients to discharge survival (113).
+Stage 1
+With a focus on HLHS patients who undergo palliation 
+using the traditional Norwood pathway, stage 1 is regarded 
+as the most significant surgical intervention given its 
+long cross-clamp times and subsequent ischemia. In this 
+population, ECMO is again predictive of poor outcome 
+with some programs reporting survival to discharge at 35% 
+and 1 year survival at 25% post ECMO (114). Common 
+reasons for support include failure to wean from bypass, 
+hypoxia and low cardiac output. Successful weaning by 
+others has been reported in up to 78% and in one report, 
+56% were discharged home post weaning (115). For patients 
+who undergo a hybrid Norwood strategy, results are poor 
+with survival to discharge reported as low as 16% in those 
+requiring ECMO (116). Despite the high morbidity/
+mortality, to achieve our current results in SV palliation, 
+access and proficiency in ECMO implementation is a 
+necessity and an important part of our care algorithm (117).
+Stage 2
+During stage 2 support with BDG circulation, the SVC flow 
+is functionally separated from the inferior vena cava (IVC) 
+flow and is uniquely sensitive to PVR. T o achieve adequate 
+venous drainage, cannulation of the SVC may be necessary 
+along with the common atrium or IVC. BDG circulation 
+is susceptible to venous obstruction, PVR perturbations, 
+Glenn obstructions/stenosis and atrial level restriction. 
+If a patient’s Qp:Qs ratio remains low, single venous 
+cannulation in the IVC or common atrium is sufficient. 
+With increasing Qp/Qs, an SVC cannula may be indicated 
+to accommodate increased PBF . Mortality after ECMO use 
+in BDG physiology remains high and has been reported at 
+41% (118), but may improve with experience (119). Close 
+attention to neurologic sequalae is needed, as the incidence 
+of neurologic injury in this population remains high as well. 
+Stage 3
+Cannulation strategies after stage 3 (Fontan) palliation are 
+somewhat normalized. Assuming patency of the Fontan 
+conduit, venous cannulation can be obtained from above 
+(SVC) or below (IVC). If VA-ECMO is implemented, 
+arterial access can be secured in any of the traditional 
+access points assuming vessel patency. As these patients 
+age, access becomes more important, and it is possible to 
+progressively lose vessels/vascular access due to repeated 
+interventions and diagnostics in this population. With the 
+pulmonary and systemic circulations in series, blood return 
+to the pulmonary circulation remains a passive process 
+[[p17]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2287
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+making the circuit susceptible to any physiology or anatomy 
+that disrupts flow. Fontan failure is a broad term and the 
+overall prognosis for a patient is likely dependent on the 
+mechanism of failure. Results in patients requiring ECMO 
+who are labelled “Fontan failure” remain poor. In one large 
+series, Fontan survival to decannulation and discharge was 
+35% (120). Patients likely fare better when the underlying 
+cause of failure is reversible. Achieving full support and 
+adequate flow will be dependent on patient factors such 
+as the level of venous decompression and the degree of 
+aorto-pulmonary (AP) collateral flow which increases 
+with time. With that said, ECMO remains a viable option 
+in supporting Fontan patients with outcomes dependent 
+on underlying physiology more than the technology and 
+techniques implemented. 
+V ADs—durable mechanical support
+Introduction
+For SV patients requiring circulatory support while awaiting 
+transplantation, aside from ECMO, we can consider its 
+more durable cousin, VADs, assuming a non-emergent 
+deployment scenario. When deploying VAD therapy in an 
+SV we refer to this as a single ventricle assist device (SVAD). 
+The typical duration of VAD support is weeks to months 
+and continues until transplantation is possible. In rare cases, 
+duration of support has been several years with one report 
+of 2,100 days of support in a biventricular system (121). 
+As device safety and utilization improves, longer support 
+times for those receiving VADs is expected, similar to adults 
+receiving destination therapy. The use of VAD therapy 
+pre-transplant has not altered post-transplant results 
+unlike the use of ECMO which is strongly associated with 
+mortality when utilized pre-transplant (122). Although this 
+study by Edelson and colleagues refers to pediatric heart 
+transplantation in general, CHD and SVs are included in 
+the study population (122). VAD utilization has also been 
+shown to improve wait list mortality in the United Network 
+Organ Sharing (UNOS) database (123). 
+Strategies
+Device therapy can come in many forms with respect 
+to VAD implantation. The mechanism of support can 
+be a continuous flow device such as with PediMag™ 
+(Pleasanton, USA) or pulsatile device such as a Berlin 
+pump
+®
+ (Berlin-Lankwitz, Germany). We can also consider 
+temporary devices designed for ease of use and short-term 
+implantation (such as an Impella
+®
+, Denvers, USA), to more 
+durable long-term devices (Heart Mate 3™, Pleasanton, 
+USA). As patients increase in size, typically more options 
+are available, and implanting teams can select a suitable 
+device that meets their objectives. Consideration should 
+be given to whether an oxygenator may be required. Some 
+configurations allow for an oxygenator to be spliced into 
+circuits for temporary pulmonary support, a technique we 
+have found useful. As we move to more comprehensive 
+support, total artificial hearts such as the Syncardia™ 
+(T uscon, USA) become an option but have size limitations 
+to consider. Our use of TAH systems has been limited to 
+infants using the technique described by Woods group 
+in Wisconsin, primarily in biventricular systems (124). 
+This technique however, has also been adapted for use 
+with Fontan circulation (125). When selecting a support 
+device it’s important to weigh the maximum flow a device 
+can achieve against the flow requirements for the patient. 
+As previously stated in SV physiology, collateral flow can 
+significantly increase device flow requirements. 
+Mechanical support in SV patients has its caveats in 
+terms of anatomical obstacles and SV disease burden is a 
+factor in outcome. Aside from this, CHD is a risk factor for 
+mortality as cardiomyopathy patients continue to achieve 
+higher survival than CHD patients in the Pedimacs registry. 
+Overall results in VAD therapy have been similar between 
+biventricular and SV systems within the CHD group with the 
+SV sub-group comprising >60% of the CHD cohort (126).  
+There has not been any significant difference in survival 
+with respect to the entire Pedimacs cohort when comparing 
+device use between 2012 to 2016 and 2017–2021 in this 
+registry with 12-month survivals of 70.5% and 71.8% 
+(P=0.5124), respectively (126). This suggests overall results 
+are not improving with increasing experience over this term 
+or we are unable to detect a change based on the registry 
+data. When we dive deeper into the different stages of 
+SV support, the challenges of VAD implantation become 
+apparent at the anatomic level. 
+V AD at stage 1
+Several authors have described approaches for cannulating 
+patients post Norwood which address some unique 
+aspects of anatomy (127,128). Aortic cannulation requires 
+placement of an outflow graft in either the Damus-Kaye-
+Stansel (DKS)  or the innominate artery. Cannulas can be 
+placed directly in the vessel, or a chimney graft may be 
+[[p18]]
+Ganta et al. Improving SV care in a single center program2288
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+utilized to prevent the cannula from being placed directly in 
+the vessel. Experience with different cannulation strategies 
+has led teams to utilize Berlin Heart™ (Berlin-Lankwitz, 
+Germany) cannulas as they may confer greater stability 
+and performance over conventional ECMO cannulas 
+(129). Inflow to the VAD can secured by cannulating the 
+ventricular apex or common atrium either directly or with 
+the use of a graft. Consideration needs to be given to the 
+size of patients which are small with little space in the chest 
+and on the skin for cannula exit points. Patients are still 
+reliant on their own lungs for gas exchange and PBF needs 
+to be secured with a shunt of some form. Shunt thrombosis 
+can still be a fatal event as this remains the primary source 
+of PBF in VAD configuration. At the next phase of care 
+which ideally is transplantation, the aortic outflow and 
+the pulmonary arteries can be reconstructed if deemed 
+inadequate. The strategy of VAD insertion with hybrid 
+Norwood technique has also been described, along with 
+post-transplant survival reported at 67% (130).
+Our experience with SVAD use has been limited but 
+we have utilized creative strategies such as securing PBF 
+with a ductal stent in the setting of pulmonary atresia 
+intact ventricular septum with right ventricular dependent 
+coronary circulation (131). Our cannulation strategy 
+consisted of grafts sewn to the atria and innominate arteries 
+and tied to Berlin Heart™ cannulas which are connected 
+to a centrifugal pump. This was successful in its ability 
+to support our patient to transplant. With the different 
+strategies and equipment available, there are multiple 
+techniques for configuring support. T eam preference and 
+experience will likely determine the most appropriate 
+method of support.
+V AD at stage 2
+When planning VAD insertion in a BDG configuration, 
+the cavo-pulmonary connection can create additional issues 
+that need to be addressed. Cannulation of the common 
+atrium and aorta for inflow and outflow can be completed 
+in similar fashion to that of stage 1 patients (128), but 
+this may not provide adequate venous drainage as SVC 
+flow is directed to the pulmonary arteries. Venous-venous 
+collateral development can promote cyanosis which is 
+problematic. Stanford has reported survival of 29% in a 
+series of 7 patients who were supported with BDG’s in 
+a similar fashion (132). With cyanosis being a concern, 
+some have suggested utilizing a strategy of Glenn take-
+down to a shunt or Fontan completion during VAD 
+insertion to improve VAD support and promote transplant  
+candidacy (133). Overall, acute or chronic Glenn failure 
+is associated with poor outcome and the ideal solution for 
+support to transplant remains unknown despite growing 
+experience with VADs in this subset of SV patients. 
+V AD at stage 3
+Device support of a patient with Fontan physiology can 
+in some cases be simpler than patients post S1P or S2P . 
+With separation of the systemic and pulmonary circulations 
+(aside from a fenestration or collateral flow), Qp/Qs is 
+less of a concern. Collateral burdens remain an issue, but 
+this can be managed with catheterization lab intervention 
+and through direct collateral takedown in the operating 
+room. Cannulation of the systemic ventricle for VAD 
+inflow and the aorta for outflow allows augmentation of 
+cardiac output while providing drainage/decompression of 
+the systemic ventricle and thus lowering its end diastolic 
+pressure. Patients are larger with more physical space in 
+the chest compared to S1P or S2P patients and as a result 
+more surgical options are available. It is important however 
+to understand the nature of the heart failure and to know 
+the difference between systemic ventricular failure and 
+right sided (Fontan circuit) failure (134). Right sided failure 
+may not benefit from systemic VAD therapy. Different 
+configurations have been reported by numerous authors 
+(128,135,136). Biventricular configurations have also been 
+described and may be useful when it is necessary to augment 
+blood flow to the lungs but are beyond the scope of our 
+discussion. VAD results in patients post Fontan have yielded 
+a wide range of results. An analysis from the Pedimacs and 
+Intermacs databases has yielded 81% survival at 6 months 
+with the first month of support responsible for the majority 
+of mortality in 55 patients (137). In a similar report from 
+the ACTION network with 45 Fontan patients, survival 
+was 79% at 1 year (138). In the Melbourne experience, 
+survival to discharge was 33% in a series of 57 patients 
+throughout the entire SV cohort (139). When looking at 
+individual stages, survival to discharge was similar for stages 
+1, 2, and 3 with reported survival at Stage 3 VAD insertion 
+being reported as 40% but with a small sample size of  
+Fontans (139). With these results, it is reasonable to 
+consider VAD therapy for stage 3 as more complex than in 
+biventricular systems but in our current era, it is a viable 
+strategy to move patients forward when necessary. 
+[[p19]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2289
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Transplant 
+Introduction
+Pediatric heart transplantation entered history with the 
+first implant a few days after the first adult heart implant 
+in 1967 (140). The recipient was an Ebstein’s patient and 
+survived for only a few days but demonstrated proof of 
+concept for transplantation to treat complex CHD. When 
+structural disease cannot be repaired, replacement offers 
+the opportunity for physiologic normality. The application 
+of pediatric heart transplantation has grown over the 
+years with the International Society for Heart and Lung 
+s??Ghrgk?sH’?QT
+th
+ annual report listing over 
+3,360 infant transplants from 1990 to 2018 (141). When 
+including other age categories, the number of transplants 
+exceeds 10,000. The outcomes associated with these 
+operations have been good with median survival in infants 
+aged <1 year approaching 22 years and 18 years for patients 
+aged 1 to 5 years, respectively (142). As recipients in the 
+pediatric cohort ages, there is a decrease in median survival 
+but this has been improving over time (141).
+Donor availability
+T ransplantation is a crossroads for SV patients, regardless of 
+stage of palliation, as it presents a new pathway of care and 
+as a result, new collection of sequala to monitor and manage 
+if successful. Applying transplantation to SV disease is a 
+logical step but its application has not been straightforward. 
+Its utilization has been limited due to donor availability 
+concerns with a pediatric waitlist mortality of 17% for the 
+entire pediatric waitlisted cohort, and as high as 30–40% 
+for children with CHD (143). SV patients in the Pediatric 
+Heart T ransplant Study database were reviewed and had 
+a waitlist mortality of 23% (144). The paucity of organs 
+has led to transplantation being relegated to an alternative 
+option exercised only after other therapeutic means have 
+been exhausted. It is most often considered in a setting 
+of failure of conventional palliation with contemporary 
+literature reporting transplant free survival as a primary 
+outcome measure of success. 
+ABO incompatibility
+One strategy that has helped alleviate donor concerns in the 
+infant subgroup is the introduction of ABO incompatible 
+heart transplantation in 2001 (145). In patients less 
+than 12 months of age, the immature immune system is 
+tolerant of ABO incompatibility and can be managed with 
+immunosuppressive therapy. The initial series demonstrated 
+a reduction of mortality on the wait list from 58% to  
+7% (145). In a UNOS database review in 2021, it was noted 
+that for the years of 2007–2018, of 2,787 patients listed 
+for heart transplantation, over half were listed as ABO 
+incompatible (146). They have demonstrated an increase 
+in the use of this strategy over time. Monitoring these 
+patients’ long term has not revealed any increased incidence 
+of rejection which maintains this as a viable strategy.
+SVs—challenging candidates
+SV patients are challenging transplant candidates and 
+typically have higher morbidity and mortality than their 
+biventricular counterparts (144,147). The reason for this 
+is likely multifactorial and these patients likely have more 
+complex co-morbidities as well as have undergone multiple 
+cardiac procedures. The implantation can be complicated 
+by anatomical issues that may need to be addressed 
+intraoperatively (T able 1). 
+Re-operative sternotomies which can present as 
+challenging dissections requiring additional operative time 
+also complicate transplantation. Addressing specific disease 
+processes involving the aortic arch, pulmonary arteries 
+or pulmonary veins takes additional time and increases 
+operative risk. Early cannulation to expedite dissection 
+results in longer CPB times and patients may require 
+more significant hypothermia to facilitate low flow states 
+or even circulatory arrest. On occasion, modification to 
+our conventional heart implantation sequence is necessary 
+to accommodate the anatomical heterogeneity of the SV 
+population depending on the specific lesion (148,149). The 
+underlying SV pathology plays a role in outcome, as HLHS 
+in itself represents a risk factor for poor outcomes in this 
+population (144).
+APC burden is also a risk factor for transplant free 
+survival as previously noted (66). This risk however extends 
+to patients who undergo transplantation as well. The 
+collateral load can steal significant cardiac output from 
+a newly implanted graft resulting in high-output cardiac 
+failure. Krishnan and colleagues demonstrated embolization 
+of APCs post-transplantation resulted in improved 
+outcomes (150). In patients with Fontan physiology, pre-
+operative occlusion of APCs is associated with decreased 
+collateral bleeding during transplantation. Our approach 
+in this population is based on factors such as the overall 
+percentage burden of collaterals, but also our expected 
+[[p20]]
+Ganta et al. Improving SV care in a single center program2290
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Table 1 Pathologic processes
+Concerns/pathology Considerations
+Pulmonary vein stenosis Pulmonary vein dilations
+Suture-less repair
+Status 7
+Elevated pulmonary vascular 
+resistance
+Medical therapy-phosphodiesterase inhibitors (sildenafil, tadalafil)
+Oversizing donor grafts
+Mediastinal adhesions High resolution imaging (CT/MRI/3D reconstruction)
+Increased dissection time
+Aortic arch coarctation Remote cannulation strategies
+Aortic arch stents Planned arch reconstruction with extended donor aortic harvest or patch material
+Planned stent removal
+Aortic arch coarctation Aortic reconstruction (with donor graft or other patch)
+DKS patch calcification Alternative cannulation site 
+Circulatory arrest
+DKS patch dilation Alternative cannulation site/planned CPB prior to sternotomy
+Circulatory arrest
+Pulmonary artery stenosis Central PA reconstruction
+Branch PA reconstruction with homograft or donor graft
+High collateral burdens Pre-operative catheterization with vessel embolization 
+Planned surgical take down of collaterals 
+Oversizing donor graft
+3D, three-dimensional; CPB, cardiopulmonary bypass; CT, computed tomography; DKS, Damus Kaye Stansel; MRI, magnetic resonance 
+imaging; PA, pulmonary artery. 
+time to transplant. We have favored early embolization for 
+patients who have substantial APC burdens and will repeat 
+embolization’s at least every 6 months while patients are 
+listed for transplantation. 
+Timing a transplantation referral
+Controversy remains as to when the optimal time for 
+referral for transplant should be. As patients slowly 
+deteriorate and present with increasing failure symptoms, 
+transplantation becomes a salvage procedure and is higher 
+risk. Knowing how patients are performing requires 
+frequent monitoring to assess what interventions are 
+most appropriate early on. Waiting for decompensation 
+or hospital admission may increase the overall risk to 
+patients as opposed to pro-active interventions. HMP has 
+been discussed earlier in this manuscript. Although most 
+programs utilize outpatient surveillance tools in practice to 
+monitor their SV patients, formal standardized techniques 
+are still making their way into literature and are early in 
+their development (151). With standardized screening/
+surveillance processes, we can work towards optimizing 
+our timing for transplant referral to ensure it is driven by 
+objective data. 
+Early-stage transplantation
+When focusing on early palliation for patients who require 
+Norwood procedures, transplant can be utilized pre-
+Norwood or post-Norwood. Reports have commented 
+that unoperated HLHS patients have better results with 
+transplantation than those who have undergone palliative 
+[[p21]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2291
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+procedures (152) We know that post-Norwood procedure, 
+the AP collateral burden increases predictably with time 
+and (153) HLHS is a risk factor for developing these 
+collaterals (154). These collaterals can be intervened on pre-
+operatively and operatively to prevent significant steal from 
+the systemic circulation, somewhat mitigating their risk 
+after transplant. Results with transplantation post Glenn 
+have had similar outcomes to CHD biventricular patients 
+undergoing transplantation (155). Other authors such as 
+Alsoufi and colleagues demonstrated that survival post-
+transplant improved as patient advanced through the three 
+stages trending towards the highest survival at 10 years 
+follow-up with Fontan patients (144). This is somewhat 
+contradictory to conventional thinking. When transplanting 
+a Glenn, the cavo-pulmonary connection requires 
+reconstruction, and the PA can be corrected with patch 
+reconstruction. Overall, transplanting at the Glenn phase is 
+a reasonable option which can deliver good outcomes but is 
+also dependent on the overall state of the patient. 
+Fontan transplantation
+With the growing number of Fontan patients now surviving 
+into adulthood estimated at >90%, the disease burden of 
+Fontan circulation will also grow (156). Unlike patients 
+post Norwood or BDG, this physiologic state is not limited 
+to months or a few years but represents the endpoint of 
+palliation. This endpoint will be for life, if tolerated, or 
+until transplantation. Fontan failure manifests in ways that 
+are representative of both cardiac disease as well as systemic 
+dysfunction. Commonly described manifestations include 
+primary cardiac disease such as ventricular dysfunction, 
+valvar dysfunction, arrythmias, and dysfunction of the 
+Fontan connection itself (157). Other systemic processes 
+include kidney, lymphatic and liver dysfunction. The 
+progression of patients to liver dysfunction referred to as 
+Fontan associated liver disease (FALD) is expected and 
+time dependent. Although medical and interventional 
+management are logical early management steps, systemic 
+disease invariably advances with time. Collaterals, whether 
+aorto-pulmonary or venous-venous, are important to 
+manage in terms of operative planning (158). Interventions 
+represent a cumulative risk in these patients throughout 
+palliation and there is a peak in these interventions 
+post Fontan (159). Eventually an endpoint is reached 
+and an advanced heart failure consultation with cardiac 
+transplantation is the next best step (157,160).
+Early experience with Fontan transplantation dating back 
+to the late 1990s and early 2000s demonstrated survival 
+rates as low as 33% at 30 days (161). Although the cohort of 
+those transplanted post-Fontan were not large, they had the 
+highest mortality compared to patients transplanted at other 
+stages of palliation at that point in time. SV patients in this 
+same study who were transplanted after BDG construction 
+demonstrated 100% survival (161). Contemporary studies 
+with larger samples of Fontan transplant patients are now 
+reporting 1 year survival between 75% and 89% (162-164). 
+Timing does play a role in outcome as patients transplanted 
+less than a year from Fontan had significantly reduced 
+survival (155). These early conversions likely represent 
+patients who fail early and are intrinsically higher risk. 
+This suggests transplantation is a reasonable alternative 
+to managing Fontan patients who are failing with SV 
+physiology and perhaps there is a more optimal time to 
+intervene on them to eliminate this difference in outcome. 
+Long term, it may be reasonable to say that once a patient 
+has achieved a stable Fontan circulation, management 
+should focus not only on optimizing the SV circulation but 
+planning for success with transplantation. 
+Our experience with Fontan transplantation has grown 
+with time and we focus on key areas to optimize our chance 
+of success. Although timing for referrals may represent 
+the most important aspect of this process, when we move 
+forward with transplantation, we need to optimize both 
+the donor and recipient physiology. Our preference is to 
+oversize donors whenever possible. In recipients, we target 
+optimizing anatomy for the donor heart whenever possible. 
+Arch obstructions are relieved with patching or with an 
+extended aortic reconstruction. Pulmonary arteries are 
+patched to ensure unobstructed flow to both lungs. Stents 
+in the aorta and pulmonary arteries are removed whenever 
+possible. The SVC to caval connection is re-established with 
+attention to prevention of focal stenosis. Aorto-pulmonary 
+collaterals encountered in the operating room are taken 
+down aggressively. The most significant challenges we 
+have faced in the past in this specific population have been 
+related to PA architecture, significant collateral burdens 
+and the time it takes to perform these reconstructions. As 
+our experience has grown with this population, attention 
+to these details has been an important part of the learning 
+process and has yielded positive results. 
+Combined heart-liver transplantation (CHLT)
+Further developing algorithms to manage FALD will be 
+useful with the expected rise in the number of Fontan 
+[[p22]]
+Ganta et al. Improving SV care in a single center program2292
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+patients surviving longer. It may be of value to address 
+FALD simultaneously with transplant in patients with 
+advanced disease. One such technique is the use of CHL T 
+which dates back to the 1980s but has also been described 
+by several authors more recently for use in FALD (165,166). 
+T raditionally combined CHL T has been perceived as 
+aggressive/challenging. For this reason, its use has been 
+concentrated in high volume centers where they have 
+reported similar mortality to isolated heart transplant 
+recipients (167). Pediatric CHL T 5-year survival has been 
+reported as high as 93% based on US registry data (168) but 
+results will be dependent on several factors. One issue that 
+remains with this strategy is the ongoing donor availability 
+concern. A potential benefit of CHL T has been reported 
+to be decreased rejection of both implanted organs with 
+similar complications to heart transplant recipients (169). 
+With comparable results to standard transplant, the use of 
+this strategy will likely grow with time as more outcome 
+data is made available. 
+Donation after circulatory death (DCD)
+A technique that may help address the donor availability 
+problem in pediatric transplantation is the advancement of 
+DCD. It’s estimated that with current donor criteria, this 
+technology could increase available donor pools by up to 
+30% (170). The pediatric population may see an increase 
+of up to 25% (171) and adults 17–56% based on reports  
+(172-178). Unlike conventional transplantation which relies 
+on donation after brain death (DBD), with DCD, the organ 
+is procured after the patient dies by conventional circulatory 
+death criteria. Though this technology was initially 
+employed in small children, it is currently being utilized 
+more in adults and efforts have been made to expand this 
+into pediatric heart transplantation more extensively. 
+The first series of 3 DCD implants at Denver Children’s 
+Hospital were performed between 2004 and 2007 (179). 
+The adult programs have demonstrated similar survival for 
+these organs to traditional DBD over 5 years demonstrating 
+its short to mid-term durability (180). Pediatric programs 
+have also demonstrated similar survival and ICU stays 
+with DCD compared to DBD, though the 10-year survival 
+from the initial Denver cohort was only 50% (181). As 
+this technology proliferates and experience grows, its 
+incorporation into our care pathway may help mitigate the 
+ongoing donor pool concerns. 
+There are, however, aspects of DCD that differ from 
+conventional DBD that make its widespread adoption 
+tricky. The identification of good candidates and protocols 
+surrounding who can be utilized as a donor needs to be 
+addressed (182). The determination of what is considered 
+acceptable donors will likely be center specific as with DBD 
+donors. Our institution has developed internal criteria 
+for DCD acceptance which is still in evolution ( T able 2). 
+T ypically, when a candidate is identified, there will be a time 
+frame and circumstance for when death is expected. If a 
+patient does not fall within that criterion, the procurement 
+may be abandoned. Contemporary adult studies have 
+reported 66% conversion of potential to actual DCD 
+donors, which is similar to pediatrics (183). There exists the 
+subset of patients who do not experience circulatory death 
+on schedule preventing harvesting as well as those who do 
+but are deemed poor grafts after re-perfusion. Messer and 
+colleagues discarded 11% of hearts after ex vivo perfusion 
+and Chew and colleagues discarded 21% grafts (184,185). 
+This unfortunately adds costs to the overall procedure and 
+this cost can be compounded by the fact that teams may 
+have to be flown to a location remote from the recipient 
+for a procurement. It is also worth noting some of the 
+disposable equipment costs several tens of thousands of 
+dollars (186). When organs are not successfully procured, 
+it may be difficult to justify the costs incurred to an 
+increasingly budget conscious healthcare system. When 
+an organ is procured, explanation is done in an accelerated 
+manner given that with circulatory death, the heart is 
+subject to ongoing ischemia. Critical steps such as sternal 
+entry, and exposure need to be done expeditiously for organ 
+preservation. Skills such as this in procurement may take 
+time to percolate through the pediatric cardiac surgery 
+community. There are 2 basic techniques for organ recovery, 
+namely direct procurement (our conventual technique with 
+DBD) and regional perfusion where circulation is restored 
+to allow for conversion to a DBD scenario (187) (Figure 10).  
+In terms of organ storage/transportation, options include 
+traditional ice storage, regulated cold storage (SherpaPak
+®
+, 
+Cambridge, USA), warm transportation with organ 
+perfusion (T ransmedics OCS™, Andover, USA) and co-
+location implantation. Each technique has associated 
+strengths and weaknesses, and the ideal technique has 
+yet to be determined. Eventually multiple systems may 
+emerge successful, each with its own scenario for use. Our 
+experience with DCD is relatively new but we have been 
+able to utilize regional perfusion techniques along with cold 
+storage transportation to successfully transplant our SV 
+patients. As our experience grows, we hope to report on this 
+in the future. 
+[[p23]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2293
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Table 2 Donor criteria for DCD acceptance
+PM?e??G[P??HK????
+PMPM?`Y?O–QT??
+1.2. Weight: 0.75–4.0× recipient weight 
+1.3. Distance: 2,500 miles 
+1.4. Dallas Predictor Tool Score: >−9 
+1.5. Donor ejection fraction: >50% 
+1.6. Donor inotropes: dobutamine 0.25 mcg/kg/min; low dose 
+vasopressin/inotropes
+1.7. Donor cause of death: excludes cardiac causes 
+1.8. Other donor factors: similar to DBD 
+2. For younger children (>1 year old; <40 kg), verify the following 
+criteria
+QMPM?`Y?O–QT??
+2.2. Weight: 0.75–2.0 × recipient weight 
+2.3. Distance: 1,500 miles 
+2.4. Dallas Predictor Tool Score: >−9 
+2.5. Donor ejection fraction: >50% 
+2.6. Donor inotropes: dobutamine <0.25 mcg/kg/min; low dose 
+vasopressin/inotropes
+2.7. Donor cause of death: excludes cardiac causes 
+2.8. Other donor factors: similar to DBD 
+3. For older children/adults (>1 year old; >40 kg), verify the 
+following criteria
+RMPM?`Y?O–QT??
+3.2. Weight: 0.75–2.0× recipient weight 
+3.3. Distance: 500 miles 
+3.4. Updated C-DCD nomogram: >80% predicted death within 
+60 min
+3.5. Donor ejection fraction: >50% 
+3.6. Donor inotropes: dobutamine <0.25 mcg/kg/min; low dose 
+vasopressin/inotropes 
+3.7. Donor cause of death: excludes cardiac causes 
+3.8. Other donor factors: similar to DBD
+This table outlines the criteria for accepting donors in DCD 
+cases, segmented by age and weight categories. It includes 
+specific parameters such as age range, weight ratios, distance, 
+predictor score, ejection fraction, use of inotropes, and cause 
+of death exclusions. C-DCD, Chinese-Donation after Circulatory 
+Death; DBD, donation after brain death; DCD, Donation after 
+Circulatory Death. 
+Xenotransplantation
+As a corollary to the use of DCD expansion of the donor 
+pool, there are more ambitions approaches from the past 
+that have been resurrected. Although often considered to 
+be in the realm of science fiction, xenotransplantation offers 
+a practical solution to many of our perceived problems. 
+The potential for unlimited donors along with reduction 
+in travel and ischemic times is attractive. The concept 
+however is not new and was reported by Bailey in 1984 at 
+Loma Linda (published 1985) after 20 successful days of 
+implantation of a baboon heart in an HLHS patient (188). 
+Although the patient did not survive, it was successful 
+proof of concept despite its poor public reception. Almost  
+40 years later, the interest continues with recent work 
+in pig to primate studies using cardiac xenografts that 
+demonstrated graft survival over 945 days with heterotopic 
+implantation (189). This concept has also been furthered 
+by the University of Alabama with baboon recipients 
+receiving porcine hearts (190). The newer generation 
+xenotransplantation efforts have been deploying 
+genetically engineered donors as a potential solution to 
+the immune intolerance that we currently see with human 
+allotransplantation. T echniques similar to this have been 
+tested in pig to human transplantation into brain dead 
+humans (191). Initial experiments revealed that in the acute 
+time frame, there was no evidence of antibody mediated 
+rejection or cellular rejection (191). There is still much to 
+discover and develop before xenotransplantation is ready for 
+humans and added to our care algorithm. For now, looking 
+at recent steps forward, we can say with confidence that this 
+technology is viable and may someday bridge the deficit we 
+have in organ donor pools. 
+Conclusion
+If we are able expand our donor pool, the impact on the 
+SV population will be quantifiable and profound. Perhaps 
+a more interesting question to ask is whether increasing 
+donor availability will lead to expansion of indications for 
+transplantation within SV care. With the large number of 
+Fontan survivors, it is conceivable that early transplantation 
+may become a recommendation in the future, along the 
+entire SV pathway. The answer to an academic question 
+such as this may lie in our ability to prove DCD’s cost 
+effectiveness. Regardless of the answer, DCD remains a hot 
+topic in transplantation and has the potential for significant 
+[[p24]]
+Ganta et al. Improving SV care in a single center program2294
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Donor
+Donor
+Donor
+TA-NRP
+Living Deceased
+Circulatory death 
+(DCD)
+Direct 
+procurement
+Cold transport 
+(TA-NRP)
+Traditional cold  
+(Ice) Storage
+Cold transport 
+(Direct
+procurement)
+Warm transport 
+(Direct 
+procurement)
+Organ care 
+system 
+(Transmedics 
+OCS)
+Regulated cold 
+storage (Paragornx 
+SherpaPak)
+Co-location
+XVIVO (Cold 
+perfusion system 
+BoC)
+Brain death (DBD)
+Types of solid organ donors
+Types of DCD organ recovery
+Types of OrganStorage/Transport 
+for DCD
+Figure 10 This figure depicts the approach to organ donation above in blue. Circulatory versus brain death represents the key differentiation 
+point in cardiac organ procurement. Recovery types are depicted in orange with NRP representing normothermic regional perfusion. NRP 
+involves reviving organs using mechanical circulatory systems. The types of organ storage and transportation in DCD is depicted in green. 
+After harvest organs can be transported in various configurations ranging from traditional cold storage with ice to warm perfusion systems. 
+DBD, donation after brain death; DCD, donation after circulatory death; NRP , normothermic regional perfusion; OCS, organ care system; 
+TA-NRP , thoraco-abdominal normothermic regional perfusion. 
+impact in our SV care pathway if we deploy it successfully.
+Conclusions
+SV patients have benefited from growing experience in 
+surgical techniques, but perhaps more so from concurrent 
+advances throughout medicine. Our ability to care for sick 
+patients both through interventional means and in the 
+ICU has contributed greatly to the care of SV patients. 
+The introduction of HMP not only improved survival 
+in programs but also has become a prime example for 
+how care does not start and end in the operating room or 
+ICU. Delivering high fidelity results requires a life-long 
+investment in patient surveillance and care to advance them 
+through life. Small and seemingly innocuous technological 
+advancements such as ductal stents can shift thought 
+[[p25]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2295
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+processes, care pathways and possibly deliver results that 
+change the way we gauge success. T ransplantation remains 
+our safety net for patients deteriorating in our conventional 
+pathway but our perspective on transplantation may 
+change with time. Early transplantation utilization may 
+help optimize the results we deliver. DCD and future 
+developments coming down the technological pipeline 
+have the potential to solve some of our current problems. 
+The perfect solution in managing SV patients may not 
+exist, but our application of the various technologies and 
+skillsets we possess as a profession may help move us closer 
+to narrowing the gap in quality of life and survival between 
+our SV patients and other CHD survivors.
+Acknowledgments 
+We would like to thank the Webster Foundation 3D Lab 
+and Dr. Justin Ryan for their work in making our 3D 
+dataset reconstructions possible. We thank Siena Gross 
+for illustrating Figure 6 . We also thank Tim Hengst for 
+illustrating Figures 8 and 9.
+Footnote
+Provenance and Peer Review:  This article was commissioned 
+by the Guest Editors (Antonio F . Corno & Ali Dodge-
+Khatami) for the column “Pediatric Heart” published in 
+Translational Pediatrics. The article has undergone external 
+peer review.
+Peer Review File:  Available at https://tp.amegroups.com/
+article/view/10.21037/tp-2024-602/prf
+Funding: None.
+Conflicts of Interest:  All authors have completed the ICMJE 
+uniform disclosure form (available at https://tp.amegroups.
+com/article/view/10.21037/tp-2024-602/coif ). The column 
+“Pediatric Heart” was commissioned by the editorial office 
+without any funding or sponsorship. The authors have no 
+other conflicts of interest to declare.
+Ethical Statement:  The authors are accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+appropriately investigated and resolved.
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+PM?n?l???g?gK?EM?v?
+Original Cases and Illustrations. Br Foreign Med Chir Rev 
+1867;40:41-53.
+2. Marín-García J, T andon R, Moller JH, et al. Common 
+(single) ventricle with normally related great vessels. 
+Circulation 1974;49:565-73.
+3. Vanpraagh R, Ongley PA, Swan HJ. Anatomic types of 
+single or common ventricle in man. morphologic and 
+geometric aspects of 60 necropsied cases. Am J Cardiol 
+1964;13:367-86.
+4. Anderson RH, Becker AE, Wilkinson JL. Proceedings: 
+Morphogenesis and nomenclature of univentricular hearts. 
+Br Heart J 1975;37:781-2.
+5. Jacobs ML, Mayer JE Jr. Congenital Heart Surgery 
+Nomenclature and Database Project: single ventricle. Ann 
+Thorac Surg 2000;69:S197-204.
+6. T chervenkov CI, Jacobs ML, T ahta SA. Congenital Heart 
+Surgery Nomenclature and Database Project: hypoplastic 
+left heart syndrome. Ann Thorac Surg 2000;69:S170-9.
+7. Rao PS. Single Ventricle-A Comprehensive Review. 
+Children (Basel) 2021;8:441.
+8. Pundi KN, Johnson JN, Dearani JA, et al. 40-Y ear Follow-
+Up After the Fontan Operation: Long-T erm Outcomes of 
+1,052 Patients. J Am Coll Cardiol 2015;66:1700-10.
+9. Dorobantu DM, Huang Q, Espuny Pujol F , et al. Hospital 
+resource utilization in a national cohort of functionally 
+single ventricle patients undergoing surgical treatment. 
+JTCVS Open 2023;14:441-61.
+10. Y oo SJ, Thabit O, Kim EK, et al. 3D printing in medicine 
+of congenital heart diseases. 3D Print Med 2015;2:3.
+11. Illmann CF , Ghadiry-T avi R, Hosking M, et al. Utility of 
+3D printed cardiac models in congenital heart disease: a 
+scoping review. Heart 2020;106:1631-7.
+12. Van Arsdell GS, Hussein N, Y oo SJ. Three-dimensional 
+printing in congenital cardiac surgery-Now and the future. 
+J Thorac Cardiovasc Surg 2020;160:515-9.
+13. Ganta S, Ryan JR, Lewis MJ, et al. Surgical Repair of 
+[[p26]]
+Ganta et al. Improving SV care in a single center program2296
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Double Outlet Right Ventricle Infants Guided by Three 
+Dimensional-Computed T omography Cardiac Modeling 
+and Printing. World J Pediatr Congenit Heart Surg 
+2025;16:500-8.
+14. Lopez-Perez A, Sebastian R, Ferrero JM. Three-
+dimensional cardiac computational modelling: methods, 
+features and applications. Biomed Eng Online 2015;14:35.
+15. Ahmad Azahari AFA, Wan Ab Naim WN, Md Sari NA, 
+et al. Advancement in computational simulation and 
+validation of congenital heart disease: a review. Comput 
+Methods Biomech Biomed Engin 2024. [Epub ahead of 
+print]. doi: 10.1080/10255842.2024.2377338.
+16. Marsden AL, Feinstein JA. Computational modeling and 
+engineering in pediatric and congenital heart disease. Curr 
+Opin Pediatr 2015;27:587-96.
+17. Corsini C, Baker C, Kung E, et al. An integrated approach 
+to patient-specific predictive modeling for single ventricle 
+heart palliation. Comput Methods Biomech Biomed Engin 
+2014;17:1572-89.
+18. Biglino G, Capelli C, Bruse J, et al. Computational 
+modelling for congenital heart disease: how far are we 
+from clinical translation? Heart 2017;103:98-103.
+19. Norwood WI, Kirklin JK, Sanders SP . Hypoplastic left 
+heart syndrome: experience with palliative surgery. Am J 
+Cardiol 1980;45:87-91.
+20. Pearl JM, Nelson DP , Schwartz SM, et al. First-stage 
+palliation for hypoplastic left heart syndrome in the 
+twenty-first century. Ann Thorac Surg 2002;73:331-9; 
+discussion 339-40.
+21. Azakie T , Merklinger SL, McCrindle BW, et al. Evolving 
+strategies and improving outcomes of the modified 
+norwood procedure: a 10-year single-institution 
+experience. Ann Thorac Surg 2001;72:1349-53.
+22. Jonas RA. Intermediate procedures after first-stage 
+Norwood operation facilitate subsequent repair. Ann 
+Thorac Surg 1991;52:696-700.
+23. Ghanayem NS, Hoffman GM, Mussatto KA, et al. Home 
+surveillance program prevents interstage mortality after 
+the Norwood procedure. J Thorac Cardiovasc Surg 
+2003;126:1367-77.
+24. Petit CJ, Fraser CD, Mattamal R, et al. The impact of a 
+dedicated single-ventricle home-monitoring program on 
+interstage somatic growth, interstage attrition, and 1-year 
+survival. J Thorac Cardiovasc Surg 2011;142:1358-66.
+25. Siehr SL, Norris JK, Bushnell JA, et al. Home monitoring 
+program reduces interstage mortality after the modified 
+Norwood procedure. J Thorac Cardiovasc Surg 
+2014;147:718-23.e1.
+26. Rudd NA, Ghanayem NS, Hill GD, et al. Interstage 
+Home Monitoring for Infants With Single Ventricle 
+Heart Disease: Education and Management: A Scientific 
+Statement From the American Heart Association. J Am 
+Heart Assoc 2020;9:e014548.
+27. Castellanos DA, Herrington C, Adler S, et al. Home 
+Monitoring Program Reduces Mortality in High-Risk 
+Sociodemographic Single-Ventricle Patients. Pediatr 
+Cardiol 2016;37:1575-80.
+28. Gardner MM, Mercer-Rosa L, Faerber J, et al. Association 
+of a Home Monitoring Program With Interstage and 
+Stage 2 Outcomes. J Am Heart Assoc 2019;8:e010783.
+29. Staehler H, Schaeffer T , Wasner J, et al. Impact of 
+home monitoring program on interstage mortality 
+after the Norwood procedure. Front Cardiovasc Med 
+2023;10:1239477.
+30. Vergales J, Peregoy L, Zalewski J, et al. Use of a Digital 
+Monitoring Platform to Improve Outcomes in Infants 
+With a Single Ventricle. World J Pediatr Congenit Heart 
+Surg 2020;11:753-9.
+31. Li X, Zhao L, Xu T , et al. Cardiac telerehabilitation under 
+5G internet of things monitoring: a randomized pilot 
+study. Sci Rep 2023;13:18886.
+32. Almujally NA, Aljrees T , Saidani O, et al. Monitoring 
+Acute Heart Failure Patients Using Internet-of-Things-
+Based Smart Monitoring System. Sensors (Basel) 
+2023;23:4580.
+33. Kaplinski M, Ittenbach RF , Hunt ML, et al. Decreasing 
+Interstage Mortality After the Norwood Procedure: A 30-
+Y ear Experience. J Am Heart Assoc 2020;9:e016889.
+34. T abbutt S, Ghanayem N, Ravishankar C, et al. Risk factors 
+for hospital morbidity and mortality after the Norwood 
+procedure: A report from the Pediatric Heart Network 
+Single Ventricle Reconstruction trial. J Thorac Cardiovasc 
+Surg 2012;144:882-95.
+35. Axelrod DM, Klugman D, Wright GE, et al. One hundred 
+useful references in pediatric cardiac intensive care: the 
+2012 update. Pediatr Crit Care Med 2013;14:770-85.
+36. T weddell JS, Hoffman GM, Fedderly RT , et al. 
+Phenoxybenzamine improves systemic oxygen delivery 
+after the Norwood procedure. Ann Thorac Surg 
+1999;67:161-7; discussion 167-8.
+37. Sahulee R, McKinstry J. Pharmacologic therapies for the 
+low cardiac output syndrome in children after cardiac 
+surgery: evidence of their efficacy and trends in their use. 
+Vessel Plus 2022;6:5.
+38. Kanazawa T , Shimizu K, Iwasaki T , et al. Perioperative 
+Milrinone Infusion Improves One-Y ear Survival After the 
+[[p27]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2297
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Norwood-Sano Procedure. J Cardiothorac Vasc Anesth 
+2021;35:2073-8.
+39. Mills KI, Kaza AK, Walsh BK, et al. Phosphodiesterase 
+Inhibitor-Based Vasodilation Improves Oxygen Delivery 
+and Clinical Outcomes Following Stage 1 Palliation. J Am 
+Heart Assoc 2016;5:e003554.
+40. Krushansky E, Burbano N, Morell V , et al. Preoperative 
+management in patients with single-ventricle physiology. 
+Congenit Heart Dis 2012;7:96-102.
+41. T weddell JS, Ghanayem NS, Mussatto KA, et al. Mixed 
+venous oxygen saturation monitoring after stage 1 
+palliation for hypoplastic left heart syndrome. Ann Thorac 
+Surg 2007;84:1301-10; discussion 1310-1.
+42. Hoffman GM, Brosig CL, Mussatto KA, et al. 
+Perioperative cerebral oxygen saturation in neonates 
+with hypoplastic left heart syndrome and childhood 
+neurodevelopmental outcome. J Thorac Cardiovasc Surg 
+2013;146:1153-64.
+43. Hoffman GM, Ghanayem NS, Scott JP , et al. Postoperative 
+Cerebral and Somatic Near-Infrared Spectroscopy 
+Saturations and Outcome in Hypoplastic Left Heart 
+Syndrome. Ann Thorac Surg 2017;103:1527-35.
+44. Hoffman GM, Scott JP , Ghanayem NS, et al. 
+Identification of Time-Dependent Risks of Hemodynamic 
+States After Stage 1 Norwood Palliation. Ann Thorac Surg 
+2020;109:155-62.
+45. Hoffman GM, Niebler RA, Scott JP , et al. Interventions 
+Associated With T reatment of Low Cardiac Output 
+After Stage 1 Norwood Palliation. Ann Thorac Surg 
+2021;111:1620-7.
+46. Hoffman TM, Wernovsky G, Atz AM, et al. Efficacy 
+and safety of milrinone in preventing low cardiac output 
+syndrome in infants and children after corrective surgery for 
+congenital heart disease. Circulation 2003;107:996-1002.
+47. DiPietro LM, Gaies M, Banerjee M, et al. Central Venous 
+Catheter Utilization and Complications in the Pediatric 
+Cardiac ICU: A Report From the Pediatric Cardiac 
+Critical Care Consortium (PC4). Pediatr Crit Care Med 
+2020;21:729-37.
+48. Manlhiot C, Menjak IB, Brandão LR, et al. Risk, clinical 
+features, and outcomes of thrombosis associated with 
+pediatric cardiac surgery. Circulation 2011;124:1511-9.
+49. Abdullah I. Into the depths of the heart: The case for 
+transthoracic intracardiac lines placed during cardiac 
+surgery. J Thorac Cardiovasc Surg 2015;149:1214.
+50. Stein ML, Quinonez LG, DiNardo JA, et al. 
+Complications of T ransthoracic Intracardiac and Central 
+Venous Lines in Neonates Undergoing Cardiac Surgery. 
+Pediatr Cardiol 2019;40:733-7.
+51. Kumar TKS, Subramanian S, T ansey JB, et al. Optimum 
+position of transthoracic intracardiac line following cardiac 
+surgery. Interact Cardiovasc Thorac Surg 2017;25:883-6.
+52. Anton-Martin P , Zook N, Kochanski J, et al. Right Atrial 
+Lines as Primary Access for Postoperative Pediatric 
+Cardiac Patients. Pediatr Cardiol 2023;44:702-13.
+53. Pediatric Cardiac Critical Care Consortium (PC4) 
+[Internet]. 2025. Available online: https://pc4quality.org/
+about/
+54. Mueller D, Bailly DK, Banerjee M, et al. Sustained 
+Performance of Cardiac Arrest Prevention in Pediatric 
+Cardiac Intensive Care Units. JAMA Netw Open 
+2024;7:e2432393.
+55. Bertrandt RA, Gist K, Hasson D, et al. Cardiac Surgery-
+Associated Acute Kidney Injury in Neonates Undergoing 
+the Norwood Operation: Retrospective Analysis of the 
+Multicenter Neonatal and Pediatric Heart and Renal 
+Outcomes Network Dataset, 2015-2018. Pediatr Crit Care 
+Med 2024;25:e246-57.
+56. Reddy RK, Schumacher KR, Ghanayem NS, et al. 
+Unplanned reinterventions after congenital cardiac surgery 
+and hospital mortality: A report from the Pediatric Cardiac 
+Critical Care Consortium (PC4). J Thorac Cardiovasc 
+Surg 2025. doi:10.1016/j.jtcvs.2025.03.005.
+57. Medical Informatics Corporation. Sickbay. Medical 
+Informatics Corp.; 2022. Available online: https://sickbay.
+com/
+58. MA EIB. T3 (T racking, T rajectory, T riggering). Available 
+online: https://www.etiometry.com/
+59. Clauss SB, Anderson JB, Lannon C, et al. Quality 
+improvement through collaboration: the National 
+Pediatric Quality improvement Collaborative initiative. 
+Curr Opin Pediatr 2015;27:555-62.
+60. Mini N, Zartner PA, Schneider MBE. Stenting of critical 
+aortic coarctation in neonates between 600 and 1,350 g. 
+Using a transfemoral artery approach. A single center 
+experience. Front Cardiovasc Med 2022;9:1025411.
+61. Munoz E, Barzallo M, Knepp M, et al. Single Ventricle 
+and Valve-in-Valve, An Impediment or a New Horizon for 
+TAVR? JACC Case Rep 2022;4:710-4.
+62. Mohammad Nijres B, Aregullin EO, Al-Khatib Y, et 
+al. Aortopulmonary Collaterals in Single Ventricle 
+Physiology: Variation in Understanding Occlusion Practice 
+Among Interventional Cardiologists. Pediatr Cardiol 
+2020;41:1608-16.
+63. Meadows JJ, Qureshi AM, Goldstein BH, et al. 
+Comparison of Outcomes at Time of Superior 
+[[p28]]
+Ganta et al. Improving SV care in a single center program2298
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Cavopulmonary Connection Between Single Ventricle 
+Patients With Ductal-Dependent Pulmonary Blood Flow 
+Initially Palliated With Either Blalock-T aussig Shunt or 
+Ductus Arteriosus Stent: Results From the Congenital 
+Catheterization Research Collaborative. Circ Cardiovasc 
+Interv 2019;12:e008110.
+64. Manhem S, Odermarsky M, Wåhlander H, et al. 
+Pulmonary Atresia with Intact Ventricular Septum, a 
+National Comparison Between Interventional and Surgical 
+Approach, in Combination with a Systemic Literature 
+Review. Pediatr Cardiol 2025;46:1523-36.
+65. Shibbani K, Nigro J, Rao R, et al. Pulmonary Atresia with 
+Intact Ventricular Septum, an Evolving Strategy in the 
+Era of PDA Stenting: Single Center Experience. Pediatr 
+Cardiol 2025. [Epub ahead of print]. doi: 10.1007/s00246-
+025-03769-w.
+66. Chin CW, Nicholson GT , Bichell DP . Severe 
+aortopulmonary collaterals are associated with lower 
+transplant-free survival in patients undergoing staged 
+single ventricle palliation. JTCVS Open 2023;16:844-54.
+67. Grosse-Wortmann L, Al-Otay A, Y oo SJ. Aortopulmonary 
+collaterals after bidirectional cavopulmonary connection 
+or Fontan completion: quantification with MRI. Circ 
+Cardiovasc Imaging 2009;2:219-25.
+68. Powell AJ. Aortopulmonary collaterals in single-ventricle 
+congenital heart disease: how much do they count? Circ 
+Cardiovasc Imaging 2009;2:171-3.
+69. Kotani Y, Honjo O, Shani K, et al. Is indexed preoperative 
+superior vena cava blood flow a risk factor in patients 
+undergoing bidirectional cavopulmonary shunt? Ann 
+Thorac Surg 2012;94:1578-83.
+70. Luo S, Haranal M, Deng MX, et al. Low preoperative 
+superior vena cava blood flow predicts bidirectional 
+cavopulmonary shunt failure. J Thorac Cardiovasc Surg 
+2020;160:1529-1540.e4.
+71. Huang Q, Ridout D, T sang V , et al. Retrospective Cohort 
+Study of Additional Procedures and T ransplant-Free 
+Survival for Patients With Functionally Single Ventricle 
+Disease Undergoing Staged Palliation in England and 
+Wales. J Am Heart Assoc 2024;13:e033068.
+72. Moore JW, Kirby WC, Lovett EJ, et al. Use of an 
+intravascular endoprosthesis (stent) to establish and 
+maintain short-term patency of the ductus arteriosus 
+in newborn lambs. Cardiovasc Intervent Radiol 
+1991;14:299-301.
+73. Bentham JR, Zava NK, Harrison WJ, et al. Duct Stenting 
+Versus Modified Blalock-T aussig Shunt in Neonates With 
+Duct-Dependent Pulmonary Blood Flow: Associations 
+With Clinical Outcomes in a Multicenter National Study. 
+Circulation 2018;137:581-8.
+74. Glatz AC, Petit CJ, Goldstein BH, et al. Comparison 
+Between Patent Ductus Arteriosus Stent and Modified 
+Blalock-T aussig Shunt as Palliation for Infants With 
+Ductal-Dependent Pulmonary Blood Flow: Insights From 
+the Congenital Catheterization Research Collaborative. 
+Circulation 2018;137:589-601.
+75. Ratnayaka K, Nageotte SJ, Moore JW, et al. Patent Ductus 
+Arteriosus Stenting for All Ductal-Dependent Cyanotic 
+Infants: Waning Use of Blalock-T aussig Shunts. Circ 
+Cardiovasc Interv 2021;14:e009520.
+76. Bauser-Heaton H, Price K, Weber R, et al. Stenting of the 
+Patent Ductus Arteriosus: A Meta-analysis and Literature 
+Review. J Soc Cardiovasc Angiogr Interv 2022;1:100392.
+77. Sivakumar K, Bhagyavathy A, Coelho R, et al. Longevity 
+of neonatal ductal stenting for congenital heart diseases 
+with duct-dependent pulmonary circulation. Congenit 
+Heart Dis 2012;7:526-33.
+78. Alsagheir A, Koziarz A, Makhdoum A, et al. Duct stenting 
+versus modified Blalock-T aussig shunt in neonates and 
+infants with duct-dependent pulmonary blood flow: A 
+systematic review and meta-analysis. J Thorac Cardiovasc 
+Surg 2021;161:379-390.e8.
+79. Williams JA, Bansal AK, Kim BJ, et al. T wo thousand 
+Blalock-T aussig shunts: a six-decade experience. Ann 
+Thorac Surg 2007;84:2070-5; discussion 2070-5.
+80. T arca A, Peacock G, McKinnon E, et al. A Single-Centre 
+Retrospective Review of Modified Blalock-T aussig Shunts: 
+A 22-Y ear Experience. Heart Lung Circ 2023;32:405-13.
+81. Ganta S, Haley J, El-Said H, et al. Stage 1 and 2 Palliation: 
+Comparing Ductal Stenting and Aorto-Pulmonary Shunts 
+in Single Ventricles with Duct-Dependent Pulmonary 
+Blood Flow. Pediatr Cardiol 2024;45:471-82.
+82. Price K, Ryan JR, El-Said H. Stenting of the Patent 
+Ductus Arteriosus. Interv Cardiol Clin 2024;13:421-30.
+83. El-Said H, Hussein A, Price K, et al. Comparing 
+Neurodevelopmental Outcomes in Infants With Patent 
+Ductus Arteriosus Stenting Versus Blalock-T aussig-
+Thomas Shunt: A Pilot Study. J Soc Cardiovasc Angiogr 
+Interv 2024;3:101355.
+84. Robinson J, Forbess JM, Slack M, et al. Palliation of a 
+Heterotaxy Single Ventricle Neonate with Pulmonary 
+Atresia and Obstructed TAPVR. Pediatr Cardiol 
+2024;45:1384-7.
+85. Gupta A, Ratnayaka K, Nigro J, et al. Infradiaphragmatic 
+T otal Anomalous Pulmonary Venous Return With 
+Congenital Diaphragmatic Hernia: The Gut or the 
+[[p29]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2299
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+Heart-A Surgical Conundrum. J Soc Cardiovasc Angiogr 
+Interv 2022;1:100390.
+86. Norwood WI, Lang P , Hansen DD. Physiologic repair of 
+aortic atresia-hypoplastic left heart syndrome. N Engl J 
+Med 1983;308:23-6.
+87. Sano S, Ishino K, Kawada M, et al. Right ventricle-
+pulmonary artery shunt in first-stage palliation of 
+hypoplastic left heart syndrome. J Thorac Cardiovasc Surg 
+2003;126:504-9; discussion 509-10.
+88. Ohye RG, Sleeper LA, Mahony L, et al. Comparison of 
+shunt types in the Norwood procedure for single-ventricle 
+lesions. N Engl J Med 2010;362:1980-92.
+89. Gibbs JL, Wren C, Watterson KG, et al. Stenting of the 
+arterial duct combined with banding of the pulmonary 
+arteries and atrial septectomy or septostomy: a new 
+approach to palliation for the hypoplastic left heart 
+syndrome. Br Heart J 1993;69:551-5.
+90. Baslaim G. Modification of T rusler's formula for the 
+pulmonary artery banding. Heart Lung Circ 2009;18:353-7.
+91. GLENN WW. Circulatory bypass of the right side of the 
+heart. IV . Shunt between superior vena cava and distal 
+right pulmonary artery; report of clinical application. N 
+Engl J Med 1958;259:117-20.
+92. Dogliotti AM, Actis-Dato A, Venere G, et al. The 
+operation of vena cava-pulmonary artery anastomosis in 
+Fallot's tetralogy and in other heart diseases. Minerva 
+Cardioangiol 1961;9:577-93.
+93. Azzolina G, Eufrate S, Pensa P . T ricuspid atresia: 
+experience in surgical management with a modified 
+cavopulmonary anastomosis. Thorax 1972;27:111-5.
+94. El Midany AAH, Mostafa EA, Mansour SA, et al. Bilateral 
+bidirectional Glenn: outcome of off-pump technique. 
+Interact Cardiovasc Thorac Surg 2017;25:745-9.
+95. Nguyen TT , Nguyen DH, Nguyen TC, et al. Bidirectional 
+Glenn operation without cardiopulmonary bypass: Single 
+center experience and results. Asian Cardiovasc Thorac 
+Ann 2024;32:5-10.
+96. LaPar DJ, Mery CM, Peeler BB, et al. Short and long-
+term outcomes for bidirectional glenn procedure 
+performed with and without cardiopulmonary bypass. Ann 
+Thorac Surg 2012;94:164-70; discussion 170-1.
+97. Knott-Craig CJ, Julsrud PR, Schaff HV , et al. Pulmonary 
+artery size and clinical outcome after the modified Fontan 
+operation. Ann Thorac Surg 1993;55:646-51.
+98. Fontan F , Baudet E. Surgical repair of tricuspid atresia. 
+Thorax 1971;26:240-8.
+99. de Leval MR, Kilner P , Gewillig M, et al. T otal 
+cavopulmonary connection: a logical alternative to 
+atriopulmonary connection for complex Fontan operations. 
+Experimental studies and early clinical experience. J 
+Thorac Cardiovasc Surg 1988;96:682-95.
+100. Marcelletti C, Corno A, Giannico S, et al. Inferior vena 
+cava-pulmonary artery extracardiac conduit. A new 
+form of right heart bypass. J Thorac Cardiovasc Surg 
+1990;100:228-32.
+101. Velleca A, Shullo MA, Dhital K, et al. The International 
+Society for Heart and Lung T ransplantation (ISHL T) 
+guidelines for the care of heart transplant recipients. J 
+Heart Lung T ransplant 2023;42:e1-e141.
+102. Statistics EISo. ELSO International Summary of Statistics 
+| ECMO | ECLS: ELSO; 2024. Available online: https://
+www.elso.org/registry/internationalsummaryandreports/
+internationalsummary.aspx
+103. Nair AB, Oishi P . Venovenous Extracorporeal Life Support 
+in Single-Ventricle Patients with Acute Respiratory 
+Distress Syndrome. Front Pediatr 2016;4:66.
+104. Perry T , Brown T , Misfeldt A, et al. Extracorporeal 
+Membrane Oxygenation in Congenital Heart Disease. 
+Children (Basel) 2022;9:380.
+105. Jaggers JJ, Forbess JM, Shah AS, et al. Extracorporeal 
+membrane oxygenation for infant postcardiotomy support: 
+significance of shunt management. Ann Thorac Surg 
+2000;69:1476-83.
+106. Dalton HJ, Garcia-Filion P , Holubkov R, et al. Association 
+of bleeding and thrombosis with outcome in extracorporeal 
+life support. Pediatr Crit Care Med 2015;16:167-74.
+107. Manlhiot C, Brandão LR, Kwok J, et al. Thrombotic 
+complications and thromboprophylaxis across all three 
+stages of single ventricle heart palliation. J Pediatr 
+2012;161:513-519.e3.
+108. Cheung EW, Chay GW, Ma ES, et al. Systemic oxygen 
+saturation and coagulation factor abnormalities before and 
+after the fontan procedure. Am J Cardiol 2005;96:1571-5.
+109. Odegard KC, McGowan FX Jr, DiNardo JA, et al. 
+Coagulation abnormalities in patients with single-ventricle 
+physiology precede the Fontan procedure. J Thorac 
+Cardiovasc Surg 2002;123:459-65.
+110. Reed RC, Rutledge JC. Laboratory and clinical 
+predictors of thrombosis and hemorrhage in 29 pediatric 
+extracorporeal membrane oxygenation nonsurvivors. 
+Pediatr Dev Pathol 2010;13:385-92.
+111. Misfeldt AM, Kirsch RE, Goldberg DJ, et al. Outcomes of 
+Single-Ventricle Patients Supported With Extracorporeal 
+Membrane Oxygenation. Pediatr Crit Care Med 
+2016;17:194-202.
+112. Merrill ED, Schoeneberg L, Sandesara P , et al. Outcomes 
+[[p30]]
+Ganta et al. Improving SV care in a single center program2300
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+after prolonged extracorporeal membrane oxygenation 
+support in children with cardiac disease--Extracorporeal 
+Life Support Organization registry study. J Thorac 
+Cardiovasc Surg 2014;148:582-8.
+113. Bautista-Hernandez V , Thiagarajan RR, Fynn-Thompson F , 
+et al. Preoperative extracorporeal membrane oxygenation as 
+a bridge to cardiac surgery in children with congenital heart 
+disease. Ann Thorac Surg 2009;88:1306-11.
+114. Mayr B, Kido T , Holder S, et al. Single-centre outcome 
+of extracorporeal membrane oxygenation after the 
+neonatal Norwood procedure. Eur J Cardiothorac Surg 
+2022;62:ezac129.
+115. Seeber F , Krenner N, Sames-Dolzer E, et al. Outcome 
+after extracorporeal membrane oxygenation therapy 
+in Norwood patients before the bidirectional Glenn 
+operation. Eur J Cardiothorac Surg 2024;65:ezae153.
+116. Roeleveld PP , Wilde Rd, Hazekamp M, et al. 
+Extracorporeal Membrane Oxygenation in Single Ventricle 
+Lesions Palliated Via the Hybrid Approach. World J 
+Pediatr Congenit Heart Surg 2014;5:393-7.
+117. Kramer HH. Extracorporeal membrane oxygenation 
+becomes a conceptual part of postoperative care after 
+Norwood surgery for single-ventricle patients. Eur J 
+Cardiothorac Surg 2024;65:ezae210.
+118. Bacon MK, Gray SB, Schwartz SM, et al. Extracorporeal 
+Membrane Oxygenation (ECMO) Support in Special 
+Patient Populations-The Bidirectional Glenn and Fontan 
+Circulations. Front Pediatr 2018;6:299.
+119. Jolley M, Thiagarajan RR, Barrett CS, et al. Extracorporeal 
+membrane oxygenation in patients undergoing superior 
+cavopulmonary anastomosis. J Thorac Cardiovasc Surg 
+2014;148:1512-8.
+120. Rood KL, T eele SA, Barrett CS, et al. Extracorporeal 
+membrane oxygenation support after the Fontan 
+operation. J Thorac Cardiovasc Surg 2011;142:504-10.
+121. Purkey NJ, Lin A, Murray JM, et al. Long-T erm Pediatric 
+Ventricular Assist Device Therapy: A Case Report of 
+2100+ Days of Support. ASAIO J 2018;64:e1-2.
+122. Edelson JB, Huang Y, Griffis H, et al. The influence 
+of mechanical Circulatory support on post-transplant 
+outcomes in pediatric patients: A multicenter study 
+from the International Society for Heart and Lung 
+T ransplantation (ISHL T) Registry. J Heart Lung 
+T ransplant 2021;40:1443-53.
+123. Zafar F , Castleberry C, Khan MS, et al. Pediatric heart 
+transplant waiting list mortality in the era of ventricular 
+assist devices. J Heart Lung T ransplant 2015;34:82-8.
+124. Woods RK, Kindel SJ, Mitchell ME, et al. T otal Artificial 
+Heart Using Bilateral Paracorporeal Pulsatile Ventricular 
+Assist Devices in an 8.2-kg Child. Ann Thorac Surg 
+2018;105:e255-7.
+125. Jaquiss RDB, Woods RK. Insertion of the total artificial 
+heart in the Fontan circulation. Ann Cardiothorac Surg 
+2020;9:134-40.
+126. Adachi I, Peng DM, Hollander SA, et al. Sixth Annual 
+Pediatric Interagency Registry for Mechanical Circulatory 
+Support (Pedimacs) Report: The Society Of Thoracic 
+Surgeons Pedimacs Annual Report. Ann Thorac Surg 
+2023;115:1098-108.
+127. Eghtesady P , Manning PB. Mechanical Circulatory 
+Support Following Norwood Palliation. Oper T ech 
+Thorac Cardiovasc Surg 2016;21:330-8.
+128. Griselli M, Sinha R, Jang S, et al. Mechanical Circulatory 
+Support for Single Ventricle Failure. Front Cardiovasc 
+Med 2018;5:115.
+129. Gazit AZ, Petrucci O, Manning P , et al. A Novel 
+Surgical Approach to Mechanical Circulatory Support in 
+Univentricular Infants. Ann Thorac Surg 2017;104:1630-6.
+130. Bleiweis MS, Philip J, Peek GJ, et al. Combined 
+Hybrid Procedure and VAD Insertion in 9 High-Risk 
+Neonates and Infants With HLHS. Ann Thorac Surg 
+2022;114:809-16.
+131. Vossler J, Chau P , Vaughn G, et al. Ventricular Assist 
+Device and Ductal Stent as Bridge to T ransplant for 
+Pulmonary Atresia-Intact Ventricular Septum. J Heart 
+Lung T ransplant 2025;44:S523-S524.
+132. Maeda K, Nasirov T , Yarlagadda V , et al. Single Ventricular 
+Assist Device Support for the Failing Bidirectional Glenn 
+Patient. Ann Thorac Surg 2020;110:1659-66.
+133. Adachi I, Williams E, Jeewa A, et al. Mechanically assisted 
+Fontan completion: A new approach for the failing Glenn 
+circulation due to isolated ventricular dysfunction. J Heart 
+Lung T ransplant 2016;35:1380-1.
+134. Shugh SB, Riggs KW, Morales DLS. Mechanical 
+circulatory support in children: past, present and future. 
+T ransl Pediatr 2019;8:269-77.
+135. Konstantinov IE, Schulz A, Buratto E. Heart 
+transplantation after Fontan operation. JTCVS T ech 
+2022;13:182-91.
+136. Adachi I. Ventricular Assist Device Implantation for 
+Single Ventricle. Oper T ech Thorac Cardiovasc Surg 
+2020;25:74-84.
+137. Bedzra EK, Adachi I, Maeda K, et al. VAD Support of 
+the Fontan Circulation: An Analysis of the STS Pedimacs 
+and Intermacs Databases. J Heart Lung T ransplant 
+2021;40:S90.
+[[p31]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2301
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+138. Cedars A, Kutty S, Danford D, et al. Systemic ventricular 
+assist device support in Fontan patients: A report by 
+ACTION. J Heart Lung T ransplant 2021;40:368-76.
+139. Poh CL, Chiletti R, Zannino D, et al. Ventricular assist 
+device support in patients with single ventricles: the 
+Melbourne experience. Interact Cardiovasc Thorac Surg 
+2017;25:310-6.
+140. Kantrowitz A, Haller JD, Joos H, et al. T ransplantation 
+of the heart in an infant and an adult. Am J Cardiol 
+1968;22:782-90.
+141. Singh TP , Cherikh WS, Hsich E, et al. The International 
+thoracic organ transplant registry of the international 
+society for heart and lung transplantation: T wenty-fifth 
+pediatric heart transplantation report-2022; focus on 
+infant heart transplantation. J Heart Lung T ransplant 
+2022;41:1357-65.
+142. Rossano JW, Cherikh WS, Chambers DC, et al. The 
+Registry of the International Society for Heart and 
+Lung T ransplantation: T wentieth Pediatric Heart 
+T ransplantation Report-2017; Focus Theme: Allograft 
+ischemic time. J Heart Lung T ransplant 2017;36:1060-9.
+143. Almond CSD, Thiagarajan RR, Piercey GE, et al. 
+Waiting list mortality among children listed for heart 
+transplantation in the United States. Circulation 
+2009;119:717-27.
+144. Alsoufi B, Mahle WT , Manlhiot C, et al. Outcomes of 
+heart transplantation in children with hypoplastic left 
+heart syndrome previously palliated with the Norwood 
+procedure. J Thorac Cardiovasc Surg 2016;151:167-74, 
+175.e1-2.
+145. West LJ, Pollock-Barziv SM, Dipchand AI, et al. ABO-
+incompatible heart transplantation in infants. N Engl J 
+Med 2001;344:793-800.
+146. Kozik D, Sparks J, T rivedi J, et al. ABO-Incompatible 
+Heart T ransplant in Infants: A UNOS Database Review. 
+Ann Thorac Surg 2021;112:589-94.
+147. Voeller RK, Epstein DJ, Guthrie TJ, et al. T rends in the 
+indications and survival in pediatric heart transplants: a 24-
+year single-center experience in 307 patients. Ann Thorac 
+Surg 2012;94:807-15; discussion 815-6.
+148. Montalvo J, Bailey LL. Operative Methods Used for 
+Heart T ransplantation in Complex Univentricular Heart 
+Disease and Variations of Atrial Situs. Oper T ech Thorac 
+Cardiovasc Surg 2010;15:172-84.
+149. Huddleston CB, Richey S, Fiore AC. Heart 
+T ransplantation for Congenital Heart Disease. Oper T ech 
+Thorac Cardiovasc Surg 2019;24:103-20.
+150. Krishnan US, Lamour JM, Hsu DT , et al. Management of 
+aortopulmonary collaterals in children following cardiac 
+transplantation for complex congenital heart disease. J 
+Heart Lung T ransplant 2004;23:564-9.
+151. Rychik J, Atz AM, Celermajer DS, et al. Evaluation 
+and Management of the Child and Adult With Fontan 
+Circulation: A Scientific Statement From the American 
+Heart Association. Circulation 2019;140:e234-84.
+152. Everitt MD, Boyle GJ, Schechtman KB, et al. Early 
+survival after heart transplant in young infants is lowest 
+after failed single-ventricle palliation: a multi-institutional 
+study. J Heart Lung T ransplant 2012;31:509-16.
+153. Sharma VJ, Carlson L, Esch J, et al. Pre-Glenn aorto-
+pulmonary collaterals in single-ventricle patients. Cardiol 
+Y oung 2023;33:2589-96.
+154. Schmiel M, Kido T , Georgiev S, et al. Aortopulmonary 
+collaterals in single ventricle: incidence, associated factors 
+and clinical significance. Interact Cardiovasc Thorac Surg 
+2022;35:ivac190.
+155. Riggs KW, Broderick JT , Price N, et al. T ransplantation 
+for Congenital Heart Disease: Focus on the Impact 
+of Functionally Univentricular Versus Biventricular 
+Circulation. World J Pediatr Congenit Heart Surg 
+2021;12:352-9.
+156. Emamaullee J, Martin S, Goldbeck C, et al. Evaluation of 
+Fontan-associated Liver Disease and Ethnic Disparities 
+in Long-term Survivors of the Fontan Procedure: A 
+Population-based Study. Ann Surg 2022;276:482-90.
+157. McCormick AD, Schumacher KR. T ransplantation of the 
+failing Fontan. T ransl Pediatr 2019;8:290-301.
+158. Villa C, Greenberg JW, Morales DLS. Mechanical support 
+for the failing single ventricle after Fontan. JTCVS T ech 
+2022;13:174-81.
+159. Sames-Dolzer E, Gierlinger G, Kreuzer M, et al. 
+Unplanned cardiac reoperations and interventions during 
+long-term follow-up after the Norwood procedure†. Eur J 
+Cardiothorac Surg 2017;51:1044-50.
+160. Lubert AM, Cedars A, Almond CS, et al. Considerations 
+for Advanced Heart Failure Consultation in Individuals 
+With Fontan Circulation: Recommendations From 
+ACTION. Circ Heart Fail 2023;16:e010123.
+161. Michielon G, Parisi F , Squitieri C, et al. Orthotopic heart 
+transplantation for congenital heart disease: an alternative 
+for high-risk fontan candidates? Circulation 2003;108 
+Suppl 1:II140-9.
+162. Kanter KR. Heart T ransplantation in Children after a 
+Fontan Procedure: Better than People Think. Semin 
+Thorac Cardiovasc Surg Pediatr Card Surg Annu 
+2016;19:44-9.
+[[p32]]
+Ganta et al. Improving SV care in a single center program2302
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+163. Berg CJ, Bauer BS, Hageman A, et al. Mortality Risk 
+Stratification in Fontan Patients Who Underwent Heart 
+T ransplantation. Am J Cardiol 2017;119:1675-9.
+164. Simpson KE, Pruitt E, Kirklin JK, et al. Fontan 
+Patient Survival After Pediatric Heart T ransplantation 
+Has Improved in the Current Era. Ann Thorac Surg 
+2017;103:1315-20.
+165. Chang AL, Abt PL, Atluri P , et al. Combined Sequential 
+Heart-Liver T ransplantation. Oper T ech Thorac 
+Cardiovasc Surg 2021;26:99-111.
+166. Nasirov T , Shudo Y, Concepcion W, et al. En Bloc 
+Combined Heart and Liver T ransplantation for End-
+Stage Heart Failure. Oper T ech Thorac Cardiovasc Surg 
+2021;26:112-7.
+167. Sganga D, Hollander SA, Vaikunth S, et al. Comparison 
+of combined heart-liver vs heart-only transplantation in 
+pediatric and young adult Fontan recipients. J Heart Lung 
+T ransplant 2021;40:298-306.
+168. Choudhry S, Dreyer WJ, Hope KD, et al. Pediatric 
+heart-liver transplant outcomes in the United States: 
+A 25-year National Cohort Study. Pediatr T ransplant 
+2021;25:e14066.
+169. Lee JTC, Sarode D, Emamaullee JA. Review of pediatric 
+combined heart-liver transplantation: A roadmap to 
+success. Pediatr T ransplant 2023;27:e14633.
+170. Macdonald P , Dhital K. Heart transplantation from 
+donation-after-circulatory-death (DCD) donors: Back to 
+the future-Evolving trends in heart transplantation from 
+DCD donors. J Heart Lung T ransplant 2019;38:599-600.
+171. Cheon S, Kulshrestha K, Ahmed HF , et al. How Could 
+DCD Heart Donation Affect Organ Availability for 
+Congenital Heart Programs? J Heart Lung T ransplant. 
+2024;43:S152-S153.
+172. García Sáez D, Bowles CT , Maunz OK, et al. Donor 
+Circulatory Death Heart T ransplantation with Adverse 
+Donor and Recipient Risk Profile. J Heart Lung 
+T ransplant 2017;36:S16.
+173. Singhal AK, Abrams JD, Mohara J, et al. Potential suitability 
+for transplantation of hearts from human non-heart-beating 
+donors: data review from the Gift of Life Donor Program. J 
+Heart Lung T ransplant 2005;24:1657-64.
+174. Osaki S, Anderson JE, Johnson MR, et al. The potential 
+of cardiac allografts from donors after cardiac death 
+at the University of Wisconsin Organ Procurement 
+Organization. Eur J Cardiothorac Surg 2010;37:74-9.
+175. Noterdaeme T , Detry O, Hans MF , et al. What is the 
+potential increase in the heart graft pool by cardiac 
+donation after circulatory death? T ranspl Int 2013;26:61-6.
+176. Jawitz OK, Raman V , Devore A, et al. Donation after 
+Circulatory Death in Heart T ransplantation May Increase 
+the Donor Pool by 20% in the U.S. J Heart Lung 
+T ransplant 2019;38:S26.
+177. Urban M, Moody M, Lyden E, et al. Impact of donation 
+after circulatory death heart transplantation on waitlist 
+outcomes and transplantation activity. Clin T ransplant 
+2023;37:e14942.
+178. Messer S, Page A, Rushton S, et al. The potential of 
+heart transplantation from donation after circulatory 
+death donors within the United Kingdom. J Heart Lung 
+T ransplant 2019;38:872-4.
+179. Boucek MM, Mashburn C, Dunn SM, et al. Pediatric 
+heart transplantation after declaration of cardiocirculatory 
+death. N Engl J Med 2008;359:709-14.
+180. Messer S, Cernic S, Page A, et al. A 5-year single-center 
+early experience of heart transplantation from donation 
+after circulatory-determined death donors. J Heart Lung 
+T ransplant 2020;39:1463-75.
+181. Laurence C, Nachum E, Henwood S, et al. Pediatric heart 
+transplantation following donation after circulatory death, 
+distant procurement, and ex-situ perfusion. J Heart Lung 
+T ransplant 2022;41:1104-13.
+182. Jacob S, Garg P , Wadiwala I, et al. Strategies for 
+Expanding Donors Pool in Heart T ransplantation. Rev 
+Cardiovasc Med 2022;23:285.
+183. Fetten K, White R, Huynh D, et al. Early Single Center 
+Experience of Heart T ransplantation from Donation After 
+Circulatory Death Donors in the United States. J Heart 
+Lung T ransplant 2022;41:S74.
+184. Messer S, Page A, Axell R, et al. Outcome after heart 
+transplantation from donation after circulatory-determined 
+death donors. J Heart Lung T ransplant 2017;36:1311-8.
+185. Chew HC, Iyer A, Connellan M, et al. Outcomes of 
+Donation After Circulatory Death Heart T ransplantation 
+in Australia. J Am Coll Cardiol 2019;73:1447-59.
+186. Pettit SJ, Petrie MC. T ransplantation of Hearts Donated 
+After Circulatory-Determined Death. Circ Heart Fail 
+2019;12:e005991.
+187. Anguela-Calvet L, Moreno-Gonzalez G, Sbraga F , et 
+al. Heart Donation From Donors After Controlled 
+Circulatory Death. T ransplantation 2021;105:1482-91.
+188. Bailey LL, Nehlsen-Cannarella SL, Concepcion W, et 
+al. Baboon-to-human cardiac xenotransplantation in a 
+neonate. JAMA 1985;254:3321-9.
+189. Mohiuddin MM, Singh AK, Corcoran PC, et al. Chimeric 
+2C10R4 anti-CD40 antibody therapy is critical for long-
+term survival of GTKO.hCD46.hTBM pig-to-primate 
+[[p33]]
+Translational Pediatrics, Vol 14, No 9 September 2025 2303
+© AME Publishing Company. Transl Pediatr 2025;14(9):2271-2303 | https://dx.doi.org/10.21037/tp-2024-602
+cardiac xenograft. Nat Commun 2016;7:11138.
+190. Cleveland DC, Jagdale A, Carlo WF , et al. The Genetically 
+Engineered Heart as a Bridge to Allotransplantation 
+in Infants Just Around the Corner? Ann Thorac Surg 
+2022;114:536-44.
+191. Moazami N, Stern JM, Khalil K, et al. Pig-to-human 
+heart xenotransplantation in two recently deceased human 
+recipients. Nat Med 2023;29:1989-97.
+Cite this article as:  Ganta S, Bock MJ, Haley J, El-Said H, 
+Rao R, Nigro JJ. Single ventricle care: challenges, successes 
+and the future in a single center program. T ransl Pediatr 
+2025;14(9):2271-2303. doi: 10.21037/tp-2024-602

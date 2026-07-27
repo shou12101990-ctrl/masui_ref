@@ -1,0 +1,117 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Inclusion of infants, children, and adolescents in Public 
+Access Defibrillation programs. 
+公共アクセス除細動プログラムへの乳児、小児の組み入れ 
+Author: Kee-Chong Ng, et al. PLS Task Forces. 
+The PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+ 
+Population: Infants, children and adolescents with non-
+traumatic out-of-hospital cardiac arrest (OHCA) 
+ 
+Intervention: Application of or shock delivery from an 
+automated external defibrillator (AED) by lay rescuers. 
+ 
+PICOST  
+ 
+ 
+P: 非外傷性院外心停止（OHCA）の乳児、小児 
+ 
+ 
+I: 市民救助者による自動体外式除細動器（AED）を用いた除細動 
+ 
+C: 市民救助者による AED を使用しない標準ケア 
+[[p2]]
+2 
+ 
+Comparators: Standard care by lay rescuer without AED 
+application. 
+ 
+Outcomes: Improve ROSC, hospital discharge and neurologic 
+status, all other outcomes as available. 
+ 
+Study Designs: Randomized controlled trials (RCTs) and non-
+randomized studies (non-randomized controlled trials, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) are eligible for inclusion. Unpublished studies 
+(e.g., conference abstracts, trial protocols) are excluded 
+ 
+ 
+O: ROSC の改善、退院、神経学的状態、その他すべての転帰 
+ 
+S: RCT および非ランダム化研究（非ランダム化比較試験、分割時系
+列解析、前後比較研究、コホート研究）が対象となる。未発表の研
+究（例：学会抄録、試験プロトコール）は除外する。 
+ 
+ 
+ 
+T: 英語抄録がある限り、全年、全言語を対象とする 
+[[p3]]
+3 
+ 
+ 
+Timeframe: All years and all languages were included as long 
+as there was an English abstract. 
+ 
+PROSPERO Registration CRD42017080475 
+Treatment recommendations 
+We suggest the use of an AED by lay rescuers for all children 
+over age 1 year suffering non-traumatic out-of-hospital 
+cardiac arrest (weak recommendation, very low certainty 
+evidence). 
+We cannot make a recommendation for or against the use of 
+an AED by lay rescuers for all children below age 1 year 
+suffering non-traumatic out-of-hospital cardiac arrest 
+推奨と提案 
+ 
+非外傷性院外心停止に陥った 1 歳以上のすべての小児に対して、市
+民救助者による AED の使用を提案する（弱い推奨、エビデンスの
+確実性：非常に低い）。 
+ 
+[[p4]]
+4 
+ 
+ 
+非外傷性院外心停止に陥った 1 歳未満のすべての小児に対して、市
+民救助者による AED 使用の是非を勧告することはできない。 
+ 
+１． JRC の見解と解説（400-800 文字） 
+（解説） 
+・ 今回はじめて検討された PICO で検索により、1163 の文献が特定され、採用された文献は 4 つの観察研究であった。 
+・ 3 つの文献は米国の CARES（心臓停止登録データベース）からで、報告されたデータは PICO の研究デザインや時間枠の設問と一致
+しなかったが、AED 使用が分析に含まれていた。CARES から提供された生データには、心停止を起こした小児の数、それらの小児
+の年齢層、AED が適用された小児の数、および入院時の結果が含まれていた。これらの数値から AED が適用された場合の生存の相
+対リスクが計算された。 
+・ 日本の消防庁からのいくつかの研究には、データの組み込み日付が重複していたため、データの重複を避けるために、最後の文献（最
+[[p5]]
+5 
+ 
+も時間的に包括的なもの）が選択された。 
+・ 年齢に依存するショック適応リズムのリスクと生存のチャンスを考慮して、データを<1 歳、1 歳から 12 歳、13 歳から 18 歳の 3 つ
+の年齢グループで分析した。 
+・ 全体的なエビデンスの確実性はすべてのアウトカムについて非常に低く、バイアスのリスクが高すぎてメタ分析ができなかった。 
+・ 表 15 に、1 か月時点の CPC が 1 から 2 である重大なアウトカム、退院時の CPC が 1 から 2 である重大なアウトカム、および退院
+とバイスタンダーCPR と AED に関する相対リスクをまとめた。 
+・ 1 歳未満の乳児に対する AED に関しては、該当研究（Bleijenberg 2017）のサンプル数が少なく、タイプ 2 エラー（実際には効果や
+差が存在するにもかかわらず、統計的検定でそれを見逃してしまう誤り）を懸念し、推奨を行わなかった。 
+・ JRC では、1 歳未満の乳児に対する AED に関しての各国のガイドラインでの推奨や未就学児用のパッド／減衰器が使用されないとき
+の過大なエネルギー量、必要な場合にタイムリーに電気ショックがされない不利益などを再度検討したが、少なくとも質の高い CPR
+が必要との意見で一致した。 
+ 
+[[p6]]
+6 
+ 
+２．わが国への適用 
+  非外傷性院外心停止に陥った 1 歳以上の小児に対して、市民救助者による AED 使用を提案する予定である（弱い推奨、エビデンス
+の確実性：非常に低い）。非外傷性院外心停止に陥った 1 歳未満の新生児・乳児に対しては、市民救助者による AED の使用を考慮して
+もよいが、その場合でも質の高い CPR を優先する。 （優れた医療慣行に関する記述） 
+ 
+３．担当メンバー 
+作業部会員（五十音順）: 小原 崇一郎、糟谷 周吾、小嶋 大樹、水野 圭一郎 
+担当編集委員（五十音順）: 池山貴也、黒澤寛史 
+顧問: 清水直樹 
+編集委員長: 坂本哲也 

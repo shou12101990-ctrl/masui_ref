@@ -1,0 +1,873 @@
+
+[[p1]]
+ 1 
+2023 年 11 月 24 日 
+ 
+ 
+ 
+ 
+ 
+ 
+ICU 入退室指針 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+日本集中治療医学会 ICU 入退室指針作成タスクフォース 
+武居哲洋 横浜市立みなと赤十字病院 救命救急センター 
+浅賀健彦 香川大学医学部附属病院 集中治療部 
+大邉寛幸 東北大学病院 高度救命救急センター 
+河合佑亮 藤田医科大学病院 看護部 
+志賀卓弥 東北大学大学院 医学系研究科 外科病態学講座 麻酔科学・周術期 
+医学分野 
+土井松幸 浜松医療センター ICU・集中治療科 
+原 嘉孝 藤田医科大学医学部 麻酔・侵襲制御医学講座 
+土井研人 東京大学大学院医学系研究科 救急・集中治療医学 
+志馬伸朗 広島大学大学院医系科学研究科 救急集中治療医学 
+西田 修 藤田医科大学医学部 麻酔・侵襲制御医学講座 
+  
+[[p2]]
+ 2 
+Ⅰ．指針サマリー 
+【はじめに】 
+1. ICU 入退室においては、提供する治療・ケア、患者因子、施設の有する医療
+資源、 地域の集中治療関連の医療資源、 手術等の情報をもとに、 可及的に正
+確な病態把握と予後予測を行い、 集中治療を受ける意義の大きい患者を選別
+すべきである。 
+2. たとえ重症度が高くてもこれ以上の治療効果は望めないと予測される患者
+の ICU 入室は控えることが望ましい。 
+3. 脳死下臓器移植のドナーとなる可能性のある患者については、 移植について
+の方針が定まるまでは ICU で管理することが望ましい。 
+4. 集中治療の利益と不利益について、 患者やその家族に患者背景にも配慮した
+十分なわかりやすい説明を行う必要がある。 
+5. ICU に入室し治療を受けることの意味を理解した上で、 ときに苦痛を伴うこ
+のような集学的治療を希望しない場合は、入室の対象とすべきではない。 
+6. 最終的な ICU 入退室の判断は、各診療科や患者との利害関係のない集中治
+療に精通した集中治療科医が行うべきである。 
+ 
+【提供する治療・ケアの因子】 
+PM?h`ao、dbln、?補助循環用ポンプカテーテル?（hlodkk`）、u`c?などの重症
+心不全に対する循環サポートを必要とする患者は、原則的に ICU で管理す
+べきである。 
+2. ARDS（Acute Respiratory Distress Syndrome）をはじめとした重症呼吸不全に
+対して人工呼吸を受ける患者は、少なくとも急性期には ICU で管理すべき
+である。 
+3. 人工呼吸器や血液浄化療法といった単一臓器のみのサポートが長期間必要
+な患者は、ICU から退室し中間ユニットや一般病棟での管理を考慮する。 
+4. 昇圧薬や強心薬などの薬剤持続投与による循環サポートを必要とする患者
+[[p3]]
+ 3 
+は、原則的に ICU で管理すべきである。 
+5. 肺動脈圧、 心拍出量、 頭蓋内圧等の測定や体温管理療法など、 厳重なモニタ
+リングを要する患者は原則的に ICU で管理すべきである。 
+6. 人工臓器サポートや心血管作動薬などの薬剤持続投与を行わない動脈圧、 中
+心静脈圧のモニタリング患者、 脳神経所見や電解質・血糖など短期間に頻回
+の観察を要する患者等については、 中間ユニットで管理することも考慮する。 
+ 
+【患者因子】 
+1. ICU への入室は、患者価値観と患者因子（重症度スコア、年齢、併存疾患、
+ADL など）の両面から総合的に判断し、生存の可能性だけでなく長期予後
+や ICU 退室後の生活の質（QOL: Quality of Life）をも含めて判断する必要が
+ある。 
+2. ICU 入室の判断は公正であるべきで、人種、⺠族、性別、社会的地位、財力
+に基づくものであってはならない。 
+3. 集中治療を受ける利益と潜在的な有害性については、 患者の社会状況、 希望、
+信念、価値観に照らして解釈する必要がある。 
+4. 重症度スコア単独で個々の患者の予後を予測することには限界があり、ICU
+入室判断の一つの要素として利用することが望ましい。 
+5. 年齢のみで ICU 入室を制限せず、患者の併存疾患、対象となる病態の重症
+度、入室前の ADL、および生命維持に関する患者意志等に基づいて総合的
+に判断することが望ましい。 
+6. 重要臓器の併存疾患を有する患者は、 生理学的な脆弱性があり厳重なモニタ
+リングを要することが多いため、ICU で管理することを考慮する。 
+7. 特定の併存疾患を理由に ICU 入室を制限すべきではない。 
+ 
+【施設の有する医療資源】 
+1. 自施設に中間ユニットを有する場合には ICU 入退室の基準も変化しうるた
+め、中間ユニットの入退室基準も作成する必要がある。 
+[[p4]]
+ 4 
+2. 自施設で提供できない高度なモニタリング・治療を要する患者は、診療機能
+の整備された ICU に医療圏毎に集約化することが望ましい。 
+3. ICU を有する近隣医療機関同士は、平時より ICU で提供可能な高度な治療
+について情報を共有しておくことが望ましい。 
+4. 複数の生命維持治療を必要とする重篤な患者は、 特定集中治療室管理料1 な
+いし 2 を算定する施設などマンパワーの充実する ICU に医療圏毎に集約化
+することが望ましい。 
+ 
+【地域の集中治療関連の医療資源】 
+1. 施設毎に ICU 入退室指針を作成する際には、施設の存在する地域の集中治
+療関連の医療提供体制を念頭において作成する必要がある。 
+ 
+【手術患者】 
+PM?予定手術患者においては、提供する治療・ケア、患者因子、施設の有する医
+療資源、 地域の集中治療関連の医療資源といった要素に加え、 手術の侵襲度
+や術後観察項目などの要素を総合的に評価し、 中間ユニットの活用も考慮し
+た上で ICU 入室の対象患者を施設毎に定義する必要がある。 
+2. 緊急手術については同一術式でも死亡リスクが高くなることに留意し ICU
+入室を判断すべきである。 
+ 
+【ICU 退室の考え方】 
+1. 各施設は、 自施設の置かれた状況を把握した上で、ICU 入室基準と同様に退
+室基準を作成する必要がある。 
+2. 施設内に中間ユニットが存在する場合は、 ステップダウンとして中間ユニッ
+トを経由するか直接一般病棟に退室するかを、 退室先の入室基準、 ケアレベ
+ル等を鑑みて判断すべきである。 
+3. 退室の判断は客観的に行われる必要があり、 集中治療科医を中心とした多職
+[[p5]]
+ 5 
+種の意見を反映した判断が望ましい。 
+4. 日勤帯以外における ICU 退室は、可能な限り避けるべきである。 
+5. 治療を継続しても予後の改善や救命が期待できない状態に移行した患者は、
+集中治療の中止、ICU 退室と緩和的ケアの強化を含めて生命の尊厳について
+検討することが望ましい。 
+ 
+【災害・パンデミック時の ICU 入退室の考え方】 
+1. 各施設において、 自施設の有するICU 病床数、 重症患者に対応可能な医療従
+事者、 医療機器などの集中治療に関わる医療資源を把握し、 災害・パンデミ
+ック時の体制と手順を整えておくべきである。 
+2. ICU 入室後のトリアージが必要な状況が生じる前に、 施設としての重症患者
+のトリアージ方針を明確にし、 個人ではなく医療チームとして施設方針に沿
+って判断を行うことが望ましい。 
+3. 災害・パンデミック時には、 限られた医療資源を最大限に有効活用するため
+に、 地域において医療従事者、 医療機器などを集約して効率化を図る概念を
+共有することが望ましい。 
+ 
+  
+[[p6]]
+ 6 
+Ⅱ．緒言 
+１．ICU の存在意義とその利用概念 
+ICU とは、 「生命の危機に瀕した重症患者を、24 時間を通じた濃密な観察のも
+とに、 先進医療技術を駆使して集中的に治療する診療空間」 とされる[1]。 すなわ
+ち、ICU 入室の目的は、 生命の危機に瀕した患者に濃厚な治療・ケアを提供する
+ことにより、 生命の危機を回避し、 できる限り元の生活に戻すことと言える。 こ
+のため、ICU には高度な医療機器と十分に訓練された多職種の医療従事者が配
+置され、十分な広さの病床を有することが求められている。 
+このように、ICU は診療密度の高い医療を提供するきわめて限られた医療資
+源であり、 社会のインフラと言っても過言ではない。 したがって、 この利用は公
+正でなければならず、本来 ICU に入退室する患者の選別は一貫性を持って厳格
+に行われるべきである。 しかし、ICU 入退室を判断する要素はきわめて多岐に亘
+り、 複数の情報を統合して判断しなくてはならない。 さらには、 現時点でICU 入
+退室に関する質の高いエビデンスは不足しているため、その判断には限界が伴
+う。 
+ 
+２．我が国の集中治療室（ICU）の現状 
+厚生労働省の 2020 年度病床機能報告[2]をもとに、 日本集中治療医学会が集計
+した重症患者治療用病床数を表 1 に示す。我が国には、施設基準にて患者対看
+護師比が常時 2 対 1 以上を必要とする厚生労働省の定める保険診療上の特定集
+中治療室管理料、または救命救急入院料 2 もしくは 4 の算定を認められたいわ
+ゆる ICU 病床が 6911 床（小児特定集中治療室管理料を含めると 7015 床）存在
+する。 さらには、保険診療上の厚生労働省が定めるハイケアユニット入院医療管
+理料、脳卒中ケアユニット入院医療管理料、救命救急入院料 1 もしくは 3 の算
+定を認められた ICU に準ずる中間ユニット病床が 13,003 床存在する。 
+2021 年度の日本集中治療医学会による集中治療専門医研修施設の調査[3]では、
+施設認定された 366 施設における ICU 病床の合計は 4,240 床であり、我が国の
+ICU 病床の 60.4％であった。ICU 病床を使用した延べ患者数の中央値は 67[50.5-
+[[p7]]
+ 7 
+86.6]人/床/年、 入室日と退室日をともに1 日として算出した在室日数の中央値は
+4.3 日、 稼働延べ日数の中央値は288[239-333]日/床/年であった。ICU 在室中に人
+工呼吸器を装着した患者の割合の中央値は 37.6 [25.2-52.4] %であり、 血液浄化療
+法を実施した患者の割合の中央値は 8.0 [4.8-11.8]%であった。特定集中治療室管
+理料 1 または 2 を算定する ICU2 病床あたりの看護師配置数の中央値は、 平日の
+日勤で 2.0 名、土日祝日の日勤で 1.5 名、夜勤では平日、休日のいずれも 1.0 名
+であった。 これはあくまでICU2 病床あたりの看護師数であり、ICU 患者 2 名に
+対する看護師数はより多いことになる。 
+これまで我が国の ICU 病床の配置（対象病院、病床数）は、必ずしも計画的
+に行われたわけではなく、結果として人口あたりの ICU 病床数の都道府県格差
+は大きくなっている[4]。また、施設の有する集中治療に精通した医師や看護師
+数、ICU を支えるメディカルスタッフ数などの医療資源 の配置状況も多様であ
+る。 
+ 
+３．診療報酬上の ICU 対象患者 
+ 診療報酬上の A301 特定集中治療室管理料に係る集中治療室の対象患者は、 患
+者の病態、および行なったモニタリング・処置等の 2 つの観点から規定されて
+いる。 
+ 患者の病態については、特定集中治療室管理料がはじめて診療報酬として算
+定可能となった 1978 年から約半世紀にわたり、ほとんど変更されていない[5]。
+2022 年度診療報酬改定における、特定集中治療室管理料の算定対象となる患者
+の病態を表 2 に示す[6]。なお、表 2 で示した特定集中治療管理料の算定対象患
+者の病態は、A300 救命救急入院料および A300-2 ハイケアユニット入院医療管
+理料も同様である。 
+ 行なったモニタリング・処置等については、 「特定集中治療室用の重症度、医
+療・看護必要度に係る評価票」を用いて評価される（表3）[7]。A 項目（モニタ
+リング及び処置等）と B 項目（患者の状況等）があり、2022 年の診療報酬改定
+以降、集中治療室に入室した患者のうち表 3 の A 得点 3 点以上を満たす患者が
+一定の割合 （特定集中治療管理料1 および 2 の算定には、 重症度、 医療・看護必
+[[p8]]
+ 8 
+要度Ⅰで評価した場合 8 割、 重症度、 医療・看護必要度Ⅱで評価した場合7 割）
+以上でないと、当該の治療室において特定集中治療管理料を算定することはで
+きない。なお、2022 年度診療報酬改定では B 項目は引き続き評価を行うものの
+算定要件からは除外された。 
+ 
+４．ICU の国際比較 
+ICU で提供される医療の structure・process・outcome は、先進国間で大きく異
+なっていることが報告されている[8]。ICU の国際比較は、日本の ICU の客観的
+な評価を可能とし、 質の改善に繋がるため継続的に実施される必要がある。 国際
+比較を可能とするためには、政府統計資料の活用や National ICU レジストリの
+構築が必要であり、日本集中治療医学会の運営する ICU 患者データベースであ
+る JIPAD (Japanese Intensive care PAtient Database)事業の発展が望まれる[9]。 
+日本の人口 10 万人当たりの ICU 病床数は 5.6 床であり[2]、 ドイツ33.9 床、 ア
+メリカ 25.8 床、フランス 16.3 床、イギリス 10.5 床、オーストラリア 9.4 床、イ
+タリア 8.6 床など[10]、 他の先進国と比較すると相対的に少ない。ICU や HCU の
+看護師配置モデルも国によって異なる。日本では、患者対看護師比は ICU で 2
+対 1 以上、中間ユニットで 3-5 対 1 以上が診療報酬上の設置基準となっている。
+一方で、アメリカにおける患者対看護師比は、侵襲的人工呼吸を要する ICU 患
+者で 1 対 1 以上、それ以外の ICU 患者で 2 対 1 以上、中間ユニット患者で 3 対
+1 以上が推奨されている[11]。イギリスにおける患者対看護師比は、ICU で 1 対
+1 以上、中間ユニットで 2 対 1 以上と公的保険医療制度で定義されており[12]、
+両国とも我が国の看護師配置よりも手厚い。 
+日本の JIPAD[9]の 2020 年度の患者背景と転帰を、National ICU レジストリで
+あるイギリスの ICNARC (Intensive Care National Audit & Research Centre) [13]、オ
+ーストラリア・ニュージーランドの ANZICS CORE (Australian and New Zealand 
+Intensive Care Society Centre for Outcome and Resource Evaluation) [ 14]と比較した
+（表 4）。JIPAD の患者は、ICNARC や ANZICS CORE の患者と比較して中央値
+で約 5 歳高齢であった。JIPAD では予定手術後の ICU 入室が 56.0%をしめるの
+に対し、ICNARC と ANZICS CORE ではそれぞれ 21.9%、36.6%であった。 逆に、
+[[p9]]
+ 9 
+JIPAD では非手術 ICU 入室が 31.4%に過ぎないのに対し、ICNARC と ANZICS 
+CORE ではそれぞれ 59.1%、47.5%であった。ICU での人工呼吸器装着の割合は
+JIPAD で 39.7%に対し、ICNARC と ANZICS CORE ではそれぞれ 39.5%、33.6%
+と大差なかった。大幅に異なるケースミックスのため、APACHE II や ICU 死亡
+率 ・ 院内死亡率を単純に比較することは困難である。 ケースミックスを調整した
+転帰の比較など、National ICU レジストリを活用した今後の国際共同研究が期待
+される。 
+ 
+５．諸外国の ICU 入退室指針 
+これまで示してきたように、国により ICU の事情は異なるため、これを反映
+して入退室指針の内容も異なる。 ここでは、 参考までにアメリカ、 およびイギリ
+スの ICU入退室指針について解説する。 
+１）アメリカの ICU 入退室指針 
+アメリカ集中治療医学会は、ICU 入退室指針である 「ICU 入室、 退室、 トリア
+ージのガイドライン」[11]を、2016 年に改訂している。 このガイドラインによれ
+ば、施設ごとに ICU の規模や治療能力などの限界を考慮し、入退室基準を作成
+することを提案している。転帰を改善しつつ医療資源配分を最適化するために、
+①ICU でのみ施行可能な生命維持療法などの治療、②利用可能な臨床的専門知
+識、③患者状態に応じた優先順位、④診断、⑤ベッドの空き状況、⑥入室判断時
+のバイタルサイン、⑦介入により患者が利益を得られる可能性、⑧予後の各要素
+を組み合わせて、自施設の ICU 入室指針を作成するとしている。 
+前述のようにアメリカの ICU の患者対看護師比は 1 対 1 ないし 2 対 1 以上で
+あり、中間ユニットは 3 対 1 以上と規定される。ICU 入室患者は臓器不全に対
+す る 生 命 維 持 治 療 が 行 わ れ て い る こ と を 原 則 と し 、 人 工 呼 吸 、ECMO 
+(Extracorporeal Membrane Oxygenation)、IABP (Intraaortic Balloon Pumping)、LV AD 
+(Left Ventricular Assist Device)などの循環補助、持続的腎代替療法、頭蓋内圧上昇
+による脳脊髄液ドレナージ、 昇圧薬投与を要する患者はICU の適応としている。
+一方、 非侵襲的人工呼吸や、 薬剤持続投与のうち血管拡張薬や抗不整脈薬は、 中
+間ユニットの適応としている。 施設に該当ユニットが存在しない場合には、 上位
+[[p10]]
+ 10 
+のユニットに入室させる。集中治療は希望するが DNAR(Do not attempt 
+resuscitation)指示を有する患者や、著しく回復の見込みの低い患者は、入室の優
+先度が下がるとしている。 
+患者の状態が安定し、ICU での観察や治療の必要性がなくなった場合、ICU よ
+りレベルの低いユニットへ退室させることが適切である。各施設における ICU
+の入室基準、 次に低いレベルの病棟の入室基準、 これらの医療資源の利用可能性、
+患者の予後、 生理学的安定性、 継続的な治療介入に基づき、ICU 退室基準を作成
+することを提案している。重症度スコアは、 状態の悪化する可能性のある患者を
+同定することは可能であるが、重症度スコアのみに基づいてより低いレベルの
+病棟へ移動させることは控えるとしている。ICU 退室時間は、夜間を避けること
+を推奨している。 死亡や再入室のリスクが高い （高い疾患重症度、 複数の併存疾
+患、 生理学的不安定性、 臓器補助継続中など） 患者を、 一般病棟ではなく中間ユ
+ニットや Long-term acute care hospital に退室・転院させることを推奨している。 
+２）イギリスにおける ICU 入室基準 
+イギリス集中治療医学会は、2021 年に ICU 入室基準を改訂している[15]。前
+述のようにイギリスの ICU の患者対看護師比は 1 対 1 以上であり、中間ユニッ
+トは 2 対 1 以上と規定される。 
+ICU では、 高度なサポートを要する人工呼吸患者、 あるいは基本的な呼吸サポ
+ートを要し少なくとも複数の臓器不全がある患者を収容することを想定してい
+る。 具体的な患者像としては、 ショックや呼吸不全を伴う敗血症、 急性冠症候群
+や心不全など循環器緊急疾患、 心停止後症候群、 急性呼吸不全や慢性呼吸不全の
+急性増悪、 急性腎障害、 内分泌緊急疾患、 急性肝不全、 神経緊急疾患、 大量出血
+などの病態の組み合わせを挙げている。 
+中間ユニットでは、厳重な観察や単臓器不全に対する治療介入を要する患者、
+リスクの高い術後患者、ICU からステップダウンする患者を収容することを想
+定している。 具体的な患者像としては、 非侵襲的人工呼吸や高流量経鼻酸素療法、
+動脈圧や中心静脈圧モニタリング、 頻回な血液ガス分析、1 種類の低用量血管作
+動薬の使用を要する患者などを挙げている。 
+本ステートメントにおいて、具体的な ICU 退出基準についての言及はない。 
+[[p11]]
+ 11 
+参考文献 
+PM?集中治療とは．日本集中治療医学会広報委員会．?
+https://www.jsicm.org/provider/icm.html 
+2. 厚生労働省. 令和２年度病床機能報告の結果. 
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/open_data_00007.html 
+3. 2021 年度集中治療専門医研修施設調査報告． 
+https://www.jsicm.org/publication/pdf/2021_20230222_JSICM_sksch.pdf  
+4. 日本集中治療医学会 各都道府県別 ICU および ICU に準ずる治療室のベッ
+ド数 
+https://www.jsicm.org/news/upload/icu_hcu_beds2022.pdf  
+5. 天羽敬祐. 集中治療部（ICU）の源流. 日集中医誌. 2015;22:491-493. 
+6. 医科診療報酬点数表に関する事項．
+https://www.mhlw.go.jp/content/12404000/000984041.pdf 
+7. 基本診療料の施設基準等及びその届出に関する手続きの取り扱いについて．
+https://www.mhlw.go.jp/content/12404000/000984045.pdf 
+8. Shime N. Clinical and investigative critical care medicine in Japan. Intensive Care 
+Med. 2016;42:453-455. 
+9. JIPAD. JIPAD（日本 ICU 患者データベース、Japanese Intensive care PAtient 
+Database）. https://www.jipad.org/ 
+10. OECD. Intensive care beds capacity.  
+https://www.oecd.org/coronavirus/en/data-insights/intensive-care-beds-capacity 
+11. Nates JL, Nunnally M, Kleinpell R, et al. ICU admission, discharge, and triage 
+guidelines: A framework to enhance clinical operations, development of 
+institutional policies, and further research. Crit Care Med. 2016;44:1553-1602. 
+12. The intensive care society. Levels of adult critical care. 
+https://www.ics.ac.uk/Society/Patients_and_Relatives/Levels_of_Care 
+13. ICNARC (Intensive Care National Audit & Research Centre). Key statistics from 
+the case mix programme: adult, general critical care units. 
+[[p12]]
+ 12 
+14. ANZICS (Australian and New Zealand Intensive Care Society). Centre for 
+Outcome and Resource Evaluation 2020 Report.  
+https://www.anzics.com.au/wp-content/uploads/2021/09/2020-ANZICS-CORE-
+Report.pdf 
+15. Stretch, B.; Shepherd, S.J. Criteria for intensive care unit admission and severity of 
+illness. Surgery, 2021; 39: 22-28. 
+  
+[[p13]]
+ 13 
+Ⅲ．本指針の目的 
+タスクフォースでは本指針の作成にあたり、人口あたりの ICU 病床数の地域
+格差が大きく、 施設の有する集中治療に関連した医療資源が異なる中で、ICU 入
+退室の絶対的基準を設けることは現時点では困難と考えた。 
+本指針の最大の目的は、ICU の対象となる患者を選別する考え方を明確にす
+ることである。ICU 入室及び退室の考え方に加え、 災害・パンデミック時などの
+医療逼迫時の ICU 入室の考え方についても言及した。本指針の考え方、および
+各施設のおかれた現状を合わせ、 施設毎にICU 入退室基準を作成いただきたい。 
+  
+  
+[[p14]]
+ 14 
+Ⅳ．指針の表現 
+ 本指針は，重症患者治療用病床の中でも成人を中心とした ICU を想定して
+作成された。したがって，以降本指針内で対象とする ICU は、とくにことわら
+ない場合は、患者対看護師比が常時 2 対 1 以上を必要とする特定集中治療室管
+理料、および救命救急入院料 2 もしくは 4 の算定を認められた治療室とする。
+なお、 ハイケアユニット入院医療管理料、 救命救急入院料1 もしくは 3、 脳卒中
+ケアユニット入院医療管理料などの算定を認められた主に成人の ICU に準ずる
+治療室は中間ユニットと定義し、本指針の直接の対象とはしない。 
+ 本指針における述語の表現として、3 段階の表現を用いた。ICU 入退室にあた
+り必須と考えられる場合には「A：べきである、必要がある」と断定的表現を用
+いた。必須ではないが望まれる場合には「B：望ましい」と表現した。努力目標
+と考えられる場合には「C：考慮する」と表現した。 
+ 
+  
+[[p15]]
+ 15 
+Ⅴ．指針 
+A：ICU 入退室の考え方 
+１．はじめに 
+本指針では、ICU 入退室を判断する要素として、提供する治療・ケア、患者因
+子、施設の有する医療資源、 地域の集中治療関連の医療資源、 手術について言及
+した。これらの情報をもとに、 可及的に正確な病態把握と予後予測を行い、集中
+治療を受ける意義の大きい患者を選別すべきである。一方で、 たとえ重症度が高
+くてもこれ以上の治療効果は望めないと予測される患者の ICU 入室は控えるこ
+とが望ましい。ただし、脳死下臓器移植のドナーとなる可能性のある患者につい
+ては、移植についての方針が定まるまでは ICU で管理することが望ましい。ま
+た、 集中治療の利益と不利益について、患者やその家族に患者背景にも配慮した
+十分なわかりやすい説明を行う必要がある。ICU に入室し治療を受けることの
+意味を理解した上で、ときに苦痛を伴うこのような集学的治療を希望しない場
+合は、 入室の対象とすべきではない。ICU 入退室に関わるこれらの要素を考慮し
+た最終的な入退室の判断は、各診療科 や患者との利害関係のない集中治療に精
+通した集中治療科医が行うべきである。 
+ 
+２．提供する治療・ケアの因子 
+ICU で提供する主な治療・ケアは、人工呼吸器や ECMO などの生命維持装置
+による臓器サポート、昇圧薬などの薬剤持続投与によるサポート、およびバイタ
+ルサインなどの厳重なモニタリングに大きく分類される。これらについて、ICU
+でなければ実施困難な治療・ケア、 中間ユニットでも実施可能な治療・ケアにつ
+いて以下に言及した。 複数の臓器サポートやモニタリングが必要な場合には、
+ICU で管理する推奨度が上がる。 
+１） 人工臓器によるサポート 
+IABP、ECMO、補助循環用ポンプカテーテル（IMPELLA）、VAD などの重症
+[[p16]]
+ 16 
+心不全に対する循環サポートを必要とする患者は、ICU で管理した方が中間ユ
+ニットにおける管理よりもアウトカムが良いことが示唆されているため [1, 2] 、
+原則的に ICU で管理 すべきである 。また、 ARDS（Acute Respiratory Distress 
+Syndrome）をはじめとした重症呼吸不全に対する人工呼吸については、ICU に
+おける集学的な治療効果が認められるため[3, 4]、少なくとも急性期には ICU で
+管理すべきである。これらの生命維持装置を安全かつ適切に維持 ・ 管理するには、
+専門的な技術や知識を有する医師、 看護師、 臨床工学技士など多職種チームの関
+与が必要である。 さらには、日常的な看護ケアに加えて多数の観察項目や頻回の
+検査など業務量が膨大となるため、十分な看護配置を有する ICU での管理が適
+切である。 病態の改善が得られ、ICU 管理を継続しても病態が不変であることが
+想定される患者で、人工呼吸器や 血液浄化療法といった単一臓器のみのサポー
+トが長期間必要な場合は、ICU から退室し中間ユニットや一般病棟での管理を
+考慮する。 
+２） 薬剤持続投与 
+昇圧薬や強心薬などの 薬剤持続投与による循環サポートを必要とする患者は、
+ICU で管理した方が中間ユニットにおける管理よりもアウトカムが良いことが
+示唆されているため[1, 2, 5]、原則的に ICU で管理すべきである。これらの患者
+では、時々刻々と変化する患者の病態に合わせて薬剤 投与量を頻回に調節する
+必要があり、薬剤の効果をモニタリングするために血行動態の厳重な観察 が必
+要となる。 
+３） バイタルサインなどのモニタリング 
+重篤な心疾患や頭蓋内疾患を有する 患者、呼吸循環器系などに 重篤な併存疾
+患のある術後患者などで、肺動脈圧、 心拍出量、 頭蓋内圧等の測定や体温管理療
+法など、厳重なモニタリングを要する患者は原則的に ICU で管理すべきである。
+一方、人工臓器サポートや心血管作動薬などの薬剤持続投与を行わない動脈圧、
+中心静脈圧のモニタリング患者、脳神経所見や電解質 ・ 血糖など短期間に頻回の
+観察を要する患者等については、ICU で観察するメリットが明確に示されてお
+らず[1, 2]、中間ユニットで管理することも考慮する。 
+  
+[[p17]]
+ 17 
+参考文献 
+PM?n?gK?l?gK?x?gM?h????L???
+for patients with acute heart failure: a nationwide propensity score -matched cohort 
+study. J Intensive Care. 2021;9:78. 
+2. Ohbe H, Matsui H, Yasunaga H. ICU versus high-dependency care unit for patients 
+with acute myocardial infarction: A nationwide propensity score -matched cohort 
+study. Crit Care Med. 2022;50:977–985. 
+3. Iwashita Y , Yamashita K, Ikai H, et al. Epidemiology of mechanically ventilated 
+patients treated in ICU and non-ICU settings in Japan: a retrospective database study. 
+Crit Care. 2018;22:329. 
+4. Ohbe H, Sasabuchi Y , Yamana H, et al. Intensive care unit versus high-dependency 
+care unit for mechanically ventilated patients with pneumonia: a nationwide 
+comparative effectiveness study. Lancet Reg Health West Pac. 2021;13:100185. 
+5. Endo K, Mizuno K, Seki T, et al. Intensive care unit versus high -dependency care 
+unit admission on mortality in patients with septic shock: A retrospective cohort study 
+using Japanese claims data. J Intensive Care. 2022;10:35. 
+  
+[[p18]]
+ 18 
+３．患者因子 
+ICU への入室は、 患者価値観と患者因子 （重症度スコア、 年齢、 併存疾患、ADL
+など） の両面から総合的に判断する。 生存の可能性だけでなく、 長期予後やICU
+退室後の生活の質（QOL: Quality of Life）をも含めて判断する必要がある。ICU
+入室の判断は公正であるべきで、 人種、 ⺠族、 性別、 社会的地位、 財力に基づく
+ものであってはならない。 
+１）患者価値観 
+集中治療を受ける利益と潜在的な有害性については、 患者の社会状況、 希望、
+信念、 価値観に照らして解釈する必要がある。 特に重症患者の場合、 患者の希望
+や価値観を表出できないことも多 いため、意思決定 支援は臨床的にも倫理的に
+も非常に困難な課題である。ICU 入室に関する意思決定支援において患者本人
+の希望を反映させるのが困難である場合、家族などから患者の 価値観や推定意
+思を収集し、 最大限に尊重することは医療従事者の責務である。これらも不明な
+場合には、 医療チームの意思決定支援のもとに家族と方針を決定する。家族など
+の身寄りがない場合には、医療チームが ICU 入室について総合的に判断する。 
+２）重症度スコア 
+客観的な重症度スコア（SOFA スコアや APACHE スコアなど）も ICU 入室の
+判断の参考となる。敗血症患者の入院時点での SOFA スコアが 6 点以上の患者
+では ICU もしくは中間ユニットでの管理が一般病床での管理よりも予後が良く、
+SOFA スコアが 12 点以上の患者では ICU での管理が中間ユニットの管理よりも
+予後が良かったという日本における観察研究がある[1]。一方、重症度スコアに
+おける予測死亡率が 80%を超えても実際に死亡した患者はそのうちの 30%に満
+たなかったという報告も複数ある[2, 3]。医師や看護師の ICU 患者の生存の見込
+みについての判断は、重症度スコアよりも正確で あることを示唆する 報告もあ
+る[4, 5]。また、重症度スコアは ICU 退室後の長期予後や QOL を考慮に入れて
+いないことも課題である[6]。このように、重症度スコア単独で個々の患者の予
+後を予測することには限界があるため、ICU 入室判断の一つの要素として 利用
+することが望ましい。 
+[[p19]]
+ 19 
+３）年齢 
+過去の研究で、 高齢者は若年者と比較してICU に入室する可能性が低い一方、
+ICU を利用した場合の生存率を高める効果が大きいことが明らかとなっている
+[7]。年齢のみで ICU 入室を制限せず、患者の併存疾患、対象となる病態の重症
+度、入室前の ADL、および生命維持に関する患者意志等に基づいて総合的に判
+断することが望ましい。 
+４）併存疾患 
+重篤な心機能や呼吸機能の低下などの重要臓器の併存疾患を有する患者は、
+生理学的な脆弱性があり厳重なモニタリングを要することが多いため、 ICU で
+管理することを考慮する。一方、特定の併存疾患を理由に ICU 入室を制限すべ
+きではない。過去の研究で、癌や COPD の患者は予後不良と誤って認識され、
+適切な集中治療を受ける機会が減少していたことが明らかとなっている[8, 9]。
+進行性の癌患者における ICU 入室の判断は患者の長期予後を慎重に考慮して決
+定し、定期的に ICU 入室の再評価が必要である。 
+ 
+参考文献 
+PM?n?gK?r?x?K?c?jK??M?`???????
+in-hospital mortality in patients hospitalized for sepsis stratified by sequential organ 
+failure assessment scores. Crit Care Med. 2023;51:1138-1147. 
+2. Christian MD, Joynt GM, Hick JL, et al; European Society of Intensive Care 
+Medicine’s Task Force for intensive care unit triage during an influenza epidemic or 
+mass disaster: Chapter 7. Critical care triage. Recommendations and standard 
+operating procedures for intensive care unit and hospital preparations for an influenza 
+epidemic or mass disaster. Intensive Care Med 2010; 36(Suppl 1):S55–S64  
+3. Shahpori R, Stelfox HT, Doig CJ, et al: Sequential Organ Failure Assessment in 
+H1N1 pandemic planning. Crit Care Med 2011; 39:827-832 
+4. Sinuff T, Adhikari NK, Cook DJ, Schünemann HJ, Griffith LE, Rocker G, Walter SD. 
+Mortality predictions in the intensive care unit: comparing physicians with scoring 
+systems. Crit Care Med. 2006;34:878-85. 
+[[p20]]
+ 20 
+5. Detsky ME, Harhay MO, Bayard DF, Delman AM, Buehler AE, Kent SA, Ciuffetelli 
+IV , Cooney E, Gabler NB, Ratcliffe SJ, Mikkelsen ME, Halpern SD. Discriminative 
+Accuracy of Physician and Nurse Predictions for Survival and Functional Outcomes 
+6 Months After an ICU Admission. JAMA. 2017;317:2187-2195. 
+6. Nates JL, Nunnally M, Kleinpell R, et al. ICU Admission, Discharge, and Triage 
+Guidelines: A Framework to Enhance Clinical Operations, Development of 
+Institutional Policies, and Further Research. Crit Care Med. 2016;44:1553-1602. 
+7. Sprung CL, Artigas A, Kesecioglu J, et al. The Eldicus prospective, observational 
+study of triage decision making in European intensive care units. Part II: intensive 
+care benefit for the elderly. Crit Care Med. 2012;40:132-138. 
+8. Wildman MJ, Sanderson C, Groves J, et al. Implications of prognostic pessimism in 
+patients with chronic obstructive pulmonary disease (COPD) or asthma admitted to 
+intensive care in the UK within the COPD and asthma outcome study (CAOS): 
+multicentre observational cohort study. BMJ. 2007;335:1132. 
+9. Reignier J, Dumont R, Katsahian S, et al. Patient -related factors and circumstances 
+surrounding decisions to forego life -sustaining treatment, including intensive care 
+unit admission refusal. Crit Care Med. 2008;36:2076-2083. 
+  
+[[p21]]
+ 21 
+４．施設の有する医療資源 
+ICU への入室は、各施設の持つ医療資源、すなわち ICU 病床数、中間ユニッ
+トの有無、人員配置、高度な医療機器・治療の提供体制などの影響を受ける。 
+１）ICU 病床数 
+ICU 病床数は、ICU 入退室に影響を与える。我が国で ICU を有する病院の総
+病床数に占める ICU 病床数は 1～2％程度と言われている[1]。手術件数やその種
+類、 救急医療体制など施設の医療提供の状況と ICU 病床数との兼ね合いにより、
+ICU 入退室の基準は変化しうる。 
+２）中間ユニットの有無 
+同様に、施設内の中間ユニットの有無も、ICU 入退室に影響を与える。看護師
+配置基準の差により ICU と一般病棟のケアの質と量の差はきわめて大きく、中
+間ユニットを利用することで患者の安全を保ちつつ ICU 滞在期間を短縮できる
+[2, 3]。このように中間ユニットの有無や使い方により ICU 入退室の基準も変化
+しうるため、自施設に 中間ユニットを有する場合には中間ユニットの対象患者
+についても入退室基準を作成する必要がある。 
+３）高度なモニタリング・治療 
+人工呼吸器は全ての ICU に備えるべき生命維持装置であるが[4]、重症心不全
+に対する肺動脈カテーテルなどの高度なモニタリングや ECMO、IABP などの治
+療機器、重症頭蓋内疾患に対する ICP モニタリングや体温管理システムなどの
+治療機器の保有状況には施設 間格差が存在する。 自施設で提供できない高度な
+モニタリング・治療を要する患者は、診療機能の整備された ICU に医療圏毎に
+集約化することが望ましい。このため、ICU を有する近隣医療機関同士は、 平時
+より ICU で提供可能な高度な治療について情報を共有しておくことが望ましい。 
+４）マンパワー 
+集中治療科医が ICU において専従勤務していることが、患者死亡率の低下に
+関連しているとする国内外の研究がある[5, 6]。イギリスでは患者 7.5 人に対し 1
+人以上の集中治療科医の配置 が死亡率の改善に関連していたとする研究がある
+[[p22]]
+ 22 
+[7]。また、ICU における手厚い看護師配置は患者の死亡率低下をはじめとする
+多くの患者アウトカムの改善と有意に関連することが示されている [8, 9]。本邦
+の診療報酬上の特定集中治療室管理料は、2 階層に層別化されており、経験豊富
+な医師、看護師のユニット 内配置と臨床工学技士の院内常駐を施設基準とする
+上位管理料（特定集中治療室管理料 1 ないし 2）を算定する患者は、 同管理料の
+3 ないし 4 を算定する患者よりも転帰が良好な可能性が示唆されている[10]。多
+臓器不全等により複数の 生命維持治療を必要とする 重篤な患者は、特定集中治
+療室管理料 1 ないし 2 を算定する施設などマンパワーの充実する ICU に医療圏
+毎に集約化することが望ましい。今後は、遠隔 ICU などの ICT 技術を用いたシ
+ステム構築が集約化の補助となる可能性がある。 
+ 
+参考文献 
+PM?内野滋彦．わが国の集中治療室は適正利用されているのか．?日集中医誌?．
+2010;17:141-144. 
+2. Boots R, Lipman J. High dependency units: Issues to consider in their planning. 
+Anaesth Intensive Care. 2002;30:348-54. 
+3. Prin M, Wunsch H. The role of stepdown beds in hospital care. Am J Respir Crit Care 
+Med. 2014;190:1210-6. 
+4. 土井松幸、浅賀健彦、板垣大雅、他．集中治療部設置のための指針．日集中
+医誌．2022;29:467-84. 
+5. Ogura T, Nakamura Y , Takahashi K, et al . Treatment of patients with sepsis in a 
+closed intensive care unit is associated with improved survival: a nationwide 
+observational study in Japan. J Intensive Care. 2018;6:57. 
+6. Wilcox ME, Chong CA, Niven DJ, et al . Do intensivist staffing patterns influence 
+hospital mortality following ICU admission ? A systematic review and meta-analyses. 
+Crit Care Med. 2013;41:2253-74. 
+7. Gershengorn HB, Harrison DA, Garland A, et al. Association of Intensive Care Unit 
+Patient-to-Intensivist Ratios With Hospital Mortality. JAMA Intern Med. 
+2017;177:388-396.   
+[[p23]]
+ 23 
+8. Kane RL, Shamliyan TA, Mueller C, et al. The association of registered nurse 
+staffing levels and patient outcomes: Systematic review and meta-analysis. Med 
+Care. 2007;45:1195-204. 
+9. Driscoll A, Grant MJ, Carroll D, et al. The effect of nurse-to-patient ratios on nurse-
+sensitive patient outcomes in acute specialist units: A systematic review and meta -
+analysis. Eur J Cardiovasc Nurs. 2018;17:6-22. 
+10. Ohbe H, Sasabuchi Y , Matsui Y , et al. Resource-rich Intensive Care Units vs. 
+Standard Intensive Care Units on Patient Mortality: A Nationwide Inpatient Database 
+Study. JMA J 2021;4:397-404. 
+ 
+  
+[[p24]]
+ 24 
+５．地域の集中治療関連の医療資源 
+人口10万人あたりのICU病床数は、全国平均として5.6 床であるが、その地
+域差は大きく、約8倍の都道府県格差があるのが現状である（図1）[1]。人口10
+万人あたりのICU病床数がもっとも多い都道府県は岡山県（11.7床）、次いで沖
+縄県（9.6床）であり、もっとも少ない都道府県は新潟県（1.5床）、次いで三重
+県（2.5床）である。人口あたりのICU病床数の多寡によって、ICUに入室する
+患者の重症度や基準が影響をうけることは必然である。施設毎にICU入退室指
+針を作成する際には、施設の存在する地域の集中治療関連の医療提供体制を念
+頭において作成する必要がある。 
+ 
+参考文献 
+1. 各都道府県別ICUおよびICUに準ずる治療室のベッド数．一般社団法人日本
+集中治療医学会．2022年12月29日更新． 
+https://www.jsicm.org/news/upload/icu_hcu_beds2022.pdf 
+  
+[[p25]]
+?QT?
+６．手術患者 
+大手術後の合併症の発生は、長期生存に影響を及ぼす重要な因子であ る[1]。
+術後患者の集中治療管理は、生理学的状態を安定させ有害事象の発生を未然に
+防ぐことを主な目的としている。また、 術後患者は常に出血のリスクがあり、 ド
+レーンの排液量など観察項目が多く、マンパワーを要することも ICU 入室の理
+由となっている。ICU 入室にあたり考慮すべき要素は、人工臓器によるサポー
+ト、 薬剤持続投与、 厳重なモニタリング、術前の併存疾患などの患者因子など、
+これまでに述べてきた ものと基本的には変わらない。本邦でも広く使われてい
+る、 麻酔科医による術前評価であるASA-PS（American Society of Anesthesiologists 
+physical status）分類が、ICU 入室と関連していたとする報告がある[1]。脳死下臓
+器移植患者を除けば 5 段階の状態に分類される（数字が大きいほど状態が悪い）
+が、このうち予定手術における PSⅢの患者は PSⅠの患者に比べ ICU 入室のオ
+ッズ比が 13.97 であった。 
+手術患者に特徴的な考慮すべき要素として、 手術部位、 手術侵襲の大きさ、出
+血量などの手術因子が挙げられる。欧州外科連合は、大手術の要素として術中の
+臓器虚血（血管遮断等） 、大量出血（1000ml 以上） 、長時間手術（概ね４時間以
+上） 、高容量ノルアドレナリン（10µg/min 以上）使用、周術期輸血を挙げている 
+[2]。一方、 術式の観点からは、 中枢神経・中枢血管系、 心臓・大血管系の手術、
+末梢血管の塞栓除去術は年齢にかかわらず死亡率が高く高リスクと考えられて
+いる[3]。同様の術式でも待機手術に比べ緊急手術は死亡率が高まりハイリスク
+とされる[4-6]。 
+しかし、いかなる予定手術患者を術後 ICU に直接入室させるべきかに関して
+コンセンサスはなく、さらには術後 ICU に入室させる効果についてもこれまで
+にエビデンスは示されていない[7]。例えば、予定非心臓手術後の ICU 利用状況
+を調査したカナダの多施設観察研究において、術式により ICU 入室率が多様で
+あるのみならず、同一術式においても ICU 入室率はかなりの施設間格差（子宮
+全摘術 0.07-14.4%、 下部消化管切除術1.3-95%、 腹部大動脈瘤切除術1.3-95.2%）
+が存在することが報告された[8]。アメリカの Medicare のデータベースを用いた
+研究では、 高リスクと定義した5 つの予定大手術（腹部大動脈瘤血管内手術、 胆
+[[p26]]
+ 26 
+嚢摘出術、 膵頭十二指腸切除術、 食道切除術、 腹部大動脈瘤開腹手術）の各施設
+の術後 ICU 入室率と死亡率に関連を認めなかった[9]。 また、27 カ国 474 施設で
+実施された多施設観察研究においても、予定手術後の ICU 入室と術後死亡率に
+有意な相関を認めなかった[10]。日本の DPC データを用いた観察研究において
+も、予定非心臓手術患者の ICU 入室による死亡率改善効果を示すことはできな
+かった[11]。 
+予定手術患者においては、これまでに述べてきた ICU 入退室を判断する複数
+の要素に加え、 手術の侵襲度や術後観察項目などの要素を総合的に評価し、中間
+ユニットの活用も考慮した上で ICU 入室の対象患者を施設毎に定義する必要が
+ある。緊急手術については同一術式でも死亡リスクが高くなることに留意し ICU
+入室を判断すべきである。予定手術患者の ICU 入室の適応については、我が国
+でも今後のエビデンスの蓄積とさらなる検討が必要である。 
+ 
+参考文献 
+PM?k?xbK?b?xbK?x?bgK??M?r?`??????
+postoperative ICU admission. Sci Rep. 2021;11:115. 
+2. Martin D, Mantziari S, Demartines N et al. Defining Major Surgery: A Delphi 
+Consensus Among European Surgical Association (ESA) Members.  World J Surg. 
+2020;44:2211-2219. 
+3. Schwarze ML, Barnato AE, Rathouz PJ, et al. Development of a list of high-risk 
+operations for patients 65 years and older. JAMA Surg. 2015;150:325-331. 
+4. Schwarze ML, Bar nato AE, Rathouz PJ,  et al. Development of a list of high risk 
+operations for Patients 65 years and older. JAMA Surg. 2015;150:325–331. 
+5. Mullen MG, Michaels AD, Mehaffey JH, et al. Risk associated with complications 
+and mortality after urgent surgery vs elective and emergency surgery: Implications 
+for defining “quality” and reporting outcomes for urgent surgery. JAMA Surg. 
+2017;152:768-774. 
+6. Johnson KM, Newman KL, Green PK, et al. Incidence and risk factors of 
+postoperative mortality and morbidity after elective versus emergent abdominal 
+[[p27]]
+ 27 
+surgery in a national sample of 8193 patients with cirrhosis. Ann Surg. 
+2021;274:e345-e354. 
+7. Zampieri FG, Lone NI, Bagshaw SM.  Admission to intensive care unit after major 
+surgery. Intensive Care Med. 2023;49:575-578. 
+8. Jerath A, Laupacis A, Austin PC, et al.  Intensive care utilization following major 
+noncardiac surgical procedures in Ontario, Canada: a population -based study.  
+Intensive Care Med. 2018;44:1427-1435. 
+9. Wunsch H, Gershengorn HB, Cooke CR,  et al. Use of Intensive Care Services for 
+Medicare Beneficiaries Undergoing Major Surgical Procedures. Anesthesiology. 
+2016;124:899-907. 
+10. Kahan BC, Koulenti D, Arvaniti K,  et al. Critical care admission following elective 
+surgery was not associated with survival benefit: prospective analysis of data from 
+27 countries. Intensive Care Med. 2017;43:971-979. 
+11. Ohbe H, Matsui H, Kumazawa R, et al. (2022). Postoperative ICU admission 
+following major elective surgery: A nationwide inpatient database study. Eur J 
+Anaesthesiol. 2022;39:436–444. 
+ 
+  
+[[p28]]
+ 28 
+７．ICU退室の考え方 
+ICU 退室は、 患者の予後、 生理学的な安定性、 退室先のケアレベルを鑑み総合
+的に判断する。 早すぎる退室は計画外再入室のリスクとなり、患者転帰を悪化さ
+せる可能性がある。 一方、遅すぎる退室は医療コストの増加を招き、 新規ICU 入
+室に干渉し公平な医療資源の分配を妨げる可能性がある。 各施設は、自施設の置
+かれた状況を把握した上で、ICU 入室基準と同様に退室基準を作成する必要が
+ある。施設内に中間ユニットが存在する場合は、 ステップダウンとして中間ユニ
+ットを経由するか直接一般病棟に退室するかを、 退室先の入室基準、 ケアレベル
+等を鑑みて判断すべきである。退室の判断は客観的に行われる必要があり、 集中
+治療科医を中心とした多職種の意見を反映した判断が望ましい。 
+１）退室の判定 
+ 重症度スコアなど 客観的指標は判断の参考となるが、これのみ で判断するに
+は限界がある。呼吸器系（経皮的酸素飽和度、 呼吸数、 気管切開の有無、気道吸
+引の必要性など）、循環器系（心拍数、血圧、血管作動薬の有無、体液バランス
+など）、中枢神経系、腎代謝系などの臓器システムの評価、疼痛管理、ドレーン
+管理、 投薬・栄養管理、 患者の診断・予後、退室先の入室基準などを参考とする
+[1, 2]。 
+２）退室のタイミング 
+ 日勤帯以外における ICU 退室は、可能な限り避けるべきである。夜間は多く
+の施設で ICU および退室先のいずれもマンパワーなどの医療資源が限られるた
+め、時間外の ICU 退室は、死亡率、再入室率増加の危険因子と考えられている
+[2]。 
+３）計画外再入室 
+ ICU 退室後の計画外再入室の発生頻度は 5-7％程度とされている[3, 4]。 再入室
+は、 病院滞在期間の長期化、 合併症発症率上昇、 死亡率上昇など予後の悪化に関
+連している。再入室の直接的原因は呼吸器系、循環器系の問題が多い[2]。 
+４）治療の限界時の対応 
+[[p29]]
+ 29 
+ ICU で積極的な治療を一旦開始したにもかかわらず状態が悪化し、さらなる
+治療継続の意義が乏しい 状態に移行する患者が存在する 。これ以上の治療を継
+続しても予後の改善や救命が期待できない 状態に移行した患者 は、集中治療の
+中止、ICU 退室と緩和的ケアの強化を含めて生命の尊厳について検討すること
+が望ましい。 
+ 
+参考文献 
+PM?l?gK?l?vK?g?a??M?c?????
+consensus on a set of criteria to evaluate discharge readiness for adult ICU patients 
+to be discharged to a general ward —European perspective. BMC Health Services 
+Research. 2022;22:773-787. 
+2. Nates JL, Nunnally M, Kleinpell R, Blosser S, Goldner J, Birriel B, et al. ICU 
+Admission, Discharge, and Triage Guidelines: A Framework to Enhance Clinical 
+Operations, Development of Institutional Policies, and Further Research. Crit Care 
+Med. 2016;44:1553-602. 
+3. Evan G. Wong, , Ann M. Parker, , Doris G. Leung, et al. Association of severity of 
+illness and intensive care unit readmission: A systematic review . Heart Lung, 
+2016;45:3-9.e2. 
+4. A L Rosenberg, C Watts. Patients readmitted to ICUs* : a systematic review of risk 
+factors and outcomes. Chest, 2000;118:492-502. 
+5. Sin S, Lee SM, Lee J, et al. Characteristics and Outcomes of Potentially Inappropriate 
+Admissions to the Intensive Care Unit. Acute Crit Care. 2019;34:46-52.  
+  
+[[p30]]
+ 30 
+B：災害・パンデミック時の ICU 入退室の考え方 
+ 災害 ・ パンデミック時には多くの重症患者が発生し、 時に集中治療提供体制の
+キャパシティを大きく超えた需要が発生することを想定しなくてはならない。
+大幅な需要供給ミスマッチが生じた場合の ICU 入退室の考え方の基本は、全体
+として最大の効果を得られるように限られた医療資源を分配する「全体最適理
+論」 である[1]。新型コロナウイルス感染症（COVID-19; Coronavirus disease 2019）
+パンデミックによる医療崩壊、特に集中治療 提供体制の破綻が起きた 海外諸国
+からの報告では、人工呼吸器装着患者における救命率は極端に低かったことが
+示されている[2]。これは、集中治療のキャパシティーを超えて重症患者が 発生
+した場合には、全体としての救命率を高めるために、患者の選別（トリアージ）
+の必要性に迫られる状態となり得ることを意味する[1, 3]。 
+日本集中治療医学会に設置された臨床倫理委員会は、COVID-19 の爆発的流行
+時における、 人工呼吸器等の生命維持装置も含めた治療の差し控え ・ 中止につい
+ての提言を行なっている[4]。具体的には、治療の差し控え ・ 中止は個人ではなく
+医療チームの判断とすること、医学的妥当性、 患者の （推定） 意思、 社会的公正
+性など複数因子を考慮すること、 緩和ケアや適切な看護を提供すること、 プロセ
+スについて検証可能な詳細な記録を残すこと、 家族や医療従事者の精神的 ・ 身体
+的ケアを行うことなどが提言されている。 
+我が国の集中治療提供体制にはいくつかの特徴があり、COVID-19 のパンデミ
+ックにおいてその特性が露呈した [5]。その一つが医療資源の分散であり、数少
+ない集中治療科医が少ない 1 施設あたりの ICU 病床数とともに分散して存在し
+ている現状がある[6]。一方で、ECMO や人工呼吸器などの医療機器は比較的十
+分に存在していることも明らかになった[7, 8]。おそらく災害・パンデミック時
+の集中治療提供体制で最も問題となるのは、集中治療に精通したマンパワーの
+不足であろう。日本集中治療医学会では、 パンデミック時などに対応可能なマン
+パワーの養成など、平時より弾力的な集中治療提供体制を意識した体制づくり
+が重要であるとしている[3]。 
+各施設において、自施設の有する ICU 病床数、重症患者に対応可能な医療従
+事者、 医療機器などの集中治療に関わる医療資源を把握し、 災害・ パンデミック
+[[p31]]
+ 31 
+時の体制と手順を整えておくべきである。ICU 入室後のトリアージが必要な状
+況が生じる前に、 施設として重症患者のトリアージ方針を明確にし、 個人ではな
+く医療チームとして施設方針に沿って判断を行うことが望ましい。同時に、災
+害 ・ パンデミック時においては、限られた医療資源を最大限に有効活用するため
+に、地域において医療従事者、医療機器などを集約して効率化を図る概念を共有
+することが望ましい。 
+ 
+参考文献 
+PM?厚生労働科学研究費補助金（新興・再興感染症及び予防接種政策推進研究
+事業） 「新興 ・ 再興感染症のリスク評価と危機管理機能の実装のための研究」
+分担研究班、日本 COVID-19 対策 ECMOnet（日本集中治療医学会、日本呼
+吸療法医学会、日本救急医学会）．COVID-19 急性呼吸不全への人工呼吸管
+理と ECMO 管理：基本的考え方．日集中医誌．2020;27:447-452. 
+2. Richardson S, Hirsch JS, Narasimhan M, et al. Presenting Characteristics, 
+Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID -19 
+in the New York City Area. JAMA. 2020;323(20):2052-2059. 
+3. 日本集中治療医学会 . 我が国の集中治療医療提供体制を強靭化するための
+提言 . 2021 年 9 月 13 日. https://www.jsicm.org/news/upload/JSICM_v3.pdf 
+（2022 年 9 月アクセス） 
+4. 日 本 集 中 治 療 医 学 会 臨 床 倫 理 委 員 会. 新 型 コ ロ ナ ウ イ ル ス 感 染 症
+（coronavirus disease 2019, COVID-19） 流行に際しての医療資源配分の観点か
+らの治療の差し控え・中止についての提言. 日集中医誌 2020;27:509-10. 
+5. Ohbe H, Sasabuchi Y , Matsui H, et al. (2022). Impact of the COVID-19 pandemic on 
+critical care utilization in Japan: a nationwide inpatient database study. J Intensive 
+Care. 2022;10:51. 
+6. 日本集中治療医学会 各都道府県別 ICU および ICU に準ずる治療室のベッ
+ド数 
+https://www.jsicm.org/news/upload/icu_hcu_beds2022.pdf  
+7. 日本呼吸療法医学会、日本集中治療医学会、日本臨床工学技士会． 国内の病
+[[p32]]
+ 32 
+院における人工呼吸器等の取扱台数推計値． 
+https://www.jsicm.org/news/upload/jsicm_info_ventilator_200514.pdf 
+8. 日本呼吸療法医学会、日本臨床工学技士会．人工呼吸器および ECMO 装置
+の取扱台数等に関する緊急調査． 
+https://www.jaam.jp/info/2020/files/info-20200306.pdf 
+ 
+  
+[[p33]]
+ 33 
+Ⅵ．今後の課題と展望 
+ 我が国の人口あたりのICU病床数や集中治療科医数の地域格差は、諸外国と
+比較しても大きいことが明らかになってきた。イギリスの人口あたりのICU病
+床数の地域（州あるいは医療圏）格差はせいぜい2倍である[1]のに比して、我
+が国の都道府県格差は約8倍であり[2]、地域の中間ユニットの病床数と合わせ
+てICU入退室基準に大きく影響する要素と考えられる。将来的に、ICU病床数
+の地域格差が現在より均てん化されれば、より普遍的なICU入退室基準の提言
+も可能となるかもしれない。 
+また、現在の ICU 入退室は、診療報酬上の要件である重症度・医療看護必要
+度（表 3）の A 項目に規定されているのが現実である[3]。この A 項目の大半が
+侵襲的なモニタリングや治療の施行であるため、 その必要性を毎日吟味し、 侵襲
+的なモニタリングや治療の中止を真摯に検討する質の高い施設が診療報酬上の
+恩恵を受けづらい構造にある。質の高い効率的な診療 が患者にとって有益なこ
+とは論を俟たないが、同時に医療施設にとっても有益であるような診療報酬上
+の体系を整備していく必要がある。 
+最後に、我が国の集中治療を取り巻く環境を含む ICU 入退室を判断するため
+の多くの要素を統合し、適切な判断を行える 集中治療科専門医 を育成すること
+が、日本集中治療医学会に課された責務であり、喫緊の課題である。 
+ 
+参考文献 
+PM?f?l`K?o?frK?g?c`K??M?q?????
+provision and outcome after high-risk surgery. Intensive Care Med. 2015;41:1809-
+16. 
+2. 各都道府県別 ICU および ICU に準ずる治療室のベッド数．一般社団法人日
+本集中治療医学会．2022 年 12 月 29 日更新． 
+https://www.jsicm.org/news/upload/icu_hcu_beds2022.pdf 
+3. Ohbe H, Goto T, Matsui H, et al. Associations of government-issued intensive care 
+unit admission criteria with clinical practices, outcomes, and intensive care unit bed 
+occupancy. Ann Am Thorac Soc. 2022;19:1013-1021. 
+[[p34]]
+患者対看護師⽐算定区分病床数ICU2対1特定集中治療室管理料1から458142対1救命救急⼊院料2または410972対1⼩児特定集中治療室管理料104中間ユニット3対1脳卒中ケアユニット⼊院医療管理料14164対1救命救急⼊院料1または352054対1ハイケアユニット⼊院医療管理料160015対1ハイケアユニット⼊院医療管理料2381
+厚⽣労働省．令和2年度病床機能報告の結果．より引⽤https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/open_data_00007.html
+表1我が国の重症患者治療⽤病床
+[[p35]]
+特定集中治療室管理料の算定対象となる患者は、次に掲げる状態にあって、医師が特定集中治療室管理が必要であると認めた者であること。ア意識障害⼜は昏睡イ急性呼吸不全⼜は慢性呼吸不全の急性増悪ウ急性⼼不全（⼼筋梗塞を含む。）エ急性薬物中毒オショックカ重篤な代謝障害（肝不全、腎不全、重症糖尿病等）キ広範囲熱傷ク⼤⼿術後ケ救急蘇⽣後コその他外傷、破傷⾵等で重篤な状態
+表2特定集中治療管理料の算定対象
+出典：＜通知＞診療報酬の算定⽅法の⼀部改正に伴う実施上の留意事項についてより抜粋https://www.mhlw.go.jp/content/12404000/000984041.pdf
+[[p36]]
+表3特定集中治療室⽤の重症度、医療・看護必要度
+出典：基本診療料の施設基準等及びその届出に関する⼿続きの取扱いについて（令和4年3⽉4⽇保医発0304第2号）https://www.mhlw.go.jp/content/12404000/000984045.pdf
+
+[[p37]]
+JIPADICNARCANZICS CORENumber of patients in 202052,238168,803190,094Age, year, median (IQR)70 (57, 78)64 (52, 78)65 (51, 75)Male, n (%)61.8%56.0%56.6%Admission type, n (%)Elective surgery56.0%21.9%36.6%Emergency surgery12.6%19.0%15.9%Non-surgery31.4%59.1%47.5%Mechanical ventilation, n (%)39.7%39.5%33.6%APACHE II, median (IQR)14 (11, 19)15.2 (6.6)＊14 (10, 19)ICU mortality, n (%)3.9%13.9%4.8%In-hospital mortality, n (%)8.7%19.6%7.3%Length of ICU, days, median (IQR)1.3 (0.8, 3.7)2.6 (1.1, 5.4)1.7 (0.9, 3.1)
+表4Comparison of National ICU registries
+JIPAD, Japanese Intensive care PAtientDatabase;ICNARC, Intensive Care National Audit & Research Centre; ANZICS CORE, Australian and New Zealand Intensive Care Society Centre for Outcome and Resource Evaluation; IQR, interquartile range; APACHE, acute physiology and chronic health evaluation; ICU, intensive care unit*mean（standard deviation）
+[[p38]]
+図1︓⼈⼝10万⼈あたりの都道府県別重症系病床数
+05101520253035
+北海道⻘森岩⼿宮城秋⽥⼭形福島茨城栃⽊群⾺埼⽟千葉東京神奈川新潟富⼭⽯川福井⼭梨⻑野岐⾩静岡愛知三重滋賀京都⼤阪兵庫奈良和歌⼭⿃取島根岡⼭広島⼭⼝徳島⾹川愛媛⾼知福岡佐賀⻑崎熊本⼤分宮崎⿅児島沖縄
+ICU中間ユニット
+https://www.jsicm.org/news/upload/icu_hcu_beds2022.pdfより作成
+対10万⼈

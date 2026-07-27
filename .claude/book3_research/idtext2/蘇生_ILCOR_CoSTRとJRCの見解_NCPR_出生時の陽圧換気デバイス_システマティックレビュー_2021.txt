@@ -1,0 +1,113 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Devices for Administering PPV at Birth 出生時の陽圧換気デバイス 
+Daniele Trevisanuto, et al., NLS TF 
+The PICOST  
+Population: Newborn infants receiving PPV during resuscitation 
+Intervention and Comparator: (shown in Table) 
+  
+Outcome: In-hospital mortality; severe intraventricular 
+hemorrhage, Papile grade III to IV; intraventricular hemorrhage 
+(any); bronchopulmonary dysplasia (BPD); CPR or medications in 
+the delivery room; air leak; intubation in the delivery room; duration 
+of PPV in the delivery room; length of stay; admission 
+to neonatal ICU 
+Study design: RCTs and nonrandomized studies 
+PICOST  
+P: 蘇生中陽圧換気を受ける新生児 
+I と C:(表) 
+比較 I C 
+1 T ピース蘇生器 自己膨張式バッグ 
+2 T ピース蘇生器 流量膨張式バッグ 
+3 流量膨張式バッグ 自己膨張式バッグ 
+4 PEEP 弁付    
+自己膨張式バッグ 
+PEEP 弁無し    
+自己膨張式バッグ 
+PEEP: Positive end-expiratory pressure (呼気終末陽圧) 
+ 
+O:病院内死亡、重度脳室内出血（Papile 分類 grade Ⅲ-Ⅳ）、脳室
+内出血（全ての grade）、気管支肺異形成（BPD）、分娩室での心
+肺蘇生または薬物投与、エアーリーク、分娩室での気管挿管、分娩
+室での陽圧換気時間、入院期間、NICU への入室 
+ 
+ 
+S: RCT と非ランダム化研究（非 RCT, 分割時系列解析、前後比較
+対照研究、コホート研究）が採用された。論文化されていない研究
+（例：学会抄録、臨床試験のプロトコールなど）は除外した。 
+
+[[p2]]
+2 
+ 
+(non-RCTs, interrupted time series, controlled before-and-after 
+studies, cohort studies) were eligible for inclusion. Unpublished 
+studies (eg, conference abstracts, trial protocols) were excluded. 
+Time frame: All years and all languages were included as long as 
+there was an English abstract. Literature search was updated to 
+December 30, 2020 
+ 
+T:英語抄録がある、全ての年の、全ての言語による研究を対象とし
+た。 
+文献検索は 2020 年 12 月 30 日まで。 
+Treatment recommendations 
+When resources permit, we suggest the use of a T-piece 
+resuscitator over the use of a self-inflating bag in infants receiving 
+PPV at birth (weak recommendation, very low–certainty evidence). A 
+self-inflating bag should be available as a backup device for the T-
+piece resuscitator in case of gas-supply failure (technical remark). 
+There are no data to make a treatment recommendation for use of a 
+T-piece resuscitator compared with a flow-inflating bag. There are 
+no data to make a treatment recommendation for use of a flow-
+inflating bag compared with a self-inflating bag. The confidence in 
+effect estimates is so low that the panel feels any recommendation 
+for the use of a PEEP valve with a self-inflating bag versus a self-
+inflating bag without a PEEP valve is too speculative. Subgroup 
+considerations include the following: 
+• There are insufficient data for a recommendation based on 
+gestational age because the planned subgroup analyses according 
+to gestational age were not feasible.  
+推奨と提案 
+資源が許す環境であれば、出生時陽圧換気を受ける児に対し、自己
+膨張式バッグよりも T ピース蘇生器を使用することを提案する 
+（弱い推奨、エビデンスの確実性：非常に低い）。ガス源不備の状
+況に備え、T ピース蘇生器のバックアップとして自己膨張式バッグ
+は使用できるように準備しておくべきである（技術的な注意点）。 
+流量膨張式バッグと比較して T ピース蘇生器を推奨するデータは
+無い。自己膨張式バッグと比較して流量膨張式バッグを推奨するデ
+ータは無い。 
+効果推定の信頼度が非常に低いため、ILCOR では PEEP バルブ付
+きの自己膨張式バッグと PEEP バルブ無しの自己膨張式バッグの使
+用に関するいかなる推奨も憶測的過ぎる感が否めないと指摘され
+た。 
+ 
+サブグループ解析については以下の通りである。 
+計画していた在胎期間によるサブグループ解析ができなかったた
+め、在胎期間に基づく推奨を作成するデータが不十分であった。 
+[[p3]]
+3 
+ 
+ 
+１． JRC の見解と解説（400-800 文字） 
+• T ピース蘇生器 vs 自己膨張式：RCT 4 研究、観察研究 1 研究が採用され、T ピースによる蘇生は自己膨張式バッグでの蘇生と比べ、慢性肺
+疾患は少なく（RR 0.64 95% CI 0.43-0.95）、蘇生時の人工呼吸実施時間は短かった (-19.8 秒; 95% CI 7.7-12.0 秒)。死亡率、気管挿管率、脳
+室内出血、在院日数等、その他の転帰に関しては有意差を認めなかった。 
+• PEEP 弁付き自己膨張式 vs PEEP 弁無し自己膨張式 ：RCT 2 研究が採用され、PEEP 弁付き自己膨張式で僅かに在院日数の増加を認めた 
+(平均日数 0.14 日; 95% CI 0.01-0.27 日)。その他、死亡率、気管挿管率、脳室内出血、慢性肺疾患、蘇生時の人工呼吸実施時間等に関しては
+有意差を認めなかった。 
+• T ピース蘇生器 vs 流量膨張式バッグ 、流量膨張式バッグ vs 自己膨張式バッグに関する研究は認められなかった。 
+今回の推奨により、T ピース蘇生器は自己膨張式バッグと比較して、人工呼吸実施時間が短く、また慢性肺疾患が減少することが示された。し
+かし、正期産児を主に扱う産科施設に於いては、この利点の臨床的意義がどの程度影響するのか検討が必要と考えられる。また T ピース蘇生
+器 vs 流量膨張式バッグ 、流量膨張式バッグ vs 自己膨張式バッグに関する研究は認めらない。このことから、わが国において、出生時に特
+定の陽圧換気デバイスの使用を推奨する事は困難である。 
+ 
+２．わが国への適応 
+出生時に陽圧換気を受ける児に対して、特定の陽圧換気デバイスの使用を推奨しない予定。 
+ 
+３．担当メンバー 
+担当作業部会員（五十音順）杉浦崇浩 諌山哲哉 
+共同座長（五十音順）荒堀仁美 平川英司 
+担当編集委員（五十音順）杉浦崇浩 諌山哲哉 
+ 

@@ -1,0 +1,7756 @@
+
+[[p1]]
+ऀʹ͓͚Δ
+͢Δ
+ऀʹ͓͚Δ
+͢Δ
+ಉฤू
+ձ
+ֶࣾ
+20122012Ψ Πυϥ Π ϯ
+
+[[p2]]
+表紙写真提供：
+　右側：3DCT 正常例 （動脈相，静脈相，排泄相の fusion 画像） 	 日本医科大学放射線医学　林　宏光 先生
+　中央：重複腎盂尿管 CT	urography	 日本医科大学放射線医学　林　宏光 先生
+　左側：冠動脈血管造影 （上） ，MDCT （下） 	 　　筑波大学循環器内科　佐藤　明 先生
+[[p3]]
+ऀʹ͓͚Δ
+͢Δ
+ऀʹ͓͚Δ
+͢Δ
+ಉฤू
+ձ
+ֶࣾ
+20122012Ψ Πυϥ Π ϯ
+
+[[p4]]
+ii
+日本腎臓学会理事長
+槇野博史
+　現在の日常診療において，ヨード造影剤を用いた造影画像診断は，多くの診療科にとって最も重要な検査
+の 1 つになっています． 特に狭心症， 心筋梗塞をはじめとした循環器疾患領域や， 血管外科領域においては，
+ヨード造影剤の使用は画像診断のみならず，各種の intervention にも必須となっています．しかし，腎機能
+が低下している患者にヨード造影剤を使用する場合には造影剤腎症発症のリスクがあり，この発症をいかに
+回避するかの指針が求められていました．そこで造影画像診断にかかわることの多い日本循環器学会，日本
+医学放射線学会と，造影剤腎症にかかわることの多い日本腎臓学会が共同で「腎障害患者におけるヨード造
+影剤使用に関するガイドライン」を作成しました．
+　今回のガイドラインのように，複数の学会が合同でガイドラインを作成することは，これまでにはない画
+期的なことであります．学問の細分化に伴い，多くの学会がそれぞれ独自のガイドラインを発行している現
+状において，実際に使用する臨床家が 1 つの事象に対して複数のガイドラインを参照することは不便なこと
+であり，実際的ではありません．今回発行された「腎障害患者におけるヨード造影剤使用に関するガイドラ
+イン」は，日本腎臓学会，日本循環器学会，日本医学放射線学会の 3 学会が合同して練り上げたガイドライ
+ンです．日常臨床において本ガイドラインを有効に利用していただき，安全な造影画像診断が行われ，本ガ
+イドラインが造影剤腎症の発症抑制に寄与することができれば幸いです．
+日本医学放射線学会理事長
+栗林幸夫
+　近年における画像診断法の発達に伴って詳細な画像情報が得られるようになっており，CT や心血管造影
+などのヨード造影剤を用いた画像検査は， 多くの疾患の診断プロセスにおいて有用な情報を提供しています．
+　しかしながら，腎機能が低下している患者に対してヨード造影剤を使用すると造影剤腎症を起こすリスク
+があり，造影画像検査の診療現場でヨード造影剤の投与に関して悩むことも少なくありません．これまで，
+わが国ではこのような患者に対する造影剤の使用法に関する指針は示されていませんでした．
+　今般，ヨード造影剤を用いた診断，治療にかかわることが多い造影剤を使用する側の専門家である日本医
+学放射線学会と日本循環器学会，腎障害を診療する専門家である日本腎臓学会の 3 学会の共同で， 「腎障害
+患者におけるヨード造影剤使用に関するガイドライン」を作成することとなりました．このガイドラインの
+目標は，ヨード造影剤を使用することによって起こる腎機能障害の発症を予防することであり，造影剤を使
+用する患者に対する腎機能の評価法の標準化と，造影剤の使用の適正化を目的としたものです．
+　今回のガイドライン作成に際しては，関連する複数の学会が合同で委員会を構成して作成にあたり，委員
+の先生方の献身的な努力により，本ガイドラインの完成に至りました．日常の診療現場において本ガイドラ
+インを活用していただき，多くの患者にとって安全な造影画像検査が施行でき，造影剤腎症の発症予防に寄
+与することを祈念いたします．
+「腎障害患者におけるヨード造影剤使用に関する
+ガイドライン」発刊にあたって
+[[p5]]
+iii
+日本循環器学会理事長
+松﨑益德
+　近年心血管病は増加の一途をたどっていますが，多くの循環器疾患においては，正確な診断に基づいた的
+確な治療により予後改善が得られることが明確となっています．このような背景から日本循環器学会では，
+実地医家の方々の実臨床に役立てていただくために循環器疾患における最新の知見に基づいた「診断と治療
+に関するガイドライン」を刊行しております．
+　正確な診断と的確な治療の重要性が高まる現在において，ヨード造影剤を用いた画像検査は避けては通れ
+ない必須のものであると考えられ，日本循環器学会ではヨード造影剤を用いた諸検査・諸治療の意義と問題
+点を十分に理解することの重要性を実感していました．
+　特に心腎連関の重要性がクローズアップされ，心血管疾患の予後に腎障害が強く関与するとの多くのエビ
+デンスが報告されるにつれて，日本循環器学会としても，腎機能低下例におけるヨード造影剤による腎症発
+症のリスク評価と発症予防に対するガイドラインの必要性を考慮しているところでありました．
+　今回，ヨード造影剤使用による診断・治療手技にかかわることの多い日本循環器学会，日本医学放射線学
+会と，造影剤腎症の診断と治療にかかわることの多い日本腎臓学会の 3 学会が共同で， 「腎障害患者におけ
+るヨード造影剤使用に関するガイドライン」を作成するに至りました．各学会がそれぞれ独自のガイドライ
+ンを発行する現状において，分野の異なる複数の学会が合同ガイドラインを作成することは多くの困難を伴
+うことでもあり，世界的にもまれで画期的な出来事であります．
+　今回その困難を乗り越え，合同ガイドラインが完成しました．この「腎障害患者におけるヨード造影剤使
+用に関するガイドライン」が多くの実地医家にとって真に役立つものとなり，ひいては多くの腎障害患者に
+とって，より安全で的確な循環器疾患の診断と治療に結びつくことを祈念いたします．
+[[p6]]
+iv
+1 腎障害患者におけるヨード造影剤使用に関するガイドラインの概要…………………………  1
+PM	?ガイドラインの目的　?P
+2.	 本ガイドラインの使用上の注意　 1
+3.	 使用した論文の選択とエビデンスレベルと推奨グレード　 1
+4.	 外部評価　 2
+5.	 今後の予定　 2
+6.	 利益相反　 2
+2 造影剤腎症の定義… ………………………………………………………………………………………………  3
+CQ ②―1	 造影剤腎症（contrast	induced	nephropathy：CIN）はどのように定義される
+か？　3
+3 リスク・患者評価… ………………………………………………………………………………………………  6
+CQ ③―1	 CKD は CIN	発症のリスクを増加させるか？　 6
+CQ ③―2	 加齢は CIN	発症のリスクを増加させるか？　 6
+CQ ③―3	 糖尿病は CIN	発症のリスクを増加させるか？　 6
+CQ ③―4	 RAS	阻害薬使用は CIN	発症のリスクを増加させるか？　 7
+CQ ③―5	 利尿薬使用は CIN	発症のリスクを増加させるか？　 8
+CQ ③―6	 NSAIDs	使用は CIN	発症のリスクを増加させるか？　 8
+CQ ③―7	 ビグアナイド系糖尿病薬を服用している患者へのヨード造影剤投与は，	
+乳酸アシドーシスのリスクを増加させるか？　9
+CQ ③―8	 CIN	の発症は CKD	患者の生命予後を増悪させるか？　 11
+CQ ③―9	 腹膜透析患者への造影剤投与は残存腎機能低下のリスクを増加させるか？　 12
+CQ ③―10	 CIN	の発症に関するリスクスコアは有用か？　 12
+4 造影剤の種類と量… ……………………………………………………………………………………………… 23
+CQ ④―1	 造影剤投与量の減量は CIN	発症のリスクを減少させるか？　 23
+CQ ④―2	 低浸透圧造影剤は高浸透圧造影剤と比較して CIN	発症のリスクを減少させるか？
+　23
+CQ ④―3	 等浸透圧造影剤と低浸透圧造影剤との間で CIN の発症リスクに違いがあるか？
+　24
+CQ ④―4	 異なる種類の低浸透圧造影剤間で CIN	発症のリスクに違いがあるか？　 24
+CQ ④―5	 造影剤の侵襲的 （経動脈） 投与は，非侵襲的 （経静脈） 投与と比較して CIN	発症のリ
+スクを増加させるか？　27
+目　次
+発刊にあたって… ………………………………………………………………………………………………  ii
+ガイドライン作成委員会委員… …………………………………………………………………………… vi
+略語一覧… ………………………………………………………………………………………………………… vii
+[[p7]]
+v
+5 侵襲的診断法（心臓カテーテル検査など）… …………………………………………………………… 33
+CQ ⑤―1	 CKD	は CAG	による CIN	発症のリスクを増加させるか？　 33
+CQ ⑤―2	 CAG	において造影剤使用量の減量は CIN	発症のリスクを減少させるか？　 34
+CQ ⑤―3	 CAG	の短時間反復検査は CIN	発症のリスクを増加させるか？　 35
+CQ ⑤―4	 CKD	は PCI	による CIN	の発症を増加させるか？　 35
+CQ ⑤―5	 CIN	とコレステロール塞栓症による腎機能低下をどのように鑑別できるか？　 36
+6 非侵襲的診断法（造影 CT など）… ………………………………………………………………………… 42
+CQ ⑥―1	 CKD	は造影 CT	による CIN	発症のリスクを増加させるか？　 42
+CQ ⑥―2	 造影 CT	において造影剤投与量の減量は CIN	発症のリスクを減少させるか？　 42
+CQ ⑥―3	 造影 CT	の短時間反復検査は CIN	発症のリスクを増加させるか？　 44
+CQ ⑥―4	 外来の造影 CT	は入院の造影 CT	に比べて CIN	発症のリスクが高いか？　 44
+7 造影剤腎症の予防法：輸液… ………………………………………………………………………………… 50
+CQ ⑦―1	 生理食塩水投与は CIN	発症のリスクを減少させるか？　 50
+CQ ⑦―2	 飲水は輸液と同等に CIN	発症のリスクを減少させるか？　 51
+CQ ⑦―3	 重炭酸ナトリウム （重曹） 液投与は CIN	発症のリスクを減少させるか？　52
+CQ ⑦―4	 短時間の輸液は長時間の輸液と同等に CIN	発症を予防できるか？　 53
+8 造影剤腎症の予防法：薬物療法… ……………………………………………………………………………65
+CQ ⑧―1	 N―acetylcysteine（NAC）投与は CIN	発症のリスクを減少させるか？　 65
+CQ ⑧―2	 hANP	投与は CIN	発症のリスクを減少させるか？　 66
+CQ ⑧―3	 アスコルビン酸投与は CIN	発症のリスクを減少させるか？　 66
+CQ ⑧―4	 スタチン投与は CIN	発症のリスクを減少させるか？　 66
+9 造影剤腎症の予防法：透析… ………………………………………………………………………………… 73
+CQ ⑨―1	 CIN	の発症予防を目的とした造影剤使用後の血液透析療法は，	
+CIN	発症のリスクを減少させるか？　73
+CQ ⑨―2	 血液透析に比べて，血液濾過は CIN	発症のリスクを減少させるか？　 73
+10 造影剤腎症の治療法… …………………………………………………………………………………………… 80
+CQ ⑩―1	 CIN	発症後のループ利尿薬投与は腎機能障害の進行を抑制するか？　 80
+CQ ⑩―2	 CIN	発症後の輸液療法は腎機能障害の進行を抑制するか？　 80
+CQ ⑩―3	 CIN	発症後の低用量ドーパミン投与は腎機能障害の進行を抑制するか？　 81
+CQ ⑩―4	 CIN	発症後の hANP	投与は腎機能障害の進行を抑制するか？　 81
+CQ ⑩―5	 CIN	発症後の急性血液浄化療法は腎機能予後を改善するか？　 82
+索引… …………………………………………………………………………………………………………………………… 95
+[[p8]]
+vi
+委員長
+大野 岩男（東京慈恵会医科大学腎臓・高血圧内科—日本腎臓学会）
+林 　宏光（日本医科大学放射線医学—日本医学放射線学会）
+青沼 和隆（筑波大学大学院人間総合科学研究科循環器内科学—日本循環器学会）
+委　員
+堀尾 　勝
+（大阪大学大学院医学系研究科機能診断学—日本腎臓学会）
+柏原 直樹（川崎医科大学腎臓・高血圧内科—日本腎臓学会）
+岡田 浩一（埼玉医科大学医学部腎臓内科—日本腎臓学会）
+小松 康宏（聖路加国際病院腎臓内科—日本腎臓学会）
+田村 正三（宮崎大学医学部放射線科—日本医学放射線学会）
+粟井 和夫（広島大学大学院医歯薬保健学研究院放射線診断学—日本医学放射線学会）
+山下 康行（熊本大学大学院生命科学研究部放射線診断学分野—日本医学放射線学会）
+桑鶴 良平（順天堂大学医学部放射線医学—日本医学放射線学会）
+平山 篤志（日本大学医学部内科学系循環器内科学分野—日本循環器学会）
+斎藤 能彦（奈良県立医科大学第一内科—日本循環器学会）
+室原 豊明（名古屋大学大学院医学系研究科循環器内科学—日本循環器学会）
+玉木 長良（北海道大学大学院医学研究科病態情報学講座核医学分野—日本循環器学会）
+協力者
+佐藤 　明
+（筑波大学大学院人間総合科学研究科循環器内科学—日本循環器学会）
+高山 忠輝（日本大学医学部内科学系循環器内科学分野—日本循環器学会）
+事務局
+今井 圓裕
+（名古屋大学大学院医学系研究科腎臓内科学—日本腎臓学会）
+安田 宜成（名古屋大学大学院医学系研究科 CKD 医療連携システム講座—日本腎臓学会）
+外部評価委員
+古家 大祐
+（金沢医科大学内分泌代謝制御学—日本腎臓学会）
+椿原 美治（大阪府立急性期・総合医療センター腎臓・高血圧内科—日本腎臓学会）
+堀江 重郎（帝京大学医学部泌尿器科—日本腎臓学会）
+興梠 征典（産業医科大学放射線科—日本医学放射線学会）
+鳴海 善文（大阪医科大学放射線科—日本医学放射線学会）
+早川 克己（京都市民病院放射線科—日本医学放射線学会）
+代田 浩之（順天堂大学医学部循環器内科学—日本循環器学会）
+野出 孝一（佐賀大学医学部循環器・腎臓内科—日本循環器学会）
+久保田 功（山形大学医学部内科学第一（循環・呼吸・腎臓内科学）講座—日本循環器学会）
+腎障害患者におけるヨード造影剤使用に関する
+ガイドライン作成委員会委員
+[[p9]]
+vii
+ACCF	 American	College	of	Cardiology	Foundation
+ACR	 American	College	of	Radiology 	 ……………………………………………………………… 米国放射線科医学会
+ADQI	 Acute	Dialysis	Quality	Initiative
+AKI	 acute	kidney	injury
+	 ……………………………………………………………………………………………… 急性腎障害
+AKIN	 Acute	Kidney	Injury	Network
+CAG	 coronary	angiography
+	 ……………………………………………………………………………… 冠動脈血管造影法
+CAPD	 continuous	ambulatory	peritoneal	dialysis 	…………………………………………… 持続的携帯型腹膜透析
+	 	 連続（持続）携行式腹膜透析
+CCr	 creatinine	clearance 	 …………………………………………………………………… クレアチニンクリアランス
+CHD	 continuous	hemodialysis 	……………………………………………………………………………… 持続的血液透析
+CHF	 continuous	hemofiltration 	 …………………………………………………………………………… 持続的血液濾過
+CHDF	 continuous	hemodiafiltration 	 ………………………………………………………………… 持続的血液濾過透析
+CI	 confidence	interval 	 ………………………………………………………………………………………………… 信頼区間
+CIAKI	 contrast	induced	AKI 	 …………………………………………………………………………… 造影剤誘発急性腎障害	
+CIN	 contrast	induced	nephropathy 	 …………………………………………………………………………… 造影剤腎症
+CKD	 chronic	kidney	disease 	………………………………………………………………………………………… 慢性腎臓病	
+CTA 	 CT	angiography 	 ………………………………………………………………………………………………… CT 血管造影
+eGFR 	 estimated	GFR 	………………………………………………………………… 推算糸球体ろ過	or	推定糸球体濾過量
+ESUR	 European	Society	of	Urogenital	Radiology 	…………………………………… 欧州泌尿生殖器放射線学会
+GFR	 glomerular	filtration	rate 	 ……………………………………………………………………………糸球体濾過量（値）
+hANP	 human	atrial	natriuretic	peptide 	………………………………………… ヒト心房性ナトリウム利尿ペプチド
+HD	 hemodialysis 	…………………………………………………………………………………………………………… 血液透析
+HDF	 hemodiafiltration 	 ………………………………………………………………………………………………血液濾過透析
+HF	 hemofiltration 	 ………………………………………………………………………………………………………… 血液濾過
+LVEF	 left	ventricular	ejection	fraction 	…………………………………………………………………左室駆出分画（率）
+NAC	 N―acetylcysteine
+NO	 nitric	oxide
+	…………………………………………………………………………………………………………… 一酸化窒素
+NRD	 nephropathy	requiring	dialysis 	……………………………………………………………………………… 透析の必要	
+NSAIDs	 non―steroidal	anti―inflammatory	drugs 	………………………………………………非ステロイド系抗炎症薬
+OR 	 odds	ratio 	 ……………………………………………………………………………………………………………… オッズ比
+PCI	 percutaneous	coronary	intervention 	 …………………………………… 経皮的冠動脈インターベンション
+PREPARED	 Preparation	for	Angiography	in	Renal	Dysfunction
+PREVENT	 Preventive	strategies	of	renal	insufficiency	in	patients	with	diabetes	undergoing	intervention	
+or	arteriography
+PTA	 percutaneous	transluminal	angioplasty
+	……………………………………… 経皮（経管）的血管形成（術）
+PTRA	 percutaneous	transluminal	renal	angioplasty 	 …………………………………… 経皮的腎血管形成（術）
+RAS	 renin―angiotensin	system 	…………………………………………………………… レニン・アンジオテンシン系
+RCT	 randomized―controlled	trial 	 …………………………………………………………………… ランダム化比較試験
+REMDIAL	 Renal	Insufficiency	Following	Contrast	Media	Administration	Trial
+RIFLE	 Risk,	Injury,	Failure,	Loss	of	kidney	function	and	End	stage	of	kidney	disease
+RR	 relative	risk
+	…………………………………………………………………………………………………………… 相対リスク
+SCAI	 The	Society	for	Cardiovascular	Angiography	and	Intervention	
+SCr	 serum	creatinine 	………………………………………………………………………………………… 血清クレアチニン
+STEMI	 ST	elevation	myocardial	infarction 	 ……………………………………………………………ST 上昇型心筋梗塞
+UAP	 unstable	angina	pectoris 	……………………………………………………………………………………不安定狭心症
+略語一覧
+[[p11]]
+1
+1 ．ガイドラインの目的
+　ヨード造影剤を使用した画像診断は，日常臨床において必須の検査項目であり，多くの有益な情報をもた
+らす．しかしながら，腎機能が低下した患者に対して造影剤を使用することは，造影剤腎症を起こすリスク
+があり，その使用法についての指針が必要とされてきた．欧州泌尿生殖器放射線学会（European Society of 
+Urogenital Radiology：ESUR）および米国放射線科医学会（American College of Radiology：ACR）から
+は，ガイドラインが出版されているが，わが国においてはまだガイドラインが作成されていない．そこで，
+造影剤を使用する側の専門家である日本医学放射線学会と日本循環器学会，腎障害を診療する専門家である
+日本腎臓学会の 3 学会共同で「腎障害患者におけるヨード造影剤使用に関するガイドライン」を作成するこ
+ととなった．
+　このガイドラインの目標は，造影剤を使用することによって起こる腎機能障害の発症を予防することであ
+る． そのため， 造影剤を使用する患者に対する腎機能評価法の標準化と， 造影剤使用の適正化を目的とする．
+本ガイドラインの対象は造影剤を使用する医師，造影検査を依頼する医師のみならず，造影検査に携わる診
+療放射線技師や看護師などの医療関係者である．
+　ガイドライン作成にあたっては，造影剤腎症を起こす可能性の高い腎機能が低下した患者を主な対象とし
+て記載した．一般的に慢性腎臓病（chronic kidney disease：CKD）患者は， 必ずしも腎機能が低下している
+わけではなく，尿蛋白などの腎障害が認められるが，腎機能が 60 mL／min／1.73 m2以上ある CKD ステージ
+（GFR 区分）G1，G2 である患者も含んでいる．
+　しかし，本ガイドラインで CKD 患者に関する記載がある場合は， 腎機能が低下した患者をCKD 患者とし
+て記載している点にご注意いただきたい．
+2 .本ガイドラインの使用上の注意
+　本ガイドラインは基本的には現在の保険診療に基づいて記載されている．本ガイドラインは，医師が実地
+診療で造影剤を使用する場合の指針であり，最終的に造影剤の使用および造影剤腎症の予防的措置を講ずる
+かどうかは個別の症例で病態を把握し，患者への利益を考えたうえでの判断にゆだねられる．本ガイドライ
+ンの内容に従わない造影剤の使用が行われても，個々の症例での特別な事情を勘案した主治医の判断が優先
+されるものであり，追訴されるべき法的論拠を本ガイドラインが提供するものでは決してない．
+3 ．使用した論文の選択とエビデンスレベルと推奨グレード
+　診療ガイドラインの作成は Minds の推奨する手順によって行った．ガイドライン作成委員会で， 造影剤腎
+症に関連するテーマ（9 章）を決定し， 3 学会から少なくとも 1 人は参加したワーキンググループが， 各章ご
+とにクリニカルクエスチョン（CQ）案を作成し，デルファイ法にて最終 CQ を決定した．
+　各ワーキンググループは担当する CQ に対して，1960～2011 年 8 月末までの期間の論文を，文献データ
+ベースとして PubMed，MEDLINE，The Cochrane Library，医学中央雑誌を使用して検索・抽出し，批判
+的吟味を行った．エビデンスとして採用した文献に関してはエビデンスレベルをつけるとともに，アブスト
+ラクトテーブルを作成した．
+　CQ に対する回答に対して，エビデンスレベルと推奨グレードを記載した．
+　エビデンスレベルと推奨グレードを以下に記載する．
+1
+腎障害患者におけるヨード造影剤使用に関する
+ガイドラインの概要
+[[p12]]
+・エビデンスレベル
+　レベルⅠ：システマティックレビュー／RCT のメタ解析
+　レベルⅡ：1 つ以上のランダム化比較試験
+　レベルⅢ：非ランダム化比較試験
+　レベルⅣa：コホート研究
+　レベルⅣb：症例対照研究，横断研究
+　レベルⅤ：症例報告，ケースシリーズ
+　レベルⅥ：患者データに基づかない，専門委員会や専門家個人の意見
+・推奨グレード
+　グレード A：強い科学的根拠があり，行うように強く勧められる
+　グレード B：科学的根拠があり，行うように勧められる
+　グレード C1：科学的根拠はないが，行うように勧められる
+　グレード C2：科学的根拠はないが，行うように勧められない．
+　グレード D：無効性あるいは害を示す科学的根拠があり，行わないように勧められる．
+　各 CQ に対する回答およびその推奨グレードの決定に際しても，デルファイ法を採用した．本書を使用す
+る場合には，エビデンスレベルよりも CQ に対する回答の推奨グレードを重視していただきたい．推奨グ
+レードにはエビデンスレベルだけでなく，エビデンスの質や臨床的重要性，害やコストに関する情報，保険
+適用があるか，国内で販売されているかなどに応じた判断も含まれている．
+4 ．外部評価
+　外部評価委員として，日本腎臓学会，日本医学放射線学会，日本循環器学会から 3 名ずつを選出していた
+だき，評価を受けた．また，本ガイドライン最終案は 3 学会のホームページ上での閲覧を許可し，パブリッ
+クコメントをいただいた．これらのコメントをガイドライン作成委員会で協議して盛り込み，ガイドライン
+を確定した．
+5 ．今後の予定
+　本ガイドラインは書籍として刊行（東京医学社）後，和文にて日本腎臓学会誌，日本循環器学会公式ガイ
+ドラインに掲載し，また各学会のホームページに公開する予定である．ダイジェスト版も出版する．英訳版
+も作成し， 各学会の英文誌に掲載予定である． また， 日本医療評価機構のMindsでの公開も行う予定である．
+　このガイドラインは 5 年を目途に改訂を予定しており，各学会からの作成委員を新たに選定して，公明性
+を保つことを目指す．
+6 ．利益相反
+　本ガイドラインの作成にあたっては，厚生労働科学研究費腎疾患対策事業 CKD の早期発見・予防・治療
+標準化・進展阻止に関する調査研究（今井圓裕班長）と日本腎臓学会の資金でガイドライン作成委員会を開
+催した．交通費に関しては日本腎臓学会，日本医学放射線学会，日本循環器学会で負担した．
+　作成にかかわった委員および査読委員からは利益相反に関する申告書を提出していただき，各学会で管理
+することとした．
+2
+1腎障害患者におけるヨード造影剤使用に関するガイドラインの概要
+[[p13]]
+2
+造影剤腎症（contrast induced nephropathy：CIN）はどのように定義されるか？
+ヨード造影剤投与後，72 時間以内に血清クレアチニン（SCr）値が前値より 0.5 mg／dL 以上
+または?QT％以上増加した場合を?bhm?と定義する．
+CIN 発症のリスクは腎機能低下に応じて増加するので， 造影前にできるだけ直近の SCr 値を用いて腎機能を
+評価することが重要である．慢性腎臓病（CKD）の腎機能による重症度分類（表1 ）では，GFR＜60 mL／
+min／1.73 m2の G3a～G5 が CKD に該当する．腎機能が GFR 60 mL／min／1.73 m2 以上で蛋白尿がある症例も
+CKD と診断されるが，このガイドラインでは GFR＜60 mL／min／1.73 m2の腎機能低下例のみを CKD と表現
+する．
+　GFR 評価には，以下の推算式による推算 GFR（eGFR）を用いる．
+日本人の GFR 推算式（18 歳以上を対象）
+eGFRcreat（mL／min／1.73 m2）＝194×Cr－1.094 Age－0.287（女性は×0.739）
+	 CQ②—1
+回 答
+解　説 CQ②—1
+表1 　CKD の重症度分類（2012）
+KDIGO CKD guideline 2012 を日本人用に改変
+透析や腎移植などが必要な末期腎不全や，脳卒中，心筋梗塞，心不全などの心血管系疾患の発症リスク
+を低い方から，緑 →黄 →オレンジ →赤 と色分けしている．
+෼ " " "
+ੑΞϧϒϛϯ೘
+ Ҏ্
+౓୿ന೘
+ Ҏ্
+೘Ξϧϒϛϯఆྔ
+ʢmgdayʣ
+೘Ξϧϒϛϯ$S ൺ
+ʢmggCrʣ
+ਖ਼ৗ·ͨ͸
+౓௿Լ
+౓௿Լ
+ਛෆશ
+ਛԌ
+ѹ
+ଟൃੑṚ๔ਛ
+Ҡ২ਛ
+ෆ໌
+ͦͷ΄͔
+෼
+ʢmL?minm
+ʣ
+ਖ਼ৗ·ͨ͸
+஋
+౓ʙ
+த౳౓௿Լ
+த౳౓ʙ
+౓௿Լ
+೘୿നఆྔ
+ʢHEBZʣ
+೘୿ന$S ൺ
+ʢHH$Sʣ
+ʾ
+ʙ
+ʙ
+ʙ
+ʙ
+ʻ
+(
+(
+(B
+(C
+(
+(
+ਖ਼ৗ
+ ະຬ
+ਖ਼ৗ
+ ະຬ
+ඍྔΞϧϒϛϯ೘
+ʙ
+౓୿ന೘
+ʙ
+ױ࣬ݪ
+౶೘ප
+3
+造影剤腎症の定義
+[[p14]]
+　CIN とは，ヨード造影剤による腎障害のことで，造影後に腎機能低下がみられ，造影剤以外の原因（コレ
+ステロール塞栓など） が除外される場合に診断される．一般的に腎機能低下は可逆的で， SCr 値は 3～5 日後
+にピークに達した後，7～14 日後に前値に戻る．症例によっては，腎機能低下が進行し，人工透析が必要と
+なる場合もある．
+　臨床研究では，CIN の診断基準として SCr 値の 0.5 mg／dL 以上の増加，1.0 mg／dL 以上の増加，25％以上
+の増加，50％以上の増加など，さまざまな基準が用いられ，腎機能低下を評価する時期も造影後 24 時間，48
+時間， 72 時間， 4 日， 7 日など一定していない．一般的には造影後， 72 時間以内に SCr 値が前値より 0.5
+ mg／
+k?以上または?QT％以上増加した場合と定義され，?多くの臨床研究で用いられている．実臨床では?VQ?時間に
+こだわらず，CIN 発症が疑われる場合は，より早期から，そして経時的な SCr 値評価を行うことが重要であ
+る．CIN の発症頻度は診断基準に大きく依存し， 造影前の腎機能など CIN 発症群の臨床的な特質も診断基準
+に影響される．CIN の発症予防など，臨床研究を推進していくためにも診断基準の標準化が必要である．
+RIFLE 分類
+AKI の定義：7 日以内に SCr 値≧1.5 倍，または GFR 低下＞25％の状態が 24 時間以上持続する．または 0.5 mL／
+kg／h 未満の尿量減少が 6 時間以上持続する．
+重症度 SCr 値による診断基準 尿量による診断基準
+Risk
+Injury
+Failure
+rb?値≧PMT?倍，または?feq?低下＞QT％
+SCr 値≧2.0 倍，または GFR 低下＞50％
+rb?値≧RMO?倍，または?feq?低下＞VT％
+0.5mL／kg／h 未満の尿量減少が 6 時間以上持続
+0.5mL／kg／h 未満の尿量減少が 12 時間以上持続
+0.3mL／kg／h 未満の尿量減少が 24 時間以上持続，
+または 12 時間以上の無尿
+Loss
+ESKD
+腎代替療法を要する腎不全が 4 週間以上持続
+腎代替療法を要する末期腎不全が 3 カ月以上持続
+AKIN 分類
+AKI の定義：48 時間以内に SCr 値≧1.5 倍，または≧0.3 mg／dL の増加，または 0.5 mL／kg／h 未満の尿量減少が 6
+時間以上持続する．重症度は 7 日以内の SCr 値の増加，尿量減少で評価する．
+重症度 SCr 値による診断基準 尿量による診断基準
+Stage 1
+Stage 2
+Stage 3
+SCr 値≧1.5 倍または≧0.3 mg／dL の増加
+SCr 値＞2.0 倍
+SCr 値＞3.0 倍または SCr 値が≧4.0 mg／dL に至
+り，かつ 0.5 mg／dL 以上の急速な増加がある場合
+0.5 mL／kg/h 未満の尿量減少が 6 時間以上持続
+0.5 mL／kg/h 未満の尿量減少が 12 時間以上持続
+0.3 mL／kg/h 未満の尿量減少が 24 時間以上持続，
+または 12 時間以上の無尿
+AKI の定義と重症度分類
+　CIN は急性腎障害（acute kidney injury：AKI）の 1 つであるので，AKI の診断基準を用いて評価
+することも試みられている．AKI の国際的な診断基準は， 2004 年に Acute Dialysis Quality Initiative
+（ADQI）により作成された RIFLE 分類と，2007 年に Acute Kidney Injury Network（AKIN）によ
+り作成された AKIN 分類が知られている．どちらも AKI を診断するだけでなく，重症度分類が可能
+である．AKIN 分類では 48 時間以内に SCr 値の 1.5 倍以上または 0.3 mg／dL 以上の増加， または 6 時
+間以上の尿量減少（＜0.5 mL／kg／h）を AKI の診断基準としており，SCr 値の増加・尿量減少の程度
+により 3 段階の重症度に分類される．RIFLE， AKIN 分類は腎機能正常者に発症する AKI を主に対象
+としている． これに対し， CIN の発症は腎機能正常者にはまれで， 腎機能が低下するほど頻度が高い．
+乏尿を伴う CIN もまれである．また AKIN 分類に用いられている SCr 値の 0.3 mg／dL の変化は，腎
+機能低下症例での CIN の診断基準としては鋭敏すぎると思われる．そのため，現在の AKI 診断基準
+は CIN には使用しにくい点があるので，このガイドラインでは採用しなかった．
+4
+2造影剤腎症の定義
+[[p15]]
+血清シスタチンＣによる GFR 推算式
+　シスタチン C は新たな GFR マーカーとして保険適用となっており， 3 カ月に 1 回の測定が可能であ
+る．近年，国際的な標準物質（ERM-DA471／IFCC）により，測定法が標準化したため日本人の血清
+シスタチンＣ値による推算式が作成された．
+● 血清シスタチン C 値は筋肉量や食事，運動の影響を受けにくいため，SCr 値による GFR 推算式で
+は評価が困難な場合に有用と思われる．
+　　筋肉量が少ない症例（四肢切断，長期臥床例，るいそうなど）
+　　筋肉量が多い症例（アスリート，運動習慣のある高齢者など）
+● 血清シスタチン C 値に影響する因子として腎機能以外に妊娠， HIV 感染， 甲状腺機能障害などが報
+告されている．薬剤による影響など十分に分かっていない点もある．
+● シスタチン C は腎外での代謝・排泄が推測され，末期腎不全であっても血清シスタチン C 値の増加
+は5～6
+ mg/L で頭打ちとなる．推算式中の－8 mL／min／1.73 m2 は腎外での代謝・排泄を想定した
+定数である． 血清シスタチン C 値が 7 mg／L 以上では eGFR がマイナス値に算出される場合もあり，
+この場合は eGFR＜ 5 mL／min／1.73 m2 の末期腎不全と評価する．
+● 一般的には SCr 値による eGFR と血清シスタチン C 値による eGFR の平均値を用いると， 推算 GFR
+の正確度は高くなるので，eGFR=60  mL／min／1.73 m2 付近での CKD 評価など，より正確な推算
+GFR が必要な場合に両者を算出することは有用である．
+男性：eGFRcys（mL／min／1.73m2） = （104×Scys－1.019×0.996Age）－ 8
+女性：eGFRcys（mL／min／1.73m2） = （104×Scys－1.019×0.996Age×0.929） －8
+5
+2造影剤腎症の定義
+[[p16]]
+3
+CKD は CIN 発症のリスクを増加させるか？
+CKD（GFR＜60 mL/min/1.73 m2）は CIN 発症のリスクファクターである．
+エビデンスレベル：Ⅳa	 推奨グレード：該当せず
+加齢は CIN 発症のリスクを増加させるか？
+加齢は CIN 発症のリスクファクターである．
+エビデンスレベル：Ⅳa	 推奨グレード：該当せず
+糖尿病は CIN 発症のリスクを増加させるか？
+CKD（GFR＜60
+ mL/min/1.73 m2）を伴う糖尿病は CIN 発症のリスクファクターであるが，
+CKD を伴わない糖尿病が CIN 発症のリスクファクターであるかどうかは明らかではない．
+エビデンスレベル：Ⅳa	 推奨グレード：該当せず
+背　景
+　臨床の場では，造影剤投与前に CIN の発症リスクを予測することが求められている．
+　これまで多くのガイドラインにおいて CIN 発症のリスクファクターがとりあげられている． その主なもの
+として，SCr 値の上昇，糖尿病性腎症，脱水，うっ血性心不全，高齢，腎毒性物質（NSAIDs など）があげ
+られている．
+　また本ガイドラインで用いている CKD は蛋白尿の有無にかかわらず腎機能低下を意味している．
+　2006 年の CIN consensus working panel によると，腎障害（eGFR＜60 mL/min/1.73 m2）が CIN の最も
+重要なリスクファクターであると報告されている1）．また非イオン性造影剤使用の心臓カテーテル検査を受
+けた 1,144 例を用いたコホート研究において，検査前腎障害は CIN の唯一のリスクファクターであり，CIN
+の発症予測モデルでみると検査前 SCr 値が 106.1 mmol/L（1.21 mg/dL）以上では CIN のリスク上昇は急峻
+であったとされている2）．さらに 24 時間以内に造影 CT 検査を 2 回繰り返した 164 例の観察研究において，
+12.8％が CIN を発症したが， 唯一の CIN のリスクファクターは 1 回目と 2 回目の CT 間の SCr 値の上昇 （OR 
+18，p＜0.005）であったと報告されている
+3）．また PCI 後の CIN 発症の検討では，CIN は CKD 患者（eGFR
+＜60 mL/min/1.73 m2） では 19.2％ （381 例/1,980 例） に発症したが， CKD ではない患者では 13.1％ （688 例/
+5,250 例）と有意に少なかったとしている4）．さらに PCI 後の急性腎不全の発症は，SCr 値が＜2.0 mg/dL で
+は非糖尿病患者より糖尿病患者において高いが，SCr 値が≧2.0 mg/dL では糖尿病の有無にかかわらず高リ
+スクであったとされている5）．
+　Weisbord らは経静脈造影 CT 検査を受けた外来患者において， eGFR が 45 mL/min/1.73 m2未満では CIN
+のリスクが有意に上昇したことを示しており6）， また Kim らは造影 CT 検査後の CIN の発症は eGFR 45～59 
+mL/min/1.73 m2で 0％， eGFR 30～44 mL/min/1.73 m2 で 2.9％， eGFR＜30 mL/min/1.73 m2 で 12.1％であっ
+	 CQ③—1
+回答
+	 CQ③—2
+回答
+	 CQ③—3
+回答
+解　説 CQ③—1～CQ③—3
+6
+リスク・患者評価
+[[p17]]
+たと報告している7）．
+　2011 年に ESUR から発表された造影剤安全委員会ガイドラインでは， CIN のリスクは経動脈造影検査より
+経静脈造影検査のほうが低いこと，および eGFR 45 mL/min/1.73 m2が経静脈造影検査の CIN 発症リスク閾
+値であると述べており，eGFR 45 mL/min/1.73 m2未満では CIN の予防策（生理食塩水または等張性重炭酸
+Na の輸液）を講じることが望ましいとしている8）．
+　CKD，糖尿病と CIN 発症に関しては，eGFR＜60 mL/min/1.73 m2は CIN のリスクファクターであるとさ
+れている．しかし，糖尿病は必ずしも CIN のリスクではなく，リスク増強因子であるとしている．すなわ
+ち，糖尿病を合併した CKD 患者において CIN 発症リスクは高くなる
+9）．
+　PCI を受けた糖尿病患者の腎イベントの予後に CKD が関与するかを調査した観察研究では， PCI 後の CIN
+は，非 CKD で 15％，CKD 群で 27％に発症し，透析必要例は非 CKD 群で 0.1％，CKD 群で 3.1％であった
+としている．CIN の予知は PCI 前後の低血圧（OR 2.62，95％CI 1.63～4.19） ，インスリン治療（OR 1.84，
+95％CI 1.36～2.47） ，造影剤量（OR 1.30，95％CI 1.16～1.46）に関係していたとされている
+10）．
+　CAG において，CIN の発症リスクを検討した成績では，検査前腎障害と腎障害のある糖尿病だけが CIN
+のリスクであったとされており
+11）， また大腿動脈血管造影での CIN の発症のリスクファクターを検討した成
+績では，検査前の腎障害と糖尿病（特にインスリン依存型糖尿病）がリスクファクターであったが，脱水と
+造影剤量は CIN 発症との関連は不明であり，年齢，性はリスクファクターではなかったとされている
+12）．さ
+らに糖尿病，CKD，糖尿病＋CKD を対象に，CIN の発症を検討した成績では，糖尿病＋CKD は CIN のリス
+クだが，糖尿病単独，CKD 単独は CIN のリスクではなかったと報告されている
+13）．また等浸透圧造影剤の
+iodixanol か低浸透圧造影剤を使った 16 の RCT（計 2,727 例）のメタ解析において，CIN の発症予測因子は
+CKD，CKD＋糖尿病，低浸透圧造影剤の使用であったとされている
+14）．
+　加齢と糖尿病が CIN 発症のリスクファクターであることに関しては， 種々の報告がある．PCI の施行中に
+予防策をとらなかった SCr 値（＜1.5 mg/dL）患者 3,036 例を用いたコホート研究において，CIN の発症率は
+7.3％であったが，このなかで CIN のリスクファクターとしては，年齢（OR 6.4，95％CI 1.01～13.3） ，女性
+（OR 2.0，95％CI 1.5～2.7） ，左室駆出率＜50％（OR 1.02，95％CI 1.01～1.04） ，貧血（Hb＜11 g/dL） （OR 
+1.5，95％CI 1.01～2.4） ，収縮期低血圧（＜100 mmHg） （OR 1.5，95％CI 1.01～2.2）であり，さらにインスリ
+ン治療中の糖尿病は経口糖尿病薬や食事療法中の糖尿病に比して最も高いリスクであったと報告されてい
+る
+15）．
+　CIN 発症の予防策を行った CAG を受けた 136 例の観察研究において，15.44％が CIN を起こしたが，高齢
+と心不全（左室駆出率＜40％）が CIN のリスクファクターであったとされている．さらに心不全と貧血， 糖
+尿病，心筋梗塞の既往，高齢（＞70 歳）の複合は CIN のリスクを 3 倍上昇させたと報告されている
+16）．
+　また，動脈造影を受けた 364 例のコホート研究において，CIN は全体で 7.1％にみられ，1.4％は透析を必
+要としたが，検査前腎障害，高齢，造影剤使用量，造影検査方法（腹部大動脈造影） ，糖尿病，合併する心疾
+患は CIN のリスクファクターであったと報告されている17）．
+　さらに，2007 年に報告されたレビューには，CIN の古典的なリスクファクターは，検査前腎不全，糖尿
+病， 高齢， 腎毒性物質投与， 脱水， 大量の造影剤使用， イオン性高浸透圧性造影剤， うっ血性心不全であり，
+また CIN の新しいリスクファクターは，メタボリックシンドローム，境界型糖尿病，高尿酸血症であるとさ
+れている18）． 以上のようにCKDを伴わない糖尿病がCIN発症のリスクファクターであるか否かについては，
+相反するエビデンスが集積されており，現時点では明らかではない．
+RAS 阻害薬使用は CIN 発症のリスクを増加させるか？
+RAS 阻害薬が CIN のリスクを増加させるエビデンスはない．
+エビデンスレベル：Ⅳa	 推奨グレード：C2
+	 CQ③—4
+回答
+7
+3リスク・患者評価
+[[p18]]
+背　景
+　RAS 阻害薬は全身血圧を低下させ，また，輸出細動脈を拡張するため，糸球体内圧が低下し，その結果，
+糸球体濾過量が減少する．造影剤を使用するときに RAS 阻害薬を使用すると腎機能の低下が増悪する可能
+性があり，使用を中止するほうがよいという考え方がある．
+　RAS 阻害薬が CIN のリスクを増加させるエビデンスはない．
+　過去の観察研究によると，RAS 阻害薬が造影剤腎症の発症を増加させるかに関する一定した見解はな
+い19,20）が， 腎臓内科専門医からは RAS 阻害薬を使用することにより， CIN の発症頻度を増加させる可能性が
+あるとの意見もある．一方， RAS 阻害薬を心臓カテーテル検査前に予め中止する群と中止しない群に割り付
+けた RCT によると，両群間で CIN の発症率には差が認められなかった．このため，RAS 阻害薬を造影剤使
+用前に中止すべきとはいえない21）．しかし，CIN 発症のリスクがある期間中の RAS 阻害薬の開始，あるい
+は増量は推奨しない 22）．
+利尿薬使用は CIN 発症のリスクを増加させるか？
+利尿薬，特にループ利尿薬の使用は CIN のリスクであり，使用は推奨しない．
+エビデンスレベル：Ⅱ	 推奨グレード：C2
+背　景
+　利尿薬，特にループ利尿薬による強力な利尿作用は乏尿性腎不全を改善させ，尿細管上皮細胞の酸素消費
+量を減少させるため，髄質の酸素濃度を上昇させ，保護的に作用するという考え方であった．また心不全や
+CKD 患者においては利尿薬を使用することは多い．一方， ループ利尿薬により脱水となった場合には，腎機
+能を悪化させることも危惧されている。
+　造影剤使用時にループ利尿薬を予防的に投与することにより，CIN の発症が増加することが認められてい
+る23）．したがって，臨床的に許されれば利尿薬は中止すべきである22）．脱水がなくともループ利尿薬は CIN
+を起こしやすくなる．ループ利尿薬の使用に際して 0.45％食塩水で体液量を維持していても，ループ利尿薬
+の投与では CIN の発症が有意に高かったことも報告されている24）．
+　なお，最近，尿量と等量の輸液を行う特殊な装置を用いて，尿量を時間あたり 300 mL 確保するように生
+理食塩水による輸液とフロセミドの併用療法が CIN の発症を有意に抑えたとの RCT が 2 報報告された（7
+章参照） ．
+NSAIDs 使用は CIN 発症のリスクを増加させるか？
+NSAIDs は CIN 発症のリスクを増加させるため，使用は推奨しない．
+エビデンスレベル：Ⅱ	 推奨グレード：C2
+背　景
+　NSAIDs はシクロオキシゲナーゼ（cyclooxygenase：COX）の抑制により腎内のプロスタグランジンの産
+生を減少させ，腎血流を減少させるため，腎機能の低下をきたす可能性がある．
+解　説 CQ③—4
+	 CQ③—5
+回答
+解　説 CQ③—5
+	 CQ③—6
+回答
+8
+3リスク・患者評価
+[[p19]]
+　NSAIDs の使用により CIN のリスクが上昇することが示されている25）が， RCT によるエビデンスはない．
+造影剤を使用する前後 24 時間は NSAIDs の使用を中止するのがよい22,26）．
+ビグアナイド系糖尿病薬を服用している患者へのヨード造影剤投与は，乳酸アシドーシスの
+リスクを増加させるか？
+ヨード造影剤の投与により一過性に腎機能が低下した場合，乳酸アシドーシスを発症するリ
+スクとなる．ヨード造影剤を投与する場合には，緊急検査時を除きビグアナイド系糖尿病薬
+を一時的に休薬するなど，適切な処置を行うことを推奨する．
+エビデンスレベル：Ⅰ	 推奨グレード：C2
+背　景
+　ビグアナイド系糖尿病薬による最も重篤な副作用に乳酸アシドーシスがある．ヨード造影剤の投与により
+一過性に腎機能が低下した場合，ビグアナイド系糖尿病薬の腎排泄が減少し，乳酸の血中濃度が上昇するこ
+とで，乳酸アシドーシスを起こす危険性があると考えられている．
+　乳酸アシドーシスはビグアナイド系糖尿病薬による最も重篤な副作用であり，発症することはきわめてま
+れではあるものの，いったん発症すると予後は不良であり，致死率も高い．乳酸アシドーシスをきたしやす
+い病態に，腎機能障害（理由：未変化体のまま腎排泄されるため，腎機能が低下すると血中濃度も高くなる
+可能性がある） ，肝機能障害（理由：肝における乳酸の代謝能が低下する） ，そのほかに心不全や心筋梗塞，
+呼吸不全（理由：低酸素血症を伴いやすく，嫌気的解糖が亢進し，乳酸産生が増加する）などが知られてい
+る．その程度に応じ，わが国ではビグアナイド系糖尿病薬の投薬は禁忌とされており，現在のところ，適応
+を遵守すれば乳酸アシドーシスをきたす可能性はきわめて低いとされる．
+　しかし，ビグアナイド系糖尿病薬服用患者において，ヨード造影剤の投与により一過性に腎機能が低下し
+た場合，ビグアナイド系糖尿病薬の腎排泄が減少し，乳酸アシドーシスを起こす危険性がある．乳酸アシ
+ドーシスをきたしやすい病態を合併しているビグアナイド系糖尿病薬服用患者にヨード造影剤を投与した
+後，急激な腎機能の悪化をきたし，乳酸アシドーシスに至った症例
+27,28）や，過去の症例をレビューしたケー
+スシリーズ29～31）が報告されている．
+　しかし，ヨード造影剤による腎障害は用量依存性であり，リスクファクターとして既存の腎障害や糖尿病
+などが知られており，近年，静脈内投与の場合は動脈内投与の場合よりも影響は少なく，腎機能正常例に造
+影剤を静脈内投与した場合，臨床的に腎障害をきたす頻度はきわめて低いとされている．
+　欧米のガイドライン32～34）では，いずれにおいても腎機能などに応じた対応指針を示しており，具体的な対
+応法は異なるものの，腎機能が正常である場合，ヨード造影剤を用いた検査の前にビグアナイド系糖尿病薬
+の休薬を勧めるものはほとんどない（表1 ）．
+　ここでビグアナイド系糖尿病薬の添付文書の「重要な基本的注意」②に， 「ヨード造影剤を用いて検査を行
+う患者においては，本剤の併用により乳酸アシドーシスを起こすことがあるので，検査前は本剤の投与を一
+時的に中止する（ただし，緊急に検査を行う必要がある場合を除く） ．ヨード造影剤投与後 48 時間は本剤の
+投与を再開しない．なお， 投与再開時には， 患者の状態に注意する」と記載されている．また， 「ビグアナイ
+ド薬の適正使用に関する委員会」 の作成による 「ビグアナイド薬の適正使用に関する Recommendation （2012
+解　説 CQ③—6
+	 CQ③—7
+回答
+解　説 CQ③—7
+9
+3リスク・患者評価
+[[p20]]
+10
+3リスク・患者評価
+表1 　ビグアナイド系糖尿病薬服用患者のヨード造影剤使用に関するガイドライン比較
+JDS ACR CAR ESUR RCR RANZCR
+腎機能評価法 言及せず SCr 値 eGFR eGFR（または SCr 値） eGFR，SCr 値 eGFR（または SCr
+値）
+腎機能異常値 言及せず ＞1.5 mg／dL ＜45 mL／min／1.73m2 ＜60 mL／min／1.73m2 eGFR＜60 mL／min
+／1.73m2
+SCr 値言及せず
+言及せず
+腎機能正常患者
+におけるビグア
+ナイド系糖尿病
+薬投与中止時期
+造影剤使用前 腎機能正常であり，合併症がない
+場合：静注前に中止の必要はない．
+腎機能正常であり，複数の合併症
+がある場合：静注時およびその後
+の 48 時間は中止する．
+腎機能正常であり，通常用
+量（100
+ mL 未満）の造影
+剤を使用する場合：中止の
+必要はなく，腎機能の再検
+査の必要もない．重症，急
+性腎不全患者には注意を要
+する．
+腎機能正常の場合：通常通り
+に続ける．
+腎機能正常の場合：
+中止の必要はない．
+腎機能正常で，造影
+剤＜
+＿100 mL の 場 合：
+中止の必要はない．
+腎機能障害患者
+におけるビグア
+ナイド系糖尿病
+薬投与中止時期
+腎機能障害患
+者はビグアナ
+イド系糖尿病
+薬禁忌
+腎機能異常の場合：注射時に中止
+する．
+eGFR＜45 の場合：注射時
+に中止し，少なくとも 48
+時間は再開すべきではない．
+eGFR＜30 または急性腎
+不全で緊急でない検査の場
+合：検査 48 時間前からの
+中止
+45≦eGFR＜60
+造影剤を静注する場合：通常
+通りに続ける．
+30＜eGFR＜59 で造影剤を
+動注する場合：30＜eGFR＜
+44 で静注する場合，注射前
+48 時間に中止する．
+eGFR＜30または， 肝機能低
+下や低酸素症を合併してい
+る場合：メトホルミンは禁忌
+であり，造影剤の投与を避け
+る．
+救急患者
+造影剤投与時に中止し，検査
+後に乳酸アシドーシスの徴
+候をモニタする．
+腎機能異常の場合：
+48 時間の中止を処
+方医にコンサルテー
+ションする．
+腎機能異常の場合：
+造影剤注射日から
+少なくとも 48 時間
+は中止する．
+造影剤投与前の
+腎機能検査時期
+言及せず 言及せず 安定した外来患者：＜6 カ
+月
+入院患者および不安定な患
+者，急性腎不全患者：＜1
+週間
+造影剤投与が予定される前 7
+日以内
+安定した患者：＜3
+カ月
+急性疾患や腎疾患の
+ある患者：＜7 日
+安定した外来患者：
+＜3 カ月
+安定した腎機能の
+入院患者：＜7 日
+SCr 値上昇している
+入院患者
+腎障害後の安定し
+た 7～10 日間
+造影剤投与後の
+腎機能再検査時
+期
+言及せず 腎機能正常で，合併症がない場
+合：再検査の必要なし．
+腎機能正常であり，複数の合併症
+がある場合：再評価の手順の構築
+は必要であるが，繰り返し SCr 値
+を測定する必要はない．
+元の腎機能正常の場合：全
+く必要なし．
+腎機能異常のため，中止し
+た場合：48 時間またはそ
+れ以降にときに再検査する．
+造影剤投与 48 時間後 腎機能正常：必要な
+し．
+腎機能異常の場合：
+メトホルミン再開前
+に測定．
+ビグアナイド系
+糖尿病薬投与再
+開時期
+検査後 2 日間
+は投与禁忌
+元の腎機能，乳酸アシドーシスに
+なりやすい合併症による．
+ｉ）  元の腎機能正常の場合：48 時
+間後の再開前に再検査の必要
+なし．
+ⅱ）  腎機能正常， 複数の合併症があ
+る場合：48 時間後の再開前に
+再検査は必要ない （臨床的な判
+断に応じて） ．
+ⅲ）  元の腎機能異常の場合：メトホ
+ルミンが安全に再開できるま
+で腎機能を慎重にフォローす
+る．
+少なくとも 48 時間は再開
+すべきでなく，腎機能が安
+定?（元の?b?と比べ?QT％未
+満の増加）した場合：再開
+する．
+30＜eGFR＜50 で造影剤を
+動注する場合，30＜eGFR＜
+44 で静注する場合：腎機能
+が悪化していなければ，48
+時間後に再開する．
+救急患者
+SCr 値 ／eGFR が検査前と変
+化なければ，48 時間後に再
+開する．
+JDS：Japanese Diabetes Society（日本糖尿病学会編：科学的根拠に基づく糖尿病診療ガイドライン，2010） ，ACR：American College of Radiology（Manual 
+on Contrast Media version 7, 2010） ，CAR：Canadian Association of Radiologists（Consensus Guidelines for the Prevention of Contrast Induced 
+Nephropathy, June 17, 2011） ，ESUR：European Society of Urogenital Radiology（updated ESUR Contrast Media Safety Committee guidelines, Octo-
+ber 2010） ，RCR：The Royal College of Radiologists（Standards for intravascular contrast agent administration to adult patients Second edition, 
+2010） ，RANZCR：The Royal Australian and New Zealand College of Radiologists（RANZCR Guidelines for Iodinated Contrast Administration March, 
+2009）
+[[p21]]
+年 2 月 1 日） 」 〔日本糖尿病学会（http：//www.jds.or.jp/） ；日本糖尿病協会（http：//www.nittokyo.or.jp/） 〕
+において，乳酸アシドーシスの症例に認められた特徴の 1 つに腎機能障害患者があり，recommendation の
+なかでヨード造影剤の併用による腎機能障害の急性増悪がとりあげられ，注意喚起がなされている．これら
+を勘案し，本ガイドラインではヨード造影剤を投与する場合には，緊急検査時を除きビグアナイド系糖尿病
+薬を一時的に休薬するなど，適切な処置を行うことを推奨する．
+CIN の発症は CKD 患者の生命予後を増悪させるか？
+CIN の発症は CKD 患者の生命予後と関連し， CIN を発症した CKD 患者の予後は不良である
+が，CIN が予後規定因子であるのか，予後予測因子であるのかは明らかでない．
+エビデンスレベル：Ⅳa	 推奨グレード：該当せず
+背　景
+　CIN のリスクファクターとしては，CKD，糖尿病 （性） 腎症，脱水状態，うっ血性心不全，低血圧，高齢，
+腎毒性を有する薬剤の使用などがあげられ， なかでも CKD は特に重要なリスクファクターであるとされる．
+また，一般に AKI の発症は生命予後に関連することが報告されている．
+　CIN の多くは一過性であり，腎機能障害は通常回復することが知られているが，多くの報告において，
+CIN の発症とその後の生命予後に関連があるとされている4,35～44）．
+　Goldenberg らは，CAG を施行した 78 例の CKD 患者において，可逆的な AKI をきたした 10 例における
+5 年生存率が 90％であったのに対し， 非可逆的な AKI をきたした 68 例の 5 年生存率は 32％であったと報告
+している
+35）．From らは，CT，CT 血管造影，血管造影，静脈造影，心臓カテーテル検査を対象とし，静脈
+内投与 53％を含めた検討において， CIN をきたした 809 例における 1 年後死亡率は 31.8％であるのに対し，
+CIN をきたさなかった 2,427 例の 1 年後死亡率は 22.6％と有意に少ないことを報告している36）．Ioxaglete を
+使用した報告であるが，Gruberg らは PCI を施行した 439 例の検討において，CIN をきたした 161 例におけ
+る 1 年後の累積死亡率は 37.7％であるのに対し， CIN をきたさなかった 278 例の 1 年後の累積死亡率は 19.4％
+と，有意に少なかったことを報告している
+37）．また Senoo らは，緊急 PCI を施行した 338 例において，CIN
+をきたした 94 例における院内死亡率は 9.4％だが， CIN をきたさなかった 244 例の院内死亡率は 3.3％と有意
+に少ないことを報告している38）．
+　一般に， 経静脈的造影剤投与による CIN 発症は経動脈的投与より少ないとされているが， 経静脈的造影剤
+投与による CIN の発症と生命予後についての報告は少なく，コンセンサスは得られていない
+45,46）．
+　経静脈的造影剤投与による CIN の発症とその後の生命予後について，Weisbord らは，eGFR 60 mL/min/
+1.73 m2 未満の造影 CT を施行した 421 例において，CIN と 30 日死亡に有意な関連は認められなかったと報
+告している6）．また，Matsushima らは，造影剤を経静脈的に投与した 1,184 例の外傷患者において，CIN を
+きたした 78 例における院内死亡率は 9.0％と， CIN をきたさなかった群における院内死亡率 3.2％より有意に
+高かったが，ロジスティック回帰解析では院内死亡と CIN に有意な相関は認められなかったと報告してい
+る
+47）．Rashid らは，ICU において造影 CT を施行した 139 例において，CIN をきたした 16 例における ICU
+死亡率は 31％，院内死亡率は 50％であり，CIN をきたさなかった 123 例における ICU 死亡率 13％，および
+院内死亡率 26％よりも高い傾向であったが，それぞれ p＝0.068，p＝0.074 と統計学的な差は認められなかっ
+たとしている48）．いずれの報告も統計学的な解析に十分な症例数をもたないことが研究限界であると考察し
+ており，今後のさらなる検討が期待される．
+	 CQ③—8
+回答
+解　説 CQ③—8
+11
+3リスク・患者評価
+[[p22]]
+　このように， CIN と生命予後との関連については多数の報告が認められるものの， 現在のところ CIN を合
+併することで生命予後が悪くなる，すなわち予後規定因子であるか，あるいは生命予後の悪い患者が CIN を
+合併する，すなわち予後予測因子なのかは，明らかになっていない．
+腹膜透析患者への造影剤投与は残存腎機能低下のリスクを増加させるか？
+腹膜透析患者への造影剤投与は残存腎機能低下のリスクとなる可能性があるが，尿量が十分
+保たれていれば，造影剤 100 mL 程度では残存腎機能に影響を与えないという報告もある．
+エビデンスレベル：Ⅳa	 推奨グレード：該当せず
+背　景
+　腹膜透析患者は日本に約 1 万人おり，造影剤を使用した検査を受ける機会は少なからずある．腹膜透析患
+者にとって残存腎機能は重要であり，造影剤により残存腎機能が低下すれば，腹膜透析の継続が困難となる
+懸念がある．
+　残存腎機能を保持している腹膜透析患者へのヨード造影剤の影響に関する報告は限られている．残腎機能
+CCr 4.4～7.0 mL/min/1.73 m2の腹膜透析患者に造影剤 100 mL 程度投与しても，残存腎機能は対照群と比較
+しても低下しなかったという報告がある49,50）．本研究の対象となる腹膜透析患者群の特徴は， 尿量が 1,300～
+1,800 mL/day と多かった点である．高度に腎機能が低下した CKD ステージ 5 であるにもかかわらず，造影
+剤を投与しても腎障害が進行しない理由は明らかではないが，尿量が維持されている点が重要であったの
+か，腹膜透析によって緩徐に透析液中へ造影剤が除去されることがよいのか，また腹膜透析患者では体液が
+アルカレミアの状態のことが多いのでこの影響があったのかなど，今後検討が必要である．また，尿量が
+1,000 mL/day 未満の場合には十分なエビデンスがない．残腎機能 CCr 4.0 mL/min/1.73 m2未満になった際
+はどうか，さらに低下した患者ではどうか，造影剤の量は残存腎機能の程度によってどこまで許容できるか
+などが今後の検討課題となる．
+CIN の発症に関するリスクスコアは有用か？
+CIN の発症に関するリスクスコアの有用性が報告されている．しかし，リスクスコアの有用
+性は前向きには検討されていないため，その使用を推奨するのは適当ではない．
+エビデンスレベル：Ⅳa	 推奨グレード：該当せず
+背　景
+　CIN 発症には多くのリスクファクターが知られており，これらのリスクファクターは各々相加的に作用す
+ることが知られている．CIN の発症は院内死亡率の増加にも関連することから，どのようなリスクの組合せ
+（リスクスコア）が CIN の発症に関連するかを知ることは，CIN の発症予防の点からも重要であると考えら
+れる．
+　透析を受けていない PCI 施行患者において，リスクスコア〔年齢（80 歳以上）2.0 点，女性 1.5 点，糖尿
+病 3.0 点，準緊急 2.5 点，緊急 3.5 点，うっ血性心不全 4.5 点，施行前 SCr 1.3～1.9
+ mg/dL→5.0 点，2.0 mg/
+	 CQ③—9
+回答
+解　説 CQ③—9
+	 CQ③—10
+回答
+解　説 CQ③—10
+12
+3リスク・患者評価
+[[p23]]
+dL 以上→10.0 点， PCI 前の大動脈内バルーンパンピング 13.0 点からなる〕は， PCI 後の重度の腎障害のリス
+ク予知に有用であるとされている（表2 ）51）．
+　しかし，リスクスコア自体は前向きには検討されていないこともあり，リスクスコアの使用を推奨するの
+は適当ではないとの意見もある9）．
+　PCI 後の CIN を予想するためのリスクスコア〔低血圧 5 点，IABP 5 点，うっ血性心不全 5 点，75 歳以上
+4 点，貧血 3 点，糖尿病 3 点，造影剤量 100
+ mL 当たり 1 点，腎機能（SCr 値＞1.5 mg/dL：4 点，または
+eGFR（mL/min/1.73 m2） ：40～60→2 点，20～＜40→4 点，＜20→6 点） 〕は CIN の発症リスク，透析のリス
+ク評価に有用であるとされている52,53）．このリスクスコア値に基づく CIN のリスク，透析のリスクはおのお
+の，5 点以下では 7.5％，0.04％，6～10 点では 14.0％，0.12％，11～16 点では 26.1％，1.09％，16 点以上では
+57.3％，12.6％と報告されている（表3 ）
+52）．
+【文　献】
+ 1） Lameire N, Adam A, Becker CR, Davidson C, McCullough PA, Stacul F, Tumlin J：Baseline renal function screening. 
+Am J Cardiol 2006；98（suppl） ：21K—26K. 〔Ⅵ〕
+ 2） Davidson CJ, Hlatky M, Morris KG, Pieper K, Skelton TN, Schwab SJ, Bashore TM：Cardiovascular and renal toxicity 
+of a nonionic radiographic contrast agent after cardiac catheterization. A prospective trial. Ann Intern Med 1989；
+110：119—124. 〔Ⅳa〕
+ 3） Abujudeh HH, Gee MS, Kaewiai R：In emergency situations, should serum creatinine be checked in all patients before 
+performing second contrast CT examinations within 24 hours?　J Am Coll Radiol 2009；6：268—273. 〔Ⅳb〕
+13
+3リスク・患者評価
+　 （文献 52）より引用，改変）
+表2 　CIN リスクスコア
+リスクファクター スコア（整数）
+低血圧 5
+大動脈内バルーンパンピング 5
+うっ血性心不全 5
+年齢＞VT?歳?S?リスクスコア?bhm?のリスク?透析のリスク
+貧血 3 0～5 7.5% 0.04%
+糖尿病 3 合計して 6～10 14.0% 0.12%
+造影剤量 100 mL 毎に１ 11～16 26.1% 1.09%
+SCr 値＞1.5 mg／dL 4 ＞16 57.3% 12.60%
+または
+eGFR（mL／min／1.73 m2）
+2：eGFR 40～60
+4：eGFR 20～＜40
+6：eGFR＜20
+表1 　CIN リスクスコア
+変数 スコア
+年齢≧80
+女性
+糖尿病
+準緊急
+緊急
+うっ血性心不全
+クレアチニン 1.3～1.9
+クレアチニン≧2.0
+経皮的冠動脈形成術前の
+　大動脈内バルーンパンピング
+ 2.0
+ 1.5
+ 3.0
+ 2.5
+ 3.5
+ 4.5
+ 5.0
+10.0
+13.0
+合計 16.5
+　 （文献 51）より引用，改変）
+[[p24]]
+ 4） Dangas G, Iakovou I, Nikolsky E, Aymong ED, Mintz GS, Kipshidze NN, Lansky AJ, Moussa I, Stone GW, Moses JW, Leon 
+MB, Mehran R：Contrast—induced nephropathy after percutaneous coronary interventions in relation to chronic kidney 
+disease and hemodynamic variables. Am J Cardiol 2005；95：13—19. 〔Ⅳb〕
+ 5） Rihal CS, Textor SC, Grill DE, Berger PB, Ting HH, Best PJ, Singh M, Bell MR, Barsness GW, Mathew V, Garratt KN, 
+Holmes DR Jr：Incidence and prognostic importance of acute renal failure after percutaneous coronary intervention. 
+Circulation 2002；105：2259—2264. 〔Ⅳb〕
+ 6） Weisbord SD, Mor MK, Resnick AL, Hartwig KC, Palevsky PM, Fine MJ：Incidence and outcomes of contrast—induced 
+AKI following computed tomography. Clin J Am Soc Nephrol 2008；3：1274—1281. 〔Ⅳa〕
+ 7）  Kim SM, Cha RH, Lee JP, Kim DK, Oh KH, Joo KW, Lim CS, Kim S, Kim YS：Incidence and Outcomes of Contrast—
+Induced NephropathyAfter Computed Tomography in Patients With CKD：A Quality Improvement Report. Am J 
+Kidney Dis 2010；55：1018—1025. 〔Ⅳb〕
+ 8） Stacul F, van der Molen AJ, Reimer P, Webb JA, Thomsen HS, Morcos SK, Almén T, Aspelin P, Bellin MF, Clement O, 
+Heinz-Peer G; Contrast Media Safety Committee of European Society of Urogenital Radiology （ESUR） ：Contrast 
+induced nephropathy：updated ESUR Contrast Media Safety Committee guidelines. Eur Radiol. 2011；21：2527—2541. 
+〔Ⅵ〕
+ 9） McCullough PA：Contrast—induced acute kidney injury. J Am Coll Cardiol 2008；51：1419—1428. 〔Ⅰ〕
+ 10） Nikolsky E, Mehran R, Turcot D, Aymong ED, Mintz GS, Lasic Z, Lansky AJ, Tsounias E, Moses JW, Stone GW, Leon 
+MB, Dangas GD：Impact of chronic kidney disease on prognosis of patients with diabetes mellitus treated with percu-
+taneous coronary intervention. Am J Cardiol 2004；94：300—305. 〔Ⅳb〕
+ 11） Rudnick MR, Goldfarb S, Wexler L, Ludbrook PA, Murphy MJ, Halpern EF, Hill JA, Winniford M, Cohen MB, VanFossen 
+DB：Nephrotoxicity of ionic and nonionic contrast media in 1196 patients：a randomized trial. The iohexol cooperative 
+study. Kidney Int 1995；47：254—261. 〔Ⅱ〕
+ 12） Lautin EM, Freeman NJ, Schoenfeld AH, Bakal CW, Haramati N, Friedman AC, Lautin JL, Braha S, Kadish EG, Sprayre-
+gen S, et al：Radiocontrast—associated renal dysfunction：incidence and risk factors. AJR 1991；157：49—58. 〔Ⅳb〕
+ 13） Parfrey PS, Griffiths SM, Barrett BJ, Paul MD, Genge M, Withers J, Farid N, McManamon PJ：Contrast material—induced 
+renal failure in patients with diabetes mellitus, renal insufficiency, or both. A prospective controlled study. N Engl J 
+Med 1989；320：143—149. 〔Ⅲ〕
+ 14） McCullough PA, Bertrand ME, Brinker JA, Stacul F：A meta—analysis of the renal safety of isosmolar iodixanol com-
+pared with low—osmolar contrast media. J Am Coll Cardiol 2006；48：692—699. 〔Ⅰ〕
+ 15） Chong E, Poh KK, Liang S, Tan HC：Risk factors and clinical outcomes for contrast—induced nephropathy after percu-
+taneous coronary intervention in patients with normal serum creatinine. Ann Acad Med Singapore 2010；39：374—380. 
+〔Ⅳa〕
+ 16） La Manna G, Pancaldi LG, Capecchi A, Maska E, Comai G, Cappuccilli ML, Carretta E, Lombardi A, Colì L, Stefoni S：
+Risk for contrast nephropathy in patients undergoing coronarography. Artif Organs 2010；34：E193—E199. 〔Ⅳb〕
+ 17） Gomes AS, Baker JD, Martin-Paredero V, Dixon SM, Takiff H, Machleder HI, Moore WS：Acute renal dysfunction after 
+major arteriography. AJR 1985；145：1249—1253. 〔Ⅳa〕
+ 18） Toprak O：Conflicting and new risk factors for contrast induced nephropathy. J Urol 2007；178：2277—2283. 〔Ⅰ〕
+ 19） Kiski D, Stepper W, Brand E, Breithardt G, Reinecke H：Impact of rennin—angiotensin—aldosterone blockade by angio-
+tensin—converting enzyme inhibitors or AT1—blockers on frequency of contrast medium—induced nephropathy：a post—
+????c—M—c（cuc）M?m?c?s?QOPO；QT：VTX—VUSM?〔Ⅳ〕
+ 20） Saudan P, Muller H, Feraille E, Martin PY, Mach F：Renin—angiotensin system blockade and contrast—induced renal 
+toxicity. J Nephrol 2008；21：681—685. 〔Ⅳa〕
+ 21） Rosenstock JL, Bruno R, Kim JK, et al：The effect of withdrawal of ACE inhibitors or angiotensin receptor blockers prior 
+to coronary angiography on the incidence of contrast—induced nephropathy. Int Urol Nephrol 2008；40：749—755. 〔Ⅳa〕
+ 22） The Society for Cardiovascular Angiography and Interventions （SCAI） ：Prevention of contrast induced nephropathy：
+recommendations for the high risk patient undergoing cardiovascular procedures. Catheter Cardiovasc Interv 2007；
+69：135—140. 
+ 23） Solomon R, Wener C, Mann D, D’Elia J, Silva P：Effects of saline, mannitol, and furosemide to prevent acute decrease in 
+renal function induced by radiocontrast agents. N Engl J Med 1994；331：1416—1420. 〔Ⅱ〕
+ 24） Majumdar SR, Kjellstrand CM, Tymchak WJ, Hervas—Malo M, Taqylor DA, Teo KK：Forced euvolemic diuretic with 
+mannitol and furosecemide for prevention of cantrast—induced nephropathy in patients with CKD undergoing coronary 
+angiography：a randomized controlled trial. Am J Kidney Dis 2009；54：602—609. 〔Ⅱ〕
+?QT）?r?uK?ké?kdK?y?aK?g?sK?a?il：`??????
+antiinflammatory drugs with acute renal failure：A population—based, nested case—control analysis. Am J Epidemiol 
+2006；164（9） ：881—889. 〔Ⅳb〕
+ 26） Barrett BJ, Parfrey PS：Clinical practice. Preventing nephropathy induced by contrast medium. N Engl J Med 2006；
+354：379—386. 〔Ⅴ〕
+ 27） Jain V, Sharma D, Prabhakar H, Dash HH：Metformin—associated lactic acidosis following contrast media—induced neph-
+M?d?i?`?QOOW；QT：PUU—PUVM?〔Ⅴ〕
+ 28） Safadi R, Dranitzki—Elhalel M, Popovtzer Ben—Yehuda A：Metformin—induced lactic acidosis associated with acute renal 
+failure. Am J Nephrol 1996；16：520—522. 〔Ⅴ〕
+14
+3リスク・患者評価
+[[p25]]
+ 29） Stades AM, Heikens JT, Erkelens DW, Holleman F, Hoekstra JB：Metformin and lactic acidosis：cause or coincidence?　
+A review of case reports. J Intern Med 2004；255：179—187. 〔Ⅴ〕
+ 30） McCartney MM, Gilbert FJ, Murchison LE, Pearson D, McHardy K, Murray AD：Metformin and contrast media―a 
+dangerous combination?　Clin Radiol 1999；54：29—33. 〔Ⅰ〕
+ 31） Rasuli P, Hammond DI：Metformin and contrast media：where is the conflict?　Can Assoc Radiol J 1998；49：161—166. 
+〔Ⅵ〕
+ 32） Goergen SK, Rumbold G, Compton G, Harris C：Systematic review of current guidelines, and their evidence base, on risk 
+of lactic acidosis after administration of contrast medium for patients receiving metformin. Radiology 2010；254：261—
+269. 〔Ⅰ〕
+ 33） Khurana R, Malik IS：Metformin：safety in cardiac patients. Heart 2010；96：99—102. 〔Ⅵ〕
+ 34） Holstein A, Stumvoll M：Contraindications can damage your health—is metformin a case in point?　Diabetologia 2005；
+48：2454—2459. 〔Ⅵ〕
+ 35） Goldenberg I, Chonchol M, Guetta V：Reversible acute kidney injury following contrast exposure and the risk of long—
+term mortality. Am J Nephrol 2009；29：136—144. 〔Ⅳa〕
+ 36） From AM, Bartholmai BJ, Williams AW, Cha SS, McDonald FS：Mortality associated with nephropathy after radio-
+graphic contrast exposure. Mayo Clin Proc 2008；83：1095—1100. 〔Ⅳa〕
+?RV）?f?kK?l?frK?l?qK?f?fK?k?`iK?j?jlK?o?`cK?r?keK?k?la：s??
+implications of further renal function deterioration within 48h of interventional coronary procedures in patients with 
+pre—existent chronic renal insufficiency. J Am Coll Cardiol 2000；36：1542—1548. 〔Ⅳa〕
+ 38） Senoo T, Motohiro M, Kamihata H, Yamamoto S, Isono T, Manabe K, Sakuma T, Yoshida S, Sutani Y, Iwasaka T：Con-
+trast—induced nephropathy in patients undergoing emergency percutaneous coronary intervention for acute coronary 
+syndrome. Am J Cardiol 2010；105：624—628. 〔Ⅳa〕
+ 39） Sadeghi HM, Stone GW, Grines CL, Mehran R, Dixon SR, Lansky AJ, Fahy M, Cox DA, Garcia E, Tcheng JE, Griffin JJ, 
+Stuckey TD, Turco M, Carroll JD：Impact of renal insufficiency in patients undergoing primary angioplasty for acute 
+myocardial infarction. Circulation 2003；108：2769—2775. 〔Ⅳa〕
+ 40） Marenzi G, Lauri G, Assanelli E, Campodonico J, De Metrio M, Marana I, Grazi M, Veglia F, Bartorelli AL：Contrast—
+induced nephropathy in patients undergoing primary angioplasty for acute myocardial infarction. J Am Coll Cardiol 
+2004；44：1780—1785. 〔Ⅳa〕
+ 41） McCullough PA, Wolyn R, Rocher LL, Levin RN, O’Neill WW：Acute renal failure after coronary intervention：incidence, 
+risk factors, and relationship to mortality. Am J Med 1997；103：368—375. 〔Ⅳa〕
+ 42） Marenzi G, Assanelli E, Campodonico J, Lauri G, Marana I, De Metrio M, Moltrasio M, Grazi M, Rubino M, Veglia F, Fab-
+biocchi F, Bartorelli A：Contrast volume during primary percutaneous coronary intervention and subsequent contrast—
+induced nephropathy and mortality. Ann Intern Med 2009；150：170—177. 〔Ⅳa〕
+ 43） Heitmeyer C, Hölscher B, Fobker M, Breithardt G, Hausberg M, Reinecke H：Prognostic value of different laboratory 
+measures of renal function for long—term mortality after contrast media—associated renal impairment. Clin Cardiol 
+2010；33：E51—E59. 〔Ⅳa〕
+ 44） 重城健太郎，山口淳一，大林賢史，鈴木香里，関口治樹，長嶋道貴，鶴見由起夫，笠貫宏：急性心筋梗塞症患者における
+造影剤誘発性腎症の臨床的意義．J Cardiol 2006；48：9—16． 〔Ⅳa〕
+ 45） Katzberg RW, Newhouse JH：Intravenous contrast medium—induced nephrotoxicity：is the medical risk really as great 
+as we have come to believe?　Radiology 2010；256：21—28. 〔Ⅳa〕
+46） Solomon R：Contrast—induced acute kidney injury：Is there a risk after intravenous contrast?　Clin J Am Soc Nephrol 
+2008；3：1242—1243. 〔Ⅵ〕
+ 47） Matsushima K, Peng M, Schaefer EW, Pruitt JH, Kashuk JL, Frankel HL Posttraumatic contrast—induced acute kidney 
+injury：minimal consequences or significant threat? J Trauma 70：415—419, 2011 〔Ⅳa〕
+ 48） Rashid AH, Brieva JL, Stokes B：Incidence of contrast—induced nephropathy in intensive care patients undergoing com-
+??????M?`?h?b?QOOX；RV：XUW—XVTM?〔Ⅳ〕
+ 49） Moranne O, Willoteaux S, Pagniez D, Dequiedt P, Boulanger E：Effect of iodinated contrast agents on residual renal 
+function in PD patients. Nephrol Dial Transplant 2006；21：1040—1045.  〔Ⅳa〕
+ 50） Dittrich E, Puttinger H, Schillinger M, Lang I, Stefenelli T, Hörl WH, Vychytil A：Effect of radio contrast media on 
+residual renal function in peritoneal dialysis patients―a prospective study. Nephrol Dial Transplant 2006；21：1334—
+1339. 〔Ⅳa〕
+ 51） Brown JR, DeVries JT, Piper WD, Robb JF, Hearne MJ, Ver Lee PM, Kellet MA, Watkins MW, Ryan TJ, Silver MT, Ross 
+CS, MacKenzie TA, O’Connor GT, Malenka DJ；Northern New England Cardiovascular Disease Study Group：Serious 
+renal dysfunction after percutaneous coronary interventions can be predicted. Am Heart J 2008；155：260—266.  〔Ⅳa〕
+52） Mehran R, Aymong ED, Nikolsky E, Lasic Z, Iakovou I, Fahy M, Mintz GS, Lansky AJ, Moses JW, Stone GW, Leon MB, 
+Dangas G：A simple risk score for prediction of contrast—induced nephropathy after percutaneous coronary interven-
+tion. J Am Coll Cardiol 2004；44：1393—1399. 〔Ⅱ〕
+ 53） Mehran R, Nikolsky E：Contrast—induced nephropathy：definition, epidemiology, and patients at risk. Kidney Int Suppl 
+2006；100：S11—S15. 〔Ⅵ〕
+15
+3リスク・患者評価
+[[p26]]
+16
+3リスク・患者評価
+3 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+2．Davidson CJ, et 
+al：Ann Intern Med 
+1989；110：119—124.
+対象：非イオン性造影剤使
+用の心カテを受けた
+1,144 例
+検査：PCI
+評価時期：非イオン性造影
+剤使用の心カテ後の心血管
+と腎毒性を明らかにする
+24 時間後の f／u：1,077 例
+（94％） ， 48時間後のf／u：
+663 例（57％）
+検査前腎障害は非イオン性造影剤による
+CIN の唯一のリスクファクターであっ
+た．検査前 SCr が 106.1 mmol／L 以上で
+は CIN のリスク上昇は急峻であった．
+心血管合併症は 0.2％（疑い例は 0.7％）
+に 起 こ っ た．SCr は 24 時 間 で 11.5 
+mmol／L 上昇（p＜0.0001） ，48 時間で
+16.8
+ mmol／L 上昇 （p＜0.0001） した．〔Ⅳa〕
+3．Abujudeh HH, et 
+al：J Am Coll Radiol 
+2009；6：268—273.
+対象：24 時間以内に造影
+CT 検査を 2 回繰り返した
+164 例
+検査：造影 CT
+評価方法：CIN の発症率と
+リスクファクターを明らか
+にする
+12.8％が CIN を発症
+唯一の CIN のリスクファクターは 1 回目
+と 2 回目の CT 間の SCr の上昇 （OR 18）
+〔Ⅳb〕
+4．Dangas G, et al：
+Am J Cardiol 2005；
+95：13—19.
+対象：PCI を受けた 7,230
+例
+検査：PCI
+評価方法 ：PCI 48 時間後
+に?rb?が≧QT％または≧
+0.5
+ mg／dL 上昇を CIN と
+定義
+CINはCKDのある患者では19.2％ （381
+人／1,980 人）に発症，CKD でない患者
+では 13.1％（688 人／5,250 人）に発症
+CINの発症はeGFR低下， 周術期低血圧，
+造影剤高用量， Ht 低値， 糖尿病， 肺水腫，
+EF＜40％などと関連
+CIN は 1 年死亡率と関連していた （CKD
+患者では OR＝2.37， 非 CKD では OR＝
+1.78）〔Ⅳb〕
+5．Rihal CS, et al：
+Circulation 2002；
+105：2259—2264.
+対象：PCI を受けた 7,586
+例
+検査：PCI
+評価方法 ：SCr＞0.5
+ mg／
+dL を ARF と定義
+PCI 後の急性腎不全の発症は，SCr が＜
+2.0 mg／dL では非糖尿病患者より糖尿病
+患者において高いが，SCr が＞2.0 mg／
+dL では糖尿病の有無にかかわらず高リス
+クであった
+3.3％（254／7,586 人 ） が ARF 発 症，
+ARF 発症は死亡と強く関連していた．〔Ⅳb〕
+6．Weisbord SD, et 
+al：Clin J Am Soc 
+Nephrol 2008；3 ：
+1274—1281.
+対象：eGFR＜60
+ mL／min／
+1.73 m2の非緊急性造影
+CT 検査を受けた 421 例
+検査：造影 CT
+評価時期：造影CT検査後，
+48 時間，96 時間
+UMT％の患者が?rb≧QT％上昇，RMT％の
+患者が SCr≧0.5 mg／dL 上昇であった．
+10.9％が入院し， 2.4％が 30 日以内に死
+亡したが，CIAKI はこれらのイベントと
+は関連しなかった．
+軽度の腎障害患者（eGFR 53
+ mL／min／
+1.73 m2） において非緊急性造影 CT 検査
+後の CIAKI は一般的ではない．〔Ⅳa〕
+7．Kim SM, et al：Am 
+J Kidney Dis 2010；
+55：1018—1025.
+対象：CIN 予防プログラム
+中の造影 CT 検査を受けた
+520 例
+検査：造影 CT
+評価方法：rb?が≧QT％ま
+たは≧0.5
+ mg／dL 上昇を
+CIN と定義
+造影 CT 検査後の CIN の発症は eGFR 
+45～59 mL／min／1.73 m2で 0％， eGFR 
+30～44 で 2.9％，eGFR＜30 で 12.1％
+であった
+〔Ⅳb〕
+[[p27]]
+17
+3リスク・患者評価
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+10． Nikolsky E, et 
+al：Am J Cardiol  
+2004；94：300—305.
+対象：PCI を受けた糖尿病
+の予後に CKD が関与する
+かを調査．
+対象はPCIを受けたDM患
+者 1,575 例， こ の う ち
+1,046 例 （66％） が非 CKD
+で，492 例（31％） が 非
+透析?bjc，RV?例が透析．
+検査：PCI PCI 後の CIN は， 非 CKD で 15％， CKD
+で 27％が発症し，透析必要例は非 CKD
+で 0.1％，CKD で 3.1％であった．
+CIN の 予 知 は PCI 前 後 の 低 血 圧（OR 
+2.62） ，インスリン治療（OR 1.84） ，造
+影剤量（OR 1.30）に関係していた．
+CIN は 1 年死亡率の予知因子であった．〔Ⅳb〕
+11．Rudnick MR, et 
+al：Kidney Int 1995；
+47：254—261.
+対象：1,196 例の心血管造
+影においてイオン性，非イ
+オン性造影剤の腎毒性を比
+較した．
+検査：心血管造影
+評価時期：SCr を－18～
+－24H，0H，24H，72H
+で検査
+急性腎毒性は検査後 48～
+72 時 間 後 の SCr≧1.0
+ 
+mg／dL の上昇とした
+評価方法 ：RI－， 糖 尿
+病 － ；RI－， 糖 尿 病 ＋；
+RI＋， 糖尿病－ ；RI＋， 糖尿
+病＋の 4 群に分けて検討
+対象群：心血管造影において，検査前腎
+障害と腎障害のある糖尿病だけが CIN の
+リスクであった．急性腎毒性はイオン性
+造影剤の diatrizoate で 7％，RI＋では
+diatrizoateの腎毒性はiohexolの3.3倍
+であった．
+対照群：非イオン性造影剤の iohexol で
+3％でみられた．
+統計学的な有意差の有無：p＜0.002
+〔Ⅱ〕
+12．Lautin EM, et al：
+AJR 1991；157：49—
+58.
+対象：大腿動脈血管造影を
+受けた 394 例
+検査：大腿動脈血管造影
+評価時期 ：SCr＞0.3
+ mg／
+dL および＞20％の上昇を
+腎障害と定義すると，
+評価方法 ：day 1，2 また
+は 3；day 5，6 または 7
+CIN は，nonazotemic gr：10％，
+ozaotemic gr：38％（p＝0.22）であっ
+た． ま た，nondiabetic nonazotemic 
+pts：2％， diabetic nonazotemic pts：
+16％（p＝0.003）であった．Diabetic 
+azotemic pts：38％，diabetic non-
+azotemic pts：16％ （0.022） であった．
+検査前の腎障害と糖尿病（特にインスリ
+ン依存性） がリスクファクターであった．
+脱水と造影剤量は CIN 発症との関連は不
+明．年齢，性，はリスクファクターでは
+なかった．〔Ⅳb〕
+13．Parfrey PS, et al：
+N Engl J Med 1989；
+320：143—149.
+対象：造影剤群（糖尿病の
+み 85 例，腎障害（SCr≧
+150
+ mmol／L） の み 101
+例， 糖尿病＋腎障害 34 例）
+対照：非造影剤群（糖尿病
+のみ5 9例 ，腎障害のみ
+145 例，糖尿病＋腎障害
+64 例）
+評価方法 ：ARF は SCr＞
+50％の上昇で定義
+対象群：糖尿病＋腎障害は CIN のリスク
+だが以前の報告より小さい．
+CIN は糖尿病＋腎障害群のみにみられ
+8.8％であった．
+糖尿病＋腎障害－，糖尿病－＋腎障害＋
+では CIN のリスクはなかった．
+対照群：1.6％であった．
+〔Ⅲ〕
+14．McCullough PA, 
+et al：J Am Coll Car-
+diol 2006；48：692—
+699.
+評価方法 ：isoosmolar 造
+影 剤 の iodixanol か low 
+o s m o l r造影剤を使った
+16 の RCT（2,727 人）の
+メタ解析．
+患者をC K D ，糖尿病 ，
+CKD＋糖尿病に分け，SCr
+の上昇と CIN の発症を検
+討
+isoosmolar 造影剤は low osmolar 造影
+剤に比較してSCrの上昇， CINの発症が，
+特にCKD， CKD＋糖尿病の患者において
+低かった．
+CIN の予知因子は CKD， CKD＋糖尿病，
+low osmolar 造影剤の使用であった．
+〔Ⅰ〕
+[[p28]]
+18
+3リスク・患者評価
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+15．Chong E, et al：
+Ann Acad Med Singa-
+pore 2010；39：374—
+380.
+対象：PCI の施行中に予防
+策をとらなかった正常 SCr
+（＜1.5 mg／dL）患者
+3,036 例
+検査：PCI
+評価時期：CIN の発症率と
+1，6 ヵ月の死亡率
+CIN の発症率は 7.3％
+CIN のリスクファクターは， 年齢（OR＝
+6.4） ， 女 性（OR＝2.0） ，LVEF＜50％
+（OR＝1.02） ， 貧 血（Hb＜11
+ mg／dL）
+（OR＝1.5） ， 収 縮 期 低 血 圧（ ＜100 
+mmHg） （OR＝1.5） ，インスリン治療中
+の糖尿病は最も高いリスク
+CIN を発症した患者の死亡率は高かった
+（1 ヵ 月 14.5％ vs 1.1％，6 ヵ 月 で
+17.8％ vs 2.2％）〔Ⅳa〕
+16．La Manna G, et 
+al：Artif Organs  
+2010；34：E193—
+E199.
+対象：冠動脈造影を受けた
+136 例
+検査：冠動脈造影
+評価方法：CIN の予防策を
+とった症例の CIN リスク
+ファクターは何か
+15.44％が CIN を起こした．
+高齢と心室機能不全 （EF＜40％） が CIN
+のリスクファクターであった．
+心室機能不全，貧血，糖尿病，心筋梗塞
+の既往， 高齢 （＞70 歳） の複合は CIN の
+リスクを 3 倍上昇させた．〔Ⅳb〕
+17．Gomes AS, et al：
+AJR 1985；145：
+1249—1253.
+対象：動脈造影検査を受け
+た 364 例
+検査：動脈造影 検査前腎障害，高齢，造影剤使用量，検
+査方法，糖尿病，合併する心疾患は CIN
+のリスクファクターであった．
+CIN は全体で 7.1％にみられ， 1.4％は透
+析を必要とした．
+CIN の頻度は検査前腎障害のある患者で
+高かった（14.8％） ， このうち 3.7％は透
+析を要した．〔Ⅳa〕
+19．Kiski D, et al：
+Nephrol Dial Trans-
+?QOPO；QT：VTX—
+764.
+SCr 1.3
+ mg／dL 以 上 3.0 
+mg／dL 未満　412 例
+対象：ACE 阻害薬投与中
+236 例， ARB 投与中 33 例
+（計 269 例）
+対照：ACE 阻害薬， ARB 非
+投与症例　143 例
+検査：CAG
+評価時期：72 時間以内
+評価方法：SCr＞＝0.5 mg／
+k?もしくは?QT％以上の上
+昇
+対象群：CIN の発症率　11.9％
+対照群：CIN の発症率　4.2％
+統計的な有意差の有無：p＝0.005〔Ⅳb〕
+20．Saudan P, et al：J 
+Nephrol 2008；21：
+681—685.
+対象：ACE阻害薬もしくは
+ARB 治療症例　17 例
+対照：ACE 阻害薬， ARB 非
+投与症例　18 例
+検査：CAG
+評価時期：CAG 24 時間前
+と直後
+評価方法：GFR の変化
+対象群 ：101→91
+ mL／min，変化率－
+9％
+対照群：78→90
+ mL／min，変化率－1％
+統計的な有意差の有無：p＝0.049〔Ⅳa〕
+21．Rosenstock JL, et 
+al：Int Urol Nephrol 
+2008；40：749—755
+ACE 阻害薬もしくは ARB
+治療症例 CKD 3～4
+対象：ACE 阻害薬， ARB の
+CAG 24 時 間 前 の 中 止　
+113 例
+対照：ACE 阻害薬， ARB 継
+続　107，ACE 阻 害 薬，
+ARB 非投与例　63 例
+検査：CAG
+評価時期：24～72 時間後
+評価方法：SCr＞＝0.5 mg／
+k?もしくは?QT％以上の上
+昇
+CIN の発症率（％）：中止群 3.7，継続群
+6.2，非投与群 6.3
+統計的な有意差の有無：p＝0.66
+〔Ⅳa〕
+[[p29]]
+19
+3リスク・患者評価
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+23． Solomon R, et 
+al：N Engl J Med 
+1994；331：1416—
+1420.
+SCr 1.6
+ mg／dL より高値
+あるいはクレアチニンクリ
+アランス 60／mL 未満
+対象 ： 下 記　0.45 食 塩
+水＋QT
+??マニトール　QT
+例
+下 記　0.45 食 塩 水 ＋80
+ 
+mg フロセミド　25 例
+対照 ：0.45％ 食 塩 水　1
+ 
+mL／kg／hour CAG 12 時
+間前に開始 ，術中継続 　
+QT?例
+検査：CAG
+評価時期：48 時間
+評価方法：SCr 0.5
+ mg／dL
+以上の上昇
+CIN 発症頻度：中止群 3.7， 継続群 6.2，
+非投与群 6.4
+対象群：V／QT（QW％）?，PO／QT（SO％）
+対照群：R／QT（PP％）
+統計的な有意差の有無：p＝0.01
+〔Ⅱ〕
+24．Majumdar SR, et 
+al：Am J Kid Dis  
+2009；54：602—609.
+SCr＞1.7 mg／dL　92 例
+対象 ：下記＋ 2 5 gマニ
+トール，100 mg フロセミ
+ド （尿量分は 0.45％食塩水
+で補充投与）
+対照：0.45％食塩水含 （15
+ 
+mmol KCL） 　500 mL を
+術前 4 時間で投与
+検査：CAG
+評価時期：49 時間
+評価方法：SCr＞＝0.5
+ mg／
+k?もしくは?QT％以上の上
+昇
+CIN 発症頻度
+対象群：50％
+対照群：28％
+統計的な有意差の有無：p＝0.03〔Ⅱ〕
+QT．r?uK??
+al：Am J Epidemiol 
+2006；164：881—889.
+対象 ：NSAIDs 服 用 中 の
+4,228 例
+対照：年齢をマッチさせた
+84,540 例
+検査：なし
+評価方法：CIN ではなく，
+NASADs服用後30日以内
+の急性腎傷害の発症頻度と
+しての検討．
+RR 2.05　95％ CI 1.61～2.60
+〔Ⅳb〕
+26．Barrett BJ, et al：
+N Engl J Med 2006；
+354：379—386.
+対象：CINの予防策をレ
+ビュー
+対象群：低血圧， IABP， うっ血性心不全，
+VT?歳以上，貧血，糖尿病，造影剤量，
+SCr または eGFR からなるリスクスコア
+は有名である．
+対照群：Mehran R の KI からの引用〔Ⅴ〕
+35．Goldenberg I, et 
+al：Am J Nephrol 
+2009：29：136—144.
+対象：78 例，CKD
+対照：可逆的 AKI 10 例
+　　　非 AKI 68 例
+検査：冠動脈造影， iopam-
+idol 8～15
+ mL
+造影時間：48 時間後
+評価方法：rb＞QT％，
+≥0.5 mg／dL
+対象群：2 年後死亡率 12％，5 年後死亡
+率 90％，なし，32％
+統計的な有意差の有無：p＜0.001
+HR 2.66，95％CI 0.72—4.46，p＝
+0.001
+備考：KDIGO prospective〔Ⅳa〕
+[[p30]]
+20
+3リスク・患者評価
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+36．From AM, et al：
+Mayo Clin Proc  
+2008：83（10）1095—
+1100.
+対照：CIN 809 例
+対照：非 CIN 2,427 例
+検査：CT，CTA，血管造
+影，静脈造影，心臓カテー
+テル検査
+95％低浸透圧造影剤
+動注 47％，静注 53％
+36.0±14.6gI
+37.4±15.1gI
+評価時期：造影 7 日後
+評価方法：rb≥QT％，
+≥0.5
+ mg／dL
+対象群：30 日死亡率 15.6％，1 年後死
+亡率 31.8％，5.2％，22.6％
+統計的な有意差の有無：30 日死亡率 p＜
+0.001
+OR 3.37，95％CI 2.58—4.41，p＜
+0.001
+1 年死亡率 p＜0.001，HR 1.57，95％
+CI 1.32—1.86，p＜0.001
+備考：動注よりも静注の 30 日・1 年死亡
+のリスクが高い
+KDIGO
+retrospective case—matched
+cohort study〔Ⅳa〕
+RV．f?kK??：
+J Am Coll Cardiol 
+2000：36：1542—
+1548.
+対象：439 例
+SCr≥1.8
+ mg／dL
+透析を除く
+対照：SCr 上昇 161 例
+　　　SCr 非上昇 278 例
+検査：PCI，ioxaglate
+261±148 mL
+214±98 mL
+評価時期：48 時間以内
+評価方法?：rb≥QT％　透
+析
+対象群：院内死亡率 14.9％，1 年累積死
+亡率 37.7％　4.9％，19.4％
+統計的な有意差の有無：p＝0.001　p＝
+0.001
+死亡 OR 3.86， 95％CI 1.96—7.58， p＝
+0.0001
+備考：ESUR〔Ⅳa〕
+38．Senoo T, et al：
+Am J Cardiol 2010；
+105（5） ：624—628.
+対象：338 例
+連続する緊急 PCI を施行し
+た ACS 例
+冠動脈の解剖が PCI 不適・
+緊急バイパスグラフとを要
+した症例・慢性腹腔透析・
+血液透析・入院時心原性
+ショック例を除く
+対照：CIN 94 例
+　　　非 CIN 244 例
+検査：緊急 PCI
+非イオン性低侵等圧造影剤
+229±77
+ mL
+＞200 mL：72％
+210±93 mL
+＞200 mL：46％
+評価時期：PCI 後 2 日
+評価方法：rb＞QT％，
+＞0.5 mg／dL
+対象群：院内死亡率 9 例（9.6％）
+心原性ショック2例， 難治性心不全4例，
+多臓器不全 1 例，その他 2 例，
+8 例（3.3％）
+心原性ショック1例， 難治性心不全3例，
+多臓器不全 1 例，虚血性脳梗塞 1 例，左
+室自由壁破裂 1 例，その他 1 例
+統計的な有意差の有無：p＝0.025
+備考：女性（OR 2.38） ，左前下降枝病変
+（OR 2.37） ， 造 影 剤 量 ＞200
+ mL（OR 
+3 . 6 0 ） ，拡張終期肺動脈圧1 5 mmHg
+（OR 2.03） ，creatine kinase ピーク値
+3,000 IU／L（OR 2.47）〔Ⅳa〕
+39．Sadeghi HM, et 
+al：Circulation 2003：
+108：2769—2775.
+対象：2,082 例
+発症 12 時間以内にショッ
+クを呈さない急性心筋梗塞
+患者
+対照：CIN 発症群 86 例
+　　　CIN 非発症群
+1,798 例
+検査：PCI
+評価時期：入院期間 5.7±
+3.5 日
+評価方法：rb＞QT％，
+＞0.6
+ mg／dL
+対象群：30 日死亡率 16.2％，1 年死亡
+率 23.3％　1.2％，3.2％
+統計的な有意差の有無 ：Relative Risk 
+13.8，95％CI 7.3—26.2，p＜0.0001
+RR 7.4，95％CI 4.7—11.7，p＜0.0001
+備考：既存の腎障害が死亡率増加のリス
+クである．
+ESUR
+prospective multicenter randomized 
+trial〔Ⅳa〕
+[[p31]]
+21
+3リスク・患者評価
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+40．Marenzi G, et al：
+J Am Coll Cardiol 
+2004：44：1780—
+1785.
+対象：208 例，透析を除く
+対照：CIN 40 例
+　　　非 CIN 168 例
+検査：primary PCI
+378±200
+ mL
+286±126 mL
+評価時期：術後 3 日
+評価方法 ：SCr＞0.5 mg／
+dL
+対象群：院内死亡率 31％，0.60％
+統計的な有意差の有無：p＜0.0001
+備考：ESUR
+prospective study
+〔Ⅳa〕
+41．McCullough PA, 
+et al：Am J Med  
+1997：103：368—375.
+対象：1,826 例，透析・重
+複手技例を除く
+対照：ARF 264 例
+　　　ARFD 14 例
+検査：PCI
+diatrizoate 54.9％，iox-
+aglate 33.0％， 両剤 12％
+24.0～835.1
+ mL
+評価時期：術後 1～5 日
+評価方法?：rb≥QT％，透
+析
+統計的な有意差の有無 ：院内死亡率 OR 
+6.56，95％CI 3.34～12.92，p＜
+0.0000
+OR 13.54，95％CI 3.92～46.8，p＜
+0.00001
+備考 ：院内死亡率3 5 . 7 ％ ， 2年生存
+18.8％
+ESUR〔Ⅳa〕
+42．Marenzi G, et al：
+Ann Intern Med  
+2009；150（3） ：170—
+177.
+対象：561 例
+連続するprimary PCIを施
+行した STEMI 例
+長期腹膜透析・血液透析・
+心臓手術・PCI 中の死亡・
+PCI 前の NAC 静注例
+対照 ：CIN 115 例
+（20.5％）
+血液ろ過・血液透析 14 例
+検査：primary PCI
+iohexol, iomeprol
+評価時期 ：PCI 後 72 時間
+以内
+評価方法：rb＞QT％
+対象群：院内死亡率 21.4％透析を要した
+CIN 例の死亡率が高い （64％ vs. 16％；
+p＜0.001）
+Cigarroa らの式による最大造影剤投与
+量を超えると院内死亡率が高い（13％ 
+vs. 3％；p＜0.001）0.90％
+統計的な有意差の有無：p＜0.001
+備考：院内主要合併症率が高い；心原性
+シ ョ ッ ク 28％ VS. 4％， 人 工 呼 吸 器
+23％ VS. 3％，主要出血性事象 10％ vs. 
+2％， 心房細動 15％ vs. 5％ （p＜0.001）
+Prospective，observational study〔Ⅳa〕
+43． Heitmeyer C：
+Clin Cardiol 2010；33
+（12） ：E51—5E9.
+対象：412 例
+心臓カテーテル検査施行例
+3.5＞Scr＞1.3
+ mg／dL
+7 日以内の心筋梗塞・うっ
+血性心不全（Class Ⅳ） ・臓
+器移植レシピエント・単ク
+ローン性免疫グロブリン血
+症・7 日以内の造影剤暴露
+を除く
+CIN 非発症群 1,800 例
+検査：冠動脈造影，PCI
+iopromide 370mgI／mL
+評価時期：術後 1～6 日
+評価方法 ：SCr≥26％，透
+析
+長期死亡率 ：48 時間後 Scr 上昇（HRR 
+1.754，95％CI 1.134—2.712） ，30 日
+後 Scr 上 昇（HRR 3.157，95％ CI 
+1.968—5.064） ，30 日 後 eGFR 減 少
+（HRR 0.962，95％ CI 0.939—0.986）
+統計的な有意差の有無 ：単変量コックス
+回帰モデル
+長期死亡率：48 時間後 Scr （HRR 1.608，
+95％CI 1.002—2.581） ，30 日 後 Scr
+（HRR 2.685，95％ CI 1.598—4.511）
+統計的な有意差の有無 ：多変量コックス
+回帰モデル
+1 年死亡率：48時間後Scr＞0.5
+ mg／dL，
+p＝0.016
+統計的な有意差の有無：log rank 検定
+備考：同報告；Hölscher B：Can J Car-
+diol 2008；24：845—850.〔Ⅳa〕
+[[p32]]
+22
+3リスク・患者評価
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+44．重城健太郎，他：J 
+Cardiol 2006：48
+（1） ：9—16．
+対象：132 例
+造影剤不明・血液透析例を
+除く
+対照：CIN 発症群 15 例
+　　　CIN 非発症群
+検査：緊急冠動脈造影
+iopamidol 13，iomeprol 
+1
+ioxaglate
+評価時期：造影剤使用 48
+時間後
+評価方法?：rb?QT％??
+0.5
+ mg／dL 以上増加
+対象群：院内死亡率 13.3％
+平均追跡期間 40 ヶ月の遠隔期予後 （死亡
+率）26.7％
+1.7％，8.6％
+統計的な有意差の有無 ：有意に高率，
+オッズ比 8.85， 95％CI 1.15—68.2， p＝
+0.01
+有意に多い，ハザード比 3.91，95％CI 
+1.21—12.5，p＝0.02〔Ⅳa〕
+47．Matsushima K, et 
+al：J Trauma 2011；
+70：415—420.
+対象：1,184 例，外傷患者
+対照：CIAKI 78 例 （6.6％）
+検査：低浸透圧造影剤，非
+イオン性造影剤
+iv
+CT，血管造影
+評価時期：72 時間以内
+評価方法 ：SCr＞0.5
+ mg／
+k?＞QT％
+対象群：院内死亡 9.0％
+　　　　院内死亡 3.2％
+統計的な有意差の有無：p＝0.02
+院内死亡
+Odds ratio 1.83， 95％CI 0.72—4.68，
+p＝0.21
+〔Ⅳa〕
+48．Rashid AH, et al：
+Anaesth Intensive 
+b?QOOX；RV：XUW—
+975
+対象：139 例　ICU
+対照：CIN 16 例 （11.5％）
+　　　123 例
+検査：造影 CT
+iopromide 300 mg／mL
+評価時期：48～72 時間後
+評価方法：SCr
+＞SSMQμ?／k?＞QT％
+対象群：ICU 死亡 51 例（31％）院内死
+亡 8 例（50％）ICU 死亡 16 例（13％）
+院内死亡 32 例（26％）
+統計的な有意差の有無：p＝0.068
+　　　　　　　　　　　p＝0.074
+〔Ⅳa〕
+51．Brown JR, et al：
+Am Heart J 2008；
+155：260—266.
+対象：透析を受けていない
+PCI 施行患者 11,141 例
+検査：PCI
+評価方法：PCI 後におきる
+重度腎障害（新たな透析施
+行，Cr 2.0 mg／dL 以上の
+上昇， または Cr の 50％上
+昇）のリスクを明らかにす
+る．
+対象群：重度の腎障害は 0.74％に発症，
+重度腎障害は死亡率にも関係していた
+（腎障害有→19.3％， 腎障害無→0.9％） ．
+施行前の血清 Cr，うっ血性心不全，糖尿
+病がリスクであった．
+年齢，女性，糖尿病，緊急性，うっ血性
+心不全，前クレアチニン，PCI 前の IABP
+からなるリスクスコアは有用である．〔Ⅳa〕
+52．Mehran R, et al：
+J Am Coll Cardiol 
+2004；44：1393—
+1399.
+PCI 後の CIN を予想するリ
+スクスコアを検討するため
+に，8357 人の患者のデー
+タセットを，ランダムに
+development dataset と
+validation datasetに振り
+分けて検討した．
+検査：PCI 対象群：低血圧， IABP， うっ血性心不全，
+VT?歳以上，貧血，糖尿病，造影剤量，
+SCr または eGFR からなるリスクスコア
+は有用である．
+〔Ⅱ〕
+[[p33]]
+4
+造影剤投与量の減量は CIN 発症のリスクを減少させるか？（CQ⑤—2 参照）
+造影剤投与量は，CIN 発症のリスクファクターの 1 つであり，投与量は必要最小限にするこ
+とを推奨する．
+エビデンスレベル：Ⅱ	 推奨グレード：A
+背　景
+　カテーテルによる治療の進歩は低侵襲治療の発達に寄与する一方で， 造影剤が主として X 線診断に使用さ
+れていた時代と異なり，造影剤投与量が増加している．また，CT 機器の進歩により広範囲にわたる造影検
+査が可能になり，診断時に投与する造影剤量も一部の検査で増加する傾向がある．近年は冠動脈の評価にお
+いても造影冠動脈 CT がルーチン検査になりつつあるが， 以前よりヨード造影剤の投与量と CIN 発症の関連
+が指摘されている．
+　Cigarroa ら1）は，冠動脈造影を施行した患者を対象とし，体重と SCr 値を用いて最大造影剤投与量＝ 〔造
+影剤 5（mL／kg） ×体重（kg） 〕 ／SCr（ただし，分子の造影剤量が 300 mL を超える場合は，上限を 300 mL と
+する） と定義して RCT を行った．計算例：体重 50 kg で SCr 1.0 mg／dL の場合， 最大造影剤投与量は 5 （mL／
+kg） ×50 kg／1＝250 mL となる．一方，体重 70 kg で SCr 1.0 mg／dL の場合，最大造影剤投与量は 5 （mL／
+kg） ×70 kg／1＝350 mL ではなく，300（mL） ／1＝300 mL となる．
+　結果として，最大造影剤投与量を超えて造影剤を使用した場合の CIN 発症率は 21％（6／29 例）で，最大
+造影剤投与量内の発症率 2％（2／86 例）より有意に高かった．
+　また， Nyman ら2）は， PCI を施行した 391 例を対象にした検討にて， CIN の独立した予測因子は「造影剤
+投与量」 ， 「eGFR」 ， 「LVEF」 ， 「心原性ショック」であり，造影剤投与量（gram—iodine）と腎機能（eGFR）
+との比（gram—iodine／eGFR）が 1 以上の CIN 発症率は 25% で，1 未満における 3% より有意に高いと報告
+している．
+　Brown ら3）の PCI 患者の SCr 値の 0.3 mg／dL 上昇もしくは 50％以上の上昇をきたした AKI 発症の検討で
+も，Cigarroa らの提唱した最大投与量を超えない投与量では統計学的に有意差がなかったのに対し，最大投
+与量の 1.5 倍までの投与量で OR 1.60 （95％CI 1.2～1.97） ， 1.5～2 倍までの投与量で 2.02 （95％CI 1.45～2.81） ，
+2 倍以上の投与量で 2.94（95％CI 1.93～4.48）と， 造影剤投与量の増加によりその発症頻度が増加している．
+　造影剤の静脈内投与について，Weisbord ら
+4）は，421 例の造影 CT における検討の結果，造影剤投与量が
+100 mL を超えた場合には CIN 発症のリスクが高くなることを報告している〔OR 3.3（95%CI 1.0～11.5） 〕 ．
+低浸透圧造影剤は高浸透圧造影剤と比較して CIN 発症のリスクを減少させるか？
+CIN 発症のハイリスク症例では，高浸透圧造影剤と比較して腎障害を惹起しにくい低浸透圧
+造影剤の使用を推奨する．なお，本邦では高浸透圧造影剤に血管内投与の適応はない．
+エビデンスレベル：Ⅱ	 推奨グレード：該当せず
+	 CQ④—1
+回答
+解　説 CQ④—1
+	 CQ④—2
+回答
+23
+造影剤の種類と量
+[[p34]]
+等浸透圧造影剤と低浸透圧造影剤との間で CIN の発症リスクに違いがあるか？
+等浸透圧造影剤と低浸透圧造影剤との間で CIN の発症リスクに違いがあるかについては， い
+まだ明確な結論は得られていない．
+エビデンスレベル：Ⅱ	 推奨グレード：該当せず
+異なる種類の低浸透圧造影剤間で CIN 発症のリスクに違いがあるか？
+異なる種類の低浸透圧造影剤間での CIN 発症頻度の差については， いまだ明確な結論は得ら
+れていない．
+エビデンスレベル：Ⅱ	 推奨グレード：該当せず
+背　景
+　X 線造影剤として高浸透圧造影剤が長期間使用されてきたが，高浸透圧による種々の副作用を引き起こし
+た．1980 年代から市販された低浸透圧造影剤の登場と， その後の等浸透圧造影剤の開発により全体の副作用
+は減少し， わが国では 2001 年 2 月からイオン性高浸透圧造影剤の血管内投与は保険適用からはずれている．
+CIN は低浸透圧造影剤の普及により減少したが，現在も造影剤の主たる副作用の 1 つであり，現在使用され
+ている低浸透圧造影剤，等浸透圧造影剤間での発症率の違いに関心がもたれている．なお，造影剤の浸透圧
+は，等ヨード含有量において高浸透圧造影剤＞低浸透圧造影剤＞等浸透圧造影剤の順であり，低浸透圧造影
+剤の生理食塩水に対する浸透圧比（2～4 倍程度）は，等浸透圧造影剤（浸透圧比 1）より高いことに注意を
+要する．
+　Barrett ら5）の 31 試験のメタ解析の結果によると，イオン性高浸透圧造影剤に対して非イオン性低浸透圧
+造影剤による腎障害の OR は 0.61（95％CI 0.48，0.77）であった．なお，わが国においては 2001 年 2 月に，
+イオン性高浸透圧造影剤の血管内投与の保険適用が削除されている．
+　低浸透圧造影剤と等浸透圧造影剤間の比較では， Aspelin ら6）が， 冠動脈または大動脈から大腿動脈血管造
+影を受けた SCr 1.5～3.5 mg／dL の糖尿病患者 129 例において等浸透圧造影剤群では 3％（2 例 ／64 例）が 0.5 
+mg／dL 以上の SCr 上昇を示し， 低浸透圧造影剤群 26％（17 例 ／65 例）と比較して有意に低く（p＝0.002） ，
+等浸透圧造影剤は低浸透圧造影剤に比べて CIN が発症する可能性が低いと報告した．しかしながら，Solo -
+mon ら
+7）のランダム化比較前向き試験では， 等浸透圧造影剤（iodixanol）と低浸透圧造影剤（iopamidol）で
+は有意な差はなかった．g?らW）の?QT?試験でのメタ解析によると，等浸透圧造影剤は?bhm?発症のリス
+クを低減しなかった（相対リスク 0.80，95％CI 0.61～1.04） ．しかし，経動脈的投与した腎機能が低下してい
+る患者群では，特定の低浸透圧造影剤（iohexol）との比較において CIN 発症のリスクは等浸透圧造影剤
+（iodixanol）で有意に低かったが（相対リスク 0.38，95％CI 0.21～0.68） ，ほかの低浸透圧造影剤と等浸透圧
+造影剤の間には有意差はなかった（相対リスク 0.95，95％CI 0.50～1.78）と報告し，低浸透圧造影剤間のリ
+スクに差がある可能性が示唆されている．一方で，Liss ら9）は，CIN 発症のハイリスク症例では等浸透圧造
+影剤（iodixanol）のほうが低浸透圧造影剤（iohexol, ioxaglate）より CIN のリスクが高いと報告している．
+CIN に関連する欧米ガイドラインを表１10～13）に示した．2011 年改訂の ESUR ガイドラインでは低浸透圧また
+は等浸透圧造影剤の使用を推奨している10）．2009 年改訂の 「ACC/AHA ST 上昇心筋梗塞患者管理ガイドラ
+イン」および「ACC/AHA/SCAI PCI ガイドライン」11）では，等浸透圧造影剤あるいは iohexol, ioxaglate 以
+外の低浸透圧造影剤の使用が推奨されていたが，2011 年改訂の「ACCF/AHA 不安定狭心症/非 ST 上昇型
+	 CQ④—3
+回答
+	 CQ④—4
+回答
+解　説 CQ④—2，3，4
+24
+4造影剤の種類と量
+[[p35]]
+QT
+4造影剤の種類と量
+表2 　経静脈投与と経動脈投与による CIN の発症頻度
+著者 経静脈投与群 経動脈投与群 対象患者 評価時期 CIN 基準
+経静脈投
+与後CIN
+発症率
+経動脈投
+与後CIN
+発症率
+統計学的な
+有意差の有無
+Chou SH,
+et al
+14）
+経静脈投与
+67 例
+等浸透圧造影剤
+経動脈投与
+99 例
+等浸透圧造影剤
+動注または静注の造影
+剤投与を受け 7 日以内
+に非造影腹部骨盤 CT
+を受けた連続 166 例
+5 日以内
+の CIN
+発現率
+SCr＞0.5 mg
+／dL 上昇
+4％
+（3／67）
+9％
+（9／99）
+透 析2例
+有意差なし
+p＝0.366
+Lufft V,
+et al15）
+経静脈投与
+（CTA 群）
+33 例
+造影剤量平均：
+CTA：
+163±13 mL
+低浸透圧造影剤
+経動脈投与
+（DSA 群）
+31 例
+造影剤量平均：
+DSA：
+104±56 mL
+低浸透圧造影剤
+腎動脈の CTA，DSA
+施行患者
+造影剤投与量に有意差
+あり（p＜0.0001）
+2 日後 SCr＞0.5 mg
+／dL
+rb≧QT％
+上昇
+9.1％
+（3／33）
+6.5％
+（2／31）
+経静脈投与で
+造影剤量が多
+いにもかかわ
+らず CIN の
+有意差なし
+Ahuja TS,
+et al
+16）
+経静脈投与
+12 例
+高浸透圧造影剤
+経動脈投与
+23 例
+高浸透圧造影剤
+腎移植患者 44 例
+（腎機能評価は 35 例）
+1～3 日
+後
+rb≧QT％
+上昇
+16.7％
+（2／12）
+21.7％
+（5／23）
+有意差なし
+表3 　腎機能障害患者における経静脈投与による CIN の発症頻度
+著者 造影剤 前向き観察 CIN 基準 CIN 発症率
+Teplel M, et al18） LOCM ○ SCr≧0.5 mg／dL  9／42（21％）
+Becker CR, et al19） IOCM ○ SCr≧0.5 mg／dL  9／100（9％）
+Barrett BJ, et al20） LOCM, IOCM ○ SCr≧0.5 mg／dL  2／153（1.3％）
+Thomsen HS, et al21） LOCM, IOCM ○ SCr≧0.5 mg／dL  5／148（3.4％）
+j?liK??QQ）?knblK?hnbl?○?rb≧QT％?PR／QSW（TMQ％）
+Nguyen SA, et al23） LOCM, IOCM ○ SCr≧0.5 mg／dL 13／117（11.1％）
+Weisbord SD, et al4） LOCM, IOCM ○ SCr≧0.5 mg／dL 13／367（3.5％）
+合計
+64／1,175（5.4％）
+（文献 14）より引用，改変）
+表1 　CIN 関連ガイドラインにおける造影剤選択に関する記載
+ガイドライン 造影剤選択に関する記載
+1 ESUR ガイドライン（2011 年改訂）10） 〔1.3 検査時：CIN のリスクが高い患者〕
+・低浸透圧または等浸透圧造影剤を使用する
+2
+ACC/AHA ST 上昇型心筋梗塞患者管理ガイド
+ライン（2009 年改訂）11）
+・ 血管造影を施行する血液透析を受けていない CKD 患者において
+は、 等浸透圧造影剤 （エビデンスレベル A）  あるいは低浸透圧造影
+剤（iohexol，ioxaglate 以外）を推奨 （エビデンスレベル B）
+3
+ACCF/AHA 不安定狭心症/非 ST 上昇型心筋梗
+塞患者の管理におけるガイドライン
+12）
+ACCF/AHA/SCAI PCI ガイドライン （2011 年
+改訂）
+13）
+・ 低浸透圧造影剤もしくは等浸透圧造影剤のどちらを推奨するかに
+関する十分なエビデンスに乏しい
+[[p36]]
+26
+4造影剤の種類と量
+表4 　ヨード造影剤浸透圧一覧表
+浸透圧 一般名
+（製品名）
+ヨード含有量
+（mgl/mL）
+浸透圧比
+（生理食塩水に
+対する比）
+実測浸透圧※
+（mOsm/kg H2O） 適応
+高浸透圧
+アミドトリゾ酸
+amidotrizoic acid（INN）
+diatrizoic acid（USP）
+（ウログラフィン）
+292※※ 約6 ― 直接胆道・膵管・逆行性
+尿路・関節
+370※※ 約9 ― 睡液腺
+イオタラム酸
+iothalamic acid
+（コンレイ）
+141※※ 約3 ― 逆行性尿路
+282※※ 約5 ― 直接胆道・膵管・逆行性
+尿路・関節
+400
+※※ 約8 ― 精のう
+イオトロクス酸
+iotroxic acid
+（ビリスコピン）
+50 約1 ― 静脈性胆道
+低浸透圧
+イオパミドール
+iopamidol
+（イオパミロン）
+150 約1 34024）
+CT・血管・尿路300 約3 62024）
+370 約4 80024）
+イオヘキソール
+iohexol
+（オムニパーク）
+140 約1 ― CT・血管
+180※※ 約1 ― 脳室・脳槽・脊髄
+240 約2 52024） C T ・血管 ・尿路 ・脳
+室・脳槽・脊髄
+300 約2 680
+24） CT・血管・尿路・脊髄
+350 約3 83024） CT・血管・尿路
+イオベルソール
+ioversol
+（オプチレイ）
+160 約1 35024） 血管
+240 約2 50024） CT
+320 約2 71024） CT・血管・尿路
+350 約3 79024） 血管
+イオメプロール
+iomeprol
+（イオメロン）
+300 約2 52024）
+CT・血管・尿路
+350 約2 62024）
+400 約3 73024） 血管・尿路
+イオプロミド
+iopromide
+（プロスコープ）
+150 約1 33024）
+CT・血管・尿路
+240 約2 48024）
+300 約 2～3 61024）
+370 約 3～4 80024）
+イオキシラン
+ioxilan
+（イマジニール）
+300 約2 57025）
+CT・血管・尿路
+350 約3 69025）
+イオキサグル酸
+ioxaglic acid
+（ヘキサブリックス）
+320 約2 ― CT・血管・尿路
+等浸透圧
+イオトロラン
+iotrolan
+（イソビスト）
+240※※ 約1 ― 脳室・脳槽・脊髄・関節
+300※※ 約1 ― 子宮卵管・関節
+イオジキサノール
+iodixanol
+（ビジパーク）
+270 約1 ― 血管・直接胆道・膵管・
+逆行性尿路
+320 約1 ― 血管
+添付文書には，日本薬局方に従い氷点降下法により測定した造影剤の浸透圧比が記載されている．
+※ 実測浸透圧
+※※ 血管内投与不可
+造影剤の浸透圧は高浸透圧造影剤＞低浸透圧造影剤＞等浸透圧造影剤の順であり，低浸透圧造影剤の生理食塩水に対する浸
+透圧比（2～4 程度）は等浸透圧造影剤（浸透圧比 1）より高いことに注意する．
+[[p37]]
+心筋梗塞患者管理ガイドライン」12）および「ACCF/AHA/SCAI PCI ガイドライン」13）では，低浸透圧造影剤
+もしくは等浸透圧造影剤のどちらかを推奨するかのエビデンスに乏しく，CIN 発症のリスクが高い場合に
+は，適切な補液と必要最少量の低/等浸透圧造影剤を用いることが望ましいと記載されている．
+造影剤の侵襲的 （経動脈） 投与は， 非侵襲的 （経静脈） 投与と比較して CIN 発症のリスクを増加
+させるか？
+現時点で造影剤の経動脈投与を CIN 発症の独立したリスク因子とするエビデンスはないが，
+これまでの報告では， 侵襲的（経動脈）投与は， 非侵襲的（経静脈）投与と比較して CIN 発
+症率が高い傾向がある．
+エビデンスレベル：Ⅳa	 推奨グレード：該当せず
+背　景
+　造影剤の経静脈検査における投与量は，検査部位や検査法によりほぼ確立されている．経動脈検査におけ
+る投与量も同様であるが，近年の経動脈投与の多くはカテーテル治療に伴っており，新たな治療法の開発や
+適応拡大に伴い，CIN に対する関心も高まっている．
+　CIN の研究の多くは経動脈投与での検討であり， 投与経路の違いによる CIN 発症のリスクを検討した報告
+は， ごく少数である．また， 経動脈投与では， カテーテル治療などによる影響が加わっていることも多いが，
+経動脈投与と比較して経静脈投与のほうが CIN の発症率が低い傾向にある （表2）14～16）．Katzberg ら17）の総
+説では，前向き観察 7 文献の結果から腎機能障害のある患者における低浸透圧もしくは等浸透圧造影剤の経
+静脈投与において， CIN 発症率は 5.4％であると紹介しており， 経静脈投与は経動脈投与に比べてリスクが低
+い可能性を示唆している．腎機能障害患者における造影剤投与による CIN 発症頻度を表34， 18～23）に示す．各
+種ヨード造影剤と浸透圧について表Sにまとめる?QS，?QT）．
+【文　献】
+ 1） Cigarroa RG, Lange RA, Williams RH, Hillis LD：Dosing of contrast material to contrast nephropathy in patients with 
+renal disease. Am J Med 1989；86：649—652. 〔Ⅳb〕
+ 2） Nyman U, Bjork J, Aspelin P, Marenzi G：Contrast medium dose—GFR ratio：a measure of systemic exposure to predict 
+contrast—induced nephropathy after percutaneous coronary intevention. Acta Radiol 2008；49：658—667. 〔Ⅴ〕
+ 3） Brown JR, Robb JF, Block CA, Schoolwerth AC, Kaplan AV, O’Connor GT, Solomon RJ, Malenka DJ：Does safe dosing 
+of iodinated contrast prevent contrast—induced acute kidney injury?　Circ Cardiovasc Interv 2010；3：346—350. 〔Ⅱ〕
+ 4） Weisbord SD, Mor MK, Resnick AL, Hartwig KC, Palevsky PM, Fine MJ：Incidence and outcomes of contrast—induced 
+AKI following computed tomography. Clin J Am Soc Nephrol 2008；3：1274—1281. 〔Ⅳa〕
+ 5） Barrett BJ, Carlisle EJ：Metaanalysis of the relative nephrotoxicity of high— and low—osmolality iodinated contrast media. 
+Radiology 1993；188：171—178. 〔Ⅰ〕
+ 6） Aspelin P, Aubry P, Fransson SG, Strasser R, Willenbrock R, Berg KJ：Nephrotoxicity in high—risk patients study of iso—
+osmolar and low—osmolar non—ionic contrast media study investigators. N Engl J Med 2003；348：491—499. 〔Ⅱ〕
+ 7） Solomon RJ, Natarajan MK, Doucet S, Sharma SK, Staniloae CS, Katholi RE, Gelormini JL, Labinaz M, Moreyra AE：
+Cardiac angiography in renally impaired patients（CARE）study：a randomized double—blind trial of contrast—induced 
+nephropathy in patients with chronic kidney disease. Circulation 2007；115：3189—3196. 〔Ⅱ〕
+ 8） Heinrich MC, Häberle L, Müller V, Bautz W, Uder M：Nephrotoxicity of iso—osmolar Iodixanol compared with nonionic 
+low—osmolar contrast media：meta—analysis of randomized controlled trials. Radiology 2009；250：68—86. 〔Ⅰ〕
+ 9） Liss P, Persson PB, Hansell P, Lagerqvist B : Renal failure in 57,925 patients undergoing coronary procedures using iso-
+osmolar or low—osmolar contrast media. Kidney Int 2006；70：1811—1817. 〔Ⅳb〕
+ 10） Stacul F, van der Molen AJ, Reimer P, Webb JAW, Thomsen HS, Morcos SK, Almen P, Aspelin P, Bellin MF, Clement 
+	 CQ④—5
+回答
+解　説 CQ④—5
+27
+4造影剤の種類と量
+[[p38]]
+O, Heinz-Peer G：Contrast induced nephropathy：updated ESUR contrast media safety committee guidelines. Eur 
+Radiol 2011；21：2527—2541.
+ 11） Kushner FG, Hand M, Smith SC, King III SB, Anderson JL, Antman EM, Bailey SR, Bates ER, Blankenship JC, Blanken-
+ship DX, Green LE, Hochman JS, Jacobs AK, Jacobs HM, Morrison DA, Ornato JP, Pearle DL, Peterson ED, Sloan MA, 
+Whitlow MA, Williams DO：2009 Focused Updates：ACC／AHA guidelines for the management of patients with ST—
+elevation myocardial infarction （updating the 2004 guideline and 2007 focused update） and ACC／AHA／SCAI guidelines 
+on percutaneous coronary intervention（updating the 2005 guideline and 2007 focused update） ：a report of the Ameri-
+can college of cardiology foundation／American heart association task force on practice guidelines. Circulation 2009；
+120：2271—2306.
+ 12） Wright RS, Anderson JL, Adams CD, Bridges CR, Casey DE, Ettinger SM, Fesmire FM, Ganiats TG, Jneid H, Lincoff AM, 
+Peterson ED, Philippides GJ, Theroux P, Wenger NK, Zidar JP : 2011 ACCF/AHA focused update of the guidelines for 
+the management of patients with unstable angina/ non—ST—elevation myocardial infarction（updating the 2007 guide-
+line） .
+ 13） Levine GN, Bates ER, Blankenship JC, Bailey SR, Bittl JA, Cercek B, Chambers CE, Ellis SG, Guyton RA, Hollenberg SM, 
+Khot UN, Lange RA, Mauri L, Mehran R, Moussa ID, Mukherjee D, Nallamothu BK, Ting HH：2011 ACCF/AHA/
+SCAI guideline for percutaneous coronary intervention.
+ 14） Chou SH, Wang ZJ, Kuo J, Cabarrus M, Fu Y, Aslam R, Yee J, Zimmet JM, Shunk K, Elicker B, Yeh BM：Persistent renal 
+enhancement after intra—arterial versus intravenous iodixanol administration. Eur J Radiol 2011；80：378—386. 〔Ⅳb〕
+ 15） Lufft V, Lufft LH, Fels LM, Baiyee DE, Tusch G, Galanski M, Olbricht CJ：Contrast media nephropathy：intravenous 
+CT angiography versus intraarterial digital subtraction angiography in renal artery stenosis：a prospective randomized 
+trial. Am J Kidney Dis 2002；40：236—242. 〔Ⅱ〕
+ 16） Ahuja TS, Niaz N, Agraharkar M：Contrast—induced nephrotoxicity in renal allograft recipients. Clin Nephrol 2000；
+54：11—14. 〔Ⅳb〕
+ 17） Katzberg RW, Newhouse JH：Intravenous contrast medium—induced nephrotoxicity：Is the medical risk really as great 
+as we have come to believe?　Radiology 2010；256：21—28. 〔Ⅳa〕
+ 18） Tepel M, van der Geit M, Schwarzfeld C, Laufer U, Liermann D, Zidek W：Prevention of radiographic—contrast—agent—
+induced reductions in renal function by acetylcysteine. N Engl J Med 2000；343：180—184. 〔Ⅱ〕
+ 19） Becker CR, Reiser MF：Use of iso—osmolar nonionic dimeric contrast media in multidetector row computed tomography 
+angiography for patients with renal impairment. Invest Radiol 2005；40：672—675. 〔Ⅳa〕
+ 20） Barrett BJ, Katzberg RW, Thomsen HS, Chen N, Sahani D, Soulez G, Heiken JP, Lepanto L, Ni ZH, Ni ZH, Nelson R：
+Contrast—induced nephropathy in patients with chronic kidney disease undergoing computer tomography—a double 
+blind comparison of iodixanol and iopamidol. Invest Radiol 2006；41：815—821. 〔Ⅱ〕
+ 21） Thomsen HS, Morcos SK, Earley CM, Grazioli L, Bonomo L, Ni Z, Romano L：The ACTIVE trial：comparison of the 
+effects on renal function of iomeprol—400 and iodixanol—320 in patients with chronic kidney disease undergoing abdomi-
+nal computed tomography. Invest Radiol 2008；43：170—178. 〔Ⅱ〕
+ 22） Kuhn MJ, Chen N, Sahani DV, Reimer D, van Beek EJ, Heiken JP, So GJ：The PREDICT study：a randomized double—
+blind comparison of contrast—induced nephropathy after low— or iso—osmolar contrast agent exposure. Am J Roent-
+genol 2008；191：151—157. 〔Ⅱ〕
+ 23） Nguyen SA, Suranyi P, Ravenel JG, Randall PK, Romano PB, Strom KA, Costello P, Schoepf UJ：Iso—osmolality versus 
+low—osmolality iodinated contrast medium at intravenous contrast-enhanced CT：effect on kidney function. Radiology 
+2008；248：97—105. 〔Ⅱ〕
+ 24） Gallotti A, Uggeri F, Favilla A, Cabrini M, de Haën C：The chemistry of iomeprol and physico—chemical properties of 
+its aqueous solutions and pharmaceutical formulations. Eur J Radiol 1994；18（Suppl 1） ：S1—12. 〔Ⅵ〕
+?QT）?r?l：s?????M?h：??M?h?q?PXWW；QR（r?P）?：
+S79—83. 〔Ⅵ〕
+28
+4造影剤の種類と量
+[[p39]]
+29
+4造影剤の種類と量
+4 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+1．Cigarroa RG, et 
+al：Am J Med. 1989 
+Jun；86（6 Pt 1） ：649—
+652.
+対象：最大用量以内， 86 例
+対照：最大用量以上， 29 例
+検査：CAG
+SCr≧1.8 mg／dL
+最大C M用量＝ 5 mL／kg
+（最大 300 mL） ／SCr （mg／
+dL）
+評価時期：5 日
+評価方法 ：SCr≧1.0 mg／
+dL 上昇
+対象群：2（2％） ，対照群：6（21％）
+統計的な有意差の有無：p＜0.001
+〔Ⅳb〕
+2．Nyman U, et al：
+Acta Radiol 2008；
+49：658—667.
+対象：Iopentol 391 例 検査：STEMI に対する PCI
+評価時期：3 日
+評価方法：≧44.2μ mol／L
+（0.5
+ mg／dL）または乏尿／
+無尿
+CIN 発現率
+g—I／eGFR ratio＜1：3％
+—h／feq?≧P：QT％
+CIN の 独 立 予 測 因 子 は CM dose，
+eGFR，LVEF，心原性ショックであった
+（ROC area＝0.87） ．
+〔Ⅴ〕
+3．Brown JR, et al：
+Circ Cardiovasc Interv 
+2010 3：346—350.
+対象：最大用量以内 7,952
+例
+対照：最大用量以上 1,958
+例
+検査：PCI
+評価時期：PCI 後原則とし
+て 24 時間以内
+評価方法：SCr≧50％上昇
+SCr≧0.3
+ mg／dL
+最大投与量以下
+OR 1.45（95％CI, 1.29,1.62）
+最大投与量の 1.5 倍まで
+OR 1.60（95％CI, 1.29, 1.97）
+最大投与量の 2 倍まで
+OR 2.02（95％CI, 1.45.2.81）
+最大投与量の 2 倍以上
+OR 2.94（95％CI, 1.93, 4.48）〔Ⅱ〕
+4．Weisbord SD, et 
+al：Clin J Am Soc 
+Nephrol 2008；3 ：
+1274—1281.
+対象：造影 CT
+　　　iohexol および
+　　　iodixanol 使用
+検査 ：eGFR＜60
+ mL／
+min／1.73 m2
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+CIN 発症率　13／367（3.5％）
+〔Ⅳa〕
+5．Barrett BJ, et al：
+Radiology 1993；
+188：171—178.
+対象：低浸透圧造影剤
+対照：高浸透圧造影剤
+検査 ：1985～1991 年　
+31 試験
+評価時期：3 日以内
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+低浸透圧造影剤での SCr≧0.5 mg／dL 上
+昇は高浸透圧造影剤の 0.61 倍
+腎不全患者のオッズ比 0.5（CI，0.36～
+0.68） ，
+非腎不全患者のオッズ比0 . 7 5 （ C I ，
+0.52～1.1）
+〔Ⅰ〕
+6．Aspelin P, et al：N 
+Engl J Med 2003；
+348：491—499.
+対象：等浸透圧造影剤
+Iodixanol　67 例
+対照：低浸透圧造影剤
+Iohexol　67 例
+検査：冠動脈造影 or 大動
+脈造影
+糖 尿 病，SCr 1.5～3.5
+ 
+mg／dL
+評価時期：3 日間
+評価方法 ：SCr≧0.5 mg／
+dL
+SCr≧1.0 mg／dL 上昇
+等浸透圧造影剤で SCr≧0.5 mg／dL 以上
+上昇が 2 例（3％） ，SCr≧1.0 mg／dL 以
+上上昇が 0 例 （0％） であったのに対し，
+低浸透圧造影剤で SCr≧0.5 mg／dL 以上
+上昇が 17 例（26％） ，SCr≧1.0 mg／dL
+以上上昇が 10 例（15％）であった．
+統計的な有意差の有無：p＝0.002
+〔Ⅱ〕
+[[p40]]
+30
+4造影剤の種類と量
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+7．Solomon RJ, et 
+al：Circulation 2007 
+i?QU；PPT（QT）?：
+3189—3196.
+対象：等浸透圧造影剤
+Iodixanol 210 例
+対照：低浸透圧造影剤
+Iopamidol 204 例
+検査：CAG を受けた CKD
+患者
+eGFR 20～59  mL／min／
+1.73 m2
+評価時期：2～5 日間
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+対象：14（6.7％）
+対照：9（4.4％）
+統計的な有意差の有無：p＝0.39
+〔Ⅱ〕
+8．Heinrich MC, et 
+al：Radiology 2009；
+250：68—86.
+対象：等浸透圧造影剤
+h　QT?試験
+Iodixanol　5 試験
+Iodixanol　11 試験
+対照：低浸透圧造影剤
+`kk　QT?試験
+Iohexol　5 試験
+Iohexol 以外　11 試験
+検査：経静脈，経動脈投与
+評価時期：3 日以内
+評価方法：
+①b≧QT％
+　sCr≧0.5
+ mg／dL
+②b≧QT％
+③b≧QT％
+統計的な有意差の有無：
+①RR：0.80 （95％CI, 0.61, 1.04） p＝0.10
+　RR：0.75 （95％CI, 0.44, 1.26） p＝0.27
+②RR：0.45 （95％CI, 0.26, 0.76） p<0.01
+③RR：0.97 （95％CI, 0.72, 1.32） p＝0.86
+〔Ⅰ〕
+9．Liss P, et al：Kid-
+ney Int 2006；70：
+1811—1817.
+対象：
+iodixanol 45, 485 例
+対照：
+ioxaglate 12,440 例
+参考：iohexol 86,334 例
+検査：PCI/CAD
+評価時期：3 日以内
+評価方法：
+腎不全で再入院となった患者
+または透析が必要となった
+患者
+対象：1.7％
+対照：0.8％
+統計的な有意差の有無：p < 0.001
+〔Ⅳb〕
+14．Chou SH, et al：
+Eur J Radiol 2011 Apr 
+4［. Epub ahead of 
+print
+対象：静脈内投与 67 例
+対照：動脈内投与 99 例
+検査：動注または静注の造
+影
+剤投与を受け 7 日以内に非
+造影腹部骨盤 CT を受けた
+連続 166 例
+評価時期：
+①腎 CT 値 7 日以内
+②CIN 発現率 5 日以内
+評価方法：
+①Persistent CT値　＞55
+ 
+HU
+②SCr≧0.5 mg／dL 以上上
+昇
+対象：31％　4％
+対照：55％　9％
+統計的な有意差の有無：p＜0.005
+　　　　　　　　　　　p＝0.366
+備考：CIN は動注で多く，腎 CT 値の高
+い例で多かった
+〔Ⅳb〕
+15．Lufft V, et al：Am 
+J Kidney Dis 2002；
+40：236—242.
+対象：CTA 群 33 例
+造影剤量平均：CTA：163
+±13
+ mL
+対照：DSA 群 31 例
+造影剤量平均：DSA：104
+±56
+ mL
+検査：腎動脈の CTA（静
+注 ），
+DSA （動注） （p＜0.0001）
+腎動脈狭窄が疑われる 80
+例
+評価時期：2 日後
+評価方法 ：SCr≧0.5
+ mg／
+dL 上昇
+対象：9.1％（3／33）
+対照：6.5％（2／31）
+備考：造影剤量が多いにも関わらず CTA
+で CIN のリスクの増加はなかった．
+〔Ⅱ〕
+[[p41]]
+31
+4造影剤の種類と量
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+16．Ahuja TS, et al：
+Clin Nephrol 2000；
+54：11—14．
+対象：静脈内投与　12 例
+　　　造影 CT　11 例
+　　　尿路造影　1 例
+対照：動脈内投与　23 例
+　　　心カテ　6 例
+　　　末梢血管　11 例
+　　　腎動脈 PTA　5 例
+　　　肺動脈造影　1 例
+検査：腎移植患者 44 例
+（腎機能評価は 35 例）
+評価方法：rb≧QT％上昇
+対象：16.7％（2／12）
+対照：21.7％（5／23）
+備考：全体での CIN 発現は 21.2％（7／
+33）
+〔Ⅳb〕
+17．Katzberg RW, et 
+al：Radiology 2010；
+256：21—28.
+CKD 患者における低浸透圧もしくは等
+浸透圧造影剤を用いた造影 CT の CIN 発
+症頻度について検討
+〔Ⅳa〕
+18．Tepel M, et al：N 
+Engl J Med 2000；
+343：180—184.
+対象：造影 CT
+　　　iopromide 使用
+検査：慢性腎機能不全症例
+SCr： 平 均 2.4±1.3
+ mg／
+dL 100 例
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+CIN 発症率　9／42（21％）
+〔Ⅱ〕
+19．Becker CR, et al：
+Invest Radiol 2005；
+40：672—675.
+対象：造影 CT
+　　　iodixanol 使用
+検査：SCr：1.5～6 mg／dL 
+100 例
+評価方法：rb≧QT％上昇
+CIN 発症率　9／100（9％）
+〔Ⅳa〕
+20．Barrett BJ, et al：
+Invest Radiol 2006；
+41：815—821.
+対象：造影 CT
+　　　iopamidol および
+　　　iodixanol 使用
+検査：SCr≧0.5 mg／dL
+and／or
+CCr≦60
+ mL／min／1.73  
+m2
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+CIN 発症率　2／153（1.3％）
+〔Ⅱ〕
+21．Thomsen HS, et 
+al：Invest Radiol  
+2008；43：170—178.
+対象：造影 CT
+　　　iomeprol および
+　　　iodixanol 使用
+検査：SCr≧0.5 mg／dL
+and／or
+CCr＜60  mL／min／1.73  
+m2
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+CIN 発症率　5／148（3.4％）
+〔Ⅱ〕
+22．Kuhn MJ, et al：
+Am J Roentgenol  
+2008；191：151—157.
+対象：造影 CT
+　　　iopamidol および
+　　　iodixanol 使用
+検査：eGFR：20～59
+ mL／
+min／1.73 m2
+糖尿病症例
+評価方法：rb≧QT％上昇
+CIN 発症率　13／248（5.2％）
+〔Ⅱ〕
+23． Nguyen SA, et 
+al：Radiology 2008；
+248：97—105.
+対象：造影 CT
+　　　iopromide および
+　　　iodixanol 使用
+検査：SCr≧0.5 mg／dL or
+CCr＜60  mL／min／1.73  
+m2
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+CIN 発症率　13／117（11.1％）
+〔Ⅱ〕
+24．Gallotti A et al：
+Eur J Radiol 1994；18
+（Suppl 1） ：S1—12.
+各種造影剤の実測浸透圧値測定
+〔Ⅵ〕
+[[p42]]
+32
+4造影剤の種類と量
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+QT．r?l：h?
+Radiol 1988；23
+（Suppl 1） ：S79—83.
+各種造影剤の実測浸透圧値測定
+〔Ⅵ〕
+[[p43]]
+5
+CKD は CAG による CIN 発症のリスクを増加させるか？
+1． CKD（GFR＜60mL/min/1.73m2）は CAG による CIN 発症リスクを増加させる可能性が
+高く，また腎機能が低下するにつれ CIN の発症リスクは高くなる．
+2． eGFR が 60mL/min/1.73m2 未満の患者に CAG を行う際には，CIN に関する適切な説明
+を行い，造影前後に補液などの十分な予防策を講ずることを推奨する．
+エビデンスレベル：Ⅰ	 推奨グレード：A
+背　景
+　近年， CAG やカテーテル治療の普及により， 造影剤を使用する機会が増加している．eGFR≧60mL/min/
+1.73m2では特に CIN の予防策を要しないが， 脱水のある場合にはあらかじめ輸液を検討する．しかし eGFR
+＜60mL/min/1.73m2の場合は CIN リスクが高く，造影剤使用による一時的あるいは恒久的に腎機能が悪化
+する危険性がある．
+　CKD 患者では， 腎機能（GFR）が低下するに従って CIN の発症リスクが増加することが報告されている1）
+（図1 ） ．わが国における 2001 年の白木らの報告では，CAG を施行した 1,920 例中 61 例（3.2％）に CIN を
+発症し（SCr≧0.5mg/dL 上昇） ，うち 1 例（0.05％）が透析導入となった2）．また，藤崎らの報告では，CAG
+を施行した 267 例中 12 例（4.5％）に CIN が発症し（SCr≧0.5mg/dL 上昇） ， うち 2 例（0.7％）は透析導入
+となった3）．2002 年に発表された MayoClinic の報告では，CAG を受けた 7,586 例中 254 例（3.3％）に CIN
+が発症し（SCr≧0.5mg/dL 上昇） ，うち 20 例（7.9％）が透析導入となった4）．また，1 年後と 5 年後の死亡
+率は CIN 発症群で 12.1％，44.6％と，CIN 非発症群 3.7％，14.5％に比較して有意に高値であった．2009 年の
+Abe らの報告でも CAG を受けた 1,157 例において，検査後 5 日以内の CIN 発症率は 4.0％であった．また
+CIN 発症のリスクファクターは SCr 値が 1.2mg/dL 以上，200mL 以上の造影剤使用であった5）．なおこれ
+らの報告では SCr 値≧0.5mg/dL 上昇を CIN と定義している．CAG を施行した後の CIN 発症のリスクは
+CQ⑤—1
+回答
+解　説 CQ⑤—1
+33
+侵襲的診断法（心臓カテーテル検査など）
+図1 　腎機能による CIN 発症のリスク（文献 1）より引用）
+CIN の発症率は eGFR が低下している患者ほど高くなる． また
+糖尿病を有するとより CIN 発症率が高くなる．
+
+
+
+
+
+
+
+
+      
+$*/ʢˋʣ
+F('3
+౶೘පʢʴʣ
+౶೘පʢʵʣ
+[[p44]]
+3.0～5.0％であり，そのほとんどが CIN の高リスク患者（糖尿病，高齢，貧血，脱水，既存の腎障害，腎毒
+性物質の併用など）に発症している 6）．そのため腎機能が低下している CKD 患者では，CAG を行う際には
+腎機能悪化の可能性について説明を行い，輸液療法などの十分な予防策を講ずることを推奨する．検査後は
+腎機能を経時的にモニターする必要がある．
+CAG において造影剤使用量の減量は CIN 発症のリスクを減少させるか？
+CAG において造影剤使用量の減量は CIN 発症のリスクを減少させるため，造影剤投与量は
+必要最小限とすることを推奨する．
+エビデンスレベル：Ⅱ	 推奨グレード：A
+背　景
+　造影剤投与量が増加すると，CIN 発症リスクが高くなることが知らされている．特に腎機能障害がある
+CKD 患者では，最大造影剤投与量を超えて造影剤を投与すると CIN の発症率が有意に高かったと報告され
+ている．
+　造影剤投与量が増加するとCINの発症リスクが高くなるため， 造影検査ではすべての患者において不必要
+な造影剤の投与は避けるべきである．一般的に CAG では 50～100mL の造影剤を使用するが，CKD 患者で
+は造影剤投与量を必要最小限にすることを推奨する．Cigarroa らは，最大造影剤用量＝5
+mL/kg（最大 300
+mL）/SCr（mg/dL）の式を提唱した（CQ④—1 参照） ．この報告では，CIN 発症率は最大造影投与量を超え
+た患者では，21％と，最大投与量以内の患者の発症率 2％より有意に高かった7）．同様に Brown らは，PCI
+を施行した 10,065 例において，最大投与量を超えた群では超えない群と比較して AKI 発症率が有意に高い
+ことを報告した
+8）．最近になり，CCr や GFR に基づいて造影剤最大投与量を設定する報告もある．Nyman
+ら9）は，腎機能（eGFR）と造影剤投与量（gram—iodine）の比（gram—iodine/eGFR）が 1 未満（CQ④—1 参
+照） ，Laskey ら10）は，造影剤最大投与量を造影剤投与量/CCr が 3.7 未満とすることを提唱している．造影剤
+投与量 /CCr はより低くすべきとの報告もある．Gurm らは， PCI を施行された 58,957 例において造影剤量/
+CCr が，2 を超えると CIN の発症，透析の必要（NRD）が有意に増加し〔adjustedORforCIN1.16，95％
+CI0.98～1.37，adjustedORforNRD1.72，95％CI0.9～3.27〕 ，3 を超えると CIN（OR1.46，95％CI：
+1.27～1.66）と透析治療（OR1.89，95％CI：1.21～2.94）のリスクが急激に高まると報告した11）（図2 ）．
+このように，腎機能が低下した CKD 患者では，CAG や PCI 施行時には造影剤投与量（CQ④—1 参照）を必
+CQ⑤—2
+回答
+解　説 CQ⑤—2
+34
+5侵襲的診断法（心臓カテーテル検査など）
+図2 　CIN 発症率と透析導入率（文献 11）より引用）
+CIN 発症率も透析導入率も，腎機能（Ccr）に対する造影剤投与量の比が多くなるほど高くなり，特に 3 以上に
+なると顕著に高まる．
+
+
+
+
+
+
+
+
+ʻ
+ྔʢmLʣCCrʢmLminʣ
+ʢˋʣ ʢˋʣ
+ʙ
+$*/ൃ঱཰
+pʻ
+B
+ʻ ʙ
+ಁੳಋೖ཰
+pʻ
+C
+
+
+
+
+
+
+
+
+ʾʾ
+[[p45]]
+要最小限とすることを推奨する 1）．
+CAG の短時間反復検査は CIN 発症のリスクを増加させるか？
+CAGの反復検査によりCIN発症のリスクが高くなる可能性があるため， CKD （GFR<60mL/
+min/1.73m2）患者に短期間（24～48 時間）で反復検査を行うことは推奨しない．
+エビデンスレベル：Ⅵ	 推奨グレード：C2
+背　景
+　PCI 後の再狭窄確認および残存病変に対する PCI 追加治療のため，日本においては CAG の反復検査が行
+われることがある．
+　短期間 （24～48 時間） に造影 CT 検査を反復すると CIN 発症のリスクが増加するとする報告もあり， CKD
+患者では短期間（24～48 時間）で CAG を反復することは推奨しない（CQ⑥—3 参照） ．1 年以内に行われる
+CAG の反復検査と CIN 発症のリスクについて調べた研究はみられない．
+CKD は PCI による CIN の発症を増加させるか？
+CKD（GFR<60mL/min/1.73m2）では冠動脈インターベンション（PCI）による造影剤使用
+が CIN の発症を増加させる．しかしながら，PCI の治療自体が CKD の予後を悪化させると
+いうエビデンスはない．
+エビデンスレベル：Ⅰ	 推奨グレード：A
+背　景
+　狭心症および急性心筋梗塞に対する血行再建として，PCI は確立された治療法であり，近年，その数は増
+加傾向にある．PCI における造影剤投与量は，冠動脈病変の数や形態にもよるが，おおむね 100～200mL と
+CAG 単独の場合よりも増加する．慢性完全閉塞病変では造影剤投与量が 300mL を超える場合もある．それ
+ゆえ，CKD 患者における PCI 後の CIN 発症に注意が必要である．
+　2000年のGrubergらの報告では， SCr値が1.8mg/dL以上でPCIが施行された439例のうち161例 （36.7％）
+に CIN が発症し， 31 例（7.1％）では透析治療を要した．左室駆出率（LVEF）と造影剤投与量が腎機能悪化
+の独立したリスクファクターであり，腎機能が悪化した患者の院内死亡率は14％であった 12）．一方で
+Marenzi らの報告では，PCI を施行された 208 例中 40 例（19.2％）に CIN が発症したが，CIN は eGFR≧60
+mL/min/1.73m2では 21 例（13％） ，eGFR＜60mL/min/1.73m2では，19 例（40％）であった．CIN のリス
+クファクターは，75 歳以上の高齢者，前壁梗塞，再疎通時間が 6 時間以上，造影剤 300mL 以上，IABP の
+使用などが CIN のリスクファクターであり，CKD は有意なリスクではなかった13）．2005 年の Dangas らの
+報告では，PCI を施行された 7,230 例において，GFR＜60mL/min/1.73m2の 1,980 例中 381 例（19.2％） ，
+GFR≧60mL/min/1.73m2の 5,250 例中 688 例（13.1％）に CIN が発症した14）とされ，CKD 患者でも CIN リ
+スクは高くなかった．また，2010 年に発表された Chong らの報告では，不安定狭心症（UAP）や急性心筋
+梗塞に対する緊急PCIにおけるCINの発症頻度は，eGFR≧60
+mL/min/1.73m2ではST上昇型心筋梗塞
+CQ⑤—3
+回答
+解　説 CQ⑤—3
+CQ⑤—4
+回答
+解　説 CQ⑤—4
+35
+5侵襲的診断法（心臓カテーテル検査など）
+[[p46]]
+（STEMI）8.2％，UAP/non—STEMI9.2％，stableAP4.3％（p＜0.0005） ，eGFR＝30～60mL/min/1.73m2で
+は，19.1％，4.5％，2.4％（p＜0.005）と，安定した狭心症に対する待機的 PCI に比べて有意に高かった．ま
+た，eGFR＜30mL/min/1.73m2では 34.4％，40.0％，25.9％（p＝0.510）と，緊急 PCI にかかわらず CIN の
+発生頻度はどの群においても高値であった15）．以上より，急性心筋梗塞に対する緊急 PCI においては，安定
+した狭心症に対する待機的な PCI に比較して，心筋梗塞による心機能低下，血行動態の不安定，造影剤量の
+増加などによって，CIN の発症頻度や院内死亡率が高くなる可能性があり，PCI の治療自体が CKD の予後
+を悪化させるというエビデンスはない．また，造影剤の使用量が多ければ CIN の発症が増加するため，最大
+造影剤量を超える造影剤使用量では， それ未満の場合と比べて CIN が生じやすいことが報告されている （CQ
+③—1 参照）
+7,8）．冠動脈疾患で CAG および PCI の適応がある場合は，腎機能悪化のリスクがあることに関し
+十分に説明し，輸液療法などによる予防処置を行い，繰り返しとなるが造影剤使用量を極力少なくすること
+を推奨する 1）．
+CIN とコレステロール塞栓症による腎機能低下をどのように鑑別できるか？
+CIN とコレステロール塞栓症による腎機能低下は，症状と検査所見により通常は鑑別可能で
+あるが，時に鑑別が困難な場合もある．
+エビデンスレベル：Ⅳb	 推奨グレード：該当せず
+背　景
+　コレステロール塞栓症は，大動脈および大血管の動脈硬化性プラークの破綻によりコレステロール結晶が
+飛散し，その部位より末梢の直径 150～200μ m の小動脈を閉塞し，多臓器障害をきたす疾患である．カテー
+テル操作を伴う造影検査時に起こりやすい．コレステロール塞栓による腎障害は，コレステロール結晶が腎
+小動脈に微小塞栓を生じることで発生し， アレルギー反応が関与する．コレステロール塞栓症と CIN は鑑別
+が必要であるが，両者が複雑に関連し，またその他の腎障害機序が加わるなどすることで，鑑別を困難とす
+る場合もある
+16～23）．
+　CIN との鑑別のポイントを示す．コレステロール塞栓症では，
+　①カテーテル検査後，数日～数週間後と遷延性に，かつ進行性に腎機能が低下する．
+　②腎障害は一般的に不可逆的で，進行性の経過をたどる症例も存在する．
+　③腎機能障害だけではなく多臓器障害をきたす．
+　④全身の塞栓症状として，下肢の網状皮斑，チアノーゼあるいは bluetoe などの皮膚症状を認める．
+　⑤ 発熱，関節痛，全身倦怠感，好酸球増多，CRP 上昇，血清補体の低下や血沈亢進など，血管炎類似所見
+を認めることもある．
+　⑥確定診断には皮膚および腎生検などによる病理診断が必要である．
+【文　献】
+1）McCulloughPA：Contrast—inducedacutekidneyinjury.JAmCollCardiol2008；51：1419—1428.〔Ⅰ〕
+2）白木克典，大谷速人，大野善太郎，竹内亮輔，平井希俊，村田耕一郎，嶋根　章，吹田浩之，小野寺知哉，滝澤明憲：当
+院における心臓カテーテル関連造影剤腎症について．JpnCircJ2001；65：750．〔Ⅳb〕
+3）藤崎毅一郎，中山　勝，𠮷光隆博，土井俊樹，田中理恵子，山田　明，小池清美，武田一人：当院における心臓カテーテ
+ル検査後の造影剤腎症の発生頻度．日腎会誌 2002；44：315．〔Ⅳb〕
+4）RihalCS,TextorSC,GrillDE,BergerPB,TingHH,BestPJ,SinghM,BellMR,BarsnessGW,MathewV,GarrattKN,
+CQ⑤—5
+回答
+解　説 CQ⑤—5
+36
+5侵襲的診断法（心臓カテーテル検査など）
+[[p47]]
+HolmesDRJr：Incidenceandprognosticimportanceofacuterenalfailureafterpercutaneouscoronaryintervention.
+Circulation2002；105：2259—2264.〔Ⅳb〕
+5）AbeM,KimuraT,MorimotoT,FurukawaY,KitaT：Incidenceofandriskfactorsforcontrast—inducednephropathy
+aftercardiaccatheterizationinJapanesepatients.CircJ2009；73：1518—1522.〔Ⅳb〕
+6）MehranR,NikolskyE.Contrast—inducednephropathy：definition,epidemiology,andpatientsatrisk.KidneyIntSuppl.
+2006；100：S11—S15.〔Ⅵ〕
+7）CigarroaRG,LangeRA,WilliamsRH,HillisLD：Dosingofcontrastmaterialtopreventcontrastnephropathyinpatients
+withrenaldisease.AmJMed1989；86：649—652.〔Ⅳb〕
+8）BrownJR,RobbJF,BlockCA,SchoolwerthAC,KaplanAV,O’ConnorGT,SolomonRJ,MalenkaDJ：Doessafedosing
+ofiodinatedcontrastpreventcontrast—inducedacutekidneyinjury?　CircCardiovascInterv2010；3：346—350.〔Ⅱ〕
+9）NymanU,BjorkJ,AspelinP,MarenziG：Contrastmediumdose—to—GFRratio：ameasureofsystemicexposureto
+predictcontrast—inducednephropathyafterpercutaneouscoronaryintervention.ActaRadiol2008；49：658—667.〔Ⅴ〕
+10）LaskeyWK,JenkinsC,SelzerF,MarroquinOC,WilenskyRL,GlaserR,CohenHA,HolmesDRJr；NHLBIDynamic
+RegistryInvestigators. ：Volume—to—creatinineclearanceratio：apharmacokineticallybasedriskfactorforpredictionof
+earlycreatinineincreaseafterpercutaneouscoronaryintervention.JAmCollCardiol2007；50：584—590.〔Ⅳb〕
+11）GurmHS,DixonSR,SmithDE,ShareD,LalondeT,GreenbaumA,MoscucciM；BMC2（BlueCrossBlueShieldof
+MichiganCardiovascularConsortium） ：Renalfunction—basedcontrastdosingtodefinesafelimitsofradiographiccon-
+trastmediainpatientsundergoingpercutaneouscoronaryinterventions.JAmCollCardiol2011；58：907—914.〔Ⅳb〕
+12）GrubergL,MintzGS,MehranR,GangasG,LanskyAJ,KentKM,PichardAD,SatlerLF,LeonMB：Theprognostic
+implicationsoffurtherrenalfunctiondeteriorationwithin48hofinterventionalcoronaryproceduresinpatientswith
+pre—existentchronicrenalinsufficiency.JAmCollCardiol2000；36：1542—1548.〔Ⅳa〕
+13）MarenziG,LauriG,AssanelliE,CampodonicoJ,DeMetrioM,MaranaI,GraziM,VegliaF,BartorelliAL：Contrast—
+inducednephropathyinpatientsundergoingprimaryangioplastyforacutemyocardialinfarction.JAmCollCardiol
+2004；44：1780—1785.〔Ⅳa〕
+14）DangasG,IakovouI,NikolskyE,AymongED,MintzGS,KipshidzeNN,LanskyAJ,MoussaI,StoneGW,MosesJW,Leon
+MB,MehranR. ：Contrast—inducednephropathyafterpercutaneouscoronaryinterventionsinrelationtochronickidney
+diseaseandhemodynamicvariables.AmJCardiol2005；95：13—19.〔Ⅳb〕
+15）ChongE,PohKK,LiangS,SoonCY,TanHC：Comparisonofrisksandclinicalpredictorsofcontrast—inducednephrop-
+athyinpatientsundergoingemergencyversusnonemergencypercutaneouscoronaryinterventions.JIntervCardiol
+2010；23：451—459.〔Ⅳa〕
+16）Machino—OhtsukaT,SeoY,IshizuT,SekiguchiY,SatoA,TadaH,WatanabeS,AonumaK：Combinedassessmentof
+carotidvulnerableplaque,renalinsufficiency,eosinophilia,andhs—CRPforpredictingriskyaorticplaqueofcholesterol
+crystalembolism.CircJ2010；74：51—58.〔Ⅳb〕
+17）FukumotoY,TsutsuiH,TsuchihashiM,MasumotoA,TakeshitaA；CholesterolEmbolismStudy（CHEST）Investiga-
+tors：Theincidenceandriskfactorsofcholesterolembolizationsyndrome,acomplicationofcardiaccatheterization：a
+prospectivestudy.JAmCollCardiol2003；42：211—216.〔Ⅳb〕
+18）FunabikiK,MasuokaH,ShimizuH,EmiY,MoriT,ItoM,NakanoT：Cholesterolcrystalembolization（CCE）after
+cardiaccatheterization：acasereportandareviewof36casesintheJapaneseliterature.JpnHeartJ2003；44：767—
+774.〔Ⅳb〕
+19）ModiKS,RaoVK：Atheroembolicrenaldisease.JAmSocNephrol2001；12：1781—1787.〔Ⅳb〕
+20）ScolariF,TardanicoR,ZaniR,PolaA,ViolaBF,MovilliE,MaiorcaR：Cholesterolcrystalembolism：Arecognizable
+causeofrenaldisease.AmJKidneyDis2000；36：1089—1109.〔Ⅳb〕
+21）BelenfantX,MeyrierA,JacquotC：Supportivetreatmentimprovessurvivalinmultivisceralcholesterolcrystalembo-
+lism.AmJKidneyDis1999；33：840—850.〔Ⅳb〕
+22）ThadhaniRI,CamargoCAJr,XavierRJ,FangLS,BazariH：Atheroembolicrenalfailureafterinvasiveprocedures.
+Naturalhistorybasedon52histologicallyprovencases.Medicine1995；74：350—358.〔Ⅳb〕
+23）FineMJ,KapoorW,FalangaV：Cholesterolcrystalembolization：areviewof221casesintheEnglishliterature.Angi-
+ology1987；38：769—784.〔Ⅳb〕
+RV
+5侵襲的診断法（心臓カテーテル検査など）
+[[p48]]
+38
+5侵襲的診断法（心臓カテーテル検査など）
+5 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果
+エビデンスレベル
+1．McCullough PA：J 
+Am Coll Cardiol  
+2008；51：1419—
+1428．
+eGFR 別のアルゴリズムを作成．
+eGFR＜60 mL／min／1.73 m2は CI—AKI
+のリスクマーカー．多くのリスクファク
+ターは相加的に作用する．リスクスコア
+の使用を推奨．
+CIN の consensus statements を発表
+備考：アルゴリズム，リスクスコア〔Ⅰ〕
+2．白木克典，他：Jpn 
+Circ J 2001；65：750.
+対象：1,920 例 検査：CAG
+評価時期：3 日
+評価方法 ：SCr≧0.5
+ mg／
+dL 上昇
+61 例（3.2％）に CIN を発症し， 透析導
+入となったものは 1 例（0.05％）であっ
+た．
+〔Ⅳb〕
+3．藤崎毅一郎，他：日
+腎会誌2002；44：315．
+対象：267 例 検査：CAG
+評価時期：3 日
+評価方法 ：SCr≧0.5 mg／
+dL 上昇
+267 例中 12 例（4.5％）に CIN が発症
+し，2 例（0.7％）において透析導入と
+なった．
+〔Ⅳb〕
+4．Rihal CS, et al：
+Circulation 2002；
+105：2259—2264.
+対象：7,586 例 検査：PCI
+評価時期：3 日
+評価方法 ：SCr≧0.5
+ mg／
+dL 上昇
+254（3.3％）experienced ARF base-
+line Cr＜2.0 では， DM は non—DM に比
+較して ARF リスクが高かった．
+1— and 5—year の 死 亡 率 は ARF 群 で
+12.1％， 44.6％， non—ARF 群で 3.7％，
+14.5％であった．〔Ⅳb〕
+5．Abe M, et al：Circ 
+J 2009；73：1518—
+1522.
+対象：1,157 例 検査：CAG
+評価時期：5 日以内
+評価方法 ：SCr≧0.5
+ mg／
+k，≧QT％，?
+either absolute or rela-
+tive 上昇
+CIN 発 現 率 SCr≧0.5 mg／dL で 4％，
+≧QT％?で?PRMW％??L
+lute or relative で 13.9％
+統計的な有意差の有無 ：SCr 値が 1.2 
+mg／dL 以上，200 mL 以上の造影剤使用
+が CIN の独立した危険因子であった
+〔Ⅳb〕
+6．Mehran R, et al：
+Kidney Int 2006；69：
+S11—S15．
+CIN リスクファクターを記述
+CIN のリスクスコアを記述
+リスクファクターとして腎障害， 糖尿病，
+高齢，貧血，造影剤の量などがあげられ
+る．これらの因子は CIN 発症について相
+乗的である．低血圧，IABP，うつ血清心
+不全，VT?歳以上，貧血，糖尿病，造影剤
+量，SCr または eGFR からなるリスクス
+コアは有用である．〔Ⅵ〕
+7．Cigarroa RG, et 
+al：Am J Med 1989；
+86：649—652.
+対象：最大用量以内， 86 例
+対照：最大用量以上， 29 例
+検査：心臓カテーテル SCr
+≧1.8
+ mg／dL
+最大造影剤使用量＝5 mL／
+kg／SCr（mg／dL）
+評価時期：5 日
+評価方法 ：SCr≧1.0
+ mg／
+dL 上昇
+対象群：2（2％） ，対照群：6（21％）
+統計的な有意差の有無：p＜0.001
+〔Ⅳb〕
+[[p49]]
+39
+5侵襲的診断法（心臓カテーテル検査など）
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果
+エビデンスレベル
+8．Brown JR, et al：
+Circ Cardiovasc Interv 
+2010 3：346—350.
+対象：10,065 例
+最大用量以内 7,952 例
+最大用量以上 1,958 例
+検査：PCI
+最大造影剤使用量＝5 mL／
+kg／SCr（mg／dL） （ 最 大
+300 mL）
+評価時期：24 時間以内
+評価方法 ：SCr≧0.3 mg／
+dL または 50％上昇　HD
+20％の患者で最大使用量（MACD）を超
+えていた．＞MACD（1.0～1.5，1.5～
+2.0，＞2.0）OR 1.60（95％ CI 1.29～
+4.48） ，OR 2.02（1.45～2.81） ，OR 
+2.94（1.93～4.48） ）
+統計的な有意差の有無：MACD を超える
+と造影剤量は CI—AKI のリスクとなる．
+〔Ⅱ〕
+9．Nyman U, et al：
+Acta Radiol 2008；
+49：658—667.
+対象：STEMI 391 例 検査：PCI Iopentol
+評価時期：3 日
+評価方法 ：SCr≧0.5
+ mg／
+dL 上昇または乏尿／無尿
+対象群 ：CIN 発現率 g—I／eGFR ratio＜
+1：3％
+対照群 ：CIN 発現率 g—I／eGFR ratio≧
+P：QT％
+統計的な有意差の有無：CIN の独立予測
+因子は CM dose，eGFR，LVEF，心原
+性ショックであった （ROC area 0.87） ．〔Ⅴ〕
+10． Laskey WK, et 
+al：J Am Coll Cardiol 
+2007；50：584—590.
+対象：3,179 例 検査：PCI
+評価時期：48 時間以内
+評価方法 ：SCr≧0.5
+ mg／
+dL 上昇
+CIN 発現率 1.5％
+造影剤量／Cr クリアランス（CV／CrCl）
+が， 3.7 を超えると （odds ratio：3.84，
+95％ CI：2.0 to 7.3，p＜0.001）有意
+に CIN 発現が増加した．〔Ⅳb〕
+11．Gurm HS, et al：J 
+Am Coll Cardiol  
+2011；58：907—914.
+対象：58,957 例 検査：PCI
+評価時期：7 日以内
+評価方法 ：SCr≧0.5
+ mg／
+dL 上昇
+造影剤量／Cr クリアランス（CV／CCC）
+が， 2 を超えると 〔adjusted odds ratio
+（OR）for CIN 1.16，95％ confidence 
+interval（CI）0.98～1.37，adjusted 
+OR for NRD 1.72，95％ CI 0.9～
+3.27〕 ， 3 を超えると（adjusted OR for 
+CIN 1.46，95％ CI 1.27～1.66，
+adjusted OR for NRD 1.89，95％ CI 
+1.21～2.94）を報告した．〔Ⅳb〕
+12．Gruberg L, et al：
+J Am Coll Cardiol 
+2000；36：1542—
+1548.
+対象：SCr≧1.8
+ mg／dL
+HD を除く 439 名
+SCr 上昇 161 例
+SCr 非上昇 278 例
+検査：PCI ioxaglate 261
+±148
+ mL，214±98 mL
+評価時期：48 時間以内
+評価方法?：rb≧QT％　
+HD
+SCr 上昇：院内死亡率 14.9％，1 年累積
+死亡率 37.7％，SCr 非上昇：院内死亡率
+4.9％，1 年累積死亡率 19.4％
+統計的な有意差の有無：p＝0.001，p＝
+0.001，死亡 OR 3.86，95％CI 1.96～
+7.582〔Ⅳa〕
+13．Marenzi G, et al：
+J Am Coll Cardiol 
+2004；44：1780—
+1785.
+対象：208 名 HD を除く
+CIN　40 例
+非 CIN 168 例
+検査：PCI 378±200
+ mL
+評価時期：術後 3 日
+評価方法 ：SCr＞0.5 mg／
+dL
+院内死亡率：CIN 31％，非 CIN 0.6％
+統計的な有意差の有無：p＜0.001
+〔Ⅳa〕
+[[p50]]
+40
+5侵襲的診断法（心臓カテーテル検査など）
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果
+エビデンスレベル
+14．Dangas G, et al：
+Am J Cardiol 2005；
+95：13—19.
+対象：48 時間以内の ST 上
+昇型心筋梗塞 ・心原性
+ショック ・透析を除く
+7,230 名
+CIN　381 例
+非 CIN　1,599 例
+検査：PCI
+評価時期：48 時間以内
+評価方法?：rb≧QT％?
+and／or SCr＞0.5
+ mg／dL
+CINはCKDのある患者では19.2％ （381
+人／1,980 人）に発症，CKD でない患者
+では 13.1％ （688 人／5,250 人） に発症．
+1 年 累 積 死 亡 率：CKD 例 22.6％　 非
+CKD 例 8.0％
+CINの発症はeGFR低下， 周術期低血圧，
+造影剤高用量， Ht 低値， 糖尿病， 肺水腫，
+EF＜40％などと関連
+CIN は 1 年死亡率と関連していた （CKD
+患者では OR＝2.37， 非 CKD では OR＝
+1.78）〔Ⅳb〕
+15．Chong E, et al：J 
+Interv Cardiol 2010；
+23：451—459.
+対象：8,798 名
+対照： A ：STEMI
+ B ：UA／NSTEMI
+ C ：Control
+評価時期：48 時間以内
+評価方法?：rb≧QT％?
+and／or SCr＞0.5
+ mg／dL
+CIN 発 症 率：GFR＞60：8.2％, 9.2％, 
+and 4.3％ in group A, B, and C（p＜
+0.0005） .
+GFR＝30～60：19.1％, 4.5％, and 
+2.4％ in group A, B, and C（p＜
+0.0005）
+GFR＜30：34.4％, 40.0％, and 25.9％ 
+in group A, B, and C（p＝0.510）〔Ⅳa〕
+16． Machino—Oht-
+suka T, et al：Circ J 
+2010；74：51—58.
+対象：First study 10 例
+　　　  Second study 102
+例
+評価時期：CCE 診断基準：
+末梢皮膚所見 2 週間後 Cr 
+1.3
+ mg／dL への増加 （Cr＜
+0.8 mg／dL） ＞50％の増加
+（0.9 mg／dL＞） 好酸球増加
+＞400／μ L
+CCE 発症率 2／102 例（2％）
+統計的な有意差の有無 ：動脈硬化数，
+hsCRP 上昇，腎機能障害，好酸球増加＞
+400／μ L，頸動脈複雑病変が CCE の予測
+因子であった．〔Ⅳb〕
+17．Fukumoto Y, et 
+al：J Am Coll Cardiol 
+2003；42：211—216.
+対象：1,786 例 評価時期：CCE 診断基準：
+末梢皮膚所見 2 週間後 Cr 
+1.3
+ mg／dL への増加 （Cr＜
+0.8 mg／dL） ＞50％の増加
+（0.9 mg／dL＞）
+bbd?発症率?QT／PKVWU?例（PMS％）
+病院内死亡率 16％　動脈硬化数，高血
+圧，喫煙，検査前 CRP 上昇が CCE 群で
+有意に多かった．
+統計的な有意差の有無 ：検査前 CRP 上
+昇， CCEの予測因子であった． （OR 4.6，
+p＝0.01）〔Ⅳb〕
+18． Funabiki K, et 
+al：Jpn Heart J  
+2003；44：767—774.
+対象：36 例 評価時期：臨床的，組織的
+診断にて証明した CCE
+死亡率：33.3％　透析を必要とした患者
+50％， そのうち23.8％がHDから離脱し
+た．
+統計的な有意差の有無 ：高齢，高血圧
+（44.4％） ，心筋梗塞，狭心症，脳血管障
+害，動脈瘤の既往で有意に多かった．〔Ⅳb〕
+19．Modi KS, et al：J 
+Am Soc Nephrol  
+2001；12：1781—
+1787.
+統計的な有意差の有無：Atheroembolic 
+renal disease（AERD）と同義に使われ
+ている．AERD の定義，頻度，診断，治
+療，予後について解説している．
+〔Ⅳb〕
+20．Scolari F, et al：
+Am J Kidney Dis  
+2000；36：1089—
+1109.
+高齢（＞60 歳） ，高血圧 CAD，腎機能障
+害がみられる．確定診断は生検が必要．
+〔Ⅳb〕
+[[p51]]
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果
+エビデンスレベル
+21．Belenfant X, et 
+al：Am J Kidney Dis 
+1999；33：840—850.
+対象 ：67 例 Cr 6±2.5 
+mg／dL
+評価時期 ：1985～1996
+年
+院内死亡率：16％，維持透析を必要とし
+た患者 32％，1 年死亡率：87％，4 年生
+存率 52％
+心不全（61％） ，皮膚虚血（90％） ，高
+齢，血管造影（85％） ，血管手（33％） ．
+41 名が HD を受けた．〔Ⅳb〕
+22．Thadhani RI, et 
+al：Medicine 1995；
+74：350—358.
+対象：52 例 統計的な有意差の有無 ：高齢，高血圧
+（81％）CAD（73％） ，PAD（69％） ，
+Current smoking（50％）好酸球増加
+（14％） で有意に多かった．HD を受けた
+患者はより腎機能が悪かった．〔Ⅳb〕
+23．Fine MJ, et al：
+Angiology 1987；38：
+769—784.
+対象：221 例 評価時期：生前診断 31％ 死亡率 81％
+統計的な有意差の有無：高齢（Mean 66
+歳） ，高血圧（61％）CAD（44％） ，腎
+機能障害（RS％）?，```（QT％）?，皮膚
+症状（34％）好酸球増加（14％）で有意
+に多かった．HD を受けた患者はより腎
+機能が悪かった．〔Ⅳb〕
+41
+5侵襲的診断法（心臓カテーテル検査など）
+[[p52]]
+6
+CKD は造影 CT による CIN 発症のリスクを増加させるか？
+1． CKD（eGFR＜60mL/min/1.73m2）は， 造影 CT による CIN 発症のリスクを増加させる
+可能性が高い．
+2．特に，eGFR が 45mL/min/1.73m2 未満の患者に造影 CT を行う際には，CIN 発症に関
+する適切な説明を行い，造影 CT 前後に補液などの十分な予防策を講ずることを推奨す
+る．
+エビデンスレベル：Ⅳa	 推奨グレード：B
+背　景
+　Utsunomiya ら1）は， 造影 CT が予定されている患者の 19％で eGFR が 60mL／min／1.73m2未満であったと
+報告している．このように造影 CT の実施予定患者の相当数に CKD 患者が含まれている可能性がある．
+　Oleinik らは， 造影 CT および非造影 CT を施行した患者間における腎機能の変化をみたコホート研究2）に
+おいて，検査前の GFR が腎機能低下の独立した予測因子であったと述べている．また，対照群に非造影 CT
+患者を含まず造影 CT 後の腎機能評価を行ったケースシリーズでは， 腎機能の低下が CIN 発症のリスクとな
+るとする報告が多い3～7）．一方では，造影 CT および非造影 CT 患者の間で SCr の経時的変化をみた 2 つの
+コホート研究8,9）では， 2 群間で SCr の上昇をきたす患者の頻度に統計学的有意差は認められなかったと報告
+されている注）．
+　これらに対して，冠動脈造影あるいはカテーテル治療では，CKD 患者において CIN のリスクが増加する
+ことは確実視されている（CQ⑤—1 参照） ．
+　以上から，現時点では，造影 CT においても，CKD 患者においては CIN 発症のリスクが増加する可能性
+が高いと考えられる．
+　特に，造影剤の経静脈投与においては，eGFR が 45mL／min／1.73m2 未満の患者は CIN のリスクが高い可
+能性があり10,11）（CQ③—1 参照） ，このような患者では CIN のリスクなどについて説明を行い，CIN を予防す
+るために造影 CT の前後に補液などの十分な対策を講じる必要がある（CQ⑦—1 参照） ．
+注）Newhouse らは， 10 日以内に造影剤が投与されていない CT 患者 32,161 人の SCr 値の経時的変化を調査し， ベースライン
+の SCr が正常（0.6～1.2mg／dL）であった被験者の 25% において，CT 後 4 日までに SCr 値の 25% の上昇がみられたと報告
+している12）．これは，正常者でも SCr 値の変動がかなりあることを示している．したがって，造影剤投与後の SCr の変動を検
+討する場合は，造影剤投与群に加え，造影剤非投与群を対照として設定する必要があることを示すものと考えられる．
+造影 CT において造影剤投与量の減量は CIN 発症のリスクを減少させるか？
+造影 CT においては，診断能を保つことのできる範囲内で造影剤投与量を減量することを推
+奨する．
+エビデンスレベル：Ⅴ	 推奨グレード：C1
+CQ⑥—1
+回答
+解　説 CQ⑥—1
+CQ⑥—2
+回答
+42
+非侵襲的診断法（造影 CT など）
+[[p53]]
+背　景
+　検査目的により，診断上必要な造影剤投与量は異なる．例えば，肝臓などの実質臓器のダイナミック CT
+では体重（kg）当たりヨード量にして 500～600mg の造影剤が必要とされるが， 動脈系の描出を目的とする
+CT（CTangiography）では体重当たりヨード量 180～300mg の造影剤投与量で検査可能である．したがっ
+て，少ない造影剤投与量で実施できる検査では，腎機能が低下した患者でも比較的安全に造影 CT が実施で
+きる可能性が高い．
+　CIN の多くは比較的大量の造影剤を用いる CAG で発症しており，造影剤を高用量使用した場合は CIN の
+発症のリスクが高まると考えられている．
+　Nyman らは，心臓カテーテル検査を扱った 10 の RCT および 2 つのコホート研究のデータに基づいて，
+投与ヨード量（g）と eGFR（mL／min／1.73m2）の比（gram—iodine／GFRratio）より，CIN〔SCr 値の上昇が
+44.2mmol／L（0.5mg／dL）より大あるいは 20～25％より増大〕を発症する確率を推定する式を提案してい
+る．これによれば， eGFR30mL／min／1.73m2の患者にヨード含量300mg／mLの造影剤を150 mL， 125mL，
+100mL，75mL 投与した場合の CIN の発症率は，それぞれ 19.0％，14.7％，10.4％，6.1％と推計される13）．
+　また，同じく心臓カテーテル検査のデータではあるが，造影剤 61mL，34mL，23mL，14mL の投与で，
+CIN の頻度がそれぞれ 29.8％，15.2％，10.9％，1.4％となるという報告もある14）（本論文における造影剤濃度
+は不明である） ．さらに，イオン性造影剤時代に行われた心臓カテーテル検査におけるデータではあるが，
+ヨード含量 370mg／mL の造影剤を使用した場合，許容される最大造影剤投与量は 5 mL／kgBW／SCr値
+（mg／dL） （ただし上限は 300mL）という報告がある15）．
+　一方，造影 CT において造影剤投与量と CIN の関係についての報告は少ないが，Weisbord ら11）は，421 例
+を対象にした造影CTにおけるCIN発現頻度と予後の検討において， 造影剤投与量が100mLを超えるとCIN
+のリスク（OR3.3,95％CI：1.0～11.5）となると報告している．
+解　説 CQ⑥—2
+43
+6非非非非非非非非非非非非非非非
+注意事項
+1．図において，CIN は造影剤投与後 48～72 時間以内に SCr の上昇が 44.2 mmol／L（0.5 mg／dL）より大，あるいは 20～25％より増大したものと
+定義している．
+2．本図の作成に用いた計算式の妥当性について検討した研究は Nyman による 1 つの論文しかなく， 十分なエビデンスがあるとはいえないので， あく
+まで参考程度にとどめるのがよい．また，本図の作成に用いた計算式は，CT のデータからではなく，心臓カテーテル検査の論文から導きだされたも
+のである．
+図　5， 10， 20， 30％の確率で CIN を発症すると予測される造影剤投与量
+
+
+
+
+
+
+      
+eGFRʢmL?min?mʣ
+ྔ
+ʢmLʣ
+
+
+
+
+
+
+      
+eGFRʢmL?min?mʣ
+ྔ
+ʢmLʣ
+
+
+
+
+
+
+      
+eGFRʢmL?min?mʣ
+߹
+ྔ
+ʢmLʣ
+$*/
+$*/
+$*/
+$*/
+$*/
+$*/
+$*/
+$*/
+$*/
+$*/
+$*/
+$*/
+[[p54]]
+　以上のような報告を踏まえると， 造影 CT においても造影剤投与量を減量することで CIN 発症のリスクは
+低くなると考えられるが，安全な造影剤投与量というのは一律に規定できるものではない．腎機能の低下し
+た患者では少量の造影剤投与量でも CIN を発症する可能性がある．したがって，すべての造影 CT におい
+て，造影剤投与量は担当医により造影のリスクと検査のベネフィットを考慮して判断されなければならな
+い．また，腎機能が低下した患者においては，造影 CT の前後に補液などの十分な対策を講じ，さらに検査
+後は腎機能および患者状態の十分な評価・観察が重要となることはいうまでもない．
+　参考までに， Nyman らの論文に記載されている計算式より計算した， eGFR 値に対して 5％， 10％， 20％，
+30％の確率でCINを発症すると予測される造影剤投与量を図に示す．本計算式の妥当性について検討した研
+究は同じ筆者による 1 つの論文しかなく16），十分なエビデンスがあるとはいえないので，あくまで参考程度
+にとどめるのがよい．
+造影 CT の短期間反復検査は CIN 発症のリスクを増加させるか？
+CIN 発症のリスクが増加するため， 短期間（24～48 時間）の造影 CT の反復は推奨しない．
+エビデンスレベル：Ⅴ	 推奨グレード：C2
+背　景
+　脳動脈瘤破裂や急性心筋梗塞などの救急患者では，24～48 時間程度の短期間に，治療前評価，インターベ
+ンション，治療後評価などのために繰り返し造影剤が投与されることがある．
+　Abujudeh ら17）は， 24 時間以内に 2 回造影 CT を実施した患者 164 例中 21 例（12.8％）で CIN を発症した
+と報告している．この発症頻度は一般的な CIN の発症頻度よりも高いことから， 造影 CT の反復により CIN
+の発症が増加する可能性がある．また，Trivedi ら18）は，2 回造影剤が投与された患者 28 例を検討し，2 回
+目の造影剤投与後に SCr は統計学的に有意に上昇し，eGFR は有意に低下して，28 例中 4 例で CIN を発症
+したと述べている．
+　一方で，Hopyan ら
+19）は，造影 CT を施行された脳卒中患者を対象とする研究で，24 時間以内に 2 回目の
+造影 CT 検査を実施した 55 例の患者で CIN を発症したものはいなかったと報告している（造影剤投与量は
+180～260mL） ．さらに， 造影 CT の回数と CIN の発症に関連はなかったとする報告2）， 32 時間内に 2 回造影
+剤を投与した群と造影剤を一度も投与していない対照群間で腎障害の発症頻度に差がなかったという報
+告
+9），造影 CT 後に血管造影を実施しても CIN の頻度は増えなかったという報告などがあり20），現時点で造
+影 CT の反復により CIN が増加するという明確なエビデンスはない．
+　しかしながら，CQ⑥—2 に示しているように，1 回の造影剤投与量が多くなるにつれて CIN の発症頻度は
+高くなるので，24～48 時間程度の短期間に造影剤を反復投与する場合も，CIN の発症率が高くなる可能性が
+ある
+21）．したがって，原則として造影 CT の反復検査は避け，短期間に頻回に造影検査を繰り返す患者にお
+いては，術前の腎機能および CIN のリスク評価に加え，腎機能の経時的変化も厳重に評価することが必要で
+ある．
+外来の造影 CT は入院の造影 CT に比べて CIN 発症のリスクが高いか？
+外来の造影 CT において， 入院の造影 CT より CIN 発症のリスクが高いとする明確なエビデ
+ンスはない．
+エビデンスレベル：Ⅴ	 推奨グレード：該当せず
+CQ⑥—3
+回答
+解　説 CQ⑥—3
+CQ⑥—4
+回答
+44
+6非非非非非非非非非非非非非非非
+[[p55]]
+背　景
+　造影 CT の半数以上は外来患者に対して施行されているが，外来患者においては造影 CT 前後の予防策や
+経過観察が十分でない可能性もあることから，CIN の発症頻度が入院患者に比較して高いのではないかと危
+惧する意見がある．
+　Weisbordら11）によると， 入院および外来での造影CTにおけるCINの頻度は， それぞれ12.6％および3.6％
+であり，入院患者において有意に高かったと報告している．ところが入院患者のみを対象とした Shema ら6）
+の報告では，CIN の頻度は 4.6％であったとしている．一方，外来患者のみを対象とした Mitchell ら22）の報
+告によると，CIN の頻度は 11％とされる．
+　このように入院および外来患者における CIN の発症頻度は，報告によりばらつきが大きく，現時点では入
+院あるいは外来患者のどちらか一方でCIN発症リスクが高いという明確なエビデンスはない．これらの論文
+間で CIN 発症率に差異を生ずる理由としては，患者背景や重症度の差など，患者集団の不均一さにより生じ
+るものと推測される．
+【文　献】
+1）UtsunomiyaD,YanagaY,AwaiK,OdaS,FunamaY,NamimotoT,YamashitaY：Baselineincidenceandseverityof
+renalinsufficiencyevaluatedbyestimatedglomerularfiltrationratesinpatientsscheduledforcontrast—enhancedCT.
+ActaRadiol2011；52（5） ：581—586.〔Ⅳb〕
+2）OleinikA,RomeroJM,SchwabK,LevMH,JhawarN,DelgadoAlmandozJE,SmithEE,GreenbergSM,RosandJ,Gold-
+steinJN：CTangiographyforintracerebralhemorrhagedoesnotincreaseriskofacutenephropathy.Stroke2009；40
+（7） ：2393—2397.〔Ⅳa〕
+3）HertsBR,SchneiderE,ObuchowskiN,PoggioE,JainA,BakerME：Probabilityofreducedrenalfunctionaftercontrast—
+enhancedCT：amodelbasedonserumcreatininelevel,patientage,andestimatedglomerularfiltrationrate.AJRAm
+JRoentgenol2009；193（2） ：494—500.〔Ⅳb〕
+4）HippA,DesaiS,LopezC,SinertR：Theincidenceofcontrast—inducednephropathyintraumapatients.EurJEmerg
+Med2008；15（3） ：134—139.〔Ⅳa〕
+5）LencioniR,FattoriR,MoranaG,StaculF：Contrast—inducednephropathyinpatientsundergoingcomputedtomography
+（CONNECT） —aclinicalproblemindailypractice?　Amulticenterobservationalstudy.ActaRadiol2010；51（7） ：741—
+750.〔Ⅳa〕
+6）ShemaL,OreL,GeronR,KristalB：Contrast—inducednephropathyamongIsraelihospitalizedpatients：incidence,risk
+factors,lengthofstayandmortality.IsrMedAssocJ2009；11（8） ：460—464.〔Ⅳb〕
+7）BeckerCR,ReiserMF：Useofiso—osmolarnonionicdimericcontrastmediainmultidetectorrowcomputedtomography
+angiographyforpatientswithrenalimpairment.InvestRadiol2005；40（10） ：672—675.〔Ⅳa〕
+8）CramerBC,ParfreyPS,HutchinsonTA,BaranD,MelansonDM,EthierRE,SeelyJF：Renalfunctionfollowinginfusion
+ofradiologiccontrastmaterial.Aprospectivecontrolledstudy.ArchInternMed1985；145（1） ：87—89.〔Ⅳa〕
+9）LangnerS,StumpeS,KirschM,PetrikM,HostenN：Noincreasedriskforcontrast—inducednephropathyaftermultiple
+CTperfusionstudiesofthebrainwithanonionic,dimeric,iso—osmolalcontrastmedium.AJNRAmJNeuroradiol
+2008；29（8） ：1525—1529.〔Ⅳa〕
+10）KimSM,ChaRH,LeeJP,KimDK,OhKH,JooKW,LimCS,KimS,KimYS：Incidenceandoutcomesofcontrast—induced
+nephropathyaftercomputedtomographyinpatientswithCKD：aqualityimprovementreport.AmJKidneyDis
+2010；55（6） ：1018—1025.〔Ⅳb〕
+11）WeisbordSD,MorMK,ResnickAL,HartwigKC,PalevskyPM,FineMJ：Incidenceandoutcomesofcontrast—induced
+AKIfollowingcomputedtomography.ClinJAmSocNephrol2008；3（5） ：1274—1281.〔Ⅳa〕
+12）NewhouseJH,KhoD,RaoQA,StarrenJ：Frequencyofserumcreatininechangesintheabsenceofiodinatedcontrast
+material：Implicationsforstudiesofcontrastnephrotoxicity.AJRAmJRoentgenol2008；191：376—382.〔該当なし〕
+13）NymanU,AlmenT,AspelinP,HellstromM,KristianssonM,SternerG：Contrast—medium—Inducednephropathycor-
+relatedtotheratiobetweendoseingramiodineandestimatedGFRinmL／min.ActaRadiol2005；46（8） ：830—842.
+〔Ⅰ〕
+14）KaneGC,DoyleBJ,LermanA,BarsnessGW,BestPJ,RihalCS：Ultra—lowcontrastvolumesreduceratesofcontrast—
+inducednephropathyinpatientswithchronickidneydiseaseundergoingcoronaryangiography.JAmCollCardiol
+2008；51（1） ：89—90.〔Ⅴ〕
+解　説 CQ⑥—4
+45
+6非非非非非非非非非非非非非非非
+[[p56]]
+15）CigarroaRG,LangeRA,WilliamsRH,HillisLD：Dosingofcontrastmaterialtopreventcontrastnephropathyinpatients
+withrenaldisease.AmJMed1989；86（6Pt1） ：649—652.〔Ⅳb〕
+16）NymanU,BjorkJ,AspelinP,MarenziG：Contrastmediumdose—to—GFRratio：ameasureofsystemicexposureto
+predictcontrast—inducednephropathyafterpercutaneouscoronaryintervention.ActaRadiol2008；49（6） ：658—667.
+〔Ⅴ〕
+17）AbujudehHH,GeeMS,KaewlaiR：Inemergencysituations,shouldserumcreatininebecheckedinallpatientsbefore
+performingsecondcontrastCTexaminationswithin24hours?　JAmCollRadiol2009；6（4） ：268—273.〔Ⅴ〕
+18）TrivediH,FoleyWD：Contrast—inducednephropathyafterasecondcontrastexposure.RenFail2010；32（7） ：796—801.
+〔Ⅴ〕
+19）HopyanJJ,GladstoneDJ,MalliaG,SchiffJ,FoxAJ,SymonsSP,BuckBH,BlackSE,AvivRI：RenalsafetyofCTangi-
+ographyandperfusionimagingintheemergencyevaluationofacutestroke.AJNRAmJNeuroradiol2008；29（10） ：
+1826—1830.〔Ⅴ〕
+20）LimaFO,LevMH,LevyRA,SilvaGS,EbrilM,deCamargoEC,PomerantzS,SinghalAB,GreerDM,AyH,González
+RG,KoroshetzWJ,SmithWS,FurieKL：Functionalcontrast—enhancedCTforevaluationofacuteischemicstrokedoes
+notincreasetheriskofcontrast—inducednephropathy.AJNRAmJNeuroradiol2010；31（5） ：817—821.〔Ⅳa〕
+21）StaculF,vanderMolenAJ,ReimerP,WebbJA,ThomsenHS,MorcosSK,AlménT,AspelinP,BellinMF,ClementO,
+Heinz—PeerG；ContrastMediaSafetyCommitteeofEuropeanSocietyofUrogenitalRadiology（ESUR） ：Contrast
+inducednephropathy：updatedESURContrastMediaSafetyCommitteeguidelines.EurRadiol2011；21：2527—2541.
+〔Ⅵ〕
+22）MitchellAM,JonesAE,TumlinJA,KlineJA：Incidenceofcontrast—inducednephropathyaftercontrast—enhanced
+computedtomographyintheoutpatientsetting.ClinJAmSocNephrol2010；5（1） ：4—9.〔Ⅴ〕
+46
+6非非非非非非非非非非非非非非非
+[[p57]]
+47
+6非侵襲的診断法（造影CT
+など）
+6 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+2．Oleinik, et al：
+Stroke 2009；40：
+2393—2397.
+対象：CTA 実施患者 348
+例，腎障害患者 4.6％
+対照 ： C T A非実施患者
+191 例，腎障害患者 13％
+検査：造影剤の投与法，投
+与量には言及なし
+評価時期：48 時間
+評価方法：SCr の変化を検
+査前4 8時間後で評価 ，
+SCr 25％または 0.5 mg／
+d Lより増大したものを
+CIN と定義
+対象群：CTA 実施患者で CIN 6％
+対照群：CTA 非実施患者で CIN 10％
+p＝0.1NS
+GFR の低下は，CIN 発症の独立因子とな
+る （p＜0.0001） ．造影をしていない患者
+での CIN リスクは 14％， 1 回している患
+者では 5％，2 回以上している患者では
+6％〔Ⅳa〕
+3．Herts, et al：AJR 
+Am J Roentgenol 
+2009；193：494—500.
+対象：外来患者 5,187 例，
+いずれも検査前および検査
+後 4 日の SCr を測定
+検査：造影剤投与量，投与
+法についての詳細の記載な
+し
+評価時期：4 日
+造影前の eGFR により，造影後の eGFR
+が 45 or 60
+ mL／min／1.73 m2未満にな
+る確率が予測できる．
+〔Ⅳb〕
+4．Hipp A, et al：Eur J 
+Emerg Med 2008；
+15：134—139.
+対象：外傷患者235例で造
+影 CT を実施したもの
+対照：非造影 CT の対照群
+の設定なし
+検査：Iohexol 150 mL，
+造影剤濃度，投与速度には
+言及なし
+評価時期：48 時間
+評価方法：SCr の変化を検
+査前4 8時間後で評価 ，
+rb?QT％または?OMT
+ mg／
+d Lより増大したものを
+CIN と定義
+対象群：12 人 （5.1％） で CIN 発症， SCr
+＞1.5 では CIN の相対リスク 6.4， eGFR
+が 60 mL／min／1.73 m2以下の患者で
+CIN 多い．
+統計的な有意差の有無：p＝0.02
+〔Ⅳa〕
+5．Lencioni R, et al：
+Acta Radiol 2010；
+15：741—750.
+リスク（糖尿病，腎機能障
+害，心不全など）を有する
+患者 493 例
+169（全患者の 34％）が
+腎機能障害を有する
+（eGFR＜60
+ mL／min／
+1.73 m2）
+検査：Iodixanol—320 を平
+均 131 mL，平均 2.9 mL／
+sec で投与
+評価時期：72 時間
+評価方法：検査後 72 時間
+の SCr が 0.5
+ mg／dL 以上
+上昇したものを CIN と定
+義
+全患者の 2.6％， 腎機能低下患者の 4.7％
+で CIN を発症，多変量解析では腎機能低
+下のみがCINの発症の予測因子であった．
+〔Ⅳa〕
+6．Shema L, et al：Isr 
+Med Assoc J 2009；
+11：460—464.
+対象：入院中に造影 CT を
+実施した 1,111 例が対象．
+このうち腎障害患者は
+273 例
+対照：造影剤非投与群の設
+定なし
+検査：造影法の詳細につい
+ては言及なし
+評価時期：1～5 日
+評価方法 ：造影剤投与後
+に，1～5 日 に SCr が 0.5
+ 
+mg／dL より増加したもの
+を CIN と定義
+全体の CIN の発症率 4.6％，腎障害患者
+では CIN の発症は 14.1～21.1％，糖尿
+病と腎障害の両者がある患者では
+44.4％，CKD のある患者は CIN の発症
+が有意に高い（p＜0.001） ．
+〔Ⅳb〕
+7. Becker CR, et al：
+Invest Radiol 2005；
+40：672—675
+対象：100 例の腎機能障害
+患者，SCr1.5～6
+検査 ：Iodixanol—270 を
+100
+ mL， 5.0 mL／secで投
+与
+評価時期：3 日
+評価方法 ：検査後 3 日の
+SCr が 0.5
+ mg／dL 以上上
+昇したものを CIN と定義
+100 例中 9 例（9％）で CIN 発現，7 例
+は回復
+〔Ⅳa〕
+[[p58]]
+48
+6非侵襲的診断法（造影CT
+など）
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+8．Cramer, et al：
+Arch Intern Med 
+1985；145：87—89.
+high risk group（SCr 1.5 
+mg／dL 以上，あるいは糖
+尿病
+対象：造影剤投与 19 例
+対照：造影剤非投与 46 例
+対象群：造影剤投与群 0／19 例で腎障害
+対照群：造影剤非投与群 2／46 例で腎障
+害
+統計的な有意差の有無：mr
+〔Ⅳa〕
+9．Langner S, et al：
+AJNR Am J Neurora-
+diol 2008；29：1525—
+1529.
+腎障害（SCr＞1.5）がもと
+もと存在する例 　計2 0
+例，造影 CT は 32 時間以
+内に 2 回行っている
+対象 ：Iodixanol 投 与 者
+100 例
+対照：造影剤非投与100例
+検査 ：Iodixanol—270 を
+60
+ mL，注入速度 6.0 mL／
+sec で投与
+評価時期：48 時間，72 時
+間
+評価方法：SCr の変化を検
+査前48，72時間後で評
+価，rb?QT％?ま?た?は?OMT
+ 
+mg／dL より増大したもの
+を CIN と定義
+対象群：造影剤投与群　0／7 例で CIN
+対照群 ：造影剤非投与群　2／13例で
+CIN
+統計的な有意差の有無：mr
+〔Ⅳa〕
+10．Kim SM, et al：
+Am J Kidney Dis 
+2010；55：1018—
+1025.
+eGFR 60 未満で造影 CT
+を行った患者520例， 検査
+前に生食，検査後に生食＋
+NAC 投与
+検査：非イオン性造影剤，
+量，注入速度に関しては言
+及なし．
+評価時期：48～96 時間
+評価方法：SCr の変化を検
+査前48～96時間後で評
+価，rb?QT％?ま?た?は?OMT
+ 
+mg／dL より増大したもの
+を CIN と定義
+造影剤腎症 2.5％の患者で発症， eGFR に
+応じて発症率が異なる．
+〔Ⅳb〕
+11．Weisbord, et al：
+Clin J Am Soc Nephrol 
+2008；3：1274—1281.
+入院患者 （119 例） vs 外来
+患者 （248 例） ， 除外基準：
+末期腎疾患患者，透析患
+者，人工呼吸器装着患者，
+急性肺塞栓患者，大動脈瘤
+破裂患者，昇圧剤使用患
+者，収縮期血圧 90
+ mmHg
+未満の患者
+検査：造影剤種類，造影剤
+量，投与量に関する言及な
+し
+評価時期：48～96 時間
+評価方法：検査後 48～96
+時間の?rb?が?QT％または
+0.25
+ mg／dL 以上上昇した
+ものを CIN と定義
+全患者では，入院患者の CIN が有意に多
+い（p＝0.001 or p＝0.004）
+eGFR 45
+ mL／min／1.73 m2以下の患者
+では，入院患者と外来患者で CIN の頻度
+に差がない．
+eGFR 45 mL／min／1.73 m2より大の患
+者では， 入院患者の CIN が有意に多い （p
+＜0.001 or p＝0.001）
+〔Ⅳa〕
+13．Nyman U, et al：
+Acta Radiol 2005；
+46：830—842.
+対象：metaanalysis （心血
+管系のランダム化試験 10
+論文＋2コホート研究論
+文，造影 CT のランダム化
+試験 3＋1 コホート研究論
+対照：なし
+検査：心血管造影および造
+影 CT
+ヨード量／GFR 比が，CIN 発症頻度と関
+連する．
+〔Ⅰ〕
+14．Kane GC, et al：J 
+Am Coll Cardiol 
+2008；51：89—90.
+対象 ：185 例，Founda-
+tion stages 3 to 5  
+chronic, nondialysis—
+dependent kidney，収縮
+期血圧90
+ mmHg以下は除
+外 disease
+対照：なし
+検査：心カテ（冠状動脈造
+影） ，造影剤使用量 27 mL
+（四分範囲 20～50 mL）
+評価時期：術後 7 日以内
+評価方法：術後 7 日以内に
+sCr が 0.5 mg／dL 以 上 上
+昇と CIN を定義
+造影剤使用量 14ML で CIN 4.4％，造影
+剤量が増加するにつれて CIN の頻度も増
+加
+統計的な有意差の有無：p＝0.005
+〔Ⅴ〕
+[[p59]]
+49
+6非侵襲的診断法（造影CT
+など）
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+15．Cigarroa, et al：
+Am J Med 1989；86：
+649—652.
+対象：腎機能障害（Cr が
+1.8 mg／dL 以上） で心血管
+造影を行った 115 例
+対照：なし
+検査：Renografin—76を使
+用（ヨード濃度 370 mg／
+dL） ， 量については言及なし．
+評価時期：術後 5 日まで毎
+日 Cr を測定
+造影剤使用量の上限は，5  mL of con-
+trast／kg body weight（maximum，
+300 mL）
+〔Ⅳb〕
+16．Nyman U, et al：
+Acta Radiol 2008；
+49：658—667.
+対象：急性心筋梗塞を疑っ
+て心臓カテーテル検査を
+行った 391 例
+対照：なし
+検査：造影剤は Iopentol—
+350 （低浸透圧造影剤， GE
+社）を使用，量は不明
+評価時期：72 時間以内
+評価方法 ：CIN の 定 義：
+SCr 44.2μ mol／L 以 上 上
+昇あるいは乏尿／無尿をき
+たしたもの．
+g—I／eGFR＜1 の時，CIN の頻度は 3％，
+—h／が?P?以上のとき，?bhm?の頻度は?QT％
+〔Ⅴ〕
+17．Abujudeh HH, et 
+al：J Am Coll Radiol 
+2009；6：268—273.
+2 4時 間 以 内 に2回C Tを
+実施した 164 例の患者，2
+回の CT の間隔平均 11.4
+時間，もともと SCr が 1.5
+以上は 15 例， eGFR が 60
+未満は 21 例， 1 回目の CT
+のみの患者の対象なし
+検査：造影剤は Iopamidol
+あるいは Iopromide， 1 回
+目の投与量平均1 2 6 . 2
+ 
+mL， 2回目の投与量123.4 
+mL
+評価時期：48 時間以内
+評価方法?：rb?QT％増大
+したものを CIN と定義
+21 例（12.8％）の患者が 2 回目の検査
+後 24 時間以内に CIN，多変量解析によ
+ると CIN のリスクファクターは 1 回目と
+2 回目の間の SCr であった（odds 18，
+p＜0.005） ．
+〔Ⅴ〕
+18．Trivedi, et al：
+Ren Fail 2010；32：
+796—801.
+2 回の造影 CT を行った患
+者 28 例， eGFR 60 未満，
+2 回目の CT の直前の SCr
+は初回 SCr の 125％未満，
+1 回目と 2 回目の間隔 20
+±13 日
+検査：造影剤量 130＋42
+ 
+mL
+評価時期：3 日
+評価方法：SCr の変化を検
+査 前 と2回 目C Tの3日 後
+で評価，SCr25％増大した
+ものを CIN と定義
+2 回目の CT 後に平均 SCr および eGFR
+は有意に悪化，2回目のCT後に4例
+（14.3％）で CIN 発症
+統計的な有意差の有無 ：2 回目の造影剤
+投与後に SCr および eGFR は有意に低下
+（p＝0.027 および 0.028）
+〔Ⅴ〕
+19．Hopyan, et al：
+AJNR Am J Neurora-
+diol 2008；29：1826—
+1830
+対象：急性脳梗塞あるいは
+急性脳出血患者 198 例
+対照群の設定なし
+評価時期：72 時間以内
+評価方法?：rb?QT％増大
+したものを CIN と定義
+5 例（2.9％）で CIN 発症．5 例中 3 例
+は CTA と CTP の両方を施行していた．
+55 例の患者は，24 時間以内に 2 回目の
+造影CT検査を実施 （造影剤量180～260
+ 
+mL）が CIN を発症したものはいなかっ
+た．〔Ⅴ〕
+20．Lima FO, et al：
+AJNR Am J Neurora-
+diol 2010；31：817— 
+821.
+対象：虚血性脳卒中患者の
+うち造影 CT 患者 575 例
+対照：非造影患者 343 例
+検査 ：Iopamidol 100～
+140
+ mL（濃度は不明）
+評価時期：72 時間以内
+評価方法?：rb?QT％増大
+したものを CIN と定義
+対象群：腎障害 5％
+対照群：腎障害 10％　p＝0.003
+造影 CT 後に血管造影を実施した患者と
+実施しない患者の間で，急性腎障害の頻
+度は増加しなかった（5％ vs 5％，p＝
+0.70）〔Ⅳa〕
+22．Mitchell AM, et 
+al：Clin J Am Soc 
+Nephrol 2010；5：4— 
+9.
+対象：外来患者633例をエ
+ントリ，そのうち腎不全患
+者は 15 例
+対照：造影剤非投与群の設
+定なし
+評価時期：2～7 日
+評価方法：検査前 2～7 日
+後でSCrの変化を評価，
+rb?QT％または?OMT
+ mg／
+d Lより増大したものを
+CIN と定義
+70 例（11％）で CIN，その 6 例（9％）
+はさらに重篤な腎不全を発症
+〔Ⅴ〕
+[[p60]]
+7
+生理食塩水投与は CIN 発症のリスクを減少させるか？
+1 ．CIN のリスクが高い CKD 患者では CIN を予防するため，生理食塩水，重曹輸液などの
+等張性輸液製剤を造影検査の前後に経静脈的投与をすることを推奨する．
+エビデンスレベル：Ⅱ	 推奨グレード：A
+2 ．CIN の予防効果は，低張性輸液 0.45％食塩水よりは等張性輸液である 0.9％食塩水（生理
+食塩水）が優れるため，等張性輸液を使用することを推奨する．
+エビデンスレベル：Ⅱ	 推奨グレード：A
+背　景
+　輸液により造影剤による尿細管障害を軽減する主なメカニズムは 2 つあり，1 つは尿細管での造影剤濃度
+を低下させることにより直接の尿細管障害を抑制することと，2 つ目は血管内血漿量が増加するためにレニ
+ン・アンジオテンシン系，バソプレシンなどが抑制され，また血管拡張作用がある NO やプロスタグランジ
+ン産生が抑制されないため，造影剤によって起こる動脈収縮が抑制されることによる．そのため輸液により
+CIN を予防できると期待されるが，各施設間で使用される輸液製剤やその投与法はさまざまである．
+　造影剤による検査を受ける CKD 患者に対して，生理食塩水を造影中に経静脈的に投与することにより造
+影剤腎症を予防できることは，1980 年頃に Eisenberg らによって示された1,2）．しかし，CKD 患者における
+生理食塩水輸液の CIN 予防に関する優位性は，1970 年代に発表された 5％ブドウ糖を 80mL／h にて造影中
+に投与し CIN 発症率を検討した論文3）と文献上の CIN 発症率とを比較したもので，実際に 5％ブドウ糖液な
+どの対照を設けて検証されたものではない．また，これらのデータは高浸透圧造影剤の使用下でのデータで
+あり，24 時間後に SCr 値 50% 上昇もしくは 1mg/dL を CIN と定義しており，必ずしも現在の低浸透圧性
+造影剤による CIN 発症リスクと比較できるものではない．
+　経静脈的な生理食塩水投与と飲水を RCT により，評価したのは Trivedi らであり，53 例の腎機能が正常
+な待機的 CAG を受けた患者の 24 時間後の SCr 値の上昇を比較した．生理食塩水の輸液を受けた患者 27 例
+のうち CIN を発症したのは 1 例（3.7％）であり，自由飲水群 26 例では 9 例（34.6％）発症したため，生理
+食塩水による輸液は CIN を有意に抑制することを証明した（p＝0.005）
+4）．また， 154mEq／L の重曹輸液を 5
+mL／kg／h で PCI 前に 1 時間以上輸液した PCI 前輸液群と，PCI 後に生食輸液をした前輸液無群とを比較し
+た RENO研究が報告され， CIN 発症は PCI 前輸液群で 1.8％， 前輸液無群で 21.8％と CIN 発症が有意に抑制
+されることが示されている．RENO研究では，PCI 前輸液群で N‒アセチルシステイン（NAC）2,400mg が
+PCI 前に投与されているが，その有効性は必ずしも認められないため，造影前の輸液の予防効果がより重要
+であると思われる
+5）．以上より， 造影前に生理食塩水などの輸液をCINの予防のために行うことを推奨する．
+　CIN の予防のための輸液は，当初 0.45％食塩水が使用されていた．輸液の張度が重要かどうか，等張度と
+低張度の輸液製剤を比較した RCT が 1,620 例の患者で行われ，0.45％食塩水よりも 0.9％食塩水（生理食塩
+水）が優れることが証明されている6）．0.45％食塩水群（n＝811）では，48 時間後の SCr 値が 0.5mg／dL 以
+上上昇した患者が 2.0％（95％CI1.0～3.1％）であるのに比較して， 生理食塩水群（n＝809）では発症が 0.7％
+（95％CI0.1～1.4％）と有意に抑制された（p＝0.04） ．この研究では，多くの患者の腎機能は正常であり，低
+CQ⑦—1
+回答
+解　説 CQ⑦—1
+50
+造影剤腎症の予防法：輸液
+[[p61]]
+浸透圧性の非イオン性造影剤が使用されている．
+　これらの結果から， 生理食塩水のような等張性の輸液を CIN の予防のために行うことは有益であると判断
+されるため，これを推奨する．心機能や全身状態により輸液量を調節することが必要である．また，CIN を
+予防するための輸液を検討すべき患者の目安は，造影 CT などの静脈からの非侵襲的造影では GFR45mL／
+min／1.73m2未満，CAG などの動脈からの侵襲的造影では GFR60mL／min／1.73m2未満である．
+飲水は輸液と同等に CIN 発症のリスクを減少させるか？
+飲水のみで経静脈的な輸液と同等に CIN の発症を抑制できるかについてはエビデンスが不
+十分である．CIN を予防するために，飲水のみによる水分補給よりも輸液などの十分な対策
+を講じることを推奨する．
+エビデンスレベル：Ⅱ	 推奨グレード：C1
+背　景
+　検査前に飲水によっても脱水を回避することができ，造影前に飲水を奨励することは慣例的に行われてい
+る．しかし，飲水は血管内 Na 量には影響を与えないため，飲水により CIN が予防できるか懸念がある．経
+静脈輸液による生理食塩水や重曹輸液による Na の負荷は血管内容量を増加し，腎血漿流量を維持すること
+ができる．水のみではなく，食塩を摂取することでも体内への Na 負荷量は増加するため，血管内容量が上
+昇する可能性はある．
+　緊急の造影または外来患者の造影検査では，輸液による予防は困難である．そこで，脱水を防ぎ，利尿を
+つけるように飲水負荷を行うことが試みられている．これを比較したのが Trivedi らで，自由飲水と生理食
+塩水の経静脈的輸液を比較し，生理食塩水による輸液が自由飲水のみより優ることが示されている4）．
+　一方，糖尿病患者で待機的に CAG および経皮的冠動脈インターベンション（PCI）を受ける患者に対し
+て，生理食塩水を 1mL/kg/h で CAG あるいは PCI 前に 6 時間，検査終了後さらに 12 時間輸液した生理食
+塩水群（n=52,平均 CCr70.3mL/min）と，水を 1mL/kg/h で術前 6～12 時間，終了後 12 時間経口飲水し
+た群（n=50,平均 CCr79mL/min）を比較し，72 時間後の CCr が生理食塩水群 65.3mL/min，経口飲水群
+73.5mL/minと差がないことが報告されている。またCIN発症率は， 生理食塩水群5.77％， 経口飲水群4.00%
+で有意差がなかった
+7）。
+　また，SCr 値 1.4mg/dL 以上の CKD 患者を対象とし，PCI／CAG 前に 1,000mL の飲水を指示し，検査後
+は 0.45％食塩水を 75mL／h12 時間投与した外来患者群 （n＝18） と， PCI／CAG 前後に各 12 時間 0.45% 食塩水
+を輸液した入院患者群 （n＝18） と比較した PREPARED 研究がある8）．飲水を指示した外来患者群では 48 時
+間後の Cr 変化量は 0.12±0.23mg／dL 上昇し， 入院患者では 0.21±0.38mg／dL 上昇した．両群間には有意差
+はなく，術前の輸液は経口飲水で十分であると結論づけられている．以上の RCT の結果より，PCI／CAG 前
+の CIN 予防対策は経口飲水で一定の効果があるといえる．
+　造影検査の前に水だけでなく，食塩を同時に投与することで高張度の輸液と同じ効果があるかを，平均
+bbRV
+mL／min／1.73m2の患者で同じ効果があるか検討した報告がある9）．食塩を体重 10kg 当たり 1g／day
+投与する群 （n＝77） と，生理食塩水を 6 時間前より 15mL／kg／h で輸液した群 （n＝77） を比較して，経口食塩
+負荷群の CIN 発症は 6.6％であるのに比較して，生理食塩水群では 5.2％で差がなく，経口の食塩負荷が生理
+食塩水の （経静脈的） 輸液と同等であると結論している．しかし， この研究では術前の輸液量が非常に多く，
+また，術後の輸液については情報がない．さらに，経口食塩投与と経静脈的生理食塩水投与の比較は二次エ
+CQ⑦—2
+回答
+解　説 CQ⑦—2
+51
+7造影剤腎症の予防法：輸液
+[[p62]]
+ンドポイントであり，確認のための臨床試験が必要である．
+　以上のように経口飲水と生理食塩水輸液の CIN 予防効果に差がないとする報告もあるが， 現時点では十分
+なエビデンスがあるとは言えず，飲水だけによる水分負荷は生理食塩水輸液と同等に推奨することはできな
+い．また，造影前に輸液ができない場合には，飲水を指示し，造影検査後に輸液を行うことにより CIN を予
+防できるかどうかについても更に検証される必要がある．経口塩分負荷と生理食塩水輸液との同等性につい
+ても，確定的なことを述べるにはエビデンスとしては十分ではない．
+　飲水は CIN 予防対策としては輸液に劣るが，脱水を改善することと，造影剤による不快感を減少できるた
+め，飲水することを推奨する．
+重炭酸ナトリウム （重曹） 液投与は CIN 発症のリスクを減少させるか？
+重炭酸ナトリウム（重曹）液投与は CIN 発症のリスクを抑制し， その効果は生理食塩水より
+も優れる可能性があるが，現時点において重曹輸液の使用が必須との結論には至らない．
+エビデンスレベル：Ⅰ	 推奨グレード：C1
+背　景
+　重炭酸ナトリウム液を投与することにより，循環血液量が増加し，また，尿をアルカリ化することができ
+る．尿アルカリ化は酸化ストレスを抑制することができるため，尿細管障害を抑制できると考えられる．
+　重曹輸液に関する研究は等張性輸液と高張性輸液を使用した研究があり，メイロンⓇ（1Eq／L）を 20mL
+投与した研究と 154mEq の重曹輸液を使用したものがある．わが国では 1.26％炭酸水素ナトリウム（フソ
+ウ） （152mEq／L）がある．
+　重曹輸液と生理食塩水輸液を比較したメタ解析は 7 つ報告されており，1 つを除いていずれも重曹輸液が
+CIN の発症のリスクを低下させるとの結論である10～17）．2009 年の Zoungas らの解析は，1950～2008 年まで
+を検索し，23 論文（9 論文が査読のある論文で 14 の抄録を含んでいる） ，3,563 例を解析した結果，重曹輸液
+を行うことによる CIN の相対リスクが 0.62（95％CI0.44～0.86）に低下することが報告されている
+10）．ほか
+のメタ解析でも，重曹輸液による CIN の発症抑制に関しては，ほぼ同様の結果が得られている．しかし，透
+析導入，心不全の発症，死亡に関しては，重曹輸液と生理食塩水輸液の間には有意差がない．すなわち，CIN
+の発症は重曹輸液によって抑制されるが，より重要な生命予後，腎予後に関しては重曹輸液を使用しても生
+理食塩水を使用しても差はない．また，このメタ解析では，各論文間の臨床試験の内容の違いも指摘されて
+おり，論文化された臨床試験では重曹の有効性が報告されたものが多く，論文化されていない抄録では重曹
+輸液の有効性を否定する結果が多いことも報告されている．
+　これに対して，生食輸液と重曹輸液に有意な差はないとするメタ解析もある
+17）．この報告では，質の低い
+RCT を組み合わせることにより，誤った結論に導かれる可能性が指摘されている．しかし，このメタ解析で
+は 100 例以上の症例登録があり， N‒アセチルシステイン（NAC）の使用法に対照と差がない 8 つの研究のみ
+を解析した結果も示されており， 重曹群 945 例と対照 945 例を解析した結果は， RR0.71（95％CI0.41～1.03）
+と有意差はないものの，重曹輸液の有効性を示唆する結果となっている．
+　これらのメタ解析の結果をみるうえで考慮すべき点は， 重曹輸液のプロトコルは約 150mEq／L の重曹を 3 
+mL／kg／h で造影前 1 時間，1mL／kg／h で造影後 6 時間行うことが一般的であり，生食輸液のプロトコル 1
+mL／kg／hで前後6～12時間行うのとは輸液時間が異なる点である．メタ解析において輸液時間についての補
+正はなされていない．さらに，血液濾過を術前に行うことが CIN 予防に有効であることも示されており，体
+CQ⑦—3
+回答
+解　説 CQ⑦—3
+52
+7造影剤腎症の予防法：輸液
+[[p63]]
+液のアルカリ化は CIN の予防に有効であると考えられる（CQ⑨‒2） ．しかしながら， 生食輸液と重曹輸液の
+いずれの群も造影前 1 時間前から 3mL／kg／h，造影後 1.5mL／kg／h で 4 時間輸液すると，両群間で CIN 発
+症に差がなかったという報告もある18）．
+　2009 年以降に報告された論文は 7 つあり，それぞれの臨床試験の内容は異なり，また，結果も 3 つが有効
+でPX～QP），S?つが無効であるQQ～QT）．無効のうち同じ施設からの同じ時期に行った結果が報告されており，内容
+が重複している可能性もある．日本からの報告は 3 つあり，Ueda らの報告は，緊急の PCI を受けた患者に
+直前にボーラスで生理食塩水か重曹輸液を行った結果を比較しており， 重曹がCINの発症を88％ （RR0.128，
+95％CI0.016～0.91，p＝0.01）有意に抑制したと報告している
+19）．Tamura らは，12 時間前から生理食塩水
+による点滴を行いながら，直前に 20mEq の重曹輸液（メイロンⓇ20mL）をボーラスで投与を行い，CAG
+を受けた患者に CIN の発症が抑制されたことを報告している（p＝0.017）20）．また，Motohiro らは，6 時間
+前からの生理食塩水輸液を，3 時間前から重曹に切り替え 1mL／kg／h で追加投与し，生理食塩水のみを投与
+した群と比較し，CAG を受けた患者に CIN の発症が有意に抑制されたことを報告している（p＝0.012）21）．
+一方， 韓国から報告されたPREVENT試験では， 382名のCAGまたはPCIを受けた糖尿病患者にNAC2,400
+mg を投与し， 造影の前後 12 時間生理食塩水による輸液を 1mL／kg／h を行った生理食塩水群 （n＝189） と，
+造影の 1 時間前から 3mL／kg／h で輸液し，開始後から終了 6 時間後まで 1mL／kg／h で重曹輸液を行った重
+曹群（n＝193）で，CIN の発症を比較している．生理食塩水群で 5.3％，重曹群で 9.0％に CIN が発症した
+が，有意差はなかった（p＝0.17）22）．
+　以上の結果からは，輸液時間が限られた場合（緊急症例）には生理食塩水よりは重曹を使用したほうが造
+影剤腎症の発症を抑制できる可能性があることが示唆される．しかしながら，重曹輸液で透析や死亡のリス
+クが有意に減少することはなく，重曹輸液の使用が必須であるとの結論には至らない．
+　一方，次項で述べるように，短時間の輸液の場合には等張性の重曹輸液を 3mL/min/1.73m
+2 で 1 時間輸
+液するか，フロセミドを併用して生食輸液を行い 300mL/h 以上の尿量となるような補液を行うことが，生
+食で 1mL/min/1.73m2 の速度で輸液を行うよりは CIN の予防に有効である可能性がある．
+短時間の輸液は長時間の輸液と同等に CIN 発症を予防できるか？
+明らかなエビデンスはないが， 短時間の輸液は長時間の輸液より CIN の発症を増加する可能
+性があるため，推奨しない．
+エビデンスレベル：Ⅱ	 推奨グレード：C2
+背　景
+　輸液による治療が造影剤腎症の発症を予防することが報告されているが，どの程度の時間輸液することが
+必要かは明らかでない．また，輸液に必要な時間は，生理食塩水と重曹輸液で異なる可能性がある．
+　短時間の輸液を行わざるを得ないのは緊急の PCI の場合であり，ランダム化比較試験を行うことは難し
+い．通常，短時間の輸液は，造影前 1 時間の輸液を意味することが多い．
+　待機的血管造影を行う 63 名の CKD 患者を， ランダムに 12 時間持続静注を行った群と， 直前に 250
+mL を
+1 時間で点滴した群とで比較すると，12 時間 1mL／kg／h で輸液した群では CIN の発症は 0％であったが，1
+時間輸液した群では 10.8％に CIN が発症した26）．一方，生理食塩水を 2,000mL／日で静注した群と，造影の
+直前に 300mL をボーラスで静注した群とで，CIN 発症に差がなかったとする報告もある27）．
+　重曹輸液を造影前 1 時間投与（3mL／kg／h）して， 従来の生理食塩水による 6～12 時間の持続輸液（1mL／
+CQ⑦—4
+回答
+解　説 CQ⑦—4
+53
+7造影剤腎症の予防法：輸液
+[[p64]]
+kg／h）と比較した試験が 4 つ行われている．3 つのランダム化比較試験では両群に CIN の発症に差がなく，
+生理食塩水の長時間投与と同等の有効性を示す可能性が示されている22,25,28）．RENO 研究5）や， REMEDIAL研
+究では，重曹輸液を造影 1 時間前から投与したほうが，CIN の発症を抑制できたとされている29）．これらの
+結果は，重曹を使用した短時間の輸液が，CIN 発症を長時間の生理食塩水輸液と同等に抑制できる可能性を
+示す．
+　本ガイドラインは 2011 年は 8 月末までの文献を検索しそのエビデンスに基づいて作成されたものである
+が，2011 年 9 月および 2012 年 1 月に，輸液による CIN 予防に関して重要な論文が 2 編出版された．これら
+は，通常の輸液を超えて，利尿薬を利用して大量の利尿を誘導することにより CIN を予防しようとするもの
+であり，今後の新しい方向性を示す可能性があるため，ここに記載する．
+　生理食塩水輸液にフロセミドを追加することで，時間尿 300mL/分以上の利尿状態に至ってから造影し，
+造影後 300mL/h 以上の尿量を 4 時間維持することにより造影剤腎症を防ぐことができるかを試す２つの臨
+床試験が行われた30， 31）．GFR30mL／min／1.73m2 未満のCKD患者に行われたREMEDIAL‒II研究 （n＝292）
+では，生食輸液とフロセミドで 300mL/h 以上に尿量を維持した群（n＝146）で，重曹輸液を行った対照群
+（n＝146）に比較して CIN の発症は 53％抑制された〔オッズ比 0.47（95%CI0.24～0.92） 〕 ．また，心不全を
+起こす可能性がある患者には初期投与量は生食 150mL以下に制限されて行われた．フロセミドによる副作
+用はみられなかったが，大量の輸液のため 3 名は急性肺水腫になったことが報告されている．GFR30mL/
+min/1.73m2未満の患者に造影剤を使用するときにフロセミドを使用した大量の生食輸液を試みることは
+CIN の予防効果がある可能性はあるが，肺水腫に至らないように十分な観察が必要である．
+　いずれにしても，造影前 1時間以内の輸液の有効性を，12時間持続静注と比較した臨床試験は少なく，エ
+ビデンスとしては不十分であり，今後の検証を待ちたい．
+【文　献】
+P）dqkKavnKglv：qM`ilPXWO；UW：SR‒SUM〔Ⅴ〕
+Q）dqkKavnKglv：qM`iq`
+JRoentgenol1981；136：859‒861.〔Ⅴ〕
+3）SwartzRD,RubinJE,LeemingRW,SilvaP：RenalfailurefollowingmajorangiographyAmJMed1978；65：31‒37.〔Ⅴ〕
+4）TrivediHS,MooreH,NasrS,AggarwalK,AgrawalA,GoelP,HewettJ：Arandomizedprospectivetrialtoassessthe
+roleofsalinehydrationonthedevelopmentofcontrastnephrotoxicity.NephronClinPract2003；93：C29‒34.〔Ⅱ〕
+5）Recio‒MayoralA,ChaparroM,PradoB,CózarR,MéndezI,BanerjeeD,KaskiJC,CuberoJ,CruzJM：Thereno‒protec-
+tiveeffectofhydrationwithsodiumbicarbonateplusN‒acetylcysteineinpatientsundergoingemergencypercutane-
+ouscoronaryintervention：theRENOStudy.JAmCollCardiol2007；49：1283‒1288.〔Ⅱ〕
+6）MuellerC,BuerkleG,BuettnerHJ,PetersenJ,PerruchoudAP,ErikssonU,MarschS,RoskammH：Preventionofcon-
+trastmedia‒associatednephropathy：randomized comparisonof2hydrationregimensin1620patientsundergoing
+coronaryangioplasty.ArchInternMed2002；162：329‒336.〔Ⅱ〕
+7）WróbelW,SinkiewiczW,GordonM,Woźniak-WiśniewskaA:Oralversusintravenoushydrationandrenalfunctionin
+diabeticpatientsundergoingpercutaneouscoronaryinterventions.KardiolPol.2010Sep；68：1015‒1020.〔II〕
+8）TaylorAJ,HotchkissD,MorseRW,McCabeJ：PREPARED：PreparationforAngiographyinRenalDysfunction：a
+randomizedtrialofinpatientvsoutpatienthydrationprotocolsforcardiaccatheterizationinmild‒to‒moderaterenal
+dysfunction.Chest1998；114：1570‒1574.〔Ⅱ〕
+9）DussolB,MorangeS,LoundounA,AuquierP,BerlandY：Arandomizedtrialofsalinehydrationtopreventcontrast
+nephropathyinchronicrenalfailurepatients.NephrolDialTransplant2006；21：2120‒2126.〔Ⅱ〕
+10）ZoungasS,NinomiyaT,HuxleyR,CassA,JardineM,GallagherM,PatelA,Vasheghani‒FarahaniA,SadighG,Perkovic
+V：Systematicreview：sodiumbicarbonatetreatmentregimensforthepreventionofcontrast‒inducednephropathy.
+AnnInternMed2009；151：631‒638.〔Ⅰ〕
+11）MeierP,KoDT,TamuraA,TamhaneU,GurmHS：Sodiumbicarbonate‒basedhydrationpreventscontrast‒induced
+nephropathy：ameta‒analysis.BMCMed2009；7：23.〔Ⅰ〕
+12）KanbayM,CovicA,CocaSG,TurgutF,AkcayA,ParikhCR：Sodiumbicarbonateforthepreventionofcontrast‒
+inducednephropathy：ameta‒analysisof17randomizedtrials.IntUrolNephrol2009；41：617‒627.〔Ⅰ〕
+13）HoganSE,L’AllierP,ChetcutiS,GrossmanPM,NallamothuBK,DuvernoyC,BatesE,MoscucciM,GurmHS：Current
+54
+7造影剤腎症の予防法：輸液
+[[p65]]
+roleofsodium bicarbonate‒based preprocedural hydration fortheprevention ofcontrast‒induced acute kidney
+injury：ameta‒analysis.AmHeartJ2008；156：414‒421.〔Ⅰ〕
+14）JoannidisM,SchmidM,WiedermannCJ：Preventionofcontrastmedia‒inducednephropathybyisotonicsodiumbicar-
+bonate：ameta‒analysis.WienKlinWochenschr2008；120：742‒748.〔Ⅰ〕
+15）NavaneethanSD,SinghS,AppasamyS,WingRE,SehgalAR：Sodiumbicarbonatetherapyforpreventionofcontrast‒
+inducednephropathy：asystematicreviewandmeta‒analysis.AmJKidneyDis2009；53：617‒627.〔Ⅰ〕
+16）TrivediH,NadellaR,SzaboA：Hydrationwithsodiumbicarbonateforthepreventionofcontrast‒inducednephropa-
+thy：ameta‒analysisofrandomizedcontrolledtrials.ClinNephrol2010；74：288‒296.〔Ⅰ〕
+17）BrarSS,HiremathS,DangasG,MehranR,BrarSK,LeonMB：Sodiumbicarbonateforthepreventionofcontrast
+induced‒acutekidneyinjury：asystematicreviewandmeta‒analysis.ClinJAmSocNephrol2009；4：1584‒1592.〔Ⅰ〕
+18）BrarSS,ShenAY,JorgensenMB,KotlewskiA,AharonianVJ,DesaiN,ReeM,ShahAI,BurchetteRJ：Sodiumbicarbon-
+atevssodiumchlorideforthepreventionofcontrastmedium‒inducednephropathyinpatientsundergoingcoronary
+angiography:arandomizedtrial.JAMA2008；300：1038‒1046.〔Ⅱ〕
+19）UedaH,YamadaT,MasudaM,OkuyamaY,MoritaT,FurukawaY,KojiT,IwasakiY,OkadaT,KawasakiM,Kuramoto
+Y,NaitoT,FujimotoT,KomuroI,FukunamiM：Preventionofcontrast‒inducednephropathybybolusinjectionof
+sodiumbicarbonateinpatientswithchronickidneydiseaseundergoingemergentcoronaryprocedures.AmJCardiol
+2011；107：1163‒1167.〔Ⅱ〕
+20）TamuraA,GotoY,MiyamotoK,NaonoS,KawanoY,KotokuM,WatanabeT,KadotaJ：Efficacyofsingle‒bolusadmin-
+istrationofsodiumbicarbonatetopreventcontrast‒induced nephropathyinpatientswithmildrenalinsufficiency
+undergoinganelectivecoronaryprocedure.AmJCardiol2009；104：921‒925.〔Ⅱ〕
+21）MotohiroM,KamihataH,TsujimotoS,SenoT,ManabeK,IsonoT,SutaniY,YuasaF,IwasakaT：Anewprotocolusing
+sodiumbicarbonateforthepreventionofcontrast‒inducednephropathyinpatientsundergoingcoronaryangiography.
+AmJCardiol2011；107：1604‒1608.〔Ⅱ〕
+22）LeeSW,KimWJ,KimYH,ParkSW,ParkDW,YunSC,LeeJY,KangSJ,LeeCW,LeeJH,ChoiSW,SeongIW,SuhJ,
+ChoYH,LeeNH,CheongSS,YooSY,LeeBK,LeeSG,HyonMS,ShinWY,LeeSW,JangJS,ParkSJ：Preventive
+strategiesofrenalinsufficiencyinpatientswithdiabetesundergoinginterventionorarteriography（thePREVENT
+Trial） .AmJCardiol2011；107：1447‒1452.〔Ⅱ〕
+23）Vasheghani‒FarahaniA,SadighG,KassaianSE,KhatamiSM,FotouhiA,RazaviSA,MansourniaMA,Yamini‒SharifA,
+AmirzadeganA,SalarifarM,SadeghianS,DavoodiG,BorumandMA,EsfehaniFA,DarabianS：Sodiumbicarbonate
+plusisotonicsalineversussalineforpreventionofcontrast‒inducednephropathyinpatientsundergoingcoronaryangi-
+ography：arandomizedcontrolledtrial.AmJKidneyDis2009；54：610‒618.〔Ⅱ〕
+24）Vasheghani‒FarahaniA,SadighG,KassaianSE,KhatamiSM,FotouhiA,RazaviSA,MansourniaMA,KazemisaeidA,
+SoleimaniA,PourhosseiniHR,AlidoostiM,HajizeinaliAM,HoseiniK,NematipourE：Sodiumbicarbonateinprevent-
+ingcontrastnephropathyinpatientsatriskforvolumeoverload：arandomizedcontrolledtrial.JNephrol2010；23：
+216‒223.〔Ⅱ〕
+QT）rkKjqKklKa`Krh：rm‒L
+cysteineforthepreventionofcontrast‒induced nephropathyinadvancedchronickidneydisease.JIntervCardiol
+2009；22：556‒563.〔Ⅱ〕
+26）KrasuskiRA,BeardBM,GeoghaganJD,ThompsonCM,GuideraSA：Optimaltimingofhydrationtoerasecontrast‒
+associatednephropathy：theOTHERCANstudy.JInvasiveCardiol2003；15：699‒702.〔Ⅱ〕
+27）BaderBD,BergerED,HeedeMB,SilberbaurI,DudaS,RislerT,ErleyCM：Whatisthebesthydrationregimento
+preventcontrastmedia‒inducednephrotoxicity?　ClinNephrol2004；62：1‒7.〔Ⅱ〕
+28）MaioliM,TosoA,LeonciniM,GallopinM,TedeschiD,MichelettiC,BellandiF：Sodiumbicarbonateversussalinefor
+thepreventionofcontrast‒inducednephropathyinpatientswithrenaldysfunctionundergoingcoronaryangiography
+orintervention.JAmCollCardiol2008；52（8） ：599‒604.〔Ⅱ〕
+29）BriguoriC,AiroldiF,D’AndreaD,BonizzoniE,MoriciN,FocaccioA,MichevI,MontorfanoM,CarlinoM,CosgraveJ,
+RicciardelliB,ColomboA：RenalInsufficiencyFollowingContrastMediaAdministrationTrial（REMEDIAL） ：aran-
+domizedcomparisonof3preventivestrategies.Circulation2007；115：1211‒1217.〔Ⅱ〕
+30）BriguoriC,ViscontiG,FocaccioA,AiroldiF,ValgimigliM,SangiorgiGM,GoliaB,RicciardelliB,CondorelliG；REME-
+DIALIIInvestigators：RenalInsufficiencyAfterContrastMediaAdministrationTrialII （REMEDIALII） ：RenalGuard
+Systeminhigh‒riskpatientsforcontrast‒inducedacutekidneyinjury.Circulation2011；124：1260‒1269.〔Ⅱ〕
+31）MarenziG,FerrariC,MaranaI,AssanelliE,DeMetrioM,TeruzziG,VegliaF,FabbiocchiF,MontorsiP,BartorelliAL：
+Preventionofcontrastnephropathybyfurosemidewithmatchedhydration：theMYTHOS（InducedDiuresisWith
+MatchedHydrationComparedtoStandardHydrationforContrastInducedNephropathyPrevention）trial.JACCCar-
+diovascInterv2012；5：90‒97.〔Ⅱ〕
+ 55
+7造影剤腎症の予防法：輸液
+[[p66]]
+56
+7造影剤腎症の予防法：輸液
+7 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+1．Eisenberg RL, et 
+al：Am J Med 1980；
+68：43—46.
+対象：脳血管造影 53 例
+腹部および末梢血管造影
+47 例
+対照：歴史的文献
+Schwartz（Am J Med 
+1978）
+5％ブドウ糖 80
+ mL を術中
+に補液 CIN 12％
+介入：造影中に生食 550 
+mL＋ヘパリン化生食 250 
+mL／h
+評価時期：24 時間後
+評価方法：血清 Cr 値
+　　　　　1
+ mg／dL 上昇
+介入群：CIN 0％
+対照群：CIN 12％
+備考：24 時間後の評価
+〔Ⅴ〕
+2．Eisenberg RL, et 
+al：Am J Rentgenol 
+1981；136：859—861.
+対象：頭部造影 295 例
+腹部・末梢血管造影242例
+前向き研究
+対照：歴史的文献
+Schwartz（Am J Med 
+1978）
+5％ブドウ糖 80
+ mL を造影
+中に補液 CIN 12％
+介入：造影中に生食 550 
+mL＋術中にヘパリン化生
+食 250 mL／h
+評価時期：24 時間後
+評価方法：血清 Cr 値 50％
+上昇または 1.0 mg／dL 上
+昇
+BUN 50％上昇また 20 
+mg／dL 上昇
+介入群：CIN 発症なし
+対照群：CIN 12％
+備考：生食静注 vs 文献
+〔Ⅴ〕
+3．Swartz RD, et al：
+Am J Med 1978；65：
+31—37.
+対象：腹部，下肢などの血
+管造影 109 例
+対照：なし
+介入：5％ブドウ糖80
+ mL／
+h を造影中に投与
+評価時期：48 時間以内
+評価方法：血清 Cr 値 50％
+以上または 1.0 mg／dL 以
+上の上昇
+BUN 20 mg／dL 以上の上
+昇
+介入群：CIN 12％
+対照群：なし
+〔Ⅴ〕
+4．Trivedi HS, et al：
+Nephron Clin Pract 
+2003；93：C29—C34.
+対象：n＝53
+冠動脈造影
+CCr 79
+除外基準 CCr＜20
+対照：n＝27　生食投与
+12 時間前から造影終了後
+12 時間まで
+Cr 1.14　CCr 76
+介入：n＝26
+無制限の飲水
+Cr 1.27，CCr 83
+評価時期：48 時間後
+評価方法：Cr がベースラ
+インより 0.5
+ mg／dL 上昇
+介入群：CIN 9 例 34.6％
+対照群：CIN 1 例 3.7％
+統計的な有意差の有無：p＝0.005
+備考：生食 vs 飲水
+〔Ⅱ〕
+5．Reico—Mayoral A, 
+et al：J Am Coll 
+Cardiol 2007 49：
+1283—1288.　RENO 
+study
+対象：正常腎機能　eGFR 
+VT
+ mL／min／1.73m2
+対照：PCI 後　生食
+1 mL／kg／h　12 時間
+介入：154 mEq／L 重曹
+CAG 前　5 mL／kg／h
+1 時間， CAG 後　1.5 mL／
+kg／h　4 時間
+評価時期：造影剤使用後
+1—3 日目
+評価方法：SCr がベースラ
+インより 0.5 mg／dL 上昇
+介入群：イベント 1／56　CIN 1.8％
+対照群：イベント 12／55（21.8％）
+統計的な有意差の有無：0.20（95％CI：
+0.08～0.31）p＝0.0009
+〔Ⅱ〕
+[[p67]]
+57
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+6．Mueller C, et al：
+Arch Intern Med 
+2002；162：329—336.
+対象：CAG　n＝1,620
+対照：生食群 n＝809
+　　　年齢 64 歳
+　　　Cr 0.92 mg／dL
+　　　CCr 84
+介入：0.45％生食 n＝811
+　　　年齢 64 歳
+　　　Cr 0.93 mg／dL
+　　　CCr 84
+評価時期：48 時間以内
+評価方法：Cr がベースラ
+インより 0.5 mg／dL 上昇
+介入群：0.7％（95％CI：0.7～1.4％）
+対照群：2％（95％CI：1.0～3.1％）
+統計的な有意差の有無：p＝0.04
+備考：1 カ月以内の死亡
+生食群 0.4％，0.45％生食群 1.1％
+p＝0.35
+〔Ⅱ〕
+7．Wróbel W, et al：
+Kardiol Pol 2010；
+68：1015—1020.
+対象：n＝102　67 歳
+CAG
+対照：生食群 n＝52
+　　　年齢 67.3 歳
+生食1
+ mL／kgにてCAG前
+6 時間，後 12 時間投与
+CCr 70.3
+介入：飲水群 n＝50
+　　　年齢 63.7 歳
+　　　飲水 1
+ mL／kg／h
+評価時期：72 時間後
+評価方法：腎機能 CCr
+介入群：CCr 73.5
+対照群：CCr 65.3
+統計的な有意差の有無：mr
+〔Ⅱ〕
+8．Taylor AJ, et al：
+Chest 1998；114：
+1570—1574.
+対象：CAG　n＝36
+　　　PREPARED
+対照：生食群 n＝18
+　　　年齢 71 歳
+　　　Cr 1.74
+ mg／dL
+　　　CCr 48
+介入：経口飲水群 n＝18
+　　　年齢 69 歳
+　　　Cr 1.75 mg／dL
+　　　CCr 49
+評価時期：48 時間以内
+評価方法：Cr の最大変化
+量
+介入群：0.12 mg／dL
+（95％CI：0.01～0.24）
+対照群：0.21 mg／dL
+（95％CI：0.02～0.39 mg／dL）
+統計的な有意差の有無：＝mr
+備考：PREPARD
+〔Ⅱ〕
+9．Dussol B, et al：
+Nephrol Dial Trans-
+plant 2006；21：
+2120—2126.
+対象：入冠動脈造影
+対照：生食群　n＝77
+　　　  6時間前より15 m／
+kg
+　　　Cr 1.67
+ mg／dL
+　　　CCr 38
+介入：経口食塩摂取群
+　　　n＝76
+　　　  1 g／kg の食塩を治
+療開始前 2 日間負荷
+する．
+　　　Cr 1.83
+ mg／dL，
+　　　CCr 33
+評価時期：48 時間以内
+評価方法：Cr がベースラ
+インより 0.5 mg／dL 上昇
+介入群：CIN 5 例
+6.6％（95％CI：2.2～14.7）
+対照群：CIN 4 例
+5.2％（95％CI：1.4～2.8）
+統計的な有意差の有無：p＝ns
+備考：フロセミド使用群で CIN 15.2％
+（95％CI：8.1～25.0） 　p＜0.05
+〔Ⅱ〕
+[[p68]]
+58
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+10．Zoungas S, et al：
+Ann Intern Med 
+2009；151：631—638.
+対象：1950 年から 2008
+年 23 論文（査読論文 9，
+抄録 14）症例数 18～502
+3,563 例
+平均 Cr 0.8～2.0
+ mg／dL
+RCT で重曹輸液を評価し
+たもの．
+対照：生食による輸液
+1,762 例， イベント数 242
+介入：重曹輸液 1,801 例
+　　　イベント数 151
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5 
+mg／dL 上昇
+介入群：イベント数 151
+対照群：イベント数 242
+統計的な有意差の有無：RR 0.62
+95％CI（0.44－0.86）p＝0.05
+備考：透析導入，心不全，死亡に関して
+は差がない．各研究の間に heterogeni-
+ety がある．
+〔Ⅰ〕
+11．Meier P, et al：
+BMC Med 2009；7：
+23.
+対象：1990 年から 2008
+年 17 論文（8 出版論文，
+9 抄録）2,633 症例
+造影剤腎症発症をエンドポ
+イントとして重曹輸液と生
+食を比較した RCT．
+対照：生食による輸液
+　　　1,306 例
+　　　イベント数 175
+介入：重曹輸液 1,327 症例
+　　　イベント数 109
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+介入群：イベント数 109
+対照群：イベント数 175
+統計的な有意差の有無：OR 0.52 95％
+CI（0.34～0.80）p＝0.003
+備考：透析導入（p＝0.20） ，死亡（p＝
+0.53）に関しては差がない．
+〔Ⅰ〕
+12．Kanbay M, et al：
+Int Urol Nepjrol 
+2009；41：617—627.
+対象：1985 年から 2008
+年 17 論文（8 出版論文，
+9 抄録）2,173 症例
+造影剤腎症発症をエンドポ
+イントとして重曹輸液と生
+食を比較した RCT
+対照：生食による輸液
+　　　1,223 症例
+　　　イベント数 178
+介入：重曹輸液1,225症例
+　　　イベント数 101
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+介入群：イベント数 101
+対照群：イベント数 178
+統計的な有意差の有無：RR 0.54 95％CI
+（0.36～0.83）p＝0.05
+〔Ⅰ〕
+13．Hogan SE, et al：
+Am Heart J 2008；
+156：414—421.
+対象：2000 年から 2007
+年 7 論文 1,307 症例
+造影剤腎症発症をエンドポ
+イントとして重曹輸液と生
+食を比較した RCT
+対照：生食による輸液 659
+例
+介入：重曹輸液 648 症例
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+介入群：イベント数 48／648（7.4％）
+対照群：イベント数 96／659（14.6％）
+統計的な有意差の有無：RR 0.37 95％CI
+（0.18～0.714）p＝0.05
+備考：透析導入（p＝0.97） ，死亡（p＝
+0.31）に関しては差がない．
+〔Ⅰ〕
+[[p69]]
+59
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+14．Joannidis M, et 
+al：Wien Klin 
+Wochenschr 2008；
+120：742—748.
+対象：9 論文 2,043 症例
+造影剤腎症発症をエンドポ
+イントとして重曹輸液と生
+食を比較した RCT
+対照：生食による輸液
+　　　899 例
+　　　イベント数 127
+介入：重曹輸液 944 例
+　　　イベント数 73
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+介入群：イベント数 73／944（7.7％）
+対照群：イベント数 127／899（14.1％）
+統計的な有意差の有無：0.45（confi-
+dence interval，0.26～0.79） ，
+備考：透析導入（OR 0.50，p＝0.2） ，心
+不全（0.85，p＝0.7）死亡（RR 0.51，
+p＝0.3）に関しては差がない．
+〔Ⅰ〕
+15．Navaneethan SD, 
+et al：Am J Kidney Dis 
+2009；53：617—627.
+対象：1966 年から 2008
+年 12 論文 1,854 症例
+造影剤腎症発症をエンドポ
+イントとして重曹輸液と生
+食を比較した RCT
+対照：生食による輸液
+　　　823 例
+　　　イベント数 128
+介入：重曹輸液 829 症例
+　　　イベント数?VT
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+介入群：イベント数 128
+対照群：イベント数?VT
+統計的な有意差の有無：OR 0.46 95％
+CI（0.26～0.82）p＝0.008
+備考：透析導入（OR 0.50，p＝0.2） ，心
+不全（0.85，p＝0.7）死亡（RR 0.51，
+p＝0.3）に関しては差がない．
+〔Ⅰ〕
+16．Trivedi H, et al：
+Clin Nephrol 2010；
+74：288—296.
+対象：1950 年から 2008
+年 10 論文（査読論文 10）
+1,090 症例
+対照：生食による輸液
+　　　542 例
+介入：重曹輸液 548 例
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+統計的な有意差の有無：0.57（95％CI：
+0.38～0.85）
+〔Ⅰ〕
+17．Brar SS, et al：Clin 
+J Am Soc Nephrol 
+2009 4：1584—1592.
+対象：1966 年から 2008
+年 14 論文 2,290 症例
+対照：n＝1,136 生食投与
+介入：n＝1,154 重曹投与
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+統計的な有意差の有無：OR 0.85 95％
+CI（0.62～1.17）p＝0.32
+100 症例以上 NAC および輸液量が同等
+の 8 試験，重曹群 n＝945，生食群 n＝
+945 で比較すると統計的な有意差の有
+無：OR 0.85 95％CI （0.62～1.17） p＝
+0.32〔Ⅰ〕
+18．Brar SS, et al：
+JAMA 2008；300：
+1038—1046.
+対象：GFR＜60
+ mL／min／
+1.73m2
+対照：生食 CAG 前
+3 mL／kg／h　1 時間，
+CAG 後
+1.5 mL／kg／h　12 時間
+介入：130 mEq／L 重曹
+CAG 前
+3
+ mL／kg／h　1 時間＋
+NAC］2400 mg， CAG 後
+1.5 mL／kg／h　4 時間
+評価時期：造影剤使用後
+1～4 日目
+評価方法：eGFR がベース
+ラインより?QT％低下
+介入群：イベント 21／158　CIN 13.3％
+対照群：イベント 24／165　CIN 14.6％
+統計的な有意差の有無：0.94（95％CI：
+0.55～1.60）p＝0.82
+〔Ⅱ〕
+[[p70]]
+60
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+19．Ueda H, et al：Am 
+J Cardiol 2011；107：
+1163—1167.
+対象：Cr＞1.1 mg／dLまた
+は GFR＜60 mL／min／
+1.73 m2緊急時の PCI 大阪
+急性期・総合医療センター
+の外来に 2008 年から
+2010 年までに来院した
+192 例の PCI を受けた
+CKD 患者
+対照：生食0.5
+ mL／kgボー
+ラス投与QX例，?年齢VT歳
+Cr 1.51 mg・dL，eGFR 
+38.7 mL／min／1.73 m2
+介入：メイロン 0.5 mL／kg
+の一時的投与 30 例，年齢
+77 歳
+Cr 1.32 mg／dL，
+eGFR 42.4 mL／min／1.73 
+m2
+評価時期：造影剤使用後 2
+日目
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5 
+mg／dL 上昇
+介入群：CIN 1／30（3.3％）
+対照群：CIN 8／29（27.6％）
+統計的な有意差の有無：RR 0.12（95％
+CI：0.016～0.91）p＝0.01
+備考：緊急時の PCI で，メイロンを 0.5
+ 
+mL／kg ボーラス注射することは有効であ
+る．
+〔Ⅱ〕
+20．Tamura A, et al：
+Am J Cardiol 2009；
+104：921—925.
+対象：CAG　n＝144
+Cr 1.1～2.0
+ mg／dL
+対照：生食群 n＝72
+　　　年齢 73.3 歳
+　　　Cr 1.38，
+　　　eGFR 38.2
+12 時間前から終了後 12
+時間まで 1
+ mL／kg／h
+介入：重曹群 n＝7
+年齢 72.3 歳
+Cr 1.36
+ mg／dL，
+eGFR 40.0 mL／min／1.73 
+m2
+メイロン 20 mL を造影の
+5 分前にボーラスで投与
+評価時期：72 時間以内
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+介入群：CIN 1.40％
+対照群：CIN 12.50％
+統計的な有意差の有無：p＝0.017
+備考：メイロン 20
+ mL を直前にボーラス
+投与
+〔Ⅱ〕
+21．Motohiro M, et 
+al：Am J Cardiol 
+2011；107：1604—
+1608.
+対象：2004－2007 CAG
+または PCI eGFR＜60
+ 
+mL／min／1.73 m2
+対照：生食群 n＝77
+造影前後 12 時間
+1
+ mL／kg／h
+介入：生食＋重曹群 n＝78
+造影 6 時間前から 3 時間前
+まで生食
+造影終了後 6 時間から 12
+時間は生食
+造影前 3 時間から造影終了
+後 6 時間までは重曹 1
+ mL／
+kg／h
+評価時期：48 時間
+　　　　　24 時間
+　　　　　1 ヵ月
+評価方法：
+一次エンドポイント：Cr
+ベースラインより?QT％上
+昇，もしくはベースライン
+より 0.5
+ mg／dL 上昇
+二次エンドポイント：1
+日，2 日の Cr の変化およ
+び eGFR の変化
+介入群：CIN 2.60％
+対照群：CIN 7.70％
+統計的な有意差の有無：p＝0.012
+〔Ⅱ〕
+[[p71]]
+61
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+22．Lee SW, et al：Am 
+J Cardiol 2011；107：
+1447—1452.
+対象：2008－2009 年， 糖
+尿病で Cr 1.1 mg／dL 以上
+または eGFR＜60 mL／
+min／1.73 m2
+両群とも NAC 2,400 mg
+を 2 日前から服用
+対照：生食群 n＝189
+　　　前後 12 時間
+　　　1
+ mL／kg／h
+介入：重曹群 n＝193
+造影 1 時間前から 3
+ mL／
+kg／h， 造影中と終了後6時
+間まで 1
+ mL／min／1.73 
+m2
+評価時期：48 時間
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5 
+mg／dL 上昇
+介入群：CIN 9.0％
+対照群：CIN 5.3％
+統計的な有意差の有無：p＝0.17
+備考：重曹群が比較的ボーラス
+〔Ⅱ〕
+23．Vasheghani—Fera-
+hani A, et al：Am J 
+Kidney Dis 2009；
+54：610—618.
+対象：Cr＞1.5
+ mg／dL で
+PCI を行わない CAG を受
+けた 265 例
+2007 年から 2008 年にテ
+ヘランの心臓センターを受
+診
+対照：生食　開始前 1 時間
+3
+ mL／kg／h
+終了後 1 mL／min／h
+6 時間
+n＝135，年齢 63.8 歳
+Cr 1.66 mg／dL，
+eGFR 45.4
+介入：重曹群　生食 1 Lに
+8.4％
+NaHCO3 75 mL 追加
+CAG 開始前 1 時間
+3
+ mL／kg／h
+終了後 1 mL／kg／h
+6 時間
+n＝135　年齢 62.9 歳
+Cr 1.63
+ mg／dL，
+eGFR 46.4
+評価時期：造影剤使用 48
+時間後
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5 
+mg／dL 上昇
+介入群：CIN 7 名（5.9％）
+対照群：CIN 9（7.4％）
+p＝0.60
+統計的な有意差の有無：OR 1.26 95％
+CI（0.5～3.4）
+備考：5 日後，生食 6.6％，重曹群 8.5％
+〔Ⅱ〕
+[[p72]]
+62
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+24．Vasheghani—Fara-
+hani A, et al：J 
+Nephrol 2010；23：
+216—223.
+対象：2007 年から 2008
+年に CAG を受けた 72 例
+Cr≧1.5
+ mg／dL の CAG 患
+者
+コントロール不良の高血
+圧，非代償性心不全，肺水
+腫を除く
+対照：0.45％生食群，n＝
+36
+CAG 開始 1 時間前 3
+ mL／
+kg
+CAG 終了後 6 時間 1 mL／
+min・kg
+Cr 1.90
+ m，Cr 1.71 mg／
+dL
+介入：0.45％生食＋重曹群
+n＝36
+CAG 開始 1 時間前 3 mL／
+kg
+CAG 終了後 6 時間 1
+ mL／
+min・kg
+Cr 1.90
+ mg／dL，1.77 
+mg／dL
+評価時期：造影剤使用 48
+時間
+評価方法：Cr がベースラ
+インより?QT％上昇，もし
+くはベースラインより 0.5
+ 
+mg／dL 上昇
+介入群：CIN 2 例（6.1％）
+対照群：CIN 2 例（6.3％）
+統計的な有意差の有無：OR 0.97
+（0.13～7.3）
+〔Ⅱ〕
+QT．r?kK??：i?
+Interv Cardiol 2009；
+22：556—563.
+対象：n＝93　15＜eGFR
+＜60
+NAC 1,200
+ mg
+対照：生食＋NAC 群
+n＝42
+CAG 前後の 12 時間
+1
+ mL／kg／h
+Cr 1.75 mg／dL
+介入：重曹群，n＝51
+CAG 開始 1 時間前 3
+ mL／
+kg
+CAG 終了後 6 時間 1 mL／
+min・kg
+Cr 1.90
+ mg／dL
+評価時期：造影剤使用後
+48 時間以内
+評価方法：Cr がベースラ
+インより 0.5 mg／dL 上昇
+介入群：48 時間後の Cr 1.80（0.86～
+5.30）
+対照群：Cr 1.75 （95％CI：1.15～3.75）
+統計的な有意差の有無：mr
+〔Ⅱ〕
+26．Krasuski RA, et 
+al：J Invasive Cardiol 
+2003；15：699—702.
+対象：n＝63
+対照：0.45％生食群
+n＝26 例
+CAG 12 時間前 1
+ mL／kg
+CAG 終了後 12 時 1 mL／
+min／kg
+Cr 1.8～1.9
+ mg
+介入：生食群ボーラス群
+＝RV?例
+CAG 前 250
+ m Lを2 0分
+前に受ける
+Cr 1.8～1.9
+介入群：10.80％
+対照群：0.00％
+統計的な有意差の有無：0.136
+〔Ⅱ〕
+[[p73]]
+63
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+27．Bader BD, et al：
+Clin Nephrol. 2004；
+62：1—7.
+対象：n＝39　年齢 65 歳
+Cr 0.9 mg／dL，GFR 110
+対照：n＝19，生食 2,000 
+mL を 24 時間で静注
+介入：n＝20
+生食 300 mL を直前にボー
+ラスで投与
+評価時期：48 時間後
+評価方法：
+①GFR の変化率
+②CIN
+介入群：GFR 減少率
+34.6 mL／min／1.73 m2
+CIN 15.0％
+対照群：GFR 減少率
+18.3 mL／min／1.73 m2
+CIN 5.3％
+統計的な有意差の有無：p＝0.605
+〔Ⅱ〕
+28．Maioli M, et al：J 
+Am Coll Cardiol 
+2008；52：599—604.
+対象：eCCr＜60 mL／
+min／1.73 m2の CAG 患者
+502 例
+NAC 600
+ mg
+対照：生食 1 mL／kg／h
+CAG 前後 12 時間
+n＝252　74 歳
+Cr 1.20 mg／dL，CCr 42 
+mL／min
+介入：NaHCO3 154 
+mEq／L を含むブドウ糖液
+CAG 前 3 mL／kg／h　1 時
+間
+1 mL／kg／h　6 時間
+評価時期：造影剤使用後 5
+日以内
+評価方法：
+①Cr がベースラインより
+0.5
+ mg／dL 上昇
+②Cr がベースラインより
+QT％上昇
+介入群：Cr 0.5 mg／dL 以上の上昇
+11.5％
+対照群：Cr 0.5 mg／dL 以上の上昇
+10.0％
+統計的な有意差の有無：p＝0.60
+備考：b?がベースラインより?QT％上昇
+生食群 20.6％
+重曹群 15.2％
+p＝0.13
+〔Ⅱ〕
+29．Briguori C, et al：
+Circ ulation 2007；
+115：1211—1217.
+対象：n＝351
+Cr≧2.0 g／dL または
+MDRD 式で eGFR＜40
+ 
+mL／min／1.73 m2
+NAC 1,200 mg／day
+対照：生食群　n＝111
+1
+ mL／kg　前後 12 時間
+年齢 71 歳
+Cr 1.95，eGFR 35
+介入：重曹群，n＝108
+造影前 3 mL／kg で 1 時間
+造影後 6 時間
+年齢 70 歳
+Cr 2.04，eGFR 32
+評価時期：48 時間後
+評価方法：Cr がベースラ
+インより?QT％上昇
+介入群：CIN 11 症例 9.9％
+対照群：CIN 2 症例 1.9％
+統計的な有意差の有無：p＝0.019
+備考：REMEDIAL
+術前の重曹輸液が短い
+生食＋NAC＋VitC 群
+CIN 10.3％
+〔Ⅱ〕
+[[p74]]
+64
+7造影剤腎症の予防法：輸液
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+30．Briguori C, et al：
+Circlation 2011；
+124：1260—1269.
+対象：
+GFR≦30 mL／min／1.73 
+m2 または risk score 11
+以上
+対照：重曹群 n＝146
+造影前 1 時間 3 mL／kg， 終
+了後 4 時間 1 mL／kg
+年齢?VT?歳
+SCr 1.79 eGFR 32
+介入：生食輸液による強制
+利尿群　尿量 300 mL／h
+以上，n＝146
+造影前で 1 時間　造影後 4
+時間
+年齢 76 歳
+Cr 1.80，eGFR 32
+評価時期：48 時間後
+評価方法：Cr がベースラ
+インより?QT％上昇
+介入群：CIN 16 症例 11％
+対照群：CIN 30 症例 20.5％
+統計的な有意差の有無：OR 0.47
+（95%CI 0.24—0.92）  
+〔Ⅱ〕
+31．Marenzi G, et al：
+JACC Cardiovasc 
+Interv 2012；5：
+90—97.
+対象：
+GFR≦60 mL／min／1.73
+ 
+m2
+対照：通常治療群 n＝83
+造影前 12 時間　1 mL/kg,
+終了後 12 時間 1 mL/kg
+年齢 74 歳
+SCr 1.7 eGFR 41
+介入：生食輸液による 300 
+mL/h 以上の強制利尿　n
+＝87
+造影前で 1 時間　造影後 4
+時間
+年齢 76 歳
+Cr 1.80，eGFR 32
+評価時期：72 時間後
+評価方法：Cr がベースラ
+インより?QT％上昇
+介入群：CIN 4 症例 4.6％
+対照群：対照群：CIN 15 症例 18％
+統計的な有意差の有無：RR 0.31
+（95%CI：0.11—0.89, P=0.03）
+〔Ⅱ〕
+[[p75]]
+8
+背　景
+　造影剤による腎障害の発症機序として，腎血管収縮，腎虚血，活性酸素による腎障害などが想定されてい
+る．そのため，血管拡張作用のある薬剤や抗酸化作用のある薬剤が造影剤による腎障害を予防，軽減するの
+ではないかと期待され，多くの臨床研究が行われている．しかし，現時点で CIN の予防効果が確立している
+ものはない．また，これまでの研究の大部分は CAG を対象としたものであり，造影剤を経静脈投与する造
+影 CT を対象にした研究はほとんどない．
+N—acetylcysteine （NAC） 投与は CIN 発症のリスクを減少させるか？
+CIN の発症予防としての NAC 投与は推奨しない．
+エビデンスレベル：Ⅰ	 推奨グレード：C2
+　CIN の発症機序として，血管収縮による腎血流量の低下と腎髄質の低酸素状態，さらに活性酸素による傷
+害が想定されている．そのため，抗酸化作用のある NAC，アスコルビン酸，炭酸水素ナトリウム，スタチン
+や，血管拡張作用や腎血流増加作用のある hANP，dopamine，fenoldopam，prostaglandin，theophylline な
+どによる CIN 発症予防効果が期待され， 多くの臨床研究が行われてきた．残念ながら， 現時点で高いエビデ
+ンスで有効性が証明されたものはない．
+　NAC は抗酸化薬であり， アセトアミノフェンによる肝障害に対する有効性が示され， 日米ともに保険適用
+となっている．NAC は，抗酸化作用に加えて血管拡張作用も有する1）．さらに動物実験では心筋保護，腎保
+護作用があることも示されており2）， ヒトに対しても NAC の CIN 予防効果が期待された．Tepel らが， NAC
+（600 mg の NAC 1 日 2 回経口服用）の CIN 予防効果を報告して以降3）， 多くの RCT ならびにメタ解析が実
+施された 4～13） ,15）．
+　経口 NAC の効果に関して， 26 件の RCT を対象にしたメタ解析では相対リスク 0.62 で， NAC の予防効果
+を支持する結論が示された
+8）．しかしメタ解析の対象となった論文間で異質性があり，結論の妥当性に疑問
+も呈されている14）．このメタ解析では，生理食塩水輸液単独よりも NAC 併用のほうがよいと結論づけてい
+るが，メタ解析の対象となった対象者数，サンプル計算などで研究の質が問われている．22 件の RCT を対
+象にした別のメタ解析では，18 件の RCT で無効であり，4 件の RCT が有効であったが，有効とした 4 件は
+古い研究であり，うち 3 件の Jadad スコアは 3 未満と研究の質が低いと指摘されている
+13,15）．現時点では，
+経口 NAC が CIN の発症予防に十分な効果があるとはいえない．NAC の静注投与の CIN 予防効果に関する
+6 研究を対象にしたメタ解析は，NAC の CIN 発症予防の安全性，有効性に関して結論をひきだせないとし
+ている15）．その後，約 2,300 例を対象にした多施設共同の RCT が実施され，NAC 1,200 mg 投与群と対照群
+を比較し，CIN の発症率，30 日後の生存率，透析実施率に差がないことが示された7）．
+　なお，NAC 投与後に SCr 値が上昇しないからといって，CIN 予防効果が示されたとは限らない．NAC は
+筋肉の creatinine kinase 活性を上昇させるとともに，腎尿細管からの creatinine の分泌を増加させることが
+知られている16,17）．そのため NAC 投与後に SCr 値が上昇しなかったとしても，腎保護効果を反映している
+とは限らず，単にみかけ上 SCr 値が変わらないだけの可能性がある．
+CQ⑧—1
+回答
+解　説 CQ⑧—1
+65
+造影剤腎症の予防法：薬物療法
+[[p76]]
+　CIN の予防法としての NAC 投与は一般には推奨されないが，NAC は廉価で，副作用も少ないため，ハイ
+リスク患者に対しての使用を推奨する専門家もいる18,19）．
+hANP 投与は CIN 発症のリスクを減少させるか？
+CIN の発症予防としての hANP 投与は推奨しない．
+エビデンスレベル：Ⅱ	 推奨グレード：C2
+　hANP は Na 利尿作用，糸球体輸入動脈拡張作用20），抗レニン，抗アルドステロン作用など21）を有する内
+因性のペプチドで，心臓外科術後の急性腎障害に対する有用性が報告されている22）．CIN に対する予防効果
+に関しては否定的な報告が多いQR～QT）が，これらの報告では?`mo?投与により血圧が低下したことが悪影響
+した可能性もある．血圧低下をきたさない低用量の hANP は CIN 予防効果があるという日本の報告がある26）．
+しかし，hANP の CIN 予防効果は明確ではないため，現時点では CIN に対する標準的予防法としては推奨
+されない．今後，高リスク群に対する適応などに関する研究が期待される．B‒type natriuretic peptide
+（BNP）の CIN 予防効果も期待されるが，有効性については今後の研究が待たれる27）．
+アスコルビン酸投与は CIN 発症のリスクを減少させるか？
+CIN の発症予防としてのアスコルビン酸投与は推奨しない．
+エビデンスレベル：Ⅱ	 推奨グレード：C2
+　アスコルビン酸は，種々の活性酸素に対し抗酸化作用を有するとともに，ほかの抗酸化剤の増強効果もあ
+る28,29）．CIN の予防効果に関しては，Spargias らが有効性を報告している28）． REMEDIAL 研究は CKD 患
+者で造影剤を投与される 326 例を， 生食＋NAC， 生食＋NAC＋アスコルビン酸， 炭酸水素 Na＋NAC の 3 群
+に割付けた RCT であるが，アスコルビン酸の有効性は示されなかった30）．現時点ではアスコルビン酸投与
+は，標準的予防法としては推奨しない．
+スタチン投与は CIN 発症のリスクを減少させるか？
+CIN の発症予防としてのスタチン投与は推奨しない．
+エビデンスレベル：Ⅰ	 推奨グレード：C2
+　スタチンは抗酸化作用，抗炎症作用など多面的な作用があるため31），CIN に対しても予防効果が期待され
+ている．スタチンの腎保護効果を報告した観察研究はあるものの 32,33），6～7 件の RCT に対する 2 件のメタ
+解析では，有用とする報告と，スタチンの CIN 予防効果については結論づけられないとする報告があり，結
+論が一致しない34,35）．現時点ではスタチン投与は，CIN に対する予防法としては推奨されない．
+CQ⑧—2
+回答
+解　説 CQ⑧—2
+CQ⑧—3
+回答
+解　説 CQ⑧—3
+CQ⑧—4
+回答
+解　説 CQ⑧—4
+66
+8造影剤腎症の予防法：薬物療法
+[[p77]]
+【文　献】
+ 1） Barret BJ, Parfrey PS：Preventing nephropathy induced by contrast medium. N Engl J Med 2006；354：379‒386. 〔Ⅵ〕
+ 2） DiMari J, Megyesi J, Udvarhelyi N, Price P, Davis R, Safirstein R：N‒acetylcysteine ameliorates ischemic renal failure. 
+Am J Physiol 1997；272：F292‒F298. 〔Ⅵ〕
+ 3） Tepel M, van der Giet M, Schwarzfeld C, Laufer U, Liermann D, Zidek W：Prevention of radiographic‒contrast‒agent‒
+induced reductions in renal function by acetylcysteine. N Engl J Med 2000；343：180‒184. 〔Ⅱ〕
+ 4） Webb JG, Pate GE, Humphries KH, Buller CE, Shalansky S, Al Shamari A, Sutander A, Williams T, Fox RS, Levin A：
+A randomized controlled trial of intravenous N‒acetylcysteine for the prevention of contrast‒induced nephropathy 
+after cardiac catheterization：  lack of effect. Am Heart J 2004；148：422‒429. 〔Ⅱ〕
+ 5） Azmus AD, Gottschall C, Manica A, Manica J, Duro K, Frey M, Bulcão L, Lima C：Effectiveness of acetylcysteine in 
+prevention of contrast nephropathy. J Invasive Cardiol 2005；17：80‒84. 〔Ⅱ〕
+ 6） Marenzi G, Assanelli E, Marana I, Lauri G, Campodonico J, Grazi M, De Metrio M, Galli S, Fabbiocchi F, Montorsi P, 
+Veglia F, Bartorelli AL：N‒acetylcysteine and contrast‒induced nephropathy in primary angioplasty. N Engl J Med 
+2006；354：2773‒2782. 〔Ⅱ〕
+ 7） ACT Investigators：Acetylcysteine for prevention of renal outcomes in patients undergoing coronary and peripheral 
+vascular angiography：main results from the randomized Acetylcysteine for Contrast‒induced nephropathy Trial
+（ACT） . Circulation 2011；124：1250‒1259. 〔Ⅱ〕
+ 8） Kelly AM, Dwamena B, Cronin P, Bernstein SJ, Carlos RC ：Meta‒analysis：effectiveness of drugs for preventing con-
+trast‒induced nephropathy. Ann Intern Med 2008；148：284‒294. 〔Ⅰ〕  
+ 9） Trivedi H, Daram S, Szabo A, Bartorelli AL, Marenzi G：High‒dose N‒acetylcysteine for the prevention of contrast‒
+induced nephropathy. Am J Med 2009；Sep；122：874. e9‒15. 〔Ⅰ〕
+ 10） Zagler A, Azadpour M, Mercado C, Hennekens CH：N‒acetylcysteine and contrast‒induced nephropathy：  a meta‒
+analysis of 13 randomized trials. Am Heart J 2006；151：140‒145. 〔Ⅰ〕
+ 11） Pannu N, Manns B, Lee H, Tonelli M：Systematic review of the impact of N‒acetylcysteine on contrast nephropathy. 
+Kidney Int 2004；65：1366‒1374. 〔Ⅰ〕
+ 12） Kshirsagar AV, Poole C, Mottl A, Shoham D, Franceschini N, Tudor G, Agrawal M, Denu‒Ciocca C, Magnus Ohman E, 
+Finn WF：N‒acetylcysteine for the prevention of radiocontrast induced nephropathy：  a meta‒analysis of prospective 
+controlled trials. J Am Soc Nephrol 2004；15：761‒769. 〔Ⅰ〕
+ 13） Gonzales DA, Norsworthy KJ, Kern SJ, Banks S, Sieving PC, Star RA, Natanson C, Danner RL：A meta‒analysis of N‒
+acetylcysteine in contrast‒induced nephrotoxicity：unsupervised clustering to resolcve heterogeneity. BMC Med 
+2007；5：32. 〔Ⅰ〕
+ 14） Trivedi H：Is there enough evidence to support use of N‒acetylcysteine in contrast‒induced nephropathy?　Ann Intern 
+Med 2008；149：213. 〔Ⅵ〕  
+ 15） Anderson SM, Park ZH, Patel RV：Intravenous N‒acetylcysteine in the prevention of contrast media‒induced nephrop-
+athy. Ann Pharmacother 2011；45：101‒107. 〔Ⅰ〕
+ 16） Hoffmann U, Fischereder M, Krüger B, Drobnik W, Krämer BK ：The value of N‒acetylcysteine in the prevention of 
+radiocontrast agent‒induced nephropathy seems questionable. J Am Soc Nephrol 2004；15：407‒410.  〔Ⅵ〕
+ 17） Poletti PA, Saudan P, Platon A, Mermillod B, Sautter AM, Vermeulen B, Sarasin FP, Becker CD, Martin PY： （2007） I.v. 
+N‒acetylcysteine and emergency CT：use of serum creatinine and cystatin C as markers of radiocontrast nephrotoxic-
+ity. AJR Am J Roentgenol 2007；189：687‒692. 〔Ⅵ〕
+ 18） McCullough PA：Contrast‒induced acute kidney injury. J Am Coll Caridol 2008；51：1419‒1428. 〔Ⅰ〕
+ 19） Goldfarb S, McCullough PA, McDermott J, Gay SB：Contrast‒Induced Acute Kidney Injury: Specialty‒Specific Protocols 
+for Interventional Radiology, Diagnostic Computed Tomography Radiology, and Interventional Cardiology. Mayo Clin 
+Proc 2009；84 （2） ：170‒179. 〔Ⅵ〕
+ 20） Lanese DM, Yuan BH, Falk SA, Conger JD：Effects of atriopeptin Ⅲ on isolated rat afferent and efferent arterioles. Am 
+J Physiol 1991；261：F1102‒1109. 〔Ⅵ〕  
+ 21） Meyer‒Lehnert H, Bayer T, Predel HG, Glanzer K, Kramer HJ：Effects of atrial natriuretic peptide on systemic and renal 
+hemodynamics and renal excretory function in patients with chronic renal failure. Klin Wochenschr 1991；69：895‒903.  
+〔Ⅵ〕
+ 22） Valsson F, Ricksten SE, Hedner T, Lundin S：Effects of atrial natriuretic peptide on acute renal impairment in patients 
+with heart failure after cardiac surgery. Intensive Care Med 1996；22：230‒236. 〔Ⅳa〕  
+ 23） Kurnik BR, Weisberg LS, Cuttler IM, Kurnik PB：Effects of atrial natriuretic peptide versus mannitol on renal blood flow 
+during radiocontrast infusion in chronic renal failure. J Lab Clin Med 1990；116：27‒36. 〔Ⅱ〕
+ 24） Weisberg LS, Kurnik PB, Kurnik BR：Risk of radiocontrast nephropathy in patients with and without diabetes mellitus. 
+Kidney Int 1994；45：259‒265. 〔Ⅱ〕
+?QT）?j?aqK?`?qkK?f?ebK?r?qiK?a?dqK?v?kr：o??????
+for the prevention of radiocontrast‒induced nephropathy. Am J Kidney Dis 1998；31：674‒680. 〔Ⅱ〕
+ 26） Morikawa S, Sone T, Tsuboi H, Mukawa H, Morishima I, Uesugi M, Morita Y, Numaguchi Y, Okumura K, Murohara T：
+67
+8造影剤腎症の予防法：薬物療法
+[[p78]]
+Renal Protective Effects and the Prevention of Contrast‒Induced Nephropathy by Atrial Natriuretic Peptide. J Am Coll 
+Cardiol 2009；53：1040‒1046. 〔Ⅱ〕
+ 27） Zhang J, Fu X, Jia X, Fan X, Gu X, Li S, Wu W, Fan W, Su J, Hao G, Jiang Y, Xue L : B‒type natriuretic peptide for 
+prevention of contrast‒induced nephropathy in patients with heart failure undergoing primary percutaneous coronary 
+intervention. Acta Radiol  2010；6：641‒648. 〔Ⅱ〕
+ 28） Spargias K, Alexopoulos E, Kyrzopoulos S, Iokovis P, Greenwood DC, Manginas A, Voudris V, Pavlides G, Buller CE, 
+Kremastinos D, Cokkinos DV：Ascorbic acid prevents contrast‒mediated nephropathy in patients with renal dysfunc-
+tion undergoing coronary angiography or intervention. Circulation 2004；110：2837‒2842. 〔Ⅱ〕
+ 29） Naidu KA：Vitamin C in human health and disease is still a mystery?　An overview. Nutr J 2003；2：7‒16. 〔Ⅵ〕   
+ 30） Briguori C, Airoldi F, D'Andrea D, Bonizzoni E, Morici N, Focaccio A, Michev I, Montorfano M, Carlino M, Cosgrave J, 
+Ricciardelli B, Colombo A：Renal Insufficiency Following Contrast Media Administration Trial（REMEDIAL） ：a ran-
+domized comparison of 3 preventive strategies. Circulation 2007；115：1211‒1217. 〔Ⅱ〕
+ 31） Agarwal R：Effects of statins on renal function. Mayo Clin Proc 2006；82：1381‒1390. 〔Ⅵ〕   
+ 32） Khanal S, Attallah N, Smith DE, Kline-Rogers E, Share D, O'Donnell MJ, Moscucci M：Statin therapy reduces contrast‒
+induced nephropathy：an analysis of contemporary percutaneous interventions. Am J Med 2005；118：843‒849. 〔Ⅳa〕   
+ 33） Patti G, Nusca A, Chello M, Pasceri V, D'Ambrosio A, Vetrovec GW, Di Sciascio G：Usefulness of statin pretreatment to 
+prevent contrast‒induced nephropathy and to improve long‒term outcome in patients undergoing percutaneous coro-
+nary intervention. Am J Cardiol 2008；101：279‒285. 〔Ⅳa〕
+ 34） Zhang T, Shen LH, Hu LH, He B：Statins for the Prevention of Contrast‒Induced Nephropathy：A Systematic Review 
+and Meta‒Analysis. Am J Nephrol 2011；33：344‒351. 〔Ⅰ〕  
+ 35） Takagi H, Umemoto T：A meta‒analysis of randomized trials for effects of periprocedural atorvastatin on contrast‒
+induced nephropathy. International Journal of Cardiology 2011；153：323‒337. 〔Ⅰ〕  
+68
+8造影剤腎症の予防法：薬物療法
+[[p79]]
+69
+8造影剤腎症の予防法：薬物療法
+8 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+3．Tepel M, et al：N 
+Engl J Med. 2000；
+343：180—184.
+対象：83 例，CKD Cr 2.4
+±1.3 mg／dL，非イオン性
+低浸透圧性造影剤による
+CT を受ける患者
+介入：41 例
+介入群は NAC 600
+ mg
+経口 1 日 2 回＋0.45％食
+塩水輸液
+対照：42 例
+対照群は偽薬と食塩水輸液
+評価時期：造影剤投与 48
+時間後
+評価方法：SCr の 0.5
+ mg／
+dL 以上増加
+介入群：1／41（2％）で Cr が 0.5 以上増
+加．Cr は 48 時間後に 2.5±1.3 から 2.1
+±1.3 に有意に低下．p＜0.001
+対照群：control：9／42（21％）で Cr が
+0.5 以上増加．Cr は 48 時間後に有意で
+はないが2.4±1.3から2.6±1.5に増加．
+p＝0.18
+統計的な有意差の有無 ：CIN の発症は
+NAC 群で有意に抑制された．RR 0.1，
+95％CI 0.02—0.9
+備考：NAC と食塩水輸液併用は CIN を
+予防する〔Ⅱ〕
+4．Webb JG, et al：Am 
+Heart J 2004； 148：
+422—429.
+対象：CAG または PCI を
+実施する腎障害患者
+（GFR<50 mL／min)．ただ
+し SCr>4.5 mg／dL は 除
+く．合計 487 例．
+介入：242 例．NAC 500 
+mg を静脈投与．生理食塩
+水の輸液併用．
+対照：245 例．偽薬と生理
+食塩水輸液
+評価方法：Cockroft-Gault
+式で計算したC C rが5  
+mL／min 以上低下
+介入群：23.3% が CIN 発症
+対照群：20.7% が CIN 発症
+統計的な有意差の有無 ：両群間に有意差
+なし（p＝0.57)
+〔Ⅱ〕
+5．Azmus AD, et al：J 
+Invasive Cardiol 2005；
+17：80—84
+対象：CAG または PCI を
+実 施 す る 患 者．SCr 1.3 
+mg／dL 以上．
+介入：196 例．NAC 600 
+mg を 1 日 2 回，造影剤投
+与前日と当日．生理食塩水
+を造影剤投与の前後に各
+1000 mL 輸液．
+対照：201 例．偽薬と生理
+食塩水の輸液．
+評価時期 ：造影剤投与
+24～48 時間後．
+評価方法：SCr の 0.5 mg／
+dL 以上ないし25%以上の
+増加
+介入群：14 例（7.1%）が CIN 発症
+対照群：17 例（8.4%）が CIN 発症
+統計的な有意差の有無 ：両群間に有意差
+なし（p＝0.62)
+〔Ⅱ〕
+6．Marenzi G, et al：N 
+Engl J Med 2006；
+354：2773—2782.
+対象：ST 上昇型急性心筋
+梗塞に対して PCI を実施し
+た 354 例
+介入：標準 NAC 群 (116
+例 ） ：PCI 前 に NAC600 
+mg を静注，その後 48 時
+間は経口 NAC 600 mg を
+1日2回 （合計3000 mg） ，
+高用量 NAC 群 （119 例） ：
+PCI 前 に NAC 1200 mg
+を静注，その後 48 時間は
+経口 NAC 1200 mg を 1
+日 2 回 （合計 6000 mg） ．
+両群とも生理食塩水の輸液
+あり．
+対照：119 例，偽薬と生理
+食塩水の輸液
+評価時期 ：PCI 実施 72 時
+間後．
+評価方法：SCr の 25% 以
+上の増加
+介入群：標準 NAC 群で 17 例（15%）が
+CIN 発症、 高用量 NAC 群で 10 例 （8%）
+が CIN 発症
+対照群：39 例（33%）が CIN 発症
+統計的な有意差の有無：NAC 投与は有意
+に CIN の発症を低下させる （p＜0.001)．
+〔Ⅱ〕
+[[p80]]
+70
+8造影剤腎症の予防法：薬物療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+7．ACT Investigators 
+Circulation 2011；
+124：1250—1259.
+対象 ：予定C A Gないし
+PAD に対する検査，処置
+をうける患者でリスク因子
+が一つ以上あるもの （70 歳
+以 上，Cr＞1.5，DM，
+CHF，LVEF＜0.45，低血
+圧） ．2,308 名
+介入：1,172 名
+1,200 mg NAC ないしプ
+ラセボ
+対照：1,136 名
+評価時期：①48～96 時間
+後の Cr 上昇　②30 日後の
+死亡，透析
+評価方法 ：①基礎値から
+QT％以上の増加
+介入群：CIN 発症率 12.7％
+対照群：CIN 発症率 12.7％
+統計的な有意差の有無 ：NAC の効果な
+し． （RR, 1.00；95％ CI, 0.81 to 1.25；
+P0.97）
+備考：30 日時点の死亡，透析のリスクに
+も差なし （2.2％対 2.3％， NAC 対対照；
+HR, 0.97；95％ CI, 0.56 to 1.69；
+P0.92） ．
+〔Ⅱ〕
+8．Kelly AM, et al：
+Ann Intern Med  
+2008；148：284—294.
+NAC の効果を検討した 26
+個の RCT．総患者数 3431
+例．
+介入：1,771 例
+対照：1,660 例
+評価方法：CIN 発症率 結果：NAC は CIN の発症を低下させる．
+R.R. 0.62, 95% CI 0.44—0.88
+〔Ⅰ〕
+9．Trivedi H, et al：
+Am J Med 2009；
+122：874. e9—e15.
+対象：高用量 NAC（1200 
+mg/日以上）の効果を検討
+した RCT
+介入：842 例
+対照：835 例
+評価方法：CIN 発症率 結果：高用量 NAC は CIN の発症を低下
+させる． O.R. 0.52 (95% CI. 0.34—0.78)
+〔Ⅰ〕
+10．Zagler A, et al：
+Am Heart J 2006；
+151：140—145.
+対象：NAC の効果を検討
+した RCT で， Cr>1.2 mg/
+dL 以上の腎障害患者を対
+象として，非イオン性低浸
+透圧造影剤使用． 13 研究，
+1892 名．
+評価方法：CIN 発症率 結果：一定の結論はひきだせない．アウ
+トカムが臨床的に意義ある多数例の RCT
+が必要
+〔Ⅰ〕
+11．Pannu N, et al：
+Kidney Int 2004；65：
+1366—1374.
+対象：NAC の効果を検討
+した RCT
+15 個の RCT，総数 1,776
+例．
+評価方法：CIN 発症率 結果：NAC は CIN の発症を抑制する可
+能性があるが，統計学的には境界域であ
+り，研究には重大な異質性が認められる
+ので，標準的な処置として推奨するため
+には新たな RTC が必要．
+〔Ⅰ〕
+12．Kshirsagar AV, et 
+al：J Am Soc Nephrol　
+2004；15：761—769.
+対象：NAC の効果を検討
+した 16 個の RCT，総患者
+数 1539 例
+介入：718 例
+対照：821 例
+評価方法：CIN 発症率 結果：異質性が認められ、確定的な結論
+を引き出すことはできない
+〔Ⅰ〕
+13．Gonzales DA. et 
+al：BMC Med 2007；
+5：32.
+対象：RCT で適切なアウト
+カムデータを有する報告
+介入 ： 2 2の研究 ，総数
+2,746例． Significant het-
+erogeneityが認められた．
+対照：NAC の有効性は支
+持されない．
+評価方法：CIN 発症率 結果：異質性が認められ NAC の有効性
+は支持されない．
+〔Ⅰ〕
+[[p81]]
+71
+8造影剤腎症の予防法：薬物療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+15．Anderson SM, et 
+al：Ann Pharmacother 
+2011；45：101—107.
+対象：静注 NAC の効果を
+検討した 6 個の RCT． 総数
+1,068 例．
+評価方法：CIN 発症率 結果：確定的な結論を引き出すことはで
+きない
+〔Ⅰ〕
+23．Kurnik BR, et al：
+J Lab Clin Med  
+1990；116：27—36.
+対象：20 例，CKD 患者で
+心臓カテーテル検査を施行
+する患者，60％が糖尿病
+介入：カテーテル検査 2 時
+間前から ANP を投与する
+群（50μ g ボーラス投与，
+1μ g／min で持続投与）と
+マンニトールを投与する群
+（15％ 100
+ mL／hr）
+評価時期 ：カテーテル後
+24 時間以内
+評価方法：SCr 0.5 mg／dL
+以上の上昇
+介入群：CIN 発症は糖尿病患者で 50％，
+非糖尿病患者では 0％
+対照群：CIN 発症は糖尿病患者で 30％,
+非糖尿病患者では 0％
+備考：ANP，マンニトールは腎血流量
+165％±28％（DM） ， 96％±8％（non 
+DM）上昇させる（p＜0.05）
+〔Ⅱ〕
+24．Weisberg LS, et 
+al：Kidney Int 1994；
+45：259—265.
+対象：50 例，CKD 患者で
+心臓カテーテルを施行する
+患者
+24 例が糖尿病患者
+介入：介入群はカテーテル
+中にドパミン，ANP，マン
+ニトールのいずれかの輸
+液，control 群は生食投与
+評価時期 ：カテーテル後
+48 時間以内
+評価方法：SCr がベースラ
+インから?QT％以上の上昇
+介入群：糖尿病患者では 83％（ドパミ
+ン）?，WR％（`mo）?，VT％（マンニトー
+ル）非糖尿病患者ではそれぞれ 0％
+対照群：糖尿病患者では 43％，非糖尿病
+患者では 38％
+備考：非糖尿病患者において血管拡張薬
+は CIN のリスクを減らす〔Ⅱ〕
+QT．j?aqK??：
+Am J Kidney Dis  
+1998；31：674—680.
+対象：247 例，CKD（SCr 
+1.8
+ mg／dL 以 上 ま た は
+eGFR 65 mL／min 以下） ．
+50％は糖尿病患者
+介入：介入群は造影剤開始
+30 分前から終了後 30 分
+まで ANP を 0.01μ g／kg／
+min，0.05μ g／kg／min，
+0.1μ g／kg／min の 量 で 投
+与
+対象：プラセボ投与
+評価方法：SCr 0.5
+ mg／dL
+以上の増加またはベースラ
+インから?QT％以上の増加
+介入群：CIN 発症は 0.01μ g／kg／min 群
+で 23％，0.05μ g／kg／min 群で 23％，
+0.1μ g／kg／min 群で 25％
+対照群：19％
+統計的な有意差の有無：有意差なし
+備考：ANP 投与は糖尿病罹患に関わらず
+CIN を減少させない．
+〔Ⅱ〕
+26．Morikawa S, et 
+al：J Am Coll Cardiol 
+2009；53：1040—
+1046.
+対象 ：254 例，SCr 1.3
+ 
+mg／dL 以上で冠動脈造影
+を受ける患者
+介入：126 例
+介入群は ANP （0.042μ g／
+kg／min） 輸液投与， 対照群
+はリンゲル輸液のみ
+対照：128 例
+評価時期：造影剤投与 48
+時間後
+評価方法 ：CSCr の 0.5
+ 
+mg／dL 以上増加，25％以
+上の増加
+介入群：CIN 発症は 3.2％
+対照群：CIN 発症は 11.7％
+統計的な有意差の有無：CIN の発症は介
+入群で有意に減少（p＝0.015）
+備考：Cr 0.5 mg／dL 以上の上昇，25％
+以上の上昇は造影剤使用 1 カ月後におい
+ても ANP 投与群で少ない（p＝0.006）
+〔Ⅱ〕
+27．Zhang J, et al：
+Acta Radiol 2010；6：
+641—648.
+対象：149 例，心不全ある
+急性心筋梗塞（STEMI) で
+初回 PCI を受ける患者
+介入：74 例 介入群は BNP
+（1.5 μ g／kg 静 注 後 に
+0.0075～0.030μg／kg／min
+で持続輸液）
+kg／min） 輸液投与， 対照群
+はリンゲル輸液のみ
+対照：VT?例．
+評価時期：造影剤投与 48 
+時間後
+評価方法：SCr 0.5 mg／dL 
+以上または?QT％以上増加
+介入群：CIN 発症は 16.2％（12 例）
+対照群：CIN 発症は 32％（24 例）
+統計的な有意差の有無：BNP 群で有意に
+CIN の発症が減少（p＝0.024)．
+〔Ⅱ〕
+[[p82]]
+72
+8造影剤腎症の予防法：薬物療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結　果エビデンスレベル
+28． Spargias K, et 
+al：Circulation 2004；
+110：2837—2842．
+対象 ：231 例 CKD 1.2 
+mg／dL 以上　CAG または
+coronary intervention 施
+行
+対照：113 例
+介入：118 例
+介入群はアスコルビン酸 3
+ 
+g を造影の 2 時間前に内服
+また造影の夜と翌朝に 2 g
+投与
+評価時期 ：造影剤投与後
+2～5 日
+評価方法：SCr 0.5 mg／dL
+以上の増加または?QT％以
+上増加
+介入群：CIN 発症は 9％（11 例）
+対照群：CIN 発症は 20％（23 例）
+統計的な有意差の有無 ：アスコルビン酸
+投与群で CIN 予防ができた SCr の上昇は
+対照群で有意と高い（p＜0.001）
+〔Ⅱ〕
+30．Briguori C, et al：
+Circulation 2007；
+115：1211—1217.
+対象：326 例 （Cr 2.0
+ mg／
+dL 以 上　eGFR 40 mL／
+min／1.73 m2以下）
+対照：①生食＋NAC（111
+例） 　②炭酸水素N a ＋
+NAC（108 例）
+介入：③生食＋NAC＋ア
+スコルビン酸（107 例）
+評価時期 ：造影剤投与後
+48 時間
+評価方法?：rb?が?QT％以
+上増加
+対象群：①生食＋NAC 群では CIN 発症
+は 9.9％ （11 例） 　②炭酸水素 Na＋NAC
+投与群では CIN 発症は 1.9％（2 例）
+介入群：③生食＋NAC＋アスコルビン酸
+投与群では CIN 発症は 10.3％（11 例）
+統計的な有意差の有無 ：介入群は生食＋
+NAC 群と CIN 発症に有意差なし（p＝
+1.00）
+〔Ⅱ〕
+34．Zhang T, et al：
+Am J Nephrol 2011；
+33：344—351.
+対象：長期的スタチン服用
+と CIN の関連を検討した 6
+個のコホート研究（31，
+174 例）と， 短期スタチン
+服用と CIN の関連を検討
+した6 個のRCT （1194 例） ．
+介入：591 例（RCT)
+対照：603 例（RCT)
+評価時期 ：造影剤投与後
+48 時間
+評価方法：rb?が?QT％な
+いし 0.5 mg／dL 以上増加
+結果：6 個のうち 4 個のコホート研究が
+スタチンの CIN 抑制効果を示した．RCT
+ではスタチン投与が CIN 発症を低下させ
+る傾向があるものの統計学的には有意で
+はない （R.R. 0.70， 95% CI 0.48—1.02)．
+現時点ではスタチンの CIN 予防効果に関
+して確定的な結論は引き出せず，大規模
+RCT が必要．
+〔Ⅰ〕
+35．Takagi H, et al：
+International Journal 
+of Cardiology 2011；
+153：323—337.
+対象：CAG, PCI を受ける
+患 者 で 短 期 atorvastatin
+投与の効果を検討した
+RCT．7 個の RCT， 総患者
+数 1251 例．
+介入：630 例
+対照：631 例
+評価時期 ：造影剤投与後
+48 時間
+評価方法：rb?が?QT％な
+いし 0.5 mg／dL 以上増加
+結果：atorvastatin は対照に比べ CIN 発
+症を 44% 低下させる（O.R. 0.56， 95% 
+CI 0.33—0.95，p＝0.03)
+〔Ⅰ〕
+[[p83]]
+9
+CIN の発症予防を目的とした造影剤投与後の血液透析療法は， CIN 発症のリスクを減少させ
+るか？
+血液透析療法は CIN 発症リスクを軽減するエビデンスが無いため， 造影剤投与後の血液透析
+療法は推奨しない．
+エビデンスレベル：Ⅰ	 推奨グレード：D
+血液透析に比べて，血液濾過は CIN 発症のリスクを減少させるか？
+CIN の発症予防を目的とした血液濾過は推奨しない．
+エビデンスレベル：Ⅱ	 推奨グレード：Ｃ２
+　造影剤は，血液透析によって血中から除去できる．1 回の透析により 60～90％の造影剤が除去され得るこ
+とが報告されている．これらの知見に基づき，血液透析（HD） ・濾過透析（HDF） ，血液濾過（HF）による
+CIN 予防効果を検証する臨床研究が実施されてきた．しかしながら， 大半の研究において CIN 発症の予防効
+果を認めることができなかった．
+　Vogt らは，CAG，PTA，PTRA 施行患者を対象として，HD による CIN 発症予防効果を検討した1）．非
+HD 群，HD 群の造影剤使用前の腎機能は，おのおの Cr 値 3.46±1.2，3.57±1.3 mg／dL であった．造影剤使
+用後 6 日後までの時点で，非 HD 群，HD 群の間で CIN 発症，心血管疾患，死亡のいずれにおいても，有意
+な差を認めなかった．ほかの 3 件の RCT においても，造影剤投与後の HD 施行の有無により，CIN 発症，
+SCr 値変化，CCr 変化において有意差は認められなかった
+2～4）．むしろ，Reinecke らの報告では，造影検査
+施行後 48～72 時間後の CIN 発症率は HD 施行群で有意に高かった5）．Shiragami らは，CAG または PCI 後
+の患者を対象として， 造影剤投与後の HDF 施行の効果を検討した6）．造影剤投与後 2 週間内では， SCr 値は
+HDF 施行群で有意に上昇した．しかし造影剤投与前と投与 3 カ月後の SCr 値の逆数 （1／Cr） 傾斜変化では，
+HDF 非施行では腎機能悪化を認めたのに対して，HDF 群では腎機能は安定していた．
+　以上の一連の研究とは対照的に，中等度以上の腎機能障害を有する患者では，HD によって CIN が予防可
+能であることが報告されている．Lee らは， 中等度以上の腎機能障害（SCr 値 3.5 mg／dL 以上）を有し CAG
+を施行した患者を対象として， HD による CIN 予防効果を検討している7）．非 HD 施行群， HD 施行群の造影
+剤投与前の腎機能は， おのおの SCr 値 4.9±1.6 mg/dL， 4.9±1.3 mg／dL， CCr は 12.6±4.4 mL/min/1.73 m2，
+13.2±3.6 mL／min／1.73 m2であった．造影剤投与後 72 時間の CCr 値変化をみると，非 HD 施行群－2.2±2.8 
+mL／min／1.73 m2に対して，HD 施行群－0.4±0.9 mL／min／1.73 m2であり，HD 施行により造影剤投与後の腎
+機能障害の増悪が抑制された．一時的に HD 療法を要した患者比率も非 HD 施行群では 35％であるのに対
+し，HD 施行群では 2％と有意に少なく，維持透析への移行率も非 HD 施行群では 13％であるのに対し，HD
+施行群では 0％と有意に少なかった．
+　HF の有効性についても検討されている．Marenzi らは， CAG ないしは PTCA を施行される CCr 30
+ mL／
+min／1.73 m2未満の CKD 患者を対象として持続血液濾過 （CHF） の効果を検証した8）．造影剤投与前 4～6 時
+間前より，投与後?PW～QS?時間にわたって?bgce?を持続した．①bhm（rb?値?QT％以上の上昇）?，②院内死
+亡，③1 年後死亡，をエンドポイントとして比較したところ，いずれのアウトカムも CHF 施行群がすぐれて
+いた（対照群：①50％，②14％，③30％，CHF 群：①5％，②2％，③10％） ．この研究では，造影剤投与前
+CQ⑨—1
+回 答
+CQ⑨—2
+回 答
+解　説 CQ⑨—1～CQ⑨—2
+73
+造影剤腎症の予防法：透析
+[[p84]]
+後にわたって CHF を施行したため， CHF によって SCr 値が変動したのではないかという批判があった．そ
+こで同一研究者により，新たに造影剤投与後 18～24 時間のみに CHF 施行する群（造影後 CHF 施行群）を
+設け，造影剤投与前 6 時間から投与後 18～24 時間 CHF 施行する群（造影前後 CHF 群） ，非 CHF 施行群の
+R?群間で比較検討がなされたX）．その結果，①bhm（rb?値?QT％以上の上昇）?，②透析導入，③院内死亡，い
+ずれにおいても非CHD施行群と造影前後CHF施行群の間では有意差を認めたが， 非CHF群と造影後CHDF
+施行群の間では有意差が認められなかった．以上の結果より，CHF の CIN 予防効果は造影剤投与前後に
+CHD を施行することによることが明らかとなった．このことは CIN 発症抑制， 有害事象抑制機序に， HF に
+よる造影剤の血中からの除去効果が関与しないことを示唆している．著者らは，造影剤投与前の大量の体液
+置換・補給 （controlled high—volume hydration） ， 重炭酸液の投与が寄与したのではないかと考察している．
+　Song らは，メタ解析を施行し，Stage 3 以降の CKD 患者で CHF が有効である可能性を示唆したが，主と
+して上記の Marenzi らの 2 研究に依拠しており，結果の解釈には慎重を要する10）．
+　このように造影剤使用後の HD については，少数ながら CIN 発症リスクを減少しえたとする報告もある
+が，むしろ増悪させたとする報告もある．CIN 発症リスクは不変であったとする研究が大半である．した
+がって，科学的根拠に基づくと CIN 発症予防を目的とした HD の施行は推奨されない．
+　しかしながら，臨床現場においては，造影検査後の心不全発症予防などの，CIN 発症予防以外の目的で造
+影検査後に HD 療法が施行される場合がある．
+【文　献】
+ 1） Vogt B, Ferrari P, Sch?nholzer C, Marti HP, Mohaupt M, Wiederkehr M, Cereghetti C, Serra A, Huynh-Do U, Uehlinger 
+D, Frey FJ：Prophylactic hemodialysis after radiocontrast media in patients with renal insufficiency is potentially 
+harmful. Am J Med 2001；111：692—698. 〔Ⅰ〕
+ 2） Sterner G, Frennby B, Kurkus J, Nyman U：Does post—angiographic hemodialysis reduce the risk of contrast—medium 
+nephropathy?　Scand J Urol Nephrol 2000；34：323—326. 〔Ⅰ〕
+ 3） Lehnert T, Keller E, Gondolf K, Schäffner T, Pavenstädt H, Schollmeyer P：Effect of haemodialysis after contrast medium 
+administration in patients with renal insufficiency. Nephrol Dial Transplant 1998；13：358—362. 〔Ⅰ〕
+ 4） Frank H, Werner D, Lorusso V, Klinghammer L, Daniel WG, Kunzendorf U, Ludwig J：Simultaneous hemodialysis dur-
+ing coronary angiography fails to prevent radiocontrast—induced nephropathy in chronic renal failure. Clin Nephrol 
+2003；60：176—182. 〔Ⅰ〕
+ 5） Reinecke H, Fobker M, Wellmann J, Becke B, Fleiter J, Heitmeyer C, Breithardt G, Hense HW, Schaefer RM：A random-
+ized controlled trial comparing hydration therapy to additional hemodialysis or N—acetylcysteine for the prevention of 
+contrast medium—induced nephropathy：the Dialysis—versus—Diuresis（DVD）Trial. Clin Res Cardiol 2007；96：130—
+139. 〔Ⅰ〕
+ 6） Shiragami K, Fujii Z, Sakumura T, Shibuya M, Takahashi N, Yano M, Fujii T, Matsuzaki M：Effect of a contrast agent 
+on long—term renal function and the efficacy of prophylactic hemodiafiltration. Circ J 2008；72：427—433. 〔Ⅰ〕
+ 7） Lee PT, Chou KJ, Liu CP, Mar GY, Chen CL, Hsu CY, Fang HC, Chung HM：Renal protection for coronary angiography 
+in advanced renal failure patients by prophylactic hemodialysis. A randomized controlled trial. J Am Coll Cardiol 
+2007；50：1015—1020. 〔Ⅰ〕
+ 8） Marenzi G, Marana I, Lauri G, Assanelli E, Grazi M, Campodonico J, Trabattoni D, Fabbiocchi F, Montorsi P, Bartorelli 
+AL：The prevention of radiocontrast—agent—induced nephropathy by hemofiltration. N Engl J Med 2003；349：1333—
+1340. 〔Ⅰ〕
+ 9） Marenzi G, Lauri G, Campodonico J, Marana I, Assanelli E, De Metrio M, Grazi M, Veglia F, Fabbiocchi F, Montorsi P, 
+Bartorelli AL：Comparison of two hemofiltration protocols for prevention of contrast—induced nephropathy in high—risk 
+patients. Am J Med 2006；119：155—162. 〔Ⅰ〕
+ 10） Song K, Jiang S, Shi Y, Shen H, Shi X, Jing D：Renal replacement therapy for prevention of contrast—induced acute 
+kidney injury：a meta—analysis of randomized controlled trials. Am J Nephrol 2010；32：497—504. 〔Ⅱ〕
+74
+9造影剤腎症の予防法：透析
+[[p85]]
+VT
+9造影剤腎症の予防法：透析
+9 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+1．Vogt B, et al：Am J
+Med 2001；111：
+692—698.
+介入群：55 例，年齢 70 歳
+±10
+腎機能：
+SCr 3.57±1.0
+ mg／dL
+対照群：58 例，年齢 69 歳
+±10
+腎機能：
+SCr 3.48±1.0 mg／dL
+総数 113 例
+原疾患：糖尿病性腎症 （n＝
+36） ， 腎硬化症（n＝18） ，
+糸球体腎炎 （n＝13） ，間質
+性腎炎 （n＝12） ，移植後腎
+不全 （n＝7） ， 不明 （n＝27）
+検査：PTRA（n＝36） ，
+PTA（n＝26） ， CAG（n＝
+38） ，enhance CT（n＝
+11） ，その他造影（n＝2）
+造影剤の種類と量：
+low—osmolality contrast
+（20～740
+ mL）
+血液浄化の種類：hemodi-
+alysis（ただし， 48 例は限
+外濾過施行せず，7 例には
+0.3～1.0 L 除水した）
+血液浄化施行時期 ：30～
+280 分後に開始 （中央値，
+120 分後）透析時間は 3.1
+±0.7 時間
+評価時期：6 日後
+評価方法：①透析が必要な
+腎障害，心血管系疾患，透
+析に関連した合併症，全死
+亡，②SCr がベースライン
+より 50％上昇，もしくは
+ベースラインより1.5
+ mg／
+dL 上昇，または両者
+介入・備考：非介入群は生
+理的食塩水1
+ mL／kg／hで，
+12 時間前より輸液．後も
+継続．介入群は造影前は同
+様に輸液し，造影後可能な
+限り早く透析開始．平均血
+流量は 180±42
+ mL／min
+介入群
+①イベント発生 13 例 （透析 8 例，肺水腫
+1 例，心筋梗塞 2 例，脳梗塞 2 例，死亡
+1 例，透析に伴う合併症 2 例） ，②13 例
+対照群
+①イベント発生 8 例（透析 3 例，肺水腫
+3 例，心筋梗塞 2 例，死亡 1v） ，
+②9 例
+統計的な有意差の有無：有意差なし
+①p＝0.23（透析 p＝0.12，肺水腫 p＝
+0.36， 心筋梗塞 p＝Ⅰ， 脳梗塞 p＝0.24，
+死亡 p＝1，透析合併症 p＝0.24）
+②p＝0.35
+〔Ⅰ〕
+2．Sterner G. et al：
+Scand J Urol Nephrol
+2000；34：323—326.
+介入群：年齢；
+糖尿病 n＝9：65 歳
+（30～85 歳） 平均 SCr3.36
+ 
+mg／dL
+非糖尿病 n＝6：65 歳
+（63～76 歳） 平均 SCr2.62
+ 
+mg／dL
+対照群：年齢；
+糖尿病 n＝8：72 歳
+（58～78 歳） 平均 SCr3.85 
+mg／dL
+非糖尿病 n＝9：69 歳
+（44～76 歳）平均 SCr3.4
+ 
+mg／dL
+総数 32 例
+原疾患：糖尿病性腎症 （n＝
+17）
+その他の腎障害（n＝15）
+検査：記載なし
+造影剤の種類：iohexol,
+iodixnnol, ioxaglant
+血液浄化の種類：hemodi-
+alysis
+血流量 200 mL／min
+血液浄化施行時期：4 時間
+HD
+評価時期：7 日間
+評価方法：SCr の介入前と
+7 日後の SCr の前後比較
+介入・備考：造影検査終了
+後 2～3 時間で透析
+介入群
+腎機能の増悪 44％
+対照群
+腎機能の増悪 35％
+統計的な有意差の有無：有意差なし
+〔Ⅰ〕
+[[p86]]
+76
+9造影剤腎症の予防法：透析
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+3．Lehnert T, et al：
+Nephrol Dial Trans -
+plant 1998；13：358—
+362.
+介入群：15 例，年齢 60 歳
+腎機能：2.58±0.25 mg／
+dL
+対照群：15 例，年齢 63 歳
+腎機能：2.26±0.2 mg／dL
+総数 30 例（腎機能：2.4±
+0.16 mg／dL）
+原疾患：SCr 1.4 mg／dL 以
+上の慢性腎不全患者
+検査：冠動脈造影 14 例，
+末梢動脈造影 1 例， 静脈造
+影1例
+造影剤の種類：iopentol
+血液浄化の種類：hemodi-
+alysis
+High—Flux，
+polysulphone 膜
+平均血流 139±8
+ mL／min
+血液浄化施行時期：造影終
+了後に 3 時間透析
+評価時期：14 日間
+評価方法：造影剤腎症の発
+症 （SCr 0.5
+ mg／dL 以上の
+増加）
+介入・備考：造影開始 12
+時間前に 0.9％saline 83 
+mL／h で投与．造影終了後
+（平均開始時間造影終了後
+63±6 分後） に 3 時間透析
+介入群
+介入群 53％　n＝6
+対照群
+対照群 40％　n＝8
+統計的な有意差の有無：なし
+〔Ⅰ〕
+4．Frank H, et al：Clin 
+Nephrol 2003； 60：
+176—182.
+介入群：7 例，年齢 66.85
+±9.2 歳
+腎機能：CCr 19±7
+ mL／
+min
+対照群：10例， 年齢57.63
+±12.4 歳
+腎機能：CCr 17±10 mL／
+min
+総数 17 例
+原疾患：糖尿病性 11 例
+腎硬化症 4 例
+CGN 1 例
+検査：冠動脈造影
+造影剤の種類 ：iopentol
+総投与量は未記載
+血液浄化の種類：hemodi-
+alysis
+High—Flux 膜
+血流 200 mL／min
+透析液の平均流量
+500 mL／min
+血液浄化施行時期：造影検
+査後 4 時間
+評価時期：8 週間
+評価方法：
+①Primary endpoint は
+CCr 比較による腎機能の
+悪化
+②Seondary endpoint 造
+影剤による末期腎不全の発
+症
+介入・備考：造影開始前 6
+時 間 に 0.9 ％ saline を
+1,000
+ mL投与． 対照群は，
+同様の輸液を造影後再度施
+行．
+造影検査終了後に 4 時間
+介入群
+①介入群 CCr 24.0±5.0
+ mL／min
+②1 例
+対照群
+①CCr 20.1±9.1 mL／min
+②0 例
+統計的な有意差の有無：なし
+〔Ⅰ〕
+[[p87]]
+77
+9造影剤腎症の予防法：透析
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+5．Reinecke H, et al：
+Clin Res Cardiol
+2007；96：130—139.
+介入群：118例， 年齢67.9
+±9.8 歳
+腎機能：SCr 1.5
+ mg／dL
+対照群：125例， 年齢66.7
+±10.6 歳
+腎機能：SCr 1.4
+ mg／dL
+総数 243 例
+原疾患：虚血性心疾患
+検査：CAG
+造影剤の種類と量：
+iopromide
+188±79
+ mg／dL
+iopromide
+184±80 mg／dL
+血液浄化の種類：hemodi-
+alysis
+血液浄化施行時期：検査後
+20 分以内で 120 分の HD
+評価時期：48～72 時間後
+30～60 日後
+評価方法：
+SCr＋0.5
+ mg／dL 以上上昇
+介入・備考：造影後に HD
+〔全員に輸液（生食 1,000 
+m L ＋ 5 ％ブドウ糖液
+1,000 mL） を造影 12 時間
+以上前から造影後 12 時間
+以上〕もう 1 群 NAC 群あ
+り．NAC 群は対照群と差
+がない．
+介入群
+48～78 時間 15.9％
+総数 30～60 日 5.1％
+対照群
+48～78 時間 6.1％
+30～60 日 4.8％
+統計的な有意差の有無：48～72時間p＝
+0.008， ただし対照群には NAC 群も含ま
+れている．生食群のみとの比較はない．
+RO～UO?日?mr
+〔Ⅰ〕
+6．Shiragami K, et al：
+Circ J 2008；72：427—
+433.
+介入群（D2）：15 例年齢
+69±5 歳
+腎機能：SCr 1.59±0.26
+ 
+mg／dL
+GFR（calcuated MDRD）
+33.4±6.5
+ mL／min
+原疾患：DM 53％，
+HT 67％，MI 80％
+対照群（D1）：10 例
+年齢 71±8 歳
+腎機能：SCr 1.45±0.14
+ 
+mg／dL
+GFR（calcuated MDRD）
+36.8±4.1
+ mL／min
+原疾患：DM 30％，
+HT 70％，MI 80％
+総数?QT?例
+全体の平均年齢，腎機能，
+原疾患は不明
+検査：CAG または PCI
+造影剤の種類：data not
+shown
+血液浄化の種類：HDF
+血液浄化施行時期：造影剤
+使用後 30 分以内
+評価時期：造影前 （pre） ， 造
+影後 2 週間以内 （acute） ，
+回復期 （convalescent） 上
+記3点
+評価方法：急性期造影前，
+2 週間以内，回復期の SCr
+値の比較慢性期造影前後 3
+カ月での 1／SCr の傾き
+介入・備考：介入群に対し
+て，冠動脈造影検査後 30
+分以内に，HDF を 2 時間
+施行
+介入群：
+急性期：pre の SCr に対して，acute の
+SCr 値は有意差をもって上昇していた （p
+＜0.01） ．
+慢性期：造影前 3 カ月間の 1／SCr （k1） に
+対して， 造影後 3 カ月間の 1／SCr （k2） は
+有意差はなかった （低下していなかった） ．
+対照群
+急性期：pre の SCr 値に対して， acute，
+convalescent phase のクレアチニンに
+有意差はなかった．
+慢性期：造影前 3 カ月間の 1／SCr（k1）
+に対して， 造影後 3 カ月間の 1／SCr （k2）
+は有意差をもって低下していた（p＜
+0.05） ．
+統計的な有意差の有無：？
+〔Ⅰ〕
+[[p88]]
+78
+9造影剤腎症の予防法：透析
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+7．Lee PT, et al：J Am
+Coll Cardiol 2007；
+50：1015—1020.
+介入群：42 例　年齢 65.3
+±11.1 歳
+腎 機 能 ： SCr  4.9 ± 1.3
+ 
+mg／dL
+対照群：40 例　年齢 65.9
+±11.2 歳
+腎 機 能 ： SCr  4.9 ± 1.6 
+mg／dL
+総数 82 例
+原疾患：虚血性心疾患
+検査：CAG
+造影剤の種類：
+介入群：nonionic iohexol
+108.1±32.6 mL
+対照群：nonionic iohexol
+106.8±44.0 mL
+血液浄化の種類：hemodi-
+alysis
+血液浄化施行時期：造影後
+H Dを4時 間
+評価時期：腎機能は 4 日後
+の評価一時透析は平均 5±
+3d
+維持透析は退院時も透析が
+必要とされた数
+評価方法：
+①腎機能悪化 CCr の変化
+と SCr
+②一時透析
+③維持透析（退院時も透析
+が必要とされた数）
+介入群：
+①CCr －0.4±0.9
+ mL／min／1.73 m2
+②一時透析 2％
+③維持透析 0％
+対照群
+①CCr －2.2±2.8 mL／min／1.73 m2
+②一時透析 35％
+③維持透析 13％
+統計的な有意差の有無：
+①CCr 変化 p＝0.001，SCr p＝0.010
+一時透析 p＜0.001
+維持透析 p＝0.0018
+備考：全員に 6 時間前から生食輸液（造
+影後 12 時間まで） 介入群は造影後に HD 
+1回4時 間
+〔Ⅰ〕
+8．Marenzi G, et al：
+N Engl J Med 2003；
+349：1333—1340.
+介入群：58 例　年齢 69±
+10 歳
+腎機能：3.0±1.0
+ mg／dL
+（CCr 26±8 mL／min）
+対照群：56 例　年齢 69±
+11 歳
+腎機能：3.1±1.0
+ mg／dL
+（CCr 26±9 mL／min）
+総数 114 例
+原疾患：慢性腎不全
+検査：CAG（PCI を行うも
+のも含む）
+造影剤の種類：非イオン性
+low—osmolality contrast
+HF 群：247±125
+ mL
+対照群：258±132 mL
+血液浄化の種類：hemofil-
+tration（持続 HF）
+血流量は 100
+ mL／h
+透析液 1,000 mL／h
+血液浄化施行時期：造影前
+4～6 時間開始．造影後か
+ら再開．18～24 時間継続
+評価時期：3 日間は毎日検
+査評価，退院日に評価し，
+1 年後に再診および電話で
+予後調査
+評価方法：①SCr がベース
+ラインより?QT％上昇，②
+院内死亡率，③1 年後死亡
+介入・備考：非介入群は生
+理的食塩水1
+ mL／kg／hで，
+12 時間前より輸液．後も
+継続（ただし，心不全のあ
+るものは 0.5 mL／kg／h 以
+上）hemofiltration（持続
+HF） 介入群 1， 造影後 18～
+24 時間．介入群 2， 造影前
+6 時間造影後 18～24 時間
+介入群：①3 例（5％） ，②1 例（2％） ，
+③5 例 （10％対照群と同様②を含めた？）
+対照群：①28 例 （50％） ， ②8 例 （14％） ，
+③9 例（30％と記載されているが②を含
+めた数字？）
+統計的な有意差の有無：①p＜0.001，②
+p＝0.02，③p＝0.01 いずれも介入群が
+優位介入群に対する対照群の 1 年後の死
+亡に対する相対危険度 1.16 （95％ confi-
+dence interval 0.96～1.40，p＝0.11）
+備考：①対照群で造影剤腎症を発症した
+患者のうち10例が透析を要した． 介入群
+はゼロ
+〔Ⅰ〕
+[[p89]]
+79
+9造影剤腎症の予防法：透析
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+9．Marenzi G, et al：
+Am J Med 2006；
+119：155—162.
+介入群：
+1）31 例　年齢 72±8 歳
+腎機能：
+SCr 3.6±0.7
+ mg／dL
+CCr 20±4 mL／min
+2）31 例　年齢 72±7 歳
+腎機能：
+SCr 3.7±0.9
+ mg／dL
+CCr 18±4 mL／min
+対照群：30 例　年齢 71±
+6歳
+腎機能：
+SCr 3.6±0.8 mg／dL
+CCr 20±5
+総数 92 例
+原疾患：冠動脈疾患を合併
+する CKD（CCr 30
+ mL／
+min 以下）
+検査：CAG，PTCA
+血液浄化の種類：hemofil-
+tration（持続 HF）
+介入群
+1）造影後 HF
+2）造影前後で HF
+血流量は 100
+ mL／h
+透析液 1,000 mL／h
+血液浄化施行時期：
+造影前：介入群 2，造影前
+6 時間 HF．
+造影後：
+介入群 1，造影後 18～24
+時間
+介入群 2，造影後 18～24
+時間
+評価時期：観察期間は退院
+まで（平均 9.3±5 日間）
+評価方法：
+①SCr がベースラインより
+QT％上昇
+②そのうち HD 必要となっ
+た者（本来①の副次項目で
+あるが便宜上②とする）
+③院内発症有害事象と
+method には書いてるが，
+院内死亡率を記載
+介入・備考：非介入群は生
+理的食塩水1
+ mL／kg／hで，
+12 時間前より輸液．後も
+継続 （ただし， 心不全のある
+ものは0.5 mL／kg／h以上）
+hemofiltration （持続 HF）
+介入群 1， 造影後 18～24
+時間． 介入群 2，造影前 6
+時間　造影後 18～24 時間
+介入群：
+介入群 1①8 例 （26％） ， ②3 例 （10％） ，
+③3 例（10％）
+介入群 2①1 例（3％） ，②0 例（0％） ，
+③0 例（0％）
+対照群：①12 例 （40％） ， ②9 例 （30％） ，
+③6 例（20％）
+統計的な有意差の有無：
+①対照群 vs 介入群 2（p＝0.0013）
+②対照群 vs 介入群 2（p＝0.002）
+③対照群 vs 介入群 2（p＝0.03）
+ただし，表には p＝0.02 となっている．
+本文中記載値を採用．年齢，性別，試験
+前の Crn，造影剤の量を補正後造影剤腎
+症発症に対する相対危険度， 介入群 2 （vs
+対照群）0.05（p＝0.004） （vs. 介入群
+1）0.096（p＝0.026） ．介入群 1（vs 対
+照群）0.52（p＝0.28）
+〔Ⅰ〕
+10．Song K, et al：Am 
+J Nephrol 2010；32：
+497—504.
+9 個の RRT
+総患者数 751 例
+血液浄化療法（HD，HDF，CHD，CHF
+を含む）の効果を検証した．
+① 血液浄化療法は造影剤腎症の発症を対
+照群と比較して 26％減少させたが， 統
+計学的には有意ではなかった （p=0.45）
+② 血液浄化療法の modality 別のサブグ
+ループ解析
+HD 療法については，CIN 発症予防効
+果について有意な効果を示せず
+（RR1.21，p=0.57） ．持続血液浄化療
+法は CIN 発症を有意に減少させた （RR 
+0.22，p=0.006） ．
+③ CKD の stage 別のサブグループ解析
+CKD stage3 では血液浄化療法は，む
+しろCIN発症を増加させた （RR 1.53） ．
+CKD stage4， 5 では血液浄化療法は，
+CIN発症は有意に減少させた （ RR  
+0.74，p< 0.0001） ．〔Ⅱ〕
+[[p90]]
+10
+CIN 発症後のループ利尿薬投与は腎機能障害の進行を抑制するか？
+CIN 発症後の AKI そのものの治療を目的としたループ利尿薬投与は， 腎機能障害の進行を抑
+制しないため推奨しない．
+エビデンスレベル：Ⅰ	 推奨グレード：D
+背　景
+　ループ利尿薬，特にその代表であるフロセミドの有する強力な利尿作用は腎機能低下時にも有効であり，
+乏尿性腎不全を非乏尿性腎不全に改善させ，体液量過剰を是正し透析導入を回避もしくは延期できる可能性
+がある．また理論上はループ利尿薬が尿細管上皮細胞の酸素消費量を減少させるため，腎細胞保護的に作用
+すると推定されている．そのため乏尿性急性腎不全の治療に，ループ利尿薬が投与されてきた．
+　ループ利尿薬の急性腎不全に対する治療効果を証明するべく，複数の臨床研究が実施されてきた．CIN 患
+者のみを対象とした研究は見いだせなかったが，CIN 患者を含む臨床研究のほとんどにおいて無効であっ
+た1～5）．透析導入となった急性腎不全患者 338 例を対象に行われた Cantarovich らのフロセミド投与群とプ
+ラセボ投与群を比較した RCT では4），すべてのエンドポイントにおいて，ループ利尿薬投与による有意な効
+果は認められなかった．また 2006 年および 2007 年に報告されたメタ解析では6,7），腎機能障害の改善，透析
+導入，死亡率のすべての項目でループ利尿薬投与は有意な影響を与えなかった．さらに，利尿薬投与は急性
+腎不全を伴う重症患者の死亡率を増加させたとする Mehta らのコホート研究の結果も報告されている
+3）．以
+上より，本 CQ の回答として，CIN 発症後の AKI に対する治療としてのループ利尿薬投与は推奨しない．
+ループ利尿薬は，利尿による体液バランスの是正には一部有効であるが
+4,7），AKI の最終的な転帰に悪影響を
+与える危険性もあり3），まずは輸液量を減らし，必要に応じて透析治療を考慮すべきと考えられる．
+CIN 発症後の輸液療法は腎機能障害の進行を抑制するか？
+CIN 発症後の過剰な体液量の増加は腎機能障害の進行を抑制せず，死亡率を上昇させる危険
+性があるため，輸液量は体液量を慎重に評価したうえで決定する．
+エビデンスレベル：Ⅳa	 推奨グレード：C2
+背　景
+　体液量の不足は腎血流を低下させて急性腎不全のリスクとなり， またAKI発症後は腎血流低下により腎機
+能回復が損なわれる可能性から，急性腎不全の予防ならびに治療として輸液療法が行われる．
+　CIN 発症後の患者を対象とした体液量・輸液療法と腎機能障害の関係を検討した臨床研究は，見いだせな
+かった．敗血症やショック患者の循環動態改善・維持のために輸液療法は必須であるが，敗血症患者および
+CIN 症例を含む AKI を合併した重症患者を対象とした多施設共同研究では
+8,9），過剰な体液量の増加は院内
+CQ⑩—1
+回答
+解　説 CQ⑩—1
+CQ⑩—2
+回答
+解　説 CQ⑩—2
+80
+造影剤腎症の治療法
+[[p91]]
+死亡の独立したリスクファクターであることが示され，早期に透析導入して体液量過剰を是正することで死
+亡率が減少した．一方，体液量と腎機能の改善には，有意な関連性が認められなかった．以上より，本 CQ
+に対する回答として， CIN 発症後の AKI 患者に対する輸液療法には注意が必要であり， 過剰な体液量の増加
+は死亡率を上昇させる危険性があることから，輸液量は体液量を慎重に評価したうえで決定する，とした．
+CIN 発症後の低用量ドーパミン投与は腎機能障害の進行を抑制するか？
+CIN 発症後の治療としての低用量ドーパミン投与は，腎機能障害の進行を抑制しないため推
+奨しない．
+エビデンスレベル：Ⅰ	 推奨グレード：D
+背　景
+　低用量ドーパミン（1～3μg／kg／分）は“renal dose dopamine”とも呼ばれ，健常人への投与により腎動
+脈を拡張させ， GFR とナトリウム排泄量を増加させることから， かつては腎血流量を増加させて腎機能の回
+復を促進する目的で，AKI 患者に用いられていた．
+　PCI 後の急性腎不全患者（CIN 患者を多数含むと推定される）を対象とした RCT では
+10），低用量ドーパ
+ミンによる治療介入群において，SCr 値のピーク値および透析導入が有意に増加した．その後に報告された
+CIN 患者を含む AKI 患者を対象とした RCT でも11）， 低用量ドーパミンは SCr 値上昇ならびに透析導入に関
+して無効であった．AKI 発症予防目的での投与を含む 2 件のメタ解析とシステマティックレビューで
+も
+12～14），低用量ドーパミンは AKI の発症ならびに増悪，透析導入に関して無効であった．後者では CIN 患
+者に関するサブ解析も行われたが， 結果は同様であった14）．一方， 低用量ドーパミン投与により術後 AKI 患
+者の腎機能回復が促進されたという RCT の結果も報告されているが15），利尿薬とマンニトールが併用され
+ており，低用量ドーパミン投与の治療効果とは確定できなかった．
+　非乏尿性AKI患者を対象としたIchaiらのクロスオーバー試験では
+16）， 低用量ドーパミンの薬理効果 （GFR
+増加， ナトリウム排泄促進） は， 短時間で耐性を生じることが示された．また Lauschke らのクロスオーバー
+試験では
+17），低用量ドーパミン投与は健常者において腎血管抵抗（resistance index）を減少させたが，AKI
+患者では逆に腎血管抵抗を増加させ，腎血流を減少させる危険性が指摘された．
+　CIN 患者を多数含むと考えられる RCT では
+10），低用量ドーパミン投与は腎機能障害を増悪させるという
+結果であったが，症例数も少ないことより，本 CQ に対する回答として，CIN 発症後の低用量ドーパミン投
+与は腎機能障害の進行を抑制しないため推奨しない，とした．
+CIN 発症後の hANP 投与は腎機能障害の進行を抑制するか？
+CIN 発症後の治療としての hANP 投与は， 腎機能障害の進行を抑制しないため推奨しない．
+エビデンスレベル：Ⅰ	 推奨グレード：D
+背　景
+　心房性 Na 利尿ペプチドは，動物実験と臨床的研究より GFR を増加させ，また尿細管 Na 再吸収の抑制に
+より利尿作用を発揮することが明らかとなった．hANP は心不全治療に汎用されているが， AKI の治療薬と
+しても用いられている．
+CQ⑩—3
+回答
+解　説 CQ⑩—3
+CQ⑩—4
+回答
+81
+10造影剤腎症の治療法
+[[p92]]
+　CIN 患者を対象とした，hANP の治療効果を検討した研究は見いだせなかった．CIN 患者を含む AKI を
+合併した重症患者を対象とした RCT では18）， 高用量 hANP（0.2μ g／kg／min）を 24 時間投与したところ， 透
+析導入のない 21 日目までの生存率， 12 日目までの透析導入および 21 日目までの死亡率に有意差は認められ
+なかった．乏尿を伴った患者を対象としたサブ解析では， hANP 投与により透析導入のない 21 日目までの生
+存率が有意に増加していた．この結果を踏まえて行われた乏尿性 AKI を合併した重症患者を対象とした
+RCT では19），透析導入のない 21 日目までの生存率，12 日目までの透析導入および 21 日目までの死亡率に
+有意差は認められなかった．これらの研究では，hANP 投与開始が遅くかつ短期間であり，高用量 hANP 投
+与により低血圧が多発していた．そこで開心術後の AKI 患者を対象とし， 低用量 hANP （50
+ ng／kg／min） を
+早期に，かつ長期間投与する小規模な RCT が行われた20）．この結果では，低用量 hANP 投与では低血圧エ
+ピソードに有意差なく，透析導入が有意に減少していた．2009 年に発表されたメタ解析では21），hANP 投与
+による AKI の治療効果を検討した 8 個の RCT が解析され，透析導入および死亡率に有意差は認められず，
+低血圧エピソードが有意に増加していた．一方，低用量 hANP では低血圧の頻度は増加せず，透析導入を減
+少させた．以上より， AKI に対する hANP 投与の有効性を示したエビデンスレベルは低く， 本 CQ に対する
+回答として，CIN 発症後の hANP 投与は腎機能障害の進行を抑制しないため推奨しない．ただし，低用量
+hANP が有効である可能性はあり，今後の検討が期待される．
+CIN 発症後の急性血液浄化療法は腎機能予後を改善するか？
+ 1． CIN 発症後に急性血液浄化療法を施行することで，腎機能予後を改善するというエビデ
+ンスはない．
+2． 種々の原因によって生じる AKI 患者と同様に， 乏尿を伴う全身状態不良な CIN 患者では
+早期の急性血液浄化療法導入が死亡率もしくは腎機能障害を含む主要合併症を減少させ
+る可能性があり，推奨する．
+エビデンスレベル：Ⅰ	 推奨グレード：B
+背　景
+　AKI 患者に対しては，体液・溶質／電解質バランスおよび酸塩基平衡の維持，腎機能の回復促進，抗菌薬
+や栄養などの投与許容量の確保を目的に， 急性血液浄化療法が導入される．肺水腫や高 K 血症などの合併症
+による血液浄化療法の導入を除き，多くの場合，その導入基準は経験的に決定されている．
+　CIN 発症後の腎機能予後に特化した急性血液浄化療法の検討はみあたらなかった．CIN 患者を含む乏尿性
+AKI 患者に対し， 乏尿発症もしくは CCr 低下後早期（7 時間）もしくは待機的（42 時間）に持続血液濾過を
+導入した小規模な RCT では
+22），導入時期は生存率および腎機能予後に有意な影響を与えなかった．一方，
+BUN レベルを導入基準としたコホート研究では23），BUN 76 mg／dL を超えてから導入した群では有意に死
+亡率が高かった．これらの研究結果を含むメタ解析が 2008 年に報告され24）， 導入基準は明確にはされなかっ
+たが，特に解析に含まれた複数のコホート研究の検討から，急性血液浄化の早期導入は死亡率を減少させる
+可能性が示された．しかし，腎機能予後の改善については，有意差が認められなかった．近年報告されたコ
+ホート研究でも，同様の結果であったQT）．さらに，atm?および?rb?値レベルを導入基準とした大規模なコ
+ホート研究では26），BUN 67.76 mg／dL を基準とした場合に死亡率には有意差を認めなかったが，待機導入群
+解　説 CQ⑩—4
+CQ⑩—5
+回答回答
+解　説 CQ⑩—5
+82
+10造影剤腎症の治療法
+[[p93]]
+で腎機能障害が遷延した．また，SCr 値 3.49 mg／dL を超えてから導入した待機導入群では有意に死亡率が
+低かったが，やはり腎機能障害が遷延した．近年，体液過剰がCIN 患者を含む急性腎不全患者の死亡率を有
+意に増加させることが示され，血液浄化療法の早期導入が死亡率を減少させることから（CQ⑩—2 参照） ，乏
+尿を急性血液浄化療法の導入基準として含めた検討が行われている．開腹術後の AKI 症例で，RIFLE 分類
+（4 頁参照）の R（risk）もしくはそれ以前の段階で導入した早期導入群と， I（injury）もしくは F（failure）
+で導入した待機導入群を比較したコホート研究では
+27），症例数は少ないものの，待機導入群で有意に死亡率
+が高かった．一方， 開心術後の AKI 症例を対象としたコホート研究では， 死亡率に有意差は認められなかっ
+たが，早期導入群では主要合併症の発症が有意に少なかった28）．また敗血症に伴う急性腎不全症例を対象に
+同様の導入基準で行われたコホート研究では29），導入時期と死亡率に関連性は認められなかった．
+　以上より，乏尿を伴わない一般の CIN 患者に対する血液浄化療法の導入については，エビデンスはなかっ
+た．しかし，検討対象として CIN 患者を含むメタ解析
+24）およびコホート研究26）の結果を踏まえると，乏尿
+を伴う全身状態不良な CIN によるAKI 患者においては，急性血液浄化療法の早期導入が死亡率もしくは腎
+機能障害を含む主要合併症を減少させる可能性があると考えられる．
+【文　献】
+ 1） Hager B, Betschart M, Krapf R：Effect of postoperative intravenous loop diuretic on renal function after major surgery. 
+Schweiz Med Wochenschr 1996；126：666—673. 〔Ⅱ〕
+ 2） Shilliday IR, Quinn KJ, Allison ME：Loop diuretics in the management of acute renal failure：a prospective, double—
+blind, placebo—controlled, randomized study. Nephrol Dial Transplant 1997；12：2592—2596. 〔Ⅱ〕
+ 3） Mehta RL, Pascual MT, Soroko S, Chertow GM：Diuretics, mortality, and nonrecovery of renal function in acute renal 
+failure. JAMA 2002；288：2547—2553. 〔Ⅳa〕
+ 4） Cantarovich F, Rangoonwala B, Lourenz H, Verho M, Esnault VL：High—dose furosemide for established ARF：a pro-
+spective, randomized, double—blind, placebo—controlled, multicenter trial. Am J Kidney Dis 2002；44：402—409. 〔Ⅱ〕
+ 5） Uchino S, Doig GS, Bellomo R, Morimatsu H, Morgera S, Schetz M, Tan I, Bouman C, Nacedo E, Gibney N, Tolwani A, 
+Ronco C, Kellum JA：Diuretics and mortality in acute renal failure. Crit Care Med 2004；32：1669—1677. 〔Ⅳa〕
+ 6） Ho KM, Sheridan DJ：Meta—analysis of frosemide to prevent or treat acute renal failure. BMJ 2006；333：420. 〔Ⅰ〕
+ 7） Bagshaw SM, Delaney A, Haase M, Ghali WA, Bellomo R：Loop diuretics in the management of acute renal failure：a 
+systematic review and meta—analysis. Crit Care Resusc 2007；9：60—68. 〔Ⅰ〕
+ 8） Payen D, de Pont AC, Sakr Y, Reinhart K, Vincent JL：A positive fluid balance is associated with a worse outcome in 
+patients with acute renal failure. Crit Care 2008；12：R74. 〔Ⅳb〕
+ 9） Bouchard J, Soroko SB, Chertow GM, Himmelfarb J, Ikizler TA, Paganini EP, Mehta RL：Fluid accumulation, survival 
+and recovery of kidney function in critically ill patients with acute kidney injury. Kidney Int 2009；76：422—427. 〔Ⅳa〕
+ 10） Abizaid AS, Clark CE, Mintz GS, Dosa S, Popma JJ, Pichard AD, Satler LF, Harvey M, Kent KM, Leon MB：Effects of 
+dopamine and aminophylline on contrast—induced acute renal failure after coronary angioplasty in patients with preex-
+isting renal insufficiency. Am J Cardiol 1999；83：260—263. 〔Ⅱ〕
+ 11） Bellomo R, Chapman M, Finfer S, Hickling K, Myburgh J：Low—dose dopamine in patients with early renal dysfunction：
+a placebo—controlled randomised trial. Lancet 2000；356：2139—2143. 〔Ⅱ〕
+ 12） Kellum JA, Decker JM：Use of dopamine in acute renal failure：a meta—analysis. Crit Care Med 2001；29：1526—1531. 
+〔Ⅰ〕
+ 13） Friedrich JO, Adhikari N, Herridge MS, Beyene J：Meta—analysis：Low—dose dopamine increases urine output but does 
+not prevent renal dysfunction or death. Ann Intern Med 2005；142：510—524. 〔Ⅰ〕
+ 14） Marik PE：Low—dose dopamine：a systematic review. Intensive Care Med 2002；28：877—888. 〔Ⅰ〕
+ 15） Sirivella S, Gielchinsky I, Parsonnet V：Mannitol, furosemide, and dopamine infusion in postoperative renal failure com-
+plicating cardiac surgery. Ann Thorac Surg 2000；69：501—506. 〔Ⅱ〕
+ 16） Ichai C, Passeron C, Carles M, Bouregba M, Grimaud D：Prolonged low—dose dopamine infusion induces a transient 
+improvement in renal function in hemodynamically stable, critically ill patients：a single—blind, prospective, controlled 
+study. Crit Care Med 2000；28：1329—1335. 〔Ⅱ〕
+ 17） Lauschke A, Teichgraber UK, Frei U, Eckardt KU：Low—dose dopamine worsens renal perfusion in patients with acute 
+renal failure. Kidney Int 2006；69：1669—1674. 〔Ⅱ〕
+ 18） Allgren RL, Marbury TC, Rahman SN, Weisberg LS, Fenves AZ, Lafayette RA, Sweet RM, Genter FC, Kurnik BR, Con-
+ger JD, Sayegh MH：Anaritide in acute tubular necrosis. N Engl J Med 1997；336：828—834. 〔Ⅱ〕
+ 19） Lewis J, Salem MM, Chertow GM, Weisberg LS, McGrew F, Marbury TC, Allgren RL：Atrial natriuretic factor in oligu-
+83
+10造影剤腎症の治療法
+[[p94]]
+ric acute renal failure. Am J Kidney Dis 2000；36：767—774. 〔Ⅱ〕
+ 20） Swaerd K, Valsson F, Odencrants P, Samuelsson O, Ricksten SE：Recombinant human atrial natriuretic peptide in isch-
+emic acute renal failure：a randomized placebo—controlled trial. Crit Care Med 2004；32：1310—1315. 〔Ⅱ〕
+ 21） Nigwekar SU, Navaneethan SD, Parikh CR, Hix JK：Atrial natriuretic peptide for management of acute kidney injury：
+a systematic review and meta—analysis. Clin J Am Soc Nephrol 2009；4：261—267. 〔Ⅰ〕
+ 22） Bouman CS, Oudemans—Van Straaten HM, Tijssen JG, Zandstra DF, Kesecioglu J：Effects of early high—volume con-
+tinuous venovenous hemofiltration on survival and recovery of renal function in intensive care patients with acute 
+renal failure：a prospective, randomized trial. Crit Care Med 2002；30：2205—2211. 〔Ⅱ〕
+ 23） Liu KD, Himmelfarb J, Paganini E, Ikizler TA, Soroko SH, Mehta RL, Chertow GM：Timing of initiation of dialysis in 
+critically ill patients with acute kidney injury. Clin J Am Soc Nephrol 2006：1：915—919. 〔Ⅳa〕
+ 24） Seabra VF, Balk EM, Liangos O, Sosa MA, Cendoroglo M, Jabber BL：Timing of renal replacement therapy initiation in 
+acute renal failure：a meta—analysis. Am J Kidney Dis 2008：52：272—284. 〔Ⅰ〕
+?QT）?b?cdK?f?bK?a?lK?r?bmK?f?svM?d?????????K??
+patients with acute renal failure. Hemodial Int 2010；14：11—17. 〔Ⅳa〕
+ 26） Bagshaw SM, Uchino S, Bellomo R, Morimatsu H, Morgera S, Schetz M, Tan I, Bouman C, Macedo E, Kellum JA：Tim-
+ing of renal replacement therapy and clinical outcomes in critically ill patients with severe acute kidney injury. J Crit 
+Care 2009；24：129—140. 〔Ⅳa〕
+ 27） Shiao CC, Wu VC, Li WY, Lin YF, Hu FC, Young GH, Kuo CC, Kao TW, Huang DM , Chen YM, Tsai PR, Lin SL, Chou 
+NK, Lin TH, Yeh YC, Wang CH, Chou A, Ko WJ, Wu KD：Late initiation of renal replacement therapy is associated 
+with worse outcomes in acute kidney injury after major abdominal surgery. Crit Care 2009；13：R171. 〔Ⅳa〕
+ 28） Iyem H, Tavli M, Akcicek F, Bueket S. Importance of early dialysis for acute renal failure after an open—heart surgery. 
+Hemodial Int 2009；13：55—61. 〔Ⅳa〕
+ 29） Chou YH, Huang TM, Wu VC, Wang CY, Shiao CC, Lai CF, Tsai HB, Chao CT, Young GH, Wang WJ, Kao TW, Lin SL, 
+Han YY, Chou A, Lin TH, Yang YW, Chen YM, Tsai PR, Lin YF, Huang JW, Chiang WC, Chou NK, Ko WJ, Wu KD, 
+Tai TJ：Impact of timing of renal replacement therapy initiation on outcome of septic acute kidney injury. Crit Care 
+2011；15：R134. 〔Ⅳa〕
+84
+10造影剤腎症の治療法
+[[p95]]
+85
+10造影剤腎症の治療法
+10 章　アブストラクトテーブル
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+PM?g?aK??：rL
+weiz Med Wochen-
+schr 1996；126：
+666—673.
+対象：胸～腹部および血管
+手術後 ICU 入室患者でフ
+ロセミド投与
+対照：胸～腹部および血管
+手術後 ICU 入室患者でプ
+ラセボ投与，総数 121 例
+治療介入：ICU 入室中の持
+続的フロセミド静注療法
+（1
+ mg／hr）vs プラセボ投
+与
+評価方法：SCr および CCr
+の変化
+対象群：初期 CCr 83％へ低下， フロセミ
+ド投与により有意な変化なし
+対照群：初期 CCr 81％へ低下
+統計的な有意差の有無 ：両群間に有意差
+なし
+備考：術後 ARF に対し，フロセミド投与
+は腎機能改善に無効
+〔Ⅱ〕
+2. Shilliday IR, et al：
+Nephrol Dial Trans-
+plant 1997；12：
+2592—2596.
+対象：急性腎不全患者 （SCr
+＞2.03
+ mg／dL）
+トラセミド投与 30 例，フ
+ロセミド投与 32 例
+対照：プラセボ投与 30 例
+治療介入 ：全例に低用量
+ドーパミンとマンニトール
+投与し，各群にトラセミ
+ド，フロセミドおよびプラ
+セボ（3
+ mg／kg 静注 6 hr
+毎，21 日間）
+評価方法：尿量，腎機能，
+透析導入，死亡
+対象群：
+トラセミド群：尿量増加 57％，腎機能改
+善 17％，透析導入 36％，死亡 70％
+フロセミド群：尿量増加 48％，腎機能改
+善 28％，透析導入 31％，死亡 66％
+対照群：プラセボ群：尿量増加 23％，腎
+機能改善23％，透析導入40％，死亡
+50％
+統計的な有意差の有無 ：尿量増加 p＝
+0 . 0 2で有意差あり ．腎機能改善p ＝
+0.56，透析導入 p＝0.87，死亡 p＝0.24
+で有意差なし．
+備考：利尿薬投与群では尿量増加あるも，
+腎機能改善および死亡には影響せず．〔Ⅱ〕
+3. Mehta RL, et al：
+JAMA 2002；288：
+2547—2553.
+対象：ICU 入室中の急性腎
+不全患者でコンサルテー
+ション時に利尿剤投与あ
+り，326 例
+対照：ICU 入室中の急性腎
+不全患者でコンサルテー
+ション時利尿剤投与なし，
+226 例
+評価時期 ：1989 年 10
+月～1995 年 9 月
+評価方法：腎臓内科コンサ
+ルトから退院までをフォ
+ロー院内死亡率，腎機能障
+害の遷延
+対象群：利尿薬投与患者は，高齢で，心
+不全，薬剤性腎不全，呼吸不全が多く，
+BUN 低値であった．
+多変量解析の結果， 利尿薬投与は死亡率，
+腎機能障害の遷延もしくは両者を有意に
+増加（特に利尿薬不応性の患者）
+統計的な有意差の有無：死亡率 OR 1.68
+［1.06～2.64］ ，腎機能障害の遷延 OR 
+1.79［1.19～2.68］ ， 両 者 OR 1.77
+［1.14～2.76］と有意に増加
+備考：利尿薬による死亡率の増加は，
+ARF の診断および治療介入（透析導入な
+ど）の遅れによるのか，薬理作用による
+ARF 増悪なのか不明．
+腎性 ARF 患者への大量利尿薬投与は避け
+るべきである．〔Ⅳa〕
+[[p96]]
+86
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+4. Cantarovich F, et 
+al：Am J Kidney Dis 
+2004；44：402—409．
+対象：透析導入した急性腎
+不全患者でフロセミド投
+与，166 例
+対照：透析導入した急性腎
+不全患者でプラセボ投与，
+164 例
+治療介入：フロセミドおよ
+びプラセボ（QT
+ mg／kg／
+day 静注もしくは 35 mg／
+kg／day 経口）
+評価方法：主要エンドポイ
+ト：生存率
+二次エンドポイント：透析
+回数
+三次エンドポイント：透析
+時間，SCr 2.26 未満到達
+時間もしくは尿量2
+ L／日到
+達時間
+対象群：尿量 2 L／日到達時間：5.6±5.8
+日（94 例）
+対照群：尿量 2 L／日到達時間：7.8±6.8
+日（54 例）
+統計的な有意差の有無 ：生存率，透析回
+数，透析時間に有意差なし　尿量 2
+ L／日
+到達時間と人数に有意差あり （ p ＝
+0.004，＜0.001）
+備考：有意に利尿効果が認められた群に
+も腎機能回復に有意差なし．〔Ⅱ〕
+5. Uchino S, et al：Crit 
+Care Med 2004；32：
+1669—1677.
+対象：急性腎不全を合併し
+た ICU 入室患者で利尿薬
+投与，1,117 例
+対照：ARF を合併した ICU
+入室患者で利用薬使用せ
+ず，626 例
+評価方法：入院期間，死亡
+率，維持透析
+対象群：ICU 管理期間 11 日　ICU 死亡
+率 53.4％，院内死亡率 62.4％，退院時
+維持透析 4.9％
+対照群：ICU 管理期間 9 日　ICU 死亡率
+48.2％， 院内死亡率 57.1％， 退院時維持
+透析 4.6％
+統計的な有意差の有無 ：多変量解析で利
+尿剤投与は死亡率に有意な影響なし〔Ⅳa〕
+6. Ho KM, et al：BMJ 
+2006；330：420.
+対象：急性腎不全患者もし
+くはハイリスク患者でフロ
+セミド投与． 　396 もしく
+は 231 例
+対照：急性腎不全患者もし
+くはハイリスク患者で利尿
+薬使用せず， 380 もしくは
+228 例（9 つの RCT 患者
+総数 849 例）
+治療介入：フロセミド投与
+の有無
+評価方法：死亡率と透析導
+入
+対象群 ：院内死亡の相対危険率1.11
+［0.92～1.33］透析導入の相対危険率
+0.99［0.80～1.22］
+統計的な有意差の有無 ：フロセミド投与
+は院内死亡や透析導入に有意な影響なし
+備考：高用量フロセミドで難聴，耳鳴の
+副作用増加．
+〔Ⅰ〕
+7. Bagshaw SM, et 
+al：Crit Care Resusc 
+2007；9：60—68.
+対象：急性腎不全患者もし
+くはハイリスク患者でルー
+プ利尿剤投与
+対照：急性腎不全患者もし
+くはハイリスク患者で利尿
+剤使用せず （5 つの RCT 患
+者総数 555 例）
+治療介入：ループ利尿剤投
+与の有無
+評価方法：主要エンドポイ
+ント：死亡率，透析導入お
+よび腎機能回復
+二次エンドポイント：尿量
+増加，血清 K レベル，酸塩
+基平衡， ARF および透析依
+存時間，入院期間および副
+作用
+対象群：死亡率， 腎機能回復 （透析離脱） ：
+有意差なし　透析依存時間（p＝0.02） ，
+腎機能回復までの時間（p＝0.01）およ
+び尿量増加（p＝0.004）
+統計的な有意差の有無 ：ループ利尿剤投
+与により死亡および透析導入，腎機能改
+善に有意な影響なし．
+〔Ⅰ〕
+[[p97]]
+87
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+8. Payen D, et al：Crit 
+Care 2008；12：R74.
+対象：術後 ICU 入室患者
+で， 敗血症と ARF を合併，
+1,120 例
+対照：術後 ICU 入室患者で
+敗血症合併あり，ARFな
+し．2,027 例
+評価時期 ：2002 年 5 月
+1～15 日
+評価方法 ：60 日後の死亡
+率
+対象群：60 日後の死亡率 36％
+対照群：60 日後の死亡率 16％
+統計的な有意差の有無：60 日後の死亡率
+p＜0.01 で有意差あり．
+備考：乏尿，透析導入は有意に死亡率増
+加．早期透析導入は，待機導入より死亡
+率改善．年齢，SAPSⅡスコア，心不全，
+肝硬変，内科入院患者，体液量増加，人
+工呼吸器は ARF 患者の独立した死亡リス
+ク．体液量過剰は急性腎不全患者の独立
+した死亡リスクであり，輸液療法には注
+意が必要〔Ⅳb〕
+9. Bouchard J, et al：
+Kidney Int 2009；76：
+422—427.
+対象：体液過剰のある急性
+腎不全を伴う重症患者．
+対照：体液過剰のない急性
+腎不全を伴う重症患者．
+総数 610 例
+評価時期：1999 年 2 月～
+2001 年 8 月
+評価方法 ：30 日目および
+退院時死亡率，腎機能回復
+および透析離脱
+対象群：RO?日目死亡率：RV％，退院時
+死亡率：48％　腎機能改善：40％，透析
+離脱：32％
+対照群：RO?日目死亡率：QT％，退院時
+死亡率：35％，腎機能改善：47％，透析
+離脱：41％
+統計的な有意差の有無：30 日目死亡率：
+p＜0.02，退院時死亡率：p＜0.01 透析
+導入患者の体液過剰による死亡リスク
+OR 2.07［1.27～3.37］ ，非透析導入患
+者の体液過剰による死亡リスク OR 3.14
+［1.18～8.33］腎機能改善：p＝0.24， 透
+析離脱：p＝0.21．
+備考：体液過剰群では，APACHEⅢスコ
+ア，不全臓器数，敗血症数，人工呼吸器
+管理数が有意に多かった． また透析導入，
+非導入いずれの患者においても，体液過
+剰の遷延は死亡リスクを増加させた．〔Ⅳa〕
+10. Abizaid AS, et al：
+Am J Cardiol 1999；
+83：260—263.
+対象：PCI 後に急性腎不全
+を合併した慢性腎不全患者
+に低用量ドーパミン＋生食
+投与．　36 例
+対照：PCI 後に急性腎不全
+を合併した慢性腎不全患者
+に生食投与．　36 例
+治療介入：低用量ドーパミ
+ン 投 与（2.5
+ mg／kg／
+min） ＋生食 vs 生食のみ
+評価方法：ピーク SCr 値，
+透析導入，入院期間
+対象群：ピーク SCr 3.7±1.3，透析導入
+4例
+入院期間（日）7.8±3.3
+対照群：ピーク SCr 2.7±0.6，透析導入
+0例
+入院期間（日）7.0±2.5
+統計的な有意差の有無：ピーク SCr 値 p
+＝0.01， 透析導入 p＝0.04 で有意差あり
+入院期間 p＝0.25（多重解析なし）で有
+意差なし
+備考：低用量ドーパミン投与により PCI
+後の ARF では腎機能が増悪し，透析導入
+が増加する．〔Ⅱ〕
+[[p98]]
+88
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+11. Bellemo R, et al：
+Lancet 2000；356：
+2139—2143.
+対象：SIRS と AKI 合併した
+ICU患者で低用量ドーパミ
+ン投与．　161 例
+対照：SIRS と AKI 合併した
+ICU 患者でプラセボ投与．　
+163 例
+治療介入：低用量ドーパミ
+ン （2μ g／kg／min） 投与 vs
+プラセボ
+評価方法：ピーク SCr 値，
+透析導入
+対象群：SCr 245±144（μ mol／L）
+SCr＞300 を超えた患者数 56 例
+透析導入患者数 35 例
+対照群：249±147 SCr＞300 を超えた
+患者数 56 例，透析導入患者数 40 例
+統計的な有意差の有無 ：すべての評価項
+目で両群間に有意差なし
+備考：低用量ドーパミン投与は ARF の腎
+機能障害進行を抑制しない．〔Ⅱ〕
+12. Kellum JA, et al：
+Crit Care Med 2001；
+29：1526—1531.
+対象：急性腎不全患者で
+ドーパミン投与．
+対照：急性腎不全患者で
+ドーパミン未使用
+1966～2000年24個の臨
+床研究，患者数 1,019 例
+（17個のRCT， 患者数854
+例）
+治療介入：ドーパミン使用
+の有無
+評価方法 ：急性腎不全発
+症，透析導入，死亡
+対象群：急性腎不全発症 （RR 0.81 ［0.55—
+1.19］p＜0.34） 透 析 導 入（RR 0.83
+［0.55—1.24］p＜0.42）死亡（RR 0.90
+［0.44—1.83］p＜0.92）
+統計的な有意差の有無 ：すべての項目で
+有意差なし
+備考：低用量ドーパミン投与は，ARF の
+予防および治療に有意な効果なし．
+〔Ⅰ〕
+13. Friedrich JO, et 
+al：Ann Intern Med 
+2005；142：510—524.
+対象：急性腎不全もしくは
+ハイリスク患者でドーパミ
+ン投与
+対照：急性腎不全もしくは
+ハイリスク患者でプラセボ
+投与もしくはドーパミン未
+使 用（61 個 の RCT 総 数
+3,359 例）
+治療介入：低用量ドーパミ
+ン（≦5μ g／kg／min）投与
+vs プラセボ（治療なし）
+評価方法：死亡， 透析導入，
+副作用
+統計的な有意差の有無 ：すべての項目で
+有意差なし
+〔Ⅰ〕
+14. Marik PE：Inten-
+sive Care Med 2002；
+28：877—888.
+対象：急性腎不全患者で低
+用量ドーパミン投与
+436 例もしくは 358 例
+対照：急性腎不全患者でプ
+ラセボ投与もしくはドーパ
+ミン未使用 524 例もしく
+は 360 例 （15 個の RCT，
+総数 970 例）
+治療介入：低用量ドーパミ
+ン投与 vs プラセボもしく
+はドーパミン未使用
+評価方法：SCr 変化，急性
+腎不全発症
+対象群 ：SCr 上昇に有意差なし（0.06
+ 
+mg／dL， ［－0.07 to＋0.19］ ） ，急性腎不
+全発症に有意差なし（RR 1.01［0.79—
+1.28］ ） ．
+統計的な有意差の有無 ：造影剤腎症患者
+のみのサブ解析でも有意差なし
+備考：低用量ドーパミン投与は，ARF の
+予防および治療に有意な効果なし．
+〔Ⅰ〕
+[[p99]]
+89
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+15. Sirivella S, et al：
+Ann Thorac Surg  
+2000；60：501—506.
+対象：心機能の保たれた術
+後 ARF 患者で， （利尿薬＋
+マンニトール＋ドーパミ
+ン）持続投与
+30 例（早期投与） ＋30 例
+（待機投与）
+（総数 100 例）
+対照：心機能の保たれた術
+後急性腎不全患者で，利尿
+薬間歇投与．40 例
+治療介入 ： （利尿薬＋マン
+ニトール＋ドーパミン）持
+続投与 vs 利尿薬間歇投与
+評価方法：利尿および透析
+導入
+対象群：早期開始群：有意な利尿効果あ
+り
+透析導入 0％
+待機開始群：有意な利尿効果あり
+透析導入 13.4％
+対照群：透析導入 90％
+統計的な有意差の有無 ：治療開始により
+透析導入は有意に減少（p＜0.0005）
+備考：利尿薬＋マンニトール＋ドーパミ
+ン持続投与は術後急性腎不全の回復を促
+進．
+〔Ⅱ〕
+16. Ichai C, et al：Crit 
+Care Med 2000；28：
+1329—1335.
+対象：血行動態の安定した
+非乏尿性腎不全の重症患者
+8例
+治療介入：プラセボ投与 4
+ 
+hr＋ドーパミン投与（3 g／
+kg／min）48 hr＋プラセボ
+投与 4 hr
+評価時期：前半プラセボ投
+与4  hr 後（C1） ， ドーパミ
+ン 投 与 4，8，24，48 hr
+後 （H4， H8， H24， H48） ，
+後半プラセボ投与 4
+ hr 後
+（C2）
+評価方法 ：心機能（CO，
+そ の 他 ） ， 尿 量，CCr，
+FENa
+対象群：心機能，尿量，CCr，FENa は
+C1，C2 で差なし　心機能は H4～H48
+で変化なし．
+H4，H8 で尿量，CCr，FENa 有意に増
+加，H24 から減少し H48 では C1，C2
+と有意差なし．
+備考：低用量ドーパミンは比較的短時間
+で耐性を生じ，有効性を消失する．
+〔Ⅱ〕
+17. Lauschke A, et 
+al：Kidney Int 2006；
+69：1669—1674.
+対象：急性腎不全患者，30
+例
+対照：腎機能正常者， 10 例
+治療介入：低用量ドーパミ
+ン（2μ g／kg／min）とプラ
+セボを交互に投与
+評価方法 ：ドップラーエ
+コーによる腎 resistance 
+index
+対象群：Resistance index の上昇
+対照群：Resistance index の減少
+統計的な有意差の有無 ：両群ともプラセ
+ボに比較して有意差あり（p＜0.01） ．
+備考：急性腎不全患者への低用量ドーパ
+ミンの使用は要注意．〔Ⅱ〕
+18. Allgren RL, et al：
+N Engl J Med 1997；
+336：828—834.
+対象：ATN を合併した重
+症 患 者 で，hANP 投 与．
+248 例
+対照：ATN を合併した重
+症患者で，プラセボ投与，
+256 例
+治療介入：24 時間 anarit-
+ide（ 合 成 hANP） （0.2μ
+g／kg／min）もしくはプラ
+セボ静注，ドーパミンおよ
+び利尿薬投与は適宜
+評価時期：1993 年 1 月～
+1995 年 2 月
+評価方法：一次エンドポイ
+ント；21 日目までの透析
+導入のない生存，二次エン
+ドポイント；14 日目まで
+の透析導入 ， 2 1日目の
+SCr，21 日目までの死亡
+対象群：一次エンドポイント；21 日目ま
+での透析導入のない生存 43％， 二次エン
+ドポイント；14日目までの透析導入
+44％， 21 日目の SCr 2.8±2.0
+ mg／dL，
+21 日目までの死亡 29％
+対照群：一次エンドポイント；21 日目ま
+での透析導入のない生存 47％， 二次エン
+ドポイント；14日目までの透析導入
+42％， 21 日目の SCr 3.0±2.2 mg／dL，
+21 日目までの死亡 26％
+統計的な有意差の有無 ：一次エンドポイ
+ント；21 日目までの透析導入のない生存
+p＝0.35，二次エンドポイント；14 日目
+までの透析導入 p＝0.75， 21 日目の SCr 
+p＝0.98， 21日目までの死亡p＝0.41で
+有意差なし．
+備考：乏尿患者 120 例を対象としたサブ
+解析では， hANP投与により有意に21日
+目までの透析導入のない生存率が増加し
+た （p＝0.008） ．逆に非乏尿患者 378 例
+を対象とした解析では，hANP 投与によ
+り有意に 21 日目までの透析導入のない
+生存率が減少した．〔Ⅱ〕
+[[p100]]
+90
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+19. Lewis J, et al：Am 
+J Kidney Dis 2000；
+36：767—774.
+対象：乏尿性 ATN 患者で，
+hANP 投与，108 例
+対照：乏尿性 ATN 患者で，
+プラセボ投与，114 例
+治療介入：24 時間 anarit-
+ide（ 合 成 hANP） （0.2μ
+g／kg／min）もしくはプラ
+セボ静注，ドーパミンおよ
+び利尿薬投与は適宜
+評価時期 ：1995 年 12
+月～1997 年 4 月
+評価方法：1 次エンドポイ
+ント；21 日目までの透析
+導入のない生存，2 次エン
+ドポイント；14 日目まで
+の透析導入 ， 2 1日目の
+SCr， 60 日目までの死亡お
+よび有害事象
+対象群：一次エンドポイント；21 日目ま
+での透析導入のない生存 21％， 二次エン
+ドポイント；14日目までの透析導入
+64％， 21 日目の SCr 3.1
+ mg／dL， 60 日
+目までの死亡および有害事象 60％， 低血
+圧（＜90
+ mmHg）エピソード 95％
+対照群：一次エンドポイント；21 日目ま
+での透析導入のない生存 15％， 二次エン
+ドポイント；14日目までの透析導入
+77％， 21 日目の SCr 2.8
+ mg／dL， 60 日
+目までの死亡および有害事象 56％， 低血
+圧（＜90 mmHg）エピソード 55％
+統計的な有意差の有無 ：一次エンドポイ
+ント；21 日目までの透析導入のない生存
+p＝0.216，二次エンドポイント；14 日
+目までの透析導入 p＝0.054，21 日目の
+SCr p＝0.948，p＝0.541 と 有 意 差 な
+し．60 日目までの死亡および有害事象 p
+＜0.001 と有意差あり．
+備考：乏尿性急性腎不全患者のみを対象
+とした RCT では， hANP 投与は無効であ
+り，逆に低血圧の有意なリスク〔Ⅱ〕
+20. Swaerd K, et al：
+Crit Care Med 2004；
+32：1310—1315.
+対象：開心術後腎前性急性
+腎不全患者で hANP 投与，
+29 例
+対照：開心術後腎前性急性
+腎不全患者でプラセボ投
+与，30 例
+治療介入：hANP（50
+ ng／
+kg／min） もしくはプラセボ
+を腎機能改善もしくは透析
+導入まで投与，全例に利尿
+剤併用
+評価時期：1999 年 1 月～
+2002 年 12 月
+評価方法：一次エンドポイ
+ント；治療開始 21 日目ま
+での透析導入，二次エンド
+ポイント；21 日目までの
+透析導入もしくは死亡，
+ICU 入室期間， ICU 内死亡
+対象群：一次エンドポイント；治療開始
+21 日目までの透析導入 21％，二次エン
+ドポイント；21 日目までの透析導入もし
+くは死亡 28％， ICU 入室期間 17.3±2.0
+日，ICU 内死亡 24％
+対照群：一次エンドポイント；治療開始
+21 日目までの透析導入 47％，二次エン
+ドポイント；21 日目までの透析導入もし
+くは死亡 57％， ICU 入室期間 19.6±2.3
+日，ICU 内死亡 27％
+統計的な有意差の有無 ：一次エンドポイ
+ント；治療開始 21 日目までの透析導入
+HR 0.28［0.10—0.73］p＝0.009，二次
+エンドポイント；21 日目までの透析導入
+もしくは死亡 HR 0.35［0.14—0.82］ ，
+ICU 入室期間 p＝0.017，ICU 内死亡有
+意差なし，有意差なし．
+備考：開心術後の虚血性急性腎不全患者
+において，hANP 投与は有意に透析導入
+を減少させる．〔Ⅱ〕
+[[p101]]
+91
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+21. Nigwekar SU, et 
+al：Clin J Am Soc 
+Nephrol 2009；4 ：
+261—267.
+対象：hANP を投与された
+急性腎不全患者
+対照：プラセボ投与，標準
+治療（利尿剤投与など）も
+しくは無治療の急性腎不全
+患者 1,861 例の急性腎不
+全患者もしくはそのハイリ
+スク患者（治療については
+1,043 例）
+（19 個の RCT （治療につい
+ては 8 個）
+評価方法： （治療について）
+1 次エンドポイント；透析
+導入，死亡率，2 次エンド
+ポイント；腎機能，有害事
+象
+対象群：一次エンドポイント；透析導入
+に有意差なし（低用量では減少） ， 死亡率
+に有意差なし，二次エンドポイント；観
+察終了時の SCr 値に有意差なし，低血
+圧・不整脈は有意に増加（低用量では有
+意差なし）
+備考：hANP 投与は透析導入および死亡
+率に影響しないが，低血圧などの副作用
+は増加． （低用量では低血圧を増加させ
+ず，透析導入を減少させる．また大手術
+後急性腎不全患者のみのサブ解析でも，
+hANP 投与は有意に透析導入を減少させ
+る ．）〔Ⅰ〕
+22. Bouman CS, et 
+al：Crit Care Med 
+2002；30：2205—
+2211.
+対象：循環・呼吸不全を伴
+う乏尿性 ARF 患者
+治療介入：乏尿発症後，輸
+液，昇圧剤，利尿剤を投与
+し， 早期（7h）もしくは待
+機的（42h）に，高置換量
+（48.2
+ mL／kg／h） もしくは
+低置換量（20.1， もしくは
+19.0
+ mL／kg／h） のCVVHF
+導入
+評価方法 ：28 日時点での
+生存率，腎機能回復
+対象群：28 日時点での生存率 74.3％生
+存者の腎不全期間 4.3 日（1.4～7.8）
+早期，高置換量 CVVHF 導入 35 例
+対照群：28 日時点での生存率 68.8％，
+28 日時点での生存率 75.0％生存者の腎
+不全期間 3.2 日（2.4～5.4） ， 生存者の腎
+不全期間 5.6 日（3.1～8.5）
+早期， 低置換量 CVVHF 導入 35 例待機，
+低置換量 CVVHF 導入 36 例
+統計的な有意差の有無 ：すべての項目で
+有意差なし
+備考：多臓器不全を伴う ARF 症例では，
+早期の高置換量 CVVHF 導入は生存率，
+腎機能回復への影響なし．〔Ⅱ〕
+23. Liu KD, et al：Clin 
+J Am Soc Nephrol 
+2006；1：915—919.
+対象 ：重症A K I患者で
+BUN 76
+ mg／dL 以下で透
+析導入，121 例
+対照 ：重症A K I患者で
+BUN 76 mg／dL を超えて
+透析導入，122 例
+評価方法 ：AKI 発症後 60
+日以内の死亡
+対象群：28 日目の生存率 65％
+対照群：28 日目の生存率 59％　年齢，
+肝不全，敗血症，血小板減少，SCr で補
+正すると， BUN 高値で導入した死亡相対
+危険率 RR 1.85［1.21～3.20］
+統計的な有意差の有無 ：生存率に有意差
+なし（p＝0.09）
+備考：AKI を合併した重症患者の透析導
+入の遅れは，死亡リスクを上昇させる．〔Ⅳa〕
+24. Seabra VF：Am J 
+Kidney Dis 2008；
+52：272—284.
+対象：ARF 発症した入院患
+者で早期透析導入．
+対照：待機透析導入（5 個
+の RCT，17 個 の 比 較 コ
+ホート研究，1 個の単アー
+ムコホート研究）
+治療介入：早機および待機
+透析導入
+評価方法：早期透析導入に
+よる死亡率低下，腎機能障
+害の遷延
+対象群 ：死亡率：RCT：36％減少（RR 
+0.64［0.4～1.05］ ）コホート研究：28％
+（RR 0.72［0.64～0.82］ ）
+腎 機 能 障 害 の 遷 延：RCT：RR 0.80
+［0.31～2.10］ ）
+コホート研究：RR 0.76［0.55～1.05］ ）
+統計的な有意差の有無：死亡率：RCT で
+は有意差なし（p＝0.08） ，コホート研究
+では有意差あり（p＜0.001）腎機能障害
+の遷延：双方とも有意差なし
+備考：研究間のばらつきが大きく，結論
+は弱いが，早期透析導入が死亡率を減少
+させる可能性あり，腎機能障害の改善に
+ついては有意差なし．〔Ⅰ〕
+[[p102]]
+92
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+25. Carl DE, et al：
+Hemodial Int 2010；
+14：11—17.
+対象：敗血症性 AKI 患者で
+早期透析（間歇透析もしく
+は持続透析）導入（BUN＜
+100
+ mg／dL） ，85 例
+対照：敗血症性 AKI 患者で
+待機的透析導入（BUN≧
+100 mg／dL） ，62 例
+評価方法 ：透析導入後，
+14， 28 および 365 日目の
+生存率
+対象群：14，28 および 365 日目の生存
+率：67，47.7，30.7％
+対照群：14，28 および 365 日目の生存
+率：46.7，31.7，13.3％
+統計的な有意差の有無 ：待機的透析導入
+（BUN＞100） は， 14 日 （OR 3.6 ［1.7～
+7.6］ ， p＝0.001） ， 28 日 （OR 2.6 ［1.2～
+5.7］ ， p＝0.01） ， 365 日 （OR 3.5 ［1.2～
+10］ ，p＝0.02）の死亡率を有意に増加
+備考：BUN＞100 での透析導入は死亡率
+増加した．ICU 入室から透析導入までの
+期間は，両群間で有意差なし．〔Ⅳa〕
+26. Bagshaw SM, et 
+al：J Crit Care 2009；
+24：129—140.
+対象：重症 AKI 患者で早期
+透 析 導 入（BUN＜24.2
+ 
+mmol／L，SCr＜309μ
+mol／L） ，618，618 例
+対照：重症 AKI 患者で待機
+透析導入（＞24.2
+ mmol／
+L， ＞309μ mol／L） ， 619，
+618 例
+治療介入：透析導入までの
+期間（早期（2 日未満） ， 遅
+延（2～5 日） ，待機（5 日
+ごえ） 785， 174， 268 例）
+評価方法 ：透析導入時の
+BUN と SCr，ICU 入室か
+ら透析導入までの期間（早
+期（2 日未満） ，遅延（2～
+5 日） ，後期（5 日ごえ） ）
+と死亡率および腎機能障害
+の遷延
+対照群：BUN による待期導入の死亡 OR 
+1.25［0.91—1.70］ ，腎機能障害の遷延
+OR 3.3［1.11—11.1］ ；SCr レベルによる
+待期導入の死亡 OR 0.51 ［0.37—0.69］ ，
+腎 機 能 障 害 の 遷 延 OR 4.04［2.13—
+7.66］ ；ICU 入室からの待機導入の死亡
+OR1.95［1.03—2.92］
+統計的な有意差の有無 ：SCr レベルによ
+る待期導入の死亡 p＝0.16 で有意差な
+し，腎機能障害の遷延 p＜0.001；p＜
+0.001，ICU 入室からの待期導入の死亡
+p＝0.0001；p＝0.001 で有意差あり．
+備考：BUN レベルによる待機導入は死亡
+率には影響しないが，腎機能障害を遷延
+させる．SCr レベルによる待機導入は死
+亡率を減少させたが，腎機能障害を遷延
+させた．ICU 入室 5 日後の待期透析導入
+は，独立した死亡リスクであり，また透
+析および入院期間の延長と維持透析への
+移行と相関〔Ⅳa〕
+27. Shiao CC, et al：
+Crit Care 2009；13：
+R171.
+対象：開腹術後 AKI 患者で
+早期透析導入 （RIFLE：R も
+しくはそれ以前で導入） ，
+51 例
+対照：開腹術後 AKI 患者で
+待機透析導入 （RIFLE で I～
+F で導入） ，47 例
+治療介入：透析導入までの
+期間（早期（2 日未満） ， 遅
+延（2～5 日） ，待機（5 日
+ごえ）785，174，268 例
+評価時期：2002 年 1 月～
+2006 年 6 月
+評価方法：院内死亡率と透
+析離脱
+対象群：院内死亡率 43.1％，透析離脱
+21.3％
+対照群：院内死亡率 74.5％，透析離脱
+41.2％，Cox 比例ハザードモデルで待期
+導入の HR 1.846［1.071—3.182］
+統計的な有意差の有無 ：院内死亡率有意
+差あり（p＝0.002）透析離脱有意差なし
+（p＝0.05）
+備考：待機導入は独立した死亡率増加因
+子であり，RIFLE 分類の R 期に透析導入
+が望ましい．〔Ⅳa〕
+[[p103]]
+93
+10造影剤腎症の治療法
+論文著者／研究デザイン 対象・対照 検査法／評価時期・方法 結果エビデンスレベル
+28. Iyem H, et al：
+Hemodial Int 2009；
+13：55—61.
+対象：開心術後患者で，
+AKI 発症後（乏尿 0.5 mL／
+kg／分 お よ び BUN と Cr 
+1.5 倍化）速やかに間歇透
+析導入，95 例
+対照：開心術後患者で，
+AKI 発症後 48 時間以降に
+間歇透析導入，90 例
+評価時期：2004 年 5 月～
+2007 年 4 月
+評価方法：早期透析導入に
+よる周術期死亡率，主要合
+併症（肺炎，人工呼吸器管
+理時間延長，不整脈，透析
+回数，敗血症，低心拍出量
+など） ，ICU 管理時間延長
+など
+対象群：死亡率：5.2％，維持透析移行：
+0％，ICU 管理期間 46.3±23.2 時間
+対照群：死亡率：6.6％，維持透析移行：
+3.3％，ICU 管理期間 89.7±15.7 時間
+統計的な有意差の有無 ：死亡率に有意差
+なし．維持透析導入を含む主要合併症す
+べて早期透析導入で有意に減少 （＜
+0.05） ， ICU 管理期間も有意に短縮（p＜
+0.001）
+備考：早期導入で死亡率は有意差なかっ
+たが，合併症が有意に減少した．〔Ⅳa〕
+29. Chou YH, et al：
+Crit Care 2011；15：
+R134.
+対象：術後敗血症性 AKI 患
+者で早期透析導入 （RIFLE：
+R もしくはそれ以前） ， 192
+例
+対照：術後敗血症性 AKI 患
+者で待機透析導入 （RIFLE：
+I～F） ，178 例
+治療介入：早期（RIFLE：R
+もしくはそれ以前）および
+待機（RIFLE：I～F）透析導
+入
+評価時期：2002 年 1 月～
+2009 年 10 月
+評価方法：透析導入時期に
+よる院内死亡率の変化
+対象群：早期導入患者死亡率 70.8％
+対照群：待機導入患者死亡率 69.7％
+統計的な有意差の有無 ：p＞0.05（Cox
+比例ハザードモデルの検討で，早期導入
+は院内死亡率に影響しない
+備考：敗血症性 AKI の透析導入時期は院
+内死亡率に影響しない．
+〔Ⅳa〕
+[[p105]]
+A
+acute kidney injury  4
+AKI  4
+AKIN 分類 4
+AKI の定義 4
+AKI 発症 23
+AKI 発症率 34
+amidotrizoic acid  26
+B
+B—type natriuretic peptide  66
+blue toe  36
+BNP  66
+C
+CAG  7, 33, 34, 43
+CAG の短時間反復検査 35
+CHDF  73
+CHF  73
+chronic kidney disease  1
+CIN  3
+bhm?関連ガイドライン?QT
+CIN の高リスク患者 34
+CIN の発症 11
+bhm?の発症頻度?QT
+CIN 発症のリスク 6, 33, 42, 50, 52, 
+65
+CIN 発症リスク閾値 7
+CIN 発症率 34
+CIN リスクスコア 13
+CKD  1, 3, 6, 33, 42
+CKD 患者の生命予後 11
+CKD の重症度分類 3
+contrast induced nephropathy  3
+controlled high—volume hydration 
+ 74
+COX  8
+CT  11
+CT 血管造影 11
+cyclooxygenase  8
+D
+diatrizoic acid  26
+dopamine  65
+E
+eGFR  23
+F
+fenoldopam  65
+G
+gram—iodine  23
+H
+hANP  65
+hANP 投与 66, 81
+HD  73
+HDF  73
+HF  73
+I
+IABP  35
+iodixanol  24, 26
+iohexol  24, 26
+iomeprol  26
+iopamidol  24, 26
+iopromide  26
+iothalamic acid  26
+iotrolan  26
+iotroxic acid  26
+ioversol  26
+ioxaglate  24
+ioxaglic acid  26
+ioxilan  26
+L
+LVEF  23
+N
+N—アセチルシステイン  50
+NAC  50, 65
+Na 利尿作用 66
+NSAIDs  6, 8
+P
+PCI  7
+prostaglandin  65
+R
+RAS 阻害薬 7
+renal dose dopamine  81
+resistance index  81
+RIFLE 分類 4
+S
+STEMI  36
+ST 上昇型心筋梗塞 35
+T
+theophylline  65
+U
+UAP  35
+X
+X 線造影剤 24
+あ
+アスコルビン酸  65
+アスコルビン酸投与  66
+アセトアミノフェン  65
+アミドトリゾ酸  26
+い
+イオキサグル酸  26
+イオキシラン  26
+イオジキサノール  26
+イオタラム酸  26
+イオトロクス酸  26
+イオトロラン  26
+イオパミドール  26
+イオプロミド  26
+イオヘキソール  26
+イオベルソール  26
+イオメプロール  26
+イオン性高浸透圧（性）造影剤  7, 24
+飲水  51
+インスリン依存型糖尿病  7
+インターベンション  44
+う
+うっ血性心不全  6, 7, 13
+か
+外来の造影 CT 44
+下肢の網状皮斑  36
+活性酸素による腎障害  65
+合併する心疾患  7
+欧　文
+和　文
+95
+索　引
+[[p106]]
+加齢  6
+肝機能障害  9
+関節痛  36
+冠動脈インターベンション  35
+冠動脈造影  23
+き
+既存の腎障害  34
+救急患者  44
+急性血液浄化療法  82
+急性心筋梗塞  35, 44
+急性腎障害  4
+急性腎不全  80
+境界型糖尿病  7
+緊急 PCI 35, 36
+け
+経口飲水  51
+経口塩分負荷  52
+経静脈造影 CT 検査 6
+経静脈造影検査  7
+経静脈的造影剤投与  11
+経静脈的輸液  51
+経静脈投与  25, 27
+経動脈造影検査  7
+経動脈（的）投与??PPK?QT
+軽度蛋白尿  3
+血液透析  73
+血液透析療法  73
+血液濾過  73
+血管拡張作用  50
+血管造影  11
+血清シスタチン C による GFR 推算式 
+ 5
+血清補体の低下  36
+血沈亢進  36
+嫌気的解糖  9
+検査前腎障害  6, 7
+顕性アルブミン尿  3
+こ
+抗アルドステロン作用  66
+抗炎症作用  66
+抗酸化作用  66
+抗酸化薬  65
+好酸球増多  36
+高浸透圧  26
+高浸透圧造影剤  23
+高度蛋白尿  3
+高尿酸血症  7
+高齢  6, 7, 34
+高齢者  35
+抗レニン  66
+呼吸不全  9
+コレステロール結晶  36
+コレステロール塞栓  4, 36
+コレステロール塞栓症  36
+さ
+最大造影剤投与量  23
+最大造影剤用量  34
+残存腎機能低下のリスク  12
+し
+糸球体輸入動脈拡張作用  66
+シクロオキシゲナーゼ  8
+持続血液濾過  73
+自由飲水  51
+重曹輸液  50, 52
+重炭酸ナトリウム （重曹） 液投与 52
+静脈造影  11
+腎機能  33
+腎機能障害  9
+腎虚血  65
+心筋梗塞  9
+腎血管収縮  65
+腎血管抵抗  81
+心原性ショック  23
+侵襲的（経動脈）投与  27
+侵襲的診断法  33
+腎障害  6
+心臓カテーテル検査  8, 11, 33, 43
+浸透圧比  24
+腎毒性物質  6, 34
+腎毒性物質投与  7
+心不全  7, 9
+心房性 Na 利尿ペプチド 81
+す
+スタチン  65
+スタチン投与  66
+せ
+生理食塩水  7
+生理食塩水投与  50
+生理食塩水輸液  52, 54
+全身倦怠感  36
+そ
+造影 CT 42
+造影 CT の短期間反復検査 44
+造影冠動脈 CT 23
+造影検査方法  7
+造影後 CHF 施行群 74
+造影剤使用量  7
+造影剤使用量の減量  34
+造影剤腎症  3
+造影剤腎症の治療法  80
+造影剤腎症の予防法  50, 65, 73
+造影剤投与量  23, 34, 43
+造影剤投与量の減量  42
+造影剤量  13
+た
+体液のアルカリ化  53
+体液量過剰  80
+待機的 PCI 36
+大動脈内バルーンパンピング  13
+ダイナミック CT 43
+大量の造影剤使用  7
+脱水  6, 7, 34
+炭酸水素ナトリウム  65
+短時間の輸液  53
+ち
+チアノーゼ  36
+長時間の輸液  53
+治療後評価  44
+治療前評価  44
+て
+低血圧  13
+低酸素血症  9
+低浸透圧  26
+低浸透圧造影剤  23, 24
+低用量ドーパミン投与  81
+と
+等浸透圧  26
+等浸透圧造影剤  24
+透析  73
+透析導入率  34
+等張性重炭酸 Na の輸液 7
+糖尿病  6, 7, 13, 34
+糖尿病性腎症  6
+動脈硬化性プラークの破綻  36
+に
+日本人の GFR 推算式 3
+入院の造影 CT 44
+乳酸アシドーシス  9
+乳酸産生  9
+尿アルブミン／Cr 比 3
+尿アルブミン定量  3
+尿蛋白／Cr 比 3
+尿蛋白定量  3
+96
+索
+　
+引
+[[p107]]
+の
+脳卒中患者  44
+脳動脈瘤破裂  44
+は
+発熱  36
+ひ
+非 CHF 施行群 74
+非イオン性造影剤  51
+ビグアナイド系糖尿病薬  9, 10
+微小塞栓  36
+非侵襲的（経静脈）投与  27
+非侵襲的診断法  42
+非乏尿性 AKI 患者 81
+非乏尿性腎不全  80
+微量アルブミン尿  3
+貧血  13, 34
+ふ
+不安定狭心症  35
+腹部大動脈造影  7
+腹膜透析患者  12
+フロセミド  8
+ほ
+乏尿性腎不全  80
+ま
+慢性腎臓病  1, 3
+め
+メタボリックシンドローム  7
+や
+薬物療法  65
+ゆ
+輸液  50, 51
+輸液療法  34, 80
+よ
+ヨード造影剤浸透圧  26
+り
+リスクスコア  12
+利尿薬  8
+る
+ループ利尿薬  8
+ループ利尿薬投与  80
+ろ
+濾過透析  73
+97
+索
+　
+引
+[[p109]]
+　腎障害患者におけるヨード造影剤使用に関するガイドライン 2012
+定価（本体 1,000 円 + 税）
+消費税変更の場合，上記定価は税率の差額分変更になります．
+2012 年 4 月 20 日  第 1 版発行
+2012 年 5 月 1 日  第 1 版第 2 刷発行
+編著者 社団法人 日本腎臓学会・公益社団法人 日本医学放射線学会・社団法人 日本循環器学会
+発行者 小 黒 正 榮
+発行所 株式会社　東京医学社
+　 〒 113-0033　東京都文京区本郷 3-35-4
+編集部  TEL 03-3811-4119 FAX 03-3811-6135
+販売部  TEL 03-3265-3551 FAX 03-3265-2750
+URL: http://www.tokyo-igakusha.co.jp                  E-mail: hanbai@tokyo-igakusha.co.jp                  振替口座  00150-7-105704
+正誤表を作成した場合はホームページに掲載します．
+© 社団法人 日本腎臓学会，公益社団法人 日本医学放射線学会，社団法人 日本循環器学会，2012
+印刷・製本 / 三報社印刷
+乱丁，落丁などがございましたら，お取り替えいたします．
+・本書の転載許諾については一括して日本腎臓学会が行います．
+・
+本書に掲載する著作物の複写権・翻訳権・上映権・譲渡権・公衆送信権（送信可能化権を含む） は （株） 東京医学社が保有します．
+・ ＜㈳出版者著作権管理機構 委託出版物＞
+本書の無断複写は著作権法上での例外を除き禁じられています．複写される場合は，そのつど事前に（社）出版者著作権管理機構（TEL 
+03-3513-6969，FAX 03-3513-6979，e-mail：info@jcopy.or.jp）の許諾を得てください．
+ ISBN978-4-88563-208-2 C3047 ¥1000E

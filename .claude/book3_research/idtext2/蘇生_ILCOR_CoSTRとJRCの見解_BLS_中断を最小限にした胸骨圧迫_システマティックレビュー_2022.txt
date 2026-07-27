@@ -1,0 +1,113 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Minimizing Pauses in Chest Compressions 中断を最小限にした胸骨圧迫 
+Author: Wyckoff MH, et al. BLS task force 
+PICOST (Population, Intervention, Comparator, Outcome, Study 
+Designs and Timeframe) 
+ 
+Population: Adults in cardiac arrest in any setting 
+Intervention: Minimizing of pauses in chest compressions 
+(higher CPR or chest compression fraction or shorter perishock 
+pauses compared with control) 
+Comparator: Standard CPR (lower CPR fraction or longer 
+perishock pauses compared with intervention)  
+Outcome: A. Critical: Survival to hospital discharge with good 
+neurological outcome and survival to hospital discharge 
+B. Important: ROSC 
+Study design: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) were eligible for inclusion. Unpublished studies 
+(eg, conference abstracts, trial protocols) were excluded. 
+Time frame: All years and all languages were included if there 
+was an English abstract. The literature search was updated to 
+December 17, 2021. 
+ 
+ 
+ 
+P:あらゆる状況での成人の心停止 
+I:胸骨圧迫の中断を最小限にすること（標準的な CPR と比較して、CCF 
+[Chest Compression Fraction]を高くすること、電気ショック前後の中断
+時間を短くすること） 
+ 
+C:標準的な CPR（介入群と比較して、CCF が低いこと、または電気ショッ
+ク前後の中断時間が長いこと） 
+O:A.重大：退院時の良好な神経学的転帰および生存退院 
+B.重要：自己心拍再開（ROSC） 
+S:RCT と非無作為化研究（非 RCT、分割時系列解析、前後比較研究、コ
+ホート研究）を対象とした。論文化されていない研究（例：学会の抄録、臨
+床試験のプロトコール）は除外した。 
+ 
+T:英語抄録がある、全ての年の、あらゆる言語での研究を対象とした。
+文献検索は 2021 年 12 月 17 日まで 
+Treatment recommendations 
+ 
+We suggest that CPR fraction and perishock pauses in clinical 
+practice be monitored as part of a comprehensive quality 
+improvement program for cardiac arrest designed to ensure 
+high-quality CPR delivery and resuscitation care across 
+resuscitation systems (weak recommendation, very low–
+certainty evidence). 
+ 
+推奨と提案 
+ 
+質の高い CPR の実施と蘇生行為の質を保証するため、蘇生ケアの質改
+善プログラムの一環として、CCF と電気ショック前後の胸骨圧迫の中断時
+間をモニタリングすることを提案する。（弱い推奨、エビデンスの確実性：
+非常に低い） 
+ 
+ 
+ 
+[[p2]]
+2 
+ 
+We suggest that preshock and postshock pauses in chest 
+compressions be as short as possible (weak recommendation, 
+very low–certainty evidence). 
+ 
+We suggest that the CPR fraction during cardiac arrest (CPR 
+time devoted to compressions) should be as high as possible 
+and be at least 60% (weak recommendation, very low–certainty 
+evidence). 
+電気ショック前後の胸骨圧迫の中断時間を可能な限り短くすることを提案
+する。（弱い推奨、エビデンスの確実性：非常に低い） 
+ 
+ 
+CCF はできるだけ高くして、少なくとも 60%とすることを提案する。（弱い
+推奨、エビデンスの確実性：非常に低い） 
+ 
+１． JRC の見解と解説 
+• 成人の心停止に対して、CCF（Chest Compression Fraction：胸骨圧迫比率）、電気ショック実施前後の胸骨圧迫中断時間が与える影響につい
+て SysRev が行われた。なお、CoSTR 内では CPR fraction という記載があるが、CPR fraction は CCF と同義である。 
+• 質の高い CPR は患者の転帰にとって重要であり、質の高い CPR の要素には、CCF を高くすること、および、電気ショック前後の胸骨圧迫の
+中断時間を短くすることが含まれるというのが、蘇生に携わる人々のコンセンサスである。これらのことから胸骨圧迫の中断時間を最小限にす
+ることのメリットが強く信じられているため、胸骨圧迫の中断時間が長い場合と短い場合を比較する前向き臨床試験が実施される可能性は低
+く、エビデンスの確実性は非常に低い。 
+• 蘇生行為の初期段階では電気ショックや静脈路確保、器具を用いた気道確保を行うため CCF は低くなりやすく、蘇生行為が長時間に及んだ
+場合は CCF が高くなる傾向にある。一方で、心停止の時間が短い方が、転帰良好であるため、研究において「CCF が高い」＝「転帰良好」とは
+ならないことがあり、CCF と転帰との関連性にバイアスが生じることを理解する必要がある。 
+• 動物実験では、CPR の初期に意図的に胸骨圧迫を短時間中止することにより ROSC 後の心機能と神経機能が改善するポストコンディショニン
+グの効果が示されているが、ヒトでのポストコンディショニングに関するデータはない。 
+• ポストコンディショニングにより期待される効果と、胸骨圧迫を中断することにより起こり得る有害事象を比較すると、胸骨圧迫を中断することに
+よるデメリットの方が大きいと考えるのが妥当である。 
+ 
+２．わが国への適用 
+  JRC 蘇生ガイドライン 2020 の内容を変更しない。 
+ 
+３．担当メンバー 
+作業部会員（五十音順） 
+喜熨斗智也、深野賢太朗 
+[[p3]]
+3 
+ 
+共同座長（五十音順） 
+野田英一郎、若松弘也 
+担当編集委員（五十音順） 
+西山知佳、乗井達守 
+顧問 
+ 畑中哲生 
+編集委員長 
+ 坂本哲也 
+ 

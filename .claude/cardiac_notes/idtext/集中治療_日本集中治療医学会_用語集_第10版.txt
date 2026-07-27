@@ -1,0 +1,3929 @@
+
+[[p1]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1 abdominal breathing(respiration) 腹式呼吸
+2 abdominal compartment syndrome 腹部コンパートメント症候
+群
+3 abdominal distension 腹部膨満 腹部膨隆
+4 abdominal pain 腹痛
+5 abdominal paracentesis 腹腔穿刺
+6 abdominal trauma 腹部外傷
+7 abdominocentesis 腹腔穿刺
+8 ABO blood group ABO式血液型
+9 ABO incompatibility ABO不適合
+10 abortion 流産
+11 abrasion 剥離 剥脱
+12 abscess 膿瘍
+13 absolute arrhythmia 絶対[性]不整脈
+14 absolute humidity 絶対湿度
+15 absolute refractory period 絶対不応期
+16 absorption atelectasis 吸収性無気肺
+17 accessory respiratory muscle 補助呼吸筋
+18 accidental extubation 偶発抜管 事故抜管
+19 acetone body アセトン体
+20 acetylcholine receptor アセチルコリン受容体
+21 acid aspiration 胃酸誤嚥
+22 acid burn 酸熱傷
+23 acid ingestion 酸服用
+24 acid-base balance (acid-base status) 酸塩基平衡
+QT?L??酸塩基平衡z状態|
+26 acid-base imbalance 酸塩基平衡異常
+27 acid-base [balance] disturbance 酸塩基平衡異常 酸塩基平衡障害
+28 acidemia 酸血症 アシデミア
+29 acidity 酸度
+30 acidosis アシドーシス
+31 aciduria 酸性尿[症]
+32 acquired immunodeficiency syndrome 後天性免疫不全症候群 エイズ
+33 acrocyanosis 先端チアノーゼ 末梢性チアノーゼ
+34 activated clotting time 賦活凝固時間 活性[化]凝固時間
+35 activated coagulation time <ACT> 賦活凝固時間 活性[化]凝固時間
+36 activated partial thromboplastin time
+<APTT>
+活性化部分トロンボプラス
+チン時間
+RV???b?活性化プロテインＣ
+38 active transport 能動輸送
+39 acute abdomen 急性腹症
+40 acute alcoholism 急性アルコール中毒
+41 acute anterior poliomyelitis 急性灰白髄炎 急性脊髄前角炎 ポリオ
+42 acute ascending paralysis 急性上行[性]麻痺 《ランドリー麻痺》
+43 acute ascending spinal paralysis 急性上行性脊髄麻痺 ランドリー麻痺
+44 acute bacterial endocarditis 急性細菌性心内膜炎
+45 acute coronary syndrome 急性冠症候群
+46 acute exacerbation 急性憎悪
+47 acute fulminating type 急性激症型
+48 acute interstitial pneumonia 急性間質性肺炎
+49 acute kidney injury <AKI> 急性腎障害
+50 acute lung injury 急性肺傷害 急性肺損傷
+51 acute medicine 急性期医学 急性医学
+52 acute membranous pharyngitis 急性膜性咽頭炎
+53 acute peritonitis 急性腹膜炎
+54 Acute Physiology and Chronic Health
+Evaluation Ⅱ score アパッチⅡスコア
+55 acute poisoning 急性中毒
+56 acute renal failure <ARF> 急性腎不全
+57 acute respiratory disease 急性呼吸器疾患
+58 acute respiratory distress syndrome <ARDS> 急性呼吸促迫症候群 急性呼吸窮迫症候群
+59 acute respiratory failure <ARF> 急性呼吸不全
+60 acute respiratory insufficiency 急性呼吸機能障害
+61 acute stage 急性期
+62 acute tolerance 急性耐性
+63 acute tubular necrosis <ATN> 急性尿細管壊死
+64 adhesion molecule 接着分子 接着因子
+65 administration 投与
+66 admission criteria 入室基準
+67 adrenal insufficiency 副腎不全
+68 adrenergic agent アドレナリン作動薬
+69 adrenergic blocking agent アドレナリン遮断薬
+70 adrenergic drug アドレナリン作動薬
+71 adrenergic receptor アドレナリン作動性受容体
+72 adrenolytic アドレナリン遮断性の
+73 adrenoreceptor アドレナリン受容体
+74 adverse effect 副作用 好ましくない作用
+VT??エアレーション?通気
+76 aerial infection 空気感染
+77 aerobic 好気性の
+78 aerobic bacteria 好気性菌
+79 aerobic infection 好気性感染 好気[性]感染
+80 aerobic metabolism 好気的代謝
+81 aerobic respiration 好気性呼吸
+82 aeroperitoneum 気腹
+83 aerophagy 空気えん(嚥)下[症]
+84 aerosol エロゾール
+[[p2]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+85 aerosol inhalation エロゾール吸入
+86 aerosol therapy エロゾール療法
+87 aerosolization エロゾール化
+88 affinity 親和性
+89 afterload 後負荷
+90 afterload reduction therapy (afterload 後負荷軽減療法
+91 afterloading 後負荷
+92 agglutination 粘着
+93 aggregation 凝集
+94 agonal 死戦の
+95 agonal respiration (breathing) 死戦期呼吸 終末呼吸
+96 agonist 作動薬
+97 air bronchogram 気管支透亮像
+98 air embolism 空気塞栓症 空気塞栓[症]
+99 air embolus 空気塞栓
+100 air hunger 空気飢餓
+101 air leak エアリーク
+102 air passage 気道
+103 air trapping 空気とらえこみ現象 エアトラッピング
+104 air-borne dust 浮遊じん(塵)
+105 air-borne infection 空気感染 吸入感染
+106 airway 気道 エアウェイ
+107 airway burn 気道熱傷
+108 airway cleaning 気道清浄 気道クリーニング
+109 airway closure 気道虚脱現象 エアウェイ・クロージャ 気道閉鎖
+110 airway conductance 気道コンダクタンス
+111 airway maintenance 気道確保(管理)
+112 airway management 気道管理
+113 airway obstruction(occlusion) 気道閉塞
+114 airway pressure 気道内圧
+115 airway pressure-time curve 気道内圧時間曲線
+116 airway resistance 気道抵抗
+117 airway stenosis 気道狭窄
+118 alarm 警報 アラーム
+119 albumin dialysis アルブミン透析
+120 albuminuria アルブミン尿[症]
+121 alcoholism アルコール中毒
+122 alkalemia アルカリ血症 アルカレミア
+123 alkali reserve アルカリ予備
+124 alkaline intoxication アルカリ中毒
+125 alkalinity アルカリ度
+126 alkalinization アルカリ化
+127 alkalosis アルカローシス
+128 alkaluria アルカリ尿[症]
+129 allergen アレルゲン
+130 allergen-free chamber 無アレルゲン室
+131 allergic アレルギー[性]の
+132 allergic asthma アレルギー性喘息
+133 allergic bronchitis アレルギー性気管支炎
+134 allergic reaction アレルギー反応
+135 allergic rhinitis アレルギー性鼻炎
+136 allergic urticaria アレルギー性じんま(蕁麻)
+疹
+137 allogenic 同種の
+138 allogenic immunity 同種免疫
+139 allograft 同種移植片
+140 allograft reaction 同種移植片反応
+141 allograft rejection 同種移植片拒絶 同種移植片拒絶[反応]
+142 alpha adrenergic agonist 交感神経アルファ(α)刺激
+薬
+交感神経アルファ(α)作
+動薬
+143 alpha adrenergic receptor 交感神経アルファ(α)受容
+体 アルファ(α)受容体
+144 alpha blocker アルファ(α)遮断薬
+145 alpha receptor アルファ(α)受容体
+146 alpha rhythm (α-rhythm) アルファ(α)リズム
+147 alternating pulse 交互脈 交代脈
+148 altitude aclimatization 高所順応(適応)
+149 alveolar 肺胞の
+150 alveolar air(gas) 肺胞気
+151 alveolar air equation 肺胞気式
+152 alveolar air sampling 肺胞気採取
+153 alveolar anoxia 肺胞性無酸素[症]
+154 alveolar collapse 肺胞虚脱
+155 alveolar damage 肺胞傷害
+156 alveolar dead space 肺胞死腔
+157 alveolar gas exchange 肺胞ガス交換
+158 alveolar hypoventilation 肺胞低換気
+159 alveolar hypoxia 肺胞性低酸素[症]
+160 alveolar lavage 肺胞洗浄
+161 alveolar macrophage 肺胞マクロファージ
+162 alveolar pressure 肺胞[内]圧
+163 alveolar recruitment 肺胞リクルートメント
+164 alveolar space 肺胞腔
+165 alveolar structure 肺胞構築
+166 alveolar ventilation 肺胞換気
+167 alveolar-arterial difference <A-aD> 肺胞動脈血較差
+168 alveolar-arterial nitrogen difference <A-
+aDN2> 肺胞動脈血窒素較差
+[[p3]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+169 alveolar-arterial oxygen difference <A-
+aDO2> 肺胞動脈血酸素較差
+170 alveolar-capillary barrier 肺胞毛細血管関門
+171 alveolar-capillary block syndrome 肺胞毛細血管ブロック症候
+群
+172 ambulance 救急車
+173 aminoglycosides アミノ配糖体 アミノグリコシド
+174 amnesia 健忘[症] 記憶消失
+175 amniocentesis 羊水穿刺
+176 amniotic fluid 羊水
+177 amniotic fluid embolism 羊水塞栓
+178 amyotrohpic lateral sclerosis 筋萎縮性側索硬化症
+179 anabolic 蛋白同化の
+180 anabolic hormone 蛋白同化ホルモン
+181 anabolic steroid 蛋白同化ステロイド
+182 anaerobic 嫌気[性]の
+183 anaerobic bacteria 嫌気性菌
+184 anaerobic infection 嫌気性感染
+185 anaerobic metabolism 嫌気性代謝
+186 anaerobic respiration 嫌気性呼吸
+187 analeptic 興奮薬 中枢神経[系]興奮薬
+188 analgesia 無痛[法]
+189 analgesic 鎮痛薬 鎮痛性の
+190 analgesic effect 鎮痛効果
+191 analyzer 分析器
+192 anaphylactic アナフィラキシーの
+193 anaphylactic shock アナフィラキシーショック
+194 anaphylactoid purpura アナフィラクトイド紫斑病 アレルギー性紫斑病
+195 anaphylactoid reaction アナフィラキシー様反応
+196 anaphylaxis アナフィラキシー
+197 anatomical dead space 解剖学的死腔
+198 anemia 貧血
+199 anemic anoxia 貧血性無酸素[症]
+200 anesthesia 麻酔
+201 aneurysm 動脈瘤
+202 angina pectoris 狭心症
+203 anginal 狭心症の
+204 angiogram 血管写[像]
+205 angiography 血管造(撮)影
+206 angiotensin converting enzyme アンギオテンシン変換酵素
+207 animal bite 動物咬創
+208 animal models 動物モデル
+209 anion 陰イオン アニオン
+210 anion gap アニオン・ギャップ
+211 anomaly 奇形
+212 anoxemia 無酸素血症
+213 anoxia 無酸素症
+214 anoxic anoxia 無酸素性無酸素症
+215 anoxic spell 無酸素発作
+216 antacid 制酸薬 制酸性の
+217 antagonism 拮抗[作用]
+218 antagonist 拮抗薬
+219 anterior[myocardial] infarction 前壁[心筋]梗塞
+220 antero-septal infarction 前壁中隔[心筋]梗塞
+221 anti-adrenergic 抗アドレナリン作用[性]の
+222 anti-allergic agent(drug) 抗アレルギー薬
+223 antiarrhythmic agent 抗不整脈薬
+224 antibacterial 抗菌性の
+225 antibacterial agent 抗菌薬
+226 antibacterial spectrum 抗菌スペクトル
+227 antibiotic 抗生物質
+228 antibody 抗体
+229 antibody deficiency syndrome 抗体欠損(乏)症候群
+230 antibody formation 抗体形成
+231 anticholinesterase 抗コリンエステラーゼ
+232 anticoagulant 抗凝血性の 抗凝固性の 抗凝固薬 抗凝血薬
+233 anticoagulant drug 抗凝血薬 抗凝固薬 抗凝血(固)薬
+234 anticoagulant effect 抗凝血効果 抗凝固効果
+235 anticoagulation 抗凝固
+236 antidiuretic 抗利尿[性]の 抗利尿薬
+237 antidiuretic hormone <ADH> 抗利尿ホルモン
+238 antidiuretic substance 抗利尿物質
+239 antifungal 抗真菌性の
+240 antifungal antibiotic 抗真菌性抗生物質
+241 antigen 抗原
+242 antigen-antibody combination 抗原抗体結合
+243 antigen-antibody complex 抗原抗体複合体
+244 antigen-antibody reaction 抗原抗体反応
+245 antigenic 抗原性の
+246 antigenic specificity 抗原特異性
+247 antigenicity 抗原性
+248 antihemophilic A factor 抗血友病A因子
+249 antihemophilic factor 抗血友病因子 第VIII因子
+250 antihemophilic globulin 抗血友病グロブリン 第VIII因子
+251 antimicrobial 抗菌[性]の
+252 antimicrobial agent 抗菌薬 抗菌物質
+253 antimicrobial resistance 抗菌薬抵抗性
+[[p4]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+254 antimicrobial spectrum 抗菌スペクトル
+255 antimicrobial susceptibility test 抗菌物質感受性テスト(試
+験)
+256 antioxidant 抗酸化薬
+257 antiserum 抗血清
+258 antistreptolysin titer 抗ストレプトリジン価
+259 antistreptolysin-O <ASLO> 抗ストレプトリジンO 抗レンサ球菌溶解素
+260 antithrombin アンチトロンビン
+261 antitoxic 抗毒[素]性
+262 antitoxin 抗毒素
+263 antitrypsin 抗トリプシン
+264 anti-tumor necrosis factor 抗腫瘍壊死因子
+265 anti-tumor necrosis factor therapy 抗TNF療法
+266 anuria 無尿
+267 anxiety 不安
+268 anxiety neurosis 不安神経症
+269 anxiety psychosis 不安精神病
+270 anxiolytic 抗不安薬
+271 aortic body 大動脈体
+272 aortic insufficiency <AI> 大動脈弁閉鎖不全
+273 aortic regurgitation <AR> 大動脈弁逆流
+274 aortic [valve] stenosis <AS> 大動脈弁狭窄[症]
+275 Apgar Score アプガースコア
+276 aphonia 失声[症]
+277 apnea 無呼吸
+278 apneic spell 無呼吸発作
+279 apneic threshold 無呼吸閾値
+280 apneusis 持続性吸息
+281 apolipoprotein アポリポ蛋白
+282 apoplectic stroke 卒中
+283 apoplexy 卒中[発作]
+284 apoptosis アポトーシス
+285 apparatus 装置 器具 装具 器械
+286 apparent infection 顕性感染
+287 application 適用 応用
+288 applied physiology 応用生理学
+289 appropriate for gestational age infant 相当体重児
+290 appropriate-for-dates <AFD> 相当体重児
+291 argatroban アルガトロバン
+292 arginine vasopressin アルギニンバソプレシン
+293 arousal reaction 覚醒反応
+294 arrest 停止
+295 arrhythmia 不整脈
+296 arterial bleeding 動脈性出血
+297 arterial blood 動脈血
+298 arterial blood gas(es) 動脈血ガス
+299 arterial blood pressure 動脈[血]圧
+300 arterial blood sampling 動脈血採取
+301 arterial carbon dioxide tension 動脈血二酸化炭素分圧
+302 arterial desaturation 動脈血[酸素]飽和度低下
+303 arterial embolism 動脈塞栓症
+304 arterial hemorrhage 動脈性出血
+305 arterial ketone body ratio  <AKBR> 動脈血ケトン体[比]
+306 arterial oxygen tension 動脈血酸素分圧
+307 arterial pressure 動脈[血]圧
+308 arterial-alveolar carbon dioxide difference
+<a-ADCO2>
+動脈血-肺胞二酸化炭素分圧
+較差
+309 arteriosclerotic 動脈硬化性
+310 arteriosclerotic heart disease 動脈硬化性心疾患
+311 arteriovenous anastomosis 動静脈吻合
+312 arteriovenous fistula 動静脈瘻
+313 arteriovenous oxygen difference 動静脈血酸素較差
+314 arteriovenous shunt 動静脈シャント
+315 artifact アーチファクト
+316 artifical respiration 人工呼吸[法]
+317 artificial breathing 人工呼吸
+318 artificial circulation 人工循環
+319 artificial heart 人工心臓
+320 artificial heart lung apparatus 人工心肺[装置]
+321 artificial hibernation 人工冬眠[法]
+322 artificial intelligence 人工知能
+323 artificial kidney 人工腎[臓]
+324 artificial life support 人工的生命維持[法]
+325 artificial lung 人工肺
+326 artificial organ 人工器官 人工臓器
+327 artificial pacemaker 人工ペースメーカ
+328 artificial pneumothorax 人工気胸[法]
+329 artificial skin 人工皮膚
+330 artificial ventilation 人工換気 人工呼吸
+331 ascending infection 上行性感染
+332 ascending paralysis 上行性麻痺
+333 Aschner's eyeball pressure test 眼球圧迫試験 アシュネル[眼球圧迫]試
+験
+334 ascites 腹水
+335 aseptic 無菌[性]の
+336 aseptic fever 無菌熱 無菌性発熱
+337 aseptic manipulation 無菌操作[法]
+[[p5]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+338 aseptic solution 無菌液
+339 aseptic treatment 無菌的処置
+340 aseptic wound 非感染創
+341 asphyxia 仮死 窒息
+342 aspirate 吸引する 吸引物
+343 aspirating tube 吸引管 吸引チューブ
+344 aspiration 吸引
+345 aspiration biopsy 吸引生検 吸引バイオプシー
+346 aspiration pneumonia (aspiration 誤嚥性肺炎
+347 aspirator 吸引器，吸引装置 アスピレータ
+348 assist mode 補助様式 補助[呼吸]モード
+349 assisted cough 咳嗽(がいそう)補助
+350 assisted respiration 補助呼吸[法]
+351 assisted ventilation 補助換気[法]
+352 asthmatic attack 喘息発作
+353 asthmatic bronchitis 喘息性気管支炎
+354 asthmatic crisis 喘息発作
+355 asthmatoid wheeze 喘息様喘鳴
+356 asystole 無収縮[期]
+357 atelectasis 無気肺
+358 atmospheric hypoxia 大気性低酸素[症]
+359 atmospheric pressure 大気圧
+360 atmospheric temperature and pressure and
+saturation <ATPS> [大気]標準状態
+361 atomizer アトマイザ 噴霧器 粉砕器
+362 atopic asthma アトピー[性]喘息
+363 atorioventricular interference 房室干渉解離
+364 atraumatic 非外傷性の 無外傷性の
+365 atrial(auricular) contraction 心房収縮
+366 atrial extrasystole 心房期外収縮
+367 atrial fibrillation <Af> 心房細動
+368 atrial flutter <AF> 心房粗動
+369 atrial gallop 心房性奔馬調律
+370 atrial pacing 心房ペーシング
+371 atrial premature contraction 心房[性]期外収縮
+372 atrial premature contraction (beat) (systole)
+<APC> 心房期外収縮
+373 atrial tachycardia 心房頻拍
+374 atrioventricular 房室の
+375 atrioventricular <A-V> junctional (nodal)
+rhythm
+房室接合部[性](結節性)調
+律
+376 atrioventricular block 房室ブロック
+377 atrioventricular block <A-V block> 房室ブロック
+378 atrioventricular conduction 房室伝導
+379 atrioventricular conduction delay 房室伝導遅延
+380 atrioventricular conduction disturbance 房室伝導障害
+381 atrioventricular conduction time 房室伝導時間
+382 atrioventricular dissociation <A-V 房室解離
+383 atrioventricular junctional <AV> 房室接合部期外収縮
+384 atrioventricular rhythm 房室調律
+385 attenuator 減衰器
+386 atypical pneumonia 異型性肺炎
+387 auditory evoked brainstem response 聴性脳幹反応
+388 auditory evoked potential 聴性[誘発]電位
+389 augumented deffusion 強化拡散
+390 auscultation 聴診[法]
+391 autoagglutination 自己凝集[反応]
+392 autoantibody 自己抗体
+393 autoclave オートクレーブ 高圧[蒸気]滅菌器
+394 autodigestion 自己(自家)消化
+395 autogenous transplant 自己(自家)移植[組織]
+396 autograft 自己移植片 自己移植[術]
+397 autoimmune complement fixation 自己免疫性補体結合反応
+398 autoimmune disease 自己免疫疾患(病)
+399 autoimmunity 自己免疫
+400 autolysin 自己融解(溶解)素
+401 autolysis 自己分解 自己溶解 自己融解
+402 autolytic enzyme 自己融解酵素
+403 automated external defibrillator 自動体外式除細動器
+404 automatic control 自動制御
+405 automatic implantable cardioverter
+defibrillator <AICD>
+自動植[え]込み型電気除細
+動器
+406 automatic implantable defibrillator <AID> 自動植[え]込み型除細動器
+407 automaticity 自律[性]の
+408 autonomic blocking agent 自律神経遮断薬
+409 autonomic excitation 自動[性]興奮
+410 autopsy 剖検
+411 autopsy specimen 剖検材料
+412 autoregulation 自己調節
+413 autosensitization 自己感作
+414 autotransfusion 自己(自家)輸血[法]
+415 autotransplantation 自己(自家)移植
+416 avascular 血管の無い
+417 average dose 平均薬用量
+418 aviation medicine 航空医学
+419 awake intubation 意識下挿管 覚醒時挿管
+420 axillary temperature 腋窩温
+[[p6]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+421 axis deviation (electrical) [電気]軸偏位
+422 azotemia (高)窒素血[症] 窒素過剰血[症]
+423 azotemic uremia 高窒素血性尿毒症
+424 bacteremia 菌血症
+425 bacteri[o]cidal 殺菌[性]の
+426 bacterial culture 細菌培養
+427 bacterial endocarditis 細菌性心内膜炎
+428 bacterial endotoxin 細菌内毒素
+429 bacterial filter 細菌フィルタ
+430 bacterial flora 細菌そう(叢)
+431 bacterial hemolysin 細菌[性]溶血素
+432 bacterial infection 細菌感染
+433 bacterial pneumonia 細菌性肺炎
+434 bacterial resistance 細菌耐性
+435 bacterial toxin 細菌毒素
+436 bacterial translocation バクテリアルトランスロ
+ケーション
+437 bacterial virulence 毒性細菌
+438 bactericidal antibiotic 殺菌性抗生物質
+439 bacteriostatic antibiotic 静菌性抗生物質
+440 Bainbridge's reflex ベインブリッジ反射 心房反射
+441 balanced salt solution 総合(複合)塩類溶液
+442 bank blood 保存血 預血
+443 barking cough 犬吠咳
+444 baro[re]ceptor 圧受容器(体)
+445 barometric pressure 気圧
+446 barotrauma 圧傷害 圧外傷
+447 barrel chest 樽状胸
+448 basal energy expenditure <BEE> 基礎エネルギー消費量
+449 basal metabolic rate <BMR> 基礎代謝率 基礎代謝量
+450 basal metabolism 基礎代謝
+451 basal narcosis 基礎麻酔
+452 base 塩基
+453 base deficit 塩基欠乏
+454 base excess <BE> 過剰塩基 塩基過剰
+455 base line 基線
+456 basic life support <BLS> 一次救命処置
+457 battered child syndrome 被虐待児症候群
+458 bedside teaching 臨床教育 ベッドサイド教育
+459 bends 潜函病
+460 beta blocker(β-blocker) β(ベータ)遮断薬
+461 beta receptor(β-receptor) β(ベータ)受容体
+462 beta(β) blocker β(ベータ)遮断薬
+463 beta-adrenergic blocking agent β(ベータ)遮断薬
+464 bias 偏向 偏り
+465 bicarbonate 重炭酸塩
+466 bicarbonate buffer system 重炭酸塩緩衝系
+467 bifurcation 分岐 分枝
+468 bigeminy 二連脈 二段脈
+469 bilateral 両側[性]の
+470 bilevel positive airway pressure BiPAP
+471 bioethics 生命倫理 医の倫理
+472 biological assay 生物学的検定法 バイオアッセイ
+473 biological cycle 生体リズム 生体時計 バイオリズム
+474 biological engineering 生物工学 生体工学
+SVT??L?生物学的半減期
+476 biomedical ethics 生物医学倫理
+477 biopsy 生検 バイオプシー
+478 biopsy needle 検生針 ニードルバイオプシー
+479 Biot's respiration ビオー呼吸
+480 bipolar lead 双極誘導
+481 birth asphyxia 出生児仮死
+482 birth injury 出生[時]損傷 分娩[時]損傷
+483 birth trauma 分娩[時]外傷
+484 birth weight <BW> 出生時体重
+485 bispectral index <BIS> バイスペクトラルインデッ
+クス
+486 bite block バイトブロック
+487 blast injury 爆風傷害
+488 bleeding tendency 出血傾向
+489 bleeding time 出血時間
+490 bleeding ulcer 出血性潰瘍
+491 blind biopsy 盲目生検
+492 blind intubation 盲目[的][気管]挿管
+493 blind nasal intubation 盲目[的]経鼻挿管
+494 blockade 遮断
+495 blocking agent 遮断薬
+496 blood bank 血液銀行
+497 blood brain barrier <BBB> 血[液]脳関門
+498 blood circulation 血液循環
+499 blood clot 血餅 凝血塊
+500 blood clotting 血液凝固，凝血
+501 blood coagulant 血液凝固薬
+502 blood culture 血液培養
+503 blood donor 給血者 供血者
+504 blood flow 血流[量]
+505 blood flow distribution 血流分布
+[[p7]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+506 blood flowmeter 血流計
+507 blood gas analysis 血液ガス分析
+508 blood gas analyzer 血液ガス分析装置
+509 blood gas determination 血液ガス分析
+510 blood gas measurement 血液ガス分析
+511 blood gas monitoring 血液ガスモニタリング
+512 blood gas(es) 血液ガス
+513 blood level 血中濃度
+514 blood loss 失血
+515 blood perfusion 血液灌流
+516 blood picture 血液像
+517 blood preservation 血液保存
+518 blood pressure 血圧
+519 blood purification 血液浄化
+520 blood recipient 受血者
+521 blood sample 血液試料
+522 blood stagnation 血流停滞 うっ血
+523 blood substitute 代用血液 血液代用剤
+524 blood supply 血液供給
+525 blood transfusion 輸血
+526 blood transfusion set 輸血セット
+527 blood type 血液型
+528 blood urea nitrogen <BUN> 血液尿素窒素
+529 blood viscosity 血液粘度(性)
+530 blood volume [循環]血液量
+531 blood-cerebrospinal fluid barrier 血液脳脊髄液関門
+532 bloodstream infection 血流感染
+533 bloody sputum 血痰
+534 bloody tap 血性穿刺[液]
+535 blue asphyxia 青色仮死
+536 blue baby 青色児
+537 blunt trauma 鈍[的]外傷
+538 body fluid 体液
+539 body fluid　 composition 体液組成
+540 body plethysmograph 体[幹]プレチスモグラフ 体[幹]プレチスモグラ
+フィー
+541 body positions 体位 体位療法
+542 body surface area <BSA> 体表面積
+543 body temperature 体温
+544 body temperature ambient pressure saturated
+with water vapor <BTPS>
+体温[測定時]大気圧水蒸気
+飽和状態
+545 body weight 体重
+546 boiling water sterilization 煮沸消毒法 煮沸滅菌法
+547 bone marrow transplantation <BMT> 骨髄移植[術]
+548 bound water 結合水
+549 bradycardia 徐脈
+550 bradypnea 緩徐呼吸
+551 brain damage 脳損傷
+552 brain death 脳死
+553 brain edema 脳浮腫 脳水腫
+554 brain infarction 脳梗塞
+555 brain injury 脳傷害
+556 brain natriuretic peptide <BNP> 脳性ナトリウム利尿ペプチ
+ド
+557 brain-cerebrospinal fluid barrier 脳脊髄液関門
+558 brainstem death 脳幹死
+559 brainstem reflex 脳幹反射
+560 breath holding 息こらえ
+561 breath holding time 息こらえ時間
+562 breath sound 呼吸音
+563 breathing apparatus 呼吸装置
+564 breathing bag 呼吸バッグ
+565 breathing exercise 呼吸訓練
+566 breathing mask 呼吸マスク
+567 broad spectrum antibiotic 広域抗生物質
+568 bronchial 気管支の
+569 bronchial asthma 気管支喘息
+570 bronchial fistula 気管支瘻
+571 bronchial flora 気管支内細菌そう(叢)
+572 bronchial lavage 気管支洗浄
+573 bronchial spasm 気管支痙攣 気管支れん縮
+574 bronchiectasis 気管支拡張症
+575 bronchitis 気管支炎
+576 bronchoalveolar lavage <BAL> 気管支肺胞洗浄
+577 bronchoalveolar lavage fluid 気管支肺胞洗浄液
+578 bronchoconstriction 気管支収縮(れん縮)
+579 bronchodilatation 気管支拡張
+580 bronchodilator 気管支拡張薬
+581 bronchogenic dissemination 気管支性播種
+582 bronchography 気管支造[撮]影[法]
+583 bronchomalacia 気管支無力症
+584 broncho-pleural fistula 気管支胸腔瘻
+585 bronchopneumonia 気管支肺炎
+586 bronchopulmonary dysplasia <BPD> 気管支肺異形症
+587 bronchoscope 気管支鏡
+588 bronchoscopic aspiration 気管支鏡下吸引[法]
+589 bronchoscopy 気管支鏡検査[法]
+[[p8]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+590 bronchospasm 気管支痙攣
+591 bronchospirometry 気管支肺容量測定[法] 気管支肺機能測定[法]
+592 bucking バッキング
+593 buffer 緩衝[液]
+594 buffer action 緩衝作用
+595 buffer base <BB> 緩衝塩基
+596 buffer capacity 緩衝能
+597 buffer solution 緩衝液
+598 buffer substance 緩衝物質
+599 buffer system 緩衝系
+600 buffer value 緩衝価
+601 bulbar palsy (paralysis) 球麻痺
+602 bulk flow 総体流
+603 bullet wound 射創 銃撃創 銃創
+604 bundle branch block <BBB> 脚ブロック
+605 burn 熱傷
+606 burn index <BI> 熱傷指数
+607 burr hole [頭蓋]骨孔 穿頭孔
+608 burst injury 爆風傷害
+609 burst suppression 群発抑止
+610 butterfly shadow 蝶形像
+611 bypass graft 人工副行路[造設] バイパスグラフト
+612 cachexia 悪液質
+613 caisson disease 潜函病
+614 calcitonin カルシトニン
+615 calibration 較正
+616 caloric intake 熱量摂取[量] カロリー摂取[量]
+617 caloric nystagmus 温度(温熱)眼振
+618 caloric test 温度(温熱)[眼振]テスト カロリックテスト
+619 calorimeter 熱量計
+620 calorimetry 熱量測定[法] 測熱
+621 can[n]ula カニューレ 管
+622 candidiasis 真菌感染(症)
+623 canister キャニスター
+624 cannulation カニューレ挿入
+625 capacitance vessel 容量血管
+626 capillary bleeding 毛細[血]管性出血
+627 capillary blood 毛細管血
+628 capillary blood pressure 毛細管[血]圧
+629 capillary circulation 毛細[血]管循環
+630 capillary dilatation 毛細[血]管拡張[症]
+631 capillary electrode 毛細管電極
+632 capillary permeability 毛細[血]管透過性
+633 capillary pressure 毛細[血]管[血]圧
+634 carbaminohemoglobin カルバミノヘモグロビン カルバミノ血色素
+635 carbohydrate 炭水化物、糖質
+636 carbon dioxide <CO2> 二酸化炭素，炭酸ガス
+637 carbon dioxide absorption 二酸化炭素吸収
+638 carbon dioxide combining capasity 二酸化炭素結合能
+639 carbon dioxide dissociation constant 二酸化炭素解離恒数
+640 carbon dioxide dissociation curve 二酸化炭素解離曲線
+641 carbon dioxide elimination(excretion) 二酸化炭素排出 二酸化炭素排出量
+642 carbon dioxide narcosis 二酸化炭素(炭素ガス)ナル
+コーシス CO2ナルコーシス
+643 carbon dioxide output <VCO2> 二酸化炭素排出 二酸化炭素排出量
+644 carbon dioxide production 二酸化炭素産生 二酸化炭素産生量
+645 carbon dioxide rebreathing 炭素ガス再呼吸
+646 carbon dioxide retention 二酸化炭素蓄積 炭酸ガス蓄積
+647 carbon monoxide 一酸化炭素
+648 carbon monoxide poisoning 一酸化炭素中毒
+649 carbonic acid 炭酸
+650 carbonic anhydrase 炭酸脱水酵素
+651 carbonic anhydrase inhibitor 炭酸脱水酵素阻害薬
+652 carboxyhemoglobin <CO-Hb>, <HbCO> 一酸化炭素血色素 一酸化炭素ヘモグロビン
+653 cardiac arrest 心[拍]停止
+654 cardiac asthma 心臓[性]喘息
+655 cardiac beat 心拍[動]
+656 cardiac cachexia 心臓性悪液質
+657 cardiac catheter 心[臓]カテーテル
+658 cardiac catheterization 心[臓]カテーテル法
+659 cardiac chamber 心腔
+660 cardiac cycle 心臓周期 心[拍]周期
+661 cardiac death 心臓死
+662 cardiac decompensation 心代償不全
+663 cardiac defibrillator 心除細動器
+664 cardiac depressant 心[筋]抑制物質
+665 cardiac disease 心疾患
+666 cardiac excitability 心興奮性
+667 cardiac failure 心不全
+668 cardiac glycoside 強心配糖体
+669 cardiac hypertrophy 心肥大
+670 cardiac index <CI> 心係数
+671 cardiac insufficiency 心機能不全
+672 cardiac massage 心[臓]マッサージ
+673 cardiac murmur 心雑音
+674 cardiac output <CO> 心拍出量
+[[p9]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+675 cardiac pacemaker 心臓ペースメーカ ペースメーカ
+676 cardiac reserve 心[臓]予備力
+677 cardiac resuscitation 心[臓]蘇生[法]
+678 cardiac rhythm 心[臓]調律
+679 cardiac standstill 心静止
+680 cardiac stimulant 心[臓]刺激薬 強心薬
+681 cardiac surgery 心臓手術(外科)
+682 cardiac tamponade 心[臓]タンポナーデ 心タンポナーデ
+683 cardio-active agent 心[臓]作用薬
+684 cardio-angiography 心[臓]血管造影(撮影)[法]
+685 cardiogenic 心原性の
+686 cardiogenic ascites 心[臓]性腹水 心原性腹水
+687 cardiogenic oscillation 心原性振動
+688 cardiogenic pulmonary edema 心原性肺水腫 原発性肺高血圧症
+689 cardiogenic shock 心原性ショック
+690 cardiography 心拍[動]記録[法]
+691 cardiomyopathy 心筋症
+692 cardioprotective effect 心筋保護効果
+693 cardiopulmonary bypass <CPB> 人工心肺
+694 cardiopulmonary dysfunction 心肺機能不全
+695 cardiopulmonary resuscitation <CPR> 心肺蘇生[法]
+696 cardiorespiratory dysfunction 心肺機能不全
+697 cardiorespiratory monitoring 呼吸循環モニタリング 心肺[機能]モニタリング
+698 cardiothoracic ratio <CTR> 心胸[郭]比
+699 cardiovascular disease 心臓血管疾患
+700 cardiovascular disturbance 心[臓]血管障害
+701 cardiovascular malformation 心[臓]血管奇形
+702 cardiovascular response 心血管反応
+703 cardiovascular system 心[臓]血管系
+704 cardioversion カルディオバージョン
+705 carotid angiography 頸動脈造影(撮影)法 頸動脈造影 頸動脈写
+706 carotid arterial pulse 頸動脈波
+707 carotid body 頸動脈[小]体
+708 carotid body reflex 頸動脈小体反射
+709 carotid sinus reflex 頸動脈洞反射
+710 caspase カスペース
+711 catarrhal croup カタル性喉頭炎
+712 catheter fever カテーテル熱
+713 catheter Nelaton's ネラトンカテーテル
+714 catheter related infection カテーテル関連感染症
+715 catheterization カテーテル[挿入]法
+716 cathode 陰極
+717 cathode ray oscillograph 陰極線オッシログラフ
+718 cation 陰イオン
+719 cation exchange resin 陽イオン交換樹脂
+720 causative agent 原因物質
+721 cautery 焼灼
+722 CD14 T-lymphocyte CD14 T-リンパ球
+723 CD25 T-lymphocyte CD25 T-リンパ球
+724 cecal ligation and puncture 盲腸結紮穿孔(モデル)
+725 celiac angiography 腹腔動脈造影(撮影)[法]
+726 cell adhesion molecule 細胞接着分子
+727 cell culture 細胞培養
+728 cell death 細胞死
+729 cell-bound antibody 細胞結合抗体
+730 cellular immunity 細胞[性]免疫
+731 cellular infiltration 細胞浸潤
+732 central action 中枢作用
+733 central chemosensitive area 中枢化学感受領域
+734 central nervous system <CNS> 中枢神経系
+735 central nervous system depressant 中枢神経[系]抑制薬
+736 central nervous system stimulant 中枢[神経]興奮薬 刺激薬
+737 central venous catheter 中心静脈カテーテル
+738 central venous pressure <CVP> 中心静脈圧
+739 cerebral aneurysm 脳動脈瘤
+740 cerebral angiography 脳血管造影(撮影)[法]
+741 cerebral anoxia 脳無酸素症
+742 cerebral apoplexy 脳卒中
+743 cerebral blood flow <CBF> 脳血流[量]
+744 cerebral circulation 脳循環
+745 cerebral concussion 脳振とう(盪)[症]
+746 cerebral contusion 脳挫傷
+747 cerebral edema 脳浮腫
+748 cerebral embolism 脳塞栓症
+749 cerebral hemorrhage 脳出血
+750 cerebral herniation 脳ヘルニア
+751 cerebral inchemia 脳虚血
+752 cerebral infarction 脳梗塞
+753 cerebral metabolic rate 脳代謝率
+754 cerebral metabolic rate for oxygen
+<CMRO2> 脳酸素消費量
+755 cerebral microdialysis 脳マイクロダイアリシス
+756 cerebral palsy 脳性麻痺
+757 cerebral perfusion pressure 脳灌流圧
+758 cerebral thrombosis 脳血栓症
+759 cerebral vascular resistance 脳血管抵抗
+[[p10]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+760 cerebro-cardio-pulmonary resuscitation
+<CCPR> 脳心肺蘇生[法]
+761 cerebrospinal fluid <CSF> [脳脊]髄液
+762 cerebrospinal fluid pressure [脳脊]髄液圧
+763 cerebrovascular accident <CVA> 脳血管発作
+764 cerebrovascular disease 脳血管疾患
+765 cerebrovascular disorder 脳血管障害
+766 check-valve mechanism チェックバルブ機構
+767 chemical burn 化学[的]熱傷
+768 chemical disinfection 化学的消毒[法]
+769 chemical injury 化学的損傷
+770 chemokine ケモカイン
+771 chemoreceptor 化学受容器
+772 chemotherapeutic 化学療法の
+773 chemotherapy 化学療法
+774 chest compression 胸部圧迫
+775 chest injury 胸部外傷 胸部損傷
+776 chest lead 胸部誘導[法]
+777 chest respiration 胸[式]呼吸
+778 chest trauma 胸部外傷
+779 chest wall 胸壁
+780 chest wall compliance 胸壁コンプライアンス
+781 chest wall excursion 胸壁運動
+782 chest wall retraction 胸壁陥凹
+783 chest wall rigidity 胸壁硬直
+784 Cheyne-Stokes' respiration チェーン・ストークス呼吸
+785 chloride 塩素 クロード
+786 chloride shift 塩素[イオン]移動 クロライドシフト
+787 choanal atresia 後鼻孔閉鎖[症]
+788 choked disc うっ血乳頭
+789 choked papilla うっ血乳頭
+790 cholinergic コリン作用(作動)
+791 cholinergic agent コリン作用薬 作動薬
+792 cholinergic blocking agent 抗コリン薬
+793 chromaffin cell クロム親和[性]細胞
+794 chromosomal abnormality 染色体異常
+795 chronic active hepatitis 慢性活動性肝炎
+796 chronic bronchitis 慢性気管支炎
+797 chronic critical illness 慢性救急疾患
+798 chronic intoxication 慢性中毒
+799 chronic lung disease <CLD> 慢性肺疾患
+800 chronic obstructive lung disease <COLD> 慢性閉塞性肺疾患
+801 chronic obstructive pulmonary disease
+<COPD> 慢性閉塞性肺疾患
+802 chronic pulmonary emphysema 慢性肺気腫
+803 chronic pulmonary insufficiency of the
+preterm infant <CDIP> 慢性未熟肺不全
+804 chronic renal failure <CRF> 慢性腎不全
+805 chronic respiratory  failure 慢性呼吸不全
+806 chronic respiratory disease 慢性呼吸器疾患
+807 chronic tolerance 慢性耐性
+808 chylopericardium 乳び(糜)心膜[症]
+809 chylothorax 乳び胸
+810 ciliary reflex 毛様体反射
+811 ciliospinal reflex 毛様体脊髄反射
+812 cineangiocardiography 心[臓]血管シネアンジオグ
+ラフィ
+813 circulating blood volume 循環血液量
+814 circulating plasma volume 循環血漿量
+815 circulation time 循環時間
+816 circulatory collapse 循環虚脱
+817 circulatory support 循環補助
+818 circulatory system 循環系
+819 cisternal puncture 大槽穿刺
+820 clearance test クリアランス試験
+821 clinical findings 臨床所見
+822 clinical pathway クリニカルパス
+823 clinical trial 臨床治験
+824 clinicopathological conference <CPC> 臨床病理検討会 症例病理検討会
+825 closed chest cardiac massage 閉胸式心[臓]マッサージ 非開胸心[臓]マッサージ
+826 closed wound 閉鎖創
+827 closing capacity <CC> クロージング・キャパシ
+ティ
+828 closing volume クロージング・ボリューム
+829 clot retraction 血餅退縮
+830 clotting time 凝固時間
+831 clubbed finger [太鼓]ばち(撥)指
+832 CO2 output 二酸化炭素排出量
+833 coagulability 凝固性
+834 coagulant [血液]凝固薬 凝血薬
+835 coagulase コアグラーゼ
+836 coagulation 凝固
+837 coagulation activation 凝固活性化
+838 coagulation factor 凝固因子
+839 coagulation time 凝固時間
+840 coagulator 凝固止血器
+841 coagulopathy 凝固障害 凝血異常
+[[p11]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+842 cocaine コカイン
+843 cogwheel rigidity 歯車様硬直[強直]
+844 cold agglutination 寒冷[赤]血球凝集
+845 cold agglutinin 寒冷凝集素
+846 cold injury 寒冷傷害
+847 cold stress 寒冷ストレス
+848 collapse 虚脱
+849 collateral circulation 副行(側副)循環
+850 collateral ventilation 側副換気
+851 colloid fluid 膠質液
+852 colloid osmotic pressure <COP> 膠質浸透圧 コロイド浸透圧
+853 coma 昏睡
+854 coma position 昏睡体位
+855 comatose 昏睡の
+856 community-acquired pneumonia 市中肺炎
+857 compensated acidosis 代償性アシドーシス
+858 competitive action 競合作用
+859 competitive agent 競合薬
+860 competitive antagonism 競合性拮抗
+861 competitive detoxication 競合的解毒
+862 competitive drug 競合薬
+863 competitive inhibition 競合的抑制
+864 competitive inhibitor 競合[的]抑制薬
+865 complement binding antibody 補体結合抗体
+866 complement fixation 補体結合
+867 complement fixation reaction 補体結合反応
+868 complement fixation test 補体結合試験
+869 complement fixing antibody 補体結合抗体
+870 complete atrioventricular block 完全房室ブロック
+871 compliance コンプライアンス
+872 complication 合併症
+873 compressed air 圧縮空気
+874 compressed gas 圧縮ガス
+875 compressed oxygen 圧縮酸素
+876 compressibility 圧縮性
+877 compression 圧縮 加圧 圧迫
+878 compression atelectasis 圧迫性無気肺
+879 compression fracture 圧迫骨折
+880 computed tomography scanning <CT scan> コンピュータ断層スキャン
+881 computer diagnostics コンピュータ診断[法]
+882 computer simulation コンピュータシミュレー
+ション
+883 concussion 振とう(盪)[症]
+884 condensed oxygen 濃縮酸素
+885 condenser oxygen 酸素濃縮器
+886 conductance コンダクタンス
+887 conduction velocity 伝導速度
+888 conductive floor 伝導床
+889 confined environment 拘禁環境
+890 confinement 拘束 拘禁
+891 confusion 錯乱[状態] 混迷
+892 congenital heart disease 先天[性]心疾患
+893 congenital infection 先天[性]感染
+894 congenital malformation 先天[性]奇形
+895 congestion うっ血 充血
+896 congestive heart failure うっ血[性]心不全
+897 conjunctival oxygen tension 結膜酸素分圧 眼球結膜酸素分圧
+898 conjunctival reflex 結膜反射
+899 conscious 意識のある
+900 consciousness 意識
+901 conservative therapy 保存療法
+902 constrictive pericarditis 収縮性心膜炎
+903 consumption coagulopathy 消費性凝固障害
+904 contact infection 接触感染
+905 contamination 汚染
+906 continuous arteriovenous hemofiltration
+<CAVH> 持続動静脈血液濾過法
+907 continuous drainage 持続排液(膿)[法] 持続ドレナージ
+908 continuous epidural anesthesia 持続硬膜外麻酔[法]
+909 continuous hemodiafiltration<CHDF> 持続[的］血液透析濾過
+910 continuous hemofiltration <CHF> 持続血液濾過
+911 continuous infusion 持続注入
+912 continuous inhalation 持続吸入
+913 continuous intravenous infusion 持続静注
+914 continuous monitoring 持続[連続]的モニタリング
+915 continuous murmur 持続性[心]雑音
+916 continuous positive airway pressure <CPAP> 持続性気道内陽圧[呼吸]
+917 continuous positive pressure ventilation
+<CPPV> 持続陽圧換気
+918 continuous renal replacement　therapy 持続的腎代替療法 持続的血液浄化法
+919 continuous suction apparatus 持続吸引器
+920 continuous suction drainage 持続吸引ドレナージ[法] 持続吸引排液[法]
+921 continuous venovenous hemofiltration 持続的静脈血液濾過
+922 continuously infused medication 持続的薬物療法
+923 controlled hypotension 低血圧法 意図的低血圧
+924 controlled ventilation 調節換気[法]
+925 contusion 挫傷
+[[p12]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+926 convalescence 回復期
+927 convection 対流
+928 convulsant 痙攣(けいれん)誘発物質
+929 convulsion 痙攣(けいれん)
+930 convulsive disorder 痙攣(けいれん)性疾患
+931 cooling system 冷却装置
+932 Coombs test クームス試験
+933 cor pulmonale 肺性心
+934 cord blood 臍帯血
+935 core temperature 深部温
+936 corneal reflex 角膜反射
+937 coronary 冠[状]の
+938 coronary [artery] spasm 冠[動脈]攣縮
+939 coronary angiography <CAG> 冠動脈造影
+940 coronary arteriography <CAG> 冠[状]動脈造影[法]
+941 coronary arteriovenous fistula 冠[状]動静脈瘻
+942 coronary artery 冠[状]動脈
+943 coronary artery bypass grafting 冠動脈バイパス術
+944 coronary artery disease <CAD> 冠[状][動脈]疾患
+945 coronary blood flow <CBF> 冠血流量
+946 coronary circulation 冠循環
+947 coronary death [急性]冠不全死
+948 coronary embolism 冠[状]動脈塞栓症
+949 coronary heart disease 冠[状]動脈[硬化]性疾患
+950 coronary insufficiency 冠[状][動脈]不全
+951 coronary occlusion 冠[状]血管閉塞[症]
+952 coronary sclerosis 冠[状]血管硬化[症]
+953 coronary sinus blood 冠[状]静脈洞血
+954 coronary stenosis 冠[状][動脈]狭窄[症]
+955 coronary T 冠性Ｔ(心電図の)
+956 coronary thrombosis 冠[状][動脈]血栓症
+957 coronary vascular resistance 冠[状]血管抵抗
+958 coronary vasodilator 冠[状]血管拡張薬
+959 coronary vessel 冠[状]血管
+960 correlation 相関
+961 corticosteroid 副腎皮質ステロイド
+962 corticotropin 副腎皮質刺激ホルモン コルチコトロピン
+963 cortisol コルチゾル
+964 costal breathing (respiration) 胸式呼吸
+965 cough reflex 咳反射
+966 countercurrent hypothesis 対向流仮説
+967 coupling time (interval) 連結時間
+968 cramp 痙攣(けいれん)
+969 C-reactive protein <CRP> C反応性たんぱく(蛋白)
+970 creatinine clearance <CCr> クレアチニン・クリアラン
+ス
+971 cricoid pressure 輪状軟骨圧迫
+972 crisis 発作 クリーゼ
+973 critical care 集中治療
+974 critical care medicine 集中治療医学
+975 critical care physician 集中治療医 クリティカル・ケア専門
+医
+976 cross circulation 交差循環
+977 cross infection 交差感染
+978 cross matching 交差[適合]試験
+979 croup クループ，喉頭炎
+980 croupous laryngitis クループ性喉頭炎
+981 crush injury 挫滅外傷
+982 crush syndrome 圧挫症候群
+983 crying vital capacity 啼泣時肺活量
+984 cryoprecipitate 凍結[血液]沈澱物
+985 crystalloid solution 晶質溶液 晶質輪液[剤]
+986 culture 培養
+987 cumulative dosage 蓄積量
+988 cumulative effect 蓄積効果
+989 curative 治癒的 根治的
+990 cutaneous reaction 皮膚反応
+991 cutdown 静脈切開
+992 cutoff frequency 遮断周波数 カットオフ周波数
+993 cyanosis チアノーゼ
+994 cyanotic heart disease チアノーゼ性心疾患
+995 cyclooxygenase-2 シクロオキシナーゼ2
+996 cyclosporin A シクロスポリンA
+997 cytokine サイトカイン
+998 cytotoxic antibody 細胞障害抗体
+999 damping coefficient 減衰係数
+1000 DC defibrillator 直流除細動器
+1001 dead space 死腔
+1002 dead space ratio 死腔率
+1003 dead space ventilation 死腔換気
+1004 debridement 創傷清拭 デブリドマン
+1005 decannulation 抜管[法]
+1006 decerebrate rigidity 除脳硬直
+1007 decision-making 意志決定
+1008 decompensation 代償不全
+1009 decompression 減圧[術] 減圧[法]
+1010 decompression chamber 減圧室 低圧室
+[[p13]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1011 decompression sickness 減圧症
+1012 decontamination 汚染除去
+1013 decorticate rigidity 除皮質硬直
+1014 decubital gangrene 褥創壊疽
+1015 decubital ulcer じょく(褥)瘡[性]潰瘍 圧迫[性]潰瘍
+1016 decubitus 褥瘡 臥位
+1017 deep coma 深昏睡
+1018 deep vein thrombosis 深部静脈血不全[症] 深部静脈血栓症
+1019 defense mechanism 防御機構
+1020 defibrillation 除細動 細動除去
+1021 defibrillator 除細動器
+1022 defibrinated blood 線維素除去血 脱線維素血
+1023 defibrination 脱線維素
+1024 deficiency symptom 欠乏症状 欠落(脱落)症状
+1025 degradation product 分解産物
+1026 dehydration 脱水[症]
+1027 dehydration fever 脱水熱 渇熱
+1028 delay time 遅延時間
+1029 delayed action 遅延作用 遅延反応
+1030 delayed allergy 遅延[型]アレルギー
+1031 delayed hypersensitivity 遅延[型]過敏症
+1032 delayed reaction 遅延反応
+1033 delayed[-type] hypersensitivity 遅延[型]過敏症(反応)
+1034 delirious せん(譫)状態の 精神錯乱の
+1035 delirium せん(譫)妄状態 精神錯乱
+1036 demand hypoxia 要求性低酸素症
+1037 demand pacing デマンド型ペーシング
+1038 dementia 痴呆
+1039 denervation supersensitivity 脱神経性過敏症(状態)
+1040 denitrogenation 脱窒素[法]
+1041 densitometer 濃度計
+1042 deoxyhemoglobin 脱酸素ヘモグロビン 還元ヘモグロビン
+1043 dependence 依存[症]
+1044 dependent lung 下位肺
+1045 dependent zone 下位領域
+1046 depolarizing  muscle relaxant 脱分極性筋し(弛)緩薬
+1047 depolarizing agent 脱分極薬
+1048 depressant 抑制薬(物質) 抑制の
+1049 depressive reaction 抑うつ反応
+1050 depth EEG 深部脳波
+1051 descending infecction 下行性感染
+1052 desensitization 脱感作
+1053 detergent 界面活性剤 洗浄剤
+1054 detoxication 解毒
+1055 dexmedetomidine デクスメデトミジン
+1056 dextrocardia 右心症 右胸心
+1057 dextrose solution ブドウ糖輪液[剤]
+1058 diabetes [mellitus] 糖尿病
+1059 diabetes insipidus 尿崩症
+1060 diabetic acidosis 糖尿病[性]アシドーシス
+1061 diabetic coma 糖尿病[性]昏睡
+1062 diabetic gangrence 糖尿病性壊疽
+1063 diabetic ketoacidosis 糖尿病[性]ケトアシドーシ
+ス
+1064 diabetic nephropathy 糖尿病[性]腎症 糖尿病[性]腎障害
+1065 diabetic neuropathy 糖尿病[性]ニューロパチー 糖尿病[性]神経症
+1066 diabetic retinopathy 糖尿病性網膜症
+1067 diagnostic agent 診断[用]薬
+1068 diagnostic drug 診断[用]薬
+1069 dialysis 透析
+1070 dialysis disequilibrium syndorome 透析不均衡症候群
+1071 dialyzer 透析器
+1072 diaphragmatic fatigue 横隔膜疲労
+1073 diaphragmatic flutter 横隔膜粗動
+1074 diaphragmatic hernia 横隔膜ヘルニア
+1075 diaphragmatic paralysis 横隔膜麻痺
+1076 diaphragmatic respiration 横隔膜呼吸
+1077 diastolic 拡張期[の]
+1078 diastolic blood pressure 拡張期[血]圧
+1079 diastolic filling 拡張期充満
+1080 diastolic murmur 拡張期雑音
+1081 diastolic phase 拡張期
+1082 diastolic pressure 拡張期圧
+1083 diastolic volume 拡張期[心]容積
+1084 dicrotic notch 重複切痕
+1085 dicrotic pulse 重拍脈 重複脈
+1086 dicrotic wave 重拍[脈]波 重複[脈]派
+1087 differential circuit 差動回路
+1088 differential diagnosis 鑑別診断
+1089 differential lung ventilation 分離肺換気 [左右別]独立肺換気
+1090 diffuse density びまん性陰影
+1091 diffuse interstitial pulmonary fibrosis びまん性間質性肺線維症
+1092 diffuse peritonitis 広汎性(汎発性)腹膜炎
+1093 diffusibility 拡散性
+1094 diffusing capacity 拡散能
+1095 diffusion anoxia 拡散性無酸素症
+1096 diffusion hypoxia 拡散性低酸素[症]
+[[p14]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1097 diffusion impairment 拡散障害
+1098 diffusion limitation 拡散制限 拡散障害
+1099 diffusion oxygenation 拡散性酸素附加(酸素化)
+1100 diffusion respiration 拡散呼吸
+1101 diffusion ventilation 拡散換気
+1102 digital display ディジタル表示
+1103 digital subtraction angiography <DSA> 減算血管造影[法]
+1104 digitalization ジギタリス投与 ジギタリス飽和
+1105 dilated cardiomyopathy 拡張型心筋症
+1106 dilution acidosis 希釈性アシドーシス
+1107 diphteric laryngitis ジフテリア[性]喉頭炎
+1108 diphtheria antitoxin ジフテリア抗毒素
+1109 diphtherial pseudomembrane ジフテリア偽膜
+1110 diphtheric croup ジフテリア[性]喉頭炎
+1111 dipolar electrode 双極電極
+1112 disaster 災害
+1113 discharge 退院(室) 排泄[物] 分泌[物]
+1114 discharge note 退院(室)記事 退院(室)時記載
+1115 discomfort 不快感
+1116 discomfort index 不快指数
+1117 disequilibrium syndrome 不均衡症候群
+1118 disinfectant 消毒薬
+1119 disinfection 消毒[法]
+1120 disorientation 失見当[識] 見当識障害
+1121 dissecting aneurysm 解離性動脈瘤
+1122 disseminated 播種性[の] 汎発性[の]
+1123 disseminated intravascular coagulation
+<DIC>
+播種性(汎発性)血管内凝固
+[症候群]
+1124 dissemination 播種
+1125 dissociation constant 解離定数
+1126 dissociation curve 解離曲線
+1127 dissolved oxygen 溶存酸素
+1128 distilled water 蒸留水
+1129 disuse atrophy 廃用性萎縮 低活動[性]萎縮
+1130 diuresis 利尿
+1131 diuretic 利尿薬
+1132 diver's disease 潜水病 潜函病
+1133 dizziness めまい
+1134 doll's eye sign 人形の目徴候
+1135 donor 提供者 供与者 ドナー
+1136 do-not-intubate orders 挿管適応外指示
+1137 Doppler echocardiography ド[ッ]プラ[ー]心エコー図
+検査
+1138 dose-response curve 用量反応曲線
+1139 double blind test 二重盲検試験
+1140 double lumen endobronchial catheter 二腔気管支カテーテル ダブル・ルーメン気管支
+カテーテル
+1141 double-lumen catheter ダブル・ルーメン・二腔カ
+テーテル
+ダブルルーメンカテーテ
+ル
+1142 double-lumen tube 二腔管 ダブル・ルーメン・
+チューブ
+1143 drain 排液(膿)管 ドレーン
+1144 drainage 排液(膿)管 ドレナージ
+1145 drainage tube ドレナージ管 ドレナージチューブ 排液管
+1146 drip infusion 点滴輸注[法] 点滴静注[法] 点滴
+1147 driving force 駆動力 推進力
+1148 droplet infection 飛沫(しぶき)感染
+1149 drowning 溺水 溺死
+1150 drowsiness し(嗜)眠状態
+1151 drowsy し(嗜)眠の
+1152 drug allergy 薬物(薬剤)アレルギー
+1153 drug dependence 薬物依存[症]
+1154 drug eruption 薬疹
+1155 drug excretion 薬物排泄
+1156 drug resistance 薬物耐性
+1157 drug therapy 薬物療法
+1158 drug tolerance 耐薬性，薬剤耐性
+1159 drug withdrawal symptom 退薬症状 禁断症状 薬物離脱症状
+1160 drug[induced] allergy 薬物(薬剤)[誘発]アレル
+ギー
+1161 drug-induced hepatitis 薬物性肝炎
+1162 drug-induced shock 薬物ショック
+1163 dry cough からせき(空咳)
+1164 dry rale 乾性ラ音
+1165 dye dilution test 色素希釈テスト(試験)
+1166 dynamic compliance 動的コンプライアンス
+1167 dynamic response 動的反応性
+1168 dysfunction 機能障害 機能不全
+1169 dysphagia えん(嚥)下困難 えん(嚥)下障害
+1170 dyspnea on exertion 労作時呼吸困難
+1171 ear oximeter 耳介オキシメータ
+1172 early goal-directed therapy 至適目標値早期到達療法
+1173 echocardiogram 心エコー図
+1174 echocardiography 心エコー図検査
+1175 eclampsia 子かん(癇)
+1176 eclamptic uremia 子癇性　尿毒症
+1177 ectopic beat 異所性拍動(収縮)
+1178 ectopic focus 異所性始点(中枢)
+[[p15]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1179 ectopic rhythm 異所性調律
+1180 edema 浮腫 水腫
+1181 edematous 浮腫状(性)の 水腫状(性)の
+1182 effective alveolar ventilation 有効肺胞換気[量]
+1183 effective half-life 有効半減期 実効半減期 効果半減期
+1184 effective hepatic blood flow 有効肝血流量
+1185 effective renal blood flow 有効腎血流量
+1186 effective renal plasma flow 有効腎血漿流量
+1187 effective ventilation 有効換気量
+1188 effort(exertional) angina 労作性狭心症
+1189 effort angina 労作性狭心症
+1190 effusion 滲出液[貯留]
+1191 ejection fraction <EF> 駆出分画 駆出率
+1192 ejection period 駆出期
+1193 ejection time <ET> 駆出時間
+1194 electric axis 電気軸
+1195 electric burn 電気熱傷 電撃熱傷
+1196 electric cautery 電気焼灼 電気消灼[法]
+1197 electric defibrillation 電気的除細動
+1198 electric injury 電気損傷 電撃傷
+1199 electric shock 電気ショック 感電 電撃
+1200 electric skin resistance 皮膚電気抵抗
+1201 electric spark 電気火花 スパーク
+1202 electric stimulus 電気[的]刺激
+1203 electrical axis deviation 電気軸偏位
+1204 electrocardiogram <ECG・EKG> 心電図
+1205 electrocardiograph 心電計
+1206 electrocardiography 心電図記録[法] 心電図検査[法]
+1207 electrocauterization 電気焼灼
+1208 electrocauterizer 電気メス 電気焼灼器
+1209 electrocoagulation 電気凝固[法]
+1210 electrode 電極
+1211 electrodiagnosis 電気的診断[法]
+1212 electroencephalogram <EEG> 脳波
+1213 electroencephalograph 脳波計
+1214 electroencephalography 脳波記録[法] 脳波検査[法]
+1215 electrolyte 電解質
+1216 electrolyte balance 電解質平衡 電解質バランス
+1217 electrolyte disturbance 電解質障害
+1218 electrolyte imbalance 電解質平衡異常 電解質[平衡]異常 電解質平衡失調
+1219 electrolyte metabolism 電解質代謝
+1220 electromagnetic flowmeter 電磁流量計
+1221 electromanometer 電気圧力計
+1222 electromyogram 筋電図
+1223 electron spin resonance 電子スピン共鳴
+1224 electronics 電子工学 エレクトロニクス
+1225 electrophysiogical study <EPS> 電気生理学的検査
+1226 electrophysiology 電気生理学
+1227 electroshock 電気ショック
+1228 electrotonometer 電気圧力計
+1229 embolic infarct 塞栓性梗塞
+1230 embolic thrombosis 塞栓性血栓症
+1231 embolism 塞栓症
+1232 emergence 覚醒
+1233 emergence excitement 覚醒時興奮
+1234 emergency 緊急[事態] 救急
+1235 emergency care 救急処置 救命救急処置
+1236 emergency care physician 救急医 救急専門医 救命救急医
+1237 emergency life saving technician 救急救命士
+1238 emergency medical service 救急医療
+1239 emergency operation 救急(緊急)手術
+1240 emergency test 緊急検査
+1241 emergency treatment 救急処置 緊(救)処置
+1242 emetic 催吐性の 催吐薬
+1243 emphysema 気腫
+1244 emphysematous 気腫状の 気腫性
+1245 encephalogram 脳造影(撮影)図
+1246 encephalography 脳造影(撮影)[法] 脳写
+1247 encephalopathy 脳症 脳障害
+1248 end-diastole 拡張終(末)期
+1249 end-diastolic 拡張終(末)期の
+1250 end-diastolic pressure <EDP> 拡張終(末)期圧
+1251 end-diastolic volume <EDV> 拡張終(末)期容積
+1252 end-inspiratory pause 終末吸気休止期 吸気終末休止期
+1253 endobronchial block 気管支[内腔]ブロック(遮
+断)
+1254 endobronchial blocker 気管支[内腔]ブロッカー(遮
+断子)
+1255 endobronchial catheter 気管支内カテーテル 気管支カテーテル
+1256 endobronchial fiberscope 気管支ファイバースコープ
+1257 endobronchial insufflation 気管支内吹送法 気管支内インサフレー
+ション 気管支吹送法
+1258 endobronchial intubation 気管支内挿管 気管支挿管
+1259 end-of-life care 終末[期]医療
+1260 end-of-life decision making 終末[期]医療の意志決定
+1261 endogenous infection 内因[性]感染
+1262 endogenous pyrogen 内因性発熱物質
+[[p16]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1263 endoscopic biopsy 内視鏡生検
+1264 endothelial cell 内皮細胞
+1265 endothelial injury 内皮傷害
+1266 endothelium 内皮
+1267 endotoxemia エンドトキシン血症
+1268 endotoxic shock 内毒素ショック エンドトキシンショック
+1269 endotoxin 内毒素 エンドトキシン
+1270 endotracheal 気管内の
+1271 endotracheal catheter →tracheal catheter参照
+1272 endotracheal insufflation →tracheal [gas] insufflation
+参照
+1273 endotracheal intubation 気管挿管
+1274 endotracheal tube →tracheal tube参照
+1275 enema 浣腸 浣腸剤
+1276 energy balance エネルギー出納 エネルギーバランス
+1277 energy expenditure エネルギー消費量
+1278 energy metabolism エネルギー代謝
+1279 enteral nutrition 腸管(経腸)栄養[法]
+1280 enteric bacteria 腸内細菌
+1281 enterobacteria 腸内細菌
+1282 environmental temperature 環境温度
+1283 enzyme induction 酵素誘導
+1284 epidural analgesia 硬膜外無痛法
+1285 epidural anesthesia 硬膜外麻酔[法]
+1286 epidural hematoma 硬膜外血腫
+1287 epidural hemorrhage 硬膜外出血
+1288 epidural space 硬膜外腔
+1289 epiglottitis 喉頭蓋炎
+1290 epistaxis 鼻出血
+1291 epithelium ciliated 線毛上皮
+1292 equilibrium potential 平衡電位
+1293 ergogram エルゴグラム
+1294 ergometer 作業計 エルゴメータ
+1295 erythrocyte sedimentation rate <ESR> 赤血球沈降速度 血沈
+1296 escaped beat 補充収縮
+1297 escaped rhythm 補充調律
+1298 esophageal atresia 食道閉鎖[症]
+1299 esophageal pressure 食道内圧
+1300 esophageal stethoscope 食道内聴診器
+1301 esophageal temperature 食道温
+1302 essential amino asids 必須アミノ酸
+1303 essential fatty asid 必須脂肪酸
+1304 etiology 病因 病因学
+1305 evidence-based medicine<EBM> 科学的根拠に基づく医療 実証医学
+1306 evoked potential 誘発電位
+1307 exacerbation 増悪
+1308 exanguination 瀉血
+1309 excess lactate 過剰乳酸 乳酸過剰
+1310 exchange transfusion 交換輸血
+1311 excitation-contraction <E-C> coupling 興奮収縮連関
+1312 excretion 排出 排泄
+1313 excretory 排出性の 排泄性の
+1314 exercise tolerance test 運動耐容試験
+1315 exertional dyspnea 労作性呼吸困難
+1316 exertional heatstroke 運動誘発性熱中症
+1317 exhaust gas 排出ガス
+1318 exhaust system 排出装置
+1319 exogenous 外因[性]の
+1320 exogenous infection 外因感染
+1321 exotoxin エクソトキシン 外毒素
+1322 expectorant 去痰薬
+1323 expectorate 喀出物
+1324 expectoration 喀出
+1325 expiratory 呼息(性)の 呼気の
+1326 expiratory center 呼息中枢
+1327 expiratory dyspnea 呼息性呼吸困難
+1328 expiratory flow 呼気流 呼気流量
+1329 expiratory gas 呼気[ガス]
+1330 expiratory muscle 呼息筋 呼気筋
+1331 expiratory phase 呼息(気)相
+1332 expiratory reserve volume <ERV> 呼気予備量
+1333 expiratory resistance 呼気抵抗
+1334 expiratory stridor 呼気性喘鳴
+1335 expiratory vital capacity 呼気肺活量
+1336 expired air 呼気
+1337 exploratory biopsy 診査生検 試験生検
+1338 exploratory incision 試験(診査)切開[術]
+1339 exploratory laparotomy 試験(診査)開腹[術]
+1340 explosion 爆発
+1341 explosion injury 爆傷
+1342 explosion risk 爆発危険性
+1343 explosion-proof 防爆性の
+1344 exsudate 滲出液
+1345 exsudation 滲出
+1346 exsudative 滲出性の
+1347 extension reflex 伸展反射
+1348 external bleeding 外出血
+[[p17]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1349 external cardiac massage 体外式心[臓]マッサージ 《閉胸式心[臓]マッサー
+ジ》
+《非開胸心[臓]マッサー
+ジ》
+1350 external defibrillator 体外[式]除細動器
+1351 external hemorrhage 外出血
+1352 external pacemaker 体外[式]ペースメーカ
+1353 extracellular fluid <ECF> 細胞外液
+1354 extracellular space 細胞外空間 細胞外間隙 細胞外腔
+1355 extracorporeal circulation 体外循環
+1356 extracorporeal membrane oxygenation
+<ECMO> 体外膜型肺 膜型人工肺による肺機能
+補助
+体外式膜型人工肺による
+酸素化
+1357 extracorporeal ultrafiltration method 体外限外濾過法
+1358 extraction ratio 除去率
+1359 extradural bleeding 硬膜外出血
+1360 extradural hematoma 硬膜外血腫
+1361 extradural hemorrhage 硬膜外出血
+1362 extrahepatic obstructive jaundice 肝外閉塞性黄疸
+1363 extrarenal diuretic 腎外性利尿薬
+1364 extrasystole 期外収縮
+1365 extravasation 血管外遊出 血管外流出
+1366 extravascular lung water 血管外肺水分量
+1367 extremely immature extremely low-birth-
+weight infant 超未熟児
+1368 extubation 抜管
+1369 exudative ascites 滲出性腹水
+1370 eye movement 眼球運動
+1371 eyelid reflex 眼瞼反射
+1372 face mask 顔マスク フェイスマスク
+1373 face tent 顔テント フェイステント
+1374 face-down position 腹[臥]位
+1375 facilitated diffusion 促通拡散 促進拡散
+1376 fainting 失神 気絶
+1377 fanning reflex 開扇反射
+1378 fascicular contraction 線維束[性]収縮
+1379 fasciculation 線維束[性]収縮
+1380 fat embolism 脂肪塞栓[症]
+1381 fat emulsion 脂肪乳剤
+1382 fat necrosis 脂肪え(壊)死
+1383 fatal 致死の 致命的な
+1384 fatality 致死率 致命率
+1385 febrile convulsion 熱性痙攣
+1386 febrile state 発熱状態
+1387 feedback 帰還 フィードバック
+1388 feeding tube 栄養チューブ
+1389 fetal asphyxia 胎児仮死
+1390 fetal blood 胎児血
+1391 fetal blood sampling 胎児採血
+1392 fetal circulation 胎児循環
+1393 fetal death 胎児死
+1394 fetal distress 胎児仮死 胎児切迫仮死
+1395 fetal electrocardiogram 胎児心電図
+1396 fetal growth curves 胎児発育曲線
+1397 fetal hemoglobin 胎児性ヘモグロビン 胎児性血色素
+1398 fetal therapy 胎児治療
+1399 feto-fetal transfusion syndrome 胎児間輸血症候群
+1400 fetomaternal transfusion 胎児母体間輸血
+1401 fetus 胎児
+1402 fiberscope ファイバースコープ
+1403 fibrillation 細動
+1404 fibrin 線維素 フィブリン
+1405 fibrin clot 線維素塊 フィブリンクロット フィブリン(線維素)凝塊
+(クロット)
+1406 fibrin plug フィブリン栓子
+1407 fibrinogen 線維素原 フィブリノゲン
+1408 fibrinogen and fibrin degradation pruducts
+<FDP>
+フィブリノゲン・フィブリ
+ン分解産物
+1409 fibrinolysin 線維素溶解酵素 フィブリン溶解酵素
+1410 fibrinolysis 線維素溶解[現象] 線溶[現象]
+1411 fibrinolytic agent 線維素溶解物質 線溶物質
+1412 fibrinolytic purpura 線維素溶解性紫斑病
+1413 fibrosis 線維症 線維形成
+1414 Fick's principle フィックの原理
+1415 filter フィルタ 濾過器 濾過板
+1416 filtration fraction <FF> 濾過分画
+1417 filtration rate 濾過比 濾過率
+1418 finger plethysmograph 指プレチスモグラフ 指容積脈波
+1419 first aid 救急 救急処置 応急処置 ファースト
+エイド
+1420 first aid kit 救急箱
+1421 flaccid paralysis 弛緩性麻痺
+1422 flaccidity 弛緩性
+1423 flail chest 胸郭(壁)動揺 フレイルチェスト
+1424 flammability 引火性
+1425 flammable gas 引火性ガス
+1426 flexible fiberscope 軟性ファイバースコープ
+1427 floppy infant 筋緊張低下児
+1428 flow rate 流量
+1429 flow resistance 気流抵抗
+[[p18]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1430 flow velocity 流速
+1431 flowmeter 流量計
+1432 fluid balance 体液平衡 体液バランス 水分バランス
+1433 fluid intake 水分摂取[量]
+1434 fluid replacement 補液
+1435 fluid resuscitation 強制補液
+1436 fluid therapy 輸液療法
+1437 flutter 粗動
+1438 focal atelectasis 局在性無気肺 限局性無気肺
+1439 focal epilepsy 病巣てんかん 《運動中枢損傷性てんか
+ん》
+1440 focal hemorrhage 限局性出血
+1441 focal infection 病巣感染
+1442 focal pneumonia 局在性肺炎 限局性肺炎
+1443 food poisoning 食中毒
+1444 forced breathing 強制呼吸 努力呼吸
+1445 forced diuresis 強制利尿
+1446 forced expiration 強制呼出 努力性呼出
+1447 forced expiratory volume [最大]努力呼気肺活量
+1448 forced respiration 強制呼吸 努力呼吸
+1449 forced vital capacity 努力性肺活量
+1450 foreign body 異物
+1451 Fowler's position ファウラー[体]位
+1452 free acid 遊離酸
+1453 free carbon dioxide 遊離二酸化炭素
+1454 free fatty acid <FFA> 遊離脂肪酸
+1455 free radical 遊離基 フリーラジカル
+1456 free water 自由水 遊離水
+1457 free water clearance 自由水クリアランス
+1458 frequency analysis 周波数分析
+1459 fresh blood 新鮮血
+1460 fresh frozen plasma <FFP> 新鮮凍結血漿
+1461 frictional resistance 摩擦抵抗
+1462 frostbite 凍傷
+1463 full stomach フルストマック 充満胃
+1464 fulminant 劇症の
+1465 fulminant hepatitis 劇症肝炎
+1466 function test 機能検査
+1467 functional dead space 機能的死腔
+1468 functional disorder 機能障害
+1469 functional murmur 機能性雑音(生理的雑音)
+1470 functional residual capacity <FRC> 機能的残気量
+1471 fungal infection 真菌感染[症]
+1472 fungus 真菌
+1473 funnel breast 漏斗胸
+1474 funnel chest 漏斗胸
+1475 fusion beat 融合収縮
+1476 G protein G蛋白
+1477 gall 胆汁
+1478 gallbladder 胆のう
+1479 gallop rhythm 奔馬[性]調律
+1480 ganglion blockade [神経]節遮断
+1481 ganglion blocker [神経]節遮断薬
+1482 ganglionic blockade [神経]節遮断 [神経]節遮断薬
+1483 ganglionic blocking action [神経]節遮断作用
+1484 ganglionic blocking agent [神経]節遮断薬
+1485 ganglions blockade [神経]節遮断
+1486 gas absorption ガス吸収
+1487 gas analyser ガス分析器
+1488 gas analysis ガス分析
+1489 gas exchange ガス交換
+1490 gas gangrene ガス壊疸
+1491 gas mixing ガス混合
+1492 gas poisoning ガス中毒
+1493 gas sterilizer ガス滅菌器
+1494 gaseous gangrene ガスえ(壊)疸
+1495 gasping あえ(喘)ぎ
+1496 gasping respiration あえ(喘)ぎ呼吸
+1497 gastric cooling 胃冷却法
+1498 gastric dilatation 胃拡張
+1499 gastric emptying 胃内容排出
+1500 gastric emptying time 胃[内容]排出時間
+1501 gastric evacuation 胃内容排出
+1502 gastric irrigation 胃洗[浄]
+1503 gastric lavage 胃洗浄
+1504 gastroesophageal reflux 胃食道逆流[現象]
+1505 gastrointestinal 胃腸[の]
+1506 gene 遺伝子
+1507 general hypothermia 全身低体温
+1508 general reaction 全身反応
+1509 general treatment 一般療法 全身療法
+1510 generalized anaphylaxis 全身アナフィラキシー
+1511 generalized edema 全身[性]浮(水)腫
+1512 generalized infection 全身感染[症]
+1513 generalized peritonitis 広汎性(汎発性)腹膜炎
+1514 gestational age 在胎月令(齢)
+1515 gestosis 妊娠中毒
+[[p19]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1516 glomerular filtrate [腎]糸球体濾液
+1517 glomerular filtration 糸球体濾過
+1518 glomerular filtration rate <GFR> 糸球体濾過量 糸球体濾過率
+1519 glottis (glottic) edema 声門浮(水)腫 喉頭浮(水)腫
+1520 glucocorticoid 糖質コルチコイド グルココルチコイド
+1521 gluconeogenesis 糖[質]新生
+1522 glucose tolerance 耐糖能
+1523 glucose tolerance test <GTT> ブドウ糖負荷試験
+1524 glycogenolysis 糖原分解[作用] 糖原生成[作用]
+1525 glycolysis 解糖[作用]
+1526 goiter 甲状腺腫
+1527 gout 痛風
+1528 graft 移植片 移植
+1529 grafting 移植[術]
+1530 Gram-negative bacteria グラム陰性菌
+1531 Gram-negative rod グラム陰性桿菌
+1532 Gram-positive bacteria グラム陽性菌
+1533 Gram-positive coccus グラム陽性球菌
+1534 granulation 肉芽 肉芽形成
+1535 grasp[ing] reflex にぎり反射 把握反射
+1536 grounding 接地 アース
+1537 grunting 呻吟 (うめき) (苦しみうなること)
+1538 gunshot wound 銃創 射創
+1539 H antigen Ｈ抗原
+1540 Hageman factor ハーゲマン因子 《XII因子》
+1541 hair line 毛髪線 ヘアーライン
+1542 half-life 半減期
+1543 haptoglobin ハプトグロビン
+1544 head  trauma 頭部外傷
+1545 head injury 頭部外傷
+1546 head-down position 頭低位
+1547 hearing loss 難聴
+1548 heart beat 心拍[動]
+1549 heart failure 心不全
+1550 heart murmur 心雑音
+1551 heart rate 心拍数
+1552 heart shadow 心[臓]陰影
+1553 heart sound 心音
+1554 heart transplantation 心臓移植
+1555 heart-lung preparation 心肺標本
+1556 heat accumulation うつ熱
+1557 heat balance 熱平衡
+1558 heat collapse 熱虚脱
+1559 heat exchanger 熱交換器
+1560 heat retention うつ熱
+1561 heat shock protein 熱ショック蛋白
+1562 heat stroke 熱射病
+1563 heated humidifier 加温加湿器
+1564 heavy-for-dates 在胎期間・過重量児
+1565 helium/oxygen inhalation therapy ヘリウム・酸素吸入療法
+1566 hemagglutination [赤]血球凝集[反応]
+1567 hemagglutinin [赤]血球凝集素
+1568 hematemesis 吐血
+1569 hematogenous 血液原性の 血行性の
+1570 hematogenous dissemination 血行性播種
+1571 hematogenous infection 血行性感染
+1572 hematoma 血腫
+1573 hematuria 血尿
+1574 hemiblock 束枝(片側，ヘミ)ブロック
+1575 hemiparesis 不全片麻痺
+1576 hemiplegia 片麻痺
+1577 hemoadsorption 血液吸着
+1578 hemochromatosis 血色素症 ヘモクロマトーシス
+1579 hemoconcentration 血液濃縮
+1580 hemodiafiltration <HDF> 血液濾過透析
+1581 hemodialysis <HD> 血液透析
+1582 hemodialyzer 血液透析器
+1583 hemodynamic 血行力学の 血行動態の
+1584 hemodynamics 血行力学 血行動態
+1585 hemofiltration <HF> 血液濾過
+1586 hemoglobin ヘモグロビン
+1587 hemoglobin index ヘモグロビン指数 血色素指数
+1588 hemoglobinemia ヘモグロビン血症
+1589 hemoglobinuria 血色素尿[症] ヘモグロビン尿
+1590 hemolysin 溶血素
+1591 hemolysis 溶血
+1592 hemolytic antibody 溶血抗体
+1593 hemolytic crisis 溶血クリーゼ
+1594 hemolytic jaundice 溶血性黄疸
+1595 hemoperfusion 血液灌流
+1596 hemopericardium 心膜腔血腫
+1597 hemoperitoneum 腹腔内血腫
+1598 hemophagocytosis 血球貧食
+1599 hemopneumothorax 血気胸
+1600 hemoptysis 喀血
+1601 hemorrhage external 外出血
+[[p20]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1602 hemorrhagic 出血[性]の
+1603 hemorrhagic ascites 出血[性]腹水 血性腹水
+1604 hemorrhagic diathesis 出血[性]素因(体質) 出血[性]素因
+1605 hemorrhagic disease 出血[性]疾患
+1606 hemorrhagic effusion 出血性滲出液[貯留] 血性滲出液[貯留]
+1607 hemorrhagic infarct 出血[性]梗塞
+1608 hemorrhagic infarction 出血性梗塞 出血[性]梗塞
+1609 hemorrhagic purpura 出血性紫斑病
+1610 hemorrhagic shock 出血[性]ショック
+1611 hemosiderosis ヘモジデリン沈着[症]
+1612 hemostatic agent 止血薬
+1613 hemothorax 血胸
+1614 heparin-induced thrombocytopenia ヘパリン起因性血小板減少
+症
+1615 heparinization ヘパリン化
+1616 heparinized blood ヘパリン[添]加血
+1617 hepatic ascites 肝性腹水
+1618 hepatic blood flow 肝血流量
+1619 hepatic coma 肝性昏睡
+1620 hepatic encephalopathy 肝性脳症
+1621 hepatic failure 肝不全
+1622 hepatic insufficiency 肝機能不全
+1623 hepatization 肝臓様変化
+1624 hepatocellular jaundice 肝細胞性黄疸
+1625 hepatorenal syndrome 肝腎症候群
+1626 Hering-Breuer relfex ヘリング・ブロイヤー反射 (ヘリング・ブロイエル反
+射) 《肺迷走神経呼吸反射》
+1627 hetero transplantation 異種移植[術]
+1628 heterotopic transplantation 異所性移植
+1629 high frequency artifical ventilation 高頻度人工換気
+1630 high frequency jet ventilation <HFJV> 高頻度ジェット換気[法]
+1631 high frequency oscillation <HFO> 高頻度振動[法] 高頻度振動呼吸[法]
+1632 high frequency oscillatory ventilation 高頻度振動換気[法]
+1633 high frequency transtracheal jet ventilation 経気管的高頻度ジェット換
+気[法]
+1634 high frequency ventilation <HFJ> 高頻度換気[法]
+1635 high-pass filter ハイパス・フィルタ
+1636 high-posterior infarction 高位後壁[心筋]梗塞
+1637 high-risk infant ハイリスク児
+1638 histocompitibility antigen 組織適合抗原 組織適合性抗原
+1639 histotoxic anoxia 組織中毒性無酸素[症]
+1640 histotoxic hypoxia 組織中毒性低酸素[症]
+1641 hoarseness 嗄声
+1642 holodiastolic murmur 全拡張期雑音
+1643 holosystolic murmur 全収縮期雑音
+1644 holter ECG ホルター心電図
+1645 home oxygen therapy <HOT> 在宅酸素療法
+1646 home ventilator 在宅人工呼吸器
+1647 home ventilator therapy 在宅人工呼吸療法 在宅ベンチレータ療法
+1648 homoplastic transplantation 同種移植[術]
+1649 honeycomb lung 蜂巣状肺
+1650 hospital infection 院内感染
+1651 humidification 加湿
+1652 humidifier 加湿器
+1653 humoral [体]液性の
+1654 humoral immunity [体]液性免疫
+1655 humoral regulation 液性調節
+1656 hyaline degeneration 硝子膜変性 ヒアリン変性
+1657 hyaline membrane 硝子膜 ヒアリン膜
+1658 hyaline membrane disease 硝子膜症 ヒアリン膜症
+1659 hydrogen ion concentration 水素イオン濃度
+1660 hydrogen ion exponent 水素イオン指数 pH
+1661 hydropericardium 心のう水腫
+1662 hydrops fetalis 胎児水腫
+1663 hydrostatic pressure 静水圧
+1664 hyoxic hypoxia 低酸素性低酸素[症]
+1665 hyperbaric 高圧の 高気圧の
+1666 hyperbaric atmosphere 高[気]圧環境
+1667 hyperbaric chamber 高[気]圧酸素室 高[気]圧室
+1668 hyperbaric medicine 高[気]圧医学
+1669 hyperbaric oxygen 高[気]圧酸素
+1670 hyperbaric oxygen chamber 高[気]圧酸素室
+1671 hyperbaric oxygen therapy 高[気]圧酸素療法
+1672 hyperbilirubinemia 高ビリルビン血症
+1673 hypercalcemia 高カルシウム血症
+1674 hypercapnemia 高二酸化炭素血症
+1675 hypercapnia 高二酸化炭素症
+1676 hypercapnic coma 高二酸化炭素性昏睡
+1677 hyperchloremia 高塩素血症
+1678 hypercoagulability 凝固[性]亢進
+1679 hypercoagulable 凝固[性]亢進の
+1680 hyperexcitability 興奮性亢進
+1681 hyperfibrinogenemia 線維素原(高フィブリノゲ
+ン)血症
+1682 hyperfunction 機能亢進
+1683 hyperglycemia 高血糖[症] 高ブドウ糖血症
+1684 hyperglycemic glycosuria 高血糖性糖尿
+[[p21]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1685 hyperglycemic hyperosmolar non-ketotic
+coma
+高血糖性高滲透圧性非ケト
+ン性昏睡
+1686 hyperinflation 過膨張
+1687 hyperkalemia 高カリウム血症
+1688 hypermetabolism 代謝亢進
+1689 hypernatremia 高ナトリウム血症
+1690 hyperosmosis 高浸透圧
+1691 hyperoxemia 酸素過剰血症 高酸素血症
+1692 hyperoxia 高酸素症
+1693 hyperpnea 過剰呼吸
+1694 hyperpotassemia 高カリウム血[症]
+1695 hyperpyrexia 高熱[症] 過高熱
+1696 hypersecretion 分泌過多
+1697 hypersensitivity 過敏性
+1698 hypertensive cerebral hemorrhage 高血圧性脳出血
+1699 hypertensive crisis 高血圧性危機 高血圧性クリーゼ
+1700 hypertensive encephalopathy 高血圧性脳症
+1701 hypertensive heart disease 高血圧性心疾患
+1702 hypertensive nephrosclerosis 高血圧性腎硬化[症]
+1703 hyperthermia 高体温 高熱[症]
+1704 hyperthyroidism 甲状腺機能亢進[症]
+1705 hypertonic 高張[性]の
+1706 hypertonic dehydration 高張性脱水[症]
+1707 hypertonic salt solution 高張食塩(水)
+1708 hypertonic solution 高張液
+1709 hypertonicity 高張性 高浸透圧性
+1710 hypertrophic cardiomyopathy <HCM> 肥大型心筋症
+1711 hypertrophic obstructive cardiomyopathy
+<HOCM> 肥大型閉塞性心筋症
+1712 hyperventilation 過換気
+1713 hyperventilation syndrome 過換気症候群
+1714 hyperventilation tetany 過換気テタニー
+1715 hypobaric 低圧の 低気圧の
+1716 hypocalcemia 低カルシウム血症
+1717 hypochloremic alkalosis 低塩素性アルカローシス
+1718 hypochloremic uremia 低塩素血性尿毒症
+1719 hypocoagulability 凝固[性]低下
+1720 hypocoagulable 凝固[性]低下の
+1721 hypofibrinogenemia 低線維素原(フィブリノゲ
+ン)血症
+1722 hypofunction 機能低下
+1723 hypoglycemia 低血糖[症] 低ブドウ糖血症
+1724 hypoglycemic agent 血糖降下薬
+1725 hypoglycemic coma 低血糖[性]昏睡 低血糖性昏睡
+1726 hypokalemia 低カリウム血症
+1727 hyponatremia 低ナトリウム血症
+1728 hypoplastic lung 低形成肺
+1729 hypopotassemia 低カリウム血症
+1730 hypoprothrombinemia 低プロトロンビン血症
+1731 hypostatic pneumonia 沈下性肺炎
+1732 hypotension 低血圧[症]
+1733 hypotensive drug 降圧薬 血圧降下薬
+1734 hypothalamic osmo[re]ceptor 視床下部浸透圧受容器
+1735 hypothermia 低体温[療法] 低体温[法]
+1736 hypothyroidism 甲状腺機能低下症
+1737 hypotonic dehydration 低張性脱水[症]
+1738 hypotonic salt solution 低張食塩液(水)
+1739 hypotonic solution 低張液
+1740 hypoventilation 換気低下 低換気
+1741 hypovolemic shock [循環]血液量減少性ショッ
+ク
+1742 hypoxemia 低酸素血症
+1743 hypoxia 低酸素[症]
+1744 hypoxic drive 低酸素[性]刺激 低酸素[性]換気駆動
+1745 hypoxic spell 低酸素発作
+1746 iatrogenic 医原性の
+1747 icterus 黄疸
+1748 icterus index 黄疸指数
+1749 icterus neuna turam 新生児黄疸
+1750 ICU-acquired weakness<ICU-AW>
+1751 ICU psychosis ICU精神病
+1752 idiopathic respiratory distress syndrome
+<IRDS>
+特発性呼吸窮迫(困難)症候
+群
+1753 idiopathic thrombocytopenic purpura <ITP> 特発性血小板減少性紫斑病
+1754 idioventricular rhythm 心室固有調律
+1755 imbalance 平衡異常
+1756 immature infant 未熟児
+1757 immediate allergy 即時[型]アレルギー
+1758 immediate hypersensitivity 即時[型]過敏症
+1759 immediate[-type] hypersensitivity 即時[型]過敏症(反応)
+1760 immnologic[al]absorbent 免疫吸着剤
+1761 immnue hemolysis 免疫溶血[反応]
+1762 immune complex 免疫複合体
+1763 immune hemolysin 免疫[性]溶血素
+1764 immune hemolysis 免疫溶血[反応]
+1765 immune reaction 免疫反応
+1766 immune response 免疫応答
+[[p22]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1767 immunoglobulin <Ig> 免疫グロブリン
+1768 immunological competence 免疫適格[性]
+1769 immunological incompetence 免疫不適格[性]
+1770 immunological reaction 免疫反応
+1771 immunological resistance 免疫抵抗[性]
+1772 immunological tolerance 免疫寛容
+1773 immunoreaction 免疫反応
+1774 immunorejection 免疫拒絶反応
+1775 immunosuppressant 免疫抑制薬
+1776 immunosuppression 免疫抑制
+1777 immunosuppressive agent 免疫抑制薬 免疫抑制物質 免疫抑制因子
+1778 immunosuppressive therapy 免疫抑制療法
+1779 immunotherapy 免疫療法
+1780 impaired orientation 見当識障害
+1781 impairment 障害
+1782 impedance インピーダンス
+1783 impedance pneumograph インピーダンス肺機能計 インピーダンスニューモ
+グラフ
+1784 impending infarction 切迫梗塞
+1785 implantable cardioverter defibrillator 植[え]込み型除細動器
+1786 implantable electrode 植[え]込み電極 埋め込み電極
+1787 implantable pacemaker 植[え]込み[型]ペースメー
+カ 埋め込みペースメーカ
+1788 implantation 植[え]込み 埋め込み [体内]移植
+1789 implantation electrode 植[え]込み電極
+1790 inanition acidosis 飢餓[性]アシドーシス
+1791 inapparent infection 不顕性感染
+1792 incentive spirometer インセンティブ・スパイロ
+メータ
+1793 incisural herniation テント切痕[内]ヘルニア
+1794 incompatible blood transfusion 不適合輸血
+1795 increased intracranial pressure 頭蓋内圧亢進
+1796 incubation period 潜伏期
+1797 incubator 保育器
+1798 index 指数 係数
+1799 indication 適用 指示 適応[症]
+1800 indicator 指標 指示薬
+1801 indicator dilution method 指示薬(標識)希釈法
+1802 indifferent electrode 不関電極 基準電極
+1803 indirect bilirubin 間接型ビリルビン
+1804 indirect calorimetry 間接[的]熱量測定[法]
+1805 indocyanine green[test] <ICG> インドシアニングリーン[テ
+スト，試験] ICGテスト
+1806 induced hibernation 人工冬眠
+1807 induced hypotension 人工低血圧[法]
+1808 induction of anesthesia 麻酔導入
+1809 induction shock 誘導電撃
+1810 industrial injury 産業外傷(傷害)
+1811 indwelling catheter 留置カテーテル
+1812 infant at full term 満期[産，出生]児
+1813 infants of diabetic mothers <IDM> 糖尿病合併母体児
+1814 infarct 梗塞
+1815 infarction 梗塞
+1816 infected infarct 感染梗塞
+1817 infected wound 感染創
+1818 infection control 感染制御
+1819 infection focus 感染巣
+1820 infection immunity 感染免疫
+1821 infectious endocarditis 感染性心内膜炎
+1822 infectious hepatitis 感染性肝炎
+1823 infective  endocarditis 感染性心内膜炎
+1824 inferior infarction 下壁[心筋]梗塞
+1825 inferior tracheostomy 下気管切開[術]
+1826 inflammability 引火性
+1827 inflammation 炎症
+1828 inflammatory response 炎症反応
+1829 inflection points 屈曲点
+1830 inflow phase 流入期
+1831 informed consent インフォームド・コンセン
+ト 説明と同意
+1832 infrared 赤外線の
+1833 infrared carbon dioxide analyzer 赤外線二酸化炭素分析計
+1834 infrared CO2 analyzer 赤外線CO2分析計
+1835 infusion 注入
+1836 inhalation 吸入[法]
+1837 inhalation  valve 吸入弁
+1838 inhalation anesthetic 吸入麻酔薬
+1839 inhalation therapy 吸入療法
+1840 inhaler 吸入器
+1841 inhaling mask 吸入用マスク
+1842 initial dosage 初回量
+1843 initial dose 初回量
+1844 injection 注射 注入
+1845 injury 損傷
+1846 injury current 損傷電流 傷害電流
+1847 innocent murmur 無害[性]雑音
+1848 inotropic 変力[性]の
+[[p23]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1849 inotropic action 変力作用
+1850 insensible perspiration 不感蒸泄
+1851 insensible water 不感性蒸発水分
+1852 insensible water loss 不感性水分喪失
+1853 inspection burr hole 診査[頭蓋]骨孔
+1854 inspiration 吸息 吸気
+1855 inspiratory 吸息性の 吸気性の
+1856 inspiratory capacity 深吸気量 最大吸気量
+1857 inspiratory center 吸息中枢
+1858 inspiratory dyspnea 吸息(気)性呼吸困難
+1859 inspiratory flow 吸気流 吸気流量
+1860 inspiratory force 吸息(気)力
+1861 inspiratory gas 吸気[ガス]
+1862 inspiratory muscle 吸息筋
+1863 inspiratory phase 吸気相 吸息(気)相
+1864 inspiratory pressure 吸気圧 吸気時気道内圧
+1865 inspiratory reserve volume <IRV> 吸気予備量
+1866 inspiratory stridor 吸息性喘鳴
+1867 inspiratory vital capacity 吸気肺活量
+1868 inspired air 吸気
+1869 instillation 注入 滴下
+1870 insufficiency 機能不全[症]
+1871 insufflation 吹入[法] 通気[法]
+1872 insulin sensitivity インスリン感受性
+1873 insulin shock インスリンショック
+1874 intake 摂取 摂取量
+1875 intensive 集中的な
+1876 intensive care nurse (critical care nurse) 集中治療（ケア）看護師
+1877 intensive care nursing (critical care nursing) 集中治療（ケア）看護
+1878 intensive care physician (critical care 集中治療医 集中治療専門医
+1879 intensive care unit 集中治療[部] 集中治療[病棟]
+1880 intercellular edema 細胞間浮腫(水腫)
+1881 interleukin IL
+1882 interlobar effusion 葉間滲出[液]
+1883 interlobar empyema 葉間膿胸
+1884 interlobar line 葉間線
+1885 intermittent 間欠的 間欠性の
+1886 intermittent mandatory ventilation <IMV> 間欠的強制換気[法]
+1887 intermittent positive pressure breathing 間欠的陽圧呼吸[法] 間欠的陽圧呼吸
+1888 intermittent positive pressure ventilation 間欠的陽圧換気[法]
+1889 intermittent positive-negative pressure
+breathing <IPNPB> 間欠的陽陰圧呼吸[法]
+1890 intermittent positive-negative pressure
+ventilation <IPNPV> 間欠的陽陰圧換気[法]
+1891 internal bleeding 内出血
+1892 internal compliance 内部コンプライアンス
+1893 internal hemorrhage 内出血
+1894 internal injury 内部損傷
+1895 internal lesion 内部損傷
+1896 internal mammary artery graft 内胸動脈グラフト
+1897 internal pacemaker 体内ペースメーカ
+1898 internal respiration 内呼吸
+1899 interstitial 間質[性]の
+1900 interstitial emphysema 間質性気腫
+1901 interstitial fluid <ISF> 間質液 組織液
+1902 interstitial pneumonia 間質性肺炎
+1903 interventional catheterization 治療的心臓カテーテル法
+1904 intestinal perforation 腸管穿孔
+1905 intimal flap 内膜フラップ 剥離内膜
+1906 intimal tear 内膜亀裂
+1907 intoxicating dose 中毒量
+1908 intoxication 中毒
+1909 intra-abdominal pressure 腹腔内圧
+1910 intra-aortic balloon pumping <IABP> 大動脈内バルーンパンピン
+グ
+1911 intra-arterial transfusion 動脈内輸血
+1912 intra-auricular (atrial) conduction 心房内伝導
+1913 intra-auricular block 心房内ブロック
+1914 intracardiac injection 心[臓]内注射 心腔内注射
+1915 intracardiac pacemaker 心腔内ペースメーカ
+1916 intracellular fluid <ICF> 細胞内液
+1917 intracellular water 細胞内水分量
+1918 intracerebral bleeding 脳内出血
+1919 intracerebral hematoma 脳内血腫
+1920 intracoronary 冠動脈内の
+1921 intracoronary thromolysisi <ICT> 冠動脈内注入血栓溶解療法
+1922 intracranial 頭蓋内の
+1923 intracranial bleeding 頭蓋内出血
+1924 intracranial hematoma 頭蓋内血腫
+1925 intracranial hemorrhage 頭蓋内出血
+1926 intracranial pressure <ICP> 頭蓋内圧
+1927 intractable 難治[性]の
+1928 intractable heart failure 難治[性]心不全
+1929 intramedullary transfusion 骨髄内輸血
+1930 intranasal instillation 鼻腔内滴下(注入)
+1931 intraperitoneal bleeding 腹腔内出血
+1932 intrapleural pressure 胸腔内圧
+[[p24]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+1933 intrapulmonary shunt 肺内シャント
+1934 intrarenal diuretic 腎内性利尿薬
+1935 intrathoracic pressure 胸腔内圧
+1936 intratracheal administration 気管内投与
+1937 intratracheal anesthesia 気管内麻酔[法]
+1938 intratracheal injection 気管内注入
+1939 intratracheal [gas] insufflation 気管吹送(通気)[法]
+1940 intrauterine asphyxia 子宮内仮死
+1941 intrauterine fetal death <IUFD> 子宮内胎児死亡
+1942 intrauterine growth retardation <IUGR> 子宮内胎児発育遅延
+1943 intravascular agglutination 血管内凝集
+1944 intravascular coagulation 血管内凝固
+1945 intravascular fluid 血管内液
+1946 intravascular hemolysis 血管内溶血
+1947 intravenous 静脈[内]の
+1948 intravenous administration 静脈内投与
+1949 intravenous feedling 静脈[内]栄養補給
+1950 intravenous hyperalimentation <IVH> 経静脈[的][高カロリー]栄
+養法
+1951 intravenous infusion 静脈[内]注入(射)
+1952 intraventricaler hemorrhage <IVH> 脳室内出血
+1953 intraventricular conduction 心室内伝導
+1954 intraventricular pressure 心室内圧
+1955 intrinsic factor 内[性]因子
+1956 introducer 誘導針
+1957 intubating forceps 挿管用鉗子
+1958 intubation 挿管[法]
+1959 iodinated human serum albumin ヨード標識ヒト(人)血清ア
+ルブミン
+1960 ion exchange resin イオン交換樹脂
+1961 ionic strength イオン強度
+1962 iron lung 鉄の肺
+1963 irregular pupils 瞳孔不整
+1964 irreversibility 不可逆性
+1965 irreversible 不可逆[性]の
+1966 irreversible reaction 不可逆反応
+1967 irreversible shock 不可逆[性]ショック
+1968 irritable heart 過敏心臓 過敏心
+1969 irritant gas 刺激性ガス
+1970 ischemia 虚血
+1971 ischemia/reperfusion injury 虚血再灌流障害
+1972 ischemic 虚血性の
+1973 ischemic encephalopathy hypoxic  <HIE> 低酸素性虚血性脳症
+1974 ischemic heart disease <IHD> 虚血性心疾患
+1975 ischemic interval 虚血時間
+1976 isolated heart 摘出心
+1977 isosmotic 等浸透圧の
+1978 isotonic 等張[性]の
+1979 isotonic dehydration 等張性脱水[症]
+1980 isotonic sodium chloride solution 等張食塩水
+1981 isotonic solution 等張液
+1982 jaundice 黄疸
+1983 jaw-lift 下顎挙上
+1984 jet flow ジェット流(噴出流) ジェット流量
+1985 jet nebulizer ジェット噴霧器(ネブライ
+ザ)
+1986 jugular pulse 頸静脈拍動
+1987 jugular venous pulse 頸静脈波
+1988 junctional rhythm [房室]接合部[性]調律
+1989 J-valve Jーバルブ
+1990 K channel opener カリウムチャネルオープナ
+1991 K channnel blocker カリウムチャネルブロッカ
+1992 ketone body ケトン体
+1993 ketonemia ケトン血症
+1994 ketonuria ケトン尿症
+1995 ketosis ケトン症 ケトーシス
+1996 kidney biopsy 腎生検
+1997 kidney transplantation 腎臓移植[術]
+1998 Kussmaul's respiration クスマウル大呼吸 《糖尿病昏睡性大呼吸》
+1999 laboratory diagnosis 検査診断
+2000 laboratory finding 検査所見
+2001 lacerated wound 裂創 裂傷
+2002 laceration 裂傷
+2003 lactacidemia 乳酸血[症]
+2004 lactate 乳酸塩(イオン)
+2005 lactic acid 乳酸
+2006 lactic acidosis 乳酸アシドーシス
+2007 laminar flow 層流
+2008 Landry's paralysis ランドリー麻痺
+2009 large-for-dates <LFD> 不当重量児
+2010 laryngeal edema 喉頭浮腫(水腫)
+2011 laryngeal fiberscope 喉頭ファイバースコープ
+2012 laryngeal granuloma 喉頭肉芽腫
+2013 laryngeal reflex 喉頭反射
+2014 laryngeal spasm 喉頭痙攣
+2015 laryngeal spray 喉頭噴霧 喉頭噴霧器
+2016 laryngeal stridor 喉頭喘鳴
+[[p25]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2017 laryngeal web 喉頭[横]隔膜
+2018 laryngitis 喉頭炎
+2019 laryngomalacia 喉頭無力症
+2020 laryngoscope 喉頭鏡
+2021 laryngoscopy 喉頭鏡検査[法]
+2022 laryngospasm 喉頭痙攣
+2023 laryngotomy 喉頭切開[術]
+2024 laryngotracheobronchitis 喉頭気管気管支炎
+2025 late potential 遅延電位
+2026 latent period 潜伏期[間]
+2027 latent shock 潜在[性]ショック
+2028 lateral decubitus position 側臥位
+2029 lateral infarction 側壁[心筋]梗塞
+2030 lateral position 側[臥]位
+2031 laterality 左右差
+2032 lavage 洗浄
+2033 LDL apheresis LDLアフェレーシス
+2034 lead 誘導 リード
+2035 left anterior descending coronary artery 左［冠動脈］前下行枝
+2036 left anterior hemiblock 左脚前枝[ヘミ]ブロック
+2037 left atrial pressure 左[心]房圧
+2038 left axis deviation 左軸偏位
+2039 left bundle branch block <LBBB> 左脚ブロック
+2040 left cardiac catheterization 左心カテーテル法
+2041 left circumflex artery <LCX> 左[冠状動脈]回施枝
+2042 left heart strain 左心負荷
+2043 left lateral position 左側臥位
+2044 left posterior hemiblock 左脚後枝[ヘミ]ブロック
+2045 left ventricular ejection fraction <LVEF> 左室駆出分画(率)
+2046 left ventricular end-diastolic pressure 左[心]室拡張終[末]期圧
+2047 left ventricular end-diastolic volume 左[心]室拡張終[末]期容積
+2048 left ventricular end-systolic volume 左[心]心室収縮終末期容積
+2049 left ventricular failure 左室不全 左[心]室不全
+2050 left ventricular hypertrophy <LVH> 左[心]室肥大
+2051 left ventricular pressure 左[心]室圧
+2052 left ventriculography <LVG> 左室造影
+2053 leftmain coronary trunck <LMT> 左冠動脈主幹部
+2054 left-sided heart failure 左心不全
+2055 left-to-right shunt 左右シャント
+2056 lesion 病変 損傷
+2057 lethal dose <LD> 致死量
+2058 leukocyte aggregation 白血球凝集
+2059 leukotoxin ロイコトキシン
+2060 life support 生命維持
+2061 life support measures 生命維持手段
+2062 light reflex 対光反射
+2063 light therapy 光線療法
+2064 light-for-dates <LFD> 不当軽量児
+2065 limb lead 四肢誘導
+2066 liquefaction 融解 液化
+2067 liver biopsy 肝生検
+2068 liver damage 肝損傷
+2069 liver dysfunction 肝機能不全
+2070 liver failure 肝不全
+2071 liver injury 肝損傷
+2072 liver supporting therapy 肝保護療法
+2073 liver transplantation 肝臓移植[術]
+2074 lobar atelectasis 大葉性無気肺
+2075 lobar collapse 大葉性無気肺
+2076 lobar pneumonia 大葉性肺炎 大葉[性]肺炎
+2077 local hypothermia 局所低体温
+2078 localized infection 限局性感染
+2079 long QT syndrome QT延長症候群
+2080 low birth weight infant 低体重出生児
+2081 low molecular weight dextran 低分子デキストラン
+2082 low output 低拍出量
+2083 low[amplitude]voltage 低[振幅]電位
+2084 low[cardiac]output syndrome <LOS, LCOS> 低[心]拍出量症候群
+2085 lower lung field 下肺野
+2086 low-pass fitler 低域フィルタ
+2087 lucid interval 意識清明期
+2088 lumbar puncture 腰椎穿刺
+2089 lung abscess 肺膿瘍
+2090 lung capacity 肺気量
+2091 lung compliance 肺コンプライアンス
+2092 lung contusion 肺挫傷
+2093 lung deflation reflex 肺収縮反射
+2094 lung disease 肺疾患
+2095 lung edema 肺水腫
+2096 lung field 肺野
+2097 lung function 肺機能
+2098 lung herniation 肺ヘルニア
+2099 lung infection 肺感染症
+2100 lung inflammation 肺の炎症
+2101 lung inflation 人為的肺膨張
+2102 lung inflation reflex 肺膨張反射
+[[p26]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2103 lung injury 肺損傷(傷害)
+2104 lung marking 肺紋理
+2105 lung overinflation 肺過膨張
+2106 lung thorax compliance 肺胸郭コンプライアンス
+2107 lung water 肺水分
+2108 lung-protective ventilation 肺保護的換気
+2109 lymphogenous infection リンパ[行]性感染
+2110 macrophage activation マクロファジ活性化
+2111 macroscopic hematuria 肉眼[的]血尿
+2112 macrosomia 巨大児
+2113 magnetic resonance imaging <MRI> 磁気共鳴画像法
+2114 maintenance dose 維持量
+2115 maintenance therapy 維持療法
+2116 major [agglutination] reaction 主[凝集]反応
+2117 major tranquiliser メジャー・トランキライザ
+2118 malabsorption 吸収不良
+2119 malabsorption syndrome 吸収不良症候群
+2120 malfunction 機能不全[失調]
+2121 malignant hypertension 悪性高血圧[症]
+2122 malignant hyperthermia 悪性高熱[症]
+2123 malnutrition 栄養失調
+2124 manikin 人体模型 マネキン
+2125 manometer 圧力計 マノメータ
+2126 manual artificial respiration 用手人工呼吸
+2127 manual ventilation 用手換気
+2128 mask ventilation マスク換気
+2129 massive aspiration 大量誤嚥(飲)
+2130 massive atelectasis 広汎性無気肺 広範囲無気肺
+2131 massive collapse 広範囲無気肺
+2132 massive hemorrhage 大量出血 大[量]出血
+2133 mass-spectormeter 質量分析計
+2134 maximal effective dose 最大有効量
+2135 maximal expiratory flow rate 最大呼気流量
+2136 maximal expiratory level 最大呼気位
+2137 maximal inspiratory force 最大吸息(気)力
+2138 maximal inspiratory level 最大吸気位
+2139 maximal inspiratory pressure 最大吸気圧 最大吸気時気道内圧
+2140 maximal therapeutic dose 最大治療量
+2141 maximum breathing capacity 分時最大呼吸(換気)量
+2142 maximum dose 最大量 極量
+2143 maximum heart rate 最大心拍数
+2144 maximum oxygen debt 最大酸素負債[量]
+2145 maximum oxygen intake 最大酸素摂取量
+2146 maximum tolerance dose 最大耐[用]量
+2147 maximum urea clearance 最大尿素クリアランス
+2148 mean airway pressure 平均気道内圧
+2149 mean arterial pressure <MAP> 平均動脈圧
+2150 mean blood pressure 平均血圧
+2151 mechanical circulatory support 機械的(人工)補助循環
+2152 mechanical ventilation 機械的換気
+2153 mechanical ventilator 機械的人工呼吸器 ベンチレータ
+2154 mechanics of breathing 換気力学
+2155 meconium aspiration syndorme <MAS> 胎便誤嚥(飲)症候群
+2156 mediastinal emphysema 縦隔気腫
+2157 mediastinal flutter 縦隔動揺
+2158 mediastinal shift 縦隔移動[偏位]
+2159 medical electronics 医用電子 医用エレクトロニクス
+2160 medical engineering 医用工学
+2161 medical futility 無益[な医療]
+2162 medical gases 医用ガス
+2163 medical instrument 医用器械 医療器械
+2164 medical telemeter 医用テレメータ
+2165 medicamentous urticaria 薬物[性]じんま(蕁麻)疹
+2166 medicated bath 薬浴
+2167 medullary respiratory center 延髄呼吸中枢
+2168 medullary respiratory chemo[re]ceptor 延髄呼吸化学受容体
+2169 membrane filter 膜フィルタ メンブランフィルタ 膜濾過器
+2170 membrane lung 模型[人工]肺 膜型[人工]肺
+2171 membrane oxygenator 膜型人工肺
+2172 membrane stabilization 膜安定化
+2173 membrane stabilizer 膜安定[化]薬(物質)
+2174 membranous laryngitis 膜様喉頭炎
+2175 meningeal irritation 髄膜刺激[症状]
+2176 meningeal symptom 髄膜症状
+2177 meningism 髄膜症
+2178 meningitis 髄膜炎
+2179 mental derangement 精神錯乱
+2180 mesenteric infarction 腸間膜梗塞
+2181 metabolic acidosis 代謝性アシドーシス
+2182 metabolic alkalosis 代謝性アルカローシス
+2183 metabolic rate 代謝率
+2184 metabolic water 代謝水
+2185 methemoglobin メトヘモグロビン
+2186 methemoglobinemia メトヘモグロビン血症
+2187 microbial flora 微生物叢
+2188 microbial substitution 菌交代現象
+[[p27]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2189 microbubble stabilitg test 気法安定試験
+2190 microcirculation 微小循環
+2191 microembolus 微小塞栓
+2192 microorganism 微生物
+2193 micropore filter 微細孔フィルタ[ー] マイクロポアフィルタ
+[ー]
+2194 mictrition(miction) disturbance 排尿障害
+2195 miliary atelectasis 粟粒性無気肺
+2196 mineral corticoid 鉱質コルチコイド
+2197 minimal effective dose 最小有効量
+2198 minimal inhibitory concentration <MIC> 最小阻止濃度
+2199 minor tranquiliser マイナー・トランキライザ
+2200 minute alveolar ventilation 分時肺胞換気量
+2201 minute ventilation 分時換気量
+2202 minute volume 分時換気量
+2203 mitral regurgitation <MR> 僧帽弁逆流[症]
+2204 mitral stenosis <MS> 僧帽弁狭窄[症]
+2205 mitral valve insufficiency 僧帽弁閉鎖不全[症]
+2206 mitral valve prolapse 僧帽弁逸脱[症]
+2207 mitral valve prosthesis 僧帽弁人工弁 人工僧帽弁
+2208 mitral valvular disease 僧帽弁膜症
+2209 mixed infection 混合感染
+2210 mixed venous blood 混合静脈血
+2211 mixed venous blood gas(es) 混合静脈血ガス
+2212 mixed venous carbon dioxide content
+<CvCO2>
+混合静脈血二酸化炭素(炭酸
+ガス)含量
+2213 mixed venous carbon dioxide tension
+<PvCO2>
+混合静脈血二酸化炭素(炭酸
+ガス)分圧
+2214 mixed venous oxygen content <CvO2> 混合静脈血酸素含量
+2215 mixed venous oxygen saturation <SvO2> 混合静脈血酸素飽和度
+2216 mixed venous oxygen tension <PvO2> 混合静脈血酸素分圧
+2217 mobile 移動性の 可動性の
+2218 mobile CCU 移動型CCU
+2219 model lung モデル肺
+2220 moist rale 湿性ラ音
+2221 moisture 水分 湿気 湿度
+2222 monitor 監視機器(装置) モニター
+2223 monitoring 監視，モニタリング
+2224 monitoring device 監視機器(装置) モニタリング機器(装置)
+2225 monitoring equipment 監視機器(装置)
+2226 monitoring instrument 監視機器(装置)
+2227 monitoring system 監視システム モニタリングシステム
+2228 morbidity 罹患率 有病率
+2229 moribund 瀕死の
+2230 mortality 死亡率
+2231 mortality rate 死亡率
+2232 motor neuron disease 運動ニューロン疾患
+2233 motor paralysis 運動麻痺
+2234 motor paralysis 運動麻痺
+2235 mouth breathing 口呼吸
+2236 mouth gag 開口器
+2237 mouth pressure 口腔内圧
+2238 mouth respiration 口呼吸
+2239 mouth to mouth ventilation 口対口[人工]換気[法]
+2240 mouth to nose ventilation 口対鼻[人工」換気[法]
+2241 mouth-to-mask breathing 口対マスク[人工]呼吸[法]
+2242 mouth-to-mouth breathing 口対口[人工]呼吸[法]
+2243 mouth-to-nose breathing 口対鼻[人工]呼吸[法]
+2244 mucociliary movement 粘液線毛運動
+2245 mucous(mucus) plug 粘液栓
+2246 multiple fracture 多発骨折
+2247 multiple gestation 多胎妊娠
+2248 multiple infection 多重感染
+2249 multiple organ dysfunction syndrome 多臓器［機能］障害[症候群]
+2250 multiple trauma 多発外傷
+2251 muscarinic effect ムスカリン様作用
+2252 muscle atrophy 筋萎縮
+2253 muscle rigidity 筋硬直 筋強直
+2254 muscle spasm 筋痙攣 攣縮
+2255 muscular paralysis 筋麻痺
+2256 mushroom poisoning きのこ中毒
+2257 myasthenic reaction 筋無力性反応
+2258 mycotic infection 真菌感染
+2259 myocardial dysfunction 心筋機能不全
+2260 myocardial infarction 心筋梗塞
+2261 myocarditis 心筋炎
+2262 myocardium 心筋
+2263 narcotic 麻薬の
+2264 narcotic addict 麻薬中毒者 麻薬中毒(耽溺)者 麻薬常用者
+2265 narcotic addiction 麻薬中毒(耽溺)
+2266 narcotic drug 麻薬
+2267 narrow spectrum antibiotic 狭域抗生物質
+2268 nasal airway 経鼻エアウェイ
+2269 nasal alar breathing 鼻翼呼吸
+2270 nasal breathing 鼻呼吸
+2271 nasal discharge 鼻汁
+[[p28]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2272 nasal douche 鼻洗[浄]
+2273 nasal feeding 経鼻栄養[法] 鼻腔チューブ栄養
+2274 nasal inhaler 鼻吸入器
+2275 nasal insufflation 経鼻的吹送[法]
+2276 nasal irrigation 鼻洗[浄]
+2277 nasal irrigator 鼻洗[浄]器
+2278 nasal mask 鼻マスク
+2279 nasal obstruction 鼻閉
+2280 nasal packing 鼻タンポン挿入
+2281 nasal respiration 鼻呼吸
+2282 nasogastric feeding 経鼻胃栄養[法]
+2283 nasogastric tube 経鼻胃チューブ
+2284 nasopharyngeal airway 鼻咽頭エアウェイ
+2285 nasopharyngeal catheter 鼻咽頭カテーテル
+2286 nasotracheal intubation 経鼻気管挿管
+2287 nasotracheal tube 経鼻気管チューブ
+2288 natriuretic peptide ナトリウム利尿ペプチド
+2289 nebulization 噴霧化 噴霧療法 ネブライゼーション
+2290 nebulizer 噴霧器 ネブライザ
+2291 necrotizing enterocolitis <NEC> 壊死性腸炎
+2292 needle biopsy 針生検
+2293 needle electrode 針電極
+2294 needle valve ニードルバルブ
+2295 negative chronotropic action 陰性変時作用
+2296 negative feedback 負帰還 ネガティブフィードバッ
+ク
+2297 negative inotropic action 陰性変力作用
+2298 negative phase 陰性期 陰性相
+2299 neonatal 新生児の
+2300 neonatal asphyxia 新生児仮死
+2301 neonatal hepatitis 新生児肝炎
+2302 neonatal jaundice 新生児黄疸
+2303 neonatal necrotizing enterocolitis 新生児壊死性腸炎
+2304 neonate 新生児
+2305 nerve injury 神経損傷
+2306 nerve stimulation 神経刺激
+2307 neurocirculatory asthenia <NCA> 神経循環無力症
+2308 neurogenic bladder 神経[原因][性]膀胱 神経因性膀胱
+2309 neurogenic shock 神経原性ショック
+2310 neurogenic ulcer 神経性潰瘍
+2311 neurologic examination 神経病学的検査(診察)
+2312 neurologic intensive care (脳)神経集中治療
+2313 neurologic outcome 神経学的転帰
+2314 neuromuscular blocking agent 神経筋遮断薬
+2315 neutrophil aggregation 好中球凝集
+2316 neutrophils 好中球
+2317 newborn infant 新生児
+2318 nitric  [mon]oxide 一酸化窒素
+2319 nitrogen balance 窒素出納(バランス)
+2320 nitrogen equilibrium 窒素平衡
+2321 nitrogen excretion 窒素排出
+2322 nitrous oxide 亜酸化窒素 笑気
+2323 nocturnal asthma 夜間性喘息
+2324 nocturnal dyspnea 夜間呼吸困難
+2325 nodal rhythm 結節[性]調律
+2326 non-Q-wave [myocardial] infarction 非Q波[心筋]梗塞
+2327 non-bicarbonate buffer system 非重炭酸塩緩衝系
+2328 nondepolarizing blocker 非脱分極遮断薬
+2329 nondepolarizing muscle relaxant 非脱分極性筋弛緩薬
+2330 noninvasive 非侵襲性の 非観血的の
+2331 noninvasive monitoring 非侵襲的モニタリング
+2332 noninvasive positive pressure ventilation
+<NPPV> 非侵襲的陽圧換気[法]
+2333 non-paroxysmal tachycardia 非発作性頻拍[症]
+2334 non-protein nitrogen <NPN> 非蛋白性窒素
+2335 nonrebreathing 非再呼吸
+2336 nonrebreathing method 非再呼吸法
+2337 nonrebreathing respiratory circuit 非再呼吸性呼吸回路
+2338 nonrebreathing valve 非再呼吸弁
+2339 non-REM sleep ノンレム睡眠
+2340 normal saline 生理的食塩水
+2341 normal sinus rhythm 正常洞調律
+2342 normal temperature and pressure 常温正常気圧
+2343 normoxia 酸素正常状態
+2344 nose breathing 鼻呼吸
+2345 nosocomial infection 院内感染 日和見感染
+2346 noxious gas 有毒ガス 刺激臭ガス
+2347 nuchal rigidity (nuchal stiffness) 項[部]硬直
+2348 nuclear cardiology 心臓核医学
+2349 nuclear jaundice 核黄疸
+2350 nuclear magnetic resonance <NMR> 核磁気共鳴
+2351 nursing care 看護ケア
+2352 nutritional deficiency 栄養欠乏[症]
+2353 nutritional disorder 栄養障害
+2354 nutritional disturbance 栄養障害
+2355 nutritional management 栄養管理
+2356 nutritional requirement 栄養必要量 栄養要求量
+[[p29]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2357 obstructive atelectasis 閉塞性無気肺
+2358 obstructive cardiomyopathy 閉塞性心筋症
+2359 obstructive jaundice 閉塞性黄疸
+2360 occlusion 閉塞 閉鎖
+2361 occult bleeding 潜在[性]出血
+2362 oculocardiac reflex 眼球心臓反射
+2363 oligohydramnios 羊水過少症
+2364 oliguria 乏尿
+2365 omphalocele 臍帯ヘルニア
+2366 oncotic pressure 膠質浸透圧
+2367 one-lung ventilation 一側肺換気 片肺換気
+2368 on-line monitoring オンラインモニタリング
+2369 onset 発症 開始 発現
+2370 open biopsy 直視下生検 開放生検
+2371 open chest cardiac massage 開胸式心[臓]マッサージ
+[法]
+2372 open drop 開放点滴
+2373 open fracture 開放骨折
+2374 open heart surgery 開心術
+2375 open injury 開放[性]損傷
+2376 open lung biopsy 開胸肺生検
+2377 open pneumothorax 開放[性]気胸
+2378 open wound 開放創
+2379 opening snap <OS> 開放音
+2380 operative risk 手術危険度
+2381 operative stress 手術侵襲 手術ストレス
+2382 opisthotonus 後弓反張 オピストトーヌス
+2383 opsonic index オプソニン指数
+2384 opsonic protein オプソニン蛋白
+2385 opsonin オプソニン
+2386 opsonin index オプソニン指数(係数)
+2387 opsonocytophagic test オプソニン食菌テスト
+2388 optimum dose 適量
+2389 oral administration 経口投与
+2390 oral anticoagulant 経口抗凝血薬 経口抗凝固薬
+2391 oral respiration 口呼吸
+2392 oral temperature 口腔温
+2393 organ failure 臓器不全
+2394 organ specificity 臓器特異性
+2395 organ transplantation 臓器移植
+2396 organic heart disease 器質的心疾患
+2397 organophosphorus pesticide 有機燐系農薬
+2398 organ-specific antigen 臓器特異性抗原
+2399 orientation 見当識 オリエンテーション
+2400 oropharyngeal airway 口咽頭エアウェイ 経口エアウェイ
+2401 orotracheal intubation 経口[的]気管挿管
+2402 orotracheal tube 経口気管チューブ
+2403 orthopnea 起座呼吸
+2404 orthostatic dyspnea 起立性呼吸困難
+2405 orthostatic hypotension 起立性低血圧
+2406 orthotopic transplantation 同所性移植
+2407 oscillation 振動 オッシレーション
+2408 oscillograph オッシログラフ
+2409 oscilloscope オッシロスコープ
+2410 osmo[re]ceptor 浸透圧受容器
+2411 osmolal gap [重量モル]浸透圧較差
+2412 osmolality 重量浸透圧モル濃度
+2413 osmolar clearance 浸透圧クリアランス
+2414 osmolar concentration 浸透圧濃度
+2415 osmolar load 浸透圧負荷
+2416 osmolarity 容積浸透圧モル濃度
+2417 osmometer 浸透圧計
+2418 osmoregulation 浸透圧調節
+2419 osmotic 浸透圧の
+2420 osmotic coefficient 浸透圧係数
+2421 osmotic concentration 浸透圧濃度
+2422 osmotic diuresis 浸透圧利尿
+2423 osmotic diuretic 浸透圧利尿薬
+2424 osmotic fragility 浸透圧ぜい(脆)弱性
+2425 osmotic pressure 浸透圧
+2426 osmotic regulation 浸透圧調節
+2427 osmotic resistance 浸透圧抵抗
+2428 outcome 転帰 予後 結果
+2429 output 排出量 拍出量
+2430 overdose 過量 過量投与
+2431 overload[ing] 過負荷
+2432 oxidant オキシダント
+2433 oxidation 酸化[作用]
+2434 oxidizing agent 酸化薬
+2435 oximeter 《酸素飽和度計》 オキシメータ
+2436 oximetry 酸素飽和度測定[法] オキシメトリ
+2437 oxygen administration 酸素投与 酸素管理
+2438 oxygen affinity 酸素親和性
+2439 oxygen apnea 酸素性無呼吸
+2440 oxygen balance 酸素平衡
+2441 oxygen combining capacity 酸素結合能
+2442 oxygen concentration 酸素濃度
+[[p30]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2443 oxygen consumption 酸素消費 酸素消費量
+2444 oxygen content 酸素含量
+2445 oxygen cylinder 酸素ボンベ 酸素充填機
+2446 oxygen debt 酸素負債[量]
+2447 oxygen deficiency 酸素不足
+2448 oxygen delivery 酸素運搬 酸素運搬量
+2449 oxygen demand 酸素需要[量] 酸素必要[量] 酸素要求[量]
+2450 oxygen depletion 酸素欠乏 酸素不足
+2451 oxygen deprivation 酸素不足
+2452 oxygen dissociation curve 酸素解離曲線
+2453 oxygen electrode 酸素電極
+2454 oxygen free radical 活性酸素
+2455 oxygen hood 酸素フード
+2456 oxygen inhaler 酸素吸入器
+2457 oxygen intake 酸素摂取
+2458 oxygen intoxication 酸素中毒
+2459 oxygen lack 酸素欠乏
+2460 oxygen manifold 酸素マニホールド 酸素集合管
+2461 oxygen mask 酸素マスク
+2462 oxygen partial pressure 酸素分圧
+2463 oxygen poisoning 酸素中毒
+2464 oxygen radical 酸素ラジカル 活性酸素
+2465 oxygen requirement 酸素必要量
+2466 oxygen saturation 酸素飽和度
+2467 oxygen saturation curve 酸素飽和曲線
+2468 oxygen supply 酸素供給
+2469 oxygen tank 酸素ボンベ
+2470 oxygen tension 酸素張力
+2471 oxygen tent 酸素テント
+2472 oxygen therapy 酸素療法
+2473 oxygen toxicity 酸素毒性
+2474 oxygen transport 酸素運搬
+2475 oxygenated hemoglobin 酸素ヘモグロビン
+2476 oxygenation 酸素付加 酸素化
+2477 oxygenator 酸素化装置 人工肺
+2478 oxyhemoglobin 酸素ヘモグロビン オキシヘモグロビン
+2479 oxyhemoglobin dissociation 酸素ヘモグロビン解離[曲
+線]
+2480 pacemaker ペースメーカ
+2481 pacemaker wire ペースメーカ・ワイヤ
+2482 pacing ペーシング
+2483 pacing catheter ペーシング・カテーテル
+2484 pacing failure ペーシング不全
+2485 packed cell volume ヘマトクリット
+2486 pain control 疼痛管理
+2487 pain management 疼痛管理
+2488 palliative care 緩和ケア
+2489 palliative treatment 緩和療法 姑息的療法
+2490 pancreatic amylase 膵アミラーゼ
+2491 pancreatitis 膵炎
+2492 pansystolic murmur 全収縮期雑音
+2493 panting あえぎ呼吸 浅速呼吸
+2494 papillary muscle dysfunction 乳頭筋機能不全
+2495 paracentesis 穿刺[術]
+2496 paracentesis needle 穿刺針
+2497 paradoxical breathing 奇異呼吸
+2498 paradoxical pulse 奇脈
+2499 paradoxical pupillary reaction 奇異瞳孔反応
+2500 paradoxical pupillary reflex 逆説(奇異)瞳孔反射[現象]
+2501 paradoxical respiration 奇異呼吸
+2502 paradoxical sleep 逆説睡眠 パラ睡眠 《REM(レム)睡眠》
+2503 paralysing dose 麻痺量
+2504 paralysis 麻痺
+2505 paralytic ileus 麻痺性イレウス
+2506 paramedic 医療補助者 パラメディカル
+2507 parameter 指標 パラメータ
+2508 paraplegia 対麻痺
+2509 parasympathetic 副交感神経の
+2510 parasympathetic drug 副交感神経作用(作動)薬
+2511 parasympathetic nervous system 副交感神経系
+2512 parasympathomimetic drug 副交感神経[様]作用
+2513 parasystole 副収縮
+2514 paratracheal 傍気管の
+2515 parenteral 非経口[的]の 非経腸[的]の
+2516 parenteral administration 非経口投与 非経腸投与
+2517 parenteral alimentation 非経口[的]栄養[法] 非経腸[的]栄養[法]
+2518 parenteral feeding 非経口[的]栄養[法] 非経腸[的]栄養[法]
+2519 parenteral infection 非経口[的]感染 非経腸[的]感染
+2520 parenteral nutrition 非経口[的]栄養[法] 非経腸[的]栄養[法]
+2521 paresis 不全麻痺
+2522 paroxysmal 発作性の
+2523 paroxysmal atrial tachycardia <PAT> 発作性心房[性]頻拍[症]
+2524 paroxysmal nocturnal dyspnea 発作性夜間呼吸困難
+2525 paroxysmal supraventricular tachycardia
+<PSVT> 発作性上室性頻拍[症]
+2526 paroxysmal tachycardia 発作[性]頻拍[症]
+2527 partial agonist 部分的作動薬
+[[p31]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2528 partial exchange transfusion 部分交換輸血
+2529 partial liquid ventilation 部分液体換気
+2530 partial pressure 分圧
+2531 partial pressure of carbon dioxide <PCO2> 二酸化炭素分圧
+2532 partial pressure of oxygen <PO2> 酸素分圧
+2533 partial rebreathing 部分再呼吸
+2534 partial thromboplastin time <PTT> 部分トロンボプラスチン時
+間
+2535 passive immunity 受動免疫
+2536 patent airway 開放気道
+2537 patent ductus arteriosus <PDA> 動脈管開存[症]
+2538 patent foramen ovale 卵円孔開存[症]
+2539 pathogen 病原体
+2540 pathogenic bacteria 病原菌
+2541 pathogenicity 病原性
+2542 patient care 患者ケア
+2543 peak airway pressure 最高気道内圧
+2544 peak concentration time 最高濃度時間
+2545 peak expiratory flow rate <PEFR> 最大呼気流量
+2546 peak flow meter 最大流量計
+2547 peak flow rate <PFR> 最大流量
+2548 pelvic hematoma 骨盤血腫
+2549 penetrating wound 貫通創 穿通創
+2550 penetration 穿通 貫通 浸透
+2551 peptic ulcer 消化性潰瘍
+2552 peptide ペプタイド
+2553 percutaneous 経皮の 経皮的
+2554 percutaneous transluminal coronary
+angioplasty <PTCA> 経皮的冠動脈形成術
+2555 percutaneous transluminal coronary
+recanalization <PTCR> 冠動脈血栓溶解療法
+2556 perfluorocarbon パーフルオロカーボン
+2557 perforative peritonitis 穿孔性腹膜炎
+2558 perfusion 灌流
+2559 pericardial 心膜の 心嚢の 心周囲の
+2560 pericardial effusion 心膜[胸内]滲出液[貯留] 心膜[腔内][浸出]液 [貯留]
+2561 pericardial exsudate 心膜滲出液
+2562 pericardial fluid 心膜液 心嚢液
+2563 pericardial friction rub 心膜摩擦音
+2564 pericardial murmur 心膜雑音
+2565 pericardial paracentesis 心膜穿刺[術] 心嚢穿刺
+2566 pericardial tamponade 心膜タンポナーデ 心タンポナーデ
+2567 pericardiocentesis 心膜腔穿刺[術] 心嚢穿刺[術]
+2568 pericardiotomy 心膜切開[術]
+2569 pericarditis 心膜炎
+2570 perinatal 周産期の
+2571 perinatal death 周産期死亡
+2572 perinatal mortality 周産期死亡率
+2573 perinatal period 周産期
+2574 periodic apnea 周期性無呼吸
+2575 periodic breathing 周期性変動呼吸 周期性呼吸
+2576 periodic respiration 周期性呼吸
+2577 perioperative 周術期の
+2578 perioperative care 周術期ケア
+2579 peripheral airway 末梢気道
+2580 peripheral blood 末梢血
+2581 peripheral circulation 末梢循環
+2582 peripheral circulatory disturbance 末梢循環障害
+2583 peripheral cyanosis 末梢性チアノーゼ
+2584 peripheral parenteral nutrition 末梢静脈栄養[法] 末梢非結腸栄養[法]
+2585 peripheral temperature 末梢温
+2586 peripheral vascular resistance <PVR> 末梢血管抵抗
+2587 peripheral vasoconstriction 末梢血管収縮
+2588 peripheral vasodila[ta]tion 末梢血管拡張
+2589 peritoneal dialysis <PD> 腹膜透析[法] 腹膜灌流[法]
+2590 peritoneal lavage <PL> 腹腔洗浄[法]
+2591 peritoneocentesis 腹膜穿刺 腹腔穿刺
+2592 periventricular leukomalacia <PVL> 脳室周囲白質軟化症
+2593 permanent block 永続性ブロック
+2594 permeability 透過性
+2595 permeability coefficient 透過係数
+2596 permeability edema 透過性亢進型水腫(浮腫)
+2597 persistent fetal circulation <PFC> 胎児循環遺残
+2598 persistent pulmonary hypertension of the
+newborn <PPHN> 新生児遷延性肺高血圧症
+2599 personality change 人格変化
+2600 personality disorder 人格障害
+2601 personality reaction 人格反応
+2602 pest ペスト
+2603 pesticide 殺虫薬
+2604 pesticide organochlorine 有機塩素系農薬 有機塩素系殺虫薬
+2605 pesticide pollution 農薬汚染 殺虫薬汚染
+2606 petechial 点状出血の
+2607 petechial hemorrhage 点状出血
+2608 pH meter pHメータ
+2609 phagocytosis 食[菌]作用 貪食作用
+[[p32]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2610 pharmacodynamic action 薬[物]力学[的]作用 薬動学的作用
+2611 pharmacodynamics 薬[物]力学 薬動学
+2612 pharmacogenic acidosis 薬物性アシドーシス
+2613 pharmacokinetics 薬物動態[学]
+2614 pharmacologic[al] action 薬理作用
+2615 pharyngeal reflex 咽頭反射
+2616 pharyngitis 咽頭炎
+2617 phase 期 相 位相
+2618 phlebotomy 静脈切開
+2619 phlegmonous laryngitis 蜂巣(織)炎
+2620 phospholipase A2 フォスフォリパーゼA2
+2621 photoelectric 光電[気]の
+2622 photoelectric plethysmograph 光電プレチスモグラフ
+2623 photoelectric plethysmography 光電[気]容積脈波記録法 (プレチスモグラフィー)
+2624 phototherapy 光線療法
+2625 phrenic nerve palsy 横隔神経麻痺
+2626 phrenic nerve stimulation 横隔神経刺激
+2627 physical dependence 肉体的依存[症] 身体的依存[症]
+2628 physical examination 理学的診察 フィジカルイグザミネー
+ション 身体診察
+2629 physical finding 理学的所見
+2630 physical restraint 身体拘束
+2631 physical therapist <PT> 理学療法士
+2632 physical therapy 理学療法
+2633 physiological dead space 生理学的死腔
+2634 physiological saline [solution] 生理[的]食塩水[液]
+2635 physiology 生理学
+2636 physiotherapist <PT> 理学療法士
+2637 physiotherapy 理学療法
+2638 plasma 血漿
+2639 plasma (serum) protein 血漿蛋白(血清蛋白)
+2640 plasma [volume] expander 血漿増量剤
+2641 plasma bicarbonate 血漿重炭酸塩
+2642 plasma exchange 血漿交換
+2643 plasma expander 血漿増量液
+2644 plasma protein 血漿蛋白
+2645 plasma substitute 代用血漿[剤]
+2646 plasma thromboplastin antecedent <PTA> 血漿トロンボプラスチン前
+駆物質 《XI因子》
+2647 plasma thromboplastin component 血漿トロンボプラスチン成
+分 《IX因子》
+2648 plasma thromboplastin factor <PTF> 血漿トロンボプラスチン因
+子 《VIII因子》
+2649 plasma volume 血漿量
+2650 plasmapheresis プラスマフェレーシス(血漿
+交換)
+2651 plasminogen activator プラスミノゲン活性化物質
+2652 plateau プラトー
+2653 platelet 血小板
+2654 platelet activating factor <PAF> 血小板活性化因子
+2655 platelet aggregation 血小板凝集
+2656 platelet concentrate 血小板濃縮液
+2657 platelet factor 3 血小板第3(III)因子
+2658 platelet transfusion 血小板輸血
+2659 platelet-derived growth factor 血小板由来成長因子
+2660 plethysmogram プレチスモグラム
+2661 plethysmograph プレチスモグラフ
+2662 plethysmography プレチスモグラフィー
+2663 pleural effusion 胸水[貯留]
+2664 pleural ex[s]udate 胸膜滲出液
+2665 pleural exsudate 胸水
+2666 pleural fluid 胸膜液 胸水
+2667 pleural friction rub 胸膜摩擦音
+2668 pleural pressure 胸腔内圧
+2669 pneum[at]ocele 肺嚢胞
+2670 pneumatic valve 空気弁
+2671 pneumo[no]centesis 肺穿刺
+2672 pneumoencephalogram <PEG> 気脳図
+2673 pneumoencephalography 気脳造影(撮影)[法] 気体脳造影[法] 気脳写
+2674 pneumogram 呼吸曲線
+2675 pneumograph 呼吸[曲線]記録器 ニューモグラフ
+2676 pneumomediastinum 気縦隔[症] 縦隔気腫
+2677 pneumonia 肺炎
+2678 pneumonitis 肺炎 肺実質炎
+2679 pneumopericardium 心膜気腫 心嚢気腫
+2680 pneumoperitoneum 気腹[症] 気腹[術]
+2681 pneumophagia 空気嚥下[症] 呑気症
+2682 pneumopye 膿気の
+2683 pneumopyothorax 膿気胸
+2684 pneumotachograph 呼吸流量計 ニューモタコグラフ
+2685 pneumotaxic center 呼吸調節中枢
+2686 pneumothorax 気胸[症]
+2687 poison gas 毒ガス
+2688 poisoning 中毒
+2689 poisonous gas 有毒ガス
+2690 poisonous snake 毒蛇
+2691 polarogram ポーラログラム
+[[p33]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2692 polarograph ポーラログラフ
+2693 polarography ポーラログラフィー
+2694 poliomyelitis 灰白髄炎
+2695 polycythemia 多血症
+2696 polygeminy 多段脈
+2697 polygraph 多用途[記録]計 ポリグラフ
+2698 polyhydramnios 羊水過多症
+2699 polymerase ポリメラーゼ
+2700 polymorphonuclear neutrophil 多核白血球
+2701 polymorphonuclear neutrophil elastase 好中球エラスターゼ
+2702 polymyxin B immobilized fiber column
+direct hemoperfusion <PMX-DHP>
+ポリミキシンB固定化カラム
+による直接血液灌流法
+2703 polyneuritis 多発[性]神経炎
+2704 polypharmacy 多剤乱用
+2705 polypnea 多呼吸
+2706 polytrauma 多発外傷
+2707 polyunsaturated fatty acid 多価不飽和脂肪酸
+2708 polyuria 多尿[症]
+2709 poor risk リスク不良 プアリスク
+2710 pop-off valve 排気弁 安全弁 ポップオフバルブ
+2711 portal vein thrombosis 門脈血栓症
+2712 positive end-expiratory pressure <PEEP> 呼気終末持続陽圧[法]
+2713 positive feedback 正帰還 ポジティブフィードバッ
+ク
+2714 positive inotropic action 陽性変力作用
+2715 positive negative pressure breathing 陽陰圧呼吸
+2716 positive pressure breathing 陽圧呼吸 陽圧呼吸[法]
+2717 positive pressure ventilation 陽圧換気[法]
+2718 positive sign 陽性所見 確徴
+2719 positive-negative pressure breathing 陽陰圧呼吸[法]
+2720 posterior [myocardial] infarction 後壁[心筋]梗塞
+2721 posthepatic jaundice 肝後性黄疸
+2722 post-intensive care syndrome<PICS>
+2723 postmortem examination 剖検 死体解剖 検死・検屍
+2724 postoperative anuria/oliguria 術後無尿/乏尿
+2725 postoperative bleeding 術後出血
+2726 postoperative care 術後管理 術後ケア
+2727 postoperative complication 術後合併症
+2728 postoperative couse 術後経過
+2729 postoperative death 術後死[亡]
+2730 postoperative management 術後管理
+2731 postoperative medication [手]術後投薬
+2732 postoperative period 術後期
+2733 postoperative pneumonia 術後肺炎
+2734 postoperative psychosis 術後精神病
+2735 postoperative pulmonary complication 術後肺合併症
+2736 postoperative thrombosis 術後血栓症
+2737 postpartum bleeding 分娩後出血
+2738 postpartum hemorrhage 分娩後出血
+2739 postrenal anuria 腎後性無尿
+2740 postrenal uremia 腎後性尿毒症
+2741 postresuscitation syndrome 蘇生後症候群
+2742 post-term delivery 過期産
+2743 post-tracheotomy 気管切開後の
+2744 posttraumatic 外傷後の
+2745 posttraumatic epilepsy 外傷後てんかん
+2746 posttraumatic stress disorder <PTSD> 外傷後ストレス症候群 心的外傷後ストレス障害
+2747 postural 体位性
+2748 postural drainage 体位排液(膿)法 体位ドレナージ
+2749 postural hypotension 体位性低血圧[症]
+2750 postural reflex 姿勢反射
+2751 posture 体位 姿勢
+2752 potassium カリウム
+2753 potassium depletion カリウム欠乏[症]
+2754 potentiometer 電位差計 ポテンショメータ
+2755 povidone iodine ポビドンヨード
+2756 precapillary (sphincter) 前毛細[血]管の
+2757 precordial anxiety 前胸[部]不快感
+2758 precordial bulging 前胸部突出
+2759 precordial lead 胸部誘導
+2760 precordial pain 前胸[部]痛
+2761 precordial region 前胸部
+2762 precountershock 除細動前の
+2763 prediastolic 拡張前(前拡張)期の
+2764 predicted 予測性の
+2765 predicted vital capacity 予測肺活量
+2766 predisposing cause 素因
+2767 predisposing factor 疾病素質 前提因子 前提条件
+2768 preeclampsia 子かん(癇)前症
+2769 pregnancy 妊娠
+2770 prehepatic jaundice 肝前性黄疸
+2771 preload 前負荷
+2772 prematare 早産の 早発の
+2773 premature atrial contraction <PAC> 心房[性]期外収縮 上室[性]期外収縮
+2774 premature baby 早産児 未熟児
+2775 premature beat 期外収縮 早期収縮
+2776 premature contraction 期外収縮 早期収縮
+[[p34]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2777 premature infant 早産児 未熟児
+2778 premature ventricular contraction [beat]
+[systole] <PVC> 心室[性]期外収縮
+2779 prenatal 出生前の
+2780 prenatal care 出生前管理
+2781 prenatal diagnosis 出生前診断
+2782 preoperative care 術前ケア
+2783 preoperative evaluation 術前評価
+2784 prerenal anuria 腎前性無尿
+2785 prerenal uremia 腎前性尿毒症
+2786 prescription 処方
+2787 preservative 保存剤 防腐剤 保存力のある
+2788 preserved blood 保存血[液]
+2789 presso[re]cepter 圧受容体(器)
+2790 pressor reflex 昇圧反射
+2791 pressor-recepter reflex 圧受容器反射
+2792 pressure controlled ventilation 従圧的換気
+2793 pressure drop 圧低下
+2794 pressure gangrene 圧迫壊疽
+2795 pressure gradient 圧勾配
+2796 pressure ischemia 圧迫虚血(乏血)
+2797 pressure manometer 圧マノメータ
+2798 pressure necrosis 圧迫壊死
+2799 pressure overload 圧過負荷
+2800 pressure pulse 圧脈拍
+2801 pressure regulator 圧調節器
+2802 pressure steam sterilizer (autoclave) 高圧蒸気滅菌器 ≪オートクレーブ≫
+2803 pressure suits 加圧服 与圧服
+2804 pressure support ventilation 圧支持換気 プレッシャーサポート換
+気
+2805 pressure transducer 圧トランスデューサ
+2806 pressure-limited respirator 従圧式人工呼吸器
+2807 pressure-volume curve 圧量曲線
+2808 pressure-volume relationship 圧量関係
+2809 presystolic 収縮前期の 前収縮期の
+2810 presystoric murmur 収縮前[期]雑音 前収縮[期]雑音
+2811 preterm 未熟児
+2812 preterm baby 早期産児
+2813 preterm infant 早[期]産児 未熟児
+2814 preterm labor 早期分娩
+2815 pretreatment 前処置 前処理
+2816 preventable death 予防できる死
+2817 primary infection 一次感染 初感染
+2818 primary lesion 一次病巣(病変) 原発[病]巣 原発病変
+2819 primary myocardial disease <PMD> 原発[性]心筋症
+2820 primary shock 一次性ショック
+2821 probe 探査子 プローブ 消息子 ゾンデ／さ
+ぐる
+2822 productive cough 湿性咳[嗽]
+2823 profound hypothermia 超低体温[法]
+2824 prognosis 予後
+2825 prognostic nutritional index 予後判定栄養指数
+2826 progressive bulbar atrophy 進行性球(延髄)萎縮[症]
+2827 progressive bulbar palsy 進行性球(延髄)麻痺
+2828 progressive bulbar paralysis 進行性球(延髄)麻痺
+2829 progressive muscular atrophy 進行性筋萎縮[症]
+2830 progressive muscular dystrophy 進行性筋ジストロフィ
+2831 progressive spinal muscular atrophy 進行性脊髄性筋萎縮[症]
+2832 progressive systemic sclerosis <PSS> 全身性進行性硬化[症]
+2833 proinflammatory 炎症性
+2834 proinflammatory cytokine 炎症性サイトカイン
+2835 proliferative fibrosis 増殖性線維形成
+2836 prolonged apnea 遷延性無呼吸 遅延(遷延)性無呼吸 持続性無呼吸
+2837 prolonged effect 持続効果 遅延(遷延)効果
+2838 prolonged expiration 呼気延長
+2839 prone position 腹臥位
+2840 prostaglandin E2 プロスタグランディンE2
+2841 prosthesis 人工器官
+2842 prosthetic device 人工器官
+2843 protease プロテアーゼ 蛋白分解酵素
+2844 protective glove 防護手袋
+2845 protective mask 防護マスク
+2846 protective ventilation 保護(的)換気(法)
+2847 protein タンパク
+2848 protein-calorie malnutrition タンパクカロリー栄養不良
+2849 proteinuria タンパク尿
+2850 proteolysis タンパク分解
+2851 proteolytic タンパク分解の
+2852 proteolytic enzyme タンパク分解酵素
+2853 prothrombin プロトロンビン
+2854 prothrombin conversion factor <PCF> プロトロンビン転化因子
+2855 prothrombin time <PT> プロトロンビン時間
+2856 proton pump inhibitor プロトンポンプ阻害薬
+2857 protozoa 原虫
+2858 protozoal infection 原虫感染
+2859 pseudoaneurysm 偽性大動脈瘤
+[[p35]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2860 pseudocholinesterase 偽性コリンエステラーゼ 《血清コリンエステラー
+ゼ》
+2861 pseudochylous ascites 偽[性]乳び腹水
+2862 pseudomembranous croup 偽膜性喉頭炎
+2863 psychic trauma 精神外傷
+2864 psychogenic reaction 心因[性]反応
+2865 psychotherapy 精神療法 心理療法
+2866 psychotomimetic drug 精神変容薬 精神異常[発動]薬
+2867 psychotropic drug 向精神薬
+2868 puerperal 産褥の
+2869 puerperal infection 産褥感染
+2870 puerperal sepsis 産褥敗血症 産褥セプシス
+2871 puerperal thrombosis 産褥血栓症
+2872 pulmonary alveolar proteinosis 肺胞蛋白症
+2873 pulmonary arterial pressure <PAP> 肺動脈圧
+2874 pulmonary artery blood pressure 肺動脈圧
+2875 pulmonary artery catheter 肺動脈カテーテル
+2876 pulmonary artery catheterization 肺動脈カテーテル
+2877 pulmonary artery occlusion pressure 肺動脈閉塞圧
+2878 pulmonary artery occlusion test 肺動脈閉塞試験
+2879 pulmonary artery pressure 肺動脈圧
+2880 pulmonary artery wedge pressure <PAWP> 肺動脈楔入圧
+2881 pulmonary atelectasis 無気肺
+2882 pulmonary barotrauma 肺圧傷害
+2883 pulmonary blood flow 肺血流[量]
+2884 pulmonary capacity＝vital capacity 肺活量
+2885 pulmonary capillary pressure 肺毛細管[血]圧
+2886 pulmonary capillary wedge pressure 肺毛細管楔入圧
+2887 pulmonary circulation 肺循環
+2888 pulmonary collapse 肺虚脱
+2889 pulmonary compliance 肺コンプライアンス
+2890 pulmonary congestion 肺うっ血
+2891 pulmonary contusion 肺挫傷
+2892 pulmonary diffusing capacity 肺拡散能
+2893 pulmonary edema 肺水腫
+2894 pulmonary elasticity 肺弾性
+2895 pulmonary embolectomy 肺[動脈]塞栓摘出[術]
+2896 pulmonary embolism 肺[動脈]塞栓症
+2897 pulmonary emphysema 肺気腫
+2898 pulmonary eosinophilia 肺好酸球増加症
+2899 pulmonary fibrosis 肺線維症
+2900 pulmonary function 肺機能
+2901 pulmonary gas distribution 肺内ガス分布
+2902 pulmonary gas exchange 肺内ガス交換
+2903 pulmonary hemorrhage 肺出血
+2904 pulmonary hyperinflation 肺過膨張
+2905 pulmonary hypertension 肺高血圧[症]
+2906 pulmonary infarction 肺梗塞
+2907 pulmonary infiltrate 肺浸潤[像]
+2908 pulmonary infiltration 肺浸潤
+2909 pulmonary infiltration with eosinophilia PIE症候群
+2910 pulmonary injury 肺損傷(傷害)
+2911 pulmonary lobectomy 肺葉切除術
+2912 pulmonary P 肺性P[波]
+2913 pulmonary permeability 肺血管透過性
+2914 pulmonary regurgitation 肺動脈弁逆流 肺動脈弁閉鎖不全[症]
+2915 pulmonary resection 肺切除術
+2916 pulmonary scintigraphy 肺シンチグラフィー
+2917 pulmonary shunt 肺シャント
+2918 pulmonary surfactant 肺サーファクタント
+2919 pulmonary thromboembolism 肺動脈血栓塞栓症
+2920 pulmonary thrombosis 肺動脈血栓症
+2921 pulmonary tuberculosis 肺結核
+2922 pulmonary valve insufficiency 肺動脈弁閉鎖不全
+2923 pulmonary vascular bed 肺血管床
+2924 pulmonary vascular resistance <PVR> 肺血管抵抗
+2925 pulmonary ventilation 肺換気
+2926 pulsatile 拍動[性]の
+2927 pulsatile flow 拍動流
+2928 pulsation 拍動
+2929 pulse 脈拍
+2930 pulse deficit 脈[拍]欠損
+2931 pulse oximeter 脈波[型]酸素飽和度計 パルスオキシメータ
+2932 pulse oximetry パルスオキシメトリ
+2933 pulse pressure 脈圧
+2934 pulse wave 脈波
+2935 pulselessness 脈拍触知不能
+2936 pupillary 瞳孔の
+2937 pupillary diameter 瞳孔径
+2938 pupillary dilatation 瞳孔散大
+2939 pupillary reflex 瞳孔反射
+2940 Purkinje's fibers プルキンエ線維 《刺激伝導系筋線維》
+2941 pursed-lip breathing 口すぼめ呼吸
+2942 purulent discharge [化]膿性分泌物
+2943 purulent peritonitis 化膿性腹膜炎
+2944 pyogenic 化膿症の
+2945 pyogenic bacteria 化膿菌
+[[p36]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+2946 pyohemothorax 膿血胸
+2947 pyopneumothorax 膿気胸
+2948 pyothorax 膿胸
+2949 pyrexia 発熱
+2950 pyrogen 発熱物質 発熱因子
+2951 pyrogen-free 発熱物質のない
+2952 pyrogenic substance 発熱物質
+2953 QRS complex QRS群
+2954 QT interval QT間隔
+2955 quality control <QC> 品質管理
+2956 quality of life 生命の質
+2957 radial pulse 橈骨動脈脈拍(拍動)
+2958 radiant heat 輻射熱 放射熱
+2959 radiating pain 放散痛
+2960 radiation 放射線
+2961 radiological examination 放射線検査 放射線医学検査
+2962 radiotherapy 放射線療法
+2963 randomization 無作為化
+2964 randomized controlled trial 無作為比較試験
+2965 reaction 反応
+2966 reactive depression 反応性抑うつ
+2967 reactive hyperemia 反応性充血
+2968 reactive oxgen species 活性酸素種
+2969 reanimation 蘇生[法]
+2970 rebound 反跳現象 リバウンド
+2971 rebreathing 再呼吸
+2972 rebreathing mask 再呼吸[用]マスク
+2973 receptor 受容体
+2974 recipient レシピエント 被移植者
+2975 recirculation time 再循環時間
+2976 recombinant (遺伝子)組み換え
+2977 recombinant human activated protein C 組み換えヒト活性プロテイ
+ンＣ
+2978 recovery room 回復室
+2979 recruitment maneuver リクルートメント手技 再膨張手技
+2980 rectal instillation 直腸[点滴]注入[法] 注腸[法]
+2981 rectal temperature 直腸温
+2982 recumbent position 臥位
+2983 red blood cell 赤血球液
+2984 red blood cell transfusion 赤血球輸血
+2985 redox state 酸化還元電位
+2986 reducing valve 減圧弁
+2987 re-entrant tachycardia リエントリ性頻拍症
+2988 re-entry リエントリ
+2989 reference electrode 基準電極 不関電極
+2990 reflex apnea 反射性無呼吸
+2991 reflex cough 反射[性]咳
+2992 reflex tachycardia 反射性頻拍
+2993 refractory 不応の 無反応性の 治療抵抗性の
+2994 refractory asthma 治療抵抗性喘息 難治性喘息
+2995 refractory edema 治療不応性浮腫(水腫) 難治性浮腫(水腫)
+2996 refractory period 不応期
+2997 refractory state 不応状態
+2998 regional anesthesia 局所麻酔
+2999 regional anticoagulation 局所的抗凝固療法
+3000 regional heparinization 局所的ヘパリン化
+3001 regional perfusion 局所潅流
+3002 regional ventilation 局所換気
+3003 regular sinus rhythm 正常洞調律
+3004 regurgitation 逆流
+3005 reinfarction 再梗塞
+3006 rejection 拒絶[反応]
+3007 rejection phenomenon 拒絶現象
+3008 relative humidity 相対湿度
+3009 relative refractory period 相対不応期
+3010 REM sleep レム睡眠 ≪逆説睡眠≫
+3011 renal anuria 腎性無尿
+3012 renal blood flow 腎血流 腎血流量
+3013 renal failure 腎不全 腎機能不全
+3014 renal infarction 腎梗塞
+3015 renal injury 腎損傷（傷害）
+3016 renal insufficiency 腎不全 腎機能不全
+3017 renal replacement therapy 腎[機能]代替療法
+3018 renal shutdown 腎機能停止
+3019 renal transplantation 腎移植[術]
+3020 renovascular hypertension 腎血管性高血圧[症]
+3021 reperfusion 再灌流
+3022 reperfusion injury 再灌流障害
+3023 replacement therapy 置換療法
+3024 reproducibility 再現性
+3025 rescue apparatus 救命(急)[用]器具
+3026 research design 研究デザイン
+3027 research subject 研究対象
+3028 reserve protein 貯蔵蛋白
+3029 reservoir 貯溜器 リザーバ[ー]
+3030 reservoir bag 貯溜用バッグ リザーバ[ー]バッグ
+3031 residual volume <RV> 残気量
+[[p37]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3032 resistance vessel 抵抗血管
+3033 resistant strain 抵抗性菌株 耐性菌株
+3034 resonance frequency 共振周波数
+3035 respiration rate 呼吸数
+3036 respirator 人工呼吸器 レスピレータ
+3037 respiratory 呼吸[性]の
+3038 respiratory accessory muscle 呼吸補助筋
+3039 respiratory acidosis 呼吸性アシドーシス
+3040 respiratory alkalosis 呼吸性アルカローシス
+3041 respiratory arrest 呼吸停止
+3042 respiratory arrhythmia 呼吸性不整脈
+3043 respiratory center 呼吸中枢
+3044 respiratory compensation 呼吸性代償
+3045 respiratory dead space 呼吸死腔
+3046 respiratory depressant 呼吸抑制薬
+3047 respiratory depression 呼吸抑制
+3048 respiratory distress 呼吸促迫 呼吸窮迫(困難)[症]
+3049 respiratory distress syndrome <RDS> 呼吸促迫症候群
+3050 respiratory disturbance 呼吸障害
+3051 respiratory drive 呼吸刺激
+3052 respiratory epithelium 呼吸上皮
+3053 respiratory failure 呼吸不全 呼吸機能不全
+3054 respiratory frequency 呼吸数
+3055 respiratory function 呼吸機能
+3056 respiratory gas 呼吸[ガス]
+3057 respiratory index 呼吸指数
+3058 respiratory insufficiency 呼吸不全 呼吸機能不全
+3059 respiratory minute volume 分時換気量
+3060 respiratory monitor 呼吸監視機器 呼吸モニタ[ー]
+3061 respiratory monitoring 呼吸モニタリング
+3062 respiratory movement 呼吸運動
+3063 respiratory muscle 呼吸筋
+3064 respiratory muscle fatigue 呼吸筋疲労
+3065 respiratory obstruction 気道閉塞
+3066 respiratory paralysis 呼吸麻痺
+3067 respiratory pattern 呼吸パターン
+3068 respiratory pause 呼吸休止[期]
+3069 respiratory physiotherapist 呼吸[理学]療法士
+3070 respiratory pulmonary insufficiency 呼吸機能不全
+3071 respiratory pulse 呼吸性脈拍変動
+3072 respiratory quotient <RQ> 呼吸商
+3073 respiratory rate 呼吸数
+3074 respiratory stimulant 呼吸刺激薬
+3075 respiratory system 呼吸器系
+3076 respiratory tract 気道
+3077 respiratory tract infection 気道感染[症]
+3078 resting angina 安静[時]狭心症
+3079 resting energy expenditure <REE> 安静時エネルギー消費量
+3080 resuscitation 蘇生[法]
+3081 resuscitation manikin 蘇生訓練用人体模型(マネキ
+ン，人形)
+3082 resuscitator 蘇生器
+3083 retention uremia 貯留性尿毒症
+3084 reticulogranular shadow 網状顆粒状陰影
+3085 retinopathy of prematurity 未熟児網膜症
+3086 retrograde amnesia 逆行[性]健忘[症]
+3087 retrolental fibroplasia 後水晶体線維増殖[症] 水晶体後[方]線維増殖
+[症]
+3088 retroperitoneal abscess 後腹膜膿瘍
+3089 retropharyngeal abscess 咽後膿瘍
+3090 retrosternal pain 胸骨後痛
+3091 rewarming 復温
+3092 rewarming shock 復温[時]ショック
+3093 Rh incompatibility Rh不適合
+3094 rhabdomyolysis 横紋筋融解
+3095 rhythm 調律
+3096 rib fracture 肋骨骨折
+3097 rickets of prematurity 未熟児くる病
+3098 right axis deviation 右軸偏位
+3099 right bundle branch block <RBBB> 右脚ブロック
+3100 right cardiac catheterization 右心カテーテル法
+3101 right[sided] heart failure 右心不全
+3102 right lateral position 右側臥位
+3103 right ventricular failure 右室不全
+3104 right ventricular function 右心機能 右室機能
+3105 right ventricular hypertrophy <RVH> 右室肥大
+3106 right ventricular pressure 右[心]室圧
+3107 right-to-left shunt 右左シャント
+3108 Ringer's solution リンゲル液
+3109 risk 危険度 リスク
+3110 risk factor 危険因子 リスクファクター
+3111 room air 室内[空]気 大気
+3112 room temperature 室温
+3113 rotameter 浮子流量計 ロタメータ
+3114 routine test 常用試験(テスト・検査)
+3115 safety valve 安全弁
+3116 safty margin 安全域
+[[p38]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3117 saline 食塩水
+3118 saline solution 生食水
+3119 salivary amylase 唾液アミラーゼ
+3120 salt deficiency 塩類欠乏
+3121 salt deficit dehydration 塩[類]欠乏性脱水[症]
+3122 sampling 試料(検体)採取 サンプリング 標本採取
+3123 saturation 飽和度 飽和
+3124 scald burn 熱湯傷
+3125 scoring system 評価採点システム スコアリングシステム
+3126 seafood poisoning 魚介類中毒
+3127 secondary fibrinolysis 二次線維素溶解[現象] 二次線溶[現象]
+3128 secondary infection 二次感染 続発感染
+3129 secondary shock 二次[性]ショック
+3130 sedation 鎮静
+3131 sedative 鎮静の 鎮静薬
+3132 seizure 痙攣(けいれん)発作
+3133 seizure wave 発作波 痙攣(けいれん)波
+3134 selective angiography 選択的血管造影
+3135 semireclining position 半坐位
+3136 sensing failure 感知(感受)不全 センシング不全
+3137 sepsis 敗血症
+3138 septal infarction 中隔[心筋]梗塞
+3139 septic 敗血[症][性]の
+3140 septic encephalopathy 敗血症性脳症
+3141 septic shock 敗血症性ショック
+3142 septicemia 敗血症
+3143 sequential pacing 同期型ペーシング
+3144 serial angiography 連続血管造影
+3145 serous exsudate 漿液性滲出液
+3146 servomechanism 自動制御機構 サーボメカニズム
+3147 severity of illness 重症度
+3148 shallow respiration 浅呼吸
+3149 shell temperature 外殻温
+3150 shivering ふるえ 戦慄
+3151 shock ショック
+3152 short run ショートラン 心室性期外収縮連発
+3153 shunt 短絡 シャント
+3154 shunt-like effect シャント様効果
+3155 sick sinus syndrome 洞[結節]不全症候群 洞機能不全症候群
+3156 side effect 副作用
+3157 signal/noise ratio <S/N ratio> 信号雑音比 S／N比
+3158 significance band 有意帯 有意域
+3159 silent aspiration 不顕性誤嚥
+3160 simulation シミュレーション 模擬
+3161 simulator シミュレータ 模擬装置
+3162 sino-atrial block <S-A block> 洞房ブロック
+3163 sinus arrest 洞停止 洞休止
+3164 sinus arrhythmia 洞[性]不整脈
+3165 sinus bradycardia 洞[性]徐脈
+3166 sinus rhythm 洞[性]リズム 洞[性]調律(律動)
+3167 sinus tachycardia 洞[性]頻脈 洞[性]頻拍(脈)
+3168 sitting position 坐位
+3169 skin antisepsis 皮膚消毒
+3170 skin graft 皮膚移植片 植皮片
+3171 skin grafting 皮膚移植[術] 植皮
+3172 skin temperature 皮膚温
+3173 sleep apnea 睡眠時無呼吸[症候群]
+3174 sleep deprivation 睡眠不足
+3175 sleep inducer 催眠薬，入眠薬
+3176 small for gestational age infant <SGA> 妊娠期間に比して小さい児
+3177 small-for-dates <SFD> 不当軽量児
+3178 small for size-graft サイズ不足移植片 必要量に比して小さい移
+植片
+3179 sniffing postion においを嗅ぐ姿勢 スニッフィングポジシヨ
+ン
+3180 spasm 痙攣 攣(れん)縮
+3181 spasmodic asthma 痙性喘息
+3182 spasmodic cough 痙咳
+3183 spasmodic croup 痙性クループ
+3184 spasmodic respiration 痙性呼吸
+3185 spastic hemiplegia 痙性片麻痺
+3186 spastic paralysis 痙性麻痺
+3187 spastic spinal paralysis 痙性脊髄麻痺
+3188 spasticity 痙性 痙直
+3189 specific immunotherapy 特異免疫療法
+3190 spectrophotometry 分光分析法
+3191 speech disturbance 言語障害
+3192 spike and wave 棘徐波
+3193 spike and wave complex 棘徐波複合[波]
+3194 spinal cord injury 脊髄損傷
+3195 spinal cord ischemia 脊髄虚血
+3196 spinal paralysis 脊髄麻痺
+3197 spinal puncture 脊椎穿刺 脊髄くも膜下穿刺
+3198 spinal reflex 脊髄反射
+3199 spinal shock 脊髄[性]ショック
+3200 spinal tap 脊椎穿刺 脊髄くも膜下穿刺
+3201 spirogram 呼吸[運動記録]曲線 スパイログラム 肺容量曲線
+[[p39]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3202 spirometer スパイロメータ 肺活量計 呼吸量計
+3203 spirometry スパイロメトリー 肺活量測定
+3204 spontaneous 自発[的]の
+3205 spontaneous pneumothorax 自然気胸
+3206 spontaneous respiration(breathing) 自発呼吸
+3207 spray 噴霧 噴霧器 スプレー
+3208 sputum 喀痰
+3209 sputum culture 喀痰培養
+3210 ST depression ST低下
+3211 ST segment ST部
+3212 stab wound 刺創
+3213 stagnant anoxia うっ血性無酸素[症] うっ滞性無酸素症
+3214 stagnant hypoxia うっ血性低酸素[症]
+3215 standard bicarbonate 標準重炭酸塩
+3216 standard condition 標準状態
+3217 standard limb lead 標準肢誘導
+3218 Staphylococcus aureus infection 黄色ブドウ球菌感染(症)
+3219 stasis うっ血 うっ滞
+3220 static compliance 静的コンプライアンス
+3221 static electricity 静電気
+3222 status asthmaticus 喘息重積状態
+3223 status epilepticus てんかん重積状態
+3224 steady state 定常状態
+3225 stent(graft) ステント
+3226 sterile water 滅菌水
+3227 sterilization 滅菌[法] 殺菌[法]
+3228 sterilized(sterile) water 滅菌水
+3229 sterilizer 滅菌器
+3230 stertorous respiration いびき様呼吸
+3231 stillbirth 死産
+3232 stimulator 刺激薬 刺激物質 刺激器
+3233 store 貯蔵 ストア
+3234 stored blood 保存血
+3235 storm 急性発作 重症発作
+3236 stress 侵襲 ストレス
+3237 stress reaction 侵襲(ストレス)反応
+3238 stress ulcer ストレス潰瘍
+3239 stress ulcer prophylaxis ストレス潰瘍予防
+3240 stretcher ストレッチャー
+3241 stridor 喘鳴
+3242 stridor laryngeal 喉頭性喘鳴
+3243 stroke 拍動 脳卒中 発作 卒中
+3244 stroke volume 1回[心]拍出量 1回換気量
+3245 study design 研究デザイン
+3246 stupor 昏迷
+3247 stylet スタイレット
+3248 subacute bacterial endocarditis <SBE> 亜急性細菌性心内膜炎
+3249 subaortic stenosis 大動脈弁下部狭窄
+3250 subarachnoid bleeding くも膜下出血
+3251 subarachnoid hemorrhage <SAH> くも膜下出血
+3252 subcutaneous bleeding 皮下出血
+3253 subcutaneous emphysema 皮下気腫
+3254 subcutaneous gas pocket 皮下ガスポケット
+3255 subdural bleeding(hemorrhage) 硬膜下出血
+3256 subdural hematoma 硬膜下血腫
+3257 subendocardial 心内膜下の
+3258 subendocardial infarction 心内膜下梗塞 心内膜下[心筋]梗塞
+3259 subendocardial ischemia 心内膜下虚血
+3260 subendocardial necrosis 心内膜下壊死
+3261 subependymal hemorrhage 上衣下出血
+3262 subglottic edema 声門下浮腫
+3263 subglottic laryngitis 声門下喉頭炎
+3264 subglottic secretion 声門下分泌物
+3265 subglottic stenosis 声門下狭窄
+3266 substernal 胸骨下の
+3267 substernal oppression 胸骨下圧迫感
+3268 substitute 代用品
+3269 substitution therapy 代替療法
+3270 sucking reflex 吸引反射 吸い込み反射
+3271 suction 吸引
+3272 suction apparatus 吸引器
+3273 suction catheter 吸引[用]カテーテル
+3274 suction tube 吸引管 吸引チューブ
+3275 suction unit 吸引装置
+3276 sudden cardiac arrest 突然の心停止
+3277 sudden death 突然死 急死
+3278 sudden infant death syndrom <SIDS> 乳幼児突然死症候群
+3279 sudden onset 突然発症
+3280 suffocation 窒息
+3281 summation gallop 重合奔馬調律
+3282 sunset phenomenon 落日現象
+3283 sunstroke 日射病
+3284 superinfection 重[複]感染
+3285 superior tracheotomy 上気管切開
+3286 superior vena cava syndrome 上大静脈症候群
+3287 superoxde dismutase スーパーオキシドジスム
+ターゼ
+[[p40]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3288 superoxide スーパーオキシド
+3289 superoxide active agent 表面活性薬(剤)
+3290 superoxide active substance 表面活性物質
+3291 superoxide anion スーパーオキシド・アニオ
+ン
+3292 supine position 仰臥位 脊臥位
+3293 supraventricular extrasystole 上室[性]期外収縮
+3294 supraventricular prematre contraction 上室[性]期外収縮
+3295 supraventricular tachycardia 上室[性]頻拍
+3296 surface cooling 表面冷却
+3297 surface tension 表面張力
+3298 surface-active disinfectant 界面活性消毒薬
+3299 surfactant サーファクタント 表面活性物質
+3300 surfactant protein B サーファクタントプロテイ
+ンB
+3301 surfactant replacement therapy サーファクタント補充療法 表面活性物質補充療法
+3302 surgical intensive care unit 外科系集中治療室 外科集中治療室
+3303 surgical risk 手術危険度
+3304 surgical site infection 手術部位感染
+3305 survival 生存
+3306 survival curve 生存曲線
+3307 survival rate 生存率
+3308 suspended animation 仮死[状態]
+3309 swallowing reflex 嚥下反射
+3310 Swan-Ganz catheter スワン・ガンツカテーテル
+3311 sympathetic block 交感神経遮断
+3312 sympathetic blocking agent 交感神経遮断薬
+3313 sympathetic nervous system 交感神経系
+3314 syncope 失神
+3315 systemic blood flow 体血流[量]
+3316 systemic circulation 体循環
+3317 systemic inflammatory response syndrome 全身性炎症反応症候群
+3318 systemic lupus erythematosus <SLE> 全身性エリテマトーデス
+3319 systemic vascular resistance <SVR> 体血管抵抗
+3320 systolic blood pressure 収縮期[血]圧
+3321 systolic murmur 収縮期雑音
+3322 systolic phase 収縮期
+3323 systolic pressure 収縮期圧
+3324 systolic volume 収縮期容積
+3325 tachyarrhythmia 頻脈性不整脈
+3326 tachycardia 頻拍(脈)
+3327 tachypnea 頻呼吸
+3328 tamponade タンポナーデ
+3329 tapering テーパリング
+3330 telemedicine 遠隔医療
+3331 telemeter テレメータ
+3332 temperature regulation 体温調節
+3333 temporary pacemaker 一時的ペースメーカー
+3334 tension pneumothorax 緊張[性]気胸
+3335 teratoma 奇形腫
+3336 terminal 終末 末期
+3337 terminal breathing 末期呼吸
+3338 terminal care ターミナルケア
+3339 terminal infection 末期感染
+3340 terminal stage 終末期
+3341 test dose 試験用量
+3342 tetanus antitoxin 破傷風抗毒素
+3343 tetany テタニー
+3344 The Annual Meeting of the Japanese Society
+of Intensive Care Medicine
+日本集中治療医学会年次総
+会
+3345 The Japanese Society of Intensive Care
+Medicine 日本集中治療医学会
+3346 therapeutic 治療の
+3347 therapeutic agent 治療薬
+3348 therapeutic diagnosis 治療的診断 治療的診断[法]
+3349 therapeutic dose 治療[薬]量
+3350 therapist 療法士
+3351 thermal stress 温熱ストレス
+3352 thermistor サーミスタ
+3353 thermocouple 熱電対
+3354 thermometer 温度計
+3355 thermoregulation 体温調節
+3356 thermostat サーモスタット
+3357 thoracentesis 胸腔穿刺
+3358 thoracic  trauma 胸部外傷
+3359 thoracic breathing 胸式呼吸
+3360 thoracic cage compliance 胸郭コンプライアンス
+3361 thoracic contusion 胸部挫傷
+3362 thoracic deformity 胸郭変形
+3363 thoracic gas volume 胸腔内ガス[容]量
+3364 thoracic paracentesis 胸腔穿刺
+3365 thoracic respiration 胸式呼吸
+3366 thoracic trauma 胸部外傷
+3367 thrombin トロンビン
+3368 thromboelastogram <TEG> トロンボエラストグラム
+3369 thromboembolism 血栓塞栓症
+3370 thrombolysis 血栓溶解(融解)
+[[p41]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3371 thrombolytic agent 血栓溶解薬
+3372 thrombomodulin トロンボモジュリン
+3373 thrombophlebitis 血栓性静脈炎
+3374 thromboplastin トロンボプラスチン
+3375 thrombopoietin トロンボポイエチン
+3376 thrombosis 血栓症
+3377 thrombotic embolism 血栓[性]塞栓症
+3378 thrombotic thrombocytopenic purpura 血栓性血小板減少性紫斑病
+3379 thyroid crisis 甲状腺[中毒] 発症 甲状腺クリーゼ
+3380 thyrotoxic heart failure 甲状腺中毒性心不全
+3381 thyrotoxic storm 甲状腺クリーゼ
+3382 tidal volume １回換気量
+3383 timed vital capacity 時間(時限)肺活量
+3384 tissue culture 組織培養
+3385 tissue factor 組織因子
+3386 tissue plasminogen activator <t-PA> 組織プラスミノゲン活性化
+因子
+3387 T-lymphocyte T細胞
+3388 tolerance test 耐用試験
+3389 tomography 断層撮影(法)
+3390 tonic convulsion 強直[性]痙攣
+3391 tonic neck reflex 緊張性頸反射
+3392 tonometer トノメータ
+3393 tonus トーヌス
+3394 topical anesthesia 表面麻酔[法]
+3395 total acidity 全酸度
+3396 total blood volume 全血液量
+3397 total body water 全(総)水分量
+3398 total lung capacity <TLC> 全(総)肺気量
+3399 total parenteral nutrition <TPN> 完全非経口[的]栄養[法] 経静脈栄養法
+3400 total peripheral resistance <TPR> 全末梢[血管]抵抗
+3401 total plasma volume 全血漿量
+3402 tourniquet ターニケット
+3403 tourniquet shock ターニケット・ショック
+3404 toxemia 毒血症
+3405 toxemia of pregnancy 妊娠中毒[症]
+3406 toxic dose 中毒量
+3407 toxic effect [中]毒作用 毒性
+3408 toxic encephalopathy 中毒性脳症
+3409 toxic psychosis 中毒性精神病
+3410 toxic reaction 中毒反応
+3411 toxicity 毒性
+3412 toxin トキシン
+3413 toxoid トキソイド
+3414 tracheal aspiration 気管吸引
+3415 tracheal cannula 気管カニューレ
+3416 tracheal carina 気管分岐部
+3417 tracheal　cathetel 気管カテーテル
+3418 tracheal collapse 気管虚脱
+3419 tracheal fenestration 気管開窓[術]
+3420 tracheal fistula 気管瘻
+3421 tracheal gas insufflation 気管吹送 気管ガス吹送法
+3422 tracheal granuloma 気管肉芽腫
+3423 tracheal intubation 気管挿管
+3424 tracheal sound 気管音
+3425 tracheal stenosis 気管狭窄[症]
+3426 tracheal　tube 気管チューブ
+3427 tracheo malacia 気管無力症
+3428 tracheobronchial toiletting <TBT> 気管・気管支内洗浄(トイ
+レッティング)
+3429 tracheobronchitis 気管・気管支炎
+3430 tracheobronchoscopy 気管・気管支鏡法
+3431 tracheolaryngotomy 気管咽頭切開[術]
+3432 tracheoplasty 気管形成[術]
+3433 tracheoscope 気管鏡
+3434 tracheoscopy 気管鏡法
+3435 tracheostenosis 気管狭窄
+3436 tracheostomy 気管開口 気管切開術
+3437 tracheostomy mask 気管切開孔用マスク
+3438 tracheotomy 気管切開術
+3439 tracheotomy tube 気管切開チューブ
+3440 traffic injury 交通外傷
+3441 tranquilizer トランキライザ
+3442 transcutaneous carbon dioxide tension
+<tcpCO2> 経皮炭酸ガス分圧
+3443 transcutaneous gas monitor 経皮[的]ガスモニター
+3444 transcutaneous oxygen tension <TcPO2> 経皮的酸素分圧
+3445 transdeamal cardiac pacemaker <TCP> 経皮的[心]ペースメーカ
+3446 transducer トランデューサ
+3447 transesophageal 経食道
+3448 transfer function 伝達関数
+3449 transferrin トランスフェリン
+3450 transfusion 輸注 交換輸血
+3451 transfusion hepatitis 輸血[後]肝炎
+3452 transient ischemic attack <TIA> 一過性脳虚血(乏血)発作
+3453 transient tachyprea of the newborn <TTN> 新生児一過性多呼吸
+3454 transmitter 伝達物質
+[[p42]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3455 transmural infarction 貫壁性梗塞
+3456 transmural pressure 壁内外圧差
+3457 transnasal catheter 経鼻カテーテル
+3458 transperitoneal 経腹膜の
+3459 transplant 移植片
+3460 transplantation 移植[術]
+3461 transplantation antigen 移植抗原
+3462 transplantation immunity 移植免疫
+3463 transpleural 経胸膜の
+3464 transport 輸送 移送
+3465 transpulmonary pressure 肺内外圧差
+3466 transthoracic biopsy 経胸壁肺生検
+3467 transtracheal 経気管的
+3468 transtracheal aspiration 経気管吸引[法]
+3469 transtracheal biopsy 経気管[的]肺生検
+3470 transudation 漏出[液]
+3471 transudative ascites 漏出性腹水
+3472 transurethral 経尿道的
+3473 trauma 外傷
+3474 traumatic 外傷性の
+3475 traumatic aneurysm 外傷性動脈瘤
+3476 traumatic epilepsy 外傷てんかん
+3477 traumatic fracture 外傷性骨折
+3478 traumatic pneumonia 外傷性肺炎
+3479 traumatic pneumothorax 外傷性気胸
+3480 traumatic psychosis 外傷性精神病
+3481 traumatic shock 外傷性ショック
+3482 tremor 振戦
+3483 triage トリアージ 患者死傷者の分類
+3484 tricuspid valve insufficiency 三尖弁閉鎖不全
+3485 trifascicular (bundle branch) block 三枝(束)ブロック
+3486 trigeminal pulse 三段脈 三連脈
+3487 trigeminy 三段脈 三連脈
+3488 trigger トリガー ひきがね
+3489 trigger zone トリガーゾーン
+3490 triple-lumen catheter トリプル・ルーメン・三腔
+カテーテル
+3491 triple-lumen tube 三腔管 トリプル・ルーメン・
+チューブ
+3492 trismus = lock jaw 開口障害≪咬筋痙攣による
+≫ 牙関緊急
+3493 trocar 套管針 トロカール
+3494 troponin T トロポニンT
+3495 true shunt 真のシャント
+3496 tube culture 試験管内培養
+3497 tube feeding 経管栄養
+3498 tubular 管状の 尿細管の
+3499 tubular acidosis / (renal) tubular acidosis 尿細管性アシドーシス
+3500 tubular diuresis 尿細管性利尿
+3501 tumor necrosis factor <TNF> 腫瘍壊死因子
+3502 turbine タービン
+3503 turbine flowmeter タービン流量計
+3504 turbulent diffusion 乱流拡散
+3505 turbulent flow 乱流
+3506 turnover rate 交代速度 交代率
+3507 twin-lumen tube 二腔管 ツイン・ルーメン・
+チューブ
+3508 twin-to-twin transfusion syndrome 双胎(児)間輸血症候群
+3509 U wave U波
+3510 ultrafiltration 限外ろ過
+3511 ultrashort acting 超短時間作用[性]の
+3512 ultrasonic cardiography <UCG> 超音波心臓検査法
+3513 ultrasonic diagnostics 超音波診断[法]
+3514 ultrasonic nebulizer 超音波ネブライザ
+3515 ultrasonic wave = supersonic wave 超音波
+3516 ultrasonography 超音波検査[法]
+3517 ultrasound 超音波
+3518 ultraviolet therapy 紫外線療法
+3519 umbilical artery cannulation = Arteria
+(umbilicalis) cannulation 臍動脈カニュレーション
+3520 uncompensated acidosis 非代償性アシドーシス
+3521 unipolar 単極の
+3522 unipolar lead 単極誘導(導出)
+3523 unipolar limb lead 単極[四]肢誘導(導出)
+3524 unproductive cough からせき(空咳) 乾[性]咳
+3525 unresponsiveness 不応[答][性]
+3526 unsaturated fatty acid 不飽和脂肪酸
+3527 unstable angina (pectoris) 不安定狭心症
+3528 untoward effect = detrimental effect 有(薬)害反応 不適切効果
+3529 upper airway obstruction 上気道閉塞
+3530 upper respiratory(tract) infection <URI> 上気道感染
+3531 urea clearance 尿素クリアランス
+3532 urea nitrogen 尿素窒素
+3533 uremia 尿毒症
+3534 uremic acidosis 尿毒症性アシドーシス
+3535 uremic coma 尿毒症[性]昏睡
+3536 uremic lung 尿毒症性肺[症]
+[[p43]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3537 urethral catheterization 尿道カテーテル法
+3538 urethral rupture 尿道破裂
+3539 urinary excretion 尿[中]排泄
+3540 urinary flow 尿流[量]
+3541 urinary output 尿量
+3542 urinary retention 尿閉
+3543 urinary tract 尿路
+3544 urinary tract infection <UTI> 尿路感染
+3545 urticaria じんま(蕁麻)疹
+3546 uterine rupture 子宮破裂
+3547 vagal arrhythmia 迷走神経性不整脈
+3548 vagal bradycardia 迷走神経性徐脈
+3549 vagal reflex 迷走神経反射
+3550 vagolytic 迷走神経抑制の 迷走神経抑制薬
+3551 vagomimetic 迷走神経[様]作用の 迷走神経作動薬
+3552 vagovagal reflex 迷走神経反射
+3553 valvular pneumothorax 弁状気胸
+3554 vaporizer 気化器
+3555 variant angina 異型狭心症
+3556 vascular bed 血管床
+3557 vascular cell adhesion molecule <VCAM> 血管細胞接着分子
+3558 vascular collapse 血管虚脱
+3559 vascular injury 脈管外傷 血管傷害
+3560 vasoactive agent(drug) 血管作用(作動)薬
+3561 vasoconstriction 血管収縮
+3562 vasoconstrictor 血管収縮薬 血管収縮神経
+3563 vasodila[ta]tion 血管拡張
+3564 vasodilative substance 血管拡張物質
+3565 vasodilator 血管拡張薬 血管拡張神経
+3566 vasodilatory shock 血管拡張性ショック
+3567 vasolability 血管不安定[性]
+3568 vasomotor center 血管運動中枢
+3569 vasomotor reflex 血管運動反射
+3570 vasomotor regulation 血管運動神経調節
+3571 vasopressin バソプレシン
+3572 vasopressor 昇圧薬
+3573 vasospasm 血管攣縮
+3574 vasovagal 血管迷走神経の
+3575 vasovagal reflex 血管迷走神経反射
+3576 vasovagal syncope 血管迷走神経失神
+3577 vectorcardiogram <VCG> ベクトル心電図
+3578 vectorcardiograph ベクトル心電計
+3579 vectorcardiography ベクトル心電図[記録]法
+3580 vein graft 静脈移植片
+3581 venipuncture 静脈穿刺
+3582 venogram 静脈造影(撮影)図
+3583 venography 静脈造影(撮影)[法] 静脈写
+3584 venous blood 静脈血
+3585 venous blood pressure 静脈[血]圧
+3586 venous catheterization 静脈カテーテル法
+3587 venous collapse 静脈虚脱
+3588 venous embolism 静脈塞栓[症]
+3589 venous filling 静脈充満[像]
+3590 venous hemorrhage 静脈出血
+3591 venous hum 静脈雑音 こま音
+3592 venous pressure 静脈圧
+3593 venous pulse 静脈波 静脈拍動
+3594 venous return 静脈還流[量]
+3595 venous stasis 静脈うっ血(うっ滞)
+3596 venous thrombosis 静脈血栓症 静脈性血栓
+3597 venous valve 静脈弁
+3598 ventilation 換気
+3599 ventilation/perfusion imbalance 換気血流比不均衡
+3600 ventilator 人工呼吸器 ベンチレータ
+3601 ventilator-associated(-induced)  lung injuries
+<VALI(VILI)> 人工呼吸器関連肺損傷 人工呼吸器関連肺傷害
+3602 ventilator-associated pneumonia <VAP> 人工呼吸器関連肺炎
+3603 ventilator-free days <VFD> ※訳語なし 《人工呼吸器非使用日
+数》
+3604 ventilatory capacity 換気能[力]
+3605 ventilatory disturbance 換気障害
+3606 ventilatory drive 換気刺激 換気ドライブ 換気駆動
+3607 ventilatory equivalent 換気当量
+3608 ventilatory insufficiency 換気不全
+3609 ventricular activation time <VAT> 心室興奮時間
+3610 ventricular aneurysm 心室瘤
+3611 ventricular arrhythmia 心室性不整脈
+3612 ventricular automatism 心室自動
+3613 ventricular bigeminy 心室性二段脈(二連脈)
+3614 ventricular capture 心室捕捉
+3615 ventricular end-diastolic pressure 心室拡張終[末]期圧
+3616 ventricular end-diastolic volume 心室拡張終[末]期容積
+3617 ventricular end-systolic volume 心室収縮終[末]期容積
+3618 ventricular extrasystole 心室[性]期外収縮
+3619 ventricular failure 心室不全
+3620 ventricular fibrillation <VF,Vf> 心室細動
+3621 ventricular flutter <VF> 心室粗動
+[[p44]]
+通番 英語 日本語1 日本語2 日本語3 日本語4
+3622 ventricular function curve 心室機能曲線
+3623 ventricular gallop 心室性奔馬調律 心室ギャロップ
+3624 ventricular hypertrophy 心室肥大
+3625 ventricular pacing 心室ペーシング
+3626 ventricular premature contraction [beat]
+[systole] <VPC> 心室[性]期外収縮 心室性期外収縮
+3627 ventricular preponderance 心室優位
+3628 ventricular presystole 心室前収縮期
+3629 ventricular rhythm 心室調律 心室リズム
+3630 ventricular strain 心室ストレイン
+3631 ventricular systole 心室収縮[期]
+3632 ventricular tachycardia <VT> 心室頻拍 心室[性]頻拍[症]
+3633 Venturi mask ベンチュリマスク
+3634 vertebral angiography <VAG> 椎骨動脈造影[法]
+3635 vesicular rale 肺胞水泡音 肺胞(呼吸)性ラ音
+3636 viability 生活[能]力 生存[能]力 生育力
+3637 vicious cycle 悪循環
+3638 viral hepatitis ウイルス[性]肝炎
+3639 viral infection ウイルス感染[症]
+3640 viral pneumonia ウイルス性肺炎
+3641 viral pneumonitis ウイルス性肺臓炎
+3642 visual disturbance 視覚障害 視力障害
+3643 vital capacity = pulmonary capacity 肺活量
+3644 vital reaction 生活反応 生命反応(微候)
+3645 vital sign バイタルサイン 生命(生存)徴候
+3646 vocal fremitus 声音振とう
+3647 volume fraction 体積分画
+3648 volume receptor 容積受容器(体)
+3649 volume-limited respirator 従量式人工呼吸器
+3650 voluntary hyperventilation 能動的過換気
+3651 vomiting center 嘔吐中枢
+3652 vulnerable period 受攻期
+3653 wakefulness 覚醒[状態]
+3654 wakening 覚醒
+3655 wandering pacemaker 遊走性(移動性)ペースメー
+カ
+3656 warfarin ワルファリン
+3657 warning arrhythmia 警告不整脈
+3658 water balance 水[分]平衡 水[分]バランス
+3659 water content 水分含量
+3660 water depletion 水喪失 水欠乏
+3661 water diuresis 水利尿
+3662 water excretion 水[分]排泄
+3663 water intake 水分摂取[量]
+3664 water intoxication 水中毒
+3665 water loading test 水負荷試験[テスト]
+3666 water loss 水分喪(損)失
+3667 water metabolism 水[分]代謝
+3668 water retention 水貯留
+3669 weaning 離脱 ウィーニング
+3670 wedge pressure 楔入圧
+3671 wet lung 水腫(浮腫)肺 湿潤肺
+3672 wheeze 喘鳴
+3673 wheezing 喘鳴
+3674 white noise 白色雑音
+3675 whole blood 全血
+3676 whole blood transfusion 全血輸血
+3677 whooping cough 百日咳
+3678 Wilson-Mikity Syndrome ウィルソンミキティ症候群
+3679 withdrawal symptom 禁断症状 退薬症状 離脱症状
+3680 Wolf-Parkinson-White syndrome <WPW
+syndrome> WPW症候群
+3681 wound healing 創傷治癒
+3682 wound infection 創傷感染
+3683 xanthochromia キサントクロミー
+3684 Y-adapter Yアダプタ
+3685 zinc deficiency 亜鉛欠乏症
+3686 α stimulant アルファ(α)作用薬
+3687 β stimulant ベータ(β)作用薬
+3688 γ globulin γ(ガンマ)グロブリン

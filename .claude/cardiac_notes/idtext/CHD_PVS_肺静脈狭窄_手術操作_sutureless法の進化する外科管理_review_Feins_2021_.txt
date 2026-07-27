@@ -1,0 +1,742 @@
+
+[[p1]]
+children
+Review
+Pulmonary Vein Stenosis—Evolving Surgical Management of a
+Challenging Disease
+Eric N. Feins 1,*, Ryan Callahan 2
+ and Christopher W. Baird 1
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Citation: Feins, E.N.; Callahan, R.;
+Baird, C.W. Pulmonary Vein
+Stenosis—Evolving Surgical
+Management of a Challenging
+Disease. Children 2021, 8, 631.
+https://doi.org/10.3390/
+children8080631
+Academic Editor:
+Francesca Santamaria
+Received: 29 April 2021
+Accepted: 20 July 2021
+oY?QT?i?QOQP
+Publisher’s Note:MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1 Department of Cardiac Surgery, Boston Children’s Hospital and Harvard Medical School,
+Boston, MA 02115, USA; Christopher.Baird@cardio.chboston.org
+2 Department of Cardiology, Boston Children’s Hospital and Harvard Medical School, Boston, MA 02115, USA;
+Ryan.Callahan@cardio.chboston.org
+* Correspondence: Eric.Feins@cardio.chboston.org
+Abstract: Pulmonary vein stenosis (PVS) is an extremely challenging clinical problem in congeni-
+tal heart disease. It has traditionally required multimodal therapy given its complex underlying
+pathophysiology. As with other modalities, surgical therapy has undergone tremendous evolution
+since the 1950s. These evolving strategies have been based upon an improved understanding of
+the substrates that cause PVS and recurrent vein obstruction. More recent anatomic-based surgical
+strategies have focused on the pulmonary vein course, and how adjacent mediastinal structures can
+create a fulcrum effect on the pulmonary veins as they pass from the lung parenchyma to the left
+atrium. The consequent angulation of pulmonary veins creates altered wall shear stress and likely
+serves as a nidus for recurrent PVS. Encouraging early results suggest that eliminating pulmonary
+vein angulation and shortening/straightening the pulmonary vein course may prove effective in
+surgically managing PVS.
+Keywords: congenital heart defect; pulmonary vein stenosis; surgery; treatment
+PM?h
+Pulmonary vein stenosis (PVS) remains one of the most challenging problems in
+pediatric heart disease. It is well known that effective management of PVS requires an
+interdisciplinary team in order to implement multimodal therapy [1]. While medical and
+transcatheter therapies represent two cornerstones of treatment the surgical repair of PVS
+remains a critical component. Operative techniques to repair PVS have evolved over
+several decades, largely prompted by the ongoing challenges of recurrent stenosis and
+mortality. Multiple large reviews have documented mortality rates ranging from 46%
+to 58% in children with primary PVS [ 2–5]. Aggressive multimodal therapy including
+transcatheter/surgical intervention paired with tyrosine kinase receptor inhibition may
+improve patient survival to 77% but remains suboptimal [ 6]. Overall mortality may be
+better in patients undergoing the primary repair of total anomalous pulmonary venous
+connection (TAPVC) with contemporary three-year survival rates approximating 85% [7].
+Nonetheless, post-repair pulmonary vein obstruction occurs in up to 15–21% of these
+patients [8,9] and remains an ongoing challenge with survival rates of only 58–73% [10,11].
+This review will discuss the evolution of PVS surgery, with a particular emphasis on the
+principles underlying contemporary surgical techniques and newer repair strategies.
+2. Historical Perspective
+2.1. Early Surgical T echniques and Outcomes
+Kawashima was one of the ﬁrst to describe the repair of pulmonary vein stenosis
+in 1971 [ 12]. The surgery was performed three years prior on a 15-year-old boy with
+an atrial septal defect and suspected ventricular septal defect. Pulmonary vein disease
+was unexpectedly discovered upon opening the atrium. Obstruction by a membranous
+Children 2021, 8, 631. https://doi.org/10.3390/children8080631 https://www.mdpi.com/journal/children
+[[p2]]
+Children 2021, 8, 631 2 of 12
+diaphragm was noted where the right upper pulmonary vein entered the left atrium with
+a 2 mm opening, and this was resected. Disease was also discovered on the left side, where
+there was localized thickening and stenosis at the junction of a common left pulmonary
+vein and the left atrium. This thickened tissue was incised to widen the stenotic area.
+More complex repair techniques were subsequently developed to address more ex-
+tensive disease and in younger patients. Bini and colleagues described several surgical
+techniques in a small series of eight patients ranging from newborn to four years of age [13].
+These operations included excision of the stenotic region with direct re-implantation of the
+healthy pulmonary vein(s) into the left atrium, venoplasty akin to a Heinecke–Mikulicz
+pyloroplasty (i.e., longitudinal vein incision with transverse closure to widen the stenotic
+region), the use of prosthetic material (i.e., Gore-Tex®, Dacron®) to widen the vein-atrial
+junction, and the use of autologous atrial tissue to patch-enlarge the venous pathway.
+Autologous tissue reconstruction typically involved the left atrial appendage as an onlay
+patch onto the stenotic region of the left pulmonary veins, and the use of the interatrial
+septum to patch-enlarge the right-sided veins [14]. Unfortunately, early outcomes were
+quite sobering, particularly when the surgical repair was required early in life. Of the
+eight patients undergoing repair in Bini’s series, there were only ﬁve hospital survivors,
+all of whom developed rapid, progressive PVS recurrence and died within months of
+their operation [13]. So, while early surgical innovation aimed to tackle more complex
+pulmonary vein disease, PVS was still considered a “lethal lesion.”
+2.2. TAPVC Repair T echniques and Outcomes
+While an exhaustive account of TAPVC repair is beyond the scope of this review,
+for historical context it is worth noting that the surgical correction of TAPVC dates back
+to the 1950s. William H. Muller, Jr. ﬁrst described the operative repair of “transposition
+of the pulmonary veins” in 1951 through a left thoracotomy, which involved a closed
+anastomosis between the left upper pulmonary vein and the left atrial appendage in a
+four-year-old girl [15]. Subsequent open anastomotic repair utilizing cardiopulmonary
+bypass was described by Denton Cooley in 1956 [16]. Reardon reported on the outcomes
+of TAPVC repair in 201 patients at the Texas Heart Institute spanning several decades from
+the 1950s to the 1980s. While survival improved dramatically with advances in surgical
+technique, cardiopulmonary bypass strategy, and perioperative care, younger patients,
+particularly those requiring surgery in the newborn period, remained at particularly high
+risk of mortality following TAPVC repair. In children undergoing repair at less than one
+month of age, mortality was 57%, and survivors were still subject to the risk of anastomotic
+stenosis [17].
+Trans-atrial repair of TAPVC also evolved from Denton Cooley’s original technique.
+The goal of the trans-atrial approach to TAPVC repair was to maintain the heart in the
+orthotopic position when setting up and fashioning the vein-atrium anastomosis so as to
+avoid any distortion that might predispose to stenosis. Doty and colleagues endorsed this
+strategy and reported on improved outcomes (n = 20 patients) after the adoption of the
+trans-atrial approach in 1976, with a reduction in mortality from 57% to 8% [ 18]. Their
+ﬁndings emphasized the exquisite sensitivity to geometric distortion of the pulmonary
+vein-left atrial anastomosis, with subtle geometric changes causing kinking/obstruction, in
+addition to turbulence with subsequent intimal hyperplasia and recurrent stenosis.
+3. Evolving Surgical Strategy—The Sutureless Repair
+3.1. The Conceptual Basis and Early Development
+Given the overall sobering outcomes of primary PVS repair, as well as the signiﬁcant
+problem of post-TAPVC repair pulmonary vein obstruction, surgical techniques continued
+to evolve. In particular, “sutureless” repair techniques were developed in the 1990s by
+multiple groups. Lacour-Gayet and colleagues in Paris ﬁrst described the sutureless repair
+in 1996 speciﬁcally to address post-TAPVC repair pulmonary vein obstruction in a two-and-
+a-half-year-old child [19]. Like others, their group had experienced suboptimal outcomes
+[[p3]]
+Children 2021, 8, 631 3 of 12
+with conventional techniques (i.e., endarterectomy +/ − patch enlargement) to address
+post-TAPVC repair pulmonary vein obstruction. In a review of 16 patients undergoing
+surgery for post-TAPVC repair vein obstruction, there was a 27% mortality rate [20]. In part
+inspired by the Senning operation for physiologic correction of D-transposition of the great
+arteries, the sutureless technique involved the use of an in situ vascularized pericardial ﬂap
+which was sewn directly to the atrial wall thereby avoiding manipulation/suturing directly
+to the pulmonary vein tissue (Figure 1A). The virtue of this technique was based upon the
+concern that manipulation/suturing on vein tissue served as a nidus for inﬂammation,
+scar formation, and recurrent stenosis. Moreover, suturing the atrium to the pericardium
+was felt to allow for a more aggressive resection of diseased vein tissue since the surgeon
+would not have to rely on unresected vein tissue onto which to sew.
+Children 2021, 8, x FOR PEER REVIEW 3 of 13 
+ 
+ 
+by multiple groups. Lacour -Gayet and colleagues in Paris first described the sutureless 
+repair in 1996 specifically to address post-TAPVC repair pulmonary vein obstruction in a 
+two-and-a-half-year-old child [19]. Like others, their group had experienced suboptimal 
+outcomes with conventional techniques (i.e. , endarterectomy +/− patch enlargement) to 
+address post-TAPVC repair pulmonary vein obstruction. In a  review of 16 patients un-
+dergoing surgery for post-TAPVC repair vein obstruction, there was a 27% mortality rate 
+[20]. In part inspired by the Senning operation for physiologic correction of D -transposi-
+tion of the great arteries, the sutureless technique involved the use of an in situ vascular-
+ized pericardial flap which was sewn directly to the atrial wall thereby avoiding manipu-
+lation/suturing directly to the pulmonary vein tissue (Figure 1a). The virtue of this tech-
+nique was based upon the concern that manipulation/suturing on vein tissue served as a 
+nidus for inflammation, scar formation, and recurrent stenosis. Moreover, suturing the 
+atrium to the pericardium was felt to allow for a more aggressive resection of diseased 
+vein tissue since the surgeon would not have to rely on unresected vein tissue onto which 
+to sew. 
+ 
+e?PM?r?M?GH?q???M?u??????
+tissue is resected. Pericardial flap is folded down and sewn to left atrium leaving cut edge of veins 
+without sutures; (b) Left pulmonary vein repair. Heart is retracted rightward. Left pulmonary veins 
+are widely opened and left atrial appendage is sewn to pericardium outside/around veins. (RPV = 
+right pulmonary veins; LA = left atrium; LPV = left pulmonary veins; LPA = left pulmonary artery; 
+Dashed lines = planned suture line for left atrial -pericardial anastomosis). Adapted from Viola, N.; 
+Calderone, C.A. Surgical repair of post -repair pulmonary vein stenosis using “sutureless” tech-
+niques. Op Tech Thorac Cardiovasc Surg 2011, 15, 112–121. 
+The area of diseased pulmonary vein on the right side was unroofed, or ideally com-
+pletely resected, and by sewin g the in situ autologous pericardial flap to the atrium, a 
+widely patulous pathway was created for the right-sided pulmonary venous blood to re-
+turn to the left atrium. Najm and colleagues in Toronto described a similar approach of 
+using an autologous peric ardial flap to open up the pulmonary vein –atrial connection 
+while avoiding a direct anastomosis to vein tissue in two patients [21]. In both reports, the 
+pericardial flap was only applied on the right side. Left-sided PVS was addressed through 
+the left atrium by incising longitudinally out into the left pulmonary veins getting outside 
+of the heart. Instead of using an in situ pericardial flap to contain the left pulmonary vein 
+flow, pericardial adhesions from the prior TAPVC repair were relied upon to direc t pul-
+monary vein-to-atrial blood flow without hemorrhage. 
+e?PM?r?M?G`H?q???M?u?????
+tissue is resected. Pericardial ﬂap is folded down and sewn to left atrium leaving cut edge of veins
+without sutures; ( B) Left pulmonary vein repair. Heart is retracted rightward. Left pulmonary
+veins are widely opened and left atrial appendage is sewn to pericardium outside/around veins.
+(RPV = right pulmonary veins; LA = left atrium; LPV = left pulmonary veins; LPA = left pulmonary
+artery; Dashed lines = planned suture line for left atrial-pericardial anastomosis). Adapted from
+Viola, N.; Calderone, C.A. Surgical repair of post-repair pulmonary vein stenosis using “sutureless”
+techniques. Op Tech Thorac Cardiovasc Surg 2011, 15, 112–121.
+The area of diseased pulmonary vein on the right side was unroofed, or ideally
+completely resected, and by sewing the in situ autologous pericardial ﬂap to the atrium,
+a widely patulous pathway was created for the right-sided pulmonary venous blood to
+return to the left atrium. Najm and colleagues in Toronto described a similar approach
+of using an autologous pericardial ﬂap to open up the pulmonary vein-atrial connection
+while avoiding a direct anastomosis to vein tissue in two patients [21]. In both reports, the
+pericardial ﬂap was only applied on the right side. Left-sided PVS was addressed through
+the left atrium by incising longitudinally out into the left pulmonary veins getting outside
+of the heart. Instead of using an in situ pericardial ﬂap to contain the left pulmonary
+vein ﬂow, pericardial adhesions from the prior TAPVC repair were relied upon to direct
+pulmonary vein-to-atrial blood ﬂow without hemorrhage.
+In their review of acquired PVS management, Spray and Bridges described an alter-
+native for the left-sided pulmonary veins which did not rely upon previous pericardial
+adhesions. This involved incising into the left atrial appendage and out into the left-sided
+veins, carrying this incision out to the pericardial reﬂection. The opened left atrial ap-
+pendage was then sewn down as a ﬂap directly to the posterior pericardial reﬂection [ 22].
+Analogous to the right side, described by Lacour-Gayet and Najm, this created a widely
+[[p4]]
+Children 2021, 8, 631 4 of 12
+patulous pulmonary venous pathway into the left atrium without a direct pulmonary vein
+anastomosis. Because post-operative adhesions were not relied on to contain the left-sided
+pulmonary venous ﬂow this maneuver enabled sutureless repair to be applied for primary
+PVS, not just post-repair PVS (Figure 1B).
+3.2. Sutureless Repair Outcomes and Scope of Use
+Outcomes for the treatment of post-TAPVC repair PVS with the sutureless technique
+have generally been favorable when compared with older techniques. In a review of
+surgery for PVS after TAPVC repair ten years after introducing the technique, Lacour-
+Gayet reported an improvement in freedom from mortality or recurrent PVS from 65% to
+90% [23]. Devaney and colleagues also noted improved disease-free survival in a study of
+22 patients when using a sutureless pericardial marsupialization for PVS following TAPVC
+repair [24].
+Given these encouraging results, some groups have expanded their use of the su-
+tureless repair. Calderone and colleagues describe extending the sutureless repair to all
+forms of PVS, including primary repair of TAPVC [25,26]. Aside from the avoidance of
+direct suturing to pulmonary vein tissue (noted above), the sutureless repair is thought
+to simplify the anastomosis. Since the suture lines are atrio-pericardial, the anastomosis
+is felt to be less prone to distortion in the way that direct vein-atrium connections might
+be, particularly when the geometry/orientation of the pulmonary vein conﬂuence would
+make direct anastomosis to the back of the left atrium challenging. In a study of 22 pa-
+tients, Calderone and colleagues compared sutureless and conventional repair strategies
+for the primary correction of mixed-type TAPVC and found a non-signiﬁcant trend toward
+improved survival and freedom from re-intervention in the sutureless repair group [27].
+Importantly, outcomes for sutureless repair of primary PVS have been less encour-
+aging. Kanter and colleagues found no signiﬁcant difference in freedom from recurrent
+PVS or death when comparing 52 patients who received either a standard repair or a su-
+tureless repair [28,29]. Similarly, Shi and colleagues saw no difference in outcomes among
+surgical techniques (including sutureless repairs) in 18 patients with primary PVS [27]. In
+a multicenter study looking at primary PVS in 30 patients, Kalfa and colleagues found
+no association between the use of a sutureless technique and improved outcomes [ 30].
+Calderone’s group also found that mortality and restenosis rates remained high in a
+review of 23 patients despite the adoption of a sutureless repair strategy for primary
+PVS patients [31]. These variable outcomes largely speak to the complex, multifactorial
+pathophysiology underlying PVS. Sutureless repair techniques may aim to avoid direct
+manipulation and suturing on the pulmonary veins, however, other factors are at play that
+drive the over-activity of myoﬁbroblast-like cells in the pulmonary vein subendothelium
+leading to PVS recurrence [32,33].
+4. New PVS Repair Concepts and Strategies—The Fulcrum Effect and the
+Anatomic-Based Repair
+4.1. External Anatomy—The Impact on Pulmonary Veins
+While much of the focus on PVS has been on the pulmonary veins themselves, little
+attention has been paid to the surrounding intrathoracic structures that can impact the
+pulmonary vein course. At our institution, we have increasingly recognized, through
+pre-operative imaging, and intraoperatively, a fulcrum effect on the pulmonary veins of
+our PVS patients. We have observed that as the pulmonary veins pass from the lung
+parenchyma they must pivot over/pass neighboring mediastinal structures and across the
+pericardial reﬂection before reaching the back of the left atrium more medially. This creates
+a long, angulated, and tortuous pulmonary vein course from the lung parenchyma to the
+heart. It is well known that vessel angulation leads to variations in wall shear stress, a
+phenomenon well described by Han [34]. Importantly, changes to vessel wall shear stress
+contribute to vascular remodeling, intimal hyperplasia, and stenosis [35].
+[[p5]]
+Children 2021, 8, 631 5 of 12
+The speciﬁc mediastinal structures that impact the pulmonary vein course vary with
+location. The left upper pulmonary vein must pass anteriorly over the left mainstem
+bronchus and then pass across the pericardial reﬂection before entering the left atrium
+more medially and posteriorly. Enlargement of the bronchus in the setting of chronic
+lung disease with elevated airway pressures can exacerbate pulmonary vein angulation
+(Figure 2A). The left lower pulmonary vein must pass anteriorly over the descending
+thoracic aorta and then cross the pericardial reﬂection before reaching the left atrium more
+medially (Figure 2B,C). In their analysis of left-sided PVS in single-ventricle patients, Kotani
+and colleagues described this relationship of the left pulmonary veins and the descending
+thoracic aorta [36]. Using MRI data they demonstrated that an anterolaterally displaced
+descending thoracic aorta in combination with cardiomegaly predisposed single-ventricle
+patients to left lower pulmonary vein stenosis. We have anecdotally observed that left lower
+lobe atelectasis is a common ﬁnding in PVS patients who have chronic lung disease, and
+this can pull the left lower vein more posteriorly, thus exacerbating this vessel angulation.
+Children 2021, 8, x FOR PEER REVIEW 5 of 13 
+ 
+ 
+PVS patients. We have observed that as the pulmonary veins pass from the lung paren-
+chyma they must pivot over/pass neighboring mediastinal structures and across the per-
+icardial reflection before reaching the back of the left atrium more medially. This creates 
+a long, angulated, and tortuous pulmonary vein course from the lung parenchyma to the 
+heart. It is well known that vessel angulation leads to variations in wall s hear stress, a 
+phenomenon well described by Han [34]. Importantly, changes to vessel wall shear stress 
+contribute to vascular remodeling, intimal hyperplasia, and stenosis [35]. 
+The specific mediastinal structures that impact the pulmonary vein course vary with 
+location. The left upper pulmonary vein must pass anteriorly over the left mainstem bron-
+chus and then pass across the pericardial reflection before entering the left atrium more 
+medially and posteriorly. Enlargement of the bronchus in the setting of chronic lung dis-
+ease with elevated airway pressures can exacerbate pulmonary vein angulation  
+(Figure 2a). The left lower pulmonary vein must pass anteriorly over the descending tho-
+racic aorta and then cross the pericardial reflection before reaching the l eft atrium more 
+medially (Figure 2b,c). In their analysis of left-sided PVS in single-ventricle patients, Ko-
+tani and colleagues described this relationship of the left pulmonary veins and the de-
+scending thoracic aorta [36]. Using MRI data they demonstrated  that an anterolaterally 
+displaced descending thoracic aorta in combination with cardiomegaly predisposed sin-
+gle-ventricle patients to left lower pulmonary vein stenosis. We have anecdotally ob-
+served that left lower lobe atelectasis is a common finding in PVS patients who have 
+chronic lung disease, and this can pull the left lower vein more posteriorly, thus exacer-
+bating this vessel angulation. 
+ 
+Figure 2. Left pulmonary veins (CT images). (a) Left upper pulmonary vein takes long, angulated course as it passes from 
+lung parenchyma over left mainstem bronchus, across pericardial reflection into left atrium medially; ( b) Left lower pul-
+monary vein courses anteriorly over the descending thoracic aorta taking an angulated course; ( c) Left lower pulmonary 
+vein crossing the pericardial reflection and entering far medially into left atrium. (LA = left atrium; LUPV = left upper 
+pulmonary vein; LMSB = left mainstem bronchus; LLPV = left lower pulmonary vein; Asterisk = descending thoracic 
+aorta). 
+The right upper pulmonary vein angulates over the right pulmonary artery and then 
+must pass across the pericardial reflection before entering the left atrium more medially 
+Figure 2. Left pulmonary veins (CT images). ( A) Left upper pulmonary vein takes long, angulated course as it passes
+from lung parenchyma over left mainstem bronchus, across pericardial reﬂection into left atrium medially; (B) Left lower
+pulmonary vein courses anteriorly over the descending thoracic aorta taking an angulated course; (C) Left lower pulmonary
+vein crossing the pericardial reﬂection and entering far medially into left atrium. (LA = left atrium; LUPV = left upper
+pulmonary vein; LMSB = left mainstem bronchus; LLPV = left lower pulmonary vein; Asterisk = descending thoracic aorta).
+The right upper pulmonary vein angulates over the right pulmonary artery and then
+must pass across the pericardial reﬂection before entering the left atrium more medially
+(Figure 3A). Importantly, when pulmonary hypertension exists, a common condition with
+PVS, the pulmonary arteries are enlarged and hypertensive, which accentuates their impact
+on the pulmonary vein course. The right lower pulmonary vein is the least commonly
+involved vessel in PVS, a ﬁnding noted in an analysis by Callahan and colleagues of the
+disease patterns and outcomes for the speciﬁc pulmonary veins [ 37]. When right lower
+PVS does occur there is angulation as the vein passes across the pericardial reﬂection and
+into the left atrium. This is typically seen with a more posteriorly directed right lower
+pulmonary vein (Figure 3B), in contrast to the more typical orientation that has a straight
+pathway to the left atrium (Figure 3C).
+[[p6]]
+Children 2021, 8, 631 6 of 12
+Children 2021, 8, x FOR PEER REVIEW 6 of 13 
+ 
+ 
+(Figure 3a). Importantly, when pulmonary hypertension exists, a common condition with 
+PVS, the pulmonary arteries are enlarged and hypertensive, which accentuates their im-
+pact on the pulmonary vein course. The right lower pulmonary vein is the least commonly 
+involved vessel in PVS, a finding noted in an analysis by Callahan and colleagues  of the 
+disease patterns and outcomes for the specific pulmonary veins [37]. When right lower 
+PVS does occur there is angulation as the vein passes across the pericardial reflection and 
+into the left atrium. This is typically seen with a more posteriorly d irected right lower 
+pulmonary vein (Figure 3b), in contrast to the more typical orientation that has a straight 
+pathway to the left atrium (Figure 3c). 
+Figure 3. Right pulmonary veins (CT images). (a) Right upper pulmonary vein crosses over right pulmonary artery caus-
+ing angulation as it passes across pericardial reflection into left atrium; (b) Right lower pulmonary vein stenosis involves 
+more posteriorly directed pulmonary vein that angulates when crossing pericardial reflection; (c) Right lower pulmonary 
+vein without stenosis has straight, less angulated course into left atrium. (RUPV = right upper pulmonary vein; RPA = 
+right pulmonary artery; RLPV = right lower pulmonary vein; LA = left atrium). 
+4.2. The Anatomic-Based Repair 
+Given the recognition of th e long, angulated course that the pulmonary veins can 
+take as they pass from the lung parenchyma to the left atrium, we now place greater em-
+phasis on the extrinsic anatomy when repairing PVS of all forms [38]. The goal of the an-
+atomic-based PVS repair strategy is to remove the fulcrum effect that adjacent mediastinal 
+structures and the pericardial reflection can have on the pulmonary veins, and create a 
+shorter and straighter course of the veins into the left atrium. 
+4.2.1. Pre-operative Evaluation 
+Pre-operatively, this involves having a clear understanding of both the extent/loca-
+tion of the pulmonary vein disease as well as the actual course of the veins in the medias-
+tinum. Cardiac catheterization remains the gold standard for assessing pulmonary vein 
+disease severity and includes hemodynamics, angiography, pressure assessment, intra-
+vascular ultrasound, and balloon compliance testing. In addition, we are increasingly us-
+ing pre-operative computed tomography (CT) for surgical planning in order to get a more 
+Figure 3. Right pulmonary veins (CT images). (A) Right upper pulmonary vein crosses over right pulmonary artery causing
+angulation as it passes across pericardial reﬂection into left atrium; (B) Right lower pulmonary vein stenosis involves more
+posteriorly directed pulmonary vein that angulates when crossing pericardial reﬂection; (C) Right lower pulmonary vein
+without stenosis has straight, less angulated course into left atrium. (RUPV = right upper pulmonary vein; RPA = right
+pulmonary artery; RLPV = right lower pulmonary vein; LA = left atrium).
+4.2. The Anatomic-Based Repair
+Given the recognition of the long, angulated course that the pulmonary veins can take
+as they pass from the lung parenchyma to the left atrium, we now place greater emphasis on
+the extrinsic anatomy when repairing PVS of all forms [38]. The goal of the anatomic-based
+PVS repair strategy is to remove the fulcrum effect that adjacent mediastinal structures
+and the pericardial reﬂection can have on the pulmonary veins, and create a shorter and
+straighter course of the veins into the left atrium.
+4.2.1. Pre-Operative Evaluation
+Pre-operatively, this involves having a clear understanding of both the extent/location
+of the pulmonary vein disease as well as the actual course of the veins in the mediastinum.
+Cardiac catheterization remains the gold standard for assessing pulmonary vein disease
+severity and includes hemodynamics, angiography, pressure assessment, intravascular
+ultrasound, and balloon compliance testing. In addition, we are increasingly using pre-
+operative computed tomography (CT) for surgical planning in order to get a more global
+sense of the pulmonary veins, the adjacent mediastinal structures, and the degree of vessel
+angulation/tortuosity (Figures 2 and 3).
+4.2.2. Operative Technique
+The primary components of the anatomic-based PVS repair strategy are:
+PM?s?????ﬂ????
+the pulmonary veins as they enter the pericardial space, in order to eliminate any
+angulation as the veins cross the pericardium;
+2. Resection of any stenotic or thickened pulmonary vein tissue;
+[[p7]]
+Children 2021, 8, 631 7 of 12
+3. Lateralizing and enlargement of the pulmonary vein-left atrial junction, such that
+the course of the pulmonary veins into the left atrium is shorter, less angulated, and
+therefore less prone to disturbed ﬂow.
+Figure 4 depicts operative repair of right-sided pulmonary vein disease. Figure 4A
+demonstrates the right pulmonary veins prior to repair. They course across the pericardial
+reﬂection, as depicted in the ﬁgure, and then enter the left atrium quite medially. The ﬁrst
+operative step involves complete takedown of the pericardial reﬂection, during which
+the pulmonary veins are freed up completely out into the lung parenchyma (Figure 4B).
+Importantly, the region of stenosis typically correlates with where the veins crossed the
+pericardial reﬂection, as denoted in the ﬁgure (yellow arrow). The veins are opened up
+in this region to create a wide, patulous pathway from the lung parenchyma into the
+left atrium, depicted by the white outline in Figure 4C. The pulmonary vein-left atrial
+connection is then patched, which enlarges the pathway and helps move the vein-atrial
+connection more laterally (Figure 4D). Various patch materials have been used for this part
+of the repair. A thin-patch pulmonary homograft is often used given its compliant tissue
+characteristics. Importantly, we have a preference for using a decellularized homograft
+given its decreased immunogenicity, an important consideration for a patient population
+that may require lung transplantation [39]. Alternatively, we have used autologous atrial
+ﬂaps to lateralize and augment the pulmonary vein-left atrial pathway, thereby using only
+native tissue on the pulmonary veins themselves.
+Children 2021, 8, x FOR PEER REVIEW 7 of 13 
+ 
+ 
+global sense of the pulmonary veins, the adjacent mediastinal structures, and the degree 
+of vessel angulation/tortuosity (Figures 2 and 3). 
+4.2.2. Operative Technique 
+The primary components of the anatomic-based PVS repair strategy are: 
+PM?s???????????
+pulmonary veins as they enter the pericardial space, in order to eliminate any angu-
+lation as the veins cross the pericardium; 
+2. Resection of any stenotic or thickened pulmonary vein tissue; 
+3. Lateralizing and enlargement of the pulmonary vein–left atrial junction, such that the 
+course of the pulmonary veins into the left atrium is shorter, less angulated, and 
+therefore less prone to disturbed flow. 
+Figure 4 depicts operative repair of right -sided pulmonary vein disease. Figure 4a 
+demonstrates the right pulmonary veins prior to repair. They course across the pericardial 
+reflection, as depicted in the figure, and then enter the left atrium quite medially. The first 
+operative step involves complete takedown of the pericardial reflection, during which the 
+pulmonary veins are freed up completely out into the lung parenchyma (Figure 4b). Im-
+portantly, the region of stenosis typically correlates with where the veins crossed the per-
+icardial reflection, as denoted in the figure (yellow arrow). The veins are opened up in this 
+region to create a wide, patulous pathway from the lung parenchyma into the left atrium, 
+depicted by the white outline in Figure 4c. The pulmonary vein –left atrial connection is 
+then patched,  which enlarges the pathway and helps move the vein –atrial connection 
+more laterally (Figure 4d). Various patch materials have been used for this part of the 
+repair. A thin-patch pulmonary homograft is often used given its compliant tissue char-
+acteristics. Importantly, we have a preference for using a decellularized homograft given 
+its decreased immunogenicity, an important consideration for a patient population that 
+may require lung transplantation [39]. Alternatively, we have used autologous atrial flaps 
+to lateralize and augment the pulmonary vein–left atrial pathway, thereby using only na-
+tive tissue on the pulmonary veins themselves. 
+ 
+Figure 4. Right pulmonary vein repair. (a) Right-sided pulmonary veins crossing pericardial reflec-
+tion before entering l eft atrium more medially; ( b) Complete mobilization of pericardial reflection 
+and right pulmonary veins with stenotic region denoted (yellow arrow); (c) Right pulmonary veins 
+widely opened up and diseased tissue resected creating patulous pulmonary vein –left atrial path-
+Figure 4. Right pulmonary vein repair. (A) Right-sided pulmonary veins crossing pericardial reﬂec-
+tion before entering left atrium more medially; (B) Complete mobilization of pericardial reﬂection
+and right pulmonary veins with stenotic region denoted (yellow arrow); (C) Right pulmonary veins
+widely opened up and diseased tissue resected creating patulous pulmonary vein-left atrial pathway
+(white outline); (D) Patch augmentation moves pulmonary vein-left atrial connection out laterally
+to shorten/straighten pulmonary vein course. (RUPV = right upper pulmonary vein; RPA = right
+pulmonary artery; PV-LA = pulmonary vein-left atrium).
+[[p8]]
+Children 2021, 8, 631 8 of 12
+Figure 5A demonstrates the medial entrance of the left pulmonary veins into the
+left atrium as they cross the pericardial reﬂection. Akin to the right-sided veins, the
+pericardial reﬂection is aggressively taken down and the veins are mobilized out into the
+lung parenchyma. The veins are opened out beyond the stenosed region and diseased tissue
+is resected. The venotomy is extended into the base of the left atrial appendage and the
+vein-atrial connection is patch-augmented to lateralize the vein-atrial conﬂuence. Figure 5B
+demonstrates the repaired veins, where the left atrium has been effectively lateralized
+by the patch, and the pericardium is well away from the veins, thereby alleviating the
+fulcrum effect.
+Children 2021, 8, x FOR PEER REVIEW 8 of 13 
+ 
+ 
+way (white outline); ( d) Patch augmentation moves pulmonary vein –left atrial connection out lat-
+erally to shorten/straighten pulmonary vein course. (RUPV = right upper pulmonary vein; RPA = 
+right pulmonary artery; PV–LA = pulmonary vein–left atrium). 
+Figure 5a demonstrates the medial entrance of the left pulmonary veins into the left 
+atrium as they cross the pericardial reflection. Akin to the right -sided veins, the pericar-
+dial reflection is aggressively taken down and the veins are mobilized o ut into the lung 
+parenchyma. The veins are opened out beyond the stenosed region and diseased tissue is 
+resected. The venotomy is extended into the base of the left atrial appendage and the vein-
+atrial connection is patch -augmented to lateralize the vein –atrial confluence. Figure 5b 
+demonstrates the repaired veins, where the left atrium has been effectively lateralized by 
+the patch, and the pericardium is well away from the veins, thereby alleviating the ful-
+crum effect. 
+ 
+Figure 5. Left pulmonary vein repair. (a) Pre-repair—Left pulmonary veins cross pericardial reflection and enter back of 
+left atrium more medially; ( b) Post -repair—Pericardial reflection has been taken down and PV –LA confluence is 
+straighter/lateralized. (PV–LA = pulmonary vein–left atrium). 
+In select cases, we have opted to place a short stent at the pulmonary vein–left atrial 
+connection as part of the repair. This is typically reserved for cases with severely hypo-
+plastic or atretic pulmonary veins (i.e., less than 2 mm in luminal diameter), where there 
+is concern about the pulmonary vein –left atrial connection getting compressed and nar-
+rowing down despite patch enlargement. To date , we have place stents in six patients at 
+the time of PVS repair. Figure 6a  shows small left upper and lower pulmonary veins de-
+spite opening out into them with resection of diseased tissue. A note is made of the mobi-
+lization and takedown of the pericardial reflection. After patch augmenting and lateraliz-
+ing the vein –atrial connection (Figure 6b), a stent is trimmed to ~3 mm and pre -dilated 
+with particular attention paid to not over-dilate the stent (Figure 6c). Separate stents are 
+placed at the ostia of the left lower (Figure 6d) and left upper pulmonary veins (Figure 
+6e). These stents are meant to maintain the luminal size of the reconstructed veins (Figure 
+6f). A critical operative step is to secure the stents in place with multiple 7-0 polypropylene 
+sutures to prevent dislodgement. Importantly, the stents act as a substrate for future 
+transcatheter dilation in these cases of hypoplastic pulmonary veins. 
+Figure 5. Left pulmonary vein repair. ( A) Pre-repair—Left pulmonary veins cross pericardial reﬂection and enter back
+of left atrium more medially; ( B) Post-repair—Pericardial reﬂection has been taken down and PV-LA conﬂuence is
+straighter/lateralized. (PV-LA = pulmonary vein-left atrium).
+In select cases, we have opted to place a short stent at the pulmonary vein-left atrial
+connection as part of the repair. This is typically reserved for cases with severely hypoplastic
+or atretic pulmonary veins (i.e., less than 2 mm in luminal diameter), where there is concern
+about the pulmonary vein-left atrial connection getting compressed and narrowing down
+despite patch enlargement. To date, we have place stents in six patients at the time of PVS
+repair. Figure 6A shows small left upper and lower pulmonary veins despite opening
+out into them with resection of diseased tissue. A note is made of the mobilization and
+takedown of the pericardial reﬂection. After patch augmenting and lateralizing the vein-
+atrial connection (Figure 6B), a stent is trimmed to ~3 mm and pre-dilated with particular
+attention paid to not over-dilate the stent (Figure 6C). Separate stents are placed at the
+ostia of the left lower (Figure 6D) and left upper pulmonary veins (Figure 6E). These stents
+are meant to maintain the luminal size of the reconstructed veins (Figure 6F). A critical
+operative step is to secure the stents in place with multiple 7-0 polypropylene sutures to
+prevent dislodgement. Importantly, the stents act as a substrate for future transcatheter
+dilation in these cases of hypoplastic pulmonary veins.
+[[p9]]
+Children 2021, 8, 631 9 of 12
+Children 2021, 8, x FOR PEER REVIEW 9 of 13 
+ 
+ 
+ 
+Figure 6. Intraoperative stent placement. (a) Hypoplastic left upper and lower pulmonary veins; (b) 
+Patch enlargement and lateralization of vein–atrial connection; (c) Stent trimmed to ~3 mm and pre-
+dilated over balloon; (d) Placement of left lower pulmonary vein stent; ( e) Placement of left upper 
+pulmonary vein stent; (f) Final position of stents in left veins to maintain luminal caliber and prevent 
+compression. (LUPV = left upper pulmonary vein; LLPV = left lower pulmonary vein). 
+4.2.3. Post-operative Evaluation and Management 
+Patients are maintained on therapeutic anticoagulation with unfractionated heparin 
+that is transitioned to low -molecular-weight heparin, along with aspirin. Standard post-
+operative surveillance involves echocardiography paired with nuclear lung perfusion 
+scans. These studies are performed monthly for three months, and then less frequently if 
+there is no evidence of PVS recurrence. Post -operative axial imaging is being performed 
+more frequently to assess the anatomic result of this repair strategy, although there is not 
+currently a formalized protocol for the timing/frequency of post-operative axial imaging. 
+We have observed effective lat eralization of the pulmonary vein –atrial connection to 
+shorten the course of the veins as they pass into the left atrium. Figure 7 demonstrates this 
+effect on the left upper and lower veins. Pre -operatively, the left upper vein passes over 
+the bronchus and across the pericardial reflection before entering the left atrium medial 
+to the descending aorta (Figure 7a). After repair, the left upper vein takes a shorter course, 
+away from the airway, and enters the left atrium more laterally (Figure 7b). Similarly, pre-
+operative imaging of the left lower vein shows its more medial entry into the left atrium 
+after coursing over the descending aorta (Figure 7c). Following repair, the left lower vein 
+now enters more laterally and has a shorter/straighter course into the left atrium without 
+pivoting over the aorta (Figure 7d). 
+Figure 6. Intraoperative stent placement. ( A) Hypoplastic left upper and lower pulmonary veins;
+(B) Patch enlargement and lateralization of vein-atrial connection; (C) Stent trimmed to ~3 mm and
+predilated over balloon; (D) Placement of left lower pulmonary vein stent; (E) Placement of left upper
+pulmonary vein stent; (F) Final position of stents in left veins to maintain luminal caliber and prevent
+compression. (LUPV = left upper pulmonary vein; LLPV = left lower pulmonary vein).
+4.2.3. Post-Operative Evaluation and Management
+Patients are maintained on therapeutic anticoagulation with unfractionated heparin
+that is transitioned to low-molecular-weight heparin, along with aspirin. Standard post-
+operative surveillance involves echocardiography paired with nuclear lung perfusion
+scans. These studies are performed monthly for three months, and then less frequently if
+there is no evidence of PVS recurrence. Post-operative axial imaging is being performed
+more frequently to assess the anatomic result of this repair strategy, although there is not
+currently a formalized protocol for the timing/frequency of post-operative axial imaging.
+We have observed effective lateralization of the pulmonary vein-atrial connection to shorten
+the course of the veins as they pass into the left atrium. Figure 7 demonstrates this effect
+on the left upper and lower veins. Pre-operatively, the left upper vein passes over the
+bronchus and across the pericardial reﬂection before entering the left atrium medial to
+the descending aorta (Figure 7A). After repair, the left upper vein takes a shorter course,
+away from the airway, and enters the left atrium more laterally (Figure 7B). Similarly, pre-
+operative imaging of the left lower vein shows its more medial entry into the left atrium
+after coursing over the descending aorta (Figure 7C). Following repair, the left lower vein
+now enters more laterally and has a shorter/straighter course into the left atrium without
+pivoting over the aorta (Figure 7D).
+Post-operative chemotherapy is reserved for patients with intraluminal PVS (presence
+of ﬁbromyxoid proliferation) conﬁrmed by a pre-operative biopsy or by angiography
+and intravascular ultrasound. Excluded patients are those with single-vessel PVS and
+those with pulmonary venous obstruction isolated to a surgical anastomosis or conﬂuence
+without individual vessel involvement as determined by cardiac catheterization. Eligible
+patients are started on imatinib for targeted anti-proliferative therapy 7–10 days after
+surgery to allow for adequate wound healing.
+[[p10]]
+Children 2021, 8, 631 10 of 12
+Children 2021, 8, x FOR PEER REVIEW 10 of 13 
+ 
+ 
+ 
+Figure 7. Pre- and post-repair pulmonary vein CT imaging. (a) Pre-operative left upper pulmonary 
+vein taking long course over left bronchus before entering medially into left atrium; (b) Post-repair 
+left upper vein course is shorter and more lateral —minimizing angulation; ( c) Pre-operative left 
+lower vein entering left atrium very medially after coursing over descending aorta; ( d) Post-repair 
+left lower vein takes shorter/straighter course as it e nters atrium more laterally. (LUPV–LA = left 
+upper pulmonary vein–left atrium; LMSB = left mainstem bronchus; LLPV–LA = left lower pulmo-
+nary vein–left atrium; Asterisk = descending thoracic aorta). 
+Post-operative chemotherapy is reserved for patients with intraluminal PVS (pres-
+ence of fibromyxoid proliferation) confirmed by a pre-operative biopsy or by angiography 
+and intravascular ultrasound. Excluded patients are those with single -vessel PVS and 
+those with pulmonary venous obstruction isolated to a surgical anastomosis or confluence 
+without individual vessel involvement as determined by cardiac catheterization. Eligible 
+patients are started on imatinib for targeted anti-proliferative therapy 7–10 days after sur-
+gery to allow for adequate wound healing. 
+4.2.4. Preliminary Outcomes 
+This newer anatomic -focused approach has yielded encouraging results to date. 
+While only implemented in the last several years, we have observed an improvement in 
+mortality when compared to more conventional PVS repair techniques, with a two-year 
+survival of 82.1% versus 61.8% for conventional repair ( p = 0.03) [40]. Importantly, this 
+mortality benefit was observed after controlling for potential confounding factors, includ-
+ing age, number of vessels involved, surgical era, and use o f adjuvant chemotherapy. 
+Nonetheless, ongoing surveillance is crucial to better understand the longer-term durabil-
+ity of this repair strategy. We have not observed a significant change in the re-intervention 
+rate, however, re-intervention, especially transcatheter, should not be considered a “fail-
+ure”. PVS is a challenging and chronic disease, and the expectations should be that despite 
+Figure 7. Pre- and post-repair pulmonary vein CT imaging. (A) Pre-operative left upper pulmonary
+vein taking long course over left bronchus before entering medially into left atrium; (B) Post-repair
+left upper vein course is shorter and more lateral—minimizing angulation; ( C) Pre-operative left
+lower vein entering left atrium very medially after coursing over descending aorta; (D) Post-repair
+left lower vein takes shorter/straighter course as it enters atrium more laterally. (LUPV-LA = left
+upper pulmonary vein-left atrium; LMSB = left mainstem bronchus; LLPV-LA = left lower pulmonary
+vein-left atrium; Asterisk = descending thoracic aorta).
+4.2.4. Preliminary Outcomes
+This newer anatomic-focused approach has yielded encouraging results to date. While
+only implemented in the last several years, we have observed an improvement in mortality
+when compared to more conventional PVS repair techniques, with a two-year survival
+of 82.1% versus 61.8% for conventional repair (p = 0.03) [40]. Importantly, this mortality
+beneﬁt was observed after controlling for potential confounding factors, including age,
+number of vessels involved, surgical era, and use of adjuvant chemotherapy. Nonetheless,
+ongoing surveillance is crucial to better understand the longer-term durability of this repair
+strategy. We have not observed a signiﬁcant change in the re-intervention rate, however,
+re-intervention, especially transcatheter, should not be considered a “failure”. PVS is a
+challenging and chronic disease, and the expectations should be that despite evolving
+surgical techniques, re-intervention is a likely and even expected management strategy.
+5. Conclusions
+The multimodal treatment of PVS has evolved tremendously over the past several
+decades, with advances in medical, transcatheter, and operative therapies. Surgical repair
+of PVS remains a central component of treatment, and techniques of repair have developed
+with our increasing understanding of the underlying pathophysiology of PVS. While
+conventional venoplasty techniques initially rendered poor outcomes, sutureless techniques
+sought to eliminate the risk of geometric distortion and scar formation related to direct
+[[p11]]
+Children 2021, 8, 631 11 of 12
+pulmonary vein manipulation. The sutureless techniques proved to be effective in certain
+circumstances, however, they have not been the panacea for PVS. The more recent focus
+on the pulmonary vein course, angulation, and the fulcrum effect has expanded our
+conception of how best to correct the anatomic substrates leading to PVS. Newer anatomic-
+based techniques aimed at eliminating the fulcrum/angulation have rendered promising
+outcomes thus far. As with every novel therapy for PVS, it will be critical to follow these
+patients closely to understand whether this new approach has a lasting impact. Importantly,
+given the heterogeneity of PVS, it is unlikely that one operative strategy will work for all
+forms of the disease. In that regard, continued surgical evolution will be important to
+further enhance our operative “toolkit” for the treatment of this challenging disease.
+Author Contributions: Conceptualization, E.N.F., R.C. and C.W.B.; writing—Original draft prepara-
+tion, E.N.F.; writing—Review and editing, E.N.F., R.C. and C.W.B. All authors have read and agreed
+to the published version of the manuscript.
+Funding: This review received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+PM?eK?cMaMZ?kK?o?MsMZ?rK?bM`MZ?aK?aM`MZ?aK?bMvMZ?bK?qMlMZ?rK?bMu?MZ?uK?qMcMZ?aK?bMgM?o
+pulmonary vein stenosis during infancy: State of the art review. J. Perinatol. 2021, 1–12. [CrossRef]
+2. Backes, C.H.; Nealon, E.; Armstrong, A.K.; Cua, C.; Mitchell, C.; Krishnan, U.; Vanderlaan, R.D.; Song, M.K.; Viola, N.; Smith,
+C.V .; et al. Pulmonary Vein Stenosis in Infants: A Systematic Review, Meta-Analysis, and Meta-Regression.J. Pediatr. 2018, 198,
+36–45.e3. [CrossRef]
+3. Song, M.K.; Bae, E.J.; Jeong, S.I.; Kang, I.S.; Kim, N.K.; Choi, J.Y.; Kim, S.J.; Kim, Y.H.; Kim, W.H. Clinical Characteristics and
+Prognostic Factors of Primary Pulmonary Vein Stenosis or Atresia in Children. Ann. Thorac. Surg. 2013, 95, 229–234. [CrossRef]
+[PubMed]
+4. Seale, A.N.; Webber, S.A.; Uemura, H.; Partridge, J.; Roughton, M.; Ho, S.Y.; McCarthy, K.P .; Jones, S.; Shaughnessy, L.;
+Sunnegardh, J.; et al. Pulmonary vein stenosis: The UK, Ireland and Sweden collaborative study. Heart 2009, 95, 1944–1949.
+[CrossRef] [PubMed]
+5. Holt, D.B.; Moller, J.H.; Larson, S.; Johnson, M.C. Primary Pulmonary Vein Stenosis. Am. J. Cardiol. 2007, 99, 568–572. [CrossRef]
+6. Callahan, R.; Kieran, M.W.; Baird, C.W.; Colan, S.D.; Gauvreau, K.; Ireland, C.M.; Marshall, A.C.; Sena, L.M.; Vargas, S.O.; Jenkins,
+K.J. Adjunct Targeted Biologic Inhibition Agents to Treat Aggressive Multivessel Intraluminal Pediatric Pulmonary Vein Stenosis.
+J. Pediatr. 2018, 198, 29–35.e5. [CrossRef] [PubMed]
+7. Seale, A.N.; Uemura, H.; Webber, S.A.; Partridge, J.; Roughton, M.; Ho, S.Y.; McCarthy, K.P .; Jones, S.; Shaughnessy, L.;
+Sunnegardh, J.; et al. Total Anomalous Pulmonary Venous Connection. Circulation 2010, 122, 2718–2726. [CrossRef] [PubMed]
+8. White, B.R.; Ho, D.; Faerber, J.A.; Katcoff, H.; Glatz, A.C.; Mascio, C.E.; Stephens, P .; Cohen, M.S. Repair of Total Anomalous
+Pulmonary Venous Connection: Risk Factors for Postoperative Obstruction. Ann. Thorac. Surg. 2019, 108, 122–129. [CrossRef]
+9. Shi, G.; Zhu, Z.; Chen, J.; Ou, Y.; Hong, H.; Nie, Z.; Zhang, H.; Liu, X.; Zheng, J.; Sun, Q.; et al. Total Anomalous Pulmonary
+Venous Connection. Circulation 2017, 135, 48–58. [CrossRef]
+10. Seale, A.N.; Uemura, H.; Webber, S.A.; Partridge, J.; Roughton, M.; Ho, S.Y.; McCarthy, K.P .; Jones, S.; Shaughnessy, L.;
+Sunnegardh, J.; et al. Total anomalous pulmonary venous connection: Outcome of postoperative pulmonary venous obstruction.
+J. Thorac. Cardiovasc. Surg. 2013, 145, 1255–1262. [CrossRef]
+11. Kalfa, D.; Belli, E.; Bacha, E.; Lambert, V .; Di Carlo, D.; Kostolny, M.; Nosal, M.; Horer, J.; Salminen, J.; Rubay, J.; et al. Outcomes
+and prognostic factors for postsurgical pulmonary vein stenosis in the current era. J. Thorac. Cardiovasc. Surg. 2018, 156, 278–286.
+[CrossRef]
+12. Kawashima, Y.; Ueda, T.; Naito, Y.; Morikawa, E.; Manabe, H. Stenosis of Pulmonary Veins: Report of a Patient Corrected
+Surgically. Ann. Thorac. Surg. 1971, 12, 196–202. [CrossRef]
+13. Bini, R.M.; Cleveland, D.C.; Ceballos, R.; Bargeron, L.M.; Paciﬁco, A.D.; Kirklin, J.W. Congenital pulmonary vein stenosis. Am. J.
+Cardiol. 1984, 54, 369–375. [CrossRef]
+14. Paciﬁco, A.D.; Mandke, N.V .; McGrath, L.B.; Colvin, E.V .; Bini, R.M.; Bargeron, L. Repair of congenital pulmonary venous stenosis
+with living autologous atrial tissue. J. Thorac. Cardiovasc. Surg. 1985, 89, 604–609. [CrossRef]
+15. Muller, W.H. The surgical treatment of transposition of the pulmonary veins*.Ann. Surg. 1951, 134, 683–693. [CrossRef] [PubMed]
+[[p12]]
+Children 2021, 8, 631 12 of 12
+16. Cooley, D.A.; Ochsner, A. Correction of total anomalous pulmonary venous drainage: Technical considerations. Surgery 1957, 42,
+1014–1021.
+17. Reardon, M.J.; Cooley, D.A.; Kubrusly, L.; Ott, D.A.; Johnson, W.; Kay, G.L.; Sweeney, M.S. Total Anomalous Pulmonary Venous
+Return: Report of 201 Patients Treated Surgically. T ex. Heart Inst. J. 1985, 12, 131–141. [PubMed]
+18. Hawkins, J.A.; Clark, E.B.; Doty, D.B. Total Anomalous Pulmonary Venous Connection. Ann. Thorac. Surg. 1983, 36, 548–560.
+[CrossRef]
+19. Lacour-Gayet, F.; Rey, C.; Planch é, C. Pulmonary vein stenosis. Description of a sutureless surgical procedure using the
+pericardium in situ. Arch. Mal. Coeur Vaiss. 1996, 89, 633–636. [PubMed]
+20. Lacour-Gayet, F.; Zoghbi, J.; Serraf, A.E.; Belli, E.; Piot, D.; Rey, C.; Marçon, F.; Bruniaux, J.; Planché, C. Surgical management of
+progressive pulmonary venous obstruction after repair of total anomalous pulmonary venous connection. J. Thorac. Cardiovasc.
+Surg. 1999, 117, 679–687. [CrossRef]
+21. Najm, H.K.; Caldarone, C.A.; Smallhorn, J.; Coles, J.G. A sutureless technique for the relief of pulmonary vein stenosis with the
+use of in situ pericardium. J. Thorac. Cardiovasc. Surg. 1998, 115, 468–470. [CrossRef]
+22. Spray, T.L.; Bridges, N.D. Surgical Management of Congenital and Acquired Pulmonary Vein Stenosis.Semin. Thorac. Cardiovasc.
+Surg. Pediatr. Card. Surg. Annu. 1999, 2, 177–188. [CrossRef]
+23. Lacour-Gayet, F. Surgery for Pulmonary Venous Obstruction After Repair of Total Anomalous Pulmonary Venous Return.Semin.
+Thorac. Cardiovasc. Surg. Pediatr. Card. Surg. Annu. 2006, 9, 45–50. [CrossRef] [PubMed]
+24. Devaney, E.J.; Ohye, R.G.; Bove, E.L. Pulmonary Vein Stenosis Following Repair of Total Anomalous Pulmonary Venous
+Connection. Semin. Thorac. Cardiovasc. Surg. Pediatr. Card. Surg. Annu. 2006, 9, 51–55. [CrossRef]
+25. Yun, T.-J.; Coles, J.G.; Konstantinov, I.E.; Al-Radi, O.O.; Wald, R.M.; Guerra, V .; de Oliveira, N.C.; Van Arsdell, G.S.; Williams, W.G.;
+Smallhorn, J.; et al. Conventional and sutureless techniques for management of the pulmonary veins: Evolution of indications
+from postrepair pulmonary vein stenosis to primary pulmonary vein anomalies. J. Thorac. Cardiovasc. Surg. 2005, 129, 167–174.
+[CrossRef]
+26. Hickey, E.J.; Caldarone, C.A. Surgical Management of Post-repair Pulmonary Vein Stenosis. Semin. Thorac. Cardiovasc. Surg.
+Pediatr. Card. Surg. Annu. 2011, 14, 101–108. [CrossRef]
+27. Honjo, O.; Atlin, C.R.; Hamilton, B.C.; Al-Radi, O.; Viola, N.; Coles, J.G.; Van Arsdell, G.S.; Caldarone, C.A. Primary Sutureless
+Repair for Infants with Mixed Total Anomalous Pulmonary Venous Drainage. Ann. Thorac. Surg. 2010, 90, 862–868. [CrossRef]
+28. Kanter, K.R.; Kirshbom, P .M.; Kogon, B.E. Surgical Repair of Pulmonary Venous Stenosis: A Word of Caution.Ann. Thorac. Surg.
+2014, 98, 1687–1692. [CrossRef]
+29. Shi, G.; Zhu, Z.; Chen, H.; Zhang, H.; Zheng, J.; Liu, J. Surgical repair for primary pulmonary vein stenosis: Single-institution,
+midterm follow-up. J. Thorac. Cardiovasc. Surg. 2015, 150, 181–188. [CrossRef]
+30. Kalfa, D.; Belli, E.; Bacha, E.; Lambert, V .; di Carlo, D.; Kostolny, M.; Salminen, J.; Nosal, M.; Poncelet, A.; Horer, J.; et al. Primary
+Pulmonary Vein Stenosis: Outcomes, Risk Factors, and Severity Score in a Multicentric Study. Ann. Thorac. Surg. 2017, 104,
+182–189. [CrossRef] [PubMed]
+31. Viola, N.; Alghamdi, A.A.; Perrin, D.G.; Wilson, G.J.; Coles, J.G.; Caldarone, C.A. Primary pulmonary vein stenosis: The impact of
+sutureless repair on survival. J. Thorac. Cardiovasc. Surg. 2011, 142, 344–350. [CrossRef]
+32. Sadr, I.M.; E Tan, P .; Kieran, M.; Jenkins, K.J. Mechanism of pulmonary vein stenosis in infants with normally connected veins.
+Am. J. Cardiol. 2000, 86, 577–579. [CrossRef]
+33. Kovach, A.E.; Magcalas, P .M.; Ireland, C.; Mcenany, K.; Oliveira, A.M.; Kieran, M.W.; Baird, C.W.; Jenkins, K.; Vargas, S.O.
+Paucicellular Fibrointimal Proliferation Characterizes Pediatric Pulmonary Vein Stenosis. Am. J. Surg. Pathol. 2017, 41, 1198–1204.
+[CrossRef] [PubMed]
+34. Han, H.-C. Twisted Blood Vessels: Symptoms, Etiology and Biomechanical Mechanisms.J. Vasc. Res. 2012, 49, 185–197. [CrossRef]
+[PubMed]
+35. Cunningham, K.S.; I Gotlieb, A. The role of shear stress in the pathogenesis of atherosclerosis. Lab. Investig. 2004, 85, 9–23.
+[CrossRef] [PubMed]
+36. Kotani, Y.; Zhu, J.; Grosse-Wortmann, L.; Honjo, O.; Coles, J.G.; Van Arsdell, G.S.; Caldarone, C.A. Anatomical risk factors, surgical
+treatment, and clinical outcomes of left-sided pulmonary vein obstruction in single-ventricle patients. J. Thorac. Cardiovasc. Surg.
+2015, 149, 1332–1338. [CrossRef] [PubMed]
+37. Callahan, R.; Gauvreau, K.; Marshall, A.; Sena, L.; Baird, C.; Ireland, C.; McEnaney, K.; Bjornlund, E.; Mendonca, J.; Jenkins, K.
+Outcomes in Establishing Individual Vessel Patency for Pediatric Pulmonary Vein Stenosis.Children 2021, 8, 210. [CrossRef]
+38. Feins, E.N. Surgical Repair of Pulmonary Vein Stenosis: Thinking Outside the Box. In Proceedings of the 99th Annual Meeting of
+the American Association for Thoracic Surgery, Toronto, ON, Canada, 4–7 May 2019.
+39. Bibevski, S.; Ruzmetov, M.; Fortuna, R.S.; Turrentine, M.W.; Brown, J.W.; Ohye, R.G. Performance of SynerGraft Decellularized
+Pulmonary Allografts Compared with Standard Cryopreserved Allografts: Results from Multiinstitutional Data. Ann. Thorac.
+Surg. 2017, 103, 869–874. [CrossRef] [PubMed]
+40. Feins, E.N.; Ireland, C.; Gauvreau, K.; Chávez, M.; Callahan, R.; Jenkins, K.J.; Baird, C.W. Pulmonary Vein Stenosis: Anatomic
+Considerations, Surgical Management, and Outcomes. J. Thorac. Cardiovasc. Surg. Under review.

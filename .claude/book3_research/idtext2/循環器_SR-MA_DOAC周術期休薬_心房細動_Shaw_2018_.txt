@@ -1,0 +1,754 @@
+
+[[p1]]
+282  |     Res Pract Thromb Haemost. 2018;2:282–290.
+wileyonlinelibrary.com/journal/rth2
+ 
+Received: 29 October 2017  |  Accepted: 19 December 2017
+DOI: 10.1002/rth2.12076
+ORIGINAL ARTICLE
+Perioperative interruption of direct oral anticoagulants in 
+patients with atrial fibrillation: A systematic review and  
+meta- analysis
+Joseph R. Shaw MD1  | Jason D. Woodfine MD1 | James Douketis MD2 |  
+Sam Schulman MD2 | Marc Carrier MD, MSc, FRCPC1
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any 
+medium, provided the original work is properly cited, the use is non- commercial and no modifications or adaptations are made.
+© 2018 The Authors. Research and Practice in Thrombosis and Haemostasis published by Wiley Periodicals, Inc on behalf of International Society on Thrombosis and 
+Haemostasis.
+1Department of Medicine, Ottawa Hospital 
+Research Institute at the University of Ottawa, 
+Ottawa, ON, Canada
+2Department of Medicine, Division 
+of Hematology and 
+Thromboembolism, McMaster University, 
+Hamilton, ON, Canada
+Correspondence
+Marc Carrier, Department of Medicine, 
+Division of Hematology, The Ottawa Hospital, 
+General Campus, Ottawa, ON, Canada.
+Email: mcarrier@toh.ca
+Abstract
+Background: Patients with atrial fibrillation (AF) frequently undergo invasive proce-
+dures that require temporary interruption of anticoagulation. There is little evidence 
+to guide the perioperative interruption of direct oral anticoagulants (DOACs).
+Methods: A systematic literature search including studies that evaluated the periop-
+erative interruption of DOACs for non- emergent invasive procedures in patients with 
+AF was performed. The primary outcomes of interest were the 30- day risk of throm-
+boembolic events and major bleeding. Secondary outcomes of interest included the 
+30- day risk of minor bleeding and overall mortality. The systematic review protocol 
+and search strategy were registered online (PROSPERO January 27th 
+2017:CRD42017056124).
+Results: A total of 8 publications encompassing 14 446 patients and 17 107 peripro-
+cedural interruptions were included in our study. Our analysis revealed a pooled post-
+operative 30- day thromboembolic complication risk of 0.41% (95% CI 0.29-  0.54), and 
+a pooled 30- day postoperative major bleeding risk of 1.81% (95% CI 0.84- 3.13). 
+Pooled 30- day postoperative risks of minor bleeding and overall mortality were 3.08% 
+(95% CI 1.02- 6.20) and 0.67% (95% CI 0.29- 1.23), respectively. Meta- analysis of the 
+included comparative studies did not reveal any significant differences in these post-
+operative outcomes following the perioperative interruption of DOACs or vitamin K 
+antagonists.
+Conclusions: The perioperative interruption of DOACs in patients with AF was associ-
+ated with 0.4% thromboembolic and 1.8% major bleeding events at 30 days post sur-
+gery. These findings seem reassuring, but require validation in large prospective 
+management studies where pre-  operative DOAC levels are measured and compared 
+with clinical outcomes in this patient population.
+KEYWORDS
+anticoagulants, atrial fibrillation, hemorrhage, meta-analysis, review
+[Article updated on March 03, 2018 after 
+first online publication on February 16, 2018: 
+A reference to NFAF in the abstract was 
+corrected to AF.]
+[[p2]]
+     |  283
+SHAW et Al.
+1 |  INTRODUCTION
+Atrial fibrillation (AF) is increasingly common as our population ages, 
+with estimates indicating that the number of affected patients will 
+reach 5.6 million by the year 2050.
+1 Atrial fibrillation has become a car-
+diovascular epidemic, and is associated with significant morbidity and 
+mortality, with considerable implications for population disease bur -
+den and medical costs.
+2–4 Oral anticoagulants, which include vitamin K 
+antagonists (VKA) and direct oral anticoagulants (DOACs), are used to 
+prevent thromboembolism including stroke and systemic embolism in 
+this patient population.
+5–12 Patients on oral anticoagulants frequently 
+undergo invasive procedures that require temporary interruption of an-
+ticoagulation. The increasing prevalence of AF, as well as the need to 
+interrupt anticoagulation for invasive procedures poses a growing prob-
+lem for a wide variety of clinicians.
+13 Previous expert narrative reviews 
+have provided guidance to clinicians on the management of DOACs in 
+the perioperative period.
+14,15 In order to update these expert reviews 
+with clinical data, we conducted a systematic review and meta- analysis 
+of the literature on the perioperative management of DOACs in patients 
+with AF. Our aim was to assess risk of perioperative thromboembolism 
+and bleeding following the perioperative interruption of DOACs.
+2 |  METHODS
+2.1 | Search strategy
+We conducted a systematic literature search using EMBASE, 
+MEDLINE, and the Cochrane Central Register of Controlled Trials. 
+The PICO question was: In patient with AF on DOACs for stroke 
+prevention requiring perioperative temporary interruption of their 
+anticoagulation regimen for a procedure, what is the 30- day risk for 
+thromboembolic and major bleeding events? The full search strategy is 
+available in the supporting information. References of included stud -
+ies, narrative reviews and recent conference proceedings of major in-
+ternational conferences were reviewed for additional studies. There 
+were no restrictions with respect to date of publication or language. 
+The systematic review protocol and search strategy were registered 
+online (PROSPERO January 27, 2017: CRD42017056124).
+2.2 | Study selection
+Two authors (JS and JW) independently identified studies eligible for 
+inclusion based on an initial screen of reference titles and abstracts. 
+Articles were included for further review if they evaluated the perio-
+perative interruption of a DOAC (dabigatran, rivaroxaban, apixaban, 
+or edoxaban) in patients with AF, and reported both postoperative 
+thromboembolic and bleeding outcomes. Randomized controlled tri-
+als, prospective and retrospective studies were included. Studies that 
+exclusively evaluated the perioperative interruption of DOACs for 
+cardiac ablation were excluded, as well as those exclusively evaluat -
+ing urgent/emergent procedures. Article records were independently 
+reviewed for inclusion in duplicate, and discrepancies were resolved 
+by consensus.
+2.3 | Data extraction and quality assessment
+Two authors (JS and JW) independently extracted data using a stand-
+ardized form. Primary outcomes of interest included 30- day risk of 
+perioperative thromboembolic and major bleeding. Secondary out -
+comes of interest included 30- day risk of perioperative minor bleed-
+ing and all- cause mortality. Outcomes were defined according to 
+what was used in the included studies. Thromboembolic events were 
+defined as stroke or systemic embolism. Major bleeding was defined 
+according to the criteria of the International Society on Thrombosis 
+and Haemostasis.
+16–18 Minor bleeding was defined as bleeding events 
+not meeting the major bleeding criteria. The quality of randomized 
+controlled trials was assessed using the Cochrane Collaboration’s tool 
+for assessing risk of bias. The quality of cohort/case- control studies 
+was assessed using the Newcastle- Ottawa Scale.
+2.4 | Statistical analysis
+Outcomes were reported per perioperative interruption. Pooled 
+ percentages and 95% confidence intervals of primary and second-
+ary outcomes were generated using Stat Direct 3.1.11 software 
+(Cheshire, UK). Forest plots of randomized controlled data (DOACs vs. 
+VKAs) were also generated using Revman 5.3 software (London, UK). 
+Analyses were conducted using a random effects model (DerSimonian- 
+Laird analysis). Subgroup analysis of studies assessing interruption of 
+dabigatran was conducted. The I
+2 statistic was used to estimate total 
+variation among the pooled estimates across studies. An I2 of <25% 
+was considered as low- level heterogeneity, 25% to 50% was moder-
+ate level and higher than 50% was considered as high level.19
+3 |  RESULTS
+3.1 | Study characteristics
+Our literature search identified an initial 917 records, of which 46 studies 
+met our preliminary inclusion criteria based on title and abstract screening. 
+Essentials
+• Little evidence exists to guide procedural interruption of direct oral anticoagulants (DOACs).
+• Conducted a meta-analysis of the interruption of DOACs in patients with atrial fibrillation (AF).
+• The 30-day risk for thromboembolic and major bleeding events were 0.4% and 1.8%, respectively.
+• Perioperative interruption of DOACs in patients with AF appears to be safe and effective.
+[[p3]]
+284  |    
+SHAW et Al.
+A total of 8 publications including 14 446 patients and 17 107 periproce-
+dural interruptions met full eligibility criteria (Table 1, Figure 1).20–27 Four 
+studies consisted of post- hoc retrospective analyses of prospectively 
+collected randomized controlled trial data and the remaining four stud-
+ies were prospective or retrospective cohort studies. Five studies evalu-
+ated the perioperative interruption of dabigatran, whereas there was one 
+study for each of rivaroxaban, apixaban and edoxaban.
+3.2 | Procedural characteristics
+Three cohort studies exclusively included patients undergoing per-
+manent pacemaker insertion or implantable cardioverter defibrilla-
+tor procedures. Five studies included patients undergoing a variety 
+of procedures (Table 2 and Table 3). Of the eight included studies, 
+five had defined perioperative anticoagulation protocols. Timing of 
+TABLE 1 Study characteristics
+References Year Author Design DOAC/VKA
+CHADS2 (mean ± SD) 
+(median (IQR)) No. of Patients
+No. of 
+Interruptions
+20 2012 Healey RCT Dabigatran 150 
+Dabigatran 110 
+Warfarin
+  2.1 ± 1.1 
+  2.1 ± 1.1 
+  2.1 ± 1.1
+4591 4591
+21 2014 Sherwood RCT Rivaroxaban 
+Warfarin
+3.40 ± 0.95 
+3.42 ± 0.96
+2130 2980
+22 2014 Garcia RCT Apixaban 
+Warfarin
+  2.1 ± 1.1 
+  2.1 ± 1.1
+3930 5741
+23 2015 Douketis RCT Edoxaban 60 
+Edoxaban 30 
+Warfarin
+  2.8 ± 0.9 
+  2.9 ± 0.9 
+  2.8 ± 1.0
+3116 3116
+24 2015 Schulman Prospective Cohort Dabigatran/- – 531 531
+QT?QOPS?j?o?b?cNL?S?GRL?TH?WT?WT
+26 2014 Terekhov Prospective Cohort Dabigatran/- – 16 16
+27 2016 Madan Retrospective Cohort Dabigatran/- – 47 47
+DOAC, Direct Oral Anticoagulant; RCT, Randomized Controlled Trial; VKA, Vitamin K Antagonist.
+FIGURE 1 Study flow diagram
+887 Records identified
+MEDLINE = 334
+EMBASE = 408
+Cochrane database = 145 
+0 Additional records identified
+(References, conference 
+proceedings)
+564 records screen by title + abstract 
+(323 duplicates removed)
+46 Records screened 
+Full text review
+8 Studies included
+meta-analysis
+518 Records excluded
+38 Full text articles excluded
+Insufficient Data = 6
+DOAC Not Interrupted = 4
+Duplicate Cohort = 16
+Emergent Surgery = 1
+No DOAC arm = 1
+Wrong Study Design = 1
+Wrong Patient Population = 5
+Wrong Outcomes = 4
+[[p4]]
+     |  285
+SHAW et Al.
+anticoagulation discontinuation/resumption and the use of bridging 
+anticoagulation were variable across studies (Table 2).
+3.3 | Postoperative thromboembolic events
+Among the eight included studies, there were 38 postoperative 
+thromboembolic events during 9939 DOAC interruptions, yielding 
+a pooled 30- day postoperative thromboembolic risk of 0.41% (95% 
+CI 0.29- 0.54, I
+2 = 0%) (Tables 4 and 5). The pooled risk of postop -
+erative thromboembolic events among studies evaluating dabigatran 
+was similar at 0.44% (95% CI 0.26-  0.68, I2 = 0%) (Table 5). The meta- 
+analysis including the 4 randomized controlled trials is reported in 
+Figure 2A.
+20–23 There were no significant differences between post -
+operative thromboembolic risk following procedural interruption of 
+DOACs as compared to VKA.
+3.4 | Postoperative major bleeding
+Seven studies were included in the pooled analysis of major bleeding 
+events. There were a total of 228 major bleeding events during 9769 
+TABLE 2 Procedural characteristics
+References Author
+Defined Perioperative 
+Anticoagulation Protocol DOAC/VKA Emergent %/(n)
+Bridging %/
+(n) Procedural Type (%)
+20 Healey Yes Dabigatran 150 
+Dabigatran 110 
+Warfarin
+9.1 (141) 
+4.2 (63) 
+7.1 (111)
+17.0 (263) 
+15.3 (228) 
+28.5 (444)
+PPM/ICD (10.3) 
+Dental (10.0) 
+Diagnostic (10.0) 
+Cataract Removal (9.3) 
+Colonoscopy (8.6) 
+Arthroplasty (6.2) 
+Other (45.6)
+21 Sherwood Yes Rivaroxaban 
+Warfarin
+Unknown Unknown Colonoscopy (17.0) 
+Dental (17.0) 
+Abdominal/Thoracic/ 
+Orthopedic (13.0) 
+Dermatological (11.0) 
+Unknown (11.0) 
+Electrophysiology (9.0) 
+Ocular (8.0) 
+Other (8.0) 
+Angiography/PCI (6.0) 
+Urologic (4.0) 
+CABG (1.0)
+22 Garcia Yes Apixaban 
+Warfarin
+2.9% (266) 11.7 (548) 
+11.7 (548)
+Dental (14.6) 
+Colonoscopy (9.9) 
+Ocular (8.0) 
+EGD (7.6) 
+PPM (3.5) 
+Cystoscopy (3.2) 
+PCI (2.8) 
+AV Node Ablation (1.0) 
+Pulmonary Vein Isolation 
+(0.8) 
+ICD (0.8)
+23 Douketis No Edoxaban 60 
+Edoxaban 30 
+Warfarin
+0% (0) 4.5 (47) 
+4.7 (48) 
+5.2 (55)
+Angiography/PCI (9.6) 
+GI Endoscopy (12.0) 
+Dental (13.6) 
+PPM/ICD (12.7) 
+Ocular (10.8) 
+Orthopedic Surgery (8.0) 
+Genitourinary Surgery 
+(3.9) 
+General Surgery (5.6) 
+Superficial Procedure (7.5) 
+Invasive Diagnostic (11.4) 
+Other (4.9)
+AV, Atrioventricular; CABG, Coronary Artery Bypass Grafting; DOAC, Direct Oral Anticoagulant; EGD, Esophagogastroduodenoscopy; PCI, Percutaneous 
+Coronary Intervention; TURP, Transurethral Resection of the Prostate; TURBT, Transurethral Resection of Bladder Tumor; VKA, Vitamin K Antagonist.
+[[p5]]
+286  |    
+SHAW et Al.
+DOAC interruptions, yielding a pooled 30- day postoperative major 
+bleeding risk of 1.81% (95% CI 0.8- 3.13, I2 = 92.4%) (Table 4 and 5). 
+The pooled percentage of postoperative major bleeding risk among 
+patients using dabigatran was similar at 2.56% (95% CI 0.92- 4.99, 
+I2 = 76.9%) (Table 5). The majority of major bleeding events occurred 
+in the perioperative analysis of one randomized trial. 20 The meta- 
+analysis including the four randomized controlled trials is reported in 
+Figure 2B.
+20–23 There were no significant differences between post -
+operative major bleeding episodes following procedural interruption 
+of DOACs as compared to VKA.
+3.5 | Postoperative minor bleeding
+Seven of eight studies reporting minor bleeding events were included 
+in the pooled analyses. There were a total of 386 minor bleeding 
+events occurring during 9769 DOAC interruptions, yielding a pooled 
+30- day postoperative minor bleeding risk of 3.08% (95% CI 1.02- 6.20, 
+I
+2 = 97.7%) (Tables 4 and 5). Similarly, there were no significant dif-
+ferences between postoperative minor bleeding episodes following 
+procedural interruption of DOACs as compared to VKA (Figure 2C).
+3.6 | Postoperative all- cause mortality
+Seven out of the eight studies were included in the pooled analysis 
+of 30- day all- cause mortality. There were a total of 57 postopera -
+tive deaths over 6906 DOAC interruptions, yielding a pooled 30- 
+day postoperative overall mortality risk of 0.67% (95% CI 0.29- 1.23, 
+I
+2 = 71.3%) (Tables 4 and Table 5). These results were similar to the 
+pooled all- cause mortality for dabigatran studies, with a 30- day over-
+all mortality of 0.74% (95% CI 0.24- 1.53, I2 = 0%). There were no sig-
+nificant differences between postoperative overall mortality following 
+procedural interruption of DOACs as compared to VKA (Figure 2D).
+3.7 | Quality assessment
+Quality assessment of the randomized trials were carried out using 
+the Cochrane Risk of Bias tool (Supporting information). None of the 
+randomized trials had pre- defined planned perioperative analyses 
+with defined postoperative outcome definitions (selective reporting). 
+In addition, none of the trials explicitly reported the percentage of 
+patients completing 30- day following each procedure (incomplete 
+outcome data), although the percentage of patients lost to follow up 
+in the trials was low. The Newcastle- Ottawa Scale was used to assess 
+the quality of cohort studies (Supporting information). Three out of 
+the 4 included cohort studies did not have adequacy of follow up. 
+In addition, most studies lacked details surrounding derivation of the 
+cohort (eg, sequential recruitment). Three out of four of these studies 
+did not incorporate blinded assessments of the outcomes of interest.
+4 |  DISCUSSION
+The principal finding from our meta- analysis, which involved over 
+14,000 patients with AF who had periprocedural VKA or DOAC in-
+terruption, is that postoperative adverse outcomes are uncommon 
+following DOAC interruption, with 30- day postoperative risks of 
+thromboembolism and major bleeding of 0.4% and 1.8%, respectively.
+Our pooled results are similar to other large studies evaluating the 
+perioperative interruption of VKA in patients with AF. In a recent ran-
+domized controlled trial,
+28 the 30- day postoperative thrombotic risks 
+were 0.4% and 0.3% in the no- bridging and bridging groups, respec -
+tively, which are similar to our pooled DOAC risk of 0.41%. Similarly, 
+the risk of postoperative thromboembolism was 0.4% overall in a re-
+cently published prospective registry evaluating the perioperative in-
+terruption of VKA.
+29 Our pooled major bleeding risk of 1.8% is also 
+TABLE 3 Cohort study procedural characteristics
+References Author
+Defined Perioperative 
+Anticoagulation Protocol DOAC Emergent (%) Bridging (%) Procedural Type (%)
+24 Schulman Yes Dabigatran 0 1.7 Endoscopy/Bronchoscopy (21.8) 
+EPS/Ablation (14.6) 
+Cardiac Catheterization (12.4) 
+ICD/PPM (9.6) 
+Joint Surgery (5.4) 
+Abdominal Surgery (5.2) 
+Biopsy (4.4) 
+Ocular (3.9) 
+Vascular (3.5) 
+TURP/TURBT (3.1) 
+Other (16.1)
+QT?j?x?c?O?O?ool?GUTMOH?
+ICD (35.0)
+26 Terekhov No Dabigatran 0 0 PPM (100.0)
+27 Madan No Dabigatran 0 0 PPM (55.3) 
+ICD (44.7)
+DOAC, Direct Oral Anticoagulant; EPS, Electrophysiology Procedure; ICD, Implantable Cardioverter Defibrillator; PPM, Permanent Pacemaker; TURP, 
+Transurethral Resection of the Prostate; TURBT, Transurethral Resection of Bladder Tumor.
+[[p6]]
+     |  287
+SHAW et Al.
+comparable to the results of a previously published trial on VKAs, 
+which demonstrated a major bleeding risk of 1.3% and 3.2% in the 
+non- bridging and bridging groups, respectively. Finally, our reported 
+risk of bleeding events also align with the major bleeding results ob-
+served in the ORBIT- AF registry.
+29 Therefore, the results from our 
+meta- analyses seem to be generalizable to current clinical practices.
+The postoperative major and minor bleeding risk seems to be 
+higher in the studies assessing dabigatran for patients with AF. This 
+discrepancy might be accounted for by the higher rates of bridging an-
+ticoagulation compared to the other included studies (Table 2). In ad-
+dition, the perioperative dabigatran protocol was modified during the 
+conduct of the trials to account for newly available pharmacokinetic 
+data on dabigatran. Initially, dabigatran was held for 24 hours prior to 
+all procedures. The protocol was then amended to hold dabigatran for 
+24 hours prior low risk surgical procedures and between two to five 
+days prior high risk surgical procedures depending on renal function.
+20 
+This standardized interruption protocol has been shown to yield ap-
+proximately 85% of patients with no residual anticoagulant effect at 
+the time of procedure and low risk of major bleeding.
+30 Therefore, 
+it is possible that dabigatran interruptions that occurred early after 
+initiation of the randomized trials may have contributed to a higher 
+bleeding risk. Furthermore, additional studies on DOAC interruption 
+for elective procedure are needed to confirm these findings.
+Our study has potential limitations. First, although several ran-
+domized controlled trials are included in our meta- analysis, it is 
+important to consider that the included data are from post- hoc 
+analyses of the original clinical trials. None of the randomized trials’ 
+protocols described pre- defined perioperative analyses or postop-
+erative outcome definitions prior to conducting these perioperative 
+analyses.
+31–34 Therefore, the reported pooled estimates might be 
+subject to bias and may underestimate the true 30- day complica-
+tions associated with interruption of DOACs. However, these post-  
+hoc analyses all incorporate widely accepted postoperative outcome 
+definitions based on standard 30- day complication rates, which 
+would serve to reduce bias. Second, there was significant variability 
+among perioperative anticoagulation practices between the differ -
+ent studies. In particular, only five out of the eight included studies 
+had defined perioperative anticoagulation protocols that clearly in-
+structed physicians on when to stop and re- start anticoagulation in 
+the event of an invasive procedure (Tables 2 and 3). Rates of bridging 
+anticoagulation with alternative parenteral anticoagulation also var -
+ied significantly between studies. Overall, the rates of bridging were 
+low but varied between 4.5% to 17.0% for DOAC- treated patients. 
+The timing and dosing of bridging anticoagulation (ie, pre- operative, 
+peri- operative or postoperative only) are also unknown.
+35 Third, we 
+excluded studies that exclusively evaluated cardiac ablation, as this 
+topic has been extensively studied
+36,37 This may have biased our 
+results towards lower bleeding rates, as cardiac ablation procedures 
+possibly carry a lower postoperative bleeding risk as compared to 
+major procedures. We also excluded studies that focussed exclu-
+sively on emergent procedures. Therefore, our results may not be 
+generalizable to these populations, as emergent procedures likely 
+carry a high bleeding risk. Fourth, we did not have access to patient 
+level data. Therefore, it is possible that we included patients that 
+had more than one DOAC interruption. Finally, we were unable to 
+report results according to procedure types. It is likely that the risk 
+of these clinical outcomes varies depending on the procedure, as 
+there is considerable cross- procedure variability in risks of bleeding 
+and thromboembolism.
+38
+5 |  CONCLUSIONS
+Interruption of DOACs for invasive procedures is associated with a 
+relatively low risk of postoperative thrombotic and bleeding com-
+plications in patients with AF. There is also no significant difference 
+TABLE 4 Postoperative outcomes
+References Author DOAC/Warfarin
+30- Day Thromboembolic 
+(events/Interruptions, %)
+30- Day major 
+bleeding (Events/
+Interruptions, %)
+30- day Minor 
+Bleeding (events/
+Interruptions, %)
+30- Day Overall 
+Mortality (events/
+Interruptions, %)
+[20] Healey Dabigatran 
+Warfarin
+14/3033 (0.46) 
+7/1558 (0.45)
+135/3033 (4.45) 
+72/1558 (4.62)
+259/3033 (8.54) 
+122/1558 (7.83)
+–
+[21] Sherwood Rivaroxaban 
+Warfarin
+4/1297 (0.31) 
+8/1683 (0.48)
+14/1297 (1.08) 
+18/1683 (1.07)
+20/1297 (1.54) 
+24/1683 (1.43)
+1/1297 (0.08) 
+3/1683 (0.18)
+[22] Garcia Apixaban 
+Warfarin
+9/2877 (0.31) 
+10/2864 (0.35)
+46/2792 (1.65) 
+35/2774 (1.26)
+26/2792 (0.93) 
+26/2774 (0.94)
+30/2877 (1.04) 
+15/2864 (0.52)
+[23] Douketis Edoxaban 
+Warfarin
+10/2053 (0.49) 
+6/1063 (0.56)
+23/2053 (1.12) 
+11/1063 (1.03)
+56/2053 (2.73) 
+30/1063 (2.82)
+22/2053 (1.07) 
+13/1063 (1.22)
+[24] Schulman Dabigatran 1/531 (0.19) 10/531 (1.88) 24/531 (4.52) 4/531 (0.75)
+[25] Kosiuk Dabigatran 0/85 (0) – – 0/85 (0)
+[26] Terekhov Dabigatran 0/16 (0) 0/16 (0) 1/16 (6.25) 0/16 (0)
+[27] Madan Dabigatran 0/47 (0) 0/47 (0) 0/47 (0) 0/47 (0)
+Total – DOAC 
+Warfarin
+38/9939 (0.38) 
+31/7168 (0.43)
+228/9769 (2.33) 
+136/7078 (1.92)
+386/9769 (3.95) 
+202/7078 (2.85)
+57/6906 (0.83) 
+31/5610 (0.55)
+DOAC, Direct Oral Anticoagulant.
+[[p7]]
+288  |    
+SHAW et Al.
+TABLE 5 All DOACs and dabigatran postoperative outcomes pooled incidence analysis
+ 
+30- day thromboembolic 
+% [95% CI; I2]
+30- day major bleeding 
+% [95% CI; I2]
+30- day minor bleeding 
+% [95% CI; I2]
+30- day overall mortality 
+% [95% CI]
+Overall 0.41% [0.29- 0.54; 0%] 1.81% [0.84- 3.1; 92.4%] 3.08% [1.02- 6.20; 97.7%] 0.67% [0.29- 1.23]
+Dabigatran 0.44% [0.26- 0.68; 0%] 2.56% [0.92- 4.99; 76.9%] 5.15% [2.21- 9.25; 85.2%] 0.74% [0.24- 1.53]
+DOAC, Direct Oral Anticoagulant.
+FIGURE 2 Randomized controlled trial meta- analyses . Meta-analyses of 30-day event rates (A) thromboembolic events (B) major bleeding 
+(C) minor bleeding (D) overall mortality. DOAC, direct oral anticoagulant; VKA, vitamin K antagonist
+(A)
+(B)
+(C)
+(D)
+[[p8]]
+     |  289
+SHAW et Al.
+in these risks when compared to the interruption of VKAs. The 
+perioperative interruption of DOACs in patients with AF appears 
+to be safe and effective. These findings are re- assuring, but re-
+quire validation in prospective management studies in this patient 
+population.
+RELATIONSHIP DISCLOSURES
+J. Shaw and J. Woodfine reported no conflicts of interests. M. 
+Carrier received research funding from Bristol- Myers Squibb and 
+Leo Pharma. M. Carrier has also received honorarium from Pfizer, 
+Bayer, Sanofi, Leo Pharma, and Daiichi Sankyo. J. Douketis reports 
+receiving fees for serving on advisory boards from Biotie Therapies, 
+Portola Pharmaceuticals, and The Medicines Company; honoraria 
+from Bristol- Myers Squibb, Pfizer, and Sanofi- Aventis; consulting fees 
+from Boehringer Ingelheim, Bayer, Janssen, Bristol- Myers Squibb, 
+Daiichi Sankyo, and Actelion Pharmaceuticals; and grant support 
+from Boehringer Ingelheim. S. Schulman reports receiving honoraria 
+from Boehringer Ingelheim, Bayer HealthCare, Daiichi Sankyo, and 
+Sanofi, and research support from Boehringer Ingelheim, Baxter, and 
+Octapharma.
+AUTHOR CONTRIBUTIONS
+J. Shaw developed the study concept and design, performed the sys-
+tematic review, data extraction, data analysis, and authored the manu-
+script. J. Woodfine performed the systematic review and data analysis, 
+and provided critical revisions to the manuscript. J. Douketis resolved 
+conflicts with regards to study selection, provided unpublished data 
+from one of the included studies, and provided critical revisions to 
+the manuscript. S. Schulman provided unpublished data from one of 
+the included studies, and provided critical revisions to the manuscript. 
+M. Carrier provided critical advice surrounding study design and data 
+extraction, performed data analysis, and provided critical revisions to 
+the manuscript.
+REFERENCES
+ 1. Go AS, Hylek EM, Phillips KA, et al. Prevalence of diagnosed 
+atrial fibrillation in adults: national implications for rhythm man-
+agement and stroke prevention: the An Ticoagulation and Risk 
+Factors in Atrial Fibrillation (ATRIA) Study. JAMA. 2001;285: 
+2370–5.
+ 2. Risk factors for stroke and efficacy of antithrombotic therapy in atrial 
+fibrillation. Analysis of pooled data from five randomized controlled 
+trials. Arch Intern Med. 1994;154:1449–57.
+ 3. Lip GY, Tean KN, Dunn FG. Treatment of atrial fibrillation in a district 
+general hospital. Br Heart J. 1994;71:92–5.
+ 4. Benjamin EJ, Wolf PA, D’Agostino RB, Silbershatz H, Kannel WB, Levy 
+D. Impact of atrial fibrillation on the risk of death: the Framingham 
+Heart Study. Circulation. 1998;98:946–52.
+ 5. Patel MR, Mahaffey KW, Garg J, et al. ROCKET AF Investigators. 
+Rivaroxaban versus warfarin in nonvalvular atrial fibrillation. N Engl J 
+Med. 2011;365:883–91.
+ 6. Giugliano RP, Ruff CT, Braunwald E, et al. Edoxaban versus warfarin in 
+patients with atrial fibrillation. N Engl J Med. 2013;369:2093–104.
+ 7. Schulman S, Kearon C, Kakkar AK, et al. RE-COVER Study Group. 
+Dabigatran versus warfarin in the treatment of acute venous throm-
+boembolism. N Engl J Med. 2009;361:2342–52.
+ 8. Agnelli G, Buller HR, Cohen A, et al. AMPLIFY Investigators. Oral apix-
+aban for the treatment of acute venous thromboembolism. N Engl J 
+Med. 2013;369:799–808.
+ 9. Connolly SJ, Ezekowitz MD, Yusuf S, et al. Dabigatran versus warfarin 
+in patients with atrial fibrillation. N Engl J Med. 2009;361:1139–51.
+ 10. Granger CB, Alexander JH, McMurray JJ, et al. Apixaban versus 
+warfarin in patients with atrial fibrillation. N Engl J Med. 2011;365: 
+981–92.
+ 11. EINSTEIN Investigators, Bauersachs R, Berkowitz SD, et al. Oral ri-
+varoxaban for symptomatic venous thromboembolism. N Engl J Med 
+2010;363:2499–510.
+ 12. EINSTEIN–PE Investigators, Buller HR, Prins MH, et al. Oral rivarox-
+aban for the treatment of symptomatic pulmonary embolism. N Engl J 
+Med. 2012;366:1287–97.
+ 13. Douketis JD. Pharmacologic properties of the new oral anticoagu-
+lants: a clinician- oriented review with a focus on perioperative man-
+agement. Curr Pharm Des. 2010;16:3436–41.
+ 14. Ferrandis R, Castillo J, de Andres J, et al. The perioperative manage-
+ment of new direct oral anticoagulants: a question without answers. 
+Thromb Haemost. 2013;110:515–22.
+ 15. Spyropoulos AC, Douketis JD. How I treat anticoagulated patients 
+undergoing an elective procedure or surgery. Blood. 2012;120: 
+2954–62.
+ 16. Schulman S, Kearon C, Subcommittee on Control of Anticoagulation 
+of the Scientific and Standardization Committee of the International 
+Society on Thrombosis and Haemostasis. Definition of major bleeding 
+in clinical investigations of antihemostatic medicinal products in non- 
+surgical patients. J Thromb Haemost. 2005;3:692–4.
+ 17. Schulman S, Angeras U, Bergqvist D, Eriksson B, Lassen MR, Fisher 
+W. Subcommittee on Control of Anticoagulation of the Scientific 
+and Standardization Committee of the International Society on 
+Thrombosis and Haemostasis. Definition of major bleeding in clinical 
+investigations of antihemostatic medicinal products in surgical pa-
+tients. J Thromb Haemost. 2010;8:202–4.
+ 18. Kaatz S, Ahmad D, Spyropoulos AC, Schulman S. Subcommittee on 
+Control of Anticoagulation. Definition of clinically relevant non- major 
+bleeding in studies of anticoagulants in atrial fibrillation and venous 
+thromboembolic disease in non- surgical patients: communication 
+from the SSC of the ISTH. J Thromb Haemost. 2015;13:2119–26.
+ 19. Higgins JP, Thompson SG. Quantifying heterogeneity in a meta- 
+analysis. Stat Med. 2002;21:1539–58.
+ 20. Healey JS, Eikelboom J, Douketis J, et al.; RE-LY Investigators. 
+Periprocedural bleeding and thromboembolic events with dabigatran 
+compared with warfarin: results from the Randomized Evaluation 
+of Long-  Term Anticoagulation Therapy (RE- LY) randomized trial. 
+Circulation. 2012;126:343–8.
+ 21. Sherwood MW, Douketis JD, Patel MR, et al. Outcomes of tempo-
+rary interruption of rivaroxaban compared with warfarin in patients 
+with nonvalvular atrial fibrillation: results from the rivaroxaban once 
+daily, oral, direct factor Xa inhibition compared with vitamin K antag-
+onism for prevention of stroke and embolism trial in atrial fibrillation 
+(ROCKET AF). Circulation. 2014;129:1850–9.
+ 22. Garcia D, Alexander JH, Wallentin L, et al. Management and clinical 
+outcomes in patients treated with apixaban vs warfarin undergoing 
+procedures. Blood. 2014;124:3692–8.
+ 23. Douketis JD, Weitz JI, Murphy S, Deenadayalu N, Crompton AE. 
+Perioperative adverse outcomes in patients with atrial fibrillation tak-
+ing edoxaban or warfarin: analysis of the ENGAGE AF-  TIMI 48 trial 
+Abstract. J Am Coll Cardiol. 2015;65:A2092.
+ 24. Schulman S, Carrier M, Lee AY, et al.; Periop Dabigatran Study Group. 
+Perioperative management of dabigatran: a prospective cohort study. 
+Circulation. 2015;132:167–73.
+[[p9]]
+290  |    
+SHAW et Al.
+ 25. Kosiuk J, Koutalas E, Doering M, et al. Comparison of dabigatran and 
+uninterrupted warfarin in patients with atrial fibrillation undergo-
+ing cardiac rhythm device implantations. Case- control study. Circ J. 
+2014;78:2402–7.
+ 26. Terekov D, Agapov V, Kulikov K, Zadorozhnaya S, Samitin V. 
+Permanent pacemaker implantation during anticoagulant treatment 
+with dabigatran etexilate (single center experience). Eur Heart J. 
+2014;35:266.
+ 27. Madan S, Muthusamy P, Mowers KL, et al. Safety of anticoagulation 
+with uninterrupted warfarin vs. interrupted dabigatran in patients 
+requiring an implantable cardiac device. Cardiovasc Diagn Ther 
+2016;6:3–9.
+ 28. Douketis JD, Spyropoulos AC, Kaatz S, et al. BRIDGE Investigators. 
+Perioperative bridging anticoagulation in patients with atrial fibrilla-
+tion. N Engl J Med. 2015;373:823–33.
+ 29. Steinberg BA, Peterson ED, Kim S, et al. Outcomes Registry for Better 
+Informed Treatment of Atrial Fibrillation Investigators and Patients. 
+Use and outcomes associated with bridging during anticoagulation 
+interruptions in patients with atrial fibrillation: findings from the 
+Outcomes Registry for Better Informed Treatment of Atrial Fibrillation 
+(ORBIT- AF). Circulation. 2015;131:488–94.
+ 30. Douketis JD, Wang G, Chan N, et al. Effect of standardized periop-
+erative dabigatran interruption on the residual anticoagulation 
+effect at the time of surgery or procedure. J Thromb Haemost. 
+2016;14:89–97.
+ 31. Ezekowitz MD, Connolly S, Parekh A, et al. Rationale and design of 
+RE- LY: randomized evaluation of long- term anticoagulant therapy, 
+warfarin, compared with dabigatran. Am Heart J 2009;157:805–10, 
+810 e1-2.
+ 32. Investigators RAS. Rivaroxaban- once daily, oral, direct factor Xa inhi-
+bition compared with vitamin K antagonism for prevention of stroke 
+and Embolism Trial in Atrial Fibrillation: rationale and design of the 
+ROCKET AF study. Am Heart J 2010;159:340–7.e1.
+ 33. Lopes RD, Alexander JH, Al-Khatib SM, et al. ARISTOTLE Investigators. 
+Apixaban for reduction in stroke and other ThromboemboLic events 
+in atrial fibrillation (ARISTOTLE) trial: design and rationale. Am Heart 
+J. 2010;159:331–9.
+ 34. Ruff CT, Giugliano RP, Antman EM, et al. Evaluation of the novel fac-
+tor Xa inhibitor edoxaban compared with warfarin in patients with 
+atrial fibrillation: design and rationale for the Effective aNticoaGula-
+tion with factor xA next GEneration in Atrial Fibrillation- Thrombolysis 
+In Myocardial Infarction study 48 (ENGAGE AF- TIMI 48). Am Heart J. 
+2010;160:635–41.
+ 35. Spyropoulos AC, Al-Badri A, Sherwood MW, Douketis JD. 
+Periprocedural management of patients receiving a vitamin K antag-
+onist or a direct oral anticoagulant requiring an elective procedure or 
+surgery. J Thromb Haemost. 2016;14:875–85.
+ 36. Vallakati A, Sharma A, Madmani M, et al. Efficacy and safety of novel 
+oral anticoagulants for atrial fibrillation ablation: an updated meta- 
+analysis. Cardiol Ther. 2016;5:85–100.
+ 37. Nairooz R, Ayoub K, Sardar P, et al. Uninterrupted new oral anticoag-
+ulants compared with uninterrupted vitamin k antagonists in ablation 
+of atrial fibrillation: a meta- analysis. Can J Cardiol. 2016;32:814–23.
+ 38. Douketis JD, Spyropoulos AC, Spencer FA, et al. Perioperative 
+management of antithrombotic therapy: Antithrombotic Therapy 
+and Prevention of Thrombosis, 9th ed: American College of Chest 
+Physicians Evidence- Based Clinical Practice Guidelines. Chest. 
+2012;141:e326S–50S.
+SUPPORTING INFORMATION
+Additional Supporting Information may be found online in the 
+ supporting information tab for this article.
+How to cite this article: Shaw JR, Woodfine JD, Douketis J, 
+Schulman S, Carrier M. Perioperative interruption of direct oral 
+anticoagulants in patients with atrial fibrillation: A systematic 
+review and meta- analysis. Res Pract Thromb Haemost. 
+2018;2:282–290. https://doi.org/10.1002/rth2.12076

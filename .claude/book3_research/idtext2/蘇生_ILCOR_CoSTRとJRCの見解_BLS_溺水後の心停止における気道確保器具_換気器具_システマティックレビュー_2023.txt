@@ -1,0 +1,115 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Ventilation Equipment in Cardiac Arrest After Drowning 溺水後の心停止における気道確保器具、換気器具 
+Author: Berg KM, et al. BLS task force 
+PICOST (Population, Intervention, Comparator, Outcome, Study 
+Designs and Timeframe) 
+ 
+Population: Adults and children in cardiac arrest after drowning   
+Intervention: Ventilation with equipment before hospital arrival  
+Comparator: Ventilation without equipment before hospital 
+arrival  
+Outcome:  
+Critical: Survival to discharge or 30 days with favorable 
+neurological outcome and survival to discharge or 30 days  
+ Important: ROSC 
+Study designs: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) were eligible for inclusion. Unpublished studies 
+(eg, conference abstracts, trial protocols), manikin studies, 
+narrative reviews, and animal studies were excluded.  
+Time frame: All years and all languages were included as long 
+as there was an English abstract and a full-text translation was 
+possible. The literature search was updated to April 25, 2023. 
+ 
+ 
+ 
+P: 溺水による成人と小児の心停止 
+I: 病院到着前の器具を用いた換気 
+C: 病院到着前に器具なしでの換気 
+ 
+O:  
+重大なアウトカム：退院時または 30 日後の良好な神経学転帰および生存 
+重要なアウトカム：ROSC 
+ 
+S:RCT と非無作為化研究（非 RCT、分割時系列解析、前後比較研究、コ
+ホート研究）を対象とした。論文化されていない研究（学会抄録、臨床試
+験のプロトコールなど）、マネキン研究、ナラティブレビュー、動物実験は
+除外した。 
+T:英文抄録がある、全ての年の、あらゆる言語での研究を対象とした。
+文献検索は?QOQR?年?S?月?QT?日まで?
+Treatment recommendations 
+ 
+We recommend using mouth-to-mouth, mouth-to-nose, or 
+pocket-mask ventilation by BLS providers and laypeople for 
+adults and children in cardiac arrest caused by drowning (good 
+practice statement).  
+ 
+We suggest that bag-mask ventilation (BMV) can be used by 
+lifeguards or other BLS providers with a duty to respond, on the 
+推奨と提案 
+ 
+溺水による成人および小児の心停止傷病者に対して、BLS プロバイダー
+および市民が口対口、口対鼻、ポケットマスクを用いた換気を行うことを
+推奨する。（優れた医療慣行に関する記述） 
+ 
+ 
+実践的な教育・訓練を受け、かつ、その再教育および資器材の保守点検
+が定期的に行われることを条件として、溺水者への対応義務を負うライフ
+[[p2]]
+2 
+ 
+condition that it is part of a competency- based training program 
+with regular retraining and maintenance of equipment (good 
+practice statement).  
+ 
+We recommend that health care professionals follow the 
+advanced life support (ALS) treatment recommendations for 
+airway management for adults and children in cardiac arrest 
+caused by drowning. 34, 35 
+ガードや BLS プロバイダーがバッグマスク換気を行うことを提案する。
+（優れた医療慣行に関する記述） 
+ 
+ 
+医療従事者は、成人および小児の溺水による心停止傷病者の気道管理
+について、ALS の治療勧告に従うことを推奨する。34, 35 
+ 
+１． JRC の見解と解説 
+• このトピックは CoSTR2023 で初めて検討された。 
+• 得られたエビデンスは、溺水時の気道確保器具および換気器具を比較した後ろ向き研究からのもののみであった。 
+• BLS プロバイダー（日本での位置づけは明確でない）や市民、医療従事者に対する現在の BLS、ALS、PLS の推奨を変更する新たなエビデンス
+は見つからなかった。 
+• 傷病者の転帰および心肺蘇生の質に関する気道および換気戦略を評価する質の高いエビデンスが必要である。 
+• ILCOR は「溺水者への対応義務を負う者」を対象として BVM 換気を行うことを提案した上で、対象者の例としてライフガードや BLS プロバイダ
+ーを挙げている。しかし、日本国内において BVM を用いた人工呼吸は医行為として位置づけられているため、医療従事者が行うことが原則で
+ある。医療従事者以外では、「溺水者への対応義務を負う者」として、救急隊員および海上保安庁救急員の行う応急処置等の基準に BVM を
+用いた人工呼吸の実施が明記されている。 
+• ILCOR が例示している BLS プロバイダーやライフガードは、日本国内では明確に位置付けられていない（日本で活躍しているライフセイバーと
+諸外国におけるライフガードとは、業務形態や責任範囲、資格などについて異なる点がある）。従って、「わが国への適応」における優れた医療
+慣行に関する記述の中で、BVM を用いた人工呼吸の実施を提案する対象者として「BLS プロバイダー」および「ライフガード」を明記しない。 
+ 
+２．わが国への適用 
+● 溺水による成人と小児の心停止傷病者に対して、市民が人工呼吸を行う場合には、口対口または口対鼻、あるいはポケットマスクを用いるこ
+とを推奨する予定である。（優れた医療慣行に関する記述） 
+● 溺水による成人と小児の心停止傷病者に対して、医療従事者が行う気道管理については ALS で示す予定である。 
+ 
+ 
+ 
+[[p3]]
+3 
+ 
+３．担当メンバー 
+作業部会員（五十音順） 
+喜熨斗智也、深野賢太朗 
+共同座長（五十音順） 
+野田英一郎、若松弘也 
+担当編集委員（五十音順） 
+西山知佳、乗井達守 
+顧問 
+ 畑中哲生 
+編集委員長 
+ 坂本哲也 
+ 

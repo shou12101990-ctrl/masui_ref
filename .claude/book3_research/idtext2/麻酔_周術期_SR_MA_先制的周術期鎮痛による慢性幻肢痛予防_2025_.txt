@@ -1,0 +1,1670 @@
+
+[[p1]]
+ Systematic Review and Meta-analysis Article   
+http://mjiri.iums.ac.ir    
+Medical Journal of the Islamic Republic of Iran (MJIRI) 
+Med J Islam Repub Iran. 2025 (9 Jul);39.92. https://doi.org/10.47176/mjiri.39.92 
+ 
+  
+ 
+ 
+The Role of Preemptive Perioperative Analgesia in Prevention of Chronic 
+Phantom Pain: A Systematic Review and Meta-analysis  
+ 
+Ramin Abrishami1#, Nima Azh2#*    , Mehri Farhang Ranjbar1, Nogol Motamedgorji2 
+ 
+Received: 23 Feb 2025                 Published: 9 Jul 2025 
+ 
+Abstract 
+    Background: Phantom limb pain (PLP) is a debilitating condition leading to the experience of pain in a limb that has been amputated. 
+Pharmacological interventions have been proposed to prevent chronic PLP. However, results of these interventions are still controversial. 
+This systematic review and meta-analysis clarifies the effectiveness of preemptive ph armacological interventions in prevention of 
+chronic phantom pain by evaluating incidence and intensity of PLP,  residual limb pain (RLP), qual ity of life (QoL), depression,  and 
+anxiety. 
+   Methods: We systematically searched the PubMed, Embase, Scopus, Web of Science, and Cochrane Library databases for published 
+randomized clinical trials with the outcomes of incidence and intensity for PLP, RLP, QoL, depression, and anxiety in amputatio n 
+candidates due to any reason. We used the Risk of Bias tool (ROB2)  to assess the quality of evidence. Relative risks and mean differences 
+were calculated by a fixed-effects model, and sensitivity analysis was conducted post-hoc for risk of bias. We presented the results using 
+the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) tables. 
+   Results: Overall, 20 studies were found to address outcomes of interest at 6 months or longer. In 18 studies, intervention was planned 
+for lower limb amputations. Peripheral vascular disease was the most studied cause for amputation. Intervention showed a mean 
+reduction of 0.63 (0.10- 1.15) in 6-month intensity of PLP with low certainty of evidence. Evidence for Ketamine, Gabapentin, Valproic 
+Acid, Calcitonin, Amide local anesthetics such as bupivacaine via epidural and perineural catheters did not support reduction in PLP. 
+   Conclusion: Imprecision due to small sample sizes, inadequate blinding, and publication bias downgraded the quality of evidence in 
+this clinical scenario. Ov erall, preemptive perioperative pharmacological inte rventions do not seem to prevent phantom pain or stump 
+pain compared with conventional perioperative pain control meth ods. Further robust studies are required for the effectiveness o f 
+Memantine in the prevention of chronic PLP. 
+ 
+Keywords: Phantom Limb Pain, Residual Limb Pain, Prevention, Systematic Review, Meta-analysis 
+ 
+Conflicts of Interest: None declared 
+Funding: None 
+ 
+*This work has been published under CC BY-NC-SA 4.0 license. 
+  Copyright© Iran University of Medical Sciences  
+ 
+Cite this article as : Abrishami R, Azh N, Farhang Ranjbar M, Motamedgorji N. The Role of Preemptive Perioperative Analgesia in Prevention of 
+Chronic Phantom Pain: A Systematic Review and Meta-analysis. Med J Islam Repub Iran. 2025 (9 Jul);39:92. https://doi.org/10.47176/mjiri.39.92  
+ 
+ 
+Introduction 
+Patients with phantom limb pain (PLP) experience a 
+debilitating pain in a limb that has been amputated. The 
+condition is distinct from residual limb pain (RLP or stump 
+pain) and could impact mental health and the quality of life 
+(QoL) of amputees (1). While the exact cause of this 
+phenomenon is not clear, the peripheral nervous system 
+______________________________ 
+Corresponding author: Dr Nima Azh, Azh.N@iums.ac.ir 
+    
+ # Equal contribution as first author.                                        
+                                                           
+ 
+1. Research Center for Trauma in Police Operations, Directorate of Health, Rescue & Treatment, 
+Police Headquarter, Tehran, Iran 
+2. School of Medicine, Iran University of Medical Sciences, Tehran, Iran 
+ 
+↑What is “already known” in this topic: 
+Several interventions have been proposed to reduce the risk of 
+developing chronic phantom pain post-amputation. These 
+interventions aim to modify risk factors such as preoperative 
+pain scores or acute postoperative phantom limb pain (PLP) 
+and residual limb pain (RLP) that are presumed to predict and 
+modify the incidence and intensity of phantom pain.   
+ 
+→What this article adds: 
+Our study aims to clarify the effectiveness of different 
+perioperative pharmacological interventions in the prevention 
+of chronic PLP through a systematic review and meta-analysis 
+of the literature. Our findings help optimize the perioperative 
+interventions for amputation candidates, as well as provide 
+insights into the risk factors and underlying mechanisms of 
+chronic PLP
+.  
+[[p2]]
+    
+ Prevention of Phantom Pain   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+2 
+undergoes changes including the formation of neuromas, 
+abnormal spontaneous activity, and changes in ion 
+channels, which have been associated with postamputation 
+limb pain. These changes may result in the generation and 
+transmission of pain signals to the central nervous system. 
+Moreover, the central nervous system changes, including 
+cortical reorganization, occur after amputation and can lead 
+to alterations in the sensory and motor representation of the 
+amputated limb. This reorganization may contribute to the 
+perception of pain in the phantom limb (2, 3). 
+Epidemiological studies indicate that regardless of the 
+cause, the prevalence of PLP ranges from 46% to as high 
+as 86% with 2 peaks at 1 month and 1 year postoperatively 
+(4-7).  Several studies have proposed risk factors such as 
+preoperative pain scores or postoperative PLP and RLP to 
+predict the incidence of chronic phantom pain (8-10). 
+However, it is unclear whether modifying these factors by 
+controlling preoperative pain can decrease the risk of 
+developing PLP (4, 11). Non-steroidal anti-inflammatory 
+drugs (NSAIDs), opioids, anticonvulsants, antidepressants, 
+N-methyl-d-aspartate (NMDA) receptor antagonists, and 
+local amide anesthetics have been tested in different 
+dosages, forms, and delivery routes and have shown 
+contradicting results in the prevention settings (12-14). 
+This systematic review and meta-analysis was conducted to 
+help clarify the effectiveness of current perioperative 
+interventions in prevention of chronic phantom pain by 
+evaluating incidence and intensity of PLP, RLP, QoL, 
+depression, and anxiety. 
+ 
+Methods 
+The Preferred Reporting Items for Systematic Reviews 
+and Meta-Analyses (PRISMA) guideline was applied to 
+our study (15). 
+ 
+Databases and Selection Process  
+We systematically searched PubMed, Embase, Scopus, 
+Web of Science, and Cochrane Library databases. The 
+search terms were designed by a bioinformatic librarian and 
+a team of clinical epidemiologists and medical doctors. Ap-
+pendix 1 shows the search terms and syntax used. We re-
+trieved studies up to February 9, 2025. Two independent 
+authors screened the retrieved articles for relevance, and 
+relevant articles were screened by abstract and full text. Ul-
+timately, 20 studies were included in the systematic review. 
+This systematic review is registered in the PROSPERO da-
+tabase under the code CRD42023385291, with a detailed 
+description of the search strategy. 
+ 
+Study Eligibility 
+We applied the following criteria for eligibility: Pub-
+lished randomized clinical trials, which assessed the peri-
+operative pharmacological interventions’ effectiveness for 
+prevention of chronic PLP in both adults and children, com-
+pared with placebo or other conventional medications. The 
+primary outcomes of our study were the incidence or inten-
+sity of chronic PLP and RLP reported using numerical or 
+visual rating scales at a minimum of 6 months. Where avail-
+able, we also recorded QoL, depression, and anxiety as sec-
+ondary outcomes.   
+The interventions included epidural anesthesia combina-
+tions, peripheral nerve catheters, anti-epileptics, opioids, 
+NMDA receptor agonists, and other conventional medica-
+tions in all dosages and forms. Subgroup analyses were 
+planned for interventions, sharing a similar setting based on 
+duration, mode of action, dosage, delivery route, or de-
+mographics, but were not required.  
+We excluded studies that evaluated acute (under 6 
+months) phantom pain, nonpharmacological interventions 
+such as mirror therapy and cognitive behavioral therapy, 
+complex regional pain syndrome, fibromyalgia, and 
+chronic postsurgical pain syndromes. We also excluded ar-
+ticles for which we could not obtain an English or full-text 
+version. 
+ 
+Data Extraction 
+We recorded study characteristics such as author and 
+year, study population and settings, participants’ eligibility 
+criteria, interventions and their dosage and follow-up 
+length, measured outcomes, and source of funding. We 
+summarized the data on the incidence and intensity of PLP 
+and RLP, as well as the QoL, depression, and anxiety scores 
+in a unified form presented as a study characteristics and 
+effect estimates table for individual studies. Any disagree-
+ments were resolved by discussion. PlotDigitizer was used 
+to quantify graph data for graphs without available values 
+(16). 
+ 
+Quality Assessment and Evidence Certainty 
+We assessed the randomized control trials (RCTs) for 
+their quality and limitations in study design or execution 
+using the Cochrane tool for assessment of risk of bias 
+(ROB2). ROB2 specifically addresses outcomes rather than 
+the quality of the whole study, which makes it ideal for self-
+reported and subjective outcomes like pain (17). Addition-
+ally, we used the GRADE (Grading of Recommendations 
+Assessment, Development, and Evaluation) approach to as-
+sess the overall certainty of evidence for every outcome in 
+the summary of findings tables (18). 
+ 
+Statistical Reporting and Meta-analysis 
+Our meta-analyses were set to estimate the relative risk 
+(RR) of developing phantom pain and stump pain when ad-
+ditional analgesic measures were added to conventional 
+pain control methods. Meta-analysis of inverse-variances 
+with fixed-effect model was used for Epidural amide anes-
+thetics, Perineural Catheter infusion of amide anesthetics, 
+and Memantine. Difference in delivery routes, mechanisms 
+of action, and population age were the main heterogeneity 
+sources. We performed heterogeneity tests and meta-anal-
+yses using Review Manager 5.4.1 (19). The variance be-
+tween the selected studies and the I
+2 test was used concur-
+rently to investigate the statistical heterogeneity for the 
+meta-analyses. The Funnel plot diagram and Egger’s test 
+were used to check for publication bias. Finally, to assess 
+the effect and adjust for study limitations, we conducted 
+post-hoc sensitivity analyses excluding studies with high or 
+some concern for risk of bias. 
+To report the results, dichotomous data were summarized 
+as risk ratios (RR) with 95% confidence intervals (CI), and 
+[[p3]]
+ 
+R. Abrishami, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+3 
+continuous data as mean differences (MD) and 95% CI or 
+standardized MDs. As for ordinal outcomes, we reported 
+the median and first and third quartiles.  
+ We took several statistical solutions to decrease impre-
+cision of the meta-analyses and thus, improve the certainty 
+of evidence: 
+ First, we transformed all dichotomous and continuous 
+effect estimates into the natural log of odds ratio or stand-
+ardized mean difference and analyzed their pooled effect 
+estimates as the RR or the MD using inverse variances 
+through the method proposed by Chinn et al (20). This al-
+lowed us to increase our information size, producing effect 
+estimates from both continuous and dichotomous data. All 
+included studies that reported dichotomous results used a 
+numerical rating scale with a similar cutoff for significant 
+pain (being ≥3 out of 10). The similarity in scales satisfied 
+the assumption for pooling dichotomous and continuous 
+data (20-22). 
+We also noticed that all the interventions were adminis-
+tered at the beginning of the studies and for a short period, 
+so that “time” did not affect the integrity of interventions. 
+This assumption allowed us to safely pool per-protocol re-
+sults with intention-to-treat results without the risk of over-
+estimation or requiring additional adjustment measures 
+(23).  This solution effectively increased the certainty of 
+evidence by procuring a larger information size for the 
+analyses at longer time points where loss to follow-up was 
+a major limiting factor.  
+ 
+Results 
+Included Studies 
+Our primary query of the 5 databases retrieved 28,325 
+articles, of which 10,792 were duplicates. A total of 68 rec-
+ords were nominated for full ‐text evaluation. Finally, we 
+included 20 studies. Figure 1  summarizes the systematic 
+search results (24). 
+ 
+Risk of Bias 
+Figure 2 present the risk of bias assessed for each study 
+using the ROB2 tool. Epidural interventions suffered from 
+a poor method of randomization, as well as assessors not 
+being blinded to the allocations. Among studies using per-
+ineural catheters (PNC) to deliver drugs, the study by 
+Bosanquet et al was open-label, and Reuben et al did not 
+adequately describe the follow-up process. The study by 
+Schley et al in the memantine group does not provide a 
+CONSORT (Consolidated Standards of Reporting Trials) 
+diagram and allocation process details as a part of devia-
+tions from intended with the new ROB2 tool. The report by 
+Wang et al is unclear regarding the outcome assessors that 
+were masked from the intervention in the gabapentin group 
+(25). Makkar et al did not describe their random sequence 
+ 
+Figure 1. PRISMA flowchart of included studies 
+
+[[p4]]
+    
+ Prevention of Phantom Pain   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+4 
+generation process and only reported the per-protocol anal-
+ysis (26). 
+ 
+Findings 
+We found 7 different perioperative interventions tried for 
+preventing chronic phantom pain. Table 1 presents an over-
+view of the effects estimates for the PLP incidence/inten-
+sity, stump pain incidence/intensity, mood disorders, and 
+QoL (if reported) at 6 months to 1 year. Also, 19 out of 20 
+studies compared specific pharmacological interventions 
+with either placebo or conventional analgesics—mostly 
+based on the World Health Organization (WHO) analgesia 
+ladder—whereas Lambert et al compared 2 routes of ad-
+ministration for the same medication (27). Wang et al stud-
+ied a trial of gabapentin in children with malignant bone 
+tumors (25), but the rest were conducted in adults, mostly 
+undergoing amputation due to peripheral vascular disease 
+(PVD). 
+ 
+ 
+Figure 2. Risk of Bias for prevention of phantom limb pain 
+Study ID
+Randomisation process
+Deviations from the intended interven
+Missing outcome data
+Measurement of the outcome
+Selection of the reported result
+Overall
+Hayes 2004 Low risk
+Wilson 2008 Some concerns
+Nikolajsen 2006 High risk
+Wang 2017
+Schley 2007
+Morel 2016
+Buchheit 2019
+Bosanquet 2019
+von Plato 2019
+Reuben 2006
+Hunt 2023
+Byrne 2023
+Makkar 2022
+Bach 1988
+Jahangiri 1994
+Nikolajsen 1997
+Karanikolas 2011
+Yousef 2017
+Lambert 2001
+Fekry 2019
+!
++
+!
+!
++
++
++
++
++
+!
++
++
+!
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
+-
+!
+-
++
++
++
++
++
++
+!
++
++
+-
+!
++
+!
++
++
++
++
++
++
++
+-
++
++
+!
+-
+!
+-
++
++
++
++
++
++
+!
+-
++
+-
+!
++
+!
+-
++ + + + + +
++ + + + + +
++ + + + + +
++
++
+++ + + + + +
+++ + + + + +
+---++ ++ ++
+[[p5]]
+ 
+R. Abrishami, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+5 
+Epidural Bupivacaine + Opioids 
+Seven studies investigated the efficacy of perioperative 
+epidural infusions of bupivacaine and an opioid of choice 
+to keep their patients pain-free. Most studies used a cutoff 
+of ˂3 on a 0 to 10 numerical rating scale for the definition 
+of “Pain-Free.” Four studies compared interventions with 
+conventional analgesia, and their pooled data suggested an 
+odds ratio (OR) of 0.56 [95% CI, 0.37- 0.85], Table 2 and 
+Figure 3 (28-31). In post-hoc sensitivity analysis, we only 
+included low-risk-of-bias studies (30, 31), and the effect 
+was no longer present (OR, 0.80 [95% CI, 0.52-1.23]  (Fig-
+ure 4). Funnel plot of these studies suggests possibility of 
+unpublished smaller studies with less precise negative re-
+sults ( Figure 5 ). Studies by Karanikolas et al and 
+Table 1. Study Characteristics & Effect Estimates in Prevention of Phantom Limb Pain 
+Study 
+ID 
+Settings Intervention & Comparison Duration Long-term Outcomes 
+(6 months to 1 year) 
+Effect Estimate [95% Con-
+fidence Interval] 
+Hayes 
+2004 
+Lower limb PVD, 
+cancer, or chronic 
+infection 
+N=45 
+ 
+1. IV infusion, Ketamine 
+2. IV infusion, Normal saline 
++ PCA  
+3 days postoper-
+atively 
+PLP 
+ 
+RLP  
+RR= 0.66 [0.35 to 1.23] 
+ 
+RR= 1.24 [0.54 to 2.86] 
+ 
+Wilson 
+2008 
+Lower limb PVD 
+N=47 
+1. Epidural bupivacaine + 
+Ketamine 
+2. Epidural bupivacaine + 
+Normal saline 
+2-3 days postop-
+eratively 
+PLP 
+RLP 
+The hospital anxiety 
+scale 
+The hospital depres-
+sion scale  
+RR= 1.49 [0.60 to 3.70] 
+RR= 2.13 [0.65 to 7.04] 
+MD= 0.60 [-3.15 to 4.35] 
+ 
+MD= 1.20
+ [-2.67 to 5.07 
+Nikola-
+jsen 
+2006 
+Lower limb PVD 
+N=41 
+1. Gabapentin, Oral on days 
+13–30 
+2. Placebo 
+30 days postop-
+eratively 
+PLP 
+Phantom Pain Inten-
+sity- NRS 
+Stump pain NRS 
+Consumption of Opi-
+oids 
+McGill Pain Question-
+naire PLP 
+McGill Pain Question-
+naire RLP 
+RR= 1.18 [0.65 to 2.13] 
+No significant difference 
+ 
+No significant difference 
+No significant difference 
+ 
+No significant difference 
+ 
+No significant difference 
+ 
+ 
+ 
+Wang 
+2017 
+Lower limb 
+malignant bone tu-
+mors 
+N=45 
+1. Gabapentin, Oral 
+2. Placebo 
+30 days postop-
+eratively 
+PLP* (incidence at 2 
+months) 
+RR= 0.56 [0.34 to 0.94] 
+ 
+Schley 
+2007 
+Upper limb trau-
+matic amputation 
+Brachial nerve trunk 
+N=19 
+1. Memantine, Oral + PNC 
+Ropivacaine 
+2. PNC Ropivacaine + Pla-
+cebo  
+30 days postop-
+eratively 
+PLP 
+Phantom pain preva-
+lence 
+MD= -6.30 [-12.02 to -
+0.58] 
+RR= 0.23 [0.03 to 1.66] 
+Morel 
+2016 
+Mastectomy, Bra-
+chial nerve trunk 
+N=40 
+1. Memantine, Oral 
+2. Placebo 
+30 days 
+Pre- and postop-
+eratively 
+PLP 
+RLP 
+Analgesics consump-
+tion 
+McGill pain question-
+naire 
+Neuropathic Pain 
+Symptom Inventory 
+(NPSI) 
+Brief Pain Inventory 
+questionnaires 
+Quality of sleep 
+MD= -1.10 [-2.45 to 0.25] 
+RR= 0.78 [0.36 to 1.68] 
+Effectively reduced analge-
+sics prescription 
+Effectively reduced affec-
+tive component 
+No significant difference 
+ 
+ 
+No significant difference 
+ 
+No significant difference 
+ 
+Buch-
+heit 
+2019 
+Upper or Lower 
+limb injury with 
+neurologic damage 
+N=132 
+1. Valproic Acid, Oral + ei-
+ther peripheral nerve or epi-
+dural block 
+2. Placebo + either peripheral 
+nerve or epidural block 
+Up to 7 days 
+postoperatively 
+PLP + RLP 
+The Brief Pain Inven-
+tory, short form (BPI) 
+Defense and Veterans 
+Pain Rating Scale 
+(DVPRS)  
+RR= 0.92 [0.71 to 1.19] 
+No significant difference 
+ 
+No significant difference 
+ 
+Bosan-
+quet 
+2019 
+Lower limb PVD 
+N=50 
+1. PNC Levobupivacaine 
+2. No active equivalent  
+5 days postoper-
+atively 
+PLP 
+RLP 
+The hospital depres-
+sion score  
+RR= 1.5 [0.35 to 6.40] 
+RR= 0.67 [0.14 to 3.09] 
+MD= −1.21 [−4.10 to 1.68] 
+von 
+Plato 
+2019 
+Lower limb PVD 
+N=93 
+ 
+1. PNC Ropivacaine infu-
+sion 
+2. Placebo (Normal saline)  
+3 days postoper-
+atively 
+PLP 
+ 
+RLP 
+MD= -0.30 [-1.17 to 0.57] 
+ 
+MD= 0.1 [-0.77 to 0.97] 
+Hunt 
+2023 
+Lower limb PVD 
+N=90 
+1. PNC Levobupivacaine 
+2. Normal saline 
+4 days postoper-
+atively 
+PLP 
+RLP 
+RR= 0.56 [0.14 to 2.14] 
+MD= 7.01 (-0.23 to 14.24) 
+ 
+[[p6]]
+    
+ Prevention of Phantom Pain   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+6 
+Nikolajsen et al also provided pain intensity scores using 
+ordinal scales (30, 31). Karanikolas et al divided patients 
+into 5 groups in their trial; we decided to rearrange their 
+data into 2 arms for the benefit of our PICO ( Patient or 
+Problem, Intervention, Comparison, and Outcome ) based 
+on receiving perioperative epidural bupivacaine and fenta-
+nyl; merging the 2 arms that received it perioperatively into 
+one and the other 3 on patient-controlled analgesia (PCA) 
+into another. Lambert et al compared the efficacy of PNC 
+bupivacaine with a combination of epidural bupivacaine 
+and diamorphine administered for 3 postoperative days and 
+did not observe any difference in incidence of PLP or RLP 
+between the 2 groups (RR, 0.71 [95% CI, 0.39-1.30]; RR, 
+1.33 [95% CI, 0.43-4.13]), respectively (27). Fekry et al in-
+vestigated the addition of epidural fentanyl in one arm and 
+epidural dexmedetomidine in another arm to epidural bupi-
+vacaine, compared with epidural bupivacaine alone as the 
+third arm. None of the additives resulted in a significant 
+Table 1. Study Characteristics & Effect Estimates in Prevention of Phantom Limb Pain 
+Study 
+ID 
+Settings Intervention & Comparison Duration Long-term Outcomes 
+(6 months to 1 year) 
+Effect Estimate [95% Con-
+fidence Interval] 
+Byrne 
+2023 
+Lower limb 
+Not specified 
+N=80 
+1. PNC Bupivacaine sci-
+atic nerve block and a 
+continuous infusion 5 
+days before and 5 days 
+after surgery. 
+2. PNC infusion 5 days af-
+ter surgery 
+5 days pre-oper-
+atively 
+PLP 
+ 
+RLP 
+RR= 1.07 [0.64 to 1.79] 
+ 
+Not measured at 6 months 
+ 
+Makkar 
+2022 
+Trauma 
+N=30 
+1. Bolus block with Ropi-
+vacaine 
+2. Normal saline 
+Intraoperatively PLP 
+ 
+RLP 
+RR= 0.2 [0.15 to 0.55] 
+ 
+No incidence in either 
+group. 
+Reuben 
+2006 
+Lower limb PVD 
+N=80 
+1. Bupivacaine + 
+Clonidine bolus block 
+2. Normal Saline  
+Intraoperatively PLP 
+ 
+RLP 
+RR= 1.05 [0.84 to 1.32] 
+ 
+RR= 1.21 [0.56 to 2.61] 
+Bach 
+1988 
+Lower limb PVD 
+mostly 
+N=25 
+1. Epidural Bupivacaine + 
+epidural Morphine hy-
+drochloride until the pa-
+tient was pain-free 
+2. PCA  
+3 days preopera-
+tively 
+PLP RR= 0.42 [0.02 to 9.43] 
+Ja-
+hangiri 
+1994 
+Lower limb PVD, 
+Diabetic Foot 
+N=24 
+ 
+1. Epidural bupivacaine di-
+amorphine + clonidine 
+2. PCA – details not men-
+tioned  
+At least 24 h 
+preoperatively, 
+continued for 72 
+h postopera-
+tivel
+y 
+PLP 
+ 
+RLP 
+RR= 0.11 [0.02 to 0.72] 
+ 
+RR= 0.42 [0.14 to 1.31] 
+Nikola-
+jsen 
+1997 
+Lower limb 
+Not specified 
+N=60 
+1. Epidural bupivacaine + 
+morphine 
+2. Placebo + PCA 
+18 h preopera-
+tively and in-
+traoperatively 
+PLP incidence 
+RLP intensity 
+PLP intensity 
+Consumption of opi-
+oids 
+RR= 1.48 [0.93 to 2.34] 
+No significant difference 
+No significant difference 
+No significant difference 
+ 
+Karani-
+kolas* 
+2011 
+Lower limb PVD 
+N=65 
+Five arms originally, rear-
+ranged to 2 arms*: 
+1. Epidural bupivacaine + 
+fentanyl infusion 
+2. PCA  
+Started 48 h pre-
+operatively and 
+continued for 48 
+h postopera-
+tively 
+PLP 
+PLP intensity (meas-
+ured with the VAS and 
+MPQ scales 
+ 
+RLP intensity (meas-
+ured with the VAS and 
+MPQ scales  
+RR= 0.37 [0.16 to 0.87] 
+Significantly reduced in 
+those who received epi. in-
+tervention pre-, intra- and 
+post-surgery altogether 
+No significant differences 
+Yousef 
+2017 
+Lower limb PVD 
+N=60 
+1. Epidural bupivacaine + 
+fentanyl + calcitonin 
+2. Epidural bupivacaine + 
+fentanyl + placebo  
+Intraoperatively 
+and 2 days post-
+operatively 
+PLP 
+Allodynia 
+ 
+Hyperalgesia 
+RR= 0.26 [0.08 to 0.83] 
+Significantly lower in the 
+calcitonin group 
+No significant difference 
+Lambert 
+2001 
+Lower limb 
+Not specified 
+N= 30 
+1. Epidural bupivacaine + 
+diamorphine - 24h be-
+fore to 72h after surgery 
+2. PNC bupivacaine - in-
+traoperatively placed 
+until 72 h after surgery  
+Intraoperatively 
+and 3 days post-
+operatively 
+PLP 
+RLP 
+Consumption of opi-
+oids 
+RR= 0.71 [0.39 to 1.30] 
+RR= 1.33 [0.43 to 4.13] 
+No significant difference 
+ 
+Fekry 
+2019 
+Lower limb 
+Not specified 
+N= 90 
+1. Epidural bupivacaine + 
+fentanyl 
+2. Epidural bupivacaine + 
+dexmedetomidine 
+3. Epidural bupivacaine  
+Intraoperatively PLP  Groups 1,3: RR= 1.06 [0.67 
+to 1.68] 
+Groups 2,3: RR= 0.94 [0.57 
+to 1.53] 
+PVD: Peripheral vascular disease 
+Inf.: infusions 
+PCA: patient-controlled anesthesia 
+PLP: phantom limb pain 
+RLP: residual limb pain (stump pain) 
+*: Data by Karanikolas et al. was rearranged into 2 arms for this review based on receiving perioperative epidural bupivacaine and fentanyl; merging the 3 arms that 
+received it into one and the other 2 on PCA into another. 
+[[p7]]
+ 
+R. Abrishami, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+7 
+difference in incidence of PLP at the 1-month follow-up 
+(32). 
+ 
+Epidural Calcitonin 
+Yousef et al assessed the effect of adding calcitonin to 
+the combination of bupivacaine and fentanyl and found it 
+to reduce pain intensity at 6 months (RR, 0.26 [95% CI, 
+0.08-0.83]). Risk of bias is low for this study; however, the 
+sample size is small and more studies are required to form 
+a consensus on this intervention (33). 
+ 
+ 
+Perineural Catheters  
+ Six studies assessed the efficacy of perineural sheath 
+catheters (Table 3). All studies included adults with periph-
+eral vascular diseases, except for Makkar et al, which 
+strictly included trauma patients (26). Makkar et al and 
+Reuben et al used the perineural catheters only for in-
+traoperative bolus administration of amide anesthetics (26, 
+34). Other studies used them for perioperative infusion of 
+anesthetics for 3 to 5 days (35-38). The study by Bosanquet 
+et al was an open-label feasibility study for the adequacy of 
+different pain quest ionnaires in PVD patients. Although 
+they found a large effect on the prevention of PLP, hospital 
+Table 2. Epidural Bupivacaine + Opioids Compared to Conventional Analgesia for Prevention of Phantom Pain 
+Patient or population: Amputation candidates opt for Prevention of Phantom pain / Setting: Perioperative pharmacological interv entions / Inter-
+vention: Epidural Bupivacaine + Opioids / Comparison: conventional analgesia 
+Outcomes Anticipated absolute effects * (95% CI) Relative ef-
+fect 
+(95% CI) 
+№ of partici-
+pants 
+(studies) 
+Certainty of 
+the evi-
+dence 
+(GRADE) 
+Comments 
+Risk with conven-
+tional analgesia 
+Risk with Epi-
+dural Bupiva-
+caine + Opioids 
+Phantom 
+Limb Pain 
+(PLP) 
+assessed 
+with: Inci-
+dence 
+follow-up: 6 
+months 
+481 per 1,000  
+342 per 1,000 
+(256 to 350) 
+OR 0.56 
+(0.37 to 0.58) 
+146 
+(4 RCTs) 
+⨁◯◯◯ 
+Very low
+a,b,c 
+Epidural Bupivacaine + Opioids 
+may result in a reduction in Inci-
+dence of Phantom Limb Pain at 6 
+months. 
+Stump pain 
+(RLP) 
+assessed 
+with: Inci-
+dence 
+follow-up: 6 
+months 
+The study by Bach et al. reported no in-
+cidence of phantom pain in either 
+group. Jahangiri et al. reported an RR of 
+0.42 [95%CI: 0.14, 1.31]. 
+ 
+47 
+(2 RCTs) 
+⨁◯◯◯ 
+Very low
+d e 
+The evidence is very uncertain 
+about the effect of epidural Bupi-
+vacaine + Opioids on stump pain. 
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect 
+of the intervention (and its 95% CI). 
+CI: confidence interval; RR: risk ratio 
+GRADE Working Group grades of evidence 
+High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.  
+Moderate certainty: We are moderately confident in the effect estimate: the true effect is likely to be close to the estimate o f the effect, but there is 
+a possibility that it is substantially different. 
+Low certainty: Our confidence in the effect estimate is limited: the true effect may be substantially different from the estima te of the effect. 
+Very low certainty: We have very little confidence in the effect estimate. The true effect is likely to be substantially different from the estimated of 
+effect. 
+Explanations 
+a. 2 out of 4 studies suggest serious bias in blinding and hence, the outcome assessment. Given that these domains are highly r eflected in pain self-
+reports, we decided to downgrade the evidence. 
+b. 145 patients participated in total, which does not provide an adequate event rate. The calculated optimal information size i s 300. 
+c. Asymmetry noticed in funnel plot, together with the small number of low-power trials, is suggestive of unpublished data due to possible lack of 
+efficacy.  
+d. Both studies lack blinding and are prone to bias in outcome assessment. 
+e. Very small sample sizes with low incidence of desired outcome. 
+  
+Figure 3. Epidural bupivacaine + Opioid PLP prevention at 6 months 
+ 
+
+[[p8]]
+    
+ Prevention of Phantom Pain   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+8 
+depression scores were not significantly different between 
+arms (38). The 3 other studies giving infusions could not 
+establish a difference in PLP or RLP between study groups. 
+The meta-analysis for the PNC infusion method did not 
+establish efficacy in prevention of PLP or RLP (OR, 0.86 
+[95% CI, 0.41-1.81]; OR, 1.30 [95% CI, 0.72-2.35]), re-
+spectively (Figures 6 and 7 ). Funnel plots in this scenario 
+do not point towards censorship of negative results (Figures 
+ 
+ 
+Figure 3. Epidural bupivacaine + Opioid PLP prevention at 6 months - sensitivity analysis for bias 
+ 
+ 
+Figure 5. Funnel plot of Epidural bupivacaine + Opioid PLP prevention at 6 months 
+ 
+Table 3. Peripheral Nerve Catheters Compared to Conventional Analgesia for Prevention of Phantom Pain  
+Patient or population: Amputation candidates opt for Prevention of Phantom pain / Setting: Perioperative pharmacological interv entions / Inter-
+vention: Peripheral Nerve Catheters / Comparison: conventional analgesia 
+Outcome 
+№ of participants 
+(studies) 
+Relative effect 
+(95% CI) 
+Certainty What happens 
+Phantom Limb Pain score (PLP) 
+assessed with: Inverse Variances 
+follow-up: 6 months 
+№ of participants: 125 
+(3 RCTs) 
+OR 0.72 
+(0.30 to 1.73) 
+⨁⨁⨁◯ 
+Moderate
+a 
+The evidence suggests that Peripheral Nerve Cathe-
+ters result in little to no difference in reduction of 
+Phantom Limb Pain score at 6 months time. 
+Stump pain score (RLP) 
+assessed with: Inverse Variances 
+follow-up: 6 months 
+№ of participants: 129 
+(3 RCTs) 
+OR 1.30 
+(0.65 to 2.60) 
+⨁⨁⨁◯ 
+Moderatea 
+The evidence suggests that peripheral Nerve Cathe-
+ters results in little to no difference in 6 months 
+stump pain score. 
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect 
+of the intervention (and its 95% CI). 
+ 
+CI: confidence interval; OR: odds ratio 
+GRADE Working Group grades of evidence 
+High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.  
+Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is 
+a possibility that it is substantially different. 
+Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estima te of the effect. 
+Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially differ ent from the estimate of 
+effect. 
+a. Study populations are too small. 
+ 
+
+[[p9]]
+ 
+R. Abrishami, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+9 
+8 and 9). 
+ 
+Gabapentin 
+Two studies evaluated the efficacy of gabapentin: Niko-
+lajsen et al prescribed gabapentin for 30 days to 41 adults 
+with lower limb PVD. They did not find any significant dif-
+ference in the incidence or intensity of PLP or RLP, or 
+McGill pain questionnaires, and opioid consumption (39). 
+Wang et al found that PLP incidence was reduced in chil-
+dren with malignant bone tumors at 2 months (RR, 0.56 
+[95% CI, 0.34-0.94]) (25). 
+ 
+Memantine 
+Two studies investigated oral memantine compared with 
+conventional analgesia ( Table 4 ). Morel et al studied 
+women who underwent mastectomy for the incidence of 
+PLP and neurotic pain. They also investigated other out-
+comes: Memantine effectively reduced analgesics 
+prescription and the affective component of McGill pain 
+questionnaire, but did not affect QoL and sleep (40). Schley 
+et al included patients with traumatic upper extremity am-
+putations. Both the 6-day and 6-month PLP intensity were 
+lower in the memantine group without significant differ-
+ences in adverse events (41). Pooled data showed a mean 
+reduction of 0.63 (95% CI, 0.10-1.15) in the 6-month inten-
+sity of PLP by memantine (Figures 10 and 11). 
+ 
+Ketamine 
+Ketamine was used in 2 studies via different routes: 
+Hayes et al used Ketamine with a preinduction IV bolus, 
+followed by IV infusion for 3 days in 45 lower limb ampu-
+tation candidates due to different causes (42). Wilson et al 
+investigated epidural infusion of ketamine in 47 PVD pa-
+tients. In addition to pain, they assessed hospital anxiety 
+and depression scores, which also did not differ between 
+the arms (43). Both studies lost around 30% of their study 
+ 
+Figure 6. Forest plot for efficacy of PNC infusions in Prevention of PLP 
+ 
+ 
+Figure 7. Forest plot for efficacy of PNC infusions in Prevention of RLP 
+ 
+ 
+  
+Figure 8. Funnel plot for efficacy of PNC infusions in Prevention of PLP      Figure 9. Funnel plot for efficacy of PNC infusions in Prevention of RLP 
+ 
+
+[[p10]]
+    
+ Prevention of Phantom Pain   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+10 
+populations, mostly due to death and withdrawal of con-
+sent. 
+ 
+Valproic Acid 
+One study by Buchheit et al prescribed patients with 
+valproic acid, which did not find any difference in the 
+incidence or intensity of a mixed outcome of phantom pain 
+and stump pain. Interestingly, they reported that revision 
+surgeries could significantly change the PLP and RLP pain 
+phenotypes (44). 
+ 
+ 
+Table 4. Oral Memantine Compared to Conventional Analgesics for Prevention of Phantom Pain 
+Patient or population: Amputation candidates opt for Prevention of Phantom pain / Setting: Perioperative pharmacological interv entions / Inter-
+vention: Oral Memantine / Comparison: Conventional analgesics 
+Outcomes Anticipated absolute effects * 
+(95% CI) 
+Relative ef-
+fect 
+(95% CI) 
+№ of partici-
+pants 
+(studies) 
+Certainty 
+of the evi-
+dence 
+(GRADE) 
+Comments 
+Risk with 
+conventional 
+analgesics 
+Risk with 
+Oral Meman-
+tine 
+Phantom limb pain 
+score (PLP score) 
+assessed with: Nu-
+merical Rating Scale 
+follow-up: 6 months 
+The mean 
+phantom limb 
+pain score 
+was 0 
+MD 0.70 
+lower 
+(0.18 lower to 
+1.23 lower) 
+- 59 
+(2 RCTs) 
+⨁⨁◯◯ 
+Low
+a,b 
+Oral Memantine may result in a 
+slight reduction in phantom limb 
+pain score. 
+Stump pain (RLP) 
+assessed with: Inci-
+dence 
+follow-up: 6 months 
+450 per 1,000 351 per 1,000 
+(162 to 756) 
+RR 0.78 
+(0.36 to 1.68) 
+40 
+(1 RCT) 
+⨁⨁◯◯ 
+Low
+b,c 
+Oral Memantine may result in lit-
+tle to no difference in stump pain. 
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect 
+of the intervention (and its 95% CI). 
+ 
+CI: confidence interval; MD: mean difference; RR: risk ratio 
+GRADE Working Group grades of evidence 
+High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.  
+Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is 
+a possibility that it is substantially different. 
+Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estima te of the effect. 
+Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially differ ent from the estimate of 
+effect. 
+Explanations 
+a. Study by Schley et al. does not provide a consort diagram nor an explanation for probable missing outcome data. 
+b. Inadequate number of participants for an optimal information size. 
+c. CI covers both large effect and no effect. 
+ 
+ 
+Figure 10. Forest plot for efficacy of Memantine in Prevention of PLP 
+ 
+ 
+Figure 11. Funnel plot for efficacy of Memantine in Prevention of PLP 
+ 
+
+[[p11]]
+ 
+R. Abrishami, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+11 
+Discussion 
+Overview of the Literature 
+We summarized the findings for 7 proposed additional 
+pharmacological interventions, aiming to prevent chronic 
+PLP. Initially, the meta-analysis of mixed epidural infusion 
+of bupivacaine and an opioid suggested a 46% reduced 
+chance of PLP incidence with a very low certainty of evi-
+dence, due to high risk of bias in associated studies, small 
+information size, and possible publication bias. In the post-
+hoc sensitivity analysis accounting for high risk of bias, the 
+preventative effect was no longer observed. Moreover, 
+meta-analysis for PNC local anesthetics did not show any 
+change in incidence of PLP or RLP, even with a moderate 
+certainty of evidence. Memantine was studied in patients 
+subject to brachial plexus block and seemed to be able to 
+decrease the 10-point NRS chronic pain scores by 0.63 
+(95% CI, 0.10- 1.15). It reduced the pain score to just below 
+the cutoff of significant pain, which was 3/10, compared 
+with conventional scheduled or per-demand NSAIDs, oral 
+and intramuscular opioids, or acetaminophen. The certainty 
+of evidence for Memantine, however, is low due to small 
+sample size and risk of bias. Data for Valproic acid, Keta-
+mine, Dexmedetomidine, and Calcitonin are gathered from 
+single studies; none of which could establish a reduction in 
+PLP incidence. As for the other outcomes of interest, such 
+as quality of life, depression, and anxiety, studies were 
+scarce in general and heterogeneous in measurement tools. 
+Our review suggests that, except for Memantine, addi-
+tional pharmacological interventions do not reduce the in-
+cidence of chronic PLP or RLP later at 6 months and 1 year 
+compared with conventional analgesia. However, these in-
+terventions may be quite effective at controlling the periop-
+erative pain, which suggests either a noncausal or nonlinear 
+association between the immediate perioperative pain and 
+PLP.  
+Phantom pain is presumed to have a prevalence of 45% 
+to 80% among amputees regardless of the underlying cause. 
+As a neuropathic pain, phantom pain tends to present itself 
+as early as the postsurgical analgesia wears off, with a peak 
+in the first week and then in the first year (4, 7, 45). Alt-
+hough preamputation pain may be worse with trauma etiol-
+ogy compared with medical conditions (due to the preced-
+ing neuropathies), several studies suggest that the preva-
+lence of phantom pain does not differ among various causes 
+(5, 6). Based on this, most studies have not stratified their 
+population by etiology.  
+As for the stump pain, several studies, including a recent 
+prevalence meta-analysis, have described the pain to pre-
+sent in half of the patients within a week of amputation and 
+to decrease gradually to 22% to 27% at 1 year (5, 45). 
+Several studies have tried to explain the incidence of 
+chronic phantom pain (6 months and longer) through sev-
+eral predictors. Larbirg et al found that a proposed “Chronic 
+Pain Index” (CPI) correlated with PLP incidence at 12 
+months. The CPI included the intensity, frequency, and du-
+ration of a chronic pain condition combined in equal 
+weights before amputation (46). Hanley et al in 2007 re-
+ported that preamputation pain intensity and acute postop-
+erative PLP could predict the risk of developing chronic 
+phantom pain and stump pain in amputees (47). Nikolajsen 
+et al, however, suggested that intensity of preamputation 
+pain is a predictor of short-term (1 week and 3 months) PLP 
+incidence, but not at 6 months (8). 
+Larbirg et al also suggest that preamputation anxiety and 
+depression scores—although well below the threshold for 
+establishing diagnosis—correlated with the incidence of 
+PLP (but not RLP or sensation of phantom limb) at 1 year 
+(46). Two studies that were included in our systematic re-
+view suggested that perioperative interventions did not sig-
+nificantly reduce depression scores at 6 months and 1 year 
+compared with conventional postoperation pain control. 
+However, hospital anxiety scores decreased significantly at 
+1 year after amputations (38, 43). Therefore, it is important 
+to address mood disorders preoperatively irrespective of the 
+pain management approach. Early use of IV ketamine in 
+trauma patients could simultaneously address both con-
+cerns (48). 
+Memantine—as the only intervention which exerted ef-
+fectiveness, with low certainty of evidence—affects the 
+CNS through inhibition of extrasynaptic NMDA receptors. 
+Although further robust studies are required, this finding is 
+potentially in line with the neuroprotective properties of 
+memantine in neurodegenerative diseases. Moreover, me-
+mantine intervention had a longer treatment period of 30 
+days. On the other hand, ketamine inhibits mostly the syn-
+aptic NMDA receptors, and the interventions were as short 
+as 72 hours (49, 50). These differences may potentially ex-
+plain why one NMDA receptor inhibitor exerts an effect 
+and the other one does not.  
+This meta-analysis could be considered complementary 
+to previous systematic review by Ypsilantis et al and meta-
+analysis by Bosanquet et al, as our study is the first meta-
+analysis to thoroughly investigate different routes of ad-
+ministration and drug combinations quantitatively (14, 51). 
+ 
+Methodological Considerations 
+First, we assessed the risk of bias the Cochrane’s ROB2 
+tool. ROB2 proved most suitable for the evaluation of pain 
+in a perioperative setting, as it addresses the following: 
+1. Subjective nature of pain, which places patients as out-
+come assessors and possible variations in reporting. 
+2. Details of drug delivery that hinders blinding and pro-
+tocol adherence. 
+This meticulous risk stratification enabled us to perform 
+a sensitivity analysis, accounting for risk of bias (17). 
+Second, we noticed that all interventions were adminis-
+tered for a short duration and at the beginning of the studies; 
+thus, time did not affect the integrity of interventions. These 
+assumptions are proposed by Hernan et al, allowing sys-
+tematic reviews to safely pool per-protocol and intention-
+to-treat data, resulting in improvement of information size 
+and reduction in imprecision of evidence (23). 
+Third, although included studies reported a mix of di-
+chotomous and continuous data, we noticed that all of the 
+studies used a numerical rating scale with a certain cutoff 
+for counting patients. Through this observation, Cochrane’s 
+handbook suggests that both dichotomous and continuous 
+effect estimates could be transformed into the natural log of 
+the ORs or standardized MDs using the proposed 
+[[p12]]
+    
+ Prevention of Phantom Pain   
+ 
+ 
+ http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+12 
+coefficient of 1.81 by Chinn (20) and subsequently pooled 
+in the meta-analysis to obtain a larger sample size (21). 
+Fourth, studies that used ordinal scales to assess and re-
+port pain could not be used for quantitative synthesis and 
+had to be reported narratively. 
+ 
+Study Limitations & Certainty of Recommendations 
+We found that most RCTs investigating PLP suffer from 
+small sample sizes and high attrition rates, which have led 
+to imprecision in their results. A 2019 feasibility trial for 
+PLP by Bosanquet et al reported that at 6 months, the attri-
+tion rate was about 30%. In that trial, amputation candidates 
+were recruited from vascular surgery centers, and loss to 
+follow-up was due to mortality, hospitalization for other 
+comorbidities, and prolonged rehabilitation (38). Multicen-
+ter trials, shared databases, and international collaborations 
+could help with procurement of adequate information size. 
+We also found incomplete blinding to cause a high risk 
+of bias among studies, which seriously impacted the main 
+effect estimate. Blinding is particularly important in sub-
+jective outcomes like pain, and when accounted for, in sen-
+sitivity analyses, the effectiveness of additional pharma-
+cotherapy did not differ from conventional analgesics as a 
+preventative measure. 
+Another general limitation of PLP studies is the potential 
+selection bias. In the process of recruitment, most studies 
+took their samples from patients with chronic medical con-
+ditions such as PVD, diabetes mellitus, or malignancies. 
+Amputations due to trauma often require urgent care, and 
+therefore, it is highly difficult to involve them in clinical 
+trials. Although the literature suggests that the rate of PLP 
+development is universally high among different causes of 
+amputation, it remains to be studied whether immediate an-
+algesia in those without a memory of pain helps prevent fu-
+ture PLP. 
+ 
+Future Direction 
+Memantine, as the only intervention suggesting effec-
+tiveness, requires further studies with adequate sample size 
+and methodology to gain higher certainty of evidence. 
+We also noticed that patients in PLP trials are mostly re-
+cruited from chronic medical conditions (PVD) who suf-
+fered from chronic limb pain long before their surgery. 
+Therefore, it may be useful to stratify participants accord-
+ing to chronic pain indices, distinguishing the presence of 
+chronic pain and correlating it with later frequency and in-
+tensity of phantom pain.  We also noticed that although 
+mood disorders are strongly correlated with the occurrence 
+of PLP, these patients are often excluded from the trials. 
+These stratifications may help understand the underlying 
+mechanism of developing chronic phantom limb pain. 
+ 
+Conclusion 
+We summarized the findings for 7 proposed additional 
+pharmacological interventions, aiming to prevent chronic 
+PLP. The evidence for Memantine shows some effective-
+ness with low certainty of evidence, but other interventions 
+do not seem to change the incidence of PLP or RLP com-
+pared with conventional analgesics. Further well-designed, 
+multicenter trials that are stratified for the cause of 
+amputation and previous chronic pain may help untangle 
+the complex pathophysiology behind phantom pain. More-
+over, immediate perioperative pain scores may not be pre-
+dictors for the incidence of chronic phantom pain. 
+ 
+Authors’ Contributions 
+N.A. and R.A. developed the PICO and search strategy. 
+All authors participated in screening and data extraction. 
+N.A. and R.A. analyzed results and prepared the manu-
+script. 
+ 
+Ethical Considerations 
+The protocol for this systematic review has been recorded 
+in the PROSPERO database under the code 
+CRD42023385291, with a detailed description of the 
+search strategy. 
+ 
+ Acknowledgment 
+None. 
+ 
+Conflict of Interests 
+The authors declare that they have no competing interests. 
+ 
+ 
+References 
+1. Hanyu-Deutmeyer AA, Cascella M, Varacallo M. Phantom 
+Limb Pain.  StatPearls. Treasure Island (FL): StatPearls 
+Publishing Copyright © 2023, StatPearls Publishing LLC.; 2023. 
+2. Culp CJ, Abdi S. Current Understanding of Phantom Pain 
+and Its Treatment. Pain Physician. 2022;25(7):E941-e57. 
+3. Knotkova H, Cruciani RA, Tronnier VM, Rasche D. Current 
+and future options for the management of phantom-limb pain. J 
+Pain Res. 2012;5:39-49. 
+4. Boomgaardt J, Dastan K, Ch an T, Shilling A, Abd-Elsayed 
+A, Kohan L. An Algorithm Approach to Phantom Limb Pain. J 
+Pain Res. 2022;15:3349-67. 
+5. Evans AG, Chaker SC, Curran GE, Downer MA, Assi PE, 
+Joseph JT, et al. Postamputation Residual Limb Pain Severity 
+and Prevalence: A Systematic Review and Meta-Analysis. Plast 
+Surg (Oakv). 2022;30(3):254-68. 
+6. Houghton AD, Nicholls G, Houghton AL, Saadah E, McColl 
+L. Phantom pain: natural history and association with 
+rehabilitation. Ann R Coll Surg Engl. 1994;76(1):22-5. 
+7. Kuffler DP. Origins of Phantom Limb Pain. Mol Neurobiol. 
+2018;55(1):60-9. 
+8. Nikolajsen L, Ilkjaer S, Krøner K, Christensen JH, Jensen 
+TS. The influence of preamputation pain on postamputation 
+stump and phantom pain. Pain. 1997;72(3):393-405. 
+9. Noguchi S, Saito J, Nakai K, Kitayama M, Hirota K. Factors 
+affecting phantom limb pain in patients undergoing amputation: 
+retrospective study. J Anesth. 2019;33(2):216-20. 
+10. Pozek JP, Beausang D, Baratta JL, Viscusi ER. The Acute 
+to Chronic Pain Transition: Can Chronic Pain Be Prevented? 
+Med Clin North Am. 2016;100(1):17-30. 
+11. Neil M. Pain after amputation. BJA Education. 
+2015;16(3):107-12. 
+12. Ahuja V, Thapa D, Ghai B. Strategies for prevention of 
+lower limb post-amputation pain: A clinical narrative review. J 
+Anaesthesiol Clin Pharmacol. 2018;34(4):439-49. 
+13. Rathmell JP, Kehlet H. Do We Have the Tools to Prevent 
+Phantom Limb Pain? Anesthesiology. 2011;114(5):1021-4. 
+14. Ypsilantis E, Tang TY. Pre-emptive analgesia for chronic 
+limb pain after amputation for peripheral vascular disease: a 
+systematic review. Ann Vasc Surg. 2010;24(8):1139-46. 
+15. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred 
+reporting items for systematic reviews and meta-analyses: the 
+PRISMA statement. PLoS Med. 2009;6(7):e1000097. 
+16. PlotDigitizer 2023 [3.1.5:[Available from: 
+https://plotdigitizer.com. 
+[[p13]]
+ 
+R. Abrishami, et al. 
+ 
+ 
+ 
+http://mjiri.iums.ac.ir 
+Med J Islam Repub Iran. 2025 (9 Jul); 39:92. 
+ 
+13 
+17. Sterne JAC, Savovi ć J, Page MJ, Elbers RG, Blencowe NS, 
+Boutron I, et al. RoB 2: a revised tool for assessing risk of bias in 
+randomised trials. BMJ. 2019;366:l4898. 
+18. Schünemann HBJ, Guyatt G, Oxman A. GRADE handbook 
+for grading quality of evidence and strength of 
+recommendations. guidelinedevelopment.org/handbook: The 
+GRADE Working Group; 2013. Available from: 
+guidelinedevelopment.org/handbook. 
+19. Collaboration TC. Review Manager. (RevMan) Computer 
+program. 5.4.1 ed: The Cochrane Collaboration; 2020. 
+20. Chinn S. A simple method for converting an odds ratio to 
+effect size for use in meta-analysis. Stat Med. 2000;19(22):3127-
+31. 
+21. Higgins JPT TJ, Chandler J, Cumpston M, Li T, Page MJ, 
+Welch VA. Chapter 10: Analysing data and undertaking meta-
+analyses. 2022. In: Cochrane Handbook for Systematic Reviews 
+of Interventions version 63 (updated February 2022) [Internet]. 
+Available from www.training.cochrane.org/handbook: Cochrane, 
+2022. 6.3. [10.6]. Available from: 
+https://training.cochrane.org/handbook/current/chapter-
+10#section-10-6. 
+22. da Costa BR, Rutjes AW, Johnston BC, Reichenbach S, 
+Nüesch E, Tonia T, et al. Methods to convert continuous 
+outcomes into odds ratios of treatment response and numbers 
+needed to treat: meta-epidemiological study. Int J Epidemiol. 
+2012;41(5):1445-59. 
+23. Hernán MA, Robins JM. Per-Protocol Analyses of 
+Pragmatic Trials. N Engl J Med. 2017;377(14):1391-8. 
+24. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann 
+TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated 
+guideline for reporting systematic reviews. BMJ. 2021;372:n71. 
+25. Wang XD, Yi Y, Tang DB, Chen Y, Jiang YH, Peng J, et 
+al. Gabapentin as an Adjuvant Therapy for Prevention of Acute 
+Phantom-Limb Pain in Pediatric Patients Undergoing 
+Amputation for Malignant Bone Tumors: A Prospective Double-
+Blind Randomized Controlled Trial. Journal of Pain and 
+Symptom Management. 2018;55(3):721-7. 
+26. Makkar JK, Bandyopadhay A, Jain K, Jafra A, Gopinathan 
+NR, Singh P. Effect of perioperative sciatic nerve block on 
+chronic pain in patients undergoing below-knee amputation: A 
+randomised controlled trial. Indian J Anaesth. 2022;66(Suppl 
+6):S300-s6. 
+27. Lambert A, Dashfield A, Co sgrove C, Wilkins D, Walker 
+A, Ashley S. Randomized prospective study comparing 
+preoperative epidural and intraoperative perineural analgesia for 
+the prevention of postoperative stump and phantom limb pain 
+following major amputation. Reg Anesth Pain Med. 
+2001;26(4):316-21. 
+28. Bach S, Noreng MF, Tjéllden NU. Phantom limb pain in 
+amputees during the first 12 months following limb amputation, 
+after preoperative lumbar epidural blockade. Pain. 
+1988;33(3):297-301. 
+29. Jahangiri M, Jayatunga AP, Bradley JW, Dark CH. 
+Prevention of phantom pain after major lower limb amputation 
+by epidural infusion of diamorphine, clonidine, and bupivacaine. 
+Ann R Coll Surg Engl. 1994;76(5):324-6. 
+30. Karanikolas M. Optimized perioperative analgesia reduces 
+chronic phantom limb pain intensity, prevalence and frequency: 
+A prospective randomized, clinical trial. Regional Anesthesia 
+and Pain Medicine. 2012;37(5):E60-E1. 
+31. Nikolajsen L, Ilkjaer S, Christensen JH, Krøner K, Jensen 
+TS. Randomised trial of epidural bupivacaine and morphine in 
+prevention of stump and phantom pain in lower-limb amputation. 
+Lancet (London, England). 1997;350(9088):1353-7. 
+32. Fekry E, Sharf M, Kandil Y, Harby S. Spinal Bupivacaine-
+Dexmedetomidine versus Bupivacaine-Fentanyl for lower Limb 
+Amputation Surgery. Effects on Early Stump and Phantom Pain. 
+International Journal of Medical Arts. 2019;1. 
+33. Yousef AAAM, Aborahma AM. The preventive value of 
+epidural calcitonin in patients with lower limb amputation. Pain 
+Med. 2017;18(9):1745-51. 
+34. Reuben SS, Raghunathan K, Roissing S. Evaluating the 
+analgesic effect of the perioperative perineural infiltration of 
+bupivacaine and clonidine at the site of injury following lower 
+extremity amputation. Acute Pain. 2006;8(3):117-23. 
+35. Hunt W, Nath M, Bowrey S, Colvin L, Thompson JP. 
+Effect of a continuous perineural levobupivacaine infusion on 
+pain after major lower limb amputation: a randomised double-
+blind placebo-controlled trial. BMJ Open. 2023;13(2):e060349. 
+36. Byrne K, Xu W, Termaat J, Khashram M. Pre-operative 
+sciatic nerve block vs postoperative surgeon-placed perineural 
+stump catheter for prevention of phantom limb pain after below-
+knee amputation. Anaesthesia. 2023;78(9):1167-9. 
+37. von Plato H, Peltoniemi M, Kauhanen P, Löyttyniemi E, 
+Hamunen K, Kontinen V. Combination of perineural and wound 
+infusion after above knee amputation: A randomized, controlled 
+multicenter study. Acta anaesthesiologica Scandinavica. 
+2019;63(10):1406-12. 
+38. Bosanquet D, Ambler G, Waldron CA, Thomas-Jones E, 
+Brookes-Howell L, Kelson M, et al. Perineural local anaesthetic 
+catheter after major lower limb amputation trial 
+(PLACEMENT): Results from a randomised controlled 
+feasibility trial. BMJ Open. 2019;9(11). 
+39. Nikolajsen L, Finnerup NB, Kramp S, Vimtrup AS, Keller 
+J, Jensen TS. A randomized study of the effects of gabapentin on 
+postamputation pain. Anesthesiology. 2006;105(5):1008-15. 
+40. Morel V, Joly D, Villatte C, Dubray C, Durando X, 
+Daulhac L, et al. Memantine before Mastectomy Prevents Post-
+Surgery Pain: A Randomized, Blinded Clinical Trial in Surgical 
+Patients. Plos One. 2016;11(4). 
+41. Schley M, Topfner S, Wiech K, Schaller HE, Konrad CJ, 
+Schmelz M, et al. Continuous brachial plexus blockade in 
+combination with the NMDA receptor antagonist memantine 
+prevents phantom pain in acute traumatic upper limb amputees. 
+European Journal of Pain. 2007;11(3):299-308. 
+42. Hayes C, Armstrong-Brown A, Burstal R. Perioperative 
+intravenous ketamine infusion for the prevention of persistent 
+post-amputation pain: a randomized, controlled trial. Anaesth 
+Intensive Care. 2004;32(3):330-8. 
+43. Wilson JA, Nimmo AF, Fleetwood-Walker SM, Colvin 
+LA. A randomised double blind trial of the effect of pre-emptive 
+epidural ketamine on persistent pain after lower limb amputation. 
+Pain. 2008;135(1-2):108-18. 
+44. Buchheit T, Hsia HJ, Cooter M, Shortell C, Kent M, 
+McDuffie M, et al. The Impact of Surgical Amputation and 
+Valproic Acid on Pain and Functional Trajectory: Results from 
+the Veterans Integrated Pain Evaluation Research (VIPER) 
+Randomized, Double-Blinded Placebo-Controlled Trial. Pain 
+medicine (Malden, Mass). 2019;20(10):2004-17. 
+45. Schley MT, Wilms P, Toepfner S, Schaller HP, Schmelz 
+M, Konrad CJ, et al. Painful and nonpainful phantom and stump 
+sensations in acute traumatic amputees. J Trauma. 
+2008;65(4):858-64. 
+46. Larbig W, Andoh J, Huse E, Stahl-Corino D, Montoya P, 
+Seltzer Z, et al. Pre- and postoperative predictors of phantom 
+limb pain. Neurosci Lett. 2019;702:44-50. 
+47. Hanley MA, Jensen MP, Smith DG, Ehde DM, Edwards 
+WT, Robinson LR. Preamputation pain and acute pain predict 
+chronic pain after lower extremity amputation. J Pain. 
+2007;8(2):102-9. 
+48. Melcer T, Walker GJ, Dye JL, Walrath B, MacGregor AJ, 
+Perez K, et al. Is Prehospital Ketamine Associated With a 
+Change in the Prognosis of PTSD? Mil Med. 2022. 
+49. Glasgow NG, Povysheva NV, Azofeifa AM, Johnson JW. 
+Memantine and Ketamine Differentially Alter NMDA Receptor 
+Desensitization. J Neurosci. 2017;37(40):9686-704. 
+50. Johnson JW, Glasgow NG, Povysheva NV. Recent insights 
+into the mode of action of memantine and ketamine. Current 
+Opinion in Pharmacology. 2015;20:54-63. 
+51. Bosanquet DC, Glasbey JC, Stimpson A, Williams IM, 
+Twine CP. Systematic review and meta-analysis of the efficacy 
+of perineural local anaesthetic catheters after major lower limb 
+amputation. Eur J Vasc Endovasc Surg. 2015;50(2):241-9. 
+ 

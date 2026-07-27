@@ -1,0 +1,691 @@
+
+[[p1]]
+ORIGINAL RESEARCH
+published: 05 August 2021
+doi: 10.3389/fcvm.2021.710168
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 1 August 2021 | Volume 8 | Article 710168
+Edited by:
+Mauro Lo Rito,
+IRCCS Policlinico San Donato, Italy
+Reviewed by:
+Ignacio Berra,
+Garrahan Hospital, Argentina
+Yasuhiro Kotani,
+Okayama University, Japan
+*Correspondence:
+Shusheng Wen
+doctorwen@139.com
+Specialty section:
+This article was submitted to
+Pediatric Cardiology,
+a section of the journal
+Frontiers in Cardiovascular Medicine
+Received: 15 May 2021
+Accepted: 07 July 2021
+Published: 05 August 2021
+Citation:
+Lou Q, Zou Y , Wu J, Chen J, Zhuang J
+and Wen S (2021) Impact of Cone vs.
+Hetzer Repair on Postoperative
+Outcomes in Patients With Ebstein’s
+Anomaly: 10-Year Experience From a
+Single Institution.
+Front. Cardiovasc. Med. 8:710168.
+doi: 10.3389/fcvm.2021.710168
+Impact of Cone vs. Hetzer Repair on
+Postoperative Outcomes in Patients
+With Ebstein’s Anomaly: 10-Year
+Experience From a Single Institution
+Qi Lou 1,2, Yiping Zou 3, Jinlin Wu 2, Jimei Chen 2, Jian Zhuang 2 and Shusheng Wen 1,2*
+1 The Second School of Clinical Medicine, Southern Medical Un iversity, Guangzhou, China, 2 Department of Cardiac Surgery,
+Guangdong Cardiovascular Institute, Guangdong Provincial People’s Hospital, Guangdong Academy of Medical Sciences,
+Guangzhou, China, 3 College of Medicine, Shantou University, Shantou, China
+Objective: The aim of this study was to compare the early outcomes of the c one and
+Hetzer procedures for Ebstein’ s malformation.
+Methods: This retrospective study included patients who underwent e ither cone ( n
+= 83) or Hetzer repair ( n = 45) with Ebstein’ s malformation from January 2011 to
+December 2020.
+Results: One early death occurred in the cone group due to low cardiac o utput
+syndrome. Five cone and three Hetzer repair patients requir ed reoperation before
+discharge. At discharge, the cone group had a better reducti on in tricuspid valve
+regurgitation (TR) than the Hetzer group (74.7 vs. 51.1%, p = 0.009). T wo patients in
+the cone group and seven patients in the Hetzer group require d reoperation >30 days
+after their initial surgery. The cone group with no/mild TR w as 75.6%, and the Hetzer
+group was 48.9% at the time of last follow-up ( p = 0.010).
+Conclusion: Short-term outcomes of the cone repair are better than the He tzer
+procedure. The cone repair should be the better option among patients with Ebstein’ s
+malformation who need surgical intervention.
+Keywords: Ebstein anomaly, cone repair, hetzer repair, surg ery, congenital heart disease
+INTRODUCTION
+Ebstein’s anomaly (EA), a rare and complex congenital heart mal formation, accounts for <1% of
+congenital heart defects (
+1–5). Classical features of patients with EA are the abnormalitie s of the
+tricuspid valve (TV) leaﬂets and right ventricle (RV) ( 6–8).
+The characteristics of EA are the TV downward displacement int o the RV , atrialization of RV ,
+and functional status deteriorates of RV ( 9). Other abnormalities of EA include patent foramen
+ovale (PFO), atrial septal defect (ASD), ventricular septal d efect (VSD), Wolﬀ–Parkinson–White
+accessory pathway, atrial ﬁbrillation, and myopathy of the RV ( 8, 10).
+Several patients with EA require repair in adulthood ( 11). TR and right heart failure are the
+most common reasons for surgical repair. Diﬀerent surgical in terventions are deﬁned due to
+leaﬂet hypoplasia and the degree of cardiac malformation. TV r epair, TV replacement, ventricular
+plication, ASD closure, bidirectional cavopulmonary shunt (B CPS), and cryoablation are the most
+common surgical procedures (12). When technically feasible, repair of the TV is usually preferab le
+[[p2]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+to replacement (9, 13, 14). Cone repair and Hetzer repair were the
+most common types of TV repair in our institution. The Hetzer
+repair could restore TV functional competence even in severe
+types in which only remnants of the TV may be valid for valve
+repair (
+15). The cone modiﬁcation is a surgical technique that
+aims at reducing the severity of TR by constructing a funnel- like
+valve which is most similar to the physiological TV. Recently,
+favorable short-term outcomes with the cone repair have been
+demonstrated by a series of reports (
+9, 12, 16–18). However, there
+is no study comparing the speciﬁc repair techniques for patients
+with EA. In the study, we aimed to investigate TV functions,
+adverse events, and survival outcomes after cone repair of EAand
+compared the results with Hetzer repair.
+MATERIALS AND METHODS
+Study Population
+Overall, 170 patients older than 1 year with EA who had
+undergone TV repair surgery at Guangdong Provincial People’s
+Hospital (GDPPH) between January 2011 and December 2020
+were retrospectively collected in our study. The exclusion criteria
+of the study were listed as follows: (1) patients who had
+undergone TV intervention and (2) patients with other complex
+heart diseases, including complex conotruncal abnormaliti es,
+corrected transposition of the great arteries, pulmonary atr esia,
+and tetralogy of Fallot. In the cone group, 23 patients were
+b??`K?RV???b??aK?QP
+patients were Carpentier class C, and two patients were
+Carpentier class D. There were 45 patients in the Hetzer group,
+including 13 patients with Carpentier class A, 17 patients with
+Carpentier class B, 14 patients with Carpentier class C, and
+one patient with Carpentier class D. Demographic details and
+clinical information of the patients we analyzed were age,
+gender, weight, body surface area (BSA), preoperative TR, lef t
+ventricular ejection fraction (LVEF), and baseline New Yor k
+Heart Association (NYHA) class. During this 10-year study, 45
+patients underwent Hetzer repair and 83 patients underwent
+cone repair were ﬁnally included. The median follow-up time
+for reoperation was 45 (interquartile range 26–63) months,
+and the median follow-up time for TR was 14 (interquartile
+range 3–33) months. The study protocol was approved by the
+Ethics Research Committee of GDPPH. The Ethical committee
+reference code is KY-Q-2021-106-01. The privacy and personal
+identiﬁcation information of the subject were deleted. Thus , the
+study will not adversely aﬀect the rights of subjects. Patien ts
+and patients’ legal guardians gave the written consent to sto re
+their data anonymously in the hospital database. We obtained
+their informed consent during hospitalization and contacte d the
+patients or patients’ legal guardians via phone and WeChat for
+follow-up. In the preoperative and postoperative examinations,
+patients were evaluated with transthoracic echocardiograph y.
+Patients over 50 years old were evaluated with coronary
+angiography before the operation.
+Surgical Procedure
+The cone technique was developed out of the Carpentier repair
+(
+18), which was mainly applied to patients with Carpentier’s
+type A/B or patients with large enough anterior leaﬂet. Detail s
+of the cone procedure were divided into several parts. Firstly,
+the TV was completely detached from the mid-twelve o’ clock
+point of the surgeon’s perspective. Secondly, the chordae at th e
+edge of the valve leaﬂets were retained, and the mural chorda e
+were cut oﬀ. Furthermore, the posterior papillary muscle of RV
+was detached gradually until it is close to the top of the cone
+shape. Then, septum and posterior valve leaﬂets were sutured,
+which plays the role of chordae and cooperates to form the cone
+shape. Afterward, the thin and atrialized RV free wall was plicated
+longitudinally. Meanwhile, like Wu’ repair, 5–0 prolene was used
+to continuously suture atrialized RV transmurally between t he
+coronary arteries. Then, two 3–0 prolenes with buckles were
+used to reform the true tricuspid annulus, and the size of the
+true annulus depends on the anterior leaﬂet. Our institution
+divides the annulus into four parts and adopts continuous double
+sutures, then valves and annulus would be stitched together. T he
+annuloplasty ring was usually used to reduce tension when the
+RV is too large and the new annulus is at risk of tearing.
+For the indications of Hetzer repair, this technique is suita ble
+for patients with Carpentier type A/B/C anatomy; those patients
+need a relatively normal size anterior leaﬂet and have good
+activity of the leaﬂet. If the anterior leaﬂet activity is re stricted,
+it should be freed from adhesions with the right ventricular
+free wall to restore the activity of the leaﬂet. The core princi ple
+of this technique for this group of patients is to reduce the
+anatomic tricuspid ostium so that the most mobile leaﬂets
+(anterior leaﬂet and part of posterior leaﬂet) may coapt with
+an opposing structure, septal leaﬂet, or ventricular septum,
+during the systole period. Procedures were carried out throu gh
+median sternotomies with bicaval cannulation and mild to
+moderate systemic hypothermia. The cardioplegic arrest was
+initially provided by aortic root infusion of crystalloid arr est
+solution (crystalloid cardioplegic solution for children a nd
+bloody cardioplegia solution for adults). An oblique incision
+was performed, and the situs was examined. A mattress suture
+of 3–0 polypropylene pledgeted with autologous pericardium
+or Dacron patch is passed from the anterior leaﬂet annulus
+to the atrialized septum just below the natural septal annulus
+or the septal anatomic annulus. A small part of these sutures
+is added toward the posterior annulus. After the sutures are
+tied, the size of the anatomic tricuspid annulus is decreased.
+When the saline solution ﬁlled the right ventricular cavity, testing
+valve competence, the anterior part of the anterior leaﬂet now
+coapts with the atrialized septum. The atrialized chamber is no w
+incorporated into the contracting right ventricular cavity instead
+of being plicated. After the Hetzer procedure is ﬁnished, the
+whole TV can be remodeled to act as a valve-closing structure
+without plication of the atrialized ventricular chamber.
+All the patients who underwent the TV replacement were
+implanted with the biological valve.
+Echo Data
+All preoperative and postoperative two-dimensional
+echocardiograms were measured by cardiologists. The data
+were obtained from the study within 3 months before surgical
+intervention, the postoperative at discharge, and 3 months or
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 2 August 2021 | Volume 8 | Article 710168
+[[p3]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+longer after surgery. Cardiologists evaluated the TV funct ion
+by transthoracic echocardiography. The TV is usually assess ed
+in the apical four-chamber view. Color Doppler is used to
+evaluate the degree of TR. The classiﬁcation of TR is deﬁned
+as follows: (1) mild TR is deﬁned as the ratio of the length
+of the regurgitation jet to the area of the right atrium which
+is <20%, and the length of the regurgitation jet is <1.4 cm.
+(2) Moderate TR is deﬁned as the ratio which is 20% or
+more and <40%, and the length of the regurgitation jet is
+≥ 1.4 cm and <3.0 cm. (3) Severe TR is described as the
+ratio which is more than 40% and the length is more than
+3.0 cm.
+Statistical Analysis
+Continuous variables were expressed as median and interquartile
+range and compared by applying the Wilcoxon tests. Categorical
+variables were summarized as numbers and percentages and
+compared by using the chi-square test, Y ates’ correction tes t,
+or Fisher’s exact test. Survival was estimated by using the
+Kaplan–Meier survival curves and compared by using the
+log-rank test.
+The statistical analysis of this study was performed using IB M
+Statistical Package for the Social Sciences version 26.0 (SPSS 26.0,
+Chicago, IL, USA). The value <0.05 was considered statistically
+signiﬁcant in the comparisons. The ﬁgures of this study were
+drawn by R software 4.0.
+RESUL TS
+Baseline Patients and Clinical
+Characteristic
+Among the 170 patients with EA who underwent a surgical
+procedure in our institution, 128 met the inclusion criteria for
+this study. Of these patients, 83 (64.8%) patients underwent co ne
+and 45 (35.2%) patients underwent Hetzer repair, respectively.
+The demographic and baseline characteristics of 128 patients
+???????s?PM?l???
+the patients were female ( n = 89, 69.5%). The majority of
+patients were older than 18 years ( n = 85, 66.4%). The severe
+TR was observed in most patients preoperatively ( n = 125,
+97.7%). The common symptoms included palpitations, syncope,
+cyanosis, and dyspnea, but most patients were asymptomatic.
+Generally, patients were in sinus rhythm preoperatively. Rare
+cases had atrial ﬁbrillation (nine cases), atrial ﬂutter (o ne
+case), supraventricular tachycardia (one case), and Wolf–
+Parkinson–White syndrome (eight cases). One patient had
+implanted a pacemaker preoperatively. Prior cardiac surgeries
+were observed in two patients, including surgical ASD closur e
+and intervention ASD closure. A percentage of 18.75% of
+patients were in preoperative NYHA function class III or
+IV. The RV diameters between the two groups were also
+analyzed. There was no statistical diﬀerence in the RV
+diameters preoperatively between the two groups (41 vs. 43 mm,
+p = 0.327).
+No statistically signiﬁcant diﬀerence was observed
+between the two groups except preoperative LVEF.
+However, the preoperative LVEFs of the two groups were in
+normal scopes.
+Operative Details and Early Results
+Surgical procedure details and TR degree for echocardiograph y
+before the discharge of all patients are shown in Table 2.
+Cardiopulmonary bypass (CPB) time and aortic cross-clamp
+(ACC) time were signiﬁcantly higher in the cone group (both p
+< 0.001). However, there was no statistical diﬀerence among the
+two groups for intensive care unit (ICU) staying time ( p = 0.685)
+and postoperative hospital staying time ( p = 0.710). Eight in the
+cone repair and 10 in Hetzer repair required concomitant BCPS
+(p = 0.051).
+One patient in the cone group died before discharge. A 5-year-
+old male presented with Carpentier type D, NYHA class III, ASD,
+and severe TR preoperatively. The preoperative transthoracic
+echocardiography showed that the right atrium was signiﬁcan tly
+enlarged with a diameter of 47 mm, and the size of the atrialize d
+RV is 43 ∗ 37 mm, which is much larger than the functional RV
+with a size of 15 ∗ 34 mm. The LVEF of this patient was 65%. The
+patient had taken cone repair and ASD pert closure. His central
+venous pressure rose after the chest was closed, combined with
+unstable blood pressure and functional right ventricular swelling.
+The surgeon decided to perform BCPS and delayed chest closure
+to reduce the preload of the RV. The CPB time was 253 min, and
+the ACC time was 162 min. His symptoms remained after the
+operation. During the hospital staying time, this patient rece ived
+reoperation twice due to unstable circulation and poor right heart
+function on the ﬁrst and third postoperative days, including AS D
+enlargement and single ventricular surgery. A large number o f
+vasoactive drugs were needed to maintain blood pressure afte r
+surgery. The major cause of in-hospital death was low cardiac
+output syndrome.
+There were ﬁve patients (four cases were Carpentier type
+C, one case was Carpentier type D) who underwent cone
+repair which required reoperation, and three patients (two
+cases were Carpentier type B, one case was Carpentier type
+D) accepted Hetzer repair which needed reoperation. The
+causes of reoperation were mainly bleeding (one case), exces sive
+regurgitation (four cases), surgical site infection (one c ase), RV
+dysfunction (one case), and complete atrioventricular bloc k (one
+case). Among patients who received reoperation due to excessi ve
+regurgitation, three received re-repair (two with Carpentie r
+classiﬁcation C in cone group, one with Carpentier classiﬁcati on
+B in Hetzer group) and another one (with Carpentier B in
+Hetzer group) received the single-ventricle surgery. No statistical
+diﬀerence was found between the two groups in reoperation
+rate before discharge ( p = 1.00). The patients who received
+reoperation before discharge did not receive cardiovascula r
+operation at the follow-up. Only one patient who underwent the
+single ventricular reoperation in the Hetzer group takes captopril,
+spironolactone, and aspirin regularly.
+In the routine of postoperative echocardiography before
+discharge, a lower rate of mild/no TR (51.1 vs. 74.7%) and a
+higher rate of patients with moderate (35.6 vs. 13.3%) and seve re
+(13.3 vs. 12%) TR were observed in the Hetzer group compared
+with the cone group ( p = 0.009).
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 3 August 2021 | Volume 8 | Article 710168
+[[p4]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+TABLE 1 | Baseline patient demographics and Preoperative character istics.
+Variables Cone (83) Hetzer (45) p-value
+Age 27 (7.4–44) 28.9 (14.2–41.35) 0.930
+SPO2 (%) 98 (95–99) 97 (95–98.75) 0.393
+Weight (kg) 46 (22.5–58) 49 (40.25–60) 0.435
+BSA (m 2) 1.45 (0.88–1.62) 1.47 (1.23–1.66) 0.312
+Gender 0.186
+Female 61 (73.5) 28 (62.2)
+Male 22 (26.5) 17 (37.8)
+Preoperative palpitation 0.194
+No 54 (65.1) 24 (53.3)
+Yes 29 (3.4.9) 21 (46.7)
+Preoperative syncope 1.000
+No 79 (95.2) 43 (95.6)
+Yes 4 (4.8) 2 (4.4)
+Baseline NYHA 0.343
+h?RV?GSSMUH?PX?GSQMQH
+II 28 (33.7) 20 (44.4)
+III 16 (19.3) 4 (8.9)
+IV 2 (2.4) 2 (4.4)
+Atrial ﬁbrillation 1.000
+No 77 (92.8) 42 (93.3)
+Yes 6 (7.2) 3 (6.7)
+Atrial ﬂutter 1.000
+No 82 (98.8) 45(100.0)
+Yes 1 (1.2) 0 (0.0)
+Supraventricular tachycardia 1.000
+No 82 (98.8) 45 (100.0)
+Yes 1 (1.2) 0 (0.0)
+Wolf-Parkinson-White syndrome 0.450
+No 79 (95.2) 41 (91.1)
+Yes 4 (4.8) 4 (8.9)
+Cardiothoracic ratio 0.826
+Mild (0.4–0.6) 33(39.8) 16 (35.6)
+Moderate (0.6–0.8) 46 (55.4) 26 (57.8)
+Severe (>0.8) 4 (4.8) 3 (6.7)
+Carpentier classiﬁcation 0.873
+A 23 (27.7) 13 (28.9)
+a?RV?GSSMUH?PV?GRVMWH
+C 21 (25.3) 14 (31.1)
+D 2 (2.4) 1 (2.2)
+PreTR 0.551
+Moderate 3 (3.6) 0 (0)
+Severe 80 (96.4) 45 (100)
+PreLVEF 68.5 (64–74.75) 64 (60–70) 0.005
+Previous ASD closure 1.000
+No 82 (98.8) 44 (97.8)
+Yes 1(1.2) 1 (2.2)
+Previous ablation 1.000
+No 78 (94.0) 42 (93.3)
+Yes 5 (6.0) 3 (6.7)
+Previous pacemaker implantation 1.000
+No 82 (98.8) 45 (100.0)
+Yes 1(1.2) 0 (0.0)
+Pre RV diameter 41 (27–52.5) 43 (34–61) 0.327
+BSA, body surface area; NYHA, New York Heart Association; PreTR, pre -operatively tricuspid regurgitation; PreLVEF , pre-operatively left ve ntricular ejection fraction; Pre RV diameter,
+pre-operatively right ventricular diameter.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 4 August 2021 | Volume 8 | Article 710168
+[[p5]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+TABLE 2 | Operative data.
+Variables Cone (83) Hetzer (45) p-value
+CPBtime 136 (113–179) 90.50 (74.50–122.25) <0.001
+ACCtime 89 (70.50–128.50) 51.00 (35.00–62.25) <0.001
+BCPS 0.051
+m?VT?GXOMSDH?RT?GVVMWDH
+Yes 8 (9.6%) 10 (22.2%)
+Reoperation before discharge 1.00
+No 78 42
+Yes 5 3
+Death 1.00
+No 82 (98.8) 45 (100)
+Yes 1 (1.2) 0 (0)
+ICU time 2 (1.00–3.00) 2 (1.00–2.50) 0.685
+Hospital time 6 (4.00–9.00) 7 (6.50–9.50) 0.710
+Discharge TR 0.009
+Mild/No 62 (74.7) 23 (51.1)
+Moderate 11 (13.3) 16 (35.6)
+Severe 10 (12.0) 6 (13.3)
+Discharge LVEF 66 (61–72.5) 67 (62–73) 0.693
+CPB, cardiopulmonary bypass; ACC, aortic cross clamp; BCPS, bidirec tional cavopulmonary shunt; ICU, intensive care unit; TR, tricuspid va lve regurgitation; LVEF , left ventricular
+ejection fractions.
+Follow-Up After Hospital Discharge
+Figure 1A summarizes the TR of patients after surgery at 3
+months and longer. The median follow-up time for reoperation
+was 45 (interquartile range 26–63) months, and the median
+follow-up time for TR was 14 (interquartile range 3–33) mont hs.
+The incidence rate of mild or without TR was higher in patients
+who underwent cone repair than those with Hetzer repair (75.6
+vs. 48.9%, p = 0.010). In total, nine patients required reoperation
+during the follow-up period. Seven patients in the Hetzer grou p
+required late reoperation due to surgical site infection (on e case
+with Carpentier type A), pericardial eﬀusion (two cases with
+Carpentier type B), severe TR (two cases with Carpentier type
+C, one case with Carpentier type B), and arrhythmia (one case
+with Carpentier type A). Two patients with Carpentier type B
+in the cone group received reoperation because of arrhythmia
+(one case) and severe TR (one case). There was a statistical
+diﬀerence between the reoperation rate during the follow-up
+period of the cone repair and Hetzer repair (2.4 vs. 15.6%, p =
+0.01) (Figure 1B). Two patients in the Hetzer group received the
+cone re-repair for severe TR during the follow-up, and another
+one underwent the TV replacement. Follow-up investigation
+and analysis were performed on four patients diagnosed with
+Carpentier type C who underwent the reoperation due to severe
+TR before discharge or during the follow-up. Two patients in
+the cone group were both mild or none TR, and one patient
+in the Hetzer group was mild or none TR; the other one was
+severe TR.
+Figure 2A describes the Kaplan–Meier curves for survival
+after hospital discharge. A comparison with patients with cone
+repair vs. Hetzer repair revealed no signiﬁcant diﬀerence in
+overall survival ( p = 0.2636). One patient who received Hetzer
+repair had sudden death at 50 months postoperatively. Figure 2B
+shows the Kaplan–Meier curves for reoperation for recurrent TR
+between two groups at the follow-up. No signiﬁcant diﬀerence
+was observed (p = 0.2618).
+Furthermore, Figure 3 shows the comparison between
+regurgitation at discharge and last follow-up in two groups.
+In comparison with the regurgitation at discharge, the follo w-
+up regurgitation of the cone group was improved ( p < 0.001).
+Eight patients with mild or no regurgitation progressed to
+moderate regurgitation after being discharged from the hos pital,
+but no one developed a severe regurgitation. There were 10
+cases of severe regurgitation at discharge, four cases redu ced
+to mild or without regurgitation during follow-up time, and
+two patients relieved to moderate regurgitation. In the Hetz er
+group, the degree of regurgitation at follow-up was more
+serious than that at discharge ( p = 0.001). Five patients with
+mild or without TR at discharge developed moderate TR, and
+one patient with mild or without TR developed severe TR.
+However, in patients with severe TR at discharge, one patient
+reduced to mild or without TR, and one patient reduced to
+moderate TR.
+There was no statistical diﬀerence in the RV diameters at
+the last follow-up of the two groups (49 vs. 49 mm, p = 0.772).
+Compared with RV diameters before surgery, RV diameters at the
+last follow-up were signiﬁcantly increased in the Hetzer gro up
+(33 vs. 45 mm, p = 0.030). However, although, the trend is also
+increasing, the RV diameters before operation and those at th e
+last follow-up did not meet statistically signiﬁcant diﬀerenc e in
+the cone group (35 vs. 47 mm, p = 0.074).
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 5 August 2021 | Volume 8 | Article 710168
+[[p6]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+FIGURE 1 | (A) The TR of patients after cone or Hetzer repair at 3 months and l onger. (B) The reoperation rate during the follow-up period of the cone repair and
+Hetzer repair.
+FIGURE 2 | (A) The Kaplan–Meier curves for survival after hospital discha rge. (B) The Kaplan–Meier curve showing freedom from reoperation.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 6 August 2021 | Volume 8 | Article 710168
+[[p7]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+FIGURE 3 | Alluvial diagram showing the changes of the degree of tricus pid valve regurgitation in two groups.
+DISCUSSION
+The longitudinal study identiﬁed the TV situation and recur rent
+surgical intervention in patients with EA who underwent cone
+and Hetzer surgery. Despite that longer CPB time and ACC time
+were found in the cone repair group, the ICU staying time, and
+postoperative hospital staying time were similar between the cone
+and Hetzer groups. It is worth mentioning that the cone repair
+conferred a signiﬁcant advantage over Hetzer repair in the TR
+degree of patients with EA. To the best of our knowledge, this i s
+the ﬁrst study to assess and compare the TV function after cone
+and Hetzer repair.
+In the surgical treatment of EA, various alternatives depend ed
+on cardiac malformation. Hetzer et al. (
+15) reported the outcome
+of Hetzer repair for 68 patients with EA. In this study, early and
+late mortality was reported as 2.9 and 5.8%, respectively. The
+tricuspid insuﬃciency of EA patients was signiﬁcantly improve d
+at 3 months and 1 year after the Hetzer repair ( p < 0.001), which
+provided satisfactory long-term outcomes even in severe type s
+of EA. By analyzing the outcomes of 253 patients with EA who
+underwent cone repair, Holst et al. (
+19) revealed that cone repair
+could reduce TR and RV area (both p < 0.001).
+Recently, Burri et al. ( 10) reported a comparison of the
+midterm follow-up period of patients with EA who underwent
+cone repair and other repairs. They found that the cone repair
+provided a higher rate of successful repair and a lower rate of
+moderate/severe TR ( p = 0.03). Ozbek and his associates (
+12)
+reached a similar conclusion that the rate of moderate/seve re
+TR of cone repair was lower than other repairs in patients
+with EA postoperatively ( p = 0.009). Vogel et al. (
+20) found
+that the cone repair had a higher rate of reduction in TR
+than conventional surgery in patients with EA ( p = 0.004).
+In addition, the longer CPB and ACC time were observed
+in the cone group than in conventional groups in this study.
+Our study also demonstrated that cone repair took longer CPB
+and ACC time but showed an advantage in reduction of TR
+at discharge and early postoperative outcome compared with
+Hetzer repair. Compared with the above studies, our research
+was based on a relatively large cohort that contained patient s
+with EA who underwent two speciﬁc surgical procedures. This
+advantage makes our study more convincing. Being similar to
+Burri’s study, our study also demonstrated that the reoperati on
+rate postoperatively during follow-up was lower in the cone
+group compared with the Hetzer group. The reason for the better
+surgical outcome in the cone group might due to the near-
+normal TV anatomy and function which was provided by cone
+repair. Unlike the Hetzer group, a leaﬂet-to-leaﬂet coaptation
+rather than a leaﬂet-to-annulus coaptation was performed in t he
+cone group, which distributes the closing stress to the leaﬂet s
+uniformly (
+9). Additionally, researchers demonstrated that the
+cone repair created greater valvular coaptation by using three
+leaﬂets, which could signiﬁcantly reduce the degree of TR (
+18).
+We hypothesize that the reduction of TR would decrease the
+capacity load of RV and improve the RV function.
+The RV volumes after surgery tended to increase compared
+with those before surgery, but they did not reach statistical
+signiﬁcance. This result might be aﬀected by the limited case s
+and short-term follow-up. Lianza’s study (
+17) indicated that the
+RV volumes were increased, and the RVEF and FAC of RV
+were decreased after cone repair. Other reports also showed the
+decline of RV systolic function after cone repair in a short-t erm
+follow-up (
+21, 22). Lianza believes that the pathological change
+of the myocardium of RV was the main cause of the continuous
+deterioration of RV function. Unfortunately, the echo in our
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 7 August 2021 | Volume 8 | Article 710168
+[[p8]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+institution lacked RV function data, so we did not analyze the
+RV function in this study.
+The decline of RV volume and persistent RV function after
+the cone repair has been previously noted by several other
+investigators (
+16, 23, 24). Beroukhim et al. ( 16) described the
+decreased RV volume and the constant RVEF after the cone
+repair. The lower volume and likely ﬁlling pressure of the RV
+may improve the ﬁlling pressure of the left ventricle through t he
+change of septal movement and transmural pressure. According
+to the Laplace law, the tension of the RV wall was reduced due to
+the decrease in the RV diameter. Afterward, restoring the en tire
+anatomic RV to the functional portion of the RV may allow more
+valid stroke volume (
+19). It was a good sign that the cone repair
+would prevent a heart failure at follow-up ( 13).
+Our study had several limitations. Firstly, this study is
+a retrospective research from a single center, which had
+the potential to introduce selection biases. However, no
+signiﬁcant diﬀerence was found in the baseline characterist ics
+between cone and Hetzer groups except for preoperative
+LVEF (both were normal). Secondly, this study assessed
+postoperative valve function by echocardiographic examinati on
+at discharge and short-term outcome but lacked long-term
+echocardiographic data. Thirdly, the analysis of freedom of
+reoperation overestimates the function of the TV , including
+patients with moderate/severe TR but who refuse reoperation.
+Fourthly, there were fewer preoperative and postoperative two-
+dimensional echocardiograms that measured the function of
+the RV. Therefore, this study assessed the short-term resul ts
+by the reduction of TR alone due to a lack of information on
+RV function.
+CONCLUSION
+Based on our experience, despite longer CPB and ACC time,
+cone repair had a higher rate of reduction in TR than Hetzer
+repair in patients with EA. Compared to Hetzer repair, we
+prefer cone repair as the treatment of choice for patients
+with EA.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+ETHICS STATEMENT
+The studies involving human participants were reviewed and
+approved by the Ethics Research Committee of Guangdong
+Provincial People’s Hospital. The patients or patients’ legal
+guardians provided written informed consent to participate in
+this study.
+AUTHOR CONTRIBUTIONS
+QL: collection and analysis of data and manuscript
+writing. QL and YZ: analysis and interpretation of
+data. YZ and JW: data acquisition. JC, JZ, and SW:
+project development and critical revision. All the
+authors participated in the discussion and editing of
+the manuscript.
+FUNDING
+This study was ﬁnancially supported by the National Key R&D
+Program of China (2020YFC1107904).
+ACKNOWLEDGMENTS
+We are grateful to Miss. Roujing Wu and Mr. Decheng Chen for
+the English language editing.
+REFERENCES
+PM?e?laK?l?qcM?c?????
+heart defects, Hawaii, 1986-1999. Paediatr Perinat Epidemiol. (2004) 18:415–
+24. doi: 10.1111/j.1365-3016.2004.00594.x
+2. Lupo PJ, Langlois PH, Mitchell LE. Epidemiology of Ebstein anomaly:
+prevalence and patterns in Texas, 1999-2005. Am J Med Genet A. (2011)
+155a:1007–14. doi: 10.1002/ajmg.a.33883
+3. Correa-Villaseñor A, Ferencz C, Neill CA, Wilson PD, Boughman JA. Ebstein’s
+malformation of the tricuspid valve: genetic and environmental facto rs.
+The Baltimore-Washington Infant Study Group. Teratology. (1994) 50:137–
+47. doi: 10.1002/tera.1420500208
+4. Boyle B, Garne E, Loane M, Addor MC, Arriola L, Cavero-Carbonell C, et al.
+The changing epidemiology of Ebstein’s anomaly and its relationshi p with
+maternal mental health conditions: a European registry-based study . Cardiol
+Young. (2017) 27:677–85. doi: 10.1017/S1047951116001025
+5. Attenhofer Jost CH, Connolly HM, Dearani JA, Edwards WD,
+Danielson GK. Ebstein’s anomaly. Circulation. (2007) 115:277–
+85. doi: 10.1161/CIRCULATIONAHA.106.619338
+6. Egbe A, Miranda W, Connolly H, Dearani J. Haemodynamic determinants of
+improved aerobic capacity after tricuspid valve surgery in Ebstein an omaly.
+Heart. (2020) 107:1138–44. doi: 10.1136/heartjnl-2020-317756
+7. Anderson KR, Lie JT. The right ventricular myocardium in Ebstei n’s anomaly:
+a morphometric histopathologic study. Mayo Clin Proc. (1979) 54:181–4.
+8. Attenhofer Jost CH, Connolly HM, O’Leary PW, Warnes CA, Tajik AJ,Seward
+JB. Left heart lesions in patients with Ebstein anomaly. Mayo Clin Proc. (2005)
+80:361–8. doi: 10.4065/80.3.361
+9. Sainathan S, da Fonseca da Silva L, da Silva JP. Ebstein’s ano maly:
+contemporary management strategies. J Thorac Dis. (2020) 12:1161–
+73. doi: 10.21037/jtd.2020.01.18
+10. Burri M, Mrad Agua K, Cleuziou J, Beran E, Nagdyman N, Kühn A, et al.
+Cone versus conventional repair for Ebstein’s anomaly. J Thoraci Cardiovasc
+Surg. (2020) 160:1545–53. doi: 10.1016/j.jtcvs.2020.05.032
+11. Brown ML, Dearani JA, Danielson GK, Cetta F , Connolly HM,
+Warnes CA, et al. The outcomes of operations for 539 patients with
+Ebstein anomaly. J Thoraci Cardiovasc Surg. (2008) 135:1120–36;
+1136.e1–7. doi: 10.1016/j.jtcvs.2008.02.034
+12. Ozbek B, Tanrikulu N. Cone type repair has become our ﬁrst option i n the
+treatment of adult ebstein anomaly. Ann Thorac Cardiovasc Surg. (2019)
+25:260–4. doi: 10.5761/atcs.oa.18-00309
+13. Burri M, Lange R. Surgical treatment of Ebstein’s anomaly. Thorac Cardiovasc
+Surg. (2017) 65:639–48. doi: 10.1055/s-0037-1604469
+14. Qureshi MY , Sommer RJ, Cabalka AK. Tricuspid valve imaging and
+intervention in pediatric and adult patients with congenital he art disease.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 8 August 2021 | Volume 8 | Article 710168
+[[p9]]
+Lou et al. Surgery for Ebstein’ s Anomaly
+JACC Cardiovasc Imaging. (2019) 12:637–51. doi: 10.1016/j.jcmg.2018.
+10.036
+15. Hetzer R, Hacke P , Javier M, Miera O, Schmitt K, Weng Y , et al. Th e long-
+term impact of various techniques for tricuspid repair in Ebstein’s anomaly. J
+Thoraci Cardiovasc Surg. (2015) 150:1212–9. doi: 10.1016/j.jtcvs.2015.08.036
+16. Beroukhim RS, Jing L, Harrild DM, Fornwalt BK, Mejia-Spiegeler A, Rhodes
+J, et al. Impact of the cone operation on left ventricular size, functi on, and
+dyssynchrony in Ebstein anomaly: a cardiovascular magnetic resonance study.
+J Cardiovasc Magn Reson. (2018) 20:32. doi: 10.1186/s12968-018-0452-0
+17. Lianza AC, Rodrigues ACT , Mercer-Rosa L, Vieira MLC, de Oliv eira
+WAA, Afonso TR, et al. Right ventricular systolic function after
+the cone procedure for Ebstein’s anomaly: comparison between
+echocardiography and cardiac magnetic resonance. Pediatr Cardiol. (2020)
+41:985–95. doi: 10.1007/s00246-020-02347-6
+18. da Silva JP , Baumgratz JF , da Fonseca L, Franchi SM, Lopes LM, Ta vares GM,
+et al. The cone reconstruction of the tricuspid valve in Ebstein’s a nomaly.
+The operation: early and midterm results. J Thoraci Cardiovasc Surg. (2007)
+133:215–23. doi: 10.1016/j.jtcvs.2006.09.018
+19. Holst KA, Dearani JA, Said S, Pike RB, Connolly HM, Cannon
+BC, et al. Improving results of surgery for Ebstein anomaly:
+where are we after 235 cone repairs? Ann Thorac Surg. (2018)
+105:160–8. doi: 10.1016/j.athoracsur.2017.09.058
+20. Vogel M, Marx GR, Tworetzky W, Cecchin F , Graham D, Mayer JE, et al.
+Ebstein’s malformation of the tricuspid valve: short-term outcomes of the
+“cone procedure” versus conventional surgery. Congenit Heart Dis . (2012)
+7:50–8. doi: 10.1111/j.1747-0803.2011.00603.x
+21. Lange R, Burri M, Eschenbach LK, Badiu CC, da Silva JP , Nagdyma n N,
+et al. Da Silva’s cone repair for Ebstein’s anomaly: eﬀect on right ve ntricular
+size and function. Eur J Cardiothorac Surg. (2015) 48:316–20; discussion
+QO–PM?Y?POMPOXRNNSVQ
+22. Ibrahim M, Tsang VT , Caruana M, Hughes ML, Jenkyns S, Perdreau E , et al.
+Cone reconstruction for Ebstein’s anomaly: patient outcomes, biv entricular
+function, and cardiopulmonary exercise capacity. J Thoraci Cardiovasc Surg.
+(2015) 149:1144–50. doi: 10.1016/j.jtcvs.2014.12.074
+23. Liu X, Zhang Q, Y ang ZG, Guo YK, Shi K, Xu HY , et al. Morphologic
+and functional abnormalities in patients with Ebstein’s anomaly w ith cardiac
+magnetic resonance imaging: correlation with tricuspid regurgitati on. Eur J
+Radiol. (2016) 85:1601–6. doi: 10.1016/j.ejrad.2016.06.012
+24. Celermajer DS, Cullen S, Sullivan ID, Spiegelhalter DJ, Wyse RK, Dea nﬁeld
+JE. Outcome in neonates with Ebstein’s anomaly. J Am Coll Cardiol. (1992)
+19:1041–6. doi: 10.1016/0735-1097(92)90291-T
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potential conﬂict of interest.
+Publisher’s Note:All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their aﬃliated organizat ions, or those of
+the publisher, the editors and the reviewers. Any product that may b e evaluated in
+this article, or claim that may be made by its manufacturer, is not gua ranteed or
+endorsed by the publisher.
+Copyright © 2021 Lou, Zou, Wu, Chen, Zhuang and Wen. This is an open -access
+article distributed under the terms of the Creative Commons Attribution License (CC
+BY). The use, distribution or reproduction in other forums is permitted, provided
+the original author(s) and the copyright owner(s) are credit ed and that the original
+publication in this journal is cited, in accordance with acc epted academic practice.
+No use, distribution or reproduction is permitted which doe s not comply with these
+terms.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 9 August 2021 | Volume 8 | Article 710168

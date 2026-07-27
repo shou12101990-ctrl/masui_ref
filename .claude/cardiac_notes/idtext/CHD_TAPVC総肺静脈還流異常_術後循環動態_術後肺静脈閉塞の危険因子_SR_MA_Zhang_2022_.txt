@@ -1,0 +1,519 @@
+
+[[p1]]
+Cite this article as: Zhang H, Shi G, Chen Hchenhuiwen@scmc.com.cn. Risk factors for postoperative pulmonary venous obstruction after surgical rep air of total
+anomalous pulmonary venous connection: a systemic review and meta-analysis. Interact CardioVasc Thorac Surg 2022; doi:10.1093/icvts/ivac162.
+Risk factors for postoperative pulmonary venous obstruction after
+surgical repair of total anomalous pulmonary venous connection:
+a systemic review and meta-analysis
+Han Zhang , Guocheng Shi and Huiwen Chen*
+Department of Cardiothoracic Surgery, Congenital Heart Center, Shanghai Children’s Medical Center, Shanghai Jiao Tong University School of Medic ine, Shanghai,
+China
+* Corresponding author. Department of Cardiothoracic Surgery, Congenital Heart Center, Shanghai Children’s Medical Center, Shanghai Jiao Tong Un iversity School
+of Medicine, No. 1678 Dongfang Road, Pudong District, Shanghai 200127, China. Tel: +86-18930830797; e-mail: chenhuiwen@scmc.com.cn (H. Chen).
+Received 3 April 2022; received in revised form 21 May 2022; accepted 15 June 2022
+Abstract
+OBJECTIVES: A meta-analysis was performed to investigate the risk factors for postoperative pulmonary venous obstruction (PVO) after
+surgical repair of total anomalous pulmonary venous connection (TAPVC).
+METHODS: Data bases including PubMed, Embase, Web of Science and Cochrane Library were searched systematically. The goal was to
+discuss the risk factors for postoperative PVO after TAPVC. Publications were screened by 2 authors independently for criteria inclusion,
+methodological quality assessment and data extraction. The Newcastle-Ottawa Scale and the Agency for Healthcare Research and Quality
+checklist were obtained to assess the quality of the studies. Data were pooled by the random effect model or the ﬁxed effect model
+according to the heterogeneity test.
+RESULTS: A total of 16 studies (2,385 participants) were included in the meta-analysis. All included studies were retrospective studies. Six
+potential risk factors were pooled, 5 of which were signiﬁcantly associated with postoperative PVO. Patients with preoperative PVO were
+more likely to suffer from postoperative PVO [odds ratio (OR)=5.27, 95% conﬁdence interval (CI) = (2.75, 10.11), P < 0.01]. Compared with a
+sutureless procedure, the conventional operative procedure was associated with postoperative PVO [OR = 1.80, 95% CI=(1.20, 2.71),
+P < 0.01]. A mixed type TAPVC plays a critical role in postoperative PVO [OR = 3.78, 95% CI=(1.08, 13.18), P = 0.04]. Inverse variance analysis
+showed that longer cardiopulmonary bypass time [hazard ratio (HR)=1.01, 95% CI=(1.01, 1.02), P < 0.00001] and aortic cross-clamp time
+[HR = 1.01, 95% CI=(1.01, 1.02), P < 0.01] were signiﬁcantly associated with postoperative PVO. Heterotaxy [OR = 1.18, 95% CI = 0.13, 10.45,
+P = 0.88] was not statistically signiﬁcant as a risk factor for postoperative PVO.
+CONGENITAL
+VC The Author(s) 2022. Published by Oxford University Press on behalf of the European Association for Cardio-Thoracic Surgery.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.o rg/licenses/by-
+nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For com mercial re-use,
+please contact journals.permissions@oup.com
+Interactive CardioVascular and Thoracic Surgery, 2022, 35(2), ivac162 META-ANALYSIS
+https://doi.org/10.1093/icvts/ivac162 Advance Access publication 17 June 2022
+[[p2]]
+CONCLUSIONS: This meta-analysis may provide a perspective on the risk factors for postoperative PVO after TAPVC, thus leading to
+more studies predicting postoperative PVO after TAPVC with our ﬁndings.
+Keywords: TAPVC  PVO  postoperative  risk factors
+INTRODUCTION
+Total anomalous pulmonary venous connection (TAPVC) com-
+prises /C243% of congenital heart disease cases [1]. Postoperative pul-
+monary vein stenosis (PVS) occurs in 15–20% of the survivors and
+can result in pulmonary hypertension and subsequent right heart
+failure, which is associated with high morbidity and mortality [ 2].
+Strategies to relieve such stenosis include reoperation and trans-
+catheter intervention; however, the efﬁcacy of the treatment is lim-
+ited. Sirolimus has recently been reported to be associated with
+better survival in paediatric patients with PVS [3]. However, in that
+study, the small number of cases (only 2 patients) receiving siroli-
+mus therapy for PVS after TAPVC surgery may not reﬂect a clear
+effectiveness of sirolimus in this subpopulation. Furthermore, post-
+operative PVS remains an ongoing challenge for the congenital
+heart community. Searching for factors associated with postopera-
+tive PVS in the setting of TAPVC can provide the potential for de-
+veloping risk-mitigation care management and better disease
+counselling for parents.
+Previous meta-analyses of TAPVC have focused on a compari-
+son of different techniques, (sutureless technique versus conven-
+tional conﬂuence-to-left atrium anastomosis) in the primary
+repair of TAPVC [ 4] or the prenatal detection of TAPVC regarding
+descriptions of sonographic features[ 5]. To our knowledge, no
+meta-analysis has been conducted to estimate the risk factors for
+postoperative PVS in this clinical setting, and all of the published
+evidence on this issue is derived from retrospective observational
+studies, most of which were single-institutional studies. Thus, the
+outcomes may be inﬂuenced by potential baseline differences
+and selection bias. Therefore, there is an unmet need to provide
+better evidence and a more general estimate of predictors for
+postoperative PVS in patients with TAPVC.
+METHOD
+Data searches
+Electronic database searches were conducted systematically on
+PubMed, EMbase, Web of Science and the Cochrane Library. The
+search terms used were (“total anomalous pulmonary venous
+return” [Mesh] OR “pulmonary venous return anomaly” [Mesh]
+OR “TAPVR” [Mesh] OR “TAPVR1” [Mesh] OR “total anomalous
+pulmonary venous return 1” [Mesh] OR “anomalous pulmonary
+venous return” [Mesh]) for both title and abstract, before 20
+September 2021. References from the retrieved articles were also
+reviewed manually for eligible studies.
+Study selection and inclusion
+Inclusion criteria were as follows: (i) Patients were diagnosed as
+having TAPVC; (ii) the risk factors for postoperative pulmonary
+venous obstruction (PVO) were reported; and (iii) the postopera-
+tive PVO deﬁnition was clear. Random controlled trials, cohort
+studies, case control studies and retrospective studies were
+included. Case reports, studies irrelevant to the analytic goal and
+conference abstracts were excluded.
+Data extraction and quality assessment
+Studies were screened independently and extracted according to
+the inclusion criteria and the exclusion criteria by 2 researchers
+(H. Zhang and G. Shi). A third researcher (H. Chen) resolved any
+discrepancies. Types of studies, patient demographic characteris-
+tics, surgical approaches, complications, follow-up data, risk fac-
+tors for postoperative PVO and end points (the occurrence of
+postoperative PVO) were collected. The studies included were
+categorized into groups according to each risk factor studied.
+Quality assessment was performed by 2 researchers indepen-
+dently utilizing the Newcastle-Ottawa Scale [ 6].
+Statistical analysis
+RevMan software (version 5.3; The Nordic Cochrane Centre,
+Copenhagen, Denmark) was used to analyse all the included data.
+P < 0.05 was considered statistically signiﬁcant. The Mantel-
+Haenszel (M-H) and inverse variance methods were used to pool
+the data. A random effects model was adopted when heterogene-
+ity was high, as evaluated by the Cochrane Q test. Dichotomous
+and continuous variables were evaluated by odds ratios (OR).
+Studies focusing on cardiopulmonary bypass (CPB) and aortic
+cross-clamp (ACC) times were conducted using univariable Cox re-
+gression analysis; thus the hazard ratio (HR) was used to evaluate
+these 2 factors. Publication bias and sensitivity analyses were eval-
+uated using Stata 16.0 (College Station, TX, USA). Funnel plots
+were used to compare the sutureless technique with the conven-
+tional technique using RevMan. Sensitivity analyses were used to
+compare intrinsic PVO and the conventional technique versus the
+sutureless technique using Stata software.
+RESULTS
+We identiﬁed a total of 2,169 studies initially. Sixteen studies met
+the inclusion criteria after screening for duplication and were eli-
+gible for inclusion in the meta-analysis [ 7–22]. All studies were
+retrospective non-randomized controlled trials. Two reviewers
+independently double-checked the selected articles. The ﬂow
+????????eM?PM
+Characteristics of the included studies
+Sixteen articles met the inclusion criteria for this meta-analysis; all
+were observational studies. Overall, these studies involved 2,385
+patients. Of these, the risk factors for postoperative PVO included
+heterotaxy [8–10], intrinsic or preoperative PVO [ 7, 10–13], con-
+ventional operative procedures compared to the sutureless tech-
+nique [ 10, 14–21] ,m i x e dt y p eo fT A P V C[7, 9–11, 17], CPB time
+[10, 14, 21, 22]a n dA C Ct i m e[ 10, 14, 21, 22]. The Newcastle-
+Ottawa Scale score assessment showed that all included data were
+2 H. Zhang et al. / Interactive CardioVascular and Thoracic Surgery
+[[p3]]
+greater than 6. The basic characteristics of all studies included are
+??s?PM
+Heterotaxy
+The meta-analysis included a total of 3 studies that investigated
+heterotaxy as a risk factor for postoperative PVO [ 8–10]. Because
+the heterogeneity test showed v2 = 15.97, P = 0.0003, I2 = 87%, we
+chose a random effect model to pool the data. A meta-analysis
+showed that complicating with heterotaxy was not signiﬁcantly
+associated with postoperative PVO [OR = 1.18, 95% CI = 0.13,
+10.45, P = 0.88] (Fig. 2). There was no publication bias (Egger’s test
+P = 0.491).
+Intrinsic or preoperative pulmonary venous
+obstruction
+Five studies demonstrated intrinsic or preoperative PVO in patients
+with TAPVC as a risk factor for postoperative PVO [ 7, 10–13]. A
+randomized effect model was obtained for this meta-analysis
+(v
+2 = 9.69, P = 0.05, I2 = 59%). The result indicated that patients with
+TAPVC with intrinsic or preoperative PVO had a higher incidence
+Figure 1: Study selection ﬂow chart.
+Table 1: Basic characteristics of reviewed studies
+Author Country or region Publication year Type of study design Sample size (male) NOS
+Seale [7] UK 2010 Retrospective 422 (266) 7
+Sweden
+Ireland
+Forster [8] USA 2008 Retrospective 36 (NA) 6
+Husain [9] USA 2012 Retrospective 51 (34) 7
+White [10] USA 2019 Retrospective 119 (84) 7
+Fu [11] Taiwan 2012 Retrospective 78 (41) 7
+Hoashi [12] Japan 2015 Retrospective 46 (24) 7
+Michielon [13] Italy 2002 Retrospective 89 (NA) 6
+Shi [14] China 2017 Retrospective 768 (511) 7
+Yanagawa [15] Canada 2011 Retrospective 57 (30) 7
+j?zPU|?d?QOPW?q?VT?GSQH?V
+North America
+Rito [17] Canada 2015 Retrospective 195 (118) 7
+Yamashita [18] Japan 2014 Retrospective 12 (9) 6
+Zhang [19] China 2016 Retrospective 179 (130) 7
+Honjo [20] Canada 2010 Retrospective 22 (18) 7
+Qiu [21] China 2021 Retrospective 173 (119) 7
+Liufu [22] China 2021 Retrospective 63 (NA) 6
+NA: not available; NOS: Newcastle-Ottawa Scale; UK: United Kingdom; USA: United States of America
+CONGENITAL
+3H. Zhang et al. / Interactive CardioVascular and Thoracic Surgery
+[[p4]]
+of postoperative PVO compared to those without intrinsic or pre-
+operative PVO [OR = 5.27, 95% CI (2.75, 10.11),P < 0.00001] (Fig. 3).
+A sensitivity test was conducted (Supplementary Fig. 1).
+Conventional technique
+Nine of the studies focused on a comparison between surgical
+repair using a conventional and a sutureless technique [ 10, 14–
+21]. The sutureless technique has been widely employed as a
+ﬁrst-line therapeutic approach in different types of TAPVC [ 23].
+The ﬁxed effect model was utilized to pool the data ( v2 = 6.97,
+P = 0.54, I 2 = 0%). Our ﬁndings showed that the conventional
+technique was signiﬁcantly associated with a higher rate of post-
+operative PVO [OR = 1.80, 95% CI= (1.20, 2.71), P = 0.005] (Fig. 4).
+A funnel plot was conducted to show there was no publication
+bias (Fig. 5). A sensitivity test was also conducted ( Supplementary
+Fig. 2).
+Mixed type total anomalous pulmonary venous
+connection
+Five of the included studies demonstrated that a mixed type
+TAPVC was a risk factor for postoperative PVO [ 7, 9–11, 17]. We
+used a random effect model to pool the data ( v2 = 14.82,
+P = 0.005, I2=73%). The meta-analysis indicated a trend toward a
+higher incidence of postoperative PVO in patients with a mixed
+type TAPVC [OR = 3.78, 95% CI=(1.08, 13.18), P = 0.04] (Fig. 6). We
+performed a publication bias analysis utilizing Egger’s test
+(P = 0.069).
+Cardiopulmonary bypass time
+Prolonged CPB time was measured as a risk factor for postopera-
+tive PVO in 4 of the included studies [ 10, 14, 21, 22]. A random
+effect model was used to pool the data ( v2 = 20788.79,
+P < 0.00001, I2=100%). Because all the studies conducted hazard
+Figure 4: Forest plot of meta-analysis of conventional technique versus sutureless technique. CI: conﬁdence interval; M-H: Mantel-Haenszel.
+Figure 2: Forest plot of meta-analysis of heterotaxy. CI: conﬁdence interval; M-H: Mantel-Haenszel; Post-op: postoperative; PVS: pulmonary vein stenosis.
+Figure 3: Forest plot of meta-analysis of intrinsic or preoperative pulmonary venous obstruction. CI: conﬁdence interval; M-H: Mantel-Haenszel; Post-op: p ostopera-
+tive; PVS: pulmonary vein stenosis.
+4 H. Zhang et al. / Interactive CardioVascular and Thoracic Surgery
+[[p5]]
+models, inverse variance analysis was obtained to reveal that lon-
+ger CPB time is signiﬁcantly associated with postoperative PVO
+[HR = 1.01, 95% CI=(1.01, 1.02), P < 0.00001] (Fig. 7).
+Aortic cross-clamp time
+Four studies were included in this category [ 10, 14, 21, 22]. The
+data were pooled via a random effect model ( v2 = 1569.58,
+P < 0.00001, I2=100%). The meta-analysis conﬁrmed that patients
+who underwent surgical repair with longer ACC times tended to
+have a higher incidence of postoperative PVO [HR = 1.01, 95%
+CI = 1.01, 1.02, P < 0.0001] (Fig. 8).
+DISCUSSION
+This meta-analysis included 2,385 individuals in 16 retrospective
+studies undergoing surgical repair of TAPVC. As is well known,
+preoperative PVO is related to postoperative PVO, yet not all the
+previous studies had consistent conclusions. When faced with a
+mixed type TAPVC complicated by heterotaxy syndrome, due to
+the low morbidity, few studies focused on this critical question. It
+was our main goal to clarify this ongoing issue.
+Inﬂuence of operative factors on restenosis
+Sutureless versus standard technique. The choice of techni-
+ques for TAPVC operations remains a topic of debate; ﬁnal con-
+clusions are still lacking. Results from the present meta-analysis
+favoured preferentially choosing an atriopericardial anastomosis
+[also known as a “sutureless technique” (ST)] for the primary re-
+pair of TAPVC in an attempt to diminish PPVO; this result was in
+line with results from several previous studies [ 4]. One important
+advantage of the ST is its relatively higher tolerance for surgical
+imprecision and its shorter learning curve. The ST appears to be
+superior to the direct atriovenous anastomosis, which is usually
+technically demanding and requires a comprehensive under-
+standing of the spatial relationship of the anatomical structures
+involved. Additionally, the rarity and high morphological varia-
+tions of this lesion can further complicate the anastomosis.
+Patients are therefore prone to PPVO (anastomotic restriction)
+when there is an imprecise anastomosis between the conﬂuence
+and the left atrium (LA). However, given the heterogeneity
+among the different studies, the ﬁnal answer in terms of the su-
+periority of ST still remains to be elucidated. Variation in patients
+undergoing the sutureless repair across studies may affect the ob-
+served effects. There was a propensity toward the primary use of
+ST in infracardiac or mixed TAPVC. Most previously published
+reports [ 24] have revealed a distinct advantage of ST over the
+standard technique in this clinical setting, whereas such an ad-
+vantage in supracardiac or cardiac variation remains inconclu-
+sive. Favourable freedom from PPVO using a direct [ 14]o ra
+modiﬁed atriovenous anastomosis has indeed been reported in
+several large cohorts. Therefore, comparing outcomes following
+sutureless versus standard repair in a mixed cohort of patients
+with all 4 TAPVC subtypes may not be appropriate. In addition,
+the results of 1 study [ 15] indicated that isolated peripheral PVO,
+though more benign than an anastomotic restriction, can still oc-
+cur following sutureless repair, probably given the acute angula-
+tion of the individual PV resulting from a purse-string effect of
+the suture line. Because constructing an unobstructive PV return
+while avoiding a geometrical distortion of the individual PVs
+remains the mainstay of TAPVC repair, more evidence is needed
+to conﬁrm the clear superiority of the ST. Taken together, per-
+haps further randomized controlled studies can answer whether
+ST beneﬁts the whole TAPVC population or merely a TAPVC sub-
+population who are at higher risk for PPVO.
+Cardiopulmonary bypass. Our results revealed that both lon-
+ger CPB and ACC times were signiﬁcantly associated with post-
+operative PVO. Unsurprisingly, this result may reﬂect the greater
+complexity of the surgical manoeuvres or the poorer preopera-
+tive status in patients who required more time for bypass sup-
+port, i.e. poor cardiac function, pulmonary hypertension owing
+to the preoperative pulmonary congestion and/or acidosis [ 25].
+On the other hand, this risk factor can be potentially mitigated
+by the use of ST because a simpler oval suture line is required in
+the ST compared with the complex and irregular contour of the
+incision required in the standard repair. Moreover, the pericar-
+dial sac is the component of the neo-LA that is to some extent
+helpful for lowering the ﬁlling pressure in the PVs given the large
+communication between the PV system and the LA.
+Figure 6: Forest plot of meta-analysis of mixed type of total anomalous pulmonary venous connection. CI: conﬁdence interval; M-H: Mantel-Haenszel.
+Figure 5: Funnel plot of publication bias of studies of conventional technique
+versus sutureless technique. OR: odds ratio; SE: standard error.
+CONGENITAL
+5H. Zhang et al. / Interactive CardioVascular and Thoracic Surgery
+[[p6]]
+Preoperative pulmonary venous obstruction. The present
+study has pooled data from available evidence (228 patients) and
+performed adjusted risk estimates that strongly indicated that
+preoperative PVO can independently predict PPVO. However,
+this ﬁnding should be interpreted with caution. First, in general,
+preoperative PVO can be categorized into 3 subtypes: external
+expression in an anomalous connector vein, functional obstruc-
+tion resulting from the restrictive atrial septal defect and hypo-
+plastic PVs or conﬂuence (intrinsic stenosis). From a technical
+perspective, the course and size of the PVs/conﬂuence are im-
+portant factors because anastomotic imperfections probably
+attribute to hypoplastic conﬂuence/peripheral PVs or an unfav-
+ourable spatial relationship between conﬂuence and LA [ 26],
+whereas relief of the restrictive ASD or external compression is
+expected to be associated with better outcomes. Thus, it can be
+argued that using preoperative PVO as a binary variable to esti-
+mate the risk of PPVO, as is seen in most studies [ 27], may not be
+appropriate. Second, the increasing use of primary ST for the pa-
+tient subpopulation with obstructed TAPVC in the current era
+can potentially mitigate the risk of PPVO. Although most studies
+began to include patients undergoing TAPVC repair from an early
+era, which may confound the results, this is a possible explana-
+tion for the conﬂicted observed effects [ 7] of preoperative PVO
+on PPVO. Finally, the multicollinearity between preoperative
+PVO and some challenging TAPVC subgroups [ 24] (e.g. infracar-
+diac or neonatal TAPVC) may also preclude the clear identiﬁca-
+tion of preoperative PVO as a risk factor for PPVO.
+Mixed variation and heterotaxy
+Mixed TAPVC: Mixed type TAPVC, which is complicated by
+more than 1 level of PV connection defect, is considered to be
+the most challenging type of TAPVC and sometimes requires
+combinations of surgical methods [ 28]. Few studies have reported
+clear conclusions as a result of the low morbidity (5–10% of
+patients with TAPVC); therefore, the reoperation rates of this type
+of TAPVC have not been clariﬁed by large cohort studies [ 28]. It
+is difﬁcult to pool surgical data from the published literature.
+Heterotaxy: Individuals with congenital heart defects compli-
+cated with the heterotaxy syndrome are frequently combined
+with complex cardiac structural diseases and often have poor
+outcomes [8]. When complicated with TAPVC, mortality remains
+high in the modern era. Recent studies have suggested that lower
+original pulmonary blood ﬂow, presenting as pulmonary atresia
+or stenosis in patients with heterotaxy syndrome, may contribute
+to intrinsic obstruction of TAPVC [ 29]. We reported that hetero-
+taxy was not strongly associated with the postoperative PVO of
+TAPVC. The bias remains in several aspects. First, due to the low
+morbidity, only 3 studies were included in this section of the
+study, and the heterogeneity of the data was high. Second, high
+postoperative mortality may inﬂuence the follow-up period of
+postoperative PVO. Thus, the results may indicate that fewer
+patients had PVO postoperatively. Spigel et al. [30] concluded
+that the high prevalence of single ventricular physiology in the
+heterotaxy cohort may contribute to a greater number of PV
+interventions. Yet, few cohort studies have focused on the rela-
+tionship between heterotaxy syndrome and postoperative PVO,
+which may not present much insightful information. Further
+studies are needed.
+Limitations
+This study is limited by the categories of articles included, all of
+which were non-randomized controlled trials, indicating a lower
+level of evidence. At the same time, we did not exclude the selec-
+tion bias of the age at surgical approach, because low body
+weight plays a critical role in many risks of adverse events in all
+types of cardiac surgery. Further investigation of the relationship
+between younger age at surgery, low body weight and postoper-
+ative PVO is urgently needed.
+Additionally, we failed to categorize the patients by severity of
+intrinsic PVO preoperatively, because the sutureless technique
+was generally adopted in patients with higher risks. As a result, a
+selection bias may lie in those included patients when comparing
+the conventional technique versus the sutureless technique. Last
+but not the least, we combined the results of the included studies
+Figure 7: Forest plot of meta-analysis of cardiopulmonary bypass time. CI: conﬁdence interval; IV: ; SE: standard error.
+Figure 8: Forest plot of meta-analysis of aortic cross-clamp time. CI: conﬁdence interval; IV: ; SE: standard error.
+6 H. Zhang et al. / Interactive CardioVascular and Thoracic Surgery
+[[p7]]
+to conﬁrm the different opinions of the risk factors for postoper-
+ative PVO for TAPVC but failed to explore any novel risk factors.
+A more delicate and detailed subgroup meta-analysis should be
+conducted.
+CONCLUSION
+We concluded that intrinsic or preoperative PVO, a conventional
+technique (versus a sutureless technique), mixed type TAPVC and
+both longer CPB and ACC times could be strongly associated
+with postoperative PVO of TAPVC. No signiﬁcant statistical differ-
+ence was found in the analysis of whether heterotaxy can be a
+risk factor for postoperative PVO, maybe because too few criteria
+were included. Subgroup and regression analyses should be
+carried out to enhance the level of evidence in risk factors for
+postoperative PVO of TAPVC.
+SUPPLEMENTARY MATERIAL
+Supplementary material is available at ICVTS online
+Funding
+This study was supported by the Chinese National Natural
+Science Foundation of China(grants 81801777, 82170307,and
+81970267), Shanghai Jiao Tong University School of Medicine
+(grant YG2022QN094), Science and Technology Commission of
+Shanghai Municipality(grants 20025800300), and Shanghai
+Municipal Health Commission(grant Nos. 2019SY046).
+Conﬂict of interest: none declared.
+Data Availability Statement
+The data underlying this article will be shared on reasonable
+request to the corresponding author.
+REFERENCES
+[1] Kirklin J, Blackston E. Total anomalous pulmonary venous connection.
+Kirklin/Barrat-Boyes Cardiac Surgery . 4th ed. Philadelphia: Elsevier
+Saunders, 2013. p. 1182–207.
+[2] Tara K, Rebecca G, Eisar S, John C, William W, Christopher C et al.
+Factors associated with mortality and reoperation in 377 children with
+total anomalous pulmonary venous connection. Circulation 2007;115:
+1591–8.
+[3] Jay DP, Michael B, Mansi M, Shannon J, Divya S, Rosemary G et al.
+Systemic Sirolimus Therapy for Infants and Children With Pulmonary
+Vein Stenosis. J Am Coll Cardiol 2021;77:2807–18.
+[4] Yuhao W, Wu Z, Junmeng Z, Yonggang L, Yuehang Z, Hongyu K et al.
+Sutureless technique versus conventional surgery in the primary treat-
+ment of total anomalous pulmonary venous connection: a systematic
+review and meta-analysis. J Cardiothorac Surg 2018;13:69.
+[5] Paladini D, Pistorio A, Wu LH, Meccariello G, Lei T, Tuo G et al. Prenatal
+diagnosis of total and partial anomalous pulmonary venous connection:
+multicenter cohort study and meta-analysis. Ultrasound Obstet Gynecol
+2018;52:24–34.
+[6] The Newcastle-Ottawa Scale (NOS) for assessing the quality if nonrandom-
+ized studies in meta-analyses. Available online at: http://www.ohri.ca/pro
+grams/clinical_epidemiology/oxford.htm (accessed Aug 13, 2021).
+[7] Seale AN, Uemura H, Webber SA, Partridge J, Roughton M, Ho SY,
+British Congenital Cardiac Association et al. Total anomalous pulmonary
+venous connection: morphology and outcome from an international
+population-based study. Circulation 2010;122:2718–26.
+[8] Foerster SR, Gauvreau K, McElhinney DB, Geva T. Importance of Totally
+Anomalous Pulmonary Venous Connection and Postoperative
+Pulmonary Vein Stenosis in Outcomes of Heterotaxy Syndrome. Pediatr
+Cardiol 2008;29:536–44. https://doi.org/10.1007/s00246-007-9128-5
+[9] Husain SA, Maldonado E, Rasch D, Michalek J, Taylor R, Curzon C et al.
+Total Anomalous Pulmonary Venous Connection: factors Associated
+With Mortality and Recurrent Pulmonary Venous Obstruction. Ann
+Thorac Surg 2012;94:825–32.
+[10] White BR, Ho DY, Faerber JA, Katcoff H, Glatz AC, Mascio CE et al.
+Repair of total anomalous pulmonary venous connection: risk factors for
+postoperative obstruction. Ann Thorac Surg 2019;108:122–9. https://doi.
+org/10.1016/j.athoracsur.2019.02.017.
+[11] Fu C-M, Wang J-K, Lu C-W, Chiu S-N, Lin M-T, Chen C-A et al. Total
+Anomalous Pulmonary Venous Connection: 15 Years’ Experience of a
+Tertiary Care Center in Taiwan. Pediatr Neonatol 2012;53:164–70.
+https://doi.org/10.1016/j.pedneo.2012.04.002.
+[12] Hoashi T, Kagisaki K, Kurosaki K, Kitano M, Shiraishi I, Ichikawa H
+et al. Intrinsic Obstruction in Pulmonary Venous Drainage Pathway is
+Associated with Poor Surgical Outcomes in Patients with Total
+Anomalous Pulmonary Venous Connection. Pediatr Cardiol 2015;36:
+432–7. https://doi.org/10.1007/s00246-014-1031-2 .
+[13] Michielon G, Di Donato RM, Pasquini L, Giannico S, Brancaccio G,
+Mazzera E et al. Total anomalous pulmonary venous connection: long-
+term appraisal with evolving technical solutions. Eur J Cardiothorac Surg
+2002;22:184–91. https://doi.org/10.1016/s1010-7940(02)00247-6.
+[14] Shi G, Zhu Z, Chen J, Ou Y, Hong H, Nie Z et al. Total Anomalous
+Pulmonary Venous Connection. The Current Management Strategies in
+a Pediatric Cohort of 768 Patients. Circulation 2017;135:48–58. https://
+doi.org/10.1161/CIRCULATIONAHA.116.023889.
+[15] Yanagawa B, Alghamdi AA, Dragulescu A, Viola N, Al-Radi OO, Mertens
+LL et al. Primary sutureless repair for ‘‘simple’’ total anomalous pulmo-
+nary venous connection: midterm results in a single institution. J Thorac
+Cardiovasc Surg 2011;141:1346–54. https://doi.org/10.1016/j.jtcvs.2010.
+10.056.
+[16] Kalfa D, Belli E, Bacha E, Lambert V, di Carlo D, Kostolny M et al.
+Outcomes and prognostic factors for post surgical pulmonary vein ste-
+nosis in the current era. J Thorac Cardiovasc Surg 2018;156:278–86.
+https://doi.org/10.1016/j.jtcvs.2018.02.038.
+[17] Lo Rito M, Gazzaz T, Wilder T, Saedi A, Chetan D, Van Arsdell GS et al.
+Repair Type Inﬂuences Mode of Pulmonary Vein Stenosis in Total
+Anomalous Pulmonary Venous Drainage. Ann Thorac Surg 2015;100:
+654–62. https://doi.org/10.1016/j.athoracsur.2015.04.121.
+[18] Yamashita K, Hoashi T, Kagisaki K, Kurosaki K, Shiraishi I, Yagihara T et al
+Midterm outcomes of sutureless technique for postoperative pulmonary
+venous stenosis. Gen Thorac Cardiovasc Surg 2014;62:48–52. https://doi.
+org/10.1007/s11748-013-0300-y.
+[19] Zhang C, Ou Y, Zhuang J, Chen J, Nie Z, Ding Y et al. Comparison of
+Sutureless and Conventional Techniques to Repair Total Anomalous
+Pulmonary Venous Connection. Semin Thorac Cardiovasc Surg 2016
+Summer;28:473–84. https://doi.org/10.1053/j.semtcvs.2016.05.009.
+[20] Honjo O, Atlin CR, Hamilton BC, Al-Radi O, Viola N, Coles JG et al.
+Primary Sutureless Repair for Infants With Mixed Total Anomalous
+Pulmonary Venous Drainage. Ann Thorac Surg 2010;90:862–8.
+[21] Qiu Z-H, Liao L-M, Xiao J, Chen X-F, Liao D-S, Tang M-R et al. A
+Modiﬁed Approach with Caval Transection for Supracardiac Total
+Anomalous Pulmonary Venous Connection: comparison Between
+Conventional and Sutureless Surgery in 173 Patients. Pediatr Cardiol
+2021;42:1002–9. https://doi.org/10.1007/s00246-021-02573-6.
+[22] Liufu R, Liu X, Liu T, Chen J, Wen S, Cen J et al. Primary sutureless
+repair for infracardiac total anomalous pulmonaryvenous connection.
+Eur J Cardiothorac Surg 2021;59(5):959–66. https://doi.org/10.1093/
+ejcts/ezaa470.
+[23] Azakie A, Lavrsen MJ, Johnson NC, Sapru A. Early outcomes of primary
+sutureless repair of the pulmonary veins. Ann Thorac Surg 2011;92:
+666–71. https://doi.org/10.1016/j.athoracsur.2011.04.024.
+[24] Shi G, Zhu F, Wen C, Qiu L, Zhang H, Zhu Z et al. Single-institution out-
+comes of surgical repair of infracardiac total anomalous pulmonary ve-
+nous connection. J Thorac Cardiovasc Surg 2021;161:1408–1417.e2.
+[25] Ji E, Qiu H, Liu X, Xie W, Liufu R, Liu T et al. The Outcomes of Total
+Anomalous Pulmonary Venous Connection in Neonates-10-Year
+Experience at a Single Center. Front Cardiovasc Med 2021 8:775578.
+CONGENITAL
+7H. Zhang et al. / Interactive CardioVascular and Thoracic Surgery
+[[p8]]
+[26] Peng Y, Ge Y, Zhang H, Liu J, Hong H, Lu Y. Positional relationship
+between the pulmonary venous conﬂuence-vertical vein and atria in
+infracardiac total anomalous pulmonary venous connection. Pediatr
+Cardiol 2016;37:372–7.
+[27] Kato H, Fu YY, Zhu J, Wang L, Aafaqi S, Rahkonen O et al. Pulmonary
+vein stenosis and the pathophysiology of “upstream” pulmonary veins.
+J Thorac Cardiovasc Surg 2014;148:245–53
+[28] Jaswal V, Thingnam SKS, Mishra AK, Mahajan S, Kumar V, Rohit MK
+et al. Mixed type total anomalous pulmonary venous connection: early
+results and midterm outcomes of surgical correction. J Card Surg 2021;
+36:1370–5.
+[29] Morales DLS, Braud BE, Booth JH, Graves DE, Heinle JS, McKenzie ED
+et al Heterotaxy patients with total anomalous pulmonary venous return:
+improving surgical results. Ann Thorac Surg 2006;82:1621–8.
+[30] Spigel Zachary A, Edmunds EE, Caldarone CA. Total anomalous
+pulmonary venous connection: inﬂuence of heterotaxy and
+venous obstruction on outcomes. J Thorac Cardiovasc Surg 2022;
+163(2):387–95.e3.
+8 H. Zhang et al. / Interactive CardioVascular and Thoracic Surgery

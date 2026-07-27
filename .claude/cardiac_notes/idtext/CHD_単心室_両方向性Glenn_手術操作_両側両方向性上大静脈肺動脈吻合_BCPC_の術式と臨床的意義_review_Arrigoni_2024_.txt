@@ -1,0 +1,797 @@
+
+[[p1]]
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+Introduction
+Systemic venous anomalies in the setting of a univentricular 
+heart represent a complex issue that could influence the 
+outcome of Fontan circulation and require specific surgical 
+features. The presence of bilateral superior caval veins 
+(bSCVs) is one of the most frequent systemic venous 
+anomalies, which plays an essential and direct role in 
+establishing the bidirectional cavopulmonary connection 
+(Glenn operation). In a “standard bilateral Glenn” two 
+similar mirror image anastomoses are constructed between 
+each superior caval vein (SCV) and its ipsilateral pulmonary 
+Review Article
+Bilateral bidirectional cavopulmonary connection: a review of 
+surgical techniques and clinical implications
+Sara C. Arrigoni, Tjark Ebels
+Department of Cardiothoracic Surgery, University Medical Centre Groningen, University of Groningen, Groningen, The Netherlands
+Contributions: (I) Conception and design: Both authors; (II) Administrative support: SC Arrigoni; (III) Provision of study materials or patients: SC 
+Arrigoni; (IV) Collection and assembly of data: SC Arrigoni; (V) Data analysis and interpretation: Both authors; (VI) Manuscript writing: Both 
+authors; (VII) Final approval of manuscript: Both authors.
+Correspondence to: Sara C. Arrigoni, MD. Department of Cardiothoracic Surgery, University Medical Centre Groningen, University of Groningen, 
+Hanzeplein 1, P .O. Box 30.001, 9700 RB Groningen, The Netherlands. Email: s.c.arrigoni@umcg.nl.
+Abstract: The presence of bilateral superior caval veins (bSCVs) could negatively influence the outcome 
+of Fontan patients. In the setting of a bilateral bidirectional Glenn, the selective blood flow to the ipsilateral 
+long with consequent flow stagnation in the connecting portion could lead to poor growth of the central 
+portion of the pulmonary artery, potentially affecting the eligibility for Fontan completion and being 
+associated with a higher incidence of thrombotic complications. Alternative surgical techniques have been 
+described to perform a bidirectional cavopulmonary anastomosis in the presence of bSCVs aiming to achieve 
+a balanced growth of the pulmonary bifurcation. The short-term results of these techniques such as the V- or 
+Y-shape seem to be excellent; however, some anatomical settings could affect the feasibility of these techniques. 
+The so-called “unifocalization” creates a configuration comparable to a “normal” bidirectional Glenn and 
+could be a feasible alternative. However, the long-term results of this technique are not published yet. The 
+positive effect of additional pulsatile pulmonary flow on pulmonary artery growth should be considered in 
+case of bilateral bidirectional Glenn, despite the higher incidence of postoperative complications reported 
+and the difficult calibration of the amount of additional flow. The role of computational fluid dynamic to 
+simulate the surgical strategy in single ventricle patients is promising and could be worthwhile in the setting 
+of bSCVs. In fact, the surgical techniques of bilateral bidirectional Glenn could be simulated testing their 
+feasibility and allowing to identify the more favorable hemodynamic pattern, patient specific. This review 
+article highlights the critical issues related to the presence of bSCVs in univentricular physiology, analyzing 
+pros and cons of the different surgical techniques. Besides reviewing the literature, this manuscript focuses 
+on the role of computational fluid simulation in identifying the most favorable surgical technique with an 
+individualized approach, which could potentially improve the clinical outcome.
+Keywords: Bilateral bidirectional Glenn; bilateral superior caval veins (bSCVs); cavopulmonary connection; 
+computational fluid dynamics simulations
+Submitted Jan 30, 2024. Accepted for publication May 11, 2024. Published online May 23, 2024.
+doi: 10.21037/tp-24-28
+View this article at: https://dx.doi.org/10.21037/tp-24-28
+823
+[[p2]]
+Translational Pediatrics, Vol 13, No 5 May 2024 815
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+artery branch. Poor results in terms of Fontan completion 
+and long-term outcome have been described in patients 
+after the standard bilateral Glenn, mainly related to an 
+increased risk of thrombus formation and insufficient 
+growth of the intercaval portion of the pulmonary artery. 
+Because of less-than-ideal results of the standard bilateral 
+Glenn, alternative surgical techniques and therapeutic plans 
+have been developed to improve the clinical outcome (1-3).
+The purpose of this systematic review of the current 
+literature is to analyze the pros and cons of the surgical 
+techniques described for Glenn operation in presence 
+of bSCVs. Moreover, the potential benefit of additional 
+pulmonary blood and the role of computational flow 
+simulation will be discussed to shape a prospective patient-
+individualized approach in this complex surgical strategy.
+Methods
+A review of the current literature was performed using 
+published data from PubMed and Medline.
+The search terms comprise: bilateral bidirectional Glenn, 
+bSCVs, cavopulmonary connection, pulmonary artery 
+growth, additional pulmonary blood, computational fluid 
+dynamics simulations, virtual surgery, and combinations of 
+the mentioned items. No articles were excluded based on 
+the publication date. Case reports which described surgical 
+technique specifically designed for bilateral bidirectional 
+Glenn were included.
+Studies not published as full-text or not written in 
+English were excluded.
+The articles selected for this review are summarized in 
+s??PM
+Surgical techniques
+The surgical techniques described to perform a bidirectional 
+Glenn in the presence of bSCVs could be classified in five 
+categories:
+(I) The standard bidirectional Glenn performed 
+bilaterally (Figure 1A);
+(II) The modified bilateral Glenn through a “V-shape” 
+anastomosis (Figure 1B);
+(III) The modified bilateral Glenn through a “Y-shape” 
+anastomosis (Figure 1C);
+(IV) The direct cavo-caval anastomosis (Figure 1D);
+(V) The cavo-caval connection by means of an 
+interposition-graft (Figure 1E).
+The standard bilateral Glenn consists of two anastomoses 
+between each SCV and its ipsilateral pulmonary artery 
+branch, which let the SCVs run parallel (Figure 1A) and can 
+be safely performed even with an off-pump technique (4,5). 
+The modified bilateral Glenn techniques, known as “V- 
+or Y-shape”, were designed to prevent central pulmonary 
+artery thrombosis, involution, or failure to grow. In order 
+to preserve the flow into the central pulmonary artery 
+and at the same time preserve the symmetry of the flow 
+distribution, the end-to-side anastomosis of the bSCVs 
+was performed next to each other on the central portion 
+of the pulmonary artery (6,7). In the V-shape technique 
+described by Honjo ( Figure 1B ), the cavopulmonary 
+anastomoses almost touched each other and were usually 
+located posterior to the aorta (6). In the Y-shape technique 
+described by Amodeo ( Figure 1C ) the SCVs were distally 
+merged to form a single larger combined vein which was 
+then end-to-side anastomosed to the pulmonary artery 
+confluence behind the aorta (7,8).
+The fourth and fifth surgical options consist in a cavo-
+caval surgical connection: one of the SCV could be end-
+to-side anastomosed on the other one in order to create 
+a configuration similar to that one of a unilateral Glenn 
+with or without an interposition-graft (9-12). The direct 
+cavopulmonary anastomosis was performed on the side 
+of the larger SCV ( Figure 1D ) and in case of equal size, 
+on the same side as the inferior caval vein (9,10). In case 
+of insufficient length of the SCV , a rolled autologous 
+pericardial graft or a polytetrafluoroethylene graft have 
+been used to elongate the SCV to perform the cavo-caval 
+anastomosis ( Figure 1E ) (11,12). Even the creation of a 
+“new innominate vein” by using an interposition Gore-T ex 
+vascular prosthesis between the SCVs has been described in 
+a case report by Vida et al. (13).
+An alternative approach to create a configuration similar 
+to that of a unilateral Glenn is banding or closure of one 
+of the SCVs (14). This option is feasible only in presence 
+of connecting veins somewhere (including intracranial) 
+between the flow areas of the two SCVs. In fact, the 
+purpose of the banding is to stimulate the growth of 
+connecting veins. When the combined connecting veins 
+reached a caliber similar to that of a usual innominate vein, 
+a unilateral bidirectional Glenn could be performed with 
+ligation of the involuted banded SCV .
+Role of additional pulsatile pulmonary blood in presence of 
+bSCVs
+A source of additional pulsatile pulmonary blood flow 
+[[p3]]
+Arrigoni and Ebels. Bilateral caval veins in single ventricle palliation816
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+Table 1 Summary of reviewed articles
+Author, year of 
+publication Purpose of study and patient number (N) Main results
+Frommelt MA, 
+1995
+Bidirectional Glenn with (N=21) or without (N=22) 
+additional pulsatile pulmonary blood
+Additional pulsatile pulmonary blood: higher postoperative 
+oxygen saturation, higher central venous pressure, increased 
+postoperative chylothorax
+Forbes TJ, 1997 Bidirectional bilateral Glenn (N=6) versus bidirectional 
+Glenn (N=24)
+Bilateral Glenn: risk factors for postoperative cavopulmonary 
+thrombosis
+Iyer GK, 2000 Bidirectional bilateral Glenn (N=39) versus bidirectional 
+Glenn (N=274)
+Bilateral Glenn: risk factors for postoperative cavopulmonary 
+thrombosis, unfavorable central pulmonary artery growth, less 
+Fontan completion
+Amodeo A, 2002 Flow simulation of virtual operations for total 
+cavopulmonary connection (N=110)
+Left-sided diversion of ICV conduit is more favorable than 
+directly opposed cavopulmonary anastomoses
+Lévy M, 2002 Histomorphometric analysis of pulmonary vessels in 
+single ventricle (N=40)
+Lung biopsy showed abnormalities in peripheral arteries in 
+cases of failure of the Fontan procedure
+Maeda K, 2004 Reevaluation of histomorphometric analysis of lung 
+tissue in single ventricle (N=53 biopsy + N=7 autopsy)
+Measurement of medial thickness of small pulmonary arteries 
+revealed differences values between patients with good and 
+bad outcomes
+Luo XJ, 2004 Off pump bilateral bidirectional Glenn (N=36) Technique is feasible and safe
+Berdat PA, 2005 Bidirectional Glenn with (N=30) or without (N=54) 
+additional pulsatile pulmonary blood
+Additional pulsatile pulmonary blood: higher postoperative 
+oxygen saturation but increased postoperative complications. 
+No difference in pulmonary artery size
+de Zélicourt DA, 
+2006
+Flow simulation of virtual operations for total 
+cavopulmonary connection by bSCV (N=1)
+Locating ICV conduit between SCVs may lead to better-
+balanced lung perfusion
+Vida VL, 2006 Case report of PTFE vascular prosthesis as 
+interposition conduit between bSCVs (N=1)
+PTFE interposition conduit allowed decompression of SCVs 
+after bidirectional bilateral Glenn
+Amodeo A, 2007 Modified Y-shape technique (N=2) Description of surgical technique and uneventful postoperative 
+course
+Gray RG, 2007 Bidirectional Glenn with (N=39) or without (N=21) 
+additional pulsatile pulmonary blood
+Additional pulsatile pulmonary blood: modest increase 
+in pulmonary artery growth, higher postoperative oxygen 
+saturation
+Amodeo A, 2009 Computational flow simulations after Y-shape 
+technique (N=7)
+Simulations showed symmetric and steady bilateral flow
+Honjo O, 2010 Modified V-shape technique (N=24) versus classic 
+bilateral bidirectional Glenn (N=37)
+V-shape technique is associated with larger central pulmonary 
+artery size
+Ebels T, 2012 Theoretic framework to estimate additional pulmonary 
+blood flow (N=0)
+Additional pulmonary blood flow can be estimated and 
+calibrated to desired level
+Demirtürk OS, 
+2013
+Bidirectional Glenn with additional pulsatile pulmonary 
+blood by (N=20)
+Main pulmonary artery size continued to increase at 22.9 
+months follow-up
+Ferns SJ, 2013 Bidirectional Glenn with (N=33) or without (N=70) 
+additional pulsatile pulmonary blood
+Additional pulsatile pulmonary blood: better pulmonary artery 
+growth but higher postoperative complication rate
+Ando Y, 2014 Bidirectional bilateral Glenn (N=13) versus bidirectional 
+Glenn (N=27)
+No difference between groups in: postoperative 
+cavopulmonary thrombosis, central pulmonary artery size, 
+Fontan completion
+Nakanishi K, 2014 Unifocalization technique (N=9) Description of surgical technique
+Table 1 (continued)
+[[p4]]
+Translational Pediatrics, Vol 13, No 5 May 2024 817
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+Table 1 (continued)
+Author, year of 
+publication Purpose of study and patient number (N) Main results
+Sun Q, 2014 Flow simulation of virtual operations for total 
+cavopulmonary connection by bSCV (N=2)
+If anastomosis of SCVs are close together, the conduit from 
+ICV would be better connected under this anastomotic site
+Ridderbos FJ, 
+2015
+Adverse pulmonary vascular remodeling in the Fontan 
+circulation (N=12)
+Lung tissue analysis at autopsy showed specific pattern of 
+pulmonary vascular remodeling in Fontan patients
+Dodge-Khatami  
+A, 2016
+Primary extracardiac inferior cavopulmonary 
+connection (N=1)
+Description of surgical technique by patient unsuitable for 
+Glenn
+Dodge-Khatami  
+J, 2017
+Secondary Glenn after primary extracardiac inferior 
+cavopulmonary connection (N=1)
+Description of surgical technique
+El Midany AAH, 
+2017
+Off pump bilateral bidirectional Glenn (N=97) Technique is feasible and safe
+Schwartz MC, 
+2017
+SCV banding (N=2) Description of surgical technique. Limitation: feasible in 
+presence of bridging vein
+Nguyen TT, 2018 Unifocalization technique (N=2) Description of surgical technique
+Keizman E, 2019 Bidirectional bilateral Glenn (N=18) versus bidirectional 
+Glenn (N=80)
+Bilateral Glenn: higher early postoperative mortality and 
+Fontan failure
+Talwar S, 2019 Unifocalization technique (N=1) Description of surgical technique
+Ono M, 2020 Outcome after Fontan completion: bidirectional 
+bilateral Glenn (N=40) versus bidirectional Glenn 
+(N=365)
+Bilateral Glenn: longer ICU stay, lower survival rate. Discordant 
+relationship dominant SVC and ICV risk factor for worse 
+outcome
+Baek JS, 2021 Bidirectional Glenn with (N=92) or without (N=110) 
+additional pulsatile pulmonary blood
+Additional pulsatile pulmonary blood: larger pulmonary artery 
+size before Fontan, higher risk of death or transplant
+Imai K, 2021 Outcome and impact on Fontan completion of 
+bidirectional bilateral Glenn (N=62)
+79% Fontan completion but 8% SCV obstruction. Shape of 
+Glenn anastomosis does not affect outcome
+Shuler JM, 2021 Outcome and timing bidirectional bilateral Glenn 
+(N=70) versus bidirectional Glenn (N=481)
+Bilateral Glenn performed at <120 days of age: worse 
+outcome
+Javadi E, 2022 Flow simulation comparing T-shape and Y-graft 
+technique for total cavopulmonary connection (N=10)
+Y-graft showed a better hemodynamic performance by 
+computational fluid dynamic simulation
+Hut T, 2023 Virtual surgery to predict optimized conduit size in 
+Fontan with 16 mm conduit (N=5)
+Virtual conduit replacement decreases pressure gradient 
+across the total cavopulmonary connection
+Talwar S, 2023 Unifocalization technique (N=1) Description of surgical technique
+ICV, inferior caval vein; bSCV, bilateral superior caval vein; SCV, superior caval vein; ICU, intensive care unit.
+(APPBF) represented by pulmonary stenosis or banding or 
+by an aorto-pulmonary shunt can have positive effect on 
+the main pulmonary artery growth, either after unilateral 
+or bilateral Glenn (15-17). In fact, the pulsatility of the 
+pulmonary blood flow creates semi-normal circumferential 
+strain and shear stress, both known to be determinant 
+factors in vascular homeostasis, endothelial integrity, and 
+vessel remodeling (18-20). Therefore, pulsatile pulmonary 
+blood flow could promote the regular growth of the 
+pulmonary artery system and a preserved endothelial 
+integrity could counteract thrombus formation. However, 
+there is no consensus about the association between APPBF 
+and pulmonary artery growth: some studies have described 
+an improved main pulmonary artery growth in presence 
+of APPBF (15,16), whilst other studies have not detected 
+this finding (21,22). Moreover, a higher postoperative 
+complication rate has been reported in presence of APPBF , 
+especially longer chest tube drainage and higher incidence 
+[[p5]]
+Arrigoni and Ebels. Bilateral caval veins in single ventricle palliation818
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+of chylothorax (16-21,23). A Blalock-T aussig shunt as source 
+of additional pulmonary blood was associated with higher 
+early mortality suggesting a relation with the quantity 
+of APPBF (21). A recent study compared 110 patients  
+without APPBF with 92 patients with APPBF after Glenn 
+operation, including 43 patients after bilateral Glenn 
+operation, confirmed the advantages of APPBF in terms of 
+pulmonary artery size (23). Nevertheless, a sustained higher 
+risk of death or transplant has been registered in the APPBF 
+group and the incidence of events was prominent during 
+interstage period (between Glenn operation and Fontan 
+completion), making plausible the association with presence 
+or absence of APPBF . However, all of these reports are 
+non-randomized cohort studies, so that selection bias plays 
+a role.
+Contribution of computational fluid dynamics simulations 
+to assess surgical strategy
+Computational fluid dynamics simulations represent a 
+Figure 1 Surgical techniques for cavopulmonary anastomosis in presence of bSCVs. (A) Standard bilateral bidirectional Glenn with two 
+parallel anastomoses between each SCV and its ipsilateral pulmonary artery branch. (B,C) Modified bilateral Glenn techniques, respectively 
+V-shape (B) and Y-shape (C). In the V-shape the cavopulmonary anastomoses almost touch each other. In the Y-shape the SCVs are merged 
+to form a single combined vein with an end-to-side anastomosed to the pulmonary artery. (D,E) Cavo-caval anastomosis technique. One 
+SCV is end-to-side anastomosed on the other one: directly (D) or by means of an interposition graft (E). SCV R, right superior caval vein; 
+SCVL, left superior caval vein; RPA, right pulmonary artery; LPA, left pulmonary artery; SCV , superior caval vein; bSCV , bilateral superior 
+caval vein.
+(Bigger) (Bigger)
+(Smaller) (Smaller)
+Interposition
+graft
+Unifocalization
+V-shape Y-shape
+Standard bilateral Glenn
+LPA LPA
+LPALPA
+LPA
+RPA
+RPA
+RPA
+RPA
+RPA
+SCV
+SCV
+SCVR
+SCVR
+SCVL
+SCVL
+SCVLSCVR
+SCV
+SCV
+A
+B C
+D E
+[[p6]]
+Translational Pediatrics, Vol 13, No 5 May 2024 819
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+new technological opportunity: surgeons and engineering 
+team could create image-based models of operative results, 
+obtained from magnetic resonance imaging or angiographic 
+data. This “virtual surgery” has been used to predict the 
+hemodynamic performance in single ventricle patients with 
+or without bSCVs at time of bidirectional cavopulmonary 
+connection, at time of total cavopulmonary connection and 
+even at follow-up after Fontan completion (8,24-28).
+Amodeo and colleagues compared the computational 
+fluid dynamics simulations of modified bilateral Glenn 
+by means of a Y-shaped technique (performed in seven 
+patients) with the standard bilateral Glenn (8). The 
+standard bilateral Glenn showed an evident directionally 
+flow from each SCV towards the ipsilateral pulmonary 
+artery with weak perfusion between caval veins anastomosis. 
+Contrariwise, the Y-shaped showed symmetric and steady 
+bilateral flow and absence of recirculation zones in the 
+whole anastomosis.
+Conflicting findings have been reported in two studies 
+that analyze computational fluid dynamic simulation of total 
+cavopulmonary connection after a standard bilateral Glenn. 
+In fact, Sun and colleagues suggested that the connection 
+of the extracardiac conduit from the inferior caval vein to 
+the right pulmonary artery would be more favorable than a 
+connection between the SCVs anastomosis (24). Conversely, 
+the extracardiac conduit should be preferentially located 
+between the two SCVs anastomosis to minimize the 
+associated flow stasis of the main pulmonary artery, 
+according to the results of Zélicourt and colleagues (25). 
+It has to be mentioned that the simulation was performed 
+based on respectively two patients (24) and just one  
+patient (25) and no larger series of simulations have been 
+reported.
+Discussion
+The presence of bSCVs and their sizes plays an essential 
+role in the surgical strategies and in the clinical outcome 
+of patients with single ventricle. We will review the 
+evidence for three main issues which could be influenced 
+by the presence of bSCVs: diminished growth of the 
+central pulmonary artery, risk of thrombus formation and 
+incidence of Fontan completion. The limited growth of 
+the central portion of the pulmonary artery bifurcation 
+described by standard bilateral Glenn is almost certainly 
+related to limited blood flow to the ipsilateral lung with 
+consequent flow stagnation in the connecting portion. Size 
+discrepancy between caval veins and pulmonary artery 
+branches could even amplify the thrombotic complications. 
+Both unfavorable pulmonary artery growth and thrombotic 
+events in turn affect the eligibility for Fontan completion.
+Seven articles compared the results of the standard 
+bilateral Glenn with those of the bidirectional Glenn with 
+just one SCV , the “unilateral” anatomy (1-3,29-32). An 
+increased risk of postoperative pulmonary artery thrombus 
+formation (1,2) and an unfavorable growth in the central 
+pulmonary arteries (2) have been reported by the bilateral 
+subgroup.
+However, in two studies from Japan thrombus formation 
+and poor development in the central pulmonary artery 
+were not observed, for no stated reason (29,30). In these 
+studies, the standard postoperative therapy with Aspirin (29)  
+and the presence of additional source of pulmonary flow 
+in all patients (30) may have prevented these events. 
+Even an increased risk of SCV obstruction after bilateral 
+Glenn has been reported in two studies (1,30), although 
+this complication appeared not to be a risk factor for 
+mortality or Fontan completion. Shuler and colleagues 
+suggested to delay elective Glenn operation in presence of 
+bSCVs until at least 120 days of age to reduce the risk of 
+prolonged intensive care and hospital length of stay (31).  
+It seems logical to delay the operation to allow the 
+maximum growth of both SCVs and to perform the Glenn 
+operation with the largest obtainable size of both caval 
+veins. If the size of the SCVs would remain small and 
+unsuitable for a Glenn operation, a primary extracardiac 
+inferior cavopulmonary connection could be considered 
+and the timing of a secondary successive Glenn operation 
+could be assessed depending on the improving of SCVs 
+anatomy and size. This reverse order of Fontan completion, 
+also known as “Southern Glenn”, has been described in a 
+case of unfavorable upper-body systemic venous anatomy 
+and at follow-up the diminished SCV had grown making a 
+Glenn operation feasible (33,34). Therefore, the diminutive 
+SCV in small infancy, which may occur in presence of 
+bSCVs, may grow to normal size by childhood and the 
+“southern Glenn” could be a feasible approach to achieve 
+an acceptable size and anatomy for the “northern Glenn”.
+The reported rate of Fontan completion after bilateral 
+Glenn can vary from a range of 80–90% (29,30) to a 
+significantly lower percentage (39%) (2). Even when the 
+patients underwent completion of their Fontan circulation, 
+a previous bilateral Glenn can affect the postoperative 
+outcome after total cavopulmonary connection, as recently 
+published (32). In fact, the comparison between 365 patients 
+with a unilateral Glenn with 40 patients with a bilateral 
+[[p7]]
+Arrigoni and Ebels. Bilateral caval veins in single ventricle palliation820
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+Glenn showed a longer intensive care unit stay and a lower 
+survival rate in the bilateral group. The higher incidence of 
+late Fontan failure reported by Keizman et al. confirmed the 
+negative influence of bilateral Glenn even after the Fontan 
+completion (3).
+The modified bilateral Glenn with the creation of a 
+“new innominate vein” could allow decompression of the 
+SCVs and could be then helpful in case of small caliber of 
+SCVs (13). However, this technique does not improve the 
+flow distribution in the central portion of the pulmonary 
+artery and the Gore-T ex prosthesis could even represents an 
+additional source of thrombosis.
+Because of the unfavorable outcome of the standard 
+bilateral Glenn, alternative surgical techniques which could 
+guarantee a better pulmonary artery growth and prevent 
+thrombus formation have been designed: the modified 
+bilateral Glenn either with Y- or V-shape (6-8).
+b??RV?????f?
+group, 24 patients after modified V-shape technique 
+showed a better pulmonary artery growth at the pre-Fontan 
+completion study: higher central pulmonary artery index 
+and Nakata index. In both groups the small size of the SCVs 
+was predictor for re-intervention and thrombosis.
+From a technical point of view, it can be speculated that a 
+large ascending aorta could increase the divergence between 
+the caval veins and might compress the confluence of the 
+caval veins or the cavopulmonary anastomosis, representing 
+a potential contraindication to this approach. However, 
+Honjo et al.  performed 24 consecutive V-shape Glenn 
+between 1999 and 2007 and no anatomical contraindications 
+were described (6). Up to now, the potential influence of 
+the ascending aorta size on the surgical feasibility of this 
+technique has not been supported by the published data.
+A surgical technique with a different principle consists 
+in the cavo-caval anastomosis (9-12). The aim of this 
+technique is to create a configuration similar to that 
+one of the unilateral bidirectional Glenn by means of 
+an end-to-side anastomosis of one SCV with the other 
+one: one of the SCVs will work as an innominate vein. 
+This technique is feasible even in case of large distance 
+between the caval veins because a rolled pericardial graft 
+or a polytetrafluoroethylene graft can be used to connect 
+the SCVs (11,12). However, overall, only 13 cases of this 
+technique have been reported and the follow-up has not 
+been published yet.
+In presence of a connecting vein the banding and then 
+ligation of the smallest SCV could also be considered 
+and results in an almost usual unilateral Glenn (16). The 
+feasibility of this technique is by definition limited by 
+the presence of a connecting vein and the rate of eligible 
+patients is not known.
+Regardless of the surgical technique of choice, if allowed 
+by the anatomy, a source of APPBF could stimulate the 
+growth of the central pulmonary artery. In fact, pulsatile 
+pulmonary blood can influence the endothelium regulation 
+promoting the pulmonary artery growth, therefore 
+opposing against the flow stagnation of the central 
+pulmonary artery in case of standard bilateral Glenn. 
+Furthermore, APPBF can increase postoperative oxygen 
+saturation during the critical period of brain growth in 
+the infant (15-17,21). However, this benefit on pulmonary 
+artery size has not been always demonstrated and this 
+discrepant effect of APPBF on the pulmonary artery 
+growth could be related to different amount of APPB. The 
+amount of APPBF in the setting of a partial cavopulmonary 
+connection can be difficult to calibrate because of the lack 
+of measurement tools. Moreover, the increased amount 
+of pulmonary blood flow could determine an increase of 
+central venous pressure, which in turn could explain the 
+increased rate of postoperative chylothorax and prolonged 
+pleural effusion. The impact of APPBF on long-term 
+outcomes has been reported to be unfavorable in terms 
+of transplant-free survival and could be associated to the 
+progression of atrioventricular valve regurgitation and 
+ventricular dysfunction (23). In fact, the overload of the 
+single ventricle related to the APPBF could worsen valve 
+and ventricular function and should be accounted. The 
+quantification of the ideal amount of APPBF could allow to 
+benefit from the advantages of pulsatile pulmonary blood 
+in terms of pulmonary artery growth stimulation and to 
+minimize the “collateral damage” of postoperative and 
+long-term complications which are presumably related to 
+an excessive amount of it. The theoretical quantification 
+of additional pulmonary blood flow in the context of a 
+bidirectional cavopulmonary shunt formulated by Ebels 
+and colleagues can be applied in vivo  to assess the desired 
+level of APPBF (35). The perspective to predict the 
+hemodynamic performance and operative results by means 
+of image-based models and virtual surgery is encouraging 
+the application of computational fluid dynamics simulations 
+in single ventricle patients. Computational fluid dynamic 
+simulations have confirmed the more favorable flow 
+distribution of the modified bilateral Glenn with V-shape, 
+compared to the standard bilateral Glenn (8). However, 
+the limited number of patients (seven) of this study does 
+not allow to draw definitive conclusions and these results 
+[[p8]]
+Translational Pediatrics, Vol 13, No 5 May 2024 821
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+should be interpretated and accounted with their intrinsic 
+limitations. Similarly, the conflicting findings reported 
+in the computational fluid dynamic simulation of total 
+cavopulmonary connection after a standard bilateral Glenn 
+could derive from the extremely limited cohort of patients 
+and do not allow to identify the most favorable model. 
+Computational fluid dynamic simulations are a promising 
+tool to identify the best hemodynamical performing 
+strategy prior to surgery, especially in complex anatomical 
+connection by single ventricle, as in presence of bSCVs. 
+Further studies are needed to enlarge the cohort of patients 
+and acquire enough data to support stronger conclusions.
+Conclusions
+In the light of our findings a standard bilateral Glenn 
+operation could impede the normal growth of the connected 
+portion of the main pulmonary artery and a higher risk 
+of thrombus formation has been reported. These sequels 
+may interfere with the future Fontan completion. When 
+a standard bilateral Glenn is performed, postoperative 
+therapy with anti-platelet or anticoagulation drug could 
+be advisable to prevent thrombo-embolic complications 
+and whenever possible, it could be reasonable to postpone 
+this technique as long as is clinically feasible to decrease 
+postoperative morbidity and optimize SCVs size.
+The modified Glenn operations, V- or a Y-shape 
+anastomosis and the cavo-caval anastomosis should be 
+considered feasible alternative surgical techniques. Despite 
+the limited cohort of patients described and the lack of 
+the long-term results, these modified procedures should 
+be estimated counting the provided distribution of blood 
+flow to the pulmonary artery, which can promote a good-
+balanced growth of the pulmonary system.
+The benefit on pulmonary artery size of APPBF is 
+logically dependent on the quantity of flow. Excessive 
+APPBF can be associated with a higher rate of postoperative 
+complications and unfavorable long-term outcomes. 
+Therefore, a source of adjusted APPBF can be considered. 
+The amount of APPBF in vivo  could be quantified intra-
+operatively and its calibration is essential to maximize the 
+benefit and minimize the postoperative risks.
+Computational fluid dynamic simulations and virtual 
+surgery are promising tools and a progressive increase of 
+its application in complex single ventricle, as in presence of 
+bSCVs could be expected. The scientific merger of surgical 
+and engineering insights could strongly improve the 
+processing and analysis of the surgical strategy and should 
+be explored further.
+Acknowledgments
+Funding: None.
+Footnote
+Provenance and Peer Review:  This article was commissioned 
+by the Guest Editors (Antonio F . Corno & Ali Dodge-
+Khatami) for the column “Pediatric Heart” published in 
+Translational Pediatrics. The article has undergone external 
+peer review.
+Peer Review File:  Available at https://tp.amegroups.com/
+article/view/10.21037/tp-24-28/prf
+Conflicts of Interest: Both authors have completed the ICMJE 
+uniform disclosure form (available at https://tp.amegroups.
+com/article/view/10.21037/tp-24-28/coif ). The column 
+“Pediatric Heart” was commissioned by the editorial office 
+without any funding or sponsorship. The authors have no 
+other conflicts of interest to declare.
+Ethical Statement:  The authors are accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+appropriately investigated and resolved.
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+PM?e?siK?q?fkK?q?fq?iK??M?q??
+for life-threatening cavopulmonary thrombosis in patients 
+undergoing bidirectional superior cavopulmonary shunt: 
+an exploratory study. Am Heart J 1997;134:865-71.
+2. Iyer GK, Van Arsdell GS, Dicke FP , et al. Are bilateral 
+superior vena cavae a risk factor for single ventricle 
+palliation? Ann Thorac Surg 2000;70:711-6.
+[[p9]]
+Arrigoni and Ebels. Bilateral caval veins in single ventricle palliation822
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+3. Keizman E, T ejman-Yarden S, Mishali D, et al. The 
+Bilateral Bidirectional Glenn Operation as a Risk Factor 
+Prior to Fontan Completion in Complex Congenital Heart 
+Disease Patients. World J Pediatr Congenit Heart Surg 
+2019;10:174-81.
+4. El Midany AAH, Mostafa EA, Mansour SA, et al. Bilateral 
+bidirectional Glenn: outcome of off-pump technique. 
+Interact Cardiovasc Thorac Surg 2017;25:745-9.
+5. Luo XJ, Yan J, Wu QY, et al. Clinical application of 
+bidirectional Glenn shunt with off-pump technique. Asian 
+Cardiovasc Thorac Ann 2004;12:103-6.
+6. Honjo O, T ran KC, Hua Z, et al. Impact of evolving 
+strategy on clinical outcomes and central pulmonary 
+artery growth in patients with bilateral superior vena cava 
+undergoing a bilateral bidirectional cavopulmonary shunt. 
+J Thorac Cardiovasc Surg 2010;140:522-8, 528.e1.
+7. Amodeo A, Di Donato RM. The unifocal bilateral 
+bidirectional cavopulmonary anastomosis. Ann Thorac 
+Surg 2007;84:2134-5.
+8. Amodeo A, Grigioni M, Filippelli S, et al. Improved 
+management of systemic venous anomalies in a single 
+ventricle: New rationale. J Thorac Cardiovasc Surg 
+2009;138:1154-9.
+9. Nakanishi K, Kawasaki S, T akahashi K, et al. A new 
+technique for venous unifocalization of the bilateral 
+superior vena cava with the Glenn procedure. J Thorac 
+Cardiovasc Surg 2014;148:356-8.
+10. T alwar S, Yadav M, Choudhary SK. Unilateral 
+unidirectional superior cavopulmonary anastomosis in a 
+patient with bilateral superior caval veins and atretic left 
+pulmonary artery. Cardiol Y oung 2019;29:416-8.
+PPM?m?ss?K?k?ms?K?c?pgM?r?b?
+Anastomosis in Patients With Bilateral Superior Caval 
+Veins: Use of a Rolled Pericardial Graft to Create a 
+Single Caval Vein. World J Pediatr Congenit Heart Surg 
+2018;9:446-50.
+12. T alwar S, George N, Firdaus A, et al. Innominate vein 
+reconstruction in patients with bilateral superior vena cava 
+undergoing bilateral bidirectional superior cavopulmonary 
+anastomosis. Ann Pediatr Cardiol 2023;16:37-40.
+13. Vida VL, Leon-Wyss J, Garcia F , et al. A Gore-T ex 
+'new-innominate' vein: a surgical option for complicated 
+bilateral cavopulmonary shunts. Eur J Cardiothorac Surg 
+2006;29:112-3.
+14. Schwartz MC, Nykanen D, DeCampli W, et al. Superior 
+Vena Cava Banding to Facilitate Unilateral Bidirectional 
+Glenn Operation in Patients With Single Ventricle Heart 
+Disease and Bilateral Superior Caval Veins. World J 
+Pediatr Congenit Heart Surg 2017;8:215-9.
+15. Demirtürk OS, Güvener M, Coşkun I, et al. Results 
+of additional pulsatile pulmonary blood flow with 
+bidirectional glenn cavopulmonary anastomosis: positive 
+effect on main pulmonary artery growth and less need for 
+fontan conversion. Heart Surg Forum 2013;16:E30-4.
+16. Ferns SJ, El Zein C, Multani K, et al. Is additional 
+pulsatile pulmonary blood flow beneficial to patients 
+with bidirectional Glenn? J Thorac Cardiovasc Surg 
+2013;145:451-4.
+17. Frommelt MA, Frommelt PC, Berger S, et al. Does an 
+additional source of pulmonary blood flow alter outcome 
+after a bidirectional cavopulmonary shunt? Circulation 
+1995;92:II240-4.
+18. Ridderbos FJ, Wolff D, Timmer A, et al. Adverse 
+pulmonary vascular remodeling in the Fontan circulation. 
+J Heart Lung T ransplant 2015;34:404-13.
+19. Lévy M, Danel C, T amisier D, et al. Histomorphometric 
+analysis of pulmonary vessels in single ventricle for better 
+selection of patients for the Fontan operation. J Thorac 
+Cardiovasc Surg 2002;123:263-70.
+20. Maeda K, Yamaki S, Kado H, et al. Reevaluation of 
+histomorphometric analysis of lung tissue in decision 
+making for better patient selection for fontan-type 
+operations. Ann Thorac Surg 2004;78:1371-81; discussion 
+1371-81.
+21. Berdat PA, Belli E, Lacour-Gayet F , et al. Additional 
+pulmonary blood flow has no adverse effect on outcome 
+after bidirectional cavopulmonary anastomosis. Ann 
+Thorac Surg 2005;79:29-36; discussion 36-7.
+22. Gray RG, Altmann K, Mosca RS, et al. Persistent 
+antegrade pulmonary blood flow post-glenn does not alter 
+early post-Fontan outcomes in single-ventricle patients. 
+Ann Thorac Surg 2007;84:888-93; discussion 893.
+23. Baek JS, Park CS, Choi ES, et al. The impact of additional 
+antegrade pulmonary blood flow at bidirectional Glenn 
+shunt on long-term outcomes. J Thorac Cardiovasc Surg 
+2021;162:1346-1355.e4.
+24. Sun Q, Liu J, Qian Y, et al. Computational haemodynamic 
+analysis of patient-specific virtual operations for total 
+cavopulmonary connection with dual superior venae cavae. 
+Eur J Cardiothorac Surg 2014;45:564-9.
+25. de Zélicourt DA, Pekkan K, Parks J, et al. Flow study of an 
+extracardiac connection with persistent left superior vena 
+cava. J Thorac Cardiovasc Surg 2006;131:785-91.
+26. Amodeo A, Grigioni M, Oppido G, et al. The beneficial 
+vortex and best spatial arrangement in total extracardiac 
+cavopulmonary connection. J Thorac Cardiovasc Surg 
+[[p10]]
+Translational Pediatrics, Vol 13, No 5 May 2024 823
+© AME Publishing Company.   Transl Pediatr 2024;13(5):814-823 | https://dx.doi.org/10.21037/tp-24-28
+2002;124:471-8.
+27. Javadi E, Laudenschlager S, Kheyfets V , et al. Predicting 
+Hemodynamic Performance of Fontan Operation for 
+Glenn Physiology using Computational Fluid Dynamics: 
+T en Patient-specific Cases. J Clin Images Med Case Rep 
+2022;3:1916.
+28. Hut T , Roest A, Gaillard D, et al. Virtual surgery to 
+predict optimized conduit size for adult Fontan patients 
+with 16-mm conduits. Interdiscip Cardiovasc Thorac Surg 
+2023;37:ivad126.
+29. Ando Y, Fukae K, Hirayama K, et al. Impact of bilateral 
+superior venae cavae on outcome of staged Fontan 
+procedure. Ann Thorac Surg 2014;98:2187-93.
+30. Imai K, Hoashi T , Okuda N, et al. Impact of bilateral 
+bidirectional Glenn anastomosis on staged Fontan 
+strategy and Fontan circulation. Eur J Cardiothorac Surg 
+2021;60:930-8.
+31. Shuler JM, Statile C, Heydarian H, et al. Surgical Timing 
+and Outcomes of Unilateral Versus Bilateral Superior 
+Cavopulmonary Anastomosis: An Analysis of Pediatric 
+Heart Network Public Databases. Pediatr Cardiol 
+2021;42:662-7.
+32. Ono M, Burri M, Mayr B, et al. Flow Dynamics of 
+Bilateral Superior Cavopulomonary Shunts Influence 
+Outcomes After Fontan Completion. Pediatr Cardiol 
+2020;41:816-26.
+33. Dodge-Khatami A, Aggarwal A, T aylor MB, et al. When 
+the bi-directional Glenn is an unfavourable option: 
+primary extracardiac inferior cavopulmonary connection as 
+an alternative palliation. Cardiol Y oung 2016;26:1247-9.
+34. Dodge-Khatami J, Aggarwal A, T aylor MB, et al. Fontan 
+completion in reverse order out of necessity: secondary 
+Glenn after primary extracardiac inferior cavopulmonary 
+artery connection. Cardiol Y oung 2017;27:925-8.
+35. Ebels T , van Slooten YJ, Elzenga NJ, et al. Quantification 
+of ventricular volume load in the context of a bidirectional 
+cavopulmonary shunt: a theoretical treatise. Ann Thorac 
+Surg 2012;93:2022-7.
+Cite this article as:  Arrigoni SC, Ebels T . Bilateral 
+bidirectional cavopulmonary connection: a review of 
+surgical techniques and clinical implications. T ransl Pediatr 
+2024;13(5):814-823. doi: 10.21037/tp-24-28

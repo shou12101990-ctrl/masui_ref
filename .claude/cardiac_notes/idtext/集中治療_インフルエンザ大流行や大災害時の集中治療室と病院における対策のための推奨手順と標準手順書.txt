@@ -1,0 +1,4184 @@
+
+[[p1]]
+Recommendations and standard operating procedures for intensive care unit 
+and hospital preparations for an influenza epidemic or mass disaster.  
+Summary report of the European Society of Intensive Care Medicine's Task 
+Force for Intensive care unit triage during influenza epidemic or mass disaster.  
+
+ͱ
+ͷͨΊͷਪ঑खॱͱඪ४खॱॻ 
+
+ͰͷτϦΞʔδʹ
+ձλεΫϑΥʔεͷαϚϦʔϨϙʔτ 
+
+
+
+
+
+
+
+
+
+
+
+
+ཧҕһձ
+
+[[p2]]
+࣍
+ 
+ 
+第 1章 はじめに ····························································································· 1 
+  内野 博之  
+  東京医科大学 麻酔科学講座  
+ 
+第 2章 大規模集中治療に向けてのキャパシティー拡張とインフラ拡張の考慮 ·········· 13 
+  祖父江 和哉  
+  名古屋市立大学大学院医学研究科生体総合医療学麻酔・危機管理医学 
+ 
+第?R章?ユニット間の連携??·············································································?QT?
+  竹田 晋浩  
+  
+日本医科大学 麻酔科学教室・集中治療室  
+ 
+第 4章 人的資源  ························································································· 41 
+  遠藤 裕  
+  新潟大学医歯学総合病院 高次救命災害治療センター  
+ 
+第 5章 必要な医療機器、薬剤、物品  ······························································ 50 
+  貞広 智仁  
+  東京女子医科大学 八千代医療センター救急科・集中治療部  
+ 
+第 6章 パンデミック時の患者及びスタッフの保護  ··········································· 59 
+  鮎川 勝彦  
+  飯塚病院 救命救急センター  
+ 
+第 7章 重症患者治療のトリアージ  ································································· 71 
+  成松 英智  
+  札幌医科大学 救急医学講座  
+ 
+第 8章 医療処置  ························································································· 86 
+  西田 修  
+  藤田保健衛生大学医学部 麻酔・侵襲制御医学講座  
+ 
+第 9章 教 育     ························································································· 93 
+  川前 金幸  
+  山形大学医学部 麻酔科学講座  
+  
+[[p3]]
+1 
+̍ষ ͸͡Ίʹ
+ 
+内野 博之  
+  東京医科大学 麻酔科学講座  
+ 
+抄録 
+背景： 2007 年 12 月、 European Society of Intensive Care Medicine は、インフルエンザ流行時や集
+団災害時の集中治療室（ ICU ）の運営に関する標準業務手順（ SOP ）を策定するためのタスクフォー
+スを立ち上げた。  
+目的： インフルエンザ流行時や集団災害時の ICU の緊急状況下において、医療従事者にその準
+備および管理の指針を与え、行動を標準化し、医療チーム内の連携とコミュニケーションを促進する
+こと。  
+方法： 文献レビューおよびコンテンツエキスパートの協力に基づき、非常時の ICU の管理に不可欠
+なカテゴリーをリストアップした。 3 ラウンドの修正デルファイ・プロセスに基づき、各カテゴリーに対する
+同意を得た。第一著者が専門家グループとともに各カテゴリーの SOP の素案を作成した。  
+結果： デルファイ法により、非常時への備えとして、以下のトピックが特に重要であることが明らかとな
+った。すなわち、「トリアージ」、「インフラ」、「基本設備」、「人的資源」、「職員と患者の保護」、「医療
+処置」、「病院方針」、「インターフェースユニットとの連携・協力」、「登録と報告」、「運営方針」およ
+び「教育」である。  
+結論： SOP 案は、緊急時やパンデミック発生時における ICU の備えや対応のベンチマークとして役
+立てることができる。  
+ 
+キーワード  
+Recommendations （勧告）、 Standard operating procedures （標準業務手順書）、 Intensive care unit
+（集中治療室）、 Hospital （病院）、 H1N1 、Influenza epidemic （インフルエンザの流行）、 Pandemic
+（パンデミック）、 Disaster （災害）  
+ 
+2007 年 12 月、 European Society of Intensive Care Medicine は、Task Force for Intensive Care 
+Unit （ICU ）Triage during an Influenza Epidemic or Mass Disaster （インフルエンザ流行時または集
+団災害時の集中治療室（ ICU ）におけるトリアージのためのタスクフォース）を立ち上げ、勧告文書お
+よび標準業務手順（ SOP ）の策定を行った。タスクフォースの立ち上げとともに世界各地の集中治療、
+感染症／微生物学、肺疾患および看護業務に関わる学会に連絡を取り、参加者を募った。集中治
+療（ Society of Critical Care Medicine, Australia and New Zealand Intensive Care Societies, 
+Canadian Critical Care Society, American Thoracic Society, American College of Chest 
+Physicians, Chinese Critical Care Society, Colombia Intensive Care Society, Scottish Intensive 
+Care Society, Singapore Critical Care Society および  UK Intensive Care Society ）、感染症／微生
+物学（ European Society of Clinical Microbiology and Infectious Diseases, Infectious Diseases 
+Society of America, British Infection Society および  the French Infectious Disease Society ）およ
+[[p4]]
+2 
+び肺疾患（ French Respiratory Society ）の各学会の代表者は、当初からこのプロジェクトにかかわっ
+てきた。タスクフォースは、集中治療医学、微生物学／感染症、看護業務、疫学、公衆衛生、医用
+工学、倫理学の各専門家で構成される。発足にあたっての考えは、入院需要の増大を招くが、その
+需要を満たすことが難しいあらゆる災害に関連する勧告文書と標準業務手順（ SOP ）を作成すること
+であった。最終的な勧告内容と SOP に対する同意を得るために以下に示す手順を考案した。この
+手順はまだ完了していないが、今冬の北半球における重症 H1N1 パンデミック発生の可能性と、そ
+の発生によってもたらされる ICU 要員に対する需要を考量して、タスクフォースは勧告文書および
+SOP を現時点の内容で直ちに公表することにした。以下の章では、タスクフォースが策定した各主
+要トピックに関する勧告文書と SOP を、 H1N1 に関連する内容を中心に紹介する。また、勧告文書
+の要約がレビューのかたちで公表されている  [1] 。この情報は、他の病院領域や集団災害の発生
+時等、異なる種類の有事の際にも役立つはずである。文献レビューに使用された検索用語を付属
+文書 1 に示した。各著者の緊急時対応の現場経験に関する情報を付属文書 2 に示した。  
+H1N1 患者に関する予備的情報が次の通り公表されている。 H1N1 患者の約 8%が入院  [2, 3]
+（人口 10 万人あたり 23 人） [4] ／このうち 6.5 ～25% が ICU での処置を必要とする  [2, 4, 5] ／（住民
+100 万にあたり 28.7 人） [6] で中央値 7～12 日[6, 7] 、最大病床占有率は住民 100 万人あたり 6.3
+～10.6 床 [6] ／ICU 患者の 65～97% は機械的人工呼吸を要し  [3, 6-8] 、生存者の人工呼吸期間
+中央値は 7～15 日 [5, 7, 8] ／5～22% が腎代替療法を必要とする  [6, 7] ／28 日以内の ICU 死亡
+率は 14
+～40% [5, 7, 8] 。 
+ 
+標準業務手順（ SOP） 
+多くの国の医療従事者は、人為や自然による非常事態や災害に対処するための計画やプログラ
+ムの策定が必要であることを認識している  [9, 10] 。SOP は、組織内で実施すべき日常的または反
+復的な活動を示した一連の指示書である  [11] 。SOP はさまざまな非常事態を効率的に管理するう
+えでの基本となるものであり、職員が業務を適切に遂行し、一貫した行動を取るための指針を与える
+という点で、良好な品質システムの不可欠な一部をなしている  [10, 11] 。 
+院内 SOP は、非常事態の管理に必要な手続き、予防措置および設備について定めたものであり、
+病院が対策を立て、必要なインフラを整備し、医療チームの訓練を行うためのガイドラインやプロトコ
+ルを示す  [9, 12] 。事前の計画は、時間を節約し、連携した対応を促し、必要な行動の効率的な遂
+行に寄与するということが繰り返し証明されている  [13] 。 
+重要なのは、 SOP の存在自体は緊急時における人員や組織の効率的・効果的な機能を保証す
+るものではないという点である。 SOP を有効なものにするためには、これを定期的に更新するとともに、
+非常事態の管理責任者に SOP を有効活用する訓練を実施する必要がある  [14] 。本プロジェクトの
+目的は、インフルエンザ流行時または集団災害時の ICU の効果的な運営のための勧告文書および
+SOP を策定することであり、その内容は ICU に焦点を当てたものだが、 ICU だけでなく病院全体とし
+ても役立つものである。  
+ 
+[[p5]]
+3 
+SOP の目的  
+SOP は、医療従事者が非常事態を管理するうえでの指針を示したものである  [15] 。SOP は非常
+事態に対処するための最低限の行動基準を定めたものであり、 SOP を採用するすべての者にとって
+公正かつ公平な基準を示すことを目的としている  [16] 。SOP は、非常事態の管理活動の法的根拠
+を定め、非常時における監督当局と組織との関係を概説し、対応行動をいかに調整すべきかを説
+明している。 SOP は、生命保護のための具体的な緊急時行動－応急・復旧作業に投入可能な人
+員、設備、施設、資材、その他の資源の特定、脅威や被害を低減するための予防・対応措置の決
+定、緊急時対応能力の拡充と資源強化のための手順の説明－に関する組織および個人の役割分
+担を定めている  [13] 。SOP はさらに、職員に期待される行動や、業務遂行の評価基準を定め、活
+動の標準化や医療チームの連携・コミュニケーションの促進に寄与するものである  [17] 。 
+ 
+SOP の策定  
+SOP の策定は、以下の手順で実施された  [16, 18] 。まず文献レビューおよびコンテンツエキスパ
+ートの協力に基づき、 SOP の策定に必要なカテゴリーおよびサブカテゴリーをリストアップした。次にタ
+スクフォース・メンバーが修正デルファイ・プロセスに より、カテゴリーおよびサブカテゴリーに関する同
+意を得るとともに、各項目の重要性を評価した。タスクフォース・メンバーは、主要カテゴリーについて、
+賛成、反対、要修正、ならびに組み入れ項目として「必要不可欠である」、「重要である」、「重要で
+ない」の重要度評価により決議を行った。さらにタスクフォースに対して、緊急時への備えに影響を
+及ぼす可能性がありながら、見落とされていると考えられるカテゴリーを追加するよう要望が出された。
+各カテゴリーは、その重要度について評価者の 80% 以上が同意したものを「同意」が得られたものと
+みなし、研究項目として採用することを決定した。 80% 以上の同意が得られなかったカテゴリーは、タ
+スクフォース・メンバーに差し戻され、重要と評価できるよう修正するか、カテゴリーの対象から外すこ
+とが求められた。計 3 ラウンドのデルファイ法を実施し、第 3 ラウンド終了後に、緊急時への準備とし
+て、以下のカテゴリーが重要であるとの合意に達した。すなわち、「トリアージ」、「インフラ」、「基本設
+備」、「人的資源」、「職員と患者の保護」、「医療処置」、「病院方針」、「インターフェースユニットと
+の連携・協力」、「登録と報告」、「運営方針」および「教育」である。同意により SOP に組み入れるカ
+テゴリーおよびサブカテゴリーを決定したのち、各カテゴリーを第一著者および専門家グループに割
+り当て、カテゴリーごとに SOP の素案が作成された。続いて、タスクフォース・メンバーが素案内容の
+レビューと意見提示を行い、同意が得られた部分と同意に達しなかった部分を確認した。現在のとこ
+ろ、それぞれの章についてタスクフォース全体に対する組織的な調査は行われていない。各章の個
+別の内容について承認を得るため、同様の修正デルファイ法が実施されるであろう。「病院方針」、
+「登録と報告」および「運営方針」に関する章はまだ執筆されていないため、これらの章の要点は、現
+時点の章に組み入れた。章立ては、病院が災害や H1N1 パンデミックに備える際に取ると考えられる
+手順に沿った構成となっている。  
+ 
+結論 
+上記の SOP は、集団災害や疾病の発生に対する準備や管理の指針を提供するために策定され
+た。この指針は、各拠点施設で具体的なシステムやプロセスを策定する際に参照すべき枠組みとし
+[[p6]]
+4 
+て利用すべきである。したがって、医療現場で実際に活用する詳細なガイドラインについては、 SOP 、
+地域の現状認識、および直面する具体的な脅威に基づいて作成する必要がある。 H1N1 において
+も、有効なワクチンの普及状況やウイルスの変異、現時点では H1N1 ウイルスが感受性を示している
+ノイラミニダーゼ阻害薬等の抗ウイルス薬に対する耐性の出現等により、これまでの H1N1 データに
+基づく前提が変わる可能性がある  [6] 。既存のデータはすぐに新しくなるため、これを適切な対応や
+現場のガイドラインの変更に結びつけていかなければならない。このような変更が必要なのは、可能
+な限り迅速な準備が求められるためである。「 2009 年のインフルエンザ A 型（ H1N1 ）によるいかなる
+死も悲しむべきことだが、何よりも不幸なのは、不十分な計画や準備不足によってもたらされた死で
+あろう  [19] 」。  
+ 
+利益相反  該当なし  
+ 
+付属文書 1：文献レビューに使用された検索用語 
+PM?r???（標準業務手順書）－「?rno?」、「????
+management （非常事態管理のプロトコル）」、「 doctrines of emergency preparedness （非常時対
+策の基本原則）」、「 guidelines of emergency preparedness and response （非常時への備えと対
+応に関するガイドライン）」  
+2. Surge capacity （緊急時対応能力）－（「 surge capacity （緊急時対応能力）」と「 critical care （重
+症患者管理）」）、（「 surge capacity （緊急時対応能力）」と「 hospitals （病院）」）および（「 disaster 
+medicine （災害医療）」と「 critical care （重症患者管理）」）  
+3. Coordination and collaboration （連携および協力）－ A. キーワード「 coordination （連携）または
+collaboration （協力）」と「 outbreak （アウトブレーク）または pandemic （パンデミック）または  
+epidemic （流行）または  emergency （非常事態）」での AND 検索。 B. インターネット検索－
+「coordination （連携）」、「 collaboration （協力）」の各用語と「 outbreak （発生）」、「 pandemic （パン
+デミック）」、「 epidemic （流行）」、「 emergency （非常事態）」の各用語との組み合わせ。 C. レビュ
+ーを行ったホームページ－ World Health Organization （WHO) 、Centers for Disease Control and 
+Prevention （CDC ）、 Center for Health Protection [CHP （香港） ]、Hospital Authority [HA （香
+港） ]、US Department of Health and Human Services （HHS.gov および flu.gov ）、 Australian 
+Government Departme nt of Health and Ageing, Department of Health [DH （英国） ]、European 
+Centre for Disease Prevention and Control (EDDC) 
+4. Manpower （人的資源）－ PubMed 、Google 、Google scholar 、Bing および Yahoo で以下の検索
+用語を使用：  disaster （災害）、 disaster preparedness （災害への備え）、 disaster planning （災害
+対策）、 staff （職員）、 manpower （人的資源）、 altered standards of care （医療基準の変更）、
+staff shortage （人員の不足）、 pandemic influenza （インフルエンザ大流行）、 critical care （重症
+患者管理）、 incident command （緊急指令）、 ventilator stockpiling （人工呼吸器の備蓄）、
+vaccination （予防接種）、 mass vaccination （集団予防接種）、 antiviral administration （抗ウイル
+ス薬投与）さらに、以下の機関に直接問い合わせて探索を行った： US Department of Health and 
+Human Services (ASPR, BARDA), the Centers for Disease Control and Prevention, US 
+[[p7]]
+5 
+Department of Homeland Securi ty, California Department of Public Health, California 
+Emergency Medical Services Authority, Institute of Medicine, American College of Chest 
+Physicians, American Thoracic Society, the Society for Critical Care Medicine 
+5. Equipment, pharmaceuticals and supplies （設備、医薬品および物品）－ variations of equipment
+（各種設備）、 ventilators （人工呼吸器）、 pharmaceuticals （医薬品）、 drugs （薬剤）、 medications 
+and supplies with  intensive care （集中治療用薬剤・物品）、 critical care （重症患者管理）、
+disaster （災害）、 epidemic （流行）、 influenza （インフルエンザ）、 H1N1 
+6. Protection of patients and staff （患者および職員の保護）－本プロジェクト向けに使用した特定
+の検索方法はない。検索は以下を含む過去の委員会について実施した： critical disaster 
+planning （重大災害への対策）、 H5Nl staff protection （H5N1 からの職員の保護）、 SARS －
+protection for health care workers （医療従事者の保護）、 staff morale in SARS （SARS 対応の
+職員の士気）、 psychosocial care for health care staff （医療スタッフの心理社会的ケア）、
+personal protective equipment in a pandemic （PPE ）（パンデミック発生時の個人用保護具）、
+PPE in SARS （SARS 発生時の PPE ）、fit-testing for N95 respirators （N95 マスクのフィットテスト）、
+reducing airborne infection in hospitals （院内空気感染の低減）、 medico-legal implications of 
+pandemic （パンデミックの法医学的意味）、 implications of triaging in Hurricane Katrina （ハリケ
+ーン・カトリーナ発生時のトリアージの必要性）、 health care workers attitudes to working in a 
+pandemic （パンデミック発生時の医療従事者の業務への姿勢）  
+7. Critical Care triage （重症患者管理トリアージ）－本プロジェクト向けに使用した特定の検索方法
+はない。検索は過去の発表文献および委員会について実施した。  
+8. Medical procedures （医療処置）－ pandemic （パンデミック） , influenza （インフルエンザ）、
+procedures （処置、手順）、 SARS 、disaster planning （災害対策）、 intensive care （集中治療）  
+9. Educational process （教育プロセス）－ staff education （職員教育）、 pandemic influenza （インフ
+ルエンザ大流行）、 training
+（訓練）、 education （教育）、 preparation （準備）の各用語をさまざまな
+組み合わせで AND 検索。さらに SARS と staff education （職員教育）の AND 検索、 SARS と staff 
+training （職員訓練）の AND 検索（ CG- 「SARS 」と「 training （訓練）または in service training （実
+地訓練）」の AND 検索）を実施。  
+ 
+付属文書 2：緊急時対応に関する著者の現場経験 
+Charles Sprung －経歴： 多くの大量被害テロ事件で ICU 責任者を経験。対生物化学戦争の病院
+実習に参加。 発表文献： Shamir MY, Weiss YG, Willner D, Mintz Y et al. (2004) Multiple 
+casualty terror events: the anesthesiologist’s perspective （大量被害テロ事件：麻酔専門医の視
+点） . Anesth Analg 98: 1746-1752; Aschkenasy-Steue r G, Shamir M, Rivkind A et al. (2005) 
+Clinical review: the Israeli experience: conventional terrorism and critical care （臨床レビュー：イ
+スラエルの経験：従来型テロリズムと救命救急診療） . Crit Care 9: 490-499; Shamir MY, Rivkind A, 
+Weissman C, Sprung CL, Weiss YG (2005) C onventional terrorist bomb incidents and the 
+intensive care unit （従来型爆弾テロ事件と集中治療室） . Curr Opin Crit Care 11: 580-584; Pizov 
+R, Oppenheim-Eden A, Matot I et al. (1999). Blast lung injury from an explosion on a civilian bus
+[[p8]]
+6 
+（民間バス爆破による肺の爆風損傷） . Chest 115: 165-172. イスラエルの大量被害テロ事件では、
+行政関係者や歯科医も ICU のスタッフとして協力した。  
+ 
+Janice L. Zimmerman －
+経歴：  ヒューストンでハリケーン・カトリーナ被災後の医療提供に関する研
+修医の指導を担当。ハリケーン・アイク発生時の ICU の運営と人員配置を指揮。現在、 The 
+Methodist Hospital の H1N1 作業部会および  Emergency Management Work Group メンバー、なら
+びに Texas Department of State Health Services の Texas Pandemic Influenza Medical Ethics 
+Work Group メンバー。  
+ 
+Michael D. Christian －
+経歴： 救急医療隊員（パラメディック）として緊急指令訓練に参加して以降、
+20 年以上にわたり災害医療に従事。大小さまざまな非常事態に対応してきた。最近では、トロントで
+SARS の臨床対応にかかわったほか、調査研究チームへ参加。政府の災害・パンデミック対策では
+専門的・指導的役割を果たしてきた。学究面では、非常事態への備えや災害管理に関する研究や
+教育を積極的に行ってきた。
+発表文献： Christian MD, Poutanen SM, Loutfy MR, Muller MP, Low 
+DE (2004) Severe acute respiratory syndrome （重症急性呼吸器症候群） . Clin Infect Dis 38: 
+1420-1427; Christian MD, Kollek D,  Schwartz B (2005) Emergency preparedness: What every 
+healthcare worker needs to know （緊急時への備え：医療従事者が心得えておくべきこと） . CJEM 7: 
+330-337; Christian MD, Hawryluck L, Wax RS et al . (2006) Development of a triage protocol for 
+critical care during an influenza pandemic （インフルエンザ・パンデミック発生時の救命救急診療の
+ためのトリアージ・プロトコルの策定） . CMAJ 175: 1377-1381; Christian MD, Devereaux AV, 
+Dichter JR, Geiling JA, Rubinson L (2008) Definitive care for the critically ill during a disaster: 
+current capabilities and limitations: from a Task Force For Mass Critical Care summit meeting, 
+26-27 January 2007, Chicago, IL （災害時重篤患者の最終治療：現在の能力と限界：「集団救命救
+急のためのタスクフォース」首脳会議、 2007 年 1 月 26～27 日、イリノイ州シカゴ） . Chest 133 (5 
+Suppl): 8S-17S; Christian MD, Sandrock CE, De vereaux A, Geiling J, Amundson DE, Rubinson L 
+(2009) Ethical issues and the allocation of scar ce resources during a public health emergency （公
+衆衛生非常時の倫理的問題と寡少資源の配分） . Ann Intern Med 150: 890-891. 
+ 
+Gavin Joynt －
+経歴： 2003 年の香港での SARS 発生時に、 ICU （病床数 22）の管理責任者として 3
+ヵ月間で 70 余りの SARS 症例に対応するとともに、 Hospital Executive Crises Committee のメンバ
+ーを務める。また 2001 ～2005 年および 2003 年の香港での SARS 発生時に Central Operations 
+Committee, Hospital Authority 、（COC, HA ）メンバーを務める。 発表文献： Lee N, Hui D, Wu A et 
+al. (2003) A major outbreak of severe acute respiratory syndrome in Hong Kong （香港における重
+症急性呼吸器症候群の大流行） . N Engl J Med 348: 1986-1994; Gomersall CD, Joynt GM, Ho 
+OM, Ip M, Yap F, Derrick JL, Leung P (2006) Tran smission of SARS to h ealthcare workers. The 
+experience of a Hong Kong ICU （医療従事者の SARS 感染・香港のある ICU の経験） . Intensive 
+Care Med 32: 564-569; Gomersall CD, Tai DY, Loo S et al. (2006) Expanding ICU facilities in an 
+epidemic: recommendations based on experience from the SARS  epidemic in Hong Kong and 
+[[p9]]
+7 
+Singapore （流行発生時の ICU 施設の拡充：香港およびシンガポールにおける SARS 流行の経験に
+基づく提言） . Intensive Care Med 32: 1004-1013; Gruber PC, Gomersall CD, Joynt GM (2006) 
+Avian influenza (H5Nl): implications for intensive care （鳥インフルエンザ（ H5N1 ）：集中治療への
+影響） . Intensive Care Med 32:823-829; Gomersall CD, Loo S, Joynt GM, Taylor BL (2007) 
+Pandemic preparedness （パンデミック対策） . Curr Opin Crit Care 13: 742-747. 
+ 
+John Hick －
+経歴： (1) Agency for Healthcare Research and Quality （AHRQ ）の寡少資源による集
+団医療に関する作業部会、 American College of Chest Physicians （ACCP ）の Emergency Mass 
+Critical Care （緊急時集団救命救急 ; EMCC ）に関する作業部会、および Institute of Medicine の
+Committee on Guideline for Establishing Standards for Care for use in Disaster Situations （災害
+時医療基準策定の指針に関する委員会）のメンバーを歴任。 (2) それまでの経験をもとに病院の緊
+急時対応能力に関する文献を広く発表するとともに、寡少資源問題に関する Health and Human 
+Services （HHS ）の顧問を務める。個別の活動としては、 35W 橋崩落事故、 2008 年共和党全国大会、
+2009 年に発生した H1N1 への対応のほか、ハリケーン・カトリーナ発生時・発生後に HHS にコンサ
+ルティング業務を提供した。 発表文献： Hick JL, Danila R (2001) Health care planning for 
+chemical and biologic terrorism （化学・バイオテロ医療対策） . Minn Med 84: 34-40; Hick JL, 
+Hanfling D, Burstein JL, Markham J, Barbera J, Mcintyre AG (2003) Personal protective 
+equipment for healthcare faci lity decontamination personne l: regulations, risks, and 
+recommendations （医療施設除染作業員のための個人用保護具：規制、リスクおよび提言） . Ann 
+Emerg Med 42: 370-380; Hick JL, Penn P, Hanfli ng D, Lappe MA, O’laughlin D, Burstein JL 
+(2003) Establishing and training health care facility decontamination teams （医療施設除染チーム
+の設置と訓練） . Ann Emerg Med 42: 381-390; Hick JL, Hanfling D, Burstein JL, DeAtely C, 
+Barbisch D, Bogdan G, Cantrill S (2004) Healthcare facility and community strategies for patient 
+care surge capacity （患者ケアの緊急時対応能力に関する医療施設および地域の対策） . Ann 
+Emerg Med 44: 253-261; Hick JL, O’Laughlin DT (2006) Concept of operations for triage of 
+mechanical ventilation in an epidemic （流行発生時の人工呼吸トリアージの運用コンセプト） . Acad 
+Emerg Med 13: 223-244; Hick JL, Rubinson L, O’Laughlin DT, Farmer JC (2007) Clinical 
+review: allocating ventilators during large-scal e disasters: problems, planning, and process （臨床
+レビュー：大規模災害時の人口呼吸器の割り当て：問題、計画およびプロセス） . Crit Care 11: 217 
+(e-published June 11 、2007); Devereaux AV, Dichter JR, Christian MD et al. (2008) Definitive 
+care for the critically ill during a disaster: a framew ork for allocation of scarce resources in mass 
+critical care: from a Task Force for Mass Cr itical Care summit meeting, 26- 27 January 2007, 
+Chicago, IL （災害時重篤患者の最終治療：集団救命救急における寡少資源配分のための枠組
+み：「集団救命救急のためのタスクフォース」首脳会議、 2007 年 1 月 26～27 日、イリノイ州シカゴ） . 
+Chest l33: 51S-66S; Rubinson L, Hick JL, Curtis  JR et al. (2007) Task Force for Mass Critical 
+Care. Definitive care for the critically ill during a disaster: medical resources for surge capacity: 
+from a Task Force for Mass Critical Care summit meeting, 26-27 January 2007, Chicago, IL （災害
+時重篤患者の最終治療：緊急時対応能力向上のための医療要員：「集団救命救急のためのタスク
+[[p10]]
+8 
+フォース」首脳会議、 2007 年 1 月 26～27 日、イリノイ州シカゴ） . Chest l33 (5 Suppl): 32S-50S; 
+Rubinson L, Hick JL, Hanfling DG et al. (2008) Task Force for Mass Critical Care. Definitive 
+care for the critically ill during a disaster: a framework for optimizing critical care surge 
+capacity: from a Task Force for Mass Critical Care summit meeting, 26-27 January 2007, Chicago, 
+IL（災害時重篤患者の最終治療：救命救急診療・緊急時対応能力最適化のための枠組み：「集団
+救命救急のためのタスクフォース」首脳会議、 2007 年 1 月 26～27 日、イリノイ州シカゴ） . Chest: l33: 
+18S-31S; Hick JL, Chipman J, Loppnow F et al . (2008). Hospital respons e to a major freeway 
+bridge collapse （主要高速道路橋崩落事故の病院対応） . Disaster Med Public Health Prep 2: 
+S11-S16; Hick JL, Ho JD, Heegaard WG, Brunette DD, Lapine A, Ward T,  Clinton JE (2008) 
+Emergency medical services response to a major freeway bridge collapse （主要高速道路橋崩落
+事故における緊急医療活動） . Disaster Med Public Health Prep 2: S17-S24; Hick JL, Koenig KL, 
+Barbisch D, Bey TA (2008) Surge capacity concepts for health care facilities: the CO-S-TR model 
+for initial incident assessment （医療施設のための緊急時対応能力の考え方：初期事象評価のた
+めの CO-S-TR モデル） . Disaster Med Public Health Prep 2:  S51-S57; Hick JL, Barbera JA, Kelen 
+GB(2009) Refining surge capacity: conventi onal, contingency and crisis capacity （緊急時対応能
+力の細分化：従来型能力、有事能力および重大局面能力） . Disaster Med Publ ic Health Prep. 
+(e-published ahead of print April 6, 2009 as doi:10.1097/DMP 。0b013e31 819f1ae2, print June 
+2009) 。 
+ 
+Bruce Taylor －
+経歴： (1) 英国 Department of Health (DH) の Critical Care Contingency Planning 
+Group の議長として能力の拡充および救命救急診療による感染コントロールに関するガイドライン
+（DH ホームページに掲載）を策定した（ 2005 ～2007 年）ほか、 DH の Pandemic Influenza Planning 
+Groups に対し救命救急診療に関する助言を行う（ 2005 ～2009 年）。 (2) H1N1 発生以降、 DH の観
+測データ収集グループ（ FLU-CIN ）、 Pandemic Influenza Clinical and Operational Advisory Group
+および Swine Flu Critical Care Clinical Group の活動に従事し、優先度の高い臨床対応の責務を
+担う。 (3) 救命救急診療業務、小児集中治療、小児集中治療業務の拡充、および H1N1 感染患
+者（成人、小児、妊娠女性）の二次医療に関する H1N1 全国臨床ガイダンスの策定に貢献。また既
+存サービスの維持・拡充のため、 Support for NHS Staff Working in Exceptional Circumstances を
+作成した（ www.ics.ac.uk に掲載）。 Guy Richards －経歴： Johannesburg 病院の ICU/HCU （病床
+数 18）部門責任者。これまでに H1N1 、エボラ出血熱およびラッサ熱の対応に直接的にあたった。 発
+表文献：  Richards GA (2007) Avian influenza: the looming threat （鳥インフルエンザ：迫りくる脅
+威） . Clin Pulm Med 14: 212-216; Richards GA ( 2006) Avian influenza: preparation not panic （鳥
+インフルエンザ：パニックにならずに準備を） . Prim Care Respir J 15 (4): 217- 218; Richards GA 
+(2006) The threat of a new influenza pandemic: are we doing enough? （新型インフルエンザ・パン
+デミックの脅威：対策は十分か）  S Afr Med J 96: 195-196; Pawesk a JT, Sewlall NH, Ksiazek TG 
+et al. (2009) Nosocomial outbreak of novel arenavirus infection, Southern Africa （南アフリカにお
+ける新型アレナウイルスの院内感染）  Emerg Infect Dis 15: 1598-1602;  Richards GA, Murphy S, 
+Jobson R 、 Mer et al 。 (2000) Unexpected Ebola virus in a tertiary setting:  clinical and 
+[[p11]]
+9 
+epidemiologic aspects （第 3 次施設でのエボラウイルスの予期せぬ発生：臨床的・疫学的側面） . 
+Crit Care Med 28: 240-244; Richar ds GA, Sewlall NH, Duse A (2009) Availability of drugs for 
+formidable communicable diseases （恐るべき伝染病に対する薬剤供給） . Lancet 373: 545- 546. 
+ 
+Christian Sandrock －
+経歴： (1) 感染症、肺疾患、救命医療を専門とする医師。主な研究分野は、
+災害への備え、新興感染症、テロその他の公衆衛生への脅威。 (2) California Preparedness 
+Education Network （保健福祉政府助成プログラム）のメディカルディレクターとして、カリフォルニア
+州の主に農村部、辺境部、スラム地区、その他サービスの行き届いていない地域の医療提供者向
+けに教育ツールの開発を行う。 (3) カリフォルニア州 Hospital Bioterrorism Preparedness Program
+のメディカルディレクターを経て、現在は同州 Emergency Medical Services Authority のメディカルア
+ドバイザーを担当。米国の Centers for Disease Control and Prevention 、カリフォルニア州の
+Hospital Bioterrorism Preparedness Program のほか、さまざまな国土安全プロジェクトに専門知識を
+提供している。 (4) 遠隔医療や救命救急診療基準を活用した災害発生時の対応能力の増強につ
+いて評価を行う 500 万ドルの助成プログラム Emergency Care Pa rtnership Program の主任研究員を
+務める。 (5) California 大学 Davis 校の集中治療室責任者として、数々の H1N1 対策（治療基準の
+変更、人員調整、集団予防接種、人工呼吸器の備蓄・計画等）を実施。 (6) American Thoracic 
+Society 災害部門共同リーダー等、さまざまな専門家団体や連邦災害準備活動に関与。カリフォル
+ニア州や米国西部での災害対応のほか、過去 10 年間にわたりアフリカで救援活動を行ってきた。  
+ 
+Robert Cohen －
+経歴： (1) 最近まで Hebrew 大学医学部  Center for Medical Education の学部長
+を務める。現在は、イスラエル Ministry of Health の Emergency Medicine Division 上級教育顧問と
+して、病院の集団災害対策に関する評価ツールの開発に従事。 (2) 現在 Tel Hashomer Hospital
+の Israel National Center for Trauma  & Emergency Medicine Research 上級研究員でもある。 (3) 
+Magen David Adom の Operations Division と協力し、救急医療技師（ EMT ）の継続教育プログラム
+の改善に取り組む。 (4) EMT に対する教育的介入、知識テスト、業務評価の実効性に関する評価
+プログラムを開発。 (5) 東欧、バルカン諸国およびイタリアの医師を対象とした災害・集団被害対策
+に関する WHO およびイスラエル Ministry of Health Em ergency Health Division の教育コースの開
+発に参画。  
+ 
+Bruria Adini －
+経歴： (1) イスラエル国防軍（ IDF ）の Medical Corps （医療部隊）に 17 年間所属し、
+最後の 4 年間は救急入院部門の部長を務める（全国の救急総合病院の緊急時対策の責任者）。
+(2) イスラエル Ministry of Health の Emergency Hospitalization and Alert Department 部長を 3 年
+間務める。 (3) 2000 年より Ministry of Health の緊急時医療システムの整備に関する上級顧問を担
+当。 (4) 現在、イスラエル・ネゲブの Ben-Gurion 大学 Emergency Medicine Department 講師。 1987
+年より災害・集団被害への対応を目的とした医療システムの緊急時対策を専門に研究している。さ
+まざまな非常事態や有事に備えた国のオペレーションドクトリン、 SOP 、プロトコルの発出や、医療従
+事者の管理や人材運用、シミュレーション訓練等の指導用教材を始めとする訓練プログラムの開
+発・導入に幅広い経験をもつ。 (5) 非常時への準備に関する評価ツールや、イスラエルおよび諸外
+[[p12]]
+10 
+国出身の職員を対象とした緊急時対策の整備・改善に関する訓練ツールを開発。 (6) 医療システ
+ムの管理に関する PhD を取得。論文のテーマは、救急医療病院の非常事態・災害への対策状況
+に関する評価ツールの開発。 発表文献： Adini B, Goldberg A, Cohen R, Bar-Dayan Y (2008) 
+Relationships between standards of procedures (S OPs) for pandemic flu and level of performance 
+in drill （汎発性インフルエンザ対応の標準業務手順（ SOP ）と模擬訓練の技量レベルとの関係） . 
+Ann Emerg Med 52: 223-229; Adini B, Goldberg A, Laor D, Cohen R, Bar-Dayan Y (2007) 
+Factors that may influence the preparation of  standards of procedures for dealing with 
+mass-casualty incidents （集団被害発生時の標準業務手順の作成に影響を与える要因） . Prehosp 
+Disaster Med 22: 175-180; Adini B, Goldberg A, Laor D, Cohe n R, Bar-Dayan Y (2007) Staff 
+procedure skills in management groups during exercises in disaster medicine （災害医療訓練にお
+ける管理グループメンバーの業務遂行能力）。（エディトリアル・レビュー） Prehosp Disaster Med 22: 
+322- 324; Adini B, Goldberg A, Laor D, Cohen R, Zadok R, Bar-Dayan Y (2006) Assessing levels 
+of hospital preparedness for emergencies （非常時への病院の準備状況の評価） . Prehosp Disaster 
+Med 21: 451-457. 
+ 
+Shi Loo －
+経歴： (1) 2003 年の SARS 発生時にシンガポールの SARS 治療指定病院内の National 
+SARS ICU で ICU 業務の責任者を務める。 (2) シンガポール Tan Tock Seng Hospital の ICU 
+Services during Epidemics の責任者を務める。 (3) シンガポール Ministry of Health の National 
+Workgroup for ICU Response in Epidemics 委員長。  
+ 
+Gila Margalit －
+経歴： (1) Sheba Medical Center の Mass Casualty Planning 担当主任看護師。 (2) 
+Hospital Preparedness for Emergency Scenarios 部門の責任者としてイスラエル全土の総合病院の
+対策を担当。?GRH?g`yl`s?（危険物）、集団被害、放射線、生物化学戦争を想定した?VT?をこえる院
+内訓練を実施。 (4) Israeli Field Hospital 主任看護師。 1999 年のトルコ震災時に救助隊に参加。
+発表文献： Margalit G, Rosen Y, Tekes-Manova D et al. (2002) Recommendation for nursing 
+requirements at a field hospital ba sed on the Israel Defense Forces field hospital at the earthquake 
+disaster in Turkey ―August 1999 （トルコ震災時（ 1999 年 8 月）のイスラエル国防軍野戦病院の経験
+に基づく野戦病院の看護対応に関する提言） . Accid Emerg Nurs 10: 217-220. 
+ 
+Jozef Kesecioglu －
+経歴： (1) Utrecht 大学 Medical Center 集学的集中治療部門（病床数 32）部長。
+同部門は、新興感染症や、ワクチン接種による感染症予防、毒物や放射線被曝による危険に関す
+る研究および情報提供機関である National Institute for Public Health and the Environment と提携
+している。
+発表文献： de Jonge E, Schultz MJ, Spanjaard L,  Bossuyt PM, Vroom MB, Dankert J, 
+Kesecioglu J (2003). Effects of  selective decontamination of digestive tract on mortality and 
+acquisition of resistant bacteria in inte nsive care: a randomised controlled trial （集中治療におけ
+る選択的消化管除菌の死亡率および耐性菌獲得への影響：無作為化比較対照試験） . Lancet 
+362: 1011-1016; Verbrugge SJ, Lachmann B, Kesecioglu J (2007) Lung protective ventilatory 
+strategies in acute lung injury and acute respiratory distress syndrome: from experimental 
+[[p13]]
+11 
+findings to clinical application （急性肺損傷および急性呼吸窮迫症候群に対する急性肺保護人
+工呼吸法：試験結果から臨床応用へ） . Clin Physiol Funct Imaging.  27: 67-90; Kesecioglu J, 
+Beale R, Stewart TE, Findlay GP, Rouby JJ, Hol zapfel L, Bruins P, Steenken EJ, Jeppesen OK, 
+Lachmann B (2009) Exogenous natural surfactant for treatment of acute lung injury and the acute 
+respiratory distress syndrome （外因性天然界面活性剤による急性肺損傷および急性呼吸窮迫症
+候群の治療） . Am J Respir Crit Ca re Med 180: 989-994. 
+ 
+John R. Colvin －
+経歴： (1) 英国 Departments of Health の Committee on Ethical Aspects of 
+Pandemic Influenza 救命救急診療部門代表。 (2) スコットランド政府の汎発性インフルエンザ対策と
+して、能力強化、優先順位付けプランおよびトリアージ体制策定を共同コーディネートする Scottish 
+Critical Care Delivery Group の議長を務める。 (3) 英国 Departments of Health の報告書
+「Pandemic influenza ―Managing Demand and Capacity in H ealth Care Organi sations (surge) （汎
+発性インフルエンザ－医療機関の需要と対応能力の管理（サージ）」の救命救急診療分野共同著
+者。 (4) 英国 Departments of Health の Swine Flu Critical Care Clinical Group および膜型人工肺
+（ECMO ）の提供に関するサブグループ・メンバー。 (5) Regional Health Board の救命救急診療リー
+ダーとして、地域の汎発性インフルエンザの有事企画を担当。 (6) 集中治療医学の顧問として、
+H1N1 患者に救命救急診療を提供。  
+ 
+References 
+?PM?r?bkK?y?ikK?b?lc???GQOOXH?n????d?r??
+Intensive Care Medicine's Task Force for intensive care unit triage during an influenza epidemic 
+or mass disaster. 
+Recommendations for intensive care unit and hosp ital preparations for an influenza epidemic or 
+mass disaster. Summary report of the European Society of Intensive Care Medicine's Task Force 
+for intensive care unit triage during an influenza epidemic or mass disaster. Intensive Care Med 
+(in press) 
+ 2. Jain S, Kamimoto L, Bramley AM et al (2009) Pandemic Influenza A (H1N1) Virus 
+Hospitalizations Investigation Team (2009) Hospitalized patients with 2009 H1N1 influenza in 
+the United States, April- June 2009. N Engl J Med 361:1935- 1944 
+ 3. Echevarria-Zuno S, Mejfa-Arangure JM, Mar-Obe so AJ et al (2009) Infection and death from 
+influenza A HINI virus in Mexico: a retrospective analysis. Lancet 374:2072-2079 
+ 4. Bishop JF, Murnane MP, Owen R (2009) Australia's Winter with the 2009 pandemic influenza A 
+(HINl) virus. N Engl J Med 361:2591- 2594 
+ 5. Dommguez-Cherit G, Lapinsky SE, Macias AE et al (2009) Critically ill patients with 2009 
+influenza A(H1Nl) in Mexico. JAMA 302(17):1880-1887 
+ 6. The ANZIC Influenza Investigators (2009) Cr itical Care Services and 2009 HIN1 influenza in 
+Australia and New Zealand. N Engl J Med 361:1925-1934 
+[[p14]]
+12 
+ 7. Rello J, Rodriguez A, Ibanez P et al (2009) In tensive care adult patients with severe respiratory 
+failure caused by Influenza A (H1N1)v in Spain. Crit Care 13:R148. doi:1O.1186/cc8044 
+ 8. Kumar A, Zarychanski R, Pinto R et al (2009) Canadian Critical Care Trials Group HINI 
+Collaborative. Critically ill patients with 2009 influenza A(HIN1) infection in Canada. JAMA 
+302(17):1872- 1879 
+ 9. Joint Commission on Accreditation of Healthcare Organization (2009) Accreditation Program: 
+Hospital. Pre-publication version. Available at: http://www.canainc.org/compendiurn/ 
+pdfs/D%201. %20JC% 20Standards%202010.pdf 
+10. Simon R, Teperman S (2001) The Wodd Trade Center Attack. Lessons for disaster management. 
+Crit Care 5:318-320 
+11. Quarentelli EL (1985) Organizational behavior in disasters and implications for disaster planning. 
+Disaster Research Center, Univer sity of Delaware, Newark, DE 1985 
+12. Davis LM, Blanchard JC Are local health responders ready for biological and chemical 
+telTorism? Available at: http://www.rand. org/pubs/issue_papers/ IP221/index2.htm 
+13. Barbera JA, Yeatts DJ, Macintyre AG (2009) Challenge of hospital emergency preparedness: 
+analysis and recommendations. Disaster Med Public Health Prep 3(2 Suppl):S74-S82 
+14. Western Australia (2008) State Emergency Manage ment Plan for the management of emergencies 
+associated with a structural collapse. Available at: 
+http://www.bing.com/search?q=7.6.%09Western+A ustralia + %282008%29.+ State+ Emergency 
++ Management + Plan + for+the+ management + of + emergencies + associated + with + a + 
+structural + collapse&src = IE-SearchBox&FORM=IE8SRC 
+15. Emergency Management Accreditation Program (2007) Emergency management standard. 
+Available at: http://www.oregonemergency.com/ docs/principles_of_em.pdf 
+16. Federal Emergency Management Agency ( 1999) Developing effective standard operating 
+procedures. Available at: http://www.usfa.dhs .gov/downloads/ pdf/publications/fa -197.pdf 
+17. Adini B, Goldberg A, Cohen R, BarDayan Y (2008) Relationships between standards of 
+procedures (SOPs) for pandemic flu and level of performance in drill. Ann Emerg Med 52(3):223- 
+229 
+18. Pill J (1971) The Delphi method: substance, co ntext, a critique and an annotated bibliography. 
+Socioecon Plann Sci 5:57- 71 
+19. White DB, Angus DC (2009) Preparing for the sickest patients with 2009 influenza A (HINl). 
+JAMA. doi: 10.100I/jama.2009.1539 
+ 
+  
+[[p15]]
+13 
+ྀ
+ 
+祖父江 和哉  
+  名古屋市立大学大学院医学研究科生体総合医療学麻酔・危機管理医学  
+ 
+要約 
+目的： 大規模災害あるいはインフルエンザ流行に対する準備に関して、一時的キャパシティー拡張
+とインフラ拡張の考慮に焦点をあてて、 ICU と病院に対して勧告と標準業務プロトコール（ SOP ）を示
+すこと。  
+方法： 文献調査と専門家の意見をもとに、一時的キャパシティー拡張とインフラ拡張の考慮に関す
+る重要なトピックスをデルファイ法により定義した。  
+結果 ：重要な勧告  
+（1） 病院は、 ICU キャパシティー拡張と ICU を他のエリアへ拡張することにより、 ICU ベッドを最大限
+まで増加すべきである。  
+（2） 病院は、これらの拡張エリアに用いる適正数のベッドとモニタ装置を備えておくべきである；施設
+および行政（地域、州、県、国）レベルで人工呼吸器を追加供給するための不測事態対応計画
+を検討すべきである。  
+（3） 十分な患者管理を提供するため、不測事態や危機的状況における拡張 ICU の段階的スタッフ
+（看護師、医師）配置計画を検討すべきである。  
+（4） 病院は、実際の危機対応中と同様に計画中においても、専門家を危機管理人事担当部門へ
+登用すべきである。  
+（5） 病院は、集中治療活動をサポートするのに十分なインフラの存在を保障すべきである。  
+（6） 病院は、 postanesthesia care unit や救急部門を使って現存の集中治療部門を拡張し、その後、
+stepdown unit や large procedure suite 、telemetry unit 、そして最終的には全病棟へと拡張して
+いくことで、拡張場所の優先順位を決めるべきである。  
+結論： パンデミックにおける成果を最大限にするためには、一時的キャパシティー拡張とインフラ拡張
+に関する十分に検討された計画とプロトコールの採用が必要である。  
+ 
+キーワード 
+一時的キャパシティー拡大・勧告・標準業務プロトコール・集中治療室・病院・ H1N1 ・インフルエン
+ザ流行・パンデミック・災害  
+ 
+緒言 
+MCE のタイプが、病院への要求を決定づける主な要因である。 2009 年の H1N1 インフルエンザ流
+行では、 ICU サービスに対する影響に相当大きなばらつきがあった。オーストラリアとニュージーラン
+ドでは、 H1N1 のピーク時に ICU ベッドの 9～19% を H1N1 患者が占拠した程度であったが [1] 、メキ
+シコでは ICU 業務は破綻し、多くの患者が ICU 外での人工呼吸を余儀なくされた [2] 。 
+ 
+[[p16]]
+14 
+PM?目的：パンデミックあるいは??に対応する集中治療インフラの拡張への段階的アプローチ
+について解説すること。この段階的アプローチは、どのような規模のイベントに対しても、また突然
+のイベント（例えば爆弾爆発）や緩やかに進行するイベント（例えばインフルエンザパンデミック）の
+どちらに対しても使用されるべきである。  
+2. 対象範囲：事例や一般的な勧告を参考に、 Central system （例えば酸素）のキャパシティー拡張
+にも考慮した、 ICU と隔離エリアの拡張に関するひな型を提供する。最近の推奨では、パンデミッ
+クや壊滅的 disaster の際には少なくとも 300% のキャパシティー拡張を病院に求めている [3] 。この
+ようなスペースやサービスの拡張は、十分な事前の計画・準備がなければ成し遂げられない。病
+院は自身のキャパシティーや能力を把握すべきである。具体的な問題点（例えば使用できる人
+工呼吸器の不足）を明確にし、これらの不足を緩和する供給源（国家の備蓄、病院の貯蔵）、キ
+ャパシティー向上に外部のリソースを受け入れる戦略を講じることが、成功のためには極めて重要
+である。本文は各病院におけるオペレーション計画の詳細を述べることはできないが、集中治療
+の一時的なキャパシティー拡張が必要なイベントの際に、取り組むべき重要な問題点の全体像を
+簡潔に示すのが目的である。病院は、病院のサイズ、地域社会における役割、地域社会で認識
+されている危険に見合った固有の計画を作成すべきである。病院は、キャパシティー拡張の枠組  
+[4、5]や危機的な状況の患者ケアの決定の枠組  [6 、7]に関する最近の文献を参照するとよい。  
+3. 目的と目標
+：ひな型を用いて ICU と隔離領域の拡張に関する標準業務手順（ SOP ）の基本を述
+べる。酸素キャパシティーの拡張とインフラの運営の継続に関する勧告を示す。  
+ 
+定義 
+PM?l???（lbd?）：施設あるいは地域社会のリソース（??）を超えない範囲で賄
+える多数の被害者を生み出すイベント。  
+2. Disaster ：病院 and/or 地域社会の通常のリソース（ resources ）を超え、通常業務の中で要求に合
+わせた変化を求められる多数の被害者を生み出すイベント（通常は短期間）。一時的なコミュニ
+ケーションとリソースの不足と一時的な状況把握の欠如を通常は意味する。 MCE は災害
+(Disaster) と同義ではないし、 MCE が災害となる前のキャパシティー増加と準備は、膨大な患者
+数に対するキャパシティー拡張をより容易にすることに注意してほしい。  
+3. Crisis standard of care ：通常の医療活動や提供できる医療レベルの重大な変化であり、蔓延す
+る災害（例えばインフルエンザパンデミック）あるいは大規模災害（例えば地震やハリケーン）によ
+り求められる変化。この提供できる医療レベルの変化は、状況により正当化され、政府機関により
+公式に宣言される。 Crisis standard of care 発動中との公式宣言は、不足している医療リソースの
+配分と使用を医療従事者が行う上で、一定の法的な権限と保護を与えることができる [7] 。 
+4. Surge capacity ：3 つの構成要素がある（図 1）[5、7]。 
+a. Conventional ：通常の患者管理スペース、リソース、業務の活用。  
+b. 不測の事態：患者のリスクの増加を最小限に留めながら、機能的に同等の医療を提供するため
+に、通常の職員とリソースを適応させることを含め、集中治療を提供できる能力のある部門（処置
+部門、 post-anesthesia care 、手術部門、 stepdown unit ）の使用。  
+[[p17]]
+15 
+c. Crisis ：通常の人員配置と資材投入を大きく変化させた環境下（例えば通常のモニターの代わり
+に心拍数アラームのついた酸素飽和度モニターを使用するとか、一人の集中治療の専門家がベ
+ッドサイドで働く数人のトレーニングの浅いスタッフを指導する階層的な人員配置を行う）で十分
+な医療を提供する。これにより患者の予後に大きく影響を与えるであろう。  
+ 
+基本的な仮定 
+PM?インシデント管理システム（?g?h?b?r?あるいは?m?b?
+Management System ）[8、9]が、それぞれの臨床機関に設置されている。このようにすることで、適
+切な incident command position と用語を用いることに加えて、目的に応じたマネジメントプロセス
+と、公式および実際的なプラニングサイクルを活用して、次のオペレーション期間の incident 
+action plan (IAP) を作成することができる。 The Hospital Emergency Executive Control Group は
+これらの活動の調整を行う（インターフェイスユニットが行うコーディネーションとコラボレーションに
+ついては第 3 章を参照のこと）。  
+2. 近隣や地域のヘルスケア機関とのコーディネーション契約とそのシステムについてはは、 Local 
+Emergency Executive Control Group 、Regional Emergency Executive Control Group 、あるいは
+National Emergency Executive Control Group が整備する [10] （インターフェイスユニットが行うコ
+ーディネーションとコラボレーションについては第 3 章を参照のこと）。これらは行政管轄区域を超
+え、さらには国境をまたぐ場合もあろう。複数施設を超えたリソースバランスの重要性は強調しす
+ぎてもしすぎることはない。単一地区のイベントのうちは、リソースを備えている病院へ患者を搬送
+することで可能な限り最善の医療を提供できる。蔓延イベント（パンデミックのような）では、施設間
+の協力を行うことで、一地域全体に一貫した標準的医療を可能にする。“ Region ”とは、地理学
+的にというよりも病院の機能で定義されるものであり（救急医療の場合と同様に）、また計画には
+地理的境界に関係なく普段患者を紹介しているパートナー病院を含めるべきである。  
+3. 病院は、 ICU 、手術室、 post-anesthesia care 、stepdown/intermediate care unit 、処置エリア（呼
+吸器 /消化器の処置室あるいは外来手術室 /外来処置室を含む）を持っている [11-13] 。 
+4. 病院は、 MCE に備えて備蓄器材、薬剤、基本的消耗品を準備してきた [11 、12] 。普段の地域社
+会における病院の役割に関わらず、特別な集団に対する計画も含んでいる必要がある（例えば、
+通常は熱傷、あるいは小児を扱わない病院でも、通常の地域社会のリソースを壊滅あるいは障
+害するようなインシデントが生じた際にはそれらの患者に医療を提供すべきである）。  
+5. 病院は、 1 つの集中治療ベッドには 1 台の人工呼吸器を持っているが [12] 、6～12 時間以内には
+追加の人工呼吸器を準備できる。  
+ 
+指揮命令系統（line of authority） 
+PM?病院のインシデント管理者?zX|?は、キャパシティー拡張の実行あるいはいかなる組織的な決定に
+対しても総合的な意思決定権を持つ。病院のインシデント管理者は、支配的な政府機関に対し
+て最善の回答をするであろうし（少なくともコーディネートする）、高度な状況把握と対象から情報
+を得た施設の方向性を示す。病院の集中治療スタッフ（看護師あるいは医師）は自身の権限内
+で以下のような活動をする準備をするべきである：  
+[[p18]]
+16 
+a. ICU の状況とキャパシティー、ならびに必要なリソースについて、インシデント管理者に報告する。
+イベントの発生宣言の後できる限り速やかにこの報告を更新すべきであり、また、患者の来院数
+が落ち着くまでは数時間ごとに更新すべきである。また、特段の更新の必要がない状況でも、一
+日に 2 回は新たな報告を行うので十分であろう。  
+b. ICU に使うスペースを空けるために、施設内で患者を移動させる。  
+c. 病院の他の部署のユニット管理者と協力して、事前に策定しておいた集中治療キャパシティー拡
+張戦略を実施する（表 1）。 
+d. 他の施設に安全に移送できる患者についての情報をインシデント管理者に報告する。インシデン
+ト管理者は、この情報を他の施設とコーディネートし、適切な移送や輸送を行う仕組みを策定し
+ておかなければならない。  
+e. インシデントから必要とされることに応じて、人員配置のパターンと時間を変更し、最も適切にカバ
+ーできるようにする。  
+ 
+オペレーションのコンセプト（Concepts of operations） 
+PM?集中治療キャパシティー拡張‐集中治療は以下のように物理的空間を超えて拡張する。??
+施設の計画では、インシデントの必要に見合った集中治療の段階的拡張を行うようにすべきであ
+る。病院は ICU や適切なベッドとモニタを備えた他のエリアを拡張することで、 ICU ベッド数を最大限
+増加させることを可能にしておかなければならない。通常のキャパシティーの 25% をこえる増加が、現
+在の H1N1 ウイルスで生じることはありそうにない。将来、ウイルスの突然変異、アウトブレイク、 MCE
+が生じると、可能な範囲での最大限のキャパシティー拡張を必要とすることになろう。この実現可能
+な最大限数は施設や国により変化するし、超過した ICU 患者数、総人口に対する通常の ICU ベッ
+ド数の割合や最大拡張数により決定されるものである。上記したように、あるグループが 300% の拡張
+目標を推奨しているが、多くの施設では目標を達成することはできないであろう [3] 。2 倍までの段階
+的な拡張を検討すべきである。  
+ 
+a. Conventional ：集中治療に使用している通常のスペース。適切な患者を ICU から step-down unit
+へ移動させ（元々ある“ bump lists- 押し出しリスト”により容易となる）、スタッフを呼びもどしたり、必
+要なら待機スタッフを出勤させたりしてスタッフ数を増加させることにより、現在あるベッドとスタッフ
+を最大限にする。これと共に、ベッドの最大限活用戦略を病院全体で実施する。これには、各科
+のプロトコールに従って病棟内の患者で早期退院したり、他の待機エリアに移送できる患者を決
+める surge discharge ”を実施して、 ICU 患者を移送してくるのに十分なスペースを作ることを含む
+[14 、15] 。退院待ちエリアは前もって確認をしておくべきであるし、もし患者を効率的に救急部門、
+手術室、 ICU 、入院病棟の間を移動させる必要があるのであれば、患者のアセスメント法や迅速
+な退院手続きが実施できるプロセスを採用しておく必要がある。例えば、入院してくる患者が速や
+かにベッドを使えるようにするために、ラウンジあるいは待合エリアを、早期退院を指示された患者
+が移動して、最終指示や処方、乗り物を待つエリアとして指定することができよう。これは認識して
+いないあるいは突然のイベントの際に特に有用である。より長時間続くイベントの間は、選択的入
+[[p19]]
+17 
+院と外科的戦略（予定手術の延期と他の処置の選択）が集中治療のリソースを最大限に維持す
+るために極めて重要なものとなろう。  
+ 
+b. Contingency ：集中治療の技術を持った指導スタッフのもとで、本物の ICU と同等のサービスを提
+供できるスペースを活用する。 PACU 、手術室（特に手技を行うエリア）、処置室（消化器、呼吸器、
+放射線インターベンション、 step-down unit/ モニタ付き unit 、潜在的には救急部門のベッドの使
+用が考えられる（しかし、使用に関する優先度が競合するため、インシデント管理者がどのスペー
+スを使うかの判断に影響があるであろう）。総合的な目標は、元々ある集中治療エリアにおいて最
+も不安定で最も重症な病態に対し集約した治療を行い、より状態が安定した、あるいはよりリソー
+スの必要性の少ない患者を、他の治療エリアに移送させることである。インフラの特徴として重要
+なことは、通常の心臓や酸素飽和度のモニタリング、経静脈的薬物投与、持続投与、人工呼吸
+が提供できることである [11-13] 。病院が危機に備えるにあたり、以下の優先順序で、対応する場
+所を選択すべきである：現存の ICU の拡張、 PACU と救急部門のキャパシティーの拡張、次に
+step-down unit 、大きな処置室、モニタ unit 、そして最後に入院病棟 [12] 。感染制御専門家は、
+より多くの感染症患者を受け入れるための段階的計画を策定すべきである。隔離を必要としない
+患者でのプランとは異なることが考えられるからである。  
+ 
+病院は ICU のニーズおよび ICU のキャパシティーを増やすことによりベネフィットが減少する可能
+性（過重労働による）と、サービス提供ができなくなったため、より多くの影響を受ける可能性がある
+病院の他のニーズとの間のバランスをとる必要がある。これらのエリア（麻酔科、外科、集中治療科、
+救急科）のスタッフは、少なくとも短期間に重症病態を管理することに高いレベルの満足感が得られ
+るようにするべきである。患者の部屋をモニタできるかどうか、元々ある集中治療部門や step-down 
+unit と近接しているかどうか、施設に固有の要因（ PACU と麻酔前室の転換を最初に行い、次いで
+step-down unit の集中治療部門への転換を行うなど）に基づいて、ケアに用いる場所をマッピングし
+優先順位を定めた病院のインシデント“ワークシート”を策定すべきである（表 2）。スタッフ配備ならび
+に装備に関する検討を、予めプラニングして、集中治療スタッフが、重奏患者のケア全体を監督でき
+るようにし、一方で自身が直接患者ケアを行う分担を減らすようにする（「監督する視点を高めて」多
+数の患者を監督できるようにする） [11 、12] 。人工呼吸器は高価で備蓄が困難であるが、施設や行
+政（地域、州、県、国）レベルでの非常事態対応策により人工呼吸器の追加ができるようにしておく
+べきである。備品の再分配（酸素飽和度モニタの使用を人工呼吸器装着患者に限定し、他の患者
+では、例えば、高流量酸素吸入に酸素濃度のスポットチェックを併用する方法で対処する）あるいは
+備品の控えめの使用（ポンプ注入する必要のある薬剤と、重力滴下方式で安全に投与できる薬剤
+を決めておくこと）について、あらかじめ判定基準を設けておくことで、イベント発生中の実施が容易
+になるであろう [3、16] 。サポートサービスの優先順位づけ（検査依頼の最小化、ラボ検査と放射線検
+査はどうしても必要な検査と診断的検査のみに制限し、代替検査を行う－例えば腹部画像検査に
+は CT よりも超音波を使用する）も必要であるし、病院全体として行うべきである。事前に計画してお
+いた段階の要求に応じて診断検査の制限（ラボ検査と放射線検査）を強める。 H1N1 に対する段階
+的対応は、数週間続くであろう [1、2]。 
+[[p20]]
+18 
+c. Crisis ：集中治療を行うようにはデザインされていないエリアにおいて、十分な集中治療の供給を
+行う。例えば、人工呼吸を受けている患者をフロアベッドで酸素飽和度モニタ（心拍数と low 酸
+素飽和度のアラーム付き）のみで、集中治療の基本的ケア（基本的な看護、バイタルサインの監
+視など）に関するクリティカルケアのトレーニングは十分には受けていない看護スタッフを使ってケ
+アし、集中治療看護師と医師が高い視点から監督する（例えば集中治療看護師と医師が定期
+的に回診し、指導したりコンサルテーションや質問を受け付ける）ような状況である。特定の機器
+（例えば人工呼吸器や ECMO 装置）への需要がリソースのキャパシティーを超えており、他からの
+リソース提供や輸送の不可能な状況では [7、17] 、可能な範囲を事前に計画した、そして地域社
+会の標準的治療と州、県、国のガイダンスに基づくトリアージを行う必要がある。  
+ 
+中央システムに関する考察 
+PM?酸素??
+a. 病院の改築あるいは建築計画においては、病室や会議室などに酸素ポートを設置（あるいは追
+加）して、患者ケアエリアへの転換や通常のエリアに追加ベッドが収容できるようにすることを検討
+すべきである。しかしながら、これらのシステムは、使用頻度は低いであろうが定期点検が必要で
+あるため、安全管理への配慮が重要である。 Multi-patients regulator は、ひとつの壁のポートか
+ら複数の患者にそれぞれ別の酸素投与量を設定できるので、会議室のようなフラットなスペース
+では集団的治療に有用であろう。本デバイスは集中治療には向かないが、集中治療に使用する
+ベッドを開けることできるので計画の一部としては有用である。  
+b. 病院は酸素供給の限界について注意深く検討すべきである。例えば十分な人工呼吸器や酸素
+流量計が各ベッドにあったとしても、多くの病院の酸素システムはそれらに酸素を供給し、圧を維
+持するシステムではない。液体酸素の継続的供給と再供給が次の制限因子となりうる。病院は酸
+素供給と保存システムの脆弱性について検討すべきである。しばしば、システムは冗長性あるい
+は回復力に乏しく、潜在的な弱点がある。理想的に地理的に分離された、あるいは少なくともトレ
+ーラーによる液体酸素供給システムと連結できるようにしている二重の液体酸素システムの優位
+性は、供給システムの弱点を根本的に解決する。  
+2. 吸引 /圧縮空気：吸引と圧縮空気のラインは、集中治療スペース（低急性の自立歩行不能の患
+者ケア）の確立への優先順位としては低い。しかしながら、少なくとも圧縮空気は（理想的には吸
+引も）人工呼吸の使用を検討するスペースでは利用できるようにすべきである。壁に吸引ポートを
+設けることは機能的にずっと望ましいが、手動式や電池式吸引装置があり、有用である。  
+3. 施設  
+a. 電気：ほとんどの病院の緊急発電機は、すべての患者の部屋へ集中治療に必要なモニター、人
+工呼吸器、ポンプへ電気を供給するだけの容量はない。さらに、暖房、エアコン、排気システム
+（陰圧システムを含む）は非常電源システムに含まれていないし、非常電源システムでは十分に
+パワーを供給できない場合がある。集中治療スタッフはどのシステムやアウトレットが非常電源に
+含まれているのか、どれが含まれないのか、最大負荷はどれだけかを認識すべきである（アウトレッ
+トは緊急使用のために設計されているため、もし複数のアウトレットが同時に使用された場合、発
+電機は出力を保証するものではない）。病院は緊急管理の行政機関と協議して、停電の際に、
+[[p21]]
+19 
+病院の設備を有効に稼働させることのできる発電機のタイプと容量を検討しておく必要があり、ま
+た、緊急用発電機を病院の電源システムに接続するアダプターを用意しておかなければならない
+[18] 。 
+b. 水：血液透析に大量の清潔な水が必要なように、清潔な水は多くの医療行為に重要である。病
+院設計者は集中治療活動には水が必要であることに気がついていない。また、病院設計者は、
+集中治療部門とともにニーズを予想し、供給元と作業手順を明らかにするべきである。  
+c. 運用の連続性：病院が集中治療を提供する能力は、運用のインフラが維持されるかどうかにかか
+っている。水や設備については、上項で検討しているので切り離すが、照明、通信、 IT、消防、暖
+房 /換気 /エアコン、栄養部門、検査室、放射線部門、その他のサポート部門やインフラは保障さ
+れない。集中治療の設計者は、停電時やその他のインシデントにおける全般的な病院の運用を
+維持することについての計画に精通しておくべきである [19 、20] 。 
+ 
+隔離エリアのキャパシティー拡大 
+1. ICU 環境における患者の分類：集中治療のスタッフはどのベッド /部屋が隔離して人工呼吸がで
+き、陰圧化できるのか知っておくべきである。隔離の目的を考えるべきである；特別な呼吸器系病
+原体（ SARS のような）のためであれば、陰圧室が最適であり；飛沫感染疾患なら、単なる隔離で
+十分なはずである（患者の物理的隔離）。  
+2. 隔離エリアの作成：流行性のイベントが生じたとき、ひとつのユニット、あるいは場所に感染性疾
+患を持つ患者をまとめることが望ましいであろう。そうすることで、それらのユニットを隔離エリアとし
+て扱うことができる。どのユニットやエリアが 100% 排気して隔離して人工呼吸ができるのかを、病
+院では明確にしておくべきであるし、飛沫感染の病原体が関与する場合には、スタッフが防護用
+品（ personal protective equipment: PPE ）を替えたり着たりする一時的な前室の準備ができるかを
+明らかにしておくべきである [21] 。 
+3. 病棟に患者をまとめる：流行の範囲にもよるが、ユニット、病棟の wing 、施設の敷地全体を感染
+エリアとして扱わなくてはならないことが考えられ、そのエリアのスタッフ、患者、訪問者は継続的
+な PPE 使用が求められる場合がある。施設の SOP では、エリアの段階的拡大について考慮して
+おく必要があり（表 3）、施設の入り口でスクリーニングとトリアージを進め、エリア内におけるスタッ
+フ、患者、訪問者の PPE 使用をモニタリングすべきである。  
+4. 死亡者の扱い：医療機関は大量の死亡者に直面した際の計画が地域社会にあることを理解し
+ておくべきである。司法上のキャパシティーに関わらず、医療機関は地域社会の価値観と適応さ
+れる法的要求の調和を保ちながら、一時的に敬愛の念を持って過剰となった遺体を収容する計
+画を持つべきである。冷凍トレーラーの使用あるいは医療機関内の現状スペースの拡大も視野
+に入るだろう。  
+ 
+内部人員および関係する機関あるいは部門の 機能的役割と責任（これらはイベ
+ントの前に規定しておくべきであり、医療従 事者やインシデント管理者がイベ
+ントの間に参照できる job action sheet あるいはその他のリソースに従って具体
+的な行動をとるべきである） 
+[[p22]]
+20 
+PM?g?e?GgH?d?d?b?f?：インシデントにおける総合的な
+優先順位を決定する、マネジメントに関する決定を行う、大量の患者へできる限り良質の医療を
+保証するために病院のスタッフとリソースの使用の優先度を決定する。  
+2. 集中治療の主導医師：計画に専門的知識を提供する、インシデント管理者に対し人的リソース
+の必要性、患者の状況、 contingency/crisis 管理のスペースの必要性と共に移送可能な患者に
+関する情報提供を含む技術的な助力を行う。彼らは集中治療活動全体の監督を行う。他の医
+師はそれぞれのユニットを監視し、集中治療監督者に与えられた役割に応じて集中治療を提供
+する。  
+3. 集中治療看護師：看護師長は、患者（‘突出し’）リストと移送リストを全体的に監督する。看護ス
+タッフとシフトの管理、ベッドの交換 /移動 /移送を促進、リソースの供給と院内部門（薬剤部、中
+央材料部門、病院指令センター）への請求。  
+4. 助手：供給とリソースの提供を補助、設備の保全、診断サービスの提供、食事の供給の補助、患
+者移動の補助。  
+5. 関係機関  
+a. Local Emergency Executive Control Group ：リソース（特に医療以外の供給、例えば交通整理の
+ための警備員など）の収集を援助、行政レベルでの対応のコーディネーション、地域の事情によ
+っては患者の移送の手配を支援することもある。本グループは Emergency Medical Services やそ
+の他の患者輸送リソースを支援する。  
+b. Health care system ：病院の不均衡を是正するためにリソースやスタッフを含む相互扶助を提供
+する。地域の事情にもよるが、このシステムは、理想的には行動とリソース割り当ての優先順位を
+決定、患者搬送のコーディネーションを行い、必要なスタッフやリソースを得るために他の関係機
+関と調整する。病院関係者は、イベントが起こる前に、このシステムが地域内でいかに機能し、実
+践しているかを理解しておく必要がある。  
+ 
+SOP の効果的な遂行に必要な物流サポートと要件 
+インシデント管理の枠組み、施設における動員計画、既存の段階的キャパシティー拡張の実施
+計画、物資とリソースの適正化計画（施設のコミットメントや財政により規模を決定）、モニタリングの
+方法、リソースの要求と受け取りの方法について検討する必要がある [22-24] 。 
+ 
+SOP の保守管理 
+施設計画の策定／改善には、病院管理者と集中治療関係者が関与し、関係部門 [緊急処置室、
+手術室、 stepdown unit 、処置室、検査室、放射線部門など ]との再検討と調査、 SOP をサポートする
+行動の準備（資材獲得、計画）を含めなければならない。  
+ 
+推奨する訓練法と練習法 
+集中治療の一時的キャパシティー拡張計画の初期の構築段階では、検討会、改訂、ならびに病
+院関係者へのフィードバックを経た草案策定が行われなければならない。草案が完成したら、机上
+訓練を行って計画の基本的な前提をテストし、必要なら改訂を行う。手順に対する初期オリエンテー
+[[p23]]
+21 
+ションとスタッフのトレーニングを実施し、機能訓練では、プランをできるだけ現実に近い状態でテスト
+しなければならない。それぞれの訓練が終了した後、訓練後検討会を実施して、改善あるいは是正
+すべき領域を明らかにする。経験したことに基づいて、必要なら SOP を作成し直したり、さらなる準備
+やプラニング活動を行うことが必要になる場合もある。これらの変更について周知徹底させ、 SOP の
+訓練を再度実施する。訓練の頻度が多いと患者を緊急処置室にとどめ置くことになる、また、入院
+患者の意思決定は必要ない。  
+ 
+まとめ 
+病院における集中治療サービスを効果的に拡張させるには、実際にイベントが発生する前に、相
+当量のプラニングが必要となり、病院内の多数のサービス部門間でのプラニング活動や、コミュニテ
+ィおよび行政期間との関わり合いを統合して行う必要がある。病院入院管理者や危機管理者と連
+携し、スタッフ、スペース、供給に関して扱う段階的集中治療の一次的キャ パシティー拡張計画を構
+築することは、継続中の 2009 年 H1N1 インフルエンザ流行の中で優先的に行うべきことである。  
+ 
+利益相反 なし  
+ 
+参考文献 
+ 
+図 1 キャパシティー拡張の連続性（文献 3 の許可を得て転載）  
+Post anesthesia Care Unit (PACU); Intensive Care Unit (ICU) 。 
+1 一時的な状況でない限り、州政府による認定、臨床的なガイダンス、トリアージ方針の決定を保
+護したり代替医療施設／手技の変更の認定することが必要となる。状況把握が行われれば、トリ
+アージをシステマチックに行い、施設の手順に組み込み、可能な限り精査と文書化を行うべきで
+ある。  
+2 病院はリソース使用がコミュニティーに対して与える影響を考慮する（“最良（ greatest good ）”な処
+置と個別患者のニーズを比較検討する、例えば可能な限りリソースを節約する）。しかし、この時
+点ではまだ患者中心の意思決定を行う。  
+3 病院と医療提供者は、入手可能なリソースと個別患者のニーズとのバランスを考慮してトリアージ
+の意思決定を行う必要がある。意思決定の中心は地域社会へ移行してくる。  
+  
+
+[[p24]]
+22 
+表 1 市中病院におけるキャパシティー拡張のための優先的行動事項の例  
+Conventional care ： 
+PM?手術室と外来患者処置室に連絡し、すべての処置を止める（もしすでに行われていなければ）??
+2. ICU 主任看護師に適切な病棟への患者移動の開始とさらに stepdown unit あるいは病棟への移
+動可能な患者のリストの作成を通知する。  
+3. stepdown unit や観察室の主任看護師に、病棟へ移動できる患者や退院待機エリアへ移動でき
+る患者を確認するよう通知する。  
+4. ‘bed board ’（ベッド配置表）に従って、スタッフが配備されたベッドを満たす。  
+5. スタッフがついていないユニット /ベッドを開ける  
+a. オペレーターに disaster inpatient nursing group page の発動を通知する。（もしまだ行ってい
+なければ）  
+b. 開けたユニットを完全に満たすため利用できる空いているスタッフを移動  
+c. スタッフに入院病棟における看護師の必要性の状況を通知  
+d. 貯蔵ベッドを拡張ワークシートに従い予定の部屋に設置することを施設に通知する  
+6. もしインシデント管理者が指揮している場合には、退院拡張計画を発動  
+a. Inpatient Disaster Pager （病棟主任看護師、薬剤部、ソーシャルワーク、生体電子工学部門、
+呼吸ケア、看護師管理部門、医学部門と集中治療部門の部長とチーフレジデントに知らせる）
+の請求あるいは発動と退院拡張計画の発動  
+b. 退院待機エリア（講堂 A と 121 教室）の看護ニーズを通知  
+c. 内外の搬送に使う車いすの必要性を患者輸送部門に通知  
+Contingency care ：麻酔前と麻酔後の待機エリアと入院前一時待機エリアを提供し、現在入院して
+いる患者を低いレベルのエリアへ移送する。  
+1. ワークシートに記載されたユニットは ICU からのオーバーフローを優先させる。空いた ICU ベッド
+には専用のモニターがない－必要数を生体電子工学部門へ知らせる  
+2. PACU （6 ベッド）、麻酔導入室（ 6 ベッド）、外来手術室（ 12 ベッド、最大 24 ベッド）へのスタッフの
+追加を要求  
+3. 安定している ICU 患者を stepdown unit へ移動、 stepdown unit 患者をモニターなしベッドへ  
+4. モニタしている患者をモニタなしベッドへ移送  
+5. 必要があれば消化器ラボと心臓外来へ職員を配置  
+6. 移動を待っている患者や部屋を開けるために待っている患者のためにあらかじめ決めてある退院
+待機エリアへ簡易寝台を移動  
+7. Planning Chief と地域移送計画の発動とスタッフならびにリソースの追加を検討する  
+Crisis care 
+PM?簡易寝台あるいはストレッチャーを追加、ワークシートに従って、よりリソースの必要性の低い安定
+している ICU 患者を病棟（状況に応じて外科、神経科、小児科病棟が好ましい）へ移動させる。  
+2. ユニットやホールに追加したベットには専用モニタがないことに注意を払う。生体電子工学部門に
+追加の簡易モニタを依頼、緊急処置室、整形外科エリア、クラッシュカート、必要に応じて外科 /
+処置エリアからモニタを持ってくるように依頼。他の施設への依頼あるいは心臓 /侵襲的モニタの
+[[p25]]
+23 
+中止が必要となる場合がある。酸素飽和度モニターは心拍数の監視に使用できる、呼吸管理に
+より酸素飽和度モニターは再配分してよい。  
+3. 内外の患者移送により、 6 時間以内に患者が簡易ベッドから移送させることができなければ、
+Planning Section Chief と状況を判断し、次に・・・  
+Decompression/demobilization （復元 /復員）  
+インシデント管理者と連携して移送患者リストを作成する－安定している患者あるいは必要として
+いるリソースが現状と合致していないが輸送の妨げはない患者に焦点を当てる。より多くのリソースや
+スタッフが利用可能となり、他の施設への移送が行われにつれて、不測の事態（ contingency ）の状
+態へ集中治療は転換し、そして、通常業務と通常治療へ復帰する。  
+総合的キャパシティー拡張計画（これは施設の緊急オペレーション計画の一部）の一部を示してい
+るものであり、それぞれの施設の状況に合わせて調節する必要がある。  
+ 
+表 2 集中治療スーパーバイザー用キャパシティー拡張ワークシートのサンプル：  
+City Hospital Care Surge Capacity Worksheet 
+ユニット  conventi
+onal 
+contin
+gency crisis 注意  
+MICU 12 16 16 MICU の 2-4 ベイに倉庫の 4 ベッドを追加、モニタ必要
+CCU 8 12 16 4 標準ベッドを倉庫から各部屋へ追加、 crisis では移動式ベッド
+を追加
+SICU 15 15 15 追加するスペースはない
+PICU 10 15 15 1-4 ベイに小児処置室から収容
+PACU  6-12 12 簡易ベッドで倍にする、麻酔科 /インシデント管理者と相談して手
+術が必要なければ手術スペースを活用する  
+Surgery& 
+Procedure 
+Outpatient 
+Center 
+ 12-24 24 簡易ベッドで倍にする、麻酔科 /インシデント管理者と相談して手
+術が必要なければ手術スペースを活用する  
+GI laboratory  4-6 6 4 部屋はフルモニタとガス、酸素飽和度モニター付き 2 回復ベッ
+ド
+Cardiac short 
+stay  15 30 部屋はベッドを倍にできないが、ストレッチャーは収容できる  
+Observation  10 12 部屋にはベッド追加はできないが、 2 ホールに移動式ベッドが収
+容でき、壁に酸素供給がある
+Medical 1   30 （ベースラ
+イン 20） 
+全部で倉庫の 15 ベッドをすべてのユニットへ ―通常のベッドを入
+手するまではストレッチャーが必要； 10 ベッド廊下に収容できる
+が、 30 ベッドのみが ICU 管理が行える  
+Medical 2   40 （ベースラ
+イン 30） 
+Medical 1 の注意点参照 ―また、フロアーの端にあるロビーに 10
+ベッド収容、 ICU 管理は 40 ベッドに限る  
+Surgical 3   30 （ベースラ
+イン 20） Medical 1 の注意点参照  
+Total by 
+category 45 a 60-78 b 121 Medical 1 以外はすべてのベッド酸素供給は得られない  
+MICU medical intensive care unit, SICU surgical intensive care unit, CCU coronary care unit, 
+PACU post-anesthesia care unit, GI gastroenterology, Medical 1 me dical or surgical floor deds 
+etc. 
+[[p26]]
+24 
+a 移動できないイベント前からの患者を差し引く。通常はキャパシティーの 80% 程度。  
+b 集中治療スペースの 100-200% の拡張に相当する。元々存在するベッドにしか人工呼吸器はない
+ことに注意―販売店 /パートナー /政府の補助によりベッドに 1 台の人工呼吸器を得られるが、人工
+呼吸器を入手するまでは一時的な手段を講じなければならない。もし、追加のユニットが得られな
+かったり、患者移送ができなければ、トリアージを実行しなければならない。 Contingency スペース
+の起動 6 時間を超えるようであれば、影響の少ない他施設への患者搬送を考慮しなくてはならな
+い。 
+  
+表 3 市中病院における特定病原体感染患者の集中治療管理のための SOP 
+Conventional patient care ：1-2 名の患者（狭い規模が予測される）  
+PM?前室と十分な器材を使用するため、すべての患者の治療（集中治療を含む）を?L?
+transplant (BMT) ユニットで行う [2]    
+2. 特定病原体用の personal protective equipment (PPE) ガイダンスを参照し、感染エージェント別
+の情報を感染症科オンコール医師から取得する  
+3. PPE 順守をスタッフと患者と訪問者に理解させる、治療にあたる人数を最小限に留める。研修者
+は患者の治療を行わない。  
+4. スタッフの暴露追跡を開始する  
+5. PPE は患者への接触毎に替える  
+Contingency patient care ：3-43 名の患者（感染源とインシデント量が限定的、例えば SARS ） 
+PM?als?に加えて単一の入り口を使用して?lhbtP?（T?ベッド）を隔離エリアとして利用する。ドアの向
+こうが感染暴露エリア。一時的な前室をホールに設置する（ 2 時間）。人工呼吸を隔離し、 50% 供
+給、 100% 使用。 Step-down care は、MICU へ搬送する前に陰圧室を提供する。  
+2. インシデント管理者と相談し、隔離エリアとしての stepdown care と ICU を隔離するために、
+Surgery & Procedure センターを開放する（ 7 名以上あるいはそれ以上が予測される場合）。人工
+呼吸器はこの領域ではすでに使い切っている、予定手術は減らさなければならない。 PPE 脱着の
+ためのクリーン／感染移行ゾーンとして、ロッカールームを利用する。キャパシティーは 36 ベッド。
+これには、待機／回復室の 24 ベッドと手術室／処置質の 12 ベッドを含む。  
+3. 感染症エリアでは、スタッフは持続的に PPE を使用する。  
+Crisis patient care （壊滅的なイベント、例えばインフルエンザパンデミック）  
+PM?キャパシティー拡大のワークシートをツールとして使用し、イベントの規模の現状と予測を検討す
+ることで、どのエリアを感染患者に使用するかを決定する。  
+2. 病院は PPE 脱着のための一時的前室を患者エリアの近隣に設置し、これらの区画の排気が確
+実に行えるようにする。限られたサプライでは、広範囲をに対処することはできないであろう。  
+3. 病院はアクセス抑制とスタッフのスクリーニングとモニタリングの計画を実行する。  
+4. 感染症エリアでは、スタッフは持続的に PPE を使用する。イベントの規模と伝播の可能性によって
+は全病院で PPE を使用する必要がでてくる。  
+  
+[[p27]]
+QT?
+ܞ
+ 
+竹田 晋浩  
+  日本医科大学 麻酔科学教室・集中治療室  
+ 
+要約 
+目的： ICU 、病院での、インフルエンザ・パンデミック、もしくは集団災害に対する準備を、 ICU と他の
+主要な組織との調整、協力に焦点を置いて、勧告したり、標準的な業務手順を示したりすること。  
+方法： 文献的な総括、専門家の意見を基に、 Delphi 法が、調整、協力を含む重要なトピックスを定
+義するのに用いられている。  
+結果： 主に勧告されるのは、  
+(1) 資源の活用、コミュニケーションに対する権限、方向性を持つために、施設、地域、州、国家の
+レベルで、 Incident Management Sy stem with Emergency Executive Control Groups を設立す
+ること、  
+(2) 病院内で、 ICU と他の主要な組織とのコミュニケーション、調整、協力を図るためのシステムを発
+展させること、  
+(3) 調整、協力が必要な主な機能、経過、マンパワー、資源の活用、人材、設備、物理的空間の
+再配置の重要性を確認すること、  
+(4) 部門間で患者の搬送をスムーズにするための過程をつくること、  
+(5) システム、ガイドラインを作ることだけでは十分ではなく、以下が重要である。  
+(a) ガイドラインを実施するために必要な個人の規則、責任を確認すること、  
+(b) 個人が適切に訓練され、規則を実施するための準備ができていること、  
+(c) 調整、協力をするための適切な設備があること、  
+(d) スタッフがガイドラインを適切に実施するための、適切な物理的環境があること、  
+(6) 危機だと判断するためのきっかけとなるイベントが定義されるべきである。  
+結論： 連絡ユニットとの調整、協力のために、賢明なプランやプロトコールを選択することが、パンデミ
+ックでの結果を最適化するのに必要である。  
+ 
+キーワード 
+調整、協力、標準的業務手順、 ICU 、病院、 H1N1 インフルエンザ流行、パンデミック、災害  
+ 
+はじめに 
+感染症の流行は、自然災害、人災ともに、大量の死者を出し  (MCE; mass casualty event) 、また、
+MCE により、病院、 ICU の資源を超えた、たくさんの重症患者が出てくる。 MCE では、健康管理シス
+テム、つまり個々の病院、 ICU は、その効果を最大限に発揮するために、 1 つの統合されたシステム
+として機能するべきである。 ICU から見ると、人と人との良好なコミュニケーションだけでなく、部門間
+での良好な調整、協力が必要である。それゆえ、良好で組織的な病院内の調整、協力を保証する
+ために、システム、過程を持つことは重要である。この効果的な危機時の計画を終わらせるには、イ
+[[p28]]
+26 
+ベントが生じたときにアップデートされ、 MCE より先に計画を練られ、実行されるべきである。状況を
+把握していることが、詳細なシステム、協力のプランを準備するのに重要であり、地域のシステム、過
+程の発展を助ける一般的な原則である。以下に書かれた操作手順は MCE での経験、以前の出版
+物からの適応させた推奨による。  
+ 
+目的 
+患者ケア、結果を最高のものにするために、危機の間、病院内の ICU では、他の病院のユニット、
+全体的な病院の調節機構、地域の ICU の資源委員会と効果的な調節を行う保証をすること。  
+ 
+対象範囲 
+この標準的な操作手順  (standard operating procedure; SOP) は、MCE の間、 ICU(ICU で勤務
+している看護師も含め )と院内の他の重要な部署との協力を容易にすることである。他の重要な部署
+には以下が含まれる。  
+PM?他の臨床的な部署、もしくは科??G?例えば、内科、感染症科、微生物科、麻酔科、外科、手術室、
+救急科 ) 
+2. 看護管理、運営機構が独立している場合、 ICU と他の部署と両方の看護師との連絡  
+3. 病院管理  ( 設備、薬剤、医療品を含めて ) 
+4. 検査室  
+5. 健康をサポートする部門  ( 例えば、放射線科、微生物科、理学療法科 ) 
+病院では、地方または県、国家レベルでのより広い協力のネットワークで、この SOP を実行するべ
+きである。特に、 ICU の資源はしばしば限られており、量が様々である。それゆえ、直接的な関連する
+局所的な ICU 資源、 Regional Emergency Executive Control Group のような機関との協力の連絡が、
+生命維持装置、人的資源、薬剤の利用情報を共有するために、薦められる。  
+外来、地域、市民との緊密な協力が必要であるが、この SOP はまずは院内の協力、調整に制限
+される。  
+ 
+目標と目的 
+ICU と重症な部門間のコミュニケーション、協力、調整のシステムを確立するには、  
+1. MCE の状況下、 ICU と関連するような部門、ユニット、構造  ( 組織 ) を認識すること。 ICU と重要
+な関連を持つものには、以下が含まれる。  
+ 独立した管理、運営で機能している場合、看護師  
+ 救急科  
+ 手術室 --- 予定手術を中止するか、もしくは著しく減らすか  
+ 病院運営センター  ( 病院管理、運営 ) 
+ 関連する臨床部門の下の病棟  
+ 薬局  
+ 検査室  
+ サポート部門  ( 微生物科、放射線科、理学療法科 ) 
+[[p29]]
+27 
+ 独立した管理、運営の下で機能している場合、他の ICU 
+2. MCE 状況下、協力、調整を必要とする重要な機能、過程を認識すること。重要な機能には、以
+下が含まれる可能性がある。  
+ 人的資源の利用  ( 最大限の能力 )、職員の共有、再配分、例えば、手術室  ( 感染症の流行
+時)から ICU への移動  
+ 機器の利用、再配分、例えば、手術室、回復室の人工呼吸器の ICU への移動  
+ 物理的環境の利用、例えば、 ICU を拡張したり、縮小したりする結果としての再配置  
+ 資源の利用 --- リスクの高い ICU のために、薬剤、使い捨て物品、個人保護物品、他の感染症
+をコントロールする機器の適切な再配置  
+ 患者の入退院に関するマネジメント  
+ 部門間の連絡が機能するために、適切に個人を認識すること、例えば、 ICU のトリアージを行う
+者、感染コントロールを行う者、救急科の入院、患者搬送をする者  
+ 部門間の連絡を適切に取る方法を認識すること、例えば、 ICU への入院、 ICU 、トリアージを行
+う部署に対して、紙、ポケット・ベル、指定された携帯電話、もしくはファックスで連絡を取るのか  
+ 臨床的な情報、疾患のデータを管理すること --- 検査室、微生物検査室、放射線科など  
+3. 必要な部門、ユニットの協力を記載した緊急時の応答に対するポリシーを確立し、普及させるた
+めに、病院の構造、プロセスを提供すること。準備とコミュニケーションが、以下を保証するために
+必要である。  
+ 含まれる部門によって知られた、共有する場所に対する協力、調整を保証するための適切な
+準備  
+ 含まれた部門による調整された応答は最大限に効果的に重症患者のケアに焦点を合わせ機
+能することを保証すべきこと  
+ ポリシーが発展し、改善するための、フィードバックが得られること  
+ 透明性と説明責任を記載すること  
+4. 緊急時の応答計画を実施するための責任ある個人の応答規則、責任を定義しなければならな
+い。これらの個人は、義務を果たすため、適切に訓練されるべきである。  
+ 
+定義 
+Emergency Executive Control Groups (EECGs): 重要なレベルでのオペレーション・センターは、
+健康提供サービスの中にあり、 ICU から地域、県、国家の EECGs へサービスを提供する  ( 図 1、2)。
+EECGs の数は、個々の国、地域の規模、運営機構による。  
+ 
+  
+[[p30]]
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+図 1 
+指令系統の図で、 MCE 時の情報の流れは双方向性。  
+Hospital Emergency Executive Control Group (HEECG) は中央のオペレーション・センターで、
+「命令とコントロール」を行い、危機の管理のための責任を負う。病院長、臨床部門長から成る。
+HEECG は新しい病棟を開く、スタッフを移動する、予定手術など変更する、個人を保護する備品を
+含め、病院の供給資源を再配置し、優先順位をつける、トリアージのポリシーを保証する、感染コン
+トロールのポリシーを作成することを決定する必要がある。 ICU EECG は、 HEECG に、ICU の機能、
+容量、スタッフ、必要な物品、トリアージの状況、退室基準の情報を提供する。 ICU EEGC は
+HEECG によって同意され、保証された関連する方針を ICU で確実に実践する。少なくとも ICU の
+指揮者、代理人、看護師長、代理人、トリアージ部署のもので構成される。異なった管理の権限の
+ある多数の ICU で、それぞれの ICU で、ICU EECG を持つべきである。追加の複合された ICU 
+EECG が望まれる。他の可能性のある重要な連絡も示している。  
+ 
+  
+Area/Local EECGRegional EECGNational EECG
+Hospital / Facility
+EECG
+Hospital Chief
+Deputy
+Departmental Heads
+Administrative Heads
+ICU EECG
+ICU Director/s
+Deputy
+Head Nurse/s
+Deputy
+Central Triage
+Committee (CTC)
+Emergency
+Department
+Support Services
+Major Clinical
+Departments
+Hospital
+Administration
+Operating Rooms
+ICU Nurses Other ICU
+support staff
+ICU
+Doctors
+ICU Admin.
+staff
+[[p31]]
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+図 2 
+ユニット間の調整  
+破線は、 Central Triage Committee (CTC) から incident management system (IMS) を通して、トリア
+ージの権限を示している。 2 系統のコミュニケーションがこのつながりにある。これは、命令とコントロー
+ルのラインを示しているのではない。破線、点線は、トリアージ部署、 CTC の間で双方向性に流れる
+直接的なデータ入力を示す。  
+  
+地方
+緊急管理制御機関
+事故管理者
+手術部門 企画部門 金融/管理部門流通部門
+医療施設
+緊急管理制御機関
+事故管理者
+トリアージ
+要員
+トリアージ
+支援チーム
+地区
+緊急管理制御機関
+事故管理者
+中央トリアージ
+委員会
+手術部門 企画部門 金融/管理部門流通部門
+手術部門 企画部門 金融/管理部門流通部門
+[[p32]]
+30 
+ICU Emergency Executive Cont rol Group (ICU-ECG): ICU オペレーション・センターは ICU を含め
+危機管理に対する責任を持つ。このグループやその代表は、 Hospital Emergency Executive 
+Control Group に直接アクセスすべきである。  
+Hospital Emergency Executive Control Group (HE-ECG): 中央病院オペレーション・センターは、
+病院での危機管理に責任を持つ。このグループやその代表は、 Regional Emergency Executive 
+Control Group へ直接アクセスすべきである。  
+Local Emergency Executive Control Group: 地域のオペレーション・センターは地域での病院情報
+の流れにアクセスし、容易につかめる責任、地域の健康機構とリンクする責任を持つ。その地域の健
+康施設での少ない資源の提供も調整すべきである。  
+Regional Emergency Executive Control Group: 地域の、もしくは県の  ( 地域の規模による ) オペレ
+ーション・センターは地域の病院グループ間での情報、資源の流れに連絡をつける責任、他の地域、
+もしくは国家の健康機構とリンクする責任を持つ。  
+状況認識 : 環境下で起きていることを認識すること、情報、出来事、個人の行動が現在、近い将来、
+ゴール、目的にどのように影響しているかを理解すること。  
+組織 : MCE 時の ICU との協力、調整における関係者団体。  
+トリアージを行う人 : 集中治療、もしくは適切な集中治療の経験のある他の医師は、トリアージ・プロ
+トコールに従い、 MCE の間の、重症患者、外傷患者を振り分ける。  
+Incident Management System (IMS): 全ての人が協力し、応答できるように標準的な経過、プロトコ
+ール、手順を用いる。これには、指揮、操作、計画、理論、財政、または運営の 5 つの機能的な部分
+を持つ標準的な組織を含む。 IMS の機構は、施設、地域、州、国家レベルでの Emergency Control 
+Groups を含む  ( 図 2)。 
+Central Triage Committee (CTC): IMS の地域レベルの専門家は、地域、国家の状況を認識し、病
+院のトリアージを行う者、インシデント・マネージャー、病院の、もしくは地域の Emergency Executive 
+Control Groups と相互に連絡し合う  ( 図 1、2)。 
+MCE の段階 : MCE の段階は、異なった性格とともに、連続した段階を以下のように分けられる  、危
+機前の段階  (WHO のパンデミックの段階 1-3 に一致 )、MCE ( 危機 )の段階  (WHO の 4-6 に一致 )、
+危機後
+ (WHO のピーク後の段階と一致 )、MCE ( 危機 )後の段階  (WHO の危機後の段階と一致 )。 
+ 
+基本的な想定 
+PM?病院は、「命令とコントロール」に責任を持ち、病院内の利用できる資源を管理し、調整するため
+に、組織からの代表者で構成する、 Hospital Emergency Executive Control Group を持つべきで
+ある。  
+2. 病院と地域、州、国家、国際レベルでの協力、調整は、まず Hospital Emergency Executive 
+Control Group によってなされるべきである。  
+3. 地域と市民のコミュニケーションは Hospital Emergency Executive Group によって始められ、導か
+れるべきである。 ICU に直接関連する情報は、 Hospital Emergency Control Group 、もしくは指揮
+者によって与えられるべきである。 ICU は Hospital Emergency Executive Control Group によって
+[[p33]]
+31 
+必要と判断されると考えられた市民、状況とともに、直接的にコミュニケーションだけを取るべきで
+ある。  
+4. Central ICU Resource Group は、地域、州、国家の、活性化のポリシー、資源の再分布の調整
+の下、 ICU のトリアージをする部署にアドバイスをするために存在する。指定された ICU のトリアー
+ジをする部署が、院内の ICU Emergency Exec utive Control Group のアドバイスの下、受け入れ
+られたトリアージの決定を行うプロセスを用いて動く。  
+5. 重症患者の搬送は、標準的な臨床的プロトコールによって扱われる。  
+ 
+指示命令系統 
+地域の状況認識が、病院の資源の協力、調整に特に必要なものを確認するための基本である。
+Hospital Emergency Executive Control Group は、連絡、適切なポリシーの決定、実施のガイドライ
+ン、ポリシーの重要な位置を認識するための最も良いポジションに置かれている。 Hospital 
+Emergency Executive Control Group は、危機前の状況で設立され、危機が宣言されたら、院内で、
+関連のある命令、コントロールの権限を与えられている。双方向性の情報の流れは、このコミュニケ
+ーション、命令の連鎖に続くべきである。権限の提唱ラインの図式は図 1 に示してある。  
+lbd?、危機を決定するためのトリガーとなるイベントが定義されるべきである??G?表?PH。病院の管理
+責任者は MCE 、危機にあることを決定する責任、適切な対応に権限を与える責任を持つべきであ
+る。 
+表 1 
+MCE を開始するのに必要な状況の例  [2][6] 
+緊急事態の宣言  
+国家の医療災害システム、救援メカニズム、資源管理システムの開始  
+地域の病院で最大限に雇用できる人数  
+MCE で悪化するような、重症患者に限定された ICU ベッドの状況の把握  
+地域の健康管理者への必要資源、インフラの依頼  
+ 
+ICU Emergency Executive Control Group は、ICU の最近の機能的な容量、資源の必要性、容
+量の拡張、連絡の必要性について、独自に状況を把握する。それゆえ、 ICU Emergency Executive 
+Control Group と、Hospital Emergency Executive Control Group のコミュニケーションは極めて重要
+である。この機能が ICU の指揮者もしくは直接的な代理人によって取られることを推奨している。  
+病院の多数の ICU の症例では、それぞれ異なった運営を行う権限の下、それぞれの ICU は独立
+した ICU Emergency Executive Control Group を持つべきであるが、付加的な組み合わされた ICU 
+Emergency Executive Control Group が望まれる。  
+ 
+運用の概念 
+危機前の段階  
+危機前に大災害の前に存在する危機前の状態は、起こることが予測できる。この期間は、常に長
+く、イベントが起こらないが、 MCE の発生として予測できない。 MCE の間イベントに協力したり調整し
+[[p34]]
+32 
+たりすることを保証するために、システムを発展させる機会として、「平時」は非常に重要である。危機
+前の間、調整された反応を保証するために必要な枠組み、システム、経過が置かれている。関連の
+ある?d?d?b?f?は第一の調整センターを形成する??G?図?PH。?
+連絡手順、ポリシーを記載した文書は、標準的手順を用いて作成されるべきである  ( 表 2)。標準
+的手順の一部として、 Hospital Emergency Executive Control Group の全てのメンバーが、部門間
+の受容を保証する関連する文書を正式に再検討すべきである。さらに、個々の病院の部門の、内部
+MCE 文書は、 Hospital Emergency Executive Control Group のメンバーが他の出資者の内部での
+必要性を理解すること、不適合、不一致は中央レベルで組織的に解決されることを保証するために、
+再検討されるべきである  ( 表 3)。文書はそれぞれの病院の部門によって独立して作成されるべきで
+ある。文書は、手順が明らかになるように、十分に詳細に書かれるべきである。連絡の取り方のポイン
+ト、連絡方法、指定された幹部、正確な責任、権限の限界を詳細に記載するべきである。発展した
+ガイドラインだけでなく、十分な器具の利用も保証されるべきであり、スタッフに適切にガイドラインを
+実行させ、最適に機能させるための適切な身体的環境を提供するべきである。  
+ 
+表 2 
+文書作成、コントロールのための手順の概要  
+Hospital Emergency Executive Control Group が、文書作成のための個人、グループを指定する  
+Hospital Emergency Executive Control Group によって回覧され、再検討された文書  
+Hospital Emergency Executive Control Group によって普及されるための最終的な文書  
+Hospital Emergency Executive Control Group によって許可され普及された文書を維持するための
+方法  
+Hospital Emergency Executive Control Group が普及の遅れの情報伝搬を出すべきである  
+ 
+表 3 
+MCE の間に調整に成功するために必要な重要な方針の文書のリスト  
+○資源の優先順位をつけること  
+マンパワーの利用、人的資源の再配置  
+医療機器の利用 --- 物品の再配置  
+物理的環境 ---ICU の拡張、縮小の結果としての再配置  
+医療機器、医薬品、物品の利用  
+患者の入院、退院に関する方針の変更  
+患者の転院に関する、また、 ICU 、病院から転院する患者に対する外部の施設との連絡方針  
+○臨床上、管理上の協力  
+臨床情報の共有  
+部門間の連絡に適切な人事  
+部門の補助 --- 人的資源、検査室、放射線科、病院の供給を活用するためのプロトコール  
+○データ収集、質の保証  
+疾患のデータ、研究を共有すること  
+[[p35]]
+33 
+メカニズムを集めるための公式、非公式のフィードバック --- 記名、匿名のウェブベースの報告、提案、
+投書箱、デブリーフィング  
+ 
+ICU Emergency Executive Control Group は部門の機能と相互に関連し、 Hospital Emergency 
+Executive Control Group で議論され調整される同じ連絡領域を含む、内部の ICU のポリシー作成
+する必要がある  ( 表 3)。最近の機能的な容量、急増する資源の必要性、拡大する容量に関連する
+文書は、 Hospital Emergency Executive Control Group と同等である。  
+多くの部門間の連絡は、 Hospital Emergency Executive Control Group により起こり、導かれるが、
+毎日の応答を容易にし、方針で必要な連絡起点として作用し、 Hospital Emergency Executive 
+Control Group に対して実施するための、 ICU 指揮者を指定するために ICU Emergency Executive 
+Control Group に必要である。例えば、入退院を決めるトリアージ部署、 ICU の放射線部門、看護師
+の連絡部門、感染コントロール部門、薬剤部、広報部門の取り決めを含む。名前、指示、連絡番号
+を含む最新の情報が必要である。関連する指示、連絡の詳細のリストが推奨される。  
+全ての関連ある考案され、一致した方針は、公式、非公式なフィードバックを通して、適切な方法
+で、院内の最前線のスタッフまで普及しなければならない  ( 表 4)。院内の最前線のスタッフは、指定
+された約束にも気づかなければならない。指定された役員は規則、責任に完全に気づかなければな
+らない。  
+ 
+表 4 
+MCE 時のコミュニケーションを保証するための技術  
+MCE の最初の段階は、人的資源の容量に対する最も危機的な時間であるかもしれない。  
+○ 伝統的な固定電話  
+ 高頻度に利用しても使用できる  
+○ 携帯電話  
+ 容量を超えるとネットワークが使用できない、  
+ 内部のネットワークを考慮した方がよい  
+○ ページング・システム  
+ 使用できるが、プライバシーがない  
+○ 個々のページング・システム  ( ポケットベル ) 
+ 使用できるが、情報伝達が限られる  
+○ 院内ネットワーク  
+ セキュリティーが高い、アクセスしにくい、 24 時間アクセスできる  
+○ インターネット・サイト  
+ アクセスしやすい、セキュリティーが低くなる、 24 時間アクセスできる  
+○ ファックス  
+ 使用できる、連絡方法が確立する前、大量のファックスも可能である  
+○ 無線  
+ 容量を超えた携帯電話の利用時でも使用できる  
+[[p36]]
+34 
+○ 印刷物  
+ 掲示板、小冊子など  
+○ 直接的な口答コミュニケーション  
+ グループ、個人のまとめ  
+ 
+全ての Emergency Executive Control Group のメンバー、管理者、急性期病院のスタッフは、コミュ
+ニケーションの訓練を受けるべきである  ( 表 5)。 
+ 
+表 5 
+質の良い危機時のコニュニケーションに対する望ましい能力  
+定義されたコミュニケーション計画を実行する能力  
+タイムリーな方法でのコミュニケーション  
+コミュニケーション技術での能力、専門知識を見せること  
+誠実さ、透明性を見せること  
+個人のコミュニケーション技術を見せること  
+能力を改善するためのフィードバック機構を利用すること  
+ 
+それぞれの地域では、人的物的資源を超えて、指揮命令系統を確立するために、施設、地域、
+州、国家レベルで、 Emergency Executive Control Group とともに、 Incident Management System を
+設立すべきである。それぞれの IMS の CTC は、命令、操作、計画、後方支援、財政、管理の 5 つの
+機能領域を含む  ( 図 2)。地域の IMS は、プロトコールの修飾、結果のモニタリング、反応の調整を
+発展させ、修正するための、広い状況認識、能力を持つ専門家である。様々なレベルでの協力、コ
+ミュニケーションは重要である。  
+臨床家は、重症な H1N1 患者の治療に関する重要で、タイムリーな情報を得るために、 ICU 
+H1N1 患者の世界的な登録を含む地域のデータベースに参加しなければならない。情報はトリアー
+ジ方法の評価する助けになり、パンデミックによって影響されていない地域の情報を得ることもできる。
+治療戦略を検討する無作為化試験は、 Investigational Review Board が迅速に承認して促進され
+るべきである。  
+ 
+MCE もしくは危機 
+危機の間、入院した患者の実数、もしくは予想された数は、容量を超える。援助を広げ、追加の
+資源を得る最大限の努力をしても、資源不足が広い地域に生じると、 MCE 、もしくは危機の発動に
+より、さらに加速する。 MCE 、危機の発動は、病院幹部、 Emergency Executive Control Group によ
+ってトリガーされ得るが、 Reagional 、もしくは National Emergency Executive Control Group 、もしくは
+政府関係者によっても起こり得る。 MCE 、もしくは危機がひどくなったあと、全ての Emergency 
+Executive Control Group が活動し、適切な方針、ガイドラインが実行される。  
+Hospital Emergency Executive Control Group は、MCE の全体的な管理を再検討するために、
+状況により、少なくとも毎日 1、2 回は会議をするべきである。会議は病院幹部からの全体的な状況
+[[p37]]
+35 
+報告、重要な連絡ユニットを代表する全てのメンバーからの報告を含むべきである。状況報告は、以
+前の会議からの入院した患者さんの人数、状況、現在治療を受けている患者数、様々な部門、病
+棟のベッドの状況、予想される資源の必要性、短期的、長期的機能的な容量の予測、スタッフの機
+能的な状況を含むべきである。ユニット間に起こり得る問題や懸念については、臨機応変に対応す
+るべきである。病院長は毎日の、 Hospital Emergency Executive Control Group への報告には
+Local 、もしくは Reagional Emergency Executive Control Group からの関連ある情報を含むべきであ
+る。重要な全ての方針  ( 表 3)は毎日再検討されるべきである。公式、非公式の情報源から集められ
+たフィードバックは報告されるべきで、修正するための段階として、問題を認識するべきである。修正
+された、もしくは新しい方針の文書は標準的な許可の経過をたどるべきであり  ( 表 2)、それは、速い
+伝播を保証するための最初の段階で、促進され、修正されるかもしれない。  
+方法を組み合わせることによって理想的に、適切な方法で、最前線にいるスタッフに、定期的な
+状況報告は要約され、新しい方針、手順は普及されるべきである --- グループの要約、院内、もしくは
+インターネットを基にしたサイトの場所、小冊子などを通した情報掲示板である。重要なコミュニケー
+ション・インフラが Hospital Emergency Executive Control Group 、個々の部署、ユニットを代表する
+HEECG の幹部によって維持されるべきであり、最前線でのコミュニケーション、実行に対する最終的
+な責任を保持するべきである。  
+ICU EECG は毎日 1 回、もしくは 2 回会議をするべきであり、内部の方針を管理し、 ICU の機能に
+対する責任を保持し続けるべきである。 ICU 幹部、 ICU で最前線で働く者、 HEECG との連絡を取る
+べきである。さらに、 Central Triage Committee と Local Emergency Executive Control Group との定
+期的で直接的な連絡が維持され、 HEECG への連絡を続けるべきである。  
+ 
+ピークを超えた段階 
+ピークを越えた段階では、 Hospital Emergency Executive Control Group は常に、毎日  ( 必要で
+あれば頻度を減らす )会議を行うべきである。 ICU EECG は同様に、頻度を減らして会議を行う。運
+営上、機能は MCE 、もしくは危機の段階と同様に維持されるが、活動は典型的には集中しないだろ
+う。 
+ 
+MCE、もしくは危機後の段階 
+Emergency Executive Control Group の機能は、同様に維持され、会議の頻度、間隔は適切に
+減らすべきである。 MCE の状況の再燃、増悪の徴候に対し、慎重であり、標準的な手順を維持する
+ことは重要である。  
+病院の実績、 MCE への応答の調整する能力を全ての面からの公式的な評価は、理想的には
+3-6 ヶ月以内で、外部、内部調査によって行うべきである。調査は、公式に構成された内部の者、少
+なくとも 1 人の独立した外部の委員によって行われるべきである。 Hospital Emergency Executive 
+Control Group の機能は公開されるべきであり、議事録、記録、文書、方針は再調査されるべきであ
+る。全てのスタッフは、将来の応答に対して改善する可能性のある、業績、応答能力、方針における
+隔たりを認識するために、適切な調査委員によって、公式にインタビューをされるべきである。  
+ 
+[[p38]]
+36 
+人同士、部門間での、機能的な規則、責任 
+Hospital Emergency Executive Control Group (HEECG): メンバーは病院幹部、その代理人、
+材料部、エンジニア、メンテナンスなど関連する管理部門長、 ICU 、救急科、内科、外科部長、看護
+部門  ( 病院の看護師長、 ICU 看護師長、救急室などの他の重症病棟の看護師長など )、手術室、
+病棟検査室のトップ、必要であれば理学療法、作業療法のトップを含むべきである。第一の規則は、
+全ての院内の機能、部門の連絡を管理することである。 HEECG は、特別の問題を扱うために適切
+な分科委員会を任命する。 HEECG は、新しい病棟を開けること、他の部門へのスタッフの再配置、
+病院機能を変えること  ( 例えば、予定手術を中止する、手術室スタッフを再配置する )、病院の供給
+の再配置の優先順位をつけること  ( 個人の保護物品を含む )、病院を訪れる方針を決めること、
+個々の部門のトリアージの方針を保証すること、感染コントロール、隔離の方針を作ること、退院の方
+針を作ることを決定すべきである。  
+ICU Emergency Executive C ontrol Group (ICU EECG): メンバーは少なくとも、 ICU の指揮者、
+その代理人、看護師長、その代理人、トリアージをする部署の 1 人以上を含むべきである。このグル
+ープ、もしくは代表者は、 HEECG に直接連絡を取り、 ICU の機能、容量、スタッフの数、必要物品の
+必要、トリアージ、退院の方針などについての情報を伝えるべきである。 ICU EECG は、 HEECG が承
+認し保証する、関連する方針を ICU 内で実行していることを保証するべきである。さらに、 HEECG と、
+病院全体の方針に対して連絡を取ることに加え、 ICU 内の方針を決定すること、他の ICU 、臨床部
+門との直接的な連絡の調整をすることに責任を持つべきである。 ICU EECG は、 HEECG として、トリ
+アージをする部署を通して、 Central Triage Committee 、患者のために ICU の支援を探している外
+部の施設と連絡を取る。  
+危機の間に公共のコミュニケーションの取り方についての訓練を行う代表者は、公共の興味に直
+接関連する ICU 関連の質問を取り扱うために、 HEECG 、もしくは ICU EECG から任命されるべきで
+ある。コミュニケーションの代表者は、公共のコミュニケーションに対する必要性の認識を持つべきで
+ある。危機、緊急時のリスクに関する連絡は Centers for Disease Control and Prevention (CDC) によ
+って与えられる。  
+Local Emergency Executive Control Group (LEECG): 構成は国、地域によって異なるが、メンバ
+ーは、地域を代表する健康管理に権限のある役人、健康に権限のあるリスク・マネージャー、健康に
+権限のある公共機関の管理者、個人のクリニック、高齢者施設、公共の健康施設など他の健康施
+設の責任者、地域の  ( 都市のような )全ての病院長、その代理人を含む。 LEECG は、地域の病院
+間との連絡を取り、情報の流れをつかみ、 Regional 、もしくは National Emergency Executive 
+Control Group を含む健康施設とリンクするべきである。その地域での健康施設間での応答を調整
+すべきである。 Hospital Emergency Executive Control Group と
+Local 、Regional 、もしくは National 
+Emergency Executive Control Group との調整は、表 2 に示した。  
+Regional 、もしくは National Emergency Executive Control Group: 構成は異なるかもしれないが、
+メンバーには、健康管理に権限のある役人、個々の地域を代表する管理の代表者、地域、もしくは
+国家の健康管理のリスク・マネージャー、公共機関のマネージャー、個人のクリニック、高齢者施設、
+公共の健康施設など他の健康施設の代表者を含むだろう。地域、もしくは国家のオペレーション・セ
+[[p39]]
+RV?
+ンターは、地域の病院間で、連絡を取ったり、情報の流れを容易にしたり、地域、国家の健康施設と
+リンクしたりするべきである。  
+Central Triage Committee: この地域レベルの委員会は、トリアージの方針、トリアージを行う者の
+訓練、 MCE の間に MCE 、もしくは危機がひどくなっていることを決めること、トリアージの結果をみるこ
+と、MCE を観察すること、 ICU 資源の地域における分布、再分布についてアドバイスすることかどうか
+の決定、トリアージのプロトコールを改善すること、 MCE 、もしくは危機時のトリアージを注意するとき
+を決定することを促進するために調整するべきである。  
+ 
+効果的な SOP の実現に対して必要な物品の支援、要件 
+PM?グループの会議のための十分に大きな、視聴覚設備の整った、秘書のサポートの得られる指定さ
+れた部屋。全ての Emergency Executive Control Group の開示内容を記録することを推奨する。  
+2. 利用できるバックアップ・システムを用いた危機時の状況下に機能するのに十分な、適切な情報
+技術、コミュニケーション  ( 表 4)。コミュニケーション・システムは、ポケット・ベル、携帯電話、固定
+電話の番号を用いて、すぐに個人メンバーの連絡に使用するべきである。  
+3. グループ、部門長、その代理、指定された連絡部門の全てのメンバーは、 1 日 24 時間、 1 週間に
+7 日、連絡が取れるようにするべきである。全ての関連あるメンバー、幹部の連絡リストの更新は、
+Hospital Emergency Executive Control Group によって維持されるべきである。全ての臨床現場
+で、幹部との連絡リストは利用できる状態でなければならない。  
+4. 最前線のスタッフへの情報の、確立された普及方法があるべきである  ( 例えば、院内ネットワー
+ク、インターネットなどウェブ・サイト、電子メール、予定された討論会、情報版 ) ( 表 4)。 
+5. 必要とされるコミュニケーション技術を購入し、危機前の段階で、完全な訓練の間に、安定性、信
+頼性を試さなければならない。試みは、危機時に負荷のかかる電話でのコミュニケーション・シス
+テムに対する可能性のある解決方法を予測するためになされるべきである。  
+ 
+標準的な操作手順のメンテナンス 
+Hospital Emergency Executive Control Group によって導かれた病院は、完全な訓練に参加し、
+評価するべきであり、通常の基本に基づく再検討をするべきである。同様に、地域、国家のグループ
+は、少なくとも 2 つの健康施設と連絡を取った訓練に参加し、評価するべきである。理想的なシミュレ
+ーション、訓練の頻度はわからない、完全な訓練のコスト、不便さが、改善された準備とバランスを取
+れるようになるべきである。多くの場合、毎年の訓練で十分である。適切な小さな訓練が、完全な訓
+練を補足するべきである。訓練は、重要な個人、ユニットでの準備、応答能力における隔たりを認識
+したり、評価したりするのに役立つようにデザインされるべきである。評価は、内部、外部の評価を行
+う者によって、それぞれの訓練後すぐに行われるべきである。 SOP はコミュニケーション技術、経過、
+プロトコール、情報が最新のものであることを保証するための再検討に続いて、修正され、アップデ
+ートされるべきである。  
+ 
+  
+[[p40]]
+38 
+推奨された訓練 
+災害訓練の評価を支持する最近のエビデンスは確実なものではない。しかしながら、 ICU のある
+全ての病院は、危機時の上級スタッフのためのコミュニケーションにおける訓練を行うべきである。訓
+練は、地域を超えて標準的であるべきであり、地域の状況に適合したものであるべきである。訓練の
+プログラムは表 5 に示した構成要素を含むべきである。イベント前に完成された訓練は、発展するべ
+きである。  
+MCE 時のコミュニケーション、調整、協力能力に関する一般的なコミュニケーションの訓練は、標
+準的な緊急訓練の一部であるべきで、全ての ICU 、連絡ユニットの臨床スタッフが受けるべきである。
+必要なコミュニケーション技術を購入し、完全な訓練で安定性、信頼性を確かめるべきである。スタッ
+フが病院を通した方針、手順に精通していることを保証するための、通常の訓練は定期的に行うべ
+きである  ( 表 5、6)。 
+紙に表現された見解は、筆者の見解であり、アメリカの Health and Human Services 、もしくは
+National Institutes of Health の方針を反映していない。  
+ 
+表 6 シナリオの例  
+国、地域が、鳥インフルエンザと知らなかった場合、知っていた場合。  
+病院が、知らなかったが、疑った場合。  
+病院の個人防護用品  (PTE) を、最近ルーチンには使用していない場合。  
+救急科  (ED) で可能性の高い旅行歴、暴露歴がある患者が入院した場合。その患者が気管挿管、
+人工呼吸が必要な呼吸不全であり、 ICU に入室する必要がある場合。  
+○イベント前のチェックリスト  
+ICU 内で  
+PM?コミュニケーション、協力体制のアップデート??
+2. 院内感染コントロール対策  
+ICU 、ICT 間 
+PM?感染コントロール対策のアップデート??
+2. 隔離の範囲を明確にする  
+3. PPE に関するスタッフの訓練、能力  
+4. PPE の十分な備蓄  
+病院の後方支援  
+PM?ood?の十分な備蓄?LLL?型、量を明確する??
+2. 業務の活性化 --- 連絡方法、番号、 24 時間機能しているか  
+3. 再供給業務  
+医師部門、看護部門  
+PM?緊急時の勤務表のアップデート??
+2. 内部でのコミュニケーション方法  
+3. スタッフの保険の手配  
+4. 感染予防対策、例えば抗ウイルス薬、ワクチン接種  
+[[p41]]
+39 
+薬剤部  
+PM?患者に使用する薬剤??
+2. スタッフへの感染予防、例えば抗ウイルス薬、ワクチン接種  
+清掃部  
+PM?感染コントロール時の清掃について明確にすること??G?使用したリネン、ユニフォーム、?ood?などの
+廃棄 ) 
+安全管理部  
+PM?病院の安全管理体制??
+2. 公共保護体制  
+○救急科  (ED) での患者  
+ED、HEECG 、ICU 、ICT 
+PM?業務の活性化??
+1.1. HEECG--- 病院長を含む全ての重要な管理者  
+1.2. ICUEECG--- 部門長を含む全ての重要な管理者  
+1.3. ICT 
+2. 搬送に対する協力体制  
+○搬送  
+ED、安全管理部、 ICT 、ICU 
+1. ICU への搬送  
+1.1. 患者、搬送スタッフへの感染コントロール対策  
+1.2. 特殊な感染コントロール用品  
+1.3. 経路  
+1.4. 防疫線、経路に沿った汚染除去  
+1.5. エレベーター、廊下の優先使用など  
+○ICU への入室  
+ICU 内、他の病院の部門、 ICT 、感染症科  (IDD) 、安全管理部、薬剤部、清掃部、技術部、霊
+安室  
+1. ICU 
+1.1 隔離の範囲を明確にし、活用する  
+1.2 必要があれば、患者を ICU 外に搬送するための対策を活用する  
+1.3 感染コントロール対策を活用する  
+1.4 訪問者管理の対策を活用する  
+2. スタッフ配置の対策  
+2.1 患者管理チームを作る --- 医師、看護師など  
+2.2 隔離対策を活用する  
+2.3 スタッフの新規採用、勤務に関する対策を活用する  
+2.4 スタッフのケア、コミュニケーション対策を行う --- 状況報告、食料、宿泊場所、予防に関する不
+測の事態など  
+[[p42]]
+40 
+2.5 清掃部、健康管理者、検査室、霊安室に知らせる  
+3. HEECG 、他の関連部署との標準的な連絡方法を活用  
+4. 公的機関、マスコミへの対策を活用  
+○イベント後  
+全ての部署  
+PM?全ての?ddbf?グループの機能的能力を再調査する??
+2. 関連する対策に関する文書の有効性を再調査する  
+3. 最前線で仕事をするスタッフの、対策を理解し、実行する能力を再調査する  
+4. 対策に関する文書の最近の状態を再調査する --- 連絡方法、電話番号など  
+5. スタッフの支援、デブリーフィングに関する対策を活用する  
+ 
+ 
+ 
+  
+[[p43]]
+41 
+ݯࢿ
+ 
+遠藤 裕  
+新潟大学医歯学総合病院 高次救命災害治療センター  
+ 
+要旨 
+目的： インフルエンザのパンデミックや大規模災害に対する人的資源の確保に重点を置いた ICU と
+病院の準備についての勧告と標準業務手順 (Standard Operating Procedures: SOPs) を作成する。  
+方法： 文献レビューと専門家の意見に基づき、人的資源に関する重要なトピックスを、デルファイ法
+により定義した。  
+結果： 主要な勧告は以下の通り、  
+(1) ICU 専門家の増員と ICU 以外の人員の診療範囲拡大を含め、災害時の持続かつ増大する
+ICU ケアの為に、労働資源に近づき、調整、増やすように計画すること  
+(2) 調整された速やかな人的資源の増加が可能な充分な防御と準備を有する労働力を確保する為
+に、教育、周知、準備、意思疎通に関するプログラムを作成すること  
+(3) 現在の役割と緊急時の再訓練を考慮したすべての臨床と非臨床職員の中心となる登録リストを
+維持すること  
+(4) すべての臨床及び非臨床職員配置のニーズを調整、 ICU を含めた病院の１日の職員配置のニ
+ーズを病気や登院しない場合も含めて決めること  
+(5) 臨床的なケアは臨床職員のみが行い、非臨床職員は行わないこと  
+(6) 患者安全の確保のために、経験豊かな臨床医の監督と支援があれば、危機的状況において、
+職員にその診療範囲外の業務を委任すること  
+(7) 既存の集中治療医数ではその対応能力を超える傷病者の急増に対して、労働力の増加の為
+に、集中治療医は集中治療以外の臨床医を監督すること  
+結論： パンデミックにおいて、転帰を至適とするには、周到なプラニングと適切な人的資源を供給す
+る手順の採用が必要である。  
+ 
+キーワード 
+Manpower ；人的資源・ Recommendation ；勧告・ Standard Operating Procedures ；標準業務手順・
+Intensive Care Unit ；集中治療室・ Hospital ；病院・ H1N1 ・Influenza epidemic; インフルエンザ流行・
+Pandemic; パンデミック・ Disaster; 災害  
+ 
+ 
+緒言 
+地震、洪水、感染症のアウトブレイクのような大規模災害では、病院や ICU の診療能力を遙かに
+凌駕する多数かつ重篤な傷病者が発生する。大災害時には、医療機関は、診療所から ICU まで、
+医師と看護師が協力して、多数の傷病者に対応しなければならない［１］。特に、災害における集中
+治療 (Critical Care) は、特別な医療資源と職員配置を必要とすることから、重要な分野になるだろう。
+[[p44]]
+42 
+しかし、ある種の災害、例えばインフルエンザのパンデミックでは職員配置は制限されるかもしれない。
+実際に、インフルエンザのパンデミックでは、病気欠勤や感染暴露または治療中の職員により、集中
+治療に関与する職員の?QT～SOD?は不在となるかもしれない。従って、災害のような集中治療のニー
+ズが急増する状況においては、労働資源にアクセス、調整する計画が必要となる［ 2、3］。また、集中
+治療の専門家だけではなく、集中治療の経験がない医療関係者もアクセスの対象とすべきである。
+パンデミック経過中の集中治療の人的資源のニーズは変化するだろう、その結果、疾病の変化に対
+応出来るように、柔軟かつ可変的なニーズと対象範囲の設定が重要である。  
+ 
+目的 
+差し迫った、或いは大規模災害において、可能な限りの最良の患者ケアを提供するために、集中治
+療、医療、看護、補助職員を、病院内、他のケア部門、地方（県）機関から容易に確保出来るように
+すること。  
+ 
+対象範囲 
+標準業務手順 (Standard Operating Procedures: SOPs) の文書は、主として病院と医療システムおけ
+る、災害時の集中治療に必要な労働力の確保について重点をおいている。また、 SOPs では、パン
+デミックの各レベルで必要と予測される労働資源を医療資源とともに記述している（表１）。災害時の
+殺到する傷病者に対して、経験のある集中治療職員数は重要な律速因子となる。重要な人的資源
+は以下の ICU 労働力プールのグループの中に特定されるべきである。  
+● 医師  
+● 正規看護師（ RN）、免許職業看護師（ LVN）、呼吸療法士（ Respiratory care practitioners ） 
+● 薬剤師  
+● 補助的職員（例えば、補助員、搬送補助、社会福祉事業、聖職者、家事、事務員）  
+● ICU の管理者（医学および部門の管理者）   
+● 職業、作業、言語療法士  
+● 臨床感染症と細菌検査の支援者  
+● 放射線医学技術者、外科的手術の補助職員、医療技術者  
+● 呼吸療法専門家、呼吸療法士  
+● 感染制御と保健疫学者    
+● 栄養と食事の支援者  
+● 身体的および環境関係の支援者（例えば、設備管理）  
+ 
+病院や他の集中治療対応施設は、上記の SOP を、地区、地方（県）、国家レベルのより広い枠組
+み中の協力体制で実践すべきである。特に、地方（県）では集中治療の職員確保はしばしば限界
+があり、職員の経験度も異なる。従って、集中治療のケアを均等に、倫理的に提供するには、医療
+システムと協力して、地方（県）の Emergency Executive Control Group( 以下 EECG) と直接的な調
+整が必要である。また、集中治療のニーズは病院内の他サービス部門のニーズとバランスをとられな
+ければならない。  
+[[p45]]
+43 
+このセクションでは、臨床労働力のプールついてだけ論じる；以下の部門の臨床職員は患者サー
+ビスを提供する際には、予防的措置を講じるべきである。  
+● 職員と傷病者の防御（第 6 章のスタッフと患者の防御を参照）  
+● 調査  
+● 臨床的管理  
+ 
+目標と目的 
+地方（県）を横断して、 ICU と医療システムの間で、労働力プールを補充して、調整するシステム
+を確立すること。これは以下によって成し遂げられる。  
+● 医療システムにおいて、適切な集中治療の人的資源となる主要な人的資源を特定する。これに
+は以下が対象となる：  
+ － 医療職員  
+ － 大学職員  
+ － 病院管理部門  
+ － ボランティア資源  
+ － 補助的な支援部門  
+ － 退職者  
+ 
+● 集中治療の経験がない医療関係者の診療範囲を拡大して集中治療を提供すること。  
+これには、以下が対象となる：  
+ － 病院に勤務する専門医  
+ － プライマリーケア医師  
+ － 外科サブスペシャリスト（例えば、脳神経外科）  
+ － 呼吸ケア療法士  
+ － 内科系 /外科系看護師  
+ － 専門医学および看護学の学生  
+ － 獣医、歯科医、他の医療専門家  
+ － 退職者  
+ － ボランティア  
+ 
+● 有効な利用可能な人的資源を確保するために病院の機構と手順を提供すること。  
+教育、周知、準備、意思疎通は、以下の事項のために必要となる。  
+ － 充分に防御かつ準備された労働力  
+ － 調整された速やかな人的資源の拡大  
+ － 適切な社会心理学と家族への支援  
+ － 労働者の安全と健康  
+ － 適切な休息と支援  
+ － 速やかな縮小と正常な医療機能への復帰  
+[[p46]]
+44 
+● 緊急対応計画を実施する場合の主要な個人の役割と責任を定義する。  
+ 
+定義 
+PM?病院?ddbf?：病院の調整拠点。地域、地方（県）レベルでは、それぞれ地域、地方（県）?ddbf?で
+あるべきである。更に、病院、地域、地方（県）のインシデントマネージャーであるべきである。  
+2. インシデントマネジャー：病院、医療施設においてインシデント発生時の調整や指令を行う指導
+者（通常は病院管理者、または指名された者）。  
+3. 個人防御具（ PPE ）：マスク、手袋、ガウン等、感染伝播の危険を少なくする目的で使用する。  
+4. 補助職員：患者ケアには直接関与せず、災害発生時のインフラの維持と拡充を支援するすべて
+の職員。  
+ 
+基本的仮定 
+PM?患者のケアに関与するのは臨床職員のみ、臨床職員以外は患者ケアに関与しない。??
+2. 病院は地方（県）の管理部門と協同して、能力証明書と訓練を職員に提供、調整すべきである
+［4］。 
+3. 標準的診療範囲外の診療は、病院と地域 ECCG 内で調整、管理されるべきである。  
+4. 診療範囲の拡大に関わるすべての不利益と法的な問題は地方または中央政府によって対処さ
+れるべきである［ 5］。 
+5. 職員間の意志疎通は、病院と地方（県）のコーディネータによって調整されるべきである。  
+6. 非臨床的な支援（例えば、食事、住宅、施設の管理）に関わる人的資源は持続的で適切である
+べきである。  
+7. 補助的支援（例えば住宅と食事等）は、災害期間中は職員に提供されるべきである。  
+8. 事前の教育や健康や安全を守るプログラム策定は、職員の緊張を和らげ、インフルエンザのパン
+デミックが発生した場合によりよい準備の手助けとなる（第 6 章患者とスタッフの保護；第 9 章教育
+プロセスを参照）。  
+9. 個人防御具（ PPE ）には限りがあるかもしれない、しかし、臨床ケアの状況において適切な防御が
+可能であると仮定している。  
+ 
+指揮命令系統 
+労働力の調整は、診療範囲の拡大を含めて、病院、地区、地域、国家レベルで必要となるだろう。
+最初の指揮は、インシデントマネジャーの指示により、医療施設内部で行われるべきである。人的資
+源のニーズは病院 ECCG の作戦、物流、プランニングを担当する部門で評価、調整されるべきであ
+る。 
+一旦、人的資源のニーズが地区の医療施設のそれを超えるならば、地方の行政機関は当該医
+療施設に対して支援を行わなければならない。更に、地方（県）、国家の行政機関は、増え続ける人
+的資源のニーズに応じて、更なる支援を行うべきである。  
+ 
+  
+[[p47]]
+45 
+実施概念 
+初期段階として、労働力プールを増やす場合、以下のガイドラインについて計画しておく。  
+PM?介護者に対する患者ケアの割り当ては、その場の最も経験豊かな臨床医によって行われるべき
+である［ 6］。 
+2. 患者ケアの割り当ては職員の能力と経験に基づいて行われる  [6] 。 
+3. 患者安全の確保のために、通常診療対象にある業務の異なる医療職員へ委任は、経験豊かな
+臨床医の監督と支援があれば、危機的な状況では必要で適切であるかもしれない［ 6］。 
+4. ケアの変動、処置による合併症、ケア忘れなどの間違いを軽減する為に、可能であれば系統的
+な努力を行うべきである［ 6］。 
+5. 労働条件は修正されるべきかもしれない（例えば、シフト時間の長期化、仕事のタイプの変更、招
+集された職員と現状の職員、住宅供与など）。職員配置の比率は、慣れない職場環境、経験が
+少ない職員の雇用、個人感染防御具を装着する時間を考慮して修正されるべきかもしれない。  
+6. 職員が必要とするもの（住宅、食物、家族支援、育児 )、適切な防御（予防接種、個人感染防御
+器具、抗ウイルス薬）は、適切な訓練と共に、提供されなければならない。  
+7. 一旦、病院の人的資源のニーズがその限界を超えた場合、地域の行政、引き続き、地方（県）、
+国家の行政が支援を医療施設に提供するかもしれない。  
+ 
+場合によって、労働力はその極限まで酷使され、臨床的なケアは個人の標準的な診療範囲を超え
+て行われるかもしれない。この場合には、以下のガイドラインが適用されなければならない：  
+PM?臨床経験と必要な技術をもつ個人は、通常の診療範囲外で働くことが好ましい。??
+2. 傷病者の急増により集中治療のニーズが訓練された専門家数を超えた場合、集中治療の経験
+を有する個人は労働力の拡大に努力する一連の医療専門家を直接的に監督するかもしれない
+［6］。 
+3. 職員配置の比率は、地域のニーズと法律に基づいて増加されるべきである。理想的には、公平
+な医療の提供のため、その比率は病院内や地方（県）の ICU を通して一定、かつ等しくあるべき
+である。  
+4. 集中治療の専門家は、必要に応じて、ビデオ会議、遠隔診療システムを用いて、集中治療を専
+門としない医療専門家に対して診療を補助することが可能である。この方法は、電話、インターネ
+ット、電子メールによる支援より好ましい。  
+ 
+病院職員及び労働力の機能的な役割と責任 
+PM?職員事務所：臨床と非臨床業務の労働力を含むすべての職員配置のニーズを調整する中心拠
+点である。職員事務所は、病院が必要とする１日のニーズを決める、また、臨床と非臨床労働力
+決定者からの要請を調整する。予測された 24 時間のニーズは職員事務所内で周知される。職
+員事務所は病院 EECG に結果を報告すべきである。  
+2. 臨床労働力決定者（ Clinical labor designee ）：この人物は臨床に関するニーズと職員配置に関
+わる問題点を決定にする。具体的には、病気やリストに掲載されない職員とその細分化専門を含
+[[p48]]
+46 
+めたリスト並びに集中治療に関わるニーズを決定する。この人物は職員事務所へ情報を中継、
+そして臨床職員からすべての職員、その業務の変化を監視すべきである。  
+3. 非臨床労働力決定者（ Non-clinical labor pool designee ）：この個人は、支援者（例えば、家事）
+並びに臨床支援へ移行可能（例えば、家事から部門事務へ）な労働を含めた非臨床職員のニ
+ーズを決める。  
+ 
+SOPs を効果的に実践するために必要な後方支援と必要事項 
+PM?職員の訓練は、診療範囲が拡大した場合や役割が変わった場合に行われるべきである［?T］。訓
+練は、医学的な管理、個人感染防御具、環境汚染、新人訓練、検査標本の扱い方、警報リスト、
+倫理及び精神的問題、死亡者への対応、訪問者の制限が含まれなければならない（第 9 章教
+育プロセス参照）。  
+2. この訓練は、適切な大きさの部屋と施設で行われるべきである。必要に応じて、遠隔またはウェ
+ブ・ベースの教育が定期的な更新の下に、提供されるべきである。  
+3. すべての職員の中心的リストは、現在の役割を含めて、各医療機関で作成、維持されるべきで
+ある。このリストには、臨床、非臨床業職員別に、必要であれば緊急の再トレーニングの可能性
+についても、項目化されるべきである。  
+4. 医療施設への人材を派遣の為に、医療に関する専門的ボランティアの中心的データベースを、
+地区、地域、州ごとに利用出来るようにすべきである。  
+5. ワクチンと抗ウイルス剤投与の割り当ては、臨床的なリスクと業務内容に基づいて計画され、利
+用出来るようにすべきである。  
+6. 雇用者の健康管理は、感染暴露、感染した職員の管理を含めて計画され、利用出来るようにす
+べきである。  
+7. 家族支援や子供のケアの計画は、医療施設ごとに定められるべきである。  
+8. 適切な感染防御の手段、ワクチン摂取予定や感染防御器具を含め、職員対して利用出来るよ
+うにすべきである。  
+9. 職員が必要とするもの、住宅、食べ物、家族支援、子供のケアを含めて、パンデミックの間は、必
+要に応じて、供与さられるべきである。これは検疫や隔離の場合では特に重要になるだろう。  
+10. 必要に応じて、資材に関する適切な訓練計画が利用出来るようにすべきである。  
+11. アウトブレーク期間を通して、臨床的ニーズや状況の変化に応じて、個人感染防御具の適切な
+訓練がすべての職員に対して行われるべきである。  
+ 
+標準業務手順の維持 
+医療機関は、本格規模の演習と見直し訓練を年１回行わなければならない。この演習は SOP で
+概略された労働力計画を評価するものでなければならない。この演習は、中心的な役割を有する職
+員や部門において、準備と対応能力の欠点の同定と評価の手助けとなるように計画されるべきであ
+る。SOPs は、通信技術やプロセス、プロトコール、 SOPs 内の情報を最新とするため、評価後に修正、
+改訂されるべきである。  
+  
+[[p49]]
+47 
+推奨される訓練と演習活動 
+ICU ケアを提供するすべての病院は、危機的状況に置かれる上級職員に対して、意思疎通や職
+員の補充に関する訓練を行わなければならない。訓練は地方（県）で統一され、他の地方（県）や州
+単位、さらには国レベルでの訓練と協同して行われるべきである。  
+職員訓練の基本的な項目は発展、更に事前に試験されるべきであり、災害時の変化する労働力
+の役割と支援に焦点をあてた内容であるべきである。  
+国の専門家と協同して、災害時の専門家の活性化に関する更なる試験、大きな国家レベルのボ
+ランティアチーム活性化及びその実効性と信頼性に関する試験は、医療システム内、即ち各医療
+分野間の、個人の医療機関と国の医療機関間の横断的な労働力の投入が可能かの立証と強化の
+ために行わなければならない。  
+ 
+利益相反：なし  
+ 
+ 
+  
+[[p50]]
+48 
+表?PM?各パンデミックレベルにおける予測される労働資源と活動??
+ 
+WHO パンデミック 
+フェーズ 人的資源確保の活動 
+パンデミック間の期間 
+フェーズ１＆フェーズ 2 
+・職員と意思疎通計画を検討して改定する 
+・すべての職員で災害時の計画と標準業務手順を検討する 
+パンデミック警報期間 
+フェーズ 3 
+・すべての職員（非臨床的業務に関与する者を含め）とパンデミック対応計画におけ
+る重要な要素について検討する 
+・必要に応じて、現職職員すべての適正度をテストする。 
+・ウェブページ運用を開始、職員が災害状況を参照可能な状態にする、最新の教育
+資料を提供する；意思疎通と教育に関する作業グループと協調する 
+・職員呼び出し番号または職員を呼び出す他の方法を開始する、現状について報告
+を受ける 
+・職員の病気欠勤の増加を監視する 
+パンデミック警報期間 
+フェーズ 4 
+・上級の指揮者は地区、地方（県）の医療ケアグループと共同して、人的資源の支
+援に関する対応について確かめる 
+・ウェブページと職員への情報伝達のための呼び出し番号を更新する；意思疎通と
+教育に関する作業グループと協調する 
+・職員ローテーションを制限；感染暴露領域の職員は非感染領域に移動しない 
+・職員の感染防御、ワクチン摂取、抗ウイルス薬の使用について調整する 
+パンデミック警報期間 
+フェーズ 5 
+・マネージャーまたは労働力決定者(designee)は電話による警報システムを実行す
+る：第一段階での電話呼び出しで次の勤務に対応可能な職員を確認する 
+・マネージャーまたは労働力決定者(designee)は現状の職員配置のニーズと利用可
+能な資源を評価；職員事務所に通知する 
+・労働力決定者(designee)は非臨床職員資源の統括者に現状の職員のニーズとパ
+ンデミックの状態について連絡する 
+・患者ケアに関する資源の管理者または労働力決定者(designee)は患者ケアに関
+与しないすべての個人を利用可能な職員として登録する（例えば、看護部の新規
+採用者、補助的支援者、臨床研究に従事している科学者） 
+・職員ローテーションを制限；感染暴露領域の職員が非感染領域に浮遊しない   
+パンデミック期間 
+フェーズ 6 
+・パンデミックに際して、臨床及び非臨床職員を補充する計画を開始。非臨床職員
+の呼び出しリストをアクション化 
+・マネージャーまたは労働力決定者(designee)は職員のニーズを評価、補充可能な
+職員に連絡、職員のニーズと利用可能な労働力に関して職員事務所と連絡状態
+を維持する 
+・職員事務所は労働力決定者(designee)の指揮の下に、臨床職員を配置する中心
+的拠点となる 
+・労働力決定者(designee)は非臨床職員を管理する指導者と利用可能な人材を調
+整する 
+・ウェブページと情報番号を更新、職員が参照可能な状態にする 
+・職員の病気コール：担当看護師が電話；病気コールを記録、マネージャーまたは労
+働力決定者(designee)に報告；後日調整する 
+・労働力決定者(designee)は、代用ケア部門へ職員配置のニーズについて、病院の
+ECCG と調整する 
+・職員の身体及び精神状態を常時評価し、必要があれば介入する 
+・職員ローテーションを制限；感染暴露領域の職員が非感染領域に浮遊しない    
+後パンデミック期間 
+フェーズ 7 
+・通常の職員配置の状況に復帰する 
+・職員の身体及び精神的状態を評価、必要であれば介入する（例えば、非常事態デ
+ブリーフィングプログラム、悲嘆ケア管理） 
+・職員の休日、休暇、代用スケジュールの必要性を評価する 
+・パンデミック対応計画の有効性を評価し、必要に応じて改定する 
+ 
+  
+[[p51]]
+49 
+文献 
+PM?a?ifK?r?lgK?l?`hK?l??ogK?d?cgK?n?c?GPXXXH?`?
+between nurse physician collaboration and patient outcomes in three intensive care units. Crit 
+Care Med 27:1991–1998. 
+2. Centers for Disease Control and Prevention (C DC) (2008) Influenza Pandemic Operation Plan 
+nok`mM?`?iM?`?QT?e?QOOX??YNNMMNNNN?
+annexJ.htm 
+3. Centers for Disease Control and Prevention (C DC) (2008) Influenza Pandemic Operation Plan, 
+Crisis and Emergency Risk Communication. Ac cessed 22 Feb 2009 a http://www.cdc.gov/ 
+flu/pandemic/cdcplan/EmComm.htm 
+4. Hsu EB, Thomas TL, Bass EB, Whyne D, Kelen GD, Green GB (2006) Healthcare worker 
+competencies for disaster training. BMC Med Educ 6:19–28 
+5. Devereaux A V , Dichter JR, Christian MD et al. (2008) Definitive care for the critically ill 
+during a disaster: a framework for allocation of scarce resources in mass critical care: from a 
+Task Force for Mass Critical Care summit meeting, Chicago, IL, 26 –27 January 2007. Chest 
+133(5 Suppl): 51S –66S 
+6. Rubinson L, Hick JL, Curtis JR et al. (2008) Task Force for Mass Critical Care. Definitive care 
+for the critically ill during a disaster: medical resources for surge capacity: from a Task Force 
+for Mass Critical Care summit  meeting, Chicago, IL, 26–27, January, 2007. Chest 133:32S–
+50S 
+ 
+ 
+ 
+  
+[[p52]]
+50 
+ɺ෺඼
+ 
+貞広 智仁  
+東京女子医科大学 八千代医療センター救急科・集中治療部  
+ 
+要旨 
+目的： 必要不可欠な医療機器、薬剤、物品に焦点をあて、集中治療室や病院全体がインフルエン
+ザのパンデミックや大規模災害に備える際の勧告や、標準業務手順の提示を行うこと。  
+方法： 文献レビューやエキスパートオピニオンに基づき、デルファイ法を用いて必要不可欠な医療機
+器、薬剤、物品を明確にした。  
+結果： 主要な提案は以下のとおりである。  
+（1） 災害時に使用出来る必要な医療機器、薬剤や重要な物品を確保する。  
+（2） 追加支援を行うために、医療施設と各地域 /地方 /州 /政府当局との間での情報伝達、連携体
+制を確立する。  
+（3） 必要とされる医療資源を把握し、適切な医療資源を発注、備蓄し、それらを適切に配分する。  
+（4） 携帯型で、臨床症状に合わせて適切な換気を行うことができ、低流量の酸素で駆動し、かつ高
+圧にならず、スタッフにも患者にも安全な人工呼吸器を追加で確保する。（ 5）高流量酸素投与、
+呼気終末陽圧換気、従圧式・従量式人工呼吸、一酸化窒素吸入、高頻度人工呼吸、腹臥位
+人工呼吸や体外式膜型人工肺などの、先進の呼吸管理や呼吸治療法を提供する。  
+（6） 原則として、最も有益だと思われる人へ、あるいは“先に来た患者優先”の精神に基づいて、乏
+しい医療機器、薬剤、物品等の医療資源をふり分ける。  
+結論： パンデミックの際に最も良い結果を導くには、適切な医療機器や薬剤、物品を提供するため
+に前もって的確な計画を作成することと、パンデミック発生時に適切なプロトコルを選択することが必
+要である。  
+ 
+はじめに 
+H5N1 や H1N1 インフルエンザの突然の発生により、ヒトインフルエンザのパンデミックに対する準
+備の重要性が強調されるようになった。現実の課題として、パンデミックの際に極めて乏しくなるであ
+ろう医療資源を、割り振る計画を立案する必要がある。しかし多くの国では、インフルエンザ以外の
+患者で集中治療室の利用率が 100% かそれ以上であるために、（パンデミックが起こった際に医療
+資源を割り当てることは）より大きな困難が待ち受けている。深刻な災害やパンデミックが起こった際
+には、通常よりも多数の集中治療ベッドが必要となる。調査によれば現在の 3 倍まで準備する必要
+があるといわれている。このような危機的状況では、必要不可欠な医療機器（人工呼吸器、シリンジ
+ポンプ等）、薬剤（抗ウイルス薬、抗菌薬、気管支拡張薬、鎮静薬等）やその他の重要な物品も、通
+常より多く必要となる。  
+  
+[[p53]]
+51 
+目的 
+できる限り最良の医療を提供するため、深刻なパンデミックや災害時に適切な医療機器や薬剤、
+その他の物品が病院や他の医療施設で容易に利用可能であることを確認すること。  
+ 
+対象範囲 
+この標準業務手順（ SOP ）は、医療施設や医療システムで集中治療を提供するために必要とされ
+る医療機器、薬剤や物品に焦点を当てている。 SOP には以下の部門が含まれる。  
+ 
+● 医師（集中治療医、麻酔科医、内科特に呼吸器内科医、救急医、感染症および微生物学を専
+門とする医師、外科医）  
+● 看護師と准看護師  
+● 呼吸療法の専門家、呼吸療法士  
+● 薬剤師  
+● 感染症治療および微生物担当者  
+● 病院および集中治療室の管理者  
+● 技術者や設備の専門家  
+● 感染制御  
+● 栄養および食事スタッフ  
+● 補助職員（例えば、助手やベッド運搬担当者）  
+ 
+医療施設や医療に携わる他の機関は、地域、地方 /州、国レベルでの幅広いネットワークの中で
+の連携を通して、 SOP を実施する必要がある。医療施設は限られた時間で医療機器、薬剤、物品
+を備蓄せねばならず、また（パンデミックなどが）長期に及んだ場合には、より上位の機関に医療機
+器（人工呼吸器、シリンジポンプ）の追加や使用した物品（抗ウイルス薬、抗菌薬、鎮静薬、栄養剤
+等）の補充を求める必要がある。ゆえに適切な医療の提供には、地域、地方 /州に加えて /または、国
+の災害対策本部との連携が求められる。  
+ 
+達成目標 
+集中治療室や病院内の他の部門において、医療機器や薬剤、その他の物品の備蓄、供給を調
+整するためのシステム構築には、以下のものが必要である。  
+ 
+● パンデミックや災害時にすぐに必要な、あるいは一定の期間必要な医療機器や薬剤、その他の
+物品を同定しうる、各部門の主要人物（キーパーソン）を決めておくこと。  
+● 必要とされる医療機器、薬剤、物品を発注、備蓄し、適切に配分するシステムを構築する。  
+● 適切な量の医療機器、薬剤、その他の物品が配備されていることを確認するための、病院での体
+制や行動手順を提供する。  
+● この SOP を実施するために、必要な部門間での意思疎通が円滑に行われるような体制を構築す
+る。 
+[[p54]]
+52 
+● 危機的状況に際し、追加で必要な医療機器や薬剤、その他の消耗品を供給してもらう地域、地
+方、州さらに /もしくは国の災害対策本部を決めておく。  
+ 
+この SOP の実施する主要人物の役割と義務を明確にするためには、教育、周知、準備、そして意
+思疎通が必要である。  
+ 
+定義 
+PM?病院災害対策本部??
+医療関連施設の調整部門のこと。ここでは各医療関連施設の関連部署の責任者らと連絡を取り
+合い、調整が行われた上で物事が決定される。  
+ 
+2. 地域災害対策本部  
+地域の医療関連施設調整部門のこと。地域の医療関連施設と連絡を取り合い、調整が行われ
+た上で物事が決定される。  
+ 
+3. 地方災害対策本部  
+地方の医療関連施設調整部門のこと。これは連邦や州当局を含んでおり、国ごとに異なるものの、
+保健省を含む場合もある。地域、地方、州、連邦当局との話し合い、調整の上で物事が決定され
+る。 
+ 
+4. 集中治療監督者  
+集中治療室に必要な医療機器、薬剤、その他の物品に関して、病院内のすべての集中治療室
+から情報収集することができる、経験のある集中治療医のこと。集中治療監督者は、病院が必要と
+している医療資源（医療機器、薬剤、物品）を調整する際に、病院災害対策本部に対し支援と情報
+を提供する。  
+ 
+5. 個人防護装備  
+スタッフが病気を伝播することを防ぐために使われる、マスクや手袋、ガウンなどの防護手段のこ
+と。 
+ 
+基本的な仮説 
+PM?パンデミックや災害時に、医療機器、薬剤、その他の物品は不足する。??
+2. 必要な医療機器、薬剤、物品が緊急時でも確実に手に入るよう、補充用の医療機器、薬剤、そ
+の他の物品の備蓄は、緊急時に先立って行っておかなければならない。必須の医療機器、薬剤、
+物品を Table1 に示す。１つの研究のみでエビデンスは低いが、ある研究によると、生存者はノイラ
+ミニダーゼ阻害剤による治療を受けていた割合が高かったとの報告があるため、緊急治療薬には
+ノイラミニダーゼ阻害剤を含むべきである。  
+[[p55]]
+53 
+3. 個々の医療機関の医療機器、薬剤、物品の備蓄量は、さまざまな機器や薬剤ごとに異なってい
+るし、さらに他の企業や地域、地方、州および国家レベルの供給センターとの取り決めにも影響さ
+れる。例えば、ある国では抗ウイルス薬は政府の保健省によって供給されることになっているため、
+購入する必要がない。緊急時に際して、欲しい物品が手に入らないかもしれないという考えから、
+必要以上の医療機器、薬剤、物品を購入し過ぎて失敗する傾向にある。  
+4. 医療機関の薬局は薬剤の備蓄を増やす必要がある。これは Table 。1 に示した薬剤が特に重要
+である。供給源に応じて（これは国によって異なる）、集中治療室や病院、地域の備蓄量は数週
+間分または数ヶ月分まで増やさなければならないかもしれない。  
+5. パンデミックや大規模災害時に患者に必要な人工呼吸器の需要が倍増した場合、ほとんどの病
+院は十分な量の「予備の」人工呼吸器を準備できないであろう。そのような状況下では、人工呼
+吸器の企業が急いで大量の人工呼吸器を供給できるとは考えられない。地方、州あるいは連邦
+当局が、追加の人工呼吸器を病院に供給できるかもしれない。供給できる人工呼吸器の正確な
+数と機種を把握することは、病院にとって重要である。この勧告が適応されるのは、持続的な人
+工呼吸管理を受ける１人の患者につき１台の人工呼吸器が存在する場合である。  
+6. 追加の人工呼吸器は、以下のような特性を少しでも多く持っている方がよい。携帯用で、すぐに
+手に入り、様々な医療環境に対応できるような適切なガス交換機能を持ち、低流量酸素および
+高圧ではない酸素に対応した機能を持ち（屋外に仮設病院を展開したり、病院への酸素の供給
+が途絶することにより、高圧酸素が使えなくなった場合に重要）、従量式と従圧式の呼吸様式に
+対応し、患者にとって安全で（接続不良アラームがある）、スタッフにとっても安全で（特に接触感
+染性の疾患が関与する場合、病室でのスタッフ滞在時間を短くする必要がある）、そしてスタッフ
+を効率的に利用することができるようになる、といった特性である。  
+7. もし人工呼吸管理を必要としている患者全てにいきわたるだけの十分な人工呼吸器がない場合
+は、気管挿管後に用手換気を行う可能性がある。用手換気はインフルエンザの大流行時には推
+奨されない。なぜなら操作する人の疲労や患者の低換気を引き起こすことに加え、人力による用
+手換気を受けている患者は、インフルエンザや他の接触感染性疾患を伝染させてしまう危険性
+が高いからである。個々の医療機関は職員と機器の供給力と、スタッフの安全確保を考慮し、用
+手換気を行うかどうか決定する必要がある。  
+8. H1N1 についての最初の報告によると、集中治療室管理を必要とした症例の中には高度の低酸
+素を伴った症例があったため、院内に高圧で換気可能な機能を持つ人工呼吸器や、他の手段、
+例えば一酸化窒素や高頻度人工呼吸や高振動人工呼吸、腹臥位や膜型人工肺による治療が
+可能な体制を備える必要がある。  
+9. 病院災害対策本部の責任者は様々な機関の主要人物と連絡を取り合い、必要な医療資源を
+確定、注文し、適切な量だけ備蓄し、それらを適切に分配する必要がある。国により供給源は異
+なるであろうが、集中治療室や病院、地域における上記に示した医療機器や物品、薬剤の備蓄
+量は、数週間分あるいは数ヶ月分にも及ぶかもしれない。医療機器、薬剤や物品に関して、病院
+災害対策本部は地域、地方、州および /または国の災害対策本部と連携する必要がある。  
+  
+[[p56]]
+54 
+権限系統 
+必要な医療機器、薬剤、物品の調整は病院、地域の管轄域そして地方 /州 /国のレベルで発生
+する。最初にかかわった当局は、それぞれの病院の、病院災害対策本部の指揮の下、当局の管轄
+内で調整するべきである。各部署のニーズは、部門の代表者からの情報をもとに、病院災害対策本
+部の運営、ロジスティクス、計画立案部門によって集約、評価されるべきである。  
+感染症のアウトブレイクや災害の発生前に、各病院と地域の管轄域、そして地方 /州/国の当局の
+間に情報伝達や連携システムを確立しなければならない。当局には保健省も含む。ひとたび各施設
+の医療機器、薬剤、物品の需要が供給を上回れば、地域又は地方 /州/国の当局が支援を行う。  
+ 
+運営のコンセプト 
+ 災害の間、病院では下記ガイドラインにのっとり計画を立てるべきである。  
+PM?医療機器、薬剤、物品の予備の備蓄は、備蓄量、重症度、入院患者数、集中治療室対応の必
+要度に応じて、数日または数週間分行うべきである。  
+2. 初めは、医療機器、薬剤、物品は平常どおりに使用される可能性がある。  
+3. 病院の備蓄が枯渇するに従って、地域又は地方 /州 /国の当局は各医療施設に追加の医療機
+器、薬剤、物品を供給するべきである。各病院に対し、いざというときにどのような医療資源が利
+用可能であるかをあらかじめ知らせておく。  
+ 
+ 医療機器、薬剤、物品が枯渇してきた場合は、以下のガイドラインにのっとるべきである。  
+PM?患者に対し“最大多数の最大幸福”を提供する為に、?GH?すでに病状が改善し死の可能性がほと
+んどない生存者への治療、 (b) 並外れた高価な機器を必要とする治療、 (c) 多くのスタッフ又は病
+院資源を費やす治療、は制限することを考えなければならない。  
+2. 十分な準備にも関わらず、医療機器（人工呼吸器）、薬剤【オセルタミビル（タミフル）、ザナミビル
+（リレンザ）、ペラミビル（静脈内投与可能）のようなノイラミニダーゼ阻害剤】、物品などは十分量
+があっても全ての適応患者に使用できないかもしれない。集中治療室入室の適応は、誰を入室
+させるとその効果が最も大きいのかといった点や、“先に来た患者優先”の原則を考慮して決定
+する。これらの倫理的な決定は通常の環境でも難しいが、緊急時はさらに難しくなる。緊急の環
+境下での利益はわからないため、“先に来た患者優先”の原則に則り、不足している資源を割り
+振るのが最善であろう。しかし、そうはいっても実際はその医療資源が最も効果を上げるであろう
+患者さんに配分されている可能性がある。   
+3. 不足している薬物を温存するために、薬局は薬物使用を制限する必要がある。これは薬剤代替
+投与を指示する、薬剤治療頻度を減らす、可能であれば経静脈を経口や経腸投与に変更する、
+供給薄の薬物治療を制限する、薬剤の使用期限を延長する、不足薬剤は信頼できるスタッフに
+のみ処方権限を与える、などの対応を含んでいる。  
+4. 機器の再分配（他者によるチェックにより酸素飽和度モニターを人工呼吸器管理患者や、高流
+量酸素投与患者にのみ装着する）又は機器の温存（ポンプによる薬剤投与が必須か、自然滴下
+で安全に投与できるか）が求められる。  
+[[p57]]
+55 
+5. 病院及び集中治療医は集中治療室患者の急激な増加（冬に初めて患者が入院してから 4～6
+週間後の状況）を想定するべきである。そしてそれから数週間は実質的な過剰労働が継続する。  
+6. 入院直後に致命的な病気が発症し重篤な酸素化障害を伴った場合、長期的人工呼吸管理の
+必要性、呼吸回復治療頻度の増加、侵襲的人工呼吸管理が必要な患者が増大することが考え
+られる。 H1N1 患者の予備データによると、 65～97% の集中治療室患者が人工呼吸管理を要し、
+生存者の人工呼吸器装着期間中央値は 7～15 日であった。  
+7. 病院スタッフは、高濃度酸素吸入や呼気終末陽圧換気、従圧式、 APRV 、一酸化窒素吸入、高
+振動人工呼吸、腹臥位人工呼吸、神経筋遮断、膜型人工肺など、先進的な呼吸管理や呼吸
+回復治療にしか反応がない重症低酸素血症患者に対する準備をしておくべきである。  
+8. もし病院が先進的な呼吸管理や呼吸回復治療を提供できないなら、これらの能力を持つ地域の
+中核病院へ重症患者を搬送することを考慮しなければならない。  
+ 
+院内の職員の機能的な役割と責務 
+PM?病院災害対策本部：多数の患者を最大限治療するために、全般的な優先順位を定め、医療機
+器や薬剤そして物品の優先順位に関する決定を行う。  
+2. 集中治療医：集中治療医は専門的な医療機器や薬剤そして物品の必要性について計画を立
+てる。高圧での人工呼吸、従量式や従圧式人工呼吸、 APRV 、一酸化窒素の吸入、高頻度又
+は高振動人工呼吸、腹臥位人工呼吸または膜型人工肺のいずれが必要とされるのか、といった
+情報が提供されるべきである。危機の間、集中治療監督者は必要とされる医療資源（医療機器、
+薬剤、物品）の情報も含め、病院災害対策本部へ支援と情報提供を行う。個々の集中治療室を
+監督している他の集中治療医は、集中治療監督者に集中治療室で必要とされる医療機器や薬
+剤、物品に関する最新の情報を提供する。  
+3. 集中治療室看護スタッフ：看護の監督者は、院内部門（薬剤部や中央材料部）や病院災害対
+策本部へ物品や医療資源の供給を依頼する。  
+4. 薬剤部スタッフ：薬剤部の統括者やそのスタッフは、必要とされ使用されている薬剤（特に、ノイラ
+ミニダーゼ阻害薬、抗菌薬、血管作動薬、気管支拡張薬、鎮静薬、鎮痛薬、ステロイド、血栓塞
+栓症予防薬、消化管出血予防薬）の使用量を評価し続ける必要がある。危機の間、薬剤部の
+統括者は病院災害対策本部へ支援と（医薬品に関する）情報提供を行う。  
+5. 中央材料部：中央材料部の統括者とそのスタッフは必要とされ消費されている物品の評価をし
+続ける必要がある。危機の間、中央材料部の統括者は病院災害対策本部へ支援と（必要な物
+品に関する）情報提供を行う。  
+6. 呼吸療法の専門家及び呼吸療法士：呼吸療法の統括者やそのスタッフは、必要とされ消費され
+ている人工呼吸器やその関連物品に関して評価し続けなければならない。危機の間、呼吸療法
+の統括者は病院災害対策本部へ支援と（人工呼吸器やその関連物品に関する）情報提供を行
+う。 
+7. その他のスタッフ：食事の提供や患者さんの移動、物品の輸送と同様に、物品や医療資源の搬
+送も行う。  
+[[p58]]
+56 
+8. 地域 /地方の中核病院災害対策本部：地域や地方、州や連邦当局の対策本部は、危機の間や
+それ以前から病院と連携し、さらなる医療機器や薬剤そして物品を病院に供給することを試みる
+べきである。  
+ 
+SOPs が効果的に実行されるために必要とされる物流支援及び要件 
+PM?それぞれの医療機関で、全ての医療機器や薬剤そして物品がまとめられた一覧表が作成される
+べきである。  
+2. 個々の医療機関に必要な医療資源を提供するために、医療機器や薬剤そして物品がまとめら
+れたデータベースを開発し、その地域や地方、州や連邦レベルにおいて利用できるようにするべ
+きである。  
+3. 異なる部門に、必要とされる医療機器や薬剤そして物品を提供する際の、公平で適切に分配さ
+れる方法を明らかにするべきである。  
+4. 地域や地方中核病院災害対策本部の全てのメンバー、つまり各部門長やその代理及び指定さ
+れた管理者は、週７日、１日２４時間連絡が取れる状態にあるべきである。  
+5. 医療機器や薬剤そして物品に関する情報が、それぞれの部門の現場のスタッフに伝達される方
+法を確立すべきである。  
+ 
+標準業務手順の維持 
+病院は年一回の本格的な訓練に参加し SOP を評価することに加えて、年に一回確認訓練を行う
+べきである。この確認訓練は①医療機器や薬剤そして物品の備蓄計画、②医療機関内の部門同
+士での連絡や連携、③この SOP で略述されたような医療機器や薬剤そして物品の提供依頼や供給
+を行うための、医療機関と地域や地方そして州や連邦当局との情報伝達や連携、を評価するべき
+である。訓練は、主要人物（各部門長や室長）の備えや適性が確認され評価されるために計画され
+るべきである。評価の手順は内外の評価者によって、各訓練やイベントの後すぐに行われるべきであ
+る。SOPs の確認訓練は、情報伝達や手順、実施要項、そしてそれらに含まれる情報が最新かつ適
+切なものであることを確認し、もしそうでなければ修正され更新されるべきである。  
+ 
+推奨される教育や訓練活動 
+医療機器や薬剤そして物品の必要量や備蓄量、再補給量を評価するための最初の計画の立案
+は、各々の施設の関係者の討論や改訂、フィードバックを草案に含めるべきである。一度予備段階
+の計画が完成したら、机上の訓練により計画の基本的な想定を確認し、必要に応じて修正されるべ
+きである。各々の訓練やイベントの後の“行動後の振りかえり”により、改善すべき領域が確認され、
+現実に必要とされる、正しい行動が認識される。 SOP は、経験や新しい文献もしくは更なる備えや計
+画行動に基づいて、必要に応じて書き直されるべきである。  
+ 
+  
+  
+[[p59]]
+57 
+表?PM?必要な医療機器、薬剤、物品??
+ 
+必要な医療機器  
+人工呼吸器  
+モニター : 心拍数、血圧、呼吸、心電図  
+非観血的血圧計  
+輸液ポンプ  
+経腸栄養用ポンプ  
+バッグバルブマスク（ BVM ） 
+ネブライザー（＋呼吸器に接続し薬剤投与可能なネブライザー）  
+ICU ベッド  
+血液透析および血液濾過装置  
+パルスオキシメーター  
+フットポンプ（間歇的空気圧迫法用装置）  
+吸引器  
+ 
+必要な薬剤  
+抗ウイルス薬（特にノイラミニダーゼ阻害薬）  
+抗菌薬  
+昇圧薬  
+気管支拡張薬  
+鎮静薬  
+鎮痛薬  
+筋弛緩薬  
+ステロイド（ WHO では、ウイルスの拡散を助長するため H1N1 関連の ARDS 患者へのステロイド投与
+は行わない、と推奨しているにもかかわらず、多くの臨床医はこれらを使用している。）  
+血栓塞栓症予防薬  
+消化管出血予防薬  
+蘇生のための輸液  
+ 
+その他必要な物品  
+栄養 : 経腸栄養や経静脈栄養  
+マスク : アンビュー、持続陽圧換気用マスク、気管切開用マスク、酸素マスク、酸素＋ネブライザー
+マスク、外科マスク  
+防護マスク : N95 マスク、空気清浄器付きマスク  
+気管チューブ、気管切開用チューブ  
+カテーテル : トリプル、ダブル、シングルルーメンの中心静脈カテーテル  
+カテーテル : 一般的な末梢静脈カテーテル  
+[[p60]]
+58 
+カテーテル : 動脈カテーテル  
+カテーテル : 一般的な吸引カテーテル、閉鎖式吸引カテーテル、 Yaunkauer 吸引カテーテル  
+カテーテル : 尿カテーテルと採尿バッグ  
+カテーテル周辺物品 : 点滴セット、フラッシュ用生理食塩水、被覆材  
+吸引チューブへの接続用コネクター  
+吸引管  
+吸引容器 : 壁に据えられ、使い捨ての物  
+吸引ホース・流入防止用トラップ  
+経鼻・経口胃管  
+経口エアウェイ  
+フルフェイスシールド、ゴーグル  
+手袋 : 滅菌、無滅菌  
+酸素配管・酸素調節器  
+呼吸器回路  
+高効率微粒子フィルター  
+湿度調節器  
+呼吸薬剤供給システム : 定量吸入器補助器具、噴霧器  
+医療ガス : 圧縮空気、圧縮酸素、液体酸素  
+T チューブ  
+口腔内吸引物品  
+注射器 : 動脈血液ガス分析用、血液採取用  
+酸素調節器、酸素流量計  
+吸引圧力計  
+心電計のケーブルとリード  
+電極  
+ガウン : 滅菌・無滅菌  
+鼻カニュラ  
+培養ボトル  
+体温計  
+針 
+ 
+すべての病院には常備されていない、その他の重要な物品  
+膜型人工肺  
+ポンプレス体外式肺補助  
+高頻度人工呼吸器、高振動人工呼吸器  
+一酸化窒素を供給する機械やタンク  
+  
+[[p61]]
+59 
+ޢ
+
+鮎川 勝彦  
+飯塚病院 救命救急センター  
+ 
+要約 
+目的： インフルエンザのパンデミックあるいは患者やスタッフの保護に特別に焦点を当てて、 ICU や
+病院の準備のために、推奨および標準業務手順を提供すること。  
+方法： 文献レビューと専門家の意見に基づき、患者とスタッフの防護を含む本質的なプロセスを定
+義するため、デルフアイ法が使われた。  
+結果： 主な推奨としては、以下のことを含んでいる。 1）感染コントロールの備えと潜在的な病気の伝
+播に関する臨床的リスクに対する職業上の健康に関する手順を準備すること、 2）必要不可欠な医
+療機器や薬品、その他物品、そしてやる気があり使えるスタッフを増やすことによって対応能力を最
+大限にする高度な計画を通して、臨床上のリスクを減らし、十分な設備を供給すること、 3）非臨床的
+なリスクを最小限にし、本質的なサービスを維持あるいは高めることによって、スタッフの信頼と安全
+を維持するための強固なシステムを作り上げること、 4）法的にも形式が整った安心できるプランを準
+備しておくこと、 5）正規の職場以外で働くスタッフを手助けすること。  
+結論： パンデミック期間の結果を最適にするためには、患者とスタッフを守るためのプロトコールを思
+慮深く計画し、適応することが必要である。  
+ 
+キーワード 
+Patient protection 患者保護、 Staff protection スタッフ保護、 Recommendations 勧告、 Standard 
+operating procedures 標準業務手順、 Intensive care unit 集中治療室、 Hospital 病院、 H1N1 、
+Influenza epidemic インフルエンザ流行、 Pandemic パンデミック、 Infection control 感染制御、
+Disaster 災害  
+ 
+緒言 
+パンデミック インフルエンザの潜伏期と重症度が判らないため、世界の人々に対する潜在的なリ
+スクを正確に判断することは難しい。しかし患者や彼らを世話する責任のあるスタッフへ起こりうる影
+響を予測し、非常に困難と思われる環境でリスクを減らし効果を最大限にできるかもしれないという
+思いで、これらの影響をパンデミックへの備えのプロセスに組み込むことは妥当である。出来るだけ
+多くの患者に最良のケアを提供するプランが成功するかは、主にスタッフが確保できるかにかかって
+いる。これまでの主な事例からの情報では、スタッフの信頼とモラルを維持する準備を進めることがそ
+のような環境で起こる対応システムを維持するのに役立つことが示唆されている。  
+ 
+目的、対象範囲、目標、目的 
+ この標準操作手順 (SOP) の目的は、インフルエンザ パンデミックの期間に遭遇するかもしれない、
+患者やスタッフの潜在的リスクを明確にすることにある。これらのリスクが起こるかどうかは、パンデミッ
+[[p62]]
+60 
+クの大きさに影響されるだろうし、パンデミックの間、変動するであろう。しかしパンデミックのピーク時
+に最も大きくなるであろう。前もってリスクを明確にすることによって、可能性のある解決法やリスクを
+制御する方法が地域や国家の計画するプロセスに組み込まれる可能性が出てくる。  
+ 
+定義 
+この評価の目的で、患者及びスタッフ保護で要求事項は、大きく二つの領域に分けられる。  
+・ パンデミックウイルスによって生じる臨床的リスクと二次的に起こる合併症。  
+・ 資源あるいはトリアージや優先順位に関する議論が限定されることによって起こる非臨床的リスク。
+これらにはスタッフや患者あるいは家族や親類へのおどしや暴力も含まれるし、最初の原因がパ
+ンデミックウイルスあるいは二次的合併症ではないかもしれないが、臨床的な結果を生じ続けるか
+もしれない。  
+・ ヘルスケア従事者は正常な仕事場では避けられたかも知れない合併症や死の結果として職業
+的非難や後々の訴訟の可能性に直面するかもしれない。  
+ 
+基本的仮定 
+パンデミック計画プロセスにおいて調査された重要な仕事であるにもかかわらず、パンデミックのピ
+ークの間は、正常な標準医学的ケアを入手し実施することが出来ないだろうということは避けられな
+い。それゆえ高次のプランニング協定書には患者トリアージ（ 7 章重症ケアトリアージを参照）と最低
+必要な資源やスタッフが確保できるかどうかで決まる治療の限界を書き込む必要がある。  
+ 
+指揮命令系統 
+国やヘルスケア統括部署によって、指揮命令系統が変わることは大いにあるうるだろう。それ故、
+プランニングの過程で、パンデミックへの戦略において権限を与える適切なスッテプのため、また権
+限拡大やスタッフ訓練、患者入院、トリアージの指針を明確にするため、誰が責任を持つかを明確
+にすること、そして他のすべての適切な承認事項が遵守されることが重要である。  
+ 
+実施概念 
+最大多数の最大利益のため、患者や親戚、スタッフが遭遇しうる臨床的、非臨床的脅迫から守ら
+れることが重要である。それ故、主なリスクの範囲は明確に示され高次のプランニングに組み込まれ
+るべきである。  
+ 
+臨床的リスク 
+病気の伝播 
+重症急性呼吸器症候群 SARS(the severe acute respiratory syndrome) 流行から学んだ多くの教
+訓がパンデミックへの備えのプランニングプロセスに重要であるが、これらの感染事例に含まれるもの
+の中に、ひとつ重要な違いがある。 SARS のアウトブレークにおいては、世界中への伝播を制御する
+現実的な可能性と実際の防御法があった。しかしインフルエンザのパンデミックにおいて感染を制御
+することは、極端に実現困難である。パンデミックになる可能性が超早期に確認できれば、病気の伝
+[[p63]]
+61 
+播のリスクを最小にするため、発生地域からの旅行を禁じ、効果のある抗ウイルス薬を広汎に投与す
+れば、進行は抑えられるかもしれない。しかし物流の観点からはこれは成功しないかもしれない。広く
+手に入れられる後発のインフルエンザワクチンも理論的にはパンデミックを防げるかもしれないが、か
+なりの時間がかかるし、完全な効果を保障できない。そのためパンデミックはいまだ相当な患者が重
+症化するということを基本に計画を立てることが賢明である。  
+全世界の人々に最も明白な世界的脅威は、標準的なウイルス伝播プロセスで広がるインフルエン
+ザウイルス感染が起こることである。これらのリスクが主要な社会的イベントなどの中止のように、多く
+の地域あるいは国家レベルの承認された対策により少し減っているが、インフルエンザウイルスの国
+内伝播がこのような制限で抑制される見込みは無い。学校閉鎖はウイルス伝播において、子供たち
+へのリスクとその役割のリスクを減らす適切な戦略と考えられているかもしれない。しかし閉鎖のいか
+なる利点も家で世話をしないといけないので親が仕事に行けないという影響でくつがえされるかもし
+れない。学校へ行くのと同程度ウイルス伝播のリスクを持つ、グループで子供の世話をする別の方法
+で、ほとんど確実に回復する。  
+実際的には公共の場で感染のリスクを減らすために最も望むのは、人々が感染制御と職業上の
+健康を維持する推奨された基本方針を遵守するよう奨励することである〔 5,6 〕。これには不必要な旅
+行を避けること、もしインフルエンザ関連症状がでれば家に待機すること、咳やくしゃみを制限無く行
+うことを避けること、出来るだけ手指衛生を維持することも含むべきである。公共の場でのマスクの着
+用については限られた科学的証拠しかないが、症状のある人では空中に浮遊するウイルスの広がり
+を減らすのにある程度役立つかもしれない。抗ウイルス薬の使用がまたインフルエンザの症状の重症
+度と病気の伝播を減らすのに役立つかもしれない。しかしこれは抗ウイルス効果が評価できるまで保
+障できない。  
+重症治療の見通しからは、患者へのパンデミックの意味合いは次の二つのカテゴリーに分けられ
+る。 
+PM?インフルエンザウイルス感染と診断あるいは診断の可能性がある、あるいはウイルス感染のため多
+臓器障害のリスクがある、二次的細菌感染がある、もともとあった並存疾患にこれらが累積した影
+響があるなどで、 ICU に照会あるいは入室した患者のため。  
+2. 他の患者や親戚、スタッフからウイルスが感染した可能性があるという他の理由ですでに重症治
+療サポートを必要とする患者のため。  
+すべての患者にとっては、重症患者治療サービスは入手できる資源、スタッフが限られているとい
+う重圧下にあるという事実から生じる、患者擁護にさらに加わったリスクがある可能性が高い。それ故
+これらの意味合いは、患者のリスクを最小限にし、拡張した設備を最大限に活かすために、高度の
+プランニングプロセスに含まれなければならないだろう。  
+最近発生した H1N1 インフルエンザの流行時は重症患者の間での院内感染は比較的低率であ
+った。これは SARS 発生時に呼吸系ウイルス伝播のリスクを減少させた、しっかりした感染コントロー
+ルの勧告（手洗い、手袋やガウンの装着、 N95 マスク使用）が守られたからかもしれない。  
+感染率が高い感染症の場合、患者の利益よりスタッフへのリスクに重きが置かれるべきである。  
+ 
+  
+[[p64]]
+62 
+感染制御と職業的健康手段 
+パンデミックインフルエンザウイルス感染は回避するのは難しそうだが、スタッフや他の患者への潜
+在的な感染はあるだろうから、個人防護具 (PPE) の十分な供給をしっかり進めるべきである。完全に
+勤務交代するためにはそのような防具を完全に使うことを推奨する必要があり、器具備蓄や感染の
+リスク（と重症度）、適切なワクチン接種が十分かどうかにほとんど明らかに影響するだろう。サージカ
+ルマスク着用がウイルス感染を減らす役割を担うといういくつかのエビデンスはあるが、 ICU の環境で
+は空中浮遊粒子を生み出す手技の数に対して十分に防御できるかという正当な懸念がまだある。
+それゆえ適切な個人防護具装着訓練（ N95 マスク装着テスト、装脱着時汚染を防ぐ、環境清掃）を
+確実に行うことによって、また手の消毒や器具表面の消毒など、精力的に遵守すべき標準業務手
+順を維持することにより、飛沫発生手技 (AGPs) を通しておこる疾病伝播のリスクを減らす基本方針
+を守ることは重要である。  
+十分な患者保護ヘルスケアシステムを提供するため、潜在的リスクを持つすべてのスタッフ（サポ
+ートテクニシャンやヘルスケアサポート従事者、秘書や部内のアシスタントなども含め）、質の高い感
+染コントロールと職業的健康対策におけるスタッフトレーニングをするための高度なプランニングをす
+る義務がある。これらの基本方針は SARS アウトブレイクから出版された勧告から入手できるし、パン
+デミックインフルエンザ感染コントロールや英国パンデミック計画過程で出来た重症患者感染コント
+ロールドキュメントにも書かれている。これらの活動を行うことやスタッフをやる気にさせることに失敗す
+ると、信頼を失ったりスタッフが減ったりすることが十分起こりうる。信頼が欠如すると、参加しないだ
+けでなくさらなる責任を請け負う意気込み、患者ケアや保護に働く意思にも影響する。それ故不確
+実な所はあるが、スタッフ保護は高いレベルで開始し、徐々に落とすべきである。制度上、法的保護
+と正規の場所以外で働くスタッフを援助するため、正規の安心プランを備えるべきである。デブリーフ
+ィングやコミュニケーションは患者とスタッフ双方の心的ストレスを減らすだろう。多くの決定に医学的
+法的意味が与えられる為には、包括的書類作成が必要である。適切な職業上の組織や学会、看
+護協会がサポートすると、専門的に働く地域以外で働くメンバーの助けになるだろう。十分な換気設
+備のある陰圧室の使用は推奨される。このような設備を持つ ICU は感染伝播のリスクを減らすため
+に使われるべきである。しかし多くの ICU 、とりわけベッドを増やすために合体した地域では、実際的
+なアプローチはパンデミック群と非パンデミック群に分けて治療することだろう。 ICU のデザイン［ 13］を
+修正することによって空気感染病原のリスクを減らすことは有用かもしれないが、人員が確保できる
+か、時間の余裕があるかにかかっている（参照：第 2 章：殺到する患者対応能力 Surge capacity と構
+造への配慮、第５章：操作概念、 C.隔離能力拡大）。  
+ 
+非臨床的リスク 
+患者、親戚、スタッフにはパンデミックの間に起る広範な潜在リスクがあり、その中には一次的なウ
+イルスのリスクと違う、臨床的意味合いを持つものがあるかもしれない。これらの潜在的リスクのその結
+果のいくつかは表１に示した。しかしこのリストは包括的でないかもしれない。また他の可能性は地域
+のプランで考慮されるべきである。しっかりした安全体制がこれらのリスクのいくつかを最小限にする
+ために必要なようである。  
+  
+[[p65]]
+63 
+スタッフ信頼への潜在的恐怖 
+潜在的問題の範囲は、 SARS アウトブレイク、ロンドン爆破テロのような以前の経験か、パンデミッ
+クや災害計画で発行された参考書類に書かれたフィードバックの結果として認識された。  
+ 
+ これらは広く次のように分類される。  
+感染関連  
+PM?患者の治療中に、仕事中にかかった感染や汚染のリスク??
+伝播する感染のタイプによって、あるいは高致死率の鳥インフルエンザが人から人へうつるタイプ
+に変われば、状況はかなり異なる。そのような状況では、スタッフの安全や防護するための警戒がより
+多く要求されるだろう。  
+2. 家族への感染伝播の懸念  
+インフルエンザパンデミックと SARS アウトブレイクの違いがあるにも拘らず、家族やパートナー、あ
+るいは親戚へのリスクについて、何故スタッフが重大な懸念を持つか理解できるだろう。とりわけ年齢
+や併存症の結果、有意に罹患しやすい場合である。多くのスタッフが感染の危機がある間、もし仕
+事場関連の別の宿泊施設が準備されれば、仕事を続けようと意欲を示した。インフラのように増える
+コストは重要であるが、これはスタッフを最大限集めるため、スタッフの代表者に相談する際考慮し探
+求されるべき、基本方針である。  
+3. 込み合う可能性のある公共交通機関での市中感染のリスク  
+込み合う列車やバスで旅行する経験のある人々は如何に多くの咳やくしゃみに出くわすエピソー
+ドが多いか気づいているだろう。プランニングの過程では、飛沫が広がり感染伝播を起こすリスクを最
+小限にするため、テイッシュペーパーの使用などを強く推奨するが、反応速度は変わるようである。そ
+れゆえスタッフはスタッフ確保が困難であれば、彼ら自身および患者ケアという観点で、重大な懸念
+を抱えている。だからヘルスケアの学会はこれらのリスクを最小限にする手段について、スタッフ代表
+と議論し同意を得るべきである。スタッフを確保するため、流行が続いている間、隔離施設へ収容し
+たり、近隣に住む同僚と一緒に移動したり、特別の移動システムを準備することも可能かもしれない。
+一緒に移動するシステムが進めば、感染罹患のサインがあるスタッフは参加を避けるべきである。サ
+ージカルマスクの着用は疾病伝播のリスクを減らすのに多少効果があるかもしれないということを示
+唆している最近のエビデンスは、旅行中の使用を正当化するだろうし、標準的衛生手段の重要性に
+気づかせる利点も加わるかもしれない。  
+ 
+仕事の活動性  
+PM?人員不足や過剰な要求のため標準的なケアを施せないこと。??
+多くの医療スタッフは需要に見合う十分な人材がいないため、患者のケアを制限すること、入院を
+制限することが必要であることを受け入れるのが難しいことがわかるだろう。しかしこれはパンデミック
+あるいは他の大災害では、避けられない結末である。  
+ヘルスケア協会はスタッフがこれらの潜在的問題に気づき、リスクを軽減するために、前もって訓練
+および情報を提供する責任がある。スタッフの訓練はイベントが持続する可能性のある期間に関す
+る情報や（もし可能なら）いつ正常な職場に戻れる期待ができるかということに関して安心させること
+[[p66]]
+64 
+を含むべきである。これは人員不足で回復に影響のでる急性期の患者のケアには利点は限られて
+いるが、もっと経過の長い患者（移植を待っている患者あるいは定期手術の患者など）では将来のケ
+アについての安心が与えられれば、利があるだろう。能率を上げるため、地方あるいは国のガイダン
+スに沿った事前対応計画ができれば、過剰な要求をうまく処理する能力を改善することができるだろ
+う。このプロセスでスタッフとの取り決めがなされると、いやなことが起こっても軽減されるだろう。スタッ
+フを最大限に使うということに失敗すると、とりわけ同僚や親類、友達が結果として感染した場合、モ
+ラルが落ちることになるだろう。  
+2. 入院や治療拡大を制限する必要性  
+同様の行動基準は正常な労働環境であれば、特別な治療の利点があると期待されるかもしれな
+い患者の入院受入れを減らす時にも適用される。これらの挑戦的な決定を助ける基準を全国的に
+承認すれば、これらについて罪の意識や不快感を部分的には減らすことが出来るだろう。信頼され
+る、そして適切に訓練された同僚と決定を共有することが重要だろう。患者やその家族への説明はと
+りわけ骨が折れる。もし人員確保の見込みや標準実施法上要求された違いが、イベントの意味合い
+や正常な期待に添えない理由について明白かつ国家的コンセンサスに導くプロセスを通して決定さ
+れれば、説明は特に有用かもしれない。治療が制限される理由に関する詳細な書類は当然必要で
+あろう。入院や治療拡大を制限する任務にあるスタッフは、地域や国の標準的基準に基づいて行動
+したことにより彼らが職業的な非難や訴訟になりにくいような、正式な承認を必要とするだろう。  
+3. 正常な環境では継続されうるであろう処置の制限  
+これはスタッフが実行しなければならないし、すべての関係者に十分不快感を与えることになりそうな
+最も議論の分かれる決定である。加えてスタッフが深い悩みや怒り、そして暴力を含む患者や家族の
+最大限の反応に遭遇するかもしれない。決定理由を完璧に記載して、国や地域のガイドラインに沿っ
+た意思決定を共有することは、人的にも医療法上も不可欠である。ある人々は、そのような決定は、国
+や地域のガイドラインによって推奨されたにもかかわらず不適切であり実施することを拒否するというか
+もしれない。（より大きいチャンスがあり、より高度な治療を受けることを拒否された）他の患者には結果
+的に意味があるので、選択された方法について詳細に記載することが不可欠であろう。  
+4. 過剰な仕事量と超過労働時間  
+増加した需要をうまく処理するために推奨することとしては、長い労働時間にシフトすることも含ま
+れる。これらの変化はケアを要する患者増や症状の重症化、引継ぎが益々複雑になることにより、さ
+らに増悪するかもしれない。スタッフのモラルへの累積効果を最小限にするため、スタッフの勤務交
+代を作り直し、小休止を置き、また適切な休み時間をとり、病気罹患の確率を減らす隔離を行うこと
+により、延長されたシフトの累積期間を同等にする必要がある。パンデミックや他の災害の間、異常
+な緊張にさらされるスタッフが、回復する適切な時間を与えられ、もし要求があれば危機が通り過ぎ
+た後サポートを求めることができることを保証するため、いろいろな計画を組み合わせることが重要に
+なる。  
+5. 治療制限の決定に関して同僚と意見が食い違う可能性  
+地方や国のパンデミック戦略に基づいて決定されたにもかかわらず、治療制限に関して意見が統
+一されていないことにより、スタッフの意見が食い違うことになるかもしれない。これらの決定の責任が
+最後に病院経営者やベテランのスタッフに降りかかるだろうが、すべての関係者の見方が尊重され、
+[[p67]]
+65 
+持ち上がったいかなる疑いも詳細に検討され、公然と議論されるのが重要である。もしこれらの努力
+にもかかわらず、コンセンサスや多くの同意が得られないのであれば、組織のメデイカルデイレクター
+（あるいは代理指名された人）によって独自に評価する、あるいは倫理委員会が状況を評価するか
+不和の解決を助けることが有用だろう。ヘルスケアのプロが彼らの倫理的標準と異なる行為に参加
+することを強いられるべきではない。職業的、医療法上意見が合わない可能性が考えられるので、
+理解できる説明書が必要不可欠である。また地方や国の政策に沿った決定がなされる時、どうやっ
+て訴訟のリスクを最小限にするか事前に計画しておくことは重要である。  
+非日常的環境では、これらの決定に強く反対するスタッフを患者ケアからはずすことは倫理的ある
+いは文化的観点から必要かもしれない。しかしこれは最後の逃げ道であり、彼らの懸念を晴らし同意
+が得られるよう他のすべての試みを行った後に考慮されるべきである。治療制限を受入れることがで
+きず、本来の職場で働けないスタッフは、他の職場に移す選択も与えられるべきである。患者の死を
+避けることができたかもしれない決定を受入れようとしなかったからといって、彼らの職歴を傷つけな
+いようにすることは重要である。  
+6. 通常の職場以外で働くあるいは処置を施すことへのプレッシャー  
+非常時には、スタッフが技術や専門知識を使う通常の職場以外でケアや処置を行うことを強いら
+れる可能性が高い。この圧力は彼らの雇い主によって、あるいは彼らの助けがあれば避けられるかも
+しれないのに、助けがないと患者が罹患あるいは死ぬ可能性があると気づくことによって生じるかもし
+れない。これらの責務における挑戦の多くは小児センターの専門家が不足している状態での病児の
+ケア時に必要かもしれない。  
+他の事例は以下のような場合である。  
+・ 重症患者のケアを拡充するため他の地域から雇われ、重症な人工呼吸器装着患者をみなけ
+ればならないスタッフ  
+・ 通常集中治療に携わっていない（しかし必要とされる主な手技を施すのに最も適任だと思われ
+る）、顧問麻酔医や訓練中の麻酔医からの援助要請  
+・ 人員不足や予定手術のキャンセルのため、通常の仕事が減少し、かつ急性期の患者の診療
+を助けようという意思のある、他の専門領域（外科やリューマチ医、皮膚科医など）からの臨床
+医の登用  
+・ 人材の最も有効な活用のため、委員会は前もって正式な安心プランを準備すべきである。  
+これには通常の職場以外で働くスタッフがどのように保護され、どこでも、訓練された同僚から適切
+にアドバイスや援助が受けられることについての、承認されたポリシーを入れるべきである。またそこ
+で出会うかもしれない困難にもかかわらず、まだリスクを最小限にしようとする責任、また判断や意
+思決定の重大なエラーを回避する責任があることを理解すべきである。  
+ 
+個人的或いは精神的  
+PM?個人的あるいは家族のリスクに関する心配??
+スタッフが（とりわけ小さい子供がいる場合）家族や併存症のため感染しやすい親戚のリスク、ある
+いは家族や親友が病気について心配することは避けられない。そのような心配を軽減できる単純な
+方法はないが、雇用主や臨床的指導者がこれらの懸念に同情的であり、静かで隔離された宿泊施
+[[p68]]
+66 
+設への移動の補助、適応のある抗ウイルス薬を（スタッフと家族が）服用できるよう、また要求があれ
+ば特別な休暇の許可など、サポートのインフラを事前準備することは重要である。  
+2. 患者治療制限に関する苦痛  
+・ 治療制限決定  
+・ 避けられる死  
+重症患者の回復を助け、避けられる死を防ぎたいがための職業上の決定をスタッフが行えば、患
+者のケアに責任のある多くのスタッフに、これらの制限の累積結果により大きな影響が出る。 SARS ア
+ウトブレイクや他の主な災害から得られた経験から、スタッフのモラルにネガテイブな影響を最小限に
+する最高の方法は、頻繁にチームワークを作る話合いを行い、心配事をみんなに打ち明け、非難の
+リスクをなくし、悲嘆や悲しみのレベルが完全に標準的で適切なものであることを認識することにより
+スタッフを安心させることである。  
+3. 家族や友人、同僚の死  
+特に人員不足や治療制限があり、通常の環境では死を免れたかもしれない場合、これらの死の
+意味合いは配慮されるべきである。スタッフの死はその人が自分の病院や地域でケアを受けた場合、
+より重大である。感染したスタッフの家族や友人がそのような結果になった場合、配慮されなければ
+ならない。感染したスタッフには可能な限り支援すべきであるし、（もし適切なら）すべての道理にかな
+った努力がなされるという安心を与えるべきである。すべての患者の死と同じように、亡くなったスタッ
+フや家族、友人には、宗教上完全に尊敬とサポートが与えられなければならない。忌引きを認め、援
+助のインフラ整備、死別カウンセリングが準備されるべきである。  
+4. 通常の専門領域外で働くことによる潜在的失敗や不手際  
+スタッフが通常の専門領域以外の患者をみるという事実は、たとえすべての道理のある試みがリス
+クを最小限にしたとしても、いくつかの失敗は避けられない。それ故、そのような仕事に係わるスタッフ
+は債務やおどし、悲嘆に遭遇することなく、報告できることが重要である。 このような困難な環境の
+もとでは、職業的な責任を果たしていないという十分な証拠がなければ、停職や処罰は避けるべきで
+ある。スタッフをサポートするため、カウンセリングの施設は準備しなければならないし、妥当であれば、
+適切な臨床領域で適切な時間枠で、仕事を続けることを促すべきである。  
+5. 反社会的あるいは対抗する家族の反応  
+スタッフは人材不足や治療制限の選択の結果として、患者や親戚と困難な環境に直面する可能
+性が高い。十分なコミュニケーションと正直な説明が優先されるが、正常な仕事環境でさえ、怒った
+家族から罵倒されたり暴力を受けたりする。それ故スタッフをサポートし保護するよう、安全システムが
+機能することが重要である。このような反応が期待できれば、臨床の場に現れる攻撃的な親類と話を
+したり、咎める可能性がある時さえ、前もって警備員を呼んでおく配慮がされるべきである。とりわけ
+身体的リスクを感じたり、意思決定に影響する武器を使う心配があるときには、警察のサポートが必
+要かもしれない。  
+6. 疲労と関係する心配  
+多くのそして延長する仕事のシフトで、スタッフは十分な休息がとれず、家庭や職場でも困難なこ
+とが有り、深まる心配や苦難に関係する問題を経験するだろう。だからこそ、管理者や雇用主はスタ
+[[p69]]
+67 
+ッフが極端に疲労しないよう、またリスクのあるスタッフにはカウンセリングやサポートが得られるよう、
+絶えず警戒しておく必要がある。  
+7. インフラやサポート整備に対する信頼の欠如  
+パンデミックや他の大災害時のスタッフの反応は常日頃の管理効果に影響されるようである。  
+ 
+以下の項目に関する、個人的あるいは職業的非難と訴訟  
+PM?治療制限決定??
+スタッフ確保に関する職業的非難や訴訟の潜在的意味合いは重要である。これは国の事情によ
+って異なるだろう。地方や国の推奨に基づく多くの正当な決定は雇用主にサポートされ、完全に守
+られることは極めて重要である。医療法を守るため、議論の分かれる環境において、国や地方の政
+策は、顧問や役員により連帯保証され公認される。危機時ケアの標準が働いているという正式な宣
+言をする事により、調整力、人員配置や少ない医療スタッフを使う医療者の保護ができる [18] 。 
+2. 通常の専門外のスタッフが行うケアの結果増加する合併率と患者転帰の基準  
+スタッフ支援は患者ケアを最大限にし、スタッフが困難な責務（付記 1、2、3）を遂行するのに必要
+である。そのような責任を果たそうとするスタッフを道徳上も身体上もサポートするヘルスケア施設を
+整備し、職業上の専門組織が共通認識されたガイドラインを作り、患者の利益を最大限にするため
+専門外の仕事をするスタッフを完全にサポートすることが重要である。  
+3. 過重労働や正常な指揮がとれずに起る、死亡や重大な合併症  
+重症患者ケア能力を上げ、適切なレベルのケアを出来るだけ多くの患者に提供しようとする全て
+の推奨戦略にもかかわらず、（人や設備といった）資源不足やすぐに発見できなかった合併症の結
+果、死亡や重大な合併症が起るかもしれない。感染伝播の危険があるため、病院間搬送や本国送
+還を嫌がるだろうが、これ以上にベッド不足が大きい原因となっている。これは神経学的あるいは心
+臓の合併症と関係ない状態での搬送時に問題になる。救急車搬送の制限や患者搬送を指揮する
+訓練を受けた人員の確保が出来ないことにも拠る。職業的非難や訴訟は責任のある個人や組織対
+象に、後々起るかもしれない。それ故そのような環境で起ることに前もって準備し、個人的な責任が
+生じないという安心を提供することが重要である。  
+ 
+人事内部や仲介業者あるいは部門の機能的役割と責任 
+重症患者治療スタッフや ICU 照会に責任のある管理者が、十分に隠れたスタッフ安全上の問題
+に気づき、これらを最小限にするため事前の準備をしておくことは大事である。これらの責任には、サ
+ービスを広げることが必要不可欠と考えられる、デイスポ製品や薬剤、液体酸素、個人防護品卸業
+者や警備など、他の業者や部門との話し合いや合意を調整しておくことも含まれる。  
+ 
+SOP を効果的に遂行するために必要な物資調整の後方支援と要求 
+承認された標準業務手順を実施・維持するためには、印刷あるいはオンライン上で見られるように、
+地域のプロトコールを要約した書類を準備すべきである。これらは特別な訓練活動で、プロトコール
+の推奨について、すべての担当スタッフに、周知されるべきである。これらのサービスを管理する責任
+[[p70]]
+68 
+のある人々と十分なコミュニケーションをとり、患者やスタッフの安全を守るため、標準業務手順の書
+き換えをフィードバックする機能があるべきである。  
+ 
+標準業務手順の維持 
+標準業務手順の遵守は優先されるべきである。管理の一貫性を維持することにより、スタッフに
+（比較的）心地いい部署で働く知識を与える利点がある。管理の一貫性は順不同で予測不能なプ
+ロセスには貢献しないので、現在のシステムや治療法から生じる潜在的な利点や不利益を同定する
+のにもっと信頼できるプロセスを提供する。学んだどのようなポイントも患者やスタッフに役立つその
+後の修正に繋がる。  
+ 
+推奨される訓練や演習活動 
+患者やその関係者、スタッフに起こりうるリスクは、訓練やシミュレーションを協力して行うことにより、
+減少するであろう。これらはスタッフが遭遇する可能性のある問題点や困難に気づくのを確実にする
+手助けになる。これらの訓練により以前想定されなかった問題に気づき、新しい解決策が思いつくこ
+とにも繋がるかもしれない。（全ての人が患者やその関係者になりうる）公衆に訓練や演習をやっても
+らうことは実際的な選択肢となりそうもないが、メデイアにパンデミックがどのようなものか、また治療制
+限が実際どのようなものか、広報してもらうべきである。しかし多くの委員会の情報を流すという挑戦
+は、もっと一般的に行われている恐怖を与える方法としてより、情報をバランスよくうまく釣合いをとっ
+て流されるべきである。  
+計画や訓練・シミュレーションの組織化には部外者も含まれるべきである。公衆の疑問や懸念が
+述べられ、またすべての計画段階で公然性、透明性が確認できる。  
+ 
+利益相反：なし  
+ 
+付記１：スタッフ援助の裏づけ 
+この書類の目的はインフルエンザパンデミックや他の大災害時に患者ケアに関わるスタッフに対
+する公式サポートの確認をとることである。スタッフが非常に挑戦しなければならない環境で最善を
+尽くしたにもかかわらず後で責められたり非難を受けたりすることがない、という基本方針は重要であ
+る。 
+スタッフは患者治療において困難な決定をしなければならないし、正常な仕事環境と異なる、結
+果的に生じるケアの流れに関わるということは、前もって知らされるべきである。結果的に治療の制限
+や撤退になるどのような決定も、地域や国の承認された指針に沿ってなされるべきであるし、決定し
+た理由を完全に文章化するのに関わった全てのスタッフと共有し同意をとるべきである。  
+また患者の利益を最大限にするために、スタッフが専門外でほとんどあるいは正式な訓練はまっ
+たく受けていないケアや処置をやらなければならないということは認められている。このような責任はよ
+り良い選択肢が全くない場合のみであり、そしてもっと経験があるか以前関連する領域で訓練を受
+けた他のスタッフから忠告や援助を得られるよう、全ての合理的な努力がなされるべきである。しかし
+もしよりよい選択肢がなければ、きわめて重要な要求としては、そのような責任をとろうとするスタッフ
+[[p71]]
+69 
+は持っているすべてのスキルや最善の治療を施す専門知識を、受け持った患者のために駆使すべ
+きであるということである。遠方の専門のセンターや Up-To-Date.com などのインターネット環境から更
+なるアドバイスを得る努力をすることも考慮されるべきである。  
+これらの標準手順に沿い、適切に文書化すること、（そして理想的には同僚の目撃した観察）によ
+り確認され支持されれば、次に起る事態、たとえばこれらが個人的な悲嘆や信頼喪失、職業上の批
+判や後々の訴訟においても、スタッフが完全にサポートされる。  
+最高執行責任者  
+メデイカル デイレクター  
+ 
+付記２：同僚や専門学会からのスタッフ サポート 
+インフルエンザパンデミック、あるいは他の大災害シナリオの間に患者ケアに関わるスタッフが挑戦
+しなければならない環境でベストを尽くしたがために後で罪や非難にさらされるべきではないというこ
+とは重要な基本原理である。  
+スタッフは患者治療において困難な決定をしなければならないし、正常な仕事環境と異なる、結
+果的に生じるケアの流れに関わるということは、前もって知らされるべきである。結果的に治療の制限
+や撤退になるどのような決定も、地域や国の承認された指針に沿ってなされるべきであるし、決定し
+た理由を完全に文章化するのに関わった全てのスタッフと共有し同意をとるべきである。  
+ 
+また患者の利益を最大限にするために、スタッフが専門外でほとんどあるいは正式な訓練はまっ
+たく受けていないケアや処置をやらなければならないということは認められている。このような責任はよ
+り良い選択肢が全くない場合のみであり、そしてもっと経験があるか以前関連する領域で訓練を受
+けた他のスタッフから忠告や援助を得られるよう、全ての合理的な努力がなされるべきである。しかし
+もしよりよい選択肢がなければ、きわめて重要な要求としては、そのような責任をとろうとするスタッフ
+は持っているすべてのスキルや最善の治療を施す専門知識を受け持った患者のために駆使すべき
+であるということである。遠方の専門のセンターや Up-To-Date.com などのインターネット環境から更
+なるアドバイス得る努力をすることも考慮されるべきである。  
+これらの標準手順に沿い、適切に文書化すること、（そして理想的には同僚の目撃した観察）によ
+り確認され支持されれば、次に起る事態、たとえばこれらが個人的な悲嘆や信頼喪失、職業上の批
+判や後々の訴訟においても、スタッフが完全にサポートされる。  
+ 
+代表  
+副代表  
+ 
+付記３：スタッフのための非日常的環境の確認 
+この文書の目的は、最近の例外的な環境ではスタッフが日常と異なる責任をとり、最大多数の患
+者に為しうる最高のケアを行う必要が出てきたことを確認することである。  
+適切な記録に関わり調査したスタッフと状況を議論すれば、次の重要なポイントが職務上確認さ
+れる。（必要に応じて、確認 /削除 /修正ポイント）  
+[[p72]]
+70 
+PM?全ての可能性のある選択は試され、必要な決定は同僚や担当の管理者に共有され承認され
+た。 
+2. 環境や為されるべき決定について完全に記録に残された。  
+3. 適切かつ実施可能な場所で、患者や近い血縁者や家族に完全な説明がなされた。  
+4. 専門外の領域でケアする責務があったスタッフは、他にもっと良い選択肢がないため、関わった
+患者にケアを施した。  
+5. 治療制限や撤退の決定が為されたところでは、決定が国あるいは地方の承認された方針に合致
+し、適切な経験のある同僚と共有していた。  
+6. 人材不足のため、正常な治療の方針や専門家への紹介が為されなかった。すべての正当な取
+るべき選択は試された。  
+それ故、スタッフは非常に困難な環境で、その結果完全に患者の利益のためにサービスを継続
+できるすべてを為すべく、患者の利益のためにできる最大限のことをやった。必要であればさらに詳
+細について記載するだろう。  
+ 
+ 署 名 
+臨床指導者  
+区域管理者  
+メデイカル デイレクター  
+最高責任者  
+ 
+ 
+ 
+ 
+  
+図PM?潜在的リスクとその影響
+潜在的リスク 影響
+燃料や輸送設備の制限 スタッフ不足
+学校閉鎖 スタッフ不足
+備品不足 すべての患者に十分な治療不能
+薬剤・デイスポ製品不足 すべての患者に十分な治療不能
+過重労働から来るスタッフの疲労 治療の妥協、薬剤間違い
+トリアージ・治療制限・治療撤退からスタッフに起こる、脅しや暴力 スタッフ集めに影響する、スタッフの不安や障害
+異なる治療決定を受けた患者家族の対立、暴力 他の家族への障害
+悪い結末や死に対する職業的非難や訴訟 正規の職場以外で働こうとする人材確保や意欲への影響
+[[p73]]
+71 
+ྍͷτϦΞʔδ
+ 
+成松 英智  
+札幌医科大学 救急医学講座  
+ 
+要約 
+目的： 重症患者治療のトリアージに特に着目して、インフルエンザの世界的流行や集団災害に備え
+た ICU や病院の準備に関する勧告と標準業務手順を提供すること。  
+方法 : 文献調査と専門家の意見に基づき、重症患者治療トリアージを含む主要な論題を定義する
+ためにデルファイ法 *を用いた。  
+*デルファイ法 delphi method  
+専門家グループなどが持つ直観的意見や経験的判断を、反復型アンケートを用いて組織的に集約・洗練す
+る意見収束技法。技術革新や社会変動などに関する未来予測を行う定性調査によく用いられる。 (注：本文
+には無し ) 
+結果： 鍵となる勧告は以下である：  
+（1） 医療資源に関連した権限と指揮の行使のために、医療施設、地区、地方／州あるいは国レベ
+ルでの緊急管理調整グループによる事故管理システムを確立する；  
+（2） 公平・公正を求めると ICU での治療効果を最も見込める患者に対する治療に制限をかける結
+果となる可能性がある；  
+（3） 通常の処置や診療はできなくなるかもしれない；  
+（4） ICU での治療と処置は、 ICU 管理を行っても死亡が予測される患者に対しては控えなければな
+らず、また ICU 治療を行っても改善が見られない、あるいは悪化していく患者に対しては中止し
+なければならないかもしれない；  
+（5） トリアージ基準は客観的、倫理的でかつ透明性が高く、公正に適用され、一般に公表されるべ
+きである；  
+（6） 広い地理的地域において重症患者治療のための医療資源が、医療資源の拡充・追加、等の
+あらゆる合理的努力にもかかわらず不足しているか、不足が見込まれる場合にのみ、インフルエ
+ンザの世界的流行に対するトリアージ規定を開始する；  
+（7） ICU 入室のための患者のトリアージは、（ ICU 治療の）有益性が最も高いと見込まれるか、あるい
+は「早く来院した者が先に治療を受ける」という原則に基づくべきである；  
+（8） トリアージ担当者は ICU 入室患者決定の適応基準と除外基準を適用すべきである。  
+ 
+緒言 
+目的  
+インフルエンザや他の感染症の集団発生、自然災害そして人為的災害のような大規模災害
+（MCE ）は、多くの重篤な疾病あるいは外傷の患者を発生させ、そしてそれにより医療資源が不足す
+る可能性がある  [1] 。 
+[[p74]]
+72 
+軍事行動において、国際法上も人道上も、トリアージは医療資源の不足に対処するために用いら
+れるべきとされている  [2, 3] 。 
+非軍事的場面でも、これらの原則は、災害後の限られた医療資源の割り当てと優先順位の決定
+に広く取り入れられている  [4 –10] 。 
+厳しい状況において、 ICU ベッドの不足は回避可能な死を発生させるかもしれず、そしてそれは
+義務的なトリアージにより助長される可能性がある。  
+最近の論文には重症患者治療のためのトリアージ規定を改善するための過程の記述があり  [11] 、
+災害時に ICU ベッドの需要が使用可能数を上回る事態となる可能性に基づいた草案が提唱されて
+いる[12 –15] 。 
+理想的にはトリアージ計画は、国家または地域レベルで策定されるべきである。  
+この標準業務手順（ SOP ）の目的は、重症患者治療（第 3 期）のトリアージ規定を支持する理論的
+根拠、構成要素、実施内容、背景基盤を記載して、 MCE 中に希少となる重症治療医療資源の割り
+当てと優先順位決定のための手引きとすることである。  
+ 
+対象 
+この SOP は、インフルエンザの世界的流行や MCE （大規模災害）への対応に関連した重症患者
+治療を行う可能性がある全ての病院や医療現場に適用される。各施設は、地区、地域／州、国家
+でのより広い枠組みの中でこの SOP を履行するべきである。  
+ 
+目標と目的 
+PM?lbd?に伴う重篤な外傷あるいは疾病による死亡者数を最小限にする。??
+2. 一般的倫理に準拠した患者治療の優先順位決定と医療資源の割当を行う。  
+3. 混乱を軽減させるため、そして MCE 対応時にとられる対応の有効性を向上させるためのプロセス
+と組織を提供する。  
+4. 重症患者トリアージが不適切に適用されないように、そして説明責任が過程に組み込まれること
+が保証されるように適切に確認しバランスを取る。  
+5. トリアージプロトコールと意思決定は透明性が高く、公開され、公に議論されなければならない  
+[14] 。 
+ 
+定義 
+Central Triage Committee (CTC) （中央トリアージ委員会）：  
+広い地域における現状認識（医療資源供給とそれらの需要についての情報）やトリアージ規定を
+改善するための調査を実行する能力を持ち、トリアージの結果を監視する専門家集団のこと。このグ
+ループはインシデント管理システム（ IMS ）の業務機構内にあり、地域／州あるいは国家のいずれか
+のインシデントマネージャーに対し提言を行う。  
+ 
+  
+[[p75]]
+73 
+Command and control （命令と管理）：  
+インシデント管理システム（ IMS ）あるいは同等のシステム、等の、適切な管理システムを使用した
+医療資源に対する権限の行使と管理。  
+ 
+Inclusion criteria （適応基準）：  
+ICU 入室による治療的恩恵が受けられ、主に呼吸不全に主な問題点がある患者であるかを識別
+すること、その理由は人工呼吸器使用可能な施設であることが ICU を他の急性期医療施設（例え
+ば、L??）と根本的に区別するからである??zPQ|?Gs?PH?。?
+ 
+Exclusion criteria （除外基準）：  
+ICU 入室の候補とならない以下の患者を識別すること： (1)ICU 治療を行っても予後不良と考えら
+れる、 (2) 確保が不可能な医療資源が治療に必要、 (3) 死亡率の高い予後不良の基礎疾患を有す
+る、(4) 予後が非常に良好と考えられる  [12] (Table 2) 。 
+ 
+Incident management system (IMS) （事故管理組織）：  
+行動を調整・実行するために、全員が用いる標準化された方法、規定、手順を採用する。それに
+は指揮、運用、計画、物流、財務 /管理の 5 つの機能領域の標準組織構造が含まれている  [16] 。こ
+の?hlr?の組織は各施設、地区、地域／州、国レベルでの緊急理事統制機構に含まれる??GeM?PH?。?
+ 
+Incident manager （事故管理者）：  
+医療施設、地区、地域／州あるいは国レベルでの IMS を施行する。  
+ 
+Mass casualty event (MCE) （集団偶発事象）：  
+多数の犠牲者が発生したが、医療施設あるいは社会資源は不足していない事象。  
+ 
+Minimum qualifications for survival (MQS) （生存のための最低制限）  
+1 人の患者に費やす医療資源量の上限を表す  [12] 。 
+ 
+Overtriage （オーバートリアージ）：  
+重症専門医療を必要としない患者に対し重症患者用医療資源を割り当てること。  
+ 
+Patient care team （患者治療チーム）：  
+患者への直接治療に責任を持つ、通常は医師をリーダーとした多くの専門分野から構成される
+チーム。  
+ 
+Primary triage （一次トリアージ）：  
+病院到着前に通常は救護隊員によって行われる。そして迅速な評価ができるように、非常に単純
+化された基準に基づく  [14] 。 
+  
+[[p76]]
+74 
+Secondary triage （二次トリアージ）：  
+典型的には病院到着直後に救急医や外科医によって施行され、初期治療介入を行う処置室へ
+患者を入室させる優先付けを行うこと  [14] 。 
+ 
+Sequential (formerly ‘Sepsis ’) organ failure assessment (SOFA) （SOFA スコア）：  
+重症患者治療における臓器機能不全の評価決定方法。この評価方法は呼吸器、心血管系、肝
+機能、凝固能、腎機能そして神経系の 6 つの異なる項目を基に評価する  [17, 18] (Table 3) 。 
+ 
+Situational awareness （現状認識）：  
+その環境において何が起きているかを知り、情報・事象・実際の行動が現在と近い将来における
+結果と目標にどのように影響するかを理解すること。トリアージに関しては、特に医療資源の供給と
+需要の両者を認識することである。  
+ 
+Critical care (tertiary) triage （重症患者治療（三次）トリアージ）：  
+インフルエンザの世界的流行や集団災害事象の際に、 ICU あるいは手術室のどちらかにおいて
+決定的な治療を行うための患者優先付けを行うために、集中治療医あるいは外科医により遂行され
+る [14] 。 
+ 
+Triage officer （トリアージ要員）：  
+MCE の際に重篤な疾病そして外傷患者の治療先を決定するためにトリアージ規定を適用する、
+十分な重症患者治療の経験のある集中治療医あるいは内科医／外科医などのこと。  
+ 
+Triage protocol （トリアージ規定）：  
+MCE の医療資源配分の際にトリアージ要員を補助するために用いられる、適応基準、除外基準
+そして優先順位付け基準と組み合わせた MQS のこと  (Tables 1, 2, 4) 。 
+ 
+Triage support team （トリアージ支援チーム）：  
+トリアージ要員の業務を支援する同じ職場の医療職員と事務職員を含む混成チーム。  
+ 
+Undertriage （過小トリアージ）：  
+患者の外傷あるいは疾患の重症度評価を誤った結果、適応基準や除外基準を適用した患者へ
+の重症治療医療資源を適応しないこと。  
+ 
+基本的仮定  
+PM?医療施設で事故管理システムが運用されていること。??
+2. 近隣や地域の医療施設の間で連携がとれていること。  
+3. 病院が医療機材・医薬品・基本的な物品の備蓄などの点で MCE にすでに備えていること。  
+4. 医療資源が不足しているか、不足が予想される場合のみ治療制限が認められる。  
+[[p77]]
+VT?
+5. より多くの患者に対するより良い治療を公正公平の理念に基づいて追求すると、 ICU での治療
+効果を最も見込める患者に対する治療を制限することになるかもしれない。  
+6. 通常の処置や通常行っている標準的診療は行えないかもしれない。 ICU 治療を行っても死が
+見込まれる患者に対する ICU 治療と処置は控えなければならず、症状改善が得られず悪化し
+ていく患者への治療は中止しなければならないかもしれない  [19] 。 
+7. トリアージ基準は客観的、倫理的かつ透明性が高いもので公正に適用され、公表されるべきで
+ある。  
+8. トリアージプロトコールはエビデンスと可能な限り最良の実践経験に基づくべきである。  
+9. 重症患者治療のための医療資源が現在不足しているか不足が予想される場合や、より広い範
+囲への協力要請や、医療資源確保のためのあらゆる努力が行われた場合にのみ、トリアージは
+行われるべきである  (Table 5) [14] 。 
+10. インフルエンザの世界的流行の際には、例年の冬期の ICU 患者数に加わる約 4～6 週間にわ
+たる患者数増加や、数週にわたる実質的な業務量や医療資源消費の追加を病院は見込むべ
+きである  [19 –22] 。 
+ 
+指揮命令系統の概略  
+倫理的で確実なトリアージを行うためには、十分な状況認識が不可欠である  ［12,14 ］。個別の機
+関が広大な地域にわたって必要とされるレベルでのトリアージの実施について決断を下すための十
+分な状況認識をもつことは不可能である。しかしながら、個別の機関より上位の組織が、機関からの
+情報（能動的であれ受動的であれ）なしに、正確な医療資源の認識を持つことは困難である。それ
+故、必要な下部組織による様々なレベル間での協調や情報伝達がトリアージ成功のために不可欠
+である  ［12］。  
+インシデント管理組織に統合された中央トリアージ委員会（ CTC ）は、 MCE より前から設置される
+するべきである。 CTC に属する権限のレベルは、地理的要因と社会構造に依存する。 CTC は医療
+機関の間での相互援助が成立する大きな地域／人口基盤に対する管理部局に置かれるべきであ
+る。これは北アメリカやオーストラリアでは地方や州のレベルに置かれているのが最も一般的であるが、
+ヨーロッパでは国家もしくは国際的なレベルに置かれている。  
+トリアージを行う権限は、 CTC から地方の IMS 機構、地域の IMS 機構、施設の IMS 機構、最終
+的には IMS の運用部門で働くトリアージ要員にまで浸透させるべきである。情報の双方向循環はこ
+の指揮系統を通るべきである。権限の概略の図を Fig.1 に示す。  
+ 
+運用の概念  
+通常の運用：通常の状況下では重症患者治療トリアージ規定は使用されるべきではない。トリア
+ージの訓練と演習を実施するべきである。  
+非通常時の運用：非通常時の運用時には重症患者治療トリアージ規定は用いられるべきではな
+い。情報は CTC に入るべきであり、悪化の可能性を評価する状況分析が行われるべきである。状況
+により、トリアージ要員は警戒態勢に入るべきである。 CTC は物資供給と需要状況を監視すべきで
+ある。  
+  
+[[p78]]
+76 
+緊急時の運用： MCE の際の緊急行動時には、 CTC が招集され状況評価を指揮するべきである。ト
+リアージ要員は待機体制に入るべきであり、トリアージ機構も準備されるべきである。トリアージ規定
+は、あらゆる医療資源を増加させる合理的な努力や追加医療資源の獲得にも関わらず、広大な地
+域にわたって現在もしくは予期される需要に対して医療資源不足が発生することが明白となった場
+合にのみ適応されるべきである。  
+一度トリアージを始める決定が下されると、患者の第一トリアージは病院より以前の段階（屋外、
+医院、地域評価センター）で、第二トリアージは救急科によって、どちらもそれぞれの状況下で適切
+な規定に則って行われるべきである。  
+ICU 治療が必要と考えられる全ての重篤な症状の患者は、トリアージ要員に評価されるべきであ
+る。ICU 患者のトリアージには賛否両論がある。専門家は ICU 治療の恩恵を最も受けられる患者か
+ら受けるように??［QR，QS］、あるいは“最初に来た患者から受ける”という［?QT］基本に則って患者を受
+け入れるよう推奨している。それぞれの機関は、明確な様式で上級医が使用する独自のトリアージ
+基準を決定するべきである。トリアージ要員は、可能であれば ICU 入室条件を決定するための優先
+順位決定ツール（ Table1, 2, 4 は一例）を使用して、適応そして除外基準を一緒に適用すべきである。
+Sequential Organ Failure Assessment (SOFA) score を使用した Table4 の優先順位決定ツールには
+限界があり、未だ有効性は確認されていない。最近の H1N1 インフルエンザ患者においては、第 1
+病日の SOFA score は第 28 病日と全体の死亡率に有意に関連を示してしていたが  ［21, 26 ］、イン
+フルエンザ患者の入院日と第 3 病日の間での SOFA score 改善の少なさは、インフルエンザ患者に
+とってどの特異的時期での再評価がもっとも適切  ［27］かという問題を提起した。しかしながら、トリア
+ージ規定は様々な病気や外傷をもつ全ての重症患者に適応されなくてはならず、そして、 48 時間
+後の再評価は予後を反映する  ［17］ことに注意することが大切である。 SOFA score は災害トリアージ
+に使用するようには想定されておらず、そして臨床検査を必要とすること、治療法決定（例えば
+Vasopressors の使用）により影響されるスコア変動があること、さらには純粋に生理学的な変化やス
+コアの適応と解釈の変動性（例えば Glasgow Coma Scores の評価）など、いくつかの限界点がある。
+最近の試験的調査の結果は、 SOFA に基づいた集中治療トリアージ規定の適用は、集中治療によ
+る恩恵をもっともよく受けるであろう患者への医療資源の不足と、必要資源の増加をもたらすことを
+示唆している［ 28］。しかしながら、もう一つの研究はこの示唆を支持しなかった［ 29］。 
+MCE の時点で、全ての ICU で治療中の患者もまた同様の判断基準に基づいて適応を評価され
+るべきである。 ICU 入室基準に適合しなかった患者は、一般病棟に移る。患者はもし当初軽症であ
+ったのにその後状態が悪化した場合、あるいは入室対象から除外されたのに症状が改善した場合
+には、トリアージ要員あるいはサポートチームによる再評価を受けるべきである。 ICU 入室の優先順
+位は、まず「赤」のトリアージを受けた患者が受け、続いて「黄」のトリアージを受けた患者が得る。「青」
+／「黒」に分類された患者は一般病棟に残り、患者ともしくは家族の要望を考慮した初期治療チー
+ムの裁量で、積極的治療施行の有無に関わらず対症療法を受けるべきである。  
+重症治療トリアージが始まった時点で、重症患者治療を受けている全ての患者は、適応・除外基
+準と場合によっては優先順位決定ツールを使用したトリアージ要員／サポートチームにより評価を受
+け、「初期評価」により分類されるべきである。重症患者治療の適応基準に合致しなかった患者は初
+期治療チームによって運営される適切な病棟へ移動させられるべきである。「赤」か「黄色」に分類さ
+[[p79]]
+77 
+れた患者は重症患者治療室に残り、下記のごとく再評価を受ける。「青」／「黒」に分類された患者
+は対症療法へ移行し、初期治療チームによって適切な病棟へ移動されるべきである。  
+重症患者治療室に入室した患者は、 48 時間後と 120 時間後（第 2 病日と第 5 病日）にトリアージ
+要員／サポートチームにより再評価されるべきである。第 5 病日での ICU での再評価試験は、人工
+呼吸管理を受けている悪性腫瘍患者に関して有用であることが示されている［ 30］。  
+5 日以上重症患者治療を行うか否かの患者管理に関する決定は、利用可能な医療資源に依存
+する。緊急事態からの最初の 5 日以内に、 CTC は 5 日目以降の治療に関する決定を下すべきであ
+る。潜在的な選択肢としては、毎日の再評価と 120 時間以降無期限の判断基準による分類、毎日
+の再評価と 120 時間後から限定された期間での判断基準による分類、別の判断基準を用いた規定、
+そして対症療法への移行と一般病棟への転棟がある。  
+重症疾患の患者数が増加している間は、症状の安定している患者を別の施設へ搬送することの
+可能性を考慮しなければならないだろう  ［13］。  
+利用可能な医療資源が確保され次第、重症患者トリアージは中止されるべきである、そしてまず
+は変更された治療基準による管理を始めるべきであり、最終的には標準治療が行われるべきであ
+る。 
+トリアージの中止は、 CTC の判断による退室基準と優先順位の基準の変化によって段階的に行
+われるかもしれない。  
+内部の人員や共通機関あるいは部門の機能的な役割と責任  
+政府／非常事態管理局（州／地域そして国家レベル）：緊急対応（重症患者治療トリアージを含
+む）のための法律上／方針の骨格の確立と、トリアージを行うための基盤の供給。 CTC の任命。  
+中央トリアージ委員会 (CTC) ：地方、地域そして／あるいは国際的な状況認識の際に、地域レベ
+ルの専門家集団は、トリアージ規定を改良し、トリアージ要員を教育し、 MCE の間もし重症患者トリ
+アージが開始されるならばその決定を助け、トリアージ結果を監視し、 MCE を監視し、地域の ICU 資
+源の分布と再分布について助言を行い、トリアージプロトコルを改善し、そしていつ重症患者トリアー
+ジを中止するかを決定する権限を持つべきである。  
+地方の緊急管理調整グループ（地方レベル）：地域と医療施設の IMS 機構の間で連絡を取り合
+い、情報の流れを促進させる。地方ごとの医療施設間の対応を調整する。  
+医療施設の緊急管理調整グループ（病院／医療施設レベル）：このインシデントマネージャーを
+介してトリアージ要員が任命され、 CTC によって作られた規定に一致したトリアージを指揮するため
+に必要な支援と資源を確実に供給する。通常業務の期間は、適切なトリアージ要員の訓練と演習
+を確実に行う。  
+トリアージ要員（病院レベル）：全ての患者への重症患者治療適応の考慮と、 ICU に入室した患
+者それぞれへの優先度レベルの割り当てを、トリアージ規定に則り評価する。トリアージ要員は、必
+要な患者のデータをチャートレビューによって評価し、必要であれば治療チームと協議をするべきで
+ある。トリアージ要員は、その情報がトリアージの確定に影響する程決定的かもしれないという状況を
+除いて、患者を調査する必要はない。トリアージ要員は、どの患者に最優先で重症患者治療を施行
+するかを決定する最終責任と権限を有し、重症患者治療資源の再割り当てについて決定する権限
+が与えられるべきである。  
+[[p80]]
+78 
+彼／彼女らは潜在的に限界がある医療資源を用いて、最大多数患者の利益になる決定を行わ
+なければならない。トリアージ要員は一緒にいる臨床医と決定を共有し、医療記録に全ての評価と
+決定を記載するべきである  （Table6 ）。トリアージ要員は全患者を評価した際の情報と、トリアージ決
+定に関する情報を CTC に報告すべきである  [14] 。 
+トリアージサポートチーム（病院レベル）：トリアージ要員に、彼／彼女らの業務遂行を促進し、支
+援するための助力と情報を提供する。  
+ 
+SOPs の効果的実現のために必要な後方支援と必要条件  
+PM?トリアージのための法律上または方針の骨組み??
+2. 中央トリアージ委員会  
+3. データ収集機能（状況認識とトリアージ結果をモニタするために前線と CTC を結ぶこと）  
+4. インシデント管理機能  
+5. コミュニケーションネットワーク  （CTC とトリアージ要員の間の迅速なコミュニケーションを促進す
+る） 
+6. トリアージ規定  
+7. トリアージ要員（適切なトレーニングを受けた者）  
+8. トリアージ支援チーム  
+9. 緩和ケアチーム／規定  
+10. 上位の病院管理組織の関与  
+ 
+標準業務手順の管理  
+この SOP は最新のエビデンスと教訓を反映するために、訓練と MCE の後に続いて、年二回見直
+されるべきである。  
+ 
+奨励されたトレーニングと訓練活動  
+重症患者治療を提供する全ての医療施設には、トリアージ要員が必要となる。  
+その人数は病院の規模と重症患者治療用ベッドの数に依存する。 (Table7) 。  
+トリアージ要員とその代理者のためのトレーニングは、地域を超えて標準化され、 CTC によって提
+供されるべきである。  
+トレーニングプログラムは Table8 に記載された要素を含むべきである。トリアージ支援チームメンバ
+ーのためのトレーニング基準は、 MCE イベントに”ちょうど間に合う”トレーニングを施行するために
+CTC によって設定されるべきである  (Chap. 9, Educational process 参照 )。 
+MCE 中のトリアージについてのトレーニングに関する知識は、上級管理スタッフのみならず、全て
+の重症・急性期治療部門病院臨床スタッフに提供される標準救急トレーニングに含まれるべきであ
+る。 
+トリアージ要員は毎年 1 回の全課程の訓練と、机上訓練（テキストあるいはコンピュータによる）に
+参加するべきである。  
+[[p81]]
+79 
+CTC は毎年少なくとも 1 回、少なくとも 2 つの健康施設合同での全課程訓練と、毎年 2 回の机上
+訓練に参加するべきである。  
+それに加え、 CTC は通常の活動期間内に、トリアージ規定を試験、改善するために研究やコンピ
+ューターモデリングを行うべきである。  
+ 
+表 1 MCE 時に重症患者治療を行う際の適応基準  
+患者はカテゴリー A または B の中から、最低 1 つの基準を満たす必要がある  
+(A) 人工呼吸管理が必要であること  
+難治性低酸素血症（非再呼吸式マスク下 / FiO2 ＞0.85 で SpO2 ＜90% ） 
+PH＜7.2 の呼吸性アシドーシス  
+切迫呼吸不全を示す臨床所見  
+気道確保困難（意識レベル変化、分泌物過多あるいは他の気道に関する問題）  
+(B) 低血圧  
+昇圧剤 /陽性変力薬を必要とする，輸液負荷による昇圧が困難なショックの臨床所見（意識レベル
+変化、尿量減少や他の臓器不全）を伴う低血圧（収縮期血圧＜ 90 mmHg あるいは相対的低血圧）  
+ 
+表 2 MCE 時に重症患者治療を行う際の除外基準  
+以下のいずれかがあてはまる患者には重症患者治療を行わない  
+(A) 重度外傷  
+外傷重症度スコア（ TRISS ）で予測死亡率が 80％以上  
+（計算方法は  http://www.sfar.org/scores2/triss2.html 参照）  
+(B) 以下のいずれか 2 つを満たす重度熱傷患者  
+60 才以上  
+熱傷面積が総体表面積の 40％以上  
+気道熱傷  
+(C) 心停止  
+目撃のない心停止  
+電気治療（除細動やペーシング）に反応がない目撃のある心停止  
+反復する心停止  
+最初の重症不整脈に対する電気的除細動が成功し、循環が再開・安定化した後 72 時間以内の 2
+度目の心停止  
+(D) 高度の基本的な認知障害  
+認知障害のため独立して日常生活活動（ AODLs ）を送ることができない患者や、認知障害のため入
+院している患者  
+(E) 進行性で治療法がない神経筋疾患  
+(F) 転移性悪性疾患  
+(G) 進行性で不可逆的な免疫不全患者  
+[[p82]]
+80 
+通常これは、有効な抗ウイルス剤による治療の選択枝がない AIDS によるものであるが、稀に、ある
+種の先天的な免疫不全状態によることもある  
+(H) 重度で不可逆的な神経学的事象や状態  
+(I) 以下の基準を満たす末期の臓器不全  
+PM?心機能??
+NYHA class III ，または  class IV の心不全  
+Class I: 活動制限のない患者；通常の活動でなにも症状がない  
+Class II: わずかな、中程度の活動制限のある患者；休息時や軽度の活動では症状がない  
+Class III: 著しく活動制限のある患者；休息時のみ症状がない  
+Class IV ：完全に休息していなければならない患者で、ベッドやイスでの生活に限られる；あらゆる身
+体活動で症状の悪化があり、休息時も症状を認める  
+2.肺機能  
+P?秒量が予測基準の?QT％以下であるか、平常時の?onQ?が?TT?g?以下、あるいは?Q?次性肺高
+血圧を伴った慢性閉塞性肺疾患  
+気管支拡張薬使用後でも 1 秒量が 30% 以下であるか、平常時の PaO2 が 55 mmHg 以下の肺嚢胞
+性線維症  
+肺活量または総肺気量が予測値の 60% 以下であるか、平常時の PaO2 が 55 mmHg 以下、あるい
+は 2 次性肺高血圧を伴った肺線維症  
+NYHA class III あるいは IV の心不全を伴うか、右房圧が 10 mmHg 以上、あるいは平均肺動脈圧
+が 50 mmHg 以上の原発性肺高血圧症  
+在宅酸素が必要な患者  
+3.肝機能  
+Child-Pugh スコア≧ 7 
+血清総ビリルビン  
+ビリルビン値＜ 2 mg/dl: 1 ポイント  
+ビリルビン値 2–3 mg/dl: 2 ポイント  
+ビリルビン値＞ 3 mg/dl: 3 ポイント  
+血清アルブミン  
+アルブミン値＞ 3.5 g/dl: 1 ポイント  
+アルブミン値  2.8 –3.5 g/dl: 2 ポイント  
+アルブミン値  ＜2.8 g/dl: 3 ポイント  
+INR 
+INR ＜1.70: 1 ポイント  
+INR 1.71 –2.20: 2 ポイント  
+INR ＞2.20: 3 ポイント  
+腹水  
+腹水なし： 1 ポイント  
+治療によりコントロール可能な腹水： 2 ポイント  
+[[p83]]
+81 
+コントロール困難な腹水： 3 ポイント  
+脳障害  
+脳障害なし： 1 ポイント  
+治療によりコントール可能な脳障害： 2 ポイント  
+コントロール困難な脳障害： 3 ポイント  
+(J) 待機的な姑息的手術  
+2 年生存率 50％以下の末期状態（すなわち、癌）の患者に対する症状緩和を目的とした手術  
+ 
+  
+[[p84]]
+82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+図 1 インシデント管理システム（ IMS ）の機構  
+点線で示すように CTC （中央トリアージ委員会）から IMS のレベルまでトリアージ権限の連続性が保
+たれている。  
+相方向のコミュニケーションがこの連鎖をとおして行われなければならない。これは指示や管理の流
+れを示すものではない。  
+2 点鎖線は CTC と地方トリアージ要員との間に（双方向に）流れる直接データ入力を示す。  
+  
+地方
+緊急管理制御機関
+事故管理者
+手術部門 企画部門 金融/管理部門流通部門
+医療施設
+緊急管理制御機関
+事故管理者
+トリアージ
+要員
+トリアージ
+支援チーム
+地区
+緊急管理制御機関
+事故管理者
+中央トリアージ
+委員会
+手術部門 企画部門 金融/管理部門流通部門
+手術部門 企画部門 金融/管理部門流通部門
+[[p85]]
+83 
+表 3  連 鎖 的(以前は '敗血症 ') 臓器不全評価  (SOFA) スコア  
+変数  0 1 2 3 4 
+PaO2/FiO2, mmHg  ＞400 400 300 200 100 
+血小板 , ×103/ μl(×106/ ｌ)  ＞ 150 （＞
+150 ） 150(150) 100(100) 50(50) 20(20) 
+ビリルビン , mg/dl ( μmol/l) ＜1.2( ＜20) 1.2-1.9(20-32) 2.0-5.9(33-100) 6.0-11.9(101-203) ＞12( ＞203) 
+低血圧  なし  MABP ＜70mmHg Dop=5 Dop ＞5,Epi=0.1 Dop ＞ 15,Epi
+＞0.1 
+    Norepi = 0.1 Norepi ＞ 0.1
+グラスゴーコーマスコア   15 13-14 10-12- 6-9- ＜6 
+クレアチニン , mg/dl 
+(μmol/l) 
+＜ 1.2( ＜
+106) 1.2-1.9(106-168) 2.0-3.4(169-300) 3.5-4.9(301-433) ＞5( ＞434 ) 
+投与量の単位は μg/kg/min, ( ) 内は SI 単位：国際単位  
+原文には記載されていないが、腎臓 SOFA スコアに対して、
+腎機能代替療法については 4ポイントが与えられる場合もあ
+る 
+参考文献  [17] より    
+Dop ：ドーパミン , Epi ：エピネフリン , Norepi ：ノルエピネフリン
+ 
+表 4  トリアージ優先順位決定ツール  
+カラー
+コード  初期評価  48 時間評価  120 時間評価  優先度 /行動  
+青  除外基準   
+あるいは SOFA ＞11  
+除外基準  
+あるいは SOFA ＞11 
+あるいは SOFA 8-11 
+no ∆ 
+除外基準
+あるいは SOFA ＞11
+あるいは SOFA ＜8 
+no ∆ 
+医療マネージメント  
++/- 
+緩和と重症患者治療の中止  
+赤  SOFA ≦ 7 
+あるいは単一臓器不全  
+SOFA ＜ 11 
+かつ減少しつつある  
+SOFA ＜ 11 か つ
+進行性に減少しつつ
+ある  
+最も高い  
+黄  SOFA 8-11 SOFA ＜ 8 
+no ∆ 
+SOFA ＜ 8
+かつ  
+72 時間で 3ポイント以
+下の減少を伴う  
+中間  
+緑  重大な臓器不全なし  人工呼吸管理から  
+離脱  
+人工呼吸管理から離
+脱  
+延期  or 中止 , 
+必要に応じ再評価  
+アンダートリアージ：患者の外傷あるいは疾患の正確な重症度評価を誤った結果生じる、適応基準と除外基準に
+適合した患者への重症患者治療資源の配分の失敗。  
+ 
+表 5  不十分な医療資源を配分するためのトリアージ手順を開始するために必要な状況  ［14］ 
+非常事態宣言あるいは国家的重要案件  
+ 
+国による災害医療機構，および国による相互援助や資源管理システムが稼働した状況  
+医療施設内において増大した収容能力が完全に利用された状況  
+保護、再利用、適応、代用の試みが最大限に行われている状況  
+医療資源（人工呼吸器、抗生剤）の制限が危機的であると確認された状況  
+下部組織（隔離施設、職員、労働力）の限界が確認された状況  
+地方や地域の保健当局に医療資源や下部組織の設置が要求された状況  
+地域、州、連邦政府レベルで医療資源の配分や下部組織の設置に関する動きが進行中である状況  
+ 
+  
+[[p86]]
+84 
+表 6  医療記録文書  ［14］ 
+緊急大規模重症患者治療（ EMCC ）シナリオの発生時における患者記録は，以下に示されたこと
+に特に注意を払って記載するべきである  
+ 非常事態宣言が存在し、医療施設の緊急事態対策機構が始動していること  
+ 医療施設や地域の全ての現存する医療資源や増大した収容能力が崩壊そして／あるいは使用
+し尽くされていること  
+明確な医療資源供給能力は差し迫っていないこと，そして医療の配給制をもたらすような大規模ト
+リアージ方策が病院ごとに規定されたこと  
+ トリアージ要員／チームは医療資源使用を抑制するための評価を行い、そして任意の方式ではな
+く、地域のインシデント管理者の許諾と、国の非常事態宣言との同調と、制定された法的保護のも
+とで行動していること  
+ 支持療法と苦痛軽減のためのあらゆる医療手段が開始され、かつ継続されていること  
+内部記録（トリアージ委員会による）も含まれるべきである  
+ 重症患者治療のための医療資源の再割り当てが厳密に検討されている全ての重症患者治療サ
+ービスを受けている患者について．それらの医療資源が再割り当てされたか否かについて．なぜ重
+症患者治療資源の再割り当てを受ける患者が選ばれたかについて、選ばれなかった患者と比べて、
+説明と理論的根拠があるべきである  
+ 重症患者治療サービスを必要としているがそれをまだ受けていない全ての患者について，これら
+の患者の治療優先順位について、最終的にはどの患者に重症患者治療を認めるかについて  
+ 
+表 7  トリアージ要員と代理者の人数  
+集中治療ベッド数  トリアージ要員数  代理者の人数  
+<20 2 2 
+20 - 40 4 3 
+>40 6 4 
+ 
+  
+[[p87]]
+85 
+表 8  トリアージ要員訓練の構成  
+インシデント管理機構  
+ 大災害時の基本的な管理  
+ ト リ ア ー ジ の 歴 史 と 進 化 
+ ト リ ア ー ジ の 方 針 
+ 過剰トリアージとトリアージ不足がもたらすもの  
+ ト リ ア ー ジ の 倫 理 
+ 地域でのトリアージの立法および政策の枠組み  
+ 地 域 で の ト リ ア ー ジ 規 定 
+地方でのトリアージ下部組織  
+ 中央トリアージ委員会  
+ データ収集機構  
+ ト リ ア ー ジ 情 報 ネ ッ ト ワ ー ク 
+トリアージ決定文書  
+コミュニケーション能力  
+ストレス管理  
+トリアージを実行することによる心理的影響  
+ 
+  
+[[p88]]
+86 
+ୈ  ষ ҩྍॲஔ
+ 
+西田 修  
+ 藤田保健衛生大学医学部 麻酔・侵襲制御医学講座  
+ 
+要旨 
+目的： インフルエンザに罹患した患者および罹患していない患者に、安全に処置を行うための十分
+なリソースがあり、適切なプロトコールが構築できるようにすることを目的とした、集中治療室への勧告
+および標準業務手順、ならびにインフルエンザパンデミックあるいは大量災害に対する病院の備え
+について示すこと。  
+方法： 文献レビューとエキスパート・オピニオンをもとに、デルファイ法を用いて、医療処置の実施を
+含む本質的トピックを規定した。  
+結果： 重要な勧告としては、以下のものが挙げられる： (1) ハイリスク処置を明確に規定する（飛沫発
+生手技）； (2) ある種の処置についてはパンデミック中に実施するかどうか決める； (3) ハイリスク処置を
+安全に実施するためのプロトコールを構築する。これには、処置の適切さ、参加するスタッフの要件、
+実施場所、スタッフを保護するための装備、安全な実施法、および必要な装備についてのことを含
+む； (4) ハイリスク処置に従事するスタッフに十分な訓練を行えるようにする； (5) 可能な限り、処置をベ
+ッドサイドで実施しなければならない； (6) 飛沫の発生を避けるため、安全な呼吸療法が実施できるよ
+うにする； (7) 安全な人工呼吸装置を用意する； (8) 選択的処置をキャンセルならびに（もしくは）変更
+する判断基準を決める。  
+結論： パンデミック中に至適なアウトカムを達成するようにするには、医療処置を安全に実施するため
+の慎重なプラニングとプロトコールの採用が必要である。  
+ 
+キーワード 
+医療処置；勧告；標準業務手順；集中治療室；病院； H1N1 ；インフルエンザ・エピデミック；パンデミ
+ック；災害  
+ 
+緒言 
+インフルエンザ・パンデミックの際には、インフルエンザ播種のリスクがあること、ならびに（もしくは）
+リソース（装備のリソースと人的リソースの両方の意味において）に限りがあるため、パンデミック期間
+中に医療処置やモニタリングを行う望ましさや能力に、通常とは違いが生じる可能性が高い。集中
+治療室 (ICU) 内および ICU 外の重症患者のアウトカムを至適化するには、医療処置とモニタリング
+の実施についての慎重なプラニングが必要となろう。確定的な勧告法を策定するのに必要なエビデ
+ンスはほとんどないが、以下に示した標準業務手順 (SOP) は、インフルエンザの特性に関する知識、
+他の呼吸器系エピデミック（すなわち SARS ）で経験したこと [1] 、エキスパート・コンセンサス [2] 、なら
+びに安全性を最大限に担保するアプローチに基づいたものである。  
+ 
+目的 
+パンデミック中にインフルエンザに罹患した患者および罹患していない患者に対するモニタリング
+および処置を安全に行うための適切なリソースがあり、適切なプロトコールが策定してあるよう担保す
+ること。  
+[[p89]]
+87 
+対象範囲 
+PM?重症患者のための、侵襲／非侵襲の治療／診断処置??
+2. 重症患者のモニタリング処置  
+ 
+目標と目的 
+PM?インフルエンザに感染している患者もしくはインフルエンザ感染の可能性が高い患者に実施する
+と、疾病伝播のリスクが高い処置を特定すること。  
+2. インフルエンザに感染している患者もしくはインフルエンザ感染の可能性が高い患者に実施する
+際のスタッフ、個人防護具個人防護具 (PPE) ならびにスタッフ防護法に関する基準を提案するこ
+と。 
+A. 処置を実施あるいは補助するスタッフの資格（適性）あるいは経験。  
+B. 処置中に活用する PPE 
+C. 処置の安全な実施のための基準  
+3. インフルエンザに感染している患者もしくはインフルエンザ感染の可能性が高い患者の勧告モニ
+タリング手順  
+4. パンデミック中に、病院のリソースを至適に活用するため、インフルエンザに感染していない患者
+の選択的処置をキャンセルもしくは変更するための判断基準を示すこと。第 7 章クリティカルケア・
+トリアージの章を参照。  
+A. 処置に関係するスタッフが、他の部門の患者のケアを支援する必要性  
+B. 処置に関係する装備（すなわち、人工呼吸装置、器具）を感染患者のケアに活用する必要性  
+C. ICU ケアや人工呼吸装置など、限られたリソースに患者を割り当てる必要性。  
+ 
+定義 
+Hospital Emergency Executive Control Group （院内 EECG ）：病院内の危機に関する総合的なマネ
+ジメントに対して執行責任を有する病院内の中央運用センター  
+ICU Emergency Executive Control Group （ICUEECG ）： ICU 内で生じた危機の合的なマネジメン
+トに対して執行責任を有する ICU 運用センター。このグループは院内 EECG に対して直接アクセス
+できなければならない。  
+個人防護具個人防護具：疾病伝播を低減するのに用いるマスクや手袋、着衣などの防護対策
+装備。  
+手順：インフルエンザに罹患した患者および罹患していない患者に対して実施する治療的介入も
+しくは診断的介入。  
+ 
+基本的な仮定  
+PM?感染患者に対して実施しているルーチン処置では、疾病伝播のリスクが高まるおそれがある。??
+2. 疾病伝播のリスクを最小限に留めるには、処置の変更が必要となろう。  
+3. トレーニングを受け、ならびに（もしくは）資格を有するスタッフだけがハイリスク処置を実施すべき
+である（第 4 章、人的資源（マンパワー）参照）。  
+4. ハイリスク処置の利用は、至適ケアが必要な患者に限定すべきである。  
+5. 可能な限り、感染患者に対する処置をベッドサイドで実施すべきである。  
+[[p90]]
+88 
+6. 他のスタッフや患者、来訪者に対する暴露を低減させるため、処置のために感染患者を移送す
+るのは最小限に抑えるべきである。  
+7. 感染患者のモニタリングは、患者のケアとスタッフの安全性を至適化するように変更すべきであ
+る。 
+8. 活用できるリソースに限りがあるため、選択的処置の実施に変更が余儀なくされよう。  
+ 
+指揮命令系統（第 3 章、インターフェースユニットとのコーディネーションおよびコラボレーション；第 7
+章、クリティカルケア・トリアージの図 1 も参照のこと）  
+A. ICUEECG が ICU 内でのインフルエンザに感染している患者もしくはインフルエンザ感染の可能
+性が高い患者への処置およびモニタリングの実施に関する方針やプロトコールを確定する第一
+義的責任を有する。ここで得られた勧告法を院内 EECG に示すべきである。多くのサービス部門
+からの情報は勧告法が必要になるであろうが、以下のサービス部門からの情報が極めて重要で
+ある：  
+1. ICU 看護師  
+2. ICU 医師  
+3. 感染対策  
+4. 呼吸器ケア  
+5. 放射線科  
+6. 移送サービス  
+7. 病院設備サービス  
+B. 院内 EECG は、処置ならびにモニタリングに関して、 ICUEECG が示した勧告法を承認し、実施に
+必要なリソースを提供する責任がある。院内 EECG はまた、病院のリソースを至適に活用するため、
+インフルエンザに罹患していない患者の選択的処置を制限する必要があるかどうか判断する責
+任もある。 ICUEECG 、臨床部門、手術室、サポートサービスならびに病院経営部門から情報や
+勧告が得られるであろう。  
+ 
+運用コンセプト  
+処置  
+PM?インフルエンザに感染している患者もしくはインフルエンザ感染の可能性が高い患者に実施する
+と疾病伝播のリスクが高い処置を、予め特定しておかなければならない。飛沫発生手技 (AGPs)
+は最もハイリスクである。そのような処置として考えられるもののリストを表 1 に示すが、装備のタイ
+プ、安全対策の存在などで、該当する処置には違いが生じるであろう。  
+2. パンデミック中には実施しない AGP を決定する（すなわち、非侵襲的換気法、気管支鏡検査、
+高頻度振動換気法）。  
+3. 以下の点を考慮した、ハイリスク処置を安全に実施するためのプロトコールを策定する [2, 3] ： 
+a. ハイリスク処置の適切さ（すなわち、蘇生、気管支鏡検査、非侵襲的換気法）  
+b. ハイリスク処置を実施できる臨床医の資格要件。  
+c. ハイリスク処置の実施中ならびに実施後の全てのスタッフに対する PPE 使用の必要性。
+ 
+防水ガウン、 N95 マスクあるいは同等品、フルフェイスシールドもしくはゴーグルおよび手袋を
+ハイリスク処置に使用することが望ましい。処置が終了した後、 PPE を適切に廃棄し、新たな
+PPE を着用すべきである。  
+[[p91]]
+89 
+d. ハイリスク処置を実施する至適な場所。  
+空気感染隔離室が、ハイリスク処置を実施する場所としては望ましいが、個室ももう一つの選
+択肢である。ポータブル高効率粒子空気 (HEPA) フィルター装置 [4] の使用も検討対象となろ
+う。 
+e. ハイリスク処置中に必要とされる最小限のスタッフ  
+目標は、処置を行うスタッフの数と暴露時間を最小限に抑えることでなければならない。  
+f. 処置中の部屋への入退室。  
+g. ハイリスク処置に用いる装備の安全な廃棄、あるいは十分な滅菌処置。  
+4. ハイリスク処置に必要な装備を決定する。可能であれば、感染患者に対する処置に用いる装備
+は、ICU 内に保管しておかなければならない。いくつかの頻繁に使用する装備については、感染
+患者あるいは感染の可能性の高い患者に使用するよう割り当てておくことができよう。  
+a. 人工呼吸装置の排気ポートに装着する HEPA フィルター。  
+b. バッグマスク換気装置ユニットに用いるフィルター。  
+c. 気管支鏡  
+d. 非侵襲的換気装置  
+e. スタッフ保護装備  
+f. ポータブル X 線撮影装置  
+g. 透析機器  
+h. 人工換気装置  
+5. 疾病伝播のリスクを低減させるための処置に対するスタッフの適切なトレーニングを担保する（第
+9 章、教育プロセス 参照）。  
+6. 感染患者もしくは感染の可能性の高い患者を病院内の他の区画に移送するのを最小限に抑え
+るため、可能な限り処置はベッドサイドで実施しなければならない。絶対的に必要となる処置だけ
+を、ICU 外で実施する。  
+7. 感染患者もしくは感染の可能性の高い患者を ICU 外に移送する際には、しかるべき安全性に関
+する事前対策を実施しなければならない。患者の感染状態、あるいは疑いのある感染状態につ
+いて、病院の各区画に情報伝達しなければならない。  
+8. 感染患者もしくは感染の可能性の高い患者に対する処置を行うため、他の区画に移送する際に
+は、処置区画（実施前と実施後）および輸送装備のしかるべき除染を感染対策ガイドラインに従
+って実施しなければならない。  
+ 
+呼吸／飛沫に関する点  
+PM?安全な処置を担保する??
+a. 呼吸分泌物が飛散しないようにする  
+b. 換気回路の接続の取り外しを最小限に留める  
+c. バッグマスク換気法はできるだけ最小限に留める。 Two-person バッグマスク換気は、マスクの
+シールを至適なものにし、呼吸分泌物への接触を最小限に抑えるようにする。  
+d. 換気装置を外す前に、換気装置を “スタンバイ ”
+モードにする。  
+e. ベンチュリーマスクの使用を避ける。  
+f. 可能であればネブライザーを使った投薬を避ける；定量吸入器の使用を検討する。  
+ 
+[[p92]]
+90 
+2. 安全な装備を提供する  
+a. 利用可能であれば、閉鎖型吸引システムを用いる。  
+b. 人工換気装置ならびにポータブル換気装置の排気ポートに高品質の細菌／ウイルスフィルタ
+ーを装着する。  
+c. 人工換気装置に加湿器を用いるのを避ける。  
+d. 気管内チューブ／気管切開チューブに高品質の細菌 /ウイルス人工鼻フィルター (HMEF) を
+装着する。  
+e. 高品質の細菌／ウイルスフィルターを排気ポートに、別のフィルターをマスクとバッグマスク換
+気デバイスのバルブとの間に装着する。  
+ 
+モニタリング  
+PM?感染患者もしくは感染の可能性の高い患者に対する最も適切なモニタリング法を確立する。??
+a. 室内への頻繁な入室を最小限に留めるため、ビデオモニタリングの実施を検討する。  
+b. バイタルサインや心電図などについては、室外でスレーブモニターを使用することを検討する。  
+2. 看護接触を至適化し、効率を高めるためのアセスメントや手順をまとめる（すなわち、バイタルサイ
+ンのモニター、体位変換、入浴など）  
+ 
+選択的処置  
+PM?以下の点を考慮して、選択的処置をキャンセルならびに（もしくは）変更する判断基準を定める。??
+a. リソースが限られている中で、選択患者が処置を受けた後に人工換気装置あるいは ICU での
+ケアを必要とする可能性がある。  
+b. 選択的処置を行う区画で業務を行うスタッフが、 ICU その他の区画での患者ケアを支援する
+必要性が生じる可能性がある。  
+c. 選択的処置を行う区画にある機器類が、他の区画での患者ケアに必要になる可能性がある
+（すなわち、 ICU 患者に麻酔用換気装置が必要となる）。  
+d. 選択的処置を受ける患者が、施設内に多数の感染患者あるいは感染の可能性の高い患者
+がいるため、暴露リスクが高くなると考えられる。  
+2. 選択的処置に用いるための区画（環境および装備品）の安全性を判断する（すなわち、感染患
+者との相互汚染の恐れ）。  
+ 
+機能的な役割と責任  
+A. ICU 責任者： ICU 責任者は、以下の責任を遂行するため、他のスタッフ、部門、サービスからの
+意見をコーディネートする：  
+PM?ハイリスク処置の特定??
+2. 感染患者あるいは感染の可能性の高い患者で処置を安全に実施するためのプロトコールの
+策定  
+3. 特定処置を実施できるスタッフの特定  
+4. 患者のモニタリングの必要性についての判断  
+5. 院内 EECG と、感染患者あるいは感染の可能性の高い患者に対する処置を行うのに必要なリ
+ソースについて協議する。  
+[[p93]]
+91 
+6. 院内 EECG と、選択的処置の実施に影響を及ぼす恐れのある ICU にとって必要なリソースに
+ついて協議する。  
+7. プロトコールならびに安全対策の遵守をモニターする。  
+B. ICU 看護師長：  
+PM?処置を安全に実施するためのプロトコールの策定を支援する。??
+2. 処置を実施するためのプロトコールに関して、スタッフの教育とトレーニングが確実に実施され
+るようにする。  
+3. 必要なら処置に関するスタッフの追加サポートを行う。  
+4. 処置をモニターし、プロトコールに遵守していることを確認する。  
+C. 感染対策：  
+PM?ood?ならびに処置の安全な実施についての情報を提供する。??
+2. 処置の安全な実施およびプロトコールに関する教育とトレーニングを実施する。  
+3. 処置をモニターし、プロトコールに遵守していることを確認する。  
+D. 呼吸器ケア：  
+PM?処置の安全な実施およびプロトコールに関する教育とトレーニングが確実に実施されるように
+する。  
+2. 呼吸器ケア装備のための適切な安全対策デバイスを支給する。  
+E. 環境サービス：  
+PM?ハイリスク処置に用いた装備と区画に適切な除染処置を行う。??
+2. 感染患者あるいは感染の可能性の高い患者の存在している区画内での安全な業務を行うこ
+とに関してスタッフの教育とトレーニングが確実に実施されるようにする。  
+F. 院内 EECG ： 
+PM?選択的処置を制限する判断基準を定め、必要な際に制限を施行する。??
+ 
+SOP の効果的実施に必要な後方支援ならびに要件  
+A. ICU および院内 EECG の専門知識、権限、および協力体制を活用して、処置、モニタリングおよ
+び選択的処置の制限についてのプロトコールを策定し施行する。  
+B. 関係するスタッフ全員に対するハイリスク処置の教育とトレーニング  
+C. ハイリスク処置の実施に経験があり資格要件を満たすスタッフを特定した名簿の策定  
+D. 処置、モニタリング、およびスタッフの防護に必要なしかるべき装備と区画を用意する。  
+E. プロトコールへの遵守を評価するモニタリングプログラム。  
+ 
+標準業務手順の維持  
+A. 病院は、年に 1 回、あるいは年に 2 回、大量感染イベントが関係する総合訓練に参加し、結果の
+評価を行わなければならない。  
+B. ICU
+は、特定の領域（自己防御、処置の実施、等）への能力を維持するための部門別部分的訓
+練に参加する方法を選択しても良い。  
+C. ICU および院内 EECG は SOP 改訂のための見直しを年に一度実施する。  
+ 
+勧告するトレーニングおよび訓練  
+A. インフルエンザ・エピデミック時の処置プロトコールに関して、関係するスタッフ全員の教育を行う。  
+[[p94]]
+92 
+B. 関係するスタッフ全員が参加して、プロトコールに従ってハイリスク処置のシミュレーショントレーニ
+ングを実施する。  
+C. インフルエンザ・パンデミックに備えて、 ICU 内訓練もしくは病院内訓練にハイリスク処置を含め
+る。 
+D. 机上訓練を行い、リソースの利用可能性ならびに選択的処置を制限する閾値について判断す
+る。 
+ 
+ 
+表 1 疾病伝播のリスクが高い処置  
+ 
+エアロゾル加湿  
+バッグマスク換気法  
+気管支鏡検査  
+心肺蘇生法 [5] 
+気管内チューブの換気装置からの取り外し  
+抜管  
+高流量酸素療法  
+高頻度振動換気法  
+挿管  
+排気ポートに HEPA フィルターを装着しない状態での人工換気  
+鼻咽頭スワブ  
+経鼻気管内吸引もしくは経口気管内吸引  
+薬剤のネブライジング  
+非侵襲的陽圧換気法  
+外科的気道確保  
+ 
+ 
+  
+[[p95]]
+93 
+ҭ
+ 
+川前 金幸  
+ 山形大学医学部 麻酔科学講座  
+ 
+要旨 
+目的： インフルエンザ大流行（パンデミック）と大災害について、病院と ICU で関係する人々、特に、
+緊急時に指揮命令をするグループ、 ICU のスタッフや患者の補助をするために任命されたスタッフ、
+に対する教育に焦点を絞り準備すべきことについて推奨と標準的な運営上の手続き（マニュアル
+SOPs; Standard Operating Procedure ）を提供すること。  
+方法： 総説や専門家の意見に基づき、デルファイ法（専門家から意見をもらう方法）を用いて、スタッ
+フ教育を含めた必須の項目を定めた。  
+結果： 主な勧告は以下のものを含んでいる。  
+（1）内部職員の機能的な役割と責任を決めて、部門や部局を調整する。  
+（2）（ logistic 兵站 ;軍需品の前送、補給、修理など後方連絡線の確保などに任ずる機関）兵站の
+支持と SOP の効果的に進めるうえで必要なものを決める。  
+（3）SOP を維持するために必要なものを決める。  
+（4）推奨されるトレーニングと活動は以下のごとく。  
+a. 個人的な防護法  
+b. 環境汚染  
+c. 医学的なマネージメント  
+d. 検査の標本  
+e. 注意事項  
+f. 新人教育  
+g. 倫理的問題  
+h. 心理・社会的問題  
+i. 死亡者の処置  
+j. 訪問者の制限のための方針  
+k. 指針を強化するためのメカニズム  
+（5）管理された訓練による日々のデモンストレーション訓練はできる限り早く始めるべきである。  
+（6）トレーニングプログラムに参加するスタッフを決め、彼らが参加したことを検証し、その後、知識を
+評価する。  
+結論： 賢明な企画とスタッフ教育のためのプロトコールの採用は、パンデミック時に予後を最良にす
+るために必須である。  
+ 
+キーワード 
+教育、勧告、標準的運営方法、集中治療室、病院、 N1H1 、インフルエンザ流行、パンデミック、災害  
+ 
+1 序章 
+H1N1 と H5N1 のように高度な病原性インフルエンザによるパンデミックの死亡率は、結局、ウイル
+ス性の因子、患者因子、治療的因子によって決定される。ウイルス性の因子は、病原性、感染性、
+[[p96]]
+94 
+抗ウイルス剤に対する抵抗性である。患者因子は免疫状態、遺伝的素因である。治療的因子は健
+康管理サービスの質、 ICU の有用性、抗ウイルス剤で特にワクチンが最も重要である。健康管理サ
+ービスの質は適切な準備と同時に国家的なプロトコール、そして行政的レベルと臨床レベルでの情
+報共有と委託スタッフの補完などに依存することになる。現在の ICU スタッフと集中治療の環境は、
+最も装備された病院でさえも期待された患者の受け入れに対して十分とはいえない。英国での推定
+ではベット数に対し、人工呼吸の必要な患者数は 10 倍あり、死亡率と特別なケアの必要性は、財
+源の窮迫している発展途上国で非常に増大している。  
+スタッフは最大限活用されるべきである。事前に適切な教育をすることで、よりスタッフを充足でき
+る。さらに病気を回避すること、安全を保証できるすべてのこと等を、継続することは倫理的な義務で
+あると認識するであろう。加えて、各病院はトリアージ計画を企画するために、災害やパンデミック発
+生前に、スタッフ、スペース、装備などの局所での資源を念頭におかなくてはならない。そして、この
+計画は適切な病院スタッフを教育し周知されなければならない。大規模な治療のための基地はトリ
+アージセンターの近くに設置しなくてはならない。そ してスタッフはそのエリアがどこにあって、どのよう
+にマネージメントされているかに関し、訓練されていなくてはならない。更衣室は治療室の外に配置
+すべきで、そこで適切な防護服が着脱される。すべてのスタッフは、 ICU 患者のマネージメントのため
+に割り振られた指定の場所を周知しなくてはならない。さらに標準的なガイドラインにのっとり、感染
+を封じ込めるために最もよく企画された方法で訓練されなければならない。関連する倫理的問題も
+パンデミックになる前に議論され、調査されるべきである。トリアージ、入退院の基準、計画的欠勤な
+どの指針を示し、各スタッフにより記述され、賛同されなくてはならない。  
+ 決定権者と市民は、市民の健康にとって、正しくよいものとして受け入れるような倫理的決定がなさ
+れるように、これらの議論に引き込まれるべきである。  
+ 
+2 目標と目的 
+大量死は避けられないが、適切な肉体的環境と十分な設備とスタッフの有効利用と、最も貴重な
+ICU の資源である、人の構成の教育訓練により、軽減することができる。  
+この SOP の目的は、 ICU スタッフを効果的に機能させる病院環境内で、教育と訓練の必要性を
+規定することである。これは ICU スタッフに当てはまるのみならず、トリアージに関わり、また通常であ
+れば ICU 入室症例の治療をしている一般病棟や救急室スタッフにも当てはまる。  
+ 
+特異的な目標  
+PM?各病院でトレーニングと教育のために必要なスペースを決めておく。??
+これらは、  
+a. 感染の高リスクである処置  
+b. 個人防護のための器具の使用  
+c. 通常 ICU に関わらないスタッフによる器具の使用  
+d. 標本検体の採集とマネージメント  
+e. ICU 内外患者の移送  
+2. これらの手続きを行うための訓練を必要とするスタッフを決める  
+3. 指揮命令系統が周知され、危機的状態でのマネージメントの手続きを保証する  
+4. 指揮命令系統の本質に関して、すべてのスタッフを訓練する  
+ 
+[[p97]]
+95 
+インフルエンザパンデミックに先立って訓練と教育の鍵となる要素は以下のとおりである。  
+ 
+PM?病院とスタッフにとっての疾患とその関わり合い??
+2. スタッフの健康  
+3 .ICU 前でのトリアージ  
+4. 移動する際の現在活動しているスタッフと ICU スタッフを補助するために委ねられている方の職業
+的責任  
+5. 患者の医学的マネージメントに関するトレーニング  
+6. 倫理的責任  
+7. 症例の記録（パンデミックインフルエンザのサーベイランスと反応の意図）  
+8. 患者とその家族に対する心理学的援助  
+9. 訪問者を制限する方針  
+ 
+3 基本的な仮定 
+PM?現在の訓練されたスタッフ、設備、場所により、病院のキャパシテイは拡大する。??
+2. 予想された要求にふさわしくキャパシテイを拡大する。  
+3. ルーチンの手技と ICU からの患者の移送は感染のもととなる。  
+4. 高リスクの手技は絶対に必要なものに限る。  
+5. 患者の移送と動きは変化するプロトコールに従って制限される。  
+6. 教育と訓練は感染を軽減する。  
+ 
+4 権限の所轄 
+PM?病院の緊急対策本部（?gddbfH?：病院の対策本部は、院内すべての危機管理に対する管理職
+者の責任を有する。  
+2. ICU 緊急対策本部（ ICU －EECG ）；ICU で起こるすべての危機管理を行う管理職としての責任が
+ある。  
+3. トリアージ施行者；リーダーシップを発揮しコミュニケーション能力を有する ICU スタッフから選ばれ
+た上級の集中治療医。  
+4. 医師； ICU 運営に関するすべての責任は、 ICU 室長（ director ）、他の集中治療医、 ICU 研修医、
+重症患者を管理するために採用された医師にある。  
+5. 看護師；すべての責任は ICU 担当看護師にあり、 ICU での訓練は看護師の教育者に任せるべき
+だ。イベントの起きる前に、新人が ICU 看護師を観察することは、 ICU 看護師の基本的な業務の
+指導をするのと同じくらいに極めて貴重である。  
+6. 訓練と教育はすべて HEECG の責任である。彼らは、感染対策、内科的治療、トリアージ、労働
+衛生に関して、各領域で最も知識のある人達にゆだねるべきである。  
+ 
+5 作業のコンセプト 
+訓練は可能な限り早期に始めるべきであり、役に立つ設備の適正利用と感染の最小化を保証す
+るためにインストラクターによるシミュレーション訓練とする。 PP テクニックと環境汚染の軽減は ICU 室
+長の補助下に感染対策のスタッフにより教育されることが望ましい。臨床業務を変更して、援助訪問
+[[p98]]
+96 
+者を拡大し、壁に助言のビラを貼り、双方向性の教育的な会合を持つなどの、他の多面的な介入
+は有効である。しかし、パンデミックが起きた時は、時間は制限され、疾患の病原性が致死的である
+ため限界がある。セミナーや現場でのデモンストレーション、問題指向型学習（ PBL ）そしてシミュレー
+ションは、時間が極めて限られている場合、価値がある。  
+指導的な材料をウエブサイトで広めながら、臨床医に加えて、健康課、感染対策室、感染症、病
+院管理者と行政の代表が参画するテレビ会議は、パンデミックの間、知識や情報を刷新するために
+有益である。スタッフ教育のためのガイドラインとして使用できるカリキュラムが、感染症ヨーロッパネッ
+トワークから出されている。 PP プロトコールでの知識とコンプライアンスは貧弱で、従って、知識はしば
+しば再評価されなくてはならない。強制の要素はしばしば必要だけれども、ダメなコンプライアンスの
+理由を示すべきである。これらは、最適な設備の利用、リーダーシップの質、安全性を向上させるた
+めの組織文化を含んでいる。これらのファクターは自信を吹き込み、心理的ストレスを軽減する。  
+教育はすべての現在の ICU スタッフが関与しなければならない： ICU に選ばれて採用された人、
+ICU の外で重症患者管理の仕事をしている人、責任をもってトリアージする人。教育は，現場で起き
+ていることに基づいて、計画されるべきである。ある活動と特別な手術のための特殊なトレーニングの
+セッションのために、すべてのスタッフを巻き込むべきである。仲間になったスタッフは早く一体となり、
+彼らの新しい役割に特化した訓練がなされるべきである。管理者はトレーニングプログラムに参画し
+ているスタッフを把握し、彼らが参画していたことを確かめ、頻繁に彼らの知識を評価すべきである。  
+ 
+6 内部人員とインターフェイス機関またはセクターの機能的な役割と責任 
+1. 管理責任スタッフ（ ICU と院内緊急コントロールグループ）は以下に関して訓練されるべきである。  
+a. 病院やスタッフに対して病気とその影響  
+b. ICU 前のトリアージのためのプロトコールを発展させ広めること  
+c. パンデミックのマネージメントに対するガイドラインの源  
+d. 職業上の健康問題  
+e. （季節性、あるいはパンデミックの）ウイルスワクチン、抗ウイルス薬、個人防護設備（ PPE ）、抗
+生剤、人工呼吸器の配置されている場所を知り、かつ妨害されずに入手できることを確認する
+こと 
+f. 増員されたスタッフの身元と、どこでどのように新しい仕事を完結するために訓練されたかを確
+認する。  
+g. 患者が処置される場所を準備し、スタッフはその場所を準備する訓練をする  
+2. すべてのスタッフが訓練されるべきこと  
+a. 病院やスタッフに対して病気とその影響  
+b. 感染予防とコントロール  
+c. ICU 前のトリアージ  
+d. 現行有効なスタッフの専門職としての責任と ICU スタッフを補助するために委ねられた人たち
+の責任について  
+e. 不当な不在に対する反応を含む倫理的な責任  
+3. 救急室スタッフは教育、訓練されなければならない。  
+a. トリアージプロトコール  
+b. 外来治療で十分と思われる患者の治療戦略と入院を要する患者の初期治療  
+4. ICU の医師と看護師  
+[[p99]]
+97 
+a. トリアージと治療のプロトコールを知る。  
+b. 入退院の指針  
+c. 医学的なマネージメント  
+d. 患者訪問の指針  
+e. ICU に特徴的な感染コントロールの実践  
+ 
+7 運営上の手続きの効果的実現のために必要なロジステイックスによる支持と
+必要条件 
+SOP の有効な関わり合いにとって事務系のサポートと必要なもの 
+PM?拡張できるスタッフ構成??
+2. 薬剤部  
+3. 検査部  
+4. リネン、洗髪入浴などのサービス  
+5. 感染防御  
+6. 下部組織の補助  
+7. 物品の供給  
+8. トレーニングのための物品（訓練者のガイドと道具）  
+ 
+8 標準的な運営上の手続き 
+PM?トレーニングは可及的に早く開始し、知識は規則的に評価されなけれならない??
+2. 教育と訓練は継続して行われるべきで、 ICU は部署特異性の訓練に参加し、特殊  
+な場所での能力を維持しなくてはいけない  
+3. SOP は毎年改定されなければならない。 ICU と救急管理責任者のグループによって刷新する  
+ 
+9 推奨される訓練と活動 
+訓練のスケジュール、臨床スタッフの教育、参画を確認する手続き、等を確立しよう。インフルエン
+ザ大流行時の訓練する機会のように、毎週の感染制御部の最新情報や会合、病棟回診や教育用
+ポスターを活用しよう。 ICU スタッフはタスクとして最適な人により訓練されるべきである。これは各病
+院で、あるいは各部署に対して同じ人物である必要はない。個人防護と環境のコントロールは感染
+制御部のスタッフ、医学的マネージメントは ICU の相談員、検体は検査室スタッフ、心理学的な活
+動は心理学者か倫理学者によって、通常は教育されるべきである。訪問に関する指針や死亡者に
+関する取扱いは、 HEECG または ICUEECG に責任があるべきである。  
+ 新人スタッフのための訓練は、 ICU スタッフより厳しくするべきではない。 ICU スタッフと特に臨床チ
+ューターは訓練の責任を果たすべきである。  
+ 
+個人による防護  
+PM?スタッフは教えられなければならない、??
+a. 個人的な衛生管理（手洗い、顔、眼、マスクには触れない、予防されない咳嗽や挨拶の際の
+キッス）  
+[[p100]]
+98 
+b. 適切に顔を覆う N95 マスクの仕様（顔にかかる髪の毛は除いたほうが賢明である。宗教上の理
+由で従わないスタッフがいたら、適当な顔全体を覆う HEPA フィルターでできたマスクを使用し
+ない限り、感染した患者との接触は制限すべきである。処置された部屋では変更すべきであ
+る。）  
+c. 最大限の保護と最小の露出のための、ガウン、デイスポの手袋、保護メガネの着脱法  
+d. 適当なデイスポの衣類や感染する物品  
+e. スタッフの健康のモニタリング :一日 2 回の体温測定と具合が悪くなった時にどうすべきか。  
+ 
+Medical management 医学的マネージメント（２１）  
+Staff は訓練されなければならない、そして、プロトコールを発展させる。  
+ 
+PM?薬物療法：抗ウイルス薬の使用について教育されるべきである。??
+a.薬品が提供されていること  
+b.投与量と投与時間（部署別の方針があってもよい）  
+c.予防（予防として行うか、治療として行うか、パンデミックになる前に、ウイルス学者とスタッフは有
+用性と実践性に基づき、事前に決めておくべきである。  
+そうして、これらの決定内容はすべてのスタッフに周知されなければならない。 d.抗ウイルス剤の
+使用に対する優先順位について  
+2. 人工呼吸  
+a. 基本的な人工呼吸  
+i. 非侵襲的人工呼吸  
+ii. 機械的人工呼吸  
+b. 救命戦略  
+3. ワクチン  
+季節性のワクチンとパンデミックのワクチンの両方を投与することが不本意ながらしばしばである。
+すべてのスタッフにとって、彼ら自身を守るためと患者に接触したという人たちに必要なワクチンにつ
+いて教育されるべきである。できるだけ多くの人々に、ワクチンが届いたら可及的に早くワクチンを、
+投与するワクチンの効果を得るために 5 つのグループに分ける。（妊婦、 6 カ月未満の幼児と住んで
+いるか世話をしている人、救急室で働く医療従事者、?U?カ月から?QS?歳までの小児と若者、?QT?から?US
+歳までの成人でインフルエンザ関連の合併症のリスクを有する人）最初のワクチンが間に合わなかっ
+た最初のグループの人は、他の成人グループでのワクチンの使用のガイドラインに沿って、ワクチン
+有効性は高まるものとして認識されるべきである。  
+4. 輸液と栄養  
+5. 解熱剤／鎮痛剤  
+6. 証明されていない治療の使用： statins,  Corticoid,  Vitamin,  活性プロテイン C 
+7. 
+緩和ケア  
+ 
+環境のコントロール  
+１. スタッフは環境汚染を防ぐための教育をなされなければならない。  
+a. 人工呼吸器は適切な特別の機器であり、ひだ付きのフィルター／人工鼻が、口元と呼気側に
+装着されてある。  
+[[p101]]
+99 
+b. 有機物、無機物の適切な処分  
+c. 床、べっど、呼吸器関連機材の適切な除染  
+ 
+検査標本  
+スタッフは適切なマネージメントと検体の搬送について教育されなければならない。  
+マネージメントは検査室と協力して、事前に計画されていなくてはならない。  
+検査室スタッフとの定期的な継続したコミュニケーションが極めて重要で、コミュニケーションのための
+チャンネルを早期に設立すべきである。  
+ 
+警告リスト  
+ 臨床的に悪化を示す特殊なサイン  
+非 ICU スタッフのトレーニング  
+1. 非 ICU スタッフはキャパシテイ内の特別な仕事を割り当てられなければならない。完璧なシラバス
+（要目）があります。仕事は必要に応じて割り当てられ、教えられるべきである。血圧、脈拍数、呼
+吸数、酸素飽和度、水分出納バランス、吸引、圧迫部位への注意、等を記録することは、最小限
+必要である。緩和ケア、非侵襲的モニタリングそして人工呼吸は検討すべきである。  
+2. 新人も栄養プログラムを作成するために訓練されるべきである。  
+3. 他のスタッフは、 FAST HUG （Feeding, Analgesia & Sedation, Head up, Ulcer prophylaxis, 
+Glycemic control ）プロトコールと吸引、そして圧迫部位に注意を払って、非侵襲的あるいは侵襲
+的人工呼吸をしている患者を管理できるようにすべきである。  
+ 
+倫理的問題  
+PM?個人的な自由と裁量権：公衆衛生上の危機において、個人の自由と裁量権を制限することは、
+重篤な被害から市民を守るために必要なことである。これは、検疫（あるいは隔離）、当直時間、ス
+タッフの家族との接触制限、患者訪問の制限など。  
+2. 提供する義務：プロバイダーは、他の自分自身の健康や家族、友人のためにしなければならない
+競合する義務に対抗して、専門的役割の需要に重みづけをしなければならない。さらに、医療従
+事者は、資源の割り当て、訓練の範囲、専門的知識の責任と作業環境などに関連した難問に出
+くわす。  
+これらの規定と陳述は以下のような問題をカバーすべきである。  
+a. 医療従事者がどの程度のリスクを取るべきか  
+b. 彼らの義務は患者管理し、自分を管理しながら患者管理が継続できるようにする。  
+c. 感染を他の人に伝搬させて被害を受けない準備をする。  
+3. 乏しい資源を割り当てるためにトリアージ作業での指導（治療の指針、無益な治療、ワクチンと抗
+ウイルス薬の割り当て、人工呼吸と集中治療）  
+ 
+社会心理学的問題  
+PM?スタッフはパンデミックインフルエンザに関連したストレスに対処することを理解し、教育されるべき
+である。  
+a. 病気の兆候  
+b. トラウマ的な悲しみ  
+[[p102]]
+100 
+c. 多数の致命傷患者のマネージメントに関連した心理学的な側面  
+d. ストレス対処法と戦略のコピー  
+e. 個人の回復力を回復させ、維持する戦略  
+f. 行動学的、心理学的サポートの源  
+g. 危機的状態での子供とその家族を救う戦略  
+h. 危機的状態に付随するストレスの報告  
+ 
+死亡者の取り扱い  
+遺体を速やかに処置するプロトコールは随時変えなくてはならない、そして特別なスタッフがこの
+仕事に携わる。すべてのスタッフは埋葬スタッフと密接に連絡を取り合えるように教育されなければな
+らない、そして、この目的のために十分なスペースが必要である。さもなければ、これは重大なボトル
+ネックとなるだろう。  
+ 
+訪問者を制限するための指針とこの方針を推進するためのメカニズム  
+指針は、スタッフは訪問者にどのように対応するかを知り、その場所でどのような制限を加えるかを
+示している。これは倫理的問題とオーバーラップするが、非常に重大なパンデミックでは、家族を引
+き離すことも必要であり、スタッフの安全と全体としての社会の利益の中で、愛する人へのアクセスも
+制限すべきである。  
+ 
+コミュニテイでの教育  
+市民への広がりを軽減するための教育材料は、病院に入ったすべての人に配布されるようにすべ
+きである。十分な教材が CDC 、WHO のウエブサイトに載っている。  
+市民もまた、通常の治療では行き渡らないことを周知すべきであるが、これは不必要なパニックを
+引き起こさずに伝達されるべきである。  
+ 
+10◇余禄：インフルエンザの重症 ARDS 患者の治療のプロトコール  
+重症疾患（ H1N1 ）：成人における重症急性呼吸器感染症  
+ 
+H1N1 の症例では、最初に高熱が 4-5 日続くという典型的なインフルエンザ症状を呈し、その後、
+急激な悪化と重症呼吸不全を呈する。ウイルスは思ったより悪性で、 1918 年のウイルスに似て肺に
+感染する。 H1N1 は、ネズミ、イタチ、霊長類の末梢気管で効率よく増殖を繰り返した。一方、季節
+性のウイルスではそれはない。  
+それらの H1N1 パンデミックの重要な患者では次のような合併症をきたす。  
+PM?一次の肺ウイルス感染が?`khGonQNenQ?比＜?ROOH?、`qcrGonQNenQ?比＜?QOOH?に進展する。??
+2. 二次的に Staphylococcus aureus と Streptococcus pneumonae 等による細菌感染をきたす。両者
+の感染は重篤で、急激に進行し壊死に陥る。  
+3. 肺塞栓、過凝固状態には注意する、特に肥満患者では。  
+4. 筋融解による腎不全  
+5. 心筋炎  
+6. 喘息、腎障害、心血管疾患など基礎疾患の悪化  
+7. 多臓器不全へ進行する人が何人か存在する。  
+[[p103]]
+101 
+幾つかの疾患のリスクを持つ人は、以下のような合併症を持っている。  
+a. 共存疾患として、糖尿病、慢性腎不全、 COPD ，気管支喘息、左心室機能障害  
+b. 肥満もリスク因子と思われる  
+c. 妊娠  
+d. 免疫抑制（確証はないが、免疫不全症候群はリスクを高くするものではなさそう  
+である。  
+ 
+SARI ：臨床  
+以下のような特徴を有する患者では、重症として扱うべきである。  
+38 以上の突然の発熱、咳・咽頭痛、呼吸数毎分 30 回以上、胸部聴診でクラックル音、 SaO2 90 未
+満、傾眠傾向、意識レベルの低下、痙攣、脱水、 X-P で肺炎所見。  
+どの患者さんも、特に若者や、下気道感染、肺炎をきたしている健常人も、 PCR の結果を待たずに、
+直ちに抗ウイルス剤の投与を始めるべきである。  
+ 
+SARI ：マネージメント  
+ ◎医療従事者がすべきこと  
+● もしパンデミックインフルエンザのワクチンがなくても季節性のインフルエンザワクチンを投与すべ
+きである。（ H1N1 に対し部分的に作用する、医療従事者が風邪様症状を呈した場合、Ａ型Ｈ１
+Ｎ1 であるようだ。）  
+● 一日に 2 回体温測定をする。発熱は記録されるべきで、もしあれば、これらスタッフのメンバーは
+自宅待機すべきである。  
+● もし、スタッフのメンバーが具合悪くなったら、 oseltamivir を投与すべきである。  
+● 飛沫、接触には注意する。患者に接触する時はＮ 95 マスクを使用する。  
+ 
+ ◎薬物療法  
+● 抗ウイルス剤：  Neuraminidase inhibitor- oseltamivir (Tamiflu) または zanamivir(Relenza) が、
+治療薬として使用されるべきである。  
+● oseltamivir の投与量は少なくとも 150mg  BID( 一日 2 回)10 日間。  
+● zanamivir の投与量は
+10mg 、diskhaler を通して BID( 一日 2 回)10 日間 . 初日は 2 倍量で、
+少なくとも 2 時間は間をおいて投与する。  
+● 両者の薬剤に差があるというエビデンスはないが、効果に限界がある場合、価値がある。  
+●地域の市中肺炎ガイドラインに従って、抗生剤を投与する。： amoxicillin/clavulanate あるいは、
+第 2、第 3 世代の cephalosporin ＋macrolide 系、例えば clarithromycin の azithromycin など。  
+● 根拠のないレポートであるが、 atorvastatin 80mg 連日投与は炎症反応を抑制するという。  
+● Corticosteroids ：H5N1 には効果がない。 H1N １に対する効果も知られていない。しかし、役に立
+たないという根拠もない。  
+ 
+ ◎人工呼吸：ほとんどの患者は一次性（肺性） ARDS による低酸素に対して人工呼吸を行う。  
+● 気管挿管と感染制御：  
+最も経験ある術者が気管挿管すべきである。  
+● N95 マスクとゴーグル、日よけの帽子を装着して挿管する。  
+[[p104]]
+102 
+● ウイルスを除去するために、口元で人工鼻を装着し、呼吸器の呼気側にひだのついた疎水性の
+フィルターを装着する。  
+● 気管吸引は N95 マスクをし、ガウン、手袋を装着した人のみが行う  
+● 手で、口、目、粘膜に触ってはならない。  
+ 
+ ◎人工呼吸が非常に困難で、低酸素と人工呼吸関連肺障害との間でバランスをとる。。  
+● PEEP 8 から 10cmH 2O で PCV(pressure control ventilation) を行う。  
+高い（気道内圧）のレベルの場合、特に、患者がすでに十分にリクルートされていた場合（肺胞
+が十分に開いた状態の場合）、低酸素はさらに悪化する。高 PEEP も VILI( マクロとミクロ )をきた
+す可能性があり、特に一回換気量が標準体重で 6ml/ ㎏以上、最高気道内圧が 30cmH
+2O 以上、
+では注意が必要。  
+● 設定圧（ driving pressure ）は 14-18cmH 2O に維持する。  
+● 一回換気量は標準体重で 6ml/ ㎏以上とする。  
+● 最高気道内圧は 30cmH 2O 以下とする。  
+ 
+もし、低酸素がひどい時は最初に FiO 2 を上昇させて、それでも低い時は  
+● 筋弛緩薬を投与する  
+● 輸液過剰は避ける（末梢に浮腫を形成してはいけない）  
+● リクルートメント手技を行う（持続的に圧を加える、腹臥位にする、 APRV を行う）ことは良いかもし
+れない。  
+● 上記の方法でも、入院後 8-12 時間、低酸素が継続する場合、腹臥位療法は早期に考慮すべ
+きである。 もし低酸素が改善するようだったら、 2 つのオプションがある。  
+PM?仰臥位に戻す前に?PU?時間は継続し、各場合に腹臥位は少なくとも?PU?時間継続する。例えば、
+15：00～16：00 の間に腹臥位とし、翌朝 8：00～9：00 に仰臥位とする。  
+8：00～16：00 までは必要な手技のために仰臥位とする。  
+2. 代わって、腹臥位をそのまま継続する方法で、 3 日～ 5 日間継続する。圧迫部位は腹臥位にす
+る際にケアをする。  
+ 
+● HFOV はある環境下では有用である。  
+● もし、装備が整っているのであれば、 ECMO や NO も選択肢の一つである。  
+● 炎症性のマーカーが正常化しても、レントゲン写真で異常陰影が消失し始めても、  
+低酸素はしばしば何週間も持続する。この低酸素の原因は不明である。（ PaO 2 が 40ｍｍHg 以
+上、 SaO 2 が 70％以上であれば、許容する。人工呼吸の設定をこれ以上の改善をするために変
+更すること、例えば必要以上に酸素濃度を上げるなど肺障害を助長するようなものは無益であ
+る。 
+● コルチコステロイドは役に立たない。  
+● 3ω脂肪酸の投与や atorvastatin80mg は価値があるだろう。  
+  
+[[p105]]
+103 
+ 
+図１  
+あなたと他の人を病気にする病原菌を撒き散らしてはならない。  
+ 
+咳を覆いなさい。  
+咳やくしゃみが出る時は、鼻紙で鼻と口を覆うか、袖に咳やくしゃみをする。  
+手にしてはいけない。鼻紙はごみ箱に入れる。  
+ 
+手を洗いなさい。  
+他の人に移らないようにマスクをするように求められる。  
+せっけんと水で手を洗うか、アルコールの入ったハンドクリーナーできれいにする。  

@@ -1,0 +1,753 @@
+
+[[p1]]
+ORIGINAL RESEARCH
+published: 07 July 2021
+doi: 10.3389/fped.2021.612644
+Frontiers in Pediatrics | www.frontiersin.org 1 July 2021 | Volume 9 | Article 612644
+Edited by:
+Antonio Francesco Corno,
+Children’s Memorial Hermann
+Hospital, United States
+Reviewed by:
+Bruno Marino,
+Sapienza University of Rome, Italy
+Ruth Heying,
+University Hospital Leuven, Belgium
+*Correspondence:
+Adela Chirita-Emandi
+adela.chirita@umft.ro
+Specialty section:
+This article was submitted to
+Pediatric Cardiology,
+a section of the journal
+Frontiers in Pediatrics
+Received: 30 September 2020
+Accepted: 07 June 2021
+Published: 07 July 2021
+Citation:
+Olariu I-C, Popoiu A, Ardelean A-M,
+Isac R, Steﬂea RM, Olariu T ,
+Chirita-Emandi A, Stroescu R,
+Gafencu M and Doros G (2021)
+Challenges in the Surgical Treatment
+of Atrioventricular Septal Defect in
+Children With and Without Down
+Syndrome in Romania-A Developing
+Country. Front. Pediatr. 9:612644.
+doi: 10.3389/fped.2021.612644
+Challenges in the Surgical Treatment
+of Atrioventricular Septal Defect in
+Children With and Without Down
+Syndrome in Romania-A Developing
+Country
+Ioana-Cristina Olariu 1,2, Anca Popoiu 1,2, Andrada-Mara Ardelean 1,2, Raluca Isac 1,2,
+Ruxandra Maria Steﬂea 1, Tudor Olariu 3, Adela Chirita-Emandi 4,5*, Ramona Stroescu 1,2,
+Mihai Gafencu 1,2 and Gabriela Doros 1,2
+1 Department of Pediatrics, “Victor Babe ¸ s” University of Medicine and Pharmacy, Timisoara, Romania, 2 Department of
+Pediatrics, “Louis Turcanu” Emergency Hospital for Children, Timisoara, Romania, 3 Department of Organic Chemistry,
+Faculty of Pharmacy, “Victor Babes” University of Medicine and Pharmacy, Timisoara, Romania, 4 Department of Microscopic
+Morphology Genetics Discipline, Center of Genomic Medicin e Timisoara, “Victor Babe ¸ s” University of Medicine and
+Pharmacy, Timisoara, Romania, 5 Regional Centre of Medical Genetics Timis, “Louis Turcanu” Emergency Hospital for
+Children Timisoara, Part of ERN ITHACA, Timisoara, Romania
+Background: Atrioventricular septal defect (AVSD) is a cardiac malform ation that
+accounts for up to 5% of total congenital heart disease, occu rring with high frequency
+in people with Down Syndrome (DS). We aimed to establish the s urgical challenges and
+outcome of medical care in different types of AVSD in childre n with DS compared to
+those without DS (WDS).
+Methods: The study included 62 children (31 with DS) with AVSD, evalua ted over a 5
+year period.
+Results: Complete AVSD was observed in 49 (79%) children (27 with DS). Six children
+had partial AVSD (all WDS) and seven had intermediate types of AVSD (4 with DS). Eight
+children had unbalanced complete AVSD (1 DS). Median age at d iagnosis and age at
+surgical intervention in complete AVSD was not signiﬁcantl y different in children with DS
+compared to those WDS (7.5 months vs. 8.6). Median age at surgi cal intervention for
+partial and transitional AVSDs was 10.5 months for DS and 17. 8 months in those without
+DS. A large number of patients were not operated: 13/31 with D S and 8/31 WDS.
+Conclusion: The complete form of AVSD was more frequent in DS group, havin g worse
+prognosis, while unbalanced AVSD was observed predominant ly in the group without
+DS. Children with DS required special attention due to incre ased risk of pulmonary
+hypertension. Late diagnosis was an important risk factor f or poor prognosis, in the
+setting of suboptimal access to cardiac surgery for patient s in Romania. Although
+post-surgery mortality was low, infant mortality before su rgery remains high. Increased
+awareness is needed in order to provide early diagnosis of AV SD and enable optimal
+surgical treatment.
+Keywords: atrioventricular septal defect, Down syndrome, co ngenital heart disease, pulmonary hypertension, risk
+factors
+[[p2]]
+Olariu et al. Atrioventricular Septal Defect in Romanian Children
+INTRODUCTION
+Atrioventricular septal defect (A VSD) or endocardial cushi on
+defect is a cardiac malformation characterized by a variabl e
+deﬁciency of the crux cordis in the developing heart. A VSD
+accounts for 4–5% of total congenital heart diseases (
+1). The
+International Pediatric and Congenital Cardiac Code class iﬁed
+A VSDs into four main groups: complete, partial (or incomplete),
+intermediate (or transitional), and A VSDs with ventricula r
+imbalance (unbalanced A VSD) (
+2). Most A VSDs are complete
+(up to 75%), and account for 3% of all cardiac malformations
+(
+2, 3).
+Numerous recent studies contributed to a better
+understanding of genetic causes in congenital heart diseas es
+(4–6). A VSD has been observed in patients with Down syndrome
+(DS), left or right isomerism, Noonan Syndrome and other (7, 8).
+Almost half (40–45%) of children with DS have congenital hear t
+diseases. Of these, 35–40% have A VSD ( 9, 10). The prevalence
+of complete A VSD is 0.3–0.5% of the populations without
+DS (WDS). The complete form of A VSD is more frequently
+associated with additional cardiac defects, left-sided ob structive
+lesions being more prevalent in children WDS (
+11, 12). Complete
+A VSD is observed in almost all patients with right isomerism
+and in 25% of those with left isomerism (
+3). The partial forms
+of A VSD are less frequently associated with chromosomal
+anomalies (
+13). A study by Marino Bruno et al. showed that
+Noonan syndrome is associated with an increased risk for part ial
+A VSD (14). Nonetheless, A VSD can also be non-syndromic (15).
+A VSD has major health implications due to the signiﬁcant
+interatrial and interventricular systemic-pulmonary shun t
+leading to increased pressure in the right ventricle with
+volume overloading, pulmonary hypertension (PAH), heart
+failure and consequent failure to thrive (
+16–18). Therefore,
+precocious diagnosis and surgical treatment is crucial, in or der
+to avoid irreversible complications. Ideally, surgical tre atment
+of complete A VSD should be performed before the age of 6
+months (
+1, 18, 19). In partial and transitional A VSDs surgical
+treatment may be delayed until the age of 1.6 years or later, i f the
+malformation is well-tolerated ( 20, 21). Major risk factors for
+development of PAH in patients with A VSD include presence
+of DS and age at surgical intervention (
+3, 17). Because A VSD
+is common in DS and the onset of PAH in DS is earlier, these
+patients need special medical management.
+We aimed to evaluate the age at diagnosis, age at the time of
+surgery, and postoperative evolution, in children with A VSD and
+DS compared to those WDS, in order to understand if speciﬁc
+management is warranted.
+MATERIALS AND METHODS
+The study included 62 children diagnosed with A VSD, admitte d
+in a tertiary clinical care center, the “Louis Turcanu” Emer gency
+Hospital for Children, Timi¸ soara, Romania, between 2014 and
+2019. Most children were living in the western Romania, yet some
+were referred from other regions of the country. We compared
+children with DS and those WDS, in regards to type of A VSD,
+age at diagnosis, age at the time of surgery and evolution. A VSDs
+diagnosed prenatally where termination of pregnancy was chosen
+were not included in the study.
+The echocardiograﬁc examination is the cornerstone for
+diagnosis and types of A VSDs have been classiﬁed according
+to the International Pediatric and Congenital Cardiac Code
+as follows: complete A VSDs include an ostium primum
+defect with a non-restrictive inlet ventricular defect and a
+common atrioventricular valve oriﬁce. Partial A VSDs have
+an isolated ostium primum defect and partitioning of the
+common atrioventricular valve into two separate atrioventricular
+oriﬁces (cleft in the mitral valve). Intermediate or transitional
+A VSDs consists of an ostium primum defect in association
+with a restrictive inlet ventricular defect and two valvular
+oriﬁces. Unbalanced A VSD is deﬁned as malalignment of the
+atrioventricular valve, being unequal for both ventricles,resulting
+in one ventricle receiving more blood ﬂow and the other ventricle
+being underdeveloped (hypoplastic) (
+2).
+The retrospective study included the evaluation of medical
+records, chest radiography, 12-lead electrocardiogram (EC G),
+echocardiograms, intraoperative ﬁndings, and surgical out comes
+of all patients with A VSD. PAH was deﬁned as a pressure gradient
+estimated by Doppler on tricuspid valve regurgitation over 30
+mmHg or a systolic pulmonary artery pressure of more than half
+systolic systemic pressure. In children presenting severe ca rdiac
+failure, blood cardiac biomarkers (troponins and N-termina l pro
+b-type Natriuretic Peptide NT-pro BNP) were evaluated.
+Statistical Analysis
+The cardiac diagnoses were presented in accordance to the
+classiﬁcation of the International Pediatric and Congenit al
+Cardiac Code (
+2). The statistical analysis is descriptive. Data was
+??halLrorr??QT?GhalK?`K?m?xK
+U.S.A.). Shapiro-Wilk test was used to detect normal distribution.
+As variables were non-normally distributed, data is presente d
+as median with interquartile range (IQR). Mann-Whitney test
+was used in continuous variables studied and Chi Square test
+for categorical variables to evaluate statistical signiﬁca nce of
+diﬀerences between the two groups.
+Ethics
+As the study analyzed data that was routinely collected as part
+of the clinical care of the patient, the study did not require
+informed consent and was approved as an evaluation of health
+care delivery. Data were obtained by review of ﬁles and electronic
+medical records. Patient anonymity was preserved throughou t.
+RESUL TS
+Between 2014 and 2019, 62 patients diagnosed with A VSD were
+evaluated in our tertiary pediatric hospital. Thirty-one chi ldren
+were also diagnosed with DS, while thirty-one were WDS. The
+male-to-female distribution of A VSD was approximately equal .
+The male-to female ratio was: in DS 1:1.2 (14:17), in WDS 1.06 :1
+(16:15). Regarding the types of A VSD, 49 of 62 children had
+complete A VSD (27 DS, 22 WDS), 6 had partial A VSD (all WDS)
+and 7 had intermediate A VSD (4 DS, 3 WDS). Among the 49
+Frontiers in Pediatrics | www.frontiersin.org 2 July 2021 | Volume 9 | Article 612644
+[[p3]]
+Olariu et al. Atrioventricular Septal Defect in Romanian Children
+TABLE 1 | T ype of AVSD and age at diagnosis.
+AVSD type Group DS Group WDS
+No. Age at diagnosis No. Age at diagnosis
+Complete 18
+4
+5
+≤6 weeks
+6 weeks−6 months
+>6 months (range
+2.5–14 years)
+16
+4
+2
+≤6 weeks
+6 weeks−6 months
+>6 months (range
+3–5 years)
+Partial 0 1
+1
+4
+≤6 weeks
+6 weeks−6 months
+>6 months (range
+3–15 years)
+Transitional 2
+2
+≤6 weeks
+6 weeks−6 months
+2
+1
+≤6 weeks
+>6 months (10 years)
+AVSD, Atrioventricular septal defect; DS, Children with Down syndrome ; WDS, children
+without Down syndrome.
+children with complete A VSD, 8 presented unbalanced ventricles
+(1 DS, 7 WDS).
+Age at diagnosis ranged between 1 day and 15 years (details
+presented in Table 1). In DS group median age at diagnosis was
+7.0 days (IQR, 1 day −31 months) and 10.5 days (IQR, 1 day −7
+months) in WDS group, p = 0.805 (Mann Whitney). Of all
+patients, 39 were diagnosed before 6 weeks of age (20 DS, 19
+WDS). Eleven patients with A VSD were diagnosed after 1 year
+of age, 5 with DS (all complete A VSDs), and 6 WDS (2 complete
+A VSD, 3 partial and 1 transitional A VSD). Only 4 patients were
+diagnosed with A VSD before birth (1 DS, 3 WDS).
+A VSD was associated with other cardiac (presented inTable 2)
+and extracardiac anomalies (presented in Table 3). In DS group
+19 patients (61.3%) were found with other cardiac anomalies,
+in WDS group 20 (64%). ASD ostium secundum (13 vs. 6),
+multiple VSD (2 vs. 0), and Tetralogy of Fallot (3 vs. 0) were
+the most frequent in DS group, while severe cardiac anomalies
+such as unbalanced ventricles (1 vs. 7), double-outlet right
+ventricle (0 vs. 7), aortic stenosis (1 vs. 4) were more frequ ent
+among patients WDS. None of partial or transitional A VSD had
+unbalanced ventricles. Left side obstructive lesions were found in
+two children with partial or transitional A VSD, these being from
+the group WDS.
+Extracardiac abnormalities were found in 25.8% (8/31)
+patients from DS group and 32.25% (10/31) patients in those
+without DS (presented in Table 3). Some of them had multiple
+malformations. Left or right isomerism was associated with
+A VSD in 8 patients, all from WDS group. One child diagnosed
+with A VSD, presented a complex cardiac phenotype (Tetralogy
+of Fallot) and a rare double aneuploidy (Down and Klinefelter
+syndrome, 48, XXY ,+21 karyotype). He died at 7 months due to
+pulmonary infection.
+At physical examination all children with A VSD presented
+systolic murmur (grade 2/6 to 6/6). Half of the children with
+A VSD presented signs of heart failure such as: dyspnea, feedin g
+diﬃculties, poor growth, tachycardia, tachypnea, subcostal and
+intercostal retractions, wheezing, hepatic enlargement, po or
+peripheral blood perfusion, and diaphoresis. Three of them had
+pulmonary edema: one from DS group and two from the WDS
+TABLE 2 | Incidence of other cardiovascular anomalies in 62 patients w ith
+atrioventricular septal defect.
+All Patients Group DS Group WDS
+Patients (n) No. 62 % No. 31 % No. 31 %
+ASD ostium secundum 19 30.6 13 41.9 6 20.6
+PDA 8 12.9 4 12.9 4 13.8
+Multiple VSD 2 3.22 2 6.4 0 0
+T etralogy of Fallot 3 4.83 3 9.6 0 0
+Double oriﬁce mitral valve 1 1.6 0 0 1 3.44
+Aortic stenosis 5 8.06 1 3.22 4 13.8
+APVC (total or partial) 2 3.22 0 0 2 6.7
+Dextrocardia 2 3.22 0 0 2 6.7
+DORV 7 11.3 0 0 7 24.1
+TGA 1 1.6 0 0 1 3.44
+LPSVC 1 1.6 0 0 1 3.44
+Interrupted IVC 2 3.22 0 0 2 6.7
+ASD, Atrial septal defect; PDA, Persistent ductus arteriosus; LPSVC, l eft persistent
+superior vena cava; APVC, anomalous pulmonary venous connection; VSD, Ventricular
+septal defect; DORV , double-outlet right ventricle; TGA, transposition of the great arteries;
+IVC, inferior vena cava; DS, Children with Down syndrome; WDS, chil dren without
+Down syndrome.
+TABLE 3 | Associated extracardiac anomalies for patients with and wi thout Down
+syndrome.
+Associated extracardiac
+anomalies
+DS WDS
+Number of children
+Digestive system anomaly (5)
+- Duodenal atresia
+- Annular pancreas
+- Hirschsprung disease anal atresia
+1
+1
+1
+1
+0
+0
+0
+1
+Urinary anomalies (2)
+- Hydronephrosis 1 1
+Eye anomalies (2)
+- cataract, ectropion 2 0
+Oral clefts (Cleft lip/palate) (1) 0 1
+Musculoskeletal system anomalies (4)
+- Dislocation of the hip and patella
+- Syndactyly
+- Vertebral abnormalities
+2
+1
+1
+0
+0
+0
+Left or right isomerism (8) 0 8
+Genital anomalies (1) 0 1
+T otal 9 12
+DS, Children with Down syndrome; WDS, children without Down syndrome.
+group, all of them were under 6 months of age. Patients with
+A VSD had feeding problems and presented symptoms in the ﬁrst
+few months of life. Failure to thrive was a common ﬁnding, 27
+patients (43%) had malnutrition (<Percentile 5 on World Health
+Organization growth references) before surgical correcti on: 15
+from group DS (12 with complete A VSD and 3 with transitional
+A VSD), 12 WDS (8 with complete A VSD, 2 with partial form and
+2 with transitional A VSD).
+Frontiers in Pediatrics | www.frontiersin.org 3 July 2021 | Volume 9 | Article 612644
+[[p4]]
+Olariu et al. Atrioventricular Septal Defect in Romanian Children
+TABLE 4 | Age at surgery.
+Age at surgery DS ( n = 18) % WDS ( n = 23) % T otal
+<6 months 10 32.2 8 25.8 18 (29%)
+6–12 months 4 12.9 9 31 13 (20.9%)
+1–3 years 3 9.6 4 13.7 7 (11.3%)
+>3 years 1 3.22 2 6.45 3 (4.8%)
+Not operated 13 41.9 8 25.8 21 (33.8%)
+DS, Children with Down syndrome; WDS, children without Down syndrom e.
+Electrocardiograms (12-lead) showed sinus rhythm, left-
+axis-deviation (44/62, 71%), prominent P waves due to atrial
+enlargement, and signs of possible biventricular hypertrophy.
+Prolonged PR interval were detected in 6 children at diagnos is, 3
+with complete A VSD, 2 partial and 1 transitional A VSD. Chest X-
+ray showed enlarged cardiac silhouette and increased pulmon ary
+vascular markings in almost all children. The cardiomegaly was
+mild in partial A VSDs and signiﬁcant in complete A VSDs.
+Echocardiography showed the atrial and ventricular
+components of the atrioventricular septal defect with medium
+and large ostium primum defect in 53 children (23 DS, 30 WDS),
+while 29 patients had large inlet ventricular defect ( >6 mm). Of
+them, 19 were from DS-group (17 with complete A VSD and 2
+transitional A VSD) and 10 were from WDS group (8 complete
+and 2 transitional A VSDs).
+PAH before surgery was identiﬁed in 34 children with
+A VSD (56%), 61% from the DS group. Moderate PAH was
+identiﬁed in 31% of children (12 DS, 7 WDS), while 24% (7
+DS, 8 WDS) had severe PAH. One patient from DS group
+that was diagnosed late with A VSD presented Eisenmenger
+disease. Cardiac catheterization was performed in those wit h late
+diagnosis in order to establish the severity of PAH.
+Cardiac biomarkers were determined in patients with complex
+A VSD and heart failure. Half of children with A VSD presented
+heart failure (16 DS, 18 WDS). Pathological values of NT-pro
+BNP and troponins were detected in patients with severe cardia c
+involvement (5 DS, 8 WDS). NT-pro BNP values were elevated,
+up to 50 times higher than normal, proportional to the degree of
+heart failure. V alues of NT-pro BNP ranged from 207.5 to 17,482
+pg/ml with a mean of 4,912 pg/ml.
+Of the 62 children with A VSD, 41 had cardiac surgery. Of
+them, 18 patients were in the DS group and 23 in WDS group
+(Table 4). Median age at surgical intervention in complete A VSD
+was 7.5 months in DS group and 8.6 months in WDS (p = 0.764).
+Median age at surgical intervention for partial and transitio nal
+A VSDs was 10.5 months (IQR, 5–18 months) for DS and 17.8
+months (IQR, 9–19 months) for WDS patients. Ten children
+(16%) were diagnosed late (6 DS −19.3%, 4 WDS −13.7%). In
+these children, irreversible PAH was already present. Eleve n
+patients died before surgical intervention, 7 from DS group
+(22.5%), and 4 from WDS group (13.7%). No deaths were
+reported in the perioperative period.
+Postoperative complications following surgical repair of
+A VSD were: left atrioventricular valve (A V valve) regurgit ation,
+left ventricular outﬂow tract obstruction, left A V valve st enosis,
+residual VSD, late-onset complete heart block and pulmonary
+vascular disease. In the DS group we identiﬁed one patient
+with severe left A V valve insuﬃciency and DS, who was
+a candidate for a second surgery (unfortunately pulmonary
+infection lead to exitus). Another child presented left vent ricular
+outﬂow tract obstruction. Three patients were left with smal l
+residual VSDs with insigniﬁcant rest shunt. A child with
+complete heart block required pacemaker at 12 days after
+surgery. Severe PAH was identiﬁed in 3 children with complete
+A VSD, one presenting unbalanced ventricles. These patients
+required endothelin receptor antagonist treatment up to 2 ye ars
+after surgery.
+In the WDS group, 4 children presented severe left A V
+valve insuﬃciency (only 1 required corrective surgery afte r
+ﬁrst intervention). Another child had severe left A V valve
+stenosis that required re-intervention within 1 month afte r the
+ﬁrst intervention. One other child with complete heart block
+required pacemaker. Only one child had persistent severe PAH
+after surgery. This child had a complex malformation with
+unbalanced ventricles, partial anomalous pulmonary venous
+drainage and heterotaxy syndrome, and he received treatmen t
+with phosphodiesterase type 5 inhibitors (sildenaﬁl). Other
+important postoperative complications in children with complete
+A VSD were: endocarditis in two children (1 DS, 1 WDS),
+secondary ischemic stroke after cerebral embolization (a pa tient
+with DS, totally recovered) in one patient and protein-losing
+enteropathy after Fontan intervention (another patient with
+heterotaxy syndrome, WDS). Partial and transitional A VSDs
+had good postoperative evolution, without major complication s.
+Postoperative evolution of patients with A VSD was favorable,
+with the exception of one child with DS, severe PAH and severe
+left A V valve insuﬃciency, who died 1 year after surgery (at t he
+age of 2 years).
+DISCUSSION
+We aimed to establish if a particular medical management
+is required in children with DS and A VSD by evaluation
+of 31 children with DS compared to 31 children without
+DS, in regards, to type of A VSD, age at diagnosis, age
+at the time of surgery and postoperative evolution, in a
+Romanian setting.
+The prevalence of complete A VSD was almost 80%, slightly
+more than in other published reports (
+2, 3). Complete A VSD
+was the most common form in both groups. Conversely, partial
+A VSD was identiﬁed only in the group WDS in our cohort,
+while transitional A VSD were distributed similarly in both groups
+as showed by other reports (
+2, 3). Almost 13% of A VSD had
+unbalanced ventricles, compared to a prevalence of 10% in
+literature (
+22, 23). Unbalanced A VSDs are frequently associate
+with left or right isomerism, required a special approach,
+and these comorbidities had a major impact on the medical
+outcome (
+24–26).
+The detection rate of DS in pregnancy may be 90–95%,
+which leads to an earlier detection of congenital heart diseas es,
+especially of A VSD. In this case, most families choose to
+Frontiers in Pediatrics | www.frontiersin.org 4 July 2021 | Volume 9 | Article 612644
+[[p5]]
+Olariu et al. Atrioventricular Septal Defect in Romanian Children
+termination of pregnancy ( 9, 27, 28). However, in this cohort,
+only four children with A VSD were diagnosed during pregnancy
+and the parents decided to continue the pregnancy. In Romania
+there are still a large number of pregnant women who do
+not attend assessment during pregnancy. Nonetheless, our
+study design did not include an evaluation of cases diagnose d
+prenatally, where families opted for termination of pregnancy .
+After birth, the age at diagnosis for A VSD was similar for bot h
+groups. Both genders were equally aﬀected.
+Age at diagnosis was late for several children in this cohort ,
+despite the recommendations that routine cardiac screening
+should be performed for all newborn babies with DS. UK and
+Ireland Down Syndrome Medical Interest Group
+′
+s (DSMIG)
+guidelines recommend that the cardiac status of all childre n
+with DS should be established before 6 weeks of age, by clinic al,
+ECG and cardiac ultrasound evaluation (
+29). Possibly, improved
+awareness for A VSD complications in primary care is needed, in
+order to improve referral to tertiary care facilities in Romani a.
+A VSD has been associated with other heart abnormalities
+in more than half of children, while extracardiac abnormali ties
+????QT–ROD??K????
+in literature (
+27, 30, 31). Digestive system and musculoskeletal
+anomalies were more frequent in DS group, while isomerism
+was identiﬁed only in the group WDS. Knowledge regarding
+the existence of extracardiac abnormalities is important as they
+require a multidisciplinary approach.
+The optimal surgical time for complete A VSD is between the
+3rd and 6th month of life, before PAH is established (
+1, 3, 16).
+Importantly, eleven children in our study died before surger y,
+more from the DS group, suggesting early diagnosis and follow-
+up is needed, according to A VSD severity. Most of these cases
+presented too late at the hospital. There was no diﬀerence in
+surgical technique between A VSD in DS and WDS group (
+32).
+Several studies demonstrate that DS patients need reoperation for
+left A V valve regurgitation later than those WDS (18, 19, 33, 34).
+Children with partial and transitional A VSD are largely
+asymptomatic so referral for surgical repair may be delayed
+to preschool or older age (
+20, 21, 35). In a study made by
+Minich et al. median age at surgery was 1.8 years ( 21). Patients
+with partial or transitional A VSDs in our group had no major
+postoperative complications. Special attention is needed for
+partial or transitional A VSDs that associates left-side obstructive
+lesions or unbalanced ventricles, especially those WDS.
+Clinical symptoms in A VSD occur in infancy as a result
+of high pulmonary blood ﬂow associated with PAH (
+3, 17).
+Patients with no ventricular component or a small ventricula r
+defect and good A V valve function were asymptomatic in our
+cohort. Failure to thrive, congestive heart failure and fre quent
+pulmonary infections, were invariably observed children fr om
+literature and in this study (
+3). In selected cases, patients with
+cardiac failure beneﬁt from determining cardiac biomarkers (36).
+Pathological values were detected in complex A VSD with severe
+cardiac involvement in this study.
+PAH before surgery was identiﬁed in more than 60% from
+the DS group in this study. After surgery, 3 out of 4 patients
+that remained with severe PAH had DS, suggesting that special
+attention is needed in postoperative care. Children with DS an d
+large left-to-right shunt were shown to develop PAH much earlier
+than children without DS with similar defects (
+37).
+In children with unrepaired complete A VSD, irreversible
+pulmonary vascular disease becomes increasingly common wit h
+age, and aﬀects almost all patients older than 2 years of age ( 3).
+A study by Sharma et al. showed that 5 out of 10 children with
+DS develop PAH and the risk increases to almost 8 out of 10
+children with DS and A VSD (
+37). Early correction of A VSDs
+can help prevent the development of irreversible pulmonary
+vascular disease (
+17). In our study, one patient with Down
+syndrome presented Eisenmenger syndrome, due to the fact
+that he was diagnosed late (age 3 years). Early recognition
+of lesions allows appropriate and timely treatment. Survival
+following A VSD repair is over 85% at 10 years and over 82% at
+20 years after surgery (
+33, 38). Several studies have showed that
+the complications risk after A VSD surgical repair in DS are not
+increased, with the exception of the risk for PAH (
+16, 18, 39).
+Life expectancy of patients with DS has increased signiﬁcantl y in
+developed countries, with a current expected age of 60 years as
+compared to only 12 years life expectancy in the 1940s (
+7, 40).
+There were several limitations in our study. Our study
+has a relatively small sample size thus results may not
+enable accurate identiﬁcation of signiﬁcant diﬀerences bet ween
+groups. Therefore, larger studies are needed to further eval uate
+diﬀerences in medical outcome between groups in a similar
+setting. As several children were diagnosed late in this cohort, the
+results cannot be generalized for other groups or other countr ies.
+Social and educational status of families was not evaluated in
+this study. Late diagnosis and surgical treatment were caus ed
+largely by a particular medical care setting in Romania in form er
+years, which included: low number of pediatric cardiologist s
+and pediatric cardiovascular surgeons, few tertiary pediatr ic
+cardiovascular surgery clinics, coupled with low referral r ates of
+newborns to tertiary clinics, as well as family’s fear of surg ery.
+Nonetheless, these results are needed to understand morbid ity
+and mortality rates in A VSD, in children with or without DS, in a
+developing economy. Increased awareness health risks associated
+with A VSD could bring improved referral rates to tertiary car e
+cardiology clinics.
+CONCLUSIONS
+The complete form of A VSD was more frequent in DS group,
+having worse prognosis, while unbalanced A VSD was observed
+predominantly in the group WDS. Age at diagnosis ranged
+between 1 day and 15 years. There were no signiﬁcant diﬀerence s
+between the age at diagnosis and age at surgical intervention
+in children with DS or WDS, however, postoperative care for
+children with DS required special attention due to risk of
+PAH. The postoperative results were encouraging; however, a
+large number of children with A VSD did not receive surgical
+treatment. Late diagnosis was an important risk factor for poo r
+prognosis, in the setting of suboptimal access to cardiac surg ery
+for patients in Romania. Increased awareness is needed in orde r
+to provide early diagnosis of A VSD and enable optimal surgical
+treatment, before occurrence of irreversible PAH. This way , both
+Frontiers in Pediatrics | www.frontiersin.org 5 July 2021 | Volume 9 | Article 612644
+[[p6]]
+Olariu et al. Atrioventricular Septal Defect in Romanian Children
+increased life expectancy and increased quality of life is expe cted
+for these people.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+ETHICS STATEMENT
+Ethical review and approval was not required for the study
+on human participants in accordance with the local legislation
+and institutional requirements. Written informed consent to
+participate in this study was provided by the participants’ legal
+guardian/next of kin.
+AUTHOR CONTRIBUTIONS
+I-CO, GD, and AP: conceptualization. AP and RS: methodology.
+AC-E and TO: software. GD, AC-E, and AP: validation. GD and
+I-CO: formal analysis. I-CO, A-MA, RI, and RS: investigation.
+AP and GD: resources. A-MA, RI, RMS, and TO: data curation.
+I-CO: writing. GD, AP , and MG: supervision. All authors have
+read and agreed to the published version of the manuscript.
+REFERENCES
+PM?aﬀ?ilK?`?r?cK?lrc?l?o?uM
+Last full review/revision (2018).
+2. Chaudhry A, Urbinelli L, Veldtman GR. Atrioventricular septal defec ts. In:
+Gatzoulis MA, Webb GD, Daubeney PEF , editors.Diagnosis and Management
+of Adult Congenital Heart Disease . 3rd ed. Philadelphia, PA: Elsevier Inc.
+(2018). p. 326–38. doi: 10.1016/b978-0-7020-6929-1.00031 -9
+3. Calabrò R, Limongelli G. Complete atrioventricular canal. Orphanet J Rare
+Dis. (2006) 1:8. doi: 10.1186/1750-1172-1-8
+4. Muntean I, Tog ˘anel R, Benedek T. Genetics of congenital
+heart disease: past and present. Biochem Genet . (2017) 55:105–
+23. doi: 10.1007/s10528-016-9780-7
+5. Zaidi S, Brueckner M. Genetics and genomics of congenital he art disease. Circ
+Res. (2017) 120:923–40. doi: 10.1161/CIRCRESAHA.116.309140
+6. Pan X, Hu X, Zhang Y , Feng K, Wang SP , Chen L, et al. Identifying
+patients with atrioventricular septal defect in down syndrome populat ions by
+using self-normalizing neural networks and feature selection. Genes. (2018)
+9:208. doi: 10.3390/genes9040208
+7. Pﬁtzer C, Helm PC, Rosenthal LM, Berger F , Bauer UMM, Schmitt K R.
+Dynamics in prevalence of Down syndrome in children with congenital h eart
+disease. Eur J Pediatr. (2018) 177:107–15. doi: 10.1007/s00431-017-3041-6
+8. Gómez O, Martinez JM. Atrioventricular septal defect. In: Copel J A, D’Alton
+ME, Feltovich H, Gratacós E, Krakow D, Odibo AO, Platt LD, Tutschek B,
+editors. Obstetric Imaging: Fetal Diagnosis and Care. 2nd ed. Philadelphia, PA:
+Elsevier Inc. (2018). p. 360–4. doi: 10.1016/B978-0-323-445 48-1.00076-0
+9. Craig B. Atrioventricular septal defect: from fetus to adult. Heart. (2006)
+92:1879–85. doi: 10.1136/hrt.2006.093344
+10. Bergström S, Carr H, Petersson G, Stephansson O, Bonamy AK, Dah lström
+A, et al. Trends in congenital heart defects in infants with down syndrome.
+Pediatrics. (2016) 138:e20160123. doi: 10.1542/peds.2016-0123
+11. Digilio MC, Marino B, Toscano A, Giannotti A, Dallapiccola B.
+Atrioventricular canal defect without down syndrome: a heterogen eous
+malformation. Am J Med Genet. (1999) 16:85:140–6.
+12. De Biase L, Di Ciommo V , Ballerini L, Bevilacqua M, Marcelletti C, M arino
+B. Prevalence of left-sided obstructive lesions in patients with a trioventricular
+canal without Down’s syndrome. J Thorac Cardiovasc Surg . (1986) 91:467–
+9. doi: 10.1016/S0022-5223(19)36064-7
+13. Paladini D, Volpe P , Sglavo G, Russo MG, De Robertis V , Penner I, et al.
+Partial atrioventricular septal defect in the fetus: diagnostic features and
+associations in a multicenter series of 30 cases. Ultrasound Obstet Gynecol .
+(2009) 34:268–73. doi: 10.1002/uog.7317
+14. Marino B, Digilio MC, Toscano A, Giannotti A, Dallapiccola B. Co ngenital
+heart diseases in children with Noonan syndrome: an expanded cardia c
+spectrum with high prevalence of atrioventricular canal . J Pediatr. (1999)
+135:703–6. doi: 10.1016/S0022-3476(99)70088-0
+15. Hartman RJ, Riehle-Colarusso T , Lin A, Frías JL, Patel SS, Duwe K , et al.
+Descriptive study of nonsyndromic atrioventricular septal defects in the
+National Birth Defects Prevention Study, 1997–2005. Am J Med Genet Part
+A. (2011) 155A:555–64. doi: 10.1002/ajmg.a.33874
+16. Lange R, Guenther T , Busch R, Hess J, Schreiber C. The presence of Down
+syndrome is not a risk factor in complete atrioventricular septal defec t repair.
+J Thorac Cardiovasc Surg. (2007) 134:304–10. doi: 10.1016/j.jtcvs.2007.01.026
+17. Marder L, Tulloh R, Pascall E. Cardiac problems in down syndrome. Paediatr
+Child Health. (2015) 25:23–9. doi: 10.1016/j.paed.2014.07.011
+18. Al-Hay AA, MacNeill SJ, Y acoub M, Shore DF , Shinebourne
+EA. Complete atrioventricular septal defect, down syndrome,
+and surgical outcome: risk factors. Ann Thorac Surg. (2003)
+75:412–21. doi: 10.1016/S0003-4975(02)04026-2
+19. Formigari R, Di Donato RM, Gargiulo G, Di Carlo D, Feltri C, Picchio FM,
+et al. Better surgical prognosis for patients with complete Atrioven tricular
+Septal Defect and Down’s Syndrome. Ann Thorac Surg. (2004) 78:666–
+72. doi: 10.1016/j.athoracsur.2003.12.021
+20. Giamberti A, Marino B, Duccio di Carlo, Iorio FS, Formigari R, De Zorz i
+A, et al. Partial Atrioventricular Canal with congestive heart fai lure in
+the ﬁrst year of life: surgical options. Ann Thorac Surg. (1996) 62:151–
+4. doi: 10.1016/0003-4975(96)00262-7
+21. Minich LL, Atz AM, Colan SD, Sleeper LA, Mital S, Jaggers J, et al. Partial and
+transitional atrioventricular septal defect outcomes. Ann Thorac Surg. (2010)
+89:530–6. doi: 10.1016/j.athoracsur.2009.10.047
+22. Corno A, Marino B, Catena G, Marcelletti C. Atrioventricular sept al defects
+with severe left ventricular hypoplasia. Staged palliation. J Thorac Cardiovasc
+Surg. (1988) 96:249–52. doi: 10.1016/S0022-5223(19)35266-3
+23. Overman DM, Baﬀa JM, Cohen MS, Mertens L, Gremmels
+DB, Jegatheeswaran A, et al. Unbalanced atrioventricular
+septal defect: deﬁnition and decision making. World J Pediatr
+Congenit Heart Surg . (2010) 1:91–6. doi: 10.1177/21501351103
+63024
+24. Meza JM, Devlin PJ, Overman DM, Gremmels D, Baﬀa G, Cohen MS,
+et al. The congenital heart surgeon’s society complete atrioventri cular septal
+defect cohort: baseline, preintervention echocardiographic chara cteristics.
+Semin Thorac Cardiovasc Surg . (2019) 31:80–6. doi: 10.1053/j.semtcvs.2018.
+02.004
+25. Makrexeni ZM. Down syndrome with unbalanced complete atrioventri cular
+septal defect and truncus arteriosus. Cardiovasc Pharm Open Access . (2017)
+6:224–6. doi: 10.4172/2329-6607.1000224
+26. Sano S, Fujii Y , Arai S, Kasahara S, Tateishi A. Atrioventricu lar valve repair
+for patient with heterotaxy syndrome and a functional single vent ricle.
+Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu . (2012) 15:88–
+95. doi: 10.1053/j.pcsu.2012.01.014
+27. Mure¸ san D, M˘arginean C, Zaharie G, Stamatian F. Complete atrioventricular
+septal defect in the era of prenatal diagnosis. Med Ultrason . (2016) 18:500–
+7. doi: 10.11152/mu-879
+28. Flanders L, Tulloh R. Cardiac problems in down syndrome.
+Paediatr Child Health . (2011) 21:25–31. doi: 10.1016/j.paed.2010.
+09.005
+29. DSMIG. Down Syndrome Medical Interest Group . Available online at: http://
+www.dsmig.org.uk/information-resources/guidance-for-ess ential-medical-
+surveillance/neonatal-guidelines-amended-7-1-18-nb-edit- 26-9-18-new-
+address-2019/
+Frontiers in Pediatrics | www.frontiersin.org 6 July 2021 | Volume 9 | Article 612644
+[[p7]]
+Olariu et al. Atrioventricular Septal Defect in Romanian Children
+30. Stoll C, Dott B, Alembik Y , Roth MP. Associated congenital an omalies
+among cases with Down syndrome. Eur J Med Genet . (2015) 58:674–
+80. doi: 10.1016/j.ejmg.2015.11.003
+31. Digilio MC, Marino B. What is new in genetics of congenital h eart defects?
+Front Pediatr. (2016) 4:120. doi: 10.3389/fped.2016.00120
+32. Atz AM, Hawkins JA, Lu M, Cohen MS, Colan SD, Jaggers J, et al.
+Surgical management of complete atrioventricular septal defect: ass ociations
+with surgical technique, age, trisomy 21. J Thorac Cardiovasc Surg . (2011)
+141:1371–9. doi: 10.1016/j.jtcvs.2010.08.093
+33. Schleiger A, Miera O, Peters B, Schmitt KRL, Kramer P , Buraciono k J,
+et al. Long-term results after surgical repair of atrioventricular se ptal defect.
+Interact Cardiovasc Thorac Surg . (2019) 28:789–96. doi: 10.1093/icvts/i
+vy334
+34. El-Najdawi EK, Driscoll DJ, Puga FJ, Dearani JA, Spotts BE,
+Mahoney DW, et al. Operation for partial atrioventricular septal
+defect: a forty-year review. J Thorac Cardiovasc Surg . (2000)
+119:880–90. doi: 10.1016/S0022-5223(00)70082-1
+35. Devlin PJ, Backer CL, Eltayeb O, Mongé MC, Hauck AL, Costello J M. Repair
+of partial atrioventricular septal defect: age and outcomes. Ann Thorac Surg .
+(2016) 102:170–7. doi: 10.1016/j.athoracsur.2016.01.085
+36. Doros G, Olariu C, Ardelean AM, Stroescu R, Gafencu M. Relevance
+of the cardiac biomarkers in children with heart disease admitted fo r
+severe cardiac pathology. Rev Chim . (2017) 68:748–53. doi: 10.37358/RC.
+17.4.5545
+37. Sharma M, Khera S, Sondhi V , Devgan A. A study to determine the
+prevalence of pulmonary arterial hypertension in children with Down
+syndrome and congenital heart disease. Med J Armed Forces India . (2013)
+69:241–5. doi: 10.1016/j.mjaﬁ.2012.11.013
+38. Ginde S, Lam J, Hill GD, et al. Long-term outcomes after surgica l
+repair of complete atrioventricular septal defect. The Journal
+of Thoracic and Cardiovascular Surgery. (2015) 150(2):369-374.
+doi: 10.1016/j.jtcvs.2015.05.011
+39. St. Louis JD, Jodhka U, Jacobs JP , He X, Hill KD, Pasquali
+SK, et al. Contemporary outcomes of complete atrioventricular
+septal defect repair: analysis of the Society of Thoracic Surgeon s
+Congenital Heart Surgery Database. J Thorac Cardiovasc Surg . (2014)
+148:2526–31. doi: 10.1016/j.jtcvs.2014.05.095
+40. Vis JC, Duﬀels MG, Winter MM, Weijerman ME, Cobben JM, Huisman S A,
+et al. Down syndrome: a cardiovascular persective. J Intellect Disabil Res.
+(2009) 53:419–25. doi: 10.1111/j.1365-2788.2009.01158. x
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potential conﬂict of interest.
+Copyright © 2021 Olariu, Popoiu, Ardelean, Isac, Steﬂea, Olariu , Chirita-Emandi,
+Stroescu, Gafencu and Doros. This is an open-access article d istributed under the
+terms of the Creative Commons Attribution License (CC BY). T he use, distribution
+or reproduction in other forums is permitted, provided the or iginal author(s) and
+the copyright owner(s) are credited and that the original pub lication in this journal
+is cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these t erms.
+Frontiers in Pediatrics | www.frontiersin.org 7 July 2021 | Volume 9 | Article 612644

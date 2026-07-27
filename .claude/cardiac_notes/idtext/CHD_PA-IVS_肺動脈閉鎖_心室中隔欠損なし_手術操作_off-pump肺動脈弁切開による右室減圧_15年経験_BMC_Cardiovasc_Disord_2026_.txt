@@ -1,0 +1,985 @@
+
+[[p1]]
+RESEARCH Open Access
+© The Author(s) 2026. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  
+v e c  o m m  o n s .  o r  g / l  i c e  n s e s  / b  y - n c - n d / 4 . 0 /.
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+https://doi.org/10.1186/s12872-026-05721-z
+BMC Cardiovascular Disorders
+†Longming Huang, Bozhong Shi and Xinjie Zhang contributed 
+equally to this work.
+†Zhongqun Zhu and Xiaomin He contributed equally to this work.
+*Correspondence:
+Zhongqun Zhu
+Zhuzhongqun@scmc.com.cn
+Xiaomin He
+mrxmhe@163.com
+Full list of author information is available at the end of the article
+Abstract
+Background Right ventricle (RV) decompression for pulmonary atresia with intact ventricular septum (PA/IVS) could 
+be achieved surgically or percutaneously, yet transcatheter valvotomy is not widely accessible in remote regions and 
+classic on-pump pulmonary valvotomy procedure carries risks of by pass in neonatal patients. We aim to summarize 
+our 15-year’s surgical experience treating PA/IVS with on-pump valvulotomy, off-pump valvulotomy and hybrid 
+techniques.
+Methods From January 2010 to March 2025, 104 PA/IVS children who underwent off-pump, on-pump pulmonary 
+valvulotomy or hybrid therapy in our hospital were retrospectively reviewed, including off-pump group (n = 56), 
+on-pump group (n = 34) and hybrid group (n = 14). The postoperative mortality, operation time, early and mid-term 
+follow-up of the three groups were analyzed.
+Results Both the off-pump and hybrid groups exhibited significantly shorter operative times, reduced vasoactive 
+drug support, shorter intubation times, and shorter intensive care unit (ICU) and postoperative hospital stays 
+compared to the on-pump group (P < 0.001). Cerebral, intestinal and renal oxygen monitor suggested that no obvious 
+hypoxia was caused by clamping in off-pump procedure (P > 0.05). At final follow-up, RV hypoplasia, tricuspid Z score 
+and pulmonary regurgitation were not significant among groups (P > 0.05). However, the hybrid group demonstrated 
+a significantly higher rate of restenosis.
+Off-pump pulmonary valvotomy 
+for pulmonary atresia with intact ventricular 
+septum: a safe and effective alternative 
+with comparable outcomes
+Longming Huang1†, Bozhong Shi1†, Xinjie Zhang1†, Guowei Zeng1, Kai Luo1, Xiaoyang Zhang1, Jinghao Zheng1,2, 
+Zhongqun Zhu1*† and Xiaomin He1,2*†
+[[p2]]
+Page 2 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+Introduction
+Pulmonary atresia with intact ventricular septum (PA/
+IVS) is an uncommon type of cyanotic congenital heart 
+disease, affecting 3 to 8 of every 100,000 living births, 
+comprising fewer than 1% of all heart defects [ 1, 2]. PA/
+IVS exhibits a spectrum of morphologic abnormalities, 
+such as right ventricle (RV) hypoplasia, tricuspid valve 
+(TV) hypoplasia, and fistulae connecting the RV to the 
+coronary circulation [ 3, 4]. Due to its high natural mor -
+tality in the neonatal stage, it is one of the few types of 
+congenital defects that require early interventions soon 
+after birth. However, both neonatal operation and the 
+anatomical heterogeneity of PA/IVS itself necessitate 
+great demands to its surgical techniques and strategies.
+In patients with mild to moderate hypoplastic right 
+ventricle, adequate tricuspid valve and without right 
+ventricular-dependent coronary circulation (RVDCC), 
+RV decompression is generally adopted as primary strat -
+egy [ 2]. It aims to create antegrade flow through pul -
+monary valves, which further promote the growth of 
+RV and optimize the chance of biventricular correction. 
+RV decompression now could be achieved surgically or 
+percutaneously while the choice is various in different 
+centers. The most classic and well-accepted way for RV 
+decompression is direct pulmonary valvotomy under 
+cardiopulmonary bypass (CPB). However, the 1-year 
+survival of this on-pump procedure is merely 70–75% 
+as reported, likely due to the intolerance of sternotomy 
+and CPB in neonatal patients [5–7]. With the advances of 
+catheterization in recent decades, PA/IVS could also be 
+treated by transcatheter valvotomy and balloon dilation. 
+Although this minimal-invasive procedure avoids CPB, it 
+seems to be associated with considerable rate of proce -
+dural failure, complications and surgical reintervention 
+in several studies [ 8]. Recently, a hybrid approach com -
+bining surgical access with a transcatheter intervention 
+to open the RVOT was described. Potential advantages of 
+the hybrid approach include avoidance of neonatal CPB, 
+mitigation of the technical failure rate of the percutane -
+ous approach, due to direct access to the RVOT, and a 
+lower complication rate (i.e., no risk of RVOT perforation 
+and associated sequelae) [ 9]. However, hybrid therapy’s 
+limitations include the substantial need for specialized 
+equipment and multidisciplinary collaboration, along 
+with uncertainty in achieving complete stenosis relief. 
+These constraints confine its application to large medical 
+centers and preclude its use in remote areas.
+To avoid the limitation and risks of above strategies, we 
+carried out surgical pulmonary valvotomy without CPB 
+as an alternative for PA/IVS patients in our center. This 
+off-pump technique repairs pulmonary atresia under 
+direct surgical vision and largely prevent the damage of 
+CPB. However, it has not yet been rigorously compared 
+with a contemporaneous cohort undergoing the standard 
+surgical approach. Thus, we describe and summarize our 
+experience performing pulmonary valvotomy for PA/IVS 
+using both on-pump and off-pump techniques, as well 
+as a hybrid approach, as the primary procedure. The off-
+pump approach shows considerable promise, given its 
+commendable early and mid-term outcomes.
+Methods
+Study population
+From January 2010 to March 2025, a total of 104 PA/IVS 
+patients who received surgical pulmonary valvotomy or 
+hybrid approach as primary operation in Shanghai Chil -
+dren’s Medical Center were retrospected. The study pro -
+tocol conformed to the 1975 Declaration of Helsinki. 
+Ethical issues were approved by Shanghai Children Medi-
+cal Center Ethics Committee (SCMCIRB-K2022121-1). 
+Informed consent was obtained from legal guardians. 
+34 patients received pulmonary valvotomy under CPB, 
+56 patients received pulmonary valvotomy without CPB 
+as off-pump group, and 14 patients received hybrid 
+approach as hybrid group. All patients underwent fol -
+low-up every 2 months in the first year, and once a year 
+after. All patients met the inclusion criteria as follow -
+ing: (1) diagnosis as PA/IVS by echocardiography and 
+enhanced CT; (2) Membranous atresia of the pulmonary 
+valves (PV) with mild to moderate hypoplasia of RV; (3) 
+Z value of TV > -4; (4) without RVDCC; (5) received only 
+surgical pulmonary valvotomy or hybrid approach as pri -
+mary operation, with or without Patent ductus arteriosus 
+(PDA) closure or Blalock-Taussig (BT) shunt. Patients 
+received PV transannular patch repair and patients with 
+severe RV hypoplasia, RVDCC, or other concomitant 
+conditions such as severe extra-cardiac malformations, 
+severe nervous system diseases, infection or immune sys -
+tem diseases, were excluded.
+Surgical techniques
+The surgery for three groups was taken under median 
+sternotomy. For the on-pump pulmonary valvotomy, 
+CPB was established routinely after cannulation of aorta, 
+superior vena cava and inferior vena cava. A transverse 
+Conclusions The off-pump pulmonary valvotomy is an effective, safe and technical-friendly operation. It provides 
+superior early outcomes compared to on-pump surgery and a lower restenosis rate relative to hybrid techniques, 
+highlighting its value for broader adoption across medical centers.
+Keywords PA/IVS, On-pump, Off-pump, Hybrid, Pulmonary valvulotomy
+[[p3]]
+Page 3 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+incision was then made on the anterior wall of the main 
+pulmonary artery at about 1  cm above the pulmonary 
+annular parallel to the cannula of CPB. After exposure 
+of the fused PV, pulmonary valvotomy was performed 
+under direct vision. Sutured the incision of the main pul -
+monary artery to complete the operation.
+As shown in Fig.  1, for the off-pump pulmonary val -
+votomy procedure, inflow occlusion was initiated by 
+clamping the distal end of the main pulmonary artery fol-
+lowing block of superior and inferior vena cava. The same 
+transverse incision was then made on the anterior wall 
+of the main pulmonary artery, and gently set tractions 
+on both side of the incision. Cut open the fused pulmo -
+nary valves and expanded the valvular orifice to 4 ~ 6 mm 
+with vascular forceps, followed by quickly clamping the 
+incision of the main pulmonary artery with lateral for -
+ceps and restoring the blood flow of the superior and 
+inferior vena cava and the distal end of the pulmonary 
+artery. Lastly sutured the incision of the main pulmo -
+nary artery to complete the procedure. A standardized 
+anticoagulation protocol was followed: approximately 
+5 min prior to inflow occlusion, systemic heparinization 
+was achieved with an initial intravenous dose of unfrac -
+tionated heparin at 100 IU/kg. Activated clotting time 
+(ACT) was measured using a point-of-care device before 
+heparin administration (baseline), 5  min after adminis -
+tration, with a target ACT of > 250  s; if ACT fell below 
+?K?????QT–TO?htN??
+given. Upon completion of the suture and confirmation 
+of hemostasis, protamine sulfate was administered slowly 
+over 10–15  min for heparin reversal at a dose of 1  mg 
+per 100 IU of the initial heparin dose, based on the initial 
+dose or the most recent ACT value, to minimize the risk 
+of hypotension or anaphylactoid reactions.
+The initial hybrid procedure combined pulmonary val -
+vuloplasty and balloon dilatation. A purse-string suture 
+was placed in the right ventricular outflow tract (RVOT), 
+approximately 1.5–2.0  cm from the pulmonary trunk. 
+Under continuous transesophageal echocardiography 
+guidance, a intravenous catheter punctured the RVOT 
+wall through the center of the purse string and then per -
+forated the atretic pulmonary valve (PV). A guide wire 
+was advanced through the needle, followed by a sheath 
+that was passed over the guide wire into the RVOT. The 
+balloon diameter was selected to match the PV annulus, 
+and sequential balloon dilatations of the PV were per -
+formed until transesophageal echocardiography con -
+firmed satisfactory pulmonary pulsatile blood flow.
+Before completion, we generally examined the change 
+of SatO2 to decide whether to perform modified Blalock 
+Taussig shunt (MBTS) or ligate the PDA. If SatO 2 
+increased to more than 85%, PDA was then temporar -
+ily blocked and SatO 2 was monitored. If SatO 2 showed 
+no significant changes, PDA could be ligated at the same 
+time. If SatO2 was significantly reduced to less than 75%, 
+PDA was kept open. If SatO2 was further lower than 70%, 
+MBTS was added and PDA was ligated. Patients received 
+different procedures were showed in Fig. 2.
+Collection of clinical data
+Demographic data of the three groups of children were 
+collected, including gender, month age, weight, body 
+surface area. Preoperationally, all patients went through 
+detailed examination of echocardiography, enhanced CT, 
+and MRI when necessary. The hypoplasia of RV and tri -
+cuspid regurgitation was graded as mild, moderate and 
+severe by echocardiography under the criteria described 
+before [10]. Z value of TV was calculated by the diameter 
+of TV under echocardiography and body surface area, 
+using the normogram of the Congenital Heart Surgeon 
+Study Group Protocol. In early post-operational period, 
+patients were closely monitored, including vital signs, 
+cardiac functions, hemodynamic changes, internal envi -
+ronmental hemostasis, and adverse events. The operation 
+time, post-operational SatO 2%, mechanical ventilation 
+time. hemodynamics drug maintainence, ICU stay length, 
+in-hospital stay length and intraoperative RBC transfu -
+sion were collected. Early mortality was defined as death 
+occurring before hospital discharge. Early reintervention 
+was defined as the need for PDA ligation or MBTS pro -
+cedure before hospital discharge, or the requirement for 
+other surgical or catheter-based interventions.
+Fig. 1 Surgical schematic of off-pump valvotomy. SVC, superior and in -
+ferior vena cava; IVC, inferior vena cava; MPA, main pulmonary artery; PV, 
+pulmonary valve
+ 
+[[p4]]
+Page 4 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+Near-infrared spectroscopy
+All patients received a standardized anesthetic protocol 
+administered by the attending anesthesiologist. Intra -
+operative multi-site near-infrared spectroscopy (NIRS) 
+monitoring was employed to assess regional oxygen 
+saturation (rSO 2) in the brain, kidney, and intestine for 
+comprehensive evaluation of organ perfusion. The sen -
+sors were positioned as follows: cerebral oxygen satura -
+tion sensors were placed on the forehead; renal oxygen 
+saturation sensors were placed on the right paravertebral 
+region (corresponding to the T10–L2 vertebral levels); 
+and intestinal oxygen saturation sensors were placed on 
+the anterior midline abdomen (between the umbilicus 
+and xiphoid process). To ensure procedural safety, pre -
+defined alarm thresholds were established: during inflow 
+occlusion, a decrease in cerebral rSO₂ of more than 10% 
+from baseline triggered a warning; the acceptable intra -
+operative cerebral oxygen saturation was defined as an 
+absolute value greater than 50%.
+Neurodevelopmental testing
+Neurodevelopmental outcomes were assessed by an 
+experienced pediatrician using the Bayley Scales of Infant 
+and Toddler Development III (Bayley III). This standard -
+ized test, designed for children aged 1 to 42 months, is 
+widely recognized for its good inter-rater reliability and 
+serves as an established measure for evaluating cognitive, 
+language, and motor development [ 11]. The scores are 
+standardized to a mean of 100 and a standard deviation 
+of 15. Developmental delay was defined as a composite 
+score below 85, representing more than one standard 
+deviation from the normative mean.
+Follow-up
+After discharge, all patients underwent follow-up every 
+2 months in the first year, and once a year after. The 
+median follow-up period was 80.6 months (range 3-116 
+months). We excluded patients who were lost of follow-
+up. 3 patients (8.8%) in the on-pump group and 3 (5.4%) 
+in the off-pump group were lost to follow-up, while no 
+losses occurred in the hybrid group. Echocardiography 
+and enhanced CT were conducted each time to assess 
+the growth of RV, TV size and ejection fraction. Pulmo -
+nary stenosis and pulmonary regurgitation were graded 
+as mild, mild to moderate, moderate, moderate to severe 
+and severe. Study endpoints included mortality prior to 
+subsequent surgery and the achievement of either biven -
+tricular or 1.5 ventricular circulation among survivors. 
+Patients were classified as having achieved biventricular 
+circulation without further intervention if they exhib -
+ited no clinically significant cyanosis, along with echo -
+cardiographic evidence of a tripartite right ventricle, a 
+RVOT pressure gradient ≤ 40 mmHg, no or trivial PDA 
+flow, and minimal shunt across the patent foramen ovale. 
+Significant associated issues—such as RVOT obstruc -
+tion from subvalvular muscular hypertrophy, pulmo -
+nary valve annular hypoplasia, PDA shunt, or tricuspid 
+regurgitation—were addressed before final classification 
+as biventricular circulation. Patients with persistent cya -
+nosis despite adequate forward flow and ongoing right 
+ventricular hypoplasia between 36 and 60 months of age 
+underwent 1.5 ventricular circulation via a bidirectional 
+cavopulmonary shunt. Patients who did not meet either 
+endpoint were categorized as “wait” .
+Fig. 2 Flow chart of outcome for 109 patients following surgery. PA/IVS, pulmonary atresia with intact ventricular septum; MBTS, modified Blalock Taussig 
+shunt; PDA, Patent ductus arteriosus
+ 
+[[p5]]
+Page 5 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+Statistical analysis
+Statistical analyses were performed using Graph -
+Pad Prism 9.5(GraphPad Software, La Jolla CA, USA) 
+and IBM SPSS Statistics version 22.0 (IBM-SPSS Inc., 
+Armonk, NY, USA). Continuous variables with a normal 
+distribution are reported as mean ± standard deviation 
+and were compared using one-way analysis of variance 
+(ANOVA), followed by Tukey’s test for post-hoc pairwise 
+comparisons. Continuous variables under skewed distri -
+bution were illustrated by median with range. Categorical 
+variables are expressed as frequency (percentage). Group 
+differences in categorical data were assessed with the 
+chi-square test or Fisher’s exact test. Time-to-event out -
+comes were analyzed using the Kaplan–Meier method, 
+and differences between groups were compared with the 
+log-rank test. A P-value < 0.05 was considered statistically 
+significant.
+Results
+Baseline characteristics
+Among them, 34 patients received pulmonary valvot -
+omy under CPB, among these patients there were 11 
+cases underwent PDA ligation and 2 cases underwent 
+MBTS + PDA ligation simultaneously, as termed on-
+pump group, 56 patients received pulmonary valvotomy 
+without CPB as off-pump group, among these patients 
+there were 20 cases underwent PDA ligation and 5 cases 
+underwent MBTS + PDA ligation simultaneously. And 
+14 patients received hybrid approach as hybrid group, 
+among these patients there were 12 cases underwent 
+PDA ligation and 2 case underwent MBTS + PDA ligation 
+simultaneously. No difference was observed among the 
+groups in gender, age, weight, RV hypoplasia, tricuspid Z 
+score, LVEF and preoperational SatO2 (Table 1).
+Hospital outcomes
+As shown in Table 2, the overall acute postoperative mor-
+tality was 5.5% (6/109). In the on-pump group, 2 (5.9%) 
+patients died, 1 from severe hypoxemia and 1 from severe 
+right ventricular arrhythmia and heart failure. The off-
+pump group had 3 (5.4%) deaths, 2 of which resulted 
+from hypoxemia. 1 patient in this group underwent 
+reoperation with MBTS and PDA ligation but died from 
+multiorgan dysfunction 34 h later. In the hybrid group, 1 
+(7.1%) patient died from severe hypoxemia and respira -
+tory failure. No statistically significant difference in mor -
+tality was observed among the three groups ( P = 1.000)In 
+the on-pump group, early complications included hypox-
+emia in 2 patients, pulmonary infection in 1, and renal 
+??PM?P???????L
+eration due to severe hypoxemia caused by an obstructed 
+artificial tunnel and subsequently underwent an MBTS 
+procedure, yielding an early reoperation rate of 2.9%. 
+The off-pump group experienced hypoxemia in 2 cases, 
+pulmonary infection in 2, arrhythmia in 1, and wound 
+??PM?`?K?P???lasr??
+hypoxemia and another underwent PDA ligation for pul -
+monary congestion, resulting in an early reoperation rate 
+of 3.6%. In the hybrid group, early complications com -
+prised hypoxemia in 3 patients, pulmonary infection in 1, 
+????PM?Q?????
+MBTS for hypoxemia, leading to an early reoperation rate 
+of 14.3%. No statistically significant difference in reinter -
+vention was observed among the three groups (P = 0.264).
+All groups had significant increase in SaO 2 after opera-
+tion and no difference was found in SaO 2 level among 
+groups ( P = 0.345). The mean SaO 2 increased from pre -
+operational 71.2 ± 4.6% to 80.6 ± 10.5% (P < 0.001) in on-
+pump group. Likewise, the primary off-pump operation 
+Table 1 Baseline characteristics of the three groups
+On-pump
+n = 34
+Off-pump
+n = 56
+Hybrid
+n = 14
+P-valve
+Gender (male/female) 20/14 34/22 8/6 0.964
+Neonates (age≤28days) 22 (64.7) 36 (64.3) 7 (50.0) 0.583
+Age (days) 28.2 ± 19.9 31.1 ± 22.7 30.5 ± 19.3 0.821
+Weight (kg) 3.6 ± 0.8 3.8 ± 1.2 3.9 ± 0.5 0.554
+RV hypoplasia 0.236
+Mild 20 (58.8) 30 (53.6) 11 (78.6)
+Moderate 14 (41.2) 26 (46.4) 3 (21.4)
+Tricuspid Z score -1.55 ± 1.63 -1.58 ± 1.60 -1.65 ± 1.27 0.980
+LVEF% 58.2 ± 6.5 58.3 ± 7.5 59.6 ± 6.3 0.802
+Preoperational SatO2% 71.2 ± 4.6 69.4 ± 5.4 71.8 ± 6.2 0.130
+Data presented as mean ± SD and n (%)
+P < 0.05 was considered statistically significant
+RV Right ventricle, LVEF Left ventricular ejection fraction
+Table 2 Early outcome of the three groups
+On-pump
+n = 34
+Off-pump
+n = 56
+Hybrid
+n = 14
+P-
+value
+Early mortality 2 (5.9) 3 (5.4) 1 (7.1) 1.000
+Early 
+reintervention
+1 (2.9) 2 (3.6) 2 (14.3) 0.264
+Postoperational 
+SatO2%
+82.2 ± 8.7 80.6 ± 10.5 81.2 ± 10.7 0.762
+Operation time 
+(min)
+107.6 ± 22.7 52.3 ± 16.8 60.4 ± 10.3 < 0.001
+Mechanical venti-
+lation time (h)
+92.5 ± 23.6 57.3 ± 25.4 62.0 ± 28.9 < 0.001
+Hemodynamics 
+drug main-
+tainence (h)
+218.2 ± 32.5 122.5 ± 24.8 131.4 ± 25.8 < 0.001
+ICU stay length 
+(days)
+7.6 ± 2.6 4.5 ± 2.3 5.5 ± 2.2 < 0.001
+In-hospital stay 
+length (days)
+14.3 ± 5.7 8.5 ± 3.2 9.1 ± 3.8 < 0.001
+Data presented as mean ± SD and n (%)
+P < 0.05 was considered statistically significant
+ICU Intensive care unit
+[[p6]]
+Page 6 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+promoted SaO 2 from 69.4 ± 5.4% before operation to 
+82.2 ± 8.7% (P < 0.001), and the mean SaO2 increased from 
+preoperational 71.8 ± 6.2% to 81.2 ± 10.7% ( P = 0.009) 
+in hybrid group. Although no difference was detected 
+among the three groups in mortality and reintervention, 
+the off-pump group and hybrid group presented with less 
+operation time, less tracheal incubation time, less use of 
+vasoactive drugs, less ICU stay length and in-hospital 
+length (P < 0.001).
+To further investigate the impact of transient blood 
+flow occlusion during off-pump surgery, we paid special 
+attention to oxygen perfusion of distal organs. During 
+off-pump valvulotomy, the mean durations of the lowest 
+rSO₂ in the brain, kidney, and intestine were 1.6 ± 0.3 min, 
+1.8 ± 0.5  min, and 1.9 ± 0.2  min, respectively. No signifi -
+cant differences were observed in the above indicators 
+between pre-clamp and post-clamp 10 min or among the 
+three groups, indicating that temporary blockage of the 
+blood flow in off-pump procedure induced no significant 
+more ischemic damage (Fig. 3).
+In the on-pump group, 14 patients (41.2%) required 
+intraoperative RBC transfusion, with a mean volume 
+of 1.3 ± 0.6 units. The off-pump group had 24 patients 
+(42.9%) receiving transfusion, at a mean of 1.2 ± 0.6 units. 
+Neither the transfusion rate ( P = 0.876) nor the vol -
+ume ( P = 0.623) differed significantly between these two 
+groups. Within the hybrid group, which was excluded 
+from formal statistical comparisons due to its small sam -
+ple size, only one patient (6.7%) received an intraopera -
+tive RBC transfusion of 2 units.
+Neurodevelopmental outcomes
+Neurodevelopmental assessments based on the Bayley 
+Scales of Infant and Toddler Development, Third Edition 
+(Bayley-III) were completed for 26 patients at a mean age 
+of 27.3 ± 5.1 months (11 in the on-pump group and 15 
+in the off-pump group). The hybrid group was excluded 
+from this analysis due to an insufficient number of 
+assessed patients ( n = 1). The mean composite scores for 
+the on-pump and off-pump groups were 94.4 ± 7.2 ver -
+sus 92.5 ± 7.4 (P = 0.516) for cognition, 91.3 ± 10.5 versus 
+90.8 ± 6.5 (P = 0.882) for language, and 95.4 ± 3.3 versus 
+93.2 ± 4.0 (P = 0.150) for motor. No statistically significant 
+differences were observed between the two groups in any 
+domain. All mean scores fell within the normal range 
+(≥ 85), though slightly below the normative mean of 100. 
+In the ex vivo circulation group, 1 case of cognitive delay 
+and 2 cases of language delay were identified, compared 
+with 2 cases of cognitive delay and 2 cases of language 
+delay in the off-pump group.
+Mid-term outcomes
+Over a median follow-up of 80.6 months, 1 death 
+occurred, and a total of 3 patients in the on-pump group 
+and 3 in the off-pump group were lost to follow-up. 1 
+patient in the off-pump group died from severe arrhyth -
+mia after terminal surgery. The mid-term outcomes 
+for the three groups are presented in Table  3. The vast 
+majority of the patients in three groups had significant 
+growth of RV, whereas 11 patients remained to be mod -
+erate hypoplasia (4 patients in on-pump group, 6 patients 
+in off-pump group and 1 patient in hybrid group). More -
+over, in comparison to TV size before operation, three 
+groups showed less negative tricuspid Z value at last 
+follow-up, indicating satisfactory effect could be achieve 
+by both techniques to pursue biventricular circulation 
+(Fig.  4). No difference was detected in aspects of RV 
+(P = 0.060) and TV status (P = 0.988) among groups.
+Moreover, pulmonary valve status was meticulously 
+assessed by echocardiography at each follow-up visit. 
+Only 1 patient in the on-pump group was diagnosed with 
+moderate pulmonary stenosis, while all others exhibited 
+less than moderate stenosis. In the off-pump group, 12 
+patients had mild stenosis and 2 had moderate stenosis. 
+Fig. 3 Regional oxygen saturation (rSO₂) in the cerebral ( A), intestinal ( B), and renal regions ( C). On-pump group (green), Off-pump group (blue) and 
+Hybrid group (orange)
+ 
+[[p7]]
+Page 7 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+The hybrid group, however, demonstrated a higher pro -
+portion and greater severity of pulmonary valve stenosis, 
+with 9 patients exhibiting mild stenosis, 3 moderate ste -
+nosis, indicating a significantly higher incidence of pul -
+monary stenosis ( P < 0.001). The Kaplan-Meier estimates 
+demonstrate that the hybrid group exhibited significantly 
+poorer freedom from moderate stenosis (hybrid ver -
+sus on-pump group, P = 0.035; hybrid versus off-pump. 
+P = 0.017), with an 8-year freedom from stenosis of only 
+74.0% versus 90.2% in the other two groups (Fig.  5). Most 
+patients were evaluated as having acceptable pulmo -
+nary regurgitation, no worse than mild. Nevertheless, 
+1 patient in the on-pump group and 2 in the off-pump 
+group presented with moderate pulmonary regurgitation 
+not currently requiring reintervention. No statistically 
+significant difference was found among the groups in pul-
+monary regurgitation (P = 0.978).
+All patients had satisfactory cardiac function that was 
+graded into NYHA I and II grade at last follow-up. There 
+was also no difference in left ventricular EF% among 
+groups (P = 0.326). The end-point outcomes of all patients 
+in three groups at last follow-up were illustrated in 
+Fig. 2. In on-pump group patients, 18 patients needed no 
+operation again. Biventricular circulation was achieved 
+in 7 patients and 1.5 ventricular correction was done in 
+2 patients, all of whom underwent successful second-
+stage surgery and performed well. 3 patients were still 
+in waitlist for further correction. In off-pump group, 28 
+patients were free from reoperation. 12 patients under -
+went successful biventricular correction and 4 patients 
+had 1.5 ventricular correction. 6 patients awaited fur -
+ther observation to decided their surgical fates. In hybrid 
+group, 3 patients were free from reoperation. 7 patients 
+Table 3 Mid-term outcome of the three groups
+On-pump
+n = 30
+Off-pump
+n = 51
+Hybrid
+n = 13
+P-value.
+RV hypoplasia 0.060
+Mild 22 (73.3) 42 (82.4) 8 (61.5)
+Moderate 4 (13.3) 6 (11.8) 1 (7.7)
+Tricuspid Z score -0.67 ± 1.44 -0.64 ± 1.63 -0.59 ± 1.38 0.988
+Pulmonary stenosis < 0.001
+Mild 6 (20.0) 12 (23.5) 9 (69.2)
+Moderate 1 (3.3) 2 (3.9) 3 (23.1)
+Pulmonary regurgitation 0.978
+m??N?QT?GWRMRH?SO?GVWMSH?PP?GWSMUH
+Mild to moderate 4 (13.3) 9 (17.6) 2 (15.4)
+Moderate 1 (3.3) 2 (3.9) 0 (0.0)
+LVEF% 60.3 ± 5.4 61.5 ± 4.6 62.7 ± 5.8 0.326
+Data presented as mean ± SD and n (%)
+P < 0.05 was considered statistically significant
+RV Right ventricle, LVEF Left ventricular ejection fraction
+Fig. 5 Freedom from moderate-to-severe pulmonary stenosis. On-pump group (red), Off-pump group (green) and Hybrid group (blue). PS, pulmonary 
+stenosis
+ 
+Fig. 4 Preoperative and follow-up tricuspid valve Z score of On-pump (A), 
+Off-pump (B) and Hybrid (C) group
+ 
+[[p8]]
+Page 8 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+underwent successful biventricular correction and 3 
+patients had 1.5 ventricular correction.
+Discussion
+The natural history of PA/IVS is extremely poor. Without 
+early intervention, the mortality is as high as 50% in the 
+first 2 weeks after birth, which even reaches to 85% in 6 
+months. Therefore, despite of its low incidence, PA/IVS 
+has always been a research hotspot of new techniques 
+in field of complex congenital heart disease. Character -
+ized by diverse degree of underdeveloped RV and TV, a 
+large repertoire of surgical strategies is adopted to cover 
+the heterogeneity of PA/IVS and to improve operative 
+results. It is now widely acknowledged that a subgroup of 
+patients with mild to moderate RV hypoplasia could be 
+potential candidates for biventricular circulation by first-
+stage RV decompression and RV recruitment in neonatal 
+age [ 12, 13]. However, the optimal way for RV decom -
+pression is still controversial and varies with different 
+centers. In the present study, we intended to legitimate 
+the off-pump pulmonary valvotomy as a primary opera -
+tion for selected PA/IVS patients. By comparing the early 
+to mid-term outcomes of the off-pump and on-pump 
+procedure, our results supported the off-pump pulmo -
+nary valvotomy as a safe and accessible technique that 
+avoided CPB damage in neonates.
+There are multiple forms of operation for RV decom -
+pression. Our study compared the surgical outcomes and 
+prognosis of procedures performed with and without 
+CPB, as well as hybrid techniques, while other techniques 
+were excluded from analysis for various reasons. Among 
+them, PV transannular patching is the most radical pro -
+cedure for relieving the obstructed RV and providing 
+the best forward flow. However, it is also reported to be 
+associated with higher possibility of ventricular dam -
+age and pulmonary regurgitation [ 14–16]. For that rea -
+son, we have largely rendered this technique in neonates 
+with mild to moderate RV hypoplasia in recent decades. 
+Another promising alternative is minimal invasive trans -
+catheter valvotomy and balloon dilation, which also 
+avoids CPB. Using a laser guidewire or RF wire to per -
+forate the membranous atretic PV and balloon valvulo -
+plasty to relieve the obstructed site, this technique had 
+excellent effect reported by multiple large centers [ 7, 10, 
+17]. Nonetheless, in centers with less experience, this 
+closed procedure seemed to have higher rates of early 
+hypoxemia and re-stenosis that necessitate reoperation, 
+and other catheter procedure-related complications as 
+well [ 18]. Thus, the application of transcatheter valvot -
+omy in under-developed regions is not only restrained 
+by the considerable expense to equip a catheterization 
+laboratory, but is also greatly limited by its demanding 
+technical skills. The hybrid approach, combining surgi -
+cal access with transcatheter valvotomy, is welcomed by 
+some surgeons because of its shorter procedural distance, 
+avoidance of X-ray radiation, and high success rate. Joshi 
+described a technique involving pulmonary valvotomy 
+combined with left subclavian artery-to-main pulmo -
+nary artery shunt via a left thoracotomy without the use 
+of extracorporeal circulation [ 19]. This approach allows 
+for both pulmonary valvotomy and a systemic-to-pulmo -
+nary shunt to be performed through a left thoracotomy, 
+thereby avoiding cardiopulmonary bypass. The operative 
+time for this procedure can be controlled within 2–3 h, 
+and postoperative adhesions are minimal, significantly 
+reducing the risk and difficulty of reoperation [ 20]. Sano 
+et al. further noted that a staged treatment strategy based 
+on this method could ultimately achieve biventricular 
+repair in most pediatric patients [ 21]. When managing 
+patients with right ventricle-to-coronary artery fistulas, 
+they also observed that approximately half of the pedi -
+atric patients experienced spontaneous resolution of the 
+coronary artery fistulas through the gradual reduction 
+of right ventricular pressure, thereby avoiding coronary 
+steal and myocardial ischemia caused by sudden decom -
+pression [12]. This concept offers a new therapeutic per -
+spective for subgroups traditionally considered high-risk. 
+In contrast, the median sternotomy approach employed 
+in the present study differs significantly in terms of inci -
+sion choice and surgical strategy. Although we also 
+avoided cardiopulmonary bypass through off-pump sur -
+gery, the median sternotomy itself remains a significant 
+factor influencing postoperative bleeding and transfu -
+sion requirements. Furthermore, due to the involvement 
+of sternotomy and pericardial opening, postoperative 
+adhesions resulting from a median sternotomy are theo -
+retically more pronounced than those from a left thora -
+cotomy, posing a potential challenge for any subsequent 
+reoperations that may be required.
+Studies that focused on the on-pump pulmonary val -
+votomy have become gradually fewer in recent years, 
+but is still widely adopted by most pediatric hospitals in 
+China and many other developing countries. The pro -
+cedures could be performed smoothly under the aid of 
+CPB, where the hemodynamics are stably maintained. 
+Given these premises, the on-pump valvotomy is eas -
+ily accepted by most cardiac surgeons for its safety and 
+operative simplicity. However, the largest problem related 
+to this technique is the intolerance of CPB in neonates. 
+Most of the PA/IVS patients are already in extremely 
+poor conditions before surgery, plus their low weight and 
+immature myocardium, heart surgery under CPB there -
+fore carries inherent risks. Several studies have demon -
+strated that CPB duration and its related complications 
+were independent risk factors that affected mortality of 
+congenital heart surgery in neonates [ 22]. In our study, 
+no significant difference in early mortality was observed 
+among the three groups, which may be attributed to the 
+[[p9]]
+Page 9 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+relatively milder condition of our study population and 
+our advanced surgical and perioperative care techniques. 
+Moreover, there also existed a paradox that once MBTS 
+is concomitantly performed, the possibility of post-oper -
+ational hemorrhage(primarily mediastinal and thoracic)
+greatly increases due to CPB-induced coagulation dys -
+function, whereas the use of hemostatic drugs increases 
+the risks of conduits obstruction. 1 patient with MBTS 
+in our on-pump group developed obstructed conduit 
+because of this reason, who unfortunately had to receive 
+another emergent operation to solve this problem.
+On the contrary, the off-pump pulmonary valvotomy 
+avoids CPB risks while having the same surgical effects. 
+Only one mortality was observed in our study. This tech -
+nique demonstrated significant advantages over CPB in 
+terms of endotracheal intubation duration, vasoactive 
+drug usage, ICU length of stay, and total hospital stay, 
+while showing comparable results to the hybrid tech -
+nique. Especially, it significantly reduced the operation 
+time to nearly 50% to that of the on-pump group. Fur -
+thermore, this technique imposes lower demands on 
+operational skills and equipment requirements compared 
+to transcatheter interventions, rendering it more clini -
+cally applicable. Regarding long-term outcomes, the off-
+pump approach demonstrated satisfactory freedom from 
+restenosis in our institutional experience. However, given 
+the small sample size of the Hybrid group and the uneven 
+temporal distribution of cases, these findings should be 
+interpreted as observed trends within our institutional 
+experience rather than as definitive evidence of superior -
+ity of one technique over another. To be noted, however, 
+it indeed required quick completion of pulmonary val -
+votomy procedure soon after the blood flow was blocked, 
+aiming to minimize the damage of ischemia and reper -
+fusion. To guarantee this, the surgical equipment for 
+valvotomy was prepared directly aside the surgeon, and 
+we placed suture traction at both side of the pulmonary 
+incision for better vision. The procedure was generally 
+finished in 2  min, and we suggested to strictly limit the 
+blood blockage duration in 5  min to avoid neurologic 
+damage. To verify its safety, we closely monitored peri -
+operative oxygen perfusion, showing no difference with 
+those of the on-pump group. Postoperative neurodevel -
+opmental outcomes were also assessed. Despite the lim -
+ited sample size, our data indicated that average scores 
+for cognitive, language, and motor development in the 
+pediatric patients all fell within the normal range. Fur -
+thermore, no significant differences were observed in any 
+neurodevelopmental outcomes between the on-pump 
+and off-pump groups. These findings provide prelimi -
+nary but important evidence supporting the neurological 
+safety of off-pump cardiac surgery.
+A systemic-to-pulmonary artery shunt remains nec -
+essary when right heart blood flow is inadequate. The 
+initial choice between constructing a MBTS and pre -
+serving the PDA presents a clinical dilemma. In the on-
+pump group, the PDA was left in situ for 8 patients. 5 of 
+these PDAs closed spontaneously during follow-up, and 
+maintained acceptable oxygen saturation. Within the 
+off-pump group, the PDA was retained in 11 patients, 8 
+of whom experienced spontaneous closure. 7 of these 8 
+patients maintained satisfactory oxygen saturation, while 
+one required MBTS due to declining saturation. In the 
+Hybrid group, the PDA was left in 5 patients, with spon -
+taneous closure occurring in three. 2 of these 3 patients 
+maintained acceptable oxygen saturation, and the third 
+received MBTS. While Li advocate for MBTS in all 
+patients younger than one month [ 9], we contend that 
+preserving the PDA offers specific advantages, despite a 
+potentially higher reintervention rate. This approach can 
+avoid an early and possibly unnecessary MBTS in some 
+infants and eliminates the need to take down the MBTS 
+during the definitive corrective operation.
+In our study, all three techniques—on-pump, off-pump, 
+and hybrid—were applied to the same underlying patient 
+population: neonates with pulmonary atresia with intact 
+ventricular septum who were candidates for biventricu -
+lar repair. Core inclusion criteria included membranous 
+pulmonary atresia, mild to moderate right ventricular 
+hypoplasia, tricuspid valve Z-value greater than − 4, and 
+absence of right ventricle-dependent coronary circula -
+tion. Patients with TV Z-value less than − 4 or evidence 
+of RVDCC were excluded as they were not considered 
+suitable for primary biventricular repair. Within this 
+homogeneous population, technique selection was pri -
+marily driven by era effect and evolving institutional 
+experience: in the early era, on-pump surgery served as 
+the standard approach while the hybrid technique was 
+introduced and applied to a broader range of patients as 
+an emerging strategy; as experience with off-pump inflow 
+occlusion matured, it became the preferred approach for 
+patients with favorable anatomy, while hybrid technique 
+was used more selectively as its limitations became better 
+understood. Additionally, patient hemodynamic stability 
+and individual surgeon preference also collectively influ -
+enced technique selection.
+In summary, for PA/IVS patients with mild to moder -
+ate RV hypoplasia and without RVDCC, the off-pump 
+pulmonary valvotomy has distinctive advantages over 
+the on-pump technique. Although transcatheter and 
+hybrid approach emerged as new promising methods 
+in recent decades, the off-pump pulmonary valvotomy 
+has never lost its competitive because it is more acces -
+sible, technique-friendly and acceptable. Given that 
+the long-distance transference of PA/IVS neonates to 
+large institutions could be highly risky, it is essential for 
+less experienced centers and underdeveloped remote 
+[[p10]]
+Page 10 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+regions to consider off-pump pulmonary valvotomy as an 
+alternative.
+Limitations
+This study has several main limitations. First, the neuro -
+developmental assessment was limited by a small sample 
+size of only 27 cases, and the Hybrid group was excluded 
+from this comparison due to insufficient numbers, which 
+may introduce selection bias. The average assessment 
+age of 27.3 months is too early to detect subtle cogni -
+tive impairments that often manifest during school age. 
+Without preoperative baseline assessments, it is also dif -
+ficult to determine whether neurodevelopmental out -
+comes are attributable to the surgery or the underlying 
+congenital disease. Furthermore, potential confounders 
+such as socioeconomic status and early rehabilitation 
+interventions were not adjusted for in the analysis. Sec -
+ond, the study’s statistical power is limited by its rela -
+tively small sample size, increasing the risk of Type II 
+error where genuine differences, particularly for low-inci-
+dence outcomes like mortality and reintervention, may 
+remain undetected. Consequently, the lack of a statisti -
+cally significant difference in mortality among the three 
+groups should be interpreted cautiously and does not 
+demonstrate equivalent therapeutic efficacy. Third, Con -
+founding bias may also arise from era effects and learn -
+ing curves across the 15-year study period from 2010 to 
+2025, as perioperative management evolved substantially. 
+Hybrid procedures were predominantly performed in the 
+earlier phase (2010–2015), while on-pump and off-pump 
+cases were more evenly distributed over time. The higher 
+restenosis rate observed in the Hybrid group may thus 
+reflect the initial learning curve and less mature man -
+agement protocols rather than an inherent limitation of 
+the technique itself. With only three restenosis events 
+among 15 Hybrid cases, subgroup analysis or multivari -
+able adjustment was not feasible. In summary, while this 
+study offers preliminary evidence for the early safety of 
+off-pump surgery, these limitations necessitate a cautious 
+interpretation of the findings. Larger prospective studies 
+with longer follow-up are required for further validation.
+Conclusion
+Primary RV decompression for PA/IVS patients could 
+be achieved by multiple techniques, yet the treatment 
+effects vary greatly with experience and regions. In this 
+study, we presented the off-pump pulmonary valvotomy 
+as an effective, safe and technical-friendly operation, 
+which could be accessible by more centers while provid -
+ing comparable early to mid-term results to the on-pump 
+and hybrid procedure.
+Abbreviations
+CPB  Cardiopulmonary bypass
+ICU  Intensive care unit
+MBTS  Modified Blalock Taussig shunt
+PA/IVS  Pulmonary atresia with intact ventricular septum
+PDA  Patent ductus arteriosus
+ACT  Activated clotting time
+NIRS  Near-infrared spectroscopy
+rSO₂  regional oxygen saturation
+RVOT  Right ventricular outflow tract
+RVDCC  Right ventricular-dependent coronary circulation
+RV  Right ventricle
+TV  Tricuspid valve
+Supplementary Information
+The online version contains supplementary material available at  h t t p  s : /  / d o i  . o  r 
+g /  1 0 .  1 1 8 6  / s  1 2 8 7 2 - 0 2 6 - 0 5 7 2 1 - z.
+r?l?PM?u??L??M
+Acknowledgements
+We thank the patients and their family who were involved in our research.
+Clinical trial number
+Not applicable.
+Disclosures
+None.
+Authors’ contributions
+L.H., B.S., XJ.Z., G.Z., K.L., XY.Z. and J.Z. contributed to data curation and writing-
+original draft preparation. X.H. and Z.Z. conceived, instructed, reviewed, 
+and revised the manuscript. All the authors read and approved the final 
+manuscript.
+Funding
+This work was supported by the National Natural Science Foundation of 
+China (grant number 82172101), the Natural Foundation of Shanghai Science 
+and Technology Committee (grant number 23Y11907000, 23ZR1440900), 
+Shanghai Key Research Center Construction Project-Shanghai Research Center 
+for Pediatric Cardiovascular Diseases (2023ZZ02024), National Clinical Key 
+Specialty Construction Project (10000015Z155080000004).
+Data availability
+Data supporting the study conclusions can be obtained from the 
+corresponding author upon reasonable request.
+Declarations
+Ethics approval and consent to participate
+This study was approved by IRB of Shanghai Children’s Medical 
+Center Affiliated to Shanghai Jiao Tong University School of Medicine 
+(SCMCIRB-K2022121-1).
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1Department of Cardiothoracic Surgery, Shanghai Children’s Medical 
+Center, Shanghai Jiao Tong University School of Medicine, 1678 
+Dongfang Road, Shanghai 200127, China
+2Heart Center and Shanghai Institute of Pediatric Congenital Heart 
+Disease, Shanghai Children’s Medical Center, National Children’s Medical 
+Center, Shanghai Jiaotong University School of Medicine, 1678 Dongfang 
+Road, Shanghai 200127, China
+Received: 18 November 2025 / Accepted: 9 March 2026
+
+[[p11]]
+Page 11 of 11
+Huang et al. BMC Cardiovascular Disorders          (2026) 26:342 
+References
+PM?o?o?K?e?bK?g?i`K?q?dM?s???L
+cular defects, part I: a study based on data from three large registries of 
+congenital malformations. Pediatr Cardiol. 2003;24(3):195–221.
+2. Jaggers J, Winlaw D, Fuller S, Sethi N, Kochilas L, Adachi I, et al. 2025 American 
+Association for Thoracic Surgery Congenital Cardiac Surgery Working 
+Group- Expert consensus document on the management of patients with 
+pulmonary atresia with intact ventricular septum. J Thorac Cardiovasc Surg. 
+2025;170(2):336–52.
+3. Daubeney PE, Delany DJ, Anderson RH, Sandor GG, Slavik Z, Keeton BR, et al. 
+Pulmonary atresia with intact ventricular septum: range of morphology in a 
+population-based study. J Am Coll Cardiol. 2002;39(10):1670–9.
+4. Chikkabyrappa SM, Loomba RS, Tretter JT. Pulmonary Atresia With an Intact 
+Ventricular Septum: Preoperative Physiology, Imaging, and Management. 
+Semin Cardiothorac Vasc Anesth. 2018;22(3):245–55.
+5. Daubeney PE, Wang D, Delany DJ, Keeton BR, Anderson RH, Slavik Z, et al. 
+Pulmonary atresia with intact ventricular septum: predictors of early and 
+medium-term outcome in a population-based study. J Thorac Cardiovasc 
+Surg. 2005;130(4):1071.
+6. Boehne M, Sasse M, Karch A, Dziuba F, Horke A, Kaussen T, et al. Systemic 
+inflammatory response syndrome after pediatric congenital heart surgery: 
+Incidence, risk factors, and clinical outcome. J Card Surg. 2017;32(2):116–25.
+7. Alwi M, Geetha K, Bilkis AA, Lim MK, Hasri S, Haifa AL, et al. Pulmonary atresia 
+with intact ventricular septum percutaneous radiofrequency-assisted 
+valvotomy and balloon dilation versus surgical valvotomy and Blalock Taussig 
+shunt. J Am Coll Cardiol. 2000;35(2):468–76.
+8. Patil NC, Saxena A, Gupta SK, Juneja R, Mishra S, Ramakrishnan S, et al. Per-
+forating the atretic pulmonary valve with CTO hardware: Technical aspects. 
+Catheter Cardiovasc Interv. 2016;88(5):E145–50.
+9. Li S, Chen W, Zhang Y, Zhang H, Hua Z, Wang D, et al. Hybrid therapy 
+for pulmonary atresia with intact ventricular septum. Ann Thorac Surg. 
+2011;91(5):1467–71.
+10. Alwi M, Choo KK, Radzi NA, Samion H, Pau KK, Hew CC. Concomitant stenting 
+of the patent ductus arteriosus and radiofrequency valvotomy in pulmonary 
+atresia with intact ventricular septum and intermediate right ventricle: 
+early in-hospital and medium-term outcomes. J Thorac Cardiovasc Surg. 
+2011;141(6):1355–61.
+11. Michalec D. Bayley Scales of Infant Development: Third Edition. In: Goldstein 
+S, Naglieri JA, editors. Encyclopedia of Child Behavior and Development. 
+Boston, MA: Springer US; 2011. p. 215.
+12. Kotani Y, Kasahara S, Fujii Y, Eitoku T, Baba K, Otsuki S, et al. A staged decom-
+pression of right ventricle allows growth of right ventricle and subsequent 
+biventricular repair in patients with pulmonary atresia and intact ventricular 
+septum. Eur J Cardiothorac Surg. 2016;50(2):298–303.
+13. Maskatia SA, Petit CJ, Travers CD, Goldberg DJ, Rogers LS, Glatz AC, et al. Echo-
+cardiographic parameters associated with biventricular circulation and right 
+ventricular growth following right ventricular decompression in patients with 
+pulmonary atresia and intact ventricular septum: Results from a multicenter 
+study. Congenit Heart Dis. 2018;13(6):892–902.
+14. Taksaudom N, Thuropathum P , Tepsuwan T, Tantraworasin A, Sittiwangkul R, 
+Phothikun A, et al. Comparison of Right Ventricular Outflow Tract Reconstruc-
+tion Techniques on Mid-Term Pulmonic Valve Fate. World J Pediatr Congenit 
+Heart Surg. 2024;15(4):481–7.
+15. Kim H, Sung SC, Choi KH, Lee HD, Kim G, Ko H, et al. Long-term results of 
+pulmonary valve annular enlargement with valve repair in tetralogy of Fallot. 
+Eur J Cardiothorac Surg. 2018;53(6):1223–9.
+16. Padalino MA, Pradegan N, Azzolina D, Galletti L, Pace Napoleone C, Agati S, et 
+al. The role of primary surgical repair technique on late outcomes of Tetralogy 
+of Fallot: a multicentre study. Eur J Cardiothorac Surg. 2020;57(3):565–73.
+17. Chubb H, Pesonen E, Sivasubramanian S, Tibby SM, Simpson JM, Rosenthal 
+E, et al. Long-term outcome following catheter valvotomy for pulmonary 
+atresia with intact ventricular septum. J Am Coll Cardiol. 2012;59(16):1468–76.
+18. Manhem S, Odermarsky M, Wahlander H, Ekman-Joelsson BM. Pulmonary 
+Atresia with Intact Ventricular Septum, a National Comparison Between Inter-
+ventional and Surgical Approach, in Combination with a Systemic Literature 
+Review. Pediatr Cardiol. 2025;46(6):1523–36.
+19. Joshi SV, Brawn WJ, Mee RBB. Pulmonary atresia with intact ventricular sep-
+tum. J Thorac Cardiovasc Surg. 1986;91(2):192–9.
+20. Sano S, Kobayashi Y, Kotani Y, Seo H, Truong NLT. Modified right ventricular 
+overhaul procedure: Indications, techniques and outcome for pulmonary 
+atresia with an intact ventricular septum. Operative Techniques in Thoracic 
+and Cardiovascular Surgery. Preprint posted online February 27; 2025.  h t t p s :   /  / 
+d o  i .  o r  g  /  1 0  . 1 0   5   3 / j  . o p t  e c h  s t   c v s .  2 0 2  4 . 1 0 . 0 0 6.
+21. Sano S, Ishino K, Kawada M, Fujisawa E, Kamada M, Ohtsuki S. Staged biven-
+tricular repair of pulmonary atresia or stenosis with intact ventricular septum. 
+Ann Thorac Surg. 2000;70(5):1501–6.
+22. Beshish AG, Jahadi O, Mello A, Yarlagadda VV, Shin AY, Kwiatkowski DM. 
+Hyperoxia During Cardiopulmonary Bypass Is Associated With Mor-
+tality in Infants Undergoing Cardiac Surgery. Pediatr Crit Care Med. 
+2021;22(5):445–53.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

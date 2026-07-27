@@ -1,0 +1,171 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Post–Cardiac Arrest Oxygenation and Ventilation (ALS 
+3506 and 3516: SysRev) 
+心拍再開後後の酸素投与量と換気（ALS 3506・3516：2024 年の
+SysRev） 
+Author: Greif R, et al. ALS Task Force 
+PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+ 
+Population: Unresponsive adults with sustained ROSC after 
+cardiac arrest in any setting (in-hospital or out-of-hospital) 
+Intervention: An oxygenation or ventilation strategy targeting 
+a specific SpO2, PaO2, or PaCO2 
+Comparators: Treatment without specific targets or with an 
+alternate target to the intervention 
+Outcomes:  
+– Critical: Survival or survival with a favorable neurological 
+outcome at hospital discharge/30 days or longer – 
+ Other outcomes will depend on the available data and 
+subsequent outcome prioritization by the ILCOR ALS Task Force 
+Study designs: Controlled trials, including RCTs, and 
+nonrandomized trials (eg, pseudorandomized trials) were 
+included. Observational studies, animal studies, ecological 
+studies, case series, case reports, reviews, abstracts, editorials, 
+comments, letters to the editor, and unpublished studies were 
+PICOST 
+ 
+ 
+P: あらゆる状況（院内または院外）において心停止後に ROSC が持続し
+た反応のない成人 
+I: 特定の SpO2、PaO2、PaCO2 を目標とする酸素化・換気戦略 
+ 
+C: 特定の目標を持たない治療、または他の介入目標を持つ治療 
+ 
+O:  
+– 重大：退院時/30 日以上の時点における生存または良好な神経学的
+予後  
+– その他の転帰は、入手可能なデータおよび ILCOR ALS タスクフォース
+によるその後の転帰の優先順位付けによる 
+S: RCT を含む比較対照試験、および非ランダム化試験（例：擬似ランダ
+ム化試験）を対象とした。観察研究、動物実験、生態学的研究、ケースシ
+リーズ、症例報告、総説、抄録、論説、コメント、編集者への手紙、未発表
+の研究は除外した。英語の抄録または全文記事がある場合は、すべて
+の言語を対象とした。 
+[[p2]]
+2 
+ 
+excluded. All languages were included if there was an English 
+abstract or full-text article. 
+Time frame: From August 22, 2019 (date of search of the prior 
+review), to June 30, 2023 
+ 
+ 
+T: 2019 年 8 月 22 日（前回のレビューの検索日）から 2023 年 6 月 30
+日まで． 
+Treatment recommendations 
+Oxygen Targets  
+We recommend the use of 100% inspired oxygen until the 
+arterial oxygen saturation or the partial pressure of arterial 
+oxygen can be measured reliably in adults with ROSC after 
+cardiac arrest in the prehospital setting (strong 
+recommendation, moderate-certainty evidence) and in-hospital 
+setting (strong recommendation, low certainty evidence).  
+ 
+We recommend avoiding hypoxemia in adults with ROSC after 
+cardiac arrest in any setting (strong recommendation, very low–
+certainty evidence).  
+ 
+We suggest avoiding hyperoxemia in adults with ROSC after 
+cardiac arrest in any setting (weak recommendation, low-
+certainty evidence).  
+ 
+Following reliable measurement of arterial oxygen values, we 
+suggest targeting an oxygen saturation of 94% to 98% or a 
+推奨と提案 
+酸素投与量の目標 
+あらゆる状況下（院内または院外）の成人の心停止後にROSCした患者
+において、動脈血酸素飽和度または動脈血酸素分圧を確実に測定でき
+るまでは、100%吸入酸素の使用を推奨する（院内：強い推奨，エビデン
+スの確実性：低い：院外：強い推奨，エビデンスの確実性：中等度）。  
+ 
+ 
+ 
+あらゆる状況下における心停止後にROSCした成人患者において、低酸
+素症を回避することを推奨する（強い推奨，エビデンスの確実性：非常に
+低い）。 
+ 
+あらゆる状況下における心停止後にROSCした成人患者において、高酸
+素症を回避することを提案する（弱い推奨、エビデンスの確実性：低い）。 
+ 
+ 
+動脈血酸素分圧を測定した後は、あらゆる状況下における心停止後に
+ROSCした成人患者において、酸素飽和度 94～98％または動脈血酸素
+[[p3]]
+3 
+ 
+??????VT??POO??g?G≈PO–PR?
+kPa) in adults with ROSC after cardiac arrest in any setting 
+(good practice statement).  
+ 
+When relying on pulse oximetry, health care professionals 
+should be aware of the increased risk of inaccuracy that may 
+conceal hypoxemia in patients with darker skin pigmentation 
+(good practice statement).  
+ 
+Carbon Dioxide Targets 
+We suggest targeting normocapnia (a partial pressure of carbon 
+dioxide of 35–45 mm Hg or ≈4.7–6.0 kPa) in adults with ROSC 
+after cardiac arrest (weak recommendation, moderate-certainty 
+evidence). 
+分圧?VT～POOg（≒PO～PRo）を目標とすることを提案する（優れ
+た医療慣行に関する記述）。 
+ 
+ 
+皮膚の色が濃い患者に対して経皮的酸素飽和度の値で管理する場合に
+は、医療従事者は、低酸素症がマスクされるリスクがあることを留意する
+（優れた医療慣行に関する記述）。 
+ 
+ 
+二酸化炭素の目標値 
+心停止後にROSCした成人患者において、正常の二酸化炭素分圧（35～
+45mmHgまたは≒4.7～6.0kPa）を目標とすることを提案する（弱い推
+奨、エビデンスの確実性：中程度）。 
+ 
+１． JRC の見解と解説（400-800 文字） 
+（解説） 
+・ 新たに 5 件の RCT を加えて，SysRev が更新された． 
+・ 病院前の酸素化の目標値に関するRCTは4件，ICUでのRCTは5件あり，ILCORは心停止後にROSCした成人患者に対し，低酸素症および高酸
+素症を回避することを推奨した．動脈血酸素分圧を確実に測定できる場合，酸素飽和度?XS～XW％または動脈血酸素分圧?VT～POOgを
+目標とすることを提案した． 
+・ ILCOR は酸素目標値の適用条件として「動脈血酸素分圧を測定できる場合に限る」と明記した．病院前では動脈血ガス分析が困難なため，測
+定できるまでは 100%吸入酸素を推奨した． 
+[[p4]]
+4 
+ 
+・ 肌の色が濃い患者では動脈血酸素飽和度が低酸素症を過小評価する可能性があるため（ Sjoding MW. N Engl J Med 2020;383:2477-2478; 
+Wong AI. JAMA Netw Open 2021;4:e2131674; Jamali H. Ann Am Thorac Soc 2022;19:1951-1964），JRC は「動脈血酸素飽和度または動
+脈血酸素分圧を確実に測定できるまで 100%吸入酸素を推奨する」と解釈する． 
+・ PaCO2 目標値に関する RCT 3 件では有意差がなく，ILCOR は PaCO2 目標値 を 35～45 mmHg とすることが妥当と判断した． 
+ 
+２．わが国への適用  
+・ 2020 年から 2025 年には下記のように変更する予定である。 
+・ あらゆる状況における心停止後に ROSC した成人患者において，動脈血酸素飽和度または動脈血酸素分圧を確実に測定できるまでは，100%
+吸入酸素の使用を推奨する． 
+ JRC 蘇生ガイドライン 2020 の「弱い推奨」から，大規模 RCT の結果を踏まえ「強い推奨」に変更． 
+・?動脈血酸素分圧を測定できる場合，酸素飽和度?XS～XW％または動脈血酸素分圧?VT～POOgを目標とすることを提案する（優れた医療
+慣行に関する記述）． 
+・ あらゆる状況における心停止後にROSCした成人患者において，低酸素症を避けることを推奨する． 
+・ 動脈血酸素分圧を測定後は，あらゆる状況における心停止後に ROSC した成人患者において，高酸素症を回避することを提案する 
+・ 肌の色が濃い患者では，経皮的酸素飽和度が実際より高値を示し，低酸素症を見逃す可能性があることを留意する（優れた医療慣行に関す
+る記述）． 
+・ PaCO2 目標値は 35～45 mmHg とすることを提案する． 
+ 
+３．担当メンバー 
+作業部会員 
+渥美生弘 大井康文 中嶋優子 平山一郎 比留間孝広 
+共同座長 
+森村尚登 
+担当編集委員（五十音順） 
+[[p5]]
+5 
+ 
+大下慎一郎、黒田泰弘 
+顧問 
+相引眞幸 
+編集委員長 
+坂本哲也 

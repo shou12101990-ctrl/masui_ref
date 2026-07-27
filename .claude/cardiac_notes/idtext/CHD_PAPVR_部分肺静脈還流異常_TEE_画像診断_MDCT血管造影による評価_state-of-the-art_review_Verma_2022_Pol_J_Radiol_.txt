@@ -1,0 +1,473 @@
+
+[[p1]]
+e549
+This is an Open Access journal, all articles are distributed under the terms of the Creative Commons Attribution-Noncommercial-No Derivatives 4.0  
+International (CC BY-NC-ND 4.0). License (https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+© Pol J Radiol 2022; 87: e549-e556
+DOI: https://doi.org/10.5114/pjr.2022.120513
+Received: 30.07.2021
+Accepted: 21.02.2022
+Published: 10.10.2022 http://www.polradiol.com
+Review paper
+Partial anomalous pulmonary venous connection:  
+state-of-the-art review with assessment using a multidetector 
+computed tomography angiography
+Amit Kumar Verma1,A,B,C,D,E,F, Sonali Sethi2,A,B,F, Neera Kohli1,A,E
+1Department of Radiodiagnosis, King George’s Medical University, India
+2Prima Diagnostic, Bangaluru, India
+Abstract
+Pulmonary venous anomalies occur as a result of failure in normal embryological development. These anomalies may 
+present as a spectrum ranging from normal variation to partial anomalous pulmonary venous connection (PAPVC) 
+and total anomalous pulmonary venous connection (TAPVC). Though not rare, PAPVC is an uncommon anomaly 
+in which some of the pulmonary veins abnormally connect and drain into the vascular compartments other than  
+the left atrium (LA); however, the others drain normally into the LA. The clinical presentation and severity of af-
+fected patients depend on the morphological heterogeneity of the disease. PAPVC associated with other complex 
+conge nital cardiac diseases present early and are more severe than isolated PAPVC-associated atrial septal defect 
+only. This radiological review gives a detailed description of PAPVC in terms of morphological variability and as-
+sociated anomalies along with a discussion of the role of multidetector dual-source computed tomography scan in 
+the diagnostic assessment.
+Key words: multidetector CT angiogram, anomalous pulmonary venous drainage, congenital heart disease, atrial 
+septal defect.
+Correspondence address: 
+Amit Kumar Verma, Department of Radiodiagnosis, King George’s Medical University, India, e-mail: drverma.gilbert25@gmail.com
+Authors’ contribution: 
+A Study design ∙ B Data collection ∙ C Statistical analysis ∙ D Data interpretation ∙ E Manuscript preparation ∙ F Literature search ∙ G Funds collection
+Introduction
+A normal pulmonary venous pattern with 4 separate veins 
+and differentiated ostia may be seen in up to 60-70% of the 
+population [1]. Failure of normal embryological develop-
+ment of pulmonary veins may lead to a spectrum of con-
+genital anomalies, ranging from normal variation to par-
+tial anomalous pulmonary venous connection (PAPVC) 
+and complete anomalous pulmonary venous connection 
+(TAPVC). Such anomalous pulmonary venous variations 
+may be seen in up to 38% of the population [2]. The ano-
+maly may be isolated with the presence of an associated 
+atrial septal defect (ASD), or it may present as an associa-
+tion of complex congenital cardiac disease (CHD).  Mor-
+phological heterogeneity and associated congenital anoma-
+lies act as major determinants of morbidity and mortality in 
+PAPVC [3,4]. Therefore, accurate and early diagnosis of the 
+condition and associated anomalies is crucial for decision-
+making and definitive management. Nowadays multidetec-
+tor computed tomography angiography (MDCTA) and MR 
+angiograms (MRA) have nearly replaced the traditionally 
+used imaging techniques, helping considerably in optimal 
+assessment. This article gives comprehensive details of 
+PAPVC and its variations using MDCTA imaging.
+Relevant embryological development  
+of pulmonary veins
+Different theories have been put forward regarding the 
+development of pulmonary veins on the basis of animal 
+[[p2]]
+Amit Kumar Verma, Sonali Sethi, Neera Kohli  
+e550
+ © Pol J Radiol 2022; 87: e549-e556
+and human studies [5]. As per the most accepted theory, 
+primitive lung buds originate from the foregut and receive 
+a systemic arterial supply and drain into the cardinal ve-
+nous system [6,7]. A small outpouching from the left atri-
+um develops into a primitive common pulmonary vein 
+(CPV), which communicates with the splanchnic plexuses 
+and establishes a connection with the pulmonary venous 
+system. With further development, the venous connection 
+with the cardinal system disappears and the CPV becomes 
+assimilated into the dorsal portion of the left atrium and 
+finally differentiates into 4 separate pulmonary veins to 
+drain the blood from the lungs [8].    
+Aberration from the normal development may result in 
+anomalous pulmonary venous anomaly. The persistence of 
+communication with the splanchnic plexus, cardinal, and 
+umbilicovitelline vein, and failure of connection of the CPV 
+with the splanchnic plexus, which leads to heterogeneity in 
+anomalous pulmonary venous connections.
+Normal anatomy and variations
+Four pulmonary veins (PV) with separate venous ostia 
+draining into the left atrium (LA) form a normal pulmo-
+nary venous anatomy in most of the population. The right 
+upper and lower PVs drain the respective lung lobes with 
+additional drainage of the middle lobe by the upper pul-
+monary vein.  Similarly, the left upper and lower PVs drain 
+the left upper and lower lobes, respectively, and the lingula 
+is additionally drained by the left upper PV . 
+Conjoined pulmonary veins and/or accessory pulmonary 
+veins have been reported as the commonest PV variations [9]. 
+A common venous channel formed by the right or left upper 
+and lower PVs, which connects to the left atrium by a single 
+ostia, is termed as conjoined vein. The accessory veins are  
+the veins additional to the normal upper or lower PVs,  
+which drain separately into RA and usually have a smaller  
+ostium [10,11]. Reports say that right-sided variations, 
+though less common, are more complex. These can present 
+as one or two accessory right middle PVs, or one accessory 
+right middle PV and one accessory right upper PV [12].
+Role of imaging
+Traditionally, X-ray of the chest and echocardiography are 
+the initial investigations in a patient with suspected CHD. 
+The radiograph helps in assessing the cardiac size and 
+contour, giving a gross projectional anatomy of the heart 
+chambers. The status of the lungs, central pulmonary 
+vessels, and interstitial pulmonary oedema can be also 
+evaluated on a frontal projection; however, assessment of 
+a root cause for such changes remains uncertain. Echo-
+cardiography is an excellent tool for evaluation of cardiac 
+anatomy and function. It remains the initial investigation 
+of choice for the assessment of CHD including anomalous 
+pulmonary venous connections [13,14]. Transthoracic 
+and transoesophageal echocardiography (TEE) are both 
+used, but the latter is preferred by many clinicians due to 
+its better sensitivity and efficacy. However, TEE usually 
+requires general anaesthesia because most of the affected 
+patients are young children [15,16]. Also, assessment of 
+extra-cardiac pathology is usually suboptimal on TEE; 
+therefore, its findings need to be confirmed with a better 
+alternative investigation (like CT/MR angiography).
+Cardiac catheterization has frequently been used in 
+the past for detailed evaluation of CHD including pulmo-
+nary venous connections, but its use has declined in the 
+last decade with the advent of newer imaging tools like 
+MDCT and MRI. Being an invasive procedure, it requires 
+conscious anaesthesia and has its related risks, which far 
+greater more than noninvasive techniques. The procedure 
+is lengthy, with more radiation exposure and hence related 
+risks. Cardiac catheterization also lags behind newer tech-
+niques in providing 3-dimensional imaging. 
+There has been definite technical advancement in 
+computed tomography in the last decade. The newer 
+MDCT with high spatial and temporal resolution is now 
+a great alternative for pre-surgical assessment of CHD 
+including pulmonary venous connections [17]. It gives 
+accurate details of the cardiac anatomy and atypical ves-
+sels in 3-dimensional space. The acquired and reformatted 
+images can provide optimum information about vascular 
+course, calibre, defects, and connections and is therefore 
+claimed to be superior to echocardiography. Even with the 
+known radiation risks, computed tomography is among 
+the most efficient methods for imaging that is widely 
+available, can be performed quickly in a single breath 
+hold, and is more economical. We imaged all our cases 
+on a 256-slice, dual-source CT scanner using institutional 
+cardiac CT protocols to keep the radiation risk as low as 
+possible. We used a bolus tracking method for angiograms 
+and used retrospective cardiac gating. Our acquired raw 
+data were processed and reformatted into maximum in-
+tensity projection (MIP), multiplanar reformation (MPR), 
+and  volume rendered (VR) images for proper evaluation.
+MRI is an equally efficient imaging technique for 
+dedicated evaluation of congenital cardiac anomalies and 
+anomalous pulmonary veins [14,18-21]. Many centres with 
+adequate facilities even prefer MRI to MDCTA due to its 
+radiation benefits over MDCTA. It is capable of excellent 
+visualization of cardiovascular anatomy and can play an im-
+portant role in functional assessment. However, the image 
+acquisition takes longer and requires lengthy anaesthesia; 
+therefore, use of MRI is limited in many centres. It is also 
+costlier and less easily available compared to CT in develop-
+ing countries.
+Partial anomalous venous connections or return 
+(PAPVC/PAPVR)
+Partial anomalous venous connections or return (PAPVC/
+PAPVR) represents an anomaly in which at least one or 
+more PVs, but not all, drain directly into the systemic ve-
+[[p3]]
+ Partial anomalous pulmonary venous connection: state-of-the-art review with assessment using a multidetector computed tomography angiography
+e551
+© Pol J Radiol 2022; 87: e549-e556
+nous circulation (i.e. right atrium, superior vena cava, or 
+brachiocephalic vein). The prevalence of PAPVC has been 
+reported between 0.4 and 0.7% [22]. The incidence of oc-
+currence is more common on the right side, and it may 
+be detected incidentally on CT or MR imaging [19,23,24]. 
+Partial connections behave like a left to right shunt similar 
+to ASD, VSD, or PDA. Some authors believe that at least 
+50% of the anomalous pulmonary venous flow in systemic 
+circulation is required to present a clinically significant 
+PAPVC [25].
+There are different types of anomalous venous connec-
+tions forming a heterogenous morphological spectrum. 
+These can be described as right sided, left sided, or bilate-
+ral. Similar to TAPVC, the connections of PAPVC can also 
+be supracardiac, cardiac, infracardiac, or mixed anoma-
+lous connections. Of these, the right upper PV draining 
+into the SVC is the commonest type of PAPVC [25,26], 
+which is usually associated with ASD, most commonly 
+sinus venosus type (SV-ASD). The sinus venosus ASD  
+(SV-ASD) results embryologically from a lack of septa-
+tion between PV and SVC or IVC. In superior SV-ASD, 
+the right upper PV drains into the right SVC or SVC-RA 
+junction, while in inferior SV-ASD the right lower PV 
+drains into the IVC-RA junction when other PVs remain 
+connected to the LA. This conclusive view is supported 
+by Praagh et al. [27]. Other than this, the right-sided PVs 
+may have a supracardiac connection draining into the SVC 
+anywhere between brachiocephalic vein and the SVC, or 
+into azygous, coronary sinus, IVC, or directly into the RA. 
+We are reporting cases of right upper PV with supracar -
+????rub?Ge?PH???L
+voatrial junction (CAJ) near SV-ASD (Figure 2). Few other 
+PAPVC cases include: right upper and lower PVs with su-
+pracardiac connections into the SVC-CAJ (Figure 3) and 
+right upper and lower PVs with cardiac connections into 
+the RA (Figure 4 and 5). 
+Amongst the spectrum of PAPVC, left-sided anoma-
+lous connections have been reported in nearly 18.2% of 
+cases [16]. The left upper pulmonary vein draining into 
+a vertical vein (VV) and into the brachiocephalic vein is 
+the commonest type [26]. The VV needs to be differenti-
+ated from left SVC, which is a common mimic [26]. In 
+normal anatomy, the left upper PV is seen anterior to the 
+left bronchus as a single vein. This vein is absent in left up-
+e?PM?uq???????? ???????????Go`oubHM?
+The images show drainage of right superior pulmonary vein (PV) draining into lower part of superior vena cava (SVC). There is also a single accessary right 
+middle pulmonary vein (*) draining near the cavoatrial confluence. The rest of the pulmonary veins are draining normally into the left atrium
+A B C
+Figure 2. A-B) VR images with clip plane in anterior and posterior view; (C) axial MIP image in a patient of right superior pulmonary vein partial anomalous 
+pulmonary venous connection (PAPVC). The right superior pulmonary vein (PV) drains into superior vena cava (SVC) near the cavoatrial junction. The patient 
+also has a superior sinus venosus atrial septal defect (double headed arrow)
+A B C
+[[p4]]
+Amit Kumar Verma, Sonali Sethi, Neera Kohli  
+e552
+ © Pol J Radiol 2022; 87: e549-e556
+per PV-PAPVC. However, there are 2 veins when there is 
+a persistent left SVC (SVC and left upper PV). Other sites 
+of left anomalous connections include the coronary sinus 
+and the hemiazygos vein.
+Similarly to TAPVC, mixed connections are reported 
+in the PAPVC as well, where at least one PV from each 
+side drains into a different venous compartment. We re-
+port a case in which the left upper pulmonary vein drains 
+into the left brachiocephalic vein via a vertical vein, and 
+the right upper pulmonary drains into the CAJ (Figure 6). 
+Anomalous drainage of accessory pulmonary veins are 
+described. In our case, 2 right middle accessory veins 
+Figure 3. A-C) Thin MIP axial and coronal and (D) VR images from a case of right partial anomalous pulmonary venous connection (PAPVC). The images show 
+a sufficiently sized superior sinus venosus atrial septal defect (ASD). There is right-sided PAPVC with right superior pulmonary vein (PV) draining into the lower 
+part of the superior vena cava (SVC) and inferior pulmonary veins draining at the cavoatrial junction. The left PV is draining normally into the left atrium (LA)
+Figure 4. Thin MIP axial and coronal images from a case of right-sided cardiac partial anomalous pulmonary venous connection (PAPVC). The right superior 
+and inferior pulmonary veins (PV) are draining into the right atrium (RA). The left PV have normal connection to the left atrium (LA). An atrial septal defect 
+(*) is also present in superoposterior part with dilated right heart chambers (RA, RV)
+A B
+C D
+A B C
+[[p5]]
+ Partial anomalous pulmonary venous connection: state-of-the-art review with assessment using a multidetector computed tomography angiography
+e553
+© Pol J Radiol 2022; 87: e549-e556
+Figure 5. A-C) Thin MIP (axial coronal) and (D, E) images from a case of cardiac partial anomalous pulmonary venous connection (PAPVC). The images show that 
+the right-sided superior and superior pulmonary veins (PV) have a cardiac connection into the right atrium (RA). The left PV are draining normally into the left 
+atrium (LA). A superior sinus venosus atrial septal defect (*) is present with dilated right heart chambers (RA, RV). The VR image compliments the same findings
+C
+D E
+A B
+C
+Figure 6. A-C) VR images in different orientation; (D) axial thin MIP image of a patient with mixed type partial anomalous pulmonary venous connection 
+(PAPVC). The right superior pulmonary vein (PV) is draining at the superior cavoatrial junction (CAJ) near the sinus venosus atrial septal defect (ASD) (double 
+headed arrow). The left superior PV is draining into a left brachiocephalic vein (BCV) through an ascending vertical vein (VV). The right and left inferior PV 
+are normally draining into the left atrium. There are also 2 accessary right middle pulmonary veins (*) draining into the LA
+A
+C
+B
+D
+[[p6]]
+Amit Kumar Verma, Sonali Sethi, Neera Kohli  
+e554
+ © Pol J Radiol 2022; 87: e549-e556
+drained at the CAJ, at the level of the superior sinus veno-
+sus ASD (Figure 6).
+PAPVC can be associated with other cardiac congeni-
+tal diseases. Instead of ASD, other cardiovascular shunts 
+like VSD or PDA can be associated occasionally. Complex 
+cardiac anomalies like heterotaxy syndrome and double 
+outlet right ventricle are often associated with PAPVC. We 
+report a case of right upper PV supracardiac PAPVC with 
+associated PDA (Figure 7) and another case of right-sided 
+PAPVC with cardiac connection as a part of heterotaxy 
+syndrome with left isomerism (Figure 8).
+Pathophysiology and clinical presentation
+Irrespective of the type or spectrum, all PAPVCs cause 
+increased volume load in the right heart with increased 
+pulmonary blood flow due functional left to right shunts. 
+This leads to recirculation of the oxygenated blood into 
+Figure 8. These are images from a case of partial anomalous pulmonary venous connection (PAPVC) associated with heterotaxy syndrome (left isomerism) 
+and pulmonary artery hypertension. A-C) VR images of the heart in posterior orientation and with clip plane showing right-sided PAPVC with a cardiac 
+connection into the right atrium (RA). The left pulmonary veins (PV) are draining normally into the left atrium (LA). A small atrial septal defect is present 
+(double head arrow) with dilated RA and RV. D) VR image showing a dilated pulmonary artery (PA) representing pulmonary artery hypertension. E, F) MnIP 
+coronal and thin MIP coronal images show left bronchial pattern (B) and polysplenia (S)
+Figure 7. VR images with clip plane in different orientations. The images show partial anomalous pulmonary venous connection (PAPVC) of the right 
+superior pulmonary vein (PV) draining into superior vena cava (SVC). There is a patent ductus arteriosus as shunt (*) [AO – aorta; PA – pulmonary artery]
+A B C
+A B C
+D E F
+[[p7]]
+ Partial anomalous pulmonary venous connection: state-of-the-art review with assessment using a multidetector computed tomography angiography
+e555
+© Pol J Radiol 2022; 87: e549-e556
+the systemic through the pulmonary circulation along 
+with enlargement of right atrium and ventricle. The num-
+ber of anomalous veins, the size and site of draining ostia, 
+and the presence and size of septal defects are the most 
+important determinants of the haemodynamic load and 
+therefore the clinical presentation. 
+In the patients with PAPVC, the RA pressure is usu-
+ally less than the LA, creating a greater compliance for 
+venous drainage. Therefore, until pulmonary venous re-
+sistance is equal in both the lungs and there is no pul-
+monary artery stenosis, venous drainage is always higher 
+on the anomalously draining side or the right side. Single 
+anomalous PV with intact septum drains nearly 20-25% 
+of total pulmonary blood flow while anomalous connec-
+tion of an entire lung increases this up to approximately 
+66% of pulmonary blood flow. However, in the presence 
+of a septal defect, there may be a larger left to right shunt-
+ing as a result of 2 co-existing shunts [28]. 
+Most of the PAPVC cases are detected incidentally 
+because patients are usually asymptomatic or present 
+with mild clinical symptoms. Cyanosis is not a common 
+symptom, when present, and usually occurs in the 3
+rd-4th 
+decades of life due to increased pulmonary vascular re-
+sistance and evident pulmonary hypertension. PAPVC is 
+considered as a treatable cause of pulmonary artery hyper-
+tension [29].
+Scimitar syndrome and scimitar variant
+Scimitar syndrome is also termed as hypogenetic lung 
+or pulmonary venolobar syndrome. It is a rare complex 
+anomaly that consists of a conglomeration of findings: 
+right-sided anomalous pulmonary venous drainage, hypo-
+plasia of the right lung, hypoplasia/aplasia of the right 
+pulmonary artery, and cardiac dextroposition [29]. Sys-
+temic arterial collateral supply to the affected lungs from 
+the aorta or other systemic branches are usually present.  
+The anomalous right PV may drain in the supra- or sub-
+diaphragmatic IVC, the azygous vein, the hepatic or por-
+tal venous system, or the RA [19,30], but drainage in the 
+subhepatic IVC is most common [31]. Left-sided cases 
+have also been reported in the literature [32].
+The cases presenting as scimitar but without all the typi-
+cal features of the syndrome are included in scimitar variant. 
+Another mimic where similar findings are associated with 
+an anomalous highly tortuous vein that drains into the left 
+atrium instead of IVC projecting a false positive scimitar 
+sign on chest radiograph, is termed as pseudo-scimitar syn-
+drome. This vein has been described as a pseudo-scimitar 
+vein or a meandering right pulmonary vein [28].
+Conclusions
+Partial anomalous pulmonary venous connections are un-
+common congenital anomalies. Depending on the severity 
+of anomalous drainage, the site of connection, and associ-
+ated defects, this may be detected incidentally or present 
+with variable symptoms like the other CHDs. MDCTA 
+and MR angiograms are excellent imaging techniques  
+for accurate visualization of the anomalous anatomy in 
+3-dimensional space and provide optimum description of 
+the disease, which helps the clinical in decision-making and 
+planning of definitive management.
+Acknowledgements
+The authors wish to acknowledge the assistance of the CT 
+technicians in the department, who were extremely help-
+ful with their contribution in acquiring CT scans of the 
+patients as well as post processing of the acquired data.
+Conflict of interest
+The authors report no conflict of interest.
+References
+PM?k?ilK?f?nK?c?bK?r?cM?bs???L
+monary veins. J Thorac Imaging 2007; 22: 63-76. 
+2. Kato R, Lickfett L, Meininger G, et al. Pulmonary vein anatomy in 
+patients undergoing catheter ablation of atrial fibrillation: lessons 
+learned by use of magnetic resonance imaging. Circulation 2003; 
+107: 2004-2010.
+3. Kelle AM, Backer CL, Gossett JG, et al. Total anomalous pulmonary 
+venous connection: results of surgical repair of 100 patients at a sin-
+gle institution. J Thorac Cardiovasc Surg 2010; 139: 1387-1394.e3. 
+4. Furlanetto G, Furlanetto BH, Henriques SR, et al. Mixed type total 
+anomalous pulmonary venous connection: early results and surgical 
+techniques. World J Pediatr Congenit Heart Surg 2015; 6: 26-32.
+5. Hart A, Lee EY . Multidetector computed tomography of pediatric 
+vascular imaging with advanced postprocessing techniques. Adv 
+Clin Radiol 2020; 2: 191-211. 
+6. Geva T, Praagh SV . Anomalies of the pulmonary veins. In: Allen HD, 
+Driscoll DJ, Shaddy RE, Feltes TF (eds.). Moss and Adams’ Heart 
+Disease in Infants, Children, and Adolescents: Including the Fe-
+tus and Y oung Adults. 7th ed. Philadelphia: Lippincott Williams & 
+Wilkins; 2008, p. 761-792.
+7. Edwards JE. Pathologic and developmental considerations in anoma-
+lous pulmonary venous connection. Proc Staff Meet Mayo Clin 1953; 
+28: 441-452.
+8. Liszewski MC, Kurian J. Tailored optimization of pediatric body 
+MR angiography for successful outcomes in thoracic applications.  
+Am J Roentgenol 2020; 5: 1031-1041.
+9. Lacomis JM, Wigginton W , Fuhrman C, et al. Multi-detector row 
+CT of the left atrium and pulmonary veins before radio-frequen-
+cy catheter ablation for atrial fibrillation. Radiographics 2003; 23: 
+S35-S48.
+[[p8]]
+Amit Kumar Verma, Sonali Sethi, Neera Kohli  
+e556
+ © Pol J Radiol 2022; 87: e549-e556
+10. Tsao HM, Wu MH, Yu WC, et al. Role of right middle pulmonary 
+vein in patients with paroxysmal atrial fibrillation. J Cardiovasc Elec-
+trophysiol 2001; 12: 1353-1357.
+11. Schwartzman D, Lacomis J, Wigginton WG. Characterization of left  
+atrium and distal pulmonary vein morphology using multidimen-
+sional computed tomography. J Am Coll Cardiol 2003; 41: 1349-
+1357. 
+12. Pores DV , Morenza OP , Pallisa E, et al. Learning from the pulmonary 
+veins. Radiographics 2013; 3: 999-1022.
+13. Latson LA, Prieto LR. Congenital and acquired pulmonary vein ste-
+nosis. Circulation 2007; 115: 103-108.
+14. White CS, Baffa JM, Haney PJ, et al. Anomalies of pulmonary veins: 
+usefulness of spin echo and gradient echo MR images. AJR 1998; 170: 
+1365-1368.
+15. Stumper O, Vargas-Barron J, Rijlaarsdam M, et al. Assessment of 
+anomalous systemic and pulmonary venous connections by transoe-
+sophageal echocardiography in infants and children. Br Heart J 1991; 
+66: 411-418.
+16. Ammash NM, Seward JB, Warnes CA, et al. Partial anomalous pul-
+monary venous connection: diagnosis by transesophageal echocar -
+diography. J Am Coll Cardiol 1997; 29: 1351-1358. 
+17. Shi G, Zhu Z, Chen J, et al. Total anomalous pulmonary venous con-
+nection- the current management strategies in a pediatric cohort of 
+768 patients. Circulation 2017; 135: 48-58.
+18. Uçar T, Fitoz S, Tutar E, et al. Diagnostic tools in the preoperative 
+evaluation of children with anomalous pulmonary venous connec -
+tions. Int J Cardiovasc Imaging 2008; 24: 229-235.
+19. White CS, Baffa JM, Haney PJ, et al. MR imaging of congenital 
+anomalies of the thoracic veins. Radiographics 1997; 17: 595-608.
+20. Festa P , Ait-Ali L, Cerillo AG, et al. Magnetic resonance imaging is 
+the diagnostic tool of choice in the preoperative evaluation of pa-
+tients with partial anomalous pulmonary venous return. Int J Cardio-
+vasc Imaging 2006; 22: 685-693.
+21. MacDonald C, Smallhorn JF , Y oo SJ. Contrast-enhanced MR angio-
+graphy of pulmonary venous abnormalities in children. Pediatr Radiol 
+2003; 33: 92-98.
+22. Dillman JR, Y arram SG, Hernandez RJ. Imaging of pulmonary ve-
+nous developmental anomalies. AJR Am J Roentgenol 2009; 192: 
+1272-1285.
+23. Haramati LB, Moche IE, Rivera VT, et al. Computed tomography of 
+partial anomalous pulmonary venous connection in adults. J Com -
+put Assist Tomogr 2003; 27: 743-749.
+24. Herlong JR, Jaggers JJ, Ungerleider RM. Congenital heart surgery 
+nomenclature and data-base project: pulmonary venous anomalies. 
+Ann Thorac Surg 2000; 69: S56-S69.
+25. Demos TC, Posniak HV , Pierce KL, et al. Venous anomalies of the 
+thorax. AJR Am J Roentgenol 2004; 182: 1139-1150.
+26. Snellen HA, van Ingen HC, Hoefsmit EC. Patterns of anomalous pul-
+monary venous drainage. Circulation 1968; 38: 45-63.
+27. Van Praagh S, Carrera ME, Sanders SP , et al. Sinus venosus defects: un-
+roofing of the right pulmonary veins-anatomic and echocardiographic 
+findings and surgical treatment. Am Heart J 1994; 128: 365-379.
+28. Burchell HB, Hetzel PS, Swan HJ. Relative contribution of blood from 
+each lung to the left-to-right shunt in atrial septal defect; demonstra-
+tion by indicator dilution technics. Circulation 1956; 14: 200-211.
+29. Pauwaa S, Farzaneh Far A. Isolated partial anomalous pulmonary 
+venous return with intact atrial septum: a rare but treatable cause of 
+pulmonary hypertension in adults. Eur Heart J Cardiovasc Imaging 
+2014; 15: 830.
+30. Konen E, Raviv-Zilka L, Cohen RA, et al. Congenital pulmonary 
+venolobar syndrome: spectrum of helical CT findings with emphasis 
+on computerized reformatting. Radiographics 2003; 23: 1175-1184.
+31. Chowdhury MM, Chakraborty S. Imaging of congenital lung mal-
+formations. Semin Pediatr Surg 2015; 24: 168-175. 
+32. Bo I, Carvalho JS, Cheasty E, et al. Variants of the scimitar syndrome. 
+Cardiol Y oung 2016; 26: 941-947. 

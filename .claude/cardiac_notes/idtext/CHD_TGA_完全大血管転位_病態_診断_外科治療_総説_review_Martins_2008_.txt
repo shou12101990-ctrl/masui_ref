@@ -1,0 +1,862 @@
+
+[[p1]]
+BioMed Central
+Page 1 of 10
+(page number not for citation purposes)
+Orphanet Journal of Rare Diseases
+Open AccessReview
+Transposition of the great arteries
+Paula Martins* and Eduardo Castela
+Address: Serviço de Cardiologia Pediátrica, Hospital Pediátrico de Coimbra, Coimbra, Portugal
+Email: Paula Martins* - paula_mrtns@yahoo.com; Eduardo Castela - ecastela@hpc.chc.min-saude.pt
+* Corresponding author    
+Abstract
+Transposition of the great arteries (TGA), also  referred to as complete  transposition, is a
+congenital cardiac malformation characteri sed by atrioventricular concordance and
+ventriculoarterial (VA) discordance. The incidence is estimated at 1 in 3,500–5,000 live births, with
+a male-to-female ratio 1.5 to 3.2:1.  In 50% of cases, the VA discordance is an isolated finding. In
+10% of cases, TGA is associated with noncardiac malformations. The association with other cardiac
+malformations such as ventricular septal defect (VSD) and left ventricular outflow tract obstruction
+is frequent and dictates timing and clinical presentation, which consists of cyanosis with or without
+congestive heart failure. The onset and severity depend on anatomical and functional variants that
+influence the degree of mixing between the two circulations. If no obstructive lesions are present
+and there is a large VSD, cyanosis may go undetec ted and only be perceived during episodes of
+crying or agitation. In these ca ses, signs of congestive heart fa ilure prevail. The exact aetiology
+remains unknown. Some associated risk factors (gestational diabetes mellitus, maternal exposure
+to rodenticides and herbicides, maternal use of  antiepileptic drugs) have been postulated.
+Mutations in growth differenti ation factor-1 gene, the thyroi d hormone receptor-associated
+protein-2 gene and the gene encoding the cryptic protein have been shown implicated in discordant
+VA connections, but they explain only a small minority of TGA cases.
+The diagnosis is confirmed by ec hocardiography, which also provides the morphological details
+required for future surgical management. Prenatal diagnosis by foetal echocardiography is possible
+and desirable, as it may improve the early ne onatal management and reduce morbidity and
+mortality. Differential diagnosis includes other causes of central neonat al cyanosis. Palliative
+treatment with prostaglandin E1 and balloon atrial septostomy are usually required soon after birth.
+Surgical correction is performed at a later stage. Usually, the Jatene arterial switch operation is the
+procedure of choice. Whenever this operation is not feasible, adequate alternative surgical
+approach should be implemented. With the advent of newer and improved surgical techniques and
+post operative intensive care, the long-term surv ival is approximately 90% at 15 years of age.
+However, the exercise performance, cognitive function and quality of life may be impaired.
+Disease name and synonyms
+Transposition of the great arteries; physiologically uncor-
+rected transposition; complete transposition; atrioven-
+tricular concordance with ventriculoarterial discordance.
+The European paediatric cardiac code for this disease is
+01.05.01.
+Published: 13 October 2008
+Orphanet Journal of Rare Diseases 2008, 3:27 doi:10.1186/1750-1172-3-27
+Received: 19 March 2008
+Accepted: 13 October 2008
+This article is available from: http://www.ojrd.com/content/3/1/27
+© 2008 Martins and Castela; licensee BioMed Central Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+[[p2]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 2 of 10
+(page number not for citation purposes)
+Definition and diagnostic criteria
+The transposition of the great arteries was first described
+by Mathew Baillie in 1797, in the second edition of the
+book "The Morbid Anatomy of Some of the Most Important
+Parts of the Human Body". However, the term transposition
+was only applied in 1814, by Farre, meaning that aorta
+and pulmonary trunk were placed ( positio) across ( trans)
+the ventricular septum.
+In fact, this congenital cardiac malformation is character-
+ised by atrioventricular concordance and ventriculoarte-
+rial discordance. In other words, the morphological right
+atrium is connected to the morphological right ventricle
+which gives rise entirely to or most of the aorta; the mor-
+phological left atrium is connected to the morphological
+left ventricle from where the pulmonary trunk emerges
+[1].
+The term congenitally corrected transposition of the
+great arteries describes a different entity that conjugates
+atrioventricular and ventriculoarterial discordance [2]. In
+the old nomenclature, completed transposition was used
+to describe either congenitally corrected or uncorrected
+transposition. In both situations, the great arteries were
+completely or predominantly misplaced across the ven-
+tricular septum. The designation "incomplete transposi-
+tion" was reserved to other types of malpositions of the
+great arteries, such as double outlet right and left ventricle.
+At present, the term complete transposition is usually
+used to describe only the physiologically uncorrected
+transposition.
+The prefixes a-, d- and l- transposition describe the spa-
+tial relationship between the aorta and the pulmonary
+trunk, and should not be used to define this anomaly [3].
+In d-transposition, the aortic valve lies to the right of the
+pulmonary valve. This is the most frequent arterial
+arrangement present in the hearts with concordant atriov-
+entricular and discordant ventriculoarterial connections.
+However, other possibilities of arterial distribution exist
+in this setting, thus the two concepts are not synonyms
+[4]. In congenitally corrected hearts, the aorta usually lies
+on the left (l-transposition), but then again this is not an
+absolute finding. The a-transposition refers to the anterior
+position of the aortic valve in relation to the pulmonary
+trunk.
+These different classifications and nomenclatures have
+lead in some cases to the inadequate or imprecise use of
+certain terms. To avoid ambiguity, it is important to use a
+description based on segmental analysis, and therefore, in
+our opinion, transposition of the great arteries should be
+defined as concordant atrioventricular and discordant
+ventriculoarterial connections.
+Epidemiology
+The hearts with atrioventricular concordance and ven-
+triculoarterial discordance represent 5–7% of all congeni-
+tal heart diseases [5], corresponding to an incidence of 20
+to 30 per 100 000 live births. There is a male predomi-
+nance with a male/female sex ratio that varies, in the liter-
+ature, from 1.5:1 to 3.2:1 [6-8]. In 10% of the cases, this
+cardiac lesion is associated with other noncardiac malfor-
+mations [9].
+Pathology
+In the hearts with transposition of the great arteries, atri-
+ums and ventricles retain their typical configuration, and
+conduction tissue assumes a similar distribution. A right-
+sided subaortic infundibulum usually separates the tricus-
+pid from the aortic valve, and fibrous continuity is present
+between the mitral and the pulmonary valve. Coronary
+arteries' anatomy may assume diverse patterns of epicar-
+dial distribution, but they invariably originate in the aor-
+tic sinuses facing the pulmonary trunk. This fact is
+constant and independent of the two great vessels' spatial
+relation.
+In 50% of the cases, the ventriculoarterial discordance is
+an isolated finding. This condition is designated as simple
+transposition. By contrast, complex transposition
+includes all the cases with coexisting malformations, such
+as ventricular septal defects, left ventricular outflow tract
+obstruction, aortic arch anomalies, and anomalous
+venous systemic return.
+Ventricular septal defects are particularly common, and
+their location and size are variable. They may be associ-
+ated with a certain degree of malalignement between the
+outlet and trabecular septum. If an anterior and rightward
+deviation of the outlet septum is present, concomitant
+pulmonary overriding and subaortic stenosis can be
+expected. In these cases, hypoplasia, coarctation, or even
+interruption of the aortic arch may be encountered. On
+the other hand, if the outlet septum is deviated posteriorly
+and leftwards, it may lead to subpulmonary stenosis [1].
+In fact, left ventricular outflow tract obstruction is present
+in one-eighth to one-third of cases, being far more com-
+mon in the presence of a ventricular septal defect than
+when the ventricular septum is intact. This impediment to
+the flow of blood can be caused by a wide spectrum of
+lesions, either at valvar or subvalvar level, and deviation
+of the muscular outlet septum is but one of them. Bulging
+of the septum, a fibrous shelf or fibromuscular tunnel, tis-
+sue tags, and anomalous attachment of the atrioventricu-
+lar valvar tension apparatus can also be substrates for
+stenosis [10].
+[[p3]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 3 of 10
+(page number not for citation purposes)
+A careful assessment of all these morphological variants is
+of the uttermost significance, particularly for surgical
+planning and in foreseeing eventual complications.
+Pathophysiology
+In the hearts with concordant atrioventricular and dis-
+cordant ventriculoarterial connections, the systemic and
+pulmonary circulations run in parallel, rather than in
+series. As such oxygenated blood flows through a closed
+circuit that involves the lungs and the left cardiac cham-
+bers. On the other hand, systemic blood flow is supplied
+by another closed circuit that begins and ends in the right
+cardiac chambers. In this setting, survival is only possible,
+if there is adequate mixing between the two circulations,
+be it between the septums or through the arterial
+duct[11].
+Clinical manifestations
+The parallel circulation just described results in a signifi-
+cant hypoxemic status that is observed clinically by central
+cyanosis. The bluish discoloration of the skin and mucous
+membranes is therefore the basic pattern of clinical pres-
+entation in transposition. Its onset and severity depend on
+anatomical and functional variants that influence the
+degree of mixing between the two circulations.
+Limited intercirculatory mixing, usually present if the ven-
+tricular septum is intact or the atrial septal defect is restric-
+tive, is related to progressive and profound central
+cyanosis evident within the first hours of life. Likewise,
+associated left ventricular outflow tract obstruction or pul-
+monary obstructive disease can reduce the blood flow to
+the pulmonary vascular bed, and thus contributing to a
+marked cyanotic state. However, if no obstructive lesions
+are present, and there is a large ventricular septal defect
+that allows for satisfactory mixing between the two circu-
+lations, cyanosis may go undetected and only be per-
+ceived during episodes of crying or agitation. In these
+cases, signs of congestive heart failure prevail due to exces-
+sive ventricular workload. Tachypnoea, tachycardia, dia-
+phoresis, poor weight gain, a gallop rhythm, and
+eventually hepatomegaly can be then detected later on
+during infancy.
+Heart murmurs associated with left outflow tract obstruc-
+tion, persistent arterial duct or due to a septal defect may
+be heard, but they are not a constant finding.
+Aetiology
+The exact aetiology of this disease is still unknown. How-
+ever, some associated risk factors, namely gestational dia-
+betes mellitus [12,13], maternal exposure to rodenticides
+and herbicides [14], and maternal use of antiepileptic
+drugs [15] have been postulated.
+Significant advances in the understanding of the underly-
+ing genetic mechanisms have been achieved over the last
+decade. Several mutations have been implicated as the
+cause of discordant ventriculoarterial connections. The
+genes involved so far are the growth differentiation factor-
+1 gene [16], the thyroid hormone receptor-associated pro-
+tein-2 gene [17], and the gene encoding the cryptic pro-
+tein [18]. They are localised in different chromosomes
+and their mutations only explain a small minority of the
+clinical cases.
+Diagnostic methods
+Diagnosis involves careful history taking and physical
+examination of the patient under good light condition.
+When these and the hyperoxia test are suggestive of a
+cyanotic congenital heart condition, further investigations
+are required.
+A chest X-ray and an electrocardiogram may be helpful
+at this stage, but their respective findings are not specific.
+In transposition, a narrowed superior mediastinum gives
+to the cardiac silhouette a characteristic egg-shaped
+appearance on chest radiography. Cardiomegaly with
+increased pulmonary vascular markings may be found if a
+ventricular septal defect is present. The main electrocardi-
+ographic features are a rightward deviation of the QRS
+complex axis associated with right ventricular hypertro-
+phy; biventricular hypertrophy is evident in conditions
+that lead to a left ventricular overload.
+The definitive diagnosis relies however on echocardiogra-
+phy. This imaging modality provides accurate morpho-
+logical and functional assessment of the heart, being able
+to show the specific features of the transposition of the
+great arteries. In the four-chamber view, one assesses atri-
+oventricular concordance, but the ventriculoarterial dis-
+cordance is better observed using other incidences. In the
+five-chamber, parasternal long-axis or even subcostal
+view, the vessel arising from the morphologically left ven-
+tricle has a posterior course and bifurcates immediately,
+being identified as the pulmonary trunk (Fig. 1). The mor-
+phologically right ventricle is related to a vessel that gives
+out the coronary, head and neck arteries, thus the aorta.
+The proximal portions of the two arteries run parallel to
+each other, rather than in the usual cross pattern, giving it
+a typical and easily recognisable appearance in the par-
+asternal long-axis and subcostal views (Fig. 2). In the
+short-axis view, the pulmonary trunk is usually in a cen-
+tral position, with the aorta being placed anteriorly and to
+the right (Fig. 3).
+The evaluation of the coronary artery pattern [19,20] and
+exclusion of other malformations are two important
+aspects that need to be addressed prior to surgery (Fig. 4).
+Furthermore, the Doppler study also provides functional
+[[p4]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 4 of 10
+(page number not for citation purposes)
+information and complements the data provided by the
+two-dimensional echo. Flow through the arterial duct and
+septal defects are visualised, being an indicator of the ade-
+quacy of mixing between the systemic and pulmonary cir-
+culations. Moreover, it is possible to measure gradients
+through obstructive lesions and to assess the function of
+the atrioventricular and semilunar valves.
+As echocardiography in experienced hands is a reliable
+diagnostic tool providing high sensivity and specificity,
+the need for catheterisation is limited to cases that
+require clarification of certain anatomic and haemody-
+namic aspects not clearly identified by echocardiography
+[21-24]. Likewise, CT or MR imaging can also offer addi-
+tional details of some associated lesions.
+This subcostal view shows the left ventricle originating a ves-sel that bifurcates, which is thus identified as the pulmonary arteryFigure 1
+This subcostal view shows the left ventricle originat-
+ing a vessel that bifurcates, which is thus identified as 
+the pulmonary artery.
+Subcostal view showing discordant ventriculoarterial connec-tions together with the presence of parallel, rather than crossing, great arteries arising form the ventriclesFigure 2
+Subcostal view showing discordant ventriculoarterial 
+connections together with the presence of parallel, 
+rather than crossing, great arteries arising form the 
+ventricles.
+Short axis view showing the aorta giving rise to the coronary arteries (arrow) in an anterior position and to the rightFigure 3
+Short axis view showing the aorta giving rise to the 
+coronary arteries (arrow) in an anterior position and 
+to the right. The pulmonary trunk is placed in a central 
+position.
+Echocardiography of a complex transposition with a ven-tricular septal defect and pulmonary stenosisFigure 4
+Echocardiography of a complex transposition with a 
+ventricular septal defect and pulmonary stenosis.
+
+[[p5]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 5 of 10
+(page number not for citation purposes)
+Prenatal diagnosis by foetal echocardiography is possible
+and desirable, as it may improve early neonatal manage-
+ment, thus reducing related morbidity and mortality
+[25,26]. This method has proven to be very accurate, not
+only in the diagnosis of the disease and associated malfor-
+mations, but also in planning the most appropriate surgi-
+cal approach [27].
+Differential diagnosis
+Differential diagnosis should include other causes of cen-
+tral neonatal cyanosis. In this clinical setting, the hyper-
+oxia test provides a simple means of assessing preductal
+PaO2 response to 100% inspired oxygen, aiding in the dif-
+ferentiation between cyanosis caused by cardiac disease
+from that caused by neurological or pulmonary disorders.
+In the neonates with parallel circulation, on a 100%
+inspired oxygen, a blood sample collected from the right
+radial artery will typically show a PaO2 less than 50
+mmHg. In this case, further exams should be carried out
+in order to confirm the diagnosis.
+Management
+Palliative treatment
+The initial aim in the management of the affected new-
+borns is to assure acceptable intercirculatory mixing. The
+presence of an atrial or a ventricular septal defect that pro-
+vides satisfactory mixing, permits corrective surgery at a
+later stage without the prior need for palliative proce-
+dures. Nevertheless, this is not the most common situa-
+tion, and usually a first stage treatment is required.
+Intravenous prostaglandin E1 infusion is used to main-
+tain arterial duct patency leading to an increment in pul-
+monary blood flow, which increases pulmonary venous
+return and left atrial pressure, thus promoting left to right
+flow at atrial level [28]. Early and late side effects may be
+observed, namely apnoeas, bradycardia, systemic hypo-
+tension, fluid-electrolyte disturbances, fever and cutane-
+ous flushing. Long-term use is associated with cortical
+hyperostosis, an effect that does not seem to be dose-
+related. Monitoring in an intensive care unit is therefore
+advised [29].
+Although intercirculatory mixing improves, prostaglandin
+action is frequently modest and insufficient to assure a
+satisfactory oxygenation of the systemic blood, either in
+simple or complex transposition. Balloon atrial septo-
+stomy, also known as the Rashkind procedure, assumes
+therefore an important role in the pre-operative manage-
+ment of these babies. This technique involves the placing
+of a balloon-tipped catheter in the left atrium, via the oval
+foramen. The balloon is then inflated and pulled back
+into the right atrium, tearing the atrial septum. In some
+centres, this procedure is echocardiographically guided
+providing reliable visual guidance without exposure to
+ionising radiation. Thus, the risk of complications is min-
+imised and the final diameter of the interatrial orifice can
+be accessed [30]. The result is considered successful when
+an atrial septal defect with at least 5 mm in diameter, an
+increased flapping motion of the inferior rim of the atrial
+septum is observed and there is an increase in the oxygen
+saturation [31].
+Balloon septostomy is an effective and safe procedure for
+creating long lasting adequate interatrial communications
+[32]. It has largely replaced other more aggressive inter-
+ventions such as blade atrial septostomy and surgical
+atrial septectomy. At the present, their use is limited to
+specific situations, mainly related to the rigidity of the
+interatrial septum. Balloon dilatation may also be
+required, especially in older patients in whom good palli-
+ation was not achieved by usual septostomy.
+In addition to these measures, medical support is usually
+necessary to optimise the clinical condition. Mechanical
+ventilation and oxygen may be needed in the unstable
+newborn with severe hypoxaemia. Nevertheless, it should
+be emphasised that these measures are not universally
+beneficial to these patients. For example, oxygen therapy
+may promote ductal closure, compromising intercircula-
+tory mixing. Futhermore, aggressive ventilator settings
+(Positive Inspiratory Pressure and Positive End Expiratory
+Pressure) leading to excessive alveolar distension should
+be avoided so that intercirculatory shunts are not dis-
+turbed.
+The correction of metabolic acidosis with bicarbonate is
+important, as it may compromise myocardial function
+and in case of cardiac failure, inotropic agents or diuretics
+may be necessary.
+Corrective treatment
+The arterial switch operation is the procedure of choice
+used to achieve complete physiological and anatomical
+repair. Its supremacy has been corroborated by long-term
+results that show preservation of good left ventricular
+function, sinus rhythm and a low mortality with a survival
+rate of 88% at both 10 and 15 years. The rare post opera-
+tive complications are mainly related to prolonged peri-
+operative ischaemia times, aortic regurgitation and coro-
+nary artery obstruction, which may result in myocardial
+ischaemia or even infarction. A low reoperation rate has
+also been reported, pulmonary stenosis at the site of
+reconstruction being the most common cause [33].
+In this surgery, the aorta and pulmonary trunks are sec-
+tioned and their distal extremities are transposed and
+anastomosed; coronary arteries are then translocated to
+the neo-aorta (Fig. 5). The correction should be ideally
+[[p6]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 6 of 10
+(page number not for citation purposes)
+performed in the first month of life. Several factors may
+however interfere with this timing, namely missed diag-
+nosis and preoperative complications, such as multiorgan
+failure, renal failure, active infection, severe acidosis or
+subarachnoidian haemorrahage, that postpone the proce-
+dure until the clinical condition is more stable. On the
+other hand, if palliative measures have had poor results or
+resulted in untoward complications, an emergency arte-
+rial switch maybe needed sooner.
+In the specific context of transposition with intact septum,
+the newborn should be operated preferably within the
+first two-weeks of life. This would ensure that left ventricle
+has not suffered significant involution, and its contractil-
+ity is still able to support the systemic circulation. In older
+neonates and young infants, the left ventricle may need to
+be retrained, before the arterial switch is attempted, by
+pulmonary artery banding, with or without an associated
+Blalock-Taussig shunt. This intermediate step should
+establish a left/right ventricular pressure ratio between
+0.6/0.75 without compromising the required pulmonary
+blood flow [34]. This pressure ratio is a known inducer of
+left ventricle remodelling. The exact indications for the
+two-stage arterial switch are still controversial, and,
+besides patient age, other factors should be considered,
+such as left ventricular wall thickness, left ventricular vol-
+ume and corresponding estimated mass, left ventricular
+pressure and the degree of interventricular septum bound-
+ing [34-36]. According to existing evidence, a short time
+interval between the two operations [37], usually one
+week, is sufficient. Nevertheless, the decision to proceed
+to the arterial switch is based on the evolution of the
+echocardiografic parameters concerning both left ventri-
+cle structure and haemodynamic performance. The results
+reported appear to be very encouraging, showing a sur-
+vival rate and freedom of reoperation at five years of 90%
+and 97%, respectively [38].
+In complex transposition, the arterial switch procedure
+should be tailored towards the individual morphological
+aspects and complementary interventions may be neces-
+sary to repair concomitant malformations. In fact, an
+associated atrial defect, or more commonly the septo-
+stomy defect, can usually be closed by direct suture. Clo-
+sure of the ventricular septal defect may require the use of
+a patch to close the communication or, if very small, may
+just be left open. An obstruction within the aortic arch is
+best repaired concomitantly, if necessary using a pulmo-
+nary homograft to enlarge the aorta [39]. Some lesions
+causing left outflow tract obstruction may be effectively
+ressected, re-establishing an adequate patency. Complex
+coronary patterns may require individualized techniques
+for coronary transfer, adapted to the ostial anatomy and
+coronary course.
+Two morphologic features may preclude however the use
+of this operation: an outflow tract obstruction lesion that
+can not be satisfactory relieved by resection and certain
+coronary artery patterns that may pose difficulties during
+coronary transfer.
+Whenever the arterial switch is not feasible, alternative
+approaches are required – Fig. 6[10]. A repair at atrial
+level, either by a Mustard or a Senning procedure, is par-
+ticularly suitable for hearts with an intact ventricular sep-
+tum. The systemic venous return is redirected at atrial level
+to the left ventricle. Likewise, pulmonary venous blood is
+diverted to the right ventricle. When there is an obstruc-
+The figure illustrates the arterial switch procedureFigure 5
+The figure illustrates the arterial switch procedure. It 
+shows the connection of the proximal great arteries to the 
+distal end of the other great artery, as well as the transfer of 
+coronary arteries to the new aorta. (adapted from [10]. Mar-
+tins P, Tran V, Price G, Tsang V and Cook A, Cardiol Young 
+2008; 18:124–34, with permission from Cambridge Univer-
+sity Press).
+Surgical procedures used in the correction of the transposi-tion of the great arteriesFigure 6
+Surgical procedures used in the correction of the 
+transposition of the great arteries.
+
+[[p7]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 7 of 10
+(page number not for citation purposes)
+tion at the left ventricular outflow tract, an extracardiac
+conduit is placed between the left ventricle and the pul-
+monary trunk- Fig. 7[40]. The main complications of
+these techniques are sinus node dysfunction, obstruction
+to either pulmonary or systemic venous return, supraven-
+tricular tachyarrythmias, residual interatrial shunt, right
+ventricular dysfunction and pulmonary vascular obstruc-
+tive disease. These factors are associated with a less satis-
+factory survival rate of 77.7% and 67.2% at 10 and 30
+years respectively, with an early mortality accounting for
+16% [41]. Particularly adverse outcomes are present in
+patients with an advanced New York Heart Association
+functional class or with arrythmias [42].
+In the presence of a ventricular septal defect, the most
+used options are the REV procedure or its modification
+and the Rastelli operation. In both, an intraventricular
+tunnel passing through the septal defect is created to con-
+nect the left ventricle to the aorta. In the Rastelli proce-
+dure, an extracardiac conduit is placed connecting the
+right ventricle to the pulmonary artery (Fig. 8). However,
+in the REV technique, this is accomplished through the
+LeCompte manouever, which brings the pulmonary trunk
+forward, allowing its direct implantation in the right ven-
+tricle (Fig. 9). Apart from avoiding the use of an extracar-
+diac conduit, the REV procedure has a further advantage
+in which it involves the resection of the muscular outlet
+septum, providing better alignment between the aorta
+and the left ventricle. As expected, late results in terms of
+reoperation are significantly different in the two proce-
+dures. In fact, Rastelli operation was associated with a
+greater risk of reintervention due to left ventricular out-
+flow tract obstruction, and extracardiac conduit problems
+such as obstruction, requiring eventual replacement.
+However, similar early and late mortalities were reported
+[43,44].
+The Nikaidoh's procedure is also an option in the setting
+of discordant ventriculoarterial connections, ventricular
+septal defect and left outflow tract obstruction, especially
+if inadequate anatomy for a REV or Rastelli is present [45].
+The repair is achieved by removing the aortic root with its
+coronaries attached, and translocating them to the prior
+This figure shows the common principle subjacent to intra-atrial switchFigure 7
+This figure shows the common principle subjacent to 
+intra-atrial switch. Figure 7A shows in diagrammatic fash-
+ion, the redirection of pulmonary and systemic venous flows 
+at atrial level. An external conduit (B) is placed to overcome 
+the obstruction within the left ventricular outflow tract. 
+(adapted from [10]. Martins P, Tran V, Price G, Tsang V and 
+Cook A, Cardiol Young 2008; 18:124–34, with permission 
+from Cambridge University Press).
+The figure shows the main steps of Rastelli procedure in the setting of a deviated outlet septum (A)Figure 8
+The figure shows the main steps of Rastelli proce-
+dure in the setting of a deviated outlet septum (A). A 
+patch is placed to create an interventricular tunnel (B), and 
+an extracardiac conduit is placed between the right ventricle 
+and the pulmonary arteries (C). (adapted from [10]. Martins 
+P, Tran V, Price G, Tsang V and Cook A, Cardiol Young 
+2008; 18:124–34, with permission from Cambridge Univer-
+sity Press).
+This figure shows the innovations of the REV procedure rela-tive to the Rastelli procedure, with resection of the muscular outlet septum (B) and use of Lecompte manoeuvre (C) which avoids the use of an extacardiac conduitFigure 9
+This figure shows the innovations of the REV proce-
+dure relative to the Rastelli procedure, with resec-
+tion of the muscular outlet septum (B) and use of 
+Lecompte manoeuvre (C) which avoids the use of an 
+extacardiac conduit. (adapted from [10]. Martins P, Tran 
+V, Price G, Tsang V and Cook A, Cardiol Young 2008; 
+18:124–34, with permission from Cambridge University 
+Press).
+
+[[p8]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 8 of 10
+(page number not for citation purposes)
+Table 1: Different types of corrective surgeries and respective early mortality, late survival, complications and probability of 
+reoperation
+Type of surgery Era Early morta lity Late survival Major complica tions and incidence Reoperations
+First choice
+• Arterial switch [33,47] 1975 3.8% 88% (1 0 and 15 yrs) Pulmon ary stenosis (3.9%)
+Aortic regurgitation (3,8%)
+Coronary lesions (2%)
+4.5–18%
+Alternative procedures
+• Simple TGA
+- Atrial switch [41,42] 1960s 16.5% 77.7% (10 yrs)
+67.2% (30 yrs)
+Arrythmia (47.6 – 64.3%)
+Tricuspid regurgitation (34.9%)
+Systemic ventricular dysfunction (11.5–14.6%)
+Baffle related problems (5.6%)
+5.1%
+• TGA with VSD ± LVOTO
+- Rastelli [48] 1969 7% 80% (10 yrs)
+52% (20 yrs)
+RVOTO (64%)
+Arrythmias (24%)
+LVOTO (16%)
+44%
+- REV [43] 1982 12.5% 84% (5 yrs) RVOTO (19%) 10%
+- Nikaidoh [49] 1984 5% 95% RVOTO (26%) 47%
+The figure shows the major issues of Nikaidoh's procedureFigure 10
+The figure shows the major issues of Nikaidoh's procedure. Figure 10A shows the areas for harvesting the aortic root 
+and transection of the pulmonary trunk. In 10B, the aorta and pulmonary trunk have already been disconnected from their pre-
+vious insertion, and the line of division of the outlet septum is shown. Figures 10C and 10D show aortic translocation and 
+reconstruction of the left outflow tract, with a pericardial patch used to close the ventricular septal defect. In 10E and 10F, the 
+pulmonary trunk is sutured to the right ventricular outflow tract, and the reconstruction is completed with a pericardial patch. 
+(adapted from [10]. Martins P, Tran V, Price G, Tsang V and Cook A, Cardiol Young 2008; 18:124–34, with permission from 
+Cambridge University Press).
+
+[[p9]]
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 9 of 10
+(page number not for citation purposes)
+pulmonary position. The obstruction in the left ventricu-
+lar outflow tract is relieved through outlet septum bisec-
+tion and resection of the pulmonary valve. Both
+ventricular outflow tracts are then reconstructed, using
+patches either to close the ventricular septal defect or to
+adapt pulmonary trunk to the right infundibular area (Fig.
+10). The major handicaps of this approach are its techni-
+cal difficulty, as well as a relatively high rate of reoperation
+due to right ventricular outflow tract obstruction and pul-
+monary insufficiency; moreover, unusual coronary pat-
+terns may also represent an additional problem. Despite
+all these disadvantages, a recent study comparing REV,
+Rastelli and Nikaidoh's performances has highlighted the
+superiority of Nikhaidoh's approach in obtaining a better
+???zSU|?Gs?PH?zSVL
+49]. Further studies are however necessary to perfectly
+establish the role of this surgical approach in transposi-
+tion correction.
+Prognosis
+Until mid twentieth century, the treatment of transposi-
+tion was restricted to few palliative measures and the nat-
+ural history of the disease with its poor prognosis was an
+undeniable reality. By that time, the average life expect-
+ancy for a newborn with transposition was 0.65 years and
+the mortality rate at one year was 89.3% [50]. With the
+advent of newer and improved surgical techniques as well
+as post operative intensive care, the scenario has com-
+pletely changed, and very encouraging long-term survival
+rates almost achieving 90% at 15 years of age have been
+reported. The potentialities of the current corrective sur-
+gery modalities are also underlined by a low 10-year re-
+intervention rate (6%) and a corresponding event-free
+survival of 88% [51]. Nevertheless, recent studies have
+pointed out to a reduced exercise performance, a compro-
+mise in cognitive functioning, and an unfavourable
+health-related quality of life [51,52]. Further improve-
+ments are therefore necessary and they may be achieved in
+the future by reinforcing prenatal diagnosis and by estab-
+lishing strategies to minimise surgical complications.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+The authors equally contributed to this review article.
+They read and approved the final version of the manu-
+script.
+Acknowledgements
+We would like to thank Prof R Anderson for his tutorship and continuous 
+support, Drs Graça Sousa and António Pires for their guidance, Gemma 
+Price for kindly supplying the schematic drawings used in the manuscript 
+and Cambridge University Press for permiting their reproduction.
+References
+PM?g?rxK?a?diK?q?lkK?`?qgY?b?`??bL
+ital Heart Disease – Morphologi c and Clinical Correlations.
+Mosby-Wolfe, London; 1995. 
+2. Wilkinson JL, Coch rane AD, Karl TR: Congenital Heart Surgery
+Nomenclature and Database Pr oject: corrected (discord-
+ant) transposition of the great arteries (and related malfor-
+mations).  Ann Thorac Surg 2000, 69:S236-48.
+3. Jaggers JJ, Cameron DE, Herlong JR, Ungerleider RM: Congenital
+Heart Surgery Nomenclature and Database Project: trans-
+position of the great arteries.  Ann Thorac Surg 2000, 69:S205-35.
+4. Houyel L, Van Praagh R, Lacour-Gayet  F, Serraf A, Petit J, Bruniaux J,
+Planché C: Transposition of the great arteries [S, D, L]. Path-
+ologic anatomy, diagnosis, a nd surgical management of a
+newly recognized complex.   J Thorac Cardiovasc Surg  1995,
+110:613-24.
+5. Samánek M, Slavík Z, Zborilová B, Hrobonová V, Vorísková M, Sko-
+vránek J: Prevalence, treatment, an d outcome of heart dis-
+ease in live-born children: a prospective analysis of 91,823
+live-born children.  Pediatr Cardiol 1989, 10:205-11.
+6. Bianca S, Ettore G: Sex ratio imbalance in transposition of the
+great arteries and possible agricultural environmental risk
+factors.  Images Paediatr Cardiol 2001, 8:10-14.
+7. Sampayo F, Pinto FF: The sex distribution of congenital cardio-
+pathies.  Acta Med Port 1994, 7:413.
+8. Samánek M: Boy girl ratio in children born with different forms
+of cardiac malformation: a population-based study.   Pediatr
+Cardiol 1994, 15:53-7.
+9. Güçer S, Ince T, Kale G, Akçören Z, Ozkutlu S, Talim B, Ca ğlar M:
+Noncardiac malformations in congenital heart disease: a ret-
+rospective analysis of 305 pediatric autopsies.   Turk J Pediatr
+2005, 47:159-66.
+10. Martins P, Tran V, Pr ice G, Tsang V, Cook A: Extending the surgi-
+cal boundaries in the management of the left ventricular
+outflow tract obstruction in di scordant ventriculo-arterial
+connections – a surgical and morphological study.   Cardiol
+Young 2008, 18:124-34.
+11. Ashworth M, Al Adnani M, Sebire NJ: Neonatal death due to
+transposition in association wi th premature closure of the
+oval foramen.  Cardiol Young 2006, 16:586-9.
+12. Becerra JE, Khoury MJ, Cordero JF, Erickson JD: Diabetes mellitus
+during pregnancy and the risks for specific birth defects: a
+population-based case-control study.  Pediatrics 1990, 85:1-9.
+13. Abu-Sulaiman RM, Subaih B: Congenital heart disease in infants
+of diabetic mothers: echocardiographic study.   Pediatr Cardiol
+2004, 25:137-40.
+14. Loffredo CA, Silbergeld EK, Ferencz C, Zhang J: Association of
+transposition of the great arte ries in infants with maternal
+exposures to herbicides and rodenticides.  Am J Epidemiol 2001,
+153:529-36.
+15. Okuda H, Nagao T: Cardiovascular malformations induced by
+prenatal exposure to phenobarbital in rats.   Congenit Anom
+2006, 46:97-104.
+16. Karkera JD, Lee JS, Roessler E, Banerjee-Basu S, Ouspenskaia MV,
+Mez J, Goldmuntz E, Bowers P, Towbin J, Belmont JW, Baxevanis AD,
+Schier AF, Muenke M: Loss-of-function mutations in growth dif-
+ferentiation factor-1 (GDF1) are associated with congenital
+heart defects in humans.  Am J Hum Genet 2007, 81:987-94.
+17. Muncke N, Jung C, Rudiger H, Ulmer H, Roeth R, Hubert A, Gold-
+muntz E, Driscoll D, Goodship J, Schon K, Rappold G: Missense
+mutations and gene interruption in PROSIT240, a novel
+TRAP240-like gene, in patients with congenital heart defect
+(transposition of the great arteries).   Circulation 2003,
+108:2843-50.
+18. Goldmuntz E, Bamford R, Karker a JD, dela Cruz J, Roessler E,
+Muenke M: CFC1 mutations in patien ts with transposition of
+the great arteries and double-outlet right ventricle.  Am J Hum
+Genet 2002, 70:776-80.
+19. Pasquini L, Sanders SP , Parness IA, Wernovsky G, Mayer JE Jr, Velde
+ME Van der, Spevak PJ, Colan SD: Coronary echocardiography in
+406 patients with d-loop transp osition of the great arteries.
+J Am Coll Cardiol 1994, 24:763-8.
+20. McMahon CJ, el Said HG, Feltes  TF, Watrin CH, Hess BA, Fraser CD
+Jr: Preoperative identification of  coronary arterial anatomy
+in complete transposition, and outcome after the arterial
+switch operation.  Cardiol Young 2002, 12:240-7.
+[[p10]]
+Publish with BioMed Central   and  every 
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for 
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and published immediately upon acceptance
+cited in PubMed and archived on PubMed Central 
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+Orphanet Journal of Rare Diseases 2008, 3:27 http://www.ojrd.com/content/3/1/27
+Page 10 of 10
+(page number not for citation purposes)
+21. Daskalopoulos DA, Edwards WD, Dr iscoll DJ, Seward JB, Tajik AJ,
+Hagler DJ: Correlation of two-dimensional echocardiographic
+and autopsy findings in comple te transposition of the great
+arteries.  J Am Coll Cardiol 1983, 2:1151-7.
+22. Gutgesell HP, Huhta JC, Latson LA, Huffines D, McNamara DG:
+Accuracy of two-dimensional ec hocardiography in the diag-
+nosis of congenital heart disease.  Am J Cardiol 1985, 55:514-8.
+23. Tworetzky W, McElhinney DB, Brook MM, Reddy VM, Hanley FL, Sil-
+verman NH: Echocardiographic diagnosis alone for the com-
+plete repair of major congenital heart defects.  J Am Coll Cardiol
+1999, 33:228-33.
+24. Marino B, Corno A, Carotti A, Pa squini L, Giannico S, Guccione P,
+Bevilacqua M, De Simone G, Marcelletti C: Pediatric cardiac sur-
+gery guided by echocardiography. Established indications
+and new trends.  Scand J Thorac Cardiovasc Surg 1990, 24:197-201.
+25. Bonnet D, Coltri A, Butera G, Fermont L, Le Bidois J, Kachaner J, Sidi
+D: Detection of Transposition of the Great Arteries in
+Fetuses Reduces Neonatal Morbidity and Mortality.   Circula-
+tion 1999, 99:916-8.
+26. Chantepie A, Schleich JM, Gourn ay V, Blaysat G, Maragnes P: Preop-
+erative mortality in transpos ition of the great vessels.   Arch
+Pediatr 2000, 7:34-9.
+27. Pascal CJ, Huggon I, Sharland GK, Simpson JM: An echocardio-
+graphic study of diagnostic accuracy, prediction of surgical
+approach, and outcome for fetuses diagnosed with discord-
+ant ventriculo-arterial connections.   Cardiol Young  2007,
+17:528-34.
+28. Mair DD, Ritter DG: Factors influencing intercirculatory mix-
+ing in patients with complete  transposition of the great
+arteries.  Am J Cardiol 1972, 30:653-8.
+29. Tálosi G, Katona M, Rácz K, Kertész E, Onozó B, Túri S: Prostaglan-
+din E1 treatment in patent ductus arteriosus dependent con-
+genital heart defects.  J Perinat Med 2004, 32:368-74.
+30. Lin AE, Di Sessa TG, Williams RG: Balloon and blade atrial sep-
+tostomy facilitated by two-di mensional echocardiography.
+Am J Cardiol 1986, 57:
+273-7.
+31. Perry LW, Ruckman RN, Galioto FM  Jr, Shapiro SR, Potter BM, Scott
+LP: Echocardiographically assisted balloon atrial septostomy.
+Pediatrics 1982, 70:403-8.
+32. Thanopoulos BD, Georgakopoulos D, Tsaousis GS, Simeunovic S:
+Percutaneous balloon dilatation of the atrial septum: imme-
+diate and midterm results.  Heart 1996, 76:502-6.
+33. Losay J, Touchot A, Serraf A, Litv inova A, Lambert V, Piot JD, Lacour-
+Gayet F, Capderou A, Planche C: Late Outcome After Arterial
+Switch Operation for Transposition of the Great Arteries.
+Circulation 2001, 104:121-6.
+34. Planche C, Lacour-Gayet F, Serraf A: Arterial Switch.  Pediatr Car-
+diol 1998, 19:297-307.
+35. Stark J, Leval M, Tsang VT: Surgery for congenital heart defects.
+Wiley, England; 2006. 
+36. Lacour-Gayet F, Piot D, Zoghbi J, Serraf A, Gruber P, Macé L, Tou-
+chot A, Planché C: Surgical management and indication of the
+left ventricular retraining in arterial switch for transposition
+of the great arteries with intact ventricular septum.  Eur J Car-
+diothorac Surg 2001, 20:824-9.
+37. Jonas RA, Giglia TM, Sanders SP, Wernovsky G, Nadal-Ginard B,
+Mayer JE Jr, Castaneda AR: Rapid, two-stage arterial switch for
+transposition of the great arteries and intact ventricular sep-
+tum beyond the neonatal period.  Circulation 1989, 80:203-8.
+38. Al Qethamy HO, Aizaz K, Aboelnazar SA, Hijab S, Al Faraidi Y: Two-
+stage arterial switch operation: is late ever too late?  Asian Car-
+diovasc Thorac Ann 2002, 10:235-9.
+39. Planché C, Serraf A, Comas JV, Lacour-Gayet F, Bruniaux J, Touchot
+A: Anatomic repair of  transposition of great arteries with
+ventricular septal defect and aortic arch obstruction. One-
+stage versus two-stage procedure.  J Thorac Cardiovasc Surg 1993,
+105:925-33.
+40. Crupi G, Anderson RH, Ho SY, Lincoln C, Buckley MJ: Complete
+transposition of the great arte ries with intact ventricular
+septum and left ventricular outflow tract obstruction. Surgi-
+cal management and anatomic considerations.  J Thorac Cardi-
+ovasc Surg 1979, 78:730-8.
+41. Moons P, Gewillig M, Sluysmans T, Verhaaren H, Viart P, Massin M,
+Suys B, Budts W, Pasquet A, De Wolf D, Vliers A: Long term out-
+come up to 30 years after the Mustard or Senning operation:
+a nationwide multicen tre study in Belgium.   Heart 2004,
+90:307-13.
+42. Dos L, Teruel L, Ferreira IJ, Rodriguez-Larrea J, Miro L, Girona J,
+Albert DC, Gonçalves A, Murtra M, Casaldaliga J: Late outcome of
+Senning and Mustard procedures  for correction of transpo-
+sition of the great arteries.  Heart 2005, 91:652-6.
+43. Vouhé PR, Tamisier D, Leca F, Ouaknine R, Vernant F, Neveux JY:
+Transposition of the great arteries, ventricular septal defect,
+and pulmonary outflow tract obstruction. Rastelli or
+Lecompte procedure?  J Thorac Cardiovasc Surg 1992, 103:428-36.
+44. Lee JR, Lim HG, Kim YJ, Rho JR, Bae EJ, Noh CI, Yun YS, Ahn C:
+Repair of transposition of the great arteries, ventricular sep-
+tal defect and left ventricular outflow tract obstruction.  Eur
+J Cardiothorac Surg 2004, 25:735-41.
+45. Morell VO, Jacobs JP, Quintessenza JA: Aortic translocation in the
+management of transposition of the great arteries with ven-
+tricular septal defect and pulmonary stenosis: results and fol-
+low-up.  Ann Thorac Surg 2005, 79:2089-92.
+46. Hu SS, Liu ZG, Li SJ, Shen XD, Wang X, Liu JP, Yan FX, Wang LQ, Li
+YQ: Strategy for biventricular ou tflow tract reconstruction:
+Rastelli, REV, or Nikaidoh procedure?  J Thorac Cardiovasc Surg
+2008, 135:331-8.
+47. Angeli E, Raisky O, Bonnet D, Sidi D, Vouhé PR: Late reoperations
+after neonatal arterial switch  operation for transposition of
+the great arteries.  Eur J Cardiothorac Surg 2008, 34:32-6.
+48. Kreutzer C, De Vive J, Kreutzer  J, Gauvreau K, Freed M, Mayer J,
+Jonas R, Del Nido P: Twenty-five year experience with Rastelli
+repair for transposition of the great arteries.   J Thorac Cardio-
+vasc Surg 2000, 120:211-23.
+49. Yeh T Jr, Ramaciotti C, Leonard SR, Roy L, Nikaidoh H: The aortic
+translocation (Nikaidoh) procedure: midterm results supe-
+rior to the Rastelli procedure.   J Thorac Cardiovasc Surg  2007,
+133:461-9.
+50. Liebman J, Cullum L, Belloc N: Natural history of transposition
+of the great arteries: anatomy and birth and death charac-
+teristics.  Circulation 1969, 
+40:237-62.
+51. de Koning WB, van Osch-Gevers M, Harkel AD, van Domburg RT,
+Spijkerboer AW, Utens EM, Bogers AJ, Helbing WA: Follow-up out-
+comes 10 years after arterial switch operation for transposi-
+tion of the great arteries: comparison of cardiological health
+status and health-related quality of life to those of the a nor-
+mal reference population.  Eur J Pediatr 2008, 167:995-1004.
+52. Karsdorp PA, Everaerd W, Kindt M, Mulder BJ: Psychological and
+cognitive functioning in childr en and adolescents with con-
+genital heart disease: a meta-analysis.   J Pediatr Psychol  2007,
+32:527-41.

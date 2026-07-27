@@ -1,0 +1,866 @@
+
+[[p1]]
+Combined pressure and volume loading for left
+ventricular training in patients with congenitally corrected
+transposition of the great arteries
+Antonia Schulz, MD, a,b,c,d Marcus Kelm, MD, b,d,e Viktoria H. M. Weixler, MD, PhD, a,b,c,d
+Peter Kramer, MD, b,e Mi-Y oung Cho, MD,a,b Stanislav Ovroutski, MD, b,e Felix Berger, MD, b,d,e and
+Joachim Photiadis, MD a,b
+ABSTRACT
+Objective: Patients with congenitally corrected transposition of the great arteries
+may require left ventricular training before the double switch operation. We eval-
+uated the effects of combined pressure and volume loading.
+Methods: We performed a retrospective study of patients with congenitally cor-
+rected transposition of the great arteries who underwent left ventricular training
+between 2012 and 2022.
+Results: Fifteen patients underwent left ventricular training at a median age of
+1.5 years (interquartile range [IQR], 0.7-5.6). Their median left ventricular mass in-
+dex was 21 g/m
+2 (IQR, 18.9-36.6), left ventricular end-diastolic volume index was
+65.1 mL/m 2 (IQR, 40.6-84.6), and systolic left ventricular/right ventricular pressure
+ratio was 0.35 (IQR, 0.31-0.5). In addition to pulmonary artery banding, atrial septec-
+tomy was performed in 12 patients (80 %). Two patients already had a relevant
+shunt. One patient required systemic ventricular assist device implantation and
+heart transplantation. After a median of 1.9 years (IQR, 0.8-4.4), left ventricular
+mass index had increased to 38.5 g/m
+2 (IQR, 25-49, P ¼ .002), left ventricular
+end-diastolic volume index to 71.4 mL/m 2 (IQR, 50.1-94.4, P ¼ .13), and systolic
+left ventricular/right ventricular pressure ratio to 0.94 (IQR, 0.84-1.1, P ¼ .002).
+Older patients demonstrated a lower increase in left ventricular pressure. Six
+patients (6/14, 43 %) have met eligibility criteria for the double switch operation
+(5 performed). Their age at the time of pulmonary artery banding was 1.7 years
+(IQR, 0.5-3.7), and the time between pulmonary artery banding and double switch
+operation was 3.1 years (IQR, 1.5-5.2). One patient required double switch operation
+takedown due to left ventricular failure. Two older patients were considered
+nonresponders to left ventricular training.
+Conclusions: Combined pressure and volume loading resulted in a signi ﬁcant in-
+crease in left ventricular mass index and left ventricular pressure. Among older
+patients, there were nonresponders who remained not suitable for the double
+switch operation. (JTCVS Open 2024;21:239-47)
+1.0
+0.8
+0.4
+0.6
+0.2
+0.0Increase in LV/RV presseure ratio01 0
+R2 = 0.79
+P = .0006
+51 5
+Agre at time of PAB (years)
+Increase in LV to RV pressure ratio was higher in
+younger patients.
+CENTRAL MESSAGE
+LV training with combined pres-
+sure and volume loading resulted
+in a signi ﬁcant increase in LV
+mass index and LV pressure.
+Older patients demonstrated a
+lower increase in LV pressure.
+PERSPECTIVE
+A subset of patients with ccTGA require LV
+training before anatomic repair. PAB in combina-
+tion with an atrial shunt resulted in an increase in
+LV mass and pressure. Older patients exhibited a
+lower increase in LV pressure with a higher rate of
+training failure. Therefore, early start of training is
+advisable.
+From the aDepartment of Congenital and Pediatric Heart Surgery, Deutsches
+Herzzentrum der Charit /C19e, Berlin, Germany; eDepartment of Congenital Heart
+Disease – Pediatric Cardiology, Deutsches Herzzentrum der Charit /C19e, Berlin,
+Germany; bCharit/C19e – Universit €atsmedizin Berlin, Corporate Member of Freie
+Universit€at Berlin and Humboldt-Universit€at zu Berlin, Berlin, Germany; cBerlin
+Institute of Health at Charit /C19e – Universit€atsmedizin Berlin, Berlin, Germany; and
+dDZHK (German Centre for Cardiovascular Research), Partner Site Berlin,
+Berlin, Germany.
+The ethics committee of the Charit /C19e approved the study and publication of data.
+Patient written consent for the publication of the study data was waived by the
+committee due to retrospective study design and use of anonymous data
+(EA2/165/19, 15/01/2020).
+Read at the 104th Annual Meeting of The American Association for Thoracic Sur-
+gery, Toronto, Ontario, Canada, April 27-30, 2024.
+Received for publication April 25, 2024; revisions received July 24, 2024; accepted
+for publication Aug 5, 2024; available ahead of print Sept 1, 2024.
+Address for reprints: Antonia Schulz, MD, Deutsches Herzzentrum der Charit /C19e,
+Augustenburger Platz 1, Berlin 13353, Germany (E-mail: antonia.schulz@
+dhzc-charite.de).
+2666-2736
+Copyright /C2112024 The Author(s). Published by Elsevier Inc. on behalf of The Amer-
+ican Association for Thoracic Surgery. This is an open access article under the CC
+BY license ( http://creativecommons.org/licenses/by/4.0/).
+https://doi.org/10.1016/j.xjon.2024.08.016
+JTCVS Open c Volume 21, Number C 239
+CONGENITAL: TRANSPOSITION OF THE GREAT ARTERIES
+[[p2]]
+To view the AA TS Annual Meeting Webcast, see the
+URL next to the webcast thumbnail.
+In congenitally corrected transposition of the great arteries
+(ccTGA), the morphologic right ventricle (mRV) supports
+the systemic circulation. Patients without associated defects
+may remain asymptomatic until the fourth decade of life
+when impaired systemic ventricular function can cause
+congestive heart failure.
+1 In patients with associated
+lesions, physiologic repairs that leave the mRV in the sys-
+temic position have demonstrated unsatisfactory long-
+term survival and a high incidence of heart failure.
+2-5
+Therefore, the concept of anatomic correction with
+combined atrial and arterial switch has been pursued as
+the double switch operation (DSO), which brings the
+morphologic left ventricle (mLV) into the systemic
+position and has shown promising midterm results.
+6-12
+However, in the absence of pulmonary stenosis and a
+large ventricular septal defect (VSD), the mLV is usually
+unprepared to sustain a systemic workload once
+pulmonary vascular resistance has decreased during the
+ﬁrst weeks of life. Consequently, in patients with ccTGA
+and intact ventricular septum or with small, restrictive
+VSDs and without signiﬁcant left ventricular (LV) outﬂow
+tract obstruction, the mLV requires preconditioning before
+the DSO. Pulmonary artery banding (PAB) increases mLV
+afterload and has been shown to provide successful
+retraining of the mLV to undergo anatomic repair at a
+later stage.
+13-16 However, establishing a sufﬁcient gradient
+can be challenging and subsequent PAB adjustments are
+not uncommon, especially in patients aged more than
+1 year.15
+Zartner and colleagues 17 have introduced the concept of
+enhanced ventricular training with combined pressure and
+volume loading of the mLV by creation of an atrial septal
+defect (ASD) in addition to PAB. Additional volume
+loading by an ASD dynamically modulates the gradient
+across the PAB and may allow for intermittent training
+and relaxation phases. The ASD also can serve as a
+pressure-limiting valve to avoid high wall stress with asso-
+ciated myocardial ﬁbrosis. Another potential beneﬁt of vol-
+ume loading is the promotion of capillary growth, in
+contrast to myocyte hypertrophy without increasing capil-
+lary density, as occurs with isolated pressure loading in
+older children and may contribute to mLV dysfunction in
+some of them.
+18-20
+The purpose of this study was to evaluate the training ef-
+fects of combined pressure and volume loading in patients
+with ccTGA and unprepared mLVs.
+MATERIAL AND METHODS
+Study Design
+This is a single-center study with retrospective analysis of all patients
+with ccTGA who underwent PAB for mL V training between 2012 and
+2022. Patients who underwent PAB as a palliative procedure without the
+purpose of mL V training and patients with large nonrestrictive VSDs
+were excluded. We analyzed the evolution of mLV parameters under com-
+bined pressure and volume loading including LV mass and LVend-diastolic
+volume (L VEDV) evaluated by cardiac magnetic resonance imaging (MRI)
+and LV to RV systolic pressure ratio measured by cardiac catheterization.
+The study was approved by the local ethics committee with waived need for
+informed written consent (EA2/165/19, 15/01/2020). Three international
+patients were lost to follow-up assessment. In these patients, last available
+imaging was analyzed.
+Left Ventricle Training
+Patients with a diagnosis of ccTGA and unprepared mL V underwent
+mLV training with the goal of subsequent anatomic repair. A main PAB
+was placed via sternotomy using a 4-mm wide silastic band adjusted ac-
+cording to Trusler’s rule.
+21 The band was then further tightened to increase
+the LV pressure to one-half to two-thirds of the systemic pressure. Intrao-
+perative echocardiographic assessment was used to ensure preserved LV
+and mitral valve function with increasing pressure load. In the absence
+of a signiﬁcant atrial shunt, an atrial septectomy aiming for a 10-mm atrial
+communication was performed on cardiopulmonary bypass with the heart
+ﬁbrillating.
+Left Ventricle Training Assessment
+Patients were scheduled for training assessment after 6 to 9 months.
+Assessment of the mLV training status was done using a combination of
+echocardiography, MRI, and catheterization. The LV mass index, LVEDV
+index, mass to volume ratio, LV function, and LV to RV pressure ratio were
+used to assess readiness for anatomic repair ( Table 1). The reassessment of
+our eligibility criteria for anatomic repairs over time has been previously
+published.
+22
+Statistical Analysis
+Descriptive statistics include mean with SD for normal continuous data,
+median with interquartile range (IQR) for non-normal continuous data, and
+Abbreviations and Acronyms
+ASD ¼ atrial septal defect
+ccTGA ¼ congenitally corrected transposition of
+the great arteries
+DSO ¼ double switch operation
+IQR ¼ interquartile range
+LV ¼ left ventricle
+LVEDV ¼ left ventricular end-diastolic volume
+mLV ¼ morphologic left ventricle
+MRI ¼ magnetic resonance imaging
+mRV ¼ morphologic right ventricle
+NYHA ¼ New Y ork Heart Association
+PAB ¼ pulmonary artery banding
+Qp ¼ pulmonary blood ﬂow
+Qs ¼ systemic blood ﬂow
+RV ¼ right ventricle
+VA D ¼ ventricular assist device
+VSD ¼ ventricular septal defect
+240 JTCVS Open c October 2024
+Congenital: Transposition of the Great Arteries Schulz et al
+[[p3]]
+frequency with percentage for categorical data. Wilcoxon signed-rank test
+was used to compare paired variables. Linear regression was used to eval-
+uate the relationship between age at time of LV training commencement
+and increase in LV mass index and LV to RV pressure ratio. Data analysis
+was performed with Stata version 18 (StataCorp) and GraphPad Prism
+version 10.2.2 (GraphPad Software).
+RESULTS
+Baseline Characteristics
+Fifteen patients (9/15 female, 60 %) with ccTGA under-
+went L V training at a median age of 1.5 years (IQR, 0.7-5.6)
+with a median weight of 10 kg (IQR, 7.6-22.2). Before the
+procedure, 2 patients (13.3 %) had an ASD, 2 patients
+(13.3%) had partial anomalous pulmonary venous
+drainage, and 3 patients (20 %) had a small restrictive
+VSD. Approximately half of the patients (7/15, 46.7 %)
+were taking heart failure medication before surgery.
+The baseline echocardiogram showed tricuspid valve
+regurgitation was mild or less in 8 patients (8/15, 53.3 %),
+moderate in 3 patients (3/15, 20 %), moderate to severe in
+1 patient (1/15, 6.7 %), and severe in 3 patients (3/15,
+20%). Right ventricular (RV) function was preserved in
+10 patients (10/15, 66.7 %), mildly reduced in 3 patients
+(3/15, 20 %), and moderately reduced in 2 patients (2/15,
+13.3%). LV function was preserved in all patients. One pa-
+tient had mild-moderate mitral valve regurgitation.
+Baseline MRI was performed in 11 patients (11/15,
+73.3%). The median LVEDV index was 65.1 mL/m
+2
+(IQR, 40.6-84.6), left ventricular end-systolic volume index
+was 17.1 mL/m 2 (IQR, 11.5-30.3), and LV mass index was
+21 g/m 2 (IQR, 18.9-36.6). The median mass/volume ratio
+was 0.34 g/mL (IQR, 0.39-0.5), and LV ejection fraction
+was 69 % (IQR, 63.4-74). The median right ventricular
+end-diastolic volume index was 93.7 mL/m
+2 (67-142.8),
+??L????RV?kN?Q
+(IQR, 30-66.4), and RV ejection fraction was 57 % (IQR,
+53.2-60.9). The average pulmonary blood ﬂow:systemic
+blood ﬂow (Qp:Qs) was 1.1 (IQR, 0.9-1.2). Baseline cardiac
+catheterization was performed in 12 patients (12/15, 80 %).
+The median systolic LV/RV pressure ratio was 0.35 (IQR,
+0.31-0.5).
+Left Ventricle Training Procedure
+In addition to placement of a PAB, atrial septectomy was
+performed in 12 patients (12/15, 80 %) to increase L V vol-
+ume load. Two patients (2/15, 13 %) already had a signiﬁ-
+cant shunt due to partial anomalous pulmonary venous
+drainage. Permanent pacemaker implantation was per-
+formed in 3 patients (3/15, 20%) for congenital heart block.
+After PAB, the maximum pulmonary artery ﬂow velocity
+was 3.3 m/s (IQR, 3.1-3.6) with a corresponding maximum
+gradient of 41 mm Hg (IQR, 40-52). Tricuspid valve regur-
+gitation was mild or less in 9 patients (9/15, 60 %), moder-
+ate in 5 patients (5/15, 33.3%), and severe in 1 patient (1/15,
+6.7%). RV function was preserved in 10 patients (10/15,
+66.7%) and moderately reduced in 5 patients (5/15,
+33.3%). LV function was preserved in 12 patients (12/15,
+80%), and 3 patients (3/15, 20 %) had mild dysfunction.
+No patient had more than mild mitral valve regurgitation.
+Median intensive care unit and hospital stay were 1 day
+(IQR, 1-3) and 6 days (IQR, 5-8), respectively.
+Left Ventricle Training Status
+There was no early mortality. One patient decompensated
+8.7 months after the procedure and required systemic ven-
+tricular assist device (V AD) implantation for RV failure af-
+ter initial extracorporeal membrane oxygenation support.
+The patient underwent heart transplantation, but died of
+fulminant rejection 1.5 years later.
+Of the 14 survivors, follow-up MRI and cardiac catheter-
+ization were performed in 12 patients (12/14, 85.7 %),
+respectively. Two patients were unable to undergo MRI
+due to permanent epicardial pacing wires. In these patients,
+L V volume and muscle mass were measured by echocardi-
+ography instead. Median time to last imaging was 1.9 years
+(IQR, 0.8-4.4).
+As demonstrated in Figure 1 , the median LVEDV index
+increased to 71.4 mL/m
+2 (IQR, 50.1-94.4, P ¼ .13), left
+ventricular end-systolic volume index to 28.4 mL/m 2
+(IQR, 18.4-41.9, P ¼ .02), and LV mass index to 38.5 g/
+m2 (IQR, 25-49, P ¼ .002). The median mass/volume ratio
+was 0.51 g/mL (IQR, 0.36-0.62, P ¼ .16), and L V ejection
+fraction remained at 66 % (IQR, 59-69, P ¼ .55). The me-
+dian right ventricular end-diastolic volume index was
+81.9 mL/m
+2 (IQR, 66.9-108.2, P ¼ .16), right ventricular
+end-systolic volume index was 42.1 mL/m 2 (IQR, 22.8-
+59.2, P ¼ .57), and RV ejection fraction remained at
+54.5% (IQR, 46.3-59.7, P ¼ .3). After atrial septectomy,
+the average Qp:Qs was 1.8 (IQR, 1.3-2, P ¼ .36). Cardiac
+catheterization revealed a higher systolic L V/RV pressure
+ratio of 0.94 (IQR, 0.84-1.1, P ¼ .002). The median LV
+end-diastolic pressure was 11 mm Hg (IQR, 9-12.5). On
+echocardiogram, the maximum PAB gradient had increased
+to 59 mm Hg (IQR, 52-97, P ¼ .003). Although an increase
+in LV mass index was observed irrespective of the patient’s
+s`akd?PM?`??????
+repair
+Parameter Value
+LV EF (%) /C21 50
+LV/RV pressure ratio /C21 0.9
+LV mass index (g/m 2) /C21 50*
+LVEDV index (mL/m2) 40-100
+LV end-diastolic pressure /C20 12 mm Hg
+Mitral valve function Mild or less insufﬁciency
+LV, Left ventricular; EF, ejection fraction; RV, right ventricular; LVEDV, left ventric-
+ular end-diastolic volume. *Lower LV mass index was accepted in patients who
+demonstrated excellent mLV function with suprasystemic mLV pressures.
+JTCVS Open c Volume 21, Number C 241
+Schulz et al Congenital: Transposition of the Great Arteries
+[[p4]]
+age at the time of the L V training procedure, younger pa-
+tients demonstrated a higher increase in LV/RV pressure ra-
+tio (Figure 2). The relationship between LV mass index and
+LV to RV pressure ratio is shown in Figure 3.
+Reoperation
+After the LV training procedure, 3 patients (3/15, 20 %)
+required unplanned reoperation. One patient (age 8.4 years
+at time of PAB) required PAB tightening and atrial septec-
+tomy 1.2 years after the initial procedure. Atrial septectomy
+had not been previously performed due to existing shunt
+from a right PAPVD but without a sinus venous defect.
+The patient required 2 more procedures: one for external
+wrapping of the main pulmonary artery secondary to pul-
+monary artery enlargement below the band and another
+for size reduction of the ASD. He remains in training
+3.9 years after initial procedure.
+In 1 patient, LV training strategy was abandoned after
+5.4 years and the patient underwent mechanical tricuspid
+valve replacement, pulmonary artery debanding, closure
+of a small VSD, and reduction of ASD size. As mentioned
+above, 1 patient required extracorporeal membrane oxygen-
+ation and V AD implantation with subsequent heart trans-
+plantation for RV failure 8.7 months after LV training
+commencement. Another patient is scheduled for PAB
+tightening 1 year after L V training procedure.
+Double Switch Operation
+So far, 6 patients (6/14, 42.9 %) have met eligibility
+criteria for DSO. Their median age at the time of PAB
+had been 1.8 years (IQR, 0.6-3.1). Five procedures (5/14,
+35.7%) have been performed, and 1 is scheduled.
+The median age at the time of DSO was 6 years (IQR,
+5.8-7.2) with a median time between PAB and DSO of
+3.1 years (IQR, 1.5-5.2). Before DSO, median LV mass in-
+dex was 45.6 g/m
+2 (IQR, 34.8-49), median LVEDV index
+was 78.3 mL/m 2 (IQR, 56-78.4), median LV mass to vol-
+ume ratio was 0.62 g/mL (IQR, 0.52-0.69), median L V
+80
+0
+20
+40
+60LV mass index (g/m2)
+Follow-up
+P = .0020
+BaselineA
+200
+0
+50
+100
+150LVEDV index (ml/m2)
+Follow-up
+P = .1309
+BaselineB
+80
+0
+20
+40
+60LVESV index (ml/m2)
+Follow-up
+P = .0195
+BaselineC
+2.0
+0.0
+0.5
+1.0
+1.5LV/RV pressure ratio
+Follow-up
+P = .0020
+BaselineD
+FIGURE 1. Scatter plot of baseline and follow-up LVEDV indices (A), LVESV indices (B), LV mass indices (C), and LV to RV systolic pressure ratios (D).
+The dots represent individual patient data points. The horizontal line represents the median. LVEDV, Left ventricular end-diastolic volume; LVESV, left ven-
+tricular end-systolic volume; LV, left ventricle; RV, right ventricle.
+50
+40
+20
+30
+10
+0
+Increase in LV mass index (g/m2)
+0 105 15
+Age at time of PAB (years)
+A
+1.0
+0.8
+0.4
+0.6
+0.2
+0.0Increase in LV/RV pressure ratio
+0 10
+R2 = 0.79
+P = .0006
+5 15
+Age at time of PAB (years)
+B
+FIGURE 2. Increase in LV mass index (A) and LV to RV systolic pressure ratio (B) from baseline to last follow-up in patients age 0.4 to 14.2 years. LV/RV
+pressure ratio increase was higher in younger patients ( P ¼ .0015, R2 ¼ 0.78). The dots represent individual patient data points. LV, Left ventricle; RV, right
+ventricle; PAB, pulmonary artery band.
+242 JTCVS Open c October 2024
+Congenital: Transposition of the Great Arteries Schulz et al
+[[p5]]
+ejection fraction was 50 % (IQR, 45.5-57.5), and systolic
+LV to RV pressure ratio was 1.02 (IQR, 0.97-1.2).
+Three patients presented with coronary anomalies: 1 with
+single coronary ostium, 1 with left anterior descending ar-
+tery from the right coronary artery, and 1 with all coronary
+arteries arising from a single sinus. One patient had dextro-
+cardia. DSO was performed with a modiﬁed Senning atrial
+switch in all but 1 patient who underwent a hemi-Mustard
+with Glenn anastomosis. The median cardiopulmonary
+bypass time was 391 minutes (IQR, 274-505) with a median
+aortic crossclamp time of 211 minutes (IQR, 162-245).
+There was no mortality.
+One patient had postoperative LV failure and underwent
+cardiopulmonary resuscitation with extracorporeal mem-
+brane oxygenation implantation and DSO takedown after
+3 days of which he recovered uneventfully. This patient
+had a myocardial biopsy performed 2 years previously,
+which revealed a lymphocytic inﬂammatory reaction. One
+patient required temporary mechanical circulatory support
+that was successfully weaned with uneventful further recov-
+ery. One patient required early reoperation with left internal
+thoracic artery to left anterior descending artery bypass
+grafting due to coronary stenosis. Median intensive care
+unit stay was 11 days (IQR, 10-13), and median hospital
+stay was 21 days (IQR, 16-23). After a median follow-up
+time of 2.4 years after DSO (IQR, 1.1-2.9), median LV ejec-
+tion fraction was 48 % (IQR, 37.5-56.5) with 3 patients in
+New Y ork Heart Association (NYHA) class I and 1 patient
+in NYHA class II. One patient had moderate neoaortic valve
+regurgitation.
+Failed Left Ventricle Training
+There were 2 patients who were considered nonre-
+sponders to L V training. They were aged 11 years and
+14 years at the time of PAB. One patient eventually under-
+went debanding and ASD reduction together with
+mechanical tricuspid valve replacement and closure of a
+small VSD. The other patient remained with a palliative
+PAB. Both patients are in NYHA class II with preserved
+cardiac function 5.5 and 4.6 years after the L V training pro-
+cedure. Table 2 summarizes individual LV training status
+and outcomes of all patients.
+DISCUSSION
+Patients with ccTGA and unprepared morphologic LVs
+require training before DSO. Placement of a PAB increases
+mLV afterload and stimulates the ventricle to increase mus-
+cle mass. Over time, the mLV should be able to build up sys-
+temic pressure. Although there is no consensus on exact
+thresholds to predict successful anatomic correction after
+L V training, parameters such as L V mass index, LVEDV in-
+dex, L V mass/volume ratio, LV/RV pressure ratio, and L V
+function are taken into account to make individual treat-
+ment decisions.
+12,14 Successful retraining of the mLV by
+PAB alone has been demonstrated with 40 % to 75% of pa-
+tients subsequently able to undergo anatomic correction,
+but the need for PAB adjustment during LV training is not
+uncommon.
+13-16
+Additional volume loading of the mLV by creation of an
+atrial shunt as described by Zartner and colleagues 17 could
+provide several beneﬁts over L V training with PAB alone:
+The dynamic modulation of the PAB gradient during phys-
+ical activity creates an intermittently elevated LV strain
+rather than continuous ventricular wall stress, which poten-
+tially allows for periods of myocardial regeneration.
+17,23
+The atrial connection also can serve as a pop-off valve in
+the event of a sudden, very high, and potentially damaging
+L V load.17 However, cardiopulmonary bypass is required
+for ASD creation of a certain size. Zartner and colleagues 17
+demonstrated success of this concept in a series of 6 patients
+of whom 4 had failed conventional training by PAB alone.
+All patients showed an increase in L V mass and volume
+and achieved systemic LV pressures within 1 year of
+training. They all underwent successful DSO after a median
+training time of 1.2 years.
+In our cohort, 15 patients underwent LV training with
+additional creation of an ASD in 12 patients, and 2 patients
+had a shunt due to right partial anomalous pulmonary
+venous drainage. One patient required systemic V AD sup-
+port 8 months after PAB due to cardiac decompensation
+in the context of a viral gastrointestinal infection. The pa-
+tient died of fulminant rejection several years after success-
+ful heart transplantation. In the remaining 14 patients, we
+observed effects of mLV training with an increase in LV
+mass index to 38.5 g/m
+2, L VEDV index to 71.4 mL/m 2,
+and a mass to volume ratio of 0.51 g/mL after a median
+training time of 1.9 years. In patients who underwent inva-
+sive assessment, the average systolic LV to RV pressure ra-
+tio was almost systemic with 0.94. In contrast to the report
+of Mainwaring and colleagues
+15 who have described a
+80
+0
+20
+40
+60LV mass index (g/m2)
+0.0
+R2 = 0.16
+P = .06
+1.0 1.50.5 2.0
+LV/RV pressure ratio
+FIGURE 3. Relationship between LV mass index and LV to RV pressure
+ratio before LV training (blue dots) and at follow-up (red squares)( P ¼ .06,
+R2 ¼ 0.16). LV, Left ventricle; RV, right ventricle.
+JTCVS Open c Volume 21, Number C 243
+Schulz et al Congenital: Transposition of the Great Arteries
+[[p6]]
+consistent relationship between L V pressure and mass, this
+was not the case in our series. Although we observed a var-
+iable increase in muscle mass across all ages, the increase in
+LV/RV pressure ratio was lower in older patients (Figure 4).
+This ﬁnding would be another indicator that older patients
+seem more likely to react with pathological muscle hyper-
+trophy in response to PAB that does not allow them to pro-
+duce an appropriate increase in pressure despite increase in
+muscle mass.
+Toba and colleagues
+20 have recently demonstrated in
+their histopathological analysis of patients with TGA, intact
+ventricular septum, and PAB, an approximately 50% larger
+myocyte diameter with 20 % lower capillary density
+compared with normal cardiac anatomy, which might
+contribute to LV dysfunction after anatomic repair. In
+contrast, patients with TGA/VSD had normal or even
+increased capillary density with normal myocyte size,
+which underlines the potential beneﬁcial effect of addi-
+tional volume loading in L V training.
+20 However, it remains
+unclear up to what age these effects could be stimulated by
+an mLV training with combined pressure and volume
+loading.
+Pathological hypertrophy was also discussed by the Stan-
+ford group as the underlying cause in patients who did not
+follow a predictable relationship of LV mass and pressure.
+They found 3 outliers in their series all of older age.
+15
+The 2 oldest patients in our series (age 11 and 14 years)
+were nonresponders to combined pressure and volume
+loading. The third oldest patient (age 8 years at time of
+PAB) remains in training after 3 years, but required multiple
+adjustments including PAB tightening and ASD creation
+due to insufﬁcient training response, wrapping of the pul-
+monary artery to increase PAB efﬁciency, and reduction
+of ASD size to 6 mm due to high L VEDV . In this patient,
+the right amount of volume load was more difﬁcult to judge
+because the patient also had partial anomalous pulmonary
+venous drainage. Therefore, despite good overall improve-
+ment in LV parameters, not all patients seem to respond
+favorably to enhanced L V training, particularly older pa-
+tients. However, despite a higher rate of training failure in
+older patients, it remains difﬁcult to recommend an absolute
+age cutoff because there are reports of patients who under-
+went subsequent DSO at 21 years of age.
+14 Yet, there is
+consensus that patients should undergo mLV training as
+early as possible if an anatomic repair shall be
+pursued.
+13,16,24
+So far, 6 patients have met eligibility criteria for DSO in
+our cohort. Unfortunately, 3 international patients are lost to
+TABLE 2. Individual training parameters and outcome for all 15 patients who underwent left ventricular training
+Patient
+Age at time
+of PAB (y)
+Baseline LV
+mass index
+(g/m2)
+Baseline
+LVEDV
+index
+(mL/m2)
+Baseline
+systolic
+LV/RV
+pressure
+ratio
+LV training
+duration (y)
+Last LV
+mass index
+(g/m2)
+Last
+LVEDV
+index
+(mL/m2)
+Last systolic
+LV/RV
+pressure
+ratio Outcome
+1 0.4 - - - 1.3 38.8 * 36* 0.75 In training
+2 0.5 - - - 0.3 34.8 50.5 1.59 Successful DSO
+3 0.6 - - 0.33 4.6 27.9 78.3 1.2 Successful DSO
+4 0.7 11.1 38.7 0.34 4.4 38.3 64.6 1.16 DSO scheduled
+5 0.8 19.9 40.6 0.38 0.5 20.1 44.2 - Lost to FU
+6 1.1 6.8 34.2 - 0.7 24.9 48.9 1.01 Lost to FU
+7 1.5 18.9 67.6 0.5 0.7 - - - ECMO, V AD, heart
+transplant, death
+W?PMT?QP?SQ?L?OMW?QT?TW?L?h?
+9 1.7 - - 0.29 1.2 13.4 102.3 0.87 Lost to FU
+10 2.9 39.8 117.6 0.31 2.3 45.6 88 0.97 Successful DSO with
+Glenn
+11 3.1 19.9 65.1 0.35 5.9 66 * 56* 0.9 Failed DSO with DSO
+takedown
+12 5.6 30.4 54.2 0.49 1.4 49 78.4 1.02 Successful DSO
+13 8.4 36.6 97.1 0.28 3.1 41.4 116.7 0.81 In training (after PAB and
+ASD adjustment)
+14 11.4 40.6 71.8 0.84 5.3 59.9 167.8 0.88 Failed training
+15 14.2 25.2 84.6 0.56 3 56.4 91.8 0.8 Failed training
+PAB, Pulmonary artery banding; LV, left ventricle; LVEDV, left ventricular end-diastolic volume; RV, right ventricle; DSO, double switch operation; FU, follow-up; ECMO, extra-
+corporeal membrane oxygenation; VAD, ventricular assist device. *Measured by echocardiography.
+244 JTCVS Open c October 2024
+Congenital: Transposition of the Great Arteries Schulz et al
+[[p7]]
+follow-up assessment, and we ultimately cannot assess their
+readiness for DSO. Five patients have undergone DSO with
+1 patient requiring early take down due to LV failure. In this
+patient, DSO was performed approximately 6 years after the
+beginning of LV training at age 3 years once the patient had
+reached a sufﬁcient L V mass index of 66 g/m
+2 and 90% sys-
+temic L V pressure. Except for the patients aged 9 years,
+there were no risk factors for DSO failure. However, the pa-
+tient did have an abnormal myocardial biopsy 2 years pre-
+viously demonstrating lymphocytic inﬂammation. The
+oldest patient in our series who underwent successful
+DSO was 5.6 years old at the time of PAB and atrial septec-
+tomy. This compares to the series of Zartner and col-
+leagues,
+17 who have been able to successfully train all
+their patients (oldest 5.6 years, remaining patients aged
+<3 years) with combined pressure and volume loading.
+Despite the theoretical advantages of enhanced mLV
+training, other groups have demonstrated good results
+with PAB alone, which avoids the use of cardiopulmonary
+bypass, although repeat PAB might be necessary especially
+in older patients. In the recent update of the Stanford mLV
+training series, they have shown a high success rate with so
+far 45 of 61 patients (73%) who underwent successful DSO
+with a bidirectional Glenn anastomosis in 39 of 45 patients
+(87%).
+QT?`?UO?D????
+more than 1 PAB.25 After DSO, more than 90% of their pa-
+tients had preserved LV function. 25 However, they also
+report 5 patients with unsuccessful training despite several
+PAB.
+QT?s??????
+?????S??PV?M?QT
+Therefore, the success rate of mLV training with PAB
+alone or in combination with an ASD is inﬂuenced by pa-
+tient’s age. The addition of an atrial shunt did not
+completely eliminate the need for repeat training proced-
+ures in our series. However, the cohort demonstrated favor-
+able training parameters. Whether the theoretical beneﬁts of
+1.0
+0.8
+0.4
+0.6
+0.2
+0.0Increase in LV/RV pressure ratio
+01 0
+R2 = 0.79
+P = .0006
+51 5
+Age at time of PAB (years)
+80
+60
+20
+40
+0
+LV mass index (g/m2)
+0 1.0 0.5 2.0
+ccTGA –
+congenitally
+corrected
+transposition of the
+great arteries
+LV – left ventricle
+LVEDV – left
+ventricular end-
+diastolic volume
+PAB – pulmonary
+artery banding
+RV- right ventricle
+1.5
+LV/RV pressure ratio
+ Retrospective single center study (2012-2022)
+ 15 patients with ccTGA and deconditioned
+   LV underwent LV training
+Methods
+ Increase in LV mass index from 21 g/m2
+   to 38.5 g/m2 (P = .002)
+ Increase in LV/RV pressure ratio from
+   0.35 to 0.94 (P = .002)
+ Older patients had lower rise in LV pressure
+   and among them were non-responders
+Results
+ Older patients may not respond
+   favorably to LV training
+ Early training is advisable
+Implications
+Effects of combined pressure and volume loading for LV training in ccTGA patients
+34.20
+75.75
+167.80
+Time
+LVEDV index (ml/m2)
+Baseline
+Follow-up
+FIGURE 4. Effects of combined pressure and volume loading for LV training in patients with ccTGA.
+JTCVS Open c Volume 21, Number C 245
+Schulz et al Congenital: Transposition of the Great Arteries
+[[p8]]
+an atrial shunt with controlled volume loading will translate
+into improved clinical outcomes remains to be seen.
+Limitations
+This study is limited by its retrospective design, and
+generalization of the results is not possible because we
+analyzed only a small cohort of patients. Because mLV
+training for patients with ccTGA remains a rare procedure,
+the results still add valuable information to the existing
+literature where data on enhanced mLV training are scarce.
+MRI is the gold standard for assessing volume and muscle
+mass. The use of echocardiographic measurements in pa-
+tients who were unable to undergo MRI assessment may
+lead to deviations. Furthermore, comparison of L V training
+parameters to reference values from the normal population
+was not possible because there are no suitable percentiles
+for cardiac MRI data in young children.
+CONCLUSIONS
+Combined pressure and volume loading resulted in a sig-
+niﬁcant increase in LV mass index and LV/RV pressure ra-
+tio. Older patients demonstrated a lower increase in LV
+pressure, and among them were nonresponders who re-
+mained not suitable for anatomic repair. Therefore, early
+start of training is advisable.
+Webcast
+Y ou can watch a Webcast of this AA TS meeting presenta-
+tion by going to: https://www.aats.org/resources/
+combined-pressure-and-volume-l-7319.
+Conﬂict of Interest Statement
+The authors reported no conﬂicts of interest.
+The Journal policy requires editors and reviewers to
+disclose conﬂicts of interest and to decline handling or re-
+viewing manuscripts for which they may have a conﬂict
+of interest. The editors and reviewers of this article have
+no conﬂicts of interest.
+References
+PM?o?o?K?r?iK?q?eK?r?rK?b?lqM?b?L
+tion of the great arteries without associated defects in adult patients: clinical pro-
+ﬁle and follow up. Br Heart J . 1995;74(1):57-59. https://doi.org/10.1136/hrt.74.
+1.57
+2. Connelly MS, Liu PP , Williams WG, Webb GD, Robertson P , McLaughlin PR.
+Congenitally corrected transposition of the great arteries in the adult: functional
+status and complications. J Am Coll Cardiol. 1996;27(5):1238-1243. https://doi.
+org/10.1016/0735-1097(95)00567-6
+3. Bogers AJJC, Head SJ, de Jong PL, Witsenburg M, Kappetein AP . Long term
+follow up after surgery in congenitally corrected transposition of the great ar-
+teries with a right ventricle in the systemic circulation. J Cardiothorac Surg .
+2010;5:74. https://doi.org/10.1186/1749-8090-5-74
+4. Yeh TJ, Connelly MS, Coles JG, et al. Atrioventricular discordance: results of
+repair in 127 patients. J Thorac Cardiovasc Surg . 1999;117(6):1190-1203.
+https://doi.org/10.1016/s0022-5223(99)70259-x
+5. Hraska V , Duncan BW, Mayer JEJ, Freed M, del Nido PJ, Jonas RA. Long-term
+outcome of surgically treated patients with corrected transposition of the great
+arteries. J Thorac Cardiovasc Surg . 2005;129(1):182-191. https://doi.org/10.
+1016/j.jtcvs.2004.02.046
+6. Hraska V , V ergnat M, Zartner P , et al. Promising outcome of anatomic correction
+of corrected transposition of the great arteries. Ann Thorac Surg . 2017;104(2):
+650-656. https://doi.org/10.1016/j.athoracsur.2017.04.050
+7. Hra /C20ska V , Mattes A, Haun C, et al. Functional outcome of anatomic correction of
+corrected transposition of the great arteries. Eur J Cardiothorac Surg . 2011;
+40(5):1227-1234. https://doi.org/10.1016/j.ejcts.2011.01.077
+8. Murtuza B, Barron DJ, Stumper O, et al. Anatomic repair for congenitally cor-
+rected transposition of the great arteries: a single-institution 19-year experience.
+J Thorac Cardiovasc Surg. 2011;142(6):1348-1357.e1. https://doi.org/10.1016/j.
+jtcvs.2011.08.016
+9. Hiramatsu T, Matsumura G, Konuma T, Yamazaki K, Kurosawa H, Imai Y . Long-
+term prognosis of double-switch operation for congenitally corrected transposi-
+tion of the great arteries. Eur J Cardiothorac Surg . 2012;42(6):1004-1008.
+https://doi.org/10.1093/ejcts/ezs118
+10. Brizard CP , Lee A, Zannino D, et al. Long-term results of anatomic correction for
+congenitally corrected transposition of the great arteries: a 19-year experience. J
+Thorac Cardiovasc Surg . 2017;154(1):256-265.e4. https://doi.org/10.1016/j.
+jtcvs.2017.03.072
+11. Ly M, Belli E, Leobon B, et al. Results of the double switch operation for congen-
+itally corrected transposition of the great arteries. Eur J Cardiothorac Surg. 2009;
+35(5):874-879. https://doi.org/10.1016/j.ejcts.2009.01.051
+12. Marathe SP , Ch /C19avez M, Schulz A, et al. Contemporary outcomes of the double
+switch operation for congenitally corrected transposition of the great arteries. J
+Thorac Cardiovasc Surg . 2022;164(6):1980-1990.e7. https://doi.org/10.1016/j.
+jtcvs.2022.01.049
+13. Myers PO, del Nido PJ, Geva T, et al. Impact of age and duration of banding on
+left ventricular preparation before anatomic repair for congenitally corrected
+transposition of the great arteries. Ann Thorac Surg . 2013;96(2):603-610.
+https://doi.org/10.1016/j.athoracsur.2013.03.096
+14. Ibrahimiye AN, Mainwaring RD, Patrick WL, Downey L, Yarlagadda V ,
+Hanley FL. Left ventricular retraining and double switch in patients with congen-
+itally corrected transposition of the great arteries.World J Pediatr Congenit Heart
+Surg. 2017;8(2):203-209. https://doi.org/10.1177/2150135116683939
+15. Mainwaring RD, Patrick WL, Arunamata A, et al. Left ventricular retraining in
+corrected transposition: relationship between pressure and mass. J Thorac Car-
+diovasc Surg . 2020;159(6):2356-2366. https://doi.org/10.1016/j.jtcvs.2019.10.
+053
+16. Winlaw DS, McGuirk SP , Balmer C, et al. Intention-to-treat analysis of pulmo-
+nary artery banding in conditions with a morphological right ventricle in the sys-
+temic circulation with a view to anatomic biventricular repair. Circulation
+. 2005;
+111(4):405-411. https://doi.org/10.1161/01.CIR.0000153355.92687.FA
+17. Zartner PA, Schneider MB, Asfour B, Hra /C20ska V . Enhanced left ventricular
+training in corrected transposition of the great arteries by increasing the preload.
+Eur J Cardiothorac Surg . 2016;49(6):1571-1576. https://doi.org/10.1093/ejcts/
+ezv416
+18. Chen Y , Torry RJ, Baumbach GL, Tomanek RJ. Proportional arteriolar growth
+accompanies cardiac hypertrophy induced by volume overload. Am J Physiol .
+1994;267(6 Pt 2):2132-2137. https://doi.org/10.1152/ajpheart.1994.267.6.h2132
+19. Rakusan K, Flanagan MF, Geva T, Southern J, V an Praagh R. Morphometry of
+human coronary capillaries during normal growth and the effect of age in left
+ventricular pressure-overload hypertrophy. Circulation. 1992;86(1):38-46.
+https://doi.org/10.1161/01.cir.86.1.38
+20. Toba S, Sanders SP , Gauvreau K, Mayer JEJ, Carreon CK. Histopathologic
+changes after pulmonary artery banding for retraining of subpulmonary left
+ventricle. Ann Thorac Surg . 2022;114(3):858-865. https://doi.org/10.1016/j.
+athoracsur.2021.06.034
+246 JTCVS Open c October 2024
+Congenital: Transposition of the Great Arteries Schulz et al
+[[p9]]
+21. Trusler GA, Mustard WT. A method of banding the pulmonary artery for large
+isolated ventricular septal defect with and without transposition of the great ar-
+teries. Ann Thorac Surg . 1972;13(4):351-355. https://doi.org/10.1016/s0003-
+4975(10)64866-7
+22. Weixler VHM, Kramer P , Murin P , et al. Anatomic repair of congenitally cor-
+rected transposition: reappraisal of eligibility criteria. Pediatr Cardiol . 2022;
+43(6):1214-1222. https://doi.org/10.1007/s00246-022-02841-z
+23. V an De Bruaene A, De Meester P , Buys R, et al. Right ventricular load and func-
+tion during exercise in patients with open and closed atrial septal defect type se-
+cundum. Eur J Prev Cardiol . 2013;20(4):597-604. https://doi.org/10.1177/
+2047487312444372
+24. Metton O, Gaudin R, Ou P , et al. Early prophylactic pulmonary artery banding in
+isolated congenitally corrected transposition of the great arteries. Eur J Cardio-
+thorac Surg. 2010;38(6):728-734. https://doi.org/10.1016/j.ejcts.2010.03.065
+25. Mac Felmly L, Mainwaring RD, Ho DY , Arunamata A, Algaze C, Hanley FL. Re-
+sults of the double switch operation in patients who previously underwent left
+ventricular retraining. World J Pediatr Congenit Hear Surg . 2024;15(3):
+279-286. https://doi.org/10.1177/21501351231224329
+Key Words: ccTGA, enhanced L V training, left ventricular
+training, l-TGA, PAB, pulmonary artery band
+JTCVS Open c Volume 21, Number C 247
+Schulz et al Congenital: Transposition of the Great Arteries

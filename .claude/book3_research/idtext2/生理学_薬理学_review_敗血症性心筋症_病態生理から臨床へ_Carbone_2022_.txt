@@ -1,0 +1,827 @@
+
+[[p1]]
+Citation: Carbone, F.; Liberale, L.;
+Preda, A.; Schindler, T.H.;
+Montecucco, F. Septic
+Cardiomyopathy: From
+Pathophysiology to the Clinical
+Setting. Cells 2022, 11, 2833.
+https://doi.org/10.3390/
+cells11182833
+Academic Editor: David J. Grieve
+Received: 27 July 2022
+Accepted: 7 September 2022
+Published: 11 September 2022
+Publisher’s Note:MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+cells
+Review
+Septic Cardiomyopathy: From Pathophysiology to the
+Clinical Setting
+Federico Carbone 1,2
+ , Luca Liberale 1,2
+ , Alberto Preda 3
+ , Thomas Hellmut Schindler 4
+and Fabrizio Montecucco 1,2, *
+1 First Clinic of Internal Medicine, Department of Internal Medicine, University of Genoa, 16132 Genoa, Italy
+2 IRCCS Ospedale Policlinico San Martino, Genoa-Italian Cardiovascular Network, 16132 Genoa, Italy
+3 Vita-Salute San Raffaele University, 20132 Milan, Italy
+4 Mallinckrodt Institute of Radiology , Division of Nuclear Medicine, School of Medicine, Washington University ,
+Saint Louis, MO 63110, USA
+* Correspondence: fabrizio.montecucco@unige.it or fabrizio.montecucco@hsanmartino.it; Tel.: +39-010-353-8996;
+Fax: +39-010-353-8686
+Abstract: The onset of cardiomyopathy is a common feature in sepsis, with relevant effects on its
+pathophysiology and clinical care. Septic cardiomyopathy is characterized by reduced left ventricular
+(LV) contractility eventually associated with LV dilatation with or without right ventricle failure.
+Unfortunately, such a wide range of ultrasonographic ﬁndings does not reﬂect a deep comprehension
+of sepsis-induced cardiomyopathy, but rather a lack of consensus about its deﬁnition. Several echocar-
+diographic parameters intrinsically depend on loading conditions (both preload and afterload) so
+that it may be challenging to discriminate which is primitive and which is induced by hemodynamic
+perturbances. Here, we explore the state of the art in sepsis-related cardiomyopathy. We focus on
+the shortcomings in its deﬁnition and point out how cardiac performance dynamically changes in
+response to different hemodynamic clusters. A special attention is also given to update the knowledge
+about molecular mechanisms leading to myocardial dysfunction and that recall those of myocardial
+hibernation. Ultimately, the aim of this review is to highlight the unsolved issue in the ﬁeld of
+sepsis-induced cardiomyopathy as their implementation would lead to improve risk stratiﬁcation
+and clinical care.
+Keywords: sepsis; septic shock; cardiomyopathy; inﬂammation
+1. Introduction
+Since 2016, sepsis has been deﬁned as life-threatening organ dysfunction caused
+by a dysregulated host response to infection [ 1]. Such a paradigm shift emphasizes the
+supremacy of the non-homeostatic host response in infection pathophysiology. Septic
+patients may be now further categorized in different multidimensional phenotypes: at
+least four have been identiﬁed, not homologous with traditional patient clustering, but
+strongly correlated with patterns of host immune response and clinical outcomes [ 2].
+When enduring, an inﬂammatory state may lead to persistent organ injury, and long-term
+mortality—even by several months to years—in elderly with highly comorbid conditions [ 3].
+Meanwhile, a growing body of evidence is challenging the traditional view on septic car-
+diomyopathy. Historically assumed as adaptive response to intravascular hypovolemia,
+cardiac performance actually changes dynamically in accordance with different hemody-
+namic clusters [ 4]. Myocardial dysfunction is commonly found in sepsis and outlined
+by cellular abnormalities, circulating mediators and instrumental parameters. However,
+whether the degree of myocardial dysfunction is related to systemic organ failure and the
+extent to which sepsis-induced cardiomyopathy contributes to the outcome remains uncer-
+tain and somehow contradictory. This review article aims at summarizing the deﬁnition,
+Cells 2022, 11, 2833. https://doi.org/10.3390/cells11182833 https://www.mdpi.com/journal/cells
+[[p2]]
+Cells 2022, 11, 2833 2 of 14
+epidemiology, pathophysiology, and diagnosis of septic cardiomyopathy. A special focus
+will be paid at identifying and addressing major clinical shortcomings.
+2. Deﬁnition and Epidemiological Considerations
+2.1. Challenges in Deﬁning Septic Cardiomyopathy
+Septic cardiomyopathy was ﬁrst described in 1921—before the advent of antibiotics—by
+E. Romberg, in his Lehrbuch der Krankheiten des Herzens und der Blutgefäße (Textbook of
+Diseases of the Heart and Blood Vessels) as septische akute Myokarditis (septic acute my-
+ocarditis). It may be broadly deﬁned as an acute cardiac dysfunction unrelated to ischemia
+that manifests in different ways: arrhythmias, left and/or right ventricular impairment
+during systole or diastole, with or without reduction in cardiac output [5–7] (Table 1).
+Table 1. Deﬁnition of septic cardiomyopathy.
+Refs Phenotypes Deﬁning Criteria
+Diagnostic criteria for sepsis-associated
+cardiac dysfunction unrelated to ischemia *.
+Beesley et al., 2018 [5]
+Martin at al., 2019 [6]
+(i) LV dilatation with normal- or
+low-ﬁlling pressure NA
+(ii) Reduced LV ventricular
+contractility LVEF < 40–50%,↓ LVFAC
+(iii) RV dysfunction of LV (systolic or
+diastolic) dysfunction with
+reduce response to fluid challenge
+LVEF < 40–50%,↓ LVFAC, e’ velocity, MPI,
+Afterload-related cardiac performance,
+Ventricular arterial decoupling
+Cardiovascular phenotypes of septic
+cardiomyopathy classiﬁcation performance
+Geri et al., 2019 [7]
+(i) well resuscitated without
+myocardial dysfunction or ﬂuid
+responsiveness
+–
+(ii) LV systolic dysfunction L VEF < 40%, L VFAC < 33%, aortic VTI <14 cm
+(iii) Hyperkinetic proﬁle Aortic VTI > 20 cm, LVFAC > 58%,
+heart rate < 106 bpm
+(iv) RV failure RV/LV EDA > 0.8, sBP < 100 mmHg, dBP
+< 51 mmHg
+(v) persistent hypovolemia Aortic VTI < 16 cm, E wave < 67 cm/s,
+∆DSVC > 39%
+* One or more of these characteristics may deﬁne septic cardiomyopathy. LV: left ventricular; LVEF: left ventricular
+ejection fraction; LVFAC: left ventricular fractional area change; RV: right ventricle; MPI: myocardial performance
+index; MVG: myocardial velocity gradient; STE: speckle tracking echocardiography; VTI: velocity-time integral;
+EDA: end-diastolic area; sBP: systolic blood pressure; dBP: diastolic blood pressure; ∆SVC: respiratory variations
+of the superior vena cava.
+Progress in cardiac imaging now makes available several parameters of cardiac
+performance—historically limited to ejection fraction assessment—but they have para-
+doxically increased the uncertainty on how to precisely deﬁne septic cardiomyopathy.
+Further issues challenging a global consensus on septic cardiomyopathy include: (i) the
+potential role of cardiovascular background as premorbid cardiac status; (ii) the need of
+assessing cardiac function in a setting of highly variable conditions, as determined by
+inotrope use, autonomic dysregulation of heart rate/arrhythmias, ﬂuid challenge, rise in
+lactate and reduction in mixed venous oxygen saturation (Figure 1) [5–7]. Differentiating
+septic cardiomyopathy from Takotsubo cardiomyopathy is another relevant clinical issue.
+Although sepsis and septic shock may trigger Takotsubo cardiomyopathy, the underlying
+myocardial alterations are different. Furthermore, myocardial dysfunction in Takotsubo car-
+diomyopathy typically has a regional distribution, mainly an apical ballooning mimicking
+[[p3]]
+Cells 2022, 11, 2833 3 of 14
+acute coronary syndrome. Yet, a right ventricular dysfunction cannot be ruled out. Further-
+more, Takotsubo cardiomyopathy shows a normalization within days or weeks, although
+patients may suffer a worse prognosis [8–14]. The extent to which septic cardiomyopathy
+overlaps with myocarditis is also difﬁcult to discriminate. Although they share histological
+markers of stress-induced cardiotoxicity (e.g., interstitial inﬂammatory inﬁltrate and edema
+in conjunction with myocytolysis, necrosis, and interstitial ﬁbrosis), septic cardiomyopathy
+rarely presents with severe fulminant LV (left ventricular) dysfunction and is generally
+associated with full recovery of systolic performance [15]. Cardiac function during septic
+cardiomyopathy should be ultimately conceived as a dynamic assessment over time, not
+limited to echocardiographic parameters but rather considering the complex hemody-
+namic context. Gathering clinical, laboratory, and echocardiographic parameters, Geri
+and colleagues have recently identiﬁed ﬁve different cardiovascular phenotypes of septic
+cardiomyopathy (Table 1): (i) no evidence of any cardiac dysfunction; (ii) with LV systolic
+dysfunction; (iii) hyperkinetic proﬁle, as deﬁned by a preserved—or even supernormal LV
+systolic function—and an elevated aortic velocity time integral; (iv) right ventricle (RV)
+failure; (v) persistent hypovolemia [7]. Data-driven machine learning approaches are now
+unrevealing the importance of continuous monitoring cardiac function to deﬁne the correct
+hemodynamic phenotype [16]. Furthermore, the recent recognition of sepsis phenotypes
+may provide additional information—or even complicate—the deﬁnition and classiﬁca-
+tion of sepsis cardiomyopathy [2]. The analysis of about thirty candidate variables across
+1.3 million of patients from three large randomized clinical trials allowed identifying differ-
+ent patterns of organ dysfunction. Especially in the so-called δ phenotype—as compared
+with the α, β, and γ ones—the cardiovascular involvement was prevalent and associated
+with increase in inﬂammatory markers and in abnormal coagulation. Not surprisingly, this
+phenotype with prevalent cardiovascular involvement was characterized by signiﬁcantly
+higher mortality rates. Although δ phenotype is well represented by the classic SOFA
+score, its characterization deserves more investigations that would also improve deﬁnition,
+characterization, pathophysiology and, hopefully, risk of sepsis cardiomyopathy.
+Cells 2022, 11, x FOR PEER REVIEW 3 of 15 
+ 
+ 
+acute coronary syndrome. Yet, a right ventricular dysfunction cannot be ruled out. Fur-
+thermore, Takotsubo cardiomyopathy shows a normalization within days or weeks, alt-
+hough patients may suffer a worse prognosis [8–14]. The extent to which septic cardiomy-
+opathy overlaps with myocarditis is also difficult to discriminate.  Although they share 
+histological markers of stress-induced cardiotoxicity (e.g., interstitial inflammatory infil-
+trate and edema in conjunction with myocytolysis, necrosis, and interstitial fibrosis), sep-
+tic cardiomyopathy rarely presents with severe fulminant LV (left ventricular) dysfunc-
+tion and is gene rally associated with full recovery of systolic performance [ 15]. Cardiac 
+function during septic cardiomyopathy should be ultimately conceived as a dynamic as-
+sessment over time, not limited to echocardiographic parameters but rather considering 
+the complex hemodynamic context. Gathering clinical, laboratory, and echocardiographic 
+parameters, Geri and colleagues have recently identified five different cardiovascular 
+phenotypes of septic cardiomyopathy (Table 1): ( i) no evidence of any cardiac dysfunc-
+tion; (ii) with LV systolic dysfunction; ( iii) hyperkinetic profile, as defined by a pre-
+served—or even supernormal LV systolic function—and an elevated aortic velocity time 
+integral; (iv) right ventricle (RV) failure; (v) persistent hypovolemia [7]. Data-driven ma-
+chine learning approaches are now unrevealing the importance of continuous monitoring 
+cardiac function to define the correct hemodynamic phenotype [16]. Furthermore, the re-
+cent recognition of sepsis phenotypes may provide additional information—or even com-
+plicate—the definition and classification of sepsis cardiomyopathy  [2]. The analysis of 
+about thirty candidate variables across 1.3 million of patients from three large randomized 
+clinical trials allowed identifying different patterns of organ dysfunction. Especially in the 
+so-called δ phenotype —as compared with the α , β, and γ ones—the cardiovascular in-
+volvement was prevalent and associated with increase in inflammatory markers and in 
+abnormal coagulation. Not surprisingly, this phenotype with prevalent cardiovascular in-
+volvement was characterized by significantly hi gher mortality rates. Although δ pheno-
+type is well represented by the classic SOFA score, its characterization deserves more in-
+vestigations that would also improve definition, characterization, pathophysiology and , 
+hopefully, risk of sepsis cardiomyopathy. 
+ 
+Figure 1. Diagnostic challenges in septic cardiomyopathy are a consequence of its complex patho-
+physiology. Recent advances in cardiac imaging paradoxically increased the uncertainty on how to 
+define sepsis -induced cardiomyopathy. Underlying myocardial dysfunction, heart rate and the 
+need of acute interventions (i.e., fluid challenge and inotrope use) add further layer of complexity. 
+These issues highlight the importance of a dynamic assessment of cardiac performance over time, 
+not limited to echocardiographic findings but also considering the cardiac performance. 
+Figure 1. Diagnostic challenges in septic cardiomyopathy are a consequence of its complex patho-
+physiology. Recent advances in cardiac imaging paradoxically increased the uncertainty on how
+to deﬁne sepsis-induced cardiomyopathy. Underlying myocardial dysfunction, heart rate and the
+need of acute interventions (i.e., ﬂuid challenge and inotrope use) add further layer of complexity.
+These issues highlight the importance of a dynamic assessment of cardiac performance over time, not
+limited to echocardiographic ﬁndings but also considering the cardiac performance.
+[[p4]]
+Cells 2022, 11, 2833 4 of 14
+2.2. Epidemiology of Septic Cardiomyopathy
+Studies on septic cardiomyopathy report a broad range of prevalence ranging from
+10% to 70%. Lacking a broad consensus on deﬁnition, the epidemiology of septic cardiomy-
+opathy remains elusive. Such a variability reﬂects the deﬁnition used in study designs
+and the burden of confounding factors: male sex, age, high lactate levels at admission and
+pre-existing cardiac performance [5]. Long-term effects of septic cardiomyopathy are also
+poorly addressed but the prevalence of mortality seems to be higher [17] and characterized
+by a U-shaped non-linear distribution [18]. The timeline raises further issues. The relatively
+few studies published before and after the Third International Consensus Deﬁnitions for
+Sepsis and Septic Shock (Sepsis-3) are potentially biased in patient selection [ 17,19,20].
+Most of the them are limited to the setting of intensive care unit (ICU), where patients are
+somehow selected and largely differ from those admitted in internal medicine wards in
+terms of comorbidities, standards of care and outcome. Cumulative rate of sepsis admitted
+to the ICU is indeed quite low (44 vs. 367 cases per 100,000 adult/year) [21] and patients
+are generally younger and with better baseline myocardial performance. Of note, the risk
+of cardiomyopathy seems to be higher in ICU, as older comorbid patients admitted to
+internal medicine wards are likely to die before developing cardiac dysfunction. Based on
+the above considerations, a consensus deﬁnition of septic cardiomyopathy is claimed as a
+milestone for future studies.
+3. Pathophysiology of Septic Cardiomyopathy
+Endothelial, metabolic, and immune response abnormalities are generally involved in
+the pathogenesis of ventricular dysfunction and arrhythmias during sepsis, whereas the
+potential role of myocardial ischemia seems limited. Impaired blood ﬂow autoregulation
+in coronary microcirculation and altered metabolism of lactate, free fatty acid, and glucose
+likely play a leading role. Septic myocytes may indeed switch their primary energy
+substrate from free fatty acids to glucose with detrimental effects on contractility, similarly
+to that observed during post-ischemic myocardial hibernation [22]. However, the transition
+point from a protective to an adverse and maladaptive process is missing the humoral
+response in sepsis (Figure 2).
+3.1. Inﬂammatory Pathways and Cardiomyocyte Dysfunction
+The hyperinﬂammatory—not counterbalanced—response is historically reported as a
+paradigm of sepsis. Early clinical trials then focused on blunting inﬂammatory response by
+common anti-inﬂammatory drugs such as glucocorticoids, non-steroidal anti-inﬂammatory
+drugs or target therapy, with very limited results [23]. The extreme variability in pro-/anti-
+inﬂammatory balance and the wide number of molecular pathways may explain such
+disheartening results [24,25]. Ancestral signals released by pathogens (pathogen-associated
+molecular patterns, PAMPs) or by damaged host tissues (damage-associated molecular pat-
+terns, DAMPs) and receptors such as Toll-like receptors (TLRs) trigger multiple intracellular
+pathways, including the activation of nuclear factor-kB (NF-kB) and mitogen-activated
+protein kinase (MAPK) [26–28]. The DAMPs with a recognized role in the pathophysiology
+of septic cardiomyopathy include: heparan sulphate, which increases intranuclear transcrip-
+tion of pro-inﬂammatory cytokines and vascular permeability [29]; high mobility group
+protein B1, which induces loss of calcium from sarcoplasmic reticulum [30]; and histones,
+which are able to interfere with the production of cellular ATP by reducing mitochondrial
+membrane potential and causing LV dysfunction and arrhythmias [31]. Among PAMPs,
+bacterial lipopolysaccharide (LPS) partially mimics hemodynamic effects of septic shock
+when administered to animal models or humans [32,33]. Detrimental effects of endotox-
+emia on cardiac contractility are largely due to mitochondrial dysfunction that leads to
+abnormal calcium handling, disruption of ATP synthesis, endothelium reticulum stress, and
+autophagy. Furthermore, LPS leads to electrophysiological dysfunctions through a both a
+direct and cytokine-mediated effect on sodium current kinetics and non-selective cation
+channel transient receptor potential vanilloid 1 (TRPV1) [34–37]. Furthermore, LPS and its
+[[p5]]
+Cells 2022, 11, 2833 5 of 14
+downstream mediator TNF-α, IL-1β, IL-6, and C5a and ROS [38,39] critically alter calcium
+(Ca2+) homeostasis by blunting the amplitude of intracellular currents and concentrations.
+Dysfunction of intracellular calcium transporters and decreased calcium sensitivity in
+cardiac myoﬁlaments (due to phosphorylation of inhibitory troponin I) are cornerstones of
+the impaired excitation-contraction coupling. Ultimately, endotoxemia impairs sarcolemma
+diastolic Ca2+ extrusion with consequent overload [ 40–43] that determines systolic and
+diastolic dysfunction during sepsis [44,45]. The characteristic delayed reversibility of septic
+cardiomyopathy might be explained by the synthesis of new myoﬁlaments to replace the
+previously phosphorylated (and therefore inactive) ones.
+Cells 2022, 11, x FOR PEER REVIEW 5 of 15 
+ 
+ 
+ 
+Figure 2. Hemodynamic stress and systemic inflammation exert a synergistic effect on myocardial 
+function impairment during sepsi s. Systemic response to sepsis triggers and sustains myocardial 
+dysfunction through several pathways: by impairing the compensatory reaction of sympathetic sys-
+tem with consequent microvascular dysfunction and—In parallel—through theimmune system ac-
+tivation and microvascular dysfunction (black arrows). Those mechanisms deeply impair myocar-
+dial tissue through a cascade involving damage - and pathogen -associated molecular pattern 
+(DAMPs and PAMPs, respectively), Toll-like receptors (TLRs), complement and release of cytokines 
+and reactive oxygen species. 
+3.1. Inflammatory Pathways and Cardiomyocyte Dysfunction 
+The hyperinflammatory—not counterbalanced—response is historically reported as 
+a paradigm of sepsis. Early clinical trials then focused on blunting inflammatory response 
+by common anti-inflammatory drugs such as glucocorticoids, non- steroidal anti-inflam-
+matory drugs or target therapy, with very limited results [23]. The extreme variability in 
+pro-/anti-inflammatory balance and the wide number of molecular pathways may explain 
+such disheartening results [24,25]. Ancestral signals released by pathogens (pathogen-as-
+sociated molecular patterns, PAMPs) or by damaged host tissues (damage-associated mo-
+lecular patterns, DAMPs) and receptors such as Toll-like receptors (TLRs) trigger multiple 
+intracellular pathways, including the activation of nuclear factor -kB (NF-kB) and mito-
+gen-activated protein kinase (MAPK) [26–28]. The DAMPs with a recognized role in the 
+pathophysiology of septic cardiomyopathy include : heparan sulphate, which increases 
+intranuclear transcription of pro-inflammatory cytokines and vascular permeability [29]; 
+high mobility group protein B1, which induces loss of calcium from sarcoplasmic reticu-
+lum [30]; and histones, which are able to interfere with the production of cellular ATP by 
+reducing mitochondrial membrane potential and causing LV dysfunction and arrhyth-
+mias [31]. Among PAMPs, bacterial lipopolysaccharide (LPS) partially mimics hemody-
+namic effects of septic shock when administered to animal models or humans [32,33]. Det-
+rimental effects of endotoxemia on cardiac contractility are largely due to mitochondrial 
+dysfunction that leads to abnormal calcium handling, disruption of ATP synthesis, endo-
+thelium reticulum stress, and autophagy. Furthermore, LPS leads to electrophysiological 
+Figure 2. Hemodynamic stress and systemic inﬂammation exert a synergistic effect on myocardial
+function impairment during sepsis. Systemic response to sepsis triggers and sustains myocardial
+dysfunction through several pathways: by impairing the compensatory reaction of sympathetic
+system with consequent microvascular dysfunction and—In parallel—through theimmune system ac-
+tivation and microvascular dysfunction (black arrows). Those mechanisms deeply impair myocardial
+tissue through a cascade involving damage- and pathogen-associated molecular pattern (DAMPs and
+PAMPs, respectively), Toll-like receptors (TLRs), complement and release of cytokines and reactive
+oxygen species.
+Signals regulated by the TLRs expressed on myocyte surface (TLR2, TRL3, TLR4
+and TLR9) lead to transcription of several pro-inﬂammatory cardiac depressive factors
+and cytokines such as interleukin (IL)-1, IL-6, tumor necrosis factor (TNF)-α and comple-
+ment anaphylatoxin C5a [46,47]. LV ejection fraction (LVEF) was found higher in septic
+mouse with TRL3 and TLR9 gene deletion, suggesting their role in the mechanism of
+sepsis-induced cardiac dysfunction [ 48]. Likewise, TLR4 regulates oxidative stress in
+ryanodine receptor 2 involved in the storage of calcium within sarcoplasmic reticulum
+[[p6]]
+Cells 2022, 11, 2833 6 of 14
+of cardiomyocytes [ 49], and its inhibition showed protective effects [ 50]. C5a is so far
+the only complement factor with reported direct myocardial depressive effect, despite
+several cardiac enzymes related to cardiac dysfunction during sepsis, such as serca2, NCX
+and Na+/K+-atpase, which are complement receptor dependent [ 51]. Finally, adhesion
+molecules take part in homing mechanisms and are upregulated during inﬂammatory re-
+sponse. In murine coronary endothelium and cardiomyocytes, speciﬁc adhesion molecules
+were upregulated after LPS and TNF-α infusion. Moreover, the use of antibody blocking
+these molecules such as anti-Intercellular adhesion molecule-1 (ICAM-1) and vascular
+adhesion molecule-1 (VCAM-1) showed to prevent myocardial neutrophil accumulation
+and cardiac dysfunction in animal models of sepsis [ 52]. On the contrary, neutrophils
+depletion did not protect against myocardial dysfunction during sepsis, suggesting their
+lesser cardiotoxic potential.
+Nitric oxide (NO) is synthesized by nitric oxide synthase (NOS) in different cells of the
+CV system including cardiac myocytes, and it exerts important roles in maintaining tissue
+homeostasis by reducing oxidative stress. Indeed, via the cGMP pathway , NO regulates vascu-
+lar tone, has an antioxidant effect, inhibits leukocyte and platelet adhesion to the endothelium,
+and increases myocardial contractility [53]. Inflammation and oxidative stress show deep
+interplay , fueling each other and facilitating the onset of deleterious vicious circles in different
+diseases including sepsis. Differently from its endothelial and neuronal isoforms, inducible
+NOS (iNOS) is not constitutively active and when highly expressed is a major responsible for
+vasodilatation and hypotension in shock [54]. Indeed, iNOS can produce large amount of NO
+when an inflammatory response occurs [55]. Sepsis leads to overexpression of iNOS not only
+in immune cells but also in the myocardium [56]. Such increased expression has detrimental
+effects on contractile function of cardiomyocytes, in part through the paradoxical induction of
+reactive oxygen species (ROS), i.e., peroxynitrite [57], in part through the down-regulation of
+adrenaline receptors and decreased sensitivity to calcium [29]. Confirming the important role
+played by iNOS in myocardial dysfunction during sepsis, several non-specific anti-NOS drugs
+such as melatonin and methylene blue showed beneficial effects in terms of cardiovascular
+function and prognosis in preclinical studies [57,58].
+3.2. Adrenergic System
+Increased activation of the sympathetic system is a major compensatory reaction to
+septic-related vasoplegia. During sepsis, β-adrenergic receptors (βARs) are downregu-
+lated, and the responsiveness to catecholamines is reduced in the whole cardiovascular
+system [59,60]. When persistent, this adaptive response become maladaptive [61]. In my-
+ocardial tissue, excessive stimulation of cardiacβARs suppresses their expression and leads
+to an inhibitory response with reverse of adrenergic G protein coupling [62], intracellular
+calcium overload [63], increased production of ROS [64], disruption of membrane potential
+via the inhibition of Na +/K+-ATPase pump [65], and induction of apoptosis [ 66]. A rel-
+evant role is played by Cardiac G Protein-Coupled Receptor Kinase 2 (GRK2). They are
+the major negative regulators of βAR pro-contractile signal in sepsis-induced myocardial
+dysfunction [67] and other different cardiac diseases including chronic heart failure and
+Takotsubo syndrome [68].
+3.3. Microvascular Dysfunction and Vasoactive Peptides
+Activation of endothelial cells in consequence of an infective stimulus leads to the
+synthesis of inﬂammatory cytokines, increased expression of cell adhesion molecules, loss of
+the barrier function by glycocalyx shedding, edema, apoptosis, hypercoagulative state and
+vasoplegia [69]. Several endogenous vasoactive peptides generate and maintain endothelial
+dysregulation. LPS and cytokines up-regulate cyclooxygenase (COX)-2 (inducible form)
+and then the production of prostanoids from arachidonic acid. This process mainly occurs
+in inﬂammatory cells, myoﬁbroblasts, endothelium and even in cardiomyocytes (i.e., in
+myocardial infarction) [70,71]. Elevated levels of prostanoids such as thromboxane and
+prostacyclin are associated with coronary microvascular dysfunction [72]. However, clinical
+[[p7]]
+Cells 2022, 11, 2833 7 of 14
+trials have failed so far in proving any beneﬁcial effect of pharmacological COX inhibition
+on coronary microvascular homeostasis in sepsis. Less is known about the potential role of
+endothelin-1 (ET-1) in sepsis cardiomyopathy, whereas an increase has been reported in
+chronic cardiac disease (i.e., heart failure) [73]. ET-1 would have a major role in infectious
+disease, as a promoter of cytokines release, platelet aggregation and vasoreactivity [ 74].
+In single mouse study, cardiac overexpression of ET-1 was associated with the onset of
+severe sepsis cardiomyopathy, characterized by interstitial inﬁltration of macrophages and
+T lymphocytes and increased levels of the pro-inﬂammatory cytokines TNF- α, INF-γ, IL-1,
+and IL-6 [75].
+3.4. Energetic Dysmetabolism
+Sepsis is characterized by altered myocardial lipoprotein metabolism and mobilization
+of triglycerides and free fatty acids to overwhelm the systemic suppression of energy
+production [76]. Physiologically, about 70% of cardiac ATP is produced via lipid oxidation,
+while the rest is produced via glucose oxidation. A minor part also derives from the
+catabolism of lactate and ketone bodies. Under pathological conditions, glucose oxidation
+becomes the prevalent energetic pathway [ 77]. During sepsis, a reduction in fatty acid
+oxidation is not compensated by the increase in glucose catabolism due to altered insulin
+action, exacerbation of the inhibitory effects of alternative substrates on glycolysis, and
+blunted glycogen synthesis [78]. Several enzymes involved in intracellular cardiac fatty
+acid mobilization and oxidation are also inhibited [79,80]. Cardiac transcriptional factors
+associated with fatty acid oxidation, such as peroxisome proliferator activated receptors
+(PPARs) are also suppressed in sepsis and their stimulation with PPARs agonists lead
+to improved survival in septic mice [81]. Mitochondrial dysfunction further contributes
+to the energetic failure in sepsis cardiomyopathy, thus being a non-negligible cause of
+reduced outcome [82–84]. Inﬂammation and oxidative stress alter mitochondrial structure
+determining swelling, cytoplasmic accumulation of denatured protein and lysosomal
+lesions [85,86]. Such a damage interferes with the respiratory chain [87] with falling in ATP
+synthesis, release of calcium and pro-apoptotic proteins [88]. The pro-oxidant environment
+induced by endotoxemia also trigger cardiac mitophagy, a defensive mechanism for the
+removal of damaged mitochondria [89]. The antioxidant N-acetylcysteine seems to have a
+protective roles against contractile dysfunction and mitophagy. Even levosimendam in both
+mice and human beings has beneﬁcial effects due to calcium sensitization and antioxidant
+properties [90]. Lastly, when the degree of mitochondrial dysfunction is mild, myocardial
+hibernation may occur. This is an adaptive, self-protective mechanism during which all
+functions get reduced. Such a downregulation of mitochondrial gene transcription has
+been reported in sepsis cardiomyopathy [ 91] and represents a reversible condition that
+improves together with the resolution of sepsis [84].
+4. Clinical Diagnosis
+A combination of clinical, biochemical and hemodynamic parameters is increasingly
+described as the best approach to identify and stratify septic cardiomyopathy.
+4.1. Doppler Echocardiography: From Classic to Innovative Assessment
+Echocardiography is considered the ﬁrst line approach for the global assessment of
+patients with septic shock. The use of ultrasound in this ﬁeld has progressed over years but
+the application of echocardiography for diagnosis/monitoring of septic cardiomyopathy
+remains challenging. The dependence on loading conditions is a not overcoming intrinsic
+limitation for several echocardiographic parameters, which rather reﬂect the degree of ﬂuid
+resuscitation/vascular leak (i.e., preload) and vasoplegia/response to vasoactive drugs
+(i.e., afterload) [7]. This is especially true for LVEF, traditionally considered the hallmark of
+septic cardiomyopathy. Indeed, merely identifying low LVEF (<50%) during sepsis does
+not have predictive value in these patients [ 92]. Rather, LVEF would reﬂect the above-
+mentioned U-shaped non-linear distribution. Indeed even a hyperdynamic LVEF—mostly
+[[p8]]
+Cells 2022, 11, 2833 8 of 14
+expression of reduced afterload—is burdened by higher short-term mortality [ 93]. As par-
+tially afterload-independent measures, tissue Doppler imaging (TDI) and speckle-tracking
+echocardiography (STE) are promising candidates. Unlike the peak systolic velocity of
+the mitral annulus (referred to as S’) [20], the global longitudinal strain (GLS) is substan-
+tially more performing. GLS is a semi-automated algorithm tracking selected region of
+myocardium during cardiac cycle (more speciﬁcally the ratio of the maximal change in the
+myocardial longitudinal length in systole to the original length in diastole). GLS may detect
+the impairment of LV systolic function before LVEF declines and worse GLS values are asso-
+ciated with higher mortality in patients with severe sepsis and septic shock [94]. Looking at
+the future, coupling afterload and cardiac performance might optimize echocardiographic
+assessment by overcoming this critical bias.
+A rise in end-diastolic volume is common in septic shock patients—especially in
+those receiving large volemic replacement—and likely associated with poor outcome. The
+rationale for considering diastolic dysfunction in sepsis-induced cardiomyopathy relies
+on the upstream effect on pulmonary circulation, right heart, and ﬁnally tissue edema.
+However, the mining of diastolic dysfunction in sepsis cardiomyopathy remains to be
+elucidated. The concept of sepsis-induced cardiomyopathy is originally based on the
+abnormal LV function, but the risk ratio of patients with concomitant diastolic dysfunction
+is not yet established. In particular, the TDI-derived velocity of the mitral annulus during
+early diastole (e’)—considered relatively preload independent—and the ratio with the
+peak of trans-mitral inﬂow velocity (E) are substantially associated with mortality [ 95].
+However, pathophysiological and therapeutic implications of diastolic dysfunction are still
+weak. The assessment of diastolic function is not yet validated for critically ill patients, and
+data extrapolation is very challenging when the increase in LV end-diastolic pressure is
+inﬂuenced by underlying cardiac performance (frequently unknown) and a variable degree
+of ﬂuid resuscitation/vascular leak). Furthermore, mitral annulus velocity is inﬂuenced by
+heart rate in hyperdynamic cardiac output.
+Right ventricle (RV) dysfunction is increasingly being reported in patients with sepsis.
+It can be deﬁned as a fractional area change (FAC) less than 35% or tricuspid annulus systolic
+plane excursion (TAPSE)—the most reproducible measure—less than 16 mm. Systolic RV
+pressure may also be easily calculated from tricuspid regurgitation ﬂow. RV dysfunction is
+common in severe sepsis/septic shock. Its prevalence ranges from 40% to 60% at admission
+but signiﬁcantly increase when the enrollment lasts up to 72 h. RV dysfunction correlated
+with longer stay in ICU, and independently associated with higher risk of both early
+and long-term mortality [96–98]. Nevertheless, conﬂicting results exist and the complex
+geometry of RV—alongside the tight ventricular interdependence—raises many questions.
+RV is a thin-walled structure facing off a high-compliance/low-resistance pulmonary
+circulation. In sepsis, a paradoxical increase in pulmonary vasculature resistance may
+occur, due to hypoxic vasoconstriction, pulmonary source of infection/acute respiratory
+distress syndrome (ARDS), hypercapnia, and mechanical ventilation. Fluid overload
+further increases the preload on RV , leading to isolated RV dysfunction. In addition, LV
+dysfunction remains the leading cause of RV dysfunction and the association with poor
+outcome might be rather a “false positive” [99].
+4.2. Cardiac Performance
+The afterload-related cardiac performance (ACP) is a relative old concept ﬁrstly intro-
+duced in 2011 and deﬁned as [100]:
+ACP (%) = COmeasured/COpredicted× 100%
+In turn, Cardiac Output (CO) predicted may be calculated as a function of systemic
+vascular resistance (SVR):
+COpredicted = β0× SVRβ1 (β0 = 394.07, β1 =−0.64)
+[[p9]]
+Cells 2022, 11, 2833 9 of 14
+In preliminary studies, ACP estimation correlates with both APACHE II and SOFA
+scores, even improving mortality prediction in both early and late stages of sepsis. ACP is now
+considered as valid prognostic marker in sepsis and septic shock, ACP values lower than 80%
+are associated with a higher risk of mortality in septic patients [101,102]. When defining septic
+cardiomyopathy by ACP (<80%), a recent study from Wilhelm and coll. reported that about
+50% of patients with septic shock have at least a moderate septic cardiomyopathy , and that
+the lower the ACP the higher is mortality in this group of patients [103]. While validation in
+larger studies is needed, the use of a machine learning approach to implement this algorithm
+might further improve the model’s performance. Diameter and collapsibility of inferior vena
+cava and B line quantification at lung ultrasound are further intriguing surrogate measures of
+cardiac performance that deserve future investigations.
+4.3. Biomarkers
+The lack of a consensus definition and the uncertainties on pathophysiology of septic
+cardiomyopathy makes it difficult to identify and validate biomarkers of disease. Being
+associated with cardiac injury , troponins and natriuretic peptides rise during sepsis and
+correlate with the degree of myocardial dysfunction [104]. The mechanisms of troponin
+release during sepsis remain to be fully elucidated, but inflammation, myocardial wall stress,
+drug toxicity and kidney dysfunction rather than cell death are likely be implicated. Newly
+developed echocardiographic parameters, including TDI e STE applied to both left and right
+ventricles correlated with troponin levels [105], but their association with mortality likely
+reflects the severity of disease rather than the effective degree of myocardial dysfunction [94].
+Brain natriuretic peptides (BNP and NT-proBNP) are secreted by myocardial cells in
+response to stretch. This would candidate BNPs as surrogate biomarkers of LV dysfunction.
+A signiﬁcant association with both systolic and diastolic LV dysfunction was actually—but
+not unequivocally—demonstrated for BNPs. Preliminary data also link the rise in BNPs
+with RV dysfunction [106]. However, increased BNP levels during sepsis may be due to
+different conditions including lung involvement (e.g., source of infection, ARDS, mechani-
+cal ventilation), pre-existing cardiac dysfunction, and renal impairment. BNPs also failed
+to predict the responsiveness to ﬂuid challenge, and cannot be used as a reliable biomarker
+of volemic status during severe sepsis/septic shock 98. Even concerning mortality, the rise
+in BNPs is associated with higher risk in meta-analyses but with substantial heterogeneity
+across the studies [107,108]. As for acute decompensated heart failure, serial measurement
+of BNPs might improve the performance of these biomarkers and clarify whether the
+prognostic value is speciﬁcally tied with cardiac dysfunction or rather with sepsis severity.
+The emerging ﬁeld of non-coding RNAs (ncRNAs) recently opened new scenarios
+for modulation of inﬂammation in sepsis, including sepsis-related cardiomyopathy 101.
+Among the wide array of ncRNA, a massive amount of experimental data concerns mi-
+croRNAs (miRNAs) with good potential for clinical translation [109]. Among the growing
+number of miRNAs with clinical interest for sepsis/induced cardiomyopathy, the best
+predictors of cardiac injury are miR21-3p and miR-155, but correlations with myocardial
+dysfunction degree are also reported for miR-135a and miR-494-3p.
+The cytokine storm makes it difﬁcult to identify biomarkers of sepsis cardiomyopathy
+across cytokines/interleukins. A single observational study has reported an association
+with IL-8 [ 110]. Something more might be expected from artiﬁcial intelligence in the
+next future. Bioinformatics analyses has the potential for deciphering this complex sig-
+nals. Tumor necrosis factor, Jak-signal transducer and activator of transcription (STAT),
+hypoxia-inducible transcription factor-1, and their interactions are increasingly described
+as crossroads of sepsis cardiomyopathy [111].
+5. Conclusions and Outlook
+The most important goal in the ﬁeld of septic cardiomyopathy might be its recog-
+nition. The lack of a consensus deﬁnition led to divergence about its clinical relevance,
+whereas the advance in echocardiographic technology/algorithm is worryingly—and
+[[p10]]
+Cells 2022, 11, 2833 10 of 14
+paradoxically—tangling up the search for a general agreement. Of paramount importance
+for standardizing the deﬁnition of septic cardiomyopathy would be to discriminate whether
+this is primitive and how it can induce hemodynamic perturbances. In addition, the dy-
+namicity of changes in myocardial function should be considered. There is also growing
+awareness that mild declines in cardiac performance are rather to be considered as an
+adaptive response. In line with these missing points, studies outlining treatment goals for
+sepsis cardiomyopathy are lacking. The “early goal-directed therapy” still remains the
+current approach, since 2001, although this was not conﬁrmed in later clinical trials (e.g.,
+ProCESS, ARISE, ProMISe) [112–114]. As for sepsis, infection control and optimization
+of hemodynamic parameters are also considered the standard treatment for sepsis car-
+diomyopathy. Even the assumption of complete recovery in the long-term after the sepsis
+need to be revised. Long-term outcomes need to be added in study protocols, and this
+requires adequate infrastructures for monitoring cardiovascular health status after severe
+sepsis/septic shock. Overall, those unsolved questions have so far limited any therapeu-
+tic implications. Implementing those unsolved issues might improve risk stratiﬁcation
+and ultimately promote the translation of therapeutic approaches now conﬁned to the
+experimental ﬁeld.
+Author Contributions: All authors contributed by writing (F.C. and A.P .), reviewing (T.H.S. and
+F.M.) and editing (L.L.) this review article. All authors have read and agreed to the published version
+of the manuscript.
+Funding: This research was funded by a grant from the Rete Cardiologica of Italian Ministry of Health
+(#2754291) to Federico Carbone. The research was funded by a grant from the Internal Medicine
+Department of the University of Genoa to Federico Carbone.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Singer, M.; Deutschman, C.S.; Seymour, C.W.; Shankar-Hari, M.; Annane, D.; Bauer, M.; Bellomo, R.; Bernard, G.R.; Chiche,
+J.D.; Coopersmith, C.M.; et al. The third international consensus deﬁnitions for sepsis and septic shock (sepsis-3). JAMA 2016,
+315, 801–810. [CrossRef] [PubMed]
+2. Seymour, C.W .; Kennedy , J.N.; W ang, S.; Chang, C.H.; Elliott, C.F .; Xu, Z.; Berry , S.; Clermont, G.; Cooper, G.; Gomez, H.; et al. Derivation,
+validation, and potential treatment implications of novel clinical phenotypes for sepsis.JAMA2019, 321, 2003–2017. [CrossRef] [PubMed]
+3. Delano, M.J.; Ward, P .A. Sepsis-induced immune dysfunction: Can immune therapies reduce mortality?J. Clin. Investig. 2016,
+126, 23–31. [CrossRef]
+4. Daulasim, A.; Vieillard-Baron, A.; Geri, G. Hemodynamic clinical phenotyping in septic shock. Curr. Opin. Crit. Care 2021,
+27, 290–297. [CrossRef] [PubMed]
+5. Beesley, S.J.; Weber, G.; Sarge, T.; Nikravan, S.; Grissom, C.K.; Lanspa, M.J.; Shahul, S.; Brown, S.M. Septic cardiomyopathy.
+Crit. Care Med. 2018, 46, 625–634. [CrossRef]
+6. Martin, L.; Derwall, M.; Al Zoubi, S.; Zechendorf, E.; Reuter, D.A.; Thiemermann, C.; Schuerholz, T. The septic heart: Current
+understanding of molecular mechanisms and clinical implications. Chest 2019, 155, 427–437. [CrossRef]
+7. Geri, G.; Vignon, P .; Aubry , A.; Fedou, A.L.; Charron, C.; Silva, S.; Repesse, X.; Vieillard-Baron, A. Cardiovascular clusters in septic
+shock combining clinical and echocardiographic parameters: A post hoc analysis.Intensive Care Med.2019, 45, 657–667. [CrossRef]
+8. El-Battrawy, I.; Lang, S.; Ansari, U.; Tulumen, E.; Schramm, K.; Fastner, C.; Zhou, X.; Hoffmann, U.; Borggrefe, M.; Akin, I.
+Prevalence of malignant arrhythmia and sudden cardiac death in takotsubo syndrome and its management. Europace 2018,
+20, 843–850. [CrossRef]
+9. Vallabhajosyula, S.; Deshmukh, A.J.; Kashani, K.; Prasad, A.; Sakhuja, A. Tako-tsubo cardiomyopathy in severe sepsis: Nationwide
+trends, predictors, and outcomes. J. Am. Heart Assoc. 2018, 7, e009160. [CrossRef]
+10. Dias, A.; Nunez Gil, I.J.; Santoro, F.; Madias, J.E.; Pelliccia, F.; Brunetti, N.D.; Salmoirago-Blotcher, E.; Sharkey, S.W.; Eitel, I.;
+Akashi, Y.J.; et al. Takotsubo syndrome: State-of-the-art review by an expert panel—Part 1. Cardiovasc. Revasc. Med. 2019,
+20, 70–79. [CrossRef]
+[[p11]]
+Cells 2022, 11, 2833 11 of 14
+11. Dias, A.; Nunez Gil, I.J.; Santoro, F.; Madias, J.E.; Pelliccia, F.; Brunetti, N.D.; Salmoirago-Blotcher, E.; Sharkey, S.W.; Eitel, I.;
+Akashi, Y.J.; et al. Takotsubo syndrome: State-of-the-art review by an expert panel—Part 2. Cardiovasc. Revasc. Med. 2019,
+20, 153–166. [CrossRef] [PubMed]
+12. El-Battrawy, I.; Santoro, F.; Stiermaier, T.; Moller, C.; Guastaﬁerro, F.; Novo, G.; Novo, S.; Santangelo, A.; Mariano, E.; Romeo, F.;
+et al. Prevalence, management, and outcome of adverse rhythm disorders in takotsubo syndrome: Insights from the international
+multicenter geist registry. Heart Fail. Rev. 2020, 25, 505–511. [CrossRef] [PubMed]
+13. El-Battrawy, I.; Santoro, F.; Stiermaier, T.; Moller, C.; Guastaﬁerro, F.; Novo, G.; Novo, S.; Mariano, E.; Romeo, F.; Romeo, F.; et al.
+Incidence and clinical impact of right ventricular involvement (biventricular ballooning) in takotsubo syndrome: Results from
+the geist registry. Chest 2021, 160, 1433–1441. [CrossRef]
+14. El-Battrawy, I.; Cammann, V .L.; Kato, K.; Szawan, K.A.; Di Vece, D.; Rossi, A.; Wischnewsky, M.; Hermes-Laufer, J.; Gili, S.;
+Citro, R.; et al. Impact of atrial ﬁbrillation on outcome in takotsubo syndrome: Data from the international takotsubo registry.
+J. Am. Heart Assoc. 2021, 10, e014059. [CrossRef] [PubMed]
+15. Schmittinger, C.A.; Dunser, M.W.; Torgersen, C.; Luckner, G.; Lorenz, I.; Schmid, S.; Joannidis, M.; Moser, P .; Hasibeder, W .R.; Halabi, M.;
+et al. Histologic pathologies of the myocardium in septic shock: A prospective observational study .Shock 2013, 39, 329–335. [CrossRef]
+16. Liu, R.; Greenstein, J.L.; Granite, S.J.; Fackler, J.C.; Bembea, M.M.; Sarma, S.V .; Winslow, R.L. Data-driven discovery of a novel
+sepsis pre-shock state predicts impending septic shock in the icu. Sci. Rep. 2019, 9, 6145. [CrossRef] [PubMed]
+17. Vallabhajosyula, S.; Shankar, A.; Vojjini, R.; Cheungpasitporn, W.; Sundaragiri, P .R.; DuBrock, H.M.; Sekiguchi, H.; Frantz, R.P .;
+Cajigas, H.R.; Kane, G.C.; et al. Impact of right ventricular dysfunction on short-term and long-term mortality in sepsis: A
+meta-analysis of 1,373 patients. Chest 2021, 159, 2254–2263. [CrossRef]
+18. Beesley , S.J.; Sorensen, J.; Walkey , A.J.; Tonna, J.E.; Lanspa, M.J.; Hirshberg, E.; Grissom, C.K.; Horne, B.D.; Burk, R.; Abraham, T.P .; et al.
+Long-term implications of abnormal left ventricular strain during sepsis.Crit. Care Med.2021, 49, e444–e453. [CrossRef] [PubMed]
+19. Huang, S.J.; Nalos, M.; McLean, A.S. Is early ventricular dysfunction or dilatation associated with lower mortality rate in adult
+severe sepsis and septic shock? A meta-analysis. Crit. Care 2013, 17, R96. [CrossRef]
+20. Sanﬁlippo, F.; Huang, S.; Messina, A.; Franchi, F.; Oliveri, F.; Vieillard-Baron, A.; Cecconi, M.; Astuto, M. Systolic dysfunction as
+evaluated by tissue doppler imaging echocardiography and mortality in septic patients: A systematic review and meta-analysis.
+J. Crit. Care 2021, 62, 256–264. [CrossRef]
+21. Esteban, A.; Frutos-Vivar, F.; Ferguson, N.D.; Penuelas, O.; Lorente, J.A.; Gordo, F.; Honrubia, T.; Algora, A.; Bustos, A.; Garcia,
+G.; et al. Sepsis incidence and outcome: Contrasting the intensive care unit with the hospital ward. Crit. Care Med. 2007,
+35, 1284–1289. [CrossRef] [PubMed]
+22. Levy, R.J.; Piel, D.A.; Acton, P .D.; Zhou, R.; Ferrari, V .A.; Karp, J.S.; Deutschman, C.S. Evidence of myocardial hibernation in the
+septic heart. Crit. Care Med. 2005, 33, 2752–2756. [CrossRef] [PubMed]
+23. Cavaillon, J.M.; Singer, M.; Skirecki, T. Sepsis therapies: Learning from 30 years of failure of translational research to propose new
+leads. EMBO Mol. Med. 2020, 12, e10128. [CrossRef] [PubMed]
+24. Venet, F.; Davin, F.; Guignant, C.; Larue, A.; Cazalis, M.A.; Darbon, R.; Allombert, C.; Mougin, B.; Malcus, C.; Poitevin-Later, F.;
+et al. Early assessment of leukocyte alterations at diagnosis of septic shock. Shock 2010, 34, 358–363. [CrossRef] [PubMed]
+25. Davies, R.; O’Dea, K.; Gordon, A. Immune therapy in sepsis: Are we ready to try again?J. Intensive Care Soc.2018, 19, 326–344. [CrossRef] [PubMed]
+26. Conway-Morris, A.; Wilson, J.; Shankar-Hari, M. Immune activation in sepsis.Crit. Care Clin.2018, 34, 29–42. [CrossRef] [PubMed]
+27. Hawiger, J. Heartfelt sepsis: Microvascular injury due to genomic storm. Kardiol. Pol. 2018, 76, 1203–1216. [CrossRef]
+28. Rosengart, M.R.; Nathens, A.B.; Arbabi, S.; Neff, M.J.; Garcia, I.; Martin, T.R.; Maier, R.V . Mitogen-activated protein kinases in the
+intensive care unit: Prognostic potential. Ann. Surg. 2003, 237, 94–100. [CrossRef]
+29. Martin, L.; Schmitz, S.; De Santis, R.; Doemming, S.; Haase, H.; Hoeger, J.; Heinbockel, L.; Brandenburg, K.; Marx, G.; Schuerholz,
+T. Peptide 19-2.5 inhibits heparan sulfate-triggered inﬂammation in murine cardiomyocytes stimulated with human sepsis serum.
+PLoS ONE 2015, 10, e0127584. [CrossRef]
+30. W ang, H.; W ard, M.F .; Sama, A.E. Novel hmgb1-inhibiting therapeutic agents for experimental sepsis.Shock2009, 32, 348–357. [CrossRef]
+31. Alhamdi, Y.; Abrams, S.T.; Cheng, Z.; Jing, S.; Su, D.; Liu, Z.; Lane, S.; Welters, I.; Wang, G.; Toh, C.H. Circulating histones are
+major mediators of cardiac injury in patients with sepsis. Crit. Care Med. 2015, 43, 2094–2103. [CrossRef] [PubMed]
+32. Suffredini, A.F.; Fromm, R.E.; Parker, M.M.; Brenner, M.; Kovacs, J.A.; Wesley, R.A.; Parrillo, J.E. The cardiovascular response of
+normal humans to the administration of endotoxin. N. Engl. J. Med. 1989, 321, 280–287. [CrossRef] [PubMed]
+33. Danner, R.L.; Elin, R.J.; Hosseini, J.M.; Wesley, R.A.; Reilly, J.M.; Parillo, J.E. Endotoxemia in human septic shock. Chest 1991,
+99, 169–175. [CrossRef]
+34. Yucel, G.; Zhao, Z.; El-Battrawy, I.; Lan, H.; Lang, S.; Li, X.; Buljubasic, F.; Zimmermann, W.H.; Cyganek, L.; Utikal, J.; et al.
+Lipopolysaccharides induced inﬂammatory responses and electrophysiological dysfunctions in human-induced pluripotent stem
+cell derived cardiomyocytes. Sci. Rep. 2017, 7, 2935. [CrossRef]
+35. Sattler, K.; El-Battrawy, I.; Cyganek, L.; Lang, S.; Lan, H.; Li, X.; Zhao, Z.; Utikal, J.; Wieland, T.; Borggrefe, M.; et al. Trpv1
+activation and internalization is part of the lps-induced inﬂammation in human ipsc-derived cardiomyocytes. Sci. Rep. 2021,
+11, 14689. [CrossRef] [PubMed]
+36. Liao, Z.; Li, Y.; Fan, X.; Yang, Z.; El-Battrawy, I.; Zhou, X.; Akin, I. Lipopolysaccharide modiﬁes sodium current kinetics through ros
+and pkc signalling in induced pluripotent stem-derived cardiomyocytes from brugada syndrome patient. J. Cardiovasc. Dev. Dis.
+2022, 9, 119. [CrossRef]
+[[p12]]
+Cells 2022, 11, 2833 12 of 14
+37. Fan, X.; Yang, G.; Kowitz, J.; Akin, I.; Zhou, X.; El-Battrawy, I. Takotsubo syndrome: Translational implications and pathomecha-
+nisms. Int. J. Mol. Sci. 2022, 23, 1951. [CrossRef] [PubMed]
+38. Natanson, C.; Eichenholz, P .W.; Danner, R.L.; Eichacker, P .Q.; Hoffman, W.D.; Kuo, G.C.; Banks, S.M.; MacVittie, T.J.; Parrillo, J.E.
+Endotoxin and tumor necrosis factor challenges in dogs simulate the cardiovascular proﬁle of human septic shock. J. Exp. Med.
+1989, 169, 823–832. [CrossRef]
+39. Kalbitz, M.; Fattahi, F.; Grailer, J.J.; Jajou, L.; Malan, E.A.; Zetoune, F.S.; Huber-Lang, M.; Russell, M.W.; Ward, P .A. Complement-
+induced activation of the cardiac nlrp3 inﬂammasome in sepsis. FASEB J. 2016, 30, 3997–4006. [CrossRef]
+40. Wagner, S.; Schurmann, S.; Hein, S.; Schuttler, J.; Friedrich, O. Septic cardiomyopathy in rat lps-induced endotoxemia: Relative
+contribution of cellular diastolic ca(2+) removal pathways, myoﬁbrillar biomechanics properties and action of the cardiotonic
+drug levosimendan. Basic Res. Cardiol. 2015, 110, 507. [CrossRef]
+41. Koentges, C.; Cimolai, M.C.; Pfeil, K.; Wolf, D.; Marchini, T.; Tarkhnishvili, A.; Hoffmann, M.M.; Odening, K.E.; Diehl, P .; von Zur
+Muhlen, C.; et al. Impaired sirt3 activity mediates cardiac dysfunction in endotoxemia by calpain-dependent disruption of atp
+synthesis. J. Mol. Cell. Cardiol. 2019, 133, 138–147. [CrossRef] [PubMed]
+42. Luo, Y .; Fan, C.; Y ang, M.; Dong, M.; Bucala, R.; Pei, Z.; Zhang, Y .; Ren, J. Cd74 knockout protects against lps-induced myocardial contractile
+dysfunction through ampk-skp2-suv39h1-mediated demethylation of bclb.Br. J. Pharm.2020, 177, 1881–1897. [CrossRef] [PubMed]
+43. Joseph, L.C.; Reyes, M.V .; Lakkadi, K.R.; Gowen, B.H.; Hasko, G.; Drosatos, K.; Morrow, J.P . Pkcdelta causes sepsis-induced cardiomy-
+opathy by inducing mitochondrial dysfunction.Am. J. Physiol. Heart Circ. Physiol.2020, 318, H778–H786. [CrossRef] [PubMed]
+44. Hobai, I.A.; Edgecomb, J.; LaBarge, K.; Colucci, W.S. Dysregulation of intracellular calcium transporters in animal models of
+sepsis-induced cardiomyopathy. Shock 2015, 43, 3–15. [CrossRef]
+45. DeGrande, S.T.; Little, S.C.; Nixon, D.J.; Wright, P .; Snyder, J.; Dun, W.; Murphy , N.; Kilic, A.; Higgins, R.; Binkley , P .F.; et al. Molecular
+mechanisms underlying cardiac protein phosphatase 2a regulation in heart.J. Biol. Chem.2013, 288, 1032–1046. [CrossRef] [PubMed]
+46. Antonucci, E.; Fiaccadori, E.; Donadello, K.; Taccone, F.S.; Franchi, F.; Scolletta, S. Myocardial depression in sepsis: From
+pathogenesis to clinical manifestations and treatment. J. Crit. Care 2014, 29, 500–511. [CrossRef]
+47. Zaky, A.; Deem, S.; Bendjelid, K.; Treggiari, M.M. Characterization of cardiac dysfunction in sepsis: An ongoing challenge. Shock
+2014, 41, 12–24. [CrossRef]
+48. Vallejo, J.G. Role of toll-like receptors in cardiovascular diseases. Clin. Sci. 2011, 121, 1–10. [CrossRef]
+49. Yang, J.; Zhang, R.; Jiang, X.; Lv, J.; Li, Y.; Ye, H.; Liu, W.; Wang, G.; Zhang, C.; Zheng, N.; et al. Toll-like receptor 4-induced
+ryanodine receptor 2 oxidation and sarcoplasmic reticulum ca( 2+) leakage promote cardiac contractile dysfunction in sepsis.
+J. Biol. Chem. 2018, 293, 794–807. [CrossRef]
+50. Nath, K.A.; Belcher, J.D.; Nath, M.C.; Grande, J.P .; Croatt, A.J.; Ackerman, A.W.; Katusic, Z.S.; Vercellotti, G.M. Role of tlr4
+signaling in the nephrotoxicity of heme and heme proteins. Am. J. Physiol. Ren. Physiol. 2018, 314, F906–F914. [CrossRef]
+51. Fattahi, F.; Frydrych, L.M.; Bian, G.; Kalbitz, M.; Herron, T.J.; Malan, E.A.; Delano, M.J.; Ward, P .A. Role of complement c5a and
+histones in septic cardiomyopathy. Mol. Immunol. 2018, 102, 32–41. [CrossRef] [PubMed]
+52. Raeburn, C.D.; Calkins, C.M.; Zimmerman, M.A.; Song, Y.; Ao, L.; Banerjee, A.; Harken, A.H.; Meng, X. Icam-1 and vcam-1 medi-
+ate endotoxemic myocardial dysfunction independent of neutrophil accumulation. Am. J. Physiol. Regul. Integr. Comp. Physiol.
+2002, 283, R477–R486. [CrossRef] [PubMed]
+53. Rastaldo, R.; Pagliaro, P .; Cappello, S.; Penna, C.; Mancardi, D.; Westerhof, N.; Losano, G. Nitric oxide and cardiac function.
+Life Sci. 2007, 81, 779–793. [CrossRef]
+54. Kakihana, Y.; Ito, T.; Nakahara, M.; Yamaguchi, K.; Yasuda, T. Sepsis-induced myocardial dysfunction: Pathophysiology and
+management. J. Intensive Care 2016, 4, 22. [CrossRef] [PubMed]
+55. Spiller, F.; Oliveira Formiga, R.; Fernandes da Silva Coimbra, J.; Alves-Filho, J.C.; Cunha, T.M.; Cunha, F.Q. Targeting nitric oxide
+as a key modulator of sepsis, arthritis and pain. Nitric Oxide 2019, 89, 32–40. [CrossRef] [PubMed]
+56. Khadour, F .H.; Panas, D.; Ferdinandy , P .; Schulze, C.; Csont, T.; Lalu, M.M.; Wildhirt, S.M.; Schulz, R. Enhanced no and superoxide
+generation in dysfunctional hearts from endotoxemic rats.Am. J. Physiol. Heart Circ. Physiol.2002, 283, H1108–H1115. [CrossRef] [PubMed]
+57. Pacher , P .; Beckman, J.S.; Liaudet, L. Nitric oxide and peroxynitrite in health and disease.Physiol. Rev.2007, 87, 315–424. [CrossRef] [PubMed]
+58. Kirov , M.Y .; Evgenov , O.V .; Evgenov , N.V .; Egorina, E.M.; Sovershaev , M.A.; Sveinbjørnsson, B.; Nedashkovsky , E.V .; Bjertnaes, L.J. Infusion
+of methylene blue in human septic shock: A pilot, randomized, controlled study .Crit. Care Med.2001, 29, 1860–1867. [CrossRef]
+59. Hollenberg, S.M.; Cunnion, R.E.; Zimmerberg, J. Nitric oxide synthase inhibition reverses arteriolar hyporesponsiveness to
+catecholamines in septic rats. Am. J. Physiol. 1993, 264, H660–H663. [CrossRef]
+60. Rudiger, A.; Dyson, A.; Felsmann, K.; Carré, J.E.; Taylor, V .; Hughes, S.; Clatworthy, I.; Protti, A.; Pellerin, D.; Lemm, J.; et al. Early
+functional and transcriptomic changes in the myocardium predict outcome in a long-term rat model of sepsis. Clin. Sci. 2013,
+124, 391–401. [CrossRef]
+61. Liu, Y .C.; Y u, M.M.; Shou, S.T .; Chai, Y .F . Sepsis-induced cardiomyopathy: Mechanisms and treatments.Front. Immunol.2017, 8, 1021. [CrossRef]
+62. Rehman, A.; Baloch, N.U.; Morrow, J.P .; Pacher, P .; Haskó, G. Targeting of g-protein coupled receptors in sepsis. Pharmacol. Ther.
+2020, 211, 107529. [CrossRef]
+63. Celes, M.R.; Malvestio, L.M.; Suadicani, S.O.; Prado, C.M.; Figueiredo, M.J.; Campos, E.C.; Freitas, A.C.; Spray, D.C.; Tanowitz,
+H.B.; da Silva, J.S.; et al. Disruption of calcium homeostasis in cardiomyocytes underlies cardiac structural and functional changes
+in severe sepsis. PLoS ONE 2013, 8, e68809. [CrossRef]
+[[p13]]
+Cells 2022, 11, 2833 13 of 14
+64. Macarthur, H.; Westfall, T.C.; Riley, D.P .; Misko, T.P .; Salvemini, D. Inactivation of catecholamines by superoxide gives new
+insights on the pathogenesis of septic shock. Proc. Natl. Acad. Sci. USA 2000, 97, 9753–9758.
+65. Kalbitz, M.; Fattahi, F .; Herron, T.J.; Grailer, J.J.; Jajou, L.; Lu, H.; Huber-Lang, M.; Zetoune, F .S.; Sarma, J.V .; Day , S.M.; et al. Complement
+destabilizes cardiomyocyte function in vivo after polymicrobial sepsis and in vitro.J. Immunol.2016, 197, 2353–2361. [CrossRef]
+66. Nuding, S.; Schröder, J.; Presek, P .; Wienke, A.; Müller-Werdan, U.; Ebelt, H.; Werdan, K. Reducing elevated heart rates in patients with
+multiple organ dysfunction syndrome with the if (funny channel current) inhibitor ivabradine.Shock 2018, 49, 402–411. [CrossRef]
+67. Dal-Secco, D.; DalBó, S.; Lautherbach, N.E.S.; Gava, F.N.; Celes, M.R.N.; Benedet, P .O.; Souza, A.H.; Akinaga, J.; Lima, V .; Silva,
+K.P .; et al. Cardiac hyporesponsiveness in severe sepsis is associated with nitric oxide-dependent activation of g protein receptor
+kinase. Am. J. Physiol. Heart Circ. Physiol. 2017, 313, H149–H163. [CrossRef]
+68. Nakano, T .; Onoue, K.; Nakada, Y .; Nakagawa, H.; Kumazawa, T .; Ueda, T .; Nishida, T .; Soeda, T .; Okayama, S.; W atanabe, M.; et al. Alteration
+of β-adrenoceptor signaling in left ventricle of acute phase takotsubo syndrome: A human study .Sci. Rep.2018, 8, 12731. [CrossRef]
+69. Ince, C.; Mayeux, P .R.; Nguyen, T.; Gomez, H.; Kellum, J.A.; Ospina-Tasc ón, G.A.; Hernandez, G.; Murray, P .; De Backer, D. The
+endothelium in sepsis. Shock 2016, 45, 259–270. [CrossRef]
+70. Liu, S.F.; Newton, R.; Evans, T.W.; Barnes, P .J. Differential regulation of cyclo-oxygenase-1 and cyclo-oxygenase-2 gene expression
+by lipopolysaccharide treatment in vivo in the rat. Clin. Sci. 1996, 90, 301–306. [CrossRef]
+71. Zidar, N.; Dolenc-Strazar, Z.; Jeruc, J.; Jerse, M.; Balazic, J.; Gartner, U.; Jermol, U.; Zupanc, T.; Stajer, D. Expression of cyclooxygenase-1
+and cyclooxygenase-2 in the normal human heart and in myocardial infarction.Cardiovasc. Pathol.2007, 16, 300–304. [CrossRef]
+72. Reines, H.D.; Halushka, P .V .; Cook, J.A.; Wise, W.C.; Rambo, W. Plasma thromboxane concentrations are raised in patients dying
+with septic shock. Lancet 1982, 2, 174–175. [CrossRef]
+73. Stewart, D.J.; Cernacek, P .; Costello, K.B.; Rouleau, J.L. Elevated endothelin-1 in heart failure and loss of normal response to
+postural change. Circulation 1992, 85, 510–517. [CrossRef]
+74. Freeman, B.D.; Machado, F.S.; Tanowitz, H.B.; Desruisseaux, M.S. Endothelin-1 and its role in the pathogenesis of infectious
+diseases. Life Sci. 2014, 118, 110–119. [CrossRef]
+75. Yang, L.L.; Gros, R.; Kabir, M.G.; Sadi, A.; Gotlieb, A.I.; Husain, M.; Stewart, D.J. Conditional cardiac overexpression of
+endothelin-1 induces inﬂammation and dilated cardiomyopathy in mice. Circulation 2004, 109, 255–261. [CrossRef]
+76. Carrara, M.; Ferrario, M.; Bollen Pinto, B.; Herpain, A. The autonomic nervous system in septic shock and its role as a future
+therapeutic target: A narrative review. Ann. Intensive Care 2021, 11, 80. [CrossRef]
+77. Fillmore, N.; Mori, J.; Lopaschuk, G.D. Mitochondrial fatty acid oxidation alterations in heart failure, ischaemic heart disease and
+diabetic cardiomyopathy. Br. J. Pharm. 2014, 171, 2080–2090. [CrossRef]
+78. Tessier, J.P .; Thurner, B.; Jüngling, E.; Lückhoff, A.; Fischer, Y. Impairment of glucose metabolism in hearts from rats treated with
+endotoxin. Cardiovasc. Res. 2003, 60, 119–130. [CrossRef]
+79. Memon, R.A.; Fuller, J.; Moser, A.H.; Smith, P .J.; Feingold, K.R.; Grunfeld, C.In vivo regulation of acyl-coa synthetase mrna and
+activity by endotoxin and cytokines. Am. J. Physiol. 1998, 275, E64–E72. [CrossRef]
+80. Memon, R.A.; Bass, N.M.; Moser, A.H.; Fuller, J.; Appel, R.; Grunfeld, C.; Feingold, K.R. Down-regulation of liver and heart
+speciﬁc fatty acid binding proteins by endotoxin and cytokines in vivo. Biochim. Biophys. Acta 1999, 1440, 118–126. [CrossRef]
+81. Drosatos, K.; Khan, R.S.; Trent, C.M.; Jiang, H.; Son, N.H.; Blaner, W.S.; Homma, S.; Schulze, P .C.; Goldberg, I.J. Peroxisome
+proliferator-activated receptor-γ activation prevents sepsis-related cardiac dysfunction and mortality in mice. Circ. Heart Fail.
+2013, 6, 550–562. [CrossRef]
+82. Brealey, D.; Brand, M.; Hargreaves, I.; Heales, S.; Land, J.; Smolenski, R.; Davies, N.A.; Cooper, C.E.; Singer, M. Association
+between mitochondrial dysfunction and severity and outcome of septic shock. Lancet 2002, 360, 219–223. [CrossRef]
+83. Stanzani, G.; Duchen, M.R.; Singer, M. The role of mitochondria in sepsis-induced cardiomyopathy .Biochim. Biophys. Acta Mol. Basis Dis.
+2019, 1865, 759–773. [CrossRef]
+84. Brealey, D.; Karyampudi, S.; Jacques, T.S.; Novelli, M.; Stidwill, R.; Taylor, V .; Smolenski, R.T.; Singer, M. Mitochondrial
+dysfunction in a long-term rodent model of sepsis and organ failure. Am. J. Physiol. Regul. Integr. Comp. Physiol. 2004,
+286, R491–R497. [CrossRef]
+85. Hotchkiss, R.S.; Nicholson, D.W. Apoptosis and caspases regulate death and inﬂammation in sepsis. Nat. Rev. Immunol. 2006,
+6, 813–822. [CrossRef]
+86. Crouser, E.D. Mitochondrial dysfunction in septic shock and multiple organ dysfunction syndrome. Mitochondrion 2004,
+4, 729–741. [CrossRef]
+87. Dikalov, S. Cross talk between mitochondria and nadph oxidases. Free Radic. Biol. Med. 2011, 51, 1289–1301. [CrossRef]
+88. Bernardi, P .; Di Lisa, F. The mitochondrial permeability transition pore: Molecular nature and role as a target in cardioprotection.
+J. Mol. Cell. Cardiol. 2015, 78, 100–106. [CrossRef]
+89. Turdi, S.; Han, X.; Huff, A.F .; Roe, N.D.; Hu, N.; Gao, F .; Ren, J. Cardiac-specific overexpression of catalase attenuates lipopolysaccharide-
+induced myocardial contractile dysfunction: Role of autophagy .Free Radic. Biol. Med.2012, 53, 1327–1338. [CrossRef]
+90. Torraco, A.; Carrozzo, R.; Piemonte, F.; Pastore, A.; Tozzi, G.; Verrigni, D.; Assenza, M.; Orecchioni, A.; D’Egidio, A.; Marraffa,
+E.; et al. Effects of levosimendan on mitochondrial function in patients with septic shock: A randomized trial. Biochimie 2014,
+102, 166–173. [CrossRef]
+91. Matkovich, S.J.; Al Khiami, B.; Efimov , I.R.; Evans, S.; V ader, J.; Jain, A.; Brownstein, B.H.; Hotchkiss, R.S.; Mann, D.L. Widespread
+down-regulation of cardiac mitochondrial and sarcomeric genes in patients with sepsis.Crit. Care Med.2017, 45, 407–414. [CrossRef] [PubMed]
+[[p14]]
+Cells 2022, 11, 2833 14 of 14
+92. Sevilla Berrios, R.A.; O’Horo, J.C.; Velagapudi, V .; Pulido, J.N. Correlation of left ventricular systolic dysfunction determined by
+low ejection fraction and 30-day mortality in patients with severe sepsis and septic shock: A systematic review and meta-analysis.
+J. Crit. Care 2014, 29, 495–499. [CrossRef] [PubMed]
+93. Paonessa, J.R.; Brennan, T.; Pimentel, M.; Steinhaus, D.; Feng, M.; Celi, L.A. Hyperdynamic left ventricular ejection fraction in the
+intensive care unit. Crit. Care 2015, 19, 288. [CrossRef] [PubMed]
+94. Sanﬁlippo, F.; Corredor, C.; Fletcher, N.; Tritapepe, L.; Lorini, F.L.; Arcadipane, A.; Vieillard-Baron, A.; Cecconi, M. Left ventricular
+systolic function evaluated by strain echocardiography and relationship with mortality in patients with severe sepsis or septic
+shock: A systematic review and meta-analysis. Crit. Care 2018, 22, 183. [CrossRef] [PubMed]
+95. Sanﬁlippo, F.; Corredor, C.; Arcadipane, A.; Landesberg, G.; Vieillard-Baron, A.; Cecconi, M.; Fletcher, N. Tissue doppler
+assessment of diastolic function and relationship with mortality in critically ill septic patients: A systematic review and meta-
+analysis. Br. J. Anaesth. 2017, 119, 583–594. [CrossRef]
+96. Kim, J.S.; Kim, Y.J.; Kim, M.; Ryoo, S.M.; Kim, W.Y. Association between right ventricle dysfunction and poor outcome in patients
+with septic shock. Heart 2020, 106, 1665–1671. [CrossRef]
+97. Lanspa, M.J.; Cirulis, M.M.; Wiley, B.M.; Olsen, T.D.; Wilson, E.L.; Beesley, S.J.; Brown, S.M.; Hirshberg, E.L.; Grissom, C.K. Right
+ventricular dysfunction in early sepsis and septic shock. Chest 2021, 159, 1055–1063. [CrossRef]
+98. Vallabhajosyula, S.; Kumar, M.; Pandompatam, G.; Sakhuja, A.; Kashyap, R.; Kashani, K.; Gajic, O.; Geske, J.B.; Jentzer,
+J.C. Prognostic impact of isolated right ventricular dysfunction in sepsis and septic shock: An 8-year historical cohort study.
+Ann. Intensive Care 2017, 7, 94. [CrossRef]
+99. Dugar, S.P .; Vallabhajosyula, S. Right ventricle in sepsis: Clinical and research priority. Heart 2020, 106, 1629–1630. [CrossRef]
+100. Werdan, K.; Oelke, A.; Hettwer, S.; Nuding, S.; Bubel, S.; Hoke, R.; Russ, M.; Lautenschlager, C.; Mueller-Werdan, U.; Ebelt,
+H. Septic cardiomyopathy: Hemodynamic quantiﬁcation, occurrence, and prognostic implications. Clin. Res. Cardiol. 2011,
+100, 661–668. [CrossRef]
+101. Chen, W.Y .; Zhang, Z.H.; Tao, L.L.; Xu, Q.; Wei, X.; Chen, M.S. Afterload-related cardiac performance identifies cardiac impairment and
+associates with outcome in patients with septic shock: A retrospective cohort study .J. Intensive Care2021, 9, 33. [CrossRef] [PubMed]
+102. Zhao, C.C.; Zhang, L.R.; Liu, L.X.; Sun, L.X.; Hu, Z.J. Afterload-related cardiac performance predicts prognosis in critical ill
+patients with sepsis: A prospective observational pilot study. Medicine 2021, 100, e27235. [CrossRef] [PubMed]
+103. Wilhelm, J.; Hettwer, S.; Schuermann, M.; Bagger, S.; Gerhardt, F.; Mundt, S.; Muschik, S.; Zimmermann, J.; Bubel, S.;
+Amoury, M.; et al. Severity of cardiac impairment in the early stage of community-acquired sepsis determines worse prognosis.
+Clin. Res. Cardiol. 2013, 102, 735–744. [CrossRef] [PubMed]
+104. Jeong, H.S.; Lee, T.H.; Bang, C.H.; Kim, J.H.; Hong, S.J. Risk factors and outcomes of sepsis-induced myocardial dysfunction and
+stress-induced cardiomyopathy in sepsis or septic shock: A comparative retrospective study. Medicine 2018, 97, e0263. [CrossRef]
+105. Landesberg, G.; Jaffe, A.S.; Gilon, D.; Levin, P .D.; Goodman, S.; Abu-Baih, A.; Beeri, R.; Weissman, C.; Sprung, C.L.; Landesberg,
+A. Troponin elevation in severe sepsis and septic shock: The role of left ventricular diastolic dysfunction and right ventricular
+dilatation. Crit. Care Med. 2014, 42, 790–800. [CrossRef]
+106. Pandompatam, G.; Kashani, K.; Vallabhajosyula, S. The role of natriuretic peptides in the management, outcomes and prognosis
+of sepsis and septic shock. Rev. Bras. Ter. Intensiva 2019, 31, 368–378. [CrossRef]
+107. Bai, Y.L.; Hu, B.L.; Wen, H.C.; Zhang, Y.L.; Zhu, J.J. Prognostic value of plasma brain natriuretic peptide value for patientswith
+sepsis: A meta-analysis. J. Crit. Care 2018, 48, 145–152. [CrossRef]
+108. Vallabhajosyula, S.; Wang, Z.; Murad, M.H.; Vallabhajosyula, S.; Sundaragiri, P .R.; Kashani, K.; Miller, W.L.; Jaffe, A.S.; Vallabha-
+josyula, S. Natriuretic peptides to predict short-term mortality in patients with sepsis: A systematic review and meta-analysis.
+Mayo Clin. Proc. Innov. Qual. Outcomes 2020, 4, 50–64. [CrossRef]
+109. Beltran-Garcia, J.; Osca-Verdegal, R.; Nacher-Sendra, E.; Cardona-Monzonis, A.; Sanchis-Gomar, F.; Carbonell, N.; Pallardo,
+F.V .; Lavie, C.J.; Garcia-Gimenez, J.L. Role of non-coding rnas as biomarkers of deleterious cardiovascular effects in sepsis.
+Prog. Cardiovasc. Dis. 2021, 68, 70–77. [CrossRef]
+110. Chen, X.; Liu, X.; Dong, R.; Zhang, D.; Qin, S. A retrospective observational study of the association between plasma lev-
+els of interleukin 8 in 42 patients with sepsis-induced myocardial dysfunction at a single center between 2017 and 2020.
+Med. Sci. Monit. Int. Med. J. Exp. Clin. Res. 2021, 27, e933065. [CrossRef]
+111. Chen, M.; Kong, C.; Zheng, Z.; Li, Y. Identiﬁcation of biomarkers associated with septic cardiomyopathy based on bioinformatics
+analyses. J. Comput. Biol. A J. Comput. Mol. Cell Biol. 2020, 27, 69–80. [CrossRef] [PubMed]
+112. Pro, C.I.; Yealy, D.M.; Kellum, J.A.; Huang, D.T.; Barnato, A.E.; Weissfeld, L.A.; Pike, F.; Terndrup, T.; Wang, H.E.; Hou, P .C.; et al.
+A randomized trial of protocol-based care for early septic shock. N. Engl. J. Med. 2014, 370, 1683–1693.
+113. Investigators, A.; Group, A.C.T.; Peake, S.L.; Delaney, A.; Bailey, M.; Bellomo, R.; Cameron, P .A.; Cooper, D.J.; Higgins, A.M.;
+Holdgate, A.; et al. Goal-directed resuscitation for patients with early septic shock. N. Engl. J. Med. 2014, 371, 1496–1506.
+114. Mouncey, P .R.; Osborn, T.M.; Power, G.S.; Harrison, D.A.; Sadique, M.Z.; Grieve, R.D.; Jahan, R.; Harvey, S.E.; Bell, D.; Bion, J.F.;
+et al. Trial of early, goal-directed resuscitation for septic shock. N. Engl. J. Med. 2015, 372, 1301–1311. [CrossRef] [PubMed]

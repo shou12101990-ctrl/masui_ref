@@ -1,0 +1,555 @@
+
+[[p1]]
+19Annals of Pediatric Cardiology 2014 Vol 7 Issue 1
+Address for correspondence: Dr. Salem Deraz, Department of Pediatrics, Faculty of Medicine, Menoufia University, Shebin El Kom, Egypt.  
+E-mail: drsderaz@hotmail.com.
+INTRODUCTION
+Postoperative arrhythmias occur frequently in the 
+early postoperative period following cardiac surgery in 
+children. Junctional ectopic tachycardia (JET) is one of 
+the more commonly encountered arrhythmia with an 
+overall incidence estimated between 3.6 and 10.8% with 
+two case series reporting incidence as high as 12 and 
+27%, respectively.[1-8]
+JET is caused by abnormal automaticity of the 
+atrioventricular (AV) node. Autopsy reports of 
+children with fatal JET have shown hemorrhagic 
+tracks invading the AV bundle originating from 
+sutures close to conduction system. [9,10]  JET is a 
+narrow QRS tachycardia usually with AV dissociation 
+and slower atrial than ventricular rate, it can also 
+be associated with 1:1 retrograde ventriculoatrial 
+conduction. [4,11]
+Anticipation and management of junctional ectopic tachycardia 
+in postoperative cardiac surgery: Single center experience 
+with high incidence
+Osama Abdelaziz, Salem Deraz1
+Departments of Pediatrics, Faculty of Medicine, Cairo University, Cairo and 1Faculty of Medicine, Menoufia University, Shebin El Kom, Egypt
+ORIGINAL ARTICLE
+ABSTRACT
+Background : Junctional ectopic tachycardia (JET) often occurs in the early postoperative period 
+following surgery for congenital heart diseases and may lead to hemodynamic 
+compromise. Its exact etiology is unknown, however, longer cardiopulmonary bypass 
+(CPB) time, aortic cross clamp (ACC) time, catecholamines, and hypomagnesemia 
+are known risk factors. JET is associated with increased postoperative morbidity and 
+mortality.
+Materials and 
+Methods
+: A prospective cohort study of 194 consecutive children who underwent open heart 
+surgery on CPB over 1 year period, patients was divided into three groups; JET, non-JET 
+arrhythmia, and no arrhythmia groups. Information on patient’s demographics (sex, age, 
+and body weight), type of surgical interventions, duration of CPB and ACC, the use of 
+inotropic support, duration of intensive care unit (ICU) stay, and response to different 
+therapeutic methods were collected.
+Results : JET was documented in 53 patients (27%) most commonly following tetralogy 
+of Fallot (TOF) repair and was associated with longer CPB and ACC times (118 
+and 77 min, respectively) as compared to non-JET arrhythmia (93.9 and 55.3 min, 
+respectively) and no arrhythmia groups (94.9 and 54.8 min, respectively). Patients 
+with JET required more inotropic support and longer ICU stay as compared to 
+other groups. Amiodarone was safe and effective in treatment of JET. Atrial 
+electrocardiogram (ECG) and Lewis lead ECG were helpful tools in JET diagnosis. 
+The mortality was 11.5% in JET patients.
+Conclusions : Incidence of JET was 27% possibly due to the large number of Fallot repair and Senning 
+operation. Longer CPB and ACC times are risk factors for JET.
+Keywords : JET, open heart surgery, postoperative arrhythmia
+Access this article online
+Quick Response Code:
+Website:
+www.annalspc.com
+DOI:
+10.4103/0974-2069.126543
+[[p2]]
+Abdelaziz and Deraz: Junctional ectopic tachycardia in postoperative cardiac surgery
+20 Annals of Pediatric Cardiology 2014 Vol 7 Issue 1
+Although a self-limiting tachycardia, JET can cause serious 
+hemodynamic instability in the immediate postoperative 
+period due to loss of AV synchrony and consequent loss 
+of atrial contributions to cardiac output in the heart 
+already compromised following surgery and CPB.[4,11,12]
+Several risk factors have been associated with 
+development of JET that include operations involving 
+right ventricular outflow tract (RVOT) excision, young 
+age, longer cardiopulmonary bypass (CBP) time and 
+aortic cross clamp (ACC) time, use of catecholamines, 
+and low serum magnesium level.[1,4,7]
+There are several approaches to the management of JET 
+comprising physiological alternation, drugs, external 
+cardiac pacing, and extracorporeal support.[12,13] Patients 
+who develop JET have increased morbidity as indicated 
+by longer duration of mechanical ventilation and 
+increased intensive care unit (ICU) stay and increased 
+risk of mortality.[1,3,4,6,7]
+The aims of this study were to determine the incidence 
+of JET, identify patient, and procedure-related risk 
+factors for development of JET, response of JET to 
+different therapeutic modalities and impact of JET on 
+postoperative morbidity.
+MATERIALS AND METHODS
+Patient population
+All pediatric patients (1 st month of life till 14-years-
+old) who underwent cardiac surgery with CBP at Cairo 
+University Children Hospital between July 2010 and 
+July 2011 were enrolled in our study. Patients who had 
+preoperative arrhythmias were excluded.
+Arrhythmia diagnosis
+JET was defined as heart rate greater than 170 beats per 
+min with the baseline QRS complex, AV dissociation with 
+ventricular rate faster than the atrial rate or retrograde 
+conduction with retrograde p-wave, [14] as detected by 
+examining the telemetry using speed 50 m/s and 12-lead 
+electrocardiogram (ECG) [Figures 1, 2 and 3]. 
+Patients with wide QRS tachycardia especially following 
+tetralogy of Fallot (TOF) repair due to right bundle branch 
+block (RBBB), the diagnosis of JET was confirmed either by 
+atrial ECG using atrial wires or esophageal lead if available 
+or using Lewis lead arrangement to augment the P waves.
+The Lewis lead configuration can help to detect atrial 
+activity and its relationship to ventricular activity 
+Figure 1: Electrocardiogram (ECG) showing junctional ectopic tachycardia (JET). The P waves could not be detected by usual ECG
+Figure 2: ECG of patient with JET using Lewis lead showing the P waves dissociated from QRS with atrial rate less than the 
+ventricular rate
+Figure 3: ECG using Lewis lead showing retrograde P wave with 1:1 ventriculoatrial conduction
+[[p3]]
+Abdelaziz and Deraz: Junctional ectopic tachycardia in postoperative cardiac surgery
+21Annals of Pediatric Cardiology 2014 Vol 7 Issue 1
+[Figures 2 and 3]. This technique was described by 
+Sir Thomas Lewis (1881-1945) in his book (Clinical 
+Electrocardiography), the right arm electrode applied 
+to the right of the sternum at the second intercostal 
+space and the left arm electrode applied to the fourth 
+intercostal space. After recording, this tracing was 
+interpreted in lead I.[15-18]
+Risk factors
+In order to determine the risk factors for development 
+of JET, impact of JET on postoperative morbidity, the 
+patients were divided into three groups: JET, non-JET 
+arrhythmia, and patients with no arrhythmia in the 
+early postoperative periods (1-30 days postoperative).
+Information on patients demographics (sex, age, and 
+body weight), type of surgical interventions, duration 
+of CPB and ACC, serum electrolytes at tachyarrhythmia 
+onset, the use of inotropic support, duration of ICU stay, 
+and response to different therapeutic methods were 
+collected.
+Therapeutic interventions
+Our staged protocol for JET therapy was as follow:
+Step 1: Avoid hyperthermia; optimize electrolytes, 
+sedation, and magnesium sulfate bolus of 30 mg/kg.
+Step 2: Controlled hypothermia (target core temperature 
+35-36°C).
+Step 3: Decrease the catecholamine dose if possible.
+Step 4: Amiodarone was used as the first line anti-
+arrhythmic drug for all patients with hemodynamically 
+compromising JET, bolus dose of 5 mg/kg over 2 h 
+followed by continuous infusion of 10–20 mg/kg/24 h.
+Pacing therapy was used using temporary atrial wires 
+if available or esophageal pacing leads for overdrive or 
+sequential pacing in selected cases.
+Statistical analysis
+Data were expressed as mean ± standard deviation (SD) 
+Excel for Windows (Microsoft, USA) and Graphpad 
+software (Graphpad Software, San Diego, USA) were used 
+for data statistics. The possible statistical significance of 
+differences between sets of data was tested using one-
+way analysis of variance (ANOVA) test for unpaired data 
+as well as Chi-square test. A significant difference was 
+assumed for values of P < 0.05.
+RESULTS
+Males represent 54% while females 46% of study 
+population. Their ages ranged from 0.5 to 144 months 
+with mean of 29 ( ±27) months. Their weights ranged 
+from 3 to 33 kg with mean of 10.5 kg ( ±5 kg). JET was 
+documented in 53 out of 194 patients who represented 
+an overall incidence of 27%. Other types of early 
+postoperative arrhythmias that were documented 
+??????s?PM?s??
+of JET was clear using the conventional ECG in 44 
+patients (83.1%), atrial leads confirmed the diagnosis 
+in five patients (9.4%) and Lewis lead confirmed the 
+diagnosis in four patients (7.5%). Atrial leads were not 
+available in all patients, as it is not routinely done in 
+our institute.
+In our study, JET was noted most commonly following TOF 
+repair (52%, n = 24), Senning operation (50%, n = 10), 
+and AV canal repair (42.8%, n = 6). In order to define the 
+risk factors that probably increase the incidence of JET 
+in the early postoperative period, we did a comparison 
+between patients with JET and those with no arrhythmia, 
+and those with postoperative arrhythmias other than JET, 
+[Table 2] using the following variables; age, weight, CBP 
+time, and ACC time. It was found that a longer bypass 
+time and ischemic time are significant prognostic factors 
+for incidence of JET. It was also noted that patients with 
+JET had longer length of ICU stay as compared to other 
+arrhythmias and non-arrhythmia groups. Inotropic 
+support was used more often in JET (98%, n = 53) 
+patients as compared to non-JET group (76.5%, n = 33) 
+and no arrhythmia group (73.5%, n = 72). There was a 
+statistically significant correlation between the use of 
+adrenaline and dobutamine and increased incidence 
+of JET and on the other hand, use of milrinone was not 
+associated with increased incidence of JET [Table 3]. JET 
+Table 1: Different types of early postoperative 
+arrhythmias in our patients
+Early post. operative 
+arrhythmia
+Number of 
+patients
+% of whole 
+cohort (194)
+JET 53 27
+Junctional rhythm 14 7.2
+Transient heart block 12 6.2
+Permanent heart block 3 1.5
+JET alternating with heart block 5 2.5
+SVT 5 2.5
+Atrial flutter 2 1
+Atrial tachycardia 2 1
+JET: Junctional ectopic tachycardia, SVT: Supraventricular tachycardia
+Table 2: JET versus no arrhythmia group
+Parameters JET arrhythmia
+X• ± SD; n = 53
+No arrhythmia
+X• ± SD; n = 98
+Other 
+arrhythmia
+X• ± SD; n = 43
+Age (months) 24.11±16.1 30.42±32.3 27.02±23.2
+Weight (kg) 10.77±3.7 10.42±6.0 10.58±4.5
+ACC time (min) 77.08±33.6 54.85±30.9a 55.35±29.9a
+Bypass time 
+(min)
+118.21±43.5 94.98±47.3a 93.98±36.4a
+ICU time (days) 8.51±6.5 6.12±6.5 10.44±6.9b
+JET: Junctional ectopic tachycardia, ACC: Aortic cross clamp, ICU: 
+Intensive care unit. aMeans significant difference compared with JET 
+arrhythmia group, bmeans significant difference compared with no 
+arrhythmia group
+[[p4]]
+Abdelaziz and Deraz: Junctional ectopic tachycardia in postoperative cardiac surgery
+22 Annals of Pediatric Cardiology 2014 Vol 7 Issue 1
+successfully resolved in 86.5% (n = 47) of patients with 
+57% ( n = 30) responding to conventional measures 
+(cooling, magnesium sulfate, sedation and minimizing 
+catecholamines) and the remaining 43% ( n = 23) were 
+controlled by intravenous (IV) amiodarone infusion in 
+addition to conventional measures. Amiodarone was 
+used in hemodynamically significant JET not responding 
+to the initial steps in management, 23 patients received 
+amiodarone, only two patients experienced hypotension 
+that managed by boluses of fluid. The standard protocol 
+for amiodarone administration in our study was to give 
+a bolus loading dose of 5 mg/kg IV infusion over 2 h, 
+followed by a continuous infusion of 10-20 mg/kg/
+day until desired effect of a sinus rhythm or slower 
+junctional rate with improved hemodynamics was 
+achieved. Before return to sinus rhythm patients were 
+either in accelerated junctional rhythm or in intermittent 
+sinus rhythm with accelerated junctional rhythm. 
+When a slower junctional rhythm was obtained without 
+improvement in hemodynamics, sequential pacing was 
+used using temporary epicardial atrial wires if available 
+or by the use of an esophageal lead.
+Sinus rhythm attained in 47 patients (88.5%), six patients 
+died (11.5%) of whom JET was the direct cause of mortality 
+in one patient and a contributing factor in others.
+DISCUSSION
+JET is a common tachyarrhythmia in the early 
+postoperative period after pediatric cardiac surgery, the 
+cause of JET is thought to be a result of a combination 
+of factors, including underlying heart disease, type 
+of surgical procedure, hemodynamic instability, and 
+electrolyte imbalance, specially hypomagnesemia. The 
+pathological mechanism is believed to be a result of 
+direct trauma to the AV node and bundle of His, although 
+JET occurs in patients in whom there is no operation 
+near the AV node (e.g., transplantation and extracardiac 
+Fontan operation).[11,19-25]
+The purpose of our study was to analyze the incidence, 
+risk factors and outcome of JET in an unselected 
+population (congenital heart defects operated using 
+CBP) to provide broader information about JET in the 
+postoperative cardiac ICU after repair of congenital 
+heart disease.
+In our cohort, we found that the overall incidence of 
+JET in children undergoing cardiac surgery with CBP 
+was 27%, which is a higher incidence as compared to 
+other studies that reported incidence of 10-15%. [1,2,6] 
+This higher incidence of JET may be related to the large 
+number of cases with TOF, many of these cases were done 
+in older age than usual. Since the outcome of arterial 
+switch operation is not very good in our institution, we 
+were forced to do large number of Senning operations, 
+which might play a role in this high incidence. The higher 
+incidence of JET in our study highlights the importance 
+of analysis of the possible risk factors in a trial to avoid 
+the preventable causes and treat the curable ones.
+In our study, JET was observed most commonly following 
+repair of TOF (52% n = 24), Senning operation (50%, 
+n = 10), and common AV canal (CAVC) canal repair 
+(42.8%, n = 6). Previous studies reported high incidence 
+of JET following TOF repair.[7,8,11]
+Several studies have implicated various clinical, surgical, 
+and therapeutic associations with the genesis of JET. 
+Our study, as does others, suggests that the cause of 
+postoperative JET still remains largely unknown in 
+any individual patient. For example, several patients 
+did not have intracardiac surgical procedures and 
+still experienced JET (for example, cavopulmonary 
+anastomosis or the Glenn shunt). Injury to the 
+conduction system was the proposed mechanism either 
+by resection or excision of muscle bundles or relief of 
+the RVOT though the right atrium commonly associated 
+with a repair of tetralogy of Fallot.[11]
+In our study, patients experienced JET in the immediate 
+postoperative period (range 1-24 h post bypass; median, 
+6.8 h). JET patients had a longer bypass and ACC times 
+(118 and 77 min, respectively) as compared to non-JET 
+arrhythmia (93.9 and 55.3 min) and no arrhythmia 
+groups (94.9 and 54.8 min), greater use of inotropic 
+support and this in consistent with the previous 
+reports.[1,2,4-6] Longer CPB is probably a result of more 
+difficult surgical correction and larger surgical trauma.
+Although a self-limiting arrhythmia, JET can lead 
+to a marked hemodynamic instability in the early 
+postoperative period due to impaired ventricular filling, 
+loss of AV synchrony, and atrial contribution to cardiac 
+output which is essential in patients with diastolic 
+dysfunction of right ventricle (RV) as those following 
+TOF repair. The duration of JET in our study was ranging 
+between 6 and 168 h with mean of 33.8 h, JET rate was 
+ranging between 170 and 220, hemodynamic instability 
+was observed in 31 out of 53 patients with JET (60%).
+Table 3: Inotropic support for JET group versus no 
+arrhythmia group
+Inotropic support JET No 
+arrhythmia
+Other 
+arrhythmia
+N % N % N %
+Inotropic 
+support
+Used (n=124) 52 98 72 73.5 33 76.5
+Not used (n=27) 1 2 26 26.5 10 23.5
+c?t?G\XOH?RT?UU?TT?TU?QT?TW
+Not used (n=61) 18 34 43 44 18 42
+Adrenaline Used (n=66) 36 67 30 30 23 53.5
+Not used (n=85) 17 33 68 70 20 46.5
+Milrinone Used (n=44) 9 17 35 36 13 30
+Not used (n=107) 44 83 63 64 30 70
+JET: Junctional ectopic tachycardia, Level of significance: Inotropic = 0.0008, 
+Dobutamine = 0.49, Adrenaline = 0.0001, Milrione = 0.054
+[[p5]]
+Abdelaziz and Deraz: Junctional ectopic tachycardia in postoperative cardiac surgery
+23Annals of Pediatric Cardiology 2014 Vol 7 Issue 1
+The diagnosis of JET usually is based on electrocardiographic 
+evidence of a narrow complex tachycardia, heart rate 
+ranging from 170 to 260 beats/min and regular with AV 
+dissociation.[5,26] The QRS is usually a narrow complex and 
+is wide in cases associated with RBBB, P waves may be 
+hidden, dissociated, or retrograde. This was confirmed 
+in all our patients. When there is retrograde conduction, 
+adenosine administration can rule out the diagnosis of 
+AV reciprocating tachycardia, because of tachycardia 
+cycle lengthening without termination of the arrhythmia. 
+Diagnosis should be suspected in those anatomical 
+substrates in which JET is common, that is, TOF, RVOT 
+reconstruction, and AV septal defect (AVSD). Atrial ECG 
+is usually confirmatory in difficult cases. In comparing 
+atrial ECG with surface ECG, AV dissociation can be 
+clearly demonstrated.[27] We performed atrial ECG in five 
+patients and Lewis lead arrangement in four patients to 
+visualize the P wave clearly. Although not used regularly 
+in clinical practice, we would like to promote the use of 
+the Lewis lead configuration in those situations in which 
+differentiation between wide QRS tachycardia is difficult.
+Our current treatment strategy includes the active 
+avoidance of hyperthermia, hypothermia, optimal 
+sedation and pain control, optimizing the electrolytes, 
+magnesium sulfate IV bolus of 30 mg/kg, minimizing 
+exogenous catecholamines if possible, and the use of 
+amiodarone. Atrial or sequential pacing to optimize 
+hemodynamics in selected patients.
+JET successfully resolved in 86.5% (n = 47) of patients, 
+with 57% (n = 30) responding to conventional measures 
+(cooling, magnesium sulfate, sedation, and minimizing 
+catecholamines) and the remaining 43% ( n = 23) were 
+controlled by IV amiodarone infusion in addition to 
+conventional measures. IV amiodarone was found to be 
+safe and effective; only two patients develop hypotension 
+during amiodarone loading dose administration that was 
+managed by boluses of fluids.
+The rationale for amiodarone use differs in previous 
+studies for treatment of JET.[1-3,11,28] Some institutions, like 
+ours, use amiodarone as a primary treatment,[7] because of 
+the good response to intravenous amiodarone in patients 
+who failed to respond to conventional therapies or were 
+hemodynamically unstable. It has also been recommended 
+as an early first-line treatment for JET.[6,10,29,30]
+If the ventricular rate is not adequately controlled or AV 
+synchrony not achieved by means of pacing strategies, 
+JET may increase further postoperative problems 
+(i.e., low cardiac output and hypotension). A recent study 
+noted that the cardiac ICU stay increased from 4.5 to 
+8.8 days when comparing when comparing those without 
+and with postoperative JET; respectively.[4] In our study, 
+there was a statistically significant correlation between 
+JET and increased length of ICU stays (mean of 8.5 days) 
+as compared to non-arrhythmias group (6.5 days). 
+This can be explained by the treatment protocol for 
+hemodynamically unstable JET patients that included 
+sedation, muscle paralysis, and ventilator therapy. The 
+patients could not be transferred to regular ward until 
+JET has subsided. Both longer ventilator time and longer 
+ICU stay increase other possible complications, that 
+is, infections, and also increase the cost of treatment. 
+In other studies, JET has been associated with worse 
+outcome and increased death rate compared to non-JET 
+patients,[1,6,10] in our cohort, six (11.5%) patients out 
+of 53 patients with JET died, JET was a direct cause of 
+mortality in one patient only and a contributing factor 
+in the other five patients.
+CONCLUSIONS
+In conclusion, of 194 patients who underwent cardiac 
+surgical procedures in our institution, 53 (27%) 
+experienced JET. Longer CPB and ACC times, use of 
+catecholamines were risk factors for JET. Twenty-three 
+patients (43%) required amiodarone infusion. JET was 
+associated with increased postoperative morbidity and 
+mortality.
+We strongly recommend placement of temporary atrial 
+wires for surgical procedure with high likelihood of 
+JET as TOF repair, Senning operation and AVSD repair, 
+atrial wires are useful tool for diagnosis, and pacing 
+therapy of JET. We recommend the use of Lewis lead 
+ECG placement in case of JET with wide QRS as a simple 
+way to clearly visualize the P waves in the event atrial 
+wires are unavailable.
+REFERENCES
+PM?`?iaK?i?roK?q?gaM?i??
+tachycardia after surgery for congenital heart disease 
+in children. Intensive Care Med 2008;34:895-902.
+2. Batra AS, Chun DS, Johnson TR, Maldonado EM, 
+Kashyap BA, Maiers J, et al. A prospective analysis of 
+the incidence and risk factors associated with junctional 
+ectopic tachycardia following surgery for congenital 
+heart disease. Pediatr Cardiol 2006;27:51-5.
+3. Delaney JW, Moltedo JM, Dziura JD, Kopf GS, Snyder CS. 
+Early postoperative arrhythmias after pediatric cardiac 
+surgery. J Thorac Cardiovasc Surg 2006;131:1296-300.
+4. Dodge-Khatami A, Miller OI, Anderson RH, Gil-Jaurena JM, 
+Goldman AP, De Leval MR. Impact of junctional ectopic 
+tachycardia on postoperative morbidity following repair 
+of congenital heart defects. Eur J Cardiothorac Surg 
+2002;21:255-9.
+5. Hoffman TM, Bush DM, Wernovsky G, Cohen MI, Wieand 
+TS, Gaynor JW, et al. Postoperative junctional ectopic 
+tachycardia in children: Incidence, risk factors, and 
+treatment. Ann Thorac Surg 2002;74:1607-11.
+6. Mildh L, Hiippala A, Rautiainen P, Pettila V, Sairanen H, 
+Happonen JM. Junctional ectopic tachycardia after 
+surgery for congenital heart disease: incidence, 
+[[p6]]
+Abdelaziz and Deraz: Junctional ectopic tachycardia in postoperative cardiac surgery
+24 Annals of Pediatric Cardiology 2014 Vol 7 Issue 1
+risk factors and outcome. Eur J Cardiothorac Surg 
+2011;39:75-80.
+7. Rekawek J, Kansy A, Miszczak-Knecht M, Manowska M, 
+Bieganowska K, Brzezinska-Paszke M, et al. Risk factors 
+for cardiac arrhythmias in children with congenital 
+heart disease after surgical intervention in the early 
+postoperative period. J Thorac Cardiovasc Surg 
+2007;133:900-4.
+8. Yildirim SV, Tokel K, Saygili B, Varan B. The incidence 
+and risk factors of arrhythmias in the early period after 
+cardiac surgery in pediatric patients. Turk J Pediatr 
+2008;50:549-53.
+9. Till JA, Ho SY, Rowland E. Histopathological findings 
+in three children with his bundle tachycardia 
+occurring subsequent to cardiac surgery. Eur Heart J 
+1992;13:709-12.
+10. Haas NA, Plumpton K, Justo R, Jalali H, Pohlner P. 
+Postoperative junctional ectopic tachycardia (JET). 
+Z Kardiol 2004;93:371-80.
+11. Dodge-Khatami A, Miller OI, Anderson RH, Goldman AP, 
+Gil-Jaurena JM, Elliott MJ, et al . Surgical substrates 
+of postoperative junctional ectopic tachycardia in 
+congenital heart defects. J Thorac Cardiovasc Surg 
+2002;123:624-30.
+12. Erickson SJ. Guidelines for the management of junctional 
+ectopic tachycardia following cardiac surgery in 
+children. Aust Curr Paediatr 2006;16:275-8.
+13. Zampi JD, Hirsch JC, Gurney JG, Donohue J, Yu S, 
+La Page M, et al. Junctional ectopic tachycardia after 
+infant heart surgery: Incidence and outcomes. Pediatr 
+Cardiol 2012;33:1362-9.
+14. Walsh EP, Saul JP, Sholler GF, Triedman JK, Jonas RA, 
+Mayer JE, et al. Evaluation of a staged treatment protocol 
+for rapid automatic junctional tachycardia after 
+operation for congenital heart disease. J Am Coll Cardiol 
+1997;29:1046-53.
+15. Wellens HJ. Wide QRS tachycardia. In: The ECG in 
+Emergency Decision Making. 2 nd ed. St Louis: Mosby 
+Saunders Elsevier; 2006. p. 128-57.
+16. Goldman MJ. Principles of Clinical Electrocardiography. 
+PQ?M?bM?PM?mY?kZ?PXWUM
+17. Lewis T. Auricular fibrillation. In: Clinical 
+Electrocardiography. 5 th ed. London: Shaw and Sons; 
+1931. p. 87-100.
+18. Bakker AL, Nijkerk G, Groenemeijer BE, Waalewijn RA, 
+Koomen EM, Braam RL, et al. The Lewis lead making 
+recognition of P waves easy during wide QRS complex 
+tachycardia. Circulation 2009;119:e592-3.
+19. Dietl CA, Cazzaniga ME, Dubner SJ, Perez-Balino NA, 
+Torres AR, Favaloro RG. Life-threatening arrhythmias 
+and RV dysfunction after surgical repair of tetralogy 
+of Fallot. Comparison between transventricular and 
+transatrial approaches. Circulation 1994;90:II7-12.
+20. Parry AJ, McElhinney DB, Kung GC, Reddy VM, 
+Brook MM, Hanley FL. Elective primary repair of 
+acyanotic tetralogy of Fallot in early infancy: Overall 
+outcome and impact on the pulmonary valve. J Am Coll 
+Cardiol 2000;36:2279-83.
+21. Paul T, Ziemer G, Luhmer G, Bertram H, Hecker H, Kallfelz 
+HC. Early and late atrial dysrhythmias after modified 
+Fontan operation. Pediatr Med Chir 1998;20:9-11.
+22. Amodeo A, Galletti L, Marianeschi S, Picardo S, Giannico 
+S, Di Renzi P, et al. Extracardiac Fontan operation for 
+complex cardiac anomalies: Seven years’ experience. 
+J Thorac Cardiovasc Surg 1997;114:1020-30.
+23. Kaulitz R, Ziemer G, Luhmer I, Kallfelz HC. Modified 
+Fontan operation in functionally univentricular hearts: 
+Preoperative risk factors and intermediate results. 
+J Thorac Cardiovasc Surg 1996;112:658-64.
+24. Manning PB, Mayer JE Jr, Wernovsky G, Fishberger 
+SB, Walsh EP. Staged operation to Fontan increases 
+the incidence of sinoatrial node dysfunction. J Thorac 
+Cardiovasc Surg 1996;111:833-9.
+25. Dorman BH, Sade RM, Burnette JS, Wiles HB, Pinosky 
+ML, Reeves ST, et al.  Magnesium supplementation in 
+the prevention of arrhythmias in pediatric patients 
+undergoing surgery for congenital heart defects. Am 
+Heart J 2000;139:522-8.
+26. Sarubbi B, Vergara P, D’Alto M, Calabro R. Congenital 
+junctional ectopic tachycardia: presentation and 
+outcome. Indian Pacing Electrophysiol J 2003;3:143-7.
+27. Kelly BP, Gajarski RJ, Ohye RG, Charpie JR. Intravenous 
+induction of therapeutic hypothermia in the management 
+of junctional ectopic tachycardia: A pilot study. Pediatr 
+Cardiol 2010;31:11-7.
+28. Laird WP, Snyder CS, Kertesz NJ, Friedman RA, Miller 
+D, Fenrich AL. Use of intravenous amiodarone for 
+postoperative junctional ectopic tachycardia in children. 
+Pediatr Cardiol 2003;24:133-7.
+29. Kovacikova L, Hakacova N, Dobos D, Skrak P, Zahorec 
+M. Amiodarone as a first-line therapy for postoperative 
+junctional ectopic tachycardia. Ann Thorac Surg 
+2009;88:616-22.
+30. Plumpton K, Justo R, Haas N. Amiodarone for post-
+operative junctional ectopic tachycardia. Cardiol Young 
+2005;15:13-8. Ique ommodit atistia niae. Tatia
+How to cite this article: Abdelaziz O, Deraz S. Anticipation and 
+management of junctional ectopic tachycardia in postoperative cardiac 
+surgery: Single center experience with high incidence. Ann Pediatr Card 
+2014;7:19-24.
+Source of Support: Nil, Conflict of Interest: None declared

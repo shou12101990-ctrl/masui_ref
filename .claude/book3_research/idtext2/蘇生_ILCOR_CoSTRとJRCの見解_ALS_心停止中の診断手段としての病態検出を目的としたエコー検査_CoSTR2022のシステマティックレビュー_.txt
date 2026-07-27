@@ -1,0 +1,129 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+POCUS <Point-of-care Ultrasound> as a Diagnostic Tool 
+During Cardiac Arrest (SysRev) 
+心停止中の診断手段としての病態検出を目的としたエコー検査（CoSTR 
+2022 のシステマティック・レビュー 
+Wyckoff MH, et al. ALS Task Force 
+PICOST (Population, Intervention, Comparator, Outcome, Study 
+Designs and Timeframe) 
+Population: Adults with cardiac arrest in any setting  
+Intervention: A particular finding on POCUS during CPR 
+Comparator: An external confirmatory test or process including 
+some component other than POCUS 
+Outcome: Important— A specific cause or pathophysiological 
+state that may have led to cardiac arrest 
+Study design: Randomized and nonrandomized trials, cohort 
+studies (prospective and retrospective), and case-control studies 
+with data on both POCUS findings and an external reference 
+standard to contribute to a contingency table (ie, true-positive, 
+false-positive, false-negative, true-negative). Animal studies, 
+ecological studies, case series, case reports, narrative reviews, 
+abstracts, editorials, comments, letters to the editor, and 
+unpublished studies were not excluded.  
+Time frame: All years and all languages were included if there 
+was an English abstract. The litera- ture search was updated 
+through October 6, 2021.  
+PICOST  
+ 
+P：あらゆる状況における成人のすべての心停止 
+I:：CPR 中の病態検出を目的としたエコー検査における特定の所見 
+C：病態検出を目的としたエコー検査以外の要素を含むその他の検査
+（血液検査、心電図など）またはプロセス 
+ 
+O：重要─心停止につながった可能性のある特定の原因や病態 
+ 
+S:：RCT および非 RCT、 コホート研究（前向きおよび後向き）および症
+例対照研究で、病態検出を目的としたエコー検査所見とその他の標準的
+な検査結果の両方のデータが、分割表（すなわち真陽性、偽陽性、偽陰
+性、真陰性）に寄与するもの。動物実験、生態学的研究、症例シリーズ、
+症例報告、ナラティブレビュー、抄録、論説、コメント、編集者への手紙、
+未発表研究は除外した。 
+ 
+ 
+ 
+[[p2]]
+2 
+ 
+ T: 英文抄録がある、全ての年の、あらゆる言語での研究を対象とした。
+文献検索は 2021 年 10 月 6 日まで更新された。 
+Treatment recommendations 
+We suggest against routine use of POCUS during CPR to 
+diagnose reversible causes of cardiac arrest (weak 
+recommendation, very low–certainty evidence).  
+ 
+We suggest that if POCUS can be performed by experienced 
+personnel without interrupting CPR, it may be considered as an 
+additional diagnostic tool when clinical suspicion for a specific 
+reversible cause is present (weak recommendation, very low–
+certainty evidence).  
+ 
+Any deployment of diagnostic POCUS during CPR should be 
+carefully considered and weighed against the risks of 
+interrupting chest compressions and misinterpreting the 
+sonographic findings (good practice statement). 
+ 
+推奨と提案 
+心停止の可逆的原因を診断するために、CPR 中に病態検出を目的とし
+たエコー検査をルーチンには使用しないことを提案する（弱い推奨 エビ
+デンスの確実性：非常に低い）。 
+ 
+経験豊富なスタッフが CPR を中断することなく病態検出を目的としたエ
+コー検査を実施できる場合は、特定の可逆的原因が疑われる臨床症状
+が認められる場合に、追加の診断ツールとして病態検出を目的としたエ
+コー検査を検討することを提案する（弱い推奨、エビデンスの確実性：非
+常に低い）。 
+ 
+ 
+CPR 中の診断的病態検出を目的としたエコー検査の使用は、胸骨圧迫
+の中断や超音波所見の誤読のリスクを慎重に考慮して、比較検討する
+（優れた医療慣行に関する記述）。 
+ 
+ 
+１．  JRC の見解と解説（400-800 文字） 
+ POCUS（病態検出を目的としたエコー検査）は、心タンポナーデを含む心嚢液貯留、胸水や腹水貯留、循環血液量減少、一部の肺塞栓症、急
+性心筋梗塞、大動脈解離など、心停止の原因として考えられる病態の診断において有用な可能性がある。しかし、これらの診断は、臨床的判
+[[p3]]
+3 
+ 
+断が基盤であり、病態検出を目的としたエコー検査単独で原因診断がなされるわけではない。 
+ 一方で、病態検出を目的としたエコー検査は質の高い CPR を妨げるリスクがある。とくに胸骨圧迫の中断は、患者の予後に悪影響を及ぼす
+可能性があるため、避けなければならない。有意な所見を得るためには、適切な技術と経験を有する熟練スタッフが行う必要がある。 
+ 本邦では、病態検出を目的としたエコー検査は広く普及しつつあり、心停止患者に対しても診断に寄与する機会が増えている。しかし、各種の
+バイアスや個々の患者の多様性を考慮すると、エビデンスの創出には限界があり、現時点でのエビデンスレベルは低い。 
+ 以上を踏まえ、CPR 中に病態検出を目的としたエコー検査をルーチンで行うことは推奨されない。ただし、適切な条件下では、病態検出を目的
+としたエコー検査が診断に寄与する可能性があるため、病態検出を目的としたエコー検査実施を完全に否定するものではない。本邦における
+簡便で小型化された超音波機器の普及状況や施行体制を考慮すれば、CPR 中の病態検出を目的としたエコー検査は適切な場面で考慮され
+るべき検査手段の一つであると位置づけるのが妥当である。 
+ 
+２． わが国への適用 
+2025 年に新たな提案を行う予定である。 
+CPR 中に病態検出を目的としたエコー検査をルーチンには施行しないことを提案する。一方で、以下の条件をすべて満たす場合には、付加的検
+査として病態検出を目的としたエコー検査の実施を検討することを提案する： 
+ 質の高い CPR の妨げとならないこと 
+ 経験豊富なスタッフが実施できること 
+ 病態検出を目的としたエコー検査で発見しうる心停止の可逆的原因が疑われること（心タンポナーデ、心嚢液貯留、肺塞栓症、心筋梗塞、大
+動脈解離、循環血液量減少など） 
+なお、JRC 蘇生ガイドライン 2020 では心エコーは予後評価を目的としないことが提案されているが、今回の議論は経食道エコーを含む病態検出
+を目的としたエコー検査全体を対象としており、予後評価を目的としたものではないため、推奨内容が異なる。 
+また，ILCOR が述べている POCUS（病態検出を目的としたエコー検査）とは，ベッドサイドで実施する簡易エコー検査のことだけを指しているので
+はなく，経食道エコーによる大動脈解離の検出など，病態検出を目的としたエコー検査すべてを含んでいる． 
+ 
+３．担当メンバー 
+[[p4]]
+4 
+ 
+作業部会員（五十音順） 
+赤坂理、桑原政成、佐藤信宏、中嶋駿介、世良俊樹、田村志宣 
+共同座長（五十音順） 
+ 鈴木昌 
+担当編集委員（五十音順） 
+大下慎一郎、黒田泰弘 
+顧問 
+相引眞幸 
+編集委員長 
+ 坂本哲也 
+ 

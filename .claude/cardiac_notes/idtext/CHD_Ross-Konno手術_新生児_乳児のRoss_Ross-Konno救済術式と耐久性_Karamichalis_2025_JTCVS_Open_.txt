@@ -1,0 +1,1366 @@
+
+[[p1]]
+The Ross/Ross-Konno operation in neonates and infants:
+A salvage strategy and a durable repair
+John M. Karamichalis, MD, PhD, a Morgan K. Moroi, MD, a Alice V . Vinogradsky, MD,a
+Edward Buratto, MD, PhD, a Priyanka Asrani, MD, b Diana V argas Chaves, MD,b
+Andrew B. Goldstone, MD, PhD, a David Kalfa, MD, PhD, a and Emile A. Bacha, MD a
+ABSTRACT
+Objective: To review a single-center experience of the Ross operation in neonates
+and infants with severe aortic valve disease.
+Methods: Retrospective review identi ﬁed patients younger than age 1 year who
+underwent Ross operation between 2010 and 2024. Primary outcome was
+cumulative incidence of death with transplant as a competing risk. Early and
+midterm outcomes were analyzed, including postoperative complications and rein-
+terventions. A subgroup analysis of patients who remained hospitalized until Ross
+procedure was performed. Median follow-up was 5.7 years (interquartile range,
+2.9-8.8. years).
+Results: Twenty-nine patients (5 neonates and 24 infants) underwent the Ross
+operation, 24 (82.8%) of whom had a Konno procedure. Median age was 3.5 months
+(interquartile range, 1.1-5.7 months). Median weight was 4.9 kg (interquartile range,
+3.9-6.0 kg). Five patients (27.2 %) were born with isolated critical aortic stenosis,
+whereas 24 patients had other complex left-sided lesions. Twenty- ﬁve patients
+(86.2%) had prior aortic or aortic valve procedures: 14 balloon valvuloplasty, 3
+open valvotomy, 1 surgical valve repair, 8 interrupted arch repairs, 5 coarctation
+or arch repairs, and 2 subaortic stenosis repairs. A subset (n ¼ 11) could not be dis-
+charged from the hospital, mostly due to residual valve disease after balloon dila-
+tion, and underwent salvage Ross. Nineteen patients (65.5 %) had concomitant
+operations. There was 1 in-hospital and 1 late mortality. Two patients required trans-
+plant. At follow-up, 1 patient had moderate or greater neoaortic insuf ﬁciency
+requiring reintervention.
+Conclusions: The Ross operation can be performed in neonates and infants with
+excellent midterm outcomes. This operation can be safely offered as an exit strat-
+egy in neonates and infants with residual aortic valve disease who are unable to be
+discharged. (JTCVS Open 2025;25:312-25)
+0%
+0 5
+Years since Ross
+10
+29At Risk
+Events
+16 5
+022
+5%
+10%
+15%Cumulative Incidence
+20%
+25%
+Cumulative Incidence of Death with Transplant as Competing Risk
+Cumulative incidence of death with transplant as a
+competing risk in infants following Ross.
+CENTRAL MESSAGE
+The Ross operation can be safely
+performed in neonates and in-
+fants with acceptable in-hospital
+mortality and excellent midterm
+outcomes.
+PERSPECTIVE
+The Ross procedure can be performed in infants
+and neonates with acceptable in-hospital mortal-
+ity and excellent midterm outcomes. For the sub-
+set of patients who cannot be discharged due to
+their critical aortic valve disease, the Ross opera-
+tion may provide an exit strategy, allowing pa-
+tients to be discharged from the hospital.The management of congenital aortic stenosis in infants and
+neonates remains a challenge for congenital heart surgeons.
+Although transcatheter balloon dilation or surgical
+valvotomy may be considered as a ﬁrst-choice treatment
+in neonates and infants with critical aortic stenosis, replace-
+ment of the aortic valve may become necessary with time.
+Unfortunately, there are limited options for aortic valve
+replacement in young pediatric patients. Aortic valve
+replacements utilizing porcine, homograft, or mechanical
+valve substitutes have been performed but shown to have
+poor outcomes. Biological prostheses and homografts
+undergo accelerated degeneration and structural failure,
+1-5
+whereas long-term anticoagulation necessary for
+From the aSection of Pediatric and Congenital Cardiac Surgery, Department of
+Surgery; and bDivision of Cardiology, Department of Pediatrics, New Y ork Presby-
+terian-Morgan Stanley Children’s Hospital, New Y ork, NY .
+IRB: AAAR3478.
+Read at the 50th Annual Meeting of the Western Thoracic Surgical Association,
+V ail, Colorado, June 26-29, 2024.
+Received for publication June 27, 2024; revisions received Feb 21, 2025; accepted for
+publication March 2, 2025; available ahead of print April 17, 2025.
+Address for reprints: John M. Karamichalis, MD, PhD, Section of Pediatric and
+Congenital Cardiac Surgery, Department of Surgery, New Y ork-Presbyterian
+Morgan Stanley Children’s Hospital, 3959 Broadway, Babies N, Suite 276, New
+Y ork, NY 10032 (E-mail: jmk2295@cumc.columbia.edu).
+2666-2736
+Copyright /C2112025 The Author(s). Published by Elsevier Inc. on behalf of The Amer-
+ican Association for Thoracic Surgery. This is an open access article under the CC BY
+license (http://creativecommons.org/licenses/by/4.0/).
+https://doi.org/10.1016/j.xjon.2025.03.010
+312 JTCVS Open c June 2025
+CONGENITAL: AORTIC V ALVE
+[[p2]]
+mechanical valves has been associated with increased
+thromboembolic and hemorrhagic complications. 1,2
+Further, all of these options fail to grow with the child.
+Considering these limitations, the Ross procedure pre-
+sents a favorable opportunity—an autologous valve substi-
+tute that allows for excellent hemodynamics, growth, and
+adaptive remodeling. First described in 1967 in adult pa-
+tients,
+6 the Ross procedure has become a viable and robust
+option for aortic valve replacement in pediatric patients. 7-16
+High operative mortality in infant and neonate patients,
+aortic insufﬁciency secondary to progressive dilation of
+the neoaortic root, and reoperation on the left ventricular
+outﬂow tract (LVOT) or right ventricular outﬂow tract
+remain ongoing concerns.
+7-16 Herein, we describe our
+institutional experience with the Ross-Konno procedure in
+young infants and neonates with regard to early and
+midterm morbidity, mortality, and rates of reintervention.
+METHODS
+Study Design
+The Institutional Review Board of Columbia University Irving Medical
+Center approved this study (AAAR3478; approved August 12, 2022). A
+waiver of informed consent was obtained. A retrospective review of 29 pa-
+tients younger than age 1 year who underwent the Ross operation at our
+institution between 2010 and 2024 was performed. A subgroup analysis
+of 11 patients who remained hospitalized after birth before undergoing
+Ross operation was conducted to assess the ability of the Ross procedure
+to act as an exit strategy for this population. Patients were only considered
+to be in the subgroup if they had care requirements necessitating hospital-
+ization, such as poor LV function requiring inotropic support or respiratory
+failure requiring mechanical ventilation.
+Data Collection
+Electronic medical records were reviewed to obtain detailed demo-
+graphic, echocardiographic, operative, and clinical data, including in-
+hospital postoperative complications. Postdischarge data, including
+follow-up echocardiographic data, instances of reintervention on the pulmo-
+nary autograft or right ventricle to pulmonary artery (RV -P A) conduit, as
+well as survival status, were collected through review of the electronic med-
+ical record or by contacting patients and their primary cardiologists. Echo-
+cardiographic parameters were collected from diagnostic cardiology reports
+and measured according to the American Society of Echocardiography
+guidelines. Degrees of aortic stenosis and aortic insufﬁciency were graded
+at the level of the aortic valve for consistency. For each patient, echocardio-
+graphs were limited to 1 per distinct time period: 0 to 1 month, 3 to 6 months,
+6 to 9 months, 9 to 12 months, 1 to 3 years, 3 to 5 years, 5 to 10 years, and 10
+to 15 years. For patients with multiple echocardiographs per time period, the
+earliest complete echocardiogram results were selected for incorporation
+into the study. When applicable, aortic and pulmonary root dimensions
+were calculated using the Boston z-score method.
+17,18 For survivors to
+discharge, all patients had postdischarge echocardiographic data available.
+Follow-up was considered to be 88.9 % complete in terms of patients who
+had echocardiographic data available from 2022 or later. Median follow-
+up was 5.7 years (interquartile range [IQR], 2.9-8.8 years).
+Study End Points
+The primary outcome of interest was the cumulative incidence of death
+with transplant as competing risk. Secondary outcomes included early post-
+operative complications, reintervention on the autograft, reintervention on
+the RV -P A conduit, transplant, and late mortality. For patients who experi-
+enced a postoperative complication associated with increased neurodeve-
+lopmental risk (ie, stroke, cardiac arrest, or extracorporeal membrane
+oxygenation [ECMO]), late neurodevelopmental outcomes were examined.
+Patient Selection and Operative Technique
+Our institutional preference for suitable valves with aortic stenosis is to
+proceed with percutaneous balloon valvuloplasty as an initial intervention,
+if the aortic annulus is of sufﬁcient size. Similarly, for recurrent aortic valve
+stenosis, percutaneous balloon valvuloplasty may be reconsidered. In pa-
+tients who may not be ideal candidates for balloon valvuloplasty or may
+have other concomitant lesions necessitating surgical intervention, open
+surgical valvuloplasty or open aortic valve repair (involving surgical valvu-
+loplasty and other techniques such as aortic valve leaﬂet shaving) may be
+considered. However, if the obstruction is subaortic or the primary concern
+is signiﬁcant regurgitation, then we elect to proceed with the Ross/Ross-
+Konno operation. During the study period, 5 surgeons performed the
+Ross procedure for this patient population.
+Operative techniques for the Ross and Ross-Konno operations have
+been previously described.
+19,20 In short, the procedure is performed
+through a standard midline sternotomy, using standard techniques of car-
+diopulmonary bypass with bicaval or single venous cannulation with mod-
+erate systemic hypothermia. Antegrade cerebral perfusion is utilized in
+cases of arch reconstruction. The pulmonary root is harvest with either a
+beating heart or following crossclamp application and cardioplegia deliv-
+ery. Once harvested, the pulmonary root is measured with a Hegar dilator
+to ensure there is no size mismatch with the native aortic root. We generally
+accept around 30% size mismatch. The autograft is trimmed and implanted
+at the subannular level using interrupted monoﬁlament mattress sutures.
+The coronary arteries are implanted as buttons into their respective sinuses,
+and the distal anastomosis is performed in standard fashion. Next, an appro-
+priately sized RV -PA conduit is sewn into the right ventricular outﬂow tract
+position. When re-establishing RV-PA continuity, our institutional prefer-
+ence is to use the largest possible size acceptable for the size and weight
+of the patient to maximize the potential lifespan of the conduit. When avail-
+able in the appropriate size, we favor reconstruction with pulmonary homo-
+graft. However, when unavailable, we will use an aortic homograft or a
+Contegra (Medtronic) conduit.
+When signiﬁcant LVOT obstruction is present, a modiﬁed Konno inci-
+sion is carried out to the left of the right coronary artery into the interven-
+tricular septum, with the length of the incision dependent on the nature of
+the LVOT obstruction. During implantation of the pulmonary autograft, the
+right ventricle muscle cuff is used to close the septal defect.
+Mitral valve repair and endocardial ﬁbroelastosis (EFE) resection are
+performed as needed, and the decision to perform mitral valvuloplasty is
+at the discretion of the surgeon. In general, our institution aims to repair
+the valve if moderate or greater regurgitation is present, and the valve
+anatomically appears amenable to repair. We also elect to perform exten-
+sive EFE resection when there is signiﬁcant ﬁbrous tissue present that is re-
+stricting LV function. During the postoperative period, the patient’s blood
+pressure is tightly controlled, and we generally target normal age-speciﬁc
+blood pressure values.
+Abbreviations and Acronyms
+ECMO ¼ extracorporeal membrane oxygenation
+EFE ¼ endocardial ﬁbroelastosis
+LVOT ¼ left ventricular outﬂow tract
+PGE ¼ prostaglandin E1
+RV-PA ¼ right ventricle to pulmonary artery
+VSD ¼ ventricular septal defect
+JTCVS Open c Volume 25, Number C 313
+Karamichalis et al Congenital: Aortic Valve
+[[p3]]
+Statistical Analysis
+Continuous variables were assessed for normality and are expressed as
+median (IQR). Categorical variables are presented as proportions. Differ-
+ences between groups were assessed using the Fisher exact test for categor-
+ical variables or the Mann-Whitney U test for nonnormally distributed
+continuous variables. Cumulative incidence curves for death were esti-
+mated using a competing risks approach to account for transplant as a
+competing event. Speciﬁcally, we computed the nonparametric cumulative
+incidence function using the cuminc function in the R package cmprsk.
+21
+The cumulative incidence function and 95 % CI were subsequently visual-
+ized using a ggplot-based framework (via ggcuminc function), with risk ta-
+bles added to display the number of patients at risk at designated time
+points. Time was measured in years from the patient’s Ross procedure.
+Time from Ross/Ross-Konno to incidence of reintervention (on the pulmo-
+nary autograft or RV-PA conduit) were assessed using the Kaplan-Meier
+method. Patients were censored at the time of last known follow-up, death,
+or transplant. Kaplan-Meier curves were terminated when the number at
+risk fell below 10 % of the sample. Baseline characteristics with missing
+variables are detailed in Table E1. Statistical analysis was performed using
+R statistical software, version 2023.06.2þ561 (R Foundation for Statistical
+Computing).
+RESULTS
+Patient Demographic and Preoperative
+Characteristics
+A total of 29 patients (5 neonates and 24 infants) met in-
+clusion criteria and underwent the Ross operation at
+younger than age 1 year. Individual patient details are listed
+?s?PM?a??????L
+marized in Table 2. Eighteen (62.1 %) patients were boys.
+Median age at time of repair was 3.5 months (IQR, 1.1-
+5.7 months) and median weight was 4.9 kg (IQR, 3.9-
+6.0 kg). Of these patients, 5 (17.2 %) patients were born
+prematurely and 7 (24.1 %) had associated genetic diagno-
+ses. A majority of patients (64.3 %) had a bicuspid aortic
+valve. The primary diagnosis was isolated critical aortic ste-
+nosis in 5 patients. However, most patients (n ¼ 24
+[82.8%]) had other complex left-sided lesions contributing
+to multilevel outﬂow tract obstruction, including subaortic
+stenosis (75.9%), interrupted aortic arch (27.6 %), arch hy-
+poplasia (37.9%), and coarctation of the aorta (24.1 %).
+Twenty-ﬁve (86.2%) patients had a prior aortic or aortic
+valve intervention: 14 balloon valvuloplasty, 3 open valvot-
+omy, 1 surgical aortic valve repair of a unicuspid valve
+involving open valvotomy and leaﬂet shaving, 8 interrupted
+aortic arch repairs, 5 coarctation or aortic arch repairs, and 2
+subaortic stenosis repairs. Before undergoing the Ross pro-
+cedure, 4 patients had repeat balloon valvuloplasty before
+undergoing the Ross procedure. Two patients were initiated
+down the single-ventricle pathway before proceeding with a
+biventricular repair involving the Ross procedure. One pa-
+tient presented to an outside hospital during the early
+neonatal period with poor feeding, respiratory distress,
+and signs of cardiogenic shock. The patient was intubated,
+started on prostaglandin E1 (PGE) and inotropic support,
+and found to have signiﬁcant LVOT narrowing as well as
+coarctation of the aorta with a large ventricular septal defect
+(VSD). The patient underwent a Norwood operation with
+Sano shunt placement and was transferred to our center.
+Rather than continuing down the single-ventricle pathway,
+a biventricular repair involving the Ross operation was per-
+formed. The second patient was born with double-outlet
+right ventricle, noncommitted inlet VSD, tunnel subaortic
+stenosis, and hypoplastic left-sided aortic arch with circum-
+ﬂex aorta that underwent pulmonary artery banding
+following by patent ductus arteriosus stenting and eventual
+aortic uncrossing, Damus-Kaye-Stansel procedure, arch
+repair, bidirectional Glenn, and left modiﬁed Blalock-
+Taussig shunt. The patient was inadvertently extubated
+and experienced respiratory cardiac arrest that was compli-
+cated by sternal dehiscence requiring multiple sternal revi-
+sions. After undergoing stage II, the patient continued to
+have poor respiratory failure and remained intubated with
+poor oxygenation. Therefore, the decision was made to pur-
+sue a biventricular repair with the Ross operation, which al-
+lowed the patient to be discharged.
+Preoperatively, 8 (27.6 %) patients required mechanical
+ventilation, 7 (24.1 %) patients were supported with ino-
+tropes, and 3 (10.3 %) patients were receiving PGE infu-
+sion. Median native aortic annulus z-score at time of
+surgery was /C0 2.8 (IQR, /C0 3.8 to /C0 1.6), and median native
+pulmonary annulus z-score was /C0 0.1 (IQR, /C0 1.1 to 1.2).
+Intraoperative Characteristics and Early Outcomes
+Intraoperative details and early outcomes are described in
+Table 3. Of the 29 patients, the Konno enlargement proced-
+ure was performed in 24 (82.8 %) cases. Other concomitant
+procedures at the time of Ross operation included 10
+(34.5%) aortic arch augmentations, 5 (17.2 %) endocardial
+ﬁbroelastosis resections, and 7 (24.1 %) mitral valve re-
+pairs. RV-PA continuity was most frequently established
+with a pulmonary homograft (n ¼ 21). Otherwise, an aortic
+homograft (n ¼ 6), Contegra conduit (n ¼ 1), or Hancock
+(Medtronic) conduit (n
+¼?PH??M?l?quLo`
+conduit size was 11 mm (IQR, 9.5-13.5 mm). Median car-
+diopulmonary bypass and aortic crossclamp times were
+205 minutes (IQR, 172-245 minutes) and 132 minutes
+(IQR, 120-164 minutes), respectively. Eleven (37.9 %) pa-
+tients (4 of 5 neonates, 7 of 24 infants) left the operating
+room with an open chest.
+During the early postoperative period, there was 1 (3.4%)
+in-hospital mortality, 5 (17.2 %) patients who experienced
+cardiac arrest, and 5 (17.2 %) patients who required
+ECMO. Two patients left the operating room on ECMO:
+1 patient had a bradycardic event while closing the chest
+and 1 patient was cannulated in the setting of high PA pres-
+sures (75% systemic) and difﬁculty ventilating. A third pa-
+tient was cannulated to ECMO on postoperative day 1 after
+experiencing increased pressor requirements and signiﬁ-
+cantly reduced cardiac function. On postoperative day 1,
+another patient experienced cardiac arrest that ultimately
+314 JTCVS Open
+c June 2025
+Congenital: Aortic Valve Karamichalis et al
+[[p4]]
+s`akd?PM?c??
+Patient
+Age
+(mo)
+Wt
+(kg) Primary diagnosis Prior interventions
+Remained
+hospitalized
+before
+Ross
+Reason for inability to
+discharge
+A V path
+at Ross
+Aortic
+annulus
+(mm) z- score Procedure
+RVOT
+conduit
+1 8.0 5.7 Critical AS, CoA,
+Shone’s complex
+- BVP
+- CoA repair
+- BD of CoA
+No NA Mixed 8 /C0 0.5 Ross-Konno PH
+2 1.1 4.2 IAA with severe
+L VOTO, VSD, EFE
+IAA þ VSD repair No NA AS 4 /C0 4.7 Ross-Konno PH
+3 0.2 2.5 Critical AS, sub-AS,
+VSD, AA
+hypoplasia, CoA
+None Yes Critical AS þ sub-AS
+requiring CPAP and
+PGE infusion
+AS 3.5 /C0 4.7 Ross-Konno þ VSD
+closure þ AA/CoA
+repair
+AH
+4 10.3 6.5 IAA with severe
+L VOTO, VSD
+- IAA repair þ PA band
+- PA band takedownþ ASD/
+VSD repair
+No NA AS 4 /C0 5.67 Ross-Konno AH
+5 7.1 7.4 IAA with severe
+L VOTO, VSD, CoA
+- IAA þ VSD repair
+- BD of CoA
+- LVOT resection þ surgical
+VP
+No NA AI – – Ross-Konno þ AA
+repair
+Hancock
+6 2.7 3.6 Critical AS BVP Yes Sepsis, UVC
+extravasation on
+DOL4 requiring
+exploratory
+laparotomy, BVP on
+DOL7 c/b severe AI,
+ventilator
+dependence with
+poor weight gain
+requiring NGT feeds
+AI 7.2 0.05 Ross PH
+7 4.1 8.0 IAA with severe
+L VOTO, VSD
+IAA þ VSD repair No NA AS 5 /C0 5.12 Ross-Konno þ AA
+repair
+Contegra
+8 4.4 6.0 Critical AS BVP No NA Mixed – – Ross AH
+9 1.5 3.9 Critical AS, sub-AS,
+AA hypoplasia, EFE
+- BVP
+- BVP
+Yes Severe AS, mild-
+moderate AI with
+severely depressed
+LV function
+requiring inotropic
+support
+Mixed 6.4 /C0 1.47 Ross-Konno þ EFE
+resection
+PH
+10 1.7 4.0 Critical AS, sub-AS,
+AA hypoplasia, EFE,
+MR/MS
+- Fetal BVP
+- BVP
+No NA Mixed 5.6 /C0 2.61 Ross-Konno þ EFE
+resection þ MV
+repair (PM
+splitting)
+PH
+11 1.8 3.7 Critical AS BVP Yes Moderate-severe AI
+after BVP with poor
+LV function and
+prolonged
+intubation. Now
+extubated on
+inotropic support
+with poor weight
+gain requiring NGT
+feeds
+AI 6.1 /C0 1.65 Ross PH
+12 2.8 4.4 Critical AS, MS/MR BVP No NA Mixed 6.3 /C0 1.8 Ross þ MV repair (PM
+splitting,
+debridement of
+secondary chordae)
+PH
+(Continued)
+JTCVS Open c Volume 25, Number C 315
+Karamichalis et al Congenital: Aortic Valve
+[[p5]]
+s`akd?PM?b
+Patient
+Age
+(mo)
+Wt
+(kg) Primary diagnosis Prior interventions
+Remained
+hospitalized
+before
+Ross
+Reason for inability to
+discharge
+A V path
+at Ross
+Aortic
+annulus
+(mm) z- score Procedure
+RVOT
+conduit
+13 1.0 3.0 Critical AS BVP Y es Persistent severe
+AS þ moderate AI
+after BVP c/b
+pericardial effusion
+requiring drainage,
+prolonged
+intubation, failure to
+thrive. Now
+extubated with poor
+weight gain requiring
+NGT feeds
+Mixed 5.7 /C0 0.55 Ross-Konno AH
+14 3.5 5.1 Critical AS, sub-AS,
+AA hypoplasia,
+CoA, MR
+- CoA repair
+- BVP
+No NA Mixed 5.9 – Ross-Konno þ MV
+repair (posterior
+commisuroplasty)
+AH
+15 0.5 4.2 Critical AS, sub-AS,
+VSD, AA
+hypoplasia, CoA,
+Shone’s complex
+None No NA AS 5.1 /C0 3.34 Ross-Konno þ VSD
+closure þ AA repair
+PH
+16 3.0 6.7 IAA þ IVS with severe
+LVOTO, large ASD,
+Shone’s complex
+IAA repair þ AV
+repair þ MV
+plasty þ fenestrated
+ASD closure
+No NA AS 7 /C0 2.08 Ross-Konno þ redo
+MV repair
+(debridement of
+secondary chordae)
+PH
+17 0.8 1.4 Critical AS, AA
+hypoplasia
+BVP Y es BVP c/b aortic
+dissection, persistent
+AS, poor LV function
+requiring inotropic
+support, ventilator
+dependence
+AS – – Ross þ AA repair PH
+18 5.8 5.8 Critical AS, sub-AS BVP No NA AS 6.1 /C0 2.99 Ross-Konno PH
+19 7.0 6.0 IAA with severe
+LVOTO, VSD
+IAA þ VSD repair No NA AS 5.3 /C0 3.98 Ross-Konno þ AA
+repair þ VSD repair
+PH
+20 5.1 6.1 Critical AS BVP No NA AI 8.5 /C0 0.5 Ross-Konno PH
+21 0.5 3.3 Critical AS, sub-AS,
+AA hypoplasia, EFE
+- Fetal BVP
+- Arch
+augmentation þ surgical
+VP
+Y es Persistent severe AS c/b
+poor LV function
+requiring inotropic
+support, ventilator
+dependence
+AS 4.6 /C0 3.5 Ross-Konno þ EFE
+resection
+PH
+22 6.0 4.9 IAA with severe
+LVOTO, VSD
+IAA þ VSD repair Y es Ex-26-wk infant with
+chronic respiratory
+insufﬁciency and
+persistent severe
+LVOTO
+AS 5.5 /C0 2.9 Ross-Konno þ AA
+repair
+PH
+23 0.5 4.1 Critical AS, sub-AS,
+EFE
+- BVP
+- BVP
+Y es Moderate residual AS
+and severe AI
+requiring inotropic
+support, ventilator
+dependence
+Mixed 4.5 – Ross-Konno þ EFE
+resection
+PH
+24 11.0 6.3 DORV , VSD, AS, sub-
+AS, left AA with
+hypoplasia, CoA,
+TR, MR
+- PA banding
+- PDA stent
+- CoA stent
+- Aortic uncrossing, arch
+repair, DKS, PA plasty,
+BDG, RMBTS
+No NA AS 5.5 /C0 3.7 DKS
+takedown þ Ross-
+Konno þ VSD
+repair þ MV repair
+(commisuroplasty)
+þ TV repair þ
+BTS takedown
+PH
+QT?RMT?TMO?``??
+severe
+LVOTO, VSD
+Arch þ VSD repair,
+L VOT myomectomy
+No NA AS 6 /C0 2.64 Ross-Konno þ AA
+repair
+PH
+26 3.7 5.7 Congenital AS/AI, sub-
+AS
+None No NA Mixed 7.7 /C0 0.51 Ross-Konno AH
+(Continued)
+316 JTCVS Open c June 2025
+Congenital: Aortic Valve Karamichalis et al
+[[p6]]
+resulted in the 1 in-hospital mortality. In addition, 2 more
+patients experienced cardiac arrest from bradycardia during
+endotracheal tube suctioning, and 2 patients had a cardiac
+arrest triggered by pulmonary hypertensive crises: 1 of
+whom was managed with 48 hours of ECMO support, the
+other was resuscitated and improved with inhaled nitric ox-
+ide. Lastly, 1 patient developed severe biventricular
+dysfunction following Ross-Konno operation on day of
+life 14 requiring 3 weeks of ECMO support. Although
+this patient initially recovered, the patient had a prolonged
+hospitalization and experienced bradycardic arrest on post-
+operative day 137 in the setting of acidosis and septic shock,
+resulting in a second ECMO insertion and eventual trans-
+plant on postoperative day 140.
+Regarding other early postoperative complications, 3
+(10.3%) patients had evidence of stroke, with 2 strokes
+occurring in the setting of ECMO use. Six (20.7 %) patients
+experienced prolonged mechanical ventilation for more
+than 7 days. Two (6.9 %) patients required branch pulmo-
+nary artery stenting for residual stenosis. Out of the 24 pa-
+tients who underwent the Ross-Konno procedure, 1 patient
+had a small residual VSD and underwent VSD closure along
+with RV-PA conduit exchange at 3 months postoperatively.
+Additionally, 1 (3.4 %) neonate who underwent Ross-
+Konno operation with simultaneous arch repair required
+early permanent pacemaker implantation postoperatively.
+Median hospital length of stay for the entire cohort was
+28 days (IQR, 11-57 days).
+Late Outcomes
+There was 1 late death reported 3.5 years postopera-
+tively due to cardiac arrest on presentation to the emer-
+gency department in the setting of sepsis. One (3.4 %)
+patient with a history of Shone’s complex required late
+transplant at nearly 3 years postoperation. Following
+initial Ross-Konno operatio n with concomitant mitral
+valve repair, the patient required redo RV-PA conduit ex-
+change and mitral valve replacement, which was compli-
+cated by complete heart block requiring permanent
+pacemaker implantation. The patient subsequently
+developed severe biventricula r dysfunction necessitating
+biventricular assist device insertion and eventual trans-
+plantation. Before initiation o f mechanical circulatory
+support, autograft performance remained in good
+s`akd?PM?b
+Patient
+Age
+(mo)
+Wt
+(kg) Primary diagnosis Prior interventions
+Remained
+hospitalized
+before
+Ross
+Reason for inability to
+discharge
+A V path
+at Ross
+Aortic
+annulus
+(mm) z- score Procedure
+RVOT
+conduit
+27 0.9 3.6 Critical AS, sub-AS,
+AA hypoplasia, EFE,
+MR
+- Fetal BVP
+- Atrial balloon
+septostomy þ BVP
+- Bilateral PA ﬂow
+restrictors
+Yes Residual severe AS
+c/b cardiogenic
+shock and
+multisystem organ
+dysfunction
+(ventilator
+dependence, AKI,
+liver
+dysfunction)
+requiring inotropic
+support
+AS 5.7 /C0 2.29 Ross-Konno þ AA
+repair þ EFE
+resection þ MV
+repair (PM
+splitting) þ LPA
+plasty
+PH
+28 5.7 5.2 Critical AS, sub-AS,
+AA hypoplasia, VSD
+Norwood/Sano No NA AS 5 /C0 4.2 Ross-Konno þ VSD
+repair þ AA
+repair þ PA plasty
+PH
+29 4.1 4.9 IAA with severe
+L VOTO, VSD, TR
+- IAA þ supraAS þ VSD
+repair
+- Closure of residual VSD,
+LVOT chordae release,
+surgical VP , TV repair
+- AA ballooning
+Yes Prior surgery c/b
+delayed chest
+closure, residual
+severe LVOTO,
+prolonged
+mechanical
+ventilation. Now
+extubated but with
+increased work of
+breathing and poor
+weight gain requiring
+NGT feeds
+AS 5 /C0 3.66 Ross-Konno þ septal
+myectomy þ MV
+repair (debridement
+of secondary
+chordae)
+PH
+AV, Aortic valve; RVOT, right ventricular outﬂow tract; AS, aortic stenosis; CoA, coarctation; BVP, balloon valvuloplasty; BD, balloon dilation; NA, not available; PH, pulmonary
+homograft; IAA, interrupted aortic arch; LVOTO, left ventricular outﬂow tract obstruction; VSD, ventriculoseptal defect; EFE, endocardial ﬁbroelastosis; AA, aortic arch; CPAP,
+continuous positive airway pressure; PGE, prostaglandin E; AH, aortic homograft; PA, pulmonary artery; ASD, atrial septal defect; VP, valvuloplasty; UVC, umbilical venous
+catheter; DOL4, day of life 4; DOL7, day of life 7; c/b, complicated by; AI, aortic insufﬁciency; NGT, nasogastric tube; LV, left ventricle; MR, mitral regurgitation; MS, mitral
+stenosis; MV, mitral valve; PM, papillary muscle; IVS, intact ventricular septum; DORV, double outlet right ventricle; TR, tricuspid regurgitation; PDA, patent ductus arteriosus;
+DKS, Damus-Kaye-Stansel; BDG, bi-directional Glenn; RMBTS, right modiﬁed Blalock-Taussig shunt; TV, tricuspid valve; BTS, Blalock-Taussig shunt; AKI, acute kidney injury;
+LPA, left pulmonary artery.
+JTCVS Open c Volume 25, Number C 317
+Karamichalis et al Congenital: Aortic Valve
+[[p7]]
+standing with no stenosis and trivial regurgitation.
+Cumulative incidence of d eath with transplant as
+c o m p e t i n gr i s kw a s3 . 4% (95% CI, 0.2 %-15.2%),
+8.4% (95% CI, 1.3 %-24.2%), and 8.4 % (95% CI,
+1.3%-24.2%)a t2 ,4 ,a n d8y e a r sp o s t o p e r a t i v e l y ,
+respectively ( Figure 1 ).
+Reintervention was not uncommon following the initial
+Ross/Ross-Konno operation, as shown in Table 3 .A s
+TABLE 2. Baseline characteristics for neonatal and infant patients undergoing Ross procedure
+Variable
+All patients
+(N ¼ 29)
+Remained hospitalized
+before Ross
+(n ¼ 11)
+Discharged
+before Ross
+(n ¼ 18) P value
+Male sex 18 (62.1) 8 (72.7) 10 (55.6) .60
+Age at surgery (mo) 3.5 (1.1-5.7) 1.0 (0.6-2.3) 4.2 (3.1-6.7) .003
+Weight at surgery (kg) 4.9 (3.9-6.0) 3.6 (3.2-4.0) 5.7 (5.0-6.3) <.001
+Premature 5 (17.2) 4 (36.4) 1 (5.6) .10
+Genetic syndrome .800
+DiGeorge syndrome 2 (6.9) 1 (9.1) 1 (5.6)
+Turner syndrome 1 (3.4) 0 (0.0) 1 (5.6)
+Other 4 (13.8) 2 (18.2) 2 (11.1)
+None 22 (75.9) 8 (72.7) 14 (77.8)
+Preoperative mechanical ventilation 8 (27.6) 5 (45.5) 3 (16.7) .21
+Preoperative inotropic support 7 (24.1) 6 (54.5) 1 (5.6) .01
+Preoperative prostaglandin E1 3 (10.3) 2 (18.2) 1 (5.6) .65
+o??????QT?GWUMQH?PO?GXOMXH?PT?GWRMRH?MXX
+Other complex left-sided lesions
+Coarctation 7 (24.1) 2 (18.2) 5 (27.8) .89
+Interrupted aortic arch 8 (27.6) 2 (18.2) 6 (33.3) .65
+Arch hypoplasia 11 (37.9) 4 (36.4) 7 (38.9) 1.00
+Subaortic stenosis/membrane 22 (75.9) 7 (63.6) 15 (83.3) .45
+Shone complex 3 (10.3) 0 (0.0) 3 (16.7) .42
+Mitral stenosis 3 (10.3) 0 (0.0) 3 (16.7) .42
+Fibroelastosis 6 (20.7) 4 (36.4) 2 (11.1) .25
+Aortic valve morphology .73
+Tricuspid 4 (14.3) 1 (9.1) 3 (17.6)
+Bicuspid 18 (64.3) 7 (63.6) 11 (64.7)
+Unicuspid 6 (21.4) 3 (27.3) 3 (17.6)
+Degree of preoperative AS .84
+None/trivial 3 (10.7) 1 (9.1) 2 (11.8)
+Mild 2 (7.1) 1 (9.1) 1 (5.9)
+Moderate 3 (10.7) 2 (18.2) 1 (5.9)
+Moderate-severe 4 (14.3) 1 (9.1) 3 (17.6)
+Severe 16 (57.1) 6 (54.5) 10 (58.8)
+Degree of preoperative AI 1.00
+None/trivial 11 (39.3) 4 (36.4) 7 (41.2)
+Mild 4 (14.3) 2 (18.2) 2 (11.8)
+Mild-moderate 2 (7.1) 1 (9.1) 1 (5.9)
+Moderate 3 (10.7) 1 (9.1) 2 (11.8)
+Moderate-severe 3 (10.7) 1 (9.1) 2 (11.8)
+Severe 5 (17.9) 2 (18.2) 3 (17.6)
+Native aortic annulus diameter (mm) 5.7 (5.0-6.3) 5.6 (4.7-6.0) 5.8 (5.1-6.5) .43
+Native aortic annulus z-score /C0 2.8 (/C0 3.8 to /C0 1.6) /C0 2.3 (/C0 3.5 to /C0 1.5) /C0 3.0 (/C0 4.1 to /C0 1.9) .34
+Native pulmonic annulus diameter (mm) 9.8 (8.8-11.2) 9.5 (9.0-10.8) 10.4 (8.7-11.8) .43
+Native pulmonic annulus z-score /C0 0.1 (/C0 1.1 to 1.2) /C0 0.02 (/C0 0.7 to 1.2) /C0 0.9 (/C0 1.2 to 1.2) .56
+V alues are presented as n ( %) or median (interquartile range). AS, Aortic stenosis; AI, aortic insufﬁciency.
+318 JTCVS Open c June 2025
+Congenital: Aortic Valve Karamichalis et al
+[[p8]]
+expected, most patients requiring reintervention had failing
+RV-PA conduits (n ¼ 15 [51.7 %]). Overall freedom from
+reintervention on the RV-PA conduit was 71.5 % (95%
+CI, 55.6 %-92.0%), 52.0 % (95% CI, 34.8 %-77.8%), and
+46.3% (95% CI, 29.1%-73.6%) at 2, 4, and 6 years post-
+operatively, respectively ( Figure 2 , B). Autograft function
+was very well preserved. Longitudinal follow-up revealed
+only 1 patient who exhibited moderate or greater neoaortic
+insufﬁciency. The patient developed progressive and even-
+tually severe neoaortic insufﬁciency without signiﬁcant
+root dilation and ultimately underwent neoaortic valve
+replacement with the Ozaki technique 7.5 years after Ross
+operation. All other remaining autografts are performing
+well at latest follow-up with no signiﬁcant stenosis and at
+most mild insufﬁciency. Overall freedom from reinterven-
+tion on the autograft was 100.0 %, 100.0 %, and 88.9 %
+(95% CI, 70.6 %-100.0%) at 2, 4, and 8 years following
+Ross operation, respectively ( Figure 2, A).
+Other late reinterventions are outlined in Table 3. Three
+(10.3%) patients needed repeat mitral valve intervention,
+which resulted in 1 mechanical and 2 Melody (Medtronic)
+mitral valve replacements. One of these patients developed
+complete heart block requiring permanent pacemaker im-
+plantation. Two (6.9 %) patients underwent branch PA
+stenting.
+Given the high incidence of cardiac arrest, ECMO, and
+stroke in our cohort, midterm neurodevelopmental out-
+comes were examined in this speciﬁc cohort of patients
+following discharge from the hospital (n ¼ 10). Patients
+who did not experience cardiac arrest, ECMO, or stroke
+were not assess for late neurodevelopmental outcomes.
+One patient who had an early spinal cord infarct after
+TABLE 3. Operative characteristics, perioperative outcomes, and late postoperative outcomes for neonatal and infantile patients undergoing Ross
+procedure
+Variable
+All patients
+(n ¼ 29)
+Remained hospitalized
+before Ross (n ¼ 11)
+Discharged
+before Ross
+(n ¼ 18) P value
+Operative characteristics
+CPB time (min) 205 (172-245) 207 (182-227) 203 (168-264) .91
+Crossclamp time (min) 132 (120-164) 143 (129-163) 123 (115-163) .39
+Ross-Konno procedure 24 (82.8) 8 (72.7) 16 (88.9) .54
+Concomitant procedure
+Concomitant aortic arch reconstruction 10 (34.5) 4 (36.4) 6 (33.3) 1.00
+Concomitant septal myectomy 1 (3.4) 1 (9.1) 0 (0.0) .69
+Concomitant EFE resection 5 (17.2) 4 (36.4) 1 (5.6) .10
+Concomitant mitral valve repair 7 (24.1) 2 (18.2) 5 (27.8) .89
+Perioperative outcomes
+In-hospital mortality 1 (3.4) 0 (0.0) 1 (5.6) 1.00
+In-hospital transplant 1 (3.4) 1 (9.1) 0 (0.0) .80
+Perioperative complications
+ECMO 5 (17.2) 0 (0.0) 5 (27.8) .16
+Cardiac arrest 5 (17.2) 0 (0.0) 5 (27.8) .16
+Prolonged mechanical ventilation 6 (20.7) 3 (27.3) 3 (16.7) .83
+Permanent pacemaker 1 (3.4) 1 (9.1) 0 (0.0) .80
+Stroke 3 (10.3) 0 (0.0) 3 (16.7) .42
+Sternal wound infection 1 (3.4) 1 (9.1) 0 (0.0) .80
+Branch PA stent 2 (6.9) 0 (0.0) 2 (11.1) .70
+Hospital length of stay (d) 28.0 (11.0-57.0) 34.0 (28.0-110.0) 13.5 (7.5-38.5) .009
+Late postoperative outcomes
+Late mortality 1 (3.4) 1 (9.1) 0 (0.0) .80
+Late transplant 1 (3.4) 0 (0.0) 1 (5.6) 1.00
+Late surgical reintervention
+Autograft reintervention 1 (3.4) 0 (0.0) 1 (5.6) 1.00
+RV -PA conduit reintervention 15 (51.7) 6 (54.5) 9 (50.0) 1.00
+Branch PA stenting 2 (6.9) 0 (0.0) 2 (11.1) .70
+Mitral valve reintervention 3 (10.3) 2 (18.2) 1 (5.6) .65
+Permanent pacemaker 1 (3.4) 0 (0.0) 1 (5.6) 1.00
+Duration of total follow-up time (y) 5.7 (2.9-8.8) 3.8 (2.2-6.7) 7.4 (4.7-10.0) .11
+V alues are presented as n (%) or median (interquartile range). CPB, Cardiopulmonary bypass; EFE, endocardial ﬁbroelastosis; ECMO, extracorporeal membrane oxygenation;
+PA, pulmonary artery; RV-PA, right ventricle to pulmonary artery.
+JTCVS Open c Volume 25, Number C 319
+Karamichalis et al Congenital: Aortic Valve
+[[p9]]
+Ross-Konno procedure with aortic arch repair had mild re-
+sidual motor defects at latest follow-up requiring a walker.
+One patient had an early stroke in the setting of ECMO after
+Ross-Konno procedure with aortic arch repair and VSD
+closure, and currently this patient has focal epilepsy and
+global developmental delay. One patient also had an early
+0%
+0 5
+Years since Ross
+10
+29At Risk
+Events
+16 5
+0 2 2
+5%
+10%
+15%Cumulative Incidence
+20%
+25%
+Cumulative Incidence of Death with Transplant as Competing Risk
+FIGURE 1. Cumulative incidence of death with transplant as competing risk. Numbers of patients at risk and number of events are included in the lower
+panel. Shaded 95% CIs are shown.
+0
+0
+QT
+50
+VT
+100
+A
+2 4 6
+Time since Ross, years
+Freedom from Autograft Reintervention
+Freedom from
+Autograft Reintervention, (%)
+81 0
+29 21 17 12 8 4
+0
+0
+QT
+50
+VT
+100
+B
+213 4
+Time since Ross, years
+Freedom from RV-PA Conduit Reintervention
+Freedom from RV-PA
+Conduit Reintervention, (%)
+5 67
+29 15 19 12 10 8 4 3
+AllAll
+FIGURE 2. Freedom from reintervention on pulmonary autograft or right ventricle (A) to pulmonary artery (RV-PA) conduit (B) following Ross operation
+in all neonate and infant patients. Numbers of patients at risk are included in the lower panel. Shaded 95% CIs are shown.
+320 JTCVS Open c June 2025
+Congenital: Aortic Valve Karamichalis et al
+[[p10]]
+stroke in the setting of ECMO after the Ross-Konno proced-
+ure with aortic arch repair and VSD closure. At latest
+follow-up, the patient has mild global developmental delay.
+Lastly, 1 patient who underwent cardiac arrest and ECMO
+cannulation was noted to have mild developmental delay
+at latest follow-up. Six (60 %) patients who experienced
+cardiac arrest, ECMO, and/or stroke did not exhibit any
+neurological deﬁcits at latest follow-up.
+Subgroup Analysis: Patients Hospitalized From
+Birth With Residual Critical Aortic Valve Disease
+Until Ross/Ross-Konno
+A total of 11 patients (72.7% boys) who remained hospi-
+talized after birth underwent the Ross procedure before
+1 year of life ( Table 2 ). Four (36.4 %) of these patients
+were premature and 3 patients (27.1 %) were diagnosed
+with a genetic syndrome. Eight (72.7%) neonatal and infan-
+tile patients within the subgroup had other concomitant
+complex left-sided lesions. One patient with critical aortic
+stenosis directly underwent the Ross procedure on day of
+life 7. The remaining 10 (90.9 %) patients had an aortic or
+aortic valve intervention before their Ross operation. All
+10 of these patients had residual obstructive lesions postin-
+tervention that contributed to hindered clinical status and
+prevented discharge from the hospital ( Table 1).
+Before undergoing the Ross procedure, a larger propor-
+tion of patients who remained hospitalized from birth to
+Ross required mechanical ventilation (hospitalized: 5
+[45.5%] vs discharged: 3 [16.7 %]; P ¼ .21), were sup-
+ported with inotropes (hospitalized: 6 [54.5 %] vs dis-
+charged: 1 [5.6 %]; P ¼ .01), and were receiving PGE
+infusion (hospitalized: 2 [18.2 %] vs discharged: 1
+[5.6%]; P ¼ .65). Median age at time of surgery for patients
+who remained hospitalized was 1.0 months (IQR, 0.6-
+2.3 months), compared with 4.2 months (IQR, 3.1-
+6.7 months) in patients who were discharged before Ross
+(P ¼ .003). Similarly, median weight at time of surgery
+was lower in patients hospitalized from birth to Ross pro-
+cedure (hospitalized: 3.6 kg [IQR, 3.2-4.0 kg] vs dis-
+charged: 5.7 kg [IQR, 5.0-6.3 kg]; P <.001).
+The predominate aortic valve pathology in both cohorts
+of patients was bicuspid with severe stenosis. Median native
+aortic annulus z-score at time of surgery was /C0 2.3 (IQR,
+/C0 3.5 to /C0 1.5) and /C0 3.0 (IQR, /C0 4.1 to /C0 1.9]) in the hospi-
+talized and discharged cohorts, respectively ( P ¼ .34). Me-
+dian native pulmonary annulus z-score was /C0 0.02 (IQR,
+/C0 0.7 to 1.2) and /C0 0.9 (IQR, /C0 1.2 to 1.2) in the hospitalized
+and discharged cohorts, respectively ( P ¼ .56). Operative
+details are displayed in Table 3. Most patients in both co-
+horts underwent the Konno procedure (72.7 % vs 88.9 %;
+P ¼ .54). Similarly, a majority of patients underwent
+concomitant procedures (ie, aortic arch reconstructions
+[hospitalized: 36.4 % vs discharged: 33.3 %; P ¼ 1.00],
+septal myectomy [9.1% vs 0.0%; P ¼ .69], EFE resections
+[36.4% vs 5.6%; P ¼ .10], and mitral valve repairs [18.2%
+vs 27.8%; P ¼ .89]).
+Subgroup analysis of the 11 patients who remained hos-
+pitalized after birth until Ross procedure showed that all
+survived to discharge home (0 % in-hospital mortality),
+although 1 patient required cardiac transplantation for se-
+vere biventricular dysfunction following Ross operation
+and there was 1 late death due to cardiac arrest of unknown
+etiology, as previously described. Three (25.0 %) patients
+experienced prolonged mechanical ventilation, 1 patient
+received a permanent pacemaker, and 1 patient developed
+a sternal wound infection. Median length of hospital stay
+was longer in patients hospitalized before Ross operation
+(hospitalized: 34.0 days [IQR, 28.0-110.0 days] vs dis-
+charged: 13.5 [IQR, 7.5-38.5 days]; P ¼ .009).
+There was 1 late death in the cohort hospitalized before
+Ross who presented to the hospital following cardiac arrest
+of unknown etiology. There was 1 late transplant in the
+cohort whose course following Ross was complicated by
+cardiac arrest requiring ECMO for suspected pulmonary
+hypertension crisis. This patient developed progressive
+mitral valve regurgitation and LV diastolic dysfunction
+1.5 years after their Ross operation, prompting mechanical
+mitral valve replacement that was complicated by complete
+heart block and pacemaker placement. Eventually, the pa-
+tient developed worsening biventricular failure requiring bi-
+ventricular assist device insertion and underwent transplant
+3 years after undergoing the Ross procedure. Overall cumu-
+lative incidence of death with transplant as a competing risk
+was 0.0 %, 18.2 % (95% CI, 0.4 %-58.5%), and 18.2 %
+(95% CI, 0.4%-58.5%) at 2, 4, and 6 years postoperatively,
+respectively.
+No patients in the hospitalized subgroup required reinter-
+vention on the autograft ( Figure 3 , A), whereas 6 patients
+(54.5%) required reintervention on the RV-PA conduit.
+Overall freedom from reintervention on the RV-PA conduit
+was 77.9 % (95% CI, 54.6 %-100.0%) and 51.9 % (95%
+CI, 26.6 %
+-100.0%) at 2 and 4 years postoperatively,
+respectively ( Figure 3 , B). Other late complications
+included 2 patients (18.2 %) who required reintervention
+on the mitral valve. Median follow-up duration for this
+cohort was 3.8 years (IQR, 2.2-6.7 years), compared with
+7.4 years (IQR, 4.7-10.0 years) in the cohort discharged
+home before Ross operation.
+DISCUSSION
+The Ross procedure provides a promising surgical strat-
+egy for young infants and neonates with irreparable severe
+aortic valve disease or L VOT obstruction. Other current op-
+tions provide signiﬁcant size limitations and ongoing risk
+for complications. Mechanical aortic valve replacement in-
+creases risk of thrombotic events or bleeding from anticoa-
+gulation, whereas bioprosthetic valves and aortic
+homografts experience accelerated structural valve
+JTCVS Open
+c Volume 25, Number C 321
+Karamichalis et al Congenital: Aortic Valve
+[[p11]]
+degeneration in pediatric populations, frequently necessi-
+tating early reintervention. Aortic valve replacement with
+the Ross procedure, or the patient’s own pulmonary auto-
+graft, avoids thrombotic complications and the need for an-
+ticoagulation, as well as size limitations. By replacing the
+diseased valve with the patient’s native tissue, the autograft
+can grow with the patient, mitigating the late complication
+of patient-prosthesis mismatch. The major potential disad-
+vantage of this procedure is the act of placing both semi-
+lunar valves at risk for reintervention.
+In neonates and infants, the pulmonary autograft has
+been shown to be a durable aortic valve substitute with excel-
+lent ﬂow dynamics and the ability to match somatic
+growth.
+4,5,9-16,22 Furthermore, autografts in children younger
+than age 1 year have been shown to undergo adaptive remod-
+eling, allowing pulmonary autograft cells to differentiate and
+form functionally equivalent native aortic valve tissue.
+23
+Herein, we report a series of 29 neonatal and infant pa-
+tients who underwent the Ross procedure at younger than
+age 1 year with a median follow-up of 5.7 years
+(Figure 4 ). During the preoperative period, 86.2 % of pa-
+tients required an aortic or aortic valve intervention. A total
+of 20.7% of patients were mechanically ventilated, 13.8 %
+of patients required inotropic support, and 10.3 % were
+receiving continuous PGE infusion, showcasing the com-
+plex and critical condition of many neonates and infants
+with severe aortic valve disease and limited surgical op-
+tions. Our results demonstrate that the Ross operation,
+along with other concomitant procedures, can be performed
+safely in these complex neonates and infants. The procedure
+carries signiﬁcant risk of early morbidity within this vulner-
+able population; however, midterm results are favorable.
+Overall survival in this cohort was 93.1 %, with 1 early
+and 1 late death recorded. Despite excellent survival out-
+comes, signiﬁcant postoperative support was required for
+these infants and neonates. Following Ross operation,
+17.2% of patients required ECMO, 17.2% of patients expe-
+rienced cardiac arrest, and 20.7 % of patients experienced
+prolonged mechanical ventilation >7 days. Two patients
+required transplantation: 1 early and 1 late in the study
+period. Our results agree with published literature from
+other centers, demonstrating acceptable mortality rates
+but notable postoperative morbidity, and the risk for
+morbidity and prolonged hospitalization with Ross is
+important to keep in mind when counseling families and
+caretakers on the various options for aortic valve replace-
+ment.
+4,9-16 On the other hand, it is important to recognize
+that, although there is appreciable early morbidity, many
+patients in our cohort did not exhibit late consequences of
+earlier sequelae (ie, autograft reintervention or
+neurodevelopmental delay), highlighting the long-term
+beneﬁts of the Ross procedure in this population.
+Many critics of the Ross procedure express concern about
+placing the 2 semilunar valves at risk for reintervention.
+However, 16 of 29 patients in our cohort had not yet
+required reintervention on the RV-PA conduit at time of lat-
+est follow-up. We recognize that many of these patients may
+be early in their postoperative course and that RV-PA
+conduit exchange is inevitable. However, the expected
+replacement of the RV-PA conduit was conducted in our
+0
+0
+QT
+50
+VT
+100
+2 4
+Time since Ross, years
+Number at risk Number at risk
+Freedom from Autograft Reintervention
+Freedom from
+Autograft Reintervention, (%)
+6 0
+0
+QT
+50
+VT
+100
+2
+1 3 4
+Time since Ross, years
+Freedom from RV-PA Conduit Reintervention
+Freedom from RV-PA
+Conduit Reintervention, (%)
+5
+A
+11 7 4 3
+Not Discharged B
+11 674 32
+Not Discharged
+FIGURE 3. Freedom from reintervention on pulmonary autograft (A) or right ventricle to pulmonary artery (RV-PA) conduit (B) following Ross operation
+in all neonate and infant patients. Numbers of patients at risk are included in the lower panel. Shaded 95% CIs are shown.
+322 JTCVS Open c June 2025
+Congenital: Aortic Valve Karamichalis et al
+[[p12]]
+cohort without added mortality. It is also worth noting that
+more and more of these interventions may become trans-
+catheter as the arena of transcatheter intervention continues
+to advance, further decreasing the risks associated with
+these reinterventions.
+More importantly, these results show appreciable func-
+tional autograft durability in neonates and infants with
+midterm follow-up. Most children exhibited none or only
+trivial neoaortic regurgitation at the time of latest follow-
+up, and only 1 patient (3.4 %) required reintervention on
+the autograft for the duration of this study. Our series agrees
+with others, as few patients have required autograft reinter-
+vention, and most patients have demonstrated mild or less
+insufﬁciency at latest follow-up.
+11,23-25 Further, some
+studies have reported on the important consideration of
+autograft dilation over time. With a median follow-up of
+6.4 years, our group previously demonstrated that autograft
+dilation occurs at the level of the aortic annulus and sinus in
+pediatric patients, including neonates and infants.
+26 More
+recently, in a 2024 multicenter center study of 133 neonates
+and infants with a longer median follow-up of 10.8 years,
+Greenberg and colleagues
+27 reported similar early
+dilatation of the autograft; however, this study showed
+that the autograft size normalized over time. Perhaps, it is
+the stabilization of the autograft over time that contributes
+to the remarkable freedom from autograft reintervention.
+To assess the Ross procedure as an exit strategy for neo-
+nates and infants who remain hospitalized after birth, we
+performed a subgroup analysis of 11 infants and neonates
+within the study cohort. Almost all patients (90.9 %) under-
+went an aortic or aortic valve intervention before the Ross
+procedure, and many of these patients required preoperative
+mechanical ventilation (45.5 %), inotropic support
+(54.5%), and/or PGE (18.2 %). Despite the challenges of
+surgery in this young, complex, and critically ill group of
+patients, all infants and neonates were able to be discharged
+home. One patient underwent successful cardiac transplan-
+tation and 2 patients required postoperative ECMO, but no
+deaths were recorded. Further, no patients in the subgroup
+required reintervention on the autograft during the study
+period. We believe that the Ross operation can be offered
+as an effective exit strategy with substantial hemodynamic
+advantages in select neonates and infants born with critical
+aortic valve disease who are otherwise unable to be
+The Ross/Ross-Konno Operation in Neonates and Infants: A Salvage Strategy and A Durable Repair
+CONCLUSIONS: The Ross operation can be safely performed in neonates and infants. This operation
+can also be offered as an “exit strategy” in neonates and infants otherwise unable to be discharged.
+Primary Outcome:
+Cumulative incidence of death
+with transplant as competing risk
+Secondary Endpoints:
+Postoperative outcomes,
+reintervention, autograft
+function, late mortality
+Patients and Study Design Results
+All Patients
+ 1 (3.4%) autograft reintervention at
+   7.5 years after Ross
+Infants and neonates < 1 year of age at time
+of Ross/Ross-Konno 2010-2024
+Subgroup: Remained
+hospitalized from birth
+to Ross
+n = 29
+Median age: 3.5 mo
+Median weight: 4.9 kg
+o???\?QT
+Konno= 24
+n = 11
+Median age: 1.0 mo
+Median weight: 3.6 kg
+Prior aortic procedure = 10
+Konno= 8
+ 15 (51.7%) RV-PA conduit reinterventions
+Subgroup
+ 100% discharge
+from hospital
+ 1 late mortality
+ No autograft
+  reinterventions
+ 6 (54.5%) RV-PA
+  conduit
+  reinterventions
+0%
+05
+Years since Ross
+10
+29At Risk
+Events
+16 5
+022
+5%
+10%
+15%Cumulative Incidence
+20%
+25%
+Cumulative Incidence of Death with
+Transplant as Competing Risk
+H
+H
+FIGURE 4. Summary of study ﬁndings. RV-PA, Right ventricle to pulmonary artery.
+JTCVS Open c Volume 25, Number C 323
+Karamichalis et al Congenital: Aortic Valve
+[[p13]]
+discharged home and have very few alternative options.
+This observation is unique to our cohort study and has not
+been speciﬁcally demonstrated in other series.
+Limitations of this study include those inherent to its retro-
+spective design and single-center methodology. The sample
+size and number of outcome events precluded any univariable
+or multivariable analysis on predictors of death, transplant, or
+autograft reintervention. Echocardiographic data were not
+available for all patients at all time points. This, in combina-
+tion with our limited sample size, hinders our ability in mak-
+ing meaningful conclusions related to autograft dimensions
+over time. Further, this study features many patients with
+outpatient cardiologists at other institutions, providing varia-
+tions in surveillance and thresholds for reintervention. Lastly,
+late changes in autograft function have been shown beyond
+the reported observation period, and longer-term follow-up
+is warranted. It is crucial for us to continue to investigate
+the outcomes of autograft durability, the inﬂuence of the pro-
+cedure on long-term survival, and risk factors for improving
+patient selection in this challenging population.
+CONCLUSIONS
+The Ross procedure is an effective surgical repair strategy
+that can be performed successfully in infants and neonates
+with severe congenital aortic valve disease or L VOT obstruc-
+tion. There remains a signiﬁcant risk of early morbidity in
+this complex patient population; however, low mortality
+and transplant rates are achievable. Autograft durability re-
+mains excellent, and obligatory RV -P A conduit exchange
+can be performed safely in subsequent years. In patients
+with residual aortic valve disease who cannot be discharged,
+the Ross procedure may be a viable exit strategy.
+Conﬂict of Interest Statement
+The authors reported no conﬂicts of interest.
+The Journal policy requires editors and reviewers to
+disclose conﬂicts of interest and to decline handling or re-
+viewing manuscripts for which they may have a conﬂict
+of interest. The editors and reviewers of this article have
+no conﬂicts of interest.
+References
+PM?`ﬁ?aM?`????Y???M?i?r
+Heart Assoc. 2014;26(1):33-41.
+2. Brown JW, Ruzmetov M, Vijay P , Rodefeld MD, Turrentine MW. The Ross-
+Konno procedure in children: outcomes, autograft and allograft function, and re-
+operations. Ann Thorac Surg . 2006;82(4):1301-1306.
+3. Brown JW, Ruzmetov M, Vijay P , Rodefeld MD, Turrentine MW. Surgery for
+aortic stenosis in children: a 40-year experience. Ann Thorac Surg . 2003;76(5):
+1398-1411.
+4. Maeda K, Rizal RE, Lavrsen M, et al. Midterm results of the modiﬁed Ross/
+Konno procedure in neonates and infants. Ann Thorac Surg. 2012;94(1):156-163.
+5. Williams IA, Quaegebeur JM, Hsu DT, et al. Ross procedure in infants and tod-
+dlers followed into childhood. Circulation. 2005;112(9 suppl):I390-I395 .
+6. Ross DN. Replacement of the aortic and mitral valves with a pulmonary auto-
+graft. Lancet. 1967;29:56-58.
+7. Rowe G, Gill G, Zubair MM, et al. Ross procedure in children: the Society of
+Thoracic Surgeons Congenital Heart Surgery Database Analysis. Ann Thorac
+Surg. 2023;115(1):119-125 .
+8. Donald JS, Wallace FRO, Naimo PS, et al . Ross operation in children: 23-year
+experience from a single institution. Ann Thorac Surg . 2020;109(4):
+1251-1259 .
+9. Mookhoek A, Charitos EI, Hazekamp MG, et al. Ross procedure in neonates and
+infants: a European multicenter experience. Ann Thorac Surg . 2015;100(6):
+2278-2284.
+10. Cleveland JD, Bansal N, Wells WJ, Wiggins LM, Kumar SR, Starnes V A. Ross
+procedure in neonates and infants: a valuable operation with deﬁned limits. J
+Thorac Cardiovasc Surg . 2023;165(1):262-272.e3 .
+11. Luxford JC, Ayer JG, Betts K, et al. The Ross/Ross-Konno procedure in infancy
+is a safe and durable solution for aortic stenosis. J Thorac Cardiovasc Surg. 2022;
+163(2):365-375.
+12. Sames-Dolzer E, Wickenhauser E, Kreuzer M, et al. The Ross-Konno procedure
+in neonates and infants less than 3 months of age. Eur J Cardiothorac Surg. 2018;
+54(1):71-77.
+13. Rajab TK, Zorrilla-V aca A, Kavarana MN, Mokashi S, Sainathan S. Ross
+operation in neonates: a meta-analysis. Ann Thorac Surg . 2022;113(1):
+192-198 .
+14. Tohme S, Jiang S, Farooqi K, et al. Ross procedure in neonate and infant popu-
+lations: a meta-analysis review. World J Pediatr Congenit Heart Surg . 2022;
+13(6):759-769.
+15. Pasquali SK, Cohen MS, Shera D, Wernovsky G, Spray TL, Marino BS. The rela-
+tionship between neo-aortic root dilation, insufﬁciency, and reintervention
+following the Ross procedure in infants, children, and young adults. J Am Coll
+Cardiol. 2007;49(17):1806-1812.
+16. Piccardo A, Ghez O, Gariboldi V , et al. Ross and Ross-Konno procedures in in-
+fants, children and adolescents: a 13-year experience. J Heart V alve Dis. 2009;
+18(1):76-83.
+17. Sluysmans T, Colan SD. Chapter 5: structural measurements and adjustment for
+growth. In: Lai WW, Cohen MS, Geva T, Mertens L, eds. Echocardiography in
+Pediatric and Congenital Heart Disease . Wiley-Blackwell; 2009:61-72 .
+18. Colan SD. Normal echocardiographic values for cardiovascular structures. In:
+Lai WW, Cohen MS, Geva T, Mertens L, eds. Echocardiography in Pediatric
+and Congenital Heart Disease . Wiley-Blackwell; 2009:765-785 .
+19. Mazine A, Ghoneim A, El-Hamamsy I. The Ross procedure: how I teach it. Ann
+Thorac Surg. 2018;105(5):1294-1298.
+20. Said SM. The Ross-Konno procedure for congenital aortic stenosis. Ann Cardi-
+othorac Surg. 2021;10(4):527-537.
+21. Gray RJ. A class of K-sample tests for comparing the cumulative incidence of a
+competing risk. Ann Stat. 1988;16(3):1141-1154.
+22. Elder RW, Quaegebeur JM, Bacha EA, Chen JM, Bourlon F, Williams IA. Out-
+comes of the infant Ross procedure for congenital aortic stenosis followed into
+adolescence. J Thorac Cardiovasc Surg . 2013;145(6):1504-1511.
+23. Aikawa E, Aikawa M, Farber M, et al. Clinical pulmonary autograft valves: path-
+ologic evidence of adaptive remodeling in the aortic site. J Thorac Cardiovasc
+Surg. 2004;128:552-561.
+24. Alsouﬁ B, Al-Halees Z, Manlhiot C, et al. Superior results following the Ross
+procedure in patients with congenital heart disease. J Heart V alve Dis . 2010;
+19(3):269-278.
+25. Hraska V , Krajci M, Haun Ch, et al. Ross and Ross-Konno procedure in children
+and adolescents: mid-term results. Eur J Cardiothorac Surg . 2004;25(5):
+742-747.
+26. Nguyen SN, Bouhout I, Singh S, et al. Long-term autograft dilation and dura-
+bility after the Ross procedure are similar in infants, children, and adolescents
+with primary aortic stenosis. J Thorac Cardiovasc Surg . 2024;168(4):
+1182-1191.e3.
+27. Greenberg JW, Argo M, Ashfaq A, et al. Long-term outcomes following the Ross
+procedure in neonates and infants: a multi-institutional analysis. J Thorac Cardi-
+ovasc Surg. 2024;168(6):1720-1730.e3 .
+Key Words: Ross operation, aortic valve disease, neonate,
+infant
+324 JTCVS Open c June 2025
+Congenital: Aortic Valve Karamichalis et al
+[[p14]]
+TABLE E1. Baseline characteristics with missing variables
+Variable Missing
+Aortic valve morphology 1
+Degree of preoperative AS 1
+Degree of preoperative AI 1
+Native aortic annulus diameter (mm) 3
+Native aortic annulus z-score 3
+Native pulmonic annulus diameter (mm) 8
+Native pulmonic annulus z-score 8
+V alues are presented as n. AS, Aortic stenosis; AI, aortic insufﬁciency.
+JTCVS Open c Volume 25, Number C 325
+Karamichalis et al Congenital: Aortic Valve

@@ -1,0 +1,710 @@
+
+[[p1]]
+Original Article
+Timing of surgery following SARS-CoV-2 infection:
+an international prospective cohort study
+COVIDSurg Collaborative* and GlobalSurg Collaborative*
+NIHR Global Health Research Unit on Global Surgery, Birmingham, UK
+Summary
+Peri-operative SARS-CoV-2 infection increases postoperative mortality. The aim of this study was to determine
+the optimal duration of planned delay before surgery in patients who have had SARS-CoV-2 infection. This
+international, multicentre, prospective cohort study included patients undergoing elective or emergency
+surgery during October 2020. Surgical patients with pre-operative SARS-CoV-2 infection were compared with
+those without previous SARS-CoV-2 infection. The primary outcome measure was 30-day postoperative
+mortality. Logistic regression models were used to calculate adjusted 30-day mortality rates strati ﬁed by time
+from diagnosis of SARS-CoV-2 infection to surgery. Among 140,231 patients (116 countries), 3127 patients
+(2.2%) had a pre-operative SARS-CoV-2 diagnosis. Adjusted 30-day mortality in patients without SARS-CoV-2
+infection was 1.5% (95%CI 1.4 –1.5). In patients with a pre-operative SARS-CoV-2 diagnosis, mortality was
+increased in patients having surgery within 0 –2 weeks, 3 –4 weeks and 5 –6 weeks of the diagnosis (odds ratio
+(95%CI) 4.1 (3.3 –4.8), 3.9 (2.6 –5.1) and 3.6 (2.0 –5.2), respectively). Surgery performed ≥ 7 weeks after SARS-
+CoV-2 diagnosis was associated with a similar mortality risk to baseline (odds ratio (95%CI) 1.5 (0.9–2.1)). After a
+≥ 7 week delay in undertaking surgery following SARS-CoV-2 infection, patients with ongoing symptoms had a
+higher mortality than patients whose symptoms had resolved or who had been asymptomatic (6.0% (95%CI 3.2–
+8.7) vs. 2.4% (95%CI 1.4–3.4) vs. 1.3% (95%CI 0.6–2.0), respectively). Where possible, surgery should be delayed
+for at least 7 weeks following SARS-CoV-2 infection. Patients with ongoing symptoms ≥ 7 weeks from diagnosis
+may beneﬁt from further delay.
+............................................................................................................................... ..................................
+Correspondence to: D. Nepogodiev
+Email: dnepogodiev@doctors.org.uk
+Accepted: 26 February 2021
+Keywords: COVID-19; delay; SARS-CoV-2; surgery; timing
+This article is accompanied by an editorial by Wijeysundera and Khadaroo,Anaesthesia 2021; 76: 731– 5.
+*Collaborating authors are listed in online Supporting Information Appendix S2.
+Twitter: @CovidSurg; @GlobalSurg
+Introduction
+Patients with peri-operative SARS-CoV-2 infection are at
+increased risk of death and pulmonary complications
+following surgery [1 –3]. As the cumulative number of
+people who have had SARS-CoV-2 infection rises, it will be
+increasingly common for patients needing surgery to have
+previously had SARS-CoV-2 infection. High-income
+countries that are already implementing vaccination
+programmes are likely to experience reductions in new
+SARS-CoV-2 case infection rates, but these countries
+already have tens of millions of SARS-CoV-2 infection
+survivors. Most low- and middle-income countries (LMICs)
+are likely to have limited access to SARS-CoV-2 vaccines
+until at least 2023 [4, 5]. Thus, pre-operative SARS-CoV-2
+infection will remain a challenge for the foreseeable future.
+Pre-pandemic studies suggest delaying surgery in
+patients who have experienced respiratory infection in the
+4 weeks preceding surgery [6 –8]. However, there is only
+748 © 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+Anaesthesia 2021, 76, 748– 758 doi:10.1111/anae.15458
+[[p2]]
+limited evidence regarding the optimal timing of surgery
+following SARS-CoV-2 infection. A prospective cohort study
+including 122 patients having surgical for cancer, found that
+surgery ≥ 4 weeks after a positive SARS-CoV-2 swab result
+was associated with a lower risk of postoperative mortality
+than earlier surgery [9]. A study in Brazil included 49 patients
+whose elective surgery was delayed following the
+pre-operative diagnosis of asymptomatic SARS-CoV-2
+infection [10]. These patients subsequently underwent
+surgery following con ﬁrmation of a negative SARS-CoV-2
+reverse transcription polymerase chain reaction (RT-PCR)
+nasopharyngeal swab result. The postoperative
+complication rates were comparable to patients without
+SARS-CoV-2 infection. However, the study did not assess the
+optimal duration of delay following SARS-CoV-2 diagnosis.
+Clinical guidelines support postponing non-emergency
+surgery for patients with pre-operative SARS-CoV-2
+infection, but speci ﬁc recommendations are con ﬂicting,
+recommending delays ranging from 1 to 12 weeks [11–15].
+More granular data are needed urgently to inform
+clinical practice, especially regarding the signi ﬁcance of
+symptomatic vs. asymptomatic pre-operative SARS-CoV-2
+infection. The aim of this study was to determine the optimal
+timing of surgery following SARS-CoV-2 infection.
+Methods
+This was an international, multicentre, prospective cohort
+study that included patients undergoing any type of
+surgery. The study was registered at each participating
+hospital in accordance with local and national regulations.
+Informed patient consent was taken if required by local or
+national regulations. In the UK, this study was registered as
+either a clinical audit or service evaluation at each recruiting
+institution. Co-investigators were required to con ﬁrm that
+applicable local and national approvals were in place
+before uploading data to the online database. The study
+was compliant with guidelines for the reporting of
+observational studies [16]. In the conduct of this study, no
+changes were made to usual patient care. Routine,
+anonymised data were collected using a secure online
+database (REDCap, Vanderbilt University, Nashville, TN, USA).
+Participating hospitals included consecutive patients
+undergoing elective or emergency surgery for any
+indication in October 2020. Surgery was de ﬁned as any
+procedure that is routinely performed in an operating
+theatre by a surgeon. A list of excluded procedures was
+provided to investigators and is available in online
+Supporting Information, Appendix S1. Before commencing
+data collection, hospitals de ﬁned which surgical specialties
+would be participating. Hospitals could choose to collect
+data in one or multiple surgical specialties, depending on
+local resources. Data could be collected over up to four
+blocks of 7 consecutive days (5 October 2020 – 1 November
+2020).
+Patients were classi ﬁed as having pre-operative SARS-
+CoV-2 infection based on any one of the following criteria:
+(a) positive RT-PCR nasopharyngeal swab taken before
+surgery (even if the result became available after surgery);
+(b) positive rapid antigen test performed before surgery; (c)
+chest computed tomography (CT) scan performed before
+surgery showing changes consistent with pneumonitis
+secondary to SARS-CoV-2 infection; (d) positive pre-
+operative immunoglobulin G or immunoglobulin M
+antibody test; or (e) clinical diagnosis made before surgery
+(in the absence of negative RT-PCR swab results). Patients
+who were diagnosed with SARS-CoV-2 in the period
+between postoperative days 0 and 30 were not studied.
+Data were captured on whether patients had experienced
+SARS-CoV-2 symptoms, and if so, whether these symptoms
+had resolved by the time of surgery. Both respiratory and
+non-respiratory symptoms were considered. These were
+classiﬁed as follows: asymptomatic; symptomatic but
+symptoms now resolved; or symptomatic with ongoing
+symptoms. Time from the diagnosis of SARS-CoV-2 infection
+to day of surgery was collected as a categorical factor and
+pre-determined to be analysed in the following categories:
+0–2 weeks; 3 –4 weeks; 5 –6 weeks; and ≥ 7 weeks.
+The primary outcome measure was 30-day
+postoperative mortality. Patients were followed-up either in-
+person or by telephone, as soon after postoperative day 30
+as possible. If it was not possible to complete 30-day follow-
+up, in-patient mortality status was recorded. The secondary
+outcome measure was the incidence of 30-day
+postoperative pulmonary complications. This was a
+composite of pneumonia, acute respiratory distress
+syndrome (ARDS) and/or unexpected postoperative
+ventilation. Full de ﬁnitions are available in online
+Supporting Information, Appendix S1.
+The following information was collected for each
+patient: age; sex; ASA physical status; revised cardiac risk
+index (RCRI); presence of respiratory comorbidities;
+indication for surgery; grade of surgery (major/minor); and
+surgical urgency (elective/emergency). For data protection
+purposes, age was collected as a categorical variable.
+Consistent with previous analyses, age was categorised as
+< 70 years or ≥ 70 years [1, 2]. American Society of
+Anesthesiologists physical status was classi ﬁed as grades
+1–2 or grades 3 –5. Patients were recorded as having
+respiratory comorbidities if they had a diagnosis of asthma
+or chronic obstructive pulmonary disease (COPD).
+© 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 749
+COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection Anaesthesia 2021, 76, 748 – 758
+[[p3]]
+Indications for surgery were classi ﬁed as: benign disease;
+cancer; obstetrics; or trauma. Emergency surgery was
+deﬁned as surgery on an unplanned admission, and elective
+surgery was deﬁned as surgery on a planned admission. The
+RCRI calculation and grade of surgery classi ﬁcation are
+available in online Supporting Information, Appendix S1.
+National income was recorded for each participating
+country, based on the World Bank’s classiﬁcation [17].
+To ensure consistent denominators, missing data were
+included in the descriptive analyses. Imputation for missing
+data was not planned as, based on previous studies, a < 2%
+rate of missing data was anticipated [1, 2]. For categorical
+variables, a chi-squared test was used to test for differences
+between groups.
+To adjust time from SARS-CoV-2 diagnosis to surgery for
+confounding factors, logistic regression models were ﬁtted
+with variables selected a priori. These were variables that have
+previously been identi ﬁed as independent predictors of
+mortality in patients with peri-operative SARS-CoV-2 infection
+[1] and included: age; sex; ASA physical status; RCRI;
+indication for surgery; grade of surgery; urgency of surgery;
+presence of respiratory comorbidities; and national income.
+Average marginal effects were used to produce adjusted
+mortality estimates strati ﬁed by time from SARS-CoV-2
+diagnosis to surgery. The main model included all patients.
+Since delayed surgery is more likely for elective rather
+than emergency cases, a sensitivity analysis was performed
+including only elective patients. A further sensitivity analysis
+was performed including only patients who either had RT-
+PCR nasopharyngeal swab-proven pre-operative SARS-
+CoV-2 infection or who were not infected. To address
+further possible bias, average marginal effects were used to
+produce adjusted mortality rates by time from SARS-CoV-2
+diagnosis to surgery, stratiﬁed by the following pre-selected
+variables: age; ASA physical status; urgency of surgery; and
+grade of surgery. In order to explore the association of pre-
+operative COVID-19 symptoms, a further logistic regression
+model was ﬁtted. This included only those patients who had
+a pre-operative SARS-CoV-2 diagnosis, since COVID-19
+symptom status was not applicable to patients who did not
+have pre-operative SARS-CoV-2. These models were ﬁtted
+with a primary outcome of 30-day postoperative mortality.
+Further models were ﬁtted for the secondary outcome of
+the incidence of 30-day postoperative pulmonary
+complications. Analyses were completed in Stata, version
+15.1 (StataCorp, College Station, TX, USA).
+Results
+A total of 140,231 patients were included across 1674
+hospitals in 116 countries (see online Supporting
+Information, Figure S1). Patient and surgical characteristics
+are shown in Table 1. Baseline characteristic data for
+patients having elective surgery are available in online
+Supporting Information (Table S1). In total, 3127 (2.2%)
+patients had a pre-operative SARS-CoV-2 diagnosis. The
+time from SARS-CoV-2 diagnosis to surgery was 0 –2 weeks
+in 1138 patients (36.4%), 3 –4 weeks in 461 patients
+(14.7%), 5 –6 weeks in 326 patients (10.4%) and ≥ 7 weeks
+in 1202 patients (38.4%) (Table 1). The majority of patients
+were asymptomatic at the time of surgery (either having
+Table 1 Baseline characteristics and outcomes for patients undergoing surgery stratiﬁed by time from diagnosis of SARS-CoV-2
+infection. Values are number (proportion).
+No pre-operative
+SARS-CoV-2
+infection
+(n = 137,104)
+Pre-operative SARS-CoV-2 infection
+(by timing of diagnosis prior to surgery)
+0–2 weeks
+(n = 1138)
+3–4 weeks
+(n = 461)
+5–6 weeks
+(n = 326)
+≥ 7 weeks
+(n = 1202)
+Age; years
+0–29 31,456 (22.9%) 331 (29.1%) 84 (18.2%) 62 (19.0%) 169 (14.1%)
+30–49 37,673 (27.5%) 355 (31.2%) 149 (32.3%) 101 (31.0%) 364 (30.3%)
+50–69 41,649 (30.4%) 265 (23.3%) 162 (35.1%) 109 (33.4%) 471 (39.2%)
+70–79 17,577 (12.8%) 93 (8.2%) 52 (11.3%) 41 (12.6%) 121 (10.1%)
+≥ 80 8747 (6.4%) 94 (8.3%) 14 (3.0%) 13 (4.0%) 77 (6.4%)
+Missing 2 (0%) ––––
+Sex
+Female 71,375 (52.1%) 610 (53.6%) 220 (47.7%) 177 (54.3%) 634 (52.7%)
+Missing 5 (0.0%) ––––
+(continued)
+750 © 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2021, 76, 748– 758 COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection
+[[p4]]
+Table 1 (continued)
+No pre-operative
+SARS-CoV-2
+infection
+(n = 137,104)
+Pre-operative SARS-CoV-2 infection
+(by timing of diagnosis prior to surgery)
+0–2 weeks
+(n = 1138)
+3–4 weeks
+(n = 461)
+5–6 weeks
+(n = 326)
+≥ 7 weeks
+(n = 1202)
+ASA physical status
+1–2 103,503 (75.5%) 779 (68.5%) 316 (68.5%) 227 (69.6%) 805 (67.0%)
+3–5 33,553 (24.5%) 359 (31.5%) 145 (31.5%) 99 (30.4%) 397 (33.0%)
+Missing 48 (0.0%) ––––
+Revised cardiac risk index
+0 61,379 (44.8%) 433 (38.0%) 176 (38.2%) 123 (37.7%) 446 (37.1%)
+1 60,722 (44.3%) 512 (45.0%) 211 (45.8%) 145 (44.5%) 564 (46.9%)
+2 11,116 (8.1%) 134 (11.8%) 50 (10.8%) 41 (12.6%) 129 (10.7%)
+≥ 3 3818 (2.8%) 59 (5.2%) 24 (5.2%) 17 (5.2%) 62 (5.2%)
+Missing 69 (0.1%) ––– 1 (0.1%)
+Respiratory comorbidities
+Yes 12,190 (8.9%) 114 (10.0%) 45 (9.8%) 31 (9.5%) 123 (10.2%)
+Missing 111 (0.1%) ––––
+Indication for surgery
+Benign 86,764 (63.3%) 629 (55.3%) 273 (59.2%) 208 (63.8%) 822 (68.4%)
+Cancer 23,612 (17.2%) 100 (8.8%) 117 (25.4%) 73 (22.4%) 234 (19.5%)
+Trauma 17,048 (12.4%) 193 (17.0%) 48 (10.4%) 27 (8.3%) 96 (8.0%)
+Obstetrics 9673 (7.1%) 216 (19.0%) 23 (5.0%) 18 (5.5%) 50 (4.2%)
+Missing 7 (0.0%) ––––
+Grade of surgery
+Minor 55,301 (40.3%) 400 (35.1%) 131 (28.4%) 122 (37.4%) 462 (38.4%)
+Major 81,771 (59.6%) 738 (64.9%) 330 (71.6%) 204 (62.6%) 739 (61.5%)
+Missing 32 (0.0%) ––– 1 (0.1%)
+Urgency of surgery
+Elective 95,680 (69.8%) 338 (29.7%) 300 (65.1%) 232 (71.2%) 892 (74.2%)
+Emergency 41,413 (30.2%) 800 (70.3%) 161 (34.9%) 94 (28.8%) 310 (25.8%)
+Missing 11 (0.0%) ––––
+COVID-19 symptoms
+Asymptomatic – 731 (64.2%) 203 (44.0%) 133 (40.8%) 317 (26.4%)
+Symptomatic – resolved – 124 (10.9%) 193 (41.9%) 163 (50.0%) 820 (68.2%)
+Symptomatic – ongoing – 277 (24.3%) 65 (14.1%) 28 (8.6%) 56 (4.7%)
+Missing – 6 (0.5%) - 2 (0.6%) 9 (0.7%)
+Country income
+High 90,024 (65.7%) 461 (40.5%) 159 (34.5%) 135 (41.4%) 696 (57.9%)
+Low/middle 47,080 (34.3%) 677 (59.5%) 302 (65.5%) 191 (58.6%) 506 (42.1%)
+30-day postoperative mortality
+Yes 1973 (1.4%) 104 (9.1%) 32 (6.9%) 18 (5.5%) 24 (2.0%)
+Missing 92 (0.1%) 0 (0.0%) –– 2 (0.2%)
+30-day postoperative pulmonary complications
+Yes 3654 (2.7%) 149 (13.1%) 60 (13.0%) 33 (10.1%) 42 (3.5%)
+Missing 105 (0.1%) ––– 3 (0.2%)
+ASA, American Society of Anaesthesiologists.
+© 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 751
+COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection Anaesthesia 2021, 76, 748 – 758
+[[p5]]
+never had symptoms or symptoms having resolved)
+(Table 1).
+Compared with patients who did not have SARS-CoV-2
+infection, patients with pre-operative SARS-CoV-2 infection
+were more likely to be ASA physical status 3 –5 (24.5% vs.
+32.0%; p < 0.001), to undergo major surgery (59.6% vs.
+64.2%; p < 0.001) and to undergo emergency surgery
+(30.2% vs. 43.7%; p < 0.001). However, there was lower
+proportion of patients aged ≥ 70 years in the cohort with
+SARS-CoV-2 infection (16.1% vs. 19.2%; p < 0.001).
+The overall 30-day postoperative mortality rate was
+1.5% (2151/140,231). When strati ﬁed by time from
+Table 2 Unadjusted and adjusted model for 30-day postoperative mortality in all patients. Values are odds ratio (OR) (95%CI).
+Unadjusted Adjusted
+OR (95%CI) p value OR (95%CI) p value
+Age; years
+0–69 Reference – Reference –
+≥ 70 3.12 (2.86 –3.40) < 0.001 1.72 (1.56 –1.90) < 0.001
+Sex
+Female Reference – Reference –
+Male 1.41 (1.29 –1.53) < 0.001 1.09 (0.99 –1.19) 0.068
+ASA physical status
+1–2 Reference – Reference –
+3–5 8.96 (8.13 –9.87) < 0.001 5.32 (4.75 –5.96) < 0.001
+Revised cardiac risk index
+0 Reference – Reference –
+1 2.33 (2.07 –2.61) < 0.001 1.43 (1.26 –1.63) < 0.001
+2 6.50 (5.69 –7.42) < 0.001 1.82 (1.56 –2.13) < 0.001
+≥ 3 12.81 (11.02 –14.89) < 0.001 2.78 (2.32 –3.32) < 0.001
+Respiratory comorbidities
+No Reference – Reference –
+Yes 1.71 (1.51 –1.94) < 0.001 1.02 (0.89 –1.16) 0.767
+Indication for surgery
+Benign Reference – Reference –
+Cancer 1.62 (1.46 –1.80) < 0.001 1.98 (1.76 –2.23) < 0.001
+Trauma 1.60 (1.43 –1.80) < 0.001 0.91 (0.79 –1.04) 0.173
+Obstetrics 0.27 (0.19 –0.37) < 0.001 0.23 (0.16 –0.33) < 0.001
+Grade of surgery
+Minor Reference – Reference –
+Major 3.25 (2.90 –3.63) < 0.001 2.37 (2.11 –2.67) < 0.001
+Urgency of surgery
+Elective Reference – Reference –
+Emergency 5.60 (5.10 –6.15) < 0.001 6.48 (5.83 –7.21) < 0.001
+Country income
+High Reference – Reference –
+Low/middle 1.76 (1.61 –1.92) < 0.001 2.96 (2.69 –3.26) < 0.001
+Pre-operative SARS-CoV-2 by timing of pre-operative diagnosis
+No diagnosis Reference – Reference –
+0–2 weeks 6.88 (5.60 –8.46) < 0.001 3.22 (2.55 –4.07) < 0.001
+3–4 weeks 5.11 (3.56 –7.33) < 0.001 3.03 (2.03 –4.52) < 0.001
+5–6 weeks 4.00 (2.48 –6.45) < 0.001 2.78 (1.64 –4.71) < 0.001
+≥ 7 weeks 1.40 (0.93 –2.10) 0.107 1.02 (0.66 –1.56) 0.940
+ASA, American Society of Anesthesiologists.
+752 © 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2021, 76, 748– 758 COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection
+[[p6]]
+SARS-CoV-2 diagnosis to surgery, 30-day postoperative
+mortality rates were as follows: 9.1% (104/1138) 0 –2 weeks;
+6.9% (32/461) 3 –4 weeks; 5.5% (18/326) 5 –6 weeks; and
+2.0% (24/1202) at ≥ 7 weeks. The 30-day mortality rate in
+patients who did not have a pre-operative SARS-CoV-2
+infection was 1.4% (1973/137,104).
+In the adjusted model, there was a signi ﬁcantly higher
+risk of 30-day mortality in patients with pre-operative SARS-
+CoV-2 infection diagnosed 0 –2w e e k s , 3–4w e e k s a n d 5–
+6 weeks before surgery compared with patients who did not
+have a pre-operative SARS-CoV-2 infection (Table 2).
+However, there was no signi ﬁcant difference in 30-day
+postoperative mortality rate inthose patients diagnosed with
+SARS-CoV-2 infection≥ 7 weeks before surgery (Table 2).
+Adjusted 30-day mortality rate in patients who did
+not have SARS-CoV-2 infection was 1.5% (95%CI 1.4 –
+1.5). This was increased in patients who had surgery at
+0–2 weeks, 3 –4 weeks and at 5 –6 weeks after SARS-CoV-
+2 diagnosis (Fig. 1). In patients who had surgery
+≥ 7 weeks after SARS-CoV-2 diagnosis, the 30-day
+mortality rate was similar to patients who did not have
+SARS-CoV-2 infection (Fig. 1).
+Sensitivity analyses including only patients having
+elective surgery (available in online Supporting
+Information, Tables S1 –S3) and only patients with RT-PCR
+nasopharyngeal swab-proven SARS-CoV-2 infection
+(available in online Supporting Information, Tables S4 –S5)
+showed that patients having surgery 0 –2 weeks, 3 –4 weeks
+and 5 –6 weeks after SARS-CoV-2 diagnosis had
+signiﬁcantly higher adjusted 30-day postoperative
+mortality rates compared with patients who did not have
+SARS-CoV-2 infection (Fig. 1). Patients operated ≥ 7 weeks
+after SARS-CoV-2 infection had a similar mortality as
+patients without SARS-CoV-2 infection. These ﬁndings were
+also consistent across sub-groups strati ﬁed by age, ASA
+physical status, and grade and urgency of surgery (Fig. 2).
+In the analysis restricted to patients who had
+experienced pre-operative SARS-CoV-2 infection, patients
+with ongoing COVID-19 symptoms had a higher
+adjusted 30-day mortality rate than patients whose
+Figure 1 Overall adjusted 30-day postoperative mortality from main analysis and sensitivity analyses for patients having
+elective surgery and those patients with a reverse transcription polymerase chain reaction (RT-PCR) nasopharyngeal swab
+positive result for SARS-CoV-2. ‘No pre-operative SARS-CoV-2’ refers to patients without a diagnosis of SARS-CoV-2 infection.
+The time-periods relate to the timing of surgery following the diagnosis of SARS-CoV-2 infection. Sensitivity analysis for RT-PCR
+nasopharyngeal swab proven SARS-CoV-2 includes patients who either had RT-PCR nasopharyngeal swab proven SARS-CoV-2
+or did not have a SARS-CoV-2 diagnosis; patients with a SARS-CoV-2 diagnosis which was not supported by a RT-PCR
+nasopharyngeal swab were not analysed. Full models and results are available in online Supporting Information (Appendix S1,
+Tables S3 –S4 (elective patients), Tables S5 –S6 (swab-proven SARS-CoV-2 infection)).
+© 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 753
+COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection Anaesthesia 2021, 76, 748 – 758
+[[p7]]
+symptoms had resolved or who had been asymptomatic
+(Fig. 3). Following a ≥ 7-week delay between SARS-CoV-2
+infection and surgery, patients with ongoing COVID-19
+symptoms had a higher mortality rate than patients whose
+symptoms had resolved or who had been asymptomatic
+(Fig. 3).
+Overall, 2.8% (3938/140,231) of patients developed a
+postoperative pulmonary complication within 30 days,
+including 1.7% (2387/140,231) who developed pneumonia,
+0.8% (1100/140,231) who developed ARDS, and 0.8%
+(1137/140,231) who had an unexpected requirement for
+mechanical ventilation. In both the overall analysis and the
+sensitivity analysis for elective surgery, patients who had
+surgery 0 –2 weeks, 3 –4 weeks and 5 –6 weeks after SARS-
+CoV-2 diagnosis had signi ﬁcantly higher adjusted 30-day
+postoperative pulmonary complication rates compared
+with patients who did not have SARS-CoV-2 infection.
+However, patients who had surgery ≥ 7 weeks after
+SARS-CoV-2 infection had similar rates of postoperative
+pulmonary complications as patients without SARS-CoV-2
+infection (Fig. 4). Among patients operated ≥ 7 following
+SARS-CoV-2 diagnosis, those with ongoing COVID-19
+symptoms were at greatest risk of 30-day postoperative
+pulmonary complications (Fig. 5).
+Discussion
+This study found that patients operated within 6 weeks of
+SARS-CoV-2 diagnosis were at an increased risk of 30-day
+postoperative mortality and 30-day postoperative
+pulmonary complications. These risks decreased to
+baseline in patients who underwent surgery ≥ 7 weeks after
+SARS-CoV-2 diagnosis. These ﬁndings were consistent
+across both low-risk (age < 70 years, ASA physical status
+1–2, minor surgery) and high-risk (age ≥ 70 years, ASA
+physical status 3 –5, major surgery) sub-groups. Therefore,
+surgery should be delayed for at least 7 weeks following
+SARS-CoV-2 infection to reduce the risk of postoperative
+mortality and pulmonary complications. In addition, we have
+shown that patients who are still symptomatic≥ 7 weeks after
+SARS-CoV-2 infection and undergo surgery also have an
+increased mortality rate. As such, these patients may beneﬁt
+from a further delay until their symptoms resolve.
+Our ﬁndings that pre-operative SARS-CoV-2 infection
+increases the risk of postoperative mortality and pulmonary
+Figure 2 Adjusted 30-day postoperative mortality rates from main analysis, stratiﬁed by pre-deﬁned sub-groups. ‘No pre-
+operative SARS-CoV-2’ refers to patients without a diagnosis of SARS-CoV-2 infection. The time-periods relate to the timing of
+surgery following the diagnosis of SARS-CoV-2 infection. Full models and results are available in online Supporting Information
+(Appendix S1, Table S2).
+754 © 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2021, 76, 748– 758 COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection
+[[p8]]
+Figure 3 Adjusted 30-day postoperative mortality rates in patients with pre-operative SARS-CoV-2 infection stratiﬁed by
+COVID-19 symptoms. The time-periods relate to the timing of surgery following the diagnosis of SARS-CoV-2 infection. Full
+models and results are available in online Supporting Information (Appendix S1, Tables S7 –S8).
+Figure 4 Overall adjusted 30-day postoperative pulmonary complications (PPC) rate from main analysis and sensitivity analysis
+for patients having elective surgery. ‘No pre-operative SARS-CoV-2’ refers to patients without a diagnosis of SARS-CoV-2
+infection. The time-periods relate to the timing of surgery following the diagnosis of SARS-CoV-2 infection. Full models and
+results are shown in online Supporting Information (Appendix S1, Tables S9 –S10).
+© 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 755
+COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection Anaesthesia 2021, 76, 748 – 758
+[[p9]]
+complications is line with previous work [1–3]. However, this
+is the ﬁrst study to provide robust data regarding the
+optimal timing for surgery following SARS-CoV-2 infection.
+The greater granularity in this analysis compared with
+previous studies [9, 10] has enabled ≥ 7 weeks to be
+determined as the optimal cut-off. Whilst cut-offs beyond
+7 weeks were not formally tested, they are unlikely to offer a
+signiﬁcant advantage, since adjusted mortality rates for
+delay intervals ≥ 7 weeks were broadly stable (see online
+Supporting Information, Appendix S1). Moreover, overall
+mortality following a delay of ≥ 7 weeks was similar to
+mortality in patients who did not have pre-operative SARS-
+CoV-2 infection.
+There is a backlog of tens of millions of elective
+operations that were cancelled during the early phase of the
+COVID-19 pandemic [18]. This study offers evidence to
+support the safe restarting of surgery in the context of a
+rapidly increasing number of people who have survived
+SARS-CoV-2. This study ’s ﬁndings should support informed
+shared decision-making by anaesthetists, surgeons and
+patients. Decisions should be tailored for each patient, since
+the possible advantages of delaying surgery for at least
+7 weeks following SARS-CoV-2 diagnosis must be balanced
+against the potential risks of delay. For some urgent surgical
+procedures, such as resection of advanced tumours [19, 20],
+surgeons and patients may decide that the risks of delay are
+not justiﬁed.
+This study has some limitations. Firstly, ascertainment of
+SARS-CoV-2 status was based on routine pre-operative
+tests. Therefore, it is possible that some patients who had
+previously experienced SARS-CoV-2 infection may have
+been misclassi ﬁed as never having been infected. This
+Figure 5 Adjusted 30-day postoperative pulmonary complications (PPC) rate in patients with pre-operative SARS-CoV-2
+infection stratiﬁed by COVID-19 symptoms. The time-periods relate to the timing of surgery following the diagnosis of SARS-
+CoV-2 infection. Full model and results are available in online Supporting Information (Appendix S1, Tables S13 –S14).
+756 © 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2021, 76, 748– 758 COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection
+[[p10]]
+could be particularly likely for patients with asymptomatic
+infection who may be less likely to get tested. However, it is
+re-assuring that a high proportion of patients in this cohort
+were recorded as having had asymptomatic infection,
+suggesting that many such cases were detected. Secondly,
+this study was based on time from SARS-CoV-2 diagnosis to
+surgery, but it is possible that diagnosis was delayed in
+some patients, underestimating the true delay from when
+patients were infected to the date of surgery. This was
+addressed by a sensitivity analysis restricting SARS-CoV-2
+diagnosis to those patients who had positive RT-PCR
+nasopharyngeal swab results, since swab-based diagnosis
+is likely to give the best approximation of date of infection.
+The results of this sensitivity analysis were consistent with
+the main analyses. Thirdly, it was not possible to conduct
+procedure-speciﬁc analyses, although exploration of results
+stratiﬁed by grade (minor vs. major) and urgency of surgery
+(elective vs. urgency) demonstrates that the overall ﬁndings
+were consistent across these groups. Finally, whilst both
+subgroup analyses by age, ASA physical status, urgency
+and grade of surgery, and sensitivity analyses for elective
+surgery were all consistent with the main analysis, there is a
+possibility of residual bias.
+In conclusion, we performed an international, multicentre,
+prospective cohort study of 140,231 patients undergoing
+surgery in 116 countries, in order to determine the optimal
+timing of surgery after SARS-CoV-2 infection. We found that
+risks of postoperative morbidity and mortality are greatest if
+patients are operated within 6 weeks of diagnosis of SARS-
+CoV-2 infection. Our results suggest that, where possible,
+surgery should be delayed for at least 7 weeks following
+SARS-CoV-2 infection. Patients with ongoing symptoms at
+≥ 7 weeks from diagnosis may beneﬁtf r o mf u r t h e rd e l a y .
+Acknowledgements
+Trial registration at clinicaltrials.gov (NCT04509986). The
+authors would like to thank the RCS Covid Research Group
+for their support. Funding was provided by: the National
+Institute for Health Research (NIHR) Global Health Research
+Unit; Association of Coloproctology of Great Britain and
+Ireland; Bowel and Cancer Research; Bowel Disease
+Research Foundation; Association of Upper Gastrointestinal
+Surgeons; British Association of Surgical Oncology; British
+Gynaecological Cancer Society; European Society of
+Coloproctology; Medtronic; NIHR Academy; Sarcoma UK;
+the Urology Foundation; Vascular Society for Great Britain
+and Ireland; and Yorkshire Cancer Research. The views
+expressed are those of the authors and not necessarily those
+of the funding partners. No other competing interests.
+References
+1. COVIDSurg Collaborative. Mortality and pulmonary complica-
+tions in patients undergoing surgery with perioperative SARS-
+CoV-2 infection: an international cohort study.Lancet 2020; 396:
+27–38.
+2. Glasbey JC, Nepogodiev D, Simoes JFF, et al. Elective cancer
+surgery in COVID-19-free surgical pathways during the SARS-
+CoV-2 pandemic: an international, multicenter, comparative
+cohort study. Journal of Clinical Oncology 2021; 39:6 6–78.
+3. Jonker PKC, van der Plas WY, Steinkamp PJ, et al. Perioperative
+SARS-CoV-2 infections increase mortality, pulmonary
+complications, and thromboembolic events: a Dutch,
+multicenter, matched-cohort clinical study. Surgery 2021; 169:
+264–74.
+4. Economist Intelligence Unit. Coronavirus vaccines: expect delays.
+Q1 global forecast 2021. 2021. https://www.eiu.com/n/campa
+igns/q1-global-forecast-2021/ (accessed 01/02/2021).
+5. Wouters OJ, Shadlen KC, Salcher-Konrad M, et al.
+Challenges in ensuring global access to COVID-19 vaccines:
+production, affordability, allocation, and deployment. Lancet
+2021. Epub 12 February. https://doi.org/10.1016/S0140-
+6736(21)00306-8.
+6. Canet J, Gallart L, Gomar C, et al. Prediction of postoperative
+pulmonary complications in a population-based surgical
+cohort. Anesthesiology 2010; 113: 1338–50.
+7. Canet J, Sabate S, Mazo V, et al. Development and validation of
+a score to predict postoperative respiratory failure in a
+multicentre European cohort: a prospective, observational
+study. European Journal of Anaesthesiology 2015; 32: 458–70.
+8. Mazo V, Sabate S, Canet J, et al. Prospective external validation
+of a predictive score for postoperative pulmonary
+complications. Anesthesiology 2014; 121: 219–31.
+9. COVIDSurg Collaborative. Delaying surgery for patients with a
+previous SARS-CoV-2 infection. British Journal of Surgery 2020;
+107: e601–2.
+10. Baiocchi G, Aguiar S Jr, Duprat JP, et al. Early postoperative
+outcomes among patients with delayed surgeries after
+preoperative positive test for SARS-CoV-2: a case-control study
+from a single institution. Journal of Surgical Oncology 2021;
+123: 823–33
+11. Arnal Velasco S, Morales-Conde S. Recomendaciones para la
+programaci/C19on de cirug/C19ıa en condiciones de seguridad durante
+la pandemia COVID-19. 2020. https://www.aecirujanos.es/ ﬁle
+s/noticias/165/documentos/COVID19_Cirugia_electiva(1).pdf
+(accessed 03/02/2021).
+12. Andrea A, Stefano A, Francesco C, et al. Gestione della Fase Pre-
+Operatoria. 2020. https://www.sicm.it/storage- ﬁle/covid19/
+0525-LG-Pre-Op-Covid-SICM_PDF.pdf (accessed 05/02/2021).
+13. Frydenberg M, Maddern G, Collinson T, et al. Delaying surgery
+for patients recovering from COVID-19: a rapid review
+commissioned by RACS. 2021. https://www.surgeons.org/-/
+media/Project/RACS/surgeons-org/ﬁles/news/covid19-informa
+tion-hub/2021-01-11-RACS-Post-covid-delay-to-surgery-report.
+pdf (accessed 04/02/2021).
+14. American Society of Anesthesiologists. ASA and APSF Joint
+Statement on Elective Surgery and Anesthesia for Patients after
+COVID-19 Infection. 2020. https://www.asahq.org/about-asa/
+newsroom/news-releases/2020/12/asa-and-apsf-joint-stateme
+nt-on-elective-surgery-and-anesthesia-for-patients-after-covid-
+19-infection (accessed 04/02/2021).
+15. European Association for Endoscopic Surgery and other
+Interventional Techniques. Preoperative testing and screening
+for elective surgery during the pandemic COVID-19 to re-start
+surgery. 2021. https://eaes.eu/covid-19-statements/preopera
+tive-testing-and-screening-for-elective-surgery-during-the-pa
+ndemic-covid-19-to-re-start-surgery/ (accessed 04/02/2021).
+© 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists. 757
+COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection Anaesthesia 2021, 76, 748 – 758
+[[p11]]
+16. von Elm E, Altman DG, Egger M, et al. The strengthening the
+reporting of observational studies in epidemiology (STROBE)
+statement: guidelines for reporting observational studies.
+Lancet 2007; 370: 1453–7.
+17. World Bank. World Bank Country and Lending Groups. 2021.
+https://datahelpdesk.worldbank.org/knowledgebase/articles/
+906519-world-bank-country-and-lending-groups (accessed
+04/01/2021).
+18. COVIDSurg Collaborative. Elective surgery cancellations due
+to the COVID-19 pandemic: global predictive modelling to
+inform surgical recovery plans. British Journal of Surgery 2020;
+107: 1440–9.
+19. Hanna TP, King WD, Thibodeau S, et al. Mortality due to cancer
+treatment delay: systematic review and meta-analysis. British
+Medical Journal 2020; 371: m4087.
+20. Maringe C, Spicer J, Morris M, et al. The impact of the COVID-
+19 pandemic on cancer deaths due to delays in diagnosis in
+England, UK: a national, population-based, modelling study.
+Lancet Oncology 2020; 21: 1023–34.
+Supporting Information
+Additional supporting information may be found online via
+the journal website.
+Appendix S1. Supporting information.
+Table S1. Baseline characteristics and outcomes in
+elective patients.
+Table S2. Unadjusted and adjusted 30-day
+postoperative mortality (95%CI) in key sub-groups from
+main analysis.
+Table S3. Sensitivity analysis for elective patients with
+unadjusted and adjusted models for 30-day postoperative
+mortality.
+Table S4. Sensitivity analysis for elective patients with
+unadjusted and adjusted 30-day postoperative mortality
+(95%CI) in key sub-groups.
+Table S5. Sensitivity analysis for RT-PCR nasopharyngeal
+swab proven SARS-CoV-2 infection, with unadjusted and
+adjusted models for 30-day postoperative mortality.
+Table S6. Sensitivity analysis for RT-PCR
+nasopharyngeal swab proven SARS-CoV-2 infection with
+unadjusted and adjusted 30-day postoperative mortality in
+key sub-groups.
+Table S7. Unadjusted and adjusted models for 30-day
+postoperative mortality in patients with pre-operative SARS-
+CoV-2 infection.
+Table S8. Unadjusted and adjusted 30-day
+postoperative mortality in patients with pre-operative SARS-
+CoV-2 infection in key sub-groups.
+Table S9. Unadjusted and adjusted model for 30-day
+postoperative pulmonary complications in all patients.
+Table S10. Unadjusted and adjusted 30-day
+postoperative pulmonary complications in key sub-groups
+from main analysis.
+Table S11. Sensitivity analysis for elective patients with
+unadjusted and adjusted model for 30-day postoperative
+pulmonary complications.
+Table S12. Sensitivity analysis for elective patients with
+unadjusted and adjusted 30-day postoperative pulmonary
+complications in key sub-groups.
+Table S13. Unadjusted and adjusted models for 30-
+day postoperative pulmonary complications in patients with
+pre-operative SARS-CoV-2 infection.
+Table S14. Unadjusted and adjusted 30-day
+postoperative pulmonary complications in patients with
+pre-operative SARS-CoV-2 infection in key sub-groups.
+Table S15. List of excluded procedures.
+Table S16. 30-day postoperative mortality and
+postoperative pulmonary complication rates strati ﬁed by
+timing of surgery after SARS-CoV-2 diagnosis.
+Table S17. 30-day postoperative mortality and
+postoperative pulmonary complication rates in patients
+operated≥ 3 weeks after SARS-CoV-2 diagnosis, stratiﬁed by
+results of most recent repeat RT-PCR nasopharyngeal swab.
+Figure S1. Study ﬂowchart.
+Figure S2. Adjusted 30-day postoperative mortality
+rates from sensitivity analysis for elective patients, strati ﬁed
+by pre-deﬁned sub-groups.
+Appendix S2. COVIDSurg Collaborative and
+GlobalSurg Collaborative authors (all PubMed indexed co-
+authors).
+758 © 2021 The Authors. Anaesthesia published by John Wiley & Sons Ltd on behalf of Association of Anaesthetists.
+Anaesthesia 2021, 76, 748– 758 COVIDSurg Collaborative and GlobalSurg Collaborative | Timing of surgery following SARS-CoV-2 infection

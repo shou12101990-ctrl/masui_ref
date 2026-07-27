@@ -1,0 +1,641 @@
+
+[[p1]]
+WJC https://www.wjgnet.com 427 August 26, 2020 Volume 12 Issue 8
+World Journal of 
+CardiologyW J C
+Submit a Manuscript: https://www.f6publishing.com World J Cardiol 2020 August 26; 12(8): 427-436
+DOI: 10.4330/wjc.v12.i8.427 ISSN 1949-8462 (online)
+META-ANALYSIS
+Systematic review and meta-analysis of outcomes of anatomic repair 
+in congenitally corrected transposition of great arteries
+Arka Chatterjee, Neal J Miller, Marc G Cribbs, Amrita Mukherjee, Mark A Law
+ORCID number: Arka Chatterjee 
+0000-0003-0532-308X; Neal J Miller 
+0000-0002-5925-1360; Marc G Cribbs 
+0000-0002-8886-2347; Amrita 
+Mukherjee 0000-0003-1713-2926; 
+Mark A Law 0000-0003-0690-9779.
+Author contributions: Chatterjee A 
+and Law MA contributed to overall 
+conception of study objectives, 
+data acquisition and final 
+approval, data analysis, 
+manuscript preparation and 
+approval; Miller NJ and Cribbs MG 
+contributed to data acquisition; 
+Mukherjee A contributed to data 
+analysis and statistical review; all 
+authors have read and approve the 
+final manuscript.
+Conflict-of-interest statement: The 
+authors deny any conflict of 
+interest.
+PRISMA 2009 Checklist statement: 
+PRISMA guidelines were followed 
+in reporting this meta-analysis.
+Open-Access: This article is an 
+open-access article that was 
+selected by an in-house editor and 
+fully peer-reviewed by external 
+reviewers. It is distributed in 
+accordance with the Creative 
+Commons Attribution 
+NonCommercial (CC BY-NC 4.0) 
+license, which permits others to 
+distribute, remix, adapt, build 
+upon this work non-commercially, 
+and license their derivative works 
+Arka Chatterjee, Neal J Miller, Marc G Cribbs, Division of Cardiovascular Diseases, University of 
+Alabama at Birmingham, Birmingham, AL 35294, United States
+Marc G Cribbs, Mark A Law, Department of Pediatric Cardiology, University of Alabama at 
+Birmingham, Birmingham, AL 35294, United States
+Amrita Mukherjee, Department of Epidemiology, University of Alabama at Birmingham School 
+of Public health, Birmingham, AL 35233, United States
+Corresponding author: Arka Chatterjee, MD, Assistant Professor; Division of Cardiovascular 
+Disease, University of Alabama at Birmingham, 510 20th St S FOT 920, Birmingham, AL 
+35294, United States. arkachatterjee2608@gmail.com
+Abstract
+BACKGROUND 
+Treatment of congenitally corrected transposition of great arteries (cc-TGA) with 
+anatomic repair strategy has been considered superior due to restoration of the 
+morphologic left ventricle in the systemic circulation. However, data on long term 
+outcomes are limited to single center reports and include small sample sizes.
+AIM 
+To perform a systematic review and meta-analysis for observational studies 
+reporting outcomes on anatomic repair for cc-TGA.
+METHODS 
+MEDLINE and Scopus databases were queried using predefined criteria for 
+reports published till December 31, 2017. Studies reporting anatomic repair of 
+minimum 5 cc-TGA patients with at least a 2 year follow up were included. Meta-
+analysis was performed using Comprehensive meta-analysis v3.0 software.
+RESULTS 
+Eight hundred and ninety-five patients underwent anatomic repair with a pooled 
+follow-up of 5457.2 patient-years (PY). Pooled estimate for operative mortality 
+was 8.3% [95% confidence interval (CI): 6.0%-11.4%]. 0.2% (CI: 0.1%-0.4%) patients 
+required mechanical circulatory support postoperatively and 1.7% (CI: 1.1%-2.4%) 
+developed post-operative atrioventricular block requiring a pacemaker. Patients 
+surviving initial surgery had a transplant free survival of 92.5% (CI: 89.5%-95.4%) 
+per 100 PY and a low rate of need for pacemaker (0.3/100 PY; CI: 0.1-0.4). 84.7% 
+patients (CI: 79.6%-89.9%) were found to be in New York Heart Association 
+[[p2]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 428 August 26, 2020 Volume 12 Issue 8
+on different terms, provided the 
+original work is properly cited and 
+the use is non-commercial. See: htt
+p://creativecommons.org/licenses
+/by-nc/4.0/
+Manuscript source: Invited 
+manuscript
+Received: March 24, 2020 
+Peer-review started: March 24, 2020 
+First decision: April 26, 2020 
+Revised: June 8, 2020 
+Accepted: July 19, 2020 
+Article in press: July 19, 2020 
+Published online: August 26, 2020
+P-Reviewer: Gao BL, Kharlamov 
+AK, Teragawa H, Ueda H 
+S-Editor: Liu M 
+L-Editor: A 
+P-Editor: Li JH
+(NYHA) functional class I or II after 100 PY follow up. Total re-intervention rate 
+was 5.3 per 100 PY (CI: 3.8-6.8).
+CONCLUSION 
+Operative mortality with anatomic repair strategy for cc-TGA is high. Despite 
+that, transplant free survival after anatomic repair for cc-TGA patients is highly 
+favorable. Majority of patients maintain NYHA I/II functional class. However, 
+monitoring for burden of re-interventions specific for operation type is very 
+essential.
+Key words: Congenitally corrected transposition of great arteries; Anatomic repair; Double 
+switch operation; Atrial switch Rastelli; Hemi-Mustard Rastelli; Atrio-ventricular block
+©The Author(s) 2020. Published by Baishideng Publishing Group Inc. All rights reserved.
+Core tip: This is a systematic review and meta-analysis looking at short- and long-term 
+outcomes with the anatomic repair strategy (double switch or atrial switch Rastelli 
+operation) for patients with congenitally corrected transposition of great arteries. Updated 
+outcomes of operative mortality, long term survival free of transplantation and re-
+operation/re-intervention rates are provided. We find favorable long-term survival after 
+anatomic repair despite the initial high operative mortality.
+Citation: Chatterjee A, Miller NJ, Cribbs MG, Mukherjee A, Law MA. Systematic review and 
+meta-analysis of outcomes of anatomic repair in congenitally corrected transposition of great 
+arteries. World J Cardiol 2020; 12(8): 427-436
+URL: https://www.wjgnet.com/1949-8462/full/v12/i8/427.htm
+DOI: https://dx.doi.org/10.4330/wjc.v12.i8.427
+INTRODUCTION
+Congenitally  corrected  transposition  of the great arteries (cc-TGA) is an uncommon 
+cardiac defect accounting for less than 0.5% of congenital heart disease[1,2]. Associated 
+anatomic cardiac abnormalities include ventricular septal defects and pulmonary and 
+subpulmonary  obstruction,  coarctation  and Ebstein’s anomaly of the tricuspid valve 
+(TV)[1]. Surgical  anatomic  correction,  depending  on underlying  associated  cardiac 
+anomalies, can be obtained with either a double switch operation (Senning/Mustard 
+atrial switch and arterial switch) or an atrial switch (Senning/Mustard) with a Rastelli 
+operation  (ventricular  septal  defect  closure  with a baffle  to the aorta  and a right 
+ventricle  to pulmonary  artery  conduit).  An additional  variation  includes  a hemi-
+Mustard  with a bidirectional  Glenn shunt.  The anatomic  repairs  allow for the left 
+ventricle to become the systemic ventricle. This reduces the long-term deleterious risk 
+of systemic right ventricular (RV) failure, and the propensity for progressive systemic 
+TV insufficiency[3,4].
+There are multiple long-term complications that can occur after anatomic repair for 
+cc-TGA. Patients with cc-TGA are prone to developing  atrioventricular  block (AVB) 
+requiring  pacemaker  implantation  regardless  of  operative  intervention[5,6]. 
+Furthermore, the baffles for systemic and pulmonary venous return have been shown 
+to place patients at long-term  risk for the development  of atrial arrhythmia,  though 
+this risk might be mitigated by having a systemic left ventricle[6,7]. Postoperative baffle 
+leaks  and stenoses  are an additional  complication  that  can lead  to a variety  of 
+symptomology  including  cyanosis,  paradoxical  embolism,  or venous  congestion. 
+Finally, the long-term transplant free survival remains unknown without comparison 
+to survival following a physiologic repair strategy[8].
+Anatomic  repair  for  cc-TGA  is the  preferred  treatment  strategy  for  many 
+institutions;  however, the short and long-term outcomes are mostly limited to single 
+center  studies  with  a limited  number  of patients.  We therefore  sought  to better 
+delineate  the short-term  surgical  outcomes  and long-term  risks including  need for 
+pacing, baffle complications  requiring reintervention,  symptoms, and transplant free 
+survival by pooling the data from multiple observational studies.
+[[p3]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 429 August 26, 2020 Volume 12 Issue 8
+MATERIALS AND METHODS
+MEDLINE  and  Scopus  databases  were  queried  for  manuscripts  published  till 
+December  31, 2017  with  the search  items  “transposition  great  arteries”;  “TGA”; 
+“double  switch”  and “anatomical  repair”.  All manuscripts  reporting  outcomes  of 
+anatomic  repair  in cc-TGA  patients  were  considered  in the initial  review.  Final 
+inclusion  criteria  were a minimum sample size of 5 patients  with at least 2 years of 
+follow  up. Many  centers  have  published  multiple  reports  of their  experience  at 
+varying follow up durations. Thus, the most up to date manuscript from each group 
+was selected.  Two authors (Chatterjee  A and Law MA) independently  reviewed  all 
+studies considered to ensure no overlap amongst included studies. Figure 1 shows the 
+relevant details of the study selection process.
+Full texts  for all potentially  relevant  studies  were extracted  and examined  for 
+alignment with inclusion criteria and verification  of outcomes reported. All initially 
+considered  studies  were  discussed  formally  amongst  experienced  cardiologists 
+(Chatterjee A, Cribbs MG, Law MA) and a final list was drawn up. Relevant data was 
+then extracted from these manuscripts and reviewed for accuracy by two authors (Law 
+MA, Chatterjee A) independently.  Any disagreement  was discussed in the group for 
+resolution.
+Primary outcome studied was operative mortality of the anatomic repair strategy. 
+We also evaluated  immediate  operative  complications  including  the need for extra 
+corporeal  membrane oxygenation  (ECMO) or left ventricular  assist devices (LVAD) 
+and AVB requiring a pacemaker. Long term outcomes evaluated were transplant free 
+survival, New York Heart Association (NYHA) class of patients, need for pacemaker, 
+and rate of re-interventions.  We also pooled data for development of left ventricular 
+(LV) systolic dysfunction: LV dysfunction was defined as LV ejection fraction < 40% or 
+when reported as moderate or severe.
+Comprehensive  meta-analysis  (version  3; Biostat,  Englewood,  NJ) software  was 
+used to perform the meta-analysis.  Short-term  outcomes  are reported  as events (%) 
+and long-term outcomes or reinterventions are reported as events per 100 patient years 
+(PY). Heterogeneity in the data was assessed with the I2 test (I2 > 50 and Cochran’s Q 
+statistic P value < 0.05 implying significant heterogeneity)[9]. Random effects modelling 
+was used in keeping with the observational  nature of the reports included and also 
+heterogeneity.  Publication  bias was assessed using the standard funnel plot method 
+using standard errors and any corrections assessed using the Duvall and Tweedie trim 
+and fill method.  Two-tailed  P values  were used with P < 0.05 implying  statistical 
+significance  and confidence  intervals  (CI) were reported  at the 95% level. PRISMA 
+guidelines were followed in reporting the meta-analysis results[10].
+RESULTS
+Twenty-one reports of anatomic repair were included in the final analysis[4,11-30]. Table 1 
+lists the studies included and the type of anatomic repair used. A total of 895 patients 
+with cc-TGA underwent anatomic repair: The pooled analysis yielded a total follow up 
+of 5457.2 PY. The median/mean  age at operation  varied from 0.75–11.1  years. Four 
+hundred and thirteen patients underwent the double switch operation (DS) while 482 
+patients  underwent  either  an atrial  switch-Rastelli  operation  or a hemi-Mustard 
+Glenn-Rastelli  operation (ASR). Sixteen studies reported patients with both types of 
+operations;  4 studies  reported  experience  with ASR operations  only and 1 study 
+reported only DS outcomes. Fifteen studies reported prevalence of moderate or more 
+tricuspid regurgitation (TR): 22.7% (150/677) of the pooled sample had significant TR. 
+Fifteen studies reported data on pre-existing  AVB: This reveals that 15.6% (104/667) 
+patients have a need for pacing even before any surgical repair.
+Short term outcomes
+A total  of 64 patients  did not survive  to discharge  after  initial  operation  giving  a 
+pooled estimate for operative mortality of 8.3% (95%CI: 6.0%-11.4%).  Figure 2 shows 
+the funnel plot for operative mortality for included studies which would suggest over-
+reporting of small studies with low operative mortality. Correcting for publication bias 
+would raise the estimate  of operative  mortality  to 10.9% (CI: 7.6%-15.5%).  Need for 
+mechanical  circulatory  support with ECMO / LVAD post operatively  was 0.2% (CI: 
+0.1%-0.4%). Only 1.7% (CI: 1.1%-2.4%) patients developed AVB needing implantation 
+of a permanent pacemaker.
+[[p4]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 430 August 26, 2020 Volume 12 Issue 8
+Table 1 Baseline characteristics of included studies
+Ref. Country Total 
+patients
+Double 
+(arterial/atrial) 
+switch
+Atrial switch-Rastelli or 
+hemi-Mustard Glenn-
+Rastelli
+Age at 
+operation (yr)
+Mean/median 
+follow up (yr)
+Ilbawi et al[11], 2002 United States 12 2 10 0.75 7.6
+Duncan et al[12], 2003 United States 46 26 20 2.3 2
+Hörer et al[13], 2008 Germany 6 0 6 3.5 7
+Gaies et al[14], 2009 United States 65 35 30 2.2 4.6
+Ly et al[15], 2009 France 20 20 0 2.2 5
+r??zPU|K?QOOX?h?UW?RP?RV?TMQ?SMX
+Lim et al[17], 2010 South Korea 44 10 34 - 5.4
+l??zS|K?QOPP?t?r?SW?QR?QT?R?SMX
+Murtuza et al[18], 2011 United Kingdom 113 68 45 3.2 6.9
+Hiramatsu et al[19], 
+2012
+Japan 90 18 72 6.8 12.5
+Sojak et al[20], 2012 Netherlands 8 2 6 2.9 4.5
+Hoashi et al[21], 2013 Japan 47 0 47 5.5 11.6
+Bautista-Hernandez 
+et al[22], 2014
+United 
+States/Spain
+106 64 42 1.2 5.2
+Hsu et al[23], 2015 Taiwan 18 13 5 8.4 5.0
+Tocharoenchok 
+et al[24], 2016
+Thailand 22 0 22 10.9 5.3
+Brizard et al[25], 2017 Australia 32 27 5 1.9 5.4
+De León et al[26], 2017 United States 26 16 10 3 10
+Hraska et al[27], 2017 United 
+States/Germany
+UR?RW?QT?PMU?T
+Ibrahimiye et al[28], 
+2017
+United States 18 14 4 3 5
+Marathe et al[29], 2017 Australia 12 6 6 2.3 7.2
+Zhang et al[30], 2017 China 31 0 31 5.4 3.3
+895 413 482 Median age – 3 
+yr
+Median f/u 5.2 yr
+Follow up outcomes
+Long  term  outcomes  are  tabulated  in Table 2. In patients  surviving  the  initial 
+operation, mortality (Figure 3) was estimated to be 0.6 per 100 PY (CI: 0.4-0.8). Fourty-
+eight patients  died over the cumulative  follow  up of 5457.2  PY. In 20 studies  that 
+reported need for transplantation, 10 patients underwent heart transplantation giving 
+an estimated overall survival free of death or needing transplant of 92.5% (CI: 89.5%-
+95.4%)  per 100 PY. Thirteen  studies  reported  data on functional  class of surviving 
+patients: 84.7% (CI: 79.6%-89.9%)  patients were estimated to be in NYHA functional 
+class I or II. Eighteen studies reported data on LV systolic function in long term follow 
+up and LV dysfunction  was estimated  to happen in 1.7 patients/100  PY (CI: 1.0%-
+2.4%).
+In long term follow up, further need for pacemaker was noted to be 0.3%/100 PY; 
+(CI: 0.1%-0.4%).
+Re-interventions
+Twenty studies reported data on total re-interventions and the pooled estimate was 5.3 
+per 100 PY (CI: 3.8-6.8) with incidence of baffle stenosis being estimated to be 1.1 (CI: 
+0.8%-1.5%)/100  PY. The most frequently  needed reoperations/reinterventions  were 
+for conduit replacements or rehabilitation (1.5/100 PY; CI: 0.9-2.1).
+[[p5]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 431 August 26, 2020 Volume 12 Issue 8
+Table 2 Outcomes of anatomic repair in long term follow up
+Variable No. of studies Pooled estimate 95%CI
+Mortality after initial operation survival (n/100 PY) 21 0.6 0.4-0.8
+Transplant free survival (%/100 PY) 20 92.5 89.5-95.4
+NYHA I/II symptoms (%/100 PY) 13 84.7 79.6-89.9
+Left ventricular systolic dysfunction (n/100 PY) 19 1.7 1.0-2.4
+Left ventricular outflow tract obstruction (n/100 PY) 16 0.2 0.1-0.3
+Permanent pacemaker 19 0.3 0.1-0.4
+Total Reinterventions (n/100 PY) 20 5.3 3.8-6.8
+Conduit interventions/operations 20 1.5 0.9-2.1
+Baffle stenosis/leak 19 1.1 0.8-1.5
+Tricuspid valve operations 21 0.2 0.1-0.3
+CI: Confidence intervals; PY: Patient years; NYHA: New York Heart Association.
+Figure 1  Flowchart depicting study selection process.
+DISCUSSION
+This is a thorough attempt to use a meta-analysis study design in order to estimate the 
+long-term  outcomes  with an anatomic  repair  strategy  in this rare congenital  heart 
+disease subset. We report pooled outcomes from 895 patients with a sizeable follow up 
+of > 5000 PY. Management patterns for patients with cc-TGA are dictated by variations 
+in anatomic  substrate  and often by the experience  of individual  centers[3]. The long-
+term outcomes  with a physiologic  repair strategy  keeping the right ventricle  as the 
+systemic  ventricle,  although  considered  safe  unmistakably  leads  to progressive 
+congestive  heart  failure.  Graham  et al[31] report  that 67% patients  with ccTGA  and 
+associated abnormalities develop congestive heart failure by age 45 and Hraska et al[32] 
+estimate  the 10-year  survival  after  physiologic  repair  to be 68% only.  With a low 
+follow up mortality  of 0.6/100 PY in a very large pooled sample, our results would 
+certainly  argue for anatomic  repair being a default  strategy  for patients  unless the 
+substrate  is not  suitable.  Most  reports  of anatomic  repair  would  identify  this 
+unsuitable group as older patients whose morphological LV may not be able to sustain 
+systemic pressures or not respond to training with a pulmonary artery band[33]. Other 
+[[p6]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 432 August 26, 2020 Volume 12 Issue 8
+Figure 2  Funnel plot for operative mortality after anatomic repair for congenitally corrected transposition of great arteries showing 
+publication bias to the left of mean.
+Figure 3  Forest plot for long term mortality after anatomic repair for congenitally corrected transposition of great arteries. CI: Confidence 
+interval.
+predictors of poor outcomes after anatomic repair are significant pre-existing TR, RV 
+dysfunction and need for pacing[17,22].
+This improved longer term survival outcome over physiological repair needs to be 
+weighed  over  the  apparent  short-term  safety  of only  correcting  associated 
+abnormalities  in a physiologic  repair strategy[34]. However,  the surgical  mortality  in 
+physiologic repair population is also not negligible, being reported at 3% in operations 
+done after 1986 in a Mayo Clinic series (16% overall) and 6.7% in the Dutch series by 
+Bogers et al[35,36]. The operative mortality in our pooled sample is slightly higher than 
+previously  reported  estimates[37]. However,  this  is also  a sample  with  a greater 
+proportion  of DS operations  versus ASR operations.  This is notable  since multiple 
+reports have considered the latter to have lower risk of operative mortality[38].
+Staged single ventricle palliation with Fontan completion has been advocated as an 
+alternative  strategy  in the management  of cc-TGA[29,39]. The short-term  results  are 
+comparable  in regard to survival  and symptomatology,  but one must consider  that 
+long-term  complications  are not trivial  with many patients  experiencing  morbid 
+complications.  In a study by Dennis et al[40], survival of patients was only 80% at the 
+age of 40 years with many patients experiencing  arrhythmia, embolic complications, 
+and cardiac failure only after 16 years of age.
+AVB in this population  is consistently  associated  with poor outcomes[6]. However, 
+[[p7]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 433 August 26, 2020 Volume 12 Issue 8
+our study results suggest that operative  strategy  may not make a huge incremental 
+difference  in the development  of AVB. The post-operative  need for pacing was only 
+1.7% with the long-term additional need for pacing in another 0.3% patients only.
+Re-interventions  after anatomic correction for cc-TGA are not rare as corroborated 
+by our analysis. Especially in the ASR cohort, conduit replacements are very common 
+and likely most patients will need at least one exchange to a larger conduit suitable for 
+transcatheter replacement. However, after the first reoperation, multiple transcatheter 
+replacements  or rehabilitation  procedures  can  be done  avoiding  the  need  for 
+reoperation[41,42].
+Baffle  complications  of residual  leaks  or stenosis  are well  described  after  the 
+Mustard/Senning  operations  and thus account  for the other common reoperations 
+after anatomic  repair for cc-TGA[43]. However,  in the current  era, most of the baffle 
+related  complications  can be adequately  managed  with transcatheter  techniques 
+minimizing the need for re-operations[44,45]. Furthermore, residual LVOT obstruction is 
+known after both types of anatomic repair[46]. Our analysis shows the incidence of this 
+is low but not completely negligible.
+However, the need for re-interventions should also be noted in the context of similar 
+or higher need for reoperations and reinterventions in the physiologic repair strategy. 
+In a sample  of 111 children  who underwent  physiologic  repair  only, 41% patients 
+required  reoperations  for conduit  exchanges  or TV repair/replacement  at a mean 
+follow up duration  of 11.4 years[36]. Similarly,  Bogers et al[35] have also reported  a re-
+intervention rate of 32% at 20 years with a physiologic repair.
+Limitations
+The meta-analysis  study  design  lends  itself  to certain  characteristic  limitations. 
+Systematic  pooling  of observational  studies  with  differences  in baseline  patient 
+characteristics,  varied anatomic substrate,  different  sample sizes, surgical technique 
+and different follow-up durations make the pooled sample more heterogenous. This is 
+also not a patient level meta-analysis which can overcome some of these limitations. In 
+congenital  heart disease  literature,  reports  often consist  of small sample  sizes and 
+limited follow up, hence pre-disposing  to lower than actual pooled estimates  when 
+included in a meta-analysis.  Since all the studies included are observational,  there is 
+also the consideration  of under-reporting  of outcomes  or exclusion  of patients  with 
+poor outcomes. There is also no way to adequately account for refinement in surgical 
+technique as experience with anatomic repair grew.
+Conclusion
+This large pooled  analysis  supports  the overall  favorable  outcomes  after anatomic 
+repair for cc-TGA,  especially  beyond the early initial  operative  period.  Majority  of 
+patients have good quality of life, falling in NYHA class I or II. Despite increase in the 
+complexity  of repair, there does not seem to be a large increase in the prevalence  of 
+heart block. Re-interventions are required but can be accomplished in many situations 
+with transcatheter techniques in the modern era.
+ARTICLE HIGHLIGHTS
+Research background
+Anatomic repair for congenitally corrected transposition  of great arteries (cc-TGA) is 
+accomplished by either a double switch operation or one of many modifications of an 
+atrial switch operation combined with a Rastelli operation. However, these operations 
+are complex and a simpler physiologic  repair strategy  of correcting  only associated 
+defects like tricuspid valve regurgitation or ventricular septal defects is also adopted 
+in many  patients.  Anatomic  repair  strategy  has the benefit  of restoring  the left 
+ventricle  to the systemic circulation,  thus decreasing  the chances of development  of 
+congestive heart failure from a systemic right ventricle.
+Research motivation
+There are variations in practice regarding anatomic versus physiologic  repair for cc-
+TGA. Long term data from a large set of patients  regarding  safety and outcomes  of 
+anatomic repair are lacking.
+Research objectives
+The objective  of this study was to pool high quality observational  studies reporting 
+[[p8]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 434 August 26, 2020 Volume 12 Issue 8
+outcomes after anatomic repair in cc-TGA patients and perform a systematic review 
+and meta-analysis to provide more comprehensive outcomes.
+Research methods
+A search of MEDLINE and Scopus was conducted using pre-defined search criteria to 
+identify  manuscripts  reporting  outcomes  after  anatomic  repair.  Studies  meeting 
+inclusion criteria were reviewed and information regarding variables of interest were 
+extracted.  Meta-analysis  was performed  according  to standard  methods  using 
+Comprehensive meta-analysis software (version 3).
+Research results
+Eight hundred  and ninety-five  patients  who were treated  with an anatomic  repair 
+strategy  were pooled from 21 studies with a total follow-up  of 5457.2 patient-years 
+(PY). Estimated operative mortality was 8.3%. Survivors had a transplant free survival 
+of 92.5% (CI: 89.5%-95.4%) per 100 PY. 84.7% patients experienced a New York Heart 
+Association  functional  class  I or II after  100 PY follow  up. There  were  5.3 re-
+operations/re-interventions per 100 PY (CI: 3.8-6.8).
+Research conclusions
+Our study reports a high operative mortality rate for anatomic repair strategy in cc-
+TGA patients. However, the long-term survival is excellent for survivors.
+Research perspectives
+Our study suggests that the anatomic repair is worth pursuing in most patients with 
+cc-TGA because of favorable long-term outcomes despite a high operative mortality 
+risk.  Re-intervention/reoperation  risk  remains  – however  with  the  advent  of 
+transcatheter therapies, most of these issues can be managed without a re-operation in 
+the modern era.
+REFERENCES
+Wallis GA, Debich-Spicer D, Anderson RH. Congenitally corrected transposition. Orphanet J Rare Dis 
+2011; 6: 22 [PMID: 21569592 DOI: 10.1186/1750-1172-6-22]
+1     
+van der Linde D, Konings EE, Slager MA, Witsenburg M, Helbing WA, Takkenberg JJ, Roos-Hesselink 
+JW. Birth prevalence of congenital heart disease worldwide: a systematic review and meta-analysis. J Am 
+Coll Cardiol 2011; 58: 2241-2247 [PMID: 22078432 DOI: 10.1016/j.jacc.2011.08.025]
+2     
+Kutty S, Danford DA, Diller GP, Tutarel O. Contemporary management and outcomes in congenitally 
+corrected transposition of the great arteries. Heart 2018; 104: 1148-1155 [PMID: 29326110 DOI: 
+10.1136/heartjnl-2016-311032]
+3     
+Malhotra SP, Reddy VM, Qiu M, Pirolli TJ, Barboza L, Reinhartz O, Hanley FL. The hemi-
+Mustard/bidirectional Glenn atrial switch procedure in the double-switch operation for congenitally corrected 
+transposition of the great arteries: rationale and midterm results. J Thorac Cardiovasc Surg 2011; 141: 162-
+170 [PMID: 21055773 DOI: 10.1016/j.jtcvs.2010.08.063]
+4     
+Anderson RH, Becker AE, Arnold R, Wilkinson JL. The conducting tissues in congenitally corrected 
+transposition. Circulation 1974; 50: 911-923 [PMID: 4430094 DOI: 10.1161/01.cir.50.5.911]
+5     
+Baruteau AE, Abrams DJ, Ho SY, Thambo JB, McLeod CJ, Shah MJ. Cardiac Conduction System in 
+Congenitally Corrected Transposition of the Great Arteries and Its Clinical Relevance. J Am Heart Assoc 
+2017; 6: e007759 [PMID: 29269355 DOI: 10.1161/JAHA.117.007759]
+6     
+Roubertie F, Thambo JB, Bretonneau A, Iriart X, Laborde N, Baudet E, Roques X. Late outcome of 132 
+Senning procedures after 20 years of follow-up. Ann Thorac Surg 2011; 92: 2206-13; discussion 2213-4 
+[PMID: 21962265 DOI: 10.1016/j.athoracsur.2011.06.024]
+7     
+Warnes CA. Transposition of the great arteries. Circulation 2006; 114: 2699-2709 [PMID: 17159076 DOI: 
+10.1161/CIRCULATIONAHA.105.592352]
+8     
+Higgings JPT, G. S.e.   Cochrane Handbook for Systematic Reviews of Interventions. [cited 1 January 
+2020]. The Cochrane Collaboration 2011. Available from: www.handbook.cochrane.org
+9     
+Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred reporting items for systematic 
+reviews and meta-analyses: the PRISMA statement. J Clin Epidemiol 2009; 62: 1006-1012 [PMID: 
+19631508 DOI: 10.1016/j.jclinepi.2009.06.005]
+10     
+Ilbawi MN, Ocampo CB, Allen BS, Barth MJ, Roberson DA, Chiemmongkoltip P, Arcilla RA. Intermediate 
+results of the anatomic repair for congenitally corrected transposition. Ann Thorac Surg 2002; 73: 594-599; 
+discussion 599-600 [PMID: 11845880 DOI: 10.1016/s0003-4975(01)03408-7]
+11     
+Duncan BW, Mee RB, Mesia CI, Qureshi A, Rosenthal GL, Seshadri SG, Lane GK, Latson LA. Results of 
+the double switch operation for congenitally corrected transposition of the great arteries. Eur J Cardiothorac 
+Surg 2003; 24: 11-19; discussion 19-20 [PMID: 12853040 DOI: 10.1016/s1010-7940(03)00189-1]
+12     
+Hörer J, Schreiber C, Krane S, Prodan Z, Cleuziou J, Vogt M, Holper K, Lange R. Outcome after surgical 
+repair/palliation of congenitally corrected transposition of the great arteries. Thorac Cardiovasc Surg 2008; 
+56: 391-397 [PMID: 18810695 DOI: 10.1055/s-2008-1038665]
+13     
+Gaies MG, Goldberg CS, Ohye RG, Devaney EJ, Hirsch JC, Bove EL. Early and intermediate outcome after 
+14     
+
+[[p9]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 435 August 26, 2020 Volume 12 Issue 8
+anatomic repair of congenitally corrected transposition of the great arteries. Ann Thorac Surg 2009; 88: 
+1952-1960 [PMID: 19932268 DOI: 10.1016/j.athoracsur.2009.08.014]
+Ly M, Belli E, Leobon B, Kortas C, Grollmüss OE, Piot D, Planché C, Serraf A. Results of the double switch 
+operation for congenitally corrected transposition of the great arteries. Eur J Cardiothorac Surg 2009; 35: 
+879-83; discussion 883-4 [PMID: 19346135 DOI: 10.1016/j.ejcts.2009.01.051]
+15     
+Sharma R, Talwar S, Marwah A, Shah S, Maheshwari S, Suresh P, Garg R, Bali BS, Juneja R, Saxena A, 
+Kothari SS. Anatomic repair for congenitally corrected transposition of the great arteries. J Thorac 
+Cardiovasc Surg 2009; 137: 404-412.e4 [PMID: 19185160 DOI: 10.1016/j.jtcvs.2008.09.048]
+16     
+Lim HG, Lee JR, Kim YJ, Park YH, Jun TG, Kim WH, Lee CH, Park HK, Yang JH, Park CS, Kwak JG. 
+Outcomes of biventricular repair for congenitally corrected transposition of the great arteries. Ann Thorac 
+Surg 2010; 89: 159-167 [PMID: 20103227 DOI: 10.1016/j.athoracsur.2009.08.071]
+17     
+Murtuza B, Barron DJ, Stumper O, Stickley J, Eaton D, Jones TJ, Brawn WJ. Anatomic repair for 
+congenitally corrected transposition of the great arteries: a single-institution 19-year experience. J Thorac 
+Cardiovasc Surg 2011; 142: 1348-1357.e1 [PMID: 21955471 DOI: 10.1016/j.jtcvs.2011.08.016]
+18     
+Hiramatsu T, Matsumura G, Konuma T, Yamazaki K, Kurosawa H, Imai Y. Long-term prognosis of 
+double-switch operation for congenitally corrected transposition of the great arteries. Eur J Cardiothorac 
+Surg 2012; 42: 1004-1008 [PMID: 22551964 DOI: 10.1093/ejcts/ezs118]
+19     
+Sojak V, Kuipers I, Koolbergen D, Rijlaarsdam M, Hruda J, Blom N, Hazekamp M. Mid-term results of 
+bidirectional cavopulmonary anastomosis and hemi-Mustard procedure in anatomical correction of 
+congenitally corrected transposition of the great arteries. Eur J Cardiothorac Surg 2012; 42: 680-684 [PMID: 
+22402454 DOI: 10.1093/ejcts/ezs055]
+20     
+Hoashi T, Kagisaki K, Miyazaki A, Kurosaki K, Shiraishi I, Yagihara T, Ichikawa H. Anatomic repair for 
+corrected transposition with left ventricular outflow tract obstruction. Ann Thorac Surg 2013; 96: 611-620 
+[PMID: 23743063 DOI: 10.1016/j.athoracsur.2013.03.095]
+21     
+Bautista-Hernandez V, Myers PO, Cecchin F, Marx GR, Del Nido PJ. Late left ventricular dysfunction 
+after anatomic repair of congenitally corrected transposition of the great arteries. J Thorac Cardiovasc Surg 
+2014; 148: 254-258 [PMID: 24100093 DOI: 10.1016/j.jtcvs.2013.08.047]
+22     
+Hsu KH, Chang CI, Huang SC, Chen YS, Chiu IS. 17-year experience in surgical management of 
+congenitally corrected transposition of the great arteries: a single-centre's experience. Eur J Cardiothorac 
+Surg 2016; 49: 522-527 [PMID: 25877946 DOI: 10.1093/ejcts/ezv148]
+23     
+Tocharoenchok T, Sriyoschati S, Tongcharoen P, Tantiwongkosri K, Subtaweesin T. Midterm results of 
+anatomic repair in a subgroup of corrected transposition. Asian Cardiovasc Thorac Ann 2016; 24: 428-434 
+[PMID: 27095702 DOI: 10.1177/0218492316645749]
+24     
+Brizard CP, Lee A, Zannino D, Davis AM, Fricke TA, d'Udekem Y, Konstantinov IE, Brink J, Cheung 
+MMH. Long-term results of anatomic correction for congenitally corrected transposition of the great arteries: 
+A 19-year experience. J Thorac Cardiovasc Surg 2017; 154: 256-265.e4 [PMID: 28476422 DOI: 
+10.1016/j.jtcvs.2017.03.072]
+QT?????
+De León LE, Mery CM, Verm RA, Trujillo-Díaz D, Patro A, Guzmán-Pruneda FA, Adachi I, Heinle JS, 
+Kane LC, McKenzie ED, Fraser CD Jr. Mid-Term Outcomes in Patients with Congenitally Corrected 
+Transposition of the Great Arteries: A Single Center Experience. J Am Coll Surg 2017; 224: 707-715 [PMID: 
+28088601 DOI: 10.1016/j.jamcollsurg.2016.12.029]
+26     
+Hraska V, Vergnat M, Zartner P, Hart C, Suchowerskyj P, Bierbach B, Schindler E, Schneider M, Asfour B. 
+Promising Outcome of Anatomic Correction of Corrected Transposition of the Great Arteries. Ann Thorac 
+Surg 2017; 104: 650-656 [PMID: 28648534 DOI: 10.1016/j.athoracsur.2017.04.050]
+27     
+Ibrahimiye AN, Mainwaring RD, Patrick WL, Downey L, Yarlagadda V, Hanley FL. Left Ventricular 
+Retraining and Double Switch in Patients With Congenitally Corrected Transposition of the Great Arteries. 
+World J Pediatr Congenit Heart Surg 2017; 8: 203-209 [PMID: 28329464 DOI: 
+10.1177/2150135116683939]
+28     
+Marathe SP, Jones MI, Ayer J, Sun J, Orr Y, Verrall C, Nicholson IA, Chard RB, Sholler GF, Winlaw DS. 
+Congenitally corrected transposition: complex anatomic repair or Fontan pathway? Asian Cardiovasc Thorac 
+Ann 2017; 25: 432-439 [PMID: 28610439 DOI: 10.1177/0218492317717412]
+29     
+y?rK?l?jK?k?rK?g?yK?y?gK?x?iK?x?jK?o?jK?v?wK?p?kK?b?pM?s?LlK?
+bidirectional Glenn and Rastelli procedures for anatomical repair of congenitally corrected transposition of 
+the great arteries/left ventricular outflow tract obstruction with positional heart anomalies†. Eur J 
+Cardiothorac Surg 2017; 51: 1058-1062 [PMID: 28329265 DOI: 10.1093/ejcts/ezx033]
+30     
+Graham TP Jr, Bernard YD, Mellen BG, Celermajer D, Baumgartner H, Cetta F, Connolly HM, Davidson 
+WR, Dellborg M, Foster E, Gersony WM, Gessner IH, Hurwitz RA, Kaemmerer H, Kugler JD, Murphy DJ, 
+Noonan JA, Morris C, Perloff JK, Sanders SP, Sutherland JL. Long-term outcome in congenitally corrected 
+transposition of the great arteries: a multi-institutional study. J Am Coll Cardiol 2000; 36: 255-261 [PMID: 
+10898443 DOI: 10.1016/s0735-1097(00)00682-3]
+31     
+Hraska V, Duncan BW, Mayer JE Jr, Freed M, del Nido PJ, Jonas RA. Long-term outcome of surgically 
+treated patients with corrected transposition of the great arteries. J Thorac Cardiovasc Surg 2005; 129: 182-
+191 [PMID: 15632841 DOI: 10.1016/j.jtcvs.2004.02.046]
+32     
+Myers PO, del Nido PJ, Geva T, Bautista-Hernandez V, Chen P, Mayer JE Jr, Emani SM. Impact of age and 
+duration of banding on left ventricular preparation before anatomic repair for congenitally corrected 
+transposition of the great arteries. Ann Thorac Surg 2013; 96: 603-610 [PMID: 23820627 DOI: 
+10.1016/j.athoracsur.2013.03.096]
+33     
+Hirose K, Nishina T, Kanemitsu N, Mizuno A, Yasumizu D, Yada M, Onga Y, Yamanaka K. The long-term 
+outcomes of physiologic repair for ccTGA (congenitally corrected transposition of the great arteries). Gen 
+Thorac Cardiovasc Surg 2015; 63: 496-501 [PMID: 25964161 DOI: 10.1007/s11748-015-0550-y]
+34     
+Bogers AJ, Head SJ, de Jong PL, Witsenburg M, Kappetein AP. Long term follow up after surgery in 
+congenitally corrected transposition of the great arteries with a right ventricle in the systemic circulation. J 
+Cardiothorac Surg 2010; 5: 74 [PMID: 20920167 DOI: 10.1186/1749-8090-5-74]
+35     
+Biliciler-Denktas G, Feldt RH, Connolly HM, Weaver AL, Puga FJ, Danielson GK. Early and late results of 
+36     
+
+[[p10]]
+Chatterjee A et al. Anatomic repair for cc-TGA: A meta-analysis
+WJC https://www.wjgnet.com 436 August 26, 2020 Volume 12 Issue 8
+operations for defects associated with corrected transposition and other anomalies with atrioventricular 
+discordance in a pediatric population. J Thorac Cardiovasc Surg 2001; 122: 234-241 [PMID: 11479495 DOI: 
+10.1067/mtc.2001.115241]
+Imamura M, Drummond-Webb JJ, Murphy DJ Jr, Prieto LR, Latson LA, Flamm SD, Mee RB. Results of 
+the double switch operation in the current era. Ann Thorac Surg 2000; 70: 100-105 [PMID: 10921690 DOI: 
+10.1016/s0003-4975(00)01416-8]
+RV?????
+Alghamdi AA, McCrindle BW, Van Arsdell GS. Physiologic versus anatomic repair of congenitally 
+corrected transposition of the great arteries: meta-analysis of individual patient data. Ann Thorac Surg 2006; 
+81: 1529-1535 [PMID: 16564320 DOI: 10.1016/j.athoracsur.2005.09.035]
+38     
+Sun J, Brizard C, Winlaw D, Alphonso N, d'Udekem Y, Eastaugh L, Marathe S, Bell D, Ayer J. 
+Biventricular repair versus Fontan completion for patients with d- or l-transposition of the great arteries with 
+ventricular septal defect and left ventricular outflow tract obstruction. J Thorac Cardiovasc Surg 2019; 158: 
+1158-1167.e1 [PMID: 31301903 DOI: 10.1016/j.jtcvs.2019.05.061]
+39     
+Dennis M, Zannino D, du Plessis K, Bullock A, Disney PJS, Radford DJ, Hornung T, Grigg L, Cordina R, 
+d'Udekem Y, Celermajer DS. Clinical Outcomes in Adolescents and Adults After the Fontan Procedure. J 
+Am Coll Cardiol 2018; 71: 1009-1017 [PMID: 29495980 DOI: 10.1016/j.jacc.2017.12.054]
+40     
+Chatterjee A, Bajaj NS, McMahon WS, Cribbs MG, White JS, Mukherjee A, Law MA. Transcatheter 
+Pulmonary Valve Implantation: A Comprehensive Systematic Review and Meta-Analyses of Observational 
+Studies. J Am Heart Assoc 2017; 6: e006432 [PMID: 28778940 DOI: 10.1161/JAHA.117.006432]
+41     
+Caughron H, Kim D, Kamioka N, Lerakis S, Yousef A, Maini A, Reginauld S, Sahu A, Shashidharan S, 
+Jokhadar M, Rodriguez FH 3rd, Book WM, McConnell M, Block PC, Babaliaros V. Repeat Pulmonary 
+Valve Replacement: Similar Intermediate-Term Outcomes With Surgical and Transcatheter Procedures. 
+JACC Cardiovasc Interv 2018; 11: 2495-2503 [PMID: 30503596 DOI: 10.1016/j.jcin.2018.07.042]
+42     
+Patel S, Shah D, Chintala K, Karpawich PP. Atrial baffle problems following the Mustard operation in 
+children and young adults with dextro-transposition of the great arteries: the need for improved clinical 
+detection in the current era. Congenit Heart Dis 2011; 6: 466-474 [PMID: 21696550 DOI: 
+10.1111/j.1747-0803.2011.00532.x]
+43     
+Bradley EA, Cai A, Cheatham SL, Chisolm J, Sisk T, Daniels CJ, Cheatham JP. Mustard baffle obstruction 
+and leak - How successful are percutaneous interventions in adults? Prog Pediatr Cardiol 2015; 39: 157-163 
+[PMID: 29551876 DOI: 10.1016/j.ppedcard.2015.10.018]
+44     
+Chatterjee A, Miller NJ, Cribbs MG, Law MA. Transcatheter Repair of Pulmonary Venous Baffle Stenosis. 
+JACC Cardiovasc Interv 2018; 11: e129-e130 [PMID: 30077679 DOI: 10.1016/j.jcin.2018.06.031]
+45     
+Emani SM, Beroukhim R, Zurakowski D, Pigula FA, Mayer JE, del Nido PJ, Geva T, Bacha EA. Outcomes 
+after anatomic repair for d-transposition of the great arteries with left ventricular outflow tract obstruction. 
+Circulation 2009; 120: S53-S58 [PMID: 19752386 DOI: 10.1161/CIRCULATIONAHA.108.843102]
+46     
+
+[[p11]]
+Published by Baishideng Publishing Group Inc 
+7041 Koll Center Parkway, Suite 160, Pleasanton, CA 94566, USA 
+Telephone: +1-925-3991568 
+E-mail: bpgoffice@wjgnet.com 
+Help Desk: https://www.f6publishing.com/helpdesk 
+https://www.wjgnet.com
+© 2020 Baishideng Publishing Group Inc. All rights reserved.

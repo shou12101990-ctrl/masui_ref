@@ -1,0 +1,425 @@
+
+[[p1]]
+FAQ 
+１．定量的（客観的）筋弛緩モニタリングとはどのようなものですか？ 
+２．残存筋弛緩はどのくらい発生しているのですか？ 
+３．気管挿管時しかロクロニウムを投与していないので大丈夫では？ 
+４．頭部挙上ができれば筋弛緩から回復していると判断していいですか？ 
+５．軽度の残存筋弛緩なら大きな問題はないのでは？ 
+６．スガマデクスで拮抗すれば残存筋弛緩を防げるのでは？ 
+７．小児でも筋弛緩モニタリングは可能ですか？ 
+８．手でモニタリングができない場合、顔面筋で回復を評価してもいいですか？ 
+９．定量的モニタリング機器を使用できない場合の対応は？ 
+ 
+ 
+FAQ１．定量的（客観的）筋弛緩モニタリングとはどのようなものですか？ 
+筋弛緩モニタリングには末梢神経を電気刺激し、 筋の収縮反応、 おもに尺骨神経刺激
+時の母指の動きが何回発現したかを検者が主観的に評価する定性的 （主観的）モニタリ
+ングと、各種トランスデューサや測定電極で収縮力や運動加速度、 筋電位などを計測す
+る定量的（客観的）モニタリングがあります。通常は筋弛緩薬に感受性の高いユニット
+である尺骨神経刺激下の母指内転筋収縮反応を観察し、筋弛緩薬の効果発現から維持、
+回復に至るまで経時的に評価できます。ただし定性的モニタリングでは検者の視覚や触
+覚で母指の動きや力を感じる評価であり、筋弛緩の作用発現や維持にはある程度応用で
+きますが、回復時には四連（train-of-four: TOF）刺激（２Hzの4連続刺激）やダブル
+バースト刺激（double burst stimulation: DBS、40ms程度のショートテタヌス刺激を
+750ms間隔で与える方法）、テタヌス刺激（50Hzで5秒間刺激する方法）時の母指収
+縮反応の減衰を検者が感ずる方法であるため、 筋弛緩深度が浅くなるほど感知が困難に
+なります。たとえばTOF刺激時の減衰は、定量的モニタリングで測定された実際の
+TOF比（4つの刺激で得られる4つの反応をそれぞれT1、T2、T3、T4と呼称し、
+T4/T1値からTOF比を算出）が0.4を越えて回復すると、検者は減衰を感知できなく
+なります１。またDBSでもTOF比＞0.6２、 テタヌス刺激時にもTOF比＞0.7に回復す
+ると減衰を感じられなくなります３。つまり定性的モニタリングでは、筋弛緩からの至
+適回復を評価できません。TOF比を実測できる定量的モニタリングでは、筋弛緩から
+の至適回復を表すTOF比≒１を確認できる点で、危機的な呼吸器合併症をもたらす残
+存筋弛緩を確実に回避できます。2023年に発表された米国麻酔科学会の筋弛緩のモニ
+タリングと拮抗のためのプラクティスガイドライン４や欧州麻酔集中治療学会の周術期
+筋弛緩管理のガイドライン５では、筋弛緩薬使用時の定量的筋弛緩モニタリングがエビ
+デンスに基づき強く推奨（Strong recommendation）されています。具体的効果の事例
+[[p2]]
+として、術中のロクロニウム投与を定量的モニタリング下にコントロールし、 抜管前の
+筋弛緩深度に合わせてネオスチグミンあるいはスガマデクスを投与すれば、 抜管前に全
+例でTOF比≧0.9を確認できています6。定性的モニタリングあるいは定量的モニタリ
+ングを用いて筋弛緩管理後、PACU移動時にSpO2＜90％の低酸素状態、上気道閉塞に
+よりエアウェイなどで気道確保を要したケースは、定性的モニタリングの21％、11％
+に比較し、定量的モニタリングではどちらも確認されていません7。それぞれまた定量
+的モニタリングを手術室全室に導入し、使用法や必要性の教育とシステム上でTOF比
+≧0.9の記録を促すアラートを導入した施設では、TOF≧0.9の記録率が93％に上昇す
+るとともに、術後呼吸器合併症の発生率が43％減少しています8。現在、臨床使用でき
+る定量的筋弛緩モニタリングは、電位感知型、 加速度感知型、カフ圧感知型などの機種
+があり、 各施設のニーズにあった機種を選択できるようになっています。ただし定量的
+モニタリング機器を使用できない場合や、 患者の状態により実施困難な場合は、 定性的
+モニタリングと慎重な臨床観察により安全性の確保に努めることが重要です。 
+ 
+ 
+FAQ２．残存筋弛緩はどのくらい発生しているのですか？ 
+ 術後残存筋弛緩（TOF比＜0.9）は危機的な術後呼吸器合併症に関連する重大かつ医
+原性の事象であり、 麻酔科医により確実に回避されなければなりません。しかし麻酔科
+医の残存筋弛緩への意識が低ければ、 それも叶わぬことになってしまいます。 ある世界
+的サーベイ結果9によると、指導する立場にある麻酔科専門医レベルが回答者の約70％
+を占めていたにもかかわらず、筋弛緩からの安全な回復に関する知識が乏しく、ほとん
+どの医師が自信過剰な判断をしており、これが定量的筋弛緩モニタリングを実施しない
+ことにつながり、 臨床麻酔での高率な残存筋弛緩の発生を認識できない原因となってい
+る可能性を示唆しています。英国の調査10では定量的筋弛緩モニタリングを全例～通常
+使用すると答えたのは約12％、オーストラリアおよびニュージーランドでの調査11で
+も周術期使用率は17％と非常に低率で、本邦で2019年に実施された全国調査12におい
+ても、筋弛緩からの回復期に定量的モニタリングを通常使うと答えた施設はQT％のみ
+で、使用しないあるいはあまり使わないと答えた施設は40％にも及んでいました。以
+前より警鐘は鳴らされているのですが、定量式筋弛緩モニタリングが常用されない状況
+下では術後残存筋弛緩発生率が高く、高率のものでは65％にまで及ぶ報告13もありま
+す。40年間に集積された数多くの残存筋弛緩関連論文のメタ解析14によると、筋弛緩
+モニタリングをしない場合には33.1％、定性的モニタリングを行った際も同様に30.6％
+に術後残存筋弛緩が発生しており、 それに対し定量的にモニタリングすることで11.5％
+に減少することが示されています。定量的モニタリングを実践していても、TOF比≧
+0.9が至適回復であることの認識不足（以前はTOF比＞0.7が回復基準とされていた時
+[[p3]]
+期もありました15）によるTOF比＜0.9での抜管、モニター使用法の不備、長時間作用
+性筋弛緩薬の使用、拮抗薬の種類や投与法などの要因により残存筋弛緩あるいは再クラ
+ーレが確認されているものと推測されます。残存筋弛緩は全年代で発生しており、小児
+でも48.2％16、 高齢者では若年成人よりも多いことが報告されています （58％ vs 30%）
+17。手術室やPACUのみでなく、ICUにおいても人工呼吸管理後の抜管の際に43％で
+残存筋弛緩が生じていたとの報告18もあります。ただし適切なスガマデクスの投与と定
+量的筋弛緩モニタリングを組み合わせれば、PACU到着時の残存筋弛緩率を32％（非
+モニタリング時）から1.6％に大幅に減らせることも報告されており19、モニタリング
+の機種も増え、かつ測定精度や簡便性も高くなっている20点で、安全な筋弛緩管理への
+貢献が期待できます。 
+ 
+ 
+FAQ３．気管挿管時しかロクロニウムを投与していないので大丈夫では？ 
+麻酔導入時にロクロニウム0.6㎎/㎏を単回投与しているのみで、投与からすでに２
+時間経過しているので、 すでに筋弛緩から自然回復していると思われるでしょうか？非
+脱分極性筋弛緩薬の特徴のひとつとして、その作用持続時間に症例ごとに大きな幅があ
+ることが知られています。中時間作用性のロクロニウムですが、0.6㎎/㎏（ED95×2）
+投与後、追加投与せず2時間以上経過時にTOF比を計測した報告によると、TOF比
+＜OMXはRV％、＜OMVはPO％の症例で認められており、最長で約U時間以上経過しても
+まだTOF比＜0.6というケースが確認されています21。とくに高齢者では、肝腎より
+排泄されるロクロニウムなどのステロイド型筋弛緩薬の作用時間はばらつきが大きく、
+ロクロニウムOMU㎎N㎏投与後、sPがコントロールのQT％に回復するのにRR‐PPX分
+（中央値63分）と幅が大きく22、至適回復までにはさらに時間を要することになりま
+す。筋弛緩薬が投与された症例で術後肺合併症が多いのは、 このようなロクロニウムの
+作用に関して麻酔科医が誤った認識を有していることが原因かもしれません。欧州28
+か国の対象2万人以上の前向き試験では、 筋弛緩薬が投与されていない群に比較し、 筋
+弛緩薬が投与された群では低酸素血症、肺感染症、無気肺、誤嚥性肺炎、気管支痙攣、
+肺水腫などの肺合併症が有意に多いことが確認されています（3.3％ vs 8.6％）23。別の
+報告においても、 筋弛緩薬非投与群に比べ、 ロクロニウムやシスアトラクリウムなどの
+中時間作用性筋弛緩薬を投与した群では、術後30日以内の肺炎の発症が多くなり（5
+人/10,000人vs９人/10,000人、発生比1.8倍）、拮抗をしない場合には発生比は2.3倍
+になることが24、また抜管後にSpO2＜90％を呈するケースや不慮のICU入室の上、 再
+挿管されるケースの増加（オッズ比PMS）が明らかにされていますQT。いったん低酸素
+血症、無気肺、胸水、肺炎、ARDSなどを生じた群では、合併症がなかった群に比べ死
+亡率が7倍になる26ことから、術後の肺合併症は何としても予防せねばなりませんし、
+[[p4]]
+ましてや残存筋弛緩による医原性の呼吸トラブルは確実に回避しなければなりません。
+こういった一連のエビデンスを考慮すれば、 投与から2時間経過しているから大丈夫と
+いうことにはならず、定量的モニタリングと拮抗薬の投与によりTOF比の回復を確認
+する必要があるのです。 
+ 
+ 
+FAQ４．頭部挙上ができれば筋弛緩から回復していると判断していいですか？ 
+頭部挙上や下肢挙上および強く手を握ることを5秒間持続可能、最大吸気圧≧－50㎝
+H2Oが神経筋機能の回復を満たす臨床テストとして用いられてきました27。しかし臨床
+テストの可否と定量的筋弛緩モニタリング評価とを比較すると、臨床テストをクリアし
+てもまだTOF比では高率に残存筋弛緩状態にあることが示されています。たとえば頭部
+および下肢挙上に関しては、 母指内転筋でTOF比＞0.6に回復すれば可能になります28。
+他の報告29でも同様の結果が得られており、 頭部挙上はTOF比＜0.7でも80％の患者で
+可能であり、一方、TOF比＞0.9まで回復していても達成率は87％とあまり差がなく、
+本テストが感度の悪いことを示しています。臨床テストは筋弛緩薬以外の麻酔薬の残存
+等にも影響を受けるため、覚醒遅延時には麻酔薬によるものか、筋弛緩効果によるもの
+か判断がつきにくいことも多いと思われます。唯一、追視が適切にでき、複視が認められ
+なければTOF比＝１に回復していることが示されていますが28、 麻酔からの覚醒時のい
+まだ挿管管理中にこの評価を正確に行えるとは限りません。挿管中の最大吸気圧測定に
+関しては、－50㎝H2Oを超えれば頭部挙上や下肢挙上ができる点で臨床テストのひと
+つに挙げられていますが、この研究30での非筋弛緩下のコントロール値－90㎝H2Oと
+比べかなり低値であること、この際に測定した握力は非筋弛緩下の50％以下に減少して
+いること、かつ定量的筋弛緩モニタリングとの比較はされていないことより、筋弛緩か
+らの至適回復を評価し得る指標とはなり得ません。まだ筋弛緩深度が深い場合には臨床
+テストでも判別できますが、TOF比0.6程度の残存筋弛緩は容易に見逃されてしまいま
+す。筋弛緩からの至適回復を確認するのに定量的筋弛緩モニタリングが最も信頼性が高
+く、TOF≒１を観察する方が容易かつ正確な評価法として強く推奨されます。 
+ 
+ 
+FAQ５．軽度の残存筋弛緩なら大きな問題はないのでは？ 
+ まず筋弛緩深度について解説しますが、ポストテタニックカウント（post-tetanic 
+count: PTC、深部遮断状態で50Hzテタヌス刺激後の促通反応により誘発される単収縮
+反応数）が０の状態をcomplete block、PTC＞１をdeep block、TOFカウント１－３
+をmoderate block、TOF比0.1‐0.4をshallow block、TOF比0.4‐0.9をminimal block
+と定義しています31。臨床上、軽度の残存筋弛緩というとおそらくはminimal blockの
+[[p5]]
+状態に当たると考えられます。実際に残存筋弛緩報告の多くの例がminimal blockにあ
+り32、つまり臨床症状からは残存筋弛緩状態にあることは把握しにくいということにな
+ります。この際、呼吸筋である横隔膜はrespiratory sparing effect33で知られているよう
+に、 母指内転筋に比較してロクロニウムは効きにくく、筋弛緩からの回復が早い34ため、
+母指内転筋で軽度の残存筋弛緩状態にあっても、横隔膜運動は先に回復しており、呼吸
+量は十分に得られるはずです。 ただしそれは気管挿管されている間のことで、舌を前方
+に突き出す作用を有するオトガイ舌筋は母指内転筋と同様にロクロニウムに感受性が
+高い35ため、 抜管後には上気道閉塞により低酸素血症、 ひいては無気肺や肺炎が生じる
+可能性があります。また咽喉頭の協調運動障害による嚥下障害や上部食道括約筋圧の低
+下による胃内容逆流による誤嚥の可能性も高まります36。またPaO2の低下を感知した
+頚動脈体からアセチルコリンが放出され、舌咽神経の神経型アセチルコリン受容体を介
+して延髄呼吸中枢へ連絡する低酸素性換気応答も軽度の残存筋弛緩であっても障害さ
+れるため、 低酸素血症時に換気量の増加が得られにくくなりますが、 母指内転筋でTOF
+比＝１に回復していても、換気応答が回復していないことが報告されていますRV。この
+ように残存する筋弛緩効果が軽度であっても、 呼吸器合併症は十分に起こり得るのです。
+いったん術後に残存筋弛緩状態に置かれた患者では、重度の低酸素血症や上気道閉塞、
+深呼吸不可、呼吸困難などへの対処として再挿管を要する例が６％に上っています38。
+とくに高齢者においては、術後残存筋弛緩を呈したケースのうち20％以上に肺炎や無
+気肺が生じることも報告されています17。軽度の残存筋弛緩でも患者を危機的状況に陥
+れる可能性があるということを認識せねばなりません。 
+ 
+ 
+FAQ６．スガマデクスで拮抗すれば残存筋弛緩を防げるのでは？ 
+ スガマデクスが有効な拮抗作用を有することは、日々の臨床で感じられていると思い
+ます。ネオスチグミンは抗コリンエステラーゼであり、神経筋接合部内でアセチルコリ
+ンの分解を抑制し、 その量を増やすことでロクロニウムとの間でアセチルコリン受容体
+を競合し、 筋弛緩の拮抗作用をもたらします。間接的な拮抗作用であるため、まだ深い
+筋弛緩状態にある際には拮抗作用を発揮できず、minimal blockまで回復後に投与する
+必要があります。ただしこの拮抗のタイミングで投与されても、至適回復までには15
+分程度を要します39。これに比べてスガマデクスの場合、筋弛緩の程度に合わせた至適
+量が投与されれば、 数分で回復が得られるという利点があります。確かにネオスチグミ
+ンに比べ、 スガマデクス投与時の残存筋弛緩の頻度は減少し （ネオスチグミン ：8.4/100
+人 vs スガマデクス：4.5/人）40、 とくに残存筋弛緩による重篤な肺合併症を起こしやす
+い高齢者において有意に減少しています （ネオスチグミン ：49% vs スガマデクス ：10%）
+41。術後肺合併症に関しても、肺炎や呼吸不全の発症頻度はネオスチグミン投与群での
+[[p6]]
+5.9％に比較して、スガマデクス投与群では2.6％と低率であり42、スガマデクスの投与
+により肺炎発症率が47％、呼吸不全が55％減少し43、とくにハイリスクである高齢者
+での肺炎発生率の減少に寄与することが報告されています44。また呼吸不全に対する再
+挿管の頻度がスガマデクスにより有意に減少しています45。ただしスガマデクスを闇雲
+に投与するだけでは、 残存筋弛緩はゼロにはなりません。世界に先駆けて本邦から報告
+された研究結果46では、非モニタリング下に麻酔科医の裁量で2あるいは４㎎/㎏のス
+ガマデクスを投与した場合、抜管後の残存筋弛緩の割合が46.2％にまで上っていまし
+た。このため、最も安全な筋弛緩管理のためには、定量的筋弛緩モニタリング下で筋弛
+緩深度を評価し、 適切な投与量のスガマデクスで拮抗した後、 抜管前にTOF比≧0.9の
+回復を確認することが強く推奨されます。 
+ 
+ 
+FAQ７．小児でも筋弛緩モニタリングは可能ですか？ 
+ 乳幼児にも適用できる測定機材も用意されていますので、モニタリングは可能です。
+小児の中でも年齢によってロクロニウムへの感受性が異なりますので、 筋弛緩管理に定
+量的筋弛緩モニタリングは非常に有効です。2歳頃に神経筋接合部が成熟しますが、そ
+れ以前の児では神経筋刺激伝達が未熟のため、筋弛緩薬の投与がない状態でもTOF刺
+激時に減衰が認められることがあります。 ロクロニウムへの感受性も高く、他の年代と
+比べて作用時間が長くなります47。つまり残存筋弛緩も生じやすくなりますので、定量
+的モニタリングによる観察は重要です。スガマデクスのドーズレスポンスは成人と同様
+で、投与量が不足すれば容易に残存筋弛緩が生じますし48、 再クラーレ化49も報告され
+ています。逆に２歳～小学生頃の筋量が急激に増加する成長期には、 ロクロニウムの有
+効投与量は人生の中で最大となり（乳幼児291μg/㎏、小児409μg/㎏、成人350μg/
+㎏）50、筋弛緩効果が得られにくくなります。定量的モニタリングにより、これらの差
+異に応じた精度の高い筋弛緩管理が可能になります。 
+ 
+ 
+FAQ８．手でモニタリングができない場合、顔面筋で回復を評価してもいいですか？ 
+とくに筋弛緩からの至適回復を評価する場合には、 非脱分極性筋弛緩薬に感受性に高
+い母指などの手指筋でのモニタリングが必須ですが、上肢の熱傷や手術体位等の理由に
+より尺骨神経―母指内転筋ユニットが使用できない状況では、 顔面神経－皺眉筋や脛骨
+神経－母趾屈筋ユニットで測定が可能です。 ユニットにより適用できる定量的筋弛緩モ
+ニターの機種が限定され、 皺眉筋では加速度感知型モニターのみ、 母指屈筋での測定に
+は電位感知型、 加速度感知型モニターにより測定できます。ただしロクロニウムの作用
+発現や回復速度が、母指内転筋とは異なることを認識しておくことが重要です。 
+[[p7]]
+母指内転筋における非脱分極性筋弛緩薬の作用発現に比べ、皺眉筋ではより早く51、
+母趾屈筋ではより遅くなります52。重要なのは回復時の反応差ですが、ロクロニウムへ
+の感受性差などの要因により、 皺眉筋、 母趾屈筋、 母指内転筋の順に回復してきます51-
+53（小児では母指屈筋と母指内転筋の回復が逆になる可能性が示されています54）。 たと
+えば皺眉筋でTOFカウントが２程度に回復している際には、回復の遅い母指内転筋で
+はまだPTC＜５のレベルにあります51。 皺眉筋でTOFカウント２が観察できている状
+態から拮抗する際に、スガマデクス投与量を2㎎/㎏と判断してはいけません。この投
+与量では約半数の患者では迅速かつ十分な回復は得られず、 追加投与が必要となります
+51。スガマデクスの推奨投与量はあくまで母指内転筋で定量された筋弛緩深度、つまり
+TOFカウント≧２なのか、 いまだPTCで評価されるdeep blockなのかによって、2㎎
+/㎏55あるいは4㎎/㎏56と決められているため、 この場合のスガマデクス至適投与量は
+4㎎/㎏となります。最終的には尺骨神経―母指内転筋ユニットで至適回復を確認する
+のが理想ですが、 適用できない場合には残存筋弛緩や再クラーレの発現がないか患者の
+運動機能や呼吸状態を慎重に観察し、 筋弛緩症状が認められればスガマデクスを追加投
+与する必要があります。 
+ 
+ 
+FAQ９．定量的モニタリング機器を使用できない場合の対応は？ 
+定量的モニタリング機器を使用できない、 または患者状態により実施困難な場合でも、
+適切な対応により安全性の確保に努めることが重要です。 まず定性的モニタリングを実
+施し、 頭部挙上、 握力、 深呼吸能力などの複数の臨床的回復指標を総合的に評価します。
+また十分な覚醒確認期間を設定し、 術後も継続的な呼吸・神経筋機能の観察を行うこと
+が必要です。 筋弛緩の徴候を認めた場合には、 必要に応じて拮抗薬の追加投与を検討し
+ます。記録においては、実施した評価方法、回復確認の根拠となった所見、代替手段を
+選択した理由を詳細に記載することが重要です。 これらの代替手段を適切に実施するこ
+とにより、 定量的モニタリング不実施による安全性への影響を最小限に抑えることが可
+能です。 なお、 本指針は一般的な推奨事項であり、 個々の患者の状態、 施設の設備状況、
+臨床状況に応じて、麻酔科医の専門的判断により適切な管理を行うことが重要です。 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[[p8]]
+参考文献 
+PM?uLl?iK?i?mgK?d?iK??M?s??????
+response to train-of-four nerve stimulation. Anesthesiology 1985; 63: 440-3 
+2. Drenck NE, Ueda N, Olsen NV, et al. Manual evaluation of residual curarization using 
+double burst stimulation: a comparison with train-of four. Anesthesiology 1989; 70: 
+578-81 
+3. Ali HH, Savarese JJ, Lebowitz PW, et al. Twitch, tetanus and train-of-four as indices 
+of recovery from nondepolarizing neuromuscular blockade. Anesthesiology 1981; 54: 
+294-7 
+4. Thilen SR, Weigel WA, Todd MM, et al. 2023 American Society of Anesthesiologists 
+Practice Guidelines for Monitoring and Antagonism of Neuromuscular Blockade: A 
+Report by the American Society of Anesthesiologists Task Force on Neuromuscular 
+Blockade. Anesthesiology 2023; 138: 13-41 
+5. Fuchs-Buder T, Romero CS, Lewald H, et al. Peri-operative management of 
+neuromuscular blockade. A guideline from the European Society of Anaesthesiology 
+and Intensive care. Eur J Anaesthesiol 2023; 40: 82-94 
+6. Thilen SR, Sherpa JR, James AM, et al. Management of muscle relaxation with 
+rocuronium and reversal with neostigmine or sugammadex guided by quantitative 
+neuromuscular monitoring. Anesth Analg 2024; 139: 536-44 
+7. Murphy GS, Szokol JW, Marymont JH, et al. Intraoperative acceleromyographic 
+monitoring reduces the risk of residual neuromuscular blockade and adverse 
+respiratory events in the postanesthesia care unit. Anesthesiology 2008; 109: 389-98 
+8. Weigel WA, Williams BL, Hanson NA, et al. Quantitative neuromuscular monitoring 
+in clinical practice: A professional practice change initiative. Anesthesiology 2022; 
+136: 901-15 
+9. Naguib M, Brull SJ, Hunter JM, et al. Anesthesiologists’ overconfidence in their 
+perceived knowledge of neuromuscular monitoring and its relevance to all aspects of 
+medical practice: an international survey. Anesth Analg 2019; 128: 1118-26 
+10. Grayling M, Sweeney BP. Recovery from neuromuscular blockade: a survey of 
+practice. Anaesthesia 2007; 62: 806-9 
+11. Phillips S, Stewart PA, Bilgin AB. A survey of the management of neuromuscular 
+blockade monitoring in Australia and New Zealand. Anaesth Intensive Care 2013; 41: 
+374-9 
+12. 高木俊一, 鈴木孝浩. 筋弛緩モニタリングに関する全国調査2019 
+13. Saager L, Maiese EM, Bash LD et al. Incidence, risk factors, and consequences of 
+[[p9]]
+residual neuromuscular block in the United States: The prospective, observational, 
+multicenter RECITE-US study. J Clin Anesth 2019; 55: 33–41 
+14. Carvalho H, Verdonck M, Cools W, et al. Forty years of neuromuscular monitoring 
+and postoperative residual curarization: a meta-analysis and evaluation of confidence 
+in network meta-analysis. Br J Anaesth 2020; 125: 466-482 
+15. Ali HH, Utting JE, Gray TC. Quantitative assessment of residual antidepolarizing 
+block. II. Br J Anaesth 1971; 43: 478-85 
+16. Klucka J, Kosinova M, Krikava I, et al. Residual neuromuscular block in paediatric 
+anaesthesia. Br J Anaesth 2019; 122: e1-e2 
+17. Murphy GS, Szokol JW, Avram MJ, et al. Residual neuromuscular block in the elderly: 
+incidence and clinical implications. Anesthesiology 2015; 123: 1322-36 
+18. Ross J, Ramsay DP, Sutton-Smith LJ, et al. Residual neuromuscular blockade in the 
+ICU: a prospective observational study and national survey. Anaesthesia 2022; 
+77:991-8 
+19. Domeneck G, Kampel MA, Guzzo MEG, et al. Usefulness of intra-operative 
+neuromuscular blockade monitoring and reversal agents for postoperative residual 
+neuromuscular blockade: a retrospective observational study. BMC Anesthesiol 2019; 
+19: 143 
+20. Wedemeyer Z, Michaelsen KE, Jelacic S, et al. Accuracy and precision of three 
+acceleromyographs, three electromyographs, and a mechanomyography measuring 
+train-of-four ratio in the absence of neuromuscular blocking drugs. Anesthesiology 
+2024; 141: 262-71 
+21. Debaene B, Plaud B, Dilly MP, et al. Residual paralysis in the PACU after a single 
+intubating dose of nondepolarizing muscle relaxant with an intermediate duration of 
+action. Anesthesiology 2003; 98: 1042-8  
+22. Arain SR, Kern S, Ficke DJ, et al. Variability of duration of action of neuromuscular-
+blocking drugs in elderly patients. Acta Anaesthesiol Scand 2005; 49: 312-5 
+23. Kirmeier E, Eriksson LI, Lewald H, Jonsson Fagerlund M, Hoeft A, Hollmann M, et 
+al. Post-anesthesia pulmonary complications after use of muscle relaxants 
+(POPULAR): a multicenter prospective observational study. Lancet Respir Med. 
+2019; 7: 129–40 
+24. Bulka CM, Terekhov MA, Martin BJ, et al. Nondepolarizing neuromuscular blocking 
+agents, reversal, and risk of postoperative pneumonia. Anesthesiology 2016; 125: 647-
+55 
+25. Grosse-Sundrup M, Henneman JP, Sandberg WS, et al. Intermediate acting non-
+[[p10]]
+depolarizing neuromuscular blocking agents and risk of postoperative respiratory 
+complications: prospective propensity score matched cohort study. BMJ 2012; 345: 
+e6329 
+26. Garutti I, Errando CL, Mazzinari G, et al. Spontaneous recovery of neuromuscular 
+blockade is an independent risk factor for postoperative pulmonary complications 
+after abdominal surgery: A secondary analysis. Eur J Anaesthesiol 2020; 37: 203-11 
+27. Viby-Mogensen J. Postoperative residual curarization and evidence-based 
+anaesthesia. Br J Anaesth 2000; 84: 301-3 
+28. Kopman AF, Yee PS, Neuman GG. Relationship of the train-of-four fade ratio to 
+clinical signs and symptoms of residual paralysis in awake volunteers. Anesthesiology 
+1997; 86: 765-71 
+29. Debaene B, Plaud B, Dilly MP, et al. Residual paralysis in the PACU after a single 
+intubating dose of nondepolarizing muscle relaxant with an intermediate duration of 
+action. Anesthesiology 2003; 98: 1042-8 
+30. Pavlin EG, Holle RH, Schoene RB. Recovery of airway protection compared with 
+ventilation in humans after paralysis with curare. Anesthesiology 1989; 70: 381-5 
+31. Naguib M, Brull SJ, Kopman AF, et al. Consensus statement on perioperative use of 
+neuromuscular monitoring. Anesth Analg 2018; 127: 71-80 
+32. Fortier LP, Mckeen D, Turner K, et al. The RECITE Study: A Canadian Prospective, 
+Multicenter Study of the Incidence and Severity of Residual Neuromuscular Blockade. 
+Anesth Analg 2015; 121: 366-72 
+33. Gal TJ, Smith TC. Partial paralysis with d-tubocurarine and the ventilatory response 
+to CO2: an example of respiratory sparing? Anesthesiology 1976; 45: 22-8 
+34. Cantineau JP, Porte F, d’Honneur G, et al. Neuromuscular effects of rocuronium on 
+the diaphragm and adductor pollicis muscles in anesthetized patients. Anesthesiology 
+1994; 81: 585-90 
+35. Eikermann M, Vogt FM, Herbstreit F, et al. The predisposition to inspiratory upper 
+airway collapse during partial neuromuscular blockade. Am J Respir Crit Care Med 
+2007; 175: 9-15 
+36. Cedborg AI, Sundman E, Bodén K, et al. Pharyngeal function and breathing pattern 
+during partial neuromuscular block in the elderly: effects on airway protection. 
+Anesthesiology 2014; 120: 312-25 
+37. Broens SJL, Boon M, Martini CH, et al. Reversal of partial neuromuscular block and 
+the ventilatory response to hypoxia: a randomized controlled trial in healthy 
+volunteers. Anesthesiology 2019; 131: 467-76 
+[[p11]]
+38. Murphy GS, Szokol JW, Marymont JH, et al. Residual neuromuscular blockade and 
+critical respiratory events in the postanesthesia care unit. Anesth Analg 2008; 107: 
+130-7 
+39. Baurain MJ, Hoton F, D’Hollander AA, et al. Is recovery of neuromuscular 
+transmission complete after the use of neostigmine to antagonize block produced by 
+rocuronium, vecuronium, atracurium and pancuronium? Br J Anaesth 1996; 77: 496-
+9 
+40. Abad-Gurumeta A, Ripollés-Melchor J, Casans-Fracés R, et al. A systematic review of 
+sugammadex vs neostigmine for reversal of neuromuscular blockade. Anaesthesia 
+2015; 70: 1441-52 
+41. Togioka BM, Yanez D, Aziz MF, et al. Randomised controlled trial of sugammadex or 
+neostigmine for reversal of neuromuscular block on the incidence of pulmonary 
+complications in older adults undergoing prolonged surgery. Br J Anaesth 2020; 124: 
+553-61 
+42. Colquhoun DA, Vaughn MT, Bash LD, et al. Association between choice of reversal 
+agent for neuromuscular block and postoperative pulmonary complications in 
+patients at increased risk undergoing non-emergency surgery: STIL-STRONGER, a 
+multicentre matched cohort study. Br J Anaesth 2023; 130: e148-e159 
+43. Kheterpal S, Vaughn MT, Dubovoy TZ, et al. Sugammadex versus neostigmine for 
+reversal of neuromuscular blockade and postoperative pulmonary complications 
+(STRONGER). A multicenter matched cohort analysis. Anesthesiology 2020; 132: 
+1371–81 
+44. Ledowski T, Szabo-Maak Z, Loh PS, et al. Reversal of residual neuromuscular block 
+with neostigmine or sugammadex and postoperative pulmonary complications: a 
+prospective, randomised, double-blind trial in high-risk older patients. Br J Anaesth 
+2021; 127: 316-23 
+45. Krause M, McWilliams SK, Bullard KJ, et al. Neostigmine versus sugammadex for 
+reversal of neuromuscular blockade and effects on re-intubation for respiratory failure 
+or newly initiated non-invasive ventilation – an interrupted time series design. Anesth 
+Analg 2020; 131: 14-51 
+46. Kotake Y, Ochiai R, Suzuki T, et al. Reversal with sugammadex in the absence of 
+monitoring did not preclude residual neuromuscular block. Anesth Analg 2013; 117: 
+345-51 
+47. Tirotta CF, Brandom B, Siddiqui MS, et al. Time course of rocuronium-induced 
+neuromuscular blockade in pediatric patients: a phase III, randomized, dose-response 
+[[p12]]
+study. J Anesthe Clinic Res 2012; 3: 189 
+48. Matsui M, Konishi J, Suzuki T, et al. Reversibility of rocuronium-induced deep 
+neuromuscular block with sugammadex in infants and children-arandomized study. 
+Biol Pharm Bull 2019; 42: 1637-40 
+49. Salaün JP, Décary E, Veyckemans F. Recurarisation after sugammadex in children: 
+review of case reports and recommendations. Br j Anaesth 2024; 132: 410-4 
+50. Taivainen T, Meretoja OA, Erkola O, et al. Rocuronium in infants, children and adults 
+during balanced anaesthesia. Paediatr Anaesth 1996; 6: 271-5 
+51. Yamamoto S, Yamamoto Y, Suzuki T, et al. Reversal of neuromuscular block with 
+sugammadex: a comparison of the corrugator supercilia and adductor pollicis muscles 
+in a randomized dose-response study. Acta Anaesthesiol Scand 2015; 59: 892-901 
+52. Suzuki T, Suzuki H, Katsumata N, et al. Evaluation of twitch responses obtained from 
+abductor hallucis muscle as a monitor of neuromuscular blockade: comparison with 
+the results from adductor pollicis muscle. J Anesth 1944; 8: 44-8 
+53. Suzuki T, Mizutani H, Miyake E, et al. Infusion requirements and reversibility of 
+rocuronium at the corrugator supercilia and adductor pollicis muscles. Acta 
+Anaesthesiol Scand 2009; 53: 1336-40 
+54. Tobias JD, Epstein RH, Rice -Weimer J, et al. Pediatric intraoperative 
+electromyographic responses at the adductor pollicis and flexor hallucis brevis 
+muscles: A prospective, comparative analysis. Anesth Analg 2024; 139: 36-43 
+55. Sorgenfrei IF, Norrild K, Larsen PB, et al. Reversal of rocuronium -induced 
+neuromuscular block by the selective relaxant binding agent sugammadex: a dose-
+finding and safety study. Anesthesiology 2006; 104: 667-74 
+56. Groudine SB, Soto R, Lien C, et al. A randomized, dose-finding, phase II study of the 
+selective relaxant binding drug, Sugammadex, capable of safety reversing profound 
+rocuronium-induced neuromuscular block. Anesth Analg 2007; 104: 555-62 
+ 

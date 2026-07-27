@@ -1,0 +1,89 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Family presence during neonatal resuscitation 新生児蘇生中の家族の立ち会い 
+Katie N. Dainty , et al.,  Ped, NLS, and EIT TF 
+The PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+• Population: Neonates requiring resuscitation in any setting 
+• Intervention: Family presence during resuscitation 
+• Comparator: No family presence during resuscitation 
+• Outcome: Improved patient outcomes (short and long term), 
+family-centered outcomes (short and long term, perception of 
+the resuscitation), and health care provider–centered outcomes 
+(perception of the resuscitation, psychological stress) 
+• Study design: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies, qualitative) were eligible for inclusion. 
+Unpublished studies (eg, conference abstracts, trial protocols) 
+were excluded.  
+• Time frame: All years and all languages were included as long 
+as there was an English abstract. Literature search was updated 
+to June 14, 2020. 
+PICOST  
+P: 全ての状況下での蘇生を必要とする新生児 
+I:蘇生中の家族の立ち会い 
+C:蘇生中の家族の非立ち会い 
+O:患者アウトカムの改善（短期と長期） 
+家族を観点の中心としたアウトカム（短期と長期、蘇生の認識） 
+医療従事者を観点の中心としたアウトカム（蘇生の認識、心理的スト
+レス） 
+ 
+ 
+ 
+S: RCT と非ランダム化研究（非 RCT, 分割時系列解析、前後比較対照
+研究、コホート研究、質的研究）が採用された。論文化されていない
+研究（例：学会抄録、臨床試験のプロトコールなど）は除外した。 
+ 
+T:英語抄録がある、全ての年の、全ての言語による研究を対象とし
+た。文献検索は 2020 年 6 月 14 日まで。 
+Treatment recommendations 
+We suggest that it is reasonable for mothers/fathers/ partners 
+to be present during the resuscitation of neonates when 
+推奨と提案 
+[[p2]]
+2 
+ 
+circumstances, facilities, and parental inclination allow (weak 
+recommendation, very low–certainty evidence). 
+There is insufficient evidence to indicate an interventional effect 
+on patient or family outcome. Being present during the 
+resuscitation of their baby seems to be a positive experience for 
+some parents, but concerns about an adverse effect on 
+performance exist among both health care providers and family 
+members. 
+環境、施設、親の意向が許す状況であれば、母/父/パートナーが  
+新生児の蘇生に立ち会う事は合理的であると提案する （弱い推奨、エ
+ビデンスの確実性：非常に低い） 
+ 
+介入が、患者や家族のアウトカムに影響を及ぼすということを示すエ
+ビデンスは不十分である。蘇生に立ち会う事は一部の親にとってはポ
+ジティブな経験のようであるが、その一方で、医療従事者や家族の中
+には、それが蘇生のパフォーマンスに悪影響を及ぼすという懸念を持
+つ者がある 
+ 
+１． JRC の見解と解説（400-800 文字） 
+• 7 研究が採用され、アメリカ・イギリス・カナダ・スウェーデンの北米・北欧の先進国 4 か国の研究であった。 
+• 家族を観点の中心としたアウトカムのうち重要アウトカム（7 研究）： 
+総じて家族は立ち会いに対しポジティブな意見であり、立ち会いをしたくなかったとの意見は認められなかった。ただし家族の精神的負担
+をサポートするためスタッフの訓練が必要である。 
+• 医療者を観点の中心としたアウトカムのうち重要アウトカム（4 研究）： 
+明らかに有害な影響は認められなかったが、医療従事者への心的負担についての影響は懸念された。一方で家族の立ち合いが医療従事者の
+精神的負担を軽減するという報告もあった。 
+今回の推奨の根拠となった研究の多くは、家族や医療者に対する質問調査であり、わが国と文化的にやや異なる北米・北欧の研究結果に基
+づいていることから、わが国において同じような結果が得られるかは不明である。今後、日本や文化的に近い東・東南アジアにおける同様の
+検討が必要と考えられる。 
+ 
+２．わが国への適応 
+[[p3]]
+3 
+ 
+わが国において新生児の蘇生に家族が立ち会う事は合理的であると提案するか否かについては、わが国における調査と検討が必要である。 
+ 
+３．担当メンバー 
+担当作業部会員（五十音順）杉浦崇浩 諌山哲哉 
+共同座長（五十音順）荒堀仁美 平川英司 
+担当編集委員（五十音順）杉浦崇浩 諌山哲哉 
+ 

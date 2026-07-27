@@ -1,0 +1,938 @@
+
+[[p1]]
+Outcomes of surgical management of Ebstein anomaly and
+tricuspid valve dysplasia in critically ill neonates
+and infants
+V . Reed LaSala, MD,a Edward Buratto, MD, PhD, a Halil Beqaj, MD,b Isabel Aguirre,b Julian Maldonado,b
+Nimrod Goldshtrom, MD, c Andrew Goldstone, MD, PhD, a Matan Setton, MD, d
+Ganga Krishnamurthy, MD,c Emile Bacha, MD, a and David M. Kalfa, MD, PhD a
+ABSTRACT
+Objective: To describe the surgical outcomes in neonates and infants who had sur-
+gery for Ebstein anomaly (EA) and tricuspid valve dysplasia (TVD).
+Methods: Retrospective chart review for all patients who underwent surgery for EA
+or TVD during the index hospitalization after birth at our institution from January
+2005 to February 2023.
+Results: Fifteen symptomatic neonates and infants who had surgery for EA or TVD
+were included, 8 with EA and 7 with TVD. Eleven patients (73 %) and 3 patients
+(20%) required preoperative inotropes and extracorporeal membrane oxygena-
+tion, respectively. Nine patients (60 %) had a Starnes procedure and 6 patients
+(40%) had tricuspid valve repair (TVr). Mortality at last follow-up was 27 % overall
+(n ¼ 4/15), 22% after Starnes (n ¼ 2/9) and 33% after TVr (n ¼ 2/6), without a sig-
+niﬁcant difference despite a greater-risk pro ﬁle in the Starnes group. Postoperative
+day 1 lactate level was associated with mortality on Cox regression (hazard ratio,
+1.45; P ¼ .01). Three of 9 patients who had a Starnes procedure were or will be con-
+verted to a cone repair (1.5/2-ventricle repair).
+Conclusions: Mortality after surgery for EA or TVD during the index hospitalization
+after birth is still signiﬁcant in the current era and is associated with a greater lactate
+????PM?s?r???su???L
+comes despite a greater-risk pro ﬁle in the Starnes group. An initial single-ventricle
+approach does not preclude conversion to biventricular or 1.5-ventricle repair.
+(JTCVS Open 2023;16:629-38)
+0
+P = .75
+0%
+25%
+50%
+Survival probability
+75%
+100%
+Mortality by Surgical Strategy
+Stames
+TVr
+12
+Years
+345
+0
+Type of
+Surgery
+12
+Years
+345
+644443
+9
+Number at risk
+43221
+Kaplan–Meier plot of mortality by surgical strategy
+after neonatal surgery for EA and TVD.
+CENTRAL MESSAGE
+The Starnes procedure and TV
+repair had comparable out-
+comes despite a greater-risk
+proﬁle in the Starnes group.
+PERSPECTIVE
+Mortality after neonatal Starnes procedure or
+tricuspid valve repair for EA or TVD is associated
+????????PM
+An initial single-ventricle approach does not pre-
+clude conversion to biventricular repair.
+See Discussion on page 639.
+To view the AA TS Annual Meeting Webcast, see the
+URL next to the webcast thumbnail.
+Symptomatic neonatal and infant forms of Ebstein anomaly
+(EA) and tricuspid valve dysplasia (TVD) remain chal-
+lenging clinical entities with an overall high mortality.
+These diseases present with a wide spectrum of clinical
+severity, often in the context of other anatomic defects.
+The most severe forms are characterized by severe tricuspid
+regurgitation (TR) and, in EA, a large atrialized, nonfunc-
+tional right ventricle (RV) resulting in right heart failure
+often progressing to circular shunting and severe acidosis,
+necessitating early surgical intervention.
+Biventricular and univentricular surgical strategies can
+be offered to these challenging patients. Right ventricular
+From the Section of Pediatric and Congenital Cardiac Surgery, Divisions of aCardiac,
+Thoracic, and V ascular Surgery, cNeonatology, Department of Pediatrics, and
+dCardiology, Department of Pediatrics, New Y ork-Presbyterian Morgan Stanley
+Children’s Hospital, Columbia University Medical Center, New Y ork, NY; and
+bCollege of Physicians and Surgeons, Columbia University, New Y ork, NY .
+Drs LaSala and Buratto contributed equally to this article.
+Read at the 103rd Annual Meeting of The American Association for Thoracic Sur-
+gery, Los Angeles, California, May 6-9, 2023.
+Received for publication May 4, 2023; revisions received July 22, 2023; accepted for
+publication Aug 2, 2023; available ahead of print Sept 12, 2023.
+Address for reprints: David M. Kalfa, MD, PhD, Section of Pediatric and Congenital
+Cardiac Surgery, Division of Cardiac, Thoracic, and V ascular Surgery, Department
+of Surgery, New Y ork-Presbyterian Morgan Stanley Children ’s Hospital, 3959
+Broadway, Babies North, Suite 274, New Y ork, NY 10032 (E-mail: dk2757@
+cumc.columbia.edu).
+2666-2736
+Copyright /C2112023 The Author(s). Published by Elsevier Inc. on behalf of The Amer-
+ican Association for Thoracic Surgery. This is an open access article under the CC BY
+license (http://creativecommons.org/licenses/by/4.0/).
+https://doi.org/10.1016/j.xjon.2023.08.007
+JTCVS Open c Volume 16, Number C 629
+CONGENITAL: EBSTEIN’S ANOMALY
+[[p2]]
+exclusion (Starnes procedure) is advocated as a rapid and
+reproducible procedure but with the attendant drawbacks
+of single-ventricle physiology.
+1,2 V arious tricuspid valve
+repair (TVr) techniques have been described to allow initial
+biventricular repair.
+3 Most recently, the cone procedure has
+been advocated as a more durable and effective technique
+for the repair of EA, yet it is a more complex operation
+that may prove time-consuming and technically challenging
+with fragile neonatal valves.
+4
+Initial studies showed more favorable outcomes with the
+Starnes procedure, 5 but as familiarity with TVr techniques
+has increased, equivalent overall outcomes have been
+demonstrated with biventricular repair.
+6 In particular, famil-
+iarity with the cone procedure has increased and this pro-
+cedure can be successfully offered to infants. 7,8 As yet, no
+consensus has been reached for the optimal approach to
+these challenging patients. In this study, we reviewed our
+experience with symptomatic neonatal and infant congen-
+ital tricuspid valve (TV) disease to describe outcomes of
+each surgical approach and risk factors for mortality.
+METHODS
+A retrospective chart review was performed for 29 consecutive patients
+who underwent surgery for EA or TVD within the ﬁrst year of life at a single
+center between January 2005 and February 2023. Seven patients who under-
+went surgery primarily for the repair of an associated anomaly were excluded.
+Seven patients who were discharged home after the index hospitalization but
+then needed a TV surgery in the ﬁrst year of life were also excluded in order to
+appropriately compare critically ill neonates and infants with EA or TVD.
+The remaining 15 patients who underwent cardiac surgery for symptomatic
+EA or TVD during the index hospitalization after birth were included. The
+data obtained from retrospective chart review of these 15 patients were
+analyzed. Operations were performed by 7 surgeons, who were each active
+during different segments of the 18-year study period. All echocardiograms
+were reviewed by attending cardiologists and diagnoses made based on the
+standard criteria. The primary outcome was mortality. Secondary outcomes
+were postoperative degree of TR in the patients who received TVr, need
+for reintervention on the TV , and ventricular status (single-ventricle,
+1.5-ventricle, and 2-ventricle). Patients were grouped by ventricular pathway
+(2-ventricle vs single-ventricle vs 1.5-ventricle) based on the initial strategy
+(TVr/2-ventricle, Starnes/single-ventricle, Starnes with plan for future con-
+version) determined before performing the initial procedure. All patients
+who received the Starnes were and are currently being systematically
+evaluated for 1.5- or 2-ventricle conversion based on TV tissue quality, RV
+size and function, and the overall physiology and clinical status of the patient.
+Functional pulmonary atresia (FPA) was deﬁned by an anatomically
+patent right ventricular outﬂow tract without antegrade ﬂow through the
+pulmonary valve. Circular shunt was deﬁned by FPA with retrograde
+ﬂow through the pulmonary valve, right-to-left ﬂow across the atrial septal
+defect, and left-to-right ﬂow across the patent ductus arteriosus. In this
+cohort, all patients with FPA had circular shunt physiology. The degree
+of TR was stratiﬁed into mild, moderate, and severe on the initial echocar-
+diogram. A low cardiac output state/low systemic perfusion was deﬁned by
+at least moderate systolic dysfunction on echocardiogram, preoperative
+inotropic support, extracorporeal membrane oxygenation (ECMO), or the
+presence of any end-organ dysfunction. Acute kidney injury was
+deﬁned by a creatinine greater than 0.92 mg/dL for patients 0 to 14 days
+old and creatinine greater than 0.36 mg/dL for patients greater than
+14 days old.
+9 Operative mortality was deﬁned by death within 30 days of
+operation or death during the same hospitalization as the operation.
+Postoperative day 1 lactate was deﬁned as the ﬁrst lactate on the day after
+the operation.
+The Starnes procedure consists of TV exclusion using a fenestrated
+patch, atrial septectomy, patent ductus arteriosus ligation, pulmonary artery
+ligation/division or banding, and Blalock–Taussing–Thomas shunt place-
+ment.2 Several techniques for TVr have been used, including annuloplasty,
+commissuroplasty, division of restrictive chordae, and cone repair. 3,4
+Statistical analysis was performed in R (R Foundation) and RStudio
+(Posit). Categorical variables were compared using the Fisher exact test,
+whereas continuous variables were compared using the Wilcoxon rank
+sum test. Time-dependent variables (ie, mortality) were analyzed using
+the Kaplan–Meier method, with groups compared using the log-rank test.
+Cox proportional hazards modeling was used to assess predictors of mor-
+tality. Median follow-up was 1.55 years (0.35-6.21 years). There were no
+patients lost to follow-up. This study was approved by the institutional re-
+view board (protocol number AAAU3640, approved October 3, 2022), and
+the need for consent was waived.
+RESULTS
+Preoperative Characteristics Overall and Stratiﬁed
+by Diagnosis
+Fifteen patients were identiﬁed who required surgery for
+EA or TVD during their index hospitalization after birth. De-
+mographic information is summarized in Table 1.M e d i a n
+and interquartile range (IQR) for gestational age was
+RV??GRULRX?HM?l?GhpqH???
+2.55 kg (2.36-3.02 kg). Twelve patients (80 %)w e r ea p p r o -
+priate for gestational age, 3 (20%) were small for gestational
+age, and none were large for gestational age. All of the pa-
+tients had moderate-to-severe or severe TR. Eleven patients
+(73%) had a lack of antegrade pulmonary artery blood
+ﬂow, with anatomic pulmonary atresia in 8 (53%) and func-
+tional pulmonary atresia in 3 (20%). Thirteen patients (87%)
+were in a low cardiac output state preoperatively. Thirteen
+patients (87%) presented with at least mild RV dysfunction
+postnatally, among whom 11 (73 %)a n d3( 2 0 %)n e e d e d
+preoperative inotropic support and ECMO, respectively.
+Thirteen patients (87 %) were intubated preoperatively.
+Three patients (20%) had preoperative acute kidney injury.
+Of the 15 patients in this cohort, 8 (53%) were diagnosed
+with EA and 7 (47 %) were diagnosed with TVD. All of the
+patients with FPA and circular shunt physiology had EA
+Abbreviations and Acronyms
+CI ¼ conﬁdence interval
+EA ¼ Ebstein anomaly
+ECMO ¼ extracorporeal membrane oxygenation
+FPA ¼ functional pulmonary atresia
+IQR ¼ interquartile range
+RV ¼ right ventricle
+TR ¼ tricuspid regurgitation
+TV ¼ tricuspid valve
+TVD ¼ tricuspid valve dysplasia
+TVr ¼ tricuspid valve repair
+630 JTCVS Open c December 2023
+Congenital: Ebstein’s Anomaly LaSala et al
+[[p3]]
+(4 vs 0, P ¼ .08) and there was a trend toward a lower TR jet
+velocity in the patients with EA (2.6 vs 3.3 m/s, P ¼ .13).
+Patient characteristics were otherwise similar between EA
+and TVD, with no signiﬁcant difference in degree of TR,
+right or left ventricular function, or medical management.
+All patients with FPA and EA received a Starnes procedure.
+One patient with FPA was on ECMO preoperatively, and 2
+patients with FPA had elevated postoperative lactate levels,
+both of whom died.
+Preoperative, Intraoperative, and Immediate
+Postoperative Characteristics Stratiﬁed by Surgery
+Nine patients (60 %) underwent the Starnes procedure, 5
+(56%) for EA and 4 (44 %) for TVD. Six patients (40 %)
+underwent a TVr, 3 (50 %) for EA and 3 (50 %) for TVD.
+s`akd?PM?a?
+Anatomy All patients (n ¼ 15) Ebstein anomaly (n ¼ 8) Tricuspid valve dysplasia (n ¼ 7) P value
+Male 8 (53 %) 5 (62.5 %) 3 (43 %) .62
+Birth weight, kg 2.55 (2.36-3.02) 2.52 (2.38-2.92) 2.66 (2.22-3.11) .77
+f?K??RV?GRULRXH?RU?GRTLRXH?RV?GRVLRXH?MWU
+Race/ethnicity
+White 8 (53 %) 6 (75 %) 2 (29 %) .13
+Hispanic 8 (53 %) 3 (37.5 %) 5 (71 %) .31
+Associated cardiac anomalies
+ASD/PFO 15 (100 %) 8 (100 %) 7 (100 %)
+PDA 15 (100 %) 8 (100 %) 7 (100 %)
+VSD 3 (20 %) 1 (12.5 %) 2 (29 %)
+Anatomic pulmonary atresia 8 (53 %) 3 (37.5 %) 5 (71 %)
+Pulmonary stenosis 1 (7 %)0 ( 0 %) 1 (14 %)
+Extracardiac malformations 2 (13 %) 1 (12.5 %) 1 (14 %) 1.0
+Genetic syndromes .9
+Down syndrome 2 (13 %) 1 (12.5 %) 1 (14 %)
+CHARGE syndrome 1 (7 %)0 ( 0 %) 1 (14 %)
+Prenatal diagnosis 12 (80 %) 6 (75 %) 6 (86 %) 1.0
+Degree of TR
+Severe 11 (73 %) 6 (75 %) 5 (71 %) 1.0
+Moderate-severe 4 (27 %) 2 (25 %) 2 (29 %) 1.0
+TR jet velocity, m/s 2.8 (2.5-3.6) 2.6 (2.4-2.8) 3.3 (2.9-3.9) .13
+Lack of antegrade pulmonary artery ﬂow 12 (80 %) 7 (87.5 %) 5 (71 %) .57
+Anatomic pulmonary atresia 8 (53 %) 3 (37.5 %) 5 (71 %) .31
+Functional pulmonary atresia 4 (27 %) 4 (50 %)0 ( 0 %) .08
+Prostaglandin administration 13 (87 %) 6 (75 %) 7 (100 %) .47
+Inhaled nitric oxide 13 (87 %) 7 (87.5 %) 6 (86 %) 1.0
+Prenatal NSAIDs 2 (13 %) 2 (25 %)0 ( 0 %) .47
+Low cardiac output 13 (87 %) 6 (75 %) 7 (100 %) .47
+Right ventricular dysfunction 13 (87 %) 7 (87.5 %) 6 (86 %) 1.0
+Left ventricular dysfunction 11 (73 %) 5 (62.5 %) 6 (86 %) .57
+Preoperative inotrope support 11 (73 %) 5 (62.5 %) 6 (86 %) .57
+Extracorporeal membrane oxidation 3 (20 %) 1 (12.5 %) 2 (29 %) .57
+Preoperative lactate, mg/dL 2.60 (1.50-3.98) 1.64 (1.55-4.79) 2.70 (1.85-3.13) 1.0
+Preoperative creatinine, mg/dL 0.76 (0.45-0.88) 0.82 (0.66-0.90) 0.47 (0.37-0.80) .16
+Acute kidney injury 3 (20 %) 2 (25 %) 1 (14 %) 1.0
+Noninvasive positive pressure ventilation 2 (13 %) 2 (25 %)0 ( 0 %) .47
+Intubated 13 (87 %) 6 (75 %) 7 (100 %) .47
+Data are presented as number of patients (percent of total) or median (interquartile range). P values were calculated using Fisher exact test for categorical variables and the
+Wilcoxon rank sum test for continuous variables. ASD, Atrial septal defect; PFO, patent foramen ovale; PDA, patent ductus arteriosus; VSD, ventricular septal defect;
+CHARGE, coloboma, heart defects, atresia choanae, growth retardation, genital abnormalities, and ear abnormalities; NSAIDs, nonsteroidal anti-inﬂammatory drugs;
+TR, tricuspid regurgitation.
+JTCVS Open c Volume 16, Number C 631
+LaSala et al Congenital: Ebstein’s Anomaly
+[[p4]]
+TABLE 2. Preoperative, intraoperative, and postoperative characteristics stratiﬁed by type of surgery
+Type of surgery All patients (n ¼ 15) Starnes procedure (n ¼ 9) TV repair (n ¼ 6) P value
+Male 8 (53 %) 5 (56 %) 3 (50 %) 1.0
+Birth weight, kg 2.55 (2.36-3.02) 2.66 (2.40-3.03) 2.54 (2.38-2.80) .68
+f??G?H?RV?GRULRXH?RV?GRTLRXH?RU?GRULRWH?MUR
+Age at surgery, d 8 (2-21) 2 (2-10) 17 (8-47) .05
+Weight at surgery, kg 2.63 (2.21-3.05) 2.94 (2.30-3.10) 2.56 (2.21-2.76) .60
+Year of surgery
+2018-2023 9 (60 %) 7 (78 %) 2 (33 %) .14
+2005-2017 6 (40 %) 2 (22 %) 4 (67 %) .14
+Race/ethnicity
+White 8 (53 %) 5 (56 %) 3 (50 %) 1.0
+Hispanic 8 (53 %) 4 (44 %) 4 (67 %) .61
+Associated cardiac anomalies –
+ASD/PFO 15 (100 %) 9 (100 %) 6 (100 %)
+PDA 15 (100 %) 9 (100 %) 6 (100 %)
+VSD 3 (20 %) 1 (11 %) 2 (33 %)
+Anatomic pulmonary atresia 8 (53 %) 5 (56 %) 3 (50 %)
+Pulmonary stenosis 1 (7 %)0 ( 0 %) 1 (17 %)
+Extracardiac malformations 2 (13 %)0 ( 0 %) 2 (33 %) .14
+Genetic syndromes .21
+Down syndrome 2 (13 %)0 ( 0 %) 2 (33 %)
+CHARGE syndrome 1 (7 %)0 ( 0 %) 1 (17 %)
+Prenatal diagnosis 12 (80 %) 7 (78 %) 5 (83 %) 1.0
+Diagnosis
+Ebstein anomaly 8 (53 %) 5 (56 %) 3 (50 %) 1.0
+Tricuspid valve dysplasia 7 (47 %) 4 (44 %) 3 (50 %) 1.0
+Degree of tricuspid regurgitation
+Severe 11 (73 %) 8 (89 %) 3 (50 %) .24
+Moderate-severe 4 (27 %) 1 (11 %) 3 (50 %) .24
+TR jet velocity, m/s 2.8 (2.5-3.6) 2.8 (2.4-3.0) 3.9 (2.8-4.2) .11
+Lack of antegrade pulmonary artery ﬂow 12 (80 %) 9 (100 %) 3 (50 %) .04
+Anatomic pulmonary atresia 8 (53 %) 5 (56 %) 3 (50 %) 1.0
+Functional pulmonary atresia 4 (27 %) 4 (44 %)0 ( 0 %) .10
+Prostaglandin administration 13 (87 %) 8 (89 %) 5 (83 %) 1.0
+Inhaled nitric oxide 13 (87 %) 9 (100 %) 4 (67 %) .14
+Prenatal NSAIDs 2 (13 %) 2 (22 %)0 ( 0 %) .49
+Low cardiac output 13 (87 %) 9 (100 %) 4 (67 %) .14
+Right ventricular dysfunction 13 (87 %) 9 (100 %) 4 (67 %) .14
+Left ventricular dysfunction 11 (73 %) 8 (89 %) 4 (67 %) .24
+Preoperative inotrope support 11 (73 %) 8 (89 %) 3 (50 %) .24
+Extracorporeal membrane oxidation 3 (20 %) 2 (22 %) 1 (17 %) 1.0
+Preoperative lactate, mg/dL 2.60 (1.50-3.98) 3.26 (1.40-5.07) 2.10 (1.60-2.68) .41
+Preoperative creatinine, mg/dL 0.76 (0.45-0.88) 0.80 (0.61-0.88) 0.53 (0.30-0.78) .19
+Acute kidney injury 3 (20 %) 3 (33 %)0 ( 0 %) .23
+Noninvasive positive pressure ventilation 2 (13 %)0 ( 0 %) 2 (33 %) .14
+Intubated 13 (87 %) 9 (100 %) 4 (67 %) .14
+CBP time, min 127 (111-137) 127 (108-143) 129 (117-131) 1.0
+(Continued)
+632 JTCVS Open c December 2023
+Congenital: Ebstein’s Anomaly LaSala et al
+[[p5]]
+One patient who initially underwent a TVr but needed to be
+converted to a Starnes procedure during the index
+hospitalization for hemodynamic instability was discharged
+home alive and was analyzed as a survival case in the
+Starnes group. Demographic information stratiﬁed by
+surgical strategy is summarized in Table 2 . The patients
+who underwent the Starnes procedure had a younger age
+at operation (2 vs 17 days, P ¼ .05) and were more likely
+to have a lack of antegrade pulmonary blood ﬂow (100 %
+vs 50 %, P ¼ .04). The Starnes patients also tended to be
+in a low cardiac output state (100 % vs 67 %, P ¼ .14),
+intubated (100 % vs 67 %, P ¼ .14), and have a lower TR
+jet velocity (2.8 vs 3.9 m/s, P ¼ .11).
+Types of surgical procedures, intraoperative characteris-
+tics, and immediate postoperative outcomes are summarized
+in Tables 2 and 3. Crossclamp times in patients who under-
+went Starnes were shorter (38 minutes vs 71 minutes,
+P ¼ .05). Starnes surgery tended to be performed in the
+more recent era, with more Starnes procedures than TVr per-
+formed in 2018 to 2023 (7 vs 2, P ¼ .14) and more TVr than
+Starnes performed in 2005 to 2017 (4 vs 2, P ¼ .14).
+Outcomes
+Immediate outcomes and operative mortality. The most
+frequent complications were heart block (3 patients, 20 %)
+and unplanned reoperation (3 patients, 20 %). The reasons
+for reoperation were epicardial pacemaker placement, he-
+mopericardium, and revision of Blalock–Taussing–Thomas
+shunt. One patient (7 %) required ECMO postoperatively.
+Median (IQR) length of stay was 56 days (36-76 days).
+A ﬁgure showing patient surgery and outcomes is
+presented in Figure 1 . Individual patient outcomes are
+tabulated in Table 4 . Operative mortality was 20 %
+(n ¼ 3) (95 % conﬁdence interval [CI], 0 %-39%). Two
+had a TVr and one had a Starnes. Two patients died of
+refractory low cardiac output syndrome complicated with
+multiorgan failure (one Starnes for EA and one TVr for
+EA) at day 1 and 3 postoperatively, and the third patient
+died of recurrent ventricular tachycardia on postoperative
+day 40 after a TVr for TVD. None of these patients had a
+reoperation. When comparing the eras (2005-2017 vs
+2018-2023), there was no difference in mortality
+(P ¼ .81) or reintervention on the TV ( P ¼ .23).
+TABLE 2. Continued
+Type of surgery All patients (n ¼ 15) Starnes procedure (n ¼ 9) TV repair (n ¼ 6) P value
+Crossclamp time, min 54 (36-71) 38 (25-54) 71 (63-78) .05
+Postoperative ECMO 1 (7 %)0 ( 0 %) 1 (17 %). 4
+Time to extubation, d 4 (4-7) 5 (4-8) 4 (4-4) .51
+Reintubations 5 (33 %) 4 (44 %) 1 (17 %) .58
+Time to enteral feeding, d 7 (6-11) 8 (5-12) 6 (6-7) .47
+Delayed sternal closure 8 (53 %) 6 (67 %) 2 (33 %) .31
+Heart block 3 (20 %) 2 (22 %) 1 (17 %) 1.0
+Unplanned reoperation 3 (20 %) 3 (33 %)0 ( 0 %) .23
+POD 1 lactate, mg/dL 2.00 (1.50-5.16) 2.03 (1.50-6.51) 1.90 (1.58-2.14) .95
+POD 1 creatinine, mg/dL 0.54 (0.45-0.65) 0.56 (0.49-0.63) 0.47 (0.38-0.64) .32
+Data are presented as number of patients (percent of total) or median (interquartile range). P values were calculated using the Fisher exact test for categorical variables and the
+Wilcoxon rank sum test for continuous variables. TV, Tricuspid valve; ASD, atrial septal defect; PFO, patent foramen ovale; PDA, patent ductus arteriosus; VSD, ventricular septal
+defect; CHARGE, coloboma, heart defects, atresia choanae, growth retardation, genital abnormalities, and ear abnormalities; NSAIDs, nonsteroidal anti-inﬂammatory drugs;
+CBP, cardiopulmonary bypass; ECMO, extracorporeal membrane oxidation; POD, postoperative day.
+TABLE 3. Procedures performed
+Type of TV surgery
+Starnes
+(n ¼ 9)
+TVr
+(n ¼ 6)
+PDA ligation 9 (100 %) 6 (100 %)
+Reduction atrioplasty 4 (44 %) 6 (100 %)
+Blalock–Taussig–Thomas shunt or central shunt 9 (100 %) 1 (17 %)
+ASD management
+Atrial septectomy 9 (100 %)
+Partial closure 3 (50 %)
+RVOT management
+PA ligation or division 6 (67 %)0 ( 0 %)
+PV transannular patch 0 (0 %) 3 (50 %)
+RV-to-PA conduit 0 (0 %) 1 (17 %)
+PV repair 0 (0 %) 1 (17 %)
+VSD closure 0 (0 %) 1 (17 %)
+ECMO decannulation 2 (22 %)0 ( 0 %)
+TVr procedures (n ¼ 6)
+Annuloplasty alone 2 (33 %)
+Commissuroplasty alone 1 (17 %)
+Division of restrictive chordae and commissuroplasty 1 (17 %)
+Annuloplasty and Sebening stitch 1 (17 %)
+Cone repair 1 (17 %)
+Data are presented as number of patients (percent of total) or median (interquartile
+range). TV, Tricuspid valve; PDA, patent ductus arteriosus; ASD, atrial septal defect;
+RVOT, right ventricular outﬂow tract; PA pulmonary artery; PV, pulmonary valve;
+RV, right ventricle; VSD, ventricular septal defect; ECMO, extracorporeal membrane
+oxidation; TVr, tricuspid valve repair.
+JTCVS Open c Volume 16, Number C 633
+LaSala et al Congenital: Ebstein’s Anomaly
+[[p6]]
+Mortality at last follow-up. The patients were followed
+for a median of 1.55 years (0.35-6.21 years). In addition
+to the 3 patients who died during the initial hospital
+admission, 1 additional pa tient who had a Starnes for
+EA passed away at 8 months of age at home without a
+clear etiology. A total of 4 of 15 patients died during the
+study period, 3 with EA and 1 with TVD. Mortality at
+last follow-up was 27 % (95% CI, 4 %-48%) overall,
+37.5% (95% CI, 0 %-63.5%)f o rE Aa n d1 4 % (95%
+CI, 0 %-42%) for TVD. This difference was not signiﬁ-
+cant ( P ¼ .32). The mortality rate for patients who under-
+went the Starnes procedure was 22 % (95% CI, 0%-48%)
+and for patients who underwent TVr was 33 % (95% CI,
+0%-62%). This difference was also not signiﬁcant
+(P ¼ .75). Kaplan–Meier survival analyses are shown in
+Figures 2 and 3.
+6 Single
+Ventricle
+Pathway
+3 One and a
+Half Ventricle
+Pathway
+2 Expired 1 Cone
+9 Starnes
+TVr converted
+to Starnes
+6 Two
+Ventricle
+2 Expired
+2 Fontan 1 Plan for
+Cone 3 No Re-TVr
+2 Plan for
+Fontan
+1 Plan for
+Cone
+1 Cone with
+Re-TVr
+6 TVr
+15 Patients
+ehftqd?PM?e????M?s??N??P??????su??T???????
+a Starnes procedure at 33 days of age during the same hospitalization due to hemodynamic instability. TVr, Tricuspid valve repair.
+TABLE 4. Individual patient diagnoses, management, and outcomes
+Patient number Y ear of birth Diagnosis PV ﬂow status Type of surgery TV reintervention Ventricular status Mortality
+1 2006 EA Antegrade TVr No 2 No
+2 2009 EA FPA Starnes No 1 Y es
+3 2015 EA FPA Starnes No 1 No
+4 2018 EA FPA Starnes No 1 Y es
+5 2018 EA APA TVr Yes 2 No
+6 2005 EA APA TVr No 2 Y es
+7 2021 EA FPA Starnes Yes 1.5 No
+8 2023 EA APA Starnes No 1 No
+9 2022 TVD APA Starnes No 1 No
+10 2022 TVD APA Starnes No 1 No
+11 2018 TVD APA Starnes No 1 No
+12 2012 TVD Antegrade TVr No 2 No
+13 2021 TVD Antegrade TVr No 2 Y es
+14 2014 TVD APA TVr No 2 No
+15 2021 TVD APA Starnes Yes 1 No
+PV, Pulmonary valve; TV, tricuspid valve; EA, Ebstein anomaly; TVr, tricuspid valve repair; FPA, functional pulmonary atresia; APA, anatomic pulmonary atresia; TVD, tricuspid
+valve dysplasia; TVD, tricuspid valve dysplasia.
+634 JTCVS Open c December 2023
+Congenital: Ebstein’s Anomaly LaSala et al
+[[p7]]
+On univariable Cox proportional hazards analysis of risk
+factors for mortality, postoperative day 1 lactate was
+signiﬁcantly associated with a greater risk of mortality
+(hazard ratio, 1.45; P ¼ .01). The Cox analysis results are
+shown in Table 5.
+Ventricular status. Among the 9 patients who underwent
+the Starnes procedure, 6 remained on the single-ventricle
+pathway. Three patients in the Starnes group are on the 1.5-
+or 2-ventricle conversion pathway: one had a Glenn then
+was converted to a cone repair after 1 year of age; the 2 others
+are awaiting conversion to a cone repair.
+Among the patients who underwent TVr, 6 remain with a
+biventricular repair and 1 was converted to a Starnes during
+the index hospitalization. One patient underwent a cone
+procedure as a neonate and subsequently required a
+reintervention on his TV .
+Tricuspid valve regurgitation. At last follow-up, among
+survivors who did not get their TV excluded (n ¼ 4),
+1 patient (25 %) had mild TR, 2 patients (50 %) had
+moderate TR (33 %), and 1 patient (25 %) had moderate-
+to-severe TR.
+DISCUSSION
+Patients with EA and TVD requiring surgery as neonates
+and infants represent a rare and challenging cohort of pa-
+tients. As yet, the optimal approach remains unclear, with
+some groups strongly advocating primary biventricular
+repair,
+6 whereas others suggest that initial Starnes proced-
+ure is a more reproducible approach. 1 A 2018 study on sur-
+gery for neonatal and infant EA from the STS database
+demonstrated that an initial biventricular repair was attemp-
+ted in 40 % of neonates, Starnes procedure was performed
+in 9%, whereas other palliative procedures were performed
+in the remaining patients.
+10 This demonstrates considerable
+variability in practice. In that study, the overall mortality
+rate was 18.6 %;2 5 % among patients who underwent TV
+exclusion, and 28 % among patients who had a primary bi-
+ventricular repair.
+10
+0
+P = .32
+0%
+25%
+50%
+Survival probability
+75%
+100%
+Mortality by Diagnosis
+Ebstein’s Anomaly
+Tricuspid Valve
+Dysplasia
+12
+Years
+345
+0
+Diagnosis 12
+Years
+345
+744332
+8
+Number at risk
+43332
+0
+P = .75
+0%
+25%
+50%
+Survival probability
+75%
+100%
+Mortality by Surgical Strategy
+Stames
+TVr
+12
+Years
+345
+0
+Type of
+Surgery
+12
+Years
+345
+644443
+9
+Number at risk
+43221
+0
+P = .031
+0%
+25%
+50%
+Survival probability
+75%
+100%
+Mortality by POD 1 Lactate Level
+< 3 mg/dl
+> 3 mg/dl
+12
+Years
+34
+0
+POD 1 
+Lactate
+12
+Years
+34
+51111
+10
+Number at risk
+7655
+FIGURE 2. Kaplan–Meier plots of mortality stratiﬁed by diagnosis, type of surgery performed, and POD 1 lactate level. Log rank test used to calculate P
+values. TVr, Tricuspid valve repair; POD, postoperative day.
+JTCVS Open c Volume 16, Number C 635
+LaSala et al Congenital: Ebstein’s Anomaly
+[[p8]]
+In the present study, we analyzed the outcomes of
+critically ill neonates and infants who underwent surgery
+for EA and TVD at a single center from 2005 to 2023
+during their index hospitalization after birth. The
+overall mortality rate in this cohort was 27 %,w h i c hi s
+similar to the published mortality rate for neonates and in-
+fants with EA and TVD despite excluding the noncritically
+ill patients who were discharged home before surgery. The
+published mortality rate of neonates and infants who undergo
+surgery for EA or TVD ranges from 18.6 % to 53%.
+10-13
+In our cohort, the majority of the deaths (3 of 4) were in
+patients with EA, whereas only 1 patient with TVD died.
+Interestingly, all of the patients who had FPA with circular
+shunt physiology had EA. In addition, patients with EA
+had a trend toward a lower TR jet velocity compared with
+patients who underwent TVr, which is a known risk factor
+for adverse outcomes.
+11 These 2 factors, in addition to the
+known RV myocardial abnormality in patients with EA,
+may explain this greater number of deaths in the EA group
+compared with the TVD group.
+On Cox regression modeling, postoperative day 1 lactate
+was associated with mortality. This ﬁnding may reﬂect the
+poor hemodynamic status of these patients perioperatively.
+Factors previously identiﬁed in the literature as being
+associated with mortality include a lack of antegrade
+pulmonary blood ﬂow and TR jet velocity <2.5 m/s
+11;h o w -
+ever, they were not correlated with mortality in this cohort.
+The most common complication identiﬁed in this cohort
+was complete heart block in 3 of 15 patients (20 %). The
+risk to the conduction system in TV procedures is well
+recognized, but the incidence of this complication is high
+even despite the known risk. The patients who had this
+complication underwent a Starnes procedure and/or an an-
+nuloplasty. In order to reduce the risk of complete heart
+block in the future, we have adopted a strategy of placing
+sutures at the junction between the valve tissue and the
+annulus rather than the annulus itself with shallow bites
+with 6-0 or 7-0 PROLENE sutures.
+The patients who underwent the Starnes procedure had a
+worse preoperative risk proﬁle, including a younger age at
+operation, greater incidence of lack of antegrade pulmonary
+blood ﬂow, and a trend toward intubation, being in a low
+cardiac output state, and lower TR jet velocity. A greater
+mortality would be expected in these patients who
+0
+15 neonates and
+infants
+undergoing surgery
+for EA or
+TVD in 2005-2023
+during the
+index hospitalization
+after birth
+Mortality is still
+significant in the
+current era and is
+associated with
+higher lactate level
+on post-operative
+day 1
+Starnes procedure
+and TV repair had
+comparable
+outcomes despite
+a higher
+risk profile in the
+Starnes group
+Initial single
+ventricle approach
+does not preclude
+conversion to
+biventricular
+or 1.5 ventricle
+repair
+P = .32
+0%
+25%
+50%
+Survival probability
+75%
+100%
+Mortality by Diagnosis
+Outcomes of surgical management of Ebstein’s anomaly and tricuspid valve dysplasia in critically ill neonates and infants
+Ebstein’s Anomaly
+Tricuspid Valve
+Dysplasia
+12
+Years
+345
+0
+Diagnosis 12
+Years
+345
+744332
+8
+Number at risk
+43332
+0
+P = .75
+0%
+25%
+50%
+Survival probability
+75%
+100%
+Mortality by Surgical Strategy
+Stames
+TVr
+12
+Years
+345
+0
+Type of
+Surgery
+12
+Years
+345
+644443
+9
+Number at risk
+43221
+0
+P = .0310%
+25%
+50%
+Survival probability
+75%
+100%
+Mortality by POD 1 Lactate Level
+< 3 mg/dl
+> 3 mg/dl
+12
+Years
+34
+0
+POD 1 
+Lactate
+12
+Years
+34
+51111
+10
+Number at risk
+7655
+FIGURE 3. Graphical abstract illustrating the main implications of the study. EA, Ebstein anomaly; TVD, tricuspid valve dysplasia; TVr, tricuspid valve
+repair; POD, postoperative day; TV, tricuspid valve.
+636 JTCVS Open c December 2023
+Congenital: Ebstein’s Anomaly LaSala et al
+[[p9]]
+underwent Starnes, and the lack of this ﬁnding would seem
+to indicate that the Starnes procedure had a protective effect
+when offered to those patients at greater risk proﬁle.
+1 In
+these patients, the shorter crossclamp time and greater
+reproducibility of the Starnes procedure may be beneﬁcial.
+Indeed, it does not rely on a technically challenging repair
+of the tricuspid valve or on the function of an overloaded
+and often dysfunctional right ventricle. Interestingly, there
+was a trend toward more Starnes procedures performed af-
+ter 2017, which may reﬂect a shift in our surgical practice
+toward preferring the Starnes procedure for critically ill ne-
+onates who require surgery before discharge from the
+neonatal intensive care unit.
+The mortality rate in neonates and infants who underwent
+TVr in our cohort was similar to the patients who underwent
+Starnes despite having a more favorable risk proﬁle. Multi-
+ple approaches to TVr in this population are in use,
+including a monocuspid repair as described by Knott-
+Craig and Boston,
+13 a cone repair, 4 and other techniques
+including annuloplasty and commissuroplasty that were
+employed for many of the patients in this cohort. There
+are very few studies of neonates and infants undergoing
+the cone repair.
+7,8 In our cohort, one neonate underwent a
+cone repair at 9 days of age and survived.
+One patient was converted from a Starnes to a cone repair
+after having a Glenn, thus transitioning from a 1-ventricle
+pathway toward a 1.5-ventricle repair. Two other patients
+who underwent Starnes are awaiting a Starnes take-down
+and a conversion to a 1.5- or 2-ventricle repair. These
+patients add to the growing body of literature
+14,15 reporting
+that the Starnes procedure can be a ﬁrst step in the neonatal
+period before conversion to a tricuspid valve repair and a 2-
+or 1.5-ventricle physiology at a more favorable time. This
+staged strategy (Starnes followed by 1.5-ventricle
+conversion) may bring a survival advantage in the neonatal
+period without the commitment to lifelong single-ventricle
+physiology. In light of this evolving surgical strategy,
+we have altered our operative technique to use
+polytetraﬂuoroethylene rather than autologous pericardium
+as the patch material for RV exclusion in the Starnes
+procedure to limit scar tissue formation and facilitate taking
+down the patch.
+Based on these results, we can suggest a strategy to
+approach surgical management for EA and TVD in the
+neonate and infant. For the youngest and sickest patients
+as well as those with unfavorable tricuspid anatomy, a
+Starnes procedure seems to provide the safest and most
+reproducible option. The Starnes procedure may allow for
+the most reliable outcomes in the neonatal/infant period,
+with increasing evidence that this does not preclude later bi-
+ventricular or 1.5-ventricle repair. Indeed, once beyond the
+neonatal phase, conversion to biventricular repair should be
+considered before proceeding further down the single
+ventricle pathway. Conversely, in more stable patients
+with favorable anatomy, proceeding directly to a biventric-
+ular repair, with consideration for a TV repair (cone repair
+or monocuspid-based repair for EA, or the croissant repair
+for TVD
+16), appears reasonable. Such a strategy may allow
+TABLE 5. Cox proportional hazards analysis of factors associated with mortality
+Risk factor Hazard ratio 95 % conﬁdence interval P value
+POD 1 lactate 1.45 1.08-1.95 .01
+Reintubation 2.70 0.35-20.86 .34
+Lack of antegrade pulmonary artery ﬂow 0.85 0.09-8.23 .89
+Anatomic pulmonary atresia 0.31 0.03-3.05 .32
+Functional pulmonary atresia (with circular shunt) 2.79 0.39-20.04 .31
+Preoperative creatinine 2.14 0.06-77.31 .68
+Preoperative lactate 1.18 0.83-1.68 .36
+Preterm birth 3.47 0.36-33.68 .28
+Severe TR 1.09 0.11- 10.57 .94
+TR jet velocity 0.75 0.21-2.72 .66
+Age at operation 1.01 0.97-1.06 .59
+Postoperative heart block 1.49 0.15-14.48 .73
+Ebstein anomaly 3.02 0.31-29.32 .34
+Tricuspid valve dysplasia 0.33 0.03-3.22 .34
+Starnes procedure 0.73 0.10-5.20 .75
+Tricuspid valve repair 1.37 0.19-9.72 .75
+For continuous variables, hazard ratio refers to the change in proportional hazard with each standard deviation. For categorical variables, hazard ratio refers to the change in
+proportional hazard when the factor is present. POD, Postoperative day; TR, tricuspid regurgitation.
+JTCVS Open c Volume 16, Number C 637
+LaSala et al Congenital: Ebstein’s Anomaly
+[[p10]]
+for the greatest number of patients to achieve biventricular
+repair while avoiding excess mortality in the neonatal
+period and infancy.
+Limitations
+This study is limited by its small sample size and
+retrospective nature. In particular, the analysis of factors
+associated with mortality and survival analysis in general
+were limited by the small number of events. In addition,
+the time period of the study reﬂects a changing surgical
+strategy. In particular, the Starnes procedure became more
+prevalent towards the end of the study period. The approach
+of the individual surgeons was also not standardized and
+inﬂuenced the surgical strategy applied for each patient.
+CONCLUSIONS
+Surgery for neonatal and infant EA and TVD is still asso-
+ciated with signiﬁcant mortality in the current era. The risk
+of mortality seems to be associated with a greater lactate
+????PM?s?r??
+neonatal TVr seem to have comparable outcomes despite
+a greater-risk proﬁle in the Starnes group. An initial
+single-ventricle approach does not preclude conversion to
+biventricular repair.
+Webcast
+Y ou can watch a Webcast of this AA TS meeting presenta-
+tion by going to: https://www.aats.org/resources/
+outcomes-of-surgical-management-of-ebstein-anomaly-in-
+neonates-and-infants.
+Conﬂict of Interest Statement
+The authors reported no conﬂicts of interest.
+The Journal policy requires editors and reviewers to
+disclose conﬂicts of interest and to decline handling or re-
+viewing manuscripts for which they may have a conﬂict
+of interest. The editors and reviewers of this article have
+no conﬂicts of interest.
+References
+PM?b?icK?r?u?`M?rK?K???Y?
+argument for single-ventricle repair in critically ill neonates with Ebstein anom-
+aly. J Thorac Cardiovasc Surg Tech . 2021;10:428-32.
+2. Starnes V A, Pitlick PT, Bernstein D, Grifﬁn ML, Choy M, Shumway NE. Eb-
+stein’s anomaly appearing in the neonate. A new surgical approach. J Thorac
+Cardiovasc Surg. 1991;101:1082-7.
+3. Cleuziou J, Pringsheim M, Stroh A, Burri M, Lange R, H €orer J. Surgical treat-
+ment of tricuspid valve dysplasia in children. Eur J Cardiothorac Surg . 2022;
+62:ezac212.
+4. da Silva JP , da Silva Lda F. Ebstein ’s anomaly of the tricuspid valve: the
+cone repair. Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu . 2012;15:
+38-45.
+5. Shinkawa T, Polimenakos AC, Gomez-Fifer CA, Charpie JR, Hirsch JC,
+Devaney EJ, et al. Management and long-term outcome of neonatal Ebstein
+anomaly. J Thorac Cardiovasc Surg . 2010;139:354-8.
+6. Kumar TKS, Boston US, Knott-Craig CJ. Neonatal Ebstein anomaly. Semin
+Thorac Cardiovasc Surg . 2017;29:331-7.
+7. Mizuno M, Hoashi T, Sakaguchi H, Kagisaki K, Kitano M, Kurosaki K, et al.
+Application of cone reconstruction for neonatal Ebstein anomaly or tricuspid
+valve dysplasia. Ann Thorac Surg . 2016;101:1811-7.
+8. Bautista-Rodriguez C, Fraisse A, Burmester M, Ghez O. Cone reconstruction is
+feasible in babies under 2 kg of weight. Interact Cardiovasc Thorac Surg. 2019;
+29:652-3.
+9. Colantonio DA, Kyriakopoulou L, Chan MK, Daly CH, Brinc D, V enner AA,
+et al. Closing the gaps in pediatric laboratory reference intervals: a CALIPER
+database of 40 biochemical markers in a healthy and multiethnic population of
+children. Clin Chem. 2012;58:854-68.
+10. Holst KA, Dearani JA, Said SM, Davies RR, Pizarro C, Knott-Craig C, et al. Sur-
+gical management and outcomes of Ebstein anomaly in neonates and infants: a
+society of thoracic surgeons congenital heart surgery database analysis. Ann
+Thorac Surg. 2018;106:785-91.
+11. Freud LR, McElhinney DB, Kalish BT, Escobar-Diaz MC, Komarlu R,
+Puchalski MD, et al. Risk factors for mortality and circulatory outcome among
+neonates prenatally diagnosed with Ebstein anomaly or tricuspid valve dysplasia:
+a multicenter study. J Am Heart Assoc . 2020;9:e016684.
+12. Goldberg SP , Jones RC, Boston US, Haddad LM, Wetzel GT, Chin TK, et al. Cur-
+rent trends in the management of neonates with Ebstein ’s anomaly. World J Pe-
+diatr Congenit Heart Surg . 2011;2:554-7.
+13. Knott-Craig CJ, Boston US. Current surgical techniques in the management of
+the symptomatic neonate with severe Ebstein anomaly: too much, too little, or
+just enough? J Thorac Cardiovasc Surg Tech . 2021;9:128-34.
+14. Da Silva JP , Viegas M, Castro-Medina M, Da Fonseca Da Silva L. The Da Silva
+cone operation after the Starnes procedure for Ebstein ’s anomaly: new
+surgical strategy and initial results. J Thorac Cardiovasc Surg Tech
+. 2020;3:
+281-3.
+15. Lopes LM, Bezerra RF, da Silva JP , da Fonseca da Silva L. Critical Ebstein ’s
+anomaly with circular shunt: from successful fetal therapy with non-steroidal
+anti-inﬂammatory drugs to biventricular repair using Da Silva cone technique.
+Cardiol Young. 2021;31:1039-42.
+16. LaSala VR, Ngyuen SN, Bouhout IA, Shah A, Kalfa DM. Repair of congenital
+tricuspid valve dysplasia: the croissant technique. J Thorac Cardiovasc Surg
+Tech. 2023;20:146-9.
+Key Words: congenital heart disease, Ebstein anomaly,
+tricuspid valve dysplasia, tricuspid valve, single ventricle,
+Starnes, cone
+638 JTCVS Open
+c December 2023
+Congenital: Ebstein’s Anomaly LaSala et al

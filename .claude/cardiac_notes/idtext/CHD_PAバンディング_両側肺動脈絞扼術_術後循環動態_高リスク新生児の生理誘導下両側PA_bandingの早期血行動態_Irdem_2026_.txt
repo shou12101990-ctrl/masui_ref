@@ -1,0 +1,1378 @@
+
+[[p1]]
+EDITED BY  
+Ornella Milanesi,  
+University of Padua, Italy
+REVIEWED BY  
+Zakhia Saliba,  
+Hôtel-Dieu de France, Lebanon  
+Shannen Kizilski,  
+Boston Children’s Hospital and Harvard 
+Medical School, United States
+*CORRESPONDENCE  
+Ahmet Kuddusi İrdem  
+drirdem@gmail.com
+RECEIVED 03 February 2026 
+REVISED 01 April 2026 
+ACCEPTED 02 April 2026 
+PUBLISHED 04 May 2026
+CITATION 
+İ rdem AK, Balık H, Kılıç Y and Dinç PS 
+(2026) Physiology-guided bilateral 
+pulmonary artery banding in high-risk 
+neonates: early hemodynamic and 
+perfusion outcomes.  
+Front. Cardiovasc. Med. 13:1803385. 
+doi: 
+10.3389/fcvm.2026.1803385
+COPYRIGHT 
+© 2026 İrdem, Balık, Kılıç and Dinç. This 
+is an open-access article distributed 
+under the terms of the 
+Creative 
+Commons Attribution License (CC BY). 
+The use, distribution or reproduction in 
+other forums is permitted, provided the 
+original author(s) and the copyright 
+owner(s) are credited and that the 
+original publication in this journal is 
+cited, in accordance with accepted 
+academic practice. No use, distribution 
+or reproduction is permitted which does 
+not comply with these terms.
+Physiology-guided bilateral 
+pulmonary artery banding in 
+high-risk neonates: early 
+hemodynamic and perfusion 
+outcomes
+Ahmet Kuddusi İ rdem
+1*, Hasan Balık
+2
+, Yiğ it Kılıç
+3 
+and  
+Peren Sarız Dinç
+4
+1Department of Pediatric Cardiovascular Surgery, Ankara Bilkent City Hospital, Ankara, Türkiye, 
+2Department of Pediatric Cardiology, Diyarbakir SBU Gazi Yasargil Training and Research Hospital, 
+Diyarbakir, Türkiye, 3Department of Pediatric Cardiovascular Surgery, Diyarbakir SBU Gazi Yasargil 
+Training and Research Hospital, Diyarbakir, Türkiye, 4 Department of Pediatrics, Ankara Bilkent City 
+Hospital, Ankara, Türkiye
+Background: Balancing pulmonary and systemic blood ﬂow remains one of the 
+most critical challenges in the management of high-risk neonates with ductal- 
+dependent circulation, particularly in the presence of low birth weight, sepsis, 
+shock, restrictive interatrial communication, or complex congenital cardiac 
+anatomy. Bilateral pulmonary artery banding (biPAB) is frequently employed as 
+an initial stabilizing strategy to control pulmonary overcirculation; however, 
+optimal band tightness remains largely experience-based, and uniform band 
+sizing may be associated with variable physiological responses. This study 
+evaluated whether a physiology-guided, individualized approach to biPAB is 
+associated with more favorable early hemodynamic and perfusion proﬁles 
+compared with a conventional uniform banding strategy.
+Methods: This retrospective, two-center cohort study included critically ill 
+neonates undergoing emergency bilateral pulmonary artery banding for 
+ductal-dependent systemic and/or coronary circulation. Patients were 
+managed using either a conventional uniform banding technique or a 
+physiology-guided strategy based on body weight–adjusted branch 
+pulmonary artery z-scores targeting an approximate −2 z-score diameter. 
+Early postoperative assessment included serial measurements of systemic 
+arterial pressure, arterial oxygen saturation, end-tidal carbon dioxide (etCO₂), 
+Doppler-derived pulmonary artery ﬂow velocities, and regional cerebral and 
+somatic oxygenation assessed by near-infrared spectroscopy.
+Results:A total of 44 high-risk neonates underwent bilateral pulmonary artery 
+banding (conventional banding, n = 20; physiology-guided banding, n = 24). 
+Both strategies were associated with increases in systemic arterial pressure. 
+Compared with the conventional group, the physiology-guided group 
+demonstrated greater and more consistent reductions in etCO₂, together with 
+higher Doppler-derived pulmonary artery ﬂow velocities. Postoperative arterial 
+oxygen saturation was lower in the physiology-guided group, while 
+differences between arterial oxygen saturation and regional cerebral and 
+somatic oxygenation were smaller. Absolute regional oxygenation values 
+remained stable in both groups. Early postoperative and interstage mortality 
+did not differ between strategies.
+TYPE Original Research 
+PUBLISHED 04 May 2026 
+DOI 10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+Conclusions: In high-risk neonates with ductal-dependent circulation, a 
+physiology-guided bilateral pulmonary artery banding strategy based on 
+weight-adjusted pulmonary artery z-scores was associated with more 
+predictable modulation of pulmonary blood ﬂow and more consistent early 
+hemodynamic and perfusion proﬁles, without an observed increase in early or 
+interstage mortality. These ﬁndings support the feasibility of integrating 
+individualized, physiology-driven principles and multimodal physiological 
+monitoring into neonatal pulmonary artery banding strategies.
+KEYWORDS
+bilateral pulmonary artery banding, ductal-dependent circulation, end-tidal carbon 
+dioxide, high-risk neonates, near-infrared spectroscopy, physiology-guided pulmonary 
+artery banding, pulmonary blood ﬂow
+Introduction
+The management of high-risk neonates with ductal-dependent 
+systemic and/or coronary circulation represents one of the most 
+complex challenges in contemporary congenital cardiac surgery 
+(1, 2). In these patients, survival depends on achieving a delicate 
+balance between pulmonary and systemic blood /f_low during a 
+period of profound vulnerability. Even minor perturbations in 
+vascular resistance, ventricular loading conditions, or oxygen 
+delivery may result in rapid clinical deterioration, particularly in 
+neonates with low birth weight, sepsis, shock, restrictive interatrial 
+communication, or complex congenital cardiac anatomy (3–6 ).
+Pulmonary overcirculation is a common and potentially 
+devastating problem in ductal-dependent neonates. Excessive 
+pulmonary blood /f_low may lead to systemic hypoperfusion, 
+metabolic acidosis, renal dysfunction, and impaired cerebral 
+oxygen delivery, while also increasing the risk of pulmonary edema 
+and respiratory failure (7–10). Conversely, excessive restriction of 
+pulmonary blood /f_low can result in severe hypoxemia and 
+hemodynamic instability. Achieving an optimal balance is therefore 
+critical but inherently difﬁcult, especially during the early neonatal 
+period when pulmonary vascular resistance is rapidly evolving. 
+These challenges highlight the need for strategies that integrate 
+anatomical planning with real-time physiological feedback rather 
+than relying solely on ﬁxed anatomical targets.
+Bilateral pulmonary artery banding (biPAB) has emerged as an 
+important initial stabilizing strategy in critically ill neonates who 
+are poor candidates for immediate deﬁnitive surgical repair 
+(
+7–10). By restricting pulmonary blood /f_low at the branch 
+pulmonary artery level, biPAB aims to reduce pulmonary 
+overcirculation, improve systemic perfusion pressure, and allow 
+time for physiological recovery, growth, and reassessment of 
+surgical options. This strategy is commonly employed in 
+neonates with hypoplastic left heart syndrome, severe aortic arch 
+hypoplasia, borderline ventricular morphology, and other forms 
+of ductal-dependent physiology (
+11–15).
+Despite its widespread use, biPAB remains a physiologically 
+demanding intervention with a narrow therapeutic window. 
+Optimal band tightness is crucial, yet remains poorly 
+standardized. In many centers, uniform band sizing based on 
+ﬁxed circumferential measurements is applied across a broad 
+spectrum of patient sizes and pulmonary artery dimensions (
+16, 
+17). In small neonates, however, millimeter-level differences in 
+band circumference may translate into disproportionately large 
+changes in pulmonary blood /f_low, resulting in either inadequate 
+restriction or excessive obstruction, as predicted by fundamental 
+/f_low–radius relationships (
+18).
+The limitations of uniform banding strategies have prompted 
+growing interest in more individualized approaches to pulmonary 
+artery banding. Weight-adjusted pulmonary artery z-scores 
+provide a normalized framework for estimating target vessel 
+dimensions based on patient size, potentially allowing for more 
+reproducible anatomical and hemodynamic effects (
+19–21). 
+However, anatomical calibration alone may be insufﬁcient, as 
+the physiological consequences of pulmonary blood /f_low 
+restriction are in/f_luenced by dynamic factors including 
+pulmonary vascular resistance, ventricular function, ductal /f_low 
+patterns, and systemic vascular tone (
+16, 17).
+Recent advances in perioperative physiological monitoring have 
+expanded the clinician’s ability to assess pulmonary blood /f_low and 
+end-organ perfusion in real time. End-tidal carbon dioxide (etCO₂) 
+has been increasingly recognized as a surrogate marker of 
+pulmonary blood /f_low in the absence of signiﬁcant ventilation– 
+perfusion mismatch (22–24), while near-infrared spectroscopy 
+(NIRS) provides continuous, noninvasive assessment of regional 
+cerebral and somatic oxygenation (20, 25). Together, these 
+modalities offer complementary insights into the balance between 
+pulmonary and systemic circulation that are not captured by 
+arterial oxygen saturation or blood pressure alone.
+Integrating anatomical planning with physiological feedback 
+may therefore offer a more robust framework for optimizing 
+pulmonary artery banding. A physiology-guided approach that 
+incorporates patient-speciﬁc pulmonary artery dimensions 
+alongside real-time hemodynamic and perfusion monitoring has 
+the potential to reduce interpatient variability, improve 
+reproducibility, and enhance early postoperative stability (
+16, 19).
+Accordingly, the present study evaluated early hemodynamic 
+and perfusion-related outcomes following bilateral pulmonary 
+artery banding in a cohort of critically ill, high-risk neonates. 
+We compared outcomes following a conventional uniform 
+banding strategy with those of a physiology-guided approach 
+based on body weight–adjusted pulmonary artery z-scores and 
+multimodal physiological monitoring. Speciﬁcally, we explored 
+whether an individualized, physiology-guided banding strategy 
+was associated with more predictable modulation of pulmonary 
+blood /f_low and more consistent early hemodynamic and 
+perfusion proﬁles, without an apparent compromise in early 
+clinical outcomes.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+Patients and methods
+Study design and ethical approval
+This retrospective, two-center cohort study was conducted in 
+accordance with the principles of the Declaration of Helsinki. 
+Approval was obtained from the institutional review boards of 
+both participating centers prior to data collection. Written 
+informed consent for surgical intervention and for the use of 
+anonymized clinical data for research purposes was obtained 
+from the parents or legal guardians of all patients.
+Clinical, operative, and postoperative data were retrospectively 
+extracted from institutional electronic medical records, anesthesia 
+charts, echocardiography reports, and intensive care unit 
+databases. Data collection focused on perioperative physiological 
+parameters, hemodynamic measurements, and early clinical 
+outcomes following bilateral pulmonary artery banding (biPAB).
+Patient population and inclusion criteria
+Critically ill neonates with ductal-dependent systemic and/or 
+coronary circulation who underwent emergency bilateral 
+pulmonary artery banding between January 2018 and January 
+2026 were eligible for inclusion. Ductal dependency was deﬁned 
+as reliance on patent ductus arteriosus /f_low to maintain 
+adequate systemic or coronary perfusion.
+Patients were considered high risk if one or more of the following 
+criteria were present: low birth weight (≤2,500 g), preoperative shock 
+requiring vasoactive support, documented sepsis, evidence of end- 
+organ dysfunction (including renal or hepatic impairment), 
+restrictive or intact interatrial communication, or complex 
+congenital cardiac anatomy such as hypoplastic left heart syndrome, 
+critical aortic arch hypoplasia, or borderline ventricular morphology.
+Patients requiring extracorporeal membrane oxygenation support 
+or peritoneal dialysis either before or after biPAB were excluded from 
+comparative analysis. This exclusion was intended to reduce 
+confounding from extreme physiological instability and to allow a 
+more homogeneous evaluation of early physiological responses to 
+pulmonary blood /f_low modulation; however, it may lim it 
+generalizability to the most critically unstable neonatal population.
+Study groups and banding strategy
+Patients were stratiﬁed into two groups according to the 
+pulmonary artery banding strategy employed during the study period.
+In the conventional banding group, band sizing was determined 
+according to standardized institutional practice using ﬁxed PTFE 
+band diameters. Speciﬁcally, a 3.0-mm band was used for 
+neonates weighing ≤3 kg, while a 3.5-mm band was used for 
+those weighing >3 kg, without systematic adjustment based on 
+pulmonary artery dimensions, z-scores, or physiolog ical 
+parameters beyond general intraoperative clinical judgment.
+The physiology-guided group underwent individualized banding 
+using branch pulmonary artery z-score targets, with body weight 
+serving as a practical clinical reference during operative planning.
+Pulmonary artery z-score estimation was performed using a body 
+surface area (BSA)-based reference system, with BSA calculated 
+according to the Haycock formula. Target branch pulmonary artery 
+diameters corresponding to approximately a −2 z-score were used 
+as an initial anatomical reference. Representative target pulmonary 
+artery diameters and corresponding band circumferences based on 
+L?L?????s?PM?s?
+target diameters were subsequently translated into estimated band 
+circumferences using the formula C = 2πr.
+Importantly, this anatomical target was not considered 
+absolute. Final band tightening was reﬁned intraoperatively 
+according to physiological responses. End-tidal CO₂ was used as 
+the primary surrogate marker of pulmonary blood /f_low and 
+served as the principal driver of intraoperative band adjustment, 
+interpreted in conjunction with systemic arterial pressure, near- 
+infrared spectroscopy (NIRS), and Doppler-derived /f_low 
+characteristics (
+26, 27). In selected cases, physiological 
+optimization required modest additional tightening beyond the 
+initial −2 z-score target, typically corresponding to approximate 
+z-score values in the range of −2.3 to −2.4.
+Actual achieved band diameters or circumferences were not 
+systematically recorded in a standardized manner, and therefore 
+direct quantitative comparison of ﬁnal band tightness between 
+groups was not possible. Therefore, comparisons between strategies 
+are based on intended anatomical targets and observed physiological 
+responses rather than direct measurements of ﬁnal band dimensions.
+The decision-making algorithm for physiology-guided band 
+????e?PM
+The physiology-guided strategy was introduced during the 
+study period by a single surgeon and was progressively adopted 
+as experience with the technique increased. Although the number 
+of physiology-guided cases was initially smaller, both banding 
+strategies were applied during overlapping time intervals rather 
+than representing two distinct eras of practice. The increasing use 
+of the physiology-guided approach therefore re/f_lects a gradual 
+institutional adoption of the technique together with greater 
+integration of multimodal physiological monitoring into 
+intraoperative decision-making. The temporal distribution and 
+progressive adoption of conventional and physiology-guided 
+banding strategies across the study period are illustrated in Figure 2
+Surgical technique
+All procedures were performed via median sternotomy under 
+general anesthesia. Following systemic heparinization, bilateral 
+pulmonary artery banding was performed without 
+cardiopulmonary bypass (
+28). Banding was initiated on the right 
+pulmonary artery followed by the left pulmonary artery to allow 
+sequential assessment of hemodynamic and physiological responses.
+PTFE material was used for all bands. In the physiology- 
+guided group, band tightening was performed incrementally 
+with continuous assessment of physiological parameters to 
+achieve target hemodynamic goals while avoiding excessive 
+restriction. Band position and adequacy were conﬁrmed visually 
+and by intraoperative assessment (
+27).
+Physiological monitoring and rationale
+Continuous invasive arterial blood pressure monitoring was 
+employed in all patients. End-tidal carbon dioxide (etCO₂) 
+monitoring was used as a surrogate marker of pulmonary blood 
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+/f_low, based on the principle that, in the absence of signiﬁcant 
+ventilation–perfusion mismatch, etCO₂ primarily re/f_lects 
+pulmonary perfusion and cardiac output.
+Near-infrared spectroscopy (NIRS) was used to continuously 
+monitor regional cerebral and somatic oxygen saturation 
+throughout the perioperative period. Sensors were positioned 
+according to manufacturer recommendations, and values were 
+recorded continuously. Predeﬁned perioperative time points 
+were selected for analysis to ensure consistency across patients.
+Interpretation of NIRS data focused on the relationship 
+between arterial oxygen saturation (SaO₂) and regional tissue 
+oxygenation (rSO₂), rather than on absolute rSO₂ values alone. 
+Differences between SaO₂ and rSO₂ were used as a relative 
+indicator of the balance between systemic oxygen delivery and 
+tissue-level oxygen utilization.
+Physiological rationale for the guided 
+strategy
+Pulmonary blood /f_low regulation in ductal-dependent 
+neonates is governed by highly nonlinear physiological 
+relationships. Rapid postnatal changes in pulmonary vascular 
+resistance, combined with immature ventricular compliance and 
+variable ductal /f_low patterns, render ﬁxed anatomical strategies 
+particularly vulnerable to over- or under-correction.
+Weight-adjusted pulmonary artery z-scores were selected as 
+the anatomical framework for individualized band sizing in 
+order to normalize target vessel dimensions across a 
+heterogeneous population. A target of approximately −2 z-score 
+diameter was chosen as a standardized starting point to reduce 
+pulmonary overcirculation while avoiding critical obstruction.
+End-tidal carbon dioxide trends were interpreted as dynamic 
+indicators of pulmonary blood /f_low and assessed in conjunction 
+with systemic arterial pressure and echocardiographic ﬁndings 
+to minimize misinterpretation due to transient ventilatory or 
+cardiac output changes. Near-infrared spectroscopy provided 
+complementary information regarding systemic and regional 
+perfusion. A widening SaO₂–rSO₂ gradient was interpreted as a 
+marker of impaired oxygen delivery relative to tissue demand, 
+whereas a narrowing gradient suggested improved coupling 
+between systemic perfusion and end-organ oxygen utilization.
+The integration of anatomical planning with multimodal 
+physiological monitoring allowed band adjustments to be guided by 
+both structural targets and functional responses. The conceptual 
+impact of small differences in band circumference on pulmonary 
+blood /f_low, as illustrated using Poiseuille’s law, is presented as a 
+conceptual framework rather than as a predictive physiological model.
+Postoperative management and 
+assessment
+Postoperative management was standardized across centers 
+and included mechanical ventilation, vasoactive support as 
+required, and continuous physiological monitoring. Serial 
+measurements of systemic arterial pressure, arterial oxygen 
+saturation, etCO₂, and NIRS-derived cerebral and somatic 
+oxygenation were obtained during the early postoperative period.
+Echocardiographic assessment was performed to evaluate 
+pulmonary artery band adequacy, with Doppler-derived /f_low 
+velocities measured across both pulmonary artery bands. Renal 
+function was assessed using serial serum creatinine measurements, 
+particularly in patients with preoperative renal dysfunction.
+Outcome measures
+Primary outcomes included early hemodynamic and 
+perfusion-related parameters following biPAB, including changes 
+in systemic arterial pressure, etCO₂, pulmonary artery /f_low 
+velocities, and regional tissue oxygenation. Secondary outcomes 
+included early postoperative mortality, interstage mortality, and 
+progression to subsequent staged palliation or deﬁnitive repair.
+Statistical analysis
+Statistical analyses were performed using IBM SPSS Statistics 
+(IBM Corp., Armonk, NY, USA). Continuous variables were 
+expressed as mean ± standard deviation or median with 
+interquartile range, depending on data distribution. Categorical 
+variables were presented as counts and percentages.
+Group comparisons were performed using the independent- 
+samples t-test or Mann–Whitney U -test for continuous variables 
+and the chi-square test or Fisher’s exact test for categorical 
+variables, as appropriate. Given the retrospective and exploratory 
+nature of the study, analyses were intended to support 
+descriptive interpretation rather than formal hypothesis testing. 
+No adjustment for multiple comparisons was applied. All 
+statistical tests were two-sided, with a p-value < 0.05 considered 
+indicative of statistical signiﬁcance.
+TABLE 1 Representative target pulmonary artery diameters and corresponding band circumferences based on weight-derived z-score estimates, compared with conventional band sizing.
+Weight 
+(g)
+Target RPA 
+diameter (mm)
+Radius 
+(mm)
+Band circumference 
+(mm)
+Conventional band 
+diameter (mm)
+Conventional 
+circumference (mm)
+2000 2.75 1.375 8.64 3.00 9.42
+2250 2.80 1.40 8.80 3.00 9.42
+2500 2.90 1.45 9.11 3.00 9.42
+2750 3.00 1.50 9.42 3.00 9.42
+3000 3.10 1.55 9.73 3.00 9.42
+Band circumference was calculated using the formula C = 2πr.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+Results
+Patient characteristics
+During the study period, 54 neonates underwent emergency 
+bilateral pulmonary artery banding. After exclusion of patients 
+requiring extracorporeal membrane oxygenation support or 
+peritoneal dialysis, 44 high-risk neonates were included in the 
+ﬁnal analysis. Of these, 20 patients underwent conventional 
+uniform banding, while 24 patients were managed using the 
+physiology-guided banding strategy. The distribution of patients 
+according to banding strategy, ventricular morphology, and 
+clinical outcomes is summarized in 
+Figure 3.
+Underlying cardiac diagnoses and anatomical classiﬁcation of 
+the study population, along with their distribution across the 
+conventional and physiology-guided groups, are summarized in 
+Table 2. The distribution of underlying cardiac anatomy 
+included single-ventricle physiology, double-ventricle physiology, 
+FIGURE 1 
+Decision-making algorithm for physiology-guided pulmonary artery band adjustment based on multimodal physiological parameters.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+and borderline ventricular morphology ( 29). Preoperative 
+physiological parameters were broadly comparable between 
+groups; however, the physiology-guided group included a higher 
+proportion of low-birth-weight neonates, re/f_lecting the later 
+adoption of this strategy in smaller and more physiologically 
+fragile patients. Operative time was longer in the physiology- 
+guided group compared with the conventional group [median 
+56 [52–61] min vs. 46 [41–55] min].
+Global hemodynamic response to bilateral 
+pulmonary artery banding
+Across the entire cohort, bilateral pulmonary artery banding 
+was associated with an increase in systemic arterial pressure. 
+Systolic, diastolic, and mean arterial pressures increased 
+following banding in both groups.
+Systemic hemodynamic and physiological parameters before 
+and after bilateral pulmonary artery banding are presented in 
+Table 3, while detailed baseline and early postoperative 
+changes according to banding strategy are summarize d in 
+Table 4. No statistically signiﬁcant between-group differences 
+were observed in baseline arterial blood gas parameters or 
+lactate levels.
+Pulmonary blood ﬂow modulation
+Markers of pulmonary blood /f_low differed between the two 
+banding strategies. The physiology-guided group demonstrated 
+FIGURE 2 
+Temporal distribution of conventional and physiology-guided bilateral pulmonary artery banding (biPAB) strategies during the study period (2018– 
+2026), demonstrating partial overlap between the two approaches.
+FIGURE 3 
+Flow diagram of the study cohort showing patient distribution according to banding strategy, ventricular physiology, and early outcomes, including 
+perioperative mortality, interstage mortality, and survival status.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+greater reductions in end-tidal carbon dioxide (etCO₂) 
+immediately following banding and on postoperative day 3 
+compared with the conventional group. These differences are 
+shown in 
+Figure 4.
+Echocardiographic assessment demonstrated higher and more 
+consistent Doppler-derived /f_low accelerations across patients in the 
+physiology-guided group, indicating reduced inter-patient 
+variability in band-related /f_low restriction. Flow velocities 
+exceeding 3.0 m/s were more frequently observed in this group, 
+whereas lower and more variable velocities were observed in the 
+conventional banding group. Comparative echocardiographic and 
+physiological parameters between strategies are detailed in Table 4.
+Oxygenation and end-organ perfusion
+Postoperative arterial oxygen saturation values were lower in 
+the physiology-guided group. Despite this reduction, the 
+differences between arterial oxygen saturation and regional 
+cerebral and somatic oxygenation were smaller in the 
+physiology-guided group.
+Absolute cerebral and somatic regional oxygen saturation (rSO₂) 
+values remained stable and comparable between groups throughout 
+the early postoperative period, without evidence of deterioration in 
+regional oxygenation. Regional perfusion trends derived from near- 
+infrared spectroscopy are summarized in Table 4.
+Clinical trajectory after biPAB
+Following emergency bilateral pulmonary artery banding, 
+patients demonstrated heterogeneous clinical trajectories 
+re/f_lecting underlying anatomy and physiological reserve. Ten 
+patients were ultimately managed toward biventricular repair, 
+while 34 patients followed a single-ventricle palliative pathway.
+Individual patient-level characteristics, banding strategies, 
+subsequent surgical trajectory, and clinical outcomes are 
+summarized in 
+Table 5. Early postoperative outcomes, interstage 
+mortality, and subsequent clinical trajectories following bilateral 
+pulmonary artery banding are summarized in 
+Table 6.
+Survival and mortality
+Following bilateral pulmonary artery banding, 33 of 44 
+high-risk neonates survived the immediate postoperative period, 
+corresponding to an early survival rate of 75%. During follow- 
+up, additional interstage mortality occurred exclusively within 
+the single-ventricle pathway. At last follow-up, 29 patients 
+remained alive, yielding a cumulative survival rate of 66%.
+These survival proportions and patient trajectories across the 
+study cohort are summarized in Figure 3.
+Mortality characteristics and non- 
+signiﬁcant ﬁndings
+All mortality events occurred in the context of persistent 
+sepsis, multiorgan dysfunction, or advanced physiological 
+compromise at presentation. No deaths were directly attributable 
+to pulmonary artery band–related complications, excessive 
+pulmonary blood /f_low restriction, band migration, or acute 
+band-related hemodynamic collapse.
+No statistically signiﬁcant between-group differences were 
+observed with respect to age at banding, baseline arterial blood 
+gas parameters, lactate levels, baseline regional oxygenation 
+values, presence of sepsis or shock, genetic syndromes, or 
+overall survival status.
+Discussion
+The present study suggests that a physiology-guided approach 
+to bilateral pulmonary artery banding (biPAB) in high-risk 
+TABLE 2 Underlying cardiac diagnoses and anatomical classiﬁcation of neonates undergoing 
+bilateral pulmonary artery banding (n = 44).
+Cardiac 
+diagnosis
+Total 
+(n = 44)
+Conventional 
+(n = 20)
+Physiology- 
+guided 
+(n = 24)
+Single ventricle 
+(n = 34)
+34 14 20
+HLHS (n = 28) 28 11 17
+AA-MA 16 7 9
+AA-MS 1 1 0
+AS-MA 5 1 4
+AS-MS 4 1 3
+AA with 
+unbalanced 
+CAVCD
+2 1 1
+Single ventricle 
+type large VSD, 
+arch hypoplasia
+2 1 1
+DILV-TGA, arch 
+hypoplasia
+4 2 2
+Double ventricle 
+(n = 8)
+8 6 2
+TGA-VSD, arch 
+hypoplasia
+2 2 0
+CAVCD, arch 
+hypoplasia
+3 2 1
+Bicuspid AV, 
+arch hypoplasia
+3 2 1
+Borderline 
+hypoplastic 
+ventricle (n = 2)
+LV hypoplasia, 
+arch hypoplasia
+2 0 2
+AA, aortic atresia; AS, aortic stenosis; AV, aortic valve; BAV, bicuspid aortic valve; CAVCD, 
+complete atrioventricular canal defect; DILV, double inlet left ventricle; HLHS, hypoplastic 
+left heart syndrome; LV, left ventricle; MA, mitral atresia; MS, mitral stenosis; TGA, 
+transposition of the great arteries; VSD, ventricular septal defect.
+Values represent the number of patients in each.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 07 frontiersin.org
+[[p8]]
+neonates was associated with more consistent modulation of 
+pulmonary blood /f_low and more favorable early hemodynamic 
+and perfusion proﬁles compared with a conventional uniform 
+banding strategy (
+1, 2, 12). Importantly, these physiological 
+differences were observed without an apparent increase in early 
+postoperative or interstage mortality, despite the inclusion of a 
+higher proportion of low-birth-weight neonates and patients 
+with signiﬁcant preoperative instability in the physiology-guided 
+group (
+13, 14).
+Physiology-guided banding and pulmonary 
+blood ﬂow control
+Effective regulation of pulmonary blood /f_low represents a 
+central determinant of successful biPAB, particularly in 
+neonates with ductal-dependent circulation, in whom small 
+alterations in band tightness or pulmonary vascular resistance 
+may lead to disproportionate shifts in systemic and pulmonary 
+perfusion (15, 30, 31). In this cohort, physiology-guided 
+banding was associated with greater and more consis tent 
+reductions in end-tidal carbon dioxide (etCO₂), together 
+with higher and less variable Doppler-derived pulmo nary 
+artery /f_low velocities, with reduced interpatient variability. 
+When interpreted collectively, these ﬁndings suggest a more 
+uniform physiological response to pulmonary blood /f_low 
+restriction across a heterogeneous population (32–34). Efforts 
+were made to minimize measurement variability using  
+standardized intraoperative marking techniques, thereby 
+improving the practical reproducibility of small adjustments in 
+band circumference.
+Uniform band sizing applies similar anatomical constraints 
+across a wide range of body weights and pulmonary 
+artery dimensions. In contrast, weight-adjusted, z-score– 
+guided banding explicitly accounts for interpatient variability 
+(
+7, 8, 11). Although the present study was not designed to 
+establish causality, the observed consistency of pulmonary 
+/f_low markers supports the concept that individualize d 
+banding strategies may reduce variability in early 
+postoperative physiology, particularly in physiologically fragile 
+neonates (
+9). Accordingly, the present ﬁndings should be 
+interpreted as re/f_lecting differences in physiological response 
+rather than direct quantitative differences in achi eved 
+band tightness.
+Recent studies have increasingly emphasized the importance 
+of individualized and physiology-guided strategies in neonatal 
+circulatory management, supporting the rationale fo r 
+tailored approaches to pulmonary blood /f_low modulation 
+(26–29, 35, 36 ). The physiology-guided approach may be 
+particularly beneﬁcial in patients with highly labi le 
+circulatory physiology, such as those with ductal-dependent 
+systemic or pulmonary circulation, where small changes in 
+TABLE 3 Systemic hemodynamic and physiological parameters before and after bilateral pulmonary artery banding according to banding strategy.
+Hemodynamic 
+parameters
+Pre-biPAB average 
+(after induction of anesthesia)
+Early postoperative measurements 
+(day 0 and day 3)
+Conventional 
+biPAB group
+Physiology- 
+guided biPAB 
+group
+p-value Conventional 
+biPAB group
+Physiology- 
+guided biPAB 
+group
+p-value
+SAP (mmHg) 46.7 ± 4.7 45.2 ± 4.6 0.285* 58.5 ± 6.6 60.9 ± 5.7 0.188*
+DAP (mmHg) 24.6 ± 3.0 23.8 ± 2.9 0.375* 34.0 ± 5.9 35.5 ± 4.6 0.343*
+MAP (mmHg) 31.9 ± 3.0 31.1 ± 3.1 0.405* 42.0 ± 5.8 44.0 ± 4.6 0.202*
+SaO2 (%) 93.6 ± 1.9 93.0 ± 2.3 0.386* 85.1 ± 1.6 81.7 ± 1.8 <0.001*
+SaO2 – rSO2s (%) 24.1 ± 3.9 24.1 ± 5.9 0.987* 18.2 ± 3.3 15.0 ± 5.5 0.031*
+SaO2 – rSO2c (%) 23.0 ± 3.6 22.8 ± 5.7 0.910** 16.0 (15.0–18.0) 11.5 (10.0–16.0) 0.005**
+Creatinine levels (mg/dL) 0.9 ± 0.6 0.9 ± 0.6 0.900* 0.6 (0.4–1.4) 0.6 (0.4–0.6) 0.376**
+Decrease in post-biPAB 
+etCO
+2 (day 0) (mmHg)
+2.3 ± 0.7 3.9 ± 0.8 <0.001*
+Decrease in post-biPAB 
+etCO
+2 (day 3) (mmHg)
+4.1 ± 0.9 6.2 ± 0.9 <0.001*
+Flow acceleration in RPA 
+after biPAB (day 3) (m/s)
+2.5 ± 0.3 3.2 ± 0.2 <0.001*
+Flow acceleration in LPA 
+after biPAB (day 3) (m/s)
+2.5 ± 0.2 3.0 ± 0.3 <0.001*
+*Independent-samples t-test.
+**Mann–Whitney U -test. Bold indicates signiﬁcance level at p value < 0.05.
+biPAB, bilateral pulmonary artery banding; DAP, diastolic arterial pressure; etCO2, end-tidal carbon dioxide; LPA, left pulmonary artery; MAP, mean arterial pressure; RPA, right pulmonary 
+artery; rSO2s, somatic regional tissue oxygen saturation; rSO2c, cerebral regional tissue oxygen saturation; SAP, systolic arterial pressure; SaO2, oxygen saturation.
+Values are presented as mean ± standard deviation or median (interquartile range), as appropriate. p-values represent between-group comparisons at each time point. Day 0 values represent 
+immediate post-banding measurements, whereas day 3 values correspond to postoperative day 3 assessments. Systemic hemodynamic and physiological parameters before and after bilateral 
+pulmonary artery banding according to banding strategy. This table summarizes global hemodynamic changes.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 08 frontiersin.org
+[[p9]]
+pulmonary blood /f_low may result in disproportionate 
+hemodynamic effects.
+Representative target-sizing examples demonstrated that the 
+physiology-guided strategy generally produced smaller target 
+branch pulmonary artery diameters than the conventional 
+3.0-mm approach in lower-weight neonates, particularly in the 
+2,000–2,500 g range. This difference became negligible at 
+approximately 2,750 g and slightly reversed at higher weights.
+Although these differences are numerically small, they may be 
+physiologically signiﬁcant. According to Poiseuille’s law, /f_low is 
+proportional to the fourth power of vessel radius. For example, 
+the difference between a circumference of approximately 8.6 mm 
+and 9.4 mm theoretically corresponds to an increase in /f_low of 
+approximately 50%–60%. These ﬁndings highlight how small 
+millimetric differences in band diameter may translate into 
+substantial changes in pulmonary blood /f_low, as demonstrated 
+in 
+Figure 5.
+Interpretation of etCO₂ and multimodal 
+physiological monitoring
+The interpretation of etCO₂ as a surrogate marker of 
+pulmonary blood /f_low warrants particular attention. In 
+TABLE 4 Baseline and early postoperative physiological parameters according to banding strategy.
+Parameter Conventional (n = 20) 
+Mean ± SD
+Physiology-guided (n = 24) 
+Mean ± SD
+p-value
+Preoperative (before biPAB)
+Age at biPAB (days) 9.1 ± 5.6 9.3 ± 5.1 0.910*
+Body weight (g) 2,806.5 ± 303.8 2,669.6 ± 407.6 0.221*
+Pre-biPAB Saturation (%) 93.6 ± 1.8 93.0 ± 2.3 0.386*
+pH before biPAB 7.2 (7.1–7.3) 7.3 (7.2–7.3) 0.741**
+Lactate before biPAB (mmol/L) 3.3 (2.8–5.6) 3.4 (2.5–6.4) 0.906**
+SAP before biPAB (mmHg) 46.7 ± 4.7 45.2 ± 4.6 0.285*
+DAP before biPAB (mmHg) 24.5 ± 3.0 23.7 ± 2.9 0.375*
+MAP before biPAB (mmHg) 31.9 ± 2.9 31.1 ± 3.1 0.405*
+rSo2s before biPAB (%) 69.5 ± 2.7 68.9 ± 5.1 0.646*
+rSo2c before biPAB (%) 70.6 (69.0–72.7) 70.2 (67.2–74.0) 0.750**
+Sao2 - rSo2s before biPAB (%) 24.1 ± 3.9 24.1 ± 5.9 0.987*
+Sao2 - rSo2c before biPAB (%) 23.0 ± 3.6 22.8 ± 5.7 0.910*
+Creatinine before biPAB (mg/dL) 0.9 ± 0.6 0.9 ± 0.6 0.900*
+Immediate postoperative (Day 0)
+Post-biPAB saturation (%) 85.1 ± 1.6 81.7 ± 1.8 <0.001*
+Decrease in post-biPAB etCO2 (Day 0) (mmHg) 2.3 ± 0.7 3.9 ± 0.8 <0.001*
+SAP after biPAB (mmHg) 58.4 ± 6.5 60.9 ± 5.7 0.188*
+DAP after biPAB (mmHg) 33.9 ± 5.8 35.5 ± 4.6 0.343*
+MAP after biPAB (mmHg) 42.0 ± 5.8 44.0 ± 4.6 0.202*
+rSo2s after biPAB (%) 66.9 ± 2.9 67.1 ± 4.4 0.880*
+rSo2c after biPAB (%) 69.0 (69.0–72.7) 70.0 (67.2–74.0) 0.343**
+Sao2 - rSo2s after biPAB (%) 18.1 ± 3.3 15.0 ± 5.5 0.031*
+Sao2 - rSo2c after biPAB (%) 16.0 (15.0–18.0) 11.5 (10.0–16.0) 0.005**
+Creatinine after biPAB (mg/dL) 0.6 (0.4–1.4) 0.6 (0.4–0.6) 0.376**
+Early postoperative (Day 3)
+Decrease in post-biPAB etCO2 (Day 3) (mmHg) 4.1 ± 0.8 6.2 ± 0.9 <0.001*
+Flow acceleration in RPA (Day 3) (m/s) 2.5 ± 0.2 3.1 ± 0.2 <0.001*
+Flow acceleration in LPA (Day 3) (m/s) 2.5 ± 0.2 3.0 ± 0.3 <0.001
+*Independent-samples t-test.
+**Mann–Whitney U -test. Bold indicates signiﬁcance level at P value < 0.05.
+biPAB, bilateral pulmonary artery banding; DAP, diastolic arterial pressure; etCO₂, end-tidal carbon dioxide; LPA, left pulmonary artery; MAP, mean arterial pressure; RPA, right pulmonary 
+artery; rSO₂c, cerebral regional oxygen saturation; rSO₂s, somatic regional oxygen saturation; SAP, systolic arterial pressure; SaO₂, arterial oxygen saturation.
+Values are presented as mean ± standard deviation or median (interquartile range), as appropriate. p-values represent between-group comparisons at each time point.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 09 frontiersin.org
+[[p10]]
+mechanically ventilated neonates without signiﬁcant ventilation– 
+perfusion mismatch, changes in etCO₂ predominantly re/f_lect 
+alterations in pulmonary perfusion and cardiac output (
+3, 4, 10). 
+The greater reductions in etCO₂ observed in the physiology- 
+guided group are therefore consistent with greater attenuation of 
+pulmonary overcirculation.
+Crucially, etCO₂ was not interpreted in isolation but rather 
+integrated with systemic arterial pressure, echocardiographic 
+ﬁndings, and regional oxygenation data. This multimodal 
+monitoring framework reduces the risk of misinterpretation and 
+highlights the value of combining anatomical planning with 
+real-time physiological feedback during pulmonary artery 
+banding (
+5, 6 , 37). Such integration is particularly relevant in 
+neonates, in whom small anatomical differences may result in 
+large physiological consequences.
+End-organ perfusion and oxygenation 
+balance
+Lower postoperative arterial oxygen saturation observed in the 
+physiology-guided group should be interpreted as an expected 
+physiological consequence of effective pulmonary blood /f_low 
+restriction rather than as an adverse outcome (
+16). In ductal- 
+dependent neonates, modest reductions in arterial saturation 
+often accompany improved systemic perfusion pressure and 
+redistribution of cardiac output toward systemic circulation (
+17).
+Notably, the physiology-guided group demonstrated smaller 
+differences between arterial oxygen saturation and regional 
+cerebral and somatic oxygenation. This pattern suggests 
+improved coupling between systemic oxygen delivery and tissue- 
+level oxygen utilization (
+19–21). Importantly, absolute regional 
+oxygenation values remained stable, indicating that this apparent 
+improvement in balance was achieved without compromising 
+cerebral or somatic perfusion.
+Clinical implications in low-birth-weight 
+and borderline patients
+Low birth weight is a well-established risk factor for 
+adverse outcomes following neonatal cardiac surgery (18, 22). 
+In the present study, the physiology-guided group included 
+a signiﬁcantly higher proportion of low-birth-weight neonates 
+yet demonstrated comparable or more favorable early 
+physiological proﬁles. This observation suggests that 
+individualized banding strategies may be especially informative 
+in smaller patients, in whom millimeter-level differences in 
+band circumference can translate into substantial physiological 
+effects (
+23). This concept is illustrated in Figure 5, which 
+demonstrates how small differences in band diameter may 
+translate into substantial differences in pulmonary blood 
+/f_low due to the nonlinear relationship between vessel radius 
+and /f_low.
+In addition, biPAB functioned as a valuable bridging strategy 
+in patients with borderline ventricular morphology. By stabilizing 
+hemodynamics and controlling pulmonary blood /f_low, 
+physiology-guided biPAB allowed time for serial ventricular 
+reassessment and informed decision-making regarding deﬁnitive 
+surgical pathways (
+24, 38, 39). This intentional period of 
+physiological stabilization may help avoid premature 
+commitment to a single-ventricle or biventricular strategy in 
+anatomically and functionally indeterminate patients.
+Ductal patency strategy and interstage 
+management
+Maintenance of ductal patency represents an integral 
+component of hybrid palliation strategies (40, 41). In the present 
+cohort, continuous prostaglandin E1 infusion was preferentially 
+used, with ductal stenting reserved for cases of prostaglandin- 
+FIGURE 4 
+Changes in end-tidal carbon dioxide (etCO₂) following bilateral pulmonary artery banding. Panel A shows immediate postoperative changes, and 
+Panel B shows values on postoperative day 3. Differences between conventional and physiology-guided banding strategies at both time points 
+are indicated.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 10 frontiersin.org
+[[p11]]
+TABLE 5 Individual patient characteristics, banding strategy, and subsequent surgical trajectory following bilateral pulmonary artery banding.
+PN Diagnosis biPAB 
+age 
+(days)
+biPAB 
+BW 
+(g)
+PDA 
+stent
+Banding 
+Strategy
+Second surgery Third 
+surgery
+Current 
+status
+1 TGA-large VSD 7 2800 None Conventional Jatene - Alive
+2 HLHS (MS-AS), AH 6 2600 None Physiology- 
+guided
+Delayed S1P, Sano S2P Awaiting Fontan
+3 HLHS (MA-AA), AH 4 3500 None Conventional Delayed S1P, Sano S2P Awaiting Fontan
+4 CAVCD, AH, BAV 27 2300 None Conventional - - Deathafter 
+biPAB
+5 HLHS (MA-AS), AH 3 2500 None Physiology- 
+guided
+Delayed S1P, Sano - Awaiting S2P
+6 HLHS (MA-AA) 6 3300 None Conventional Delayed S1P, Sano - Awaiting S2P
+7 HLHS (MA-AA) 7 2500 None Physiology- 
+guided
+Comprehensive S2P - Awaiting Fontan
+8 SV type large VSD, AH 18 3100 None Physiology- 
+guided
+Arch repair, MPA banding S2P Awaiting Fontan
+9 HLHS (AA), CAVCD 
+(unbalanced)
+6 2600 None Conventional Delayed S1P, MBT S2P Awaiting Fontan
+10 HLHS (MS-AS) 7 3100 None Physiology- 
+guide
+- - Death after 
+biPAB
+11 BAV, AH, VSD 10 2900 None Conventional - - Death after 
+biPAB
+12 DILV, DTGA, AH 10 3800 None Physiology- 
+guided
+Arch repair,MPA banding S1P-BVFe Fontan
+PR?a?kugK?`g?QT?ROOO?m?oL?
+guided
+Arch repair, debanding, 
+ASD closure
+- Alive
+14 HLHS (MA-AS) 12 3200 None Physiology- 
+guided
+- - Death after 
+biPAB
+15 HLHS (MA-AA) 10 3000 None Conventional - - Death after 
+biPAB
+16 HLHS (MA-AA), aortic 
+interruption
+5 2500 None Physiology- 
+guided
+Delayed S1P, Sano - Interstage death
+17 HLHS (MA-AA), AH 10 3000 Yes Physiology- 
+guided
+Delayed S1P, MBT Interstage death
+18 HLHS (MA-AA), AH 10 3200 Yes Conventional Delayed S1P, Sano S2P Fontan
+19 HLHS (MA-AA) 9 2800 None Conventional Delayed S1P, Sano S2P Fontan
+20 HLHS (MS-AA), AH 21 2300 None Conventional Delayed S1P, MBT S2P Fontan
+21 DILV, DTGA, AH, RVH 17 3200 None Physiology- 
+guided
+Delayed S1P, MBT S2P Awaiting Fontan
+22 HLHS (MS-AS) 12 2750 None Conventional Delayed S1P, MBT S2P Awaiting Fontan
+23 HLHS (MA-AA), AH 6 2800 None Physiology- 
+guided
+Delayed S1P, MBT S2P Awaiting Fontan
+24 HLHS (MA-AS), AH 8 2600 None Physiology- 
+guided
+- - Death after 
+biPAB
+QT?gkgr?Gl`L``HK?`g?PP?QTOO?m?oL?
+guided
+Delayed S1P, Sano - Awaiting S2P
+26 DILV, DTGA, AH, RVH 7 2750 None Conventional Delayed S1P, Sano - Awaiting S2P
+27 SV type large VSD, AH 4 2800 None Conventional Delayed S1P, MBT - Interstage death
+(Continued) 
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 11 frontiersin.org
+[[p12]]
+resistant ductal constriction. This approach was guided by 
+concerns that ductal stenting in the presence of severe aortic 
+arch hypoplasia or ductal-dependent coronary circulation may 
+adversely affect retrograde aortic and coronary perfusion (
+25, 42).
+Prolonged prostaglandin therapy provided a stable and 
+predictable means of maintaining ductal patency without 
+introducing additional anatomical variables during a period of 
+marked physiological vulnerability. The low requirement for 
+ductal stenting and absence of prostaglandin-related 
+complications support the feasibility of this strategy in carefully 
+selected patients (
+43).
+Clinical outcomes and surgical trajectory
+Early postoperative and interstage mortality did not differ 
+signiﬁcantly between banding strategies and was primarily 
+associated with persistent sepsis, multiorgan dysfunction, or 
+delayed referral rather than with band-related hemodynamic 
+instability (
+44). These ﬁndings suggest that physiology-guided 
+banding does not compromise clinical safety while offering 
+potential physiological advantages.
+Progression through staged palliation or toward biventricular 
+repair was feasible in the majority of surviving patients. Although 
+TABLE 5 Continued
+PN Diagnosis biPAB 
+age 
+(days)
+biPAB 
+BW 
+(g)
+PDA 
+stent
+Banding 
+Strategy
+Second surgery Third 
+surgery
+Current 
+status
+28 CAVCD, AH, BAV 6 2250 None Physiology- 
+guided
+CAVCD complete 
+correction
+- Alive
+2 HLHS (MA-AA), aortic 
+interruption
+6 2500 None Physiology- 
+guided
+Delayed S1P, Sano - Awaiting S2P
+30 HLHS (MA-AA) 10 2650 None Physiology- 
+guided
+Delayed S1P, Sano S2P Awaiting Fontan
+31 DILV, DTGA, AH 8 2750 None Conventional - - Death after 
+biPAB
+32 HLHS (MA-AS) 6 2790 None Conventional - - Death after 
+biPAB
+33 TGA-large VSD 11 2570 None Conventional - - Death after 
+biPAB
+34 Borderline LVH, AH 12 2630 None Physiology- 
+guided
+Arch repair, debanding, 
+ASD closure
+- Alive
+35 HLHS (MS-AS) 10 2800 None Physiology- 
+guided
+Delayed S1P, Sano S2P Awaiting Fontan
+36 HLHS (AA), CAVCD 
+(unbalanced)
+13 2640 None Physiology- 
+guided
+Delayed S1P, Sano - Awaiting S2P
+RV?gkgr?Gl`L``HK?`g?V?QXOO?m?b?L?L?c??
+biPAB
+38 HLHS (MA-AA), aortic 
+interruption
+5 3000 None Conventional Delayed S1P, Sano S2P Awaiting Fontan
+39 BAV, AH, VSD 5 2700 None Conventional Arch repair, MPA banding - Alive
+40 HLHS (MA-AA) 4 2600 None Physiology- 
+guided
+Delayed S1P, Sano - Awaiting S2P
+41 BAV, AH, VSD 7 2200 None Physiology- 
+guided
+Arch repair, MPA banding Debanding Alive
+42 HLHS (MA-AA) 6 2300 None Physiology- 
+guided
+Delayed S1P, Sano - Interstage death
+43 CAVCD, AH, BAV 8 2420 None Conventional - - Death after 
+biPAB
+44 HLHS (MA-AS) 5 2100 None Physiology- 
+guided
+Delayed S1P, MBT S2P Awaiting Fontan
+AA, aortic atresia; AH, aortic arch hypoplasia; AS, aortic stenosis; ASO, arterial switch operation; BAV, bicuspid aortic valve; biPAB, bilateral pulmonary artery banding; BVFe, 
+bulboventricular foramen enlargement; BVR, biventricular repair; BW, body weight; CAVCD, complete atrioventricular canal defect; DILV, double inlet left ventricle; HLHS, hypoplastic 
+left heart syndrome; LVH, left ventricular hypoplasia; MBT, modiﬁed Blalock–Taussig shunt; MPA, main pulmonary artery; PDA, patent ductus arteriosus; RV, right ventricle; S1P, 
+stage I palliation; S2P, stage II palliation; SV, single ventricle; TGA, transposition of the great arteries; VSD, ventricular septal defect.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 12 frontiersin.org
+[[p13]]
+the present study was not powered to detect differences in long-term 
+outcomes, improved early physiological stability may in/f_luence 
+subsequent surgical planning and interstage management (45).
+Positioning within the hybrid palliation 
+literature
+Hybrid strategies combining bilateral pulmonary artery banding 
+with maintenance of ductal patency have become established 
+alternatives to primary neonatal cardiopulmonary bypass in selected 
+high-risk patients (35, 40, 46 ). However, substantial heterogeneity 
+exists in reported banding techniques, physiological targets, and 
+outcome measures. Many prior studies emphasize survival or stage 
+progression, with comparatively limited focus on the physiological 
+mechanisms underlying early postoperative stability (36 , 47).
+By emphasizing physiological and perfusion-related 
+endpoints, the present study contributes mechanistic insight into 
+how pulmonary blood /f_low modulation in/f_luences systemic 
+perfusion in the immediate postoperative period. These ﬁndings 
+support the concept that pulmonary artery banding should be 
+viewed as a dynamic, physiology-responsive intervention rather 
+than a ﬁxed anatomical procedure.
+Randomized trials comparing banding strategies in critically ill 
+neonates are unlikely to be feasible. Within this constraint, 
+carefully conducted observational studies incorporating detailed 
+physiological characterization remain essential. In this context, 
+FIGURE 5 
+Comparison of conventional and physiology-guided pulmonary artery band sizing in a representative 2000g neonate. For the same body weight, 
+conventional banding applies a ﬁxed diameter (3.0 mm), whereas the physiology-guided strategy targets a smaller diameter corresponding to 
+approximately −2 z-score ( ≈2.75 mm), resulting in a difference in band circumference (≈9.4 mm vs. ≈8.6 mm). This ﬁgure is intended for 
+conceptual illustration.
+TABLE 6 Early postoperative outcomes, interstage mortality, and clinical trajectories 
+following bilateral pulmonary artery banding according to banding strategy.
+Outcome 
+and status
+Conventional 
+biPAB (n = 20)
+Physiology- 
+guided biPAB 
+(n = 24)
+Mortality
+Early postoperative 5 2
+Interstage 4 4
+Survivors
+Single-ventricle 
+pathway
+9 14
+Biventricular 
+pathway
+2 4
+Awaiting next stage
+Awaiting Stage 
+I palliation
+0 0
+Awaiting Stage II 
+palliation
+2 5
+Awaiting Stage III 
+palliation
+4 8
+Completed Stage 
+III palliation
+3 1
+biPAB, bilateral pulmonary artery banding.
+Values represent the number of patients in each category.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 13 frontiersin.org
+[[p14]]
+the present analysis provides incremental but clinically relevant 
+evidence supporting the integration of individualized, 
+physiology-guided strategies and multimodal monitoring into 
+neonatal pulmonary artery banding.
+Limitations
+Several limitations of this study should be acknowledged. 
+Because the physiology-guided strategy was progressively adopted 
+during the study period, potential confounding related to 
+operator experience, perioperative learning effects, and temporal 
+improvements in postoperative and interstage management 
+cannot be completely excluded, despite the partial overlap 
+between strategies. In addition, actual achieved band diameters or 
+circumferences were not systematically recorded, precluding direct 
+quantitative comparison of ﬁnal band tightness between strategies. 
+The retrospective design precludes deﬁnitive causal inference and 
+may be subject to selection bias, despite the use of predeﬁned 
+institutional practices guiding banding strategy. The study 
+population was heterogeneous, encompassing a wide spectrum of 
+congenital cardiac anatomies and physiological states, which 
+limited the feasibility of meaningful subgroup analyses. Patients 
+requiring extracorporeal support were excluded, potentially 
+underrepresenting the most critically unstable neonates and 
+limiting generalizability to this subgroup. The sample size was 
+modest, and observed associations between physiological markers 
+should therefore be interpreted as exploratory. In addition, long- 
+term outcomes, including pulmonary artery growth, ventricular 
+remodeling, and neurodevelopmental status, were beyond the 
+scope of this analysis. Accordingly, these ﬁndings should be 
+regarded as hypothesis-generating rather than deﬁnitive. Survival 
+proportions are reported descriptively and were not derived from 
+formal time-to-event analyses. Pulmonary artery wall thickness 
+was not systematically assessed, as echocardiographic evaluation 
+was primarily focused on luminal diameters. Therefore, band 
+sizing was based on luminal measurements and physiological 
+response rather than vessel wall characteristics.
+Future directions
+Prospective studies incorporating predeﬁned physiological 
+targets, standardized monitoring protocols, and longer-term 
+follow-up are warranted to further reﬁne pulmonary artery 
+banding strategies in high-risk neonates. In particular, future 
+investigations should aim to evaluate the impact of physiology- 
+guided approaches on pulmonary artery growth, ventricular 
+remodeling, and neurodevelopmental outcomes. The integration 
+of advanced physiological monitoring, imaging-based /f_low 
+assessment, and computational modeling may further support 
+individualized surgical planning and improve reproducibility in 
+this vulnerable population.
+Conclusions
+In high-risk neonates with ductal-dependent circulation, a 
+physiology-guided approach to bilateral pulmonary artery 
+banding using weight-adjusted pulmonary artery z-scores was 
+associated with more predictable modulation of pulmonary 
+blood /f_low and more consistent early hemodynamic and 
+perfusion proﬁles. These physiological advantages were observed 
+without an apparent increase in early or interstage mortality. 
+Within the limitations of a retrospective design, these ﬁndings 
+support the feasibility of incorporating individualized, 
+physiology-driven principles and multimodal physiological 
+monitoring into neonatal pulmonary artery banding strategies. 
+Moreover, biPAB may serve not only as a stabilizing 
+intervention but also as a decision-enabling strategy in critically 
+ill neonates, providing time for physiological recovery and 
+informed surgical planning.
+Data availability statement
+The original contributions presented in the study are included 
+in the article/Supplementary Material, further inquiries can be 
+directed to the corresponding author.
+Ethics statement
+The studies involving humans were approved by the Gazi 
+Yaşargil Education and Research Hospital Ethics Committee. 
+The study was conducted in accordance with local legislation 
+and institutional requirements. For the second participating 
+center (Ankara Bilkent City Hospital), institutional permission 
+for data use was obtained based on this ethics approval. Written 
+informed consent for participation in this study was provided by 
+the participants’ legal guardians/next of kin. Written informed 
+consent was obtained from the individuals, and minors’ legal 
+guardians/next of kin, for the publication of any potentially 
+identiﬁable images or data included in this article.
+Author contributions
+Aİ: Formal analysis, Methodology, Validation, Visualization, 
+Writing – original draft, Writing – review & editing. HB: Data 
+curation, Funding acquisition, Project administration, 
+Supervision, Writing – review & editing. YK: Investigation, 
+Project administration, Software, Formal analysis, Supervision, 
+Writing – review & editing. P-SD: Data curation, Formal 
+analysis, Investigation, Project administration, Supervision, 
+Writing – review & editing.
+Funding
+The author(s) declared that ﬁnancial support was not received 
+for this work and/or its publication.
+Acknowledgments
+The authors gratefully acknowledge the contribution of 
+Osman Akdeniz.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 14 frontiersin.org
+[[p15]]
+Conﬂict of interest
+The author(s) declared that this work was conducted in the 
+absence of any commercial or ﬁnancial relationships that could 
+be construed as a potential con/f_lict of interest.
+Generative AI statement
+The author(s) declared that generative AI was not used in the 
+creation of this manuscript.
+Any alternative text (alt text) provided alongside ﬁgures in this 
+article has been generated by Frontiers with the support of 
+artiﬁcial intelligence and reasonable efforts have been made to 
+ensure accuracy, including review by the authors wherever 
+possible. If you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their afﬁliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed 
+or endorsed by the publisher.
+References
+PM?g?l`K?q?`lK?r?mgM?b??????
+premature infants by inhibition of prostaglandin synthesis. N Engl J Med. (1976) 
+295:530–3. 
+doi: 10.1056/NEJM197609022951004
+2. Hamrick SEG, Hansmann G. Patent ductus arteriosus of the preterm infant. 
+Pediatrics. (2010) 125:1020–30. 
+doi: 10.1542/peds.2009-3506
+3. Despond O, Proulx F, Carcillo JA, Lacroix J. Pediatric sepsis and multiple organ 
+dysfunction syndrome. Curr Opin Pediatr. (2001) 13:247–53. 
+doi: 10.1097/ 
+00008480-200106000-00006
+4. Gaynor JW, Mahle WT, Cohen MI, Ittenbach RF, DeCampli WM, Steven JM, et al. 
+Risk factors for mortality after the Norwood procedure. Eur J Cardiothorac Surg. 
+(2002) 22:82–9. 
+doi: 10.1016/S1010-7940(02)00198-7
+5. Stasik CN, Goldberg CS, Bove EL, Devaney EJ, Ohye RG. Current outcomes and 
+risk factors for the Norwood procedure. J Thorac Cardiovasc Surg. (2006) 
+131:412–7. 
+doi: 10.1016/j.jtcvs.2005.09.030
+6. Blinder JJ, Goldstein SL, Lee VV, Baycroft A, Fraser CD, Nelson D, et al. 
+Congenital heart surgery in infants: effects of acute kidney injury on outcomes. J 
+Thorac Cardiovasc Surg. (2012) 143:368–74. 
+doi: 10.1016/j.jtcvs.2011.06.021
+7. Brown JW, Ruzmetov M, Okada Y, et al. Pulmonary artery banding in neonates 
+and infants: current results. Ann Thorac Surg. (2001) 71:1533–9.
+8. Vida VL, Bacha EA. Pulmonary artery banding revisited. Semin Thorac Cardiovasc 
+Surg Pediatr Card Surg Annu. (2010) 13:42–7.
+9. Russell RA, Ghanayem NS, Mitchell ME, Woods RK, Tweddell JS. Bilateral 
+pulmonary artery banding as rescue intervention in high-risk neonates. Ann 
+Thorac Surg. (2013) 96:885–90. 
+doi: 10.1016/j.athoracsur.2013.05.049
+10. Guleserian KJ, Barker GM, Sharma MS, Macaluso J, Huang R, Nugent AW, et al. 
+Bilateral pulmonary artery banding for resuscitation in high-risk, single-ventricle 
+neonates and infants. J Thorac Cardiovasc Surg. (2013) 145:206–14. 
+doi: 10.1016/j. 
+jtcvs.2012.09.063
+11. Hirano Y, Sano S, Ishino K, et al. Bilateral pulmonary artery banding as a bridge 
+to biventricular repair. Ann Thorac Surg. (2010) 90:1604–10.
+12. Norwood WI, Kirklin JK, Sanders SP. Hypoplastic left heart syndrome: experience 
+with palliative surgery. Am J Cardiol. (1980) 45:87–91. 
+doi: 10.1016/0002-9149(80) 
+90224-6
+13. Norwood WI, Lang P, Castaneda AR. Experience with operations for hypoplastic 
+left heart syndrome. J Thorac Cardiovasc Surg. (1981) 82:511–9. 
+doi: 10.1016/S0022- 
+5223(19)39288-8
+14. Mahle WT, Spray TL, Wernovsky G, Gaynor JW, Clark BJ 3rd. Survival after 
+reconstructive surgery for hypoplastic left heart syndrome. Circulation. (2000) 102: 
+III136–41. 
+doi: 10.1161/01.cir.102.suppl_3.iii-136
+15. Tweddell JS, Hoffman GM, Mussatto KA, Fedderly RT, Berger S, Jaquiss RDB, 
+et al. Improved survival of patients undergoing palliation of hypoplastic left heart 
+syndrome. Circulation. (2002) 106:I82–9. 
+doi: 10.1161/01.cir.0000032878.55215.bd
+16. Kitahori K, Murakami A, Takaoka T, Takamoto S, Ono M. Precise evaluation of 
+bilateral pulmonary artery banding for initial palliation in high-risk hypoplastic left 
+heart syndrome. J Thorac Cardiovasc Surg. (2010) 140:1084–91. 
+doi: 10.1016/j.jtcvs. 
+2010.07.084
+17. Schulz A, Sinzobahamvya N, Cho MY, Böttcher W, Miera O, Redlin M, et al. 
+Bilateral pulmonary artery banding before Norwood procedure: survival of high- 
+risk patients. Thorac Cardiovasc Surg. (2020) 68:30–7. 
+doi: 10.1055/s-0038-1676617
+18. Poiseuille JLM. Recherches expérimentales sur le mouvement des liquides dans les 
+tubes de très petits diamètres. C R Acad Sci Paris. (1840) 11:961–7.
+19. Pettersen MD, Du W, Skeens ME, Humes RA. Regression equations for 
+calculation of z-scores of cardiac structures in a large cohort of healthy infants, 
+children, and adolescents. J Am Soc Echocardiogr. (2008) 21:922–34. 
+doi: 10.1016/j. 
+echo.2008.02.006
+20. Lopez L, Colan SD, Frommelt PC, Ensing GJ, Kendall K, Younoszai AK, et al. 
+Recommendations for quantiﬁcation methods during the performance of a 
+pediatric echocardiogram. J Am Soc Echocardiogr. (2010) 23:465–95. 
+doi: 10.1016/j. 
+echo.2010.03.019
+21. Cantinotti M, Scalese M, Murzi B, Assanta N, Spadoni I, De Lucia V, et al. 
+Echocardiographic nomograms for chamber diameters and areas in Caucasian 
+children. J Am Soc Echocardiogr. (2014) 27:1279–92. 
+doi: 10.1016/j.echo.2014.08.005
+22. Tobias JD. End-tidal carbon dioxide monitoring in infants and children. Paediatr 
+Anaesth. (2009) 19:106–14. doi: 10.1111/j.1460-9592.2009.02930.x
+23. Shibata SC, Wilson DF. Pulmonary blood /f_low and end-tidal carbon dioxide 
+monitoring. Anesthesiology. (2015) 123:57–65.
+24. Nevin MA, McDonnell C, McShane AJ. End-tidal CO₂ as a surrogate for 
+pulmonary blood /f_low in pediatric cardiac surgery. Br J Anaesth. (2017) 119:1163–71.
+25. Rychik J, Goldberg DJ. Late consequences of single-ventricle palliation. 
+Circulation. (2014) 129:1123–32.
+26. Takei T, Kaneko Y, Kondo R, Morisaki N, Achiwa I. Intraoperative 
+echocardiographic indicator for optimal bilateral pulmonary artery banding. Gen 
+Thorac Cardiovasc Surg. (2025) 73:811–8. 
+doi: 10.1007/s11748-025-02156-9
+27. Çelik MC, Çelik ÖB, Kalçık M. Reevaluating echocardiographic indicators in 
+bilateral pulmonary artery banding. Gen Thorac Cardiovasc Surg . (2026) 
+74(1):99–100. 
+doi: 10.1007/s11748-025-02210-6
+28. Hongu H, Nomura K, Hamaya I, Ugaki S, Shimizu T, Yamagishi M, et al. Lasso 
+technique for bilateral pulmonary arterial banding. Interdiscip Cardiovasc Thorac 
+Surg. (2025) 40:ivaf130. 
+doi: 10.1093/icvts/ivaf130
+29. Yamasaki T, Umezu K, Toba S, Ishikawa R, Bessho S, Ito H, et al. Bilateral 
+pulmonary artery banding facilitates the systemic ventricular out/f_low tract growth 
+for biventricular and univentricular repair candidates of complex arch anomaly. 
+Heart Vessels. (2024) 39:891–8. 
+doi: 10.1007/s00380-024-02412-7
+30. Gibbs JL, Wren C, Watterson KG, Hunter S, Hamilton JR. Stenting of the arterial 
+duct combined with banding of the pulmonary arteries and atrial septostomy: a new 
+approach to palliation for hypoplastic left heart syndrome. Br Heart J. (1993) 
+69:551–5. 
+doi: 10.1136/hrt.69.6.551
+31. Akintürk H, Michel-Behnke I, Valeske K, Mueller M, Thul J, Bauer J, et al. Hybrid 
+transcatheter–surgical palliation: basis for univentricular or biventricular repair—the 
+giessen experience. Pediatr Cardiol. (2007) 28:79–87. 
+doi: 10.1007/s00246-006-1444-7
+32. Galantowicz M, Cheatham JP. Lessons learned from the development of a new 
+hybrid strategy for the management of hypoplastic left heart syndrome. Pediatr 
+Cardiol. (2005) 26:190–9. 
+doi: 10.1007/s00246-004-0962-4
+33. Caldarone CA, Benson LN, Holtby H, Li J, Redington AN, Van Arsdell GS. Initial 
+experience with hybrid palliation for neonates with hypoplastic left heart syndrome. 
+Ann Thorac Surg. (2007) 84:201–8. 
+doi: 10.1016/j.athoracsur.2007.04.127
+34. Pizarro C, Derby CD, Baffa JM, Murdison KA, Radtke WA. Improving the 
+outcome of high-risk neonates with hypoplastic left heart syndrome: hybrid 
+procedure or conventional surgical palliation? Eur J Cardiothorac Surg. (2008) 
+33:613–8. 
+doi: 10.1016/j.ejcts.2007.12.042
+35. Burkhart HM, Nakamura Y, Salkini A, Schwartz RM, Ranallo CD, Makil ES, et al. 
+Bilateral pulmonary artery banding in higher risk neonates with hypoplastic left heart 
+syndrome. JTCVS Open. (2023) 16:689–97. 
+doi: 10.1016/j.xjon.2023.08.005
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 15 frontiersin.org
+[[p16]]
+36. Wernovsky G, Ozturk M, Diddle JW, Muñoz R, d’Udekem Y, Yerebakan C. Rapid 
+bilateral pulmonary artery banding: a developmentally based proposal for the 
+management of neonates with hypoplastic left heart. JTCVS Open . (2023) 
+14:398–406. 
+doi: 10.1016/j.xjon.2023.03.009
+37. Dave H, Rosser B, Knirsch W, Hubler M, Pretre R, Kretschmar O. Hybrid approach 
+for hypoplastic left heart syndrome and its variants: the fate of the pulmonary arteries. 
+Eur J Cardiothorac Surg. (2014) 46:14–9. doi: 10.1093/ejcts/ezt604
+38. Hickey EJ, Caldarone CA, McCrindle BW. Critical left ventricular out/f_low tract 
+obstruction in neonates. J Thorac Cardiovasc Surg. (2011) 142:123–30.
+39. Emani SM, McElhinney DB, Tworetzky W, et al. Staged left ventricular 
+recruitment after single-ventricle palliation. Circulation. (2012) 126:S160–6.
+40. Hirano Y, Inamura N, Kawazu Y, Aoki H, Kayatani F, Iwai S, et al. Factors 
+associated with achievement of biventricular repair after bilateral pulmonary artery 
+banding in interrupted aortic arch. World J Pediatr Congenit Heart Surg. (2018) 
+9:54–9. 
+doi: 10.1177/2150135117737685
+41. Ota N, Murata M, Tosaka Y, Ide Y, Tachi M, Ito H, et al. Is routine rapid-staged 
+bilateral pulmonary artery banding before stage I Norwood a viable strategy? J Thorac 
+Cardiovasc Surg. (2014) 148:1519–25. 
+doi: 10.1016/j.jtcvs.2013.11.053
+42. Rychik J, Rome JJ, Collins MH, et al. The hypoplastic left heart syndrome: from 
+fetus to fontan. Circulation. (2013) 128:170–9.
+43. Gewillig M, Brown SC. The fontan circulation after 45 years. Eur Heart J. (2016) 
+37:1–8.
+44. Karimi M, Farouk A, Golden A, Gilkeson R. Hybrid palliation of interrupted 
+aortic arch in a high-risk neonate. Ann Pediatr Cardiol. (2010) 3:74–6. 
+doi: 10. 
+4103/0974-2069.64360
+45. Akintürk H, Yörüker U, Schranz D. Hypoplastic left heart syndrome 
+palliation: technical aspects and common pitfalls of the hybrid approach. 
+World J Pediatr Congenit Heart Surg . (2022) 13:588–92. doi: 10.1177/ 
+21501351221099935
+46. Russell HM, Pasquali SK, Jacobs JP, et al. Outcomes of bilateral pulmonary artery 
+banding in neonates with ductal-dependent circulation. Ann Thorac Surg. (2017) 
+103:147–54.
+47. Guleserian KJ, Sharma MS, Barker GM, et al. Outcomes after staged palliation 
+following bilateral pulmonary artery banding. Semin Thorac Cardiovasc Surg 
+Pediatr Card Surg Annu. (2015) 18:50–7.
+Irdem et al.                                                                                                                                                            10.3389/fcvm.2026.1803385
+Frontiers in Cardiovascular Medicine 16 frontiersin.org

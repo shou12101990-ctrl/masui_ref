@@ -1,0 +1,896 @@
+
+[[p1]]
+Comprehensive Review
+Management of Pediatric Pulmonary Vein Stenosis
+Ryan Callahan, MD a,*, Brian H. Morray, MD b, Russel Hirsch, MD c, Christopher J. Petit, MD d
+a Department of Cardiology, Boston Children ’s Hospital and Harvard Medical School, Boston, Massachusetts; b Division of Pediatric Cardiology, Seattle Children ’s Hospital
+and University of Washington School of Medicine, Seattle, Washington; c Heart Institute, Cincinnati Children ’s Hospital and University of Cincinnati College of Medicine,
+Cincinnati, Ohio; d Division of Pediatric Cardiology, Morgan Stanley Children ’s Hospital, NewYork-Presbyterian Hospital and Columbia University Vagelos College of
+Physicians and Surgeons, New York, New York
+ABSTRACT
+Pediatric intraluminal pulmonary vein stenosis has evolved into a chronic illness, with improving survival. Although signi ﬁcant knowledge gaps remain, medical
+providers have found success in the management of patients with pulmonary vein stenosis using a comprehensive multimodality treatment strategy. Th is review
+discusses the core principles employed by 4 centers dedicated to improving pulmonary vein stenosis outcomes, including how to make the diagnosis, ed ucating the
+family, treatment strategy, the importance of surveillance, and the management of symptoms and comorbidities.
+Initially labeled a fatal disease with no worthy treatment options,
+pediatric intraluminal pulmonary vein stenosis (PVS) has evolved into a
+chronic illness, with improving survival. Although there is no established
+treatment algorithm that can be successfully applied to all patients, in-
+stitutions dedicated to optimizing PVS outcomes have jointly recognized
+the core principles necessary for the treatment of patients with PVS. This
+article aims to present the shared real-world strategies from 4 institutions
+in the United States in the management of PVS. For a comprehensive
+literature review of PVS, please refer to the several recently published
+reviews.1-6
+Overview
+Pediatric intraluminal PVS is a disease of pulmonary vein wall
+thickening. Speci ﬁcally, hyperplasia (neointimal proliferation) of
+myoﬁbroblast-like cells in a loose myxocollagenous matrix, which typi-
+cally originates at the venoatrial junction, can extend distally or upstream
+into the intrapulmonary veins and lead to lumen obliteration. 7-9 This
+ﬁbromyxoid proliferation causing luminal narrowing is commonly seen
+at the location of vein distortion by the surrounding anatomy, leading
+some investigators to hypothesize that disturbed ﬂow and elevated wall
+shear stress (WSS) may play a role in the development of PVS. 10-13
+Although the exact incidence of patients with PVS is unknown, there is a
+perception of increasing numbers potentially due to an increase in
+awareness, improved survival of premature infants, and evolving de ﬁn-
+itive and palliative surgeries for complex congenital heart disease. The
+incidence of ex-full-term patients with structurally normal hearts pre-
+senting in the ﬁrst few months of life with PVS appears to be stable.
+Presentation
+Pediatric PVS typically presents in the initial years of life, most
+commonly in infancy. The clinical sequelae of PVS are the direct result of
+pulmonary venous hypertension from narrowing of the pulmonary veins.
+When the high pulmonary venous pressure exceeds plasma oncotic
+pressure, then transudation of protein-poor ﬂuid crosses the pulmonary
+endothelium into the pulmonary interstitium and alveoli. If the
+lymphatic system fails to clear the ﬂuid, then pulmonary edema occurs,
+resulting in ventilation-perfusion mismatch, hypoxemia, tachypnea, and
+work of breathing. Pulmonary venous hypertension can be combined
+with secondary postcapillary pulmonary hypertension (PH), both of
+which increase right ventricular (RV) afterload causing low cardiac
+output and compensatory tachycardia. The resultant excessive cardio-
+pulmonary caloric expenditure paired with symptoms of right-sided
+heart failure (feeding intolerance, agitation, etc.) leads to failure to
+thrive. Older children and young adults typically present with exercise
+intolerance as a result of RV hypertension and have a history of a single or
+multiple episodes of “pneumonia.” Rarely, patients can present with
+Abbreviations: BPD, bronchopulmonary dysplasia; CMR, cardiac magnetic resonance; CTA, computed tomography angiography; IVUS, intravascular ultrasound; LP,
+lung perfusion; PH, pulmonary hypertension; PVS, pulmonary vein stenosis; RV, right ventricular; WSS, wall shear stress.
+Keywords: congenital heart disease; management; pulmonary vein stenosis; therapy.
+* Corresponding author: Ryan.Callahan@cardio.chboston.org (R. Callahan).
+Contents lists available at ScienceDirect
+Journal of the Society for Cardiovascular
+Angiography & Interventions
+journal homepage: www.jscai.org
+https://doi.org/10.1016/j.jscai.2022.100391
+Received 14 February 2022; Received in revised form 27 April 2022; Accepted 1 June 2022
+Available online 30 June 2022
+2772-9303/© 2022 The Author(s). Published by Elsevier Inc. on behalf of the Society for Cardiovascular Angiography and Interventions Foundation. This is an open
+access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/).
+Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+[[p2]]
+hemoptysis/hematemesis secondary to pulmonary vein atresia and the
+formation of bronchial or esophageal varices from pulmonary venous
+hypertension and venovenous collateral formation. 14-16 In severe cases,
+usually provoked by an additional insult such as a lower respiratory
+illness or transcatheter intervention, hemoptysis from alveolar hemor-
+rhage can occur. 17
+There are several populations of patients who are at risk of PVS
+development ( Figure 1 ). The ex-full-term infant with a structurally
+normal heart presenting within the ﬁrst few months of life with failure to
+thrive and respiratory failure is an aggressive subtype and can occur in
+siblings, although, to this point, PVS has not been linked to a causal gene.
+Premature infants, typically with a left-to-right shunt (ie, patent arterial
+duct, atrial septal defect, ventricular septal defect), earlier gestation,
+bronchopulmonary dysplasia (BPD), and/or necrotizing enterocolitis,
+are at risk of PVS. 18-20 Earlier gestation and severe PH are associated
+with a higher risk of progressive multivessel PVS. 21 The location of PVS
+within the pulmonary veins in this population is not necessarily at the
+venoatrial junction but rather at the area of pulmonary vein distortion
+from the surrounding anatomy — speciﬁcally, the left upper pulmonary
+vein from the left posterior bronchus, the left lower pulmonary vein
+between the heart mass and aorta, and the right upper pulmonary vein
+from the right pulmonary artery, with the usual sparing of the right lower
+pulmonary vein. The pericardial re ﬂection may also play a role in ﬁxing
+the pulmonary veins, allowing for further vein distortion. The distortion
+progresses secondarily as thoracic conditions worsen: right pulmonary
+artery dilation in worsening PH, left bronchial dilation in chronic
+ventilation, and heart rotation stretching left lower pulmonary vein over
+aorta in chronic dependent atelectasis.
+10,12 “Secondary” or “post-
+operative” PVS is a well-known phenomenon occurring in patients born
+with anomalous pulmonary venous connections or obstructive atrial
+tissue (ie, cor triatriatum) requiring surgical repair. 22 Delineating the
+mechanism of postoperative pulmonary venous obstruction is critical, as
+the neointimal proliferation pathognomonic for PVS within the indi-
+vidual vessels does not always occur. Rather, the mechanism of
+obstruction includes an inadequate surgical con ﬂuence anastomosis,
+surgical scar, pulmonary vein distortion, and/or obstructive residual
+atrial tissue. Patients with congenital heart disease and normally con-
+nected pulmonary veins remain the most heterogeneous population at
+risk of PVS development. Trends can be seen in subgroups, such as an
+elevated overall or lobar Qp (pulmonary blood ﬂow) as a result of a
+left-to-right shunt or contralateral pulmonary artery stenosis, respec-
+tively, ﬂowing through a vulnerable vein (ie, common pulmonary vein).
+There is a growing concern over the incidence of PVS occurring
+following orthotopic heart transplantation and is postulated to be the
+result of an increase in Qp (compared with that before operation) and the
+integrity of the left atrium donor/recipient anastomosis. Lastly, there
+may be patients with a genetic susceptibility to PVS development, either
+innately (ie, Smith-Lemli-Opitz syndrome) or as a result of other
+comorbidities associated with the disease (ie, trisomy 21 ’s association
+with a left-to-right shunts, hypotonia, aspiration, apnea). 23-26
+Diagnosis
+Chest radiography
+Common chest radiography ﬁndings include interstitial and reticular
+opacities as a result of venous congestion and ﬂuid in the alveolar space
+e?PM?s???????M?s?????????K?
+intraluminal PVS. The various types of PVS are outlined. PVS, pulmonary vein stenosis; Qp, pulmonary blood ﬂow; TAPVC, total anomalous pulmonary
+venous connection.
+Figure 2. Chest radiograph of a 3-month-old child presenting with respi-
+ratory failure secondary to multivessel pulmonary vein stenosis . The image
+demonstrates a bilateral pattern of interstitial opacities as a result of pulmonary
+venous hypertension and interstitial edema. R, right.
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+2
+[[p3]]
+(Figure 2).27 There is typically asymmetric vascularity between lungs and
+abnormal distribution within each lung, with pulmonary edema more
+prominent in lung ﬁelds where vascularity is more prominent. 28 The
+heterogeneous patterns of opacities and vascularity occur as a result of
+blood ﬂow redistribution to unaffected or less affected veins. The chest
+radiography ﬁndings can be confounded by the sequelae of congenital
+heart disease and lung disease such as BPD.
+Echocardiography
+Ultrasound evaluation of the pulmonary veins is typically the ﬁrst
+comprehensive imaging modality that raises suspicion for PVS and can be
+employed as a longitudinal screening tool for initial diagnosis and for
+following disease progression. Mean vein gradients of 2 to 5 mm Hg, loss
+of phasic ﬂow, and decreased pulsatility on spectral Doppler are all used
+as criteria for the diagnosis of PVS. 4,29-31 However, echocardiography is
+limited in that it is unable to provide suf ﬁcient information on vein
+caliber, and the presence of distal disease and the spectral Doppler
+assessment of gradients may not accurately re ﬂect the degree of
+obstruction if the blood ﬂow to that segment of the lung is signi ﬁcantly
+reduced. Thus, it is typically used in conjunction with other imaging
+modalities, such as nuclear medicine lung perfusion (LP) scans and
+computed tomography angiography (CTA).
+Nuclear medicine LP scan
+Nuclear medicine LP scans are commonly used to diagnose PVS and
+monitor the progression of vein disease after treatment ( Figure 3 ). LP
+ﬁndings correlate with angiographic ﬁndings in the diagnosis of PVS. 32
+The radiation dose associated with the study depends on age, ranges from
+0.4 to 0.9 mSv, and is minimized only when the anterior/posterior pro-
+jections are obtained. LP scans are frequently used in conjunction with
+echocardiography to determine whether the changes in gradient
+measured on echocardiography are related to either a decrease or in-
+crease in lobar perfusion. For example, a gradient of 3 mm Hg by echo-
+cardiography may be signiﬁcant if the ﬂow is redistributed to other lobes.
+Further, a gradient of 8 mm Hg by echocardiography may be insigniﬁcant
+if the lobe receives the majority of the cardiac output from contralateral
+vein stenosis/atresia and the Doppler pattern remains phasic.
+CTA
+CTA is valuable in the initial diagnosis of PVS and for procedural
+planning and surveillance monitoring of disease progression. CTA
+provides excellent anatomic detail with a high spatial resolution that can
+determine the number of vessels involved, characterize the extent of
+disease in each vessel and in the case of previous stent implantation,
+determine the extent of in-stent restenosis. Radiation doses range from
+0.5 to 3 mSv depending on the equipment and technique used. Unlike
+conventional angiography, CTA can characterize the relationship of
+important surrounding vascular and soft tissue structures with the pul-
+monary veins and identify potential sites of venous distortion. Patients
+with PVS have characteristic extravascular thoracic multidetector CTA
+ﬁndings, including ground-glass opacity, septal thickening, pleural
+thickening, and an ill-de ﬁned, mildly heterogeneously enhancing, non-
+calciﬁed soft tissue mass surrounding the affected veins. 33 Further, CTA
+allows for the application of a scoring system of PVS severity that has
+been demonstrated to correlate well with lung disease severity and with
+PVS-related mortality.34,35
+Cardiac magnetic resonance imaging
+Cardiac magnetic resonance (CMR) imaging is less commonly
+employed as a screening or surveillance tool in the management of PVS.
+It is limited by the duration of the examination, the need for sedation,
+artifact from previous stent implantation as well as the limited spatial
+resolution it provides, particularly in smaller patients. Nevertheless,
+centers with expertise have adopted CMR imaging for PVS surveillance
+and characterization of PVS severity and disease location. 13 CMR imag-
+ing does provide functional data (such as phase-encoded velocity map-
+ping to calculate ﬂow) that echocardiography or CTA do not. CMR
+imaging also allows for more quantitative assessments of RV function and
+provides estimates of differential pulmonary blood ﬂow.36
+Invasive intraluminal imaging
+Intravascular ultrasound (IVUS) can visualize vessel wall architec-
+ture, making it a potentially valuable tool in the evaluation and treatment
+of PVS. IVUS has been demonstrated to be safe in infants, can assist in
+determining the mechanism of obstruction, identify features associated
+with restenosis, and guide interventions. 37,38 In addition, the histologic
+correlation of diseased veins with known PVS was performed using in
+vivo and in vitro samples, further characterizing the ultrasonographic
+features of PVS. 9 However, the primary limitation of IVUS in pediatric
+catheterization laboratories is the cost associated with acquiring the
+necessary equipment and a lack of experience in interpreting the images.
+A feasibility study on the use of optical coherence tomography in
+infants with advanced PVS was recently reported ( Figure 4 ). It has the
+advantage of offering high-resolution imaging quality but requires
+Figure 3. Nuclear medicine lung perfusion scan obtained before and after transcatheter intervention . The lung perfusion scan demonstrates decreased ﬂow to
+the left lung secondary to severe left common pulmonary vein stenosis (left). There is improved ﬂow to the left lung following transcatheter intervention (right).
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+3
+[[p4]]
+replacing the local blood pool with saline. 39 Although the clinical
+application is yet to be determined, Zablah et al 39 were able to charac-
+terize lesions such as intraluminal endothelial tears and dissections that
+resulted from balloon venoplasty.
+Angiography
+Conventional angiography remains the gold standard for evalu-
+ating pulmonary venous anatomy and con ﬁrming the diagnosis of PVS
+and is necessary for performing transcatheter interventions. Hemo-
+dynamics is ﬁrst obtained to determine the severity of secondary PH
+and right-sided heart failure, followed by angiography. Wedge in-
+jections into pulmonary artery segmental branches using a balloon-
+tipped catheter in combination with retrograde injections into the
+lobar pulmonary veins provide a detailed assessment of the pulmonary
+venous anatomy and characterize the involvement and extent of dis-
+ease in each vein. It is noteworthy that retrograde venography offers a
+distinct advantage over traditional pulmonary artery wedge angiog-
+raphy in its ability to de ﬁne the entire lobar pulmonary vein anatomy
+(Figures 5 and 6).
+As with CTA, angiographic scoring systems have been developed to
+characterize the severity of disease in each pulmonary vein. 10,40 The
+baseline vein score and involved vessel location were shown to correlate
+with vein outcome in a study evaluating the use of imatinib mesylate in a
+cohort of patients with multivessel PVS. 10 Further, Patel et al 40 have
+developed a thoughtful PVS scoring system to standardize the language
+for describing PVS.
+Transcatheter interventions, speci ﬁcally venoplasty, can assist in
+understanding and delineating the mechanism of pulmonary venous
+obstruction and PVS disease severity. For example, obstructive atrial
+tissue or vein compression will be compliant without a waist on balloon
+inﬂation, a kink will cause the balloon to fold on de ﬂation, and the vessel
+wall in severe PVS will be noncompliant, milking an in ﬂated balloon into
+the atrium.
+Surgery
+The gross intraoperative appearance of PVS observed at the time of
+surgical repair demonstrates abnormalities in the affected veins and the
+surrounding atrial wall. The diseased veins exhibit ostial thickening and
+luminal narrowing with distal/upstream vasculature ranging from large,
+thin-walled veins to miniscule strings as a result of venoatrial atresia. The
+atrial wall surrounding diseased veins has the “off-white” appearance of
+endocardial ﬁbroelastosis. Other unique features and mechanisms can be
+delineated, such as slight malposition of the atrial septum with attach-
+ments obstructing the right lower pulmonary vein ostium. Samples of
+pulmonary veins can be sent to pathology for review to con ﬁrm the
+diagnosis.7
+Educating the family
+It is critical that a thorough counseling session occurs with the family
+at the time of PVS diagnosis to ensure optimal understanding of the
+disease and the treatment options. This conversation is akin to the
+Figure 4. Optical coherence tomography scan of the pulmonary vein . Image demonstrates pulmonary vein with a history of stent implantation and current
+evidence of ingrowth, also known as in-stent restenosis (left, center). There are several areas of wall injury following cutting balloon venoplasty (right).
+Figure 5. Comparison of pulmonary artery wedge angiography versus retrograde venography in the right upper pulmonary vein . Wedge angiography (left)
+demonstrating possible ostial narrowing of the right upper pulmonary vein. Retrograde venography (right) via long sheath with opaci ﬁcation of the entire right upper
+and right middle pulmonary veins and better delineation of stenoses distal to the venoatrial junction.
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+4
+[[p5]]
+discussion that attends the diagnosis of leukemia in childhood — there is
+an expectation of survival but with focus and attention paid by the pa-
+tient’s medical team and medical home. The carefully constructed dialog,
+which covers the challenging course ahead and the risk of major mor-
+bidities and mortality and is balanced by the optimism of the team,
+requires time, preparation, and humility.41 Although the decision to treat
+PVS initially can appear relatively straightforward, it is necessary to
+explain that the rami ﬁcations of entering the “therapeutic pathway” for
+PVS require a commitment by both the providers and parents. 42 Multi-
+vessel PVS therapy includes intensive multimodality treatments,
+including recurrent invasive interventions, polypharmacy, frequent tes-
+ting/blood draws, radiation exposure, and prolonged hospitalizations
+(Central Illustration ). Although every patient is unique in their clinical
+course, characterizing the risk pro ﬁle for each patient on the basis of
+studied clinical factors can be helpful when educating the family. Pa-
+tients who are at risk of a poor outcome include those with a younger age
+and/or lower weight at presentation, a higher number of affected veins,
+higher severity of disease in the affected veins, severe secondary PH,
+presence of RV dysfunction, and aspiration. 13,29,35,43-48 Patients with
+single-ventricle physiology are particularly vulnerable. Patients who
+respond to therapy thrive, require fewer and less frequent interventions,
+have shorter hospital stays following reintervention, and have declining
+RV pressure. PVS disease activity typically “burns out” sometime after 4
+years of age, and the long-term survival is determined by the amount of
+remaining healthy, preserved pulmonary vein bed. Intermittent reinter-
+ventions may be required depending on the degree of residual scar within
+the previously affected veins. Social stressors for families are innumer-
+able and include, but are not limited to, quality-of-life considerations,
+ﬁnancial strains (especially if traveling for care), rapid decline in clinical
+status, lengthy hospitalizations, sibling(s) understanding, and other
+family life stressors. Expert consultation from palliative care medicine is
+recommended at the time of diagnosis, and frequent reassessment of
+patient/parent goals is recommended throughout the treatment course.
+Treatment
+The core principles for the treatment of PVS include the following: (1)
+diagnose and remove the potential PVS stimulus, (2) identify the
+Central Illustration. The pathway to pulmonary vein stenosis (PVS) survival . The health care interaction timeline demonstrates the clinical path of a 5-month-
+old infant who initially presented with cardiogenic shock, severe coarctation, left ventricular dysfunction and multivessel PVS. Over the course o f 6 years, the patient
+required numerous transcatheter and surgical pulmonary vein interventions, systemic sirolimus medical therapy, surveillance testing, and frequ ent hospitalizations.
+The timeline demonstrates a decreasing frequency of tests and interventions with increasing age, illustrating the impact of therapy on PVS stabiliz ation. 3D,
+3-dimensional; cath, catheter; CT, computed tomography; PV, pulmonary vein.
+Figure 6. Left common pulmonary vein venography . Retrograde venog-
+raphy via guide catheter demonstrates in-stent restenosis, opaci ﬁcation of the
+entire left lower vein, and atresia of the left upper segment with interlobar
+collaterals.
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+5
+[[p6]]
+anatomic substrate for PVS, (3) establish and maintain normal pulmo-
+nary vein pressures by treating PVS lesions using transcatheter and/or
+surgical techniques, and (4) suppress the proin ﬂammatory state and
+myoﬁbroblastic activity with medical therapy to prevent or retard PVS
+recurrence and progression. 10,31,49,50
+Remove the stimulus
+Although the exact etiology of PVS is unresolved, several known di-
+agnoses are associated with either the development of PVS or refractory
+PVS despite multimodality therapies. Lung disease of any kind, including
+BPD, interstitial lung disease, malacia, apnea, chronic atelectasis, lower
+respiratory infections, and aspiration, are associated with PVS. 19-21,31,48
+Patients with aspiration, in particular, are more likely to have a poor
+treatment response.48 It is unclear whether it is the in ﬂammatory process
+associated with these conditions that is the initial nidus in the lungs that
+ultimately drives the ﬁbromyxoid proliferation in the veins. Alterna-
+tively, the lung issues may simply be stretching or distorting the pul-
+monary veins secondary to arterial/bronchial dilation, lung
+hyperinﬂation, atelectasis, and airspace disease, which stimulates neo-
+intimal hyperplasia. The assumption is that it is a combination of both,
+and all should be promptly diagnosed and aggressively managed.
+The presence of a left-to-right shunt is associated with PVS in pre-
+mature infants and patients with trisomy 21. 20,24 It is hypothesized that
+excessive overall or lobar Qp (from contralateral pulmonary artery or
+vein stenosis, for instance) increases WSS in the pulmonary veins,
+contributing to neointimal hyperplasia. 10,13 Using data from catheteri-
+zation, CTA, and LP scans, Hammer et al11 demonstrated elevated WSS in
+the pulmonary veins of 2 patients with refractory PVS. However, it was
+not until the WSS normalized that stabilization occurred. Therefore,
+signiﬁcant left-to-right shunts are closed at the time of PVS diagnosis in
+an effort to mitigate PVS progression. “Fenestrated” closure is performed
+for atrial septal defects to allow access for future transcatheter in-
+terventions. Additionally, signi ﬁcant pulmonary artery stenosis, if pre-
+sent, is treated to normalize pulmonary blood ﬂow distribution.
+Identify the anatomic substrate
+Identifying the mechanism of obstruction is critical in the manage-
+ment of PVS. Although not all pulmonary venous obstructions lead to
+neointimal hyperplasia, most pulmonary veins in which PVS develops
+have an underlying anatomic and/or physiologic substrate that causes
+disturbed ﬂow. Examples include the following: (1) postoperative PVS
+with inadequate surgical anastomosis, surgical scar, or residual atrial
+tissue; (2) normally connected pulmonary veins with distortion from the
+surrounding anatomy; (3) vulnerable anatomy such as a left common
+pulmonary vein and a dilated left atrium (ventricular septal defect or
+mitral regurgitation), which exacerbates the vein compression between
+the posterior aorta and anterior atrium; (4) unique normally connected
+pulmonary veins prone to kinking at entry, particularly if cardiomegaly
+or atelectasis causes heart rotation; (5) stretched pulmonary veins such as
+those that occur in the left-sided pulmonary veins of patients with
+scimitar syndrome and dextroposition; or (6) extension of the atrial
+septum into the ostium of a right-sided pulmonary vein. A combination of
+cardiac angiography, CTA, and/or IVUS is necessary to fully understand
+the anatomic substrate for PVS.
+Treat the stenosis
+The mainstay of PVS treatment is the ability to effectively relieve the
+stenosis (and restenosis) using transcatheter and surgical interventional
+techniques with the goal of minimizing postintervention gradients and
+encouraging laminar ﬂow. Given the unique geometric shape and sur-
+rounding anatomy of individual pulmonary veins (ie, right upper, left
+upper, etc.) and the heterogeneity of pulmonary venous anatomy among
+patients, there is no one-size- ﬁts-all intervention for all pulmonary veins.
+Decision making is further complicated by the lack of randomized studies
+comparing treatment techniques among similar populations. The “best”
+type of intervention and reintervention depends on the mechanism of
+obstruction and the experience of the treating institutions and individual
+operators. With this in mind, the general principles of surgical and
+transcatheter interventions for PVS are discussed.
+The timing and type of surgical repair of pulmonary venous
+obstruction are contingent on the mechanism of obstruction, the pul-
+monary vein anatomy and disease severity at the time of presentation,
+and the experience of the treating institution. PVS in patients with nor-
+mally connected veins that have not undergone a previous surgical
+intervention is commonly offered surgery at presentation. Proximal/
+downstream lesions with preserved distal/upstream vasculature are ideal
+compared with more diffuse diseases.
+13 Further, surgery is preferred for
+geometrically distorted veins with neointimal proliferation not amenable
+to balloon dilation only.12 In patients with pulmonary venous obstruction
+following anomalous pulmonary venous connection repair, reoperation
+is performed if the obstruction is localized to the con ﬂuence anastomosis
+or secondary to residual atrial tissue, as seen in the cardiac subtypes
+(coronary sinus or superior vena cava/right atrium junction). The
+sutureless technique is the most common technique used for pulmonary
+venous obstructions, is superior to conventional repairs, and has a lower
+incidence of restenosis if performed at the time of the neonatal anoma-
+lous venous connection repair. 2,10,13,51,52 Feins et al 12 reported a
+single-center experience with the “anatomic repair, ” which extends the
+left atrium laterally to the pulmonary veins distal to the stenosis, initially
+with homograft patch plasty but more recently using an autologous atrial
+ﬂap. The technique demonstrated a survival bene ﬁt compared with
+sutureless techniques but without a decrease in postoperative reinter-
+ventions. Although not reported, there is a growing experience of the
+anatomic repair being performed in combination with complete/partial
+stent removal for refractory in-stent restenosis.
+Most physicians managing PVS believe that transcatheter in-
+terventions are the mainstay of therapy for PVS, although there is debate
+within the ﬁeld regarding the type and timing of interventions. A mini-
+malistic, less invasive approach can be applied when stimuli for PVS are
+identiﬁed and overcome. For instance, for an ex-premature infant with a
+history of BPD in which the chest radiography has normalized, is off or
+nearly off oxygen, and has 2-vessel PVS without severe secondary PH,
+only balloon venoplasty is a reasonable ﬁrst-line approach. On the con-
+trary, there are patients with refractory PVS with poor outcomes despite
+maximum medical and interventional therapies (surgery, balloon, stent,
+etc.). The middle ground remains gray but general principles can be
+applied, and institutions should rely on their individual strengths, with
+the option of receiving outside consultation and/or referral to more
+experienced centers as needed. In general, transcatheter interventions
+are indicated for restenosis following surgical repair, rehabilitating
+distal/upstream disease (including vein atresia), and as primary therapy
+per institutional preference. Both conventional and cutting balloon
+venoplasty can relieve vein stenosis with no clear advantage with regard
+to preventing restenosis. 53 The goal of venoplasty is to perform an
+effective dilation, de ﬁned as the resolution of the waist with an appro-
+priately sized balloon that provides angiographic resolution of the ste-
+nosis. PVS lesions early in the disease course and “burned out ” lesions,
+suspected to be scar, in early school –aged kids tend to resolve with low-
+to high-pressure venoplasty. Some native and postoperative lesions,
+especially those that underwent patch plasty and veins status post stent
+implantation, may require ultrahigh-pressure balloons for effective
+dilation. Cutting balloon venoplasty may be required for resistance le-
+sions, when diseased veins become noncompliant and milk out conven-
+tional balloons and for treating in-stent restenosis. Stent implantation is
+indicated for a severe residual obstruction/gradient despite effective
+balloon venoplasty, recurrent PVS despite effective balloon venoplasty,
+following the recanalization of vein atresia, and large veins of at least 8
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+6
+[[p7]]
+mm in diameter.54-56 Drug-eluting stents are superior to bare metal stents
+with regard to the in-stent restenosis growth rate and should be consid-
+ered if a stent is placed in a vein measuring <6 mm. 57 It is noteworthy
+that stent implantation requires reintervention for stent redilation until
+the vein is adult-size, it is not free of refractory in-stent restenosis, and
+not all drug-eluting stents are guaranteed to fracture as is required to
+achieve diameters of >8 mm.
+Suppress the disease activity
+Targeted medical therapy for PVS aims to prevent, slow, or stop the
+myoﬁbroblastic activity responsible for the neointimal proliferation and
+the luminal narrowing in PVS. Patients with at least 2-vessel PVS
+conﬁrmed with angiography, IVUS, and/or surgical biopsy at the time of
+pulmonary vein repair are considered candidates for medical therapy.
+Patients who are at low risk (older at diagnosis, with fewer vessels
+involved, no signi ﬁcant PH, and normal RV systolic function) whose
+potential PVS stimulus is identi ﬁed and overcome can be observed after
+intervention without medical therapy until restenosis occurs. Imatinib
+mesylate targets platelet-derived growth factor receptors on the surface
+of the myoﬁbroblast-like cells and, when given as part of a multimodality
+approach, is associated with a decreased mortality rate. 7,8,12,58 Patients
+who receive at least 90% of their doses were less likely to require rein-
+terventions.10,31 Bevacizumab is another tyrosine kinase receptor in-
+hibitor (antivascular endothelial growth factor receptor) and is
+considered for patients who are at a high risk (ex-full-term, structurally
+normal heart) and those with PVS progression while receiving imatinib
+mesylate.31 The risk–beneﬁt ratio of bevacizumab should be considered
+in all patient populations, including premature infants who rely on
+vascular endothelial growth factors for organ development.
+Systemic sirolimus therapy is currently being used at some centers
+either to combat in-stent restenosis ( Figure 6 ) or as primary immuno-
+modulatory therapy to retard PVS progression and recurrence. 50 Siroli-
+mus curbs the proliferation and migration of local smooth muscle cells
+via mTOR inhibition and decreases neointimal growth rate following
+transcatheter reintervention.59 When used to treat in-stent restenosis, an
+8-week course of sirolimus may be prescribed. When used as the primary
+therapy for PVS, on the basis of recent evidence, sirolimus may be used
+for 12 to 24 months and should be paired with frequent surveillance and
+reinterventions.50
+All medical therapies should be provided under the guidance of an
+experienced medical provider and/or oncologist. Regular laboratory
+surveillance is required to monitor for drug toxicities and, in the case of
+sirolimus, therapeutic levels. The evidence supporting their use in PVS is
+from nonrandomized cohorts without true control groups. Therefore,
+caution should be maintained when considering the adoption of these
+therapies for entire PVS cohorts. Finally, regardless of the manner and
+method of primary medical therapy, close anatomic surveillance and
+therapy (transcatheter or surgical) need to be maintained to optimize
+outcomes.
+Surveillance
+Critical to the management of PVS is monitoring for restenosis or new
+stenosis in previously unaffected veins. The most aggressive disease can
+develop restenosis in weeks after an intervention. However, most active
+patients initially recur every approximately 6 to 8 weeks, then approxi-
+mately 3 months, and then approximately 6 months, until stabilization
+occurs. Under the assumption that all patients have aggressive disease at
+the time of diagnosis, monthly clinical assessment and testing are per-
+formed for 3 months and then spaced out if no restenosis occurs. This is
+repeated following any reintervention for restenosis or after discontin-
+uation of medical therapy. The type of noninvasive testing varies by
+center and includes transthoracic echocardiograms (sedated if necessary)
+paired with LP scans or serial CTA and, less commonly, serial CMR im-
+aging. Clinical symptoms of restenosis are similar to the initial presen-
+tation and include new or worsening respiratory symptoms, feeding
+intolerance, irritability, and/or fever of unknown origin. Patients pre-
+senting with fever are ruled out for infection before reintervention unless
+they are critically ill and require pulmonary vein reintervention for
+survival. Echocardiographic evidence of pulmonary vein restenosis in-
+cludes new or worsening pulmonary vein gradients not confounded by
+anemia, agitation or obstructive hardware, increasing RV pressure, and/
+or worsening RV dysfunction. Restenosis by LP scan is represented by at
+least a 10% decrease in LP if unilateral disease and/or by a subjective
+decrease in lobar perfusion. Of note, the LP scan may not change if there
+is simultaneous 4-vessel restenosis. Further, the test can be confounded
+by pulmonary artery stenosis and by temporary lung issues such as
+airspace disease or atelectasis.
+Managing symptoms
+Diuretics are used for the clinical sequelae of pulmonary edema.
+Multiple agents with electrolyte replacement therapy may be required in
+patients with 3 to 4 vessel involvement. Quantities needed for symptom
+relief are quite dynamic and are based on disease activity and timing of
+last intervention; nadir typically approximately 2 weeks following the
+last intervention and escalation, including the possible need for intra-
+venous therapy leading up to an intervention. Patients with severe dis-
+ease involving the atrial wall and/or patients with a history of extensive
+PVS repairs may develop left atrium noncompliance, requiring chronic
+diuretic therapy even after PVS stabilization.
+Infants and children with PVS experience poor growth likely due to a
+combination of high-caloric expenditure, feeding intolerance from right-
+sided heart failure, reduced gut perfusion, and the side effects of poly-
+pharmacy. Patients may require greater calories to achieve anabolic
+metabolism (eg, >120 kcal/kg/day) and most require gastrostomy tube
+placement to reach this goal. Close collaboration with a nutritionist as
+well as a pediatric gastroenterologist may be necessary. Further, a
+feeding evaluation is performed at diagnosis and following surgical in-
+terventions with the goal of eliminating the risk of aspiration.
+48
+In severe PVS cases, hemoptysis can occur as a result of alveolar or
+capillary hemorrhage or airway collaterals from vein atresia and insuf ﬁ-
+cient pulmonary venous egress. Treatment is largely supportive — includ-
+ing positive-pressure ventilation — but may result in the need for a
+pneumonectomy when vein patency cannot be achieved. However,
+pneumonectomy is truly a last resort solution reserved for refractory he-
+moptysis, given the intensity of the surgery, the risk of scoliosis, and the
+resultant intrathoracic shifting, potentially worsening contralateral PVS.
+Comorbidities
+PVS may present in isolation or be associated with several other
+comorbidities with substantial overlap. Frequently, the presence of one
+or other of those comorbidities leads to screening during which PVS is
+identiﬁed, at which point PVS may become the predominant diagnosis.
+Many of those associations have been addressed previously in this review
+but can be categorized in the following manner:
+Prematurity
+Although etiologically unclear at this time, prematurity is closely
+associated with PVS and should be part of serial screening in this popu-
+lation. In addition, as more centers have adopted protocoled programs
+for composite evaluation and management in the premature and
+extremely premature population, echocardiography as the primary
+screening tool should include a composite evaluation of all pulmonary
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+7
+[[p8]]
+veins with each incident scan. The totality of the short- and long-term
+impact of prematurity is not within the scope of this article but in-
+cludes cognitive delay, cerebral palsy, chronic lung disease (BPD) and
+associated airway abnormalities, retinopathy of prematurity, hearing
+impairment, and an increased risk of necrotizing enterocolitis. 60 Not
+infrequently, therapies required for those associated conditions may
+impact the treatment of PVS and need to be considered regarding the
+timing of testing and cardiac catheterization and any adjuvant therapies
+that may be indicated. In particular, lower respiratory infections or other
+septic events could result in the delay of planned or protocoled in-
+terventions on pulmonary veins. 60
+PH
+PH frequently complicates PVS in infants with a history of prematurity
+and chronic lung disease and may exacerbate an underlying substrate that is
+likely to predispose them to the development of high pulmonary vascular
+resistance.61 In 1 multicenter cohort, two-thirds of patients with PVS pre-
+sented with PH at a mean age of 6.5 months.29 Diagnosis of RV hypertension
+and PH concomitant with that of PVS presents both a diagnostic and ther-
+apeutic dilemma. Although no speci ﬁc guidelines exist regarding acute
+vasodilator testing for this population, caution should be employed when
+performing reactivity testing during cardiac catheterization. 62 Particular
+attention should be paid to a potential diagnosis of pulmonary
+veno-occlusive disease in premature infants with chronic lung disease/BPD
+with worsening PH despite no obvious single- or multiple-vessel disease.
+Although acute segmental pulmonary edema may result from vasodilation
+upstream from an obstructed pulmonary venous segment, rare case reports
+have described the successful use of inhaled nitric oxide in isolated in-
+stances.63 The mainstay of therapy for PH in PVS remains the alleviation of
+the mechanical obstruction. Equal distribution of pulmonary blood ﬂow
+across a vascular bed with equilibration of resistance provides the ideal
+scenario for the most effective application of drug therapy. Further, the
+alleviation of ventilation/perfusion mismatch inherent to PVS optimizes
+mechanical (or spontaneous) ventilation, normalizing physiology to the
+extent possible and maximizing response to vasodilator therapy. To date,
+pulmonary vasodilator drugs have not been approved by the United States
+Food and Drug Administration for use in World Health Organ-
+ization–deﬁned group III PH (PH secondary to developmental lung disease).
+However, the postcapillary nature of PH resulting from PVS has received
+some attention, and drug therapy may be indicated. 64 RV hypertension
+reﬂects either PVS progression or associated secondary PH— both of which
+require some form of therapy. Without intervention, RV hypertension can
+lead to restricted cardiac output and death. 47 Although historically
+controversial, there is growing evidence suggesting not only the safety of
+pulmonary vasodilators in the setting of PVS but also efﬁcacy and utility in
+patients with severe PVS.47,50,65 Any use of standard pulmonary vasodila-
+tors in this population should be done so with due caution and carefully
+planned reevaluation to determine the efﬁcacy or progression of PVS. Pul-
+monary vasodilators are never indicated with diffuse, symmetrical PVS,
+similar to the contraindication with the pulmonary veno-occlusive disease.
+PH with deterioration of RV function in the presence of unremitting PVS and
+maximal tolerated pulmonary vasodilator therapy should provide justi ﬁ-
+cation for the evaluation of lung transplantation.46
+Genetic syndromes
+Genetic analysis of large cohorts of patients with PVS remains
+nascent. However, a single-center cohort of 71 patients with available
+material demonstrated identi ﬁable abnormalities in one-third of those
+individuals. In that cohort, trisomy 21 was the commonest ﬁnding
+GTVDHK???rLkLn??GQQDHM?QT?bL
+ities with known concomitant syndromes would be evaluated in light of
+those related primarily to PVS.
+Summary
+Children with rare, life-threatening disease such as PVS appear to
+beneﬁt from establishing focused clinical programs that can surveil
+during the most critical at-risk time points. 66 Such programs ful ﬁll a
+number of purposes: (1) creation of evidence-based treatment and
+surveillance algorithms, (2) delivery of consistent care based on
+enhanced attention and observance of said algorithms, and (3) careful
+and intentional introduction of novel therapies in particularly vulner-
+able members of the cohort. Patients with PVS likewise bene ﬁtf r o ma
+focused, multidisciplinary team with specialists from a broad spectrum
+to support not only the cardiac, pulmonary, and circulatory sequelae of
+this disease but also the developmental, gastrointestinal, and pharma-
+cologic complications.
+Much remains to be discovered in the ﬁeld of pediatric PVS. Fortu-
+nately, there are now >10 pediatric PVS programs in the United States
+dedicated to improving PVS outcomes. Emerging efforts include the
+recent Pulmonary Vein Stenosis Symposium — a 2-day meeting held at
+Atlanta in 2021 — and the creation of multicentered collaborations to
+collect data and share lessons ( www.pvsnetwork.org). Collaborative ef-
+forts such as these will be critical in accelerating discoveries and opti-
+mizing outcomes in this challenging population.
+Acknowledgments
+The authors acknowledge Christopher W. Baird, MD, for providing
+the gross intraoperative appearance of pulmonary vein stenosis.
+Declaration of competing interest
+Dr Morray is a consultant for Medtronic plc and proctor for Abbott
+Laboratories. Drs Callahan, Hirsch, and Petit reported noﬁnancial interests.
+Funding sources
+This research did not receive any speciﬁc grant from funding agencies
+in the public, commercial, or not-for-pro ﬁt sectors.
+Ethics statement
+Ethical or institutional review board approval was not required for a
+comprehensive review where no humans or animals were studied.
+References
+PM?i?`uK?a?bgK?b?bkK?r?buK?k?osK?a?ljM?o?
+vein stenosis: a new look at a rare but challenging disease. Neoreviews. 2021;22(5):
+e296–e308. https://doi.org/10.1542/neo.22-5-e296
+2. Vanderlaan RD, Rome J, Hirsch R, Ivy D, Caldarone CA. Pulmonary vein stenosis:
+treatment and challenges. J Thorac Cardiovasc Surg . 2021;161(6):2169 –2176.
+https://doi.org/10.1016/j.jtcvs.2020.05.117
+3. Humpl T, Fineman J, Qureshi AM. The many faces and outcomes of pulmonary vein
+stenosis in early childhood. Pediatr Pulmonol . 2021;56(3):649 –655. https://doi.org/
+10.1002/ppul.24848
+4. Nasr VG, Callahan R, Wichner Z, Odegard KC, Dinardo JA. Intraluminal pulmonary
+vein stenosis in children: a “new” lesion. Anesth Analg . 2019;129(1):27 –40. https://
+doi.org/10.1213/ANE.0000000000003924
+5. McLennan DI, Solano ECR, Handler SS, Lincoln J, Mitchell ME, Kirkpatrick EC.
+Pulmonary vein stenosis: moving from past pessimism to future optimism. Front
+Pediatr. 2021;9:747812. https://doi.org/10.3389/FPED.2021.747812
+6. Frank DB, Levy PT, Stiver CA, et al. Primary pulmonary vein stenosis during infancy:
+state of the art review. J Perinatol . 2021;41(7):1528 –1539, A10. https://doi.org/
+10.1038/s41372-021-01008-7
+7. Kovach AE, Magcalas PM, Ireland C, et al. Paucicellular ﬁbrointimal proliferation
+characterizes pediatric pulmonary vein stenosis: clinicopathologic analysis of 213
+samples from 97 patients. Am J Surg Pathol . 2017;41(9):1198–1204. https://doi.org/
+10.1097/PAS.0000000000000892
+8. Sadr IM, Tan PE, Kieran MW, Jenkins KJ. Mechanism of pulmonary vein stenosis in
+infants with normally connected veins. Am J Cardiol . 2000;86(5):577 –579, A10.
+https://doi.org/10.1016/s0002-9149(00)01022-5
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+8
+[[p9]]
+9. Callahan R, Gauthier Z, Toba S, Sanders SP, Porras D, Vargas SO. Correlation of
+intravascular ultrasound with histology in pediatric pulmonary vein stenosis.
+Children (Basel) . 2021;8(3):193. https://doi.org/10.3390/children8030193
+10. Callahan R, Gauvreau K, Marshall AC, et al. Outcomes in establishing individual
+vessel patency for pediatric pulmonary vein stenosis. Children (Basel). 2021;8(3):210.
+https://doi.org/10.3390/children8030210
+11. Hammer PE, McEnaney K, Callahan R, Baird CW, Hoganson DM, Jenkins KJ. The role
+of elevated wall shear stress in progression of pulmonary vein stenosis: evidence
+from two case studies. Children (Basel). 2021;8(9):729. https://doi.org/10.3390/chil
+dren8090729
+12. Feins EN, Ireland C, Gauvreau K, et al. Pulmonary vein stenosis: anatomic
+considerations, surgical management, and outcomes. J Thorac Cardiovasc Surg . 2022;
+163(6):2198–2207. https://doi.org/10.1016/j.jtcvs.2021.10.022
+13. Lo Rito M, Gazzaz T, Wilder TJ, et al. Pulmonary vein stenosis: severity and location
+predict survival after surgical repair. J Thorac Cardiovasc Surg . 2016;151(3):
+657–666.e2. https://doi.org/10.1016/j.jtcvs.2015.08.121
+14. Walsh A, Canny G, McMahon CJ, Redmond JM, McNally P. Hemoptysis from
+bronchial varices associated with pulmonary vein stenosis: role of surgical repair.
+Pediatr Pulmonol . 2013;48(8):838 –840. https://doi.org/10.1002/ppul.22659
+15. Goldberg JF, Jensen CL, Krishnamurthy R, Varghese NP, Justino H. Pulmonary vein
+stenosis with collateralization via esophageal varices: long-term follow-up after
+successful treatment with drug-eluting stent. Congenit Heart Dis . 2018;13(1):
+124–130. https://doi.org/10.1111/chd.12537
+16. Braun S, Platzek I, Z €ophel K, et al. Haemoptysis due to pulmonary venous stenosis.
+Eur Respir Rev . 2014;23(132):170 –179. https://doi.org/10.1183/09059180.00003
+713
+17. West JB, Mathieu-Costello O. Vulnerability of pulmonary capillaries in heart disease.
+Circulation. 1995;92(3):622 –631. https://doi.org/10.1161/01.cir.92.3.622
+18. Heching HJ, Turner M, Farkouh-Karoleski C, Krishnan U. Pulmonary vein stenosis
+and necrotising enterocolitis: is there a possible link with necrotising enterocolitis?
+Arch Dis Child Fetal Neonatal Ed . 2014;99(4):F282 –F285. https://doi.org/10.1136/
+archdischild-2013-304740
+19. Swier NL, Richards B, Cua CL, et al. Pulmonary vein stenosis in neonates with severe
+bronchopulmonary dysplasia. Am J Perinatol . 2016;33(7):671 –677. https://doi.org/
+10.1055/s-0035-1571201
+20. Drossner DM, Kim DW, Maher KO, Mahle WT. Pulmonary vein stenosis: prematurity
+and associated conditions. Pediatrics. 2008;122(3):e656–e661. https://doi.org/10.15
+42/peds.2008-0075
+21. Zettler E, Rivera BK, Stiver C, et al. Primary pulmonary vein stenosis among
+premature infants with single-vessel disease. J Perinatol . 2021;41(7):1621 –1626.
+https://doi.org/10.1038/s41372-020-00830-9
+22. Seale AN, Uemura H, Webber SA, et al. Total anomalous pulmonary venous connection:
+outcome of postoperative pulmonary venous obstruction.J Thorac Cardiovasc Surg.2 0 1 3 ;
+145(5):1255–1262. https://doi.org/10.1016/j.jtcvs.2012.06.031
+23. Prosnitz AR, Leopold J, Irons M, Jenkins K, Roberts AE. Pulmonary vein stenosis in
+patients with Smith-Lemli-Opitz syndrome. Congenit Heart Dis . 2017;12(4):475 –483.
+https://doi.org/10.1111/chd.12471
+2 4 . C h o iC ,G a u v r e a uK ,L e v yP ,C a l l a h a nR ,J e n k i n sK J ,C h e nM .L o n g e re x p o s u r et o
+left-to-right shunts is a risk factor for pulmonary vein stenosis in patients with
+trisomy 21. Children (Basel) . 2021;8(1):19. https://doi.org/10.3390/children80
+10019 .
+25. Zaidi AH, Yamada JM, Miller DT, et al. Clinical syndromic phenotypes and the
+potential role of genetics in pulmonary vein stenosis. Children (Basel). 2021;8(2):128.
+https://doi.org/10.3390/children8020128
+26. McDowell KM, Craven DI. Pulmonary complications of Down syndrome during
+childhood. J Pediatr. 2011;158(2):319–325. https://doi.org/10.1016/j.jpeds.2010.0
+7.023
+27. Mayhew CE, Lee EY, Balasubramanian S, et al. Chest radiographic ﬁndings in
+pediatric patients with intraluminal pulmonary vein stenosis. Congenit Heart Dis .
+2014;9(2):151–157. https://doi.org/10.1111/chd.12105
+28. Adey CK, Soto B, Shin MS. Congenital pulmonary vein stenosis: a radiographic study.
+Radiology. 1986;161(1):113–117. https://doi.org/10.1148/radiology.161.1.3763853
+29. Mahgoub L, Kaddoura T, Kameny AR, et al. Pulmonary vein stenosis of ex-premature
+infants with pulmonary hypertension and bronchopulmonary dysplasia,
+epidemiology, and survival from a multicenter cohort. Pediatr Pulmonol. 2017;52(8):
+1063–1070. https://doi.org/10.1002/ppul.23679
+30. Lin Y, Amin EK, Keller RL, Teitel DF, Nawaytou HM. Doppler echocardiographic
+features of pulmonary vein stenosis in ex-preterm children. J Am Soc Echocardiogr .
+2022;35(4):435–442. https://doi.org/10.1016/j.echo.2021.12.015
+31. Callahan R, Kieran MW, Baird CW, et al. Adjunct targeted biologic inhibition agents
+to treat aggressive multivessel intraluminal pediatric pulmonary vein stenosis.
+J Pediatr . 2018;198:29 –35.e5. https://doi.org/10.1016/j.jpeds.2018.01.029
+32. Drubach LA, Jenkins KJ, Stamoulis C, Palmer EL, Lee EY. Evaluation of primary
+pulmonary vein stenosis in children: comparison of radionuclide perfusion lung scan
+and angiography. AJR Am J Roentgenol . 2015;205(4):873 –877. https://doi.org/10.2
+214/AJR.14.13581
+33. Lee EY, Jenkins KJ, Vargas SO, et al. Thoracic multidetector computed tomography
+angiography of primary pulmonary vein stenosis in children: evaluation of
+characteristic extravascular ﬁndings. J Thorac Imaging . 2021;36(5):318–325. https://
+doi.org/10.1097/RTI.0000000000000590
+34. Sena L, Callahan R, Sleeper LA, Beroukhim RS. Prognostic signi ﬁcance of computed
+tomography ﬁndings in pulmonary vein stenosis. Children (Basel) . 2021;8(5):402.
+https://doi.org/10.3390/children8050402
+35. Kalfa D, Belli E, Bacha E, et al. Primary pulmonary vein stenosis: outcomes, risk
+factors, and severity score in a multicentric study. Ann Thorac Surg . 2017;104(1):
+182–
+189. https://doi.org/10.1016/j.athoracsur.2017.03.022
+36. Roman KS, Kellenberger CJ, Farooq S, MacGowan CK, Gilday DL, Yoo SJ.
+Comparative imaging of differential pulmonary blood ﬂow in patients with
+congenital heart disease: magnetic resonance imaging versus lung perfusion
+scintigraphy. Pediatr Radiol . 2005;35(3):295 –301. https://doi.org/10.1007/
+s00247-004-1344-z
+37. Callahan R, Jenkins KJ, Gauthier Z, Gauvreau K, Porras D. Preliminary ﬁndings on
+the use of intravascular ultrasound in the assessment of pediatric pulmonary vein
+stenosis. Catheter Cardiovasc Interv . 2021;97(3):E362 –E370. https://doi.org/
+10.1002/ccd.29264
+38. Kops SA, Strah D, Lee KS, Seckeler MD. Intravascular ultrasound for pulmonary vein
+stenosis interventions in congenital heart disease. J Invasive Cardiol . 2021;33(4):
+E259–E262.
+39. Zablah JE, O ’Callaghan B, Shorofsky M, Ivy D, Morgan GJ. Technical feasibility on
+the use of optical coherence tomography in the evaluation of pediatric pulmonary
+venous stenosis. Pediatr Cardiol . 2022;43(5):1054 –1063. https://doi.org/10.1007/
+s00246-022-02824-0
+40. Patel JD, Briones M, Jones S, Suthar D, Gray R, Petit CJ. Medical and invasive
+management of congenital and acquired pulmonary vein stenosis. Curr Treat
+Options Pediatr . 2020;6(3):170 –181. https://doi.org/10.1007/s40746-020-
+00198-0
+41. Schapira L, Butow P, Brown R, Boyle F. Pessimism is no poison. J Clin Oncol . 2010;
+28(4):705–707. https://doi.org/10.1200/JCO.2009.25.0027
+42. Kuo JA, Petit CJ. Pulmonary vein stenosis in children: a programmatic approach
+employing primary and anatomic therapy. Children (Basel) . 2021;8(8):663. https://
+doi.org/10.3390/children8080663
+4 3 . B a l a s u b r a m a n i a nS ,R e h m a nM ,G a u v r e a uK ,J e n k i n sK J .B i l a t e r a ld i s e a s ea n d
+early age at presentation are associated with shorter survival in patients with
+congenital heart disease and intraluminal pulmonary vein stenosis. Congenit
+Heart Dis . 2012;7(4):378 –386. https://doi.org/10.1111/j.1747-
+0803.2012.00647.x
+44. DiLorenzo MP, Santo A, Rome JJ, et al. Pulmonary vein stenosis: outcomes in
+children with congenital heart disease and prematurity. Semin Thorac Cardiovasc
+Surg. 2019;31(2):266 –273. https://doi.org/10.1053/j.semtcvs.2018.09.
+027
+45. Rosenblum JM, Altin HF, Gillespie SE, et al. Management outcomes of primary
+pulmonary vein stenosis. J Thorac Cardiovasc Surg . 2020;159(3):1029 –1036.e1.
+https://doi.org/10.1016/j.jtcvs.2019.08.105
+46. Holt DB, Moller JH, Larson S, Johnson MC. Primary pulmonary vein stenosis. Am J
+Cardiol. 2007;99(4):568 –572. https://doi.org/10.1016/j.amjcard.2006.09.100
+47. Sykes MC, Ireland C, McSweeney JE, Rosenholm E, Andren KG, Kulik TJ. The impact
+of right ventricular pressure and function on survival in patients with pulmonary
+vein stenosis. Pulm Circ . 2018;8(2):2045894018776894. https://doi.org/10.1177/
+2045894018776894
+48. Niccum M, Callahan R, Gauvreau K, Jenkins KJ. Aspiration is associated with poor
+treatment response in pediatric pulmonary vein stenosis. Children (Basel). 2021;8(9):
+783. https://doi.org/10.3390/children8090783
+49. Masaki N, Adachi O, Katahira S, et al. Progression of vascular remodeling in
+pulmonary vein obstruction. J Thorac Cardiovasc Surg . 2020;160(3):777 –790.e5.
+https://doi.org/10.1016/j.jtcvs.2020.01.098
+50. Patel JD, Briones M, Mandhani M, et al. Systemic sirolimus therapy for infants and
+children with pulmonary vein stenosis. J Am Coll Cardiol . 2021;77(22):2807 –2818.
+https://doi.org/10.1016/j.jacc.2021.04.013
+51. Xia J, Ma K, Ge H, et al. Outcomes of surgical repair of total anomalous pulmonary
+venous drainage: role of primary sutureless technique. Pediatr Cardiol . 2021;42(6):
+1316–1323. https://doi.org/10.1007/s00246-021-02614-0
+52. Kalfa D, Belli E, Bacha E, et al. Outcomes and prognostic factors for postsurgical
+pulmonary vein stenosis in the current era. J Thorac Cardiovasc Surg . 2018;156(1):
+278–286. https://doi.org/10.1016/j.jtcvs.2018.02.038
+53. Peng LF, Lock JE, Nugent AW, Jenkins KJ, McElhinney DB. Comparison of
+conventional and cutting balloon angioplasty for congenital and postoperative
+pulmonary vein stenosis in infants and young children. Catheter Cardiovasc Interv .
+2010;75(7):1084–1090. https://doi.org/10.1002/ccd.22405
+54. Balasubramanian S, Marshall AC, Gauvreau K, et al. Outcomes after stent
+implantation for the treatment of congenital and postoperative pulmonary vein
+stenosis in children. Circ Cardiovasc Interv . 2012;5(1):109 –117. https://doi.org/10.1
+161/CIRCINTERVENTIONS.111.964189
+55. Kurita Y, Baba K, Kondo M, et al. Clinical outcomes after the endovascular
+treatments of pulmonary vein stenosis in p atients with congenital heart disease.
+Cardiol Young . 2019;29(8):1057 –1065. https://doi.org/10.1017/S1047951119
+001495
+56. Suntharos P, Prieto LR. Treatment of congenital and acquired pulmonary vein
+stenosis. Curr Cardiol Rep . 2020;22(11):153. https://doi.org/10.1007/s11886-020-
+01395-x
+57. Khan A, Qureshi AM, Justino H. Comparison of drug eluting versus bare metal stents
+for pulmonary vein stenosis in childhood. Catheter Cardiovasc Interv . 2019;94(2):
+233–242. https://doi.org/10.1002/ccd.28328
+58. Riedlinger WFJ, Juraszek AL, Jenkins KJ, et al. Pulmonary vein stenosis: expression
+of receptor tyrosine kinases by lesional cells. Cardiovasc Pathol . 2006;15(2):91 –99.
+https://doi.org/10.1016/j.carpath.2005.11.006
+T?X?M?b???????q?Kd???i?i?Kv???f?Kh??????b?l?Kf???????j?Ki??????j?i?Mr???????
+sirolimus to prevent in-stent stenosis in pediatric pulmonary vein stenosis.
+Pediatr Cardiol . 2020;41(2):282 –289. https://doi.org/10.1007/s00246-019-
+02253-6
+60. Glass HC, Costarino AT, Stayer SA, Brett CM, Cladis F, Davis PJ. Outcomes for
+extremely premature infants. Anesth Analg . 2015;120(6):1337 –
+1351. https://
+doi.org/10.1213/ANE.0000000000000705
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+9
+[[p10]]
+61. Laux D, Rocchisani MA, Boudjemline Y, Gouton M, Bonnet D, Ovaert C. Pulmonary
+hypertension in the preterm infant with chronic lung disease can be caused by
+pulmonary vein stenosis: a must-know entity. Pediatr Cardiol . 2016;37(2):313 –321.
+https://doi.org/10.1007/s00246-015-1279-1
+62. Abman SH, Hansmann G, Archer SL, et al. Pediatric pulmonary hypertension: guidelines
+from the American Heart Association and American Thoracic Society.Circulation. 2015;
+132(21):2037–2099. https://doi.org/10.1161/CIR.0000000000000329
+63. Sokoliuk V, DiNardo JA, Brown ML. Never say never: the use of nitric oxide in
+patients with obstructed pulmonary veins: a case report. A A Pract . 2019;12(6):
+205–207. https://doi.org/10.1213/XAA.0000000000000885
+64. van Duin RWB, Stam K, Uitterdijk A, et al. Intervening with the nitric oxide
+pathway to alleviate pulmonary hypertension in pulmonary vein stenosis. JC l i n
+Med. 2019;8(8):1204 –1205. https://doi.org/10.3390/jcm8081204
+65. Domingo L, Magdo HS, Day RW. Acute pulmonary vasodilator testing and long-term
+clinical course in segmental pulmonary vascular disease. Pediatr Cardiol. 2018;39(3):
+501–508. https://doi.org/10.1007/s00246-017-1780-9
+66. Petit CJ, Fraser CD, Mattamal R, Slesnick TC, Cephus CE, Ocampo EC. The
+impact of a dedicated single-ventricle home-monitoring program on interstage
+somatic growth, interstage attrition, and 1-year survival. J Thorac Cardiovasc
+Surg. 2011;142(6):1358 –1366. https://doi.org/10.1016/j.jtcvs.2011.04.043
+R. Callahan et al. Journal of the Society for Cardiovascular Angiography & Interventions 1 (2022) 100391
+10

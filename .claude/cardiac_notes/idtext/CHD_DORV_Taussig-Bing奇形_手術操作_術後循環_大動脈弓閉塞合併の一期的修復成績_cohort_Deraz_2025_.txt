@@ -1,0 +1,627 @@
+
+[[p1]]
+93
+© 2025 Annals of Pediatric Cardiology | Published by Wolters Kluwer ‑ Medknow 
+Address for correspondence: Dr. Salem Elsayed Deraz, Department of Pediatrics, Faculty of Medicine, Menoufia University, Shebeen El‑Kom, Egypt. 
+E‑mail: drsderaz@hotmail.com
+Submitted: 26‑Jan‑2025  Revised: 23‑Feb‑2025  Accepted: 10‑Jun‑2025  Published: 29‑Aug‑2025
+Outcomes of single‑stage correction of Taussig–Bing anomaly with 
+concomitant aortic arch obstruction
+Salem Elsayed Deraz1,2,3, Hamza Elnady3,4,5
+1Department of Pediatrics, Faculty of Medicine, Menoufia University, Shebeen El‑Kom, Egypt, 2Department of Pediatrics, Fujairah Hospital, Emirates 
+Health Services, Fujairah, United Arab Emirates, 3Department of Pediatric Cardiology, Qassimi Women and Children Hospital, Emirates Health Services, 
+Sharjah, United Arab Emirates, 4Department of Cardiac Surgery, National Heart Institute, Cairo, Egypt, 5Department of Cardiac Surgery, Al‑Nas Hospital, 
+Cairo, Egypt
+ORIGINAL ARTICLE
+Access this article online
+Quick Response Code:
+Website:
+https://journals.lww.com/aopc
+DOI:
+10.4103/apc.apc_27_25
+How to cite this article: Deraz SE, Elnady H. Outcomes of single-stage 
+correction of Taussig–Bing anomaly with concomitant aortic arch 
+obstruction. Ann Pediatr Card 2025;18:93-9.
+This is an open access journal, and articles are distributed under the 
+terms of the Creative Commons Attribution-NonCommercial-ShareAlike 
+4.0 License, which allows others to remix, tweak, and build upon the 
+work non-commercially, as long as appropriate credit is given and the 
+new creations are licensed under the identical terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+ABSTRACT
+Introduction : Conventionally, the surgical approach for Taussig–Bing anomaly (TBA) and transposition 
+of the great arteries with aortic arch obstruction (AAO) has often involved a two‑stage 
+strategy. However, in contemporary practice, most centers now favor a one‑stage repair. 
+Despite this trend, the choice between one‑stage and two‑stage strategies may still arise 
+in specific anatomical cases, such as those with interrupted AA (IAA) or in low‑weight 
+infants.
+Patients and 
+Methods
+: We conducted a review of our institutional experience with single‑stage correction 
+in 24 consecutive cases of TBA associated with AAO. Each patient underwent a 
+single‑stage correction that included an arterial switch operation (ASO) along with 
+ventricular septal defect (VSD) closure through baffling of the left ventricle to the 
+neo‑aorta and AA repair. Early mortality or reoperation was defined as death or 
+the need for reoperation occurring prior to hospital discharge or within 30 days 
+following ASO. Reintervention was classified as either a reoperation or a transcatheter 
+procedure.
+Results : The study comprised 24 cases. Among them, 6 (25%) patients had TBA with aortic 
+coarctation, 15 (62.5%) patients had TBA with hypoplastic AA (HAA), 2 (8.3%) patients 
+presented with TBA and IAA, and one patient had TBA with HAA alongside partial 
+anomalous pulmonary venous connection. There were two early postoperative 
+deaths (8.3%). Recoarctation occurred in 2 (8.3%) cases, both of which involved 
+TBA with AA hypoplasia. Both patients successfully underwent balloon dilation of 
+the coarctation after 285 and 312 days, respectively. One (4.2%) patient developed 
+subaortic stenosis and underwent a modified Konno procedure after 233 days. 
+The total number of reinterventions was 5  (20.8%), which included three cardiac 
+catheterization procedures (two successful balloon dilations of the coarctation and 
+one unsuccessful balloon dilation of the supravalvular stenosis), along with two 
+surgical reinterventions.
+[[p2]]
+Deraz and Elnady: Single‑stage correction of Taussig–Bing anomaly with concomitant aortic arch obstruction
+94
+Annals of Pediatric Cardiology / Volume 18 / Issue 2 / March-April 2025
+INTRODUCTION
+Aortic arch obstruction (AAO) can occur alongside various 
+other cono-truncal anomalies.[1,2] In cases of double outlet 
+right ventricle featuring a subpulmonary ventricular 
+septal defect (VSD) and malposed great arteries (Taussig–
+Bing anomaly [TBA]), the occurrence of AAO can be as high 
+as 50%.[3,4] Conversely, its association with transposition 
+of the great arteries (TGAs) is notably uncommon.
+Patients presenting with TGA or TBA combined with 
+AAO pose significant surgical challenges. Conventionally, 
+the two-stage surgical strategy for TBA and TGA with 
+accompanying AAO has been a common method. 
+However, in recent times, most centers have shifted their 
+preference to a one-stage repair. Nonetheless, in specific 
+anatomical cases, such as those with interrupted AA (IAA) 
+or low-weight infants, the debate between one-stage and 
+two-stage strategies remains relevant today.[5-14]
+With advancements in neonatal cardiac surgery, a 
+single-stage repair that incorporates arterial switch 
+operation (ASO) along with simultaneous arch repair 
+has emerged as the favored technique,[10,15,16] particularly 
+after demonstrating improved outcomes and reduced 
+mortality and morbidity,[5,11]
+In this report, we share our experience with a single-stage 
+approach involving complete intracardiac repair and 
+extensive simultaneous AA repair for patients with TBA 
+and AAO. Our aim is to evaluate the outcomes of this 
+single-stage correction and identify potential risk factors 
+for mortality and complications.
+PATIENTS AND METHODS
+We conducted a review of our institutional experience 
+involving single-stage correction with simultaneous arch 
+repair in 24 consecutive cases of TBA associated with 
+AAO, covering the period from January 2018 to January 
+2024. All patients underwent a single-stage correction 
+that included an ASO along with VSD closure through 
+directing the left ventricle to the neo-aorta and AA repair.
+Early death or reoperation was defined as death or the 
+need for reoperation occurring before hospital discharge 
+or within 30 days following ASO. Late death was classified 
+as death occurring after discharge and more than 
+30 days post-ASO. Reintervention was defined as either 
+a reoperation or a transcatheter procedure.
+Low cardiac output was diagnosed by elevated blood 
+lactate levels or a rapid increase in blood lactate, 
+decreased central venous oxygen saturation, an increased 
+arterial to central venous oxygen saturation difference, 
+decreased urine output, an increased peripheral skin 
+temperature to core body temperature difference, and 
+a low echocardiographic Doppler-derived cardiac index, 
+in addition to a high inotrope requirement.
+We used pRIFLE criteria for the diagnosis of acute 
+kidney injury (AKI). The pRIFLE criteria classify AKI 
+into three severity levels based on changes in estimated 
+creatinine clearance (eCCl) and urine output: risk, 
+eCCl decrease by 25% or urine output <0.5  mL/kg/h 
+for 8 h; injury, eCCl decrease by 50% or urine output 
+<0.5 mL/kg/h for 16 h; and failure, eCCl decrease by 
+75% or eCCl <35 mL/min/1.73 m 2 or urine output 
+<0.3 mL/kg/h for 24 h or anuria for 12 h.[17]
+All patients were monitored with a 5-lead 
+electrocardiogram, systemic oxygen saturation, end-tidal 
+CO2, near-infrared spectroscopy (NIRS), and rectal 
+temperature monitoring.
+The aorta was cross-clamped at a core temperature 
+of 30°C during systemic cooling, and myocardial 
+protection was achieved through infusions of the 
+histidine-tryptophan-ketoglutaratecardioplegic solution 
+into the aortic root.
+In the early stages of the series, we employed hypothermic 
+circulatory arrest (HCA) for cases that required extensive 
+arch repair. At 18°C, extracorporeal perfusion was 
+stopped, and the AA was reconstructed under HCA. 
+However, with more experience, we transitioned to 
+selective antegrade cerebral perfusion. This involved 
+direct cannulation of the brachiocephalic artery, 
+followed by arch dissection, snaring of the great vessels 
+and descending aorta, and cooling between 26°C and 
+28°C. Cerebral perfusion was monitored using NIRS, with 
+the flow from the cardiopulmonary bypass (CPB) machine 
+adjusted to 40%–50%.
+The procedure was performed via a median sternotomy. 
+The pericardium was opened, and cannulation of the 
+ascending aorta and right atrium was carried out to 
+Conclusions : The single‑stage repair involving VSD closure, AA reconstruction, and ASO is an 
+applicable and safe option for patients with combined TBA and concomitant AAO. We 
+recorded reinterventions for recurrent coarctation, supravalvular, and subvalvular aortic 
+stenosis. Long‑term follow‑up is essential, and early percutaneous interventions may 
+help lower the rates of repeat surgeries.
+Keywords : Aortic arch obstruction, arterial switch operation, interrupted aortic arch, Taussig–Bing 
+anomaly
+[[p3]]
+Deraz and Elnady: Single‑stage correction of Taussig–Bing anomaly with concomitant aortic arch obstruction
+95
+Annals of Pediatric Cardiology / Volume 18 / Issue 2 / March-April 2025
+establish CPB. The ascending aorta was transected one 
+centimeter above the aortic valve, while the pulmonary 
+artery was transected below its bifurcation. The coronary 
+arteries were then implanted into their new positions 
+without distortion or traction. The ascending aorta and 
+pulmonary artery were switched using the Lecompte 
+technique, where the ascending aorta was anastomosed 
+to the neo-aorta, and the previous coronary position was 
+repaired with the distal pulmonary artery and patches.
+For coarctation of the aorta (COA) or IAA, end-to-side 
+anastomosis is the most performed operation. However, 
+in patients with limited coarctation or IAA, this method 
+can lead to high tension and poor growth potential, 
+increasing the risk of postoperative bleeding and 
+recoarctation. Therefore, in these cases, we employed 
+a modified end-to-side anastomosis with anterior patch 
+augmentation with a bovine pericardial patch.
+Statistical analysis
+Data were analyzed using the Statistical Package for 
+the Social Sciences (SPSS, version 20.0, Chicago, IL, 
+USA). All results were presented as frequencies (n), 
+percentages (%), ranges, and means ± standard 
+deviation (mean ± standard deviation). The survival 
+rate and freedom from reoperation were calculated, with 
+statistical significance indicated by P < 0.05.
+RESULTS
+The study included 24 cases, with a majority being 
+males ( n = 15, 62.5%) and females comprising 
+37.5% ( n = 9). The ages of the patients ranged 
+from 17 days to 26 months, with a mean age of 
+116.6 days ± 179.93 days. Their weights varied from 
+2.4–6 kg, averaging 3.65 kg ± 0.797.
+Among the patients, six (25%) had TBA with COA, 
+15 (62.5%) had TBA with hypoplastic AA (HAA), 
+two (8.3%) had IAA, and one patient had TBA with HAA 
+and partial anomalous pulmonary venous connection 
+(PAPVC) [Table 1].
+All patients presented with a history of hypoxemia, with 
+oxygen saturations ranging from 55% to 91% (mean 
+75.57% ±9.78). Unusual coronary anatomy was noted in 
+6 (25%) patients, characterized by either a single coronary 
+artery or an intramural course. Preoperative subvalvular 
+left ventricular outflow tract obstruction (LVOTO) 
+was reported in another child (4.2%), with a maximal 
+pressure gradient of 57 mmHg. None of the children 
+exhibited valvular pulmonary stenosis or aortic 
+stenosis, although 1 (4.2%) child had mild preoperative 
+pulmonary regurgitation (PR) [Table 1].
+A total of 23 patients underwent a single-stage ASO, VSD 
+closure, and repair of the AA, while one patient received 
+the same procedure along with repair of the partial 
+anomalous venous connection [ Table 2 ]. Regarding 
+the surgical technique for arch repair, 6 patients 
+underwent a direct end-to-end anastomosis of the arch, 
+while 18 (75%) patients had a modified end -to-side 
+anastomosis with anterior patch augmentation using a 
+bovine pericardial patch.
+Postoperatively, nine patients experienced low cardiac 
+output, which was successfully managed in the pediatric 
+intensive care unit (PICU). In addition, 5 (20.83%) cases 
+developed chest infections. One patient was diagnosed 
+with postoperative pulmonary hypertension and received 
+medical treatment for this condition. Four  (16.7%) 
+cases developed renal failure attributed to low cardiac 
+output and required peritoneal dialysis. Furthermore, 
+5 (20.8%) cases presented to the PICU with an open 
+chest, which was subsequently closed during their stay 
+in the PICU. One patient experienced postoperative 
+unilateral diaphragmatic paralysis, which was managed 
+conservatively without the need for surgical plication. 
+Three patients required extracorporeal membrane 
+oxygenation, with one of them successfully weaned off 
+after 3 days. The duration of stay in the PICU ranged 
+from 4 to 24 days, while the total hospital stay varied 
+from 7 to 31 days [Table 3].
+The CPB time ranged from 120 to 390 min (mean 
+254.4 min ± 71.86), and the aortic cross-clamp time 
+varied from 120 to 255 min (mean 158.9 min ± 55.36). 
+Twelve patients with modified end-to-side anastomosis 
+with anterior patch augmentation required HCA, which 
+includes 10 patients, 45.5% in the survival group, and 
+the two mortalities [Table 4].
+Table 2: Types of operations
+Operation type n (%)
+Arterial switch, VSD closure, arch repair 23 (95.8)
+Arterial switch, VSD closure, arch repair, PAPVC repair 1 (4.2)
+Type of arch repair
+End‑to‑end anastomosis 6 (25)
+Hypoplastic arch repair 18 (75)
+PAPVC: Partial anomalous pulmonary venous connection, VSD: Ventricular 
+septal defect
+Table 1: Preoperative echocardiographic findings
+n (%)
+Diagnosis
+Taussig–Bing, CoA 6 (25)
+Taussig–Bing, HAA 15 (62.5)
+Taussig–Bing, IAA 2 (8.3)
+Taussig–Bing, HAA with PAPVC 1 (4.2)
+Unusual coronary anatomy 6 (25)
+Single 4 (16.7)
+Intramural coronaries 2 (8.3)
+Valvular aortic or pulmonary stenosis 0
+LVOTO, subvalvular 1 (4.2)
+PR 1 (4.2)
+LVOTO: Left ventricular outflow tract obstruction, PAPVC: Partial 
+anomalous pulmonary venous connection, HAA: Hypoplastic aortic 
+arch, IAA: Interrupted aortic arch, COA: Coarctation of the aorta, 
+PR: Pulmonary regurgitation
+[[p4]]
+Deraz and Elnady: Single‑stage correction of Taussig–Bing anomaly with concomitant aortic arch obstruction
+96
+Annals of Pediatric Cardiology / Volume 18 / Issue 2 / March-April 2025
+There were two early postoperative mortalities (8.3%), 
+one boy and one girl, with mortality occurring between 
+1 and 50 days postoperation (mean: 15.5 days ± 23.1). 
+No significant relationships were found between age, 
+weight at the time of operation, aortic cross-clamp time, 
+diagnosis, and the risk of mortality or morbidity. The CPB 
+time was longer in the two mortality cases, ranging from 
+225 to 390 min, but this was not statistically significant 
+compared to the survivor group. Both deceased patients 
+had TBA with HAA; one had an intramural coronary 
+artery, while the other had concomitant subvalvular 
+LVOTO (pressure gradient ~56 mmHg) [Table 4]. The 
+cause of death for the 2 cases was low cardiac output 
+associated with AKI.
+Follow-up duration ranged from 1 to 5 years, with no 
+midterm or late mortalities reported. The survival rate at 
+follow-up was 91.7%. Recoarctation occurred in 2 (8.3%) 
+cases, both involving the TBA with AA hypoplasia, 
+who were repaired using a modified end -to- side 
+anastomosis with anterior patch augmentation using 
+a bovine pericardial patch. These cases underwent 
+successful balloon dilation of the coarctation after 285 
+and 312 days, with no residual gradient, and they have 
+not required any repeat surgical interventions since. 
+One (4.2%) patient developed subaortic stenosis during 
+the follow-up period and underwent a modified Konno 
+procedure after 233 days. Another patient (4.2%) 
+developed supravalvular aortic stenosis; interventional 
+cardiac catheterization was performed with balloon 
+dilation, but the gradient did not change significantly. 
+Surgery was conducted after 271 days with patch 
+augmentation of the ascending aorta. In total, there were 
+five reinterventions (20.8%), including three cardiac 
+catheterization interventions  (two successful balloon 
+dilations of the coarctation and one unsuccessful balloon 
+dilation of the supravalvular stenosis), in addition to two 
+surgical reinterventions [Table 5].
+In addition, another child (4.2%) developed supravalvular 
+right ventricular outflow obstruction with a pressure 
+gradient of 42  mmHg. This child is currently under 
+regular follow-up, and no interventions have been 
+performed yet. Thirteen (54.2%) children experienced 
+neo-aortic incompetence (neo-AI). Among these, 2 (8.3%) 
+cases were classified as trivial neo-AI, 10 (41.7%) cases 
+as mild neo-AI, and 1 (4.2%) case as moderate neo-AI. 
+Furthermore, 9 (37.5%) patients developed neo-PR, 
+with 3 (12.5%) cases being trivial, 5 (20.8%) cases mild, 
+and 1 (4.2%) case moderate neo-PR. Residual VSD was 
+observed in 4 (16.7%) children, all of which were small 
+and restrictive in nature. Importantly, none of the 
+patients required reinterventions during the follow-up 
+period [Table 5].
+DISCUSSION
+TBA with concomitant AAO presents a rare and complex 
+challenge for congenital heart surgeons. It is notable 
+that AAO occurs in over half of TBA patients undergoing 
+ASO.[18]
+The combination of TBA with AAO is among the most 
+technically challenging anatomical subgroups for 
+ASO. Factors such as aortopulmonary size mismatch, 
+side-by-side great vessels, and septal malalignment 
+contribute to right ventricular outflow tract obstruction 
+(RVOTO), complicating surgical repair.[8,19,20]
+Table 3: Postoperative data
+n (%)/mean±SD (range)
+Low‑cardiac output 9 (37.5)
+Inotropes 24 (100)
+Chest infection 5 (20.83)
+PHT 1 (4.2)
+Arrythmias 6 (25)
+Cardiac tamponade 0
+Renal failure 4 (16.7)
+Peritoneal dialysis 4 (16.7)
+Delayed sternal closure 5 (20.83)
+Postoperative saturation (%) 98.59±1.48 (93–100)
+Intubation time (days) 6.69±7.19 (1–19)
+Diaphragmatic paralysis 1 (4.2)
+ECMO 3 (12.5)
+PICU stay (days) 13.9±8.07 (4–24)
+Total hospital stays (days) 15.5±7.0 (7–31)
+PHT: Pulmonary hypertension, PICU: Pediatric intensive care unit, 
+ECMO: Extracorporeal membrane oxygenation, SD: Standard deviation
+Table 4: Comparative data for the mortalities and the successful cases
+Survival (n=22), n (%)/mean±SD (range) Mortalities (n=2), n (%)/mean±SD (range)
+Age (days) 122.93±191.43 (17–794) 74±58.26 (24–150)
+Weight (kg) 3.67±0.81 (2.8–6) 3.53±0.82 (2.4–4.3)
+Saturation (%) 75.35±10.4 (55–92) 77.5±6.2 (72–86)
+CPB time (min) 251.2±70.49 (120–380) 281.3±94.13 (225–390)
+Aortic cross clamp (min) 158.4±56.55 (120–255) 162.3±54.85 (121–243)
+Hypothermic circulatory arrest 10 (45.5) 2 (100.0)
+Postoperative saturation (%) 98.89±0.91 (96–100) 96.0±3.0 (93–99)
+Delayed sternal closure 3 (13.6) 2 (100)
+Inotropes 22 (100) 2 (100)
+ECMO 1 (4.5) 2 (100)
+Chest infection (pneumonia) 5 (22.7) 0
+Arrythmias 5 (22.7) 1 (50)
+Hypoxemia 0 0
+ECMO: Extracorporeal membrane oxygenation, SD: Standard deviation, CPB: Cardiopulmonary bypass
+[[p5]]
+Deraz and Elnady: Single‑stage correction of Taussig–Bing anomaly with concomitant aortic arch obstruction
+97
+Annals of Pediatric Cardiology / Volume 18 / Issue 2 / March-April 2025
+A two-staged repair, involving primary reconstruction 
+of the AA and excision of ductal tissue (with or without 
+pulmonary artery banding) through left thoracotomy, 
+followed by an arterial switch and intracardiac repair, 
+is often the preferred surgical approach for TGA with 
+IAA. This approach remains the treatment of choice 
+for patients with right ventricular (RV) hypoplasia 
+or significant comorbid conditions like necrotizing 
+enterocolitis or brain injury.[20]
+Konstantinov et al.[21]  supported this method to 
+minimize the duration of CPB time necessary for the 
+subsequent ASO and VSD closure. However, mortality 
+rates associated with the two-staged repair are relatively 
+high, [5,22] primarily due to tubular hypoplasia of the 
+AA. The negative effects of pulmonary artery banding 
+can lead to high incidences of postoperative neo-aortic 
+regurgitation, systemic ventricular dysfunction, and 
+distortion of branch pulmonary arteries. [23,24] But the 
+requirement for a second -stage operation could arise 
+earlier than anticipated if banding is not performed due 
+to deteriorating congestive cardiac failure.[23]
+In our study, we included 24 cases: 6 (25%) patients had 
+TBA with COA, 15 (62.5%) had TBA with HAA, 2 (8.3%) 
+had TBA with IAA, and one (4.2%)  had TBA with HAA 
+and PAPVC [Table 1].
+With advancements in neonatal cardiac surgery, 
+single-stage repair for TGA with IAA has become the 
+preferred surgical plan, leading to decreased operative 
+mortality rates. This approach has several benefits, 
+including the early restoration of normal physiological 
+circulation and the avoidance of complications associated 
+with pulmonary artery banding.[25]
+In our study, there were no midterm or late mortalities, 
+and the survival rate at follow-up was 91.7%. However, 
+there were two early postoperative mortalities (8.3%). 
+The CPB time was longer in these two cases, ranging 
+from 225 to 390 min, but this was not statistically 
+significant compared to the survivor group. Both 
+mortality cases involved TBA with HAA, with one child 
+having an intramural coronary artery and the other 
+having concomitant subvalvular LVOTO (pressure 
+gradient ~56 mmHg) [Table 4]. The presence of 
+intermural coronaries and concomitant subvalvular 
+LVOTO likely contributed to the complexity of these cases 
+and may explain the cause of mortality.
+Literature indicates that postoperative complications are 
+often linked to high reintervention rates and may include 
+recurrent coarctation, supravalvular aortic stenosis, 
+neo-aortic valve regurgitation, obstruction of the right 
+heart system, coronary stenosis, and other complications 
+such as arrhythmia, bleeding, left phrenic nerve 
+paralysis, left recurrent laryngeal nerve impairment, 
+chylothorax, low cardiac output, renal failure, brain 
+injury, and sepsis. Diagnostic tools such as chest X-rays, 
+electrocardiograms, echocardiographic assessments, and 
+diagnostic catheterizations can aid in decision-making 
+during postoperative care.[25]
+In our study, recoarctation developed in 2 (8.3%) cases, 
+both of which were TBAs with AA hypoplasia. Both 
+patients underwent successful balloon dilatation of the 
+coarctation after 285 and 312 days, respectively, with 
+no residual gradient, and to date, they have not required 
+any repeat surgical interventions [Table 5].
+Except for Mohammadi et al.,[26]  who identified 
+transpulmonary VSD closure as a significant risk factor 
+for impaired valve function, most studies have regarded 
+aortic valve regurgitation as an infrequent postoperative 
+complication that necessitates repeat surgery.[5,22,23]
+Right-sided obstruction, which includes RVOTO, stenosis 
+of the pulmonary valve, and issues with the pulmonary 
+trunk and its branches, is a primary indication for 
+reintervention.[27] In our current study, only 1 (4.2%) 
+child developed supravalvular right ventricular outflow 
+obstruction with a pressure gradient of 42 mmHg. 
+Fortunately, this child is currently under regular 
+follow-up, and no interventions have been performed 
+yet.
+Some studies have shown that no significant risk factors 
+for postoperative RVOTO were found in patients with 
+TBAs and AAO, despite the presence of various coronary 
+anomalies, nonanteroposterior great arteries, and 
+preoperative organic subaortic stenosis.[9,23]
+In addition, 1 (4.2%) patient developed subaortic 
+stenosis during the follow-up period and underwent 
+a modified Konno procedure after 233 days. Another 
+patient (4.2%) developed supravalvular aortic stenosis; 
+interventional cardiac catheterization was performed 
+with balloon dilatation, but the gradient did not change 
+significantly. Surgery was subsequently performed after 
+Table 5: Follow‑up
+n (%)
+Survival rate 22 (91.7)
+Arch reobstruction 2 (8.3)
+Subaortic stenosis 1 (4.2)
+Supravalvular aortic stenosis 1 (4.2)
+Supravalvular pulmonary stenosis 1 (4.2)
+Neo AI 13 (54.2)
+Trivial 2 (8.3)
+Mild 10 (41.7)
+Moderate 1 (4.2)
+Neo PR 9 (37.5)
+Trivial 3 (12.5)
+Mild 5 (20.8)
+Moderate 1 (4.2)
+Residual small restrictive VSD 4 (16.7)
+Reinterventions 5 (20.8)
+Cardiac catheterization 3 (12.5)
+Surgical 2 (8.3)
+VSD: Ventricular septal defect, PR: Pulmonary regurgitation, AI: Aortic 
+incompetence
+[[p6]]
+Deraz and Elnady: Single‑stage correction of Taussig–Bing anomaly with concomitant aortic arch obstruction
+98
+Annals of Pediatric Cardiology / Volume 18 / Issue 2 / March-April 2025
+271 days with patch augmentation of the ascending 
+aorta [Table 5].
+Postoperative supravalvular aortic stenosis has been 
+reported as a contributing factor to operative mortality 
+following ASO, potentially due to the size discrepancy 
+between the dilated neo-aortic root and the undersized 
+ascending aorta. In such cases, a wide patch augmentation 
+of the entire arch is often required.[28]
+CONCLUSIONS
+A single-stage repair involving VSD closure, reconstruction 
+of the AA, and ASO is a viable approach for patients with 
+combined TBA and concomitant AAO. This surgical 
+method has demonstrated safety, with low mortality 
+rates and low risk for reintervention during short-term 
+follow-up. Although reinterventions for issues such as 
+recurrent coarctation, supravalvular aortic stenosis, 
+right heart system obstruction, and coronary stenosis 
+have been reported, long- term follow- up is essential. 
+Additionally, early percutaneous interventions may help 
+reduce the rates of repeated surgeries.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+REFERENCES
+PM?lb?avK?s?bhK?j?hdK?
+Williams WG, Neirotti RA, Jacobs ML, et al. Risk factors 
+associated with mortality and interventions in 472 
+neonates with interrupted aortic arch: A  congenital 
+Heart Surgeons Society study. J Thorac Cardiovasc Surg 
+2005;129:343-50.
+2. Tláskal T, Hucín B, Kostelka M, Marek J. Primary repair 
+of transposition of the great arteries with interrupted 
+aortic arch. Eur J Cardiothorac Surg 1998;13:310-2.
+3. Alsoufi B, Cai S, Williams WG, Coles JG, Caldarone CA, 
+Redington AM, et al. Improved results with single-stage 
+total correction of Taussig -Bing anomaly. Eur J 
+Cardiothorac Surg 2008;33:244-50.
+4. Parr GV, Waldhausen JA, Bharati S, Lev M, Fripp R, 
+Whitman V. Coarctation in Taussig-Bing malformation 
+of the heart. Surgical significance. J Thorac Cardiovasc 
+Surg 1983;86:280-7.
+5. Planché C, Serraf A, Comas JV, Lacour-Gayet F, 
+Bruniaux J, Touchot A. Anatomic repair of transposition 
+of great arteries with ventricular septal defect and aortic 
+arch obstruction. One-stage versus two-stage procedure. 
+J Thorac Cardiovasc Surg 1993;105:925-33.
+6. Kreuzer M, Sames -Dolzer E, Tulzer A, Gierlinger G, 
+Mair R, Nawrozi MP, et al. Long-term follow-up after 
+simultaneous arterial switch operation and aortic arch 
+repair. Eur J Cardiothorac Surg 2023;63:ezad038.
+7. Quaegebeur JM, Jonas RA, Weinberg AD, Blackstone EH, 
+Kirklin JW. Outcomes in seriously ill neonates with 
+coarctation of the aorta. A multiinstitutional study. 
+J Thorac Cardiovasc Surg 1994;108:841-51.
+8. Sinzobahamvya N, Blaschczok HC, Asfour B, Arenz C, 
+Jussli MJ, Schindler E, et al.  Right ventricular outflow 
+tract obstruction after arterial switch operation 
+for the Taussig- Bing heart. Eur J Cardiothorac Surg 
+2007;31:873-8.
+9. Soszyn N, Fricke TA, Wheaton GR, Ramsay  JM, 
+d’Udekem Y, Brizard CP, et al. Outcomes of the arterial 
+switch operation in patients with Taussig-Bing anomaly. 
+Ann Thorac Surg 2011;92:673-9.
+10. Tchervenkov  CI, Marelli  D, Béland MJ, Gibbons  JE, 
+Paquet M, Dobell AR. Institutional experience with a 
+protocol of early primary repair of double-outlet right 
+ventricle. Ann Thorac Surg 1995;60:S610-3.
+11. Tchervenkov  CI, Tahta  SA, Cecere  R, Béland MJ. 
+Single-stage arterial switch with aortic arch enlargement 
+for transposition complexes with aortic arch obstruction. 
+Ann Thorac Surg 1997;64:1776-81.
+12. Vouhé PR, Trinquet F, Lecompte Y, Vernant F, Roux PM, 
+Touati G,  et al.  Aortic coarctation with hypoplastic 
+aortic arch. Results of extended end-to-end aortic arch 
+anastomosis. J Thorac Cardiovasc Surg 1988;96:557-63.
+13. Sandhu SK, Beekman RH, Mosca RS, Bove EL. Single-stage 
+repair of aortic arch obstruction and associated 
+intracardiac defects in the neonate. Am J Cardiol 
+1995;75:370-3.
+14. Vogel M, Freedom  RM, Smallhorn  JF, Williams  WG, 
+Trusler GA, Rowe RD. Complete transposition of the 
+great arteries and coarctation of the aorta. Am J Cardiol 
+1984;53:1627-32.
+15. Kirklin JW, Blackstone EH, Tchervenkov CI, Castaneda AR. 
+Clinical outcomes after the arterial switch operation 
+for transposition. Patient, support, procedural, and 
+institutional risk factors. Congenital Heart Surgeons 
+Society. Circulation 1992;86:1501-15.
+16. Aoki M, Forbess JM, Jonas RA, Mayer JE Jr., Castaneda AR. 
+Result of biventricular repair for double -outlet right 
+ventricle. J Thorac Cardiovasc Surg 1994;107:338-49.
+17. Akcan-Arikan A, Zappitelli M, Loftis LL, Washburn KK, 
+Jefferson LS, Goldstein SL. Modified RIFLE criteria in 
+critically ill children with acute kidney injury. Kidney 
+Int 2007;71:1028-35.
+18. Fricke TA, Thungathurthi K, Naimo PS, Buratto E, 
+d’Udekem Y, Brizard CP, et al. Arterial switch operation 
+in patients with Taussig-Bing anomaly and aortic arch 
+obstruction. Ann Thorac Surg 2022;114:834-40.
+19. Lacour-Gayet F. Complexity stratification of the arterial 
+switch operation: A second learning curve. Cardiol 
+Young 2012;22:739-44.
+20. Lacour-Gayet F. Arterial switch operation with ventricular 
+septal defect repair and aortic arch reconstruction. 
+Semin Thorac Cardiovasc Surg 2007;19:245-8.
+21. Konstantinov IE, Pohlner P. An approach to interrupted 
+aortic arch associated with transposition of the great 
+arteries. J Thorac Cardiovasc Surg 2007;133:256-7.
+[[p7]]
+Deraz and Elnady: Single‑stage correction of Taussig–Bing anomaly with concomitant aortic arch obstruction
+99
+Annals of Pediatric Cardiology / Volume 18 / Issue 2 / March-April 2025
+22. Vouhe PR, Triquet F, Lecompte Y, Vernant F, Roux PM, 
+Touati G, et al. Aortic coarctation with hypoplastic aortic 
+arch. J Thorac Cardiovasc Surg 1988;96:557-63.
+23. Huber C, Mimic B, Oswal N, Sullivan I, Kostolny M, Elliott M, 
+et al.  Outcomes and re -interventions after one -stage 
+repair of transposition of great arteries and aortic arch 
+obstruction. Eur J Cardiothorac Surg 2011;39:213-20.
+24. Kwang HC, Si CS, Hyungtae K. Transposition complex 
+with aortic arch obstruction: Outcomes of one-stage 
+repair over 10 years. Pediatr Cardiol 2016;37:160-6.
+25. Xu Q, Duan  S, Xing P, Chen  R. Primary repair of 
+transposition of the great arteries with an interrupted 
+aortic arch: A case report and literature review. 
+J Cardiothorac Surg 2020;15:136.
+26. Mohammadi S, Serraf A, Belli E, Aupecle B, Capderou A, 
+Lacour-Gayet F, et al. Left-sided lesions after anatomic 
+repair of transposition of the great arteries, ventricular 
+septal defect, and coarctation: Surgical factors. J Thorac 
+Cardiovasc Surg 2004;128:44-52.
+27. Fricke TA, Donaldson S, Schneider JR, Menahem S, 
+d’Udekem Y, Brizard CP, et al. Outcomes of the arterial 
+switch operation in patients with aortic arch obstruction. 
+J Thorac Cardiovasc Surg 2020;159:592-9.
+28. Williams WG, McCrindle BW, Ashburn DA, Jonas RA, 
+Mavroudis C, Blackstone  EH, et al . Outcomes of 829 
+neonates with complete transposition of the great 
+arteries 12-17 years after repair. Eur J Cardiothorac 
+Surg 2003;24:1-9.

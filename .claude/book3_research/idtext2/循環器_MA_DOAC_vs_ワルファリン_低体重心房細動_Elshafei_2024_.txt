@@ -1,0 +1,1899 @@
+
+[[p1]]
+Vol.:(0123456789)
+American Journal of Cardiovascular Drugs (2024) 24:255–271 
+https://doi.org/10.1007/s40256-024-00628-6
+SYSTEMATIC REVIEW
+Comparative Effectiveness and Safety of Direct Oral Anticoagulants 
+Compared with Warfarin in Patients with Low Bodyweight who have 
+Atrial Fibrillation: A Systematic Review and Meta‑analysis
+Mohamed Nabil Elshafei1,5  · Ahmed El‑Bardissy1 · Muhammad Salem1 · Mohamed S. Abdelmoneim1 · 
+Ahmed Khalil1 · Sherine Elhadad2 · Mohammed Danjuma3,4
+Accepted: 14 January 2024 / Published online: 22 February 2024 
+© The Author(s) 2024
+Abstract
+Introduction  oral anticoagulant (DOAC) agents are becoming the anticoagulation strategy of choice for most clinical risks 
+for which they are indicated. However, residual uncertainty remains regarding their use in preventing stroke in patients with 
+low bodyweight [< 60 kg or body mass index (BMI) < 18 kg/m 2]. We have carried out pooled systematic analyses of pub-
+lished studies to determine the efficacy and safety of these agents compared with warfarin in stroke prevention in patients 
+with low bodyweight.
+Methods We carried out a comprehensive search of electronic databases from inception to June 2023 for eligible studies 
+reporting on the efficacy and safety of direct oral anticoagulants versus warfarin in patients with atrial fibrillation who had 
+low bodyweight. These include PubMed, EMBASE, the Cochrane Database of Systematic Reviews, the Science Citation 
+Index, and the Database of Abstracts of Reviews of Effectiveness. Using the random effects model, derived pooled odd ratios 
+(with their corresponding confidence intervals) of mortality outcomes in patient cohorts exposed to direct oral anticoagulants 
+versus warfarin in patients with atrial fibrillation who had low bodyweight.
+Results Nine studies (n = 159,514 patients) were included in our meta-analysis. DOAC analogs were associated with lower 
+stroke recurrence compared with warfarin [odds ratio (OR) 0.66, 95% confidence interval (CI) 0.49–0.9]; however, there was 
+no significant difference in the composite outcome (OR 0.81, 95% CI 0.59–1.09) and mortality (OR 0.82, 95% CI 0.48–1.41). 
+Additionally, DOAC analogs showed a significant reduction in major bleeding events by 30% compared with warfarin (OR 
+0.70, 95% CI 0.62–0.80).
+Conclusion In this pooled meta-analytical synthesis of studies comprising both real-world and randomized controlled data, 
+the use of DOAC analogs in patients with atrial fibrillation and low bodyweight (< 60 kg or BMI < 18 kg/m 2) was associ-
+ated with a significant reduction in risks of stroke and major bleeding compared with patient cohorts stabilized on warfarin-
+based therapy. There was uncertainty regarding the composite outcome and mortality point estimate between these two 
+anticoagulation strategies. This finding helps to resolve the uncertainty associated with the use of DOACs in this cohort. 
+Additionally, it suggests the need for confirmatory non-inferiority randomized controlled trials evaluating DOACs versus 
+warfarin in this cohort of patients.
+1 Introduction
+Atrial fibrillation (AF) is the most common type of car -
+diac arrhythmia  [1 ]. AF could present as persistent, 
+permanent, or paroxysmal AF [1 ]. Ischemic stroke rep-
+resents the most morbidity-prone consequence in patients 
+with AF. Strokes related to AF are more severe and have 
+worse outcomes than those due to other cardiovascular 
+risks [ 2]. Consequently, stroke prevention represents the 
+ * Mohamed Nabil Elshafei 
+ mohnabil2010@yahoo.com; melshafei1@hamad.qa
+1 Clinical Pharmacy Department, Hamad Medical 
+Corporation, Doha, Qatar
+2 Pharmacy Department, The View Hospital, Doha, Qatar
+3 Internal Medicine Department, Hamad Medical Corporation, 
+Doha, Qatar
+4 Weill Cornell Medicine-Qatar, Doha, Qatar
+5 Department of Pharmacy, Hamad Medical Corporation 
+(HMC), P.O.3050, Doha, Qatar
+[[p2]]
+256 M. N. Elshafei et al.
+Key Points 
+Direct oral anticoagulant (DOAC) agents are the pre-
+ferred approach for stroke prevention in patients with 
+atrial fibrillation.
+Uncertainty remains regarding their use in patients with 
+low bodyweight (LBW).
+Our comprehensive analysis revealed that DOACs usage 
+in stroke prevention for patients with LBW  significantly 
+lowers the risk of stroke and major bleeding compared 
+with warfarin.
+fundamental therapeutic objective of AF management. 
+National and international clinical guidelines have long 
+established that anticoagulation (AC) is mandatory 
+(where indicated and in the absence of contraindications) 
+to prevent ischemic stroke. Until a few years ago, initial 
+bridging with low-molecular-weight heparin (LMWH) 
+followed by oral anticoagulation (OAC) with vitamin 
+K antagonists (VKA) has been considered the mainstay 
+of therapy [3 ]. However, as reported in multiple stud -
+ies, warfarin-based anticoagulation strategy is fraught 
+with many clinical, therapeutic, and logistical issues. 
+These range from potential drug–drug and drug–food 
+interactions to inter- and intra-individual variability 
+in both responses to treatment and risk of side effects 
+[4–7]. Others include the logistics involved in organiz-
+ing a reliable and robust international normalizing ratio 
+(INR) monitoring regimen (with its additional cost to 
+the overall cost of healthcare) [4 –6]. Consequent upon 
+these well-reported shortcomings, direct oral anticoagu-
+lants (DOACs) have been developed (including factor IIa 
+(thrombin) and factor Xa inhibitors) and have received 
+marketing authorization for various indications for which 
+their efficacy and safety have been proven. For example, 
+they have been approved by the Food and Drug Admin-
+istration (FDA) for stroke prevention in patients with 
+AF [7 –10]. A steady stream of randomized controlled 
+clinical trials (RCTs) has demonstrated the non-inferi-
+ority of these agents when compared with VKA with 
+regard to both efficacy and safety for systemic embolism 
+and stroke risk reduction in patients with AF [ 11–15]. 
+This has resulted in their incorporation into therapeutic 
+national/society guidelines [16, 17]. Since introducing 
+DOACs to the market, OAC management has witnessed 
+a significant paradigm shift [18].
+Among the favorable pharmacokinetic and pharmaco-
+dynamics of DOACs is their wider therapeutic window at 
+fixed dosing regimens and minimal and manageable food 
+and drug interactions without requiring routine moni-
+toring [19]. However, the low representation of patients 
+with low bodyweight (LBW; < 60  kg) in the main 
+DOACs trials has raised questions about the efficacy, 
+adequacy of fixed dosing, and safety in these cohorts of 
+patients.
+There is a paucity of evidence examining the efficacy and 
+safety of DOACs in patients with LBW. Patients with LBW 
+usually exert an inaccurate estimated renal function due to 
+lower muscle mass, affecting DOACs use and their optimum 
+dosing [20]. Additionally, initial RCTs evaluating DOACs in 
+AF or venous thromboembolism (VTE) did not incorporate 
+weight as an exclusion criterion; however, extreme-body-
+weight cohorts have hardly been reasonably represented in 
+clinical trials. [21, 22].
+Owing to this demonstrable lack of robust data, DOACs 
+pharmacokinetic studies have attempted to suggest pre -
+scriptive recommendations in patients with LBW exposed 
+to DOACs [21]. Chen et al. recommend adjusted doses of 
+apixaban and edoxaban and avoiding dabigatran and rivar -
+oxaban. [20]. Covert et al. recommend unadjusted doses for 
+rivaroxaban, apixaban, and edoxaban and cautiously using 
+dabigatran [23].
+A real-world Asian population study showed that using 
+DOACs (apixaban, rivaroxaban, dabigatran, and edoxa-
+ban) with an unadjusted dose in LBW was safer and more 
+effective than warfarin. [23]. Similarly, Barakat et al. found 
+that DOACs have a 30% significant reduction in the risk of 
+ischemic stroke and a 60% reduction in the risk of bleeding 
+events; however, the bleeding outcome did not reach statisti-
+cal significance. [24].
+Therefore, there is an unresolved uncertainty regard-
+ing the utility of DOAC analogs as a stroke prevention 
+strategy in patients with LBW [body mass index (BMI) 
+< 18 kg/m 2 or weight < 60 kg]. It will be valuable to 
+demonstrate that DOACs are at least non-inferior to 
+VKA with regard to efficacy and safety in this patient 
+population.
+In this meta-analysis, we aim to evaluate the effectiveness 
+(rates of stroke events, composite outcome, mortality) and 
+safety (major bleeding) of DOAC analogs compared with 
+warfarin in patients with AF and extremely  LBW.
+2  Methods
+This review followed PRISMA guidelines.
+2.1  Study Eligibility Criteria
+This systematic review and meta-analysis was conducted 
+adhering to the Preferred Reporting Items for Systematic 
+[[p3]]
+257
+DOACs Versus Warfarin in Patients with LBW Who have AF
+Reviews and Meta-Analyses (PRISMA) guidelines. Addi-
+tionally, the study was registered with PROSPERO under the 
+registration number CRD42023456605. We included real-
+world observational data and randomized controlled trials 
+comparing DOAC analogs versus warfarin in patients with 
+LBW (BMI < 18 or weight < 60 Kg). Ethical clearance was 
+not necessary, as this research involved already published 
+data accessible in the public domain.
+2.2  Search Strategy
+We conducted a literature search of PubMed, Med-
+line, and EMBASE since their inception till 01/06/2023. 
+No language, date, or article type restrictions were 
+adopted in our search strategy. Example of a database 
+search strategy is: ((((((((((((((direct oral anticoagu-
+lants) OR (new oral anticoagulants)) OR (rivaroxaban)) 
+OR (Dabigatran)) OR (Apixaban)) OR (Edoxaban)) 
+OR (DOACs)) OR (NOACs)) OR (DOACs [Title/
+Abstract])) OR (direct oral anticoagulants[Title/
+Abstract])) OR (new oral anticoagulants[Title/Abstract])) 
+OR (anticoagulant agents[MeSH Terms]) AND 
+(2022/5/31:2023/5/10[pdat])) AND (((((((warfarin[MeSH 
+Terms]) OR (warfarin)) OR (vitamin K antago-
+nist)) OR (Coumadin)) OR (Warfarin Sodium)) OR 
+(warfarin[Title/Abstract])) OR (vitamin k antagonist[Title/
+Abstract]) AND (2022/5/31:2023/5/10[pdat]))) AND 
+(((((atrial fibrillation[Title/Abstract]) OR (Atrial Fibril-
+lations)) OR (A. Fib)) OR (atrial fibrillation[MeSH 
+Terms])) OR (atrial fibrillations[MeSH Terms]) AND 
+(2022/5/31:2023/5/10[pdat]))) AND (((((((low weight) OR 
+(low bodyweight)) OR (underweight)) OR (low weight[Title/
+Abstract])) OR (low bodyweight[Title/Abstract])) OR 
+(underweight[MeSH Terms])) OR (low weight[MeSH 
+Terms]) AND (2022/5/31:2023/5/10[pdat])). Additionally, 
+we attempted a manual reference search of retrieved studies.
+2.3  Inclusion and Exclusion Criteria
+Inclusion criteria were as follows: (1) The study had to be 
+either a randomized controlled trial (RCT) or an observa-
+tional (prospective or retrospective cohort) study; (2) it 
+should have involved patients diagnosed with atrial fibril-
+lation (AF) and exhibiting LBW (defined as a BMI < 18 or 
+weight < 60 kg) who were prescribed warfarin or DOACs 
+(dabigatran, rivaroxaban, apixaban, or edoxaban); and (3) 
+the study needed to provide quantitative estimates of hazard 
+ratios (HRs) and 95% confidence intervals (CIs), specifically 
+addressing safety and effectiveness outcomes among these 
+patients. At a minimum, the studies were required to report 
+on stroke recurrence or major bleeding events to be consid-
+ered for inclusion in the review.
+We excluded studies that focused on patients with AF but 
+did not include a LBW  cohort. Additionally, certain types of 
+publications (e.g., reviews, case reports, case series, letters, 
+and conference abstracts) were excluded due to insufficient 
+data or lack of detailed study information. Pediatric patient 
+cohorts (< 18 years old) and studies that did not meet the 
+inclusion criteria were also excluded.
+2.4  Screening and Data Extraction
+The title and abstract were screened initially. Eligible arti-
+cles were retrieved for full-text review and assessment for 
+inclusion in our review. Two reviewers (ME and MS) per -
+formed the search and screening. In the case of disagreement 
+between the reviewers, this was resolved by consensus, or 
+a third reviewer (AE) adjudicated the disagreement follow-
+ing the protocol. We utilized a predetermined template for 
+retrieving the data. The extracted information encompasses 
+general article information, such as authorship, publication 
+year, study methodology, intervention and control specifics, 
+outcomes, weight, and more.
+2.5  Outcomes
+The primary outcome in our review is the rate of ischemic 
+stroke recurrence, composite outcome (combined ischemic 
+stroke, systemic embolism, and myocardial infarction), and 
+all-cause mortality. Major bleeding events served as our sec-
+ondary outcome (as defined by the primary study authors). 
+We would look at these outcomes at 6 months of follow-up 
+whenever specified in the study; otherwise, we would con-
+sider the extended observation period when the exposure 
+duration was not specified.
+2.6  Study Quality and Risk of Bias Assessment
+Using the Cochrane Risk of Bias Tool for Randomized Con-
+trolled Trials, reviewers evaluated the risk of bias (ROB) in 
+the included studies [ 25]. The six bias domains addressed 
+by the risk of bias tool are selection bias, performance 
+bias, detection bias, attrition bias, reporting bias, and other 
+biases. Cohort study quality was evaluated using the New -
+castle Ottawa Scale (NOS) [26]. Eight fundamental factors 
+were measured using the NOS scale, broken into three major 
+categories: Comparability, exposure, and research quality 
+selection. In the case of post hoc analysis, we also took a 
+distinct strategy to evaluate the risks of bias in each of the 
+original trials while using data from the research [27]. The 
+Review Manager (RevMan) software version 5.4 and the 
+Risk-of-Bias Visualization (robvis) tools were used to create 
+the visualization of the ROBs numbers.
+[[p4]]
+258 M. N. Elshafei et al.
+2.7  Statistical Analysis
+The odds ratios (OR) were computed as measures of effect 
+size. The Forest plot was generated to summarize the results. 
+Additionally, we conducted a sensitivity analysis to screen 
+for consistency and small-study effects. The I 2 statistic 
+was used to report heterogeneity. An  I2 > 50% is sugges-
+tive of marked heterogeneity in our review. The random-
+effects model was used as our meta-analytical technique. All 
+statistical analyses were performed with STATA software 
+(Stata MP 15 (StataCorp, College Station, TX).
+3  Results
+Our exhaustive search strategy retrieved 241 titles. After 
+screening these records, we selected 120 titles. After review-
+ing the abstracts, 19 remaining studies were potentially 
+available, which were then subjected to full-text screenings. 
+This review followed PRISMA guidelines.
+Records were iden/g415ﬁed through 
+database searching PubMed, Medline,  
+EMBASE, and Google Scholar. 
+Total (n=238)
+Iden/g415ﬁca/g415o n Addi/g415onal records iden/g415ﬁed 
+through other source s
+(n =3)
+Records a/g332er duplicates removed
+(n=236)
+Records screene d
+(n =120)
+Records excluded a/g332er reviewed 
+the /g415tle and abstract  
+(n =101)
+Full-text ar/g415cles  
+assessed for eligibility
+(n =19)
+Full-text ar/g415cles excluded,  
+with reasons
+(n =10)
+Wrong outcome (n=1)
+Wrong study design (n=1)
+Foreign language (n=1)
+Review ar/g415cles, Meta-
+analyses, or opinions (n=5)
+Wrong popula/g415on  
+(n =2)
+Studies included in  
+qualita/g415ve synthesi s
+(n = 9)
+Studies included in  
+quan/g415ta/g415ve synthesis 
+(meta-analysis)
+(n =9)
+ScreeningIncluded Eligibilit y
+Records excluded reviews, 
+opinions, and conference  
+abstracts (n =116)
+Fig. 1  PRISMA flow diagram
+[[p5]]
+259
+DOACs Versus Warfarin in Patients with LBW Who have AF
+Table 1  Characteristics of AF
+Study author Country Design Anticoagulant, 
+n (%)
+LBW and non-
+LBW (n)
+Mean age, 
+years ± SD, or 
+median, years 
+(IQR)
+Male, % Patients 
+included
+Weight-based 
+reported effi-
+cacy outcomes
+Safety out-
+comes
+Follow-up time
+Boehringer 
+Ingelheim 
+(RE-LY Dabi-
+150) 2009 
+[28]
+Global RCT Dabi-150, 6076 
+(50)
+Warf, 6022 (50)
+LBW: 1331
+Non-LBW: 
+10,762
+LBW Dabi-150: 
+647
+LBW Warf: 684
+Dabi-150: 71.5 
+± 8.8
+Warf: 71.6 ± 
+8.6
+Dabi-150: 63.2
+Warf: 63.3
+NVAF IS, SE Major bleeding 24 months
+Bayer AG 
+(ROCKET 
+AF) 2011 [29]
+Global RCT Riva, 7131 (50)
+Warf, 7133 (50)
+LBW: 1555
+Non-LBW: 
+12,709
+LBW Riva: 777
+LBW Warf: 778
+Riva: 73 
+(65–78)
+Warf: 73 
+(65–78)
+Riva: 60.3
+Warf: 60.3
+NVAF IS, SE Major bleeding 24 months
+Daiicii Sankyo 
+(ENGAGE 
+AF-TIMI 48) 
+(HD Edox) 
+2013 [30]
+Global RCT HD Edox, 
+(7035)
+Warf, (7036)
+LBW: 1385
+Non-LBW: 
+12,686
+LBW HD Edox: 
+684
+LBW Warf: 701
+HD Edox: 72 
+(64–78)
+Warf: 72 
+(64–78)
+HD Edox: 62.1
+Warf: 62.5
+NVAF IS, SE Major bleeding 33.6 months
+Hohnloser et al. 
+(ARISTO-
+TLE) 2019 
+[31]
+Global RCT Apix, 9088 
+(50.1)
+Warf, 9051 
+(49.9)
+LBW: 1985
+Non-LBW: 
+16,154
+LBW Apix: 
+1018
+LBW Warf: 967
+LBW: 74 
+(66–79)
+Non-LBW: 66
+Apix: 70 
+(63–76)
+Warf: 70 
+(63–76)
+LBW: 28
+Non-LBW: 69.3
+Apix: 64.5
+Warf: 65
+NVAF IS, SE, MI, 
+all-cause 
+mortality
+Major bleeding 21.8 months
+Lee et al. 2019 
+[32]
+South Korea Retrospective 
+cohort
+Apix, 3353 
+(15.5)
+Dabi, 3633 
+(16.8)
+Edox, 1073 (5)
+Riva, 6044 
+(27.9)
+Warf, 7575 (35)
+LBW: 21,678
+Non-LBW: 0
+DOACs: 72.6 
+± 7.4
+Warf: 72.9 ± 
+8.5
+DOACs: 32
+VKA: 32
+NVAF IS, all-cause 
+mortality
+Major bleeding 14.4 months
+Russo et al. 
+2020 [33]
+Italy Prospective 
+cohort
+Apix, 56 (20.1)
+Dabi, 23 (8.2)
+Edox, 6 (2.2)
+Riva, 50 (17.9)
+VKAs, 143 
+(51.3)
+LBW: 279
+Non-LBW: 0
+DOACs: 83.9 
+± 5.4
+Warf: 85.6 ± 
+3.6
+DOACs: 14.7
+VKA: 9.8
+AF IS, TIA, SE, 
+all-cause 
+mortality
+Major bleeding 28.5 months
+[[p6]]
+260 M. N. Elshafei et al.
+AF atrial fibrillation, Apix apixaban, Dabi dabigatran etexilate, DOAC direct oral anticoagulant, Edox edoxaban, HD high-dose, IS ischemic stroke, LBW low bodyweight, NVAF non-valvular 
+atrial fibrillation, Riva rivaroxaban, SE systemic embolism, TIA transient ischemic attacks, VKA vitamin K antagonist, Warf warfarin
+Table 1  (continued)
+Study author Country Design Anticoagulant, 
+n (%)
+LBW and non-
+LBW (n)
+Mean age, 
+years ± SD, or 
+median, years 
+(IQR)
+Male, % Patients 
+included
+Weight-based 
+reported effi-
+cacy outcomes
+Safety out-
+comes
+Follow-up time
+Lee et al. 2021
+[34]
+South Korea Retrospective 
+cohort
+Apix, 8489 
+(25.2)
+Dabi, 7020 
+(20.8)
+Edox, 5907 
+(17.5)
+Riva, 12,261 
+(36.4)
+Warf, 9496 
+(22.0)
+LBW: 1154
+Non-LBW: 
+42,019
+LBW: 76.6 ± 
+10.1
+Non-LBW: 70.6
+LBW: 54.3
+Non-LBW: 60
+NVAF IS, all-cause 
+mortality
+Major bleeding 7.2 months
+Nakao et al. 
+2022
+[35]
+UK Retrospective 
+cohort
+Apix, 2617 
+(9.0)
+Dabi, 579 (2.0)
+Edox, 151 (0.5)
+Riva, 2970 (9.8)
+Warf, 22,818 
+(78.3)
+LBW: 585
+Non-LBW: 
+28,550
+LBW: 83.6
+Non-LBW: 77.3
+LBW: 31.2
+Non-LBW: 54.2
+AF IS, all-cause 
+mortality
+Major bleeding 44.4 months
+Russo et al. 
+(PREFER-AF) 
+2022 [36]
+Italy Prospective 
+cohort
+Apix, 48 (11.3)
+Dabi 59 (13.9)
+Riva, 106 (24.9)
+VKA, 213 (50)
+LBW: 426
+Non-LBW: 0
+DOACs: 82.46 
+± 4.85
+VKA: 82.21 ± 
+4.87
+DOACs: 9.3
+VKA: 15.4
+AF Stroke, TIA, 
+SE, all-cause 
+mortality
+Major bleeding 12 months
+[[p7]]
+261
+DOACs Versus Warfarin in Patients with LBW Who have AF
+B.
+Boehringe rI ngelheim (RE-LY Dabi-150) 2009
+Bayer AG (ROCKET AF) 2011
+Daiicii Sankyo (ENGAGE AF-TIMI 48) 2013
+Hohnlose re ta l (ARISTOTLE) 2019
+Russo et al 2020
+Russo et al (PREFER-AF) 2022
+Overall
+Heterogeneity: τ
+2
+=0 .06, I
+2
+= 42.24%, H
+2
+=1 .73
+Test of θi =θ j :Q (5)=7.67, p=0.18
+Test of θ=0 : z=- 1.39, p=0.17
+Study
+20
+35
+44
+52
+4
+8
+Composite
+LBW DOAC
+627
+742
+640
+966
+132
+205
+No
+41
+49
+50
+40
+6
+10
+Composite
+LBWW arfarin
+643
+726
+651
+927
+137
+203
+No
+1/4 1/2 1 2
+with 95%C I
+OR
+0.50 [
+0.70 [
+0.90 [
+1.25 [
+0.69 [
+0.79 [
+0.81 [
+0.29,
+0.45,
+0.59,
+0.82,
+0.19,
+0.31,
+0.59,
+0.86]
+1.09]
+1.36]
+1.90]
+2.51]
+2.05]
+1.09]
+17.91
+22.16
+23.42
+23.31
+4.94
+8.26
+(%)
+Weight
+Random-effects REMLm odel
+Hohnloser et al (ARISTOTLE) 2019
+Lee et al 2019
+Lee et al 2021
+Nakaoe ta l 2022
+Overall
+Heterogeneity: τ
+2
+= 0.03, I
+2
+\?ROMTWD?Kg
+2
+= 1.44
+Test of θi =θ j :Q (3)=3.70, p=0.30
+Test of θ=0: z=-2.65, p=0.01
+Study
+30
+342
+19
+4
+Stroke
+LBW DOAC
+988
+13,761
+884
+161
+No
+31
+310
+6
+9
+Stroke
+LBWW arfarin
+936
+7,265
+245
+156
+No
+1/4 1/2 1 2
+with 95% CI
+OR
+0.92 [
+0.58 [
+0.88 [
+0.43 [
+0.66 [
+0.55,
+0.50,
+0.35,
+0.13,
+0.49,
+1.53]
+0.68]
+2.22]
+1.43]
+0.90]
+23.88
+60.86
+9.35
+5.92
+(%)
+Weight
+Random-effects REMLm odel
+Hohnloser et al (ARISTOTLE) 2019
+Leee ta l2 019
+Russo et al 2020
+Leee ta l2 021
+Nakaoe ta l2 022
+Russo et al (PREFER-AF) 2022
+Overall
+Heterogeneity: τ
+2
+= 0.36, I
+2
+=9 1.99%, H
+2
+=1 2.48
+Testo fθ i =θ j :Q (5) =3 0.39, p=0.00
+Testo fθ=0 : z=-0.72, p=0.47
+Study
+122
+654
+17
+89
+54
+6
+Mortality
+LBWD OAC
+896
+13,449
+119
+814
+111
+207
+No
+107
+498
+54
+QT
+51
+1
+Mortality
+LBWW arfarin
+860
+7,077
+89
+226
+114
+212
+No
+1/4 1 4 16
+with 95% CI
+OR
+1.09 [
+0.69 [
+0.24 [
+0.99 [
+1.09 [
+6.14 [
+0.82 [
+0.83,
+0.61,
+0.13,
+0.62,
+0.68,
+0.73,
+0.48,
+1.44]
+0.78]
+0.43]
+1.58]
+1.73]
+51.48]
+1.41]
+20.21
+21.10
+16.80
+18.42
+18.46
+5.00
+(%)
+Weight
+Random-effect sR EML model
+A.
+C.
+Fig. 2  A Depicting a forest plot of stroke recurrence rates in DOAC 
+analogs compared with warfarin in patients with LBW. B Depicting 
+a forest plot of composite outcomes in DOAC analogs compared with 
+warfarin in patients with LBW. C Depicting a forest plot of mortal-
+ity in DOAC analogs compared with warfarin in patients with LBW. 
+D Depicting a forest plot of major bleeding events in DOAC analogs 
+compared with warfarin in patients with LBW. REML random-effects 
+model
+[[p8]]
+262 M. N. Elshafei et al.
+Following our predefined inclusion and exclusion criteria, 
+we excluded 10 studies for various reasons: (1) wrong out-
+come (n = 1); (2) wrong study design (n  = 1); (3) foreign 
+language (n = 1); (4) review articles, meta-analyses, or opin-
+ions (n  = 5); and (5) wrong population (n  = 2). The total 
+number of patients evaluated in these studies is 159,514 
+patients. The included studies were five observational and 
+four randomized controlled studies [29–37] meeting our eli-
+gibility criteria (Fig.  1 shows the PRISMA flow diagram; 
+Table 1 summary of studies included in the meta-analysis).
+3.1  Recurrent stroke
+Only four studies evaluated stroke recurrent events in 
+patients with LBW [31, 32, 34, 35]. These studies showed 
+that DOAC analogs were associated with a 34% reduction 
+of stroke events compared with warfarin (OR 0.66, 95% CI 
+0.49–0.9, Q = 3.70, I2 = 30.58%). The low I2 suggested the 
+homogeneity of the results (Fig. 2). We conducted subgroup 
+analysis of the primary efficacy end point based on ethnicity 
+and study type (Fig. 3). The funnel plot revealed no marked 
+asymmetry (Fig. 8).   
+3.2  Composite Outcome
+Six studies reported composite outcomes in patients with 
+LBW [28–31, 33, 36]. Prescribing DOACs in patients with 
+LBW with atrial fibrillation had a consistent non-significant 
+trend toward an overall reduced composite outcome by 19% 
+(OR 0.81, 95% CI 0.59–1.09, Q  = 7.67, I 2 = 42.24%; Fig 
+2). Among all DOACs, only dabigatran demonstrated a 
+significant reduction in composite outcomes compared with 
+warfarin (Fig. 4). 
+3.3  Mortality
+Six studies evaluated mortality outcomes in patients with 
+LBW [31–36]. These studies showed no significant differ -
+ence in mortality associated with DOACs compared with 
+warfarin. In the pooled analysis of the six studies, patients 
+with LBW with AF who received DOACs had no signifi-
+cant mortality difference versus warfarin (OR 0.82, 95% CI 
+0.48–1.41; Fig. 5; Q = 1.78, I2 = 0%)  (Fig. 6).(see Fig. 6).
+3.4  Major Bleeding
+Nine studies evaluated and reported the risk of major bleed-
+ing events [28–36]. DOAC analogs had a consistent signifi-
+cant trend toward an overall reduced risk of major bleeding 
+events by 30% (OR 0.70, 95% CI 0.62–0.80, Q = 6.69, I 2 
+= 0%; Fig.  2). Among all DOACs, only apixaban signifi -
+cantly reduced major bleeding events compared with warfa-
+rin (Fig. 7). The funnel plot showed no marked asymmetry 
+(Fig. 8).
+3.5  Risk of Bias Assessment
+Three clinical trials and one post hoc analysis showed a 
+low risk of bias, while Bayer AG et al. 2010 showed an 
+overall unclear risk of bias (Fig.  9). The main domain 
+of high risk among the four studies was allocation con-
+cealment (selection bias). The overall quality assessment 
+of cohort studies revealed a low risk of bias among all 
+Boehringer Ingelheim  (RE-LY Dabi-150) 2009
+Bayer AG (ROCKET AF) 2011
+Daiicii Sankyo (ENGAGE AF-TIMI 48) 2013
+Hohnloser et al (ARISTOTLE) 2019
+Lee et al 2019
+Russo et al  2020
+Lee et al 2021
+Nakao et al 2022
+Russo et al (PREFER-AF) 2022
+Overall
+Heterogeneity: τ
+2
+ = 0.00, I
+2
+ = 0.00%, H
+2
+ = 1.00
+Test of θ i  = θ j : Q(8) = 6.69, p = 0.57
+Test of θ = 0: z = -5.41, p = 0.00
+Study
+43
+32
+38
+36
+328
+9
+7
+12
+4
+Major bleeding
+LBW DOAC
+603
+743
+643
+977
+13,775
+127
+896
+153
+209
+No
+50
+45
+58
+62
+250
+13
+1
+9
+9
+Major bleeding
+LBW Warfarin
+633
+733
+640
+903
+7,325
+130
+250
+156
+204
+No
+1/4 1/2 1 2 4 8
+with 95% C I
+OR
+0.90 [
+0.70 [
+0.65 [
+0.54 [
+0.70 [
+0.71 [
+1.95 [
+1.36 [
+0.43 [
+0.70 [
+0.59,
+0.44,
+0.43,
+0.35,
+0.59,
+0.29,
+0.24,
+0.56,
+0.13,
+0.62,
+1.38]
+1.12]
+1.00]
+0.82]
+0.82]
+1.72]
+15.95]
+3.32]
+1.43]
+0.80]
+9.21
+7.62
+9.17
+9.30
+59.00
+2.10
+0.37
+2.06
+1.15
+(%)
+Weight
+Random-effects REML model
+D.
+Fig. 2  (continued)
+[[p9]]
+263
+DOACs Versus Warfarin in Patients with LBW Who have AF
+included studies (Fig.  8), and the “adequacy of follow-up 
+of cohort” item was the leading cause of the high risk of 
+bias (Fig.  9).
+4  Discussion
+From this pooled meta-analytical synthesis of studies explor-
+ing the efficacy and safety of DOACs versus warfarin in 
+patients with LBW who have nonvalvular AF (NVAF), we 
+found those exposed to DOACs had about 34% relative risk 
+reduction in stroke-related outcomes compared with those 
+on warfarin. Conversely, we found instability in the final 
+point estimates of DOACs versus warfarin in mortality 
+reduction and the composite outcomes. Among the DOAC 
+analogs, only dabigatran demonstrated a significant reduc-
+tion in composite outcomes compared with warfarin. Other 
+DOACs showed a reduction trend in hard clinical endpoints 
+but with unstable point estimates. The significant reduction 
+in composite-related outcomes in cohorts of patients on 
+dabigatran, in particular, is a novelty given that its pivotal 
+primary trials in both NVAF and VTE [28, 37–39], recruited 
+very few patients with LBW, which therefore meant that 
+these studies failed to provide any actionable insight into its 
+effect on patients with LBW. The RELY trial, in particular, 
+only recruited 376 (about 2% of the total population) patients 
+with NVAF and was not powered ab initio to detect efficacy 
+and safety differences in patients weighing < 50 kg. Our 
+pooled synthesis provided the requisite numerical scaffold 
+and statistical power crucial to testing the weighted effect of 
+LBW on hard clinical endpoints in these cohorts of patients. 
+Patients with LBW represent an essential proportion of the 
+general population, and the outcome of this review will pro-
+vide an additional layer of therapeutic reassurance to this 
+demography, at least in NVAF-related stroke risk reduction.
+The advent of DOACs did herald understandable excite-
+ment and genuine expectation, especially in their ability to 
+reduce hard clinical endpoints effectively and safely with-
+out the associated inconvenience of traditional VKAs (such 
+as the need for therapeutic drug monitoring and drug–drug 
+interactions, among others). Reported clinical outcomes 
+from extremes-of-weight patient cohort studies, especially 
+in observational patient databases, appear to negate these 
+benefits. Despite combining RCTs and observational stud-
+ies in the total pool of studies evaluated in this review, we 
+found modest heterogeneity (I2 = 30%), further emphasizing 
+the stability of our estimates, especially those relating to 
+reduced stroke-related outcomes.
+The dearth of robust, specific pharmacokinetic stud-
+ies exploring dose-related hard clinical outcomes in these 
+patients’ cohorts meant that estimates from our pooled 
+synthesis would provide the very first robust data to guide 
+decision-making at the guideline evaluation stage and the 
+patient level. Although previous reviews, as well as some 
+international guidelines, have suggested the avoidance of 
+DOACs in patients with LBW [23, 40], our recommenda-
+tion, especially with regard to stroke patients, is prescriptive 
+and explicit; they should be considered reliable and safe in 
+RCT
+Retropective
+Asian
+Europe
+Global
+Type of study
+Ethnicity
+Overall
+Heterogeneity:
+2
+=0 .03, I
+2
+= 30.58%,H
+2
+=1 .44
+Test of i = j:Q (3)=3.70, p=0.30
+Test of group differences:Q b(1)=2.71, p=0.10
+Test of group differences:Q b(2)=2.97, p=0.23
+Study
+1
+3
+2
+1
+1
+K
+1/4 1/2 1
+with 95% CI
+OR
+0.92 [
+0.59 [
+0.59 [
+0.43 [
+0.92 [
+0.66 [
+0.55,
+0.50,
+0.50,
+0.13,
+0.55,
+0.49,
+1.53]
+0.68]
+0.69]
+1.43]
+1.53]
+0.90]
+0.738
+0.000
+0.000
+0.168
+0.738
+0.008
+p-value
+Random-effects REMLm odel
+Fig. 3  Subgroup analysis assessing stroke recurrence rate in DOACs versus warfarin according to the study type and ethnicity. REML random-
+effects model
+[[p10]]
+264 M. N. Elshafei et al.
+this cohort of patients (except in situations where explicit 
+contraindications for the use of DOACs exists). Notably, 
+within the studies analyzed in our meta-analysis, individu-
+als with LBW predominantly received reduced doses rather 
+than the standard dosage. The direct impact of this dispar -
+ity on safety and effectiveness outcomes is not immedi-
+ately clear. Determining whether this factor should prompt 
+recommendations to initiate patients with low bodyweight 
+on standard doses requires further investigation. Current 
+guidelines suggest the utilization of DOACs, particularly 
+apixaban and edoxaban, in patients weighing between 40 
+and 60 kg. For those weighing less than 40 kg, guidelines 
+recommend either the use of vitamin K antagonists (VKAs) 
+or conducting plasma level measurements of DOACs [41]. 
+However, there is presently no guidance available regarding 
+dose reduction in instances of supra-therapeutic levels [42]. 
+This highlights an area necessitating additional guidance and 
+research to establish optimal dosing strategies for individu-
+als with LBW.
+Pivotal trials of DOACs such as ROCKET-AF [29] did 
+report data for underweight patients, but they constitute an 
+insignificant proportion of the entire trial population (4.25% 
+??????alh??≤?QT NQHM?n???
+pivotal trials of DOACs leading to their marketing authori-
+zation, only ARISTOTLE [43], exploring the efficacy and 
+safety of apixaban for prevention risk reduction in patients 
+with NVAF, recruited what could be considered a relatively 
+“reasonable” number of patients with LBW [11% (n = 1985) 
+of the study cohort]. A pre-specified analysis of this LBW 
+cohort, as reported elsewhere [28], showed no difference in 
+efficacy and safety outcomes between them and patients with 
+normal bodyweight. This perhaps explains the lack of uncer-
+tainty regarding apixaban’s efficacy and safety outcomes in 
+patients with LBW. There is, however, a caveat regarding the 
+absence of additional information on the exact proportion 
+of patients with LBW in this trial that had apixaban dose 
+reduction.
+Hohnloser et al (ARISTOTLE) 2019
+Boehringer Ingelheim (RE-LY Dabi-150) 2009
+Daiicii Sankyo (ENGAGE AF-TIMI 48) 2013
+Russo et al 2020
+Russo et al (PREFER-AF) 2022
+BayerA G( ROCKET AF) 2011
+Apixaban
+Dabigatran
+Edoxaban
+Mixed
+Rivaroxaban
+Overall
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00, I
+2
+=0 .00%, H
+2
+=1 .00
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .06, I
+2
+= 42.24%, H
+2
+=1 .73
+Test of i = j:Q (0)=-0.00, p=.
+Test of i = j:Q (0)=0.00, p=.
+Test of i = j:Q (0)=-0.00, p=.
+Test of i = j:Q (1)=0.03, p=0.87
+Test of i = j:Q (0)=0.00, p=.
+Test of i = j:Q (5)=7.67, p=0.18
+Test of group differences:Q b(4)=7.64, p=0.11
+Study
+52
+20
+44
+4
+8
+35
+Composite outcomes
+LW DOAC
+966
+627
+640
+132
+205
+742
+No
+40
+41
+50
+6
+10
+49
+Composite outcomes
+LW Warfarin
+927
+643
+651
+137
+203
+726
+No
+1/4 1/2 1 2
+with 95% CI
+OR
+1.25 [
+0.50 [
+0.90 [
+0.69 [
+0.79 [
+0.70 [
+1.25 [
+0.50 [
+0.90 [
+0.76 [
+0.70 [
+0.81 [
+0.82,
+0.29,
+0.59,
+0.19,
+0.31,
+0.45,
+0.82,
+0.29,
+0.59,
+0.35,
+0.45,
+0.59,
+1.90]
+0.86]
+1.36]
+2.51]
+2.05]
+1.09]
+1.90]
+0.86]
+1.36]
+1.62]
+1.09]
+1.09]
+23.31
+17.91
+23.42
+4.94
+8.26
+22.16
+(%)
+Weight
+Random-effects REML model
+Fig. 4  Subgroup analysis assessing composite outcomes in DOACs versus warfarin according to type of DOAC. REML random-effects model
+[[p11]]
+265
+DOACs Versus Warfarin in Patients with LBW Who have AF
+Fig. 5  Subgroup analysis assessing mortality in DOACs versus warfarin according to type of DOAC. REML random-effects model
+Hohnloser et al (ARISTOTLE) 2019
+Lee et al 2019
+Lee et al 2021
+Nakao et al 2022
+Apixaban
+Mixed
+Overall
+Heterogeneity:
+2
+=0 .00,I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00,I
+2
+= 0.00%, H
+2
+=1 .00
+Heterogeneity:
+2
+=0 .03,I
+2
+=3 0.58%, H
+2
+= 1.44
+Testo f i = j:Q (0)=-0.00, p=.
+Testo f i = j:Q (2)=0.99, p=0 .61
+Testo f i = j:Q (3)=3.70, p=0 .30
+Testo f group differences:Q b(1)=2.71, p=0.10
+Study
+30
+342
+19
+4
+Stroke
+LW-DOAC
+988
+13,761
+884
+161
+No
+31
+310
+6
+9
+Stroke
+LW-Warfarin
+936
+7,265
+245
+156
+No
+1/4 1/2 1 2
+with 95% CI
+OR
+0.92 [
+0.58 [
+0.88 [
+0.43 [
+0.92 [
+0.59 [
+0.66 [
+0.55,
+0.50,
+0.35,
+0.13,
+0.55,
+0.50,
+0.49,
+1.53]
+0.68]
+2.22]
+1.43]
+1.53]
+0.68]
+0.90]
+23.88
+60.86
+9.35
+5.92
+(%)
+Weight
+Random-effectsR EML model
+Fig. 6  Subgroup analysis assessing stroke events in DOACs versus warfarin according to type of DOAC. REML random-effects model
+[[p12]]
+266 M. N. Elshafei et al.
+Additionally, our pooled meta-analytical synthesis 
+showed an overall reduced risk of major bleeding episodes 
+(30%) with DOACs compared with warfarin. Among the 
+spectrum of DOACs, our subgroup analysis unveiled a sig-
+nificant reduction in major bleeding events with apixaban 
+compared with warfarin. Our findings align with the conclu-
+sions drawn by Ballestri et al. and Lopez et al., both assert-
+ing that apixaban demonstrated the most favorable safety 
+profile among oral anticoagulants (OACs) [42, 44]. This 
+consistency in results reinforces the safety advantages of 
+apixaban. Similar affirmations regarding apixaban’s safety 
+benefits were evident in real-world observational trials, sys-
+tematic reviews, and meta-analyses conducted by Li G et al. 
+and Zhang J et al. and their research teams, who also found 
+apixaban to be the most preferred OAC [45, 46].
+One often reported flaw of previous studies that com-
+pared bleeding risks associated with DOACs was the lack of 
+head-to-head comparison between individual DOACs with 
+VKA; rather, bleeding risks were reported as an aggregate of 
+all DOACs combined. As alluded to earlier, no such uncer-
+tainty regarding bleeding risks subsists for apixaban [40]. 
+The ENGAGE-AF TIMI 48 trial [30] examining the efficacy 
+and safety of two doses of edoxaban in patients with NVAF 
+did not report any focused analyses in patients with LBW. 
+Therefore, no robust prescriptive recommendation regard-
+ing its use has been forthcoming from international clinical 
+guidelines. However, because ENGAGE-AF TIMI 48 [30] 
+data showed a significantly higher risk of ischemic strokes 
+among patients randomized to the 30 mg edoxaban dose, it 
+is unlikely any dose other than the alternative 60 mg will 
+Hohnloser et al (ARISTOTLE) 2019
+Boehringer Ingelheim (RE-LY Dabi-150) 2009
+Daiicii Sankyo (ENGAGE AF-TIMI 48) 2013
+Lee et al 2019
+Russo et al 2020
+Lee et al 2021
+Nakao et al 2022
+Russo et al (PREFER-AF) 2022
+Bayer AG (ROCKET AF) 2011
+Apixaban
+Dabigatran
+Edoxaban
+Mixed
+Rivaroxaban
+Overall
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00, I
+2
+=0 .00%,H
+2
+=1 .00
+Heterogeneity:
+2
+=0 .00, I
+2
+=. %, H
+2
+=.
+Heterogeneity:
+2
+=0 .00, I
+2
+=0 .00%,H
+2
+=1 .00
+Test of i = j:Q (0)=0 .00, p=.
+Test of i = j:Q (0)=- 0.00, p=.
+Test of i = j:Q (0)=0 .00, p=.
+Test of i = j:Q (4)=3 .62, p=0.46
+Test of i = j:Q (0)=0 .00, p=.
+Test of i = j:Q (8)=6 .69, p=0.57
+Test of group differences:Q b(4)=3.07, p=0.55
+Study
+36
+43
+38
+328
+9
+7
+12
+4
+32
+Major bleeding
+LW DOAC
+977
+603
+643
+13,775
+127
+896
+153
+209
+743
+No
+62
+50
+58
+250
+13
+1
+9
+9
+45
+Majorb leeding
+LW Warfarin
+903
+633
+640
+7,325
+130
+250
+156
+204
+733
+No
+1/4 1/2 1 2 4 8
+with 95% CI
+OR
+0.54 [
+0.90 [
+0.65 [
+0.70 [
+0.71 [
+1.95 [
+1.36 [
+0.43 [
+0.70 [
+0.54 [
+0.90 [
+0.65 [
+0.71 [
+0.70 [
+0.70 [
+0.35,
+0.59,
+0.43,
+0.59,
+0.29,
+0.24,
+0.56,
+0.13,
+0.44,
+0.35,
+0.59,
+0.43,
+0.61,
+0.44,
+0.62,
+0.82]
+1.38]
+1.00]
+0.82]
+1.72]
+15.95]
+3.32]
+1.43]
+1.12]
+0.82]
+1.38]
+1.00]
+0.83]
+1.12]
+0.80]
+9.30
+9.21
+9.17
+59.00
+2.10
+0.37
+2.06
+1.15
+7.62
+(%)
+Weight
+Random-effects REMLm odel
+Fig. 7  Subgroup analysis assessing major bleeding in DOACs versus warfarin according to type of DOAC. REML random-effects model
+[[p13]]
+267
+DOACs Versus Warfarin in Patients with LBW Who have AF
+suffice in any cohort of patients (including those with LBW). 
+This concern also extends to its bleeding risks.
+Our meta-analysis results are consistent with Grymon-
+prez et al.’s meta-analysis, which demonstrated a significant 
+reduction in the risks of stroke/systemic embolism and major 
+bleeding in patients treated with DOACs compared with 
+those treated with warfarin, with no significant difference 
+in all-cause mortality [ 47]. Additionally, we examined the 
+composite outcomes between the two anticoagulation strate-
+gies, and our findings did not show any statistically signifi-
+cant differences. In contrast, a meta-analysis conducted by 
+Boonyawat et al. included a diverse cohort of patients with 
+AF and acute venous thromboembolism (VTE), receiving 
+DOACs or warfarin for stroke prevention or VTE treatment. 
+Their analysis revealed higher incidence of thromboembolic 
+events in patients with LBW (4.28%) compared with patients 
+who do not have LBW (2.74%), suggesting that patients with 
+LBW may indeed pose a higher risk of thromboembolic 
+events in anticoagulated patients, but with no significant 
+difference in bleeding outcomes between LBW group and 
+non-LBW group (5.96% versus 6.08). [48]
+The recent meta-analysis exploring the effectiveness and 
+safety of warfarin and DOACs in individuals with AF or 
+VTE across different BMI categories revealed noteworthy 
+A.
+.Cc
+B.
+0.2.4.6
+Standarde rror
+-2 -1 0 1
+OR
+Pseudo 95% CI Studies
+Estimated IV
+Funnel plot
+0.2.4.6.81
+Standard error
+-3 -2 -1 0 1 2
+OR
+Pseudo9 5% CI Studies
+Estimated IV
+Funnel plot
+Prob >| z| =0 .7575
+z= 0.31
+SE of beta1= 1.020
+beta1= 0.31
+H0:b eta1 =0 ;n os mall-study effects
+Method:R EML
+Random-effects model
+Regression-basedE gger test fors mall-studye ffects
+Fig. 8  A Funnel plot to assess the publication bias for studies assess-
+ing stroke recurrence in DOAC analogs versus warfarin displaying 
+no marked asymmetry. B Funnel plot to assess the publication bias 
+for studies assessing major bleeding events in DOAC analogs versus 
+warfarin showing no marked asymmetry. C Regression-based Egger 
+test for small-study effects denoting a negligible degree of publication 
+bias. REML random-effects model
+[[p14]]
+268 M. N. Elshafei et al.
+Fig. 9  Risk of bias assessment
+
+[[p15]]
+269
+DOACs Versus Warfarin in Patients with LBW Who have AF
+findings. It showed a higher incidence of major bleeding 
+events among underweight patients using DOACs com-
+pared with patients with normal weight. However, there 
+was no significant difference in VTE or stroke recurrence 
+rates between these groups. Additionally, when comparing 
+DOACs to warfarin across various BMI categories (normal 
+weight, overweight, and obese), the analysis revealed a sig-
+nificant increase of major bleeding events among patients on 
+warfarin compared with DOACs. However, the rates of VTE 
+recurrence or stroke did not significantly differ between the 
+two therapies within the same weight categories. However, 
+it is crucial to note that this analysis did not specifically 
+examine or report on the comparison between DOACs and 
+warfarin in the LBW category [49].
+4.1  Strengths and Limitations
+This meta-analytical review represents the first robust pur -
+poseful examination of published reports examining the effi-
+cacy and safety of DOACs versus warfarin among patients 
+with LBW who have NVAF. Our finding of a significant 
+reduction in systemic stroke risk reduction and reduced risks 
+of major bleeding among patients with LBW on DOACs ver-
+sus warfarin is seminal. It provides more clarity in the man-
+agement of these patients. It has the prescriptive potential to 
+necessitate national and international guidelines review to 
+give a more explicit recommendation of DOACs for reduc-
+ing systemic stroke risks in these cohorts of patients. Includ-
+ing data from pivotal Marche clinical trials responsible for 
+acquiring the various DOACs marketing authorization [29, 
+31, 43] in our analyses adds rigor to our analyses and infer-
+ences drawn from them.
+The combination of RCTs and real-world data in our anal-
+yses may have accounted for the lack of certainty regarding 
+the point estimates of some of our evaluated outcomes, espe-
+cially composite outcomes and subgroup analyses.
+5  Conclusion
+In a pooled examination of studies evaluating therapeutic 
+anticoagulation strategies, patient cohorts with LBW who 
+received DOACs had a significant reduction in stroke and 
+major bleeding risks compared with those receiving warfa-
+rin. There was uncertainty regarding mortality and compos-
+ite outcomes between the two strategies. This will suggest 
+the need to revisit current clinical guidelines, especially on 
+updating recommendations regarding the safety of  DOACs 
+in LBW patients with stroke.
+Acknowledgment The Qatar National Library (QNL) provides the 
+Open-access funding.
+Declarations 
+Funding Open Access funding provided by the Qatar National Library. 
+Apart from the publication fund provided by QNL, no other funding 
+was sought for the conduction of this review.
+Conflict of Interest Mohamed Nabil Elshafei, Muhammad Salem, 
+Ahmed El-Bardissy, Mohamed S Abdelmoneim, Ahmed Khalil, 
+Sherine Elhadad, and Mohammed Danjuma declare no conflicts of in-
+terest relevant to this review or its publication.
+Ethics Approval None is sought or required, as this is a secondary syn-
+thesis of already available data.
+Consent to Participate  Not applicable.
+Consent for Publication  Not applicable.
+Author’s Contributions ME, MAM, and AE agreed on the review idea. 
+ME and MS performed the initial search, screening, and data extrac-
+tion. MA, AE, MS, and ME extracted data. ME and MID constructed 
+the tables. ME and MD analyzed the data. ME produced the figures. 
+ME, AE, MD, and MA wrote the initial manuscript. The manuscript 
+was then critically revised by ME, MID, and AE. All the authors 
+approved the final version of the manuscript for publication.
+Data Availability Statement All the data generated or analyzed during 
+this study are included in the publication article.
+Open Access This article is licensed under a Creative Commons Attri-
+bution-NonCommercial 4.0 International License, which permits any 
+non-commercial use, sharing, adaptation, distribution and reproduction 
+in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Com-
+mons licence, and indicate if changes were made. The images or other 
+third party material in this article are included in the article’s Creative 
+Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons 
+licence and your intended use is not permitted by statutory regula-
+tion or exceeds the permitted use, you will need to obtain permission 
+directly from the copyright holder. To view a copy of this licence, visit 
+http://creativecommons.org/licenses/by-nc/4.0/.
+References
+ 1. Healey JS, Connolly SJ, Gold MR, Israel CW, Van Gelder 
+IC, Capucci A, Lau C, Fain E, Yang S, Bailleul C, et al. Sub-
+clinical atrial fibrillation and the risk of stroke. N Engl J Med. 
+2012;366:120–9.
+ 2. Lip GY. Anticoagulation therapy and the risk of stroke in patients 
+with atrial fibrillation at ‘moderate risk’ [CHADS2 score=1]: sim-
+plifying stroke risk assessment and thromboprophylaxis in real-
+life clinical practice. Thromb Haemost. 2010;103:683–5.
+ 3. Stevens SM, Woller SC, Kreuziger LB, Bounameaux H, Doer -
+schug K, Geersing GJ, Huisman MV, Kearon C, King CS, 
+Knighton AJ, Lake E, Murin S, Vintch JRE, Wells PS, Moores 
+LK. Antithrombotic therapy for VTE disease: second update 
+of the CHEST Guideline and Expert Panel Report. Chest. 
+2021;160(6):e545–608. https:// doi. org/ 10. 1016/j. chest. 2021. 07. 
+055. (Epub 2021 Aug 2. Erratum in: Chest. 2022;162(1):269. 
+PMID: 34352278).
+[[p16]]
+270 M. N. Elshafei et al.
+ 4. Andreu, V. and J., Pérez- Roldán V, López-Fernández MF. 
+Pharmacogenetics of acenocoumarol in patients with extreme 
+dose requirements. J Thromb Haemost. 1012, 2010. 8 SRC 
+- BaiduScholar.
+ 5. Holbrook AM, et al. Systematic overview of warfarin and its drug 
+and food interactions. Arch Intern Med. 2005;165(10):1095–106.
+ 6. Sconce E, et al. Vitamin K supplementation can improve stabil-
+ity of anticoagulation for patients with unexplained variability in 
+response to warfarin. Blood. 2007;109(6):2419–23.
+ 7. Kearon C, Akl EA, Ornelas J, Blaivas A, Jimenez D, Bounameaux 
+H, Huisman M, King CS, Morris TA, Sood N, Stevens SM, Vintch 
+JRE, Wells P, Woller SC, Moores L. Antithrombotic therapy for 
+VTE Disease: CHEST Guideline and Expert Panel Report. Chest. 
+2016;149(2):315–52. https:// doi. org/ 10. 1016/j. chest. 2015. 11. 026. 
+(Epub 2016 Jan 7. Erratum in: Chest. 2016;150(4):988. PMID: 
+26867832.).
+ 8. https:// www. acces sdata. fda. gov/ drugs atfda_ docs/ nda/ 2010/ 02251 
+2orig 1s000 toc. cfm#: ~: text= Appro val% 20Date% 3A% 2010% 
+QePXD?QeQOPOM?`?QT?i?QOQRM
+ 9. https:// www. acces sdata. fda. gov/ drugs atfda_ docs/ nda/ 2011/ 02240 
+Un?POOO?snbM?M?`?QT?i?QOQRM
+ 10. https:// www. acces sdata. fda. gov/ drugs atfda_ docs/ nda/ 2015/ 20631 
+U?P?QOOO?M?M?`?QT?i?QOQRM
+ 11. https:// www. acces sdata. fda. gov/ drugs atfda_ docs/ nda/ 2012/ 20215 
+T?POOO?M?M?`?QT?i?QOQRM
+ 12. Agnelli G, et al. Oral apixaban for the treatment of acute venous 
+thromboembolism. N Engl J Med. 2013;369(9):799–808.
+ 13. Hokusai VTEI, et al. Edoxaban versus warfarin for the treat-
+ment of symptomatic venous thromboembolism. N Engl J Med. 
+2013;369(15):1406–15.
+ 14. Investigators E, et al. Oral rivaroxaban for symptomatic venous 
+thromboembolism. N Engl J Med. 2010;363(26):2499–510.
+ 15. Investigators EP, et  al. Oral rivaroxaban for the treat-
+ment of symptomatic pulmonary embolism. N Engl J Med. 
+2012;366(14):1287–97.
+ 16. Schulman S, et al. Dabigatran versus warfarin in the treat-
+ment of acute venous thromboembolism. N Engl J Med. 
+2009;361(24):2342–52.
+ 17. Kearon C, et al. Antithrombotic therapy for VTE Disease: CHEST 
+Guideline and Expert Panel Report. Chest. 2016;149(2):315–52.
+ 18. Phillippe HM, et al. Pharmacist interventions regarding the 
+appropriateness of apixaban, rivaroxaban, dabigatran, and war -
+farin in a university-affiliated outpatient clinic. J Pharm Technol. 
+2016;32(6):245–52.
+ 19. Bauer KA. Pros and cons of new oral anticoagulants. Hematology 
+Am Soc Hematol Educ Program. 2013;2013:464–70. https:// doi. 
+org/ 10. 1182/ ashed ucati on- 2013.1. 464.
+ 20. Steffel J, Verhamme P, Potpara TS, Albaladejo P, Antz M, 
+Desteghe L, Haeusler KG, Oldgren J, Reinecke H, Roldan-
+Schilling V, et al. The 2018 European Heart Rhythm Associa-
+tion practical guide on the use of non-vitamin K antagonist oral 
+anticoagulants in patients with atrial fibrillation. Eur Heart J. 
+2018;39:1330–93.
+ 21. Chen A, Stecker E, Warden AB. Direct oral anticoagulant use: a 
+practical guide to common clinical challenges. J Am Heart Assoc. 
+2020;9(13):e017559.
+ 22. Boonyawat K, Caron F, Li A, Chai-Adisaksopha C, Lim W, Iorio 
+A, Lopes RD, Garcia D, Crowther MA. Association of body 
+weight with efficacy and safety outcomes in phase III randomized 
+controlled trials of direct oral anticoagulants: a systematic review 
+and meta-analysis. J Thromb Haemost. 2017;15:1322–33.
+ 23. Lee SR, Choi EK, Park CS, Han KD, Jung JH, Oh S, Lip GYH. 
+Direct oral anticoagulants in patients with nonvalvular atrial fibril-
+lation and low body weight. J Am Coll Cardiol. 2019;73:919–31.
+ 24. Covert K, Branam DL. Direct-acting oral anticoagulant use at 
+extremes of body weight: literature review and recommendations. 
+Am J Health Syst Pharm. 2020;77(11):865–76. https:// doi. org/ 10. 
+1093/ ajhp/ zxaa0 59. (PMID: 32426845).
+ 25. Barakat AF, Jain S, Masri A, Alkukhun L, Senussi M, Sezer A, 
+Wang Y, Thoma F, Bhonsale A, Saba S, Mulukutla S. Outcomes 
+of direct oral anticoagulants in atrial fibrillation patients across 
+different body mass index categories. JACC Clin Electrophysiol. 
+2021;7(5):649–58. https:// doi. org/ 10. 1016/j. jacep. 2021. 02. 002. 
+(Epub 2021 Mar 31 PMID: 33812834).
+ 26. Higgins JP, Altman DG, Gøtzsche PC, Jüni P, Moher D, Oxman 
+AD, et al. The Cochrane Collaboration’s tool for assessing risk of 
+bias in randomised trials. Br Med J. 2011;18(343): d5928.
+ 27. Wells GA, Shea B, O’Connel D. et al. The Newcastle-Ottawa 
+scale (NOS) for assessing the quality of nonrandomized studies 
+in meta-analyses. Department of Epidemiology and Community 
+Medicine, University of Ottawa, Canada; 2009; ohri.ca/programs/
+clinical_epidemiology/oxford.htm
+ 28. Koval N, Alves M, Plácido R, et al. Direct oral anticoagulants 
+versus vitamin K antagonists in patients with antiphospholipid 
+syndrome: systematic review and meta-analysis. RMD Open. 
+2021;7: e001678. https:// doi. org/ 10. 1136/ rmdop en- 2021- 001678.
+ 29. Connolly SJ, Ezekowitz MD, Yusuf S, Eikelboom J, Oldgren J, 
+Parekh A, Pogue J, Reilly PA, Themeles E, Varrone J, Wang S, 
+Alings M, Xavier D, Zhu J, Diaz R, Lewis BS, Darius H, Diener 
+HC, Joyner CD, Wallentin L. Dabigatran versus warfarin in 
+patients with atrial fibrillation. N Engl J Med. 2009;361(12):1139–
+51. https:// doi. org/ 10. 1056/ NEJMo a0905 561. (Epub 2009 Aug 
+30. Erratum in: N Engl J Med. 2010;363(19):1877).
+ 30. Patel MR, Mahaffey KW, Garg J, Pan G, Singer DE, Hacke W, 
+Breithardt G, Halperin JL, Hankey GJ, Piccini JP, Becker RC, 
+Nessel CC, Paolini JF, Berkowitz SD, Fox KA, Califf RM, 
+ROCKET AF Investigators. Rivaroxaban versus warfarin in non-
+valvular atrial fibrillation. N Engl J Med. 2011;365(10):883–91. 
+https:// doi. org/ 10. 1056/ NEJMo a1009 638. (Epub 2011 Aug 10).
+ 31. Giugliano RP, Ruff CT, Braunwald E, Murphy SA, Wiviott SD, 
+Halperin JL, Waldo AL, Ezekowitz MD, Weitz JI, Špinar J, 
+Ruzyllo W, Ruda M, Koretsune Y, Betcher J, Shi M, Grip LT, 
+Patel SP, Patel I, Hanyok JJ, Mercuri M, Antman EM, ENGAGE 
+AF-TIMI 48 Investigators. Edoxaban versus warfarin in patients 
+with atrial fibrillation. N Engl J Med. 2013;369(22):2093–104. 
+https:// doi. org/ 10. 1056/ NEJMo a1310 907.
+ 32. Berglund E, Wallentin L, Oldgren J, Renlund H, Alexander JH, 
+Granger CB, Hohnloser SH, Hylek EM, Lopes RD, McMurray JJ, 
+Lytsy P. Effects of apixaban compared with warfarin as gain in 
+event-free time—a novel assessment of the results of the ARIS-
+TOTLE trial. Eur J Prev Cardiol. 2020;27(12):1311–9.
+ 33. Lee SR, Choi EK, Park CS, Han KD, Jung JH, Oh S, Lip 
+GYH. Direct oral anticoagulants in patients with nonvalvu-
+lar atrial fibrillation and low body weight. J Am Coll Cardiol. 
+2019;73(8):919–31.
+ 34. Russo V, Attena E, Di Maio M, Carbone A, Parisi V, Rago A, 
+Grieco FV, Buonauro A, Golino P, Nigro G. Non-vitamin K 
+vs vitamin K oral anticoagulants in patients aged > 80 year 
+with atrial fibrillation and low body weight. Eur J Clin Invest. 
+2020;50(11):e13335.
+ 35. Lee SR, Choi EK, Jung JH, Park SH, Han KD, Oh S, Lip GYH. 
+Body mass index and clinical outcomes in Asian patients 
+with atrial fibrillation receiving oral anticoagulation. Stroke. 
+2021;52(2):521–30.
+ 36. Nakao YM, Nakao K, Wu J, Nadarajah R, Camm AJ, Gale CP. 
+Risks and benefits of oral anticoagulants for stroke prophylaxis 
+in atrial fibrillation according to body mass index: nationwide 
+cohort study of primary care records in England. EClinicalMedi-
+cine. 2022;31(54): 101709.
+ 37. Russo V, Attena E, Baroni M, Trotta R, Manu MC, Kirchhof P, De 
+Caterina R. Clinical performance of oral anticoagulants in elderly 
+with atrial fibrillation and low body weight: insight into Italian 
+[[p17]]
+271
+DOACs Versus Warfarin in Patients with LBW Who have AF
+cohort of PREFER-AF and PREFER-AF prolongation registries. 
+J Clin Med. 2022;11(13):3751.
+ 38. Schulman S, Kearon C, Kakkar AK, Mismetti P, Schellong S, 
+Eriksson H, Baanstra D, Schnee J, Goldhaber SZ. Dabigatran ver-
+sus warfarin in the treatment of acute venous thromboembolism. 
+N Engl J Med. 2009;361(24):2342–52.
+ 39. Schulman S, Kakkar AK, Schellong SM, Goldhaber SZ, Henry E, 
+Mismetti P, Christiansen AV, Schnee J, Kearon C. A randomized 
+trial of dabigatran versus warfarin in the treatment of acute venous 
+thromboembolism (RE-COVER II). Blood. 2011;118(21):205.
+ 40. Schulman S, Kearon C, Kakkar AK, Schellong S, Eriksson H, 
+Baanstra D, Kvamme AM, Friedman J, Mismetti P, Goldhaber 
+SZ. Extended use of dabigatran, warfarin, or placebo in venous 
+thromboembolism. N Engl J Med. 2013;368(8):709–18.
+ 41. Burnett AE, Mahan CE, Vazquez SR, Oertel LB, Garcia DA, 
+Ansell J. Guidance for the practical management of the direct 
+oral anticoagulants (DOACs) in VTE treatment. J Thromb 
+Thrombolysis. 2016;41(1):206–32. https:// doi. org/ 10. 1007/  
+s11239- 015- 1310-7.
+ 42. Steffel J, Collins R, Antz M, Cornu P, Desteghe L, Haeusler KG, 
+Oldgren J, Reinecke H, Roldan-Schilling V, Rowell N, Sinnaeve 
+P, Vanassche T, Potpara T, Camm AJ, Heidbüchel H, Lip GY, 
+Deneke T, Dagres N, Boriani G, Field M. 2021 European Heart 
+Rhythm Association practical guide on the use of non-vitamin K 
+antagonist oral anticoagulants in patients with atrial fibrillation. 
+Europace. 2021;23(10):1612–76. https:// doi. org/ 10. 1093/ europ 
+ace/ euab0 65.
+ 43. Ballestri S, Romagnoli E, Arioli D, Coluccio V, Marrazzo A, 
+Athanasiou A, Di Girolamo M, Cappi C, Marietta M, Capitelli 
+M. Risk and management of bleeding complications with direct 
+oral anticoagulants in patients with atrial fibrillation and venous 
+thromboembolism: a narrative review. Adv Ther. 2023;40(1):41–
+66. https:// doi. org/ 10. 1007/ s12325- 022- 02333-9. (Epub 2022 Oct 
+16. PMID: 36244055; PMCID: PMC9569921).
+ 44. Granger CB, Alexander JH, McMurray JJ, Lopes RD, Hylek EM, 
+Hanna M, Al-Khalidi HR, Ansell J, Atar D, Avezum A, Bahit 
+MC. Apixaban versus warfarin in patients with atrial fibrillation. 
+N Engl J Med. 2011;365(11):981–92.
+ 45. López-López JA, Sterne JAC, Thom HHZ, et al. Oral anticoag-
+ulants for prevention of stroke in atrial fibrillation: systematic 
+review, network meta-analysis and cost effectiveness analysis. Br 
+Med J. 2017;359:j5058.
+ 46. Li G, Lip GYH, Holbrook A, et al. Direct comparative effective-
+ness and safety between non-vitamin K antagonist oral antico-
+agulants for stroke prevention in nonvalvular atrial fibrillation: a 
+systematic review and meta-analysis of observational studies. Eur 
+J Epidemiol. 2019;34:173–90.
+ 47. Zhang J, Wang X, Liu X, et al. Comparative effectiveness and 
+safety of direct acting oral anticoagulants in nonvalvular atrial 
+fibrillation for stroke prevention: a systematic review and meta-
+analysis. Eur J Epidemiol. 2021;36:793–812. https:// doi. org/ 10. 
+1007/ s10654- 021- 00751-7.
+ 48. Grymonprez M, De Backer TL, Steurbaut S, Boussery K, 
+Lahousse L. Non-vitamin K antagonist oral anticoagulants 
+(NOACs) versus warfarin in patients with atrial fibrillation and 
+(morbid) obesity or low body weight: a systematic review and 
+meta-analysis. Cardiovasc Drugs Ther. 2022;36(4):749–61. 
+https:// doi. org/ 10. 1007/ s10557- 020- 07122- 6IF:3. 4Q2.
+ 49. Boonyawat K, Caron F, Li A, et al. Association of body weight 
+with efficacy and safety outcomes in phase III randomized con-
+trolled trials of direct oral anticoagulants: a systematic review and 
+meta-analysis. J Thromb Haemost. 2017;15(7):1322–33. https://  
+doi. org/ 10. 1111/ jth. 13701.
+ 50. Almas T, Muhammad F, Siddiqui L, et al. Safety and efficacy 
+of direct oral anticoagulants in comparison with warfarin across 
+different BMI ranges: a systematic review and meta-analysis. Ann 
+Med Surg (Lond). 2022;77:103610. https:// doi. org/ 10. 1016/j. 
+amsu. 2022. 103610.

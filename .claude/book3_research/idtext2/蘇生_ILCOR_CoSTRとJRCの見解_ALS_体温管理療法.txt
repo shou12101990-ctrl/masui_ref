@@ -1,0 +1,261 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Post-Cardiac Arrest Temperature Control 体温管理療法 
+Author 
+Greif R, et al. ALS Task Force 
+PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+ 
+Population: Adults with cardiac arrest in any setting (in-
+hospital or out-of-hospital) 
+ 
+Use of TTM 
+Intervention 1: Temperature control (temperature control 
+studies targeting hypothermia at 32° C to 34° C in the SysRev) 
+Comparator 1: No temperature control (temperature control 
+studies targeting normothermia or fever prevention included in 
+the SysRev) 
+ 
+Timing 
+Intervention 2: Temperature control induction before a 
+specific time point (eg, prehospital or intracardiac arrest) 
+Comparator 2: Temperature control induction after that  
+ 
+ 
+PICOST 
+ 
+ 
+P: あらゆる状況における成人の院内および院外心停止 
+ 
+ 
+体温管理療法の実施 
+I 1: 体温管理療法あり（32° C から 34° C の低体温療法） 
+ 
+C 1: 体温管理療法なし (正常体温療法または発熱予防) 
+ 
+ 
+ 
+体温管理療法の導入時期 
+I 2: 特定の時点より前（病院前、心停止中など）の体温管理療法導入 
+  
+C 2: その特定の時点より後の体温管理療法導入 
+ 
+ 
+[[p2]]
+2 
+ 
+specific time point 
+Temperature 
+Intervention 3: Temperature control at a specific temperature 
+(eg, 33° C) 
+Comparator 3: Temperature control at a different specific 
+temperature (eg, 36° C) 
+ 
+Duration 
+Intervention 4: Temperature control for a specific duration 
+(eg, 48 hours) 
+Comparator 4: Temperature control at a different specific 
+duration (eg, 24 hours) 
+ 
+Method 
+Intervention 5: Temperature control with a specific method 
+(eg, external) 
+Comparator 5: Temperature control with a different specific 
+method (eg, internal) 
+ 
+Rewarming 
+Intervention 6: Temperature control with a specific rewarming 
+rate 
+ 
+目標体温 
+I 3: 特定の体温（33℃など）での体温管理療法 
+ 
+C 3: 異なる特定の体温（36℃など）での体温管理療法 
+ 
+ 
+体温管理療法の維持時間 
+I 4: 特定の期間（48 時間など）の体温管理療法 
+ 
+C 4: 異なる特定の期間（24 時間など）の体温管理療法 
+ 
+ 
+体温管理療法の方法 
+I 5: 特定の方法（例えば体外的）体温管理療法 
+ 
+C 5: 異なる特定の（例えば体内的）体温管理療法  
+ 
+ 
+復温速度 
+I 6: 特定の復温速度の体温管理療法  
+ 
+[[p3]]
+3 
+ 
+Comparator 6: Temperature control with a different specific 
+rewarming rate or no specific rewarming rate 
+ 
+Outcome: Critical: Survival and survival with a favorable 
+neurological outcome at hospital discharge and 30 days and 
+longer 
+Study designs: Controlled trials in humans, including RCTs and 
+nonrandomized trials (eg, pseudorandomized trials) were 
+included. Observational studies, ecological studies, case series, 
+case reports, reviews, abstracts, editorials, comments, letters to 
+the editor, and unpublished studies were excluded. Studies 
+assessing cost-effectiveness were included for a descriptive 
+summary. Unpublished studies (eg, conference abstracts, trial 
+protocols) were excluded. All languages were included if there 
+was an English abstract. 
+Time frame: The original literature search was conducted on 
+October 30, 2020, and updated for clinical trials on June 17, 
+2021. The literature search was conducted on May 31, 2023, for 
+updated SysRev and June 3, 2023, for ongoing clinical trials. 
+C 6: 異なる特定の復温速度または特定の復温速度なしの体温管理療
+法 
+ 
+O: 重大: 退院時および 30 日後またはそれより長期の生存、および神
+経学的転帰良好な生存 
+ 
+S: 人における RCT、非 RCT（擬似 RCT など）を含む比較対照試験が含
+まれた。観察研究、生態学的研究、症例集積研究、症例報告、総説、
+抄録、論説、編集者への手紙、未出版研究は除外された。費用対効果
+を評価した研究は概要で記述するために採用された。未発表の研究
+（学会抄録、研究プロトコルなど）は除外された。英文抄録がある、あら
+ゆる言語での研究を対象とした。 
+ 
+ 
+ 
+T: 初めの文献検索は 2020 年 10 月 30 日に実施し、臨床試験につい
+ては 2021 年 6 月 17 日に更新した。SysRev 更新のための文献検索
+は 2023 年 5 月 31 日に実施し、進行中の臨床試験については 2023
+年 6 月 3 日に実施した。 
+Treatment recommendations 
+We suggest actively preventing fever by targeting a temperature 
+≤37.5°C for patients who remain comatose after ROSC from 
+cardiac arrest (weak recommendation, low-certainty evidence). 
+推奨と提案 
+心停止から ROSC 後も昏睡状態が続く患者に対しては、37.5℃以下を目
+標に積極的に発熱を予防することを提案する（弱い推奨、エビデンスの確
+実性：低い）。 
+[[p4]]
+4 
+ 
+Whether subpopulations of cardiac arrest patients may benefit 
+from targeting hypothermia at 32° C to 34° C remains 
+uncertain. 
+ 
+Comatose patients with mild hypothermia after ROSC should not 
+be actively warmed to achieve normothermia (good practice 
+statement). 
+ 
+We recommend against the routine use of prehospital cooling 
+with rapid infusion of large volumes of cold intravenous fluid 
+immediately after ROSC (strong recommendation, moderate-
+certainty evidence). 
+ 
+We suggest surface or endovascular temperature control 
+techniques when temperature control is used in comatose 
+patients after ROSC (weak recommendation, low-certainty 
+evidence). 
+ 
+When a cooling device is used, we suggest using a temperature 
+control device that includes a feedback system based on 
+continuous temperature monitoring to maintain the target 
+temperature (good practice statement). 
+ 
+心停止患者のサブグループが 32℃～34℃の低体温を目標にすることが
+有益かどうかは、まだ不明である。 
+ 
+ 
+ROSC 後の軽度低体温の昏睡患者は、正常体温を得るために積極的に
+加温しないことを提案する（優れた医療慣行に関する記述）。 
+ 
+ 
+ROSC 直後に大量の冷たい静脈内輸液による病院前冷却をルーチンに
+は行わないことを推奨する（強い推奨、エビデンスの確実性：中程度）。 
+ 
+ 
+ 
+ROSC 後の昏睡患者に体温調節を行う場合は、体表面または血管内温
+度調節法を提案する（弱い推奨、エビデンスの確実性：低い）。 
+ 
+ 
+ 
+冷却装置を使用する場合は、目標温度を維持するための継続的な温度
+モニタリングに基づくフィードバックシステムを含む温度制御装置を使用
+することを提案する（優れた医療慣行に関する記述）。 
+ 
+[[p5]]
+5 
+ 
+We suggest active prevention of fever for 36 to 72 hours in 
+post–cardiac arrest patients who remain comatose (good 
+practice statement). 
+昏睡状態が続く心拍再開後患者では、36～72 時間の積極的な発熱予
+防を提案する（優れた医療慣行に関する記述）。 
+ 
+１． JRC の見解と解説（400-800 文字） 
+（解説） 
+・ 積極的な体温管理は、心拍再開後昏睡患者の治療において重要である．2015 年の ILCOR SysRev 後に新たな研究結果を反映し更新が
+行われた。 
+・ 低体温療法は、正常体温管理や発熱予防と比較して有意な転帰の差は認められず，目標体温（33℃ vs 36℃、32℃ vs 34℃、32℃ vs 
+33℃、33℃ vs 34℃）の違いによる影響も明確ではなかった。 
+・ ILCOR ALS Task Force は、副作用が少ないという理由から、低体温管理より発熱予防が好ましいと考えていた。 
+・ 一部のメンバーは、33℃管理の選択肢を残すことを提案した。これは、より脳障害が重症と考えられるショック非適応患者を対象とした
+RCT で低体温管理の有益性が示唆されたこと、非心原性心停止患者に関するデータが不足していることに基づく。 
+・ 早期冷却の有効性や目標体温への到達時間に関する議論も行われたが、決定的な結論には至らなかった。 
+・ 大量輸液による病院前冷却は有害の可能性があるため，ルーチンには行わないことが推奨された。 
+・ 体表冷却装置と血管内冷却装置のどちらが好ましいかは議論の余地がある。 
+・ 体温管理の期間についてもコンセンサスは得られず，発熱予防を何時間継続すべきかについての明確な十分なエビデンスは不足してい
+る． 
+ 
+ILCOR の勧告をわが国に適用するには以下の点に留意する必要がある。 
+・ ILCOR の SysRev は、TTM/TTM2 study の影響を強く受けているが，これらの研究では対象患者が比較的軽症であったため，転帰に差が
+出なかった可能性が指摘されている。 
+・ TTM/TTM2 study では、心停止の目撃が約 90%，バイスタンダーCPR の実施率が 70-80%と高く，6 ヶ月生存率も 50%以上であった。 
+[[p6]]
+6 
+ 
+・ これに対し、日本の院外心停止の状況は大きく異なり，日本ではより重症度の高い患者（bystander CPR 率が 50%前後、目撃なしの心肺
+停止症例、ショック非適応例が多い）を対象に体温管理療法が実施されている。 
+・ 非心原性を含むショック非適応の院外心停止患者を対象とした RCT（HYPERION study）では低体温療法の有効性が示されており，重症度
+によって適応の検討が必要である。 
+・ 現在、日本救急医学会主導の R-CAST study（中等度障害の心停止後症候群を対象）や，日本集中治療医学会主導の SAVE-J 
+NEUROTHERM trial（ECPR 後の体温管理）が進行中であり，心停止後症候群に対する早期低体温療法と常温療法を比較するプラットフォ
+ーム試験も計画されている。 
+・ 一方，低体温管理では低血圧や徐脈が生じやすく，適切な鎮静・筋弛緩を行わないと発熱や体温維持困難のリスクがある（Bray JE. 
+Resuscitation 2017;113:39-43，Kirkegaard H. JAMA 2017;318:341-350）． 
+・ また，33℃群では肺炎や感染症の合併が多く発生し，生存率や神経学的予後を悪化させる可能性があるため，感染症対策が重要である
+（Dankiewicz J. Resuscitation 2017:113:70-76, Evald L. Resuscitation 2019:134:1-9）． 
+・  
+２．わが国への適用 
+・ JRC 蘇生ガイドライン 2020 の推奨を変更する予定である。 
+・ すなわち、心停止から ROSC 後も昏睡状態が続く患者に対しては、37.5℃以下を目標に積極的に発熱を予防することを提案する。 
+・ ただし，発熱予防のみを目的とした体温管理療法では、低体温療法と比較して、体温管理の質が低下する恐れがあるため，発熱予防でも
+適切な冷却方法を選択するのが望ましい。 
+・ また体温管理療法を施行する場合は、維持時間を少なくとも 24 時間行い， 36～72 時間が経過するまでは 37.5℃以下とすることを提案
+する。 
+・ これは，ILCOR の推奨が軽症患者を主に対象としている一方で、日本ではより重症患者への適用を考慮しているためである。国内で進行
+中の研究結果が出るまで、JRC 蘇生ガイドライン 2020 で推奨した 32℃〜36℃の体温管理療法を症例の背景に応じて選択するのは合理
+的である。 
+ 
+[[p7]]
+7 
+ 
+３．担当メンバー 
+作業部会員（五十音順） 
+篠崎広一郎、杉山和宏、鈴木秀鷹、林田敬、瀧口徹 
+共同座長（五十音順） 
+ 福田龍将 
+担当編集委員（五十音順） 
+大下慎一郎、黒田泰弘 
+顧問 
+相引眞幸 
+編集委員長 
+ 坂本哲也 
+ 
+ 
+ 

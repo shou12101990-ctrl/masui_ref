@@ -1,0 +1,709 @@
+
+[[p1]]
+Review began
+ 09/19/2025 
+Review ended
+ 09/24/2025 
+Published
+ 09/27/2025
+© Copyright 
+2025
+Chaaban et al. This is an open access
+article distributed under the terms of the
+Creative Commons Attribution License CC-
+BY 4.0., which permits unrestricted use,
+distribution, and reproduction in any
+medium, provided the original author and
+source are credited.
+DOI:
+ 10.7759/cureus.93381
+Delayed Diagnosis of Cor Triatriatum Dexter: A
+Case Report and Comprehensive Review of
+Embryology, Imaging, and Management
+Batoul Chaaban 
+, 
+Hassan Bitar 
+, 
+Ali Hamade 
+, 
+Imad Semaan 
+, 
+Abbas Rachid 
+PM
+ Cardiology, Lebanese University, Beirut, LBN 
+2.
+ Internal Medicine, Lebanese University, Beirut, LBN 
+3.
+ Internal
+Medicine, Saint Joseph University of Beirut, Beirut, LBN
+Corresponding author: 
+Imad Semaan, 
+imad.semaan99@gmail.com
+Abstract
+Cor triatriatum dexter (CTD) is a rare congenital cardiac anomaly resulting from the persistence of the right
+valve of the sinus venosus, leading to partial or complete partitioning of the right atrium. It accounts for a
+minority of congenital heart defects and may present with various clinical features ranging from
+asymptomatic incidental findings to severe right-sided heart failure.
+We report the case of a 45-year-old female with longstanding exertional dyspnea, peripheral edema,
+hepatomegaly, and severe bilateral varicose veins. Abdominal imaging revealed features of hepatic
+congestion, whereas echocardiography revealed a markedly dilated inferior vena cava (IVC) and a membrane
+at the junction of the IVC and right atrium. Transesophageal echocardiography confirmed a fibromuscular
+membrane consistent with CTD, partially obstructing systemic venous return. The patient also had a
+preserved left ventricular systolic function.
+CTD arises from incomplete regression of the embryonic right venous valve. The degree of membrane
+perforation influences the severity of obstruction and clinical symptoms. While an incomplete CTD can be
+clinically silent, significant septation may lead to elevated right atrial pressures and systemic venous
+congestion. This case emphasizes the diagnostic utility of multimodality imaging in adults with unexplained
+right-sided heart failure symptoms and highlights CTD’s potential role in chronic venous disorders. This
+case adds to the limited literature on conservatively managed adult CTD, highlighting the impact of
+financial barriers on therapeutic decision-making.
+CTD, although rare, should be considered in the differential diagnosis of right-sided congestion in adults,
+particularly when it is accompanied by unexplained IVC dilation, hepatic congestion, and chronic venous
+insufficiency. Early recognition through echocardiography and other imaging modalities is essential for
+guiding appropriate management and avoiding misdiagnosis.
+Categories:
+ Cardiology, Internal Medicine
+Keywords:
+ congenital cardiac anomalies, congenital cardiac surgery, cor triatriatum, cor triatriatum dexter, right-
+sided heart failure
+Introduction
+Cor triatriatum is a rare congenital cardiac anomaly that accounts for approximately 0.1% of all congenital
+heart defects 
+[1]
+. It is characterized by an abnormal membrane that separates either the left or right atrium,
+creating two distinct chambers and leading to variable degrees of inflow obstruction to the corresponding
+ventricle 
+[2]
+. Normally, this valve regresses early in fetal life. In some cases, the anomalous membrane can
+mimic the echocardiographic appearance of Ebstein's anomaly, leading to diagnostic confusion 
+[3]
+. When
+this anomaly occurs in the left atrium, it is referred to as the cor triatriatum sinister (CTS). In contrast, its
+right atrial counterpart is known as the cor triatriatum dexter (CTD). Although typically identified in
+infancy, CTD may occasionally be diagnosed in adulthood 
+[3]
+. This condition can present in its isolated,
+classical form or in association with other congenital cardiac anomalies, ranging from simple to complex.
+Even within its classical form, multiple anatomical variants exist, often necessitating the use of multimodal
+imaging techniques for accurate characterization and optimal planning of percutaneous or surgical
+intervention 
+[2]
+. An incomplete CTD membrane is often asymptomatic and considered an incidental finding
+because of its distinct embryologic origin from the atrial septum. Diagnostic identification of this membrane
+can be achieved via transthoracic echocardiography (TTE), transesophageal echocardiography (TEE), cardiac
+computed tomography angiography (CTA), or cardiac magnetic resonance imaging (MRI) 
+[4]
+. We present a
+rare adult case of CTD, diagnosed after a presentation of chronic venous insufficiency and hepatic
+congestion.
+Case Presentation
+A 45-year-old female was referred to our center for further evaluation of disturbances in LFTs and
+1
+1
+2
+3
+2
+ 
+Open Access Case Report
+How to cite this article
+Chaaban B, Bitar H, Hamade A, et al. (September 27, 2025) Delayed Diagnosis of Cor Triatriatum Dexter: A Case Report and Comprehensive
+Review of Embryology, Imaging, and Management. Cureus 17(9): e93381. 
+DOI 10.7759/cureus.93381
+[[p2]]
+hepatomegaly detected via abdominal ultrasound, which also revealed dilated hepatic veins, a dilated
+inferior vena cava (IVC), and features consistent with hepatic congestion. She reported a longstanding
+history of exertional shortness of breath, abdominal discomfort, and peripheral edema. Notably, she also
+described having severe bilateral varicose veins since a young age.
+Upon examination, the patient was clinically stable, requiring no oxygen, but demonstrated reduced
+inspiratory effort. Physical examination revealed bilateral, prominent, purpuric, and dilated varicosities,
+associated with lower limb edema and erythema. A fourth heart sound (S4) was detected via cardiac
+auscultation.
+A TTE was subsequently performed, which revealed a left ventricular ejection fraction of 54%, moderate
+mitral regurgitation, and mild pericardial effusion, with normal right ventricle size and function. The
+IVC was notably dilated (20 mm) and noncompressible, suggesting elevated right-sided filling pressures.
+The right atrium appeared normal in size; however, a membranous structure attached near the IVC orifice
+was visualized, raising suspicion of CTD. Based on these findings, a TEE was recommended for further
+evaluation (Figure 
+1
+).
+FIGURE
+ 1: Sub-costal view of TTE showing prominent Eustachian valve
+in the middle of the right atrium
+TTE: transthoracic echocardiogram
+TEE confirmed the presence of a membrane at the junction of the IVC and right atrium (Figure 
+2
+), which was
+consistent with a prominent Eustachian valve remnant (Figure 
+3
+). This membrane was found to partially
+obstruct the IVC inflow, with persistent dilation of the IVC, supporting the diagnosis of CTD (Figure 
+4
+). The
+patient was managed conservatively, with optimization of medical therapy aimed at controlling symptoms
+and reducing venous congestion. The patient remained stable and did not require any invasive intervention.
+This case underscores how socioeconomic factors may shape the management decisions in patients with
+anatomically significant but clinically compensated CTD.
+ 
+2025 Chaaban et al. Cureus 17(9): e93381. DOI 10.7759/cureus.93381
+2
+ of 
+8
+[[p3]]
+FIGURE
+ 2: Subcostal TEE view revealing a prominent Eustachian valve
+within the right atrium
+TEE: transesophageal echocardiography
+FIGURE
+ 3: Subcostal TEE three chambers view revealing a prominent
+Eustachian valve within the right atrium
+TEE: transesophageal echocardiography
+ 
+2025 Chaaban et al. Cureus 17(9): e93381. DOI 10.7759/cureus.93381
+3
+ of 
+8
+[[p4]]
+FIGURE
+ 4: Subcostal TEE view showing the Eustachian valve
+obstructing the IVC
+TEE: transesophageal echocardiography, IVC: inferior vena cava
+Discussion
+CTD: embryological basis and clinical relevance
+CTD is a rare congenital anomaly of the right atrium that results from the persistence of the right leaflet of
+the venous sinus valve, which normally regresses around the 12th week of gestation. During embryonic
+development, the common atrium is separated from the venous sinus by a valve with two leaflets. The left
+leaflet becomes incorporated into the interatrial septum, contributing to the septum secundum, while the
+right leaflet is normally reabsorbed, leaving behind two structures: the Eustachian valve at the junction of
+the IVC and the coronary valve at the orifice of the coronary sinus. In CTD, however, persistence of this
+embryonic valve leads to a fibromuscular membrane that partitions the right atrium into two chambers: a
+posterior (sinus venarum) chamber that receives systemic venous return from the superior vena cava and
+IVC, and an anterior chamber that communicates with the tricuspid valve and right ventricle 
+[3]
+.
+The clinical manifestations of CTD depend on the degree and morphology of this atrial septation. In cases of
+incomplete or fenestrated septation, blood flow between the two right atrial chambers remains relatively
+unimpeded, and the condition may remain asymptomatic or be discovered incidentally on imaging or
+autopsy. However, in cases of complete or nearly complete septation, the obstructive membrane may impede
+venous return or tricuspid inflow, leading to elevated right atrial pressures, systemic venous congestion,
+cyanosis, or even right-sided heart failure in neonates and infants. Moreover, CTD is frequently associated
+with other congenital cardiac anomalies, including atrial septal defects (ASDs) and Ebstein anomaly of the
+tricuspid valve, which may further influence clinical presentation and hemodynamics 
+[3]
+.
+Morphologic associations in hypoplastic right heart syndrome
+Anatomopathological studies have explored the relationship between CTD and other structural
+abnormalities of the right heart, particularly in the context of hypoplastic right heart syndrome. In a study
+involving 20 hearts with right heart underdevelopment and 17 structurally normal control hearts, enlarged
+Eustachian valves were identified in 80% (n = 16) of the hypoplastic group, with one case (5%) showing mild
+enlargement and three (15%) showing hypoplastic valves. Notably, CTD was identified in 25% (n = 5) of
+these hearts. In contrast, among the control samples, a prominent Eustachian valve was observed in only
+one sample (6%), whereas it was normal in five (29%) and nearly absent in eight (47%) samples. These
+findings suggest that enlargement of the Eustachian valve and persistence of the right valve of the sinus
+venosus, both of which are embryologic remnants, may contribute significantly to aberrant right atrial
+anatomy. Furthermore, in fetal and neonatal echocardiographic studies, a prominent Eustachian valve
+ 
+2025 Chaaban et al. Cureus 17(9): e93381. DOI 10.7759/cureus.93381
+4
+ of 
+8
+[[p5]]
+directing systemic venous blood across an ASD has been documented in up to 80% of cases, with CTD
+coexisting in approximately 25% of cases 
+[5]
+. These data reinforce the relevance of CTD in the broader
+spectrum of right-sided congenital heart disease and highlight its potential role in fetal circulation
+anomalies and postnatal hemodynamic compromise.
+Associated cardiac anomalies in CTS and CTD
+Cor triatriatum, particularly CTD, is frequently associated with a wide spectrum of congenital cardiac
+abnormalities. While it may present as an isolated anomaly, it often coexists with other structural defects,
+particularly those affecting the right side of the heart. A high incidence of right-sided congenital anomalies
+has been reported in association with CTD. These include pulmonary artery stenosis or atresia, tricuspid
+valve abnormalities, ASDs, and Ebstein’s anomaly 
+[6]
+. CTD may present with features similar to Ebstein
+anomaly, complicating the clinical diagnosis 
+[7]
+.
+Several case reports highlight the diversity of associated defects. For example, Alvarez-Santana et al.
+described a case of CTD associated with Ebstein anomaly, tricuspid valve lesions, and an ASD 
+[8]
+. Alghamdi
+also noted that CTD can occur as an isolated lesion or in combination with other abnormalities 
+[9]
+.
+Furthermore, Özmen et al. documented a rare triad of CTD, a mitral valve blood cyst causing regurgitation,
+and an atrial septal aneurysm, underscoring the broad anatomical spectrum that may be involved 
+[10]
+.
+Pulmonary hypertension is another important comorbidity. Meher et al. reported a case of neonatal CTD
+complicated by pulmonary hypertension, emphasizing the hemodynamic burden that can result from venous
+inflow obstruction 
+[11]
+. Additionally, in the long-term experience at the Mayo Clinic, the most frequently
+encountered associated anomalies with cor triatriatum were ASDs, patent foramen ovale, and pulmonary
+valve defects 
+[12]
+.
+While CTD is more commonly associated with right-sided lesions, left-sided abnormalities may also occur.
+For instance, Özmen et al. described a mitral valve blood cyst in conjunction with CTD 
+[13]
+, and another
+case report identified mitral regurgitation as part of the clinical presentation 
+[14]
+. These observations align
+with emerging data suggesting that CTD, even when isolated, may coexist with a broader range of valvular
+defects, including aortic and mitral valve disease.
+Rare associations, such as the levoatrial cardinal vein, have also been described in patients with cor
+triatriatum, particularly CTS. This venous anomaly appears more frequently in patients with cor triatriatum
+than in other congenital heart diseases and may contribute to complex hemodynamic presentations 
+[15]
+. A
+broader analysis reveals that cor triatriatum, particularly CTS, is often associated with secundum ASDs,
+patent foramen ovale, tricuspid regurgitation, partial anomalous pulmonary venous return, myxomatous
+mitral valve disease with regurgitation, and pulmonary vein stenosis 
+[12]
+. These associations highlight the
+importance of detailed imaging and clinical suspicion in atypical presentations of the right-sided heart.
+Diagnostic classification and imaging modalities in CTD
+Accurate diagnosis, risk stratification, and optimal surgical or interventional planning in CTD require a
+thorough understanding of its anatomical variations and associated cardiac anomalies. Multimodality
+imaging, particularly TTE, TEE, cardiac MRI, and CT, is essential to fully delineate the anatomical context,
+especially in patients being considered for surgical or catheter-based interventions 
+[16]
+.
+Due to its rarity, with fewer than 100 cases reported in the literature, no standardized classification system
+for CTD currently exists. The clinical manifestations of CTD are highly variable and depend largely on the
+degree of right atrial septation caused by the persistent fibromuscular membrane. The presence and size of
+membrane perforations, the occurrence of right-to-left shunting, and the coexistence of other congenital
+anomalies further influence symptomatology. In cases where septation is partial or the membrane is
+fenestrated, the condition may remain asymptomatic or present with mild cyanosis. More extensive
+septation may result in significant obstruction to venous inflow, leading to elevated right atrial pressures,
+systemic venous congestion, and, in some cases, right-sided heart failure. Cyanosis has also been
+documented in the context of severe right inflow obstruction 
+[16]
+.
+Historically, CTD was often identified post-mortem due to its subtle clinical signs and the limited diagnostic
+capabilities available in earlier eras 
+[17]
+. However, with the advancement of cardiovascular imaging,
+particularly non-invasive modalities, diagnosis in living patients has become increasingly feasible and
+reliable. Since the 1990s, echocardiography has emerged as the cornerstone of CTD diagnosis. Two-
+dimensional TTE enables the direct visualization of intra-atrial membranes, while color Doppler imaging
+reveals the associated turbulent flow patterns. Continuous-wave Doppler further aids in assessing
+hemodynamic impact by quantifying pressure gradients across the membrane 
+[18,19]
+.
+In a 22-year retrospective study from the Royal Children’s Hospital in Melbourne, Australia, involving 28
+cases of cor triatriatum, TTE successfully established the diagnosis preoperatively in 96% of patients.
+Notably, in 32% of cases with atypical anatomy, confirmatory cardiac catheterization was required. This
+underscores both the high diagnostic accuracy of echocardiography and the potential need for supplemental
+ 
+2025 Chaaban et al. Cureus 17(9): e93381. DOI 10.7759/cureus.93381
+5
+ of 
+8
+[[p6]]
+imaging in complex presentations 
+[20]
+.
+TTE remains the first-line diagnostic modality in most reported cases of CTD 
+[21-27]
+, while TEE is often
+employed to confirm the diagnosis and provide enhanced anatomical detail when TTE findings are
+inconclusive 
+[28-30]
+. More recently, cardiac MRI has gained traction due to its high spatial resolution,
+allowing for detailed characterization of the membranous structure and comprehensive assessment of right
+ventricular volumes and function. In a comparative study assessing pulmonary venous anomalies, which
+included cases of cor triatriatum, MRI demonstrated a diagnostic sensitivity of 95%, outperforming both
+cardiac angiography (69%) and echocardiography (38%) 
+[31]
+. Cardiac CT is also increasingly recognized as a
+valuable non-invasive tool, particularly for visualizing cardiac and vascular structures in complex
+congenital anomalies, including CTD and coexisting conditions such as coronary artery disease 
+[32]
+.
+Together, these imaging techniques provide a robust framework for accurate diagnosis and guide tailored
+therapeutic decision-making in patients with CTD.
+Therapeutic approaches in cor triatriatum: surgical, conservative, and
+emerging interventions
+Surgical intervention remains the definitive treatment for symptomatic CTS, especially when obstruction
+leads to elevated transmembrane pressure gradients (typically ≥8 mm Hg) or when significant associated
+congenital cardiac lesions are present 
+[33]
+. The earliest successful surgical repair was performed in 1955 by
+Lewis et al. using cardiopulmonary bypass, marking a pivotal advancement in the treatment of congenital
+heart disease 
+[34]
+.
+Since then, surgical membrane resection under cardiopulmonary bypass has become the standard of care,
+particularly when other cardiac anomalies such as ASD or valvular abnormalities coexist. In a large surgical
+???l?b??QT??????K???
+consistently reported across all age groups, with additional procedures such as ASD repair and valve surgery
+commonly performed 
+[12]
+. A five-year survival rate of 100% in patients with biventricular physiology further
+highlights the efficacy of early surgical management. However, not all patients are suitable candidates for
+surgery 
+[35]
+.
+Our case is a prime example of this approach. A 45-year-old woman presented with chronic hepatic
+congestion, elevated liver function tests, bilateral varicosities, and a longstanding history of exertional
+dyspnea and peripheral edema. TTE and TEE revealed a prominent membranous remnant at the junction of
+the IVC and right atrium, consistent with CTD. Despite partial IVC inflow obstruction and IVC dilation, the
+patient remained hemodynamically stable, with no overt signs of right heart failure requiring urgent
+surgical correction. Unfortunately, due to financial limitations, surgical intervention was not feasible.
+Therefore, a conservative strategy with close clinical and imaging follow-up was adopted. Our case uniquely
+highlights how socioeconomic constraints can influence the management of anatomically significant, yet
+clinically compensated, CTD.
+Although surgical resection remains the gold standard, evolving transcatheter approaches have
+demonstrated promise. Balloon dilatation, either alone or in conjunction with ASD occluder placement, has
+been reported to yield favorable outcomes, particularly in adult patients with isolated membrane-related
+obstruction 
+[36,37]
+. Nonetheless, the limited availability and experience with these minimally invasive
+strategies, especially in pediatric or resource-limited settings, reinforces the role of surgery as the preferred
+approach when accessible 
+[36]
+.
+Conclusions
+CTD is a rare but clinically meaningful congenital cardiac anomaly that may remain undiagnosed until
+adulthood, particularly when membrane septation is incomplete and symptoms are subtle. This case
+demonstrates how CTD can manifest as chronic systemic venous hypertension, evidenced by hepatic
+congestion and peripheral venous insufficiency due to partial IVC inflow obstruction. Accurate diagnosis
+requires a high index of suspicion and multimodal imaging, with TEE being particularly valuable. Although
+surgical resection remains the definitive treatment for symptomatic or obstructive CTD, conservative
+management is a reasonable alternative in stable patients or those with limited access to surgery.
+Ultimately, a tailored approach that incorporates clinical presentation, imaging severity, and socioeconomic
+context is essential for optimizing patient outcomes. Routine echocardiographic follow-up remains crucial
+to detect disease progression or emerging complications.
+Additional Information
+Author Contributions
+All authors have reviewed the final version to be published and agreed to be accountable for all aspects of the
+work.
+Concept and design:
+  
+Abbas Rachid, Imad Semaan, Batoul Chaaban, Hassan Bitar, Ali Hamade
+ 
+2025 Chaaban et al. Cureus 17(9): e93381. DOI 10.7759/cureus.93381
+6
+ of 
+8
+[[p7]]
+Acquisition, analysis, or interpretation of data:
+  
+Abbas Rachid, Imad Semaan
+Drafting of the manuscript:
+  
+Abbas Rachid, Imad Semaan, Batoul Chaaban, Hassan Bitar, Ali Hamade
+Critical review of the manuscript for important intellectual content:
+  
+Abbas Rachid, Imad Semaan
+Supervision:
+  
+Abbas Rachid, Imad Semaan
+Disclosures
+Human subjects:
+ Informed consent for treatment and open access publication was obtained or waived by all
+participants in this study. 
+Conflicts of interest:
+ In compliance with the ICMJE uniform disclosure form, all
+authors declare the following: 
+Payment/services info:
+ All authors have declared that no financial support
+was received from any organization for the submitted work. 
+Financial relationships:
+ All authors have
+declared that they have no financial relationships at present or within the previous three years with any
+organizations that might have an interest in the submitted work. 
+Other relationships:
+ All authors have
+declared that there are no other relationships or activities that could appear to have influenced the
+submitted work.
+Acknowledgements
+The authors would like to express their sincere gratitude to the cardiology team for their invaluable
+contributions to the diagnosis, imaging interpretation, and evaluation of this case. Special thanks are
+extended to the echocardiography unit for their expertise in acquiring and interpreting both transthoracic
+and transesophageal studies, which were pivotal in confirming the diagnosis.
+References
+1
+. 
+Baxi AJ, Tavakoli S, Vargas D, Restrepo CS: 
+Bands, chords, tendons, and membranes in the heart: an
+imaging overview
+. Curr Probl Diagn Radiol. 2016, 45:380-91. 
+10.1067/j.cpradiol.2015.08.009
+2
+. 
+Jha AK, Makhija N: 
+Cor triatriatum: a review
+. Semin Cardiothorac Vasc Anesth. 2017, 21:178-85.
+10.1177/1089253216680495
+3
+. 
+Barrea C, Rubay J, Wagner K, Ovaert C: 
+Images in cardiovascular medicine: cor triatriatum dexter mimicking
+Ebstein disease
+. Circulation. 2009, 120:86-8. 
+10.1161/CIRCULATIONAHA.109.859744
+4
+. 
+Pascoe RD, Oh JK, Warnes CA, Danielson GK, Tajik AJ, Seward JB: 
+Diagnosis of sinus venosus atrial septal
+defect with transesophageal echocardiography
+. Circulation. 1996, 94:1049-55. 
+10.1161/01.cir.94.5.1049
+5
+. 
+Schutte DA, Rowland DG, Allen HD, Bharati S: 
+Prominent venous valves in hypoplastic right hearts
+. Am
+Heart J. 1997, 134:527-31. 
+10.1016/s0002-8703(97)70090-5
+6
+. 
+Bindra BS, Patel Z, Patel N, Choudhary KV, Patel V: 
+Cor triatriatum Dexter as an incidental finding: role of
+two-dimensional transthoracic echocardiography
+. Cureus. 2019, 11:5683. 
+10.7759/cureus.5683
+7
+. 
+Ather B, Meredith A, Siddiqui WJ: 
+Cor triatriatum
+. StatPearls [Internet]. StatPearls Publishing, Treasure
+Island (FL); 2025.
+8
+. 
+Alvarez-Santana R, Garcia-Diaz JA, Escudero-Salamanca M, Cano-Zarate R, Espinola-Zavaleta N: 
+Cor
+triatriatum dexter associated to Ebstein anomaly with tricuspid double lesion and atrial septal defect
+. Arch
+Cardiol Mex. 2021, 91:508-9. 
+10.24875/ACM.200003671
+9
+. 
+Alghamdi MH: 
+Cor triatriatum dexter: a rare cause of cyanosis during neonatal period
+. Ann Pediatr Cardiol.
+2016, 9:46-8. 
+10.4103/0974-2069.171408
+10
+. 
+Özmen G, Demir M, Arı H, Aktaş İ: 
+A rare association: concomitant presence of mitral valve blood cyst with
+atrial septal aneurysm and cor triatriatum dexter
+. Anatol J Cardiol. 2015, 15:502-3. 
+10.5152/akd.2015.5984
+11
+. 
+Meher
+ 
+B, S
+ 
+P, Das
+ 
+L, Tripathy
+ 
+P: 
+Cor-triatriatum dexter with pulmonary hypertension in a neonate
+. Open J
+Pediatr. 2013, 3:337-9. 
+10.4236/ojped.2013.34060
+12
+. 
+Saxena P, Burkhart HM, Schaff HV, Daly R, Joyce LD, Dearani JA: 
+Surgical repair of cor triatriatum sinister:
+the Mayo Clinic 50-year experience
+. Ann Thorac Surg. 2014, 97:1659-63. 
+10.1016/j.athoracsur.2013.12.046
+13
+. 
+Dumani S, Likaj E, Ruci E, Bejko E, Refatllari A: 
+A very rare case of cor triatriatum with severe mitral
+regurgitation
+. Open Access Maced J Med Sci. 2018, 6:848-50. 
+10.3889/oamjms.2018.176
+14
+. 
+Aliter H, Youssef A, Al-Murayeh M, Gallo R: 
+Cor triatriatum with persistent levoatrial cardinal vein late
+presented as severe mitral stenosis
+. J Saudi Heart Assoc. 2012, 24:257-9. 
+10.1016/j.jsha.2012.07.003
+15
+. 
+Bhat YA, Alsharif AM, Alrusayni O, Rashed MA, Almesned A, Al Qwaee A: 
+Cor triatriatum sinister with a
+decompressing levoatriocardinal vein: a rare association
+. Cureus. 2024, 16:66610. 
+10.7759/cureus.66610
+16
+. 
+Zainudin AR, Tiong KG, Mokhtar SA: 
+Cor triatriatum dexter: a rare cause of childhood cyanosis
+. Ann Pediatr
+Cardiol. 2012, 5:92-4. 
+10.4103/0974-2069.93725
+17
+. 
+Roldán FJ, Vargas-Barrón J, Espinola-Zavaleta N, Romero-Cárdenas A, Keirns C, Vázquez-Antona C,
+Hernandez JP: 
+Cor triatriatum dexter: transesophageal echocardiographic diagnosis and 3-dimensional
+reconstruction
+. J Am Soc Echocardiogr. 2001, 14:634-6. 
+10.1067/mje.2001.110787
+18
+. 
+Patel AK, Ninneman RW, Rahko PS: 
+Surgical resection of cor triatriatum in a 74-year-old man. Review of
+echocardiographic findings with emphasis on Doppler and transesophageal echocardiography
+. J Am Soc
+Echocardiogr. 1990, 3:402-7. 
+10.1016/s0894-7317(14)80140-5
+19
+. 
+Buchholz S, Jenni R: 
+Doppler echocardiographic findings in 2 identical variants of a rare cardiac anomaly,
+"subtotal" cor triatriatum: a critical review of the literature
+. J Am Soc Echocardiogr. 2001, 14:846-9.
+10.1067/mje.2001.114167
+20
+. 
+Alphonso N, Nørgaard MA, Newcomb A, d'Udekem Y, Brizard CP, Cochrane A: 
+Cor triatriatum: presentation,
+diagnosis and long-term surgical results
+. Ann Thorac Surg. 2005, 80:1666-71.
+ 
+2025 Chaaban et al. Cureus 17(9): e93381. DOI 10.7759/cureus.93381
+7
+ of 
+8
+[[p8]]
+10.1016/j.athoracsur.2005.04.055
+21
+. 
+Yavuz T, Nazli C, Kinay O, Kutsal A: 
+Giant eustachian valve: with echocardiographic appearance of divided
+right atrium
+. Tex Heart Inst J. 2002, 29:336-8.
+22
+. 
+Lee YS, Kim KS, Lee JB, Kean-Ryu J, Choi JY, Chang SG: 
+Cor triatriatum dexter assessed by three-
+dimensional echocardiography reconstruction in two adult patients
+. Echocardiography. 2007, 24:991-4.
+10.1111/j.1540-8175.2007.00527.x
+23
+. 
+Galli MA, Galletti L, Schena F, Salvini L, Mosca F, Danzi GB: 
+A rare case of neonatal cyanosis due 'cor
+triatriatum dexter' and a review of the literature
+. J Cardiovasc Med (Hagerstown). 2009, 10:535-8.
+10.2459/JCM.0b013e32832a574f
+24
+. 
+Hoye DJ, Wilson EC, Fyfe DA, Guzzetta NA: 
+Cor triatriatum dexter: a rare cause of neonatal cyanosis
+. Anesth
+Analg. 2010, 110:716-8. 
+10.1213/ANE.0b013e3181cb5835
+QT
+. 
+Aboukhoudir F, Aboukhoudir I, Rica O, Khennine B, Pansieri M, Rekik S: 
+Atypical form of cor triatrium in a
+59-year-old man (Article in French)
+. Ann Cardiol Angeiol (Paris). 2016, 65:355-8.
+10.1016/j.ancard.2016.09.014
+26
+. 
+Rao S, Suntharos P, Najm H, Komarlu R: 
+Cor triatriatum dexter with right ventricular hypoplasia: Role of
+multimodality imaging in decision making
+. Echocardiography. 2018, 35:2113-6. 
+10.1111/echo.14175
+27
+. 
+Kalangos A, Shatelen N, Demyanchuk V, Ruban N, Sfyridis P, Todurov B: 
+Cor triatriatum dexter in children:
+literature review and case report
+. JTCVS Tech. 2020, 4:254-8. 
+10.1016/j.xjtc.2020.08.024
+28
+. 
+Wailliez A, Wauthy P, Decoodt P, Morissens M: 
+Cor triatriatum in the adult (Article in French)
+. Rev Med
+Brux. 2009, 30:195-8.
+29
+. 
+Goldfarb A, Weinreb J, Daniel W, Kronzon I: 
+A patient with right and left atrial membranes: the role of
+transesophageal echocardiography and magnetic resonance imaging in diagnosis
+. J Am Soc Echocardiogr.
+1989, 2:350-53. 
+10.1016/s0894-7317(89)80012-4
+30
+. 
+Dobbertin A, Warnes CA, Seward JB: 
+Cor triatriatum dexter in an adult diagnosed by transesophageal
+echocardiography: a case report
+. J Am Soc Echocardiogr. 1995, 8:952-7. 
+10.1016/s0894-7317(05)80025-2
+31
+. 
+Masui T, Seelos KC, Kersting-Sommerhoff BA, Higgins CB: 
+Abnormalities of the pulmonary veins:
+evaluation with MR imaging and comparison with cardiac angiography and echocardiography
+. Radiology.
+1991, 181:645-9. 
+10.1148/radiology.181.3.1947075
+32
+. 
+Tanaka F, Itoh M, Esaki H, Isobe J, Inoue R: 
+Asymptomatic cor triatriatum incidentally revealed by
+computed tomography
+. Chest. 1991, 100:272-4. 
+10.1378/chest.100.1.272
+33
+. 
+Stout KK, Daniels CJ, Aboulhosn JA, et al.: 
+2018 AHA/ACC guideline for the management of adults with
+congenital heart disease: executive summary: a report of the American College of Cardiology/American
+Heart Association task force on clinical practice guidelines
+. J Am Coll Cardiol. 2019, 73:1494-563.
+10.1016/j.jacc.2018.08.1028
+34
+. 
+MacIver RH, Larson SB, Moller JH, Shumway SJ: 
+The first repair of cor triatriatum
+. Ann Thorac Surg. 2016,
+102:1023-6. 
+10.1016/j.athoracsur.2016.04.010
+35
+. 
+Nagao H, Tanaka T: 
+Mid-term outcomes of cor triatriatum repair: comparison of biventricular physiology
+and univentricular physiology
+. Cardiol Young. 2021, 31:186-90. 
+10.1017/S1047951120003595
+36
+. 
+Alotay A, Dowaikh A, Alsahari A, Momenah T: 
+Effective management of cor triatriatum Dexter using double
+balloon dilatation in a paediatric age group case-report study
+. CJC Pediatr Congenit Heart Dis. 2024, 3:137-
+40. 
+10.1016/j.cjcpc.2024.06.001
+RV
+. 
+Hasnie UA, Prejean SP, Ahmed AN, Ahmed MI, Law MA: 
+Transcatheter balloon dilatation of cor triatriatum
+dexter with percutaneous atrial septal defect closure
+. J Cardiol Cases. 2022, 25:68-71.
+10.1016/j.jccase.2021.06.016
+ 
+2025 Chaaban et al. Cureus 17(9): e93381. DOI 10.7759/cureus.93381
+8
+ of 
+8

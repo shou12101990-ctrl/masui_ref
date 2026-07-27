@@ -1,0 +1,641 @@
+
+[[p1]]
+Shams et al. The Egyptian Heart Journal           (2024) 76:60  
+https://doi.org/10.1186/s43044-024-00475-5
+RESEARCH Open Access
+© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+The Egyptian Heart
+Journal
+Effect of phosphodiesterase type 5 inhibitors 
+on surgical outcome of ventricular septal defect 
+and pulmonary hypertension patients
+Khaled Ahmed Shams1,2*  , Dalia Monir Ellahony3, Ahmed Fouad Halima3   and Rania Salah Elzayat3   
+Abstract 
+Background Children with ventricular septal defect (VSD) and large systemic-to-pulmonary shunts eventually 
+develop pulmonary hypertension (PH). The perioperative management of patients with VSD and PH is quite trouble-
+some and still debatable, especially in developing countries where the different management options and stand-
+ardization of treatment is not available. Oral phosphodiesterase type 5 (PDE-5) inhibitors are good treatment options 
+being widely available, cheap, easy administration and do not require extensive monitoring. The aim of our study 
+was to evaluate the effect of the PDE-5 inhibitors when given orally, early preoperative and continued for 3 months 
+postoperative on controlling postoperative PH with its effect on right ventricle (RV) functions. Fifty-one patients were 
+randomly assigned to either sildenafil or tadalafil, 1 week before and continued for 3 months after corrective surgery. 
+The control group received a placebo.
+Results There was no significant difference in the improvement in the right ventricle systolic pressure (RVSP) 
+between both groups, early in the postoperative period (P = 0.255) and in follow-up (P = 0.259). There was also no 
+significant difference in the changes in mean pulmonary artery pressure (mPAP), postoperatively and on follow-up 
+(P = 0.788 and 0.059, respectively). There was a drop in RV functions in both groups postoperatively which improved 
+on follow-up; however, it was not significant between both groups. The length of intensive care unit (ICU) stay 
+was similar between both groups (P = 0.143).
+Conclusion Perioperative administration of PDE-5 inhibitors does not have an impact on the clinical course 
+as regards improvement in pulmonary artery (PA) pressure, ventricular functions and ICU stay.
+Keywords Ventricular septal defect, Pulmonary arterial hypertension, Phosphodiesterase type 5 inhibitors, Right 
+ventricle functions, Postoperative pulmonary hypertension, Pulmonary hypertensive crisis
+Background
+Ventricular septal defect (VSD) is one of the most com -
+mon congenital heart diseases (CHDs) with an incidence 
+of 40% [1]. Significant proportion of patients with VSDs 
+had significant left to right shunting which eventually 
+leads to PH of variable severity. This inevitable increase 
+in pulmonary artery pressure (PAP) had a deleterious 
+effect on both morbidity and mortality, being one of the 
+major determinants of perioperative outcome, as well as 
+long-term well-being and survival [2].
+PH due to CHDs is classified as a type of pulmo -
+nary arterial hypertension (PAH) [3]. According to 
+*Correspondence:
+Khaled Ahmed Shams
+khaled.shams@med.helwan.edu.eg
+1 Cardiology Department, Faculty of Medicine, Helwan University, Helwan, 
+Egypt
+2 Adult Cardiology Department, Aswan Heart Centre, Magdi Yacoub 
+Foundation, Aswân, Egypt
+3 Department of Pediatrics, Faculty of Medicine, Menoufia University, 
+Shebein Elkom, Menoufia, Egypt
+[[p2]]
+Page 2 of 8Shams et al. The Egyptian Heart Journal           (2024) 76:60 
+the latest European society of cardiology (ESC) guide -
+lines, PAH has been redefined by a mPAP > 20  mmHg 
+at rest together with pulmonary artery wedge pressure 
+(PAWP) < 15  mmHg and pulmonary vascular resistance 
+(PVR) > 2 Wood unit (WU) [3].
+The prognosis of VSDs depends to a great extent on 
+the degree of left to right shunting with the resultant his -
+tologic changes in the pulmonary vasculature and PVR 
+[4]. Not only is the prognosis badly affected but also the 
+surgical outcome [4]. This urges early surgical correction 
+and development of several treatment algorithms to pre -
+vent postoperative sequelae of PH [5].
+Pulmonary vascular disease resulting from over-circu -
+lation with the resultant pulmonary hypertension may be 
+the most preventable cause worldwide [6]. And so, efforts 
+should be directed toward: solidifying a better under -
+standing of the pathophysiology of pulmonary vascular 
+disease, early detection and management of such condi -
+tion, offering different types of medical treatment options 
+and ensure availability to personal in less privileged 
+countries, having an evidence-based guidelines for the 
+management of pulmonary hypertension in this peculiar 
+subgroup of patients, taking into consideration the inher-
+ent difficulties in conducting clinical research in those 
+patients and having data on long-term outcomes many 
+years after surgical repair [6].
+Of the major burdens in the early postoperative period 
+are the sudden rise in pulmonary artery pressure (PAP) 
+and pulmonary hypertensive crisis [7]. Pulmonary hyper -
+tensive crisis is a lethal condition characterized by sud -
+den severe rise in PAP leading to profound RV failure, 
+reduction in cardiac output and death [7]. Pulmonary 
+hypertensive crisis is believed to be due to endothelial 
+dysfunction and decrease endogenous nitric oxide (NO) 
+production resulting in decline in the synthesis of cyclic 
+guanosine monophosphate (cGMP) which is a potent 
+pulmonary arterial vasodilator [8].
+A profound effort is being implemented to prevent and 
+treat the drastic changes of left to right shunting on the 
+pulmonary vasculature and avoid the unpleasant com -
+plications of increased PA pressure on both morbidity 
+and mortality in the early postoperative period. Of those 
+measures are mechanical ventilation, hyperventilation, 
+deep sedation and use of selective pulmonary vasodila -
+tors as endothelin receptor antagonists, aerosolized and 
+intravenous prostacyclin, inhaled nitric oxide (iNO) and 
+PDE-5 inhibitors either alone or combined [9].
+Despite being quite helpful in managing patients with 
+perioperative PH and pulmonary hypertensive crisis, 
+some of these therapies are not commonly used due to 
+various factors, including unavailability, cost, need for 
+close monitoring, systemic side effects and rebound PH 
+[10].
+Nowadays, iNO is the gold standard for the manage -
+ment of postoperative PH and pulmonary hypertensive 
+crisis. Despite being effective, it is expensive, not widely 
+available, especially in developing countries, its admin -
+istration mandates the presence of special equipment 
+which is not available in all centers and its withdrawal 
+results in rebound PH.
+Oral PDE-5 inhibitors are widely available agents that 
+prevent cGMP degradation by inhibiting phosphodies -
+terase, increasing its plasma levels promoting PA vaso -
+dilation. Moreover, they are endothelium independent, 
+administered orally, are well tolerated with very few drug 
+interactions and do not require intensive monitoring, 
+facilitating their utility [11]. Adding on to this, there are 
+different agents available nowadays with long half-life, 
+improving the compliance. It is of importance to mention 
+that administration of PDE-5 inhibitors preoperatively 
+is not without danger, and there might be an extensive 
+increase in the preexisting left to right shunt with its del -
+eterious effect provoking heart failure.
+In developing countries, management of patients with 
+VSDs and pulmonary hypertension is extremely chal -
+lenging, in which nearby medical service is deficient with 
+the resultant delayed presentation, and limited resources 
+making availability of expensive management options 
+scanty. Therefore, we aimed to study the effect of the 
+inexpensive oral PDE-5 inhibitors being sildenafil and 
+tadalafil when given orally, early preoperative and contin-
+ued for 3 months postoperative on controlling postopera-
+tive pulmonary hypertension and crisis with its effect on 
+RV functions.
+Methods
+This study was a prospective, randomized, double-
+blinded, single-center study conducted at a tertiary car -
+diac referral center, after obtaining the ethical approval 
+from the ethical committee of faculty of Medicine, 
+Menoufia University (IRB approval number: 10/2022 
+PDEI 11-2), and an informed parental consent was 
+obtained for each patient.
+Out of 74 patients assessed for eligibility, 51 patients 
+with a definite diagnosis of VSD and pulmonary hyper -
+tension were enrolled in the study. The diagnosis of VSD 
+and the severity of pulmonary arterial hypertension were 
+assessed by two-dimensional color Doppler echocardiog -
+raphy. Pulmonary hypertension was defined as having a 
+mPAP > 20 mmHg. Patients with large VSDs and bidirec -
+tional shunting, severe pulmonary hypertension and near 
+systemic PAP underwent hemodynamic cardiac cathe -
+terization preoperatively to ensure complete reversibility 
+of the PAP with PVR < 4 WU. Patients with the follow -
+ing criteria were excluded from this study: Eisenmenger 
+[[p3]]
+Page 3 of 8
+Shams et al. The Egyptian Heart Journal           (2024) 76:60 
+ 
+syndrome, thyroid dysfunction, complete atrioventricular 
+septal defect and cardiac arrhythmias (Fig. 1).
+The patients were allocated to treatment or placebo 
+using a computer-generated randomization table. Group 
+A received either sildenafil (0.5  mg/kg/TDS) or tadalafil 
+(1  mg/kg/OD) which were initiated 1  week before and 
+continued for 3  months after corrective surgery. The 
+drugs were administered through nasogastric tube in the 
+early postoperative period till initiation of oral feeding. 
+Group B received placebo.
+All patients were managed postoperatively according to 
+the policy of our center with milrinone, dobutamine and 
+diuretics till stabilization of hemodynamics and weaning 
+of ventilation. Patients were kept on anti-failure meas -
+ures according to their clinical need with monitoring of 
+clinical data inside pediatric ICU (PICU) and after hospi -
+tal discharge for any drug side effects.
+Echocardiography
+All patients underwent three echocardiographic stud -
+ies: preoperative (1  week before surgery), postoperative 
+(1  week after) and follow-up (3  months after surgery). 
+All echocardiographic studies were performed using an 
+ultrasound system (GE Vivid S5) by the same pediatric 
+cardiologist who was blinded to the study group. Stand -
+ard 2D and M-mode echocardiograms were obtained 
+according to the American Society of Echocardiography 
+guidelines [12]. Basic measurements included left ventri -
+cle (LV) wall thickness, LV internal dimensions, LV end-
+diastolic and end-systolic volumes, LV EF by M-mode 
+and modified Simpson’s rule, RV end-diastolic and end-
+systolic areas, right atrial volume and area, RV frac -
+tional area change (FAC) (RV FAC > 35% is considered 
+normal) and tricuspid annular plane systolic excursion 
+(TAPSE > 17  mm is considered normal). Doppler meas -
+urements included estimated RVSP and mPAP . Pulsed-
+wave tissue Doppler assessment of the lateral tricuspid 
+annulus to assess RV systolic function (S′ wave veloc -
+ity > 9.5 cm/s is considered normal) was performed.
+The primary outcomes were improvement in RVSP 
+and mPAP . The secondary outcomes were changes in RV 
+functions and ICU hospital stay.
+Statistical analysis
+Data were collected and statistically analyzed using SPSS 
+(Statistical Package for Social Science) program version 
+13 for windows. Qualitative variables were expressed as 
+frequency and percentage. Quantitative variables were 
+expressed as mean ± SD. Qualitative variables were com -
+pared by the use of Chi-square test. Quantitative vari -
+ables were assessed with the unpaired t test. A value of 
+P ≤ 0.05 was considered significant, and P ≤ 0.001 was 
+considered highly significant.
+Results
+Fifty-one patients were enrolled in the study and ran -
+domized to either PDE-5 inhibitors (Group A—34 
+patients) or placebo (Group B—17 patients). There was 
+no fall out seen during the study due to either cardiac 
+death, death from any cause, any other reason or con -
+sent withdrawal in the control group (group B). However, 
+there were 2 mortalities in Group A: One patient died 
+from brady/asystole 8  days after surgery and the other 
+patient died 2  weeks after surgery due to subarachnoid 
+hemorrhage; one patient required re-intubation due to 
+pulmonary hypertensive crisis in group A. The rest of 
+both groups continued till the end of the study.
+Demographic characteristics
+Both the groups were comparable with no signifi -
+cant difference between the baseline characteristics 
+(Table 1). The age in the PDE-5i group ranged from 3.5 
+to 24 months and ranged from 4 to 21 months in the con-
+trol group (P = 0.375), and seventeen patients (53.1%) in 
+the PDE-5i and 9 patients (52.9%) in the control group 
+were males (P = 0.990). The mean body surface area in 
+the PDE-5i group was 0.33 ± 0.05  m2 compared with 
+0.32 ± 0.04  m2 in the control group (P = 0.881). There 
+was no significant difference in the pediatric ICU stay 
+between both groups with an average of 3–4 days.
+Baseline echocardiographic characteristics
+There was no significant difference as regards LV func -
+tions measured by both M-mode and modified Simpson’s 
+rule, RV functions as measured by TAPSE, FAC and tis -
+sue Doppler. The baseline RVSP and mean PAP were not 
+statistically different between both groups (Table 2).
+74 patients assessed for eligibility
+51 51 patients were enrolled 
+Group A (PDE-5i group)
+(34 patients)
+Group B (control group)
+(17 patients)
+ininclusion and 
+exclusion criteria 
+Fig. 1 Study population flowchart
+[[p4]]
+Page 4 of 8Shams et al. The Egyptian Heart Journal           (2024) 76:60 
+Postoperative data in control group and effect of VSD 
+closure on PAP and RV functions
+VSD surgical closure resulted in a significant drop in 
+RVSP and mPAP immediately in the postoperative period 
+and continued to decrease over time as shown in Table 3. 
+There was a postoperative drop in RV function as meas -
+ured by FAC, TAPSE and tissue Doppler S′ wave velocity 
+which improved on follow-up as shown in Table 3.
+Primary outcome
+Administration of PDE-5i did not result in a signifi -
+cant difference in the improvement in RVSP in PDE-5i 
+group (39.93 ± 15.60  mmHg) when compared to control 
+group (34.94 ± 11.44 mmHg) in the postoperative period 
+which also continued during follow-up (30.95 ± 12.17 
+vs 26.42 ± 8.35  mmHg). As regards mPAP , there was no 
+significant difference in improvement in mPAP between 
+PDE-5i group and control group both in the postoperative 
+period (22.00 ± 8.94  mmHg vs 21.23 ± 5.94  mmHg) and 
+on follow-up (16.00 ± 6.35 mmHg vs 12.00 ± 1.25 mmHg) 
+(Table 4).
+Secondary outcome
+In addition to control group, there was a drop in RV 
+functions immediately postoperative in the PDE-5i group 
+which improved on follow-up as shown in Table  3. Com-
+paring the effect of PDE-5 inhibitors on the impairment 
+in RV functions in the postoperative period and on fol -
+low-up for both groups, there was no significant differ -
+ence (Table 5).
+Subgroup analysis
+On subgroup analysis, there was a significant improve -
+ment in the RVSP and mPAP in the sildenafil group 
+compared to the tadalafil group; however, there was no 
+Table 1 Demographic data of the study population
+Data are represented as median (interquartile range), number (%) or mean (SD)
+Variable PDEi group (Group A—n = 32) Control group (Group B—n = 17) P value
+Age (months) Median (IQR) 10 (3.5–24) 9 (4–21) 0.375
+Sex Male 17 (53.1%) 9 (52.9%) 0.990
+Female 15 (46.9%) 8 (47.1%)
+Height (cm) Mean ± SD 65.66 ± 5.45 67.12 ± 5.07 0.365
+Weight (kg) Mean ± SD 6.34 ± 1.57 6.03 ± 1.11 0.476
+Body surface area Mean ± SD 0.33 ± 0.05 0.32 ± 0.04 0.881
+ICU stay Median (IQR) 4 (2–15) 3 (2–5) 0.143
+Table 2 Baseline echocardiographic characteristics
+LVEDDi, LV end-diastolic dimension indexed; LVESDi, LV end-systolic dimension indexed; FS, Fractional shortening; EF, Ejection fraction; LVEDVi, LV end-diastolic 
+volume indexed; LVESVi, LV end-systolic volume indexed; SVi, Stroke volume indexed; RVEDAi, RV end-diastolic area indexed; RVESAi, RV end-systolic area indexed; 
+FAC, Fractional area change; TAPSE, Tricuspid annular plane systolic excursion; RVSP , RV systolic pressure; mPAP , Mean PA pressure. Independent T Test
+Baseline echocardiographic characteristics PDE-5i group (Group 
+A–n = 32)
+Control group (Group 
+B–n = 17)
+P value
+LVEDDi (mm/m2) Mean ± SD 94.87 ± 19.15 85.59 ± 13.90 0.084
+LVESDi (mm/m2) Mean ± SD 58.11 ± 15.12 52.81 ± 9.08 0.193
+LVFS (%) Mean ± SD 40.28 ± 6.84 37.94 ± 5.47 0.230
+LV EF M-mode (%) Mean ± SD 71.19 ± 8.26 70.18 ± 6.05 0.659
+LVEDVi (ml/m2) Mean ± SD 89.19 ± 33.69 76.46 ± 29.89 0.252
+LVESVi (ml/m2) Mean ± SD 37.37 ± 17.94 27.09 ± 11.10 0.037
+LVEF by modified Simpson’s (%) Mean ± SD 61.56 ± 7.18 63.76 ± 9.32 0.362
+SVi Mean ± SD 61.70 ± 28.57 48.33 ± 22.96 0.103
+RVEDAi (mm) Mean ± SD 25.62 ± 13.61 20.70 ± 5.08 0.159
+RVESAi (mm) Mean ± SD 15.27 ± 8.48 11.79 ± 2.36 0.105
+FAC (%) Mean ± SD 40.06 ± 9.77 41.59 ± 6.42 0.565
+TAPSE (mm) Mean ± SD 17.81 ± 3.04 16.06 ± 2.88 0.057
+RVSP (mmHg) Mean ± SD 70.84 ± 15.93 69.21 ± 17.48 0.769
+mPAP (mmHg) Mean ± SD 46.32 ± 10.93 43.56 ± 12.92 0.445
+S′ wave velocity w (cm/s) Mean ± SD 10.88 ± 3.00 10.00 ± 2.15 0.293
+[[p5]]
+Page 5 of 8
+Shams et al. The Egyptian Heart Journal           (2024) 76:60 
+ 
+significant difference between the two groups regarding 
+the RV functions (Table 6).
+Discussion
+Nearly a century and a half after the description of 
+VSDs and perfection of the technique of open surgical 
+repair and the further refinement since then, infants and 
+children who undergo surgical closure of their VSDs are 
+provided excellent outcomes in the proper hands [13, 14]. 
+Consequently, more attention has been directed toward 
+further improving perioperative outcomes, long-term 
+quality of life and survival.
+In the early postoperative period, the management of 
+children with VSDs and PH is quite troublesome when 
+Table 3 Postoperative and follow-up data in the PDE-5i and control group
+RVSP , RV systolic pressure; mPAP , Mean PA pressure; FAC, Fractional area change; TAPSE, Tricuspid annular plane systolic excursion. Independent T test. Repeated 
+measures ANOVA test
+Control group (Group B) P value
+Preoperative Postoperative Follow-up
+RVSP (mmHg) Mean ± SD 69.21 ± 17.48 34.94 ± 11.44 26.42 ± 8.35  < 0.001
+MPAP (mmHg) Mean ± SD 43.56 ± 12.92 21.23 ± 5.49 12.00 ± 1.25 0.003
+FAC (%) Mean ± SD 41.59 ± 6.42 38.41 ± 12.79 47.17 ± 8.11 0.002
+TAPSE (mm) Mean ± SD 16.06 ± 2.88 10.59 ± 5.06 13.40 ± 4.73 0.003
+S′ wave velocity (cm/sec.) Mean ± SD 10.00 ± 2.15 5.12 ± 2.74 8.67 ± 1.50  < 0.001
+PDE-5i group (Group A) P value
+Preoperative Postoperative Follow-up
+RVSP (mmHg) Mean ± SD 70.84 ± 15.93 39.93 ± 15.60 30.95 ± 12.17  < 0.001
+MPAP (mmHg) Mean ± SD 46.32 ± 10.93 22.00 ± 8.94 16.00 ± 6.35  < 0.001
+FAC (%) Mean ± SD 40.06 ± 9.77 38.16 ± 10.30 42.61 ± 10.17 0.119
+TAPSE (mm) Mean ± SD 17.81 ± 3.04 10.56 ± 3.98 14.74 ± 3.53  < 0.001
+S′ wave velocity (cm/sec.) Mean ± SD 10.88 ± 3.00 6.88 ± 3.29 8.88 ± 1.75  < 0.001
+Table 4 PAP in the PDE-5i and control group:
+RVSP , RV systolic pressure; mPAP , Mean PA pressure
+Postoperative period PDE-5i group (group A) Control group (group B) P value
+RVSP (mmHg) Mean ± SD 39.93 ± 15.60 34.94 ± 11.44 0.255
+MPAP (mmHg) Mean ± SD 22.00 ± 8.94 21.23 ± 5.49 0.778
+Follow-up PDE-5i group (group A) Control group (group B) P value
+RVSP (mmHg) Mean ± SD 30.95 ± 12.17 26.42 ± 8.35 0.259
+MPAP (mmHg) Mean ± SD 16.00 ± 6.35 12.00 ± 1.25 0.059
+Table 5 RV functions in the PDE-5i and control group
+FAC, Fractional area change; TAPSE, Tricuspid annular plane systolic excursion. Independent T test
+Postoperative period PDE-5i group (group A) Control group (group B) P value
+FAC (%) Mean ± SD 38.16 ± 10.30 38.41 ± 23.79 0.940
+TAPSE (mm) Mean ± SD 10.56 ± 3.98 10.59 ± 5.06 0.984
+S′ wave velocity (cm/s) Mean ± SD 6.88 ± 3.29 5.12 ± 2.74 0.066
+Follow-up PDE-5i group (group A) Control group (group B) P value
+FAC (%) Mean ± SD 42.61 ± 10.17 47.17 ± 8.11 0.188
+TAPSE (mm) Mean ± SD 14.74 ± 3.53 13.40 ± 4.73 0.351
+S′ wave velocity (cm/s) Mean ± SD 8.88 ± 1.75 8.67 ± 1.50 0.727
+[[p6]]
+Page 6 of 8Shams et al. The Egyptian Heart Journal           (2024) 76:60 
+persistent PH and pulmonary hypertensive crisis are a 
+major burden on surgical outcome, especially in devel -
+oping countries where VSD repair may be delayed, and 
+perioperative management is not standardized. Over 
+the past decade, there was a major advance in the treat -
+ment of postoperative PH using different agents aiming 
+to ameliorate PH severity and eliminate the effect of per -
+sistent PH and improving surgical outcome.
+We sought to study the effect of administering oral 
+PDE-5 inhibitors preoperatively and postoperatively on 
+the outcome, anticipating that it might improve both 
+RVSP and mPAP , decreasing pulmonary hypertensive 
+crisis events and total ICU hospital stay with its effect on 
+surgical outcome.
+In our study, preoperative initiation of PDE-5 inhibitors 
+did not result in significant decrease in RVSP and mPAP 
+compared to the control group, nor a difference was 
+noted in ICU stay. Of note, there was a significant drop 
+in RV functions immediately postoperative that was not 
+confined to the PDE-5 inhibitors group and occurred in 
+control group as well.
+Not surprisingly, many studies have shown that early 
+closure of VSDs results in decline in the peak pulmonary 
+to systemic pressure ratio compared to the preoperative 
+indices immediately after closure, and these results per -
+sist on follow-up [15, 16].
+Several studies have been conducted to investigate the 
+value of prophylactic use of PDE-5 inhibitors and identify 
+proper timing for administration, using different applica -
+tion schedules either preoperative or immediately post -
+operative with different and controversial outcomes [8, 
+11, 17, 18]
+In concordant with our study, Hofer et al. [8] showed in 
+a prospective randomized study that postoperative pro -
+phylactic application of sildenafil in VSD patients could 
+not influence the clinical course specifically the sudden 
+increase in pulmonary arterial pressure. Other studies 
+[11, 17] could not confirm the superiority of sildenafil 
+even when administered preoperatively, either 2  weeks 
+[11] or 24–8 h [17] before surgery.
+On the contrary side, Palma et  al. [18] showed that 
+application of sildenafil 1  week before and 1  week after 
+surgery significantly lowered pulmonary arterial pres -
+sure in contrast to postoperative administration only 
+with the resultant shortened mechanical ventilation time, 
+and the lengths of ICU and hospital stay. Similar results 
+were demonstrated by Bigdelian and his colleague, and 
+they concluded that preoperative administration of silde -
+nafil is safe to prevent postoperative PH and pulmonary 
+hypertensive crisis and has impact on postoperative care 
+[19].
+Our results might have been affected by the fact that 
+absorption could be diminished in the early postopera -
+tive period due to decreased intestinal motility, decreas -
+ing the drug bioavailability, unfortunately the IV form is 
+not available in our country, and we were mainly aiming 
+of studying an agent that is easy to administer. Kesvani 
+et al. [20] showed in their prospective randomized study 
+that intravenous administration of sildenafil resulted in 
+significant reduction in pulmonary artery systolic pres -
+sure. This was also confirmed in another study done by 
+Sharma and his colleagues [21].
+On subgroup analysis, sildenafil was found to be more 
+effective in decreasing RVSP and mPAP compared to 
+tadalafil; however, the number of patients in both groups 
+was too small to extrapolate data from and optimal dos -
+ing of tadalafil in young infants is still questionable. Sabri 
+et  al. in their randomized controlled trial comparing 
+sildenafil to tadalafil when administered preoperative and 
+postoperative in 42 patients with large VSDs and PH, and 
+they concluded that tadalafil has an appropriate efficacy 
+and safety profile as sildenafil in young infants [22].
+One important finding of this study was that both right 
+and left ventricular functions were significantly reduced 
+postoperatively. Our finding is consistent with the results 
+reported by Vassalos and his colleagues [17] where they 
+reported a drop in ventricular functions after correc -
+tive surgery. They suggested administration of sildenafil 
+to be the cause which is not consistent with our results 
+and further mechanism for such condition should be 
+explored.
+The sensitivity of the RV to afterload changes is more 
+than the left ventricle. Several factors have been pro -
+posed including prolonged cardiopulmonary bypass 
+Table 6 Subgroup analysis between sildenafil and tadalafil
+RVSP , RV systolic pressure; mPAP , Mean PA pressure; FAC, Fractional area change; TAPSE, Tricuspid annular plane systolic excursion. Independent T test
+Postoperative period Sildenafil group Tadalafil group P value
+RVSP (mmHg) Mean ± SD 34.06 ± 9.46 46.64 ± 18.67 0.025
+mPAP (mmHg) Mean ± SD 17.88 ± 6.27 29.00 ± 8.63 0.001
+FAC (%) Mean ± SD 39.89 ± 10.88 35.93 ± 9.41 0.288
+TAPSE (mm) Mean ± SD 10.39 ± 4.41 10.79 ± 3.51 0.984
+S′ wave velocity (cm/s) Mean ± SD 6.33 ± 2.72 7.57 ± 3.90 0.066
+[[p7]]
+Page 7 of 8
+Shams et al. The Egyptian Heart Journal           (2024) 76:60 
+ 
+time, residual PAH and rebound PH [17]. However, 
+those mechanisms are not supported by the study find -
+ings of drop of both right and left ventricular func -
+tions where the LV will not be affected by PA pressure 
+changes. Another possible mechanism is administra -
+tion of PDE-5 inhibitors itself [17], through increasing 
+cGMP that can suppress contractility by decreasing 
+myocardial calcium sensitivity, blunting the contrac -
+tile response to adrenergic effect [23, 24]. However, this 
+mechanism is not supported by our study finding of 
+drop of ventricular functions in control group as well as 
+PDE-5 inhibitors group.
+The limitations of this study are small population 
+size, short follow-up duration and absence of IV form 
+of sildenafil.
+Conclusion
+Preoperative and postoperative administration of PDE-
+5i does not have an impact on the clinical course of the 
+patients, especially in the early postoperative period as 
+regards improvement in PA pressure, ICU stay and ven -
+tricular functions.
+Abbreviations
+cGMP  Cyclic guanosine monophosphate
+CHDs  Congenital heart diseases
+FAC  Fractional area change
+iNO  Inhaled nitric oxide.
+LV  Left ventricle
+mPAP  Mean pulmonary artery pressure.
+No  Nitric oxide
+PA  Pulmonary artery
+PAH  Pulmonary arterial hypertension
+PAP  Pulmonary artery pressure
+PAWP  Pulmonary artery wedge pressure
+PDE-5  Phosphodiesterase type 5
+PH  Pulmonary hypertension
+PVR  Pulmonary vascular resistance
+RV  Right ventricle
+RVSP  Right ventricle systolic pressure
+TAPSE  Tricuspid annular plane systolic excursion
+VSD  Ventricular septal defect
+vt??v?
+Acknowledgements
+Not applicable.
+Author contributions
+All authors contributed to the study conception and design. Material prepara-
+tion, data collection and analysis were performed by KAS and AFH. The first 
+draft of the manuscript was written by KAS, and all authors commented on 
+previous versions of the manuscript. All authors read and approved the final 
+manuscript.
+Funding
+The authors declare that no funding, grants or other support were received for 
+conducting this study.
+Availability of data and materials
+The datasets used and/or analyzed during the current study are available from 
+the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+This study was performed in line with the principles of the Declaration of 
+Helsinki. Approval was granted by the ethical committee of faculty of Medi-
+cine, Menoufia University (IRB approval number: 10/2022 PDEI 11-2), and an 
+informed parental consent was obtained for each patient.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare they have no competing interests.
+Received: 2 February 2024   Accepted: 7 April 2024
+References
+?PM?o?ciK?u?fv?GQOPPH?u??M?k?
+377(9771):1103–1112. https:// doi. org/ 10. 1016/ S0140- 6736(10) 61339-6
+ 2. Bando K, Turrentine MW, Sharp TG, Sekine Y, Aufiero TX, Sun K (1996) 
+Pulmonary hypertension after operations for congenital heart disease: 
+analysis of risk factors and management. J Thorac Cardiovasc Surg 
+112:1600–1609
+ 3. Humbert M, Kovacs G, Hoeper MM et al (2022) ESC/ERS Guidelines for the 
+diagnosis and treatment of pulmonary hypertension: developed by the 
+task force for the diagnosis and treatment of pulmonary hypertension of 
+the European Society of Cardiology (ESC) and the European Respiratory 
+Society (ERS). Endorsed by the International Society for Heart and Lung 
+Transplantation (ISHLT) and the European Reference Network on rare 
+respiratory diseases (ERN-LUNG). Eur Heart J 43(2022):3619–3731. https:// 
+M?N?POM?POXRN??N?Q?RV
+ 4. Hallman GL, Cooley DA, Wolfe RR, McNamara DG (1964) Surgical treat-
+ment of ventricular septal defect associated with pulmonary hyperten-
+sion. J Thorac Cardiovasc Surg 48:588–600
+ 5. Schulze-Neick I, Li J, Penny DJ, Redington AN (2001) Pulmonary vascular 
+resistance after cardiopulmonary bypass in infants: effect on postopera-
+tive recovery. J Thorac Cardiovasc Surg 121:1033–1039
+ 6. Adatia I, Kothari SS, Feinstein JA (2010) Pulmonary hypertension associ-
+ated with congenital heart disease: pulmonary vascular disease: the 
+global perspective. Chest 137(6 Suppl):52S-61S
+ 7. Lindberg L, Olsson AK, Jögi P , Jonmarker C (2002) How common is severe 
+pulmonary hypertension after pediatric cardiac surgery? J Thorac Cardio-
+vasc Surg 123:1155–1163
+ 8. Hofer A, Heschl M, Kern C et al (2015) A prospective randomised study of 
+postoperative prophylactic application of sildenafil after pediatric cardiac 
+surgery. J Clin Exp Cardiolog 6:8. https:// doi. org/ 10. 4172/ 2155- 9880. 
+10003 92
+ 9. Ivy DD (2016) Pediatric pulmonary hypertension. In: Allen HD, Shaddy 
+RE, Penny DJ, Feltes TF, Cetta F (eds) Moss and Adams’ heart disease in 
+infants, children, and adolescents including the fetus and young adult. 
+Wolters Kluwer, Philadelphia, pp 1519–1558
+ 10. Humpl T, Reyes JT, Holtby H, Stephens D, Adatia I (2005) Beneficial effect 
+of oral sildenafil therapy childhood pulmonary arterial hypertension: 
+twelvemonth clinical trial of a single-drug, open label, pilot study. Circula-
+tion 111:3274–3280
+ 11. El Midany AAH, Mostafa EA, Azab S et al (2013) Perioperative sildenafil 
+therapy for pulmonary hypertension in infants undergoing congenital 
+cardiac defect closure. Interact Cardiovasc Thorac Surg 17:963–968. 
+https:// doi. org/ 10. 1093/ icvts/ ivt353
+ 12. Lang RM, Bierig M, Devereux RB et al (2005) Recommendations for 
+chamber quantification: a report from the American Society of Echo-
+cardiography’s Guidelines and Standards Committee and the Chamber 
+Quantification Writing Group, developed in conjunction with the Euro-
+pean Association of Echocardiography, a branch of the European Society 
+of Cardiology. J Am Soc Echocardiogr Off Publ Am Soc Echocardiogr 
+18(12):1440–1463
+[[p8]]
+Page 8 of 8Shams et al. The Egyptian Heart Journal           (2024) 76:60 
+ 13. Mitchell SC, Korones SB, Berendes HW (1971) Congenital heart disease in 
+56,109 births. Incid Nat Hist Circ. 43:323–332
+ 14. Mavroudis C, Backer CL, Jacobs JP (2003) Ventricular septal defect. In: 
+Mavroudis C, Backer CL (eds) Pediatric cardiac surgery, 3rd edn. Mosby, 
+Philadelphia, pp 298–320
+ 15. Haneda K, Ishizawa E, Yamaki S et al (1988) Surgical closure of ventricular 
+septal defect in the first year of life: forty-three consecutive successful 
+cases. Tohoku J Exp Med 156:39–45
+ 16. Haneda K, Sato N, Togo T, Miura M, Hata M, Mohri H (1994) Late results 
+after correction of ventricular septal defect with severe pulmonary hyper-
+tension. Tohoku J Exp Med 174:41–48
+ 17. Vassalos A, Peng E, Young D et al (2011) Preoperative sildenafil and 
+pulmonary endothelial-related complications following cardiopulmo-
+nary bypass: a randomized trial in children undergoing cardiac surgery. 
+Anaesthesia 66:472–480
+ 18. Palma G, Giordano R, Russolillo V et al (2011) Sildenafil therapy for pulmo-
+nary hypertension before and after pediatric congenital heart surgery. 
+Tex Heart Inst J 38:238–242
+ 19. Bigdelian H, Sedighi M (2017) The role of preoperative sildenafil therapy 
+in controlling of postoperative pulmonary hypertension in children with 
+ventricular septal defects. J Cardiovasc Thorac Res 9(3):179–182. https:// 
+doi. org/ 10. 15171/ jcvtr. 2017. 31
+ 20. Kesvani S, Sachan P , Champaneri B et al (2021) Intravenous sildenafil for 
+perioperative management of patients with pulmonary artery hyperten-
+sion in congenital heart surgery—a prospective randomized study. Egypt 
+J Cardiothorac Anesth 15(3):84–91. https:// doi. org/ 10. 4103/ ejca. ejca_6_ 
+21
+ 21. Sharma V, Joshi S, Joshi A, Kumar G, Arora H, Garg A (2015) Does intra-
+venous sildenafil clinically ameliorate pulmonary hypertension during 
+perioperative management of congenital heart diseases in children?—A 
+prospective randomized study. Ann Card Anaesth 18(4):510–516
+ 22. Sabri MR, Bigdelian H, Hosseinzadeh M, Ahmadi A, Ghaderian M, Shoja M 
+(2017) Comparison of the therapeutic effects and side effects of tadalafil 
+and sildenafil after surgery in young infants with pulmonary arterial 
+hypertension due to systemic-to-pulmonary shunts. Cardiol Young. 
+27(9):1686–1693. https:// doi. org/ 10. 1017/ S1047 95111 70009 81
+ 23. Borlaug B, Melenovsky V, Marhin T, Fitzgerald P , Kass D (2005) Sildenafil 
+inhibits β-adrenergic-stimulated cardiac contractility in humans. Circula-
+tion 112:2642–2649
+ 24. Takimoto E, Champion H, Belardi D et al (2005) cGMP catabolism by 
+phosphodiesterase 5A regulates cardiac adrenergic stimulation by NOS-3 
+dependent mechanism. Circ Res 96:100–109
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

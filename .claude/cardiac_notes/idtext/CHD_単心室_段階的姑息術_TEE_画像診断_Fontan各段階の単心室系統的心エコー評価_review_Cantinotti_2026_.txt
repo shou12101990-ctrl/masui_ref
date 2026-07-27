@@ -1,0 +1,1059 @@
+
+[[p1]]
+Academic Editor: Teruhiko Imamura
+Received: 24 March 2026
+Revised: 23 April 2026
+Accepted: 26 April 2026
+Published: 5 May 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Review
+Systematic Echocardiographic Assessment of the
+Univentricular Heart Across the Stages of Fontan Palliation:
+A Practical Guide with Focus on Emerging 3D and 4D Imaging
+Modalities and Thromboembolic Complications from AEPC
+Imaging Working Group
+Massimiliano Cantinotti 1,*, Pietro Marchese 1
+ , Giovanni Di Salvo 2
+ , Nadia Assanta 1, Guglielmo Capponi 1
+ ,
+Inga Voges 3
+ , Francesca Raimondi 4, Almudena Ortiz Garrido 5
+ , Sylvia Krupickova 6, Giulia Pasqualin 7,
+Heynric Grotenhuis 8, Martin Köestenberger 9
+ , Beatrice Bonello 10, Owen Miller 11
+ and Colin J. McMahon 12
+1 Fondazione CNR-Regione Toscana G. Monasterio (FTGM), 54100 Massa, Italy
+2 Paediatric Cardiology and Congenital Heart Disease, Woman and Children’s Health Department,
+University of Padua, Experimental Cardiology, Paediatric Research Institute (IRP), 35122 Padua, Italy
+3 Department for Congenital Cardiology and Pediatric Cardiology, University Hospital Schleswig-Holstein,
+Campus Kiel, 24105 Kiel, Germany
+4 Division of Pediatric Cardiology, Ospedali Riuniti, ASST Azienda Ospedaliera Papa Giovanni XXIII,
+24127 Bergamo, Italy
+5 Section of Pediatric Cardiology, Hospital Materno Infantil of Malaga, 29011 Málaga, Andalucia, Spain
+6 Royal Brompton and Harefield NHS Foundation Trust, London SW3 6NP , UK
+7 Pediatric Cardiology and Adult Congenital Disease Heart Centre, IRCCS Policlinico San Donato, San Donato
+Milanese, 20097 Milan, Italy
+8 Department Pediatric Cardiology, University Medical Center Groningen,
+9713 GZ Groningen, The Netherlands
+9 Department of Pediatrics, Division of Pediatric Cardiology, Medical University Gratz, 8036 Graz, Austria
+10 Great Ormond Street Hospital for Children, London WC1N 3JH, UK
+11 Department Pediatric Cardiology, Evelina London Children’s Hospital, London SE1 7EH, UK
+12 Department Paediatric Cardiology, Children’s Health Ireland at Crumlin, D12 N512 Dublin, Ireland
+* Correspondence: cantinotti@ftgm.it; Tel.: +39-0585493622; Fax: +39-0585493616
+Abstract
+Although echocardiography remains the primary imaging modality for assessing Fontan
+palliation, a standardized systematic approach for evaluating the univentricular heart
+throughout the different stages of palliation has yet to be established. This document aims
+to provide a narrative review and practical guide for the echocardiographic assessment of
+the univentricular heart at various phases of Fontan palliation. Additional objectives in-
+clude highlighting the potential of advanced three-dimensional (3D) and four-dimensional
+(4D) imaging modalities, as well as outlining a systematic strategy for detecting throm-
+boembolic complications. We propose a sequential framework for echocardiographic
+evaluation, encompassing key anatomical and functional components of the univentric-
+ular heart. This includes the atrial septum and pulmonary veins, ventricular function,
+atrioventricular valve, aorta and neo-aorta, sub-aortic region, aortic arch, and pulmonary
+arteries. Furthermore, we detail the assessment of pulmonary blood supply at different
+stages of palliation, including the modified Blalock–Taussig–Thomas (mBTT) shunt, Sano
+conduit, Glenn procedure, and total cavo-pulmonary connection (TCPC). A comprehensive
+analysis of potential thrombus formation sites is provided, along with diagnostic pitfalls.
+Additionally, we outline methods for screening for extracardiac clots following Glenn and
+TCPC procedures. This document serves as a practical guide for the systematic echocar-
+diographic evaluation of the univentricular heart across all stages of Fontan palliation,
+offering guidance for clinical practice. It also explores the capabilities of emerging 3D
+J. Clin. Med. 2026, 15, 3520 https://doi.org/10.3390/jcm15093520
+[[p2]]
+iM?bM?lM?QOQUK?PTK?RTQO?Q??QT
+and 4D echocardiographic techniques in univentricular heart assessment and provides an
+in-depth review of thromboembolic complications, emphasizing key diagnostic challenges.
+Keywords: echocardiography; univentricular heart; fontan; thrombus; clot
+PM?a
+Echocardiography is the primary modality for the assessment of the univentricular
+heart across different stages of univentricular palliation. Despite the presence of robust
+literature [1–16], the standards and recommendations for a systematic approach for the
+evaluation of univentricular heart in the different phases of univentricular palliation has
+not yet been established. Furthermore, the additional diagnostic and prognostic values of
+newer echo modalities, e.g., speckle tracking echocardiography (STE) [17–45] and three-
+dimensional (3D) echocardiography [9–11,25,31] in the assessment of univentricular heart,
+which is further supported by multiple studies. Despite this, the application of new echo
+modalities into clinical practice remains limited. Thromboembolic complications are a well-
+known complication across all the stages of univentricular palliation [46–54]. A systematic
+assessment of all potential sites of thrombus formation has not yet been standardized.
+Extracardiac clots are also common after superior cavo-pulmonary connection (Glenn or
+HemiFontan) and total cavo-pulmonary connection (TCPC) surgery, though their routine
+assessment is still limited [55,56].
+The aim of the present document is to provide a narrative review and practical guide
+for the systematic echocardiographic assessment of the univentricular heart at different
+stages of Fontan palliation. The other aims are (i) to focus on the potentiality of newer 3D
+and 4D modalities in the evaluation and follow-up of univentricular heart through different
+phases of Fontan palliation; and (ii) to provide a systematic approach for the search of
+thromboembolic complications.
+2. Methods
+A comprehensive literature review was conducted in January 2026 using three major
+medical databases: the National Library of Medicine (PubMed/MEDLINE), ScienceDirect,
+and the Cochrane Library. The search strategy included both Medical Subject Headings
+(MeSH) terms and free-text keywords, including “echocardiography,” “univentricular heart,”
+and “Fontan.”
+To further refine the search, additional terms were incorporated, including “hypoplas-
+tic left heart syndrome (HLHS),” “Glenn,” “total cavo-pulmonary connection -TCPC- ”, “3D
+echocardiography,” “4D echocardiography,” “speckle-tracking echocardiography (STE),”
+“AV valves”, “diastolic function”, “ventricular function”, “thrombus,” and “clot.”
+Potentially relevant studies were also identified through manual screening of the
+reference lists of all eligible articles and review papers, as well as through citation tracking
+using the Science Citation Index Expanded (Web of Science).
+All titles and abstracts retrieved through the search strategy were independently
+screened for eligibility. Full-text articles were subsequently reviewed when deemed poten-
+tially relevant.
+Studies were excluded if they: (a) used imaging modalities other than echocardiog-
+raphy; (b) were not published in English; or (c) were published during the late 1980s and
+1990s, a period characterized by substantially different imaging technologies and surgical
+outcomes compared with contemporary Fontan practice.
+This review was conducted in accordance with the current guidelines [57].
+https://doi.org/10.3390/jcm15093520
+[[p3]]
+iM?bM?lM?QOQUK?PTK?RTQO?R??QT
+All selected articles were independently evaluated by three specialists in pediatric
+echocardiography (M.C., G.D.S, and C.M.). Final inclusion was based on consensus agree-
+ment among all reviewers.
+This document has been endorsed by AEPC (Association for European Paediatric and
+Congenital Cardiology) Imaging Working Group (IMWG) committee, a specialist working
+group, which focuses on cardiac imaging.
+The use of anonymized videos and images was approved by the local ethics committee,
+FTGM CE (approval code: Study “Bet” No. 390). Parents or legal guardians were duly
+informed, and they provided written informed consent.
+3. Search Results
+A total of 120 publications were initially identified through the search strategy. After
+title, abstract, and full-text screening, 50 studies met the predefined inclusion criteria and
+were included in the final analysis.
+A total of 70 articles were excluded, including: 15 studies using imaging modalities
+other than echocardiography, two studies published in languages other than English, and
+53 studies published in the late 1980s or 1990s.
+4. General Aspects
+Key elements of the evaluation of univentricular heart across different stages of Fontan
+palliation include assessments of (Table 1):
+(1) Atrial septal and pulmonary venous obstruction;
+(2) Ventricular function;
+(3) AV valve function;
+(4) Aorta and neo-aorta function, subaortic region, and aortic arch;
+(5) Pulmonary arteries;
+(6) Shunt, Glenn and TCPC conduit (flow velocity, obstruction, thromboembolism);
+(7) Assessment of thrombi and clots.
+s?PM?j???????M
+Pre-
+Norwood Interstage Pre-
+Glenn
+Pre-
+Fontan
+Post-
+Fontan
+Atrial septum and pulmonary venous obstruction xxx xxx xx x x
+Ventricular function xxx xxx xxx xxx xxx
+AV valve function xx xx xx xxx xxx
+Aorta and neo-aorta function, subaortic region xx xx xx xxx xxx
+Aortic arch xxx xxx xx x x
+Shunt/Sano conduit xxx
+Glenn xxx xx xx
+TCPC conduit xxx xxx
+Thrombi and clots xxx xxx xx xxx
+x: important; xx very important; xxx essential.
+(1) Pulmonary venous obstruction
+In the univentricular heart (UH), pulmonary venous obstruction may occur either at
+the level of pulmonary vein to atrial connections or at the level of interatrial septum [1–5].
+https://doi.org/10.3390/jcm15093520
+[[p4]]
+iM?bM?lM?QOQUK?PTK?RTQO?S??QT
+Pulmonary venous return should be systematically assessed, and obstruction needs to be
+ruled out, especially in the setting of heterotaxic syndrome where it is more common [1–5].
+Obstruction at the level of the interatrial septum is common before the first stage of
+univentricular palliation and in the interstage period, but it may also occur later [1–5].
+The presence of a restrictive patent foramen ovale (PFO) [58–64] is a well-known risk
+factor for early and late death after the Norwood procedure [1–5]. Thus, the patency and
+adequacy in interatrial communication should always be assessed [1–5]. The characteristics
+of blood flow, blood flow velocity (and derived estimated pressure gradient), septal bulging,
+and the presence of dilated pulmonary veins are all features which can define a restrictive
+patent foramen ovale [57–63]. Various definitions of a restrictive PFO have been described
+by different authors, including the maximal PFO diameter or the mean Doppler-derived
+pressure gradient [57–63].
+Practical advice:
+The presence of pulmonary venous abnormalities should always be systematically
+assessed, particularly before and after the first stage of UH palliation. Flow turbulence
+across the foramen ovale should be interpreted with caution and in the context of the
+overall clinical picture, including oxygen saturation and gas exchange, signs of pulmonary
+congestion in left-sided obstruction, and hepatomegaly in right-sided disease, in order to
+avoid misleading qualitative interpretations of echocardiographic findings.
+Figure 1, Movie S1
+ 
+(A) 
+ 
+ 
+ 
+e?PM?bM
+https://doi.org/10.3390/jcm15093520
+[[p5]]
+iM?bM?lM?QOQUK?PTK?RTQO?T??QT
+ 
+(B) 
+ 
+ 
+e?PM?G`HY???????GSMT?H??????GQ??K
+3 kg of weight) with HLHS; ( B): gradient across the patent foramen ovale (PFO) (mean gradient
+9 mmHg). LA = left atrium, RA = right atrium, PFO = patent foramen ovale.
+(2) Evaluation of Systemic Ventricular Function in Univentricular Heart Physiology
+during Fontan Palliation
+(a) Systolic Function
+The assessment of systemic ventricular function is a critical component in the evalua-
+tion of univentricular heart patients throughout all phases of Fontan palliation [1–5,17–40].
+The diverse and complex ventricular morphologies in these patients pose challenges for
+standardizing the evaluation of ventricular function [ 1–5,17–40]. Despite the inherent
+limitations [27], subjective qualitative assessment, typically categorized as mild, moderate,
+or severe impairment, remains a commonly used approach [1].
+For the systemic right ventricle (RV), a multiparametric echo approach [ 17–40] has
+been shown to correlate well with cardiac magnetic resonance (CMR) data [20]. These echo
+parameters include global longitudinal strain (GLS) of the free wall, tissue Doppler velocity
+of the basal lateral wall (S’), tricuspid annular plane systolic excursion (TAPSE), volumetric
+function assessed by 3D echocardiography, fractional area change (FAC), and monoplane
+Simpson ejection fraction (EF) [20].
+4.1. 2D STE
+Excellent correlation between speckle tracking echocardiography (STE) and MRI
+measurements for both global longitudinal strain (GLS) and regional strain in children
+with single ventricle physiology has been reported [ 21]. A significant reduction in both
+EF and GLS by STE (p < 0.01) has been observed in children and adolescents both before
+and after Fontan surgery, indicating a progressive decline in myocardial function [22,23,30].
+https://doi.org/10.3390/jcm15093520
+[[p6]]
+iM?bM?lM?QOQUK?PTK?RTQO?U??QT
+Furthermore, STE studies on rotational mechanics have shown statistically significant
+impairment in both single left ventricle and other forms of single ventricle anatomy.
+A progressive decrease in systemic ventricular torsion by STE has correlated with
+a reduction in apical rotation, which is more pronounced in single right ventricles. This
+decrease in torsion by STE has been linked to increased markers of myocardial fibrosis, as
+assessed by T1 mapping in CMR [22–24].
+4.2. 2D STE and 3D Volume
+Recent studies utilizing 3D STE have shown that, in HLHS patients post-Fontan, right
+ventricular GLS is significantly reduced compared to normal controls [34]. Moreover, other
+authors have highlighted increased ventricular dyssynchrony in children post-Fontan, both
+by 2D STE [30] and 3D STE [26], with this dyssynchrony being strongly associated with
+adverse clinical outcomes [26,31].
+Additionally, in both children and adults with single ventricle physiology, the ejection
+fraction and volumes measured by 3D echocardiography have been shown to correlate
+significantly with cardiopulmonary exercise test variables, such as VO2max (p < 0.01) and
+VE/VCO2 slope (p = 0.05) [22,26].
+4.3. Prognostic Significance of STE GLS
+The prognostic significance of GLS measured by STE has been demonstrated in various
+contexts, including in patients with single left ventricle physiology prior to Fontan [30] and
+in HLHS patients following the first stage of Fontan palliation [26].
+4.4. Limitations and Gaps of Evidence of 3D and STE
+Reference values for GSL values and 3D volumes from healthy populations may be
+inappropriate for patients with UH anatomy and physiology, as disease-specific normative
+data are currently lacking. In addition, these techniques are not always available and may
+not always be feasible, particularly in young uncooperative children or in the presence of
+poor acoustic windows.
+Figure 2, Movie S2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Global longitudinal strain of −12.2%, fractional area change (FAC) 35%, tricuspid annular
+plane systolic excursion (TAPSE) 8 mm, and tricuspid valve (TV) s’ 8 cm/s.
+https://doi.org/10.3390/jcm15093520
+[[p7]]
+iM?bM?lM?QOQUK?PTK?RTQO?V??QT
+Practical Advice
+Evaluation of systemic ventricular function is essential throughout all stages of Fontan
+palliation. A multiparametric approach, integrating conventional 2D echocardiographic
+measures with advanced techniques, such as STE and 3D parameters when available, is
+recommended in place of subjective qualitative assessment.
+(b) Assessment of Ventricular Diastolic Function
+Diastolic dysfunction is considered one of the most significant ventricular complica-
+tions following Fontan palliation [1–5], with an incidence up to 72% of Fontan patients in a
+large cohort study [30]. A classification system for diastolic dysfunction (normal, impaired
+relaxation, pseudo normal, and restrictive) in Fontan patients has been proposed [30].
+However, this grading system, derived from adult data, lacks validation against inva-
+sive pressure measurements in both pediatric and adult Fontan patients and of correlation
+with clinical outcomes [30]. Invasive studies attempting to link diastolic echocardiographic
+parameters with direct pressure measurements have also failed to yield useful clinical
+associations [2,5,27]. It is important to note that not only have adult parameters for diastolic
+function not been validated in the pediatric age but also most echocardiographic markers
+of diastolic function, such as AV valve inflow, pulmonary venous flow, and tissue Doppler
+imaging which are influenced by variables like heart rate, loading conditions, AV valve
+size and function, and univentricular heart systolic performance [2,27].
+In aging Fontan patients [ 40], progressive ventricular stiffness and elevated end-
+diastolic pressures are frequently observed. However, these changes are challenging
+to detect through noninvasive methods. In the general adult population with biven-
+tricular circulation, the E/E ′ ratio is commonly used as an indicator of elevated filling
+pressures [2,27]. However, its applicability in patients with univentricular physiology is
+limited due to the influence of atrioventricular (AV) valve size on E velocity and the fre-
+quent preservation of E′ velocity. While diastolic dysfunction plays a critical role in Fontan
+failure, current echocardiographic techniques lack reliability in identifying at-risk patients
+based on existing diagnostic criteria [2,40]. Even invasive assessment in the catheterization
+lab remains challenging, as filling pressures are highly dependent on intravascular vol-
+ume status [2,40]. Detecting single ventricle physiology patients with reduced ventricular
+compliance remains a significant challenge in congenital cardiology. Future advancements,
+such as MRI-based T1 mapping for diffuse fibrosis assessment and myocardial stiffness
+evaluation via ultrafast ultrasound, may enhance the understanding of tissue characteristics
+and improve diagnostic precision [2,40].
+Atrial strain
+Several studies have investigated the potentialities of STE in the evaluation of atrial
+function in Fontan circulation, particularly its relationship with ventricular filling pres-
+sures [41], cardiac output [ 42], and functional capacity [ 44]. A progressive decrease in
+atrial function through different stages of Fontan palliation has been identified [44]. Data
+on atrial STE data and their correlation with hemodynamic parameters are controversial.
+Despite atrial strain values in Fontan patients poorly correlating with invasive ventricular
+filling pressures (R2 = 0.12) [41], atrial reservoir strain value [42] was associated with de-
+creased cardiac index and adverse post-Fontan clinical outcomes (R2 = 0.28). Furthermore,
+a positive correlation (R2 = 0.34) between atrial strain and exercise performance in Fontan
+patients [43] has been demonstrated. These studies [ 41–43] collectively underscore the
+importance of atrial function in Fontan physiology and its potential role in predicting ad-
+verse outcomes, functional status, and hemodynamic efficiency. However, further research
+is needed to establish standardized clinical applications of atrial strain measurements in
+this population.
+https://doi.org/10.3390/jcm15093520
+[[p8]]
+iM?bM?lM?QOQUK?PTK?RTQO?W??QT
+Limitations and gaps of evidence of atrial STE strain: Reference values derived from
+healthy populations may be inappropriate for patients with UH physiology, as disease-
+specific normative data are currently lacking. In addition, STE is not always available and
+may not always be feasible, particularly in young uncooperative children or in the presence
+of poor acoustic windows.
+Practical advice: Echocardiographic assessment of diastolic function should always
+be attempted, despite limitations related to the lack of validated parameters and load
+dependency. In the absence of standardized reference values for the UH population, longi-
+tudinal assessments of trends are preferable to the reliance on single cut-off measurements,
+and findings should always be interpreted in conjunction with clinical and hemodynamic
+data. STE atrial strain analysis may provide additional useful information, although larger
+studies are needed for validation.
+(3) Assessment of Atrioventricular Valve Regurgitation
+Atrioventricular (AV) valve regurgitation is a common complication of significant
+prognostic implications in Fontan patients, particularly tricuspid regurgitation (TR) in
+HLHS [1–5,7–11]. Severe TR in HLHS can lead to right ventricular dysfunction, poor
+hemodynamics, and reduced exercise capacity, all of which contribute to a worse clini-
+cal outcome [ 9]. The severity of TR is often correlated with impaired ventricular func-
+tion, particularly in the systemic right ventricle (RV) in patients with HLHS and Fontan
+circulation [ 22]. Echocardiographic assessment is crucial in diagnosing and monitor-
+ing the progression of AV valve regurgitation and determining its impact on clinical
+outcomes [1–5,7–11]. The complexity of AV valve morphology in univentricular heart ne-
+cessitates a detailed and precise evaluation using advanced imaging techniques [1–5,7–11].
+4.5. Echocardiographic Techniques for Assessing AV Valve Regurgitation
+Two-Dimensional Echocardiography (2D Echo): Traditional 2D echocardiography has
+been the cornerstone for assessing AV valve function. In HLHS, it allows visualization of
+the tricuspid valve (TV) structure and the identification of regurgitant jets. However, 2D
+echo has limitations in assessing the severity of regurgitation due to the dynamic nature of
+the valve and regurgitant flow [1–5,7,8].
+Doppler Imaging: This plays a key role in assessing the regurgitant jet of the tricuspid
+valve. Color Doppler allows for the identification of the regurgitant jet direction, while
+pulsed-wave Doppler measures the velocity and timing of the regurgitant flow [1–5,7,8].
+Unfortunately, at present, quantitative and semiquantitative parameters to evaluate AV
+regurgitation in children are limited, and adult criteria have been often adopted without
+validation [1–5,7,8,27]. An example of a qualitative TR grading system is as follows: trivial
+(no regurgitation or a single, narrow jet), mild (multiple narrow jets), moderate (a broad
+jet extending to the mid-portion of the right atrium), and severe (a broad jet reaching the
+posterior wall of the right atrium).
+3D Echocardiography offers superior visualization of AV valve morphology and pro-
+vides a more accurate assessment of regurgitation [ 8,10,11]. In HLHS patients, 3D echo
+allows for a detailed evaluation of the tricuspid valve annulus, leaflet motion, and the
+degree of tethering, which is essential in understanding the functional impact of regurgita-
+tion [11]. Studies have demonstrated that 3D echocardiography can identify the location
+and severity of TR, which is critical for preoperative planning and monitoring post-surgical
+outcomes [8].
+In HLHS, moderate or greater TR is often associated with structural abnormalities
+of the tricuspid valve, including increased leaflet billow volume, an enlarged tricuspid
+annulus, and altered papillary muscle orientation [ 7]. These abnormalities can lead to
+significant leaflet tethering, a key contributor to persistent TR after surgery [8]. 3D echo
+https://doi.org/10.3390/jcm15093520
+[[p9]]
+iM?bM?lM?QOQUK?PTK?RTQO?X??QT
+imaging has been instrumental in identifying these structural changes, providing a more
+comprehensive understanding of the pathophysiology of TR.
+Annular dilation is a hallmark feature of AV valve regurgitation in HLHS, particularly
+in the context of Fontan physiology. 3D echo has been shown to better assess the extent of
+annular dilation compared to 2D echo, allowing for more accurate surgical planning [10,11].
+Furthermore, leaflet prolapse and tethering are frequently observed in patients with severe
+TR [10,11]. Anterior leaflet prolapse represents the most common mechanism of TR, fol-
+lowed by septal leaflet prolapse or tethering [11]. Preoperative imaging that identifies these
+abnormalities can guide the surgical decision-making process, often requiring individual-
+ized planning [7–11]. Traditional surgical techniques, such as posterior annuloplasty and
+commissuroplasty, are commonly used to address annular dilation and posterior leaflet ab-
+normalities [7–11]. However, these techniques may not fully correct septal leaflet tethering,
+a key factor contributing to persistent regurgitation [8]. As such, image-guided surgical
+planning based on 3D echo and Doppler studies is becoming increasingly important to
+optimize outcomes in this high-risk population [7].
+4.6. Limitations and Gaps of Evidence of 3D Echocardiography
+Reference values for atrioventricular (AV) valve dimensions derived from healthy
+populations may be inappropriate for patients with UH physiology, as disease-specific
+normative data are currently lacking. In addition, 3D echocardiography is not always
+available and may not always be feasible, particularly in young uncooperative children or
+in the presence of poor acoustic windows.
+Practical advice: Assessment of the AV valve represents a fundamental component of
+the echocardiographic evaluation in UH patients throughout all stages of Fontan palliation.
+In the absence of standardized quantitative parameters for regurgitation assessment, serial
+evaluation should rely on qualitative and semi-quantitative descriptors, including the
+number and intra-atrial extent of regurgitant jets, as well as annular dilatation, leaflet
+tethering, and prolapse, together with ventricular areas and volumes. Three-dimensional
+echocardiographic assessment may be particularly useful in the presence of at least mod-
+erate regurgitation, when a more detailed understanding of valve anatomy and a more
+accurate quantification of regurgitation severity are required.
+Movie S3
+(4) Aorta, neo-aorta, and aortic arch
+In the univentricular heart, the dominant ventricle’s outflow tract connects to the aorta.
+If an obstruction is present, it leads to chronic pressure overload and secondary concentric
+hypertrophy, negatively affecting long-term ventricular function [1–5,12]. This can further
+limit cardiac output and worsen diastolic dysfunction [1–5,12].
+Outflow tract: Outflow tract obstruction is typically subvalvular, as seen in con-
+ditions like double-inlet left ventricle with transposition of the great arteries, where
+a restrictive ventricular septal defect (VSD) can cause subaortic obstruction [ 13–16].
+When a Damus–Kaye–Stansel (DKS) is present, echocardiographic imaging is crucial
+for detecting any obstruction, particularly in patients who have not undergone a DKS
+procedure [1–5,13–16]. Various acoustic windows (subxiphoid, apical, parasternal long-
+axis) are used, with Doppler techniques employed to measure pressure gradients and
+identify obstruction mechanisms, such as restrictive VSDs, fibrous rings, or valvular
+stenosis [1–5,13–16].
+https://doi.org/10.3390/jcm15093520
+[[p10]]
+iM?bM?lM?QOQUK?PTK?RTQO?PO??QT
+Movie S4
+Movie S5: DKS
+Native aorta: Assessment of native aorta is also important, since it represents the source
+of flow for coronary arteries [1–5,48–51]. The patency and adequacy of native aorta–neo-
+aorta communication are of paramount importance. The DKS connection must also be
+evaluated, as obstruction at this site can impair coronary perfusion and lead to ischemia
+and ventricular dysfunction [1–5,48–51].
+Aortic root: Assessment of the aortic root includes measurements of its size and
+morphology. After extensive aortic reconstruction, progressive dilation of the aortic root
+and ascending aorta can occur, potentially leading to aneurysm formation and requiring
+reintervention [1–5,12].
+Aortic arch: In patients with a history of aortic arch reconstruction or coarctation
+surgery, it is essential to assess residual arch obstruction, which can cause hypertension
+and increased afterload on the single ventricle [1–5]. Even mild gradients across the arch
+can contribute to ventricular dysfunction and long-term diastolic impairment [1–5]. The
+suprasternal window is optimal for imaging the aortic arch, with Doppler techniques used
+to measure gradients [1–5,27]. In cases where arch imaging is challenging, pulsed-wave
+Doppler of the abdominal aorta from the subxiphoid window can help exclude significant
+residual obstruction [1–5].
+Practical advice: Evaluation of the neo-aortic valve, the native aorta, and the subaortic
+region is essential throughout all phases of Fontan palliation. In addition, aortic root
+dilatation should be carefully assessed during long-term follow-up.
+(5) Pulmonary Arteries
+Echocardiography plays an essential role for the evaluation of pulmonary artery size
+assessment and its quantification (through z-score), to identify the presence of narrowing
+and stenosis, and to evaluate the flow. In patients after different stages of Fontan palliation,
+it is important to evaluate the redistribution of flow within the pulmonary arteries from
+different sources including BTM shunt, Glenn, and TCPC conduit [1–6]. The presence of
+competitive flow from a native pulmonary artery left partially patent needs which should
+also be evaluated [1–6].
+Practical advice: Evaluation of pulmonary artery size and flow is essential throughout
+the different stages of UH palliation. The presence of stenosis is of paramount importance,
+particularly during the first two stages of palliation. In the Glenn stage, competitive flow
+between antegrade pulmonary blood flow and Glenn flow should be carefully assessed.
+(6) Shunt, RV/Single Ventricle–PA Conduct, Glenn, and TCPC Conduct
+5. Blalock–Taussig-Modified (BTM) Shunts
+A BTM shunt is a crucial palliative surgical procedure used in infants with single
+ventricle physiology to provide pulmonary blood flow until definitive staged palliation,
+such as a bidirectional Glenn or Fontan procedure, can be performed [1–5,65–68]. This shunt
+consists of a Gore-Tex® polytetrafluoroethylene (PTFE) conduit connecting the systemic
+circulation (typically the subclavian or innominate artery) to the pulmonary artery (PA),
+ensuring pulmonary perfusion in patients with inadequate or absent native pulmonary
+blood flow [1–5,65–68].
+5.1. Hemodynamics and Flow Characteristics
+The flow pattern in a BTM shunt is continuous and non-pulsatile, driven by sys-
+temic arterial pressure rather than the right ventricle [ 1–5,65–68]. Unlike normal pul-
+monary circulation, which is pulsatile and dependent on the right ventricular systole,
+https://doi.org/10.3390/jcm15093520
+[[p11]]
+iM?bM?lM?QOQUK?PTK?RTQO?PP??QT
+the BTM shunt delivers a steady but pressure-dependent flow into the pulmonary
+arteries [ 1–5,65–68]. This leads to a diastolic flow reversal in the aortic arch, as sys-
+temic diastolic pressure is partially reduced due to the run-off into the pulmonary
+circulation [1–5,65–68]. This can contribute to coronary and systemic hypoperfusion,
+particularly in neonates with parallel systemic and pulmonary circulations [1–5,65–68]. In
+univentricular heart with BTM, the pulmonary perfusion is shunt-dependent, which may
+lead (especially in first pre-operative weeks) to an excessive pulmonary flow, pulmonary
+over-circulation, volume overload, and heart failure, while inadequate flow can result in
+hypoxemia and cyanosis [1–5,65–68]. Several factors influence the efficiency and balance
+of pulmonary blood flow through the BTM shunt. These include shunt size, systemic
+pulmonary vascular resistance, and patient growth. A larger shunt increases pulmonary
+flow but raises the risk of steel syndrome, reducing systemic perfusion including coronary
+and cerebral circulation [1–5,65–68].
+Supplemental Movie S1
+Conversely , a small shunt may lead to inadequate oxygenation andhypoxia [1–5,65–68].
+Changes in PVR and systemic vascular resistance (SVR) significantly alter shuntflow [1–5,65–68].
+High PVR (e.g., due to lung disease or hypoxia) reduces pulmonary perfusion, while low PVR
+can lead to excessive pulmonary flow and heart failure [1–5,65–68]. As the infant grows, a fixed-
+size shunt may become progressively restrictive, necessitating shunt revision or progression to
+the next surgical stage [1–5,65–68].
+Flow velocity and turbulence of the BTM are typically high, reflecting the pressure
+difference between systemic (aorta) and pulmonary (pulmonary arteries) circulation. BTM
+velocities are influenced by shunt size, systemic resistance, and pulmonary vascular resis-
+tance (PVR) [1–5,65–68].
+Movie S6
+RV/Single Ventricle–PA Conduct
+The Sano modification of the Norwood procedure is a surgical technique used in
+single ventricle heart physiology, particularly in HLHS [1–5]. This approach utilizes a right
+ventricle-to-pulmonary artery (RV-PA) conduit, often made of a non-valved Gore-Tex (W.
+L. Gore & Associates, Newark, DE, USA)® tube, to provide pulmonary blood flow while
+reducing diastolic run-off and improving coronary perfusion compared to the traditional
+as??zP–TKUT–UW|M
+5.2. Hemodynamics and Flow Characteristics in Sano Conduit, Glenn Anastomosis and in
+Fontan Conduit
+The flow pattern in the Sano conduit differs significantly from other systemic-to-
+pulmonary shunts due to its direct connection between the right ventricle (RV) and pul-
+monary arteries (PAs) [ 1–5,65–68]. Key characteristics of Sano conduit flow include a
+??????G??K?L???as
+shunts) resembling native right ventricular output, which may promote better pulmonary
+artery growth [1–5].
+In the past, non-reinforced RV-PA conduits used for the Sano modification were suscep-
+tible to stenosis (Movie S7). Nowadays, reinforced conduits are routinely employed, which
+are less likely to become stenotic. The flow in the Sano conduit has systolic dominance
+with diastolic flow reversal (Movie S8). The diastolic regurgitation is a potential problem in
+Sano palliation since it may lead to an increased RV volume load, reducing systemic cardiac
+output and potentially contributing to ventricular dysfunction over time [1–5,65–68].
+Several factors influence the efficiency and long-term outcomes of pulmonary
+blood flow through the Sano conduit, including conduit size and length. A larger
+conduit allows for increased pulmonary blood flow but may exacerbate diastolic re-
+https://doi.org/10.3390/jcm15093520
+[[p12]]
+iM?bM?lM?QOQUK?PTK?RTQO?PQ??QT
+gurgitation and ventricular volume overload [ 1–5,65–68]. A smaller conduit instead
+may restrict pulmonary blood flow, leading to hypoxia and insufficient pulmonary
+perfusion [1–5,65–68]. The RV in the Sano circulation must sustain a chronic systolic
+(sustain both the systemic and pulmonary circulation) and diastolic overload (diastolic
+regurgitation through the conduit) which can contribute to ventricular dilation and failure,
+especially in the long term [1–5,65–68]. The presence of a stenosis at the level conduit may
+exacerbate the systolic overload leading to acute systolic dysfunction [1–5,65–68].
+The Sano conduit may be appreciated by echocardiography in different projections
+(subcostal, modified 4 chambers, short axis). At times, echocardiographic assessment of
+the Sano conduit may be difficult by echocardiography since it lies in the retrosternal
+area, an area which is difficult to examine, especially in the presence of medication (after
+surgery) or thoracic deformities [1–5,64–67]—often just the proximal part of the conduit is
+visible [55,56]. The use of a linear probe may allow a better assessment of the retrosternal
+area and visualization of the conduit through all its length [55,56].
+Glenn
+The Glenn anastomosis, a key component of staged palliation for single ventricle
+physiology, involves the direct connection of the superior vena cava (SVC) to the pulmonary
+arteries, bypassing the right atrium [ 1–5,65–68]. This procedure establishes a passive
+pulmonary circulation that relies on systemic venous pressure to drive pulmonary blood
+flow [1–5,65–68]. The hemodynamic patterns in the Glenn circulation are influenced by
+multiple factors, including central venous pressure, pulmonary vascular resistance, and
+the presence of collateral flow [1–5,65–68].
+The Glenn shunt creates a non-pulsatile, low-pressure pulmonary blood flow, in
+contrast to the pulsatile flow present in a normal pulmonary circulation [1–5,65–68]. The
+absence of a right ventricular pump means that flow is predominantly dependent on
+venous return dynamics and respiratory mechanics, with inspiration lowering intrathoracic
+pressure and promoting forward flow into the pulmonary arteries [1–5,65–68]. Expiration
+and elevated intrathoracic pressure may transiently reduce pulmonary blood flow due to
+increased venous resistance [1–5,65–68].
+For imaging Glenn connections [1–5], suprasternal views are preferred, and at times
+apical and short axis views may be employed. Color Doppler with low Nyquist settings
+should be used to assess surgical anastomoses [1–5]. The flow in the Glenn anastomosis is
+typically phasic with fluctuations corresponding to both the cardiac cycle and respiratory
+cycle, where a respiratory-dependent component becomes particularly significant [1–5].
+The distribution of blood flow between the right and left pulmonary arteries depends
+on several anatomical and physiological factors, including the angle of the anastomosis,
+as well as the size and compliance of the pulmonary arteries [ 1–5,65–68]. Although the
+Glenn anastomosis provides a stable pulmonary circulation, certain flow disturbances can
+arise including the development of venous collateral formation (leading to inefficient flow
+patterns and systemic desaturation), flow imbalance between pulmonary arteries (uneven
+flow distribution can result from pulmonary artery hypoplasia, stenosis, or anastomotic
+angulation), and increased pulmonary vascular resistance (PVR) that can impair passive
+blood flow, increasing systemic venous pressures and contributing to venous congestion
+and Fontan failure in later stages [1–5,64–67].
+Figure 3 and Movie S9
+https://doi.org/10.3390/jcm15093520
+[[p13]]
+iM?bM?lM?QOQUK?PTK?RTQO?PR??QT
+ 
+(A) 
+(B) 
+ 
+Figure 3. Cont.
+https://doi.org/10.3390/jcm15093520
+[[p14]]
+iM?bM?lM?QOQUK?PTK?RTQO?PS??QT
+ 
+(C) 
+Figure 3. (A): normal, phasic, and low-velocity Doppler flow in Glenn; (B): reverse flow in Glenn;
+(C): blood flow in Glenn and pulmonary arteries are visualized by BST vector flow reconstruction.
+Ao = aorta, LPA = left pulmonary artery, RPA = right pulmonary artery, SVC = superior vena cava.
+TCPC in Fontan circulation directs systemic venous blood from the SVC and inferior
+vena cava (IVC) directly to the pulmonary arteries, bypassing the ventricle. This con-
+figuration optimizes hemodynamics by reducing energy loss and improving pulmonary
+blood flow distribution, which is critical for long-term Fontan physiology [65–68]. TCPC in
+Fontan circulation can be achieved through different surgical techniques. The lateral tunnel
+approach utilizes an intracardiac baffle to direct IVC blood to the pulmonary arteries, while
+the extracardiac conduit (or intra-atrial–extracardiac tunnel) employs an external graft to
+achieve the same goal [65–68].
+Coronal and subxiphoid sagittal views provide optimal visualization of the IVC and
+its connection to Fontan baffle. Color flow imaging and pulsed-wave Doppler are used
+to assess obstructions [1–5,68]. Typically, the IVC and hepatic veins appear dilated with
+low-velocity flow (<20–30 cm/s) and spontaneous contrast. A normal flow pattern consists
+of continuous systolic and diastolic flow with respiratory variation, indicating unobstructed
+Fontan connections [1–5,69] (Table 2).
+The absence of respiratory variation or the presence of retrograde flow suggests
+obstruction, AV regurgitation, or competitive collateral circulation [1–5,69]. Flow reversal
+during diastole may indicate failing Fontan physiology or atrial arrhythmia. The intra-
+atrial tunnel or extracardiac conduit can be assessed using subxiphoid long- and short-axis
+sweeps [1–5]. Additional views, including apical and parasternal, aid in evaluating tunnel
+dilation, thrombi, fenestrations, or leaks. If a fenestration is present, pulsed Doppler can
+https://doi.org/10.3390/jcm15093520
+[[p15]]
+iM?bM?lM?QOQUK?PTK?RTQO?PT??QT
+determine the transpulmonary gradient, and for closed fenestrations, device positioning
+and residual shunting should be assessed [1–5,69].
+Table 2. Flow characteristics across Glenn and Fontan (TCPC) circuit.
+Circuit Site Normal Peak Velocity (m/s) Flow Dynamic
+Bidirectional Glenn SVC to PA <0.5 * Non-pulsatile (or mildly phasic with
+respiration), antegrade
+Fontan (TCPC) Extracardiac conduit 0.2–0.5 ◦ Respiratory variation
+Lateral tunnel 0.2–0.5 ◦ Similar to conduit
+Hepatic veins <0.5 Forward flow phasic with respiration;
+reversal suggests dysfunction
+PA = pulmonary artery, SVC = superior vena cava, TCPC = total cavo-pulmonary conduit. * Higher velocities
+(>0.8 m/s) may suggest stenosis or elevated downstream resistance (e.g., elevated PVR or branch PA stenosis).
+◦ Values > 0.7–0.8 m/s raise concern for stenosis, obstruction, or collaterals.
+Figure 4 and Movie S10
+ 
+(A) 
+ 
+(B) 
+Figure 4. Cont.
+https://doi.org/10.3390/jcm15093520
+[[p16]]
+iM?bM?lM?QOQUK?PTK?RTQO?PU??QT
+ 
+(C) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4. (A): Doppler of normal, phasic, and low-velocity (max velocity 0.4 m/s, mean velocity
+0.2 m/s) TCPC conduct with respiratory variation; (B): Doppler of TCPC conduct with mild reversal;
+and (C): fenestrated TCPC with the gradient across the fenestration. TCPC = total cavo-pulmonary
+connection conduct; fenestration is arrowed.
+Practical advice:
+`???as?Nr?K?fK??sbob???
+across all stages of Fontan palliation. Echocardiographic evaluation should focus on both
+anatomical patency and flow characteristics, including flow direction, the presence of
+turbulence or stasis, and velocities/gradients.
+(7) Risk of Thrombus and Clot Formation in Fontan Physiology: The Role of Echocar-
+diographic Assessment
+The Fontan procedure is a complex surgical intervention for patients with univentricu-
+lar hearts. Although this approach improves survival and quality of life, it also introduces
+new risks, including thrombus and clot formation [ 46,47]. It is crucial to distinguish
+between these two types of abnormalities.
+Thrombus is a pathological blood clot that forms within blood vessels or cardiac
+chambers and may develop at any stage along the Fontan pathway as a consequence of
+blood stasis. Clot, in contrast, generally refers to extravascular coagulated blood, typically
+forming postoperatively as a result of bleeding outside the heart, such as in the retrosternal
+space, and usually (although not invariably) surrounding the cardiac chambers.
+Both thrombi and clots may be diagnosed and followed with transthoracic echocardio-
+graphy [46,47].
+(8) Possible Site of Thrombus Formation in Fontan Circulation
+In patients with Fontan physiology, thrombus formation is most observed in sev-
+eral anatomical locations due to hemodynamic alterations that contribute to stasis and
+hypercoagulability [46,47].
+Native aorta: Native aortic thrombosis in HLHS is a rare, serious, and underrecog-
+nized complication that may occur at different stages of Fontan palliation [ 46,47]. The
+abnormal flow in this vessel, especially post-Fontan, creates an environment conducive to
+thrombosis, with regions of low or turbulent blood flow being particularly vulnerable [8].
+Native aortic thrombosis can lead to left ventricular (LV) failure, arrhythmias, myocardial
+ischemia, and death [48–51]. Presentation widely varies from incidental findings [48–51]
+https://doi.org/10.3390/jcm15093520
+[[p17]]
+iM?bM?lM?QOQUK?PTK?RTQO?PV??QT
+in totally asymptomatic children to severe symptoms due to myocardial ischemia up to
+sudden death [48–51]. The most common presentation was chest pain (accompanied with
+ECG abnormalities and troponin increase) or arrhythmic events. Diagnosis is generally
+feasible with transthoracic echocardiography [48–51,69], but experience and a careful and
+systematic assessment of the native aorta are required. The increased awareness of this rare
+complication has led to an increasing diagnostic rate in the past few years with multiple
+cases described [48–51,69].
+Movie S11, Figure 5
+ 
+(A) 
+ 
+(B) 
+ 
+ 
+ 
+ 
+ 
+(C) 
+ 
+ 
+ 
+Figure 5. A 3-year-old with HLHS after Glenn operation with native aorta thrombosis visualized in
+long-axis view (asterisk) (A), modified 5-chamber view (star) (B), and short-axis view (star) (C). The
+clot is indicated with arrow. Ao = aorta, LA = left atrium, LV = left ventricle, RV = right ventricle,
+PA = pulmonary artery.
+https://doi.org/10.3390/jcm15093520
+[[p18]]
+iM?bM?lM?QOQUK?PTK?RTQO?PW??QT
+Hypoplastic Left Ventricle: In patients with HLHS who undergo Fontan palliation,
+the hypoplastic LV is functionally inefficient, resulting in a stagnation of blood flow and
+a predisposition to thrombus formation [52–54]. Despite being rare, thrombus within the
+HLHS have been described and can be diagnosed by echocardiography [52–54].
+Movie S12 and Figure 6
+ 
+(A) 
+ 
+(B) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6. (A): a 4-chamber view, and (B): a short-axis view of a thrombus (asterisk) in LV in a HLHS.
+LV = left ventricle, RV = right ventricle.
+https://doi.org/10.3390/jcm15093520
+[[p19]]
+iM?bM?lM?QOQUK?PTK?RTQO?PX??QT
+Inferior Vena Cava (IVC): The IVC is another common location for thrombus for-
+mation, particularly in the context of Fontan physiology. The Fontan procedure leads to
+venous congestion and reduced flow in the IVC, contributing to venous stasis, which is
+a key risk factor for thrombus formation. Thrombi in the IVC may extend into the Glenn
+shunt or Fontan circuit, leading to a higher risk of systemic embolism [1–5,46,47]. Transtho-
+racic echocardiography has been used to visualize thrombus formation in the IVC, with
+Doppler studies providing valuable information about flow dynamics and the presence of
+thrombi [1–5,46,47].
+Movie S13
+BTM shunt, Glenn, and TCPC Conduit: Thrombi can also form in the BTM shunt,
+Glenn, or TCPC conduit, particularly when there is stasis of blood flow or structural
+abnormalities in these vessels [67–69]. These regions are prone to thrombus formation due
+to the passive flow conditions post-surgery, and echocardiography is pivotal in detecting
+thrombi in these locations early, preventing further complications [1,5,46,47].
+Movie S14, Figure 7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7. Images showing the non-phasic, continuous but significantly accelerated (v max 1 m/s),
+flow across the mildly stenotic Glenn conduit.
+(9) Post-operative Clot Formation after Glenn and TCPC
+A clot refers to extravascular coagulated blood that typically forms in the early post-
+operative period as a consequence of bleeding outside the heart, most commonly in the
+retrosternal space and usually, although not invariably, surrounding the cardiac cham-
+https://doi.org/10.3390/jcm15093520
+[[p20]]
+iM?bM?lM?QOQUK?PTK?RTQO?QO??QT
+bers [55,56]. Clots are often detected incidentally during routine echocardiographic exami-
+nations and are particularly common after Glenn and Fontan surgeries [55,56].
+Echocardiography plays a critical role in detection, monitoring, and follow-up of clot
+after surgery. Clots may be assessed either by phase array probes using conventional
+subcostal and parasternal projections (Figure 8, Movie S15) or by a linear probe [55,56].
+ 
+(A) 
+ 
+(B) 
+Figure 8. Thrombus in TCPC conduct visualized in a 4-chamber view (asterisk) (A); and in a modified
+4-chambers view (star) (B) of its extension.
+https://doi.org/10.3390/jcm15093520
+[[p21]]
+iM?bM?lM?QOQUK?PTK?RTQO?QP??QT
+For clot assessments, the retrosternal area must be systematically evaluated by use of
+a linear probe [55,56]. The probe needs to be placed close to the parasternal line, and the
+anterior segments scanned up and down. When a clot or hematoma is suspected, the linear
+probe needs to be placed over the mass and freely tilted in various planes or orientations to
+obtain its visualization [55,56]. Clot sizes have been arbitrarily defined according to the
+maximal diameter on an axis perpendicular to the cardiac wall—(1) large clots: >3 cm;
+(2) moderate-sized clots: >2 to <3 cm; (3) small-to-moderate-sized clots: >1 to <2 cm; and
+(4) small clots: <1 cm [55,56]. However, this classification represents an oversimplification,
+since the clot size needs to be related to the patient’s body size [55,56].
+5.3. Limitations and Gaps of Evidence in the Evaluation of Clots
+The use of a linear probe for the evaluation of retrosternal is advised; however, pro-
+jections have not yet been standardized. Quantification has also not been standardized
+according to projections and the patient’s body size. Furthermore, the presence of medica-
+tion after sternotomy may limit the parasternal acoustic window.
+Movie S16
+Practical advice: The presence of thrombi should always be actively excluded in
+UH patients across all stages of Fontan palliation. Common sites of thrombosis include
+?K??LK????K?as?K??f?K
+and the TCPC conduit. Thrombus formation is relatively frequent following Glenn and
+TCPC procedures and should be systematically ruled out. In this context, the use of a high-
+frequency linear probe with parasternal views may be helpful for improved visualization.
+Reporting FAC sheets
+Practical examples of how reporting in children at different stages of UH palliation are
+provided in the Supplemental Tables S1–S5 [27]. These formats may also serve as a guide
+for a sequential analysis and as a reminder of the essential points to be assessed, helping to
+avoid omission of important information [27].
+Conclusive remarks
+We present a comprehensive practical guidance for the systematic echocardiographic
+assessment of the univentricular heart across the various stages of univentricular palliation,
+with particular emphasis on the role of advanced 3D and 4D imaging techniques and
+the evaluation of thromboembolic complications. This work serves as a foundational
+reference for the echocardiographic evaluation of univentricular hearts and paves the way
+for further research aimed at addressing unresolved challenges, such as the assessment of
+diastolic function in Fontan patients and the complex flow dynamics within Glenn and
+TCPC conduits.
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/jcm15093520/s1, Supplemental Movie S1: Focused view on
+coronary artery showing coronary artery steal (red and blue flow) in HLHS after Norwood stage
+1 with BTM shunt. Movie S1A: Subcostal color view of a restrictive (4.5 mm) foramen ovale in a
+neonate (2 days old, 3 kg of weight) with HLHS. Movie S1B: Subcostal color view of HLHS with
+restrictive PFO after atrial stenting. Movie S1C: Subcostal color view of HLHS with large ASD.
+Movie S2: Mildly decreased ventricular function in a 3-month-old, 4 kg female with hypoplastic
+left heart syndrome after initial Norwood 1 palliation with BTM shunt. Movie S3: Severe tricuspid
+regurgitation in a 1-month-old, 5 Kg male with HLHS after Norwood 1 palliation. Movie S3A: A
+4-chamber view color Doppler showing severe tricuspid regurgitation. Movie S3B: 3D echocardiogra-
+phy showing a prolapse of tricuspid anterior leaflet. Movie S3C: Severe tricuspid regurgitation is
+imaged by blood speckle tracking echocardiography. Movie S4: A 12-year-old male with congeni-
+tally corrected transposition of the great arteries (CCTGA) after TCPC presenting with sub-aortic
+https://doi.org/10.3390/jcm15093520
+[[p22]]
+iM?bM?lM?QOQUK?PTK?RTQO?QQ??QT
+obstruction visualized in a modified 4-chamber view (Movie S4A); and a modified long-axis view
+(Movie S4B). Movie S5: Modified 4-chamber view of DKS, viewed with a novel BST imaging tech-
+nique. Movie S6: Suprasternal view of a BTM shunt, viewed with a novel BST imaging technique.
+Movie S7: Modified 4-chamber view of a stenotic RV-PA Sano conduit. Movie S8: Parasternal view of
+a RV-PA Sano conduit visualized by a linear probe. Movie S9: Suprasternal view showing normal
+flow in Glenn conduit. Movie S10: (A) Subcostal view of normal flow from inferior vena cava to TCPC
+conduit; and (B) 4-chamber view of TCPC with flow across the fenestration. Movie S11: A 3-year-old
+with HLHS after Glenn operation with native aorta thrombosis visualized in long-axis view (A);
+modified 5-chamber view (B); and short-axis view (C). Movie S12: (A) A 4-chamber view, and (B) a
+short-axis view of a thrombus in LV in HLHS. Movie S13: Subcostal view of a thrombus in IVC in
+TCPC. Movie S14: Suprasternal view of a 5-year-old, 15 kg male immediately after Fontan operation
+with clots in the Glenn conduit. Movie S15: A modified 4-chamber view of a thrombus in TCPC
+conduct visualized in its extension. Movie S16: (A) Subcostal, and (B) 4-chamber view of a big clot
+external to the right section after TCPC. Table S1: Hypoplastic left heart syndrome (HLHS)/Severe
+aortic stenosis (AS)/borderline left ventricle/mitral atresia/aortic atresia. Table S2: Univentricular
+heart. Table S3: Post Norwood 1 (Sano vs BTM shunt). Table S4: Post bidirectional cavo-pulmonary
+connection (BCPC). Table S5: Post Total cavo-pulmonary connection (TCPC).
+Author Contributions: Conceptualization: M.C., G.D.S., H.G., O.M. and C.J.M.; Data curation: M.C.,
+P .M., N.A., G.C., F.R., A.O.G., M.K. and G.P .; Investigation: M.C., P .M., N.A., G.C., I.V ., F.R., A.O.G.,
+S.K., G.P . and B.B.; Methodology: M.C., P .M., G.D.S., I.V ., H.G., O.M., M.K. and C.J.M.; Supervision:
+M.C., G.D.S., H.G., O.M., M.K. and C.J.M.; Validation: all authors; Visualization: M.C., P .M., I.V .,
+A.O.G. and G.P .; Writing—original draft: M.C. and P .M.; Writing—review and editing: all authors.
+All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: The study was conducted according to the guidelines of the
+Declaration of Helsinki and approved by the Institutional Review Board (or Ethics Committee) of
+FTGM (protocol BET No. 390, 12 December 2020).
+Informed Consent Statement: Parents, tutors, or legal guardians were informed of the aims and
+significance of this study, and they all agreed to participate by providing written consent.
+Data Availability Statement: The data presented in this study is available on request from the
+corresponding author. The data is not publicly available due to privacy issues.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+PM?`K?mMZ?`K?`MZ?aK?cMiMZ?aLqK?gMZ?aK?mM`MZ?aK?jMZ?cK?cMZ?cK?cMZ?eK?lMZ
+Galletti, L.; et al. Guidelines for the management of neonates and infants with hypoplastic left heart syndrome: The European
+Association for Cardio-Thoracic Surgery (EACTS) and the Association for European Paediatric and Congenital Cardiology (AEPC)
+Hypoplastic Left Heart Syndrome Guidelines Task Force. Eur. J. Cardiothorac. Surg. 2020, 58, 416–499. [CrossRef] [PubMed]
+2. Gewillig, M.; Mertens, L.L. Echocardiographic assessment of functional single ventricles after the Fontan operation. In Echocardio-
+graphy in Pediatric and Congenital Heart Disease: From Fetus to Adult, 3rd ed.; Lai, W.W., Mertens, L.L., Cohen, M.S., Geva, T., Eds.;
+Elsevier: Philadelphia, PA, USA, 2022.
+3. Stern, H.J. Fontan “Ten Commandments” revisited and revised. Pediatr. Cardiol. 2010, 31, 1131–1134. [CrossRef]
+4. Ginde, S.; Goot, B.H.; Frommelt, P .C. Imaging adult patients with Fontan circulation. Curr. Opin. Cardiol. 2017, 32, 521–528.
+[CrossRef]
+5. de Lange, C. Imaging of complications following Fontan circulation in children—Diagnosis and surveillance. Pediatr. Radiol. 2020,
+50, 1333–1348. [CrossRef]
+6. Shabanian, R.; Mirzaaghayan, M.R.; Dadkhah, M.; Hosseini, M.; Rahimzadeh, M.; Asbagh, P .A.; Navabi, M.A. Echocardiographic
+assessment of pulmonary arteries pulsatility index in Fontan circulation. J. Cardiovasc. Ultrasound 2015, 23, 228–232. [CrossRef]
+7. Nam, H.H.; Flynn, M.; Lasso, A.; Herz, C.; Sabin, P .; Wang, Y.; Cianciulli, A.; Vigil, C.; Huang, J.; Vicory, J.; et al. Modeling of the
+tricuspid valve and right ventricle in hypoplastic left heart syndrome with a Fontan circulation. Circ. Cardiovasc. Imaging 2023, 16,
+229–240. [CrossRef] [PubMed]
+https://doi.org/10.3390/jcm15093520
+[[p23]]
+iM?bM?lM?QOQUK?PTK?RTQO?QR??QT
+8. Shigemitsu, S.; Mah, K.; Thompson, R.B.; Grenier, J.; Lin, L.Q.; Silmi, A.; Beigh, M.V .R.; Khoo, N.S.; Colen, T. Tricuspid valve
+tethering is associated with residual regurgitation after valve repair in hypoplastic left heart syndrome: A three-dimensional
+echocardiographic study. J. Am. Soc. Echocardiogr. 2021, 34, 1199–1210. [CrossRef]
+9. Ross, C.J.; Mir, A.; Burkhart, H.M.; Holzapfel, G.A.; Lee, C.-H. Tricuspid valve regurgitation in hypoplastic left heart syndrome:
+Current insights and future perspectives. J. Cardiovasc. Dev. Dis. 2023, 10, 111. [CrossRef]
+10. Mah, K.; Khoo, N.S.; Tham, E.; Yaskina, M.; Maruyama, M.; Martin, B.-J.; Alvarez, S.; Alami, N.; Rebeyka, I.M.; Smallhorn, J.; et al.
+Tricuspid regurgitation in hypoplastic left heart syndrome: Three-dimensional echocardiography provides additional information
+in describing jet location. J. Am. Soc. Echocardiogr. 2021, 34, 529–536. [CrossRef]
+11. Mah, K.; Khoo, N.S.; Martin, B.-J.; Maruyama, M.; Alvarez, S.; Rebeyka, I.M.; Smallhorn, J.; Colen, T. Insights from 3D
+echocardiography in hypoplastic left heart syndrome patients undergoing TV repair.Pediatr. Cardiol. 2021, 43, 735–743. [CrossRef]
+[PubMed]
+12. Konstantinov, I.E.; Buratto, E.; D’udekem, Y. Annuloplasty for aortic regurgitation in univentricular heart on ventricular assist
+support. Ann. Thorac. Surg. 2021, 112, e65–e67. [CrossRef]
+13. Jacobs, M.L.; Rychik, J.; Donofrio, M.T.; Steven, J.M.; Nicolson, S.C.; Murphy, J.D.; Norwood, W.I., Jr. Avoidance of subaortic
+obstruction in staged management of single ventricle. Ann. Thorac. Surg. 1995, 60, S543–S545. [CrossRef] [PubMed]
+14. Ozturk, M.; Tongut, A.; Hanabergh, S.; Yerebakan, C.; D’UDekem, Y. Creation of a double-barrel outflow tract for complex
+subaortic obstruction in single ventricle. JTCVS Tech. 2022, 16, 216–218. [CrossRef] [PubMed]
+15. Talwar, S.; Chigurupati, B.S.; Singh, S.; Choudhary, S.K. Bulboventricular foramen enlargement: An alternative surgical approach.
+Indian J. Thorac. Cardiovasc. Surg. 2018, 35, 211–214. [CrossRef] [PubMed]
+16. Lacour-Gayet, F. Management of older single functioning ventricles with outlet obstruction due to a restricted “VSD” in double
+inlet left ventricle and in complex double outlet right ventricle. Semin. Thorac. Cardiovasc. Surg. Pediatr. Card. Surg. Annu. 2009,
+12, 130–132. [CrossRef]
+17. Dorobantu, D.M.; Amir, N.H.; Wadey, C.A.; Sharma, C.; Stuart, A.G.; Williams, C.A.; Pieles, G.E. The role of speckle-tracking
+echocardiography in predicting mortality and morbidity in patients with congenital heart disease: A systematic review and
+meta-analysis. J. Am. Soc. Echocardiogr. 2023, 37, 216–225. [CrossRef]
+18. Madan, N.; Aly, D.; Kathol, M.; Buddhavarapu, A.; Rieth, T.; Sherman, A.; Forsha, D. Relationship between obesity and global
+longitudinal strain in the pediatric single ventricle Fontan population across ventricular morphologies. J. Am. Heart Assoc. 2024,
+13, e028616. [CrossRef]
+19. Buddhavarapu, A.; Chauhan, D.; Erickson, L.A.; Elliott, M.D.; Warren, M.; Forsha, D.E. The evolution of longitudinal strain across
+various univentricular morphologies prior to superior cavopulmonary anastomosis. J. Am. Soc. Echocardiogr. 2023, 36, 1100–1109.
+[CrossRef]
+20. Schneider, M.; Beichl, M.; Nietsche, C.; Beitzke, D.; Porenta, G.; Beran, G.; Vonbank, K.; Hauser, J.; Hengstenberg, C.; Goliasch, G.;
+et al. Systematic evaluation of systemic right ventricular function. J. Clin. Med. 2019, 9, 107. [CrossRef]
+21. Singh, G.K.; Cupps, B.; Pasque, M.; Woodard, P .K.; Holland, M.R.; Ludomirsky, A. Accuracy and reproducibility of strain by
+speckle tracking in pediatric subjects with normal heart and single ventricular physiology: A two-dimensional speckle-tracking
+echocardiography and magnetic resonance imaging correlative study. J. Am. Soc. Echocardiogr. 2010, 23, 1143–1152. [CrossRef]
+22. Aly, S.; Mertens, L.; Friedberg, M.K.; Dragulescu, A. Longitudinal changes in ventricular mechanics in adolescents after the
+Fontan operation. J. Am. Soc. Echocardiogr. 2023, 36, 998–1007. [CrossRef]
+23. Lopez, C.; Mertens, L.; Dragulescu, A.; Landeck, B.; Younoszai, A.; Friedberg, M.K.; Hunter, K.; Di Maria, M.V . Strain and
+rotational mechanics in children with single left ventricles after Fontan. J. Am. Soc. Echocardiogr. 2018, 31, 1297–1306. [CrossRef]
+24. Grattan, M.; Mertens, L.; Grosse-Wortmann, L.; Friedberg, M.K.; Cifra, B.; Dragulescu, A. Ventricular torsion in young patients
+with single-ventricle anatomy. J. Am. Soc. Echocardiogr. 2018, 31, 1288–1296. [CrossRef]
+25. Zhong, S.; Zhang, Y.; Chen, L.; Wang, S.; Li, W.; Sun, Y. Ventricular twisting and dyssynchrony in children with single left ventricle
+using three-dimensional speckle tracking imaging after the Fontan operation. Echocardiography 2015, 33, 606–617. [CrossRef]
+26. Wang, A.P .; Husain, N.; Penk, J.; Laternser, C.; Magnetta, D.; Watanabe, K.; Hauck, A. Prognostic value of RV function analysis
+during the interstage period in patients with hypoplastic left heart syndrome. Pediatr. Cardiol. 2024, 45, 1120–1128. [CrossRef]
+27. Cantinotti, M.; Di Salvo, G.; Voges, I.; Raimondi, F.; Greil, G.; Garrido, A.O.; Bharucha, T.; Grotenhuis, H.B.; Köstenberger,
+M.; Bonnello, B.; et al. Standardization in paediatric echocardiographic reporting and critical interpretation of measurements,
+functional parameters, and prediction scores: A clinical consensus statement of the European Association of Cardiovascular
+Imaging of the European Society of Cardiology and the Association for European Paediatric and Congenital Cardiology. Eur.
+Heart J. Cardiovasc. Imaging 2024, 25, 1029–1050. [CrossRef] [PubMed]
+28. Pascual, E.; Zurita, M.; Sebastián, J.; Silva, L.-G.; Peinado, A.; Aguado, F.-L. Comparison of myocardial deformation by speckle-
+tracking echocardiography and cardiac magnetic resonance in patients with Fontan circulation: Diagnostic algorithm.J. Cardiovasc.
+Echogr. 2021, 31, 144–150. [CrossRef]
+https://doi.org/10.3390/jcm15093520
+[[p24]]
+iM?bM?lM?QOQUK?PTK?RTQO?QS??QT
+29. Del Pasqua, A.; Chinali, M.; D’aNna, C.; Ciliberti, P .; Esposito, C.; Gugliotta, M.; Milewski, P .; Perrone, M.A.; Romeo, F.; Carotti,
+A.; et al. Evidence of impaired longitudinal strain in pre-Fontan palliation in functional single left ventricle. J. Cardiovasc. Med.
+2019, 20, 833–836. [CrossRef] [PubMed]
+30. Forsha, D.; Risum, N.; Smith, P .B.; Kanter, R.J.; Samad, Z.; Barker, P .; Kisslo, J. Frequent activation delay–induced mechanical
+dyssynchrony and dysfunction in the systemic right ventricle. J. Am. Soc. Echocardiogr. 2016, 29, 1074–1083. [CrossRef] [PubMed]
+31. DeCarlo, D.M.; Cha, C.; Pierce, K.; Singh, R.K.; Srinivasan, R. Fetal right heart strain in systemic right ventricles and impact on
+post-surgical outcomes. Pediatr. Cardiol. 2024, 46, 2060–2069. [CrossRef]
+32. Kleitsioti, P .; Koulaouzidis, G.; Giannakopoulou, P .; Charisopoulou, D. The role of myocardial strain imaging in the pre- and
+post-operative assessment of patients with single ventricle. Rev. Cardiovasc. Med. 2023, 24, 145. [CrossRef]
+33. Sato, T.; Matsubara, D.; Wang, Y.; Agger, P .; Pedrizzetti, G.; Banerjee, A. Contraction patterns of post-Fontan single right ventricle
+versus normal left and right ventricles in children: Insights from principal strain analysis. J. Am. Soc. Echocardiogr. 2023, 36,
+878–887. [CrossRef]
+34. Colquitt, J.L.; Wilkinson, J.C.; Liu, A.M.; Pignatelli, R.H.; Loar, R.W. Single systemic right ventricle longitudinal strain: Intravendor
+reproducibility and intervendor agreement in children. Echocardiography 2021, 38, 402–409. [CrossRef]
+35. Taha, F.A.; Elshedoudy, S.; Adel, M. Quantitative assessment of contractile reserve of systemic right ventricle in post-Senning
+children. Echocardiography 2020, 37, 2091–2101. [CrossRef] [PubMed]
+36. Tham, E.B.; Smallhorn, J.F.; Kaneko, S.; Valiani, S.; Myers, K.A.; Colen, T.M.; Kutty, S.; Khoo, N.S. Insights into the evolution of my-
+ocardial dysfunction in the functionally single right ventricle between staged palliations using speckle-tracking echocardiography.
+J. Am. Soc. Echocardiogr. 2014, 27, 314–322. [CrossRef] [PubMed]
+37. Petko, C.; Hansen, J.H.; Scheewe, J.; Rickers, C.; Kramer, H.H. Comparison of longitudinal myocardial deformation and
+dyssynchrony after Fontan operation. Congenit. Heart Dis. 2012, 7, 16–23. [CrossRef]
+38. Anderson, P .A.; Sleeper, L.A.; Mahony, L.; Colan, S.D.; Atz, A.M.; Breitbart, R.E.; Gersony, W.M.; Gallagher, D.; Geva, T.;
+Margossian, R.; et al. Contemporary outcomes after the Fontan procedure. JACC 2008, 52, 85–98. [CrossRef]
+39. Cheung, Y.F.; Penny, D.J.; Redington, A.N. Serial assessment of left ventricular diastolic function after Fontan procedure.Heart
+2000, 83, 420–424. [CrossRef] [PubMed]
+40. Veldtman, G.; Possner, M.; Mohty, D.; Issa, Z.; Alsaleh, M.; AlMarzoog, A.T.; Emmanual, S.; Salam, Y.; AlHabdan, M.S.; Alsaied,
+T.; et al. Atrial function in the Fontan circulation: Comparison with invasively assessed systemic ventricular filling pressure. Int.
+J. Cardiovasc. Imaging 2021, 37, 2651–2660. [CrossRef]
+41. Peck, D.; Alsaied, T.; Pradhan, S.; Hill, G. Atrial reservoir strain is associated with decreased cardiac index and adverse outcomes
+post Fontan operation. Pediatr. Cardiol. 2020, 42, 307–314. [CrossRef]
+42. Rato, J.; Mendes, S.C.; Sousa, A.; Lemos, M.; Martins, D.S.; Anjos, R. The influence of atrial strain on functional capacity in
+patients with the Fontan circulation. Pediatr. Cardiol. 2020, 41, 1730–1738. [CrossRef]
+43. Khoo, N.S.; Smallhorn, J.F.; Kaneko, S.; Kutty, S.; Altamirano, L.; Tham, E.B. The Assessment of atrial function in single ventricle
+hearts from birth to Fontan: A speckle-tracking study by using strain and strain rate. J. Am. Soc. Echocardiogr. 2013, 26, 756–764.
+[CrossRef]
+44. Parthiban, A.; Jani, V .; Zhang, J.; Li, L.; Craft, M.; Barnes, A.; Ballweg, J.A.; Schuster, A.; Danford, D.A.; Kutty, S. Altered biatrial
+phasic function after heart transplantation in children. J. Am. Soc. Echocardiogr. 2020, 33, 1132–1140.e2. [CrossRef] [PubMed]
+45. White, M.H.; Kelleman, M.; SidonioJr, R.F.; Kochilas, L.; Patel, K.N. Incidence and timing of thrombosis after the norwood
+procedure in the single-ventricle reconstruction trial. J. Am. Heart Assoc. 2020, 9, e015882. [CrossRef] [PubMed]
+46. Ono, M.; Kido, T.; Burri, M.; Anderl, L.; Ruf, B.; Cleuziou, J.; Strbad, M.; Hager, A.; Hörer, J.; Lange, R. Risk factors for thrombus
+formation at stage 2 palliation and its effect on long-term outcome in patients with univentricular heart. Semin. Thorac. Cardiovasc.
+Surg. 2022, 34, 669–679. [CrossRef]
+47. Monagle, P .; Chan, A.K.; Goldenberg, N.A.; Ichord, R.N.; Journeycake, J.M.; Nowak-Göttl, U.; Vesely, S.K. Antithrombotic therapy
+in neonates and children. Chest 2012, 141, e737S–e801S. [CrossRef] [PubMed]
+48. Rajab, T.K.; Mitchell, M.B. Native aortic root thrombosis after norwood palliation for hypoplastic left heart syndrome. Ann.
+Thorac. Surg. 2021, 112, 147–154. [CrossRef]
+49. Watkins, K.J.; Zampi, J.D.; Lowery, R.; Yu, S.; Owens, S.T.; Romano, J.C.; Schumacher, K.R. Native aortic root thrombosis in
+single-ventricle patients with native-to-neoaortic anastomoses. Pediatr. Cardiol. 2022, 43, 1247–1250. [CrossRef]
+50. Segar, D.E.; Amidon, M.; Scott, J.; Frommelt, P .C. Native aortic root thrombus in a 3-year-old Fontan patient with hypoplastic left
+heart syndrome. CASE 2021, 5, 276–279. [CrossRef]
+51. Hausdorf, G.; Grävinghoff, L.; Sieg, K.; Keck, E.W. Left-ventricular thrombosis in hypoplastic left heart syndrome: Echocardio-
+graphic diagnosis. Z. Kardiol. 1984, 73, 66–69.
+52. Takajo, D.; Sriram, C.S.; Aggarwal, S. Silent in situ thrombus within a hypoplastic left ventricle in a teenager with Fontan
+palliation. Cardiol. Young 2020, 30, 1175–1177. [CrossRef]
+https://doi.org/10.3390/jcm15093520
+[[p25]]
+iM?bM?lM?QOQUK?PTK?RTQO?QT??QT
+53. Duncan, W.J.; Campbell, A.I.; Human, D.G. Left ventricular thrombosis following a Norwood procedure. Cardiol. Young 2007, 17,
+232. [CrossRef] [PubMed]
+54. Cantinotti, M.; Giordano, R.; Marchese, P .; Franchi, E.; Viacava, C.; Pak, V .; Murzi, B.; Arcieri, L.; Poli, V .; Federici, D.; et al.
+Retrosternal clots after Fontan surgery by systematic evaluation with transthoracic ultrasound. J. Cardiothorac. Vasc. Anesth. 2020,
+34, 951–955. [CrossRef]
+55. Cantinotti, M.; Giordano, R.; Assanta, N.; Murzi, B.; Gargani, L. Chest ultrasound: A new, easy, and radiation-free tool to detect
+retrosternal clot after pediatric cardiac surgery. J. Cardiothorac. Vasc. Anesth. 2015, 29, e59–e60. [CrossRef] [PubMed]
+56. Cantinotti, M.; Assanta, N.; Murzi, B.; Iervasi, G.; Spadoni, I. Echocardiographic definition of restrictive patent foramen ovale
+(PFO). Heart 2013, 100, 264–265. [CrossRef]
+57. Available online: https://www.prisma-statement.org/prisma-2020 (accessed on 23 March 2026).
+58. Photiadis, J.; Urban, A.; Sinzobahamvya, N.; Fink, C.; Schindler, E.; Schneider, M.; Mariebrecher, A.; Asfour, B. Restrictive left
+atrial outflow adversely affects outcome after the modified Norwood procedure. Eur. J. Cardiothorac. Surg. 2005, 27, 962–967.
+[CrossRef]
+59. Glatz, J.A.; Tabbutt, S.; Gaynor, J.W.; Rome, J.J.; Montenegro, L.; Spray, T.L.; Rychik, J. Hypoplastic left heart syndrome with atrial
+level restriction in the era of prenatal diagnosis. Ann. Thorac. Surg. 2007, 84, 1633–1638. [CrossRef] [PubMed]
+60. Bardo, D.M.; Frankel, D.G.; Applegate, K.E.; Murphy, D.J.; Saneto, R.P . Hypoplastic left heart syndrome.Radiographics 2001, 21,
+705–717. [CrossRef]
+61. Nevvazhay, T.; Chernogrivov, A.; Biryukov, E.; Biktasheva, L.; Karchevskaya, K.; Sulejmanov, S.; Kalinicheva, J.; Artemiev, N.
+Arterial switch in the first hours of life: No need for Rashkind septostomy? Eur. J. Cardiothorac. Surg. 2012, 42, 520–523. [CrossRef]
+62. Lopes, L.M.; Kawano, C.; Cristóv ão, S.A.; Nagamatsu, C.T.; Fonseca, L.D.; Furlanetto, B.H.; Furlanetto, G.; Silva, J.P .; Mangione,
+J.A. Balloon atrial septostomy guided by echocardiography in a neonatal intensive care unit. Arq. Bras. Cardiol. 2010, 95, 153–158.
+[CrossRef]
+63. Gupta, U.; Abdulla, R.I.; Bokowski, J. Benign outcome of pulmonary hypertension in neonates with restrictive patent foramen
+ovale. Pediatr. Cardiol. 2011, 32, 972–976. [CrossRef] [PubMed]
+64. Sano, S.; Ishino, K.; Kawada, M.; Arai, S.; Kasahara, S.; Asai, T.; Masuda, Z.-I.; Takeuchi, M.; Ohtsuki, S.-I. Right
+ventricle–pulmonary artery shunt in first-stage palliation of hypoplastic left heart syndrome. J. Thorac. Cardiovasc. Surg.
+2003, 126, 504–509. [CrossRef] [PubMed]
+65. Corno, A.F.; Findley, T.O.; Salazar, J.D. Narrative review of single ventricle: Where are we after 40 years?Transl. Pediatr. 2023, 12,
+221–244. [CrossRef] [PubMed]
+66. Davies, R.R.; Pizarro, C. Decision-making for surgery in the management of patients with univentricular heart. Front. Pediatr.
+2015, 3, 61. [CrossRef]
+67. Maher, K.O.; Pizarro, C.; Gidding, S.S.; Januszewska, K.; Malec, E.; Norwood, W.I.; Murphy, J.D. Hemodynamic profile after the
+norwood procedure with right ventricle to pulmonary artery conduit. Circulation 2003, 108, 782–784. [CrossRef]
+68. Kutty, S.; Rathod, R.H.; A Danford, D.; Celermajer, D.S. Role of imaging in the evaluation of single ventricle with the Fontan
+palliation. Heart 2015, 102, 174–183. [CrossRef]
+69. Cantinotti, M.; Marchese, P .; Assanta, N.; Franchi, E.; Pak, V .; Barberi, E.; Pizzuto, A.; Santoro, G.; Giordano, R. Native aortic
+root thrombosis in hypoplastic left heart syndrome: An unusual presentation (soon after atrial septal stenting) of a relatively
+unusual complication—Experience and literature review with an outlook to diagnosis and management. J. Clin. Med. 2023, 12,
+5357. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+https://doi.org/10.3390/jcm15093520

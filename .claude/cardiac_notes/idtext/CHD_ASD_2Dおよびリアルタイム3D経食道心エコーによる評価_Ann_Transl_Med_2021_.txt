@@ -1,0 +1,1075 @@
+
+[[p1]]
+Page 1 of 13
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Assessment of atrial septal defect using 2D or real-time 3D 
+transesophageal echocardiography and outcomes following 
+transcatheter closure
+Bingqing Deng
+1,2#
+, Kequan Chen
+3#
+, Tucheng Huang
+1,2#
+, Yulin Wei
+1,2
+, Yingmei Liu
+1,2
+, Li Yang
+1,2
+,  
+Qiong Qiu
+1,2
+, Shaoxin Zheng
+1,2
+, Hanlu Lv
+1,2
+, Peiwei Wang
+1,2
+, Ruqiong Nie
+1,2*, Jingfeng Wang
+1,2*
+1
+Cardiovascular Department, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; 
+2
+Guangzhou Key Laboratory of Molecular 
+Mechanism and T ranslation in Major Cardiovascular Disease, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; 
+3
+Department of Gastroenterology, the First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China
+Contributions: (I) Conception and design: B Deng; (II) Administrative support: J Wang, R Nie; (III) Provision of study materials or patients: T Huang; 
+(IV) Collection and assembly of data: B Deng, Y Wei, Y Liu, L Yang, Q Qiu, S Zheng, H Lv, P Wang; (V) Data analysis and interpretation: B Deng, 
+K Chen; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors.
+#
+These authors contributed equally to this work.
+*These authors contributed equally to this work as corresponding authors.
+Correspondence to: Ruqiong Nie; Jingfeng Wang. Cardiovascular Department, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 
+510120, China. Email: nieruqiong@163.com; wjingf@mail.sysu.edu.cn.
+Background:  The assessment of interatrial septum (IAS) requires a standardized, systematic 
+approach, including two-dimensional transthoracic echocardiography (2D TTE), 2D transesophageal 
+echocardiography (2D TEE), and three-dimensional (3D) TEE. Although 2D TEE has been widely used for 
+the preoperative assessment of atrial septal defect (ASD), its ability to provide reliable information is often 
+limited due to the structural characteristics of IAS. The introduction of 3D TEE provides a unique “en face” 
+view of IAS, which allows the visualization and accurate measurements of diameters, area, and rims of ASD. 
+Hence, appropriate ASD imaging information is particularly important in successful transcatheter closure.
+Methods: In this retrospective study, 2D TTE/TEE, and 3D TEE were performed before ASD closure, 
+with 2D minimal and maximal diameters, areas, and residual rims being recorded. Adequate 3D TEE 
+imaging data sets were collected and then analyzed. ASD related parameters were compared using different 
+echocardiography. Patients who underwent ASD closure completed a clinical follow-up.
+Results: The mean defect maximal diameter and aperture area by 3D TEE was significantly larger than 
+that of the corresponding 2D TEE (P<0.05). There was no statistical difference in the minimal and maximal 
+diameter or area by TEE for circular-shaped ASDs. For oval ASDs, mean minimal diameter on 2D TEE 
+was larger than that on 3D TEE. The mean maximal diameter measured using 2D TEE was smaller 
+than the 3D TEE measurement (16.0±7.1 vs. 19.8±8.6; P<0.05). For complex-shaped defects, there were 
+statistical differences in minimal and maximal diameter between TEEs. Furthermore, 2D and 3D TEE had 
+a longer superior vena cava (SVC) residual rim than did 2D TTE (P<0.05). The 3D TEE residual rims of 
+the inferior vena cava (IVC) was significantly larger than the corresponding 2D TEE. There was a very 
+strong correlation between the residual rim measurements using 3D and 2D TEE. However, the limits of 
+agreement between 2D and real-time 3D TEE measurements were more apparent in the IVC rim group 
+than in the other groups.
+Conclusions:  Our study confirms the value of 3D TEE in assessing ASD shape and size reported by 
+previous studies, and is also the first to accurately and systematically characterize ASD residual rim in 
+complex ASDs.
+Keywords: Atrial septal defect (ASD); real-time three-dimensional transesophageal echocardiography (real-time 
+3D TEE); two-dimensional transesophageal echocardiography (2D TEE); transcatheter closure
+1309
+Original Article
+[[p2]]
+Deng et al. ASD assessment by 3D TEE and outcomes following closure
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Page 2 of 13
+Introduction
+Atrial septal defects (ASDs) are one of the most common 
+congenital heart defects and account for approximately 
+6–10% of congenital heart disease cases (1). The 
+assessment of atrial septum abnormalities and associated 
+complications requires a systematic and standardized 
+approach, including the use of two-dimensional (2D) 
+transthoracic echocardiography (TTE), 2D transesophageal 
+echocardiography (TEE), and real-time three-dimensional 
+(3D) TEE (2).
+The interatrial septum (IAS) is a very dynamic and 
+complex 3D anatomic structure. Although 2D TEE has 
+widely been used for the assessment of ASD, it is often 
+unable to provide reliable information on the minimal and 
+maximal diameters and the size of the area of defect (3). 
+Moreover, 2D echocardiography has limitations in evaluating 
+the IAS, as it does not exist in a flat plane that can be easily 
+aligned or interrogated by 2D echocardiography. The recent 
+introduction of real-time 3D matrix array TEE transducers 
+could provide unique views from the left atrial or right atrial 
+perspective of the IAS. This “en face” makes the visualization 
+of ASDs possible, while the multiplanar reconstruction (MPR) 
+modality also allows for the measurement of ASD diameters, 
+area, and rims. Furthermore, real-time 3D TEE can display 
+the dynamic nature of the atrial defect size during cardiac 
+cycles.
+T ranscatheter closure of ASD has become a popular 
+approach in surgical repair with favorable clinical outcomes. 
+Studies have confirmed the clinical significance of 3D 
+TEE for the guidance of surgical occlusion of ASDs. The 
+comprehensive ASD imaging information provided by 
+3D TEE, including location, shape, size, area, and the 
+neighboring residual rim conditions is imperative for 
+successful transcatheter closure. In the absence of proper 
+preoperative evaluation, the wrong choice of device for 
+transcatheter device may lead to major complications. 
+This occurs when the chosen device is oversized or too 
+small. An oversized device could increase the risk of device 
+erosion, especially in defects with aortic rim deficiency (4). 
+Conversely, a small size occluder could lead to residual 
+shunts or device embolization, and could even require 
+emergency surgical operation. Therefore, the determination 
+of the right occlusion device size is crucial for transcatheter 
+closure.
+The appropriate ASD device selection is based on real-
+time 3D TEE and 2D balloon stretched diameter (SBD) 
+measurements. SBD measuring and balloon sizing are 
+complicated and time-consuming processes, and thus 
+exploring the reliability of 3D TEE imaging for selecting 
+the ASD device size is highly desirable. This involves 
+investigating the relationship between 3D TEE and balloon 
+size, and identifying those defect signs (5) that correlate 
+with the balloon size.
+Several studies have found a relationship between the 
+ASD diameter, size, and area assessed by 3D TEE, and the 
+SBD measured with the balloon sizing method. However, 
+only regular-shaped ASDs, including circular and oval 
+ASDs, were included in these studies. The relationships 
+between parameters measured by 2D TEE and real-time 
+3D TEE in complex ASDs, including those with irregular 
+shapes and special positions, still need to be explored, 
+especially the rims in the complex secundum ASDs. Thus, 
+this study assessed the maximal and minimal diameters, 
+the area, and the residual rims by 2D and 3D TEE, and 
+investigated the relationship between these measurements in 
+patients with complex secundum ASDs. We also evaluated 
+the outcomes of patients, including TTE immediately and 
+1 day after ASD closure, and at least 1 TTE examination 
+between 1 and 3 months following device closure.
+Our study aimed to (I) compare standard 2D TEE 
+methods and real-time 3D TEE in measuring minimal 
+and maximal aperture diameters and area in ASD patients, 
+and (II) to quantify the ability of real-time 3D TEE to 
+measure rim length in complex ASD while clarifying 
+residual shunting outcomes after the transcatheter closure. 
+We present the following article in accordance with the 
+STROBE reporting checklist (available at https://dx.doi.
+org/10.21037/atm-21-3206).
+Methods
+Study population
+For the study population, 81 patients who presented 
+with secundum ASDs between August 2018 to February 
+2021 were enrolled in our retrospective study at the 
+Department of Cardiology, at Sun Yat-sen Memorial 
+Submitted Jun 02, 2021. Accepted for publication Aug 05, 2021.
+doi: 10.21037/atm-21-3206
+View this article at: https://dx.doi.org/10.21037/atm-21-3206
+[[p3]]
+Annals of Translational Medicine, Vol 9, No 16 August 2021 Page 3 of 13
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Hospital, Sun Yat-sen University. All participants 
+underwent ASD closure with a septal occluder (Lifetech 
+Company, Shenzhen, China). However, 28 patients were 
+excluded due to incomplete TEE before closure. The 
+remaining patients underwent comprehensive multiplane 
+2D and 3D TEE procedures, and two of these patients 
+were excluded due to inadequate 3D TEE image quality. 
+3D TEE was included in the TEE procedure throughout 
+the recorded data sets, which were analyzed offline; hence, 
+the acquisition of 3D imaging did not extend TEE time 
+significantly. Criteria for the evaluation of transcatheter 
+ASD closure included a minimal rim of 5 mm of septal 
+tissue around the defect to allow for occlusion device 
+stability. The device was also adequately separated from 
+other important adjacent structures. Figure 1  shows the 
+enrollment flowchart of this cohort. This study complied 
+with the Declaration of Helsinki (as revised in 2013), and 
+the study was approved by the ethics committee of Sun 
+Yat-sen Memorial Hospital, Sun Yat-sen University (No. 
+SYSEC-KY-KS-2021-131). Informed written consent for 
+TEE was obtained by all patients.
+Echocardiography protocols
+Standard 2D TTE examinations were performed using 
+Philips Elite echocardiograph with X5-1 probe (Philips 
+Healthcare, Washington, USA) and Siemens SC2000 
+echocardiograph with 4V1C probe (Siemens Medical 
+Systems, Erlangern, Germany). TEE procedures were 
+performed while the patients were under local infiltration 
+oropharyngeal anesthesia with lidocaine mucilage. 
+Patients fasted for 12 hours before the TEE procedure. 
+The vital signs, including heart rate, blood pressure, 
+electrocardiogram, and finger vein blood oxygen saturation 
+were closely monitored during the operation. TEE imaging 
+was conducted using Philips Elite echocardiography with 
+X7-2t live 3D TEE transducer and Siemens SC2000 
+echocardiography system with a Z6Ms live 3D TEE 
+transducer. All the TEE imaging was acquired according to 
+the American Society of Echocardiography (ASE) standard 
+protocol (6,7). ASD diameters and shapes were visually 
+recognized and measured by 2D TEE with 0–180° angles, 
+including a four-chamber view (0°), a short-axis view  
+(30–60°), and a long-axis view (90–120°). Continuous 
+rotation of 2D TEE facilitated the measurement of the 
+minimal or maximal ASD diameters. 2D Maximal and 
+minimal and diameters were recorded respectively at the 
+cardiac end-systolic frame cycle when the defect sizes 
+appeared largest ( Figure 2A,2B ). The 2D ASD area was 
+calculated from the ellipse formula by measuring width and 
+length (8). The 3D TEE full volume modality was then 
+switched, or a real-time zoom 3D box including the whole 
+ASD was positioned ( Figure 2C,2D ). Finally, adequate 3D 
+TEE imaging data sets were collected. The 3D gain and 
+compression were optimized to guarantee the image quality. 
+3D volume rotations allowed for left-right ( Figure 2D ) or 
+right-left en face views of the ASD, providing for a quick 
+and visual analysis of its shape and its adjacent surrounding 
+structures ( Figure 2E-2H ). A horizontal plane parallel to 
+the IAS plane allowed for the display of the ASD en face 
+from the right or left atrium. Simultaneously, two planes 
+orthogonal to the horizontal axis of the atrial septum, 
+ASD device closure (n=81)
+Patients were excluded due to incomplete TEE 
+before closure (n=28)
+Patients were excluded with poor 3D TEE image 
+quality (n=2) 
+Patients finished TEE (n=53)
+EnrollmentAnalysis
+Analyzed for 3D-TEE ASD morphology (n=51)
+Figure 1 Research flowchart: overview of the enrollment process and analysis of this study cohort. In the study, 81 patients underwent ASD 
+closure. A total of 51 2D TTE/2D TEE/RT-3D TEE imaging data sets were found to be of acceptable quality. ASD, atrial septal defect; 2D, 
+two-dimensional; TTE, transthoracic echocardiography; RT , real-time; 3D, three-dimensional; TEE, transesophageal echocardiography.
+[[p4]]
+Deng et al. ASD assessment by 3D TEE and outcomes following closure
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Page 4 of 13
+known also as the bicaval view, were used to display the en 
+face plane which was parallel to the ASD. TEE operators 
+could easily describe ASD morphology as oval, round, or 
+complex based on these en face views. The data sets were 
+stored digitally, transferred to an echo workstation, and 
+then analyzed by offline software. TEE operations were 
+completed by three senior operators with similar experience, 
+and catheterizations were performed by an experienced 
+interventional cardiologist.
+2D and 3D TEE data analyses
+For 2D ASD imaging, both minimal and maximal ASD 
+aperture diameters were measured at the end of the cardiac 
+systole frame (9), as the shape and size of the aperture 
+dynamically changes throughout the cardiac cycle (10,11). 
+Measurements of the defect area and residual tissue rims 
+from the en face view were also acquired during the largest 
+defect aperture at the end of cardiac systole. We defined 
+end-systole as the frame showing the onset of the aortic 
+valve closing motion in the 3D imaging data set. From 
+either 3D zoom or full volume data sets, the maximum 
+diameter (length) in the long axis, minimal diameter 
+(width) in the short axis, and aperture area by planimetry 
+were measured from the 3D en face view ( Figure 2D ) 
+with offline QLAB software version 7.0 (Philips Medical 
+Systems). En face views of the aperture were reconstructed 
+from at least 5 cardiac cycles. ASD morphology was 
+further categorized by the shape seen from the en face 
+view. We defined a circular ASD as a circular or near 
+circular defect ( Figure 3A) when the minimal diameter was 
+equal or greater than 75% of the maximum diameter. An 
+elliptical- or oval-shaped defect was defined as a defect 
+with a minimal length smaller than 75% of the maximum 
+diameter ( Figure 3B ) (12). For the purposes of this study, 
+we defined complex ASDs by their shape and/or position. 
+Irregular, asymmetric-shaped defects which were not 
+elliptical or round were defined as complex-shaped ASD. 
+Complex ASDs also included double- or multihole ASD, 
+atrial septum aneurysm with multi perforations, and 
+A
+E
+B
+F
+C
+G
+D
+H
+Figure 2  Representative measurements of ASD minimal and maximal diameters, and area, using MPR and the zoom 3D TEE volume 
+modality. (A) The plane cropping through the aperture in the anterior-posterior dimension. (B) The plane cropping through the defect in 
+the inferior-to-superior dimension. (C) A case where the minimal diameter was overestimated and the long-axis diameter was underestimated 
+by 2D TEE. The green line (supposedly short axis) and the red line (supposedly long axis) depict how the corresponding 2D TEE images 
+are unable to illustrate the real minimal and maximum diameter of this defect. (C) The multiplanar reconstructed views of an elliptical ASD. 
+Lines a–b and c–d represent the real long and short axis of this elliptical-shaped ASD. The yellow circle represents the real outline of this 
+defect. (D) Reconstructed 3D TEE view of an ASD seen en face from the left atrium. If an en face plane is selected using multiple planes as 
+described in (C), the defect’s area is calculated by planimetry. The maximal (length) and minimal (short) axis can also be measured as shown. 
+The yellow arrow head in (E-H) illustrate the residual rim of the aorta, SVC, IVC, and MV annulus, respectively. A white asterisk represents 
+ASD. ASD, atrial septal defect; MPR, multiplanar reconstruction; 3D, three-dimensional; TEE, transesophageal echocardiography; 2D, 
+two-dimensional; SVC, superior vena cava; IVC, inferior vena cava; MV , mitral valve; AV , aortic valve.
+[[p5]]
+Annals of Translational Medicine, Vol 9, No 16 August 2021 Page 5 of 13
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+defects close to the superior vena cava (SVC) or inferior 
+vena cava (IVC). Examples of these complex situations 
+are shown in Figure 3C-3F . The ASD area was calculated 
+using 2D imaging data sets with the ellipse formula being 
+0.785 × minimum diameter (width) × maximum diameter 
+(length). The real-time 3D TEE ASD area was traced at 
+the end of systole frame throughout two cardiac cycle.
+Definition of residual rims
+The ASD residual rims were defined as the distance 
+between the ASD edges and the surrounding anatomic 
+tissues. T o measure the ASD residual rims, 3D full volume 
+data sets were sliced or cropped. The maximal rim length 
+of the aorta, SVC, IVC, and mitral valve annulus were 
+measured at end cardiac systole ( Figure 2E-2H ). We 
+measured the postero-superior or postero-inferior (13) 
+residual rim as distance from the defect edge to the SVC 
+or IVC by cable view at the mid-high esophageal position, 
+antero-superior aorta residual tissue rim as the ASD 
+edge to the aorta wall by aortic short axis view at high-
+esophageal position, and antero-inferior (13) residual rim 
+as distance from the ASD rim to the mitral valve annulus 
+by four-chamber cardiac view at the middle position of the 
+esophagus.
+Transcatheter ASD closure
+T ranscatheter ASD device closure was performed under 
+TEE guidance and fluoroscopy which have already been 
+proved safety and efficacy. Occlusion device size selection 
+was dependent on 2D and 3D TEE echocardiographic 
+measures, regardless of whether or not stretched balloon 
+sizing was used. The appropriate occlusion device should 
+be large enough to cover the entire defect and engage the 
+defect’s residual rims but small enough to avoid squeezing 
+of adjacent structures and increasing the erosion risk. 2D 
+TTE imaging was collected 1 day after closure, before 
+discharge, and 3 months after closure. Data were analyzed 
+for any evidence of residual shunting.
+Figure 3 Representative figures of different types of ASD. (A) An ASD with a nearly circular shape. (B) A small ASD with an elliptical shape. 
+(C) An irregular ASD with a crescent shape. (D) An ASD with double-large orifices; the yellow arrow head points to the residual atrial tissue. 
+(E) Atrial septum aneurysm with multiple perforations; the yellow arrow heads point to the defects: 2 are large; 1 is small. (F) An ASD with 
+a floppy residual rim tissue which is close to the IVC [yellow arrow in (F)] and with a firm residual rim on the side of the SVC. ASD, atrial 
+septal defect; SVC, superior vena cava; IVC, inferior vena cava; FO, foramen ovale.
+A
+D
+B
+E
+C
+F
+[[p6]]
+Deng et al. ASD assessment by 3D TEE and outcomes following closure
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Page 6 of 13
+Statistical analysis
+All statistical analyses were performed using GraphPad 
+version 9.0 (GraphPad, San Diego, CA, USA). Continuous 
+quantitative variables are expressed as mean ± standard 
+deviation (SD). Categorical variables are presented as counts 
+and percentages. Comparisons between measurements 
+were performed using t-tests and linear regression analysis. 
+The Shapiro-Wilk test was used to test the normality of 
+the distribution of the variables. Levene’s test was used to 
+assess the homogeneity of variance. If these conditions were 
+not satisfied, a nonparametric Wilcoxon test was used for 
+the bivariate analysis. The mean values in the subgroups 
+were compared using one-way analysis of variance and 
+post hoc analyses. Pearson correlation was used to assess 
+the correlations between variables. Bland-Altman analysis 
+was used to evaluate the agreement between two different 
+measurement parameters. A P value <0.05 was considered 
+statistically significant.
+Results
+Study population
+Our retrospective study included a total of 51 patients who 
+accepted TEE examination and ASD closure. Clinical 
+???????s??PM?`?
+the patients, 38 patients were female (74.5%) and 13 (25.5%) 
+were male. The mean age was 46.0±18.9 [15–85] years. 
+Atrial fibrillation, diabetes mellitus, and hypertension were 
+present in 8 (15.7%), 5 (9.8%), and 7 (13.7%) patients, 
+respectively. The primary indications for ASD closure 
+were right ventricular chamber dilatation, with symptoms 
+including decreased exercise tolerance, dyspnea on exertion, 
+and syncope in 32 (62.7%) patients; pulmonary hypertension 
+Go`gH??QT?GSXMPDH?Z?????
+chamber dilation in 19 patients (37.3%); and stroke or 
+transient ischemic attack (TIA) from paradoxical embolism in 
+6 patients (11.8%) (T able 1).
+ASD shape and size
+Of all the ASD patients, only 8 (15.7%) had circular-shaped 
+defects ( Figure 3A ), 12 (23.5%) had oval-shaped defects 
+(Figure 3B), and 31 (60.8%) had defects that were complex 
+in shape or position ( Figure 3C-3F ). Representations of 
+these complex ASDs are shown in Figure 3C-3F , including 
+asymmetry, irregularly shaped defects, double holes, atrial 
+septum aneurysm with multiple perforations, and defects 
+very close to the aorta, SVC, or IVC.
+ASD diameter and area
+The mean defect maximal diameter (length) measured 
+using real-time 3D TEE was significantly larger than that 
+of corresponding 2D TEE (P<0.05). However, there was 
+no difference in mean ASD minimal diameter (width) 
+between 2D TEE imaging or corresponding real-time 
+3D TEE imaging. The measurements of mean aperture 
+area were also significantly different between these two 
+modalities: 2.2±1.5 cm
+2
+ as calculated by planimetry from 
+left-right en face view using 3D TEE, and 1.6±1.2 cm
+2
+ as 
+calculated by the ellipse formula with 2D TEE ( T able 2). 
+When ASD shape and position factors were considered, 
+the results differed greatly. Compared with 2D TEE, there 
+was no statistical difference in the minimal and maximal 
+diameter or area by real-time 3D TEE for circular-shaped 
+ASDs. For oval-shaped ASDs, the mean minimal diameter 
+measured by 2D TEE was significantly larger than that 
+of the corresponding 3D TEE (13.9±7.2 vs. 9.1±6.4 mm; 
+P<0.05). Similarly, the mean maximal diameter measured 
+by 2D TEE was significantly smaller than that of 3D TEE 
+(16.0±7.1 vs. 19.8±8.6 mm; P<0.05). However, there was 
+no difference either by 2D or real-time 3D TEE in oval-
+Table 1  Clinical characteristics of 51 patients for ASD device 
+closure in this study
+Clinical parameter Value
+Age (y) 46.0±18.9 [15–85]
+Men 13 (25.5)
+Women 38 (74.5)
+Atrial fibrillation 8 (15.7)
+Diabetes mellitus 5 (9.8)
+Hypertension 7 (13.7)
+Primary indication for ASD closure
+TIA/stroke 6 (11.8)
+s????o`g?QT?GSXMPH
+Symptoms with right heart dilation 32 (62.7)
+Symptoms without right heart dilation 19 (37.3)
+Data are expressed as numbers (%) or mean ± SD [range]. 
+Symptoms included decreased exercise tolerance, dyspnea on 
+exertion, and syncope. ASD, atrial septal defect; TIA, transient 
+ischemic attack; PAH, pulmonary hypertension.
+[[p7]]
+Annals of Translational Medicine, Vol 9, No 16 August 2021 Page 7 of 13
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+shaped aperture area (2.0±1.7 vs. 2.1±1.4 cm
+2
+; P>0.05). For 
+complex-shaped defects, 2D TEE and real-time 3D TEE 
+showed statistically significant differences in minimal and 
+maximal diameter, and area. Both the maximal and minimal 
+diameter were larger when measured with real-time 
+3D TEE (maximal diameter: 22.4±7.7 vs. 17.3±8.8 mm;  
+minimal diameter: 15.7±5.9 vs. 12.0±6.5 mm; P<0.05) and 
+similarly, the aperture area measured by 2D TEE was 
+smaller than that measured by 3D TEE (P<0.05; T able 3).
+ASD residual rims
+T o determine the effect of the defect location, we 
+specifically investigated residual rims of the complex ASDs. 
+There were 31 complex ASD patients in all. We measured 
+ASD margin, including IVC, SVC, mitral valve annulus, and 
+aortic rims. T able 4 shows the mean value of residual rims 
+measured using 2D TTE, 2D TEE, and real-time 3D TEE. 
+According to the location of ASD, 20 defects were near 
+the aorta and had a short residual rim of less than 5 mm,  
+6 defects were close to the SVC, and 5 were close to the 
+IVC. There were no statistically significant differences in 
+aorta or mitral valve annulus residual rim measurements 
+between the 3 echocardiographic methods (P=0.29 and 
+P=0.33, respectively). In regard to the SVC residual rim, 
+2D TTE had a shorter rim than did 2D and 3D TEE, with 
+the latter having an average SVC residual rim of  10.4±5.6 
+Table 2 Average minimal and maximal dimension, and area of ASD 
+measured by 2D TEE and 3D TEE (n=51)
+Defects size 2D TEE 3D TEE
+Minimal dimension (mm) 12.1±6.0 10.2±3.8
+Maximal dimension (mm) 16.2±6.6 20.2±7.3*
+Area (cm
+2
+) 1.6±1.2 2.2±1.5*
+All data are presented as mean ± SD. The 2D TEE defect area 
+was obtained from an ellipse area calculation. 3D TEE defect en 
+face area was acquired from direct 3D planimetry. *, P<0.05, 3D 
+TEE measurement significantly larger than the corresponding 
+2D TEE. ASD, atrial septal defect; 2D, two-dimensional; TEE, 
+transesophageal echocardiography; 3D, three-dimensional; SD, 
+standard deviation.
+Table 3 Average minimal and maximal dimension, and area for circular, oval, and complex ASD by 2D TEE and 3D TEE
+Defects size Circular (n=8) Oval (n=12) Complex (n=31)
+2D minimal dimension (mm) 9.1±3.3 13.9±7.2
+†
+12.0±6.5
+3D minimal dimension (mm) 8.9±4.5 9.1±6.4 15.7±5.9*
+2D maximal dimension (mm) 11.7±3.9 16.0±7.1 17.3±8.8
+3D maximal dimension (mm) 12.9±5.1 19.8±8.6* 22.4±7.7*
+2D area (cm
+2
+) 1.2±0.5 2.0±1.7 1.7±1.2
+3D area (cm
+2
+) 1.3±0.7 2.1±1.4 2.8±1.4*
+All data are presented as mean ± SD. 
+†
+, P<0.05, 2D TEE measurement significantly larger than corresponding 3D TEE; *, P<0.05, 3D TEE 
+measurement significantly larger than the corresponding 2D TEE. ASD, atrial septal defect; 2D, two-dimensional; TEE, transesophageal 
+echocardiography; 3D, three-dimensional; SD, standard deviation.
+Table 4 Rims of complex ASD measured by 2D TTE, 2D TEE, and 3D TEE
+Defects rims 2D TTE 2D TEE 3D TEE P
+IVC residual rim (mm) 7.3±5.5 9.8±6.2* 12.8±7.0*
+#
+<0.05
+SVC residual rim (mm) 7.9±6.0 10.4±5.6* 11.9±4.7* <0.05
+Mitral valve annulus rim (mm) 4.9±3.3 5.2±3.7 5.3±3.0 0.33
+Aortic rim (mm) 3.8±2.9 4.0±3.2 4.2±3.9 0.29
+All data are presented as mean ± SD. *, P<0.05, 2D TEE significantly larger than the corresponding 2D TTE measurement; 
+#
+, P<0.05, 3D 
+TEE measurement significantly larger than the corresponding 2D TEE measurement. ASD, atrial septal defect; 2D, two-dimensional; TTE, 
+transthoracic echocardiography; TEE, transesophageal echocardiography; 3D, three-dimensional; IVC, inferior vena cava; SVC, superior 
+vena cava; SD, standard deviation.
+[[p8]]
+Deng et al. ASD assessment by 3D TEE and outcomes following closure
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Page 8 of 13
+and 11.9±4.7 mm, respectively (P<0.05). However, there 
+was no difference between both TEE modalities. For the 
+IVC residual rim, both 2D and 3D TEE also had a longer 
+rim compared with 2D TTE. The average IVC rims were  
+9.8±6.2 and 12.8±7.0 mm for 2D TEE and 3D TEE, 
+respectively (P<0.05). Moreover, the 3D TEE measurements 
+in the IVC residual rim were significantly larger than the 
+corresponding 2D TEE measurements (T able 4).
+Comparison of ASD rim between 2D TEE and real-time 
+3D TEE
+There was a strong correlation between aortic residual 
+rim tissue measurements with real-time 3D TEE and 
+2D TEE, with no statistically significant differences 
+being found between these modalities (r=0.94; R
+2
+=0.89; 
+P<0.01). Similarly, there was a good correlation between 
+these two measurements for the residual rims of SVC and 
+IVC ASDs  (SVC rim: r=0.92, R
+2
+=0.85; IVC rim: r=0.90; 
+R
+2
+=0.83; P<0.001). However, Bland-Altman analysis showed 
+that the limits of agreement between 2D and 3D TEE 
+measurements were broader in the IVC rim group than in 
+the aorta and SVC rim group ( Figure 4 ): aortic and SVC 
+rim measurements showed a mean difference of −0.21 cm 
+with 95% agreement of ±0.51 cm and  -0.67 cm with 95% 
+agreement of ±1.11 cm ( Figure 4 ), respectively; and IVC 
+residual rim measurements showed a mean difference of 
+−0.32 cm with a 95% agreement of ±1.24 cm.
+Clinical follow-up
+We examined the 81 ASD occlusion patients who were 
+enrolled in the study from August 2018 to February 2021: 
+28 patients did not undergo TEE, while 51 patients did. All 
+the patients who underwent ASD closure completed the 
+clinical follow-up, which included 2D TTE immediately 
+and 1 day after ASD closure, as well as before discharge, 
+and 3 months after device closure. T en patients showed 
+evidence of residual shunting from left atrial to right atrial 
+using TTE assessment immediately after occlusion (10/81, 
+12.3%), and eight patients showed mild residual shunting 
+3 months after the occlusion (8/81, 9.9%). More residual 
+leaks were observed in the patients who did not undergo 
+3D TEE examination. We observed that in these 8 patients 
+with residual shunting, 6 did not complete the 3D TEE 
+exam while the remaining 2 were complex ASD type. Of 
+these 2 complex ASDs, 1 patient had a defect which was 
+very near to the IVC and the other patient had a complex 
+atrial septum aneurysm with multiple perforations.
+Discussion
+Compared with cardiac surgery, the transcatheter closure of 
+secundum ASD, which has a lower complication morbidity 
+rate, has already become the preferred mode of repair when 
+the anatomy of atrium permits it (14,15). The atrial septum 
+should be assessed fully with TEE before this invasive 
+procedure is selected. It is always difficult to depict the 
+exact minimal or maximal diameter solely by 2D TEE due 
+to the defect’s 3D morphology and its fluctuation up and 
+down, and back and forth during the cardiac cycle. The IAS 
+is also extremely thin, making it more difficult to evaluate 
+the defect. Real-time 3D TEE technology provides vivid 
+imaging that can dynamically display the temporal and 
+spatial changes in defect shape, size, and of surrounding 
+tissue, and clarify the residual rim (10,16).
+Commercially available quantitative software is available 
+for measurements of defect diameters and area in 2D 
+imaging extracted from 3D TEE data sets. Moreover, the 
+real-time en face views of the ASD defect can be visualized 
+with high definition from both the left atrial and right 
+atrial perspectives. Defect parameters can also be acquired 
+directly using the 3D zoom modality. The advantages 
+of real-time 3D TEE are crucial for comprehending the 
+morphology and position of ASD, especially for complex 
+defects. In addition to this, we find that ASD defect size 
+and shape change dynamically with cardiac cycle changes. 
+Defect size may reach a maximal area at the end of cardiac 
+systole and a minimal area at the end cardiac diastole, which 
+is consistent with previous studies.
+Before 3D echocardiography was widely used, operators 
+measured ASD by continuously rotating the multiple plane 
+TEE transducer to find the minimal and maximal planes. 
+The maximal and minimal diameters measured by 3D TEE 
+imaging shows moderate correlations with those measured 
+by 2D TEE imaging modality, suggesting that the defect 
+diameters measured using 3D TEE modality are comparable 
+to those from 2D TEE measurements. However, in our 
+study a single measurement of ASD diameters using 2D 
+TEE from either a long or short axis view was insufficient 
+to indicate the true maximal or minimal diameter. We 
+found that relying only on 2D TEE produced a larger 
+average minimal defect diameter than did real-time 3D 
+TEE measurement. Likewise, the average maximal defect 
+diameter measured by 2D TEE was smaller than that 
+measured by real-time 3D TEE, which is consistent with 
+[[p9]]
+Annals of Translational Medicine, Vol 9, No 16 August 2021 Page 9 of 13
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Figure 4 Relationship of the defect residual rim length between 2D TEE and real-time 3D TEE in complex ASD. (A,C,E) Simple linear 
+regression analysis of 2D TEE and real-time 3D TEE measurements in aortic, SVC and IVC rims. (B,D,F) The Bland-Altman analysis 
+of the differences in measurement of residual rims between 2D TEE and real-time 3D TEE. On the correlation graphs (A,C,E), dashed 
+lines represent linear regression while solid lines represent lines of identity. On Bland-Altman plot graphs (B,D,F), solid lines represent 
+average differences, while dashed lines represent average difference ± 1.96 × SD of difference. 2D, two-dimensional; TEE, transesophageal 
+echocardiography; 3D, three-dimensional; ASD, atrial septal defect; SD, standard deviation; SVC, superior vena cava; IVC, inferior vena cava.
+previous studies (8). Therefore, 3D TEE must be heavily 
+relied upon to determine the accurate ASD size and choose 
+the proper occlusion size. Moreover, 3D TEE can provide 
+an entire en face/surgical view of an ASD and can easily find 
+the plane with minimal or maximal diameters. However, 
+Maeno et al.  (17) reported 3D TEE measurements were 
+smaller than those of 2D TEE, and they stated that the real-
+time 3D TEE, which measures from the inner margins of 
+the defect rims, would underestimate the maximal diameter.
+Acar (18) and Seo (19) et al.  reported that the defect 
+difference between 2D and real-time 3D measurements was 
+affected by the shape and size of the ASD. They found that 
+the correlation and agreement between the measurements 
+of the two modalities was stronger in a circular-shape 
+group than in an elliptical shape group. In our study, we 
+further classified 51 patients into three groups according 
+to the shape and position: circular-shaped defects, oval-
+shaped defects, and complex-shaped defects (including 
++1.96 SD
++1.96 SD
++1.96 SD
+−1.96 SD
+−1.96 SD
+−1.96 SD
+0.78
+0.88
+1.26
+−1.21
+−0.98
+−2.74
+r=0.94
+R
+2
+=0.88
+P<0.001
+n=31
+r=0.92
+R
+2
+=0.85
+P<0.001
+n=31
+r=0.90
+R
+2
+=0.83
+P<0.001
+n=31
+3D-2D TEE-Aorta rim diameters3D-2D TEE SVC rim diameters3D-2D TEE IVC rim diameters
+3D TEE-Aorta rim diameter (mm)3D TEE-SVC rim diameter (mm)3D TEE-IVC rim diameter (mm)
+4
+3
+2
+1
+0
+−1
+−2
+−3
+−4
+4
+3
+2
+1
+0
+−1
+−2
+−3
+−4
+4
+3
+2
+1
+0
+−1
+−2
+−3
+−4
+10
+8
+6
+4
+2
+0
+20
+15
+10
+5
+0
+20
+15
+10
+5
+0
+0 0
+0
+0
+2
+2
+2
+4
+4
+4
+6
+6
+6
+8
+8
+8
+10
+10
+10
+(2D TEE + 3D TEE aorta diameters)/2
+(2D TEE + 3D TEE SVC diameters)/2
+3D-2D TEE IVC rim diameters
+12
+12
+12
+14
+14
+14
+16
+16
+16
+0
+0 5 10 15 20
+5 10 15
+2 4 6 8
+2D TEE-Aorta rim diameter (mm)
+2D TEE-SVC diameter (mm)
+2D TEE-IVC diameter (mm)
+A
+C
+E
+B
+D
+F
+[[p10]]
+Deng et al. ASD assessment by 3D TEE and outcomes following closure
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Page 10 of 13
+special position ASDs and irregular-shaped ASDs). 
+Consistent with previous research (20), we found that the 
+agreement between the minimal and maximal diameters, 
+and area measurements under 2D and real-time 3DTEE 
+was stronger in patients with circular-shaped ASDs than 
+in those with elliptical or complex ASDs. For the patients 
+with elliptical-shaped ASDs, we also found the minimal 
+diameter tended to be larger under 2D TEE than under 
+real-time 3D TEE. Conversely, 2D TEE produced a larger 
+maximal diameter. One possible reason for this is that 
+despite continuously rotating the 2D multiple plane TEE 
+transducer to find the minimal and maximal diameters, 
+it is easy to deviate from the real minimal/maximal plane 
+in the irregular-shaped defects. For the complex ASDs, 
+due to the special position and/or complicated shape, the 
+diameters and area discrepancies are much larger between 
+the different TEE modalities. Therefore, the difference in 
+measurements between these two modalities appears to be 
+impacted by both the position and shape of the defect.
+In standard 2D TEE, the cross-orthogonal sectional 
+planes often do not often cut the exact minimal or 
+maximal distance from the defect to the surrounding rim 
+tissues; thus, the rim lengths may not be accurate. This 
+modality should not be solely relied upon, as 2D TEE 
+may misestimate the true defect rim length. 3D TEE 
+full-volume data sets which encompass both the ASD 
+defect and surrounding residual rim structures avoid 
+this misestimation. Given this advantage, cropping 3D 
+pyramidal data sets could easily provide the true length of 
+the defect’s residual edges compared with the traditional 2D 
+TEE modality.
+The aortic residual rim could be observed clearly with 
+the 2D TTE, 2D TEE, and 3D TEE modalities. This 
+is due to its close acoustic field location. In contrast, it is 
+usually difficult to show the surrounding structure of SVC 
+with 2D TTE in both the inferior-xiphoid double atrial 
+view and the short axis view due to its distal acoustic field. 
+However, these could be perfectly displayed in the cable 
+view using 2D and 3D TEE. Due to its residual rim, it is 
+the hardest to show IVC because its position in the acoustic 
+field is the most distant. However, with the help of real-time 
+3D TEE technology and the intelligent 3D crop software, 
+we could present IVC residual rim much more clearer than 
+ever before. These allow for a more confident selection of 
+occlusion size, especially in patients with an ASD close to 
+the IVC.
+In addition, we studied the relationship between 2D and 
+3D TEE measurements of the ASD residual rim, especially 
+in complex ASDs. A good linear relationship was also 
+found between these two modalities in measurement of 
+residual rims, which is consistent with previous studies (10).  
+Moreover, we found the limits of IVC rim agreement 
+between 2D and 3D TEE measurements were broader 
+than those of both the aortic and SVC rim groups. This 
+large discrepancy is closely related to the IVC location 
+at the far acoustic field. These findings emphasize the 
+advantages of real-time 3D TEE in displaying and 
+measuring the residual rim, especially that of the remote 
+IVC, as compared to 2D TEE.
+Good quality 3D imaging acquisition requires operators’ 
+expertise, and analyzing 3D data sets requires additional 
+time to process. When the quality of the real-time 3D TEE 
+imaging is unsatisfactory, it is important to first guarantee 
+the imaging quality of 2D TEE. The probe can be gently 
+moved to avoid gas interference. Attention should also 
+be paid to adjusting imaging data sets, which involves 
+intelligent image cropping and echo-gain improvement. It 
+is also critical to prevent insufficient gain, which can result 
+in an extremely floppy atrial septum and can even lead to 
+pseudo-echo loss, which may cause ASD misdiagnosis and 
+an oversized occluder.
+In addition to the previously mentioned advantages, 
+there are, of course, disadvantages of 3D TEE, namely the 
+expansive 3D TEE data set collection and tedious offline 
+imaging reconstruction processing. Therefore, detailed 
+3D analysis would be better performed in advance of 
+transcatheter closure rather than during the manipulation. 
+Owing to the recent development of matrix array 3D TEE 
+transducers, the time spent on 3D data set collection and 
+tedious offline imaging reconstruction processing will be 
+greatly shortened. Moreover, with the application of the 
+“D’art” function, defects can be immediately measured 
+with this new cropping software and may provide the 
+detailed occluder selection information to interventional 
+cardiologists. This means that 3D TEE measurements may 
+be relied upon to instantaneously choose the implanted 
+ASD device size during the process of transcatheter closure. 
+This will make this method more clinically acceptable and 
+likely alter future clinical practice.
+Moreover, in our research, more than 40% of the study 
+patients had an antero-superior aorta residual rim length 
+shorter than 5 mm, which is very common in ASDs. This 
+type of ASD is usually very close to the aortic noncoronary 
+sinus. However, it is still feasible for operators to achieve 
+successful occlusion if prudently chosen ASD device size.
+The atrial septum is considered to be floppy when the 
+[[p11]]
+Annals of Translational Medicine, Vol 9, No 16 August 2021 Page 11 of 13
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+septum is extremely thin and when the edges of the defect 
+are mobile. Real-time 3D TEE can easily determine if 
+the defect edge is floppy or firm, which helps operators 
+rationally adjust the occluder size. If the ASD shape is 
+regularly round, with a firm defect, 2 mm can be added to 
+the chosen occlusion size. In case of a floppy septum, more 
+caution is needed, and we may add up to 4 mm or more 
+to the occlusion size, depending on the floppy area (21). 
+However, in our center, this practice still has to be validated 
+in future research.
+We found that among the 8 postoperative residual shunts 
+patients, up to 70% (6/8) did not accept the 3D TEE 
+examination before ASD occlusion for a variety of reasons. 
+Further studies are needed to assess whether occlusion 
+device selection depending on 3D TEE would lead to 
+a decrease in residual shunting after transcatheter ASD 
+closure. Besides the size and shape of ASD, other factors 
+may also contribute to the presence of residual shunting, 
+including insufficiency or deficiency of residual rims, the 
+ASD location, and even the device selection method. On the 
+basis of 3D TEE, choosing a larger device size could have 
+resulted in less residual shunting. After occlusion, a tiny 
+amount of residual drainage will be disappear over time. 
+We suspect this may be related to the growth of endothelial 
+cells on the occluder. Moreover, we recognize that our study 
+was retrospective in design and lacked long-term follow-
+up data, and thus more cases should be included in future 
+studies.
+Conclusions
+With the development of transcatheter treatment for 
+structural heart disease, TEE is playing an increasingly 
+important role in ASD device selection and closure 
+procedure. Simple 2D measurement of ASDs is a quick 
+and reliable method for appropriate occluder size selection, 
+especially if the atrial septum is firm. However, if the 
+configuration of the ASD is more complex (e.g., presence of 
+irregular shape, floppy or multifenestrated IAS positioned 
+near the IVC), 3D echocardiography can offer a visual 
+and detail-rich assessment of the ASD. Our findings are 
+in line with previous results in confirming the value of 3D 
+TEE on ASD shape and size assessment. A novelty of our 
+study is the accurate and systematic characterization of 
+ASD residual rim in complex ASDs. The residual rims in 
+different directions showed moderate correlation between 
+the 2D and 3D TEE modalities. The limit of agreement is 
+different between 2D and 3D TEE for residues in different 
+directions due to the acoustic field. This methodology 
+provides a more comprehensive understanding and 
+assessment of ASD configuration, which can lead to better 
+occluder device selection and fewer residual shunts for 
+transcatheter closure.
+Study limitations
+Our study is limited by its retrospective nature and the 
+small number of enrolled patients. Another limitation is 
+the lack of the validation from repair surgery as the gold 
+standard, as not all of the patients underwent transcatheter 
+intervention. Meanwhile, patients did not undergo 
+preoperative cardiac computed tomography or magnetic 
+resonance imaging, the use of which could have provided 
+detailed information about the shape, size, and residual 
+rims of ASD. Moreover, the major limitation of 3D TEE 
+is the reduced temporal resolution compared to 2D TEE 
+which means we should assess ASDs with different types 
+of echocardiography. Finally, we did not separate the 
+complex ASDs by position and shape. In future studies, 
+we will consider collecting more cases and conducting the 
+subgroup analysis.
+Acknowledgments
+Funding: This work was supported by the National 
+Natural Science Foundation of China (NSFC) grant (No. 
+81700261). We also acknowledge the grant support from 
+the Guangzhou Science and T echnology Plan Project 
+(Livelihood Science and T echnology; No. 201903010009).
+Footnote
+Reporting Checklist: The authors have completed the 
+STROBE reporting checklist. Available at https://dx.doi.
+org/10.21037/atm-21-3206
+Data Sharing Statement: Available at https://dx.doi.
+org/10.21037/atm-21-3206
+Conflicts of Interest: All authors have completed the ICMJE 
+uniform disclosure form (available at https://dx .doi.
+org/10.21037/atm-21-3206). The authors have no conflicts 
+of interest to declare.
+Ethical Statement: The authors are accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+[[p12]]
+Deng et al. ASD assessment by 3D TEE and outcomes following closure
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Page 12 of 13
+appropriately investigated and resolved. This study 
+complied with the Declaration of Helsinki (as revised in 
+2013), and the study was approved by the ethics committee 
+of Sun Yat-sen Memorial Hospital, Sun Yat-sen University 
+(No. SYSEC-KY-KS-2021-131). Informed written consent 
+for TEE was obtained by all patients. 
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and 
+the original work is properly cited (including links to both 
+the formal publication through the relevant DOI and the 
+license). See: https://creativecommons.org/licenses/by-nc-
+nd/4.0/.
+References
+PM?q?c`K?b?vK?o?cK??M?sL?
+transesophageal echocardiography of atrial septal defect: 
+a qualitative and quantitative anatomic study. J Am Soc 
+Echocardiogr 2011;24:600-10.
+2. Johri AM, Rojas CA, El-Sherief A, et al. Imaging of atrial 
+septal defects: echocardiography and CT correlation. 
+Heart 2011;97:1441-53.
+3. Song BG, Park SW, Lee SC, et al. Real-time 3D TEE 
+for multiperforated interatrial septum. JACC Cardiovasc 
+Imaging 2010;3:1199.
+4. Amin Z, Hijazi ZM, Bass JL, et al. Erosion of Amplatzer 
+septal occluder device after closure of secundum atrial 
+septal defects: review of registry of complications and 
+recommendations to minimize future risk. Catheter 
+Cardiovasc Interv 2004;63:496-502.
+5. Aggeli C, Apostolou I, Dimitroglou Y, et al. The role of 
+'halo sign' for the accurate quantification of atrial septal 
+defect size with 3D TEE. Int J Cardiovasc Imaging 
+2020;36:873-81.
+6. Silvestry FE, Cohen MS, Armsby LB, et al. Guidelines 
+for the echocardiographic assessment of atrial septal 
+defect and patent foramen ovale: from the American 
+Society of Echocardiography and Society for Cardiac 
+Angiography and Interventions. J Am Soc Echocardiogr 
+2015;28:910-58.
+7. Saric M, Perk G, Purgess JR, et al. Imaging atrial septal 
+defects by real-time three-dimensional transesophageal 
+echocardiography: step-by-step approach. J Am Soc 
+Echocardiogr 2010;23:1128-35.
+8. Johri AM, Witzke C, Solis J, et al. Real-time three-
+dimensional transesophageal echocardiography in 
+patients with secundum atrial septal defects: outcomes 
+following transcatheter closure. J Am Soc Echocardiogr 
+2011;24:431-7.
+9. Handke M, Schäfer DM, Müller G, et al. Dynamic 
+changes of atrial septal defect area: new insights by three-
+dimensional volume-rendered echocardiography with high 
+temporal resolution. Eur J Echocardiogr 2001;2:46-51.
+10. Kaku K, T akeuchi M, Sugeng L, et al. Assessment of 
+atrial septal defect size and residual rim using real-time 
+3D transesophageal echocardiography. J Echocardiogr 
+2009;7:48-54.
+11. Franke A, Kühl HP , Rulands D, et al. Quantitative 
+analysis of the morphology of secundum-type atrial septal 
+defects and their dynamic change using transesophageal 
+three-dimensional echocardiography. Circulation 
+1997;96:II-323-7.
+12. Song J, Lee SY, Baek JS, et al. Outcome of transcatheter 
+closure of oval shaped atrial septal defect with amplatzer 
+septal occluder. Y onsei Med J 2013;54:1104-9.
+13. van den Bosch AE, T en Harkel DJ, McGhie JS, et 
+al. Characterization of atrial septal defect assessed by 
+real-time 3-dimensional echocardiography. J Am Soc 
+Echocardiogr 2006;19:815-21.
+14. Du ZD, Hijazi ZM, Kleinman CS, et al. Comparison 
+between transcatheter and surgical closure of secundum 
+atrial septal defect in children and adults: results of a 
+multicenter nonrandomized trial. J Am Coll Cardiol 
+2002;39:1836-44.
+15. Butera G, Biondi-Zoccai G, Sangiorgi G, et al. 
+Percutaneous versus surgical closure of secundum atrial 
+septal defects: a systematic review and meta-analysis of 
+currently available clinical evidence. EuroIntervention 
+2011;7:377-85.
+16. Roushdy A, El Sayegh A, Ali YA, et al. A novel three-
+dimensional echocardiographic method for device size 
+selection in patients undergoing ASD trans-catheter 
+closure. Egypt Heart J 2019;72:1.
+17. Maeno YV , Benson LN, McLaughlin PR, et al. Dynamic 
+morphology of the secundum atrial septal defect evaluated 
+by three dimensional transoesophageal echocardiography. 
+Heart 2000;83:673-7.
+18. Acar P , Saliba Z, Bonhoeffer P , et al. Influence of atrial 
+septal defect anatomy in patient selection and assessment 
+of closure with the Cardioseal device; a three-dimensional 
+transoesophageal echocardiographic reconstruction. Eur 
+[[p13]]
+Annals of Translational Medicine, Vol 9, No 16 August 2021 Page 13 of 13
+© AME Publishing Company.   Ann Transl Med 2021;9(16):1309 | https://dx.doi.org/10.21037/atm-21-3206
+Heart J 2000;21:573-81.
+19. Seo JS, Song JM, Kim YH, et al. Effect of atrial 
+septal defect shape evaluated using three-dimensional 
+transesophageal echocardiography on size measurements 
+for percutaneous closure. J Am Soc Echocardiogr 
+2012;25:1031-40.
+20. Hascoet S, Hadeed K, Marchal P , et al. The relation 
+between atrial septal defect shape, diameter, and area using 
+three-dimensional transoesophageal echocardiography and 
+balloon sizing during percutaneous closure in children. 
+Eur Heart J Cardiovasc Imaging 2015;16:747-55.
+21. Boon I, Vertongen K, Paelinck BP , et al. How to size ASDs 
+for percutaneous closure. Pediatr Cardiol 2018;39:168-75.
+(English Language Editors: G. Stone and J. Gray)
+Cite this article as: Deng B, Chen K, Huang T , Wei Y, Liu Y,  
+Yang L, Qiu Q, Zheng S, Lv H, Wang P , Nie R, Wang J. 
+Assessment of atrial septal defect using 2D or real-time 3D 
+transesophageal echocardiography and outcomes following 
+transcatheter closure. Ann T ransl Med 2021;9(16):1309. doi: 
+10.21037/atm-21-3206

@@ -1,0 +1,988 @@
+
+[[p1]]
+Citation: Machanahalli Balakrishna, A.;
+Dilsaver, D.B.; Aboeata, A.;
+Gowda, R.M.; Goldsweig, A.M.;
+Vallabhajosyula, S.; Anderson, J.H.;
+Simard, T.; Jhand, A. Infective
+Endocarditis Risk with Melody
+versus Sapien Valves Following
+Transcatheter Pulmonary Valve
+Implantation: A Systematic Review
+and Meta-Analysis of Prospective
+Cohort Studies. J. Clin. Med. 2023, 12,
+4886. https://doi.org/10.3390/
+jcm12154886
+Academic Editors: Teruhiko
+Imamura and Antonio Miceli
+Received: 20 April 2023
+Revised: 20 July 2023
+Accepted: 23 July 2023
+oY?QT?i?QOQR
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Journal of
+Clinical Medicine
+Article
+Infective Endocarditis Risk with Melody versus Sapien Valves
+Following Transcatheter Pulmonary Valve Implantation:
+A Systematic Review and Meta-Analysis of Prospective
+Cohort Studies
+Akshay Machanahalli Balakrishna 1,*
+ , Danielle B. Dilsaver 2
+ , Ahmed Aboeata 3, Ramesh M. Gowda 4,
+Andrew M. Goldsweig 5,6
+ , Saraschandra Vallabhajosyula 7
+ , Jason H. Anderson 8, Trevor Simard 8
+and Aravdeep Jhand 8
+1 Department of Internal Medicine, Creighton University School of Medicine, Omaha, NE 68124, USA
+2 Department of Medicine, Division of Clinical Research and Public Health,
+Creighton University School of Medicine, Omaha, NE 68124, USA
+3 Division of Cardiovascular Medicine, Department of Medicine, Creighton University School of Medicine,
+Omaha, NE 68124, USA
+4 Department of Interventional Cardiology , Icahn School of Medicine at Mount Sinai Morningside and Beth Israel,
+New York, NY 10029, USA
+5 Department of Cardiovascular Medicine, Baystate Medical Center, Springﬁeld, MA 01199, USA
+6 Division of Cardiovascular Medicine, University of Nebraska Medical Center, Omaha, NE 68105, USA
+7 Section of Cardiovascular Medicine, Department of Medicine, Wake Forest University School of Medicine,
+Winston-Salem, NC 27101, USA
+8 Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN 55905, USA
+* Correspondence: dr.akshaymb@gmail.com; Tel.: +1-402-398-6060
+Abstract: Background: Transcatheter pulmonary valve implantation (TPVI) is an effective non-
+surgical treatment method for patients with right ventricle outﬂow tract dysfunction. The Medtronic
+Melody and the Edwards Sapien are the two valves approved for use in TPVI. Since TPVI patients
+are typically younger, even a modest annual incidence of infective endocarditis (IE) is signiﬁcant.
+Several previous studies have shown a growing risk of IE after TPVI. There is uncertainty regarding
+the overall incidence of IE and differences in the risk of IE between the valves. Methods: A systematic
+search was conducted in the MEDLINE, EMBASE, PubMed, and Cochrane databases from inception
+to 1 January 2023 using the search terms ‘pulmonary valve implantation’, ‘TPVI’, or ‘PPVI’. The
+primary outcome was the pooled incidence of IE following TPVI in Melody and Sapien valves and
+the difference in incidence between Sapien and Melody valves. Fixed effect and random effect models
+were used depending on the valve. Meta-regression with random effects was conducted to test the
+difference in the incidence of IE between the two valves. Results: A total of 22 studies (including 10
+Melody valve studies, 8 Sapien valve studies, and 4 studies that included both valves (572 patients
+that used the Sapien valve and 1395 patients that used the Melody valve)) were used for the ﬁnal
+analysis. Zero IE incidence following TPVI was reported by eight studies (66.7%) that utilized Sapien
+valves compared to two studies (14.3%) that utilized Melody valves. The pooled incidence of IE
+following TPVI with Sapien valves was 2.1% (95% CI: 0.9% to 5.13%) compared to 8.5% (95% CI: 4.8%
+to 15.2%) following TPVI with Melody valves. Results of meta-regression indicated that the Sapien
+valve had a 79.6% (95% CI: 24.2% to 94.4%, p = 0.019; R2 = 34.4) lower risk of IE incidence compared
+to the Melody valve. Conclusions: The risk of IE following TPVI differs signiﬁcantly. A prudent
+valve choice in favor of Sapien valves to lower the risk of post-TPVI endocarditis may be beneﬁcial.
+Keywords: transcatheter pulmonary valve implantation; TPVI; PPVI; infective endocarditis;
+Sapien valve; Melody valve; meta-analysis
+J. Clin. Med. 2023, 12, 4886. https://doi.org/10.3390/jcm12154886 https://www.mdpi.com/journal/jcm
+[[p2]]
+J. Clin. Med. 2023, 12, 4886 2 of 15
+PM?h
+Transcatheter pulmonary valve implantation (TPVI) or percutaneous pulmonary valve
+implantation (PPVI), originally reported in the late 1990s, is a major advancement in the
+percutaneous management of congenital heart disease (CHD) [1]. Due to the poor long-
+term performance of the biological valve systems, most individuals with right ventricular
+outﬂow tract disease require numerous treatments or operations throughout their lives,
+which makes TPVI an attractive and less invasive substitute for reoperation of right ven-
+tricular outﬂow tract (RVOT) dysfunction in patients with CHD [ 2]. Initially, TPVI was
+only available to patients with a defective right ventricle-to-pulmonary artery conduit;
+however, it has since been made available to individuals with bioprostheses, small ex-
+pandable conduits, and native RVOTs [3,4]. The Edwards Sapien (Edwards Lifesciences,
+Irvine, CA, USA) and the Melody Medtronic (Medtronic Inc., Minneapolis, MN, USA)
+valves are the most commonly used transcutaneous pulmonary valve systems among the
+commercially available and approved valves for interventional TPVI in the United States
+Ge?PH?zTKU|M
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 2 of 16 
+ 
+ 
+Keywords: transcatheter pulmonary valve implantation; TPVI; PPVI; infective endocarditis; Sapien 
+valve; Melody valve; meta-analysis 
+ 
+PM?h?
+Transcatheter pulmonary valve implantation (TPVI) or percutaneous pulmonary 
+valve implantation (PPVI), originally reported in the late 1990s, is a major advancement 
+in the percutaneous management of congenital  heart disease (CHD) [1]. Due to the poor 
+long-term performance of the biological valve systems, most individuals with right ven-
+tricular outﬂow tract disease require numerous treatments or operations throughout their 
+lives, which makes TPVI an attractive and less invasive substitute for reoperation of right 
+ventricular outﬂow tract (RVOT) dysfunction in patients with CHD [2]. Initially, TPVI was 
+only available to patients with a defective right ventricle-to-pulmonary artery conduit; 
+however, it has since been made available to  individuals with bioprostheses, small ex-
+pandable conduits, and native RVOTs [3,4]. The Edwards Sapien (Edwards Lifesciences, 
+Irvine, CA, USA) and the Melody Medtronic (Medtronic Inc., Minneapolis, MN, USA) 
+valves are the most commonly used transcutaneous pulmonary valve systems among the 
+commercially available and approved valves for interventional TPVI in the United States 
+Ge?PH?zTKU|M?
+ 
+e?PM?h???ﬀ?l??r?M?n???YNNML
+tronic.com/us-en/healthcare-professionals/products/cardiovascular/transcatheter-pulmonary-
+valve/melody-ensemble-system/therapy-procedure.html (accessed on 19 July 2023) and 
+https://www.edwards.com/healthcare-professionals/products-services/transcatheter-
+heart/transcatheter-sapien-3-valve-pulmonic (accessed on 19 July 2023). 
+Although the optimal indications and timing of TPVI are unclear at this time [7–9], it 
+is commonly used in patients with CHD, such as in tetralogy of Fallot, pulmonary atresia, 
+truncus arteriosus, and following Ross or Rastelli surgery. Because of the underlying car-
+diac defects, prior surgeries, and the implanted valves, these patients are at a higher risk 
+of infective endocarditis (IE) and may require prophylactic antibiotics [10]. A history of 
+IE, immunodeﬁciency, a smaller conduit, and a residual valve gradient are the major es-
+tablished risk factors for IE [11,12]. It is uncertain if the risk of IE varies among di ﬀerent 
+e?PM?h???l??r?M?n??Y
+//www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/transcatheter-
+pulmonary-valve/melody-ensemble-system/therapy-procedure.html (accessed on 19 July 2023)
+and https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/
+transcatheter-sapien-3-valve-pulmonic (accessed on 19 July 2023).
+Although the optimal indications and timing of TPVI are unclear at this time [7–9], it
+is commonly used in patients with CHD, such as in tetralogy of Fallot, pulmonary atresia,
+truncus arteriosus, and following Ross or Rastelli surgery. Because of the underlying
+cardiac defects, prior surgeries, and the implanted valves, these patients are at a higher risk
+of infective endocarditis (IE) and may require prophylactic antibiotics [10]. A history of IE,
+immunodeﬁciency, a smaller conduit, and a residual valve gradient are the major estab-
+lished risk factors for IE [11,12]. It is uncertain if the risk of IE varies among different types
+of valves [11,13–18]. The study’s objectives were to ascertain the incidence of IE following
+TPVI and identify disparities, if any, between the two commonly used pulmonary valves.
+[[p3]]
+J. Clin. Med. 2023, 12, 4886 3 of 15
+2. Materials and Methods
+2.1. Data Sources and Search Strategies
+A systematic review of the published literature was conducted following the PRISMA
+(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines [ 19].
+A comprehensive search of the MEDLINE, EMBASE, PubMed, and Cochrane databases
+was conducted from inception to 1 January 2023 using relevant Medical Subject Headings
+and variations. The following search terms and keywords were used: “pulmonary valve
+implantation”, “TPVI”, or “PPVI”. An experienced librarian designed and carried out the
+search strategy with assistance from two authors (A.M.B. and A.A.). A complete export of
+the results was made to EndNote (Clarivate), where any evident duplicates were removed.
+Two reviewers independently screened each of the identiﬁed abstracts (A.M.B. and A.A.).
+Articles for qualitative and quantitative synthesis were included based on the consensus of
+the two reviewers. References from the included studies were examined to identify any
+other potential publications of interest. The senior author (A.J.) acted as the referee in cases
+of dispute. Because publicly accessible data were used, institutional review board approval
+was not sought.
+2.2. Study Selection, Data Extraction, and Quality Assessment
+Studies were included if they estimated the incidence of IE with TPVI when Melody
+and/or Sapien (Sapien, Sapien XT, or Sapien 3) valves were used. Prospective observational
+cohort, case–control, and randomized studies were considered for inclusion. Retrospective
+studies, systemic or narrative reviews, case reports, pediatric or animal studies, and those
+without data related to the outcomes of interest were excluded. Studies were also excluded
+if they reported using the valves of interest in the aortic, mitral, and tricuspid positions.
+To judge the methodologic quality of the retained records, the Newcastle–Ottawa Scale
+(NOS) quality score was applied to assess the quality of the non-randomized studies in the
+meta-analysis. (Supplemental Table S1).
+2.3. Study Outcomes
+The primary outcome was the pooled incidence of IE diagnosis following TPVI with
+both valves. Separate pooled incidences were provided by valve along with the difference
+in incidence between Sapien and Melody valves.
+2.4. Statistical Analysis
+The natural log link of study-speciﬁc IE incidences was used to obtain the pooled
+incidence of IE. Study-speciﬁc standard errors were based on the number of IE diagnoses
+following TPVI and study-speciﬁc sample sizes. Standard error was calculated as the square
+root of (1/k − 1/N), where k represents IE diagnoses andN represents sample size. To allow
+for calculation of log incidence and its standard error in studies reporting no incidence of
+IE diagnoses, a continuity correction was used. Although continuity corrections address
+concerns about excluding zero-event studies, their addition of pseudo-observations may
+bias conclusions in studies with small sample sizes [20]. Therefore, to minimize bias, we
+used a continuity correction of 0.001. Further, to evaluate any bias resulting from our use
+of this continuity correction, we conducted several sensitivity analyses that included a
+continuity correction of 0.5, the exclusion of zero-event studies, as well as estimation of
+random-effect Poisson and binomial regression models that allow for zero-event studies.
+For primary analysis, heterogeneity among studies was quantiﬁed by I2; low, moderate,
+and high heterogeneity were deﬁned at thresholds of 25%, 50%, and 75%, respectively.
+A ﬁxed-effect model with inverse variance estimation was used for low heterogeneity.
+For moderate or high heterogeneity, a random-effects model with restricted maximum
+likelihood estimation was used. Results are reported using forest plots with inverse-linked
+log incidence to allow for reporting on the incidence scale. Small-study bias is shown
+via funnel plots. Meta-regression was conducted to evaluate the difference in incidence
+between Sapien and Melody valves. To account for differences in the length of follow-up
+[[p4]]
+J. Clin. Med. 2023, 12, 4886 4 of 15
+between Sapien and Melody valves, meta-regression was performed using the length of
+follow-up as a covariate. The proportion of between-study heterogeneity explained by
+Sapien vs. Melody valves was quantiﬁed using R2. For the sensitivity analyses, between-
+study heterogeneity was quantiﬁed via I 2 as well as random intercept variance. Model
+comparison was used to evaluate statistically signiﬁcant heterogeneity using the likelihood
+ratio test. Statistical signiﬁcance was indicated by p < 0.05.
+Primary meta-analysis was conducted with the meta package in Stata v. 17.0. Sec-
+ondary sensitivity analysis was conducted using SAS v. 9.4.
+3. Results
+3.1. Search Results
+From a total of 2326 records that were identiﬁed in the literature search, 22 prospec-
+tive observational studies (including 10 Melody valve studies, 8 Sapien valve studies,
+and 4 studies that included both valves (572 patients that used the Sapien valve and
+1395 patients that used the Melody valve)) met the criteria for inclusion in the systematic
+review and meta-analysis [11,13,21–40] (Figure 2). Characteristics of all the included studies
+???s?PM
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 6 of 16 
+ 
+ 
+Rużyłło et al. 
+[30] 2020 Poland 
+Prospective, 
+observationa
+l study, 
+multi-arm 
+2008 to 
+2019 49 
+Melody 
+and 
+Sapien 
+6 35 - - 66 months 
+Houeijeh et 
+al. [31] 2023 France 
+Prospective, 
+observationa
+l study, 
+multi-arm 
+2008 to 
+2020 32 
+Melody 
+and 
+Sapien 
+12 - SX = 17 - 2.8 years 
+Note: Abbreviations—ABX: antibiotics only; D: Death; HACEK: Haemophilus species, Aggregati-
+bacter species, Cardiobacterium hominis, Eikenella corrodens, and Kingella species; IE: infective 
+endocarditis; SX: surgery; TI: transcatheter interventions (redo transcatheter pulmonary valve im-
+plantation or transcatheter pulmonary valve explantation). 
+ 
+Figure 2. PRISMA ﬂow showing the selection process of studies [11,13,21–40]. 
+Figure 2. PRISMA ﬂow showing the selection process of studies [11,13,21–40].
+[[p5]]
+J. Clin. Med. 2023, 12, 4886 5 of 15
+s?PM?r?????M
+Study Year Region/
+Country Study Design Enrollment
+Period
+Number
+of
+Patients
+Types of
+Valve
+Used
+Events
+Time to
+IE
+(Months)
+Management
+and
+In-Hospital
+Outcome
+Microorganism Follow-Up
+Duration
+Eicken et al.
+[32] 2011 Germany
+Prospective,
+observational
+study,
+single-arm
+2006 to
+2010 102 Melody 1 6 SX = 1 Staphylococcus
+aureus = 1 12 months
+Pilati et al.
+[23] 2011 Italy
+Prospective,
+observational
+study,
+single-arm
+2010 to
+2011 7 Sapien 0 - - - 3 months
+Butera et al.
+[33] 2013 Italy
+Prospective,
+observational
+study,
+single-arm
+2007 to
+2010 61 Melody 2 5 SX = 2 Staphylococcus
+aureus = 2 30 months
+Haas et al.
+[22] 2013 Germany
+Prospective,
+observational
+study,
+single-arm
+2007 to
+2010 22 Sapien 0 - - - 6 months
+McElhinney
+et al. [11] 2013 USA
+Prospective,
+observational
+study,
+single-arm
+2007 to
+2009 311 Melody 16 16
+ABX = 8,
+TI = 2,
+SX = 4,
+D = 2
+Staphylococcus
+aureus = 5,
+other Staphy-
+lococcus = 5,
+Streptococcus
+= 6, other
+gram-
+negative
+bacteria = 1
+24 months
+Odemis
+et al. [24] 2013 Turkey
+Prospective,
+observational
+study,
+single-arm
+2007 to
+2010 14 Sapien 0 - - - 30 months
+Armstrong
+et al. [34] 2014 USA
+Prospective,
+observational
+study,
+single-arm
+2007 to
+2010 100 Melody 3 3 ABX = 2,
+SX = 1
+Staphylococcus
+aureus = 2,
+other gram-
+negative
+bacteria = 1
+12 months
+Demkow
+et al. [25] 2014 Poland
+Prospective,
+observational
+study,
+single-arm
+2011 to
+2012 10 Sapien 0 - - - 2 months
+Fiszer et al.
+[35] 2014 Poland
+Prospective,
+observational
+study,
+single-arm
+2009 to
+2016 44 Melody 0 - - - 35 months
+Fraisse et al.
+[36] 2014 France
+Prospective,
+observational
+study,
+single-arm
+2008 to
+2010 64 Melody 4 26 SX = 3,
+D = 2
+Other Staphy-
+lococcus = 2,
+Streptococ-
+cus = 1
+54 months
+Biernacka
+et al. [26] 2015 Poland
+Prospective,
+observational
+study,
+multi-arm
+2008 to
+2012 26
+Melody
+and
+Sapien
+4 - SX = 4,
+D = 1 - 20 months
+Borik et al.
+[37] 2015 Canada
+Prospective,
+observational
+study,
+single-arm
+2005 to
+2011 51 Melody 1 60 SX = 1
+Other gram-
+positive
+bacteria = 1
+54 months
+Cheatham
+et al. [38] 2015 USA
+Prospective,
+observational
+study,
+single-arm
+2007 to
+2014 150 Melody 14 - ABX = 6,
+TI = 8, D = 1 - 54 months
+Bensemlali
+et al. [39] 2017 France
+Prospective,
+observational
+study,
+single-arm
+2000 to
+2015 11 Melody 3 - ABX = 1,
+SX = 2 - 46 months
+Haas et al.
+[13] 2018 Germany
+Prospective,
+observational
+study,
+single-arm
+2000 to
+2015 46 Sapien 0 - - - 60 months
+[[p6]]
+J. Clin. Med. 2023, 12, 4886 6 of 15
+s?PM?bM
+Study Year Region/
+Country Study Design Enrollment
+Period
+Number
+of
+Patients
+Types of
+Valve
+Used
+Events
+Time to
+IE
+(Months)
+Management
+and
+In-Hospital
+Outcome
+Microorganism Follow-Up
+Duration
+Kenny et al.
+[27] 2018 USA
+Prospective,
+observational
+study,
+single-arm
+2008 to
+2014 79 Sapien 3 2 ABX = 3
+Other Staphy-
+lococcus = 2,
+HACEK = 1
+36 months
+Malekzadeh-
+Milani
+et al. [40]
+2018 France
+Prospective,
+observational
+study,
+single-arm
+2008 to
+2016 365 Melody 43 31
+ABX = 27,
+TI = 7,
+SX = 6,
+D = 3
+Other Staphy-
+lococcus = 7,
+Staphylococ-
+cus
+aureus = 12,
+Streptococcus
+= 16, GP = 5,
+GN = 4
+43 months
+Oechslin
+et al. [28] 2018 Switzerland
+Prospective,
+observational
+study, multi-
+arm
+2008 to
+2016 29
+Melody
+and
+Sapien
+0 - - - 43 months
+Plessis et al.
+[29] 2018 France
+Prospective,
+observational
+study,
+single-arm
+2011 to
+2017 71 Sapien 1 - SX = 1 - 12 months
+Hascoet
+et al. [21] 2019 France
+Prospective,
+observational
+study,
+single-arm
+2016 to
+2018 82 Sapien 0 - - - 17 months
+Ru˙zyłło
+et al. [30] 2020 Poland
+Prospective,
+observational
+study,
+multi-arm
+2008 to
+2019 49
+Melody
+and
+Sapien
+6 35 - - 66 months
+Houeijeh
+et al. [31] 2023 France
+Prospective,
+observational
+study,
+multi-arm
+2008 to
+2020 32
+Melody
+and
+Sapien
+12 - SX = 17 - 2.8 years
+Note: Abbreviations—ABX: antibiotics only; D: Death; HACEK: Haemophilus species, Aggregatibacter species,
+Cardiobacterium hominis, Eikenella corrodens, and Kingella species; IE: infective endocarditis; SX: surgery;
+TI: transcatheter interventions (redo transcatheter pulmonary valve implantation or transcatheter pulmonary
+valve explantation).
+The methodological quality of studies was assessed using the NOS for observational
+studies (Supplementary Table S1). Upon qualitative assessment, all the studies were of
+high quality, with NOS scores of 8–9. No indication of small-study bias was observed in
+the funnel plots (Figures 3 and 4).
+3.2. Incidence of IE Following TPVI
+For the Melody valve, diagnosis of IE following TPVI was reported in 14 studies;
+109 of 1395 patients received an IE diagnosis. In two studies (14.3%), zero patients were
+diagnosed with IE. The pooled incidence of IE diagnosis following TPVI was 8.5% with
+signiﬁcant study heterogeneity (95% CI: 4.8% to 15.2%, p < 0.001, I2 = 83.1%; Figure 3).
+For the Sapien valve, diagnosis of IE following TPVI was reported in 12 studies; 6 of
+572 patients received an IE diagnosis. In eight studies (66.7%), zero patients were diagnosed
+with IE. The pooled incidence of IE diagnosis following TPVI was 2.1% with low study
+heterogeneity (95% CI: 0.9% to 5.1%, p < 0.99, I2 = 0.0%; Figure 4).
+The meta-regression indicated that the Sapien valve had a 79.6% lower incidence of
+IE compared to the Melody valve (95% CI: 24.2% lower to 94.4% lower, p = 0.019), with
+valve type explaining 34% of study heterogeneity. Notably, length of follow-up was not
+signiﬁcantly associated with the incidence of IE (RR: 1.02, 95% CI: 0.98 to 1.05, p = 0.306,
+R2 = 0.0%); as such, after controlling for length of follow-up, the Sapien valve retained a
+78.8% lower adjusted incidence of IE compared to the Melody valve (95% CI: 21.7% lower
+to 94.2% lower, p = 0.022, R2 = 33.3%).
+[[p7]]
+J. Clin. Med. 2023, 12, 4886 7 of 15
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 7 of 16 
+ 
+ 
+The methodological quality of studies was assessed using the NOS for observational 
+studies (Supplementary Table S1). Upon qua litative assessment, all the studies were of 
+high quality, with NOS scores of 8–9. No indi cation of small-study bias was observed in 
+the funnel plots (Figures 3 and 4). 
+ 
+Figure 3. Forest plot ( top) and funnel plot ( bottom) of the incidence of endocarditis after Melody 
+pulmonary valve implantation [11,26,28,30–40]. 
+Figure 3. Forest plot (top) and funnel plot (bottom) of the incidence of endocarditis after Melody
+pulmonary valve implantation [11,26,28,30–40].
+[[p8]]
+J. Clin. Med. 2023, 12, 4886 8 of 15
+J. Clin. Med. 2023, 12, x FOR PEER REVIEW 8 of 16 
+ 
+ 
+ 
+Figure 4. Forest plot ( top) and funnel plot ( bottom) of the incidence of endocarditis after Sapien 
+pulmonary valve implantation [13,21–31]. 
+3.2. Incidence of IE Following TPVI 
+For the Melody valve, diagnosis of IE following TPVI was reported in 14 studies; 109 
+of 1395 patients received an IE diagnosis. In two studies (14.3%), zero patients were diag-
+nosed with IE. The pooled incidence of IE diagnosis following TPVI was 8.5% with signif-
+icant study heterogeneity (95% CI: 4.8% to 15.2%, p < 0.001, I2 = 83.1%; Figure 3). 
+For the Sapien valve, diagnosis of IE following TPVI was reported in 12 studies; 6 of 
+572 patients received an IE diagnosis. In ei ght studies (66.7%), zero patients were diag-
+nosed with IE. The pooled incidence of IE diagnosis following TPVI was 2.1% with low 
+study heterogeneity (95% CI: 0.9% to 5.1%, p < 0.99, I2 = 0.0%; Figure 4). 
+The meta-regression indicated that the Sapi en valve had a 79.6% lower incidence of 
+IE compared to the Melody valve (95% CI: 24.2% lower to 94.4% lower, p = 0.019), with 
+Figure 4. Forest plot (top) and funnel plot ( bottom) of the incidence of endocarditis after Sapien
+pulmonary valve implantation [13,21–31].
+[[p9]]
+J. Clin. Med. 2023, 12, 4886 9 of 15
+3.3. Sensitivity Analysis
+Meta-analyses that include zero-event studies pose a statistical challenge, with tra-
+ditional practice generally using a continuity correction or excluding zero-event stud-
+ies [19,41,42]. However, this practice may bias estimates and impact practical conclu-
+sions [43,44]. Recent methodology suggests that Poisson, negative binomial, or binomial
+regression models may better estimate the aggregate effect in meta-analysis with zero-event
+studies [43,45–48]. As shown in Table 2, each method estimated similar pooled incidences
+across Sapien and Melody valves with inferences identical to those reported above for the
+primary analysis.
+Table 2. Sensitivity analysis: incidence of IE diagnosis stratified by method to address zero-event studies.
+Method
+Sapien Melody Incidence in Sapien vs. Melody
+Incidence
+(95% CI) [%]
+Incidence
+(95% CI) [%]
+Risk Ratio
+(95% CI) p
+Primary Analysis 2.1 (0.9, 5.1) 8.5 (4.8, 15.2) 0.21 (0.06, 0.76) 0.019
+Sensitivity Analysis
+0.5 Continuity Correction 2.6 (1.3, 5.2) 7.7 (4.3, 1.4) 0.32 (0.12, 0.82) 0.020
+Exclusion of Zero-Event Studies 2.1 (0.6, 7.7) 8.5 (4.7, 15.4) 0.21 (0.05, 0.81) 0.026
+Poisson Regression 0.4 (0.1, 2.2) 7.2 (2.8, 18.2) 0.06 (0.01, 0.30) 0.011
+Binomial Regression 0.4 (0.1, 2.0) 7.3 (2.8, 18.8) 0.05 (0.01, 0.26) 0.010
+Note: Melody is used as the reference valve. Hand calculation of relative risk reduction may vary from that
+presented due to rounding and the use of ﬁxed vs. random-effects estimation. Meta-analysis of the Sapien
+valve used ﬁxed-effects estimation, and meta-analysis of the Melody valve used random-effects estimation.
+Meta-regression used a random-effects model to account for between-study heterogeneity. Poisson regression
+with random intercept variance ﬁt the data better compared to its ﬁxed-effect variant ( p < 0.001). Negative
+binomial regression was not necessary as it did not ﬁt the data signiﬁcantly better compared to Poisson regression.
+Binomial regression with random intercept variance better ﬁt the data compared to binomial regression with ﬁxed
+effects (p < 0.001).
+3.4. IE Treatment Characteristics
+Following Melody valve implantation, the use of antibiotics was adequate for treat-
+ment in 45% of IE patients. Surgical explantation was necessary in 33% of cases, and
+transcatheter pulmonary valve intervention (redoing TPVI or transcatheter pulmonary
+valve explantation) was necessary in 14% of cases. About 8% of the patients with IE involv-
+ing Melody valves died. There were just four instances where data are presented about the
+Sapien valves. In these IE patients who received Sapien valve implantation, the majority
+(75%) were treated with antibiotics, indicating a mild level of severity.
+The microbial data showed Staphylococcus aureus was the most common pathogen
+involved. A total of 82 (78 Melody valve cases and 4 Sapien valve cases) occurrences
+mentioned the bacteria that caused them. Staphylococci were the cause of the majority
+(45%) of IE cases following Melody implantation. Among these, 20 (26%) involved S. aureus.
+A total of 24 (32%) of these cases were because of streptococci. Following Sapien valve
+implantation, staphylococci were the cause of majority (75%) of IE cases, of which 25% of
+the cases were due to Staphylococcus aureus. Patient and microbiological characteristics
+are presented in Table 3.
+Table 3. Patient characteristics and microbiological data.
+Melody Sapien
+Number of patients 1395 572
+Mean age 20 ± 7 23 ± 6
+Mean follow-up 33 ± 23 months 22 ± 18 months
+IE events (cumulative incidence) 109 (7.8%) 6 (1%)
+[[p10]]
+J. Clin. Med. 2023, 12, 4886 10 of 15
+Table 3. Cont.
+Melody Sapien
+Time to IE 21 ± 18 months 2 ± 1 months
+Management n = 105 n = 4
+Only antibiotic treatment 45% 75%
+Explantation by surgery 33% 25%
+Transcatheter pulmonary valve interventions
+(redoing TPV implantation or TPV explantation) 14% –
+In-hospital outcomes n = 105 n = 4
+Death 8% –
+Microbiological data n = 78 n = 4
+Staphylococcus aureus 26% 25%
+Other staphylococci 19% 50%
+Streptococcus 32% –
+Other gram-positive bacteria 10% –
+Other gram-negative bacteria 6% –
+HACEK 7% 25%
+HACEK: Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, and Kingella; IE: infective endocarditis;
+TPV: transcatheter pulmonary valve.
+4. Discussion
+The major ﬁnding of our systematic review and meta-analysis was that IE following
+TPVI was less prevalent with Sapien valves (pooled IE incidence of 2.1%) than after the
+implantation of a Melody valve (pooled IE incidence of 8.5%).
+The pooled incidence of 8.5% with Melody valves noted in our study is comparable
+to that reported in the most recent studies. The higher incidence of IE seen with Melody
+valves compared to Sapien valves can be problematic to explain given that both valve
+systems use the same implantation methodologies and similar biological valve elements.
+However, there are some differences; the Sapien valve leaﬂets are made from bovine
+pericardium and are handled with a unique descaling and denaturing procedure that
+involves glutaraldehyde ﬁxation to produce stable, durable, and biologically inert tissue
+that is suitable for implantation, in contrast to the Melody valve which is taken from
+a cow’s vein and then preserved without any processing [ 49]. The technique used for
+treating and preserving the Sapien valve may theoretically make it less likely for bacteria
+to invade it. Another possible explanation can be due to different blood ﬂow patterns
+that have been seen to contribute to IE [40]. The Sapien valves’ larger diameters have led
+to speculation that there may be lower turbulence and, consequently, a reduced risk of
+thrombosis. Prior studies have shown an increasing gradient across the Melody valve,
+which can be caused by the thrombotic material inside the valves along with extensive
+granulocytic inﬁltrations [13,50,51].
+Our ﬁndings are in accordance with prior studies by van Dijk et al. and Haas et al.,
+who reported a higher risk of IE with bovine jugular valves (the Melody valve and Conte-
+gra graft) compared to other biological pulmonary valve substrates such as homografts
+and Sapien valves [13,15]. Similar ﬁndings were published by Mery et al., who showed
+that patients treated with Melody valves and Contegra grafts had a considerably higher
+incidence of late endocarditis than those treated with other valved conduits [52].
+Furthermore, in an in vitro comparison of the bacterial adherence of Staphylococcus
+aureus and Streptococcus sanguinis strains to the biological substrates of the Sapien valve
+and the Melody valve, a substantial difference favoring the Sapien valve material was
+[[p11]]
+J. Clin. Med. 2023, 12, 4886 11 of 15
+observed in a study by Jalal et al. [ 53]. They were able to show that bacterial adhesion
+was higher in control groups for S. aureus on the bovine jugular venous wall and also
+higher for S. sanguinis on the Melody valve leaﬂets. Additionally, adhesion was also
+signiﬁcantly higher for both bacteria in traumatized Melody valve leaﬂets, suggesting
+that the Melody valve’s biological component is more susceptible to IE than other types
+of valve substrates. These in vitro results are consistent with those seen in our study,
+where we found a signiﬁcant prevalence of blood cultures positive for staphylococci and
+streptococci among the included studies. Similar results were reported by Veloso et al. [54].
+It is important to note that although many prior studies have shown sparse incidence of
+endocarditis with Sapien valves, the Sapien valve group had a shorter follow-up period and
+smaller patient numbers in many of the included studies [13,22,24–27,49,55–57]. Finally, our
+study’s ﬁndings are consistent with the most recent studies published by Ru˙zyłło et al. [30]
+and Houeijeh et al. [31], who were able to show that patients that only received Melody
+valve implantations had a higher incidence of IE compared to those receiving Sapien valves.
+Since it was first introduced, the Melody valve’s design has remained unchanged [58,59].
+The Sapien valves have altered their external design according to the needs of the aortic
+valve market; however, the biological components were constant [ 58,59]. Initially, the
+Sapien valve was ﬁrst released onto the market, followed by the Sapien XT with modiﬁed
+stent material and, ultimately, the Sapien X3 valve with a further modiﬁed stent design
+and exterior design. For pulmonary use, the Sapien and Sapien XT are currently approved.
+Sapien 3 is being utilized off-label for TPVI on a growing scale [58,59].
+Multiple studies have demonstrated the post-interventional residual RVOT gradient
+to be a major determinant of long-term outcomes, including the risk of IE [ 9,60]. While
+data regarding the type of valves presenting risk factors for IE have been mixed, the major-
+ity of studies [13,16,17,26], including a large retrospective study published recently [61],
+have shown valve type as a possible risk factor for IE. Multiple published reviews and
+studies have shown an increasing number of IE events with Melody valves [13,16,17,26].
+Additionally, most of the recent studies have clearly shown a trend favoring Sapien valves
+regarding the incidence of IE [13,16,17,26]. The residual RV-to-PA pressure gradient at the
+time of TPVI was one possible contributing factor to the elevated risk of IE for the Melody
+valve [11,62].
+Limitations
+Our study has several limitations that warrant discussion. The data analyzed are
+from observational studies and single-arm studies, not randomized controlled trials. Only
+four multi-arm studies were identiﬁed during the literature search [26,28,30,31]. There is
+intrinsic heterogeneity between different studies in terms of the representation of baseline
+data, study design, and outcome measures. Although some of the studies included in
+this meta-analysis were matched according to baseline features, the other studies had
+signiﬁcant differences in patient baseline characteristics between the two cohorts. There is
+also the possibility of publication bias among the outcomes where signiﬁcant heterogeneity
+was observed [63–66]. We were unable to assess true publication bias as we do not have
+access to non-published studies. The major shortcoming of this study is that annualized
+IE incidence, as reported in prior studies, could not be calculated due to inaccessible
+patient-level data. While there is a signiﬁcant difference in follow-up duration between
+the two valves, with longer follow-up for the Melody valve compared to the Sapien valve,
+this was addressed by controlling for follow-up in the meta-regression analysis, which
+showed that length of follow-up was not signiﬁcantly associated with the incidence of IE.
+The dimensions of the RVOT determined which valve to use [30]. Melody valves, with a
+maximum available valve size of 22 mm, were implanted in patients with a narrow RVOT,
+whereas Sapien valves were chosen for patients with a large RVOT (landing zone of more
+than 22 mm) [ 30]. Smaller stenotic RVOTs result in higher RVOT gradients, especially
+when younger patients grow up, which can further affect the long-term outcomes [ 30].
+Although the study reveals conclusive evidence that a rise in IE cases is linked to Melody
+[[p12]]
+J. Clin. Med. 2023, 12, 4886 12 of 15
+valves, the claim is still dependent on diverse observational studies with occasionally
+very small sample sizes and zero-event studies. This limitation has been addressed in
+the sensitivity analysis. Therefore, even while the IE difference between the Sapien and
+Melody valves is statistically signiﬁcant and represents clinically meaningful ﬁndings, the
+results of the meta-analysis are still insufﬁcient to assess all safety-related topics. Multi-arm
+trials would be required to obtain a distinct picture of the efﬁciency and side effects of the
+two valves. Lastly, since only aggregate data (and not patient-level data) were used in
+this meta-analysis, it is subject to similar selection and confounding biases as the included
+studies themselves.
+5. Conclusions
+Considering the information provided by the present study, it appears that the Sapien
+valve may have a lower incidence of IE compared to the Melody valve when used for TPVI.
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/jcm12154886/s1, Table S1: The Newcastle-Ottawa scale assessing
+the quality of included studies.
+Author Contributions: Conceptualization, A.M.B., A.M.G., S.V . and A.J.; Methodology, A.M.B.;
+Validation, J.H.A. and T.S.; Formal analysis, D.B.D.; Investigation, A.M.B. and D.B.D.; Data curation,
+A.M.B., D.B.D. and A.A.; Writing—original draft, A.M.B., J.H.A. and T.S.; Writing—review & editing,
+A.A., R.M.G., J.H.A., T.S. and A.J.; Visualization, A.A., R.M.G., J.H.A., T.S. and A.J.; Supervision, A.A.,
+R.M.G., J.H.A. and A.J. All authors have read and agreed to the published version of the manuscript.
+Funding: This research did not receive any speciﬁc grant from funding agencies in the public,
+commercial, or not-for-proﬁt sectors.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The data supporting this article are sourced from the public domain
+and are available in the articles cited throughout.
+Conﬂicts of Interest: The authors report no conﬂict of interest to declare.
+Abbreviations
+CI conﬁdence intervals
+CHD congenital heart disease
+IE infective endocarditis
+NOS Newcastle–Ottawa Scale
+PRISMA Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+PPVI percutaneous pulmonary valve implantation
+RR relative risk
+RVOT right ventricular outﬂow tract
+TPVI transcatheter pulmonary valve implantation
+References
+PM?aK?o?MZ?aK?xMZ?rK?yMZ?lK?iMZ?`K?xMZ?aK?cMZ?`K?o?MZ?k?aK?iMZ?rK?cMZ?jK?iM
+Percutaneous replacement of pulmonary valve in a right-ventricle to pulmonary-artery prosthetic conduit with valve dysfunction.
+Lancet 2000, 356, 1403–1405. [CrossRef] [PubMed]
+2. Boudjemline, Y.; Agnoletti, G.; Bonnet, D.; Sidi, D.; Bonhoeffer, P . Percutaneous pulmonary valve replacement in a large right
+ventricular outﬂow tract: An experimental study. J. Am. Coll. Cardiol. 2004, 43, 1082–1087. [CrossRef] [PubMed]
+3. Malekzadeh-Milani, S.; Ladouceur, M.; Cohen, S.; Iserin, L.; Boudjemline, Y. Results of transcatheter pulmonary valvulation in
+native or patched right ventricular outﬂow tracts. Arch. Cardiovasc. Dis. 2014, 107, 592–598. [CrossRef] [PubMed]
+4. Hascoet, S.; Martins, J.D.; Baho, H.; Kadirova, S.; Pinto, F.; Paoli, F.; Bitar, F.; abu Haweleh, A.; Uebing, A.; Acar, P .; et al.
+Percutaneous pulmonary valve implantation in small conduits: A multicenter experience. Int. J. Cardiol. 2018, 254, 64–68.
+[CrossRef] [PubMed]
+[[p13]]
+J. Clin. Med. 2023, 12, 4886 13 of 15
+5. Medtronic. Melody Transcatheter Pulmonary Valve. Media Kits. 2016. Available online: https://www.medtronic.com/uk-en/
+about/news/media-resources/media-kits/melody-transcatheter-pulmonary-valve.html (accessed on 11 January 2023).
+6. Edwards Lifesciences. Transcatheter Heart Valves. 2018. Available online: https://www.edwards.com/devices/heart-valves/
+transcatheter-sapien-xt-valve-pulmonic (accessed on 11 January 2023).
+7. Baumgartner, H.; De Backer, J.; Babu-Narayan, S.V .; Budts, W.; Chessa, M.; Diller, G.-P .; Lung, B.; Kluin, J.; Lang, I.M.; Meijboom, F.;
+et al. 2020 ESC Guidelines for the management of adult congenital heart disease. Eur. Heart J. 2021, 42, 563–645. [CrossRef]
+[PubMed]
+8. Mongeon, F.-P .; Ben Ali, W.; Khairy, P .; Bouhout, I.; Therrien, J.; Wald, R.M.; Dallaire, F.; Bernier, P .-L.; Poirier, N.; Dore, A.; et al.
+Pulmonary Valve Replacement for Pulmonary Regurgitation in Adults with Tetralogy of Fallot: A Meta-analysis—A Report for
+the Writing Committee of the 2019 Update of the Canadian Cardiovascular Society Guidelines for the Management of Adults
+with Congenital Heart Disease. Can. J. Cardiol. 2019, 35, 1772–1783. [CrossRef] [PubMed]
+9. Stout, K.K.; Daniels, C.J.; Aboulhosn, J.A.; Bozkurt, B.; Broberg, C.S.; Colman, J.M.; Crumb, S.R.; Dearani, J.A.; Fuller, S.;
+Gurvitz, M.; et al. 2018 AHA/ACC Guideline for the Management of Adults with Congenital Heart Disease: Executive Summary:
+A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J. Am.
+Coll. Cardiol. 2019, 73, 1494–1563, Correction in J. Am. Coll. Cardiol. 2019, 73, 2361. [CrossRef]
+10. Knirsch, W.; Mackenzie, C.R.; Schäfers, H.J.; Baumgartner, H.; Kramer, H.H. Infective endocarditis in childhood and adolescence.
+In The German Society of Paediatric Cardiology (DGPK) Guidelines for the Management of Congenital Heart Diseases in Childhood and
+Adolescence; Weil, J., Ed.; Cambridge University Press: Cambridge, UK, 2017; pp. 81–84.
+11. McElhinney, D.B.; Zhang, Y.; Aboulhosn, J.A.; Morray, B.H.; Biernacka, E.K.; Qureshi, A.M.; Torres, A.J.; Shahanavaz, S.;
+Goldstein, B.H.; Cabalka, A.K.; et al. Multicenter Study of Endocarditis After Transcatheter Pulmonary Valve Replacement. J. Am.
+Coll. Cardiol. 2021, 78, 575–589. [CrossRef]
+12. Sadeghi, S.; Wadia, S.; Lluri, G.; Tarabay, J.; Fernando, A.; Salem, M.; Sinha, S.; Levi, D.S.; Aboulhosn, J. Risk factors for infective
+endocarditis following transcatheter pulmonary valve replacement in patients with congenital heart disease. Catheter. Cardiovasc.
+Interv. 2019, 94, 625–635. [CrossRef]
+13. Haas, N.A.; Bach, S.; Vcasna, R.; Laser, K.T.; Sandica, E.; Blanz, U.; Jakob, A.; Dietl, M.; Fischer, M.; Kanaan, M.; et al. The risk of
+bacterial endocarditis after percutaneous and surgical biological pulmonary valve implantation. Int. J. Cardiol. 2018, 268, 55–60.
+[CrossRef]
+14. Bos, D.; De Wolf, D.; Cools, B.; Eyskens, B.; Hubrechts, J.; Boshoff, D.; Louw, J.; Frerich, S.; Ditkowski, B.; Rega, F.; et al. Infective
+endocarditis in patients after percutaneous pulmonary valve implantation with the stent-mounted bovine jugular vein valve:
+Clinical experience and evaluation of the modiﬁed Duke criteria. Int. J. Cardiol. 2021, 323, 40–46. [CrossRef] [PubMed]
+15. Van Dijck, I.; Budts, W.; Cools, B.; Eyskens, B.; Boshoff, D.E.; Heying, R.; Frerich, S.; Vanagt, W.Y.; Troost, E.; Gewillig, M. Infective
+endocarditis of a transcatheter pulmonary valve in comparison with surgical implants. Heart 2015, 101, 788–793. [CrossRef]
+[PubMed]
+16. Hascoet, S.; Mauri, L.; Claude, C.; Fournier, E.; Lourtet, J.; Riou, J.-Y.; Brenot, P .; Petit, J. Infective Endocarditis Risk after
+Percutaneous Pulmonary Valve Implantation with the Melody and Sapien Valves. JACC Cardiovasc. Interv. 2017, 10, 510–517.
+[CrossRef] [PubMed]
+17. Lehner, A.; Haas, N.A.; Dietl, M.; Jakob, A.; Schulze-Neick, I.; Pozza, R.D.; Rodriguez, S.F.; Fischer, M. The risk of infective
+endocarditis following interventional pulmonary valve implantation: A meta-analysis. J. Cardiol. 2019, 74, 197–205. [CrossRef]
+[PubMed]
+18. Abdelghani, M.; Nassif, M.; Blom, N.A.; Van Mourik, M.S.; Straver, B.; Koolbergen, D.R.; Kluin, J.; Tijssen, J.G.; Mulder, B.J.M.;
+Bouma, B.J.; et al. Infective Endocarditis After Melody Valve Implantation in the Pulmonary Position: A Systematic Review.
+J. Am. Heart Assoc. 2018, 7, e008163. [CrossRef]
+19. Hutton, B.; Salanti, G.; Caldwell, D.M.; Chaimani, A.; Schmid, C.H.; Cameron, C.; Ioannidis, J.P .A.; Straus, S.; Thorlund, K.;
+Jansen, J.P .; et al. The PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of
+health care interventions: Checklist and explanations. Ann. Intern. Med. 2015, 162, 777–784. [CrossRef]
+20. Xu, C.; Zhou, X.; Zorzela, L.; Ju, K.; Furuya-Kanamori, L.; Lin, L.; Lu, C.; Musa, O.A.H.; Vohra, S. Utilization of the evidence from
+studies with no events in meta-analyses of adverse events: An empirical investigation. BMC Med. 2021, 19, 141. [CrossRef]
+21. Hascoet, S.; Pozza, R.D.; Bentham, J.; Carere, R.G.; Kanaan, M.; Ewert, P .; Biernacka, E.K.; Kretschmar, O.; Deutsch, C.; Lecerf, F.;
+et al. Early outcomes of percutaneous pulmonary valve implantation using the Edwards SAPIEN 3 transcatheter heart valve
+system. Eurointervention 2019, 14, 1378–1385. [CrossRef]
+22. Haas, N.A.; Moysich, A.; Neudorf, U.; Mortezaeian, H.; Abdel-Wahab, M.; Schneider, H.; De Wolf, D.; Petit, J.; Narayanswami, S.;
+Laser, K.T.; et al. Percutaneous implantation of the Edwards SAPIEN™ pulmonic valve: Initial results in the ﬁrst 22 patients.
+Clin. Res. Cardiol. 2013, 102, 119–128. [CrossRef]
+23. Pilati, M.; Gagliardi, M.G.; Guccione, P .; Pongiglione, G. Infective Endocarditis Risk after Percutaneous Pulmonary Valve Implan-
+tation with the Melody and Sapien Valves. Transcatheter Pulmonary Valve Implantation Using the Edwards Sapien Transcatheter
+Heart Valve: Experience from a Single Centre. Giornale Italiano di Cardiologia. In Proceedings of the Conference: 41st Congresso
+Nazionale della Societa Italiana di Cardiologia Pediatrica Congiunto con la Sezione Pediatrica e delle Cardiopatie Congenite della
+Societa Italiana di Chirurgia Cardiaca. 2011; Volume 12, p. 10S. Available online: https://www.giornaledicardiologia.it/#current
+(accessed on 19 July 2023).
+[[p14]]
+J. Clin. Med. 2023, 12, 4886 14 of 15
+24. Odemis, E.; Guzeltas, A.; Saygi, M.; Ozyilmaz, I.; Momenah, T.; Bakir, I. Percutaneous pulmonary valve implantation using Ed-
+wards SAPIEN transcatheter heart valve in different types of conduits: Initial results of a single center experience. Congenit. Heart
+Dis. 2013, 8, 411–417. [CrossRef]
+25. Demkow, M.; Ru˙zyłło, W.; Biernacka, E.K.; Kali ´ nczuk, Ł.;´Spiewak, M.; Kowalski, M.; Sitkowska, E.; Ku´ smierczyk, M.; Ró ˙zanski, J.;
+Bana´ s, S.; et al. Percutaneous Edwards SAPIEN™ valve implantation for signiﬁcant pulmonary regurgitation after previous
+surgical repair with a right ventricular outﬂow patch. Catheter. Cardiovasc. Interv. 2013, 83, 474–481. [CrossRef]
+26. Biernacka, E.K.; Ru ˙zyłło, W.; Demkow, M.; Kowalski, M.;´Spiewak, M.; Piotrowski, W.; Ku´ smierczyk, M.; Bana´ s, S.; Ró˙zanski, J.;
+Hoffman, P . Transcatheter pulmonary valve implantation in patients with right ventricular outﬂow tract dysfunction: Early and
+mid-term results. J. Invasive Cardiol. 2015, 27, E82–E89.
+27. Kenny, D.; Rhodes, J.F.; Fleming, G.A.; Kar, S.; Zahn, E.M.; Vincent, J.; Shirali, G.S.; Gorelick, J.; Fogel, M.A.; Fahey, J.T.; et al.
+3-Year Outcomes of the Edwards SAPIEN Transcatheter Heart Valve for Conduit Failure in the Pulmonary Position From the
+COMPASSION Multicenter Clinical Trial. JACC Cardiovasc. Interv. 2018, 11, 1920–1929. [CrossRef]
+28. Oechslin, L.; Corti, R.; Greutmann, M.; Kretschmar, O.; Gaemperli, O. Percutaneous pulmonary valve implantation in grown-up
+congenital heart disease patients: Insights from the Zurich experience. J. Interv. Cardiol. 2018, 31, 251–260. [CrossRef] [PubMed]
+29. Plessis, J.; Hascoet, S.; Baruteau, A.-E.; Godart, F.; Le Gloan, L.; Fresse, K.W.; Tahhan, N.; Riou, J.-Y.; Guyomarch, B.; Petit, J.; et al.
+Edwards SAPIEN Transcatheter Pulmonary Valve Implantation: Results From a French Registry.JACC Cardiovasc. Interv. 2018,
+11, 1909–1916. [CrossRef] [PubMed]
+30. Ru˙zyłło, W.; Biernacka, E.K.; Wo´ zniak, O.; Kowalski, M.;´Spiewak, M.; Cicha-Mikołajczyk, A.; Szcz˛ esny, A.; Ku´ smierczyk, M.;
+Hoffman, P .; Demkow, M. Transcatheter pulmonary valve implantation in 100 patients: A 10-year single-center experience.
+Post˛ epy Kardiol. Interwencyjnej2020, 16, 235–243. [CrossRef]
+31. Houeijeh, A.; Batteux, C.; Karsenty, C.; Ramdane, N.; Lecerf, F.; Valdeolmillos, E.; Lourtet-Hascoet, J.; Cohen, S.; Belli, E.; Petit, J.;
+et al. Long-term outcomes of transcatheter pulmonary valve implantation with melody and SAPIEN valves. Int. J. Cardiol. 2023,
+370, 156–166. [CrossRef] [PubMed]
+32. Eicken, A.; Ewert, P .; Hager, A.; Peters, B.; Fratz, S.; Kuehne, T.; Busch, R.; Hess, J.; Berger, F. Percutaneous pulmonary valve
+implantation: Two-centre experience with more than 100 patients. Eur. Heart J. 2011, 32, 1260–1265. [CrossRef]
+33. Butera, G.; Milanesi, O.; Spadoni, I.; Piazza, L.; Donti, A.; Ricci, C.; Agnoletti, G.; Pangrazi, A.; Chessa, M.; Carminati, M. Melody
+transcatheter pulmonary valve implantation. Results from the registry of the Italian society of pediatric cardiology. Catheter.
+Cardiovasc. Interv. 2012, 81, 310–316. [CrossRef]
+34. Armstrong, A.K.; Balzer, D.T.; Cabalka, A.K.; Gray, R.G.; Javois, A.J.; Moore, J.W.; Rome, J.J.; Turner, D.R.; Zellers, T.M.; Kreutzer, J.
+One-year follow-up of the Melody transcatheter pulmonary valve multicenter post-approval study. JACC Cardiovasc. Interv. 2014,
+7, 1254–1262. [CrossRef]
+35. Fiszer, R.; Dry˙zek, P .; Szkutnik, M.; Góreczny, S.; Krawczuk, A.; Moll, J.; Moszura, T.; Pawlak, S.; Białkowski, J. Immediate and
+long-term outcomes of percutaneous transcatheter pulmonary valve implantation. Cardiol. J. 2017, 24, 604–611. [CrossRef]
+36. Fraisse, A.; Aldebert, P .; Malekzadeh-Milani, S.; Thambo, J.-B.; Piéchaud, J.-F.; Aucoururier, P .; Chatelier, G.; Bonnet, D.; Iserin, L.;
+Bonello, B.; et al. Melody® transcatheter pulmonary valve implantation: Results from a French registry. Arch. Cardiovasc. Dis.
+2014, 107, 607–614. [CrossRef] [PubMed]
+37. Borik, S.; Crean, A.; Horlick, E.; Osten, M.; Lee, K.-J.; Chaturvedi, R.; Friedberg, M.K.; McCrindle, B.W.; Manlhiot, C.; Benson, L.
+Percutaneous pulmonary valve implantation: 5 years of follow-up: Does age inﬂuence outcomes? Circ. Cardiovasc. Interv. 2015,
+8, e001745. [CrossRef] [PubMed]
+38. Cheatham, J.P .; Hellenbrand, W.E.; Zahn, E.M.; Jones, T.K.; Berman, D.P .; Vincent, J.A.; McElhinney, D.B. Clinical and hemody-
+namic outcomes up to 7 years after transcatheter pulmonary valve replacement in the US melody valve investigational device
+exemption trial. Circulation 2015, 131, 1960–1970. [CrossRef]
+39. Bensemlali, M.; Malekzadeh-Milani, S.; Mostefa-Kara, M.; Bonnet, D.; Boudjemline, Y. Percutaneous pulmonary Melody®valve
+implantation in small conduits. Arch. Cardiovasc. Dis. 2017, 110, 517–524. [CrossRef] [PubMed]
+40. Malekzadeh-Milani, S.; Houeijeh, A.; Jalal, Z.; Hascoet, S.; Bakloul, M.; Aldebert, P .; Pi échaud, J.-F.; Heitz, F.; Bouvaist, H.;
+Dauphin, C.; et al. French national survey on infective endocarditis and the Melody™ valve in percutaneous pulmonary valve
+implantation. Arch. Cardiovasc. Dis. 2018, 111, 497–506. [CrossRef]
+41. Efthimiou, O. Practical guide to the meta-analysis of rare events. Evid. Based Ment. Health 2018, 21, 72–76. [CrossRef]
+42. Kuss, O. Statistical methods for meta-analyses including information from studies without any events-add nothing to nothing
+and succeed nevertheless. Stat. Med. 2015, 34, 1097–1116. [CrossRef]
+43. Xu, C.; Lin, L. The impact of studies with no events in both arms on meta-analysis of rare events: A simulation study using
+generalized linear mixed model. medRxiv 2021, 2021, 21262461. [CrossRef]
+44. Xu, C.; Li, L.; Lin, L.; Chu, H.; Thabane, L.; Zou, K.; Sun, X. Exclusion of studies with no events in both arms in meta-analysis
+impacted the conclusions. J. Clin. Epidemiol. 2020, 123, 91–99. [CrossRef]
+45. Wei, J.-J.; Lin, E.-X.; Shi, J.-D.; Yang, K.; Hu, Z.-L.; Zeng, X.-T.; Tong, T.-J. Meta-analysis with zero-event studies: A comparative
+study with application to COVID-19 data. Mil. Med. Res. 2021, 8, 1–11. [CrossRef]
+46. Lin, L.; Chu, H. Meta-analysis of Proportions Using Generalized Linear Mixed Models. Epidemiology 2020, 31, 713–717. [CrossRef]
+47. Spittal, M.J.; Pirkis, J.; Gurrin, L.C. Meta-analysis of incidence rate data in the presence of zero events. BMC Med. Res. Methodol.
+2015, 15, 42. [CrossRef]
+[[p15]]
+J. Clin. Med. 2023, 12, 4886 15 of 15
+48. Böhning, D.; Sangnawakij, P . The identity of two meta-analytic likelihoods and the ignorability of double-zero studies.Biostatistics
+2021, 22, 890–896. [CrossRef]
+49. Wilson, W.M.; Benson, L.N.; Osten, M.D.; Shah, A.; Horlick, E.M. Horlick EM. Transcatheter Pulmonary Valve Replacement with
+the Edwards Sapien System: The Toronto Experience. JACC Cardiovasc. Interv. 2015, 8, 1819–1827. [CrossRef] [PubMed]
+50. Villafañe, J.; Baker, G.H.; Austin, E.H., 3rd; Miller, S.; Peng, L.; Beekman, R. Melody®pulmonary valve bacterial endocarditis:
+Experience in four pediatric patients and a review of the literature. Catheter. Cardiovasc. Interv. 2014, 84, 212–218. [CrossRef]
+[PubMed]
+51. Schneider, H.; Vogt, M.; Boekenkamp, R.; Hoerer, J.; Eicken, A.; Foth, R.; Kriebel, T.; Paul, T.; Sigler, M. Melody transcatheter
+valve: Histopathology and clinical implications of nine explanted devices. Int. J. Cardiol. 2015, 189, 124–131. [CrossRef]
+52. Mery, C.M.; Guzmán-Pruneda, F.A.; De León, L.E.; Zhang, W.; Terwelp, M.D.; Bocchini, C.E.; Adachi, I.; Heinle, J.S.; McKen-
+zie, E.D.; Fraser, C.D. Risk factors for development of endocarditis and reintervention in patients undergoing right ventricle to
+pulmonary artery valved conduit placement. J. Thorac. Cardiovasc. Surg. 2016, 151, 432–441.e2. [CrossRef] [PubMed]
+53. Jalal, Z.; Galmiche, L.; Lebeaux, D.; Villemain, O.; Brugada, G.; Patel, M.; Ghigo, J.-M.; Beloin, C.; Boudjemline, Y. Selective
+propensity of bovine jugular vein material to bacterial adhesions: An in-vitro study. Int. J. Cardiol. 2015, 198, 201–205. [CrossRef]
+54. Veloso, T.R.; Claes, J.; Van Kerckhoven, S.; Ditkowski, B.; Hurtado-Aguilar, L.G.; Jockenhoevel, S.; Mela, P .; Jashari, R.; Gewillig, M.;
+Hoylaerts, M.F.; et al. Bacterial adherence to graft tissues in static and ﬂow conditions. J. Thorac. Cardiovasc. Surg. 2018, 155, 325–
+332.e4. [CrossRef]
+55. Esmaeili, A.; Bollmann, S.; Khalil, M.; De Rosa, R.; Fichtlscherer, S.; Akintuerk, H.; Schranz, D. Percutaneous pulmonary valve
+implantation for reconstruction of a patch-repaired right ventricular outﬂow tract. J. Interv. Cardiol. 2017, 31, 106–111. [CrossRef]
+[PubMed]
+56. Álvarez-Fuente, M.; Haas, N.A.; Del Cerro, M.J. Edwards valve-in-valve implantation in tricuspid position. Cardiol. Young 2017,
+27, 1633–1636. [CrossRef]
+57. Boone, R.H.; Webb, J.G.; Horlick, E.; Benson, L.; Cao, Q.-L.; Nadeem, N.; Kiess, M.; Hijazi, Z.M. Transcatheter pulmonary valve
+implantation using the Edwards SAPIEN™ transcatheter heart valve. Catheter. Cardiovasc. Interv. 2010, 75, 286–294. [CrossRef]
+[PubMed]
+58. Giugno, L.; Faccini, A.; Carminati, M. Percutaneous Pulmonary Valve Implantation. Korean Circ. J. 2020, 50, 302–316. [CrossRef]
+59. Patel, N.D.; Levi, D.S.; Cheatham, J.P .; Qureshi, S.A.; Shahanavaz, S.; Zahn, E.M. Transcatheter Pulmonary Valve Replacement: A
+Review of Current Valve Technologies.J. Soc. Cardiovasc. Angiogr. Interv. 2022, 1, 100452. [CrossRef]
+60. Kirklin, J.K.; Kirklin, J.W.; Blackstone, E.H.; Milano, A.; Paciﬁco, A.D. Effect of transannular patching on outcome after repair of
+tetralogy of Fallot. Ann. Thorac. Surg. 1989, 48, 783–791. [CrossRef]
+61. Stammnitz, C.; Huscher, D.; Bauer, U.M.M.; Urban, A.; Nordmeyer, J.; Schubert, S.; Photiadis, J.; Berger, F.; Klaassen, S. The
+German Competence Network for Congenital Heart Defects Investigators. Nationwide Registry-Based Analysis of Infective
+Endocarditis Risk After Pulmonary Valve Replacement. J. Am. Heart Assoc. 2022, 11, 22231. [CrossRef]
+62. Nordmeyer, J.; Ewert, P .; Gewillig, M.; Aljufan, M.; Carminati, M.; Kretschmar, O.; Uebing, A.; Dähnert, I.; Röhle, R.; Schneider, H.;
+et al. Acute and midterm outcomes of the post-approval MELODY Registry: A multicentre registry of transcatheter pulmonary
+valve implantation. Eur. Heart J. 2019, 40, 2255–2264. [CrossRef]
+63. Balakrishna, A.M.; Ismayl, M.; Thandra, A.; Walters, R.; Ganesan, V .; Anugula, D.; Shah, D.J.; Aboeata, A. Diagnostic Value of
+Cardiac Magnetic Resonance Imaging and Intracoronary Optical Coherence Tomography in Patients with a Working Diagnosis of
+Myocardial Infarction with Non-obstructive Coronary Arteries—A Systematic Review and Meta-analysis. Curr. Probl. Cardiol.
+2023, 48, 101126. [CrossRef]
+64. Machanahalli Balakrishna, A.; Ismayl, M.; Palicherla, A.; Aboeata, A.; Goldsweig, A.M.; Zhao, D.X.; Vallabhajosyula, S. Impact of
+prior coronary artery bypass grafting on periprocedural and short-term outcomes of patients undergoing transcatheter aortic
+valve replacement: A systematic review and meta-analysis. Coron Artery Dis. 2023, 34, 42–51. [CrossRef]
+65. Machanahalli Balakrishna, A.; Ismayl, M.; Srinivasamurthy, R.; Gowda, R.M.; Aboeata, A. Early Outcomes of Percutaneous
+Coronary Intervention in Patients with Cancer: A Systematic Review and Meta-analysis. Curr. Probl. Cardiol. 2022, 47, 101305.
+[CrossRef] [PubMed]
+66. Ismayl, M.; Machanahalli Balakrishna, A.; Abusnina, W.; Thandra, A.; Walters, R.W.; Alugubelli, N.R.; Yackley, S.; Betts, L.;
+Smer, A.; Goldsweig, A.M.; et al. Surgical Aortic Valve Replacement Versus Conservative Treatment in Asymptomatic Severe
+Aortic Stenosis: An Updated Systematic Review and Meta-Analysis. Cardiovasc. Revasc. Med. 2022, 42, 36–44. [CrossRef]
+[PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

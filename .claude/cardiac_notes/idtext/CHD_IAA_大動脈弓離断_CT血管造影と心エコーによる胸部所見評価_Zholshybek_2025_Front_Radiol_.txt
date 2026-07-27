@@ -1,0 +1,815 @@
+
+[[p1]]
+EDITED BY
+Marek Nalos,
+Nepean Hospital, Australia
+REVIEWED BY
+Nidal Tourkmani,
+Garibaldi Hospital, Italy
+Maria Luisa Garo,
+Mathsly Research, Italy
+*CORRESPONDENCE
+Nurmakhan Zholshybek
+nurmakhan.zholshybek@nu.edu.kz
+RECEIVED 22 April 2025
+ACCEPTED 13 June 2025
+PUBLISHED 26 June 2025
+CITATION
+Moldakhanova Z, Rakhimzhanova R, Dautov T,
+Bastarbekova L, Kaliyev B, Almussina A,
+Zhankorazova A and Zholshybek N (2025) A
+comparative analysis of CT angiography and
+echocardiography in the evaluation of chest
+ﬁndings in patients with interrupted aortic
+arch.
+Front. Radiol. 5:1616112.
+doi: 10.3389/fradi.2025.1616112
+COPYRIGHT
+© 2025 Moldakhanova, Rakhimzhanova,
+Dautov, Bastarbekova, Kaliyev, Almussina,
+Zhankorazova and Zholshybek. This is an
+open-access article distributed under the
+terms of the
+Creative Commons Attribution
+License (CC BY) . The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with
+these terms.
+A comparative analysis
+of CT angiography and
+echocardiography in the
+evaluation of chest ﬁndings
+in patients with interrupted
+aortic arch
+Zhanar Moldakhanova
+1
+, Raushan Rakhimzhanova
+2
+,
+Tairkhan Dautov
+3
+, Lazzat Bastarbekova
+1
+, Bauyrzhan Kaliyev
+4
+,
+Assel Almussina
+1
+, Aizhan Zhankorazova
+5
+and
+Nurmakhan Zholshybek
+5*
+1Radiology Unit, Heart Center, University Medical Center, Astana, Kazakhstan, 2Scientiﬁc Research Institute
+of Radiology Named After Zh.Kh. Khamzabayev, Astana Medical University, Astana, Kazakhstan,3Clinical and
+Academic Department of Radiology and Nuclear Medicine, University Medical Center, Astana, Kazakhstan,
+4Inpatient Radiology Unit, Mother and Child Center, University Medical Center, Astana, Kazakhstan,
+5Department of Medicine, School of Medicine, Nazarbayev University, Astana, Kazakhstan
+Interrupted aortic arch (IAA) is a rare congenital cardiovascular anomaly
+characterized by the absence of continuity between the ascending and
+descending aorta, often accompanied by congenital heart defects such as
+ventricular septal defects and patent ductus arteriosus. Accurate preoperative
+imaging is essential for surgical planning and patient management. This study
+aimed to compare the diagnostic accuracy of echocardiography and
+computed tomography angiography (CTA) in evaluating thoracic ﬁndings in
+patients with IAA. A retrospective analysis was conducted on 58 patients
+(median age: 18 days) diagnosed with IAA between September 2020 and
+January 2023 at the Heart Center, University Medical Center, Astana,
+Kazakhstan. Conventional echocardiography and multislice CTA were
+performed using standardized protocols. Sensitivity, speci ﬁcity, and other
+diagnostic performance metrics were calculated. Statistical comparisons were
+made using McNemar ’s and Wilcoxon signed-rank tests, with p < 0.05
+considered signi ﬁcant. Echocardiography correctly identi ﬁed 91.4% of IAA
+cases, while CTA achieved 100% sensitivity and speci ﬁcity. McNemar ’s test
+revealed a signi ﬁcant difference in diagnostic performance favoring CTA
+( p < 0.05). Measurements of the ascending aorta diameter showed no
+statistically signi ﬁcant difference between the two modalities ( p = 0.09). IAA
+was predominantly type A (48.3%) and type B (46.6%), with hypoplastic
+ascending aorta identi ﬁed in 34.5% of patients. Echocardiography remains a
+practical initial imaging modality for IAA, offering portability and cost-
+effectiveness. However, CTA demonstrated superior diagnostic accuracy and
+anatomical resolution, making it the preferred tool for detailed preoperative
+evaluation and surgical planning. Future studies with larger cohorts and
+additional modalities could further re ﬁne diagnostic strategies for IAA.
+KEYWORDS
+interrupted aortic arch, echocardiography, computed tomography angiography,
+congenital heart defects, diagnostic imaging, surgical planning
+TYPE Original Research
+PUBLISHED 26 June 2025
+DOI 10.3389/fradi.2025.1616112
+Frontiers in Radiology 01 frontiersin.org
+[[p2]]
+1 Introduction
+Variants and anomalies of the aortic arch (AA) are relatively
+common. In its standard con ﬁguration, the AA is left-sided and
+gives rise to three branches: the right brachiocephalic artery, the
+left common carotid artery, and the left subclavian artery (
+1, 2).
+Among the various AA variants, the most frequent is the
+brachiocephalic trunk, where the brachiocephalic and left
+common carotid arteries share a common origin. Another
+notable variant is the direct aortic origin of the left vertebral
+artery. Common AA anomalies include a left-sided arch with an
+aberrant right subclavian artery, a right-sided arch, and a double
+AA (
+3).
+Interrupted aortic arch (IAA) is regarded as one of the most
+severe forms of AA anomalies. While AA anomalies typically
+involve variations in the branching patterns or the anatomical
+positioning of the AA, IAA is a rare congenital cardiovascular
+malformation characterized by a complete luminal discontinuity
+of the AA, resulting in the absence of the regular aortic
+continuity between the ascending and descending aorta (
+4),
+distinguishing it from severe coarctation and aortic atresia ( 5).
+This interruption disrupts the direct ﬂow of oxygenated blood
+from the heart to the lower body, necessitating collateral
+circulation through alternative vessels, such as the patent ductus
+arteriosus (PDA), to maintain perfusion, especially for lower
+extremity blood ﬂow (
+6).
+IAA is a rare condition, representing only 1% of congenital
+heart diseases, which is frequently associated with additional
+congenital cardiac anomalies, including ventricular septal defects
+and PDA, further complicating the clinical presentation (
+7).
+While the precise causes of IAA are still unclear, it is generally
+regarded as a phenotype arising from diverse aetiologies (
+8). For
+example, around 50% –80% of individuals with type B IAA have
+genetic origins, including DiGeorge syndrome and chromosome
+22q11 deletion, with the deleted region being linked to
+cardiovascular development derived from the neural crest (
+8, 9).
+Celoria and Patton have classi ﬁed IAA into three types based
+on the site of aortic interruption concerning the arch vessels ( 10):
+ Type A, where the interruption occurs at the isthmus between
+the left subclavian artery and the ductus;
+ Type B, with the interruption in the distal AA between the left
+common carotid and left subclavian arteries;
+ And type C, where the interruption is in the proximal AA
+between the innominate artery and the left common carotid
+artery (
+11).
+Imaging is crucial for identifying these anomalies, signi ﬁcantly
+aiding in making accurate preoperative surgical decisions ( 12).
+AA anomalies in neonates and children can be identi ﬁed using
+echocardiography and computed tomography (CT) ( 13).
+Echocardiography alone can provide an accurate anatomical
+diagnosis of an IAA. It should identify the site of the
+interruption and measure the length of the arch discontinuity,
+the narrowest dimension of the left ventricular out ﬂow tract, the
+diameter of the aortic annulus, and the ascending aorta.
+Additionally, it should de ﬁne the location of any associated
+ventricular septal defect, assess the presence of the thymus (as its
+absence may indicate DiGeorge syndrome), and evaluate the
+presence and size of any associated atrial septal defect (
+11).
+Furthermore, Doppler ultrasonography can assess functional
+changes in vascular and surrounding structures (
+14).
+Computed tomography angiography (CTA) serves as a valuable
+complementary diagnostic tool for unstable patients with IAA in
+urgent situations (
+15). The bene ﬁts of multislice CT, such as
+rapid scanning, which minimizes the need for sedation or
+general anesthesia, high spatial resolution, and the ability to
+assess both the airway and lungs simultaneously, have made it an
+effective method for evaluating a range of congenital heart
+diseases (
+16, 17). CT demonstrates 98% accuracy in diagnosing
+speciﬁc cardiovascular anomalies compared to a clinical
+consensus diagnosis, including surgical ﬁndings as the reference
+standard. Following an initial echocardiographic evaluation, CT
+could potentially replace diagnostic cardiac catheterization for
+detailed anatomical clari ﬁcation in neonates (
+18).
+Along with identifying the location of the interruption, both
+echocardiography and CTA should provide measurements of the
+length of the arch discontinuity, as well as the diameter of the
+ascending aorta (
+11). This is essential because an end-to-end ( 19)
+or end-to-side ( 20) anastomosis between the ascending and
+descending thoracic aorta is performed during a one-stage repair
+of IAA. Additionally, if patients have a severely hypoplastic
+ascending aorta (diameter <3 mm), homograft patch
+augmentation of the ascending aorta must be performed (
+21) or 
+may lead to left ventricular out ﬂow tract obstruction, which can
+signiﬁcantly complicate patient management ( 22).
+In cases of IAA, accurate delineation and identi ﬁcation of
+associated cardiac pathologies are crucial for effective
+preoperative decision-making (
+23). This study aims to perform a
+comparative analysis of echocardiography and CTA in assessing
+thoracic ﬁndings in patients with IAA.
+2 Materials and methods
+2.1 Patient population
+This retrospective study included patients admitted for surgical
+treatment of IAA at the Heart Center of the University Medical
+Center in Astana, Kazakhstan, between September 2020 and
+January 2023. A total of 58 patients were included in the study,
+comprising 34 males (58.6%) and 24 females (41.4%), ranging in
+age from 1 to 821 days (median age: 18 days) (
+Table 1 ).
+TABLE 1 Demographic pro ﬁle of patients.
+Characteristics Options Number
+Sex (total number of patients — 58) Male 34 (58.6%)
+Female 24 (41.4%)
+Age at surgery (days) Max 821
+Min 1
+Median 18
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 02 frontiersin.org
+[[p3]]
+Inclusion criteria were patients who had a preliminary
+diagnosis of aortic arch anomalies, with a high suspicion of IAA,
+based on echocardiographic evaluation performed at their local
+healthcare facilities. Only patients who were subsequently
+admitted to the Heart Center for further diagnostic work-up and
+surgical management, and who had complete clinical
+documentation and diagnostic imaging (echocardiography and
+CTA), were included in the study.
+Exclusion criteria were the absence of complete clinical data or
+imaging studies, a ﬁnal diagnosis that did not con ﬁrm IAA after
+comprehensive evaluation, or a history of prior surgical
+intervention involving the aortic arch.
+Upon admission, all patients underwent further assessment
+at the radiology department, including echocardiography a nd
+CTA, to con ﬁrm the diagnosis and evaluate potential
+complications. Due to the observational nature of the
+study, no randomization or blinding was applied. All data,
+including clinical records and radiological images, were
+analyzed retrospectively.
+Written informed consent was obtained from the legal
+representatives of pediatric patients for publication and any
+accompanying images. All procedures performed in studies
+involving human participants were in accordance with the
+ethical standards of the institutional and/or national res earch
+committee and with the 1964 Helsinki Declaration and its
+later amendments or comparable ethical standards. The stud y
+was approved by the Bioethics Committee of the Heart Center,
+University Medical Center, Astana, Kazakhstan (21 Jan 2022 /
+No. 01-110/2022).
+2.2 Imaging tools
+Conventional echocardiographic measurements were
+performed by the Philips EPIQ 7 (Philips, Netherlands)
+ultrasound machine equipped with an S8-3 pediatric transducer
+(3–8 MHz). Two-dimensional, M-mode, and Doppler
+echocardiography were performed according to the American
+Society of Echocardiography recommendations (
+24).
+CT investigations were performed using a Siemens Somatom
+Deﬁnition AS 64 multispiral CT scanner (Siemens, Germany)
+equipped with prospective ECG synchronization to minimize
+artifacts caused by cardiac motion. The patient was positioned
+supine for stable and standard imaging conditions. Intravenous
+administration of a nonionic, low-osmolality iodinated contrast
+material (Ultravist 370; Schering, Germany) was performed at a
+dose of 1.5 –2.0 ml/kg, with a maximum volume of 120 –150 ml,
+delivered via a dual-head pump injector (CT Motion XD8000;
+Ulrich Medical, Germany). The injection rate ranged from 0.5 to
+2 ml/sec. Bolus tracking was utilized, with the marker placed in
+the ascending aorta and a start delay triggered at 100 Houns ﬁeld
+units. Images were reconstructed with a slice thickness of 0.6 mm
+and a reconstruction increment of 0.1 mm. Multiplanar
+reformatted images were generated interactively on a dedicated
+workstation (Syngo VIA; Siemens, Germany).
+2.3 Statistical analysis
+Statistical analyses were performed using Stata version 18.0
+(STATA, StataCorp, Texas, US). Data were assessed for
+univariate normality using the Shapiro –Wilk test. Continuous
+variables were presented as mean ± standard deviation (SD),
+medians, and interquartile ranges (IQR).
+Categorical variables were expressed as counts and percentages,
+with comparisons conducted using the Chi-square or Fisher ’s exact
+test, as appropriate. Paired categorical data were analyzed utilizing
+McNemar’s test. The Wilcoxon signed-rank test was used for
+paired data that were not normally distributed. Statistical
+signiﬁcance was de ﬁned as p < 0.05 for all analyses.
+Sensitivity and speci ﬁcity were used to assess the accuracy of
+echocardiography and CTA, with 95% con ﬁdence intervals (CI)
+calculated using the Wilson score method.
+3 Results
+3.1 Accuracy in diagnosing IAA
+Fifty-eight patients with IAA were evaluated using both
+echocardiography and CTA. The reference standard for diagnosis
+was established through clinical consensus, incorporating
+intraoperative ﬁndings where available, or a combination of
+imaging data, multidisciplinary evaluation, and clinical follow-up
+in nonsurgical cases.
+Echocardiography correctly identi ﬁed 53 out of 58 cases,
+missing 5 cases, resulting in a sensitivity of 91.4% (CI: 81.4% –
+96.3%) and a speci ﬁcity of 100% (CI: 87.1% –100%). In
+comparison, CTA accurately diagnosed all 58 cases, achieving
+100% sensitivity and 100% speci ﬁcity.
+To ensure the reliability of these results, all CTA ﬁndings were
+reviewed in the context of surgical outcomes or corroborated by
+consistent clinical and imaging follow-up when surgery was not
+performed. A diagnosis was considered a true positive if CTA
+ﬁndings were con ﬁrmed by operative observation or
+comprehensive clinical agreement. No instances of CTA-
+diagnosed IAA lacking subsequent con ﬁrmation were identi ﬁed,
+supporting the observed 100% speci ﬁcity.
+McNemar’s test was performed to compare the diagnostic
+accuracy of the two modalities. The results showed a statistically
+signiﬁcant difference in diagnostic performance, with a p-value of
+<0.05, indicating that CTA outperforms echocardiography in
+detecting IAA. The results are summarized in
+Table 2 .
+3.2 Measuring the diameter of the
+ascending aorta
+The mean diameter of the ascending aorta measured by
+echocardiography was 0.95 cm (SD = 0.43 cm), with a median
+diameter of 0.875 cm and an interquartile range (IQR) of 0.7 –
+0.96 cm. In comparison, the mean diameter measured by CTA
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 03 frontiersin.org
+[[p4]]
+was 0.89 cm (SD = 0.37 cm), with a median diameter of 0.8 cm and
+an IQR of 0.7 –1 cm.
+The Wilcoxon signed-rank test was used to evaluate the
+differences in aorta diameter measurements between
+echocardiography and CTA. Out of 58 paired measurements, 34
+differences were positive, 23 were negative, and 1 was zero. The
+test statistic is z = 1.700, with an exact p-value of 0.09, indicating
+no statistically signi ﬁcant difference at the 5% level.
+Overall, the Wilcoxon signed-rank test provided no suf ﬁcient
+evidence to conclude that there was a statistically signi ﬁcant
+difference between echocardiogram and CTA measurements of
+ascending aorta diameter.
+3.3 Associated cardiovascular anomalies
+Chi-square and Fisher ’s exact tests were applied to assess the
+clinical characteristics of patients with IAA and their associated
+chromosomal and cardiovascular anomalies, which were
+diagnosed using echocardiography and CTA. The results of these
+analyses are presented in
+Table 3 .
+4 Discussion
+Our study compared the diagnostic accuracy of
+echocardiography and CTA for IAA.
+IAA is a life-threatening condition with an absence of direct
+continuous blood supply to the lower body caused by a missing
+portion of the AA (
+25), which is accompanied by many
+cardiovascular anomalies, including PDA, ventricular and atrial
+septal defects, patent foramen ovale, hypoplastic ascending aorta,
+etc., as demonstrated in our study on
+Table 3 . Each of these
+heart defects affects the course of the operation and the patient ’s
+further prognosis. Consequently, there is an increasing need for
+accurate radiological measurements and a comprehensive
+understanding of the lesion ’s anatomy during preoperative
+preparation (
+26).
+The primary goal of surgical treatment for IAA is to restore
+normal blood ﬂow by correcting the arch and associated
+cardiovascular defects. Prior to 2000, the standard surgical
+approach for IAA was staged repair. However, after 2001, it
+shifted to primary complete repair during the neonatal period
+(
+27), even with the complex intracardiac anomaly ( 28). This
+approach minimizes the need for multiple surgeries and
+improves long-term outcomes (
+29). Surgical intervention is
+essential for patient survival, as untreated IAA leads to a 90%
+mortality rate by a median age of 4 days (
+20).
+The single-stage repair of IAA involves a direct anastomosis
+between the ascending and descending aorta after extensive
+mobilization. Since the procedure has become the approach of
+choice, the ascending aorta diameter is essential for surgical
+planning (
+30, 31), and many research ﬁndings emphasized the
+implication of ascending aorta measurements in cases of IAA.
+For instance, Schreiber et al. suggested that mobilizing the
+ascending aorta suf ﬁciently would minimize tension around the
+anastomosis and reduce the risk of restenosis after one-stage
+primary correction (
+32). Furthermore, Kaulitz et al. revealed
+through echocardiographic measurements that the diameter of
+the ascending aorta was even related to the number of vessels
+originating from the proximal AA, indicating a connection to the
+type of IAA (
+33).
+Among accompanying cardiovascular ﬁndings, hypoplasia of
+the ascending aorta is common in patients with IAA; in our
+sample, there are 34.5%. A more signi ﬁcant prevalence was
+reported by Vogel et al., who indicated, based on fetal
+TABLE 3 Clinical data of 58 patients with IAA and their associated
+cardiovascular anomalies.
+Characteristics Options Number
+(Percentage)
+Imaging modalities 64-slice CTA 58 (100.0%)
+Echocardiography 58 (100.0%)
+Type of IAA A 28 (48.3%)
+B 27 (46.6%)
+C 3 (5.2%)
+Aortic arch side Left 54 (93.1%)
+Right 4 (6.9%)
+Chromosome
+abnormalities
+DiGeorge syndrome 6 (10.3%)
+Down syndrome 1 (1.7%)
+Combined cardiovascular
+anomalies
+Ventricular septal defect 48 (82.8%)
+Atrial septal defect 34 (58.6%)
+Atrioventricular septal
+defect
+3 (5.2%)
+Aortopulmonary window 4 (6.9%)
+Patent ductus arteriosus 58 (100.0%)
+Patent foramen ovale 34 (58.6%)
+Hypoplastic ascending
+aorta
+20 (34.5%)
+Aberrant right subclavian
+artery
+12 (20.7%)
+Truncus arteriosus 2 (3.4%)
+Anomalous pulmonary
+venous connection
+2 (3.4%)
+Transposition of great
+arteries
+8 (13.8%)
+Bicuspid aortic valve 17 (29.3%)
+Taussig-Bing anomaly 2 (3.4%)
+Myocardial hypertrophy Left 3 (5.2%)
+Right 3 (5.2%)
+Both 1 (1.7%)
+Surgical treatment One-stage total correction 56
+a (96.6%)
+aTwo patients died before corrective surgery.
+TABLE 2 Diagnostic accuracy of echocardiography and CTA for interrupted aortic arch.
+Modality True positives ( n) False negatives ( n) Sensitivity (%) Speci ﬁcity (%) p-value
+Echocardiography 53 5 91.4% 100% <0.05
+CTA 58 0 100% 100% <0.05
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 04 frontiersin.org
+[[p5]]
+echocardiographic data, a smaller-than-normal diameter of the
+ascending aorta in 73% of liveborn patients with IAA (
+34).
+As for the measurement of the ascending aorta diameter, no
+statistically signi ﬁcant difference was observed between the
+echocardiography and CT in our sample. Blondheim et al.
+reported similar ﬁndings, showing a strong correlation
+between CT and echocardiographic measurements at various
+points along the ascending aorta, with the average
+measurement differences among their patients being clinic ally
+negligible (
+35). Similar results were revealed by the research of
+Tamborini et al., which concluded that in a cohort of patient s
+with documented aortic dilatation or aneurysms,
+echocardiographic measurements of the proximal and
+ascending aorta demonstrated a strong correlation with CT
+measurements. These ﬁndings were characterized by minimal
+standard errors in the estimates and relatively low variabi lity
+between and within observers (
+36).
+Of the two imaging modalities used in our study,
+echocardiography is commonly employed as the initial imaging
+method, particularly for pediatric patients with IAA (
+Figure 1 ).
+However, since it is operator-dependent, it poses challenges when
+evaluating complex arch anomalies (
+12). In contrast, multislice
+CT offers high-resolution 3D imaging of IAA and collateral
+vessels. Combined with echocardiography, which detects
+intracardiac lesions, it typically provides enough information for
+preoperative planning in most cases (
+37). Recent advances in
+imaging modalities have improved accuracy and reliability ( 14),
+as evidenced by the lack of statistically signi ﬁcant differences
+between echocardiogram and CT measurements of ascending
+aorta diameter in our study.
+In our study, CTA exceeded echocardiography in delineating
+IAA, exhibiting greater sensitivity and aligning closely w ith the
+ﬁndings of Al-Azzazy et al. (
+38). Their study reported a 100%
+sensitivity for CTA in diagnosing extracardiac aortic anom alies,
+surpassing the 92% sensitivity of Doppler echocardiograph y.
+Similar results were revealed by Soleimantabar et al., with the
+sensitivity and speci ﬁcity of transthoracic echocardiography for
+detecting IAA at 75% and 100%, respectively, compared to
+CTA (
+39).
+CTA provides a detailed visualization of AA anatomy and its
+spatial relationships with adjacent organs. Its advantage is
+further enhanced by various post-processing techniques, s uch
+as volume rendering, maximum intensity projection, and
+multiplanar reformatting, which can be applied to all
+structures within the scanned volume, making it superior to
+other imaging modalities for evaluating AA anomalies (
+5)
+(Figures 2 , 3). Also, CTA is widely utilized for proper
+treatment and follow-up, as well as for preventing morbidit ies
+and mortalities ( 40). Traditionally, CT scans have been
+associated with high radiation exposure; however, recent
+advancements in radiation dose reduction technologies hav e
+signi ﬁcantly lowered the levels of exposure (
+41).
+Table 4 compares echocardiography and CTA in diagnosing
+IAA, highlighting advantages and disadvantages. As
+demonstrated, echocardiography has multiple bene ﬁts,
+including availability and non-invasiveness, while CTA ha s
+disadvantages, such as radiation exposure and contrast-re lated
+issues. However, the critical advantage of CTA over
+echocardiography that makes it the method of choice is a
+comprehensive view of the AA and associated branches,
+including the precise location of the interruption, which i s
+ideal for surgical planning.
+In addition to echocardiography and CTA, magnetic resonance
+imaging is a highly effective multiplanar imaging technique that
+allows AA malformations to be assessed without exposing
+patients to radiation. Both black blood and bright blood
+sequences, which do not require contrast, as well as contrast-
+enhanced magnetic resonance angiography, can be utilized and
+are synchronized with the cardiac cycle to minimize motion
+artifacts (
+42). It is also a practical option, but is more costly,
+time-consuming, and still more prone to artifacts compared to
+multislice CT (
+37).
+While both imaging modalities, echocardiography and CTA,
+play crucial roles in diagnosis, treatment planning, and follow-up,
+FIGURE 1
+Echocardiographic images of a 7-day-old patient with type B IAA: (A) parasternal long-axis view shows the right ventricle (RV) and left atrium (LA) and
+the diameter of the ascending aorta (AAo) above the sinotubular junction; (B) parasternal short-axis view shows the right ventricle (RV), left atrium (LA),
+and the ascending aorta (AAo); (C) suprasternal notch view shows the brachiocephalic trunk (BT) and the left common carotid artery (LCC), followed
+by the echo signal disruption, corresponding to type B IAA.
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 05 frontiersin.org
+[[p6]]
+CTA has demonstrated superior sensitivity and comprehensive
+anatomical detail. Understanding the complementary roles of these
+tools can optimize clinical outcomes by guiding accurate diagnosis
+and appropriate interventions.
+This study has several limitations that should be acknowledged.
+First, its retrospective design limits control over confounding
+variables and introduces potential selection bias, which may
+affect the generalizability of the ﬁndings. Second, the relatively
+small sample size ( n = 58) reduces the statistical power,
+particularly for subgroup analyses. For instance, the lack of a
+statistically signi ﬁcant difference in ascending aorta diameter
+measurements between echocardiography and CTA may be
+attributable to insuf ﬁcient sample size, as suggested by the
+elevated p-value. Furthermore, not all patients underwent all
+imaging modalities, limiting the ability to perform direct
+modality comparisons, such as between CTA and other cross-
+sectional imaging modalities, such as magnetic resonance
+imaging. These constraints highlight the need for larger,
+prospective studies to further validate and expand upon the
+present ﬁndings.
+FIGURE 2
+CT angiographic multiplanar images of a 2-day-old patient with type B IAA: (A) axial plane shows the ascending aorta (AAo), followed by the patent
+ductus arteriosus (PDA), which connects the dilated pulmonary trunk (PT) and the descending aorta (DAo); (B) coronal plane shows the ascending
+aorta (AAo) and its branch brachiocephalic trunk (BT), next to which are the superior vena cava (SVC) and the enlarged pulmonary trunk (red
+arrow); (C) Maximum intensity projection of the reformatted sagittal aorta image shows an interrupted aortic arch just distal to the left subclavian
+artery origin (LS) and the pulmonary trunk (PT), which is connected to the descending aorta via the patent ductus arteriosus (PDA); (D) 3D
+reconstruction shows an interrupted aortic arch after the right common carotid artery (RCC) arises, and the left subclavian artery (LS) originates
+from the descending aorta, corresponding to type B IAA.
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 06 frontiersin.org
+[[p7]]
+5 Conclusion
+These ﬁndings indicate that echocardiography is a practical
+initial diagnostic tool. Recent advances in medical imaging have
+enhanced its capabilities, making it comparable to CTA in
+measuring speci ﬁc anatomical features, such as the diameter of
+the ascending aorta. However, CTA offers superior accuracy and
+should be prioritized when echocardiographic results are
+FIGURE 3
+CT angiographic multiplanar images of a 55-day-old patient with type A IAA: (A) axial plane shows the branches of the aortic arch: brachiocephalic
+trunk (BT), left common carotid artery (LCC), and left subclavian artery (LS); (B) coronal plane shows that the ascending aorta branches into the
+brachiocephalic trunk (BT), which gives rise to the right common carotid artery. Also, the left common carotid artery (LCC) arising separately from
+the ascending aorta, the enlarged pulmonary trunk (PT), and its right branch are visualized; (C) Sagittal plane shows the pulmonary trunk (PT)
+continuing into the descending aorta via the patent ductus arteriosus (PDA); (D) 3D reconstruction shows an interrupted aortic arch after the left
+subclavian artery (LS) arises, corresponding to type A aortic arch interruption.
+TABLE 4 Comparative table of echocardiography and CTA.
+Imaging
+modality
+Advantages Disadvantages
+Echocardiography Non-invasive
+Real-time imaging
+Portable and can be performed bedside
+Lower cost
+No radiation exposure
+Operator-dependent
+Lower spatial resolution, especially for the distal aortic arch
+May miss subtle abnormalities
+Limited visualization due to overlying bony thorax
+CTA Higher resolution (slice thickness ≤0.6 mm), providing detailed
+visualization
+Provides a comprehensive view of the aortic arch and associated branches
+Precise location of the interruption
+Fast acquisition of high-resolution images ( ≈1–5 s for scan)
+Ideal for surgical planning
+Radiation exposure (estimated effective dose: 1 –4 mSv in neonates/
+infants)
+Need for contrast and patient preparation
+Requires a specialized CT machine in a clinical setting
+Higher cost due to advanced technology and contrast use
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 07 frontiersin.org
+[[p8]]
+inconclusive or when detailed anatomical information is critical for
+diagnosis and surgical planning. Expanding future research to
+include additional imaging modalities and a larger sample size
+could signi ﬁcantly enhance our understanding of
+IAA visualization.
+Data availability statement
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+Ethics statement
+The studies involving humans were approved by The Bioethics
+Committee of the Heart Center, University Medical Center, Astana,
+Kazakhstan (21 Jan 2022/No. 01-110/2022). The studies were
+conducted in accordance with the local legislation and
+institutional requirements. Written informed consent for
+participation was not required from the participants or the
+participants’ legal guardians/next of kin in accordance with the
+national legislation and institutional requirements.
+Author contributions
+ZM: Conceptualization, Formal analysis, Writing – original
+draft, Investigation. RR: Writing – review & editing, Supervision.
+TD: Resources, Writing – review & editing. LB: Writing –
+original draft, Methodology. BK: Writing – original draft. AA:
+Visualization, Writing – original draft. AZ: Formal analysis,
+Writing – original draft, Investigation. NZ: Writing – original draft.
+Funding
+The author(s) declare that no ﬁnancial support was received for
+the research and/or publication of this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Generative AI statement
+The author(s) declare that no Generative AI was used in the
+creation of this manuscript.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+References
+PM?q?fK?u?sK?h?eK?t?eK?h?`K?r?fK??M?lL
+computed tomography in the evaluation of variants and anomalies of aortic arch
+and its branching pattern. Ital J Anat Embryol . (2014) 119:180 –92.
+2. Natsis KI, Tsitouridis IA, Didagelos MV, Fillipidis AA, Vlasis KG, Tsikaras
+PD. Anatomical variations in the branches of the human aortic arch in 633
+angiographies: clinical signi ﬁcance and literature review. Surg Radiol Anat . (2009)
+31:319–23. doi: 10.1007/s00276-008-0442-2
+3. Taw ﬁk AM, Sobh DM, Ashamallah GA, Batouty NM. Prevalence and types of
+aortic arch variants and anomalies in congenital heart diseases. Acad Radiol . (2019)
+26:930–6. doi: 10.1016/j.acra.2018.08.023
+4. Pérez TM, García SM, Velasco ML, Sánchez AP. Interrupted aortic arch diagnosis
+by computed tomography angiography and 3-D reconstruction: a case report. Radiol
+Case Rep . (2018) 13:35 –8. doi: 10.1016/j.radcr.2017.10.001
+5. Türkvatan A, Büyükbayraktar FG, Ölçer T, Cumhur T. Congenital anomalies of
+the aortic arch: evaluation with the use of multidetector computed tomography.
+Korean J Radiol . (2009) 10:176 –84. doi: 10.3348/kjr.2009.10.2.176
+6. Friedman K. Preoperative physiology, imaging, and management of interrupted
+aortic arch. Semin Cardiothorac Vasc Anesth . (2018) 22:265 –9. doi: 10.1177/
+1089253218770198
+7. LaPar DJ, Baird CW. Surgical considerations in interrupted aortic arch. Semin
+Cardiothorac Vasc Anesth . (2018) 22:278 –84. doi: 10.1177/1089253218776664
+8. Loffredo CA, Ferencz C, Wilson PD, Lurie IW. Interrupted aortic arch: an
+epidemiologic study. Teratology. (2000) 61:368 –75. doi: 10.1002/(SICI)1096-9926
+(200005)61:5%3C368::AID-TERA8%3E3.0.CO;2-N
+9. Lewin MB, Lindsay EA, Jurecic V, Goytia V, Towbin JA, Baldini A. A genetic
+etiology for interruption of the aortic arch type B. Am J Cardiol . (1997) 80:493 –7.
+doi: 10.1016/S0002-9149(97)00401-3
+10. Hanneman K, Newman B, Chan F. Congenital variants and anomalies of the
+aortic arch. Radiographics. (2017) 37:32 –51. doi: 10.1148/rg.2017160033
+11. Jonas RA. Management of interrupted aortic arch. Semin Thorac Cardiovasc
+Surg. (2015) 27:177 –88. doi: 10.1053/j.semtcvs.2015.04.003
+12. Priya S, Thomas R, Nagpal P, Sharma A, Steigner M. Congenital
+anomalies of the aortic arch. Cardiovasc Diagn Ther . (2018) 8:S26. doi: 10.21037/
+cdt.2017.10.15
+13. Oztunc F, Ugan Atik S, Dedeoglu R, Yuksel MA, Madazl ı R. Aortic arch
+anomalies detected in foetal life by echocardiography. J Obstet Gynaecol . (2018)
+38:647–51. doi: 10.1080/01443615.2017.1399989
+14. Bae SB, Kang EJ, Choo KS, Lee J, Kim SH, Lim KJ, et al. Aortic arch variants and
+anomalies: embryology, imaging ﬁndings, and clinical considerations. J Cardiovasc
+Imaging. (2022) 30:231. doi: 10.4250/jcvi.2022.0058
+15. Yang DH, Goo HW, Seo DM, Yun TJ, Park JJ, Park IS, et al. Multislice CT
+angiography of interrupted aortic arch. Pediatr Radiol . (2008) 38:89 –100. doi: 10.
+1007/s00247-007-0662-3
+16. Goo HW, Park IS, Ko JK, Kim YH, Seo DM, Park JJ. Computed tomography for
+the diagnosis of congenital heart disease in pediatric and adult patients. Int
+J Cardiovasc Imaging . (2005) 21:347 –65. doi: 10.1007/s10554-004-4015-0
+17. Moon Y, Kim YM, Kim TH, Kim MY, Lee JY, Kim HS. Congenital anomalies of
+aortic arch: cT angiography. J Korean Radiol Soc . (2001) 44:51 –8. doi: 10.3348/jkrs.
+2001.44.1.51
+18. Lee T, Tsai IC, Fu YC, Jan SL, Wang CC, Chang Y, et al. Using multidetector-
+row CT in neonates with complex congenital heart disease to replace diagnostic
+cardiac catheterization for anatomical investigation: initial experiences in technical
+and clinical feasibility. Pediatr Radiol . (2006) 36:1273 –82. doi: 10.1007/s00247-006-
+0315-y
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 08 frontiersin.org
+[[p9]]
+19. Luciani GB, Ackerman RJ, Chang AC, Wells WJ, Starnes VA. One-stage repair
+of interrupted aortic arch, ventricular septal defect, and subaortic obstruction in the
+neonate: a novel approach. J Thorac Cardiovasc Surg . (1996) 111:348 –58. doi: 10.
+1016/S0022-5223(96)70444-0
+20. Messner G, Reul GJ, Flamm SD, Gregoric ID, Opfermann UT. Interrupted aortic
+arch in an adult: single-stage extra-anatomic repair. Tex Heart Inst J . (2002) 29:118.
+21. Stoica SC. Congenital aortic arch interruption and hypoplasia. In: Raja SG,
+editor. Cardiac Surgery: A Complete Guide . Bristol: Springer (2020). p. 933 –9.
+doi: 10.1007/978-3-030-24174-2_103
+22. McCrindle BW, Tchervenkov CI, Konstantinov IE, Williams WG, Neirotti RA,
+Jacobs ML, et al. Risk factors associated with mortality and
+interventions in 472 neonates with interrupted aortic arch: a congenital heart
+surgeons society study. J Thorac Cardiovasc Surg . (2005) 129:343 –50. doi: 10.1016/j.
+jtcvs.2004.10.004
+23. Açar G, Çiçekciba şı AE, Uysal E, Koplay M. Anatomical variations of the aortic
+arch branching pattern using CT angiography: a proposal for a different
+morphological classi ﬁcation with clinical relevance. Anat Sci Int . (2022) 97:65 –78.
+doi: 10.1007/s12565-021-00627-6
+24. Lopez L, Saurers DL, Barker PC, Cohen MS, Colan SD, Dwyer J, et al. Guidelines
+for performing a comprehensive pediatric transthoracic echocardiogram:
+recommendations from the American society of echocardiography. J Am Soc
+Echocardiogr. (2024) 37(2):119 –70. doi: 10.1016/j.echo.2023.11.015
+25. Varghese R, Saheed SB, Omoregbee B, Ninan B, Pavithran S, Kothandam S.
+Surgical repair of interrupted aortic arch and interrupted pulmonary artery. Ann
+Thorac Surg . (2015) 100:e139 –40. doi: 10.1016/j.athoracsur.2015.07.064
+26. Serraf A, Lacour-Gayet F, Robotin M, Bruniaux J, Sousa-Uva M, Roussin R, et al.
+Repair of interrupted aortic arch: a ten-year experience. J Thorac Cardiovasc Surg .
+(1996) 112:1150 –60. doi: 10.1016/S0022-5223(96)70128-9
+27. Shinkawa T, Jaquiss RD, Imamura M. Single institutional experience of
+interrupted aortic arch repair over 28 years. Interact Cardiovasc Thorac Surg . (2012)
+14:551–5. doi: 10.1093/icvts/ivr163
+28. Huber C, Mimic B, Oswal N, Sullivan I, Kostolny M, Elliott M, et al. Outc omes
+and re-interventions after one-stage repair of transposit ion of great arteries and aortic
+arch obstruction. Eur J Cardiothorac Surg . (2011) 39:213 –20. doi: 10.1016/j.ejcts.2010.
+05.009
+29. Patel DM, Maldjian PD, Lovoulos C. Interrupted aortic arch with
+post-interruption aneurysm and bicuspid aortic valve in an adult: a case
+report and literature review. Radiol Case Rep . (2015) 10:5 –8. doi: 10.1016/j.radcr.
+2015.06.001
+30. Tchervenkov CI, Jacobs JP, Sharma K, Ungerleider RM. Interrupted aortic arch:
+surgical decision making. Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu .
+(2005) 8:92 –102. doi: 10.1053/j.pcsu.2005.01.023
+31. Jacobs ML, Chin AJ, Rychik J, Steven JM, Nicolson SC, Norwood WI.
+Interrupted aortic arch: impact of subaortic stenosis on management and outcome.
+Circulation. (1995) 92:128 –31. doi: 10.11601/01.CIR.92.9.128
+32. Schreiber C, Eicken A, Vogt M, Günther T, Wottke M, Thielmann M, et al.
+Repair of interrupted aortic arch: results after more than 20 years. Ann Thorac
+Surg. (2000) 70:1896 –900. doi: 10.1016/S0003-4975(00)01858-0
+33. Kaulitz R, Jonas RA, van der Velde ME. Echocardiographic assessment of
+interrupted aortic arch. Cardiol Young . (1999) 9:562 –71. doi: 10.1017/
+S1047951109990794
+34. Vogel M, Vernon MM, McElhinney DB, Brown DW, Colan SD, Tworetzky W.
+Fetal diagnosis of interrupted aortic arch. Am J Cardiol . (2010) 105:727 –34. doi: 10.
+1016/j.amjcard.2009.10.053
+35. Blondheim DS, Vassilenko L, Glick Y, Asif A, Nachtigal A, Meisel SR, et al.
+Aortic dimensions by multi-detector computed tomography vs. echocardiography.
+J Cardiol . (2016) 67:365 –70. doi: 10.1016/j.jjcc.2015.06.008
+36. Tamborini G, Galli CA, Maltagliati A, Andreini D, Pontone G, Quaglia C, et al.
+Comparison of feasibility and accuracy of transthoracic echocardiography versus
+computed tomography in patients with known ascending aortic aneurysm. Am
+J Cardiol . (2006) 98:966 –9. doi: 10.1016/j.amjcard.2006.04.043
+37. Sakellaridis T, Argiriou M, Panagiotakopoulos V, Krassas A, Argiriou O,
+Charitos C. Latent congenital defect: interrupted aortic arch in an adult — case
+report and literature review. Vasc Endovasc Surg . (2010) 44:402 –6. doi: 10.1177/
+1538574410369566
+38. Al-Azzazy MZ, Nasr MS, Shoura MA. Multidetector computed tomography
+(MDCT) angiography of thoracic aortic coarctation in pediatric patients: pre-
+operative evaluation. Egypt J Radiol Nucl Med . (2014) 45:159 –67. doi: 10.1016/j.
+ejrnm.2013.10.003
+39. Soleimantabar H, Sabouri S, Khedmat L, Salajeghe S, Memari B, Ghahderijani
+BH. Assessment of CT angiographic ﬁndings in comparison with echocardiography
+ﬁndings of chest among patients with aortic arch anomalies. Monaldi Arch Chest
+Dis. (2019) 89(6):23 –8. doi: 10.4081/monaldi.2019.1120
+40. Oguz BE, Haliloglu M İ, Karcaaltincaba MU. Paediatric multidetector CT
+angiography: spectrum of congenital thoracic vascular anomalies. Br J Radiol .
+(2007) 80:376 –83. doi: 10.1259/bjr/47124005
+41. Lim HK, Ha HI, Hwang HJ, Lee K. Feasibility of high-pitch dual-source low-
+dose chest CT: reduction of radiation and cardiac artifacts. Diagn Interv Imaging .
+(2016) 97:443 –9. doi: 10.1016/j.diii.2016.01.007
+42. Fogel MA, Pawlowski TW, Harris MA, Whitehead KK, Keller MS, Wilson J,
+et al. Comparison and usefulness of cardiac magnetic resonance versus computed
+tomography in infants six months of age or younger with aortic arch anomalies
+without deep sedation or anesthesia. Am J Cardiol . (2011) 108:120 –5. doi: 10.1016/j.
+amjcard.2011.03.008
+Moldakhanova et al. 10.3389/fradi.2025.1616112
+Frontiers in
+Radiology 09 frontiersin.org

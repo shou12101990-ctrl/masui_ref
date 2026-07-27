@@ -1,0 +1,702 @@
+
+[[p1]]
+Introduction 
+Remimazolam is a rapidly metabolized benzodiazepine (BZD) that has been approved 
+for general anesthesia and procedural sedation in Korea since 2021. It shows the typical 
+pharmacodynamic profile of other BZDs (e.g., midazolam), but has high organ-indepen-
+dent elimination clearance. It is rapidly metabolized by nonspecific esterases [predomi-
+nantly carboxylesterase 1A (CES 1A)], mainly localized in the human liver, to CNS7054, 
+a so-called inactive metabolite with reduced binding affinity with a 300 to 400 times re-
+duced binding affinity at the γ-aminobutyric acid (GABA) type A receptor. After admin-
+istration, plasma concentrations of remimazolam predictably and rapidly decrease, and 
+with adequate dosing, there is no prolonged sedative effect. Though it has been approved 
+in Korea for general anesthesia, further clinical experience with remimazolam as well as 
+evidence-based approaches for dosing and drug handling are needed for its safe and effi-
+cient use in various patient populations and clinical conditions. Therefore, the aim of this 
+review article is to provide an overview of the specific pharmacodynamic and pharmaco-
+kinetic characteristics of remimazolam relevant to its clinical application as a modern in-
+travenous sedative and anesthetic agent.  
+Received: March 17, 2022 
+Revised: May 5, 2022 (1st); May 15, 2022 
+(2nd)
+Accepted: May 16, 2022 
+Corresponding author: 
+Jörg Fechner, M.D. 
+Department of Anesthesiology, Friedrich-
+Alexander-University Erlangen-Nuremberg, 
+Krankenhausstrasse 12, 91054 Erlangen, 
+Germany 
+Tel: +49-913-1854-2731 
+Fax: +49-913-1853-6147 
+Email: joerg.fechner@uk-erlangen.de  
+ORCID: https://orcid.org/0000-0002-8713-9114
+Remimazolam – current knowledge 
+on a new intravenous benzodiazepine 
+anesthetic agent 
+Seong-Hyop Kim
+1,2
+, Jörg Fechner
+3
+  
+1
+Department of Anesthesiology and Pain Medicine, Konkuk University Medical Center, 
+2
+Department of Medicine, Institute of Biomedical Science and Technology, Konkuk University 
+School of Medicine, Seoul, Korea, 
+3
+Department of Anesthesiology, Friedrich-Alexander-
+University Erlangen-Nuremberg, Erlangen, Germany
+Korean J Anesthesiol 2022;75(4):307-315
+https://doi.org/10.4097/kja.22297
+pISSN 2005–6419 • eISSN 2005–7563
+Review Article
+Intravenous anesthetic agents such as midazolam, propofol, and ketamine are routinely 
+used to provide anesthesia and sedation. They have been shown to effectively induce and 
+maintain amnesia, sedation, and hypnosis in various patient groups and clinical settings. 
+However, all anesthetic agents have the potential to cause unwanted side effects such as he-
+modynamic instability, respiratory depression, or slow recovery due to prolonged 
+post-procedural sedation. Remimazolam, a recently approved benzodiazepine for general 
+anesthesia and procedural sedation in Korea, has been successfully used for these purpos-
+es. To date, inconclusive knowledge has been obtained regarding the use of remimazolam 
+in different patient populations and under various surgical conditions. With respect to the 
+specific pharmacokinetic and pharmacodynamic characteristics of remimazolam, the use 
+of remimazolam is expected to increase providing safe general anesthesia and sedation. 
+This review aims to provide an overview of the basic and clinical pharmacology of remim-
+azolam and to compare it with midazolam and propofol. 
+Keywords: Amnesia; Anesthesia; Benzodiazepine; Conscious sedation; Hypnosis; Remim-
+azolam.
+The Korean Society of Anesthesiologists, 2022
+This is an open-access article distributed under 
+the terms of the Creative Commons Attribution 
+Non-Commercial License (http://creativecommons. 
+org/licenses/by-nc/4.0/), which permits unrestricth-
+ed non-commercial use, distribution, and repro-
+duction in any medium, provided the original work 
+is properly cited.
+307Online access in http://ekja.org
+
+[[p2]]
+Basic knowledge on intravenous anesthetic 
+agents  
+Mechanism of action of intravenous anesthetic agents 
+While the introduction of general anesthesia was a revolution-
+ary achievement in medical history, the mechanism of action of 
+anesthetic agents is still not fully understood. The concept that 
+anesthetic agents produce neuro-depression in specific areas of 
+the central nervous system by enhancing the effect of inhibitory 
+neurotransmitters (especially GABA), reducing the effect of excit-
+atory neurotransmitters, and suppressing specific neuronal net-
+work activity necessary for consciousness and arousal has been 
+generally accepted [1,2]. The GABA receptor system is the main 
+inhibitory receptor population in the human central nervous sys-
+tem and the main target receptor for intravenous anesthetic agents 
+that induce general anesthesia [1]. Most intravenous anesthetic 
+agents, such as barbiturates, BZDs, propofol, and etomidate, bind 
+to GABA type A receptors, except for ketamine, which mainly 
+acts via the N-methyl-D-aspartate (NMDA) receptor along with 
+other receptor types. All intravenous anesthetic agents can induce 
+amnesia, hypnosis, sedation, unconsciousness, and immobility 
+(muscle-suppression), although immobility is achieved to a great-
+er extent with inhalational anesthetic agents. Intravenous anes-
+thetic agents may also induce cardiovascular depression, respira-
+tory depression, or pain during injection. 
+An ideal intravenous anesthetic agent and soft drug 
+An ideal intravenous anesthetic agent (Table 1) has not yet been 
+developed. All the available intravenous anesthetic agents can 
+cause undesirable side effects. Therefore, balanced anesthesia us-
+ing a combination of different anesthetic agents at the lowest pos-
+sible doses to achieve adequate anesthesia has been used in the 
+past to minimize side effects in daily practice. Modern anesthetic 
+agents must therefore be effective, efficient, and well tolerated. To 
+improve usability, new intravenous anesthetic agents should also 
+offer a drug effect that is predictable, with a rapid onset and offset. 
+Drug development programs are searching for intravenous anes-
+thetic agents that are specifically structured to undergo rapid bio-
+transformation into inactive metabolites. This type of drug is 
+called a “soft drug, ” and remifentanil is a well-known prototype. 
+Remimazolam, which is the newest “soft drug, ” has been devel-
+oped based on the midazolam molecular structure (Figs. 1 and 2) 
+and is a structural analog with an added ester side chain. After 
+Table 1. Ideal Intravenous Anesthetic Agent
+Physical and chemical properties Pharmacology
+Chemically stable Painless injection
+Water soluble Low incidence of thrombophlebitis
+No additives/No reconstitution required Harmless on extravasation and intraarterial injection
+Long shelf-life Low incidence of adverse reactions
+Compatible with other intravenous fluids or drugs Smooth onset of anesthesia
+Bacteriostatic No associated unwanted movements
+Anticonvulsant, antiemetic, and analgesic effects
+No associated respiratory depression or bronchodilation
+No cardiovascular depression or stimulation
+Predictable recovery
+Rapid conversion to non-active metabolites
+No hepatic or renal impairment
+No suppression of corticosteroid synthesis
+No association with emergence phenomenon
+No teratogenic effects
+Not much accumulation in body tissues, maintenance of general anesthesia possible
+Fig. 1. Chemical structure of midazolam.
+H3C
+N
+N
+N
+O
+OH
+OH
+O
+F
+DD
+D
+D
+CI
+https://doi.org/10.4097/kja.22297308
+Kim and Fechner · Remimazolam as a new benzodiazepine
+[[p3]]
+discontinuing the administration of a soft drug, the effects rapidly 
+disappear, as the parent compound is quickly converted to inac-
+tive or much less active metabolites [3]. Anesthetic soft drugs can 
+be further characterized by pharmacologic efficiency, which is an 
+easy dosing scheme with a superior care-to-treatment-cost ratio, 
+rapid restoration of protective reflexes, rapid return of sponta -
+neous ventilation, and reduced need for postoperative care moni-
+toring [3]. 
+Midazolam, a well-known BDZ, is metabolized by hepatic cyto-
+chrome P450 enzymes and glucuronide conjugation [4]. However, 
+in contrast to remimazolam, midazolam metabolites are active. 
+The sedative or anesthetic effect of midazolam and its metabolites 
+can be prolonged due to its organ dependency and much lower 
+drug clearance rate, especially after prolonged drug administra-
+tion or in patients with advanced age or reduced hepatic or renal 
+function. Midazolam, in contrast to remimazolam, cannot be 
+called a soft drug. To date, the use of midazolam for anesthesia 
+and sedation has been limited mainly to postoperative intensive 
+care unit sedation. Midazolam is no longer used for the mainte-
+nance of intravenous anesthesia. 
+Remimazolam 
+Basic pharmacology of remimazolam 
+Depending on the plasma and effect site concentrations (bio-
+phase) of remimazolam, the following effects can be reliably 
+achieved: amnesia, sedation and hypnosis, unconsciousness, and 
+some degree of immobility. In comparison to midazolam, remim-
+azolam does not cause prolonged sedative effects after discontinu-
+ation because it is rapidly metabolized by nonspecific tissue ester-
+ases to CNS7054, the only active metabolite with an affinity for 
+the GABA type A receptor that is 300 times lower and with no 
+clinically relevant effect at the receptor site [5]. Remimazolam is a 
+“soft drug” with the pharmacodynamic characteristics of a BZD. 
+Remimazolam shows some characteristics of an ideal intravenous 
+anesthetic agent. It is water-soluble, has a high clearance rate that 
+is organ-independent, and shows more benign hemodynamic and 
+respiratory side effects than propofol. 
+The pharmacokinetics of remimazolam have been described 
+using non-compartmental and compartmental modeling ap -
+proaches as well as a recirculatory model [6–8]. In these pharma-
+cokinetic models, total body clearance was found to be indepen-
+dent of body weight, which was remarkable. In a clinical trial, Lu 
+et al. [9] estimated that a body-weight-independent single dose of 
+11.43 mg of remimazolam achieves a 90% (ED90) probability for 
+adequate sedation during colonoscopy. This study illustrates 
+body-weight-independent and simple dosing concepts for remi-
+mazolam. Total body clearance values have been estimated at 70.3 
+±  13.9 L/h by Antonik et al. [8] 66.7 ±  2.59 L/h by Wiltshire et al. 
+[7], and 69 ±  7.2 L/h by Schuttler et al. [6]. In contrast, the total 
+body clearance of midazolam has been measured at 22.6 ±  8.36 
+L/h by Wiltshire et al. [7]. Thus, the clearance of midazolam ap-
+pears to be nearly one-third the total body clearance of remima-
+zolam. The total body clearance for propofol has been measured 
+at 102 ±  18 L/h by Gepts et al. [10] in a rather historic but still 
+used dataset, incorporated as the “Marsh model” [11] in commer-
+cially available target-controlled infusion (TCI) systems for 
+propofol. Therefore, the estimated total body clearance rate of 
+???QT–ROD?????L
+am, but the clearance of propofol is organ-dependent and can be 
+reduced in hepatic disease. In contrast, Stöhr et al. [12] showed 
+that neither hepatic nor renal dysfunction impairs the clearance 
+of remimazolam. A total volume of distribution at steady state 
+(Vdss) of approximately 35 L has been described for remimazol-
+am [6,8], whereas for propofol, the Vdss has been estimated at 400 
+L [10], which is approximately 10 times the Vdss of remimazolam. 
+A smaller Vdss speeds up drug elimination and patient recovery, 
+as it indicates that less drug has accumulated in the body during 
+administration, and so less has to be cleared after discontinuation. 
+Based on pharmacokinetic simulations, context-sensitive decre-
+ment times of a 50% decrease in the plasma and effect site con -
+centrations of remimazolam are very comparable to the simulated 
+times for propofol (Figs. 3 and 4). In these simulations, the phar-
+macokinetic dataset of Gepts/Marsh et al. [11] for propofol and 
+the pharmacokinetic dataset of Schuttler et al. [6] for remimazol-
+am were used. The decrement time is shorter for remimazolam 
+when we look at the decrease in plasma concentration, but it is 
+approximately 3 to 4 min longer when we look at the decrease in 
+the effect site concentration. This is more consistent with the clin-
+Fig. 2. Chemical structure of remimazolam.
+C12H19BrN4O2
+FW = 439,30 g/mol
+H3C
+Br
+N
+N
+N
+N
+COOMe
+309https://doi.org/10.4097/kja.22297
+Korean J Anesthesiol 2022;75(4):307-315
+[[p4]]
+ical finding that recovery times after remimazolam anesthesia 
+tend to be approximately 1–5 min longer when directly compared 
+to propofol [13]. 
+The transfer constant ke0 (1/min) describes the speed of drug 
+exchange between the central compartment and the effect com-
+partment or the biophase. A ke0 of approximately 0.25 min
+-1
+ has 
+been estimated for remimazolam using the modified observer’s 
+assessment of alertness and sedation (MOAA/S) scale as a param-
+eter of the electroencephalogram (EEG) in volunteers of both sex-
+es by Wiltshire et al. [7]. A ke0 value of 0.33 has been described by 
+Eisenried et al. [14] in young male healthy volunteers using the 
+beta ratio of the EEG as a pharmacodynamic parameter. A larger 
+ke0 value would speed up substance exchange between the effect 
+compartment and central compartment and thus shorten the in-
+duction and recovery times. From a scientific point of view, insuf-
+ficient data have been published to date regarding the exact esti-
+mation of the ke0 value of remimazolam for the bispectral index 
+(BIS). This is the most clinically relevant EEG parameter when 
+remimazolam is administered to induce and maintain general an-
+esthesia or sedation. 
+Interaction modeling between opioids and remimazolam 
+during general anesthesia has only been described for remifentan-
+il in a publication by Zhou et al. [15], in which the BIS was the 
+pharmacodynamic effect parameter. This published interaction 
+model for remimazolam and remifentanil during general anesthe-
+sia is inconclusive, as the interaction only shows a relevant effect 
+and a weak interaction up to a remifentanil dosing of 0.5 µg/kg/
+min, and with higher dosages of remifentanil, the interaction is 
+further reduced. This might be explained by the study designs of 
+the re-evaluated trials, as the whole range of clinically relevant 
+remifentanil and remimazolam concentrations were not studied 
+[15]. Even more relevant for the clinical use of remimazolam is its 
+anesthetic drug potency compared to that of propofol, which is 
+described by the half-maximal effective concentration (EC 50). 
+EC50 is the plasma concentration at the time when 50% of the 
+maximal effect for a pharmacodynamic parameter (e.g., the BIS) 
+is achieved. In the study conducted by Wiltshire et al. [7], a de-
+crease in the maximum BIS of 50% was achieved with a remima-
+zolam effect site concentration of 0.259 µg/ml, whereas for propo-
+fol, the EC50 value for the BIS was estimated as 1.78 ±  0.67 µg/ml 
+in a publication by Mourisse et al. [16]. Considering these pub-
+lished EC 50 values, remimazolam is much more potent than 
+propofol in terms of the effect-site concentrations estimated for 
+the same effect on the BIS. This may explain the slightly pro -
+longed recovery times of remimazolam compared to propofol, as 
+a decrease of the effect site concentration of propofol by 50% re-
+duces the anesthetic effect more than a reduction in the effect site 
+Fig. 3. Simulation of context-sensitive decrement times of plasma 
+concentrations for remimazolam and propofol (remimazolam ke0 = 
+0.25 min
+-1
+; propofol ke0 = 0.26 min
+-1
+).
+20
+15
+10
+5
+0
+Context sensitive decrement time (min)
+Context sensitive decrement times for 50% decrease of concentration
+Infusion duration (min)
+60 120 180 240
+Drug
+  Propofol
+  Remimazolam
+Drug
+  Propofol
+  Remimazolam
+20
+15
+10
+5
+0
+Context sensitive decrement time (min)
+Context sensitive decrement times for 50% decrease of concentration
+Infusion duration (min)
+60 120 180 240
+Fig. 4. Simulation of the context-sensitive decrement times of effect 
+concentrations for remimazolam and propofol (remimazolam ke0 = 
+0.25 min
+-1
+; propofol ke0 = 0.26 min
+-1
+).
+https://doi.org/10.4097/kja.22297310
+Kim and Fechner · Remimazolam as a new benzodiazepine
+[[p5]]
+concentration of remimazolam by 50%. 
+In summary, although the most accurate pharmacokinetic pa-
+rameters of remimazolam have been described, this is not the case 
+for the pharmacodynamic parameters, such as EC50 and the trans-
+fer constant ke0. Further studies are needed to validate these im-
+portant pharmacological parameters of remimazolam. 
+Clinical pharmacology of remimazolam 
+The hemodynamic stability of remimazolam, especially when 
+compared to propofol, is remarkable. Most intravenous anesthetic 
+agents besides ketamine exhibit dose-dependent cardiovascular 
+depressive effects. These cardiovascular effects can be explained 
+by a dose-dependent decrease in systemic vascular resistance as 
+well as a dose-dependent decrease in cardiac contractility. The ef-
+fects of remimazolam on intracellular calcium homeostasis in en-
+dothelial and neuronal cells have not yet been fully elucidated. 
+Urabe et al. [17] studied the effect of remimazolam on the intra-
+cellular concentration of calcium. They described how remima-
+zolam can increase the calcium concentration in endothelial and 
+neuronal cells via the G-protein coupled receptors (GPCRs)-ino-
+sitol 1,4,5-triphosphate (IP3) pathway. They discussed how the ef-
+fect is reversible, whereas, when propofol is administered, this ef-
+fect is different and irreversible. This might be the first step to ex-
+plaining the different hemodynamic effects of remimazolam 
+compared to propofol, possibly modulated by different effects on 
+the intracellular calcium homeostasis of endothelial cells. 
+Decreased blood pressure with a mean arterial pressure below 
+65 mmHg for >  1 min is associated with an increased incidence 
+of postoperative myocardial injury or acute kidney injury [18]. As 
+remimazolam is a BZD, better hemodynamic stability than propo-
+fol can be expected. Frölich et al. compared the hemodynamic ef-
+fects of propofol, midazolam, and dexmedetomidine. They found 
+that dexmedetomidine and propofol reduced the arterial blood 
+pressure in a dose-dependent manner. Systolic blood pressure 
+(SBP) and diastolic blood pressure (DBP) were maintained in the 
+midazolam group during induction of mild-to-moderate sedation 
+in American Society of Anesthesiologists Physical Status (ASA 
+PS) I human volunteers of both sexes; a significant decrease in the 
+SBP and DBP occurred with the use of propofol [19]. Lim et al. 
+compared the cardiovascular effects of the co-administration of 
+midazolam (0.03 mg/kg) and a reduced dose of propofol (0.8 mg/
+kg) to a propofol dose of 1.2 mg/kg, each combined with remifen-
+tanil for induction of anesthesia in ASA PS I to II patients of both 
+sexes aged >  65 years. The co-administration of midazolam and a 
+lower dose of propofol reduced the time to loss of consciousness, 
+and the decrease in mean arterial blood pressure before, immedi-
+ately after, and 3 min after intubation was significantly smaller 
+[20]. The hemodynamic effects of remimazolam has the similar 
+characteristics with midazolam. Moreover, remimazolam shows 
+rapid on-set and off-set. Therefore, remimazolam is associated 
+with the better hemodynamic stability than other intravenous an-
+esthetic agents, including propofol. 
+The concentration of intravenous anesthetic agents and the an-
+esthetic effects over time can be more accurately controlled with 
+the use of a TCI system than with a manually controlled infusion 
+system. Several research groups have investigated and described 
+pharmacokinetic and pharmacodynamic models of remimazol-
+am. Sufficient pharmacokinetic data have been published to fur-
+ther develop and test a TCI system for remimazolam in the near 
+future. Insufficient data have been published describing the con-
+centration-effect relationship of remimazolam on typical EEG pa-
+rameters such as the BIS during general anesthesia and during 
+co-administration with an opioid in patients [6,14,15]. Further 
+clinical investigations are necessary to clearly define the pharma-
+codynamic interactions between remimazolam and different opi-
+oids in a clinical setting. The parameter “ke0” is important for cal-
+culating the speed at which the effect-site concentrations of remi-
+mazolam will increase or decrease. This parameter is necessary 
+for a TCI system to directly model and target effect site concen-
+trations and to increase the adjustability of the drug effect over 
+time, especially to shorten recovery times by adequate dosing.
+Remimazolam for anesthetic induction and maintenance 
+For anesthesia induction and maintenance, remimazolam 
+should be compared with propofol. Propofol has the following 
+disadvantages when used for anesthetic induction and mainte -
+nance: 1) pain on injection, 2) decrease in blood pressure, 3) de-
+crease in heart rate, 4) respiratory depression, and 5) propofol in-
+fusion syndrome (very rare). In the following, we present clinical 
+trial results comparing remimazolam and propofol for the induc-
+tion and maintenance of general anesthesia. 
+Dai et al. [21] evaluated the safety and efficacy of remimazolam 
+for anesthetic induction compared with propofol at 2 mg/kg in 
+190 patients with ASA PS I or II. A bolus dose of sufentanil (0.3 to 
+0.5 µg/kg) was administered 1 min before anesthetic induction. 
+Anesthesia was successfully induced with remimazolam at 0.2 
+mg/kg (group R1), 0.3 mg/kg (group R2), and 0.4 mg/kg (group 
+R3) in 89%, 94%, and 100% of patients within 1 min, respectively. 
+Successful induction rates were not significantly different between 
+the R2, R3, and propofol groups. Dai et al. [21] also compared the 
+hypotension rate for the three induction doses of remimazolam 
+(0.2 mg/kg, 0.3 mg/kg, and 0.4 mg/kg) to that for the induction 
+311https://doi.org/10.4097/kja.22297
+Korean J Anesthesiol 2022;75(4):307-315
+[[p6]]
+dose of propofol (group P) at 2 mg/kg. Hypotension during in -
+duction, defined as a mean arterial blood pressure <  65 mmHg 
+or a systolic blood pressure decrease to <  70% of baseline values, 
+occurred in 13% of patients in group R1 and 24% of patients in 
+group R2. The incidence of hypotension was significantly less in 
+groups R1 and R2 compared to group P (44%). This study has the 
+limitation that the anesthetic drug effect over time was not exactly 
+comparable between the three remimazolam groups and the 
+propofol group. Sufentanil dosing was not standardized. Never-
+theless, in this trial, remimazolam showed superior hemodynamic 
+stability during anesthetic induction even though co-adminis -
+tered with sufentanil. Pain on injection was not reported in this 
+trial for all three remimazolam groups; in contrast, it was reported 
+in 27% of patients who had received propofol. 
+Zhang et al. [22] compared an induction dose of remimazolam 
+(0.2 mg/kg) for anesthesia induction and 1.0 mg/kg/h for anesthe-
+sia maintenance to an induction dose of propofol (2 to 2.5 mg/kg) 
+and a propofol maintenance dose of 3–6 mg/kg/h in patients with 
+ASA PS I or II undergoing hysteroscopy. Analgesia was achieved 
+with remifentanil using a TCI with an effect-site target concentra-
+tion of 1.5 µg/ml in both groups. Remifentanil infusion was initi-
+ated after induction with remimazolam or propofol. Based on 
+their definitions of adverse events, the authors reported less sig-
+nificantly low peripheral oxygen saturation values ≤  95%, lower 
+injection pain (2.4% vs. 80.5%), and less postoperative dizziness (0 
+vs. 24.4%) when remimazolam was used instead of propofol. They 
+concluded that remimazolam is “a safer alternative to anesthesia 
+during hysteroscopy. ” However, although awakening times were 
+longer in the remimazolam groups (199 ±  80 s vs. 60 ±  12 s) in 
+this trial, the post-anesthetic care unit length of stay was shorter 
+in the remimazolam group (5.44 ±  1 min vs. 6.3 ±  1.9 min). The 
+depth of anesthesia was monitored using the MOAA/S scale. Fu-
+ruta et al. [23] presented a case report of successful induction and 
+maintenance of general anesthesia with remimazolam during to-
+tal mastectomy in a female patient aged 81 years with severe aor-
+tic valve stenosis. They concluded that general anesthesia using 
+remimazolam preserved cardiac output in this patient and there-
+fore, remimazolam might be a safe alternative for patients with se-
+vere aortic valve stenosis to avoid a further and critical decrease in 
+cardiac contractility.  
+Liu et al. [ 24] compared two groups of 30 patients each that 
+were induced with remimazolam 0.3 mg/kg at a constant infusion 
+rate of 1.8 mg/kg/h or propofol as a TCI with a target plasma con-
+centration of 2.5 µg/ml scheduled for valve replacement cardiac 
+surgery. All patients received a sufentanil dose of 1 µg/kg at an in-
+fusion rate of 0.1 µg/kg/min. After 7 min, the patients were re -
+laxed, and after 10 min or after the BIS decreased below 60, they 
+were intubated. The primary outcome was the maximum change 
+in heart rate compared to baseline, though the maximum change 
+in mean arterial blood pressure was also evaluated. This study did 
+not find a significant difference of heart rate change between the 
+groups; however, in the remimazolam group, a significantly small-
+er decrease in mean arterial blood pressure during induction was 
+noted. They concluded that remimazolam may be a safe and ef-
+fective alternative to propofol for anesthetic induction in patients 
+with cardiac valve disease. 
+As remimazolam is a BZD, the specific reversal agent flumaze-
+nil is available and can be used in clinical practice to further accel-
+erate recovery times or specifically treat prolonged postoperative 
+sedation. This is a valuable advantage compared to propofol be-
+cause clinicians can easily discriminate between prolonged seda-
+tion and other postoperative pathologies, such as postoperative 
+stroke, which would also impact the speed of postoperative recov-
+ery to full awareness. However, the routine use of flumazenil for 
+the reversal of remimazolam should be prospectively evaluated 
+for possible side effects and safety in future studies. The main dif-
+ferences between remimazolam and propofol are summarized in 
+Table 2. 
+Precipitation 
+Sasaki et al. [25] reported the precipitation of remimazolam af-
+ter a bolus administration of 0.2 mg/kg with Ringer’s acetate solu-
+tion. Y oshida et al. [26] also reported occlusion of an intravenous 
+line running Ringer’s acetate solution when remimazolam was 
+used at a concentration of 2 mg/ml. The solubility of remimazol-
+am is higher at low pH than at high pH, and its solubility is higher 
+in normal saline than in Ringer’s solution. Therefore, precipitation 
+Table 2. Comparison between Remimazolam and Propofol
+Remimazolam Propofol
+Anesthetic induction Speed Fast Fast
+Pain at administration No Ye s
+Anesthetic maintenance Hypotension Less frequent, severe More frequent, severe
+Emergence from anesthesia Speed Fast Fast
+Reverse agent Flumazenil -
+https://doi.org/10.4097/kja.22297312
+Kim and Fechner · Remimazolam as a new benzodiazepine
+[[p7]]
+can occur when it is co-administered with Ringer’s solution. The 
+risk of precipitation increases when a solution with a high remim-
+azolam concentration and a low infusion rate of the maintenance 
+fluid is used. This should be avoided. 
+Further evaluation of remimazolam 
+To precisely titrate remimazolam to a chosen pharmacodynam-
+ic effect, accurate pharmacokinetic and pharmacodynamic mod-
+els are essential. To date, interaction modeling between opioids 
+and remimazolam during general anesthesia has only been de -
+scribed for remifentanil in a publication by Zhou et al. [15], for 
+which the BIS was used as a pharmacodynamic effect parameter. 
+Further randomized controlled trials that precisely describe the 
+pharmacodynamic interaction of remimazolam with remifentanil, 
+sufentanil, and fentanyl are necessary for feasible and rational 
+dosing strategies to be developed for various clinical settings and 
+patient populations. The development of a TCI system for remim-
+azolam targeting plasma and effect-site concentrations would fur-
+ther improve exact dosing. The availability of a TCI system could 
+also help reduce recovery times, as the time to reach an estimated 
+awakening concentration of remimazolam can continuously be 
+calculated and displayed on a modern TCI smart pump system. 
+The use of flumazenil to quickly antagonize any residual sedative 
+or anesthetic effects of remimazolam should also be further inves-
+tigated. Flumazenil will certainly result in shorter recovery times 
+and may also reduce the incidence of postoperative cognitive defi-
+cit (POCD) or cognitive decline shortly after surgery. Shi et al. 
+[27] showed that remimazolam had a protective effect in a rat 
+model of cerebral ischemia/reperfusion. Other harmful or protec-
+tive side effects of general anesthetics, such as recurrence rates of 
+cancer at the site of resection or effects on metastatic disease bur-
+den, the incidence of postoperative nausea and vomiting, and the 
+incidence and severity of POCD should be further investigated.  
+Conclusion 
+It has previously been shown that remimazolam is non-inferior 
+to midazolam in terms of providing adequate sedation, and when 
+co-administered with opioids, is non-inferior to propofol for in-
+duction and maintenance of general anesthesia [8,13]. The hemo-
+dynamic and respiratory stability of remimazolam compared to 
+propofol is notable, but further well-designed randomized con-
+trolled clinical trials are needed to confirm and support these 
+findings. Awakening times can be slightly prolonged directly 
+compared to propofol; however, current knowledge suggests that 
+the difference is only in the range of 1 to 5 min, which might not 
+be clinically relevant in daily practice [13]. Additionally, a signifi-
+cant advantage of remimazolam is that prolonged recovery can be 
+specifically treated with flumazenil. The risk of precipitation in 
+the infusion line should be recognized, and Ringer’s solution 
+should not be used together with remimazolam as the mainte -
+nance fluid. Remimazolam is the first new intravenous anesthetic 
+agent that has been successfully introduced into clinical practice 
+in more than four decades, primarily given its superior hemody-
+namic safety profile compared to propofol. Remimazolam is a soft 
+drug with a pharmacological profile that should enable it to at 
+least partially replace propofol as a standard intravenous anesthet-
+ic agent for general anesthesia in the future. 
+Acknowledgements 
+Jörg Fechner dedicates this review in memoriam to Professor 
+Dr. med. Dr. rer. nat. Helmut Schwilden, who died in September 
+of 2015. He would like to thank him for his personal support and 
+for being an outstanding teacher and lecturer in anesthetic phar-
+macology and pharmacokinetic-pharmacodynamic modeling. 
+Funding 
+None. 
+Conflicts of Interest 
+Jörg Fechner worked as a medical adviser for PAION in 
+Aachen, Germany and as a consultant for HANAPharm in Seoul, 
+Korea. Seong-Hyop Kim has no competing interests to declare. 
+Author Contributions 
+Seong-Hyop Kim (Conceptualization; Data curation; Formal 
+analysis; Funding acquisition; Investigation; Methodology; Project 
+administration; Resources; Software; Supervision; Validation; Vi-
+sualization; Writing – original draft; Writing – review & editing) 
+Jörg Fechner (Conceptualization; Data curation; Formal analysis; 
+Funding acquisition; Investigation; Methodology; Project admin-
+istration; Resources; Software; Supervision; Validation; Visualiza-
+tion; Writing – original draft; Writing – review & editing) 
+ORCID
+Seong-Hyop Kim, https://orcid.org/0000-0001-7764-9818
+Jörg Fechner, https://orcid.org/0000-0002-8713-9114
+313https://doi.org/10.4097/kja.22297
+Korean J Anesthesiol 2022;75(4):307-315
+[[p8]]
+References 
+1. Shin TJ, Kim PJ, Choi B. How general anesthetics work: from the 
+perspective of reorganized connections within the brain. Korean 
+J Anesthesiol 2022; 75: 124-38. 
+2. Son Y . Molecular mechanisms of general anesthesia. Korean J 
+Anesthesiol 2010; 59: 3-8. 
+3. Birgenheier NM, Stuart AR, Egan TD. Soft drugs in anesthesia: 
+remifentanil as prototype to modern anesthetic drug develop-
+ment. Curr Opin Anaesthesiol 2020; 33: 499-505. 
+4. Wandel C, Böcker R, Böhrer H, Browne A, Rügheimer E, Mar-
+tin E. Midazolam is metabolized by at least three different cyto-
+chrome P450 enzymes. Br J Anaesth 1994; 73: 658-61.  
+5. Kilpatrick GJ, McIntyre MS, Cox RF , Stafford JA, Pacofsky GJ, 
+Lovell GG, et al. CNS 7056: a novel ultra-short-acting Benzodi-
+azepine. Anesthesiology 2007; 107: 60-6. 
+6. Schüttler J, Eisenried A, Lerch M, Fechner J, Jeleazcov C, Ihmsen 
+H. Pharmacokinetics and pharmacodynamics of remimazolam 
+(CNS 7056) after continuous infusion in healthy male volun-
+teers: Part I. Pharmacokinetics and clinical pharmacodynamics. 
+Anesthesiology 2020; 132: 636-51. 
+7. Wiltshire HR, Kilpatrick GJ, Tilbrook GS, Borkett KM. A place-
+bo- and midazolam-controlled phase I single ascending-dose 
+study evaluating the safety, pharmacokinetics, and pharmacody-
+namics of remimazolam (CNS 7056): Part II. Population phar-
+macokinetic and pharmacodynamic modeling and simulation. 
+Anesth Analg 2012; 115: 284-96. 
+8. Antonik LJ, Goldwater DR, Kilpatrick GJ, Tilbrook GS, Borkett 
+KM. A placebo- and midazolam-controlled phase I single as-
+cending-dose study evaluating the safety, pharmacokinetics, and 
+pharmacodynamics of remimazolam (CNS 7056): Part I. Safety, 
+efficacy, and basic pharmacokinetics. Anesth Analg 2012; 115: 
+274-83. 
+9. Lu Z, Zhou N, Li Y , Y ang L, Hao W . Up-down determination of 
+the 90% effective dose (ED90) of remimazolam besylate for an-
+esthesia induction. Ann Palliat Med 2022; 11: 568-73. 
+10. Gepts E, Camu F , Cockshott ID, Douglas EJ. Disposition of 
+propofol administered as constant rate intravenous infusions in 
+humans. Anesth Analg 1987; 66: 1256-63. 
+11. Marsh B, White M, Morton N, Kenny GN. Pharmacokinetic 
+model driven infusion of propofol in children. Br J Anaesth 
+1991; 67: 41-8. 
+12. Stöhr T, Colin PJ, Ossig J, Pesic M, Borkett K, Winkle P , et al. 
+Pharmacokinetic properties of remimazolam in subjects with 
+hepatic or renal impairment. Br J Anaesth 2021; 127: 415-23. 
+13. Doi M, Morita K, Takeda J, Sakamoto A, Yamakage M, Suzuki T. 
+Efficacy and safety of remimazolam versus propofol for general 
+anesthesia: a multicenter, single-blind, randomized, paral -
+lel-group, phase IIb/III trial. J Anesth 2020; 34: 543-53. 
+14. Eisenried A, Schüttler J, Lerch M, Ihmsen H, Jeleazcov C. Phar-
+macokinetics and pharmacodynamics of remimazolam (CNS 
+7056) after continuous infusion in healthy male volunteers: Part 
+II. pharmacodynamics of electroencephalogram effects. Anes-
+thesiology 2020; 132: 652-66. 
+15. Zhou J, Leonowens C, Ivaturi VD, Lohmer LL, Curd L, Ossig J, et 
+al. Population pharmacokinetic/pharmacodynamic modeling 
+for remimazolam in the induction and maintenance of general 
+anesthesia in healthy subjects and in surgical subjects. J Clin 
+Anesth 2020; 66: 109899. 
+16. Mourisse J, Lerou J, Struys M, Zwarts M, Booij L. Multi-level ap-
+proach to anaesthetic effects produced by sevoflurane or propo-
+fol in humans: 1. BIS and blink reflex. Br J Anaesth 2007; 98: 
+737-45. 
+17. Urabe T, Miyoshi H, Narasaki S, Y anase Y , Uchida K, Noguchi S, 
+et al. Characterization of intracellular calcium mobilization in-
+duced by remimazolam, a newly approved intravenous anesthet-
+ic. PLoS One 2022; 17: e0263395. 
+18. Salmasi V , Maheshwari K, Y ang D, Mascha EJ, Singh A, Sessler 
+DI, et al. Relationship between intraoperative hypotension, de-
+fined by either reduction from baseline or absolute thresholds, 
+and acute kidney and myocardial injury after noncardiac sur-
+gery: a retrospective cohort analysis. Anesthesiology 2017; 126: 
+47-65. 
+19. Frölich MA, Arabshahi A, Katholi C, Prasain J, Barnes S. Hemo-
+dynamic characteristics of midazolam, propofol, and dexmede-
+tomidine in healthy volunteers. J Clin Anesth 2011; 23: 218-23. 
+20. Lim YS, Kang DH, Kim SH, Jang TH, Kim KH, Ryu SJ, et al. The 
+cardiovascular effects of midazolam co-induction to propofol 
+for induction in aged patients. Korean J Anesthesiol 2012; 62: 
+536-42. 
+21. Dai G, Pei L, Duan F , Liao M, Zhang Y , Zhu M, et al. Safety and 
+efficacy of remimazolam compared with propofol in induction 
+of general anesthesia. Minerva Anestesiol 2021; 87: 1073-9. 
+22. Zhang X, Li S, Liu J. Efficacy and safety of remimazolam besylate 
+versus propofol during hysteroscopy: single-centre randomized 
+controlled trial. BMC Anesthesiol 2021; 21: 156. 
+23. Furuta M, Ito H, Y amazaki M. Anaesthetic management using 
+remimazolam in a patient with severe aortic stenosis: a case re-
+port. BMC Anesthesiol 2021; 21: 202. 
+24. Liu T, Lai T, Chen J, Lu Y , He F , Chen Y , et al. Effect of remima-
+zolam induction on hemodynamics in patients undergoing valve 
+replacement surgery: a randomized, double-blind, controlled 
+trial. Pharmacol Res Perspect 2021; 9: e00851. 
+25. Sasaki H, Hoshijima H, Mizuta K. Ringer’s acetate solution-in-
+https://doi.org/10.4097/kja.22297314
+Kim and Fechner · Remimazolam as a new benzodiazepine
+[[p9]]
+duced precipitation of remimazolam. Br J Anaesth 2021; 126: 
+e87-9. 
+26. Y oshida K, Tanaka S, Watanabe K. A case of intravenous line oc-
+clusion when using Acetated Ringer’s solution and remimazol-
+am. J Clin Anesth 2021; 70: 110190. 
+27. Shi M, Chen J, Liu T, Dai W , Zhou Z, Chen L, et al. Protective ef-
+fects of remimazolam on cerebral ischemia/reperfusion injury in 
+rats by inhibiting of NLRP3 inflammasome-dependent pyropto-
+sis. Drug Des Devel Ther 2022; 16: 413-23. 
+315https://doi.org/10.4097/kja.22297
+Korean J Anesthesiol 2022;75(4):307-315

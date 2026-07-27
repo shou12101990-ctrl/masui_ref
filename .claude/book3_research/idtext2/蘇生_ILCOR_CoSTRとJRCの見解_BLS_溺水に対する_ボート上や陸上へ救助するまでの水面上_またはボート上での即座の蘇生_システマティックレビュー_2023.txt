@@ -1,0 +1,111 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Immediate Resuscitation in Water or on Boat in Drowning 溺水に対する、ボート上や陸上へ救助するまでの水面上＊、またはボート
+上での即座の蘇生 
+＊ここにおける水面上での蘇生とは、ボートや陸上へ患者を引き上げるま
+での間に、レスキューチューブやフローティング担架などを用いて行う蘇
+生を指す 
+Author: Katherine M. Berg, et al. BLS Task Force 
+PICOST (Population, Intervention, Comparator, Outcome, Study 
+Designs and Timeframe) 
+ 
+Population: Adults and children in cardiac arrest after drowning 
+Intervention: Immediate resuscitation in water or on 
+boat   
+Comparator: Delaying resuscitation until on land 
+Outcome: 
+Critical: Survival to discharge or 30 days with favorable 
+neurological outcome and survival to discharge or 30 days  
+Important: ROSC 
+Study designs: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) were eligible for inclusion. Unpublished studies 
+(eg, conference abstracts, trial protocols), manikin studies, 
+narrative reviews, and animal studies were excluded.  
+Time frame: All years and all languages were included as long 
+as there was an English abstract and a full-text translation was 
+possible. The literature search was updated to April 25, 2023. 
+ 
+ 
+ 
+P:溺水による成人と小児の心停止  
+I: 水面上やボートの上で即座に蘇生を行うこと 
+C: 陸上に引き上げるまで蘇生開始を遅らせること                              
+O: 重大なアウトカム：退院時または 30 日後の良好な神経学的転帰 
+および生存 
+重要なアウトカム：ROSC 
+S: RCT と非無作為化研究（非 RCT、分割時系列解析、前後比較研究、コ
+ホート研究）を対象とした。論文化されていない研究（学会抄録、臨床
+試験のプロトコールなど）、マネキンの研究、ナラティブレビュー（総
+説）、動物実験は除外した。 
+T:英文抄録があり、全文の翻訳が可能であった、全ての年の、あらゆる
+言語による文献を対象とした。文献検索は?QOQR?年?S?月?QT?日まで。?
+ 
+Treatment recommendations 
+We suggest that in-water resuscitation (ventilations only) may 
+be delivered if rescuers trained in this technique determine that 
+it is feasible and safe with the equipment available and the 
+推奨と提案 
+水面上での人工呼吸のみの蘇生は、この技術の訓練を受けた救助者
+が、装備が整っていることで実行可能かつ安全であり、陸地までの距離
+[[p2]]
+2 
+ 
+distance to land warrants its use (weak recommendation, very 
+low–certainty evidence).  
+ 
+We suggest that on-boat CPR may be delivered if rescuers 
+trained in this technique determine that it is feasible and safe to 
+attempt resuscitation (good practice statement).  
+ 
+If the rescuers feel that the application of immediate CPR is or 
+becomes too difficult or unsafe, then the rescuers may delay 
+resuscitation until on land (good practice statement). 
+があるため適応があると判断した場合に実施することを提案する。（弱い
+推奨、エビデンスの確実性：非常に低い） 
+ 
+ボート上での CPR は、この技術の訓練を受けた救助者が蘇生を試みる
+ことが実行可能かつ安全であると判断した場合に実施することを提案す
+る（優れた医療慣行に関する記述）。 
+ 
+救助者が、直ちに CPR を行うことが困難か安全でない、あるいはそうなり
+そうだと感じた場合、陸上に引き上げるまで蘇生開始を遅らせてもよい
+（優れた医療慣行に関する記述）。 
+ 
+１． JRC の見解と解説 
+• このトピックは CoSTR2010 で検討されてから、今回までエビデンスの見直しが検討されていなかった。 
+• CPR の基本は胸骨圧迫であるが、溺水など呼吸が原因の心停止では人工呼吸も重要である。ボート上や陸上へ救助するまでの水面上で胸
+骨圧迫を行うことは、事実上不可能であり、危険かつ無益でもある。しかし酸素欠乏の状態を長引かせないよう水面上での人工呼吸を行えば、
+傷病者の転帰を改善する可能性がある。ILCOR は、RCT と観察研究から「水面上での人工呼吸のみの蘇生は、この技術の訓練を受けた救助
+者が、装備が整っていることで実行可能かつ安全であり、陸地までの距離があるため適応があると判断した場合に実施することを提案する」と
+している。 
+• 水面上で有効な人工呼吸を行うことは難しく、救助者にも危険が伴う。救助者自身の身体状況、精神状況、また水面上の状況などに応じた対
+応が求められる。二次被害を起こさぬよう、救助する側も冷静な判断が必要である。よって、水面上での CPR 訓練を受けた救助者が安全と判
+断した場合には、人工呼吸のみを行うことが望ましい。周囲の状況を確認・評価し、安全性と有効性が保たれていない場合、救助者は救助を
+優先し陸上に引き上げるまで蘇生開始を遅らせてもよい。 
+• 傷病者をボートや陸上に引き上げた後は、安全を確認した上で直ちに胸骨圧迫を開始し、可能な限り人工呼吸を加えるべきである。この場合
+も安全性と有効性を継続的に評価することは重要である。 
+  
+２．わが国への適用 
+JRC 蘇生ガイドライン 2010 の内容を踏襲しつつ、ボート上や陸上に引き上げるまでの水面上、および、その後に行うCPR のあり方について追加
+の提案をする予定である（優れた医療慣行に関する記述）。 
+ 
+ 
+[[p3]]
+3 
+ 
+３．担当メンバー 
+作業部会員（五十音順） 
+名知ひかる、横江正道 
+共同座長（五十音順） 
+野田英一郎、若松弘也 
+担当編集委員（五十音順） 
+西山知佳、乗井達守 
+担当顧問 
+ 畑中哲生 
+編集委員長 
+ 坂本哲也 
+ 

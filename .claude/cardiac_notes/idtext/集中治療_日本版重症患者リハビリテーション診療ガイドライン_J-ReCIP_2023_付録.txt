@@ -1,0 +1,940 @@
+
+[[p1]]
+ 1 
+付録  CQ1 重症患者にリハビリテーションのプロトコルを導入するか？  1．Search methods 検索データベース ■ MEDLINE (PubMed) ■ CENTRAL ■ 医中誌 □ その他（   ）  検索式とヒット数 PubMed search strategy（検索日2021年11月1日） #1 "Intensive Care Units"[MeSH Terms] 95,202 #2 "intensive care*"[Title/Abstract] 166,858 #3 "icu"[Title/Abstract] 68,448 #4 "Critical Illness"[MeSH Terms] 33,936 #5 "critical ill*"[Title/Abstract] 12,032 #6 "critically ill*"[Title/Abstract] 51,668 #7 "Critical Care"[MeSH Terms] 62,412 #8 "critical care*"[Title/Abstract] 36,423 #9 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 291,469 #10 "Physical Therapy Modalities"[MeSH Terms] 165,736 #11 "physical therap*"[Title/Abstract] 28,509 #12 "physiotherap*"[Title/Abstract] 29,617 #13 "therapy physical"[Title/Abstract] 510 #14 "therapies physical"[Title/Abstract] 45 #15 "modalities physical therap*"[Title/Abstract] 4 #16 "neurophysiotherap*"[Title/Abstract] 28 #17 "Exercise Therapy"[MeSH Terms] 57,059 #18 "remedial exercis*"[Title/Abstract] 61 #19 "exercise remedial"[Title/Abstract] 1 #20 "therapy exercis*"[Title/Abstract] 562 #21 "rehabilitation exercis*"[Title/Abstract] 1,257 #22 "exercise rehabilitation*"[Title/Abstract] 845 #23 "exercises rehabilitation*"[Title/Abstract] 13 #24 "therapies exercis*"[Title/Abstract] 34 #25 "exercise therap*"[Title/Abstract] 5,532 #26 "Exercise"[MeSH Terms] 220,244 #27 "physical activit*"[Title/Abstract] 130,334 #28 "activities physical"[Title/Abstract] 219 #29 "activity physical"[Title/Abstract] 911 #30 "training"[Title/Abstract] 468,398 #31 "exercis*"[Title/Abstract] 327,788 #32 "Occupational Therapy"[MeSH Terms] 13,945 #33 "occupational therap*"[Title/Abstract] 16,145 
+[[p2]]
+ 2 
+#34 "therapies occupation*"[Title/Abstract] 4 #35 "therapy occupation*"[Title/Abstract] 292 #36 "Early Ambulation"[MeSH Terms] 3,091 #37 "ambulation*"[Title/Abstract] 12,367 #38 "mobilisat*"[Title/Abstract] 6,301 #39 "mobilizat*"[Title/Abstract] 55,345 #40 "mobilit*"[Title/Abstract] 161,738 #41 "pregait"[Title/Abstract] 13 #42 "pre-gait"[Title/Abstract] 8 #43 "walk*"[Title/Abstract] 130,837 #44 "rehabilitation*"[Title/Abstract] 185,908 #45 #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30 OR #31 OR #32 OR #33 OR #34 OR #35 OR #36 OR #37 OR #38 OR #39 OR #40 OR #41 OR #42 OR #43 OR #44 1,439,641 #46 "protocol*"[Title/Abstract] 501,157 #47 "program*"[Title/Abstract] 974,369 #48 "goal direct*"[Title/Abstract] 9,791 #49 "strateg*"[Title/Abstract] 1,267,181 #50 "standard*"[Title/Abstract] 1,394,840 #51 "struct*"[Title/Abstract] 2,444,463 #52 "target*"[Title/Abstract] 1,730,927 #53 "algorithm*"[Title/Abstract] 293,674 #54 "pathway*"[Title/Abstract] 1,248,018 #55 "activ*"[Title/Abstract] 5,154,761 #56 "propos*"[Title/Abstract] 1,182,308 #57 "intensi*"[Title/Abstract] 791,801 #58 "aggressive*"[Title/Abstract] 204,028 #59 "multifacet*"[Title/Abstract] 28,134 #60 #46 OR #47 OR #48 OR #49 OR #50 OR #51 OR #52 OR #53 OR #54 OR #55 OR #56 OR #57 OR #58 OR #59 12,060,083 #61 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR clinical trials as topic[mesh:noexp] OR randomly[tiab] OR trial[ti] NOT (animals[mh] NOT humans [mh])) 1,303,292 #62 #9 AND #45 AND #60 AND #61 1,392  CENTRAL search strategy（検索日2021年11月1日） #1 MeSH descriptor: [Intensive Care Units] explode all trees 3,887 #2 ("intensive care"):ti,ab,kw 25,612 #3 ("intensive care unit"):ti,ab,kw 17,391 #4 ("intensive care units"):ti,ab,kw 6,537 #5 (icu):ti,ab,kw 14,445 #6 MeSH descriptor: [Critical Illness] explode all trees 2,483 
+[[p3]]
+ 3 
+#7 ("critical ill"):ti,ab,kw 98 #8 ("critical illness"):ti,ab,kw 3,825 #9 ("critical illnesses"):ti,ab,kw 38 #10 ("critically ill"):ti,ab,kw 7,467 #11 ("critically illness"):ti,ab,kw 2 #12 ("critically illnesses"):ti,ab,kw 2 #13 MeSH descriptor: [Critical Care] explode all trees 2,163 #14 ("critical care"):ti,ab,kw 4,231 #15 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 36,586 #16 MeSH descriptor: [Physical Therapy Modalities] explode all trees 28,018 #17 ("physical therapy"):ti,ab,kw 10,469 #18 ("physical therapies"):ti,ab,kw 150 #19 (physiotherap*):ti,ab,kw 17,681 #20 ("therapy physical"):ti,ab,kw 844 #21 ("therapies physical"):ti,ab,kw 14 #22 ("modalities physical therapy"):ti,ab,kw 2 #23 ("modalities physical therapies"):ti,ab,kw 0 #24 (neurophysiotherap*):ti,ab,kw 11 #25 MeSH descriptor: [Exercise Therapy] explode all trees 15,285 #26 ("remedial exercises"):ti,ab,kw 12 #27 ("therapy exercises"):ti,ab,kw 125 #28 ("rehabilitation exercises"):ti,ab,kw 252 #29 ("exercises rehabilitation"):ti,ab,kw 26 #30 ("exercises rehabilitations"):ti,ab,kw 0 #31 ("therapies exercises"):ti,ab,kw 0 #32 MeSH descriptor: [Exercise] explode all trees 26,876 #33 ("physical activity"):ti,ab,kw 34,851 #34 ("physical activities"):ti,ab,kw 1,497 #35 ("activities physical"):ti,ab,kw 68 #36 ("activity physical"):ti,ab,kw 1,298 #37 (training):ti,ab,kw 100,506 #38 (exercise):ti,ab,kw 105,236 #39 MeSH descriptor: [Occupational Therapy] explode all trees 803 #40 ("occupational therapy"):ti,ab,kw 2,844 #41 ("occupational therapies"):ti,ab,kw 16 #42 ("therapies occupation"):ti,ab,kw 0 #43 ("therapies occupations"):ti,ab,kw 0 #44 ("therapy occupation"):ti,ab,kw 13 #45 ("therapy occupations"):ti,ab,kw 1 #46 MeSH descriptor: [Early Ambulation] explode all trees 397 #47 (ambulation*):ti,ab,kw 3,713 #48 (mobilisat*):ti,ab,kw 1,571 #49 (mobilizat*):ti,ab,kw 7,724 
+[[p4]]
+ 4 
+#50 (mobilit*):ti,ab,kw 12,875 #51 (pregait):ti,ab,kw 6 #52 (pre-gait):ti,ab,kw 5 #53 (walk):ti,ab,kw 15,284 #54 (rehabilitation*):ti,ab,kw 54,164 #55 #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30 OR #31 OR #32 OR #33 OR #34 OR #35 OR #36 OR #37 OR #38 OR #39 OR #40 OR #41 OR #42 OR #43 OR #44 OR #45 OR #46 OR #47 OR #48 OR #49 OR #50 OR #51 OR #52 OR #53 OR #54 248,708 #56 (protocol*):ti,ab,kw 131,072 #57 (program*):ti,ab,kw 135,342 #58 (goal-directed*):ti,ab,kw 1,548 #59 (strategy):ti,ab,kw 40,739 #60 (strategic):ti,ab,kw 1,257 #61 (standardized):ti,ab,kw 38,511 #62 (structured):ti,ab,kw 19,601 #63 (targeted):ti,ab,kw 22,358 #64 (algorithm*):ti,ab,kw 14,638 #65 (pathway*):ti,ab,kw 20,810 #66 (activ*):ti,ab,kw 297,160 #67 (proposed):ti,ab,kw 48,917 #68 (intensified):ti,ab,kw 2,609 #69 (aggressive*):ti,ab,kw 9,121 #70 (multifaceted):ti,ab,kw 2,257 #71 #56 OR #57 OR #58 OR #59 OR #60 OR #61 OR #62 OR #63 OR #64 OR #65 OR #66 OR #67 OR #68 OR #69 OR #70 597,152 #72 #15 AND #55 AND #71 1,996 Trials:1,956  医中誌search strategy（検索日2021年11月1日） #1 (ICU/TH or ICU/TA) and (PT=会議録除く) 51,885 #2 (集中治療室/TA) and (PT=会議録除く) 4,201 #3 (集中治療/TA) and (PT=会議録除く) 11,436 #4 (危篤/TH or 危篤/TA) and (PT=会議録除く) 194 #5 (重症患者/TA) and (PT=会議録除く) 3,542 #6 (クリティカルケア/TH or クリティカルケア/TA) and (PT=会議録除く) 6,958 #7 #1 or #2 or #3 or #4 or #5 or #6 63,977 #8 (理学療法/TH or 理学療法/TA) and (PT=会議録除く) 87,205 #9 (運動療法/TH or 運動療法/TA) and (PT=会議録除く) 44,872 #10 (身体運動/TH or 身体運動/TA) and (PT=会議録除く) 36,330 #11 (運動活性/TH or 身体活動/TA) and (PT=会議録除く) 42,560 #12 (トレーニング/TA) and (PT=会議録除く) 15,741 #13 (訓練/TA) and (PT=会議録除く) 26,949 #14 (運動/TA) and (PT=会議録除く) 147,477 
+[[p5]]
+ 5 
+#15 (作業療法/TH or 作業療法/TA) and (PT=会議録除く) 15,763 #16 (早期離床/TH or 早期離床/TA) and (PT=会議録除く) 4,425 #17 (歩行/TH or 歩行/TA) and (PT=会議録除く) 50,674 #18 (モビライゼーション/TH or モビライゼーション/TA) and (PT=会議録除く) 351 #19 (リハビリテーション/TH or リハビリテーション/TA) and (PT=会議録除く) 197,328 #20 #8 or #9 or #10 or #11 or #12 or #13 or #14 or #15 or #16 or #17 or #18 or #19 381,967 #21 (プロトコル/TA) and (PT=会議録除く) 2,661 #22 (プロトコール/TA) and (PT=会議録除く) 5,480 #23 (プログラム/TA) and (PT=会議録除く) 28,393 #24 (計画/TA) and (PT=会議録除く) 35,243 #25 (戦略/TA) and (PT=会議録除く) 37,717 #26 (標準/TA) and (PT=会議録除く) 53,423 #27 (アルゴリズム/TH or アルゴリズム/TA) and (PT=会議録除く) 25,111 #28 (クリティカルパス/TH or パス/TA) and (PT=会議録除く) 32,636 #29 (段階的患者管理/TH or 段階的患者管理/TA) and (PT=会議録除く) 280 #30 (段階的/TA) and (PT=会議録除く) 5,417 #31 #21 or #22 or #23 or #24 or #25 or #26 or #27 or #28 or #29 or #30 213,818 #32 ランダム化比較試験/TH or 準ランダム化比較試験/TH or ランダム化/AL or 無作為化/AL or 比較試験/AL or 臨床試験/AL or プラセボ/AL or 対照/AL or コントロール/AL or 臨床研究/AL 333,486 #33 #7 and #20 and #31 and #32 46    
+[[p6]]
+ 6 
+2．PRISMA flow diagram 
+   
+
+[[p7]]
+ 7 
+3．Risk of bias graph 1）基本動作 Fundamental Motion (assessed with: PFIT, IMS, MMS, SOMS) 
+  2）ADL Activities of Daily Living (assessed with: FIM, BI, mmFIM, SPPB) 
+  3）筋力 Muscle Strength (assessed with: MRC-SS) 
+ 4）人工呼吸期間 Duration of Mechanical Ventilation (days) 
+
+[[p8]]
+ 8 
+  5）ICU滞在日数 Length of Stay in the ICU (days) 
+   
+
+[[p9]]
+ 9 
+6）ICU滞在中のせん妄発生率 Incidence of Delirium in the ICU アウトカムなし  7）すべての有害事象 Any Adverse Event 
+    
+
+[[p10]]
+ 10 
+4．Risk of bias summary 1）基本動作 
+  2）ADL 
+ 3）筋力 
+
+[[p11]]
+ 11 
+   
+
+[[p12]]
+ 12 
+4）人工呼吸期間 
+   
+
+[[p13]]
+ 13 
+5）ICU滞在日数 
+   
+
+[[p14]]
+ 14 
+ 6）ICU滞在中のせん妄発生率 アウトカムなし   7）すべての有害事象 
+    
+
+[[p15]]
+ 15 
+5．Forest plot 1）基本動作 
+  2）ADL 
+  3）筋力 
+  4）人工呼吸期間 
+   
+
+[[p16]]
+ 16 
+5）ICU滞在日数 
+  6）ICU滞在中のせん妄発生率 アウトカムなし  7）すべての有害事象 
+    
+
+[[p17]]
+ 17 
+6．Funnel plot 1）基本動作 
+  2）ADL 
+  3）筋力 
+  4）人工呼吸期間 
+
+[[p18]]
+ 18 
+  5）ICU滞在日数 
+  6）ICU滞在中のせん妄発生率 アウトカムなし   
+
+[[p19]]
+ 19 
+7）すべての有害事象 
+    
+
+[[p20]]
+ 20 
+CQ2 重症患者に対して1日に複数回のリハビリテーションを行うか？  1．Search methods 検索データベース ■ MEDLINE (PubMed) ■ CENTRAL ■ 医中誌 □ その他（   ）  検索式とヒット数 PubMed search strategy（検索日2021年10月29日） #1 "Critical Care*"[tiab] 36,399 #2 "Care, Critical"[tiab] 258 #3 "Intensive Care*"[tiab] 166,745 #4 "Care, Intensive"[tiab] 356 #5 "Surgical Intensive Care"[tiab] 4,668 #6 "Care, Surgical Intensive"[tiab] 14 #7 "Intensive Care, Surgical"[tiab] 33 #8 "ICU Intensive Care Units"[tiab] 12 #9 "Unit, Intensive Care"[tiab] 63 #10 "Intensive care units"[mh] 95,068 #11 "critical illness"[mh] 33,890 #12 ICU[tiab] 68,388 #13 "critical ill*"［tiab］ 12,022 #14 "critically ill*"［tiab］ 51,638 #15 "Septic Shock"[tiab] 24,737 #16 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 or #13 or #14 or #15 290,307 #17 rehabilitation[mh] 328,578 #18 rehabilitat*[tiab] 194,321 #19 "Physical Therapy Modalities"[mh] 165,527 #20 "physical therap*"[tiab] 28,493 #21 physiotherap*[tiab] 29,590 #22 "physical therapy procedure"[tiab] 7 #23 exercise [mh] 219,860 #24 "Exercise Therap*"[tiab] 5,531 #25 "Endurance Training*"[tiab] 5,053 #26 ambulation*[tiab] 12,361 #27 "Occupational Therap*"[tiab] 16,140 #28 mobil*[tiab] 354,289 #29 Early Ambulation[mh] 3,091 #30 "Accelerated Ambulation"[tiab] 10 #31 "Ambulation, Early"[tiab] 34 #32 "Early Mobilization"[tiab] 3,254 #33 enhanced[tiab] 873,584 #34 #17 or #18 or #19 or #20 or #21 or #22 or #23 or #24 or #25 or #26 or #27 or #28 or #29 or #30 or #31 or 1,857,478 
+[[p21]]
+ 21 
+#32 or #33 #35 "twice daily"[tiab] 47,275 #36 "twice a day"[tiab] 13,341 #37 "per day"[tiab] 84,415 #38 "Many times"[tiab] 4,962 #39 "More than once"[tiab] 3,743 #40 "Several times"[tiab] 12,020 #41 Frequen*[tiab] 1,839,999 #42 twice[tiab] 193,936 #43 "three times"[tiab] 68,337 #44 #35 or #36 or #37 or #38 or #39 or #40 or #41 or #42 or #43 2,151,829 #45 "randomized controlled trial"[pt] 549,675 #46 "controlled clinical trial"[pt] 639,284 #47 randomized[tiab] 585,742 #48 placebo[tiab] 228,927 #49 "drug therapy"[sh] 2,393,828 #50 randomly[tiab] 369,438 #51 trial[tiab] 676,478 #52 groups[tiab] 2,295,689 #53 animals[mh] NOT humans[mh] 4,906,016 #54 (#45 or #46 or #47 or #48 or #49 or #50 or #51 or #52) not #53 4,556,930 #55 (#16 and #34 and #44) and #54 522  CENTRAL search strategy（検索日2021年10月27日） #1 ("critical care"):ti,ab,kw 4200 #2 ("Care, Critical"):ti,ab,kw 21 #3 ("intensive care"):ti,ab,kw 25378 #4 ("care,intensive"):ti,ab,kw 269 #5 ("Surgical Intensive Care"):ti,ab,kw 774 #6 ("care surgical intensive"):ti,ab,kw 1 #7 ("intensive care surgical"):ti,ab,kw 9 #8 ("ICU Intensive Care Units"):ti,ab,kw 2 #9 ("unit intensive care"):ti,ab,kw 23 #10 ("ICU"):ti,ab,kw 14244 #11 (critical ill*):ti,ab,kw 6222 #12 (critically ill*):ti,ab,kw 7559 #13 ("Septic Shock"):ti,ab,kw 3165 #14 MeSH descriptor: [Intensive Care Units] explode all trees 3864 #15 MeSH descriptor: [Critical Illness] explode all trees 2466 #16 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 or #13 or #14 or #15 39173 #17 MeSH descriptor: [Rehabilitation] explode all trees 38509 #18 MeSH descriptor: [Physical Therapy Modalities] 27816 
+[[p22]]
+ 22 
+explode all trees #19 MeSH descriptor: [Exercise] explode all trees 26655 #20 MeSH descriptor: [Early Ambulation] explode all trees 397 #21 (rehabilitat*):ti,ab,kw 54621 #22 ("physical therapy"):ti,ab,kw 10394 #23 ("physical therapies"):ti,ab,kw 149 #24 ("physical therapy procedure"):ti,ab,kw 2 #25 (physiotherap*):ti,ab,kw 17502 #26 ("exercise Therapy"):ti,ab,kw 13250 #27 ("exercise therapies"):ti,ab,kw 91 #28 (Endurance Training*):ti,ab,kw 6503 #29 (ambulation*):ti,ab,kw 3675 #30 ("occupational therapy"):ti,ab,kw 2819 #31 ("occupational therapies"):ti,ab,kw 16 #32 (mobil*):ti,ab,kw 32884 #33 ("Accelerated Ambulation"):ti,ab,kw 2 #34 ("Ambulation, Early"):ti,ab,kw 9 #35 ("Early Mobilization"):ti,ab,kw 1118 #36 (enhanced):ti,ab,kw 30841 #37 #17 or #18 or #19 or #20 or #21 or #22 or #23 or #24 or #25 or #26 or #27 or #28 or #29 or #30 or #31 or #32 or #33 or #34 or #35 or #36 167402 
+#38 ("twice daily"):ti,ab,kw 35210 #39 ("twice a day"):ti,ab,kw 10600 #40 ("per day"):ti,ab,kw 29181 #41 ("Many times"):ti,ab,kw 320 #42 ("More than once"):ti,ab,kw 426 #43 ("Several times"):ti,ab,kw 715 #44 (Frequen*):ti,ab,kw 145766 #45 (twice):ti,ab,kw 70097 #46 ("three times"):ti,ab,kw 21570 #47 #38 or #39 or #40 or #41 or #42 or #43 or #44 or #45 or #46 245739 #48 #16 and #37 and #47 729 (Trials 709)  医中誌search strategy（検索日2021年10月29日） #1 ((CCU/TH or CCU/TA)) and (PT=会議録除く) 22,477 #2 ((ICU/TH or ICU/TA)) and (PT=会議録除く) 51,885 #3 ((クリティカルケア/TH or クリティカルケア/TA)) and (PT=会議録除く) 6,958 #4 ((RCU/TH or RCU/TA)) and (PT=会議録除く) 12,650 #5 ((ICU看護/TH or ICU看護/TA)) and (PT=会議録除く) 5,746 #6 ((クリティカルケア看護/TH or クリティカルケア看護/TA)) and (PT=会議録除く) 7,818 #7 ((集中治療医/TH or 集中治療医/TA)) and (PT=会議録除く) 672 
+[[p23]]
+ 23 
+#8 ((ICU症候群/TH or ICU症候群/TA)) and (PT=会議録除く) 567 #9 ((脳卒中/TH or Stroke/TA) and ("Calcium-Responsive Element"/TH or Care/TA) and Unit/TA) and (PT=会議録除く) 111 #10 ((多発ニューロパチー/TH or 多発ニューロパチー/TA)) and (PT=会議録除く) 7,099 #11 ((危篤/TH or 危篤/TA)) and (PT=会議録除く) 194 #12 ((ショック-敗血症性/TH or ショック-敗血症性/TA)) and (PT=会議録除く) 5,774 #13 (#1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12)  103,410 #14 (運動療法/TH or 運動療法/TA) and (PT=会議録除く) 44,872 #15 (リハビリテーション/TH or リハビリテーション/TA) and (PT=会議録除く) 197,328 #16 (リハビリテーション看護/TH or リハビリテーション看護/TA) and (PT=会議録除く) 6,214 #17 (心臓リハビリテーション/TH or 心臓リハビリテーション/TA) and (PT=会議録除く) 3,986 #18 (神経学的リハビリテーション/TH or 神経学的リハビリテーション/TA) and (PT=会議録除く) 2,583 #19 (脳卒中リハビリテーション/TH or 脳卒中リハビリテーション/TA) and (PT=会議録除く) 2,797 #20 (理学療法/TH or 理学療法/TA) and (PT=会議録除く) 87,205 #21 (呼吸訓練/TH or 呼吸訓練/TA) and (PT=会議録除く) 2,096 #22 (自動運動療法/TH or 自動運動療法/TA) and (PT=会議録除く) 952 #23 (身体運動/TH or 身体運動/TA) and (PT=会議録除く) 36,330 #24 (運動耐性/TH or 運動耐性/TA) and (PT=会議録除く) 1,986 #25 (筋力増強訓練/TH or 筋力増強訓練/TA) and (PT=会議録除く) 8,686 #26 (身体運動技術/TH or 身体運動技術/TA) and (PT=会議録除く) 8,064 #27 (他動運動療法/TH or 他動運動療法/TA) and (PT=会議録除く) 1,235 #28 (ストレッチング/TH or ストレッチング/TA) and (PT=会議録除く) 4,118 #29 (レジスタンストレーニング/TH or レジスタンストレーニング/TA) and (PT=会議録除く) 2,620 #30 (高強度インターバルトレーニング/TH or 高強度インターバルトレーニング/TA) and (PT=会議録除く) 68 #31 (荷重トレーニング/TH or 荷重トレーニング/TA) and (PT=会議録除く) 648 #32 (自動介助運動/TH or 自動介助運動/TA) and (PT=会議録除く) 121 #33 (早期離床/TH or 早期離床/TA) and (PT=会議録除く) 4,425 #34 (呼吸理学療法/TH or 呼吸理学療法/TA) and (PT=会議録除く) 7,376 #35 (("理学療法(専門業務)"/TH or "理学療法(専門業務)"/TA)) and (PT=会議録除く) 66 #36 ((持久性訓練/TH or 持久性訓練/TA)) and (PT=会議録除く) 44 #37 ((作業療法/TH or 作業療法/TA)) and (PT=会議録除く) 15,763 #38 #14 or #15 or #16 or #17 or #18 or #19 or #20 or #21 or #22 or #23 or #24 or #25 or #26 or #27 or #28 or #29 or #30 or #31 or #32 or #33 or #34 or #35 or #36 or #37 233,557 
+[[p24]]
+ 24 
+#39 (頻度/TA) and (PT=会議録除く) 95,476 #40 (数回/TA) and (PT=会議録除く) 8,277 #41 (複数回/TA) and (PT=会議録除く) 4,474 #42 (回数/TA) and (PT=会議録除く) 22,552 #43 (2回/TA) and (PT=会議録除く) 50,129 #44 (3回/TA) and (PT=会議録除く) 34,858 #45 (何度/TA) and (PT=会議録除く) 1,228 #46 (1日あたり/TA) and (PT=会議録除く) 898 #47 #39 or #40 or #41 or #42 or #43 or #44 or #45 or #46  196,735 #48 ランダム化比較試験/TH 54,490 #49 準ランダム化比較試験/TH 3,499 #50 ランダム化/AL 65,642 #51 無作為化/AL 8,331 #52 比較試験/AL 69,347 #53 臨床試験/AL 80,105 #54 プラセボ/AL 8,613 #55 対照/AL 78,420 #56 コントロール/AL 77,975 #57 臨床研究/AL 60,218 #58 #48 or #49 or #50 or #51 or #52 or #53 or #54 or #55 or #56 or #57 333,486 #59 #13 and #38 and #47 and #58 41   
+[[p25]]
+?QT?
+2．PRISMA flow diagram 
+  3．Risk of bias graph 1）基本動作 Fundamental Motion (Modified Rivermead Mobility Index) 
+
+[[p26]]
+ 26 
+  2）ADL Activities of Daily Living (FIM, Modified Barthel Index) 
+  3）筋力 Muscle Strength (MRC-SS) 
+ 4）人工呼吸期間 Duration of Mechanical Ventilation 
+
+[[p27]]
+ 27 
+  5）ICU滞在日数 Length of Stay in the ICU 
+  6）ICU在室中のせん妄の出現率 Incidence of Delirium in the ICU アウトカムなし   
+
+[[p28]]
+ 28 
+7）すべての有害事象Any Adverse Events 
+    
+
+[[p29]]
+ 29 
+4．Risk of bias summary 1）基本動作 
+  2）ADL 
+   
+
+[[p30]]
+ 30 
+3）筋力 
+  4）人工呼吸期間 
+ 5）ICU滞在日数 
+
+[[p31]]
+ 31 
+  6）ICU在室中のせん妄の出現率 アウトカムなし   
+
+[[p32]]
+ 32 
+7）すべての有害事象 
+   
+
+[[p33]]
+ 33 
+5．Forest plot 1）基本動作 
+  2）ADL 
+  3）筋力 
+  4）人工呼吸期間 
+  5）ICU滞在日数 
+   
+
+[[p34]]
+ 34 
+6）ICU在室中のせん妄の出現率 アウトカムなし  7）すべての有害事象 
+   
+
+[[p35]]
+ 35 
+6．Funnel plot 1）基本動作 
+  2）ADL 
+  3）筋力 
+ 4）人工呼吸期間 
+
+[[p36]]
+ 36 
+  5）ICU滞在日数 
+  6）ICU在室中のせん妄の出現率 アウトカムなし   
+
+[[p37]]
+?RV?
+7）すべての有害事象 
+     
+
+[[p38]]
+ 38 
+CQ3 重症患者に対して神経筋電気刺激または/および床上エルゴメータを行うか？  1．Search methods ■ MEDLINE (PubMed) ■ CENTRAL ■ 医中誌  PubMed search strategy（検索日2021年10月14日：野々山忠芳）  検索式 ヒット件数 #1  "critical care"[mh] OR ("critical*"[tiab] AND "care"[tiab]) OR "critical illness"[mh] OR "critical ill*"[tiab] OR "critically ill*"[tiab] OR ("intensive"[tiab] AND "care"[tiab]) OR "intensive care units"[mh] OR "mechanical ventilat*"[tiab] OR "Ventilators, Mechanical"[mh:NoExp] OR "Respiration, Artificial"[mh]  
+428528 
+#2  “electric stimulation”[mh] OR “electric stimulation therapy”[mh] OR ("electric*"[tiab] AND "stimulation"[tiab])  241580 
+#3 "bicycling"[mh] OR "bicycl*"[tiab] OR "cycling*"[tiab] OR "cycle*"[tiab] OR "ergometry"[mh] OR "ergomet*"[tiab] 768600 #4 randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR clinical trials as topic [mesh: noexp] OR randomly[tiab] OR trial[tiab] NOT (animals [mh] NOT humans [mh]) 
+1558451 
+#5 #2 OR #3 1001661 #6 #1 AND #4 AND #5 1099  CENTRAL search strategy（検索日2021年10月15日：野々山忠芳） #1 MeSH descriptor: [Critical Care] explode all trees  2157 #2 MeSH descriptor: [Critical Illness] explode all trees  2466 #3 MeSH descriptor: [Intensive Care Units] explode all trees  3864 #4 MeSH descriptor: [Respiration, Artificial] explode all trees  6602 #5 MeSH descriptor: [Ventilators, Mechanical] this term only 253 #6 (critical*):ti,ab,kw AND (ill*):ti,ab,kw 10411 #7 (“critical*”):ti,ab,kw AND (“care”):ti,ab,kw  11294 #8 (“intensive”):ti,ab,kw AND (“care”):ti,ab,kw 31413 #9 (mechanical NEXT ventilat*):ti,ab,kw 10957 #10 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 51249 #11 MeSH descriptor: [Electric Stimulation] explode all trees 1946 #12 MeSH descriptor: [Electric Stimulation Therapy] explode all trees 7489 #13 ("electric*"):ti,ab,kw AND ("stimulation"):ti,ab,kw 6335 #14 #10 OR #11 OR #12 10750 #15 MeSH descriptor: [Bicycling] explode all trees 1702 #16 (bicycl*):ti,ab,kw 5925 #17 (cycling*):ti,ab,kw 6027 
+[[p39]]
+ 39 
+#18 (cycle*):ti,ab,kw 56823 #19 MeSH descriptor: [Ergometry] explode all trees 8733 #20 (ergomet*):ti,ab,kw 6278 #21 #15 OR #16 OR #17 OR #18 OR #19 OR #20 72444 #22 #14 OR #21 82574 #23 #10 AND #22 1498  医中誌search strategy（検索日2021年10月28日：野々山忠芳） #1 (クリティカルケア/TH or 集中治療/AL) or 重症患者/AL or (ICU/TH or 集中治療室/AL) or ([重症患者ケア]/JN or 重症患者ケア/AL) or 重症病態/AL or (人工呼吸/TH or 人工呼吸/AL) 169292 
+#2 神経筋電気刺激/AL or (電気刺激/TH or 電気刺激/AL) or (電気刺激療法/TH or 電気療法/AL) or EMS/AL or NMES/AL 79198 #3 ((エルゴメトリー/TH or エルゴメーター/AL) or (運動機器/TH or エルゴメーター/AL)) or サイクルエルゴメーター/AL or アシストエルゴメーター/AL or 床上エルゴメーター/AL 31405 
+#4 (ランダム化比較試験/TH or ランダム化比較試験/AL) or (ランダム化比較試験/TH or RCT/AL) 77864  #5 #2 or #3 109979 #6 #1 and #4 and #5 31    
+[[p40]]
+ 40 
+2．PRISMA flow diagram CQ3-1 
+   
+
+[[p41]]
+ 41 
+CQ3-2 
+   
+
+[[p42]]
+ 42 
+CQ3-3 
+   
+
+[[p43]]
+ 43 
+3．Risk of bias graph CQ3-1 1）ADL (FIM・BI・Katz Index) 
+  2）運動耐容能（6MWD） データなし  3）筋力（MRC-SS，握力など）（ICU退室時） 
+   
+
+[[p44]]
+ 44 
+4）筋量 
+  5）人工呼吸器装着期間 
+  6）病院滞在期間 
+  7）すべての有害事象 
+
+[[p45]]
+ 45 
+  CQ3-2 1）ADL (FIM・BI・Katz Index) データなし  2）運動耐容能（6MWD） 
+   
+
+[[p46]]
+ 46 
+3）筋力（MRC-SS，握力など）（ICU退室時） 
+  4）筋量 
+  5）人工呼吸器装着期間 
+   
+
+[[p47]]
+ 47 
+6）病院滞在期間 
+  7）すべての有害事象 
+  CQ3-3 1）ADL (FIM・BI・Katz Index) 
+ 2）運動耐容能（6MWD） 
+
+[[p48]]
+ 48 
+  3）筋力（MRC） 
+  4）筋量 
+  5）人工呼吸器装着期間 
+
+[[p49]]
+ 49 
+  6）病院滞在期間（＃49は月単位での表記だったため、日数換算（×30日）にて解析） 
+  7）すべての有害事象（著者定義、測定時期は問わない） 
+   
+
+[[p50]]
+ 50 
+4．Risk of bias summary CQ3-1 1）ADL (FIM・BI・Katz Index) 
+  2）運動耐容能（6MWD） データなし   
+
+[[p51]]
+ 51 
+3）筋力（MRC-SS，握力など）（ICU退室時） 
+  4）筋量 
+   
+
+[[p52]]
+ 52 
+5）人工呼吸装着期間 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[[p53]]
+ 53 
+6）病院滞在期間 
+  7）すべての有害事象 
+ CQ3-2 1）ADL (FIM・BI・Katz Index) 
+
+[[p54]]
+ 54 
+データなし  2）運動耐容能（6MWD） 
+  3）筋力（MRC-SS，握力など）（ICU退室時） 
+ 4）筋量 
+
+[[p55]]
+ 55 
+  5）人工呼吸器装着期間 
+ 6）病院滞在期間 
+
+[[p56]]
+ 56 
+  7）すべての有害事象 
+ CQ3-3 1）ADL (FIM・BI・Katz Index) 
+
+[[p57]]
+ 57 
+  2）運動耐容能（6MWD） 
+ 3）筋力（MRC） 
+
+[[p58]]
+ 58 
+  4）筋量 
+ 5）人工呼吸器装着期間 
+
+[[p59]]
+ 59 
+  6）病院滞在期間（＃49は月単位での表記だったため、日数換算（×30日）にて解析） 
+ 7）すべての有害事象（著者定義、測定時期は問わない） 
+
+[[p60]]
+ 60 
+   
+
+[[p61]]
+ 61 
+5．Forest plot CQ3-1 1）ADL (FIM・BI・Katz Index) Barthel index 
+  2）運動耐容能（6MWD） データなし  3）筋力（MRC-SS，握力など）（ICU退室時） Overall MRC score 
+  4）筋量 Chest muscle thickness, Knee extensor muscle thickness 
+  5）人工呼吸装着期間 
+   
+
+[[p62]]
+ 62 
+6）病院滞在期間 
+  7）すべての有害事象 
+   
+
+[[p63]]
+ 63 
+CQ3-2 1）ADL (FIM・BI・Katz Index) データなし  2）運動耐容能（6MWD） 
+  3）筋力（MRC-SS，握力など）（ICU退室時） Overall MRC score 
+  4）筋量 Knee extensor muscle thickness 
+  5）人工呼吸器装着期間 
+   
+
+[[p64]]
+ 64 
+6）病院滞在期間 
+  7）すべての有害事象 
+   
+
+[[p65]]
+ 65 
+CQ3-3 1）ADL (FIM・BI・Katz Index) Barthel index 
+  サブ解析 神経筋電気刺激療法と床上エルゴメーターを同時に実施した場合、別々に実施した場合に分けて解析 
+  2）運動耐容能（6MWD） Six minutes walking distance 
+   
+
+[[p66]]
+ 66 
+3）筋力（MRC） Overall MRC score 
+  サブ解析 神経筋電気刺激療法と床上エルゴメーターを同時に実施した場合、別々に実施した場合に分けて解析 
+  4）筋量 SMDで統合したアウトカム：大腿直筋厚、大腿直筋断面積 
+  サブ解析 神経筋電気刺激療法と床上エルゴメーターを同時に実施した場合、別々に実施した場合に分けて解析 
+ 5）人工呼吸器装着期間 
+ 
+
+[[p67]]
+ 67 
+ サブ解析 神経筋電気刺激療法と床上エルゴメーターを同時に実施した場合、別々に実施した場合に分けて解析 
+  6）病院滞在期間（Waldaufらの報告は月単位での表記だったため、日数換算（×30日）にて解析） 
+  7）すべての有害事象（著者定義、測定時期は問わない） 
+   
+
+[[p68]]
+ 68 
+6．Funnel plot CQ3-1 1）ADL (FIM・BI・Katz Index) Barthel index 
+  2）運動耐容能（6MWD） データなし  3）筋力（MRC-SS，握力など）（ICU退室時） Overall MRC score 
+   
+
+[[p69]]
+ 69 
+4）筋量 Chest muscle thickness, Knee extensor muscle thickness 
+  5）人工呼吸装着期間 
+  6）病院滞在期間 
+   
+
+[[p70]]
+ 70 
+7）すべての有害事象 
+   
+
+[[p71]]
+ 71 
+CQ3-2 1）ADL (FIM・BI・Katz Index) データなし  2）運動耐容能（6MWD） 
+  3）筋力（MRC-SS，握力など）（ICU退室時） Overall MRC score 
+   
+
+[[p72]]
+ 72 
+4）筋量 Knee extensor muscle thickness 
+  5）人工呼吸器装着期間 
+  6）病院滞在期間 
+  7）すべての有害事象 
+
+[[p73]]
+ 73 
+   
+
+[[p74]]
+ 74 
+CQ3-3 1）ADL (FIM・BI・Katz Index) Barthel index 
+  2）運動耐容能（6MWD） Six minutes walking distance 
+  3）筋力（MRC） Overall MRC score 
+ 4）筋量 SMDで統合したアウトカム：大腿直筋厚、大腿直筋断面積 
+
+[[p75]]
+?VT?
+  5）人工呼吸器装着期間 
+   
+
+[[p76]]
+ 76 
+ 6）病院滞在期間（＃49は月単位での表記だったため、日数換算（×30日）にて解析） 
+  7）すべての有害事象（著者定義、測定時期は問わない）  
+  
+
+[[p77]]
+ 77 
+CQ5 重症患者に対して、嚥下内視鏡検査に基づいたマネジメントを行うか？  1．Search methods データベース ■ MEDLINE (PubMed) ■ CENTRAL ■ 医中誌  PubMed search strategy（検索日2021年11月3日：）  検索式 ヒット件数 #1 "Intensive Care Units" [mh] 95,278 #2 "Critical Illness" [mh] 33,966 #3 "Critical Care" [mh] 62,432 #4 "Intensive Care Units"[tiab] 28,399 #5 "Critical Illness" [tiab] 11,161 #6 "Critical Care" [tiab] 36,455 #7 "critical ill*" [tiab] 12,042 #8 "critically ill*" [tiab] 51,697 #9 "ICU"[tiab] 68,509 #10 "intensive care"[tiab] 166,918 #11 "intensive care unit*" [tiab] 132,231 #12 "Deglutition Disorders" [mh] 55,689 #13 "dysphagia"[tiab] 31,028 #14 "Deglutition" [mh] 10,507 #15 "swallowing dysfunction" [tiab] 687 #16 "swallowing difficult*"[tiab] 1,535 #17 "swallowing disorder*"[tiab] 1,486 #18 "extubation" [tiab] 11,797 #19 "postextubation" [tiab] 1,125 #20 "ventilat*"[tiab] 183,389 #21 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 511,780 
+#22 "fiberoptic endoscop*"[tiab] 1,200 #23 "flexible fiberop*"[tiab] 1,221 
+[[p78]]
+ 78 
+#24 "videoendoscop*" [tiab] 1,227 #25 "video nasal endoscop*" [tiab] 7 #26 "nasal endoscop*" [tiab] 2,499 #27 "endoscopic evaluation of swallowing" [tiab] 642 #28 "endoscopic swallowing" [tiab] 41 #29 "fiberop*" [tiab] 13,903 #30 #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 17,814 #31 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR drug therapy[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab] NOT (animals [mh] NOT humans [mh])) 
+4,561,389 
+#32 #21 AND #30 AND #31 598 #33 11546969 1 #34 #32 AND #33 1  CENTRAL search strategy（検索日2021年11月2日：） #1 MeSH descriptor: [Intensive Care Units] explode all trees 3887 #2 MeSH descriptor: [Critical Illness] explode all trees 2483 #3 MeSH descriptor: [Critical Care] explode all trees 2163 #4 ("Intensive Care Units"):ti,ab,kw 6537 #5 ("Critical Illness"):ti,ab,kw 3825 #6 ("Critical Care"):ti,ab,kw 4231 #7 (critical ill*):ti,ab,kw 6261 #8 (critically ill*):ti,ab,kw 7615 #9 ("ICU"):ti,ab,kw 14445 #10 ("intensive care"):ti,ab,kw 25612 #11 (intensive care unit*):ti,ab,kw 21920 #12 MeSH descriptor: [Deglutition Disorders] explode all trees 3013 #13 ("dysphagia"):ti,ab,kw 4553 #14 MeSH descriptor: [Deglutition] explode all trees 432 #15 ("swallowing dysfunction"):ti,ab,kw 122 #16 (swallowing difficult*):ti,ab,kw 783 #17 ("extubation"):ti,ab,kw 7148 #18 (swallow disorder*):ti,ab,kw 353 
+[[p79]]
+ 79 
+#19 ("postextubation"):ti,ab,kw 603 #20 (ventilat*):ti,ab,kw 35643 #21 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 73845 
+#22 (fiberoptic endoscop*):ti,ab,kw 221 #23 (flexible fiberop*):ti,ab,kw 271 #24 (videoendoscop*):ti,ab,kw 148 #25 (video nasal endoscop*):ti,ab,kw 50 #26 (nasal endoscop*):ti,ab,kw 1722 #27 ("endoscopic evaluation of swallowing"):ti,ab,kw 104 #28 ("endoscopic swallowing"):ti,ab,kw 6 #29 (fiberop*):ti,ab,kw 1558 #30 #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 3424 #31 #21 AND #30 770 Trials:766 #32 11546969 1 #33 #31 AND #32 1  医中誌search strategy（検索日2021年10月30日：） #1 ICU/TH or ICU/TA 103,481 #2 重症/TA 166,248 #3 危篤/TH or 危篤/TA 273 #4 クリティカルケア/TH or クリティカルケア/TA 12,619 #5 嚥下障害/TH or 嚥下障害/TA 56,204 #6 嚥下/TH or 嚥下/TA 43,892 #7 嚥下困難/TA 3,031 #8 嚥下機能低下/TA 381 #9 挿管患者/TA 498 #10 挿管管理/TA 272 #11 人工呼吸/TA 30,177 #12 抜管/TA 6,221 #13 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 366,061 
+[[p80]]
+ 80 
+#14 光ファイバー/TH or 光ファイバー/TA 663 #15 電子内視鏡/TH 3,167 #16 嚥下内視鏡/TA 869 #17 ビデオ内視鏡/TA 128 #18 嚥下評価/TH or 嚥下評価/TA 529 #19 嚥下機能/TH or 嚥下機能/TA 6,936 #20 #14 or #15 or #16 or #17 or #18 or #19 11,731 #21 ランダム化比較試験/TH or 準ランダム化比較試験/TH or ランダム化/AL or 無作為化/AL or 比較試験/AL or 臨床試験/AL or プラセボ/AL or 対照/AL or コントロール/AL or 臨床研究/AL 333,486 
+#22 #13 and #20 and #21 231 #23 (#22) and (PT=会議録除く)     
+[[p81]]
+ 81 
+2．PRISMA flow diagram 
+         3．Risk of bias graph 1）肺炎発生 
+
+[[p82]]
+ 82 
+  2）有害事象（再挿管） 
+    
+
+[[p83]]
+ 83 
+4．Risk of bias summary 1）肺炎発生 
+  2）有害事象（再挿管） 
+   
+
+[[p84]]
+ 84 
+5．Forest plot 1）肺炎発生 
+  2）有害事象（再挿管） 
+                       6．Funnel plot 1）肺炎発生 
+
+[[p85]]
+ 85 
+  2）有害事象（再挿管） 
+    
+
+[[p86]]
+ 86 
+CQ6 重症患者に対して、嚥下機能に関わるリハビリテーション治療を行うか？  1．Search methods データベース ■ MEDLINE (PubMed) ■ CENTRAL ■ 医中誌  PubMed search strategy（検索日2021年10月30日：1619件）  検索式 ヒット件数 #1 "critically ill"[tiab] 51,656 #2 "Critical Illness"[mh] OR "Critical Illness"[tiab] 39,532 #3 "Intensive Care Units"[mh] OR "intensive care unit*"[tiab] 174,666 #4 "Critical Care"[tiab] OR "Critical Care"[mh] 84,423 #5 "intensive care"[tiab] OR "ICU"[tiab] 191,617 #6 #1 OR #2 OR #3 OR #4 OR #5 291,042 #7 "cerebrovascular disorders"[mh] OR "brain injuries"[mh] OR "hemiplegia"[mh] OR "paresis"[mh] OR "dystonic disorders"[mh] OR "dystonia"[mh] 483,399 
+#8 "Stroke"[tiab] OR "poststroke"[tiab] OR "post-stroke"[tiab] OR "cerebrovasc*"[tiab] OR "brain vasc*"[tiab] OR "cerebral vasc*"[tiab] OR "cva"[tiab] OR "apoplex*"[tiab] 
+331,550 
+#9 "brain"[tiab] OR "cerebro*"[tiab] OR "cerebra*"[tiab] OR "cerebell*"[tiab] OR "intracran*"[tiab] OR "intracerebral"[tiab] OR "vertebrobasilar"[tiab] 1,563,021 
+#10 "ischemi*"[tiab] OR "ischaemi*"[tiab] OR "infarct*"[tiab] OR "thromboa*"[tiab] OR "thrombob*"[tiab] OR "thromboc*"[tiab] OR "thromboe*"[tiab] OR "thrombof*"[tiab] OR "thrombog*"[tiab] OR "thromboh*"[tiab] OR "thromboi*"[tiab] OR "thrombok*"[tiab] OR "thrombol*"[tiab] OR "thrombom*"[tiab] OR "thrombon*"[tiab] OR "thromboo*"[tiab] OR "thrombop*"[tiab] OR "thromboq*"[tiab] OR "thrombor*"[tiab] OR "thrombos*"[tiab] OR "thrombot*"[tiab] OR "thrombou*"[tiab] OR "thrombov*"[tiab] OR "thrombox*"[tiab] OR "thromboy*"[tiab] OR "thromboz*"[tiab] OR "emboli*"[tiab] OR "occlus*"[tiab] 
+1,170,640 
+#11 #9 AND #10 193,307 
+[[p87]]
+ 87 
+#12 "brain"[tiab] OR "cerebro*"[tiab] OR "cerebra*"[tiab] OR "cerebell*"[tiab] OR "intracerebral"[tiab] OR "intracranial"[tiab] OR "subarachnoid"[tiab] 1,572,412 
+#13 "haemorrhag*"[tiab] OR "hemorrhag*"[tiab] OR "haematoma*"[tiab] OR "hematoma*"[tiab] OR "bleed*"[tiab] 510,649 
+#14 #12 AND #13 108,821 #15 "brain injury"[tiab] OR "brain injuries"[tiab] OR "brain injured"[tiab] 76,236 #16 "hemipleg*"[tiab] OR "hemipar*"[tiab] OR "paresis"[tiab] OR "paretic"[tiab] OR "dystoni*"[tiab] 56,796 #17 "Stroke"[mh] 150,717 #18 #7 OR #8 OR #11 OR #14 OR #15 OR #16 OR #17 753,858 #19 "Meningitis"[mh] OR "Meningitis"[tiab] OR "meningitides"[tiab] 79,114 #20 "Craniocerebral Trauma"[mh] OR "Brain Edema"[mh] OR "Glasgow Coma Scale"[mh] OR "Glasgow Outcome Scale"[mh] OR "Unconsciousness"[mh] OR "Cerebrovascular Trauma"[mh] 
+229,394 
+#21 "haematoma*"[tiab] OR "hematoma*"[tiab] OR "haemorrhag*"[tiab] OR "hemorrhage*"[tiab] OR "bleed*"[tiab] OR "pressure"[tiab] 1,312,535 
+#22 "head"[tiab] OR "cranial"[tiab] OR "cerebral"[tiab] OR "brain*"[tiab] OR "intra-cranial"[tiab] OR "inter-cranial"[tiab] 1,734,891 
+#23 "diffuse axonal injury"[tiab] OR "diffuse axonal injuries"[tiab] OR "persistent vegetative state"[tiab] OR "Glasgow Outcome Scale"[tiab] OR "Glasgow Coma Scale"[tiab] 
+15,729 
+#24 "injury*"[tiab] OR "injuries"[tiab] OR "trauma"[tiab] OR "damage"[Title/Abstract] OR "damaged"[tiab] OR "wound*"[tiab] OR "fracture*"[tiab] OR "contusion*"[tiab] OR "haematoma*"[tiab] OR "hematoma*"[tiab] OR "haemorrhag*"[tiab] OR "hemorrhag*"[tiab] OR "bleed*"[tiab] OR "pressure"[tiab] 
+3,116,299 
+#25 "unconscious*"[tiab] OR "coma*"[tiab] OR "concuss*"[tiab] 70,618 #26 #24 AND #25 29,348 #27 #20 OR #21 OR #22 OR #23 OR #26 3,021,276 #28 "critical illness myopath*"[all] OR "CIM"[all] OR "CIPM"[all] OR "CIP"[all] 8,812 #29 "Critical Illness"[all] AND "polymyopath*"[all] 3 #30 "Neuromuscular Diseases"[mh] OR "Muscular Diseases"[mh] 497,759 
+[[p88]]
+ 88 
+OR "Demyelinating Diseases"[mh] #31 "muscle*"[all] OR "muscul*"[all] 1,195,363 #32 "disease*"[all] OR "disorder*"[all] OR "weaknes*"[all] 8,859,383 #33 #31 AND #32 377,372 #34 #28 OR #29 OR #30 OR #33 784,757 #35 #6 OR #18 OR #19 OR #27 OR #34 4,250,779 #36 "Deglutition Disorders"[tiab] OR "Deglutition Disorders"[mh] OR "swallow disorder*"[tiab] OR "swallowing dysfunction"[all] OR "swallowing difficult*"[tiab] OR "dysphagia"[tiab] 
+73,012 
+#37 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR clinical trials as topic[mesh:noexp] OR randomly[tiab] OR trial[ti] NOT (animals[mh] NOT humans [mh])) 
+1,303,179 
+#38 #35 AND #36 AND #37 1,619  CENTRAL search strategy（検索日2021年10月30日：255件） #1 MeSH descriptor: [Critical Care] explode all trees 2163 #2 MeSH descriptor: [Intensive Care Units] explode all trees 3887 #3 MeSH descriptor: [Critical Illness] explode all trees 2483 #4 #1 OR #2 OR #3 7139 #5 MeSH descriptor: [Meninges] explode all trees 298 #6 MeSH descriptor: [Craniocerebral Trauma] explode all trees 3860 #7 MeSH descriptor: [Cerebrovascular Trauma] explode all trees 33 #8 MeSH descriptor: [Brain Edema] explode all trees 206 #9 MeSH descriptor: [Glasgow Coma Scale] explode all trees 459 #10 MeSH descriptor: [Glasgow Outcome Scale] explode all trees 151 #11 MeSH descriptor: [Unconsciousness] explode all trees 933 #12 MeSH descriptor: [Cerebrovascular Disorders] explode all trees 16334 #13 MeSH descriptor: [Brain Injuries] explode all trees 2545 #14 MeSH descriptor: [Paresis] explode all trees 923 #15 MeSH descriptor: [Dystonia] explode all trees 305 #16 #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 21711 #17 MeSH descriptor: [Neuromuscular Diseases] explode all trees 10899 
+[[p89]]
+ 89 
+#18 MeSH descriptor: [Myositis, Inclusion Body] explode all trees 33 #19 #17 OR #18 10899 #20 MeSH descriptor: [Polyneuropathies] explode all trees 546 #21 (critical illness myopath*):ti,ab,kw 41 #22 ("CIM"):ti,ab,kw 171 #23 ("CIPM"):ti,ab,kw 1 #24 ("CIP"):ti,ab,kw 168 #25 ("critical illness"):ti,ab,kw 3825 #26 (polymyopath*):ti,ab,kw 1 #27 #21 OR #22 OR #23 OR #24 361 #28 #25 AND #26 1 #29 #27 OR #28 361 #30 #20 OR #29 898 #31 #4 OR #16 OR #19 OR #30 39570 #32 MeSH descriptor: [Deglutition Disorders] explode all trees 3013 #33 #31 AND #32 255  医中誌search strategy（検索日 2021年10月30日：286件） #1 重症/TA 166,248 #2 "クリティカルケア"/TH or "critical care"/TA or 集中治療/TA 23,807 #3 (ICU/TH or ICU/TA) 103,481 #4 脳血管障害/TH 280,001   #5 (髄膜炎/TH or 髄膜炎/TA) 28,520 #6 (頭部外傷/TH or 頭部外傷/TA) 62,975 #7 (神経筋疾患/TH or 神経筋疾患/TA) 193,821 #8 ("多発ニューロパチー"/TH or "critical illness polyneuropathy"/TA) 17,323 #9 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 791,593 #10 (嚥下/TH or 嚥下/TA) 43,892 #11 嚥下障害/TH or 嚥下困難/TA or 嚥下障害/TA 57,930 #12 嚥下機能/TA 6,930 #13 (嚥下訓練/TH or 嚥下訓練/TA) 10,754 #14 #10 or #11 or #12 or #13 69,455 #15 (ランダム化比較試験/TH or 準ランダム化比較試験/TH or ランダム化/AL or 無作為化/AL or 比較試験/AL or 臨床試験/AL or プラセボ/AL or 対照/AL or コントロール/AL or 臨床研究/AL) 333,486 
+#16 (PT=会議録除く) 6,163,367 #17 #9 AND #14 AND #15 AND #16 286 
+[[p90]]
+ 90 
+   
+[[p91]]
+ 91 
+2．PRISMA flow diagram 
+         3．Risk of bias graph 1）死亡 
+
+[[p92]]
+ 92 
+  2）肺炎 
+  3）摂食状況 
+ 4）入院期間 
+
+[[p93]]
+ 93 
+  5）有害事象 
+   
+
+[[p94]]
+ 94 
+4．Risk of bias summary 1）死亡 
+   
+
+[[p95]]
+ 95 
+2）肺炎 
+  3）摂食状況 
+   
+
+[[p96]]
+ 96 
+4）入院期間 
+  5）有害事象 
+   
+
+[[p97]]
+ 97 
+5．Forest plot 1）死亡 
+  2）肺炎 
+  3）摂食状況 
+  4）入院期間 
+   
+
+[[p98]]
+ 98 
+5）有害事象 
+   
+
+[[p99]]
+ 99 
+6．Funnel plot 1）死亡 
+  2）肺炎 
+  3）摂食状況 
+ 4）入院期間 
+
+[[p100]]
+ 100 
+  5）有害事象 
+     
+
+[[p101]]
+ 101 
+CQ9 重症患者の治療4〜10日目に20kcal/kg/day以上または消費エネルギー量の70%以上のエネルギー量投与を行うか  1．Search methods 検索データベース ■ MEDLINE (PubMed) ■ CENTRAL ■ 医中誌 □ その他（   ）  検索式とヒット数 PubMed search strategy（検索日2021年11月02日） #1 "intensive care units"[MeSH Terms] 94,967 #2 "critical illness"[MeSH Terms] 33,859 #3 "critical care"[MeSH Terms] 62,323 #4 "intensive care"[Title/Abstract] 166,568 #5 "icu"[Title/Abstract] 68,328 #6 "critical ill*"[Title/Abstract] 12,014 #7 "critically ill*"[Title/Abstract] 51,609 #8 "critical care"[Title/Abstract] 36,374 #9 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 291,073 #10 "nutritional support"[MeSH Terms] 47,208 #11 "enteral nutrition"[Title/Abstract] 9,794 #12 "parenteral nutrition"[Title/Abstract] 21,375 #13 "enteral feeding"[Title/Abstract] 5,723 #14 #10 OR #11 OR #12 OR #13 58,023 #15 "dietary proteins"[MeSH Terms] 102,686 #16 "amino acids"[MeSH Terms] 827,170 #17 "protein*"[Title/Abstract] 3,264,817 #18 "Energy Intake*"[MeSH Terms] 48,965 #19 "energy"[Title/Abstract] 712,225 #20 "trophic"[Title/Abstract] 30,472 #21 "hypocaloric"[Title/Abstract] 1,941 #22 "full feeding"[Title/Abstract]     164 #23 "underfeeding"[Title/Abstract] 712 #24 #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23  4,520,841  #25 #14 AND #24 13,688 #26 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR drug therapy[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab] NOT (animals [mh] NOT humans [mh])) 
+4,554,553 
+#27 #9 AND #25 AND #26 1,031  CENTRAL search strategy（検索日2021年11月03日） #1 MeSH descriptor: [Intensive Care Units] explode all trees 3864 #2 MeSH descriptor: [Critical Illness] explode all trees 2466 
+[[p102]]
+ 102 
+#3 MeSH descriptor: [Critical Care] explode all trees 2157 #4 ("intensive care"):ti,ab,kw 25378 #5 ("icu"):ti,ab,kw 14244 #6 ("critical ill*"):ti,ab,kw 97 #7 ("critically ill*"):ti,ab,kw 7413 #8 ("critical care"):ti,ab,kw 4200 #9 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 35943 #10 MeSH descriptor: [Nutritional Support] explode all trees 3510 #11 ("enteral nutrition"):ti,ab,kw 4569 #12 ("parenteral nutrition"):ti,ab,kw 4239 #13 ("enteral feeding"):ti,ab,kw 1482 #14 #10 OR #11 OR #12 OR #13 8643 #15 MeSH descriptor: [Dietary Proteins] explode all trees 4292 #16 MeSH descriptor: [Amino Acids] explode all trees 22199 #17 ("protein*"):ti,ab,kw 84217 #18 MeSH descriptor: [Energy Intake] explode all trees 5656 #19 (“energy”):ti,ab,kw 36,870 #20 ("trophic"):ti,ab,kw 415 #21 ("hypocaloric"):ti,ab,kw 1146 #22 ("full feeding"):ti,ab,kw 87 #23 ("underfeeding"):ti,ab,kw 85 #24 #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23  134037 #25 #14 AND #24 3151 #31 #9 AND #25 912  医学中央雑誌search strategy（検索日2021年11月2日） #1 (ICU/TH or ICU/TA)) and (PT=会議録除く) 51,885 #2 ((危篤/TH or 危篤/TA)) and (PT=会議録除く) 194 #3 ((クリティカルケア/TH or クリティカルケア/TA)) and (PT=会議録除く) 6,958 #4 #1 or #2 or #3 57,043 #5 (栄養補助/TH or 栄養補助/TA)) and (PT=会議録除く) 22,173 #6 (経腸栄養/TA) and (PT=会議録除く) 6,632 #7 (静脈栄養/TA) and (PT=会議録除く) 5,232 #8 #5 or #6 or #7 25,534 #9 ((食品中のタンパク質/TH or 食品中のタンパク質/TA)) and (PT=会議録除く) 5,972 #10 (("Amino Acids"/TH or "Amino Acids"/TA)) and (PT=会議録除く) 52,993 #11 ((タンパク質/TH orタンパク質/TA)) and (PT=会議録除く) 614,546 #12 (タンパク質摂取量/TA) and (PT=会議録除く) 88 #13 (たんぱく質補給/TA) and (PT=会議録除く) 4 #14 ((エネルギー摂取量/TH or エネルギー摂取量/TA)) and (PT=会議録除く) 7,795 #15 (エネルギー/TA) and (PT=会議録除く) 20,580 #16 (trophic/TA) and (PT=会議録除く) 2,313 
+[[p103]]
+ 103 
+#17 (hypocaloric/TA) and (PT=会議録除く) 6 #18 (full/AL and (給餌/TH or feeding/TA)) and (PT=会議録除く) 22 #19 (underfeeding/TA) and (PT=会議録除く) 27 #20 #9 or #10 or #11 or #12 or #13 or #14 or #15 or #16 or #17 or #18 or #19 670,165 #21 #8 and #20 4,638 #22 ランダム化比較試験/TH or 準ランダム化比較試験/TH or ランダム化/AL or 無作為化/AL or 比較試験/AL or 臨床試験/AL or プラセボ/AL or 対照/AL or コント/AL and ロール/AL or 臨床研究/AL 
+142,934 
+#23 #4 and #21 and #22 13   
+[[p104]]
+ 104 
+2．PRISMA flow diagram  
+  3．Risk of bias graph 
+
+[[p105]]
+ 105 
+1）ADLスコア：アウトカムなし ADL score  2）握力 Hand grip strength（kg） 
+  3）筋肉量の変化：アウトカムなし Muscle volume change  4）HR-QOL ED-5D-3L  QOL: ED-5D-3L 
+   
+
+[[p106]]
+ 106 
+5）下痢 Diarrhea 
+  6）死亡 Mortality 
+  7）入院期間 Hospital day（日） 
+  4．Risk of bias summary 1）ADLスコア：アウトカムなし  
+
+[[p107]]
+ 107 
+2）握力 
+  3）筋肉量の変化：アウトカムなし  4）HR-QOL ED-5D-3L 
+ 5）下痢 
+
+[[p108]]
+ 108 
+  6）死亡 
+ 7）入院期間 
+
+[[p109]]
+ 109 
+   
+
+[[p110]]
+ 110 
+5．Forest plot 1）ADLスコア：アウトカムなし  2）握力 
+  3）筋肉量の変化：アウトカムなし  4）HR-QOL ED-5D-3L 
+  5）下痢 
+  6）死亡 
+     7）入院期間 
+
+[[p111]]
+ 111 
+   
+
+[[p112]]
+ 112 
+6．Funnel plot 1）ADLスコア：アウトカムなし  2）握力 
+ 3）筋肉量の変化：アウトカムなし  4）HR-QOL ED-5D-3L 
+   
+
+[[p113]]
+ 113 
+5）下痢 
+  6）死亡 
+  7）入院期間 
+   CQ10 重症患者の治療4〜10日目に1g/kg/day以上のタンパク質量投与を行うか 
+
+[[p114]]
+ 114 
+ 1．Search methods 検索データベース ■ MEDLINE (PubMed) ■ CENTRAL ■ 医中誌 □ その他（   ）  検索式とヒット数 PubMed search strategy（検索日2021年11月02日） #1 "intensive care units"[MeSH Terms] 94,967 #2 "critical illness"[MeSH Terms] 33,859 #3 "critical care"[MeSH Terms] 62,323 #4 "intensive care"[Title/Abstract] 166,568 #5 "icu"[Title/Abstract] 68,328 #6 "critical ill*"[Title/Abstract] 12,014 #7 "critically ill*"[Title/Abstract] 51,609 #8 "critical care"[Title/Abstract] 36,374 #9 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 291,073 #10 "nutritional support"[MeSH Terms] 47,208 #11 "enteral nutrition"[Title/Abstract] 9,794 #12 "parenteral nutrition"[Title/Abstract] 21,375 #13 "enteral feeding"[Title/Abstract] 5,723 #14 #10 OR #11 OR #12 OR #13 58,023 #15 "dietary proteins"[MeSH Terms] 102,686 #16 "amino acids"[MeSH Terms] 827,170 #17 "protein*"[Title/Abstract] 3,264,817 #18 "Energy Intake*"[MeSH Terms] 48,965 #19 "energy"[Title/Abstract] 712,225 #20 "trophic"[Title/Abstract] 30,472 #21 "hypocaloric"[Title/Abstract] 1,941 #22 "full feeding"[Title/Abstract]     164 #23 "underfeeding"[Title/Abstract] 712 #24 #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23  4,520,841  #25 #14 AND #24 13,688 #26 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR drug therapy[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab] NOT (animals [mh] NOT humans [mh])) 
+4,554,553 
+#27 #9 AND #25 AND #26 1,031  CENTRAL search strategy（検索日2021年11月03日） #1 MeSH descriptor: [Intensive Care Units] explode all trees 3864 #2 MeSH descriptor: [Critical Illness] explode all trees 2466 #3 MeSH descriptor: [Critical Care] explode all trees 2157 #4 ("intensive care"):ti,ab,kw 25378 
+[[p115]]
+ 115 
+#5 ("icu"):ti,ab,kw 14244 #6 ("critical ill*"):ti,ab,kw 97 #7 ("critically ill*"):ti,ab,kw 7413 #8 ("critical care"):ti,ab,kw 4200 #9 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 35943 #10 MeSH descriptor: [Nutritional Support] explode all trees 3510 #11 ("enteral nutrition"):ti,ab,kw 4569 #12 ("parenteral nutrition"):ti,ab,kw 4239 #13 ("enteral feeding"):ti,ab,kw 1482 #14 #10 OR #11 OR #12 OR #13 8643 #15 MeSH descriptor: [Dietary Proteins] explode all trees 4292 #16 MeSH descriptor: [Amino Acids] explode all trees 22199 #17 ("protein*"):ti,ab,kw 84217 #18 MeSH descriptor: [Energy Intake] explode all trees 5656 #19 (“energy”):ti,ab,kw 36,870 #20 ("trophic"):ti,ab,kw 415 #21 ("hypocaloric"):ti,ab,kw 1146 #22 ("full feeding"):ti,ab,kw 87 #23 ("underfeeding"):ti,ab,kw 85 #24 #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23  134037 #25 #14 AND #24 3151 #31 #9 AND #25 912  医学中央雑誌search strategy（検索日2021年11月2日） #1 (ICU/TH or ICU/TA)) and (PT=会議録除く) 51,885 #2 ((危篤/TH or 危篤/TA)) and (PT=会議録除く) 194 #3 ((クリティカルケア/TH or クリティカルケア/TA)) and (PT=会議録除く) 6,958 #4 #1 or #2 or #3 57,043 #5 (栄養補助/TH or 栄養補助/TA)) and (PT=会議録除く) 22,173 #6 (経腸栄養/TA) and (PT=会議録除く) 6,632 #7 (静脈栄養/TA) and (PT=会議録除く) 5,232 #8 #5 or #6 or #7 25,534 #9 ((食品中のタンパク質/TH or 食品中のタンパク質/TA)) and (PT=会議録除く) 5,972 #10 (("Amino Acids"/TH or "Amino Acids"/TA)) and (PT=会議録除く) 52,993 #11 ((タンパク質/TH orタンパク質/TA)) and (PT=会議録除く) 614,546 #12 (タンパク質摂取量/TA) and (PT=会議録除く) 88 #13 (たんぱく質補給/TA) and (PT=会議録除く) 4 #14 ((エネルギー摂取量/TH or エネルギー摂取量/TA)) and (PT=会議録除く) 7,795 #15 (エネルギー/TA) and (PT=会議録除く) 20,580 #16 (trophic/TA) and (PT=会議録除く) 2,313 #17 (hypocaloric/TA) and (PT=会議録除く) 6 #18 (full/AL and (給餌/TH or feeding/TA)) and (PT=会議録除く) 22 
+[[p116]]
+ 116 
+#19 (underfeeding/TA) and (PT=会議録除く) 27 #20 #9 or #10 or #11 or #12 or #13 or #14 or #15 or #16 or #17 or #18 or #19 670,165 #21 #8 and #20 4,638 #22 ランダム化比較試験/TH or 準ランダム化比較試験/TH or ランダム化/AL or 無作為化/AL or 比較試験/AL or 臨床試験/AL or プラセボ/AL or 対照/AL or コント/AL and ロール/AL or 臨床研究/AL 
+142,934 
+#23 #4 and #21 and #22 13    
+[[p117]]
+ 117 
+2．PRISMA flow diagram 
+   
+
+[[p118]]
+ 118 
+3．Risk of bias graph 1）バーセルインデックス Barthel index 
+  2）握力 hand grip strength 
+  3）筋肉量の変化 muscle volume change 
+   
+
+[[p119]]
+ 119 
+4）QOLスコア（身体機能） QOL score (physical ) 
+  5）下痢 Diarrhea 
+  6）死亡 Mortality 
+   
+
+[[p120]]
+ 120 
+7）入院期間 hospital day 
+   
+
+[[p121]]
+ 121 
+4．Risk of bias summary 1）バーセルインデックス 
+  2）握力 
+ 3）筋肉量の変化 
+
+[[p122]]
+ 122 
+  4）QOLスコア（身体機能） 
+ 5）下痢 
+
+[[p123]]
+ 123 
+   
+
+[[p124]]
+ 124 
+6）死亡 
+   
+
+[[p125]]
+ 125 
+7）入院期間 
+   
+
+[[p126]]
+ 126 
+5．Forest plot 1）バーセルインデックス 
+  2）握力 
+  3）筋肉量の変化 
+  4）QOLスコア（身体機能） 
+  5）下痢 
+   
+
+[[p127]]
+ 127 
+6）死亡 
+  7）入院期間 
+   
+
+[[p128]]
+ 128 
+6．Funnel plot 1）バーセルインデックス 
+  2）握力 
+  3）筋肉量の変化 
+ 4）QOLスコア（身体機能） 
+
+[[p129]]
+ 129 
+  5）下痢 
+  6）死亡 
+  7）入院期間 
+
+[[p130]]
+ 130 
+    
+
+[[p131]]
+ 131 
+CQ11 小児ICU患者に早期リハビリテーションを行うか？  1．Search methods 検索データベース ■MEDLINE (PubMed) ■CENTRAL ■医学中央雑誌 □その他 (      )  検索式とヒット数 PubMed search strategy（検索日 2021年 10月 29日） #1 (Intensive Care Units[mh] OR Critical Illness[mh] OR Critical Care[mh] OR "intensive care" [tiab] OR icu[tiab] OR critical ill*[tiab] OR critically ill*[tiab] OR "critical care"[tiab]) 
+291,263 
+#2 (Child[mh] OR Adolescent[mh] OR Infant[mh] OR Child, Preschool[mh] NOT Infant, Premature[mh] NOT Infant, Very Low Birth Weight[mh]) 3,688,998 
+#3 ((rehabilitation[mh] OR Physical therapy[tiab]OR Exercise Therapy[mh] OR exercise therap*[tiab] OR Physical therapy[tiab] OR Physiotherapy[tiab] OR Physiotherapies[tiab] OR Occupational therapy[mh] OR Early Ambulation[mh] OR Early Mobilization[mh] OR Early exercise[mh] OR play[mh]OR "Mobility activities" OR protocol)) 
+1,023,413 
+#4 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR clinical trials as topic[mesh:noexp] OR randomly[tiab] OR trial[ti] NOT (animals[mh] NOT humans [mh])) 
+1,302,917 
+#5 #1 AND #2 AND #3 AND #4 612  CENTRAL search strategy（検索日 2021年 10月 30日） #1 MeSH descriptor: [Intensive Care Units] explode all trees 3864 #2 ("Intensive Care Unit"):ti,ab,kw  17212 #3 ("Critical Illness"):ti,ab,kw 3802 #4 MeSH descriptor: [Critical Illness] explode all trees 2466 #5 MeSH descriptor: [Critical Care] explode all trees 2157 #6 ("Critical Care"):ti,ab,kw 4200 #7 ("intensive care"):ti,ab,kw 25378 #8 (icu):ti,ab,kw 14244 #9 ("critical ill*"):ti,ab,kw 97 #10 ("critically ill"):ti,ab,kw 7413 #11 MeSH descriptor: [Child] explode all trees 58731 #12 MeSH descriptor: [Adolescent] explode all trees 107314 #13 MeSH descriptor: [Infant] explode all trees 33554 #14 MeSH descriptor: [Pediatrics] explode all trees 709 #15 MeSH descriptor: [Child, Preschool] explode all trees 30532 
+[[p132]]
+ 132 
+#16 MeSH descriptor: [Infant, Premature] explode all trees 4006 #17 MeSH descriptor: [Infant, Very Low Birth Weight] explode all trees 1001 #18 MeSH descriptor: [Rehabilitation] explode all trees  38509 #19 MeSH descriptor: [Physical Therapy Modalities] explode all trees  27816 #20 (Physiotherapy):ti,ab,kw 13477 #21 (Physical therapy):ti,ab,kw 52143 #22 MeSH descriptor: [Exercise Therapy] explode all trees 15157 #23 MeSH descriptor: [Occupational Therapy] explode all trees 801 #24 MeSH descriptor: [Early Ambulation] explode all trees 397 #25 (Early exercise):ti,ab,kw 5430 #26 (play):ti,ab,kw 18234 #27 (Mobility activities):ti,ab,kw 2351 #28 (#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10) AND (#11 OR #12 OR #13 OR #14 OR #15 NOT (#16 OR #17)) AND (#18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27) 
+242 (Trials 229) 229 trials  医学中央雑誌search strategy（検索日 2021年 10月 20日） #1 (小児ICU/TH or 小児ICU/AL) 16,162 #2 (ICU/TH or ICU/AL) 142,973 #3 (クリティカルケア/TH or クリティカルケア/AL) 17,483 #4 (集中治療/AL) 83,960 #5 (重症/AL or 重篤/AL) 256,496 #6 #1 or #2 or #3 or #4 or #5 446,696 #7 (小児/TH or 小児/AL or こども/AL) 1,101,133 #8 (幼児/TH or 幼児/AL) 211,090 #9 (乳児/TH or 乳児/AL) 233,339 #10 (青年/TH or 青年/AL or 青年期/AL) 332,042 #11 #7 or #8 or #9 or #10 1,357,217 #12 (リハビリテーション/TH or リハビリテーション/AL) 543,567 #13 (理学療法/TH or 理学療法/AL) 223,423 #14 (作業療法/TH or 作業療法/AL) 61,919 #15 (早期離床/TH or 早期離床/AL) 6,761 #16 (早期の運動/AL) 131 #17 (遊戯と玩具/TH or 遊び/AL) 8,385 #18 (活動/AL) 269,179 #19 #12 or #13 or #14 or #15 or #16 or #17 or #18 775,702 #20 (ランダム化比較試験/TH)  54,490 #21 (準ランダム化比較試験/TH) 3,499 #22 (ランダム化/AL) 65,642 #23 (無作為化/AL) 8,331 #24 (比較試験/AL) 69,374 #25 (臨床試験/AL) 80,105 
+[[p133]]
+ 133 
+#26 (プラセボ/AL) 8,613 #27 (対照/AL) 78,420 #28 (コントロール/AL) 77,975 #29 (臨床研究/AL) 60,218 #30 #20 or #21 or #22 or #23 or #24 or #25 or #26 or #27 or #28 or #29 333,486 #31 #6 and #11 and #19 and #30 253 #32 (#31) and (PT=会議録除く) 241    
+[[p134]]
+ 134 
+2．PRISMA flow diagram 
+    
+
+[[p135]]
+ 135 
+3．Risk of bias graph 1）入院期間 
+  2）ICU滞在期間 
+  3）治療的介入を有する有害事象 
+ 4．Risk of bias summary 1）入院期間 
+
+[[p136]]
+ 136 
+  2）ICU滞在期間 
+   
+
+[[p137]]
+ 137 
+3）治療的介入を有する有害事象 
+    
+
+[[p138]]
+ 138 
+5．Forest plot 1）入院期間 
+   2）ICU滞在期間 
+   3）治療的介入を有する有害事象 
+   6．Funnel plot 1）入院期間  2）ICU滞在期間  3）治療的介入を有する有害事象     
+
+[[p139]]
+ 139 
+CQ12 小児急性期呼吸管理患者に呼吸理学療法を行うか？  1．Search methods  検索データベース ■MEDLINE (PubMed) ■CENTRAL ■医学中央雑誌 □その他 (      )  検索式とヒット数 PubMed search strategy（検索日 2021年 11月 1日） #1 (Intensive Care Units[mh] OR Critical Illness[mh] OR Critical Care[mh] OR "intensive care" [tiab] OR icu[tiab] OR critical ill*[tiab] OR critically ill*[tiab] OR "critical care"[tiab]) 
+290,477 
+#2 (Child[mh] OR Adolescent[mh] OR Infant[mh] OR pediatrics[tiab] OR Child, Preschool[mh] NOT Infant, Premature[mh] NOT Infant, Very Low Birth Weight[mh]) 3,695,642 
+#3 (Respiration, Artificial[mh] OR Respiratory Therapy[mh] OR positive pressure respiration[mh] OR continuous positive airway pressure[mh] OR continuous distend* pressur*[tiab] OR positv* airway* pressur*[tiab] OR "positive end expiratory pressure"[tiab] OR "mechanical ventilation"[tiab] OR ppv[tiab] OR cpcp[tiab] OR peep[tiab]) 
+172,040 
+#4 (Respiratory Therapy[mh] OR Physical Therapy Modalities[mh] OR "Physical Therapy"[tiab] OR "chest physical therapy"[tiab] OR "chest physiotherapy"[tiab] OR "respiratory physical therapy"[tiab] OR "respiratory physiotherapy"[tiab] OR "postural"[tiab] OR "chest physiotherapy"[tiab] OR "mechanical insufflation"[tiab]) 
+330,229 
+#5 (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR clinical trials as topic[mesh:noexp] OR randomly[tiab] OR trial[ti] NOT (animals[mh] NOT humans [mh])) 
+1,300,644 
+#6 #1 AND #2 AND #3 AND #4 AND #5 767  CENTRAL search strategy（検索日 2021年 11月 24日） #1 MeSH descriptor: [Intensive Care Units] explode all trees 3864 #2 ("Intensive Care Units"):ti,ab,kw (Word variations have been searched) 6498 #3 Critical Illness 6288 #4 ("Critical Illness"):ti,ab,kw 3802 #5 MeSH descriptor: [Critical Care] explode all trees 2157 #6 ("Critical Care"):ti,ab,kw 4200 #7 ("intensive care"):ti,ab,kw 25378 
+[[p140]]
+ 140 
+#8 (icu):ti,ab,kw 14244 #9 ("critical ill*"):ti,ab,kw 97 #10 ("critically ill"):ti,ab,kw 7413 #11 MeSH descriptor: [Child] explode all trees 58731 #12 MeSH descriptor: [Adolescent] explode all trees 107314 #13 MeSH descriptor: [Infant] explode all trees 33554 #14 MeSH descriptor: [Pediatrics] explode all trees 709 #15 MeSH descriptor: [Child, Preschool] explode all trees 30532 #16 MeSH descriptor: [Infant, Premature] explode all trees 4006 #17 MeSH descriptor: [Infant, Very Low Birth Weight] explode all trees 1001 #18 MeSH descriptor: [Respiration, Artificial] explode all trees 6602 #19 MeSH descriptor: [Respiratory Therapy] explode all trees 8527 #20 MeSH descriptor: [Positive-Pressure Respiration] explode all trees 2889 #21 MeSH descriptor: [Continuous Positive Airway Pressure] explode all trees 1185 #22 ("continuous distend* pressur*"):ti,ab,kw 0 #23 ("positive end expiratory pressure"):ti,ab,kw 4009 #24 (positv* airway* pressur*):ti,ab,kw 2 #25 ("mechanical ventilation"):ti,ab,kw 10579 #26 (ppv):ti,ab,kw 1162 #27 (cpap):ti,ab,kw 4913 #28 (peep):ti,ab,kw 1917 #29 MeSH descriptor: [Respiratory Therapy] explode all trees 8527 #30 MeSH descriptor: [Physical Therapy Modalities] explode all trees 27816 #31 ("chest physical therapy"):ti,ab,kw 104 #32 ("respiratory physical therapy"):ti,ab,kw 26 #33 ("respiratory physiotherapy"):ti,ab,kw 209 #34 ("postural"):ti,ab,kw 8351 #35 ("chest physiotherapy"):ti,ab,kw 560 #36 ("mechanical insufflation"):ti,ab,kw 56 #37 (#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10) AND (#11 OR #12 OR #13 OR #14 OR #15 NOT (#16 OR #17)) AND (#18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28) AND (#29 OR #30 OR #31 OR #32 OR #33 OR #34 OR #35 OR #36) 
+701 
+ 医学中央雑誌search strategy（検索日 2021年 11月 24日） #1 (小児ICU/TH or 小児ICU/AL) 16,162 #2 (ICU/TH or ICU/AL) 142,973 #3 (クリティカルケア/TH or クリティカルケア/AL) 17,483 #4 (集中治療/AL) 83,960 #5 (重症/AL or 重篤/AL) 256,496 
+[[p141]]
+ 141 
+#6 #1 or #2 or #3 or #4 or #5 446,696 #7 (小児/TH or 小児/AL or こども/AL) 1,101,133 #8 (幼児/TH or 幼児/AL) 211,090 #9 (乳児/TH or 乳児/AL) 233,339 #10 (青年/TH or 青年/AL or 青年期/AL) 332,042 #11 #7 or #8 or #9 or #10 1,357,217 #12 (人工呼吸/TH or 人工呼吸/AL) 64,332 #13 (呼吸療法/TH or 呼吸療法/AL) 90,853 #14 (持続気道陽圧/TH or 持続気道陽圧/AL) 5,428 #15  (陽圧換気/AL) 3,096 #16 (peep/AL) 1,283 #17 (cpap/AL) 3,604 #18 (ppv/AL) 5,966 #19 (呼気終末陽圧/AL) 189 #20 (機械換気/AL) 151 #21 (調節換気/AL) 81 #22 #12 or #13 or #14 or #15 or #16 or #17 or #18 or #19 or #20 or #21 108,092 #23 (理学療法/TH or 理学療法/AL) 223,423 #24 (呼吸理学療法/TH or 呼吸理学療法/AL) 14,988 #25 (体位ドレナージ/TH or 体位ドレナージ/AL) 1,009 #26 (体位変換/TH or 体位変換/AL) 8,076 #27 (カフアシスト/AL) 121 #28 #23 or #24 or #25 or #26 or #27 230,926 #29 (ランダム化比較試験/TH)  54,490 #30 (準ランダム化比較試験/TH) 3,499 #31 (ランダム化/AL) 65,642 #32 (無作為化/AL) 8,331 #33 (比較試験/AL) 69,374 #34 (臨床試験/AL) 80,105 #35 (プラセボ/AL) 8,613 #36 (対照/AL) 78,420 #37 (コントロール/AL) 77,975 #38 (臨床研究/AL) 60,218 #39 #29 or #30 or #31 or #32 or #33 or #34 or #35 or #36 or #37 or #38 333,486 #40 #6 and #11 and #22 and #28 and #39 12 #41 (#40) and (PT=会議録除く) 11    
+[[p142]]
+ 142 
+2．PRISMA flow diagram 
+    
+
+[[p143]]
+ 143 
+3．Risk of bias graph 1）死亡 
+  2）呼吸管理期間 
+  3）治療的介入を有する有害事象 
+ 4）酸素化指標（PaO2/FIO2比） 
+
+[[p144]]
+ 144 
+    
+
+[[p145]]
+ 145 
+4．Risk of bias summary 1）死亡 
+  2）呼吸管理期間 
+   
+
+[[p146]]
+ 146 
+3）治療的介入を有する有害事象 
+  4）酸素化指標（PaO2/FIO2比） 
+    
+
+[[p147]]
+ 147 
+5．Forest plot 1）死亡 
+  2）呼吸管理期間 
+  3）治療的介入を有する有害事象 
+  4）酸素化指標（PaO2/FIO2比） 
+    
+
+[[p148]]
+ 148 
+6．Funnel plot 1）死亡 
+  2）呼吸管理期間  3）治療的介入を有する有害事象  4）酸素化指標（PaO2/FIO2比） 
+    
+
+[[p149]]
+ 149 
+CQ13 重症患者に対してICU退室後に強化リハビリテーションを行うか？  1．Search methods  検索データベース ■MEDLINE (PubMed) ■CENTRAL ■医学中央雑誌 □その他 (      )  検索式とヒット数 PubMed search strategy（検索日 2021年 10月 15日） #1  "critical care"[mh] OR "critical illness"[mh] OR "critical illness"[tiab] OR "post critical care"[tiab] OR "post intensive care"[tiab] OR "post ICU"[tiab] 94,410 
+#2  "rehabilitation"[mh] OR "rehabilitation"[tiab] OR "physical therapy"[tiab] OR "physiotherapy"[tiab] OR "occupational therapy"[tiab] OR training*[tiab] OR program*[tiab] 
+1,691,124 
+#3 randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR placebo[tiab] OR clinical trials as topic[mesh:noexp] OR randomly[tiab] OR trial[ti] NOT (animals[mh] NOT humans [mh]) 
+1,299,978 
+#4 #1 AND #2 8,018 #5 #3 AND #4 757  CENTRAL search strategy（検索日 2021年 10月 15日） #1 MeSH descriptor: [Critical Care] explode all trees 2,157 #2 MeSH descriptor: [Critical Illness] explode all trees 2,466 #3 (“critical illness”):ti.ab.kw 3,802 #3 ("post critical care"):ti,ab,kw 3 #4 ("post intensive care"):ti,ab,kw 80 #5 ("post ICU"):ti,ab,kw 177 #6 #1 OR #2 OR #3 OR #4 OR #5 OR #6 5,731 #7 MeSH descriptor: [Rehabilitation] explode all trees 38,509 #8 ("rehabilitation"):ti,ab,kw 53,730 #9 ("physical therapy"):ti,ab,kw 10,394 #10 ("physiotherapy"):ti,ab,kw 13,477 #11 ("occupational therapy"):ti,ab,kw 2,819 #12 ("training"):ti,ab,kw 99,514 #13 ("program"):ti,ab,kw 113,742 #12 #7 OR #8 OR #9 OR #10 OR #11 233,578 #13 #6 AND #12 770  医学中央雑誌search strategy（検索日 2021年 10月 14日） #1 (ICU症候群/TH or 集中治療後/TA or PICS/TA or post-ICU/TA) 3,363 
+[[p150]]
+ 150 
+and (PT=会議録除く) #2 (リハビリテーション/TH or 理学療法/TH or 作業療法/TH or 運動療法/TH or リハビリテーション/TA or 理学療法/TA or 作業療法/TA or 運動療法/TA or トレーニング/TA or プログラム/TA) and (PT=会議録除く) 
+241,075 
+#3 (ランダム化比較試験/TH or 準ランダム化比較試験/TH or ランダム化/AL or 無作為化/AL or 比較試験/AL or 臨床試験/AL or プラセボ/AL or 対照/AL or コントロール/AL or 臨床研究/AL) and (PT=会議録除く) 
+251,512  
+#4 #1 and #2 and #3 17    
+[[p151]]
+ 151 
+2．PRISMA flow diagram 
+    
+
+[[p152]]
+ 152 
+3．Risk of bias graph 1）身体機能関連QOL（Physical component summary、もしくはphysical functioning、その他身体機能関連のQOL） 
+  2）精神機能関連QOL（Mental component summary、もしくはMental health、その他精神機能関連のQOL） 
+   
+
+[[p153]]
+ 153 
+3）全体的健康関連QOL（EQ-5D VAS, General health） 
+  4）死亡 
+ 5）ADL（Barthel Index, FIM, Katz Index） 
+ 6）復職  データなし  
+
+[[p154]]
+ 154 
+7）すべての有害事象 
+    
+
+[[p155]]
+ 155 
+4．Risk of bias summary 1）身体機能関連QOL（Physical component summary、もしくはphysical functioning、その他身体機能関連のQOL） 
+   
+
+[[p156]]
+ 156 
+2）精神機能関連QOL（Mental component summary、もしくはMental health、その他精神機能関連のQOL） 
+   
+
+[[p157]]
+ 157 
+3）全体的健康関連QOL（EQ-5D VAS, General health） 
+  4）死亡 
+ 5）ADL（Barthel Index, FIM, Katz Index） 
+
+[[p158]]
+ 158 
+  6）復職  データなし 7）すべての有害事象 
+  
+
+[[p159]]
+ 159 
+5．Forest plot 1）身体機能関連QOL（Physical component summary、もしくはphysical functioning、その他身体機能関連のQOL）：SF-36, SF-12のPCS 
+  サブ解析①：ICU退室後から入院中の介入、退院後の介入、ICU退室後から退院後も継続した介入の3つに分けて解析 
+  サブ解析②：監視型の介入、監視型＋非監視型の混合、全て非監視型の3つに分けて解析 
+   
+
+[[p160]]
+ 160 
+2）精神機能関連QOL（Mental component summary、もしくはMental health、その他精神機能関連のQOL）：SF-36, SF-12のMCS 
+  サブ解析①：ICU退室後から入院中の介入、退院後の介入、ICU退室後から退院後も継続した介入の3つに分けて解析 
+  サブ解析②：監視型の介入、監視型＋非監視型の混合、全て非監視型の3つに分けて解析 
+   
+
+[[p161]]
+ 161 
+3）全体的健康関連QOL（EQ-5D VAS, General health）：EQ-5D, General health score of SF-36, AQoL (Assessment of Quality of Life Measure)  
+  サブ解析①：ICU退室後から入院中の介入、退院後の介入、ICU退室後から退院後も継続した介入の3つに分けて解析 
+  サブ解析②：監視型の介入、監視型＋非監視型の混合、全て非監視型の3つに分けて解析 
+   
+
+[[p162]]
+ 162 
+4）死亡 
+  サブ解析①：ICU退室後から入院中の介入、退院後の介入、ICU退室後から退院後も継続した介入の3つに分けて解析 
+  5）ADL（Barthel Index, FIM, Katz Index） 
+  6）復職  データなし  7）すべての有害事象 
+   
+
+[[p163]]
+ 163 
+6．Funnel plot 1）身体機能関連QOL（Physical component summary、もしくはphysical functioning、その他身体機能関連のQOL） 
+  2）精神機能関連QOL（Mental component summary、もしくはMental health、その他精神機能関連のQOL） 
+   
+
+[[p164]]
+ 164 
+3）全体的健康関連QOL（EQ-5D VAS, General health）：EQ-5D, General health score of SF-36, AQoL (Assessment of Quality of Life Measure) 
+  4）死亡 
+   
+
+[[p165]]
+ 165 
+5）ADL（Barthel Index, FIM, Katz Index） 
+  6）復職  データなし  7）すべての有害事象 
+     

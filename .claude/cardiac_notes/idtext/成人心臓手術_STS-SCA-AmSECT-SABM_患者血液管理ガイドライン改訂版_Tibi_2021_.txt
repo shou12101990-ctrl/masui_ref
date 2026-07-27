@@ -1,0 +1,2826 @@
+
+[[p1]]
+PATIENT BLOOD MANAGEMENT GUIDELINES
+STS/SCA/AmSECT/SABM Update to the
+Clinical Practice Guidelines on Patient Blood
+Management
+Pierre Tibi, MD, R. Scott McClure, MD, FRCSC, Jiapeng Huang, MD,
+Robert A. Baker, PhD, CCP, David Fitzgerald, DHA, CCP, C. David Mazer, MD,
+Marc Stone, MD, Danny Chu, MD, Alfred H. Stammers, MSA, CCP Emeritus,
+Tim Dickinson, CCP, Linda Shore-Lesserson, MD, Victor Ferraris, MD, Scott Firestone, MS,
+Kalie Kissoon, and Susan Moffatt-Bruce, MD, FRCSC
+Department of Cardiovascular Surgery, Yavapai Regional Medical Center, Prescott, Arizona; Division of Cardiac
+Surgery, Libin Cardiovascular Institute, Foothills Medical Center, University of Calgary, Calgary, Alberta, Canada;
+Department of Anesthesiology & Perioperative Medicine, University of Louisville, Louisville, Kentucky; Cardiac Surgery
+Research and Perfusion, Flinders University and Flinders Medical Centre, Adelaide, South Australia, Australia; Division
+of Cardiovascular Perfusion, Medical University of South Carolina, Charleston, South Carolina; Department of
+Anesthesia, St. Michael’s Hospital, University of Toronto, Toronto, Ontario, Canada; Department of Anesthesia, Mount
+Sinai Medical Center, New York, New York; Department of Cardiothoracic Surgery, University of Pittsburgh School of
+Medicine, Pittsburgh, Pennsylvania; Specialty Care, Nashville, Tennessee; Department of Cardiovascular Surgery,
+Mayo Clinic, Rochester, Minnesota; Department of Anesthesiology, Zucker School of Medicine at Hofstra/Northwell
+Northshore University Hospital, Manhasset, New York; Division of Cardiovascular and Thoracic Surgery, University of
+Kentucky, Lexington, Kentucky; The Society of Thoracic Surgeons, Chicago, Illinois; and Division of Thoracic Surgery,
+Department of Surgery, University of Ottawa, Ottawa, Ontario, Canada
+EXECUTIVE SUMMARY
+O
+wing to the constantly evolving nature of the
+medical literature, The Society of Thoracic
+Surgeons (STS) clinical practice guidelines
+periodically undergo evaluation and updating. A multi-
+disciplinary panel of experts was convened by STS,
+which includes members of the Society of Cardiovascu-
+lar Anesthesiologists (SCA), the American Society of
+ExtraCorporeal Technology (AmSECT), and the Society
+for the Advancement of Blood Management (SABM), to
+review the latest data on patient blood management
+and to update the 2011 Update to The Society of Thoracic
+Surgeons and the Society of Cardiovascular Anesthesiolo-
+gists Blood Conservation Clinical Practice Guidelines .
+The concept of patient blood management informs
+the recommendations in this document and stresses the
+importance of an evidence-based, multimodal, and
+multidisciplinary approach to not just conserving blood
+resources but also optimizing outcomes in patients at
+high risk for transfusion. The individual recommenda-
+tions are meant to be conceived of as part of an all-
+inclusive protocol-based and shared decision-making
+approach rather than isolated interventions to reduce
+blood loss and transfusion.
+Because standards for clinical practice guidelines
+have evolved since 2011, the authors were tasked with
+prioritizing topics for systematic review, while still
+aiming for the comprehensive approach of previous
+versions of this article. These high-priority topics make
+up the bulk of this article and resulted in 23 new or
+updated recommendations. Additionally, all previous
+recommendations not directly addressed were voted on
+by consensus and can be found in Table 1 . Together,
+these recommendations address the full spectrum of
+care for patients undergoing cardiac surgery, as seen in
+Table 2 .
+Blood transfusion is a critical and life-saving facet of
+the care for cardiothoracic surgery patients. Inherent to
+the transfusing of blood is the understanding of the
+preservation of blood as well as the appropriateness of
+techniques to prevent hemorrhage through the clinical
+This article has been copublished in The Annals of Thoracic Surgery , the Journal of ExtraCorporeal Technology , and the Journal of Cardiothoracic and
+Vascular Anesthesia .
+The Society of Thoracic Surgeons requests that this article be cited as: Tibi P, McClure RS, Huang J, et al. STS/SCA/AmSECT/SABM Update to the Clinical
+Practice Guidelines on Patient Blood Management. Ann Thorac Surg. 2021;112:981–1004.
+Address correspondence to Dr Moffatt-Bruce, Royal College of Physicians and Surgeons of Canada, Surgery-Cardiothoracic, 774 Echo Dr, Ottawa,
+ON K1S5N8, Canada; email: smoffattbruce@royalcollege.ca.
+Dr Stammers discloses a ﬁnancial relationship with SpecialtyCare.
+The Appendices can be viewed in the online version of this article
+[https://doi.org/10.1016/j.athoracsur.2021.03.033]o n https://www.
+annalsthoracicsurgery.org.
+ª 2021 by The Society of Thoracic Surgeons, the American Society of ExtraCorporeal Technology, and Elsevier Inc.
+Published by Elsevier Inc.
+0003-4975/$36.00
+https://doi.org/10.1016/j.athoracsur.2021.03.033
+981
+REPORT
+[[p2]]
+course. Although clinical practices have evolved through
+the centuries since Dr William Harvey discovered the
+circulation of blood in 1628 and attempted the ﬁrst blood
+transfusion thereafter, there is signi ﬁcant variability in
+the practices of blood transfusion and conservation in all
+phases of the surgical care. In our current health care
+environment of value-based care, the need for practice
+guidelines must therefore be further emphasized.
+Additionally, the term “blood conservation ” is yielding
+to a broader term “patient blood management ” (PBM)
+that incorporates the need to not only “conserve” blood
+but, more importantly, to also take into account the
+assessment of the liquid organ, blood, as a vital entity in
+taking care of the surgical patient.
+PBM is the broad implementation of many factors in a
+multidisciplinary fashion as opposed to just choosing
+isolated recommendations. The 4 major tenets of PBM
+are (1) managing anemia, (2) optimizing coagulation, (3)
+interdisciplinary blood conservation modalities, and (4)
+patient-centered decision making in order to achieve
+improved patient outcomes. Surgical outcomes are now
+being held to a higher standard, and sharing of out-
+comes, often in very public forums, is the new normal.
+Additionally, resource utilization and ef ﬁcient care has
+to be foundational to our provision of care for every
+cardiothoracic surgery patient. High-value care with
+excellent outcomes by using the appropriate resources is
+now at the forefront of health care delivery.
+This was a collective project of STS, SCA, AmSECT,
+and SABM to review the current literature, revise pre-
+vious guidelines, and develop a series of practice
+guidelines that re ﬂect the current evidence and practice
+portfolios that are used in cardiothoracic surgery in
+North America. Critical to this review and guideline
+development was an understanding of the patient care
+paradigm throughout the care continuum. The care
+continuum consisted of exploring the informed consent
+process, preoperative conditioning, the current clinical
+use of antiplatelet agents and preoperative anticoagu-
+lants, intraoperative blood management (including
+intravenous and topic hemostatic agent use), and the
+postoperative management of patients undergoing car-
+diopulmonary bypass (CPB). There are many stake-
+holders in the management of blood for patients
+throughout their clinical course, and therefore, we
+sought to include the evidence and practice of many
+TABLE 1 Updated Recommendations From Previous Guidelines That Are Not a Focus of the Article
+Intervention ACC/AHA Class and Level
+Preoperative identi ﬁcation of high-risk patients should be performed, and all available preoperative and perioperative measures
+of blood conservation should be undertaken in this group as they account for the majority of blood products transfused.
+Class I, Level A
+It is reasonable to discontinue low-intensity antiplatelet drugs (eg, aspirin) only in purely elective patients without acute coronary
+syndromes before operation with the expectation that blood transfusion will be reduced.
+Class IIA, Level A
+Minimization of phlebotomy through a reduction in blood sampling volumes and frequencies is a reasonable means of blood
+conservation.
+Class IIA, Level B-NR
+(Nonrandomized)
+The addition of a P2Y12 inhibitor to aspirin therapy, if indicated, in the immediate postoperative care of coronary artery bypass
+grafting patients prior to ensuring surgical hemostasis may increase bleeding and the need for surgical reexploration, and is not
+recommended until the risk of bleeding has abated.
+Class III: No Bene ﬁt, Level
+C-LD (Limited Data)
+Use of 1-deamino-8- D-arginine vasopressin (DDAVP) may be reasonable to attenuate excessive bleeding and transfusion in
+certain patients with demonstrable and speci ﬁc platelet dysfunction known to respond to this agent (eg, uremic or CPB-
+induced platelet dysfunction, type I von Willebrand disease).
+Class IIB, Level B-NR
+Plasma transfusion is reasonable in patients with serious bleeding in the context of multiple or single coagulation factor
+deﬁciencies when safer fractionated products are not available.
+Class IIA, Level B-NR
+Prophylactic use of plasma in cardiac operations in the absence of coagulopathy is not indicated, does not reduce blood loss,
+and exposes patients to unnecessary risks and complications of allogeneic blood component transfusion.
+Class III: Harm, Level A
+When allogeneic blood transfusion is needed, it is reasonable to use leukoreduced donor blood, if available. Class IIA, Level
+B-R (Randomized)
+Use of recombinant factor VIIa concentrate may be considered for the management of intractable nonsurgical bleeding that is
+unresponsive to routine hemostatic therapy after cardiac procedures using CPB.
+Class IIB, Level B-NR
+Antithrombin III concentrates are indicated to reduce plasma transfusion in patients with antithrombin-mediated heparin
+resistance immediately before CPB.
+Class I, Level A
+In high-risk patients with known malignancy who require CPB, blood salvage using centrifugation of salvaged blood from the
+operative ﬁeld may be considered when allogeneic transfusion is required.
+Class IIB, Level B-NR
+Centrifugation of pump-salvaged blood is reasonable for minimizing post-CPB allogeneic red blood cell transfusion. Class IIA, Level A
+Use of modi ﬁed ultra ﬁltration may be reasonable for blood conservation and reducing postoperative blood loss in adult cardiac
+operations using CPB.
+Class IIB, Level B-R
+Routine use of red cell salvage using centrifugation is helpful for blood conservation in cardiac operations using CPB. Class I, Level A
+Direct reinfusion of shed mediastinal blood from postoperative chest tube drainage is not recommended as a means of blood
+conservation and may cause harm.
+Class III: Harm, Level B-NR
+A comprehensive multimodality blood conservation program led by a multidisciplinary team of health care providers should be
+part of any patient blood management program to limit utilization of blood resources and decrease the risk of bleeding.
+Class I, Level B-R
+ACC, American College of Cardiology; AHA, American Heart Association; CPB, cardiopulmonary bypass.
+982 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p3]]
+TABLE 2 All Current Recommendations for Patient Blood Management, Classi ﬁed by Intervention Type and in Descending Order of Class of
+Recommendation and Level of Evidence
+Intervention ACC/AHA Class and Level
+Preoperative interventions
+Preoperative identiﬁcation of high-risk patients should be performed, and all available preoperative and perioperative
+measures of blood conservation should be undertaken in this group as they account for the majority of blood
+products transfused.
+Class I, Level A
+Assessment of anemia and determination of its etiology is appropriate in all patients undergoing cardiac surgery, and it
+is reasonable to treat with intravenous iron preparations if time permits.
+Class IIA, Level B-R
+In patients undergoing cardiac operations, it is reasonable to implement standardized transfusion protocols in order to
+reduce transfusion burden.
+Class IIA, Level B-R
+In patients who have (i) preoperative anemia, (ii) refuse blood transfusion, (iii) or are deemed high-risk for postoperative
+anemia, it is reasonable to administer preoperative erythropoietin-stimulating agents and iron supplementation
+several days prior to cardiac operations to increase red cell mass.
+Class IIA Level B-R
+Minimization of phlebotomy by reduced volume and frequency of blood sampling is a reasonable means of blood
+conservation.
+Class IIA, Level B-NR
+Preoperative treatment of asymptomatic anemia and thrombocytopenia with transfusion is of uncertain bene ﬁt. Class III: No Bene ﬁt, Level B-NR
+Preoperative antiplatelet management
+In order to reduce bleeding in patients requiring elective cardiac surgery, ticagrelor should be withdrawn preoperatively
+for a minimum of 3 days, clopidogrel for 5 days, and prasugrel for 7 days.
+Class I, Level B-NR
+It is reasonable to discontinue low-intensity antiplatelet drugs (eg, aspirin) only in purely elective patients without acute
+coronary syndromes before operation with the expectation that blood transfusion will be reduced.
+Class IIA, Level A
+Laboratory and/or point-of-care measurement of antiplatelet drug effect in patients having received recent dual-
+antiplatelet therapy can be useful to assess bleeding risk or to guide timing of surgery.
+Class IIA, Level B-R
+The addition of a P2Y12 inhibitor to aspirin therapy, if indicated, in the immediate postoperative care of coronary artery
+bypass grafting patients prior to ensuring surgical hemostasis may increase bleeding and the need for surgical
+reexploration and is not recommended until the risk of bleeding has abated.
+Class III: No Bene ﬁt, Level C-LD
+Preoperative anticoagulants
+In patients in need of emergent cardiac surgery with recent ingestion of a nonvitamin K oral anticoagulant (NOAC) or
+laboratory evidence of a NOAC effect, administration of the reversal antidote speci ﬁc to that NOAC is recommended
+(ie, administer idarucizumab for dabigatran at appropriate dose or administer andexanet- a for either apixaban or
+rivaroxaban at appropriate dose).
+Class IIA, Level C-LD
+If the antidote for the speci ﬁed NOAC is not available, prothrombin concentrate is recommended, recognizing that the
+effective response may be variable.
+Class IIA, Level C-LD
+Pharmacologic agents
+Use of synthetic anti ﬁbrinolytic agents such as epsilon-aminocaproic acid (EACA) or tranexamic acid reduce blood
+loss and blood transfusion during cardiac procedures and are indicated for blood conservation.
+Class I, Level A
+Tranexamic acid reduces bleeding and total transfusion during off pump coronary artery bypass graft surgery. Class IIA, Level B-R
+Topical application of anti ﬁbrinolytic agents to the surgical site after cardiopulmonary bypass (CPB) is reasonable to
+limit chest tube drainage and transfusion requirements after cardiac operations using CPB.
+Class IIA, Level B-R
+Use of 1-deamino-8-D-arginine vasopressin (DDAVP) may be reasonable to attenuate excessive bleeding and
+transfusion in certain patients with demonstrable and speci ﬁc platelet dysfunction known to respond to this agent
+(eg, uremic or CPB-induced platelet dysfunction, type I von Willebrand disease).
+Class IIB, Level B-NR
+Blood products and derivatives
+Antithrombin III concentrates are indicated to reduce plasma transfusion in patients with antithrombin mediated
+heparin resistance immediately before cardiopulmonary bypass.
+Class I, Level A
+When allogeneic blood transfusion is needed, it is reasonable to use leukoreduced donor blood, if available. Class IIA, Level B-R
+Plasma transfusion is reasonable in patients with serious bleeding in the context of multiple or single coagulation factor
+deﬁciencies when safer fractionated products are not available.
+Class IIA, Level B-NR
+Prothrombin concentrate is reasonable to consider over fresh frozen plasma as ﬁrst-line therapy for refractory
+coagulopathy in cardiac surgery in select situations to reduce bleeding.
+Class IIA, Level B-NR
+Use of recombinant factor VIIa concentrate may be considered for the management of intractable nonsurgical bleeding
+that is unresponsive to routine hemostatic therapy after cardiac procedures using CPB.
+Class IIB, Level B-NR
+Prophylactic use of plasma in cardiac operations in the absence of coagulopathy is not indicated, does not reduce
+blood loss, and exposes patients to unnecessary risks and complications of allogeneic blood component
+transfusion.
+Class III: Harm, Level A
+Perfusion interventions
+Retrograde autologous priming of the CPB circuit should be used wherever possible. Class I, Level B-R
+Reduced priming volume in the CPB circuit reduces hemodilution and is indicated for blood conservation, Class I, Level B-NR
+Acute normovolemic hemodilution (ANH) is a reasonable method to reduce bleeding and transfusion. Class IIA, Level A
+Minimally invasive extracorporeal circulation is reasonable to reduce blood loss and red cell transfusion as part of a
+combined blood conservation approach.
+Class IIA, Level B-R
+Use of modiﬁed ultraﬁltration may be reasonable for blood conservation and reducing postoperative blood loss in adult
+cardiac operations using CPB.
+Class IIB, Level B-R
+(Continued)
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+983
+REPORT
+[[p4]]
+different groups and experts. Ultimately, we sought to
+provide a comprehensive set of guidelines that are
+practical and will be received as being reasonable and
+well-researched. While we have collectively tried to
+accumulate the evidence and data from a broad number
+of stakeholders and sources, we recognize that it may be
+impossible to have every data point. Our intent is to
+present the most comprehensive set of guidelines
+possible, and we hope that this will serve as a resource
+so to improve the outcomes of patients undergoing
+cardiothoracic surgery.
+METHODOLOGY
+The STS Workforce on Evidence-Based Surgery assem-
+bled a Task Force in 2018 to update the 2011 STS/SCA
+Blood Conservation Clinical Practice Guidelines, seeking
+representatives again from SCA as well as AmSECT and
+SABM.
+The members of the writing committee submitted
+conﬂict of interest disclosure forms, which were reviewed
+by the Chair and STS staff before con ﬁrmation for poten-
+tial conﬂicts from relevant relationships with industry.
+The writing committee reviewed the topics covered
+by the 2011 Guidelines and developed 11 questions in the
+Population, Intervention, Comparator, and Outcomes
+format (PICO) intended to focus on the highest priority
+and most clinically impactful areas for a systematic re-
+view. The PICO questions were sent to a research
+librarian in March 2018 to develop a strategy to identify
+relevant articles published in English since 2009, the
+most recent year of data included in the previous
+guidelines. Strategies were developed for both MEDLINE
+and Embase, the details for which may be found in
+Appendix 1 . Reference lists were manually scanned for
+additional relevant results. This strategy resulted in 1227
+potentially relevant abstracts, which were screened by a
+group of authors (S.F., K.K., R.S.M., D.C.). A total of 87
+articles met the inclusion criteria. The primary reasons
+for exclusion were if the population was not relevant
+(eg, patients undergoing percutaneous coronary inter-
+vention [PCI] or another type of surgery aside from
+cardiac) or the primary outcomes were secondary
+markers with an uncertain relationship to the hard
+clinical outcomes selected by the writing committee.
+Two authors (S.F., K.K.) developed an evidence table
+of the relevant papers ( Appendix 2) and rated the studies
+for risk of bias. The Newcastle-Ottawa scale was used for
+observational studies ( Appendix 3 ), and a custom-made
+checklist was used for randomized control trials (RCTs)
+and meta-analyses ( Appendix 4 ). The bulk of the article
+is focused on the results of this systematic review.
+Recommendations from previous versions of this article
+were assessed by an electronic survey circulated to the
+authors to determine their current relevance. A full ac-
+count of the evolution of the recommendations on this
+topic is in Appendix 5 , which shows that many previous
+recommendations were retired for lack of current clin-
+ical relevance, having outdated techniques, or lack of
+improvement in the evidence for the weaker statements.
+TABLE 2 Continued
+Intervention ACC/AHA Class and Level
+Blood salvage interventions
+Routine use of red cell salvage using centrifugation is helpful for blood conservation in cardiac operations using CPB. Class I, Level A
+Centrifugation of pump-salvaged blood is reasonable for minimizing post-CPB allogeneic red blood cell transfusion. Class IIA, Level A
+In high-risk patients with known malignancy who require CPB, blood salvage using centrifugation of salvaged blood
+from the operative ﬁeld may be considered when allogeneic transfusion is required.
+Class IIB, Level B-NR
+Direct reinfusion of shed mediastinal blood from postoperative chest tube drainage is not recommended as a means of
+blood conservation and may cause harm.
+Class III: Harm, Level B-NR
+Postoperative ﬂuid management
+It is reasonable to administer human albumin after cardiac surgery to provide intravascular volume replacement and
+minimize the need for transfusion.
+Class IIA, Level B-R
+Hydroxyethyl starch is not recommended as a volume expander in CPB patients as it may increase the risk of bleeding. Class III: No Bene ﬁt, B-R
+Transfusion algorithms
+In patients undergoing cardiac surgery, a restrictive perioperative allogeneic red blood cell (RBC) transfusion strategy
+is recommended in preference to a liberal transfusion strategy for perioperative blood conservation, as it reduces
+both transfusion rate and units of allogeneic RBCs without increased risk for mortality or morbidity.
+Class I, Level A
+Goal directed transfusion algorithms which incorporate point of care testing, such as with viscoelastic devices, are
+recommended to reduce periprocedural bleeding and transfusion in cardiac surgical patients.
+Class I, Level B-R
+Allogeneic RBC transfusion is unlikely to improve oxygen transport when the hemoglobin concentration is greater than
+10 g/dL and is not recommended.
+Class III: No Bene ﬁt: Level B-R
+Management of blood resources
+A comprehensive multimodality blood conservation program led by a multidisciplinary team of health care providers
+should be part of any patient blood management program to limit utilization of blood resources and decrease the risk
+of bleeding.
+Class I, Level B-R
+ACC, American College of Cardiology; AHA, American Heart Association.
+984 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p5]]
+Recommendations that are not a focus of this updated
+article, but which were maintained in this version due to
+having continued clinical relevance, are included in
+Table 1 . All current and valid recommendations are
+categorized and presented in Table 2 . Voting on recom-
+mendations used a modi ﬁed Delphi method of 3 rounds
+of voting to reach consensus, in which responses were
+required by 80% of the authors, with 75% agreement on
+class and level of evidence as de ﬁned by the American
+College of Cardiology (ACC)/American Heart Association
+(AHA) Classi ﬁcation System ( Appendix 6 ).
+The resulting article was reviewed by the STS Work-
+force on Evidence-Based Surgery, the STS Council
+Operating Board on Quality, Research, and Patient
+Safety, and the Executive Committee, along with a 2-
+week member comment period available to members
+of every participating society. The Board of Directors of
+the SCA and AmSECT also reviewed the document
+before publication.
+These guidelines were developed by the participating
+societies without commercial support and will be
+reviewed for a potential update within 5 years of
+publication.
+PREOPERATIVE MANAGEMENT
+RISK ASSESSMENT FOR TREATMENT OF ANEMIA
+ Assessment of anemia and determination of its
+etiology is appropriate in all patients undergoing
+cardiac surgery, and it is reasonable to treat with
+intravenous iron preparations if time permits.
+(Class IIA, Level B-R)
+It is well known from the original 2007 STS Blood
+Conservation Guidelines that preoperative preparation
+of patients with regard to blood use in cardiac surgery,
+when feasible, is of the utmost importance for consistent
+blood conservation strategies. Identi ﬁcation of high-risk
+individuals, whether it be from advanced age, preoper-
+ative anemia, or abnormal coagulation pro ﬁles, is a Class
+1 intervention. Additionally, one of the most signi ﬁcant
+determinants of patients needing perioperative trans-
+fusions is preoperative anemia. Anemia is extremely
+prevalent in the cardiac surgical population, especially
+in elderly patients or patients with multiple comorbid-
+ities and chronic diseases. Recent studies identify the
+prevalence of anemia in the 30% to 40% range
+1,2 and
+severe anemia by World Health Organization classi ﬁca-
+tion of hemoglobin of less than 8 g/dL in the 8% to 10%
+range.
+3
+Iron deﬁciency is the most prevalent cause of anemia
+in the cardiac surgical population, occurring in up to
+50% of anemic patients.
+4 Patients with preoperative
+anemia are more likely to require transfusions, and it is
+obvious that if the ability to treat iron-de ﬁciency anemia
+is available without any untoward effects, it should be
+instituted before surgery. Differentiation must be made
+between anemias caused by iron de ﬁciency as opposed
+to other causes of anemia. Iron-de ﬁciency anemia is
+usually microcytic, whereas normocytic or macrocytic
+anemia stem from a variety of causes. Routine iron
+studies are of importance in the determination of the
+type of anemia present and should be done routinely in
+the careful preoperative assessment of patients so that
+treatment can be instituted if warranted.
+There is a distinct correlation between preoperative
+anemia and worse clinical outcomes in most studies.
+Usually, the greater the anemia, the more severe the
+complications. In a prospective observational study of
+more than 200 patients undergoing coronary artery
+bypass graft (CABG) surgery, preoperative hematocrit
+remained an independent predictor for major morbidity
+(odds ratio [OR], 0.95; P ¼ .01), while transfusion was
+also a strong predictor (OR, 4.86; P < .001).
+5 Multiple
+recent retrospective studies demonstrate higher
+morbidity and mortality in patients with preoperative
+anemia, although some only show an association with
+long-term mortality. Additionally, there appears to be a
+cumulative effect of anemia and transfusions that in-
+creases risks.
+In comparisons of patients undergoing CABG surgery
+who did or did not receive a transfusion, there was
+greater mortality in the patients who received a trans-
+fusion (11% vs 5.3%; P ¼ .001). Patients with anemia who
+received a transfusion had a hazard rate for mortality 3-
+times higher than nonanemic patients who did not
+receive transfusion (hazard ratio [HR], 2.918; 95% con-
+ﬁdence interval [CI], 1.512-5.633; P ¼ .001), and twice
+that of anemic patients who did not receive a trans-
+fusion (HR, 2.087; 95% CI, 1.004-4.336; P ¼ .049).
+6 Pre-
+operative anemia has also been associated with
+increased transfusion rates and longer intensive care
+unit (ICU) and hospital lengths of stay
+1 and an increase
+in acute kidney injury. 7 However, 1 retrospective study
+found only normocytic or macrocytic anemia was asso-
+ciated with increased adverse events. 8
+PREOPERATIVE TREATMENT OF ANEMIA—PHARMACOLOGIC
+AGENTS
+ In patients who have (i) preoperative anemia, (ii)
+refuse blood transfusion, (iii) or are deemed high-
+risk for postoperative anemia, it is reasonable to
+administer preoperative erythropoietin stimu-
+lating agents (ESA) and iron supplementation
+several days prior to cardiac operations to increase
+red cell mass. (Class IIA, Level B-R)
+Among the dif ﬁculties in treatment of the anemic
+patient is the oftentimes lack of a safe waiting period,
+the “gentle” insistence by referring physicians for more
+urgent treatment than is necessary, the inconvenience,
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+985
+REPORT
+[[p6]]
+cost, and/or refusal to pay for iron and EPO therapy by
+insurers and the oftentimes overstated risks of these
+therapies. Nevertheless, treatment of an anemic patient
+before surgery is an appropriate preoperative interven-
+tion and should be considered as part of any patient ’s
+careful workup and preparation for cardiac surgery, if
+time permits.
+The treatment of anemia before heart surgery has
+been signi ﬁcantly studied, but almost all trials combine
+treatment of iron de ﬁciency with both iron preparations
+and erythropoietin (EPO). Many of these studies,
+although not all, show increases in hemoglobin levels
+and reductions in transfusions. There is a paucity of
+studies that treat preoperative iron-de ﬁciency anemia
+with just iron. One prospective observational study
+demonstrated an increased hemoglobin level in pre-
+treated anemic patients,
+9 but a small RCT of only 50
+patients did not. 10 Therefore, it is dif ﬁcult to con ﬁdently
+state that the direct treatment of iron-de ﬁciency anemia
+before cardiac surgery with iron alone will result in
+improved outcomes, but it is clear that the treatment of
+anemia is warranted in the elective surgical patient.
+Patients should undergo careful preoperative testing to
+rule out absolute or functional iron de ﬁciency and be
+treated accordingly if possible. EPO therapy, if begun a
+few days preoperatively, may reduce adverse outcomes
+by augmenting red cell mass in anemic patients treated
+with iron. A small RCT by Yoo and colleagues
+11 using a
+regimen of erythropoietin-stimulating agents (ESAs) and
+intravenous iron showed signi ﬁcant improvements in
+units of transfusion (1.0 /C6 1.1 units vs 3.3 /C6 2.2 units in
+the control group; P ¼ .001). Likewise, a prospective
+observational study by Cladellas and colleagues
+12 of
+ESAs and iron showed a reduction in the rate of patients
+who received a transfusion (67% vs 93% in the control
+group; P < .001) and 30-day mortality (multivariable OR,
+0.16; 95% CI, 0.28-0.97; P ¼ .04).
+There is enough evidence to state that the nonanemic
+patient will do better with surgery than the anemic pa-
+tient and undoubtedly be less at risk for transfusions
+with its known risks for adverse effects. Unfortunately,
+oral iron therapy is poorly tolerated by many patients, is
+oftentimes not very effective, and the course of treat-
+ment is too lengthy for most cardiac surgical patients.
+There are numerous intravenous iron preparations with
+differences in dosage recommendations that are very
+effective even for 1 to 2 weeks.
+Recombinant human EPO is commercially available in
+multiple forms to treat anemia, especially in patients
+with renal insuf ﬁciency and failure. Concerns have been
+raised in the past regarding a potential increased inci-
+dence of cardiovascular events and mortality; however,
+more recent studies have failed to corroborate these
+ﬁndings, reporting no adverse effects of short-term ESA
+pretreatment with or without concomitant iron of
+anemic patients.
+13,14 Additionally, several RCTs have
+shown a nephroprotective effect of preoperative treat-
+ment on anemic patients with ESAs only.
+15-17
+Other considerations for the use of ESAs include sit-
+uations in which endogenous EPO production is limited.
+For instance, b-blockers suppress endogenous EPO pro-
+duction,18 and perioperative anemia decreases the car-
+dioprotective effect of b-blockade.19 Additionally,
+cytokines stimulated by the in ﬂammatory response
+associated with CPB limit production of EPO. 20 Periop-
+erative renal ischemia may limit the production of EPO.
+Likewise, careful postoperative management may
+improve tissue oxygen delivery and suppress endoge-
+nous EPO production despite postoperative anemia.
+Decreased perioperative EPO production favors a short
+preoperative course of ESA (a few days before the
+operation) to treat reduced red blood cell (RBC) volume
+in selected individual patients.
+In a prospective RCT of 600 anemic patients, a single
+dose of 80,000 units of epoetin-
+a given to patients 2
+days before surgery resulted in signi ﬁcantly lower
+postoperative transfusion rates (17% vs 39%; risk ratio
+[RR], 0.436; P < .0005) and higher hemoglobin on day 4
+after surgery (10.2% vs 8.7%; P < .0005), although no
+signiﬁcant differences in mortality and adverse events at
+45 days.21 A second randomized trial of 320 patients who
+underwent a variety of cardiac procedures off-pump also
+resulted in fewer RBC transfusions (37.1% vs 16.1%; RR,
+0.425; P ¼ .007), without a signi ﬁcant difference in
+adverse events, although this study required 4 times as
+many patients to detect such a difference.
+22 The study
+group in this trial received multiple subcutaneous doses
+starting on preoperative day 2 and continuing to post-
+operative day 2. A review and meta-analysis of periop-
+erative ESA administration suggested a cytoprotective
+effect on various organs, speci ﬁcally the heart and kid-
+neys. This effect is more strongly associated with pre-
+operative vs perioperative EPO and patients at lower risk
+for cardiac surgery-associated acute kidney injury.
+23
+It has been suggested that a short-term combination
+therapy with intravenous iron, subcutaneous EPO- a,
+vitamin B12, and oral folic acid may provide reduced risk
+of transfusion in anemic patients undergoing cardiac
+procedures.
+24 This observation needs further investiga-
+tion before broad-based acceptance can be
+recommended.
+The safety and ef ﬁcacy of additional pharmacologic
+therapies, such as vitamin K and levosimendan to
+reduce bleeding, have also been investigated in recent
+years, although the data are too preliminary for this
+guideline document.
+986 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p7]]
+PREOPERATIVE DIAGNOSIS AND TREATMENT OF ANEMIA —
+NONPHARMACOLOGIC INTERVENTIONS
+ In patients undergoing cardiac operations, it is
+reasonable to implement standardized transfusion
+protocols in order to reduce transfusion burden.
+(Class IIA, Level B-R)
+ Preoperative treatment of asymptomatic anemia
+and thrombocytopenia with transfusion is of un-
+certain bene ﬁt. (Class III: No Bene ﬁt, Level B-NR)
+Signiﬁcant dilutional anemia as a result of CPB occurs
+in patients with borderline preoperative hemoglobin
+concentrations. Importantly, preoperative and intra-
+operative correction of anemia with RBC transfusion has
+not been demonstrated to mitigate the risks of end-
+organ dysfunction. Preventing dilutional anemia and
+avoiding transfusion in CPB operations are supported as
+the most effective means of preserving end-organ
+function.
+QT
+The interplay of anemia and transfusion is complex,
+especially in the perioperative setting where multiple
+components of the hemostatic mechanism are required
+for control of bleeding and for optimal outcomes
+26
+(Figure 1 27). Preoperative anemia, especially in the
+absence of preoperative transfusions or other treat-
+ments, seems to be a risk factor for morbidity and mor-
+tality after cardiac operations,
+10,28,29 but there is
+conﬂicting evidence that preoperative transfusion to
+higher hemoglobin levels impacted this risk. 28,30,31
+Similarly, chronic thrombocytopenia is a risk for adverse
+outcomes after cardiac interventions, and the bene ﬁto f
+prophylactic preoperative transfusion of platelets in this
+setting is uncertain.
+32
+Consensus favors robust blood conservation before,
+during, and after cardiac operations. The role of preop-
+erative prophylactic transfusion is uncertain, although
+probably not helpful.
+Use of preoperative autologous blood donation
+(PABD) is a theoretically rational approach for patients
+undergoing elective cardiac procedures using CPB.
+While there has been a slight uptick in the number of
+autologous blood donations in recent years (2015-2017),
+it still remains a fraction ( <1%) of total collected RBCs.
+33
+This result is partially due to the waning public
+perception of risks associated with allogenic blood
+transfusions and the declining demand due to the pro-
+liferation of blood management programs.
+34
+There is a need for further study of the relative
+effectiveness of PABD in cardiac surgery. In a 2010
+propensity-matched observational study of 432 patients
+at a single center in Germany, PABD was associated with
+a lower rate of RBC and fresh frozen plasma (FFP)
+transfusion without additional transfusion-related
+adverse effects.
+35 However, a recent analysis showed
+FIGURE 1 Increased association of adverse outcomes in patients with anemi a and/or transfusion. (CNS, central nervous system; MI, myocardial
+infarction; OR, operating room.) (Reproduced from Ferraris and colleagues 27 with permission from Elsevier.)
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+987
+REPORT
+[[p8]]
+that PABD in the setting of strict policies for blood con-
+servation was ineffective in reducing allogeneic blood
+transfusion for young and relatively healthy patients
+who underwent minimally invasive cardiac surgery.
+Although the PABD group had higher postoperative he-
+moglobin levels, there was no clear clinical bene ﬁt in the
+early postoperative period, despite a great deal of effort
+and additional cost. These results suggest that PABD is
+neither a uniformly cost-effective nor a de ﬁnitively
+beneﬁcial intervention in patients undergoing minimally
+invasive cardiac surgery.
+36 There are currently insuf ﬁ-
+cient data to make a de ﬁnitive recommendation on the
+practice of PABD in cardiac surgery.
+There is good observational data to suggest that a
+standardized protocol for evidence-based blood product
+transfusion and blood conservation in the perioperative
+setting favors improved clinical outcomes in routine
+cardiac procedures. A propensity-matched analysis
+suggested that a comprehensive blood conservation
+protocol centering on acute normovolemic hemodilution
+(ANH) and including routine use of anti ﬁbrinolytics,
+topical hemostatic agents, and strict transfusion triggers
+was associated with reductions in any complication
+(29.5% vs 18.8%; P ¼ .007), fewer postoperative trans-
+fusions (70.1% vs 50.9%; P < .001), and a lower trans-
+fusion volume (1.82 vs 1.21 units; P ¼ .002) without any
+associated change in mortality.
+RV
+INFORMED CONSENT AND PREOPERATIVE INTERVENTIONS
+FOR PATIENTS REFUSING BLOOD PRODUCTS. The right
+of a competent adult to make an informed decision
+regarding recommended therapeutic procedures is a
+basic, well-established legal requirement.
+38,39 These
+rights are rooted in the fundamental principles of
+clinical/legal ethics: autonomy, veracity, bene ﬁcence,
+nonmaleﬁcence, and justice. 40
+Designation of decision-making capacity at a certain age
+is an arbitrary but necessary legal distinction. In the case of
+unemancipated patients aged younger than 18 years,
+family members (and patients) cannot generally refuse
+treatment deemed to be life-saving. In the emergency
+setting when the minor’sl i f ei sa tr i s k ,i tm a yb ea c c e p t a b l e
+to administer a transfusion to an unemancipated patient
+who is aged younger than 18 years over the objections of
+parents or patient. In cases where a transfusion is deemed
+medically necessary for a minor patient and the child’sl i f e
+is in danger, courts will typically intervene over the reli-
+gious objections of the parents and the patient.
+41 In a
+nonemergency setting, surgeons may seek to obtain a
+court appointed guardian for permission for transfusion.
+To provide optimal care for adult autonomous pa-
+tients who are Jehovah ’s Witnesses, surgeons should
+aim to respect and accommodate each patient ’s values
+and target the best possible outcome given the patient ’s
+desires and his or her clinical condition. Jehovah ’s Wit-
+nesses refuse certain aspects of hemotherapy. Pro-
+scribed blood components are red cells, leukocytes,
+platelets, and plasma. In general the remaining hemo-
+therapies are left to the conscience of the individual
+Witness to decide.
+42,43 See Table 3 for a summary of
+blood products that may or may not be acceptable to
+Jehovah’s Witnesses.
+In the nonemergent setting, acceptable treatment
+strategies should be explored with the patient as early as
+possible in the course of preoperative planning. Opti-
+mally, time should be allowed for patients to re ﬂect on
+what they have learned and to have the opportunity to
+ask questions, receive clari ﬁcation, and make an
+informed decision. Even in emergent situations, best
+efforts should be put forward to use the elements of
+informed consent with the patient or his or her
+appointed health care agent.
+Admittedly, PBM should be practiced in all patients
+regardless of their personal beliefs. Nevertheless, there
+are multiple nuances that must be considered and spe-
+ciﬁcally addressed in Jehovah ’s Witnesses such as the
+consensual use of cell salvage, ANH, and other modal-
+ities. The consent process requires these issues to be
+TABLE 3 Variability in Blood Products and Procedure
+Acceptance Among Jehovah ’s Witnesses
+Not Acceptable May Be Acceptable
+Blood, blood components, and
+blood fractions
+Whole blood Recombinant products such as
+G-CSF, EPO
+Red cells Albumin
+White cells Clotting factors
+Platelets Colony-stimulating factors
+Fresh frozen plasma Cryoprecipitate
+Autologous predonation Hemoglobin-based oxygen
+carriers
+Fibrinogen/ﬁbrin
+Immunoglobulins
+Interferon/interleukin
+Thrombin/prothrombin
+Rh factor
+Sealants
+Therapeutic procedures involving
+patient’s own blood
+Autologous predonation and
+reinfusion
+Cell salvage
+ANH/hemodilution
+Extracorporeal blood
+recirculation
+Hemodialysis
+Blood patch
+Apheresis/plasmapheresis
+Platelet gel-autologous
+Cell labeling or tagging
+ANH, acute normovolemic hemodilution; EPO, erythropoietin; GCSF,
+granulocyte colony-stimulating factor.
+988 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p9]]
+discussed and agreed upon and, bear in mind, informed
+consent implies the ability to give informed choice. 44
+PREOPERATIVE ANTICOAGULANTS
+ In patients in need of emergent cardiac surgery
+with recent ingestion of a nonvitamin K oral anti-
+coagulant (NOAC) or laboratory evidence of a
+NOAC effect, administration of the reversal anti-
+dote speci ﬁc to that NOAC is recommended (ie,
+administer idarucizumab for dabigatran at the
+appropriate dose or administer andexanet-
+a for
+either apixaban or rivaroxaban at the appropriate
+dose). (Class IIA, Level C-LD)
+ If the antidote for the speci ﬁed NOAC is not avail-
+able, prothrombin concentrate is recommended,
+recognizing that the effective response may be
+variable. (Class IIA, Level C-LD)
+ Prothrombin concentrate is reasonable to consider
+over fresh frozen plasma as ﬁrst-line therapy for
+refractory coagulopathy in cardiac surgery in select
+situations to reduce bleeding. (Class IIA, Level B-R)
+Most aspects of the contemporary anticoagulation
+management strategies in the preoperative preparatory
+phase for cardiac surgical patients (to minimize bleeding
+risk) are re ﬂective of the same guiding principles put
+forth in the 2011 Blood Conservation Practice Guidelines.
+Having said this, NOACs are a new subgroup of phar-
+macologic agents with widespread use since the 2011
+guidelines,
+45,46 about which the cardiac surgical teams
+need to be knowledgeable, because they may portend
+increased bleeding if not managed properly. The
+NOACs— dabigatran (thrombin inhibitor), apixaban,
+betrixaban, edoxaban, and rivaroxaban (factor Xa in-
+hibitors)— are proven better alternatives to the vitamin K
+antagonist, warfarin, for stroke prevention in non-
+valvular atrial ﬁbrillation as well as to treat venous
+thromboembolism.
+47-50 Moreover, the pharmacologic
+properties of NOACs confer increased convenience to
+patients through ﬁxed dosing and the elimination of
+routine monitoring. Many patients in need of cardiac
+surgery use these medications.
+Despite their advantages, NOACs present some peri-
+procedural challenges for operations with a high-risk
+bleeding pro ﬁle. Available measurement assays to
+assess anticoagulation for NOACs are imprecise, and the
+availability of reversal agents is limited.
+51-53 Given the
+predictable and rather short half-life to NOACs, in the
+elective setting, discontinuation for at least 2 days
+before surgery is recommended, although renal impair-
+ment will require extending this discontinuation for
+additional days in select situations.
+54,55 Literature is
+limited, yet 2 recent retrospective studies con ﬁrm
+increased bleeding complications in the face of preop-
+erative NOAC therapy, with 1 of the studies advocating
+for the consideration of longer discontinuation periods
+before elective cardiac surgery.
+56,57
+A prior concern with NOACs was the limited avail-
+ability of reversal agents. Going forward this will be less
+of a concern because the United States Food and Drug
+Administration has recently approved antidotes for the
+more widely used NOACs. For dabigatran, idarucizumab,
+a human monoclonal anti-dabigatran antibody is now
+available. For apixaban and rivaroxaban, the modi ﬁed
+recombinant factor Xa, andexanet-
+a, is available. 58 In
+situations where these antidotes are not readily avail-
+able, prothrombin complex concentrates (PCCs) may
+prove bene ﬁcial and are recommended, although ef ﬁ-
+cacy may vary.
+55 As well, although not widely available,
+point-of-care (POC) testing with thrombin clotting time
+for dabigatran or anti-factor Xa assays for apixaban and
+rivaroxaban can aid in determining the anticoagulant
+effect of these NOACs at the time of emergent
+surgery.
+51-53 The use of these laboratory tests is recom-
+mended if readily available.
+Beyond being a nonspeci ﬁca n t i d o t et oN O A C si n
+emergent situations, the sa fety and effectiveness of
+PCC to reduce bleeding in cardiac surgery has been
+further evaluated since the 2011 guidelines. Already
+the preferred therapy for emergent warfarin reversal, 59
+PCC may also be applicable in cases of refractory
+bleeding.
+60 PCC facilitate rapid correction of vitamin K-
+dependent coagulation factors without the potential
+d e l e t e r i o u se f f e c t so fv o lume overload attributed to
+e?e?o?Mr?????K???????????????????o?b?b??????
+situations remains limited , and theoretical concerns
+around adverse thrombogenicity have yet to be eluci-
+dated. A study that included 2 analyses: a propensity
+score-adjusted multivariate analysis of 971 patients,
+and propensity score-matched cohorts of 225 pairs us-
+ing PCC or FFP for ﬁrst-line therapy in coagulopathy
+showed a decrease in postoperative blood loss and
+blood transfusions. However, in the multivariate
+analysis, this was at the expense of increased acute
+kidney injury and renal replacement therapy. These
+differences were not con ﬁrmed in the analysis of the
+matched pairs.
+61 There was no difference in thrombo-
+embolic events.
+A meta-analysis of observational studies with 861
+patients, including those in the aforementioned
+propensity-matched analysis, also showed decreased
+postoperative blood loss and blood transfusions with
+PCC at varying doses. There was no difference in
+thromboembolic events and no difference in acute kid-
+ney injury. Noteworthy, there was a nonsigni ﬁcant trend
+toward increased renal replacement therapy in the
+pooled outcome, although the relatively wide 95% CI
+suggests a fair amount of uncertainty (OR, 0.41; 95% CI,
+0.16-1.02; P ¼ .06). Hospital mortality and reexploration
+were likewise not statistically signi ﬁcant.
+62
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+989
+REPORT
+[[p10]]
+A moderate level of evidence suggests that PCC is
+more effective than FFP for refractory coagulopathy in
+cardiac surgery. The associated risks are likely accept-
+able in many situations, but further evidence is required
+to fully delineate the risk bene ﬁt ratio.
+ANTIPLATELETS
+ In order to reduce bleeding in patients requiring
+elective cardiac surgery, ticagrelor should be
+withdrawn preoperatively for a minimum of 3 days,
+clopidogrel for 5 days, and prasugrel for 7 days.
+(Class I, Level B-NR)
+ Laboratory and/or point-of-care measurement of
+antiplatelet drug effect in patients having received
+recent dual-antiplatelet therapy can be useful to
+assess bleeding risk or to guide timing of surgery.
+(Class IIA, Level B-R)
+Dual-antiplatelet therapy (DAPT) with a P2Y12 inhib-
+itor and aspirin is well-demonstrated to decrease
+ischemic risk and thrombotic complications in patients
+with acute coronary syndromes (ACS) and after PCI
+compared with single-antiplatelet therapy (SAPT) with
+aspirin alone.
+63-67 However, a percentage of ACS and/or
+PCI patients will still require surgical coronary revascu-
+larization, and multiple randomized clinical trials,
+observational studies, and meta-analyses have demon-
+strated that maintenance of DAPT up to the time of
+cardiac surgery (eg, CABG) increases intraoperative and
+perioperative bleeding, rates of transfusion of blood and
+blood products (especially platelets), and postoperative
+reexploration for mediastinal bleeding.
+68-74 Thus, for
+ACS patients requiring surgical intervention, where
+feasible, preoperative cessation of the P2Y12 inhibitor
+has been recommended in previous American and Eu-
+ropean guidelines.
+59,75,76
+In patients in whom preoperative cessation of P2Y12
+inhibitor is not possible, many observational studies
+suggest that preoperative assessment of antiplatelet
+drug activity is important in assessing bleeding risk, with
+additional randomized data available on the effective-
+ness of whole-blood impedance aggregometry tests.
+77,78
+The results of POC platelet function testing correlate
+well with bleeding after cardiac surgery, with higher
+levels of platelet inhibition predicting increased
+bleeding and transfusions. When preoperative POC
+platelet function testing is used in the elective surgery
+patient, a signi ﬁcant platelet inhibitory test result may
+lead to surgical postponement, which can lower the risk
+of bleeding to that of a patient who was not exposed to
+platelet-inhibiting drugs. POC platelet function testing
+in patients whose surgery cannot be postponed is also
+useful in predicting the extent of platelet inhibition and
+the risk of bleeding.
+The most commonly used P2Y12 inhibitors in the
+setting of ACS and PCI have been clopidogrel, prasugrel,
+and ticagrelor. Each of these agents exhibits different
+pharmacokinetic and pharmacodynamic properties
+79 as
+well as interindividual variability in antiplatelet effect.
+Thus, the optimal minimum time frame(s) in which
+preoperative discontinuation of the different P2Y12 in-
+hibitors (with continuation of aspirin) resulted in no
+increased perioperative bleeding, and whether preoper-
+ative withdrawal of the P2Y12 inhibitor also translates to
+other adverse outcomes, has been the subject of
+numerous investigations. As of the time of this writing,
+the preponderance of the data demonstrates that
+bleeding risk is not elevated when ticagrelor has been
+withdrawn for a minimum of 3 days, clopidogrel for 5
+days, and prasugrel for 7 days preoperatively, as dis-
+cussed more speci ﬁcally subsequently. Further, labora-
+tory and/or POC measurement of residual platelet
+reactivity in a given individual while on treatment or
+after withdrawal can be useful to guide the timing of
+elective surgical intervention.
+Clopidogrel. The well-described interindividual vari-
+ability of actual platelet inhibition from clopidogrel due
+to polymorphisms of CYP enzyme metabolism in some
+individuals resulting in their “non- or poor-responder
+status” notwithstanding, data suggesting at least a 5-
+day washout of clopidogrel before elective cardiac sur-
+gery comes primarily from studies conducted between
+2004 and 2019.
+The 2009 ACC/AHA Guidelines for the Management
+of Patients With ST-Elevation Myocardial Infarction and
+ACC/AHA/Society for Cardiovascular Angiography and
+Interventions Guidelines on Percutaneous Coronary
+Intervention recommended the withdrawal of clopi-
+dogrel for at least 5 days before CABG with only a level of
+evidence “C” (expert consensus opinion). However, a
+2014 meta-analysis by Cao and colleagues
+80 of 5 studies
+from 2004 to 2009 compared the impact of less or more
+than 5 days of clopidogrel washout on perioperative
+bleeding, mortality, and morbidity in 2632 patients from
+a larger cohort of 6385 for other analyses in the 5 studies.
+Patients who had more than 5 days of washout demon-
+strated a lower incidence of major bleeding (19.7% vs
+30.2%; P ¼ .04), decreased need for reoperation (1.8% vs
+3.2%; P ¼ .03), and a lower incidence of the composite
+end point that included mortality and myocardial
+infarction, recurrent ischemia, stroke, and emergency
+revascularization (7.9% vs 9.7%; P ¼ .01) by comparison
+with those with less than 5 days of washout. No statis-
+tical signi ﬁcance was demonstrated in the all-cause
+mortality rates between the 2 treatment groups (3.1%
+vs 4.0%; P ¼ .61).
+More recently, in a 2016 retrospective analysis of
+prospectively collected data of 2244 ACS DAPT patients
+who underwent urgent or elective CABG, Hansson and
+colleagues
+71 demonstrated that discontinuation of clo-
+pidogrel 3 to 5 days before surgery resulted in a higher
+990 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p11]]
+rate of major bleeding complications compared with
+discontinuation greater than 5 days preoperatively (un-
+adjusted OR, 1.71; 95% CI, 1.04-2.79; P ¼ .033).
+As well, Tomsic and colleagues
+72 demonstrated in
+their 2016 retrospective observational cohort study of
+626 patients on DAPT presenting for isolated on-pump
+CABG that the subgroup of patients with clopidogrel
+withdrawn less than 5 days before elective cardiac sur-
+gery had higher transfusion needs (71.2% vs 41.3%;
+P < .001), need for multiple transfusions (14.4% vs 3.7%;
+P < .001), and a higher incidence of mediastinal chest
+tube drainage of 1000 mL in the ﬁrst 12 hours post-
+operatively (26.4% vs 12.6%; P < .001) compared with
+those who remained only on aspirin.
+72 A trend was
+demonstrated toward the increased need for surgical
+reexploration between those with clopidogrel with-
+drawn for less than 5 days and the aspirin-only group,
+but this did not attain statistical signi ﬁcance (10.4% vs
+5.4%; P ¼ .051).
+Ticagrelor. Ticagrelor is an oral direct-acting, competi-
+tive P2Y12 inhibitor that, compared with clopidogrel,
+exhibits a faster onset and offset of effect, and more
+consistent inhibition of platelet function among in-
+dividuals because it does not require metabolic
+activation.
+79,81
+Although it was appreciated that continuation of
+DAPT to the time of surgery would result in excessive
+bleeding, which had been associated with increased
+mortality, there was also concern that delays of CABG
+while awaiting P2Y12 washout to reduce bleeding risk
+may increase the risk of myocardial injury and/or stent
+thrombosis while awaiting surgery.
+65
+Given the known “fast offset ” time of ticagrelor,
+subgroup analyses results from the Platelet Inhibition
+and Patient Outcomes (PLATO) trial suggested that
+discontinuation of ticagrelor 2 to 3 days preoperatively
+should be suf ﬁcient to balance the concomitant risks of
+perioperative bleeding and thrombotic events,
+69 but
+subsequent studies demonstrated that at least 3 days of
+ticagrelor washout minimizes bleeding risk without
+apparently increasing the risk of thrombotic events.
+Tomsic and colleagues 72 demonstrated in their 2016
+retrospective observational cohort study of 626 patients
+on DAPT presenting for isolated on-pump CABG that the
+subgroup of patients with ticagrelor withdrawn less than
+72 hours preoperatively had higher transfusion needs
+(72.1% vs 41.3%; P < .001), higher demand for multiple
+allogeneic blood transfusions (14.8% vs 3.7%; P < .001),
+and higher in-hospital mortality (4.9% vs 1.0%; P ¼ .019)
+compared with those who remained only on aspirin,
+whereas those with ticagrelor withdrawn greater than 72
+hours demonstrated no differences from the aspirin only
+group.
+72
+In the same 2016 analysis of 2244 ACS DAPT patients
+who underwent urgent or elective CABG described
+previously for clopidogrel, Hansson and colleagues 71
+demonstrated a signi ﬁcantly higher rate of major
+bleeding complications when ticagrelor was dis-
+continued less than 3 days preoperatively compared
+with discontinuation at 3 to 5 days preoperatively (un-
+adjusted OR, 5.17; 95% CI, 2.89-9.27; P < .0001). The
+authors also reported that mortality was signi ﬁcantly
+higher in patients with major bleeding complications
+(9.9% vs 0.7%; unadjusted OR, 14.78; 95% CI, 7.82-27.93;
+P < .0001). Preoperative thrombotic events were not
+reported, but postoperative thrombotic events before
+hospital discharge reportedly occurred in 2.3% of the
+ticagrelor group compared with 2.8% of the clopidogrel
+group. An analysis of the thrombotic events strati ﬁed by
+the timing of discontinuation of the P2Y12 inhibitor was
+not reported.
+Most recently, and in accordance with prior trials, in
+2019 Kremke and colleagues
+82 demonstrated that tica-
+grelor exposure within 72 hours before cardiac surgery
+was associated with an increased risk of major bleeding
+complications, de ﬁned as the intraoperative transfusion
+of more than 1000 mL of RBCs, a postoperative bleeding
+volume greater than 2000 mL, or the need for reexplo-
+ration for bleeding or cardiac tamponade.
+Prasugrel. Like clopidogrel, prasugrel is a prodrug that
+requires metabolic conversion to an active metabolite,
+but it has been demonstrated that the metabolism of
+prasugrel is less negatively affected by individual “low
+function” CYP polymorphisms, resulting in more
+consistent platelet inhibition. The duration of action of
+prasugrel is known to be longer than that of clopidog-
+rel,
+16 but the existing data for the optimal timing of its
+withdrawal before elective cardiac surgical intervention
+is much less robust than for clopidogrel or ticagrelor.
+The 2009 ACC/AHA guidelines recommended a pra-
+sugrel washout time of 7 days before an elective cardiac
+surgical intervention to minimize bleeding, but this was
+based on expert consensus opinion (level of evidence
+C).
+VT
+Results from the Trial to Assess Improvement in
+Therapeutic Outcomes by Optimizing Platelet Inhibition
+with Prasugrel-Thrombolysis in Myocardial Infarction
+(TRITON TIMI 38) CABG cohort published in 2012 may
+have validated the previous expert consensus recom-
+mendation that 5 days of prasugrel washout is insuf ﬁ-
+cient. In that cohort of 346 DAPT patients undergoing
+isolated CABG, P2Y12 inhibitors (prasugrel or clopidog-
+rel) had been discontinued anywhere from 0 to more
+than 14 days before surgery, but each group was ulti-
+mately analyzed as a whole (results not strati ﬁed by time
+from discontinuation). Of note, only 42.2% of the clopi-
+dogrel group and 48.5% of the prasugrel group had
+washout of their P2Y12 inhibitor for more than 5 days
+preoperatively and only 29.1% of the prasugrel group for
+more than 7 days. Analyses demonstrated a higher
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+991
+REPORT
+[[p12]]
+overall mean chest tube drainage at 12 hours in the
+prasugrel group (655 /C6 580 mL vs 503 /C6 378 mL; P ¼
+.050), the incidence of platelet transfusion was signi ﬁ-
+cantly higher in the prasugrel group (17.96% vs 9.82%;
+P ¼ .033), and the mean number of platelet units
+transfused was also higher (0.78 units vs 0.39 units; P ¼
+.047). No signi ﬁcant differences were found in RBC
+transfusion (2.1 units vs 1.7 units; P ¼ .442). A trend
+toward a higher incidence of surgical reexploration for
+bleeding in the prasugrel group was detected (11 of 173
+patients) compared with the clopidogrel group (4 of 173
+patients), but a surgical source of bleeding was identi ﬁed
+in 8 of the 11 prasugrel patients and in 3 of the 4 clopi-
+dogrel patients, resulting in very small numbers of pa-
+tients in whom the ongoing bleeding was likely due to
+coagulopathy.
+70
+It remains the recommendation of the 2017 European
+Society of Cardiology/European Association for Cardio-
+Thoracic Surgery that discontinuation of prasugrel at
+least 7 days before elective cardiac surgical intervention
+“should be considered. ”
+83
+One notable exception to the understanding that
+continuation of DAPT up to the time of elective cardiac
+surgery will result in increased perioperative bleeding,
+rates of transfusion, and need for postoperative medi-
+astinal reexploration is the data provided by Ouattara
+and colleagues.
+84 In this observational study of 217
+consecutive ACS patients presenting for CABG with
+DAPT (clopidogrel plus aspirin) or SAPT (aspirin alone)
+maintained up to the time of surgery, the use of apro-
+tinin intraoperatively appears to have mitigated the
+otherwise expected excessive bleeding and increased
+rates of transfusion and need for postoperative medias-
+tinal reexploration in the DAPT group compared with
+the SAPT group. The removal of aprotinin from the
+market in 2007 renders these results nonapplicable to
+modern practice, and a subsequent prospective attempt
+to demonstrate a similar effect with tranexamic acid
+(TXA) in 150 consecutive patients failed to do so.
+85
+DRUGS USED FOR INTRAOPERATIVE BLOOD
+MANAGEMENT
+ Use of synthetic anti ﬁbrinolytic agents, such as
+epsilon-aminocaproic acid (EACA) or tranexamic
+acid, reduces blood loss and blood transfusion
+during cardiac procedures and is indicated for
+blood conservation (Class I, Level A).
+ Tranexamic acid reduces bleeding and total trans-
+fusion during off-pump CABG surgery (Class IIA,
+Level B-R).
+LYSINE ANALOGUES VS PLACEBO. A large 2017 random-
+ized trial of 4631 patients aimed to clarify the safety and
+efﬁcacy pro ﬁle of tranexamic acid (TXA). Patients were
+given 100 mg/kg TXA after induction, which was
+reduced to 50 mg/kg in January 2012 after 1392 patients
+were enrolled. TXA reduced both the need for RBCs
+(P < .001) and any blood product ( P < .001) compared
+with placebo. The number needed to treat (NNT) for TXA
+to reduce transfusion of 1 unit of blood products was 6.
+TXA also reduced the need for reexploration (1.4% vs
+2.8%; RR, 0.49; 95% CI, 0.32-0.75; P ¼ .001). There was
+no signi ﬁcant bene ﬁt for 30-day mortality or
+thromboembolic events. It should be noted that,
+although it was not a pre-selected outcome in our PICO
+question, this study raises questions on the association
+between TXA and seizures.
+86
+Other smaller RCTs, such as those by Taghaddomi
+and colleagues 87 and Esfandiari and colleagues 88
+conﬁrmed the bene ﬁts of TXA over placebo in reducing
+bleeding and total transfusions, and the RCTs by
+Taghaddomi and colleagues 87 and Wang and col-
+leagues89 suggest that these bene ﬁts might extend to
+off-pump CABG patients as well, although more than
+10% of the randomized patients in the study by Wang
+and colleagues
+89 were converted to CPB, and the authors
+did not perform separate intention-to-treat and per-
+protocol analyses.
+TXA VS EACA. Several studies have been published since
+the most recent meta-analysis to investigate the effects
+of TXA vs EACA. Raghunathan and colleagues 90
+published a large RCT in 2011 of 1550 patients taken
+from data published in the Blood Conservation Using
+Antiﬁbrinolytics in a Randomized Trial (BART) trial.
+There was no difference in any outcome between the 2
+agents, except a reduction of FFP use in TXA (RR,
+0.83; 98.33% CI, 0.72-0.96). The primary outcome of
+the study, as in the BART trial, was a composite
+outcome of bleeding from chest tubes that exceeded
+1.5 liters during any 8-hour period or massive
+transfusion, which was de ﬁned as the administration
+of more than 10 units of RBCs within 24 hours after
+surgery. To detect an absolute difference of 3% in
+major bleeding based on the results of the trial, the
+sample size would have to be doubled. Rarer outcomes
+would have required up to 10,000 patients to detect a
+clinically-meaningful difference.
+The randomized trial by Alizadeh Ghavidel and col-
+leagues
+91 included 3 groups of 100 patients, each
+receiving either TXA, EACA, or placebo. EACA was su-
+perior to placebo and TXA at 6 hours, 12 hours, and 24
+hours after surgery for total bleeding, although this
+beneﬁt did not reduce the need for transfusion of RBC,
+FFP, or platelets at any time point. EACA was superior to
+placebo at reducing the need for RBCs both intra-
+operatively and in the ICU, whereas TXA signi ﬁcantly
+reduced the need for RBCs only in the ICU. There was an
+unusual amount of demographic and operative differ-
+ences between the groups for an RCT in this study. The
+992 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p13]]
+consistent lack of signi ﬁcant differences between TXA
+and placebo is likewise a function of lack of statistical
+power.
+The small RCT of 78 patients by Choudhuri and col-
+leagues
+92 compared EACA and TXA, and the only
+outcome of interest reported was a nonsigni ﬁcant dif-
+ference between the rate of reexploration for bleeding
+among the 3 study groups (TXA, n ¼ 2; EACA, n ¼ 2;
+control, n ¼ 3; P > .05). Owing to the relative low quality
+of this study, the next best evidence is the retrospective
+cohort study by Keyl and colleagues,
+93 which compared
+341 patients in each group. TXA was superior at reducing
+blood loss (logistic regression OR, 0.57; 95% CI, 0.39-
+0.83; P ¼ .003) and preventing the use of blood products
+(RBCs, P ¼ .002; FFP, P < .001; and platelets, P < .001).
+This study also raises further questions on the associa-
+tion between TXA and seizures.
+Martin and colleagues
+94 also compared TXA vs EACA
+in a 2011 retrospective cohort study of 604 patients. TXA
+signiﬁcantly reduced 24-hour blood loss but did not
+signiﬁcantly reduce use of any transfusion products,
+reexploration, 30-day mortality, or thromboembolic
+events compared with EACA.
+A meta-analysis assessing the randomized and non-
+randomized data would increase the power to detect a
+difference between TXA and EACA, but it does not
+appear at this time that one agent is meaningfully su-
+perior to another.
+The lysine analogues TXA and EACA remain viable
+alternatives for safely reducing total blood loss associ-
+ated with cardiac surgery, the rate of transfusion, and
+the total amount of blood products used in transfusion.
+The effect of these agents on 30-day mortality, reex-
+ploration due to bleeding, and thromboembolic events is
+not clearly established vs control. The association be-
+tween TXA and seizures is noted and will be a point of
+emphasis for this guideline in the future.
+CONTINUING RESEARCH ON APROTININ VS PLACEBO AND
+VS LYSINE ANALOGUES. Despite the fact that aprotinin
+has been off the market in the United States and Europe
+since the BART study in 2008 due to safety concerns,
+95 our
+search identi ﬁed 5 meta-analyses, 2 prospective
+randomized studies, and 2 retrospective observational
+studies published since the 2011 Blood Conservation
+Guidelines that continue to assess its safety and
+effectiveness either vs other anti ﬁbrinolytic agents or vs
+placebo. Since the BART study, some have suggested
+that the withdrawal of aprotinin has been detrimental to
+patient care because of increased adverse outcomes from
+surgery and increased use of blood products, and the
+drug has been made available to clinicians in Canada and
+Europe, albeit with warnings and limited indications.
+96
+Two meta-analyses were published in 2009, both
+heavily in ﬂuenced by the data from the BART study.
+Henry and colleagues 97 found no difference in rates of
+exploration, myocardial infarction, or 30-day mortality
+between aprotinin and either TXA or EACA, while
+aprotinin was more effective than EACA at preventing
+transfusion. McIlroy and colleagues
+98 similarly found no
+increase in mortality or thromboembolic events vs
+placebo.
+Complicating matters further, the meta-analyses by
+Ngaage and Bland
+99 and Hutton and colleagues 96
+demonstrated a bene ﬁt in TXA vs aprotinin in 30-day
+mortality, which held for RCT-only data and when
+combined with observational trials. However, the most
+recent network meta-analysis in 2013 by Howell and
+colleagues
+100 similarly investigated the safety of aproti-
+nin compared with TXA and EACA and found no sig-
+niﬁcant bene ﬁt for any agent in 30-day mortality, either
+compared with each other or placebo.
+Two small prospective RCTs and 2 retrospective
+studies performed after these meta-analyses in 2012 did
+not clarify the safety pro ﬁle of aprotinin.
+101-104
+The authors of this guideline were not anticipating
+the extensiveness of the new data on the safety of
+aprotinin and did not select renal injury in any of the
+PICO questions. We thus cannot comment on data per-
+taining to those outcomes. Owing to aprotinin being
+unavailable to most of the readership for this document,
+we declined to make a recommendation based on this
+evidence review.
+TOPICAL HEMOSTATIC AGENTS
+ Topical application of anti ﬁbrinolytic agents to the
+surgical site after CPB is reasonable to limit chest
+tube drainage and transfusion requirements after
+cardiac operations using CPB. (Class IIA, Level B-R)
+Despite widespread use in cardiac procedures over
+many years, no single topical preparation emerges as the
+agent of choice for localized bleeding that is dif ﬁcult to
+control. The development of intraoperative bleeding
+scales
+105 may be helpful in determining which hemo-
+static agent is more likely to be useful in certain situa-
+tions, but nevertheless, the source of bleeding and the
+patient’s coagulation pro ﬁle are important factors that
+may preclude the actions of any and all topical hemo-
+static agents. Assessment of topical hemostatic agents in
+clinical RCTs is extremely dif ﬁcult due to dif ﬁculty in
+establishing reliable end points, and using reproducible
+bleeding scales intraoperatively may be the best method
+to compare ef ﬁcacy of topical hemostatic agents.
+INTRAOPERATIVE NONPHARMACOLOGIC
+INTERVENTIONS
+SURGICAL APPROACH. When determining the desired
+treatment for a patient with an ailing medical condition,
+several factors play into the treatment strategy
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+993
+REPORT
+[[p14]]
+recommended. Survival, symptom relief, and the
+avoidance of serious adverse events (stroke and
+myocardial infarction) are given the most weight in the
+strategy chosen.
+106 Although efforts to minimize
+bleeding are part of the equation, rarely would bleeding
+risk attributable to a particular procedure be the primary
+factor with respect to decisions around competing
+treatment options. A patient ’s absolute refusal of blood
+products for faith-based reasons or otherwise would be
+the key exception to this rule. Still, knowledge with
+respect to bleeding risk for competing therapies is
+important, because blood transfusions can be both life-
+saving and deleterious to a patient depending on the
+context of the situation.
+27 In general, if improved or
+equivocal outcomes can be attained with a particular
+treatment relative to an alternative, and the need for
+transfusions is signi ﬁcantly less, such a therapy is
+looked upon favorably. For cardiac surgery, the above
+interplay is most relevant to decision making with
+respect to thoracic aortic endografts, transcatheter
+valve technologies, minimal-access surgical techniques,
+and off-pump coronary surgery.
+With respect to thoracic aortic endografts and off-
+pump coronary surgery, the effectiveness of these in-
+terventions to reduce bleeding were acknowledged in
+the 2011 Blood Conservation Practice Guidelines
+59 and
+are again supported in this updated document, with the
+caveat that formal recommendations are being withheld
+in this version. Insertion of aortic endografts for thoracic
+aortic disease is a major advancement in blood conser-
+vation for what is an otherwise complex high-risk pa-
+tient population. In a very similar manner, transcatheter
+valve technologies are revolutionizing the treatment of
+structural heart disease and have also proven to reduce
+the need for blood transfusions.
+107 Further, although
+minimal-access surgery is a heterogenous conglomerate
+of variable techniques, which impedes efforts for quality
+scientiﬁc assessment, best evidence would attribute a
+blood conservation advantage to these minimal-access
+procedures
+108,109
+Off-pump coronary surgery has consistently proven
+to reduce blood transfusions relative to on-pump coro-
+nary surgery.
+110,111 Yet, given variable results with
+respect to graft patency 111 and 5-year survival outcomes
+with off-pump procedures, 112,113 routine use of this
+technique should be reserved for surgeons making a
+concerted commitment to integrate off-pump tech-
+niques into their daily operative practice.
+POC HEMOSTASIS TESTING
+ Goal directed transfusion algorithms that incorpo-
+rate point-of-care testing, such as with viscoelastic
+devices, are recommended to reduce periproce-
+dural bleeding and transfusion in cardiac surgical
+patients. (Class I, Level B-R)
+Abnormalities of hemostasis that place patients at risk
+for both bleeding and thrombotic events can be the
+result of inherited defects or acquired conditions. The
+most common acquired condition in cardiac surgical
+patients is the induced derangement of coagulation that
+occurs due to blood contact with the extracorporeal
+circuit. This includes dilution and depletion of coagula-
+tion factors, platelet activation and dysfunction, and
+ﬁbrinolysis. Also contributing are disease states and use
+of anticoagulant or antithrombotic drug therapy. New
+anticoagulant drugs are often potent, and an antidote
+may not be available. POC monitoring of the hemostatic
+mechanism is critical to provide timely and accurate
+assessment of the cause of bleeding, with potential to
+provide targeted therapies.
+The timing of surgery has been optimized in many
+studies using POC assessment of residual platelet inhi-
+bition due to antithrombotic drugs. Viscoelastic tests are
+used for this purpose and constitute much of the data
+that have been published on POC testing of hemostasis
+in cardiac surgery, POC testing is an essential tool that
+has been used in clinical practice for decades and pro-
+vides fast results at the bedside. Viscoelastic tests have
+been used to measure activated clotting times in certain
+instruments; however, these measures are not recom-
+mended to supplant the traditional activated clotting
+times measurements.
+114 Data supporting the use of
+viscoelastic testing will be presented without regard to
+the speci ﬁc platform or instrument used and will be re-
+ported based on the strength of the evidence. POC
+assessment of hemostasis is used to guide blood product
+administration and can reduce unnecessary transfusions
+by using a patient-directed approach to transfusion
+therapy. Viscoelastic testing has been shown to decrease
+costs by reducing transfusions
+115,116 and the risks asso-
+ciated with transfusions. 117,118
+Routine plasma-based coagulation testing results
+have a poor correlation and limited value in the peri-
+operative management of patients with coagulopathic
+bleeding.
+119,120 These tests are performed on plasma and
+only represent the time to initiation of clot formation
+and do not provide data on the platelet- ﬁbrinogen
+interaction in clot formation. Furthermore, these tests
+are often sent to a central laboratory, which increases
+turnaround time and renders them not ideal for pre-
+diction or management of perioperative hemorrhage.
+Given these limitations, the use of viscoelastic POC
+coagulation assays to predict excessive bleeding and
+guide hemostatic therapies in patients with suspected
+coagulopathy has signi ﬁcantly increased over the last 2
+decades and has been incorporated into numerous PBM
+algorithms.
+The use of POC-based transfusion algorithms using
+viscoelastic testing have resulted in a signi ﬁcant reduc-
+tion of allogeneic blood product transfusion in high-risk
+994 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p15]]
+clinical settings such as cardiovascular surgery. 121 A large
+prospective multicenter trial by Karkouti and col-
+leagues
+122 included more than 7000 cardiac surgery pa-
+tients. The trial analyzed transfusion rates before and
+after implementation of a viscoelastic testing-based
+transfusion algorithm plus a platelet function analyzer.
+The use of a POC-based transfusion algorithm resulted in
+a signi ﬁcant decrease in RBC and platelet transfusions.
+When used in conjunction with a speci ﬁc POC platelet
+function analyzer, algorithms have demonstrated a sig-
+niﬁcant blood-sparing effect when compared prospec-
+tively with standard laboratory testing.
+Many studies that incorporate viscoelastic-based
+transfusion algorithms and demonstrate reduced trans-
+fusions substitute the early use of prohemostatic factor
+concentrates and ﬁbrinogen concentrate for allogeneic
+blood.
+117 This practice reduces transfusions; however,
+the use of PCCs and ﬁbrinogen concentrate in place of
+blood products must be carefully evaluated for safety. 123
+This renders careful monitoring of hemostasis a critical
+part of this practice.
+124
+Meta-analyses and systematic reviews evaluating the
+efﬁcacy of POC viscoelastic testing to guide management
+indicate that this intervention reduces bleeding and re-
+duces transfusion rates but alone does not have a
+demonstrable effect on morbidity.
+125,126 Whether the in-
+dividual investigations were powered to evaluate the
+impact of viscoelastic testing on morbidity and mortality is
+questionable. These systematic reviews have evaluated
+the data published using the ﬁrst viscoelastic tests to be
+commercially penetrant. It is feasible that similar results
+can be accomplished with the more modern devices,
+127,128
+but these large-scale studies have not yet been conducted.
+PERFUSION INTERVENTIONS
+ACUTE NORMOVOLEMIC HEMODILUTION
+ Acute normovolemic hemodilution is a reasonable
+method to reduce bleeding and transfusion. (Class
+IIA, Level of Evidence A)
+CPB is responsible for multiple negative effects on
+circulating blood and blood components. Acute normo-
+volemic hemodilution (ANH) is a method to limit these
+effects on a portion of the patient ’s blood volume.
+Although there are no published standardized protocols
+for ANH, it typically involves the removal of 1 to 3 units
+of the patient ’s blood before heparinization. Currently,
+ANH is an underused method in cardiac surgery. An
+observational study by Goldberg and colleagues
+129
+showed that ANH was performed in only 17% of patients
+before surgery. The reason for its underuse may be
+because it requires additional preoperative time,
+possible lack of attention to PBM strategies in general,
+and real or perceived risks of ANH. Additionally, bene ﬁts
+of ANH are directly linked to the amount of whole blood
+that is withdrawn from the patient.
+129-131 Lack of estab-
+lished protocols for removal of blood, hemodynamic
+support, and indications and contraindications may also
+be a roadblock to widespread use.
+Although ANH has been used for many decades, it is
+not until recently that RCTs and meta-analyses have
+been published. In a 2017 meta-analysis, Barile and col-
+leagues
+132 combined data from 2439 patients from 29
+RCTs. Patients who underwent ANH had an estimated
+388 mL total blood loss vs 450 mL in the control groups
+(mean difference, /C0 0.64; 95% CI, /C0 0.97 to /C0 0.31;
+P < .001) and a 26% reduced risk (absolute risk reduc-
+tion, 14%) of transfusion (RR, 0.74; 95% CI, 0.62-0.87; P
+< .001).
+132 ANH was also associated with 0.79 fewer units
+of RBCs used. The conclusions of this study are limited
+by a very high degree of heterogeneity, which was due
+to differences in the amount of blood removed, the
+types of surgery, year of publication, and presence/
+absence of a transfusion protocol among the included
+studies. The size of the effect suggests to this group that
+there is likely a bene ﬁt to using ANH; however, the
+extent of that bene ﬁt is unclear.
+When ANH is used with adequate volumes, there is an
+apparent decrease in perioperative blood and blood
+product use. Consistently, the greater the amount of
+whole blood that can be removed from the patient
+without hemodynamic instability, the greater the effects
+of ANH.
+129 Care must be taken in patients who are pre-
+operatively anemic, smaller patients who may have lower
+overall blood volumes, and stable patients who are prone
+to instability (ie, left main disease) and unstable patients.
+It is also important to avoid profound anemia while on
+CPB, although blood that has been removed can be
+reinfused into the patient at any time, including while on
+bypass, to prevent deleterious effect of severe anemia.
+In efforts to maintain acceptable hematocrit levels
+during CPB, it may be useful to combine ANH with retro-
+grade autologous priming (RAP). In the retrospective study
+of more than 18,000 patients by Stammers and col-
+leagues,
+130 comparisons were made between patients that
+had RAP only, ANH only, RAP and ANH, or neither. The
+lowest transfusion rates were seen in the ANH-only cohort
+while the highest transfusion rates were seen in the neither
+patients.
+130 As a retrospective study, and as in many
+studies when it comes to blood conservation, drawingﬁrm
+conclusions is difﬁcult due to patient acuity differences as
+well as physician and institutional commitment to a
+comprehensive multimodality approach to PBM.
+Further studies are required to standardize the
+methods of ANH so that they can be more broadly
+applied. Nevertheless, it is apparent that ANH is an
+effective way to limit the deleterious effects of CPB on at
+least a portion of the patient ’s blood volume, leading to
+a decreased need for transfusions in cardiac surgery.
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+995
+REPORT
+[[p16]]
+RETROGRADE AUTOLOGOUS PRIMING
+ Retrograde autologous priming of the CPB circuit
+should be used wherever possible. (Class I, Level
+B-R)
+Multiple small randomized prospective studies and a
+moderately sized meta-analysis suggest that RAP is a
+simple, safe, and effective process to decrease intra-
+operative and postoperative transfusion rates, especially
+for preoperative anemia and those procedures that
+result in excessive blood loss. Although studies consis-
+tently report lower transfusion rates in the RAP groups,
+improvements in mortality and complication rates are
+not con ﬁrmed when RAP is considered as the sole dif-
+ference in surgical therapy.
+A 2009 meta-analysis by Saczkowski and colleagues
+133
+of 557 patients in 6 trials concluded that patients in the
+RAP group had both fewer intraoperative transfusions
+(OR, 0.36; 95% CI, 0.13-0.94; P ¼ .04) and fewer trans-
+fusions during their total stay (OR, 0.26; 95% CI, 0.13-
+0.52; P ¼ .0001), with an NNT of 11 during the intra-
+operative period and 4 for the total stay. The study
+further reported a weighted mean difference of /C0 0.60
+units of RBCs used (95% CI, /C0 0.90 to /C0 0.31 units). Each
+of the 6 individual studies that made up the analysis
+scored poorly on the rating scale performed by the au-
+thors ( Appendix 4 ), and there was some moderate het-
+erogeneity in the intraoperative data. This may result in
+an overestimate of the effect size for RAP.
+133
+In a randomized, prospective study by Hofmann and
+colleagues,134 intraoperative rates of transfusions were 17.2%
+in the non-RAP group vs only 3.7% in the RAP group, with an
+absolute risk reduction of 13.5 and an NNT of 7.44. No sig-
+niﬁcant differences in the amo unt of bleeding, mortality,
+reexploration, or thromboembolic events were found. Like-
+wise, a 2015 RCT by Cheng and colleagues
+135 reported re-
+ductions in perioperative transfusion rates of 54.2% for RAP
+and 95.8% for non-RAP (P < .01). There were no signiﬁcant
+differences in the amount of bleeding in this trial.
+135
+Throughout most recent studies, the volume that is
+removed is an important criterion contributing to the
+effectiveness of RAP in reducing blood transfusions. Main-
+tenance of hemodynamic stability is achieved by physical
+(Trendelenburg positioning) and/or pharmacologic (vaso-
+constrictors) means. No recent studies show any increased
+risk from intraoperative RAP, and as such, the risk/beneﬁt
+ratio is signiﬁcantly in favor of RAP for patients at risk.
+MINICIRCUITS
+ Reduced priming volume in the CPB circuit reduces
+hemodilution and is indicated for blood conserva-
+tion. (Class I, Level B-NR)
+ Minimally invasive extracorporeal circulation is
+reasonable to reduce blood loss and red cell
+transfusion as part of a combined blood conserva-
+tion approach. (Class IIA, Level B-R)
+Two recent large registry studies provide insight on
+the impact of prime volume on hemodilution and
+transfusion. Sun and colleagues
+136 demonstrated in a
+2017 registry study with more than 47,000 patients that
+the ratio of prime volume to estimated blood volume
+was an independent predictor of transfusion, with
+increased ratios (larger prime volumes) resulting in
+transfusion. Similarly Dickinson and colleagues,
+137 in a
+2019 study evaluating more than 21,000 patients,
+showed that exposure to larger net prime volumes
+indexed to body surface area was an independent pre-
+dictor of an increased risk of transfusion. Each of these
+studies demonstrated associations of reduced hemodi-
+lution with decreased prime volume.
+The adoption of a combined strategy of surgical
+approach, anesthesia, and perfusion management, along
+with CPB circuit features designed to minimize hemo-
+dilution and optimize biocompatibility, has been termed
+minimally invasive extracorporeal circulation (MiECC).
+Conﬁguration of the circuit components for MiECC have
+been de ﬁned by consensus to include a combination of
+multiple techniques, including a closed CPB circuit,
+biologically inert blood contact surfaces, reduced prim-
+ing volume, a centrifugal pump, a membrane oxygen-
+ator, a heat exchanger, a cardioplegia system, a venous
+bubble trap/venous air-removing device, and a shed
+blood management system.
+138
+Two meta-analyses, in 2011 and 2013, supplemented
+by 3 additional RCTs, provide evidence for blood con-
+servation bene ﬁts associated with MiECC. The meta-
+analyses compared MiECC and studies using conven-
+tional CPB in both CABG and valve operations in 29 and
+24 studies, respectively, with 18 studies in com-
+mon.
+139,140 Both meta-analyses reported reduced RBC
+transfusion (OR, 0.35; 95% CI, 0.23-0.53; I2 ¼ 0; and OR,
+0.24; 95% CI, 0.16-0.37; I2 ¼ 5%), and failed to show any
+difference in reoperation for bleeding. Blood loss in both
+studies was also reduced, albeit with substantial het-
+erogeneity (weighted mean difference [WMD], /C0 131.32;
+95% CI, /C0 187.87 to /C0 74.76; I
+2 ¼ 89%; and WMD, /C0 137.93;
+95% CI, /C0 198.98 to /C0 76.89; I2 ¼ 81%). Both meta-
+analyses reported no differences in 30-day mortality,
+myocardial infarction, renal, and cerebral outcomes.
+Three additional RCTs with sample sizes of more than
+100 have been reported, which support the ﬁndings of
+the previously published meta-analyses. The 2011 trial
+by El-Essawi and colleagues
+141 of 500 patients demon-
+strated a decreased RBC transfusion requirement in the
+MiECC group (199 /C6 367 mL vs 347 /C6 594 mL, P < .001),
+reoperation for bleeding (2.4% vs 6.1%; P < .05), with
+transfusion as a whole (35.3% vs 44.8%), transfusion of
+packed RBCs (28.6% vs 39.5%), and transfusion of FFP
+(17.5% vs 25.4%) all signi ﬁcantly lower in the MiECC
+patients ( P ¼ .04, P ¼ .01, and P ¼ .04, respectively).
+Anastasiadis and colleagues
+142 (2013), in an RCT of 120
+996 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p17]]
+patients, reported lower intraoperative blood trans-
+fusion (0.5 /C6 0.7 units vs 1.5 /C6 1.1 units; P < .001) and
+postoperative blood transfusion (2 /C6 1.7 units vs 3 /C6 2.4
+units; P ¼ .009) in the MiECC group. 142 Baumbach and
+colleagues143 evaluated 200 patients undergoing mini-
+mally invasive mitral valve replacement/aortic valve
+replacement surgical approaches and found total red cell
+transfusion to be reduced in the MiECC group (1.06 /C6
+1.95 units vs 1.67 /C6 1.80 units; P ¼ .003), while reporting
+no other clinical outcome differences apart from
+reduced delirium in the MiECC group.
+Signiﬁcant confounders impact much of this litera-
+ture, the most important of which is the composition of
+the control groups used to compare MiECC. The control
+circuits invariably have high prime volumes,
+nonbiocompatible-coated circuits, and limited access to
+cell salvage, making the interpretation of these data
+difﬁcult. Additionally, there is large variability in the
+reporting of transfusion-related outcomes, often small
+sample sizes, and unclear methods of randomization, all
+of which contribute to the variable inclusion of papers in
+the 2 meta-analyses.
+POSTOPERATIVE MANAGEMENT
+TRANSFUSION TRIGGERS
+ In patients undergoing cardiac surgery, a restric-
+tive perioperative allogeneic RBC transfusion
+strategy is recommended in preference to a liberal
+transfusion strategy for perioperative blood con-
+servation, as it reduces both transfusion rate and
+units of allogeneic RBCs without increased risk of
+mortality or morbidity. (Class I, Level A)
+ Allogeneic RBC transfusion is unlikely to improve
+oxygen transport when the hemoglobin concen-
+tration is greater than 10 g/dL and is not recom-
+mended. (Class III: No Bene ﬁt; Level B-R)
+Since the publication of the 2011 Guidelines, several
+RCTs involving more than 8000 patients have investi-
+gated the use of restrictive vs liberal RBC transfusion
+strategies in patients undergoing cardiac surgery.
+144-148
+These studies have originated from 4 different countries
+and involved patients from all continents in the world.
+Although there were some differences in design, such as
+preoperative vs postoperative randomization and supe-
+riority vs noninferiority comparisons, all included a
+restrictive trigger between 7 and 8 g/dL and a liberal
+trigger between 8 and 10 g/dL, and all had primary and
+secondary outcomes that included important clinical
+events such as morbidity, mortality, and resource utili-
+zation, including blood product exposure.
+The Transfusion Requirements After Cardiac Surgery
+(TRACS) study randomized 502 cardiac surgery patients
+in Brazil to a restrictive (hematocrit 24%) or liberal
+(hematocrit trigger 30%) RBC transfusion strategy while
+in the operating room and ICU.
+144 Patients in the liberal
+group received signi ﬁcantly more transfusions than the
+restrictive group (78% vs 47%), and there was no dif-
+ference in the primary composite end point of 30-day
+all-cause mortality and severe morbidity (cardiogenic
+shock, acute respiratory distress syndrome, or acute
+renal injury requiring dialysis or hemo ﬁltration). These
+outcomes also did not signi ﬁcantly differ individually.
+However, the trial was not powered to detect these dif-
+ferences; thus, these results should be interpreted
+cautiously. Nevertheless, the P value of 0.93 for the 1%
+absolute difference in 30-day mortality (6% liberal vs 5%
+restrictive) suggests that a meaningful clinical difference
+is very unlikely.
+Another study randomized 722 adults in the United
+States and India who were having valve or CABG surgery
+to a restrictive (24% hematocrit) or liberal (28% hemat-
+ocrit) transfusion threshold.
+146 The restrictive group
+received signiﬁcantly fewer allogeneic transfusions (54%
+vs 75%; P < .001). The study was stopped at the pre-
+planned interim analysis at which time it was deemed
+futile to be able to achieve a difference in the primary
+composite outcome of in-hospital postoperative
+morbidity and mortality.
+The Transfusion Requirements in Cardiac Surgery III
+(TRICS III) trial randomized more than 5000 adults un-
+dergoing moderate- to high-risk cardiac surgery with
+CPB to a restrictive transfusion strategy (hemoglobin
+transfusion threshold <7.5 g/dL) or a liberal one
+(threshold <9.5 g/dL in the operating room and ICU;
+<8.5 g/dL on the ward).
+148 RBC transfusion occurred in
+52.3% of the restrictive patients compared with 72.6% of
+the liberal group (OR, 0.41; 95% CI, 0.37-0.47; P < .001).
+Noninferiority of the restrictive group was con ﬁrmed for
+the primary composite outcome of death, myocardial
+infarction, stroke, or dialysis at the earlier of 28 days or
+hospital discharge. The results were similar after 6
+months of follow-up, with no differences between
+groups in the components of the primary outcome or an
+expanded outcome, which included emergency depart-
+ment visits, rehospitalization, or coronary
+revascularization.
+148
+In the Transfusion Indication Threshold Reduction
+(TITRe2) trial, 2007 patients who had undergone cardiac
+surgery with a postoperative hemoglobin level of less
+than 9 g/dL were randomized to a transfusion threshold
+of 7.5 g/dL (restrictive strategy) or 9 g/dL (liberal strat-
+egy).
+145 The transfusion rate after randomization was
+signiﬁcantly lower in the restrictive group (53% vs 92%).
+There was no difference in the primary composite
+outcome of infection and ischemic events within 3
+months of surgery, although mortality was 1.6% lower in
+the liberal group (HR, 1.64; 95% CI, 1.00-2.67; P ¼ .045).
+Although it is a secondary analysis, this safety outcome
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+997
+REPORT
+[[p18]]
+in a large, multicenter trial stands in contrast with the
+rest of the randomized data. Thus, the several meta-
+analyses performed since the most recent guidelines
+are better positioned to con ﬁrm or refute the equiva-
+lence of the two strategies.
+As expected in these recent systematic reviews and
+meta-analyses, restrictive transfusion signi ﬁcantly
+reduced the number of patients receiving a RBC trans-
+fusion.
+149-151 The probability of receiving an allogeneic
+transfusion was signi ﬁcantly reduced by approximately
+30% with restrictive transfusion (RR, 0.69; 95% CI, 0.67-
+0.71), and the transfusion risk was thus approximately
+1.5-times higher in the liberal group. The average
+amount of transfusion was reduced by approximately 1
+unit (WMD, 0.87-0.90 units), and there was no signi ﬁ-
+cant difference in blood loss.
+Although there were slight differences in the data an-
+alyses undertaken, all meta-analyses found no difference
+in mortality between transfusion strategies (ORs or RRs
+from 0.96 to 1.03) with low heterogeneity ( I
+2 ¼ 0%-21%).
+No signi ﬁcant subgroup interactions or heterogeneity
+were identiﬁed for type of surgery (elective vs nonelec-
+tive), patient category (adult vs pediatric), or time of
+randomization (preoperative/intraoperative vs post-
+operative).150,151 Two of the systematic reviews included
+trial sequential analyses which demonstrated that the
+total sample size accumulated from the randomized trials
+undertaken to date was suf ﬁcient to ultimately conclude
+that restrictive transfusion was not inferior to the liberal
+strategy (and conversely that liberal was not superior to
+restrictive) in terms of mortality.
+151,152 Furthermore, there
+were no signi ﬁcant differences between restrictive and
+liberal transfusion in reoperations, myocardial infarction,
+and stroke.
+Overall, the best evidence from multiple recent ran-
+domized controlled trials, systematic reviews, and meta-
+analyses clearly establishes that the use of restrictive
+RBC transfusion strategies reduces both the probability
+and amount of RBC transfusion without increasing the
+risk of mortality or major morbidity in patients under-
+going cardiac surgery.
+FLUID MANAGEMENT
+ It is reasonable to administer human albumin after
+cardiac surgery to provide intravascular volume
+replacement and minimize the need for trans-
+fusion. (Class IIA, Level B-R)
+ Hydroxyethyl starch is not recommended as a
+volume expander in cardiopulmonary bypass pa-
+tients as it may increase the risk of bleeding. (Class
+III: No Bene ﬁt, Level B-R)
+Fluid boluses are common and responsible for a large
+proportion of the positive ﬂuid balance seen in patients
+after cardiac surgery.
+153 The most common reason for
+ﬂuid administration was hypotension (65%), and crys-
+talloid ﬂuid was used for 65% of the boluses. 153 Crys-
+talloid solutions that are commonly used in cardiac
+surgery are 0.9% (normal) saline and buffered isotonic
+crystalloid solutions. There is evidence that the use of
+0.9% saline may be associated with increased blood
+transfusion requirements compared with buffered
+crystalloids in nonsurgical patient populations
+154-157 as
+well as with a heightened risk of acidosis with high
+volumes in animal models.
+158 Comparisons between
+saline and a buffered isotonic crystalloid solution in
+cardiac surgery patients can be found in post hoc sub-
+group analyses conducted within a multicenter, double-
+blind study and a prospective, single-center nested-
+cohort study. The analyses found no differences be-
+tween saline and buffered crystalloid in chest drain
+output, and the buffered crystalloid group actually
+received more transfusions.
+159 These results, however,
+were not intended to be more than hypotheses-
+generating for a more direct study.
+For colloids, albumin has been used extensively after
+cardiac surgery. Some evidence exists for increased
+adverse outcomes in trauma and sepsis patients,
+160
+although this has not yet been corroborated in cardiac
+surgical populations. A sequential period open-label pi-
+lot study of 100 adult cardiac surgery patients demon-
+strated that postcardiac surgery ﬂuid bolus therapy with
+20% albumin compared with crystalloid ﬂuid resulted in
+less positive ﬂuid balance as well as several hemody-
+namic and ICU treatment advantages.
+161 Another ran-
+domized prospective study of 240 elective cardiac
+surgery patients showed that despite equal blood loss
+from chest drains, albumin interfered with blood coag-
+ulation and produced greater hemodilution, which was
+associated with more transfusion of blood products
+compared with crystalloid use only.
+162 Two retrospective
+studies implementing albumin reduction strategies
+found no difference in mortality and transfusion be-
+tween crystalloid and albumin groups.
+163,164 Interest-
+ingly, a retrospective cohort study of 984 patients
+undergoing on-pump cardiac surgery showed a dose-
+dependent acute kidney injury risk associated with the
+administration of albumin.
+165 These retrospective
+studies carry signi ﬁcant limitations due to lack of
+vigorous variable control.
+The extensive restriction of another commonly used
+colloid solution in cardiac surgery, hydroxyethyl starch
+(HES), was recommended by the European Medicines
+Agency in 2013 and mandated a change in volume
+management in cardiac surgery.
+166 A meta-analysis was
+performed of postoperative blood loss in randomized
+clinical trials of HES vs albumin for ﬂuid management in
+adult CPB surgery. Included in the meta-analysis were 18
+randomized trials with 970 total patients reported from
+1982 to 2008, and the median number of patients per
+998 PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p19]]
+trial was 48 (interquartile range, 30-60 patients). The
+indications for colloid use were volume expansion in 9
+of the trials, pump priming in 5, and both in 4. HES
+increased blood loss, reoperation for bleeding, and blood
+product transfusion after CPB. There was no evidence
+that these risks could be mitigated by lower molecular
+weight and substitution.
+167
+In contrast, another meta-analysis of RCTs could
+not identify safety issues w ith tetrastarches compared
+with albumin or crystalloid solutions in blood loss,
+transfusion requirements, or hospital length of stay in
+patients undergoing cardiac surgery.
+168 This meta-
+analysis included 51 publications describing 49 clin-
+ical studies composed of an aggregate of 3439 patients
+until July 2013. Of these 49 studies, 30 were un-
+blinded, 10 were partly blinded, and 9 were
+completely blinded. The duration of follow-up covered
+a wide range, from 2 hours to 30 days. The variations
+in inclusion of studies might explain the apparent
+differences in conclusions.
+In a randomized, double-blind controlled trial of 262
+patients, use of HES for volume resuscitation after cardiac
+surgery improved hemodynamic status, but the HES group
+received more plasma transfusions.
+169 A small prospective
+randomized trial of 45 patients demonstrated that even a
+small dose of HES 130/0.4 impaired clot strength after
+cardiac surgery in a dose-dependent fashion but did not
+increase blood loss.
+170 A prospective observational study of
+90 patients found that HES 130/0.4 did not affect blood
+coagulation in cardiac surgery.
+171 In a randomized pro-
+spective blinded trial, HES was found to interfere with
+blood coagulation and produced greater hemodilution,
+which was associated with more transfusion of blood
+products compared with crystalloid use only.
+162
+Two RCTs in the intensive care setting — the Crystal-
+loid versus Hydroxyethyl Starch Trial (CHEST) and
+Scandinavian Starch for Severe Sepsis/Septic Shock Trial
+(6S) trial
+172,173— found that tetrastarches increased the
+use of dialysis and blood transfusion products; further-
+more, the 6S trial, which focused on patients with severe
+sepsis, found an 8% higher 90-day mortality associated
+with tetrastarches. Routine cardiac surgery patients,
+however, were excluded from these trials.
+In a multicenter prospective cohort study, intra-
+operative and postoperative use of HES 130/0.4 was not
+associated with increased risks of acute kidney injury
+and dialysis after cardiac surgery.
+174 Two small trials
+further conﬁrmed the lack of renal injury from HES. 175,176
+A retrospective cohort study found a lower dose of HES
+was signi ﬁcantly associated with a reduced incidence of
+acute renal injury and recommended that the cumula-
+tive dose of modern HES in cardiac surgery should be
+kept less than 30 mL/kg.
+177
+MASSIVE TRANSFUSION. A recent study provided some
+helpful prediction algorithms and management options
+for patients at higher risk of massive transfusion. 178 Risk
+factors for massive transfusion common to valve surgery
+alone, CABG alone, and their combination were identi-
+ﬁed. They include female sex, older age, renal
+dysfunction, lower body mass index, lower preoperative
+hemoglobin, and longer CPB times. Several independent
+massive transfusion risks were identi ﬁed speci ﬁct o
+valve surgery and include active endocarditis, nonatrial
+ﬁbrillation, smaller left atrium diameter, abnormal in-
+ternational normalized ratio, and repeat operations.
+Different types of cardiac operations share several, but
+not all, massive transfusion risk factors.
+The ratio of FFP to RBC is a topic of discussion both in
+cardiac surgery and in major trauma. In trauma, there is
+a well-recognized bene ﬁt from 1:1 ratio of FFP to RBC in
+patients with major hemorrhage related to trauma. This
+ratio is less well established in patients undergoing
+cardiac operations. One observational study evaluated
+the ideal ratio of FFP to RBC in patients undergoing
+major cardiac operations requiring massive trans-
+fusion.
+179 These authors found that higher FFP/RBC ra-
+tios (sometimes approaching >1:1 ratio) were associated
+with reduced risk of death, stroke, and myocardial
+infarction only in patients undergoing cardiovascular
+operations and receiving massive transfusions (de ﬁned
+as >10 units of packed RBCs in 1 postoperative hour).
+This less-than-rigorous evidence provides modest sup-
+port for adherence to a 1:1 ratio of FFP/RBC in massively
+bleeding cardiac surgery patients after operations as an
+extension from the trauma literature. This recommen-
+dation must be tempered with caution, because even
+trauma surgeons have concerns about optimal trans-
+fusion therapy and evaluation of traumatic
+hemorrhage.
+180
+BLOOD SALVAGE. Intraoperative blood salvage using
+cell-saving technology is a well-established method of
+recovering shed blood during cardiac procedures. The
+techniques used to harvest intraoperative shed blood
+have some risks, including bacterial contamination, but
+consensus suggests that bene ﬁts outweigh risks,
+especially in operations with anticipated large blood
+loss, including cardiac procedures. Autologous blood
+salvage in cardiac operations is a tool for perioperative
+blood conservation.
+181 Clinical studies are discordant
+regarding the bene ﬁt of RBC salvage use during and
+after cardiac operations. 182,183 However, meta-analysis
+and several observational studies suggest reduced
+need for homologous blood transfusion associated with
+intraoperative blood salvage, but no effects on
+mortality and morbidity.
+183,184
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+999
+REPORT
+[[p20]]
+REFERENCES
+PM?j?``K?b?siK?a?lrK??M?s????
+anaemia in patients undergoing cardiac surgery in the UK – the ﬁrst Asso-
+ciation of Cardiothoracic Anaesthetists national audit. Anaesthesia. 2016;71:
+627-635.
+2. Munoz M, Laso-Morales MJ, Gomez-Ramirez S, Cadellas M, Nunez-
+Matas MJ, Garcia-Erce JA. Pre-operative haemoglobin levels and iron status
+in a large multicentre cohort of patients undergoing major elective surgery.
+Anaesthesia. 2017;72:826-834 .
+3. von Heymann C, Kaufner L, Sander M, et al. Does the severity of pre-
+operative anemia or blood transfusion have a stronger impact on long-term
+survival after cardiac surgery? J Thorac Cardiovasc Surg . 2016;152:1412-
+1420.
+4. Hung M, Besser M, Sharples LD, Nair SK, Klein AA. The prevalence and
+association with transfusion, intensive care unit stay and mortality of pre-
+operative anaemia in a cohort of cardiac surgery patients. Anaesthesia.
+2011;66:812-818.
+5. Spiegelstein D, Holmes SD, Pritchard G, Halpin L, Ad N. Preoperative
+hematocrit as a predictor of perioperative morbidities following non-
+emergent coronary artery bypass surgery. J Card Surg . 2015;30:20-26 .
+6. Engoren M, Schwann TA, Habib RH, Neill SN, Vance JL, Likosky DS. The
+independent effects of anemia and transfusion on mortality after coronary
+artery bypass. Ann Thorac Surg . 2014;97:514-520 .
+7. Oprea AD, Del Rio JM, Cooter M, et al. Pre- and postoperative anemia,
+acute kidney injury, and mortality after coronary artery bypass grafting
+surgery: a retrospective observational study. Can J Anaesth . 2018;65:46-59.
+8. Dai L, Mick SL, McCrae KR, et al. Preoperative anemia in cardiac oper-
+ation: does hemoglobin tell the whole story? Ann Thorac Surg . 2018;105:
+100-107.
+9. Peters F, Eveslage M, Gallitz I, et al. Post-operative iron carboxymaltose
+may have an effect on haemoglobin levels in cardiothoracic surgical patients
+on the ICU - an observational pilot study about anaemia treatment with
+intravenous iron. Transfus Med Hemother . 2018;45:42-46 .
+10. Padmanabhan H, Siau K, Nevill AM, et al. Intravenous iron does not
+effectively correct preoperative anaemia in cardiac surgery: a pilot ran-
+domized controlled trial. Interact Cardiovasc Thorac Surg . 2019;28:447-454.
+11. Yoo YC, Shim JK, Kim JC, Jo YY, Lee JH, Kwak YL. Effect of single
+recombinant human erythropoietin injection on transfusion requirements in
+preoperatively anemic patients undergoing valvular heart surgery. Anes-
+thesiology. 2011;115:929-937 .
+12. Cladellas M, Farre N, Comin-Colet J, et al. Effects of preoperative
+intravenous erythropoietin plus iron on outcome in anemic patients after
+cardiac valve replacement. Am J Cardiol . 2012;110:1021-1026 .
+13. Kei T, Mistry N, Curley G, et al. Ef ﬁcacy and safety of erythropoietin and
+iron therapy to reduce red blood cell transfusion in surgical patients: a
+systematic review and meta-analysis. Can J Anaesth . 2019;66:716-731 .
+14. Cho BC, Serini J, Zorrilla-Vaca A, et al. Impact of preoperative eryth-
+ropoietin on allogeneic blood transfusions in surgical patients: results from a
+systematic review and meta-analysis. Anesth Analg . 2019;128:981-992 .
+15. Song YR, Lee T, You SJ, et al. Prevention of acute kidney injury by
+erythropoietin in patients undergoing coronary artery bypass grafting: a pilot
+study. Am J Nephrol . 2009;30:253-260 .
+16. Tasanarong A, Duangchana S, Sumransurp S, Homvises B,
+Satdhabudha O. Prophylaxis with erythropoietin versus placebo reduces
+acute kidney injury and neutrophil gelatinase-associated lipocalin in pa-
+tients undergoing cardiac surgery: a randomized, double-blind controlled
+trial. BMC Nephrol . 2013;14:136 .
+17. Oh SW, Chin HJ, Chae DW, Na KY. Erythropoietin improves long-term
+outcomes in patients with acute kidney injury after coronary artery bypass
+grafting. J Korean Med Sci . 2012;27:506-511 .
+18. Fisher JW. Pharmacologic modulation of erythropoietin production.
+Annu Rev Pharmacol Toxicol . 1988;28:101-122 .
+19. Beattie WS, Wijeysundera DN, Karkouti K, et al. Acute surgical anemia
+inﬂuences the cardioprotective effects of beta-blockade: a single-center,
+propensity-matched cohort study. Anesthesiology. 2010;112:25-33 .
+20. Means RT Jr. Clinical application of recombinant erythropoietin in the
+anemia of chronic disease. Hematol Oncol Clin North Am . 1994;8:933-944 .
+21. Weltert L, Rondinelli B, Bello R, et al. A single dose of erythropoietin
+reduces perioperative transfusions in cardiac surgery: results of a pro-
+spective single-blind randomized controlled trial. Transfusion. 2015;55:
+1644-1654.
+22. Weltert L, D ’Alessandro S, Nardella S, et al. Preoperative very short-
+term, high-dose erythropoietin administration diminishes blood transfusion
+rate in off-pump coronary artery bypass: a randomized blind controlled
+study. J Thorac Cardiovasc Surg . 2010;139:621-626 [discussion: 626-627] .
+23. Penny-Dimri JC, Cochrane AD, Perry LA, Smith JA. Characterising the
+role of perioperative erythropoietin for preventing acute kidney injury after
+cardiac surgery: systematic review and meta-analysis. Heart Lung Circ .
+2016;25:1067-1076.
+24. Spahn DR, Schoenrath F, Spahn GH, et al. Effect of ultra-short-term
+treatment of patients with iron de ﬁciency or anaemia undergoing cardiac
+surgery: a prospective randomised trial. Lancet. 2019;393:2201-2212 .
+25. Tezcan B, Bolukbasi D, Saylan A, et al. Effect of dilutional anemia that
+can be treated with only one unit of red blood cell transfusion on tissue
+oxygenation in cardiac surgery patients. Turk J Med Sci . 2019;49:1102-1108.
+26. Ferraris V, Saha SP, Vyas KS, Rosengart TK. Blood conservation –
+balancing risks and bene ﬁts. In: Frank SM, Waters JH, eds. Patient Blood
+Management: Multidisciplinary Approaches to Optimizing Care . Bethesda:
+aABB Press; 2016:345-370 .
+27. Ferraris VA, Hochstetler M, Martin JT, Mahan A, Saha SP. Blood
+transfusion and adverse surgical outcomes: the good and the bad. Surgery.
+2015;158:608-617.
+28. Padmanabhan H, Siau K, Curtis J, et al. Preoperative anemia and
+outcomes in cardiovascular surgery: systematic review and meta-analysis.
+Ann Thorac Surg . 2019;108:1840-1848 .
+29. Vlot EA, Verwijmeren L, van de Garde EMW, Kloppenburg GTL, van
+Dongen EPA, Noordzij PG. Intra-operative red blood cell transfusion and
+mortality after cardiac surgery. BMC Anesthesiol . 2019;19:65 .
+30. Jabagi H, Boodhwani M, Tran DT, Sun L, Wells G, Rubens FD. The
+effect of preoperative anemia on patients undergoing cardiac surgery: a
+propensity-matched analysis. Semin Thorac Cardiovasc Surg . 2019;31:157-
+163.
+31. Yanagawa B, Rocha RV, Mazine A, et al. Hemoglobin optimization for
+coronary bypass: a 10-year Canadian multicenter experience. Ann Thorac
+Surg. 2019;107:711-717 .
+32. Ayoub K, Marji M, Ogunbayo G, et al. Impact of chronic thrombocyto-
+penia on in-hospital outcomes after percutaneous coronary intervention.
+JACC Cardiovasc Interv . 2018;11:1862-1868 .
+33. Sapiano MRP, Jones JM, Savinkina AA, Haass KA, Berger JJ,
+Basavaraju SV. Supplemental ﬁndings of the 2017 National Blood Collection
+and Utilization Survey. Transfusion. 2020;60(Suppl 2):S17-S37 .
+34. Vassallo R, Goldman M, Germain M, Lozano M. Preoperative autolo-
+gous blood donation: waning indications in an era of improved blood safety.
+Transfus Med Rev . 2015;29:268-275 .
+35. Martin K, Keller E, Gertler R, Tassani P, Wiesner G. Ef ﬁciency and safety
+of preoperative autologous blood donation in cardiac surgery: a matched-
+pair analysis in 432 patients. Eur J Cardiothorac Surg . 2010;37:1396-1401 .
+36. Lim MH, Je HG, Ju MH, Lee JH, Oh HR, Kim YR. Effects of preoperative
+autologous blood donation in patients undergoing minimally invasive car-
+diac surgery. Korean J Thorac Cardiovasc Surg . 2019;52:385-391 .
+37. Zimmermann E, Zhu R, Ogami T, et al. Intraoperative autologous blood
+donation leads to fewer transfusions in cardiac surgery. Ann Thorac Surg .
+2019;108:1738-1744.
+1000
+PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p21]]
+38. Schloendorff v. Society of New York Hospital . New York Court of Ap-
+peals; 1914:92 .
+39. Cobbs v. Grant . 505: Supreme Court of California; 1972:229.
+40. Perlin TM. Clinical Medical Ethics: Cases in Practice . Boston, MA: Little
+Brown & Co; 1992 .
+41. The American College of Surgeons (ACS) Committee on Ethics. State-
+ment on Recommendations for Surgeons Caring for Patients Who Are Je-
+hovah’s Witnesses . Chicago, IL: American College of Surgeons; 2018 .
+42. Bodnaruk ZM, Wong CJ, Thomas MJ. Meeting the clinical challenge of
+care for Jehovah ’s Witnesses. Transfus Med Rev . 2004;18:105-116 .
+43. Rogers DM, Crookston KP. The approach to the patient who refuses
+blood transfusion. Transfusion. 2006;46:1471-1477 .
+44. Stowell CP, Sazama K. Informed Consent in Blood Transfusion and
+Cellular Therapies: Patients, Donors, and Research Subjects . Bethesda, MD:
+aABB Press; 2007 .
+45. Barnes GD, Lucas E, Alexander GC, Goldberger ZD. National trends in
+ambulatory oral anticoagulant use. Am J Med . 2015;128:1300-1305.e2 .
+46. Zhu J, Alexander GC, Nazarian S, Segal JB, Wu AW. Trends and vari-
+ation in oral anticoagulant choice in patients with atrial ﬁbrillation, 2010-
+2017. Pharmacotherapy. 2018;38:907-920 .
+47. Connolly SJ, Ezekowitz MD, Yusuf S, et al. Dabigatran versus warfarin
+in patients with atrial ﬁbrillation. N Engl J Med . 2009;361:1139-1151 .
+48. Patel MR, Mahaffey KW, Garg J, et al. Rivaroxaban versus warfarin in
+nonvalvular atrial ﬁbrillation. N Engl J Med . 2011;365:883-891 .
+49. Granger CB, Alexander JH, McMurray JJ, et al. Apixaban versus
+warfarin in patients with atrial ﬁbrillation. N Engl J Med . 2011;365:981-992 .
+50. Giugliano RP, Ruff CT, Braunwald E, et al. Edoxaban versus warfarin in
+patients with atrial ﬁbrillation. N Engl J Med . 2013;369:2093-2104 .
+51. Douxﬁls J, Ageno W, Samama CM, et al. Laboratory testing in patients
+treated with direct oral anticoagulants: a practical guide for clinicians.
+J Thromb Haemost . 2018;16:209-219 .
+52. Raval AN, Cigarroa JE, Chung MK, et al. Management of patients on
+non-vitamin K antagonist oral anticoagulants in the acute care and peri-
+procedural setting: a scienti ﬁ
+c statement from the American Heart Associ-
+ation. Circulation. 2017;135:e604-e633 .
+53. Gosselin RC, Adcock DM, Bates SM, et al. International Council for
+Standardization in Haematology (ICSH) recommendations for laboratory
+measurement of direct oral anticoagulants. Thromb Haemost. 2018;118:437-
+450.
+54. Erdoes G, Martinez Lopez De Arroyabe B, Bolliger D, et al. International
+consensus statement on the peri-operative management of direct oral an-
+ticoagulants in cardiac surgery. Anaesthesia. 2018;73:1535-1545 .
+55. De Caterina R, Ageno W, Agnelli G, et al. The non-vitamin K antagonist
+oral anticoagulants in heart disease: section V-special situations. Thromb
+Haemost. 2019;119:14-38 .
+56. Hassan K, Bayer N, Schlingloff F, et al. Bleeding complications after use
+of novel oral anticoagulants in patients undergoing cardiac surgery. Ann
+Thorac Surg . 2018;105:702-708 .
+57. Yu PJ, Lin D, Catalano M, et al. Impact of novel oral anticoagulants vs
+warfarin on effusions after coronary artery bypass grafting. J Card Surg .
+2019;34:419-423.
+58. Cuker A, Burnett A, Triller D, et al. Reversal of direct oral anticoagu-
+lants: guidance from the Anticoagulation Forum. Am J Hematol . 2019;94:
+697-709.
+59. Ferraris VA, Brown JR, Despotis GJ, et al. 2011 update to The Society of
+Thoracic Surgeons and the Society of Cardiovascular Anesthesiologists
+blood conservation clinical practice guidelines. Ann Thorac Surg . 2011;91:
+944-982.
+60. Sarode R, Milling TJ Jr, Refaai MA, et al. Ef ﬁcacy and safety of a 4-
+factor prothrombin complex concentrate in patients on vitamin K antago-
+nists presenting with major bleeding: a randomized, plasma-controlled,
+phase IIIb study. Circulation. 2013;128:1234-1243 .
+61. Cappabianca G, Mariscalco G, Biancari F, et al. Safety and ef ﬁcacy of
+prothrombin complex concentrate as ﬁrst-line treatment in bleeding after
+cardiac surgery. Crit Care . 2016;20:5 .
+62. Roman M, Biancari F, Ahmed AB, et al. Prothrombin complex
+concentrate in cardiac surgery: a systematic review and meta-analysis. Ann
+Thorac Surg . 2019;107:1275-1283 .
+63. Bassand JP, Hamm CW, Ardissino D, et al. Guidelines for the diagnosis
+and treatment of non-ST-segment elevation acute coronary syndromes. Eur
+Heart J . 2007;28:1598-1660 .
+64. Anderson JL, Adams CD, Antman EM, et al. ACC/AHA 2007 guidelines
+for the management of patients with unstable angina/non-ST-Elevation
+myocardial infarction: a report of the American College of Cardiology/
+American Heart Association Task Force on Practice Guidelines (Writing
+Committee to Revise the 2002 Guidelines for the Management of Patients
+With Unstable Angina/Non-ST-Elevation Myocardial Infarction) developed in
+collaboration with the American College of Emergency Physicians, the So-
+ciety for Cardiovascular Angiography and Interventions, and the Society of
+Thoracic Surgeons endorsed by the American Association of Cardiovascular
+and Pulmonary Rehabilitation and the Society for Academic Emergency
+Medicine. J Am Coll Cardiol . 2007;50:e1-e157 .
+65. Mehta SR, Yusuf S, Peters RJ, et al. Effects of pretreatment with clo-
+pidogrel and aspirin followed by long-term therapy in patients undergoing
+percutaneous coronary intervention: the PCI-CURE study. Lancet
+. 2001;358:
+527-533.
+66. Yusuf S, Zhao F, Mehta SR, Chrolavicius S, Tognoni G, Fox KK. Effects
+of clopidogrel in addition to aspirin in patients with acute coronary syn-
+dromes without ST-segment elevation. N Engl J Med . 2001;345:494-502 .
+67. Steinhubl SR, Berger PB, Mann JT 3rd, et al. Early and sustained dual
+oral antiplatelet therapy following percutaneous coronary intervention: a
+randomized controlled trial. JAMA. 2002;288:2411-2420 .
+68. Fox KA, Mehta SR, Peters R, et al. Bene ﬁts and risks of the combination
+of clopidogrel and aspirin in patients undergoing surgical revascularization
+for non-ST-elevation acute coronary syndrome: the Clopidogrel in Unstable
+angina to prevent Recurrent ischemic Events (CURE) Trial. Circulation.
+2004;110:1202-1208.
+69. Held C, Asenblad N, Bassand JP, et al. Ticagrelor versus clopidogrel in
+patients with acute coronary syndromes undergoing coronary artery bypass
+surgery: results from the PLATO (Platelet Inhibition and Patient Outcomes)
+trial. J Am Coll Cardiol . 2011;57:672-684 .
+70. Smith PK, Goodnough LT, Levy JH, et al. Mortality bene ﬁt with prasu-
+grel in the TRITON-TIMI 38 coronary artery bypass grafting cohort: risk-
+adjusted retrospective data analysis. J Am Coll Cardiol . 2012;60:388-396 .
+71. Hansson EC, Jideus L, Aberg B, et al. Coronary artery bypass grafting-
+related bleeding complications in patients treated with ticagrelor or clopi-
+dogrel: a nationwide study. Eur Heart J . 2016;37:189-197 .
+72. Tomsic A, Schotborgh MA, Manshanden JS, Li WW, de Mol BA. Cor-
+onary artery bypass grafting-related bleeding complications in patients
+treated with dual antiplatelet treatment. Eur J Cardiothorac Surg . 2016;50:
+849-856.
+73. Pickard AS, Becker RC, Schumock GT, Frye CB. Clopidogrel-associ-
+ated bleeding and related complications in patients undergoing coronary
+artery bypass grafting. Pharmacotherapy. 2008;28:376-392 .
+74. Purkayastha S, Athanasiou T, Malinovski V, et al. Does clopidogrel
+affect outcome after coronary artery bypass grafting? A meta-analysis.
+Heart. 2006;92:531-532 .
+75. Kushner FG, Hand M, Smith SC Jr, et al. 2009 focused updates: ACC/
+AHA guidelines for the management of patients with ST-elevation myocar-
+dial infarction (updating the 2004 guideline and 2007 focused update) and
+ACC/AHA/SCAI guidelines on percutaneous coronary intervention (updating
+the 2005 guideline and 2007 focused update): a report of the American
+College of Cardiology Foundation/American Heart Association Task Force
+on Practice Guidelines. J Am Coll Cardiol . 2009;54:2205-2241 .
+76. Kolh P, Windecker S, Alfonso F, et al. 2014 ESC/EACTS Guidelines on
+myocardial revascularization: the Task Force on Myocardial Revasculari-
+zation of the European Society of Cardiology (ESC) and the European As-
+sociation for Cardio-Thoracic Surgery (EACTS). Developed with the special
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+1001
+REPORT
+[[p22]]
+contribution of the European Association of Percutaneous Cardiovascular
+Interventions (EAPCI). Eur J Cardiothorac Surg . 2014;46:517-592 .
+77. Mishra PK, Thekkudan J, Sahajanandan R, et al. The role of point-of-
+care assessment of platelet function in predicting postoperative bleeding
+and transfusion requirements after coronary artery bypass grafting. Ann
+Card Anaesth . 2015;18:45-51 .
+78. Rahe-Meyer N, Winterhalter M, Boden A, et al. Platelet concentrates
+transfusion in cardiac surgery and platelet function assessment by multiple
+electrode aggregometry. Acta Anaesthesiol Scand . 2009;53:168-175 .
+79. Wallentin L. P2Y(12) inhibitors: differences in properties and mecha-
+nisms of action and potential consequences for clinical use. Eur Heart J .
+2009;30:1964-1977.
+80. Cao C, Indraratna P, Ang SC, et al. Should clopidogrel be discontinued
+before coronary artery bypass grafting for patients with acute coronary
+syndrome? A systematic review and meta-analysis. J Thorac Cardiovasc
+Surg. 2014;148:3092-3098 .
+81. Gurbel PA, Bliden KP, Butler K, et al. Randomized double-blind
+assessment of the ONSET and OFFSET of the antiplatelet effects of tica-
+grelor versus clopidogrel in patients with stable coronary artery disease: the
+ONSET/OFFSET study. Circulation. 2009;120:2577-2585 .
+82. Kremke M, Gissel MS, Jensen MJ, Thomassen SA, Jakobsen CJ. The
+association between a three-day ticagrelor discontinuation and periopera-
+tive bleeding complications. Eur J Cardiothorac Surg . 2019;55:714-720 .
+83. Valgimigli M, Bueno H, Byrne RA, et al. 2017 ESC focused update on
+dual antiplatelet therapy in coronary artery disease developed in collabo-
+ration with EACTS. Eur J Cardiothorac Surg . 2018;53:34-78 .
+84. Ouattara A, Bouzguenda H, Le Manach Y, et al. Impact of aspirin with or
+without clopidogrel on postoperative bleeding and blood transfusion in
+coronary surgical patients treated prophylactically with a low-dose of
+aprotinin. Eur Heart J . 2007;28:1025-1032 .
+85. Amour J, Garnier M, Szymezak J, et al. Prospective observational study
+of the effect of dual antiplatelet therapy with tranexamic acid treatment on
+platelet function and bleeding after cardiac surgery. Br J Anaesth . 2016;117:
+749-757.
+86. Myles PS, Smith JA, Forbes A, et al. Tranexamic acid in patients un-
+dergoing coronary-artery surgery. N Engl J Med . 2017;376:136-148 .
+87. Taghaddomi RJ, Mirzaee A, Attar AS, Shirdel A. Tranexamic acid re-
+duces blood loss in off-pump coronary artery bypass surgery.
+J Cardiothorac Vasc Anesth . 2009;23:312-315 .
+88. Esfandiari BR, Bistgani MM, Kabiri M. Low dose tranexamic acid effect
+on post-coronary artery bypass grafting bleeding. Asian Cardiovasc Thorac
+Ann. 2013;21:669-674 .
+89. Wang G, Xie G, Jiang T, et al. Tranexamic acid reduces blood loss after
+off-pump coronary surgery: a prospective, randomized, double-blind, pla-
+cebo-controlled study. Anesth Analg . 2012;115:239-243 .
+90. Raghunathan K, Connelly NR, Kanter GJ. epsilon-Aminocaproic acid
+and clinical value in cardiac anesthesia. J Cardiothorac Vasc Anesth .
+2011;25:16-19.
+91. Alizadeh Ghavidel A, Totonchi Z, Chitsazan M, et al. Safety and ef ﬁ
+cacy
+of caproamin ﬁdes and tranexamic acid versus placebo in patients under-
+going coronary artery revascularization. J Cardiovasc Thorac Res . 2014;6:
+197-202.
+92. Choudhuri P, Biswas BK. Intraoperative use of epsilon amino caproic
+acid and tranexamic acid in surgeries performed under cardiopulmonary
+bypass: a comparative study to assess their impact on reopening due to
+postoperative bleeding. Ethiop J Health Sci . 2015;25:273-278 .
+93. Keyl C, Uhl R, Beyersdorf F, et al. High-dose tranexamic acid is related
+to increased risk of generalized seizures after aortic valve replacement. Eur
+J Cardiothorac Surg . 2011;39:e114-e121 .
+94. Martin K, Knorr J, Breuer T, et al. Seizures after open heart surgery:
+comparison of epsilon-aminocaproic acid and tranexamic acid.
+J Cardiothorac Vasc Anesth . 2011;25:20-25 .
+95. Fergusson DA, H /C19ebert PC, Mazer CD, et al. A comparison of aprotinin
+and lysine analogues in high-risk cardiac surgery [published correction
+appears in N Engl J Med . 201023;363:1290]. N Engl J Med . 2008;358:2319-
+2331.
+96. Hutton B, Joseph L, Fergusson D, Mazer CD, Shapiro S, Tinmouth A.
+Risks of harms using anti ﬁbrinolytics in cardiac surgery: systematic review
+and network meta-analysis of randomised and observational studies. BMJ.
+2012;345:e5798.
+97. Henry D, Carless P, Fergusson D, Laupacis A. The safety of aprotinin
+and lysine-derived anti ﬁbrinolytic drugs in cardiac surgery: a meta-analysis.
+CMAJ. 2009;180:183-193 .
+98. McIlroy DR, Myles PS, Phillips LE, Smith JA. Anti ﬁbrinolytics in cardiac
+surgical patients receiving aspirin: a systematic review and meta-analysis.
+Br J Anaesth . 2009;102:168-178 .
+99. Ngaage DL, Bland JM. Lessons from aprotinin: is the routine use and
+inconsistent dosing of tranexamic acid prudent? Meta-analysis of rando-
+mised and large matched observational studies. Eur J Cardiothorac Surg .
+2010;37:1375-1383.
+100. Howell N, Senanayake E, Freemantle N, Pagano D. Putting the record
+straight on aprotinin as safe and effective: results from a mixed treatment
+meta-analysis of trials of aprotinin. J Thorac Cardiovasc Surg. 2013;145:234-
+240.
+101. Mansouri M, Attary M, Bagheri K, Massoumi G, Ghavami B.
+Comparative evaluation of the effects of tranexamic acid and low-dose
+aprotinin on post-valvular heart surgery bleeding and allogenic transfusion.
+Interact Cardiovasc Thorac Surg . 2012;15:23-27 .
+102. Nejad MHG, Baharestani B, Esfandiari R, Hashemi J, Panahipoor A.
+Evaluation and comparison of using low-dose aprotinin and tranexamic acid
+in CABG: a double blind randomized clinical trial. J Tehran Heart Cent .
+2012;7:15-18.
+103. Riddell RE, Buth KJ, Sullivan JA. The risks associated with aprotinin
+use: a retrospective study of cardiac cases in Nova Scotia. Can J Anaesth .
+2013;60:16-23.
+104. Deloge E, Amour J, Provench /C18
+ere S, Rozec B, Scherrer B, Ouattara A.
+Aprotinin vs. tranexamic acid in isolated coronary artery bypass surgery: a
+multicentre observational study. Eur J Anaesthesiol . 2017;34:280-287 .
+105. Lewis KM, Li Q, Jones DS, et al. Development and validation of an
+intraoperative bleeding severity scale for use in clinical studies of hemo-
+static agents. Surgery. 2017;161:771-781 .
+106. Myles PS. Meaningful outcome measures in cardiac surgery. J Extra
+Corpor Technol . 2014;46:23-27 .
+107. Genereux P, Cohen DJ, Williams MR, et al. Bleeding complications
+after surgical aortic valve replacement compared with transcatheter aortic
+valve replacement: insights from the PARTNER I Trial (Placement of Aortic
+Transcatheter Valve). J Am Coll Cardiol . 2014;63:1100-1109 .
+108. Kirmani BH, Jones SG, Malaisrie SC, Chung DA, Williams RJ. Limited
+versus full sternotomy for aortic valve replacement. Cochrane Database
+Syst Rev . 2017;4:CD011793 .
+109. Sundermann SH, Sromicki J, Rodriguez Cetina Biefer H, et al. Mitral
+valve surgery: right lateral minithoracotomy or sternotomy? A systematic
+review and meta-analysis. J Thorac Cardiovasc Surg . 2014;148:1989-1995.
+e4.
+110. Shroyer AL, Grover FL, Hattler B, et al. On-pump versus off-pump
+coronary-artery bypass surgery. N Engl J Med . 2009;361:1827-1837 .
+111. Lamy A, Devereaux PJ, Prabhakaran D, et al. Off-pump or on-pump
+coronary-artery bypass grafting at 30 days. N Engl J Med . 2012;366:1489-
+1497.
+112. Lamy A, Devereaux PJ, Prabhakaran D, et al. Five-year outcomes after
+off-pump or on-pump coronary-artery bypass grafting. N Engl J Med .
+2016;375:2359-2368.
+113. Shroyer AL, Hattler B, Grover FL. Five-year outcomes after on-pump
+and off-pump coronary-artery bypass. N Engl J Med . 2017;377:1898-1899 .
+114. Shore-Lesserson L, Baker RA, Ferraris VA, et al. The Society of
+Thoracic Surgeons, The Society of Cardiovascular Anesthesiologists, and
+The American Society of ExtraCorporeal Technology: clinical practice
+1002
+PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT
+[[p23]]
+guidelines— anticoagulation during cardiopulmonary bypass. Ann Thorac
+Surg. 2018;105:650-662 .
+115. Ak K, Isbir CS, Tetik S, et al. Thromboelastography-based transfusion
+algorithm reduces blood product use after elective CABG: a prospective
+randomized study. J Card Surg . 2009;24:404-410 .
+116. Shore-Lesserson L, Manspeizer HE, DePerio M, Francis S, Vela-
+Cantos F, Ergin MA. Thromboelastography-guided transfusion algorithm
+reduces transfusions in complex cardiac surgery. Anesth Analg . 1999;88:
+312-319.
+117. Weber CF, Gorlinger K, Meininger D, et al. Point-of-care testing: a
+prospective, randomized clinical trial of ef ﬁcacy in coagulopathic cardiac
+surgery patients. Anesthesiology. 2012;117:531-547 .
+118. Deppe AC, Weber C, Zimmermann J, et al. Point-of-care
+thromboelastography/thromboelastometry-based coagulation management
+in cardiac surgery: a meta-analysis of 8332 patients. J Surg Res . 2016;203:
+424-433.
+119. Haas T, Fries D, Tanaka KA, Asmis L, Curry NS, Schochl H. Usefulness
+of standard plasma coagulation tests in the management of perioperative
+coagulopathic bleeding: is there any evidence? Br J Anaesth . 2015;114:217-
+224.
+120. Toulon P, Ozier Y, Ankri A, Fleron MH, Leroux G, Samama CM. Point-
+of-care versus central laboratory coagulation testing during haemorrhagic
+surgery. A multicenter study. Thromb Haemost . 2009;101:394-401 .
+121. Karkouti K, McCluskey SA, Callum J, et al. Evaluation of a novel
+transfusion algorithm employing point-of-care coagulation assays in cardiac
+surgery: a retrospective cohort study with interrupted time-series analysis.
+Anesthesiology. 2015;122:560-570 .
+122. Karkouti K, Callum J, Wijeysundera DN, et al. Point-of-care hemo-
+static testing in cardiac surgery: a stepped-wedge clustered randomized
+controlled trial. Circulation. 2016;134:1152-1162 .
+123. Afshari A, Wikkelso A, Brok J, Moller AM, Wetterslev J. Thrombelas-
+tography (TEG) or thromboelastometry (ROTEM) to monitor haemotherapy
+versus usual care in patients with massive transfusion. Cochrane Database
+Syst Rev . 2011:CD007871 .
+124. Dirkmann D, Gorlinger K, Dusse F, Kottenberg E, Peters J. Early
+thromboelastometric variables reliably predict maximum clot ﬁrmness in
+patients undergoing cardiac surgery: a step towards earlier decision mak-
+ing. Acta Anaesthesiol Scand . 2013;57:594-603 .
+125. Corredor C, Wasowicz M, Karkouti K, Sharma V. The role of point-of-
+care platelet function testing in predicting postoperative bleeding following
+cardiac surgery: a systematic review and meta-analysis. Anaesthesia.
+2015;70:715-731.
+126. Lodewyks C, Heinrichs J, Grocott HP, et al. Point-of-care viscoelastic
+hemostatic testing in cardiac surgery patients: a systematic review and
+meta-analysis. Can J Anaesth . 2018;65:1333-1347 .
+127. Groves DS, Winegar DA, Fernandez LG, Huffmyer JL, Viola F. Com-
+parison of coagulation parameters in arterial and venous blood in cardiac
+surgery measured using the Quantra system. J Cardiothorac Vasc Anesth .
+2019;33:976-984.
+128. Zghaibe W, Scheuermann S, Munting K, et al. Clinical utility of the
+Quantra((R)) point-of-care haemostasis analyser during urgent cardiac sur-
+gery. Anaesthesia. 2020;75:366-373 .
+129. Goldberg J, Paugh TA, Dickinson TA, et al. Greater volume of acute
+normovolemic hemodilution may aid in reducing blood transfusions after
+cardiac surgery. Ann Thorac Surg . 2015;100:1581-1587 [discussion: 1587] .
+130. Stammers AH, Mongero LB, Tesdahl E, Stasko A, Weinstein S. The
+effectiveness of acute normolvolemic hemodilution and autologous prime
+on intraoperative blood management during cardiac surgery. Perfusion.
+2017;32:454-465.
+131. Zhou ZF, Jia XP, Sun K, et al. Mild volume acute normovolemic he-
+modilution is associated with lower intraoperative transfusion and post-
+operative pulmonary infection in patients undergoing cardiac surgery – a
+retrospective, propensity matching study. BMC Anesthesiol . 2017;17:13 .
+132. Barile L, Fominskiy E, Di Tomasso N, et al. Acute normovolemic he-
+modilution reduces allogeneic red blood cell transfusion in cardiac surgery:
+a systematic review and meta-analysis of randomized trials. Anesth Analg .
+2017;124:743-752.
+133. Saczkowski R, Bernier PL, Tchervenkov CI, Arellano R. Retrograde
+autologous priming and allogeneic blood transfusions: a meta-analysis.
+Interact Cardiovasc Thorac Surg . 2009;8:373-376 .
+134. Hofmann B, Kaufmann C, Stiller M, et al. Positive impact of retrograde
+autologous priming in adult patients undergoing cardiac surgery: a ran-
+domized clinical trial. J Cardiothorac Surg . 2018;13:50 .
+135. Cheng M, Li JQ, Wu TC, Tian WC. Short-term effects and safety
+analysis of retrograde autologous blood priming for cardiopulmonary
+bypass in patients with cardiac valve replacement surgery. Cell Biochem
+Biophys. 2015;73:441-446 .
+136. Sun BC, Dickinson TA, Tesdahl EA, Likosky DS, Wells C, Weinstein S.
+The unintended consequences of over-reducing cardiopulmonary bypass
+circuit prime volume. Ann Thorac Surg . 2017;103:1842-1848 .
+137. Dickinson TA, Wu X, Sturmer DL, et al. Net prime volume is associated
+with increased odds of blood transfusion. J Extra Corpor Technol . 2019;51:
+195-200.
+138. Anastasiadis K, Murkin J, Antonitsis P, et al. Use of minimal invasive
+extracorporeal circulation in cardiac surgery: principles, de ﬁnitions and
+potential bene ﬁts. A position paper from the Minimal invasive Extra-
+Corporeal Technologies international Society (MiECTiS). Interact Cardiovasc
+Thorac Surg . 2016;22:647-662 .
+139. Harling L, Warren OJ, Martin A, et al. Do miniaturized extracorporeal
+circuits confer signi ﬁcant clinical bene ﬁt without compromising safety? A
+meta-analysis of randomized controlled trials. ASAIO J . 2011;57:141-151 .
+140. Anastasiadis K, Antonitsis P, Haidich AB, Argiriadou H, Deliopoulos A,
+Papakonstantinou C. Use of minimal extracorporeal circulation improves
+outcome after heart surgery; a systematic review and meta-analysis of
+randomized controlled trials. Int J Cardiol . 2013;164:158-169
+.
+141. El-Essawi A, Hajek T, Skorpil J, et al. Are minimized perfusion circuits
+the better heart lung machines? Final results of a prospective randomized
+multicentre study. Perfusion. 2011;26:470-478 .
+142. Anastasiadis K, Asteriou C, Antonitsis P, et al. Enhanced recovery
+after elective coronary revascularization surgery with minimal versus con-
+ventional extracorporeal circulation: a prospective randomized study.
+J Cardiothorac Vasc Anesth . 2013;27:859-864 .
+143. Baumbach H, Rustenbach CJ, Ahad S, et al. Minimally invasive
+extracorporeal bypass in minimally invasive heart valve operations: a pro-
+spective randomized trial. Ann Thorac Surg . 2016;102:93-100 .
+144. Hajjar LA, Vincent JL, Galas FR, et al. Transfusion requirements after
+cardiac surgery: the TRACS randomized controlled trial. JAMA. 2010;304:
+1559-1567.
+145. Murphy GJ, Pike K, Rogers CA, et al. Liberal or restrictive transfusion
+after cardiac surgery [published correction appears in N Engl J Med .
+2015;372:2274]. N Engl J Med . 2015;372:997-1008 .
+146. Koch CG, Sessler DI, Mascha EJ, et al. A randomized clinical trial of
+red blood cell transfusion triggers in cardiac surgery. Ann Thorac Surg .
+2017;104:1243-1250.
+147. Shehata N, Burns LA, Nathan H, et al. A randomized controlled pilot
+study of adherence to transfusion strategies in cardiac surgery. Transfusion.
+2012;52:91-99.
+148. Mazer CD, Whitlock RP, Fergusson DA, et al. Restrictive or liberal red-
+cell transfusion for cardiac surgery. N Engl J Med . 2017;377:2133-2144 .
+149. Mueller MM, Van Remoortel H, Meybohm P, et al. Patient blood
+management: recommendations from the 2018 Frankfurt Consensus Con-
+ference. JAMA. 2019;321:983-997 .
+150. Kheiri B, Abdalla A, Osman M, et al. Restrictive versus liberal red
+blood cell transfusion for cardiac surgery: a systematic review and meta-
+analysis of randomized controlled trials. J Thromb Thrombolysis . 2019;47:
+179-185.
+151. Shehata N, Mistry N, da Costa BR, et al. Restrictive compared with
+liberal red cell transfusion strategies in cardiac surgery: a meta-analysis. Eur
+Heart J . 2019;40:1081-1088 .
+Ann Thorac Surg
+2021;112:981-1004
+TIBI ET AL PRACTICE GUIDELINE
+PATIENT BLOOD MANAGEMENT
+1003
+REPORT
+[[p24]]
+152. Chen QH, Wang HL, Liu L, Shao J, Yu J, Zheng RQ. Effects of
+restrictive red blood cell transfusion on the prognoses of adult patients
+undergoing cardiac surgery: a meta-analysis of randomized controlled trials.
+Crit Care . 2018;22:142 .
+153. Parke RL, McGuinness SP, Gilder E, McCarthy LW. Intravenous ﬂuid
+use after cardiac surgery: a multicentre, prospective, observational study.
+Crit Care Resusc . 2014;16:164-169 .
+154. Brummel-Ziedins K, Whelihan MF, Ziedins EG, Mann KG. The resus-
+citative ﬂuid you choose may potentiate bleeding. J Trauma. 2006;61:1350-
+1358.
+155. Kiraly LN, Differding JA, Enomoto TM, et al. Resuscitation with normal
+saline (NS) vs. lactated ringers (LR) modulates hypercoagulability and leads
+to increased blood loss in an uncontrolled hemorrhagic shock swine model.
+J Trauma . 2006;61:57-64 [discussion: 64-65] .
+156. Shaw AD, Bagshaw SM, Goldstein SL, et al. Major complications,
+mortality, and resource utilization after open abdominal surgery: 0.9% saline
+compared to Plasma-Lyte. Ann Surg . 2012;255:821-829 .
+157. Waters JH, Gottlieb A, Schoenwald P, Popovich MJ, Sprung J,
+Nelson DR. Normal saline versus lactated Ringer ’s solution for intraoperative
+ﬂuid management in patients undergoing abdominal aortic aneurysm repair:
+an outcome study. Anesth Analg . 2001;93:817-822 .
+158. Zhou F, Cove ME, Peng ZY, Bishop J, Singbartl K, Kellum JA. Normal
+saline resuscitation worsens lactic acidosis in experimental sepsis. Crit
+Care. 2012;16:P253 .
+159. Reddy SK, Bailey MJ, Beasley RW, et al. Effect of 0.9% saline or
+Plasma-Lyte 148 as crystalloid ﬂuid therapy in the intensive care unit on
+blood product use and postoperative bleeding after cardiac surgery.
+J Cardiothorac Vasc Anesth . 2017;31:1630-1638 .
+160. Albumin Reviewers (Alderson P, Bunn F, Li Wan Po A, et al). Human
+albumin solution for resuscitation and volume expansion in critically ill pa-
+tients. Cochrane Database Syst Rev . 2011:CD001208 .
+161. Wigmore GJ, Anstey JR, St John A, et al. 20% Human Albumin So-
+lution Fluid Bolus Administration Therapy in Patients After Cardiac Surgery
+(the HAS FLAIR Study). J Cardiothorac Vasc Anesth . 2019;33:2920-2927 .
+162. Skhirtladze K, Base EM, Lassnigg A, et al. Comparison of the effects
+of albumin 5%, hydroxyethyl starch 130/0.4 6%, and Ringer ’s lactate on
+blood loss and coagulation after cardiac surgery. Br J Anaesth . 2014;112:
+255-264.
+163. Fink RJ, Young A, Yanez ND, et al. Cohort study of albumin versus
+lactated Ringer’s for postoperative cardiac surgery ﬂuid resuscitation in the
+intensive care unit. Pharmacotherapy. 2018;38:1241-1249 .
+164. Rabin J, Meyenburg T, Lowery AV, Rouse M, Gammie JS, Herr D.
+Restricted albumin utilization is safe and cost effective in a cardiac surgery
+intensive care unit. Ann Thorac Surg . 2017;104:42-48 .
+165. Frenette AJ, Bouchard J, Bernier P, et al. Albumin administration is
+associated with acute kidney injury in cardiac surgery: a propensity score
+analysis. Crit Care . 2014;18:602 .
+166. European Medicines Agency. Hydroxyethyl-starch solutions (HES) no
+longer to be used in patients with sepsis or burn injuries or in critically ill
+patients. Amsterdam, Netherlands: EMA; 2018.
+167. Navickis RJ, Haynes GR, Wilkes MM. Effect of hydroxyethyl starch on
+bleeding after cardiopulmonary bypass: a meta-analysis of randomized tri-
+als. J Thorac Cardiovasc Surg . 2012;144:223-230 .
+168. Jacob M, Fellahi JL, Chappell D, Kurz A. The impact of hydroxyethyl
+starches in cardiac surgery: a meta-analysis. Crit Care . 2014;18:656 .
+169. Magder S, Potter BJ, Varennes BD, Doucette S, Fergusson D. Fluids
+after cardiac surgery: a pilot study of the use of colloids versus crystalloids.
+Crit Care Med . 2010;38:2117-2124 .
+170. Schramko A, Suojaranta-Ylinen R, Kuitunen A, Raivio P, Kukkonen S,
+Niemi T. Hydroxyethylstarch and gelatin solutions impair blood coagulation
+after cardiac surgery: a prospective randomized trial. Br J Anaesth .
+2010;104:691-697.
+171. Winterhalter M, Malinski P, Danzeisen O, et al. Prospective observa-
+tional study for perioperative volume replacement with 6% HES 130/0,42,
+4% gelatin and 6% HES 200/0,5 in cardiac surgery. Eur J Med Res . 2010;15:
+383-389.
+172. Myburgh JA, Finfer S, Bellomo R, et al. Hydroxyethyl starch or saline
+for ﬂuid resuscitation in intensive care. N Engl J Med . 2012;367:1901-1911 .
+173. Perner A, Haase N, Guttormsen AB, et al. Hydroxyethyl starch 130/0.
+42 versus Ringer ’s acetate in severe sepsis. N Engl J Med . 2012;367:124-
+134.
+174. Vives M, Callejas R, Duque P, et al. Modern hydroxyethyl starch and
+acute kidney injury after cardiac surgery: a prospective multicentre cohort.
+Br J Anaesth . 2016;117:458-463 .
+175. Alavi SM, Ahmadi BB, Baharestani B, Babaei T. Comparison of the
+effects of gelatin, Ringer ’s solution and a modern hydroxyl ethyl starch
+solution after coronary artery bypass graft surgery. Cardiovasc J Afr .
+2012;23:428-431.
+176. Datzmann T, Hoenicka M, Reinelt H, Liebold A, Gorki H. In ﬂuence of
+6% hydroxyethyl starch 130/0.4 versus crystalloid solution on structural
+renal damage markers after coronary artery bypass grafting: a post hoc
+subgroup analysis of a prospective trial. J Cardiothorac Vasc Anesth .
+2018;32:205-211.
+177. Momeni M, Nkoy Ena L, Van Dyck M, et al. The dose of hydroxyethyl
+starch 6% 130/0.4 for ﬂuid therapy and the incidence of acute kidney injury
+after cardiac surgery: a retrospective matched study. PloS One . 2017;12:
+e0186403.
+178. Huang D, Chen C, Ming Y, et al. Risk of massive blood product
+requirement in cardiac surgery: a large retrospective study from 2 heart
+centers. Medicine (Baltimore) . 2019;98:e14219 .
+179. Tsukinaga A, Maeda T, Takaki S, Michihata N, Ohnishi Y, Goto T.
+Relationship between fresh frozen plasma to packed red blood cell trans-
+fusion ratio and mortality in cardiovascular surgery. J Anesth . 2018;32:539-
+546.
+180. Tran A, Matar M, Lampron J, Steyerberg E, Taljaard M, Vaillancourt C.
+Early identiﬁcation of patients requiring massive transfusion, embolization or
+hemostatic surgery for traumatic hemorrhage: a systematic review and
+meta-analysis. J Trauma Acute Care Surg . 2018;84:505-516 .
+181. Sikorski RA, Rizkalla NA, Yang WW, Frank SM. Autologous blood
+salvage in the era of patient blood management. Vox Sang . 2017;112:499-
+510.
+182. Klein AA, Nashef SA, Sharples L, et al. A randomized controlled trial of
+cell salvage in routine cardiac surgery. Anesth Analg . 2008;107:1487-1495 .
+183. Vonk AB, Meesters MI, Garnier RP, et al. Intraoperative cell salvage is
+associated with reduced postoperative blood loss and transfusion re-
+quirements in cardiac surgery: a cohort study. Transfusion. 2013;53:2782-
+2789.
+184. Paparella D, Whitlock R. Safety of salvaged blood and risk of coa-
+gulopathy in cardiac surgery. Semin Thromb Hemost . 2016;42:166-171 .
+1004
+PRACTICE GUIDELINE TIBI ET AL
+PATIENT BLOOD MANAGEMENT
+Ann Thorac Surg
+2021;112:981-1004
+REPORT

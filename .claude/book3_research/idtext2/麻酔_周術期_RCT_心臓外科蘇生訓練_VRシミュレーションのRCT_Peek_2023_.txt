@@ -1,0 +1,634 @@
+
+[[p1]]
+Citation: Peek, J.J.; Max, S.A.;
+Bakhuis, W.; Huig, I.C.; Rosalia, R.A.;
+Sadeghi, A.H.; Mahtab, E.A.F. Virtual
+Reality Simulator versus
+Conventional Advanced Life Support
+Training for Cardiopulmonary
+Resuscitation Post-Cardiac Surgery:
+A Randomized Controlled Trial. J.
+Cardiovasc. Dev. Dis. 2023, 10, 67.
+https://doi.org/10.3390/
+jcdd10020067
+Academic Editor: Antonino
+S. Rubino
+Received: 6 January 2023
+Revised: 30 January 2023
+Accepted: 1 February 2023
+Published: 4 February 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Journal of
+Cardiovascular 
+Development and Disease
+Article
+Virtual Reality Simulator versus Conventional Advanced Life
+Support Training for Cardiopulmonary Resuscitation
+Post-Cardiac Surgery: A Randomized Controlled Trial
+Jette J. Peek 1,†
+ , Samuel A. Max 1,2,† , Wouter Bakhuis 1, Isabelle C. Huig 3, Rodney A. Rosalia 1,
+Amir H. Sadeghi 1,*
+ and Edris A. F. Mahtab 1,*
+1 Department of Cardiothoracic Surgery, Erasmus MC, University Medical Center Rotterdam,
+3015 GD Rotterdam, The Netherlands
+2 Medical Sciences Division, University of Oxford, Oxford OX1 2JD, UK
+3 Department of Anesthesiology, Erasmus MC, University Medical Center Rotterdam,
+3015 GD Rotterdam, The Netherlands
+* Correspondence: h.sadeghi@erasmusmc.nl (A.H.S.); e.mahtab@erasmusmc.nl (E.A.F.M.); Tel.: +31-10-704-0704
+† These authors contributed equally to this work.
+Abstract: External chest compressions are often ineffective for patients arresting after cardiac surgery,
+for whom emergency resternotomy may be required. A single-blinded randomized controlled trial
+(RCT) was performed, with participants being randomized to a virtual reality (VR) Cardiac Surgical
+Unit Advanced Life Support (CSU-ALS) simulator training arm or a conventional classroom CSU-ALS
+training arm. Twenty-eight cardiothoracic surgery (CTS) residents were included and subsequently
+assessed in a moulage scenario in groups of two, either participating as a leader or surgeon. The
+primary binary outcomes were two time targets: (1) delivering three stacked shocks within 1 min
+and (2) resternotomy within 5 min. Secondary outcomes were the number of protocol mistakes made
+and a questionnaire after the VR simulator. The conventional training group administered stacked
+shocks within 1 min in 43% (n = 6) of cases, and none in the VR group reached this target, missing
+?????QT?M?s???????POOD????G?\?PSH?
+the conventional training group and in 83% of the cases (n = 10) in the VR group. The VR group
+made 11 mistakes in total versus 15 for those who underwent conventional training. Participants
+reported that the VR simulator was useful and easy to use. The results show that the VR simulator
+can provide adequate CSU-ALS training. Moreover, VR training results in fewer mistakes suggesting
+that repetitive practice in an immersive environment improves skills.
+Keywords: cardiac surgery; cardiopulmonary resuscitation; emergency resternotomy; virtual reality;
+simulation training; manikin training; medical training; virtual reality simulation
+1. Introduction
+The cardiopulmonary resuscitation (CPR) protocol for post-cardiac surgery patients
+differs from the generic advanced life support protocol for other clinical patients [ 1–3].
+Principal differences of the Cardiac Surgical Unit Advanced Life Support (CSU-ALS)
+guidelines include the immediate delivery of three consecutive external deﬁbrillation
+shocks in case of a shockable rhythm, early pacing when asystole or severe bradycardia
+is witnessed, and decompression of tension pneumothorax, where up to a one-min delay
+in starting basic life support is permitted. Other discrepancies include early emergency
+resternotomy, which should be performed in less than 5 min if indicated, and caution
+and/or reduced doses when administering epinephrine (typically 0.1–0.25 mg instead of
+1 mg) [1,2]. Several studies have shown that training and practicing based on a structured
+protocol improve the time to recognize the need for resternotomy and the time to reopen
+the thorax [ 2,4]. External chest compressions are ineffective for most causes of cardiac
+J. Cardiovasc. Dev. Dis. 2023, 10, 67. https://doi.org/10.3390/jcdd10020067 https://www.mdpi.com/journal/jcdd
+[[p2]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 2 of 11
+arrest after cardiac surgery (e.g., hypovolemia, cardiac tamponade, tension pneumothorax).
+Consequently, emergency resternotomy within ﬁve mins reduces complications and can
+improve patient outcomes [2,4].
+Adherence and prompt progression through these guidelines have been shown to im-
+prove outcomes in patients who experience cardiac arrest after cardiac surgery and expedite
+the decision and execution of a resternotomy [2]. However, the relative infrequency of these
+events limits the exposure and impedes knowledge retention of the CSU-ALS protocol
+for CTS trainees and allied healthcare staff who care for post-cardiac surgery patients.
+Currently, the gold standard for CPR education is a certiﬁed Advanced Life Support (ALS)
+training, based on guidelines by the European Resuscitation Council (ERC) [5]. A blended
+approach is often employed for these ALS training courses, including theoretical learning
+and skills training, combining reading a manual, e-learning, presentations, or webinars
+with hands-on training such as scenario simulation with manikins and reﬂection with the
+tutor and group [5]. Knowledge and skills are then evaluated by certiﬁed instructors in a
+moulage environment. Participants are assessed on their adherence to the ALS protocol,
+after which they receive certiﬁcation. However, interactive and immersive learning envi-
+ronments that are independent of classroom facilities and ALS instructors still need to be
+made available.
+A virtual reality (VR) simulation (cardiopulmonary virtual reality simulator, CPVR-
+sim) was developed previously by our group to train physicians and members of the
+multidisciplinary team for several post-cardiac surgery CPR scenarios [6]. In this simulation,
+the user can practice scenarios repeatedly and learn the steps described within the protocol
+in a realistic, 360 degree, immersive, 3D environment without the need for other equipment
+(aside from a VR headset and controllers) or instructor-led training sessions. At present,
+this simulator’s face and content validity have been demonstrated in a feasibility study, in
+which experts and their junior colleagues alike found this training method useful, easy to
+use, and suitable as an adjunct to conventional CPR training [6]. Such gamiﬁed learning
+can be used in ALS training for applications such as self-study before an ALS course,
+in a blended learning approach, and for learning without being dependent on the time
+and location of an instructor and materials [ 5]. The ERC guidelines suggest that ALS
+skills should be taught in several distinct ways, including apportioning steps relating to
+a particular skill into a realistic simulation, explanation of theory, demonstration, and
+practicing by trainees [5]. The aforementioned teaching methods are included in the CPVR-
+sim by virtue of the step-by-step guidance, explanation of theory and protocol guidelines,
+and the unlimited hands-on practice in a realistic VR environment.
+In order to assess the concurrent validity and effectiveness of the CPVR-sim, we per-
+formed the ﬁrst randomized controlled trial (RCT) to show the utility of the CPVR-sim
+compared with the gold standard of CSU-ALS training. The goal was to impart the key
+differences between the standard ALS guidelines versus the CSU-ALS guidelines, the com-
+ponents of international guidelines, and other clinical insights regarding the management
+of post-cardiac surgery arrests [3].
+We aimed to show that participants who undergo VR training can progress through the
+CSU-ALS algorithm accurately and as quickly as participants who undertake the traditional
+training, thereby demonstrating the utility of the CPVR-sim as a replacement for current
+training protocols. This randomized trial will therefore compare the timing of predeﬁned
+clinical endpoints and technical steps, as well as the accuracy with which the algorithm is
+followed between the control group (gold standard CSU-ALS training) and the VR group
+(CPVR-sim).
+2. Methods
+The research protocol was approved by the Erasmus Medical Center Medical Ethi-
+cal Review Committee (MEC-2022-0227). The trial was registered with the International
+Standard Randomized Controlled Trial Number registry, with ID ISRCTN57122010. The
+Consolidated Standards of Reporting Trials (CONSORT) guideline was used for reporting
+[[p3]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 3 of 11
+this research, and the CONSORT ﬂowchart and checklist can both be found in the Supple-
+mentary Material S1 and S2, respectively [ 7]. This study was carried out on the 19th of
+May 2022 on a Dutch national teaching day for all cardiothoracic surgery (CTS) residents
+in training in the Netherlands.
+Participants were all CTS residents in the Netherlands who had at least 1 year of
+experience in cardiothoracic surgery and who provided informed consent. Participants
+were excluded if they were not able to partake in the conventional or VR training, or were
+not able to perform the physical assessment. They ﬁrst ﬁlled in a baseline questionnaire
+(Supplementary Materials S3) about their work experience in the ﬁeld of CTS, cardiac arrest
+in patients after cardiac surgery, and (emergency) resternotomies.
+2.1. Randomization and Blinding
+Castor Electronic Data Capture version 2022.2.2 (Ciwit B.V ., Amsterdam, the Nether-
+lands) was used for data collection and randomization. For this 1:1 non-crossover RCT, we
+used stratiﬁed block randomization with a block size of 4, distributed according to work
+experience using a binary cutoff at four years of work experience. This was performed to
+ensure the work experience in both groups was distributed equally. Participants and study
+personnel physically facilitating both trainings were not blinded during this study, as the
+apparent differences in training delivery methods of the two groups did not allow for this.
+Study personnel who facilitated the physical assessment and performed data collection
+and analysis, including the experts who assessed the video recordings, were blinded.
+2.2. Interventions
+All participants were obliged to study the materials provided before starting the
+course. These materials included: the guidelines for resuscitation of patients who arrest
+after cardiac surgery [2], a video including different scenarios for cardiac arrest after cardiac
+surgery, and a video of a resternotomy procedure. Based on reported work experience, the
+participants were randomized into two groups: the VR group or the control group.
+Participants in the VR group ﬁrst received a short (5 min) introductory brieﬁng on how
+the VR headset and controllers worked. Next, they performed the CPVR-sim simulation
+training, including three different cardiac arrest cases, encompassing each of the arms of
+the CSU-ALS guidelines. The CPVR-sim took approximately 30–45 min per participant,
+depending on their skills and experience with VR/gaming and their knowledge of the
+CSU-ALS protocol. Still images of the immersive VR training and selected pictures of
+the study activities are shown in Figure 1. Participants in the control group received
+conventional CSU-ALS training from a certiﬁed CSU-ALS instructor (Figure 1B). This
+training included a presentation of the protocol (15 min) and simulation training (45 min)
+with a resternotomy-manikin (CSU-ALS 4th generation manikin, CALS, United Kingdom).
+2.3. Study Design
+Both initial trainings (control group and VR group) were completed with a stan-
+dardized physical assessment (role play/moulage), using a resternotomy manikin. The
+assessment case was the same for all participants to facilitate a direct comparison of par-
+ticipants’ performance (Supplementary Materials S4). Before the assessment started, the
+participants were divided into pairs within the same randomization group. These pairs
+were randomly assigned to perform as either the team leader or the surgeon using closed
+envelopes [2]. Four medical students participated as nurses during the physical assess-
+ments to fulﬁll all key roles in cardiac arrest [2]. These nurses only performed tasks if they
+were instructed to do so by the team leader or surgeon, and the personnel were the same
+for all assessments.
+[[p4]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 4 of 11
+J. Cardiovasc. Dev. Dis. 2023, 10, x FOR PEER REVIEW 4 of 12 
+ 
+ 
+ 
+Figure 1. (A) Screenshots and pictures of the VR training; (B) pictures of the conventional training; 
+(C) a participant performing the assessment case using the manikin. 
+2.3. Study Design 
+Both initial trainings (control group and VR group) were completed with a standard-
+ized physical assessment (role play/moulage), using a resternotomy manikin. The assess-
+ment case was the same for all participants to facilitate a direct comparison of participants’ 
+performance (Supplementary Ma terials S4). Before the assessment started, the partici-
+pants were divided into pairs within the same randomization group. These pairs were 
+randomly assigned to perform as either the team leader or the surgeon using closed en-
+velopes [2]. Four medical students participated as nurses during the physical assessments 
+to fulfill all key roles in cardiac arrest [2]. These nurses only performed tasks if they were 
+instructed to do so by the team leader or surgeon, and the personnel were the same for all 
+assessments. 
+The physical assessments were recorded on video and a blinded independent expert 
+assessor evaluated and timed the videotapes, based on a list of key actions, according to 
+the CSU-ALS guidelines (Supplementary Materials S4) [2]. An image of the physical as-
+sessment is shown in Figure 1C. For the prim ary outcome, all participants were timed, 
+and the time was recorded at two points: (1) when the team administered the third of three 
+shocks as instructed by the team leader, and (2) when resternotomy was performed by the 
+surgeon and their assistant. 
+The guidelines state that basic life support can be postponed for one minute whilst 
+stacked shocks or pacing are performed where applicable and that resternotomy should 
+ideally be performed within five minutes [2]. Therefore, we employed a time target of one 
+minute to deliver the three stacked shocks and a time target for the resternotomy of five 
+minutes. The moment of resternotomy was defined as when the sternal retractor was 
+opened, since from that time-point onwards, th e surgeons have a full  view of the heart, 
+and a tamponade would be relieved. As seco ndary endpoints, we considered protocol 
+deviations, defined as the incorrect order of actions, missed steps, or incorrect execution 
+of an action. We also compared the time to sp ecific actions that sh ould be performed as 
+stated in the international guidelines. 
+After the assessments were completed, the groups were switched, and the VR group 
+received conventional training and vice vers a, such that eventua lly, all residents under-
+went both types of training. Finally, as a secondary endpoint, we assessed the usefulness, 
+satisfaction, and ease of use (USE) of VR training by using objective questionnaires based 
+on the standardized USE questionnaire to be filled out by all participants [8]. A flowchart 
+of the study design can be found in Figure 2. 
+Figure 1. (A) Screenshots and pictures of the VR training; (B) pictures of the conventional training;
+(C) a participant performing the assessment case using the manikin.
+The physical assessments were recorded on video and a blinded independent expert
+assessor evaluated and timed the videotapes, based on a list of key actions, according
+to the CSU-ALS guidelines (Supplementary Materials S4) [ 2]. An image of the physical
+assessment is shown in Figure 1C. For the primary outcome, all participants were timed,
+and the time was recorded at two points: (1) when the team administered the third of three
+shocks as instructed by the team leader, and (2) when resternotomy was performed by the
+surgeon and their assistant.
+The guidelines state that basic life support can be postponed for one min whilst
+stacked shocks or pacing are performed where applicable and that resternotomy should
+ideally be performed within ﬁve mins [ 2]. Therefore, we employed a time target of one
+min to deliver the three stacked shocks and a time target for the resternotomy of ﬁve
+mins. The moment of resternotomy was deﬁned as when the sternal retractor was opened,
+since from that time-point onwards, the surgeons have a full view of the heart, and a
+tamponade would be relieved. As secondary endpoints, we considered protocol deviations,
+deﬁned as the incorrect order of actions, missed steps, or incorrect execution of an action.
+We also compared the time to speciﬁc actions that should be performed as stated in the
+international guidelines.
+After the assessments were completed, the groups were switched, and the VR group
+received conventional training and vice versa, such that eventually, all residents underwent
+both types of training. Finally, as a secondary endpoint, we assessed the usefulness,
+satisfaction, and ease of use (USE) of VR training by using objective questionnaires based
+on the standardized USE questionnaire to be ﬁlled out by all participants [8]. A ﬂowchart
+of the study design can be found in Figure 2.
+2.4. Statistical Analysis
+We proposed that the two methods of training would clinically differ signiﬁcantly if
+the time taken to deliver the third shock was more than 12 s above the shock time target
+(20%) and the time to resternotomy varied by more than 30 s (10%). Therefore, with a
+power of 0.8, alpha of 0.05, and a beta of 0.2, we calculated that this study required a sample
+size of 30 participants, approximately equivalent to the total number of CTS residents in
+the Netherlands.
+[[p5]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 5 of 11
+J. Cardiovasc. Dev. Dis. 2023, 10, x FOR PEER REVIEW 5 of 12 
+ 
+ 
+ 
+Figure 2. Flowchart of the study design of this randomized control trial. 
+2.4. Statistical Analysis 
+We proposed that the two methods of training would clinically differ significantly if 
+the time taken to deliver the third shock was more than 12 s above the shock time target 
+(20%) and the time to resternotomy varied by  more than 30 s (10%). Therefore, with a 
+power of 0.8, alpha of 0.05, and a beta of 0.2, we calculated that this study required a 
+sample size of 30 participants, approximately equivalent to the total number of CTS resi-
+dents in the Netherlands. 
+IBM SPSS version 28 (IBM corp., Armonk, NY, USA) was used for analysis. Contin-
+uous data were assessed for normal distribution using a Q–Q plot and Shapiro–Wilk test. 
+Data were reported as median (IQR) or mean ± SD and compared using either an unpaired 
+t-test or the Mann–Whitney U test (whichever was appropriate according to the distribu-
+tion), which were used to determine the significance for the demographic data. Categori-
+cal variables were reported as numbers (%) and compared using a χ2 test or Fisher’s exact 
+test (whichever was appropriate according to the distribution). For the time target data, a 
+one-sample t-test was performed comparing the means of each group to the two time tar-
+gets. A p-value of <0.05 was considered statistically significant. 
+2.5. Exclusion of Outliers 
+The data were checked for equal variance amongst both groups for each time target. 
+It was found that the VR group had a variance  that was more than twice as large as the 
+control group. Further inspection, and analytical methodologies including Tukey’s Fences 
+test (1.5 interquartile range rule), Grubbs’ test, Dixon’s Q test, and visual inspection using 
+box, scatter, and Q–Q plots revealed a single data point for the resternotomy time as an 
+outlier. Video footage from this case was reviewed, and it was found that the participants 
+had not been given a complete briefing regarding the use of equipment available to them, 
+and hence were delayed in performing a rest ernotomy due to factors outside the control 
+of the participants. These plots and test valu es can be found in Supplementary material 
+S5. The outlying data point was excluded from analysis as described above. 
+Figure 2. Flowchart of the study design of this randomized control trial.
+IBM SPSS version 28 (IBM corp., Armonk, NY, USA) was used for analysis. Continuous
+data were assessed for normal distribution using a Q–Q plot and Shapiro–Wilk test. Data
+were reported as median (IQR) or mean ± SD and compared using either an unpaired t-test
+or the Mann–Whitney U test (whichever was appropriate according to the distribution),
+which were used to determine the signiﬁcance for the demographic data. Categorical
+variables were reported as numbers (%) and compared using a χ2 test or Fisher’s exact
+test (whichever was appropriate according to the distribution). For the time target data,
+a one-sample t-test was performed comparing the means of each group to the two time
+targets. A p-value of <0.05 was considered statistically signiﬁcant.
+2.5. Exclusion of Outliers
+The data were checked for equal variance amongst both groups for each time target.
+It was found that the VR group had a variance that was more than twice as large as the
+control group. Further inspection, and analytical methodologies including Tukey’s Fences
+test (1.5 interquartile range rule), Grubbs’ test, Dixon’s Q test, and visual inspection using
+box, scatter, and Q–Q plots revealed a single data point for the resternotomy time as an
+outlier. Video footage from this case was reviewed, and it was found that the participants
+had not been given a complete brieﬁng regarding the use of equipment available to them,
+and hence were delayed in performing a resternotomy due to factors outside the control of
+the participants. These plots and test values can be found in Supplementary material S5.
+The outlying data point was excluded from analysis as described above.
+3. Results
+3.1. Baseline Characteristics
+Of the 40 Dutch residents, 31 registered for the training day, provided informed
+consent, and were randomized into two groups. In total, three participants were excluded
+from the study. Two were excluded because one of them participated in the wrong training,
+resulting in a mixed VR and control group, and an additional one due to an odd number
+of participants, resulting in one assessment where the researchers assisted in the moulage
+scenario. Finally, 28 participants were included, and 14 residents were randomized to
+[[p6]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 6 of 11
+the VR group and 14 to the control group. The mean age was 31.3 ± 1.9 years and
+32.3 ± 2.4 years for the VR and control groups, respectively. The baseline characteristics for
+the two groups were comparable, as shown in Table 1. After dividing the groups into pairs
+(team leader and surgeon), there were seven pairs per group performing the assessment.
+Table 1. Table showing demographic and baseline data for participants in each group. Data are
+presented as n (%).
+Baseline Category Virtual Reality
+n = 14
+Conventional
+n = 14 p-Value
+Female, n (%) 3 21% 4 29% 0.66 *
+Age, mean ± SD 31.3 ±1.9 32.3 ±2.4 0.24 ◦
+Work experience, n (%) 1.00 †
+<4 years 8 57% 8 57%
+>4 years 6 43% 6 43%
+Experience with CPR after cardiac surgery, n (%) 0.54 †
+Never 1 7% 0 0%
+1–5 times 6 43% 7 50%
+5–10 times 7 50% 6 43%
+>10 times 0 0% 1 7%
+Experience with emergency resternotomies, n (%) 1.00 *
+Never 0 0% 0 0%
+1–5 times 11 79% 10 71%
+5–10 times 3 21% 4 29%
+>10 times 0 0% 0 0%
+Experience with emergency resternotomies for cardiac arrest, n (%) 1.00 *
+Never 0 0% 0 0%
+1–5 times 12 86% 13 93%
+5–10 times 2 14% 1 7%
+>10 times 0 0% 0 0%
+Gaming experience, n (%) 0.72 †
+Never 1 7% 2 14%
+Few times 11 79% 11 79%
+Regular use 2 14% 1 7%
+VR experience, n (%) 0.45 †
+Never 6 43% 8 57%
+Few times 8 57% 6 43%
+Regular use 0 0% 0 0%
+Experience with simulation training, n (%) 0.47 †
+Never 2 14% 1 7%
+Multiple times 11 79% 13 93%
+Certiﬁed simulation trainer 1 7% 0 0%
+Experience with digital training, n (%) 0.42 †
+Never 2 14% 5 36%
+Few times 9 64% 7 50%
+Multiple times 3 21% 2 14%
+Knowledge of international STS guidelines, n (%) 13 93% 10 71% 0.33 *
+Experience with simulation
+training in VR, n (%) 2 14% 2 14% 0.60 *
+* Fisher’s exact test, ◦ t-test, † Chi squared test.
+3.2. Primary Outcomes
+The primary outcomes were binary and based on (1) performing the third shock within
+1 min and (2) reopening the chest within 5 mins.
+Six (43%) participants were able to administer stacked shocks within 1 min after
+conventional training, whereas none of the participants in the VR group (0%) reached this
+time target (Table 2). The control group was not signiﬁcantly faster than the 1-min time
+target, but the VR group was considerably slower. The mean time to deliver the stacked
+shocks was 62.7 ± 8.9 s and 85.4 ± 17.1 s for the control and VR groups, respectively
+[[p7]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 7 of 11
+(Table 3). The resternotomy time target (resternotomy < 5 min) was reached in 100% (14) of
+the procedures in the control group and in 83% (10) of the procedures in the VR group, with
+a mean time of 211.0 ± 25.5 s and 273.0 ± 21.0 s for the control and VR groups, respectively.
+Both groups were signiﬁcantly faster than the 5-min time target.
+Table 2. Table showing the proportion of participants from each group that achieved the time targets
+for the Cardiac Surgery Unit Advanced Life Support (CSU-ALS) protocol, in addition to statistical
+comparison to the time target using a one-sample t-test. Data are presented as mean ± SD or
+median (IQR).
+Time Targets Control
+Group
+n = 14
+VR
+Group
+n = 14
+Time Target Control Groupmin VR Group
+Mean
+Difference p-Value * Mean
+Difference p-Value *
+Third shock [s]
+<1 min 6 (43%) 0 (0%) 60 2.7 0.22 25.4 0.004
+Sternal Retractor Open [s]
+<5 min 14 (100%) 10 (71%) 300 −89.0 <0.001 −27.0 0.025
+* One sample T-test versus Time Target.
+Table 3. Table shows each group’s time to deﬁned actions in the Cardiac Surgery Unit Advanced Life
+Support (CSU-ALS) algorithm. Data are presented as mean ± SD or median (IQR).
+CSU-ALS Actions Control Group VR Group
+n = 14 n = 14
+Number of deviations from protocol 2.0 (0.8–3.3) 2.0 (1.0–2.0)
+Call resus team [s] 12.0 (6.5–13.3) 18.0 (12.0–23.0)
+Call thoracic surgeon [s] 39.0 ± 35.8 93.9 ± 24.5
+Recognition of Correct Protocol [s] 9.0 (6.0–16.0) 15.0 (6.0–49.0)
+Stop all running infusions [s] 71.0 (68.0–88.0) 69 (-)
+First shock [s] 43.6 ± 7.5 65.1 ± 13.1
+Third shock [s] 62.7 ± 8.9 85.4 ± 17.1
+BLS [s] 71.1 ± 8.9 72.9 ± 39.5
+BVM Vent [s] 89.1 ± 25.5 78.0 ± 35.8
+Amiodarone given [s] 67.4 ± 31.6 93.1 ± 44.3
+Decision Resternotomy [s] 78.4 ± 11.2 116.0 ± 31.5
+Incision [s] 174.0 ± 23.2 241.0 ± 46.6
+Removal of Steel Wires [s] 192.1 ± 25.2 267.7 ± 53.7
+Sternal Retractor in Place [s] 201.0 ± 26.9 280.7 ± 55.6
+Sternal Retractor Open [s] 211.0 ± 25.5 273.0 ± 21.0
+Internal Cardiac Massage/Cleared Space for
+paddles [s] 214 (0.0–188.3) 308 (0.0–325.0)
+Internal Deﬁb [s] 239.0 (216.8–269.8) 299.0 (289.0–357.0)
+Final Rhythm Check [s] 248.0 (227.5–281.0) 318.0 (301.0–372.0)
+3.3. Secondary Outcomes
+In the VR group, the total amount of mistakes was lower than that in the control group
+(11 vs. 15 mistakes). However, the number of mistakes per patient case were comparable for
+both groups (control group 2 (0.8–3.3) versus VR group 2 (1–2)). Notably, most residents in
+both groups (57% (4) control group, 86% (6) VR group) failed to stop all running intravenous
+infusions (Table 3). Twenty-eight (100%) residents completed the USE questionnaire. Most
+participants, 76% (22) learned a lot from the CPVR-sim, and the simulation helped most
+(72%, n = 21) of the participants remember the steps required in a CPR situation. Most
+participants enjoyed the CPVR-sim (86%, n = 25), and enjoyed using VR simulations for
+learning purposes (86%, n = 25). According to the participants, the software was easy to
+use (72%, n = 21) and quick to learn (93%, n = 27), without needing written instructions
+(79%, n = 23); the results are depicted in Figure 3.
+[[p8]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 8 of 11
+J. Cardiovasc. Dev. Dis. 2023, 10, x FOR PEER REVIEW 8 of 12 
+ 
+ 
+Removal of Steel Wires [s] 192.1 ± 25.2 267.7 ± 53.7 
+Sternal Retractor in Place [s] 201.0 ± 26.9 280.7 ± 55.6 
+Sternal Retractor Open [s] 211.0 ± 25.5 273.0 ± 21.0 
+Internal Cardiac Massage/Cleared 
+Space for paddles [s] 214 (0.0–188.3) 308 (0.0–325.0) 
+Internal Defib [s] 239.0 (216.8–269.8) 299.0 (289.0–357.0) 
+Final Rhythm Check [s] 248.0 (227.5–281.0) 318.0 (301.0–372.0) 
+3.3. Secondary Outcomes 
+In the VR group, the total amount of mistakes was lower than that in the control 
+group (11 vs. 15 mistakes). However, the number of mistakes per patient case were com-
+parable for both groups (control group 2 (0.8–3.3) versus VR group 2 (1–2)). Notably, most 
+residents in both groups (57% (4) control group, 86% (6) VR group) failed to stop all run-
+ning intravenous infusions (Table 3). Twenty-eight (100%) residents completed the USE 
+questionnaire. Most participants, 76% (22) learned a lot from the CPVR-sim, and the sim-
+ulation helped most (72%, n = 21) of the participants remember the steps required in a 
+CPR situation. Most participants enjoyed the CPVR-sim (86%, n = 25), and enjoyed using 
+VR simulations for learning purposes (86%, n = 25). According to the participants, the 
+software was easy to use (72%, n = 21) and qu ick to learn (93%, n = 27), without needing 
+written instructions (79%, n = 23); the results are depicted in Figure 3. 
+ 
+Figure 3. A diverging stacked bar chart demonstrating the usefulness, satisfaction, ease of use, and
+immersiveness data from participants rating the CPVR-sim. Inconsistencies in the sum of percentages
+is due to the rounding of the percentages. CPVR-sim—cardiopulmonary resuscitation virtual reality
+simulator.
+4. Discussion
+In this randomized controlled trial, we included 28 CTS residents with more than one
+year of experience, which took place on a national training day organized by the Dutch
+association of thoracic surgery. We aimed to study the effectiveness of VR simulation
+training using the CPVR-sim, comparing it to conventional classroom CSU-ALS training in
+terms of the proportion of participants that achieved stacked shocks and resternotomy time
+targets. Previous randomized studies were performed on CPR training of laypersons using
+VR [9]. To the best of our knowledge, this was the ﬁrst randomized trial of a VR-based CPR
+simulator designed speciﬁcally for ALS after cardiac surgery.
+The primary ﬁndings were that both groups were signiﬁcantly quicker in performing
+an emergency resternotomy versus the 5-min time target. However, in the control group,
+six (43%) participants were able to deliver the three stacked shocks within 1 min, compared
+????uq?K?????????QT?M?`K?
+control group was faster in performing most actions (Table 3). However, residents in the
+VR group made fewer errors during the assessment cases, suggesting that the CPVR-sim
+[[p9]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 9 of 11
+is a powerful and robust method for learning the correct steps during CPR after cardiac
+surgery.
+We used the metric of time target to key steps, as performed in the study by Dunning
+et al. [4]. Additionally, time is a relevant metric given that the resuscitation guidelines
+emphasize that these timing targets to critical events such as shocks, BLS, and resternotomy
+ultimately improve outcomes [2]. None of the participants in the VR group were able to
+reach the shock time target, and only six participants (43%) of the control group reached
+this target. From this result, both training methods individually did not sufﬁciently prepare
+residents to administer shocks quickly enough to delay BLS for the allowed one min [2].
+Additionally, the results suggest that although the VR-trained group was generally slower
+in the physical assessment, they completed the scenario with increased accuracy. Therefore,
+a combination of both training modalities, speciﬁcally an updated version of the CPVR-sim
+with an emphasis on timings followed by ALS, may help to ameliorate this delay, combining
+the strengths of both groups.
+5. Limitations
+Despite including all of the available CTS residents in the Netherlands, this remained
+a relatively small sample size. To logistically be able to ﬁt all of the training and assessment
+cases into the single day that was assigned for us, it was necessary to divide the assessment
+cases into groups of two where one would perform the function of team leader and the
+other as the surgeon. As a result, we could not conduct a comparative analysis of the two
+groups.
+The control group was more familiar with the moulage setting than the VR group,
+who did not engage with the manikin or any of the equipment until their assessment, likely
+incurring a delay whilst becoming oriented with their surroundings. This was reﬂected in
+the low number of shock time targets achieved by the VR group versus the comparable
+number of resternotomy time targets achieved relative to the control group. Additionally,
+the control group had the opportunity to practice scenarios more than once during their
+training before the assessment, whereas the VR group only completed each scenario once.
+Future study participants should have a chance to interact with the assessment equipment
+and environment before their assessment. This is a further limitation of this study.
+6. Future Outlook
+We propose further developing the CPVR-sim by emphasizing speed in the scenarios
+and adding time limits on performing speciﬁc actions. This may accelerate the residents’
+performance, ensuring time targets are consistently reached.
+Secondly, similar standardized studies on a larger scale are required to assess residents’
+performance in a controlled and standardized manner with clearly deﬁned assessment
+criteria [10]. We therefore propose further research with a larger study population and the
+same performance metrics. This could be performed with European or international CTS
+residents.
+Other speciﬁc points of improvement of the CPVR-sim include reinforcing the concept
+that directly recharging the deﬁbrillator after the ﬁrst and second shocks saves crucial time.
+Then whilst recharging, a rhythm check can be performed concurrently, and the decision
+to give another shock can be made based on this rhythm check without wasting seconds
+waiting for the deﬁbrillator to charge. This and several other improvements based on the
+participants’ feedback on this study have already been made, and future iterations of the
+simulator aim to ameliorate these issues. Given that both training methodologies appeared
+to not result in consistently quick performance, future studies should consider whether a
+combination of VR and conventional training methodologies results in a greater number of
+time targets being achieved, in accordance with the blended learning approach suggested
+by the ERC [5]. VR has the advantage of being consistent and standardized and does not
+vary per instructor or center, whereas this is not the case for ALS training, where the content
+may vary depending on personal preference.
+[[p10]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 10 of 11
+There are unpublished cases in which the drug administration could possibly have
+led to the arrest, highlighting the importance of stopping any running infusions, as stated
+in the guidelines [2]. Since the residents did not stop the running infusions in 71% (n = 10)
+of the physical assessments, we would suggest emphasizing the importance of stopping
+the infusions during future training, both in the conventional classroom training and the
+VR simulation training.
+Finally, the literature reveals that CPR performance deteriorates after training, espe-
+cially for staff not routinely performing this procedure, which is also the case for CPR after
+cardiac surgery [11,12]. In neonatal resuscitation, it has been shown that extra simulation
+training after nine months is sufﬁcient for knowledge and skill retention [13]. Therefore,
+we suggest that CPVR simulation may be additionally and regularly used to retrain and
+repeat the training independently of a trainer and equipment.
+7. Conclusions
+To the best of our knowledge, this was the ﬁrst RCT simultaneously assessing VR
+simulation training with conventional training for CSU-ALS. Based on the results, we
+suggest focusing more on fast stacked shocks in future iterations of the VR simulator and
+further developing the simulator based on the participants’ feedback to make the product
+an even better adjunct tool to conventional training. To conclude, we have demonstrated
+that VR is an adequate additional method to sustain knowledge and skills for ALS in these
+infrequent situations.
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/jcdd10020067/s1, S1: The Consolidated Standards of Report-
+ing Trials Flowchart; S2: The Consolidated Standards of Reporting Trials Checklist. S3: Baseline
+Characteristics Questionnaire; S4: Assessment case and form; S5: Outlier detection statistics and plots.
+Author Contributions: Conceptualization, J.J.P ., S.A.M., W.B., I.C.H., R.A.R., A.H.S. and E.A.F.M.;
+methodology, J.J.P ., S.A.M., W.B., R.A.R., A.H.S. and E.A.F.M.; writing—original draft preparation
+J.J.P ., S.A.M., R.A.R., A.H.S. and E.A.F.M.; writing—review and editing, J.J.P ., S.A.M., W.B., I.C.H.,
+R.A.R., A.H.S. and E.A.F.M. All authors have read and agreed to the published version of the
+manuscript.
+Funding: This research and software development is funded by an Erasmus+ grant number 2022-
+1-NL01-KA220-HED-000087770. The CSU-ALS training day was facilitated in part by funding or
+equipment provisions from Getinge (Göteborg, Sweden), Mölnycke (Göteborg, Sweden), and QT
+Time (Houten, The Netherlands). The training day was organized in cooperation with the Dutch
+association of thoracic surgeons (NVT) juniorkamer committee. These sponsors had no role in the
+design and conduct of the study, or the collection, management, analysis, and interpretation of the
+data. They did not prepare, review, or approve this manuscript, and had no role in the decision to
+submit the manuscript for publication.
+Institutional Review Board Statement: The study was conducted in accordance with the Declaration
+of Helsinki, and approved by the Erasmus Medical Center Medical Ethical Review Committee with
+reference MEC-2022-0227, 24-03-2022.
+Informed Consent Statement: Written informed consent was obtained from all subjects involved in
+the study.
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author. The data are not publicly available due to the relatively small numbers of
+participants and their right to preserve their anonymity.
+Acknowledgments: We would like to thank the team of Distant Point, Skopje, North Macedonia,
+and in particular Ivo Matevski and Kristina Kerkez, for their collaboration and development of
+the Cardiopulmonary Resuscitation Virtual Reality Simulator software. We also want to thank the
+Dutch association of Thoracic Surgery juniorkamer committee (Akca and Vos) for providing us the
+opportunity to co-organize this training day and make this RCT possible. Next, we would like to
+thank our industrial partners (QTtime, Molnycke, Getinge group, SyncVR) for their assistance in the
+organization of and their attendance at the event. We would additionally like to thank Amza Bayat,
+[[p11]]
+J. Cardiovasc. Dev. Dis. 2023, 10, 67 11 of 11
+Huib Ruitenbeek, Marie-Claire Doornbos, Paul Nijsse, Quinten Mank, and Roan van Bakel for their
+help in facilitating the CPR training day. Finally, we would like to thank all participants for their time
+and effort to participate in this study.
+Conﬂicts of Interest: A.H.S., E.A.F.M., J.J.P ., R.A.R., S.A.M. and W.B. are co-developers of the CPVR
+software.
+References
+1. Lott, C.; Truhláˇ r, A.; Alfonzo, A.; Barelli, A.; González-Salvado, V .; Hinkelbein, J.; Nolan, J.P .; Paal, P .; Perkins, G.D.; Thies, K.C.;
+et al. European Resuscitation Council Guidelines 2021: Cardiac Arrest in Special Circumstances. Resuscitation 2021, 161, 152–219.
+[CrossRef] [PubMed]
+2. Dunning, J.; Levine, A.; Ley, J.; Strang, T.; Lizotte, D.E.; Lamarche, Y.; Bartley, T.; Zellinger, M.; Katz, N.; Arora, R.C.; et al. The
+Society of Thoracic Surgeons Expert Consensus for the Resuscitation of Patients Who Arrest After Cardiac Surgery. Ann. Thorac.
+Surg. 2017, 103, 1005–1020. [CrossRef] [PubMed]
+3. Dunning, J.; Fabbri, A.; Kolh, P .H.; Levine, A.; Lockowandt, U.; Mackay, J.; Pavie, A.J.; Strang, T.; Versteegh, M.I.M.; Nashef,
+S.A.M. Guideline for Resuscitation in Cardiac Arrest after Cardiac Surgery. Eur. J. Cardiothorac. Surg. 2009, 36, 3–28. [CrossRef]
+[PubMed]
+4. Dunning, J.; Nandi, J.; Arifﬁn, S.; Jerstice, J.; Danitsch, D.; Levine, A. The Cardiac Surgery Advanced Life Support Course (CALS):
+Delivering Signiﬁcant Improvements in Emergency Cardiothoracic Care. Ann. Thorac. Surg. 2006, 81, 1767–1772. [CrossRef]
+[PubMed]
+5. Greif, R.; Lockey, A.; Breckwoldt, J.; Carmona, F.; Conaghan, P .; Kuzovlev, A.; Pﬂanzl-Knizacek, L.; Sari, F.; Shammet, S.;
+Scapigliati, A.; et al. European Resuscitation Council Guidelines 2021: Education for Resuscitation. Resuscitation 2021, 161,
+388–407. [CrossRef] [PubMed]
+6. Sadeghi, A.H.; Peek, J.J.; Max, S.; Smit, L.L.; Martina, B.G.; Rosalia, R.A.; Bakhuis, W.; Bogers, A.J.J.; Mahtab, E.A.F. Virtual Reality
+Simulation Training for Cardiopulmonary Resuscitation after Cardiac Surgery: Face and Content Validity Study (Preprint). JMIR
+Serious Games 2021, 10, e30456. [CrossRef] [PubMed]
+7. Schulz, K.F.; Altman, D.G.; Moher, D. CONSORT 2010 Statement: Updated Guidelines for Reporting Parallel Group Randomised
+Trials. T rials2010, 11, 32. [CrossRef] [PubMed]
+8. Arnold, M. Lund Measuring Usability with the USE Questionnaire. Usability Interface 2001, 8, 3–6.
+9. Nas, J.; Thannhauser, J.; Vart, P .; Van Geuns, R.J.; Muijsers, H.E.C.; Mol, J.Q.; Aarts, G.W.A.; Konijnenberg, L.S.F.; Gommans, D.H.F.;
+Ahoud-Schoenmakers, S.G.A.M.; et al. Effect of Face-to-Face vs Virtual Reality Training on Cardiopulmonary Resuscitation
+Quality: A Randomized Clinical Trial. JAMA Cardiol. 2020, 5, 328–335. [CrossRef] [PubMed]
+10. Mäkinen, M.; Niemi-Murola, L.; Mäkelä, M.; Castren, M. Methods of Assessing Cardiopulmonary Resuscitation Skills: A
+Systematic Review. Eur. J. Emerg. Med. 2007, 14, 108–114. [CrossRef] [PubMed]
+11. Mokhtari Nori, J.; Saghaﬁnia, M.; Kalantar Motamedi, M.H.; Khademol Hosseini, S.M. CPR Training for Nurses: How Often Is It
+Necessary? Iran. Red Crescent Med. J. 2012, 14, 104–107. [PubMed]
+12. Yang, C.W.; Yen, Z.S.; McGowan, J.E.; Chen, H.C.; Chiang, W.C.; Mancini, M.E.; Soar, J.; Lai, M.S.; Ma, M.H.M. A Systematic
+Review of Retention of Adult Advanced Life Support Knowledge and Skills in Healthcare Providers. Resuscitation 2012, 83,
+1055–1060. [CrossRef] [PubMed]
+13. Bender, J.; Kennally, K.; Shields, R.; Overly, F. Does Simulation Booster Impact Retention of Resuscitation Procedural Skills and
+Teamwork? J. Perinatol. 2014, 34, 664–668. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

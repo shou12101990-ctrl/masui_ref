@@ -1,0 +1,157 @@
+
+[[p1]]
+英語 日本語 
+Tactile Stimulation for Resuscitation Immediately After 
+Birth  
+出生直後の蘇生のための皮膚刺激 
+Myra H. Wyckoff, et al., NLS TF 
+PICOST  
+• Population: Term or preterm newborn infants immediately 
+after birth with absent, intermittent, or shallow respirations 
+ 
+• Intervention: Any tactile stimulation performed within 60 
+seconds after birth and defined as 1 or more of the following: 
+rubbing the chest/sternum, rubbing the back, rubbing the soles 
+of the feet, flicking the soles of the feet, or a combination of 
+these methods. This intervention should be done in addition to 
+routine handling with measures to maintain temperature. 
+ 
+• Comparator: Routine handling with measures to maintain 
+temperature, defined as care taken soon after birth, including 
+positioning, drying, and additional thermal care 
+ 
+• Outcome: 
+A. Critical: Survival as reported by authors; 
+neurodevelopmental outcomes 
+ 
+PICOST  
+P: 出生直後に呼吸がない、断続的または浅い呼吸の正期産児または
+早産児 
+ 
+I: 出生後 60 秒以内に行われ、以下の 1 つ、あるいは 1 つ以上で定義
+される皮膚刺激：胸部/胸骨をこする、背中をこする、足の裏をこす
+る、足の裏をはじく、あるいはこれらの方法の組み合わせ．この介入
+は、体温を維持するための対策を講じた通常の対応に加えて行う必要
+がある． 
+ 
+C: 生後すぐに行われるケアとして定義されるポジショニング、乾
+燥、追加の保温ケアを含む、体温を維持するための対策を講じた通常
+の対応 
+ 
+O:  
+A． 重大なアウトカム：著者が報告した生存率；神経発達的転帰 
+ 
+ 
+[[p2]]
+B. Important: Establishment of spontaneous breathing without 
+PPV (yes or no); time to the first spontaneous breath or 
+crying from birth; time to a heart rate of ≥100 bpm from 
+birth; intraventricular hemorrhage (only in preterm infants 
+with <34 weeks’ gestation); oxygen or respiratory support 
+at admission to a neonatal special care unit or NICU; 
+admission to a neonatal special care unit or NICU for those 
+not admitted by protocol on the basis of gestational age or 
+birth weight 
+ 
+C. Potential subgroups were defined a priori: gestational age 
+(<34, 34–36 6/7, and ≥37 weeks’ gestation), cord management 
+(early cord clamping, delayed cord clamping, and cord milking), 
+clinical settings (high and low resource), and method of 
+stimulation (type, number, duration of stimuli). 
+ 
+• Study design: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+and cohort studies) were eligible for inclusion. Unpublished 
+studies (conference abstracts, trial protocols) and animal 
+studies were excluded. 
+ 
+B．重要なアウトカム：陽圧換気なしの自発呼吸の確立(有または
+無)；出生から最初の自発呼吸または啼泣までの時間；出生から心拍
+数が 100/分以上になるまでの時間．脳室内出血(在胎 34 週未満の早
+産児のみ)；新生児特別治療室または NICU 入室時の酸素投与または
+呼吸補助；在胎期間または出生体重に基づくプロトコールではない理
+由での児の新生児特別治療室または NICU への入室 
+ 
+ 
+ 
+ 
+C. サブグループはあらかじめ次のように定義した：在胎期間(在胎
+34 週未満、34 週 0 日–36 週 6 日、および 37 週以上)、臍帯管理
+(臍帯早期結紮、臍帯遅延結紮、および臍帯ミルキング)、臨床環
+境(高リソースおよび低リソース)、および刺激方法(刺激の種類、
+回数、刺激時間)． 
+ 
+ 
+S: RCT と非ランダム化研究（非 RCT, 分割時系列解析、前後比較対
+照研究、コホート研究）が採用された。未発表の研究（例：学会抄
+録、試験プロトコール）は除外した. 
+ 
+ 
+ 
+[[p3]]
+• Time frame: All years and all languages were included if 
+there was an English abstract. The literature search was first 
+done on December 6, 2020, with the final update on September 
+17, 2021. 
+T: 英語抄録がある、全ての年の、全ての言語による研究を対象とし
+た．最初の文献検索は 2020 年 12 月 6 日に実施し、2021 年 9 月 17
+日に更新した． 
+ 
+Treatment recommendations 
+We suggest that it is reasonable to apply tactile stimulation in 
+addition to routine handling with measures to maintain 
+temperature in newborn infants with absent, intermittent, or 
+shallow respirations during resuscitation immediately after 
+birth (weak recommendation, very low–certainty evidence). 
+Tactile stimulation should not delay the initiation of PPV for 
+newborn infants who continue to have absent, intermittent, or 
+shallow respirations after birth (good practice statement). 
+推奨と提案 
+出生直後の蘇生中に呼吸がない、断続的または浅い呼吸を伴う新生児
+では、体温を維持するための対策を講じた通常の対応に加えて、皮膚
+刺激を行うことは合理的であると提案する（弱い推奨、エビデンスの
+確実性：非常に低い)． 
+皮膚刺激により、出生直後に呼吸がない、断続的または浅い呼吸が続
+く新生児の陽圧換気の開始を遅らせるべきではない(優れた医療慣行
+に関する記述)． 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[[p4]]
+ 
+ 
+ 
+１． JRC の見解と解説（400-800 文字） 
+皮膚刺激は主に専門家の意見に基づいて、1999 年、2006 年、2010 年、2015 年、および 2020 年のアルゴリズム中に、新生児の安定化の
+最初のステップとして含まれている．  
+ 今回、2022 年の CoSTR で、SysRev は 2 つの観察研究を抽出したが、Baik-Schneditz らによる研究は、バイアス・リスクが極めて高いた
+め(主に適応による交絡のため)、データ解析の対象とならなかった．したがって、245 人の早産児を対象とした Dekker らの研究のみが分析
+された．この研究の非常に限られたデータからは、皮膚刺激が早産児の気管挿管の必要性を減少させる点で有益である可能性が示唆された
+が、エビデンスの確実性は非常に低かった． 
+単一施設の RCT において、出生直後の早産児を対象に、皮膚刺激の単回刺激群と反復刺激群が比較された．反復刺激群の患者は、NICU へ
+の搬送開始時の酸素飽和度が高く、酸素投与量が少なかった．また、別の単一施設の RCT において、出生時に啼泣のなかった出生体重>1500g
+の早産児および正期産児を対象に、皮膚刺激として背中をこする群と足をはじく群の二群を比較した．PPV の必要性を回避するための効果
+的な啼泣を得るうえで、2 つの手法に違いはなかった．これらの研究は皮膚刺激を受けなかった対照群がなかったため、SysRev に含まれな
+かった． 
+JRC 蘇生ガイドライン 2020 では、蘇生が必要と判断した場合に初期処置として”呼吸誘発のために皮膚刺激をする“ことを勧めていた。今
+回の ILCOR の検討で、非常に限られたデータから、皮膚刺激が早産児の気管挿管の必要性を減少させる点で有益である可能性は示唆される
+一方で、皮膚刺激による換気開始の遅延で生じうる有害事象への懸念があり、蘇生の全体的有効性を損なう可能性が示唆された．さらに、皮
+膚刺激後の軟部組織損傷についても報告されている．従って、現状では JRC 蘇生ガイドライン 2020 を変更する根拠となるエビデンスは乏し
+いと考えられる． 
+ 
+２． わが国への適応 
+・JRC 蘇生ガイドライン 2020 を変更せず、改めて提案する予定である。 
+[[p5]]
+  
+３．担当メンバー 
+担当作業部会員（五十音順）北野裕之 
+共同座長（五十音順）荒堀仁美 平川英司 
+担当編集委員（五十音順）諌山哲哉 杉浦崇浩 

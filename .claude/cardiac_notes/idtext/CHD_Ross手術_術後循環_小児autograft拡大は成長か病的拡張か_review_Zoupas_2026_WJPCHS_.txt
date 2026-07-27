@@ -1,0 +1,958 @@
+
+[[p1]]
+Autograft Enlargement After the Ross
+Procedure in Pediatric Patients: Somatic
+Growth or Pathologic Dilatation?
+Ioannis Zoupas, MD 1 , Alexander C. Mills, DO 1, Scott D. Olson, PhD 2,
+and Damien J. LaPar, MD, MSc 1
+Abstract
+Purpose of Review: Pulmonary autograft autotransplantation represents a popular surgical approach for pediatric patients
+requiring aortic valve replacement due to the potential for autograft enlargement to accommodate somatic growth.
+Nevertheless, autograft dilatation and the subsequent need for reintervention are quite common. Published data suggest that
+autograft enlargement may result from pathological passive remodeling rather than active somatic growth and vice versa. The
+present review serves to comprehensively evaluate available evidence related to the fate of the pulmonary autograft after the
+Ross procedure as it relates to the etiology, risk factors and patterns of autograft failure. Results: Studies present con ﬂicting
+results supporting both pathological dilation and active somatic growth. Primary factors impacting the successful remodeling
+of the autograft include native aortic and pulmonary valve anatomy, medical history, concomitant procedures, perioperative man-
+agement, age at the time of surgery, and the surgical technique used for the Ross procedure. Conclusion: Autograft enlargement
+after the pediatric Ross operation may result from either somatic growth or passive dilation or a combination of both factors.
+Distinguishing between the two primary etiologies of autograft enlargement depends upon meticulous patient selection and a
+surgical strategy precisely tailored to individual anatomy and risk.
+Keywords
+aortic valve replacement, Ross, pediatric, autograft, congenital
+Submitted September 9, 2025; Accepted November 9, 2025.
+Introduction
+Pediatric aortic valve replacement (AVR) remains a major sur-
+gical challenge due to the limitations of available prosthetic
+options. Mechanical valves require lifelong anticoagulation
+and are associated with thromboembolic and hemorrhagic com-
+plications, while bioprosthetic and homograft valves often
+undergo rapid degeneration and failure in the pediatric popula-
+tion.
+1–5 Additionally, limitations surrounding the availability of
+appropriately sized prostheses or valves as well as the inability
+of nonliving valves to accommodate somatic growth often
+necessitates multiple reoperations during childhood. The Ross
+procedure, autotransplantation of the pulmonary valve into
+the aortic position, addresses many of these limitations by pro-
+viding a living, autologous valve substitute capable of growth,
+adaptive remodeling, and native-like hemodynamics.
+1–3,6,7 The
+Ross autograft eliminates the need for anticoagulation and is
+thought to allow the neoaortic autograft to grow with the
+child.
+6,8–10
+Despite its advantages, the Ross procedure is not without
+limitations. Autograft dilatation and progressive aortic insuf ﬁ-
+ciency (AI) remain signi ﬁcant challenges, particularly when
+the dilation is disproportionate to somatic growth, potentially
+requiring reoperation. 7,11–14 While the pulmonary autograft is
+ideal due to its growth potential, 9,15 adverse remodeling and
+progressive dilatation may lead to severe complications such
+as neoaortic regurgitation, dissection or sinus rupture. 16,17 No
+current surgical technique for the Ross autograft reliably pre-
+vents such outcomes while preserving growth potential, 17 and
+detailed histologic studies of well-functioning autografts are
+still lacking. Thus, the biological mechanisms of adaptation
+remain poorly understood. 18 Moreover, while excellent out-
+comes have been reported in children, the neonatal Ross proce-
+dure is associated with high early mortality, and treatment of
+unreparable aortic valves in neonates remains an unresolved
+problem in congenital cardiac surgery.
+19 Although the Ross
+procedure offers survival and hemodynamic advantages over
+mechanical and bioprosthetic AVR in pediatric patients, 20–26
+1 Department of Pediatric Cardiovascular Surgery, Children ’s Heart Institute,
+Children’s Memorial Hermann Hospital, The University of T exas Health
+Science Center at Houston, Houston, TX, USA
+2 Department of Pediatric Surgery, The University of T exas Health Science
+Center at Houston, Houston, TX, USA
+Corresponding Author:
+Damien J. LaPar , Pediatric and Congenital Heart Surgery, UT Health Houston
+Children’s Heart Institute, 6414 Fannin Street, MSB 6.270, Houston, TX 77030,
+USA.
+Email: damien.j.lapar@uth.tmc.edu
+Review Article
+World Journal for Pediatric and
+Congenital Heart Surgery
+2026, Vol. 17(4) 530-538
+© The Author(s) 2026
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/21501351251400224
+journals.sagepub.com/home/pch
+[[p2]]
+its success and freedom from autograft reoperation are deemed
+to be subject to careful timing and patient selection. 27
+Whether the pulmonary autograft enlargement that occurs
+during follow-up is attributed to active somatic growth and/or
+passive dilatation remains a topic of debate. This review aims
+to comprehensively evaluate all available evidence related to
+the fate of the pulmonary autograft after the Ross procedure
+with particular attention to biomechanical characteristics, time-
+line, patterns, and risk factors for dilatation.
+Autograft Autotransplantation in the Pediatric Population
+Several studies have supported the concept that the autograft
+size increase closely reﬂects increases in body surface area, sug-
+gesting active somatic growth rather than pathological expan-
+sion.
+11,28,29 Data from multiple pediatric cohorts and
+meta-analyses show that the pulmonary autograft can increase
+in diameter concomitantly with somatic growth, particularly
+at the annulus, but that the neosinus and sinotubular junction
+(STJ) may undergo more pronounced or disproportionate dila-
+tion over time.
+11,28–30 Nevertheless, reports of autograft dilation
+without signi ﬁcant regurgitation 31,32 and variable z-score pro-
+gression at the sinus and STJ 29 highlight the heterogeneity of
+Ross outcomes in pediatric patients, in terms of success rates,
+failure patterns, and risk factors.
+Survival and freedom from autograft reintervention in pedi-
+atric Ross cohorts have been reported across a broad but
+encouraging range. Center-speci ﬁc cohorts have reported
+??????VSD??XWD
+at 10 years, depending on age, follow-up length, and surgical
+era.7,9,29,33–38 In a single-center cohort of 240 children,
+Nelson et al reported a 15-year freedom from autograft reinter-
+vention of 59%, 33 while another cohort reported 94.1% and
+74.9% freedom at 20 years for children and adolescents, respec-
+tively.
+9 Schneider et al documented a cumulative incidence of
+reoperation of 31% at 20 years in a mixed-age population. 34
+In a pooled meta-analysis of 18 studies, the estimated autograft
+reintervention rate was 19.2% (95%: 7.3%-34.5%), highlight-
+ing the variability across centers and patient populations. 32
+Neoaortic root dilatation with moderate to severe AI was the
+most common indication for autograft reoperation, accounting
+for approximately half of the reinterventions in some
+series.9,39 Given this, more recent data suggest that with selec-
+tive application of the Ross procedure, particularly in non-
+neonatal populations and with re ﬁned techniques, autograft
+failure rates may be substantially reduced, with some studies
+reporting freedom from autograft failure exceeding 90% at 5
+years and over 80% at 15 years in selected patients. 7,40,41
+According to existing literature, autograft failure is in ﬂuenced
+by age at surgery, preoperative diagnosis and anatomy, usage
+of speci ﬁc surgical techniques, and rapidness of somatic
+growth during early follow-up.
+1,5,7,9,29,31,42–44
+Preoperative Diagnosis, Anatomy, and Medical History
+Characteristics
+Among the most critical elements affecting autograft success in
+pediatric patients is the preoperative diagnosis, with primary AI
+consistently associated with reduced autograft durability and
+higher rates of dilation and reoperation compared with aortic
+stenosis (AS).
+28,44–46 Patients with AI may harbor underlying
+genetic vasculopathies, such as connective tissue disorders,
+that may impair the autograft ’s adaptive remodeling capability,
+contributing to early failure. 47 Additionally, a preoperatively
+dilated native aortic annulus ( ≥27 mm or indexed >16 mm/
+m²) and aortic to pulmonary annular diameter ratio greater
+than 30% or diameter mismatch greater than 2 mm are predic-
+tive of early autograft dilation, likely due to mechanical over-
+stress and prestretch of the autograft at implantation.
+1,18,44,48–
+50 This mismatch is particularly problematic in neonates and
+infants, who often present with congenital AS and a small
+aortic annulus juxtaposed with a relatively large pulmonary
+root.5,40,44 In particular, a native pulmonary valve diameter
+>24 mm has been identi ﬁed as a threshold above which the
+risk of autograft reoperation increases signi ﬁcantly.9 In terms
+of bicuspid aortic valve (BAV) aortopathy, while a BAV
+itself is not a direct risk factor for autograft failure, all reported
+cases of autograft dissection occurred in BAV patients, high-
+lighting the need to understand underlying mechanobiological
+vulnerability.
+16,18
+Underplaying patient-related factors have the potential to
+impact the natural history of an implanted autograft. Factors
+such as male sex and immediate postoperative hypertension
+have been associated with higher autograft dilatation
+risk.
+18,43,44 Surgical history also plays a signi ﬁcant role, includ-
+ing prior ascending aortic replacement and the need for a
+Konno annular enlargement are associated with increased auto-
+graft stress and worse outcomes. 7,20 Lastly, Marfan syndrome
+and related aortopathies represent clear contraindications for
+the Ross operation due to structural abnormalities of the pulmo-
+nary artery wall, which predispose to aneurysm and rapid dilation
+disproportional to somatic growth.
+51,52 Together, these ﬁndings
+underscore the importance of comprehensive preoperative assess-
+ment— integrating diagnosis, annular dimensions, anatomic com-
+patibility, and genetic predisposition — to optimize patient
+selection and minimize autograft-related complications.40
+Age-Dependent Outcomes of Autograft Durability
+The performance and long-term durability of the pulmonary
+autograft in pediatric patients vary signi ﬁcantly across age
+Abbreviations
+AI aortic insuf ﬁciency
+AS aortic stenosis
+AVR aortic valve replacement
+BAV bicuspid aortic valve
+MMP matrix metalloproteinase
+STJ sinotubular junction
+VIM vimentin
+Zoupas et al 531
+[[p3]]
+groups, with important distinctions seen between infants,
+younger children, and adolescents. Accumulated data have
+reported that neonates and infants generally experience better
+early autograft adaptation and durability, potentially due to
+intrinsic histologic advantages of the pulmonary root at
+younger ages, including higher proportions of immature cells,
+elastin, collagen, a closer embryologic similarity to the aortic
+root and the absence of the remodeling process that occurs
+after long exposure to the systemic circulation.
+14,53,54 As a
+result, some data suggest that infants may have lower rates of
+autograft reintervention than older children, and their autografts
+expand proportionally with somatic growth rather than under-
+going pathologic dilation.
+15,43,55,56 This result may also be
+related to the neonatal pulmonary valve ’s prior exposure to
+high pulmonary vascular resistance during embryonal life,
+which could render it more resilient to systemic pressures. 5,7
+Conversely, adolescents appear to have higher risks of autograft
+dilation and reoperation, with adolescent age at surgery being a
+signiﬁcant predictor of autograft failure. In one study, freedom
+from autograft reoperation was 94.1% in young children versus
+74.9% in adolescents at 20 years of follow-up, and adolescence
+itself was identi ﬁed as an independent risk factor (hazard ratio
+3.9, P = .032).9 One explanation for these observations may
+relate to the observations that neoaortic annular and sinus
+z-scores tend to stabilize in young children postoperatively
+but increase signi ﬁcantly in adolescents, with dilation espe-
+cially pronounced during the ﬁrst postoperative year.
+29,43,44
+However, despite the advantages of infant Ross compared
+with Ross in older children in the aforementioned studies, an
+equal representation of data suggesting a disadvantage of
+infant Ross exists as well. Infant and neonatal autograft durabil-
+ity are not uniformly superior, and several studies report lower
+freedom from reoperation in neonates and infants compared
+with older children. In a pediatric Ross cohort by Donald
+et al, the freedom from autograft reoperation rate was 61.6%
+in neonates and infants versus 82.5% in older children at 15
+years. Furthermore, this report demonstrated that age <1 year
+at the time of surgery increased the likelihood of developing
+moderate or severe postoperative AI.
+42 Other cohorts and meta-
+analyses re ﬂected this variability, reporting autograft reinter-
+vention rates between 0% and 7.5% in neonates/infants, with
+no consistent bene ﬁt from early “autograft training ” through
+neonatal pulmonary pressure exposure. 6,32 In contrast, children
+18 months to 8 years of age may represent a transitional group
+with stable annular dimensions and minimal — disproportional
+to somatic growth— sinus z-score progression, potentially offer-
+ing the best balance between remodeling capacity and
+durability.44
+Based upon the evaluation of accumulated data examining
+the impact of pediatric age on the fate of the Ross autograft
+over time, surgical strategies tailored to neonates, infants,
+older children, and adolescentsseem to be essential to improving
+long-term outcomes across the pediatric age spectrum. Current
+evidence suggests that delaying the Ross procedure until after
+infancy is beneﬁcial, and that valve repair should be pursued as
+long as possible whenever feasible.9,42,43
+Section-Speciﬁc and Timing-Related Autograft Dilatation
+Patterns
+A considerable body of evidence suggests that the most critical
+period for autograft dilation occurs within the ﬁrst postoperative
+year, with up to 60% of total dilation occurring before hospital
+discharge and a sharp increase in annular and sinus z-scores
+noted by 12 months.
+5,28,31 According to Williams et al, one
+of the largest published pediatric Ross experiences, the
+annulus and sinus experience the most signi ﬁcant expansion,
+with mean z-scores rising from baseline to 3.2 and 2.5, respec-
+tively.
+5 This rapid, passive dilation has been attributed to abrupt
+exposure of the pulmonary root to systemic pressure, particu-
+larly affecting the sinus and STJ, the latter being especially
+prone to dilatation due to its role in aortic expansion during
+systole.
+28,57 Several studies report that sinus dilation outpaces
+annular growth early on, and that the STJ is a common site of
+structural compromise leading to progressive AI. 28,31,42
+Although early z-score increases are signi ﬁcant, many groups
+describe subsequent stabilization of the autograft dimensions
+beyond the ﬁrst postoperative year, especially in younger
+patients, suggesting a transition from passive dilation to
+active, somatic, physiological growth. This actively supports
+the argument that the autograft should be “protected” through
+aggressive medical management of systemic blood pressure
+to avoid hypertension throughout the initial postoperative
+period.5,28,44,58
+Longitudinal data suggest that autograft failure due to dila-
+tion is predominantly a late event, with reoperations often
+occurring more than ﬁve years after autograft implanta-
+tion.13,27,39,59–61 While patients undergoing the Ross
+operation in infancy demonstrate early sinus dilation, this
+trend appears to plateau over 8 to 10 years, representing
+normal sizing potentially due to better adaptive remodeling.
+44,62
+Conversely, patients operated on in later childhood or adoles-
+cence experience more prolonged and pathological sinus dila-
+tion, with a steeper dilation curve within the ﬁrst ﬁve years
+post-op.
+44 Eventually, in terms of neoaortic root sections and
+somatic growth, the annulus tends to grow proportionally
+with somatic growth, while the sinus and STJ continue to
+dilate beyond physiological expectations, pointing toward
+passive mechanical stress as the underlying mechanism.
+28,30,31
+The differential remodeling of various autograft sections
+emphasizes the importance of early hemodynamic control and
+targeted reinforcement, especially of the STJ, to reduce long-
+term complications. Ultimately, while the annular z-score
+increases often parallel body growth, sinus and STJ dilation pat-
+terns are less predictable and more closely associated with auto-
+graft failure.
+28,31,42,57
+Impact of Surgical Techniques in Autograft Success Rates
+Various surgical implantation techniques have been described
+for the pulmonary autograft during the Ross procedure.
+Among described techniques, the freestanding full-root tech-
+nique, while anatomically versatile and more broadly applicable
+532 World Journal for Pediatric and Congenital Heart Surgery 17(4)
+[[p4]]
+across varying valve anatomies, is consistently associated with
+increased rates of autograft dilatation and subsequent AI, partic-
+ularly in children and adolescents. 18,39,42 Studies have shown
+that dilatation occurs almost exclusively following the root
+technique, with nonstructural degeneration, de ﬁned by wall
+dilatation >50 mm and subsequent AI, being the primary mech-
+anisms of failure.
+63 On the other hand, according to Elkins et al
+and other groups, the intra-aortic subcoronary technique is asso-
+ciated with superior long-term durability, reduced dilatation,
+and preservation of valve architecture, despite its technical
+complexity and risk of distorted lea ﬂet.
+63–67 Postexplant analy-
+ses con ﬁrm that lea ﬂets implanted via subcoronary methods
+maintain better structural integrity than those implanted
+through full-root replacements.
+53,66,68,69
+In pediatric patients, reinforcement strategies such as neo-
+aortic annular or STJ support have shown beneﬁt in limiting dis-
+proportionate dilatation, 20,42,70 yet are used cautiously in
+neonates, infants, and younger children so as not to interfere
+with somatic growth potential.32 On the other hand, for the ado-
+lescent population, where the rate of somatic growth may be less
+dramatic, root reinforcement using prosthetic or autologous
+materials, while potentially protective, must take into account
+that careful balance between overrestriction that may inhibit
+remodeling and induce atrophy as well as insuf ﬁcient support
+that may allow for pathologic dilation.
+18,71 Additional technical
+factors such as high autograft implantation (supra-annular posi-
+tioning), degree of annular support, and technique-speci ﬁc
+stress distributions all contribute to varying autograft success
+rates.
+31,32,44 Van Hoof et al also suggested that bringing the auto-
+graft suture line deeper into the left ventricular out ﬂow tract and
+beneﬁting from native ﬁbrous support created by suture lines has
+been associated with less dilation.18 Overall, a reliable reinforce-
+ment technique that actively prevents dilation, while also allow-
+ing somatic growth has yet to be discovered.
+Mechanobiological Properties of the Dilated and
+Nondilated Autograft
+Postimplantation, the mechanobiological behavior of the pul-
+monary autograft is the result of complex interactions
+between biomechanical stress and cellular adaptation. Several
+studies underscore the embryological relation between the
+aortic and pulmonary roots, suggesting the potential of the auto-
+graft to remodel into an aortic phenotype.
+48,66,72 However, the
+abrupt hemodynamic shift from low-pressure pulmonary to
+high-pressure systemic circulation triggers intense mechanical
+strain on a vessel structurally ill-equipped for such an environ-
+ment.
+48 The pulmonary root lacks the ﬁbrous annulus and ven-
+tricular support of the aortic root, originating instead from the
+thin-walled, muscular right ventricular out ﬂow tract. 73 As a
+result, the autograft is immediately subjected to relative supra-
+physiological distension, most acutely at the sinus and STJ,
+whereby higher z-scores are observed postimplantation. 20
+This distension induces a cell-mediated remodeling response
+through mechanotransduction pathways, with smooth muscle
+cells (SMC) and ﬁbroblasts sensing stress through extracellular
+matrix (ECM)-integrin interactions and initiating production of
+structural proteins, matrix m etalloproteinases (MMPs), and
+adhesion molecules. 74 The anatomical limitations of the pul-
+monary autograft, namely, its thinner wall, fewer elastic
+layers, and higher compliance, may predispose it to maladap-
+tive changes during remodeling, rather than sustained physio-
+logic adaptation.
+28,74,75
+Maladaptive remodeling in failed autografts is characterized
+by a speci ﬁc proteomic and mechanical signature distinct from
+normal pulmonary arteries or successfully functioning auto-
+grafts. Chiarini et al
+76 demonstrated that dilated Ross autografts
+exhibit upregulation of vimentin (VIM) and paxillin, markers of
+dedifferentiated and arti ﬁcial SMC phenotypes, as well as
+soluble Jagged-1 fragments and ectodysplasin-2 receptor,
+coupled with decreased levels of MAGP-1 and Notch1. This
+proteomic pro ﬁle suggests destabilization of the cytoskeleton
+and impaired elastic ﬁber assembly. Speci ﬁcally, the reduction
+in MAGP-1 implies compromised integrity of the elastic lamel-
+lae, while upregulated VIM points to a vascular injury –associ-
+ated SMC phenotype. These proteomic alterations are not
+limited to grossly dilated neoaortic roots as even moderately
+dilated autografts reveal signi ﬁcant dysregulation. 76 As a
+result, mechanically, failed autografts demonstrate increased
+compliance and decreased stiffness when tested ex vivo, com-
+pared with both native pulmonary autograft and aortic roots
+under equivalent pressures.
+77 Notably, wall stiffness did not
+correlate with patient age or duration in systemic circulation,
+reinforcing that the failure mechanism is not merely a function
+of time or growth, but of intrinsic biologic processes in response
+to pressure. Histologically, these failed roots exhibit elastic
+ﬁber fragmentation, adventitial ﬁbrosis, increased collagen dep-
+osition, and wall thickening, ﬁndings that differentiate them
+from autografts with stable dimensions.
+53,69,77,78
+While viable endothelial and interstitial cells are present in
+both successful and failed explants, 79 only the latter show fea-
+tures such as reduced stiffness, persistent ECM turnover, and
+pronounced adventitial collagen accumulation after 10 + years
+postimplantation.53,76,80 This ongoing remodeling, with ele-
+vated MMP1, MMP13, TGF- β, and myo ﬁbroblast activity,
+indicates a chronic maladaptive ﬁbrotic response rather than
+homeostatic repair, and the eventual inability to restore a
+normal homeostatic state.53,69,80 Even well-functioning autografts
+may exhibit thickened valve leaﬂets and pannus formation, signs
+of adaptation to stress that may portend future dysfunction.53,66,69
+In rare cases, long-term functioning autografts show organized
+elastic lamellae and improved microarchitecture, suggesting
+partial remodeling potential.
+66 However, most evidence points
+toward a scenario in which early passive distension, 28,31 uncor-
+rected stress burden,81 and progressive ECM degradation result
+in irreversible pathological dilation.
+This understanding reinforces the need for aggressive blood
+pressure control, especially in the early postoperative period, to
+ensure a smooth transition of the autograft to the systemic cir-
+culation and kickstart bene ﬁcial cellular remodeling,
+82 rein-
+forcement of the autograft wall, when feasible, and cautious
+patient selection for the Ross procedure in growing children.
+40
+Zoupas et al 533
+[[p5]]
+Animal Studies on Autograft Remodeling and
+Functionality
+Animal studies represent a fundamental part in Ross autograft
+research because they allow the investigation of healthy,
+nondilated pulmonary autografts after explantation, an opportu-
+nity unavailable in human patients, where tissue is typically
+retrieved only after failure. These models provide critical
+insights into the remodeling capacity of the autograft under sys-
+temic load. In ovine and porcine models of the Ross operation,
+explanted autografts demonstrated preservation of the trilayered
+valve lea ﬂet architecture and normal c ellular distribution up
+to 22 ± 2.7 months postimplantation,
+83 along with neovas-
+cularization at the lea ﬂet base and native cell populations
+in both valve and wall. 78,84 Moreover, even with transection
+of the vasa vasorum, normal vessel growth was preserved in
+isolated segments, 85 countering the hypothesis that vasa
+vasorum transection impairs remodeling. The vessel wall exhib-
+ited revascularization and partial restoration of vasa vasorum in
+both animal and human studies, suggesting that concerns about
+harvesting-related ischemia may be mitigated by intrinsic vas-
+cular ingrowth.
+66,78,80
+Remodeling features such as SMC hypertrophy, increased
+collagen content, and preserved wall microarchitecture were
+frequently observed, while valve enlargement exceeded what
+would be expected from somatic growth alone, indicating a bio-
+logically active response to mechanical load.
+84 Biaxial mechan-
+ical testing in interposition graft models revealed that some
+pulmonary arteries developed aorta-like mechanical behavior,
+while others showed vascular atrophy, highlighting heterogene-
+ity in the remodeling response.
+86,87
+External resorbable support was shown to prevent excessive
+dilation and allow growth-compatible expansion of the auto-
+graft, although overly rigid materials led to wall erosion and
+local atrophy.
+88,89 Notably, in Lewis rats with heterotopically
+implanted syngeneic pulmonary autografts, early increases in
+diameter and subsequent stiffening were observed via serial
+ultrasound and mechanical testing. Histologic analysis at two
+months revealed intimal hyperplasia and focal thinning of
+elastic lamellae, likely contributing to the increased wall rigid-
+ity.
+90 However, it remains uncertain whether new elastin pro-
+duced in adult animals meaningfully restores mechanical
+resilience, and the young age and short follow-up in animal
+models limit direct applicability to the decades-long progres-
+sion of human autograft failure.
+74 Nonetheless, these ﬁndings
+afﬁrm that the pulmonary autograft possesses an intrinsic,
+although heterogenous and limited, ability to remodel under
+systemic stress and that animal models remain indispensable
+for dissecting the early mechanobiological responses of the
+nonfailed autograft.
+Comments
+Accumulated data and general consensus suggest that the
+Ross procedure provides an advantageous and suitable inter-
+vention for pediatric patients with congenital aortic valve
+pathologies
+40,91 that require AVR when valve repair techniques
+and valve-sparing procedures may not be suitable, 29,91 as prior
+root operations are not considered a deterrent for a Ross. 92
+Moreover, many series identify a possible volume-outcome rela-
+tionship when it comes to select, higher-risk patient populations
+such as neonates and infants. 40
+With respect to the fate of the pulmonary autograft and
+potential for pathophysiologic enlargement, neoaortic root dila-
+tation and subsequent regurgitation are common but do not fre-
+quently occur before adulthood. 7 Whether this enlargement
+results principally from active somatic growth or pathologic
+dilatation, con ﬂicting evidence exists to support each theory.
+Certain data suggest that the aortic and pulmonary root, espe-
+cially in older children and adolescents, have drifted far apart
+from their common embryonal origin; hence, making the auto-
+graft unable to truly achieve mechanical homeostasis, compara-
+ble to that of a native aorta.
+18 This potential may differ in
+neonates and infants, where such divergence has yet to occur.
+Evidence has also revealed that the neoaortic annulus diameters
+tend to normalize in younger children and that autograft
+dilatation and regurgitation primarily affect older pediatric
+populations, in whom root supportive measures may be
+necessary.
+30,43 Histologic studies have demonstrated normal
+tissue viability and cellular architecture in pulmonary valves
+explanted from the aortic position, suggesting active somatic
+growth.
+93 Nevertheless, this is believed to occur concomitantly,
+at least partially, with passive dilatation, further contributing to
+the heterogeneity of existing evidence. 94
+Multiple studies have demonstrated that the Ross procedure
+in pediatric patients yields signi ﬁcantly superior results com-
+pared with mechanical, allograft, or bioprosthetic valve replace-
+ments. Large retrospective analyses and meta-analytic studies
+further indicate lower early and late mortality following the
+Ross procedure relative to both mechanical and homograft
+valves.
+91,95–99 Microsimulation studies and national registry
+analyses have con ﬁrmed that the Ross procedure in children
+and young adults achieves survival rates approaching those of
+the age-matched general population, an outcome not replicated
+with mechanical or bioprosthetic valve replacements.
+96,97,99 In
+addition, the Ross procedure is associated with signi ﬁcantly
+lower rates of thromboembolic events, major bleeding, and
+endocarditis compared with both mechanical and bioprosthetic
+valve replacements. 95,99,100 The most plausible explanation is
+the hemodynamic superiority of the Ross procedure, character-
+ized by lower residual transvalvular gradients and superior
+valve function compared with mechanical and bioprosthetic
+prostheses.
+42,95
+Lastly, in recent years, the application of fresh aortic trans-
+plantation for complex aortic valve/root congenital heart
+disease has also gained increasing attention. Reported early to
+mid-term results of this technique have demonstrated its surgi-
+cal application and reproducibility for severe truncal valve and
+aortic valve disease.
+101 While the mid- to long-term results of
+this approach and the fate of the graft have yet to be established,
+this technique may reveal itself to be an attractive surgical
+option for select patients in the future.
+534 World Journal for Pediatric and Congenital Heart Surgery 17(4)
+[[p6]]
+Conclusion
+For pediatric patients and young adults in whom all options for
+aortic valve repair have been exhausted, the Ross procedure
+remains the preferred and most physiologically appropriate
+option for AVR. Postprocedural autograft enlargement repre-
+sents a complex and multifactorial phenomenon, and ongoing
+debate persists as to whether it re ﬂects true somatic growth or
+pathological passive dilation. While the pulmonary autograft
+demonstrates growth potential, particularly at the annulus, the
+more disproportionate expansion of the sinus of Valsalva and
+STJ often suggests passive, pathophysiologic dilation. Factors
+such as preoperative AI, annular mismatch, concomitant proce-
+dures, and connective tissue disorders are key contributors to
+adverse remodeling and disproportionate dilation. On the
+other hand, the choice of the correct surgical technique for
+the corresponding age and modi ﬁcations such as external
+annular support and/or reduction, sinus and STJ external
+support and aggressive management of postoperative systemic
+hypertension all signi ﬁcantly improve long-term durability.
+Ultimately, individualized surgical planning remains essential
+in optimizing outcomes and maximizing autograft longevity.
+Declaration of Con ﬂicting Interests
+The author(s) declared no potential con ﬂicts of interest with respect to
+the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no ﬁnancial support for the research, author-
+ship, and/or publication of this article.
+ORCID iD
+Ioannis Zoupas https:/ /orcid.org/0000-0003-4077-7407
+References
+PM?a?ivK?q?lK?u?oK?q?lcK?s
+MW. The Ross-Konno procedure in children: outcomes, auto-
+graft and allograft function, and reoperations. Ann Thorac
+Surg. 2006;82(4):1301-1306.
+2. Alsou ﬁ B. Aortic valve replacement in children: options and out-
+comes. J Saudi Heart Assoc . 2014;26(1):33-41.
+3. Brown JW, Ruzmetov M, Vijay P, Rodefeld MD, Turrentine
+MW. Surgery for aortic stenosis in children: a 40-year experi-
+ence. Ann Thorac Surg . 2003;76(5):1398-1411.
+4. Maeda K, Rizal RE, Lavrsen M, et al. Midterm results of the
+modiﬁed Ross/Konno procedure in neonates and infants. Ann
+Thorac Surg. 2012;94(1):156-163.
+5. Williams IA, Quaegebeur JM, Hsu DT, et al. Ross procedure in
+infants and toddlers followed into childhood. Circulation. 2005;
+112(9_supplement):1390-1395.
+6. Aszyk P, Thiel C, Sinzobahamvya N, et al. Ross-Konno proce-
+dure in infants: mid-term results. Eur J Cardiothorac Surg.
+2012;42(4):687-694.
+7. Kallio M, Pihkala J, Sairanen H, Mattila I. Long-term results of
+the Ross procedure in a population-based follow-up. Eur J
+Cardiothorac Surg. 2015;47(5):e164-e170.
+8. Pasquali SK, Cohen MS, Shera D, Wernovsky G, Spray TL,
+Marino BS. The relationship between neo-aortic root dilation,
+insufﬁciency, and reintervention following the ross procedure
+in infants, children, and young adults. J Am Coll Cardiol .
+2007;49(17):1806-1812.
+9. Varrica A, Giamberti A, Lo Rito M, et al. Ross operation in pedi-
+atric population: impact of the surgical timing and the native pul-
+monary diameter on the outcome. Pediatr Cardiol . 2023;44(3):
+663-673.
+10. Ross Donald N. Replacement of aortic and mitral valves with a
+pulmonary autograft. Lancet. 1967;290(7523):956-958.
+11. Simon P, Aschauer C, Moidl R, et al. Growth of the pulmonary
+autograft after the Ross operation in childhood. Eur J
+Cardiothorac Surg. 2001;19(2):118-121.
+12. Elkins RC, Knott-Craig CJ, Ward KE, McCue C, Lane MM.
+Pulmonary autograft in children: realized growth potential. Ann
+Thorac Surg. 1994;57(6):1387-1394.
+13. Bansal N, Kumar SR, Baker CJ, Lemus R, Wells WJ, Starnes
+VA. Age-related outcomes of the ross procedure over 20 years.
+Ann Thorac Surg . 2015;99(6):2077-2085.
+14. Aikawa E, Whittaker P, Farber M, et al. Human semilunar
+cardiac valve remodeling by activated cells from fetus to adult.
+Circulation. 2006;113(10):1344-1352.
+15. Takkenberg JJM, Kappetein AP, van Herwerden LA,
+Witsenburg M, Osch-Gevers LV, Bogers JJC. Pediatric autograft
+aortic root replacement: a prospective follow-up study. Ann
+Thorac Surg. 2005;80(5):1628-1633.
+16. Peeters G, Arrigoni SC, Schoof P, Accord RE, Mariani MA.
+Acute type A dissection 18 years after a Ross operation: the
+old prejudice. Ann Thorac Surg . 2019;107(4):e255-e257.
+17. Elkins RC, Thompson DM, Lane MM, Elkins CC, Peyton MD.
+Ross operation: 16-year experience. J Thorac Cardiovasc Surg .
+2008;136(3):623-630.e5.
+18. Van Hoof L, Verbrugghe P, Jones EAV, et al. Understanding
+pulmonary autograft remodeling after the Ross procedure: stick
+to the facts. Front Cardiovasc Med . 2022;9. doi:3389/fcvm.
+2022.829120
+19. Rajab TK, Zorrilla-Vaca A, Kavarana MN, Mokashi S,
+Sainathan S. Ross operation in neonates: a meta-analysis. Ann
+Thorac Surg. 2022;113(1):192-198.
+20. Bové T, Bradt N, Martens T, et al. The pulmonary autograft after
+the Ross operation: results of 25-year follow-up in a pediatric
+cohort. Ann Thorac Surg
+. 2021;111(1):159-167.
+21. Etnel JRG, Grashuis P, Huygens SA, et al. The Ross procedure: a
+systematic review, meta-analysis, and microsimulation. Circ
+Cardiovasc Qual Outcomes . 2018;11(12):e004748. doi:10.
+1161/CIRCOUTCOMES.118.004748
+QQM?l?dK?k?bK?i?eK??M?l??QT???L
+rience with the Ross procedure in children: a single-center expe-
+rience. Ann Thorac Surg . 2020;110(2):638-644.
+23. Etnel JRG, Elmont LC, Ertekin E, et al. Outcome after aortic
+valve replacement in children: a systematic review and meta-
+analysis. J Thorac Cardiovasc Surg . 2016;151(1):143-152.e3.
+24. Alsou ﬁ B, Al-Halees Z, Manlhiot C, et al. Superior results fol-
+lowing the Ross procedure in patients with congenital heart
+disease. J Heart Valve Dis . 2010;19(3):269-277. discussion 278.
+25. Hraska V, Krajci M, Haun C, et al. Ross and Ross-Konno proce-
+dure in children and adolescents: mid-term results. Eur J
+Cardiothorac Surg. 2004;25(5):742-747.
+26. El-Hamamsy I, Eryigit Z, Stevens LM, et al. Long-term out-
+comes after autograft versus homograft aortic root replacement
+Zoupas et al 535
+[[p7]]
+in adults with aortic valve disease: a randomised controlled trial.
+Lancet. 2010;376(9740):524-531.
+27. de Kerchove L, Boodhwani M, Etienne PY, et al. Preservation of
+the pulmonary autograft after failure of the Ross procedure⋆. Eur
+J Cardiothorac Surg. 2010;38(3):326-332.
+28. Solymar L, Südow G, Holmgren D. Increase in size of the pul-
+monary autograft after the ross operation in children: growth or
+dilation? J Thorac Cardiovasc Surg . 2000;119(1):4-9.
+29. Hazekamp M, Grotenhuis H, Schoof P, Rijlaarsdam M,
+Ottenkamp J, Dion R. Results of the Ross operation in a pedi-
+atric population. Eur J Cardiothorac Surg. 2005;27(6):
+975-979.
+30. Hörer J, Hanke T, Stierle U, et al. Neoaortic root diameters and
+aortic regurgitation in children after the Ross operation. Ann
+Thorac Surg. 2009;88(2):594-600.
+31. Solowiejczyk DE, Bourlon F, Apfel HD, et al. Serial echocardio-
+graphic measurements of the pulmonary autograft in the aortic
+valve position after the ross operation in a pediatric population
+using normal pulmonary artery dimensions as the reference stan-
+dard. Am J Cardiol . 2000;85(9):1119-1123.
+32. Tohme S, Jiang S, Farooqi K, et al. Ross procedure in neonate
+and infant populations: a meta-analysis review. World J
+Pediatr Congenit Heart Surg . 2022;13(6):759-769.
+33. Nelson JS, Pasquali SK, Pratt CN, et al. Long-term survival and
+reintervention after the ross procedure across the pediatric age
+spectrum. Ann Thorac Surg . 2015;99(6):2086-2095.
+34. Schneider AW, Putter H, Klautz RJ.M, et al. Long-term follow-
+up after the Ross procedure: a single center 22-year experience.
+Ann Thorac Surg . 2017;103(6):1976-1983. doi:10.1016/j.
+athoracsur.2016.11.064
+35. Elder RW, Quaegebeur JM, Bacha EA, Chen JM, Bourlon F,
+Williams IA. Outcomes of the infant Ross procedure for congen-
+ital aortic stenosis followed into adolescence. J Thorac
+Cardiovasc Surg. 2013;145(6):1504-1511.
+36. Mookhoek A, Charitos EI, Hazekamp MG, et al. Ross procedure
+in neonates and infants: a European multicenter experience. Ann
+Thorac Surg. 2015;100(6):2278-2284.
+37. Tan Tanny SP, Yong MS, d ’Udekem Y, et al. Ross procedure in
+children: 17-year experience at a single institution. J Am Heart
+Assoc. 2013;2(2). doi:10.1161/JAHA.113.000153
+38. Brancaccio G, Polito A, Hoxha S, et al. The Ross procedure in
+patients aged less than 18 years: the midterm results. J Thorac
+Cardiovasc Surg. 2014;147(1):383-388.
+39. Ruzmetov M, Welke KF, Geiss DM, Buckley K, Fortuna RS.
+Failed autograft after the ross procedure in children: management
+and outcome. Ann Thorac Surg . 2014;98(1):112-118.
+40. Morales DLS, Carberry KE, Balentine C, Heinle JS, McKenzie
+ED, Fraser CD. Selective application of the pediatric Ross proce-
+dure minimizes autograft failure. Congenit Heart Dis. 2008;3(6):
+404-410.
+41. Yoon DW, Yang JH, Jun TG, Park PW. The Ross procedure in
+pediatric patients: a 20-year experience of Ross procedure in a
+single institution. Korean J Thorac Cardiovasc Surg . 2017;
+50(4):235-241.
+42. Donald JS, Wallace FRO, Naimo PS, et al. Ross operation in
+children: 23-year experience from a single institution. Ann
+Thorac Surg. 2020;109(4):1251-1259.
+43. Hörer J, Kasnar-Samprec J, Charitos E, et al. Patient age at the
+Ross operation in children in ﬂuences aortic root dimensions
+and aortic regurgitation. World J Pediatr Congenit Heart Surg .
+2013;4(3):245-252.
+44. Nguyen SN, Bouhout I, Singh S, et al. Long-term autograft dila-
+tion and durability after the Ross procedure are similar in infants,
+children, and adolescents with primary aortic stenosis. J Thorac
+Cardiovasc Surg
+. 2024;168(4):1182-1191.e3.
+45. Laudito A, Brook MM, Suleman S, et al. The Ross procedure in
+children and young adults: a word of caution. J Thorac
+Cardiovasc Surg. 2001;122(1):147-153.
+46. Alsou ﬁ B, Manlhiot C, Fadel B, et al. The ross procedure in chil-
+dren: preoperative haemodynamic manifestation has signi ﬁcant
+effect on late autograft re-operation. Eur J Cardiothorac Surg.
+2010;38(5):547-555.
+47. Mazine A, El-Hamamsy I. The Ross procedure is an excellent
+operation in non-repairable aortic regurgitation: insights and
+techniques. Ann Cardiothorac Surg . 2021;10(4):463-475.
+48. Mazine A, El-Hamamsy I, Verma S, et al. Ross procedure in
+adults for cardiologists and cardiac surgeons. J Am Coll
+Cardiol. 2018;72(22):2761-2777.
+49. David TE, Omran A, Webb G, Rakowski H, Armstrong S, Sun Z.
+Geometric mismatch of the aortic and pulmonary roots causes
+aortic insuf ﬁciency after the Ross procedure. J Thorac
+Cardiovasc Surg. 1996;112(5):1231-1239.
+50. Reddy VM, McElhinney DB, Phoon CK, Brook MM, Hanley
+FL. Geometric mismatch of pulmonary and aortic anuli in chil-
+dren undergoing the Ross procedure: implications for surgical
+management and autograft valve function. J Thorac
+Cardiovasc Surg. 1998;115(6):1255-1263.
+51. Chiu P, Irons M, van de Rijn M, Liang David H, Miller DC.
+Giant pulmonary artery aneurysm in a patient with Marfan syn-
+drome and pulmonary hypertension. Circulation. 2016;133(12):
+1218-1221.
+52. Sheikhzadeh S, De Backer J, Gorgan NR, et al. The main pulmo-
+nary artery in adults: a controlled multicenter study with assess-
+ment of echocardiographic reference values, and the frequency of
+dilatation and aneurysm in Marfan syndrome. Orphanet J Rare
+Dis. 2014;9(1):203. doi:10.1186/s.13023-014-0203-8
+53. Rabkin-Aikawa E, Aikawa M, Farber M, et al. Clinical pulmo-
+nary autograft valves: pathologic evidence of adaptive remodel-
+ing in the aortic site. J Thorac Cardiovasc Surg . 2004;128(4):
+552-561.
+54. Lo Rito M, Davies B, Brawn WJ, et al. Comparison of the Ross/
+Ross-Konno aortic root in children before and after the age of 18
+months. Eur J Cardiothorac Surg. 2014;46(3):450-457.
+55. Shinkawa T, Bove EL, Hirsch JC, Devaney EJ, Ohye RG.
+Intermediate-term results of the Ross procedure in neonates
+and infants. Ann Thorac Surg . 2010;89(6):1827-1832.
+56. Frigiola A, Varrica A, Satriano A, et al. Neoaortic valve and root
+complex evolution after Ross operation in infants, children, and
+adolescents. Ann Thorac Surg . 2010;90(4):1278-1285.
+57. Lansac E. Aortic and pulmonary root: are their dynamics similar?
+Eur J Cardiothorac Surg. 2002;21(2):268-275.
+58. Ohye RG, Gomez CA, Ohye BJ, Goldberg CS, Bove EL. The
+Ross/Konno procedure in neonates and infants: intermediate-
+term survival and autograft function. Ann Thorac Surg . 2001;
+72(3):823-830.
+59. David TE, Omran A, Ivanov J, et al. Dilation of the pulmonary
+autograft after the Ross procedure. J Thorac Cardiovasc Surg .
+2000;119(2):210-220.
+60. Elkins RC, Lane MM, McCue C. Pu lmonary autograft reoperation:
+incidence and management.Ann Thorac Surg. 1996;62(2):450-455.
+61. Luciani GB, Lucchese G, De Rita F, Puppini G, Faggian G,
+Mazzucco A. Reparative surgery of the pulmonary autograft:
+536 World Journal for Pediatric and Congenital Heart Surgery 17(4)
+[[p8]]
+experience with Ross reoperations. Eur J Cardiothorac Surg.
+2012;41(6):1309-1315.
+62. Pradegan N, Castaldi B, Azzolina D, Stellin G, Vida VL.
+Long-term fate of the neoaortic root after neonatal Ross opera-
+tion: a case series. World J Pediatr Congenit Heart Surg .
+2019;10(3):364-366.
+63. Martin E, Mohammadi S, Jacques F, et al. Clinical outcomes fol-
+lowing the Ross procedure in adults. J Am Coll Cardiol . 2017;
+70(15):1890-1899.
+64. Sievers HH, Stierle U, Petersen M, et al. Valve performance clas-
+siﬁcation in 630 subcoronary ross patients over 22 years. J
+Thorac Cardiovasc Surg . 2018;156(1):79-86.e2.
+65. Skillington PD, Mokhles MM, Takkenberg JJM, et al. The ross
+procedure using autologous support of the pulmonary autograft:
+techniques and late results. J Thorac Cardiovasc Surg . 2015;
+149(2):S46-S52.
+66. Yacoub MH, Tsang V, Sarathchandra P, Jensen H, Hughes S,
+Latif N. Long-term adaptive versus maladaptive remodelling of
+the pulmonary autograft after the Ross operation. Eur J
+Cardiothorac Surg. 2020;57(5):977-985.
+67. Elkins RC, Lane MM, McCue C. Ross operation in children: late
+results. J Heart Valve Dis . 2001;10(6):736-741.
+68. Gof ﬁn YA, Narine KR, Alexander JP, Van Goethem J, Daenen
+WJ. Histopathologic comparison of a pulmonary autograft and
+pulmonary homograft in a patient 17 months after a Ross proce-
+dure: an autopsy study. J Heart Valve Dis. 1998;7(3):327-330.
+69. Mookhoek A, de Heer E, Bogers AJJC, Takkenberg JJM, Schoof
+PH. Pulmonary autograft valve explants show typical degenera-
+tion. J Thorac Cardiovasc Surg . 2010;139(6):1416-1419.
+70. Black MD, van Son JAM, Hanley FL. Modi ﬁed pulmonary auto-
+graft aortic root replacement: the sinus obliteration technique.
+Ann Thorac Surg . 1995;60(5):1434-1436.
+71. Starnes VA. Stabilization of the annulus through a supported ross
+technique is redemonstrated as bene ﬁcial to older patients but
+should be used cautiously in the pediatric population. Ann
+Thorac Surg. 2023;115(2):460-461.
+72. Al-Shammari H, Latif N, Sarathchandra P, et al. Expression and
+function of mechanosensitive ion channels in human valve inter-
+stitial cells. PLoS One . 2020;15(10):e0240532. doi:10.1371/
+journal.pone.0240532
+73. Hokken RB, Bartelings MM, Bogers AJJC, Gittenberger-de
+Groot AC. Morphology of the pulmonary and aortic roots with
+regard to the pulmonary autograft procedure. J Thorac
+Cardiovasc Surg. 1997;113(3):453-461.
+74. Humphrey JD, Dufresne ER, Schwartz MA. Mechanotransduction
+and extracellular matrix homeostasis.N a tR e vM o lC e l lB i o l. 2014;
+15(12):802-812.
+75. Gorczynski A, Trenkner M, Anisimowicz L, et al. Biomechanics
+of the pulmonary autograft valve in the aortic position. Thorax.
+1982;37(7):535-539.
+76. Chiarini A, Dal Prà I, Faggian G, Armato U, Luciani GB.
+Maladaptive remodeling of pulmonary artery root autografts
+after Ross procedure: a proteomic study. J Thorac Cardiovasc
+Surg. 2020;159(2):621-632.e3.
+77. Mookhoek A, Krishnan K, Chitsaz S, et al. Biomechanics of
+failed pulmonary autografts compared to native aortic roots.
+Ann Thorac Surg . 2017;103(5):1482-1488.
+78. Schoof PH, Gittenberger-de Groot AC, de Heer E, Bruijn JA,
+Hazekamp MG, Huysmans HA. Remodeling of the porcine pul-
+monary autograft wall in the aortic position. J Thorac
+Cardiovasc Surg. 2000;120(1):55-64.
+79. Matsuki O, Okita Y, Almeida RS, et al. Two decades ’experience
+with aortic valve replacement with pulmonary autograft. J
+Thorac Cardiovasc Surg
+. 1988;95(4):705-711.
+80. Schoof PH, Takkenberg JJM, van Suylen RJ, et al. Degeneration
+of the pulmonary autograft: an explant study. J Thorac
+Cardiovasc Surg. 2006;132(6):1426-1432.
+81. Bouhout I, Ghoneim A, Tousch M, et al. Impact of a tailored sur-
+gical approach on autograft root dimensions in patients undergo-
+ing the Ross procedure for aortic regurgitation †. Eur J
+Cardiothorac Surg. 2019;56(5):959-967.
+82. Cañadas V, Vilacosta I, Bruna I, Fuster V. Marfan syndrome.
+Part 1: pathophysiology and diagnosis. Nat Rev Cardiol . 2010;
+7(5):256-265.
+83. Tudorache I, Theodoridis K, Baraki H, et al. Decellularized
+aortic allografts versus pulmonary autografts for aortic valve
+replacement in the growing sheep model: haemodynamic and
+morphological results at 20 months after implantation. Eur J
+Cardiothorac Surg. 2016;49(4):1228-1238.
+84. Schoof PH, Hazekamp MG, van Wermeskerken G, et al.
+Disproportionate enlargement of the pulmonary autograft in the
+aortic position in the growing pig. J Thorac Cardiovasc Surg .
+1998;115(6):1264-1272.
+85. Sawatari K, Kawata H, Armiger LC, Jonas RA. Growth of com-
+posite conduits utilizing longitudinal arterial autograft in
+growing lambs. J Thorac Cardiovasc Surg . 1992;103(1):47-51.
+86. Vanderveken E, Vastmans J, Claus P, et al. Mechano-biological
+adaptation of the pulmonary artery exposed to systemic condi-
+tions. Sci Rep . 2020;10(1):2724. doi:10.1038/541598-
+02059554-7
+87. Vastmans J, Fehervary H, Verbrugghe P, et al. Biomechanical
+evaluation of a personalized external aortic root support
+applied in the Ross procedure. J Mech Behav Biomed Mater .
+2018;78:164-174.
+88. Nappi F, Spadaccio C, Fouret P, et al. An experimental model of
+the Ross operation: development of resorbable reinforcements
+for pulmonary autografts. J Thorac Cardiovasc Surg . 2015;
+149(4):1134-1142.
+89. Nappi F, Spadaccio C, Fraldi M, et al. A composite semiresorb-
+able armoured scaffold stabilizes pulmonary autograft after the
+Ross operation: Mr Ross ’s dream ful ﬁlled. J Thorac
+Cardiovasc Surg. 2016;151(1):155-164.e1.
+90. Cattapan C, Della Barbera M, Dedja A, et al. Mechanical and
+structural adaptation of the pulmonary root after Ross operation
+in a murine model. J Clin Med . 2022;11(13):3742. doi:10.3390/
+jcm.11133742
+91. Notenboom ML, Schuermans A, Etnel JRG, et al. Paediatric
+aortic valve replacement: a meta-analysis and microsimulation
+study. Eur Heart J . 2023;44(34):3231-3246.
+92. Marino BS, Wernovsky G, Rychik J, Bockoven JR, Godinez RI,
+Spray TL. Early results of the Ross procedure in simple and
+complex left heart disease. Circulation. 1999;100(19 Suppl):
+II162-II166.
+93. Knott-Craig CJ, Elkins RC, Stelzer PL, et al. Homograft replace-
+ment of the aortic valve and root as a functional unit. Ann Thorac
+Surg. 1994;57(6):1501-1506.
+94. Elkins RC. The Ross operation: applications to children. Semin
+Thorac Cardiovasc Surg . 1996;8(4):345-349.
+95. Brown JW, Patel PM, Ivy Lin JH, Habib AS, Rodefeld MD,
+Turrentine MW. Ross versus non-Ross aortic valve replacement
+in children: a 22-year single institution comparison of outcomes.
+Ann Thorac Surg . 2016;101(5):1804-1810.
+Zoupas et al 537
+[[p9]]
+96. Sharabiani MTA, Dorobantu DM, Mahani AS, et al. Aortic valve
+replacement and the Ross operation in children and young adults.
+J Am Coll Cardiol . 2016;67(24):2858-2870.
+97. Knight JH, Sarvestani AL, Ibezim C, et al. Multicentre compar-
+ative analysis of long-term outcomes after aortic valve replace-
+ment in children. Heart. 2022;108(12):940-947.
+98. Alsou ﬁ B, Al-Halees Z, Manlhiot C, et al. Mechanical
+valves versus the Ross procedure for aortic valve replacement in
+children: propensity-adjusted comparison of long-term outcomes.
+J Thorac Cardiovasc Surg. 2009;137(2):362-370.e9.
+99. Yokoyama Y, Kuno T, Toyoda N, et al. Ross procedure versus
+mechanical versus bioprosthetic aortic valve replacement: a
+network meta-analysis. J Am Heart Assoc . 2023;12(1). doi:10.
+1161/JAHA.122.027715
+100. Mazine A, David TE, Stoklosa K, Chung J, Lafreniere-Roula M,
+Ouzounian M. Improved outcomes following the Ross procedure
+compared with bioprosthetic aortic valve replacement. J Am Coll
+Cardiol. 2022;79(10):993-1005.
+101. Overbey DM, Aykut B, Kucera JA, et al. Partial heart transplant
+for congenital heart disease. JAMA. 2025;334(12):1077-1083.
+538 World Journal for Pediatric and Congenital Heart Surgery 17(4)

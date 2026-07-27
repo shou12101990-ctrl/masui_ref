@@ -1,0 +1,906 @@
+
+[[p1]]
+598
+© 2026 Annals of Pediatric Cardiology | Published by Wolters Kluwer ‑ Medknow 
+Address for correspondence: Dr. Dicky Fakhri, Jalan Letjen S. Parman, Kav. 87, Slipi, West Jakarta 11420, Java, Indonesia.  
+E‑mail: difawi@yahoo.com
+Submitted: 28‑Jul‑2025	  Revised: 21‑Aug‑2025	  Accepted: 06‑Jan‑2026	  Published: 16‑Mar‑2026
+Efficacy of thromboprophylaxis following stage II surgical palliation for 
+single‑ventricle physiology: A systematic review and meta‑analysis
+Dicky Fakhri1, Maura Andini Setiabudi1, Ketut Shri Satya Yogananda2
+1Department of Surgery, Pediatric and Congenital Heart Surgery Unit, National Cardiovascular Center Harapan Kita, West Jakarta, Java, Indonesia, 2Faculty 
+of Medicine, Public Health and Nursing, Universitas Gadjah Mada, Yogyakarta, Indonesia
+REVIEW ARTICLE
+Access this article online
+Quick Response Code:
+Website:
+https://journals.lww.com/aopc
+DOI:
+10.4103/apc.apc_196_25
+This is an open access article distributed under the terms of the 
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+License (CC BY-NC-ND), where it is permissible to download and 
+share the work provided it is properly cited. The work cannot be 
+changed in any way or used commercially without permission from 
+the journal.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+How to cite this article:  Fakhri D, Setiabudi MA, Yogananda KS. 
+Efficacy of thromboprophylaxis following stage II surgical palliation for 
+single-ventricle physiology: A systematic review and meta-analysis. Ann 
+Pediatr Card 2025;18:598-608.
+ABSTRACT
+Background : Postoperative thrombosis remains a significant cause of mortality and morbidity, especially 
+in patients with single‑ventricle physiology (SVP). The standard management plan for 
+SVP consists of a three‑stage surgical palliation, with widely varying thromboprophylaxis 
+strategies. While routine thromboprophylaxis is standard after stages I and III, its role for 
+stage II palliation remains controversial. This study aims to evaluate the impact of routine 
+thromboprophylaxis in patients undergoing stage II palliation, with particular attention 
+to cases involving pulmonary artery (PA) reconstruction, where the risk‑to‑benefit ratio 
+of therapy may differ from routine stage II procedures.
+Methods and 
+Results
+: Analyses were conducted across 15 studies published between 1981 and 2021 (n = 1682), 
+assessing the impact of routine thromboprophylaxis on thromboembolic events, 
+mortality, and major adverse events (MAEs). A significant potential benefit of 
+thromboprophylaxis use was observed only in the subgroup of patients undergoing 
+PA reconstruction (14% in the thromboprophylaxis group versus 6% in the 
+no‑thromboprophylaxis group; P = 0.01). The prevalence of thromboembolic events in the 
+overall population was 5% (95% confidence interval [CI]: 3%–8%) without a significant 
+difference between the two groups ( P = 0.88). The pooled odds ratio (OR) showed a 
+nonsignificant effect of thromboprophylaxis in reducing thrombotic events (OR = 0.35, 
+95% CI: 0.02–7.81). No significant differences were observed in thromboembolic events, 
+MAEs, and mortality rates between the groups receiving thromboprophylaxis or no 
+thromboprophylaxis (P = 0.88, 0.29, 0.45, respectively).
+Conclusions : This study supports the use of routine thromboprophylaxis following second‑stage 
+palliation of SVP, particularly in patients undergoing PA reconstruction. However, the 
+evidence is limited by observational study designs, heterogeneity among studies, and the 
+lack of recent high‑quality data. Further well‑designed studies are warranted to confirm 
+these findings and to identify the optimal antithrombotic agent.
+Keywords : Bidirectional cavopulmonary shunt, pulmonary artery reconstruction, second‑stage 
+palliation, single ventricle, thrombosis
+[[p2]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+599
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+INTRODUCTION
+Congenital heart disease  (CHD) constitutes one of 
+the major groups of severe congenital anomalies, 
+diagnosed in up to 0.9% of live births.[1-3] Postoperative 
+thrombosis continues to be a significant cause of 
+mortality and morbidity, particularly in neonates 
+and infants undergoing complex cardiac surgical 
+reconstruction. [1,4]  Among these, patients with 
+single-ventricle physiology are at the highest risk 
+for thrombotic complications due to their unique 
+anatomical and physiological circumstances and 
+the staged nature of their surgical palliation. [5-7]  
+Single-ventricle palliation involves a three-stage 
+surgical process. Stage I palliation, typically the 
+Norwood procedure, involves creating a shunt 
+between the systemic and pulmonary circulations, 
+such as a Blalock–Taussig–Thomas shunt. Stage II 
+is the hemi-Fontan or bidirectional Glenn (BDG) 
+procedure, which directly connects the superior vena 
+cava to the pulmonary artery (PA). Finally, stage III, 
+known as Fontan completion, connects all systemic 
+venous blood directly to the PAs, bypassing the 
+heart. While routine thromboprophylaxis is standard 
+after the Norwood and Fontan operations, its role in 
+stage II palliation remains controversial, given the 
+infrequent use of prosthetic materials. However, even 
+without the use of the prosthetic material, the patient 
+remains at risk for thromboembolic events during 
+this period. [8,9] Reported rates of thrombotic events 
+following second-stage surgery vary widely from 0% 
+to 28%, depending on patient characteristics, surgical 
+technique, and surveillance method. [5,10-12] Thrombotic 
+events at this stage are associated with increased 
+mortality, prolonged hospital stay, and a lower 
+likelihood of Fontan completion. [10] PA reconstruction 
+performed in some patients to address preexisting 
+hypoplasia or stenosis may further increase thrombotic 
+risk by disrupting endothelial integrity and altering 
+flow patterns within the pulmonary circulation. [13,14]
+Despite these theoretical concerns, no established 
+guidelines exist for thromboprophylaxis following 
+stage II palliation, especially for patients undergoing 
+concomitant PA reconstruction. Given the limited 
+availability of large -scale studies, we conducted a 
+comprehensive review of follow-up outcomes in 
+patients undergoing stage II palliation over the past 
+45 years. Both comparative and single -arm analyses 
+were performed, with subgroup analysis based on 
+the presence of PA reconstruction. This study aims to 
+evaluate the impact of routine thromboprophylaxis in 
+patients undergoing stage II palliation, with particular 
+attention to cases involving PA reconstruction, where the 
+risk-to-benefit ratio of therapy may differ from routine 
+stage II procedures.
+METHODS
+Protocol registration and search strategy
+This systematic review and meta-analysis were conducted 
+under the title “Routine Use of Thromboprophylaxis 
+Following  Stage  II  Palliative  Cardiac  Surgery: 
+A Meta-Analysis.” The protocol has been registered in 
+PROSPERO with registration number CRD420251083013. 
+The review followed the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses (PRISMA) 2020 
+guidelines. A comprehensive literature search was 
+conducted across electronic databases, including PubMed/
+MEDLINE, ScienceDirect, and the Cochrane Library. The 
+search terms included (“second stage palliation” OR 
+“superior cavopulmonary shunt” OR “bidirectional 
+Glenn” OR “hemi -Fontan”) AND  (thromboprophylaxis 
+OR antithrombotic OR antiplatelet OR anticoagulation 
+OR aspirin OR heparin OR warfarin). We also manually 
+searched the reference lists of relevant articles.
+Eligibility criteria and study searches
+Inclusion criteria were categorized according to the 
+population, interventions, outcome, and study design 
+strategy. The population included patients who underwent 
+second-stage palliative cardiac surgery (e.g., bidirectional 
+cavopulmonary shunt (BCPS), BDG, or hemi-Fontan) 
+and only those for whom routine thromboprophylaxis 
+was explicitly documented as an intervention. Studies 
+were eligible if they reported outcomes on thrombus, 
+major adverse events (MAEs), or mortality following 
+surgery. Finally, for the study design, we included both 
+double-arm comparative studies (thromboprophylaxis 
+vs. no thromboprophylaxis postsurgery) and single-arm 
+observational studies. Comparative studies were analysed 
+using odds ratios (ORs), while single-arm studies were 
+analyzed based on pooled prevalence. Studies were 
+excluded if they involved patients with other conditions 
+that contributed to thromboembolic risk, were not 
+published in English, were not available in full text, or 
+were duplicate reports. Study selection was conducted 
+using Rayyan software, independently screened by two 
+reviewers. Any disagreements were resolved through 
+consensus discussion.
+Data extraction and management
+For each included study, two authors independently 
+extracted the following data: Author, year of publication, 
+number of patients, age at surgery, type of surgical 
+procedure, diagnosis, thromboprophylaxis strategy, 
+occurrence of thromboembolism, MAEs, mortality, and 
+bleeding rate. For duplicate data, only the most recent 
+publication was included. A tabulated format was used 
+to summarize study and patient characteristics.
+Postoperative thrombosis was defined as any clinically 
+significant thrombotic event following surgery, 
+[[p3]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+600
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+confirmed by imaging (intravascular or intracardiac 
+thrombus) and/or requiring therapy (anticoagulation, 
+surgical re-intervention, catheterization). We included 
+intravascular thrombosis (venous, arterial, or 
+intracardiac), cardioembolic strokes, or pulmonary 
+embolism.
+Risk of bias assessment
+The quality of observational studies (both cohort and 
+case–control designs) was evaluated using the Newcastle–
+Ottawa Scale  (NOS). This scale assesses study quality 
+across three domains: Selection, comparability, and 
+outcome. Two reviewers independently assessed the risk 
+of bias, and disagreements were resolved by discussion.
+Data synthesis and statistical analysis
+A meta-analysis was conducted using RStudio, utilizing 
+both common and random-effects models. For double-arm 
+studies, outcomes were synthesized using ORs with 95% 
+confidence intervals (CIs). For single-arm studies, pooled 
+prevalence was calculated for thromboembolic events, 
+MAEs, and mortality. Additional subgroup comparisons 
+focused on patients with PA reconstruction versus those 
+without. Forest plots were used to visualize pooled 
+estimates, and P values were used to determine statistical 
+significance. Heterogeneity was assessed using Cochran’s 
+Q-test and the I2 statistic. Publication bias was explored 
+using funnel plots and Egger’s test when more than 10 
+studies were available.
+Certainty and confidence in the results
+Although the grading of recommendations assessment, 
+development and evaluation (GRADE) was not applied in 
+this analysis, we interpreted the results in consideration 
+of potential limitations in study design, imprecision, 
+inconsistency, and publication bias.
+RESULTS
+Study selection
+A total of 2734 studies were identified from electronic 
+databases (PubMed/MEDLINE, ScienceDirect, and the 
+Cochrane Library). After removing 331 duplicates, 2526 
+articles remained for screening. Based on titles and 
+abstracts, 1015 studies were excluded. A full-text review 
+of 907 articles identified 15 studies for inclusion in the 
+final analysis. The screening and selection process of the 
+articles is illustrated in the PRISMA flow chart [Figure 1].
+Study characteristics
+The included studies consisted of both single-arm 
+and double-arm designs, with sample sizes ranging 
+from 4 to 423 patients. A total of 1682 patients were 
+included across 15 eligible studies, six of which included 
+over 100 patients. These studies included patients who 
+underwent any type of second-stage palliation, including 
+BCPS or BDG, a hemi-Fontan, or a Kawashima procedure. 
+Patients typically underwent these procedures at 
+9.52 months. All studies evaluated thrombus occurrence, 
+MAEs, or mortality following these procedures. Ten of 15 
+studies evaluated the effect of thromboprophylaxis, with 
+5 including subgroups undergoing PA reconstruction. 
+Characteristics of the included studies are presented in 
+s?PM
+Of the 15 included studies, 10 specifically analyzed the 
+use of routine thromboprophylaxis  [ Table 2]. Among 
+these studies, aspirin was the most commonly used 
+antithrombotic agent, although in some studies it 
+was combined with other therapies. Only four studies 
+reported using aspirin as the sole antithrombotic 
+therapy. Five studies involved heparin as the initial 
+antithrombotic agent. Several studies also include 
+other thromboprophylaxis agents, including 
+warfarin (4 studies), enoxaparin (2 studies), and 
+low-molecular-weight heparin (2 studies).
+Methodological quality of studies
+The quality of the included studies was assessed using 
+the NOS. Most studies were of low risk of bias, with 
+clearly defined study populations and adequate outcome 
+assessments. Common limitations included a lack of 
+blinding and incomplete adjustment for confounding 
+variables. The average NOS score was 7 (range: 5–9), 
+indicating an overall acceptable methodological quality 
+for observational studies  [ Table 3 ]. Risk bias across 
+studies was assessed using funnel plots and Egger’s 
+test [Supplementary Figure 1].
+Thromboembolic event in population with and 
+without thromboprophylaxis
+Thromboprophylaxis shows no significant 
+antithromboembolic effect in the overall population. 
+However, a significant effect was observed among 
+patients undergoing PA reconstruction. In the analysis 
+of 15 single-arm studies involving 1672 patients, both 
+groups showed an identical pooled thromboembolic 
+??TDM?s?????
+found between the two groups  ( P = 0.88), with 
+moderate heterogeneity ( I2 = 56.8%), indicating that 
+thromboprophylaxis did not significantly reduce the risk 
+of thromboembolism in the overall population undergoing 
+the Glenn procedure [ Figure 2a]. In three comparative 
+studies (n = 319), the pooled OR showed the superiority of 
+thromboprophylaxis in reducing thromboembolic events 
+compared to no thromboprophylaxis after surgery, 
+although the effect was statistically nonsignificant and 
+demonstrated moderate heterogeneity (OR = 0.35, 95% 
+CI: 0.02–7.81, I2 = 52.1%) [Figure 2b]. This suggests that 
+while thromboprophylaxis may reduce the incidence of 
+thrombus, further studies are needed to clarify its true 
+impact.
+[[p4]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+601
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+Among patients undergoing PA reconstruction, 
+thromboprophylaxis shows significant  
+anti-thromboembolic benefit. Five studies, including 
+495 patients, assessed thrombus formation 1 year after 
+PA reconstruction [Figure 2c]. The pooled incidence at 
+1 year was 14% (95% CI: 9%–23%) in patients without 
+thromboprophylaxis and 6% (95% CI: 4%–10%) in those 
+with thromboprophylaxis. Subgroup analysis showed a 
+statistically significant difference (P = 0.01), suggesting 
+a potential reduction in thrombus formation with 
+thromboprophylaxis prescription. Heterogeneity was 
+low (I2 = 18.5%) in the nonthromboprophylaxis group and 
+absent in the thromboprophylaxis group, suggesting a high 
+degree of consistency in the observed effects across studies.
+Major adverse events in population with and 
+without thromboprophylaxis
+Eleven single-arm studies, involving 1312 patients, were 
+included to assess MAEs in this population. The pooled 
+proportion of MAEs was 8% (95% CI: 7%–11%) in patients 
+without thromboprophylaxis and 7% (95% CI: 4%–12%) 
+in those with thromboprophylaxis [Figure 3a]. There was 
+no significant difference between groups (P = 0.29). This 
+indicates that thromboprophylaxis may not be associated 
+with reduced MAEs following second-stage palliation.
+Mortality in population with and without 
+thromboprophylaxis
+Ten studies, with 1186 patients, were analyzed to 
+evaluate the mortality population. The pooled mortality 
+rate was 11% (95% CI: 3%–30%) in patients without 
+thromboprophylaxis and 7% (95% CI: 4%–12%) in those 
+receiving thromboprophylaxis. There was no significant 
+difference between the two groups (P = 0.45), and high 
+heterogeneity was observed (I2 = 89%) [Figure 3b]. These 
+findings suggest that thromboprophylaxis therapy does 
+not significantly influence mortality outcomes following 
+second-stage palliation.
+Figure 1: PRISMA flowchart of the included studies
+[[p5]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+602
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+Contd...
+Table 1: Characteristics and outcomes of the included studies
+Author, year Characteristics PA 
+reconstruction
+Thrombo- 
+prophylaxis use
+Thromboembolic events Bleeding 
+events, 
+n (%)
+Total, 
+n
+Age 
+(months), 
+mean (SD)
+Cardiac conditions Procedure Events, n (%) Type
+Behrend 
+et al., 2024[15] 423 6.3 (2.0) TA (88)
+SV (120)
+DILV (78)
+PAIVS (29)
+cc‑TGA (27)
+Unbalanced AVSD (34)
+BCPS No No 8 Systemic -
+Day 
+et al., 2006[16] 177 17.3 (2.2) DILV (23)
+TA (36)
+LV hypoplasia (33)
+RV hypoplasia (9)
+Multiple anomalies (61)
+DORV (12)
+Other (3)
+BCPS No No 5 Systemic -
+Jacobs 
+et al., 2002[17] 72 NR HLHS (33)
+SV (8)
+TA (7)
+DORV (7)
+TC (5)
+PA (4)
+Heterotaxy (3)
+MACD (3)
+Truncus arteriosus (1)
+Ebstein anomaly (1)
+Hemi‑Fontan (62)
+BCPS (10)
+No No 0 Systemic -
+Kopf 
+et al., 1990[18] 91 NR TA (27)
+SV (22)
+TOF (14)
+D transposition (5)
+Ebstein’s anomaly (4)
+Others (20)
+BCPS No No 0 Shunt -
+Pennington 
+et al., 1981[19] 50 NR TA (25)
+Others (25)
+BCPS No No 5 Shunt -
+Chun 
+et al., 2004[20] 71 NR NR Hemi‑Fontan No Yes 4 Stroke -
+Manlhiot 
+et al., 2012[11] 139 NR NR BCPS No Yes 35 Systemic -
+Zampi 
+et al., 2013[21] 244 5.8 (1.67) HLHS (13)
+DORV (1)
+DILV (1)
+Others (7)
+BCPS or 
+hemi‑Fontan
+No Yes 3 Shunt -
+Tzanetos 
+et al., 2012[22] 4 5.07 (0.87) HLHS (2)
+DORV (1)
+DILV (1)
+BCPS No Yes 1 IVC -
+Truong 
+et al., 2017[23] 10 NR NR BCPS (8)
+Kawashima (2)
+n=No Yes 0 Shunt -
+Honjo 
+et al., 2010[12] 61 10 (14) HLHS (5)
+DORV (6)
+DILV (1)
+Others (12)
+BCPS Yes, with an 
+autologous 
+pericardial patch
+Yes 1 PA -
+[[p6]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+603
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+DISCUSSION
+Thrombosis is a well-recognized, life-threatening 
+complication in children with CHD, with the 
+single-ventricle population considered to be at higher 
+risk.[5-7] The highest risk period occurs during the initial 
+palliation, with a previous study reporting thrombotic 
+complication rates of 40% and 28% following the 
+initial and second-stage palliation, respectively. [11] 
+Although thrombotic events following second -stage 
+palliation are reported to be relatively rare, the 
+potential impact on pulmonary vasculature has led 
+to recommendations for routine thromboprophylaxis 
+to enhance the likelihood of a successful subsequent 
+Fontan completion. [27]  Several pathophysiological 
+factors contribute to this prothrombotic state, including 
+altered flow dynamics secondary to nonpulsatile flow, 
+reduced cardiac output, hypercoagulability, and 
+endothelial dysfunction.[8,9] The studies included in this 
+analysis showed a thromboembolic event rate of 0% 
+to 25%, with a pooled rate of 5% (95% CI 0.03–0.08). 
+These rates are within the range observed in Fontan 
+patients, which ranged from 3% to 24%. [28-30]  Our 
+meta-analysis demonstrated a nonsignificant trend 
+toward reduced thromboembolic events in patients 
+receiving thromboprophylaxis. This lack of significant 
+results is probably attributable to the small sample 
+sizes and heterogeneity in surveillance protocols for 
+diagnosing thromboembolic events among the included 
+studies. As the first meta -analysis to address this 
+question, our findings underscore the need for larger, 
+multicenter studies with standardized protocols.
+Given the negative impact of thrombotic  
+complications on subsequent Fontan completion, 
+routine thromboprophylaxis following second-stage 
+palliation has been encouraged, although protocols 
+vary across institutions. The American College of Chest 
+Physicians Evidence-Based Clinical Practice Guidelines 
+for Antithrombotic Therapy and the Prevention of 
+Thrombosis (9th edition) are among the most commonly 
+referenced pediatric antithrombotic guidelines. These 
+guidelines state that it is advisable to reduce the risk of 
+thrombosis to increase the likelihood of a fully patent 
+Fontan circuit. Currently, no single antithrombotic agent 
+has been proven superior in this population; hence, 
+recommendations are based on extrapolation from other 
+major vascular procedures. These guidelines recommend 
+postoperative unfractionated heparin (grade 2C) for 
+children undergoing BCPS.[27] In parallel, the American 
+Heart Association guidelines of Prevention and Treatment 
+of Thrombosis in Pediatric and CHD recommend a low 
+dose of aspirin (1–5 mg/kg) as antithrombotic therapy 
+in patients undergoing shunt-creation procedures, such 
+as Glenn and Fontan procedures.[6] This aligns with the 
+treatment approaches observed in our studies, which 
+Table 1: Contd...
+Author, year Characteristics PA 
+reconstruction
+Thrombo- 
+prophylaxis use
+Thromboembolic events Bleeding 
+events, 
+n (%)
+Total, 
+n
+Age 
+(months), 
+mean (SD)
+Cardiac conditions Procedure Events, n (%) Type
+Hansen 
+et al., 2011[24] 119 16.9 (32.9) HLHS hemi‑Fontan (113)
+BCPS (6)
+Yes, with an 
+allograft patch
+Yes 10 PA -
+Ando 
+et al., 2014[25] 40 16.3 (13.34) TA (9)
+PAIVS (5)
+Ebstein’s anomaly (3)
+DORV (2)
+Unbalanced AVSD (2)
+ccTGA (1)
+PAVSD (2)
+Others (16)
+BCPS Yes, with an 
+autologous 
+pericardial patch
+Yes 0 Systemic 1 (8)
+Galantowicz and Yates, 
+2016[26]
+129 5.6 (1.4) HLHS BCPS Yes, NR Yes 7 PA 3 (5.4)
+Ono 
+et al., 2022[10] 52 NR NR BCPS Yes, NR Yes 3 Systemic -
+TA: Tricuspid atresia, SV: Single ventricle, DILV: Double inlet left ventricle, PAIVS: Pulmonary atresia–intact ventricular septum, cc‑TGA: Congenitally corrected transposition of the great arteries, 
+AVSD: Atrioventricular septal defect, DORV: Double outlet right ventricle, HLHS: Hypoplastic left heart syndrome, TC: Transposition complex, MACD: Malaligned atrioventricular canal defect, TOF: Tetralogy 
+of fallot, PAVSD: Pulmonary atresia–ventricular septal defect, BCPS: Bidirectional cavopulmonary shunt, NR: Not reported, SD: Standard deviation, PA: Pulmonary artery, LV: Left ventricular, RV: Right 
+ventricular
+[[p7]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+604
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+mostly utilized aspirin, either as monotherapy or in 
+combination with other antithrombotic agents.
+The benefit of thromboprophylaxis may not be uniformly 
+applicable to all patients. Our findings highlight the 
+importance of identifying high-risk subgroups to inform 
+more individualized strategies, rather than applying 
+a general approach. PA reconstruction is considered 
+a high-risk factor in this population, associated 
+with increased endothelial injury risk due to the 
+manipulation of fragile vascular structures, although 
+direct observations in this specific subgroup are still 
+lacking. Published articles report that PA reconstruction 
+is performed in a substantial proportion of patients, 
+ranging from 8% to over 50%, depending on institutional 
+practice.[31-33] Our study found a significant subgroup 
+difference in patients undergoing PA reconstruction, with 
+lower thromboembolic event rates among those receiving 
+thromboprophylaxis. Moreover, the low heterogeneity 
+within each group indicates consistent findings across 
+involved studies and reinforces the reliability of these 
+Table 2: Thromboprophylaxis regimen
+Author, year Population 
+receiving TPx
+TPx
+Type Dose Duration
+Chun et al., 2004[20] 71 ASA (NR)
+Warfarin (NR)
+NR NR
+Honjo et al., 2010[12] 24 UFH
+LMWH (20)
+ASA (4)
+UFH: NR
+LMWH: 1 mg/kg/12 h; titrated to reach 
+an anti‑Xa level of 0.5–1.0 u/mL
+ASA: NR
+Initial UFH for 24 h, followed by 
+LMWH or ASA
+Hansen et al., 2011[24] 119 UFH
+ASA
+Heparin: 100 IU/kg/day
+ASA: 3 mg/kg/days
+Initial heparin followed by ASA 
+continued until Fontan
+Manlhiot et al., 2012[11] 64 ASA (9)
+ASA + enoxaparin (5)
+Enoxaparin (48)
+Warfarin + enoxaparin 
+(2)
+Aspirin: 5 mg/kg/days
+Enoxaparin: 1.5 mg/kg/days for 
+age <2 months or 1 mg/kg/days for 
+noninfants; titrated to reach an anti‑Xa 
+level of 0.5–1.0 u/mL
+Warfarin: Loading dose of 0.1 mg/kg 
+with target INR of 2.0–3.0
+Continued until Fontan
+Zampi et al., 2013[21] 244 ASA NR NR
+Ando et al., 2014[25] 40 UFH
+ASA
+Warfarin
+Heparin: 200–400 IU/kg/days; ACT 
+target of 130–150 s
+ASA: 1 mg/kg/days
+Warfarin: Titrated with a target INR 
+of 1.5
+Initial heparin followed by ASA 
+and/or warfarin
+Galantowicz and 
+Yates, 2016[26]
+55 Heparin
+Enoxaparin
+ASA
+NR Initial heparin for 24 h, followed 
+by Enoxaparin for 6 weeks
+Then ASA until Fontan
+Tzanetos et al., 
+2012[22]
+4 ASA (3)
+LMWH (1)
+NR NR
+Truong et al., 2017[23] 10 ASA 3–5 mg/kg/days Continued until Fontan
+Ono et al., 2022[10] 52 UFH
+ASA
+Warfarin
+UFH: 5000 IU/days; PTT target of 60 s
+ASA: NR
+Warfarin: NR
+Initial UFH for 4–5 days followed 
+by ASA or warfarin
+TPx: Thromboprophylaxis, ASA: Aspirin, UFH: Unfractionated heparin, LMWH: Low‑molecular‑weight heparin, NR: Not reported, PTT: Partial 
+thromboplastin time
+Table 3: Quality of included studies based on Newcastle-Ottawa Scale Criteria
+Author Study Design Selection Quality Comparability Outcome Measure and Analysis Score Quality
+Ando., 2014[25] Cohort * * * * - * * * 7/9 Good
+Chun., 2004[20] Cohort * * * * - ** 6/9 Moderate
+Day ., 2006[16] Cohort * * * * - * * * 7/9 Good
+Galantowicz., 2016[26] Cohort * * * * - ** 6/9 Moderate
+Hansen ., 2011[24] Cohort * * * * - * * * 7/9 Good
+Honjo., 2010[12] Cohort * * * * ** * * * 9/9 Good
+Jacobs., 2002[17] Cohort * * * - ** 5/9 Moderate
+Kopf., 1990[18] Cohort * * * * - * * * 7/9 Good
+Manlhiot., 2012[11] Cohort * * * * ** * * * 9/9 Good
+Ono., 2022[10] Cohort * * * * ** * * * 9/9 Good
+Pennington., 1981[19] Cohort * * * - ** 5/9 Moderate
+Truong., 2017[23] Cohort * * * * - ** 6/9 Moderate
+Tzanetos., 2016[22] Cohort * * * * - ** 6/9 Moderate
+Zampi., 2013[21] Cohort * * * * - * * * 7/9 Good
+No score: *Each represents one score
+[[p8]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+605
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+findings. Since there is a lack of literature specifically 
+addressing the use of thromboprophylaxis in patients 
+undergoing second-stage palliation surgery with PA 
+reconstruction, we referred to the study by Li et al.,[34] 
+which evaluates 10 patients with unilateral absence 
+of the PA who underwent PA reconstruction using 
+direct anastomosis, an autologous pericardial patch, or 
+synthetic materials. All patients were prescribed aspirin 
+for 6 months postoperatively, and no hospital deaths 
+were reported. However, it is important to note that 
+Figure 2: Pooled estimates for thromboembolic incidents in single‑arm studies (a), double‑arm studies (b), and the pulmonary artery 
+reconstruction population (c)
+c
+b
+a
+[[p9]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+606
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+our analysis included only studies that explicitly stated 
+they did not use synthetic patch material. The use of 
+synthetic materials would have necessitated routine 
+thromboprophylaxis prescription, thereby introducing 
+bias and limiting our ability to evaluate its true efficacy 
+in this subgroup.
+It is equally important to recognize the potential risk 
+of bleeding complications with the long- term use of 
+thromboprophylaxis. However, among the included 
+studies, only two specifically reported the incidence of 
+postoperative bleeding following second-stage palliation 
+in patients receiving routine thromboprophylaxis. This 
+Figure 3: Pooled estimates for major adverse events (a) and mortality incidence (b) following second‑stage palliation in single‑ventricle 
+physiology, comparing patients with and without thromboprophylaxis
+b
+a
+[[p10]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+607
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+limited data restricts the ability to assess further the 
+balance of benefits and harms of thromboprophylaxis 
+in this population. Ando et al. and Galantowicz and 
+Yates reported low event rates of 1 in 40 (2.5%) and 
+3 in 55 (5.5%), respectively. [25,26]  Galantowicz and 
+Yates[26] noted a nonsignificant higher risk of bleeding 
+complications, defined as new intracranial or systemic 
+bleeding requiring transfusion, that occurred within 
+6 weeks of routine thromboprophylaxis. All were 
+successfully managed with temporary anticoagulation 
+cessation, without the need for surgical intervention. 
+Similarly, Manlhiot et al.,[11] reported a low risk of 
+serious bleeding complications across all three palliative 
+stages with thromboprophylaxis, supporting the routine 
+use of a thromboprophylaxis agent from the initial 
+palliation through the post-Fontan period. In a broader 
+context, Ho et al .[35] suggested the early initiation of 
+thromboprophylaxis following cardiac surgery in 
+patients who have no active bleeding, emphasizing its 
+benefit for thrombotic risks unless proven otherwise 
+from more robust trials.
+Several limitations should be acknowledged. First, 
+the number of eligible studies was limited, with many 
+utilizing single-arm designs without control groups, 
+which introduces potential bias. Second, several 
+important sources of heterogeneity must be highlighted 
+as key limitations of this analysis. Patient selection varies 
+widely, with differing underlying cardiac conditions and 
+risk profiles that may affect thrombotic outcomes. The 
+thromboprophylaxis protocols also showed considerable 
+variation, from aspirin monotherapy to combination 
+therapies with different dosing and durations, preventing 
+a clear assessment of which protocols were associated 
+with better outcomes. Furthermore, this meta-analysis 
+includes studies spanning 36  years, during which 
+advances in surgical techniques and perioperative care 
+must have occurred. Improvements such as advances 
+in cardiopulmonary bypass strategies, enhanced 
+imaging modalities, and better critical care monitoring 
+likely influence thrombotic and bleeding risks and the 
+efficacy of thromboprophylaxis protocols. Discrepancies 
+in follow-up duration, along with variability in the 
+definitions and reporting of outcomes, also further 
+compromise comparability. Due to the methodological 
+limitations, we did not use the GRADE approach to assess 
+the certainty of the evidence. Despite these limitations, 
+we believe this meta-analysis provides valid insights into 
+the effectiveness of thromboprophylaxis in managing 
+thrombotic risk in patients undergoing second -stage 
+palliation with PA reconstruction.
+CONCLUSIONS
+This meta-analysis suggests that thromboprophylaxis may 
+provide a potential benefit in reducing thromboembolic 
+events among stage II palliation patients undergoing 
+PA reconstruction. However, due to the variability of 
+the evidence and significant heterogeneity within the 
+included studies, the decision to use thromboprophylaxis 
+should be based on each patient’s individual conditions. 
+In addition, robust observational studies are needed to 
+clarify the impact of routine thromboprophylaxis use 
+following second-stage palliation with PA reconstruction 
+and other high-risk patients, and to identify the most 
+effective and safe thromboprophylaxis protocols for 
+this setting.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+REFERENCES
+PM?b?rK?e?miM?`???
+factors and postoperative thrombosis in pediatric 
+cardiac surgery patients: A single-center retrospective 
+study. Crit Care Explor 2024;6:e1170.
+2. van der Linde D, Konings EE, Slager MA, Witsenburg M, 
+Helbing WA, Takkenberg JJ, et al. Birth prevalence of 
+congenital heart disease worldwide: A systematic review 
+and meta-analysis. J Am Coll Cardiol 2011;58:2241-7.
+3. Salari N, Faryadras F, Shohaimi S, Jalili F, 
+Hasheminezhad R, Babajani F, et al. Global prevalence of 
+congenital heart diseases in infants: A systematic review 
+and meta-analysis. J Neonatal Nurs 2024;30:570-5.
+4. Manlhiot C, Menjak IB, Brandão LR, Gruenwald CE, 
+Schwartz SM, Sivarajan VB, et al. Risk, clinical features, 
+and outcomes of thrombosis associated with pediatric 
+cardiac surgery. Circulation 2011;124:1511-9.
+5. Agarwal A, Firdouse M, Brar N, Yang A, Lambiris P, 
+Chan AK, et al. Incidence and management of thrombotic 
+and thromboembolic complications following the 
+superior cavopulmonary anastomosis procedure: 
+A literature review. Clin Appl Thromb Hemost 
+2018;24:405-15.
+6. Giglia TM, Massicotte MP, Tweddell JS, Barst RJ, 
+Bauman M, Erickson CC, et al. AHA scientific statement 
+prevention and treatment of thrombosis in pediatric 
+and congenital heart disease a scientific statement 
+from the American Heart Association. Circulation 
+2013;128:2622-703.
+7. Abdelghani E, Cua CL, Giver J, Rodriguez V. Thrombosis 
+prevention and anticoagulation management in the 
+pediatric patient with congenital heart disease. Cardiol 
+Ther 2021;10:325-48.
+8. Mahat U, Ahuja S, Talati R. Shunt thrombosis in pediatric 
+patients undergoing staged cardiac reconstruction for 
+cyanotic congenital heart disease. Prog Pediatr Cardiol 
+2020;56:101190.
+9. Odegard KC, Zurakowski D, DiNardo JA, Castro RA, 
+McGowan FX Jr., Neufeld  EJ, et al . Prospective 
+[[p11]]
+Fakhri, et al.: Thromboprophylaxis following stage II palliation
+608
+Annals of Pediatric Cardiology / Volume 18 / Issue 6 / November-December 2025
+longitudinal study of coagulation profiles in children 
+with hypoplastic left heart syndrome from stage I 
+through Fontan completion. J Thorac Cardiovasc Surg 
+2009;137:934-41.
+10. Ono M, Kido T, Burri M, Anderl L, Ruf B, Cleuziou J, et al. 
+Risk factors for thrombus formation at stage 2 palliation 
+and its effect on long-term outcome in patients with 
+univentricular heart. Semin Thorac Cardiovasc Surg 
+2022;34:669-79.
+11. Manlhiot C, Brandão LR, Kwok J, Kegel S, Menjak IB, 
+Carew CL, et al . Thrombotic complications and 
+thromboprophylaxis across all three stages of single 
+ventricle heart palliation. J Pediatr 2012;161:513-9.e3.
+12. Honjo O, Tran KC, Hua Z, Sapra P, Alghamdi AA, 
+Russell JL, et al. Impact of evolving strategy on clinical 
+outcomes and central pulmonary artery growth in 
+patients with bilateral superior vena cava undergoing 
+a bilateral bidirectional cavopulmonary shunt. J Thorac 
+Cardiovasc Surg 2010;140:522-8.e1.
+13. Mainwaring RD, Lamberti JJ, Uzark K, Spicer RL. 
+Bidirectional Glenn. Circulation 1995;92:294-7.
+14. Agnoletti  G, Boudjemline  Y, Bonnet D, Sidi  D, 
+Vouhé P. Surgical reconstruction of occluded 
+pulmonary arteries in patients with congenital 
+heart disease: Effects on pulmonary artery growth. 
+Circulation 2004;109:2314-8.
+15. Behrend L, Schaeffer T, Osawa T, Palm J, Di Padua C, 
+Niedermaier C, et al . Outcomes after bidirectional 
+cavopulmonary shunt with antegrade pulmonary 
+blood flow in high-risk patients. Cardiol Young 
+2024;34:2122-31.
+16. Day RW, Etheridge SP, Veasy LG, Jenson CB, Hillman ND, 
+Di Russo GB, et al. Single ventricle palliation: Greater risk 
+of complications with the Fontan procedure than with 
+the bidirectional Glenn procedure alone. Int J Cardiol 
+2006;106:201-10.
+17. Jacobs ML, Pourmoghadam KK, Geary  EM, Reyes AT, 
+Madan N, McGrath  LB, et al . Fontan’s operation: Is 
+aspirin enough? Is coumadin too much? Ann Thorac 
+Surg 2002;73:64-8.
+18. Kopf GS, Laks H, Stansel HC, Hellenbrand WE, 
+Kleinman CS, Talner NS. Thirty-year follow-up of 
+superior vena cava-pulmonary artery (Glenn) shunts. 
+J Thorac Cardiovasc Surg 1990;100:662-70.
+19. Pennington DG, Nouri S, Ho J, Secker-Walker R, Patel B, 
+Sivakoff M, et al. Glenn shunt: Long-term results and 
+current role in congenital heart operations. Ann Thorac 
+Surg 1981;31:532-9.
+20. Chun DS, Schamberger MS, Flaspohler T, Turrentine MW, 
+Brown JW, Farrell AG, et al. Incidence, outcome, and 
+risk factors for stroke after the Fontan procedure. Am 
+J Cardiol 2004;93:117-9.
+21. Zampi JD, Hirsch-Romano JC, Armstrong AK. Early 
+cyanosis after stage II palliation for single ventricle 
+physiology: Etiologies and outcomes. World J Pediatr 
+Congenit Heart Surg 2013;4:367-72.
+22. Tzanetos DRT, Yu C, Hernanz-Schulman M, Barr FE, 
+Brown NJ. Prospective study of the incidence and 
+predictors of thrombus in children undergoing palliative 
+surgery for single ventricle physiology. Intensive Care 
+Med 2012;38:105-12.
+23. Truong DT, Johnson JT, Bailly DK, Clawson JR, Sheng X, 
+Burch PT, et al. Platelet inhibition in shunted infants on 
+aspirin at short and midterm follow-up. Pediatr Cardiol 
+2017;38:401-9.
+24. Hansen JH, Uebing A, Furck AK, Scheewe  J, Jung O, 
+Fischer G, et al. Risk factors for adverse outcome after 
+superior cavopulmonary anastomosis for hypoplastic left 
+heart syndrome. Eur J Cardiothorac Surg 2011;40:e43-9.
+25. Ando Y, Fukae K, Hirayama K, Oe M, Iwai T. Impact of 
+bilateral superior venae cavae on outcome of staged 
+Fontan procedure. Ann Thorac Surg 2014;98:2187-93.
+26. Galantowicz M, Yates AR. Improved outcomes with 
+the comprehensive stage 2 procedure after an initial 
+hybrid stage 1 read at the 95 th annual meeting of the 
+American Association for Thoracic Surgery, Seattle, 
+Washington, April 25-29, 2015. J Thorac Cardiovasc 
+Surg 2016;151:424-9.
+27. Monagle  P, Chan  AK, Goldenberg NA, Ichord  RN, 
+Journeycake JM, Nowak-Göttl U, et al. Antithrombotic 
+therapy in neonates and children antithrombotic 
+therapy and prevention of thrombosis, 9th ed: American 
+College of Chest Physicians. Chest 2012;141:737-801.
+28. Boucher AA, Heneghan JA, Jang S, Spillane KA, 
+Abarbanell AM, Steiner ME, et al. A narrative review of 
+postoperative anticoagulation therapy for congenital 
+cardiac disease. Front Surg 2022;9:907782.
+29. Maki  W, Aso S, Inuzuka R, Matsui  H, Fushimi  K, 
+Yasunaga H. Association between warfarin use and 
+thromboembolic events in patients post-Fontan 
+operation: Propensity-score overlap weighting analyses. 
+Eur J Cardiothorac Surg 2024;66:ezae413.
+30. Firdouse M, Agarwal A, Chan AK, Mondal T. Thrombosis 
+and thromboembolic complications in Fontan patients: 
+A literature review. Clin Appl Thromb Hemost 
+2014;20:484-92.
+31. Honjo O, Caldarone CA. Hybrid palliation for neonates 
+with hypoplastic left heart syndrome: Current strategies 
+and outcomes. Korean Circ J 2010;40:103-11.
+32. Stern KW, McElhinney DB, Gauvreau K, Geva T, Brown DW. 
+Echocardiographic evaluation before bidirectional Glenn 
+operation in functional single-ventricle heart disease: 
+Comparison to catheter angiography. Circ Cardiovasc 
+Imaging 2011;4:498-505.
+33. Euringer C, Kido T, Ruf B, Burri  M, Heinisch  PP, 
+Vodiskar J, et al. Management of failing bidirectional 
+cavopulmonary shunt: Influence of additional 
+systemic-to-pulmonary-artery shunt with classic Glenn 
+physiology. JTCVS Open 2022;11:373-87.
+34. Li W, Ma L, Chen W, Xia S, Zou M, Chen X. Early and 
+mid-term results of surgical revascularization of 
+pulmonary artery in unilateral absence of a pulmonary 
+artery. Chin J Thorac Cardiovasc Surg 2022;38:581-5.
+35. Ho KM, Bham E, Pavey W. Incidence of venous 
+thromboembolism and benefits and risks of 
+thromboprophylaxis after cardiac surgery: A systematic 
+review and meta-analysis. J Am Heart Assoc 
+2015;4:e002652.
+[[p12]]
+Supplementary Figure 1: Funnel plots and Egger’s test were conducted to assess publication bias, (a) double‑arm thromboembolic 
+events, (b and c) thromboembolic events, (d and e) major adverse events, (f and g) mortality, (h and i) thromboembolic events in 
+pulmonary artery reconstruction
+d
+ih
+c
+g
+b
+f
+a
+e

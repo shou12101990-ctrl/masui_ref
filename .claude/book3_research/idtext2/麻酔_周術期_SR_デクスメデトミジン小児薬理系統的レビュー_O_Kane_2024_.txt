@@ -1,0 +1,2082 @@
+
+[[p1]]
+Clin Transl Sci. 2024;17:e70020.     | 1 of 22
+https://doi.org/10.1111/cts.70020
+www.cts-journal.com
+qY?QU?e?QOQS??qY?QT?i?QOQS??`Y?RO?i?QOQS
+DOI: 10.1111/cts.70020  
+SYSTEMATIC REVIEW
+A systematic review of dexmedetomidine pharmacology  
+in pediatric patients
+Aislinn O'Kane1,2  |   Sara K. Quinney1,3  |   Emily Kinney1 |   Richard F. Bergstrom1  |    
+Emma M. Tillman1,2
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any 
+medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2024 The Author(s). Clinical and Translational Science published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.
+Abbreviations: AE, adverse event; ADRA, adrenoceptor alpha; ADRB, adrenoceptor beta; AKI, acute kidney injury; CL, clearance; Cmax, maximum 
+serum concentration; CPG, clinical practice guideline; Cp, plasma concentration; CVICU, cardiovascular intensive care unit; CYP, cytochrome p450; 
+FDA, Food and Drug Administration; GABRA, gamma- aminobutyric acid receptor alpha; GABRB, gamma- aminobutyric acid receptor beta; HIE, 
+hypoxic ischemic encephalopathy; ICU, intensive care unit; INR, international normalized ratio; JET, junctional ectopic tachycardia; NICU, neonatal 
+intensive care unit; PBPK, physiologically based pharmacokinetic; PD, pharmacodynamics; PGx, pharmacogenomics; PICU, pediatric intensive care 
+unit; PK, pharmacokinetics; PopPK, population pharmacokinetics; rs, reference single- nucleotide polymorphism cluster ID; SNP, single- nucleotide 
+polymorphism; TCI, target- controlled infusion; UGT, uridine 50- diphospho- glucuronosyltransferase; Vd, volume of distribution.
+1Division of Clinical Pharmacology, 
+Department of Medicine, Indiana 
+University School of Medicine, 
+Indianapolis, Indiana, USA
+2Riley Hospital for Children, 
+Indianapolis, Indiana, USA
+3Department of Obstetrics and 
+Gynecology, Indiana University School 
+of Medicine, Indianapolis, Indiana, 
+USA
+Correspondence
+Aislinn O'Kane, 950 W. Walnut St. 
+Indianapolis, IN 46202, USA.
+Email: aislinnokane13@gmail.com
+Abstract
+Dexmedetomidine is a centrally acting alpha- 2 agonist used for initiation and 
+maintenance of procedural sedation and mechanical ventilation in adult and 
+pediatric settings. It is commonly used in both pediatric and neonatal intensive 
+care units. Dexmedetomidine requires extensive titration, and patients can be 
+over or under- sedated during titration, leading to adverse events such as hypoten-
+sion and bradycardia, or inadequate sedation, which can result in self- extubation. 
+There is a critical need to identify factors that contribute to variation in metabo-
+lism, clearance, and downstream targets of dexmedetomidine so that individu-
+alized pediatric dosing regimens can be developed. This review is focused on 
+dexmedetomidine pharmacokinetics and pharmacodynamics in the pediatric 
+population and dexmedetomidine- related pharmacogenes in both adults and 
+children. We found that the strongest predictors of dexmedetomidine phar-
+macokinetics were age and size. Multiple pharmacogenes of significance have 
+been identified, including ADRA2A, UGT2B10, UGT1A4, CYP1A2, CYP2A6, and 
+CYP2D6. Evidence is weak for the correlation of these individual polymorphic 
+genes with dexmedetomidine pharmacokinetics/dynamics, though there may be 
+a polygenetic influence on pharmacologic response. This review provides a com-
+prehensive overview of the genomic data gathered to date. We aim to summarize 
+current pharmacologic studies regarding dexmedetomidine use and pharmacol-
+ogy in pediatric patients.
+[[p2]]
+2 of 22 |   
+O'KANE et al.
+INTRODUCTION
+Children admitted to the pediatric intensive care unit 
+(PICU) are frequently sedated with medications includ-
+ing opioids, benzodiazepines, and the alpha- 2- adrenergic 
+receptor agonist, dexmedetomidine. 1 Extensive dose ti-
+tration and multiple drugs are often required to achieve 
+sedation.2,3 Dexmedetomidine has become a mainstay of 
+sedation in critically ill children due to increasing evi-
+dence of impaired cognition and adverse events (AEs) 
+associated with benzodiazepine use in young children, 
+combined with dexmedetomidine's generic availabil-
+ity and affordability. 4,5 The 2022 Society of Critical Care 
+Medicine Practice Guidelines recommend using dexme-
+detomidine as a first- line agent for sedation in pediatric 
+postoperative patients with expected early extubation. 5 
+However, there is an evidence gap for accurate pediatric 
+dosing of dexmedetomidine, in part due to the pharma-
+cokinetic variability in pediatric patients.
+The Food and Drug Administration (FDA) labeling 
+for dexmedetomidine states that it should be used for less 
+than 24 h in adult patients for procedural sedation or for 
+continuous infusion in the intensive care unit (ICU). 6 In 
+pediatrics, it is indicated for short- term sedation during 
+noninvasive procedures, such as an MRI. However, the 
+FDA determined that safety and efficacy end points have 
+not been met for procedural or continuous sedation in pe-
+diatric patients.6–9 The end points for procedural sedation 
+included adequate sedation at least 80% of the time, no 
+use of rescue sedation, and no artificial ventilation or he -
+modynamic intervention.8 The end point for continuous 
+sedation was a significant difference in rescue sedation 
+demand between the two stratified dexmedetomidine 
+dose groups. Per the FDA's clinical pharmacology review, 
+the safety end points of these studies were not adequately 
+quantified or objectively measured, which led to inconclu-
+sive safety findings.7–10
+Despite limited FDA labeling, dexmedetomidine is 
+widely used for sedation during invasive procedures and 
+long- term sedation in pediatric clinical settings, including 
+the PICU, neonatal ICU (NICU), and cardiovascular ICU 
+(CVICU).1 Dexmedetomidine is a sedative of particular 
+interest in children because of its ability to mimic natu-
+ral sleep and possibly reduce analgesic medication load.13 
+However, continuous infusions of dexmedetomidine can 
+vary widely from doses of 0.2–1.5 μg/kg/h.11,12 Dose titra-
+tion is not standardized and can take up to several hours 
+before achieving an appropriate comfort goal, leaving pa-
+tients at risk for over or undersedation. 5,10 Information 
+on dose or covariate- related sedation, pain reduction, and 
+AE occurrence is crucial for therapeutic optimization of 
+dexmedetomidine.
+The interplay between pharmacodynamics (PD), phar-
+macokinetics (PK), and pharmacogenomics (PGx) of 
+dexmedetomidine is important to investigate and sum-
+marize, as the dose required to achieve optimal sedation 
+Study Highlights
+WHAT IS THE KNOWLEDGE ON THE TOPIC?
+Dexmedetomidine is commonly used off- label for continuous and procedural se-
+dation in pediatrics. It is a popular choice because of its safety profile, but it has 
+variable response within adult and pediatric populations.
+WHAT QUESTION DID THIS STUDY ADDRESS?
+What is the most current knowledge of dexmedetomidine PK, PD, and PGx in 
+pediatrics, and what are the identified causes of variability?
+WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?
+Dexmedetomidine PK depends on body size and age, with younger children po-
+tentially requiring a wider dosing range. While genotype impacts dexmedetomi-
+dine metabolism, current evidence does not support genotype- guided dosing. 
+Data are mixed regarding cardio/renal protection, but shows promise for seda-
+tion, shivering prevention, and opioid reduction in neonates with HIE.
+HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR 
+TRANSLATIONAL SCIENCE?
+This review summarizes the impact of PK, PGx, clinical status, age, and size on 
+dexmedetomidine's behavior in children. This can guide providers in identifying 
+covariates that will impact their patients' PK/PD. Additionally, we summarize 
+recent PGx findings regarding SNPs, which may guide future pediatric pharma-
+cogenomic research on dexmedetomidine.
+[[p3]]
+   | 3 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+can vary widely from patient to patient. 11,14,15 According 
+to the FDA, the weight- based volume of distribution 
+and clearance are relatively consistent in all ages, rang -
+ing from 0.8–1 L/kg and 0.9–1.2 L/kg/h, respectively, in 
+patients 1 month old up to 17 years old. 16 Adults have 
+shown larger volumes of distribution, ranging from 1 to 
+2 L/kg, and consistent clearance at ~0.5 L/kg/h. 9,16 Inter- 
+individual variability in PGx and dexmedetomidine me -
+tabolism can lead to PK and potentially PD alterations. 
+Polymorphic variability can occur in dexmedetomidine's 
+metabolic pathway through uridine 5 0- diphospho- glucu
+ronosyltransferase (UGT) and Cytochrome p450 (CYP) 
+enzymes. Based on in  vitro studies from literature and 
+studies conducted in- house by our group, dexmedetomi-
+dine's hepatic metabolism is primarily (70%–95%) me -
+diated via UGT2B10, 17–19 with small contributions from 
+UGT1A4 (~5%), and CYP enzymes (~3%–20%), including 
+CYP2D6 CYP3A4, CYP2A6, CYP1A2, CYP2E1, CYP2C19, 
+and CYP2C9.8 As some hepatic enzymes can develop after 
+birth, causing reduced clearance in certain age groups, 11 
+age- dependent maturation could play a role in pediatric 
+PK variability with dexmedetomidine. Its site of action, 
+adrenoceptor alpha 2A (ADRA2A), can also be a source 
+of polymorphic variability, with eight variants reported in 
+literature,20–24 PGx variability of both metabolic and ad-
+renergic pathways can alter dexmedetomidine's PK and/
+or PD.
+PK and PD data can be combined through models to 
+assess the effect of covariates, such as PGx, body weight, 
+and age on clearance (CL), the volume of distribution 
+(Vd), and efficacy, for example, sedation scores or AEs, 
+for example, delirium scores, blood pressure, and heart 
+rate. In this review, we will summarize data from PK, PD, 
+and PGx studies of dexmedetomidine in pediatric patients 
+(ages 0–18), and dexmedetomidine- related pharmaco -
+genes in both adult and pediatric patients.
+METHODS
+This systematic review was carried out using PubMed 
+and Ovid. The search terms used were ‘dexmedetomi-
+dine’ AND (‘pharmacokinetics’ OR ‘pharmacodynam-
+ics’ OR ‘pharmacogenetics’ OR ‘pharmacogenomics’). 
+Additionally, we reviewed the reference lists of all iden-
+tified studies and reviews. The last search using these 
+terms was conducted in May 2024. A thorough review on 
+dexmedetomidine PK and PD was published in 2017 by 
+Weerink et al.,11 therefore, we decided to only include PK 
+and PD studies published after 2017. As there are fewer 
+PGx data available for dexmedetomidine as compared 
+with PK and PD data, we included published PGx studies 
+dating back to 2011. We included controlled trials, cohort 
+studies, PopPK models, physiologically- based pharma-
+cokinetic (PBPK) models, and case–control studies which 
+included pediatric patients. We excluded case reports, 
+meta- analyses, conference abstracts, and review papers, 
+as well as non- english papers. We identified 26 studies 
+that met the inclusion criteria and are evaluated in this 
+review. Two reviewers collected and verified data from 
+each report.
+RESULTS
+Allometric scaling and ontogeny
+Dexmedetomidine is dosed based on weight (μ g/kg/h), 
+but in young pediatric patients (< 3 years old) it exhibits 
+variable PK, indicating that other covariates, such as age 
+and organ maturation (ontogeny) may play a role in vari-
+ability of drug response. Eight population pharmacoki-
+netic (PopPK) studies have evaluated dexmedetomidine 
+PK using weight as a covariate, either by incorporating 
+data from both children and adults or using allometric 
+scaling, which uses an average adult weight of 70 kg as 
+a scaling factor for all PK parameters (Table  1).11,14,15,25 
+We identified three studies which provide analyses of 
+adult and pediatric data. 14,15,25 Morse al. describe a short-
+coming of target- controlled infusion (TCI) pumps, which 
+are programmed to infuse medication to a target plasma 
+concentration (Cp). 15 Anesthesiologists use patient pa-
+rameters, such as sex, weight, age, etc. to program this 
+automated infusion and target a predefined Cp. 27 A limi-
+tation of TCIs is that their programming is based upon 
+adult data only, but TCI pumps are often used in pedi-
+atric patients. The goal of Morse's model was to provide 
+a universal scaling factor to better predict pediatric PK 
+of dexmedetomidine, improving targeted dosing for both 
+children and adults. 15 For this, they used PK data from 
+five previously published studies 27–31 to estimate the 
+pharmacokinetic outcomes of TCI in a pediatric model 
+(Table  1). They found a direct relationship between age 
+and CL in the first few years of life, and an inverse rela-
+tionship between patient size and CL after the age of 3, 
+likely due to an age- related plateau in organ maturation. 
+The authors used their model to provide a guide incor-
+porating both age and size as scaling factors for patient 
+dosing.15 Based on this guide, a theoretical neonate with 
+an estimated weight of 3.6 kg would require doses of 
+~0.77 μg/kg/h to maintain a target plasma concentration 
+of 1 ng/mL (a target concentration which produces mod-
+erate to deep sedation in most infants and children).25,32,33 
+This requirement increases with age, peaking at ~1.04 μg/
+kg/h by 3 years old, based on a predicted age- dependent 
+(or ontogenic) increase in metabolic clearance. 15 Disma 
+[[p4]]
+4 of 22 |   
+O'KANE et al.
+TABLE 1 Allometric scaling.
+References Study type Population Dose; duration Methods Results Conclusions
+Ber14 PopPK model Setting: ICU
+Age: 3 months- 88 years
+N = 70 patients
+Continuous infusion: 
+0.08–2 μg/kg/h
+Model: 2- compartment
+Covariates: Age, weight 
+demographics, PGx, study 
+type, hemodynamics, and 
+sedation scores
+V1: 22.5 L
+V2: 86.1 L
+Vss: 108.6 L
+CL: 34.7 L/h
+Q2: 40.8 L/h
+Significant covariates:
+Age, body weight, CYP1A2*1F 
+genotype and noradrenaline use
+Predicted CL was slightly 
+low (33.7–53.4 L/h)
+Other model parameters 
+aligned with literature 
+values
+Damian34 PopPK Model Setting: ICU Population: Liver 
+transplant recipients
+Age: 1 month- 18 years
+N = 20 children
+Bolus: 0.5 μg/kg Infusion: 
+0.5 μg/kg/h
+Model: 2- compartment
+Covariates: Ischemia, 
+donor age, liver type, INR, 
+tBILIi, and ALT
+V1: 186 L/70 kg
+V2: 203 L/70 kg
+CL: 52 L/h
+Q2: 246 L/h
+Significant covariates:
+INR (for CL), weight (for Vd)
+Weight was linearly 
+correlated with V1, but CL 
+was inversely correlated 
+with INR
+Weight- based dosing may 
+not correlate with CL, and 
+titration to clinical effect 
+or INR may be a more 
+effective covariate
+Disma25 PopPK Model Setting: 5 pooled studies
+Combined Age: 0–60 years
+N = 167
+1. Szmuk et al.65
+Age: 5.2–15.5 months N = 32 
+children
+2. Potts et al.28
+Age: 1 week-  14 years
+N = 95 children
+3. Cortínez et al.29
+Age: 20–60 years
+N = 20 patients
+4. Rolle et al.30
+Age: 18–60 years
+N = 40 patients
+5. Talke et al.31
+Age: 21–36 years
+N = 10 patients
+Bolus: 1 μg/kg Infusion: 
+1 μg/kg/h
+Model: 3- compartment
+Covariates: Age, and size
+V1: 19 L/70 kg
+V2: 24.1 L/70 kg
+V3: 50 L/70 kg
+CL: 40 L/h/70 kg
+Q2: 82.2 L/h/70 kg
+Q3: 31 L/h/70 kg
+Significant covariates:
+Age, size
+Cp was predictable using 
+known covariates such as 
+age and size
+[[p5]]
+   | 5 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+References Study type Population Dose; duration Methods Results Conclusions
+Greenberg35 PopPK Model Setting: ICU
+Age: 33–61 weeks PMA
+N = 20 infants
+Infusion: 0.5–2.5 μg/kg/h Model: 1- compartment
+Covariates: Age, size, 
+cardiac surgery, sex, Scr
+Vdss: 1.5 L/kg
+CL: 0.87–2.65 L/kg/h
+Cp: 0.68 ng/mL
+Significant covariates:
+Age
+When standardized to a 
+70- kg adult, the plasma 
+CL of 48.2 L/h was lower 
+than typical adult values
+CL increased by 4.5% per 
+1- week increase in PMA
+Recent cardiac surgery 
+reduced CL by 40%
+Younger PMA and 
+recent cardiac surgery 
+may reduce overall DEX 
+demand
+James36 PopPK Model Setting: Surgical and ICU
+Age: 0–22 years
+N = 354 patients
+Bolus: 0.06–4.21 μg/kg
+Infusion: 0.03–2 μg/kg/h
+Model: 2- compartment
+Covariates: Age, size sex, 
+mortality score, length 
+of ICU stay, CPB, Scr, 
+allometry and PGx
+V1: 161 L/70 kg
+V2: 7903 L/70 kg
+CL: 27.3 L/h/70 kg
+Q2: 26 L/h/70 kg
+Significant covariates:
+PMA and body weight
+Both weight and age, 
+but not genotype, had a 
+significant impact on CL 
+and Cp
+Allometric Scaling: In 
+a 9.4 kg, 104.6- week- 
+old child (PMA), the 
+following parameters 
+would be estimated:
+V1: 21.6 L
+V2: 1061.26 L
+CL: 6.04 L/h
+Q2: 5.7 L/h
+Kim37 PopPK model Setting: Surgical
+Age: 20.3 ± 19.3 months
+N = 29 children
+Bolus: 1 μg/kg
+Infusion: 0.5 μg/kg/h 
+during surgery
+Second Bolus: 1 μg/kg at 
+initiation of CPB
+Model: 2 and 
+3- compartment
+Covariates: Size, weight, 
+age, fat- free mass, CPB 
+and temperature
+V1: 31.6 L
+V2: 90.1 L
+CL: 1.08 L/min/70 kg
+Q2: 2.0 L/min/70 kg
+V3: (associated with CPB) 
+39.4 L
+Significant covariates:
+2897a
+CPB termination 
+significantly increased Cp 
+(0.378 ng/mL vs. 0.266 ng/
+mL) which is explained by 
+the removal of the third 
+compartment created by 
+bypass
+TABLE 1 (Continued)
+(Continues)
+[[p6]]
+6 of 22 |   
+O'KANE et al.
+References Study type Population Dose; duration Methods Results Conclusions
+Morse15 PopPK model Setting: 5 pooled studies
+Combined Age: 0–72 years
+N = 153
+1. Hannivoort et al.27
+Age: 20–70 years
+N = 18 healthy patients
+2. Potts et al.28
+Age: 1 week-  14 years
+N = 95 surgical children
+3. Cortínez et al.29
+Age: 20–60 years
+N = 20 surgical patients
+4. Rolle et al.30
+Age: 18–60 years
+N = 40 surgical patients
+5. Talke et al.31
+Age: 21–36 years
+N = 10 healthy patients
+Study 1: TCI
+Study 2: 1–4 μg/kg bolus
+Study 3: 0.5 μg/kg bolus, 
+then 0.25 or 0.5 μg/kg/h 
+infusion
+Study 4: 0.5 μg/kg bolus, 
+then 0.5 μg/kg/h infusion
+Model: 3- compartment
+Covariates: Age, weight, 
+free fat mass scaling
+V1: 25.2 L/70 kg
+V2: 34.4 L/70 kg
+V3: 65.4 L/70 kg
+CL: 0.9 L/70 kg/min
+Q2: 1.68 L/70 kg/min
+Q3: 0.62 L/min/70 kg
+Significant covariates:
+Age, body weight
+Size and age were 
+significant covariates in 
+the model
+CL increased with age; 
+neonatal CL was 42% of 
+adult levels, and CL in 
+3- year- olds was 80%
+Obesity was correlated 
+with higher CL and Cp; 
+3.2 ng/mL vs. 2.6 ng/mL
+Song38 PopPK Model Setting: ICU
+Age: 3–10 years
+N = 29 children
+Low dose group
+Bolus: 0.25 μg/kg Infusion 
+0.25 μg/kg/h for 50 min
+High dose group
+Bolus: 0.5 μg/kg Infusion: 
+0.5 μg/kg/h for 50 min
+Model: 2- compartment
+Covariates: Age, size 
+height, weight, and body 
+fat
+V1: 64.2 L/70 kg
+V2: 167 L/70 kg
+CL: 81.0 L/70 kg/h
+Q2: 116.4 L/70 kg/h
+Significant covariates:
+Body weight
+Both groups showed 
+increased CL and Vd
+Both groups attained 
+moderate- deep sedation, 
+despite different doses
+AEs were not correlated 
+with dose
+Abbreviations: AE, adverse event; AKI, acute kidney injury; ALT, alanine transaminase; CL, clearance; CPB, cardiopulmonary bypass; CP, plasma concentration; DEX; dexmedetomidine; ICU, intensive care unit; INR, 
+international normalized ratio; PGx, pharmacogenomics; PMA, postmenstrual age; PopPK, population pharmacokinetics; PK, pharmacokinetics; Q, distribution rate; Scr, serum creatinine; tBILI, total bilirubin; TCI, 
+target- controlled infusion; V, Vd, volume of distribution; Vdss, volume of distribution at steady state.
+aCPB correlation with PK was significant, but model was rejected due to inconsistencies in parameter estimations and model predictions.
+TABLE 1 (Continued)
+[[p7]]
+   | 7 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+et al. pooled the adult literature data from Morse's model 
+with their primary data collected from pediatrics to vali-
+date the use of the universal model, and found that both 
+models had consistent PK predictions. 15,25 In their study, 
+age was the primary covariate for PK in patients under 
+2 years of age, and weight was the primary covariate in 
+?Q??M?QT
+Independently, Ber et al. 14 developed a PopPK model 
+incorporating allometric scaling and ontogeny. This model 
+included a wide variety of doses in adult and pediatric pa-
+tients, starting at 0.7 μg/kg/h in adults and 0.8 μg/kg in pe-
+diatrics without a loading dose, continuing at 0.08–2 μg/
+kg/h. In contrast to Morse's PK model, which investigated 
+size, age, and fat- free mass as covariates, Ber included 26 
+additional covariates including PGx, hemodynamics, and 
+sedation scores (Table  1).14 In addition to the significant 
+covariates of age and body weight, authors found that 
+noradrenaline administration significantly reduced clear-
+ance (theoretically by constricting hepatic blood flow), 
+and CYP1A2*1F (rs762551) allele was associated with 
+increased dexmedetomidine clearance (Tables 3 and 4).14 
+Due to the high amount of covariates assessed in a rel-
+atively small sample size, application in clinical practice 
+may be less useful than models with larger sample sizes 
+and/or less covariates included in the model.
+Five PK studies using exclusively pediatric data have 
+included allometric scaling in their analysis and discus -
+sion (Table 1).34–38 Separately, three of these studies noted 
+direct effects of weight via allometric scaling on Cp and 
+CL.34–36 One study by Damian et al. 34 noted a linear cor -
+relation between weight and Vd. These results align with 
+the above data from adult and pediatric studies: Body size is 
+significantly correlated with the kinetics of dexmedetomi-
+dine. Morse et al.15 estimated that 83% of between- subject 
+variability in their simulated pediatric patients was due 
+to allometry, which can be controlled by accounting for 
+weight. James et  al.36 affirmed this conclusion, showing 
+that age plays less of a role as patients get older, and that 
+weight is the primary significant covariate for clearance 
+in patients over 93 weeks postmenstrual age. Body size in 
+patients over the age of ≥3, and ontogeny in patients <3, 
+should be the primary considerations for providers when 
+initiating dexmedetomidine in a pediatric patient.
+Pharmacokinetics/pharmacodynamics
+Multiple studies have investigated the relationship between 
+dose, kinetics, and sedation scores. We identified 10 stud-
+ies in exclusively pediatric patients that provided new, rel-
+evant information on the PK and PD of dexmedetomidine 
+(Table 2).32,33,39–46 These studies used plasma sampling, vital 
+signs and laboratory data collection, and PK modeling to 
+assess dexmedetomidine distribution, metabolism, elimina-
+tion, and clinical effects in children. PD outcomes of inter-
+est include sedation and responsiveness – which are direct 
+measures of drug efficacy – as well as safety outcomes, such 
+as bradycardia, hypotension, and delirium.
+I. Procedural sedation
+Physiologic changes during and after surgery may play a 
+role in the PK of dexmedetomidine. As demonstrated in 
+Kim et al.'s37 procedural study and PopPK model, dexme-
+detomidine distribution into a third compartment is en-
+hanced when patients undergo cardiopulmonary bypass. 
+This dispersion within the body leads to a significant de-
+crease in dexmedetomidine Cp during bypass, p < 0.016 
+(Table 2).37 Both Morse et al. and Disma et al. 15,25 found 
+that a 3- compartment PopPK model best fit their data in 
+patients undergoing procedural anesthesia for ≥2 h. This 
+third spacing may occur during surgical procedures due 
+to blood flow alterations and increased capillary wall per-
+meability, temporarily reducing the availability of drug in 
+the plasma. This can result in increased sedative demand 
+due to reduced dexmedetomidine concentration at the 
+target site. Such elevated sedation demand was seen in 
+practice in the PK analysis of the interventional arm of 
+Disma et al.'s25 study, but target sedation was obtained by 
+increasing target plasma concentrations from 0.6 to 1 ng/
+mL (Table 1).
+When used for procedural sedation, dexmedetomidine 
+may also reduce demand for other sedative and analgesic 
+medications.5,11,39 Amula et  al. 39 documented a statisti-
+cally significant reduction in overall intraoperative benzo-
+diazepine and opioid load for patients (Table  2). Of note, 
+patients were exposed to significantly higher doses (12.5 
+vs. 5.8 μg/kg, p = 0.04) of dexmedetomidine, and nonsig -
+nificantly higher doses of propofol and acetaminophen, 
+but authors did not document AEs as a result of these ex -
+posures. Patients were also not exposed to higher doses of 
+volatile anesthetic.39 Combined with the above study re -
+sults, these data indicate that short- term exposure to dex-
+medetomidine during surgery, when administered at high 
+enough doses, may be a protective factor against the need 
+for opioids and other sedating medications.
+IA. Adverse events in procedural sedation
+Dexmedetomidine PK and PD effects on target organs, in-
+cluding the kidney, heart, and liver, have been reported 
+in surgical pediatric patients. Jo et  al. 43 investigated the 
+correlation between dexmedetomidine and postoperative 
+acute kidney injury (AKI). AKI is defined as an absolute 
+[[p8]]
+8 of 22 |   
+O'KANE et al.
+TABLE 2 Pediatric PKPD studies.
+Study type Population Dose; Duration Methods Results Conclusions
+Amula39 Multicenter 
+retrospective 
+analysis of CPG 
+implementation
+Setting: Surgical
+Age: 
+14 days-  6 months
+N = 240 children
+Infusion: 1 μg/kg, titrated 
+up
+Analysis of total 
+intraoperative opioid, 
+benzodiazepine, and 
+volatile anesthetic 
+exposure
+Median opioid dose was 
+reduced from 49.7 to  
+24 μg/kg of fentanyl  
+equivalents (p < 0.001)
+Median benzodiazepine dose 
+reduced from 1 to 0.4 mg/
+kg of midazolam equivalents 
+(p < 0.001)
+Procedural DEX was associated 
+with early extubation
+Use of acetaminophen 
+and propofol increased 
+nonsignificantly
+CPG implementation led to more 
+patients receiving DEX, but at a 
+lower dose
+Increased use of DEX led to 
+lower opioid and benzodiazepine 
+exposure without need for more 
+volatile anesthetic
+Dersch- 
+Mills40
+Retrospective chart 
+review of term and 
+preterm neonates 
+receiving continuous 
+DEX
+Setting: ICU
+Age: 23–40 weeks 
+GA
+N = 38 neonates
+Infusion: 0.2–0.3 μg/kg/h, 
+titrated up
+Analysis of DEX 
+effect on concomitant 
+sedative/analgesic/
+clonidine doses, as well 
+as AEs
+Comparison of weight- 
+based dose effects
+−66.7% of patients had opioids 
+reduced within 24 h of starting 
+dexmedetomidine (p = 0.798)
+88.9% experienced at least one 
+AE
+Dose ≥0.5 μg/kg/h:
+50% experienced hypotension, 
+27.3% experienced severe 
+bradycardia
+Dose <0.5 μg/kg/h:
+25% experienced hypotension, 
+7.7% experienced severe 
+bradycardia
+DEX did not significantly reduce 
+opioid dosing
+Patients on max doses of 0.5 μg/kg/
+hour or higher should be closely 
+monitored for AEs
+Elliott41 Dual- center 
+retrospective 
+analysis of Quality- 
+improvement 
+initiative
+Setting: ICU
+Age: 37–39 weeks 
+GA
+N = 135 neonates 
+with HIE
+Infusion: 0.3 μg/kg/h, 
+titrated up
+Initiative using 
+DEX as a first- line 
+therapy for sedation 
+during therapeutic 
+hypothermia
+Retrospective analysis 
+of opioid exposure 
+reduction and patient 
+outcomes with the 
+initiative
+Mean cumulative fentanyl 
+exposure was reduced from 30 
+to 1.7 mcg/kg
+Mean cumulative morphine 
+exposure was reduced from 648 
+mcg/kg to 85 mcg/kg
+DEX is effective as a first- line 
+agent for sedation in HIE patients
+Use of DEX as a first- line agent 
+in this population leads to opioid 
+exposure reductions of ≥87%
+[[p9]]
+   | 9 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+Study type Population Dose; Duration Methods Results Conclusions
+Hassan42 Randomized 
+controlled trial on 
+cardiac protection 
+of DEX in young 
+children
+Setting: Surgical
+Age: 
+4 months- 5 years
+N = 120 children
+Group MD
+Bolus: DEX 0.5 μg/
+kg + MgSO4 50 mg/kg
+Infusion: DEX 0.5 μg/
+kg/h + MgSO4 30 mg/kg/h 
+× 72 h postoperative
+Group D
+Bolus: DEX 0.5 μg/kg + NS
+Infusion: DEX 0.5 μg/
+kg/h + NS × 72 h 
+postoperative
+Group C
+Bolus: NS
+Infusion: NS × 72 h 
+postoperative
+Comparison of 
+junctional ectopic 
+tachycardia (JET) 
+occurrence after cardiac 
+surgery with DEX and 
+MgSO4 vs. DEX alone 
+vs. control (NS)
+JET risk was significantly 
+reduced with DEX ± MGSO4 
+(p = 0.032), OR: 0.26 for DEX 
+and p = 0.008, OR: 0.06 for 
+DEX + MgSO4
+Extubation time, duration of 
+cardiac care unit stay and total 
+length of hospital stay were 
+significantly reduced with DEX 
+± MGSO4
+Use of dexmedetomidine with or 
+without MgSO4 improves cardiac 
+safety outcomes following cardiac 
+surgery, and reduces length of 
+post- surgical hospital stay
+Jo43 Randomized, 
+prospective, placebo- 
+controlled study
+Setting: Surgical
+Age: 1–6 years
+N = 29 children
+Bolus: 0.5 μg/kg
+Infusion: 0.5 μg/kg/h
+Or Placebo
+Analysis of AKI 
+occurrence in patients 
+receiving DEX vs. 
+placebo
+AKI incidence was significantly 
+higher in the control group 
+(64% vs. 27%, p = 0.042)
+eGFR was significantly lower 
+in the control group than the 
+DEX group (72.6 ± 15.1 vs. 83.9 
+± 13.5, p = 0.044)
+Perioperative DEX reduced the 
+risk of AKI in pediatric cardiac 
+surgery patients
+Kim44 Randomized, 
+prospective, placebo- 
+controlled study
+Setting: Surgical
+Age: 1.5–2 years
+N = 139 children
+Bolus: 1 μg/kg
+Infusion: 0.5 μg/kg/h
+Post- CBP Bolus: 1 μg/kg
+Or Placebo
+Analysis of AKI 
+occurrence in patients 
+receiving DEX vs. 
+placebo
+AKI incidence was not 
+different between groups (17% 
+in DEX and vs. 24%)
+eGFR was significantly lower 
+and creatinine was higher in 
+the control group than DEX 
+(p = 0.02)
+Intraoperative DEX reduced the 
+risk of AKI in pediatric cardiac 
+surgery patients
+Lin45 Prospective, 
+observational single 
+center study
+Setting: ICU
+Age: 0–16 years
+N = 1134 children
+Not reported Development of a 
+delirium risk prediction 
+model based on data 
+from after major 
+surgery
+Analysis of 
+benzodiazepine, 
+propofol, corticosteroid, 
+anticholinergic, opioid, 
+paralytic and DEX use, 
+pain and sedation scores
+11.1% of patients were 
+diagnosed with delirium, in 
+a median of (40 min) after 
+surgery
+67.5% of patients who 
+developed delirium received 
+DEX, vs. 57.2% who did not 
+develop delirium
+Single predictive factors had less 
+predictive probability than the 
+predictive model, indicating that 
+when DEX is combined with 
+other risk factors, the patient is at 
+increased risk of delirium
+TABLE 1 (Continued)
+(Continues)
+[[p10]]
+10 of 22 |   
+O'KANE et al.
+Study type Population Dose; Duration Methods Results Conclusions
+Mcadams32 PopPK Model Setting: ICU
+Population: 
+Neonates with 
+HIE
+Age: 37–41 weeks 
+GA
+N = 7 neonates
+Infusion:
+0.2 μg/kg/1 h, then 0.3 μg/
+kg/h for 2.5 h, then 0.4 μg/
+kg/h
+Model: 1 compartment
+Covariates: Age, 
+weight, ALT, Scr, 
+cooling duration and 
+body temperature 
+fluctuations
+Vd: 7.48 L/kg
+CL: 0.697 L/kg/h
+Cp: 0.300–0.900 ng/mL
+Significant covariates:
+None
+CL was low, but Vd, MRT, and 
+t1/2 were higher compared with 
+normothermic, non- HIE neonates
+In cooled neonates with HIE, 
+a loading dose or more rapid 
+titration may be needed
+DEX adequately controlled pain/
+sedation in 85% of the patients, 
+and controlled shivering in 5 of 7 
+without rescue morphine
+Takeuchi46 Clinical study 
+on age- specific 
+dexmedetomidine 
+dosing in the PICU
+Setting: ICU
+Age: 45 weeks 
+CGA-  17 years old
+N = 61
+<6 years old
+Infusion: 0.2–1.4 μg/kg/h
+≥6 years old
+Infusion: 0.2–1.0 μg/kg/h
+Analysis of DEX Cp and 
+effect on 24- hour rescue 
+midazolam or fentanyl 
+demand, AEs and 
+sedation scores
+77% of patients did not require 
+rescue midazolam
+88.5% did not require rescue 
+analgesic fentanyl
+Age- specific dose regimens 
+without a loading dose achieved 
+adequate sedation without 
+clinically significant AEs
+A goal Cp of 0.3–1.25 ng/mL 
+may mitigate hemodynamic and 
+respiratory AEs
+van 
+Dijkman33
+PopPK Model Setting: ICU
+Age: 34–44 weeks 
+PMA
+N = 6
+Infusion: 0.3 μg/kg/h Model: 2 compartment 
+model
+Covariates: PMA and 
+weight
+V1: 80.4 L
+V2: 142 L
+CL: 42.1 L/h
+Q2: 12.5 L/h
+−83% of patients needed 
+fentanyl rescue
+Significant covariates:
+PMA
+0.3 μg/kg/hour infusion over 24 h 
+reached concentrations just below 
+0.6 ng/mL, with 95% of neonates 
+under 1.0 ng/mL and 83% above 
+0.4 ng/mL
+CL for a typical neonate, PMA of 
+40 weeks, 3.4 kg, was 2.92 L/h
+Higher target Cp may be necessary 
+for neonatal sedation
+Abbreviations: AE, adverse event; ADRA2A, adrenoceptor alpha 2a; AKI, acute kidney injury; ALT, alanine transaminase; BP, blood pressure; CGA, corrected gestational age; Cl, clearance; CPB, cardiopulmonary 
+bypass; CPG, clinical practice guideline; CP, plasma concentration; CYP, cytochrome p450; DAP, diastolic arterial pressure; DEX; dexmedetomidine; eGFR, estimated glomerular filtration rate; GA, gestational age; HIE, 
+hypoxic ischemic encephalopathy; ICU, intensive care unit; IIV, inter- individual variability; INR, international normalized ratio; JET, junctional ectopic tachycardia; MgSO4, magnesium sulfate; MRT, mean residence 
+time; NS, normal saline; PD, pharmacodynamics; PMA, postmenstrual age; PopPK, population pharmacokinetics; PK, pharmacokinetics; PGx, pharmacogenomics; Q, distribution rate; rs, reference single- nucleotide 
+polymorphism cluster ID; SAP, systolic arterial pressure; Scr, serum creatinine; SNP, single- nucleotide polymorphism; t1/2, half- life; TCI, target- controlled infusion; UGT, uridine 50- diphospho- glucuronosyltransferases; 
+UHPLC–MS/MS, ultra performance liquid chromatography – tandem mass spectrometer; V, Vd, volume of distribution.
+TABLE 1 (Continued)
+[[p11]]
+   | 11 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+TABLE 3 Adult and pediatric pharmacogenomic studies.
+References Study type Population Dose; duration Genes studied Results Conclusions
+Ber14 PopPK model Setting: ICU
+Age: 
+0.25–88 years
+N = 70
+Continuous infusion: 
+0.08–2 μg/kg/h
+CYP1A2, CYP2A6, CYP2A6, 
+UGT2B10, CYP2E1, CYP2C19, 
+CYP2D6
+Inclusion of CYP1A2*F genotype 
+and norepinephrine decreased 
+IIV by ~5% (≥20% reduction is 
+needed for clinical significance)
+CYP1A2*1F (rs762551) 
+genotype and norepinephrine 
+were identified as statistically, 
+but not clinically significant 
+covariates for DEX CL
+Choi22 Prospective trial Setting: Surgical
+Age: ≥50 years
+N = 134 patients
+Infusion: 2 μg/kg ADRA2A polymorphisms vs 
+wild- type
+No differences in total DEX doses 
+or sedation scores
+Genetic polymorphisms of 
+ADRA2A did not appear to 
+impact the efficacy of DEX
+Ding59 Prospective trial Setting: Surgical
+Age: 41.88 ± 14.40
+N = 92 patients
+Bolus: 0.5 μg/kg for 
+10 min
+Infusion: 0.4 μg/kg/h
+CYP2A6, UGT1A4, UGT2B10, 
+ADRA2A, ABCG2, ABCB1, 
+ABCC2, ABCC3, SLCO1B1, 
+SLC22A1, CYP1A2, CYP2C19, 
+CYP2D6, WBP2NL, SLC31A1, 
+KATP, KCNJ11, KCNMB1, 
+KCNMA1, KCNN4, CACNA1D, 
+CACNA1C, ABCC9, ADRB2, 
+COMT, GNB3, PRKCB, and 
+PRKCH
+ADRA2A rs1800544 C allele 
+carriers required higher doses 
+of dexmedetomidine to achieve 
+sedation
+CYP2D6 rs16947 A allele carriers 
+achieved sedation at lower doses
+Clinical response was 
+significantly altered by 
+transporters ABCG2, WBP2NL, 
+KATP, KCNMB1, KCNMA1, 
+ABCC9, ADRB2
+Both ADRA2A and CYP2D6 
+polymorphisms impacted 
+patient response to DEX, 
+indicating that response 
+variability is multifactorial
+Transporter SNPs appear to 
+impact DEX response
+Fang56 Prospective cohort 
+study
+Setting: Surgical
+Age: 18–60 years
+N = 194 females
+Infusion: 1 μg/kg for 
+10 min, followed by 
+standard anesthesia
+CYP2A6, UGT2B10, UGT1A4, 
+ADRA2A, ADRA2B, ADRA2C, 
+GABRA1, GABRA2, GLRA1
+Carriers of the minor allele (C) of 
+CYP2A6 rs28399433 had higher 
+Cp and increased sedation scores
+The GG allele of GABRA2 
+rs279847 polymorphism was 
+significantly associated with HR 
+abnormality
+CYP2A6 rs28399433 C allele 
+likely has lower metabolic 
+efficiency and/or better 
+binding, increasing drug 
+exposure and sedation
+Fu21 Prospective clinical 
+trial
+Setting: Surgical
+Age: 20–36 years
+N = 434 women
+Bolus: 4 mg intrathecal, 
+followed by 0.5 μg/
+kg IV
+ADRA2A polymorphisms vs 
+wild- type
+Post- anesthesia, PTh and PTTh of 
+wild- type birth- givers increased 
+significantly more than those 
+with SNPs containing G or T 
+alleles
+Mutations of rs1800035, 
+rs201376588 and rs775887911 
+in ADRA2A appear to reduce 
+the anesthetic and analgesic 
+effect of DEX in adult women
+Wild- type ADRA2A likely has 
+increased metabolic efficiency 
+and/or better binding than 
+polymorphic ADRA2A in this 
+population
+(Continues)
+[[p12]]
+12 of 22 |   
+O'KANE et al.
+References Study type Population Dose; duration Genes studied Results Conclusions
+Gallaway23 Prospective 
+observational study
+Setting: ICU
+Age: 
+1 week-  18 years
+N = 40 children
+Infusion: 0.22–1.3 μg/
+kg/h
+ADRA2A polymorphism vs. 
+wild- type
+Patient age and time to effective 
+dose, but not genotype, was 
+significantly correlated with DEX 
+mean dose
+DEX PK and PD does not seem 
+to differ between wild- type and 
+variant ADRA2A rs1800544 
+genotypes
+Guan
+55
+Application of 
+UHPLC–MS/MS 
+method
+Setting: Surgical
+Age: 2–72 months
+N = 260 children
+Intranasal: 3 μg/kg CYP2A6 polymorphisms vs 
+wild- type
+CYP2A6 rs835309 T allele 
+carriers were significantly 
+correlated with lower Cp than 
+wild- type (0.397 ng/mL vs. 
+0.456 ng/mL)
+There may be a correlation 
+between CYP2A6 rs835309 
+polymorphisms and DEX Cp 
+in pediatric patients
+James36 PopPK Model Setting: Surgical 
+and ICU
+Age: 0–22 years
+N = 354 children
+Infusion: Median 
+0.6 μg/kg/hour over a 
+median duration of 2 h
+UGT1A4, UGT2B10, and 
+CYP2A6 polymorphisms vs. 
+wild- type
+Genotype had no statistically 
+significant impact on CL or Cp
+Despite 20% estimated CL 
+reduction with UGT1A4 
+variants, there does not appear 
+to be a significant impact 
+of UGT1A4, UGT2B10, or 
+CYP2A6 genomic variation on 
+pediatric DEX PK
+Shannon57 GWAS and PopPK 
+Model
+Setting: Surgical 
+and ICU
+Age: 
+5 months- 6 years
+N = 280 children
+Not reported 1,121,432 genetic variants
+Covariates: UGT1A4, UGT2B10, 
+CYP2A6, age, PNA, PMA weight, 
+sex, mortality score, CPB time, 
+length of ICU stay, Scr
+36% of the heritable variability 
+was due to 2997 small- effect 
+variants
+26% heritable variability was due 
+to 264 moderate- effect variants
+38% heritable variability was due 
+to 57 large- effect variants.
+Significant covariates:
+PMA and body weight
+While high variability was 
+demonstrated, no single 
+polymorphism or gene was 
+significantly associated with 
+PK alterations
+DEX variability is highly 
+polygenomic in nature
+Yaar20 Prospective Trial Setting: Surgical
+Age: 36–80 years
+N = 110 patients
+Continuous Infusion: 
+1.4 μg/kg/h
+ADRA2A polymorphisms vs. 
+wild- type
+Patients carrying variant G allele 
+of ADRA2A 1291G (rs1800544) 
+had decreased sedative response
+There were no genotypic 
+differences in the hemodynamic 
+(SAP, DAP, HR) responses, or in 
+DEX dose
+There appears to be a weak 
+clinical effect of ADRA2A 
+1291G allele presence in 
+response to DEX
+TABLE 3 (Continued)
+[[p13]]
+   | 13 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+increase in serum creatinine of either ≥0.3 mg/dL, or ≥50%, 
+or a decrease in urine output of <0.5 mL/kg/h for >6 h.47 
+Compared with a matched infusion of normal saline, 
+dexmedetomidine significantly reduced the incidence of 
+AKI and increased estimated glomerular filtration rate 
+(eGFR) in a randomized controlled trial (Table 2).43 There 
+were no significant differences in pressor requirements or 
+hemodynamics, and no diuretics were used during and 
+after the surgery. Patients received equal doses of anes-
+thesia and benzodiazepines. 43 The alpha- 2- agonism and 
+anti- inflammatory effects of dexmedetomidine may have 
+a reno- protective effect in patients who are critically ill or 
+undergoing surgery. 43,48,49 However, a randomized trial 
+by Kim et al. 44 demonstrated that this effect may not be 
+significant in a larger population (n = 139 vs. 29). In chil-
+dren receiving intraoperative dexmedetomidine vs. pla-
+cebo, there was no significant difference in AKI or other 
+clinical outcomes, although the dexmedetomidine group 
+had lower overall serum creatinine and higher eGFR 
+(within normal limits). 43,44 Notably, Kim's study group 
+was younger in age than Jo et al.'s (1.5–2 vs. 1–6 years old) 
+and received a higher loading dose (1 μg/kg vs. 0.5 μg/kg). 
+While there is a numerical difference in the renal out-
+comes of these patients (Table  2), there is weak evidence 
+of dexmedetomidine being clinically reno- protective dur-
+ing surgery.43,44
+Due to its mechanism of action and metabolic path-
+way, dexmedetomidine may have noteworthy PK/PD 
+interactions related to cardiac and hepatic function. A 
+potential benefit of its alpha- 2- agonism is the reduc-
+tion of junctional ectopic tachycardia (JET) incidence, 
+a life- threatening arrythmia that can occur after con-
+genital heart surgery. 42 Kim et al.'s 44 study, as described 
+above, found no difference in postoperative JET or 
+other arrhythmia occurrence between the dexmede -
+tomidine and placebo groups (Table  2). However, in a 
+2024 study, Hassan et  al. compared JET occurrence in 
+three groups of randomized pediatric cardiac surgery 
+patients: Group MD, receiving IV dexmedetomidine and 
+magnesium sulfate; Group D, receiving dexmedetomi-
+dine alone; and Group C (control). JET occurred in 30% 
+of the control group vs. 10% of group D and 2.5% of the 
+group MD (p  = 0.007). Use of dexmedetomidine alone 
+or with magnesium significantly mitigated the risk of 
+JET, shortening both cardiac care unit and hospital stays 
+(Table 2).42 Lastly, Damian et al. studied the PK of dex -
+medetomidine in patients between 1 month and 18 years 
+of age after liver transplantation and determined that 
+post- translation international normalized ratio (INR) 
+was a covariate for clearance. 34 There was not an associ-
+ation between patient weight, distribution kinetics, liver 
+transplant type (whole or split) donor, and dexmedeto -
+midine CL (Table  2). The authors mentioned that this 
+References Study type Population Dose; duration Genes studied Results Conclusions
+Zhu58 Prospective trial Setting: Surgical
+Age: 27 to 
+60 years
+N = 60 patients
+Infusion: 1 μg/kg over 
+10 min
+ADRA2A polymorphisms vs 
+wild- type
+ADRA2A rs1800544 C allele 
+carriers had significantly lower 
+HR than wild- type
+There was no significant BP or 
+sedation score difference between 
+the A1780G and C- 1291G 
+polymorphisms and wild- type
+ADRA2A C- 1291G 
+polymorphism may affect HR 
+changes in adult patients after 
+DEX infusion
+Younger age (41 ± 7.51 years) 
+was associated with higher 
+HR reduction than older age 
+(47.95 ± 7.19 years)
+Abbreviations: AE, adverse event; ADRA2A, adrenoceptor alpha 2a; AKI, acute kidney injury; ALT, alanine transaminase; BP, blood pressure; CGA, corrected gestational age; Cl, clearance; CPB, cardiopulmonary 
+bypass; CP, plasma concentration; CYP, cytochrome p450; DAP, diastolic arterial pressure; eGFR, estimated glomerular filtration rate; GA, gestational age; HIE, hypoxic ischemic encephalopathy; HR, heart rate; 
+ICU, intensive care unit; IIV, inter- individual variability; INR, international normalized ratio; MRT, mean residence time; PD, pharmacodynamics; PMA, postmenstrual age; PopPK, population pharmacokinetics; PK, 
+pharmacokinetics; PGx, pharmacogenomics; Q, distribution rate; rs, reference single- nucleotide polymorphism cluster ID; SAP, systolic arterial pressure; Scr, serum creatinine; SNP, single- nucleotide polymorphism; 
+t1/2, half- life; tBILI, total bilirubin; TCI, target- controlled infusion; UGT, uridine 50- diphospho- glucuronosyltransferases; UHPLC–MS/MS, ultra performance liquid chromatography -  tandem mass spectrometer; V, Vd, 
+volume of distribution; Vss, volume of distribution at steady state.
+TABLE 3 (Continued)
+[[p14]]
+14 of 22 |   
+O'KANE et al.
+TABLE 4 Pharmacogenomic alleles and effects.
+Receptor polymorphisms
+Enzyme Rs number
+Allele substitution (substitution 
+frequency)
+Clinical effects
+PT PTTh
+Pain markers (VAS, 
+cortisol and blood 
+glucose) Sedation
+Time to 
+achieve 
+sedation
+Sedation 
+demand BP HR
+DEX demand/
+dosing
+ADRA2A rs180003521 C > G (27%) ↓ ↓ ↑ ↓ a 
+rs20137658821 C>T (30%) ↓ ↓ ↑ ↓
+rs77588791121 C>T (29%) ↓ ↓ ↑ ↓
+rs180054420–23,56,58,59 G>C (30%) ↓/= = = = ↑/= ↑/=
+rs248451622,56 C>G (10%) = = = =
+rs180054522 G>A (17%) = = =
+rs55366822,56,58 G>A (16%) = = = = =
+rs375062522 A>G (53%) = = =
+ADRA2B rs490729956 G>T (53%) = =
+rs222916956 G>T (46%)
+ADRB2 rs104271321 A>G (42%) ↑
+ADRA2C rs1126912456 G>DEL (67%) = =
+GABRA1 rs7744593656 T>C (20%) =
+rs1157600156 A>G (53%) = =
+GABRA2 rs27984756 G > T (75%) = =
+rs1043368556 G>C (31%) =
+GABRB2 rs1021409456 A>G (8%) = =
+Metabolic polymorphisms
+Enzyme Rs number
+Allele substitution (substitution 
+frequency)
+Clinical effects
+HR BP
+DEX demand/
+dosing Sedation Cp CL Vd
+CYP1A2 rs76255114,59 A>C (40%) = = =
+CYP2A6 rs11328860356 C>T (48%) =
+rs5611385056,59 T>C (32%) = = = =
+rs83530936,55 G>T (16%) ↓ =
+rs2839y9414,36,56,59 A>C (29%) = = ↑ ↑ ↓/= ↓/=
+rs14373139014,59 T>A (11%) = = = = = =
+[[p15]]
+   | 15 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+Metabolic polymorphisms
+Enzyme Rs number
+Allele substitution (substitution 
+frequency)
+Clinical effects
+HR BP
+DEX demand/
+dosing Sedation Cp CL Vd
+CYP2C19 rs424428514,59 G>A (33%) = = = =
+rs1224856014,59 C>T (1%) = = = = =
+CYP2D6 rs106585214,59 C>T (38%) = = =
+rs2837172514,59 A>G (4%) = = = =
+rs1694714,21,59 G>A (15%) = = ↓ ↑ = =
+rs389209714,59 G>A (1%) = = = =
+rs113584014 G>A (25%) = =
+UGT1A4 rs675557136 C > A (4%) =
+rs389222136 C>T (1%) =
+rs201142536,59 A>C (21%) = = = =
+rs1246835614,56 A>G (17%) = = = =
+rs833014,56 C>G (10%) = = = =
+UGT2B10 rs617509009 G>T (7%) =
+rs11256147536 A>G (2%) =
+rs294285736 A>C (12%) = =
+rs11545562714,56 C>T (22%) = = = =
+rs1194032014,56 G>A (17%) = = = =
+rs83530959 G>T (49%) = = =
+Abbreviations: BP, blood pressure; Cp, plasma concentration; CL, clearance; DEX, dexmedetomidine; HR, heart rate; PT, pain 849 tolerance; PTTh; pain tolerance threshold; rs, reference single- nucleotide 
+polymorphism cluster ID; VAS, visual analogue score; VD, volume of distribution; ↑ increase; ↓, decrease; =, no change.
+aCells left blank were not evaluated [] Reference allele for tri- allelic polymorphisms.
+TABLE 4 (Continued)
+[[p16]]
+16 of 22 |   
+O'KANE et al.
+could be due to differences in transplanted liver mass-  
+to- body weight (children often receive grafts which are 
+bigger than their original organ). 34 While liver mass 
+and dexmedetomidine clearance was not correlated 
+with liver mass, tBILI or ALT in this study, INR proved 
+to be a significant covariate for clearance (Table  1).34 
+Dexmedetomidine is hepatically metabolized, and liver 
+transplant patients are a unique case where weight may 
+be a poor indicator of dose kinetics and response. 10,11,34 
+The results of these studies provide consistent but weak 
+evidence of reno- protection and mixed evidence of ar -
+rhythmia reduction from perioperative dexmedetomi-
+dine. Damian et al.'s study also provides evidence that 
+patients undergoing liver transplant should not be dosed 
+exclusively based on body weight due to fluctuations in 
+the function of the adapting liver.
+II. Continuous sedation
+The PK of dexmedetomidine differs when used for con-
+tinuous sedation instead of procedural sedation. The 
+concentration shift of dexmedetomidine into a third com-
+partment may still occur, as many critically ill patients 
+can experience dramatic fluid shifts and hypotension.1,5,37 
+However, in contrast to the data from procedural seda-
+tion, most models for continuous sedation in the ICU 
+found that a two- compartment model provided the most 
+accurate data fit (Tables 1 and 2).14,33,34,38 The relationship 
+between dexmedetomidine distribution and clinical effect 
+or AEs is not well documented. However, it is clear that 
+both age and body size impact dexmedetomidine metabo-
+lism and demand.
+In contrast to data on procedural opioid-  sparing ef-
+fects, continuous infusions of dexmedetomidine may not 
+decrease the overall analgesic demand in the ICU. There 
+have been several documented protocol implementations, 
+in which investigators have made dexmedetomidine the 
+first tool for patient comfort while allowing opioids to 
+be used as a secondary therapeutic. Dexmedetomidine 
+and opioids are titrated to a target effect (shivering, pain, 
+or sedation level), in patients. The implementation of a 
+dexmedetomidine clinical practice guideline did not sig -
+nificantly reduce opioid exposure in the NICU. 40 In their 
+recently published study, and a follow- up chart review, 
+Dersch- Mills et  al. showed a clinical reduction in total 
+opioid exposure and duration of opioid use but failed to 
+demonstrate statistical significance (Table 2).40,50 Authors 
+argue that dexmedetomidine should not be given exclu-
+sively for opioid reduction in the NICU. In a study con-
+ducted by McAdams et  al. on shivering prevention for 
+neonates with hypoxic ischemic encephalopathy (HIE), 
+it was found that dexmedetomidine could serve as a 
+potential alternative to morphine, providing a non- opioid 
+route for HIE care in the NICU (Table 2).32 A larger study 
+from Elliott et al. 41 in the HIE population demonstrated 
+that dexmedetomidine can effectively and safely serve as 
+a first- line alternative to morphine and other opioids for 
+both sedation and shivering prevention. In this particu-
+lar population, initiation of a protocol using dexmede -
+tomidine as a first- line sedative led to decreased opioid 
+exposures of 87%–95% (Table  2).41 However, in the gen-
+eral neonatal ICU populations, there appears to be mixed 
+evidence of opioid reduction with dexmedetomidine. 40,50 
+At the minimum, it seems to provide a clinical and nu-
+merical benefit in terms of overall patient comfort and 
+analgesic burden.
+In regards to sedation level, Song et  al. found that 
+during a short, continuous infusion of dexmedetomi-
+dine, there was no difference in sedation scores between 
+patients randomized to high dose (0.5 μg/kg loading 
+dose + 0.5 μg/kg/h) and low dose (0.25 μg/kg loading 
+dose + 0.25 μg/kg/h) groups. 38 Patients in both groups 
+attained the target of moderate to deep sedation, but it 
+should be noted that these patients were recovering from 
+immediate surgery where they had received a propofol 
+TCI as well as sufentanil. This was the only study in our 
+search which compared the effect of dexmedetomidine 
+dose on sedation in the ICU.38 Van Dijkman et al. did not 
+compare sedation scores among doses but found that five 
+of six neonates receiving 0.3 μg/kg/h of dexmedetomidine 
+for 24 h needed rescue fentanyl for pain/sedation. While 
+this is a small sample size, it suggests that in an extended 
+duration of continuous sedation, higher doses may be 
+needed to maintain target comfort and sedation scores. 33
+IIA. Adverse events in continuous sedation
+When used in continuous sedation, dexmedetomidine 
+may induce bradycardia and hypotension due to its al-
+pha- 2 agonism and has been independently associated 
+with delirium risk. 13,40,41,51  According to the package 
+insert, bradycardia occurs in up to 42% of adults and 
+57% of children, hypotension occurs in up to 56% of 
+adults and 31% of children, and delirium has been docu-
+mented at unspecified occurrence rates. 10 Dersch- Mills 
+et al.'s study reported that 50% of patients on high dose 
+(≥0.5 μg/kg/h) dexmedetomidine experienced hypoten-
+sion and 27.3% experienced severe bradycardia, with 
+only 25% and 7.7% of patients on low dose (<0.5 μg/kg/h) 
+experiencing the same effects, respectively (Table  2).40 
+These results were from a small sample, and were not 
+statistically significant. In Elliott et al.'s study, 9.6% of 
+neonates receiving ≤ 0.4 μg/kg/h discontinued dexme-
+detomidine due to bradycardia. 41 While no patients in 
+[[p17]]
+   | 17 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+this study received ≥ 0.5 μg/kg/h (Table  2), this percent-
+age aligns with data from Dersch- Mill et al., as well as 
+previous studies and literature reviews. 40,52 Takeuchi 
+et al. reported that 4.9% of children and infants experi-
+enced dexmedetomidine- related hypotension, and 11% 
+experienced dexmedetomidine- related bradycardia, 
+with no correlation to plasma concentration or dose. 46 
+Song et al's 38 group also noted no difference in brady-
+cardia or hypotension between high and low doses of 
+dexmedetomidine, although patients in this study only 
+received an hour- long infusion.
+Other pediatric studies have failed to show the cor -
+relation between dexmedetomidine concentration and 
+adverse effects. A meta- analysis from Wang et al.53 deter-
+mined that there was no correlation between the clinical 
+dose of dexmedetomidine and pediatric AEs, including 
+bradycardia and hypotension. A model by Greenberg 
+et  al. showed no difference in critically ill infants be -
+tween the average concentration of dexmedetomidine 
+and the predicted concentration in moments of hypo -
+tension (0.42 ng/mL [0.28–0.56] vs 0.56 ng/mL [0.25–
+0.77], respectively; p  = 0.58).35 A confounding factor in 
+these studies is the critical condition of the patients, 
+which can cause hemodynamic alterations and changes 
+in heart rate. 5,35,41,53  An interesting study conducted by 
+Lin et al. showed that in critically ill patients, those who 
+were receiving dexmedetomidine were at a higher risk 
+for delirium than those who were not (Table  2).45 This 
+risk was considered additive with other factors, indicat -
+ing that this adverse event occurs more frequently when 
+patients have multiple risk factors, such as younger age, 
+higher pain scores, or developmental delay. 45 Contrarily, 
+Takeuchi et al.'s 46 group reported no delirium in 61 pa-
+tients between 4 months and 6 years of age. Their de -
+mographic included young patients as well as high pain 
+scores (91% receiving fentanyl for postoperative pain) 
+but did not include patients with developmental delay. 46 
+Delirium with dexmedetomidine appears inconsistently 
+in pediatrics, and may or may not be correlated with dex -
+medetomidine. The studies noted above show that dex -
+medetomidine's cardiovascular and vasoactive effects 
+appear consistently in pediatrics, but do not appear to 
+be dose-  dependent during continuous sedation. The de -
+gree of hypotension and bradycardia may be dependent 
+on genetic variability at the site of action, the ADRA2A, 
+which is discussed in the next section.
+Pharmacogenomics
+PGx helps predict individual patients' response to tar-
+get medications. 54 When considering genes relevant to 
+dexmedetomidine response, there are two main areas 
+of focus: (1) Variation in genes involved in metabolism 
+and (2) variation in the adrenergic receptor, which is 
+dexmedetomidine's site of action. Dexmedetomidine is 
+????mL???
+UGT2B10 and 1A4 and, to a lesser degree, hydroxylation 
+by CYP enzymes, including CYP2A6 and1A2.11,14,17–19
+PGx has been incorporated into PopPK models of dex -
+medetomidine. Ber et  al. incorporated PGx, PD and PK 
+data into their PopPK model (Table  3).14 They found that 
+the CYP1A2*1F (rs762551) allele presence was associated 
+with ~1.5- fold higher clearance than wild- type (Table 4).14 
+However, authors did not report associations between se -
+dation scores and kinetics. The authors also noted that 
+the identified covariates are of low clinical significance 
+for dose adjustment, as they accounted for only ~5% over-
+all variability. This variability may have been magnified 
+by the heterogeneity of the studied population. 14 James 
+et  al. incorporated electronic health record data from a 
+group of children under 2 years, post- cardiac surgery, into 
+their PopPK model and estimated the pharmacokinetic ef-
+fects of several genomic variants for UGT1A4, UGT2B10, 
+CYP2A6.36 In this large population, no genomic covariates 
+were statistically significant (Table  4). UGT1A4 variants 
+of any kind were expected to have 20% reduction in clear-
+ance but did not appear to have a clinical effect according 
+to the model. 36 Notably, their model did not incorporate 
+the CYP2A6 (rs835309), which was found to be a signifi-
+cant covariate in an earlier study of 260 pediatric surgical 
+patients by Guan et  al. 55 This study found that patients 
+with this allele had significantly lower dexmedetomidine 
+Cp than wild- type (Tables 3 and 4). 55 Further studies on 
+this genomic mutation are needed to determine its clinical 
+effect. Thus far, PopPK studies have not shown a correla-
+tion between metabolic genomic variants and clinical out-
+comes for dexmedetomidine. As noted above, UGT2B10 
+has been determined to be a major contributor to the dex-
+medetomidine metabolic pathway. 17–19 There have been 
+two clinical studies from James et  al. and Fang et  al. to 
+date on the relationship between this enzyme and dexme-
+detomidine pharmacology with no demonstrated associ-
+ation between polymorphisms and PK/PD (Tables  3 and 
+4).36,56 The data from James et  al.'s cohort was recently 
+incorporated into a genome-  wide association study by 
+Shannon et al. 57 Their study found that while about 35% 
+of dexmedetomidine pediatric PK is impacted by pharma-
+cogenomics, there is no significant correlation between 
+dexmedetomidine clearance and any specific single poly -
+morphism (SNP), including UGT2B10 (Tables 3 and 4).57
+An alternative cause for variability in patient re -
+sponse is genomic variance at the drug's target receptor; 
+ADRA2A. Associations between ADRA2A polymorphisms 
+and dexmedetomidine response have been studied in 
+five different distinct homogenous adult populations 
+[[p18]]
+18 of 22 |   
+O'KANE et al.
+(Table 3).20–58,59 Specifically, in Yaar et al.'s study on adult 
+patients undergoing cardiac surgery, and a separate study 
+from Ding et  al. on those undergoing hand surgery, pa-
+tients with the ADRA2A gene polymorphism (rs1800544) 
+had lower sedation scores (indicating higher amounts of 
+sedation) than wild- type (Table  4).20,59 In contrast, Zhu 
+et  al.'s 2019 study of surgical patients showed no differ -
+ence in sedation scores between groups, but showed a sig-
+nificantly reduced heart rate in the ADRA2A (rs1800544) 
+cohort (Tables 3 and 4).58 These studies provide contradic-
+tory results, with reduced sedation (i.e. reduced efficacy) 
+in one cohort, but increased bradycardia (potentially in-
+creased adrenergic effect and heightened AEs) in another. 
+Importantly, the study from Zhu et al. did not elaborate 
+on subject's concomitant medications that may have im-
+pacted heart rate. 58 Choi et al.'s study in an adult cohort 
+with ADRA2A SNPs, including rs1800544, showed no 
+such correlation with sedation, and did not report any 
+data on heart rate (Tables 3 and 4).22 The link between the 
+rs1800544 polymorphism and dexmedetomidine effect 
+remains unclear. Other ADRA2A gene polymorphisms 
+(rs1800035, rs201376588, rs775887911) were studied by 
+Fu et al. in a cohort of women undergoing cesarean de -
+livery.21 Patients carrying any of these variant alleles had 
+reduced anesthetic and analgesic effect from dexmedeto -
+midine during and after surgery, which was considered 
+statistically and clinically significant (Tables 3 and 4).21 Of 
+note, there were no cardiovascular or circulatory correla-
+tions observed in the cohort.
+A study by Fang et al. investigated the relationship be-
+tween dexmedetomidine PD and polymorphisms of the 
+GABRA1 and 2 receptors in addition to looking at ADRA2A 
+receptor and metabolic enzyme polymorphisms. 56 These 
+alleles play a role in GABAergic neurotransmission; a 
+pathway that alpha- 2 agonists have been shown to in-
+hibit.56,60 This study, conducted in females, found that 
+carriers of the G allele of GABRA2 rs279847 had a much 
+higher incidence of bradycardia than wild- type patients. 
+These individuals may have reduced GABRA2 expression, 
+and thus have increased parasympathetic activity down-
+stream of the ADRA2A receptor.56,60 This study found no 
+correlation between ADRA2A polymorphisms and phar -
+macokinetic or pharmacodynamic alterations in patients 
+(Tables 3 and 4).56
+It is important to note that the cohorts in the above 
+studies were not healthy volunteers and had a wide vari-
+ety of factors impacting their PK and clinical status. These 
+studies show varying effects of dexmedetomidine in pa-
+tients with ADRA2A SNPs, but do not provide definite 
+causation of AEs or altered sedation. Assessed as a whole, 
+these trials indicate a potential, but weak correlation be -
+tween ADRA2A PGx and clinical outcomes for adults re -
+ceiving dexmedetomidine for procedural sedation.
+Few pediatric studies have been conducted regarding 
+the relationship between PGx and PD effects of dexme -
+detomidine. Our group studied dexmedetomidine dosing 
+in a PICU cohort and compared cumulative medication 
+burden in patients with ADRA2A (rs1800544) polymor -
+phisms.23 This study found there was no significant 
+correlation between dexmedetomidine response and gen-
+otype (Tables 3 and 4).23 While this study had a relatively 
+low sample size (n = 40), and included critically ill pa-
+tients with alterations to PK, it provided the first and only 
+data on ADRA2A polymorphisms and dexmedetomidine 
+response in pediatrics.23,24 Based on this study, there does 
+not appear to be a correlation between ADRA2A variants 
+in children and PD effect of dexmedetomidine.
+DISCUSSION
+Our systematic literature review summarizes informa-
+tion on various pediatric cohorts, ranging from neonates 
+to adolescents, relatively healthy surgical patients to 
+critically ill, and includes studies specific to diseases and 
+procedures, including liver transplant and cardiopulmo-
+nary bypass, that affect pediatric patients. Due to low 
+dexmedetomidine clearance in early infancy, neonates 
+and younger infants may have reduced dexmedetomidine 
+demand, independent of weight. 15,32,33 However, provid-
+ers should be cautioned against empirically under- dosing 
+younger patients. As shown in both Greenberg et al. and 
+Disma et  al.'s studies, some infants and children under 
+two require high target plasma concentrations between 1 
+and 2 ng/mL to achieve target sedation goals. 25,35 Young 
+children appear to display more varied PK than adoles-
+cents, with children under 6 years old requiring a wider 
+dosing range (0.2–1.4 μg/kg/h) than children of 6 years old 
+and older (0.2–1.0 μg/kg/h).46 studies included in this re-
+view include a significant number of covariates that were 
+found to impact dexmedetomidine PK and PD in chil-
+dren. The most common of these were patient size and 
+age. A good resource for providers would be the Dutch 
+Pediatric Formulary, which provides weight, age, and tar-
+get plasma concentration- based dosing for patients older 
+than 1 month of age. 61 These dosing recommendations 
+include procedural sedation and premedication, and pre-
+vention of postoperative agitation/delirium. 61 We believe 
+our review adds to this body of knowledge by providing 
+insight on continuous sedation in pediatrics. Based on 
+the data collected, we recommend that providers start at 
+lower doses (0.2–0.4 μg/kg/h) in infants and young chil-
+dren, and titrate up based upon effect (sedation) and tol-
+erance (absence of adverse effects). 38,40,46 Children above 
+3 years old have demonstrated a higher clearance rate for 
+dexmedetomidine, and based on the studies above, it may 
+[[p19]]
+   | 19 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+be safe to initiate these patients at 0.4 or even 0.5 μg/kg/h, 
+titrating the dose according to the sedation goal.32,33,38
+While genotype appears to play a role in the variabil-
+ity of metabolism and PD effect of dexmedetomidine, the 
+current data do not provide strong evidence for genotype- 
+guided dosing. For ADRA2A, there has only been one 
+pediatric study conducted, which showed no significant 
+effect of the polymorphic variants on sedation scores, as 
+compared with adults. 23 It is noteworthy that this study 
+had robust polymorphic distribution, with 10 wild- type 
+patients, 15 heterozygous, and 15 homozygous for the rs 
+polymorphic allele rs1800544.23 While some adult studies 
+have shown an impact of this and other ADRA2A poly -
+morphisms on dexmedetomidine's effect, 20,21,58,59 other 
+studies have shown no such difference,22,56 indicating that 
+dexmedetomidine's PD variability may have one or many 
+different causes. In our systematic review, we have shown 
+that pediatric patients undergoing continuous sedation 
+do not have a tight correlation between dexmedetomi-
+dine dose and sedation scores or adverse events, 38,40,41,46 
+implying that dose alterations do not significantly impact 
+dexmedetomidine's adrenergic effect in this population. 
+Additionally, while there have been some associations 
+between CYP1A2 and 2A6 and dexmedetomidine phar -
+macokinetics, no significant pharmacodynamic effects 
+have been shown in studies involving the pediatric pop -
+ulation.14,55 Based on the current evidence, metabolic 
+polymorphisms should not be considered when dosing 
+dexmedetomidine in pediatric patients.
+When using dexmedetomidine for the prevention of 
+agitation or delirium, providers should also be aware of 
+the post-  surgical delirium risk prediction model by Lin 
+et  al.,45 and screen patients for additive covariates that 
+may increase delirium risk when combined with dexme -
+detomidine. Children undergoing surgery will also have 
+an altered PK, and third spacing should be accounted for 
+in patients undergoing cardiac bypass. 37 These patients 
+may need higher procedural doses of dexmedetomidine 
+due to a larger Vd.43
+Several studies have summarized the impact of proce -
+dural dexmedetomidine on target organs. 42–44 Pediatric 
+postoperative data are mixed on dexmedetomidine's reno 
+and cardioprotective properties. Jo et al.'s study design was 
+similar to the larger cohort that Kim et  al. analyzed for 
+dexmedetomidine- related AKI.43,44 Kim et al.'s 2020 study 
+failed to demonstrate renal protection, indicating that dex-
+medetomidine should not be given intraoperatively solely 
+for AKI reduction. 44 Cardiac results from Hassan et  al. 
+and Kim et  al. are difficult to compare directly, as Kim 
+et al.'s intervention did not include a postoperative dexme-
+detomidine infusion, and their primary end point did not 
+include cardiac outcomes.42,44 Unlike their study, Hassan 
+et  al.'s trial was designed to identify cardiac outcomes, 
+which may have led to small differences in study design 
+and implementation.42 Their reduction of JET with dex -
+medetomidine alone and dexmedetomidine combined 
+with magnesium indicate that the inclusion of peri- 
+operative dexmedetomidine may be useful for prevention 
+of JET.42 Kim et al's study, while not demonstrating JET 
+reduction with dexmedetomidine, showed no increase in 
+adverse event risk when dexmedetomidine is used periop-
+eratively.44 Finally, this review presents updated data on 
+the potential numeric reduction of dexmedetomidine on 
+analgesic load.39,43,50 Although the compiled evidence of 
+perioperative dexmedetomidine benefits is weak, it will 
+likely be used more in the pediatric surgical population 
+due to it safety profile. With its growing popularity, it is 
+more important than ever to optimize dexmedetomidine 
+dosing.
+Our systematic review also covers specific groups of 
+pediatric patients, including liver transplant and neo -
+nates with HIE. 32,34,41 Approximately, 551 pediatric pa-
+tients per year undergo liver transplants in the United 
+States.62 Since dexmedetomidine undergoes complete 
+hepatic transformation, these patients will likely have an 
+altered PK and PD response to dexmedetomidine. 34,62 In 
+these patients, it has been found that post- transplantation 
+INR and sedation scores may be the best predictors of 
+dexmedetomidine Cp and PK.34 This aligns with the FDA 
+biopharmaceutics review, which recommends that dex -
+medetomidine doses should be reduced in patients with 
+hepatic failure.16 Providers should consider these covari-
+ates, as they may guide dosing better than age and weight 
+in this population.
+HIE typically occurs within the first few days of life 
+and is classified as an intrapartum- related hypoxic event, 
+which causes 1 out of every 5 neonatal deaths globally. 63 
+HIE has a 25% mortality rate in the presence of therapeu-
+tic hypothermia, the standard of care.63,64 McAdams et al. 
+provides data on dexmedetomidine as an alternative to 
+morphine to sedate neonates and prevent shivering. 33 In 
+a case study of seven neonates, reduced overall CL and in-
+creased half- life were shown. Despite a small sample size, 
+most patients showed adequate pain and shivering con-
+trol in response to dexmedetomidine.32 Elliott et al.'s 2024 
+cohort of 135 neonates validated these results, providing 
+neonates with adequate comfort and sedation, and sig -
+nificantly decreasing overall opioid exposure. 41 Providers 
+may consider dexmedetomidine for comfort, shivering re-
+duction, and opioid exposure reduction in this population. 
+From a PK perspective, it is important to note that these 
+patients had reduced overall CL and longer half- life, indi-
+cating that they may benefit from a lower dose. They also 
+took more time to reach C max (12–24 h), which may have 
+been due to ~5% drug loss via sorptive tubing. 33 Based on 
+study results, neonates with HIE may require a more rapid 
+[[p20]]
+20 of 22 |   
+O'KANE et al.
+titration or use of a loading dose to provide adequate com-
+fort and reduce shivering.
+CONCLUSIONS AND FUTURE 
+STUDIES
+Although PK and PD studies have increased our understand-
+ing of dexmedetomidine dosing in the pediatric population, 
+there remains a wide range of patient- to- patient variability 
+in response, including hypotension and bradycardia. These 
+adverse effects appear more pronounced in continuous 
+sedation than during procedural sedation. While not all 
+studies found significant reductions in analgesic demand, 
+there appears to be a mild anti- analgesic effect produced by 
+dexmedetomidine. Few studies have evaluated the PGx of 
+dexmedotomidine. This review of PGx studies done thus far 
+can be used to guide future genomic research on this drug. 
+GABRA2 has only been studied in one adult population, 
+and it would benefit the pediatric population to confirm 
+the significance of its correlation with dexmedetomidine 
+pharmacodynamics in the pediatric population. As the pri-
+mary metabolizing enzyme of dexmedetomidine, UGT2B10 
+should be a key target for future research before it is fully 
+ruled out as a covariate. One avenue for investigation of 
+dexmedetomidine pharmacogenomics and kinetics would 
+be PBPK modeling. We found no PBPK models of dexme-
+detomidine in our search, and this would provide a granular 
+investigation into the physiologic breakdown of dexmedeto-
+midine. For the general pediatric population, weight, age, 
+and clinical status are the most reliable predictors of PK. 
+Special populations and patients receiving procedural vs. 
+continuous sedation may have different dexmedetomidine 
+PK, and different demands for sedation and comfort. The 
+goal is to eliminate uncertainty in dexmedetomidine dos-
+ing, reduce the need for titration, and mitigate AEs. Further 
+research, incorporating real- world evidence, PK modeling, 
+and clinical studies, is needed to further guide dosing in this 
+understudied and complex population.
+AUTHOR CONTRIBUTIONS
+E.T., A.O., S.Q., E.K., and R.B. wrote the manuscript; E.T. 
+and A.O. designed the research; E.T. and A.O. performed 
+the research; E.T., A.O., S.Q., E.K. and R.B. analyzed the 
+data.
+FUNDING INFORMATION
+Aislinn O'Kane was supported by a fellowship grant from 
+NIH/NIGMS [Grant T32- GM008425] and the Pediatric 
+Pharmacy Association. This work was supported in part 
+by the National Institute of Child Health and Human 
+Development (NICHD) Maternal and Pediatric Precision 
+In Therapeutics (MPRINT) grant NIH P30HD106451. The 
+content is solely the responsibility of the authors and does 
+not necessarily represent the official views of the National 
+Institutes of Health.
+CONFLICT OF INTEREST STATEMENT
+The authors declared no competing interests for this work.
+ORCID
+Aislinn O’Kane   https://orcid.org/0000-0002-7385-8361 
+Sara K. Quinney   https://orcid.
+org/0000-0002-6554-0695 
+Richard F. Bergstrom   https://orcid.
+org/0000-0001-9926-5268 
+Emma M. Tillman   https://orcid.
+org/0000-0001-8019-9811 
+REFERENCES
+ 1. Walker T, Kudchadkar SR. Pain and sedation management: 
+2018 update for the Rogers' textbook of pediatric intensive 
+care. Pediatr Crit Care Med. 2019;20(1):54-61. doi:10.1097/
+PCC.0000000000001739
+ 2. Cravero JP, Askins N, Sriswasdi P, Tsze DS, Zurakowski D, 
+Sinnott S. Validation of the pediatric sedation state scale. 
+Pediatrics. 2017;139(5):2016-2897. doi:10.1542/peds.2016- 3607
+ 3. Curley MA, Harris SK, Fraser KA, Johnson RA, Arnold JH. 
+State behavioral scale: a sedation assessment instrument for 
+infants and young children supported on mechanical ventila-
+tion. Pediatr Crit Care Med. 2006;7(2):107-114. doi:10.1097/01.
+PCC.0000201100.22522.BC
+ 4. Morton SU, Labrecque M, Moline M, Hansen A, Leeman K. 
+Reducing benzodiazepine exposure by instituting a guide -
+line for dexmedetomidine usage in the NICU. Pediatrics. 
+2021;148(5):e2020041566. doi:10.1542/peds.2020- 041566
+ 5. Smith HAB. 2022 Society of critical care medicine clinical prac-
+tice guidelines on prevention and management of pain, agi-
+tation, neuromuscular blockade, and delirium in critically ill 
+pediatric patients with consideration of the ICU environment 
+and early mobility. Pediatr Crit Care Med. 2022;23(2):e74-
+e110. doi:10.1097/PCC.0000000000002909
+ 6. FDA. Precedex (Dexmedetomidine Hydrochloride) Injection Full 
+Prescribing Information. FDA; 1999:13.
+ 7. FDA. Summary Review for Regulatory Action: Precedex 
+(Dexmedetomidine HCL) NDA 021038 S- 028. FDA; 2022.
+ 8. FDA. Clinical Review: Precedex (Dexmedetomidine HCL) NDA 
+021038 S- 012 & 022. FDA; 2013.
+ 9. FDA. Pharmacology Review: Dexmedetomidine HCL (DEX) 
+NDA 021038 S- 027. FDA; 2022.
+ 10. Hospira, Inc. Dexmedetomidine [package insert]. Hospira, Inc.; 
+2023.
+ 11. Weerink MAS, Struys M, Hannivoort LN, Barends CRM, 
+Absalom AR, Colin P. Clinical pharmacokinetics and phar -
+macodynamics of dexmedetomidine. Clin Pharmacokinet. 
+2017;56(8):893-913. doi:10.1007/s40262- 016- 0482- 4
+ 12. Wang Q, Chen C, Wang L. Efficacy and safety of dexmedetomi-
+dine in maintaining hemodynamic stability in pediatric cardiac 
+[[p21]]
+   | 21 of 22
+DEXMEDETOMIDINE PEDIATRIC PHARMACOLOGY
+surgery: a systematic review and meta- analysis. J Pediatr. 
+2021;98(1):15-25. doi:10.1016/j.jped.2020.01.003
+ 13. Mahmoud M, Mason KP. Dexmedetomidine: review, update, 
+and future considerations of paediatric perioperative and 
+periprocedural applications and limitations. Br J Anaesth. 
+2015;115(2):171-182. doi:10.1093/bja/aev192
+ 14. Ber J, Wiczling P, Holysz M, et al. Population pharmacokinetic 
+model of dexmedetomidine in a heterogeneous group of pa-
+tients. J Clin Pharmacol. 2020;60(11):1461-1473. doi:10.1002/
+jcph.1684
+ 15. Morse JD, Cortinez LI, Anderson BJ. A universal pharmacoki-
+netic model for dexmedetomidine in children and adults. J Clin 
+Med. 2020;9(11):3480. doi:10.3390/jcm9113701
+ 16. FDA. Clinical Pharmacology Biopharmaceutics Review: Precedex 
+(Dexmedetomidine HCL) 21- 038. FDA; 1998:57.
+ 17. Kaivosaari S, Toivonen P, Aitio O, et al. Regio-  and stereospe -
+?mL????Y????L
+tween UDP glucuronosyltransferase (UGT) 1A4 and UGT2B10 
+account for the complex kinetics of human liver microsomes. 
+Drug Metab Dispos. 2008;36(8):1529-1537. doi:10.1124/
+dmd.108.021550
+ 18. Milani N, Qiu N, Fowler S. Contribution of UGT enzymes 
+to human drug metabolism stereoselectivity: a case study 
+of Medetomidine, RO5263397, propranolol, and testoster -
+one. Drug Metab Dispos. 2023;51(3):306-317. doi:10.1124/
+dmd.122.000675
+ 19. Milani N, Qiu N, Molitor B, Badée J, Cruciani G, Fowler S. Use of 
+phenotypically poor metabolizer individual donor human liver 
+microsomes to identify selective substrates of UGT2B10. Drug 
+Metab Dispos. 2020;48(3):176-186. doi:10.1124/dmd.119.088740
+ 20. Yaar S, Yavas S, Karahalil B. The role of the ADRA2A C1291G 
+genetic polymorphism in response to dexmedetomidine on 
+patients undergoing coronary artery surgery. Mol Biol Rep. 
+2011;38(5):3383-3389. doi:10.1007/s11033- 010- 0447- 3
+ 21. Fu Z, Hu B, Ma T, et al. Effect of ADRA2A gene polymorphisms 
+on the anesthetic and analgesic effects of dexmedetomidine 
+in chinese han women with cesarean section. Exp Ther Med. 
+2020;19(4):2415-2426. doi:10.3892/etm.2020.8453
+ 22. Choi YJ, Park KH, Park JY, et al. The effect of alpha- 2A adren-
+ergic receptor (ADRA2A) genetic polymorphisms on the depth 
+of sedation of dexmedetomidine: a genetic observational pilot 
+study. Braz J Anesthesiol. 2022;72(2):241-246. doi:10.1016/j.
+bjane.2021.09.001
+ 23. Gallaway KA, Skaar TC, Biju A, Slaven J, Tillman EM. A pilot 
+study of ADRA2A genotype association with doses of dexmede-
+tomidine for sedation in pediatric patients. Pharmacotherapy. 
+2022;42(6):453-459. doi:10.1002/phar.2583
+ 24. Gallaway KST, Biju A, Slaven JE, Tillman EM. ADRA2A geno-
+type is not a predictor of dexmedetomidine dose in critically ill 
+pediatric patients. American Society for Clinical Pharmacology 
+Annual Meeting. 2022;(Abstract).
+ 25. Disma N, Goffredo BM, Cairoli S, et  al. Justification of em-
+piric methodology to determine dexmedetomidine dose for the 
+TREX study. Paediatr Anaesth. 2022;33(3):236-242. doi:10.1111/
+pan.14482
+ 26. Szederjesi J. Target controlled infusion: an anaesthetic 
+technique brought in ICU. J Crit Care Med (Targu Mures). 
+2022;8(1):3-5. doi:10.2478/jccm- 2022- 0003
+ 27. Hannivoort LN, Eleveld DJ, Proost JH, et  al. 
+Development of an optimized pharmacokinetic model of 
+dexmedetomidine using target-  controlled infusion in healthy 
+volunteers. Anesthesiology. 2015;123(2):357-367. doi:10.1097/
+ALN.0000000000000712
+ 28. Potts AL, Anderson BJ, Warman GR, Lerman J, Diaz SM, Vilo 
+S. Dexmedetomidine pharmacokinetics in pediatric intensive 
+care – a pooled analysis. Paediatr Anaesth. 2009;19(11):1119-
+1129. doi:10.1111/j.1460- 9592.2009.03128
+ 29. Cortínez LI, De la Fuente N, Eleveld DJ, et al. Performance of 
+propofol target- controlled infusion models in the obese: phar -
+macokinetic and pharmacodynamic analysis. Anesth Analg. 
+2014;119(2):302-310. doi:10.1213/ANE.0000000000000229
+ 30. Rolle A, Paredes S, Cortínez LI, et al. Dexmedetomidine meta-
+bolic clearance is not affected by fat mass in obese patients. Br J 
+Anaesth. 2018;120(5):969-977. doi:10.1016/j.bja.2018.01.007
+ 31. Talke P, Anderson BJ. Pharmacokinetics and pharmacody -
+namics of dexmedetomidine- induced vasoconstriction in 
+healthy volunteers. Br J Clin Pharmacol. 2018;84(6):1364-1372. 
+doi:10.1111/bcp.13545
+ 32. McAdams RM, Pak D, Lalovic B, Phillips B, Shen DD. 
+Dexmedetomidine pharmacokinetics in neonates with hypoxic- 
+ischemic encephalopathy receiving hypothermia. Anesthesiol 
+Res Pract. 2020;2020:2582965. doi:10.1155/2020/2582965
+ 33. van Dijkman SC, De Cock PAJG, Smets K, et  al. Dose ratio -
+nale and pharmacokinetics of dexmedetomidine in mechan-
+ically ventilated new- borns: impact of design optimisation. 
+Eur J Clin Pharmacol. 2019;75(10):1393-1404. doi:10.1007/
+s00228- 019- 02727- 7
+ 34. Damian MA, Hammer GB, Elkomy MH, Frymoyer A, Drover 
+DR, Su F. Pharmacokinetics of dexmedetomidine in infants and 
+children after orthotopic liver transplantation. Anesth Analg. 
+2020;130(1):209-216. doi:10.1213/ANE.0000000000004410
+ 35. Greenberg RG, Wu H, Laughon M, et al. Population pharma-
+cokinetics of dexmedetomidine in infants. J Clin Pharmacol. 
+2017;57(9):1174-1182. doi:10.1002/jcph.923
+ 36. James NT, Breeyear JH, Caprioli R, et  al. Population phar -
+macokinetic analysis of dexmedetomidine in children using 
+real- world data from electronic health records and rem-
+nant specimens. Br J Clin Pharmacol. 2022;88(6):2885-2898. 
+doi:10.1111/bcp.15328
+ 37. Kim EH, Choi BM, Kang P, et al. Pharmacokinetics of dexmede-
+tomidine in pediatric patients undergoing cardiac surgery with 
+cardiopulmonary bypass. Paediatr Anaesth. 2023;33(4):303-311. 
+doi:10.1111/pan.14813
+ 38. Song IK, Yi S, Lim HS, et  al. A population pharmacokinetic 
+model of intravenous dexmedetomidine for mechanically ven-
+tilated children after neurosurgery. J Clin Med. 2019;8(10):1563. 
+doi:10.3390/jcm8101667
+ 39. Amula V, Vener DF, Pribble CG, et al. Changes in anesthetic and 
+postoperative sedation- analgesia practice associated with early ex-
+tubation following infant cardiac surgery: experience from the pe-
+diatric heart network collaborative learning study. Pediatr Crit Care 
+Med. 2019;20(10):931-939. doi:10.1097/PCC.0000000000002020
+ 40. Dersch- Mills DA, Banasch HL, Yusuf K, Howlett A. 
+Dexmedetomidine use in a tertiary care NICU: a de -
+scriptive study. Ann Pharmacother. 2019;53(5):464-470. 
+doi:10.1177/1060028018816450
+ 41. Elliott M, Fairchild K, Zanelli S, McPherson C, Vesoulis Z. 
+Dexmedetomidine during therapeutic hypothermia: a mul-
+ticenter quality initiative. Hosp Pediatr. 2024;14(1):30-36. 
+doi:10.1542/hpeds.2022- 002409
+[[p22]]
+22 of 22 |   
+O'KANE et al.
+ 42. Hassan PF, El Haddad AM. Dexmedetomidine and magnesium 
+sulfate in preventing junctional ectopic tachycardia after pe -
+diatric cardiac surgery. Paediatr Anaesth. 2024;34(5):459-466. 
+doi:10.1111/pan.14848
+ 43. Jo YY, Kim JY, Lee JY, Choi CH, Chang YJ, Kwak HJ. The ef-
+fect of intraoperative dexmedetomidine on acute kidney injury 
+after pediatric congenital heart surgery: a prospective random-
+ized trial. Medicine (Baltimore). 2017;96(28):e7480. doi:10.1097/
+MD.0000000000007480
+ 44. Kim EH, Lee JH, Kim HS, et al. Effects of intraoperative dexme-
+detomidine on the incidence of acute kidney injury in pediatric 
+cardiac surgery patients: a randomized controlled trial. Paediatr 
+Anaesth. 2020;30(10):1132-1138. doi:10.1111/pan.13999
+ 45. Lin N, Liu K, Feng J, et al. Development and validation of a post-
+operative delirium prediction model for pediatric patients: a pro-
+spective, observational, single- center study. Medicine (Baltimore). 
+2021;100(20):e25894. doi:10.1097/MD.0000000000025894
+ 46. Takeuchi M, Nemoto S, Suzuki Y, et al. Age-  specific dose reg -
+imens of dexmedetomidine for pediatric patients in intensive 
+care following elective surgery: a phase 3, multicenter, open- 
+label clinical trial in Japan. Pediatr Crit Care Med. 2021;22(11):e5
+46-e557. doi:10.1097/PCC.0000000000002743
+ 47. Acute Kidney Injury Work Group. Kidney disease: improving 
+global outcomes (KDIGO). KDIGO clinical practice guide -
+line for acute kidney injury. Kidney Int Suppl. 2012;2(1):1-138. 
+doi:10.1038/kisup.2012.1
+ 48. Li X, Zhang C, Dai D, Liu H, Ge S. Efficacy of dexmedetomi-
+dine in prevention of junctional ectopic tachycardia and acute 
+kidney injury after pediatric cardiac surgery: a meta- analysis. 
+Congenit Heart Dis. 2018;13(5):799-807. doi:10.1111/chd.12617
+ 49. Kwiatkowski DM, Axelrod DM, Sutherland SM, Tesoro TM, 
+Krawczeski CD. Dexmedetomidine is associated with lower 
+incidence of acute kidney injury after congenital heart sur -
+gery. Pediatr Crit Care Med. 2016;17(2):128-134. doi:10.1097/
+PCC.0000000000000590
+ 50. Dersch- Mills D, Howlett A, Lind J, Marchuk A, Mohammad 
+K. Impact of dexmedetomidine in conjunction with a wean-
+ing protocol on post- surgical opioid use in a neonatal intensive 
+care unit. Pharmacotherapy. 2023;43(7):632-637. doi:10.1002/
+phar.2542
+ 51. Dersch- Mills D, Mohammad K, Howlett A. An assessment of the 
+impact of dexmedetomidine on opioid use in a neonatal inten-
+sive care unit. J Matern Fetal Neonatal Med. 2022;35(15):2836-
+2842. doi:10.1080/14767058.2021.1884590
+ 52. Holliday S. Interpatient variability in Dexmedetomidine re -
+sponse: a survey of the literature. Sci World J. 2014;2014:805013. 
+doi:10.1155/2014/805013
+ 53. Wang Q, Chen C, Wang L. Efficacy and safety of dexmedeto -
+midine in maintaining hemodynamic stability in pediatric car-
+diac surgery: a systematic review and meta- analysis. J Pediatr. 
+2022;98(1):15-25. doi:10.1016/j.jped.2021.01.007
+ 54. Relling MV, Evans WE. Pharmacogenomics in the clinic. 
+Nature. 2015;526(7573):343-350. doi:10.1038/nature15817
+ 55. Guan Y, Li B, Wei W, et al. Quantitative ultra- high- performance 
+liquid chromatography- tandem mass spectrometry for 
+determination of dexmedetomidine in pediatric plasma 
+samples: correlation with genetic polymorphisms. Biomed 
+Chromatogr. 2019;33(12):e4683. doi:10.1002/bmc.4683
+ 56. Fang COW, Zeng Y, Pei Q, et  al. CYP2A6 and GABRA2 gene 
+polymorphisms are associated with Dexmedetomidine drug 
+response. Front Pharmacol. 2022;13:943200. doi:10.3389/
+fphar.2022.943200
+ 57. Shannon ML, Muhammad A, James NT, et  al. Variant- based 
+heritability assessment of dexmedetomidine and fentanyl 
+clearance in pediatric patients. Clin Transl Sci. 2023;16(9):1628-
+1638. doi:10.1111/cts.13153
+ 58. Zhu SJ, Wang KR, Zhang XX, Zhu SM. Relationship between 
+genetic variation in the α2A- adrenergic receptor and the cardio-
+vascular effects of dexmedetomidine in the Chinese Han pop -
+ulation. J Zhejiang Univ Sci B. 2019;20(7):598-604. doi:10.1631/
+jzus.B1900172
+ 59. Ding Y, Liu A, Wang Y, et al. Genetic polymorphisms are associ-
+ated with individual susceptibility to dexmedetomidine. Front 
+Genet. 2023;14:1187415. doi:10.3389/fgene.2023.1187415
+ 60. Philbin KE, Bateman RJ, Mendelowitz D. Clonidine, an alpha2- 
+receptor agonist, diminishes GABAergic neurotransmission 
+to cardiac vagal neurons in the nucleus ambiguus. Brain Res. 
+2010;1347:65-70. doi:10.1016/j.brainres.2010.05.076
+ 61. Freriksen JJM, van der Zanden TM, Holsappel IGA, Molenbuur 
+B, de Wildt SN. Best evidence- based dosing recommendations 
+for Dexmedetomidine for premedication and procedural se -
+dation in pediatrics: outcome of a risk- benefit analysis by the 
+Dutch pediatric formulary. Paediatr Drugs. 2022;24(3):247-257. 
+doi:10.1007/s40272- 022- 00534- 9
+ 62. Chronic disease research Group of the Hennepin Healthcare 
+Research Institute. OPTN/SRTR 2019 Annual Data Report: Liver. 
+Scientific Registry of Transplant Recipients. U.S. Department of 
+Health & Human Services; 2019. doi:10.1177/1527154420904903
+ 63. Liu L, Johnson HL, Cousens S, et  al. Global, regional, and 
+national causes of child mortality: an updated system-
+atic analysis for 2010 with time trends since 2000. Lancet. 
+2012;379(9832):2151-2161. doi:10.1016/S0140- 6736(12)60560- 1
+ 64. McAdams RM, Juul SE. Neonatal encephalopathy: update on 
+therapeutic hypothermia and other novel therapeutics. Clin 
+Perinatol. 2016;43(3):485-500. doi:10.1016/j.clp.2016.05.011
+ 65. Szmuk P, Andropoulos D, McGowan F, et al. An open label pilot 
+study of a dexmedetomidine563 remifentanil- caudal anesthetic 
+for infant lower abdominal/lower extremity surgery: the T REX 
+pilot study. Paediatr Anaesth. 2019;29(1):59-67. doi:10.1111/
+pan.13493
+How to cite this article: O’Kane A, Quinney SK, 
+Kinney E, Bergstrom RF, Tillman EM. A systematic 
+review of dexmedetomidine pharmacology in 
+pediatric patients. Clin Transl Sci. 2024;17:e70020. 
+doi:10.1111/cts.70020

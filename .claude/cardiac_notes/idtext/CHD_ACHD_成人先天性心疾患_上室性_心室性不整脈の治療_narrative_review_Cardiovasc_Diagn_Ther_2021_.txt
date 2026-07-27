@@ -1,0 +1,936 @@
+
+[[p1]]
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+Introduction
+Arrhythmias are among the most common late complications 
+in adults with congenital heart disease (ACHD) and a 
+frequent reason for hospital admission. Both, supraventricular 
+and ventricular arrhythmias, not only cause debilitating 
+symptoms, but may be life-threatening by increasing 
+risk of stroke, causing or worsening heart failure and 
+being associated with sudden death. Supraventricular and 
+ventricular arrhythmias are not equally distributed over the 
+ACHD population, but show different prevalence in relation 
+to the underlying congenital defect and in association 
+with their specific surgical repair (1). Due to immense 
+improvement in intensive care and operative medicine, 
+pediatric cardiac surgery can now be performed in small 
+infants, rendering palliative shunt surgery prior to definite 
+repair unnecessary in many patients. In addition, less invasive 
+surgical techniques have evolved over time and have led to 
+lower arrhythmia incidence in some defects (2). For example, 
+the Fontan-procedure has been modified several times and 
+Therapy of supraventricular and ventricular arrhythmias in adults 
+with congenital heart disease—narrative review
+Kristina Wasmer
+1
+, Lars Eckardt
+1
+, Helmut Baumgartner
+2
+, Julia Köbe
+1
+1
+Department of Cardiology II - Electrophysiology, University Hospital Muenster, Cardiology, Muenster, Germany; 
+2
+Department of Cardiology III, 
+Division of Adult Congenital and Valvular Heart Disease, University Hospital Muenster, Cardiology, Muenster, Germany
+Contributions: (I) Conception and design: K Wasmer; (II) Administrative support: None; (III) Provision of study materials or patients: None; (IV) 
+Collection and assembly of data: None; (V) Data analysis and interpretation: None; (VI) Manuscript writing: All authors; (VII) Final approval of 
+manuscript: All authors.
+Correspondence to:  Prof. Dr. med. Kristina Wasmer. Klinik für Kardiologie II: Rhythmologie, Universitätsklinikum Münster (UKM), Albert-
+Schweitzer-Campus 1, Gebäude A1, 48149 Münster, Germany. Email: wasmerk@ukmuenster.de.
+Abstract: Arrhythmias are among the most common late complications in adults with congenital heart 
+disease (ACHD) and a frequent reason for hospital admission. Both, supraventricular and ventricular 
+arrhythmias, not only cause debilitating symptoms, but may be life-threatening by increasing risk of 
+stroke, causing or worsening heart failure and being associated with sudden death. Substrate and risk for 
+arrhythmia differs widely between congenital defects with specific arrhythmias being much more common 
+in some patients than others. Atrial macroreentrant arrhythmias are particularly frequent in patients with 
+atrial septal defects and repair that involves atrial incisions including patients with transposition of the great 
+arteries (TGA) and atrial switch. Accessory pathways and related arrhythmias are often associated with 
+Ebstein’s anomaly and congenitally corrected TGA. Monomorphic ventricular arrhythmias occur in patients 
+with ventricular incisions, namely patients with T etralogy of Fallot. Changes in surgical repair techniques 
+influence arrhythmia prevalence and substrate as well as anatomical access for catheter ablation procedures. 
+In addition, epidemiologic changes associated with improved long-term survival will further increase the 
+prevalence of atrial fibrillation in ACHD. This article summarizes current understanding of prevalence 
+of specific arrhythmias, underlying mechanisms, medical and interventional treatment options and their 
+outcome in ACHD.
+Keywords: Adult congenital heart disease (ACHD) ; supraventricular tachycardia; ventricular tachycardia; 
+antiarrhythmic drug therapy; catheter ablation
+Submitted Jul 11, 2020. Accepted for publication Jan 19, 2021.
+doi: 10.21037/cdt-20-634
+View this article at: http://dx.doi.org/10.21037/cdt-20-634
+562
+Review Article on Current Management Aspects in Adult Congenital Heart Disease (ACHD): Part III
+[[p2]]
+551Cardiovascular Diagnosis and Therapy, Vol 11, No 2 April 2021
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+current surgical techniques are associated with a much lower 
+rate of atrial arrhythmias compared to earlier repair types 
+(3-5). Likewise, arterial switch as opposed to atrial switch in 
+patients with transposition of the great arteries (TGA) has 
+dramatically reduced the incidence of highly symptomatic and 
+sometimes deadly atrial arrhythmias (6,7). Another example 
+of changing arrhythmia substrate is the change in surgical 
+repair technique and earlier repair in patients with T etralogy 
+of Fallot that has reduced the number of isthmuses that are 
+the basis for monomorphic ventricular tachycardia (VT) 
+in these patients (8). Nevertheless, there remain isthmuses 
+that are anatomically determined like the one between the 
+ventricular septal defect (VSD) and the pulmonary valve that 
+remains important substrate for VT in these patients (9,10). 
+This article summarizes current understanding of prevalence 
+of specific arrhythmias, underlying mechanisms, medical 
+and interventional treatment options and their outcome in 
+ACHD. We present the following article in accordance with 
+the Narrative Review reporting checklist (available at http://
+dx.doi.org/10.21037/cdt-20-634).
+Supraventricular arrhythmias
+It is estimated that about 50% of ACHD develop 
+supraventricular tachycardia (SVT) during their life-
+time (11). Recognition and timely management of SVT 
+in ACHD are extremely important as they can cause rapid 
+hemodynamic deterioration, heart failure, and sudden cardiac 
+death, particularly in patients with systemic right ventricle or 
+Fontan circulation (12).
+The most common SVT in ACHD is intra-atrial 
+reentrant tachycardia, often also referred to as atrial flutter. 
+Atrial fibrillation is increasingly recognized in ACHD as the 
+population is growing and ageing. Patients with congenital 
+heart disease can also develop paroxysmal SVT due to 
+atrioventricular nodal reentrant tachycardia (AVNRT) 
+or atrioventricular tachycardia (AVRT) via an accessory 
+pathway and focal atrial tachycardia (13). Accessory 
+pathways and associated arrhythmias are most often seen in 
+Ebstein’s anomaly and congenitally corrected transposition 
+of the great arteries (14-18). T win AV-nodes are present 
+most often in patients with congenitally corrected TGA 
+(1,19,20) and can give rise to AVNRT in these patients.
+Macroreentrant atrial arrhythmias (intra-atrial reentrant 
+tachycardia, atrial flutter)
+Intra-atrial reentrant tachycardia (IART) due to a macro-
+reentry in the right atrium is the most common arrhythmia 
+mechanism in ACHD. One or more fixed macro-reentrant 
+circuits related to surgical scars in the right atrium and 
+anatomical obstacles constitute the substrate of this 
+arrhythmia in a wide range of CHD. It is particularly 
+common in patients with moderate and complex CHD, 
+being the underlying mechanism in 86 % of patients in a 
+multicenter study (21).
+Patients with atrial septal defect (ASD) and T etralogy 
+of Fallot have atrial incisions from corrective surgery. In 
+addition, a septal suture or patch in ASD patients, intra-
+atrial tunnels in addition to atrial incisions in patients with 
+atrial switch for transposition of the great arteries and in 
+patients with earlier Fontan-surgical palliation provide 
+the substrate for organized macro-reentrant arrhythmias. 
+In addition to defined sutures and patch material, patients 
+with CHD frequently develop fibrosis due to ischemia and 
+stretch as consequence of volume and pressure overload. 
+Incisions, patch material and fibrosis all lead to conduction 
+slowing, the prerequisite for macro-reentrant arrhythmias. 
+Well-recognized macro-reentrant atrial arrhythmias are 
+isthmus-dependent right atrial flutter around the tricuspid 
+valve and incisional tachycardias rotating around an 
+atrial incision or a septal patch. Combinations of these 
+circuits occur in a substantial number of patients. Among 
+other factors, incidence of intra-atrial macro-reentrant 
+tachycardias depend on timing of the corrective surgery 
+and hemodynamic results (22). For example, patients with 
+ASD who underwent corrective surgery in adulthood or 
+no surgery at all, develop IART and atrial fibrillation with 
+an incidence of 50% (23). If closure occurred prior to age 
+15, incidence is only 16% (24). In patients with TGA and 
+atrial switch procedure, IART occurs with an incidence of 
+28–37%, while incidence is only 5% in patients with arterial 
+switch surgery, which is the standard procedure since the 
+early 1990s (7). Likewise, the incidence of atrial arrhythmias 
+has decreased from 100% ≥26 years after atrio-pulmonary 
+Fontan procedure to 13% after 10 years with a lateral 
+tunnel to 0% after 10 years with extracardiac palliation in 
+patients with single ventricle (3).
+Atrial fibrillation (AF)
+AF is the second most common arrhythmia after intra-
+atrial reentrant tachycardia. It is seen more often in simple 
+and moderately complex congenital heart disease as well as 
+in older patients (21). It is the most common arrhythmia 
+in ACHD beyond the age of 50 years. As life expectancy 
+[[p3]]
+552 Wasmer et al. Therapy of arrhythmias in congenital heart disease patients
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+increases in the population with CHD, an upsurge in the 
+prevalence of AF is expected. Data regarding the interplay 
+between IART and AF are inconclusive (25-27). It appears 
+that there is no clear relation between both arrhythmias, 
+they co-exist in about one third of ACHD patients, 
+particularly complex CHD. But ACHD with AF after a 
+documented episode of regular AT appear to develop AF at 
+a younger age compared to patients with only AF . ACHD 
+are assumed to be vulnerable to AF not only because 
+of previously described hemodynamic consequences 
+and scarring but also due to a higher prevalence of 
+cardiovascular risk factors, namely hypertension, obesity, 
+diabetes, and dyslipidemia (28). A distinguishing feature 
+of AF in ACHD is the suspected presence of AF that is of 
+right atrial origin in contrast to typical adult onset AF that 
+is of left atrial origin (29).
+Paroxysmal supraventricular tachycardia: atrioventricular 
+nodal reentrant tachycardias and accessory pathways
+Paroxysmal supraventricular tachycardia due to AVNRT 
+and AVRT are less common arrhythmia mechanisms in 
+the general ACHD population. While the prevalence 
+of AVNRT is less well studied (30), the presence of 
+accessory pathways, and often multiple pathways, is well 
+recognized. It is most often seen in patients with Ebstein’s 
+anomaly, but also congenitally corrected transposition of 
+the great arteries (ccTGA) with and without associated 
+malformations. The high prevalence of accessory 
+pathways in these two congenital defects is thought to be a 
+consequence of disturbation in embryological development 
+of the atrioventricular (AV) valves (31). In both defects, 
+accessory pathways are typically located at the inferior 
+aspect of the tricuspid valve which is located on the right 
+side in Ebstein’s anomaly and on the left in patients with 
+AV discordance (i.e., ccTGA). In a retrospective study of 
+patients with Ebstein’s anomaly, 91% of pathways were 
+manifest (referring to antegrade conduction showing a 
+delta-wave on ECG), 35% of patients had two accessory 
+pathways and the majority was conducting rapidly to the 
+ventricle putting the patients at increased risk for rapidly 
+conducted AF that can degenerate to ventricular fibrillation 
+leading to sudden cardiac death (15). Accessory pathways of 
+the Mahaim type have also been observed in patients with 
+Ebstein’s anomaly. T akeuchi and colleagues (17) recently 
+reported their experience in patients with AV discordance. 
+Thirteen accessory pathways were present in 11 patients, 
+all of which were located at the anatomical left-sided 
+tricuspid annulus, mainly posteriorly. 
+Ventricular arrhythmias
+Ventricular arrhythmias can be monomorphic or 
+polymorphic and each of these ECG defined arrhythmias is 
+related to different substrates. Monomorphic VT develop in 
+patients with a defined substrate, namely boundaries formed 
+by dense scar due to patch material, sutures and anatomical 
+obstacles like valves in combination with slowly conducting 
+tissue being again the prerequisite for macro-reentrant 
+arrhythmias. The best investigated congenital defect in this 
+context is T etralogy of Fallot where certain isthmuses have 
+been related to monomorphic VT (9,10,32). Some of these 
+isthmuses are also present in patients with ventricular septal 
+defect (VSD) and patients with complex TGA, i.e., patients 
+with TGA and VSD (2). These isthmuses are amenable to 
+catheter ablation and measurements of conduction properties 
+during EP-study have been suggested to identify patients 
+at risk (10,32). Polymorphic VT and ventricular fibrillation 
+(VF), on the other hand, occur due to diffuse fibrosis and 
+myocardial disarray. Patients with single ventricle, left 
+ventricular outflow tract obstructive lesions, and patients with 
+failing systemic ventricle are at highest risk (1,2).
+Significance of supraventricular and ventricular 
+arrhythmias
+Supraventricular and ventricular arrhythmias are associated 
+not only with debilitating symptoms, but substantial 
+cardiovascular morbidity and mortality (33-37). Even patients 
+with lower complexity CHD are at risk for hemodynamic 
+deterioration due to fast heart rates, development or 
+worsening of systemic ventricular dysfunction and heart 
+failure as well as stroke. Sudden cardiac death is the most 
+devastating event and occurs both due to ventricular 
+arrhythmias and sometimes supraventricular arrhythmias. In 
+a retrospective study on patients with TGA after atrial switch 
+who had received an implantable cardioverter defibrillator 
+(ICD), 50% of patients had SVT prior to VT (12). 80% of 
+sudden cardiac deaths in patients with TGA and systemic 
+right ventricle occur during exercise as opposed to only 
+8–10% in the general ACHD population (38). It is thought 
+that ischemia of the systemic right ventricular myocardium 
+plays a critical role in pathophysiology of SCD in these 
+patients (38,39).
+Prevention and treatment of arrhythmias is of upmost 
+importance in ACHD patient care to decrease morbidity 
+[[p4]]
+553Cardiovascular Diagnosis and Therapy, Vol 11, No 2 April 2021
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+and mortality of these patients due to heart failure, stroke 
+and sudden death. Prevention of arrhythmias includes early 
+detection and treatment of CHD, implementation of early 
+and less invasive surgical therapies, and management of 
+cardiovascular risk factors (40). Prevention of complications 
+includes stroke prevention in atrial arrhythmias, rate 
+control, arrhythmia suppression by antiarrhythmic drugs 
+and ideally curative therapy by catheter ablation. Prevention 
+of sudden cardiac death includes monitoring and treatment 
+of hemodynamic problems and systemic ventricular 
+function as well as risk stratification for individual patients. 
+A separate chapter in this issue deals with prevention of 
+sudden cardiac death and ICD therapy in ACHD.
+Antiarrhythmic drug therapy
+Despite their well recognized side effects and limited 
+efficacy, antiarrhythmic drugs are an important therapeutic 
+option to prevent or treat arrhythmias in ACHD. There 
+are only few data on antiarrhythmic drug therapy in ACHD 
+patients and guideline recommendations are based on expert 
+opinion and adopted from experiences in patients without 
+congenital heart disease. Use of antiarrhythmic drugs in 
+ACHD is limited by underlying structural heart disease, 
+particularly ventricular dysfunction, but also coexisting 
+brady-arrhythmias. Additional factors like concomitant 
+hepatic and renal dysfunction can alter pharmacokinetics of 
+antiarrhythmic drugs (41). Before terminating tachycardia, 
+12-lead ECG documentation should be achieved whenever 
+possible. It is the most important diagnostic tool to guide 
+acute management, evaluation of long-term treatment and 
+prevention of recurrences (Figure 1). 
+Acute management
+Guidelines on arrhythmia management in congenital heart 
+disease (32,42) and on use of antiarrhythmic drugs (43) have 
+recently been published. Acute cardioversion is indicated 
+in unstable patients. In patients without hemodynamic 
+compromise, decision regarding treatment options has to take 
+into account the underlying arrhythmia mechanism, underlying 
+heart defect, prevalence of arrhythmia, patient choice as well as 
+availability of interventional electrophysiologists with expertise 
+in catheter ablation in CHD.
+Regular SVT that is thought to be dependent on AV-
+nodal conduction, i.e., AVNRT or AVRT , can acutely be 
+terminated with adenosine. According to current guidelines, 
+use of adenosine, though, is not recommended in patients 
+with low ejection fraction who depend on a high heart 
+rate to preserve cardiac function (32). The duration of AV 
+block after adenosine administration, though, is only in the 
+range of seconds. In our opinion, it should therefore not 
+pose a problem based on its very brief slowing of heart rate. 
+Anesthesia and electrical cardioversion can be avoided by 
+adenosine administration. Nevertheless, adenosine should be 
+given with a defibrillator at hand in all cases as it can provoke 
+atrial fibrillation which could be rapidly conducted in patients 
+with underlying manifest accessory pathways (43).
+In patients with AF that is conducted via an accessory 
+pathway (hallmark irregular, typically rapidly conducted 
+rhythm with variable QRS width and morphology, so called 
+FBI tachycardia, Fast Broad Irregular, Figure 1C), ajmaline 
+can be administered to terminate AF and to block the 
+accessory pathway. Ajmaline is a class Ia drug that is used 
+to terminate and prevent wide complex tachycardias, but 
+not included in guidelines for ACHD (1). We recommend 
+electrical cardioversion in ACHD with AF and conduction 
+via an accessory pathway as the safest option. 
+Beta-blockers can be used to facilitate spontaneous 
+termination of regular SVT . As they have a negative 
+inotropic effect and can worsen underlying sinus node 
+dysfunction, they should be used with caution in patients 
+with ventricular dysfunction. The same is true for 
+verapamil, a nondihydropyridine calcium channel blocker 
+that slows conduction through the AV-node but also has 
+negative inotropic effects. Choice of antiarrhythmic drug 
+or termination with electrical cardioversion depends 
+on available information regarding CHD and systemic 
+ventricular function as well as hospital setting and individual 
+experience of the responsible physician Despite need for 
+sedation, electrical cardioversion may be the safest option 
+in more complex CHD and the only option in patients who 
+are hemodynamically unstable.
+Macro-reentrant atrial arrhythmias are amenable to 
+catheter ablation and are best investigated while ongoing 
+to determine the exact mechanism (see section on catheter 
+ablation). Hemodynamically unstable patients have to be 
+cardioverted, if possible after ECG documentation. In 
+patients who are hemodynamically stable, beta-blocker 
+therapy is first choice to slow heart rate because of its 
+rapid onset of action and effectiveness at high sympathetic 
+tone. Digoxin can be used as well, if sufficient rate control 
+cannot be achieved by beta-blockers or nondihydropyridine 
+calcium channel blockers alone. The 2014 guidelines 
+discuss controversy regarding possible mortality increase 
+with digoxin (1). The most recent ESC guidelines on 
+[[p5]]
+554 Wasmer et al. Therapy of arrhythmias in congenital heart disease patients
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+A
+B
+C
+D
+Figure 1 12-lead ECG of different SVT: (A) atriotomy-dependent atrial flutter in a 54 years old patient with ASD patch closure; (B) isthmus dependent right atrial flutter in 
+a patient with Ebstein’s anomaly; (C) atrial fibrillation with conduction via an accessory pathway in a patient with ccTGA; (D) AVNRT in a patient with TGA and Mustard 
+repair.
+[[p6]]
+555Cardiovascular Diagnosis and Therapy, Vol 11, No 2 April 2021
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+treatment of atrial fibrillation (44) have qualified this 
+perception as being due to patient selection. The DIGIT-
+AF trial, an ongoing randomized controlled trial, is 
+currently investigating this issue in patients with heart 
+failure and reduced EF . There are no such trials in patients 
+with CHD. In current ESC guidelines, digoxin has a IIa 
+recommendation for long term rate control.
+Rate control in the setting of macroreentrant tachycardias 
+can be difficult to achieve, as atrial activation is organized 
+and often sufficiently slow in the diseased atrial myocardium 
+to allow rapid AV-nodal conduction in these young patients 
+with uncompromised AV-nodes. Particular caution is 
+required in patients with systemic right ventricle as they can 
+rapidly deteriorate hemodynamically, and are at increased 
+risk of heart failure and sudden death due to ventricular 
+arrhythmias. Exclusion of left atrial appendage thrombus is 
+essential prior to elective cardioversion, catheter ablation 
+or antiarrhythmic drug initiation. Anticoagulation has to be 
+established for 4 weeks minimum and long-term in patients 
+perceived at increased stroke risk (see anticoagulation 
+section). If catheter ablation is not possible/available or 
+not desired by the patient, antiarrhythmic drugs can be 
+initiated after electrical cardioversion to prevent arrhythmia 
+recurrences. Choice of antiarrhythmic drug is determined 
+by underlying heart disease. Class Ic drugs can be used in 
+patients with simple CHD without ventricular incisions/
+patch material, no relevant ventricular hypertrophy, 
+preserved ventricular function and no severe coronary 
+artery disease. This prerequisite is e.g., present in ASD 
+patients. For all other patients, class III antiarrhythmic 
+drugs, namely amiodarone, are the preferred option.
+Antiarrhythmic drugs deliver their effects by slowing 
+conduction in the atrial myocardium and increasing 
+refractoriness. Reentry may subsequently terminate and re-
+induction can be prevented. However, when using class Ic 
+drugs, atrial activation may be slowed, ultimately allowing 
+1:1 conduction via the AV-node with rapid heart rates at 
+rest but even more so during exercise. Concomitant AV-
+node slowing with a beta-blocker is therefore of upmost 
+importance. Flecainide and propafenone are both available 
+for treatment of atrial arrhythmias. While flecainide has 
+no beta-blocking effect, this is variable for propafenone 
+(it is higher in cytochrome PD6-deficient patients) (41). 
+Combination of an AV-node slowing drug with flecainide 
+is therefore generally recommended. Other differences 
+between these two commonly used class Ic drugs include 
+need for dose adjustment in patients with renal dysfunction 
+in patients taking flecainide and interactions with warfarin 
+(increase in INR levels) and digoxin (dose reduction 
+of digoxin required). An advantage of flecainide is the 
+possibility of trough level measurements to evaluate 
+adequate dosing in case of clinical inefficacy. This is not 
+possible for propafenone.
+Pre-existing sinus node disease may be unmasked or 
+worsened by antiarrhythmic drugs, particularly class 
+Ic drugs. ECG monitoring should be established until 
+arrhythmia terminates to document any associated 
+bradycardia that requires urgent intervention. 
+Atrial fibrillation is typically cardioverted electrically after 
+left atrial appendage thrombus exclusion. Antiarrhythmic 
+drugs may terminate arrhythmia or convert atrial fibrillation 
+to atrial flutter. Choice of drug and precautions follow the 
+same rules as for macro-reentrant atrial arrhythmias.
+Ventricular arrhythmias require immediate cardioversion 
+or defibrillation, ideally after 12-lead ECG documentation. 
+Catheter ablation may prevent recurrence in monomorphic 
+VT , and an implantable cardioverter defibrillator (ICD) is 
+indicated for secondary prevention. 
+Pharmacologic prevention of arrhythmia recurrence
+Overall, long-term freedom from arrhythmia with 
+antiarrhythmic drugs is low and side effects limit their 
+long-term use (32). Catheter ablation is therefore first 
+line treatment for patients with AVNRT , AVRT , atrial 
+arrhythmias, and monomorphic VT . Nevertheless, 
+antiarrhythmic drugs are frequently required, particularly 
+if catheter ablation is not successful or not desired by the 
+patient.
+Recurrence of paroxysmal SVT including AVNRT 
+and AVRT can be prevented by AV-nodal blocking drugs, 
+predominantly beta-blockers. Class Ic and III drugs are 
+also effective, the same limitations apply as for acute 
+antiarrhythmic drug initiation, namely pro-arrhythmic 
+effects and bradycardia. Rate control in organized atrial 
+arrhythmias can be achieved with beta-blockers, but 
+arrhythmia prevention will typically require initiation 
+antiarrhythmic drugs. Although very effective, side effects 
+are well documented for amiodarone (43). Sotalol can be an 
+alternative despite its inherent risk for proarrhythmia and 
+bradycardia (45). 
+In patients with symptomatic atrial fibrillation and 
+preserved L V function and no ventricular incision/patch 
+material/hypertrophy, class Ic antiarrhythmic drugs can be 
+prescribed (43). They have to be combined with AV-nodal 
+blocking agents, typically beta-blockers, to control heart 
+[[p7]]
+556 Wasmer et al. Therapy of arrhythmias in congenital heart disease patients
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+rate, particularly if atrial flutter develops.
+In patients with VT and ICD, concomitant catheter 
+ablation and/or antiarrhythmic drugs may support 
+freedom from arrhythmia recurrence. Amiodarone is most 
+commonly used, but its use is limited by severe side effects. 
+Sotalol may be an alternative. Higher doses (≥240 mg/d) are 
+required to achieve class III effects and QT prolongation 
+and T orsade de pointes are feared complications. Care 
+must be taken in patients with renal dysfunction and dose 
+reduction is recommended in kidney disease (43).
+Anticoagulation
+Stroke prevention is of upmost importance in patients with 
+atrial fibrillation and atrial macro-reentrant tachycardias, 
+particularly since stroke risk is already increased in ACHD (46). 
+Routine anticoagulation is generally recommended in patients 
+with atrial fibrillation and moderate or complex CHD. In 
+addition, guidelines recommend oral anticoagulation (OAK) 
+in patients with atrial fibrillation and cyanotic defects, Fontan 
+palliation, and systemic right ventricle (1,32,47). In adults 
+with non-valvular simple forms of CHD and AF , it appears 
+reasonable to rely on established risk scores. A retrospective 
+study of 229 ACHD patients evaluated CHA2DS2-VASc score 
+and HAS-BLED score in patients with atrial arrhythmias (48). 
+A score of ≥2 predicted thromboembolic and bleeding risk, 
+respectively, and can therefore be adopted for ACHD. 
+In the past, vitamin K antagonists were the mainstay 
+for OAK and there are no comparative studies in ACHD 
+to guide the choice of anticoagulant. Several observational 
+studies now provide reassuring safety data on the use of direct 
+oral anticoagulants (DOAK) in ACHD (49-52). The largest 
+is the NOTE registry that included 530 ACHD patients 
+including 150 with previous vitamin K antagonist use. 
+Thromboembolic event rate was 1.2% per year and major 
+bleeding event rate was 1.1% per year, and not different 
+between DOAK and Vitamin K antagonists. Based on these 
+studies, DOAK appear appropriate for anticoagulation of 
+ACHD and no mechanical valve. 
+Catheter ablation
+Supraventricular and monomorphic ventricular tachycardia 
+are amenable to catheter ablation with varying success 
+depending on the underlying defect and type of repair. 
+Although success rate is lower compared to patients 
+without complex heart disease, efficacy is higher compared 
+to pharmacological therapy and prevents patients from 
+side effects associated with antiarrhythmic drug therapy. 
+Complex anatomy and vascular abnormalities may prevent 
+or impede access to the chamber of interest, displaced valves 
+and difficulties in allocation of the AV-node in addition to 
+complex arrhythmia mechanisms and poorly defined circuits 
+are among the challenges of catheter ablation in ACHD. 
+Three-dimensional (3-D) mapping systems ( Figure 2 ),  
+sometimes combined with image integration of MRI or 
+CT scan, are used to identify the underlying mechanism 
+during ongoing or induced arrhythmia and long, steerable 
+sheaths and irrigated catheters with or without contact force 
+measurement to ensure appropriate lesion size and depth are 
+prerequisite for successful ablation in thick and fibrous tissue. 
+T o be sure to address the clinically relevant arrhythmia, 
+we prefer to perform the ablation during ongoing 
+tachycardia. Patients presenting with recurrent IART should 
+therefore not be cardioverted unless hemodynamically 
+unstable but urgently referred to an experienced center 
+for catheter ablation. Nevertheless, induction of atrial 
+arrhythmias at the time of EP-study and ablation of all 
+inducible atrial tachycardias is advocated by some centers, 
+but patients may be non-inducible. Right atrial isthmus 
+ablation is reasonable in these cases, as it is frequently 
+involved in IART . In contrast, patients with AVNRT , 
+AVRT , pre-excitation on 12-lead ECG, atrial fibrillation 
+and monomorphic ventricular tachycardia are studied in 
+sinus rhythm and arrhythmia may be induced and addressed 
+during electrophysiology study. 
+The more complex the underlying heart defect and type of 
+repair, the more difficult is the procedure and the lower the 
+success rate. Overall acute success rate over the spectrum of 
+supraventricular arrhythmias is 80%, but may be much lower 
+in more complex defects or repair. While different mechanisms 
+of IART in patients with ASD can be readily identified and 
+ablated with a high acute success rate, access to the tricuspid 
+valve in patients with atrial switch procedure is extremely 
+difficult resulting in a lower success rate. Catheter ablation 
+of accessory pathways in patients with Ebstein’s anomaly 
+is difficult due to the anatomy and presence of multiple 
+pathways. Long, steerable sheaths and irrigated catheters 
+increase procedural success, which is around 80% (53).
+Monomorphic ventricular arrhythmias occur predominantly 
+in patients with tetralogy of Fallot and VSD (2). In both, 
+anatomical isthmuses underlying VT have been identified and 
+described in detail (9,10,31); (Figure 3). Acute success rate is 
+about 75%, and may be as high as 100 % (2). In some patients, 
+retrograde access and ablation in the aorta may be necessary to 
+achieve complete block in the critical isthmus between VSD 
+[[p8]]
+557Cardiovascular Diagnosis and Therapy, Vol 11, No 2 April 2021
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+patch and pulmonary valve (9), as hypertrophy, a homograft 
+or stent material may prevent access to the critical isthmus 
+from the right side. Electrophysiology study and ablation 
+prior to interventional valve replacement and intraoperative 
+surgical treatment of the isthmus is therefore recommended by 
+current guidelines (32). Most patients will be implanted with a 
+defibrillator even after successful catheter ablation to prevent 
+SCD although at least in theory catheter ablation may be 
+curative in this patient cohort (54). 
+Catheter ablation of SVT and VT can be complicated 
+by AV-block requiring pacemaker implantation and places 
+ACHD at particular risk. In patients with intra-atrial 
+baffles, pacemaker leads may worsen pre-existing baffle-
+obstruction, in patients with single ventricle and patients 
+with Eisenmenger syndrome or lesions with right-to-left 
+shunt, only epicardial pacemaker leads can be implanted 
+with their inherent problems including increased risk 
+during surgical placement in patients with previous heart 
+surgery and lower lead longevity. Adverse outcome of long-
+term pacing and risk of endocarditis apply to all patients 
+with CHD. Displacement of the AV-node and need for 
+retrograde access in various CHD and arrhythmias increases 
+risk for AV-block in this patient population and requires 
+particular caution.
+Atrial fibrillation in ACHD can be treated by catheter 
+ablation as well, but success is limited by underlying 
+substrate. Even in patients with rather simple congenital 
+heart disease like atrial septal defect repair, success rate 
+of pulmonary vein isolation remains low due to the 
+underlying fibrosis. Several small observational series that 
+included between 36 and 84 ACHD with relatively simple 
+CHD in the majority of patients have been published 
+(55-58). Success rates ranged between 32% and 63% at 
+one year. T wo studies reported success rates at 4 years 
+(27%) and 5 years (25%), respectively. Concomitant use 
+of antiarrhythmic drugs increased success rate to 84% in 
+one small study with 61% ASD patients and paroxysmal 
+AF in 72%. T o achieve this success rate, between 1 and 
+6 procedures were performed, aiming at pulmonary vein 
+isolation as baseline approach and application of additional 
+lesions either during the first procedure or during re-
+ablation. The limitations of catheter ablation for AF in 
+ACHD also apply to the surgical MAZE procedure (59,60). 
+Prophylactic arrhythmia surgery has been advocated to be 
+incorporated into reparative open-heart surgery, but data 
+of efficacy are lacking (32). Incomplete surgical lesions as 
+well as incomplete linear ablation lesions may place patients 
+at risk for organized left atrial arrhythmias which are 
+Figure 2 Rhythmia HDx™ Map of isthmus dependent right atrial flutter in a patient with Ross-procedure for congenital aortic stenosis. Red is 
+earliest activation and purple/blue is latest activation. LAO view at the tricuspid valve. The activation is counterclockwise around the tricuspid 
+valve. Catheter ablation was successfully performed at the right atrial isthmus between the tricuspid valve and the inferior caval vein. 
+[[p9]]
+558 Wasmer et al. Therapy of arrhythmias in congenital heart disease patients
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+often much more symptomatic and challenging to achieve 
+appropriate rate control. Nevertheless, before opting for 
+a rate control strategy and prior to committing a young 
+adult with CHD to long-term amiodarone therapy, catheter 
+ablation should be thoughtfully considered. Guidelines 
+recommend consideration of AF ablation in selected 
+patients with simple CHD (32) corresponding to a class IIa 
+recommendation in previous guidelines (1,61).
+Conclusions
+Understanding of underlying arrhythmia mechanism in 
+Figure 3 12-lead ECG of induced VT (A), CARTO Voltage Map (B) and (C) activation map during sinus rhythm of a patient with T etralogy 
+of Fallot and ventricular tachycardia. (A) 12-lead ECG of induced VT in a patient with repaired T etralogy of Fallot; (B) CARTO Voltage 
+map of the right ventricle from posterior. Red refers to low voltage (<0.5 mV) and purple to normal voltage (>1.5 mV). The blue lines/circles 
+mark the pulmonary valve anulus and the tricuspid valve anulus. Gray refers to scar, here the VSD patch. The yellow ball marks the AV-node 
+where a His signal could be identified. The small pink dots mark where the ablation line was placed to close the gap between the VSD patch 
+and the pulmonary valve, also referred to as Isthmus 4 (31); (C) activation map during sinus rhythm showing slow conduction across isthmus 
+4. Red is early and purple is late, blue is later than green but earlier than purple.
+B C
+A
+[[p10]]
+559Cardiovascular Diagnosis and Therapy, Vol 11, No 2 April 2021
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+specific CHD and surgical repair technique are essential 
+to guide acute and long-term treatment of SVT and VT 
+in ACHD. Catheter ablation is associated with lower 
+acute success rate and higher recurrence rate compared 
+to patients without congenital heart disease but efficacy is 
+still high for many arrhythmias and certainly higher than 
+pharmacological therapy. It should therefore be evaluated 
+for every patient with arrhythmias. Physicians with expertise 
+in treatment of ACHD and clinical electrophysiologists 
+with experience in catheter ablation of ACHD should 
+collaborate to achieve optimal treatment strategy for each 
+individual ACHD patient.
+Acknowledgments
+Funding: None.
+Footnote 
+Provenance and Peer Review:  This article was commissioned 
+by the Guest Editors (Yskert von Kodolitsch, Harald 
+Kaemmerer, Koichiro Niwa) for the series “Current 
+Management Aspects in Adult Congenital Heart Disease 
+(ACHD): Part III” published in Cardiovascular Diagnosis and 
+Therapy. The article has undergone external peer review.
+Reporting Checklist:  The authors have completed the 
+Narrative Review reporting checklist. Available at http://
+dx.doi.org/10.21037/cdt-20-634
+Conflicts of Interest:  All authors have completed the 
+ICMJE uniform disclosure form (available at http://
+dx.doi.org/10.21037/cdt-20-634 ). The series “Current 
+Management Aspects in Adult Congenital Heart Disease 
+(ACHD): Part III” was commissioned by the editorial office 
+without any funding or sponsorship. The authors have no 
+other conflicts of interest to declare.
+Ethical Statement:  The authors are accountable for all 
+aspects of the work in ensuring that questions related 
+to the accuracy or integrity of any part of the work are 
+appropriately investigated and resolved.
+Open Access Statement:  This is an Open Access article 
+distributed in accordance with the Creative Commons 
+Attribution-NonCommercial-NoDerivs 4.0 International 
+License (CC BY-NC-ND 4.0), which permits the non-
+commercial replication and distribution of the article with 
+the strict proviso that no changes or edits are made and the 
+original work is properly cited (including links to both the 
+formal publication through the relevant DOI and the license). 
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+PM?j?o?K?u?g?fe?K?a?rK??M?o`bdrNgqr?
+Expert Consensus Statement on the Recognition and 
+Management of Arrhythmias in Adult Congenital Heart 
+Disease: developed in partnership between the Pediatric 
+and Congenital Electrophysiology Society (PACES) 
+and the Heart Rhythm Society (HRS). Endorsed by the 
+governing bodies of PACES, HRS, the American College 
+of Cardiology (ACC), the American Heart Association 
+(AHA), the European Heart Rhythm Association (EHRA), 
+the Canadian Heart Rhythm Society (CHRS), and the 
+International Society for Adult Congenital Heart Disease 
+(ISACHD). Heart Rhythm 2014;11:e102-65.
+2. Brouwer C, Hazekamp MG, Zeppenfeld K. Anatomical 
+substrates and ablation of reentrant atrial and ventricular 
+tachycardias in repaired congenital heart disease. Arrhythm 
+Electrophysiol Rev 2016;5:150-60.
+3. d’Udekem Y, Iyengar AJ, Galati JC, et al. Redefining 
+Expectations of Long-T erm Survival After the Fontan 
+Procedure. T wenty-Five Y ears of Follow-Up From 
+the Entire Population of Australia and New Zealand. 
+Circulation 2014;130:S32-8.
+4. Lasa JJ, Glatz AC, Daga A, Shah M. Prevalence of 
+arrhythmias late after the Fontan operation. Am J Cardiol 
+2014;113:1184-8.
+TM?k?cK?e?pK?g?xK?n?lK?`?pM?`?`?
+Fontan Operation With Intra-atrial Lateral T unnel Versus 
+Extra-cardiac Conduit: A Systematic Review and Meta-
+analysis. Pediatr Cardiol 2017;38:873-80.
+6. Baysa SJ, Olen M, Kanter RJ. Arrhythmias Following 
+the Mustard and Senning Operations for Dextro-
+T ransposition of the Great Arteries: Clinical Aspects and 
+Catheter Ablation. Card Electrophysiol Clin.  
+2017;9:255-71.
+7. Khairy P , Clair M, Fernandes SM, et al. Cardiovascular 
+Outcomes After the Arterial Switch Operation for 
+D-transposition of the Great Arteries Circulation 
+2013;127:331-9.
+8. Kapel GFL, Laranjo S, Blom NA, et al. Impact of surgery 
+on presence and dimensions of anatomical isthmuses in 
+tetralogy of Fallot. Heart. 2018;104:1200-7.
+9. Kapel GFL, Reichlin T , Wijnmaalen AP , et al. Re-entry 
+[[p11]]
+560 Wasmer et al. Therapy of arrhythmias in congenital heart disease patients
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+using anatomically determined isthmuses: a curable 
+ventricular tachycardia in repaired congenital heart disease. 
+Circ Arrhythm Electrophysiol. 2015;8:102-9.
+10. Kapel GFL, Sacher F , Dekkers OM, et al. Arrhythmogenic 
+Anatomical Isthmuses Identified by Electroanatomical 
+Mapping Are the Substrate for Ventricular T achycardia in 
+Repaired T etralogy of Fallot. Eur Heart J 2017;38:268-76.
+11. Bouchardy J, Therrien J, Pilote L, et al. Atrial Arrhythmias 
+in Adults With Congenital Heart Disease Circulation 
+2009;120:1679-86.
+12. Khairy P , Harris L, Landzberg MJ, et al. Sudden Death 
+and Defibrillators in T ransposition of the Great Arteries 
+With Intra-Atrial Baffles: A Multicenter Study. Circ 
+Arrhythm Electrophysiol 2008;1:250-7.
+13. de Groot NM, Zeppenfeld K, Wijffels MC, et al. Ablation 
+of Focal Atrial Arrhythmia in Patients With Congenital 
+Heart Defects After Surgery: Role of Circumscribed 
+Areas With Heterogeneous Conduction. Heart Rhythm 
+2006;3:526-35.
+14. Lundqvist CB, Potpara TS, Malmborg H. Supraventricular 
+Arrhythmias in Patients With Adult Congenital Heart 
+Disease. Arrhythm Electrophysiol Rev 2017;6:42-9.
+15. Wei W, Zhan X, Xue Y, et al. Features of Accessory 
+Pathways in Adult Ebstein's Anomaly. Europace 
+2014;16:1619-25.
+16. Khositseth A, Danielson GK, Dearani JA, et al. 
+Supraventricular T achyarrhythmias in Ebstein Anomaly: 
+Management and Outcome. J Thorac Cardiovasc Surg 
+2004;128:826-33.
+17. T akeuchi D, T oyohara K, Shoda M, et al. 
+Electrophysiological Features and Radiofrequency 
+Catheter Ablation of Accessory Pathways Associated With 
+Atrioventricular Discordance. J Cardiovasc Electrophysiol 
+2020;31:89-99. 
+18. Gonzalez MD, Sriram CS, Ferre MS. Concordant 
+Location of Accessory Pathways and T ricuspid Valve in AV 
+Discordance. J Cardiovasc Electrophysiol 2020;31:100-2.
+19. Epstein MR, Saul JP , Weindling SN, T riedman JK, Walsh 
+EP . Atrioventricular Reciprocating T achycardia Involving 
+T win Atrioventricular Nodes in Patients With Complex 
+Congenital Heart Disease. J Cardiovasc Electrophysiol 
+2001;12:671-9.
+20. Liao Z, Chang Y, Ma J, et al. Atrioventricular Node 
+Reentrant T achycardia in Patients With Congenitally 
+Corrected T ransposition of the Great Arteries and Results 
+of Radiofrequency Catheter Ablation. Circ Arrhythm 
+Electrophysiol 2012;5:1143-8.
+21. Labombarda F , Hamilton R, Shohoudi A, et al. Increasing 
+Prevalence of Atrial Fibrillation and Permanent Atrial 
+Arrhythmias in Congenital Heart Disease. J Am Coll 
+Cardiol 2017;70:857-65.
+22. Wasmer K, Eckardt L. Management of supraventricular 
+arrhythmias in adults with congenital heart disease. Heart 
+2016;102:1614-9.
+23. Chubb H, Whitaker J, Williams SE, et al. Pathophysiology 
+and manamgement of arrhythmias associated with 
+atrial septal defect and patent foramen ovale. Arrhythm 
+Electrophysiol Rev 2014;3:168-72.
+24. Cuypers JA, Opic P , Menting ME, et al. The unnatural 
+history of an atrial septal defect: longitudinal 35year follow 
+up after surgical closure at young age. Heart  
+2013;99:1346-52.
+25. Kirsh JA, Walsh EP , T riedman JK. Prevalence of and Risk 
+Factors for Atrial Fibrillation and Intra-Atrial Reentrant 
+T achycardia Among Patients With Congenital Heart 
+Disease. Am J Cardiol 2002;90:338-40.
+26. T euwen CP , Ramdjan TT , Götte M, et al. Time Course 
+of Atrial Fibrillation in Patients With Congenital Heart 
+Defects. Circ Arrhythm Electrophysiol 2015;8:1065-72.
+27. Roca-Luque I, Rivas-Gándara N, Dos Subirà L, et al. 
+Long-T erm Follow-Up After Ablation of Intra-Atrial Re-
+Entrant T achycardia in Patients With Congenital Heart 
+Disease: T ypes and Predictors of Recurrence. JACC Clin 
+Electrophysiol 2018;4:771-80.
+28. T utarel O. Acquired Heart Conditions in Adults With 
+Congenital Heart Disease: A Growing Problem. Heart 
+2014;100:1317-21.
+29. Ebrahim MA, Escudero CA, Kantoch MJ, et al. Insights 
+on Atrial Fibrillation in Congenital Heart Disease. Can J 
+Cardiol 2018;34:1531-3.
+30. Upadhyay S, Marie Valente A, T riedman JK, et al. 
+Catheter ablation for atrioventricular nodal reentrant 
+tachycardia in patients with congenital heart disease. Heart 
+Rhythm 2016;13:1228-37.
+31. Zeppenfeld K, Schalij MJ, Bartelings MM et al. Catheter 
+Ablation of Ventricular T achycardia After Repair of 
+Congenital Heart Disease: Electroanatomic Identification 
+of the Critical Right Ventricular Isthmus Circulation 
+2007;116:2241-52.
+32. Hernández-Madrid A, Paul T , Abrams D, et al. 
+Arrhythmias in congenital heart disease: a position paper 
+of the European Heart Rhythm Association (EHRA), 
+Association for European Paediatric and Congenital 
+Cardiology (AEPC), and the European Society of 
+Cardiology (ESC) Working Group on Grown-up 
+Congenital heart disease, endorsed by HRS, PACES, 
+[[p12]]
+561Cardiovascular Diagnosis and Therapy, Vol 11, No 2 April 2021
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+APHRS, and SOLAECE. Europace 2018;20:1719-53.
+33. Yang H, Kuijpers JM, de Groot JR, et al. Impact of atrial 
+arrhythmias on outcome in adults with congenital heart 
+disease. Int J Cardiol 2017;248:152-4.
+34. Mandalenakis Z, Rosengren A, Lappas G, et al. Atrial 
+Fibrillation Burden in Y oung Patients With Congenital 
+Heart Disease. Circulation 2018;137:928-37.
+35. Mandalenakis Z, Rosengren A, Lappas G, et al. Ischemic 
+Stroke in Children and Y oung Adults With Congenital 
+Heart Disease. J Am Heart Assoc 2016;5:e003071.
+36. Saha P , Potiny P , Rigdon J, et al. Substantial Cardiovascular 
+Morbidity in Adults With Lower-Complexity Congenital 
+Heart Disease. Circulation 2019;139:1889-99.
+37. Lanz J, Brophy JM, Therrien J, Kaouache M, Guo L, 
+Marelli AJ. Stroke in Adults With Congenital Heart 
+Disease: Incidence, Cumulative Risk, and Predictors. 
+Circulation 2015;132:2385-94.
+38. Khairy P . Sudden Cardiac Death in T ransposition of the 
+Great Arteries With a Mustard or Senning Baffle: The 
+Myocardial Ischemia Hypothesis. Curr Opin Cardiol 
+2017;32:101-7.
+39. Chaix MA, Chergui M, Leduc C, Khairy P . Sudden 
+death in transposition of the great arteries with atrial 
+switch surgery: Autopsy evidence of acute myocardial 
+ischemia despite normal coronary arteries. Int J Cardiol 
+2019;288:65-7.
+40. Lui GK, Fernandes S, McElhinney DB. Management of 
+Cardiovascular Risk Factors in Adults With Congenital 
+Heart Disease. J Am Heart Assoc 2014;3:e001076.
+41. Contractor T , Levin V , Mandapati R. Drug therapy in 
+adult congenital heart disease. Card Electrophysiol Clin 
+2017;9:295-309.
+42. Baumgartner H, De Backer J, Babu-Narayan SV , et 
+al. 2020 ESC Guidelines for the management of adult 
+congenital heart disease. Eur Heart J 2021;42:563-645. 
+43. Dan GA, Martinez-Rubio A, Agewall S, et al. 
+Antiarrhythmic Drugs-Clinical Use and Clinical Decision 
+Making: A Consensus Document From the European 
+Heart Rhythm Association (EHRA) and European Society 
+of Cardiology (ESC) Working Group on Cardiovascular 
+Pharmacology, Endorsed by the Heart Rhythm Society 
+(HRS), Asia-Pacific Heart Rhythm Society (APHRS) and 
+International Society of Cardiovascular Pharmacotherapy 
+(ISCP). Europace 2018;20:731-2.
+44. Hindricks G, Potpara T , Dagres N, et al. 2020 ESC 
+Guidelines for the diagnosis and management of atrial 
+fibrillation developed in collaboration with the European 
+Association for Cardio-Thoracic Surgery (EACTS). Eur 
+Heart J 2021;42:373-498.
+45. Koyak Z, Kroon B, de Groot JR, et al. Efficacy of 
+Antiarrhythmic Drugs in Adults With Congenital Heart 
+Disease and Supraventricular T achycardias. Am J Cardiol 
+2013;112:1461-7.
+46. Moore BM, Cordina RL, McGuire MA, Celermajer DS. 
+Efficacy and Adverse Effects of Sotalol in Adults With 
+Congenital Heart Disease. Int J Cardiol 2019;274:74-9.
+47. Khairy P , Aboulhosn J, Broberg CS, et al. 
+Thromboprophylaxis for Atrial Arrhythmias in Congenital 
+Heart Disease: A Multicenter Study. Int J Cardiol 
+2016;223:729-35.
+48. Baumgartner H, Bonhoeffer P , De Groot NM, et al. 
+ESC Guidelines for the Management of Grown-Up 
+Congenital Heart Disease (New Version 2010). Eur Heart 
+J. 2010;31:2915-57.
+49. Heidendael JF , Bokma JP , de Groot JR, Koolbergen DR, 
+Mulder BJM, Bouma BJ. Weighing the Risks: Thrombotic 
+and Bleeding Events in Adults With Atrial Arrhythmias 
+and Congenital Heart Disease. Int J Cardiol  
+2015;186:315-20.
+50. Yang H, Bouma BJ, Dimopoulos K, et al. Non-
+vitamin K Antagonist Oral Anticoagulants (NOACs) 
+for Thromboembolic Prevention, Are They Safe in 
+Congenital Heart Disease? Results of a Worldwide Study. 
+Int J Cardiol 2020;299:123-30.
+51. Pujol C, Niesert AC, Engelhardt A, et al. Usefulness of 
+Direct Oral Anticoagulants in Adult Congenital Heart 
+Disease. Am J Cardiol 2016;117:450-5.
+52. Georgekutty J, Kazerouninia A, Wang YF , et al. Novel 
+Oral Anticoagulant Use in Adult Fontan Patients: A Single 
+Center Experience. Congenit Heart Dis 2018;13:541-7.
+53. Cheng K, Harrogate S, Orchard E. The Use of Novel 
+Oral Anticoagulants in Adult Congenital Heart Disease: A 
+Single Center Experience. Am J Cardiol 2016;117:312-3.
+54. Probst J, Diller GP , Reinecke H, et al. Prevention of 
+sudden cardiac death in patients with T etralogy of Fallot: 
+Risk assessment and long term outcome. Int J Cardiol 
+2018;269:91-6.
+55. Chetaille P , Walsh EP , T riedman JK. Outcomes of 
+Radiofrequency Catheter Ablation of Atrioventricular 
+Reciprocating T achycardia in Patients With Congenital 
+Heart Disease. Heart Rhythm 2004;1:168-73.
+56. Guarguagli S, Kempny A, Cazzoli I, et al. Efficacy of 
+Catheter Ablation for Atrial Fibrillation in Patients With 
+Congenital Heart Disease. Europace 2019;21:1334-44.
+57. Sohns C, Nürnberg JH, Hebe J, et al. Catheter Ablation 
+for Atrial Fibrillation in Adults With Congenital Heart 
+[[p13]]
+562 Wasmer et al. Therapy of arrhythmias in congenital heart disease patients
+© AME Publishing Company. Cardiovasc Diagn Ther 2021;11(2):550-562 | http://dx.doi.org/10.21037/cdt-20-634
+Disease: Lessons Learned From More Than 10 Y ears 
+Following a Sequential Ablation Approach. JACC Clin 
+Electrophysiol 2018;4:733-43.
+58. Liang JJ, Frankel DS, Parikh V , et al. Safety and Outcomes 
+of Catheter Ablation for Atrial Fibrillation in Adults With 
+Congenital Heart Disease: A Multicenter Registry Study. 
+Heart Rhythm 2019;16:846-52.
+59. Philip F , Muhammad KI, Agarwal S, Natale A, Krasuski 
+RA. Pulmonary Vein Isolation for the T reatment of Drug-
+Refractory Atrial Fibrillation in Adults With Congenital 
+Heart Disease. Congenit Heart Dis 2012;7:392-9.
+60. Gonzalez Corcia MC, Walsh EP , Emani S. Long-
+term Results of Atrial Maze Surgery in Patients With 
+Congenital Heart Disease. Europace 2019;21:1345-52.
+61. Mavroudis C, Stulak JM, Ad N, et al. Prophylactic Atrial 
+Arrhythmia Surgical Procedures With Congenital Heart 
+Operations: Review and Recommendations Ann Thorac 
+Surg 2015;99:352-9.
+Cite this article as:  Wasmer K, Eckardt L, Baumgartner 
+H, Köbe J. Therapy o f supraventricular and ventricular 
+arrhythmias in adults with congenital heart disease—narrative 
+review. Cardiovasc Diagn Ther 2021;11(2):550-562. doi: 
+10.21037/cdt-20-634

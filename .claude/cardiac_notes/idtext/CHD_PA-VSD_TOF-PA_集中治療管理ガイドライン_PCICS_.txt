@@ -1,0 +1,480 @@
+
+[[p1]]
+1 
+ 
+ 
+Tetralogy of Fallot-Pulmonary Atresia (TOF-PA) Guideline 
+What the Nurse Caring for a Patient with CHD Needs to Know 
+ 
+T. Lynn Dees, MNSc, APRN, PNP-BC, CPNP-AC 
+Advanced Practice RN, Pediatric Cardiology, 
+Arkansas Children’s Hospital 
+ 
+Melanie Sojka, MSN, RN, CPNP-AC/PC 
+Pediatric Nurse Practitioner, Cardiac & Thoracic Surgery, 
+University of Chicago Medicine, Comer Children’s Hospital 
+ 
+ 
+Grace Macek, MSN, RN, PNP-BC  
+Pediatric Nurse Practitioner, Cardiac & Thoracic Surgery, 
+University of Chicago Medicine, Comer Children’s Hospital 
+ 
+ 
+Courtney Petro, BSN, RN, CCRN 
+Pediatric Cardiovascular ICU Nurse, Cardiac Intensive Care Unit, 
+Lucille Packard Children’s Hospital at Stanford 
+ 
+ 
+Christine Riley, MSN, APRN, CPNP-AC 
+Nurse Practitioner, Cardiac Intensive Care Unit, 
+Children’s National Health System, Washington, DC 
+ 
+ 
+Embryology 
+ Tetralogy of Fallot (TOF) 
+o Most common cause of cyanotic congenital heart disease (CHD) 
+o Incidence of 7-10% of all CHD 
+o TOF-PA  
+ Accounts for about 2% of CHD; incidence of 0.07 per 1000 live births  
+ Accounts for 20.3% of all forms of TOF  
+ With multiple aortopulmonary collaterals (MAPCAs)  
+ Is the most extreme form of TOF 
+ Accounts for 20% of all cases of TOF 
+ Normal development 
+o Lungs develop from foregut and carry nutrient supply from the paired dorsal aorta  
+o Paired 6th aortic arches give rise to branches that fuse with the pulmonary vascular 
+tree at 27 days gestation 
+o Branches from the descending thoracic arch regress and 6th aortic arch enlarges 
+o Aorta and pulmonary arteries (PAs) form from the distal bulbus cordis 
+o Truncus arteriosus (TA) positioned above the right ventricle (RV) 
+o Bulbotruncal ridges separate the great arteries 
+[[p2]]
+2 
+ 
+o Aortic component rotates posteriorly 
+ Abnormal development of TOF-PA 
+o Occurs between 5th-6th week gestation 
+o Faulty rotation of bulbus-truncus results in incomplete transfer of aorta above the 
+left ventricle (LV) 
+o Posterior malalignment of infundibular septum results in ventricular septal defect 
+(VSD) 
+o Infundibular stenosis developmental theories 
+ Anterior displacement of the bulbotruncal region, or  
+ Underdevelopment of the subpulmonic infundibulum resulting in conal 
+septum hypoplasia 
+ The RV outflow obstruction often multi-level 
+o Anterior and cephalad deviation of the infundibular septum results in subvalvar 
+obstruction 
+o Hypertrophy of muscular bands can cause further subvalvar obstruction 
+o Pulmonary valve (PV) annulus usually hypoplastic, but may be normal size 
+o PV can be biscuspid and stenotic 
+o May have supravalvar narrowing in the main pulmonary artery (MPA) at the 
+sinotubular ridge 
+o Further obstruction at the branch PAs due to hypoplasia or focal areas of stenosis  
+ Commonly at the proximal branch pulmonary arteries 
+ Especially ?Usually (better word?) the proximal left pulmonary artery 
+(LPA) near the site of ductal insertion 
+ Associated genetic syndromes 
+o Genetic testing 
+ Recommended for all patients with TOF 
+ Must be done prior to cardiopulmonary bypass (CPB) 
+o Conotruncal defect 
+o High incidence of 22q11 deletion (DiGeorge Syndrome) 
+ Up to 50% 
+ 
+Anatomy (See illustration below for TOF) 
+ Characterized by the combination of four anatomic malformations: 
+o Ventricular Septal Defect (VSD) (Number 4 in illustration below) 
+o Overriding aorta, overriding the muscular ventricular septum (Number 2 in 
+illustration below)  
+o Obstruction of RV outflow tract (Number 1 in illustration below) 
+o PAs usually confluent  (Number 3 in illustration below)  #3 looks like it refers to 
+RV, not PAs 
+o RV hypertrophy (Area of arrows in illustration below)  
+ 
+ 
+[[p3]]
+3 
+ 
+ 
+ 
+Tetralogy of Fallot 
+Reprinted from PedHeart Resource. www.HeartPassport.com.   
+© Scientific Software Solutions, 2016. All rights reserved. 
+ 
+ TOF with PA 
+o More severe anatomical variant 
+ Solid tissue forms in place of the pulmonary valve 
+ Prevents any valve opening  
+o Pulmonary blood flow occurs through the PDA 
+ About 70% of TOF with PA 
+o PAs typically confluent  
+ Branch PAs confluent in 85%  
+ Non-confluent in 15% 
+ TOF with PA and MAPCAs 
+o Pulmonary blood flow is multifocal 
+ Via MAPCAs 
+  PAs often non-confluent (70%)  
+o MAPCAs  
+ Typically arise from the descending aorta 
+ May arise from any vessel including: 
+ Ascending aorta 
+ Head and neck vessels 
+ Coronary arteries 
+o MAPCAs  
+ Create highly variable patterns: 
+ PA size and arborization 
+ Origin of collateral vessels 
+ Number of vessels 
+
+[[p4]]
+4 
+ 
+ Course of vessels 
+ Connections between the PA and collaterals 
+ Unpredictable 
+ Change as the patient grows. 
+ Can become irregularly shaped, thickened, kinked, or stenotic 
+ 
+Physiology 
+ In TOF  
+o Four cardinal anatomic structures and degree of presentation 
+ Determine physiology 
+ Determine clinical presentation 
+o Degree of RV outflow tract obstruction determines  
+ Pulmonary blood flow 
+ Degree of left to right shunting through the VSD 
+ Degree of cyanosis 
+ In TOF with PA  
+o Complete obstruction of the RV outflow tract obstruction 
+ Must have alternate source of blood flow to the pulmonary arteries  
+ May be either via the PDA or by MAPCAs  
+o Pulmonary blood flow via the PDA 
+ Prostaglandins (PGE) required to ensure pulmonary blood flow  
+o Pulmonary blood flow via MAPCAs 
+ May or may not require PGE; depends on: 
+ Anatomy of the MAPCAs 
+ Presence of PDA 
+ Clinical Manifestations 
+o Cyanotic at birth 
+ Degree of cyanosis depends on PDA and MAPCAs 
+o Heart sounds 
+ Murmur 
+ Usually not heard 
+ May be a faint continuous murmur of PDA/MAPCAs 
+ Single, loud S2 
+o Electrocardiogram (ECG) 
+ RV hypertrophy with right axis deviation 
+ Prominent R waves anteriorly and S waves posteriorly 
+ Upright T wave in V1 
+ May also see a qR (?QR) pattern in the right sided chest lead 
+o Chest X-ray 
+ Normal-sized, boot-shaped heart 
+ Decreased pulmonary vascular markings  
+ A concavity in the region of the main pulmonary artery 
+ Right-sided aortic arch – 26-50% 
+o Echocardiogram (ECHO) 
+ Parasternal-long axis view  
+ Large aortic valve (AV) that overrides a large malalignment VSD  
+[[p5]]
+5 
+ 
+ Color flow demonstrates lack of patency of RV outflow tract 
+ Suprasternal and high parasternal views evaluate: 
+ Pulmonary trunk 
+ Right and left pulmonary artery size 
+ Confluence of PAs  
+ 
+Procedures and Interventions 
+ Diagnostic Procedures 
+o Required as anatomy of the PAs and the source of pulmonary blood supply may 
+vary widely 
+o 2-dimenasional (2-D) ECHOwith color flow and 2-D doppler 
+ Main diagnostic tool 
+ Identifies  
+ Sources of PA blood flow-includes PDA and MAPCAs 
+ Significant hypoplasia of the central pulmonary arteries 
+ Presence of a small PDA 
+o Highly predictive of the presence of MAPCAs 
+o If present, further imaging by MRI or angiography likely 
+o Magnetic Resonance Imaging (MRI) 
+ Non-invasive tool  
+ Visualize PAs and collateral supplies 
+o Cardiac catheterization and angiography 
+ Delineate all sources of pulmonary blood supply 
+ Facilitates surgical planning 
+ Interventions 
+o Cardiac catheterization  
+ Diagnostic 
+ Evaluation for surgical intervention 
+ Identify sources of/obstruction to pulmonary blood  
+ Evaluate ventricular size, structure 
+  Intervention  
+ Initial evaluation of RV/PA connection 
+o Possible radiofrequency ablation (RFA) of membranous PV 
+o Balloon dilation of pulmonary stenosis (PS)/pulmonary 
+atresia 
+o Stent placement  
+ PV annulus 
+ PDA  
+ Repeat catheterizations 
+o Balloon dilation/stent placements in stenotic pulmonary 
+artery segments 
+o Coil embolization dual source of pulmonary blood supply 
+o Coil embolization of MAPCAs 
+o Surgical repair  
+ Options depend on PA anatomy and presence/extent of MAPCAs 
+[[p6]]
+6 
+ 
+ Single stage repair 
+  Considered when PAs confluent and of good size   
+  MAPCAs  
+o Ligated at the aorta 
+o Mobilized toward the posterior mediastinum to construct a 
+pulmonary artery confluence 
+o Conduit placed between confluence and RV 
+ PAs reconstructed to relieve any surgically accessible stenotic 
+areas  
+ VSD closure 
+ Mortality rate - 5-20%  
+ Staged repair  
+     Depends on PA anatomy 
+o May be required if PAs  
+ Hypoplastic 
+ Non-confluent 
+ Supplied by extensive MAPCAs.  
+ Stage 1 – Palliative shunting 
+o Induces enlargement and growth of the native PAs  
+o Shunt types - Blalock-Taussig shunt, central shunt, or RV 
+to PA conduit 
+ Stage 2 Early unifocalization  
+o Direct MAPCAs into a central pulmonary artery confluence 
+o Improve long-term outcomes 
+  Maximize the recruitment of lung segments 
+  Increase likelihood of definitive repair 
+  Eliminate  dual blood supply to a lung segment 
+ Coil occlude MAPCA in cardiac 
+catheterization laboratory (cath lab) 
+ Ligate at time of unifocalization 
+o Objectives 
+  To recruit as many of the perfused lung segments 
+as possible 
+ Maximize the cross-sectional area of the 
+pulmonary vascular bed  
+ Manage unprotected lung segments with a large 
+blood supply 
+ At risk for developing pulmonary vascular 
+disease by four to six months of age if 
+untreated 
+ Stage 3-  Final stage (See illustration below) 
+o Complete intracardiac repair with VSD closure (Number 2 
+in illustration below) 
+o Placement/replacement of a RV to pulmonary artery 
+conduit (Number 1 in illustration below) 
+[[p7]]
+7 
+ 
+o PA reconstruction as needed to meet following 
+requirements:  
+ Central pulmonary arterial area should be greater 
+than 50% of normal 
+ Presence of predominantly left-to-right intracardiac 
+shunting 
+ Equivalent of an entire lung must be supplied by the 
+central pulmonary artery confluence 
+ Stenotic lesions in the pulmonary artery outflow 
+must be addressed 
+ 
+ 
+ 
+ 
+Repair of Tetralogy of Fallot with RV to PA Conduit 
+Reprinted from PedHeart Resource. www.HeartPassport.com.   
+© Scientific Software Solutions, 2016. All rights reserved. 
+ 
+ Surgical placement of a pulmonic valve may be necessary for patients 
+with RV to PA conduits if substantial RV dilation and dysfunction occurs 
+ 
+Specific Considerations  
+ Preoperative 
+o Pulmonary blood flow supplied by: 
+  PDA, MAPCAs, or both 
+ Alternative sources of pulmonary blood flow accounts for variable clinical 
+presentation 
+o Neonates 
+ With insufficient pulmonary blood flow, usually present with: 
+o Cyanosis - PGE necessary to maintain ductal patency to 
+improve/maintain pulmonary blood flow 
+o Hypoxemia 
+[[p8]]
+8 
+ 
+o Metabolic acidosis 
+ With adequate pulmonary blood flow 
+o Large, unobstructed MAPCAs 
+ With unrestricted blood flow 
+ May lead to congestive heart failure 
+o As pulmonary vascular resistance (PVR) decreases 
+ Pulmonary blood flow may become excessive  
+ Results in congestive heart failure 
+o MAPCAs may provide pulmonary blood flow, but are prone to 
+stenosis 
+ Require screening for chromosomal anomalies 
+o Common with conotruncal defects 
+o Frequently see 22q11 deletion (DiGeorge syndrome) 
+ Abnormal function of parathyroid glands leads to 
+hypocalcemia 
+ Immunodeficiency from abnormal T-cell-mediated 
+response predisposes to increased infection risk  
+ Physical defects include: 
+o Palatal defects causing feeding difficulties 
+o Kidney abnormalities 
+o Gastrointestinal issues including abnormal motility 
+which may lead to constipation 
+o Dysmorphic facies (microstomia, micrognathia, 
+unusually shaped ears, long nose) 
+ Learning and psychiatric disorders 
+ Intraoperative 
+o Operative goals: 
+ Tailored to specific anatomy 
+ Provide adequate, separate pulmonary and systemic circulations 
+o Irradiated blood only if DiGeorge or absent thymus 
+o Anticipate coagulopathies with severe cyanosis and polycythemia 
+ Postoperative (See Peds/Neo Problem Guidelines for Postoperative Care) 
+o Concerns differ depending on repair  
+ Palliation versus correction 
+ Multi-staged repair versus one-stage repair 
+o Residual defects 
+ VSD or VSD patch leak 
+ RV outflow tract obstruction 
+o RV dysfunction may result in low cardiac output; may be caused by: 
+ Increased RV volume loading 
+ Ventriculotomy if performed 
+ Lower compliance of neonatal myocardium 
+o Arrhythmias (See Peds/Neo Problem Guidelines for Arrhythmia Management) 
+ Complete Heart Block (CHB) 
+ Requires temporary pacing 
+ Possible permanent pacemaker, incidence is rare 
+[[p9]]
+9 
+ 
+ Junctional ectopic tachycardia (JET) 
+ Potential for significant hemodynamic compromise 
+ Reduce degree of hemodynamic impairment 
+o Early recognition 
+o Prompt treatment  
+ Cooling to core temperature less than 36 degrees 
+ Antiarrhythmic mediations 
+o Elevated RV pressure 
+ May result from residual defects 
+ Stenosis in pulmonary arteries 
+ Stenosis at anastomosis sites 
+ Residual MAPCAs 
+ If prolonged, cardiac catheterization may be required 
+ Dilation of stenotic pulmonary arteries 
+ Embolization of residual MAPCAs 
+o Respiratory complications  
+ Increased occurrence with unifocalization of MAPCAs 
+ Bronchospasm related to dissection around bronchopulmonary tree 
+ Reperfusion injury in patients with preoperative stenosis of MAPCAs 
+ Pulmonary complications such as pneumonia, pulmonary hemorrhage, 
+large airway compression 
+ Prolonged respiratory failure requiring prolonged ventilation  
+o Genetic syndrome 
+ 22q11 deletion (DiGeorge)  
+ Anticipate hypocalcemia  
+o May require frequent calcium replacement or infusion 
+ Immune deficiencies  
+o Require use of irradiated blood 
+o Increased incidence of infections (See Peds/Neo Problem 
+Guidelines for Infection Prevention) 
+ Provide parental education and support 
+ 
+Routine Care 
+ Lifelong disease requires careful follow-up through adulthood 
+o Follow-up at least annually with adult CHD (ACHD) trained cardiologist/NP 
+o Potential for additional surgical and interventional procedures 
+ Infants require frequent follow-up by pediatric cardiologist/NP trained in CHD 
+o Prior to and evaluation of surgical intervention(s)  
+o ECHO 
+ Monitor RV pressure and function 
+ Monitor pulmonary circulation 
+ Conduit function 
+ Evaluation for increasing stenosis/flow in MAPCAs 
+ Evaluation for development of aortopulmonary collaterals 
+o Repair with RV to PA conduits 
+ Require conduit replacement 
+[[p10]]
+10 
+ 
+ Risk for conduit stenosis and/or conduit valve degradation 
+o Cardiac catheterization 
+ Hemodynamic evaluation of RV function, PA stenosis 
+ Intervention balloon dilation of PAs/ stent placement  
+ Coil MAPCAs. 
+ Subacute Bacterial Endocarditis prophylaxis (See American Heart Association 
+recommendations for Adult and Pediatric SBE Prophylaxis, 2015) 
+ 
+Long-term Complications/Problems (See Adult Problem Guidelines on Arrhythmia 
+Management, Ventricular Dysfunction) 
+ Abnormal RV physiology secondary to chronic pulmonary regurgitation 
+o Ventricular arrhythmias 
+o Decreased RV compliance  
+o Need for PV/conduit replacements 
+o Exercise Intolerance 
+ Related to DiGeorge 
+o Learning disabilities 
+o Behavioral & mental health problems 
+o Immune disorders 
+o Poor vision and hearing 
+o Velopharyngeal insufficiency 
+o Mypoathic facies 
+o Short stature 
+ 
+ 
+References 
+Asija, R. & Perry, S. (2015, June). Tetralogy of Fallot with pulmonary atresia and multiple 
+aortopulmonary collateral arteries (TOF/PA/MAPCAs). UpToDate. Retrieved from 
+http://www.uptodate.com/contents/tetralogy-of-fallot-with-pulmonary-atresia-and-major-
+aortopulmonary-collateral-arteries-tof-pa-mapcas  December, 2015. 
+ 
+Bailliard, F., & Anderson, R. (2009). Tetralogy of Fallot. Orphanet Journal of Rare 
+Diseases, 4(2), 1-10. 
+Doyle, T. & Kavanaugh-McHugh, A. (2015, May 6). Pathophysiology, clinical features, and 
+diagnosis of tetralogy of Fallot. UpToDate. Retrieved from 
+http://www.uptodate.com/contents/pathophysiology-clinical-features-and-diagnosis-of-tetralogy-
+of-fallot 
+ 
+Facts about pulmonary atresia. (2015, May 21). Retrieved from 
+http://www.cdc.gov/ncbddd/heartdefects/pulmonaryatresia.html 
+ 
+Ma, X., Barboza, L., Siyahian, A., Reinhartz, O., Maeda, K., Reddy, V., Riemer, R. (2014). 
+Tetralogy of Fallot: Aorto-pulmonary collaterals and pulmonary arteries have distinctly different 
+transcriptomes. Pediatr Res Pediatric Research, (76), 341-346. 
+[[p11]]
+11 
+ 
+Nichols, D., Ungerleider, R., Spevak. P., Greeley, W., Cameron, D., Lappe, D., Wetzel, R. 
+(2006). Critical Heart Disease in Infants and Children (2nd ed). Philadelphia, PA: Mosby.  
+Park, M. (2008). Pediatric Cardiology for Practitioners (5th ed). Philadelphia, PA: Mosby. 
+Pettersen, M. (2014, January 24). Tetralogy of fallot with pulmonary atresia. Medscape. 
+Retrieved from http://emedicine.medscape.com/article/899368-overview 
+ 
+Prieto, L. (2005, Jul-Sep). Management of tetralogy of Fallot with pulmonary atresia. Images in 
+Paediatric Cardiology, 7(3), 24-42. Retrieved from 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3232551/ 
+ 
+Ma, X., Barboza, L., Siyahian, A., Reinhartz, O., Maeda, K., Reddy, V., Riemer, R. (2014). 
+Tetralogy of Fallot: Aorto-pulmonary collaterals and pulmonary arteries have distinctly different 
+transcriptomes. Pediatr Res Pediatric Research, (76), 341-346. 
+Webb, G., Smallhorn, J., Therrien, J., & Redington, A. (2015). Congenital Heart Disease. 
+In Braunwald's heart disease: A textbook of cardiovascular medicine (10th ed., pp. 1391-1445). 
+Philadelphia, Pennsylvania: Elsevier Sauders. 
+Illustrations reprinted from PedHeart Resource. www.HeartPassport.com.  © Scientific Software 
+Solutions, 2016. All rights reserved. 
+ 
+12/2015 
+ 
+ 
+ 

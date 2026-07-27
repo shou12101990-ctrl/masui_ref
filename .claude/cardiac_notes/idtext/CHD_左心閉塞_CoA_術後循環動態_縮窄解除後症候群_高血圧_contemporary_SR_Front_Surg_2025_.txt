@@ -1,0 +1,1006 @@
+
+[[p1]]
+EDITED BY  
+Massimo Bonacchi,  
+University of Florence, Italy
+REVIEWED BY  
+Hendrik Tevaearai Stahel,  
+University Hospital of Bern, Switzerland
+*CORRESPONDENCE  
+Jose A. Figueroa-Sanchez  
+dr.ﬁgueroa@tec.mx
+†These authors have contributed equally to 
+this work and share ﬁrst authorship
+RECEIVED 10 January 2025 
+ACCEPTED 22 October 2025 
+PUBLISHED 17 November 2025
+CITATION 
+Martinez HR, Salazar-Alejo M, Ballesteros- 
+Suarez A, Perez-Martinez LE, Moran- 
+Guerrero JA, Flores-Salcido RE, Jimenez- 
+Franco V, Britton-Robles SC, Benvenutti- 
+Regato M and Figueroa-Sanchez JA (2025) 
+Postcoarctectomy syndrome: a contemporary 
+systematic review.  
+Front. Surg. 12:1518720. 
+doi: 
+10.3389/fsurg.2025.1518720
+COPYRIGHT 
+© 2025 Martinez, Salazar-Alejo, Ballesteros- 
+Suarez, Perez-Martinez, Moran-Guerrero, 
+Flores-Salcido, Jimenez-Franco, Britton- 
+Robles, Benvenutti-Regato and Figueroa- 
+Sanchez. This is an open-access article 
+distributed under the terms of the 
+Creative 
+Commons Attribution License (CC BY). The 
+use, distribution or reproduction in other 
+forums is permitted, provided the original 
+author(s) and the copyright owner(s) are 
+credited and that the original publication in 
+this journal is cited, in accordance with 
+accepted academic practice. No use, 
+distribution or reproduction is permitted 
+which does not comply with these terms.
+Postcoarctectomy syndrome: a 
+contemporary systematic review
+Hector R. Martinez
+1,2†
+, Misael Salazar-Alejo
+1,2†
+,  
+Ana Ballesteros-Suarez
+1
+, Luis E. Perez-Martinez
+1,2
+,  
+Jose A. Moran-Guerrero
+1,2
+, Rogelio E. Flores-Salcido
+2
+,  
+Vicente Jimenez-Franco
+1,3
+, Silvia Cecilia Britton-Robles
+1,3
+,  
+Mario Benvenutti-Regato
+1,2 
+and Jose A. Figueroa-Sanchez
+1,2*
+1Tecnologico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Monterrey, Mexico, 2Instituto 
+de Neurología y Neurocirugía, Centro Médico Zambrano Hellion, TecSalud, San Pedro Garza García, 
+Mexico, 
+3Instituto de Cardiología y Medicina Vascular, Centro Médico Zambrano Hellion, TecSalud, 
+San Pedro Garza García, México
+Postcoarctectomy syndrome is a serious but poorly understood complication 
+that can occur following surgical or endovascular repair of coarctation of the 
+aorta. This condition presents with severe abdominal pain, persistent 
+hypertension, and gastrointestinal symptoms that can be life-threatening if 
+not promptly recognized and treated. Despite being a known complication 
+for decades, the underlying mechanisms of postcoarctectomy syndrome 
+remain unclear, creating challenges for both early diagnosis and effective 
+treatment. We present the case of a patient with postcoarctectomy syndrome 
+and a systematic review analyzing the clinical presentation, diagnostic 
+approach, and treatment strategies for this complication. We also conduct a 
+systematic literature review, identify key knowledge gaps, and propose future 
+research priorities to address them.
+KEYWORDS
+vascular medicine, vascular surgery, cardiothoracic surgery, adverse events, review — 
+systematic
+1 Introduction
+Coarctation of the aorta (CoA) is a congenital heart disease characterized by a 
+localized narrowing of the thoracic aorta. Most commonly, the coarctation occurs near 
+the insertion of the ductus arteriosus, distal to the left subclavian artery. However, 
+some patients present with more extensive narrowing affecting longer aortic segments 
+or tortuous areas and frequently occurs alongside other congenital heart defects (
+1). 
+Clinical signs and symptoms may include a systolic or continuous murmur, weak or 
+absent femoral pulses, hypertension, and aortic dissection (
+2). Patients may also 
+experience headaches, epistaxis, and develop brain aneurysms (3, 4 ).
+The ﬁrst successful intervention for CoA was independently reported in 1945 by 
+Crafoord & Nylin (5) and Gross & Hufnagel (6). Since this breakthrough, treatment 
+options have expanded to include minimally invasive approaches such as balloon 
+angioplasty and stent placement (
+7 ). Despite successful and timely repair, patients 
+remain at risk for several complications, including persistent hypertension, 
+recoarctation, aortic dissection, and postcoarctectomy syndrome (PCS) (
+1, 2).
+PCS is a serious complication characterized by abdominal pain and systemic 
+hypertension following surgical or endovascular repair of CoA. While PCS typically 
+TYPE Mini Review 
+PUBLISHED 17 November 2025 
+DOI 10.3389/fsurg.2025.1518720
+Frontiers in Surgery 01 frontiersin.org
+[[p2]]
+develops within the ﬁrst 7 days post-intervention, delayed 
+presentation can occur weeks to months later. Patients may 
+experience additional symptoms including vomiting, ileus, 
+abdominal distension, fever, leukocytosis, and melena (
+3–7 ). 
+Given that PCS can be life-threatening, clinicians must 
+recognize this complication early and understand effective 
+prevention and management strategies.
+This review presents a representative case that demonstrates 
+the clinical presentation, diagnostic approach, and treatment 
+strategies for PCS. Additionally, we conduct a systematic review 
+of current literature to synthesize existing knowledge, identify 
+persistent knowledge gaps, and outline future research pathways 
+to address them.
+2 Case presentation
+A Hispanic male in his late 40’s initially presented 6 years 
+prior to this report with an aneurysmal subarachnoid 
+hemorrhage. During the aneurysm coiling procedure, digital 
+subtraction angiography incidentally revealed CoA. After 
+successfully managing the aneurysmal rupture, CT angiography 
+of the aortic arch demonstrated a coarctation measuring 
+3.0 × 4.4 mm in diameter. At that time, CoA treatment was 
+initially deferred to focus on neurological recovery and, despite 
+medical advice, it was subsequently postponed based on the 
+patient’s preference (
+8).
+Six years later, the patient returned with intermittent 
+claudication. Blood pressure (BP) measurements revealed 
+signiﬁcant upper-to-lower extremity gradients and reduced 
+ankle-brachial indices bilaterally. Despite treatment with 50 mg 
+atenolol, 5 mg amlodipine, 160 mg valsartan, and 12.5 mg 
+hydrochlorothiazide daily, the patient’s BP remained elevated, 
+averaging ∼150/106 mmHg. Endovascular aortic repair 
+was decided.
+Prior to the procedure, all antihypertensive medications 
+except atenolol were discontinued. Invasive hemodynamic 
+measurements demonstrated a 60-mmHg transcoarctatio n 
+gradient. A covered stent (BeGraft, 10 × 40 mm) was  
+successfully implanted at the coarctation site. Pos t- 
+deployment imaging conﬁrmed proper stent expansion, with 
+no evidence of aortic dissection or rupture. Immediate 
+postoperative BP improved to 102/60 mmHg, with no residual 
+gradient across the stent. Following postoperative protocol, 
+the patient was admitted to the ICU where he remain ed 
+hemodynamically stable on continued atenolol therapy. Two 
+days post-procedure, the patient reported new-onset, colicky 
+abdominal pain, rated 6/10 VAS in severity, primarily 
+affecting the lower quadrants and radiated to the lower 
+extremities. Associated symptoms included hyporexia , 
+abdominal bloating, and nausea. Physical examinatio n 
+revealed a soft, non-distended abdomen with tenderness only 
+on deep palpation. The pain remitted after a single 1-gram IV 
+dose of acetaminophen. After a 24-h stay, the patient was 
+discharged home. However, four days later, he returned with 
+recurrent abdominal and back pain. CT angiography 
+demonstrated a patent stent in the descending aorta with no 
+evidence of stent fracture, stenosis, aneurysm formation, or 
+vascular dissection.
+One month after the aortic repair, follow-up angiography 
+showed continued stent patency with no evidence of leaks or re- 
+stenosis. At the last follow-up, three months post-procedure, the 
+patient remained asymptomatic, and atenolol therapy 
+was discontinued.
+3 Literature review
+We conducted a systematic literature review following 
+PRISMA guidelines (9). We performed a comprehensive 
+literature search across PubMed, Web of Science, and Scopus 
+databases for articles published from database inception through 
+July 1st, 2025. Detailed electronic search strategies for each 
+database are provided in 
+Supplementary Table SI. Two reviewers 
+independently screened all identiﬁed titles and abstracts for 
+relevance, followed by full-text assessment of potentially eligible 
+studies against predetermined inclusion criteria. Studies were 
+included if they reported on the incidence, pathophysiology, 
+prevention, or treatment of PCS. We excluded editorials, 
+commentaries, studies not speciﬁcally addressing PCS, and 
+publications not available in English or Spanish. Any 
+discrepancies between reviewers were resolved through 
+discussion. Reference lists of included studies were screened to 
+identify additional relevant publications. The /f_low of identiﬁed 
+potential sources through the selection process is depicted in 
+e?PM?s?????
+appraisal using the JBI Critical Appraisal Tools for clinical 
+studies and the SANRA scale for narrative reviews, depending 
+on each study’s design (
+10–12). Quality assessment results are 
+reported in Supplementary Tables SII-SVI.
+4 Epidemiology
+The reported incidence of PCS varies considerably across 
+studies. The last compilation of incidence data was published 
+in 1965 (3). Given this signiﬁcant time gap, we sought to 
+provide an updated compilation of reported PCS incidence 
+rates. We identiﬁed all available studies reporting either PCS 
+incidence or sufﬁcient data to calculate incidence rates. To 
+avoid case duplication, we cross-referenced authors and 
+institutional afﬁliations across studies. Our analysis expanded 
+????U????PXUT???RV?
+studies, including two focused on catheter-based 
+interventions, a treatment modality absent from previous 
+reviews (
+13–42). We also compiled comprehensive symptom 
+and mortality data, which were not detailed in the last 
+compilation. Table 1 summarizes the reported incidence of 
+PCS from these studies. Mortality rate, which ranges from 0% 
+to 3.1% in the largest studies, is detailed in Supplementary 
+Table SVII along with information on reported 
+symptom frequency.
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 02 frontiersin.org
+[[p3]]
+TABLE 1 Reported incidence of postcoarctectomy syndrome.
+Report Publication 
+year
+CoA cases 
+operated
+Patients 
+surviving
+Patients 
+with pcs
+Percentage 
+with pcs
+Sample demographics
+Brom a 1965 548 520 16 3.1% Age: 0–1y (3.2%), 1–10y (19.7%), 10–20y (35.7%), 20– 
+30 (20.9%), 30–60 (20.2%).
+Koller et al.a 1987 362 362 0 0% Age: 0–2y (20.4%), 2–19y (39.8%), ≥20y (39.8%).
+Ibarra-Perez & 
+Lillehei
+a
+1969 Not reported 331 34 10.3% 219 males (66.1%) and 112 females (33.9%).
+Lerberg et al.a 1982 334 329 32 9.7% 66.6% males, 28% were <1y, and 2.3% were African- 
+american.
+Toro-Salazar 
+et al.
+a
+2002 274 254 28 11% Mean age at time of operation was 10.3 ± 9.5 years 
+(median 7.3, range 0 to 41.5). Forty-seven patients 
+were 1 year old at the initial operation, and 31 patients 
+were 20 years old.
+Pennington 
+et al.
+a
+1979 164 164 4 2.4% Age: < 1y (9; 5.4%), 1–5y (17; 10.3%), 6–10y (20; 
+12.1%), 11–18y (42; 25.6%), 19–29y (35; 21.3%), 30– 
+40y (14; 8.5%), > 40y (9; 5.4%).
+Clarkson et al.a 1983 160 160 9 5.6% 67% males, Age: range 1–54y; 1–9y (40, 25%), 10–19y 
+(62, 39%), 20–29y (26, 16%), 30–39y (16, 10%), 40– 
+19y (11, 7%), ≥ 50 (5, 3%).
+Chang & 
+Burrington
+a
+1972 194 159 13 8.2% 57 infants, 137 children and adults.
+Braimbridge & 
+Yen
+a
+1965 119 112 4 3.5% Mean age 22 years (range 3–56 years).
+Palatianos et al.a 1985 107 107 0 0% Mean age 6.4 years (range 4 days – 27 years), 65 males, 
+42 females.
+Stansel et al.a 1977 100 99 3 3.0% Age: 6–12 months (5, 5%), 1–5y (9, 9%), 5–10y (50, 
+50%), 10–20y (28, 28%), ≥ 20y (8, 8%).
+Tawes et al.a 1970 103 98 8 8.2% No details provided
+Glancy et al.a 1983 70 67 4 5.9% Mean age 17 years (range 1–49 years), 62 males, 22 
+females.
+Cheatham et al.a 1979 80 77 2 2.6% Mean age 4.5 years (range 1 week to 19 years), 51 
+males, 29 females. Forty percent were less than 2 years 
+of age, whereas 60% were 2 years of age and older.
+Sealy et al.a,b 1990 71 71 10 14.1% No details provided
+Patel et al.a 1977 65 65 5 7.7% Age range 1–14 years, 30 males, 35 females.
+Ring & Lewis 1956 73 64 18 28.1% Mean age 11 years
+Perianayagam 
+et al.
+a
+1980 51 46 0 0% Age range 1 month to 48 years, 35 males and 16 
+females.
+Wittig & 
+Mulder
+a
+1980 55 46 1 2.2% Median age 3.6 months (range 1 day to 12 months), 32 
+males, 23 females.
+b??M?PXTU?SO?RV?T?PRMTD?`??P–TT?K?QV?K?PR?M
+Trummer & 
+Mannix
+1963 33 33 8 24.2% Mean age 11.9 years (range 4–33 years), 23 males, 10 
+females.
+Mays & Sergeant 1965 35 33 4 12.1% Mean age 10.8 years (range 10 days to 18 years), 22 
+males and 13 females.
+Molaei et al.c,a 2011 26 26 2 7.7% Age range 4–19 years.
+e??M?PXWO?QT?QT?O?OMOD?`??P???RO?M
+Lindensmith 
+et al.
+a
+PXVP?SR?QT?R?PQD?`??Q???PQ?M
+Verska et al.a 1969 22 22 6 27.3% Mean age 17.9 years (range 6–46 years), 17 males, 5 
+females.
+Acevedo- 
+Bañuelos et al.
+a
+2013 20 20 0 0.0% Mean age 85 days (range 1–180 days), 13 males, 7 
+females.
+Bergdahl et al.a 1980 20 20 0 0% There were 12 males with a mean age of 43 years 
+(range 35–62 years) and 8 females with a mean age of 
+SS??G?RV–TQ?HM
+Bergdahl et al.a 1980 19 19 1 5.2% There were 14 boys with a mean age of 10 years (range 
+5–15 years) and 5 girls also with a mean age of 10 
+years (range 6–15 years).
+Hurt & Hanbury 1957 17 17 2 11.8% No details provided.
+Moreno et al.a 1980 17 17 0 0% Mean age 8.7 ± 5.44 years.
+Srouji & Truslera 1965 16 16 6 37.5% Average age 7.3 years (range 4–15 years).
+Reid & Dallachy 1958 15 15 1 6.7% No details provided.
+(Continued) 
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 03 frontiersin.org
+[[p4]]
+5 Risk factors
+PCS shows strong male predominance, with males comprising 
+63–92.1% of cases (3, 36, 43). Large series have reported that, 
+among patients who develop PCS, paradoxical hypertension 
+precedes the syndrome in 25%–100% of cases (3, 14, 16, 26, 36, 40, 
+41, 44 ). Age at intervention may be a signiﬁcant risk factor, with 
+teenagers and adults with facing higher risk than infants (4, 13, 45). 
+This discrepancy may be attributed to age-related factors, including 
+abnormal aortic compliance, altered vasoreactivity, dysfunctional 
+baroreceptors, and up-regulation of the renin-angiotensin system 
+(RAS) (46). Regarding treatment approach, limited data exist 
+comparing PCS incidence between endovascular and surgical repair.
+6 Pathophysiology
+PCS is believed to be the clinical manifestation of necrotizing 
+arteritis that speciﬁcally affects vessels located distal to the 
+previously coarcted aortic segment (
+3, 47 –50). However, the 
+exact mechanisms that trigger the development of these vascular 
+lesions remain poorly understood, and multiple competing 
+theories continue to be debated in the literature.
+6.1 The link with paradoxical hypertension
+A central paradigm suggests that PCS shares a common 
+underlying cause with PH, which almost invariably precedes the 
+syndrome (
+3, 6, 47 ). PH is a life-threatening, unexpected 
+hemodynamic response that occurs despite successful surgical 
+relief of CoA (
+39). PH follows a characteristic biphasic pattern. 
+The ﬁrst phase occurs within 24 h after aortic repair and 
+presents as a brief spike in BP. The second phase develops 48– 
+72 h after coarctectomy and is characterized by severe diastolic 
+hypertension that typically coincides with the onset of the 
+characteristic abdominal pain observed in PCS (
+22, 39, 51).
+6.2 Sympathetic nervous system alterations
+The elevation of catecholamines following coarctectomy 
+suggests that sympathetic nervous system activation plays a 
+central role in the ﬁrst phase of PH ( 42, 52, 53). The 
+mechanism underlying this catecholamine surge appears to be 
+directly linked to altered baroreceptor function. The primary 
+arterial baroreceptors, located in the carotid sinus and aortic 
+arch, are positioned proximal to the coarctation site. 
+Consequently, both structures experience chronic exposure to 
+long-lasting supranormal arterial pressures and gradually reset 
+their regulatory setpoints to accommodate these abnormal 
+hemodynamic conditions (
+54–56). Following successful 
+coarctectomy, arterial pressure in the proximal aortic segment 
+decreases abruptly. The chronically reset baroreceptors interpret 
+this normal pressure reduction as pathologically low BP. In 
+response, they decrease their inhibitory signals to the bulbar 
+vasomotor centers, which then dramatically increase sympathetic 
+output to compensate for what the altered baroreceptors 
+perceive as hypotension. This compensatory response triggers 
+excessive adrenaline and noradrenaline release (
+57 –59). The 
+elevation of catecholamines after surgery is not unique to 
+coarctectomy, but the magnitude and duration of the 
+noradrenaline surge are considerably greater compared to 
+normotensive or hypertensive patients undergoing other surgical 
+procedures (
+52, 57 ).
+6.3 The role of the renin-angiotensin 
+system
+Another possible contributing mechanism involves the 
+postsurgical increase in plasma renin activity and angiotensin 
+II (AT-II). During the second phase of PH, there is a marked 
+increase in both substances. This notable change in hormone 
+concentrations is mediated by increased sympathetic nervous 
+system activity following surgical aortic repair (60). The 
+magnitude and duration of this hormonal response ar e 
+uniquely characteristic of the postoperative period following 
+coarctation repair (42). The severe abdominal pain and 
+ileus characteristic of PCS may result from excessi ve 
+mesenteric vasoconstriction induced by these substances, and 
+the ensuing ischemia of the small bowel (3, 5, 38, 49 ). Given 
+this pathophysiological understanding, RAS antagonists have 
+been proposed as a promising therapeutic approach f or 
+controlling postoperative hypertension in this group of 
+patients (61).
+TABLE 1 Continued
+Report Publication 
+year
+CoA cases 
+operated
+Patients 
+surviving
+Patients 
+with pcs
+Percentage 
+with pcs
+Sample demographics
+Parsons & 
+Astley
+a
+1966 13 10 2 20% Age range 6 weeks to 13 years, 8 males, 2 females.
+Rocchini et al.a 1976 7 7 5 71.4% Mean age 9.2 years (range 7–14 years), 6 males, 1 
+female.
+Kan et al. 1983 7 7 0 0% Age range 10 months to 17 years, 6 males, 1 female.
+Tefera et al.c,a 2016 3 3 1 33.3% Mean age 10 years, 2 males, 1 female.
+aNewly added studies since the last incidence compilation reported.
+bUpdated report comprising the patients of the studies published in 1967 by the same single author.
+cReport with patients exclusively treated with catheter-based intervention.
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 04 frontiersin.org
+[[p5]]
+6.4 The mechanical hypothesis
+An additional mechanism contributing to PCS involves the 
+direct mechanical impact of surgical intervention and altered 
+hemodynamics on downstream vasculature. Following aortic 
+repair, the restoration of normal blood /f_low exposes mesenteric 
+blood vessels to signiﬁcantly increased pulsatile pressures, 
+potentially causing substantial arterial distension (
+57 ). Under 
+these new hemodynamic conditions, the sudden exposure to 
+higher pressures may result in excessive stimulation of 
+viscerosensory ﬁbers within vessel walls and subsequent arterial 
+necrosis. This process culminates in the abdominal pain, 
+distension, and ileus observed in PCS (
+4 , 41 , 47 ). Building on 
+this mechanical theory, it has been suggested that the sudden 
+FIGURE 1 
+PRISMA ﬂow diagram of study identiﬁcation and selection.
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 05 frontiersin.org
+[[p6]]
+overdistension of small arteries and arterioles, previously adapted 
+to lower-pressure blood /f_low, may trigger a protective vasospastic 
+response. While this vasospasm could theoretically protect smaller 
+vessels from further pressure-related damage, it may 
+simultaneously induce bowel ischemia, ultimately causing the 
+gastrointestinal manifestations characteristic of PCS (
+62, 63).
+6.5 Experimental evidence for the 
+mechanical hypothesis
+The theory that relief of CoA exposes downstream vasculature 
+to increased intra-arterial tension, thereby causing vascular 
+damage, has substantial experimental support. This mechanical 
+explanation for vascular lesions is derived from well-established 
+animal models originally developed to study experimental and 
+malignant hypertension (
+64 –66). Among these experimental 
+studies, Mays & Sergeant (3) highlight the model developed by 
+Byrom & Dodson (66). In this landmark experiment, researchers 
+forcibly injected Ringer’s solution into rat carotid arteries, 
+mechanically simulating the sudden increase in intra-arterial 
+tension that occurs following relief of aortic obstruction (
+66). 
+The resulting arterial lesions were remarkably similar to those 
+described in numerous PCS case reports (
+8, 38, 55, 56). The 
+experimental results support the concept that intravascular 
+tension approaching the tolerance limits of exposed vasculature 
+can cause overstretching of vessel walls and subsequent necrosis 
+of the muscular layer. These weakened areas provide entry 
+points for blood inﬁltration, which is then converted to ﬁbrin 
+through thromboplastin released from necrotic muscle cells. 
+This initial damage triggers in/f_lammatory cell inﬁltration of 
+affected vessels as part of the natural repair process to restore 
+vessel wall integrity (
+3, 66, 67 ).
+6.6 Susceptibility of the mesenteric 
+circulation
+An intriguing observation is that, although multiple organs and 
+vascular structures experience similar hemodynamic changes before 
+and after coarctation repair, the splanchnic circulation, particularly 
+the mesenteric vascular territories, demonstrates disproportionately 
+severe involvement (3). The increased susceptibility of mesenteric 
+vessels is theorized to result from two key factors. First, there is a 
+relative lack of surrounding supportive tissue compared to other 
+vascular beds. Second, these vessels possess inherent fragility due 
+to chronic exposure to only subnormal pulse pressures prior to 
+aortic repair (3, 6, 48, 68).
+7 Prevention
+Current strategies to prevent PCS include graduated serial 
+stent dilation, early recognition and treatment of PH, and beta- 
+blocker prophylaxis (
+45, 54, 69). However, emphasis on beta- 
+blocker prophylaxis has decreased considerably, likely due to 
+signiﬁcant improvements in postoperative antihypertensive 
+therapy in the ICU since the 1970s (
+70 ). This progressive 
+improvement was motivated by the need for alternatives to 
+classic medications such as reserpine and trimethaphan, which 
+were used to manage PH. One of the ﬁrst major advances was 
+the introduction of non-selective beta-blockers, particularly 
+propranolol, for postoperative PH control (
+59, 71 ). Positive 
+results with propranolol increased interest in adrenergic blockers 
+for perioperative BP control in this patient population. 
+Subsequently, esmolol, a selective β1-blocker, proved safe and 
+effective for controlling postoperative hypertension in 
+postcoarctectomy patients. Esmolol offered advantages over 
+propranolol, including shorter duration of action and selective 
+adrenoreceptor blockade (
+72, 73). However, beta-blockers carry 
+a potential disadvantage. Although rare, unopposed beta- 
+blockade with elevated catecholamines can stimulate alpha- 
+adrenergic receptors, potentially causing the mesenteric ischemia 
+characteristic of PCS (
+58). This limitation has led to recent trials 
+exploring alternative approaches. A retrospective study (46 ) 
+evaluated the effectiveness of intravenous labetalol, a combined 
+selective α1- and non-selective β-antagonist, compared to no 
+antihypertensive therapy in pediatric postcoarctectomy 
+patients (
+46 ). The study demonstrated that intravenous labetalol 
+was generally safe, effective, fast-acting, and easily convertible to 
+oral therapy when continued treatment was necessary. These 
+ﬁndings align with results reported in a small cohort study, 
+which achieved adequate BP control using considerably smaller 
+nitroprusside doses than previously required (
+58). Despite these 
+advances, treatment approaches remain heterogeneous due to 
+absent standardized guidelines and numerous available 
+pharmacotherapy options (
+74 ).
+8 Treatment
+PCS typically resolves following a period of bowel rest and 
+administration of antihypertensive therapy (3, 4 , 67 ). 
+Antihypertensive medications should be initiated immediately 
+upon onset of PH and abdominal pain, using adequate dosages 
+to control both conditions effectively (
+36). These medications 
+serve dual therapeutic purposes: they reduce mechanical stress 
+on mesenteric arterial walls caused by increased pulsatile blood 
+/f_low and mitigate the vasoconstrictive and blood-shunting 
+effects of the RAS (
+6). Additionally, some authors have reported 
+positive outcomes using intravenous papaverine, a non-speciﬁc 
+muscle relaxant, as an adjunctive treatment for PCS (
+TK?VT?HM?
+Supplementary Table SVIIprovides general information on PCS 
+management as described in sources that documented speciﬁc 
+treatments and patient outcomes. Among 121 patients for whom 
+treatment details were reported, symptom duration ranged from 
+3 to 42 days. Thirteen patients required surgical intervention via 
+laparotomy, and 4 deaths were reported (
+3, 5, 15, 16, 24, 36, 40 , 
+SP?K?SV?K?UQK?UWK?VT?HM?b????
+most frequently employed therapeutic approach, reported in 
+75% of studies (
+RK?TK?PTK?PUK?SP?K?SV?K?UQK?UWK?VT?HM?b?
+measures typically included nil per os, intravenous /f_luid 
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 06 frontiersin.org
+[[p7]]
+administration, intubation, and gastric suction. Regarding 
+antihypertensive therapy, reserpine was the most commonly used 
+medication, reported in 30% of studies, followed by hydralazine, 
+which was utilized in 15% of studies (3, 36, 39, 40, 68).
+9 Discussion
+Our understanding of PCS pathophysiology has evolved 
+signiﬁcantly since early hypotheses were proposed, particularly 
+with advancements in splanchnic circulation physiology. The 
+splanchnic vasculature, including its mesenteric circulation 
+component, is regulated by both intrinsic and extrinsic control 
+mechanisms (
+76 –78 ). The intrinsic system operates through two 
+primary pathways: metabolic and myogenic. The metabolic 
+pathway induces vasodilation in response to tissue hypoxia and 
+accumulation of metabolic byproducts. The myogenic pathway 
+involves the Bayliss effect, a phenomenon of vasoconstriction 
+that occurs when vascular wall myocytes undergo mechanical 
+stretching. Conversely, decreased intravascular pressure triggers 
+vasodilation, thereby maintaining relatively stable blood /f_low 
+(
+78 ). The extrinsic system encompasses neurohumoral control, 
+autonomic autoregulation, and central cardiovascular control. 
+The neurohumoral component represents a balance between 
+vasoconstrictors such as catecholamines and AT-II, and 
+vasodilators including bradykinin, prostaglandins, and histamine 
+(
+77 , 78 ). An imbalance in these regulatory systems could explain 
+the clinical ﬁndings observed in PCS. As previously discussed, 
+altered barorreceptor setpoints, direct aortic arch manipulation, 
+or both factors can considerably increase circulating 
+catecholamines. These hormones activate β1-receptors on the 
+juxtaglomerular apparatus and increase renin secretion, resulting 
+in elevated AT-II levels (
+79 ). Both noradrenaline and AT-II 
+produce exaggerated vasoconstriction in the mesenteric 
+vasculature, potentially redistributing up to 80% of splanchnic 
+blood /f_low and contributing substantially to ischemia in this 
+vascular territory (
+80). Additionally, increased pulsatile pressure 
+in vessels distal to the repaired coarctation could trigger 
+exaggerated myogenic pathway activation, further reducing 
+blood /f_low and promoting mesenteric ischemia. This abnormal 
+response appears conﬁned to the mesenteric circulation and 
+may result from differences in adrenoreceptor concentration and 
+subtype ratios between organ systems. Speciﬁcally, predominant 
+α-mediated vasoconstriction in the mesenteric vasculature could 
+redistribute blood /f_low away from this territory (
+80).
+Regarding identiﬁed knowledge gaps, further research into 
+prevention and treatment of PH is warranted. Building on 
+experiments by Price et al. (
+81) and ﬁndings by Siersma et al. 
+(46 ) and Charlton et al. (58), prospective randomized studies 
+could compare labetalol with different antihypertensive agents. 
+Such studies should employ pre-speciﬁed therapy initiation 
+thresholds, consider higher doses than previously reported, and 
+include metrics such as adverse effect rates, PCS incidence, ICU 
+length of stay, and treatment costs to reﬁne the preventive and 
+therapeutic roles of these medications (
+82). Similarly, using 
+RAS-antagonists as alternative or adjunct pharmacological 
+management was proposed decades ago, but limited research 
+has explored their therapeutic potential (
+83).
+Notably, patients treated with endovascular techniques appear 
+to have a less prominent sympathetic response, potentially 
+decreasing PH risk (
+60). This observation warrants further 
+investigation through prospective trials with larger sample sizes 
+and inclusion of PCS incidence as an outcome measure. 
+Additionally, several studies (
+68)have reported that patients may 
+experience complications even months after coarctectomy (3, 
+68). Therefore, extended and close follow-up is warranted in 
+future studies to promptly diagnose and address these 
+delayed complications.
+The considerable variability in PCS incidence rates across 
+studies may result from differences in patient age, CoA treatment 
+modalities, BP control protocols, and other risk factors that vary 
+signiﬁcantly between study populations. Future research should 
+investigate how these factors in/f_luence PCS incidence rates.
+The presented case underscores the need for continued clinical 
+vigilance regarding PCS development. Even with optimal blood 
+pressure management using β-blockers and endovascular 
+techniques, this life-threatening complication can emerge days 
+to weeks after CoA repair. Successful management requires 
+rapid recognition and immediate attention to blood pressure 
+control, pain management, and early assessment for potential 
+surgical intervention. Long-term follow-up remains crucial, as 
+patients may develop signiﬁcant complications following PCS.
+10 Conclusion
+PCS remains an incompletely understood phenomenon with 
+signiﬁcant clinical implications. This article provides a 
+comprehensive description of current pathophysiological 
+understanding and an updated compilation of incidence data and 
+treatment strategies reported in the literature. Clinical trials 
+investigating novel and complementary pharmacologic al 
+approaches could substantially improve our understanding of the 
+underlying mechanisms driving PCS and provide a stronger 
+evidence-based foundation for treatment decisions. Given that 
+this complication can be fatal and carries considerable morbidity, 
+healthcare providers treating patients with CoA must remain 
+vigilant throughout the perioperative and extended follow-up 
+periods. Active prevention strategies, prompt recognition and 
+treatment of symptoms, and appropriate long-term follow-up are 
+essential components of care for patients at risk of experiencing 
+PCS. Early intervention and sustained clinical awareness can 
+signiﬁcantly impact patient outcomes and reduce the morbidity 
+and mortality associated with this serious complication.
+Author contributions
+HM: Writing – original draft, Writing – review & editing, 
+Conceptualization, Formal analysis, Investigation, Methodology, 
+Project administration, Resources, Supervision, Validation. MS- 
+A: Conceptualization, Data curation, Formal analysis, 
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 07 frontiersin.org
+[[p8]]
+Investigation, Methodology, Project administration, Resources, 
+Software, Supervision, Validation, Visualization, Writing – 
+original draft, Writing – review & editing. AB-S: 
+Conceptualization, Data curation, Investigation, Methodology, 
+Project administration, Software, Validation, Visualization, 
+Writing – original draft, Writing – review & editing. LP-M: 
+Conceptualization, Data curation, Investigation, Methodology, 
+Project administration, Resources, Software, Validation, 
+Visualization, Writing – original draft, Writing – review & 
+editing. JM-G: Conceptualization, Data curation, Formal analysis, 
+Investigation, Methodology, Project administration, Software, 
+Validation, Visualization, Writing – original draft, Writing – 
+review & editing. RF-S: Conceptualization, Data curation, 
+Investigation, Methodology, Project administration, Software, 
+Validation, Visualization, Writing – original draft, Writing – 
+review & editing. VJ-F: Supervision, Validation, Writing – 
+original draft, Writing – review & editing. SB-R: Supervision, 
+Validation, Writing – original draft, Writing – review & editing. 
+MB-R: Supervision, Validation, Writing – original draft, 
+Writing – review & editing. JF-S: Writing – original draft, 
+Writing – review & editing, Conceptualization, Data curation, 
+Formal analysis, Investigation, Methodology, Projec t 
+administration, Resources, Software, Supervision, Validation.
+Funding
+The author(s) declare that no ﬁnancial support was received 
+for the research and/or publication of this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the 
+absence of any commercial or ﬁnancial relationships that could 
+be construed as a potential con/f_lict of interest.
+Generative AI statement
+The author(s) declare that Generative AI was used in the 
+creation of this manuscript. Generative AI, speciﬁcally Claude 
+Sonnet 4, was used to improve the grammatical structure, 
+cohesion, and clarity of the text. Grammarly was also utilized 
+to enhance language precision. No AI tools were used in the 
+generation or interpretation of scientiﬁc content, data 
+analysis, or conclusions. The core scientiﬁc ﬁnding s, 
+methodology, and intellectual contributions are entirely the 
+work of the authors.
+Any alternative text (alt text) provided alongside ﬁgures 
+in this article has been generated by Frontiers with the 
+support of artiﬁcial intelligence and reasonable efforts have 
+been made to ensure accuracy, including review by t he 
+authors wherever possible. If you identify any issues, please 
+contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their afﬁliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed 
+or endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found 
+online at: https://www.frontiersin.org/articles/10.3389/fsurg.2025. 
+1518720/full#supplementary-material
+References
+PM?j?xxK?`?kK?b?rbM?`?M?b?bM?GQOQOH?
+38:337–51. doi: 10.1016/j.ccl.2020.04.003
+2. Dijkema EJ, Leiner T, Grotenhuis HB. Diagnosis, imaging and clinical 
+management of aortic coarctation. Heart. (2017) 103:1148–55. doi: 10.1136/ 
+heartjnl-2017-311173
+3. Mays E, Sergeant C. Postcoarctectomy syndrome. Arch Surg. (1965) 91:58. 
+doi: 10.1001/archsurg.1965.01320130060008
+4. Stewart D, Shores D, Alaish SM. Organ system response to cardiac function— 
+splanchnic. Elsevier. (2019):150–159.e4. doi: 10.1016/b978-1-4557-0760-7.00015-2
+5. Pomar JL, Pelletier C, Hudon G, Hebert Y. Mesenteric arteritis complicating surgical 
+repair of coarctation of the aorta. Chest. (1982) 82:508–10. doi: 10.1378/chest.82.4.508
+6. Fox S, Pierce WS, Waldhausen JA. Pathogenesis of paradoxical hypertension 
+after coarctation repair. Ann Thorac Surg. (1980) 29:135–41. doi: 10.1016/s0003- 
+4975(10)61651-7
+7. Fisher A, Benedict CR. Adult coarctation of the aorta: anaesthesia and 
+postoperative management. Anaesthesia. (1977) 32:533–8. doi: 10.1111/j.1365-2044. 
+1977.tb10000.x
+8. Figueroa-Sanchez J, Ferrigno A, Martinez-Rodriguez H. Multiple aneurysms, 
+aortic coarctation, and persistent trigeminal artery. A unique presentation. Surg 
+Neurol Int. (2019) 10(6). doi: 10.4103/sni.sni_395_18
+9. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. 
+The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. 
+Br Med J. (2021) 372:n71. 
+doi: 10.1136/bmj.n71
+10. Baethge C, Goldbeck-Wood S, Mertens S. SANRA—a scale for the quality 
+assessment of narrative review articles. Res Integr Peer Rev. (2019) 4(5). doi: 10. 
+1186/s41073-019-0064-8
+11. Moola S, Munn Z, Tufanaru C, Aromataris E, Sears K, Sfetcu R, et al. Chapter 7: 
+systematic reviews of etiology and risk. In: Aromataris E, Munn Z, editors. JBI Manual 
+for Evidence Synthesis. Adelaide: JBI (2020). https://synthesismanual.jbi.global
+12. Munn Z, Barker TH, Moola S, Tufanaru C, Stern C, McArthur A, et al. 
+Methodological quality of case series studies: an introduction to the JBI critical 
+appraisal tool. JBI Database System Rev Implement Rep. (2019) 18:2127–33. 
+doi: 10. 
+11124/jbisrir-d-19-00099
+13. Koller M, Rothlin M, Senning A. Coarctation of the aorta: review of 362 
+operated patients. Long-term follow-up and assessment of prognostic variables. Eur 
+Heart J. (1987) 8:670–9. doi: 10.1093/eurheartj/8.7.670
+14. Lerberg DB, Hardesty RL, Siewers RD, Zuberbuhler JR, Bahnson HT. 
+b???????Y?QT???M?`?
+Thorac Surg. (1982) 33:159–70. doi: 10.1016/s0003-4975(10)61903-0
+15. Tefera E, Leye M, Chanie Y, Raboisson M-J, Miro J. Percutaneous 
+recanalization of totally occluded coarctation of the aorta in children using 
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 08 frontiersin.org
+[[p9]]
+brockenbrough needle and covered stents. Ann Pediatr Cardiol. (2016) 9:153. doi: 10. 
+4103/0974-2069.180664
+16. Stansel HC, Tabry IF, Poirier RA, Berman MA, Hellenbrand WE. One hundred 
+consecutive coarctation resections followed from one to thirteen years. J Pediatr Surg. 
+(1977) 12:279–86. doi: 10.1016/0022-3468(77)90002-1
+17. Acevedo-Bañuelos I, González-Peña J, Chagolla-Santillán MÁ, Hernández- 
+Morales G, Farías-Serratos CV. Reparación quirúrgica de coartación aórtica en 
+lactantes menores. Archivos de Cardiología de México. (2013) 83:159–64. 
+doi: 10. 
+1016/j.acmx.2013.03.004
+18. Molaei A, Merajie M, Mortezaeian H, Malakan Rad E, Haji Heidar Shemirani R. 
+Complications of aortic stenting in patients below 20 years old: immediate and 
+intermediate follow-up. J Tehran Heart Cent. (2011) 6:202–5.
+19. Toro-Salazar OH, Steinberger J, Thomas W, Rocchini AP, Carpenter B, Moller 
+JH. Long-term follow-up of patients after coarctation of the aorta repair. Am 
+J Cardiol. (2002) 89:541–7. doi: 10.1016/s0002-9149(01)02293-7
+20. Palatianos GM, Kaiser GA, Thurer RJ, Garcia O. Changing trends in the 
+surgical treatment of coarctation of the aorta. Ann Thorac Surg. (1985) 40:41–5. 
+doi: 10.1016/s0003-4975(10)61167-8
+21. Clarkson PM, Nicholson MR, Barratt-Boyes BG, Neutze JM, Whitlock RM. 
+Results after repair of coarctation of the aorta beyond infancy: a 10 to 28 year 
+follow-up with particular reference to late systemic hypertension. Am J Cardiol. 
+(1983) 51:1481–8. 
+doi: 10.1016/0002-9149(83)90661-6
+22. Glancy DL, Morrow AG, Simon AL, Roberts WC. Juxtaductal aortic 
+coarctation. Am J Cardiol. (1983) 51:537–51. doi: 10.1016/s0002-9149(83)80094-0
+23. Kan JS, White RI, Mitchell SE, Farmlett EJ, Donahoo JS, Gardner TJ. Treatment 
+of restenosis of coarctation by percutaneous transluminal angioplasty. Circulation. 
+(1983) 68:1087–94. doi: 10.1161/01.cir.68.5.1087
+24. Bergdahl L, Jonasson R, Björk VO. Late results of operation in children with 
+coarctation of the aorta. Scand J Thorac Cardiovasc Surg. (1980) 14:83–9. doi: 10. 
+3109/14017438009109859
+25. Bergdahl L, Jonasson R, Björk VO. Late results of operation for coarctation of 
+the aorta in patients more than 35 years of age. Scand J Thorac Cardiovasc Surg. 
+(1980) 14:77–82. doi: 10.3109/14017438009109858
+26. Pennington GD, Liberthson RR, Jacobs M, Scully H, Goldblatt A, Daggett WM. 
+Critical review of experience with surgical repair of coarctation of the 
+aorta. J Thorac Cardiovasc Surg. (1979) 77:217–29. 
+doi: 10.1016/s0022-5223(19) 
+40960-4
+27. Moreno NN, Campo TD, Kaiser GA, Pallares VS. Technical and pharmacologic 
+management of distal hypotension during repair of coarctation of the aorta. J Thorac 
+Cardiovasc Surg. (1980) 80:182–6. doi: 10.1016/s0022-5223(19)37787-6
+28. Perianayagam WJ, Muralidharan S, Jairaj PS, Krishnaswamy S, Sukumar IP, 
+Cherian G, et al. Experience with the surgical treatment of coarctation of the aorta 
+in India. Thorax. (1980) 35:950–2. 
+doi: 10.1136/thx.35.12.950
+29. Wittig JH, Mulder DG. Repair of coarctation of the aorta in infants. Am J Surg. 
+(1980) 140:158–63. doi: 10.1016/0002-9610(80)90434-1
+30. Cheatham JE, Williams GR, Thompson WM, Luckstead EF, Razook JD, Elkins 
+RC. Coarctation: a review of 80 children and adolescents. Am J Surg . (1979) 
+138:889–93. doi: 10.1016/0002-9610(79)90317-9
+31. Patel R, Singh SP, Abrams L, Roberts KD. Coarctation of aorta with special 
+reference to infants. Long-term results of operation in 126 cases. Heart. (1977) 
+39:1246–53. doi: 10.1136/hrt.39.11.1246
+32. Chang JHT, Burrington JD. Coarctation of the aorta in infants and children. 
+J Pediatr Surg. (1972) 7:127–35. doi: 10.1016/0022-3468(72)90486-1
+33. Lindesmith GG, Stanton RE, Stiles QR, Meyer BW, Jones JC. Coarctation of the 
+thoracic aorta. Ann Thorac Surg. (1971) 11:482–97. doi: 10.1016/s0003-4975(10) 
+65487-2
+34. Parsons CG, Astley R. Recurrence of aortic coarctation after operation in 
+childhood. Br Med J. (1966) 1:573–7. doi: 10.1136/bmj.1.5487.573
+35. Brom GA. Narrowing of the aortic isthmus and enlargement of the mind. 
+J Thorac Cardiovasc Surg. (1965) 50:166–80. doi: 10.1016/s0022-5223(19)33204-0
+36. Ibarra-Perez C, Walton Lillehei C. Treatment of mesenteric arteritis following 
+resection of coarctation of the aorta. J Thorac Cardiovasc Surg. (1969) 58:135–9. 
+doi: 10.1016/s0022-5223(19)42641-x
+37. Braimbridge MV. Coarctation in the Elderly. (1965).
+38. Tawes RL, Bull JC, Roe BB. Hypertension and abdominal pain after resection of 
+aortic coarctation. Ann Surg. (1970) 171:409–12. doi: 10.1097/00000658-197003000- 
+00014
+39. Sealy WC. Paradoxical hypertension after repair of coarctation of the aorta: a 
+review of its causes. Ann Thorac Surg. (1990) 50:323–9. doi: 10.1016/0003-4975(90) 
+90768-2
+40. Verska JJ, De Quattro V, Woolley MM. Coarctation of the aorta. J Thorac 
+Cardiovasc Surg. (1969) 58:746–53. doi: 10.1016/s0022-5223(19)42555-5
+41. Srouji MN, Trusler CA. Paradoxical Hypertension and the Abdominal Pain 
+Syndrome Following Resection of Coarctation of the Aorta. (1965) 92).
+42. Rocchini AP, Rosenthal A, Barger AC, Castaneda AR, Nadas AS. Pathogenesis 
+of paradoxical hypertension after coarctation resection. Circulation. (1976) 54:382–7. 
+doi: 10.1161/01.cir.54.3.382
+43. Cheitlin MD. Coarctation of the aorta. Med Clin N Am . (1977) 61:655–73. 
+doi: 10.1016/s0025-7125(16)31323-2
+44. Stemmer EA, Connolly JE. Mesenteric vascular insufﬁciency. Identiﬁcation and 
+management. Calif Med. (1973) 118:18–29.
+45. Sapin SO, Rosengart RM, Salem MM. Chest pain during stenting of a native 
+aortic coarctation: a case for acute intercostal muscle ischemia and 
+rhabdomyolysis. Catheter Cardiovasc Interv. (2002) 57:217–20. 
+doi: 10.1002/ccd. 
+10293
+46. Siersma C, Brouwer CNM, Sojak V, Ten Harkel ADJ, Roeleveld PP. Treatment 
+of post-coarctectomy hypertension with labetalol—a 9-year single-center experience. 
+World J Pediatr Congenit Heart Surg . (2022) 13:701–6. 
+doi: 10.1177/ 
+21501351221111797
+47. Ring DM, Lewis FJ. Abdominal pain following surgical correction of 
+coarctation of the aorta: a syndrome. J Thorac Surg. (1956) 31:718–24. doi: 10. 
+1016/s0096-5588(20)30881-3
+48. Downing DF. Coarctation of the Aorta. AMA J Dis Children . (1958) 
+96(711):701–6. doi: 10.1001/archpedi.1958.02060060713010
+49. Sealy WC. Coarctation of the aorta and hypertension. Ann Thorac Surg. (1967) 
+3:15–28. doi: 10.1016/s0003-4975(10)66683-0
+50. Hurt RL, Hanbury WJ. Intestinal vascular lesions simulating polyarteritis 
+Nodosa after resection of coarctation of the aorta. Thorax. (1957) 12:258–63. 
+doi: 10.1136/thx.12.3.258
+51. Rothlin ME. Surgical repair of coarctation: early and late results. J Interven 
+Cardiology. (1992) 5:203–8. doi: 10.1111/j.1540-8183.1992.tb00428.x
+52. Benedict CR, Grahame-Smith DG, Fisher A. Changes in plasma catecholamines 
+and dopamine beta-hydroxylase after corrective surgery for coarctation of the aorta. 
+Circulation. (1978) 57:598–602. 
+doi: 10.1161/01.cir.57.3.598
+53. Vyden JK. Subnormal amylase and gamma globulin levels in the 
+postcoarctation abdominal pain syndrome. J Thorac Cardiovasc Surg. (1972) 
+63:439–41. doi: 10.1016/s0022-5223(19)41908-9
+54. Matsuyama K, Sonoda E, Nakao K, Horio Y, Yasue H. Baroreceptor re/f_lex in a 
+patient with coarctation of the aorta. Clin Cardiol. (1987) 10:535–6. doi: 10.1002/clc. 
+4960100915
+55. Igler FO, Boerboom LE, Werner PH, Donegan JH, Zuperku EJ, Bonchek LI, 
+et al. Coarctation of the aorta and baroreceptor resetting. A study of carotid 
+baroreceptor stimulus-response characteristics before and after surgical repair in 
+the dog. Circ Res. (1981) 48:365–71. 
+doi: 10.1161/01.res.48.3.365
+56. Hanson E, Eriksson BO, Sivertsson R. Baroreceptor re/f_lexes after coarctectomy. 
+Clinical Physiology. (1981) 1:503–9. doi: 10.1111/j.1475-097x.1981.tb00917.x
+57. Goodall MCC, Sealy WC. Increased sympathetic nerve activity following 
+resection of coarctation of the thoracic aorta. Circulation. (1969) 39:345–51. 
+doi: 10.1161/01.cir.39.3.345
+58. Charlton GA, Ladd DR, Friesen RM, Friesen RH. Labetalol infusion attenuates 
+paradoxical hypertension and decreases plasma renin activity after repair of 
+coarctation of the aorta in children. J Cardiothorac Vasc Anesth. (2020) 
+34:3348–51. 
+doi: 10.1053/j.jvca.2020.05.027
+59. Gidding SS, Rocchini AP, Beekman R, Szpunar CA, Moorehead C, Behrendt D, 
+et al. Therapeutic effect of propranolol on paradoxical hypertension after repair of 
+coarctation of the aorta. N Engl J Med . (1985) 312:1224–8. 
+doi: 10.1056/ 
+nejm198505093121904
+60. Choy M, Rocchini AP, Beekman RH, Rosenthal A, Dick M, Crowley D, et al. 
+Paradoxical hypertension after repair of coarctation of the aorta in children: 
+balloon angioplasty versus surgical repair. Circulation. (1987) 75:1186–91. 
+doi: 10. 
+1161/01.cir.75.6.1186
+61. Wilkinson C, Clark H. Refractory hypertension during coarctectomy. 
+Anesthesiology. (1982) 57:540–2. doi: 10.1097/00000542-198212000-00020
+62. Reid HC, Dallachy R. Infarction of ileum following resection of coarctation of 
+the aorta. Br J Surg. (1958) 45:625–32. doi: 10.1002/bjs.18004519413
+63. Moore JW, Lovett EJ, Kirby WC. Gastrointestinal hemorrhage 
+after combined percutaneous angioplasty of aortic coarctation and valvuloplasty 
+of aortic stenosis in an infant. Pediatr Cardiol. (1993) 14:53–5. 
+doi: 10.1007/ 
+bf00794848
+64. Fleming HA. Factors involved in the production of acute arterial lesions in 
+rabbits with experimental renal hypertension. J Pathol Bacteriol. (1953) 65:441–50. 
+doi: 10.1002/path.1700650216
+65. Wilson C, Byrom FB. Renal changes in malignant hypertension. Lancet. (1939) 
+233:136–9. doi: 10.1016/s0140-6736(00)60143-5
+66. Byrom FB, Dodson LF. The causation of acute arterial necrosis in hypertensive 
+disease. J Pathol Bacteriol. (1948) 60:357–68. doi: 10.1002/path.1700600302
+67. Hallman GL, Bloodwell RD, Cooley DA. Coarctation of the thoracic Aorta. Surg 
+Clin North America. (1966) 46:893–9. doi: 10.1016/s0039-6109(16)37933-6
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 09 frontiersin.org
+[[p10]]
+68. Trummer MJ, Mannix EP. Abdominal pain and necrotizing mesenteric arteritis 
+following resection of coarctation of the aorta. J Thorac Cardiovasc Surg. (1963) 
+45:198–209. doi: 10.1016/s0022-5223(19)32884-3
+69. Shirai T, Amano J, Fujii N, Hirabayashi S, Suzuki A. Rupture of 
+h???M?bM?GPXXSH?POUYPQXO–PM?Y?POMPRVWNMPOUM?
+4.1290
+70. Love BA, Fischer GW, Stelzer P, Fuster V. Aortic coarctation in the adult. 
+Springer London. (2013) 45:2521–49. doi: 10.1007/978-1-4471-4619-3_184
+71. Will RJ, Walker OM, Traugott RC, Treasure RL. Sodium nitroprusside and 
+propranolol therapy for management of postcoarctectomy hypertension. J Thorac 
+Cardiovasc Surg. (1978) 75:722–4. doi: 10.1016/s0022-5223(19)41320-2
+72. Tabbutt S, Nicolson SC, Adamson PC, Zhang X, Hoffman ML, Wells W, et al. 
+The safety, efﬁcacy, and pharmacokinetics of esmolol for blood pressure control 
+immediately after repair of coarctation of the aorta in infants and children: a 
+multicenter, double-blind, randomized trial. J Thorac Cardiovasc Surg. (2008) 
+136:321–8. 
+doi: 10.1016/j.jtcvs.2007.09.086
+73. Wiest DB, Garner SS, Uber WE, Sade RM. Esmolol for the management of 
+pediatric hypertension after cardiac operations. J Thorac Cardiovasc Surg. (1998) 
+115:890–7. doi: 10.1016/s0022-5223(98)70371-x
+74. Moffett BS, Penny DJ. Variability in treatment of post-coarctectomy 
+hypertension: a multicenter study. Pediatr Cardiol. (2016) 37:772–7. doi: 10.1007/ 
+s00246-016-1349-z
+75. Jintao F, Xingang W, Wenhui W, Wei M. Abdominal pain after stenting for 
+aortic coarctation. Journal of vascular surgery cases. Innov Techniq. (2020) 
+6:678–80. doi: 10.1016/j.jvscit.2019.11.004
+76. Harper D, Chandler B. Splanchnic circulation. BJA Educ. (2016) 16:66–71. 
+doi: 10.1093/bjaceaccp/mkv017
+77. Zimmerman P, Huseynova K, Pillai L. Anatomy and physiology of the mesenteric 
+circulation. Elsevier. (2019) 58:1014–26. doi: 10.1016/b978-0-323-40232-3.00086-8
+78. Hashmi S, Khattab A, Ehrenpreis ED. Physiology of the mesenteric circulation. 
+Springer International Publishing. (2021) 6:107–19. doi: 10.1007/978-3-030-71963-0_13
+79. Thomas GD. Neural control of the circulation. Adv Physiol Educ. (2011) 
+35:28–32. doi: 10.1152/advan.00114.2010
+80. Fink GD, Osborn JW. The splanchnic circulation. Elsevier. (2012):211–3. 
+doi: 10.1016/b978-0-12-386525-0.00043-3
+81. Price HL, Cooperman LH, Warden JC. Control of the splanchnic circulation in 
+man. Circ Res. (1967) 21:333–40. doi: 10.1161/01.res.21.3.333
+82. Roeleveld PP, Zwijsen EG. Treatment strategies for paradoxical 
+hypertension following surgical correction of coarctation of the aorta in children. 
+World J Pediatr Congenit Heart Surg. (2017) 8:321–31. doi: 10.1177/2150135117690104
+83. Casta A, Conti VR, Talabi A, Brouhard BH. Effective use of captopril in 
+postoperative paradoxical hypertension of coarctation of the aorta. Clin Cardiol. 
+(1982) 5:551–3. doi: 10.1002/clc.4960051009
+Martinez et al.                                                                                                                                                         10.3389/fsurg.2025.1518720 
+Frontiers in Surgery 10 frontiersin.org

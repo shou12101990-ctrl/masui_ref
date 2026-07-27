@@ -1,0 +1,767 @@
+
+[[p1]]
+March 2017  |  Volume 4  |  Article 91
+Review
+published: 06 March 2017
+doi: 10.3389/fsurg.2017.00009
+Frontiers in Surgery
+ 
+|
+ 
+www.frontiersin.org
+Edited by: 
+Damien Kenny,  
+Rush University, USA
+Reviewed by: 
+Serban C. Stoica,  
+University Hospitals Bristol NHS 
+Foundation Trust, UK  
+Karim Assaad Diab,  
+Rush University, USA
+*Correspondence:
+Zahid Amin 
+zamin@augusta.edu
+Specialty section: 
+This article was submitted  
+to Heart Surgery,  
+a section of the journal  
+Frontiers in Surgery
+Received: 28 September 2016
+Accepted: 26 January 2017
+Published: 06 March 2017
+Citation: 
+Gupta A and Amin Z (2017) Popular 
+Hybrid Congenital Heart Procedures 
+without Cardiopulmonary Bypass. 
+Front. Surg. 4:9. 
+doi: 10.3389/fsurg.2017.00009
+Popular Hybrid Congenital 
+Heart Procedures without 
+Cardiopulmonary Bypass
+Aamisha Gupta and Zahid Amin*
+Division of Pediatric Cardiology, Children’s Hospital of Georgia, Augusta University, Augusta, GA, USA
+As surgical and catheter interventions advance, patients with congenital heart disease 
+are now offered alternative treatment options that cater to their individual needs. 
+Furthermore, collaboration between interventional cardiologists and cardiac surgeons 
+have led to the development of hybrid procedures, using the best techniques of each 
+respective field to treat these complex cardiac entities from initial treatment in the pedi-
+atric patient to repeat intervention in the adult. We present a review of the increased 
+popularity and trend in hybrid procedures in congenital heart disease without the use of 
+cardiopulmonary bypass.
+Keywords: hybrid, perventricular, stent, pulmonary valve, stent
+COMMON AND POPULAR HYBR i D PROC e DUR e S
+?PM??g?r?h???????GgkgrHM
+ 
+2.
+ 
+Perventricular ventricular septal defect (VSD) closure; muscular and perimembranous.
+ 
+3.
+ 
+Perventricular pulmonary valve implantation.
+ 
+4.
+ 
+Hybrid pulmonary valvuloplasty for pulmonary atresia.
+ 
+5.
+ 
+Hybrid aortic valvuloplasty.
+ 
+6.
+ 
+Hybrid stent placement in the branch pulmonary arteries.
+ 
+7.
+ 
+Per-atrial atrial septal defect closure.
+ 
+8.
+ 
+Hybrid paravalvar leak closure of the mitral valve.
+ 
+9.
+ 
+Hybrid paravalvar leak closure of the aortic valve.
+10.
+ 
+Hybrid procedures for stent placement in pulmonary vein for recurrent venous stenosis.
+11.
+ 
+Hybrid stent placement in coarctation of aorta.
+A detailed description of all the above procedures cannot be addressed in this manuscript. We 
+will, however, address what we believe are the most common of the above procedures and some that 
+may become more popular in the near future.
+HYBR i D STAG e  i  PALL i AT i ON i N HLHS
+Patients with a “single ventricle, ” whether defined anatomically or physiologically, are some of the 
+most complex of patients. HLHS can consist of a variety of left heart anatomical combinations that 
+lead to left ventricular and aortic underdevelopment. Traditionally, a surgical staged palliation 
+is performed with Norwood procedure, followed by a bidirectional cavopulmonary anastomosis 
+(bidirectional Glenn), and Fontan. However, in infants with multiple comorbidities and low birth 
+weight, restrictions and high risks are involved with cardiopulmonary bypass (
+1
+, 
+2
+). For these rea-
+sons, a hybrid palliation procedure that can circumvent cardiopulmonary bypass and its associated 
+complications appeared more attractive.
+[[p2]]
+FiGURe 1 | Hybrid stage i palliation: angiography of branch pulmonary arteries after bilateral pulmonary artery banding in a right anterior oblique 
+view (A) and left anterior oblique view (B). Fluoroscopic image of stent implantation within the patent ductus arteriosus (C).
+2
+Gupta and Amin
+Popular Hybrid Congenital Heart Procedures
+Frontiers in Surgery | www.frontiersin.org March 2017 | Volume 4 | Article 9
+Technique
+In 1993, the first reported hybrid stage I approach in HLHS was 
+described by Gibbs et al. where through a median sternotomy the 
+branch pulmonary arteries were banded, and the patent ductus 
+arteriosus (PDA) was percutaneously stented (3). The technique 
+was later revised in 2002 by Akintuerk et al. (4) and later adopted 
+by Galantowicz et al. (5) and Bacha et al. (1), where the procedure 
+has continued to be refined with a steep learning curve.
+The primary goals and procedural steps as described by 
+Galantowicz and Cheatham are (6)
+?PM???????K
+ 2. balance of the pulmonary and systemic circuits, and
+ 3. unobstructed flow via the atrial septum.
+The patient is placed under general anesthesia, and a median 
+sternotomy is performed. The branch pulmonary arteries are 
+banded to a degree suitable by follow-up angiography and pres-
+sure measurements (Figures  1A,B). This step is done first to 
+optimize cardiovascular hemodynamics in both the pulmonary 
+and systemic circuits. Following this step, the main pulmonary 
+artery (MPA) is directly punctured and a sheath is placed for stent 
+delivery within the PDA (Figure 1C).
+The atrial septum is addressed at a subsequent date by stand-
+ard percutaneous balloon atrial septostomy, if needed, and is 
+usually performed 1–2  weeks after the hybrid procedure when 
+the neonate is hemodynamically stable (6).
+The hybrid approach thus allows for palliation without 
+cardiopulmonary bypass or cardiac hypothermia and therefore 
+allows time for neonatal growth prior to the second stage. The 
+comprehensive stage II repair is performed around 6 months of 
+age, it is more extensive and involves PDA stent removal, aortic 
+arch reconstruction, branch pulmonary artery de-banding with 
+revision of the branch pulmonary arteries, along with a bidirec-
+tional cavopulmonary anastomosis (5, 6).
+Patient Selection and Outcomes
+The goal of staged single ventricle palliation is to normalize 
+the systemic ventricle volume and pressure load and maintain 
+unobstructed cardiac output with adequate oxygen saturated 
+blood, while also protecting the pulmonary vascular bed for 
+subsequent palliations. Neonates present a particular challenge 
+as their pulmonary vascular resistance is elevated early in life, 
+requiring a staged approach to control pulmonary blood flow and 
+allow development of the vascular bed (7). Furthermore, infants 
+with low birth weight, prematurity, and coexisting comorbidities 
+add increased complexity and challenges.
+The optimal patient for utilization of the hybrid stage I 
+approach has not been clearly defined as of yet. However, in a 
+study by Karamlou et al., pediatric centers with high use of the 
+hybrid stage I palliation were those that had greater mortality 
+rates after the traditional Norwood procedure (8). Additionally, 
+in that study, patients in whom the hybrid palliation was per -
+formed were indeed higher risk patients. High-risk patients are 
+defined as infants with low birth weight <2.5  kg, prematurity, 
+ventricular dysfunction, severely hypoplastic ascending aorta 
+(<2 mm), genetic malformations, and severe non-cardiac comor-
+bidities, which have been found to have as high as 60% mortality 
+risk rates after the Norwood procedure (1, 2, 9–11). Therefore, 
+those neonates with complex medical comorbidities or those 
+traditionally found to have increased risk with associated initial 
+surgical palliation have been proposed as a population set where 
+the hybrid approach could be considered.
+In patient populations with increased risk factors, there have 
+been studies demonstrating the hybrid approach as a valuable 
+alternative. Venugopal et al. reported 14 of 21 patients surviving 
+the initial procedure, to later go on to comprehensive stage II 
+palliation ( 2). Bacha et  al. reported a 78.5% hospital survival 
+rate after the initial hybrid palliation with 8 of their initial 14 
+high-risk patients undergoing stage II repair (1 ). Furthermore, 
+when compared to the Norwood procedure, there are similar 
+results to survival after Fontan completion with overall survival 
+of approximately 80% (5 , 12, 13). Alternatively, the approach 
+has also been shown to be a beneficial tactic in biventricular 
+repair for patients with borderline small left heart structures 
+(14). Therefore, these studies demonstrate that both the 
+traditional surgical approach and the hybrid approach have 
+shown to provide adequate physiology for Fontan completion 
+in single ventricle palliation. However, of note are the techni-
+cal considerations with the hybrid procedure. There has been 
+reported need for increased pulmonary artery re-intervention, 
+ductal stent re-intervention, or the development of preductal 
+[[p3]]
+FiGURe 2 | Hybrid muscular ventricular septal defect closure. 
+Schematic diagram illustrating the steps involved in deployment of the device 
+through the right ventricular free wall. RV, right ventricle; LV, left ventricle; 
+MPA, main pulmonary artery; Ao, aorta; SVC, superior vena cava; TV, 
+tricuspid valve; RA, right atrium; IVC, inferior vena cava. Reprinted with 
+permission from publisher: Elsevier (24).
+3
+Gupta and Amin
+Popular Hybrid Congenital Heart Procedures
+Frontiers in Surgery | www.frontiersin.org March 2017 | Volume 4 | Article 9
+retrograde coarctation (1 , 5, 12, 15–17). Nevertheless, as 
+experience expands, and the technique continues to be refined, 
+this approach may offer a replaced standard for those complex 
+infants where increased surgical jeopardy is a concern.
+HYBRiD vSD CLOSURe
+The ventricular septum is highly complex and consists of an 
+inflow, trabecular/apical, and outflow region; it has two separate 
+tissue characteristics: a muscular and membranous portion, and 
+is surrounded by the different morphological structures of the 
+right ventricles (RVs) and the left ventricles (LVs). Muscular 
+VSDs can be described as central, apical, anterior, or posterior. 
+VSDs can be malaligned, committed to one or both outflow 
+tracts, and can exist as an isolated defect, multiple defects, and/or 
+associated with other congenital cardiac lesions (18–20).
+Traditionally, large muscular and perimembranous ventricu-
+lar defects were closed via  patch repair with surgery requiring 
+cardiopulmonary bypass, with closure at times challenging due 
+to location and periodically resulting in residual defects (21). The 
+percutaneous approach with device closure was first described 
+in 1988 (22), and with refinement over the years, has provided 
+benefit in suitable cases. However, the percutaneous approach is 
+also technically challenging, as limitation in catheter manipula-
+tion in small babies prevents closure of complicated defects. 
+Additionally, the delivery sheath and its sizes are never too soft for 
+smaller babies. This increases the risks of vascular injury, as well 
+as possible adverse events such as hemodynamic compromise 
+and arrhythmias (23).
+With the goal to avoid the risks associated with prolonged 
+cardiopulmonary bypass, the first perventricular closure of a 
+muscular VSD was performed in a baby by Amin et al. in 1998 
+(24), followed by perventricular closure by Amin et al. in 2004 
+of a perimembranous VSD (25). Since then, the hybrid approach 
+has been shown to be an acceptable alternative, with minimal 
+incision, relatively straight access to the defect, avoidance of 
+cardiopulmonary bypass during VSD closure, and the potential 
+to both small and large patients without the risk of hemodynamic 
+compromise.
+Technique
+For the hybrid approach, transesophageal (TEE), or occasionally 
+epicardial, echocardiography is performed to assess the defect, 
+guide during device placement, and assess after device release. 
+There have been descriptions of the perventricular or per-atrial 
+approach through a median sternotomy, a modified partial 
+median sternotomy, or a left anterior parasternal incision at the 
+third intercostal space (in cases of supracristal VSDs) (26).
+During this technique, the RV free wall is exposed, and the 
+puncture site is determined by pressing on the RV free wall 
+while assessing by TEE, to ensure the site is as perpendicular 
+to the VSD as possible. Then, purse string or pledgetted mat-
+tress sutures are placed around the puncture site, and a wire is 
+introduced via the angiocatheter across the VSD, and the wire is 
+exchanged for the delivery sheath, with or without serial dilation. 
+The device of choice is loaded under echocardiography, the left  
+disk is deployed, and while retracting the sheath slowly, the waist 
+is deployed within the defect itself, followed by deployment of 
+the right disk within the RV (Figure 2). Prior to release, thor -
+ough evaluation with echocardiography is performed to ensure 
+proper placement and no residual defects (Figure 3). The device 
+is released followed by sheath removal, and the purse string 
+sutures are tied to close the RV puncture site. The chest is closed 
+in routine fashion.
+Devices
+There have been various devices developed and used for the 
+closure of VSDs with some out of fashion and some still on the 
+bench for experimentation. Presently, the most popular devices 
+used are the Amplatzer VSD Occluders (AGA Medical, Plymouth, 
+MN, USA) (27–29). Off label use of Amplatzer duct occluders is 
+also relatively common (30). Initial and midterm studies show 
+promising results (31).
+Use in Different vSD Types
+The indications for perventricular perimembranous VSD closure 
+are generally the same as the surgical indications. Of note, per -
+imembranous VSDs pose a challenge to any type of repair, given 
+their location adjacent to the aortic valve, mitral and tricuspid 
+valves (TVs), and electrophysiological circuit. In a review by Yin 
+et al., of the reported cases from 2008 to 2013, the perventricular 
+complete closure success rate was 77–100%, and higher than that 
+of muscular VSDs (26). Additionally, the incidence of complete 
+heart block was lower than the percutaneous approach, 0.6 versus 
+[[p4]]
+FiGURe 3 | Transesophageal echocardiographic images of steps involved in perventricular ventricular septal defect (vSD) closure. (A,B) 4-chamber 
+view without (A) and with (B) color Doppler showing the mid muscular VSD. (C) Wire through the right ventricular free wall and across the defect. (D) Delivery sheath 
+in the left ventricle (LV) cavity. (e) Left disk deployed in the LV. (F) Left disk aligned with the ventricular septum. (G) Device waist and part of the right disk have been 
+deployed. (H) Complete deployment of the right disk with optimal device position. Reprinted with permission from publisher: John Wiley and Sons (29).
+4
+Gupta and Amin
+Popular Hybrid Congenital Heart Procedures
+Frontiers in Surgery | www.frontiersin.org March 2017 | Volume 4 | Article 9
+2%, respectively (31). Another possible complication reported is 
+valve regurgitation, with device-induced tricuspid regurgitation 
+being the most common, followed by aortic valve regurgitation, 
+most resolving or asymptomatic at follow-up (31).
+Muscular VSDs are the second most common subtype of VSDs 
+(19). Apical and anterior muscular VSDs can be difficult to access 
+via a surgical trans-atrial approach and the right ventriculotomy 
+approach due to limited view through the RV trabeculations. 
+Additionally, left ventriculotomy has been associated with ven-
+tricular dysfunction, arrhythmia, and aneurysms (32). In a recent 
+review of reported studies from 2003 to 2013, the reported suc-
+cess rate of perventricular device complete closure of muscular 
+VSDs is 50–100% with no reported case of RV dysfunction, lower 
+rates of arrhythmias when compared to surgical closure, and 80% 
+closure rate at midterm follow-up (though the review admits to 
+limitations with small study sizes in the reports) (26). In a long-
+term follow-up by Kang et al., at a median time of 6.5 years post 
+device implantation, of 10 patients who underwent the technique, 
+5 had complete closure, and 4 patients had residual hemodynami-
+cally insignificant defects. One patient had TV entrapment from 
+the device and underwent surgical removal and repair (33). 
+Therefore, as longer term results are generated, the benefit of 
+perventricular muscular VSDs can be further evaluated and may 
+provide an acceptable alternative to surgical repair.
+HYBRiD PULMONARY vALve 
+iNTeRveNTiONS
+Right ventricular outflow tract (RVOT) structural and congenital 
+heart disease with obstruction in the form of pulmonary valve 
+stenosis or atresia have previously been treated surgically with 
+transannular patch repair/RVOT conduit or valvotomy, or 
+percutaneously with transcatheter pulmonary valve/RVOT stent 
+or balloon valvuloplasty. The palliations lead to either restenosis 
+or pulmonary regurgitation; this may lead to RV hypertrophy or 
+dilation, further progressing to ventricular dysfunction and 
+[[p5]]
+FiGURe 4 | Right ventricle (Rv) angiogram. Angiographic catheter 
+advanced antegrade via femoral sheath and into RV and demonstrates 
+Melody valve in proper position.
+5
+Gupta and Amin
+Popular Hybrid Congenital Heart Procedures
+Frontiers in Surgery | www.frontiersin.org March 2017 | Volume 4 | Article 9
+arrhythmias. There is no consensus regarding the timing of 
+pulmonary valve replacement (34). However, in patients where 
+weight, complex comorbidities, vascular access, venous occlu-
+sion, previous multiple sternotomies, or risk of cardiopulmonary 
+bypass are limitations and pose increased risk for complication, 
+there are new and innovative hybrid approaches that have been 
+developed. And, in this anatomical scenario, the hybrid proce-
+dure allows for intervention in a range of patients, from pediatric 
+to adult.
+Perventricular Transcatheter 
+Pulmonary valves
+Transcatheter pulmonary valve replacements have been steadily 
+increasing since the first transcatheter pulmonary valve replace-
+ment in 2000 (35, 36). Since then, there are new innovations in 
+the development and use of transcatheter pulmonary valves. Y et, 
+presently, there are two common transcatheter pulmonary valves 
+being used in the USA as described by a recent review (35). The 
+Melody valve (Medtronic, Minneapolis, MN, USA) is a bovine 
+jugular venous valve that is available in the following diameters: 
+18, 20, and 22 mm. The Edwards Sapien (Edwards Lifesciences 
+LLC, Irvine, CA, USA) valve was originally conceived for aortic 
+valve replacement but was then successfully used in the pulmo-
+nary position (37). This is a bovine pericardial valve mounted 
+within a stainless steel stent, with diameters of 23 and 26 mm. 
+The offspring of the Edwards Sapien valve is the newly developed 
+and FDA-approved Sapien XT (Edwards Lifesciences LLC, Irvine, 
+CA, USA) with diameters of 23, 26, and 29 mm, but only requir-
+ing an 18-19-Fr introducer.
+The inclusion criteria for percutaneous transcatheter pulmo-
+nary valve placement were patients >30 kg and >5 years of age, 
+likely to reduce the risk of vascular injury due to the large size of 
+the 22-Fr delivery sheath for Melody valve placement (38, 39). 
+gK??a? M?GSOH??QT?K??
+weight 21.4 kg, where percutaneous Melody valve placement was 
+successful in 23 patients. However, there still lies the risk in the 
+population subset where venous access size or occlusion poses an 
+issue to traditional percutaneous sheath placement.
+The hybrid pulmonary valve approach was first described 
+as a bailout technique following failed percutaneous delivery 
+in patients at risk for cardiopulmonary bypass. Simpson et  al., 
+Berman et al., and Cubeddu and Hijazi described the technique as 
+a bailout approach in larger patients, ages 13, 16, and 44 years with 
+both the Melody and Edwards Sapien valve (41–43). In these case 
+reports, the transcatheter valve could not be successfully placed 
+percutaneously, due to angle, malposition, or embolization into 
+the RVOT. Therefore, after successful surgical removal of the 
+failed valve, transcatheter pulmonary valves were placed via  the 
+perventricular approach. The hybrid technique was subsequently 
+performed electively in a 12-kg patient (44).
+Technique
+Prior to the hybrid procedure, a routine diagnostic catheteriza-
+tion is performed via  the traditional femoral approach with 
+angiography of the RVOT, MPA, and branch pulmonary arteries. 
+Coronary artery compression testing with balloon inflation of the 
+RVOT must be done either during the diagnostic catheterization 
+or during the hybrid procedure, prior to transcatheter valve 
+placement, to ensure safe distance of the coronaries.
+The base of the RV is accessed by a subxiphoid incision. This 
+is followed by direct perventricular access through the RV ini-
+tially with an angiocatheter, followed by sheath placement in the 
+RVOT. Following sheath placement, a stiff wire, either a Amplatz 
+Superstiff (Cordis, Johnson & Johnson, USA) or Lunderquist 
+(Cook Medical, Bloomington, IN, USA), is secured in a distal 
+branch pulmonary artery, and the RVOT is stented followed by 
+transcatheter pulmonary valve placement. Once the valve has 
+been deployed, follow-up angiography can be performed to con-
+firm placement (Figure 4). Lastly, the sheath is removed, and the 
+purse string suture is tied to close the RV , followed by subxiphoid 
+incision closure (Figure 5).
+Potential Complications
+This technique for pulmonary valve placement is feasible and 
+with continued refinement and development can provide benefit 
+to a range of patients with increased risk factors. There have been 
+no post procedural complications reported. However, intra-
+procedural risk is present. In a recent case series by Gupta et al. 
+(45), five patients with a mean weight 16.2 kg (range 4.7–28.1 kg) 
+were treated with elective perventricular Melody valve placement 
+via the subxiphoid approach. Technical success in this series was 
+100%. However, in two patients with absent pulmonary valve 
+diagnoses, the stent migrated during advancement of the delivery 
+sheath, requiring anchoring in the distal main or branch pulmo-
+nary artery, but without sequela. TV chordal injury also occurred 
+in one patient, where TEE was not utilized. Therefore, this series 
+demonstrates that the technique is feasible even in small-sized 
+patients but with a need to minimize complications. First, the 
+stent should be deployed during the same procedure, if possible, 
+[[p6]]
+6
+Gupta and Amin
+Popular Hybrid Congenital Heart Procedures
+Frontiers in Surgery | www.frontiersin.org March 2017 | Volume 4 | Article 9
+but if preexisting stenting has been performed, sheath advance-
+ment can be difficult and increases the risk of stent embolization. 
+Hence, careful advancement of the delivery sheath is crucial, with 
+proper securement of the wire. Additionally, the use of TEE can 
+help to avoid TV entrapment during initial sheath advancement 
+in the RVOT. Overall, the technique has an ongoing learning 
+curve and with continued improvement may provide benefit to 
+patients, young and old.
+Tetralogy of Fallot with Transannular 
+Repair
+The hybrid pulmonary valve replacement has also been trialed in 
+previous anatomical scenarios once thought to be contraindica-
+tions for transcatheter approach. In many patients with Tetralogy 
+of Fallot, the initial surgical repair is performed with a transan-
+nular patch. Pulmonary regurgitation develops and chronically 
+can leads to RV dysfunction, exercise intolerance, and cardiac 
+arrhythmias (35). To address this, these patients eventually require 
+pulmonary valve replacement. However, the complexity in this 
+patient subset arises due to the chronic dilation of the RVOT, 
+which leads to an unpredictable landing zone for transcatheter 
+pulmonary valve placement. The percutaneous approach in these 
+patients is difficult to perform but has been successfully reported 
+by reducing the diameter of the RVOT either with implanting 
+multiple stents (“Russian Doll Technique”) or overlapping stents 
+in the branch pulmonary arteries and then implanting the valve 
+(46–48). Y et, the problem still evades a strict percutaneous 
+approach when the RVOT remains too large.
+The hybrid approach allows an alternative strategy for manip-
+ulating the RVOT and MPA, prior to transcatheter pulmonary 
+valve placement, and still avoids cardiopulmonary bypass (49). 
+In a case in a 17-year-old male, through a midline sternotomy, a 
+polytetrafluoroethylene graft (Gore-Tex, WL Gore & Associates 
+Inc., Flagstaff, AZ, USA) was wrapped around the MPA to restrict 
+the diameter to 22 mm (50). Following MPA restriction, a Melody 
+valve was delivered through the perventricular approach over a 
+24-mm BIB balloon (NuMed Inc., Hopkinton, NY , USA). In an 
+another recent study, MPA plication using longitudinal running 
+sutures or mattress sutures was done to reduce the RVOT to 
+22–24 mm, followed by successful perventricular melody valve 
+placement in three patients (51). Furthermore, 3D imaging 
+modalities followed by use of hybrid strategy to place valves has 
+been described (52).
+Pulmonary Atresia
+In neonates with pulmonary atresia and anatomy favorable 
+to biventricular repair, the initial intervention is focused on 
+decompression of the RV and RVOT by creating either a surgi-
+cal valvotomy or via  transcatheter perforation and balloon 
+valvuloplasty with or without stenting (53, 54). Several recent 
+studies have demonstrated safety and feasibility of direct hybrid 
+approach to perforate pulmonary valve (53–55).
+HYBRiD AORTiC BALLOON 
+vALvULOPLASTY
+Congenital aortic stenosis in the neonate can present as an iso-
+lated lesion resulting in LV hypertrophy, and more significantly, 
+severe systemic outflow obstruction, which can subsequently 
+lead to sudden cardiac death (56). These patients often require 
+multiple re-interventions throughout life due to their dysplastic 
+aortic valve. To avoid initial open surgery in low weight infants, 
+percutaneous balloon valvuloplasty was developed and does 
+have respectable results but can be difficult in a low birth weight 
+infant for several reasons (57–59). A hybrid technique to access 
+the aortic valve directly through the ascending aorta has been 
+described (60).
+Technique
+In a recent study, this procedure was performed in 18 patients 
+(mean weight: 4.6  ±  0.8  kg) (60). Patients were placed under 
+general anesthesia, and a median sternotomy was performed with 
+a purse string suture placed in the ascending aorta, and a wire was 
+advanced and placed in the LV . An appropriate sized balloon was 
+FiGURe 5 | Subxiphoid access for perventricular Melody valve implantation. (A) The size and location of the surgical incision. (B) The 22-Fr Melody valve delivery 
+sheath being inserted through the incision. (C) Final appearance of the chest wall after closure. Reprinted with permission from publisher: John Wiley and Sons (44).
+[[p7]]
+7
+Gupta and Amin
+Popular Hybrid Congenital Heart Procedures
+Frontiers in Surgery | www.frontiersin.org March 2017 | Volume 4 | Article 9
+ReFeReNCeS
+PM?a?d`K?c?rK?g?iK?`?qhK?`?iK?j?lK? M?rL
+ventricle palliation for high-risk neonates: the emergence of an alternative 
+hybrid stage I strategy. J  Thorac Cardiovasc Surg  (2006) 131(1):163–71. 
+doi:10.1016/j.jtcvs.2005.07.053 
+2. Venugopal PS, Luna KP , Anderson DR, Austin CB, Rosenthal E, Krasemann 
+T, et  al. Hybrid procedure as an alternative to surgical palliation of high-
+risk infants with hypoplastic left heart syndrome and its variants. J  Thorac 
+Cardiovasc Surg (2010) 139(5):1211–5. doi:10.1016/j.jtcvs.2009.11.037 
+3. Gibbs JL, Wren C, Watterson KG, Hunter S, Hamilton JR. Stenting of the 
+arterial duct combined with banding of the pulmonary arteries and atrial 
+septectomy or septostomy: a new approach to palliation for the hypoplastic 
+left heart syndrome. Br Heart J (1993) 69(6):551–5. doi:10.1136/hrt.69.6.551 
+4. Akintuerk H, Michel-Behnke I, Valeske K, Mueller M, Thul J, Bauer J, et al. 
+Stenting of the arterial duct and banding of the pulmonary arteries: basis for 
+combined Norwood stage I and II repair in hypoplastic left heart. Circulation 
+(2002) 105(9):1099–103. doi:10.1161/hc0902.104709 
+5. Galantowicz M, Cheatham JP , Phillips A, Cua CL, Hoffman TM, Hill SL, 
+et  al. Hybrid approach for hypoplastic left heart syndrome: intermediate 
+results after the learning curve. Ann Thorac Surg  (2008) 85(6):2063–70. 
+doi:10.1016/j.athoracsur.2008.02.009 
+6. Galantowicz M, Cheatham JP . Lessons learned from the development of a 
+new hybrid strategy for the management of hypoplastic left heart syndrome. 
+Pediatr Cardiol (2005) 26(2):190–9. doi:10.1007/s00246-004-0962-4 
+7. Davies RR, Pizarro C. Decision-making for surgery in the management of 
+patients with univentricular heart. Front Pediatr  (2015) 3:61. doi:10.3389/
+fped.2015.00061 
+8. Karamlou T, Overman D, Hill KD, Wallace A, Pasquali SK, Jacobs JP , et al. 
+Stage 1 hybrid palliation for hypoplastic left heart syndrome – assessment 
+of contemporary patterns of use: an analysis of The Society of Thoracic 
+Surgeons Congenital Heart Surgery Database. J  Thorac Cardiovasc Surg  
+(2015) 149(1):195–201, 202.e1. doi:10.1016/j.jtcvs.2014.08.020 
+9. Holoshitz N, Kenny D, Hijazi ZM. Hybrid interventional procedures in 
+congenital heart disease. Methodist Debakey Cardiovasc J  (2014) 10(2):93–8. 
+doi:10.14797/mdcj-10-2-93 
+10. Forbess JM, Cook N, Roth SJ, Serraf A, Mayer JE Jr, Jonas RA. Ten-year 
+institutional experience with palliative surgery for hypoplastic left heart 
+syndrome. Risk factors related to stage I mortality. Circulation (1995) 92(9 
+Suppl):II262–6. doi:10.1161/01.CIR.92.9.262 
+PPM?f?iv?K?l?vsK?b?lhK?h?qe?K?cb?vlK?r?
+JM, et  al. Risk factors for mortality after the Norwood procedure. Eur 
+J Cardiothorac Surg (2002) 22(1):82–9. doi:10.1016/S1010-7940(02)00198-7 
+12. Baba K, Kotani Y , Chetan D, Chaturvedi RR, Lee KJ, Benson LN, et al. Hybrid 
+versus Norwood strategies for single-ventricle palliation. Circulation  (2012) 
+126(11 Suppl 1):S123–31. doi:10.1161/CIRCULATIONAHA.111.084616 
+13. Schranz D, Bauer A, Reich B, Steinbrenner B, Recla S, Schmidt D, et  al. 
+Fifteen-year single center experience with the “Giessen Hybrid” approach for 
+hypoplastic left heart and variants: current strategies and outcomes. Pediatr 
+Cardiol (2015) 36(2):365–73. doi:10.1007/s00246-014-1015-2 
+14. Y erebakan C, Murray J, Valeske K, Thul J, Elmontaser H, Mueller M, 
+et  al. Long-term results of biventricular repair after initial Giessen hybrid 
+approach for hypoplastic left heart variants. J Thorac Cardiovasc Surg (2015) 
+149(4):1112–20. doi:10.1016/j.jtcvs.2014.09.028 
+15. Stoica SC, Philips AB, Egan M, Rodeman R, Chisolm J, Hill S, et al. The ret-
+rograde aortic arch in the hybrid approach to hypoplastic left heart syndrome. 
+Ann Thorac Surg (2009) 88(6):1939–46. doi:10.1016/j.athoracsur.2009.06.115 
+16. Egan MJ, Hill SL, Boettner BL, Holzer RJ, Phillips AB, Galantowicz M, 
+et al. Predictors of retrograde aortic arch obstruction after hybrid palliation 
+of hypoplastic left heart syndrome. Pediatr Cardiol  (2011) 32(1):67–75. 
+doi:10.1007/s00246-010-9820-8
+17. Galantowicz M, Cheatham JP . A hybrid strategy for the initial palliation 
+of hypoplastic left heart syndrome: technical considerations. In: Sievert H, 
+Qureshi A, Wilson N, Hijazi Z, editors. Interventions in Structural, Valvular 
+and Congenital Heart Disease. Boca Raton: CRC Press (2014). p. 745–6.
+18. Soto B, Becker AE, Moulaert AJ, Lie JT, Anderson RH. Classification of 
+ventricular septal defects. Br Heart J  (1980) 43(3):332–43. doi:10.1136/
+hrt.43.3.332 
+19. Spicer DE, Hsu HH, Co-Vu J, Anderson RH, Fricker FJ. Ventricular septal 
+defect. Orphanet J Rare Dis  (2014) 9:144. doi:10.1186/s13023-014-0144-2 
+20. Anderson RH, Wilcox BR. The surgical anatomy of ventricular septal defect. 
+J Card Surg  (1992) 7(1):17–35. doi:10.1111/j.1540-8191.1992.tb00773.x 
+21. Kitagawa T, Kitaichi T, Sugano M, Kurobe H. Techniques and results in 
+the management of multiple muscular trabecular ventricular septal defects. 
+Gen Thorac Cardiovasc Surg (2013) 61(7):367–75. doi:10.1007/s11748-013-  
+0267-8 
+22. Lock JE, Block PC, McKay RG, Baim DS, Keane JF . Transcatheter closure 
+of ventricular septal defects. Circulation (1988) 78(2):361–8. doi:10.1161/01.
+CIR.78.2.361 
+23. Knauth AL, Lock JE, Perry SB, McElhinney DB, Gauvreau K, Landzberg MJ, 
+et al. Transcatheter device closure of congenital and postoperative residual 
+ventricular septal defects. Circulation  (2004) 110(5):501–7. doi:10.1161/01.
+CIR.0000137116.12176.A6 
+24. Amin Z, Berry JM, Foker JE, Rocchini AP , Bass JL. Intraoperative closure 
+of muscular ventricular septal defect in a canine model and application of 
+the technique in a baby. J  Thorac Cardiovasc Surg  (1998) 115(6):1374–6. 
+doi:10.1016/S0022-5223(98)70222-3 
+25. Amin Z, Danford DA, Lof J, Duncan KF , Froemming S. Intraoperative device 
+closure of perimembranous ventricular septal defects without cardiopulmo-
+nary bypass: preliminary results with the perventricular technique. J  Thorac 
+Cardiovasc Surg (2004) 127(1):234–41. doi:10.1016/j.jtcvs.2003.08.023 
+QUM?x?rK?y?cK?k?jK?`?pM?o?????
+ventricular septal defects. J Card Surg  (2014) 29(3):390–400. doi:10.1111/
+jocs.12334 
+27. Haponiuk I, Chojnicki M, Jaworski R, Steffek M, Juscinski J, Sroka M, et al. 
+Hybrid approach for closure of muscular ventricular septal defects. Med Sci 
+Monit (2013) 19:618–24. doi:10.12659/MSM.883985 
+28. Diab KA, Cao QL, Hijazi ZM. Perventricular closure of muscular ventricular 
+septal defects: how do I do it? Ann Pediatr Cardiol  (2008) 1(1):27–33. 
+doi:10.4103/0974-2069.41052 
+advanced for balloon aortic valvuloplasty. The results were fairly 
+optimistic.
+The majority of the aortic valvuloplasties, regardless of patient 
+size, can be performed using transcatheter or carotid artery 
+approach, and the feasibility of transaortic approach techniques 
+will remain questionable.
+CONCLUSiON
+Hybrid techniques are thriving and will continue to do so as we 
+continue to address our complex and small-sized patient popula-
+tion. Perhaps, the most critical ingredient of this technique is 
+collaboration between the interventionalist and the surgeon in 
+particular, and the involvement of the echocardiographer and the 
+anesthesiologist in general.
+As stated earlier, this review addresses only the common 
+and some of the popular hybrid techniques in congenital heart 
+disease. We have performed stent placement in the aortic 
+arch at the time of bidirectional Glenn procedure in patients 
+with coarctation of the aorta, closed complicated atrial septal 
+defects using per-atrial technique, closed paravalvar mitral leak 
+through access via  the LV apex, and placed stents in branch 
+pulmonary arteries intraoperatively. A detailed description 
+of all the available techniques is beyond the scope of this 
+manuscript.
+AUTHOR CONTRiBUTiONS
+All authors listed have made substantial, direct, and intellectual 
+contribution to the work and approved it for publication.
+[[p8]]
+8
+Gupta and Amin
+Popular Hybrid Congenital Heart Procedures
+Frontiers in Surgery | www.frontiersin.org March 2017 | Volume 4 | Article 9
+29. Amin Z, Cao QL, Hijazi ZM. Closure of muscular ventricular septal defects: 
+transcatheter and hybrid techniques. Catheter Cardiovasc Interv (2008) 
+72(1):102–11. doi:10.1002/ccd.21584
+30. Neukamm C, Bjørnstad PG, Fischer G, Smevik B, Lindberg HL. A novel 
+method of hybrid intraoperative catheter-based closure of ventricular septal 
+defects using the Amplatzer PDA occluder. Catheter Cardiovasc Interv (2011) 
+77(4):557–63. doi:10.1002/ccd.22649 
+31. Holzer R, de Giovanni J, Walsh KP , Tometzki A, Goh T, Hakim F , et  al. 
+Transcatheter closure of perimembranous ventricular septal defects using 
+the amplatzer membranous VSD occluder: immediate and midterm results 
+of an international registry. Catheter Cardiovasc Interv (2006) 68(4):620–8. 
+doi:10.1002/ccd.20659 
+32. Griffiths SP , Turi GK, Ellis K, Krongrad E, Swift LH, Gersony WM, et  al. 
+Muscular ventricular septal defects repaired with left ventriculotomy. Am 
+J Cardiol (1981) 48(5):877–86. doi:10.1016/0002-9149(81)90353-2 
+33. Kang SL, Tometzki A, Caputo M, Morgan G, Parry A, Martin R. Longer-term 
+outcome of perventricular device closure of muscular ventricular septal 
+defects in children. Catheter Cardiovasc Interv (2015) 85(6):998–1005. 
+doi:10.1002/ccd.25821 
+34. O’Byrne ML, Glatz AC, Mercer-Rosa L, Gillespie MJ, Dori Y , Goldmuntz 
+E, et  al. Trends in pulmonary valve replacement in children and adults 
+with tetralogy of Fallot. Am J Cardiol (2015) 115(1):118–24. doi:10.1016/j.
+amjcard.2014.09.054 
+35. Holzer RJ, Hijazi ZM. Transcatheter pulmonary valve replacement: state 
+of the art. Catheter Cardiovasc Interv (2016) 87(1):117–28. doi:10.1002/
+ccd.26263 
+36. Bonhoeffer P , Boudjemline Y , Saliba Z, Merckx J, Aggoun Y , Bonnet D, 
+et al. Percutaneous replacement of pulmonary valve in a right-ventricle to 
+pulmonary-artery prosthetic conduit with valve dysfunction. Lancet  (2000) 
+356(9239):1403–5. doi:10.1016/S0140-6736(00)02844-0 
+37. Kenny D, Hijazi ZM, Kar S, Rhodes J, Mullen M, Makkar R, et  al. 
+Percutaneous implantation of the Edwards SAPIEN transcatheter heart 
+valve for conduit failure in the pulmonary position: early phase 1 results 
+from an international multicenter clinical trial. J Am Coll Cardiol (2011) 
+58(21):2248–56. doi:10.1016/j.jacc.2011.07.040 
+38. Cheatham JP , Hellenbrand WE, Zahn EM, Jones TK, Berman DP , Vincent 
+JA, et al. Clinical and hemodynamic outcomes up to 7 years after transcath-
+eter pulmonary valve replacement in the US melody valve investigational 
+device exemption trial. Circulation  (2015) 131(22):1960–70. doi:10.1161/
+CIRCULATIONAHA.114.013588 
+39. Zahn EM, Hellenbrand WE, Lock JE, McElhinney DB. Implantation of the 
+melody transcatheter pulmonary valve in patients with a dysfunctional right 
+ventricular outflow tract conduit early results from the U.S. clinical trial. 
+J Am Coll Cardiol (2009) 54(18):1722–9. doi:10.1016/j.jacc.2009.06.034 
+40. Berman DP , McElhinney DB, Vincent JA, Hellenbrand WE, Zahn EM. 
+Feasibility and short-term outcomes of percutaneous transcatheter pulmo-
+nary valve replacement in small (< 30 kg) children with dysfunctional right 
+ventricular outflow tract conduits. Circ Cardiovasc Interv (2014) 7(2):142–8. 
+doi:10.1161/CIRCINTERVENTIONS.113.000881 
+41. Cubeddu RJ, Hijazi ZM. Bailout perventricular pulmonary valve implan-
+tation following failed percutaneous attempt using the Edwards Sapien 
+transcatheter heart valve. Catheter Cardiovasc Interv (2011) 77(2):276–80. 
+doi:10.1002/ccd.22653 
+42. Berman DP , Burke R, Zahn EM. Use of a novel hybrid approach to salvage 
+an attempted transcatheter pulmonary valve implant. Pediatr Cardiol (2012) 
+33(5):839–42. doi:10.1007/s00246-012-0224-9 
+43. Simpson KE, Huddleston CB, Foerster S, Nicholas R, Balzer D. Successful 
+subxyphoid hybrid approach for placement of a Melody percutaneous pul-
+monary valve. Catheter Cardiovasc Interv (2011) 78(1):108–11. doi:10.1002/
+ccd.22930 
+44. Holoshitz N, Ilbawi M, Amin Z. Perventricular melody valve implantation 
+in a 12 kg child. Catheter Cardiovasc Interv (2013) 82:824–7. doi:10.1002/
+ccd.25044 
+45. Gupta A, Kenny D, Caputo M, Amin Z. Initial experience with elective 
+perventricular melody valve placement in small patients. Pediatr Cardiol  
+(2016). doi:10.1007/s00246-016-1550-0 
+46. Boudjemline Y , Brugada G, Van-Aerschot I, Patel M, Basquin A, Bonnet C, 
+et al. Outcomes and safety of transcatheter pulmonary valve replacement in 
+patients with large patched right ventricular outflow tracts. Arch Cardiovasc 
+Dis (2012) 105(8–9):404–13. doi:10.1016/j.acvd.2012.05.002 
+47. Guccione P , Milanesi O, Hijazi ZM, Pongiglione G. Transcatheter pulmonary 
+valve implantation in native pulmonary outflow tract using the Edwards 
+SAPIEN™ transcatheter heart valve. Eur J  Cardiothorac Surg  (2012) 
+41(5):1192–4. doi:10.1093/ejcts/ezr130 
+48. Bertels RA, Blom NA, Schalij MJ. Edwards SAPIEN transcatheter heart valve 
+in native pulmonary valve position. Heart  (2010) 96(9):661. doi:10.1136/
+hrt.2009.189944 
+49. Porras D, Gurvitz M, Marshall AC, Emani SM. Hybrid approach for off-pump 
+pulmonary valve replacement in patients with a dilated right ventricular 
+outflow tract. Ann Thorac Surg  (2015) 100(5):e99–101. doi:10.1016/j.
+athoracsur.2015.02.124 
+50. Travelli FC, Herrington CS, Ing FF . A novel hybrid technique for transcath-
+eter pulmonary valve implantation within a dilated native right ventricular 
+outflow tract. J Thorac Cardiovasc Surg (2014) 148(2):e145–6. doi:10.1016/j.
+jtcvs.2014.04.046 
+51. Sosnowski C, Matella T, Fogg L, Ilbawi M, Nagaraj H, Kavinsky C, et  al. 
+Hybrid pulmonary artery plication followed by transcatheter pulmonary 
+valve replacement: comparison with surgical PVR. Catheter Cardiovasc Interv 
+(2016) 88(5):804–10. doi:10.1002/ccd.26620 
+52. Phillips AB, Nevin P , Shah A, Olshove V , Garg R, Zahn EM. Development 
+of a novel hybrid strategy for transcatheter pulmonary valve placement in 
+patients following transannular patch repair of tetralogy of Fallot. Catheter 
+Cardiovasc Interv (2016) 87(3):403–10. doi:10.1002/ccd.26315 
+53. Zampi JD, Hirsch-Romano JC, Goldstein BH, Shaya JA, Armstrong AK. 
+Hybrid approach for pulmonary atresia with intact ventricular septum: 
+early single center results and comparison to the standard surgical 
+approach. Catheter Cardiovasc Interv (2014) 83(5):753–61. doi:10.1002/ccd.  
+25181 
+54. Cools B, Boshoff D, Heying R, Rega F , Meyns B, Gewillig M. Transventricular 
+balloon dilation and stenting of the RVOT in small infants with tetralogy of 
+Fallot with pulmonary atresia. Catheter Cardiovasc Interv (2013) 82(2):260–5. 
+doi:10.1002/ccd.24548 
+55. Zhang H, Li SJ, Li YQ, Wang H, Hu SS. Hybrid procedure for the neonatal 
+management of pulmonary atresia with intact ventricular septum. J  Thorac 
+Cardiovasc Surg (2007) 133(6):1654–6. doi:10.1016/j.jtcvs.2007.02.002 
+56. Alsoufi B, Karamlou T, McCrindle BW , Caldarone CA. Management 
+options in neonates and infants with critical left ventricular outflow tract 
+obstruction. Eur J  Cardiothorac Surg (2007) 31(6):1013–21. doi:10.1016/j.
+ejcts.2007.03.015 
+57. Weber HS. Catheter management of aortic valve stenosis in neonates and 
+children. Catheter Cardiovasc Interv (2006) 67(6):947–55. doi:10.1002/
+ccd.20765 
+58. Pedra CA, Pedra SR, Braga SL, Esteves CA, Moreira SM, dos Santos MA, 
+et  al. Short- and midterm follow-up results of valvuloplasty with balloon 
+catheter for congenital aortic stenosis. Arq Bras Cardiol  (2003) 81(2):120–8. 
+doi:10.1590/S0066-782X2003001000001 
+59. Maskatia SA, Ing FF , Justino H, Crystal MA, Mullins CE, Mattamal RJ, 
+et  al. Twenty-five year experience with balloon aortic valvuloplasty for 
+congenital aortic stenosis. Am J Cardiol (2011) 108(7):1024–8. doi:10.1016/j.
+amjcard.2011.05.040 
+60. Pan XB, Zhang FW , Hu SS, Liu ZG, Ma K, Pang KJ, et al. Hybrid balloon 
+valvuloplasty through the ascending aorta via median sternotomy in infants 
+with severe congenital valvular aortic stenosis: feasibility of a new method. 
+Eur J Cardiothorac Surg (2015) 47(6):1003–5. doi:10.1093/ejcts/ezu362 
+Conflict of Interest Statement: The authors declare that the research was con-
+ducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+The reviewer KD and handling Editor declared their shared affiliation, and the 
+handling Editor states that the process nevertheless met the standards of a fair 
+and objective review.
+Copyright © 2017 Gupta and Amin. This is an open-access article distributed 
+under the terms of the Creative Commons Attribution License (CC BY). The use, 
+distribution or reproduction in other forums is permitted, provided the original 
+author(s) or licensor are credited and that the original publication in this journal 
+is cited, in accordance with accepted academic practice. No use, distribution or 
+reproduction is permitted which does not comply with these terms.

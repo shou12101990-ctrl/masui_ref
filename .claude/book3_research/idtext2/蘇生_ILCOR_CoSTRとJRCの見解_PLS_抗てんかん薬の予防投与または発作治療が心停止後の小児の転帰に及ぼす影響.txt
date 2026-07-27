@@ -1,0 +1,106 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Effect of Prophylactic Antiseizure Medication or Treatment of 
+Seizures on Outcome of Children After Cardiac Arrest 
+抗てんかん薬の予防投与または発作治療が心停止後の小児の転帰に
+及ぼす影響 
+Author: Barnaby R. Scholefield, et al. PLS Task Force. 
+The PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+•Population: Adults or pediatric patients in any setting (IHCA 
+or OHCA) with ROC 
+•Intervention: One strategy for prophylactic antiseizure 
+medication or seizure treatment 
+PICOST  
+P: 自己心拍再開を得た小児と成人患者（院内心停止、院外心停止
+のいずれも含む） 
+I：抗てんかん薬の予防投与や発作時の治療を目的とした何らかの介
+入が行われた群 
+C:抗てんかん薬の予防投与や発作時の治療が行われていない、また
+は他の介入が行われた群 
+[[p2]]
+2 
+ 
+•Comparator: Another strategy or no prophylactic antiseizure 
+medication or seizure treatment 
+•Outcome: Survival or survival with favorable neurological 
+outcome as per Pediatric Core Outcome Set for Cardiac 
+Arrest(Topjian 2021 351) 
+•Study designs: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) were eligible for inclusion. Unpublished 
+studies (eg, conference abstracts, trial protocols) were 
+excluded. All relevant publications in any language were 
+included if there was an English abstract. 
+O:生存または Pediatric Core Outcome Set for Cardiac Arrest
+（Topjian 2021 351）に基づいた良好な神経学的転帰を伴う生存 
+S: RCT および非ランダム化研究（非 RCT、分割時系列解析、前後
+比較研究、コホート研究）。未発表の研究（学会抄録や研究プロト
+コールなど）は除外。抄録が英語であれば全て含めた。 
+Timeframe: 2023 年 9 月 11 日までの全ての出版物。 
+[[p3]]
+3 
+ 
+Timeframe: Literature search includes all years up to 
+September 11, 2023 
+Treatment recommendations 
+Prophylactic Antiseizure Medication.  
+We suggest against the routine use of prophylactic 
+antiseizure medication in children postcardiac arrest (good 
+practice statement). 
+ 
+Seizure Treatment.  
+We suggest the treatment of seizures in children post–cardiac 
+arrest (good practice statement). 
+推奨と提案 
+抗てんかん薬の予防投与 
+心停止後の小児に抗てんかん薬の予防投与をルーチンに行わないこ
+とを提案する（優れた医療慣行に関する記述）。 
+ 
+発作時の治療 
+心停止後の小児における発作に対する薬物治療を提案する（優れた
+医療慣行に関する記述）。 
+[[p4]]
+4 
+ 
+Justification and Evidence-to-Decision Framework Highlights. 
+ 
+ 
+１． JRC の見解と解説 
+• 今回初めて心停止後の小児の抗てんかん薬の使用について検討されたが、推奨と提案をできるほどのエビデンスは現時点ではない。 
+• 本ガイドラインでは、優れた医療慣行して新たに記載する。 
+• 小児心停止後の予防的抗てんかん薬や発作時の治療に関する直接的なエビデンスは限られており、成人のデータを参照している。 
+• 予防的な抗てんかん薬の使用については、成人領域でも良好な神経学的転帰の改善を報告した研究はなかった。 
+• 発作の診断は難しく、診断の確実性を高めるために発作の臨床的徴候に加えて脳波を確認することが重要である。 
+• ただし、脳波計やその経験と知識などの多大な資源が必要であるため、多くの臨床現場では利用できない可能性がある。 
+• 連続脳波モニタリングは多大なコストがかかる可能性が高く、費用対効果には議論の余地がある。連続脳波モニタリングと間欠脳波
+モニタリングの相対的な有益性については検討されていない。 
+[[p5]]
+5 
+ 
+• 脳波による確認ができない状況で発作が疑われる患者を治療する際には、抗てんかん薬の有害性とのバランスをとる必要がある。 
+• 発作時の治療については、成人領域でも発作の治療が 3 か月後の神経学的転帰に関して有益性を認めなかったが、1000 人あたり 19
+人の神経学的転帰が良好であった者が増加しているという報告があった。生存率にも差がないが、1000 人あたり 27 人の生存者が増
+加しているという報告はあった。 
+• 心停止後の小児に予防的な抗てんかん薬をルーチンに使用しないことを推奨する。 
+• 臨床的または脳波上の重積発作が確認された場合、適切な治療を行うことを推奨する。 
+• 鎮静のための薬物投与（例えば、ベンゾジアゼピン系薬剤やプロポフォール）や心停止後の低体温管理の使用も、発作の負荷、タイ
+ミング、検出に影響を及ぼす可能性がある。 
+• 今後、小児心停止後の発作予防と治療に関するより具体的なエビデンスが蓄積されることが期待される。 
+ 
+２．わが国への適用 
+• 優れた医療慣行として、心停止後の小児に予防的な抗てんかん薬をルーチンに使用しないことを提案する予定である。 
+[[p6]]
+6 
+ 
+• 優れた医療慣行として、心停止後の小児における薬物治療することを提案する予定である。 
+•  
+3.  担当メンバー 
+• 作業部会員（五十音順）: 赤嶺陽子、太田邦雄、岡本吉生、椎間優子、染谷真紀、種市尋宙、吉野智美 
+• 共同座長（五十音順）: 野澤正寛 
+• 担当編集委員（五十音順）: 池山貴也、黒澤寛史 
+• 顧問: 清水直樹 
+• 編集委員長: 坂本哲也 

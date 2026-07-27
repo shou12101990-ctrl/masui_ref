@@ -1,0 +1,1012 @@
+
+[[p1]]
+Academic Editor: Antonino S. Rubino
+Received: 31 January 2025
+Revised: 24 March 2025
+Accepted: 28 March 2025
+Published: 31 March 2025
+Citation: Scorsese, G.; Yonel, B.;
+Schmalzried, E.; Solowinska, A.; Jin, Z.;
+Poppers, J. Perioperative
+Considerations, Anesthetic
+Management and Transesophageal
+Echocardiographic Evaluation of
+Patients Undergoing the Ross
+Procedure. J. Cardiovasc. Dev. Dis.
+2025, 12, 126. https://doi.org/
+10.3390/jcdd12040126
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Review
+Perioperative Considerations, Anesthetic Management and
+Transesophageal Echocardiographic Evaluation of Patients
+Undergoing the Ross Procedure
+Giacomo Scorsese 1,*
+ , Brandon Yonel 1, Eric Schmalzried 1
+ , Alexandra Solowinska 2, Zhaosheng Jin 1,*
+and Jeremy Poppers 1
+1 Department of Anesthesiology, Stony Brook University Hospital, Stony Brook, NY 11794, USA;
+brandon.yonel@stonybrookmedicine.edu (B.Y.); eric.schmalzried@stonybrookmedicine.edu (E.S.);
+jeremy.poppers@stonybrookmedicine.edu (J.P .)
+2 Renaissance School of Medicine, Stony Brook University, Stony Brook, NY 11794, USA;
+alexandra.solowinska@stonybrookmedicine.edu
+* Correspondence: giacomo.scorsese@stonybrookmedicine.edu (G.S.);
+zhaosheng.jin@stonybrookmedicine.edu (Z.J.)
+Abstract: The Ross procedure introduced a new technique for aortic valve replacement
+by utilizing a pulmonary autograft to replace the diseased aortic valve. This approach
+provides a living, dynamic valve substitute capable of growth and adaptation to systemic
+pressures while addressing the limitations of mechanical valves, which require lifelong
+anticoagulation, and bioprosthetic valves, which lack durability and growth potential.
+The Ross procedure offers superior hemodynamic performance and freedom from anti-
+coagulation. While initially popular, utilization declined due to its technical complexity
+and concerns regarding the potential for the failure of two valves, requiring additional
+operations. Advances in surgical techniques, such as reinforced autografts, improved
+myocardial protection, and better homograft preservation, coupled with evidence of favor-
+able long-term outcomes, have renewed interest in the procedure. Preoperative imaging
+with echocardiography, cardiac magnetic resonance imaging, and computed tomography
+angiography ensures optimal patient selection and preparation. Intraoperatively, precise
+autograft harvesting, accurate implantation, and meticulous right ventricular outflow tract
+reconstruction are critical for success. Blood conservation techniques, such as acute nor-
+movolemic hemodilution and retrograde autologous priming, are employed to minimize
+transfusion-related complications. The anesthesiologist plays a critical role, including
+meticulous monitoring of myocardial function and hemodynamics, with intraoperative
+transesophageal echocardiography being essential for assessing valve integrity and ventric-
+ular function. Recent studies suggest that the Ross procedure can restore life expectancy
+in appropriately selected patients, reinforcing its value as a surgical option for managing
+aortic valve disease.
+Keywords: Ross procedure; valvular heart disease; aortic valve; transesophageal
+echocardiography; cardiopulmonary bypass; autologous normovolemic hemodilution
+PM?h
+The Ross procedure, first described by British cardiac surgeon Donald Ross in 1967, is
+a landmark surgical technique that introduced the use of a pulmonary autograft for aortic
+valve replacement [1]. Based on previous experimental work in canine models [ 2], this
+technique aimed to address some of the limitations of existing valve replacement options,
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 https://doi.org/10.3390/jcdd12040126
+[[p2]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 2 of 19
+particularly in younger and more active patients. By replacing the diseased aortic valve
+with the patient’s pulmonary valve and reconstructing the right ventricular outflow tract
+with an allograft, the Ross procedure offered a dynamic, living valve replacement that could
+potentially grow along with pediatric patients and effectively adapt to the higher-pressure
+systemic circulation [3]. Over 50 years later, the Ross procedure continues to be an excellent
+option for select patient populations [4].
+Around 85,000 aortic valve replacements are conducted annually in the United States,
+making it the most frequently performed type of valve replacement [ 5]. The first me-
+chanical valves were introduced in 1952 [6], while bioprosthetic valves came slightly later.
+Mechanical valves such as the Starr–Edwards ball-in-cage mechanical valve, introduced
+at a conference in 1960 [7], provided exceptional durability. However, due to the signifi-
+cant thromboembolic risks imposed by mechanical valves, patients would require lifelong
+anticoagulation therapy, subsequently increasing the risk of bleeding complications [ 8].
+Valve replacement with a bioprosthetic valve was first performed with an allograft (also
+referred to as a homograft) in 1962 [ 9], which eliminated the requirement for anticoag-
+ulation and offered improved hemodynamic qualities compared to mechanical valves.
+However, allografts are rarely used in clinical practice due mainly to limited availability.
+Xenografts, derived from porcine or bovine tissues, are more widely available but share
+similar limitations to allograft valves as both types are hampered by variable durability
+and lack of growth potential [10,11].
+It was within this context that the Ross procedure was proposed. It was hypothesized
+that structural similarities between the pulmonary and aortic valves could allow the
+pulmonary valve to serve as an ideal replacement for the aortic valve [12]. The pulmonary
+autograft could withstand systemic pressures when transplanted to the aortic position,
+and the right ventricular outflow tract could be reconstructed with a homograft, which
+would function adequately in the low-pressure pulmonary circulation [ 13]. This novel
+approach offered the potential for a living, autologous tissue replacement with superior
+hemodynamic performance and durability without the burden of anticoagulation [14].
+The Ross procedure gained popularity as a promising option for patients with aortic
+valve disease, particularly younger individuals seeking long-term solutions that avoid
+lifestyle or activity limitations [ 14]. However, utilization peaked in the late 1990s [ 15],
+representing <0.1% of all aortic valve replacements by 2010 [16]. Several factors contributed
+to this decline, including the technical complexity of the operation, the potential for failure
+of two valves (the pulmonary autograft and the homograft), and the risks associated with
+reoperations [17]. Nevertheless, persistent efforts by high-volume centers and ongoing
+research into the long-term outcomes of the Ross procedure have led to a resurgence of inter-
+est in recent years due to accumulating evidence of its favorable long-term outcomes [18,19],
+with estimated 25-year survival rates, based on retrospective analysis of over 2000 patients,
+without significant difference to that of the general population in appropriately selected
+patients [20–22]. Advances in surgical techniques, such as reinforced autografts, improved
+myocardial protection, better homograft preservation, and proactive management of the
+ascending aorta, have further improved outcomes [23–26].
+Currently, the Ross procedure is primarily recommended for young and middle-aged
+adults with aortic valve disease who either have contraindications to anticoagulation or
+wish to avoid long-term anticoagulation therapy [27]. While a set of definitive indications
+exists, we summarize them as any patient with aortic valve disease (i.e., aortic stenosis (AS)
+or aortic insufficiency (AI)) and life expectancy greater than 15–20 years who also desire
+freedom from lifelong anticoagulation and engage in high-impact physical activity [4]. The
+ideal candidates are patients with isolated aortic valve disease, particularly those with
+aortic stenosis, who do not have a dilated aortic annulus, significant connective tissue
+[[p3]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 3 of 19
+disorders, or other contraindications that could compromise the integrity of the pulmonary
+autograft [28]. As such, the patient population routinely encountered in the adult cardiac
+operating room are those with bicuspid aortic valve (BAV) and concomitant AS, AI, and/or
+ascending aortic aneurysm—characteristically young (<70 years old) and predominantly
+male.
+The explosive growth in the management of aortic valve disease has ushered in
+a wide range of both surgical and transcatheter-based techniques. However, the Ross
+procedure offers the only viable, living valve substitute for the diseased aortic valve [16].
+Ongoing research into the long-term durability of the procedure and the development
+of less invasive techniques may expand its applicability in the future [ 29]. While this
+surgery has gone through numerous iterations and fallen into and out of favor, there seems
+to be a paucity of literature regarding its anesthetic management. As such, the authors’
+current understanding is adapted from isolated reports and institutional experiences in
+adult cardiac surgery. This review aims to provide a brief overview of the Ross procedure,
+including technical considerations, its contemporary relevance in managing aortic valve
+disease, as well as anesthetic management.
+2. Anatomical Considerations
+The aortic valve (AV) is a three-dimensional structure with three semilunar leaflets,
+known as the right, left, and non-coronary cusps, that are suspended within the functional
+aortic annulus—a ring of connective tissue. The right coronary ostia and left main coronary
+ostia originate from their respective left coronary cusps (LCCs) and right coronary cusps
+(RCCs). The RCCs and right coronary ostia are the most anterior structures. These structures
+are intrinsically joined and disease of just one component can lead to abnormalities of the
+others over time [30]. This delicate apparatus shares a corresponding counterpart situated
+orthogonal to it, known as the pulmonic valve (PV).
+The PV is anterior to the native AV and originated from the same primordial structures
+in the embryological human heart. The PV divides the right ventricular outflow tract
+(RVOT) and pulmonary trunk through three semilunar cusps: the left, right, and ante-
+rior. The subvalvular apparatus separates itself from adjacent structures with a muscular
+fold known broadly as the infundibulum, a key structure utilized not only for naming
+ventricular septal defects but also in the Ross procedure to reconstruct the neo-LVOT [31].
+Valvular disease in either of these can be distilled into two generalized pathologies:
+stenosis, in which there is a narrowing of the valve orifice, which limits systolic antegrade
+flow through the valve, or regurgitation, comprising retrograde diastolic flow through the
+valve [32]. The etiology of these two disease states can take on a multiplicity of etiologies,
+which range from congenital structural heart abnormalities, infective endocarditis, senile
+calcific plaques, rheumatic disease, and genetic connective tissue disorders. Furthermore,
+pathologies can present in a mixed picture of combined stenosis and regurgitation. At any
+rate, while symptomatology may develop over many years, their presence typically does
+not appear until the condition is severe, at which point morbidity and mortality are very
+high [32].
+3. Preoperative Assessment
+Accurate and thorough preoperative evaluation is essential in all cardiac surgical
+procedures to optimize patient safety and guide perioperative planning. For the Ross pro-
+cedure, additional imaging and anatomic assessment are required to determine candidacy
+due to the complexity and autologous nature of the operation. Accordingly, the preop-
+erative evaluation is divided into two subsections: routine preoperative investigations
+[[p4]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 4 of 19
+conducted for all cardiac surgeries and Ross-specific investigations focused on determining
+the feasibility of autograft transplantation.
+3.1. Routine Preoperative Investigations
+These investigations are performed for most patients undergoing major cardiothoracic
+surgery and establish a baseline profile to identify modifiable risk factors, optimize peri-
+operative management, and guide surgical and anesthesia planning. Although additional
+laboratory studies may be obtained based on patient factors, the following laboratory
+studies are obtained for all patients:
+• A complete blood count (CBC) is used to evaluate for anemia, infection, and platelet
+abnormalities, providing baseline hematologic status.
+• A comprehensive metabolic panel (CMP) assesses renal function, glucose, and elec-
+trolyte balance to optimize perioperative management.
+• Coagulation studies, including prothrombin time (PT) and activated partial thrombo-
+plastin time (aPTT), screen for bleeding or clotting risks that influence intraoperative
+anticoagulation and transfusion planning.
+• Blood typing and crossmatching ensure that compatible blood products are available
+should transfusion be required.
+To further determine the patient’s baseline hemodynamic profile and provide critical
+information to guide perioperative and intraoperative management strategies, the following
+imaging studies are routinely obtained:
+• Electrocardiography (ECG) identifies arrhythmias, conduction abnormalities, or is-
+chemic changes that may affect anesthetic and surgical risk.
+• A chest radiograph (CXR) is obtained to evaluate the cardiac silhouette and pulmonary
+parenchyma and to identify any occult thoracic pathology.
+• Transthoracic echocardiography (TTE) provides an initial noninvasive assessment of
+cardiac structure and function, including valvular morphology, ventricular perfor-
+mance, and chamber dimensions.
+Furthermore, in patients with additional cardiovascular risk factors, bilateral carotid
+duplex and coronary angiography or coronary computed tomography angiography (CTCA)
+would be performed to detect obstructive coronary disease that may require simultaneous
+revascularization [16].
+3.2. Ross Procedure-Specific Investigations
+Patients being considered for the Ross procedure require a series of detailed imaging
+evaluations aimed at assessing anatomic and structural compatibility, functional require-
+ments, and surgical feasibility for pulmonary autograft transplantation [33].
+• Transthoracic echocardiography (TTE) continues to play a central role, offering initial
+information on the structure and function of both the aortic and pulmonary valves,
+as well as left ventricular systolic performance. Doppler imaging augments this
+evaluation by quantifying flow velocities and valvular properties [29].
+• Although uncommon and avoided, if possible, transesophageal echocardiography
+(TEE) is an invasive modality that offers superior sonographic windows and spatial
+resolution, leading to more precise visualization of the aortic root, pulmonary valve,
+and ascending aorta in the case of suboptimal TTE.
+• Computed tomography coronary angiography (CTCA) is used to scrutinize coronary
+artery architecture and identify variations such as a short left main or anomalous
+origin of the right coronary artery, which may complicate autograft harvesting and
+reimplantation [16].
+[[p5]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 5 of 19
+• Further anatomic and functional detail is provided by cardiac magnetic resonance
+imaging (cMRI), which provides more advanced anatomical and functional insights
+and is particularly useful for characterizing valvular flow dynamics, ventricular func-
+tion, perfusion, and anomalous coronary arteries [34].
+• Cardiac computed tomography angiography (CTA) offers high-resolution cross-
+sectional imaging, which complements cMRI [ 29]. CTA is employed to examine
+the aortic root and ascending aorta, particularly in cases where dilation is suspected.
+Measurements exceeding 38–40 mm typically prompt consideration of concomitant
+surgical intervention [19].
+A focused evaluation of the pulmonary valve complex is required to assess its suitabil-
+ity for transfer to the aortic position. This includes analysis of leaflet morphology, annular
+size, tissue integrity, and infundibular musculature. Variations of the main pulmonary
+artery and pulmonary valve (PV) complex—such as the presence of a quadricuspid or
+bicuspid PV—may preclude its use as an autograft [35]. The infundibulum is assessed for
+muscle thickness, strength, and relationship to surrounding structures, as these factors
+influence autograft harvesting and RVOT reconstruction.
+The aforementioned characteristics are also used to determine the compatibility of
+the pulmonary root complex with the aortic annulus. In addition, the relationship of the
+pulmonary root to nearby structures, including the left main coronary artery and left atrial
+appendage, is carefully examined to avoid intraoperative injury during harvesting [16].
+4. Intraoperative Technical Considerations
+4.1. Cannulation Strategies
+Aortic cannulation is typically achieved through the aortic arch, beyond the takeoff of
+the innominate artery using a Seldinger technique to maximize the length of the working
+aorta by cross-clamping just proximal to the innominate artery [36,37]. This approach re-
+quires careful coordination with the anesthesiology team to correctly identify the surgeon’s
+wire in the lumen of the proximal descending aorta, using transesophageal echocardiog-
+raphy (TEE). The benefits of the arch cannulation strategy are that the aortic cross-clamp
+may be placed distal to the PA bifurcation, which facilitates autograft harvesting and distal
+pulmonary autograft anastomosis [36,37]
+Venous cannulation is routinely performed through a bi-caval approach, in which a
+single-stage cannula is placed in the superior and inferior vena cava, respectively. Right
+atrial cannulation using a multistage cannula has also been utilized in some cases; a choice
+influenced by factors such as the presence of a patent foramen ovale (PFO) or the need for
+collateral intracardiac procedures [38].
+Left ventricular (LV) venting is an important adjunct of myocardial protection during
+the Ross procedure, which is performed before the successful delivery of cardioplegia.
+Conventionally, the LV vent is placed via the right superior pulmonary vein and directed
+toward the LV through the mitral valve. The LV vent is inserted by the surgical team and
+its position is confirmed by TEE. Attention should be paid to ascertain that the tip of the LV
+vent does not impinge on the mitral or aortic valve [39].
+Adequate myocardial protection is paramount given the prolonged aortic cross-clamp
+times frequently required for the Ross procedure and the potential need for ascending
+aortic repair vs. replacement. A combination of antegrade and retrograde cardioplegia
+ensures optimal distribution, especially in the presence of coronary artery disease or severe
+ventricular hypertrophy [40]. When retrograde cardioplegia is utilized, the position of
+the coronary sinus catheter is confirmed via TEE guidance to minimize the risk of injury
+prior to injection. Del Nido cardioplegia is usually utilized to arrest the heart; however,
+??????LM?r??GQO–QT?◦bH
+[[p6]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 6 of 19
+provides additional myocardial protection and facilitates a safe period of circulatory arrest
+to minimize ischemic injury [4].
+4.2. Autograft Harvesting and Implantation
+Pulmonary autograft harvesting is critical to prevent structural damage and improve
+long-term durability. The pulmonary root is explanted en bloc, with particular care taken
+to preserve valvular integrity and the delicate infundibular muscle cuff. Excess fat and
+connective tissue are trimmed, allowing for a tension-free anastomosis. The autograft is
+then transferred to the aortic position, where it can be implanted using either the sub-
+coronary or total root replacement technique [40]; a decision driven primarily by surgeon
+preference.
+The sub-coronary implantation technique involves excising the patient’s native aortic
+valve and suturing the autograft in a scalloped fashion below the coronary ostia. While
+there is a long-standing debate amongst operators over the durability of the sub-coronary
+versus total root technique, the former is less commonly used due to its technical complexity
+and the potential for distortion of the autograft’s original shape, which limits its use in
+patients with aortic root asymmetry (i.e., Sievers Type 0, bicuspid AV , unicuspid AV , and
+aortic root aneurysms) [37]. The total root replacement technique, in contrast, involves
+excising the native aortic root and replacing it entirely with the pulmonary autograft. This is
+the primary approach used at our institution since it allows the positioning of the autograft
+to be more anatomic, thus reducing the risk of geometric distortion [4]. Regardless of the
+implantation technique, accurate autograft sizing and symmetrical commissural alignment
+both decrease the incidence of future valvular insufficiency.
+4.3. Right Ventricular Outflow Tract Reconstruction
+The final step in the Ross procedure is the reconstruction of the RVOT, most commonly
+using a pulmonary homograft, which accounted for over 83% of Ross procedure pulmonary
+valve conduits in the United States in 2022 [ 41]. Several options exist for homograft
+preservation, including non-decellularized cryopreservation, decellularization, and fresh
+antibiotic sterilization.
+Cryopreserved pulmonary homografts (cadaveric human pulmonary valve and artery)
+have been historically used, and remain the preferred conduit at our institution and in the
+United States overall. This can be attributed to the cryopreserved pulmonary homograft’s
+track record of reliable performance, favorable hemodynamics, and avoidance of anticoagu-
+lation, especially in adults and older children [42]. Cryopreserved homografts are however
+known to elicit a host immune-mediated inflammatory reaction, thus leading to homo-
+graft dysfunction (i.e., stenosis). Decellularized homografts, in which the donor cells are
+removed through various chemical treatments, have gained some popularity due to their
+potential for reducing immunogenicity and improving long-term preservation of valve
+integrity [43]. Regardless of the choice, the homograft is trimmed to an appropriate length
+and anastomosed to the right ventricular infundibulum proximally and the pulmonary
+artery distally [44].
+Notably, patients are typically started on 6 months of nonsteroidal anti-inflammatory
+drugs (NSAIDs) postoperatively in order to decrease this inflammatory response [37,44].
+5. Blood Conservation Techniques
+In cardiac surgery, postoperative bleeding is one of the most germane complications
+and, within a national blood supply range, it accounts for 15% to 20% of total transfusion
+requests [45]. This need originates from the nature of the unique interaction between the
+cardiopulmonary bypass circuit and clotting elements within the patient’s blood.
+[[p7]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 7 of 19
+Platelets express a range of surface molecules that mediate their hemostatic and in-
+flammatory functions. The CPB circuit, comprised of polyvinylchloride (PVC) tubing,
+activates platelets with resultant structural and biochemical changes. Alterations in platelet
+count, clot formation, and the peak platelet force development after CPB are all substan-
+tially lower than before CPB, subsequently playing a role in CPB-associated microvascular
+hemorrhage [46,47]. Moreover, despite supratherapeutic heparin anticoagulation, some
+activation of coagulation still occurs and increases with the duration of CPB. The combina-
+tion of contact activation on foreign surfaces within the bypass circuit, exposure of blood to
+air and Tissue Factor in the wound, and recirculation of this blood via cardiotomy suction,
+results in the depletion of key clotting factors [48].
+5.1. Acute Normovolemic Hemodilution
+Acute normovolemic hemodilution (ANH) is a blood conservation technique first
+described in the 1970s to decrease the need for intraoperative allogenic blood transfusion.
+The procedure is accomplished by removing a portion of the patient’s blood preoperatively,
+which is stored and later re-infused. The relevance of this technique in surgical literature
+outside the cardiac operating room has been debated, and current evidence supporting
+ANH lacks strength; however, its physiological relevance in cardiopulmonary bypass (CPB)
+cannot be understated. Further, the efficacy of ANH use for cardiac surgery may soon be
+clarified by a multicenter randomized controlled trial currently in progress [49].
+One of the key concepts in applying hemodilution is to define a patient’s “safe” lower
+limit for hematocrit. Patients typically have a considerable reserve of red cells, which
+is the principal reason that the acute removal of blood in the preoperative period is a
+viable therapeutic option [ 50]. Although ANH is selectively employed as part of our
+institution’s Ross protocol, we generally do not utilize the technique for routine cardiac
+surgeries. Hemodilution from the CPB priming fluid represents a clinical concern in the
+safe implementation of ANH, especially in patients with known cardiovascular disease.
+Critical red cell mass is the lower limit of hemoglobin associated with effective oxygen
+delivery. At hematocrits less than 20–25%, myocardial metabolism may be compromised
+by the decreased supply and heightened oxygen demand [50,51].
+While patient and procedure variations ultimately dictate clinical decision-making,
+we generally isolate ANH to patients with a starting HCT of at least 35%. Additionally,
+we utilize the Maximal Allowable Blood Loss equation to ensure a safe volume of blood is
+being removed while remaining above a lower HCT limit of 30% in lieu of the obligatory
+hemodilution imposed during the initiation of CPB. After central line insertion, 2 units
+(450 cc each) of blood are sterilely drawn from the central line into a Citrate–Phosphate–
+Dextrose–Adenine (CPDA) collection bag. Harvest volume is measured using a blood
+rocker and scale to ensure the correct ratio of blood to citrate anticoagulant in each CPDA
+bag is not exceeded. After removal, an equivalent amount of crystalloid (Ringer’s lactate at
+our institution) or colloid is infused into the patient. The blood is then labeled, covered
+with a towel, and stored on a rocker at room temperature (to maintain platelet function),
+until being re-infused following separation from CPB and completion of protamine reversal
+(typically within 6 h).
+5.2. Retrograde Autologous Priming
+The initiation of cardiopulmonary bypass (CPB) comes with unique challenges and
+downstream consequences, namely hemodilution. Generally speaking, a typical CPB circuit
+requires a priming volume of approximately 1500 mL of crystalloid solution [ 52]. This
+volume is ultimately infused into the patient with the initiation of CPB, resulting in clini-
+cally relevant hemodilution [52]. While the small shifts in HCT that predictably occur with
+[[p8]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 8 of 19
+the initiation of CPB have been postulated to have a beneficial impact on overall macro-
+and micro-circulation through reduced blood viscosity, the impact of critically low HCT
+(<22–24%) has been associated with adverse outcomes such as impaired hemostasis, and
+poor end-organ perfusion leading to cognitive dysfunction, renal impairment, and gut is-
+chemia [52–54]. Additionally, this raises the risk of allogenic blood transfusion. Accordingly,
+nearly 50% of all cardiac surgery patients receive a transfusion of red blood cells, which
+increases perioperative morbidity and mortality, and further contributes to the significant
+amount of blood product consumption by cardiac surgery in general worldwide [53].
+Retrograde autologous priming (RAP) is a coordinated effort between the anesthesi-
+ologist and perfusionist used prior to the initiation of cardiopulmonary bypass (CPB) to
+reduce hemodilution associated with initiating bypass [52]. It aims to replace the crystal-
+loid used to prime the circuit with the patient’s own blood, via passive exsanguination
+from the patient’s arterial and venous cannulation sites [ 52]. This practice can lead to
+transient hypotension resulting in decreased perfusion prior to initiation of CPB, eliciting
+end-organ damage [55], as the preload is sacrificed to prime the circuit. This necessitates
+concomitant support with vasopressors such as phenylephrine or norepinephrine to ensure
+hemodynamic stability.
+6. Anesthetic Considerations
+6.1. Intraoperative Monitoring
+This procedure is performed under general endotracheal anesthesia in a cardiac
+operating room using cardiopulmonary bypass and transesophageal echocardiography
+(TEE). Standard American Society of Anesthesiologists (ASA) monitors are applied, and
+blood pressure is monitored via an intra-arterial catheter, typically in the radial position of
+the non-dominant hand. While infrequent, if it is anticipated that circulatory arrest will be
+required to assist in the repair of the ascending aorta or arch, we choose to place a right
+radial arterial line to monitor antegrade cerebral perfusion.
+Temperature monitoring is conducted at two locations using both bladder or rectal
+and nasopharyngeal temperature probes—with care to properly lubricate and place prior to
+heparization. Prior to induction, a Bispectral Index (BIS) monitor is placed over the patient’s
+forehead to monitor anesthetic depth throughout the case. Furthermore, although not used
+for all our cardiac procedures, our Ross protocol calls for Near-Infrared Spectroscopy
+(NIRS) cerebral oximetry monitoring due to the surgical complexity and proximity to
+the aortic arch. However, peripheral intravenous (IV) access alone is sufficient for the
+induction of anesthesia. Central access is typically obtained post-induction with a 9Fr
+introducer catheter or Multiaccess Catheter (MAC) in order to monitor central venous
+pressure (CVP) and for medication administration. External defibrillation pads are placed
+prior to induction; however, at some institutions, this is reserved for those with stenotic
+valve lesions or pre-existing coronary artery disease. We do not routinely place pulmonary
+artery catheters in these patients, as the location of the catheter may obscure the surgical
+field and sit upon freshly created anastomotic sites.
+6.2. Anesthesia and Analgesia
+General anesthesia is maintained with volatile anesthetics and analgesia with IV
+opioid narcotics, most commonly fentanyl and/or hydromorphone at our practice. While
+induction of anesthesia is well tolerated, the use of ANH and RAP necessitates the use of
+vasopressors and fluid boluses to ensure hemodynamic stability prior to initiation of CPB.
+While general anesthesia for the Ross procedure may be maintained with either volatile
+agents or total intravenous anesthesia (TIVA), current evidence does not demonstrate a
+definitive advantage of one technique over the other. Volatile anesthetics such as sevoflu-
+[[p9]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 9 of 19
+rane and desflurane have been associated with theoretical cardioprotective effects via
+ischemic preconditioning pathways, including reduced myocardial biomarker release and
+shorter hospital stays in some studies [56]. However, large multicenter trials have failed
+to show a significant difference in major outcomes such as 1-year mortality [57]. As such,
+no consensus or guideline currently favors volatile anesthesia over TIVA, and the choice
+remains guided by institutional resources, perfusion equipment capabilities, and provider
+preference. The perfusion equipment at our institution does not have the capability of
+providing volatile anesthetics during bypass.
+Regarding intraoperative analgesia, there has been emerging data that methadone
+may offer a safe and effective alternative to traditional intraoperative opioids. Multiple
+studies have demonstrated the utility of intraoperative IV methadone (with a dose ranging
+from 0.1 to 0.4 mg/kg, prior to sternotomy) in cardiac surgical patients. As more practices
+shift towards analgesia optimization via a multimodal approach, methadone may be a
+valuable tool to reduce pain scores and reduce intraoperative and postoperative opioid
+requirements [58–61].
+Moreover, ketamine’s role in the cardiac operating room has been examined with
+similar opioid-reduction goals in mind. Though its use is theoretically appealing, it has
+had conflicting evidence over the last 10 years. Existing studies have variable dosing
+regiments from 0.25 mg/kg to 2 mg/kg, but most studies seem to implement a subanesthetic
+dose ranging from 0.25 mg/kg to 0.5 mg/kg IV bolus. A Cochrane review conducted in
+2018 of 130 studies revealed that perioperative intravenous ketamine probably reduces
+postoperative analgesic consumption and pain intensity [ 62]. However, its use must be
+weighed against its potential harm of inducing negative experiences such as hallucinations
+in the immediate postoperative period [63]. Moreover, it commonly causes tachycardia,
+which can be detrimental in patients with existing coronary artery disease, stenotic heart
+lesions, and aortic aneurysms, which require proper impulse control [ 64]. Our practice
+selectively incorporates methadone and ketamine into patients’ intraoperative cardiac
+surgery analgesia plans based on factors like substance-use history and opioid tolerance.
+Lastly, there is mounting evidence regarding the safety, analgesic efficacy, and poten-
+tial reduction of acute kidney injury, regarding the use of intraoperative acetaminophen.
+We typically employ non-narcotic analgesia with 1 g of IV acetaminophen after sternal clo-
+sure [65,66]. At the summation of the procedure, the patient remains sedated on infusions
+of propofol and/or dexmedetomidine in the intensive care unit (ICU).
+6.3. Regional Anesthesia
+Emerging regional anesthetic techniques have also been examined for their safety
+and efficacy in reducing postoperative pain scores in cardiac surgery. Some evidence
+suggests the use of an erector spinae plane (ESP) block and catheter for acute postoperative
+cardiac surgery pain may provide superior analgesia compared to conventional intravenous
+management [67]. Parasternal nerve blocks, such as the transversus thoracic muscle plane
+block (TTMPB) as well as the Pecto-Intercostal Fascial Plane Block (PFIB), are both of
+interest, however, have ultimately failed to show any benefit in terms of length of stay and
+ICU course [68–71]. We attribute this largely to the failure of these blocks to adequately
+cover chest tube and drain insertion sites, rather than sternotomy. Thus, further evidence is
+needed before these are routinely implemented at our institution.
+6.4. Separation from Cardiopulmonary Bypass and Hemodynamic Control
+Separation from CPB requires cautious hemodynamic optimization but can typically
+occur in a rapid and safe manner—assuming adequate myocardial protection and surgical
+hemostasis. While there should be a full TEE examination, a rapid and focused exam
+[[p10]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 10 of 19
+of key anatomic structures in the brief period prior to CPB separation is required. This
+includes evaluation of the autograft for insufficiency greater than trace-mild, the integrity
+of the homograft, left ventricular (LV) dysfunction, right ventricular (RV) dysfunction, and
+regional wall motion abnormalities (RWMA).
+To facilitate the surgery, the native coronary buttons are removed and implanted into
+the neo-AV [37]. Therefore, new or worsening LV function may develop due to impaired
+blood flow to the geographic distribution of the left main coronary artery. Additionally,
+manipulation of the right ventricular outflow tract (RVOT), implantation of oversized
+homograft, and excision of the infundibulum can culminate in RV dysfunction [37].
+Magnesium sulfate is administered as a 2 g IV bolus after cross-clamp removal to
+promote the return of normal sinus rhythm. Magnesium offers several benefits when
+administered to patients undergoing CPB. Specifically, it helps to mitigate the sudden
+generation of oxygen-derived free radicals associated with calcium administration, and
+blocks reperfusion-induced free radical formation, thus reducing myocardial insult [72].
+In doing so, there is a decreased incidence of postoperative dysrhythmia and ischemia-
+reperfusion injury, with a magnitude of effect comparable with that of antiarrhythmic
+drugs [73].
+Hypertension is commonly encountered upon separation from CPB during the Ross
+procedure. This is particularly evident once the preload has normalized (with reinstitution
+of ANH) and sinus rhythm is present. A tailored surgical approach, combined with tight
+control of systolic blood pressure and heart rate, appears to mitigate clinically significant
+early dilatation of the autograft root [74]. We utilize antihypertensive medications such
+as nicardipine or labetalol, if necessary, to decrease systolic blood pressure to a range of
+90 mmHg to 110 mmHg and a heart rate of 60 to 80 beats per minute. Ultimately, patients
+tolerate this well and leave the hospital with at least one antihypertensive for their first 6 to
+12 months postoperatively.
+6.5. Early Extubation and Fast-Track Recovery After Cardiac Surgery
+In the acute postoperative phase following cardiac surgery, early extubation has
+emerged as a pivotal component of enhanced recovery after surgery (ERAS) and fast-track
+protocols, especially in younger and healthier patients characteristic of this population.
+A growing body of evidence supports early extubation—within 6 h—as both safe and
+effective in appropriately selected cardiac surgical patients.
+A single-center prospective study demonstrated that high compliance with an ERAS
+protocol was associated with significantly reduced time to extubation (median reduction of
+3.4 h), increased rates of intraoperative extubation (odds ratio 35.8), and shortened hospital
+length of stay (median reduction of 19.4 h) without an increase in reintubation rates [75].
+Similarly, a Cochrane systematic review of 28 randomized controlled trials showed that
+fast-track interventions such as low-dose opioid anesthesia and time-directed extubation
+protocols reduced time to extubation by up to 10.5 h and decreased ICU stay by up to 10.5 h,
+albeit without affecting the total hospital length of stay [76].
+Within our institutional practice, while most cardiac patients are extubated later
+in the day in the cardiothoracic ICU, this trend aligns with a broader paradigm shift
+toward early extubation to reduce ICU resource utilization and enhance recovery. These
+findings underscore the importance of integrating structured fast-track protocols into
+postoperative care for Ross procedure patients, balancing the benefits of early extubation
+with individualized risk stratification.
+[[p11]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 11 of 19
+7. Intraoperative Transesophageal Echocardiographic Assessment
+Patients scheduled for the Ross procedure undergo a gauntlet of preoperative tests
+and imaging modalities as delineated in prior sections. The role of intraoperative TEE is
+to confirm these preprocedural features. Postoperatively, its use is to detect the normal
+functioning of both the autograft, homograft, and ventricular function [29]. As such, TEE
+is treated as an additional monitor with a diagnostic role in the pre-CPB and post-CPB
+periods.
+7.1. Pre-Cardiopulmonary Bypass TEE Assessment
+Pre-bypass TEE assessment of the heart for the Ross procedure involves a full echocar-
+diographic assessment of the heart. However, special emphasis is paid to identifying five
+general components, broken down as follows:
+PM?h????`u
+2. Inspection of the native PV
+3. Evaluation of LV systolic function and RWMA
+4. Evaluation of RV systolic function
+5. Evaluation of the ascending aorta and aortic arch
+Echocardiographic evaluation of the AV should confirm the structure of the AV (i.e.,
+unicuspid, bicuspid, and tricuspid) as well as the size of the LVOT, AV annulus, aortic root,
+Sino-tubular junction, and ascending aorta. In patients with aortic stenosis, the aortic and
+pulmonary annuli are typically very closely matched in size (<2 mm variation). However,
+in aortic insufficiency, there is a higher risk of geometric mismatch, in which the existing
+AV annulus is larger than the PV annulus. While this does not preclude the surgery, it
+does often require further surgical intervention with an extra-aortic annuloplasty [ 37].
+Conversely, if the aortic annulus is smaller than the pulmonary annulus by 2–3 mm, the
+surgeon may be required to perform a concomitant aortic root enlargement [37].
+Given the anterior location of the PV and obscure insonation angles, its assessment can
+prove challenging by TEE. It is our practice to measure the PV and main pulmonary artery
+and assess gradients in multiple views including the Upper-Esophageal Aortic Arch Short
+Axis (UE-Ao Arch SAX), Mid-Esophageal RV Inflow/Outflow (ME-RV Inflow/Outflow),
+as well as the Mid-Esophageal ascending aorta short and long axis views (ME-Asc Ao SAX
+and LAX). In general, the ME-RV Inflow/Outflow view displays the PV on the long axis
+and is useful for detecting pulmonic regurgitation by CFD. The main PA (mPA) and the PV
+can be seen in the UE-Ao Arch SAX view on the left side of the display by turning the probe
+until these structures come into view [77]. Retroflexing the probe will often improve the
+view of the PV . The UE-Ao Arch SAX view usually allows the Doppler beam to be aligned
+parallel to flow through the PV and main PA and is therefore useful for measuring blood
+flow velocities through these structures [77]. However, this view can be difficult to obtain
+in most patients, due to displacement of the TEE probe by a dilated ascending aorta, or the
+lungs themselves. Therefore, modifications of the Deep Transgastric (DTG) views of the RV
+and Inflow/Outflow tract can prove useful.
+Primary pulmonic regurgitation (PR) is rare when compared to secondary PR. Lesions
+of the PV leaflets are more common in congenital heart disease [78]. Thus, the role of TEE is
+to identify and quantify any clinically significant regurgitation or fenestrations in the PV . As
+it currently stands, there is scant data regarding the quantification of PR. This stems partly
+from the difficulty in visualizing the PV , the fact that minor degrees of PR are common
+and have no clinical impact, and the low incidence of clinically significant PR in adults.
+Therefore, many of the concepts for quantifying PR are derived from the assessment of
+AI [78].
+[[p12]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 12 of 19
+PM?u?b?v?GubvHY?s?????M?b??
+grades of PR have not been validated, but most use AI cutoffs (Figure 1).
+• VCW/PV ratio has been used with a value of >0.5 consistent with severe PR.
+2. PWD flow reversal in branched PA: Affected by PA compliance, so brief flow reversals
+are normal.
+3. CWD: Through the mPA, watch for envelope density. Dense is consistent with moder-
+ate to severe PR, faint is more likely to be mild.
+4. PR Index: The ratio of PR duration and total diastolic time (regurgitation time/diastole);
+<0.77 is consistent with severe PR (Figure 2).
+5. PR Jet Width/RVOT Width: With >65% consistent with severe PR (Figure 3).
+J. Cardiovasc. Dev. Dis. 2025, 12, x FOR PEER REVIEW  12  of  20  
+ 
+This stems partly from the diﬃculty in visualizing the PV, the fact that minor degrees of 
+PR are common and have no clinical impact, and the low incidence of clinically signiﬁcant 
+PR in adults. Therefore,  many  of the concepts  for  quantifying PR are derived from the 
+assessment of AI [78]. 
+PM?u ?b ?v ?GubvHY ?s ? ? ? ? ?M ?b ? 
+various grades of PR have not been validated, but most use AI cutoffs (Figure 1). 
+● VCW/PV ratio has been used with a value of >0.5 consistent with severe PR. 
+2. PWD  flow  reversal  in  branched  PA:  Affected  by  PA  compliance,  so  brief  flow 
+reversals are normal. 
+3. CWD:  Through  the  mPA,  watch  for  envelope  density.  Dense  is  consistent  with 
+moderate to severe PR, faint is more likely to be mild. 
+4. PR  Index:  The  ratio  of  PR  duration  and  total  diastolic  time  (regurgitation 
+time/diastole); <0.77 is consistent with severe PR (Figure 2). 
+5. PR Jet Width/RVOT Width: With >65% consistent with severe PR (Figure 3). 
+ 
+Figure 1. ME RV Inﬂow/Outﬂow view with CFD over PV depicting PR jet. The image is frozen and 
+the zoom function allows for measurement of PR vena contracta. 
+ 
+Figure 1. ME RV Inflow/Outflow view with CFD over PV depicting PR jet. The image is frozen and
+the zoom function allows for measurement of PR vena contracta.
+J. Cardiovasc. Dev. Dis. 2025, 12, x FOR PEER REVIEW  12  of  20  
+ 
+This stems partly from the diﬃculty in visualizing the PV, the fact that minor degrees of 
+PR are common and have no clinical impact, and the low incidence of clinically signiﬁcant 
+PR in adults. Therefore,  many  of the concepts  for  quantifying PR are derived from the 
+assessment of AI [78]. 
+PM?u ?b ?v ?GubvHY ?s ? ? ? ? ?M ?b ? 
+various grades of PR have not been validated, but most use AI cutoffs (Figure 1). 
+● VCW/PV ratio has been used with a value of >0.5 consistent with severe PR. 
+2. PWD  flow  reversal  in  branched  PA:  Affected  by  PA  compliance,  so  brief  flow 
+reversals are normal. 
+3. CWD:  Through  the  mPA,  watch  for  envelope  density.  Dense  is  consistent  with 
+moderate to severe PR, faint is more likely to be mild. 
+4. PR  Index:  The  ratio  of  PR  duration  and  total  diastolic  time  (regurgitation 
+time/diastole); <0.77 is consistent with severe PR (Figure 2). 
+5. PR Jet Width/RVOT Width: With >65% consistent with severe PR (Figure 3). 
+ 
+Figure 1. ME RV Inﬂow/Outﬂow view with CFD over PV depicting PR jet. The image is frozen and 
+the zoom function allows for measurement of PR vena contracta. 
+ 
+Figure 2. ME RV Inflow/Outflow with continuous wave Doppler (CWD) and angle correct, capturing
+the spectral Doppler profile of the PR jet. PR duration is measured from its onset in early diastole to
+the end of the regurgitant Doppler signal. The total diastolic time is measured from the end of the
+forward pulmonary flow (coinciding with the onset of the retrograde PR flow) to the beginning of the
+next forward pulmonary flow curve.
+Assessment of LV systolic function should be routinely assessed using 2D and/or 3D
+calculations, as recommended by the American Society of Echocardiography (ASE). While
+techniques may vary from physician to physician, standard practice is to apply the Biplane
+Simpson’s technique using 2D images of the ME-4C and ME-2C. Additionally, utilization
+of LV full volume analysis with 4–6 beat acquisition, allows for 3D LVEF quantification.
+[[p13]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 13 of 19
+J. Cardiovasc. Dev. Dis. 2025, 12, x FOR PEER REVIEW  13  of  20  
+ 
+Figure 2. ME RV Inﬂow/Outﬂow with continuous wave Doppler (CWD) and angle correct, captur-
+ing the spectral Doppler proﬁle of the PR jet. PR duration is measured from its onset in early diastole 
+to the end of the regurgitant Doppler signal. The total diastolic time is measured from the end of 
+the forward pulmonary ﬂow (coinciding with the onset of the retrograde PR ﬂow) to the beginning 
+of the next forward pulmonary ﬂow curve. 
+ 
+Figure 3. ME RV Inﬂow/Outﬂow with M-Mode through the RVOT, capturing both RVOT width 
+and PR jet width. 
+Assessment of LV systolic function should be routinely assessed using 2D and/or 3D 
+calculations, as recommended by the American Society of Echocardiography (ASE). While 
+techniques  may  vary  from  physician  to  physician,  standard  practice  is  to apply  the  Bi-
+plane Simpson’s technique using 2D images of the ME-4C and ME-2C. Additionally, uti-
+lization of LV full volume analysis with 4–6 beat acquisition, allows for 3D LVEF quanti-
+ﬁcation. 
+RV function is evaluated both qualitatively and quantitatively. Qualitative measures 
+include the following: 
+1. RV Fractional Area Change (FAC): Measured in the ME-4C view, normal >35%. 
+2. Tricuspid Annular Plane Systolic Excursion (TAPSE): ME-RV Inflow/Outflow with 
+angle correction over lateral tricuspid annulus, normal >1.6 cm/s. 
+3. S’:  Measured  from  a  non-standard  TEE  view.  In  the  Deep  Transgastric  long  axis 
+(DTG-LAX) view, omniplane to 120–150° and turn right. The RV and lateral tricuspid 
+annulus will be centered on the screen. Tissue Doppler Imaging (TDI) is then used to 
+measure the systolic velocity of the lateral tricuspid valve annulus (S’) with >10 cm/s 
+considered normal [79] (Figures 4 and 5). 
+4. RV  Index  of  Myocardial  Performance  (RIMP):  Similar  to  S’,  total  contraction  time 
+(TCO)  is  subtracted  from  the  ejection  time  (ET)  and  divided  by  TCO.  The  normal 
+value by TDI is <0.54 (Figures 4 and 6). 
+Figure 3. ME RV Inflow/Outflow with M-Mode through the RVOT, capturing both RVOT width and
+PR jet width.
+RV function is evaluated both qualitatively and quantitatively. Qualitative measures
+include the following:
+1. RV Fractional Area Change (FAC): Measured in the ME-4C view, normal >35%.
+2. Tricuspid Annular Plane Systolic Excursion (TAPSE): ME-RV Inflow/Outflow with
+angle correction over lateral tricuspid annulus, normal >1.6 cm/s.
+3. S’: Measured from a non-standard TEE view. In the Deep Transgastric long axis
+(DTG-LAX) view, omniplane to 120–150◦ and turn right. The RV and lateral tricuspid
+annulus will be centered on the screen. Tissue Doppler Imaging (TDI) is then used to
+measure the systolic velocity of the lateral tricuspid valve annulus (S’) with >10 cm/s
+considered normal [79] (Figures 4 and 5).
+4. RV Index of Myocardial Performance (RIMP): Similar to S’, total contraction time
+(TCO) is subtracted from the ejection time (ET) and divided by TCO. The normal
+value by TDI is <0.54 (Figures 4 and 6).
+J. Cardiovasc. Dev. Dis. 2025, 12, x FOR PEER REVIEW  14  of  20  
+ 
+ 
+Figure 4. DTG RV Inﬂow/Outﬂow view. Acquired in DTG view between 120–150° omniplane, an-
+teﬂexion, and turned right to center the RV on screen. Allows for alignment of both the lateral tri-
+cuspid valve annulus and RVOT. 
+ 
+Figure 5. Tissue Doppler Imaging (TDI) of lateral tricuspid valve annulus in DTG RV Inﬂow/Out-
+ﬂow view. Isovolumetric contraction time (IVCT) and isovolumetric relaxation time (IVRT). 
+ 
+Figure 6. RIMP measurement performed in the DTG RV Inﬂow/Outﬂow view. Isovolumetric con-
+traction time (IVCT), isovolumetric relaxation time (IVRT), ejection time (ET), and total contraction 
+time (TCO). 
+   
+Figure 4. DTG RV Inflow/Outflow view. Acquired in DTG view between 120–150 ◦ omniplane,
+anteflexion, and turned right to center the RV on screen. Allows for alignment of both the lateral
+tricuspid valve annulus and RVOT.
+[[p14]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 14 of 19
+J. Cardiovasc. Dev. Dis. 2025, 12, x FOR PEER REVIEW  14  of  20  
+ 
+ 
+Figure 4. DTG RV Inﬂow/Outﬂow view. Acquired in DTG view between 120–150° omniplane, an-
+teﬂexion, and turned right to center the RV on screen. Allows for alignment of both the lateral tri-
+cuspid valve annulus and RVOT. 
+ 
+Figure 5. Tissue Doppler Imaging (TDI) of lateral tricuspid valve annulus in DTG RV Inﬂow/Out-
+ﬂow view. Isovolumetric contraction time (IVCT) and isovolumetric relaxation time (IVRT). 
+ 
+Figure 6. RIMP measurement performed in the DTG RV Inﬂow/Outﬂow view. Isovolumetric con-
+traction time (IVCT), isovolumetric relaxation time (IVRT), ejection time (ET), and total contraction 
+time (TCO). 
+   
+Figure 5. Tissue Doppler Imaging (TDI) of lateral tricuspid valve annulus in DTG RV Inflow/Outflow
+view. Isovolumetric contraction time (IVCT) and isovolumetric relaxation time (IVRT).
+J. Cardiovasc. Dev. Dis. 2025, 12, x FOR PEER REVIEW  14  of  20  
+ 
+ 
+Figure 4. DTG RV Inﬂow/Outﬂow view. Acquired in DTG view between 120–150° omniplane, an-
+teﬂexion, and turned right to center the RV on screen. Allows for alignment of both the lateral tri-
+cuspid valve annulus and RVOT. 
+ 
+Figure 5. Tissue Doppler Imaging (TDI) of lateral tricuspid valve annulus in DTG RV Inﬂow/Out-
+ﬂow view. Isovolumetric contraction time (IVCT) and isovolumetric relaxation time (IVRT). 
+ 
+Figure 6. RIMP measurement performed in the DTG RV Inﬂow/Outﬂow view. Isovolumetric con-
+traction time (IVCT), isovolumetric relaxation time (IVRT), ejection time (ET), and total contraction 
+time (TCO). 
+   
+Figure 6. RIMP measurement performed in the DTG RV Inflow/Outflow view. Isovolumetric
+contraction time (IVCT), isovolumetric relaxation time (IVRT), ejection time (ET), and total contraction
+time (TCO).
+7.2. Post-Cardiopulmonary Bypass TEE Assessment
+Post-bypass TEE assessment of the heart plays a vital role in assessing the technical
+adequacy of the Ross procedure. The assessment follows similarly to our pre-bypass exam
+broken down as follows:
+PM?h???L`u
+2. Inspection of the homograft PV
+3. Evaluation of LV systolic function and RWMA
+4. Evaluation of RV systolic function
+5. Evaluation of the ascending aorta and aortic arch (Figure 7).
+Of note, a novel technique to evaluate the integrity of the autograft involves pressuriz-
+ing the aortic root using the aortic root vent, without the removal of the aortic cross-clamp.
+This allows for the generation of a pressure gradient between the aortic root and the LV
+cavity. Echocardiographic evaluation at this point will be difficult due to the lack of LV
+filling; however, torrential issues within the autograft can be identified and therefore fixed
+before re-warming.
+[[p15]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 15 of 19
+J. Cardiovasc. Dev. Dis. 2025, 12, x FOR PEER REVIEW  15  of  20  
+ 
+7.2. Post‐Cardiopulmonary Bypass TEE Assessment 
+Post-bypass TEE assessment of the heart plays a vital role in assessing the technical 
+adequacy of the Ross procedure. The assessment follows similarly to our pre-bypass exam 
+broken down as follows: 
+PM?h   L`u 
+2. Inspection of the homograft PV 
+3. Evaluation of LV systolic function and RWMA 
+4. Evaluation of RV systolic function 
+5. Evaluation of the ascending aorta and aortic arch (Figure 7). 
+ 
+Figure 7. UE AA SAX view: This is typically acquired between 70–90° omniplane, demonstrating 
+the aortic arch in the short axis orientation; the innominate artery may be visualized. Pulmonary 
+artery (PA) and pulmonic valve (PV) are also visualized. 
+Of note, a novel technique to evaluate the integrity of the autograft involves pressur-
+izing the aortic root using the aortic root vent, without the removal of the aortic cross-
+clamp. This allows for the generation of a pressure gradient between the aortic root and 
+the LV cavity. Echocardiographic evaluation at this point will be diﬃcult due to the lack 
+of LV ﬁlling; however, torrential issues within the autograft can be identiﬁed and there-
+fore ﬁxed before re-warming. 
+8. Conclusions 
+The Ross procedure represents a unique and valuable option for aortic valve replace-
+ment, particularly in younger patients seeking to avoid lifelong anticoagulation and pros-
+thetic valve-related complications. Despite its technical complexity and decline in utiliza-
+tion, the Ross procedure has demonstrated favorable long-term outcomes in select patient 
+populations. Successful outcomes rely heavily on a comprehensive preoperative assess-
+ment, meticulous intraoperative technique, and tailored anesthetic management that ad-
+dresses the procedure’s unique considerations. Intraoperative transesophageal echocardi-
+ography plays a crucial role in guiding surgical decision-making and assessing the ade-
+quacy  of  the  autograft  and  homograft.  Blood  conservation  techniques  such  as  acute 
+normovolemic hemodilution and retrograde autologous priming can mitigate hemodilu-
+tion and transfusion requirements associated with cardiopulmonary bypass. Anesthetic 
+management focuses on optimizing hemodynamics, myocardial protection, and pain con-
+trol while minimizing complications. As the Ross procedure continues to evolve and ﬁnd 
+its  place  in  the  armamentarium  of  aortic  valve  interventions,  ongoing  research  and 
+Figure 7. UE AA SAX view: This is typically acquired between 70–90 ◦ omniplane, demonstrating the
+aortic arch in the short axis orientation; the innominate artery may be visualized. Pulmonary artery
+(PA) and pulmonic valve (PV) are also visualized.
+8. Conclusions
+The Ross procedure represents a unique and valuable option for aortic valve re-
+placement, particularly in younger patients seeking to avoid lifelong anticoagulation and
+prosthetic valve-related complications. Despite its technical complexity and decline in
+utilization, the Ross procedure has demonstrated favorable long-term outcomes in select
+patient populations. Successful outcomes rely heavily on a comprehensive preoperative
+assessment, meticulous intraoperative technique, and tailored anesthetic management
+that addresses the procedure’s unique considerations. Intraoperative transesophageal
+echocardiography plays a crucial role in guiding surgical decision-making and assessing
+the adequacy of the autograft and homograft. Blood conservation techniques such as acute
+normovolemic hemodilution and retrograde autologous priming can mitigate hemodilution
+and transfusion requirements associated with cardiopulmonary bypass. Anesthetic man-
+agement focuses on optimizing hemodynamics, myocardial protection, and pain control
+while minimizing complications. As the Ross procedure continues to evolve and find its
+place in the armamentarium of aortic valve interventions, ongoing research and refinement
+of surgical and anesthetic techniques will be instrumental in further improving patient
+outcomes. A multidisciplinary approach, encompassing the expertise of cardiac surgeons,
+anesthesiologists, and allied specialties, remains paramount in delivering optimal care for
+patients undergoing this transformative procedure.
+Author Contributions: Conceptualization, G.S. and J.P .; methodology, G.S.; writing—original draft
+preparation, G.S., B.Y., E.S. and A.S.; writing—review and editing, G.S., Z.J. and J.P .; visualization,
+G.S. and Z.J.; supervision, G.S.; project administration, Z.J. and J.P . All authors have read and agreed
+to the published version of the manuscript.
+Funding: This research received no external funding.
+Acknowledgments: Zhaosheng Jin is supported by the Long Island Network for Clinical and
+Translational Science. The authors would like to thank Maroun Yammine for his expertise. The
+authors would like to thank Lana Shteynman for the creation of the graphical abstract.
+Conflicts of Interest: The authors declare no conflicts of interest.
+[[p16]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 16 of 19
+References
+PM?qK?cM?q?????????M?k?PXUVK?QXOK?XTU–XTWM?zbq|
+2. Lower, R.R.; Stofer, R.C.; Shumway, N.E. Autotransplantation of the pulmonic valve into the aorta.J. Thorac. Cardiovasc. Surg.
+1960, 39, 680–687. [CrossRef]
+3. Concha, M.; Aranda, P .J.; Casares, J.; Merino, C.; Alados, P .; Muñoz, I.; Gonzalez, J.R.; Ribes, R.; Villalba, R. The Ross procedure.J.
+Card. Surg. 2004, 19, 401–409.
+4. Ouzounian, M.; Mazine, A.; David, T.E. The Ross procedure is the best operation to treat aortic stenosis in young and middle-aged
+adults. J. Thorac. Cardiovasc. Surg. 2017, 154, 778–782. [CrossRef] [PubMed]
+5. Yacoub, M.H.; El-Hamamsy, I.; Sievers, H.-H.; Carabello, B.A.; Bonow, R.O.; Stelzer, P .; da Costa, F.D.A.; Schäfers, H.J.; Skillington,
+P .; Charitos, E.I.; et al. Under-use of the Ross operation—A lost opportunity.Lancet 2014, 384, 559–560. [CrossRef] [PubMed]
+6. Gott, V .L.; Alejo, D.E.; Cameron, D.E. Mechanical heart valves: 50 years of evolution.Ann. Thorac. Surg. 2003, 76, S2230–S2239.
+[CrossRef]
+7. Matthews, A.M. The development of the Starr-Edwards heart valve. Tex. Heart Inst. J. 1998, 25, 282–293.
+8. Otto, C.M.; Nishimura, R.A.; Bonow, R.O.; Carabello, B.A.; Erwin, J.P .; Gentile, F.; Jneid, H.; Krieger, E.V .; Mack, M.; McLeod, C.;
+et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: Executive Summary: A Report of
+the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J. Am. Coll.
+Cardiol. 2021, 77, 450–500.
+9. Yap, C.-H.; Yii, M. Allograft aortic valve replacement in the adult: A review. Heart Lung Circ. 2004, 13, 41–51. [CrossRef]
+10. Kostyunin, A.E.; Yuzhalin, A.E.; Rezvova, M.A.; Ovcharenko, E.A.; Glushkova, T.V .; Kutikhin, A.G. Degeneration of Bioprosthetic
+Heart Valves: Update 2020. J. Am. Heart Assoc. 2020, 9, e018506. [CrossRef]
+11. Tillquist, M.N.; Maddox, T. Cardiac crossroads: Deciding between mechanical or bioprosthetic heart valve replacement. Patient
+Prefer. Adherence 2011, 5, 91–99. [CrossRef]
+12. Stradins, P . Comparison of biomechanical and structural properties between human aortic and pulmonary valve. Eur. J.
+Cardio-Thorac. Surg. 2004, 26, 634–639. [CrossRef]
+13. Van Hoof, L.; Verbrugghe, P .; Jones, E.A.; Humphrey, J.D.; Janssens, S.; Famaey, N.; Rega, F. Understanding Pulmonary Autograft
+Remodeling After the Ross Procedure: Stick to the Facts. Front. Cardiovasc. Med. 2022, 9, 829120.
+14. Stelzer, P .; Weinrauch, S.; Tranbaugh, R.F. Ten years of experience with the modified Ross procedure.J. Thorac. Cardiovasc. Surg.
+1998, 115, 1091–1100. [CrossRef] [PubMed]
+15. Reece, T.B.; Welke, K.F.; O’brien, S.; Grau-Sepulveda, M.V .; Grover, F.L.; Gammie, J.S. Rethinking the Ross Procedure in Adults.
+Ann. Thorac. Surg. 2014, 97, 175–181. [CrossRef] [PubMed]
+16. Mazine, A.; El-Hamamsy, I.; Verma, S.; Peterson, M.D.; Bonow, R.O.; Yacoub, M.H.; David, T.E.; Bhatt, D.L. Ross Procedure in
+Adults for Cardiologists and Cardiac Surgeons: JACC State-of-the-Art Review. J. Am. Coll. Cardiol. 2018, 72, 2761–2777.
+17. Vojáˇ cek, J.; El-Hamamsy, I.; Ondrášek, J.; Žáˇ cek, P .; Fila, P .; Voborník, M.; Špatenka, J. Current status of the Ross procedure in
+aortic valve surgery. Cor Vasa 2017, 59, e71–e76. [CrossRef]
+18. David, T.E.; David, C.; Woo, A.; Manlhiot, C. The Ross procedure: Outcomes at 20 years.J. Thorac. Cardiovasc. Surg. 2014, 147,
+85–94. [CrossRef]
+19. David, T.E.; Ouzounian, M.; David, C.M.; Lafreniere-Roula, M.; Manlhiot, C. Late results of the Ross procedure. J. Thorac.
+Cardiovasc. Surg. 2019, 157, 201–208. [CrossRef]
+20. Andreas, M.; Wiedemann, D.; Seebacher, G.; Rath, C.; Aref, T.; Rosenhek, R.; Heinze, G.; Eigenbauer, E.; Simon, P .; Ruetzler, K.;
+et al. The Ross procedure offers excellent survival compared with mechanical aortic valve replacement in a real-world setting.
+Eur. J. Cardio-Thorac. Surg. 2014, 46, 409–414. [CrossRef]
+21. Sharabiani, M.T.; Dorobantu, D.M.; Mahani, A.S.; Turner, M.; Tometzki, A.J.P .; Angelini, G.D.; Parry, A.J.; Caputo, M.; Stoica,
+S.C. Aortic Valve Replacement and the Ross Operation in Children and Young Adults.J. Am. Coll. Cardiol. 2016, 67, 2858–2870.
+[CrossRef] [PubMed]
+22. Aboud, A.; Charitos, E.I.; Fujita, B.; Stierle, U.; Reil, J.-C.; Voth, V .; Liebrich, M.; Andreas, M.; Holubec, T.; Bening, C.; et al.
+Long-Term Outcomes of Patients Undergoing the Ross Procedure. J. Am. Coll. Cardiol. 2021, 77, 1412–1422. [CrossRef] [PubMed]
+23. Liebrich, M.; Charitos, E.I.; Dingemann, C.; Roser, D.; Seeburger, J.; Hemmer, W.; Voth, V . The reinforced full-root technique
+for the Ross operation: Surgical considerations and operative insights. Ann. Cardiothorac. Surg. 2021, 10, 485–490. [CrossRef]
+[PubMed]
+24. Mazine, A.; Ghoneim, A.; El-Hamamsy, I. The Ross Procedure: How I Teach It.Ann. Thorac. Surg. 2018, 105, 1294–1298. [CrossRef]
+25. Bouhout, I.; Ghoneim, A.; Tousch, M.; Stevens, L.M.; Semplonius, T.; Tarabzoni, M.; Poirier, N.; Cartier, R.; Demers, P .; Guo, L.;
+et al. Impact of a tailored surgical approach on autograft root dimensions in patients undergoing the Ross procedure for aortic
+regurgitation. Eur. J. Cardio-Thorac. Surg. 2019, 56, 959–967. [CrossRef]
+[[p17]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 17 of 19
+26. Tudorache, I.; Theodoridis, K.; Baraki, H.; Sarikouch, S.; Bara, C.; Meyer, T.; Höffler, K.; Hartung, D.; Hilfiker, A.; Haverich, A.;
+et al. Decellularized aortic allografts versus pulmonary autografts for aortic valve replacement in the growing sheep model:
+Haemodynamic and morphological results at 20 months after implantation. Eur. J. Cardio-Thorac. Surg. 2015, 49, 1228–1238.
+[CrossRef]
+27. Schmidtke, C.; Bechtel, J.F.; Noetzold, A.; Sievers, H.H. Up to seven years of experience with the Ross procedure in patients
+>60 years of age. J. Am. Coll. Cardiol. 2000, 36, 1173–1177. [CrossRef]
+28. Hage, A.; Hage, F.; Valdis, M.; Guo, L.; Chu, M.W.A. The Ross procedure is the optimal solution for young adults with unrepairable
+aortic valve disease. Ann. Cardiothorac. Surg. 2021, 10, 454–462. [CrossRef]
+29. Galzerano, D.; Kholaif, N.; Al Amro, B.; Al Admawi, M.; Eltayeb, A.; Alshammari, A.; Di Salvo, G.; Al-Halees, Z.Y. The Ross
+Procedure: Imaging, Outcomes and Future Directions in Aortic Valve Replacement. J. Clin. Med. 2024, 13, 630. [CrossRef]
+30. Jahanyar, J.; Tsai, P .I.; Arabkhani, B.; Aphram, G.; Mastrobuoni, S.; El Khoury, G.; de Kerchove, L. Functional and pathomor-
+phological anatomy of the aortic valve and root for aortic valve sparing surgery in tricuspid and bicuspid aortic valves. Ann.
+Cardiothorac. Surg. 2023, 12, 179–193. [CrossRef]
+31. Sundjaja, J.; Bordoni, B. Anatomy, Thorax, Heart Pulmonic Valve. In StatPearls; StatPearls Publishing: Treasure Island, FL, USA,
+2023.
+32. Wenn, P .; Zeltser, R. Aortic Valve Disease. In StatPearls; StatPearls Publishing: Treasure Island, FL, USA, 2023.
+33. Merlo, A.; Chen, K.; Deo, S.; Markowitz, A. Does routine preoperative computed tomography imaging provide clinical utility in
+patients undergoing primary cardiac surgery? Interact. Cardiovasc. Thorac. Surg. 2017, 25, 659–662. [PubMed]
+34. Brothers, J.A.; Kim, T.S.; Fogel, M.A.; Whitehead, K.K.; Morrison, T.M.; Paridon, S.M.; Harris, M.A. Cardiac magnetic resonance
+imaging characterizes stenosis, perfusion, and fibrosis preoperatively and postoperatively in children with anomalous coronary
+arteries. J. Thorac. Cardiovasc. Surg. 2016, 152, 205–210. [CrossRef]
+35. Poh, C.L.; Buratto, E.; Larobina, M.; Wynne, R.; O’keefe, M.; Goldblatt, J.; Tatoulis, J.; Skillington, P .D. The Ross procedure in
+adults presenting with bicuspid aortic valve and pure aortic regurgitation: 85% freedom from reoperation at 20 years. Eur. J.
+Cardio-Thorac. Surg. 2018, 54, 420–426. [CrossRef]
+36. Leyh, R.G.; Kofidis, T.; Fischer, S.; Kallenbach, K.; Harringer, W.; Haverich, A. Aortic root reimplantation for successful repair of
+an insufficient pulmonary autograft valve after the Ross procedure. J. Thorac. Cardiovasc. Surg. 2002, 124, 1048–1049. [CrossRef]
+[PubMed]
+37. Williams, A.E.; El-Hamamsy, I. The Ross Procedure. Oper. Tech. Thorac. Cardiovasc. Surg. 2021, 26, 189–209. [CrossRef]
+38. Peng, R.; Ba, J.; Wang, C.; Lai, H.; Hu, K.; Shi, H. A New Venous Drainage Technique in Minimally Invasive Redo Tricuspid
+Surgery: Vacuum-Assist Venous Drainage via a Single Femoral Venous Cannula.Heart Lung Circ. 2017, 26, 201–204. [CrossRef]
+[PubMed]
+39. Wong, R.H.L.; Ho, J.Y.K.; Underwood, M.J. Chapter 48—Complex Reoperative Thoracic Aortic Surgery: Tactics and Techniques.
+In New Approaches to Aortic Diseases from Valve to Abdominal Bifurcation; Tintoiu, I.C., Elefteriades, J.A., Ursulescu, A., Underwood,
+M.J., Droc, I., Eds.; Academic Press: Cambridge, MA, USA, 2018; pp. 515–528.
+40. Flynn, C.D.; De Bono, J.H.; Muston, B.; Rattan, N.; Tian, D.H.; Larobina, M.; O’keefe, M.; Skillington, P . Systematic review and
+meta-analysis of long-term outcomes in adults undergoing the Ross procedure. Ann. Cardiothorac. Surg. 2021, 10, 411–419.
+[CrossRef]
+41. Wang, X.; Bakhuis, W.; Veen, K.M.; Bogers, A.J.J.C.; Etnel, J.R.G.; van Der Ven, C.C.E.M.; Roos-Hesselink, J.W.; Andrinopoulou,
+E.-R.; Takkenberg, J.J.M. Outcomes after right ventricular outflow tract reconstruction with valve substitutes: A systematic review
+and meta-analysis. Front. Cardiovasc. Med. 2022, 9, 897946. [CrossRef]
+42. Brown, K.N.; Kanmanthareddy, A. Ross Procedure for Aortic Valve Replacement. InStatPearls; StatPearls Publishing: Treasure
+Island, FL, USA, 2025.
+43. da Costa, F.D.A.; Etnel, J.R.G.; Torres, R.; Filho, E.M.B.; Torres, R.; Calixto, A.; Mulinari, L.A. Decellularized Allografts for Right
+Ventricular Outflow Tract Reconstruction in Children.World J. Pediatr. Congenit. Heart Surg. 2017, 8, 605–612. [CrossRef]
+44. Chauvette, V .; Bouhout, I.; Tarabzoni, M.; Pham, M.; Wong, D.; Whitlock, R.; Chu, M.W.; El-Hamamsy, I.; Lefebvre, L.; Poirier,
+N.; et al. Pulmonary homograft dysfunction after the Ross procedure using decellularized homografts—A multicenter study. J.
+Thorac. Cardiovasc. Surg. 2022, 163, 1296–1305.e3. [CrossRef]
+45. Barile, L.; Fominskiy, E.; Di Tomasso, N.; Castro, L.E.A.; Landoni, G.; De Luca, M.; Bignami, E.; Sala, A.; Zangrillo, A.; Monaco, F.
+Acute Normovolemic Hemodilution Reduces Allogeneic Red Blood Cell Transfusion in Cardiac Surgery: A Systematic Review
+and Meta-analysis of Randomized Trials. Anesth. Analg. 2017, 124, 743–752. [CrossRef]
+46. Weerasinghe, A.; Taylor, K.M. The platelet in cardiopulmonary bypass. Ann. Thorac. Surg. 1998, 66, 2145–2152. [PubMed]
+47. Greilich, P .E.; Carr, J.; Carr, S.L.; Chang, A.S. Reductions in platelet force development by cardiopulmonary bypass are associated
+with hemorrhage. Anesth. Analg. 1995, 80, 459–465.
+48. O’Carroll-Kuehn, B.U.; Meeran, H. Management of coagulation during cardiopulmonary bypass. Contin. Educ. Anaesth. Crit. Care
+Pain 2007, 7, 195–198.
+[[p18]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 18 of 19
+49. Monaco, F.; Guarracino, F.; Vendramin, I.; Lei, C.; Zhang, H.; Lomivorotov, V .; Osinsky, R.; Efremov, S.; Gürcü, M.E.; Mazzeffi, M.;
+et al. Acute normovolemic hemodilution in cardiac surgery: Rationale and design of a multicenter randomized trial. Contemp.
+Clin. Trials 2024, 143, 107605. [CrossRef] [PubMed]
+50. Murray, D. Acute normovolemic hemodilution. Eur. Spine J. 2004, 13 (Suppl. S1), S72–S75.
+51. Ranucci, M.; Biagioli, B.; Scolletta, S.; Grillone, G.; Cazzaniga, A.; Cattabriga, I.; Isgrò, G.; Giomarelli, P . Lowest hematocrit on car-
+diopulmonary bypass impairs the outcome in coronary surgery: An Italian Multicenter Study from the National Cardioanesthesia
+Database. Tex. Heart Inst. J. 2006, 33, 300–305.
+52. Hofmann, B.; Kaufmann, C.; Stiller, M.; Neitzel, T.; Wienke, A.; Silber, R.-E.; Treede, H. Positive impact of retrograde autologous
+priming in adult patients undergoing cardiac surgery: A randomized clinical trial. J. Cardiothorac. Surg. 2018, 13, 50. [CrossRef]
+53. Horvath, K.A.; Chang, H.; Bagiella, E.; Smith, P .K.; Iribarne, A.; Kron, I.L.; Lackner, P .; Argenziano, M.; Ascheim, D.D.; Gelijns,
+A.C.; et al. Blood Transfusion and Infection After Cardiac Surgery. Ann. Thorac. Surg. 2013, 95, 2194–2201. [CrossRef]
+54. Swaminathan, M.; Phillips-Bute, B.G.; Conlon, P .J.; Smith, P .K.; Newman, M.F.; Stafford-Smith, M. The association of lowest
+hematocrit during cardiopulmonary bypass with acute renal injury after coronary artery bypass surgery. Ann. Thorac. Surg. 2003,
+76, 784–791. [CrossRef]
+55. Foreman, E.; Eddy, M.; Holdcombe, J.; Warren, P .; Gebicke, L.; Raney, P .; Clements, W.; Zellner, J. To RAP or Not to RAP: A
+Retrospective Comparison of the Effects of Retrograde Autologous Priming. J. Extracorpor. Technol. 2021, 53, 279–285. [CrossRef]
+56. Likhvantsev, V .V .; Landoni, G.; Levikov, D.I.; Grebenchikov, O.A.; Skripkin, Y.V .; Cherpakov, R.A. Sevoflurane Versus Total
+Intravenous Anesthesia for Isolated Coronary Artery Bypass Surgery With Cardiopulmonary Bypass: A Randomized Trial.J.
+Cardiothorac. Vasc. Anesth. 2016, 30, 1221–1227. [CrossRef] [PubMed]
+57. Landoni, G.; Lomivorotov, V .V .; Neto, C.N.; Monaco, F.; Pasyuga, V .V .; Bradic, N.; Lembo, R.; Gazivoda, G.; Likhvantsev, V .V .; Lei,
+C.; et al. Volatile Anesthetics versus Total Intravenous Anesthesia for Cardiac Surgery. N. Engl. J. Med. 2019, 380, 1214–1225.
+[CrossRef]
+58. A Lobova, V .; Roll, J.M.; Roll, M.L.C. Intraoperative Methadone Use in Cardiac Surgery: A Systematic Review.Pain Med. 2021, 22,
+2827–2834. [CrossRef]
+59. Wang, D.J.; Song, P .; Nault, K.M. Impact of intraoperative methadone use on postoperative opioid requirements after cardiac
+surgery. Am. J. Health Pharm. 2021, 79, 636–642. [CrossRef]
+60. Edwards, J.N.; Whitney, M.A.; Smith, B.B.; Fah, M.K.; Petty, S.A.B.; Durra, O.; Sell-Dottin, K.A.; Portner, E.; Wittwer, E.D.; Milam,
+A.J. The role of methadone in cardiac surgery for management of postoperative pain. BJA Open 2024, 10, 100270. [CrossRef]
+61. Murphy, G.S.; Szokol, J.W.; Avram, M.J.; Greenberg, S.B.; Marymont, J.H.; Shear, T.; Parikh, K.N.; Patel, S.S.; Gupta, D.K.
+Intraoperative Methadone for the Prevention of Postoperative Pain. Anesthesiology 2015, 122, 1112–1122. [CrossRef] [PubMed]
+62. Brinck, E.C.; Tiippana, E.; Heesen, M.; Bell, R.F.; Straube, S.; Moore, R.A.; Kontinen, V . Perioperative intravenous ketamine for
+acute postoperative pain in adults. Cochrane Database Syst. Rev. 2018, 12, CD012033. [CrossRef]
+63. Avidan, M.S.; Maybrier, H.R.; Ben Abdallah, A.; Jacobsohn, E.; E Vlisides, P .; O Pryor, K.; A Veselis, R.; Grocott, H.P .; A Emmert,
+D.; Rogers, E.M.; et al. Intraoperative ketamine for prevention of postoperative delirium or pain after major surgery in older
+adults: An international, multicentre, double-blind, randomised clinical trial. Lancet 2017, 390, 267–275. [CrossRef]
+64. Mazzeffi, M.; Johnson, K.; Paciullo, C. Ketamine in adult cardiac surgery and the cardiac surgery Intensive Care Unit: An
+evidence-based clinical review. Ann. Card. Anaesth. 2015, 18, 202–209. [CrossRef]
+65. Mamoun, N.F.; Lin, P .; Zimmerman, N.M.; Mascha, E.J.; Mick, S.L.; Insler, S.R.; Sessler, D.I.; Duncan, A.E. Intravenous ac-
+etaminophen analgesia after cardiac surgery: A randomized, blinded, controlled superiority trial. J. Thorac. Cardiovasc. Surg. 2016,
+152, 881–889.e1. [CrossRef]
+66. Young, A.M.; Strobel, R.J.; Rotar, E.P .; Kleiman, A.; McNeil, J.S.; Teman, N.R.; Hawkins, R.B.; Raphael, J.; Mehaffey, J.H.
+Perioperative acetaminophen is associated with reduced acute kidney injury after cardiac surgery. J. Thorac. Cardiovasc. Surg.
+2024, 167, 1372–1380. [CrossRef]
+67. Krishna, S.N.; Chauhan, S.; Bhoi, D.; Kaushal, B.; Hasija, S.; Sangdup, T.; Bisoi, A.K. Bilateral Erector Spinae Plane Block for Acute
+Post-Surgical Pain in Adult Cardiac Surgical Patients: A Randomized Controlled Trial. J. Cardiothorac. Vasc. Anesth. 2019, 33,
+368–375. [CrossRef]
+68. Kumar, A.K.; Chauhaan, S.; Bhoi, D.; Kaushal, B. Pectointercostal Fascial Block (PIFB) as a Novel Technique for Postoperative
+Pain Management in Patients Undergoing Cardiac Surgery. J Cardiothorac Vasc Anesth. 2021, 35, 116–122. [CrossRef]
+69. Zhang, Y.; Li, X.; Chen, S. Bilateral transversus thoracis muscle plane block provides effective analgesia and enhances recovery
+after open cardiac surgery. J. Card. Surg. 2021, 36, 2818–2823. [CrossRef]
+70. Mansour, M.A.; Mahmoud, H.E.; Fakhry, D.M.; Kassim, D.Y. Comparison of the effects of transversus thoracic muscle plane
+block and pecto-intercostal fascial block on postoperative opioid consumption in patients undergoing open cardiac surgery: A
+prospective randomized study. BMC Anesthesiol. 2024, 24, 63. [CrossRef]
+[[p19]]
+J. Cardiovasc. Dev. Dis. 2025, 12, 126 19 of 19
+71. Wang, L.; Jiang, L.; Jiang, B.; Xin, L.; He, M.; Yang, W.; Zhao, Z.; Feng, Y. Effects of pecto-intercostal fascial block combined with
+rectus sheath block for postoperative pain management after cardiac surgery: A randomized controlled trial. BMC Anesthesiol.
+2023, 23, 90. [CrossRef]
+72. Boyd, W.C.; Thomas, S.J. Pro: Magnesium should be administered to all coronary artery bypass graft surgery patients undergoing
+cardiopulmonary bypass. J. Cardiothorac. Vasc. Anesth. 2000, 14, 339–343.
+73. Miller, S.; Crystal, E.; Garfinkle, M.; Lau, C.; Lashevsky, I.; Connolly, S.J. Effects of magnesium on atrial fibrillation after cardiac
+surgery: A meta-analysis. Heart 2005, 91, 618–623. [CrossRef]
+74. Cadaroni, F.; Skillington, P .; O’Keefe, M.; Buratto, E.; Wynne, R. Twenty-five years of the ross operation in adults: The inclusion
+technique keeps up the expectations. J. Thorac. Cardiovasc. Surg. 2025, 19, S0022-5223(25)00029-7. [CrossRef]
+75. Grant, M.C.; Isada, T.; Ruzankin, P .; Whitman, G.; Lawton, J.S.; Dodd-O, J.; Barodka, V .; Ibekwe, S.; Mihocsa, A.B.; Gottschalk,
+A.; et al. Results from an enhanced recovery program for cardiac surgery. J. Thorac. Cardiovasc. Surg. 2020, 159, 1393–1402.e7.
+[CrossRef] [PubMed]
+76. Wong, W.-T.; Lai, V .K.; Chee, Y.E.; Lee, A. Fast-track cardiac care for adult cardiac surgical patients.Cochrane Database Syst. Rev.
+2016, 2016, CD003587. [CrossRef] [PubMed]
+77. Shanewise, J.S.; Cheung, A.T.; Aronson, S.; Stewart, W.J.; Weiss, R.L.; Mark, J.B.; Savage, R.M.; Sears-Rogan, P .; Mathew,
+J.P .; Quiñones, M.A.; et al. ASE/SCA guidelines for performing a comprehensive intraoperative multiplane transesophageal
+echocardiography examination: Recommendations of the American Society of Echocardiography Council for Intraoperative
+Echocardiography and the Society of Cardiovascular Anesthesiologists Task Force for Certification in Perioperative Trans-
+esophageal Echocardiography. Anesth. Analg. 1999, 89, 870–884. [PubMed]
+78. Zoghbi, W.A.; Adams, D.; Bonow, R.O.; Enriquez-Sarano, M.; Foster, E.; Grayburn, P .A.; Hahn, R.T.; Han, Y.; Hung, J.; Lang, R.M.;
+et al. Recommendations for Noninvasive Evaluation of Native Valvular Regurgitation: A Report from the American Society of
+Echocardiography Developed in Collaboration with the Society for Cardiovascular Magnetic Resonance. J. Am. Soc. Echocardiogr.
+2017, 30, 303–371. [CrossRef]
+79. Denault, A.Y.; Couture, P .; Buithieu, J.; Haddad, F.; Carrier, M.; Babin, D.; Levesque, S.; Tardif, J.-C. Left and right ventricular
+diastolic dysfunction as predictors of difficult separation from cardiopulmonary bypass. Can. J. Anaesth. 2006, 53, 1020–1029.
+[CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

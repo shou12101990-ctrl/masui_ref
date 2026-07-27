@@ -1,0 +1,691 @@
+
+[[p1]]
+CARDIOVASCULAR ANESTHESIA (A MAHAJAN, SECTION EDITOR)
+Perioperative Care of Adults with Congenital Heart Disease
+for Non-cardiac Surgery
+Kimberly Howard-Quijano • Michelle Smith •
+Johanna C. Schwarzenberger
+Published online: 2 July 2013
+/C211 Springer Science + Business Media New York 2013
+Abstract In 2010 it was estimated that 1.2 million young
+adults in the United States have some form of congenital
+heart disease (CHD). Data from large adult congenital heart
+disease (ACHD) centers show that as many as 50 % of
+these patients are over 40 years of age. As this population
+ages, physicians are likely to encounter such patients in
+their practice. Risk stratiﬁcation and an interdisciplinary
+approach are paramount in achieving safe outcomes. The
+assessment of the patient must consider the variable
+expression of CHD. As most lesions are ‘‘ﬁxed but not
+cured’’ the altered physiology of the heart and the physi-
+ological challenges of surgical interventions must be con-
+sidered. The 2008 AHA/ACC guidelines for the
+Management of Adults with CHD establish for the ﬁrst
+time a streamlined approach to the care of these patients.
+This review will apply these guidelines to the ACHD
+patient undergoing non-cardiac surgery.
+Keywords Adult congenital heart disease /C1
+Perioperative /C1General anesthesia /C1Heart failure /C1
+Pulmonary hypertension /C1Eisenmenger
+Introduction
+Diagnostic and therapeutic advancements in pediatric car-
+diology, cardiac surgery, anesthesiology, and intensive care
+have contributed to increased survival in patients with
+congenital heart disease (CHD). This has led to a shift in
+the population of CHD patients, with a rising number
+surviving to 40 years of age and beyond. Today, the
+number of adults with congenital heart disease (ACHD)
+exceeds children afﬂicted by the disease. As this population
+ages, they will likely present for non-cardiac procedures in
+increasing numbers. The American College of Cardiology
+(ACC) and American Heart Association (AHA) drafted
+guidelines detailing the desired management of ACHD,
+including recommendations for those undergoing non-car-
+diac surgery [ 1]. However this advice is based on level C
+evidence, partially due to the paucity of studies that
+examine the risks and outcomes of the ACHD patient
+undergoing non-cardiac interventions. This review aims to
+elucidate ways to risk stratify and coordinate the care of
+this diverse patient population.
+Peri Procedural Risk Assessment and Stratiﬁcation
+While there are risk stratiﬁcation guidelines for adult
+patients undergoing non-cardiac surgery, perioperative risk
+in adults with CHD is harder to evaluate. There is no
+uniform way of assessing cardiac function in the structur-
+ally altered heart with superimposed cardiac disease of
+adulthood. Only limited data is available on the perioper-
+ative risk stratiﬁcation of ACHD patients undergoing non-
+cardiac surgery. However, information on mortality and
+morbidity in ACHD offers some insight into the risks
+associated with this population. Price et al. [ 2] describes
+K. Howard-Quijano ( &) /C1M. Smith /C1J. C. Schwarzenberger
+Department of Anesthesiology at the David Geffen School
+of Medicine, Ronald Reagan UCLA Medical Center, University
+of California, Los Angeles (UCLA), 757 Westwood Plaza,
+Suite 3325, Los Angeles, CA 90095, USA
+e-mail: khquijano@mednet.ucla.edu
+M. Smith
+e-mail: mmsmith2@mednet.ucla.edu
+J. C. Schwarzenberger
+e-mail: jschwarzenberger@mednet.ucla.edu
+123
+Curr Anesthesiol Rep (2013) 3:144–150
+DOI 10.1007/s40140-013-0023-8
+[[p2]]
+the altered outcome of a non-homogenous sample of
+ACHD patients undergoing low to high-risk non-cardiac
+surgery. While adult patients did not demonstrate a higher
+perioperative mortality, as reported in small infants, they
+were prone to higher resource utilization and longer
+intensive care unit (ICU) stays independent of the operative
+procedure. Using the national inpatient sample (NIS) data
+set, Rodriguez et al. [ 3
+••] investigated the prevalence of
+patients admitted to a US hospital in 2007 who carried the
+diagnosis of atrial septal defect (ASD) or ventricular septal
+defect (VSD). There were 84,308 admissions of adult
+patients who carried a diagnosis of CHD. Higher risk of
+inpatient mortality was seen in patients classiﬁed as young
+(18–30 years of age), or as very old ( [50 years of age).
+This suggests that the patients in the 30–50 year old group
+had selected themselves by having mild forms of septal
+defects without the added comorbidities of older age.
+Verheugt et al. [ 4] investigated the causes of mortality in
+this unique patient population by linking the Dutch national
+registry for ACHD patients with the national death registry
+between the years 2002–2009. They found excessive
+mortality associated with ACHD when compared to the
+general population. Heart failure (HF) and sudden death
+were the most common causes of mortality for both young
+adults and older patients. Predictors of mortality were; age,
+gender, complexity of the cardiac lesion, and number of
+interventions/complications. In addition, factors such as
+endocarditis, arrhythmias, pulmonary artery hypertension,
+conduction disturbances, and myocardial infarctions were
+predictors of worsening outcomes regardless of complexity
+of the cardiac lesion, age, and gender.
+The 2008 ACC/AHA guidelines for the management of
+adults with CHD include a categorization of ACHD as low,
+moderate or high risk [ 1]. Low risk lesions are congenital
+cardiac lesions that are considered simple, as shown in
+s?PM?h??????K
+lesions such as-patent ductus arteriosus (PDA), isolated
+atrial, and/or VSDs (without residual shunt) can be con-
+sidered cured for life. Patients with simple CHD may have
+been ‘‘discharged’’ from their cardiologist and no longer
+receive follow-up. A detailed history regarding exercise
+tolerance, syncope, palpitations, episodes of dizziness or
+‘‘blue spells’’ will determine whether referral to an ACHD
+cardiologist at a regional center is required. If these
+symptoms are not present, patients in the low risk category
+can receive standard perioperative care and do not require
+transfer to a specialized center.
+Virtually all-remaining CHD lesions carry residual
+problems even after successful interventions that may
+result in progressive structural, contractile, hemodynamic,
+and electrophysiological changes of the heart. Patients in
+the moderate or high-risk category should be cared for at
+specialized centers, irrespective of the type of the
+K??s?PM?h????K?L
+organ dysfunction (CNS, lung, kidney) may result from
+repeated surgical interventions as well as from the long-
+term effects of cyanosis, polycythemia, cerebro-vascular
+accident, and pulmonary hypertension (PAH). In assessing
+patients pre-operatively, the most important consideration
+is the propensity for progression to a low cardiac output
+state, as well as, the presence of PAH, HF, cyanosis,
+conduction defects, or residual shunts. Patients with cya-
+notic CHD, especially with associated PAH are especially
+high risk.
+A point system for the risk stratiﬁcation of the CHD
+patient prior to undergoing a procedure was developed by
+Mossad (Table 2). A sum total of 0–6 points indicates
+minimal perianesthesia risk and interventions can be per-
+formed on an outpatient basis. A total of 6–13 points
+indicates moderate perianesthesia risk and procedures can
+possibly be performed with same day of admission, how-
+ever transfer to a specialized CHD center may be
+Table 1 Categorization of CHD lesion complexity and risk
+Low risk
+Small atrial septal defect
+Isolated small ventricular septal defect (no associated lesions)
+Small patent ductus arteriosus
+Repaired patent ductus arteriosus, secundum or sinus venosus
+atrial septal defect (without residua), or ventricular septal
+defect (without residua)
+Moderate risk
+Anomalous pulmonary venous drainage, partial or total
+Atrioventricular septal defects (partial or complete)
+Coarctation (CoA) of the aorta
+Ebstein’s anomaly
+Pulmonary valve regurgitation (moderate to severe)
+Pulmonary valve stenosis (moderate to severe)
+Valvular aortic stenosis (AS) or supra AS, except hypertrophic
+obstructive cardiomyopathy (HOCM)
+Tetralogy of fallot
+Ventricular septal defect with other cardiac lesions
+High risk
+Conduits, valved or non-valved
+Cyanotic congenital heart (all forms)
+Double-outlet ventricle
+Eisenmenger syndrome
+Fontan procedure
+Mitral atresia
+Single ventricle (also called double inlet or outlet, common, or
+primitive)
+Pulmonary atresia (all forms)
+Transposition of the great arteries
+Tricuspid atresia
+Truncus arteriousus
+Curr Anesthesiol Rep (2013) 3:144–150 145
+123
+[[p3]]
+considered. High perianesthesia risk is indicated by a total
+of 14–20 points. Procedures for these patients should be
+performed in a specialized center and intensive care
+admission should be considered. Almost all patients in the
+high-risk (14–20 point) category will beneﬁt from pre-
+operative cardiac catheterization. The cardiac catheteriza-
+tion has the following goals: (1) the delineation of ﬂow
+through the pulmonary ( Qp) versus ﬂow through the sys-
+temic circulation (Qs) or in short Qp:Qs, (2) documentation
+of valve regurgitation or obstruction, (3) measurements to
+discern volume loaded versus pressure loaded ventricle,
+and (4) assessment of PAH and testing of reactivity to
+pulmonary vasodilator therapy. Patients with residual
+lesions seen on cardiac catheterization, may undergo
+catheter-based intervention prior to planned non-cardiac
+surgery. Cardiac catheterization remains an excellent tool
+for targeted congestive HF therapy and possible electro-
+physiological testing and intervention (ablation/anti-
+tachycardia therapy, pacemaker, cardiac re-synchroniza-
+tion). Exercise stress testing (treadmill or stress echo) may
+be employed to assess cardiac function and may help
+determine how a patient will respond when challenged
+perioperatively with sudden volume or blood pressure
+changes.
+Arrhythmias
+CHD patients are at increased risk for developing arrhyth-
+mias due to chamber enlargement, surgical incisions, and
+ﬁbrosis. These changes can be due to the intrinsic nature of
+the anomaly or changes in the myocardium associated with
+repair or palliation [ 5
+••, 6]. Increased frequency of
+arrhythmias occurs in those patients who underwent late
+repair for lesions such as ASD. Atrial ﬁbrillation can be seen
+in CHD patients that are deemed low risk such as bicuspid
+aortic valve or mitral valve prolapse. Intra-atrial reentrant
+tachycardias are more commonly seen in patients with pal-
+liated lesions such as Fontan or atrial bafﬂes for transposi-
+tion of the great arteries (TGA). Ebstein’s anomaly is
+associated with Wolfe-Parkinson’s White syndrome in 20 %
+of cases, most often when the valve is displaced in the
+posterior septal location [ 6]. Ventricular arrhythmias can
+also be seen in patients who have undergone a ventriculot-
+omy (related to scar) or have right ventricular pressure
+overload. Right ventricular pressure overload is commonly
+seen in single ventricle patients with the right ventricle
+serving as the systemic ventricle, as well as, in patients with
+Eisenmenger syndrome or Ebstein’s anomaly. Implantable
+cardiac deﬁbrillators should be placed in patients with
+documented ventricular tachycardia (VT) or increased risk
+for VT. In addition, patients may require rate control, anti-
+coagulation, or evaluation for cardiac thrombi and possible
+ablation of arrhythmic foci.
+Heart Failure
+Acquired HF in the general population is most often caused
+by coronary artery disease and ischemia, and there are
+well-established severity classiﬁcation and treatment
+algorithms for this homogenous patient population. Clas-
+siﬁcation and therapy of HF associated with ACHD is less
+well established. Patients with ACHD have been excluded
+from a majority of randomized controlled trials of treat-
+ments (i.e., beta blockers, angiotensin-converting enzyme
+Table 2 Point system to assess ACHD patient
+012
+CHD diagnosis Simple (ASD) Moderate (ASD ? PS) Severe (TOF)
+CHD intervention Corrected, no residual Corrected with residual Palliated
+Ventricular obstruction None Yes, gradient \49 mmHg Yes, gradient [50 mmHg
+Ventricle, number, and position 2 LV is systemic ventricle 1 LV is systemic ventricle 1 RV is systemic ventricle
+Dysfunction systemic ventricle Mild Moderate Severe
+PVR Normal, \2 wood units 2–4 wood units [4 wood units
+SAO
+Q?zXO?D?VT–XO?D?{VT?D
+g?RO–ST?D?QT–RO?DK??ST–UT?D?zUT?D
+Arrhythmias Seldom Atrial Level Ventricular level
+No. of cardiac medications 1 2 C3
+Add points for each line, and then assess risk according to total sum: 0–6 points, minimal peri-anesthesia risk, (outpatient), 6–13 points, moderate
+peri-anesthesia risk (possible same day admit), 14–20 points, high peri-anesthesia risk (possible ICU admit)
+Modiﬁed from Mosad E, presented during Society of Cardiothoracic Annual meeting 2002
+ASD atrial septal defect, PS pulmonary stenosis, TOF tetralogy of fallot, LV left ventricle, RV right ventricle, PVR pulmonary vascular resistance,
+SAO
+2 systemic oxygen saturation, Hct hematocrit
+From Howard-Quijano and Schwarzenberger [ 27]. With permission from Wolters Kluwer Health
+146 Curr Anesthesiol Rep (2013) 3:144–150
+123
+[[p4]]
+inhibitors (ACE-I), angiotensin II receptor blockers
+(ARB)) for HF. It is unclear if the existing guidelines can
+serve the ACHD population [ 7, 8]. Many ACHD heart
+patients experience a combination of volume and pressure
+overload that cause the myocardium to fail. HF is more
+likely to occur in palliated hearts afﬂicted with Tetralogy
+of Fallot or hypoplastic left heart. Per the 2009 ACC/AHA
+guidelines on management of HF, patients with ACHD are
+classiﬁed at least as stage B HF given structural heart
+disease even when asymptomatic [ 9].
+Symptoms of HF in the ACHD population can be sim-
+ilar to those with acquired HF however, it may occur as
+early as the second or third decade of life. The neuro-
+chemical proﬁle (increases in B-type natriuretic peptide,
+atrial natriuretic peptide, norepinephrine, and endothelin-1)
+in ACHD with HF is similar to those with acquired HF [ 7].
+These markers mirror NYHA symptoms and ventricular
+function on echo. Symptoms alone may not be reliable for
+the diagnosis of HF in this population, as many ACHD
+patients in chronic compensated HF do not exhibit classic
+symptoms. Some studies have found a 49 % sensitivity
+with using clinical judgment alone to diagnose HF [ 8].
+Echo remains the standard for the evaluation of ventricular
+function. ICD placement for secondary prevention of sud-
+den cardiac death should be considered in patients at risk
+for sudden death [ 8].
+Lesion Speciﬁc Management
+Shunts
+Atrial Septal Defect
+When the atrial septum does not form correctly, a commu-
+nication or (ASD exists between the right and left atrium).
+There are ﬁve different types of ASDs: secundum, primum,
+sinus venosus, coronary sinus, and patent foramen ovale.
+ASDs make up 5–10 % of all congenital heart defects and
+secundum ASD’s are most common, comprising nearly
+80 % of all ASD’s [10]. A probe patent foramen ovale can be
+found in *30 % of adult patients [ 11].
+Atrial septal defects lead to a left to right shunt during
+diastole with the amount of shunting dependent on the size
+of the defect and the relative atrial pressures. This shunting
+can lead to right sided volume overload, pulmonary over-
+circulation, and PAH by the second or third decade of life.
+ASDs repaired prior to 12 years of age can be considered
+cured whereas repair beyond the age of 12 can lead to
+right-sided HF, frequent pulmonary infections, fatigue,
+exercise intolerance and atrial arrhythmias (atrial ﬁbrilla-
+tion/ﬂutter/sick sinus). The longer an ASD remains unre-
+paired, the more likely the patient will develop sequelae
+[12, 13]. Patients with ASD’s should be risk stratiﬁed based
+on the presence of these sequelae.
+Ventricular Septal Defect
+The ventricular septum is a muscular structure separating
+the right and left ventricles. Disruption of the ventricular
+septation causes a VSD resulting in communication
+between the two ventricles. There are four types of VSDs:
+subarterial (or supracristal), perimembranous (or infra-
+cristal), inlet (or canal type), and muscular [ 14
+•] A solitary
+VSD is a common congenital heart defect; however, VSDs
+also occur in 50 % of complex CHD. A VSD can be seen in
+association with chromosomal abnormalities such as tri-
+somy 13, 18, and 21 [ 15]. The inter-ventricular commu-
+nication seen in unrepaired VSDs causes a left to right
+shunt at the ventricular level during systole. The amount of
+shunting is dependent on the size of the VSD and relative
+pressures in the right and left ventricles. If treated before
+*2 years of age with no residual shunt, patients are likely
+to have normal cardiac physiology and function. If left
+untreated, left to right shunting will lead to volume over-
+load in both the right and left ventricle with symptoms of
+PAH and HF often by 20 years of age [ 16, 17].
+Persistent Patent Ductus Arteriosus
+In fetal circulation, the ductus arteriosus shunts blood from
+the main pulmonary artery to the descending aorta. PDA is
+a physiologic shunt that closes functionally within 15 h of
+birth and should close permanently 2–3 weeks after birth.
+Closure normally occurs spontaneously as the result of
+increased oxygen concentrations and decreased circulating
+placental prostaglandins. Persistent PDA is a pathologic
+left to right shunt from the aorta to the main pulmonary that
+continues after birth [18]. The amount of shunting depends
+of the size, length and diameter of the PDA as well as the
+ratio of resistances between the pulmonary and systemic
+vasculature. A small shunt has little physiologic sequelae
+whereas large shunt causes increased pulmonary artery
+blood ﬂow, left heart volume and pulmonary vascular
+resistance as well as pulmonary edema and eventual left
+HF if left untreated.
+This increase in pulmonary vascular resistance can
+become irreversible, leading to PAH and right HF. If pul-
+monary vascular resistance becomes greater, then systemic
+vascular resistance can cause the shunt to reverse to
+right ? left leading to cyanosis, chronic coronary under-
+perfusion, respiratory infections and possible Eisenmenger
+syndrome [ 19]. A large PDA causes a decrease in aortic
+diastolic blood pressure due to backward ﬂow of blood
+from the aorta to the PA leading to decreased coronary
+perfusion and myocardial ischemia. Untreated PDAs have
+Curr Anesthesiol Rep (2013) 3:144–150 147
+123
+[[p5]]
+a mortality rate of *1/3 by 30 years of age and 2/3 by
+60 years of age [ 20•]. A small PDA with minimal shunting
+can be closed percutaneously, often without long-term
+cardiovascular complications. Given the chronic over cir-
+culation of the lungs, they are at increased risk of acute
+respiratory distress syndrome (ARDS) following major
+surgery with large volume shifts.
+Recommendations
+Pre-operative evaluation in patients with unrepaired ASD,
+VSD or PDA should include echocardiography to deter-
+mine the size of the communication, the degree and
+direction of shunting, and to evaluate for additional cardiac
+anomalies. Remaining intra-cardiac shunts have implica-
+tions for surgical procedures that alter the pressure rela-
+tionships in the heart (i.e., laparoscopy with CO
+2
+insufﬂation) or are prone to intra-operative air/fat-embolus
+(craniotomy, orthopedic surgery). Management of ASDs
+and VSDs should focus on avoidance of hypovolemia and
+prevention of paradoxical embolism with air ﬁlters. Pres-
+ence of PAH may trigger the use of a pulmonary artery
+catheter, nitric oxide, and external deﬁbrillator peri-pro-
+cedurally. For patients with VSDs, it is important to note
+that of the surgically corrected patients, 31 % may have
+residual shunts, and, depending on the location of the VSD,
+may have complications of arrhythmias and atrioventricu-
+lar block [ 14
+•]. It may also be imperative to close a PDA
+prior to proceeding with surgery, particularly if large vol-
+ume shifts are anticipated.
+Valvular Disorders
+Bicuspid Aortic Valve
+A normal aortic valve consists of three leaﬂets whereas a
+bicuspid aortic valve consists of two leaﬂets. This is the
+most common congenital cardiac malformation and seen in
+*1–2 % of the population [ 21]. A bicuspid aortic valve
+can be associated with supravalvular or subvalvular
+obstruction and aortic coarctation. Adult patients with a
+bicuspid aortic valve are more likely to have premature
+coronary artery disease and aortic calciﬁcation or stenosis.
+A combination of turbulent ﬂow and genetic alterations in
+tissue matrix can lead to aortic dilation [22, 23]. Aortic root
+dilation predisposes patients to aortic insufﬁciency, while
+dilation of ascending aorta increases the risk of aortic
+dissection.
+Patients with bicuspid aortic valve should be evaluated
+pre-operatively for the presence of aortic stenosis, insufﬁ-
+ciency, or aortic dilation. Management of patients with
+congenital aortic stenosis is similar to that of patients with
+acquired aortic stenosis. If needed, heart rate should be
+controlled with beta-blockers and patients should be
+maintained euvolemic with adequate afterload. Blood
+pressure should be evaluated in all four extremities to rule
+out aortic coarctation. Deﬁbrillator pads should be placed
+on patients with congenital aortic lesions, as chest com-
+pressions are not as effective in patients with obstruction to
+left ventricular outﬂow or regurgitation leading to an
+inability to pressurize the aortic root and provide coronary
+perfusion. Patients with an aortic valve area of \0.6 cm
+2,
+peak gradient of [60 mmHg, left ventricular hypertrophy,
+or symptoms on exertion may beneﬁt from aortic valve
+intervention prior to any non-cardiac surgery [ 21].
+Congenital Mitral Valve Disease
+The mitral valve is a bi-leaﬂet valve that regulates the ﬂow
+of blood between the left atrium and left ventricle. The
+most common congenital mitral valve anomaly is mitral
+stenosis, in which there is obstruction to blood emptying
+from the left atrium into the left ventricle. This increase in
+left atrial pressures leads to increased left atrial size pre-
+disposing to arrhythmias and clot formation as well as
+pulmonary venous congestion. Mitral valve prolapse and
+cleft or parachute mitral valves can lead to mitral insufﬁ-
+ciency, left atrial volume overload, and increased left atrial
+and pulmonary venous pressures [ 24].
+Patients with congenital mitral valve disease should
+undergo pre-operative echocardiography to evaluate valve
+function and left atrial size and rule out other cardiac
+anomalies, left atrial thrombus, or PAH. Evaluation for
+arrhythmias can be made with a twelve lead electrocar-
+diogram or a 24-h Holter monitor. If there is evidence of
+PAH or impaired left ventricular function, a pulmonary
+artery catheter may be considered and nitric oxide and
+external deﬁbrillator pads should be readily available.
+Patients with congenital mitral stenosis can be managed
+similarly to patients with acquired mitral stenosis with
+heart rate control with beta blockade and maintenance of
+sinus rhythm, euvolemia and afterload.
+Congenital Pulmonary Valve Disease
+The pulmonary valve is tri-leaﬂet valve and controls the
+ﬂow of blood from the right ventricle to the pulmonary
+artery. Congenital pulmonary valve disease can manifest
+itself as either incompetent leading to regurgitation, or
+stenotic causing an obstruction of blood ﬂow from the right
+ventricle to the lungs. Congenital pulmonary valve disease
+can also be seen in conjunction with complex CHD or in
+association with an ASD [ 25]. All patients with congenital
+pulmonary valve disease should undergo pre-operative
+echocardiography to assess valve structure and function, as
+148 Curr Anesthesiol Rep (2013) 3:144–150
+123
+[[p6]]
+well to investigate any additional cardiac pathology. Bal-
+loon valvuloplasty is recommended if the pulmonary valve
+gradient is [30 mmHg, and may be needed prior to an
+elective surgical procedure. Pulmonary insufﬁciency leads
+to regurgitation of blood from the pulmonary artery back
+into the right ventricle causing right ventricular volume
+overload/enlargement, arrhythmias, and possible right HF.
+Patients with severe pulmonary valve regurgitation may
+beneﬁt from percutaneous pulmonary valve replacement
+prior to elective non-cardiac procedures.
+Infective Endocarditis
+ACHD patients are at increased risk for infective endo-
+carditis if they have a history of: (1) prosthetic cardiac
+valve repair, (2) previous infective endocarditis, (3) unre-
+paired or palliated cyanotic heart disease, (4) completely
+repaired CHD with prosthetic material (catheter based or
+surgically) within the ﬁrst six months following interven-
+tion, or (5) repaired CHD with residual defects preventing
+endothelization. In adult patients, infective endocarditis
+may be seen as frequently as in 1.5–6 cases per 100,000
+persons per year. Of these cases, 11–13 % were also found
+to have CHD [ 26]. Interventions that increase the risk of
+endocarditis include dental cases involving the root or
+gingival and vaginal deliveries. Streptococci are the most
+frequent causative organisms in infective endocarditis
+except, in cases of cardiovascular device related infections,
+where staphylococci are more commonly associated.
+The most recent recommendations for management of
+ACHD patients state that the diverse nature of CHD repairs
+and the paucity of scientiﬁc data make it difﬁcult to pro-
+vide deﬁnitive guidelines. Each patient should have treat-
+ment and care plans tailored to their individual clinical
+scenario [ 27]. General guidelines include prophylactic
+antibiotic treatment to high-risk ACHD patients undergo-
+ing high-risk dental or respiratory procedures, vaginal
+deliveries or hysterectomies. Recommended antibiotic
+prophylaxis for dental procedures includes oral regimen:
+amoxicillin (if penicillin allergic, azithromycin/clindamy-
+cin) and intravenous regimen: ampicillin or (if penicillin
+allergic clindamycin).
+Summary
+The variable nature of unaltered or surgically palliated
+CHD calls for an interdisciplinary approach for the ACDH
+patient undergoing non-cardiac surgery. ‘‘Fit for surgery’’
+cannot be attested by a cardiologist alone. The anesthesi-
+ologist must work closely together with the entire team
+(cardiologist, surgeon, and/or interventionalists) to come
+up with a safe peri-procedure plan. The role of the cardi-
+ologist is to optimize the patient, prescribe SBE prophy-
+laxis, and manage perioperative anti-coagulation or cardiac
+medications prior to surgery. The role of the surgeon is to
+assure for the most atraumatic and efﬁcient intervention.
+The anesthesiologist must coordinate the care in the peri-
+operative period and provide intraoperative care speciﬁc to
+the patient’s lesion and risk, including potential need for
+invasive hemodynamic monitoring and transesophageal
+echocardiography. It is important that all caregivers con-
+vene prior to surgery and/or percutaneous intervention.
+Many patients have a prior history of difﬁcult central and/
+or peripheral intravenous access. In addition, if there is a
+history of prior Blalock–Taussig shunt, blood pressures
+may be different in their upper extremities. If no pulses can
+be palpated or if there is a history of central vein occlusion
+a pre-operative Doppler study is advisable. Patient dispo-
+sition following the procedure needs as much planning as
+the peri-procedure conduct of anesthesia. Post-operative
+issues such as need for ventilation, or invasive monitoring,
+ICU admission and pain management should be addressed
+prior to the planned procedure. Managing the expectation
+of the patient and his/her family about their disposition is a
+key factor in the positive outcome of the ACHD patient.
+In general, outpatient surgery is possible in the low- to
+moderate risk ACHD patient as long as the intervention is
+less invasive. Absence of pain and hemodynamic stability
+are prerequisite for discharge. ACHD patients undergoing
+more invasive procedures are high risk, and are better
+managed in a close observation unit. Close hemodynamic
+monitoring assures the patient’s safety in the setting of pre-
+existing altered cardiovascular physiology. For all practi-
+tioners involved in the care of this unique patient popula-
+tion it is imperative to know that the 2008 AHA guidelines
+encourage referral to a specialized center. Therapies such
+as oral pulmonary vasodilators (sildenaﬁl, bosentan),
+electrophysiological intervention for arrhythmias, as well
+as, preventative strategies to avoid HF (afterload reduction
+with ACE inhibitors) may not only optimize the patient for
+the planned intervention but also positively inﬂuence the
+natural history of ACHD. In many instances, cardiac output
+can be enhanced by medical therapy (dobutamine, milri-
+none) allowing for emergency transfer of the high risk
+ACHD patient to a specialized center.
+Conclusion
+Low risk ACHD patients can safely undergo surgical and
+percutaneous intervention in non-specialized centers as
+long as the care team understands that few ACHD lesions
+are ‘‘cured’’ and the patient has undergone appropriate pre-
+operative evaluation with characterization of the impact the
+Curr Anesthesiol Rep (2013) 3:144–150 149
+123
+[[p7]]
+patient’s cardiac lesion may have on both their cardiac
+performance and peri-procedural course. High-risk ACHD
+patients should be referred to a specialized tertiary care
+center.
+Disclosures Kimberly Howard-Quijano, Michelle Smith, and
+Johanna C. Schwarzenberger declare that they have no conﬂict of
+interest.
+Compliance with Ethics Guidelines This article does not contain
+any studies with human or animal subjects performed by any of the
+authors.
+References
+Papers of particular interest, published recently, have been
+highlighted as:
+• Of importance
+•• Of major importance
+PM?v?b`K?v?qfK?a?slK??M?`bbN`g`?QOOW
+guidelines for the management of adults with CHD: a report of
+the American College of Cardiology/American Heart Association
+Task Force on Practice Guidelines (Writing Committee to
+Develop Guidelines on the Management of Adults With CHD).
+Developed in collaboration with the American Society of Echo-
+cardiography, Heart Rhythm Society, International Society for
+Adult Congenital Heart Disease, Society for Cardiovascular
+Angiography and Interventions, and Society of Thoracic Sur-
+geons. J Am Coll Cardiol. 2008;52:e1–121.
+2. Price S, Jaggar SI, Jordan S, et al. Congenital heart disease:
+intensive care and outcome prediction. Intensive Care Med.
+2007;33:652–9.
+3.
+•• Rodriguez FH III, Moodie DS, Parekh DR, et al. Outcomes of
+hospitalization in adults in the United States with atrial septal
+defect, ventricular septal defect, and atrioventricular septal
+defect. Am J Cardiol. 2011;108:290–293. This is a comprehen-
+sive examination of nationwide inpatient data for patients with
+common forms of CHD to determine risk factors for morbidity
+and mortality. A discussion of the comorbidities that are com-
+monly seen in this population includes a comparison with ﬁndings
+from other large studies.
+4. Verheugt CL, Uiterwaal CS, van der Velde ET, et al. Mortality in
+adult congenital heart disease. Eur Heart J. 2010;31:1220–9.
+5.
+•• Seal R. Adult congenital heart disease. Pediatric Anesthesia.
+21.5(2011):615–622. This is an excellent review on the man-
+agement of ACHD patients undergoing cardiac and non-cardiac
+surgery, focusing on a multidisciplinary approach and describing
+an ideal model of care.
+6. Lam W, Friedman R. Electrophysiology issues in adult congenital
+heart disease. Methodist DeBakey cardiovascular journal .
+7.2(2011):13.
+7. DiNardo JA. Heart failure associated with adult congenital heart
+disease. Seminars in cardiothoracic and vascular anesthesia. Vol.
+17.No. 1.SAGE Publications, 2013.
+8. Parekh DR. A review of heart failure in adults with congenital
+heart disease. Methodist DeBakey Cardiovasc J. 2011;7(2):26.
+9. Hunt SA, Abraham WT, Chin MH, et al. Focused update incor-
+porated into the ACC/AHA 2005 guidelines for the diagnosis and
+management of heart failure in adults: a report of the American
+College of Cardiology Foundation/American Heart Association
+Task Force on Practice Guidelines Developed in Collaboration
+with the International Society for Heart and Lung Transplanta-
+tion. J Am Coll Cardiol. 2009;53(15):e1–90.
+10. Rao PS. When and how should atrial septal defects be closed in
+adults. J Invasive Cardiol. 2009;21:76–82.
+11. Krasuski RA, Hart SA, Allen D, et al. Prevalence and repair of
+intraoperatively diagnosed patent foramen ovale and association
+with perioperative outcomes and long-term survival. JAMA.
+2009;302:290–7.
+12. Webb G, Gatzoulis MA. Atrial septal defects in adults recent
+progress and overview. Circulation. 2006;114:1645–53.
+13. Minette MS, Sahn DJ. Ventricular septal defects. Circulation.
+2006;114:2190–7.
+14.
+• Penny DJ, Vick WG. Ventricular septal defects. Lancet.
+2011;377:1103–12. This is a comprehensive article on the path-
+ophysiology, diagnosis and management of VSDs. It includes a
+table describing work-up, hemodynamic issues, indications for
+intervention and factors determining level of care in patients with
+repaired vs unrepaired VSDs.
+15. Duffels MG, Engelfriet PM, Berger RM, et al. Pulmonary arterial
+hypertension in congenital heart disease: an epidemiologic per-
+spective from a Dutch registry. Int J Cardiol. 2007;120:198–224.
+16. Van de Bruaene A, Delcroix M, Pasquet A, et al. The Belgian
+Eisenmenger syndrome registry: implications for treatment
+strategies. Acta Cardiol. 2009;64:447–53.
+17. Hamrick S, Hansmann G. Patent ductus arteriosus of the preterm
+infant. Pediatrics. 2010;125:1020–30.
+18. Fortescue EB, Lock JE, Galvin T, et al. To close or not to close:
+the very small patent ductus arteriosus. Congenit Heart Dis.
+2010;5:354–65.
+19. Schneider DJ, Moore JW. Patent ductus arteriosus. Circulation.
+2006;114:1873–82.
+20.
+• Siu SC, Silversides CK. Bicuspid aortic valve disease. J Am
+Coll Cardiol. 2010;55:2789–800. This article describes the
+genetics, pathology and clinical course of bicuspid aortic valve,
+as well as the medical management and indications for
+intervention.
+21. Campbell M. The natural history of congenital aortic stenosis.
+Br Heart J. 1968;30:514–26.
+22. Campbell M. Calciﬁc aortic stenosis and congenital bicuspid
+aortic valves. Br Heart J. 1968;30:606–16.
+23. Jiang SJ, Gao CQ, Li BJ, et al. Congenital mitral valve regur-
+gitation in adult patients. Heart Surg Forum. 2011;14:114–6.
+24. Andropoulos DB, Stayer SA, Russell IA, et al. Anesthesia for
+congenital heart disease. Massachusetts: Futura; 2005.
+25. Bouza E, Menasalvas A, Munoz P, et al. Infective endocarditis—
+a prospective study at the end of the twentieth century: new
+predisposing conditions, new etiologic agents, and still a high
+mortality. Medicine (Baltimore). 2001;80:298–307.
+26. Wilson W, Taubert KA, Gewitz M, et al. Prevention of infective
+endocarditis: guidelines from the American Heart Association:
+aguideline from the American Heart Association Rheumatic Fever,
+Endocarditis, and Kawasaki Disease Committee, Council on Car-
+diovascular Disease in the Young, and the Council on Clinical-
+Cardiology, Council on Cardiovascular Surgery and Anesthesia, and
+the Quality of Care and Outcomes Research Interdisciplinary
+Working Group. Circulation. 2007;116:1736–54.
+27. Howard-Quijano K, Schwarzenberger JC. Acute care medicine:
+perioperative management of adult congenital heart disease. Am J
+Therap. 2012. doi: 10.1097/MJT.0b013e3182456db9.
+150 Curr Anesthesiol Rep (2013) 3:144–150
+123

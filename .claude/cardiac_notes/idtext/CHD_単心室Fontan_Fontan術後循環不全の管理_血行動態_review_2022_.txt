@@ -1,0 +1,1400 @@
+
+[[p1]]
+EDITED BY
+Milan Prsa,
+Centre Hospitalier Universitaire Vaudois
+(CHUV), Switzerland
+REVIEWED BY
+Hideo Ohuchi,
+National Cerebral and Cardiovascular Center,
+Japan
+Willem A Helbing,
+Erasmus University Rotterdam, Netherlands
+*
+CORRESPONDENCE
+Joseph Rossano
+rossanoj@email.chop.edu
+SPECIALTY SECTION
+This article was submitted to Pediatric
+Cardiology, a section of the journal Frontiers in
+Pediatrics
+RECEIVED 16 August 2022
+ACCEPTED 18 October 2022
+PUBLISHED 08 November 2022
+CITATION
+j?`lK?n?’b?li??q?iv
+(2022) Management of circulatory failure after
+Fontan surgery.
+Front. Pediatr. 10:1020984.
+doi: 10.3389/fped.2022.1020984
+COPYRIGHT
+© 2022 Kamsheh, O'Connor and Rossano. This
+is an open-access article distributed under the
+terms of the Creative Commons Attribution
+License (CC BY) . The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+Management of circulatory
+failure after Fontan surgery
+Alicia M. Kamsheh, Matthew J. O ’Connor
+a n dJ o s e p hW .R o s s a n o*
+Division of Cardiology, Children ’s Hospital of Philadelphia, United States
+With improvement in survival after Fontan surgery resulting in an increasing number
+of older survivors, there are more patients with a Fontan circulation experiencing
+circulatory failure each year. Fontan circulatory failure may have a number of
+underlying etiologies. Once Fontan failure manifests, prognosis is poor, with
+patient freedom from death or transplant at 10 years of only about 40%. Medical
+treatments used include traditional heart failure medications such as
+renin-angiotensin-aldosterone system blockers and beta-blockers, diuretics for
+symptomatic management, antiarrhythmics for rhythm control, and
+phosphodiesterase-5 inhibitors to decrease PVR and improve preload. These oral
+medical therapies are typically not very effective and have little data
+demonstrating beneﬁt; if there are no surgical or catheter-based interventions to
+improve the Fontan circulation, patients with severe symptoms often require
+inotropic medications or mechanical circulatory support. Mechanical circulatory
+support beneﬁts patients with ventricular dysfunction but may not be as useful in
+patients with other forms of Fontan failure. Transplant remains the de ﬁnitive
+treatment for circulatory failure after Fontan, but patients with a Fontan
+circulation face many challenges both before and after transplant. There remains
+signiﬁcant room and urgent need for improvement in the management and
+outcomes of patients with circulatory failure after Fontan surgery.
+KEYWORDS
+Fontan, heart failure, single ventricle, medications, ventricular assist device, Fontan failure
+Introduction
+The Fontan circulation is a palliative circulation for single ventricle congenital heart
+disease (CHD) characterized by the lack of a subpulmonary ventricular pump with
+passive pulmonary blood ﬂow driven by elevated central venous pressures. Since
+Francis Fontan ﬁrst reported the successful treatment of two patients with tricuspid
+atresia in 1971, there have been multiple advances in surgical technique and
+postoperative management which have led to improvement in short- and long-term
+mortality in this patient population. Operative mortality is now close to 1% and
+transplant-free survival at 5 and 10 years is 95% and 90%, respectively ( 1–4). Today,
+patients have an estimated 30-year survival after Fontan of approximately 85% ( 1).
+Given the improving mortality, there is now a growing number of patients with a
+Fontan circulation worldwide, estimated at up to 70,000 in 2018 and expected to
+double over the next 20 years ( 1, 5). The average age of patients with a Fontan
+circulation is also expected to increase over the coming years, which will only add to
+the growing burden of morbidity among this population. These patients are at risk for
+TYPE Review
+PUBLISHED 08 November 2022
+| DOI 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 01 frontiersin.org
+[[p2]]
+the multitude of morbidities associated with this unique
+circulation. This review aims to describe the epidemiology and
+common modes of circulatory failure in patients with a
+Fontan circulation and examine management strategies
+utilized in this population.
+Fontan circulatory failure
+epidemiology
+The morbidities seen in patients with a Fontan circulation
+are a consequence of the baseline hemodynamic abnormalities
+associated the Fontan. These include elevated central venous
+pressure, chronically low preload to a single ventricle leading
+to decreased cardiac output, and impaired ability to augment
+cardiac output to meet metabolic demands. Some clinicians
+have claimed that since patients with a Fontan circulation are
+unable to augment their cardiac output to meet demands of
+exercise at low ﬁlling pressures, all patients with a Fontan
+have a chronic form of heart failure ( 1). There are a number
+of different de ﬁnitions of heart failure in the literature, but a
+recent international consensus de ﬁnition was proposed as the
+following: “a clinical syndrome with symptoms and/or signs
+caused by a structural and/or functional cardiac abnormality
+and corroborated by elevated natriuretic peptide levels and/or
+objective evidence of pulmonary or systemic congestion ” (6–
+8). There is overlap between this de ﬁnition and Fontan
+circulatory failure, for which the consensus de ﬁnition is “a
+broad, non-speci ﬁc term describing dysfunction of the Fontan
+circulation that affects a patient ’s ability to carry out daily life
+activities ( 9).” In this review, we will include causes of heart
+failure under the broad array of possible underlying etiologies
+of Fontan circulatory failure ( Table 1 )( 1, 9–14). There does,
+however, remain dif ﬁculties with interchangeability and
+ambiguity in use of these terms in the literature.
+Symptomatic circulatory failure is common in patients with a
+Fontan. One single center cohort of patients with a Fontan
+circulation followed over an average of 15.7 years found that
+40% exhibit clinical heart failure ( 10). In another cohort of
+adult patients with a Fontan circulation, freedom from Fontan
+??XPD??PO?K?VXD??QO?K??TXD??QT
+years after Fontan operation ( 15). Among all adults with CHD
+in the Dutch CONCOR registry, adults with single ventricle
+heart disease had the highest rate of admission for heart failure,
+with a hazard ratio of 11.4 when compared to patients with
+ventricular septal defect. This was more than double the hazard
+ratio calculated for patients with congenitally corrected
+transposition of the of the great arteries ( 16). Identi ﬁed risk
+factors for Fontan failure include hypoplastic left heart
+syndrome, greater age at Fontan surgery, longer length of stay
+at the time of Fontan surgery, progressive systolic and diastolic
+ventricular dysfunction, atrioventricular valve regurgitation,
+sustained arrhythmia, and weight gain in adulthood ( 15, 17–20).
+Given the high-risk of circulatory failure in this population,
+the American Heart Association has recommended an intensive
+surveillance strategy in adolescents and adults with a Fontan
+circulation ( 1). This includes obtaining an exercise stress test
+every 1 –3 years, cardiac MRI every 2 –3 years and a
+surveillance catheterization every 10 years. This may help to
+identify patients with worsening hemodynamics before they
+demonstrate symptoms. Once a patient with a Fontan
+circulation demonstrates clinical heart failure, the prognosis is
+quite poor ( 15, 16, 21–23). In a multicenter U.S. study of
+patients with CHD admitted for heart failure, 28% of single
+ventricle patients died during admission ( 21). Another study of
+patients with a Fontan found that once Fontan failure was
+manifest, freedom from death or transplant was 70% at 5 years
+and only 40% at 10 years ( 15). This prognosis is considerably
+worse than patients with a Fontan circulation without clinical
+symptoms, with signs and symptoms of heart failure conferring
+a 6.3-fold increased risk of death or transplant ( 22). Predictors
+of death or transplant that have been identi ﬁed in the literature
+include older age, atriopulmonary or atrioventricular type
+Fontan, morphologic right ventricle, clinically relevant
+arrhythmia, low heart rate reserve, lower resting oxygen
+saturation, protein-losing enteropathy, elevated BNP, poorer
+ventricular performance, poorer functional health status, lower
+peak VO2, decline in percent predicted VO2 by 3 or more
+percentage points per year, and higher atrial pressure ( 2, 22–25).
+Modes of Fontan circulatory failure
+Systolic dysfunction
+Systolic ventricular function is typically normal at the time of
+Fontan but worsens over time (15, 23, 26). In one large cohort of
+Fontan patients followed for over 20 years, it was found that
+Fontan failure occurred at a median of 18.1 years after Fontan
+completion and 46% of these patients had systolic dysfunction.
+Fontan failure was more commonl y associated with a decline in
+ventricular function than increasing pulmonary vascular
+resistance (15). About 50% of patients wi th a Fontan circulation
+that are listed for transplant have ventricular dysfunction (27–29).
+The underlying cause of the decline in systolic function over
+time in patients with a Fontan circulation is not clear. During
+the earlier phases of staged palliation, the ventricle is volume
+loaded and exposed to chronic hypoxemia, which may
+predispose to dilation and later dysfunction, although studies
+TABLE 1 Common etiologies of Fontan circulatory failure.
+ Systolic dysfunction
+ Diastolic dysfunction
+ Atrioventricular valve regurgitation
+ Lymphatic Insuf ﬁciency
+ Arrhythmia
+ Anatomic obstruction
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 02 frontiersin.org
+[[p3]]
+have demonstrated that ventricular size and hypertrophy improve
+initially following the Fontan operation ( 1, 30). Hypoplastic left
+heart syndrome (HLHS) confers higher risk of systolic
+dysfunction because the right ventricular morphology is not
+embryologically or structurally designed to pump against
+systemic afterload ( 10, 26). Myocardial ﬁbrosis has also been
+seen in this population and i s associated with lower mean
+ejection fraction ( 31). Fibrosis and abnormal myo ﬁber
+orientation may predispose to mechanical dyssynchrony over
+time, which has been demonstrated to be associated with
+reduced systolic function ( 32–34). Further, the Fontan
+circulation is a chronically preload deprived state, which may
+lead to decreased contractility due to chronic lack of ﬁber stretch
+and increased muscle stiffness (1).
+Patients with a Fontan circulation are particularly affected by
+systolic dysfunction due to their baseline low cardiac output state.
+Additionally, preload is further reduced by loss of the normal
+suction force which occurs with descent of the atrioventricular
+valve towards the apex of the heart in systole. This force drives
+blood through the pulmonary vasculature in the normal
+circulation. The effect of this force becomes relatively more
+important in patients with a Fontan circulation who do not have
+a subpulmonary ventricle but is lost in patients with signi ﬁcant
+systolic dysfunction ( 35). There has additionally been recent
+interest in whether atrial function predicts exercise parameters
+and Fontan outcomes, although atrial function has not been
+comprehensively studied and the published data is mixed (36–38).
+While systolic dysfunction is typically diagnosed by
+echocardiogram, there are challenges in using echocardiography
+to assess systolic function in patients with a Fontan circulation,
+particularly in patients with a systemic right ventricle ( 39, 40).
+T h e r ei se v i d e n c et h a tu t i l i z a t ion of cardiac MRI improves risk
+stratiﬁcation in patients with a Fontan circulation and thus
+many centers will use a combination of echocardiography and
+cardiac MRI to monitor patients for systolic dysfunction over
+time (40). In a large study of patients with a Fontan circulation
+who underwent cardiac MRI, lower end-diastolic volume was
+the strongest predictor of transpl ant-free survival. For patients
+with ventricular dilation (end diastolic volume ≥156 ml/BSA),
+worse global circumferential strain was particularly predictive of
+death or transplant ( 41). On multivariable analysis, end-diastolic
+volume, end-systolic volume, global circumferential strain, and
+ventriculoarterial coupling ratio by MRI have been shown to be
+independently predictive of death or transplant. These
+measurements are thought to be more useful than ejection
+fraction because ejection fraction does not account for
+ventricular dilation. Cardiac MRI can also identify cardiac
+ﬁbrosis which may contribute to dilatation and dysfunction,
+although additional work is need ed to further elucidate the role
+cardiac ﬁbrosis may have in this process (
+42). Further, stress
+MR to identify patients with decreased ability to augment their
+ejection fraction in response to dobutamine-stress may also help
+to identify patients at risk of adverse outcomes ( 43).
+Diastolic dysfunction
+Diastolic dysfunction is increasingly being recognized in the
+Fontan population, affecting approximately 70% of patients,
+including >80% of patients with a systemic right ventricle ( 1, 12,
+26, 34, 44–46). The single ventricle has multiple possible
+underlying etiologies for diastolic dysfunction, including
+dyssynchrony, myocardial scarring, abnormal geometry,
+increased wall stress, hypoxemia and history of volume loading
+???e?G?PK?STH?Ms??????????????????????????
+abnormalities leading to prolongation of isovolumetric relaxation
+which reduces early rapid ﬁlling and leads to abnormal wall
+motion and ﬂow ( 34, 44). This abnormality is then later
+compounded by a slow reduction in ventricular compliance
+which also affects late diastolicﬁlling (12, 44).
+Increasedﬁlling pressures are not well tolerated by patients with
+a Fontan due to the requirement for passive pulmonary bloodﬂow.
+Higher ﬁlling pressures lead to higher atrial pressures and a lower
+gradient for forward ﬂow through the pulmonary vasculature.
+This leads to decreased preload and ultimately decreased stroke
+volume even without changes in systolic function (45).
+Despite the high prevalence of diastolic dysfunction is in
+this population, it can be dif ﬁcult to detect, particularly in
+early stages. Standard echocardiographic Doppler and tissue
+Doppler parameters are frequently abnormal but have been
+shown to correlate poorly with clinical outcomes and only
+modestly with catheterization measurements ( 46, 47). Cardiac
+catheterization is considered the standard for measurement of
+diastolic ﬁlling pressures but is invasive and can miss patients
+with early-stage diastolic dysfunction because it only measures
+ﬁlling pressures in the resting state ( 45). Speckle tracking
+echocardiogram has shown some promise in evaluation of
+diastolic function, but further work is needed to validate this
+method in single-ventricle patients ( 48).
+Atrioventricular valve regurgitation
+Atrioventricular (AV) valve failure, deﬁned as requiring valve
+repair or replacement or development of moderate or greater AV
+valve regurgitation (AVVR), is seen in approximately 7% of
+patients with a Fontan circulation at 5 years, 12% at 10 years
+and 21% at 20 years ( 20). AVVR in patients with a Fontan
+circulation may be secondary to annular dilation, lea ﬂet
+dysplasia, lea ﬂet tethering, lea ﬂet prolapse, or abnormal
+subvalvar apparatus ( 49–51). Patients with hypoplastic left
+heart syndrome are at particular risk for developing AV valve
+failure, as systemic right ventricular morphology has been
+found to be an independent risk factor for AVVR ( 20, 26).
+There has also been a demonstrated association between older
+age at Fontan and more severe AV valve regurgitation ( 26).
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 03 frontiersin.org
+[[p4]]
+AV valve regurgitation is poorly tolerated in this population as
+the regurgitation leads to an abnormal feedback loop of
+dysfunction, worsening dilation and worsening AVVR (50). This
+further decreases cardiac output and increases atrial pressure,
+which in turn lead to symptoms of low cardiac output or
+congestion. Signiﬁcant AVVR also interferes with interpretation
+of standard indices of ventricular function, such as ejection
+fraction, and thus practitioners may underestimate the degree of
+systolic dysfunction in a single ventricle patient with AVVR (52).
+Furthermore, AVVR interferes with the aforementioned forward
+sucking force on the pulmonary venous blood during ventricular
+systole that becomes relatively more important in single ventricle
+patients (35). Given this, it is unsurprising that a patient with a
+Fontan circulation with AV valve failure has been found to have
+more than double the risk of Fontan failure (20).
+Multiple imaging modalities can be utilized in the diagnosis and
+management of AV valve regurgitation in Fontan patients ( 53).
+Though 2D transthoracic echocardiography remains the most
+common imaging modality used, it is less sensitive to the
+diagnosis of speci ﬁce t i o l o g i e ss u c ha sl e aﬂet dysplasia and
+structural abnormalities. The recent development of 3D
+echocardiography has addresse d some of these limitations, by
+improving assessment of valve morphology, geometry and
+subvalvar apparatus. Cardiac MRI can evaluate ﬂow and quantify
+AVVR but can be limited by artifact in patients with stents or
+devices. Alternatively, computed tomography can be considered
+in patients with metallic stents or pacemakers that do not allow
+for cardiac MRI.
+Lymphatic insuf ﬁciency
+While all patients with a Fontan circulation have lymphatic
+congestion secondary to the obligate increase in central venous
+pressure, a subset of patients will develop leakage of chyle into the
+bronchial, pleural, peritoneal, or intestinal cavities. This results in
+plastic bronchitis, chylous effusi ons, chylous ascities, or protein
+losing enteropathy ( 1, 14). It is estimated that protein losing
+enteropathy (PLE) effects between 4% and 13% of patients after
+Fontan (23, 54, 55). Plastic bronchitis (PB) effects comparatively
+fewer patients, approximately 2% –4%, although the burden of
+subclinical PB is likely signi ﬁcant ( 56, 57). Several factors likely
+contribute to which patients develop lymphatic complications and
+which lymphatic disease they manifest, including systemic venous
+pressures, anatomic Fontan obstruction, lymphatic vessel
+anatomic differences, prior interventions on the thoracic duct,
+concomitant cardiac dysfunction, increased mesenteric vascular
+resistance, proinﬂammatory state, and genetic differences ( 1, 58–
+64). A classi ﬁcation scheme to describe neck and thoracic
+lymphatics abnormalities has been developed which has been
+shown to be associated with adverse surgical outcomes after
+Fontan including mortality, duration of effusions and duration of
+hospital stay (62). While not a statistically signi ﬁcant association,
+possibly due to a small sample size, plastic bronchitis and need
+for transplant within 3 years only occurred in patients with the
+most severe type 4 abnormalities.
+These conditions, which collectively can be referred to as
+lymphatic insuf ﬁciency, can lead to malnutrition, edema,
+immune de ﬁciency, chronic cough, respiratory distress,
+hypoxemia and eventually death, although outcomes have
+improved in the past decade ( 14, 54, 65). PLE is generally
+diagnosed by using alpha-1 antitrypsin clearance in a 24-hour
+stool collection or an elevated alpha-1 antitrypsin level with
+serum hypoalbuminemia, symptoms of edema, and no other
+known cause. Imaging modalities such as lymphoscintigraphy
+and dynamic contrast magnetic resonance lymphangiography
+can also be used to support the diagnosis of PLE ( 64). Routine
+monitoring of serum albumin concentration in patients with a
+Fontan circulation can identify subclinical albumin loss which
+may indicate deteriorating hemodynamics ( 1). Plastic bronchitis
+is typically diagnosed clinically by patient expectoration of an
+airway cast or after bronchoscopic removal.
+Arrhythmia
+Arrhythmias are common in patients with a Fontan
+circulation. Sinus node dysfunction and supraventricular
+tachycardia are most common, affecting up to 60% –80% of
+patients with a Fontan, although exact rates vary depending on
+type of Fontan procedure ( 1). Contemporary surgical techniques
+such as extracardiac and lateral tunnel Fontan appear to have
+lower prevalence of arrhythmia as compared to the
+atriopulmonary type Fontan, but longer follow up is needed to
+evaluate these newer techniques ( 1, 17). Ventricular tachycardia
+is much less common, affecting 5% –12% of the population ( 66–
+68). It is estimated that approximately 10% of patients with a
+Fontan circulation will require pacemaker implantation (69).
+Etiologies of arrhythmia in patients with a Fontan circulation
+include sinus node injury, disruption of the arterial supply of the
+sinus node, suture lines interfering with conduction, atrial
+dilation, hypertrophy leading to elevated pressures, the
+underlying genetic cause of the congenital heart defect causing
+altered tissue organization, and ﬁbrosis secondary to injury
+from cyanosis or bypass resulting in altered conduction ( 1).
+Arrhythmias further worsen the limited cardiac reserve in a
+patient with a Fontan circulation. Patients with arrhythmia are
+signiﬁcantly more likely to develop heart failure and in one
+study were found to have a 6-fold increased hazard of death or
+transplant ( 19, 22). Atrioventricular synchrony appears to be
+particularly important to maintain hemodynamics in patients
+requiring pacing after a Fontan operation ( 69).
+Given the frequency of arrhythmia in Fontan patients, Holter
+monitoring is recommended every 1 –2 years in adolescents and
+adults, and should particularly be considered in patients
+experiencing signs and symptoms of Fontan failure ( 1).
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 04 frontiersin.org
+[[p5]]
+Treatment
+The treatment of circulatory failure in patients with a
+Fontan is dependent upon identi ﬁcation of the underlying
+etiology of the failure ( Table 2 ). However, evidence-based
+recommendations for treatment are limited, with considerable
+variability among centers with respect to management ( 70).
+Surgical and catheter-based interventions, if indicated,
+typically have superior outcomes to medical therapy, although
+outcomes vary depending on intervention and indication.
+Oral medical therapies are typically not very effective, and if
+there are no surgical or catheter-based interventions to
+improve the circulation, patients with severe Fontan failure
+often require inotropic medications or mechanical circulatory
+support to support the circulation until transplant.
+Timing of referral to a heart failure specialist may also
+inﬂuence the outcomes of various treatment in these patients.
+Given concern among pediatric heart failure specialists that
+patients with a Fontan circulation were being referred too late,
+when advanced heart failure was already manifest and there
+was irreversible end-organ damage or clinical instability, the
+ACTION Network has developed a quality improvement
+project aimed at improving timely referral to a heart failure
+specialist through standardized referral guidelines. These
+guidelines include detailed thresholds of cardiac/systemic
+ventricular dysfunction, Fontan pathway dysfunction,
+lymphatic dysfunction, and extra-cardiac dysfunction which
+the ACTION group feels should prompt considered for
+referral to an advanced heart failure specialist ( 71, 72). The
+quality improvement metric that will be measured is
+proportion of Fontan patients who do not require escalation
+of heart failure care within 30 days of referral to the heart
+failure service and data collection is ongoing.
+Catheter-based interventions
+A variety of catheter-based interventions can be used to
+improve the Fontan circulation. In patients with obstruction
+within the Fontan pathway or pulmonary arteries, stent
+angioplasty may address obstruction and improve lymphatic
+failure ( 61, 73). Patients without a patent Fontan fenestration
+with PLE have been shown to bene ﬁt from creation of a
+fenestration, although this intervention comes at the expense
+of worsening hypoxemia and the risks of systemic
+embolization of venous thrombosis ( 54, 65, 74).
+Lymphatic interventions for patients with lymphatic disease
+can also be attempted. Thoracic duct embolization and selective
+lymphatic embolization have been used to successfully treat
+????ﬁ?G?VT–VVHM?n?
+prefers to use selective lymphatic embolization as it leaves the
+thoracic duct intact for other possible interventions in the
+future ( 64). Further, thoracic duct embolization can actually
+worsen abdominal symptoms in patients with
+multicompartment lymphatic disease. If selective lymphatic
+embolization is not successful in these patients with
+multicompartment involvement, there has been early promise
+in transcatheter thoracic duct decompression, although this
+procedure requires considerable technical expertise ( 78).
+Finally, in atriopulmonary Fontan patients with persistent
+atrial arrhythmias contributing to heart failure symptoms,
+catheter ablation has been demonstrated to be safe and
+effective at reducing arrhythmia burden, although
+approximately half of patients will experience a documented
+episode of recurrent atrial arrhythmia post procedure and
+close to one third will require repeat ablation ( 79).
+Surgical interventions
+Surgical interventions should also be considered in a patient
+experiencing Fontan circulatory failure. These include Fontan
+takedown, which is typically used in patients in the early
+postoperative period, Fontan revision, used in patients with
+Fontan obstruction, and Fontan conversion to a lateral tunnel or
+extracardiac Fontan, which is used in patients with an
+atriopulmonary type Fontan ( 80). Fontan takedown is
+TABLE 2 Management strategies for Fontan circulatory failure.
+Catheter Based
+Interventions
+ Creation of a fenestration
+ Angioplasty and stent angioplasty
+ Lymphatic intervention including selective
+lymphatic embolization, thoracic duct embolization
+(less preferred), thoracic duct decompression
+ Catheter ablation
+Surgical Interventions  Fontan takedown
+ Fontan revision
+ Fontan conversion
+ Atrial arrhythmia surgery
+ Surgical innominate vein reimplantation
+ Biventricular conversion
+ Atrioventricular valve repair or replacement
+Medical Therapy  Diuretics
+ Renin-angiotensin-aldosterone system blockers
+including ACE-inhibitors, angiotensin II receptor
+blockers, aldosterone antagonists
+ β-blockers
+ Modulators of pulmonary vascular resistance
+including phosphodiesterase type 5 inhibitors,
+endothelin receptor antagonists and prostacyclin
+analogs
+ PLE directed therapy including midodrine, oral
+budesonide, octreotide
+ Antiarrhythmics
+ Optimizing pacing including AV synchrony and
+resynchronization therapy
+ Exercise training
+Advanced Heart Failure
+Therapy
+ Inotropes
+ Mechanical circulatory support
+ Transplant
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 05 frontiersin.org
+[[p6]]
+accompanied by a very high early mortality, though it may be the
+only option for patients who are intolerant of Fontan physiology
+but may tolerate Glenn physiology until a transplant can be
+obtained. Fontan revision for surgical relief of Fontan obstruction
+can improve lymphatic dysfunction and Fontan conversion is
+often performed in conjunction with atrial arrhythmia surgery or
+pacemaker implantation to improve ﬂow dynamics, lower
+incidence of arrhythmia and improve functional status ( 65, 81).
+T h em a i nd r a w b a c ko fs u r g i c a lr e v i s i o ni nt h i sp o p u l a t i o ni st h e
+high upfront risk. Fontan conversion has an early mortality at
+approximately 5%–10% with signi ﬁcant variability in outcomes
+among centers (81–83). In an analysis of the Society of Thoracic
+Surgeons Congenital Heart Surgery Database (STS-CHSD),
+Fontan revision had the highest reported mortality among all
+adult congenital cardiac operations ( 83). Risk factors for worse
+outcomes in patients undergoing Fontan revision include older
+age, presence of any STS-CHSD de ﬁned preoperative risk factor
+including preoperative mechanical circulatory support, diabetes,
+hepatic dysfunction, hypercoagulable state, renal dysfunction,
+complete heart block, pacemaker, implantable ICD and prior
+cardiothoracic operation, and concomitant pulmonary artery
+reconstruction (82).
+Surgical innominate vein reimplantation to the lower-
+pressure pulmonary venous atrium ( “turn down ”)i sa n o t h e r
+strategy that has been described in Fontan patients with
+lymphatic dysfunction, although it will worsen cyanosis ( 84,
+85). Alternatively, in certain subsets of patients with a
+borderline second ventricle, biventricular conversion with
+possible recruitment of the systemic ventricle before conversion
+could be considered ( 86). Finally, in single ventricle patients
+with signiﬁcant AV valve regurgitation, surgical intervention on
+the valve is an option. There is a movement in the ﬁeld toward
+identifying the mechanism of AV valve insuf ﬁciency with
+earlier valve repair, perhaps prior to Fontan, and more
+aggressive valve replacement in speci ﬁcs i t u a t i o n s(87–89).
+Although these procedures can be successfully performed, there
+remains a question of durability of repair ( 90).
+Medical treatments
+Medical options include the use of many of the drugs used
+in biventricular heart failure, but with less evidence to support
+the practice. A recent systematic review of the evidence for
+medical therapy in prevention of Fontan circulatory failure
+identiﬁed only 9 studies which included only 267 Fontan
+patients total ( 91).
+Diuretics are frequently used in systolic and diastolic
+dysfunction for symptomatic control. While they may reduce
+the ﬁlling pressure and improve symptoms of heart failure,
+they also decrease cardiac output and are often associated with
+electrolyte disarray and potential worsening of renal
+dysfunction ( 1). Reverse remodeling agents including renin-
+angiotensin-aldosterone system blockers and β-blockers are
+frequently used in clinical practice, albeit with little data to
+support the bene ﬁt of these drugs in single-ventricle patients
+with ventricular dysfunction or AV valve regurgitation ( 12, 45,
+92–94). In one cohort study of patients after Fontan, 10 weeks
+of enalapril administration did not alter baseline
+hemodynamics, exercise capacity, or diastolic function and
+there was a suggestion of a worsening of short term exercise
+capacity ( 93). In another small cohort treated with ACE
+inhibitors for 6 months, no difference was seen in ventricular
+ejection fraction ( 94). Data demonstrating improved ventricular
+function, reversal in left-ventricular hypertrophy, and improved
+ventricular volume overload in patients with two-ventricle
+circulations with mitral or aortic valve regurgitation are often
+extrapolated to single ventricle patients, but there have been no
+studies speci ﬁcally examining this effect in the patients with
+AV valve regurgitation and a Fontan ( 95–97). Use of beta
+blockers has also been examined in patients with a Fontan with
+heart failure, but a randomized control trial of beta blockade in
+children demonstrated that use of beta blockers may actually be
+harmful in patients with a systemic right ventricle ( 98). There
+is some evidence for a role for high dose spironolactone in
+failing Fontan patients speci ﬁcally with PLE, although again the
+data remain limited to small series ( 65, 99, 100).
+Modulators of pulmonary vascular resistance have also been
+used in this population, with some evidence supporting the
+practice. Phosphodiesterase type 5 inhibitors are of particular
+interest given their ability to decrease PVR, improve ventricular
+end-diastolic elastance, decrease arterial elastance, and increase
+ventricular end-systolic elastance, which in turn may improve
+preload and ventriculoarterial coupling ( 101). Small studies
+using sildena ﬁl have demonstrated improved exercise capacity,
+improved exercise hemodynamics, and improved ventricular
+performance ( 102–106). Recent results from the larger FUEL
+trial demonstrated no signi ﬁcant change in peak oxygen
+consumption in patients with a Fontan circulation treated with
+udenaﬁl. However, there was a statistically signi ﬁcant
+improvement in submaximal exercise measures including
+oxygen consumption, work rate, and ventilatory ef ﬁciency at
+the anaerobic threshold ( 107). Bosentan has also been
+examined in small scale trials and has shown mixed results in
+its effect on exercise capacity and New York Heart Association
+functional class ( 108–110). Finally, a single study of inhaled
+iloprost prior to exercise stress test demonstrated improved
+peak oxygen pulse and peak oxygen consumption and was
+particularly beneﬁcial in patient with impaired exercise function
+at baseline ( 111). One subpopulation of patients with Fontan
+failure that may bene ﬁt from pulmonary vasodilation in
+particular are patients with lymphatic failure ( 65, 112).
+If mediators of pulmonary vascular resistance are not
+effective, patients with protein losing enteropathy have several
+additional medical options which may be effective in some
+patients. Midodrine, an alpha-1-receptor agonist, has shown
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 06 frontiersin.org
+[[p7]]
+some promise, with a recent case series of four patients with
+refractory PLE demonstrating symptomatic improvement
+leading to deferral of transplant evaluation in two patients
+and transplant delisting in one patient ( 113). It is
+hypothesized that midodrine works by its effect on tone in
+the smooth muscle cells in the lymphatic vessels, though
+additional work is needed to con ﬁrm this hypothesis ( 113,
+114). Additional medical treatments for patients with PLE
+include oral budesonide and octreotide, but use may not
+reduce the need for transplant over the long term ( 65, 115, 116).
+A n t i a r r h y t h m i c sf o rc o n t r o lo fa t r i a la r r h y t h m i a sc a n
+improve systolic dysfunction and AV valve regurgitation.
+However, use of antiarrhythmic medications in patients with
+Fontan has been associated with a higher risk of recurrence
+and more adverse events compared to interventions such as
+catheter ablation or Fontan conversion ( 1, 117). In patients
+with a pacemaker, employing a pacing mode with
+atrioventricular synchrony has been demonstrated to improve
+Fontan hemodynamics ( 69). In Fontan patients with heart
+block or intact conduction with signi ﬁcant dyssynchrony,
+cardiac resynchronization therapy with dual-site ventricular
+pacing has shown mixed results though recent data has
+demonstrated improved indices of ventricular function that are
+less dependent upon ventricular anatomy and geometry. These
+improved indices also appear to correlate with improved
+New York Heart Association classi ﬁcation (118).
+Finally, exercise training as therapy for Fontan patients
+should be considered, as it has been examined in a number of
+small studies with some demonstrating an increase in peak
+oxygen uptake, an increase in cardiac output, or an increase
+in quality of life with training ( 119). More study is needed to
+determine the optimal training type and program. However, if
+there is signi ﬁcant Fontan circulatory failure it is unlikely that
+exercise training alone will prevent the need for advanced
+heart failure therapies.
+Advanced heart failure therapies
+Intravenous inotropes
+In Fontan patients with low cardiac output and
+compromised end-organ perfusion, intravenous inotropic
+support may be necessary ( 6). There are few data regarding
+the use of inotropes in patients with a Fontan circulation, and
+thus inotropic support in these patients is typically based on
+anecdotal experience and extrapolation of data from adult and
+pediatric patients with a biventricular circulation ( 120–123).
+Pediatric heart failure guidelines recommend milrinone or
+dobutamine as ﬁrst line therapy with the addition of
+epinephrine for refractory hypotension ( 6). In patients with
+PLE, dopamine therapy can be trialed, as there is evidence it
+may induce remission in patients with PLE possibly through
+effects on lymphatic receptors ( 124).
+Despite the lack of data, the inotropic, lusitropic, and
+vasodilatory properties of phosphodiesterase-3 inhibitors such
+as milrinone make this class of drug appealing for treatment
+of the failing Fontan ( 125, 126). Phosphodiesterase-3
+inhibitors have been demonstrated to improve early
+postoperative hemodynamics in Fontan patients by increasing
+cardiac index and stroke volume index but this effect has not
+been speci ﬁcally examined in Fontan patients remote from
+surgical repair ( 127). Interestingly, the molecular myocardial
+effects from milrinone appear to be unique in patients with a
+failing single right ventricle as compared to pediatric patients
+with dilated cardiomyopathy ( 128).
+The effect of chronic inotrope use in this population
+remains unknown and may be harmful ( 129). Therefore, we
+recommend chronic inotrope use only in palliative
+circumstances or as a bridge to transplant.
+Mechanical circulatory support
+Due to the increasing number of Fontan patients with
+circulatory failure and the long wait times for organ
+transplantation, the use of durable mechanical circulatory
+support (MCS) in this population is becoming increasingly
+common ( 130–135). Unfortunately, outcomes remain inferior
+when compared to patients with a biventricular circulation,
+though seem to be improving ( 130, 135–140). Encouragingly,
+the ACTION Network recently reported no deaths among 5
+patients with a Fontan circulation supported with a
+Heartmate 3 device ( 139).
+Despite improving outcomes, there remain several challenges
+to supporting patients with a Fontan circulation with MCS.
+Surgical challenges include a redo sternotomy, cumbersome
+mediastinal dissection and dense trabeculations within the
+ventricle which can require resection to avoid in ﬂow
+obstruction, and challenging geometry of cannula position in
+single ventricle patients ( 134). Novel surgical approaches
+including atrial cannulation and excision of AV valve may be
+needed to place devices in smaller patients ( 141). Further, a
+ventricular assist device may not address the underlying cause
+of the Fontan failure. MCS is typically most bene ﬁcial in
+patients with ventricular dysfunction, but may not be as useful
+in patients with other forms of Fontan failure, where preload is
+limited and increasing the cardiac output can further worsen
+right-sided congestive symptoms ( 1, 134). In patients with
+Fontan circulatory failure without signi ﬁcant pump
+dysfunction, innovative support strategies may need to be
+employed. There have been single case reports of successful use
+of BiVAD, Syncardia Total Arti ﬁcial Heart and single
+subpulmonary VAD in patients with Fontan circulations, but
+these strategies have not been widely adopted ( 142–144).
+Additionally, temporary VAD support with Impella has
+been described in a limited number of pediatric and adult
+patients with a Fontan circulation with cardiogenic shock with
+encouraging results ( 145, 146). These devices may be used as
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 07 frontiersin.org
+[[p8]]
+a bridge to recovery or more durable support. Noted challenges
+in this population include abnormal relationships between the
+great arteries and abnormal orientation of the atrioventricular
+valves relative to the out ﬂow tracts. Reported complications
+included one procedural death, increasing aortic valve
+insufﬁciency, access site thrombus, extremity ischemia,
+hemolysis, and renal failure.
+Transplant
+Transplant remains the de ﬁnitive treatment for circulatory
+failure after Fontan; however, there is signi ﬁcant variability in
+access to transplant across centers ( 23). A recent analysis of
+the STS-CHSD demonstrated an increasing number of
+transplants performed in patients with a Fontan over the last
+decade, due primarily to an increase in patients with HLHS
+(82). Waitlist mortality is considerable, although pediatric
+patients with a Fontan circulation have demonstrated similar
+??GVWD??U???VSD??PQ
+months) to other patients listed for transplant both with and
+without CHD ( 147). However, adult patients with CHD listed
+1A for transplant have higher wait list mortality than non-
+congenital heart patients, estimated at approximately 1 in 4
+(148). Risk factors for death while waiting in the pediatric
+population include younger age, status 1 listing, shorter
+interval since Fontan and ventilator support ( 147).
+Transplantation in patients with a Fontan is high-risk, but
+outcomes have improved in recent decades ( 29, 147, 149–
+152). Recent approximate 1 year survival was 89%. This 1
+year survival is similar to non-Fontan CHD patients, although
+continues to lag behind outcomes in patients without
+congenital heart disease ( 147, 151). Operative mortality and
+composite major morbidity and mortality remain high at
+7.6% and 35%, respectively ( 82). Fontan patients have several
+baseline risk factors including multiple prior cardiac surgeries
+with exposure to blood products and homograft and
+signiﬁcant aortopulmonary collateral burden. Therefore, at
+transplant they are at increased risk of surgical complications
+including complicated dissection, bleeding, and longer
+ischemic time, as well as longer term complications such as
+rejection due to presensitization ( 153, 154). Identi ﬁed risk
+factors for worse outcomes include increasing age among
+adult patients and preserved ventricular function ( 28, 82).
+This may be because Fontan patients with preserved
+ventricular function are more likely to have long term
+malnutrition, immunosuppression, and pulmonary
+complications, therefore there is possible bene ﬁt to earlier
+referral in this population. Patients with PLE who survive
+transplant have been shown to have resolution of their PLE
+(147, 150, 155). The most common causes of death after
+transplant in patients with a Fontan are similar to other
+transplant populations and include infection, early graft
+failure, rejection and sudden death ( 147).
+One area of active research in Fontan management is in
+multiorgan transplant. Fontan associated liver disease is
+common and some patients with hepatic dysfunction will
+undergo heart-liver transplantation. There is discrepant data
+regarding whether outcomes are better in Fontan patients
+with cirrhosis undergoing heart-liver transplant vs. heart
+transplant alone ( 156–158
+). It is not known which patients
+are likely to have reversal of hepatic dysfunction after heart
+transplant alone and thus universal indications for heart-liver
+transplant remain unde ﬁned.
+Summary
+Circulatory failure in patients with a Fontan circulation is
+becoming an increasingly common issue. Management of
+Fontan failure is dependent upon identi ﬁcation of the
+underlying etiology, which may include ventricular systolic
+and diastolic dysfunction, atrioventricular valve regurgitation,
+arrhythmia, and lymphatic insuf ﬁciency. Surgical and
+catheter-based interventions may be effective in addressing
+speciﬁc causes of Fontan failure but can be high risk for
+patients. Medical therapies are frequently tried but not very
+effective overall, and thus advanced heart failure therapies are
+often required, including inotropic infusions, ventricular assist
+devices, and heart transplantation. There remains considerable
+room for improvement in the management and outcomes of
+patients with circulatory failure after Fontan surgery.
+Author contributions
+All authors contributed to the design, drafting, and critically
+reviewing the manuscript. All authors contributed to the article
+and approved the submitted version.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their
+afﬁliated organizations, or those of the publisher, the editors
+and the reviewers. Any product that may be evaluated in this
+article, or claim that may be made by its manufacturer, is not
+guaranteed or endorsed by the publisher.
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 08 frontiersin.org
+[[p9]]
+References
+PM?q?iK?`?`lK?b?crK?c?aiK?f?l`K?f?lgK??M
+Evaluation and management of the child and adult with Fontan circulation: a
+scientiﬁc statement from the American Heart Association. Circulation. (2019)
+140(6):e234–84. doi: 10.1161/CIR.0000000000000696
+2. Khairy P, Fernandes SM, Mayer Jr JE, Triedman JK, Walsh EP, Lock JE, et al.
+Long-term survival, modes of death, and predictors of mortality in patients with
+Fontan surgery. Circulation. (2008) 117(1):85 –92. doi: 10.1161/
+CIRCULATIONAHA.107.738559
+3. Downing TE, Allen KY, Glatz AC, Rogers LS, Ravishankar C, Rychik J, et al.
+Long-term survival after the Fontan operation: twenty years of experience at a
+single center. J Thorac Cardiovasc Surg . (2017) 154(1):243 –53. e2. doi: 10.1016/
+j.jtcvs.2017.01.056
+4. Iyengar AJ, Winlaw DS, Galati JC, Celermajer DS, Wheaton GR, Gentles TL,
+et al. Trends in Fontan surgery and risk factors for early adverse outcomes after
+Fontan surgery: the Australia and New Zealand Fontan Registry experience.
+J Thorac Cardiovasc Surg . (2014) 148(2):566 –75. doi: 10.1016/j.jtcvs.2013.09.074
+5. Schilling C, Dalziel K, Nunn R, Du Plessis K, Shi WY, Celermajer D, et al. The
+Fontan epidemic: population projections from the Australia and New Zealand
+Fontan registry. Int J Cardiol . (2016) 219:14 –9. doi: 10.1016/j.ijcard.2016.05.035
+6. Kirk R, Dipchand AI, Rosenthal DN, Addonizio L, Burch M, Chrisant M,
+et al. The international society for heart and lung transplantation guidelines for
+the management of pediatric heart failure: executive summary. J Heart Lung
+Transplant. (2014) 33(9):888 –909. doi: 10.1016/j.healun.2014.06.002
+7. Bozkurt B, Coats AJ, Tsutsui H, Abdelhamid M, Adamopoulos S, Albert N, et al.
+Universal deﬁnition and classi ﬁcation of heart failure: a report of the heart failure
+society of America, heart failure association of the European society of cardiology,
+Japanese heart failure society and writing committee of the universal de ﬁnition of
+heart failure. J Card Fail . (2021) 27(4):387–413. doi: 10.1016/j.cardfail.2021.01.022
+8. Ponikowski P, Voors AA, Anker SD, Bueno H, Cleland JGF, Coats AJS, et al.
+2016 ESC guidelines for the diagnosis and treatment of acute and chronic heart
+failure: the task force for the diagnosis and treatment of acute and chronic
+heart failure of the European Society of Cardiology (ESC) developed with the
+special contribution of the Heart Failure Association (HFA) of the ESC. Eur
+Heart J . (2016) 37(27):2129 –200. doi: 10.1093/eurheartj/ehw128
+9. Alsaied T, Rathod RH, Aboulhosn JA, Budts W, Anderson JB, Baumgartner
+H, et al. Reaching consensus for uni ﬁed medical language in Fontan care. ESC
+Heart Fail . (2021) 8(5):3894 –905. doi: 10.1002/ehf2.13294
+10. Piran S, Veldtman G, Siu S, Webb GD, Liu PP. Heart failure and ventricular
+dysfunction in patients with single or systemic right ventricles. Circulation. (2002)
+105(10):1189–94. doi: 10.1161/hc1002.105182
+11. Book WM, Gerardin J, Saraf A, Marie Valente A, Rodriguez III F. Clinical
+phenotypes of Fontan failure: implications for management. Congenit Heart
+Dis. (2016) 11(4):296 –308. doi: 10.1111/chd.12368
+12. Kantor PF, Redington AN. Pathophysiology and management of heart
+failure in repaired congenital heart disease. Heart Fail Clin . (2010) 6
+(4):497–506. doi: 10.1016/j.hfc.2010.06.002
+13. Law YM, Ettedgui J, Beerman L, Maisel A, Tofovic S. Comparison of plasma
+B-type natriuretic peptide levels in single ventricle patients with systemic ventricle
+heart failure versus isolated cavopulmonary failure. Am J Cardiol . (2006) 98
+(4):520–4. doi: 10.1016/j.amjcard.2006.02.058
+14. Del Castillo S, Shaddy RE, Kantor PF. Update on pediatric heart failure. Curr
+Opin Pediatr . (2019) 31(5):598 –603. doi: 10.1097/MOP.0000000000000807
+15. Sallmon H, Ovroutski S, Schleiger A, Photiadis J, Weber SC, Nordmeyer J,
+et al. Late Fontan failure in adult patients is predominantly associated with
+deteriorating ventricular function. Int J Cardiol . (2021) 344:87 –94. doi: 10.1016/
+j.ijcard.2021.09.042
+16. Zomer A, Vaartjes I, Van Der Velde E, De Jong H, Konings T, Wagenaar L,
+et al. Heart failure admissions in adults with congenital heart disease; risk factors
+and prognosis. Int J Cardiol. (2013) 168(3):2487–93. doi: 10.1016/j.ijcard.2013.03.003
+17. d ’Udekem Y, Iyengar AJ, Galati JC, Forsdick V, Weintraub RG, Wheaton
+GR, et al. Rede ﬁning expectations of long-term survival after the Fontan
+procedure: twenty- ﬁve years of follow-up from the entire population of
+Australia and New Zealand. Circulation. (2014) 130(11_suppl_1):S32 –8. doi: 10.
+1161/CIRCULATIONAHA.113.007764
+18. Byrne RD, Weingarten AJ, Clark DE, Healan SJ, Richardson TL, Huang S,
+et al. Sizing up Fontan failure: association with increasing weight in adulthood.
+Pediatr Cardiol . (2021) 42(6):1425 –32. doi: 10.1007/s00246-021-02628-8
+19. Ghai A, Harris L, Harrison DA, Webb GD, Siu SC. Outcomes of late atrial
+tachyarrhythmias in adults after the Fontan operation. J Am Coll Cardiol . (2001)
+37(2):585–92. doi: 10.1016/S0735-1097(00)01141-4
+20. King G, Ayer J, Celermajer D, Zentner D, Justo R, Disney P, et al.
+Atrioventricular valve failure in Fontan palliation. J Am Coll Cardiol . (2019) 73
+(7):810–22. doi: 10.1016/j.jacc.2018.12.025
+21. Burstein DS, Shamszad P, Dai D, Almond CS, Price JF, Lin KY, et al.
+Signiﬁcant mortality, morbidity and resource utilization associated with
+advanced heart failure in congenital heart disease in children and young adults.
+Am Heart J . (2019) 209:9 –19. doi: 10.1016/j.ahj.2018.11.010
+22. Diller G-P, Giardini A, Dimopoulos K, Gargiulo G, Müller J, Derrick G, et al.
+Predictors of morbidity and mortality in contemporary Fontan patients: results
+from a multicenter study including cardiopulmonary exercise testing in 321
+patients. Eur Heart J . (2010) 31(24):3073 –83. doi: 10.1093/eurheartj/ehq356
+23. Atz AM, Zak V, Mahony L, Uzark K, D ’agincourt N, Goldberg DJ, et al.
+Longitudinal outcomes of patients with single ventricle after the Fontan
+procedure. JA mC o l lC a r d i o l. (2017) 69(22):2735–44. doi: 10.1016/j.jacc.2017.03.582
+24. Ohuchi H, Negishi J, Noritake K, Hayama Y, Sakaguchi H, Miyazaki A, et al.
+Prognostic value of exercise variables in 335 patients after the Fontan operation: a
+23-year single-center experience of cardiopulmonary exercise testing. Congenit
+Heart Dis . (2015) 10(2):105 –16. doi: 10.1111/chd.12222
+25. Egbe AC, Driscoll DJ, Khan AR, Said SS, Akintoye E, Berganza FM, et al.
+Cardiopulmonary exercise test in adults with prior Fontan operation: the
+prognostic value of serial testing. Int J Cardiol . (2017) 235:6 –10. doi: 10.1016/j.
+ijcard.2017.02.140
+26. Anderson PA, Sleeper LA, Mahony L, Colan SD, Atz AM, Breitbart RE, et al.
+Contemporary outcomes after the Fontan procedure: a Pediatric Heart Network
+multicenter study. J Am Coll Cardiol
+. (2008) 52(2):85 –98. doi: 10.1016/j.jacc.
+2008.01.074
+27. Miller JR, Simpson KE, Epstein DJ, Lancaster TS, Henn MC, Schuessler RB,
+et al. Improved survival after heart transplant for failed Fontan patients with
+preserved ventricular function. J Heart Lung Transplant . (2016) 35(7):877 –83.
+doi: 10.1016/j.healun.2016.02.005
+28. Grifﬁths ER, Kaza AK, von Ballmoos MCW, Loyola H, Valente AM, Blume
+ED, et al. Evaluating failing Fontans for heart transplantation: predictors of death.
+Ann Thorac Surg . (2009) 88(2):558 –64. doi: 10.1016/j.athoracsur.2009.03.085
+29. Jayakumar KA, Addonizio LJ, Kichuk-Chrisant MR, Galantowicz ME, Lamour
+JM, Quaegebeur JM, et al. Cardiac transplantation after the Fontan or Glenn
+procedure. J Am Coll Cardiol. (2004) 44(10):2065–72. doi: 10.1016/j.jacc.2004.08.031
+30. Gewillig MH, Lundström U, Dean ﬁeld J, Bull C, Franklin R, Graham Jr T,
+et al. Impact of Fontan operation on left ventricular size and contractility in
+tricuspid atresia. Circulation. (1990) 81(1):118 –27. doi: 10.1161/01.CIR.81.1.118
+31. Rathod RH, Prakash A, Powell AJ, Geva T. Myocardial ﬁbrosis identiﬁed by
+cardiac magnetic resonance late gadolinium enhancement is associated with adverse
+ventricular mechanics and ventricular tachycardia late after Fontan operation. JA m
+Coll Cardiol. (2010) 55(16):1721 –8. doi: 10.1016/j.jacc.2009.12.036
+32. Ho P-K, Lai CT, Wong SJ, Cheung Y-F. Three-dimensional mechanical
+dyssynchrony and myocardial deformation of the left ventricle in patients with
+???e?M?i?`?r?d?M?GQOPQH?QT
+(4):393–400. doi: 10.1016/j.echo.2012.01.003
+33. Sanchez-Quintana D, Climent V, Ho S, Anderson R. Myoarchitecture and
+connective tissue in hearts with tricuspid atresia. Heart. (1999) 81(2):182 –91.
+doi: 10.1136/hrt.81.2.182
+34. Rösner A, Khalapyan T, Dalen H, McElhinney DB, Friedberg MK, Lui GK.
+Classic-pattern dyssynchrony in adolescents and adults with a Fontan circulation.
+J Am Soc Echocardiogr . (2018) 31(2):211 –9. doi: 10.1016/j.echo.2017.10.018
+35. Rychik J, Fogel MA, Donofrio MT, Goldmuntz E, Cohen MS, Spray TL, et al.
+Comparison of patterns of pulmonary venous blood ﬂow in the functional single
+ventricle heart after operative aortopulmonary shunt versus superior
+cavopulmonary shunt. Am J Cardiol . (1997) 80(7):922 –6. doi: 10.1016/S0002-
+9149(97)00546-8
+36. van der Ven JP, Alsaied T, Juggan S, Bossers SS, van den Bosch E, Kapusta L,
+et al. Atrial function in Fontan patients assessed by CMR: relation with exercise
+capacity and long-term outcomes. Int J Cardiol . (2020) 312:56 –61. doi: 10.1016/
+j.ijcard.2020.02.060
+37. Critser PJ, Truong V, Powell AW, Almeneisi H, Opotowsky AR, Ollberding
+NJ, et al. Cardiac magnetic resonance derived atrial function in patients with a
+Fontan circulation. Int J Cardiovasc Imaging . (2021) 37(1):275 –84. doi: 10.1007/
+s10554-020-01959-6
+38. van der Ven JP, Bossers SS, van den Bosch E, Dam N, Kuipers IM, van
+Iperen GG, et al. Dobutamine stress testing for the evaluation of atrial and
+diastolic ventricular function in Fontan patients. Open Heart . (2021) 8(1):
+e001487. doi: 10.1136/openhrt-2020-001487
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 09 frontiersin.org
+[[p10]]
+39. Margossian R, Schwartz ML, Prakash A, Wruck L, Colan SD, Atz AM, et al.
+Comparison of echocardiographic and cardiac magnetic resonance imaging
+measurements of functional single ventricular volumes, mass, and ejection
+fraction (from the Pediatric Heart Network Fontan Cross-Sectional Study). Am
+J Cardiol . (2009) 104(3):419 –28. doi: 10.1016/j.amjcard.2009.03.058
+40. Rathod RH, Prakash A, Kim YY, Germanakis IE, Powell AJ, Gauvreau K,
+et al. Cardiac magnetic resonance parameters predict transplantation-free
+survival in patients with fontan circulation. Circ Cardiovasc Imaging . (2014) 7
+(3):502–9. doi: 10.1161/CIRCIMAGING.113.001473
+41. Meyer SL, St. Clair N, Powell AJ, Geva T, Rathod RH. Integrated clinical and
+magnetic resonance imaging assessments late after Fontan operation. J Am Coll
+Cardiol. (2021) 77(20):2480 –9. doi: 10.1016/j.jacc.2021.03.312
+42. Fogel MA. The Fontan: “Straining” to understand that “the bigger they come,
+the harder they fall ”. Washington, DC: American College of Cardiology
+Foundation (2021). 2490 –3.
+43. van den Bosch E, Bossers SS, Robbers-Visser D, Boersma E, Roos-Hesselink
+JW, Breur HM, et al. Ventricular response to dobutamine stress CMR is a
+predictor for outcome in Fontan patients. JACC Cardiovasc Imaging . (2019) 12
+(2):368–70. doi: 10.1016/j.jcmg.2018.07.025
+44. Cheung Y, Penny D, Redington A. Serial assessment of left ventricular
+diastolic function after Fontan procedure. Heart. (2000) 83(4):420 –4. doi: 10.
+1136/heart.83.4.420
+45. Budts W, Ravekes WJ, Danford DA, Kutty S. Diastolic heart failure in
+patients with the Fontan circulation: a review. JAMA Cardiol . (2020) 5
+(5):590–7. doi: 10.1001/jamacardio.2019.5459
+46. Margossian R, Sleeper LA, Pearson GD, Barker PC, Mertens L, Quartermain
+MD, et al. Assessment of diastolic function in single-ventricle patients after the
+Fontan procedure. J Am Soc Echocardiogr . (2016) 29(11):1066 –73. doi: 10.1016/
+j.echo.2016.07.016
+47. Menon SC, Gray R, Tani LY. Evaluation of ventricular ﬁlling pressures and
+ventricular function by Doppler echocardiography in patients with functional
+single ventricle: correlation with simultaneous cardiac catheterization. J Am Soc
+Echocardiogr. (2011) 24(11):1220 –5. doi: 10.1016/j.echo.2011.08.011
+48. Ste ﬂik D, Butts RJ, Baker GH, Bandisode V, Savage A, Atz AM, et al. A
+preliminary comparison of two-dimensional speckle tracking echocardiography
+and pressure –volume loop analysis in patients with Fontan physiology: the role
+of ventricular morphology. Echocardiography. (2017) 34(9):1353 –9. doi: 10.
+1111/echo.13641
+49. Takahashi K, Inage A, Rebeyka I, Ross D, Thompson R, Mackie A, et al.
+Real-time 3-dimensional echocardiography provides new insight into
+mechanisms of tricuspid valve regurgitation in patients with hypoplastic left
+heart syndrome. Circulation. (2009) 120(12):1091 –8. doi: 10.1161/
+CIRCULATIONAHA.108.809566
+50. Ohye RG, Gomez CA, Goldberg CS, Graves HL, Devaney EJ, Bove EL.
+Repair of the tricuspid valve in hypoplastic left heart syndrome. Cardiol Young .
+(2006) 16(S3):21 –6. doi: 10.1017/S1047951106000722
+51. Stamm C, Anderson RH, Ho SY. The morphologically tricuspid valve in
+hypoplastic left heart syndrome. Eur J Cardiothorac Surg . (1997) 12(4):587 –92.
+doi: 10.1016/S1010-7940(97)00184-X
+52. Dupuis M, Mahjoub H, Clavel MA, Côté N, Toubal O, Tastet L, et al.
+Forward left ventricular ejection fraction: a simple risk marker in patients with
+primary mitral regurgitation. J Am Heart Assoc . (2017) 6(11):e006309. doi: 10.
+1161/JAHA.117.006309
+53. Tseng SY, Siddiqui S, Di Maria MV, Hill GD, Lubert AM, Kutty S, et al.
+Atrioventricular valve regurgitation in single ventricle heart disease: a common
+problem associated with progressive deterioration and mortality. J Am Heart
+Assoc. (2020) 9(11):e015737. doi: 10.1161/JAHA.119.015737
+54. Mertens L, Hagler DJ, Sauer U, Somerville J, Gewillig M. Protein-
+losing enteropathy after the Fontan operation: an international multicenter study.
+J Thorac Cardiovasc Surg . (1998) 115(5):1063 –73. doi: 10.1016/S0022-5223(98)
+70406-4
+55. Feldt RH, Driscoll DJ, Offord KP, Cha RH, Perrault J, Schaff HV, et al.
+Protein-losing enteropathy after the Fontan operation. J Thorac Cardiovasc
+Surg. (1996) 112(3):672 –80. doi: 10.1016/S0022-5223(96)70051-X
+56. Allen KY, Downing TE, Glatz AC, Rogers LS, Ravishankar C, Rychik J, et al.
+Effect of Fontan-associated morbidities on survival with intact Fontan circulation.
+Am J Cardiol . (2017) 119(11):1866 –71. doi: 10.1016/j.amjcard.2017.03.004
+57. Caruthers RL, Kempa M, Loo A, Gulbransen E, Kelly E, Erickson SR, et al.
+Demographic characteristics and estimated prevalence of Fontan-associated plastic
+bronchitis. Pediatr Cardiol. (2013) 34(2):256–61. doi: 10.1007/s00246-012-0430-5
+58. Rychik J, Gui-Yang S. Relation of mesenteric vascular resistance after Fontan
+operation and protein-losing enteropathy. Am J Cardiol . (2002) 90(6):672 –4.
+doi: 10.1016/S0002-9149(02)02584-5
+59. Ostrow AM, Freeze H, Rychik J. Protein-losing enteropathy after Fontan
+operation: investigations into possible pathophysiologic mechanisms. Ann
+Thorac Surg . (2006) 82(2):695 –700. doi: 10.1016/j.athoracsur.2006.02.048
+60. Bode L, Freeze HH. Applied glycoproteomics — approaches to study genetic-
+environmental collisions causing protein-losing enteropathy. Biochim Biophys
+Acta. (2006) 1760(4):547 –59. doi: 10.1016/j.bbagen.2005.11.004
+61. Schleiger A, Ovroutski S, Peters B, Schubert S, Photiadis J, Berger F, et al.
+Treatment strategies for protein-losing enteropathy in Fontan-palliated patients.
+Cardiol Young . (2020) 30(5):698 –709. doi: 10.1017/S1047951120000864
+62. Biko DM, DeWitt AG, Pinto EM, Morrison RE, Johnstone JA, Grif ﬁsH ,
+et al. MRI Evaluation of lymphatic abnormalities in the neck and thorax after
+Fontan surgery: relationship with outcome. Radiology. (2019) 291(3):774.
+doi: 10.1148/radiol.2019180877
+63. Dori Y, Keller MS, Fogel MA, Rome JJ, Whitehead KK, Harris MA, et al.
+MRI Of lymphatic abnormalities after functional single-ventricle palliation
+surgery. Am J Roentgenol . (2014) 203(2):426 –31. doi: 10.2214/AJR.13.11797
+64. Tomasulo CE, Chen JM, Smith CL, Maeda K, Rome JJ, Dori Y. Lymphatic
+disorders and management in patients with congenital heart disease. Ann Thorac
+Surg. (2020) 113(4):1101 –11. doi: 10.1016/j.athoracsur.2020.10.058
+65. John AS, Johnson JA, Khan M, Driscoll DJ, Warnes CA, Cetta F. Clinical
+outcomes and improved survival in patients with protein-losing enteropathy
+after the Fontan operation. J Am Coll Cardiol . (2014) 64(1):54 –62. doi: 10.1016/
+j.jacc.2014.04.025
+66. Pundi KN, Johnson JN, Dearani JA, Pundi KN, Li Z, Hinck CA, et al. 40-
+year follow-up after the Fontan operation: long-term outcomes of 1,052
+patients. J Am Coll Cardiol . (2015) 66(15):1700
+–10. doi: 10.1016/j.jacc.2015.07.065
+67. Pundi KN, Pundi KN, Johnson JN, Dearani JA, Li Z, Driscoll DJ, et al.
+Sudden cardiac death and late arrhythmias after the Fontan operation. Congenit
+Heart Dis . (2017) 12(1):17 –23. doi: 10.1111/chd.12401
+68. Nakamura Y, Yagihara T, Kagisaki K, Hagino I, Kobayashi J. Ventricular
+performance in long-term survivors after Fontan operation. Ann Thorac Surg .
+(2011) 91(1):172 –80. doi: 10.1016/j.athoracsur.2010.07.055
+69. Barber BJ, Batra AS, Burch GH, Shen I, Ungerleider RM, Brown JW, et al.
+Acute hemodynamic effects of pacing in patients with Fontan physiology: a
+prospective study. J Am Coll Cardiol . (2005) 46(10):1937 –42. doi: 10.1016/j.jacc.
+2005.07.045
+70. Anderson PA, Breitbart RE, McCrindle BW, Sleeper LA, Atz AM, Hsu DT,
+et al. The Fontan patient: inconsistencies in medication therapy across seven
+pediatric heart network centers. Pediatr Cardiol . (2010) 31(8):1219 –28. doi: 10.
+1007/s00246-010-9807-5
+71. Schumacher K, Kindel S. Considerations for advanced heart failure
+consultation in Fontan Patients: Guidance for primary cardiologists. Advanced
+Cardiac Therapies Improving Outcomes Network. Available from: http://
+wwwactionlearningnetworkorg (Accessed May, 2019);16.
+72. Bansal N, Burstein DS, Lorts A, Smyth L, Rosenthal DN, Peng DM. Heart
+failure in children: priorities and approach of the ACTION collaborative. Prog
+Pediatr Cardiol . (2020) 59:101313. doi: 10.1016/j.ppedcard.2020.101313
+73. Mets JM, Bergersen L, Mayer Jr JE, Marshall AC, McElhinney DB.
+Outcomes of stent implantation for obstruction of intracardiac lateral tunnel
+Fontan pathways. Circ: Cardiovasc Interventions . (2013) 6(1):92 –100. doi: 10.
+1161/CIRCINTERVENTIONS.112.000099
+74. Jacobs ML, Rychik J, Byrum CJ, Norwood Jr WI. Protein-losing enteropathy
+after Fontan operation: resolution after baf ﬂe fenestration. Ann Thorac Surg .
+(1996) 61(1):206 –8. doi: 10.1016/0003-4975(95)00659-1
+75. Kylat RI, Witte MH, Barber BJ, Dori Y, Ghishan FK. Resolution of protein-
+losing enteropathy after congenital heart disease repair by selective lymphatic
+embolization. Pediatr Gastroenterol Hepatol Nutr . (2019) 22(6):594 –600. doi: 10.
+5223/pghn.2019.22.6.594
+76. Dori Y, Keller MS, Rome JJ, Gillespie MJ, Glatz AC, Dodds K, et al.
+Percutaneous lymphatic embolization of abnormal pulmonary lymphatic ﬂow as
+treatment of plastic bronchitis in patients with congenital heart disease.
+Circulation. (2016) 133(12):1160–70. doi: 10.1161/CIRCULATIONAHA.115.019710
+77. DePopas EM, Veress LA, Ahmed F, Rausch CM, Annam A, Gupta R.
+Percutaneous thoracic duct intervention to treat plastic bronchitis related to
+Fontan palliation. Pediatr Pulmonol . (2017) 52(11):E97 –E101. doi: 10.1002/ppul.
+23793
+78. Smith CL, Dori Y, O ’Byrne ML, Glatz AC, Gillespie MJ, Rome JJ.
+Transcatheter thoracic duct decompression for multicompartment lymphatic
+failure after Fontan palliation. Circ: Cardiovasc Interventions . (2022) 15(7):
+e011733. doi: 10.1161/CIRCINTERVENTIONS.121.011733
+79. Moore BM, Anderson R, Nisbet AM, Kalla M, du Plessis K, d ’Udekem Y,
+et al. Ablation of atrial arrhythmias after the atriopulmonary Fontan procedure:
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 10 frontiersin.org
+[[p11]]
+mechanisms of arrhythmia and outcomes. JACC Clin Electrophysiol . (2018) 4
+(10):1338–46. doi: 10.1016/j.jacep.2018.08.012
+80. Van Melle JP, Wolff D, Hörer J, Belli E, Meyns B, Padalino M, et al. Surgical
+options after Fontan failure. Heart. (2016) 102(14):1127 –33. doi: 10.1136/heartjnl-
+2015-309235
+81. Brida M, Baumgartner H, Gatzoulis MA, Diller G-P. Early mortality and
+concomitant procedures related to Fontan conversion: quantitative analysis. Int
+J Cardiol . (2017) 236:132 –7. doi: 10.1016/j.ijcard.2017.01.111
+82. Serfas JD, Thibault D, Andersen ND, Chiswell K, Jacobs JP, Jacobs ML, et al.
+The evolving surgical burden of Fontan failure: an analysis of the society of
+thoracic surgeons congenital heart surgery database. Ann Thorac Surg . (2021)
+112(1):179–87. doi: 10.1016/j.athoracsur.2020.05.174
+83. Fuller SM, He X, Jacobs JP, Pasquali SK, Gaynor JW, Mascio CE, et al.
+Estimating mortality risk for adult congenital heart surgery: an analysis of the
+society of thoracic surgeons congenital heart surgery database. Ann Thorac
+Surg. (2015) 100(5):1728 –36. doi: 10.1016/j.athoracsur.2015.07.002
+84. Hraska V, Mitchell ME, Woods RK, Hoffman GM, Kindel SJ, Ginde S.
+editors. Innominate vein turn-down procedure for failing Fontan circulation. In:
+Seminars in thoracic and cardiovascular surgery: Pediatric cardiac surgery
+annual. (2020) Elsevier. p. 34 –40
+85. Hraska V, Hjortdal VE, Dori Y, Kreutzer C. Innominate vein turn-down
+procedure: killing two birds with one stone. JTCVS Tech . (2021) 7:253 –60.
+doi: 10.1016/j.xjtc.2021.01.045
+86. Doulamis IP, Marathe SP, Piekarski B, Beroukhim RS, Marx GR, Pedro J,
+et al. Biventricular conversion after Fontan completion: a preliminary
+experience. J Thorac Cardiovasc Surg . (2022) 163(3):1211 –23. doi: 10.1016/j.
+jtcvs.2021.04.076
+87. King G, d ’Udekem Y. Commentary: moderate atrioventricular valve
+regurgitation may be too much to bear for a single ventricle. J Thorac
+Cardiovasc Surg . (2019) 158(6):1649 –51. doi: 10.1016/j.jtcvs.2019.08.063
+88. Stephens EH, Dearani JA. Management of the bad atrioventricular valve in
+Fontan… time for a change. J Thorac Cardiovasc Surg . (2019) 158(6):1643 –8.
+doi: 10.1016/j.jtcvs.2019.08.129
+89. Cetta F, Driscoll DJ. Bad atrioventricular valve, bad Fontan: stop creating bad
+fontans. Washington, DC: American College of Cardiology Foundation
+(2019).. p. 823 –5.
+90. Ohye RG, Gomez CA, Goldberg CS, Graves HL, Devaney EJ, Bove EL.
+Tricuspid valve repair in hypoplastic left heart syndrome. J Thorac Cardiovasc
+Surg. (2004) 127(2):465 –72. doi: 10.1016/j.jtcvs.2003.07.053
+91. Oldenburger NJ, Mank A, Etnel J, Takkenberg JJ, Helbing WA. Drug
+therapy in the prevention of failure of the Fontan circulation: a systematic
+review. Cardiol Young . (2016) 26(5):842 –50. doi: 10.1017/S1047951115002747
+92. Yim DL, Jones BO, Alexander PM, d ’Udekem Y, Cheung MM. Effect of anti-
+heart failure therapy on diastolic function in children with single-ventricle
+circulations. Cardiol Young. (2015) 25(7):1293–9. doi: 10.1017/S1047951114002376
+93. Kouatli AA, Garcia JA, Zellers TM, Weinstein EM, Mahony L. Enalapril
+does not enhance exercise capacity in patients after Fontan procedure.
+Circulation. (1997) 96(5):1507 –12. doi: 10.1161/01.CIR.96.5.1507
+94. Ohuchi H, Hasegawa S, Yasuda K, Yamada O, Ono Y, Echigo S. Severely
+impaired cardiac autonomic nervous activity after the Fontan operation.
+Circulation. (2001) 104(13):1513 –8. doi: 10.1161/hc3801.096326
+95. Mori Y, Nakazawa M, Tomimatsu H, Momma K. Long-term effect of
+angiotensin-converting enzyme inhibitor in volume overloaded heart during
+growth: a controlled pilot study. J Am Coll Cardiol . (2000) 36(1):270 –5. doi: 10.
+1016/S0735-1097(00)00673-2
+96. Seguchi M, Nakazawa M, Momma K. Effect of enalapril on infants and
+children with congestive heart failure. Cardiol Young . (1992) 2(1):14 –9. doi: 10.
+1017/S1047951100000524
+97. Leversha AM, Wilson NJ, Clarkson PM, Calder AL, Ramage MC, Neutze
+JM. Ef ﬁcacy and dosage of enalapril in congenital and acquired heart disease.
+Arch Dis Child . (1994) 70(1):35 –9. doi: 10.1136/adc.70.1.35
+98. Shaddy RE, Boucek MM, Hsu DT, Boucek RJ, Canter CE, Mahony L, et al.
+Carvedilol for children and adolescents with heart failure: a randomized
+controlled trial. JAMA. (2007) 298(10):1171 –9. doi: 10.1001/jama.298.10.1171
+99. Ringel RE, Peddy SB. Effect of high-dose spironolactone on protein-losing
+enteropathy in patients with Fontan palliation of complex congenital heart disease.
+Am J Cardiol. (2003) 91(8):1031. doi: 10.1016/S0002-9149(03)00135-8
+100. Okano S, Sugimoto M, Takase M, Iseki K, Kajihama A, Azuma H.
+Effectiveness of high-dose spironolactone therapy in a patient with recurrent
+protein-losing enteropathy after the Fontan procedure. Intern Med . (2016) 55
+(12):1611–4. doi: 10.2169/internalmedicine.55.6303
+101. Shabanian R, Shahbaznejad L, Razaghian A, Kiani A, Rahimzadeh M,
+Seiﬁrad S, et al. Sildena ﬁl and ventriculo-arterial coupling in Fontan-palliated
+patients: a noninvasive echocardiographic assessment. Pediatr Cardiol . (2013)
+34(1):129–34. doi: 10.1007/s00246-012-0400-y
+102. Giardini A, Balducci A, Specchia S, Gargiulo G, Bonvicini M, Picchio FM.
+Effect of sildena ﬁl on haemodynamic response to exercise and exercise capacity in
+Fontan patients. Eur Heart J . (2008) 29(13):1681 –7. doi: 10.1093/eurheartj/ehn215
+103. Van De Bruaene A, La Gerche A, Claessen G, De Meester P, Devroe S,
+Gillijns H, et al. Sildena ﬁl improves exercise hemodynamics in Fontan patients.
+Circ Cardiovasc Imaging . (2014) 7(2):265 –73. doi: 10.1161/CIRCIMAGING.113.
+001243
+104. Hager A, Weber R, Müller J, Hess J. Predictors of sildena ﬁl effects on
+exercise capacity in adolescents and adults with Fontan circulation. Clin Res
+Cardiol. (2014) 103(8):641 –6. doi: 10.1007/s00392-014-0694-2
+105. Goldberg DJ, French B, McBride MG, Marino BS, Mirarchi N, Hanna BD,
+et al. Impact of oral sildena ﬁl on exercise performance in children and young
+adults after the Fontan operation: a randomized, double-blind, placebo-
+controlled, crossover trial. Circulation. (2011) 123(11):1185 –93. doi: 10.1161/
+CIRCULATIONAHA.110.981746
+106. Goldberg DJ, French B, Szwast AL, McBride MG, Marino BS, Mirarchi N,
+et al. Impact of sildena ﬁ
+l on echocardiographic indices of myocardial performance
+after the Fontan operation. Pediatr Cardiol . (2012) 33(5):689 –96. doi: 10.1007/
+s00246-012-0196-9
+107. Goldberg DJ, Zak V, Goldstein BH, Schumacher KR, Rhodes J, Penny DJ,
+et al. Results of the FUEL trial. Circulation. (2020) 141(8):641 –51. doi: 10.1161/
+CIRCULATIONAHA.119.044352
+108. Schuuring MJ, Vis JC, van Dijk AP, van Melle JP, Vliegen HW, Pieper PG,
+et al. Impact of bosentan on exercise capacity in adults after the Fontan procedure:
+a randomized controlled trial. Eur J Heart Fail . (2013) 15(6):690 –8. doi: 10.1093/
+eurjhf/hft017
+109. Hebert A, Mikkelsen UR, Thilen U, Idorn L, Jensen AS, Nagy E, et al.
+Bosentan improves exercise capacity in adolescents and adults after Fontan
+operation: the TEMPO (treatment with endothelin receptor antagonist in
+Fontan patients, a randomized, placebo-controlled, double-blind study
+measuring peak oxygen consumption) study. Circulation. (2014) 130
+(23):2021–30. doi: 10.1161/CIRCULATIONAHA.113.008441
+110. Ovaert C, Thijs D, Dewolf D, Ottenkamp J, Dessy H, Moons P, et al. The
+effect of bosentan in patients with a failing Fontan circulation. Cardiol Young .
+(2009) 19(4):331 –9. doi: 10.1017/S1047951109990023
+111. Rhodes J, Ubeda-Tikkanen A, Clair M, Fernandes SM, Graham DA,
+Milliren CE, et al. Effect of inhaled iloprost on the exercise function of Fontan
+patients: a demonstration of concept. Int J Cardiol . (2013) 168(3):2435 –40.
+doi: 10.1016/j.ijcard.2013.03.014
+112. Haseyama K, Satomi G, Yasukochi S, Matsui H, Harada Y, Uchita S.
+Pulmonary vasodilation therapy with sildena ﬁl citrate in a patient with plastic
+bronchitis after the Fontan procedure for hypoplastic left heart syndrome.
+J Thorac Cardiovasc Surg . (2006) 132(5):1232 –3. doi: 10.1016/j.jtcvs.2006.05.067
+113. Weingarten AJ, Menachem JN, Smith CA, Frischhertz BP, Book WM.
+Usefulness of midodrine in protein-losing enteropathy. J Heart Lung
+Transplant. (2019) 38(7):784 –7. doi: 10.1016/j.healun.2019.04.002
+114. Scallan JP, Zawieja SD, Castorena-Gonzalez JA, Davis MJ. Lymphatic
+pumping: mechanics, mechanisms and malfunction. J Physiol (Lond) . (2016)
+594(20):5749–68. doi: 10.1113/JP272088
+115. Schumacher KR, Cools M, Goldstein BH, Ioffe-Dahan V, King K, Gaffney D,
+et al. Oral budesonide treatment for protein-losing enteropathy in Fontan-palliated
+patients. Pediatr Cardiol. (2011) 32(7):966 –71. doi: 10.1007/s00246-011-0029-2
+116. Kewcharoen J, Mekraksakit P, Limpruttidham N, Kanitsoraphan C,
+Charoenpoonsiri N, Poonsombudlert K, et al. Budesonide for protein losing
+enteropathy in patients with Fontan circulation: a systematic review and meta-
+analysis. World J Pediatr Congenit Heart Surg . (2020) 11(1):85 –91. doi: 10.1177/
+2150135119872196
+117. Egbe AC, Connolly HM, Khan AR, Niaz T, Said SS, Dearani JA, et al.
+Outcomes in adult Fontan patients with atrial tachyarrhythmias. Am Heart J .
+(2017) 186:12 –20. doi: 10.1016/j.ahj.2016.12.015
+118. Joyce J, O ’Leary ET, Mah DY, Harrild DM, Rhodes J. Cardiac
+resynchronization therapy improves the ventricular function of patients with
+Fontan physiology. Am Heart J . (2020) 230:82 –92. doi: 10.1016/j.ahj.2020.09.018
+119. Scheffers LE, Berg L, Ismailova G, Dulfer K, Takkenberg JJ, Helbing WA.
+Physical exercise training in patients with a Fontan circulation: a systematic
+review. Eur J Prev Cardiol . (2021) 28(11):1269–78. doi: 10.1177/2047487320942869
+120. Cesario D, Clark J, Maisel A. Bene ﬁ
+cial effects of intermittent home
+administration of the inotrope/vasodilator milrinone in patients with end-stage
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 11 frontiersin.org
+[[p12]]
+congestive heart failure: a preliminary study. Am Heart J . (1998) 135(1):121 –9.
+doi: 10.1016/S0002-8703(98)70352-7
+121. Ryerson LM, Alexander PM, Butt WW, Shann FA, Penny DJ,
+Shekerdemian LS. Rotating inotrope therapy in a pediatric population with
+decompensated heart failure. Pediatr Crit Care Med . (2011) 12(1):57 –60.
+doi: 10.1097/PCC.0b013e3181e2a437
+122. Berg AM, Snell L, Mahle WT. Home inotropic therapy in children. J Heart
+Lung Transplant . (2007) 26(5):453 –7. doi: 10.1016/j.healun.2007.02.004
+123. López-Candales A, Vora T, Gibbons W, Carron C, Simmons P, Schwartz J.
+Symptomatic improvement in patients treated with intermittent infusion of
+inotropes: a double-blind placebo controled pilot study. JM e d . (2002) 33(1-
+4):129–46. PMID: 12939113
+124. Friedland-Little JM, Gajarski RJ, Schumacher KR. Dopamine as a potential
+rescue therapy for refractory protein-losing enteropathy in Fontan-palliated
+patients. Pediatr Transplant . (2017) 21(4):e12925. doi: 10.1111/petr.12925
+125. Costello JM, Dunbar-Masterson C, Allan CK, Gauvreau K, Newburger JW,
+McGowan Jr FX, et al. Impact of empiric nesiritide or milrinone infusion on early
+postoperative recovery after Fontan surgery: a randomized, double-blind, placebo-
+controlled trial. Circ Heart Fail . (2014) 7(4):596 –604. doi: 10.1161/
+CIRCHEARTFAILURE.113.001312
+126. Ghanayem N, Berger S, Tweddell J. Medical management of the failing
+Fontan. Pediatr Cardiol . (2007) 28(6):465 –71. doi: 10.1007/s00246-007-9007-0
+127. Sorensen GK, Ramamoorthy C, Lynn AM, French J, Stevenson JG.
+Hemodynamic effects of amrinone in children after Fontan surgery. Anesth
+Analg. (1996) 82(2):241 –6.
+128. Nakano SJ, Nelson P, Sucharov CC, Miyamoto SD. Myocardial response to
+milrinone in single right ventricle heart disease. J Pediatr. (2016) 174:199 –203. e5.
+doi: 10.1016/j.jpeds.2016.04.009
+129. Elkayam U, Tasissa G, Binanay C, Stevenson LW, Gheorghiade M, Warnica
+JW, et al. Use and impact of inotropes and vasodilator therapy in hospitalized
+patients with severe heart failure. Am Heart J . (2007) 153(1):98 –104. doi: 10.
+1016/j.ahj.2006.09.005
+130. Weinstein S, Bello R, Pizarro C, Fynn-Thompson F, Kirklin J, Guleserian K,
+et al. The use of the Berlin Heart EXCOR in patients with functional single ventricle.
+J Thorac Cardiovasc Surg . (2014) 147(2):697 –705. doi: 10.1016/j.jtcvs.2013.10.030
+131. Imielski BR, Niebler RA, Kindel SJ, Woods RK. Heartware ventricular assist
+device implantation in patients with Fontan physiology. Artif Organs . (2017) 41
+(1):40–6. doi: 10.1111/aor.12852
+132. Niebler RA, Ghanayem NS, Shah TK, Bobke ADLR, Zangwill S, Brosig C,
+et al. Use of a HeartWare ventricular assist device in a patient with failed Fontan
+circulation. Ann Thorac Surg . (2014) 97(4):e115 –6. doi: 10.1016/j.athoracsur.2013.
+11.075
+133. Morales DL, Adachi I, Heinle JS, Fraser CD. A new era: use of an
+intracorporeal systemic ventricular assist device to support a patient with a
+failing Fontan circulation. J Thorac Cardiovasc Surg . (2011) 142(3):e138 –40.
+doi: 10.1016/j.jtcvs.2011.05.018
+134. Miller JR, Lancaster TS, Callahan C, Abarbanell AM, Eghtesady P. An
+overview of mechanical circulatory support in single-ventricle patients. Transl
+Pediatr. (2018) 7(2):151. doi: 10.21037/tp.2018.03.03
+135. Cedars A, Kutty S, Danford D, Schumacher K, Auerbach S, Bearl D, et al.
+Systemic ventricular assist device support in Fontan patients: a report by ACTION.
+J Heart Lung Transplant. (2021) 40(5):368–
+76. doi: 10.1016/j.healun.2021.01.011
+136. Poh CL, Chiletti R, Zannino D, Brizard C, Konstantinov IE, Horton S, et al.
+Ventricular assist device support in patients with single ventricles: the Melbourne
+experience. Interact Cardiovasc Thorac Surg . (2017) 25(2):310 –6. doi: 10.1093/
+icvts/ivx066
+137. Almond CS, Morales DL, Blackstone EH, Turrentine MW, Imamura M,
+Massicotte MP, et al. Berlin Heart EXCOR pediatric ventricular assist device for
+bridge to heart transplantation in US children. Circulation. (2013) 127
+(16):1702–11. doi: 10.1161/CIRCULATIONAHA.112.000685
+138. Chen S, Rosenthal DN, Murray J, Dykes JC, Almond CS, Yarlagadda VV,
+et al. Bridge to transplant with ventricular assist device support in pediatric
+patients with single ventricle heart disease. ASAIO J . (2020) 66(2):205 –11.
+doi: 10.1097/MAT.0000000000000983
+139. O’Connor MJ, Lorts A, Davies RR, Fynn-Thompson F, Joong A, Maeda K,
+et al. Early experience with the HeartMate 3 continuous- ﬂow ventricular assist
+device in pediatric patients and patients with congenital heart disease: a
+multicenter registry analysis. J Heart Lung Transplant . (2020) 39(6):573 –9.
+doi: 10.1016/j.healun.2020.02.007
+140. Rossano JW, VanderPluym CJ, Peng DM, Hollander SA, Maeda K, Adachi
+I, et al. Fifth annual pediatric interagency registry for mechanical circulatory
+support (Pedimacs) report. Ann Thorac Surg . (2021) 112(6):1763 –74. doi: 10.
+1016/j.athoracsur.2021.10.001
+141. Nandi D, Miller KD, Bober CM, Rosenthal TM, Montenegro LM, Rossano
+JW, et al. Systemic atrioventricular valve excision and ventricular assist devices in
+pediatric patients. Ann Thorac Surg . (2018) 105(1):170 –4. doi: 10.1016/j.
+athoracsur.2017.05.038
+142. Nathan M, Baird C, Fynn-Thompson F, Almond C, Thiagarajan R, Laussen
+P, et al. Successful implantation of a Berlin heart biventricular assist device in a
+failing single ventricle. J Thorac Cardiovasc Surg . (2006) 131(6):1407 –8. doi: 10.
+1016/j.jtcvs.2006.02.015
+143. Rossano JW, Goldberg DJ, Fuller S, Ravishankar C, Montenegro LM,
+Gaynor JW. Successful use of the total arti ﬁcial heart in the failing Fontan
+circulation. Ann Thorac Surg . (2014) 97(4):1438 –40. doi: 10.1016/j.athoracsur.
+2013.06.120
+144. Prêtre R, Häussler A, Bettex D, Genoni M. Right-sided univentricular
+cardiac assistance in a failing Fontan circulation. Ann Thorac Surg . (2008) 86
+(3):1018–20. doi: 10.1016/j.athoracsur.2008.03.003
+145. Coffman ZJ, Bandisode VM, Kavarana MN, Buckley JR. Utilization of an
+Abiomed Impella Device as a rescue therapy for acute ventricular failure in a
+Fontan patient. World J Pediatr Congenit Heart Surg . (2019) 10(4):518 –9.
+doi: 10.1177/2150135119847147
+146. Morray BH, Dimas VV, Lim S, Balzer DT, Parekh DR, Van Mieghem NM,
+et al. Circulatory support using the Impella device in Fontan patients with
+systemic ventricular dysfunction: a multicenter experience. Catheter Cardiovasc
+Interv. (2017) 90(1):118 –23. doi: 10.1002/ccd.26885
+147. Bernstein D, Naftel D, Chin C, Addonizio L, Gamberg P, Blume E, et al.
+Outcome of listing for cardiac transplantation for failed Fontan: a multi-
+institutional study. Circulation. (2006) 114(4):273 –80. doi: 10.1161/
+CIRCULATIONAHA.105.548016
+148. Alshawabkeh LI, Hu N, Carter KD, Opotowsky AR, Light-McGroary K,
+Cavanaugh JE, et al. Wait-list outcomes for adults with congenital heart disease
+listed for heart transplantation in the US. J Am Coll Cardiol . (2016) 68
+(9):908–17. doi: 10.1016/j.jacc.2016.05.082
+149. Carey JA, Hamilton JL, Hilton CJ, Dark JH, Forty J, Parry G, et al.
+Orthotopic cardiac transplantation for the failing Fontan circulation. Eur
+J Cardiothorac Surg . (1998) 14(1):7 –14. doi: 10.1016/S1010-7940(98)00130-4
+150. Gamba A, Merlo M, Fiocchi R, Terzi A, Mammana C, Sebastiani R, et al.
+Heart transplantation in patients with previous Fontan operations. J Thorac
+Cardiovasc Surg . (2004) 127(2):555 –62. doi: 10.1016/j.jtcvs.2003.08.016
+151. Simpson KE, Pruitt E, Kirklin JK, Naftel DC, Singh RK, Edens RE, et al.
+Fontan patient survival after pediatric heart transplantation has improved in the
+current era. Ann Thorac Surg . (2017) 103(4):1315 –20. doi: 10.1016/j.athoracsur.
+2016.08.110
+152. Michielon G, Parisi F, Di Carlo D, Squitieri C, Carotti A, Buratta M,
+et al. Orthotopic heart transplantation for failing single ventricle physiology.
+Eur J Cardiothorac Surg . (2003) 24(4):502 –10. doi: 10.1016/S1010-7940(03)
+00342-7
+153. Lamour JM, Kanter KR, Naftel DC, Chrisant MR, Morrow WR, Clemson
+BS, et al. The effect of age, diagnosis, and previous surgery in children and adults
+undergoing heart transplantation for congenital heart disease. J Am Coll Cardiol .
+(2009) 54(2):160 –5. doi: 10.1016/j.jacc.2009.04.020
+154. Dipchand AI, Edwards LB, Kucheryavaya AY, Benden C, Dobbels F, Levvey
+BJ, et al. The registry of the International Society for Heart and Lung
+Transplantation: seventeenth of ﬁcial pediatric heart transplantation report —
+2014; focus theme: retransplantation. J Heart Lung Transplant . (2014) 33
+(10):985–95. doi: 10.1016/j.healun.2014.08.002
+155. Schumacher KR, Yu S, Butts R, Castleberry C, Chen S, Edens E, et al.
+Fontan-associated protein-losing enteropathy and post –heart transplant
+outcomes: a multicenter study. J Heart Lung Transplant . (2019) 38(1):17 –25.
+doi: 10.1016/j.healun.2018.09.024
+156. Bryant 3rd R, Rizwan R, Zafar F, Shah SA, Chin C, Tweddell JS, et al.
+Contemporary outcomes of combined heart-liver transplant in patients with
+congenital heart disease. Transplantation. (2018) 102(2):e67 –e73. doi: 10.1097/
+TP.0000000000001978
+157. Sganga D, Hollander SA, Vaikunth S, Haeffele C, Bensen R, Navaratnam
+M, et al. Comparison of combined heart –liver vs heart-only transplantation in
+pediatric and young adult Fontan recipients. J Heart Lung Transplant . (2021)
+40(4):298–306. doi: 10.1016/j.healun.2020.12.008
+158. Simpson KE, Esmaeeli A, Khanna G, White F, Turnmelle Y, Eghtesady P,
+et al. Liver cirrhosis in Fontan patients does not affect 1-year post-heart transplant
+mortality or markers of liver function. J Heart Lung Transplant . (2014) 33
+(2):170–7. doi: 10.1016/j.healun.2013.10.033
+Kamsheh et al. 10.3389/fped.2022.1020984
+Frontiers in Pediatrics 12 frontiersin.org

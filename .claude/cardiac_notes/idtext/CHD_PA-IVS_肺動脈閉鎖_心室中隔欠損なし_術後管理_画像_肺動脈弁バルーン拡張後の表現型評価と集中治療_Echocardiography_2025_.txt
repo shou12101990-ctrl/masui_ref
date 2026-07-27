@@ -1,0 +1,491 @@
+
+[[p1]]
+Echocardiography
+ORIGINALARTICLE
+EchocardiographicAssessmentofCardiacPhenotype
+PredictsComplicationsandGuidesIntensiveCare
+ManagementFollowingPulmonaryValveBalloonDilation
+inNeonatesWithPulmonaryAtresia/CriticalPulmonary
+StenosisWithIntactVentricularSeptum
+PatrizioMoras1 PasquiniLuciano2 CosimoMarcoCampanale 1 MarcoMasci1 VentrellaSerena1
+DiChiaraLuca 3 ButeraGianfranco4 AlessandraToscano1
+1PerinatalCardiologyUnit,BambinoGesùChildren’sHospitalIRCCS,Rome,Italy 2DepartmentofMaternal-FetalMedicine,PoliclinicoA.GemelliIRCCS,
+Rome,Italy 3PediatricCardiacIntensiveCareUnit,BambinoGesùChildren’sHospitalIRCCS,Rome,Italy 4InterventionalCardiologyUnit,BambinoGesù
+Children’sHospitalIRCCS,Rome,Italy
+Correspondence:PatrizioMoras( patrizio.moras@opbg.net)
+Received:28March2025 Revised:21April2025 Accepted:26April2025
+Keywords:CardiacIntensiveCare|CongenitalHeartiDisease|NeonatalEchocardiography|PulmonaryAtresia|PulmonaryStenosis
+ABSTRACT
+Introduction:Pulmonaryvalveballoondilation(PVBD)haslargelyreplacedsurgicaldecompressionasthepreferredtreatment
+for neonates with pulmonary atresia with intact ventricular septum (PAIVS) or critical pulmonary stenosis (CPS). This study
+aimstoevaluatewhetherechocardiographicmorphologicalandfunctionalassessmentcanpredictearlycomplicationsandguide
+intensivecaremanagementfollowingPVBDinthispopulation.
+Methods:Weretrospectivelyanalyzed27neonateswithPAIVSorCPSwhounderwentPVBDbetween 2017and2023.Patients
+were divided into Group A (tripartite right ventricle [RV], developed infundibulum) and Group B (bipartite RV, hypoplastic
+infundibulum).Echocardiographic,catheterization,andclinicaldatawerereviewedandcompared.
+Results:GroupAhadhigherratesoftransientleftventricularsystolicdysfunction(92.9%vs.15.4%, p <0.001)andrequiredmore
+ventilatoryandinotropicsupport.GroupBwasmorepronetoinfundibularspasm(76.9%vs.21.4%, p =0.004)andoftenneeded
+beta-blockersoradditionalpulmonarybloodflow.
+Conclusion: Echocardiographic RV phenotype is associated with specific post-PVBD complications and may help guide early
+post-proceduralmanagement.
+1 Introduction
+PulmonaryAtresiawithIntactVentricularSeptum(PAIVS)and
+Critical Pulmonary Stenosis (CPS) are ductal-dependent con-
+genital heart diseases characterized by right ventricular (RV)
+outflowtractobstructionandvariabledegreesofrightventricular
+hypoplasia. Currently, transcatheter pulmonary valve balloon
+dilation (PVBD), following pulmonary valve (PV) perforation
+if needed, is the preferred treatment in neonates with mem-
+branous PAIVS or CPS, provided RV anatomy is adequate, the
+tricuspid valve (TV) annulusz-score acceptable, and there is no
+RV-dependent coronary circulation [1, 2]. Over time, surgical
+Thisisanopenaccessarticleunderthetermsofthe CreativeCommonsAttribution-NonCommercial License,whichpermitsuse,distributionandreproductioninanymedium,providedtheoriginal
+workisproperlycitedandisnotusedforcommercialpurposes.
+©2025TheAuthor(s). EchocardiographypublishedbyWileyPeriodicalsLLC.
+Echocardiography,2025;42:e70182
+https://doi.org/10.1111/echo.70182
+1of6
+[[p2]]
+FIGURE 1 Four-chamberviewinneonateswithpulmonaryatresiaandintactventricularseptum.(A)GroupA:Therightventricleistripartite
+withmildhypertrophy.Thetricuspidvalveisseverelydysplastic,featuringanannulardiameterwithinnormallimitsandsevereregurgitation.No tethe
+markeddilationoftherightatrium.(B)GroupB:Therightventricleisbipartiteandmarkedlyhypertrophied(*).Thetricuspidvalvehasahypoplast ic
+annulusandexhibitsmild-to-moderateregurgitation.LA,leftatrium;LV,leftventricle;RA,rightatrium;RV,rightventricle.
+FIGURE 2 Short-axisviewinneonateswithpulmonaryatresiaandintactventricularseptum.(A)GroupA:Theinfundibulumispatentandwell-
+developed.(B)GroupB:Theinfundibulumishypoplasticduetomarkedhypertrophyofitsmuscularwallsandtheinfundibularseptum(*).AV,aortic
+valve;MPA,mainpulmonaryartery;PV,pulmonaryvalve.
+decompression ±Blalock-Taussigshunthasbeenlargelyreplaced
+byPVBD,withasignificantreductioninmorbidityandmortality
+[3–5]. RV morphology, TV annulus size, and coronary anoma-
+lies are key prognostic and management factors [6–10]. While
+therapeutic strategies based on RV morphology have been well
+described [1, 10, 11], little is known about post-procedural phar-
+macologic and intensive care approaches according to different
+cardiac phenotypes. The aim of this study is to assess whether
+echocardiographic morphological and functional analysis can
+predict complications, clinical outcomes, and the type of inten-
+sive treatment required soon after PVBD in patients with PAIV
+andCPS.
+2 Methods
+2.1 StudyPopulationandPatients’selection
+We retrospectively analyzed newborns diagnosed with either
+PAIVS or critical PS (requiring prostaglandin infusion) treated
+with transcatheter PV valvuloplasty ± PV radiofrequency
+perforation at our institution between October 2017 and
+August 2023. Patients were divided into two groups (Group
+A and Group B) based on the morphology of the RV and the
+Infundibulum.
+Group A patients had a mildly hypertrophic but tripartite RV,
+and a well-developed, patent infundibulum. Group B included
+patients with a borderline, bipartite RV, with a markedly atten-
+uated pars trabeculata, and a hypoplastic infundibulum due to
+various degrees of subvalvular pulmonary muscle overgrowth
+(Figures1,2).
+Neonates older than 1 week at cardiac catheterization and with
+a severe, but non-ductal-dependent PV stenosis, were excluded
+from the study. Patients with a RV-dependent coronary circu-
+lation, those who underwent surgical RV decompression and
+univentricular palliation, were also excluded. The study was
+approved by the Institutional Review Board of Bambino Gesù
+Children’sHospital,Rome.
+2of6 Echocardiography,2025
+[[p3]]
+FIGURE 3 Tricuspid valve annulus measurement. The tricuspid
+annulardiameterismeasuredattheleaflethingepointsduringdiastole,
+corresponding to the maximal annular size. RA, right atrium; RV, right
+ventricle.
+2.2 EchocardiographyandCardiac
+Catheterization
+Neonatal echocardiograms before and after transcatheter PV
+valvuloplasty, cardiac catheterizations and clinical records were
+analyzed.EchocardiogramswereperformedusingaPhilipsEPIQ
+CVx ultrasound machine with 8 and 12 MHz probes. A com-
+plete echocardiographic assessment, including morphological
+andfunctionalanalysisasdescribedbelow,wasperformedbefore
+andwithin14daysafterPVBD.Followingcardiaccatheterization,
+the echocardiogram with the lowest LV ejection fraction (EF)
+wasanalyzed.Annulardiametersand z-scoresweremeasuredfor
+atrioventricularvalvesinthefour-chamberview(SeeFigures 3),
+for the aortic valve (AV) in the long-axis view and for the PV
+in the short-axis view. RV systolic pressure was estimated from
+thetricuspidregurgitantjetvelocityusingthemodifiedBernoulli
+equation.RVsystolicfunctionwasassessedbymeasuringTAPSE
+(tricuspidannularplanesystolicexcursion)andTVS’(tricuspid
+valve annular systolic velocity) from the apical four-chamber
+view.TAPSErepresentsthelongitudinaldisplacementoftheTV
+annulusduringsystole,TVS’reflectsitspeaksystolicvelocityon
+tissueDoppler.Clipsfromfour-chamberviewandshort-axisview
+wereimportedintoanofflinespeckle-trackinganalysissoftware
+(2D cardiac performance analysis, TomTec Imaging Systems,
+GmbH; Munich, Germany). The software automatically traced
+theendocardialbordersforasinglecardiaccycle,afterwhichsub-
+sequentmanualadjustmentsweremadebyasingleinvestigator
+tooptimizetrackingaccuracy,andautomaticallycalculatedpeak
+LVgloballongitudinalstrain(GLS)andEF.Infundibularspasm
+was defined on echocardiographic assessment as dynamic nar-
+rowing of the infundibulum with high-velocity flow (≥2.5 m/s)
+and a late-peaking, dagger-shaped Doppler profile, consistent
+with dynamic infundibular obstruction. Cardiac catheterization
+data were collected from reports generated after the procedures
+and included pre- and post-PVBD RV systolic pressure, systolic
+aorticpressure,andratioofRVsystolicpressuretosystolicaortic
+pressure.
+2.3 StatisticalAnalysis
+Continuous variables were presented as mean (standard devi-
+ation) or median (interquartile range) as appropriate, while
+categorical variables were presented as frequency (percentage).
+Comparisons between the two groups were made using the
+Wilcoxon rank sum test or unpairedt-test for continuous vari-
+ables and Fisher’s exact test for categorical variables. Data were
+analyzed using SPSS Statistics 28.0 (IBM; Armonk, NY, USA)
+statisticalsoftware.
+3 Results
+3.1 Patients’CharacteristicsandNeonatal
+EchocardiographicExamination
+Amongthe27patientsanalyzed,14wereassignedtoGroupAand
+13 to Group B. A total of 21 patients had a prenatal diagnosis of
+PAIVS or CPS. The median follow-up time was 16 months (IQR
+12–46months),andnodeathsoccurred.
+Patients in Group A had a significantly larger TV annulus
+diametercomparedtopatientsinGroupB,bothinabsolutevalue
+(11.8 ± 2.3 vs. 9.5± 1.8, p = 0.007) and z-score (0.73± 1.3 vs.
+−1.50 ± 1.0, p < 0.001) terms. The PV annulus diameter was
+also significantly larger in patients in Group A. No significant
+differences were found between the two groups regarding the
+MVandAVannuli,thedegreeoftricuspidregurgitation,andRV
+M`s?PM
+3.2 CardiacCatheterization
+The age at PVBD was comparable in both groups. There were
+no significant differences observed in pre- and post-PVBD RV
+systolic pressure, aortic systolic pressure, or the ratio of RV
+systolic pressure to aortic systolic pressure between the two
+groups. Detailed cardiac catheterization data are provided in
+Table2.
+Echocardiographic Functional Assessment, Clinical
+Management, and Outcomes After PVBD: Radiofrequency
+perforationofthePVwasperformedin8outof27patients,5in
+GroupAand3inGroupB.ThemedianageatPVvalvuloplasty
+was 2.5 days (IQR 2–4 days). Before PVBD, Group A showed
+better right ventricular systolic function with significantly
+higher TAPSE (0.8± 0.2 vs. 0.6± 0.2 cm,p = 0.016) and TV
+S’ (6.5 ± 1.5 vs. 4.6 ± 1.0 cm/s, p = 0.001). Post-PVBD, TV
+S’ remained significantly higher in Group A (6.7 ± 1.2 vs.
+5.0 ±0.9cm/s, p <0.001),whileTAPSEshowedanon-significant
+trend (0.9 ± 0.3 vs. 0.6 ± 0.5 cm,p = 0.076). Before cardiac
+catheterization, patients in both groups exhibited good left
+ventricular (LV) systolic function, with normal EF and GLS
+3of6
+[[p4]]
+TABLE 1 Echocardiographicmeasurementsofatrioventricularand
+semilunarvalvesannuli.
+Parameter
+GroupA GroupB
+pvalue(n =14) ( n =13)
+TVannulus(mm) 11.8(2.3) 9.5(1.8) 0.007
+TVannulus(z-score) 0.7(1.3) −1.5(1.0) <0.001
+MVannulus(mm) 12.3(1.5) 11.4(1.4) 0.157
+MVannulus(z-score) 1.1(0.9) 0.9(0.8) 0.511
+MV/TV 1.1(0.2) 1.3(0.3) 0.101
+AVannulus(mm) 7.3(0.8) 6.9(0.9) 0.393
+AVannulus(z-score) 0.5(0.3) 0.3(0.2) 0.429
+PVannulus(mm) 6.5(0.7) 5.4(0.9) 0.004
+PVannulus(z-score) −1.0(0.9) −2.0(0.6) 0.006
+AV/PV 1.0(0.1) 1.3(0.1) 0.009
+Note:ComparisonofechocardiographicparametersinGroupA(tripartiteright
+ventricle with mild hypertrophy) and Group B (bipartite right ventricle with
+hypoplastic infundibulum). Significant differences are observed in tricuspid
+andpulmonaryvalvemeasurements.
+Abbreviations: AV, aortic valve; MV, mitral valve; PV, pulmonary valve; TV,
+tricuspidvalve.
+TABLE 2 Hemodynamicchangesbeforeandafterpulmonaryvalve
+balloondilationinGroupsAandBduringcardiaccatheterization.
+Parameter
+GroupA GroupB
+pvalue(n =14) ( n =13)
+Pre-PVBDRVSP
+(mmHg)
+90(22) 83(23) 0.470
+Pre-PVBDSBP(mmHg) 62(7) 58(6) 0.136
+Pre-PVBDRVSP/SBP 1.4(0.3) 1.5(0.5) 0.917
+Post-PVBDRVSP
+(mmHg)
+48(11) 46(9) 0.622
+Post-PVBDSBP(mmHg) 61(7) 52(6) 0.114
+Post-PVBDRVSP/SBP 0.8(0.2) 0.8(0.1) 0.719
+Note:NosignificantdifferenceswereobservedbetweenthegroupsintheRVSP
+orSBPfollowingtheprocedure.
+Abbreviations:PVBD,pulmonaryvalveballoondilation;RVSP,rightventricu-
+larsystolicpressure;SBP,systolicbloodpressure.
+values. After PVBD, 13 out of 14 patients in Group A developed
+transientLVsystolicdysfunction(13[92.9%]groupAvs.2[15.4%]
+group B,p < 0.001) at a median post-procedure time of 3 days
+(IQR 2–6 days). The median duration of LV dysfunction was 4
+days (IQR 3–5 days). Statistically significant differences were
+observed between the two groups regarding both EF (45%± 7%
+group A vs. 58%± 9% group B,p = 0.001) and GLS (−17.1% ±
+4%groupAvs. −20.4% ±3%groupB, p =0.025).Asignificantly
+higher number of patients in Group B compared to Group A
+developed infundibular reaction with muscle spasm after PV
+valvuloplasty(3[21.4%]groupAvs.10[76.9%]groupB, p =0.004).
+AllpatientsinGroupAweretreatedwithaninodilator(milrinon
+or levosimendan), while 9 out of 10 patients in Group B were
+treatedwithabeta-blocker(intravenousesmololfollowedbyoral
+TABLE 3 Clinicaloutcomesandpost-operativefindings.
+Parameter
+GroupA GroupB
+pvalue(n =14) ( n =13)
+Radiofrequency
+perforation
+5(35.7) 3(23.1) 0.472
+LVdysfunction 13(92.9) 2(15.4) <0.001
+Pre-PVBDEF(%) 64(6) 63(8) 0.695
+Pre-PVBDGLS(%) 20.2(2.7) 19.7(3.6) 0.663
+Post-PBVDEF(%) 45(7) 58(9) 0.001
+Post-PVBDGLS(%) 17.1(4.0) 20.4(3.2) 0.025
+Pre-PVBDTAPSE(cm) 0.8(0.2) 0.6(0.2) 0.016
+Pre-PVBDTVS’(cm/s) 6.5(1.5) 4.6(1.0) 0.001
+Post-PVBDTAPSE(cm) 0.9(0.3) 0.6(0.5) 0.076
+Post-PVBDTVS’(cm/s) 6.7(1.2) 5.0(0.9) <0.001
+Inotropes 13(92.9) 5(38.5) 0.004
+Infundibularspasm 3(21.4) 10(76.9) 0.004
+β-blocker 2(14.3) 10(76.9) 0.006
+Post-PVBDSeverePR 5(35.7) 6(46.2) 0.691
+Post-PVBDModerateTR 7(50.0) 5(38.5) 0.431
+PDAStent/BTshunt 2(14.2) 4(30.8) 0.316
+Mechanicalventilation
+(hours)
+36(14) 15(7) <0.001
+Gastrointestinal
+complications
+4(28.6) 0(0) 0.098
+CICU(days) 17(8) 21(13) 0.470
+Hospitalization(days) 30(9) 34(13) 0.409
+Note:Clinicaloutcomesandcomplicationsfollowingpulmonaryvalveballoon
+dilation. Group A patients exhibited higher rates of transient left ventric-
+ular dysfunction, while Group B patients were more likely to experience
+infundibularspasmandrequirebeta-blockertherapy.
+Abbreviations: BT, Blalock-Taussig; CICU, cardiac intensive care unit; EF,
+ejectionfraction;GLS,globallongitudinalstrain;PDA,patentductusarterio-
+sus; PR, pulmonary regurgitation; PVBD, pulmonary valve ballon dilatation;
+TAPSE,tricuspidannularplanesystolicexcursion;TR,tricuspidregurgitation;
+TVS’,tricuspidvalveannularsystolicvelocity.
+propranolol). In our cohort, before discharge, due to persistent
+desaturationandinabilitytoweanoffprostaglandins,6patients
+of group B required an additional source of pulmonary blood
+flow(4patientsunderwentstentingoftheductusarteriosusand
+2underwentaBlalock-Taussigshunt).
+Thedurationofintensivecareunitstaywascomparablebetween
+the two groups, with no significant difference in total hospi-
+??GRO?±?X????f????`??MR?S±?PR??
+GroupB, p =0.409).PatientsinGroupArequiredasignificantly
+longer duration of mechanical ventilation following cardiac
+catheterization (36± 14 h vs. 12± 7hi nG r o u pB ,p < 0.001).
+Gastrointestinal complications, including abdominal distension
+and pre-necrotizing enterocolitis, were more frequent in Group
+A,althoughthisdifferencedidnotreachstatisticalsignificance(4
+[28.6%]vs.0[0%], p =0.091).Adetailedcomparisonofoutcomes
+ispresentedinTable 3.
+4of6 Echocardiography,2025
+[[p5]]
+4 Discussion
+We demonstrated that echocardiographic assessment of RV
+anatomy plays a crucial role in patient stratification and in
+predicting complications, different pathophysiological patterns,
+andtherefore,treatmentstrategiesafterPVvalvuloplasty.Group
+A patients exhibit a normal TV and PV annulus diameter, a
+tripartiteRVwithmildhypertrophy,andapatent,well-developed
+infundibulum. Transient LV systolic dysfunction was observed
+in almost all Group A patients, typically emerging within a
+few days after PVBD and resolving within 3 to 5 days. This
+finding aligns with the study by Ronai et al., who described a
+similar pattern in neonates with well-developed RVs. Among
+the risk factors identified, a higher TV z-score was signifi-
+cantlyassociatedwithLVdysfunction.Severalmechanismshave
+been proposed to explain this phenomenon, including altered
+ventricular–ventricular interaction following acute RV decom-
+pression, transient myocardial ischemia due to coronary steal,
+andabruptchangesinLVloadingconditions,particularlyinthe
+presenceofapatentductusarteriosus(PDA)[ 12].Inasubsequent
+study by the same group, strain imaging showed that the most
+affectedmyocardialsegmentswereseptal,furthersupportingthe
+hypothesis that interventricular dependence plays a key role in
+thisreversibledysfunction[ 13].
+Consistentwiththesefindings,inourcohort,nearlyallpatients
+withadequatelysizedRVsdevelopedsomedegreeofLVsystolic
+dysfunction. During this phase, the coexistence of anterograde
+flow through the opened PV and retrograde flow through a
+still-PDA may contribute to transient LV overload, especially as
+the PDA is expected to close within a few days after stopping
+prostaglandin. LV systolic dysfunction, combined with diastolic
+runoff through the PDA, results in reduced cardiac output and
+impairedsystemicoxygendelivery.
+Clinically, this scenario poses risks such as systemic hypop-
+erfusion, mesenteric ischemia, necrotizing enterocolitis, and
+pulmonary volume overload [14]. Therefore, our management
+strategiesarecenteredaroundthreekeyinterventions:
+PM?luYtL
+cardiaccatheterizationtominimizeoxygenconsumption.
+2. Inodilators:Administered(e.g.,milrinoneorlevosimendan)
+tosupportLVfunction,decreasesystemicvascularresistance,
+andenhanceoxygendeliveryandcardiacindex[ 15,16].
+3. Diuretics: Utilized based on the degree of pulmonary
+congestionandtricuspidregurgitation.
+Patients are reintroduced to feeding very gradually due to the
+heightened risk of mesenteric hypoperfusion. A few days fol-
+lowing the procedure, as systolic function improves, extubation
+is generally performed, with most patients experiencing an
+excellentlong-termprognosis.
+In contrast, patients in group B present with hypertrophy and
+varying degrees of reduction in the trabecular portion of the
+RV. The infundibulum also tends to be more hypoplastic and
+is prone to spasm and increased hypertrophy following PVBD.
+Theclinicalmanifestationsinthesepatientsarelargelydictated
+by the severity of RV hypertrophy and diastolic dysfunction [10,
+FIGURE 4 Post-procedural management strategies based on right
+ventricularmorphology.TherapeuticapproachesforGroupA(tripartite
+RV) and Group B (bipartite RV) neonates with pulmonary atresia and
+intact ventricular septum, highlighting key interventions tailored to RV
+morphology.RV,rightventricle.
+17]. The infundibulum in Group B is often markedly hypertro-
+phied and narrowed, making it more susceptible to dynamic
+obstructionduringballoondilation.Webelievethatthismuscular
+hyperreactivity leads to transient infundibular spasm, triggered
+by sudden mechanical stretching and irritation during PVBD.
+This is supported by the echocardiographic finding of dynamic
+narrowing with a late-peaking, dagger-shaped Doppler profile,
+consistent with significant subvalvular obstruction. Discontinu-
+ation of prostaglandins can lead to severe cyanosis. Therapeutic
+managementinthesecasesincludes:
+PM?nquoY`L
+tionandbloodtransfusions.
+2. Beta-Blockers:Administeredtomitigateinfundibularspasm
+andimproverightventricularcompliance.
+3. Maintaining Low Pulmonary Vascular Resistance: Poten-
+tially achieved by increasing fractional inspired oxygen or
+administeringnitricoxide.
+Atthisstage,treatmentdecisionsareguidedbyarterialsaturation
+levels following PDA closure. If systemic arterial saturation
+remains above 70%–75%, the patient is managed with chronic
+oral beta-blocker therapy. However, if saturation falls below
+70% for at least 1 week despite optimal medical therapy and at
+least two attempts to discontinue prostaglandins, we consider
+the addition of an accessory pulmonary flow source, initially
+throughductusarteriosusstenting(Figures 4).Beta-blockersare
+commonlyemployedinpediatricsforhypertrophiccardiomyopa-
+thy, where they reduce outflow tract obstruction and enhance
+diastolicfunctionandfillingtime[ 18,19].Despitetheirbroaduse,
+5of6
+[[p6]]
+no studies have specifically evaluated their efficacy in patients
+with PAIVS/CPS. Additionally, the mechanisms allowing some
+hypertrophied, bipartite RVs to sustain right cardiac output and
+undergo progressive growth remain unclear. In many cases,
+despite effective decompression and adequate flow through the
+TV,oftenfacilitatedbythepresenceofasmallatrialseptaldefect,
+diastolic dysfunction persists, necessitating further surgery or
+interventionsovertime[ 20].
+Interestingly, we observed no significant difference between the
+two patient groups in terms of average length of stay in the
+intensivecareunitoroveralldurationofhospitalization.Despite
+substantial internal variability within each cardiac phenotype,
+bothgroupsfacedistinctbutequallycomplexcomplicationsand
+managementchallenges.
+4.1 LimitationsoftheStudy
+This study has several limitations. First, its retrospective design
+and single-center setting may limit the generalizability of the
+findings.Second,thesamplesize,althoughmeaningfulgiventhe
+rarityofPAIVSandCPS,remainsrelativelysmall.Nevertheless,
+the use of shared protocols and consistent echocardiographic
+assessment within a single institution may have helped miti-
+gatesomevariability.Futuremulticenterprospectivestudiesare
+neededtoconfirmthesefindingsandimprovegeneralizability.
+5 Conclusion
+RV phenotype is closely associated with distinct early compli-
+cations following PVBD. Tripartite RVs were associated with
+transientleftventriculardysfunction,whilebipartiteRVsshowed
+ahigherincidenceofinfundibularspasmandneedforadditional
+pulmonary blood flow. Early imaging-based stratification may
+helpoptimizeimmediatepost-proceduralmanagement.
+Acknowledgment
+OpenaccessfundingprovidedbyBIBLIOSAN.
+References
+1.M. Alwi, “Management Algorithm in Pulmonary Atresia With Intact
+Ventricular Septum,”Catheterization and Cardiovascular Interventions
+67,no.5(2006):679–686.
+2.L.Cao,Z.Tian,andJ.Rychik,“PrenatalEchocardiographicPredictors
+of Postnatal Management Strategy in the Fetus With Right Ventricle
+HypoplasiaandPulmonaryAtresiaorStenosis,” PediatricCardiology 38,
+no.8(2017):1562–1568.
+3.P. E. F. Daubeney, D. J. Delany, R. H. Anderson, et al., “Pulmonary
+Atresia With Intact Ventricular Septum: Range of Morphology in a
+Population-Based Study,”Journal of the American College of Cardiology
+39,no.10(2002):1670–1679.
+4.R. N. Justo, D. G. Nykanen, W. G. Williams, R. M. Freedom, and L.
+N. Benson, “Transcatheter Perforation of the Right Ventricular Outflow
+Tract as Initial Therapy for Pulmonary Valve Atresia and Intact Ven-
+tricular Septum in the Newborn,”Catheterization and Cardiovascular
+Diagnosis40,no.4(1997):408–413.
+5.T. F. Feltes, E. Bacha, R. H. Beekman, et al., “Indications for Cardiac
+Catheterization and Intervention in Pediatric Cardiac Disease: A Scien-
+tific Statement From the American Heart Association,”Circulation 123,
+no.22(2011):2607–2652.
+6.K.J.Guleserian,L.B.Armsby,R.R.Thiagarajan,P.J.delNido,andJ.
+E.Mayer,“NaturalHistoryofPulmonaryAtresiaWithIntactVentricular
+Septum and Right-Ventricle-Dependent Coronary Circulation Managed
+by the Single-Ventricle Approach,”Annals of Thoracic Surgery81, no. 6
+(2006):2250–2257.
+7.A.J.Powell,J.E.Mayer,P.Lang,andJ.E.Lock,“OutcomeinInfants
+WithPulmonaryAtresia,IntactVentricularSeptum,andRightVentricle-
+DependentCoronaryCirculation,” AmericanJournalofCardiology 86,no.
+11(2000):1272–1274.
+8.J. R. Zuberbuhler and R. H. Anderson, “Morphological Variations
+in Pulmonary Atresia With Intact Ventricular Septum,”British Heart
+Journal41,no.3(1979):281–288.
+9.A. L. Calder, C. R. Peebles, and C. J. Occleshaw, “The Prevalence
+of Coronary Arterial Abnormalities in Pulmonary Atresia With Intact
+VentricularSeptumandTheirInfluenceonSurgicalResults,” Cardiology
+intheYoung 17,no.4(2007):387–396.
+10.S. M. Chikkabyrappa, R. S. Loomba, and J. T. Tretter, “Pulmonary
+Atresia With an Intact Ventricular Septum: Preoperative Physiology,
+Imaging, and Management,”Seminars in Cardiothoracic and Vascular
+Anesthesia22,no.3(2018):245–255.
+11.M. Jahangiri, D. Zurakowski, D. Bichell, J. E. Mayer, P. J. del Nido,
+and R. A. Jonas, “Improved Results With Selective Management in
+PulmonaryAtresiaWithIntactVentricularSeptum,” JournalofThoracic
+andCardiovascularSurgery 118,no.6(1999):1046–1055.
+12.C. Ronai, R. H. Rathod, A. C. Marshall, et al., “Left Ventricular
+Dysfunction Following Neonatal Pulmonary Valve Balloon Dilation for
+PulmonaryAtresiaorCriticalPulmonaryStenosis,” PediatricCardiology
+36,no.6(2015):1186–1193.
+13.C. Ronai, S. J. Ghelani, A. C. Marshall, et al., “Characterization
+of Left Ventricular Dysfunction by Myocardial Strain in Critical Pul-
+monaryStenosisandPulmonaryAtresiaafterNeonatalPulmonaryValve
+Balloon Dilation,” American Journal of Cardiology123, no. 3 (2019):
+454–459.
+14.S. E. G. Hamrick, H. Sallmon, A. T. Rose, et al., “Patent Ductus
+ArteriosusofthePretermInfant,” Pediatrics146,no.5(2020):e20201209.
+15.K.I.Mills,A.K.Kaza,B.K.Walsh,etal.,“PhosphodiesteraseInhibitor-
+Based Vasodilation Improves Oxygen Delivery and Clinical Outcomes
+Following Stage 1 Palliation,”JournaloftheAmericanHeartAssociation
+5,no.11(2016):e003554.
+16.R. Iacobelli, Z. Ricci, E. Marinari, et al., “Effects of levosimendan
+on Ventriculo-Arterial Coupling and Cardiac Efficiency in Paediatric
+Patients With Single-Ventricle Physiology After Surgical Palliation: Ret-
+rospectiveStudy,” InterdisciplinaryCardioVascularandThoracicSurgery
+30,no.4(2020):623–629.
+17.A.H.M.To,C.T.M.Lai,S.J.Wong,andY.F.Cheung,“RightAtrial
+Mechanics Long-Term After Biventricular Repair of Pulmonary Atresia
+orStenosisWithIntactVentricularSeptum,” Echocardiography33,no.4
+(2016):586–595.
+18.I.Östman-Smith,“Beta-BlockersinPediatricHypertrophicCardiomy-
+opathies,”ReviewsonRecentClinicalTrials 9,no.2(2014):82–85.
+19.R. Kaddoura, V. Madurasinghe, A. Chapra, D. Abushanab, D.
+Al-Badriyeh, and A. Patel, “Beta-Blocker Therapy in Heart Failure
+With Preserved Ejection Fraction (B-HFpEF): A Systematic Review
+and Meta-Analysis,”Current Problems in Cardiology49, no. 3 (2024):
+102376.
+20.M. C. Schwartz, A. C. Glatz, Y. Dori, J. J. Rome, and M. J. Gillespie,
+“OutcomesandPredictorsofReinterventioninPatientsWithPulmonary
+Atresia and Intact Ventricular Septum Treated With Radiofrequency
+Perforation and Balloon Pulmonary Valvuloplasty,”PediatricCardiology
+35,no.1(2014):22–29.
+6of6 Echocardiography,2025

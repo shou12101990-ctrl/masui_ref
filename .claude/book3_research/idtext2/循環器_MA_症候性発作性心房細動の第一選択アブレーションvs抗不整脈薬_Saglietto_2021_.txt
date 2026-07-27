@@ -1,0 +1,803 @@
+
+[[p1]]
+SYSTEMATIC REVIEW
+published: 21 May 2021
+doi: 10.3389/fcvm.2021.664647
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 1 May 2021 | Volume 8 | Article 664647
+Edited by:
+Antonio Zaza,
+University of Milano-Bicocca, Italy
+Reviewed by:
+Giannis G. Baltogiannis,
+Vrije University Brussel, Belgium
+Richard Hauer,
+University Medical Center
+Utrecht, Netherlands
+*Correspondence:
+Gaetano Maria De Ferrari
+gaetanomaria.deferrari@unito.it
+Specialty section:
+This article was submitted to
+Cardiac Rhythmology,
+a section of the journal
+Frontiers in Cardiovascular Medicine
+Received: 05 February 2021
+Accepted: 14 April 2021
+Published: 21 May 2021
+Citation:
+Saglietto A, Gaita F , De Ponti R, De
+Ferrari GM and Anselmino M (2021)
+Catheter Ablation vs. Anti-Arrhythmic
+Drugs as First-Line Treatment in
+Symptomatic Paroxysmal Atrial
+Fibrillation: A Systematic Review and
+Meta-Analysis of Randomized Clinical
+Trials.
+Front. Cardiovasc. Med. 8:664647.
+doi: 10.3389/fcvm.2021.664647
+Catheter Ablation vs. Anti-Arrhythmic
+Drugs as First-Line Treatment in
+Symptomatic Paroxysmal Atrial
+Fibrillation: A Systematic Review and
+Meta-Analysis of Randomized
+Clinical Trials
+Andrea Saglietto 1, Fiorenzo Gaita 2, Roberto De Ponti 3, Gaetano Maria De Ferrari 1* and
+Matteo Anselmino 1
+1 Division of Cardiology, Department of Medical Sciences, “C ittà della Salute e della Scienza di Torino” Hospital, Unive rsity of
+Turin, Turin, Italy, 2 Cardiology Unit, J Medical, Turin, Italy, 3 Department of Medicine and Surgery, University of Insubria,
+Varese, Italy
+Background: Catheter ablation has become a well-established indicatio n for long-term
+rhythm control in atrial ﬁbrillation (AF) patients refract ory to anti-arrhythmic drugs
+(AADs). Efﬁcacy and safety of AF catheter ablation (AFCA) be fore AADs failure are,
+instead, questioned.
+Objective: The aim of the study was to perform a systematic review and met a-analysis
+of randomized clinical trials (RCT s) comparing ﬁrst-line A FCA with AADs in symptomatic
+patients with paroxysmal AF .
+Methods: We performed a random-effects meta-analysis of binary outc ome events
+comparing AFCA with AADs in rhythm control-naïve patients. The primary outcomes,
+also stratiﬁed by the type of ablation energy (radiofrequen cy or cryoenergy), were
+(1) recurrence of atrial tachyarrhythmias and (2) recurren ce of symptomatic atrial
+tachyarrhythmias. The secondary outcomes included advers e events.
+Results: Six RCT s were included in the analysis. AFCA was associated w ith lower
+recurrences of atrial tachyarrhythmias [relative risk (RR ) 0.58, 95% conﬁdence interval
+(CI) 0.46–0.72], consistent across the two types of ablatio n energy (radiofrequency,
+RR 0.50, 95% CI 0.28–0.89; cryoenergy, RR 0.60, 95% CI 0.50–0 .72; p-value for
+subgroup differences: 0.55). Similarly, AFCA was related t o less symptomatic arrhythmic
+recurrences (RR 0.46, 95% CI 0.27–0.79). Overall, adverse e vents did not differ. A
+trend toward increased periprocedural cardiac tamponade o r phrenic nerve palsy was
+observed in the AFCA group, while more atrial ﬂutter episode s with 1:1 atrioventricular
+conduction and syncopal events were reported in the AAD grou p.
+Conclusions: First-line rhythm control therapy with AFCA, independent f rom the
+adopted energy source (radiofrequency or cryoenergy), red uces long-term arrhythmic
+recurrences in patients with symptomatic paroxysmal AF com pared with AADs.
+Keywords: atrial ﬁbrillation, catheter ablation, rhythm c ontrol, anti-arrhythmic drugs, side effects
+[[p2]]
+Saglietto et al. First-Line AF Catheter Ablation
+INTRODUCTION
+Atrial ﬁbrillation (AF) is the most common supraventricular
+arrhythmia, aﬀecting up to 2% of the population (
+1). Anti-
+arrhythmic drugs (AADs) are considered as the ﬁrst-line opti on
+for the maintenance of sinus rhythm (rhythm control) in
+patients with symptomatic AF episodes; however, they are limited
+by a relatively low eﬃcacy and substantial side eﬀects (
+2–
+4). AF catheter ablation (AFCA) has established itself as a
+superior alternative to AADs in terms of long-term sinus rhyt hm
+maintenance and quality of life ( 5, 6). Accordingly, AFCA has
+been recommended in case of AAD failure by the most recent
+guidelines (
+1, 7).
+A possible role for AFCA also as ﬁrst-line option in
+paroxysmal AF is emerging. A shorter time between ﬁrst AF
+documentation and ablation is associated with lower arrhyt hmic
+recurrences, implying a lower probability of disease progress ion
+toward persistent AF (
+4, 8, 9). In the last decade, three
+randomized clinical trials (RCTs) evaluating radiofreque ncy
+(RF) ablation compared with AADs as ﬁrst-line treatment
+in rhythm control-naïve patients (
+10–12) had demonstrated
+lower recurrence rate by ablation, at the price of transientl y
+exposing the patient to the rare, but not negligible, risk of
+periprocedural complications (
+13). More recently, three RCTs
+comparing cryoballoon ablation and AADs as ﬁrst-line rhythm
+control therapy have been published (
+14–16).
+The aim of the present study is to perform an updated
+systematic review and meta-analysis comparing eﬃcacy and
+safety of AFCA vs. AADs as ﬁrst-line rhythm control strategy in
+patients with paroxysmal AF , also assessing potential diﬀerenc es
+related to ablation energy source (RF or cryoenergy).
+METHODS
+The present systematic review and meta-analysis was performed
+in accordance to Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) guidelines (
+17).
+Search Strategy, Study Selection, and
+Quality Assessment
+We screened PubMed/MEDLINE and Embase databases from
+their inceptions to March 7, 2021, using the following search
+terms: “atrial ﬁbrillation AND ablation AND ﬁrst-line.”
+The inclusion criteria were as follows: (a) prospective RCTs
+comparing AFCA (RF or cryoballoon ablation) with AADs
+as ﬁrst-line rhythm control treatment in symptomatic AF;
+and (b) availability of data regarding arrhythmic recurren ces
+(symptomatic or asymptomatic).
+Two investigators (AS and MA) independently reviewed the
+titles/abstracts and studies to determine their eligibilit y based
+on the inclusion criteria and extracted all the relevant fea tures,
+including study characteristics, baseline population data, a nd
+outcomes (assessment and measures). A third reviewer (GMDF)
+resolved disagreement. Risk of bias assessment was performed at
+the study level using the Cochrane bias risk assessment tool (RoB
+2) (
+18).
+Outcomes
+The primary eﬃcacy outcomes of the present analysis were
+as follows: (1) recurrence of atrial tachyarrhythmias and (2 )
+recurrence of symptomatic atrial tachyarrhythmias. According to
+study design, recurrent atrial tachyarrhythmia included AF alone,
+or AF and/or atrial tachycardia/atrial ﬂutter (AT/AFL).
+The secondary outcome endpoints were all-cause death,
+proportion of crossover to the alternative arm, proportion of
+patients undergoing ablation after failure of the initial tr eatment
+(either AFCA or AADs), stroke/transient ischemic attack (T IA),
+cardiac tamponade, phrenic nerve palsy, atrioesophageal ﬁstul a,
+pulmonary vein (PV) stenosis >70%, atrial ﬂutter with 1:1 A V
+conduction, ventricular tachycardia, symptomatic bradyca rdia
+requiring pacemaker implantation, and syncope.
+Statistical Analysis
+Baseline characteristics of pooled study populations were
+reported as median values between the included studies, alon g
+with their interquartile range (IQR). Random-eﬀects model
+meta-analysis of binary outcome events, taking into account t he
+estimated between-study heterogeneity, was performed for t he
+present analysis using inverse-variance method. The resulti ng
+meta-analytic relative risk (RR) of observing the investigate d
+outcomes in AFCA group compared with AAD group, along
+with their 95% conﬁdence interval (CI), is reported. Forest pl ots
+for the primary outcome endpoints are shown, stratiﬁed by
+ablation energy type (RF or cryoenergy). A test for subgroup
+diﬀerences was also performed. Heterogeneity across studies was
+assessed using the Cochran Q test. Higgins I 2 statistics was
+used to determine the degree of between-study heterogeneity
+GhQ?[?QTDK?Z?QT–TODK?Z??]TODK???
+heterogeneity). Due to the low number of studies included, w e
+did not investigate publication bias, and we did not performed
+meta-regression to assess potential source of heterogeneit y. P-
+values <0.05 were considered statistically signiﬁcant. Statistical
+analyses were performed with R version 4.0.0 (R Foundation for
+Statistical Computing, Vienna, Austria).
+RESUL TS
+Included Studies and Population
+Characteristics
+A total of 342 studies were identiﬁed by literature search.
+After detailed evaluation, six RCTs (
+10–12, 14–16) were ﬁnally
+included in the systematic review and meta-analysis (refer t o
+Supplementary Figure 1 for PRISMA ﬂowchart). The 5-year
+follow-up data of MANTRA-PAF ( 19) was not considered since
+clinical assessment and electrocardiographic monitoring w ere
+not performed between the second and 5th year. The main
+characteristics of the included RCTs are reported in Table 1.
+Ablation energy was RF in RAAFT-1 (
+10), MANTRA-PAF (11),
+and RAAFT-2 ( 12) while cryoenergy in EARLY-AF ( 14), STOP-
+AF ( 15), and Cryo-FIRST ( 16). Further, details regarding study
+inclusion/exclusion criteria and study-speciﬁc endpoints ma y
+be found in the Supplementary Tables 1, 2. Risk of bias in the
+individual studies is reported in Figure 1: the overall risk of bias
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 2 May 2021 | Volume 8 | Article 664647
+[[p3]]
+Saglietto et al. First-Line AF Catheter Ablation
+TABLE 1 | Main characteristics of the included randomized clinical t rials comparing ﬁrst-line catheter ablation with antiarrhy thmic drugs in symptomatic atrial ﬁbrillation.
+Study Study type Enrollment period No. of patients
+included in the
+primary analysis
+(AFCA/AADs)
+Paroxysmal AF (%) Type of ablation
+energy used
+Follow-up
+duration (months)
+RAAFT -1 [Wazni
+et al. (
+10)]
+Prospective,
+randomized,
+multicenter
+2001–2002 32/35 96% Radiofrequency 12
+MANTRA-PAF
+[Cosedis Nielsen
+et al. (
+11)]
+Prospective,
+randomized,
+multicenter
+2005–2009 146/148 100% Radiofrequency 24
+RAAFT -2 [Morillo
+et al. (
+12)]
+Prospective,
+randomized,
+multicenter
+2006–2010 66/61 98% Radiofrequency 24
+EARL Y -AF [Andrade
+et al. (
+14)]
+Prospective,
+randomized,
+multicenter
+2017–2018 154/149 95% Cryoenergy 12
+STOP-AF [Wazni
+et al. (
+15)]
+Prospective,
+randomized,
+multicenter (Canada)
+2017–2019 104/99 100% Cryoenergy 12
+Cryo-FIRST [Kuniss
+et al. (
+16)]
+Prospective,
+randomized,
+multicenter
+2014–2018 107/111 100% Cryoenergy 12
+AFCA, atrial ﬁbrillation catheter ablation; AADs, anti-arrhythmic dr ugs; AF , atrial ﬁbrillation.
+FIGURE 1 | Risk of bias assessment using Cochrane risk of bias 2 (RoB 2) t ool.
+for ﬁve studies was low, while RAAFT-1 trial (10) was considered
+at high risk of bias due to the unblinded outcome adjudicatio n.
+The resulting meta-analytic population encompassed 1,204
+patients [603 randomized to AFCA (365 cryoballoon ablation,
+61%; 238 RF ablation, 39%) and 601 to AADs], with a median
+follow-up of 12 (IQR 12–24) months. AF type was paroxysmal
+in nearly the totality of the patients (99%, IQR 96–100%).
+Median age was 55 (IQR 54–59) years, with nearly 2:1 male-
+to-female ratio (male 70%, IQR 68–71%). Hypertension was
+the most frequent concurrent comorbid condition (37%, IQR
+33–41%), while baseline heart failure was rare [2%, IQR 1–
+6%; left ventricular ejection fraction (LVEF) 61%, IQR 60–
+61%]. Median left atrial antero-posterior diameter was 40 mm
+(IQR 38–41 mm). Mean CHADS 2 score in MANTRA-PAF
+(
+11) and RAAFT-2 ( 12) was 0.6, while mean CHA 2DS2-
+V ASc score was 1.9 in EARLY-AF ( 14); 66% and 86% of the
+patients in STOP-AF ( 15) and in Cryo-FIRST ( 16), respectively,
+had a CHA 2DS2-V ASc score ≤ 2; and 58% (IQR 51–60%)
+of the patients were on beta-blocker therapy at the time
+of randomization.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 3 May 2021 | Volume 8 | Article 664647
+[[p4]]
+Saglietto et al. First-Line AF Catheter Ablation
+Table 2 reports study-speciﬁc ablation protocol, AAD use
+in both treatment arms, type of monitoring, and deﬁnition
+of arrhythmic recurrence. All patients underwent PV isolati on
+(PVI). In two RF studies, additional ablation lesion was also
+allowed at the physician’s discretion [MANTRA-PAF (
+11) and
+RAAFT-2 ( 12)], while in Cryo-FIRST study, additional freeze
+applications were allowed in case of incomplete PVI isolation
+or focal trigger identiﬁcation (
+16). AAD use in AFCA arm was
+only allowed during post-procedural blanking period in most
+of the studies. Continuous electrocardiographic monitorin g with
+an implantable loop recorder was only performed in EARLY-AF
+(
+14).
+Primary Endpoints
+The threshold deﬁning an arrhythmic recurrence varied betw een
+15 s in RAAFT-1 (
+10) and 60 s in MANTRA-PAF ( 11), with the
+four remaining studies used a 30-s threshold ( 12, 14–16).
+As illustrated in Figure 2, AFCA was associated with a
+higher probability of freedom from any arrhythmic recurrenc e
+compared with AADs (RR 0.58, 95% CI 0.46–0.72, I 2 = 46%),
+consistent across the two types of ablation energy used (RF , RR
+0.50, 95% CI 0.28–0.89, I 2 = 75%; cryoenergy, RR 0.60, 95%
+CI 0.50–0.72, I 2 = 0%; p-value for subgroup diﬀerences: 0.55).
+Similarly, AFCA is related to higher probability of freedom f rom
+symptomatic arrhythmic recurrence ( Figure 3; RR 0.46, 95% CI
+0.27–0.79, I 2 = 71%), irrespective of ablation energy used (RF ,
+RR 0.46, 95% CI 0.22–0.98, I 2 = 76%; cryoenergy, RR 0.42, 95%
+CI 0.25–0.71, I 2 = 0%; p-value for subgroup diﬀerences: 0.85).
+Sensitivity analysis only considering studies with low risk o f bias
+gave similar results (Supplementary Figures 2, 3).
+Secondary Endpoints
+Secondary endpoints are detailed in Table 3, while forest plots
+are reported in Supplementary Figures 4–14. All-cause deaths
+TABLE 2 | Study-speciﬁc ablation protocol, AAD use in both treatment a rms, type of monitoring, and deﬁnition of arrhythmic recurre nce.
+Study Ablation protocol AAD therapy AAD use after index
+ablation in AFCA arm
+Arrhythmic
+recurrence
+monitoring
+Deﬁnition of
+arrhythmic
+recurrence
+RAAFT -1 [Wazni
+et al. (
+10)]
+PVI Flecainide, propafenone, and
+sotalol (according to physician
+preference)
+Not permitted Clinical follow-up
+and intermittent
+electrocardiographic
+monitoring (event
+recorder, 24-h
+Holter)
+Any recurrence of
+AF lasting longer
+than 15 s
+MANTRA-PAF
+[Cosedis Nielsen
+et al. (
+11)]
+PVI + additional
+lesions allowed
+(according to
+physician
+preference)
+Propafenone, ﬂecainide,
+sotalol, dofetilide, and
+amiodarone (according to
+physician preference)
+Only allowed during the
+90-day blanking period
+Clinical follow-up
+and intermittent
+electrocardiographic
+monitoring (7-day
+Holter)
+Any recurrence of
+AF lasting longer
+than 1 min
+RAAFT -2 [Morillo
+et al. (
+12)]
+PVI + additional
+lesions allowed
+(according to
+physician
+preference)
+Flecainide, propafenone,
+sotalol, and amiodarone
+(according to physician
+preference)
+Only allowed during the
+3-month blanking period
+Clinical follow-up
+and intermittent
+electrocardiographic
+monitoring (event
+recorder, 24-h
+Holter)
+Any recurrence of
+atrial
+tachyarrhythmia (AF ,
+AT/AFL) lasting
+longer than 30 s
+EARL Y -AF [Andrade
+et al. (
+14)]
+PVI Flecainide, propafenone,
+dronedarone, sotalol, and
+amiodarone (according to
+physician preference)
+Only allowed during the
+blanking period (excluding
+amiodarone); to be
+discontinued at least ﬁve
+half-lives before the end of
+the 90-day blanking
+period
+Clinical follow-up
+and continuous
+electrocardiographic
+monitoring (loop
+recorder)
+Any recurrence of
+atrial
+tachyarrhythmia (AF ,
+AT/AFL) lasting
+longer than 30 s
+STOP-AF [Wazni
+et al. (
+15)]
+PVI Flecainide, propafenone,
+dronedarone, sotalol, and
+amiodarone (according to
+physician preference)
+Only allowed for up to 80
+days after the procedure
+(excluding amiodarone), to
+allow complete washout
+by the end of the 90-day
+blanking period
+Clinical follow-up
+and intermittent
+electrocardiographic
+monitoring (event
+recorder, 24-h
+Holter)
+Any recurrence of
+atrial
+tachyarrhythmia (AF ,
+AT/AFL) lasting
+longer than 30 s
+Cryo-FIRST [Kuniss
+et al. (
+16)]
+PVI + additional
+freeze applications
+allowed (in case of
+incomplete PV
+isolation or focal
+trigger identiﬁcation)
+Flecainide, propafenone,
+dronedarone, sotalol, and
+amiodarone (according to
+physician preference)
+Only allowed during the
+3-month blanking period
+Clinical follow-up
+and intermittent
+electrocardiographic
+monitoring (7-day
+Holter)
+Any recurrence of
+atrial
+tachyarrhythmia (AF ,
+AT/AFL) lasting
+longer than 30 s
+AAD, antiarrhythmic drug; AFCA, atrial ﬁbrillation catheter ablation; AF , atrial ﬁbrillation; PVI, pulmonary vein isolation; AT/AFL, atrial ta chycardia/atrial ﬂutter.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 4 May 2021 | Volume 8 | Article 664647
+[[p5]]
+Saglietto et al. First-Line AF Catheter Ablation
+FIGURE 2 | Forest plot reporting the risk of recurrence of atrial tachy arrhythmias, stratiﬁed by ablation energy (radiofrequency or cryoenergy).
+FIGURE 3 | Forest plot reporting the risk of recurrence of symptomatic atrial tachyarrhythmias, stratiﬁed by ablation energy (rad iofrequency or cryoenergy).
+did not diﬀer between AFCA and AAD groups (0.5 vs. 0.7%, RR
+0.86, 95% CI 0.28–2.67, I 2 = 0%). Crossover to the alternative
+arm was signiﬁcantly less frequent in AFCA compared with
+AAD group (7.9 vs. 28.2%; RR 0.23, 95% CI 0.10–0.51; I 2 =
+77%). No signiﬁcant diﬀerences in terms of stroke/TIA (0.8 vs.
+0.8%, RR 0.98, CI 0.33–2.95; I 2 = 0%) were found. Concerning
+procedural complications, there was a nons-igniﬁcant trend
+toward more cardiac tamponade/clinically signiﬁcant perica rdial
+eﬀusion (1.3 vs. 0.2%; RR 2.35, CI 0.62–8.93; I 2 = 0%) or
+phrenic nerve palsy (1.4 vs. 0.3%; RR 2.42, CI 0.40–14.63; I 2
+= 4%) in the AFCA group. No atrio-esophageal ﬁstula were
+observed, and only one severe PV stenosis was documented
+after an RF ablation procedure. Conversely, a trend toward
+more AFL episodes with 1:1 atrioventricular conduction (0 vs.
+1.5%; RR 0.25, CI 0.03–2.25; I 2 = 0%) and syncope (0.2 vs.
+1.4%; RR 0.30, CI 0.08–1.12; I 2 = 0%) was observed in the
+AAD group.
+DISCUSSION
+The present meta-analysis indicates that, compared with AADs,
+ﬁrst-line therapy with AFCA reduces arrhythmic recurrences
+in symptomatic patients with paroxysmal AF independently
+from the adopted energy source. This result is achieved
+without exposing the patients to an increase of adverse events.
+In addition, crossover to the alternative treatment arm is
+signiﬁcantly less frequent in patients undergoing AFCA as ﬁr st-
+line rhythm management. AFCA, in fact, is candidate gold
+standard treatment when sinus rhythm maintenance is strong ly
+desired in symptomatic AF patients.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 5 May 2021 | Volume 8 | Article 664647
+[[p6]]
+Saglietto et al. First-Line AF Catheter Ablation
+TABLE 3 | Meta-analysis results for pre-speciﬁed secondary outcomes .
+Secondary outcomes No. of
+studies
+Included
+patients
+(AFCA/AAD)
+AFCA (% of
+included
+patients)
+AADs (% of
+included
+patients)
+RR (95% CI)
+All-cause death 6 1204
+(603/601)
+3 (0.5%) 4 (0.7%) 0.86
+(0.28–2.67)
+Crossover to alternative
+treatment arm
+6 1204
+(603/601)
+48 (7.9%) 169 (28.2%) 0.23
+(0.10–0.51)
+Ablation during follow-up 6 1204
+(603/601)
+96 (15.9%) 169 (28.2%) 0.33
+(0.12–0.88)
+Stroke or transient ischemic
+attack
+6 1204
+(603/601)
+5 (0.8%) 5 (0.8%) 0.98
+(0.33–2.95)
+Cardiac tamponade or clinically
+signiﬁcant pericardial effusion
+6 1204
+(603/601)
+8 (1.3%) 1 (0.2%) 2.35
+(0.62–8.93)
+Phrenic nerve palsy 3* 724 (365/359) 5 § (1.4%) 1 § (0.3%) 2.42
+(0.40–14.63)
+Atrioesophageal ﬁstula 6 1204
+(603/601)
+0 (0%) 0 (0%) n.a.
+Severe pulmonary vein stenosis 4 683 (342/341) 1 (0.3%) 0 (0%) 1.43
+(0.23–9.01)
+Atrial ﬂutter with 1:1
+atrioventricular conduction
+2 413 (206/207) 0 (0%) 3 (1.5%) 0.25
+(0.03–2.25)
+Ventricular tachycardia 6 1204
+(603/601)
+2 (0.3%) 3 (0.5%) 0.88
+(0.22–3.46)
+Bradycardia requiring pacemaker
+implantation
+4 919 (464/455) 3 (0.6%) 5 (1.1%) 0.80
+(0.21–3.05)
+Syncope 5 1137
+(571/566)
+1 (0.2%) 8 (1.4%) 0.30
+(0.08–1.12)
+AFCA, atrial ﬁbrillation catheter ablation; AAD, anti-arrhythmic dru g.
+*This outcome was evaluated in the three most recent RCTs which used cryoenergy.
+§In all cases the palsy was reversible.
+Periprocedural risk, mainly characterized by cerebral
+ischemic events, pericardial eﬀusion (possibly leading to
+cardiac tamponade requiring urgent pericardiocentesis), an d,
+particularly for cryoballoon ablation, phrenic nerve palsy is o f
+concern. However, AFCA has dramatically improved its safety
+proﬁle in the last decade. Technological advancement, incre ased
+experience, and shared evidence-based protocols (
+20), despite an
+increase in patient-speciﬁc risk proﬁle (e.g., older patients i n the
+“modern” cohort), have halved periprocedural complications in
+post-2010 compared with pre-2010 cohorts (2.3 vs. 5%) (
+21).
+Conversely, AADs expose patients to a long-term risk
+of potential side eﬀects, in particular pro-arrhythmic, which
+are, diﬀerently from AFCA, spread over time rather than
+concentrated in a speciﬁc period (
+22). The present analysis
+reports generally low complication rates in both study groups.
+However, the median 12-month follow-up may have limited
+collection of AAD-related side eﬀects, while at the same time
+it likely captures all AFCA complications. Considering that
+patients initially treated with AADs, due to the overall mode st
+eﬃcacy of AADs in maintaining sinus rhythm (
+2), frequently
+undergo AFCA in the following 12 months (approximately one
+third), ﬁrst-line AFCA may not only signiﬁcantly shorten th e
+“diagnosis-to-ablation time” maximizing rhythm outcome b ut
+also potentially prevent the sum of AFCA-related periprocedura l
+risk and AADs side eﬀects in drug-refractory patients.
+Of note, the meta-analytic population was mainly constituted
+by relatively young, symptomatic patients, without overt
+underlying structural heart disease (guaranteed by the stri ct
+RCT inclusion criteria). As an example, median age in the
+CABANA (Catheter Ablation vs. Antiarrhythmic Drug Therapy
+on Mortality, Stroke, Bleeding, and Cardiac Arrest Among
+Patients With Atrial Fibrillation) trial (
+6) was signiﬁcantly higher
+compared with the present population (67.5 vs. 55 years),
+with seven times more patients presenting with heart failure
+(15 vs. 2%) and higher thromboembolic risk (82% of patients
+with CHA2DS2-V ASc score ≥ 2). Similarly, real-world data (
+23)
+indicate that on average AFCA candidates are older, with mor e
+comorbid conditions, higher thromboembolic risk proﬁle, an d
+frequent history of treatment failure with AADs. This sugge sts
+that particular caution should be used before extrapolating th ese
+data to the general AF population; however, it can be speculated
+that the observed low event rate of side eﬀects in the AAD group
+might also relate to the healthier population. Unlike AFCA-
+related adverse events, which are mainly operator- and cente r-
+dependent, potential toxicity of AADs is known to increase
+with patient-related factors such as heart failure and under lying
+structural heart disease (
+22).
+Finally, the present is the ﬁrst analysis showing that
+cryoballoon ablation, previously demonstrating non-inferi ority
+to RF ablation for the treatment of patients with drug-refract ory
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 6 May 2021 | Volume 8 | Article 664647
+[[p7]]
+Saglietto et al. First-Line AF Catheter Ablation
+paroxysmal AF ( 24), has similar eﬃcacy to RF ablation also as
+a ﬁrst-line option. In fact, cryoballoon ablation was reporte d
+to have fewer cardiac tamponades than ablation, and the most
+frequent and speciﬁc cryoballoon complication, phrenic nerve
+palsy, resolved within 1 month in three EARLY-AF (
+14) patients
+and was not present at 12-month follow-up in all STOP-AF cases
+(
+15); in Cryo-FIRST , the only transient case of phrenic nerve
+palsy occurred in a patient who crossed to AFCA arm after being
+randomized to AAD treatment arm (
+16).
+Limitations
+Some limitations of the present analysis need to be addressed .
+First, the threshold deﬁning an arrhythmic event varied
+between the included studies (from 15 to 60 s) and arrhythmia
+monitoring during follow-up was heterogeneous, ranging fr om
+clinical follow-up visits with intermittent rhythm monito ring to
+continuous monitoring with implantable loop records in one
+study (
+14). These diﬀerences may have an inﬂuence on the
+observed recurrent rate, even if a change in the proportional
+eﬃcacy of the two treatment arms considered is unlikely.
+Second, also the type of arrhythmia considered as arrhythmic
+recurrences was variable between the studies, with two stud ies
+only including AF and four studies considering both AF and
+AT/AFL ( Table 2), Nevertheless, arrhythmic recurrences are
+mainly AF episodes (
+25); thus, it is unlikely that the present
+results would have been aﬀected by the inclusion of AT/AFL as
+arrhythmic recurrences in RAAFT-1 (
+10) and MANTRA-PAF
+(11). Third, we cannot exclude that the unblinded nature of
+the studies may have contributed to ablation beneﬁt concern ing
+symptomatic recurrences. Fourth, the analysis was not powered
+to detect potential signiﬁcant diﬀerences in most of the secondary
+outcomes. Due to the low absolute number of events, we did not
+perform subgroup meta-analysis (RF or cryoenergy ablation) f or
+the secondary outcomes.
+CONCLUSIONS
+Compared with AADs, ﬁrst-line therapy with AFCA,
+independently from the adopted energy source (RF or
+cryoenergy), reduces arrhythmic recurrences in symptomati c,
+paroxysmal AF patients without increasing exposure to
+complications. First-line AFCA, performed in high-volume
+experienced centers with low complication rate, candidates
+as for the preferable choice for sinus rhythm maintenance
+in relatively young, healthy patients without overt structu ral
+heart disease.
+DATA AVAILABILITY STATEMENT
+The original contributions presented in the study are includ ed
+in the article/ Supplementary Material, further inquiries can be
+directed to the corresponding author/s.
+AUTHOR CONTRIBUTIONS
+AS and MA conceived the study. AS performed literature
+search, data extraction, and statistical analysis. AS, FG, RD ,
+GD, and MA critically analyzed the results and wrote the
+manuscript. All authors contributed to the article and approve d
+the submitted version.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.338 9/fcvm.
+2021.664647/full#supplementary-material
+REFERENCES
+1. Hindricks G, Potpara T , Dagres N, Arbelo E, Bax JJ, Blomström-Lundqvi st
+C, et al. 2020 ESC guidelines for the diagnosis and management of a trial
+ﬁbrillation developed in collaboration with the European Association of
+Cardio-Thoracic Surgery (EACTS): the task force for the diagno sis and
+management of atrial ﬁbrillation of the European. Eur Heart J. (2020) 42:373–
+498. doi: 10.1093/eurheartj/ehaa612
+2. V alembois L, Audureau E, Takeda A, Jarzebowski W, Belmin J, Lafue nte-
+Lafuente C. Antiarrhythmics for maintaining sinus rhythm afte r
+cardioversion of atrial ﬁbrillation. Cochrane Database Syst Rev. (2019)
+2019:CD005049. doi: 10.1002/14651858.CD005049.pub5
+3. Calkins H, Reynolds MR, Spector P , Sondhi M, Xu Y , Martin A, et al.
+Treatment of atrial ﬁbrillation with antiarrhythmic drugs or radiofreq uency
+ablation: two systematic literature reviews and meta-analyses. Circ
+Arrhythmia Electrophysiol. (2009) 2:349–61. doi: 10.1161/CIRCEP.108.824789
+4. Chew DS, Black-Maier E, Loring Z, Noseworthy PA, Packer DL, Ex ner D
+V., et al. Diagnosis-to-Ablation time and recurrence of atrial ﬁbrilla tion
+following catheter ablation: a systematic review and meta-analysi s of
+observational studies. Circ Arrhythmia Electrophysiol. (2020) 13:350–
+7. doi: 10.1161/CIRCEP.119.008128
+5. Khan AR, Khan S, Sheikh MA, Khuder S, Grubb B, Moukarbel G
+V. Catheter ablation and antiarrhythmic drug therapy as ﬁrst- or
+second-line therapy in the management of atrial ﬁbrillation: systemat ic
+review and meta-analysis. Circ Arrhythmia Electrophysiol. (2014) 7:853–
+60. doi: 10.1161/CIRCEP.114.001853
+6. Packer DL, Mark DB, Robb RA, Monahan KH, Bahnson TD, Poole
+JE, et al. Eﬀect of catheter ablation vs. antiarrhythmic drug thera py on
+mortality, stroke, bleeding, and cardiac arrest among patients with at rial
+ﬁbrillation: The CABANA randomized clinical trial. JAMA. (2019) 321:1261–
+74. doi: 10.1001/jama.2019.0693
+7. January CT , Wann LS, Alpert JS, Calkins H, Cigarroa JE, Cleveland JC, e t al.
+2014 AHA/ACC/HRS guideline for the management of patients with at rial
+ﬁbrillation: A report of the American college of Cardiology/American heart
+association task force on practice guidelines and the heart rhyt hm society. J
+Am Coll Cardiol. (2014) 64:e1–76. doi: 10.1016/j.jacc.2014.03.022
+8. Bunch TJ, May HT , Bair TL, Johnson DL, Weiss JP , Crandall BG, et al.
+Increasing time between ﬁrst diagnosis of atrial ﬁbrillation and c atheter
+ablation adversely aﬀects long-term outcomes. Hear Rhythm. (2013) 10:1257–
+62. doi: 10.1016/j.hrthm.2013.05.013
+9. Kawaji T , Shizuta S, Y amagami S, Aizawa T , Komasa A, Yoshizawa T , et al.
+Early choice for catheter ablation reduced readmission in managemen t of
+atrial ﬁbrillation: impact of diagnosis-to-ablation time. Int J Cardiol. (2019)
+291:69–76. doi: 10.1016/j.ijcard.2019.03.036
+10. Wazni OM, Marrouche NF , Martin DO, Verma A, Bhargava M, Saliba W,
+et al. Radiofrequency ablation vs. antiarrhythmic drugs as ﬁrst-li ne treatment
+of symptomatic atrial ﬁbrillation: a randomized trial. J Am Med Assoc. (2005)
+293:2634–40. doi: 10.1001/jama.293.21.2634
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 7 May 2021 | Volume 8 | Article 664647
+[[p8]]
+Saglietto et al. First-Line AF Catheter Ablation
+11. Cosedis Nielsen J, Johannessen A, Raatikainen P , Hindricks G,
+Walfridsson H, Kongstad O, et al. Radiofrequency ablation as initi al
+therapy in paroxysmal atrial ﬁbrillation. N Engl J Med. (2012)
+367:1587–95. doi: 10.1056/NEJMoa1113566
+12. Morillo CA, Verma A, Connolly SJ, Kuck KH, Nair GM, Champagne J, et al.
+Radiofrequency ablation vs. antiarrhythmic drugs as ﬁrst-line tre atment of
+paroxysmal atrial ﬁbrillation (RAAFT-2) a randomized trial. JAMA. (2014)
+311:692–9. doi: 10.1001/jama.2014.467
+13. Hakalahti A, Biancari F , Nielsen JC, Raatikainen MJP. Radio frequency
+ablation vs. antiarrhythmic drug therapy as ﬁrst line treatment of symptomatic
+atrial ﬁbrillation: systematic review and meta-analysis. Europace. (2015)
+17:370–8. doi: 10.1093/europace/euu376
+14. Andrade JG, Wells GA, Deyell MW, Bennett M, Essebag V , Champagne J, et al.
+Cryoablation or drug therapy for initial treatment of atrial ﬁbrillatio n. N Engl
+J Med. (2020) 384:305–15. doi: 10.1056/NEJMoa2029980
+15. Wazni OM, Dandamudi G, Sood N, Hoyt R, Tyler J, Durrani S, et al.
+Cryoballoon ablation as initial therapy for atrial ﬁbrillation. N Engl J Med.
+(2020) 384: 316–24. doi: 10.1056/NEJMoa2029554
+16. Kuniss M, Pavlovic N, Velagic V , Hermida JS, Healey S, Arena
+G, et al. Cryoballoon ablation vs. antiarrhythmic drugs: ﬁrst-line
+therapy for patients with paroxysmal atrial ﬁbrillation. EP Eur .
+(2021):euab029. doi: 10.1093/europace/euab029
+17. Liberati A, Altman DG, Tetzlaﬀ J, Mulrow C, Gøtzsche PC, Ioannid is JPA,
+et al. The PRISMA statement for reporting systematic reviews and meta -
+analyses of studies that evaluate healthcare interventions: ex planation and
+elaboration. BMJ. (2009) 339:b2700. doi: 10.1136/bmj.b2700
+18. Sterne JAC, Savovi ´c J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB
+2: a revised tool for assessing risk of bias in randomised trials. BMJ. (2019)
+366:l4898. doi: 10.1136/bmj.l4898
+19. Nielsen JC, Johannessen A, Raatikainen P , Hindricks G, Walfri dsson H,
+Pehrson SM, et al. Long-term eﬃcacy of catheter ablation as ﬁrst -line
+therapy for paroxysmal atrial ﬁbrillation: 5-year outcome in a randomise d
+clinical trial. Heart. (2017) 103:368–76. doi: 10.1136/heartjnl-2016-3
+09781
+20. Cheung JW, Yeo I, Cheng EP , Ip JE, Thomas G, Liu CF , et al.
+Inpatient hospital procedural volume and outcomes following catheter
+ablation of atrial ﬁbrillation. J Cardiovasc Electrophysiol. (2020) 31:1908–
+19. doi: 10.1111/jce.14584
+21. Muthalaly RG, John RM, Schaeﬀer B, Tanigawa S, Nakamura T , Kapu r
+S, et al. Temporal trends in safety and complication rates of catheter
+ablation for atrial ﬁbrillation. J Cardiovasc Electrophysiol. (2018) 29:854–
+60. doi: 10.1111/jce.13484
+22. Dan GA, Martinez-Rubio A, Agewall S, Boriani G, Borggrefe M, G aita
+F , et al. Antiarrhythmic drugs-clinical use and clinical decision making:
+a consensus document from the European Heart Rhythm Association
+(EHRA) and European Society of Cardiology (ESC) Working Group on
+Cardiovascular Pharmacology, endorsed by the Heart Rhythm Society
+(HRS), Asia-Paciﬁc Heart Rhythm Society (APHRS), and Internatio nal
+Society of Cardiovascular Pharmacotherapy (ISCP). Europace. (2018) 20:731–
+2. doi: 10.1093/europace/eux373
+23. Saglietto A, De Ponti R, Di Biase L, Matta M, Gaita F , Romero J, et al.
+Impact of atrial ﬁbrillation catheter ablation on mortality, stroke, an d heart
+failure hospitalizations: a meta-analysis. J Cardiovasc Electrophysiol . (2020)
+31:1040–7. doi: 10.1111/jce.14429
+24. Kuck KH, Fürnkranz A, Chun KRJ, Metzner A, Ouyang F , Schlüter
+M, et al. Cryoballoon or radiofrequency ablation for symptomatic
+paroxysmal atrial ﬁbrillation: Reintervention, rehospitalization, and quality-
+of-life outcomes in the FIRE and ICE trial. Eur Heart J. (2016) 37:2858–
+65. doi: 10.1093/eurheartj/ehw285
+25. Arbelo E, Brugada J, Blomström-Lundqvist C, Laroche C, Kautzner J,
+Pokushalov E, et al. Contemporarymanagement of patients undergoing a trial
+ﬁbrillation ablation: inhospital and 1-year follow-up ﬁndings from the ESC-
+EHRA atrial ﬁbrillation ablation long-term registry. Eur Heart J. (2017)
+38:1303–16. doi: 10.1093/eurheartj/ehw564
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potential conﬂict of interest.
+Copyright © 2021 Saglietto, Gaita, De Ponti, De Ferrari and Ansel mino. This is an
+open-access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in ot her forums is permitted,
+provided the original author(s) and the copyright owner(s) a re credited and that the
+original publication in this journal is cited, in accordanc e with accepted academic
+practice. No use, distribution or reproduction is permitte d which does not comply
+with these terms.
+Frontiers in Cardiovascular Medicine | www.frontiersin.o rg 8 May 2021 | Volume 8 | Article 664647

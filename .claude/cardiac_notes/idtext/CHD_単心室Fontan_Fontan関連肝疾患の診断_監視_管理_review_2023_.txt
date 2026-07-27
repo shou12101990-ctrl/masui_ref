@@ -1,0 +1,1783 @@
+
+[[p1]]
+EDITED BY
+Milan Prsa,
+Centre Hospitalier Universitaire Vaudois
+(CHUV), Switzerland
+REVIEWED BY
+Floris E.A. Udink ten Cate,
+Radboud University Medical Center,
+Netherlands
+Michiel Dalinghaus,
+Erasmus Medical Center, Netherlands
+*
+CORRESPONDENCE
+Charlotte de Lange
+charlotte.de.lange@vgregion.se
+SPECIALTY SECTION
+This article was submitted to Pediatric
+Cardiology, a section of the journal Frontiers in
+Pediatrics
+RECEIVED 16 November 2022
+ACCEPTED 09 February 2023
+PUBLISHED 03 March 2023
+CITATION
+de Lange C, Möller T and Hebelka H (2023)
+Fontan-associated liver disease: Diagnosis,
+surveillance, and management.
+Front. Pediatr. 11:1100514.
+doi: 10.3389/fped.2023.1100514
+COPYRIGHT
+© 2023 de Lange, Möller and Hebelka. This is an
+open-access article distributed under the terms
+of the Creative Commons Attribution License
+(CC BY). The use, distribution or reproduction in
+other forums is permitted, provided the original
+author(s) and the copyright owner(s) are
+credited and that the original publication in this
+journal is cited, in accordance with accepted
+academic practice. No use, distribution or
+reproduction is permitted which does not
+comply with these terms.
+Fontan-associated liver disease:
+Diagnosis, surveillance, and
+management
+Charlotte de Lange
+1,2*, Thomas Möller
+3
+and Hanna Hebelka
+1,2
+1Department of Pediatric Radiology, Queen Silvia Children ’s Hospital, Sahlgrenska University Hospital,
+Gothenburg, Sweden, 2Institution of Clinical Sciences, Sahlgrenska Academy, University of Gothenburg,
+Gothenburg, Sweden, 3Department of Pediatric Cardiology, Oslo University Hospital, Oslo, Norway
+The Fontan operation is a lifesaving procedure for patients with functional single-
+ventricle congenital heart disease, where hypoplastic left heart syndrome is the
+most frequent anomaly. Hemodynamic changes following Fontan circulation
+creation are now increasingly recognized to cause multiorgan affection, where
+the development of a chronic liver disease, Fontan-associated liver disease
+(FALD), is one of the most important morbidities. Virtually, all patients with a
+Fontan circulation develop liver congestion, resulting in ﬁbrosis and cirrhosis, and
+most patients experience childhood onset. FALD is a distinctive type of congestive
+hepatopathy, and its pathogenesis is thought to be a multifactorial process driven
+by increased nonpulsatile central venous pressure and decreased cardiac output,
+both of which are inherent in the Fontan circulation. In the advanced stage of
+liver injury, complications of portal hypertension often occur, and there is a risk of
+developing secondary liver cancer, reported at young age. However, FALD
+develops with few clinical symptoms, a surprisingly variable degree of severity in
+liver disease, and with little relation to poor cardiac function. The disease
+mechanisms and modifying factors of its development are still not fully
+understood. As one of the more important noncardiac complications of the
+Fontan circulation, FALD needs to be diagnosed in a timely manner with a
+structured monitoring scheme of disease development, early detection of
+malignancy, and determination of the optimal time point for transplantation.
+There is also a clear need for consensus on the best surveillance strategy for
+FALD. In this regard, imaging plays an important role together with clinical scoring
+systems, biochemical workups, and histology. Patients operated on with a Fontan
+circulation are generally followed up in cardiology units. Ultimately, the resulting
+multiorgan affection requires a multidisciplinary team of healthcare personnel to
+address the different organ complications. This article discusses the current
+concepts, diagnosis, and management of FALD, with special emphasis on the role
+of different imaging techniques in the diagnosis and monitoring of disease
+progression, as well as current recommendations for liver disease surveillance.
+KEYWORDS
+Fontan procedure, chronic liver disease, imaging, surveillance, congestion
+PM?h
+Children with univentricular heart disease surgically palliated with a Fontan circulation
+have experienced remarkably increased survival into adulthood during the last few decades,
+up to 61% –85% worldwide ( 1–4). Even better results have been reported for patients
+operated on after 2001, who have a 95% 10-year survival rate ( 5). The number of patients
+with a Fontan circulation is steadily increasing and was estimated to be 66 per million in
+2020, of whom 55% are adults, 17% adolescents, and 28% children ( 3, 6).
+TYPE Review
+PUBLISHED 03 March 2023
+| DOI 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 01 frontiersin.org
+[[p2]]
+Since the ﬁrst reports of pioneering and lifesaving operations
+performed by Francis Fontan and Guillermo Kreutzer in the early
+1970s ( 7, 8) in patients with tricuspid atresia, this procedure has
+been performed on many different types of congenital heart
+anomalies where a two-chamber circulation cannot be achieved.
+The main features of the Fontan circulation are increased
+central venous pressure (CVP), low cardiac output, and
+lymphatic over ﬂow with obstruction. There is an increasing
+awareness that chronic low ﬂow in the Fontan circulation has a
+deleterious effect on cardiac function itself, but it also causes
+complications in nearly all organ systems, such as the lungs,
+brain, liver, bowels, kidneys, musculoskeletal system, and
+lymphatic system. The development of liver ﬁbrosis and
+cirrhosis, known as Fontan-associated liver disease (FALD), is of
+special and growing concern regarding this young population.
+Although liver ﬁbrosis in a patient following Fontan palliation
+was ﬁrst described in 1981, it has not been widely acknowledged
+until the last few decades ( 9, 10). The duration since Fontan
+completion has been associated with an increased stage of ﬁbrosis
+(11–13). However, there are indications that in utero pre-Fontan
+insults may have implications for ﬁbrosis development ( 14)a n d
+that FALD may start early, in childhood, with the development of
+subclinical ﬁbrosis and cirrhosis into adolescence, which
+progresses to end-stage liver disease. As in other types of chronic
+liver disease, there is a risk of transformation to malignancy,
+particularly hepatocellular carcinoma (HCC), with an estimated
+prevalence of 0.18 –1.3% in FALD ( 15, 16). Most reported cases of
+HCC have been reported in young adults, but single cases have
+been reported in early adolescence ( 15, 17).
+The pathogenic mechanisms underlying FALD are still not fully
+understood. The course of development is known to be heterogeneous
+and variable among patients, with many unanswered questions about
+disease diagnosis, development, and prognosis. Most of the knowledge
+gathered to date is based on retrospective data from small populations.
+Prospective, longitudinal, and multicenter studies are urgently needed.
+This requires a consensus on how and when FALD should be
+diagnosed, and how disease development needs monitoring with
+regard to treatment optimization and surveillance for malignant
+transformation. Questions surround the process, timeline, and
+screening tools involved in forming this consensus.
+Since early-stage FALD is characterized by subclinical
+development, imaging screening has become an important part of
+diagnosis and follow-up, together with clinical evaluations and
+scoring systems, histopathology, and serological data. This requires
+appropriate healthcare coordinated from pediatric to adult care,
+including not only cardiologists and hepatologists but also multiple
+subspecialists familiar with the consequences and pathophysiology
+of Fontan physiology.
+2. Pathophysiology and outcome of
+the Fontan circulation
+Single-ventricle circulation is a rare disorder and one of the
+most complex types of congenital heart disease (CHD). It
+constitutes less than 10% of CHD and is rather an umbrella
+category for diverse defects that all share one anatomic feature.
+Hypoplastic left heart syndrome is the most frequent type of
+defect, representing 1.4% –3.8% of CHD ( 18, 19). Other defects
+include unbalanced atrioventricular septal defects and hypoplastic
+right heart complexes with pulmonary atresia and tricuspid atresia.
+The Fontan circulation is a de ﬁnitive palliation for single-
+ventricle physiology and is currently achieved with stepwise
+sequential operations during the ﬁrst years of life, with the ﬁnal
+Fontan operation completed at 2 –4 years of age.
+The ﬁrst procedure, performed shortly after birth, when
+necessary, ascertains blood ﬂow and oxygenation to both the lungs
+and body. In addition, an unobstructed return of pulmonary and
+systemic venous blood is assured by a large atrial septal defect. In
+the second operation, the “bidirectional cavopulmonary
+connection” or “bidirectional Glenn procedure ” is performed at
+FIGURE 1
+Illustration of the total cavopulmonary circulation with the extracardiac
+conduit connecting the inferior caval vein and the pulmonary arteries.
+Illustration created by Michael Bjaanes in collaboration with the
+Department of Pediatric Cardiology and the Department of Adult
+Congenital Heart Disease at Oslo University Hospital.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 02 frontiersin.org
+[[p3]]
+approximately 3–6 months of age. Systemic venous return from the
+upper body is directly connected to the pulmonary arteries via the
+superior vena cava. In the ﬁnal Fontan operation, pulmonary and
+systemic circulations are connected in series, now totally bypassing
+the subpulmonary ventricle directly channeled into the pulmonary
+arteries from the systemic veins by an intra-atrial “lateral” tunnel
+or currently by a synthetic extracardiac conduit, the “total
+cavopulmonary connection ” (TCPC) ( Figures 1 , 2). This direct
+connection to the pulmonary arteries results in a slightly increased
+CVP to ensure blood ﬂow into the lungs. Increased CVP limits
+the ventricular volume load reserve, which further results in a
+decreased cardiac output reserve ( 20).
+Today, the operative mortality for the Fontan operation in most
+centers is relatively low (<3%), and the survival rate has increased
+considerably due to re ﬁnements in operative techniques, as well as
+p r e - ,p e r i - ,a n dp o s t o p e r a t i v ec a r e(5). However, different organ
+complications develop over time, and most patients develop
+arrhythmias in the second or third decades of life ( 5, 21). On the
+other hand, there is wide functional variety in patients living with
+Fontan physiology, and there are patients with close to healthy
+cardiorespiratory ﬁtness and without cardiac medication besides
+mandatory thromboemboli prophylaxis.
+“Fontan failure” is the term used for a dysfunction originating
+from the heart itself or noncardiac complications including persistent
+congestion with edema, low cardi ac output with limited exercise
+tolerance, an arrhythmia, protein-losing enteropathy (PLE), or plastic
+bronchitis (22, 23). This is associated with reduced quality of life
+and increased mortality, as well as limited options of treatment other
+than a cardiac transplant, which results in a considerably higher
+perioperative risk of mortality for such patients than other transplant
+candidates, especially in adults ( 24, 25). For a failing Fontan
+circulation, a total workup for an eventual transplantation should
+include an evaluation of liver disease comprising a physical
+examination, serological evaluation, and hepatic imaging.
+3. Pathophysiology of FALD
+The mechanisms underlying the pathophysiology of FALD are
+multifactorial and not fully understood. Most of our knowledge is
+based on animal models or clinical/histological data from patient
+cohorts with other chronic liver diseases. The main factors that
+inﬂuence the FALD process are summarized in Figure 3 .
+3.1. Circulation
+The chronic increase in CVP from the Fontan circulation has a
+negative impact on the liver ( 12). As portal venous in ﬂow is
+regulated by mesenteric venous ﬂow and the pressure gradient
+between the portal and hepatic veins, increased hepatic venous
+pressure hinders portal in ﬂow to the liver. Furthermore,
+decreased cardiac output decreases portal venous in ﬂow. The
+Fontan circulation with high CVP mimics a hepatic venous
+outﬂow obstruction, which causes arterialization of hepatic blood
+ﬂow due to the “hepatic arterial buffer response. ” This
+complicated regulatory mechanism ensures the autoregulation of
+hepatic in ﬂow by the portal vein and hepatic artery (normally
+contributing 75% and 25%, respectively, of hepatic in ﬂow) ( 26).
+The congestion, with increased sinusoidal pressure, is
+subsequently transmitted to increase portal venous pressure. The
+hepatic artery buffer response will only operate at portal venous
+pressures <20 mmHg ( 27) and the development of portal
+hypertension (PHTN) above this threshold will reduce arterial
+inﬂow, resulting in arterial ischemia and hepatic necrosis. In this
+way, the liver in FALD is affected by two factors: reduced arterial
+and portal in ﬂow and obstructed venous out ﬂow.
+In addition, aberrant Fontan circulation seems to facilitate the
+formation of intrapulmonary venovenous or arteriovenous
+collaterals that chronically further aggravate hypoxia (28, 29). Many
+anatomical single-ventricle physiologies result in di fferent surgical
+technique-dependentﬂow characteristics of the Fontan connection.
+This might partly explain the individual differences in the severity
+of venous drainage from the liver and variability of liver damage (30).
+3.2. Cellular
+At the cellular level, hepatic congestion is suggested to cause a
+number of complex deleterious changes that interact with the
+development of liver ﬁbrosis. Systemic venous hypertension
+transmitted to the hepatic veins leads to sinusoidal dilatation,
+hyperﬁltration, and perisinusoidal edema with sinusoidal stretch,
+as shown in murine models of congestive hepatopathy and PHTN
+(31, 32). This perisinusoidal stress will trigger ﬁbrotic
+transformation by activation of the mechanosensitive cell signaling
+pathway in liver sinusoidal endothelial cells (LSEC) and hepatic
+stellate cells (HSC) ( 26). In addition, stretching of HSC, also
+FIGURE 2
+Cardiac MRI, T2 black-blood sequence in a coronal plane showing the
+extracardiac conduit (arrow) connecting the inferior caval vein to the
+pulmonary arteries.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 03 frontiersin.org
+[[p4]]
+reported in murine models of congestive hepatopathy, induces
+ﬁbronectin secretion and causes extracellular matrix assembly,
+which is an important step in ﬁbrinogenesis (33, 34). Mechanical
+stretching disturbs LSEC function by decreasing the intrahepatic
+nitric oxide concentration. These changes hamper the diffusion of
+oxygen and nutrients and promote hepatocellular necrosis,
+atrophy, and ﬁbrinogenic responses, which are more marked in
+the centrilobular zone ( 35). Furthermore, LSEC may play a role in
+early hepatic circulatory disturbance and the pathophysiology of
+PHTN in FALD with secretion of cytokines by LSEC and
+neutrophil chemotactic chemokine (C-X-C motif) ligand (CXCL)
+PM?bwbkP???????
+of microvascular thrombosis, which increases PHTN and
+contributes to ﬁbrosis ( 33, 34). Thromboembolic events are more
+frequently reported in patients with advanced FALD ( 36), and the
+efﬁcacy of antithrombotic strategies, either with acetylsalicylic acid
+or warfarin, must be assumed to be in ﬂuenced by the hepatic state.
+Beyond the liver, other organs (i.e., kidneys and myocardium) can
+develop ﬁbrosis in FALD ( 35). Interestingly, liver ﬁbrosis was
+correlated with myocardialﬁbrosis in a study of young adult patients
+with a Fontan circulation and was associated with an increase in
+ﬁbrogenic serum biomarkers, including matrix metalloproteinases
+and tissue inhibitors of metalloproteinases, suggesting a pro ﬁbrotic
+environment and deleterious effects on end-organ function (36).
+3.3. In ﬂammation and biochemical markers
+The role of in ﬂammatory mediators has been previously
+reported from small studies on patients with heart failure ( 37).
+Recently, a prospective study of 44 stable patients operated with
+a Fontan circulation revealed increased in ﬂammatory biomarkers
+and complement and systemic cytokines, including interleukin
+6, growth derived factor-15, tumor necrosis factor- α, and
+β2-macroglobulin ( 38).
+The relationship between lymphatic over ﬂow, congestion, and
+end-organ damage, such as liver ﬁbrosis and PLE, is still not well
+understood. Increased lymph angiogenesis in the liver has been
+shown to contribute to dilatation of the hepatic sinusoids, and poor
+lymph drainage may likely contribute to aggravating liver
+dysfunction, tissue in ﬂammation, and ﬁbrosis ( 39). Rodriguez de
+Santiago et al. found a relationshi p between advanced liver disease
+assessed using imaging, PLE, and markers of in ﬂammation and
+intestinal permeability in a small prospective adult Fontan study (40).
+Neurohormonal activation seems to play a role in FALD, where
+serum renin, aldosterone, and angiotensin are shown to be
+increased in patients with Fontan physiology, and where
+angiotensin 2 promotes the secretion of collagen 1 ( 35, 38).
+Finally, heart failure and visceral congestion alter intestinal
+perfusion with ischemia and increase intestinal permeability, with
+bacterial translocation events and systemic in ﬂammation ( 41, 42).
+Recent studies have shown that the intestinal microbiome may
+play an important role in congestive hepatopathy, but its role in
+the Fontan circulation has not been investigated ( 41).
+4. Clinical presentation
+FALD most often exhibits subclinical development during the
+early phases. This demonstrates the need for disease detection
+FIGURE 3
+Figure displaying the most common proposed mechanisms in ﬂuencing FALD development. Neutrophil chemotactic chemokine (C-X-C motif) and tumor
+necrosis factor- α (TNFα). A part of the illustration is created by Michael Bjaanes in collaboration with the Department of Pediatric Cardiology and the
+Department of Adult Congenital Heart Disease at Oslo University Hospital. FALD, Fontan-associated liver disease.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 04 frontiersin.org
+[[p5]]
+screening. Clinical and laboratory ﬁndings vary according to the
+disease stage, and in many pediatric patients, they may be subtle,
+resulting only in hepatomegaly due to congestion ( 11, 43, 44). Even
+in the advanced stage of FALD with established but compensated
+cirrhosis, the clinical symptoms may be absent or present with
+more nonspeciﬁc symptoms, such as anorexia, fatigue, and weight
+loss (43, 45, 46). Importantly, the presence of ascites in the Fontan
+circulation can make it dif ﬁcult to diagnose whether there is a
+c o m b i n e dc a r d i a ca n dh e p a t i cd y s f u n c t i o no rt h ep r e s e n c eo fP L E .
+Pediatric patients with a Fontan circulation and ascites may have
+other abnormalities such as obstruction of the Fontan conduit. To
+differentiate ascites of hepatic from cardiac origin, brain natriuretic
+peptide (BNP) can be used to exclude a cardiac origin ( 47).
+In late-stage and decompensated liver disease, ascites, jaundice,
+variceal bleeding, and hepatic encephalopathy may play a role and
+suggest the presence of PHTN, which is associated with adverse
+outcomes in the population with a Fontan circulation ( 48, 49).
+Identifying PHTN is important for optimizing clinical management,
+that is, screening for variceal ble eding and diuretic medication, and
+may implicate health outcomes and the decision for liver
+transplantation (49).
+Variceal bleeding can be reported after the Fontan procedure,
+with a variable incidence ranging from 9.3% –38% ( 50, 51). In
+children, the prevalence of varices is even lower (about 9%),
+which suggests that its development is a late complication ( 51).
+Because of the high risk of mortality of this complication (15% –
+20%) ( 52), upper gastrointestinal endoscopy is commonly
+recommended for adult patients with cirrhosis or signs of PHTN.
+Imaging is not recommended as part of the screening for varices,
+although they can be observed with cross-sectional imaging ( 48).
+Laboratory ﬁndings are characteristically only slightly affected
+by liver congestion. There are often increased aminotransferases
+in approximately 30% of cases accompanied by a slight increase
+in alkaline phosphatase (ALP), gamma-glutamyl transferase
+(GGT), and indirect bilirubin, in addition to a prolongation of
+prothrombin time ( 53–55). Decreased serum albumin is noted in
+30%–50% of patients with chronic heart failure ( 56).
+5. Hepatocellular carcinoma
+HCC is a rare complication with an estimated prevalence of 0.18%–
+1.3% in the population with a Fontan circulation (15, 16). The youngest
+patient reported was 12 years of age at the time of diagnosis, while the
+median age after Fontan completion was 22 years in two large
+retrospective multicenter studies (15, 57). Only 50% of patients were
+symptomatic at the time of diagno sis, presenting with symptoms
+including jaundice, abdominal pai n, ascites, dyspnea, hematemesis,
+and fever. In a multicenter retrospective study including 54 patients
+with HCC who underwent a Fontan operation, the mean age was 30
+years and the median tumor size at diagnosis was 4 cm (range, 1 –
+QQ?H?GTVH?Mr???????????????????????????????????????
+diagnosis and if the tumor size was >4 cm; the cumulative survival
+rate was only 50% after 1 year ( 57). An important feature found was
+that 50% of patients did not have cirrhosis when diagnosed with
+HCC, indicating that having established cirrhosis is not a
+requirement for HCC development in patients with a Fontan
+circulation. This has also been con ﬁrmed in smaller studies on such
+patients. Mazzarelli et al. revealed that HCC was registered in three
+patients without an association with the degree of hepatic cirrhosis,
+which was also con ﬁrmed in a meta-analysis by Rodriguez de
+Santiago et al. ( 58, 59). Longitudinal studies are needed to identify
+the risk factors for developing HCC and to ﬁnd a suitable
+surveillance strategy to identify HCC at an early stage.
+6. Diagnosis
+As mentioned previously, the diagnosis of FALD is a clinical
+challenge. However, the true incidence of FALD is not known
+and likely under-recognized since there is no consensus on a
+uniformly accepted de ﬁnition of the disease. There are different
+deﬁnitions of FALD based on serological biomarkers, combined
+radiological and serological scores, and histological and clinical
+evaluations. A recent expert consensus statement from an
+association of several leading societies focused on CHD and the
+care of patients with a Fontan circulation proposed the following
+deﬁnition of FALD: “The broad spectrum of liver disease and its
+consequences, attributable to Fontan hemodynamics. FALD
+includes varying is degrees of hepatic ﬁbrosis, compensated and
+decompensated cirrhosis, focal nodular hyperplasia [FNH],
+laboratory evidence of hepatic injury or impaired synthetic
+function, and hepatocellular neoplastic lesions ” (60). This
+indicates that FALD can be present even without Fontan failure.
+Liver biopsy remains the gold standard for the diagnosis of
+adult noncongestive liver disease. Nevertheless, this is more
+complicated in the case of FALD because there may be sample
+errors due to the heterogeneous nature and patchy distribution
+of ﬁbrosis ( 20). With the invasive procedure, there is a
+potentially increased risk of bleeding due to anticoagulant
+medication and high CVP, and biopsy is therefore not suitable
+for routine longitudinal follow-up. In the pediatric population,
+sedation and general anesthesia are often required.
+Consequently, noninvasive diagnosis and staging could be an
+attractive alternative, but with different limitations. Imaging
+alone cannot reliably detect early stages of ﬁbrosis. Ubiquitous
+liver congestion in FALD can present with confounding imaging
+features that resemble advanced cirrhosis. Congestion is also a
+confounder for noninvasive imaging of ﬁbrosis biomarkers, such
+as elastography ( 61, 62). In addition, serological markers of liver
+function do not correlate with liver ﬁbrosis severity ( 13, 63).
+Ultimately, the deﬁnition of advanced FALD with cirrhosis consists
+of a combination of supportive ﬁndings from clinical, laboratory, and
+imaging parameters of the liver a nd abdomen (presence of varices,
+portosystemic collaterals, ascites, and splenomegaly) (13, 56).
+6.1. Serological markers and clinical scoring
+systems
+Most serological tests used to estimate liver ﬁbrosis in other
+chronic liver diseases have been evaluated in FALD, although
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 05 frontiersin.org
+[[p6]]
+most studies did not include data on histology as the gold standard
+nor considered the intrinsic limitations of these noninvasive
+parameters ( 64–66).
+In compensated FALD, hepatic serological markers are normal
+or slightly affected and increase over time, including a mild
+increase in the GGT level, which is the most common ﬁnding
+(50, 67) often combined with a mild increase in unconjugated
+hyperbilirubinemia.
+Sometimes, a combination of mild elevations of aspartate
+aminotransferase and alanine aminotransferase is observed in
+mild congestion and may be accompanied by a moderate
+elevation of ALP ( 68). Elevated prothrombin time and a
+prolonged International Normalized Ratio (INR) may also be
+found but are rarely related to the degree of ﬁbrosis ( 69).
+It is not until the more advanced stages of ﬁbrosis and cirrhosis
+that serological markers are markedly affected with an additional
+decrease in platelet count as a sign of PHTN and splenic
+consumption ( 70). In the case of HCC development in the
+Fontan circulation, an increase in α-fetoprotein may be seen in
+VSD–WOD???G?TVK?TXHM?k????
+occur secondary to PLE, nephropathy, and malnutrition. Elevated
+liver test results may stem from cardiac dysfunction (especially
+regarding GGT), medical treatment (antiarrhythmic drug
+toxicity), surgical procedures, or cardiac collapse ( 71).
+6.1.1. Laboratory scoring systems
+Laboratory scoring systems have not been validated for the
+population with FALD but might aid in the evaluation of
+cirrhosis as a supplement to imaging ﬁndings and clinical
+assessment. Many different systems have been used with different
+proﬁles and limitations in the setting of FALD, with modest
+discriminatory power in identifying patients with severe ﬁbrosis
+(Table 1 ).
+Of these tests, the aspartate aminotransferase to platelet ratio
+index and ﬁbrosis 4 score are dedicated for patients with
+hepatitis C and ﬁbrosis development, and indicate PHTN, but
+have not been proven useful in FALD ( 72). The Forns index
+(including age, GGT, cholesterol, and platelet count) has shown a
+correlation between the duration of the Fontan circulation and
+signs of cirrhosis shown on computed tomography (CT) ( 64).
+Other scores involving INR, albumin, and bilirubin, like the
+Child–Pugh score or “the model for end-stage disease ” (MELD),
+may not re ﬂect liver function properly in the population with
+FALD since these patients commonly receive anticoagulation
+therapy. In this regard, “the model for end-stage disease,
+excluding INR ” (MELD XI) seems more promising ( 51, 73).
+MELD XI has been shown to correlate with biopsy-proven liver
+ﬁbrosis, but a speci ﬁc cut-off for severe liver ﬁbrosis has not
+been identi ﬁed ( 74). MELD XI may have a role in predicting the
+outcome of transplantation and need for a combined heart –liver
+transplant vs. an isolated heart transplant ( 75).
+6.2. Liver biopsy — histopathology
+Traditionally, liver biopsy has been performed to stage different
+types of chronic liver disease and is considered the diagnostic gold
+standard. The contribution of liver biopsy, performed via a
+transjugular or percutaneous approach in the population with a
+Fontan circulation, to assess liver ﬁbrosis and cirrhosis is not
+clear, and ﬁndings are contradictory. Several limitations of
+performing a biopsy are present in the setting of FALD; sample
+errors are frequent owing to the particularly patchy distribution
+of ﬁbrosis. Because it is an invasive procedure, there is an
+increased risk of bleeding. In Fontan physiology, this is of special
+concern when performing a biopsy given cardiac and liver
+dysfunction with increased CVP and the need for systemic
+anticoagulation therapy ( 76). However, in a recent pediatric
+study, transcutaneous biopsy-related complications were similar
+to those in other pediatric cohorts ( 77). Performing transjugular
+biopsies during cardiac catheterization has an advantage over
+percutaneous biopsies in that they are safer with regard to
+bleeding and allow for the simultaneous assessment of
+hemodynamic data. Nevertheless, they are equally challenging
+with the risk of producing unreliable samples that overestimate
+the grade of ﬁbrosis, since sampling is mainly performed more
+TABLE 1 Laboratory scoring systems.
+Scoring system Variables Prediction of ﬁbrosis in FALD
+AST/ALT ratio AST, ALT Dif ﬁcult to evaluate early ﬁbrosis since a mild increase in these serum markers is common due
+to congestion
+APRI AST, platelet count Dedicated to scoring hepatitis C not validated in FALD. Decrease in platelet count is associated
+with advanced disease
+FIB-4 AST, ALT, platelet count, age Performs less well for FALD patients since the majority are <40 years
+MELD Bilirubin, creatinine, INR, sodium Not appropriate in FALD patients with anticoagulant therapy
+MELD-IX Bilirubin, creatinine Correlates to biopsy-proven FALD ﬁbrosis. Potential role in predicting outcome for
+transplantation heart vs. heart –liver
+Forns index GGT, cholesterol, platelet count, age Takes into account GGT which is also commonly increased in congestive hepatopathy
+Pohl score AST, ALT, platelet count Dedicated to scoring for hepatitis C not validated in FALD. Decrease in platelet count is
+associated with advanced disease
+Cirrhosis discriminant
+score
+GGT, AST, ALT, INR, upper limit of AST,
+platelet count, age
+Dedicated to scoring for hepatitis C not validated in FALD
+ALT, alanine transaminase; AST, aspartate aminotransferase; APRI, aspartate aminotransferase to platelet ratio index; FIB-4, ﬁbrosis-4; MELD, model for end-stage liver
+disease; MELD XI, model for end-stage liver disease excluding the international normalized ratio; FALD, Fontan-associated liver disease; INR, Int ernational Normalized
+Ratio; GGT, gamma-glutamyl transferase.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 06 frontiersin.org
+[[p7]]
+centrally close to the liver veins, where the disease is thought to be
+more pronounced ( 69).
+6.2.1. Histological scoring
+FALD exhibits a distinctive histological pattern of congestive
+hepatopathy. In FALD, periportal, centrilobular, and sinusoidal
+ﬁbrosis coexist, unlike other in ﬂammatory diseases such as viral
+hepatitis or alcohol-induced liver disease, where there is
+centrizonal portal-based ﬁbrosis secondary to hepatic congestion
+(78). The etiology of portal ﬁbrosis in FALD is not fully
+understood, and histopathological reports suggest a contribution
+of injury from pre-Fontan insults ( 14).
+This disease pattern makes traditional histopathological scoring
+systems for chronic liver disease, such as the METAVIR or Ishak
+score, focusing on portal ﬁbrosis, inadequate for assessing the
+whole extent of disease in FALD. In a study of adult patients
+with congestive hepatopathy (only two with a Fontan
+circulation), a new scoring system for congestive hepatic ﬁbrosis
+was developed. Taking into account central and portal ﬁbrosis,
+the “congestive hepatic ﬁbrosis score ” was suggested ( 79).
+Furthermore, studies have combined two of these scoring systems
+in the “modiﬁed Ishak congestive hepatic score, ” which accounts
+for both portal and early central ﬁbrosis with a more re ﬁned
+scale that could be more representative of FALD histology ( 80).
+Although these scores have been used for FALD in several later
+studies, prospective data are lacking regarding their prognostic
+value for monitoring FALD and predicting clinical outcomes ( 46,
+65, 69, 80, 81).
+Liver biopsy in suspected FALD should be performed after
+careful consideration and is mainly indicated in three possible
+clinical situations: (1) as part of the follow-up, (2) before heart
+transplantation, or (3) to characterize liver nodules .
+(1) Biopsy as part of FALD follow-up : Some centers perform liver
+biopsy as part of their FALD surveillance program; however,
+most available data come from retrospective adult studies. A
+review of 67 young, predominantly asymptomatic
+adolescents and young adults found a moderate correlation
+between the grade of ﬁbrosis and time from TCPC surgery,
+but no correlation with hemodynamic risk factors ( 20). In
+another retrospective study of 74 biopsies from
+asymptomatic, pediatric, and adult patients with Fontan
+physiology, a median age of 17.7 years (range, 7.2 –26.9
+years) and various degrees of portal ﬁbrosis in 93% of
+patients were revealed ( 69
+). Other studies have revealed a
+general presence of centrilobular or sinusoidal ﬁbrosis with
+a portal ﬁbrosis prevalence of 82% –93% and universal
+centrilobular ﬁbrosis with an advanced ﬁbrosis prevalence of
+39%–78% ( 54, 74, 76, 78). Correlations with clinical
+outcome in 68 patients were studied by Wu et al., and no
+correlation was found between histology and patient death
+or transplant-free survival ( 76).
+However, it is important to keep in mind that a small focal core
+biopsy is not representative of FALD given its heterogeneous
+distribution. This is illustrated in a study of FALD liver explants
+from 15 patients, where explant histology revealed higher grade
+ﬁbrosis than the transjugular biopsy performed shortly before
+death in 40% of patients ( 82).
+In conclusion, the utility of biopsy for staging ﬁbrosis in FALD
+is still under debate, given its risks and poor correlation with
+clinical outcomes.
+(2) Biopsy in the decision workup for a transplantation: Liver
+biopsy is part of the investigation to determine whether
+heart transplantation should be associated with liver
+transplantation ( 31, 83). In this scenario, consensus is not
+universal, especially regarding the capability of histology to
+predict whether the patient will survive with a heart-only
+transplant or to in ﬂuence the best timing for surgery ( 77).
+(3) Biopsy to characterize liver nodules: Focal liver lesions of
+different sizes occur frequently in patients with a Fontan
+circulation, and imaging ﬁndings can be more dif ﬁcult to
+interpret than in other types of chronic liver disease.
+Biopsies remain important for the evaluation of liver
+nodules in FALD. This is discussed further in a later section.
+6.3. Imaging
+FALD imaging features are distinct from those of other
+etiologies of chronic liver disease. Over its course, FALD may be
+visualized, and to some extent, ﬁbrosis can be quanti ﬁed with
+different radiological techniques such as abdominal ultrasound
+(US), CT, and magnetic resonance imaging (MRI).
+Common ﬁndings with all techniques involve an enlarged
+liver with bulging contours and a dilated inferior vena cava and
+hepatic veins due to elevated CVP. Venovenous shunts may also
+be present. The heterogeneous distribution of ﬁbrosis is also
+represented by multiple peripheral nodules of different sizes in
+both early and late disease stages. With time, cirrhosis develops
+and atrophy of the right lobe may be observed with a nodular
+surface. Typically, a patchy and uneven distribution of ﬁbrosis
+or cirrhosis is seen ( 63).
+6.3.1. Ultrasonography with Doppler examinations
+Although operator-dependent, US is an easy bedside technique
+suitable for the ﬁrst evaluation of the liver parenchyma. US allows
+for the assessment of hepatic blood ﬂow and can also provide an
+overview of the abdominal organs. It screens for signs of liver-
+associated complications, such as splenomegaly and ascites.
+However, US cannot reliably detect early ﬁbrotic changes in the
+liver, but it can be important in the serial follow-up of more
+gross parenchymal changes combined with hemodynamic
+changes. In the early phase of congestive hepatopathy, the liver
+appears enlarged with slightly heterogeneous echogenicity, which
+becomes more pronounced over time. Additionally, US may
+identify hyperechoic nodules of variable sizes. Some nodules can
+also be hypoechoic, more dif ﬁcult to visualize in heterogeneous
+liver tissue, and better visualized with cross-sectional imaging
+(84–86).
+Spectral and color Doppler examinations are important for
+evaluating the ﬂow patterns of hepatic vessels ( 63). Assessment
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 07 frontiersin.org
+[[p8]]
+of portal venous mean ﬂow velocity has been proposed as an
+indicator of PHTN in Fontan physiology ( 87).
+Contrast-enhanced ultrasound (CEUS) using the intravenous
+injection of microbubbles is used to characterize the benign or
+malignant contrast enhancement pattern of a nodule ( 88). The
+US contrast agent SonoVue ® (sulfur hexa ﬂuoride; Bracco, Milan,
+Italy) is used off-label in Europe for intravenous applications in
+children younger than 18 years of age. The experience of using
+CEUS for patients with a Fontan circulation is low because they
+often have collateral circulation with right-to-left shunts, which is
+considered a contraindication to CEUS in Europe ( 89) but not in
+the United States ( 90, 91).
+6.3.2. Computed tomography and magnetic
+resonance imaging
+Cross-sectional techniques, such as CT and especially MRI, can
+provide more detailed and accurate complementary information on
+the liver parenchyma and all abdominal organs. Using intravenous
+contrast agents, liver vascularization in different phases and
+nodular enhancement patterns can be well visualized. However,
+these techniques are expensive and have different strengths and
+weaknesses. CT is faster and more accessible than MRI; however,
+it unfortunately involves ionizing radiation. Serial CT
+examinations should be avoided in children and young adults
+because they are more sensitive to radiation. This is particularly
+important in patients with congenital heart disease, who have a
+higher risk of developing cancer ( 92). Hepatic MRI is preferable;
+however, MRI is more expensive and requires a longer
+examination time. Furthermore, MRI may not be possible owing
+to incompatible cardiac devices; therefore, in these cases, CT of
+the liver is recommended.
+The preference for MRI over CT in the imaging of liver disease
+is increasing because of advances in tissue characterization, the use
+of hepatobiliary contrast agents, blood ﬂow quantiﬁcation, and MR
+elastography (MRE) ( 93). Severe ﬁbrosis is observed with CT and
+MRI as surface nodularity, blunt liver margins, a smaller or
+atrophic right lobe, and hypertrophy of the caudate and left lobe
+(Figures 4 –6). Extrahepatic manifestations such as ascites,
+gastroesophageal varices, and splenomegaly may also be present
+(94, 95). A standard MR protocol for the liver includes T1- and
+T2-weighted sequences, gradient echo sequences in and out of
+phase, and diffusion-weighted imaging. Additionally, the liver ’s
+vascular phases can be studied with dynamic gadolinium
+contrast-enhanced sequences (gadoteric acid) or by using a
+gadolinium-based hepatocyte-speci ﬁc contrast agent (gadoxetic
+acid) ( 63). Gadoxetic acid is partly excreted by the liver and
+complements enhancement information on the late hepatobiliary
+phase. The T2-weighted images frequently exhibit a diffusely
+increased liver signal intensity that might re ﬂect the degree of
+congestion and patchy patterns on diffusion-weighted imaging
+(Figure 6 )( 43, 63, 96). For the Fontan circulation, the vascular
+contrast enhancement pattern on CT and MRI of the liver
+demonstrates a distinct peripheral, reticular, and patchy
+enhancement pattern during the late arterial and portal venous
+phases, which equilibrates with the background signal of the liver
+during the delayed phase ( 97). This con ﬁguration is probably due
+to a delayed wash-in of the contrast material into the congested
+liver ( Figures 4 and 5). Heterogeneous general hypo-
+enhancement in the hepatobiliary phase with MRI may re ﬂect
+decreased hepatic function ( Figure 7 )( 98).
+In conclusion, conventional morphological imaging features
+of US, CT, and MRI have proven to be useful in
+characterizing liver ﬁbrosis, but these modalities cannot
+provide suf ﬁcient information regarding the development of
+early-stage
+ﬁbrosis as reliably as tissue analysis ( 46, 94).
+Imaging ﬁndings are commonly not observed until the degree
+of ﬁbrosis is moderate to severe due to the mixed and
+competing effects of hepatic congestion (swelling) and ﬁbrosis
+(shrinking) ( 63, 98, 99).
+FIGURE 5
+A 17-year-old boy with hypoplastic left heart complex operated with a
+Fontan circulation. Abdominal MRI, a coronal T2-weighted image,
+reveals the typical heterogenous distribution of the liver disease with
+irregular signal, perisinusoidal edema, in the right liver lobe with a
+more homogeneous signal in the left lobe.
+FIGURE 4
+Hypoplastic left heart syndrome with Fontan circulation in a 4-year-old
+girl with failing Fontan. Abdominal CT with i.v. contrast, portal venous
+phase, in an axial plane reveals hepatomegaly with round hepatic
+borders and perisinusoidal edema. A biopsy performed
+pretransplantation, revealed ﬁbrosis grade 3 – 4. Note the small spleen
+due to previous infarction.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 08 frontiersin.org
+[[p9]]
+6.3.3. Lymphography
+MR lymphography of the thorax and abdomen is an important
+part of the total imaging and hemodynamic cardiac workup and
+could be important in the diagnosis and staging of FALD,
+although its current role for this indication requires further
+evaluation. MRI of the lymphatic system is based on either 3D
+heavily T2-weighted sequences without contrast enhancement or
+dynamic contrast-enhanced MR lymphography, which can
+identify patterns of lymphatic vascular architecture ( Figures 8 , 9)
+(100–102). In addition, the use of conventional lymphatic
+angiography or intrahepatic MR lymphography in several studies
+has been reported ( 103, 104). With MRI, lymphatic congestion in
+FIGURE 6
+A 17-year-old boy with a hypoplastic left heart complex and Fontan circulation (same patient as in Figure 5). Clinical workup revealed a slightly increased
+GGT and a newly developed reduced exercise capacity. Ultrasound reveals severe heterogeneous echogenicity (upper left) and increased values of
+elasticity of 25 kPa (upper right). Abdominal MR T2-weighted coronal image (middle right), with increased size right liver lobe. The liver length is
+20 cm and there is a splenomegaly measuring 17 cm in length. Corresponding axial T2-weighted image reveals the reticular peripheral pattern
+(middle left). Heterogenous diffusion (lower right). MR elastography in an axial plane, measuring increased values of 5.1 KPa (lower left). GGT, gam ma-
+glutamyl transferase.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 09 frontiersin.org
+[[p10]]
+the liver and mesentery might be displayed as a perivenous
+increased signal and dilation of the cisterna chyli continuing with
+the thoracic duct. Furthermore, dynamic contrast-enhanced
+imaging can reveal leakage sites responsible for PLE ( 101, 105).
+6.3.4. Quantitative imaging techniques
+Supplementary imaging techniques enabling the quanti ﬁcation
+of ﬁbrosis, edema, in ﬂammation, and fat content in the liver are
+desirable and under development as current research topics.
+Elastography displays the elastic restoring forces in the liver
+tissue by shear wave deformation and can be performed using
+US or MRI ( 105).
+US elastography is commonly used to stage hepatic ﬁbrosis
+and cirrhosis in noncongestive chronic liver disease ( 106–108).
+However, the accurate use of elastography in hepatic
+congestion is not clear, as congestion may confound liver
+stiffness measurements. There is increasing experience with the
+serial follow-up of elastography for patients with FALD,
+especially in adults. Typically, these patients have increased
+stiffness due to different proportions of congestion and ﬁbrosis
+already reported in the postoperative period after TCPC
+(Figure 6 ). High elastography values are often obtained within
+the range found for advanced cirrhosis in adult chronic liver
+disease ( 109, 110); however, there is no clear correlation with
+ﬁbrosis based on the histology of adult and pediatric patients
+(46, 62, 111–113).
+MRE uses shear wave deformation technology as in US. There
+is still little evidence of the correlation between MRE and ﬁbrosis
+staging in FALD; however, a small study with adult patients
+revealed a strong correlation between liver stiffness and histology
+and time since the Fontan surgery ( 61). Additionally, in a recent
+small study, MRE compared with transjugular liver biopsy in 49
+patients reported a moderate correlation with histologic ﬁbrosis
+grade ( 80). Finally, the presence of nodules in the Fontan liver
+has been associated with increased US or MRI stiffness and vice
+versa ( 84, 85, 114).
+Along with new measures in US elastography, shear wave
+dispersion has been reported to be related to tissue viscosity and
+thus seems to re ﬂect the components of in ﬂammation, edema,
+and necrosis ( 115–118). In addition, the US attenuation imaging
+coefﬁcient is an additional tool that enables the surrogate
+estimation of fat content in the liver ( 108, 119).
+In MRI, MR fat fraction and relaxometry techniques have been
+reported to have potential value in the diagnosis of FALD related to
+Fontan pressures and PHTN ( 120–123) but are still under research.
+There is a complex relationship between liver stiffness, grade of
+ﬁbrosis, Fontan pressure, and Fontan failure, as illustrated by the
+above studies. Different techniques have several important
+limitations that may in ﬂuence disease interpretation. US
+elastography will only display a small region of the right liver
+lobe, which might not be representative of a patchy disease. MR
+elastography using the 2D technique and 2D MR relaxometry
+will display a slice of the liver in an axial plane and will
+FIGURE 7
+Illustration of liver nodules in a 20-year-old man with pulmonary atresia and a Fontan circulation. Increased hepatic serological marker, and alkal ine
+phosphatase was observed. Multiphase contrast-enhanced CT revealed a nodule of 2.5 cm in diameter in segment eight with arterial enhancement
+(upper left) and apparent washout on portal venous phase (lower left). Follow-up MRI with hepatocyte-speci ﬁc contrast displays low signal on T2-
+weighted (upper middle) and isointense signal on T1 (lower middle). Arterial enhancement (upper right) and slightly heterogeneous hyper-
+enhancement on late hepatocyte phase (lower right). Note the heterogenous congestion and multiple small surrounding nodules in this late phase.
+These are both benign and malign features. Biopsy in this case was considered dif ﬁcult due to the high position of the nodule under the diaphragm.
+Close monitoring was recommended. CT, computed tomography; MRI, magnetic resonance imaging.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 10 frontiersin.org
+[[p11]]
+subsequently display more tissue properties, but not the whole
+liver. Nevertheless, it is possible that liver stiffness measurements
+performed under standardized conditions over time in individual
+patients may be valuable biomarkers of FALD development, and
+unexpected high values from US or MR elastography might
+indicate Fontan conduit failure ( 46, 109, 124). Conversely, a
+reduction in stiffness could indicate an improvement in Fontan
+circulation physiology or reduced congestion.
+6.3.5. Evaluation of liver nodules in FALD
+Nodules of different sizes are frequent in FALD. They
+range from hyperplastic nodules to FNH, FNH-like lesions,
+regenerative nodules, malignant lesions including
+hepatocellular neoplasms (adenoma and carcinoma), and
+cholangiocarcinoma.
+Suspicious imaging ﬁndings of nodules that require further
+investigation with biopsy consist of (1) nodules >10 mm in
+diameter with rapid growth, (2) contrast enhancement pattern of
+early or late washout from CT or MRI, alternatively, hypo-or
+heterogeneous enhancement of the nodule on MRI hepatobiliary
+phase, and (3) An atypical signal on MRI basic sequences
+(Table 2 )( Figures 7 , 10).
+With US, CT, and MRI, small nodular lesions are frequently
+observed predominantly in the right liver lobe ( Figure 11)a n di n
+arterial contrast phase ( 99, 125). These hypervascular lesions are
+benign nodules and the most frequent ﬁnding in FALD livers, as
+well as in the pediatric population ( 74, 83, 86). Larger nodules
+may show overlapping features between large regenerative nodules
+and FNH, and are called FNH-like nodules. Larger lesions, which
+are >10 mm in diameter, may have different presentations owing
+to background congestion of the liver tissue. Diffusion-weighted
+imaging may show a diverse presentation, sometimes with
+restricted diffusion, for nodules with otherwise benign features
+(Table 2 )( 43, 96). These features may be in accordance with the
+Liver Imaging Reporting and Data System (LIRADS), which is
+frequently used to characterize and diagnose malignant liver
+lesions such as HCC ( 91). However, for the diagnosis of a
+malignant lesion in the setting of congestive hepatopathy, the
+LIRADS criteria are not reliable due to an increased risk of falsely
+diagnosing a malignancy ( 63, 91, 126–129).
+FIGURE 8
+MR lymphography of the thorax in a coronal plane with maximum intensity projection, of the same patient as in Figure 6, reveals a tortuous cisterna chyli
+and thoracic duct (arrows) and lymphedema in the perihilar region as well as small amounts of pleural effusion over the apices of the lungs (arrows). MR ,
+magnetic resonance.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 11 frontiersin.org
+[[p12]]
+Nevertheless, the LIRADS is still considered a useful tool for
+monitoring suspicion of HCC and guiding further evaluation, but
+it should be interpreted with caution ( 91, 126, 130).
+Consequently, all nodules with atypical imaging ﬁndings that
+suggest malignancy should undergo biopsy and be evaluated in
+referral centers ( 46, 57, 59, 63, 70).
+6.3.6. Surveillance of nodules
+Focal liver lesions >10 mm in diameter, irregular contours,
+capsules, or rapid growth (50% in less than 6 months or 100% in
+more than 6 months) should be evaluated with multiphase
+contrast-enhanced CT, or preferably MRI with a hepatocyte-
+speciﬁc contrast agent, for further and better characterization to
+assess for HCC and cholangiocarcinoma ( Figures 7 , 10, 12)( 11,
+56, 85, 131). Lesions presenting with a typical FNH-like
+appearance with homogeneous enhancement need to be followed
+up with CT or MRI within 6 months.
+Even though a workup is in favor of an atypical but benign
+lesion, a follow-up scheme still needs to be followed in all cases
+to monitor for possible malignant transformation in the future
+(63, 91, 126).
+7. Management — general
+considerations
+The following recommendations are mainly for advanced stage
+disease:
+Pharmacological treatment: Medication can be reviewed and
+adjusted to ameliorate the deleterious effects of the Fontan
+circulation. However, well-documented pharmacological
+treatment options are limited to agents that decrease pulmonary
+vascular resistance, such as sildena ﬁl and bosentan ( 12, 132).
+Optimization of the Fontan circuit: Determining any possible
+surgical or interventional method to improve hemodynamics in
+the Fontan circulation is important ( 27, 133). This includes
+interventions such as maintaining or enlarging fenestration, the
+stenting of pulmonary vascular obstructions, or other measures
+to ensure that there is no stenosis in the Fontan circuit and
+manage venovenous collaterals. There are no clear
+recommendations on when and how to intervene, and decisions
+are made on an individual case-by-case basis. In this regard,
+preprocedural imaging can provide information to select patients
+in need of treatment and further hemodynamic investigation,
+identifying stenosis in the anastomosis or development of
+collateral circulation. In particular, multimodal longitudinal
+follow-up for an individual patient is necessary to detect sudden
+hemodynamic and morphological changes in the Fontan circuit.
+TABLE 2 Typical characteristics of benign and malign imaging features of
+nodules.
+FALD nodules —
+appearance on
+CT/MR
+Benign features Malign features
+Size/ growth >10 mm stable size after
+3–6 months
+>10 mm, rapid growth
+(50% in <6 months or
+100% in >6 months)
+Form/contour Well de ﬁned, regular,
+round
+Ill de ﬁned, irregular shape/
+contour
+MR T1 signal Low signal High signal
+MR T2 signal High signal Low or isointense,
+heterogeneous
+MR diffusion-weighted
+signal
+Unrestricted Restricted
+MR/CT CE arterial
+phase
+Hyper-enhancement Hyper-enhancement
+MR/CT CE portal
+venous phase
+Hyper-enhancement or
+isointense to surrounding
+liver tissue
+Hypo-enhancement to
+surrounding liver tissue
+a
+MR hepatobiliary phase NA Hypo-enhancement,
+irregular enhancement
+CE, Contrast enhancement; CT, computed tomography; MR, magnetic resonance.
+aCongestion with increased background signal in the liver can make nodules
+appear falsely hypo-enhancing in the portal venous phase.
+FIGURE 9
+Illustration of the total cavopulmonary circulation including the thoracic
+duct (in green). Illustration created by Michael Bjaanes in collaboration
+with the Department of Pediatric Cardiology and the Department of
+Adult Congenital Heart Disease at Oslo University Hospital.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 12 frontiersin.org
+[[p13]]
+Improvement of speci ﬁc complications like PLE and PHTN:
+PLE is diagnosed by elevated fecal α1-antitrypsin in
+combination with decreased serum albumin levels. Identifying
+lymphatic abnormalities and sites of intrahepatic obstructions
+and leakage can be importa nt in evaluating possible
+interventional treatment strategies ( 100, 101). For speci ﬁc
+cases, a few small studies from tertiary and speci ﬁc centers
+have investigated dynamic intrahepatic MR lymphography to
+guide therapeutic and new catheter-based interventional
+treatments ( 103, 104).
+Clinical signs of PHTN, such as ascites, variceal bleeding,
+and hepatic encephalopathy, occur in a more advanced stage,
+are associated with adverse outcomes in the Fontan circulation,
+and have implications for the decision to perform
+transplantation ( 49). The hepatic vein pressure gradient
+(HPVG) can be used to quantify PHTN in noncongestive
+cirrhosis and risk strati ﬁcation of its complications. However,
+some studies have shown a poor correlation between the
+HPVG and FALD stage ( 76, 134). Evaluating serum albumin
+in ascites to measure gradient ascite total protein and serum
+BNP may help differentiate the origin of ascites as cardiac or
+hepatic ( 135). Nevertheless, cardiac failure, advanced liver
+disease, PHTN, and PLE may often overlap in patients with a
+Fontan circulation, which is important to consider when
+determining treatment.
+7.1. Other liver-related management
+strategies
+Lifestyle: Patients with a Fontan circulation should be
+speciﬁcally counseled regarding lifestyle measures to promote
+liver health, prevention, and the treatment (early or otherwise) of
+obesity. Increased weight has been associated with Fontan failure
+in adults ( 136). Such patients should be advised to engage in
+regular physical activity and a healthy diet, while avoiding
+alcohol, other hepatotoxic substances, and drugs.
+Infections: Screening for hepatitis B and C is advised. To
+prevent an infection from the hepatitis A or B virus, both
+vaccines are generally recommended. In patients operated on
+before hepatitis C screening, which started in 1992, the
+prevalence of hepatitis C had a ﬁvefold increase compared to the
+healthy population ( 137). Coincident diseases, such as non-
+alcoholic steatohepatitis, alcohol-induced liver disease, and other
+autoimmune liver diseases, can accelerate the development of
+FALD and should be identi ﬁed and treated.
+Antithrombotic therapy: Thromboembolic events are reported
+with an estimated prevalence of 17% –33% in patients with
+single-ventricle physiology and are associated with increased
+morbidity and mortality ( 138, 139). The risk for developing
+thrombosis is highest shortly after the Fontan circulation
+completed and at each previous stage of operation. Venous stasis
+FIGURE 10
+An 18-year-old boy born with double inlet left ventricle and pulmonary stenosis with a Fontan circulation. Satisfactory ventricular function was ob served.
+Abdominal MRI was performed as a regular follow-up before transition to adult care. A 14 mm nodule not visible on ultrasound was found in the lateral
+part of the right liver lobe on MRI. Dynamic contrast-enhanced MRI with hepatocyte speci ﬁc contrast agent was performed, revealing hyper-
+enhancement in arterial phase (upper left) and in late portal venous phase (upper right) as well as slightly irregular in hepatocyte phase (after 20 mi n)
+(lower right). The nodule is dif ﬁcult to see clearly on the diffusion-weighted image (lower left). The nodule was interpreted with features of a
+probably benign nodule, and close follow-up with contrast-enhanced MRI was recommended. MRI, magnetic resonance imaging.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 13 frontiersin.org
+[[p14]]
+is the most important predisposing factor, together with chronic
+low oxygen saturation and increased levels of hemoglobin and
+blood viscosity. Additionally, intrinsic factors contribute to
+ﬁbrinolysis. Many authors support that anticoagulation is
+indicated in the presence or history of atrial thrombi, atrial
+arrhythmias, previous thromboembolic events, or a patent
+fenestration ( 140–142). On the other hand, there is still no
+consensus on the use of thromboprophylaxis for FALD and
+limited guidelines exist for pediatric patients ( 140, 142).
+8. Management with heart or
+combined heart –liver transplantation
+Studies have revealed a correlation between a high MELD XI
+score and decreased survival after transplantation ( 143, 144).
+Advanced liver cirrhosis and malignant transformation might
+prohibit heart transplantation or require combined liver and
+heart transplantation. The indication and patient selection for a
+combined liver –heart transplant remains a challenge in the
+absence of guidelines, with experience only from small outcome
+studies ( 83). The Organ Procurement and Transplantation
+Network database collects information on the outcomes of
+Fontan physiology and FALD from small single centers where
+differences or a lack of diagnostic codes are frequent, which
+make clear conclusions dif ﬁcult ( 145). The indications for
+transplantation, therefore, differ between institutions, and for
+current practice regarding a cardiac vs. combined heart –liver
+transplant, the decision is case-speci ﬁc. Liver transplantation
+alone is not recommended because the cause of liver failure and
+high CVP will remain and be deleterious for the new liver ( 65).
+A few studies have shown no differences in survival between
+cirrhotic and non-cirrhotic patients with Fontan circulation after
+heart transplantation ( 146–148). This indicates that severe
+ﬁbrosis or cirrhosis, while compensated, is not a contraindication
+for isolated heart transplantation. Finally, the ability to reverse
+structural liver changes due to FALD after a heart transplant and
+conversion to biventricular circulation is not known ( 55), but in
+one study, regenerative capacity was reported to be higher than
+expected compared to those of other reversible liver diseases ( 133).
+For adult patients with Fontan physiology, the number of heart
+and liver transplantations in the United States is steadily increasing
+(149). Many centers proceed with combined heart and liver
+transplantation because of the virtually universal presence of
+advanced liver ﬁbrosis. Among pediatric patients, ventricular
+systolic dysfunction is the most common indication for cardiac
+transplantation; it is reported in 40% –60% of such patients ( 150–
+152). A few studies have revealed that in children, cardiac
+transplantation alone may be considered when indicated within a
+few years of the Fontan surgery ( 148, 153, 154). Initially, there
+were concerns of inferior survival in children transplanted for
+Fontan physiology compared to those transplanted for a non-
+CHD diagnosis ( 155). However, heart transplant outcomes for
+children in the current era have improved signi ﬁcantly, with
+better results than those of adult patients with a Fontan
+circulation. A pediatric heart transplant study described, in 2006,
+a 1-year survival rate of 76% after transplantation in children
+with a Fontan circulation, but a survival rate signi ﬁcantly lower
+than 91% in control participants without CHD ( 156, 157). In
+2017, new data from an updated version of the above study
+reported a 1-year survival rate of 89% that was no longer
+distinguishable from the control group ’s survival rate, which was
+also con ﬁrmed in a more recent study ( 158, 159).
+Combined heart –liver transplantation in pediatric patients is
+rare and data on outcomes are sparse. A single-center small
+series revealed limited but good early post-transplant outcomes
+in mostly older patients. In one study of nine patients with a
+median age of 20.7 years (range, 14.2 –41.3 years), all with
+radiologic and pre-transplant evidence of cirrhosis, the 1-year
+survival rate without rejection was revealed to be 100% ( 160).
+Similar 1-year survival rates have been observed in other studies
+(161, 162). Recent studies indicate a decreased incidence of
+FIGURE 11
+Typical hyperechogenic vascular nodules 3 –5 mm (arrows) on ultrasound (left) and corresponding nodules with high signal on axial T2-weighted MRI
+(right). Note the generally increased T2 signal in the parenchyma as an expression of congestion (right). MRI, magnetic resonance imaging
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 14 frontiersin.org
+[[p15]]
+rejection after a combined heart –liver transplant, leading to the
+hypothesis that multiorgan transplantation induces
+immunotolerance and protection against rejection ( 162, 163);
+however, this needs to be further validated.
+On the other hand, the development or regression of liver
+disease after heart transplantation in children has not been
+well studied. A few studies have used imaging in a follow-up
+of 1 year or longer after cardiac transplantation. In a
+retrospective study of 41 patients (median age, 12 years) with
+ﬁbrosis, cirrhosis on pre-transplant imaging (29.2%) displayed
+less prevalence and regression in 19 patients ’ imaging ﬁndings.
+There was no development of HCC or liver failure during
+short-term follow-up ( 164). However, continued post-
+transplant monitoring might be of importance, given the
+persistence of imaging ﬁndings suggestive of FALD, to some
+degree ( 164, 165).
+9. Surveillance of FALD
+The optimal surveillance strategy for FALD is still debated,
+especially in pediatric patients. Evidence-based studies are
+affected by short observational periods, and until now, the
+proposed published guidelines were mainly based on experience
+within adult age groups. Post-Fontan time is the most important
+predictor of advanced FALD. The risk of advanced disease is low
+up to 5 years after Fontan completion but increases signi ﬁcantly
+after 15 years ( 18, 40, 41, 54, 58). In a recent systematic review
+and retrospective study, HCC was unlikely within the ﬁrst 10
+years after the Fontan surgery (HCC was only diagnosed once
+before this time point), with an exponential risk markedly
+increasing in the third decade ( 59, 166). Hence, there is a general
+consensus that systematic monitoring for FALD and HCC is
+deﬁnitely indicated at 10 years post-Fontan and earlier if there
+are signs of Fontan failure or decreased liver function ( 11, 12, 56,
+167). These investigations should include clinical examinations,
+blood tests, and imaging with US, CT, or MRI.
+However, there is increasing evidence that FALD might
+develop earlier, within the ﬁrst 5 years postoperatively, and
+that liver disease may even predate the Fontan procedure.
+Severe liver ﬁbrosis in patients as young as 10 years of age has
+been described. The aim of surveillance is to diagnose FALD at
+as u f ﬁciently early stage to consider interventions for
+optimizing the Fontan circulation in due time to prevent or
+delay the development of advanced ﬁbrosis ( 167). There is
+growing evidence that an initial screening at baseline (before
+the Fontan creation) followed by two to three annual FALD
+screenings for children and adolescents, including clinical
+examination, biochemical evaluation, and liver Doppler US
+(with or without a liver stiffness assessment), might be
+favorable and allow early FALD detection. This scheme will
+provide the possibility for timely intervention in adolescents
+and young adults with failing Fontan physiology and might
+contribute to determining the optimal time point for
+transplantation. This is in line with the international
+guidelines from the American Heart Association of 2019 and
+the recommendations of the European Society of Pediatric
+Radiology ( Figure 12 )( 11, 12, 27, 56, 167, 168).
+FIGURE 12
+Flow chart of the proposed follow-up from the European Society of Pediatric Radiology, Abdominal Task Force. Reprint with permission from Perruca
+et al. Surveillance of Fontan associated liver disease: current standards and a proposal from the ESPR Abdominal Task Force. Pediatr Radiol . (2021)
+51:2598–2606.
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 15 frontiersin.org
+[[p16]]
+As already mentioned, the role of liver biopsy in the follow-up
+of FALD also lacks consensus.
+In screening young patients for liver disease and cancer
+development, psychological factors should also be
+considered. Lifelong surveillance for cancer from childhood
+may have important implications on the quality of life for
+patients and caregiver anxiety ( 169). The American Heart
+Association also recommends that such patients should be
+monitored in centers specialized in the Fontan circulation
+and with a multidisciplinary approach to diagnose and
+observe the different possi ble organ complications and
+development of FALD ( 12). This includes screening for
+malignancy, where imaging plays an important role,
+together with clinical scoring systems, biochemical workups,
+and biopsies.
+10. Summary
+FALD is a global liver disease that affects virtually all patients
+with a Fontan circulation, has a heterogeneous time course, and
+often commences in childhood. There are still many questions
+regarding the exact pathophysiology and development of FALD,
+and why certain patients develop malignancy. Lifelong follow-
+up and surveillance are mandatory to ensure the optimal timing
+for treatment and eventually transplantation. In this regard,
+monitoring with imaging plays an important role since clinical
+signs are indolent and serological markers are only slightly
+affected until the advanced stage of liver disease. Nevertheless,
+determining optimal surveillance protocols requires further
+investigation in longitudinal multicenter research studies.
+Importantly, Fontan physiology is a multiorgan disease where
+surveillance requires the involvement of a multidisciplinary
+team in cardiology, hepatology, anesthesiology, pathology, and
+radiology, in which all members are specialized in Fontan
+physiology and its complications.
+Author contributions
+CdL contributed to the conceptualization and drafted the
+manuscript with review and editing. HH contributed to
+conceptualization writing, critical review, and editing. TM
+contributed to critical review and editing. All authors contributed
+to the article and approved the submitted version.
+Funding
+This study was supported by University of Gothenburg, ALF
+Västra Götaland (Grant no. 965384).
+Acknowledgment
+We would like to thank Editage (www.editage.com) for English
+language editing.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+References
+PM?j?oK?e?rlK?l?id?iMK?s?ijK?v?doK?k?idK??M
+Long-term survival, modes of death, and predictors of mortality in patients
+with Fontan surgery. Circulation. (2008) 117(1):85 –92. doi: 10.1161/
+CIRCULATIONAHA.107.738559
+2. Downing TE, Allen KY, Glatz AC, Rogers LS, Ravishankar C, Rychik J, et al. Long-
+term survival after the Fontan operation: twenty years of experience at a single center.
+J Thorac Cardiovasc Surg . (2017) 154(1):243 –53.e2. doi: 10.1016/j.jtcvs.2017.01.056
+3. Schilling C, Dalziel K, Nunn R, Du Plessis K, Shi WY, Celermajer D, et al.
+The Fontan epidemic: population projections from the Australia and New
+Zealand Fontan Registry. Int J Cardiol . (2016) 219:14 –9. doi: 10.1016/j.ijcard.
+2016.05.035
+4. Kverneland LS, Kramer P, Ovroutski S. Five decades of the Fontan operation: a
+systematic review of international reports on outcomes after univentricular
+palliation. Congenit Heart Dis . (2018) 13(2):181 –93. doi: 10.1111/chd.12570
+5. Pundi KN, Johnson JN, Dearani JA, Pundi KN, Li Z, Hinck CA, et al. 40-year
+follow-up after the Fontan operation: long-term outcomes of 1,052 patients. JA m
+Coll Cardiol . (2015) 66(15):1700 –10. doi: 10.1016/j.jacc.2015.07.065
+6. Plappert L, Edwards S, Senatore A, De Martini A. The epidemiology of persons
+living with Fontan in 2020 and projections for 2030: development of an
+epidemiology model providing multinational estimates. Adv Ther . (2022) 39
+(2):1004–15. doi: 10.1007/s12325-021-02002-3
+7. Fontan F, Baudet E. Surgical repair of tricuspid atresia. Thorax. (1971) 26
+(3):240–8. doi: 10.1136/thx.26.3.240
+8. Kreutzer G, Galindez E, Bono H, De Palma C, Laura JP. An operation for the
+correction of tricuspid atresia. J Thorac Cardiovasc Surg . (1973) 66(4):613 –21.
+doi: 10.1016/S0022-5223(19)40598-9
+9. Johnson JA, Cetta F, Graham RP, Smyrk TC, Driscoll DJ, Phillips SD, et al.
+Identifying predictors of hepatic disease in patients after the Fontan operation: a
+postmortem analysis. J Thorac Cardiovasc Surg . (2013) 146(1):140 –5. doi: 10.1016/j.
+jtcvs.2012.09.005
+10. Stanton RE, Lurie PR, Lindesmith GG, Meyer BW. The Fontan procedure for
+tricuspid atresia. Circulation. (1981) 64(2 Pt 2):Ii140 –6. PMID: 7249315.
+11. Daniels CJ, Bradley EA, Landzberg MJ, Aboulhosn J, Beekman RH III,
+Book W, et al. Fontan-associated liver disease: proceedings from the
+American College of Cardiology Stakeh olders Meeting, October 1 to 2, 2015,
+Washington DC. J Am Coll Cardiol . (2017) 70(25):3173 –9 4 .d o i :1 0 . 1 0 1 6 / j .
+jacc.2017.10.045
+12. Rychik J, Atz AM, Celermajer DS, Deal BJ, Gatzoulis MA, Gewillig MH, et al.
+Evaluation and management of the child and adult with Fontan circulation: a
+scientiﬁc statement from the American heart association. Circulation. (2019) 140:
+e234–84. doi: 10.1161/CIR.0000000000000696
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 16 frontiersin.org
+[[p17]]
+13. Hilscher MB, Wells ML, Venkatesh SK, Cetta F, Kamath PS. Fontan-associated
+liver disease. Hepatology. (2022) 75(5):1300 –21. doi: 10.1002/hep.32406
+14. Schwartz MC, Sullivan L, Cohen MS, Russo P, John AS, Guo R, et al. Hepatic
+pathology may develop before the Fontan operation in children with functional
+single ventricle: an autopsy study. J Thorac Cardiovasc Surg . (2012) 143(4):904 –9.
+doi: 10.1016/j.jtcvs.2011.08.038
+15. Egbe AC, Poterucha JT, Warnes CA, Connolly HM, Baskar S, Ginde S, et al.
+Hepatocellular carcinoma after Fontan operation. Circulation. (2018) 138(7):746 –8.
+doi: 10.1161/CIRCULATIONAHA.117.032717
+16. Kuwabara M, Niwa K, Toyoda T, Shirai T, Tateno S, Ohuchi H, et al. Liver
+cirrhosis and/or hepatocellular carcinoma occurring late after the Fontan procedure
+— a nationwide survey in Japan. Circ J . (2018) 82(4):1155 –60. doi: 10.1253/circj.CJ-
+17-1053
+17. Nandwana SB, Olaiya B, Cox K, Sahu A, Mittal P. Abdominal imaging
+surveillance in adult patients after Fontan procedure: risk of chronic liver disease
+and hepatocellular carcinoma. Curr Probl Diagn Radiol . (2017) 47:19 –22. doi: 10.
+1067/j.cpradiol.2017.04.002
+18. Stuart AG, Wren C, Sharples PM, Hunter S, Hey EN. Hypoplastic left heart
+syndrome: more potential transplant recipients than suitable donors. Lancet. (1991)
+337(8747):957–9. doi: 10.1016/0140-6736(91)91581-E
+19. Samánek M, Slavík Z, Zborilová B, Hrobonová V, Vorísková M, Skovránek J.
+Prevalence, treatment, and outcome of heart disease in live-born children: a
+prospective analysis of 91,823 live-born children. Pediatr Cardiol . (1989) 10
+(4):205–11. doi: 10.1007/BF02083294
+20. Goldberg DJ, Surrey LF, Glatz AC, Dodds K, O ’Byrne ML, Lin HC, et al. Hepatic
+ﬁbrosis is universal following Fontan operation, and severity is associated with time
+from surgery: a liver biopsy and hemodynamic study. J Am Heart Assoc . (2017) 6
+(5):e004809. doi: 10.1161/JAHA.116.004809
+21. Diller GP, Giardini A, Dimopoulos K, Gargiulo G, Muller J, Derrick G, et al.
+Predictors of morbidity and mortality in contemporary Fontan patients: results
+from a multicenter study including cardiopulmonary exercise testing in 321
+patients. Eur Heart J . (2010) 31(24):3073 –83. doi: 10.1093/eurheartj/ehq356
+22. Broda CR, Downing TE, John AS. Diagnosis and management of the adult
+patient with a failing Fontan circulation. Heart Fail Rev . (2020) 25(4):633 –46.
+doi: 10.1007/s10741-020-09932-0
+23. Driesen BW, Voskuil M, Grotenhuis HB. Current treatment options for the
+failing Fontan circulation. Curr Cardiol Rev . (2022) 18(4):e060122200067. doi: 10.
+2174/1573403X18666220106114518
+24. Goldberg DJ, Shaddy RE, Ravishankar C, Rychik J. The failing Fontan: etiology,
+diagnosis and management. Expert Rev Cardiovasc Ther . (2011) 9(6):785 –93. doi: 10.
+1586/erc.11.75
+25. Gewillig M. The Fontan circulation. Heart. (2005) 91(6):839 –46. doi: 10.1136/
+hrt.2004.051789
+26. Lautt WW. Mechanism and role of intrinsic regulation of hepatic arterial blood
+ﬂow: hepatic arterial buffer response. Am J Physiol . (1985) 249(5 Pt 1):G549 –56.
+doi: 10.1152/ajpgi.1985.249.5.G549
+27. Gordon-Walker TT, Bove K, Veldtman G. Fontan-associated liver disease: a
+review. J Cardiol
+. (2019) 74(3):223 –32. doi: 10.1016/j.jjcc.2019.02.016
+28. Durongpisitkul K, Porter CJ, Cetta F, Offord KP, Slezak JM, Puga FJ, et al.
+Predictors of early- and late-onset supraventricular tachyarrhythmias after Fontan
+operation. Circulation. (1998) 98(11):1099 –107. doi: 10.1161/01.CIR.98.11.1099
+29. Poterucha JT, Johnson JN, Taggart NW, Cabalka AK, Hagler DJ, Driscoll DJ,
+et al. Embolization of veno-venous collaterals after the Fontan operation is
+associated with decreased survival. Congenit Heart Dis . (2015) 10(5):E230 –6.
+doi: 10.1111/chd.12276
+30. Haggerty CM, Restrepo M, Tang E, de Zélicourt DA, Sundareswaran KS,
+Mirabella L, et al. Fontan hemodynamics from 100 patient-speci ﬁc cardiac magnetic
+resonance studies: a computational ﬂuid dynamics analysis. J Thorac Cardiovasc
+Surg. (2014) 148(4):1481 –9. doi: 10.1016/j.jtcvs.2013.11.060
+31. Tellez L, Rodriguez de Santiago E, Albillos A. Fontan-associated liver disease.
+Rev Esp Cardiol . (2018) 71(3):192 –202. doi: 10.1016/j.rec.2017.10.052
+32. Kendall TJ, Stedman B, Hacking N, Haw M, Vettukattill JJ, Salmon AP, et al.
+Hepatic ﬁbrosis and cirrhosis in the Fontan circulation: a detailed morphological
+study. J Clin Pathol . (2008) 61(4):504 –8. doi: 10.1136/jcp.2007.052365
+33. Simonetto DA, Yang HY, Yin M, de Assuncao TM, Kwon JH, Hilscher M, et al.
+Chronic passive venous congestion drives hepatic ﬁbrogenesis via sinusoidal thrombosis
+and mechanical forces. Hepatology. (2015) 61(2):648 –59. doi: 10.1002/hep.27387
+34. Hilscher MB, Kamath PS. The liver in circulatory disturbances. Clin Liver Dis .
+(2019) 23(2):209 –20. doi: 10.1016/j.cld.2018.12.004
+35. Rychik J, Goldmuntz E. Invited commentary: the hunt for mechanistic origins of
+liver ﬁbrosis in the Fontan circulation. World J Pediatr Congenit Heart Surg . (2021) 12
+(2):173–5. doi: 10.1177/2150135121989974
+36. Alsaied T, Moore RA, Lang SM, Truong V, Lubert AM, Veldtman GR, et al.
+Myocardial ﬁbrosis, diastolic dysfunction and elevated liver stiffness in the Fontan
+circulation. Open Heart . (2020) 7(2):e001434. doi: 10.1136/openhrt-2020-001434
+37. Malave HA, Taylor AA, Nattama J, Deswal A, Mann DL. Circulating levels of
+tumor necrosis factor correlate with indexes of depressed heart rate variability: a
+study in patients with mild-to-moderate heart failure. Chest. (2003) 123(3):716 –24.
+doi: 10.1378/chest.123.3.716
+38. Saraf A, De Staercke C, Everitt I, Haouzi A, Ko YA, Jennings S, et al. Biomarker
+proﬁle in stable Fontan patients. Int J Cardiol . (2020) 305:56 –62. doi: 10.1016/j.ijcard.
+2020.01.012
+39. Chung C, Iwakiri Y. The lymphatic vascular system in liver diseases: its role
+in ascites formation. Clin Mol Hepatol . (2013) 19(2):99 –104. doi: 10.3350/cmh.
+2013.19.2.99
+40. Rodriguez de Santiago E, Tellez L, Garrido-Lestache Rodriguez-Monte E,
+Garrido-Gomez E, Aguilera-Castro L, Alvarez-Fuente M, et al. Fontan protein-
+losing enteropathy is associated with advanced liver disease and a proin ﬂammatory
+intestinal and systemic state. Liver Int . (2020) 40:638 –45. doi: 10.1111/liv.14375
+41. Sandek A, Bauditz J, Swidsinski A, Buhner S, Weber-Eibel J, von Haehling S,
+et al. Altered intestinal function in patients with chronic heart failure. J Am Coll
+Cardiol. (2007) 50(16):1561 –9. doi: 10.1016/j.jacc.2007.07.016
+42. Nagatomo Y, Tang WH. Intersections between microbiome and heart failure:
+revisiting the gut hypothesis. J Card Fail . (2015) 21(12):973 –80. doi: 10.1016/j.
+cardfail.2015.09.017
+43. Thrane KJ, Müller LSO, Suther KR, Thomassen KS, Holmström H, Thaulow
+E, et al. Spectrum of Fontan-associated liver disease assessed by MRI and US in
+young adolescents. Abdom Radiol . (2021) 46(7):3205 –16. doi: 10.1007/s00261-
+021-02994-0
+44. Wells ML, Fenstad ER, Poterucha JT, Hough DM, Young PM, Araoz PA, et al.
+Imaging ﬁndings of congestive hepatopathy. Radiographics. (2016) 36(4):1024 –37.
+doi: 10.1148/rg.2016150207
+45. Rathgeber SL, Guttman OR, Lee AF, Voss C, Hemphill NM, Schreiber RA, et al.
+Fontan-associated liver disease: spectrum of disease in children and adolescents. JA m
+Heart Assoc . (2020) 9(1):e012529. doi: 10.1161/JAHA.119.012529
+46. Munsterman ID, Duijnhouwer AL, Kendall TJ, Bronkhorst CM, Ronot M, van
+Wettere M, et al. The clinical spectrum of Fontan-associated liver disease: results from
+a prospective multimodality screening cohort. Eur Heart J . (2019) 40(13):1057 –68.
+doi: 10.1093/eurheartj/ehy620
+47. Farias AQ, Silvestre OM, Garcia-Tsao G, da Costa Seguro LF, de Campos Mazo
+DF, Bacal F, et al. Serum B-type natriuretic peptide in the initial workup of patients
+with new onset ascites: a diagnostic accuracy study. Hepatology. (2014) 59
+(3):1043–51. doi: 10.1002/hep.26643
+48. Zafar F, Lubert AM, Trout AT, Katz DA, Palermo JJ, Opotowsky AR, et al.
+Abdominal CT and MRI ﬁndings of portal hypertension in children and adults
+with Fontan circulation. Radiology. (2022) 303(3):557 –65. doi: 10.1148/radiol.211037
+49. Elder RW, McCabe NM, Hebson C, Veledar E, Romero R, Ford RM, et al.
+Features of portal hypertension are associated with major adverse events in Fontan
+patients: the VAST study. Int J Cardiol . (2013) 168(4):3764 –9. doi: 10.1016/j.ijcard.
+2013.06.008
+50. Kiesewetter CH, Sheron N, Vettukattill JJ, Hacking N, Stedman B, Millward-
+Sadler H, et al. Hepatic changes in the failing Fontan circulation. Heart. (2007) 93
+(5):579–84. doi: 10.1136/hrt.2006.094516
+51. Agnoletti G, Ferraro G, Bordese R, Marini D, Gala S, Bergamasco L, et al. Fontan
+circulation causes early, severe liver damage. Should we offer patients a tailored
+strategy? Int J Cardiol . (2016) 209:60 –5. doi: 10.1016/j.ijcard.2016.02.041
+52. D ’Amico G, De Franchis R. Upper digestive bleeding in cirrhosis. Post-
+therapeutic outcome and prognostic indicators. Hepatology. (2003) 38(3):599 –612.
+doi: 10.1053/jhep.2003.50385
+53. Rychik J, Veldtman G, Rand E, Russo P, Rome JJ, Krok K, et al. The precarious
+state of the liver after a Fontan operation: summary of a multidisciplinary symposium.
+Pediatr Cardiol . (2012) 33(7):1001 –12. doi: 10.1007/s00246-012-0315-7
+54. Allen LA, Felker GM, Pocock S, McMurray JJ, Pfeffer MA, Swedberg K, et al.
+Liver function abnormalities and outcome in patients with chronic heart failure:
+data from the Candesartan in Heart Failure: Assessment of Reduction in Mortality
+and Morbidity (CHARM) program. Eur J Heart Fail
+. (2009) 11(2):170 –7. doi: 10.
+1093/eurjhf/hfn031
+55. Alvarez AM, Mukherjee D. Liver abnormalities in cardiac diseases and heart
+failure. Int J Angiol . (2011) 20(3):135 –42. doi: 10.1055/s-0031-1284434
+56. Hilscher MB, Johnson JN, Cetta F, Driscoll DJ, Poterucha JJ, Sanchez W, et al.
+Surveillance for liver complications after the Fontan procedure. Congenit Heart Dis .
+(2017) 12(2):124 –32. doi: 10.1111/chd.12446
+57. Possner M, Gordon-Walker T, Egbe AC, Poterucha JT, Warnes CA, Connolly
+HM, et al. Hepatocellular carcinoma and the Fontan circulation: clinical presentation
+and outcomes. Int J Cardiol . (2021) 322:142 –8. doi: 10.1016/j.ijcard.2020.08.057
+58. Mazzarelli C, Cannon MD, Hudson M, Heaton N, Sarker D, Kane P, et al.
+Hepatocellular carcinoma as a complication of vascular disease of the liver after
+Fontan procedure. Hepatology. (2019) 69(2):911 –3. doi: 10.1002/hep.30194
+59. Rodriguez De Santiago E, Téllez L, Guerrero A, Albillos A. Hepatocellular
+carcinoma after Fontan surgery: a systematic review. Hepatol Res . (2021) 51
+(1):116–34. doi: 10.1111/hepr.13582
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 17 frontiersin.org
+[[p18]]
+60. Alsaied T, Rathod RH, Aboulhosn JA, Budts W, Anderson JB, Baumgartner H,
+et al. Reaching consensus for uni ﬁed medical language in Fontan care. ESC Heart Fail .
+(2021) 8(5):3894 –905. doi: 10.1002/ehf2.13294
+61. Poterucha JT, Johnson JN, Qureshi MY, O ’Leary PW, Kamath PS, Lennon RJ,
+et al. Magnetic resonance elastography: a novel technique for the detection of
+hepatic ﬁbrosis and hepatocellular carcinoma after the Fontan operation. Mayo Clin
+Proc. (2015) 90(7):882 –94. doi: 10.1016/j.mayocp.2015.04.020
+62. Kutty SS, Peng Q, Danford DA, Fletcher SE, Perry D, Talmon GA, et al.
+Increased hepatic stiffness as consequence of high hepatic afterload in the Fontan
+circulation: a vascular Doppler and elastography study. Hepatology. (2014) 59
+(1):251–60. doi: 10.1002/hep.26631
+63. Dillman JR, Trout AT, Alsaied T, Gupta A, Lubert AM. Imaging of Fontan-
+associated liver disease. Pediatr Radiol . (2020) 50(11):1528 –41. doi: 10.1007/s00247-
+020-04776-0
+64. Baek JS, Bae EJ, Ko JS, Kim GB, Kwon BS, Lee SY, et al. Late hepatic
+complications after Fontan operation; non-invasive markers of hepatic ﬁbrosis and
+risk factors. Heart. (2010) 96(21):1750 –5. doi: 10.1136/hrt.2010.201772
+65. Emamaullee J, Zaidi AN, Schiano T, Kahn J, Valentino PL, Hofer RE, et al.
+Fontan-associated liver disease: screening, management, and transplant
+considerations. Circulation. (2020) 142(6):591 –604. doi: 10.1161/
+CIRCULATIONAHA.120.045597
+66. Ackerman T, Geerts A, Van Vlierberghe H, De Backer J, François K. Hepatic
+changes in the Fontan circulation: identi ﬁcation of liver dysfunction and an attempt
+to streamline follow-up screening. Pediatr Cardiol . (2018) 39(8):1604 –13. doi: 10.
+1007/s00246-018-1937-1
+67. Kaulitz R, Haber P, Sturm E, Schäfer J, Hofbeck M. Serial evaluation of hepatic
+function pro ﬁle after Fontan operation. Herz. (2014) 39(1):98 –104. doi: 10.1007/
+s00059-013-3811-5
+68. Sessa A, Allaire M, Lebray P, Medmoun M, Tiritilli A, Iaria P, et al. From
+congestive hepatopathy to hepatocellular carcinoma, how can we improve
+patient management? JHEP Rep . (2021) 3(2):100249. doi: 10.1016/j.jhepr.2021.
+100249
+69. Surrey LF, Russo P, Rychik J, Goldberg DJ, Dodds K, O ’Byrne ML, et al.
+Prevalence and characterization of ﬁbrosis in surveillance liver biopsies of patients
+with Fontan circulation. Hum Pathol . (2016) 57:106 –15. doi: 10.1016/j.humpath.
+2016.07.006
+70. Téllez L, Rodríguez de Santiago E, Albillos A. Fontan-associated liver disease:
+pathophysiology, staging, and management. Semin Liver Dis . (2021) 41(4):538 –50.
+doi: 10.1055/s-0041-1732355
+71. Ndrepepa G, Kastrati A. Gamma-glutamyl transferase and cardiovascular
+disease. Ann Transl Med . (2016) 4(24):481. doi: 10.21037/atm.2016.12.27
+72. Wai CT, Greenson JK, Fontana RJ, Kalb ﬂeisch JD, Marrero JA, Conjeevaram HS,
+et al. A simple noninvasive index can predict both signi ﬁcant ﬁbrosis and cirrhosis in
+patients with chronic hepatitis C. Hepatology. (2003) 38(2):518 –26. doi: 10.1053/jhep.
+2003.50346
+73. Heuman DM, Mihas AA, Habib A, Gilles HS, Stravitz RT, Sanyal AJ, et al.
+MELD-XI: a rational approach to “sickest ﬁrst” liver transplantation in cirrhotic
+patients requiring anticoagulant therapy. Liver Transpl . (2007) 13(1):30 –7. doi: 10.
+1002/lt.20906
+74. Evans WN, Acherman RJ, Ciccolo ML, Carrillo SA, Galindo A, Rothman A,
+et al. MELD-XI scores correlate with post-Fontan hepatic biopsy ﬁbrosis scores.
+Pediatr Cardiol . (2016) 37(7):1274 –7. doi: 10.1007/s00246-016-1428-1
+75. Amdani S. Failing Fontan-heart or heart-liver transplant: the jury is (still) out?
+J Heart Lung Transplant . (2021) 40(9):1020. doi: 10.1016/j.healun.2021.05.013
+76. Wu FM, Jonas MM, Opotowsky AR, Harmon A, Raza R, Ukomadu C, et al.
+Portal and centrilobular hepatic ﬁbrosis in Fontan circulation and clinical
+outcomes. J Heart Lung Transplant . (2015) 34(7):883 –91. doi: 10.1016/j.healun.
+2015.01.993
+77. Srinivasan A, Guzman AK, Rand EB, Rychik J, Goldberg DJ, Russo PA, et al.
+Percutaneous liver biopsy in Fontan patients. Pediatr Radiol . (2019) 49(3):342 –50.
+doi: 10.1007/s00247-018-4311-9
+78. Schwartz MC, Sullivan LM, Glatz AC, Rand E, Russo P, Goldberg DJ, et al.
+Portal and sinusoidal ﬁbrosis are common on liver biopsy after Fontan surgery.
+Pediatr Cardiol . (2013) 34(1):135 –42. doi: 10.1007/s00246-012-0402-9
+79. Dai DF, Swanson PE, Krieger EV, Liou IW, Carithers RL, Yeh MM. Congestive
+hepatic ﬁbrosis score: a novel histologic assessment of clinical severity. Mod Path .
+(2014) 27(12):1552 –8. doi: 10.1038/modpathol.2014.79
+80. Silva-Sepulveda JA, Fonseca Y, Vodkin I, Vaughn G, Newbury R, Vavinskaya V,
+et al. Evaluation of Fontan liver disease: correlation of transjugular liver biopsy with
+magnetic resonance and hemodynamics. Congenit Heart Dis . (2019) 14(4):600 –8.
+doi: 10.1111/chd.12770
+81. Myers RP, Cerini R, Sayegh R, Moreau R, Degott C, Lebrec D, et al. Cardiac
+hepatopathy: clinical, hemodynamic, and histologic characteristics and correlations.
+Hepatology. (2003) 37(2):393 –400. doi: 10.1053/jhep.2003.50062
+82. Vaikunth SS, Higgins JP, Concepcion W, Haeffele C, Wright GE, Chen S, et al.
+Does liver biopsy accurately measure ﬁbrosis in Fontan-associated liver disease? A
+comparison of liver biopsy pre-combined heart and liver transplant and liver
+explant post-transplant. Clin Transplant . (2020) 34:e14120. doi: 10.1111/ctr.14120
+83. Greenway SC, Crossland DS, Hudson M, Martin SR, Myers RP, Prieur T, et al.
+Fontan-associated liver disease: implications for heart transplantation. J Heart Lung
+Trans. (2016) 35(1):26 –33. doi: 10.1016/j.healun.2015.10.015
+84. Horvat N, Rocha MS, Chagas AL, Oliveira BC, Pacheco MP, Binotto MA, et al.
+Multimodality screening of hepatic nodules in patients with congenital heart disease
+after Fontan procedure: role of ultrasound, ARFI elastography, CT, and MRI. AJR
+Am J Roentgenol . (2018) 211(6):1212 –20. doi: 10.2214/AJR.18.19762
+85. Tellez L, Rodriguez de Santiago E, Minguez B, Payance A, Clemente A, Baiges A,
+et al. Prevalence, features and predictive factors of liver nodules in Fontan surgery
+patients: the VALDIG Fontan liver prospective cohort. J Hepatol . (2020) 72
+(4):702–10. doi: 10.1016/j.jhep.2019.10.027
+86. Pariente D, Franchi-Abella S. Paediatric chronic liver diseases: how to investigate
+and follow up? Role of imaging in the diagnosis of ﬁbrosis. Pediatr Radiol . (2010) 40
+(6):906–19. doi: 10.1007/s00247-010-1600-3
+87. De Bruyne R, Vandekerckhove K, Van Overschelde H, Hendricx F, Vande Walle
+C, De Groote K, et al. Non-invasive assessment of liver abnormalities in pediatric
+Fontan patients. Eur J Pediatr . (2022) 181(1):159–69. doi: 10.1007/s00431-021-04163-3
+88. Lyshchik A, Kono Y, Dietrich CF, Jang HJ, Kim TK, Piscaglia F, et al. Contrast-
+enhanced ultrasound of the liver: technical and lexicon recommendations from the
+ACR CEUS LI-RADS working group. Abdom Radiol . (2018) 43(4):861 –79. doi: 10.
+1007/s00261-017-1392-0
+89. EMA. European Medicines Agency SonoVue (2020). Available at: https://www.
+ema.europa.eu/en/medicines/human/EPAR/sonovue (Accessed November 15, 2022).
+90. Food and Drug Administration. Drugs at FDA (2016). Available at: https://www.
+accessdata.fda.gov/drugsatfda_docs/label/2016/203684s002lbl.pdf (Accessed November
+15, 2022).
+91. Chernyak V, Fowler KJ, Kamaya A, Kielar AZ, Elsayes KM, Bashir MR, et al.
+Liver imaging reporting and data system (LI-RADS) version 2018: imaging of
+hepatocellular carcinoma in at-risk patients. Radiology. (2018) 289(3):816 –30.
+doi: 10.1148/radiol.2018181494
+92. Mandalenakis Z, Karazisi C, Skoglund K, Rosengren A, Lappas G, Eriksson P,
+et al. Risk of cancer among children and young adults with congenital heart disease
+compared with healthy controls. JAMA Netw Open . (2019) 2(7):e196762. doi: 10.
+1001/jamanetworkopen.2019.6762
+93. Chavhan GB, Farras Roca L, Coblentz AC. Liver magnetic resonance imaging:
+how we do it. Pediatr Radiol . (2022) 52(2):167 –76. doi: 10.1007/s00247-021-05053-4
+94. Wallihan DB, Podberesky DJ. Hepatic pathology after Fontan palliation:
+spectrum of imaging ﬁndings. Pediatr Radiol . (2013) 43(3):330 –8. doi: 10.1007/
+s00247-012-2531-y
+95. Bulut OP, Romero R, Mahle WT, McConnell M, Braithwaite K, Shehata BM,
+et al. Magnetic resonance imaging identi ﬁes unsuspected liver abnormalities in
+patients after the Fontan procedure. J Pediatr . (2013) 163(1):201 –6. doi: 10.1016/j.
+jpeds.2012.12.071
+96. Wolff D, van Melle JP, Dijkstra H, Bartelds B, Willems TP, Hillege H, et al. The
+Fontan circulation and the liver: a magnetic resonance diffusion-weighted imaging
+study. Int J Cardiol . (2016) 202:595 –600. doi: 10.1016/j.ijcard.2015.09.088
+97. Navallas M, Yoo SJ, Chavhan GB, Amirabadi A, Ling SC, Seed M, et al.
+Semiquantitative characterization of dynamic magnetic resonance perfusion of the
+liver in pediatric Fontan patients. Pediatr Radiol . (2022) 52(3):483 –92. doi: 10.1007/
+s00247-021-05221-6
+98. Kim TH, Yang HK, Jang HJ, Yoo SJ, Khalili K, Kim TK. Abdominal imaging
+ﬁndings in adult patients with Fontan circulation. Insights Imaging . (2018) 9
+(3):357–67. doi: 10.1007/s13244-018-0609-2
+99. Wells ML, Hough DM, Fidler JL, Kamath PS, Poterucha JT, Venkatesh SK.
+Benign nodules in post-Fontan livers can show imaging features considered
+diagnostic for hepatocellular carcinoma. Abdom Radiol . (2017) 42(11):2623 –31.
+doi: 10.1007/s00261-017-1181-9
+100. Itkin M, Nadolski GJ. Modern techniques of lymphangiography and
+interventions: current status and future development. Cardiovasc Intervent Radiol .
+(2018) 41(3):366 –76. doi: 10.1007/s00270-017-1863-2
+101. Dori Y. Novel lymphatic imaging techniques. Tech Vasc Interv Radiol . (2016)
+19(4):255–61. doi: 10.1053/j.tvir.2016.10.002
+102. Biko DM, DeWitt AG, Pinto EM, Morrison RE, Johnstone JA, Grif ﬁs H, et al.
+MRI evaluation of lymphatic abnormalities in the neck and thorax after Fontan
+surgery: relationship with outcome. Radiology. (2019) 291(3):774 –80. doi: 10.1148/
+radiol.2019180877
+103. Biko DM, Smith CL, Otero HJ, Saul D, White AM, DeWitt A, et al. Intrahepatic
+dynamic contrast MR lymphangiography: initial experience with a new technique for
+the assessment of liver lymphatics. Eur Radiol . (2019) 29(10):5190 –6. doi: 10.1007/
+s00330-019-06112-z
+104. Ramirez-Suarez KI, Tierradentro-Garcia LO, Smith CL, Krishnamurthy G,
+Escobar FA, Otero HJ, et al. Dynamic contrast-enhanced magnetic resonance
+lymphangiography. Pediatr Radiol . (2022) 52(2):285 –94. doi: 10.1007/s00247-021-
+05051-6
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 18 frontiersin.org
+[[p19]]
+105. Dietrich CF, Bamber J, Berzigotti A, Bota S, Cantisani V, Castera L, et al.
+EFSUMB guidelines and recommendations on the clinical use of liver ultrasound
+elastography, update 2017 (long version). Ultraschall Med . (2017) 38(4):e16 –47.
+doi: 10.1055/s-0043-103952
+106. Ferraioli G, Wong VW, Castera L, Berzigotti A, Sporea I, Dietrich CF, et al.
+Liver ultrasound elastography: an update to the world federation for ultrasound in
+medicine and biology guidelines and recommendations. Ultrasound Med Biol .
+(2018) 44(12):2419 –40. doi: 10.1016/j.ultrasmedbio.2018.07.008
+107. Behairy Bel S, Sira MM, Zalata KR, Salama el SE, Abd-Allah MA. Transient
+elastography compared to liver biopsy and morphometry for predicting ﬁbrosis in
+pediatric chronic liver disease: does etiology matter? World J Gastroenterol . (2016)
+22(16):4238–49. doi: 10.3748/wjg.v22.i16.4238
+108. Hebelka H, de Lange C, Boström H, Ekvall N, Lagerstrand K. Shear wave
+elastography in the differentiation of non ﬁbrotic versus ﬁbrotic liver disease in
+children: a prospective study with histological correlation. J Pediatr Gastroenterol
+Nutr. (2021) 3(1):e156. doi: 10.1097/PG9.0000000000000156
+109. Melero-Ferrer JL, Osa-Saez A, Buendia-Fuentes F, Ballesta-Cunat A, Flors L,
+Rodriguez-Serrano M, et al. Fontan circulation in adult patients: acoustic radiation
+force impulse elastography as a useful tool for liver assessment. World J Pediatr
+Congenit Heart Surg . (2014) 5(3):365 –71. doi: 10.1177/2150135114530172
+110. de Lange C, Thrane KJ, Thomassen KS, Geier O, Nguyen B, Tomterstad A,
+et al. Hepatic magnetic resonance T1-mapping and extracellular volume fraction
+compared to shear-wave elastography in pediatric Fontan-associated liver disease.
+Pediatr Radiol . (2021) 51(1):66 –76. doi: 10.1007/s00247-020-04805-y
+111. DiPaola FW, Schumacher KR, Goldberg CS, Friedland-Little J, Parameswaran
+A, Dillman JR. Effect of Fontan operation on liver stiffness in children with single
+ventricle physiology. Eur Radiol . (2017) 27(6):2434 –42. doi: 10.1007/s00330-016-
+4614-x
+112. Shin YR, Kim SU, Lee S, Choi JY, Park HK, Yoo JE, et al. Noninvasive
+surrogates are poor predictors of liver ﬁbrosis in patients with Fontan circulation.
+J Thorac Cardiovasc Surg . (2022) 164(4):1176 –85.e3. doi: 10.1016/j.jtcvs.2021.12.028
+113. Cho Y, Kabata D, Ehara E, Yamamoto A, Mizuochi T, Mushiake S, et al.
+Assessing liver stiffness with conventional cut-off values overestimates liver ﬁbrosis
+staging in patients who received the Fontan procedure. Hepatol Res . (2021) 51
+(5):593–602. doi: 10.1111/hepr.13627
+114. Diaz ES, Dillman JR, Veldtman GR, Trout AT. MRI measured liver stiffness
+does not predict focal liver lesions after the Fontan operation. Pediatr Radiol .
+(2019) 49(1):99 –104. doi: 10.1007/s00247-018-4264-z
+115. Cetinic I, de Lange C, Simrén Y, Ekvall N, Östling M, Stén L, et al. Ultrasound
+shear wave elastography, shear wave dispersion and attenuation imaging of pediatric
+liver disease with histological correlation. Children (Basel) . (2022) 9(5):692. doi: 10.
+3390/children9050692
+116. Lee DH, Lee JY, Bae JS, Yi NJ, Lee KW, Suh KS, et al. Shear-wave
+dispersion slope from US shear-wave elastography: detection of allograft
+damage after liver transplantation. Radiology . (2019) 293(2):327 –3 3 .d o i :1 0 .
+1148/radiol.2019190064
+117. Trout AT, Dillman JR, Xanthakos S, Kohli R, Sprague G, Serai S, et al.
+Prospective assessment of correlation between US acoustic radiation force impulse
+and MR elastography in a pediatric population: dispersion of US shear-wave speed
+measurement matters. Radiology. (2016) 281(2):544 –52. doi: 10.1148/radiol.
+2016152797
+118. Nagasawa T, Kuroda H, Abe T, Saiki H, Takikawa Y. Shear wave dispersion to
+assess liver disease progression in Fontan-associated liver disease. PLoS One. (2022) 17
+(7):e0271223. doi: 10.1371/journal.pone.0271223
+119. Ferraioli G, Kumar V, Ozturk A, Nam K, de Korte CL, Barr RG. US attenuation
+for liver fat quanti ﬁcation: an AIUM-RSNA QIBA pulse-echo quantitative ultrasound
+initiative. Radiology. (2022) 302:495 –506. doi: 10.1148/radiol.210736
+120. Ramachandran P, Serai SD, Veldtman GR, Lang SM, Mazur W, Trout AT, et al.
+Assessment of liver T1 mapping in Fontan patients and its correlation with magnetic
+resonance elastography-derived liver stiffness. Abdom Radiol . (2019) 44(7):2403 –8.
+doi: 10.1007/s00261-019-01990-9
+121. Serai SD, Trout AT, Miethke A, Diaz E, Xanthakos SA, Dillman JR. Putting
+it all together: established and emerging MRI techniques for detecting and
+measuring liver ﬁbrosis. Pediatr Radiol . (2018) 48(9):1256 –72. doi: 10.1007/
+s00247-018-4083-2
+122. de Lange C, Reichert MJE, Pagano JJ, Seed M, Yoo SJ, Broberg CS, et al.
+Increased extracellular volume in the liver of pediatric Fontan patients. J Cardiovasc
+Magn. (2019) 21(1):39. doi: 10.1186/s12968-019-0545-4
+123. Petitclerc L, Sebastiani G, Gilbert G, Cloutier G, Tang A. Liver ﬁbrosis: review
+of current imaging and MRI quanti ﬁcation techniques. J Magn Reson Imaging . (2017)
+45(5):1276–95. doi: 10.1002/jmri.25550
+124. Schleiger A, Salzmann M, Kramer P, Danne F, Schubert S, Bassir C, et al.
+Severity of Fontan-associated liver disease correlates with Fontan hemodynamics.
+Pediatr Cardiol . (2020) 41(4):736 –46. doi: 10.1007/s00246-020-02291-5
+125. Bryant T, Ahmad Z, Millward-Sadler H, Burney K, Stedman B, Kendall T, et al.
+Arterialised hepatic nodules in the Fontan circulation: hepatico-cardiac interactions.
+Int J Cardiol . (2011) 151(3):268 –72. doi: 10.1016/j.ijcard.2010.05.047
+126. Cerny M, Chernyak V, Olivie D, Billiard JS, Murphy-Lavallee J, Kielar AZ, et al.
+LI-RADS version 2018 ancillary features at MRI. Radiographics. (2018) 38
+(7):1973–2001. doi: 10.1148/rg.2018180052
+127. Bello HR, Mahdi ZK, Lui SK, Nandwana SB, Harri PA, Davarpanah AH.
+Hepatocellular carcinoma with atypical imaging features: review of the morphologic
+hepatocellular carcinoma subtypes with radiology-pathology correlation. J Magn
+Reson Imaging . (2022) 55(3):681 –97. doi: 10.1002/jmri.27553
+128. Engelhardt EM, Trout AT, Sheridan RM, Veldtman GR, Dillman JR. Focal
+liver lesions following Fontan palliation of single ventricle physiology: a radiology-
+pathology case series. Congenit Heart Dis . (2019) 14(3):380 –8. doi: 10.1111/chd.
+12730
+129. Çolaklar A, Lehnert SJ, Tirkes T. Benign hepatic nodules mimicking
+hepatocellular carcinoma in the setting of Fontan-associated liver disease: a case
+report. Euroasian J Hepatogastroenterol . (2020) 10(1):42 –4. doi: 10.5005/jp-journals-
+10018-1315
+130. Trout AT, Towbin AJ, Smith EA, Gupta A, Dillman JR. Hepatocyte-speci ﬁc
+contrast media: not so simple. Pediatr Radiol . (2018) 48(9):1245 –55. doi: 10.1007/
+s00247-018-4108-x
+131. Hope TA, Fowler KJ, Sirlin CB, Costa EA, Yee J, Yeh BM, et al. Hepatobiliary
+agents and their role in LI-RADS. Abdom Imaging. (2015) 40(3):613 –25. doi: 10.1007/
+s00261-014-0227-5
+132. Wang W, Hu X, Liao W, Rutahoile WH, Malenka DJ, Zeng X, et al. The
+efﬁcacy and safety of pulmonary vasodilators in patients with Fontan circulation: a
+meta-analysis of randomized controlled trials. Pulm Circ . (2019) 9(1):
+2045894018790450. doi: 10.1177/2045894018790450
+133. Dennis M, Zannino D, du Plessis K, Bullock A, Disney PJS, Radford DJ, et al.
+Clinical outcomes in adolescents and adults after the Fontan procedure. J Am Coll
+Cardiol. (2018) 71(9):1009 –17. doi: 10.1016/j.jacc.2017.12.054
+134. Egbe AC, Miranda WR, Veldtman GR, Graham RP, Kamath PS. Hepatic
+venous pressure gradient in Fontan physiology has limited diagnostic and
+prognostic signi ﬁcance. CJC Open . (2020) 2(5):360 –4. doi: 10.1016/j.cjco.2020.
+04.011
+135. Runyon BA. Management of adult patients with ascites due to cirrhosis: an
+update. Hepatology. (2009) 49(6):2087 –107. doi: 10.1002/hep.22853
+136. Byrne RD, Weingarten AJ, Clark DE, Healan SJ, Richardson TL, Huang S, et al.
+Sizing up Fontan failure: association with increasing weight in adulthood. Pediatr
+Cardiol. (2021) 42(6):1425 –32. doi: 10.1007/s00246-021-02628-8
+137. Wang A, Book WM, McConnell M, Lyle T, Rodby K, Mahle WT. Prevalence of
+hepatitis C infection in adult patients who underwent congenital heart surgery prior to
+screening in 1992. Am J Cardiol . (2007) 100(8):1307 –9. doi: 10.1016/j.amjcard.2007.
+05.059
+138. Attard C, Huang J, Monagle P, Ignjatovic V. Pathophysiology of thrombosis
+and anticoagulation post Fontan surgery. Thromb Res . (2018) 172:204 –13. doi: 10.
+1016/j.thromres.2018.04.011
+139. Monagle P, Cochrane A, McCrindle B, Benson L, Williams W, Andrew M.
+Thromboembolic complications after Fontan procedures — the role of prophylactic
+anticoagulation. J Thorac Cardiovasc Surg . (1998) 115(3):493 –8. doi: 10.1016/S0022-
+5223(98)70310-1
+140. Monagle P, Cochrane A, Roberts R, Manlhiot C, Weintraub R, Szechtman B,
+et al. A multicenter, randomized trial comparing heparin/warfarin and
+acetylsalicylic acid as primary thromboprophylaxis for 2 years after the Fontan
+procedure in children. J Am Coll Cardiol . (2011) 58(6):645 –51. doi: 10.1016/j.jacc.
+2011.01.061
+141. Alsaied T, Alsidawi S, Allen CC, Faircloth J, Palumbo JS, Veldtman GR.
+Strategies for thromboprophylaxis in Fontan circulation: a meta-analysis. Heart.
+(2015) 101(21):1731 –7. doi: 10.1136/heartjnl-2015-307930
+142. Giglia TM, Massicotte MP, Tweddell JS, Barst RJ, Bauman M, Erickson CC,
+et al. Prevention and treatment of thrombosis in pediatric and congenital heart
+disease: a scienti ﬁc statement from the American Heart Association. Circulation.
+(2013) 128(24):2622 –703. doi: 10.1161/01.cir.0000436140.77832.7a
+143. Amdani S, Simpson KE, Thrush P, Shih R, Simmonds J, Knecht K, et al.
+Hepatorenal dysfunction assessment with the model for end-stage liver disease
+excluding INR score predicts worse survival after heart transplant in pediatric
+Fontan patients. J Thorac Cardiovasc Surg . (2022) 163(4):1462 –73.e12. doi: 10.1016/
+j.jtcvs.2021.02.014
+144. Deo SV, Al-Kindi SG, Altarabsheh SE, Hang D, Kumar S, Ginwalla MB, et al.
+Model for end-stage liver disease excluding international normalized ratio (MELD-XI)
+score predicts heart transplant outcomes: evidence from the registry of the United
+Network for organ sharing. J Heart Lung Transplant . (2016) 35(2):222 –7. doi: 10.
+1016/j.healun.2015.10.008
+145. Kim MH, Nguyen A, Lo M, Kumar SR, Bucuvalas J, Glynn EF, et al. Big data in
+transplantation practice —
+the devil is in the detail — Fontan-associated liver disease.
+Transplantation. (2021) 105(1):18 –22. doi: 10.1097/TP.0000000000003308
+146. Simpson KE, Esmaeeli A, Khanna G, White F, Turnmelle Y, Eghtesady P, et al.
+Liver cirrhosis in Fontan patients does not affect 1-year post-heart transplant
+mortality or markers of liver function. J Heart Lung Transplant . (2014) 33(2):170 –7.
+doi: 10.1016/j.healun.2013.10.033
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 19 frontiersin.org
+[[p20]]
+147. Hofferberth SC, Singh TP, Bastardi H, Blume ED, Fynn-Thompson F. Liver
+abnormalities and post-transplant survival in pediatric Fontan patients. Pediatr
+Transplant. (2017) 21(8):e13061. doi: 10.1111/petr.13061
+148. Rodriguez DS, Mao C, Mahle WT, Kanter KR, Alazraki A, Braithwaite K, et al.
+Pretransplantation and post-transplantation liver disease assessment in adolescents
+undergoing isolated heart transplantation for Fontan failure. J Pediatr . (2021)
+229:78–85.e2. doi: 10.1016/j.jpeds.2020.09.044
+149. Cotter TG, Wang J, Peeraphatdit T, Sand ıkçı B, Ayoub F, Kim G, et al.
+Simultaneous heart-liver transplantation for congenital heart disease in the United
+States: rapidly increasing with acceptable outcomes. Hepatology. (2021) 73
+(4):1464–77. doi: 10.1002/hep.31426
+150. Davies RR, Sorabella RA, Yang J, Mosca RS, Chen JM, Quaegebeur JM.
+Outcomes after transplantation for “failed” Fontan: a single-institution experience.
+J Thorac Cardiovasc Surg . (2012) 143(5):1183 –92.e4. doi: 10.1016/j.jtcvs.2011.12.039
+151. Michielon G, van Melle JP, Wolff D, Di Carlo D, Jacobs JP, Mattila IP, et al.
+Favourable mid-term outcome after heart transplantation for late Fontan failure.
+Eur J Cardiothorac Surg . (2015) 47(4):665 –71. doi: 10.1093/ejcts/ezu280
+152. Miller JR, Simpson KE, Epstein DJ, Lancaster TS, Henn MC, Schuessler RB,
+et al. Improved survival after heart transplant for failed Fontan patients with
+preserved ventricular function. J Heart Lung Transplant . (2016) 35(7):877 –83.
+doi: 10.1016/j.healun.2016.02.005
+153. Kanter KR. Heart transplantation in children after a Fontan procedure: better
+than people think. Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu . (2016) 19
+(1):44–9. doi: 10.1053/j.pcsu.2015.11.004
+154. Kanter KR, Mahle WT, Vincent RN, Berg AM, Kogon BE, Kirshbom PM.
+Heart transplantation in children with a Fontan procedure. Ann Thorac Surg .
+(2011) 91(3):823 –9, discussion 829 –30. doi: 10.1016/j.athoracsur.2010.11.031
+155. Jayakumar KA, Addonizio LJ, Kichuk-Chrisant MR, Galantowicz ME, Lamour
+JM, Quaegebeur JM, et al. Cardiac transplantation after the Fontan or Glenn
+procedure. J Am Coll Cardiol . (2004) 44(10):2065 –72. doi: 10.1016/j.jacc.2004.08.031
+156. Alkhaldi A, Chin C, Bernstein D. Pediatric cardiac transplantation. Semin
+Pediatr Surg . (2006) 15(3):188 –98. doi: 10.1053/j.sempedsurg.2006.03.011
+157. Bernstein D, Naftel D, Chin C, Addonizio LJ, Gamberg P, Blume ED, et al.
+Outcome of listing for cardiac transplantation for failed Fontan: a multi-
+institutional study. Circulation. (2006) 114(4):273 –80. doi: 10.1161/
+CIRCULATIONAHA.105.548016
+158. Riggs KW, Broderick JT, Price N, Chin C, Zafar F, Morales DLS.
+Transplantation for congenital heart disease: focus on the impact of functionally
+univentricular versus biventricular circulation. World J Pediatr Congenit Heart Surg .
+(2021) 12(3):352 –9. doi: 10.1177/2150135121990650
+159. Simpson KE, Pruitt E, Kirklin JK, Naftel DC, Singh RK, Edens RE, et al. Fontan
+patient survival after pediatric heart transplantation has improved in the current era.
+Ann Thorac Surg . (2017) 103(4):1315 –20. doi: 10.1016/j.athoracsur.2016.08.110
+160. Vaikunth SS, Concepcion W, Daugherty T, Fowler M, Lutchman G, Maeda K,
+et al. Short-term outcomes of en bloc combined heart and liver transplantation in the
+failing Fontan. Clin Transplant . (2019) 33(6):e13540. doi: 10.1111/ctr.13540
+161. D ’Souza BA, Fuller S, Gleason LP, Hornsby N, Wald J, Krok K, et al. Single-
+center outcomes of combined heart and liver transplantation in the failing Fontan.
+Clin Transplant . (2017) 31(3):e12892. doi: 10.1111/ctr.12892
+162. Wong TW, Gandhi MJ, Daly RC, Kushwaha SS, Pereira NL, Rosen CB, et al.
+Liver allograft provides immunoprotection for the cardiac allograft in combined
+heart-liver transplantation. Am J Transplant . (2016) 16(12):3522 –31. doi: 10.1111/
+ajt.13870
+163. Atluri P, Gaffey A, Howard J, Phillips E, Goldstone AB, Hornsby N, et al.
+Combined heart and liver transplantation can be safely performed with excellent
+short- and long-term results. Ann Thorac Surg . (2014) 98(3):858 –62. doi: 10.1016/j.
+athoracsur.2014.04.100
+164. Ybarra AM, Khanna G, Turmelle YP, Stoll J, Castleberry CD, Scheel J, et al.
+H e t e r o g e n e o u so u t c o m e so fl i v e rd i s e a s eafter heart transplantation for a failed
+Fontan procedure. Pediatr Transplant . (2021) 25(8):e14094. doi: 10.1111/petr.
+14094
+165. Broda CR, Alonso-Gonzalez R, Ghanekar A, Gulamhusein A, McDonald M,
+Luk A, et al. Fate of the liver in the survivors of adult heart transplant for a failing
+Fontan circulation. J Heart Lung Transplant . (2022) 41(3):283 –6. doi: 10.1016/j.
+healun.2021.10.020
+166. Ohuchi H, Hayama Y, Nakajima K, Kurosaki K, Shiraishi I, Nakai M.
+Incidence, predictors, and mortality in patients with liver cancer after Fontan
+operation. J Am Heart Assoc . (2021) 10(4):e016617. doi: 10.1161/JAHA.120.016617
+167. Perucca G, de Lange C, Franchi-Abella S, Napolitano M, Riccabona M,
+Ključevšek D, et al. Surveillance of Fontan-associated liver disease: current
+standards and a proposal from the European society of paediatric radiology
+abdominal task force. Pediatr Radiol . (2021) 51(13):2598 –606. doi: 10.1007/s00247-
+021-05173-x
+168. Keung CY, Zentner D, Gibson RN, Phan DH, Grigg LE, Sood S, et al. Fontan-
+associated liver disease: pathophysiology, investigations, predictors of severity and
+management. Eur J Gastroenterol Hepatol . (2020) 32(8):907 –15. doi: 10.1097/MEG.
+0000000000001641
+169. Brida M, Grbcic S, Holbein C, Veldtman GR. Bridging the psychological issues
+of living with the Fontan circulation. Int J Cardiol . (2018) 260:72 –3. doi: 10.1016/j.
+ijcard.2018.02.105
+de Lange et al. 10.3389/fped.2023.1100514
+Frontiers in Pediatrics 20 frontiersin.org

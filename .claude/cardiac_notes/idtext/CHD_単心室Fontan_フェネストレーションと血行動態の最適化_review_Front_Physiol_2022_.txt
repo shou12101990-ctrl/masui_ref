@@ -1,0 +1,1156 @@
+
+[[p1]]
+Optimal Fenestration of the Fontan
+Circulation
+Zan Ahmad 1, Lynn H. Jin 1,2, Daniel J. Penny 3, Craig G. Rusin 3, Charles S. Peskin 1 and
+Charles Puelz 1,3*
+1Courant Institute of Mathematical Sciences, New York University, New York, NY, United States, 2School of Physics, Georgia
+Institute of Technology, Atlanta, GA, United States, 3Department of Pediatrics, Section of Cardiology, Baylor College of Medicine
+and Texas Children ’s Hospital, Houston, TX, United States
+In this paper, we develop a pulsatile compartmental model of the Fontan circulation and
+use it to explore the effects of a fenestration added to this physiology. A fenestration is a
+shunt between the systemic and pulmonary veins that is added either at the time of Fontan
+conversion or at a later time for the treatment of complications. This shunt increases
+cardiac output and decreases systemic venous pressure. However, these hemodynamic
+beneﬁts are achieved at the expense of a decrease in the arterial oxygen saturation. The
+model developed in this paper incorporates fenestration size as a parameter and describes
+both blood ﬂow and oxygen transport. It is calibrated to clinical data from Fontan patients,
+and we use it to study the impact of a fenestration on several hemodynamic variables,
+including systemic oxygen availability, effective oxygen availability, and systemic venous
+pressure. In certain scenarios corresponding to high-risk Fontan physiology, we
+demonstrate the existence of a range of fenestration sizes in which the systemic
+oxygen availability remains relatively constant while the systemic venous pressure
+decreases.
+Keywords: Fontan circulation, compartmental model, hemodynamics, oxygen transport, fenestration
+1 INTRODUCTION
+Single ventricle physiology corresponds to a spectrum of congenital heart defects in which there is
+only one functioning ventricular chamber. Patients with this type of condition require complex
+medical and surgical interventions to ensure survival. The typical course of treatment for these
+defects is a sequence of surgeries during the ﬁrst several years of life, ending with a procedure that
+establishes an abnormal physiology known as the Fontan circulation. This physiology was conceived
+in 1971 and is characterized by the systemic organs and lungs in series, as in a normal circulation
+(Fontan and Baudet, 1971 ). However, in contrast to a normal circulation, the Fontan physiology
+relies on passive blood ﬂow to the lungs. This circulation is created by surgically placing the single
+functioning ventricle upstream from the systemic organs and connecting the vena cavae directly to
+the pulmonary arteries. Refer to the panel (A) of Figure 1 for a schematic of the Fontan circulation,
+where the label “surgical connection ” corresponds to the connection established between the vena
+cavae and pulmonary arteries. It is important to note that this connection has relatively low
+resistance, resulting in a small difference between the systemic venous and pulmonary artery
+pressures.
+Fontan patients may experience severe complications because of their abnormal physiology,
+including protein-losing enteropathy, ventricular and hepatic dysfunction, and plastic bronchitis
+(Feldt et al., 1996 ; Mondésert et al., 2013 ; Barracano et al., 2022 ). Many of these issues might be
+Edited by:
+Jung Hee Seo,
+Johns Hopkins University,
+United States
+Reviewed by:
+Tammo Delhaas,
+Maastricht University, Netherlands
+Noelia Grande Gutierrez,
+Carnegie Mellon University,
+United States
+*Correspondence:
+Charles Puelz
+charles.puelz@bcm.edu
+Specialty section:
+This article was submitted to
+Computational Physiology and
+Medicine,
+a section of the journal
+Frontiers in Physiology
+Received: 01 February 2022
+Accepted: 13 May 2022
+Published: 30 June 2022
+Citation:
+Ahmad Z, Jin LH, Penny DJ, Rusin CG,
+Peskin CS and Puelz C (2022) Optimal
+Fenestration of the Fontan Circulation.
+Front. Physiol. 13:867995.
+doi: 10.3389/fphys.2022.867995
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679951
+ORIGINAL RESEARCH
+published: 30 June 2022
+doi: 10.3389/fphys.2022.867995
+[[p2]]
+attributed to chronically low cardiac output because of the
+serialized organs and lungs leading to higher than normal
+systemic venous pressure ( Rychik et al., 2012 ). The larger
+systemic venous pressure is certainly crucial for passively
+driving ﬂow through the pulmonary vascular bed.
+Furthermore, the single ventricle is responsible for generating
+enough energy to push blood through both the systemic and
+pulmonary vasculature. The low resistance in the surgical
+connection between the pulmonary arteries and the vena
+cavae results in a pulmonary artery pressure that
+approximately equals the systemic venous pressure. In turn,
+this might lead to an elevated systemic venous pressure
+compared to that found in a normal circulation. Higher
+systemic venous pressure is thought to be a cause of
+complications ( Rychik et al., 2012 ; Ohuchi, 2017 ).
+Theoretically, cardiac output can be increased while
+pulmonary artery and systemic venous pressures can be
+simultaneously decreased throu gh the introduction of a shunt
+between the systemic veins and the pulmonary veins known as a
+fenestration.
+In practice, this shunt is established between the systemic veins
+and atria as a “side-by-side” connection. In our model, the atria
+and venous compartments are lumped together, so the
+fenestration here is described by a shunt between the systemic
+and pulmonary veins. Furthermore, the nonlinear resistance
+model used for the fenestration in this paper is derived
+assuming two compartments are connected by a hole with a
+pre-determined cross-sectional area. This setup considered here
+is also consistent with the typical creation of such a connection.
+For a schematic of the Fontan circulation with a fenestration,
+refer to panel (B) of Figure 1 .
+A fenestration has been introduced into the Fontan physiology
+both at the time of Fontan conversion and also later in the
+patient’s life for the treatment of complications ( Rychik et al.,
+1997; Lemler et al., 2002). While a fenestration typically increases
+cardiac output, it also decreases oxygen saturation of blood
+ﬂowing to the systemic tissues. This is because blood ﬂowing
+through the fenestration bypasses the lungs and is therefore not
+re-oxygenated. The trade-off between a decrease in oxygen
+saturation and an increase in cardiac output can also be seen
+in the Norwood physiology, which was mathematically studied
+using a non-pulsatile model by Barnea et al. ( Barnea et al., 1994 ).
+This physiology is the result of the ﬁrst surgery for the treatment
+of single ventricle disease. In the Norwood circulation, some of
+the blood exiting the single ventricle enters the pulmonary
+arteries while the rest enters the body. The authors
+demonstrated that the Norwood circulation can be “balanced”
+to optimize systemic oxygen availability to the tissues. This paper
+is concerned with similar questions regarding the Fontan
+physiology. We believe this study, focused on fenestrating the
+Fontan circulation, is of clinical relevance because of the aging
+Fontan population and possible therapeutic bene ﬁts of such an
+intervention ( Rychik et al., 1997 ; Barracano et al., 2022 ).
+The complexity of the Fontan circulation has motivated the
+development of many mathematical models that focus on
+various aspects of this physiology. For an extensive review of
+modeling efforts devoted to the Fontan physiology, see Degroff
+et al. ( DeGroff, 2008 ). Researchers have created three
+dimensional ﬂu i dd y n a m i c sm o d e l sf o rt h ec o n n e c t i o n
+between the vena cavae and pulmonary arteries, called the
+t o t a lc a v o p u l m o n a r yc o n n e c t i o ni na ne x t r a c a r d i a cF o n t a n
+circulation, in an effort to minimize energy loss in the
+surgical anatomy ( Marsden et al., 2009 ; Yang et al., 2010 ).
+There has also been work using lower dimensional models
+that include one-dimensional or compartmental descriptions
+for ﬂuid mechanics. Puelz et al. developed a one-dimensional/
+compartmental model of the Fontan physiology with a
+fenestration that was combined with a non-pulsatile
+description of oxygen transport ( Puelz et al., 2017 ). This
+paper marks an improvement over their work by allowing for
+pulsatile oxygen transport, possible mixing in the systemic and
+pulmonary veins, and a more a ccurate description of the
+fenestration as a side-by-side connection rather than a
+conduit. Conover et al. used compartmental modeling to
+study the surgical stages for hypoplastic left heart syndrome,
+including the Fontan physiology ( Conover et al., 2018 ). Liang
+et al. constructed compartmental models for both normal and
+Fontan circulations in order to systematically compare their
+hemodynamics ( Liang et al., 2014 ). To our knowledge, the
+present paper describes one of the ﬁrst models for the
+FIGURE 1 | Sketches of the Fontan circulation in panel (A) and the fenestrated Fontan circulation in panel (B). Blue represents deoxygenated blood, red represents
+oxygenated blood, and purple represents a mixture of oxygenated and deoxygenated blood.
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679952
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p3]]
+fenestrated Fontan circulation that employs a fully time-dependent
+description for both hemodynamics and oxygen transport.
+We develop a pulsatile compartmental model of the Fontan
+physiology and use it to study the impact of a fenestration on
+blood ﬂow and oxygen transport. The model, with the
+fenestration closed, is calibrated to clinical data in order to
+provide a baseline set of parameters. We vary both the
+pulmonary vascular resistance and fenestration size, with
+respect to the baseline model, to study the fenestration ’s
+impact on several important variables, including systemic
+venous pressure, cardiac output, oxygen saturation, systemic
+oxygen availability, and effective oxygen availability. Our
+model demonstrates that in certain scenarios which
+correspond to high-risk Fontan physiology, a range of
+fenestration sizes exists in which the systemic oxygen
+availability remains relatively constant. In these cases, the
+systemic venous pressure decreases, which could be of
+substantial bene ﬁt to the patient.
+2 MODELS AND METHODS
+n????e?????Y?PH
+a blood ﬂow model that incorporates a nonlinear resistance for
+the fenestration and 2) an oxygen transport model. The blood
+ﬂow model is presented in the ﬁrst subsection along with details
+for modeling the fenestration. The oxygen transport model is
+described in the second subsection. Methods for numerically
+approximating these models are detailed in the ﬁnal subsection.
+The models and methods presented here closely follow those
+given in related work by Han et al., and additional details may be
+found in that paper ( Han et al., 2021 ).
+2.1 Blood Flow Model
+The blood ﬂow model used here describes the circulation as a
+series of compartments that are either compliance chambers or
+resistor elements. Our approach is derived from earlier work by
+Peskin and Tu, with modi ﬁcations to account for the Fontan
+physiology and fenestration (Tu and Peskin, 1986; Tu and Peskin,
+1989; Hoppensteadt and Peskin, 2013 ). Each chamber is
+identiﬁed with a unique index i. We assume the following
+relation between compliance Ci, pressure Pi, and volume Vi:
+Vi /equals Vi,d + CiPi.( 1 )
+The dead volume Vi,d is equal to the residual chamber volume at
+zero pressure. The heart chambers obey Equation 1 , but in this
+case the compliance is taken to be a time-dependent function that
+varies periodically between minimum Csystole and maximum
+Cdiastole. Since our model describes single ventricle physiology,
+one side of the heart is removed from the circulation. The single
+ventricle in the Fontan circulation receives blood from the
+pulmonary veins and ejects that blood into the systemic
+arteries (refer to Figure 1 ). The single ventricle is a distinct
+chamber with a time-varying compliance and the atrium
+chambers are lumped in with the pulmonary venous chamber.
+The time-dependent ventricular compliance, denoted
+C
+ventricle = Cventricle(t), is taken to be a periodic function of
+time, with period T corresponding to the duration of the
+cardiac cycle. The compliance is de ﬁned as the reciprocal of
+the elastance Eventricle(t). To de ﬁne the elastance function for the
+ventricle, we follow the approach from Mynard et al., except we
+modify their formula so that our elastance function is exactly
+periodic ( Mynard et al., 2012 ). Speci ﬁcally, the time-dependent
+equation for the elastance of the ventricle on the interval [0, T]i s
+given by
+Eventricle t() /equals k g1 t()
+1 + g1 t()
+1
+1 + g2 t() − 1
+1 + g2 T()() + Emin (2)
+where
+gi t() /equals t
+τi
+()
+mi
+,i /equals 1, 2. (3 )
+The minimum and maximum elastances are Emax =1 /Csystole and
+Emin =1 / Cdiastole and k is a normalization factor de ﬁned as
+follows:
+k /equals Emax − Emin
+maxt∈ 0,T[]
+g1 t()
+1+g1 t()
+1
+1+g2 t() − 1
+1+g2 T()()[]
+MG?S?H
+The parameters τ1 and τ2 appearing in Equation 3 are the systolic
+and diastolic time constants, respectively. These values, along
+with m
+1 and m2, control the transition between the minimum and
+maximum elastance values for the single ventricle. In particular,
+larger values of m
+1 and m2 correspond to more rapid transitions
+between the minimum and maximum elastance values.
+The resistor elements in our model describe connections
+between compliance chambers. In this framework, compliance
+chambers i and j have two connections between them. The
+connection from i to j contains resistance R
+ij in series with a
+diode oriented from i to j. The connection from j to i is deﬁned
+analogously. If Rij = Rji, the compliance chambers are
+effectively connected by a single resistor and ﬂow is allowed
+to move in both directions. To model a valve with no leak that
+allows ﬂow from i to j,w es e t R
+ij equal to the (typically small)
+?????q????ﬁ????Ms????????K?
+which we separate ﬂows in the two possible directions, makes it
+possible also to model leaky valves (by making both resistances
+ﬁnite but unequal), and it has further bene ﬁt in the simulation
+of oxygen transport. In practice, we work with the reciprocal of
+the resistance, i.e. the conductance, denoted G
+ij =1 / Rij.T h e
+ﬂow (volume per unit time) from chamber i to chamber j,
+denoted Qij, is assumed to obey Ohm ’sl a w ,
+Qij /equals SP i,P j() Gij Pi − Pj() , (5)
+where S(Pi, Pj) is an indicator function that models the valve. This
+function equals one if Pi > Pj and zero otherwise.
+The equations of motion for the blood ﬂow model follow from
+conservation of volume in each compliance chamber. Using our
+notation given above and de ﬁning N to be the number of
+compliance chambers, we have
+dVi
+dt /equals ∑
+N
+j/equals 1
+p?−?pGH?K?N?PK?MMM?Km?MG?U?H
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679953
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p4]]
+Substituting Equations 1 , 5 into ( 6), we obtain:
+d
+dt CiPi() /equals ∑
+N
+j/equals 1
+SP i,P j() Gij + SP j,P i() Gji() Pj − Pi() ,
+i /equals 1, ... ,N .
+(7)
+This set of equations, one for each compliance chamber, comprise
+the blood ﬂow model. Our model for Fontan circulation has four
+compliance chambers corresponding to the major vessel
+networks: the systemic arteries, systemic veins, pulmonary
+arteries, and pulmonary veins. The systemic organs, lungs,
+outﬂow valve, atrium/ventricle valve, and Fontan connection
+are taken to be resistance elements.
+The fenestration between the systemic and pulmonary veins is
+taken to be a nonlinear resistor that depends on its cross-sectional
+area and the magnitude of ﬂow through it. Let Q
+Fe denote the
+fenestration ﬂow and A0 denote its cross-sectional area. Let Psv
+and Ppv denote the systemic venous and pulmonary venous
+pressures respectively. Positive fenestration ﬂow corresponds
+to ﬂow from the systemic venous chamber to the pulmonary
+venous chamber. De ﬁne the blood velocity through the
+fenestration to be u = QFe/A0 and the density of blood to be
+ρ = 1.06 g/cm 3. For positive fenestration ﬂow corresponding to
+QFe > 0, Bernoulli’s equation describes the pressure drop from the
+systemic veins to the pulmonary veins in terms of the ﬂuid
+velocity:
+Psv /equals Ppv − 1
+2 ρu2 /equals Ppv − ρ
+2A2
+0
+Q2
+Fe.
+For negative fenestration ﬂow, we have the same equation as
+above, but with the pressures switched. These two cases,
+corresponding to either positive or negative fenestration ﬂow,
+can be expressed in a single formula:
+P
+sv − Ppv /equals ρ
+2A2
+0
+|QFe|QFe.( 8 )
+Equation 8 reveals the resistance of the fenestration, as a function
+of the magnitude of the fenestration ﬂow and the size:
+RFe /equals ρ
+2A2
+0
+|QFe|.( 9 )
+We add an additional term to this resistance, denoted Rvisc:
+RFe /equals Rvisc + ρ
+2A2
+0
+|QFe|. (10 )
+This additional term physically corresponds to a small viscous
+resistance of the fenestration when the ﬂow is close to zero. In our
+K?q?\?OMOOP?g??k?−PM?h???
+important since it allows for the fenestration conductance to
+remain ﬁnite when Q
+Fe = 0. The formula for fenestration
+conductance is
+GFe /equals 1
+Rvisc + ρ
+2A2
+0
+|QFe|, (11)
+which is used in (7) for the conductance between the systemic and
+pulmonary venous compliance chambers when the fenestration is
+open. Note that the equations in (7) are nonlinear because of the
+functions S(Pi, Pj). The fenestration conductance GFe introduces
+an additional nonlinearity which needs be carefully handled in
+the numerical method, to be described below.
+2.2 Oxygen Model
+In our model for oxygen transport, each compliance chamber has
+a time-dependent oxygen concentration denoted [O
+2]i. This
+variable corresponds to a volumetric concentration so that
+V
+i[O2]i is the volume of oxygen in the ith compliance
+chamber. We also de ﬁne sources and sinks of oxygen along
+the resistance elements between compliance chambers,
+denoted by the set of parameters M
+ij. These parameters are
+nonzero only for the connections between the arteries and
+veins on both sides of the circulation. Conservation of oxygen
+in the circulation model is described by the following set of
+equations:
+d
+dt Vi O2[] i() /equals ∑
+N
+j/equals 1
+j≠i
+Qji O2[] j − Qij O2[] i + Mji() i /equals 1, ... ,N .
+(12)
+The ﬁrst term in the sum on the right hand side is the rate of
+oxygen entering chamber i from j, using the concentration from
+chamber j. The second term is the rate of oxygen leaving chamber
+i, and the third term, if nonzero, is either a source (Mji > 0) or sink
+(Mji < 0). For the connection between the systemic arteries and
+systemic veins, the baseline value of oxygen consumption,
+denoted Msa,sv, is determined from Fick ’s law, assuming the
+concentration in the systemic veins is 60% of the
+concentration in the systemic arteries ( Hijazi et al., 1992 ):
+M
+sa,sv /equals− 0.4 Qs γ. (13 )
+In computing Msa,sv from Equation 13 , Qs is taken to be the
+cardiac output from our model Fontan circulation without the
+fenestration, and γ corresponds to the volumetric oxygen
+concentration in blood when it is fully saturated. The source
+of oxygen from the lungs, denoted M
+pa,pv, is chosen in a time-
+dependent fashion so that the blood ﬂowing into the pulmonary
+veins from the pulmonary arteries is fully saturated. This
+requirement implies the following equation for M
+pa,pv:
+Mpa,pv /equals Qp γ − O2[] pa() , (14)
+where Qp is the pulmonary ﬂow and [O2]pa is the oxygen
+concentration in the pulmonary arteries. This source term
+ensures that blood ﬂowing into the pulmonary veins from the
+pulmonary arteries has a maximum volumetric oxygen
+concentration of γ = 0.201. This concentration is calculated by
+assuming an oxygen-binding capacity for hemoglobin (Hb) of
+1.34 ml oxygen per g Hb and that 15 g Hb is in 100 ml of blood.
+This implies a maximum oxygen content of 20.1 ml oxygen per
+100 ml of blood, corresponding to a maximum volumetric oxygen
+concentration of 0.201 ( Pittman, 2016 ). In the presence of a
+fenestration, however, this stream of fully oxygenated blood
+mixes with the systemic venous blood that arrives in the
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679954
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p5]]
+pulmonary venous compartment via the fenestration, with the
+result that blood in the pulmonary venous compartment is not
+fully saturated.
+2.3 Numerical Methods
+In this section, we describe the numerical approximation schemes
+for the blood ﬂow and oxygen transport models. Let n denote the
+time set size index and δt > 0 denote the time step. For the blood
+ﬂow equations, we use the backward Euler scheme:
+Cn
+i Pn
+i − Cn−1
+i Pn−1
+i
+δt /equals ∑
+N
+j/equals 1
+SP n
+i ,P n
+j
+() Gn
+ij + SP n
+j ,P n
+i
+() Gn
+ji() Pn
+j − Pn
+i() .
+(15)
+There are two sources of nonlinearity in these equations: the valve
+state function S, which depends on the pressures, and the
+fenestration conductance, which depends on the ﬂow. Since the
+valve state function S can only take on the values 0 or 1, our
+approach for solving the nonlinear systemEquation 15 is to guess
+the value for each S variable, to solve the resulting linear system for
+the pressures, and ﬁnally to check whether the pressure values
+obtained are consistent with the assumed values ofS. If there is any
+inconsistency, we change the state of those S values that were
+inconsistent with the pressures and try again. This is repeated until
+the pressures and all of the valve states have stopped changing,
+i.e., until the nonlinear system Equation 15 has been solved. Our
+initial guess for this process is taken to be values at the previous
+time step, which for almost all time steps is the correct choice. To
+deal with the nonlinearity in the fenestration conductance, we
+perform a ﬁxed-point iteration on the fenestration ﬂow, with the
+ﬂow at the previous time step used as the initial guess. This
+iteration helps to avoid non-physical oscillations in the
+calculated fenestration ﬂow waveform. Our numerical
+discretization for the oxygen transport equations is the following:
+O2[] n
+i Vn
+i − O2[] n−1
+i Vn−1
+i
+δt /equals ∑
+N
+j/equals 1
+j≠1
+O2[] n−1
+j Qn
+ji − O2[] n−1
+i Qn
+ij + Mji() .
+(16)
+The scheme is forward Euler in terms of the concentrations. We
+use the ﬂow values calculated at the next time step since we have
+them available via Ohm ’s law after updating the pressures with
+Equation 15 .
+3 RESULTS AND DISCUSSION
+In this section, we present and discuss results from our numerical
+simulations. As mentioned in Subsection 2.3 ,1 0 ﬁxed point
+iterations per time step are performed on Equation 15 to avoid
+nonphysical oscillations caused by the nonlinear fenestration
+conductance. The duration of the cardiac cycle is set to T =
+0.016 min and is determined by stroke volume and cardiac output
+data from Fontan patients reported by Liang et al. ( Liang et al.,
+2014) (see Table 3 ). In particular, we calculated this parameter
+using a stroke volume index of 0.04 L m
+−2 and a cardiac index of
+2.5 L min−1 m−2. As a result of the model calibration process (to
+be described below) which determines dead volumes,
+compliances, and initial pressures, the total blood volume used
+in all simulations is 5 L. Initial oxygen concentrations in all
+compliance chambers are set to γ = 0.201 L of oxygen per L of
+blood. The choice of initial oxygen concentrations has no effect
+on the periodic steady state that is eventually reached. Mean
+values of variables reported below correspond to an average taken
+over the last three cardiac cycles of the simulation.
+3.1 Model Calibration With a Closed
+Fenestration
+We ﬁrst describe the calibration of our model using
+hemodynamic data from Fontan patients, with the goal of
+deriving a baseline set of parameters. In this case, we use
+1,000 time steps per cardiac cycle, and simulations are run for
+40 cardiac cycles. This duration is long enough to ensure periodic
+steady states are reached for all hemodynamic variables, which
+are needed for the model calibration. The model is calibrated,
+with the fenestration closed, to a data set provided by Liang et al.
+(Liang et al., 2014). Tables 1, 2 display the parameters used within
+the calibrated model. Table 3 shows clinical variables calculated
+from our calibrated model compared to those reported by Liang
+et al. (Liang et al., 2014 ). Calibration was done by manual tuning
+with normal circulation parameters used as initial guesses. The
+duration of the cardiac cycle is ﬁxed to 0.016 min for the model
+calibration procedure. Variables that incorporate blood volume
+are indexed to a body surface area of 1.5 m
+2. We remark that the
+TABLE 1 | Parameters for the circulation model. Abbreviations: s, systemic
+organs; p, pulmonary; ov, out ﬂow valve; av, atrium/ventricle valve; fo, Fontan
+connection; sa, systemic arteries; pa, pulmonary arteries; sv, systemic veins; pv,
+pulmonary veins.
+Parameters Resistance ( R) Dead Volume ( V
+d) Compliance ( C)
+Units mmHg min L −1 L L mmHg −1
+s 20.78 ——
+p 0.5517 ——
+ov 0.20 ——
+av 0.01 ——
+fo 0.01 ——
+sa — 0.7051 7.333 × 10 –4
+pa — 0.0930 0.00412
+sv — 2.869 0.0990
+pv — 0.1475 0.01
+TABLE 2 | Parameters for the time varying ventricular compliance in the
+heart model.
+Parameters Symbol Units Ventricle
+Minimal elastance Emin mmHg L −1 79.52
+Maximal elastance Emax mmHg L −1 5,232
+systolic exponent m1 — 1.32
+diastolic exponent m2 — 27.4
+Systolic time constant τ1 min 0.269 × T
+Diastolic time constant τ2 min 0.452 × T
+Dead volume Vd L 0.028
+Period of heartbeat T min 0.016
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679955
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p6]]
+outﬂow valve resistance is important for generating a gradual
+transition from isovolumetric contraction to ventricular ejection.
+This resistance parameter was chosen so that the peak pressure
+gradient between the ventricle and aorta during the open state of
+the valve is approximately 8 mmHg, as suggested in Mynard et al.
+(Mynard et al., 2012 ). Furthermore, the value for the out ﬂow
+valve resistance used here is close to that used for the non-stenotic
+aortic valve case in Wisneski et al. ( Wisneski et al., 2020 ). In
+general, variables from our baseline model match well with the
+clinical data.
+Based on a report by Ohuchi, the calibrated variables from
+our model correspond to a “late-surviving ” and “excellent-
+surviving” Fontan patient ( Ohuchi, 2017 ). “Late-surviving ”
+refers to a follow-up of at least 15 years after the Fontan
+operation, and “excellent-surviving ” is characterized by a
+central venous pressure of 10 mmHg, a cardiac index of
+2.6 L min
+−1 m−2,a ne n dd i a s t o l i cv o l u m ei n d e xo f7 0 m l m−2,
+a n da ne j e c t i o nf r a c t i o no f5 5 %( r e f e rt oT a b l e1i n(Ohuchi,
+2017)). These hemodynamic values align well with those from
+our calibrated model. Figure 2 shows results from our calibrated
+model with a closed fenestration. The left panel depicts pressure
+waveforms for the ventricle and systemic arteries over three
+????????????Ms??????ﬁ????L
+volume loop.
+3.2 Blood and Oxygen Transport With an
+Open Fenestration
+In this section, we explore the effect of an open fenestration on
+both hemodyamic and oxygen transport variables. In these cases,
+we use 100 time steps per cardiac cycle and simulations are run
+for 4,000 cardiac cycles. This duration is long enough to ensure
+periodic steady states are reached for all hemodynamic and
+oxygen transport variables. As described in Subsection 2.2 ,
+the baseline value for oxygen consumption in our models is
+calculated from Fick ’s law via Equation 13 , assuming 60%
+saturation in the systemic veins and using the systemic ﬂow
+Q
+s from the calibrated model with the closed fenestration. These
+choices result in a baseline oxygen consumption value of Msa,sv =
+−OMRQRU?k?−PM?s??????ﬂ
+through the systemic and pulmonary beds, and in practice
+their corresponding resistances might change in response to
+these changes in ﬂow. However, all parameters, except the
+fenestration size, remain ﬁxed for the following experiments.
+TABLE 3 | Hemodynamic variables calculated from our calibrated model with a closed fenestration, compared to the clinical data reported by Liang et al. ( Liang et al., 2014).
+Based on a report by Ohuchi, our model ’s vena cava mean pressure, cardiac index, end diastolic volume index, and ejection fraction are all within the range of a “late-
+surviving” and “excellent-surviving” Fontan patient ( Ohuchi, 2017 ). The indexing in the ﬁrst four variables assumes a body surface area of 1.5 m 2.
+Variable Our model Clinical data reported
+in ( Liang et al., 2014 )
+cardiac index (L min −1 m−2) 2.683 2.9, 2.1
+stroke volume index (ml m −2) 42.93 39,40
+end diastolic volume index (ml m −2) 75.91 72, 76
+end systolic volume index (ml m −2) 32.98 33, 36
+end systolic pressure (mmHg) 111.8 —
+end diastolic pressure (mmHg) 6.828 6.6
+vena cava mean pressure (mmHg) 9.347 8
+pulse pressure (mmHg) 56.52 54
+systemic artery systolic pressure (mmHg) 118.2 124
+systemic artery diastolic pressure (mmHg) 61.68 70
+systemic artery mean pressure (mmHg) 92.99 88
+pulmonary artery mean pressure (mmHg) 9.306 9
+FIGURE 2 | Results from our calibrated model with a closed fenestration. Three pressure waveforms from the end of the simulation are shown in panel (A) and a
+volume loop for the single ventricle is shown in panel (B). The end-systolic and end-diastolic parts of the pressure-volume loop are indicated by the red and black markers
+respectively.
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679956
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p7]]
+This modeling choice stems from the hypothesis that Fontan
+patients have impaired responsiveness of their vascular beds to
+changes in ﬂow ( Ciliberti et al., 2012 ). For example, Ridderbos
+et al. identi ﬁed pulmonary vascular remodeling in Fontan
+patients and concluded that such changes might impact
+pulmonary vasodilation ( RidderbosRidderbos et al., 2015 ).
+Future work will incorporate variable systemic and pulmonary
+resistance parameters if clinical data is available and indicates this
+possibility. To separately address possible physiologic changes in
+parameters as a result of the fenestration, Subsection 3.3
+describes a sensitivity analysis of our models.
+Figure 3 shows fenestration ﬂow waveforms for two different
+fenestration sizes. The left panel corresponds to a fenestration
+with diameter equal to 4 mm and the right panel corresponds to a
+diameter of 8 mm. The pulmonary vascular resistance is set to our
+baseline value of R
+?\?OMTTPV?g??k?−PM?`?
+model allows for bi-directional ﬂows, the fenestration ﬂow
+throughout the cardiac cycle is exclusively from the systemic
+veins to the pulmonary veins, with more ﬂow occurring in the
+larger fenestration. Note that the fenestration ﬂow is roughly
+proportional to the cross-sectional area of the fenestration, since
+it is approximately multiplied by four when the diameter of the
+fenestration approximately doubles. This makes sense, since ﬂow
+proportional to area means that velocity is constant, as we would
+expect from the Bernoulli relation for a given pressure difference.
+At larger fenestration sizes, however, the pressure difference
+would be expected to diminish, and the ﬂow would eventually
+saturate at some level that is independent of the fenestration size.
+Figures 4 , 5 show results from our models with the oxygen
+consumption parameter M
+sa,sv set to the baseline value. Sections
+of some curves are opaque and refer to fenestration sizes that
+result in systemic venous saturations less than 35%. To explore
+the effect of pulmonary resistance on hemodynamic and oxygen
+transport variables, we consider ﬁve values for the resistance that
+are equally spaced around the baseline value of R
+p =
+OMTTPV?g??k−PM?s?????
+pulmonary vascular resistances measured clinically in Fontan
+patients, e.g. the interquartile range 0.733 – 1.33 mmHg min L
+−1
+for the pulmonary vascular resistance of adults without a failing
+Fontan reported by Sallmon et al. (adjusting for a body surface
+area of 1.5 m
+2)( Sallmon et al., 2021 ). All variables are plotted as
+functions of the fenestration diameter. The range of fenestration
+diameters considered here, from 0 – 8 mm, contains the range of
+diameters seen in clinical reports, see e.g. ( Grosse-Wortmann
+et al., 2013 ; Vyas et al., 2007 ; Rychik et al., 1997 ). Figures 4A,B
+show systemic ﬂow and systemic venous pressure. As expected,
+an increase in fenestration size leads to an increase in systemic
+ﬂow and a decrease in systemic venous pressure. Changes in these
+variables are more pronounced for higher pulmonary vascular
+resistances. Figures 4C,D show the mean ﬂow through the
+fenestration and the systemic venous oxygen saturation. In
+general, fenestration ﬂow is larger for higher pulmonary
+vascular resistances, and it increases monotonically with
+fenestration diameter. The values for mean fenestration ﬂow
+from our models are physiologically reasonable when
+compared to ﬂows measured in patients via phase contrast
+cardiac magnetic resonance imaging ( Grosse-Wortmann et al.,
+2013). Blood ﬂowing through the fenestration is not
+reoxygenated, so larger fenestration sizes and pulmonary
+vascular resistances result in lower systemic venous
+saturations. Note that the systemic venous oxygen saturation
+for the closed fenestration and for the case R
+p =
+0.5517 mmHg min L−1 is 60%, which is precisely how the
+baseline oxygen consumption parameter for this set of
+experiments was determined. Another reason we examine
+systemic venous saturation is to ensure it is positive for a
+given set of parameters, since there is nothing in the model to
+preclude this variable from going negative. Figures 5A,B show
+pulmonary ﬂow and systemic arterial pressure respectively. As
+expected, pulmonary ﬂow decreases for increasing fenestration
+ﬂow, which corresponds to increasing fenestration size. The
+overall increase in the cardiac output for larger fenestration
+sizes leads to an increase in the systemic arterial pressure.
+Figure 5C-E show systemic arterial oxygen saturation,
+systemic oxygen availability, and effective oxygen availability.
+Systemic availability is de ﬁned as the product of systemic ﬂow
+and arterial oxygen saturation, see e.g. Barnea et al. ( Barnea et al.,
+1994). As suggested by Koeken et al., effective oxygen availability
+is an important variable to consider in the presence of shunts
+(Koeken et al., 2012 ). Since blood through the fenestration is not
+reoxygenated, the effective availability disregards this shunt ﬂow.
+It is de ﬁned with respect to stream of blood which is
+reoxygenated, i.e. the product of the pulmonary ﬂow and the
+maximum volumetric oxygen concentration. The trends in
+ehftqd?R??e?ﬂ???????????????q?\?OMTTPV?g??k?−PM
+The waveform in panel (A) corresponds to a fenestration with diameter equal to 4 mm, and the waveform in panel (B) corresponds to a diameter of 8 mm.
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679957
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p8]]
+systemic arterial oxygen saturation are the same as for the
+systemic venous saturation. For systemic oxygen availability,
+all curves monotonically decrease with increasing fenestration
+diameter. The trends for effective oxygen availability are similar;
+this variable decreases as the fenestration size increases. This is
+because larger fenestration ﬂow leads to smaller pulmonary ﬂow,
+resulting in a decrease in effective oxygen availability. A more
+dramatic decrease in systemic oxygen availability can be seen for
+larger pulmonary resistances. The monotonic nature of the
+systemic oxygen availability curve changes when we consider
+parameter values corresponding to a “high-risk” Fontan patient,
+to be described below.
+High pulmonary vascular resistance and low cardiac output
+have been identiﬁed as important risk factors for Fontan patients
+(Lemler et al., 2002 ; Egbe et al., 2017 ). More speci ﬁcally, a
+pulmonary vascular resistance index
+1 (PVRI) greater than
+2 mmHg min L−1 m2 and a cardiac index less than
+2.5 L min−1 m−2 are criteria that have been used to characterize
+high-risk patients ( Egbe et al., 2017 ). Referring to Table 3 , the
+PVRI and cardiac index for our baseline model are
+3.465 mmHg min L
+−1 m2 and 2.686 L min −1 m−2 respectively.
+According to Egbe et al., our baseline model aligns with the
+cohort containing more favorable Fontan physiology. In the next
+set of experiments, we consider pulmonary vascular resistance
+values that are larger than our baseline value in order to generate
+models that correspond to “high-risk” Fontan physiology. The
+resistance values considered here are close to the interquartile
+range for Fontan patients reported in Agnoletti et al.
+(1.33– 3.13 mmHg min L
+−PH?????
+area of 1.5 m 2 (Agnoletti et al., 2017 ). Figures 6 , 7 and show
+analogous results to Figures 4, 5 except for pulmonary resistance
+values larger than our baseline value. Note that an increase in
+pulmonary vascular resistance substantially decreases the cardiac
+output. In these cases, we set the oxygen consumption parameter
+to M
+sa,sv = −0.2 L min−1 so that venous saturations remain in a
+reasonable range. Otherwise, the drop in cardiac output, with a
+ﬁxed oxygen consumption, would lead to small and/or negative
+systemic venous saturations for a large range of fenestration sizes.
+This parameter value was chosen with reference to the clinical
+data reported in Hijazi et al., see e.g. patient 6 ( Hijazi et al., 1992).
+In general, the fenestration has a more substantial impact on
+hemodynamics and oxygen transport for larger pulmonary
+vascular resistances. The trends seen here are similar to those
+in Figures 4 , 5, except for systemic oxygen availability. In these
+high-risk cases (with larger pulmonary vascular resistance,
+smaller cardiac index, and smaller oxygen consumption), the
+systemic oxygen availability curve is relatively constant, instead of
+decreasing, for an initial range of fenestration sizes. The increase
+in cardiac output, as a result of the open fenestration, is able to
+compensate for the decrease in systemic arterial oxygen
+saturation, at least for small enough fenestration diameters.
+ehftqd?S??q???????−OMRQRU?k??−PM?o???q??????
+considered. Mean values for different hemodynamic and oxygen transport variables are plotted as functions of the fenestration diameter. (A) systemic ﬂow, (B) systemic
+venous pressure, (C) fenestration ﬂow, (D) venous oxygen saturation.
+1PVRI calculated here does not directly correspond to the Rp parameter in our
+models. In Egbe et al., it is de ﬁned as the mean pulmonary artery pressure divided
+by the cardiac index ( Egbe et al., 2017 ), while the typical de ﬁnition would be the
+pressure gradient across the lungs divided by the pulmonary ﬂow index. Note that
+for a closed fenestration, the pulmonary ﬂow index and cardiac index are equal.
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679958
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p9]]
+These results point towards the possibility of fenestrating high-
+risk patients to achieve lower pulmonary artery/systemic venous
+pressures and higher cardiac output without the cost of a decrease
+in systemic oxygen availability. Note that the fenestration ﬂow,
+which is larger in these cases, seems to increase more slowly for
+larger fenestration sizes. This trend might be a result of the
+nonlinear fenestration resistance, which is larger for larger ﬂows.
+The in ﬂection point coincides with a very modest peak in
+systemic oxygen availability, as mentioned above. However,
+the effective oxygen availability, the variable important for
+describing oxygen transport, monotonically decreases with the
+fenestration diameter. While a fenestration will result in higher
+systemic ﬂows, it will not result in a better supply of oxygen. A
+fenestration might only bene ﬁt patients because systemic
+perfusion and blood pressure might be easier to maintain in
+exercise, while systemic venous pressure will be lower than in the
+non-fenestrated case.
+The effect of the fenestration on hemodynamic and oxygen
+transport variables, as predicted by our models, is consistent with
+trends seen in clinical case reports (Rychik et al., 1997; Vyas et al.,
+2007). Vyas et al. and Rychik et al. report on patients that were
+given a fenestration for the mitigation of complications. Their
+papers include some clinical data collected both pre- and post-
+fenestration. According to their data, the fenestration increases
+cardiac output and decreases arterial saturation. These changes
+are also predicted by our models. Although the clinical data is
+somewhat variable, the magnitude of these changes for single-
+defect fenestrations, which range in size from 4 – 8 mm, are close
+to what is seen in our models. A limitation of our approach is the
+lack of precise calibration to a pre-fenestration data set in order to
+ehftqd?T??q???????−OMRQRU?k??−PM?o???q??????
+considered. Mean values for different hemodynamic and oxygen transport variables are plotted as functions of the fenestration diameter. Note that b oth the systemic
+oxygen availability and effective oxygen availability curves are monotonically decreasing as the fenestration diameter increases. (A) pulmonary ﬂow, (B) systemic arterial
+pressure, (C) arterial oxygen saturation, (D) systemic oxygen availability, (E) effective oxygen availability.
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 8679959
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p10]]
+perform model validation with post-fenestration data. In future
+work, it will be necessary to procure data for this purpose.
+3.3 Sensitivity Analysis
+The previous section considered variations in several
+hemodynamic and oxygen transport variables as functions of
+the fenestration size, pulmonary vascular resistance, and oxygen
+consumption parameters. In reality, the introduction of a
+fenestration may induce physiologic changes in many of the
+parameters in the model. To quantify the impact these changes
+might have on important variables, we perform a sensitivity
+????Y?PH????
+corresponding to R
+p = 0.5517 mmHg min L −1 and a closed
+fenestration, 2) with Rp = 0.5517 mmHg min L −1 and a
+fenestration diameter of 4 mm, and 3) with Rp =
+2.7585 mmHg min L−1 and a fenestration diameter of 4 mm.
+Cases 1 and 2 use an oxygen consumption value of Msa,sv =
+−OMRQRU?k?−P???R?????lK?\?−OMQ?k?−PM
+Since a theme of this paper is the impact of the fenestration on
+systemic venous pressure, systemic oxygen availability, and
+effective oxygen availability, we consider these three variables
+in the analysis that follows.
+For a variable g = g(X) as a function of a parameter X, the
+sensitivity with respect to the parameter X, evaluated at a
+nomimal value X
+0,i sd e ﬁned to be:
+X0
+gX 0()
+zg
+zX
+⏐⏐⏐⏐⏐⏐⏐
+⏐
+X/equals X0
+.
+We approximate the sensitivity numerically by using a forward
+difference approximation to the partial derivative:
+X0
+gX 0()
+zg
+zX
+⏐⏐
+⏐⏐⏐⏐⏐
+⏐
+X/equals X0
+≈ X0
+gX 0()
+gX() − gX 0()
+X − X0
+.
+In the above formula, X is taken to be 1.1 X0, i.e. a ten percent
+perturbation in the nominal parameter X0. For each of the three
+cases, we ﬁrst compute results from a single simulation with the
+nominal parameter values. Then, we perform a sequence of
+simulations in which each parameter is independently increased
+t ot e np e r c e n ta b o v ei t sn o m i n a lv a l u e .W eu s et h es a m en u m e r i c a l
+setup as described in Subsection 3.2.
+Tables 4– 6 show sensitivities for the systemic venous pressure,
+systemic oxygen availability and the effective oxygen availability
+with respect to the main model parameters. Each row refers to one
+of the three cases described above. The most signiﬁcant parameter
+for determining the systemic venous pressure is the compliance of
+the systemic veins. The next largest sensitivities include those with
+respect to the other compliances, as well as those corresponding to
+the systemic and pulmonary resistances. In case 3, corresponding
+to an open fenestration and larger pulmonary resistance, the
+sensitivity of the systemic venous pressure with respect to the
+systemic venous compliance increases relative to cases 1 and 2. The
+sign of the sensitivities for the compliance parameters are negative,
+indicating (at least locally around the nominal value) that an
+increase in compliance leads to a decrease in systemic venous
+pressure.
+In all cases, the systemic oxygen availability and effective
+oxygen availability also appear to be most sensitive to the
+systemic venous compliance. Note that for case 1, the systemic
+and effective oxygen availabilities and their corresponding
+sensitivities are equal since the shunt ﬂow is zero. Both
+ehftqd?U??q???????−OMQ?k??−PM?o???q???????M
+Mean values for different hemodynamic and oxygen transport variables are plotted as functions of the fenestration diameter. (A) systemic ﬂow, (B) systemic venous
+pressure, (C) fenestration ﬂow, (D) venous oxygen saturation.
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 86799510
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p11]]
+variables are very sensitive to the systemic and pulmonary
+resistances, likely due to the signi ﬁcant impact of these
+parameters on cardiac output. The sensitivities with respect to
+the minimum and maximum elastances of the single ventricle are
+also notable. Notice that the sensitivities of the oxygen availabilities
+with respect toE
+min are negative, while the sensitivities with respect
+ehftqd?V??q???????−OMQ?k??−PM?o???q???????M
+Mean values for different hemodynamic and oxygen transport variables are plotted as functions of the fenestration diameter. Note that the systemic o xygen availability
+curves achieve an optimal value for a nonzero fenestration size. However, the effective oxygen availability, which is important for quantifying the supply of oxygen,
+monotonically decreases as the fenestration size increases. (A) pulmonary ﬂow, (B) systemic arterial pressure, (C) arterial oxygen saturation, (D) systemic oxygen
+availability, (E) effective oxygen availability.
+TABLE 4 | Sensitivities for cases 1, 2, and 3 computed for the systemic venous
+pressure.
+Rs Rp Rav Rov Rfo Csa
+Case 1 −5.6e-02 3.9e-02 4.5e-04 −2.2e-04 8.7e-04 −5.8e-02
+Case 2 −5.7e-02 3.4e-02 3.9e-04 −2.2e-04 7.6e-04 −5.9e-02
+Case 3 −4.4e-02 3.8e-02 9.0e-06 −1.8e-04 2.1e-04 −4.0e-02
+Cpa Csv Cpv Emin Emax
+Case 1 −3.3e-02 −7.4e-01 −6.4e-02 5.0e-02 7.3e-03
+Case 2 −3.3e-02 −7.4e-01 −6.7e-02 5.3e-02 7.1e-03
+Case 3 −3.5e-02 −7.9e-01 −4.5e-02 4.2e-03 1.3e-02
+TABLE 5 | Sensitivities for cases 1, 2, and 3 computed for the systemic oxygen
+availability.
+Rs Rp Rav Rov Rfo Csa
+Case 1 −2.1e-01 −2.3e-01 −3.7e-03 −1.1e-03 −4.1e-03 −3.1e-02
+Case 2 −2.2e-01 −2.5e-01 −4.5e-03 −1.2e-03 −4.4e-03 −3.4e-02
+Case 3 −1.7e-01 −5.6e-01 −3.0e-03 −9.3e-04 −2.0e-03 −2.7e-02
+Cpa Csv Cpv Emin Emax
+Case 1 −3.3e-02 −7.4e-01 −4.7e-02 −6.1e-01 1.8e-01
+Case 2 −3.5e-02 −7.9e-01 −5.9e-02 −6.7e-01 2.0e-01
+Case 3 −4.3e-02 −9.7e-01 −8.3e-03 −5.2e-01 1.5e-01
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 86799511
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p12]]
+to Emax are positive. These signs are consistent with the notion that
+a stiffer chamber in diastole (corresponding to larger Emin)
+experiences less diastolic ﬁlling, leading to smaller cardiac
+output and availability. In contrast, stronger chamber
+contraction (corresponding to larger E
+max) leads to an increase
+cardiac output, pulmonary ﬂow, and oxygen availability.
+In summary, the sensitivity analysis of our models
+indicates the importance of the systemic and pulmonary
+resistances as well as the single ventricle contraction
+parameters on oxygen availabilities and the systemic
+venous pressure. Although care was taken to calibrate the
+model with a closed fenestration to a clinical data set from
+Fontan patients, results for the open fenestration cases will
+depend on the chosen parameters. The pulmonary vascular
+resistance has been cited as important parameter in
+determining Fontan hemodynamics ( Ciliberti et al., 2012 ),
+and its signi ﬁcance is demonstrated in our sensitivity analysis
+for the systemic and effective oxygen availabilities. For this
+reason, we focused on varying this parameter in order to
+quantify its impact across a range of fenestration sizes.
+General trends predicted from our models in arterial
+oxygen saturation and cardiac output, between the closed
+and open fenestration cases, are consistent with clinical
+case reports ( Rychik et al., 1997 ; Vyas et al., 2007 ). To our
+knowledge, most papers exploring the fenestration
+intervention do not have the necessary pre-fenestration
+data for accurate model calibration. In turn, a limitation of
+our models is the lack of precise calibration to a pre-
+fenestration data set in order to predict post-fenestration
+hemodynamics, for the purpose of model validation. Future
+work will entail the collection of this data and the patient-
+speci ﬁc calibration of the model to Fontan patients, in order to
+predict the fenestration ’s impact on their hemodynamics.
+4 CONCLUSION
+In this paper, we developed a pulsatile compartmental model of
+the Fontan circulation that describes blood ﬂow and oxygen
+transport. It also incorporates a fenestration between the
+systemic and pulmonary veins. The model was calibrated to
+clinical data with the fenestration closed in order to create a
+baseline set of parameters.
+We then studied the impact of an open fenestration on several
+hemodynamic and oxygen transport variables. An open
+fenestration decreased the pulmonary artery pressure and
+increased cardiac output, with larger impacts on these
+variables seen for larger values of the pulmonary vascular
+resistance. For our baseline oxygen consumption value and for
+pulmonary vascular resistances close to the baseline value,
+systemic oxygen availability monotonically decreased as a
+function of the fenestration diameter. For pulmonary vascular
+resistances that are typical of at-risk patients, however, the
+systemic oxygen availability for small fenestration sizes
+remained relatively constant until a critical size was reached,
+at which point the availability dropped quickly. This trend was
+accompanied by a decrease in systemic venous ( ≈ pulmonary
+arterial) pressure. Furthermore, as the fenestration size increased,
+the effective oxygen availability decreased in all cases. Thus, the
+reason for fenestrating the Fontan circulation may not so much
+be to affect systemic or effective oxygen availability, but rather to
+ensure that systemic oxygen availability is not reduced by an
+intervention with a different bene ﬁt– the reduction of systemic
+venous pressure.
+DATA AVAILABILITY STATEMENT
+The original contributions presented in the study are included in
+the article, further inquiries can be directed to the corresponding
+author.
+AUTHOR CONTRIBUTIONS
+All authors contributed to conception and design of the study.
+CP, ZA, and LJ executed simulations and wrote the ﬁrst draft of
+the manuscript. All authors edited the manuscript.
+FUNDING
+This work was supported in part by the Research Training Group
+in Modeling and Simulation funded by the National Science
+Foundation via grant RTG/DMS-1646339.
+ACKNOWLEDGMENTS
+The authors thank the reviewers for many helpful comments that
+greatly improved the manuscript.
+TABLE 6 | Sensitivities for cases 1, 2, and 3 computed for the effective oxygen
+availability.
+Rs Rp Rav Rov Rfo Csa
+Case 1 −2.1e-01 −2.3e-01 −3.7e-03 −1.1e-03 −4.1e-03 −3.1e-02
+Case 2 −2.2e-01 −2.9e-01 −5.7e-03 −1.2e-03 −5.2e-03 −3.3e-02
+Case 3 −1.5e-01 −5.7e-01 −3.4e-03 −8.2e-04 −2.1e-03 −2.4e-02
+Cpa Csv Cpv Emin Emax
+Case 1 −3.3e-02 −7.4e-01 −4.7e-02 −6.1e-01 1.8e-01
+Case 2 −3.4e-02 −7.7e-01 −7.4e-02 −6.5e-01 2.0e-01
+Case 3 −3.8e-02 −8.5e-01 −1.4e-02 −4.6e-01 1.4e-01
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 86799512
+Ahmad et al. Optimal Fenestration of the Fontan
+[[p13]]
+REFERENCES
+Agnoletti, G., Gala, S., Ferroni, F., Bordese, R., Appendini, L., Pace Napoleone,
+C., et al. (2017). Endothelin Inhibitors Lower Pulmonary Vascular Resistance
+and Improve Functional Capacity in Patients with Fontan Circulation.
+J. Thorac. Cardiovasc. Surg. 153 (6), 1468 – 1475. doi:10.1016/j.jtcvs.2017.
+01.051
+Barnea, O., Austin, E. H., Richman, B., and Santamore, W. P. (1994). Balancing the
+Circulation: Theoretic Optimization of Pulmonary/systemic Flow Ratio in
+Hypoplastic Left Heart Syndrome. J. Am. Coll. Cardiol. 24 (5), 1376 – 1381.
+doi:10.1016/0735-1097(94)90123-6
+Barracano, R., Merola, A., Fusco, F., Scognamiglio, G., and Sarubbi, B. (2022).
+Protein-losing Enteropathy in Fontan Circulation: Pathophysiology, Outcome
+and Treatment Options of a Complex Condition. Int. J. Cardiol. Congenit.
+Heart Dis. 7, 100322. doi:10.1016/j.ijcchd.2022.100322
+Ciliberti, P., Schulze-Neick, I., and Giardini, A. (2012). Modulation of Pulmonary
+Vascular Resistance as a Target for Therapeutic Interventions in Fontan
+Patients: Focus on Phosphodiesterase Inhibitors. Future Cardiol. 8 (2),
+271– 284. doi:10.2217/fca.12.16
+Conover, T., Hlavacek, A. M., Migliavacca, F., Kung, E., Dorfman, A., Figliola, R. S.,
+et al. (2018). An Interactive Simulation Tool for Patient-speci ﬁc Clinical
+Decision Support in Single-Ventricle Physiology. J. Thorac. Cardiovasc.
+Surg. 155 (2), 712 – 721. doi:10.1016/j.jtcvs.2017.09.046
+DeGroff, C. G. (2008). Modeling the Fontan Circulation: where We Are and where
+We Need to Go. Pediatr. Cardiol. 29 (1), 3– 12. doi:10.1007/s00246-007-9104-0
+Egbe, A. C., Connolly, H. M., MirandaAmmash, W. R., Ammash, N. M.,
+HaglerVeldtman, D. J., Veldtman, G. R., et al. (2017). Hemodynamics of
+Fontan Failure: The Role of Pulmonary Vascular Disease. Circ. Heart Fail
+10 (12), e004515. doi:10.1161/CIRCHEARTFAILURE.117.004515
+Feldt, R. H., Driscoll, D. J., Offord, K. P., Cha, R. H., Perrault, J., Schaff, H. V., et al.
+(1996). Protein-losing Enteropathy after the Fontan Operation. J. Thorac.
+Cardiovasc. Surg. 112 (3), 672 – 680. doi:10.1016/s0022-5223(96)70051-x
+Fontan, F., and Baudet, E. (1971). Surgical Repair of Tricuspid Atresia. Thorax 26
+(3), 240 – 248. doi:10.1136/thx.26.3.240
+Grosse-Wortmann, L., Dragulescu, A., Drolet, C., Chaturvedi, R., Kotani, Y.,
+Mertens, L., et al. (2013). Determinants and Clinical Signi ﬁcance of Flow
+via the Fenestration in the Fontan Pathway: a Multimodality Study. Int.
+J. Cardiol. 168 (2), 811 – 817. doi:10.1016/j.ijcard.2012.10.008
+Han, S. W., Puelz, C., Rusin, C. G., Penny, D. J., Ryan, C., and Peskin, C. S. (2021).
+Computer Simulation of Surgical Interventions for the Treatment of Refractory
+Pulmonary Hypertension .
+Hijazi, Z. M., Fahey, J. T., Kleinman, C. S., Kopf, G. S., and Hellenbrand, W. E.
+(1992). Hemodynamic Evaluation before and after Closure of Fenestrated
+Fontan. An Acute Study of Changes in Oxygen Delivery. Circulation 86 (1),
+196– 202. doi:10.1161/01.cir.86.1.196
+Hoppensteadt, F. C., and Peskin, C. S.(2013). Mathematics in Medicine and the Life
+Sciences, 10. Springer Science & Business Media.
+Koeken, Y., KuijpersKuijpers, N. H. L., Lumens, J., Arts, T., and Delhaas, T. (2012).
+Atrial Septostomy Bene ﬁts Severe Pulmonary Hypertension Patients by
+Increase of Left Ventricular Preload Reserve. Am. J. Physiology-Heart
+Circulatory Physiology 302 (12), H2654 – H2662. doi:10.1152/ajpheart.00072.
+2012
+Lemler, M. S., Scott, W. A., Leonard, S. R., Stromberg, D., and Ramaciotti, C.
+(2002). Fenestration Improves Clinical Outcome of the Fontan Procedure: A
+Prospective, Randomized Study. Circulation 105 (2), 207 – 212. doi:10.1161/
+hc0202.102237
+Liang, F., Senzaki, H., Kurishima, C., Sughimoto, K., Inuzuka, R., and Liu, H.
+(2014). Hemodynamic Performance of the Fontan Circulation Compared with
+a Normal Biventricular Circulation: a Computational Model Study. Am.
+J. Physiology-Heart Circulatory Physiology 307 (7), H1056 – H1072. doi:10.
+1152/ajpheart.00245.2014
+Marsden, A. L., BernsteinBernstein, A. J., Reddy, V. M., Shadden, S. C., Spilker, R.
+L., Chan, F. P., et al. (2009). Evaluation of a Novel Y-Shaped Extracardiac
+Fontan Baf ﬂe Using Computational Fluid Dynamics. J. Thorac. Cardiovasc.
+Surg. 137 (2), 394 – 403. doi:10.1016/j.jtcvs.2008.06.043
+Mondésert, B., Marcotte, F., Mongeon, F.-P., Dore, A., Mercier, L.-A., Ibrahim, R.,
+et al. (2013). Fontan Circulation: Success or Failure? Can. J. Cardiol. 29 (7),
+811– 820. doi:10.1016/j.cjca.2012.12.009
+Mynard, J. P., Davidson, M. R., Penny, D. J., and Smolich, J. J. (2012). A Simple,
+Versatile Valve Model for Use in Lumped Parameter and One-Dimensional
+Cardiovascular Models. Int. J. Numer. Method Biomed. Eng. 28 (6-7), 626– 641.
+doi:10.1002/cnm.1466
+Ohuchi, H. (2017). Where Is the “Optimal” Fontan Hemodynamics? Korean Circ.
+J. 47 (6), 842 – 857. doi:10.4070/kcj.2017.0105
+Pittman, R. N. (2016). “Regulation of Tissue Oxygenation,” in Colloquium Series on
+Integrated Systems Physiology: From Molecule to Function(Morgan & Claypool Life
+Sciences) doi:10.4199/C00140ED2V01Y201606ISP065
+Puelz, C., Acosta, S., Rivière, B., Penny, K. M., and Rusin, C. G. (2017). A
+Computational Study of the Fontan Circulation with Fenestration or
+Hepatic Vein Exclusion. Comput. Biol. Med. 89, 405 – 418. doi:10.1016/j.
+compbiomed.2017.08.024
+Ridderbos, F.-J. S., Wolff, D., Timmer, A., van Melle, J. P., Ebels, T., Dickinson, M.
+G., et al. (2015). Adverse Pulmonary Vascular Remodeling in the Fontan
+Circulation. J. Heart Lung Transplant. 34 (3), 404 – 413. doi:10.1016/j.healun.
+2015.01.005
+Rychik, J., Rome, J. J., and Jacobs, M. L. (1997). Late Surgical Fenestration for
+Complications after the Fontan Operation. Circulation 96 (1), 33 – 36. doi:10.
+1161/01.cir.96.1.33
+Rychik, J., Veldtman, G., Rand, E., Russo, P., Rome, J. J., Krok, K., et al. (2012). The
+Precarious State of the Liver after a Fontan Operation: Summary of a
+Multidisciplinary Symposium. Pediatr. Cardiol. 33 (7), 1001 – 1012. doi:10.
+1007/s00246-012-0315-7
+Sallmon, H., Ovroutski, S., Schleiger, A., Photiadis, J., Weber, S. C., Nordmeyer, J.,
+et al. (2021). Late Fontan Failure in Adult Patients Is Predominantly Associated
+with Deteriorating Ventricular Function. Int. J. Cardiol. 344, 87 – 94. doi:10.
+1016/j.ijcard.2021.09.042
+Tu, C., and Peskin, C. (1986). Hemodynamics in Congenital Heart Disease.
+Comput. Biol. Med. 16 (5), 331 – 359. doi:10.1016/0010-4825(86)90002-8
+Tu, C., and Peskin, C. S.(1989). Hemodynamics in Transposition of the Great
+Arteries with Comparison to Ventricular Septal Defect. Comput. Biol. Med. 19
+(2), 95 – 128. doi:10.1016/0010-4825(89)90003-6
+Vyas, H., Driscoll, D. J., AllisonCabalka, K., Frank, C., and Hagler, D. J. (2007).
+Results of Transcatheter Fontan Fenestration to Treat Protein Losing
+Enteropathy. Catheter. Cardiovasc. Interventions
+69 (4), 584 – 589. doi:10.
+1002/ccd.21045
+Wisneski, A. D., Wang, Y., Tobias, D., Hill, A. C., Pasta, S., Sack, K. L., et al. (2020).
+Impact of Aortic Stenosis on Myo ﬁber Stress: Translational Application of Left
+Ventricle-Aortic Coupling Simulation. Front. Physiology 1157, 4211. doi:10.
+3389/fphys.2020.574211
+Yang, W., Feinstein, J. A., and Marsden, A. L. (2010). Constrained Optimization of
+an Idealized Y-Shaped Baf ﬂe for the Fontan Surgery at Rest and Exercise.
+Comput. Methods Appl. Mech. Eng. 199 (33-36), 2135– 2149. doi:10.1016/j.cma.
+2010.03.012
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential con ﬂict of interest.
+Publisher’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their af ﬁliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Copyright © 2022 Ahmad, Jin, Penny, Rusin, Peskin and Puelz. This is an open-
+access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) and the copyright owner(s) are credited and that the
+original publication in this journal is cited, in accordance with accepted academic
+practice. No use, distribution or reproduction is permitted which does not comply
+with these terms.
+Frontiers in Physiology | www.frontiersin.org June 2022 | Volume 13 | Article 86799513
+Ahmad et al. Optimal Fenestration of the Fontan

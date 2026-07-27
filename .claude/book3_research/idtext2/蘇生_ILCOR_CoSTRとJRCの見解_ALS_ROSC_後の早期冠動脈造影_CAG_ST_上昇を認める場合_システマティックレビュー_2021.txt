@@ -1,0 +1,95 @@
+
+[[p1]]
+1 
+ 
+英語 日本語 
+Early CAG After ROSC (CoSTER2021 SysRev) ROSC 後の早期冠動脈造影（CAG）：ST 上昇を認める場合 
+Author : Ian R Drennan, et al. Advanced Life Support Task Force. 
+ 
+PICOST (Population, Intervention, Comparator, Outcome, 
+Study Designs and Timeframe) 
+ 
+Population: Unresponsive adults (>18 years of age) with ROSC 
+after cardiac arrest 
+Intervention: Emergency or early CAG with percutaneous 
+coronary intervention (PCI) if indicated; early CAG defined as 
+within 2 to 6 hours 
+Comparator: Delayed CAG defined as within 24hours; both time 
+intervals start at hospital arrival or from ROSC 
+Outcome: Any clinical outcome prioritized as critical 
+or important by the ALS Task Force 
+Study designs: RCTs and nonrandomized studies (non-RCTs, 
+interrupted time series, controlled before-and-after studies, 
+cohort studies) were eligible for inclusion. Unpublished studies 
+(eg, conference abstracts, trial protocols) were excluded. 
+Time frame: The original SysRev search included dates from 
+January 1990 through July 18, 2019, and the literature search 
+was updated on April 20, 2020. All languages were included as 
+PICOST  
+ 
+P:心停止後からROSCした反応のない成人患者（18歳以上）  
+ 
+I: 緊急または早期（2-6時間）に行われたCAGで、適応があれば冠動脈
+インターベンション（PCI）をおこなう。 
+ 
+C:24時間以内に行われた遅延CAG（病院到着時またはROSCした時点
+からの時間である） 
+ 
+O:ALSタスクフォースにより重大もしくは重要であると判断された臨
+床的転帰 
+ 
+S:RCTと観察研究（非RCT、分割時系列解析、前後比較研究、コホー
+ト研究）を対象とした。未出版の研究（学会抄録、臨床試験のプロ
+トコールなど）は除外した 
+ 
+T:英語の抄録がある、全ての言語で出版された研究を対象とした。文
+献検索は2020年4月20日まで 
+[[p2]]
+2 
+ 
+long as there was an English abstract. （CoSTR2022updateでは、文献検索は2022年1月7日まで） 
+Treatment recommendations 
+When CAG is considered for comatose postarrest patients 
+without ST-segment elevation, we suggest that either an early or 
+a delayed approach for angiography is reasonable (weak 
+recommendation, low-certainty evidence). 
+推奨と提案 
+ST上昇を伴う心拍再開後の昏睡状態の患者には、緊急または早期(病院
+到着時もしくはROSC後2-6時間)のCAGを提案する。 
+(優れた医療慣行に関する記述) 
+ 
+１． JRC の見解と解説（400-800 文字） 
+• ILCOR として成人の急性冠症候群（ACS）については AHA、ERC、JCS などのガイドラインが広く使用されており、その大分部において
+2020 年から ALS として取り扱いを中止し、JRC では蘇生ガイドライン 2020 に独自に ACS に関する SysRev を実施し勧告をおこなった。
+しかしながら成人の院外心停止患者の多くが虚血性心疾患を有しており、ROSC 後の CAG（適応があれば PCI）については ROSC 後のケア
+の一環として重要なトピックであるため ALS での CQ に採択されている。 
+• CoSTR2021 において SysRev が発表され、CoSTR2022 年に update を試みられたが、2020 年 5 月以降にエビデンスがなかったため、
+CoSTR2021 での SysRev に基づいての推奨を作成した。 
+• エビデンスは小規模の観察研究であり、エビデンスの確実性は低かったが有益性の強さは多くの研究で一貫していた。これらのエビデンス
+からは ROSC 後に ST 上昇を呈したすべての患者に当てはめることはできないが、STEMI に対する緊急または早期（病院到着時もしくは
+ROSC 後 2-6 時間）CAG は標準的診療となっている。さらに CoSTR2021 では CAG 実施時間が明記されていたため JRC 蘇生ガイドライン
+2020 の推奨を変更した。 
+• この推奨は、心停止患者を受け入れ系統的な ROSC 後の処置を行い、緊急または早期（病院到着時もしくは ROSC 後 2-6 時間）CAG をお
+こない、適応があればプライマリーPCI を実施可能な医療施設において意義がある。 
+• ROSC 後に ST 上昇を呈した患者の神経学的転帰を改善するためのケアの一環として標準化された心停止後のプロトコールに早期 CAG を
+おこなうことを推奨する。 
+• 日本循環器学会 2018 年急性冠症候群ガイドラインにおいても蘇生後に ST 上昇をした患者に対するプライマリーPCI の施行は、生命予後
+[[p3]]
+3 
+ 
+および神経学的転帰の改善の観点から推奨されている。 
+• 我が国では緊急 CAG を目指しており、結果的に早期（病院到着時もしくは ROSC 後 2-6 時間）CAG になることもあるが、緊急または早期
+（病院到着時もしくは ROSC 後 2-6 時間）の CAG が推奨される。 
+•  
+ 
+２．わが国への適用 
+JRC 蘇生ガイドライン 2020 の内容を変更する。 
+「心原性が疑われる院外心停止 ROSC 後に 12 誘導心電図で ST 上昇を呈した患者に対して、緊急または 6 時間以内の CAG による評価を行
+い、適応に応じて PCI を行うことを推奨する。（強い推奨）」 
+ 
+３．担当メンバー 
+作業部会員：（五十音順）石井賢造、金子一郎、西崎史恵、西成真琴、平井信孝 
+共同座長：（五十音順）鈴木昌、高橋弘、福田龍将、真弓俊彦、森村尚登 
+担当編集委員：（五十音順）大下慎一郎、黒田泰弘 
+顧問：相引眞幸、野々木宏 
+編集委員長：坂本哲也 

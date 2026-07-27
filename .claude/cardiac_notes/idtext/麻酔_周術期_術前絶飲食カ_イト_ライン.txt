@@ -1,0 +1,233 @@
+
+[[p1]]
+ 
+ 
+  1 / 6  
+公益社団法人日本麻酔科学会 術前絶飲食ガイドライン 
+ 
+PMはじめに?
+待機的全身麻酔下手術では，麻酔導入時の嘔吐および誤嚥の発現が危惧されるため，手
+術前は長時間の絶飲食が行われてきた．しかし，長時間の絶飲食は，患者に口渇感や空腹
+感などの苦痛を与え，脱水や周術期の合併症を増やす可能性があり，近年，多くの研究で
+短時間絶飲水の安全性と有効性が実証されてきた．欧米各国では術前絶飲食に関するガイ
+ドラインが作成され，術前絶飲食時間の短縮が推奨されてきた．昨今，本邦でも術前絶飲
+食時間を見直す動きが広まりつつある．我々は本邦における安全な術前絶飲食時間の短縮
+に寄与することを目的に本ガイドラインを作成した． 
+ 
+2.文献検索方法，エビデンスレベル，推奨度 
+1980 年 1 月～2011 年 12 月の間に発表された論文を対象に preoperative，fasting，
+guideline， oral rehydration therapy，milk，light meal をキーワードに MEDLINE，Cochrane 
+Library をデータベースとして検索した．また，海外で発表されている術前絶飲食ガイドラ
+インも参考とした． 
+文献のランク付けを次の基準で行った．Level-Ⅰ:十分な症例数（＞100）を対象とした
+無作為化試験で結果が明確なもの，Level-Ⅱ：無作為化試験であるが症例数が十分でない
+もの（＜100），結果に不確定要素があるもの，Level-Ⅲ：無作為化されていない同時代の
+対照群が設定された比較臨床試験，Level-Ⅳ：無作為化されていない過去の症例や専門家
+の意見を対照とした比較臨床試験，Level-Ⅴ：症例集積，対照群のない臨床報告，専門家
+の意見，教科書，ガイドラインなど． 
+推奨度のランク付けを次の基準で行った．推奨度 A：2 つ以上の Level-Ⅰ文献により実証
+されたもの，推奨度 B：1 つの Level-Ⅰ文献により実証されたもの，推奨度 C：根拠として
+Level-Ⅱ文献しかないもの，推奨度 D：2 つ以上の Level-Ⅲ文献があるもの，推奨度 E：根
+拠として Level-Ⅳまたは Level-Ⅴ文献しかないもの．最終的な推奨度は論文の科学的根拠
+に委員会の専門家の意見を加味して決定した．なお，推奨度は推奨する事項の質の高さを
+示すもので，推奨する強さを示すものではない． 
+ 
+3.適応 
+本ガイドラインの適応は，全身麻酔，区域麻酔，鎮静，鎮痛を要する待機的手術患者と
+する．ただし消化管狭窄患者，消化管機能障害患者，気道確保困難が予想される患者，緊
+急手術患者，およびリスクの高い妊婦（例：陣痛のある場合，胎児心拍数に異常のある場
+合）などは本ガイドラインの推奨する絶飲食時間を適応せず，患者の状態に合わせた対応
+とする．[1] 
+ 
+ 
+[[p2]]
+ 
+ 
+  2 / 6  
+4.術前診察 
+カルテ閲覧，理学所見，問診等により，誤嚥のリスクについての情報を収集し，本ガイ
+ドラインの適応か否かの判断を行う．患者には手術前の絶飲食時間とその必要性について
+説明を行う．手術室入室前に絶飲食時間を遵守したか否かの確認を行う．本ガイドライン
+の適応とならない患者に対しては，患者の状態を考慮した絶飲食時間を検討する． 
+ 
+5.清澄水（セイチョウスイ） 
+推奨 
+清澄水の摂取は年齢を問わず麻酔導入 2 時間前まで安全である．（推奨度 A） 
+論拠 
+乳児から成人までの待機手術患者において，麻酔導入 2～3 時間前までの清澄水摂取
+が胃内容液に及ぼす影響に関して，19 件の無作為化試験がある[2-20]．その結果，絶
+飲食と比較して胃内容液量は不変か[4,5,8,9,10,11-19]，あるいは減少し
+[2,3,6,7,20]，胃内容液 pH は全ての研究において変わらない． 
+いずれの研究においても絶飲時間と嘔吐，逆流，あるいは誤嚥発生率の関連性は検
+討されていないが，胃内容液量と胃内容液 pH の所見から，誤嚥の危険性は増加しない
+といえる．また，19 件のうち 10 件の研究において[7,10,12,13,14,17,18,19,21,22]，
+麻酔前 2～3 時間までの清澄水摂取により，患者の口渇感が減少し快適度が増すなどの
+利点が示されている． 
+摂取量については，複数の研究が最大で体重あたり 10mL[7,8,16]あるいは無制限
+[9,10,13-15]を採用しており，患者が飲める範囲内での摂取は可と考えられる． 
+上記の研究を考慮すると，水，茶，アップルあるいはオレンジジュース（果肉を含
+まない果物ジュース） ，コーヒー（ミルクを含まない）などの使用が可能である．浸透
+圧や熱量が高い飲料，アミノ酸含有飲料は胃排泄時間が遅くなる可能性があるので注
+意が必要であり[21]，脂肪含有飲料，食物繊維含有飲料，アルコールの使用は推奨で
+きない． 
+  
+6.母乳 
+推奨 
+母乳の摂取は麻酔導入 4 時間前まで安全である．（推奨度 C） 
+論拠 
+放射性同位元素で標識して胃内容量を測定した試験では，胃内の母乳は 120 分後に
+18%になっており，人工乳や牛乳に比べて有意に少ない[27]． 
+麻酔前に母乳を投与する許容時間についての無作為化試験は不十分である．各国の
+ガイドラインでは，4 時間前までの摂取を推奨している[22,28-30]．米国麻酔科学会で
+は，コンサルタントの同意と米国麻酔科学会のメンバーの強い同意事項として，健康
+な新生児と幼児では，母乳の摂取から少なくとも 4 時間以上空けることを推奨してい
+る[28]． 
+[[p3]]
+ 
+ 
+  3 / 6  
+術前絶飲時間
+摂取物 絶飲時間（時間）
+清澄水 2
+母乳 4
+人工乳・牛乳 6
+7.人工乳・牛乳 
+推奨 
+人工乳・牛乳の摂取は麻酔導入 6 時間前まで安全である．（推奨度 C） 
+論拠 
+5 歳以下の待機手術患者において， 人工乳の術前投与に関して放射性同位元素で標識
+して胃内容量を測定した試験では， 胃内の人工乳，牛乳は 120 分後に 47%， 55%になり，
+母乳に比べて有意に多い[27]． メタアナリシスで牛乳の術前摂取について評価できる
+充分なエビデンスはない[31]． 
+麻酔前に人工乳，牛乳を投与する許容時間についての無作為化試験は不十分である．
+欧米各国のガイドラインでは，6 時間前までの投与を推奨している[22,28-30]．米国麻
+酔科学会では，コンサルタントの同意と米国麻酔科学会のメンバーの強い同意事項と
+して，新生児，乳児，小児では人工乳の摂取から 6 時間以上空けることを推奨してい
+る[28]．乳児，小児，成人ではヒト以外のミルクの摂取から 6 時間以上空けることを
+推奨している [28]． 
+ 
+8.固形物 
+本ガイドラインでは固形食の摂取について明確な絶食時間を示さない．その理由は
+液体に比べて固形食に関するエビデンスが不十分であること，固形食の定義が明確で
+なく，含まれている栄養素も様々であるからである． 
+ただし固形食のうち軽食については欧米のガイドラインで摂取から麻酔導入までは
+6 時間以上空けること[22,28]としている ．ここで指す軽食とは「トーストを食べ清澄
+水を飲む程度の食事」とされており，揚げ物，脂質を多く含む食物，肉の場合は 8 時
+間以上空ける必要がある[28]． 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+術前の「食事療養」に関する本学会の考え方について 
+  http://www.anesth.or.jp/guide/pdf/kangae.pdf 
+入院時食事療養の実施上の留意事項について 
+http://www.anesth.or.jp/guide/pdf/zetuinsyoku.pdf
+[[p4]]
+ 
+ 
+  4 / 6  
+参考文献 
+[1] American Society of Anesthesiologists Task Force on Obstetric Anesthesia. Practice 
+guidelines for obstetric anesthesia: an updated report by the American Society of 
+Anesthesiologists Task Force on Obstetric Anesthesia. Anesthesiology 2007;106:843-63 
+[2] Maltby JR, Sutherland AD, Sale JP, Shaffer EA ： P r e o p e r a t i v e  o r a l  f l u i d s： is a 
+five-hour fast justified prior to elective surgery? Anesth Analg 1986;65(11)：
+1112-1116. 
+[3] Sutherland AD, Maltby JR, Sale JP, Reid CR ： T h e  e f f e c t  o f  p r e o p e r a t i v e  o r a l  f l u i d  
+and ranitidine on gastric fluid volume and pH. Can J Anaesth 1987;34(2)：117-121. 
+[4] McGrady EM, Macdonald AG ： E f f e c t  o f  t h e  p r e o p e r a t i v e  a d m i n i s t r a t i o n  o f  w a t e r  
+on gastric volume and pH. Br J Anaesth 1988;60(7)：803-805. 
+[5] Hutchinson A, Maltby JR, Reid CR ： G a s t r i c  f l u i d  v o l u m e  a n d  p H  i n  e l e c t i v e  
+inpatients. Part I： C o f f e e  o r  o r a n g e  j u i c e  v e r s u s  o v e r n i g h t  f a s t .  C a n  J  A n a e s t h  
+1988 ;35(1)：12-15. 
+[6] Agarwal A, Chari P, Singh H ： F l u i d  d e p r i v a t i o n  b e f o r e  o peration. The effect of a 
+small drink. Anaesthesia 1989;44(8)：632-634. 
+[7] Splinter WM, Stewart JA, Muir JG ： T h e  e f f e c t  o f  p r e o p e r a t i v e  a p p l e  j u i c e  o n  
+gastric contents, thirst, and hunger in children. Can J Anaesth 1989;36(1)：55-58. 
+[8] Splinter WM, Stewart JA, Muir JG ： L a r g e  v o l u m e s  o f  a p p l e  j u i c e  p r e o p e r a t i v e l y  d o  
+not affect gastric pH and volume in children. Can J Anaesth 1990;37(1)：36-39. 
+[9] Splinter WM, Schaefer JD ： U n l i m i t e d  c l e a r  f l u i d  i ngestion two hours before 
+surgery in children does not affect volume or pH of stomach contents. Anaesth 
+Intensive Care 1990;18(4)：522-526. 
+[10] Splinter WM, Schaefer JD, Zunder IH ： C l e a r  f l u i d s  t h r e e  h o u r s  b e f o r e  s u r g e r y  d o  
+not affect the gastric fluid contents of children. Can J Anaesth 1990;37(5)：498-501. 
+[11] Schreiner MS, Triebwasser A, Keon TP ： I n g e s t i o n  o f  l i q u i d s  c o m p a r e d  w i t h  
+preoperative fasting in pediatric outpatients. Anesthesiology 1990;72(4)：593-597. 
+[12] Miller BR, Tharp JA, Issacs WB ： G a s t r i c  r e s i d u a l  v o l u m e  i n  i n f a n t s  a n d  c h i l d r e n  
+following a 3-hour fast. J Clin Anesth 1990;2(5)：301-305. 
+[13] Splinter WM, Schaefer JD ： I n g e s t i o n  o f  c l e a r  f l u i d s  i s  s a f e  f o r  a d o l e s c e n t s  u p  t o  3  
+h before anaesthesia. Br J Anaesth 1991;66(1)：48-52. 
+[14] Read MS, Vaughan RS ： A l l o w i n g  p r e - o p e r a t i v e  p a t i e n t s  t o  d r i n k： e f f e c t s  o n  
+patients' safety and comfort of unlimited oral water until 2 hours before anaesthesia. 
+Acta Anaesthesiol Scand 1991;35(7)：591-595. 
+[15] Nicolson SC, Dorsey AT, Schreiner MS ： S h o r t e n e d  p r e a n e s t h e t i c  f a s t i n g  i n t e r v a l  
+in pediatric cardiac surgical patients. Anesth Analg 1992;74(5)：694-697. 
+[[p5]]
+ 
+ 
+  5 / 6  
+[16] Maekawa N, Mikawa K, Yaku H, Nishina K, Obara H ： E f f e c t s  o f  2 - ,  4 -  a n d  
+12-hour fasting intervals on preoperative gastric fluid pH and volume, and plasma 
+glucose and lipid homeostasis in children. Acta Anaesthesiol Scand 1993;37(8)：
+783-787. 
+[17] Phillips S, Hutchinson S, Davidson T ： P r e o p e r a t i v e  d r i n k i n g  d o e s  n o t  a f f e c t  
+gastric contents. Br J Anaesth 1993;70(1)：6-9. 
+[18] Gombar S, Dureja J, Kiran S, Gombar K, Chhabra B ： T h e  e f f e c t  o f  p r e - o p e r a t i v e  
+intake of oral water and ranitidine on gastric fluid volume and pH in children 
+undergoing elective surgery. J Indian Med Assoc 1997;95(6)：166-168. 
+[19] Itou K, Fukuyama T, Sasabuchi Y, Yasuda H, Suzuki N, Hinenoya H, Kim C, Sanui 
+M, Taniguchi H, Miyao H, Seo N, Takeuchi M, Iwao Y, Sakamoto A, Fujita Y, Suzuki 
+T ： S a f e t y  a n d  e f f i c a c y  o f  o r a l  r e h y d ration therapy until 2 h before surgery： a  
+multicenter randomized controlled trial. J Anesth 2012;26：20-27. 
+[20] Taniguchi H, Sasaki T, Fujita H, Takamori M, Kawasaki R, Momiyama Y, Takano O, 
+Shibata T, Goto T ： P r e o p e r a t i v e  f l u i d  a n d  e l e c t r o l y t e  m a n a g e m e n t  w i t h  o r a l  
+rehydration therapy. J Anesth 2009;23(2)：222-229. 
+[21] Lobo DN, Hendry PO, Rodrigues G, Marciani L, Totman JJ, Wright JW, Preston T, 
+Gowland P, Spiller RC, Fearon KC. Gastric emptying of three liquid oral 
+preoperative metabolic preconditioning regimens measured by magnetic resonance 
+imaging in healthy adult volunteers： a randomised double-blind, crossover study. 
+Clin Nutr 2009;28(6)：636-641. 
+[22] Smith I, Kranke P, Murat I, Smith A, O'Sullivan G, Søreide E, Spies C, in't Veld B; 
+European Society of Anaesthesiology ： P e r i o p e r a t i v e  f a s t i n g  i n  a d u l t s  a n d  
+children： g u i d e l i n e s  f r o m  t h e  E u r o p e a n  S o c i e t y  o f  A n a e s t h e s i o l o g y .  E u r  J  
+Anaesthesiol 2011;28(8)：556-569. 
+[23] Farthing MJ ： O r a l  r e h y d r a t i o n  t h e r a p y . Pharmacol Ther 1994;64(3)：477-492. 
+[24] King CK, Glass R, Bresee JS, Duggan C ; Centers for Disease Control and 
+Prevention. Managing acute gastroenteritis among children： o r a l  r e h y d r a t i o n ,  
+maintenance, and nutritional therapy. MMWR Recomm Rep 2003;52(RR-16)：1-16. 
+[25] Mauer AM, Dweck HS, Finberg L, Holmes F, Reynolds JW, Suskind RM, Woodruff 
+CW, Hellerstein S ： A m e r i c a n  A c a d e m y  o f  P e d i a t r i c s  C o m m i t t e e  o n  N u t r i t i o n： U s e  
+of oral fluid therapy and posttreatment feeding following enteritis in children in a 
+developed country. Pediatrics 1985;75(2)：358-361. 
+[26] Recommendations for composition of oral rehydration solutions for the children of 
+Europe. Report of an ESPGAN Working Group. J Pediatr Gastroenterol Nutr 
+1992;14(1)：113-115. 
+[[p6]]
+ 
+ 
+  6 / 6  
+[27] Billeaud C, Guillet J, Sandler B.： Gastric emptying in infants with or without 
+gastro-oesophageal reflux according to t h e  t y p e  o f  m i l k .  E u r  J  C l i n  N u t r  
+1990 ;44(8)：577-583. 
+[28] American Society of Anesthesiologists Committee： P r a c t i c e  g u i d e l i n e s  f o r  
+preoperative fasting and the use of pharmacologic agents to reduce the risk of 
+pulmonary aspiration： a p p l i c a t i o n  t o  h e a l t h y  p atients undergoing elective 
+procedures： a n  u p d a t e d  r e p o r t  b y  t h e  A m e r i c a n  S o c i e t y  o f  A n e s t h e s i o l o g i s t s  
+Committee on Standards and Practice Parameters. Anesthesiology 2011;114(3)：
+495-511. 
+[29] Royal College of Nursing： P e r i o p e r a t i v e  f a s t i n g  i n  a d u l t s  a n d  c h i l d r e n： a n  R C N  
+guideline for the multidisciplinary team. London： R o y a l  C o l l e g e  o f  N u r s i n g  2 0 0 5 .  
+[30] Merchant R, Bosenberg C, Brown K, Chartrand D, Dain S, Dobson J, Kurrek M, 
+LeDez K, Morgan P, Penner M, Shukla R： Canadian Anesthesiologists' Society. 
+Guidelines to the Practice of Anesthesia： R e v i s e d  e d i t i o n  2 0 1 1 .  C a n  J  A n a e s t h  
+2011;58(1)：74-107. 
+[31] Brady M, Kinn S, Ness V , O'Rourke K, Randhawa N, Stuart P： P r e o p e r a t i v e  
+fasting for preventing perioperative complications in children. Cochrane Database 
+Syst Rev 2009;7(4)：CD005285.  
+ 
+2012年７月 
+公益社団法人日本麻酔科学会 

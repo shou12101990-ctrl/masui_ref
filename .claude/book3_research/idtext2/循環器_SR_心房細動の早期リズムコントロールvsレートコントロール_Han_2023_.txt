@@ -1,0 +1,632 @@
+
+[[p1]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 1
+TYPE Systematic Review
+PUBLISHED 06 February 2023
+DOI 10.3389/fcvm.2023.978637
+OPEN ACCESS
+EDITED BY
+Daniel M. Johnson,
+The Open University, United Kingdom
+REVIEWED BY
+Ewa Je ¸drzejczyk-Patej,
+Silesian Center for Heart Disease, Poland
+Pil-sung Yang,
+CHA University, Republic of Korea
+*CORRESPONDENCE
+Kaijun Cui
+cuikaijunscu@163.com
+Min Xie
+xiemin013@163.com
+†These authors have contributed equally to this
+work
+SPECIALTY SECTION
+This article was submitted to
+Cardiac Rhythmology,
+a section of the journal
+Frontiers in Cardiovascular Medicine
+RECEIVED 26 June 2022
+ACCEPTED 19 January 2023
+PUBLISHED 06 February 2023
+CITATION
+Han S, Jia R, Cen Z, Guo R, Zhao S, Bai Y, Xie M
+and Cui K (2023) Early rhythm control vs. rate
+control in atrial ﬁbrillation: A systematic review
+and meta-analysis.
+Front. Cardiovasc. Med. 10:978637.
+doi: 10.3389/fcvm.2023.978637
+COPYRIGHT
+© 2023 Han, Jia, Cen, Guo, Zhao, Bai, Xie and
+Cui. This is an open-access article distributed
+under the terms of the Creative Commons
+Attribution License (CC BY). The use,
+distribution or reproduction in other forums is
+permitted, provided the original author(s) and
+the copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with
+these terms.
+Early rhythm control vs. rate
+control in atrial ﬁbrillation: A
+systematic review and
+meta-analysis
+Shaojie Han1†, Ruikun Jia1†, Zhifu Cen1, Ran Guo1, Shenyu Zhao1,
+Yixuan Bai1, Min Xie2* and Kaijun Cui1*
+1Department of Cardiology, West China Hospital, Sichuan University, Chengdu, China, 2Department of
+Cardiology, Chengdu Seventh People’s Hospital, Chengdu, Sichuan, China
+Objective: It has long been debated whether rhythm control vs. rate control
+strategies have differing effects on mortality and morbidity for atrial ﬁbrillation
+(AF). Recently, several randomized controlled studies (RCTs) and observational trials
+described that an early rhythm management method was linked to a lower likelihood
+of negative clinical outcomes in individuals with AF. We wanted to see if an early
+rhythm management method may help patients with AF.
+Methods: We performed a systematic search to retrieve studies assessing
+the outcomes of early rhythm control vs. rate control in AF by using
+PubMed, Web of Science, Cochrane Library, and Embase published between
+01/01/2000 and 15/04/2022.
+Results: Finally, two RCTs, one retrospective analysis of RCTs, and four observational
+studies were identiﬁed. Compared with rate control, early rhythm control has
+been linked to lower all-cause mortality. [risk ratio (RR), 0.76; 95% CI 0.69–0.83;
+P < 0.00001; I2 = 77%]. The early rhythm control group was also associated with
+a lower risk of cardiovascular mortality (RR, 0.68; 95% CI 0.63–0.74; P < 0.00001;
+I2 = 33), stroke (RR, 0.77; 95% CI 0.67–0.87; P < 0.001; I2 = 64), and heart failure
+hospitalization (RR, 0.74; 95% CI 0.59–0.93; P = 0.0009; I2 = 93%). We found no
+signiﬁcant difference in nights spent in hospital per year, acute coronary syndrome,
+major bleeding, and cardiac arrest/ventricular arrhythmia between the groups.
+Conclusion: In this meta-analysis, early rhythm therapy was linked to a lower risk of
+all-cause mortality, cardiovascular mortality, stroke, and heart failure hospitalization
+compared with the rate control group.
+Systematic review registration: https://www.crd.york.ac.uk/PROSPERO/, identiﬁer
+CRD42022333592.
+KEYWORDS
+atrial ﬁbrillation, early rhythm control, rate control, meta-analysis, cardiovascular outcome
+1. Introduction
+Atrial ﬁbrillation (AF) is a kind of cardiovascular disease that aﬀects millions of people
+throughout the world and is associated with an increased risk of mortality and morbidity,
+with a ﬁvefold increased risk of stroke (1–3). The current two essential aims of AF clinical
+care are (1) thromboembolism prophylaxis with anticoagulation and (2) maintenance of an
+appropriate heart rate or sinus rhythm by medications or interventional procedures (4). Rate
+Frontiers in Cardiovascular Medicine 01 frontiersin.org
+[[p2]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 2
+Han et al. 10.3389/fcvm.2023.978637
+control is part of AF management and can adequately improve related
+symptoms. Rhythm control refers to the use of antiarrhythmic drugs,
+cardioversion, and AF ablation to try to restore and maintain sinus
+rhythm. It has been argued for a long time whether rhythm vs. rate
+control strategies have diﬀering eﬀects on mortality and morbidity
+for AF. The choice of rhythm or rate control in current guidelines
+relies on several randomized controlled studies (RCTs) (5–7). No
+signiﬁcant diﬀerence in all-cause mortality, cardiovascular mortality,
+and other related morbidities was found between rhythm control and
+rate control in the meta-analyses of the above studies included (8,
+9). However, the treatment of AF has changed dramatically since
+the above RCTs were published. Several studies have recently shown
+that the incidence of adverse cardiovascular outcomes was reduced
+by early rhythm control compared with rate control (10–17). To
+determine whether early rhythm control is better than rate control
+in patients with AF , we performed a systematic review and meta-
+analysis.
+2. Materials and methods
+The meta-analysis was performed following the Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses
+(PRISMA) guidelines.
+2.1. Literature search
+From 1 January 2000, to 15 April 2022, a systematic search
+for RCTs and observational studies was undertaken using PubMed,
+EMBASE, Web of Science, and Cochrane Library databases, with no
+language restrictions. A manual search was conducted that included
+all of the relevant references following the computerized search.
+The following were among the most important search topics and
+terms: (1) atrial ﬁbrillation, (2) rate control, and (3) rhythm control.
+Detailed search strategies are summarized in the Supplementary
+material. The PRISMA statement was followed when performing
+this meta-analysis. The review protocol has been registered in
+PROSPERO (registration number: CRD42022333592).
+2.2. Selection and data abstraction
+The following criteria were used to choose articles: (1)
+observational studies or RCTs that included patients with AF based
+on early rhythm control vs. rate control; (2) based on “Early
+Treatment of Atrial Fibrillation for Stroke Prevention Trial” (EAST-
+AFNET 4) study, patients were enrolled within 1 year after the ﬁrst
+diagnosis of AF (early AF); (10) (3) the studies’ follow-up time was
+at least 1 year; and (4) the goal of the study was to examine the
+eﬀect and prognosis of AF treated with early rhythm vs. rate control.
+All studies were restricted to those including human subjects who
+were at least 18 years old. Reviews, case studies, conference papers,
+comments, and animal trials were all omitted from the study. Two
+reviewers separately evaluated article titles and abstracts to exclude
+papers that were not relevant. Disagreements were addressed by
+consensus and, if needed, the consulting of a third reviewer. The risk
+of bias was assessed using the Cochrane collaboration tool for RCTs
+and using the Newcastle-Ottawa scale for non-randomized clinical
+studies. The following information was gathered from eligible studies:
+(1) design of the research; (2) primary/secondary outcome; (3) mean
+follow-up time and baseline characteristics; and (4) anticoagulation
+therapy, rate, and rhythm protocols. The outcomes of the present
+analysis were as follows: all-cause mortality, cardiovascular mortality,
+ischemic stroke, heart failure (HF) hospitalization, nights spent in
+hospital per year, acute coronary syndrome, major bleeding, and
+cardiac arrest/ventricular arrhythmia.
+2.3. Statistical analysis
+Dichotomous variables were investigated using the Mantel-
+Haenszel method. The risk ratio (RR) and 95% conﬁdence interval
+(CI) were determined. Continuous variables were described as
+the mean and standard deviation. To examine heterogeneity, the
+Cochran Q and I2 statistics were utilized. We deﬁned moderate or
+high heterogeneity as an I2 of more than 50%. Given the expected
+between-study heterogeneity, a meta-analysis was conducted using
+a random eﬀects model for all outcomes. If more than 10 studies
+were included, a funnel plot was used to measure publication
+bias. By removing one study at a time, we performed a series of
+sensitivity analyses to establish the contribution of each study to
+the pooled estimate. All P values were two-tailed. R programming
+language (version 4.1.2, R Foundation) was used to perform
+sensitivity analyses. Review Manager Version 5.3 software (The
+Nordic Cochrane Centre) was used to conduct an overall eﬀect
+analysis and subgroup analysis.
+3. Results
+As shown in Figure 1 , a total of 11,359 studies were found
+in the database. 5,557 duplicate records were excluded. A total
+of 5,543 records were excluded based on title/abstract, animal
+studies, irrelevant study design, and inapplicable study. We read
+the full text of 181 studies carefully. Finally, seven studies were
+included: two RCTs, one retrospective analysis of RCT, and four
+observational studies. The sample size ranged from 273 to 301,064.
+The mean follow-up times ranged from 1 to 5 years. Table 1 and
+Supplementary Table provided the features of our included studies.
+Table 2 summarizes the quality appraisal for the studies that were
+included.
+3.1. Mortality
+Seven studies reported all-cause mortality (10–15, 17, 18).
+Mortality was as high as 50% in Ionescu-Ittu et al.’s study during
+a mean follow-up of 3 years. When we included this study, the
+heterogeneity of our analysis was 97%. Therefore, we excluded this
+study from the analysis to better interpret our results and reduce
+heterogeneity. Finally, the pooled analysis showed lower all-cause
+mortality in the early rhythm group than in the rate control group
+(RR 0.76; 95% CI 0.69–0.83; P < 0.00001; I2 = 77%; Figure 2A ).
+Analysis of pre-deﬁned subgroups based on the study design also
+showed signiﬁcantly lower mortality with RCT (RR, 0.86; 95% CI
+0.75–1.00; P = 0.04) or observational studies (RR, 0.73; 95% CI,
+0.65–0.81; P < 0.00001; Figure 2A ). When the data were pooled
+based on the time it took for patients to enroll (before 2009 vs. after
+2009), similar results were found ( Supplementary Figure 1 ). Three
+Frontiers in Cardiovascular Medicine 02 frontiersin.org
+[[p3]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 3
+Han et al. 10.3389/fcvm.2023.978637
+FIGURE 1
+Summary of electronic search and included/excluded studies.
+clinical studies reported cardiovascular mortality (10, 11, 14). The
+incidence of cardiovascular mortality was low in early rhythm control
+compared to rate control (RR, 0.68; 95% CI 0.63–0.74; P < 0.00001;
+Figure 2B) without statistically signiﬁcant heterogeneity (I2 = 33%).
+3.2. Morbidity
+Six studies assessed ischemic stroke (10, 11, 13–15, 17). Early
+rhythm control was linked to a lower risk of stroke in the patients
+(RR, 0.77; 95% CI 0.67–0.87; P < 0.0010; I2 = 64%; Figure 3 ).
+We also performed subgroup analyses based on the time of patient
+enrollment, and study design and found no change in the above
+ﬁndings ( Supplementary Figure 2 ). Only four studies included
+HF hospitalization (10–12, 14). Patients with early rhythm were
+associated with a reduced relative risk of HF hospitalization.
+However, there was obvious heterogeneity (RR, 0.74; 95% CI, 0.59–
+0.93; P = 0.0009; I2 = 93%; Figure 4).
+Regarding nights spent in the hospital per year, acute
+coronary syndrome, major bleeding, and cardiac arrest/ventricular
+arrhythmia, early rhythm control and rate control showed no
+signiﬁcant diﬀerences. The results were summarized in Table 3 and
+Supplementary Figure 3.
+Two studies reported adverse events related to treatment in
+early rhythm control vs. rate control. We did not include pooled
+analysis because of the limited number of studies. We found that
+syncope, cardiac tamponade, atrioventricular block, and pacemaker
+implantation were higher in the early rhythm group than rate control
+group, but none were statistically signiﬁcant.
+3.3. Sensitivity analyses
+We conducted a sensitivity analysis by eliminating one
+study at a time to determine how each one aﬀected the
+outcomes. The sensitivity analysis ﬁndings are summarized in
+Frontiers in Cardiovascular Medicine 03 frontiersin.org
+[[p4]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 4
+Han et al. 10.3389/fcvm.2023.978637
+TABLE 1 Main study characteristics.
+Trials EAST-
+AFNET4
+(2020)
+AFFIRM
+substudy
+(2021)
+Kim et al.
+(11)
+Pope et al.
+(17)
+RAFAS trial
+(2022)
+Proietti
+et al. (12)
+Chao et al.
+(14)
+Study design RCT RCT substudy Retrospective Retrospective RCT Retrospective Retrospective
+Early rhythm vs. rate
+No. of patients 1,395 vs. 1,394 1,269 vs. 1,657 9,246 vs. 7,077 6,595 vs. 37,606 178 vs. 95 2,056 vs. 1,722 62,649 vs.
+238,415
+Type of AF (%)
+First episode 38.0 vs. 37.3 NR NR 54.8 vs. 50.6 No 22.8 vs. 32.8 NR
+Paroxysmal 36 vs. 35.4 NR NR 25.5 vs. 32.5 52.8 vs. 50.5 38.8 vs. 43.1 NR
+Persistent 26 vs. 27.3 NR NR 19.7 vs. 16.7 47.2 vs. 49.5 38.5 vs. 24.2 NR
+Mean age (SD) or median
+(IQR)
+70.2 ± 8.4 vs.
+70.4 ± 8.2
+69 (61–75) vs. 72
+(64–78)
+69 (61–75) vs. 72
+(64–78)
+69 (61–75) vs. 72
+(64–78)
+67.0 (58.0–74.0)
+vs. 71.0
+(63.0–78.0)
+68.9 ± 8.9 vs.
+70.1 ± 7. 8
+69 (62–76) vs. 74
+(66–79)
+Men (%) 53.8 vs. 53.5 60.3 vs. 59.3 52.9 vs. 51.9 58.5 vs. 55 60.7 vs. 64.2 55.9 vs. 51.0 55.52 vs. 56.56
+Hypertension (%) 88.3 vs. 87.5 72 vs. 70.5 84.3 vs. 64.1 75.2 vs. 76.5 65 vs. 74.5 70.1 vs. 65.4 64.01 vs. 67.08
+Valvular disease (%) 43.8 vs. 46.1 NR 8.6 vs. 10.2 NR NR 47.2 vs. 50.3 NR
+HF (%) 28.4 vs. 28.8 NR 49 vs. 54.9 23.5 vs. 21.6 6.2 vs. 9.6 NR 24.79 vs. 22.79
+CAD (%) 16.9 vs. 17.2 NR NR 25.7 vs. 24.6 6.2 vs. 6.4 21.2 vs. 22.8 7.58 vs. 8.36
+NOAC 91.2 vs. 81.7
+(NOAC + VKA)
+NR 26.7 vs. 22.5 36.9 vs. 26.5 89.3 vs. 89.5 42.8 vs. 43 3.56 vs. 4.67
+VKA 84.4 vs. 94.1 79.1 vs. 83.1 33.9 vs. 38.7 4.5 vs. 4.3 43.6 vs. 39.9 11.7 vs. 13.35
+years of follow-up median 5.1 y median 5.1 y median 2.1 y mean 2 y mean1 y mean 675.4 d Estimated no
+less than 5 years
+AF , atrial ﬁbrillation; RCT, randomized controlled trials; NR, not report; HF , heart failure; CAD, Coronary artery disease; NOAC, non-vitamin K antagonist oral anticoagulant. VKA, vitamin K
+antagonist oral anticoagulant; TIA, transient ischemic attack; IQR, interquartile range.
+TABLE 2 (A) Quality assessment of cohort study by Newcastle-Ottawa scale.
+References Selection Comparability Outcome Score
+1 2 3 4 1 1 2 3
+Kim et al. (11) 1 1 1 1 2 1 1 1 9
+Pope et al. (17) 1 1 1 1 2 1 1 1 9
+Proietti et al. (12) 1 1 1 1 1 1 1 1 8
+Chao et al. (14) 1 1 1 1 2 1 1 1 9
+Selection: 1. Representativeness of the exposed cohort; 2. Selection of the non-exposed cohort; 3. Ascertainment of exposure; 4. Demonstration that the outcome of interest was not present at start
+of the study. Comparability: 1 Comparability of cohorts based on the design or analysis. Outcome: 1 Assessment of outcome; 2. Was follow-up long enough for outcomes to occur? 3. Adequacy of
+follow-up of cohorts.
+TABLE 2 (B) Quality assessment of randomized control trials by Cochrane collaboration’s tool.
+Study Random
+sequence
+generation
+Allocation
+concealment
+Blinding of
+participants
+and
+personnel
+Blinding of
+outcome
+assessment
+Incomplete
+outcome
+data
+Selective
+reporting
+Other bias
+EAST-AFNET 4
+(2020)
+Low risk of bias Unclear risk of bias High risk of bias Low risk of bias Low risk of bias Low risk of bias Low risk of bias
+AFFIRM substudy
+(2021)
+Unclear risk of
+bias
+High risk of bias High risk of bias Low risk of bias Low risk of bias Low risk of bias High risk of bias
+RAFAS trial (2022) Low risk of bias Unclear risk of bias High risk of bias Unclear risk of
+bias
+Low risk of bias High risk of bias Low risk of bias
+Supplementary Figure 4. Overall, successive exclusion of each study
+had no meaningful eﬀect on any of the clinical outcomes. Due to the
+limited number of included studies, we did not perform a publication
+bias assessment.
+4. Discussion
+This meta-analysis was performed to compare the beneﬁts of
+early rhythm control vs. rate control in patients with AF. When
+Frontiers in Cardiovascular Medicine 04 frontiersin.org
+[[p5]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 5
+Han et al. 10.3389/fcvm.2023.978637
+FIGURE 2
+(A) Forest plot showing all-cause mortality between early rhythm group and rate group. (B) Forest plot showing cardiovascular mortality between early
+rhythm group and rate group.
+FIGURE 3
+Forest plot showing risk of stroke between early rhythm group and rate group.
+FIGURE 4
+Forest plot showing risk of heart failure hospitalization between early rhythm group and rate group.
+compared to rate control, early rhythm control appears to be related
+to lower all-cause mortality, cardiovascular mortality, stroke, and
+HF hospitalization. Nevertheless, there was no diﬀerence between
+the two groups for acute coronary syndrome, major bleeding,
+nights spent in the hospital per year, and cardiac arrest/ventricular
+arrhythmia. To the best of our knowledge, our systematic review
+Frontiers in Cardiovascular Medicine 05 frontiersin.org
+[[p6]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 6
+Han et al. 10.3389/fcvm.2023.978637
+TABLE 3 Outcome of patients who underwent early rhythm control or rate control for atrial ﬁbrillation.
+Outcome endpoints No. of studies Participants P-value Effect estimate (95% CI) I2
+All-cause mortality 7 370950 <0.01 0.76 (0.69, 0.83) 77%
+Cardiovascular mortality 3 320176 <0.01 0.68 (0.63, 0.74) 33%
+Stroke 6 367176 <0.01 0.77 (0.67, 0.87) 64%
+Heart failure hospitalization 4 323950 <0.01 0.74 (0.59, 0.93) 93%
+Nights spent in hospital per year 4 25412 0.63 −0.03 (−0.17, 0.10) 95%
+Acute coronary syndrome 4 322702 0.44 0.96 (0.87, 1.06) 11%
+cardiac arrest/ventricular
+arrhythmia
+3 21638 0.21 1.18 (0.91, 1.52) 0%
+Major bleeding 3 65219 0.60 0.95 (0.78, 1.16) 36%
+meta-analysis is the ﬁrst to report on early rhythm control in
+patients with AF.
+4.1. Interpretation of results
+Our study concluded that early rhythm control may beneﬁt
+patients compared with rate control. AF is usually thought to be a
+progressive disorder, in which arrhythmia begins as paroxysmal form
+and progresses from persistent to “permanent” AF with electrical and
+structural remodeling of the atrium (19). AF produces mechanisms
+for self-perpetuation after it has been established (“AF begets AF’)
+(20). Structural, electrical, and autonomic remodeling are all aﬀected
+by arrhythmia and it can exacerbate pre-existing issues, making
+the patient more susceptible to recurring and chronic AF (21,
+22). In addition, the Framingham Heart Study demonstrated that
+in the ﬁrst year after AF is identiﬁed, the risk of cardiovascular
+problems increased (2). Amiodarone, the most eﬀective medicine
+now available for long-term sinus rhythm maintenance, has anti-
+remodeling eﬀects (23). In patients with AF , catheter ablation is
+superior to medical therapy for the maintenance and restoration of
+sinus rhythm (4, 24). Previous research has suggested that catheter
+ablation can prevent left atrial remodeling (25, 26). A shorter period
+between the ﬁrst AF diagnosis and the ablation therapy has also
+been demonstrated to improve the chances of ablation success (27).
+Therefore, maintaining sinus rhythm as early in the natural history
+as feasible would appear to be a rational method to avoid AF
+development. However, since 2002, rhythm control has been proven
+to be unlikely to reduce all-cause and cardiovascular mortality in
+the general population compared to rate control in RCTs (5, 6, 28).
+This seemingly conﬂicting outcome might be explained. The poor
+rate of sinus rhythm restoration and maintenance in most of these
+experiments is a key issue. Only 39% of patients in the rhythm-
+control arm of the RACE experiment were in sinus rhythm at the
+end of the study (28). Patients in the late phases of the illness process
+were also included in these studies. Patients with chronic AF were
+enrolled in the STAF , PIAF , and RACE studies (28–30). Likewise, a
+substudy of the AFFIRM study demonstrated no diﬀerence in all-
+cause mortality, and ischemic stroke when comparing early rhythm
+control with rate control in patients with AF. Of all the studies we
+included, this was the only study that early rhythm control showed no
+beneﬁt compared with rate control. The proportion of anticoagulants
+used in the early rhythm group was lower than that in the rate group
+(84.4 vs. 94.1%). We think that this was a key factor leading to the
+above results. The AFFIRM study recruited patients with dilated
+left atrium (65%). Even with the use of antiarrhythmic medicines,
+it is diﬃcult to reverse structural abnormalities and sustain sinus
+rhythm once AF has structural changes. In addition, over the last
+20 years, AF ablation is an important role in the treatment of AF.
+The AFFIRM study included patients who were not treated with
+catheter ablation.
+4.2. Clinical implications
+These ﬁndings imply that early rhythm control is superior to
+rate control. Therefore, patients with AF should receive rhythm
+control immediately. However, guidelines currently recommend
+rhythm control therapy to improve symptoms and quality of life
+in symptomatic patients with AF (IA) (4). In fact, many newly
+diagnosed AF patients may be asymptomatic (31). A new AF
+diagnosis is linked to a high risk of stroke (7%), heart failure
+(14%), and death (49%) (32). Early rhythm management has
+been proven to have a lower risk of death and stroke in some
+studies. Nevertheless, there is no recommendation in the current
+guidelines early rhythm management to reduce severe adverse
+cardiovascular events such as stroke and mortality. Although
+early rhythm therapy has some associated side eﬀects, long-
+term antiarrhythmic drugs-related signiﬁcant adverse events, and
+mortality are usually linked to chronic AF and structural heart
+disease (33). Catheter ablation, an eﬀective strategy for rhythm
+control, showed no signiﬁcant increase in adverse events compared
+with the standard care group (34). Therefore, future guidelines may
+support the early rhythm control management of AF based on
+the long-term eﬀects in reduced all-cause mortality, cardiovascular
+mortality, stroke, and HF hospitalization. Furthermore, patient
+selection and interaction between patient and operator should
+not be overlooked.
+5. Limitations
+First, due to the nature of observational studies, biases
+cannot be eliminated. Diﬀerences in techniques, demographics, and
+backgrounds inevitably convey unidentiﬁed confounders. Despite
+the random eﬀects method employed in quantitative analysis,
+heterogeneity of clinical features and interventions among trials is
+a signiﬁcant limitation. Second, several studies included patients
+between 1996 and 2020, causing changes in therapy over time.
+Frontiers in Cardiovascular Medicine 06 frontiersin.org
+[[p7]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 7
+Han et al. 10.3389/fcvm.2023.978637
+The diﬀerence between the samples included in our study was large,
+ranging from 273 to 301,064. Therefore, we conducted a sensitivity
+analysis by eliminating one study at a time to determine how each one
+aﬀected the outcomes. We did not ﬁnd a meaningful eﬀect on any of
+the clinical outcomes. Third, the lack of patient-level data made an
+extensive evaluation of baseline features regarding clinical outcomes
+impossible. However, all of the studies’ baseline parameters were
+well-matched in both groups. Fourth, the studies we included had
+diﬀerent deﬁnitions of early intervention, but we performed a series
+of sensitivity analyses and found no signiﬁcant diﬀerence. Finally,
+most of the studies we included were real-world studies, and only one
+large-scale prospective RCT in our meta-analysis. In our subgroup
+analysis, a retrospective analysis of an RCT was also classiﬁed as a
+randomized controlled study.
+6. Conclusion
+This is the ﬁrst meta-analysis to conclude that early rhythm
+control may be more beneﬁcial than rate control in patients
+with AF. Our study demonstrated that early rhythm control can
+reduce all-cause mortality, cardiovascular mortality, stroke, and HF
+hospitalization. However, early rhythm control was not associated
+with acute coronary syndrome, major bleeding, nights spent in
+the hospital per year, and cardiac arrest/ventricular arrhythmia.
+We hope that more research will be done in the future to
+conﬁrm our ﬁndings.
+Data availability statement
+The original contributions presented in this study are included in
+the article/Supplementary material, further inquiries can be directed
+to the corresponding author.
+Author contributions
+SH and RJ conceived the review. SH drafted and wrote the
+manuscript. RJ, ZC, SZ, RG, and YB revised and edited all the version
+of the manuscript. During the revision of the manuscript, MX made
+great contributions to us, including the correction of the manuscript,
+statistical analysis, language polishing and literature retrieval. KC
+revised the sections. All authors contributed to manuscript revision
+and approved the submitted version.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their aﬃliated
+organizations, or those of the publisher, the editors and the reviewers.
+Any product that may be evaluated in this article, or claim that may
+be made by its manufacturer, is not guaranteed or endorsed by the
+publisher.
+Supplementary material
+The Supplementary Material for this article can be found online
+at: https://www.frontiersin.org/articles/10.3389/fcvm.2023.978637/
+full#supplementary-material
+References
+1. Mozaﬀarian D, Benjamin E, Go A, Arnett D, Blaha M, Cushman M, et al.
+Heart disease and stroke statistics–2015 update: a report from the American
+heart association. Circulation. (2015) 131:e29–322. doi: 10.1161/cir.00000000000
+00152
+2. Benjamin E, Wolf P , D’Agostino R, Silbershatz H, Kannel W, Levy D. Impact of
+atrial ﬁbrillation on the risk of death: the Framingham heart study. Circulation. (1998)
+98:946–52. doi: 10.1161/01.cir.98.10.946
+3. Odutayo A, Wong C, Hsiao A, Hopewell S, Altman D, Emdin C. Atrial ﬁbrillation
+and risks of cardiovascular disease, renal disease, and death: systematic review and
+meta-analysis. BMJ. (2016) 354:i4482. doi: 10.1136/bmj.i4482
+4. Kirchhof P , Benussi S, Kotecha D, Ahlsson A, Atar D, Casadei B, et al. 2016
+ESC guidelines for the management of atrial ﬁbrillation developed in collaboration
+with eacts. Eur J Cardio Thor Surg . (2016) 50:e1–88. doi: 10.1093/ejcts/ezw
+313
+5. Wyse D, Waldo A, DiMarco J, Domanski M, Rosenberg Y , Schron E, et al. A
+comparison of rate control and rhythm control in patients with atrial ﬁbrillation. N Engl J
+Med. (2002) 347:1825–33. doi: 10.1056/NEJMoa021328
+6. Roy D, Talajic M, Nattel S, Wyse D, Dorian P , Lee K, et al. Rhythm control versus rate
+control for atrial ﬁbrillation and heart failure. N Engl J Med. (2008) 358:2667–77.
+7. Tsadok M, Jackevicius C, Essebag V , Eisenberg M, Rahme E, Humphries K,
+et al. Rhythm versus rate control therapy and subsequent stroke or transient ischemic
+attack in patients with atrial ﬁbrillation. Circulation. (2012) 126:2680–7. doi: 10.1161/
+CIRCULATIONAHA.112.092494
+8. Sethi N, Feinberg J, Nielsen E, Saﬁ S, Gluud C, Jakobsen J. The eﬀects of rhythm
+control strategies versus rate control strategies for atrial ﬁbrillation and atrial ﬂutter:
+a systematic review with meta-analysis and trial sequential analysis. PLoS One. (2017)
+12:e0186856. doi: 10.1371/journal.pone.0186856
+9. Caldeira D, David C, Sampaio C. Rate versus rhythm control in atrial ﬁbrillation and
+clinical outcomes: updated systematic review and meta-analysis of randomized controlled
+trials. Arch Cardiovasc Dis. (2012) 105:226–38. doi: 10.1016/j.acvd.2011.11.005
+10. Kirchhof P , Camm A, Goette A, Brandes A, Eckardt L, Elvan A, et al. Early rhythm-
+control therapy in patients with atrial ﬁbrillation. N Engl J Med. (2020) 383:1305–16.
+doi: 10.1056/NEJMoa2019422
+11. Kim D, Y ang P , You S, Sung J, Jang E, Yu H, et al. Treatment timing and the eﬀects of
+rhythm control strategy in patients with atrial ﬁbrillation: nationwide cohort study. BMJ.
+(2021) 373:n991. doi: 10.1136/bmj.n991
+12. Proietti M, Vitolo M, Harrison S, Lane D, Fauchier L, Marin F , et al. Real-world
+applicability and impact of early rhythm control for European patients with atrial
+ﬁbrillation: a report from the esc-ehra eorp-af long-term general registry.Clin Res Cardiol.
+(2022) 111:70–84. doi: 10.1007/s00392-021-01914-y
+13. Park J, Shim J, Lee J, Park J, Heo J, Chang Y , et al. Risks and beneﬁts of early rhythm
+control in patients with acute strokes and atrial ﬁbrillation: a multicenter, prospective,
+randomized study (the rafas trial). J Am Heart Assoc. (2022) 11:e023391. doi: 10.1161/
+jaha.121.023391
+14. Chao T, Chan Y , Chiang C, Tuan T, Liao J, Chen T, et al. Early rhythm control and
+the risks of ischaemic stroke, heart failure, mortality and adverse events when performed
+early (<3 months). Thromb Haemost. (2022) 122:1899–910. doi: 10.1055/a-1807-0336
+15. Y ang E, Tang O, Metkus T, Berger R, Spragg D, Calkins H, et al. The role of timing
+in treatment of atrial ﬁbrillation: an aﬃrm substudy. Heart Rhythm. (2021) 18:674–81.
+doi: 10.1016/j.hrthm.2020.12.025
+Frontiers in Cardiovascular Medicine 07 frontiersin.org
+[[p8]]
+fcvm-10-978637 January 31, 2023 Time: 15:46 # 8
+Han et al. 10.3389/fcvm.2023.978637
+16. Kim D, Y ang P , You S, Jang E, Yu H, Kim T, et al. Comparative eﬀectiveness of
+early rhythm control versus rate control for cardiovascular outcomes in patients with atrial
+ﬁbrillation. J Am Heart Assoc. (2021) 10:e023055. doi: 10.1161/jaha.121.023055
+17. Pope M, Hall T, Schirripa V , Radic P , Virdone S, Pieper K, et al. Cardioversion in
+patients with newly diagnosed non-valvular atrial ﬁbrillation: observational study using
+prospectively collected registry data. BMJ. (2021) 375:e066450. doi: 10.1136/bmj-2021-
+066450
+18. Ionescu-Ittu R, Abrahamowicz M, Jackevicius C, Essebag V , Eisenberg M, Wynant
+W, et al. Comparative eﬀectiveness of rhythm control vs rate control drug treatment eﬀect
+on mortality in patients with atrial ﬁbrillation. Arch Intern Med. (2012) 172:997–1004.
+doi: 10.1001/archinternmed.2012.2266
+19. Jahangir A, Lee V , Friedman P , Trusty J, Hodge D, Kopecky S, et al. Long-term
+progression and outcomes with aging in patients with lone atrial ﬁbrillation: a 30-year
+follow-up study. Circulation. (2007) 115:3050–6. doi: 10.1161/circulationaha.106.644484
+20. Wijﬀels M, Kirchhof C, Dorland R, Allessie M. Atrial ﬁbrillation begets atrial
+ﬁbrillation. a study in awake chronically instrumented goats. Circulation. (1995) 92:1954–
+68. doi: 10.1161/01.cir.92.7.1954
+21. Iwasaki Y , Nishida K, Kato T, Nattel S. Atrial ﬁbrillation pathophysiology:
+implications for management. Circulation. (2011) 124:2264–74. doi: 10.1161/
+circulationaha.111.019893
+22. Li D, Fareh S, Leung T, Nattel S. Promotion of atrial ﬁbrillation by heart failure in
+dogs: atrial remodeling of a diﬀerent sort. Circulation. (1999) 100:87–95. doi: 10.1161/01.
+cir.100.1.87
+23. Shinagawa K, Shiroshita-Takeshita A, Schram G, Nattel S. Eﬀects of antiarrhythmic
+drugs on ﬁbrillation in the remodeled atrium: insights into the mechanism of the superior
+eﬃcacy of amiodarone. Circulation. (2003) 107:1440–6.
+24. Wilber D, Pappone C, Neuzil P , De Paola A, Marchlinski F , Natale A, et al.
+Comparison of antiarrhythmic drug therapy and radiofrequency catheter ablation in
+patients with paroxysmal atrial ﬁbrillation: a randomized controlled trial. JAMA. (2010)
+303:333–40. doi: 10.1001/jama.2009.2029
+25. Delgado V , Vidal B, Sitges M, Tamborero D, Mont L, Berruezo A,
+et al. Fate of left atrial function as determined by real-time three-dimensional
+echocardiography study after radiofrequency catheter ablation for the treatment of
+atrial ﬁbrillation. Am J Cardiol. (2008) 101:1285–90. doi: 10.1016/j.amjcard.2007.
+12.028
+26. Marsan N, Tops L, Holman E, Van de Veire N, Zeppenfeld K, Boersma E,
+et al. Comparison of left atrial volumes and function by real-time three-dimensional
+echocardiography in patients having catheter ablation for atrial ﬁbrillation with
+persistence of sinus rhythm versus recurrent atrial ﬁbrillation three months later. Am J
+Cardiol. (2008) 102:847–53. doi: 10.1016/j.amjcard.2008.05.048
+27. Chew D, Black-Maier E, Loring Z, Noseworthy P , Packer D, Exner D, et al.
+Diagnosis-to-ablation time and recurrence of atrial ﬁbrillation following catheter
+ablation: a systematic review and meta-analysis of observational studies. Circ Arrhythm
+Electrophysiol. (2020) 13:e008128. doi: 10.1161/circep.119.008128
+28. Van Gelder I, Hagens V , Bosker H, Kingma J, Kamp O, Kingma T, et al.
+A comparison of rate control and rhythm control in patients with recurrent
+persistent atrial ﬁbrillation. N Engl J Med. (2002) 347:1834–40. doi: 10.1056/NEJMoa02
+1375
+29. Carlsson J, Miketic S, Windeler J, Cuneo A, Haun S, Micus S, et al. Randomized
+trial of rate-control versus rhythm-control in persistent atrial ﬁbrillation: the strategies
+of treatment of atrial ﬁbrillation (staf) study. J Am Coll Cardiol. (2003) 41:1690–6. doi:
+10.1016/s0735-1097(03)00332-2
+30. Hohnloser S, Kuck K, Lilienthal J. Rhythm or rate control in atrial ﬁbrillation–
+pharmacological intervention in atrial ﬁbrillation (piaf): a randomised trial.Lancet. (2000)
+356:1789–94. doi: 10.1016/s0140-6736(00)03230-x
+31. Siontis K, Gersh B, Killian J, Noseworthy P , McCabe P , Weston S, et al.
+Typical, atypical, and asymptomatic presentations of new-onset atrial ﬁbrillation in the
+community: characteristics and prognostic implications. Heart Rhythm. (2016) 13:1418–
+24. doi: 10.1016/j.hrthm.2016.03.003
+32. Piccini J, Hammill B, Sinner M, Hernandez A, Walkey A, Benjamin E, et al. Clinical
+course of atrial ﬁbrillation in older adults: the importance of cardiovascular events beyond
+stroke. Eur Heart J. (2014) 35:250–6. doi: 10.1093/eurheartj/eht483
+33. Kirchhof P , Andresen D, Bosch R, Borggrefe M, Meinertz T, Parade U, et al.
+Short-term versus long-term antiarrhythmic drug treatment after cardioversion of atrial
+ﬁbrillation (ﬂec-sl): a prospective, randomised, open-label, blinded endpoint assessment
+trial. Lancet. (2012) 380:238–46. doi: 10.1016/s0140-6736(12)60570-4
+34. Turagam M, Musikantow D, Whang W, Koruth J, Miller M, Langan M, et al.
+Assessment of catheter ablation or antiarrhythmic drugs for ﬁrst-line therapy of atrial
+ﬁbrillation: a meta-analysis of randomized clinical trials.JAMA Cardiol. (2021) 6:697–705.
+doi: 10.1001/jamacardio.2021.0852
+Frontiers in Cardiovascular Medicine 08 frontiersin.org

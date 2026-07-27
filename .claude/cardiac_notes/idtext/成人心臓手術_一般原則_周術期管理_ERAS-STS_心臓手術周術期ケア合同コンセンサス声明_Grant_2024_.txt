@@ -1,0 +1,2561 @@
+
+[[p1]]
+EXPERT CONSENSUS STATEMENT
+Perioperative Care in Cardiac Surgery: A
+Joint Consensus Statement by the Enhanced
+Recovery After Surgery (ERAS) Cardiac
+Society, ERAS International Society, and The
+Society of Thoracic Surgeons (STS)
+Michael C. Grant, MD, MSE, 1 Cheryl Crisa ﬁ, MS, RN, 2 Adrian Alvarez, MD, 3
+Rakesh C. Arora, MD, PhD, 4 Mary E. Brindle, MD, MPH, 5 Subhasis Chatterjee, MD, 6
+Joerg Ender, MD, 7 Nick Fletcher, MBBS, 8,9 Alexander J. Gregory, MD, 10
+Serdar Gunaydin, MD, PhD, 11 Marjan Jahangiri, MBBS, MS, 12 Olle Ljungqvist, MD, PhD, 13
+Kevin W. Lobdell, MD, 14 Vicki Morton, DNP, 15 V. Seenu Reddy, MD, MBA, 16
+Rawn Salenger, MD, 17 Michael Sander, MD, 18 Alexander Zarbock, MD, 19 and
+Daniel T. Engelman, MD 2
+Enhanced Recovery After Surgery (ERAS) programs have been shown to lessen surgical insult, promote recovery, and
+improve postoperative clinical outcomes across a number of specialty operations. A core tenet of ERAS involves the
+provision of protocolized evidence-based perioperative interventions. Given both the growing enthusiasm for applying
+ERAS principles to cardiac surgery and the broad scope of relevant interventions, an international, multidisciplinary
+expert panel was assembled to derive a list of potential program elements, review the literature, and provide a statement
+regarding clinical practice for each topic area. This article summarizes those consensus statements and their accom-
+panying evidence. These results provide the foundation for best practice for the management of the adult patient un-
+dergoing cardiac surgery.
+(Ann Thorac Surg 2024;117:669-89)
+ª 2024 The Authors. Published by Elsevier Inc. on behalf of The Society of Thoracic Surgeons.
+This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/).
+E
+nhanced Recovery After Surgery (ERAS) is a
+multidisciplinary approach aimed at providing
+bundled best practice interventions and thera-
+pies throughout the perioperative encounter.
+1 A central
+tenet of ERAS is the adoption of evidence-based
+protocols that have been published and serially updated
+across a number of surgical specialties.
+2-4 Registry-based
+observational studies reveal that high compliance
+with these protocols is shown to reduce surgical
+insult, promote recovery, and prevent postoperative
+complications, thereby improving the value of delivered
+care.
+5-8
+In 2019, the ERAS Cardiac Society published their
+original guidance, which reviewed the literature and
+provided recommendations regarding care elements for
+patients undergoing cardiac surgery.
+9 In the interim,
+new clinical data as well as recognition of additional
+potential perioperative strategies have necessitated an
+update. The ERAS Cardiac Society, in collaboration
+with the af ﬁliated ERAS International Society, has
+Accepted for publication Dec 9, 2023.
+1Department of Anesthesiology and Critical Care Medicine, The Johns Hopkins University School of Medicine, Baltimore, Maryland; 2Heart and Vascular
+Program, Baystate Health, University of Massachusetts Chan Medical School-Baystate, Spring ﬁeld, Massachusetts; 3Department of Anesthesia, Hospital
+Italiano, Buenos Aires, Argentina; 4Section of Cardiac Surgery, Department of Surgery, Max Rady College of Medicine, University of Manitoba, Win-
+nipeg, Manitoba, Canada; 5Departments of Surgery and Community Health Services, Cumming School of Medicine University of Calgary, Calgary,
+Alberta, Canada; 6Michael E. DeBakey Department of Surgery, Baylor College of Medicine, Houston, Texas; 7Department of Anaesthesiology and
+Intensive Care Medicine, Heart Center Leipzig, University Leipzig, Leipzig, Germany; 8Institute of Anesthesia and Critical Care, Cleveland Clinic
+London, London, United Kingdom; 9St George ’s University Hospital, London, United Kingdom; 10Department of Anesthesia, Perioperative and Pain
+Medicine, Cumming School of Medicine University of Calgary, Calgary, Alberta, Canada; 11Department of Cardiovascular Surgery, Ankara City Hospital,
+University of Health Sciences, Ankara, Turkey; 12Department of Cardiac Surgery, St George ’s Hospital, London, United Kingdom; 13Department of
+Surgery, Faculty of Medicine and Health, School of Health and Medical Sciences, €Orebro University, €Orebro, Sweden; 14Regional Cardiovascular and
+Thoracic Quality, Education, and Research, Atrium Health, Charlotte, North Carolina; 15Clinical and Quality Outcomes, Providence Anesthesiology
+Associates, Charlotte, North Carolina; 16Centennial Heart & Vascular Center, Nashville, Tennessee; 17Department of Surgery, University of Maryland
+School of Medicine, Baltimore, Maryland; 18Department of Anaesthesiology, Operative Intensive Care Medicine and Pain Therapy, Justus Liebig
+University of Giessen, Giessen, Germany; and 19Department of Anaesthesiology, Intensive Care and Pain Medicine, University Hospital M €unster,
+M€unster, Germany
+Address correspondence to Dr Grant, Johns Hopkins Hospital, 1800 Orleans St, Zayed 6208, Baltimore, MD 21287; email: mgrant17@jhmi.edu.
+ª 2024 The Authors. Published by Elsevier Inc. on behalf of The Society of Thoracic Surgeons.
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+0003-4975
+https://doi.org/10.1016/j.athoracsur.2023.12.006
+669
+[[p2]]
+assembled a committee of experts to develop a
+consensus statement to optimize care for the adult
+cardiac surgical patient.
+METHODS
+This consensus statement was developed following the
+2019 “Recommendations from the ERAS Society for
+Standards for the Development of Enhanced Recovery
+After Surgery Guidelines ” (ERAS Standards) , which
+standardizes the formation of an expert guidance
+development group, literature search, analysis of the
+evidence, statement formation, and creation of the
+manuscript.
+10 The consensus statement development
+group, a multidisciplinary panel including cardiac
+surgeons, anesthesiologists, intensivists, and allied
+nurses, was identi ﬁed based on individual expertise
+and experience with ERAS.
+In 2021, the expert group convened an initial meeting
+and agreed on potential care elements, derived from a
+combination of prior guidelines, surrogate examples
+from other subspecialties, and expert opinion, and
+divided into respective phases of perioperative care.
+This effort was then aligned with the expert consensus
+protocols from The Society of Thoracic Surgeons (STS)
+and underwent a formal review by the STS Workforce on
+Evidence Based Surgery prior to endorsement and sub-
+mission for publication.
+Literature searches of individual topic areas were
+conducted with librarian assistance where necessary
+and included reviews, guideline documents, and clin-
+ical studies conducted on adult humans prior to
+December 2021, published in English, and retrievable
+from the PubMed, Embase, and Cochrane databases.
+Medical Subject Heading terms were identi ﬁed for the
+care element or intervention, as were accompanying
+terms for the patient group, procedure, and outcome.
+Preference was given to meta-analyses, prospective
+randomized clinical trials, and well-designed, non-
+randomized studies. In the event a care element or
+intervention was not reported in the setting of cardiac
+surgery, evidence pertaining to noncardiac surgical
+settings was considered, where appropriate. Most of
+the data outlined in this manuscript pertain to the
+elective cardiac surgical population, with any excep-
+tions explicitly stated in the accompanying prose, along
+with a description of the individual case types
+(ie, coronary artery bypass grafting [CABG], valve,
+aortic, etc).
+A series of virtual and in-person meetings were
+conducted to present and discuss results as well as
+resolve any controversies regarding interpretation of
+the available evidence. Summary statements and
+accompanying text were modeled after prior ERAS
+guidelines. Quality of evidence was assessed, and
+designations were rendered based on whether further
+research is unlikely (high), likely (moderate), or
+very likely (low) to have an important impact on the
+statement of the effect of the intervention.
+10 A
+minimum of 70% committee agreement was required
+for consensus.
+RESULTS
+Summary statements and associated quality of evidence
+are provided in Table 1 , organized into general,
+preoperative, intraoperative, postoperative, and
+multiphase sections.
+GENERAL ELEMENTS
+SHARED DECISION MAKING, PATIENT ENGAGEMENT, AND
+EDUCATION. Engagement of patients and their social
+network is an important component of perioperative
+c a r e ,b o t ht of o s t e re d u c a t i o na n de s t a b l i s hr e a l i s t i c
+expectations. Although patient engagement and ed-
+ucation are endorsed by multiple other ERAS sub-
+specialty guidelines,
+2-4 cardiac surgery has also
+reinforced the principle of shared decision making,
+where patients and their representatives work
+directly with their clinicians to review the available
+evidence to determine the best therapeutic course of
+action while explicitly incorporating the patient ’s
+values and preferences in to the decision-making
+process.
+11
+Patient engagement can be augmented through the
+use of digital technologies, including wearable remote
+monitors and interactive applications, which have
+been shown to improve adherence to the plan of care
+as well as facilitate data collection and analysis on
+social determinants of heal th and the value of familial
+involvement.
+12-16 Data emanating from these digital
+tools may include physiological data, including vitals,
+sleep statistics, and movement, as well as patient-
+reported outcomes,
+17-21 modiﬁcations to traditional
+metrics, and an increased emphasis on the recovery of
+physical, psychological, and functional status after
+cardiac surgery. 22,23 The use of digital engagement
+tools, such as personal phone applications and
+activity trackers, has been shown to correlate with
+disposition (ie, home vs facility) and optimize health
+care utilization.
+24-26
+Summary Statement: Patient engagement is
+improved through the incorporation of shared
+decision-making principles.
+Quality of Evidence: Low
+ESTABLISHMENT OF A MULTIDISCIPLINARY TEAM. The
+cardiac surgery perioperative multidisciplinary team
+(MDT) represents an extension of the Heart Team model
+670 EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p3]]
+proposed by other guidelines, which has traditionally
+included representatives from cardiac surgery and car-
+diology working in concert to determine the ideal pro-
+cedural intervention.
+11 The MDT also includes core
+representatives from noncardiac surgical disciplines,
+such as anesthesiologists, nurses, allied health,
+pharmacists, and dietitians, as well as those more
+fundamental to cardiac surgery, including intensivists,
+perfusionists, and cardiac rehabilitation specialists.
+Multiple studies describe resistance to change and poor
+communication as a barrier to ERAS implementation,
+whereas an effective MDT that establishes clear
+communication among all disciplines is recognized as a
+facilitator for program success.
+27-31 Ad e s i g n a t e d
+coordinator to improve pathway development,
+implementation, education, data collection, and
+reporting of outcomes should be a part of the MDT.
+32-34
+An effective MDT gains “buy-in” of stakeholders by
+effectively communicating vision with supporting
+evidence and provides ongoing collaboration with all
+team members. An effective MDT is crucial for the
+cultural shift for successful ERAS implementation.
+35-38
+Summary Statement: Program implementation and
+sustainment is facilitated through the establishment of
+a multidisciplinary team, including a dedicated coor-
+dinator, as an extension of the Heart Team.
+Quality of Evidence: Moderate
+COMPLIANCE AND OUTCOMES AUDITING. The STS has
+established a data registry, the Adult Cardiac Surgery
+Database (ACSD), for patients undergoing major cardiac
+surgical operations, which promotes performance
+TABLE 1 Summary of Statements and Level of Evidence
+Statement Level of Evidence
+Patient engagement is improved through the incorporation of shared decision-making principles. Low
+Program implementation and sustainment is facilitated through the establishment of a multidisciplinary team,
+including a dedicated coordinator, as an extension of the Heart Team.
+Moderate
+Routine auditing and evaluation of perioperative process measure adherence and clinical outcomes is a necessary
+component of high-quality perioperative care.
+Moderate
+Multifaceted patient screening and risk assessment improves the informed consent process and allows for advanced
+perioperative planning.
+Moderate
+Multicomponent prehabilitation may be considered to optimize patients prior to nonurgent cardiac surgery. Low
+Limiting nil per oz status for clear liquids ( >2 hours before surgery) is reasonable after assessment of potential risk
+factors for aspiration.
+Low
+Transesophageal echocardiography is encouraged in patients with moderate or high risk of perioperative morbidity
+or mortality.
+Moderate
+Mechanical ventilation with lung-protective strategies is associated with improved mechanics and fewer pulmonary
+complications.
+High
+The role of mechanical ventilation during cardiopulmonary bypass is uncertain. Moderate
+Pulmonary artery catheters use in low-risk patients or procedures incurs greater health care resource utilization
+without improving morbidity or mortality.
+Moderate
+Central nervous system monitoring may provide an early indication of neurologic risk, but additional study is
+necessary to identify strategies to prevent and mitigate injury.
+Moderate
+Standardized risk factor assessment and prophylaxis has been shown to prevent postoperative nausea and
+vomiting.
+Moderate
+Goal-directed perfusion may play a role in preventing organ injury associated with cardiopulmonary bypass. Low
+Structured strategies to facilitate extubation within 6 hours of surgery have been shown to be safe and potentially
+hasten recovery after elective procedures.
+Moderate
+Highly selective intraoperative or immediate postoperative extubation may be appropriate for patients undergoing
+low-risk cardiac surgery.
+Low
+Routine screening for and, where appropriate, the use of a comprehensive treatment care bundle can reduce the
+incidence and severity of postoperative acute kidney injury.
+Moderate
+Early postoperative ambulation and upper extremity exercise is well tolerated and associated with hastened
+recovery.
+Moderate
+Goal-directed ﬂuid and hemodynamic therapy can guide perioperative resuscitation and prevent postoperative
+organ injury.
+Moderate
+A multimodal approach reduces reliance on opioid-based analgesia and optimizes perioperative pain management. Moderate
+Chest wall regional analgesia can be an effective component of a multimodal approach to perioperative pain
+management.
+Moderate
+Blood product utilization and associated outcomes are optimized through the implementation of a comprehensive
+patient blood management program.
+Moderate
+Postoperative atrial ﬁbrillation is optimally addressed through the use of a multifaceted prevention strategy. Moderate
+Routine use of a systematic delirium screening tool and nonpharmacologic strategies aid the identi ﬁcation and
+prevention of postoperative delirium.
+High
+The bundled application of evidence-based best practices has been shown to prevent surgical site infection. High
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+671
+[[p4]]
+benchmarking and informs a number of successful
+quality improvement programs. 39-42 There is an
+opportunity for expansion of the current data set to
+include variables speci ﬁc to additional perioperative
+care elements.
+43 In addition, multi-institutional ERAS
+registries have been developed for other subspecialities
+that include data for key process measures and their
+associated outcomes and allow clinicians and
+researchers to critically analyze and assess the quality
+of care.
+Numerous observational studies across multiple
+noncardiac surgery service lines and health care envi-
+ronments have reported a dose-response relationship
+between adherence to enhanced recovery care measures
+and improved clinical outcomes.
+44-48 Regular auditing of
+ERAS program adherence, in addition to participation in
+other data registries, aides in identifying associations
+between care elements and clinical outcomes as well as
+highlights opportunities for program iteration and
+improvement.
+49-53
+Summary Statement: Routine auditing and evalua-
+tion of perioperative process measure adherence and
+clinical outcomes is a necessary component of high-
+quality perioperative care.
+Quality of Evidence: Moderate
+PREOPERATIVE PROCESS MEASURES
+PREOPERATIVE SCREENING AND RISK ASSESSMENT.
+Preoperative risk assessment in cardiac surgery is
+important to determine a patient ’s suitability for surgery
+and identify areas for optimization. Table 2 provides a
+summary of preoperative laboratory and assessment
+criteria that may be considered as part of a
+comprehensive preoperative screening and risk
+assessment. The STS predicted risk of mortality and
+morbidity and the European Heart Surgery Risk
+Assessment System 2011 revision (EuroSCORE II)
+calculators are the 2 most widely used tools to
+determine in-hospital and early postoperative mortality
+and morbidity, and their use has been endorsed by
+other major guidelines.
+11,54,55
+Providers may also consider screening for undiag-
+nosed diabetes based on hemoglobin A 1c, which re ﬂects
+glucose control in the previous 3 months. Elevated he-
+moglobin A
+1c (>6%-7%) is associated with greater inci-
+dence of a number of postoperative complications,
+including deep sternal wound infections. 56-58 Hypo-
+albuminemia (serum albumin <4.0 g/L) is an indepen-
+dent predictor of worse outcomes after cardiac surgery,
+including greater likelihood of acute kidney injury (AKI),
+longer length of stay, and higher hospital costs.
+59-62 In a
+large cardiac surgical cohort study, an increased urine
+albumin-to-creatinine ratio was independently associ-
+ated with an overall increased incidence of mortality,
+AKI, and longer length of hospitalization, ﬁndings that
+were independent of estimated glomerular ﬁltration rate
+level and other comorbidities.
+63
+Frailty has become more prevalent and strongly
+contributes to poorer postoperative outcomes, with a
+recent meta-analysis of observational studies suggesting
+that prefrailty and frailty were associated with signi ﬁ-
+cantly greater postoperative morbidity and mortality.
+64
+Identifying patients with frailty goes beyond a
+subjective assessment but rather should be performed
+with validated tools.
+65
+The prevalence of obstructive sleep apnea in cardiac
+????SWD??VSD???
+TABLE 2 Recommended Preoperative Risk Assessment Components
+Component Rationale
+STS predicted risk of mortality
+and morbidity, EuroSCORE II
+Stratiﬁed in-hospital and short-term postoperative morbidity and mortality.
+Frailty assessment Prefrail and frail status is associated with a marked increase in adjusted morbidity and mortality. There are
+several validated tools to assess for frailty.
+Delirium risk factors Patient risk factors that are associated with delirium include age, frailty, preexisting cognitive issues and/or
+mood disorders, and excessive alcohol use.
+Hemoglobin A 1c Hemoglobin A 1c >6%-7% is a marker of poorly controlled diabetes and a predictor of postoperative
+complications, including deep sternal wound infection.
+Serum albumin Hypoalbuminemia ( <4.0 g/L) is an indicator of malnutrition and an independent predictor of increased
+morbidity and mortality after cardiac surgery.
+Urine albumin Urine albumin independently correlates with the risk of postoperative acute kidney injury regardless of
+baseline estimated glomerular ﬁltration rate and other comorbidities.
+Obstructive sleep apnea
+screening
+Preoperative questionnaire positively identi ﬁes patients with undiagnosed obstructive sleep apnea, which is
+strongly associated with postoperative respiratory complications after surgery.
+Opioid tolerance assessment Chronic pain and substance use contributes to hyperalgesia and opioid tolerance. A preoperative
+assessment can identify patients with opioid tolerance, establish appropriate expectations, and
+individualize their pain management plan.
+EuroSCORE II, European Heart Surgery Risk Assessment System 2011 revision; STS, The Society of Thoracic Surgeons.
+672 EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p5]]
+associated with an increased incidence of postoperative
+complications, including postoperative atrial ﬁbrillation,
+pulmonary complications, delirium, and a greater inci-
+dence of major adverse cardiovascular events.
+66,67
+Preoperative assessment for obstructive sleep apnea
+using the “STOP-BANG” questionnaire (Snoring, Tired,
+Observed [stop breathing or choking/gasping during
+sleep], high blood Pressure, Body mass index >35 kg/m2;
+Age >50; large Neck size; Gender, male) has been
+advised in noncardiac surgery, permitting teams to
+appropriately triage and monitor patients at elevated risk
+for respiratory compromise in the postoperative
+period.
+68,69 Although similar studies are generally
+lacking, initial experience has shown that this association
+translates to the cardiac surgical population as well.
+70
+Chronic pain and substance use can lead to hyper-
+algesia and opioid tolerance. 71,72 A simple preoperative
+calculation based on the patient’sr e c e n to p i o i du s e73 can
+identify patients with opioid tolerance and provide an
+opportunity to establish appropriate pain expectations
+and individualize their pain management plan.
+Each preoperative screening component may allow
+for more accurate informed consent and contribute to
+shared decision making between the surgeon and pa-
+tient as they contemplate surgery.
+Summary Statement: Multifaceted patient screening
+and risk assessment improves the informed consent
+process and allows for advanced perioperative
+planning.
+Quality of Evidence: Moderate
+PREHABILITATION. Cardiac surgery is associated with
+signiﬁcant stress on body systems, particularly in the
+older vulnerable adult with reduced physiological
+reserve. Previous investigations have identi ﬁed that up
+to 50% of older adults undergoing cardiac surgery can be
+deemed as frail, deﬁned as a cumulative decline in multiple
+physiological systems resulting in a vulnerability to stressor
+events.
+74-76 These patients typically experience higher rates
+of postoperative morbidity, mortality, and prolonged
+hospital length of stay, with associated increased costs to
+the health care system.
+77-80 This is further compounded
+by malnutrition, which is evident in 20% of the patients
+presenting for cardiac surgery. 81,82 Finally, the
+potentially prolonged preoperative waiting period has
+been associated with worry and fear of death for the
+patients and their caregivers.
+83-86
+To address these perioperative issues, the process of
+preoperative rehabilitation (ie, prehabilitation or “pre-
+hab”) has been proposed to enable patients to withstand
+the stressors of surgery by improving physical and
+emotional resilience. Several small randomized studies
+and meta-analysis of patients undergoing nonurgent
+cardiac surgery, including coronary artery bypass
+grafting (CABG), have demonstrated the bene ﬁts of
+prehabilitation, including reduced postoperative compli-
+cations and increased pulmonary function and exercise
+capacity.
+87-89 Preoperative exercise, in particular inspira-
+tory muscle training, along with additional psychological,
+health-related quality of life and cognitive interventions,
+may also affect cognitive function and psychological
+readiness for surgery,
+89-91 although additional study spe-
+ciﬁc to the cardiac surgical domain is necessary.
+A comprehensive prehabilitation program may include
+education, nutritional optimization, exercise training
+(where medically appropriate), social support, and anxiety
+reduction, although current existing evidence for the car-
+diac surgery patient is limited.
+92,93 An earlier investigation
+in cardiac surgery patients observed a reduction in hospital
+length of stay in patients undergoing a prehab program
+94;
+however, more recent systematic reviews indicate
+variability of this outcome. This is primarily due to
+uncertainty regarding optimal patient selection and
+effective, feasible durations of the interventions.
+87,88,95
+Although there remains a hig h degree of variation in the
+available literature regarding prehab components,
+duration of intervention, and outcome de ﬁnitions, the
+perioperative team may choose to implement an
+assessment and optimization strategy for preoperative
+frailty, malnutrition, and cognition/mood in preparation
+for surgical intervention.
+65,96-98
+Summary Statement: Multicomponent pre-
+habilitation may be considered to optimize patients
+prior to nonurgent cardiac surgery.
+Quality of Evidence: Low
+LIMITING NIL PER OS STATUS. Published guidelines from
+all international anesthesia societies have established a
+consensus on clear liquid fasting times of 2 hours and solid
+food fasting times of 6 to 8 hours prior to elective sur-
+gery.
+99-102 The primary concern is the risk of pulmonary
+aspiration during the induction and maintenance of
+anesthesia. Patients undergoing cardiac surgery have
+several risk factors that may increase their risk of
+aspiration, including nonelective status, low cardiac
+output, delayed gastric empt ying, and the frequent use
+of transesophageal echocardiography (TEE). As a result,
+additional research devoted to nil per os status in cardiac
+surgery is warranted.
+Summary Statement: Additional data are needed
+prior to adjusting established nil per os policies in
+cardiac surgery although permitting clear liquids up to
+2 hours prior to surgery may be reasonable for select
+patients deemed to be low risk of complications.
+Quality of Evidence: Low
+INTRAOPERATIVE PROCESS MEASURES
+TRANSESOPHAGEAL ECHOCARDIOGRAPHY. TEE is an
+imaging method that allows for high-quality assessment
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+673
+[[p6]]
+of heart anatomy, including structural anomalies,
+thrombus formation, and congenital abnormalities.
+Coupled with symptoms, physical examination
+ﬁndings, and catheter-based assessment, ﬁndings on
+TEE can be instrumental in procedural planning,
+particularly in patients with valvular pathology (ie,
+rheumatic, secondary, or infective etiologies) or
+congenital abnormalities. The utility of intraoperative
+TEE is intuitive in valvular and congenital surgery,
+where it is not only useful for the real-time assessment
+of the adequacy of surgical repair but is also associated
+with a signi ﬁcant reduction in stroke, reoperation, and
+30-day mortality in cardiac valve and proximal aortic
+surgery.
+11,103
+What is less well established is the role of TEE in
+CABG, an area of limited prior investigation. A recent
+observational study of >1.3 million patients undergoing
+isolated CABG revealed that not only is the use of
+intraoperative TEE increasing linearly over time, but
+patients managed with the aid of TEE also experienced a
+signiﬁcant reduction in postoperative mortality
+compared with those who were not, a ﬁnding anchored
+by mortality bene ﬁts associated with moderate-risk (STS
+risk 4%-8%) and high-risk (STS risk >8%) patients.
+104
+TEE allows for the assessment of coincident valvular
+derangement, regional wall motion abnormality, global
+ventricular function, and determination of the etiology
+for hemodynamic compromise, all of which positively
+inﬂuence surgical and anesthetic decision making in the
+cardiac surgical setting. Major complications associated
+with TEE use are rare ( w1:1300), but higher than his-
+torically reported,
+105 and patients should be counselled
+on the potential risk and bene ﬁts of its use.
+Summary Statement: Transesophageal echocardi-
+ography is encouraged in patients with a moderate or
+high risk of perioperative morbidity or mortality.
+Quality of Evidence: Moderate
+PROTECTIVE LUNG VENTILATION. In patients undergoing
+cardiac surgery, measurable derangements in pulmo-
+nary function commonly emerge. Postoperative pulmo-
+nary complications, which develop in up to 25% of the
+patients, contribute to prolonged length of stay and
+greater mortality and require substantial health care
+resource utilization.
+106-112 Data obtained from
+observational studies and randomized controlled trials
+(RCTs) in noncardiac surgical patients suggest that low
+tidal volume ventilation (6-8 mL/kg predicted body
+weight), in conjunction with positive end-expiratory
+pressure (PEEP) and alveolar recruitment maneuvers,
+reduces postoperative pulmonary complications.
+113-116
+A meta-analysis including 15 RCTs (n ¼ 2121) in
+different surgical settings (ie, thoracic, cardiac, general)
+showed that low tidal volume ventilation ( /C20 8 mL/kg
+predicted body weight) was protective against
+pulmonary dysfunction.
+117 Modern lung-protective
+ventilation strategies have increasingly focused on
+targeting lower transpulmonary pressures (ie, driving
+pressure) in addition to lower tidal volumes and
+PEEP.
+118-120 A recent observational study investigating
+the effects of intraoperative mechanical ventilation on
+postoperative pulmonary complications after cardiac
+surgery demonstrated that the application of an
+intraoperative lung-protective ventilation bundle,
+consisting of low tidal volume ventilation, modi ﬁed
+driving pressure (peak inspiratory pressure /C0 PEEP)
+<16 cm H
+2O and PEEP /C21 5c mH 2O, was independently
+associated with reduced pulmonary complications after
+cardiac surgery.
+121
+Summary Statement: Mechanical ventilation with
+lung-protective strategies is associated with improved
+mechanics and fewer pulmonary complications.
+Quality of Evidence: High
+VENTILATION ON CARDIOPULMONARY BYPASS.
+Cardiopulmonary bypass (CPB) permits blood oxygena-
+tion and carbon dioxide exchange, allowing for cessation
+of lung ventilation to improve surgical exposure. Previ-
+ous observational data suggest that continuous positive
+pressure might improve postoperative gas exchange and
+prevent postoperative complications.
+122,123 Several
+randomized studies investigated different ventilation
+strategies during CPB and did not ﬁnd a difference in
+postoperative complications between the ventilation
+and nonventilation strategy.
+124,125
+Summary Statement: The role of mechanical venti-
+lation during cardiopulmonary bypass is uncertain.
+Quality of Evidence: Moderate
+USE OF PULMONARY ARTERY CATHETERS. Data from
+large observational trials have consistently revealed that
+the placement of pulmonary artery catheters (PACs) in
+low-risk patients (ie, aged <75 years with normal
+ventricular dysfunction and without evidence of
+signiﬁcant valvular abnormality) and clinically stable
+patients undergoing elective procedures leads to
+increased interventions (ie, nonroutine vasopressor
+use, ﬂuid administration), which although incurring
+greater health care expense and leading to additional
+length of stay, has not been associated with improved
+morbidity or mortality.
+126-128
+The bene ﬁt of PACs in high-risk populations or those
+with clinical decompensation is less certain, because
+results have varied across the available trials.
+129-131 One
+recent observational trial, involving the analysis of >2
+million patients, suggested that PAC use in high-risk
+patients (ie, older adult, congestive heart failure, pul-
+monary hypertension) or high-risk operations (ie, mul-
+tiple valve procedures) was associated with longer
+periods of mechanical ventilation and prolonged length
+of stay compared with patients who did not receive a
+674 EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p7]]
+PAC.129 Highly selective use of PACs in high-risk pop-
+ulations may be safe and potentially bene ﬁcial, but
+additional prospective studies are necessary to con ﬁrm
+this hypothesis. 130
+Summary Statement: Pulmonary artery catheters
+use in low-risk patients or procedures incurs greater
+health care resource utilization without improving
+morbidity or mortality.
+Quality of Evidence: Moderate
+CENTRAL NERVOUS SYSTEM MONITORING. Intraoperative
+central nervous system monitoring of patients under-
+going CABG, depending on the method, has been hy-
+pothesized to identify and prevent periods of brain
+malperfusion and ensure adequate titration of anes-
+thetics to prevent postoperative neurocognitive
+dysfunction as well as avoid excessive depth of anes-
+thesia. A recent meta-analysis of RCTs showed that
+management associated with the use of near-infrared
+spectroscopy in the setting of cardiac surgery can be
+beneﬁcial to prevent postoperative cognitive
+dysfunction.
+132 Prior RCTs, as well that those included
+in the meta-analysis, are generally small and
+inconsistent in the de ﬁnition of neurologic outcomes.
+Further, the management of cerebral hypoperfusion
+was wide-ranging, including blood product transfusion,
+provision of supplemental oxygen, and vasopressor
+titration.
+133-138 Therefore, although the monitoring
+method can provide bene ﬁt, it is unclear which
+interventions are optimal for prevention of neurologic
+morbidity in patients undergoing CABG. Although an
+association has been established between persistently
+low intraoperative processed electroencephalogram (ie,
+bispectral index) and postoperative mortality,
+139 the
+use of the monitoring method for prevention of recall,
+assessment of depth of anesthesia, and its association
+with improved recovery (ie, earlier extubation,
+shortened length of stay) has yielded inconsistent
+results.
+140-142
+Summary Statement: Central nervous system moni-
+toring may provide an early indication of neurologic
+risk, but additional study is necessary to identify
+strategies to prevent and mitigate injury .
+Quality of Evidence: Moderate
+POSTOPERATIVE NAUSEA AND VOMITING PREVENTION.
+Postoperative nausea and vomiting (PONV) is one of
+the greatest contributors to patient dissatisfaction after
+surgery, to a similar degree as poorly controlled pain.
+143
+Reported incidence of PONV after cardiac surgery varies
+from 10% to 70%, likely re ﬂecting the known impact of
+various patient and perioperative factors on its
+cumulative risk.
+144-148 Two recent prospective
+randomized studies investigated the effectiveness of
+chemical prophylaxis for the prevention of PONV after
+cardiac surgery, each of which revealed an w20%
+reduction in the incidence of PONV with medication
+administration.
+149-151 This is consistent with the
+ﬁndings and recommendations put forward by a recent
+multisociety consensus guideline for the management
+of PONV, which recommends screening for risk factors,
+administration of patient-speci ﬁc prevention and
+rescue strategies, and inclusion of multimodal PONV
+prophylaxis in enhanced recovery pathways
+(Table 3 ).
+152,153
+Summary Statement: Standardized risk factor
+assessment and prophylaxis has been shown to prevent
+postoperative nausea and vomiting.
+Quality of Evidence: Moderate
+GOAL-DIRECTED PERFUSION. Traditionally, blood ﬂow
+rates on CPB are derived primarily from a formula that
+correlates cardiac index with body surface area. Goal-
+directed perfusion (GDP), in contrast, establishes a
+formal algorithm to protocolize ﬂow rates,
+hemoglobin levels, and vasopressor titration to
+achieve a targeted delivery of oxygen (DO
+2)
+threshold. The original research in this area suggested
+that maintaining DO
+2 /C21 280 mL $ min/C0 1 $ m/C0 2 (for
+patients undergoing surgery with CPB with moderate
+hypothermia [32-34
+/C14 C]) is associated with a reduction
+in the incidence of acute kidney injury. 154 This was
+reinforced in subsequent observational trials, including
+a recent retrospective study, where > 800 cardiac
+procedures were included, which found that low DO 2
+on CPB may be associated with greater morbidity and
+mortality after cardiac surgery, particularly in patients
+undergoing nonisolated CABG.
+155 Multiple studies have
+investigated the impact of GDP on AKI, including a
+recent meta-analysis of RCTs, which found that
+although GDP based on DO
+2 during CPB was associated
+with a reduction in stage 1 AKI, the approach did not
+appear to signi ﬁcantly impact stage 2/3 AKI or
+mortality.
+156-158 Additional research is necessary to
+determine other key aspects of GDP, including targeted
+TABLE 3 Standard Approach to Risk Factor Identi ﬁcation and
+Prophylaxis Against Postoperative Nausea and Vomiting (PONV)
+Step 1: Identify Risk Factors for PONV
+Female
+sex
+Nonsmoker History of PONV or
+motion sickness
+Postoperative
+opioid use
+Step 2: Administer Prophylaxis Based on Number of Risk(s) a
+0-1 2 3 4
+Antiemetic #1 Antiemetic #1 Antiemetic #1 Antiemetic #1
+Antiemetic #2 Antiemetic #2 Antiemetic #2
+Antiemetic #3 Antiemetic #3
+Antiemetic #4
+aEach additional agent is selected from a different class (ie, different mode of action) and
+provided based on its optimal timing/route of administration. 153
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+675
+[[p8]]
+mean arterial pressure, acid-base balance, arterial oxygen
+saturation, and oxygen extraction ratio.
+Summary Statement: Goal-directed perfusion may
+play a role in preventing organ injury associated with
+cardiopulmonary bypass.
+Quality of Evidence: Low
+POSTOPERATIVE PROCESS MEASURES
+EARLY EXTUBATION STRATEGIES. Early postoperative
+extubation ( <6 hours after surgery) for routine low-risk
+and certain high-risk (ie, aortic root, ascending aortic
+repairs) elective cardiac operations has been
+demonstrated to be safe, with some evidence of
+reduced intensive care unit (ICU) and hospital lengths
+of stay although with no difference in mortality.
+159-161
+This also applies to overnight extubation, provided
+appropriate staf ﬁng and oversight is in place. 153 One
+RCT demonstrated that management in a specialized
+postanesthetic care unit can signi ﬁcantly reduce
+extubation times compared with a cardiac ICU.
+162 A
+number of quality improvement studies have
+conﬁrmed that implementation of a structured
+extubation protocol, including greater compliance with
+an enhanced recovery pathway, can reduce time to
+extubation.
+163-166 Caution should be exercised for
+patients undergoing ventricular assist device
+placement, cardiac transplantation, or emergency
+procedures because those populations are generally
+unstudied in the context of early extubation.
+Summary Statement: Structured strategies to facili-
+tate extubation within 6 hours of surgery have been
+shown to be safe and potentially hasten recovery after
+elective procedures.
+Quality of Evidence: Moderate
+INTRAOPERATIVE EXTUBATION. Intraoperative and im-
+mediate postoperative extubation ( <1 hour) have been
+investigated, with published literature suggesting the
+practice to be both feasible and safe, because studies
+have reported similar reintubation and overall compli-
+cation rates compared with standard extubation pro-
+tocols.
+167-171 One propensity-matched analysis of
+intraoperative extubation compared with early
+extubation among nonemergent cardiac surgical
+patients found the practice was associated with a
+signiﬁcant reduction in ICU and hospital lengths of
+stay as well as a 20% reduction in the cost of care.
+172
+Given certain characteristics unique to cardiac sur-
+gery, including the potential for early postoperative
+bleeding, acidosis, and delayed awakening, it may be
+appropriate to use predictive scoring rubrics 173 or
+establish a consensus intraoperative anesthetic, 166
+particularly among centers with limited experience in
+intraoperative extubation. The limited availability of
+data directly comparing intraoperative with early
+extubation tempers the strength of this
+recommendation, and the approach should be reserved
+for select patient populations in highly specialized
+programs.
+Summary Statement: Highly selective intraoperative
+or immediate postoperative extubation may be
+appropriate for patients undergoing low-risk cardiac
+surgery.
+Quality of Evidence: Low
+AKI PREVENTION AND MANAGEMENT. Approximately 20%
+to 40% of patients experience AKI after cardiac sur-
+gery,
+174,175 which is associated with increased risk of
+developing chronic kidney disease as well as increased
+short- and long-term mortality.
+176,177 AKI diagnosis and
+classiﬁcation is based on the 2012 Kidney Disease:
+Improving Global Outcomes (KDIGO) consensus
+criteria,178 and guidance for the management of cardiac
+surgery-associated AKI has been previously
+published.
+179 There are limitations to this staging
+system because serum creatinine (SCr) and urinary
+output are surrogate markers of the glomerular
+ﬁltration rate and are not speci ﬁc for AKI. In healthy
+kidneys, the glomerular ﬁltration rate, as measured by
+SCr, may not decrease until /C21 50% of the functional
+nephrons are lost, and after cardiac surgery, volume
+overload may falsely indicate normal SCr values.
+180,181
+Novel kidney biomarkers may predict and detect AKI
+before a rise in SCr, allowing earlier initiation of
+preventive measures. Preoperatively, urinary uromodulin
+and postoperatively, urinary concentrations of tissue
+inhibitor of metalloproteina ses 2 (TIMP-2) and insulin-
+like growth factor-binding protein 7 (IGFBP7) can predict
+the development of AKI.
+182,183 Among patients with
+evidence of postoperative A KI, early implementation of
+KDIGO care bundles, including serial monitoring of SCr,
+strict urine output quanti ﬁcation, volume replacement
+based on advanced algorithms, maintenance of
+hemodynamic targets, and avoidance of nephrotoxic
+agents, has been demonstrated to reduce the rate of
+stage 2 and 3 AKI after cardiac surgery.
+184-187
+Summary Statement: Routine screening for and,
+where appropriate, the use of a comprehensive treat-
+ment care bundle can reduce the incidence and severity
+of postoperative acute kidney injury.
+Quality of Evidence: Moderate
+POSTOPERATIVE ACTIVITY AND STERNAL PRECAUTIONS.
+Numerous other subspeciality guidelines have estab-
+lished the merits of early postoperative ambulation and
+physiotherapy, including walking, muscular exercise,
+cycling, and other activities in the initial 24 hours after
+surgery.
+2-4 In cardiac surgery, early ambulation is safe
+and associated with decreased atelectasis, pleural
+effusion, and pneumonia, greater exercise capacity,
+676 EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p9]]
+and shorter ICU length of stay. 188-193 The impact on
+overall length of stay and mortality rates is unclear. 194
+Early upper extremity exercise, which allows for
+greater range of motion based on patient comfort and
+strength training guided by speci ﬁc ergonomic princi-
+ples to avoid excessive tension on the sternum, has been
+shown to be a safe and potentially effective alternative
+to more traditional restrictive sternal precautions.
+195-199
+Formal involvement of physical therapists and proto-
+colization within the ICU environment has been shown to
+be a cost-effective approach to improve compliance with
+individualized regimens and strength outcomes.
+200-202
+Finally, programs should evaluate patients and prescribe
+comprehensive home- or center-based cardiac rehabili-
+tation that uses education, life style modi ﬁcation, and
+exercise training to hasten recovery, reduce readmission,
+and improve quality of life.
+11,203,204
+Summary Statement: Early postoperative ambula-
+tion and upper extremity exercise is well tolerated and
+associated with hastened recovery.
+Quality of Evidence: Moderate
+MULTIPHASE PROCESS MEASURES
+GOAL-DIRECTED THERAPY. Advanced monitoring with
+invasive arterial, central venous, and in select high-risk
+patients, PACs, is common practice in cardiac
+anesthesia. Goal-directed hemodynamic and ﬂuid
+therapy (GDT) describes an algorithmic approach to
+achieve certain hemodynamic end points through the
+provision of ﬂuid and vasopressor, and inotropic
+medications. The cornerstone of GDT suggests that
+patients who are responsive to ﬂuid administration be
+identiﬁed through dynamic tests, including stroke
+volume or pulse pressure variation as well as cardiac
+output or stroke volume responsiveness, thus
+establishing a protocol for appropriate resuscitation
+interventions.
+Whereas numerous observational, prospective studies,
+and meta-analyses, including several conducted exclu-
+sively in cardiac surgical patients, have revealed the
+approach is associated with reduced organ injury, medi-
+cal complications, and hospital length of stay,
+205-209 those
+ﬁndings are not universal, and results remain inconsis-
+tent. This is likely owing to high degrees of clinical het-
+erogeneity, including varying algorithms, monitoring
+techniques, and study design.
+210-212 As a result, although
+GDT for cardiac surgery may provide bene ﬁt, additional
+study is necessary to determine the ideal monitoring in-
+dicators and algorithm.
+Summary Statement: Goal-directed ﬂuid and hemo-
+dynamic therapy can guide perioperative resuscitation
+and prevent postoperative organ injury.
+Quality of Evidence: Moderate
+OPIOID-SPARING PAIN MANAGEMENT. Pain results in
+detrimental physiologic responses that may lead to
+postoperative complications, poor patient experience,
+and an increased risk of chronic pain, and is a standard
+metric for quality of recovery.
+213-216 Opioid-based
+analgesia has historically held a primary role in the
+perioperative care of cardiac surgical patients.
+217
+Although effective in providing analgesia, opioids have
+numerous adverse effects that impede recovery and
+create a negative patient experience.
+218 Additionally,
+there is growing awareness of the importance of new
+persistent opioid use, with an incidence in cardiac
+surgery of up to 10% to 15%, and recognition of the
+contributory roles of postoperative opioid
+administration and discharge prescribing practices.
+218-222
+Multimodal analgesia aims to reduce or eliminate the
+reliance on opioids by using alternative therapies and is
+one of the foundations of enhanced recovery. 223,224
+Although multimodal analgesia for cardiac surgery has
+been the subject of recent reviews, there are limited
+prospective data.
+225-227 One RCT of 150 patients in
+which a multimodal bundle was compared with
+morphine-based analgesia demonstrated a signi ﬁcant
+reduction in average pain scores and less nausea and
+vomiting.
+228 In another RCT, the ERAS group, which
+received a multimodal analgesia bundle, had lower
+pain scores at all assessment points in the ﬁrst 72
+hours and reduced hospital length of stay, although no
+differences in patient-reported functional recovery
+compared with standard of care.
+229 Multimodal opioid-
+sparing analgesia, in isolation or as part of a larger
+ERAS program, has been shown retrospectively to
+reduce opioid requirements, facilitate early extubation,
+and contribute to a shorter length of stay, although
+improvement in pain scores is not reliably demon-
+strated, and metrics, such as common opioid/pain
+adverse effects, and patient-centered outcomes, are
+inconsistently reported.
+230-233
+There are limited data on the use and effectiveness
+of individual nonopioid pharmacologic agents in car-
+diac surgery. A recent systematic review found 21
+publications of prospective studies on intravenous
+analgesics: 14 comparing various opioids, 4 on
+paracetamol/acetaminophen, and 3 on nonsteroidal
+anti-in ﬂammatory drugs.
+234 Fortunately, there is well-
+established science on the full spectrum of nonopioid
+options in the noncardiac literature, which may pro-
+vide the preliminary basis for development of an
+evidence-based analgesic strategy.
+235 Incorporating
+multimodal analgesia within a cardiac enhanced
+recovery program requires assessment of each
+analgesic option regarding the presumed bene ﬁt,
+anticipated risks and adverse effects, cost, and
+barriers to implementation.
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+677
+[[p10]]
+Summary Statement: A multimodal approach re-
+duces reliance upon opioid-based analgesia and opti-
+mizes perioperative pain management.
+Quality of Evidence: Moderate
+REGIONAL ANALGESIA. A greater foundation of literature
+exists evaluating the effectiveness of thoracic epidural,
+intrathecal, and regional analgesia in cardiac surgery. A
+meta-analysis of 69 trials and 4860 patients showed
+reduced pain, intubation time, respiratory depression,
+and arrhythmias with the use of thoracic epidural
+analgesia.
+236 These bene ﬁts must be balanced with the
+risk of epidural hematoma, a potentially catastrophic
+complication with an estimated incidence between
+1:1000 and 1:30,000.
+237,238 A 2009 systematic review
+showed intrathecal morphine reduced pain and opioid
+requirements, but there were inconsistent ﬁndings
+related to reduced adverse effects or other outcome
+beneﬁts.
+239
+Recently, there has been rapid growth in the classi ﬁ-
+cation and application of a variety of paraspinal and
+chest-wall regional anesthesia techniques.
+240-242 Four
+recent systematic reviews have shown that these blocks
+may help reduce pain and opioid use compared with
+systemic analgesics alone. However, small sample sizes,
+poor methodologic quality, and high heterogeneity pre-
+vent comparing the relative ef ﬁcacy of the various
+techniques, limit quanti ﬁcation of the additive bene ﬁt
+within a pharmacologic multimodal bundle, and indicate
+that further research is required.
+243-246
+Summary Statement: Chest wall regional analgesia
+is an effective component of a multimodal approach to
+perioperative pain management.
+Quality of Evidence: Moderate
+PATIENT BLOOD MANAGEMENT PROGRAM. Patient blood
+management (PBM) involves establishing a
+comprehensive program to apply best practices to guide
+local use of allogenic blood products. Multiple observa-
+tional studies in cardiac surgery have found an associa-
+tion between PBM and decreased transfusion rates,
+bleeding events, AKI, infection, length of stay, and
+health care costs.
+247-253 A recent meta-analysis revealed
+that the greatest magnitude of bene ﬁt across the
+surgical specialties for many of the metrics analyzed
+occurred in cardiac surgery.
+254 Components of a PBM
+program are highlighted in Table 4 , organized based on
+3 major pillars 254,255: (1) preoperative anemia and iron
+deﬁciency screening and optimization, (2)
+minimization of intraoperative blood loss or
+hemodilution, and (3) permissive intraoperative and
+postoperative anemia. 256,257 Additional guidance
+regarding PBM has been previously published. 256
+Summary Statement: Blood product use and associ-
+ated outcomes are optimized through the imple-
+mentation of a comprehensive patient blood
+management program.
+Quality of Evidence: Moderate
+POSTOPERATIVE ATRIAL FIBRILLATION PREVENTION.
+Postoperative atrial ﬁbrillation (POAF) after cardiac sur-
+gery has been extensively investigated, with an inci-
+dence ranging from 15% to 40% and associated with an
+increased risk of perioperative stroke and early and late
+mortality, and increased hospital length of stay and
+cost.
+258,259 For patients who develop POAF and are
+discharged in sinus rhythm, nearly 30% will have
+recurrent POAF in follow-up within 1 month.
+260
+Identiﬁcation of patients with a higher risk of POAF
+may allow for higher intensity prevention methods. The
+CHA
+2DS2-VASc score (C: congestive heart failure; H:
+hypertension [blood pressure consistently >140/90 mm
+g?????|Z?`?QY???NbQP?VT
+TABLE 4 Components of a Patient Blood Management Program
+Preoperative Anemia and Iron De ﬁciency Screening and Optimization
+A patient blood management program, led by a multidisciplinary team of health care providers, should be part of a comprehensive strategy to
+avoid unnecessary transfusion.
+Anemia and iron de ﬁciency assessment and treatment with B 12, folate, and intravenous iron preparations, as indicated, is reasonable to reduce
+blood transfusion.
+Preoperative administration of intravenous iron and/or erythropoietin-stimulating agents is reasonable to increase red cell mass for anemic
+patients.
+Minimize Blood Loss and Hemodilution
+Laboratory measurement of antiplatelet drug effect for patients on preoperative dual antiplatelet therapy is reasonable to guide timing of surgery .
+Use of synthetic anti ﬁbrinolytic agents such as epsilon-aminocaproic acid (EACA) or tranexamic acid are shown to reduce blood transfusion.
+Reduced priming volume in the cardiopulmonary bypass circuit reduces hemodilution and blood transfusion.
+Retrograde autologous priming of the cardiopulmonary bypass circuit reduces hemodilution and blood transfusion.
+Routine use of intraoperative red blood cell salvage using centrifugation is indicated for blood conservation.
+Use of a standardized hemostasis checklist during cardiac surgery, before closing, can reduce bleeding and blood transfusion.
+Permissive Anemia in the Intraoperative and Postoperative Phases
+A standardized, restrictive perioperative red blood cell transfusion protocol is favored in preference to a liberal strategy to reduce transfusion .
+Goal-directed transfusion algorithms that incorporate point-of-care testing, such as with viscoelastic devices, are shown to reduce bleeding and
+transfusion.
+Red blood cell transfusion is unlikely to bene ﬁt nonbleeding patients with a hemoglobin concentration >7.5 g/dL.
+678 EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p11]]
+years; D: diabetes mellitus; S 2: prior stroke or transient
+ischemic attack, or thromboembolism; V: vascular disease
+[previous myocardial infarction, peripheral arterial
+disease, or aortic plaque]; A: age 65-74 years; Sc: sex
+category [female sex]) has been shown to be an
+independent predictor of the development of POAF.
+261,262
+Results of meta-analyses randomized trials show that
+prophylactic b-blockers and amiodarone, both
+preoperatively and postoperatively administered, reduce
+the incidence of POAF. 263-266 As treatment against the
+inﬂammatory state thought to be implicated in POAF,
+multiple randomized trials have been conducted looking
+at corticosteroids, N-acetylcysteine, polyunsaturated fatty
+acids, and vitamins. Owing to the signi ﬁcant
+heterogeneity in these studies, the treatment effect has
+been inconsistent.
+267,268 The use of biatrial pacing after
+cardiac surgery has sho wn a reduction in POAF;
+however, right- or left-sided atrial pacing has not shown
+a consistent reduction in POAF.
+269 Finally, the routine
+use of magnesium supplementation has not been shown
+to be beneﬁcial in studies at low risk of bias.
+270
+Pericardial effusion has been implicated as a path-
+ophysiologic contributor to POAF, 271 and thus,
+strategies should be deployed to avoid retention of
+pericardial blood. The routine use of posterior
+pericardiotomy has demonstrated a reduction in
+residual pericardial effusion as well as POAF, with a
+systematic review of 3425 patients demonstrating a
+90% reduction in tamponade and a 58% reduction in
+POAF.
+272 Table 5 provides a summary of the
+potential strategies associated with a reduction in
+POAF.
+Summary Statement: Postoperative atrial ﬁbrilla-
+tion is optimally addressed through the use of a
+multifaceted prevention strategy.
+Quality of Evidence: Moderate
+SYSTEMATIC DELIRIUM SCREENING AND PREVENTION.
+Delirium occurs in w20% to 50% of patients after car-
+diac surgery and is associated with reduced in-hospital
+and long-term survival, freedom from hospital
+readmission, and cognitive and functional recovery.
+273-275
+Early delirium detection is essential in the management
+of delirium and should begin in the preoperative phase
+by identifying key risk factors for the development of
+delirium.
+276 In the postoperative phase, the use of a
+systematic delirium screening tool in the ICU that
+assesses the full spectrum of delirium presentation (ie,
+hypoactive, hyperactive, and mixed) should be
+incorporated as part of routine monitoring at least once
+per nursing shift.
+277 The Confusion Assessment Method
+f o rt h eI n t e n s i v eC a r eU n i to rt h eI n t e n s i v eC a r eU n i t
+Delirium Screening Checklist are the most commonly
+reported tools in the ICU.
+278-280
+Once delirium is detected, it is important to deter-
+mine the underlying cause (ie, pain, hypoxemia, low
+cardiac output, and sepsis) and initiate appropriate
+treatment.
+277 Several randomized trials have not
+provided support for the use of prophylactic
+medicines, such as clonidine or antipsychotic agents,
+to reduce the occurrence of delirium in the ICU.
+281-283
+The use of antipsychotic medications should be limited
+to those patients with particularly distressing symptoms
+and/or who pose a safety risk to themselves or the health
+care team.
+In contrast, nonpharmacologic strategies remain as
+the ﬁrst-line component of management and should
+consider the implementation of the ICU “ABCDEF
+liberation bundle” (A: assess, prevent, and manage pain;
+B: Both spontaneous awakening and spontaneous
+breathing trials; C: Choice of analgesia and sedation; D:
+Delirium: assess, prevent, and manage; E: Early mobility
+and exercise; F: Family engagement and empowerment)
+in the postoperative cardiac surgery ICU.
+277 A
+multicenter randomized trial examining a
+multicomponent family support intervention was
+associated with higher ratings of the quality of
+communication and a shorter ICU length of stay;
+however, this requires additional study in the
+postoperative cardiac surgery patient.
+284
+Summary Statement: Routine use of a systematic
+delirium screening tool and nonpharmacologic strate-
+gies aid the identi ﬁcation and prevention of post-
+operative delirium.
+Quality of Evidence: High
+SURGICAL SITE INFECTION PREVENTION BUNDLE. A num-
+ber of strategies applied across the perioperative con-
+tinuum have been shown to reduce the incidence of
+postoperative surgical site infection (SSI). These can be
+quite extensive, including behavioral elements, such as
+TABLE 5 Components of Postoperative Atrial
+Fibrillation Prevention
+Preoperative Risk Scoring
+CHA2DS2-VASc score
+Medications
+Preoperative or immediate postoperative oral or intravenous
+b-blocker
+Preoperative (high risk) or immediate postoperative oral or
+intravenous amiodarone
+Procedural Considerations
+Posterior pericardiectomy
+Avoidance of retained pericardial blood
+CHA2DS2-VASc, C: congestive heart failure; H: hypertension (blood pressure
+?]PSONXO??g?????HZ?`?QY??‡VT
+years; D: diabetes mellitus; S 2: prior stroke or transient ischemic attack, or
+thromboembolism; V: vascular disease (previous myocardial infarction, periph-
+eral arterial disease, or aortic plaque); A: age 65-74 years; Sc: sex category
+(female sex).
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+679
+[[p12]]
+preoperative smoking cessation, 285 surgical site
+preparation with chlorhexidine cleansing and hair
+clipping (as opposed to shaving),
+286,287 antimicrobial
+prophylaxis with topical intranasal staphylococcal
+decolonization
+288-290 and appropriately timed
+antibiotics,291,292 and the routine maintenance of
+euglycemia293-295 and normothermia. 296 Prior
+publications have not only revealed an association
+between individual interventions and SSI prevention
+but also reinforced the bundled application of
+numerous elements to obtain an additive, if not
+synergistic, reduction in subsequent infection.
+297-300
+Elements that may be potentially included in an SSI
+bundle are summarized in Table 6 .
+Summary Statement: The bundled application of
+evidence-based best practices has been shown to pre-
+vent surgical site infection.
+Quality of Evidence: High
+UNGRADED CARE ELEMENTS, FUTURE DIRECTIONS,
+AND CONTENT DISCLAIMER
+Early removal of catheters and tubes is a cornerstone
+element of ERAS. Unfortunately, few studies have
+expressly evaluated the timing of removal of central
+catheters, arterial access, and chest tubes in the cardiac
+surgical setting. However, teams are recommended to
+formally assess daily and remove all indwelling cathe-
+ters and chest tubes as early as possible after surgery.
+2-4
+Heparin-induced thrombocytopenia (HIT) is a life-
+threatening complication associated with exposure to
+unfractionated heparin.
+301 Owing to the preponderance
+of thrombocytopenia, multiple heparin exposures, and
+alternative bleeding dyscrasias, particularly in the early
+postoperative period, formal cardiac-speci ﬁc HIT
+screening and management should be protocolized and
+requires additional study.
+302
+Given the relatively high incidence of vocal cord
+injury associated with cardiac surgery, owing to higher
+incidence of prolonged intubation and increased vaso-
+pressor administration compared with other types of
+surgery, it may be advisable for programs to standardize
+postoperative screening for oropharyngeal injury,
+particularly in high-risk patients.
+303
+Although a multimodal, opioid-sparing pain man-
+agement plan is recommended, cardiac surgical patients
+with preoperative opioid-tolerance or chronic opioid use
+are underrepresented in the literature,
+304 and additional
+study is necessary prior to providing formal
+recommendations regarding management of their pain
+and opioid administration.
+Minimally invasive surgery is a common inclusion
+among other ERAS subspecialty guidelines because
+smaller incisions are associated with less surgical
+trauma, more modest analgesic requirements, and
+shorter recovery periods.
+2-4 Although minimally inva-
+sive surgery has been described, including mini-
+thoracotomy, ministernotomy, and robotic
+approaches,
+305-307 additional research is required to
+establish its association with key mid and long-term
+outcomes.308-310
+In addition, patients with mechanical circulatory
+support devices, such as an intra-aortic balloon pump or
+a temporary or more durable ventricular assist device,
+will similarly bene ﬁt from protocolized evidence based
+perioperative care pathways. However, more research is
+needed to integrate into ERAS clinical pathways.
+The statements provided in this document are the
+result of a recent review of published evidence and
+expert opinion. Although they are a re ﬂection of the
+available evidence, limitations in study design, patient,
+or procedure inclusion characteristics, differences in
+regional and international practice patterns, and varia-
+tion in interventions and surgical complexity suggest
+that this consensus statement should neither be
+considered standard of care nor a substitute for patient
+autonomy or clinical judgment. Providers and their
+teams are encouraged to deviate from these recom-
+mendations when patient preference, clinical condition,
+local expertise, or additional published literature war-
+rant. Further, application of the statements provided in
+this document to urgent or emergent procedures should
+be done with caution because most of the evidence is
+based on data derived from elective surgery.
+CONCLUSIONS. An aging patient population coupled
+with more sophisticated surgical technique has dramat-
+ically increased the complexity of perioperative care for
+the cardiac surgical patient. Although their origins can
+be traced back to fast-track cardiac surgery,
+159,311 which
+involved a similar bundled approach to care, present-
+day cardiac surgical ERAS protocols require adoption of
+TABLE 6 Components of a Surgical Site Infection
+Prevention Bundle
+Preoperative
+Smoking cessation for 4 weeks before surgery
+Topical intranasal staphylococcal decolonization
+Chlorhexidine-alcohol–based bathing the night before surgery
+Intraoperative
+Clipping (as opposed to shaving) of hair immediately prior to
+incision
+Chlorhexidine-alcohol–based solution for skin preparation prior to
+incision
+Appropriately timed ( <60 minutes prior to incision) and redosed
+antibiotic prophylaxis
+Routine use of an insulin infusion for glucose management
+Postoperative
+Avoidance of hyperglycemia (goal glucose <140-180 mg/dL)
+Maintenance of normothermia ( >36
+/C14 or <38/C14 C)
+680 EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p13]]
+a patient-centered, multidisciplinary pathway centered
+on elements shown to improve surgical outcome and
+contribute to high-value care. Despite a body of literature
+replete with examples of successful ERAS programs in
+noncardiac surgery, their application to the cardiac
+surgical setting is in its relative infancy. As outlined, most
+of the measures included in this document are based on a
+low- or moderate-level of evidence, and additional high-
+quality studies are warranted to tailor additional
+guidance in the future. The care elements assessed and
+reported on in this consensus statement can provide a
+foundation for ERAS program development to ensure
+optimal care for the cardiac surgical patient.
+FUNDING SOURCES
+The authors have no funding sources to disclose.
+DISCLOSURES
+Cheryl Crisaﬁ reports a relationship with Abbott that includes: speaking and
+lecture fees. Adrian Alvarez reports a relationship with P ﬁzer that includes:
+speaking and lecture fees. Rakesh C. Arora reports a relationship with
+Edwards Lifesciences Corporation that includes: consulting or advisory; and
+with AVIR that includes: consulting or advisory. Subhasis Chatterjee reports
+a relationship with Edwards Lifesciences Corporation that includes:
+consulting or advisory; with Baxter that includes: consulting or advisory;
+with La Jolla that includes: consulting or advisory; and with Eagle that in-
+cludes: consulting or advisory. Nick Fletcher reports a relationship with
+Edwards Lifesciences Corporation that includes: consulting or advisory.
+Serdar Gunaydin reports a relationship with Essential that includes:
+consulting or advisory; with Medtronic that includes: consulting or advisory;
+with Bicakcilar that includes: consulting or advisory; with Vifor Pharma that
+includes: consulting or advisory; with CSL Behring that includes: consulting
+or advisory; with Giganode that includes: speaking and lecture fees; with
+LivaNova that includes: consulting or advisory; with AstraZeneca that in-
+cludes: consulting or advisory; with P ﬁzer that includes: consulting or
+advisory; and with Abdi _Ibrahim that includes: consulting or advisory. Marjan
+Jahangiri reports a relationship with Edwards Lifesciences Corporation that
+includes: consulting or advisory. Olle Ljungqvist reports a relationship with
+Encare that includes: equity or stocks, speaking and lecture fees, and travel
+reimbursement; with Nutricia that includes: consulting or advisory; with
+Pharmacosmos that includes: consulting or advisory; with Fresenius-Kabi
+that includes: consulting or advisory; with Vita ﬂow that includes: consulting
+or advisory; with B. Braun that includes: consulting or advisory; and with
+Medtronic that includes: consulting or advisory. Kevin W. Lobdell reports a
+relationship with Renibus that includes: board membership and consulting
+or advisory; with Abiomed that includes: consulting or advisory and
+speaking and lecture fees; with Alexion that includes: consulting or advisory;
+with Medela that includes: consulting or advisory; and with Medtronic that
+includes: consulting or advisory. Joerg Ender reports a relationship with
+Edwards Lifesciences Corporation that includes: speaking and lecture fees;
+with Abbott that includes: speaking and lecture fees; with Medela that in-
+cludes: speaking and lecture fees; and with Samsung that includes:
+speaking and lecture fees. Vicki Morton reports a relationship with Acacia
+that includes: consulting or advisory. Seenu Reddy reports a relationship
+with Biomerieux that includes: consulting or advisory; with Edwards Life-
+sciences Corporation that includes: consulting or advisory; with Atricure that
+includes: consulting or advisory; with Medtronic that includes: consulting or
+advisory; with Johnson & Johnson Ethicon that includes: consulting or
+advisory; and with AngioDynamics that includes: consulting or advisory.
+Rawn Salenger reports a relationship with Atricure that includes: consulting
+or advisory and speaking and lecture fees; with Arthrex that includes:
+consulting or advisory; with Zimmer Biomet that includes: consulting or
+advisory and speaking and lecture fees; with Encare that includes: consul-
+ting or advisory; with Terumo that includes: consulting or advisory; with La
+Jolla that includes: consulting or advisory and funding grants; and with
+Artivion that includes: speaking and lecture fees. Alexander Zarbock reports
+a relationship with Guard that includes: consulting or advisory; with AM
+Pharma that includes: consulting or advisory; with Novartis that includes:
+consulting or advisory; with Bayer that includes: consulting or advisory; with
+Renibus that includes: consulting or advisory; with Baxter that includes:
+consulting or advisory, funding grants, and speaking and lecture fees; with
+bioM/C19erieux that includes: consulting or advisory, funding grants, and
+speaking and lecture fees; with Alexion that includes: consulting or advisory;
+with Paion that includes: speaking and lecture fees; and with Sphingotec
+that includes: travel reimbursement. Daniel T. Engelman reports a relation-
+ship with Edwards Lifesciences Corporation that includes: consulting or
+advisory; with Medela that includes: consulting or advisory; with Renibus
+that includes: consulting or advisory; with Alexion that includes: consulting
+or advisory; with Arthrex that includes: consulting or advisory; with Gen-
+entech that includes: consulting or advisory; with Astellas that includes:
+consulting or advisory; with Terumo that includes: consulting or advisory;
+with Rockwell Medical that includes: consulting or advisory; with Bioporto
+that includes: consulting or advisory; with Pharmacosmos that includes:
+consulting or advisory; and with CardioRenal Systems that includes:
+consulting or advisory. Michael C. Grant and Daniel T. Engelman serve on
+the Editorial Board of STS Journals. The other authors declare that they have
+no known competing ﬁnancial interests or personal relationships that could
+have appeared to in ﬂuence the work reported in this paper.
+REFERENCES
+PM?k?nK?r?lK?e?jbM?d???Y?
+review. JAMA Surg . 2017;152:292-298 .
+2. Stenberg E, Dos Reis Falc ~ao LF, O ’Kane M, et al. Guidelines for peri-
+operative care in bariatric surgery: Enhanced Recovery After Surgery (ERAS)
+Society recommendations: a 2021 update [published correction appears in
+World J Surg . 2022;46:752]. World J Surg . 2022;46:729-751 .
+3. Nelson G, Bakkum-Gamez J, Kalogera E, et al. Guidelines for perioper-
+ative care in gynecologic/oncology: Enhanced Recovery After Surgery
+(ERAS) Society recommendations –2019 update. Int J Gynecol Cancer .
+2019;29:651-668.
+4. Gustafsson UO, Scott MJ, Hubner M, et al. Guidelines for perioperative
+care in elective colorectal surgery: Enhanced Recovery After Surgery
+(ERAS
+/C210 ) Society recommendations: 2018. World J Surg . 2019;43:659-695 .
+5. Stone AB, Grant MC, Pio Roda C, et al. Implementation costs of an
+Enhanced Recovery After Surgery program in the United States: a ﬁnancial
+model and sensitivity analysis based on experiences at a quaternary aca-
+demic medical center. J Am Coll Surg . 2016;222:219-225 .
+6. Thiele RH, Rea KM, Turrentine FE, et al. Standardization of care:
+impact of an enhanced recovery protoc ol on length of stay, complications,
+and direct costs after colorectal surgery. JA mC o l lS u r g. 2015;220:430-
+443.
+7. ERAS Compliance Group. The impact of enhanced recovery protocol
+compliance on elective colorectal cancer resection: results from an inter-
+national registry. Ann Surg . 2015;261:1153-1159 .
+8. Grant MC, Pio Roda CM, Canner JK, et al. The impact of anesthesia-
+inﬂuenced process measure compliance on length of stay: results from an
+Enhanced Recovery After Surgery for colorectal surgery cohort. Anesth
+Analg. 2019;128:68-74 .
+9. Engelman DT, Ben Ali W, Williams JB, et al. Guidelines for perioperative
+care in cardiac surgery: Enhanced Recovery After Surgery Society recom-
+mendations. JAMA Surg . 2019;154:755-766 .
+10. Brindle M, Nelson G, Lobo DN, Ljungqvist O, Gustafsson UO. Recom-
+mendations from the ERAS /C210 Society for standards for the development of
+enhanced recovery after surgery guidelines. BJS Open . 2020;4:157-163 .
+11. Writing Committee Members, Lawton JS, Tamis-Holland JE,
+Bangalore S, et al. 2021 ACC/AHA/SCAI Guideline for Coronary Artery
+Revascularization: a report of the American College of Cardiology/American
+Heart Association Joint Committee on Clinical Practice Guidelines. JA m
+Coll Cardiol . 2022;79:e21-e129 .
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+681
+[[p14]]
+12. Cook DJ, Manning DM, Holland DE, et al. Patient engagement and
+reported outcomes in surgical recovery: effectiveness of an e-health plat-
+form. J Am Coll Surg . 2013;217:648-655 .
+13. Ocagli H, Lorenzoni G, Lanera C, et al. Monitoring patients reported
+outcomes after valve replacement using wearable devices: insights on
+feasibility and capability study: feasibility results. Int J Environ Res Public
+Health. 2021;18:7171 .
+14. Ben-Ali W, Lamarche Y, Carrier M, et al. Use of mobile-based appli-
+cation for collection of patient-reported outcomes in cardiac surgery. In-
+novations (Phila) . 2021;16:536-544 .
+15. Charles EJ, Mehaffey JH, Hawkins RB, et al. Effect of cardiac surgery
+on one-year patient-reported outcomes: a prospective cohort study. Ann
+Thorac Surg . 2021;112:1410-1416 .
+16. Charles EJ, Mehaffey JH, Hawkins RB, et al. Meaningful patient-
+centered outcomes 1 year following cardiac surgery. Ann Surg . 2021;273:
+e247-e254.
+17. Mihalj M, Carrel T, Urman RD, Stueber F, Luedi MM. Recommendations
+for preoperative assessment and shared decision-making in cardiac sur-
+gery. Curr Anesthesiol Rep . 2020;10:185-195 .
+18. Havranek EP, Mujahid MS, Barr DA, et al; American Heart Association
+Council on Quality of Care and Outcomes Research, Council on Epidemi-
+ology and Prevention, Council on Cardiovascular and Stroke Nursing,
+Council on Lifestyle and Cardiometabolic Health, and Stroke Council. Social
+determinants of risk and outcomes for cardiovascular disease: a scienti ﬁc
+statement from the American Heart Association. Circulation. 2015;132:873-
+898.
+19. Perez Jolles M, Richmond J, Thomas KC. Minority patient preferences,
+barriers, and facilitators for shared decision-making with health care pro-
+viders in the USA: a systematic review. Patient Educ Couns . 2019;102:1251-
+1262.
+20. Lamore K, Montalescot L, Untas A. Treatment decision-making in
+chronic diseases: What are the family members ’roles, needs and attitudes?
+A systematic review. Patient Educ Couns . 2017;100:2172-2181 .
+21. Abola RE, Bennett-Guerrero E, Kent ML, et al. American Society for
+Enhanced Recovery and Perioperative Quality Initiative Joint Consensus
+Statement on Patient-Reported Outcomes in an Enhanced Recovery
+Pathway. Anesth Analg . 2018;126:1874-1882 .
+22. Churruca K, Pomare C, Ellis LA, et al. Patient-reported outcome mea-
+sures (PROMs): a review of generic and condition-speci ﬁc measures and a
+discussion of trends and issues. Health Expect . 2021;24:1015-1024 .
+23. Subramanian M, Kozower BD, Brown LM, Khullar OV, Fernandez FG.
+Patient-reported outcomes in cardiothoracic surgery. Ann Thorac Surg .
+2019;107:294-301.
+24. Ayers B, Lee E, Wood K, et al. Patient-Reported Outcomes Measure-
+ment Information System (PROMIS) in left ventricular assist devices. Ann
+Thorac Surg . 2022;113:859-865 .
+25. Killian MO, Clifford SA, Gupta D. Directly observed therapy to promote
+medication adherence in paediatric heart transplant recipients.
+Cardiol
+Young. 2021;31:2048-2050 .
+26. Hughes TM, Merath K, Chen Q, et al. Association of shared decision-
+making on patient-reported health outcomes and healthcare utilization. Am
+J Surg . 2018;216:7-12 .
+27. Stone AB, Yuan CT, Rosen MA, et al. Barriers to and facilitators of
+implementing enhanced recovery pathways using an implementation
+framework: a systematic review. JAMA Surg . 2018;153:270-279 .
+28. Cohen R, Gooberman-Hill R. Staff experiences of enhanced recovery
+after surgery: systematic review of qualitative studies. BMJ Open . 2019;9:
+e022259.
+29. Martin D, Roulin D, Grass F, et al. A multicentre qualitative study
+assessing implementation of an Enhanced Recovery After Surgery program.
+Clin Nutr . 2018;37:2172-2177 .
+30. Pearsall EA, Meghji Z, Pitzul KB, et al. A qualitative study to understand
+the barriers and enablers in implementing an enhanced recovery after sur-
+gery program. Ann Surg . 2015;261:92-96 .
+31. Ljungqvist O, de Boer HD, Balfour A, et al. Opportunities and challenges
+for the next phase of Enhanced Recovery After Surgery: a review. JAMA
+Surg. 2021;156:775-784 .
+32. Jawitz OK, Bradford WT, McConnell G, Engel J, Allender JE,
+Williams JB. How to start an Enhanced Recovery After Surgery cardiac
+program. Crit Care Clin . 2020;36:571-579 .
+33. Francis NK, Walker T, Carter F, et al. Consensus on training and
+implementation of Enhanced Recovery After Surgery: a Delphi study. World
+J Surg . 2018;42:1919-1928 .
+34. Paton F, Chambers D, Wilson P, et al. Effectiveness and implementa-
+tion of enhanced recovery after surgery programmes: a rapid evidence
+synthesis. BMJ Open . 2014;4:e005015 .
+35. Knott A, Pathak S, McGrath JS, et al. Consensus views on imple-
+mentation and measurement of enhanced recovery after surgery in England:
+Delphi study. BMJ Open . 2012;2:e001878 .
+36. Zorrilla-Vaca A, Stone AB, Ripolles-Melchor J, et al. Institutional factors
+associated with adherence to enhanced recovery protocols for colorectal
+surgery: secondary analysis of a multicenter study. J Clin Anesth . 2021;74:
+110378.
+37. Salenger R, Morton-Bailey V, Grant M, Gregory A, Williams JB,
+Engelman DT. Cardiac Enhanced Recovery After Surgery: a guide to team
+building and successful implementation. Semin Thorac Cardiovasc Surg .
+2020;32:187-196.
+38. Morton-Bailey V, Salenger R, Engelman DT. The 10 commandments of
+ERAS for cardiac surgery. Innovations (Phila) . 2021;16:493-497 .
+39. Shapira OM, Blumenfeld O, Bolotin G, Grover FL, Shahian DM. Inter-
+national participation in The Society of Thoracic Surgeons Adult Cardiac
+Surgery Database: from institutional to national. Ann Thorac Surg . 2017;103:
+1683-1686.
+40. Fernandez FG, Shahian DM, Kormos R, et al. The Society of Thoracic
+Surgeons National Database 2019 annual report. Ann Thorac Surg .
+2019;108:1625-1632.
+41. Jacobs JP, Shahian DM, Grau-Sepulveda M, et al. Current penetration,
+completeness, and representativeness of The Society of Thoracic Surgeons
+Adult Cardiac Surgery Database. Ann Thorac Surg . 2022;113:1461-1468 .
+42. Jacobs JP, Shahian DM, Prager RL, et al. Introduction to the STS Na-
+tional Database Series: outcomes analysis, quality improvement, and patient
+safety. Ann Thorac Surg . 2015;100:1992-2000 .
+43. Hirji SA, Salenger R, Boyle EM, et al. Expert consensus of data ele-
+ments for collection for Enhanced Recovery After Cardiac Surgery. World J
+Surg. 2021;45:917-925 .
+44. Gustafsson UO, Hausel J, Thorell A, Ljungqvist O, Soop M, Nygren J.
+Adherence to the enhanced recovery after surgery protocol and outcomes
+after colorectal cancer surgery. Arch Surg . 2011;146:571-577 .
+45. Currie A, Burch J, Jenkins JT, et al. The impact of enhanced recovery
+protocol compliance on elective colorectal cancer resection: results from an
+international registry. Ann Surg . 2015;261:1153-1159 .
+46. Simpson JC, Moonesinghe SR, Grocott MPW, et al. Enhanced recovery
+from surgery in the UK: an audit of the enhanced recovery partnership
+programme 2009-2012. Br J Anaesth . 2015;115:560-568 .
+47. Ripoll/C19es-Melchor J, Ramírez-Rodríguez JM, Casans-Franc /C19es R, et al.
+Association between use of Enhanced Recovery After Surgery protocol and
+postoperative complications in colorectal surgery: the Postoperative Out-
+comes Within Enhanced Recovery After Surgery Protocol (POWER) Study.
+JAMA Surg . 2019;154:725-736 .
+48. Ripoll/C19es-Melchor J, S /C19anchez-Santos R, Abad-Motos A, et al. Higher
+adherence to ERAS Society /C210 recommendations is associated with shorter
+hospital stay without an increase in postoperative complications or read-
+missions in bariatric surgery: the association between use of Enhanced
+Recovery After Surgery Protocols and Postoperative Complications after
+Bariatric Surgery (POWER 3) multicenter observational study. Obes Surg .
+2022;32:1289-1299.
+49. Hensley NB, Grant MC, Cho BC, Suffredini G, Abernathy JA. How do we
+use dashboards to enhance quality in cardiac anesthesia? J Cardiothorac
+Vasc Anesth . 2021;35:2969-2976 .
+682
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p15]]
+50. Grant MC, Galante DJ, Hobson DB, et al. Optimizing an enhanced re-
+covery pathway program: development of a postimplementation audit
+strategy. Jt Comm J Qual Patient Saf . 2017;43:524-533 .
+51. Fischer CP, Knapp L, Cohen ME, Ko CY, Wick EC. Association of
+enhanced recovery pathway compliance with patient outcomes. JAMA
+Surg. 2021;156:982-984 .
+52. Kołodziej T, Maciejewski T, Mendrala K, et al. Enhanced recovery after
+cardiac surgery. Kardiochir Torakochirurgia Pol . 2019;16:32-36 .
+53. Magoon R, Choudhury A, Sarkar S, Joshi S. Enhanced recovery after
+cardiac surgery: is it just about putting the bundles together? Ann Cardiac
+Anaesth. 2021;24:276-278 .
+54. Pittams AP, Iddawela S, Zaidi S, Tyson N, Harky A. Scoring systems for
+risk strati ﬁcation in patients undergoing cardiac surgery. J Cardiothorac
+Vasc Anesth . 2022;36:1148-1156 .
+55. Saxena A, Dhurandhar V, Bannon PG, Newcomb AE. The bene ﬁts and
+pitfalls of the use of risk strati ﬁcation tools in cardiac surgery. Heart Lung
+Circ. 2016;25:314-318 .
+56. Biancari F, Giordano S. Glycated hemoglobin and the risk of sternal
+wound infection after adult cardiac surgery: a systematic review and meta-
+analysis. Semin Thorac Cardiovasc Surg . 2019;31:465-467 .
+57. Zheng J, Cheng J, Wang T, Zhang Q, Xiao X. Does HbA1c level have
+clinical implications in diabetic patients undergoing coronary artery bypass
+grafting? A systematic review and meta-analysis. Int J Endocrinol .
+2017;2017:1537213.
+58. Kotﬁs K, Szyli /C19nska A, Listewnik M, Brykczy /C19nski M, Ely EW, Rotter I.
+Diabetes and elevated preoperative HbA1c level as risk factors for post-
+operative delirium after cardiac surgery: an observational cohort study.
+Neuropsychiatr Dis Treat . 2019;15:511-521 .
+59. Engelman DT, Adams DH, Byrne JG, et al. Impact of body mass index
+and albumin on morbidity and mortality after cardiac surgery. J Thorac
+Cardiovasc Surg . 1999;118:866-873 .
+60. Jayakumar S, Khoynezhad A, Jahangiri M. Surgical site infections in
+cardiac surgery. Crit Care Clin . 2020;36:581-592 .
+61. Karas PL, Goh SL, Dhital K. Is low serum albumin associated with
+postoperative complications in patients undergoing cardiac surgery?
+Interact Cardiovasc Thorac Surg . 2015;21:777-786 .
+62. Li N, Qiao H, Guo JF, et al. Preoperative hypoalbuminemia was asso-
+ciated with acute kidney injury in high-risk patients following non-cardiac
+surgery: a retrospective cohort study. BMC Anesthesiol . 2019;19:171 .
+63. George LK, Molnar MZ, Lu JL, Kalantar-Zadeh K, Koshy SK,
+Kovesdy CP. Association of pre-operative albuminuria with post-operative
+outcomes after coronary artery bypass grafting. Sci Rep . 2015;5:16458 .
+64. Lee JA, Yanagawa B, An KR, Arora RC, Verma S, Friedrich JO. Cana-
+dian Cardiovascular Surgery Meta-Analysis Working Group. Frailty and pre-
+frailty in cardiac surgery: a systematic review and meta-analysis of 66,448
+patients. J Cardiothorac Surg . 2021;16:184 .
+65. Yanagawa B, Graham MM, A ﬁlalo J, Hassan A, Arora RC. Frailty as a
+risk predictor in cardiac surgery: beyond the eyeball test. J Thorac Car-
+diovasc Surg . 2019;157:1905-1909 .
+66. Foldvary-Schaefer N, Kaw R, et al. Prevalence of undetected sleep
+apnea in patients undergoing cardiovascular surgery and impact on post-
+operative outcomes. J Clin Sleep Med . 2015;11:1083-1089 .
+67. Gali B, Glasgow AE, Greason KL, Johnson RL, Albright RC,
+Habermann EB. Postoperative outcomes of patients with obstructive sleep
+apnea undergoing cardiac surgery. Ann Thorac Surg . 2020;110:1324-1332 .
+68. Pivetta B, Chen L, Nagappa M, et al. Use and performance of the STOP-
+Bang questionnaire for obstructive sleep apnea screening across
+geographic regions: a systematic review and meta-analysis. JAMA Netw
+Open. 2021;4:e211009 .
+69. Nagappa M, Patra J, Wong J, et al. Association of STOP-Bang ques-
+tionnaire as a screening tool for sleep apnea and postoperative complica-
+tions: a systematic review and Bayesian meta-analysis of prospective and
+retrospective cohort studies. Anesth Analg . 2017;125:1301-1308 .
+70. Wolf S, Wolf C, Cattermole TC, et al. Cardiac surgery outcomes: a case
+for increased screening and treatment of obstructive sleep apnea. Ann
+Thorac Surg . 2022;113(4):1159-1164 .
+71. McCann M, Stamp N, Ngui A, Litton E. Cardiac prehabilitation.
+J Cardiothorac Vasc Anesth . 2019;33:2255-2265 .
+72. Kaye AD, Kandregula S, Kosty J, et al. Chronic pain and substance
+abuse disorders: preoperative assessment and optimization strategies. Best
+Pract Res Clin Anaesthesiol . 2020;34:255-267 .
+73. US Food and Drug Administration. Extended-Release (ER) and Long-
+Acting (LA) Opioid Analgesics Risk Evaluation and Mitigation Strategy
+(REMS). June 2015. Accessed October 12, 2023. www.fda.gov/downloads/
+drugs/drugsafety/postmarketdrugsafetyinformationforpatientsandproviders/
+ucm311290.pdf
+74. Fried LP, Hadley EC, Walston JD, et al. From bedside to bench:
+research agenda for frailty. Sci Aging Knowledge Environ . 2005;2005:pe24 .
+75. Hewitt J, Long S, Carter B, Bach S, Mccarthy K, Clegg A. The preva-
+lence of frailty and its association with poorer clinical outcomes in general
+surgery: a systematic review and meta-analysis. Age Ageing . 2018;47:793-
+800.
+76. Robinson TN, Wallace JI, Wu DS, et al. Accumulated frailty character-
+istics predict postoperative discharge institutionalization in the geriatric
+patient. J Am Coll Surg . 2011;213:37-42 .
+77. Green P, Woglom AE, Genereux P, et al. The impact of frailty status on
+survival after transcatheter aortic valve replacement in older adults with
+severe aortic stenosis: a single-center experience. JACC Cardiovasc Interv .
+2012;5:974-981.
+78.
+Lee DH, Buth KJ, Martin BJ, Yip AM, Hirsch GM. Frail patients are at
+increased risk for mortality and prolonged institutional care after cardiac
+surgery. Circulation. 2010;121:973-978 .
+79. Singh M, Rihal CS, Lennon RJ, Spertus JA, Nair KS, Roger VL. In ﬂuence
+of frailty and health status on outcomes in patients with coronary disease
+undergoing percutaneous revascularization. Circ Cardiovasc Qual Out-
+comes. 2011;4:496-502 .
+80. S€undermann S, Dademasch A, Rastan A, et al. One-year follow-up of
+patients undergoing elective cardiac surgery assessed with the Compre-
+hensive Assessment of Frailty test and its simpli ﬁed form. Interact Car-
+diovasc Thorac Surg . 2011;13:119-123 [discussion: 123] .
+81. Pathirana AK, Lokunarangoda N, Ranathunga I, Santharaj WS,
+Ekanayake R, Jayawardena R. Prevalence of hospital malnutrition among
+cardiac patients: results from six nutrition screening tools. Springerplus.
+2014;3:412.
+82. McWhirter JP, Pennington CR. Incidence and recognition of malnutri-
+tion in hospital. BMJ. 1994;308:945-948 .
+83. Nguyen TC, Thourani VH, Nissen AP, et al. The effect of COVID-19 on
+adult cardiac surgery in the United States in 717 103 patients. Ann Thorac
+Surg. 2022;113:738-746 .
+84. Tam DY, Qiu F, Manoragavan R, et al. The impact of the COVID-19
+pandemic on cardiac procedure wait list mortality in Ontario, Canada. Can J
+Cardiol. 2021;37:1547-1554 .
+85. Sampalis J, Boukas S, Liberman M, Reid T, Dupuis G. Impact of waiting
+time on the quality of life of patients awaiting coronary artery bypass
+grafting. CMAJ. 2001;165:429-433 .
+86. Carr T, Teucher UC, Casson AG. Time while waiting: patients ’experi-
+ences of scheduled surgery. Qual Health Res . 2014;24:1673-1685 .
+87. Marmelo F, Rocha V, Gonc ¸ alves D. The impact of prehabilitation on
+post-surgical complications in patients undergoing non-urgent cardiovas-
+cular surgical intervention: systematic review and meta-analysis. Eur J Prev
+Cardiol. 2018;25:404-417 .
+88. Snowdon D, Haines TP, Skinner EH. Preoperative intervention reduces
+postoperative pulmonary complications but not length of stay in cardiac
+surgical patients: a systematic review. J Physiother . 2014;60:66-77 .
+89. Sawatzky JAV, Kehler DS, Ready AE, et al. Prehabilitation program for
+elective coronary artery bypass graft surgery patients: a pilot randomized
+controlled study. Clin Rehabil . 2014;28:648-657 .
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+683
+[[p16]]
+90. Tsimopoulou I, Pasquali S, Howard R, et al. Psychological pre-
+habilitation before cancer surgery: a systematic review. Ann J Surg Oncol .
+2015;22:4117-4123.
+91. Dedeyne L, Deschodt M, Verschueren S, Tournoy J, Gielen E. Effects of
+multi-domain interventions in (pre)frail elderly on frailty, functional, and
+cognitive status: a systematic review. Clin Interv Aging . 2017;12:873-896 .
+92. Carli F, Scheede-Bergdahl C. Prehabilitation to enhance perioperative
+care. Anesthesiol Clin . 2015;33:17-33 .
+93. Arora RC, Brown CH, Sanjanwala RM, McKelvie R. “NEW” pre-
+habilitation: a 3-way approach to improve postoperative survival and health-
+related quality of life in cardiac surgery patients. Can J Cardiol . 2018;34:
+839-849.
+94. Arthur HM, Daniels C, McKelvie R, Hirsh J, Rush B. Effect of a preop-
+erative intervention on preoperative and postoperative outcomes in low-risk
+patients awaiting elective coronary artery bypass graft surgery. A random-
+ized, controlled trial. Ann Intern Med . 2000;133:253-262 .
+95. McIsaac DI, Gill M, Boland L, et al. Prehabilitation in adult patients
+undergoing surgery: an umbrella review of systematic reviews. Br J Anaesth.
+2022;128:244-257.
+96. Aﬁlalo J, Lauck S, Kim DH, et al. Frailty in older adults undergoing aortic
+valve replacement: the FRAILTY-AVR Study. J Am Coll Cardiol. 2017;70:689-
+700.
+97. Lopez-Delgado JC, Mu ~noz-del Rio G, Flordelís-Lasierra JL, Putzu A.
+Nutrition in adult cardiac surgery: preoperative evaluation, management in
+the postoperative period, and clinical implications for outcomes.
+J Cardiothorac Vasc Anesth . 2019;33:3143-3162 .
+98. Stoppe C, Whitlock R, Arora RC, Heyland DK. Nutrition support in
+cardiac surgery patients: be calm and feed on. J Thorac Cardiovasc Surg .
+2019;158:1103-1108.
+99. American Society of Anesthesiologists. Practice guidelines for preop-
+erative fasting and the use of pharmacologic agents to reduce the risk of
+pulmonary aspiration: application to healthy patients undergoing elective
+procedures: an updated report by the American Society of Anesthesiologists
+Task Force on Preoperative Fasting and the Use Of Pharmacologic Agents
+to Reduce the Risk of Pulmonary Aspiration. Anesthesiology. 2017;126:376-
+393.
+100. Smith I, Kranke P, Murat I, et al. Perioperative fasting in adults and
+children: guidelines from the European Society of Anaesthesiology. Eur J
+Anaesthesiol. 2011;28:556 .
+101. Australian and New Zealand College of Anaesthetists. PG07(A)
+Guideline on pre-anaesthesia consultation and patient preparation.
+Accessed October 12, 2023. https://www.anzca.edu.au/getattachment/
+d2c8053c-7e76-410e-93ce-3f9a56ffd881/PG07(A)-Guideline-on-pre-
+anaesthesia-consultation-and-patient-preparation
+102. Association of Anaesthetists of Great Britain and Ireland. Pre-
+operative assessment and patient preparation - the role of the anaesthetist.
+Accessed October 12, 2023. https://anaesthetists.org/Home/Resources-
+publications/Guidelines/Pre-operative-assessment-and-patient-
+preparation-the-role-of-the-anaesthetist-2
+103. MacKay EJ, Zhang B, Augoustides JG, Groeneveld PW, Desai ND.
+Association of intraoperative transesophageal echocardiography and clin-
+ical outcomes after open cardiac valve or proximal aortic surgery. JAMA
+Netw Open . 2022;5:e2147820 .
+104. Metkus TS, Thibault D, Grant MC, et al. Transesophageal echocardi-
+ography in patients undergoing coronary artery bypass graft surgery. JA m
+Coll Cardiol . 2021;78:112-122 .
+105. Ramalingam G, Choi SW, Agarwal S, et al. Association of Cardiotho-
+racic Anaesthesia and Critical Care. Complications related to peri-operative
+transoesophageal echocardiography— a one-year prospective national audit
+by the Association of Cardiothoracic Anaesthesia and Critical Care.
+Anaesthesia. 2020;75:21-26 .
+106. Brown PP, Kugelmass AD, Cohen DJ, et al. The frequency and cost of
+complications associated with coronary artery bypass grafting surgery: re-
+sults from the United States Medicare program. Ann Thorac Surg . 2008;85:
+1980-1986.
+107. Ibanez J, Riera M, Amezaga R, et al. Long-term mortality after
+pneumonia in cardiac surgery patients: a propensity-matched analysis.
+J Intensive Care Med . 2016;31:34-40 .
+108. Garcia-Delgado M, Navarrete-Sanchez I, Colmenero M. Preventing
+and managing perioperative pulmonary complications following cardiac
+surgery. Curr Opin Anaesthesiol . 2014;27:146-152 .
+109. Lellouche F, Delorme M, Bussieres J, Ouattara A. Perioperative
+ventilatory strategies in cardiac surgery. Best Pract Res Clin Anaesthesiol .
+2015;29:381-395.
+110. Zochios V, Klein AA, Gao F. Protective invasive ventilation in cardiac
+surgery: a systematic review with a focus on acute lung injury in adult car-
+diac surgical patients. J Cardiothorac Vasc Anesth . 2018;32:1922-1936 .
+111. Apostolakis E, Filos KS, Koletsis E, Dougenis D. Lung dysfunction
+following cardiopulmonary bypass. J Card Surg . 2010;25:47-55 .
+112. Hulzebos EH, Helders PJ, Favie NJ, De Bie RA, Brutel de la Riviere A,
+Van Meeteren NL. Preoperative intensive inspiratory muscle training to
+prevent postoperative pulmonary complications in high-risk patients un-
+dergoing CABG surgery: a randomized clinical trial. JAMA. 2006;296:1851-
+1857.
+113. Ramachandran SK, Na ﬁu OO, Ghaferi A, Tremper KK, Shanks A,
+Kheterpal S. Independent predictors and outcomes of unanticipated early
+postoperative tracheal intubation after nonemergent, noncardiac surgery.
+Anesthesiology. 2011;115:44-53 .
+114. Futier E, Constantin JM, Paugam-Burtz C, et al. A trial of intra-
+operative low-tidal-volume ventilation in abdominal surgery. N Engl J Med .
+2013;369:428-437.
+115. Severgnini P, Selmo G, Lanza C, et al. Protective mechanical venti-
+lation during general anesthesia for open abdominal surgery improves
+postoperative pulmonary function. Anesthesiology. 2013;118:1307-1321 .
+116. Ladha K, Vidal Melo MF, McLean DJ, et al. Intraoperative protective
+mechanical ventilation and risk of postoperative respiratory complications:
+hospital based registry study. BMJ. 2015;351:h3646 .
+117. Serpa Neto A, Hemmes SN, Barbas CS, et al. Protective versus con-
+ventional ventilation for surgery: a systematic review and individual patient
+data meta-analysis. Anesthesiology. 2015;123:66-78 .
+118. Amato MB, Meade MO, Slutsky AS, et al. Driving pressure and survival
+in the acute respiratory distress syndrome. N Engl J Med
+. 2015;372:747-755.
+119. Aoyama H, Pettenuzzo T, Aoyama K, Pinto R, Englesakis M, Fan E.
+Association of driving pressure with mortality among ventilated patients with
+acute respiratory distress syndrome: a systematic review and meta-analysis.
+Crit Care Med . 2018;46:300-306 .
+120. Neto AS, Hemmes SN, Barbas CS, et al. Association between driving
+pressure and development of postoperative pulmonary complications in
+patients undergoing mechanical ventilation for general anaesthesia: a meta-
+analysis of individual patient data. Lancet Respir Med . 2016;4:272-280 .
+121. Mathis MR, Duggal NM, Likosky DS, et al. Intraoperative mechanical
+ventilation and postoperative pulmonary complications after cardiac sur-
+gery. Anesthesiology. 2019;131:1046-1062 .
+122. Loeckinger A, Kleinsasser A, Lindner KH, Margreiter J, Keller C,
+Hoermann C. Continuous positive airway pressure at 10 cm H
+2O during
+cardiopulmonary bypass improves postoperative gas exchange. Anesth
+Analg. 2000;91:522-527 .
+123. Bignami E, Guarnieri M, Saglietti F, et al. Mechanical ventilation during
+cardiopulmonary bypass. J Cardiothorac Vasc Anesth . 2016;30:1668-1675 .
+124. Lagier D, Fischer F, Fornier W, et al. Effect of open-lung vs conven-
+tional perioperative ventilation strategies on postoperative pulmonary
+complications after on-pump cardiac surgery: the PROVECS randomized
+clinical trial. Intensive Care Med . 2019;45:1401-1412 .
+125. Nguyen LS, Estagnasie P, Merzoug M, et al. Low tidal volume Me-
+chanical Ventilation Against No Ventilation During Cardiopulmonary Bypass
+in Heart Surgery (MECANO): a randomized controlled trial. Chest. 2021;159:
+1843-1853.
+684
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p17]]
+126. Schwann NM, Hillel Z, Hoeft A, et al. Lack of effectiveness of the
+pulmonary artery catheter in cardiac surgery. Anesth Analg . 2011;113:994-
+1002.
+127. Ramsey SD, Saint S, Sullivan SD, Dey L, Kelley K, Bowdle A. Clinical
+and economic effects of pulmonary artery catheterization in nonemergent
+coronary artery bypass graft surgery. J Cardiothorac Vasc Anesth . 2000;14:
+113-118.
+128. Resano FG, Kapetanakis EI, Hill PC, Haile E, Corso PJ. Clinical out-
+comes of low-risk patients undergoing beating-heart surgery with or without
+pulmonary artery catheterization. J Cardiothorac Vasc Anesth . 2006;20:300-
+306.
+129. Chiang Y, Hosseinian L, Rhee A, Itagaki S, Cavallaro P, Chikwe J.
+Questionable bene ﬁt of the pulmonary artery catheter after cardiac surgery
+in high-risk patients. J Cardiothorac Vasc Anesth . 2015;29:76-81 .
+130. Schwann TA, Zacharias A, Riordan CJ, Durham SJ, Engoren M,
+Habib RH. Safe, highly selective use of pulmonary artery catheters in cor-
+onary artery bypass grafting: an objective patient selection method. Ann
+Thorac Surg . 2002;73:1394-1401 [discussion: 1401-1402] .
+131. Brown JA, Aranda-Michel E, Kilic A, et al. The impact of pulmonary
+artery catheter use in cardiac surgery. J Thorac Cardiovasc Surg . 2022;164:
+1965-1973.e6.
+132. Zorrilla-Vaca A, Healy R, Grant MC, et al. Intraoperative cerebral
+oximetry-based management for optimizing perioperative outcomes: a
+meta-analysis of randomized controlled trials. Can J Anaesth . 2018;65:529-
+542.
+133. Colak Z, Borojevic M, Bogovic A, Ivancan V, Biocina B, Majeric-
+Kogler V. In ﬂuence of intraoperative cerebral oximetry monitoring on neu-
+rocognitive function after coronary artery bypass surgery: a randomized,
+prospective study. Eur J Cardiothorac Surg . 2015;47:447-454 .
+134. Vretzakis G, Georgopoulou S, Stamoulis K, et al. Monitoring of brain
+oxygen saturation (INVOS) in a protocol to direct blood transfusions during
+cardiac surgery: a prospective randomized clinical trial. J Cardiothorac
+Surg. 2013;8:145 .
+135. Kara I, Erkin A, Sacl ı H, et al. The effects of near-infrared spectroscopy
+on the neurocognitive functions in the patients undergoing coronary artery
+bypass grafting with asymptomatic carotid artery disease: a randomized
+prospective study. Ann Thorac Cardiovasc Surg . 2015;21:544-550 .
+136. Rogers CA, Stoica S, Ellis L, et al. Randomized trial of near-infrared
+spectroscopy for personalized optimization of cerebral tissue oxygenation
+during cardiac surgery. Br J Anaesth . 2017;119:384-393 .
+137. Uysal S, Lin H-M, Trinh M, Park CH, Reich DL. Optimizing cerebral
+oxygenation in cardiac surgery: a randomized controlled trial examining
+neurocognitive and perioperative outcomes. J Thorac Cardiovasc Surg .
+2020;159(3):943-953.e3.
+138. Deschamps A, Hall R, Grocott H, et al. Cerebral oximetry monitoring to
+maintain normal cerebral oxygen saturation during high-risk cardiac surgery:
+a randomized controlled feasibility trial. Anesthesiology. 2016;124:826-836 .
+139. Kertai MD, Pal N, Palanca BJA, et al. Association of perioperative risk
+factors and cumulative duration of low bispectral index with intermediate-
+term mortality after cardiac surgery in the B-Unaware Trial. Anesthesiology.
+2010;112:1116-1127.
+140. Vance JL, Shanks AM, Woodrum DT. Intraoperative bispectral index
+monitoring and time to extubation after cardiac surgery: secondary analysis
+of a randomized controlled trial. BMC Anesthesiol . 2014;14:79 .
+141. Villafranca A, Thomson IA, Grocott HP, Avidan MS, Kahn S,
+Jacobsohn E. The impact of bispectral index versus end-tidal anesthetic
+concentration-guided anesthesia on time to tracheal extubation in fast-track
+cardiac surgery. Anesth Analg . 2013;116:541-548 .
+142. Vretzakis G, Ferdi E, Argiriadou H, et al. In ﬂuence of bispectral index
+monitoring on decision making during cardiac anesthesia. J Clin Anesth .
+2005;17:509-516.
+143. Myles PS, Williams DL, Hendrata M, Anderson H, Weeks AM. Patient
+satisfaction after anaesthesia and surgery: results of a prospective survey of
+10,811 patients. Br J Anaesth . 2000;84:6-10 .
+144. Mace L. An audit of post-operative nausea and vomiting, following
+cardiac surgery: scope of the problem. Nurs Crit Care . 2003;8:187-196 .
+145. Sawatzky JA, Rivet M, Ariano RE, Hiebert B, Arora RC. Post-operative
+nausea and vomiting in the cardiac surgery population: who is at risk? Heart
+Lung. 2014;43:550 .
+146. Hijazi EM, Edwan H, Al-Zoubi N, Radaideh H. Incidence of nausea and
+vomiting after fast-track anaesthesia for heart surgery. Braz J Cardiovasc
+Surg. 2018;33:371-375 .
+147. Grebenik CR, Allman C. Nausea and vomiting after cardiac surgery. Br
+J Anaesth . 1996;77:356-359 .
+148. Apfel CC, Laara E, Koivuranta M, Greim CA, Roewer N. A simpli ﬁed
+risk score for predicting postoperative nausea and vomiting: conclusions
+from cross-validations between two centers. Anesthesiology. 1999;91:693-
+700.
+149. Wang EHZ, Sunderland S, Edwards NY, et al. A single prophylactic
+dose of ondansetron given at cessation of postoperative propofol sedation
+decreases postoperative nausea and vomiting in cardiac surgery patients: a
+randomized controlled trial. Anesth Analg . 2020;131:1164-1172 .
+150. Champion S, Zieger L, Hemery C. Prophylaxis of postoperative
+nausea and vomiting after cardiac surgery in high-risk patients: a random-
+ized controlled study. Ann Card Anaesth . 2018;21:8-14 .
+151. Hasheminejad E, Forner AF, Meineri M, Ender J, Zakhary WZ. Post-
+operative nausea and vomiting prophylaxis in fast-track cardiac anesthesia:
+a patient matched retrospective before and after study. Int J Anesthesiol
+Pain Med . 2022;8:78 .
+152. Gan TJ, Belani KG, Bergese S, et al. Fourth Consensus Guidelines for
+the Management of Postoperative Nausea and Vomiting. Anesth Analg .
+2020;131:411-448.
+153. Gershengorn HB, Wunsch H, Hua M, Bavaria JE, Gutsche J. Associ-
+ation of overnight extubation with outcomes after cardiac surgery in the
+intensive care unit. Ann Thorac Surg
+. 2019;108:432-442 .
+154. Ranucci M, Romitti F, Isgr /C18o G, et al. Oxygen delivery during cardio-
+pulmonary bypass and acute renal failure after coronary operations. Ann
+Thorac Surg . 2005;80:2213-2220 .
+155. Magruder JT, Weiss SJ, DeAngelis KG, et al. Penn Perfusion Team
+Working Group. Correlating oxygen delivery on cardiopulmonary bypass
+with Society of Thoracic Surgeons outcomes following cardiac surgery.
+J Thorac Cardiovasc Surg . 2022;164:997-1007 .
+156. Ranucci M, Johnson I, Willcox T, et al. Goal-directed perfusion to
+reduce acute kidney injury: a randomized trial. J Thorac Cardiovasc Surg .
+2018;156:1918-1927.
+157. Magruder JT, Crawford TC, Harness HL, et al. A pilot goal-directed
+perfusion initiative is associated with less acute kidney injury after cardiac
+surgery. J Thorac Cardiovasc Surg . 2017;153:118-125.e1 .
+158. Gao P, Liu J, Zhang P, Bai L, Jin Y, Li Y. Goal-directed perfusion for
+reducing acute kidney injury in cardiac surgery: a systematic review and
+meta-analysis. Perfusion. 2023;38:591-599 .
+159. Wong WT, Lai VK, Chee YE, et al. Fast-track cardiac care for adult
+cardiac surgical patients. Cochrane Database Syst Rev . 2016;9:CD003587 .
+160. Flynn BC, He J, Richey M, Wirtz K, Daon E. Early extubation without
+increased adverse events in high-risk cardiac surgical patients. Ann Thorac
+Surg. 2019;107:453-459 .
+161. Brovman EY, Tolis G, Hirji S, et al. Association between early extu-
+bation and postoperative reintubation after elective cardiac surgery: a
+biinstitutional study. J Cardiothorac Vasc Anesth . 2022;36:1258-1264 .
+162. Probst S, Cech C, Haentschel D, et al. A specialized post anaesthetic
+care unit improves fast-track management in cardiac surgery: a prospective
+randomized trial. Crit Care . 2014;18:468 .
+163. Ellis MF, Pena H, Cadavero A, et al. Reducing intubation time in adult
+cardiothoracic surgery patients with a fast-track extubation protocol. Crit
+Care Nurse . 2021;41:14-24 .
+164. Serena G, Corredor C, Fletcher N, et al. Implementation of a nurse-led
+protocol for early extubation after cardiac surgery: a pilot study. World J Crit
+Care Med . 2019;8:28-35 .
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+685
+[[p18]]
+165. Chan JL, Miller JG, Murphy M, Greenberg A, Iraola M, Horvath KA.
+A multidisciplinary protocol-driven approach to improve extubation times
+after cardiac surgery. Ann Thorac Surg . 2018;105:1684-1690 .
+166. Grant MC, Isada T, Ruzankin P, et al. Johns Hopkins Enhanced Re-
+covery Program for the Cardiac Surgery Working Group. Results from an
+enhanced recovery program for cardiac surgery. J Thorac Cardiovasc Surg .
+2020;159:1393-1402.e7.
+167. Horswell JL, Herbert MA, Prince SL, et al. Routine immediate extu-
+bation after off-pump coronary artery bypass surgery: 514 consecutive pa-
+tients. J Cardiothorac Vasc Anesth . 2005;19:282-287 .
+168. Dorsa AG, Rossi AI, Thierer J, et al. Immediate extubation after off-
+pump coronary artery bypass graft surgery in 1,196 consecutive patients:
+easibility, safety and predictors of when not to attempt it. J Cardiothorac
+Vasc Anesth . 2011;25:431-436 .
+169. Chamchad D, Horrow JC, Nachamchik L, et al. The impact of imme-
+diate extubation in the operating room after cardiac surgery on intensive
+care and hospital lengths of stay. J Cardiothorac Vasc Anesth . 2010;24:780-
+784.
+170. Gangopadhyay S, Acharjee A, Nayak SK, et al. Immediate extubation
+versus standard postoperative ventilation: our experience in on pump open
+heart surgery. Indian J Anaesth . 2010;54:525-530 .
+171. Sostaric M, Gersak B, Novak-Jankovic V. Early extubation and fast-
+track anesthetic technique for endoscopic cardiac surgery. Heart Surg
+Forum. 2010;13:E190-E194 .
+172. Badhwar V, Esper S, Brooks M, et al. Extubating in the operating room
+after adult cardiac surgery safely improves outcomes and lowers costs.
+J Thorac Cardiovasc Surg . 2014;148:3101-3109.e1 .
+173. Subramaniam K, DeAndrade DS, Mandell DR, et al. Predictors of
+operating room extubation in adult cardiac surgery. J Thorac Cardiovasc
+Surg. 2017;154:1656-1665.e2 .
+174. Hu J, Chen R, Liu S, Yu X, Zou J, Ding X. Global incidence and out-
+comes of adult patients with acute kidney injury after cardiac surgery: a
+systematic review and meta-analysis. J Cardiothorac Vasc Anesth . 2016;30:
+82-89.
+175. Nadim MK, Forni LG, Bihorac A, et al. cardiac and vascular surgery-
+associated acute kidney injury: the 20th International Consensus Confer-
+ence of the ADQI (Acute Disease Quality Initiative) Group. J Am Heart Assoc .
+2018;7:e008834.
+176. Lysak N, Bihorac A, Hobson C. Mortality and cost of acute and
+chronic kidney disease after cardiac surgery. Curr Opin Anaesthestiol .
+2017;30:113-117.
+177. Coca SG, Singanamala S, Parikh CR. Chronic kidney disease after
+acute kidney injury: a systematic review and meta-analysis. Kidney Int .
+2012;81:442-448.
+178. Khwaja A. KDIGO clinical practice guidelines for acute kidney injury.
+Nephron Clin Pract . 2012;120:c179-c184 .
+179. Sharma A, Mucino MJ, Ronco C. Renal functional reserve and renal
+recovery after acute kidney injury. Nephron Clin Pract . 2014;127:94-100
+.
+180. Brown JR, Baker RA, Shore-Lesserson L, et al. The Society of
+Thoracic Surgeons/Society of Cardiovascular Anesthesiologists/American
+Society of Extracorporeal Technology Clinical Practice Guidelines for the
+Prevention of Adult Cardiac Surgery-Associated Acute Kidney Injury. Ann
+Thorac Surg . 2023;115:34-42 .
+181. Macedo E, Bouchard J, Soroko SH, et al. Fluid accumulation,
+recognition and staging of acute kidney injury in critically-ill patients. Crit
+Care. 2010;14:R82 .
+182. Zhang H, Lang H, Ma M, et al. Decreased preoperative urinary uro-
+modulin as a predictor of acute kidney injury and perioperative kidney
+dysfunction in patients undergoing cardiac surgery: a prospective cohort
+study. Clin Chim Acta . 2022;530:1-7 .
+183. Meersch M, Schmidt C, Van Aken H, et al. Urinary TIMP-2 and IGFBP7
+as early biomarkers of acute kidney injury and renal recovery following
+cardiac surgery. PLoS One . 2014;9:e93460 .
+184. Zarbock A, K €ullmar M, Ostermann M, et al. Prevention of cardiac
+surgery-associated acute kidney injury by implementing the KDIGO guide-
+lines in high-risk patients identi ﬁed by biomarkers: the PrevAKI-multicenter
+randomized controlled trial. Anesth Analg . 2021;133:292-302 .
+185. Engelman DT, Crisa ﬁ C, Germain M, et al. Using urinary biomarkers to
+reduce acute kidney injury following cardiac surgery. J Thorac Cardiovasc
+Surg. 2020;160:1235-1246.e1232 .
+186. Meersch M, Schmidt C, Hoffmeier A, et al. Prevention of cardiac
+surgery-associated AKI by implementing the KDIGO guidelines in high risk
+patients identi ﬁed by biomarkers: the PrevAKI randomized controlled trial.
+Intensive Care Med . 2017;43:1551-1561 .
+187. Zhang Y, Jiang L, Wang B, Xi X. Epidemiological characteristics of
+and risk factors for patients with postoperative acute kidney injury: a
+multicenter prospective study in 30 Chinese intensive care units. Int Urol
+Nephrol. 2018;50:1319-1328 .
+188. Dong Z, Yu B, Zhang Q, et al. Early rehabilitation therapy is bene ﬁcial
+for patients with prolonged mechanical ventilation after coronary artery
+bypass surgery. Int Heart J . 2016;57:241-246 .
+189. Hirschhorn AD, Richards DA, Mungovan SF, Morris NR, Adams L.
+Does the mode of exercise in ﬂuence recovery of functional capacity in the
+early postoperative period after coronary artery bypass graft surgery? A
+randomized controlled trial. Interact Cardiovasc Thorac Surg . 2012;15:995-
+1003.
+190. Moradian ST, Naja ﬂoo M, Mahmoudi H, Ghiasi MS. Early mobilization
+reduces the atelectasis and pleural effusion in patients undergoing coronary
+artery bypass graft surgery: a randomized clinical trial. J Vasc Nurs. 2017;35:
+141-145.
+191. Herdy AH, Marcchi PL, Vila A, et al. Pre- and postoperative cardio-
+pulmonary rehabilitation in hospitalized patients undergoing coronary artery
+bypass surgery: a randomized controlled trial. Am J Phys Med Rehabil .
+2008;87:714-719.
+192. Van der Peijl ID, Vliet Vlieland TP, et al. Exercise therapy after coronary
+artery bypass graft surgery: a randomized comparison of a high and low
+frequency exercise therapy program. Ann Thorac Surg . 2004;77:1535-1541.
+193. Doyle MP, Indraratna P, Tardo DT, Peeceeyen SC, Peoples GE. Safety
+and ef ﬁcacy of aerobic exercise commenced early after cardiac surgery: a
+systematic review and meta-analysis. Eur J Prev Cardiol . 2019;26:36-45 .
+194. Ramos Dos Santos PM, Aquaroni Ricci N, Aparecida Bordignon
+Suster /C19E, De Moraes Paisani D, Dias Chiavegato L. Effects of early mobi-
+lisation in patients after cardiac surgery: a systematic review. Physiotherapy.
+2017;103:1-12.
+195. Holloway C, Pathare N, Huta J, et al. The impact of a less restrictive
+poststernotomy activity protocol compared with standard sternal pre-
+cautions in patients following cardiac surgery. Phys Ther . 2020;100:1074-
+1083.
+196. Adams J, Lotshaw A, Exum E, et al. An alternative approach to pre-
+scribing sternal precautions after median sternotomy, “Keep Your Move in
+the Tube ”. Proc (Bayl Univ Med Cent) . 2016;29:97-100 .
+197. Pengelly J, Pengelly M, Lin KY, et al. Resistance training following
+median sternotomy: a systematic review and meta-analysis. Heart Lung
+Circ. 2019;28:1549-1559 .
+198. Katijjahbe MA, Granger CL, Denehy L, et al. Standard restrictive
+sternal precautions and modi ﬁed sternal precautions had similar effects in
+people after cardiac surgery via median sternotomy ( ’SMART’Trial): a
+randomised trial. J Physiother . 2018;64:97-106 .
+199. Park L, Coltman C, Agren H, Colwell S, King-Shier KM. “In the tube ”
+following sternotomy: a quasi-experimental study. Eur J Cardiovasc Nurs .
+2021;20:160-166.
+200. Hanekom S, Louw QA, Coetzee AR. Implementation of a protocol
+facilitates evidence-based physiotherapy practice in intensive care units.
+Physiotherapy. 2013;99:139-145 .
+201. Merino-Osorio C, Vel /C19asquez M, Reveco R, Marmolejo JI, Fu C. 24/7
+physical therapy intervention with adult patients in a Chilean intensive care
+unit: a cost-bene ﬁt analysis in a developing country. Value Health Reg
+Issues. 2020;23:99-104 .
+686
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p19]]
+202. Hanekom SD, Louw Q, Coetzee A. The way in which a physiotherapy
+service is structured can improve patient outcome from a surgical intensive
+care: a controlled clinical trial. Crit Care . 2012;16:R230 .
+203. Taylor RS, Dalal H, Jolly K, et al. Home-based versus centre-based
+cardiac rehabilitation. Cochrane Database Syst Rev . 2015;8:CD007130 .
+204. Anderson L, Oldridge N, Thompson DR, et al. Exercise-based cardiac
+rehabilitation for coronary heart disease: Cochrane systematic review and
+metaanalysis. J Am Coll Cardiol . 2016;67:1-12 .
+205. Thomson R, Meeran H, Valencia O, Al-Subaie N. Goal-directed ther-
+apy after cardiac surgery and the incidence of acute kidney injury. J Crit
+Care. 2014;29:997-1000 .
+206. Ramsingh D, Hu H, Yan M, Lauer R, et al. Perioperative individualized
+goal directed therapy for cardiac surgery: a historical-prospective,
+comparative effectiveness study. J Clin Med . 2021;10:400 .
+207. Kapoor PM, Magoon R, Rawat R, Mehta Y. Perioperative utility of
+goal-directed therapy in high-risk cardiac patients undergoing coronary
+artery bypass grafting: “A clinical outcome and biomarker-based study ”.
+Ann Card Anaesth . 2016;19:638-682 .
+208. Johnston LE, Thiele RH, Hawkins RB, et al. Virginia Interdisciplinary
+Cardiothoracic Outcomes Research Center. Goal-directed resuscitation
+following cardiac surgery reduces acute kidney injury: aquality initiative pre-
+post analysis. J Thorac Cardiovasc Surg . 2020;159:1868-1877.e1 .
+209. Osawa EA, Rhodes A, Landoni G, et al. Effect of perioperative goal-
+directed hemodynamic resuscitation therapy on outcomes following cardiac
+surgery: a randomized clinical trial and systematic review. Crit Care Med .
+2016;44:724-733.
+210. Li P, Qu LP, Qi D, et al. Signi ﬁcance of perioperative goal-directed
+hemodynamic approach in preventing postoperative complications in pa-
+tients after cardiac surgery: a meta-analysis and systematic review. Ann
+Med. 2017;49:343-351 .
+211. Aya HD, Cecconi M, Hamilton M, Rhodes A. Goal-directed therapy in
+cardiac surgery: a systematic review and meta-analysis. Br J Anaesth .
+2013;110:510-517.
+212. Arulkumaran N, Corredor C, Hamilton MA, et al. Cardiac complica-
+tions associated with goal-directed therapy in high-risk surgical patients: a
+meta-analysis. Br J Anaesth . 2014;112:648-659 .
+213. Mazzefﬁ M, Khelemsky Y. Poststernotomy pain: a clinical review.
+J Cardiothorac Vasc Anesth . 2011;25:1163-1178 .
+214. Zubrzycki M, Liebold A, Skrabal C, et al. Assessment and patho-
+physiology of pain in cardiac surgery. J Pain Res . 2018;11:1599-1611 .
+215. Guimar~aes-Pereira L, Reis P, Abelha F, Azevedo LF, Castro-
+Lopes JM. Persistent postoperative pain after cardiac surgery: a systematic
+review with meta-analysis regarding incidence and pain intensity. Pain.
+2017;158:1869-1885.
+216. Myles PS, Boney O, Botti M, et al. Systematic review and consensus
+deﬁnitions for the Standardised Endpoints in Perioperative Medicine (StEP)
+initiative: patient comfort. Br J Anaesth . 2018;120:705-711 .
+217. Kwanten LE, O ’Brien B, Anwar S. Opioid-based anesthesia and
+analgesia for adult cardiac surgery: history and narrative review of the
+literature. J Cardiothorac Vasc Anesth . 2019;33:808-816 .
+218. Paul AK, Smith CM, Rahmatullah M, et al. Opioid analgesia and
+opioid-induced adverse effects: a review. Pharmaceuticals. 2021;14:1091 .
+219. Bicket MC, Murimi IB, Mansour O, Wu CL, Alexander GC. Association
+of new opioid continuation with surgical specialty and type in the United
+States. Am J Surg . 2019;218:818-827 .
+220. Brown CR, Chen Z, Khurshan F, Groeneveld PW, Desai ND. Devel-
+opment of persistent opioid use after cardiac surgery. JAMA Cardiol. 2020;5:
+889-896.
+221. Brescia AA, Waljee JF, Hu HM, et al. Impact of prescribing on new
+persistent opioid use after cardiothoracic surgery. Ann Thorac Surg .
+2019;108:1107-1113.
+222. Lawal OD, Gold J, Murthy A, et al. Rate and risk factors associated
+with prolonged opioid use after surgery: a systematic review and meta-
+analysis. JAMA Netw Open . 2020;3:e207367 .
+223. Beverly A, Kaye AD, Ljungqvist O, Urman RD. Essential elements of
+multimodal analgesia in Enhanced Recovery After Surgery (ERAS) guide-
+lines. Anesthesiol Clin . 2017;35:e115-e143 .
+224. Wick EC, Grant MC, Wu CL. Postoperative multimodal analgesia pain
+management with nonopioid analgesics and techniques: a review. JAMA
+Surg. 2017;152:691-697 .
+225. Barr LF, Boss MJ, Mazzef ﬁ MA, Taylor BS, Salenger R. Postoperative
+multimodal analgesia in cardiac surgery. Crit Care Clin . 2020;36:631-651 .
+226. Nazarnia S, Subramaniam K. Nonopioid analgesics in postoperative
+pain management after cardiac surgery. Semin Cardiothorac Vasc Anesth .
+2021;25:280-288.
+227. Jannati M, Attar A. Analgesia and sedation post-coronary artery
+bypass graft surgery: a review of the literature. Ther Clin Risk Manag .
+2019;15:773-781.
+228. Raﬁq S, Steinbruchel DA, Wanscher MJ, et al. Multimodal analgesia
+versus traditional opiate based analgesia after cardiac surgery, a random-
+ized controlled trial. J Cardiothorac Surg . 2014;9:52 .
+229. Li M, Zhang J, Gan TJ, et al. Enhanced recovery after surgery pathway
+for patients undergoing cardiac surgery: a randomized clinical trial. Eur J
+Cardiothorac Surg
+. 2018;54:491-497 .
+230. Grant MC, Isada T, Ruzankin P, et al. Opioid-sparing cardiac anes-
+thesia: secondary analysis of an enhanced recovery program for cardiac
+surgery. Anesth Analg . 2020;131:1852-1861 .
+231. Aguerreche C, Cadier G, Beurton A, et al. Feasibility and post-
+operative opioid sparing effect of an opioid-free anaesthesia in adult cardiac
+surgery: a retrospective study. BMC Anesthesiol . 2021;21:166 .
+232. Guinot P-G, Spitz A, Berthoud V, Ellouze O, et al. Effect of opioid-free
+anaesthesia on post-operative period in cardiac surgery: a retrospective
+matched case-control study. BMC Anesthesiol . 2019;19:136 .
+233. Fleming IO, Garratt C, Guha R, et al. Aggregation of marginal gains in
+cardiac surgery: feasibility of a perioperative care bundle for enhanced re-
+covery in cardiac surgical patients. J Cardiothorac Vasc Anesth . 2016;30:
+665-670.
+234. Bignami E, Castella A, Pota V, et al. Perioperative pain management in
+cardiac surgery: a systematic review. Minerva Anestesiol . 2018;84:488-503 .
+235. Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. Acute pain
+management: scienti ﬁc evidence, fourth edition, 2015. Med J Aust .
+2016;204:315-317.
+236. Guay J, Kopp S. Epidural analgesia for adults undergoing cardiac
+surgery with or without cardiopulmonary bypass. Cochrane Database Syst
+Rev. 2019;3:CD006715 .
+237. Hemmerling TM, Cyr S, Terrasini N. Epidural catheterization in cardiac
+surgery: the 2012 risk assessment. Ann Card Anaesth . 2013;16:169-177 .
+238. Horlocker TT, Vandermeuelen E, Kopp SL, Gogarten W, Leffert LR,
+Benzon HT. Regional anesthesia in the patient receiving antithrombotic or
+thrombolytic therapy: American Society of Regional Anesthesia and Pain
+Medicine Evidence-Based Guidelines (Fourth Edition). Reg Anesth Pain
+Med. 2018;43:263-309 .
+239. Richardson L, Dunning J, Hunter S. Is intrathecal morphine of bene ﬁt
+to patients undergoing cardiac surgery. Interact Cardiovasc Thorac Surg .
+2009;8:117-122.
+240. El-Boghdadly K, Wolmarans M, Stengel AD, et al. Standardizing
+nomenclature in regional anesthesia: an ASRA-ESRA Delphi consensus
+study of abdominal wall, paraspinal, and chest wall blocks. Reg Anesth Pain
+Med. 2021;46:571-580 .
+241. Chin KJ, Versyck B, Pawa A. Ultrasound-guided fascial plane blocks
+of the chest wall: a state-of-the-art review. Anaesthesia. 2021;76(suppl 1):
+110-126.
+242. Mittnacht AJC, Shariat A, Weiner MM, et al. Regional techniques for
+cardiac and cardiac-related procedures. J Cardiothorac Vasc Anesth .
+2019;33:532-546.
+243. Jack JM, McLellan E, Versyck B, Englesakis MF, Chin KJ. The role of
+serratus anterior plane and pectoral nerves blocks in cardiac surgery,
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+687
+[[p20]]
+thoracic surgery and trauma: a qualitative systematic review. Anaesthesia.
+2020;75:1372-1385.
+244. Kar P, Ramachandran G. Pain relief following sternotomy in conven-
+tional cardiac surgery: a review of non neuraxial regional nerve blocks. Ann
+Card Anaesth . 2020;23:200-208 .
+245. Li J, Lin L, Peng J, He S, Wen Y, Zhang M. Ef ﬁcacy of ultrasound-
+guided parasternal block in adult cardiac surgery: a meta-analysis of ran-
+domized controlled trials. Minerva Anestesiol . 2022;88:719-728 .
+246. Misra S, Awal S. Does erector spinae plane block result in improved
+postoperative analgesia and enhanced recovery in adult patients after car-
+diac surgery? Interact Cardiovasc Thorac Surg . 2021;32:873-877 .
+247. Brevig J, McDonald J, Zelinka ES, Gallagher T, Jin R, Grunkemeier GL.
+Blood transfusion reduction in cardiac surgery: multidisciplinary approach
+at a community hospital. Ann Thorac Surg . 2009;87:532-539 .
+248. Gross I, Seifert B, Hofmann A, Spahn DR. Patient blood management
+in cardiac surgery results in fewer transfusions and better outcome.
+Transfusion. 2015;55:1075-1081 .
+249. Meybohm P, Herrmann E, Steinbicker AU, et al; PBM-study Collabo-
+rators. Patient blood management is associated with a substantial reduction
+of red blood cell utilization and safe for patient ’s outcome: a prospective,
+multicenter cohort study with a noninferiority design. Ann Surg . 2016;264:
+203-211.
+250. Freedman J. The ONTraC Ontario program in blood conservation.
+Transfus Apher Sci . 2014;50:32-36 .
+251. Leahy MF, Hofmann A, Towler S, et al. Improved outcomes and
+reduced costs associated with a health-system-wide patient blood man-
+agement program: a retrospective observational study in four major adult
+tertiary-care hospitals. Transfusion. 2017;57:1347-1358 .
+252. Moskowitz DM, Mcullough JN, Shander A, et al. The impact of blood
+conservation on outcomes in cardiac surgery: is it safe and effective? Ann
+Thorac Surg . 2010;90:451-458 .
+253. Irving AH, Harris A, Petrie D, Higgins A, Smith J, McQuilten ZK. Impact
+of patient blood management guidelines on blood transfusions and patient
+outcomes during cardiac surgery. J Thorac Cardiovasc Surg . 2020;160:437-
+445.e20.
+254. Althoff FC, Neb H, Herrmann E, Trentino KM, et al. Multimodal patient
+blood management program based on a three-pillar strategy: a systematic
+review and meta-analysis. Ann Surg . 2019;269:794-804 .
+255. Goodnough LT, Shander A. Patient blood management. Anesthesi-
+ology. 2012;116:1367-1376 .
+256. Tibi P, McClure RS, Huang J, et al. STS/SCA/AmSECT/SABM update
+to the clinical practice guidelines on patient blood management. Ann Thorac
+Surg. 2021;112:981-1004 .
+257. Task Force on Patient Blood Management for Adult Cardiac Surgery
+of the European Association for Cardio-Thoracic Surgery (EACTS) and the
+European Association of Cardiothoracic Anaesthesiology (EACTA), Boer C,
+Meesters MI, Milojevic M, Benedetto U, et al. 2017 EACTS/EACTA Guide-
+lines on patient blood management for adult cardiac surgery. J Cardiothorac
+Vasc Anesth . 2018;32:88-120 .
+258. Eikelboom R, Sanjanwala R, Le ML, Yamashita MH, Arora RC. Post-
+operative atrial ﬁbrillation after cardiac surgery: a systematic review and
+meta-analysis. Ann Thorac Surg . 2021;111:544-554 .
+259. Woldendorp K, Farag J, Khadra S, Black D, Robinson B, Bannon P.
+Postoperative atrial ﬁbrillation after cardiac surgery: a meta-analysis. Ann
+Thorac Surg . 2021;112:2084-2093 .
+260. Lowres N, Mulcahy G, Jin K, Gallagher R, Neubeck L, Freedman B.
+Incidence of postoperative atrial ﬁbrillation recurrence in patients dis-
+charged in sinus rhythm after cardiac surgery: a systematic review and
+meta-analysis. Interact Cardiovasc Thorac Surg . 2018;26:504-511 .
+261. Chen YL, Zeng M, Liu Y, et al. CHA
+2DS2-VASc score for identifying
+patients at high risk of postoperative atrial ﬁbrillation after cardiac surgery: a
+meta-analysis. Ann Thorac Surg . 2020;109:1210-1216 .
+262. Pollock BD, Filardo G, da Graca B, et al. Predicting new-onset post-
+coronary artery bypass graft atrial ﬁbrillation with existing risk scores. Ann
+Thorac Surg . 2018;105:115-121 .
+263. Omorphos S, Hanif M, Dunning J. Are prophylactic beta-blockers of
+beneﬁt in reducing the incidence of AF following coronary bypass surgery?
+Interact Cardiovasc Thorac Surg . 2004;3:641-646 .
+264. Bagshaw SM, Galbraith PD, Mitchell LB, Sauve R, Exner DV,
+Ghali WA. Prophylactic amiodarone for prevention of atrial ﬁbrillation after
+cardiac surgery: a meta-analysis. Ann Thorac Surg . 2006;82:1927-1937 .
+265. Zhu J, Wang C, Gao D, et al. Meta-analysis of amiodarone versus b-
+blocker as a prophylactic therapy against atrial ﬁbrillation following cardiac
+surgery. Intern Med J . 2012;42:1078-1087 .
+266. Buckley MS, Nolan PE Jr, Slack MK, Tisdale JE, Hilleman DE,
+Copeland JG. Amiodarone prophylaxis for atrial ﬁbrillation after cardiac
+surgery: meta-analysis of dose response and timing of initiation. Pharma-
+cotherapy. 2007;27:360-368 .
+267. Ali-Hassan-Sayegh S, Mirhosseini SJ, et al. Antioxidant supplemen-
+tations for prevention of atrial ﬁbrillation after cardiac surgery: an updated
+comprehensive systematic review and meta-analysis of 23 randomized
+controlled trials. Interact Cardiovasc Thorac Surg . 2014;18:646-654 .
+268. Liu L, Jing FY, Wang XW, et al. Effects of corticosteroids on new-
+onset atrial ﬁbrillation after cardiac surgery: a meta-analysis of randomized
+controlled trials. Medicine (Baltimore) . 2021;100:e25130 .
+269. Ruan Y, Robinson NB, Naik A, et al. Effect of atrial pacing on post-
+operative atrial ﬁbrillation following coronary artery bypass grafting: pairwise
+and network meta-analyses. Int J Cardiol . 2020;302:103-107 .
+270. Fairley JL, Zhang L, Glassford NJ, Bellomo R. Magnesium status and
+magnesium therapy in cardiac surgery: a systematic review and meta-
+analysis focusing on arrhythmia prevention. J Crit Care . 2017;42:69-77 .
+271. Gaudino M, Sanna T, Ballman KV, et al. PALACS Investigators. Pos-
+terior left pericardiotomy for the prevention of atrial ﬁbrillation after cardiac
+surgery: an adaptive, single-centre, single-blind, randomised, controlled
+trial. Lancet. 2021;398:2075-2083 .
+272. Gozdek M, Pawliszak W, Hagner W, et al. Systematic review and
+meta-analysis of randomized controlled trials assessing safety and ef ﬁcacy
+of posterior pericardial drainage in patients undergoing heart surgery.
+J Thorac Cardiovasc Surg . 2017;153:865-875 .
+273. Arora RC, Djaiani G, Rudolph JL. Detection, prevention, and man-
+agement of delirium in the critically ill cardiac patient and patients who
+undergo cardiac procedures. Can J Cardiol . 2017;33:80-87 .
+274. Nguyen Q, Uminski K, Hiebert BM, Tangri N, Arora RC. Midterm out-
+comes after postoperative delirium on cognition and mood in patients after
+cardiac surgery. J Thorac Cardiovasc Surg . 2018;155:660-667.e2 .
+275. Dubiel C, Hiebert BM, Stammers AN, et al. Delirium de ﬁnition in-
+ﬂuences prediction of functional survival in patients one-year postcardiac
+surgery. J Thorac Cardiovasc Surg . 2022;163:725-734 .
+276. Rudolph JL, Jones RN, Levkoff SE, et al. Derivation and validation of a
+preoperative prediction rule for delirium after cardiac surgery. Circulation.
+2009;119:229-236.
+277. Devlin JW, Skrobik Y, G
+/C19elinas C, et al. Clinical Practice Guidelines for
+the Prevention and Management of Pain, Agitation/Sedation, Delirium,
+Immobility, and Sleep Disruption in Adult Patients in the ICU. Crit Care Med .
+2018;46:e825-e873.
+278. Ely EW, Margolin R, Francis J, et al. Evaluation of delirium in critically
+ill patients: validation of the Confusion Assessment Method for the Intensive
+Care Unit (CAM-ICU). Crit Care Med . 2001;29:1370-1379 .
+279. Bergeron N, Dubois MJ, Dumont M, Dial S, Skrobik Y. Intensive care
+delirium screening checklist: evaluation of a new screening tool. Intensive
+Care Med . 2001;27:859-864 .
+280. Neufeld KJ, Leoutsakos JS, Sieber FE, et al. Evaluation of two delirium
+screening tools for detecting post-operative delirium in the elderly. Br J
+Anaesth. 2013;111:612-618 .
+688
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+Ann Thorac Surg
+2024;117:669-89
+[[p21]]
+281. Hov KR, Neerland BE, Undseth Ø, et al. The Oslo Study of Clonidine in
+Elderly Patients with Delirium; LUCID: a randomised placebo-controlled trial.
+Int J Geriatr Psychiatry . 2019;34:974-981 .
+282. Girard TD, Exline MC, Carson SS, et al. Haloperidol and ziprasidone
+for treatment of delirium in critical illness. N Engl J Med . 2018;379:2506-
+2516.
+283. Page VJ, Ely EW, Gates S, et al. Effect of intravenous haloperidol on
+the duration of delirium and coma in critically ill patients (Hope-ICU): a
+randomised, double-blind, placebo-controlled trial. Lancet Respir Med .
+2013;1:515-523.
+284. White DB, Angus DC, Shields AM, et al. A randomized trial of a family-
+support intervention in intensive care units. N Engl J Med . 2018;378:2365-
+2375.
+285. Sørensen LT. Wound healing and infection in surgery: the patho-
+physiological impact of smoking, smoking cessation, and nicotine replace-
+ment therapy: a systematic review. Ann Surg . 2012;255:1069-1079 .
+286. Tanner J, Norrie P, Melen K. Preoperative hair removal to reduce
+surgical site infection. Cochrane Database Syst Rev . 2011:CD004122 .
+287. Ban KA, Minei JP, Laronga C, et al. American College of Surgeons and
+Surgical Infection Society: surgical site infection guidelines, 2016 update.
+J Am Coll Surg . 2017;224:59-74 .
+288. Bode LG, Kluytmans JA, Wertheim HF, et al. Preventing surgical-site
+infections in nasal carriers of Staphylococcus aureus . N Engl J Med .
+2010;362:9-17.
+289. Paling FP, Olsen K, Ohneberg K, et al. Risk prediction for Staphylo-
+coccus aureus surgical site infection following cardiothoracic surgery: a
+secondary analysis of the V710-P003 trial. PLoS One . 2018;13:e0193445 .
+290. Cimochowski GE, Harostock MD, Brown R, Bernardi M, Alonzo N,
+Coyle K. Intranasal mupirocin reduces sternal wound infection after open
+heart surgery in diabetics and nondiabetics. Ann Thorac Surg . 2001;71:
+1572-1578.
+291. Edwards FH, Engelman RM, Houck P, Shahian DM, Bridges CR, So-
+ciety of Thoracic Surgeons. The Society of Thoracic Surgeons practice
+guideline series: antibiotic prophylaxis in cardiac surgery, part I: duration.
+Ann Thorac Surg . 2006;81:397-404 .
+292. Engelman R, Shahian D, Shemin R, et al; Workforce on Evidence-
+Based Medicine, Society of Thoracic Surgeons. The Society of Thoracic
+Surgeons practice guideline series: antibiotic prophylaxis in cardiac surgery,
+part II: antibiotic choice. Ann Thorac Surg . 2007;83:1569-1576 .
+293. Lazar HL, Chipkin SR, Fitzgerald CA, Bao Y, Cabral H, Apstein CS.
+Tight glycemic control in diabetic coronary artery bypass graft patients
+improves perioperative outcomes and decreases recurrent ischemic events.
+Circulation. 2004;109:1497-1502 .
+294. Chaney MA, Nikolov MP, Blakeman BP, Bakhos M. Attempting to
+maintain normoglycemia during cardiopulmonary bypass with insulin may
+initiate postoperative hypoglycemia. Anesth Analg . 1999;89:1091-1095 .
+295. Gandhi GY, Nuttall GA, Abel MD, et al. Intensive intraoperative insulin
+therapy versus conventional glucose management during cardiac surgery: a
+randomized trial. Ann Intern Med . 2007;146:233-243 .
+296. Karalapillai D, Story D, Hart GK, et al. Postoperative hypothermia and
+patient outcomes after elective cardiac surgery. Anaesthesia. 2011;66:780-
+784.
+297. Lavall/C19ee JF, Gray TA, Dumville J, Russell W, Cullum N. The effects of
+care bundles on patient outcomes: a systematic review and meta-analysis.
+Implement Sci . 2017;12:142 .
+298. Mutters NT, De Angelis G, Restuccia G, et al. Use of evidence-based
+recommendations in an antibiotic care bundle for the intensive care unit. Int
+J Antimicrob Agents . 2018;51:65-70 .
+299. Lazar HL, Salm TV, Engelman R, Orgill D, Gordon S. Prevention and
+management of sternal wound infections. J Thorac Cardiovasc Surg .
+2016;152:962-972.
+300. Keenan JE, Speicher PJ, Thacker JK, Walter M, Kuchibhatla M,
+Mantyh CR. The preventive surgical site infection bundle in colorectal sur-
+gery: an effective approach to surgical site infection reduction and health
+care cost savings. JAMA Surg . 2014;149:1045-1052 .
+301. Brown JA, Aranda-Michel E, Kilic A, et al. Outcomes with heparin-
+induced thrombocytopenia after cardiac surgery. Ann Thorac Surg .
+2021;112:487-493.
+302. Allan KA, Crow JR, Chasler JE, et al. Comparison of clinical scoring
+tools to predict heparin-induced thrombocytopenia in cardiac surgery.
+Semin Thorac Cardiovasc Surg . 2022;34:570-580 .
+303. Plowman EK, Chheda N, Anderson A, et al. Vocal fold mobility
+impairment after cardiovascular surgery: incidence, risk factors, and
+sequela. Ann Thorac Surg . 2021;112:53-60 .
+304. Edwards DA, Hedrick TL, Jayaram J, et al. POQI-4 Working Group.
+American Society for Enhanced Recovery and Perioperative Quality Initiative
+Joint Consensus Statement on Perioperative Management of Patients on
+Preoperative Opioid Therapy. Anesth Analg . 2019;129:553-566 .
+305. Ribeiro RVP, Lee J, Elbatarny M, et al; Canadian Cardiovascular
+Surgery Meta-Analysis Working Group. Left ventricular assist device im-
+plantation via lateral thoracotomy: a systematic review and meta-analysis.
+J Heart Lung Transplant . 2022;41:1440-1458 .
+306. Olsthoorn JR, Heuts S, Houterman S, Maessen JG, Sardari Nia P;
+Cardiothoracic Surgery Registration Committee of the Netherlands Heart
+Registration. Minimally invasive approach compared to resternotomy for
+mitral valve surgery in patients with prior cardiac surgery: retrospective
+multicentre study based on the Netherlands Heart Registration. Eur J Car-
+diothorac Surg . 2022;62:ezac420 .
+307. Zaouter C, Oses P, Assatourian S, Labrousse L, R /C19emy A, Ouattara A.
+Reduced length of hospital stay for cardiac surgery-implementing an opti-
+mized perioperative pathway: prospective evaluation of an Enhanced Re-
+covery After Surgery program designed for mini-invasive aortic valve
+replacement. J Cardiothorac Vasc Anesth . 2019;33:3010-3019 .
+308. Kubitz JC, Schulte-Uentrop L, Zoellner C, et al. Establishment of an
+enhanced recovery after surgery protocol in minimally invasive heart valve
+surgery. PLoS One . 2020;15:e0231378 .
+309. Eqbal AJ, Gupta S, Basha A, et al. Minimally invasive mitral valve
+surgery versus conventional sternotomy mitral valve surgery: a systematic
+review and meta-analysis of 119 studies. J Card Surg . 2022;37:1319-1327 .
+310. Russo MJ, Thourani VH, Cohen DJ, et al. Minimally invasive versus full
+sternotomy for isolated aortic valve replacement in low-risk patients. Ann
+Thorac Surg . 2022;114:2124-2130 .
+311. Myles PS, Daly DJ, Djaiani G, Lee A, Cheng DC. A systematic review
+of the safety and effectiveness of fast-track cardiac anesthesia. Anesthe-
+siology. 2003;99:982-987 .
+Ann Thorac Surg
+2024;117:669-89
+EXPERT CONSENSUS STATEMENT GRANT ET AL
+PERIOPERATIVE CARE IN CARDIAC SURGERY
+689

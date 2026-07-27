@@ -1,0 +1,3429 @@
+
+[[p1]]
+July 2015  |  Volume 3  |  Article 611
+Review
+published: 27 July 2015
+doi: 10.3389/fped.2015.00061
+Frontiers in Pediatrics
+ 
+|
+ 
+www.frontiersin.org
+Edited by: 
+Antonio Francesco Corno,  
+Glenfield Hospital, UK
+Reviewed by: 
+Yves Durandy,  
+Centre Chirurgical  
+Marie-Lannelongue, France  
+Tsvetomir Loukanov,  
+University of Heidelberg,  
+Germany  
+Attilio A. Lotto,  
+University Hospital Leicester, UK
+*Correspondence:
+ Ryan Robert Davies,  
+Nemours Cardiac Center, Nemours/A.I.  
+duPont Hospital for Children, 
+Wilmington, DE 19806, USA  
+Ryan.Davies@nemours.org
+Specialty section: 
+This article was submitted to 
+Pediatric Cardiology, a section of the 
+journal Frontiers in Pediatrics
+Received: 31 March 2015
+Accepted: 21 June 2015
+Published: 27 July 2015
+Citation: 
+Davies RR and Pizarro C (2015) 
+Decision-making for surgery in  
+the management of patients 
+with univentricular heart.  
+Front. Pediatr. 3:61.  
+doi: 10.3389/fped.2015.00061
+Decision-making for surgery in the
+management of patients with 
+univentricular heart
+ 
+Ryan Robert Davies  1,2* and Christian Pizarro  1,2
+1 Nemours Cardiac Center, A. I. duPont Hospital for Children, Wilmington, DE, USA, 2 Thomas Jefferson University, 
+Philadelphia, PA, USA
+A series of technical refinements over the past 30 years, in combination with advances 
+in perioperative management, have resulted in dramatic improvements in the survival 
+of patients with univentricular heart. While the goal of single-ventricle palliation remains 
+unchanged – normalization of the pressure and volume loads on the systemic ventricle, 
+the strategies to achieve that goal have become more diverse. Optimal palliation relies on 
+a thorough understanding of the changing physiology over the first years of life and the 
+risks and consequences of each palliative strategy. This review describes how to optimize 
+surgical decision-making in univentricular patients based on a current understanding of 
+anatomy, physiology, and surgical palliation.
+Keywords: univentricular heart, congenital heart disease, palliation, single ventricle, aortopulmonary shunt, 
+Blalock–Taussig procedure, Fontan procedure, hemi-Fontan procedure
+i ntroduction
+Over the past 30  years, there has been a dramatic improvement in the survival of patients with 
+univentricular heart (
+1
+, 
+2
+). The development of innovative techniques for surgical palliation – including 
+the Fontan (
+3
+) and Norwood procedures (
+4
+) – has been followed by surgical refinement and advances 
+in perioperative management. The list of technical refinements is long, including: the use of staged 
+palliation, branch pulmonary artery banding, the hybrid procedure, comprehensive second stage 
+palliation, and various technical modifications to both the Norwood procedure and the superior and 
+total cavopulmonary connections (TCPC).
+The ultimate goal of staged univentricular palliation is to normalize the volume and pressure work of 
+the functional ventricle while pumping blood fully saturated with oxygen, regardless of the underlying 
+cardiac anatomy (
+5
+). However, the elevated pulmonary vascular resistance (PVR) present in the early 
+post-natal period means that attainment of this long-term goal must be delayed, resulting in the need 
+for a staged management strategy in most cases. Accordingly, post-natal palliation requires that the 
+pulmonary and systemic circulations remain in parallel, while pulmonary blood flow is controlled, 
+allowing for the proper development and maturation of the pulmonary vascular bed. Subsequently, 
+the conversion to a cavopulmonary connection allows the transition to a circulatory arrangement with 
+the circulations connected in series. In this context, appropriate decision-making relies on a thorough 
+understanding of the anatomy and physiology of the univentricular heart at each stage of palliation, as well 
+as a comprehensive knowledge of the advantages and disadvantages of the various management strategies.
+Perinatal Management
+Early perinatal management of patients with univentricular heart is focused on identification of the 
+anatomy (which may constitute an immediate risk to the patient after birth) and on stabilization with 
+[[p2]]
+July 2015  |  Volume 3  |  Article 612
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+the usual measures to control the volume and pressure load to the 
+ventricle while enabling adequate systemic delivery of oxygen. 
+These goals must be achieved regardless of the underlying anatomic 
+substrate (whether hypoplastic left heart syndrome, an unbalanced 
+atrioventricular septal defect, or tricuspid atresia). Attention 
+should be paid to the delicate and dynamic balance between the 
+systemic and PVR ratio, leading to ongoing re-evaluation and 
+adjustments in management as the PVR falls (
+6
+).
+Evaluation of the neonate with single ventricle is directed at 
+identifying answers to the following questions: (1) is there a reliable 
+source of systemic blood flow? (2) is there a reliable source of 
+pulmonary blood flow? (3) Is there any impediment to pulmonary 
+venous return? and (4) Is there an appropriate balance between 
+the systemic and pulmonary circulations? (
+7
+). Non-invasive echo-
+cardiography is most commonly able to provide these answers; 
+cardiac catheterization is rarely required.
+Ductus Arteriosus
+In cases when there is a significant impediment to pulmonary or 
+systemic circulations, the ductus arteriosus can be used to provide 
+a reliable source of pulmonary or systemic blood flow. Patients in 
+whom a patent ductus arteriosus is necessary may be divided into 
+those with ductal-dependent pulmonary circulation (e.g., pulmo-
+nary atresia with intact ventricular septum, or tricuspid atresia) and 
+those with ductal-dependent systemic circulation (e.g., hypoplastic 
+left heart syndrome). In either case, maintenance of ductal patency 
+is critical to providing adequate systemic oxygen delivery.
+Since, initially described by Olley and colleagues in 1976 and 
+later by the Green Lane Unit (
+8
+, 
+9
+HK??d?Gofd?PH?
+remains the mainstay of medical treatment to maintain patency 
+of the ductus arteriosus. While treatment with PGE 1 has trans-
+formed the early management of neonates with ductal-dependent 
+lesions, it is not without side effects (
+10
+). Particularly concerning 
+among single-ventricle patients are apnea and the potential for 
+compromise of gastrointestinal perfusion (
+11
+, 
+12
+). These side 
+effects are dose-dependent; therefore, the dose should be titrated 
+to the lowest level required to maintain ductal patency (
+11
+). In 
+fact, in nearly all patients, a dose of 0.01 mcg/kg/min should be 
+adequate for continued ductal patency while limiting the risk of 
+significant side effects (
+11
+).
+Balancing Systemic and Pulmonary Blood Flow
+In cases where the pulmonary and systemic circulations are 
+connected in parallel, blood leaving the functional ventricle may 
+enter either the pulmonary artery or the systemic circulation. 
+The underlying anatomy, and in particular, the presence of either 
+pulmonary or systemic outflow obstruction will have an important 
+influence on the relative balance between pulmonary and systemic 
+blood flow (Table  1). In the absence of obstruction, the relative 
+blood flow to each circulatory component depends predominantly 
+on relative balance between pulmonary and systemic vascular 
+resistances. This is particularly important when the ductus 
+arteriosus remains patent. In this scenario, there is potential for 
+continuous diastolic runoff away from the systemic and into the 
+pulmonary circulation, making this balance even more chal-
+lenging, with the potential for dramatic effects on hemodynamic 
+stability and systemic oxygen delivery. In cases with significant 
+right or left outflow obstruction, an earlier surgical palliation may 
+be required when non-surgical manipulations are inadequate to 
+overcome the resulting imbalance in circulation or to prevent the 
+need for a prolonged administration of PGE1 and the potential 
+adverse effects and consequences associated with it.
+Balancing the distribution of cardiac output is especially 
+important in those patients with a circulation connected in 
+parallel at the arterial level, which commonly leads to excessive 
+pulmonary blood flow and pulmonary over circulation. This is 
+even more critical in the presence of ventricular dysfunction, 
+atrioventricular valve regurgitation, or rhythm disturbance. 
+Through manipulations in inspired respiratory gases, the balance 
+between systemic and pulmonary circulations can be modified. 
+Oxygen is a pulmonary vasodilator, while hypercarbia is a potent 
+pulmonary vasoconstrictor, and also a cerebral vasodilator (
+13
+) 
+Respiratory gas mixtures low in oxygen and those with added 
+carbon dioxide have been used to increase PVR and decrease 
+the Qp/Qs. In fact, the addition of carbon dioxide to the inspired 
+gas mixture increases PVR, decreases the volume load on the 
+ventricle, and improves systemic cardiac output (
+13
+, 
+14
+). Similar 
+vasoconstriction has been observed using sub-atmospheric 
+inhaled oxygen concentrations to induce alveolar hypoxia; how-
+ever, this method lacks the cerebral vasodilatory effect (
+13
+). In 
+some cases, mechanical ventilation and paralysis may be required 
+in order to provide precise control over pCO
+2 and pO 2; but the 
+manipulation of respiratory gas exchange is often sufficient to 
+provide balanced pulmonary blood flow in the early post-natal 
+period (
+13
+).
+Challenges in e arly Management
+Patients presenting with ventricular dysfunction, obstructed 
+pulmonary venous return, significant atrioventricular valve regur-
+gitation, or non-cardiac disease (e.g., sepsis or gastrointestinal 
+TABL e  1 | Categorization of pulmonary and systemic outflow obstruction and its consequences in the univentricular heart.
+Systemic 
+outflow
+Pulmonary 
+outflow
+ e xamples v entricular 
+volume load
+Pulmonary 
+blood flow
+Consequences
+Unobstructed Unobstructed Unbalanced atrioventricular 
+septal defect
+↑↑↑ ↑ Congestive heart failure due to pulmonary overcirculation as pulmonary 
+vascular resistance falls
+Obstructed Unobstructed Hypoplastic left heart 
+syndrome
+↑↑ ↑↑↑ Severe congestive heart failure due to pulmonary overcirculation as the 
+pulmonary vascular resistance falls. inadequate systemic cardiac output
+Unobstructed Obstructed Tricuspid atresia with 
+pulmonary atresia
+↑ ↓↓ Progressive and severe cyanosis due to inadequate pulmonary blood 
+flow
+Adapted from Walker et al. ( 7 ).
+[[p3]]
+July 2015  |  Volume 3  |  Article 613
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+anomalies) present important challenges. The presence of atrio-
+ventricular valve regurgitation results in an additional volume load 
+on the already loaded ventricle. This commonly leads to congestive 
+heart failure and not infrequently a gradual and progressive onset 
+of ventricular dysfunction. Early control of pulmonary blood flow 
+to reduce additional volume loading is essential. Not infrequently – 
+particularly among patients with a single right ventricle or those 
+with a common atrioventricular valve – control of pulmonary 
+blood flow can be associated with a significant reduction of the 
+valve regurgitation (
+15
+, 
+16
+). In this scenario, an intervention 
+should be performed without delay.
+The presence of ventricular dysfunction can be associated with 
+late diagnosis or intrinsic myocardial dysfunction. Commonly, the 
+dysfunctional ventricle is unable to meet the work requirements 
+of the single-ventricle circulation, leading to circulatory failure 
+and end organ dysfunction. As stated previously, early attention to 
+reducing the volume and pressure load on the ventricle is critical. 
+If obstruction to systemic blood flow is present, an unobstructed 
+pathway must be secured with the use of PGE1 or with an interven-
+tion. While manipulation of respiratory gas exchange in combina-
+tion with inotropic support may be sufficient, some patients will 
+require early surgical control of pulmonary blood flow. Depending 
+on the underlying anatomy, this may be performed using either a 
+main pulmonary artery band or, if patency of the ductus arteriosus 
+is necessary, branch pulmonary artery banding (see below). In 
+all patients, this will reduce the Qp/Qs, volume load, ventricular 
+work, and usually will lower the end-diastolic pressure over time. 
+Moreover, in those with ductal-dependent circulations (such as 
+HLHS), it may have the added benefit of augmenting systemic 
+diastolic pressure and enhancing coronary perfusion.
+In contradistinction, obstructed pulmonary venous return 
+is often a serious and frequently insurmountable problem. The 
+timing of intervention varies, from emergent in the case of intact 
+atrial septum to semi-elective in the case of moderate obstruction 
+or less. Alternatively, if the anomalous pulmonary venous drainage 
+is unobstructed, control of pulmonary blood flow may reduce the 
+pulmonary venous gradient. Repair can then be deferred to a later 
+date – ideally the second-stage procedure (
+17
+).
+Although an atrial septectomy or repair of total anomalous 
+pulmonary venous connections may resolve an anatomic obstruc-
+tion (
+18
+), fetal development of the pulmonary vasculature in the 
+setting of obstructed pulmonary venous drainage is associated 
+with irreversible alterations in pulmonary vascular structure (
+19
+). 
+This results in elevated PVR, which is associated with significant 
+morbidity and mortality following cavopulmonary connection. 
+Thus, overall outcomes among patients with single ventricle and 
+obstructed pulmonary venous return are poor, especially in the 
+setting of heterotaxy syndrome (
+18
+, 
+20
+–
+22
+). In the recent years, 
+although novel attempts to relieve pulmonary venous obstruction 
+during fetal life have been associated with improved early survival, 
+this has commonly been associated with important morbidity and 
+mortality during follow up (
+18
+).
+Finally, the management of single-ventricle patients with non-
+cardiac congenital anomalies or with postnatal illness (particularly 
+sepsis) remains difficult. In this scenario, caution should be utilized 
+when choosing conventional treatment measures. While systemic 
+vasoconstrictors may be essential for maintaining blood pressure 
+in septic patients, in univentricular heart patients, they can 
+lead to disproportionate increases in SVR resulting in the rapid 
+development of pulmonary overcirculation, volume overload, 
+and poor oxygen delivery. In hypotensive patients, clinical and 
+ecocardiographic evaluation should assist in identifying the 
+underlying mechanism: vasodilatation, poor cardiac function, or 
+maldistribution of cardiac output. In the case of sepsis, epineph-
+rine provides the most effective support. The use of dopamine in 
+single-ventricle patients is controversial; as it has been shown to 
+increase the systemic oxygen demand offsetting any improvement 
+in systemic oxygen delivery (
+23
+). Pure vasoconstriction agents 
+have a significant risk of increasing the systemic more than PVR, 
+resulting in systemic hypoperfusion and cardiac volume overload 
+(
+1
+). In addition, the presence of a systemic inflammatory response 
+and poor oxygen diffusion in the lungs may suggest the need for 
+supplemental oxygen; however, this can result in pulmonary vaso-
+dilation and heart failure. These patients will commonly require 
+early surgical palliation to control pulmonary blood flow as well 
+as invasive monitoring in order to allow for optimization of the 
+circulatory physiology and treatments directed at the non-cardiac 
+pathology.
+i nitial Surgical Palliation
+The goals of initial palliation are to provide unobstructed systemic 
+blood flow, well-balanced pulmonary and systemic circula-
+tions with controlled pulmonary blood flow, and unobstructed 
+pulmonary and systemic venous return (including unrestricted 
+atrial level mixing of venous returns). Although the long-term 
+goals include normalization of the ventricular volume load and 
+provision of normal systemic oxygen delivery, the elevated PVR 
+characteristic of the newborn period requires a staged approach 
+to achieve these long-term goals. As part of the initial surgical 
+palliation, relief of any systemic outflow tract and pulmonary 
+venous obstructions must also be undertaken. Thus, the precise 
+procedure to accomplish the goals will depend on the underlying 
+anatomy but may include the creation of a reliable and controlled 
+source of pulmonary blood flood through a systemic–pulmonary 
+shunt, limitation of pulmonary blood flow via main pulmonary 
+banding, repair of aortic coarctation and aortic arch hypoplasia, or 
+a combination of these (including the Norwood procedure). Relief 
+of any pulmonary venous obstruction by either reconstruction of 
+stenotic anomalous pulmonary venous connections or a complete 
+atrial septectomy should be performed as needed.
+Timing of i nitial i ntervention
+The timing of the initial intervention directed at regulating the 
+pulmonary blood flow (Qp) is determined by the severity of the 
+baseline flow imbalance. In patients with reduced pulmonary 
+blood flow and low Qp, the degree of cyanosis is the best indica-
+tion for when to proceed with surgical palliation. Creation of 
+a reliable and effective source of pulmonary blood flow with a 
+shunt procedure (see below) should be undertaken when severe 
+cyanosis (O
+2Sat <70%) is present ( 24 ). As part of the preoperative 
+evaluation, other sources of cyanosis, including reversible lung 
+disease, anemia, and obstruction to pulmonary venous flow need 
+to be ruled-out (
+24
+).
+[[p4]]
+July 2015  |  Volume 3  |  Article 614
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+In contradistinction, in patients with excessive pulmonary 
+blood flow, the onset of signs and symptoms consistent with 
+volume overload and occasionally congestive heart failure 
+(growth failure, tachycardia, tachypnea, the need for mechanical 
+ventilation) suggest the need for pulmonary banding. Signs will 
+usually worsen as the PVR falls postnatally. Occasionally, there is a 
+reasonable balance between systemic and pulmonary circulation, 
+while the pulmonary vascular bed is protected from high pressure 
+and high flow. In some cases, these patients can exhibit growth 
+and development in the first months of life, while the pulmonary 
+vascular bed matures and develops. In this scenario, patients may 
+then proceed directly to a superior cavopulmonary connection at 
+an appropriate age.
+Control of Pulmonary Blood  
+Flow–Pulmonary Artery Banding
+In patients with excessive Qp and signs of heart failure, control 
+of pulmonary blood flow is essential to permit somatic growth 
+and eliminate the volume load to the ventricle while the normal 
+post-natal decrease in PVR takes place (
+6
+, 
+QT
+). Most commonly, 
+this is performed using a band on the main pulmonary artery, 
+although patients with ductal-dependent systemic blood flow may 
+undergo a hybrid procedure involving branch pulmonary artery 
+band placement (see below).
+It should be noted, that in patients with single-ventricle and 
+discordant ventriculo arterial connection, pulmonary artery 
+banding can lead to significant systemic outflow obstruction. In 
+these patients, systemic outflow is dependent on flow through 
+the ventricular septal defect (bulboventricular foramen) and the 
+hypoplastic outflow chamber. In this scenario, pulmonary artery 
+banding is usually associated with significant myocardial hyper-
+trophy, leading to outflow obstruction in as many as 70–100% of 
+patients (
+26
+, 
+27
+). Moreover, if surgical reconstruction is necessary 
+to alleviate this issue, the risk is particularly high (
+27
+–
+30
+). Based 
+on this experience, a Damus–Kaye–Stansel (DKS) or a modified 
+Norwood procedure (with pulmonary blood flow provided by 
+a systemic-to-pulmonary shunt) has been shown to provide a 
+reliable systemic outflow, and avoids the need for subsequent 
+reinterventions (
+31
+). Nevertheless, other reports still suggest 
+acceptable outcomes with a strategy of arch reconstruction and 
+pulmonary artery banding (
+29
+, 
+32
+–
+34
+). If this strategy is chosen, 
+close surveillance to evaluate early development of restriction 
+is mandatory, and a low-threshold for DKS anastomosis either 
+before or at the superior cavopulmonary connection is critical. In 
+the long-run, failure to recognize subaortic obstruction and the 
+consequent ventricular hypertrophy may result in compromised 
+Fontan candidacy (
+35
+, 
+36
+).
+Augmentation of Pulmonary Blood Flow
+Among patients with inadequate pulmonary blood flow (either 
+preoperatively or as the result of initial palliation as in the Norwood 
+procedure), augmentation of pulmonary blood flow through the 
+use of a systemic-to-pulmonary shunt may be necessary. Multiple 
+techniques are of primarily historical importance, including the 
+classic Glenn, the classic Blalock–Taussig, the Waterston, and the 
+Potts shunts. In current practice, nearly all shunts are a modified 
+Blalock–Taussig shunt (mBTS) consisting of a PTFE graft connect-
+ing the proximal innominate artery and the right pulmonary artery.
+In most cases, the shunt is performed via a median sternotomy 
+with the variable use of cardiopulmonary bypass. This incision has 
+several advantages over the traditional lateral thoracotomy, includ-
+ing the ability to ventilate both lungs, more central placement 
+on the pulmonary arteries (minimizing the risk of lobar branch 
+compromise), access for ligation of the arterial duct, and the ease 
+of cannulation for cardiopulmonary bypass where required (
+24
+). 
+In addition, avoidance of a thoracotomy mitigates the development 
+of systemic-to-pulmonary artery collaterals and prevents morbid-
+ity related to the lung parenchyma or the pleural space, which 
+could have a deleterious effect on Fontan candidacy. In general, 
+L?????VT–WTD???
+appropriate sized shunt with a Qp:Qs approaching 1:1.
+The diameter of the PTFE shunt is the primary determinant 
+of its resistance. Alterations in the length of the tube or in its 
+position on the arterial tree play a smaller, but still important role. 
+In neonates weighing 3.5 kg, a 3.5-mm shunt is usually appropriate. 
+In slightly larger infants or those with smaller pulmonary arteries, 
+placing the shunt more proximally within the systemic circula-
+tion may provide additional flow without the dramatic decrease 
+in resistance apparent with a step-up to a 4-mm shunt. However, 
+shunts originating in locations other than the innominate artery 
+may have a higher early mortality risk, although confounding 
+with morphologic variation preventing the use of the innominate 
+artery may play an important role (
+RV
+). Despite the popularity of 
+the 3.5-mm standard, there is growing evidence that the use of 
+smaller shunts may improve outcomes – both for patients with 
+???????Ge PH?
+(
+RV
+, 
+38
+). However, this may be associated with a higher incidence 
+of thrombosis and need for reintervention (
+39
+). Unfortunately, 
+there is no mathematical formula to define the optimal shunt size 
+in a specific patient. Several factors will determine pulmonary 
+blood flow including the site of insertion and the diameter of the 
+shunt, PVR, and the technical skill and experience of the surgeon 
+in obtaining a 3.5-mm opening using a 3.5-mm graft (
+24
+).
+The use of aspirin following the placement of a systemic-to-
+pulmonary shunt (especially with PTFE) is a common practice 
+but based primarily on observational data. A retrospective 
+observational study by Li and colleagues suggests a beneficial 
+impact of aspirin in preventing shunt thrombosis and improving 
+survival in shunted patients (
+40
+). More recently, a randomized, 
+controlled trial failed to show a benefit of clopidogrel over placebo 
+in transplant-free survival, but nearly 90% of patients in the trial 
+were on aspirin, suggesting that the message is really that clopi-
+dogrel and aspirin is no better than aspirin (
+41
+). In fact, post hoc 
+analysis of that population suggested a benefit with the use of 
+aspirin in this population, with a 40% relative risk reduction in 
+the incidence of the primary outcomes (death, transplantation, or 
+shunt thrombosis) (
+ 41 ). Based on our own experience, aspirin does 
+not appear important in preventing shunt thrombosis (personal 
+communication). Thrombotic complications are common in these 
+patients, and may influence mortality even in the presence of a 
+patent systemic-to-pulmonary shunt (
+42
+). A randomized trial 
+would be valuable in confirming the utility of aspirin in preventing 
+these complications.
+[[p5]]
+July 2015  |  Volume 3  |  Article 615
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+Preservation of antegrade pulmonary flow may lead to pul-
+monary overcirculation and volume overloading. This can be 
+particularly deleterious among patients with atrioventricular valve 
+regurgitation, in whom maintaining pulmonary arterial patency is 
+associated with worsening regurgitation and higher risk of early 
+mortality (
+RV
+). Not infrequently, antegrade pulmonary blood flow 
+is preserved based on the notion that it can improve survival in case 
+of shunt thrombosis; however, this has never been demonstrated. 
+More importantly, due to the presence of competitive blood flow, 
+the presence of antegrade pulmonary blood flow has been associ-
+ated with trends toward increased shunt thrombosis and mortality 
+in multiple studies (
+43
+, 
+44
+).
+Although rare in univentricular patients, the presence of a 
+dynamic component to pulmonary flow limitation increases the 
+complexity of early postnatal management. In the patient with a 
+single functional ventricle, hyper cyanotic spells may result in a 
+rapid deterioration of ventricular function, myocardial ischemia, 
+and death. However, preservation of the native pulmonary blood 
+flow at the time of insertion of a systemic-to-pulmonary artery 
+shunt in order to provide adequate Qp during episodes of dynamic 
+obstruction may lead to a extremely challenging management of 
+excessive Qp at baseline. In these cases, it seems preferable to ligate 
+and divide the main pulmonary artery, relying instead on a single 
+and fixed source of pulmonary blood flow.
+Obstruction to Systemic Outflow
+Provision of a reliable and unobstructed systemic outflow pathway 
+represents one of the main tenets in the management of single-
+ventricle patients. Failure to relieve systemic outflow obstruction 
+F i GUR e  1 | Smaller systemic-pulmonary arterial shunt size resulted in 
+decreased mortality and increased transition rates to BDCPA. (A) Use of 
+3-mm shunt resulted in 85% of patients having BDCPA by 1 year, 10% still in 
+palliated state, and only 5% of dead. (B) Use of larger 5-mm shunt resulted in 
+much slower transition rate and slightly increased rate of death without BDCPA 
+[from Karamlou et al. (
+RV
+)].
+during initial palliation has several deleterious consequences. If 
+the outflow obstruction is distal to the source of pulmonary blood 
+flow (subaortic obstruction in a patient with a PA band, or a 
+coarctation in a patient with an mBTS, aortic stenosis in a patient 
+with an RV–PA conduit), the result will be increased pulmonary 
+blood flow and lower systemic output. This leads to pulmonary 
+overcirculation, inadequate protection of the pulmonary vascular 
+bed associated with the elevation of PVR, and ultimately increased 
+volume load on the single ventricle. Most importantly, the outflow 
+obstruction results in an important pressure load on the ventricle 
+with consequent hypertrophy, increased myocardial stiffness, and 
+elevation in end-diastolic pressure. At the time of conversion to 
+a cavopulmonary connection (and the loss of the systemic blood 
+pressure as a driving force for pulmonary blood flow), elevations 
+in end-diastolic pressure increased PVR and may preclude Fontan 
+completion or result in early Fontan failure and poor survival 
+(
+36
+, 
+45
+–
+47
+).
+The most common procedures used in the relief of systemic 
+outflow tract obstruction are the DKS and Norwood procedures. 
+In both cases, the main pulmonary artery is used as the main 
+pathway for the systemic outflow. In cases when the systemic 
+outflow obstruction is associated with aortic arch hypoplasia 
+and/or coarctation of the aorta, then Norwood procedure is the 
+procedure of choice (
+4
+).
+As noted above, the threshold for performing either a DKS 
+or a Norwood procedure in patients with a univentricular heart 
+and potential or mild systemic outflow obstruction is a matter 
+of controversy. If creation of a DKS is considered, placement of 
+a pulmonary band should be tempered by the distortion of the 
+[[p6]]
+F i GUR e  2 | Kaplan–Meier curves for transplantation-free survival 
+among all infants who underwent the Norwood procedure, 
+according to the intention-to-treat analysis. P = 0.02 for the difference 
+in the treatment effect for the period before and the period after 12 months. 
+MBT denotes modified Blalock–Taussig, and RVPA denotes right ventricle–
+pulmonary artery [from Ohye et al. (
+53
+)].
+July 2015  |  Volume 3  |  Article 616
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+pulmonary (neo-aortic) root and valve, which can be associated 
+with neo-aortic insufficiency at the time of DKS. The negative 
+feedback loop initiated by the presence of ventricular outflow 
+obstruction stimulates myocardial hypertrophy leading to worsen-
+ing outflow obstruction and the potential for long-term myocardial 
+alterations as the result of early pressure loading of the ventricle. 
+Given these considerations, the threshold for performance of a 
+procedure to relieve outflow obstruction should be low with the 
+goal to provide a durable and reliable solution that would avoid 
+the need for repeated reinterventions. Evidence-based guidelines 
+would require a prospective trial.
+Stage 1 Norwood Procedure
+The Norwood procedure is commonly performed among patients 
+with univentricular hearts and systemic outflow obstruction. In 
+spite of nearly three decades of experience, little consensus exists 
+regarding the most appropriate source of pulmonary blood flow, 
+techniques of intraoperative management, and cerebral protection, 
+and whether hybrid or conventional procedures provide the most 
+appropriate palliation.
+Choice of shunt
+Since initially described, the source of pulmonary blood flow has 
+evolved over time, including a direct RV to PA conduit, central 
+K???as??G
+48
+–
+50
+). The RV–PA conduit has 
+the advantage of eliminating the systemic diastolic run-off into the 
+pulmonary circulation that causes reversal of flow in the ascend-
+ing aorta and coronary arteries among patients palliated with an 
+mBTS (
+51
+). This flow reversal places patients at-risk for coronary 
+ischemia and has been theorized to contribute to interstage mortal-
+ity (
+52
+, 
+53
+). However, concern still exists about the impact of the 
+ventriculotomy on late ventricular dysfunction and its use has 
+been associated with a higher number of interventions prior to 
+subsequent palliation (
+54
+).
+In order to answer these questions, a multi-center rand-
+omized trial was undertaken to compare the two shunt types 
+(
+53
+). Although there was a 10% reduction in mortality at 1 year 
+with the use of a right ventricle to pulmonary artery conduit, no 
+significant difference was observed in transplant-free survival 
+at 2 years following Norwood procedure (Figure 2) (
+53
+). This 
+early difference in mortality is consistent with the physiologic 
+advantages of the RV–PA conduit: elimination of diastolic run 
+off with a resulting less precarious circulatory balance during the 
+early post-operative period. However, patients with an RV–PA 
+conduit underwent more interventions on the pulmonary 
+artery (
+53
+, 
+55
+). A more detailed analysis of this cohort revealed 
+that the use of an RV to PA conduit offered a significant initial 
+improvement on transplant-free survival among those patients 
+with an atretic aortic valve who were 2.5 kg or bigger (Figure 3) 
+(
+20
+). Beyond that, it appears that surgeon and institutional 
+familiarity with a particular strategy (whether mBTS or RV–PA 
+conduit) may be the most important determinant of institutional 
+outcomes. However, it is likely that centers with less familiarity 
+with the Norwood procedure may have more stable immediate 
+post-operative courses and improved survival with the use of the 
+RV–PA conduit (
+53
+).
+Our current practice is to prefer the RV–PA conduit in 
+patients with aortic atresia where the risk of coronary ischemia 
+is particularly high in the absence of antegrade aortic blood flow. 
+Otherwise patients receive an mBTS due to our concerns regard-
+ing the need for additional interventions and long-term impact 
+on ventricular function. Importantly, ongoing modifications of 
+the RV–PA conduit, including the use of ring reinforced grafts 
+and dunking of the graft into the ventricle (
+56
+), may decrease the 
+need for interventions and mitigate the negative aspects of this 
+shunt. Continued evaluation of the optimal strategy is important 
+as further technical modifications are introduced.
+Hybrid versus traditional procedure
+The combination of stenting of the ductus arteriosus and banding 
+of the branch pulmonary arteries as initial palliation for hypoplas-
+tic left heart syndrome was initially described by Gibbs et al. in 
+1993 (
+57
+). It was thought that moving the complex cardiac surgical 
+procedure out of the high-risk neonatal period would enable both 
+improved survival and improved neurodevelopmental outcomes 
+(
+58
+–
+61
+). Although an increasing number of hybrid procedures 
+have been performed, an attendant improvement in outcomes, 
+including neurodevelopmental function has not been realized 
+(
+59
+, 
+60
+, 
+62
+–
+64
+). In spite of these results, enthusiasm for its use 
+among high-risk patients continues and few centers have adopted 
+the use of the hybrid for all patients (
+62
+). In theory, waiting for 
+definitive palliation until patients are beyond the critical neonatal 
+period might mitigate the risk associated with low birth weight, 
+early gestational age, aortic atresia – all factors known to increase 
+mortality following stage 1 Norwood procedures – and provide the 
+[[p7]]
+F i GUR e  3 | (A) Parametric survival curve by anatomic subtype of subjects 
+undergoing RVPAS. (B) Parametric survival curve by anatomic subtype of 
+subjects undergoing MBTS [from Tweddell et al. (
+20
+)].
+F i GUR e  4 | Competing risks analysis of patients after: (A) Norwood 
+operation; (B) removal of bilateral pulmonary arterial banding (bPAB). 
+Cumulative incidence of three competing outcomes is shown: death (solid 
+black line), intervention (dashed black line), and alive without intervention 
+(dotted black line). Comparison of cumulative incidence between groups: 
+death (p = 0.057), intervention (p = 0.15) [from Davies et al. (
+66
+)].
+July 2015  |  Volume 3  |  Article 617
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+time to address significant associated conditions ( 20 , 65 ). Several 
+centers have applied the hybrid procedure selectively to patients 
+in these categories (
+63
+, 
+66
+–
+72
+).
+However, with additional follow up, it has become apparent that 
+the hybrid procedures can mitigate only some of the risk associ-
+ated with these factors. Consistent with broad results in surgery 
+among patients with low birth weight (
+73
+), it does not appear that 
+the months of potential growth prior to surgical palliation result 
+in improved outcomes. Furthermore, the placement of branch PA 
+bands in infants <2 kg has significant technical challenges. Small 
+changes in the diameter of the band may result in large alterations in 
+the relative intraluminal diameter. Ideal band tightness and balanced 
+pulmonary blood flow are difficult to achieve. Similarly, patients with 
+aortic atresia continue to have a high-risk for mortality both in the 
+interstage period and following the comprehensive second stage pal-
+liation (
+63
+). This may reflect the ongoing risk of myocardial ischemia 
+as a result of coronary arterial dependence on retrograde arch flow 
+between the hybrid procedure and the comprehensive second stage 
+(
+61
+). Even in the absence of clinically evident preductal coarctation, 
+ongoing subclinical ischemia may result in a myocardium less able to 
+tolerate the long period of myocardial ischemia at the comprehensive 
+?M?v??????as????
+some of this risk, it adds to the complexity of a procedure whose 
+strongest argument is its simplicity (
+74
+).
+Finally, it is clear that patients undergoing hybrid palliation 
+are affected by the obligatory distortion of the central pulmonary 
+arteries and pulmonary arterial growth, resulting in an increased 
+rate of pulmonary arterial interventions (Figure 4) (
+59
+, 
+61
+, 
+66
+). 
+Although the need for pulmonary arterial interventions may be 
+related to technical aspects of the comprehensive second stage, 
+our data would suggest that the duration of bPAB influences the 
+risk of intervention. Patients with branch PABs in place for longer 
+than 90 days have higher rates of pulmonary arterial intervention 
+(
+66
+). However, Fontan candidacy seems to be unaffected by the 
+use of the hybrid procedure (
+61
+, 
+63
+), so it remains unclear whether 
+these additional pulmonary arterial interventions have the feared 
+negative long-term consequences.
+[[p8]]
+July 2015  |  Volume 3  |  Article 618
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+Given the potential morbidity of the hybrid procedure and the 
+inability to demonstrate a significant improvement in outcomes, 
+its usefulness remains a matter of controversy. The use of branch 
+PABs for the temporary control of pulmonary blood flow seems 
+particularly advantageous in the setting of initial hemodynamic 
+instability refractory to usual medical management, reversible 
+risk factors, or need for an immediate non-cardiac surgical inter-
+vention (TE fistula, duodena atresia) (
+63
+, 
+67
+, 
+70
+, 
+VT
+, 
+76
+). In the 
+setting of reversible risk factors, such as, late diagnosis with end 
+organ dysfunction infection, NEC, sepsis, etc., branch pulmonary 
+artery bands allow for the control of pulmonary blood flow and 
+the optimization of systemic cardiac output and coronary perfu-
+sion while allowing time for the resolution of these important 
+co-morbidities, which are known risk factors for poor outcome. 
+Following clinical improvement, patients can be palliated with a 
+traditional stage 1 Norwood, also known as rapid stage I Norwood, 
+avoiding the challenges of either long-term branch PA banding 
+or the subsequent comprehensive second stage procedure (
+66
+, 
+VT
+). Controversy still surrounds the role for hybrid palliation 
+among centers with less experience with the traditional Norwood 
+procedure. As previously shown, both center and surgeon volume 
+influence outcomes following the Norwood procedure (
+77
+); it 
+remains unclear whether hybrid mortality is influenced by insti-
+tutional HLHS volume (
+62
+); thus, low-volume centers may benefit 
+from the use of hybrid procedures as an interim management 
+option when transfer to a higher volume center is not available 
+or would be delayed.
+Superior Cavopulmonary Connection
+The superior cavopulmonary connection (SCPC, bidirectional 
+Glenn or hemi-Fontan) has a significant salutary effect on cardiac 
+function. The second-stage procedure relieves the volume load on 
+the single ventricle while maintaining systemic oxygen delivery 
+(
+78
+). This results in ventricular work-load approximating that 
+of the systemic ventricle in biventricular circulation (
+79
+, 
+80
+). 
+One of the critical features of the second-stage procedure is the 
+opportunity for the ventricle to have enough time for ventricular 
+remodeling following the removal of the volume load prior to 
+Fontan completion (
+24
+). In addition, the use of an intermediate 
+SCPC provides the opportunity to address other anatomic and 
+physiologic abnormalities (including atrioventricular valve regur-
+gitation, pulmonary artery distortion) therefore optimizing the 
+chances of a successful Fontan completion. Overall, the advantages 
+of performing a second-stage palliation are felt to outweigh its 
+disadvantages, and most centers perform a three-stage palliation 
+for the univentricular heart rather than proceeding directly to 
+Fontan completion.
+In light of these physiologic advantages, and aiming to reduce 
+the inter-stage mortality among patients with a systemic-to-
+pulmonary artery shunt, the timing of the SCPC has been shifted 
+toward an earlier age than the usual 5–6 years (
+81
+–
+83
+). The high 
+PVR of the early neonatal period clearly precludes the use of a 
+cavopulmonary connection in early life and when performed in 
+the first 2 months of age is likely to result in elevated cavopulmo-
+nary pressures and cyanosis (
+24
+). Notably, the SCPC has been 
+performed in some special circumstances as early as 8–10 weeks of 
+age with reasonable outcomes but significantly increased resource 
+utilization (
+84
+).
+Alternatively, patients who have a reliable and controlled source 
+of pulmonary blood flow have the innate advantage of having a 
+pulmonary vascular bed that is protected from high pressure 
+and flow, while affording appropriate oxygen saturations. In this 
+case, the option of a primary SCPC should be considered after 
+10–12 weeks of age (
+24
+).
+Choice of Superior Cavopulmonary Connection: 
+Hemi-Fontan or Bidirectional Glenn
+The type of superior cavopulmonary connection is of little 
+importance, as it does not appear to influence long-term outcomes 
+(
+85
+). While the hemi-Fontan operation facilitates a subsequent 
+lateral-tunnel Fontan, this procedure is technically more complex. 
+However, it minimizes the dissection and therefore theoretically 
+may reduce the risk of bleeding, lymphatic disruption, or phrenic 
+nerve injury, but no definitive data exist to support these theo-
+retical advantages (
+86
+, 
+87
+). Although immediate post-operative 
+sinus node dysfunction appears to be more common with the 
+hemi-Fontan, this is a transient phenomenon and subsequent 
+outcomes are equivalent (
+85
+). Therefore, the decision regarding 
+which superior cavopulmonary connection to perform should be 
+based primarily on the planned Fontan procedure.
+Additional Pulmonary Blood Flow at  
+Second-Stage Palliation
+Controversy continues to exist regarding the management of 
+additional pulmonary blood flow at the time of SCPC. Additional 
+pulmonary blood flow may be provided by either leaving a previous 
+systemic–pulmonary shunt intact at the time of SCPC, or by leav-
+ing antegrade flow through a banded or stenotic native pulmonary 
+artery (
+88
+, 
+89
+). Theoretically, the potential benefits of maintenance 
+of additional pulmonary blood flow include: (1) higher oxygen 
+saturation levels between superior and total cavopulmonary con-
+nection procedures (
+88
+–
+94
+) and (2) improved pulmonary arterial 
+growth (
+88
+, 
+91
+, 
+94
+, 
+95
+), and (3) lowering of PVR due to the salutary 
+effects of pulsatile blood flow (
+96
+, 
+97
+). In addition, as a result of 
+pulsatile flow and higher oxygen levels, there may be a decreased 
+stimulus for the development of pulmonary arteriovenous malfor-
+mations and systemic-to-pulmonary collateralization (
+96
+).
+However, there is no convincing evidence to support these 
+benefits. Because of both the increase in venovenous collaterals 
+and somatic growth, the higher oxygen saturations may not persist 
+through Fontan palliation (
+95
+, 
+98
+, 
+99
+). There is no conclusive data 
+to validate the notion of increased growth and development of 
+the pulmonary arterial vasculature (
+92
+, 
+100
+), or normalization of 
+pulmonary arterial size (
+88
+, 
+101
+).
+Furthermore, preservation of additional pulmonary blood 
+flow has the potential for significant side effects, predominantly 
+related to the persistent volume load on the single ventricle (
+81
+). 
+This is especially true of cases in which the additional pulmonary 
+blood flow occurs through a shunt. The ongoing volume load may 
+result in either worsening of atrioventricular valve regurgitation 
+or ventricular function; although, conflicting data exist and some 
+reports have demonstrated the maintenance of both valvular and 
+[[p9]]
+TABL e  2 | The “Ten Commandments” of the ideal Fontan candidate.
+Age older than 4 years
+Sinus rhythm
+Normal systemic venous return
+Normal right atrial volume
+Mean pulmonary artery pressure <15 mm Hg
+Pulmonary arteriolar resistance <4 Wood units/m
+2
+Pulmonary artery–aorta ratio more than 0.75
+Left ventricular ejection fraction more than 0.60
+Competent mitral valve
+Absence of pulmonary artery distortion
+July 2015
+ 
+|
+ 
+Volume 3
+ 
+|
+ 
+Article 619
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+ventricular function following SCPC with preservation of native 
+antegrade flow through the pulmonary artery (
+88
+, 
+91
+, 
+94
+, 
+98
+). In 
+addition, the higher pressure in the superior cavopulmonary con-
+nection (
+89
+, 
+91
+, 
+93
+–
+95
+) has been associated with a higher incidence 
+of prolonged pleural drainage (
+89
+, 
+93
+, 
+94
+, 
+102
+, 
+103
+), increased 
+length-of-stay (
+102
+), and possibly an increase in the incidence of 
+superior vena caval syndrome (
+88
+). In the long-run, these higher 
+pressures also lead to increased venovenous collaterals (
+94
+, 
+95
+). 
+Finally, volume-loading remains a concern for Fontan candidacy 
+and long-term cardiac function, especially since older age at the 
+time of volume unloading is associated with decreased exercise 
+performance in adolescence (
+104
+).
+It does not appear that either strategy increases the likelihood of 
+Fontan candidacy (
+89
+, 
+94
+, 
+99
+). Patients with additional pulmonary 
+blood flow may tolerate a longer delay until Fontan completion 
+(
+99
+), but the long-term advantages of such a strategy are not clear. 
+Some (
+89
+, 
+102
+) – though not all (
+88
+, 
+91
+, 
+94
+, 
+98
+) – series report 
+higher mortality among patients with additional pulmonary blood 
+flow. It seems clear that, among patients with elevated PVR or 
+hypoxia despite an unobstructed SCPC, preservation of pulmonary 
+blood flow may allow for partial improvement in the volume 
+loading of the ventricle with the possibility of Fontan candidacy 
+in the future. In fact, some have advocated the use of an SCPC 
+with preserved pulmonary blood flow as an alternative to Fontan 
+palliation (
+103
+, 
+105
+). However, given the restrictive (through either 
+banding or native stenosis) antegrade blood flow, most patients 
+will eventually outgrow the pulmonary blood flow and become 
+cyanotic. Subsequent late Fontan conversion among patients 
+developing worsening cyanosis is associated with high mortality 
+(
+106
+), suggesting that it is not the best strategy in patients who 
+are Fontan candidates.
+Care should be exercised in situations where the native pulmo-
+nary outflow tract is ligated. In these cases, the native pulmonary 
+artery stump has the potential to act as a nidus for thrombus 
+formation (
+107
+–
+109
+). Various surgical techniques may be used 
+to eliminate the supravalvar area of stasis in the main pulmonary 
+artery. These include the creation of a DKS anastomosis in patients 
+at-risk for later systemic outflow tract obstruction, resection of 
+pulmonary valve leaflets at the time of SCPC, or closure while 
+oversewing the valve (
+106
+).
+Total Cavopulmonary Connection –  
+The Contemporary Fontan Procedure
+Physiology of the Total Cavopulmonary 
+Connection
+Initially, the Fontan procedure was described for the treatment 
+of tricuspid atresia and was intended to use atrial contractions 
+as a “pulmonary ventricle” (
+110
+–
+112
+). However, it subsequently 
+became clear that the contractions of the atrium were insufficient 
+(and unnecessary) to provide energy to propulse the blood 
+leaving the systemic capillary beds to perfuse the lungs (
+113
+). 
+In the current single-ventricle staging process, the benefits of 
+the Fontan procedure include near normalization of systemic 
+oxygen saturations and elimination of the risk of paradoxical 
+embolization. Unfortunately, this benefit comes at the expense 
+of, chronic passive congestion within the systemic venous system 
+and the liver (
+114
+, 
+115
+), limited cardiac output reserve both at 
+rest and during exercise (
+111
+, 
+112
+), and a higher afterload on the 
+ventricle (
+114
+).
+Nevertheless, in many situations, a TCPC provides the best 
+long-term palliation for patients with a complex cardiac defect 
+not amenable to biventricular repair. Alternatively, it has been 
+suggested that an SCPC (with or without additional antegrade 
+pulmonary blood flow) could be the final palliative stage in patients 
+with unsuitable hemodynamics for Fontan completion or as a 
+means to avoid the long-term ill effects of chronic passive con-
+gestion (
+103
+, 
+105
+). Although currently very little evidence exists 
+to guide the long-term choice of palliation strategy in individual 
+patients, in most centers, the Fontan remains the palliation strategy 
+of choice (
+24
+, 
+115
+).
+Fontan Candidacy and Timing
+In 1977, Choussat and colleagues published the criteria for an 
+ideal Fontan candidate (Table  2 ) (
+116
+). Since then, these have 
+been refined based on a better understanding of the anatomic 
+and physiologic variables that are indispensable to create a sound 
+and efficient Fontan physiology, and a recognition that certain 
+imperfections can be corrected prior to Fontan completion (
+110
+, 
+117
+–
+121
+). Most importantly, it remains critical that the resistance 
+across the pulmonary capillary bed remains low. Excessive PVR 
+is a clear contraindication to a Fontan because PVR provides 
+the primary limitation to cardiac output in patients without 
+a prepulmonary pump (
+111
+, 
+112
+), and non-pulsatile flow may 
+result in long-term poorly adaptive remodeling (
+97
+, 
+122
+). While 
+mean pulmonary artery pressures >15 mm Hg are associated with 
+Fontan failure (
+117
+, 
+118
+), precise cutoffs have been difficult to 
+identify (in part because few centers will attempt a Fontan in the 
+setting of a Rp >3 or 4) (
+24
+, 
+115
+). Pulmonary arterial size itself does 
+not appear to present a contraindication to Fontan completion 
+because it is not well correlated with PVR (
+123
+), but enlargement 
+of hypoplastic pulmonary arteries should be considered prior to 
+Fontan completion.
+Both ventricular dysfunction and atrioventricular valve regur-
+gitation also result in a higher risk of Fontan failure (
+117
+, 
+118
+). In 
+this setting, a lower threshold for intervening on outflow and arch 
+obstructions among Fontan candidates is likely necessary (
+119
+). 
+Even mild elevations in afterload and the consequent develop-
+ment of ventricular hypertrophy associated with an increase in 
+end-diastolic pressures may have important long-term negative 
+consequences (
+124
+). Thus, early atrioventricular valve repair may 
+[[p10]]
+July 2015  |  Volume 3  |  Article 6110
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+be indicated prior to the Fontan procedure ( 15 ). Generally, given 
+the physiologic challenges resulting in conversion to a TCPC, 
+optimization of the circulation should be performed during 
+second-stage palliation to minimize the operative insults of the 
+Fontan procedure itself.
+Choice of Total Cavopulmonary Connection: 
+e
+xtracardiac Conduit or Lateral Tunnel
+The Fontan procedure has been considerably modified since the 
+description of a direct atriopulmonary connection in a patient 
+with tricuspid atresia by Fontan (
+3
+). A variety of atriopulmonary 
+connections were promulgated, but over the long-term significant 
+complications ensued, including right atrial dilatation, thrombosis 
+within the Fontan circuit, compression of the right pulmonary 
+veins, atrial dysrhythmias, and obstruction of the atriopulmonary 
+connection (
+125
+). Currently, nearly all “Fontan” procedures are 
+performed as TCPC (
+126
+). Most are either the lateral tunnel 
+[initially described by deLeval (
+127
+)] or the extracardiac conduit 
+[described by Marcheletti (
+128
+)]. Unfortunately, as with many 
+aspects of the Fontan palliation, clarity as to the optimal type of 
+TCPC in all patients (or even in specific subsets) remains elusive. 
+Although the lateral-tunnel technique was widely adopted initially, 
+concerns about the development of sinus node dysfunction and the 
+potential development of atrial dysrhythmias associated with the 
+segment of atrial wall exposed to higher systemic venous pressure, 
+led to a gradual shift toward adoption of the extracardiac conduit 
+(
+121
+, 
+129
+).
+Approximately, 2/3 of all TCPC procedures performed in the 
+United States are extracardiac conduits and the remainder are 
+predominantly lateral tunnels (
+121
+). The procedures are different, 
+but it remains largely a matter of speculation as to whether and how 
+the theoretical benefits of each translate into alterations in long-
+term outcomes. A recent report from the STS Congenital Heart 
+Surgery database identified the use of the extracardiac conduit 
+as a risk factor for early mortality (
+121
+). Given the retrospective, 
+observational, large dataset used, it is difficult to know whether 
+this reflects differences in the procedure itself or differences in 
+unmeasured covariates influencing the choice of procedure at 
+many centers.
+Among the advantages of the lateral tunnel are the potential for 
+pathway growth enabling early Fontan completion, often between 
+12 and 30 months of age (
+121
+), as well as both theoretical (
+130
+, 
+131
+) and observed (
+132
+, 
+133
+) minimization of power loss through 
+the Fontan circuit. In theory, decreasing the power loss through 
+the circuit may improve the functional and exercise capacity in 
+lateral tunnel patients (
+133
+), although direct comparisons have 
+shown an advantage to the extracardiac conduit contrary to these 
+predictions (
+134
+). Differences between theory and practice may 
+be related to deviations over time and with growth from the ideal 
+tubular structure (
+138
+). While earlier Fontan completion may have 
+benefits in reducing the stimulus for aortopulmonary collateral 
+formation by normalizing oxygen saturations, studies have not 
+demonstrated a resultant long-term advantage in survival or 
+functional status (
+135
+).
+Alternatively, the extracardiac conduit TCPC must be per -
+formed at an older age due to the lack of growth potential in the 
+conduit. Some perceived advantages to the procedure include: no 
+need for myocardial ischemia or even cardiopulmonary bypass 
+(
+135
+), and smaller suture lines and a reduction in foreign material 
+within the right atrium (
+135
+–
+139
+). Additionally, multiple varia-
+tions of the typical procedure have been advocated, including the 
+use of a pericardial tube, “Y”-graft modifications, and a combined 
+intra/extracardiac conduit, among others (
+140
+–
+144
+).
+Overall, the variability in diagnosis, operative technique, and 
+perioperative management as well as limited long-term follow-up 
+continues to plague studies attempting to identify a significant 
+advantage of one technique or another. Whether hybrid approaches 
+to Fontan completion (generally requiring a hemiFontan as the 
+second stage procedure) will ultimately result in better early and 
+late outcomes remains unclear (
+140
+, 
+141
+).
+Use of a Fenestration
+In the current era, the majority of Fontan procedures are per -
+formed with “fenestration” (
+121
+, 
+129
+). There is evidence including 
+a prospective randomized trial (
+145
+) that fenestration decreases the 
+incidence of prolonged post-operative effusions (
+145
+–
+147
+), reduce 
+post-operative lengths of hospital stay (
+146
+, 
+148
+, 
+149
+), and lessen 
+the need for early reinterventions (
+145
+, 
+146
+); however, conflicting 
+views are supported by more recent but non-controlled studies 
+(
+117
+, 
+150
+–
+156
+). The impact of fenestrations on survival and Fontan 
+take-down is less clear (
+135
+, 
+155
+, 
+157
+–
+163
+). Early studies appeared 
+to suggest a lower mortality among fenestrated Fontan patients 
+(
+146
+, 
+147
+, 
+157
+, 
+164
+), but more contemporaneous series have not 
+identified a higher risk of early mortality associated with the lack 
+of a fenestration (
+117
+, 
+155
+, 
+165
+, 
+166
+).
+Most centers performing lateral-tunnel Fontans routinely 
+perform fenestrations (
+155
+, 
+158
+), some do not (
+159
+). Technical 
+modifications of the Fontan procedure, including the avoidance 
+of cardiopulmonary bypass and myocardial ischemia, have been 
+pursued in a few centers with attempting to decrease the morbid-
+ity after Fontan procedure, but has not been demonstrated (
+135
+). 
+While some centers have retreated from the use of a fenestra-
+tion (
+166
+), others are using it with increasing frequency (
+167
+). 
+Arguments against routinely leaving incomplete atrial partitioning 
+include: ongoing hypoxemia with a potential continued impetus 
+for collateral formation (
+168
+), risk for paradoxical embolus (
+169
+), 
+decreased exercise tolerance (
+170
+), and the potential for conduit 
+thrombosis following interventional fenestration closure (
+171
+, 
+172
+). However, many of these risks are only theoretical, and no 
+studies have demonstrated a statistically significant increase in 
+the most important complications including stroke and conduit 
+thrombosis (
+148
+, 
+167
+).
+Closing of fenestrations has not resulted in improvement in 
+exercise capacity (
+173
+), and there is no data demonstrating a 
+decreased risk for thromboembolic complications in the absence 
+of a fenestration. Despite objective evidence that support the use 
+of a fenestration to decrease the incidence and duration of pleural 
+effusions, relative agreement about its use only exists in patients 
+considered at high-risk for post-operative morbidity (
+24
+). This 
+includes patients with elevated Fontan conduit pressures, extensive 
+systemic-to-pulmonary collateral flow, decreased ventricular func-
+tion, and elevated PVR (
+174
+, 
+175
+).
+[[p11]]
+July 2015  |  Volume 3  |  Article 6111
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+Long-Term Complications of 
+Univentricular Physiology
+The long-term complications of circulatory physiology lacking 
+a pulmonary pump are manifested. As noted above, transition 
+to the TCPC from atriopulmonary connections has ameliorated 
+some of the complications associated with Fontan’s original 
+technique, but has not eliminated them (
+127
+, 
+128
+). Even with 
+a well-functioning circuit and low PVR, patients with a TCPC 
+have decreased exercise tolerance as a result of limited ability to 
+increase cardiac output, due to the dependency of cardiac output 
+on pulmonary resistance rather than loading or inotropy (
+111
+, 
+112
+). In addition, cardiac rhythm disturbances are common 
+(
+176
+–
+179
+), and loss of sinus rhythm may have important deleteri-
+ous hemodynamic effects (
+184
+). Protein-losing enteropathy and 
+plastic bronchitis are thought to be related to chronic exposure 
+to elevated central venous pressures, low cardiac output, and 
+lymphatic congestion (
+180
+–
+182
+). They constitute two of the most 
+important and debilitating chronic sequelae of the Fontan physi-
+ology and are commonly associated with significant mortality 
+(
+124
+). It has become increasingly obvious that chronic elevation 
+of central venous pressures is associated with variable levels of 
+hepatic congestion, fibrosis, and even cirrhosis (
+180
+). Finally, 
+thromboembolic complications, while more common with 
+atriopulmonary connections, remain an important long-term 
+source of morbidity and mortality in patients with TCPC (
+124
+, 
+183
+). Thromboembolic disease is likely multifactorial and related 
+to circulatory stasis and alterations in the coagulation system 
+(
+184
+). Optimal anticoagulation in these patients remains unclear, 
+although recent retrospective analyses have found reduced 
+morbidity and mortality among patients receiving antiplatelet or 
+warfarin therapy (
+124
+). Options include both antiplatelet therapy 
+and anticoagulation with either warfarin or heparin; no specific 
+therapy provides clear benefit in all patients (
+183
+).
+Transplantation for Patients with 
+Univentricular Heart
+Due to limitation in donor availability, cardiac transplantation can-
+not provide a comprehensive treatment option for those patients 
+with single-ventricle physiology, but has become the bail-out 
+strategy for selected patients with a failed palliative strategy either 
+with or without preserved ventricular function. Nevertheless, it 
+should be understood that this does not constitute a cure but rather 
+a more manageable form of palliation, which may be associated 
+with a better quality of life (
+185
+). In the early era of hypoplastic 
+left heart syndrome treatment, Loma Linda pioneered and popu-
+larized the use of transplantation as the primary treatment for 
+these patients (
+186
+–
+188
+). Outcomes were excellent, and outcomes 
+following transplantation among infants with univentricular heart 
+remain excellent (
+189
+, 
+190
+). However, these outcomes rely on 
+children reaching transplantation quickly enough to avoid waitlist 
+mortality and to avoid clinical decline or the need for palliative 
+procedures that would alter post-transplant mortality. Given the 
+relative paucity of donor allografts available, transplantation of all 
+patients with univentricular heart is not practical.
+Alternatively, transplantation can improve outcomes by 
+eliminating the risk factors, which commonly lead to high 
+mortality among patients with palliated univentricular circula-
+tion. For example, severe atrioventricular valve regurgitation or 
+ventricular dysfunction significantly increases the risk of single-
+ventricle palliation (
+15
+), but unless PVR was affected (
+191
+), these 
+would have little impact on outcomes following orthotopic heart 
+transplantation. In contrast, low birth weight and early gestational 
+age are risk factors for palliation that would not be eliminated by 
+transplantation and would influence post-transplant outcomes (
+67
+, 
+192
+, 
+193
+). Similar consideration may be given to patients with right 
+ventricular-dependent coronary circulation pulmonary atresia 
+with intact ventricular septum. Within the confines of the current 
+availability of donor allografts for children, a selective strategy of 
+transplantation in these patients is likely to offer the best chance 
+at long-term survival in all patients.
+Even the “perfect” Fontan has a recognized attrition rate over 
+time (
+194
+). The exact definition of Fontan failure is imprecise, 
+but should include both functional and hemodynamic evaluation 
+(
+195
+). Transplantation provides an important option for Fontan 
+failure, but remains a high-risk procedure, especially in adults 
+(
+196
+–
+200
+). Precise criteria for listing and the optimal timing of 
+transplantation in patients with declining functional status remain 
+unclear (
+198
+, 
+201
+). Patients with anatomic issues that lead to energy 
+loss or rhythm disturbances may benefit from Fontan revision or 
+conversion, or atrial arrhythmia surgery (
+178
+, 
+195
+). While patients 
+with impaired ventricular function appear to benefit from trans-
+plantation, patients with Fontan failure in the setting of preserved 
+ventricular function have poor outcomes independent of trans-
+plantation (
+201
+). Whether this represents inappropriate timing of 
+transplantation (where earlier transplant would have resulted in 
+better outcomes) or the fact that ongoing alterations in pulmonary 
+vascular and hepatic function in particular are not improved with 
+pump replacement remains unclear. The need for simultaneous 
+liver transplantation is also an area of active investigation with no 
+clear threshold for when hepatic dysfunction should be considered 
+irrecoverable. Mechanical circulatory support in Fontan patients 
+also remains challenging and the optimal strategy of support to 
+patients with a TCPC will likely depend on the type of failure 
+(circuit failure versus ventricular pump failure) (
+ 201 – 203 ). The 
+increasing number of adults with imperfect Fontan circulations is 
+leading to active investigation to answer these questions in order 
+to improve the survival and functional outcomes in these patients 
+with or without transplantation.
+Univentricular vs. Biventricular Circulation
+Despite the binary nature of the surgical decision regarding 
+univentricular palliation, “univentricular” lesions represent a 
+spectrum of anatomic subtypes, which – at the milder end – may 
+be amenable to a two-ventricle repair. The definition of “milder 
+end” and the determination of whether a borderline anatomy is 
+adequate to pursue a biventricular circulation remain challeng-
+ing. Different level of obstruction in these borderline cases makes 
+the evaluation difficult and the surgical intervention to address 
+them a challenge. While obstruction at the aortic level and even 
+at the level of the systemic outflow can be effectively solved, it 
+[[p12]]
+July 2015  |  Volume 3  |  Article 6112
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+is often the inflow in the ventricular cavity (size of the mitral 
+or atrioventricular valve) that presents the greatest challenge to 
+determine the feasibility of a two-ventricle repair. However, the 
+decision about which patients may benefit from a two-ventricle 
+repair remains highly dependent on the specific lesion and the 
+institutional expertise to accomplish these complex repairs with 
+acceptable morbidity and mortality.
+HLHS
+Patients with left heart anomalies represent a wide spectrum of 
+anatomy and physiology. The decision-making is fairly clear at 
+ends of the spectrum, but becomes more difficult when patients 
+fall in the so-called borderline category. Despite extensive studies 
+(
+204
+–
+208
+), there are currently no definitive criteria to identify 
+which patients are likely to benefit from a single or a biventricular 
+strategy. Obstruction to systemic cardiac output may occur 
+at multiple levels within the left-sided circulation: including 
+the mitral valve, the left ventricular chamber (through both 
+underdevelopment and presence of endocardial fibroelastosis), 
+the left ventricular outflow tract, the aortic valve, and the aorta 
+itself. Each level needs to be examined to determine whether 
+reconstruction is necessary and if so, whether the obstruction 
+can be relieved. While data from the CHSS
+1 may provide guid-
+ance to determine the optimal strategy based on preoperative 
+criteria including aortic diameter, tricuspid regurgitation, LV 
+size, and the presence of EFE, there remains significant cross-over 
+between the predicted best management and actual management 
+(
+206
+–
+208
+).
+In most cases, aortic atresia, mitral atresia, and extremely small 
+left ventricles (left ventricular end-diastolic volume z-score <−5) 
+are clear indications for single-ventricle palliation. While some 
+centers have had success with staged left ventricular recruitment in 
+patients with left-sided structures with z-scores as low as −5, this 
+is a technically challenging process requiring multiple procedures 
+and the long-term results compared to single-ventricle palliation 
+are uncertain (
+209
+). Based on CHSS data, the need for early 
+re-intervention in patients selected for a biventricular strategy 
+predicts poor outcomes, suggesting that in borderline cases, 
+univentricular palliation may be the safer strategy – at least in 
+the early to mid-term follow-up (
+207
+).
+When left ventricular outflow obstruction is present, multiple 
+procedures to enlarge the systemic outflow and/or to address the 
+aortic valve can be performed, including surgical or balloon aortic 
+valvuloplasty, the Ross–Konno procedure (
+174
+, 
+210
+–
+212
+), and the 
+Y asui operation (
+212
+, 
+213
+). Similarly, resection of endocardial 
+fibroelastosis can have a favorable effect not only in ventricular 
+compliance and function but also in growth (
+209
+, 
+214
+, 
+215
+). In 
+the absence of precise definitions of an adequate LV outflow, 
+a multitude of criteria are used to predict the adequacy of the 
+left heart to support the systemic circulation. These include an 
+LV outflow tract dimension greater than the patient’s weight in 
+kilograms (
+216
+), aortic annular diameter >4.5  mm, or z-score 
+>−5 (
+205
+), It is the mitral (or left-sided AV valve in the case of 
+1  Online calculator available at: http://www.chssdc.org/content/chss-score-neonatal- 
+critical-aortic-stenosis
+unbalanced AV canal) that constitutes the greatest challenge when 
+deciding toward a two-ventricle reconstruction in borderline cases. 
+In this scenario, the unanticipated need for a mitral valve repair/
+replacement following a Ross–Konno procedure can be associated 
+with a significant increase in mortality (
+174
+, 
+175
+).
+Pulmonary Atresia/ i ntact v entricular Septum
+In patients with pulmonary atresia and intact ventricular 
+septum, it is the size of the tricuspid valve that provides the 
+best guidance toward an appropriate management pathway. 
+Outcomes following a biventricular strategy (transannular patch 
+and systemic–pulmonary artery shunt) are significantly worse 
+when the tricuspid valve z -score is below − 4, supporting the 
+notion that the tricuspid valve size provides the most reliable 
+indicator of the adequacy of the right heart for biventricular 
+repair (
+217
+–
+220
+). However, the deleterious effect of aggressively 
+pursuing a biventricular strategy can extend beyond the early 
+follow up, as mid-term functional outcomes are worse when 
+patients with a small tricuspid valve z -score are forced down to 
+a biventricular management pathway (
+221
+). When it is evident 
+that the right heart cannot manage the entire cardiac output, 
+significant enthusiasm exists about the possibility of maintaining 
+antegrade pulmonary blood flow form the inferior vena cava 
+while avoiding the exposure of the hepatic circulation to the 
+higher venous pressures of the Fontan circulation in a so-called 
+11/2 ventricle repair (superior cavopulmonary connection while 
+leaving antegrade pulmonary flow through the pulmonary valve). 
+Although it has been postulated that this physiology would be 
+associated with an improved functional status, follow-up studies 
+suggest that these patients have exercise capacities and cardiac 
+reserves similar to univentricular patients (
+222
+). Patients with 
+larger tricuspid valve (z-score >−2.5), a tripartite right ventricle, 
+and a patent pulmonary valve can undergo an initial biventricular 
+repair with excellent results although a systemic–pulmonary 
+shunt is not infrequently needed to provide adequate pulmonary 
+blood flow in the neonatal period (
+217
+).
+A particularly challenging group is the one comprised by 
+patients with PA/IVS and right ventricular dependent coronary 
+circulation, in whom single-ventricle palliation carries a very 
+high risk, not only initially but during subsequent palliation 
+(
+217
+, 
+223
+). This is especially true in the presence of a vessel 
+decompressing the coronary circulation into the pulmonary 
+artery and during the construction of a systemic-to-pulmonary 
+artery shunt (
+223
+). Although there is no clear data demonstrating 
+which management pathway is best in these challenging patients, 
+primary transplantation appears to be the preferred option in 
+many centers (
+224
+).
+Unbalanced Atrioventricular Septal Defect
+Surgical decision-making regarding the pursuit of a biventricular 
+circulation in patients with unbalanced atrioventricular septal 
+defects is particularly difficult and depends on the adequacy of the 
+AV valve inflow. Detailed analysis of echocardiographic variables 
+aimed to identify which patients would have a successful biven-
+tricular repair has been facilitated by the creation of the modified 
+atrioventricular valve index (AVVI, an echocardiographic measure 
+[[p13]]
+July 2015  |  Volume 3  |  Article 6113
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+of the relative area of the left atrioventricular valve in relation to 
+the entire AV valve) (
+225
+). While a modified AVVI between 0.4 
+and 0.6 identified the balanced range of the spectrum, patients 
+with an AVVI between 0.2 and 0.4 (slightly unbalanced with right-
+dominance) exhibited heterogeneity of management strategies 
+associated with a cluster of poor outcomes, which illustrates the 
+difficulty of this decision (
+225
+). Additional analysis has identified 
+that the inflow angle between the right and left AV valves and the 
+septum [right ventricle/left ventricle inflow angle (
+226
+)] may be 
+important in guiding early operative decision-making. However, 
+there is a paucity of data validating any of these individual 
+measures.
+Making the Decision for Univentricular or 
+Biventricular Reconstruction
+While case series may provide evidence of what can be done by 
+a specific surgical team, they do not necessarily provide data 
+to support a particular pathway at all centers. In this context, 
+multi-institutional studies, such as those from the CHSS (
+206
+, 
+207
+, 
+221
+, 
+225
+, 
+226
+), may provide the most broadly applicable data. 
+Ultimately, the decision to pursue a univentricular or biventricular 
+strategy must be based on the experience of the individual surgeon 
+and center.
+Summary
+Despite the advances in the operative and perioperative manage-
+ment of patients with univentricular heart, morbidity and mortality 
+remain high. Decisions made in the early post-natal period may 
+have important consequences for both early survival and long-term 
+morbidity. In particular, the surgical strategy chosen – whether 
+univentricular palliation or biventricular repair, hybrid versus 
+traditional procedures, choices regarding the most appropriate 
+pulmonary blood flow – will affect management throughout a 
+patient’s life. Unfortunately, there is lack of conclusive data to guide 
+these choices. Further studies are required in many areas to identify 
+determinants of the optimal surgical strategy in individual patients. 
+In the absence of definitive data, surgical decisions must rest on 
+subjective assessment grounded in a thorough understanding of the 
+anatomy, physiology, and potential consequences of each strategy.
+References
+?PM??s?irK?g?flK?l?j`K?e?qsK?a?rK?i?qcaK?
+et al.  Improved survival of patients undergoing palliation of hypoplastic left heart 
+syndrome: lessons learned from 115 consecutive patients. Circulation (2002) 
+106:I82–9. doi:10.1161/01.cir.0000032878.55215
+ 
+2.
+ 
+Chang R, Chen A, Klitzner T. Clinical management of infants with hypoplastic 
+left heart syndrome in the United States, 1988-1997. Pediatrics (2002) 110:292–8. 
+doi:10.1542/peds.110.2.292 
+ 
+3.
+ 
+Fontan F , Baudet E. Surgical repair of tricuspid atresia. Thorax (1971) 26:240–8. 
+doi:10.1136/thx.26.3.240 
+ 
+4.
+ 
+Norwood WI, Lang P , Hansen DD. Physiologic repair of aortic atresia-
+ 
+hypoplastic left heart syndrome. N Engl J Med (1983) 308:23–6. doi:10.1056/
+NEJM198301063080106 
+ 
+5.
+ 
+Nicolson SC, Steven JM, Jobes DR. Univentricular heart: staging through the 
+Fontan procedure. In: Greeley WJ, editor. Perioperative Management of the Patient 
+with Congenital Heart Disease. Baltimore, MD: Williams & Wilkins (1996). 
+p. 175–93.
+ 
+6.
+ 
+Gao Y , Raj JU. Regulation of the pulmonary circulation in the fetus and newborn. 
+Physiol Rev (2010) 90:1291–335. doi:10.1152/physrev.00032.2009 
+ 
+7.
+ 
+Walker SG, Stuth EA. Single-ventricle physiology: perioperative implications. 
+Semin Pediatr Surg (2004) 13:188–202. doi:10.1053/j.sempedsurg.2004.04.005 
+ 
+8.
+ 
+Olley PM, Coceani F , Bodach E. E-type prostaglandins: a new emergency 
+therapy for certain cyanotic congenital heart malformations. Circulation (1976) 
+53:728–31. doi:10.1161/01.CIR.53.4.728 
+ 
+9.
+ 
+Neutze JM, Starling MB, Elliott RB, Barratt-Boyes BG. Palliation of cyanotic 
+congenital heart disease in infancy with E-type prostaglandins. Circulation (1977) 
+55:238–41. doi:10.1161/01.CIR.55.2.238 
+ 
+10.
+ 
+Lewis AB, Freed MD, Heymann MA, Roehl SL, Kensey RC. Side effects of therapy 
+with prostaglandin E1 in infants with critical congenital heart disease. Circulation 
+(1981) 64:893–8. doi:10.1161/01.CIR.64.5.893 
+ 
+11.
+ 
+McElhinney DB, Hedrick HL, Bush DM, Pereira GR, Stafford PW , Gaynor 
+iv?K? M??m???????Y?
+risk factors and outcomes. Pediatrics  (2000) 106:1080–7. doi:10.1542/
+peds.106.5.1080 
+ 
+12.
+ 
+Lim DS, Kulik TJ, Kim DW , Charpie JR, Crowley DC, Maher KO. Aminophylline 
+for the prevention of apnea during prostaglandin E1 infusion. Pediatrics (2003) 
+112:e27–9. doi:10.1542/peds.112.1.e27 
+ 
+13.
+ 
+Tabbutt S, Ramamoorthy C, Montenegro LM, Durning SM, Kurth CD, Steven JM, 
+et al.  Impact of inspired gas mixtures on preoperative infants with hypoplastic left 
+heart syndrome during controlled ventilation. Circulation (2001) 104:I159–64. 
+doi:10.1161/hc37t1.094818 
+  14.  Jobes DR, Nicolson SC, Steven JM, Miller M, Jacobs ML, Norwood WI. Carbon 
+dioxide prevents pulmonary overcirculation in hypoplastic left heart syndrome. 
+`?s?r?GPXXQH?TSYPTO–PM?YPOMPOPUNOOORLSXVTGXQHXPPUULV?
+ 
+15.
+ 
+Mahle WT, Cohen MS, Spray TL, Rychik J. Atrioventricular valve 
+ 
+regurgitation in patients with single ventricle: impact of the bidirectional 
+cavopulmonary 
+ 
+anastomosis. Ann Thorac Surg (2001) 72:831–5. doi:10.1016/
+S0003-4975(01)02699-6 
+ 
+16.
+ 
+Acar P , Sidi D, Bonnet D, Aggoun Y , Bonhoeffer P , Kachaner J. Maintaining 
+tricuspid valve competence in double discordance: a challenge for the paediatric 
+cardiologist. Heart (1998) 80:479–83. doi:10.1136/hrt.80.5.479 
+ 
+17.
+ 
+McElhinney DB, Reddy VM, Moore P , Hanley FL. Bidirectional cavopulmonary 
+shunt in patients with anomalies of systemic and pulmonary venous drainage. 
+Ann Thorac Surg (1997) 63:1676–84. doi:10.1016/S0003-4975(97)00364-0 
+ 
+18.
+ 
+Vida VL, Bacha EA, Larrazabal A, Gauvreau K, Thiagaragan R, Fynn-Thompson 
+F , et al.  Hypoplastic left heart syndrome with intact or highly restrictive atrial 
+septum: surgical experience from a single center. Ann Thorac Surg  (2007) 
+84:581–5. doi:10.1016/j.athoracsur.2007.04.017 
+ 
+19.
+ 
+Rychik J, Rome JJ, Collins MH, DeCampli WM, Spray TL. The hypoplastic left 
+heart syndrome with intact atrial septum: atrial morphology, pulmonary vascular 
+histopathology and outcome. J Am Coll Cardiol (1999) 34:554–60. doi:10.1016/
+S0735-1097(99)00225-9 
+ 
+20.
+ 
+Tweddell JS, Sleeper LA, Ohye RG, Williams IA, Mahony L, Pizarro C, et al.  
+Intermediate-term mortality and cardiac transplantation in infants with 
+ 
+single-ventricle lesions: risk factors and their interaction with shunt type.  
+J Thorac Cardiovasc Surg (2012) 144:152–9. doi:10.1016/j.jtcvs.2012.01.016 
+ 
+21.
+ 
+Shamszad P , Gospin TA, McKenzie ED, Petit CJ. Impact of preoperative risk 
+factors on outcomes after Norwood palliation for hypoplastic left heart syndrome. 
+J Thorac Cardiovasc Surg (2014) 147:897–901. doi:10.1016/j.jtcvs.2013.05.012 
+ 
+22.
+ 
+f?iv?K?b?lgK?q?iK?f?io?K?r?skM?kL???
+infants with single ventricle and total anomalous pulmonary venous connection.  
+J Thorac Cardiovasc Surg (1999) 117:506–13. doi:10.1016/S0022-5223(99)70330-2 
+ 
+23.
+ 
+Li J, Holtby H, Humpl T, Caldarone CA, Van Arsdell GS, Redington AN. Adverse 
+effects of dopamine on systemic hemodynamic status and oxygen transport in 
+neonates after the Norwood procedure. J Am Coll Cardiol (2006) 48:1859–64. 
+doi:10.1016/j.jacc.2006.07.038 
+ 
+24.
+ 
+Kouchoukos NT, Blackstone EH, Hanley FL, Kirklin JK. Tricuspid atresia and 
+single ventricle physiology. Kirklin/Barratt-Boyes Cardiac Surgery. Philadelphia, 
+PA: Elsevier Health Sciences (2013). p. 1509–74.
+[[p14]]
+July 2015  |  Volume 3  |  Article 6114
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+ 25.  Teitel DF , Iwamoto HS, Rudolph AM. Changes in the pulmonary 
+circulation during birth-related events. Pediatr Res  (1990) 27:372–8. 
+doi:10.1203/00006450-199004000-00010 
+ 
+26.
+ 
+Freedom RM, Benson LN, Smallhorn JF , Williams WG, Trusler GA, Rowe RD. 
+Subaortic stenosis, the univentricular heart, and banding of the pulmonary 
+artery: an analysis of the courses of 43 patients with univentricular heart palliated 
+by pulmonary artery banding. Circulation (1986) 73:758–64. doi:10.1161/01.
+CIR.73.4.758 
+ 
+27.
+ 
+Matitiau A, Geva T, Colan SD, Sluysmans T, Parness IA, Spevak PJ, et al.  
+Bulboventricular foramen size in infants with double-inlet left ventricle 
+or tricuspid atresia with transposed great arteries: influence on initial 
+palliative operation and rate of growth. J Am Coll Cardiol (1992) 19:142–8. 
+doi:10.1016/0735-1097(92)90065-U 
+ 
+28.
+ 
+Webber SA, LeBlanc JG, Keeton BR, Salmon AP , Sandor GG, Lamb RK, et al.  
+Pulmonary artery banding is not contraindicated in double inlet left ventricle 
+with transposition and aortic arch obstruction. Eur J Cardiothorac Surg (1995) 
+9:515–20. doi:10.1016/S1010-7940(95)80052-2 
+ 
+29.
+ 
+Odim JN, Laks H, George BL, Yun J, Salem M, Allada V . Staged surgical approach 
+to neonates with aortic obstruction and single-ventricle physiology. Ann Thorac 
+Surg (1999) 68:962–7. doi:10.1016/S0003-4975(99)00792-4 
+ 
+30.
+ 
+Freedom RM. The dinosaur and banding of the main pulmonary trunk in the 
+heart with functionally one ventricle and transposition of the great arteries: a 
+saga of evolution and caution. J Am Coll Cardiol (1987) 10:427–9. doi:10.1016/
+S0735-1097(87)80028-1 
+ 
+31.
+ 
+Bradley SM, Simsic JM, Atz AM, Dorman BH. The infant with single ventri-
+cle and excessive pulmonary blood flow: results of a strategy of pulmonary 
+artery division and shunt. Ann Thorac Surg  (2002) 74:805–10. doi:10.1016/
+S0003-4975(02)03836-5 
+ 
+32.
+ 
+Kajihara N, Asou T, Takeda Y , Kosaka Y , Onakatomi Y , Nagafuchi H, et al.  
+Pulmonary artery banding for functionally single ventricles: impact of tighter 
+banding in staged Fontan era. Ann Thorac Surg (2010) 89:174–9. doi:10.1016/j.
+athoracsur.2009.09.027 
+ 
+33.
+ 
+Miura T, Kishimoto H, Kawata H, Hata M, Hoashi T, Nakajima T. Management of 
+univentricular heart with systemic ventricular outflow obstruction by pulmonary 
+artery banding and Damus-Kaye-Stansel operation. Ann Thorac Surg (2004) 
+77:23–8. doi:10.1016/S0003-4975(03)01248-7 
+ 
+34.
+ 
+q?lcK?q?lK?r?lrK?f?c`K?s?lv?K?
+a?iv?M?r??????????
+unobstructed pulmonary blood flow. Eur J Cardiothorac Surg (2005) 27:949–55. 
+doi:10.1016/j.ejcts.2005.01.066 
+ 
+35.
+ 
+Franklin RC, Spiegelhalter DJ, Anderson RH, Macartney FJ, Rossi Filho RI, Rigby 
+ML, et al.  Double-inlet ventricle presenting in infancy. II. Results of palliative 
+operations. J Thorac Cardiovasc Surg (1991) 101:917–23. 
+ 
+36.
+ 
+Freedom RM. Subaortic obstruction and the Fontan operation. Ann Thorac Surg 
+(1998) 66:649–52. doi:10.1016/S0003-4975(98)00619-5 
+ 
+37.
+ 
+Karamlou T, Ashburn DA, Caldarone CA, Blackstone EH, Jonas RA, Jacobs ML, 
+et al.  Matching procedure to morphology improves outcomes in neonates with 
+tricuspid atresia. J Thorac Cardiovasc Surg (2005) 130:1503–10. doi:10.1016/j.
+jtcvs.2005.07.024 
+ 
+38.
+ 
+Asakai H, Galati JC, Weskamp S, Jones B, Millar J, Konstantinov IE, et al.  
+Impact of Blalock-Taussig shunt size on tricuspid regurgitation in hypoplastic 
+left heart syndrome. Ann Thorac Surg  (2014) 97 :2123–8. doi:10.1016/j.
+athoracsur.2014.02.032 
+ 
+39.
+ 
+l?iv?K?f?mrK?b?x?K?r?o?K?s?jK?l?ldK? M??
+Outcomes of systemic to pulmonary artery shunts in patients weighing less 
+than 3 kg: analysis of shunt type, size, and surgical approach. J Thorac Cardiovasc 
+Surg (2014) 147:672–7. doi:10.1016/j.jtcvs.2013.09.055 
+ 
+40.
+ 
+Li JS, Y ow E, Berezny KY , Rhodes JF , Bokesch PM, Charpie JR, et al.  Clinical 
+outcomes of palliative surgery including a systemic-to-pulmonary artery shunt 
+in infants with cyanotic congenital heart disease: does aspirin make a difference? 
+Circulation (2007) 116:293–7. doi:10.1161/CIRCULATIONAHA.106.652172 
+ 
+41.
+ 
+v?ckK?a?e?K?k?irK?cä?hK?m?iv?K?bk`qhmds?h?M?
+Clopidogrel in infants with systemic-to-pulmonary-artery shunts. N Engl J Med 
+(2013) 368:2377–84. doi:10.1056/NEJMoa1114588 
+ 
+42.
+ 
+Manlhiot C, Menjak IB, Brandão LR, Gruenwald CE, Schwartz SM, Sivarajan 
+VB, et al.  Risk, clinical features, and outcomes of thrombosis associated with 
+pediatric cardiac surgery. Circulation  (2011) 124(14):1511–9. doi:10.1161/
+CIRCULATIONAHA.110.006304 
+  43.  Fenton KN, Siewers RD, Rebovich B, Pigula FA. Interim mortality in infants 
+with systemic-to-pulmonary artery shunts. Ann Thorac Surg (2003) 76:152–6. 
+doi:10.1016/S0003-4975(03)00168-1 
+ 
+44.
+ 
+Wells WJ, Yu RJ, Batra AS, Monforte H, Sintek C, Starnes V A. Obstruction in 
+modified Blalock shunts: a quantitative analysis with clinical correlation. Ann 
+Thorac Surg (2005) 79:2072–6. doi:10.1016/j.athoracsur.2004.12.050 
+ 
+45.
+ 
+Cohen AJ, Cleveland DC, Dyck J, Poppe D, Smallhorn J, Freedom RM, et al.  
+Results of the Fontan procedure for patients with univentricular heart. Ann 
+Thorac Surg (1991) 52:1266–70. doi:10.1016/0003-4975(91)90011-E 
+ 
+46.
+ 
+Seliem M, Muster AJ, Paul MH, Benson DW . Relation between preoper -
+ative left ventricular muscle mass and outcome of the Fontan procedure 
+in patients with tricuspid atresia. J Am Coll Cardiol (1989) 14 :750–5. 
+doi:10.1016/0735-1097(89)90121-6 
+ 
+47.
+ 
+j?ijK?a?dgK?j?iv?K?o?`cK?a?klM?s?e?
+operation. Ventricular hypertrophy, age, and date of operation as risk factors.  
+J Thorac Cardiovasc Surg (1986) 92:1049–64. 
+ 
+48.
+ 
+Norwood WI, Lang P , Casteneda AR, Campbell DN. Experience with operations 
+for hypoplastic left heart syndrome. J Thorac Cardiovasc Surg (1981) 82:511–9. 
+ 
+49.
+ 
+Pizarro C, Malec E, Maher KO, Januszewska K, Gidding SS, Murdison KA, 
+et al.  Right ventricle to pulmonary artery conduit improves outcome after stage 
+I Norwood for hypoplastic left heart syndrome. Circulation (2003) 108(Suppl 
+1):II155–60. doi:10.1161/01.cir.0000087390.94142.1d 
+ 
+50.
+ 
+Sano S, Ishino K, Kawada M, Arai S, Kasahara S, Asai T, et al.  Right ventricle-
+ 
+pulmonary artery shunt in first-stage palliation of hypoplastic left heart syndrome. 
+J Thorac Cardiovasc Surg (2003) 126:504–9. doi:10.1016/S0022-5223(02)73575-7 
+ 
+51.
+ 
+Ohye RG, Ludomirsky A, Devaney EJ, Bove EL. Comparison of right ventricle to 
+pulmonary artery conduit and modified Blalock-Taussig shunt hemodynamics 
+after the Norwood operation. Ann Thorac Surg (2004) 78:1090–3. doi:10.1016/
+S0003-4975(03)01386-9 
+ 
+52.
+ 
+l?vsK?r?skK?f?iv?K?b?aiM?t????
+surgery for hypoplastic left heart syndrome. Ann Thorac Surg (2001) 71:61–5. 
+doi:10.1016/S0003-4975(00)02324-9 
+ 
+53.
+ 
+n?qfK?r?k`K?l?kK?m?iv?K?o?fcK?k?lK? M??
+Comparison of shunt types in the Norwood procedure for single-ventricle lesions. 
+N Engl J Med (2010) 362:1980–92. doi:10.1056/NEJMoa0912461 
+ 
+54.
+ 
+m?iv?K?r?k`K?e?obK?o?fcK?l?vsK?b?rK?
+et al.  Transplantation-free survival and interventions at 3 years in the single 
+ventricle reconstruction trial. Circulation (2014) 129:2013–20. doi:10.1161/
+CIRCULATIONAHA.113.006191 
+ 
+55.
+ 
+Gist KM, Barrett CS, Graham DA, Crumback SL, Schuchardt EL, Erickson B, 
+et al.  Pulmonary artery interventions after Norwood procedure: does type or 
+position of shunt predict need for intervention? J Thorac Cardiovasc Surg (2013) 
+145:1485–92. doi:10.1016/j.jtcvs.2013.01.014 
+ 
+56.
+ 
+Baird CW , Myers PO, Borisuk M, Pigula FA, Emani SM. Ring-reinforced Sano 
+conduit at Norwood stage I reduces proximal conduit obstruction. Ann Thorac 
+Surg (2015) 99:171–9. doi:10.1016/j.athoracsur.2014.08.078 
+ 
+57.
+ 
+Gibbs JL, Wren C, Watterson KG, Hunter S, Hamilton JR. Stenting of the arterial 
+duct combined with banding of the pulmonary arteries and atrial septectomy or 
+septostomy: a new approach to palliation for the hypoplastic left heart syndrome. 
+Br Heart J (1993) 69:551–5. doi:10.1136/hrt.69.6.551 
+ 
+58.
+ 
+Honjo O, Benson LN, Mewhort HE, Predescu D, Holtby H, Van Arsdell GS, 
+et al.  Clinical outcomes, program evolution, and pulmonary artery growth in 
+single ventricle palliation using hybrid and Norwood palliative strategies. Ann 
+Thorac Surg (2009) 87:1885–92. doi:10.1016/j.athoracsur.2009.03.061 
+ 
+59.
+ 
+Dave H, Rosser B, Knirsch W , Hubler M, Prêtre R, Kretschmar O. Hybrid 
+approach for hypoplastic left heart syndrome and its variants: the fate of the 
+pulmonary arteries. Eur J Cardiothorac Surg (2014) 46(1):14–9. doi:10.1093/
+ejcts/ezt604 
+ 
+60.
+ 
+Galantowicz M, Cheatham JP , Phillips A, Cua CL, Hoffman TM, Hill SL, et al.  
+Hybrid approach for hypoplastic left heart syndrome: intermediate results 
+after the learning curve. Ann Thorac Surg (2008) 85:2063–70. doi:10.1016/j.
+athoracsur.2008.02.009 
+ 
+61.
+ 
+Baba K, Kotani Y , Chetan D, Chaturvedi RR, Lee K-J, Benson LN, et al.  Hybrid 
+versus Norwood strategies for single-ventricle palliation. Circulation (2012) 
+126:S123–31. doi:10.1161/CIRCULATIONAHA.111.084616 
+ 
+62.
+ 
+Karamlou T, Overman D, Hill KD, Wallace A, Pasquali SK, Jacobs JP , et al.  Stage 1 
+hybrid palliation for hypoplastic left heart syndrome-assessment of contemporary 
+patterns of use: an analysis of the society of thoracic surgeons congenital heart 
+[[p15]]
+July 2015  |  Volume 3  |  Article 6115
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+surgery database. J Thorac Cardiovasc Surg (2015) 149:195–201. doi:10.1016/j.
+jtcvs.2014.08.020
+ 
+63.
+ 
+Davies RR, Radtke W , Bhat MA, Baffa JM, Woodford E, Pizarro C. Hybrid 
+palliation for critical systemic outflow obstruction: neither rapid stage 1 Norwood 
+nor comprehensive stage 2 mitigate consequences of early risk factors. J Thorac 
+Cardiovasc Surg (2015) 149:182–93. doi:10.1016/j.jtcvs.2014.09.030 
+ 
+64.
+ 
+Knirsch W , Liamlahi R, Hug MI, Hoop R, von Rhein M, Prêtre R, et al.  Mortality 
+and neurodevelopmental outcome at 1 year of age comparing hybrid and 
+Norwood procedures. Eur J Cardiothorac Surg (2012) 42:33–9. doi:10.1093/
+ejcts/ezr286 
+ 
+65.
+ 
+Tabbutt S, Dominguez TE, Ravishankar C, Marino BS, Gruber PJ, Wernovsky G, 
+et al.  Outcomes after the stage I reconstruction comparing the right ventricular to 
+pulmonary artery conduit with the modified Blalock Taussig shunt. Ann Thorac 
+Surg (2005) 80:1582–90. doi:10.1016/j.athoracsur.2005.04.046 
+ 
+66.
+ 
+Davies RR, Radtke W A, Klenk D, Pizarro C. Bilateral pulmonary arterial 
+banding results in an increased need for subsequent pulmonary artery 
+interventions. J Thorac Cardiovasc Surg (2014) 147:706–12. doi:10.1016/j.  
+jtcvs.2013.10.038 
+ 
+67.
+ 
+Pizarro C, Davies RR, Woodford E, Radtke W A. Improving early outcomes 
+following hybrid procedure for patients with single ventricle and systemic outflow 
+obstruction: defining risk factors†. Eur J Cardiothorac Surg (2015) 47:995–1001. 
+doi:10.1093/ejcts/ezu373 
+ 
+68.
+ 
+Pizarro C, Derby CD, Baffa JM, Murdison KA, Radtke W A. Improving the 
+outcome of high-risk neonates with hypoplastic left heart syndrome: hybrid 
+procedure or conventional surgical palliation? Eur J Cardiothorac Surg (2008) 
+33:613–8. doi:10.1016/j.ejcts.2007.12.042 
+ 
+69.
+ 
+Bacha EA, Daves S, Hardin J, Abdulla R-I, Anderson J, Kahana M, et al.  Single-
+ventricle palliation for high-risk neonates: the emergence of an alternative hybrid 
+stage I strategy. J Thorac Cardiovasc Surg  (2006) 131:163–71. doi:10.1016/j.
+jtcvs.2005.07.053 
+ 
+70.
+ 
+Gomide M, Furci B, Mimic B, Brown KL, Hsia T-Y , Y ates R, et al.  Rapid 2-stage 
+Norwood I for high-risk hypoplastic left heart syndrome and variants. J Thorac 
+Cardiovasc Surg (2013) 146:1146–51. doi:10.1016/j.jtcvs.2013.01.051 
+ 
+71.
+ 
+Lim DS, Peeler BB, Matherne GP , Kron IL, Gutgesell HP . Risk-stratified approach 
+to hybrid transcatheter-surgical palliation of hypoplastic left heart syndrome. 
+Pediatr Cardiol (2006) 27:91–5. doi:10.1007/s00246-005-1028-y 
+ 
+72.
+ 
+Chen Q, Parry AJ. The current role of hybrid procedures in the stage 1 palliation 
+of patients with hypoplastic left heart syndrome. Eur J Cardiothorac Surg (2009) 
+36:77–83. doi:10.1016/j.ejcts.2009.01.030 
+ 
+73.
+ 
+Hickey EJ, Nosikova Y , Zhang H, Caldarone CA, Redington A, Van Arsdell GS. 
+Very low-birth-weight infants with congenital cardiac lesions: is there merit in 
+delaying intervention to permit growth and maturation? J Thorac Cardiovasc 
+Surg (2012) 143:126–36, 136.el. doi:10.1016/j.jtcvs.2011.09.008 
+ 
+74.
+ 
+Baba K, Honjo O, Chaturvedi R, Lee K-J, Van Arsdell G, Caldarone CA, et al.  
+“Reverse Blalock-Taussig shunt”: application in single ventricle hybrid palliation. 
+J Thorac Cardiovasc Surg (2013) 146:352–7. doi:10.1016/j.jtcvs.2012.11.029 
+ 
+75.
+ 
+Guleserian KJ, Barker GM, Sharma MS, Macaluso J, Huang R, Nugent AW , et al.  
+Bilateral pulmonary artery banding for resuscitation in high-risk, single-ventricle 
+neonates and infants: a single-center experience. J Thorac Cardiovasc Surg (2013) 
+145:206–13. doi:10.1016/j.jtcvs.2012.09.063 
+ 
+76.
+ 
+Ota N, Murata M, Tosaka Y , Ide Y , Tachi M, Ito H, et al.  Is routine rapid-staged 
+bilateral pulmonary artery banding before stage 1 Norwood a viable strategy?  
+J Thorac Cardiovasc Surg (2014) 148:1519–25. doi:10.1016/j.jtcvs.2013.11.053 
+ 
+77.
+ 
+Hornik CP , He X, Jacobs JP , Li JS, Jaquiss RDB, Jacobs ML, et al.  Relative impact 
+of surgeon and center volume on early mortality after the Norwood operation. 
+Ann Thorac Surg (2012) 93:1992–7. doi:10.1016/j.athoracsur.2012.01.107 
+ 
+78.
+ 
+Berman NB, Kimball TR. Systemic ventricular size and performance before 
+and after bidirectional cavopulmonary anastomosis. J Pediatr (1993) 122:S63–7. 
+doi:10.1016/S0022-3476(09)90045-2 
+ 
+79.
+ 
+Allgood NL, Alejos J, Drinkwater DC, Laks H, Williams RG. Effectiveness of the 
+bidirectional Glenn shunt procedure for volume unloading in the single ventricle 
+patient. Am J Cardiol (1994) 74:834–6. doi:10.1016/0002-9149(94)90450-2 
+ 
+80.
+ 
+Jacobs ML, Rychik J, Rome JJ, Pizarro C, Murphy JD, Norwood WI. Early 
+reduction of the volume work of the single ventricle: the hemi-Fontan operation. 
+Ann Thorac Surg (1996) 62:456–61. doi:10.1016/0003-4975(96)00279-2 
+ 
+81.
+ 
+Chang AC, Hanley FL, Wernovsky G, Rosenfeld HM, Wessel DL, Jonas RA, 
+et al.  Early bidirectional cavopulmonary shunt in young infants. Postoperative 
+course and early results. Circulation (1993) 88:II149–58. 
+  82.  Bradley SM, Mosca RS, Hennein HA, Crowley DC, Kulik TJ, Bove EL. 
+Bidirectional superior cavopulmonary connection in young infants. Circulation 
+(1996) 94:II5–11. 
+ 
+83.
+ 
+Slavik Z, Lamb RK, Webber SA, Devlin AM, Keeton BR, Monro JL, et al.  
+Bidirectional superior cavopulmonary anastomosis: how young is too young? 
+Heart (1996) 75:78–82. doi:10.1136/hrt.75.1.78 
+ 
+84.
+ 
+Petrucci O, Khoury PR, Manning PB, Eghtesady P . Outcomes of the bidirectional 
+Glenn procedure in patients less than 3 months of age. J Thorac Cardiovasc Surg 
+(2010) 139:562–8. doi:10.1016/j.jtcvs.2009.08.025 
+ 
+85.
+ 
+b?lhK?a?mcK?f?iv?K?v?fK?u?ukK?r?skK? M??
+Modifications to the cavopulmonary anastomosis do not eliminate early sinus 
+node dysfunction. J Thorac Cardiovasc Surg (2000) 120:891–900. doi:10.1067/
+mtc.2000.109708 
+ 
+86.
+ 
+Kogon BE, Plattner C, Leong T, Simsic J, Kirshbom PM, Kanter KR. 
+The 
+ 
+bidirectional Glenn operation: a risk factor analysis for morbidity and mortal-
+ity. J Thorac Cardiovasc Surg (2008) 136:1237–42. doi:10.1016/j.jtcvs.2008.05.017 
+ 
+87.
+ 
+Douglas WI, Goldberg CS, Mosca RS, Law IH, Bove EL. Hemi-Fontan procedure 
+for hypoplastic left heart syndrome: outcome and suitability for Fontan. Ann 
+Thorac Surg (1999) 68:1361–7. doi:10.1016/S0003-4975(99)00915-7 
+ 
+88.
+ 
+Berdat PA, Belli E, Lacour-Gayet F , Planche C, Serraf A. Additional pul-
+monary blood flow has no adverse effect on outcome after bidirectional 
+cavopulmonary anastomosis. Ann Thorac Surg (2005) 79:29–36. doi:10.1016/j.
+athoracsur.2004.06.002 
+ 
+89.
+ 
+McElhinney DB, Marianeschi SM, Reddy VM. Additional pulmonary blood 
+flow with the bidirectional Glenn anastomosis: does it make a difference? Ann 
+Thorac Surg (1998) 66:668–72. doi:10.1016/S0003-4975(98)00581-5 
+ 
+90.
+ 
+Uemura H, Y agihara T, Kawashima Y , Okada K, Kamiya T, Anderson RH. 
+Use of the bidirectional Glenn procedure in the presence of forward flow 
+from the 
+ 
+ventricles to the pulmonary arteries. Circulation (1995) 92:II228–32. 
+doi:10.1161/01.CIR.92.9.228 
+ 
+91.
+ 
+Caspi J, Pettitt TW , Ferguson TB, Stopa AR, Sandhu SK. Effects of controlled 
+antegrade pulmonary blood flow on cardiac function after bidirectional cavo-
+pulmonary anastomosis. Ann Thorac Surg  (2003) 76:1917–21. doi:10.1016/
+S0003-4975(03)01198-6 
+ 
+92.
+ 
+Kobayashi J, Matsuda H, Nakano S, Shimazaki Y , Ikawa S, Mitsuno M, et al.  
+Hemodynamic effects of bidirectional cavopulmonary shunt with pulsatile 
+pulmonary flow. Circulation (1991) 84:III219–25. 
+ 
+93.
+ 
+Frommelt MA, Frommelt PC, Berger S, Pelech AN, Lewis DA, Tweddell 
+JS, et al.  Does an additional source of pulmonary blood flow alter outcome 
+after a 
+ 
+bidirectional cavopulmonary shunt? Circulation  (1995) 92:II240–4. 
+doi:10.1161/01.CIR.92.9.240 
+ 
+94.
+ 
+Ferns SJ, El Zein C, Multani K, Sajan I, Subramanian S, Polimenakos AC, 
+et al.  Is additional pulsatile pulmonary blood flow beneficial to patients with 
+bidirectional Glenn? J Thorac Cardiovasc Surg (2013) 145:451–4. doi:10.1016/j.
+jtcvs.2012.11.027 
+ 
+95.
+ 
+Turner ME, Richmond ME, Quaegebeur JM, Shah A, Chen JM, Bacha EA, 
+et al.  Intact right ventricle-pulmonary artery shunt after stage 2 palliation in 
+hypoplastic left heart syndrome improves pulmonary artery growth. Pediatr 
+Cardiol (2013) 34:924–30. doi:10.1007/s00246-012-0576-1 
+ 
+96.
+ 
+Henaine R, Vergnat M, Mercier O, Serraf A, De Montpreville V , Ninet J, 
+et al.  Hemodynamics and arteriovenous malformations in cavopulmonary 
+ 
+anastomosis: the case for residual antegrade pulsatile flow. J Thorac Cardiovasc 
+Surg (2013) 146:1359–65. doi:10.1016/j.jtcvs.2013.02.036 
+ 
+97.
+ 
+Raj JU, Kaapa P , Anderson J. Effect of pulsatile flow on microvascular resistance 
+in adult rabbit lungs. J Appl Physiol (1985) (1992) 72:73–81. 
+ 
+98.
+ 
+Chen Q, Tulloh R, Caputo M, Stoica S, Kia M, Parry AJ. Does the persistence 
+of pulsatile antegrade pulmonary blood flow following bidirectional Glenn 
+procedure affect long term outcome? Eur J Cardiothorac Surg (2015) 47:154–8. 
+doi:10.1093/ejcts/ezu170 
+ 
+99.
+ 
+van Slooten YJ, Elzenga NJ, Waterbolk TW , van Melle JP , Berger RMF , Ebels 
+T. The effect of additional pulmonary blood flow on timing of the total cavo-
+pulmonary connection. Ann Thorac Surg (2012) 93:2028–33. doi:10.1016/j.
+athoracsur.2012.02.053 
+ 
+100.
+ 
+Miyaji K, Shimada M, Sekiguchi A, Ishizawa A, Isoda T. Usefulness of pulsatile 
+bidirectional cavopulmonary shunt in high-risk Fontan patients. Ann Thorac 
+Surg (1996) 61:845–50. doi:10.1016/0003-4975(95)01121-8 
+ 
+101.
+ 
+Y oshida M, Y amaguchi M, Y oshimura N, Murakami H, Matsuhisa H, Okita 
+Y . Appropriate additional pulmonary blood flow at the bidirectional Glenn 
+[[p16]]
+July 2015  |  Volume 3  |  Article 6116
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+procedure is useful for completion of total cavopulmonary connection. Ann 
+Thorac Surg (2005) 80:976–81. doi:10.1016/j.athoracsur.2005.03.090 
+ 
+102.
+ 
+Mainwaring RD, Lamberti JJ, Uzark K, Spicer RL. Bidirectional Glenn. Is 
+accessory pulmonary blood flow good or bad? Circulation (1995) 92:II294–7. 
+doi:10.1161/01.CIR.92.9.294 
+ 
+103.
+ 
+Calvaruso DF , Rubino A, Ocello S, Salviato N, Guardi D, Petruccelli DF , 
+et al.  Bidirectional Glenn and antegrade pulmonary blood flow: temporary 
+or definitive palliation? Ann Thorac Surg  (2008) 85:1389–95. doi:10.1016/j.
+athoracsur.2008.01.013 
+ 
+104.
+ 
+Mahle WT, Wernovsky G, Bridges ND, Linton AB, Paridon SM. Impact of early 
+ventricular unloading on exercise performance in preadolescents with single 
+ventricle Fontan physiology. J Am Coll Cardiol (1999) 34:1637–43. doi:10.1016/
+S0735-1097(99)00392-7 
+ 
+105.
+ 
+Demirtürk OS, Güvener M, Coşkun I, Yıldırım SV . Results of additional pulsatile 
+pulmonary blood flow with bidirectional Glenn cavopulmonary anastomosis: 
+positive effect on main pulmonary artery growth and less need for Fontan 
+conversion. Heart Surg Forum (2013) 16:E30–4. doi:10.1532/HSF98.20121078 
+ 
+106.
+ 
+Y amada K, Roques X, Elia N, Laborde MN, Jimenez M, Choussat A, et al.  The 
+short- and mid-term results of bidirectional cavopulmonary shunt with addi-
+tional source of pulmonary blood flow as definitive palliation for the functional 
+single ventricular heart. Eur J Cardiothorac Surg (2000) 18:683–9. doi:10.1016/
+S1010-7940(00)00583-2 
+ 
+107.
+ 
+Oski JA, Canter CE, Spray TL, Kan JS, Cameron DE, Murphy AM. Embolic 
+stroke after ligation of the pulmonary artery in patients with functional single 
+ventricle. Am Heart J (1996) 132:836–40. doi:10.1016/S0002-8703(96)90319-1 
+ 
+108.
+ 
+Madan N, Robinson BW , Jacobs ML. Thrombosis in the proximal pulmonary 
+artery stump in a Fontan patient. Heart (2002) 88:396. doi:10.1136/heart.88.4.396 
+ 
+109.
+ 
+Lee SY , Baek JS, Kim G-B, Kwon BS, Bae EJ, Noh CI, et al.  Clinical significance 
+of thrombosis in an intracardiac blind pouch after a Fontan operation. Pediatr 
+Cardiol (2012) 33:42–8. doi:10.1007/s00246-011-0074-x 
+ 
+110.
+ 
+Randall A, Carberry K, Fraser CD. Discontinuous pulmonary arteries do 
+not preclude good Fontan outcomes. Congenit Heart Dis  (2010) 5 :168–73. 
+doi:10.1111/j.1747-0803.2009.00334.x 
+ 
+111.
+ 
+La Gerche A, Gewillig M. What limits cardiac performance during exercise in 
+normal subjects and in healthy Fontan patients? Int J Pediatr (2010) 2010:1–8. 
+doi:10.1155/2010/791291 
+ 
+112.
+ 
+Gewillig M, Brown SC, Eyskens B, Heying R, Ganame J, Budts W , et al.  The 
+Fontan circulation: who controls cardiac output? Interact Cardiovasc Thorac 
+Surg (2010) 10:428–33. doi:10.1510/icvts.2009.218594 
+ 
+113.
+ 
+de Leval MR. Evolution of the Fontan-Kreutzer procedure. Semin Thorac 
+Cardiovasc Surg Pediatr Card Surg Annu  (2010) 13:91–5. doi:10.1053/j.
+pcsu.2010.01.006 
+ 
+114.
+ 
+Senzaki H, Masutani S, Kobayashi J, Kobayashi T, Sasaki N, Asano H, et al.  
+Ventricular afterload and ventricular work in Fontan circulation: comparison 
+with normal two-ventricle circulation and single-ventricle circulation with 
+Blalock-Taussig shunts. Circulation  (2002) 105:2885–92. doi:10.1161/01.
+CIR.0000018621.96210.72 
+ 
+115.
+ 
+Friesen C, Forbess JM. Surgical management of the single ventricle. Prog Pediatr 
+Cardiol (2002) 16:47–68. doi:10.1016/S1058-9813(02)00044-9
+ 
+116.
+ 
+Choussat A, Fontan F , Besse P . Patient selection for the Fontan procedure. In: 
+Anderson R, Shinebourne E, editors. Paediatric Cardiology. Edinburgh: New Y ork: 
+Churchill Livingstone; New Y ork: distributed by Longman (1978). p. 559–66.
+ 
+117.
+ 
+Hosein RBM, Clarke AJB, McGuirk SP , Griselli M, Stümper O, De Giovanni JV , 
+et al.  Factors influencing early and late outcome following the Fontan procedure 
+in the current era. The ‘two commandments’? Eur J Cardiothorac Surg (2007) 
+31:344–52. doi:10.1016/j.ejcts.2006.11.043 
+ 
+118.
+ 
+Kaulitz R, Ziemer G, Luhmer I, Kallfelz HC. Modified Fontan operation 
+in functionally univentricular hearts: preoperative risk factors and inter -
+mediate results. J Thorac Cardiovasc Surg  (1996) 112:658–64. doi:10.1016/
+S0022-5223(96)70049-1 
+ 
+119.
+ 
+Stern HJ. Fontan “ten commandments” revisited and revised. Pediatr Cardiol 
+(2010) 31:1131–4. doi:10.1007/s00246-010-9811-9 
+ 
+120.
+ 
+Kerendi F , Kramer ZB, Mahle WT, Kogon BE, Kanter KR, Kirshbom PM. 
+Perioperative risks and outcomes of atrioventricular valve surgery in conjunc-
+tion with Fontan procedure. Ann Thorac Surg (2009) 87:1484–8. doi:10.1016/j.
+athoracsur.2009.02.059 
+ 
+121.
+ 
+Stewart RD, Pasquali SK, Jacobs JP , Benjamin DK, Jaggers J, Cheng J, et al.  
+Contemporary Fontan operation: association between early outcome and type of 
+cavopulmonary connection. Ann Thorac Surg (2012) 93:1254–60. doi:10.1016/j.
+athoracsur.2012.01.060 
+ 
+122.
+ 
+Ridderbos F-JS, Wolff D, Timmer A, van Melle JP , Ebels T, Dickinson MG, et al.  
+Adverse pulmonary vascular remodeling in the Fontan circulation. J Heart Lung 
+Transplant (2015) 34:404–13. doi:10.1016/j.healun.2015.01.005 
+ 
+123.
+ 
+Senzaki H, Isoda T, Ishizawa A, Hishi T. Reconsideration of criteria for the Fontan 
+operation. Influence of pulmonary artery size on postoperative hemodynamics 
+of the Fontan operation. Circulation  (1994) 89:1196–202. doi:10.1161/01.
+CIR.89.1.266 
+ 
+124.
+ 
+Khairy P , Fernandes SM, Mayer JE, Triedman JK, Walsh EP , Lock JE, 
+et al.  Long-term survival, modes of death, and predictors of mortality in 
+patients with Fontan surgery. Circulation (2008) 117:85–92. doi:10.1161/
+CIRCULATIONAHA.107.738559 
+ 
+125.
+ 
+Cromme-Dijkhuis AH, Hess J, Hählen K, Henkens CM, Bink-Boelkens MT, 
+Eygelaar AA, et al.  Specific sequelae after Fontan operation at mid- and long-term 
+follow-up. Arrhythmia, liver dysfunction, and coagulation disorders. J Thorac 
+Cardiovasc Surg (1993) 106:1126–32. 
+ 
+126.
+ 
+Jacobs JP , Maruszewski B. Functionally univentricular heart and the Fontan 
+operation: lessons learned about patterns of practice and outcomes from the 
+congenital heart surgery databases of the European association for cardio-
+ 
+thoracic surgery and the society of thoracic surgeons. World J Pediatr Congenit 
+Heart Surg (2013) 4:349–55. doi:10.1177/2150135113494228 
+ 
+127.
+ 
+de Leval MR, Kilner P , Gewillig M, Bull C. Total cavopulmonary connection: a 
+logical alternative to atriopulmonary connection for complex Fontan operations. 
+Experimental studies and early clinical experience. J Thorac Cardiovasc Surg 
+(1988) 96:682–95. 
+ 
+128.
+ 
+Amodeo A, Galletti L, Marianeschi S, Picardo S, Giannico S, Di Renzi P , 
+et al.  Extracardiac Fontan operation for complex cardiac anomalies: seven 
+years’ experience. J Thorac Cardiovasc Surg (1997) 114:1020–30. doi:10.1016/
+S0022-5223(97)70016-3 
+ 
+129.
+ 
+Bridges ND, Lock JE, Castaneda AR. Baffle fenestration with subsequent tran-
+scatheter closure. Modification of the Fontan operation for patients at increased 
+risk. Circulation (1990) 82:1681–9. doi:10.1161/01.CIR.82.5.1681 
+ 
+130.
+ 
+Bove EL, de Leval MR, Migliavacca F , Dubini G. Toward optimal hemodynamics: 
+computer modeling of the Fontan circuit. Pediatr Cardiol (2007) 28:477–81. 
+doi:10.1007/s00246-007-9009-y 
+ 
+131.
+ 
+Bove EL, de Leval MR, Migliavacca F , Guadagni G, Dubini G. Computational 
+fluid dynamics in the evaluation of hemodynamic performance of cavo-
+pulmonary connections after the Norwood procedure for hypoplastic left  
+heart syndrome. J Thorac Cardiovasc Surg  (2003) 126:1040–7. doi:10.1016/
+S0022-5223(03)00698-6 
+ 
+132.
+ 
+Bossers SSM, Cibis M, Gijsen FJ, Schokking M, Strengers JLM, Verhaart RF , 
+et al.  Computational fluid dynamics in Fontan patients to evaluate power 
+loss during simulated exercise. Heart (2014) 100:696–701. doi:10.1136/
+heartjnl-2013-304969 
+ 
+133.
+ 
+Whitehead KK, Han D, Paridon SM, Fogel MA, Y oganathan AP . Exercise capacity 
+in single-ventricle patients after Fontan correlates with haemodynamic energy 
+loss in TCPC. Heart (2015) 101:139–43. doi:10.1136/heartjnl-2014-306337 
+ 
+134.
+ 
+Anderson PAW , Sleeper LA, Mahony L, Colan SD, Atz AM, Breitbart RE, 
+et al.  Contemporary outcomes after the Fontan procedure: a pediatric heart 
+network multicenter study. J Am Coll Cardiol (2008) 52:85–98. doi:10.1016/j.
+jacc.2008.01.074 
+ 
+135.
+ 
+Petrossian E, Reddy VM, Collins KK, Culbertson CB, MacDonald MJ, Lamberti 
+JJ, et al.  The extracardiac conduit Fontan operation using minimal approach 
+extracorporeal circulation: early and midterm outcomes. J Thorac Cardiovasc 
+Surg (2006) 132:1054–63. doi:10.1016/j.jtcvs.2006.05.066 
+ 
+136.
+ 
+Petrossian E, Reddy VM, McElhinney DB, Akkersdijk GP , Moore P , Parry AJ, et al.  
+Early results of the extracardiac conduit Fontan operation. J Thorac Cardiovasc 
+Surg (1999) 117:688–96. doi:10.1016/S0022-5223(99)70288-6 
+ 
+137.
+ 
+Lee JR, Kwak J, Kim KC, Min SK, Kim W-H, Kim YJ, et al.  Comparison of lateral 
+tunnel and extracardiac conduit Fontan procedure. Interact Cardiovasc Thorac 
+Surg (2007) 6:328–30. doi:10.1510/icvts.2006.146928 
+ 
+138.
+ 
+Nürnberg JH, Ovroutski S, Alexi-Meskishvili V , Ewert P , Hetzer R, Lange PE. New 
+onset arrhythmias after the extracardiac conduit Fontan operation compared 
+with the intraatrial lateral tunnel procedure: early and midterm results. Ann 
+Thorac Surg (2004) 78:1979–88. doi:10.1016/j.athoracsur.2004.02.107 
+ 
+139.
+ 
+Robbers-Visser D, Miedema M, Nijveld A, Boersma E, Bogers AJJC, Haas F , et al.  
+Results of staged total cavopulmonary connection for functionally univentricular 
+[[p17]]
+July 2015  |  Volume 3  |  Article 6117
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+hearts; comparison of intra-atrial lateral tunnel and extracardiac conduit. Eur J 
+Cardiothorac Surg (2010) 37:934–41. doi:10.1016/j.ejcts.2009.10.016 
+ 
+140.
+ 
+Hausdorf G, Schneider M, Konertz W . Surgical preconditioning and completion 
+of total cavopulmonary connection by interventional cardiac catheterisation: a 
+new concept. Heart (1996) 75:403–9. doi:10.1136/hrt.75.4.403 
+ 
+141.
+ 
+Alsoufi B, Alfadley F , Al-Omrani A, Awan A, Al-Ahmadi M, Al-Fayyadh 
+M, et al.  Hybrid management strategy for percutaneous Fontan completion 
+without surgery: early results. Ann Thorac Surg (2011) 91:566–72. doi:10.1016/j.
+athoracsur.2010.08.034 
+ 
+142.
+ 
+Hasaniya NW , Razzouk AJ, Mulla NF , Larsen RL, Bailey LL. In situ pericardial 
+extracardiac lateral tunnel Fontan operation: fifteen-year experience. J Thorac 
+Cardiovasc Surg (2010) 140:1076–83. doi:10.1016/j.jtcvs.2010.07.068 
+ 
+143.
+ 
+Y ang W , Chan FP , Reddy VM, Marsden AL, Feinstein JA. Flow simulations and 
+validation for the first cohort of patients undergoing the Y-graft Fontan proce-
+dure. J Thorac Cardiovasc Surg (2015) 149:247–55. doi:10.1016/j.jtcvs.2014.08.069 
+ 
+144.
+ 
+Jonas RA. The intra/extracardiac conduit fenestrated Fontan. Semin Thorac 
+Cardiovasc Surg Pediatr Card Surg Annu  (2011) 14:11–8. doi:10.1053/j.
+pcsu.2011.01.010 
+ 
+145.
+ 
+Lemler MS, Scott W A, Leonard SR, Stromberg D, Ramaciotti C. Fenestration 
+improves clinical outcome of the Fontan procedure: a prospective, randomized 
+study. Circulation (2002) 105:207–12. doi:10.1161/hc0202.102237 
+ 
+146.
+ 
+f?skK?l?idK?f?jK?m?iv?K?k?idK?j?io?K?
+et al.  Fontan operation in five hundred consecutive patients: factors influencing 
+early and late outcome. J Thorac Cardiovasc Surg (1997) 114:376–91. doi:10.1016/
+S0022-5223(97)70183-1 
+ 
+147.
+ 
+f?iv?K?a?mcK?b?lhK?l?vsK?cb?vlK?r?ilK?
+et al.  Predictors of outcome after the Fontan operation: is hypoplastic left  
+heart syndrome still a risk factor? J Thorac Cardiovasc Surg (2002) 123:237–45. 
+doi:10.1067/mtc.2002.119337 
+ 
+148.
+ 
+Atz AM, Travison TG, McCrindle BW , Mahony L, Quartermain M, Williams 
+RV , et al.  Late status of Fontan patients with persistent surgical fenestration.  
+J Am Coll Cardiol (2011) 57:2437–43. doi:10.1016/j.jacc.2011.01.031 
+ 
+149.
+ 
+Lemler MS, Ramaciotti C, Stromberg D, Scott W A, Leonard SR. The extracardiac 
+lateral tunnel Fontan, constructed with bovine pericardium: comparison with 
+the extracardiac conduit Fontan. Am Heart J (2006) 151:928–33. doi:10.1016/j.
+ahj.2005.06.015 
+ 
+150.
+ 
+Gupta A, Daggett C, Behera S, Ferraro M, Wells W , Starnes V . Risk factors for 
+persistent pleural effusions after the extracardiac Fontan procedure. J Thorac 
+Cardiovasc Surg (2004) 127:1664–9. doi:10.1016/j.jtcvs.2003.09.011 
+ 
+151.
+ 
+Fedderly RT, Whitstone BN, Frisbee SJ, Tweddell JS, Litwin SB. Factors related 
+to pleural effusions after Fontan procedure in the era of fenestration. Circulation 
+(2001) 104:I148–51. doi:10.1161/hc37t1.094817 
+ 
+152.
+ 
+Atik E, Ikari NM, Martins TC, Barbero-Marcial M. Fontan operation and 
+the cavopulmonary technique: immediate and late results according to the 
+presence of atrial fenestration. Arq Bras Cardiol (2002) 78:162–6. doi:10.1590/
+S0066-782X2002000200004 
+ 
+153.
+ 
+McGuirk SP , Winlaw DS, Langley SM. The impact of ventricular morphology on 
+midterm outcome following completion total cavopulmonary connection. Eur 
+J Cardiothorac Surg (2003) 24(1):37–46. doi:10.1016/S1010-7940(03)00186-6 
+ 
+154.
+ 
+Schreiber C, Kostolny M, Hörer J, Cleuziou J, Holper K, Tassani-Prell P , et al.  
+Can we do without routine fenestration in extracardiac total cavopulmonary 
+connections? Report on 84 consecutive patients. Cardiol Young (2006) 16:54–60. 
+doi:10.1017/S104795110500209X 
+ 
+155.
+ 
+Meyer DB, Zamora G, Wernovsky G, Ittenbach RF , Gallagher PR, Tabbutt 
+S, et al.  Outcomes of the Fontan procedure using cardiopulmonary bypass 
+with aortic cross-clamping. Ann Thorac Surg (2006) 82:1611–8. doi:10.1016/j.
+athoracsur.2006.05.106 
+ 
+156.
+ 
+Mascio CE, Wayment M, Colaizy TT, Mahoney LT, Burkhart HM. The modified 
+Fontan procedure and prolonged pleural effusions. Am Surg (2009) 75:175–7. 
+ 
+157.
+ 
+Jacobs ML, Norwood WI. Fontan operation: influence of modifica-
+tions on morbidity and mortality. Ann Thorac Surg  (1994) 58:945–51. 
+doi:10.1016/0003-4975(94)90437-5 
+ 
+158.
+ 
+Jacobs ML, Pelletier GJ, Pourmoghadam KK, Mesia CI, Madan N, Stern H, et al.  
+Protocols associated with no mortality in 100 consecutive Fontan procedures. 
+Eur J Cardiothorac Surg (2008) 33:626–32. doi:10.1016/j.ejcts.2007.12.032 
+ 
+159.
+ 
+Hsu DT, Quaegebeur JM, Ing FF , Selber EJ, Lamour JM, Gersony WM. Outcome 
+after the single-stage, nonfenestrated Fontan procedure. Circulation  (1997) 
+96:II–335–40.
+  160.  Tokunaga S, Kado H, Imoto Y , Masuda M, Shiokawa Y , Fukae K, et al.  Total 
+cavopulmonary connection with an extracardiac conduit: experience with 100 
+patients. Ann Thorac Surg (2002) 73:76–80. doi:10.1016/S0003-4975(01)03302-1 
+ 
+161.
+ 
+Schreiber C, Hörer J, Vogt M, Cleuziou J, Prodan Z, Lange R. Nonfenestrated 
+extracardiac total cavopulmonary connection in 132 consecutive patients. Ann 
+Thorac Surg (2007) 84:894–9. doi:10.1016/j.athoracsur.2007.04.034 
+ 
+162.
+ 
+Ocello S, Salviato N, Marcelletti CF . Results of 100 consecutive extracardiac 
+conduit Fontan operations. Pediatr Cardiol  (2007) 28:433–7. doi:10.1007/
+s00246-007-9010-5 
+ 
+163.
+ 
+Harada Y , Uchita S, Sakamoto T, Kimura M, Umezu K, Takigiku K, et al.  Do we 
+need fenestration when performing two-staged total cavopulmonary connection 
+using an extracardiac conduit? Interact Cardiovasc Thorac Surg (2009) 9:50–4. 
+doi:10.1510/icvts.2008.192229 
+ 
+164.
+ 
+Airan B, Sharma R, Choudhary SK, Mohanty SR, Bhan A, Chowdhari UK, et al.  
+Univentricular repair: is routine fenestration justified? Ann Thorac Surg (2000) 
+69:1900–6. doi:10.1016/S0003-4975(00)01247-9 
+ 
+165.
+ 
+Kim S-J, Kim W-H, Lim H-G, Lee J-Y . Outcome of 200 patients after an 
+extracardiac Fontan procedure. J Thorac Cardiovasc Surg (2008) 136:108–16. 
+doi:10.1016/j.jtcvs.2007.12.032 
+ 
+166.
+ 
+Salazar JD, Zafar F , Siddiqui K, Coleman RD, Morales DLS, Heinle JS, et al.  
+Fenestration during Fontan palliation: now the exception instead of the rule.  
+J Thorac Cardiovasc Surg (2010) 140:129–36. doi:10.1016/j.jtcvs.2010.03.013 
+ 
+167.
+ 
+Fiore AC, Tan C, Armbrecht E, Huddleston CB, Kim E, Goel N, et al.  Comparison 
+of fenestrated and nonfenestrated patients undergoing extracardiac Fontan. Ann 
+Thorac Surg (2014) 97:924–31. doi:10.1016/j.athoracsur.2013.11.041 
+ 
+168.
+ 
+Latus H, Gummel K, Diederichs T, Bauer A, Rupp S, Kerst G, et  al.  
+Aortopulmonary collateral flow is related to pulmonary artery size and affects 
+ventricular dimensions in patients after the Fontan procedure. PLoS One (2013) 
+8:e81684. doi:10.1371/journal.pone.0081684 
+ 
+169.
+ 
+Quinones JA, DeLeon SY , Bell TJ, Cetta F , Moffa SM, Freeman JE, et al.  Fenestrated 
+Fontan procedure: evolution of technique and occurrence of 
+ 
+paradoxical 
+embolism. Pediatr Cardiol (1997) 18:218–21. doi:10.1007/s002469900154 
+ 
+170.
+ 
+Mays W A, Border WL, Knecht SK, Gerdes YM, Pfriem H, Claytor RP ,  
+et  al.  Exercise capacity improves after transcatheter closure of the 
+Fontan fenestration in children. Congenit Heart Dis  (2008) 3 :254–61. 
+doi:10.1111/j.1747-0803.2008.00199.x 
+ 
+171.
+ 
+Krumsdorf U, Ostermayer S, Billinger K, Trepels T, Zadan E, Horvath K, et al.  
+Incidence and clinical course of thrombus formation on atrial septal defect and 
+patient foramen ovale closure devices in 1,000 consecutive patients. J Am Coll 
+Cardiol (2004) 43:302–9. doi:10.1016/j.jacc.2003.10.030 
+ 
+172.
+ 
+Al-Hay AA, Shaban LA, Al-Qbandi MA, Alanbaei M. Occlusion of Fontan 
+fenestrations using Amplatzer septal occluder. Int J Cardiovasc Imaging (2011) 
+27:483–90. doi:10.1007/s10554-010-9694-0 
+ 
+173.
+ 
+Meadows J, Lang P , Marx G, Rhodes J. Fontan fenestration closure has no acute 
+effect on exercise capacity but improves ventilatory response to exercise. J Am 
+Coll Cardiol (2008) 52:108–13. doi:10.1016/j.jacc.2007.12.063 
+ 
+174.
+ 
+Maeda K, Rizal RE, Lavrsen M, Malhotra SP , Akram SA, Davies RR, et al.  
+Midterm results of the modified Ross/Konno procedure in neonates and infants. 
+Ann Thorac Surg (2012) 94(1):156–62. doi:10.1016/j.athoracsur.2012.03.007 
+ 
+175.
+ 
+Oka N, Al-Radi O, Alghamdi AA, Kim S, Caldarone CA. Ross-Konno procedure 
+with mitral valve surgery. Ann Thorac Surg (2010) 89:1366–70. doi:10.1016/j.
+athoracsur.2010.02.005 
+ 
+176.
+ 
+Sinha P , Zurakowski D, He D, Y erebakan C, Freedenberg V , Moak JP , et al.  Intra/
+extracardiac fenestrated modification leads to lower incidence of arrhythmias 
+after the Fontan operation. J Thorac Cardiovasc Surg (2013) 145:678–82. 
+doi:10.1016/j.jtcvs.2012.03.080 
+ 
+177.
+ 
+Mavroudis C, Deal BJ, Backer CL, Stewart RD, Franklin WH, Tsao S, et al.  
+J. Maxwell Chamberlain memorial paper for congenital heart surgery. 111 Fontan 
+conversions with arrhythmia surgery: surgical lessons and outcomes. Ann Thorac 
+Surg (2007) 84:1457–65. doi:10.1016/j.athoracsur.2007.06.079 
+ 
+178.
+ 
+Deal BJ, Mavroudis C, Backer CL. Arrhythmia management in the Fontan patient. 
+Pediatr Cardiol (2007) 28:448–56. doi:10.1007/s00246-007-9005-2 
+ 
+179.
+ 
+Gewillig M, Wyse RK, de Leval MR, Deanfield JE. Early and late arrhythmias 
+after the Fontan operation: predisposing factors and clinical consequences. Br 
+Heart J (1992) 67:72–9. doi:10.1136/hrt.67.1.72 
+ 
+180.
+ 
+Rychik J. Forty years of the Fontan operation: a failed strategy. Semin Thorac 
+Cardiovasc Surg Pediatr Card Surg Annu  (2010) 13:96–100. doi:10.1053/j.
+pcsu.2010.02.006 
+[[p18]]
+July 2015  |  Volume 3  |  Article 6118
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+ 181.  Stiller B, Riedel F , Paul K, van Landeghem FKH. Plastic bronchitis in children 
+with Fontan palliation: analogue to protein losing enteropathy? Pediatr Cardiol 
+(2002) 23:90–4. doi:10.1007/s00246-001-0024-0 
+ 
+182.
+ 
+Yu JJ, Yun T-J, Yun S-C, Lee SC, Shin HJ, Ko HK, et al.  Low pulmonary vascular 
+compliance predisposes post-Fontan patients to protein-losing enteropathy. Int 
+J Cardiol (2013) 165:454–7. doi:10.1016/j.ijcard.2011.08.848 
+ 
+183.
+ 
+Monagle P , Cochrane A, McCrindle B, Benson L, Williams W , Andrew M. 
+Thromboembolic complications after Fontan procedures – the role of prophy-
+lactic anticoagulation. J Thorac Cardiovasc Surg (1998) 115:493–8. doi:10.1016/
+S0022-5223(98)70310-1 
+ 
+184.
+ 
+Marrone C, Galasso G, Piccolo R, de Leva F , Paladini R, Piscione F , et al.  
+Antiplatelet versus anticoagulation therapy after extracardiac conduit Fontan: a 
+systematic review and meta-analysis. Pediatr Cardiol (2011) 32:32–9. doi:10.1007/
+s00246-010-9808-4 
+ 
+185.
+ 
+Garcia Guerra G, Robertson CMT, Alton GY , Joffe AR, Dinu IA, Nicholas D, 
+et al.  Quality of life 4 years after complex heart surgery in infancy. J Thorac 
+Cardiovasc Surg (2013) 145:482–88.e2. doi:10.1016/j.jtcvs.2012.03.050 
+ 
+186.
+ 
+Bailey LL, Nehlsen-Cannarella S, Doroshow R, Jacobson JG, Martin R, 
+Allard M, et al.  Cardiac allotransplantation in newborns as therapy for 
+hypoplastic left heart syndrome. N Engl J Med (1986) 315:949–51. doi:10.1056/
+NEJM198610093151507 
+ 
+187.
+ 
+Boucek MM, Kanakriyeh M, Mathis C, Trimm R, Bailey LL. Cardiac transplan-
+tation in infancy: donors and recipients. Loma Linda University pediatric heart 
+transplant group. J Pediatr (1990) 116:171–6. doi:10.1016/S0022-3476(05)82870-7 
+ 
+188.
+ 
+Razzouk AJ, Chinnock R, Gundry S, Johnston JK, Larsen RL, Mulla NF , 
+et al.  Transplantation as a primary treatment for hypoplastic left heart 
+syndrome: intermediate-term results. Ann Thorac Surg  (1996) 62:1–7. 
+doi:10.1016/0003-4975(96)00295-0 
+ 
+189.
+ 
+Gandhi SK, Canter CE, Kulikowska A, Huddleston CB. Infant heart transplan-
+tation ten years later – where are they now? Ann Thorac Surg (2007) 83:169–71. 
+doi:10.1016/j.athoracsur.2006.08.016 
+ 
+190.
+ 
+Gandhi R, Almond C, Singh TP , Gauvreau K, Piercey G, Thiagarajan RR. Factors 
+associated with in-hospital mortality in infants undergoing heart transplanta-
+tion in the United States. J Thorac Cardiovasc Surg (2011) 141:531–6, 536.e1. 
+doi:10.1016/j.jtcvs.2010.10.025 
+ 
+191.
+ 
+Chiu P , Russo MJ, Davies RR, Addonizio LJ, Richmond ME, Chen JM. What is 
+high risk? Redefining elevated pulmonary vascular resistance index in pediatric 
+heart transplantation. J Heart Lung Transplant (2012) 31:61–6. doi:10.1016/j.
+healun.2011.08.021 
+ 
+192.
+ 
+Tweddell JS. Aspirin: a treatment for the headache of shunt-dependent pulmonary 
+blood flow and parallel circulation? Circulation (2007) 116:236–7. doi:10.1161/
+CIRCULATIONAHA.107.707992 
+ 
+193.
+ 
+Ohye RG, Schonbeck JV , Eghtesady P , Laussen PC, Pizarro C, Shrader P , et al.  
+Cause, timing, and location of death in the single ventricle reconstruction trial. 
+J Thorac Cardiovasc Surg (2012) 144:907–14. doi:10.1016/j.jtcvs.2012.04.028 
+ 
+194.
+ 
+e?e?K?j?iv?K?e?fK?b?e?K?m?cbK?s?e?K? M??n?
+after a “perfect” Fontan operation. Circulation (1990) 81:1520–36. doi:10.1161/01.
+CIR.81.5.1520 
+ 
+195.
+ 
+Davies RR, Chen JM, Mosca RS. The Fontan procedure: evolution in technique; 
+attendant imperfections and transplantation for “failure” . Semin Thorac Cardiovasc 
+Surg Pediatr Card Surg Annu (2011) 14:55–66. doi:10.1053/j.pcsu.2011.01.014 
+ 
+196.
+ 
+Bernstein D, Naftel DC, Chin C, Addonizio LJ, Gamberg P , Blume ED, 
+et al.  Outcome of listing for cardiac transplantation for failed Fontan: a 
+multi-institutional study. Circulation  (2006) 114:273–80. doi:10.1161/
+CIRCULATIONAHA.105.548016 
+ 
+197.
+ 
+Mitchell MB, Campbell DN, Boucek MM. Heart transplantation for the failing 
+Fontan circulation. Semin Thorac Cardiovasc Surg Pediatr Card Surg Annu (2004) 
+7:56–64. doi:10.1053/j.pcsu.2004.02.013 
+ 
+198.
+ 
+Davies RR, Sorabella RA, Y ang J, Mosca RS, Chen JM, Quaegebeur JM. Outcomes 
+after transplantation for “failed” Fontan: a single-institution experience. J Thorac 
+Cardiovasc Surg (2012) 143:1183–92.e4. doi:10.1016/j.jtcvs.2011.12.039 
+ 
+199.
+ 
+Gamba A, Merlo M, Fiocchi R, Terzi A, Mammana C, Sebastiani R, et al.  Heart 
+transplantation in patients with previous Fontan operations. J Thorac Cardiovasc 
+Surg (2004) 127:555–62. doi:10.1016/j.jtcvs.2003.08.016 
+ 
+200.
+ 
+Kanter KR, Mahle WT, Vincent RN, Berg AM, Kogon BE, Kirshbom PM. Heart 
+transplantation in children with a Fontan procedure. Ann Thorac Surg (2011) 
+91:823–9. doi:10.1016/j.athoracsur.2010.11.031 
+  201.  Griffiths ER, Kaza AK, Wyler von Ballmoos MC, Loyola H, Valente AM, Blume 
+ED, et al.  Evaluating failing Fontans for heart transplantation: predictors of death. 
+Ann Thorac Surg (2009) 88:558–63. doi:10.1016/j.athoracsur.2009.03.085 
+ 
+202.
+ 
+q?lcK?b?aK?e?sK?f?f`K?b?iK?a?iv?K? M??
+Cavopulmonary assist for the univentricular Fontan circulation: von Kármán vis-
+cous impeller pump. J Thorac Cardiovasc Surg (2010) 140:529–36. doi:10.1016/j.
+jtcvs.2010.04.037 
+ 
+203.
+ 
+Vanderpluym C, Urschel S, Buchholz H. Advanced therapies for congenital heart 
+disease: ventricular assist devices and heart transplantation. Can J Cardiol (2013) 
+29:796–802. doi:10.1016/j.cjca.2013.02.008 
+ 
+204.
+ 
+Rhodes LA, Colan SD, Perry SB, Jonas RA, Sanders SP . Predictors of survival 
+in neonates with critical aortic stenosis. Circulation  (1991) 84:2325–35. 
+doi:10.1161/01.CIR.84.6.2325 
+ 
+205.
+ 
+Salem MM, Starnes V A, Wells WJ, Acherman RJ, Chang RK, Luciani GB, et al.  
+Predictors of left ventricular outflow obstruction following single-stage repair 
+of interrupted aortic arch and ventricular septal defect. Am J Cardiol (2000) 
+86:1044–7, A11. doi:10.1016/S0002-9149(00)01149-8 
+ 
+206.
+ 
+Hickey EJ, Caldarone CA, Blackstone EH, Lofland GK, Y eh T, Pizarro C, et al.  
+Critical left ventricular outflow tract obstruction: the disproportionate impact 
+of biventricular repair in borderline cases. J Thorac Cardiovasc Surg  (2007) 
+134:1429–36. doi:10.1016/j.jtcvs.2007.07.052 
+ 
+207.
+ 
+Hickey EJ, Caldarone CA, Blackstone EH, Williams WG, Y eh T, Pizarro C, 
+et al.  Biventricular strategies for neonatal critical aortic stenosis: high mortality 
+associated with early reintervention. J Thorac Cardiovasc Surg (2012) 144:409–17, 
+417.e1. doi:10.1016/j.jtcvs.2011.09.076 
+ 
+208.
+ 
+Lofland G, McCrindle BW , Williams WG, Blackstone EH, Tchervenkov C, 
+Jonas RA. Critical aortic stenosis in the neonate: a multi-institutional study of 
+management, outcomes, and risk factors. Congenital Heart Surgeons Society.  
+J Thorac Cardiovasc Surg (2001) 121:10–27. doi:10.1067/mtc.2001.111207
+ 
+209.
+ 
+Emani SM, McElhinney DB, Tworetzky W , Myers PO, Schroeder B, Zurakowski 
+D, et al.  Staged left ventricular recruitment after single-ventricle palliation 
+in patients with borderline left heart hypoplasia. J Am Coll Cardiol (2012) 
+60:1966–74. doi:10.1016/j.jacc.2012.07.041 
+ 
+210.
+ 
+Ross DN. Replacement of aortic and mitral valves with a pulmonary autograft. 
+Lancet (1967) 2:956–8. doi:10.1016/S0140-6736(67)90794-5 
+ 
+211.
+ 
+Konno S, Imai Y , Iida Y , Nakajima M, Tatsuno K. A new method for prosthetic 
+valve replacement in congenital aortic stenosis associated with hypoplasia of the 
+aortic valve ring. J Thorac Cardiovasc Surg (1975) 70:909–17. 
+ 
+212.
+ 
+Hickey EJ, Y eh T, Jacobs JP , Caldarone CA, Tchervenkov CI, McCrindle BW , 
+et al.  Ross and Y asui operations for complex biventricular repair in infants with 
+critical left ventricular outflow tract obstruction. Eur J Cardiothorac Surg (2010) 
+37:279–88. doi:10.1016/j.ejcts.2009.06.060 
+ 
+213.
+ 
+Y asui H, Kado H, Nakano E, Y onenaga K, Mitani A, Tomita Y , et al.  Primary 
+repair of interrupted aortic arch and severe aortic stenosis in neonates. J Thorac 
+Cardiovasc Surg (1987) 93:539–45. 
+ 
+214.
+ 
+Emani SM, Bacha EA, McElhinney DB, Marx GR, Tworetzky W , Pigula FA, 
+et al.  Primary left ventricular rehabilitation is effective in maintaining two-
+ 
+ventricle physiology in the borderline left heart. J Thorac Cardiovasc Surg (2009) 
+138:1276–82. doi:10.1016/j.jtcvs.2009.08.009 
+ 
+215.
+ 
+van Son JA, Falk V , Mohr FW . Ross-Konno operation with resection of endocar-
+dial fibroelastosis for critical aortic stenosis with borderline-sized left ventricle in 
+neonates. Ann Thorac Surg (1997) 63:112–6. doi:10.1016/S0003-4975(96)00685-6 
+ 
+216.
+ 
+Kouchoukos NT, Blackstone EH, Hanley FL, Kirklin JK. Coarctation of the aorta 
+and interrupted aortic arch. Kirklin/Barratt-Boyes Cardiac Surgery. Philadelphia, 
+PA: Elsevier Health Sciences (2013). p. 1718–68.
+ 
+217.
+ 
+g?ekK?r?qlK?a?dgK?j?iv?K?e?qlK?m?mbM?
+Outcomes in neonatal pulmonary atresia with intact ventricular septum. 
+A multiinstitutional study. J Thorac Cardiovasc Surg (1993) 105:406–23, 424–7. 
+ 
+218.
+ 
+Amodeo A, Keeton BR, Sutherland GR, Monro JL. Pulmonary atresia with intact 
+ventricular septum: is neonatal repair advisable? Eur J Cardiothorac Surg (1991) 
+5:17–21. doi:10.1016/1010-7940(91)90077-W 
+ 
+219.
+ 
+a?`lK?k?gK?a?rv?K?f?aK?r?sK?v?qfM?c?
+repair in patients with pulmonary atresia and intact ventricular septum. J Thorac 
+Cardiovasc Surg (1989) 97:746–54. 
+ 
+220.
+ 
+De Leval M, Bull C, Hopkins R, Rees P , Deanfield JE, Taylor JF , et al.  Decision 
+making in the definitive repair of the heart with a small right ventricle. Circulation 
+(1985) 72:II52–60. 
+[[p19]]
+July 2015  |  Volume 3  |  Article 6119
+Davies and Pizarro
+Surgical decision-making in univentricular heart
+Frontiers in Pediatrics  |  www.frontiersin.org
+ 221.  Karamlou T, Poynter JA, Walters HL, Rhodes J, Bondarenko I, Pasquali SK, et al.  
+Long-term functional health status and exercise test variables for patients with 
+pulmonary atresia with intact ventricular septum: a congenital heart surgeons 
+society study. J Thorac Cardiovasc Surg  (2013) 145:1018–25. doi:10.1016/j.
+jtcvs.2012.11.092 
+ 
+222.
+ 
+Romeih S, Groenink M, Roest AA, van der Plas MN, Hazekamp MG, Mulder 
+BJ, et al.  Exercise capacity and cardiac reserve in children and adolescents with 
+corrected pulmonary atresia with intact ventricular septum after univentricular 
+palliation and biventricular repair. J Thorac Cardiovasc Surg (2012) 143:569–75. 
+doi:10.1016/j.jtcvs.2011.08.012 
+ 
+223.
+ 
+Guleserian KJ, Armsby LB, Thiagarajan RR, del Nido PJ, Mayer JE. Natural 
+history of pulmonary atresia with intact ventricular septum and right-
+ 
+ventricle-
+dependent coronary circulation managed by the single-ventricle approach. Ann 
+Thorac Surg (2006) 81:2250–7. doi:10.1016/j.athoracsur.2005.11.041 
+ 
+224.
+ 
+q?iK?k?gK?f?iv?K?cb?vlK?r?skM?n??L
+tions for pulmonary atresia with intact ventricular septum. J Thorac Cardiovasc 
+Surg (1998) 116:924–31. doi:10.1016/S0022-5223(98)70042-X 
+ 
+225.
+ 
+Jegatheeswaran A, Pizarro C, Caldarone CA, Cohen MS, Baffa JM, Gremmels 
+DB, et al.  Echocardiographic definition and surgical decision-making in 
+unbalanced atrioventricular septal defect: a congenital heart surgeons’ soci-
+ety multiinstitutional study. Circulation  (2010) 122:S209–15. doi:10.1161/
+CIRCULATIONAHA.109.925636 
+ 
+226.
+ 
+Cohen MS, Jegatheeswaran A, Baffa JM, Gremmels DB, Overman DM, 
+Caldarone CA, et al.  Echocardiographic features defining right dominant 
+unbalanced atrioventricular septal defect: a multi-institutional congenital heart 
+surgeons’ society study. Circ Cardiovasc Imaging (2013) 6:508–13. doi:10.1161/
+CIRCIMAGING.112.000189 
+Conflict of Interest Statement: The authors declare that the research was conducted 
+in the absence of any commercial or financial relationships that could be construed 
+as a potential conflict of interest.
+Copyright © 2015 Davies and Pizarro. This is an open-access article distributed under 
+the terms of the Creative Commons Attribution License (CC BY). The use, distribution 
+or reproduction in other forums is permitted, provided the original author(s) or licensor 
+are credited and that the original publication in this journal is cited, in accordance with 
+accepted academic practice. No use, distribution or reproduction is permitted which does 
+not comply with these terms.

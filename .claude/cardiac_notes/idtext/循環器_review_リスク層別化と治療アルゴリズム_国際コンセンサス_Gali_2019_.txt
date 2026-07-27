@@ -1,0 +1,714 @@
+
+[[p1]]
+Risk stratification and medical therapy of
+pulmonary arterial hypertension
+Nazzareno Galiè1, Richard N. Channick 2, Robert P. Frantz 3, Ekkehard Grünig 4,
+Zhi Cheng Jing 5, Olga Moiseeva 6, Ioana R. Preston 7, Tomas Pulido 8,
+Zeenat Safdar9, Yuichi Tamura 10 and Vallerie V. McLaughlin 11
+Number 6 in the series
+“Proceedings of the 6th World Symposium on Pulmonary Hypertension ”
+Edited by N. Galiè, V.V. McLaughlin, L.J. Rubin and G. Simonneau
+Affiliations: 1Dept of Experimental, Diagnostic and Specialty Medicine (DIMES), Alma Mater Studiorum,
+University of Bologna, Bologna, Italy. 2Pulmonary and Critical Care Division, Massachusetts General Hospital,
+Harvard Medical School, Boston, MA, USA. 3Dept of Cardiovascular Diseases, Mayo Clinic, Rochester, MN,
+USA. 4Pulmonary Hypertension Center, Thoraxklinic at Heidelberg University Hospital, Heidelberg, Germany.
+5State Key Lab of Cardiovascular Disease, FuWai Hospital and Key Lab of Pulmonary Vascular Medicine,
+Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China. 6Non-Coronary
+Heart Disease Dept, Almazov National Medical Research Centre, St Petersburg, Russian Federation. 7Tufts
+University School of Medicine, Pulmonary, Critical Care and Sleep Division, Tufts Medical Center, Boston, MA,
+USA. 8Cardiopulmonary Dept, National Heart Institute, La Salle University, Mexico City, Mexico. 9Pulmonary,
+Critical Care Division, Houston Methodist Hospital, Weill Cornell College of Medicine, Houston, TX, USA.
+10Dept of Cardiology, International University of Health and Welfare School of Medicine, Tokyo, Japan.
+11Cardiovascular Medicine, The University of Michigan, Ann Arbor, MI, USA.
+Correspondence: Nazzareno Galiè, Dept of Experimental, Diagnostic and Specialty Medicine (DIMES), Alma
+Mater Studiorum, University of Bologna, Via Massarenti 9, 40138 Bologna, Italy. E-mail: nazzareno.galie@unibo.it
+@ERSpublications
+State of the art and research perspectives on medical therapy of pulmonary arterial hypertension,
+including treatment algorithm http:/ /ow.ly/4UkJ30md5GS
+Cite this article as: Galiè N, Channick RN, Frantz RP, et al . Risk stratification and medical therapy of
+pulmonary arterial hypertension. Eur Respir J 2019; 53 1801889 [https://doi.org/10.1183/13993003.01889-
+2018].
+ABSTRACT Pulmonary arterial hypertension (PAH) remains a severe clinical condition despite the
+availability over the past 15 years of multiple drugs interfering with the endothelin, nitric oxide and
+prostacyclin pathways. The recent progress observed in medical therapy of PAH is not, therefore, related to
+the discovery of new pathways, but to the development of new strategies for combination therapy and on
+escalation of treatments based on systematic assessment of clinical response. The current treatment
+strategy is based on the severity of the newly diagnosed PAH patient as assessed by a multiparametric risk
+stratification approach. Clinical, exercise, right ventricular function and haemodynamic parameters are
+combined to define a low-, intermediate- or high-risk status according to the expected 1-year mortality.
+The current treatment algorithm provides the most appropriate initial strategy, including monotherapy, or
+double or triple combination therapy. Further treatment escalation is required in case low-risk status is not
+achieved in planned follow-up assessments. Lung transplantation may be required in most advanced cases
+on maximal medical therapy.
+Received: Oct 04 2018 | Accepted: Oct 07 2018
+Copyright ©ERS 2019. This article is open access and distributed under the terms of the Creative Commons Attribution
+Non-Commercial Licence 4.0.
+https://doi.org/10.1183/13993003.01889-2018 Eur Respir J 2019; 53: 1801889
+|
+SERIES
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION
+[[p2]]
+Introduction
+Pulmonary arterial hypertension (PAH) remains a severe clinical condition despite the publication of 41
+???GqbsH????QT?????????
+by four routes of administration ( i.v., s.c., oral and inhaled) [1, 2]. Currently approved therapies target
+three main pathways important in endothelial function: the prostacyclin and nitric oxide (NO) pathways,
+which are underexpressed in PAH patients, and the endothelin pathway, which is overexpressed in PAH
+patients (see the Task Force article by H
+UMBERT et al. [3] in this issue of the European Respiratory Journal ).
+This imbalance in vasoactive mediators plays a critical role in the development and progression of the
+obstructive proliferative pathological changes of the distal pulmonary arteries [3], which, when untreated,
+will lead to heart failure and premature death (see the Task Force article by V
+ONK NOORDEGRAAF et al. [4]
+in this issue of the European Respiratory Journal ). Prostacyclin analogues (PCAs) and prostacyclin receptor
+agonists, phosphodiesterase type 5 inhibitors (PDE5is) and guanylate cyclase stimulators, and endothelin
+receptor antagonists (ERAs) are intended to correct the dysfunction of the prostacyclin, NO and
+endothelin pathways, respectively. Interestingly, drugs targeting the three pathways were already approved
+and included in the treatment algorithm for PAH patients proposed in 2003 at the 3rd World Symposium
+on Pulmonary Hypertension (WSPH) held in Venice, Italy [5]. The progress observed in medical therapy
+of PAH patients over the past 15 years is not, therefore, related to the discovery of new pathways, but to
+the evolution and testing of new drugs and strategies for combination therapy, and on escalation of
+treatments based on systematic assessment of clinical response [1, 2]. In fact, in the 2015 European Society
+of Cardiology (ESC)/European Respiratory Society (ERS) pulmonary hypertension (PH) guidelines the
+treatment strategy was intimately linked to the baseline severity of the newly diagnosed PAH patient and
+recommendations for subsequent treatment escalation were founded on the patient ’s conditions after a
+pre-specified period of therapy [1, 2]. Both the baseline assessment and the treatment response were based
+on a multiparametric approach to stratify the patients in low-, intermediate- or high-risk groups for 1-year
+mortality. The “risk” table included clinical, functional, exercise, right ventricular function and
+haemodynamic parameters.
+This central connection between methodical risk assessment and treatment strategy in PAH patients
+has been recently validated by retrospective analyses of three independent registries, showing a clear
+prediction of survival or event-free survival based on this multiparametric approach at baseline and at
+follow-up [6– 9].
+This article will provide an updated analysis of risk stratification and its relationship with different
+treatment strategies available for PAH patients, including general measures, supportive therapies,
+monotherapy, initial and sequential combination therapy, and interventional therapies.
+Risk stratification
+The assessment of the prognosis of patients with PAH has been considered an important part of care
+since the publication of the first US National Institutes of Health idiopathic PAH (IPAH) registry nearly
+three decades ago [10]. Over time, different baseline and follow-up parameters, including clinical,
+functional, exercise, non-invasive and invasive variables, have been utilised individually or combined in
+formulas or calculators to predict outcome: the French Pulmonary Hypertension Network (FPHN) registry
+risk equation [11, 12], the PH connection equation [13, 14], the Scottish composite score [15], the US
+Registry to Evaluate Early and Long-term PAH Disease Management (REVEAL) risk equation [16] and
+risk score [17, 18], and the 2015 ESC/ERS PH guidelines risk table [1, 2]. Table 1 shows the characteristics
+of four registries testing the PAH risk stratification strategy of the REVEAL score and of the 2015
+ESC/ERS PH guidelines risk table [6 – 9, 17 – 19].
+The REVEAL equation [16] and the subsequent score [17, 18], derived from a cohort of 2716 PAH patients
+and using 12 modifiable and non-modifiable parameters measured at baseline, provided the 12-month
+likelihood of survival (five strata) in incident and prevalent IPAH and associated PAH patients. If utilised
+at follow-up, the equation can predict outcome at 1 additional year [18]. The risk score calculator was
+validated internally in 504 newly diagnosed PAH patients, externally in registries and in clinical trials
+datasets [20, 21]. Survival up to 5 years has been reported according to baseline REVEAL score data, but
+not at follow-up reassessment [22]. REVEAL survival up to 5 years has also been provided for a subgroup
+of 1426 patients and based only on repeated high versus low brain natriuretic peptide (BNP) plasma level
+assessments [23]. The REVEAL registry also demonstrated the prognostic value of renal dysfunction at
+baseline and follow-up measurements of estimated glomerular filtration rate (eGFR) [24].
+The REVEAL 2.0 risk score calculator is a refinement of the original REVEAL risk score calculator; it
+includes all-cause hospitalisations within the previous 6 months and eGFR, both of which have been
+shown to impact mortality [24, 25].
+https://doi.org/10.1183/13993003.01889-2018 2
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p3]]
+The REVEAL 2.0 risk score calculator (14 variables) has been compared [19] with the strategies utilised in
+the FPHN registry [8] and in the Prospective Registry of Newly Initiated Therapies for Pulmonary
+Hypertension (COMPERA) registry [7]. In this experience the data showed that, based on the 12-month
+mortality, the correspondences between the low-, intermediate- and high-risk groups as defined by the
+2015 ESC/ERS PH guidelines and the REVEAL 2.0 calculator (14 variables) were as follows: low
+risk=REVEAL score ⩽6, intermediate risk=REVEAL score 7 and 8, and high risk=REVEAL score ⩾9. The
+authors propose a more discriminating risk stratification provided by the REVEAL score, although it is not
+clear how this translates to the approach to treatment [7].
+The limitations of the REVEAL score include the relatively short prediction period (1 year) when assessed
+at follow-up and the large number of variables required (from 12 to 14 variables). Simplified versions of
+the REVEAL score utilising high-yield variables seem to have a similar predictive value as the original
+version [26].
+The 2015 ESC/ERS PH guidelines have recommended a flexible approach to PAH patient risk assessment:
+using a multidimensional stratification according only to modifiable clinical, functional, exercise,
+biochemical, echocardiographic and haemodynamic variables with known prognostic significance
+(ESC/ERS PH guidelines Table 13 Risk assessment in PAH ). Patients were categorised as low, intermediate
+or high risk based on expected 1-year mortality [1, 2]. Recently, a retrospective analysis of three major
+registries (total of 3135 patients) provided an independent validation of this approach and showed a clear
+difference in 5-year survival or transplantation-free survival, depending on risk stratification category at
+both baseline and first follow-up [6 – 8]. In addition, post hoc analysis of the SERAPHIN haemodynamic
+substudy has shown a reduction in the morbidity and mortality end-point if low-risk haemodynamics
+thresholds included in the 2015 ESC/ERS PH guidelines were reached after 6 months of treatment with
+macitentan [27].
+Interestingly, the risk stratification strategies have varied significantly among the registry studies: in the
+Swedish PAH Registry (SPAHR) [6] and COMPERA [7] studies (both including IPAH and associated
+PAH patients), individual risk was calculated at baseline and at the first follow-up by assigning a score of
+1, 2 or 3 to each criterion (1=low risk, 2=intermediate risk and 3=high risk according with the 2015
+ESC/ERS PH guidelines) and rounding to the mean of the available variables. In the FPHN registry [8],
+risk assessment was performed in incident IPAH patients according to the presence of four low-risk
+criteria: World Health Organization (WHO)/New York Heart Association Functional Class (FC) I or II, 2)
+6-min walk distance (6MWD) >440 m, 3) right atrial pressure (RAP) <8 mmHg and 4) cardiac index
+⩾2.5 L·min
+−1·m−2. Patients were classified according to the number of low-risk criteria present at baseline
+(i.e. at the time of PAH diagnosis) or at the time of re-evaluation. As exploratory analyses, the additive
+value of BNP <50 ng·L −1 or N-terminal pro-BNP (NT-proBNP) <300 ng·L −1 plasma levels or mixed
+venous oxygen saturation ( SvO2) >65% as low-risk criteria was assessed in the subsets of patients for whom
+these data were available.
+Recently, the FPHN non-invasive risk assessment strategy using three dichotomised low-risk criteria
+(FC, 6MWD and NT-proBNP or BNP plasma levels) has been applied to the COMPERA cohort at
+baseline and at the first follow-up: the authors conclude that the FPHN risk assessment strategy provides a
+more accurate identification of patients with an excellent long-term survival than the approach of
+averaging risk scores [9].
+Interestingly, the variables with the highest yield in the registriy analyses are similar, i.e. FC, 6MWD,
+NT-proBNP or BNP plasma levels, cardiac index, RAP and S
+vO2 [6– 8]. These variables are appropriate at
+TABLE 1 Summary of four registries assessing risk scores
+REVEAL [17–19] Swedish PAH Register [6] COMPERA [7] French Pulmonary
+Hypertension Network [8] #
+Required variables n 12–14 8 8 4
+Patients at baseline n 2716 530 1588 1017
+Patients at follow-up n 2529 383 1094 1017
+Associated PAH included Yes Yes Yes No
+Definition of low risk ⩽6 REVEAL score <1.5 average score <1.5 average score 3 –4 out of 4 low-risk criteria
+1-year mortality by risk group
+(low/intermediate/high) %
+⩽2.6/7.0/⩾10.7 1.0/7.0/26.0 2.8/9.9/21.2 1.0/NA/13.0 –30.0
+PAH: pulmonary arterial hypertension; NA: not available. #: incident patients only.
+https://doi.org/10.1183/13993003.01889-2018 3
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p4]]
+both baseline and first follow-up, and the fulfilment of low-risk criteria in three or four parameters
+represents a clinical response to the treatment that portends a good prognosis [8, 9]. A new risk
+stratification strategy based on four criteria and using these six variables has recently been proposed [28].
+The limitations of the 2015 ESC/ERS PH guidelines risk table are related to the presence of “overlap
+patients” with prognostic parameters belonging to more than one risk designation [1, 2]. This problem has
+been addressed in the registry analyses with both the “score and average ” method of the SPAHR and
+COMPERA registries and the “low-risk focused” method of the FPHN study. These methods may prove to
+be difficult to utilise in clinical practice, particularly for the exact distinction between intermediate- and
+high-risk status in individual patients. In addition, the simplified approach does not include
+non-modifiable or partially modifiable prognostic parameters such as age, sex, PAH type and
+comorbidities (renal insufficiency, diabetes mellitus, coronary artery diseases, etc.).
+There are several limitations present in all risk assessment methods, including the retrospective nature of
+the validating analyses even when applied to prospective observational registries. In addition, data
+collection was not standardised in all published registries, and significant missing data and numbers of
+patients lost to follow-up were reported. Other important prognostic variables such as echocardiographic,
+cardiac magnetic resonance imaging and cardiopulmonary exercise test data were not collected
+systematically or analysed. Life-threatening complications such as haemoptysis, pulmonary artery
+aneurismal dilatation with chest organ compression, arrhythmias, etc., are not included in the current risk
+stratification tools. The exact influence of these parameters on the risk level designation and on the
+consequent treatment decisions need to be clarified in future and prospective studies. These data should be
+considered as part of a comprehensive risk assessment strategy which, of course, should also include
+clinical judgement [29].
+Clinical trials in PAH
+Figure 1 shows the time-course of the 41 RCTs performed in 9061 PAH patients and published so far
+[30– 70]. 21 RCTs tested monotherapy versus placebo, 18 RCTs included patients already treated and tested
+sequential combination therapy versus background therapy plus placebo, and finally two RCTs enrolled
+treatment-naive patients and tested initial monotherapy versus initial double combination therapy. The
+different treatment strategies adopted and compared, and the diverse background therapies of enrolled
+PAH patients, has allowed evidence to be collected on efficacy and safety for the multiplicity of conditions
+encountered in clinical practice.
+An important evolution in PAH RCT design is the shifting of the primary end-point from a short-term
+correlate such as 6MWD to a long-term true clinical efficacy measure such as clinical worsening [60, 68,
+69] or clinical failure [67]. Interestingly, this change in strategy was recommended by the Task Force on
+Clinical Trials Design at the 4th WSPH held in Dana Point, CA, USA, in 2008 [71]. This shift has
+supported an increase in the level of evidence of the efficacy of the tested PAH drugs according with the
+scale adopted by experts [72, 73].
+Epoprostenol IPAH
+1990 1996 2000 2001 2002 2003 2004 2005 2006 2009 2010 2011 2012 2013 2014 2015
+Epoprostenol IPAH
+Epoprostenol SSc
+Bosentan Beraprost-US VARDENAFIL
+Year
+RCTs on monotherapy versus placebo or versus monotherapy (n=21)
+RCTs on monotherapy and/or sequential combination versus placebo (n=18)
+RCTs on initial combination versus monotherapy (n=2)
+SELEXIPAG
+FREEDOM-C1
+AMBITION
+GRIPHON
+COMPASS-2
+FREEDOM-M
+FREEDOM-C2
+PATENT
+IMPRES
+PATENT PLUS
+Zhuang
+Terbogrel
+Treprostinil
+AIR
+BREATHE-1
+ALPHABET
+Sastry
+BREATHE-2
+STRIDE-1
+STEP
+Singh
+STRIDE-2
+TRIUMPH
+IMATINIB
+IversenCOMBI
+BREATHE-5
+PHIRST SERAPHIN
+ARIES-1/2
+EARLY
+PACES
+SUPER
+SERAPH
+FIGURE 1 Time-course of completed randomised controlled trials (RCTs) in pulmonary arterial hypertension (PAH) (n=41) according to treatment
+strategy. SSc: systemic sclerosis; IPAH: idiopathic PAH. Reproduced and modified from [70] with permission.
+https://doi.org/10.1183/13993003.01889-2018 4
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p5]]
+s???o`g????????L??RWRX????QT
+RCTs testing monotherapy versus placebo in treatment-naive patients and reporting a risk reduction of
+44% ( p=0.016) in the 14 weeks of the average treatment comparison time [70, 74]. An additional
+meta-analysis was performed in 4095 patients enrolled in 17 RCTs that compared sequential combination
+therapy with monotherapy [75]: in this analysis, sequential therapy was associated with a significant risk
+reduction for clinical worsening ( −35%; p<0.0001), but not mortality ( −14%; p=0.09). The potential
+reasons for the lack of apparent mortality benefit include reduced statistical power of this meta-analysis for
+mortality as well as an overall reduced number of fatal events linked also to a short duration of the
+treatment comparison period [75].
+In summary, based on global experience collected in the RCTs on PAH patients, the following comments
+can be proposed:
+ In treatment-naive PAH patients, initial monotherapy is able to improve exercise capacity,
+haemodynamics and outcome compared with untreated patients [70, 74].
+ In treatment-naive and newly diagnosed (incident) PAH patients, initial combination therapy is able to
+improve symptoms, exercise capacity and outcome compared with initial monotherapy [67, 76].
+ In already treated ( prevalent) PAH patients, sequential combination therapy is able to improve exercise
+capacity, haemodynamics and outcome compared with patients continuing with their background
+therapy [60, 69, 75].
+General measures and supportive therapy
+No major advances have been reported on general measures and supportive therapy since the publication
+of the 2015 ESC/ERS PH guidelines, and the recommendations included in the 2015 ESC/ERS PH
+guidelines Table 16 Recommendations for general measures and Table 17 Recommendations for supportive
+therapy can be referred to [1, 2]. In particular, oral anticoagulant therapy is not recommended in
+associated forms of PAH, while in IPAH, heritable PAH (HPAH) and drug-induced PAH the data on
+efficacy is more conflicting. Therefore, in this subgroup, the decision about anticoagulation has to be made
+on a case-by-case basis after an individual risk – benefit analysis. The 2015 ESC/ERS PH guidelines suggest
+that PAH patients should be advised to be active within symptom limits, but to avoid excessive physical
+exertion if this causes symptoms. Physically deconditioned patients who are stable on targeted medication
+are also advised to undertake supervised exercise training. Recently, two further RCTs and meta-analyses
+have been published in this regard, confirming the positive effect of training in PAH [77, 78].
+Treatment algorithm
+The recommended treatment algorithm for PAH patients is shown in figure 2.
+The PAH treatment algorithm does not apply to patients in other clinical groups, and in particular it does
+not apply to patients with PH associated with group 2 (left heart disease) or group 3 (lung diseases). In
+addition, the different treatments have been evaluated by RCTs mainly in IPAH, HPAH, PAH due to
+drugs and in PAH associated with connective tissue disease, with Eisenmenger syndrome or with corrected
+congenital heart disease. The haemodynamic inclusion criteria in the majority of the RCTs were as
+Y?????⩽PT?gK?????⩾QT?g
+and pulmonary vascular resistance >3 Wood Units (>5 Wood Units in some RCTs). It is not clear if the
+efficacy/safety ratio of the PAH drugs is favourable when used in patients not fulfilling the above criteria.
+There is insufficient evidence to make recommendations in group 5 patients.
+Since the release of the 2015 ESC/ERS PH guidelines no new RCTs leading to the approval of new PAH
+treatments have been published; we refer to the tables of these guidelines for the classes of
+recommendations and the level of evidence of the approved PAH treatments [1, 2]. In particular, the
+guidelines tables of interest are: Table 1 Classes of recommendations , Table 2 Level of evidence , Table 19
+Recommendations for efficacy of drug monotherapy , Table 20 Recommendations for efficacy of initial drug
+combination therapy , Table 21 Recommendations for efficacy of sequential drug combination therapy , and
+Table 22 recommendations for efficacy of intensive care unit management, balloon atrial septostomy and
+lung transplantation . Amendments to these tables are required only for approvals granted by regulatory
+agencies after the 2015 ESC/ERS PH guidelines as follows: selexipag has been approved by the European
+Medicines Agency in patients with WHO FC II either as double or triple combination with an ERA and/
+or a PDE5i, or as monotherapy in patients who are not candidates for these therapies.
+The 2015 ESC/ERS PH guidelines tables provide the necessary evidence for alternative evidence-based
+therapeutic strategies recognising that the therapeutic approach to PAH may vary depending on local
+availability (and expertise) of therapeutic options in various hospitals and clinical settings. In these tables,
+only the compounds officially approved for PAH or under regulatory approval process in at least one
+https://doi.org/10.1183/13993003.01889-2018 5
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p6]]
+country are included. A four-level hierarchy for end-points in RCT has been proposed by experts based on
+level of evidence regarding efficacy [72, 73]. According to this hierarchy, drugs or combination of drugs
+with outcome as the primary end-point in RCTs or drugs with demonstrated reduction in all-cause
+mortality ( prospectively defined) have been highlighted with a footnote in the 2015 ESC/ERS PH
+guidelines Tables 19–21.
+Treatment algorithm description
+See the treatment algorithm in figure 2.
+Initial approach
+ After confirmation of the diagnosis of the treatment-naive PAH patient in an expert centre, the
+suggested initial approach is the adoption of general measures and the initiation of supportive therapy
+(2015 ESC/ERS PH guidelines Tables 16 and 17).
+ Acute vasoreactivity testing should be performed to predict response to calcium channel blocker
+(CCBs) only in patients with IPAH, HPAH, and PAH associated with drugs and toxin use.
+Vasoreactive patients (see the Task Force article by S
+IMONNEAU et al. [79] in this issue of the European
+Respiratory Journal ) should be treated with high doses ( progressively titrated) of CCBs ; adequate
+response should be confirmed after 3 – 6 months of treatment (2015 ESC/ERS PH guidelines Table 18 ).
+Adequate treatment response to high doses of CCBs is considered WHO FC I/II with sustained
+haemodynamic improvement (same or better than achieved in the acute test) after at least 1 year on
+CCBs only. Vasoreactive patients without an adequate treatment response to high doses of CCBs
+Acute vasoreactivity test
+(IPAH/HPAH/DPAH only)
+Low riskd
+Structured follow-upg
+Initial oral
+combinationf
+Residual role for initial 
+monotherapy (table 2)e
+Initial combination
+including i.v. PCAf
+Triple sequential
+combinationh
+Consider referral
+for lung
+transplantation
+Non-vasoreactive
+After 3–6 months of treatment
+After 3–6 months of treatment
+Low or intermediate riskd
+Intermediate or high riskd
+Intermediate or high riskd
+High riskd
+CCB therapyc
+Vasoreactive
+General measuresa
+Supportive therapyb
+PAH conﬁrmed by
+expert centre
+Treatment-naive
+patient
+Patient already 
+on treatment
+Maximal medical therapyi
+and listing for lung transplantationj
+FIGURE 2 Treatment algorithm. PAH: pulmonary arterial hypertension; IPAH: idiopathic PAH; HPAH: heritable
+PAH; DPAH: drug-induced PAH; CCB: calcium channel blocker; PCA: prostacyclin analogue; PH: pulmonary
+hypertension.
+a: 2015 ESC/ERS PH guidelines Table 16 ; b: 2015 ESC/ERS PH guidelines Table 17 ; c: 2015 ESC/
+ERS PH guidelines Table 18 ; d: 2015 ESC/ERS PH guidelines Table 13 ; e: 2015 ESC/ERS PH guidelines Table
+19; f: 2015 ESC/ERS PH guidelines Table 20 ; g: 2015 ESC/ERS PH guidelines Table 14 ; h: 2015 ESC/ERS PH
+guidelines Table 21; i: maximal medical therapy is considered triple combination therapy including a s.c. or an
+i.v. PCA (i.v. preferred in high-risk status); j: 2015 ESC/ERS PH guidelines Table 22.
+https://doi.org/10.1183/13993003.01889-2018 6
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p7]]
+should be treated with approved PAH medications according to the non-vasoreactive patients ’
+treatment strategy.
+ Non-responders to acute vasoreactivity testing who are at low or intermediate risk should be treated
+with initial oral combination therapy with an ERA and a PDE5i (2015 ESC/ERS PH guidelines
+Table 20) [76, 80, 81].
+ Some specific PAH subsets in which the efficacy/safety ratio of initial combination therapy is not
+established (table 2) should be treated with initial monotherapy.
+Recommendations for initial monotherapy are reported in the 2015 ESC/ERS PH guidelines Table 19.
+ If initial monotherapy is chosen, as head-to-head comparisons among different compounds are not
+available, no evidence-based first-line monotherapy can be proposed. The choice of drug may depend
+on a variety of factors, including approval status, labelling, route of administration, side-effect profile,
+potential interaction with background therapies, patient preferences, comorbidities, physician
+experience and cost.
+ In non-vasoreactive and treatment-naive patients at high risk , initial combination therapy including i.v.
+PCAs is recommended (2015 ESC/ERS PH guidelines Table 20 ). Intravenous epoprostenol receives the
+strongest recommendation as it has reduced the 3-month rate of mortality in high-risk PAH patients
+also as monotherapy (2015 ESC/ERS PH guidelines Table 19 ) [82]. Alternative types of initial
+combination therapy may be considered (2015 ESC/ERS PH guidelines Table 20 ). Referral for lung
+transplantation should also be considered.
+Follow-up therapy
+ When the initial treatment approach results in a low-risk status within 3 – 6 months, the therapy should
+be continued and structured follow-up established (2015 ESC/ERS PH guidelines Table 14).
+ When the initial treatment approach results in an intermediate-risk statu s, escalation to triple
+combination therapy is recommended according to the 2015 ESC/ERS PH guidelines Table 21 or to
+double combination in case monotherapy has been chosen. The combinations of macitentan and
+sildenafil [60], riociguat and bosentan [61], and selexipag and ERA and/or PDE5i [69] have the
+highest recommendation and evidence. PCAs should also be considered. The combination of riociguat
+and PDE5i is contraindicated [62]. Referral for lung transplantation should also be considered.
+ When the initial treatment approach results in a high-risk status , maximal medical therapy including
+i.v. PCAs is recommended (2015 ESC/ERS PH guidelines Table 20 ). Referral for lung transplantation
+should also be considered.
+ When the second treatment step results in the low-risk status within 3 – 6 months, the therapy should be
+continued and structured follow-up continued (2015 ESC/ERS PH guidelines Table 14 ). Referral for
+lung transplantation should also be considered according to local rules for organ allocation and
+average waiting time in the list.
+ When the second treatment step results in an intermediate- or high-risk status , escalation to maximal
+medical therapy is recommended according to the 2015 ESC/ERS PH guidelines Table 21 . Maximal
+medical therapy is considered to be triple combination therapy including a s.c. or an i.v. PCA ( i.v.
+preferred in high-risk status). For patients on intermediate-risk status on double combination therapy
+with an ERA and a PDE5i or riociguat, the addition of selexipag should be considered [69]. For
+TABLE 2 Potential role for initial monotherapy in specific pulmonary arterial hypertension (PAH) subsets
+IPAH, HPAH and drug-induced PAH patient responders to acute vasoreactivity tests and with WHO FC I/II and sustained haemodynamic
+improvement (same or better than achieved in the acute test) after at least 1 year on CCBs only
+Long-term-treated historical PAH patients with monotherapy (>5 –10 years) stable with low-risk profile
+IPAH patients >75 years old with multiple risk factors for heart failure with preserved LVEF (high blood pressure, diabetes mellitus, coronary
+artery disease, atrial fibrillation, obesity)
+PAH patients with suspicion or high probability of pulmonary veno-occlusive disease or pulmonary capillary haemangiomatosis
+Patients with PAH associated with HIV infection or portal hypertension or uncorrected congenital heart disease, as they were not included in
+RCTs of initial combination therapy
+PAH patients with very mild disease ( e.g. WHO FC I, PVR 3 –4 WU, mPAP <30 mmHg, normal right ventricle at echocardiography)
+Combination therapy unavailable or contraindicated ( e.g. severe liver disease)
+IPAH: idiopathic PAH; HPAH: heritable PAH; CCB: calcium channel blocker; PAP: pulmonary arterial pressure; PVR: pulmonary vascular
+resistance; LVEF: left ventricular ejection fraction; RCT: randomised controlled trial; WHO: World Health Organization; FC: Functional Class;
+WU: Wood Units; mPAP: mean PAP.
+https://doi.org/10.1183/13993003.01889-2018 7
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p8]]
+patients on triple combination therapy including selexipag who remain in the intermediate-risk group
+or progress to high risk, the substitution with s.c. or i.v. PCAs should be considered. Referral for lung
+transplantation should also be considered.
+ Patients on follow-up with low-risk status who deteriorate to the intermediate- or high-risk group
+should be treated with double, triple or maximal combination therapy depending on the initial
+background treatment.
+ We recommend consideration of lung transplantation in all patients on maximal triple combination
+therapy, with priority for those in intermediate- and high-risk groups, in accordance with local rules
+for organ allocation and average waiting time in the list (2015 ESC/ERS PH guidelines Table 22 ) (see
+the Task Force article by H
+OEPER et al. [83] in this issue of the European Respiratory Journal ).
+ Advanced treatments for patients in severe right ventricular failure who are admitted to intensive care
+units are reported by H OEPER et al. [83].
+ Balloon atrial septostomy should be regarded as a palliative or bridging procedure in patients
+deteriorating despite maximal medical therapy.
+Transitions of PAH therapies
+Clinicians might consider transitioning from one PAH-specific therapy to another for a number of
+reasons, including improvement of the side-effect profile and convenience or compliance with therapy. In
+patients who are not meeting treatment goals, transitions are considered to escalate therapy and improve
+patient status. Occasionally, patients have an extraordinary response to therapy and transition to a less
+invasive therapy is considered. As much of the literature on this topic is retrospective, prospective but
+observational or prospective randomised but open label, we do not recommend this approach except in
+rare circumstances and under close expert care. One study showed that, in carefully selected patients, the
+transition from i.v. epoprostenol to i.v. treprostinil was achievable around 80% of the time [84]. Transition
+from parenteral epoprostenol to the thermostable form was generally achievable [84].
+There have been conflicting outcomes in the transition from parenteral prostacyclins to inhaled or oral
+prostacyclins [84]. When discontinuation of bosentan is necessary due to liver function test elevations,
+transitioning to ambrisentan [85] or macitentan is safe.
+In case of lack of efficacy, transition from selexipag or non-parenteral PCAs to s.c. or i.v. PCAs is
+recommended.
+There is insufficient evidence to recommend transition from sildenafil or tadalafil to riociguat for
+improving efficacy [86]. An additional open-label, randomised study is currently ongoing on this issue
+(ClinicalTrials.gov identifier NCT02891850).
+PAH complications
+PAH-related hospitalisations which usually are associated with different types of complications are
+predictive of mortality in post hoc analyses of the SERAPHIN and GRIPHON studies [87].
+Recommendations for the diagnosis and treatment of arrhythmias, haemoptysis and mechanical
+complications related to the dilatation of the pulmonary artery are already reported in the 2015 ESC/ERS
+PH guidelines [1, 2]. Recently, a study has reported a large series of PAH patients with angina or
+angina-like symptoms who underwent percutaneous coronary interventions with stenting due to severe left
+main coronary artery stenosis by extrinsic compression from a dilated pulmonary artery [88]. The
+favourable acute and long-term results of this procedure suggest increased awareness for this important
+and potentially catastrophic complication.
+Conclusions
+Assessment of the severity of the newly diagnosed PAH patient by a multiparametric risk stratification
+approach is utilised for defining a low-, intermediate- or high-risk status. According to the risk status, the
+multiple drugs approved for PAH, interfering with the endothelin, NO and prostacyclin pathways, can be
+utilised with different strategies including monotherapy or combination therapies. Further treatment
+escalation is required in case low-risk status is not achieved in planned follow-up assessments. Low-risk
+patients should continue with the chosen therapy and be assessed accurately in a structured follow-up to
+timely identify possible deteriorations. Triple combination therapy and lung transplantation may be
+required in most advanced cases.
+Conflict of interest: N. Galiè reports grants and personal fees from Actelion, Bayer, GSK and Pfizer, and personal fees
+from MSD, outside the submitted work. R.N. Channick reports grants and personal fees from Actelion and Bayer, and
+personal fees from Arena, outside the submitted work. R.P. Frantz reports steering committee membership and research
+funding from Actelion, data and safety monitoring board and adjudication committee membership for United
+https://doi.org/10.1183/13993003.01889-2018 8
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p9]]
+Therapeutics, and advisory board work for Abbott and Arena, outside the submitted work. E. Grünig reports grants and
+personal fees from Actelion and Bayer/MSD, grants from GSK, and personal fees from Bial, OrPhaSwiss GmbH and
+Medscape, outside the submitted work. Z.C. Jing reports grants from the Chinese Academy of Medical Sciences, Beijing
+Natural Science Foundation and National Natural Science Foundation of China, during the conduct of the study; and
+personal fees from Actelion Pharmaceuticals, Bayer Healthcare Pharmaceuticals, GSK, Pfizer and United Therapeutics,
+outside the submitted work. O. Moiseeva has nothing to disclose. I.R. Preston reports grants and personal fees for
+consultancy from Actelion, Gilead and United Therapeutics, grants from Bayer, and personal fees for adjudication
+committee membership from Pfizer, during the conduct of the study; and grants and personal fees for consultancy from
+Acceleron, Liquidia and Arena, outside the submitted work. T. Pulido reports research grants from Actelion, Lilly, Reata
+Pharmaceuticals and Bayer, personal fees for advisory board membership, speaking and lectures from Actelion, personal
+fees for lectures from Bayer, personal fees for advisory board membership from GSK, personal fees for advisory board
+membership and lectures from Pfizer, outside the submitted work. Z. Safdar reports speaker bureau, consultation and
+institutional grants for clinical trials from Actelion Pharmaceutical, United Therapeutics Gilead Pharmaceuticals,
+Genetech, Boehringer Ingelheim and Bayer Pharmaceuticals, outside the submitted work. Y. Tamura reports grants from
+Nippon Shinyaku Co., Ltd, and grants and personal fees from Actelion Pharmaceuticals Japan Ltd, during the conduct
+of the study. V.V. McLaughlin reports grants and personal fees from Actelion, Acceleron, Arena and Bayer, grants from
+Gilead and Sonovie, and personal fees from Caremark and United Therapeutics, during the conduct of the study.
+References
+1 Galiè N, Humbert M, Vachiery JL, et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary
+hypertension. Eur Heart J 2016; 37: 67 – 119.
+2 Galiè N, Humbert M, Vachiery JL, et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary
+hypertension. Eur Respir J 2015; 46: 903 – 975.
+3 Humbert M, Guignabert C, Bonnet S, et al. Pathology and pathobiology of pulmonary hypertension: state of the
+art and research perspectives. Eur Respir J 2019; 53: 1801887.
+4 Vonk Noordegraaf A, Chin KM, Haddad F, et al. Pathophysiology of the right ventricle and of the pulmonary
+circulation in pulmonary hypertension: an update. Eur Respir J 2019; 53: 1801900.
+5 Galiè N, Seeger W, Naeije R, et al. Comparative analysis of clinical trials and evidence-based treatment algorithm
+in pulmonary arterial hypertension. J Am Coll Cardiol 2004; 43: 12 Suppl. S, S81 – S88.
+6 Kylhammar D, Kjellström B, Hjalmarsson C, et al. A comprehensive risk stratification at early follow-up
+determines prognosis in pulmonary arterial hypertension. Eur Heart J 2018; 39: 4175 – 4181.
+7 Hoeper MM, Kramer T, Pan Z, et al. Mortality in pulmonary arterial hypertension: prediction by the 2015
+European pulmonary hypertension guidelines risk stratification model. Eur Respir J 2017; 50: 1700740.
+8 Boucly A, Weatherald J, Savale L, et al. Risk assessment, prognosis and guideline implementation in pulmonary
+arterial hypertension. Eur Respir J 2017; 50: 1700889.
+9 Hoeper M, Pittrow D, Opitz C, et al. Risk assessment in pulmonary arterial hypertension. Eur Respir J 2018; 51:
+1702606.
+10 D’Alonzo GE, Barst RJ, Ayres SM, et al. Survival in patients with primary pulmonary hypertension. Results from a
+national prospective registry. Ann Intern Med 1991; 115: 343 – 349.
+11 Humbert M, Sitbon O, Chaouat A, et al. Survival in patients with idiopathic, familial, and anorexigen-associated
+pulmonary arterial hypertension in the modern management era. Circulation 2010; 122: 156 – 163.
+12 Humbert M, Sitbon O, Yaici A, et al. Survival in incident and prevalent cohorts of patients with pulmonary
+arterial hypertension. Eur Respir J 2010; 36: 549 – 555.
+13 Thenappan T, Shah SJ, Rich S, et al. Survival in pulmonary arterial hypertension: a reappraisal of the NIH risk
+stratification equation. Eur Respir J 2010; 35: 1079 – 1087.
+14 Thenappan T, Glassner C, Gomberg-Maitland M. Validation of the pulmonary hypertension connection equation
+for survival prediction in pulmonary arterial hypertension. Chest 2012; 141: 642 – 650.
+15 Lee W-TN, Ling Y, Sheares KK, et al. Predicting survival in pulmonary arterial hypertension in the UK.
+Eur Respir J 2012; 40: 604 – 611.
+16 Benza RL, Miller DP, Gomberg-Maitland M, et al. Predicting survival in pulmonary arterial hypertension: insights
+from the registry to evaluate early and long-term pulmonary arterial hypertension disease management
+(REVEAL). Circulation 2010; 122: 164 – 172.
+17 Benza RL, Gomberg-Maitland M, Miller DP, et al. The REVEAL registry risk score calculator in patients newly
+diagnosed with pulmonary arterial hypertension. Chest 2012; 141: 354 – 362.
+18 Benza RL, Miller DP, Foreman AJ, et al. Prognostic implications of serial risk score assessments in patients with
+pulmonary arterial hypertension: a Registry to Evaluate Early and Long-Term Pulmonary Arterial Hypertension
+Disease Management (REVEAL) analysis. J Heart Lung Transplant 2015; 34: 356 – 361.
+19 Benza RL, Gomberg-Maitland M, Elliott CG, et al. Comparison of three assessment strategies as predictors of
+one-year survival in US pulmonary arterial hypertension (PAH) patients. Am J Respir Crit Care Med 2018; 197:
+A7649.
+20 Kane GC, Maradit-Kremers H, Slusser JP, et al. Integration of clinical and hemodynamic parameters in the
+prediction of long-term survival in patients with pulmonary arterial hypertension. Chest 2011; 139: 1285 – 1293.
+21 Sitbon O, Benza RL, Badesch DB, et al. Validation of two predictive models for survival in pulmonary arterial
+hypertension. Eur Respir J 2015; 46: 152 – 164.
+22 Farber HW, Miller DP, Poms AD, et al. Five-year outcomes of patients enrolled in the REVEAL Registry. Chest
+2015; 148: 1043 – 1054.
+23 Frantz RP, Farber HW, Badesch DB, et al. Baseline and serial brain natriuretic peptide level predicts 5-year overall
+survival in patients with pulmonary arterial hypertension: data from the REVEAL Registry. Chest 2018; 154:
+126– 135.
+24 Chakinala MM, Coyne DW, Benza RL, et al. Impact of declining renal function on outcomes in pulmonary
+arterial hypertension: a REVEAL registry analysis. J Heart Lung Transplant
+2018; 37: 696 – 705.
+QT?e?`dK?a?caK?l?coK??M?d??????????
+2-year outcomes in patients with pulmonary arterial hypertension. Chest 2013; 144: 1521 – 1529.
+https://doi.org/10.1183/13993003.01889-2018 9
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p10]]
+26 Cogswell R, Pritzker M, De Marco T. Performance of the REVEAL pulmonary arterial hypertension prediction
+model using non-invasive and routinely measured parameters. J Heart Lung Transplant 2014; 33: 382 – 387.
+27 Galiè N, Jansa P, Pulido T, et al. SERAPHIN haemodynamic substudy: the effect of the dual endothelin receptor
+antagonist macitentan on haemodynamic parameters and NT-proBNP levels and their association with disease
+progression in patients with pulmonary arterial hypertension. Eur Heart J 2017; 38: 1147 – 1155.
+28 Dardi F, Palazzini M, Gotti E, et al. Simplified table for risk stratification in patients with different types of
+pulmonary arterial hypertension. 2018. https:/ /esc365.escardio.org/Congress/ESC-Congress-2018/Poster-Session-
+5-Right-heart-failure-in-pulmonary-hypertension/178843-simplified-table-for-risk-stratification-in-patients-with-
+different-types-of-pulmonary-arterial-hypertension#abstract Date last accessed: October 16, 2018.
+29 Weatherald J, Sitbon O, Humbert M. Validation of a risk assessment instrument for pulmonary arterial
+hypertension. Eur Heart J 2018; 38: 4182 – 4185.
+30 Rubin LJ, Mendoza J, Hood M, et al. Treatment of primary pulmonary hypertension with continuous intravenous
+prostacyclin (epoprostenol). Results of a randomized trial. Ann Intern Med 1990; 112: 485 – 491.
+31 Barst RJ, Rubin LJ, Long WA, et al. A comparison of continuous intravenous epoprostenol ( prostacyclin) with
+conventional therapy for primary pulmonary hypertension. The Primary Pulmonary Hypertension Study Group.
+N Engl J Med 1996; 334: 296 – 302.
+32 Badesch DB, Tapson VF, McGoon MD, et al. Continuous intravenous epoprostenol for pulmonary
+hypertension due to the scleroderma spectrum of disease. A randomized, controlled trial. Ann Intern Med 2000;
+132: 425– 434.
+33 Galiè N, Humbert M, Vachiéry JL, et al. Effects of beraprost sodium, an oral prostacyclin analogue, in patients
+with pulmonary arterial hypertension: a randomised, double-blind placebo-controlled trial. J Am Coll Cardiol
+2002; 39: 1496 – 1502.
+34 Barst RJ, McGoon M, McLaughlin VV, et al. Beraprost therapy for pulmonary arterial hypertension. J Am Coll
+Cardiol 2003; 41: 2125.
+35 Olschewski H, Simonneau G, Galiè N, et al. Inhaled iloprost in severe pulmonary hypertension. N Engl J Med
+2002; 347: 322 – 329.
+36 Channick RN, Simonneau G, Sitbon O, et al. Effects of the dual endothelin-receptor antagonist bosentan in
+patients with pulmonary hypertension: a randomised placebo-controlled study. Lancet 2001; 358: 1119 – 1123.
+RV?q?kiK?a?caK?a?qiK??M?a?????M?m?d?i?l?QOOQZ
+346: 896– 903.
+38 Simonneau G, Barst RJ, Galiè N, et al. Continuous subcutaneous infusion of treprostinil, a prostacyclin analogue,
+in patients with pulmonary arterial hypertension. A double-blind, randomized, placebo-controlled trial. Am J
+Respir Crit Care Med 2002; 165: 800 – 804.
+39 Langleben D, Christman BW, Barst RJ, et al. Effects of the thromboxane synthetase inhibitor and receptor
+antagonist terbogrel in patients with primary pulmonary hypertension. Am Heart J 2002; 143: E4.
+40 Sastry BKS, Narasimhan C, Reddy NK, et al. Clinical efficacy of sildenafil in primary pulmonary hypertension: a
+randomized, placebo-controlled, double-blind, crossover study. J Am Coll Cardiol 2004; 43: 1149 – 1153.
+41 Humbert M, Barst RJ, Robbins IM, et al. Combination of bosentan with epoprostenol in pulmonary arterial
+hypertension: BREATHE-2. Eur Respir J 2004; 24: 353 – 359.
+42 Barst RJ, Langleben D, Frost A, et al. Sitaxsentan therapy for pulmonary arterial hypertension. Am J Respir Crit
+Care Med 2004; 169: 441 – 447.
+43 Galiè N, Ghofrani HA, Torbicki A, et al. Sildenafil citrate therapy for pulmonary arterial hypertension. N Engl J
+Med 2005; 353: 2148 – 2157.
+44 Wilkins MR, Paul GA, Strange JW, et al. Sildenafil versus Endothelin Receptor Antagonist for Pulmonary
+Hypertension (SERAPH) study. Am J Respir Crit Care Med 2005; 171: 1292 – 1297.
+45 Hoeper M, Leuchte H, Halank M, et al. Combining inhaled iloprost with bosentan in patients with idiopathic
+pulmonary arterial hypertension. Eur Respir J 2006; 4: 691 – 694.
+46 McLaughlin VV, Oudiz RJ, Frost A, et al. Randomized study of adding inhaled iloprost to existing bosentan in
+pulmonary arterial hypertension. Am J Respir Crit Care Med 2006; 174: 1257 – 1263.
+47 Galiè N, Beghetti M, Gatzoulis MA, et al. Bosentan therapy in patients with Eisenmenger syndrome:
+a multicenter, double-blind, randomized, placebo-controlled study. Circulation 2006; 114: 48 – 54.
+48 Singh T, Rohit M, Grover A, et al. A randomized, placebo-controlled, double-blind, crossover study to evaluate the
+efficacy of oral sildenafil therapy in severe pulmonary artery hypertension. Am Heart J 2006; 151: 851.e1 – 851.e5.
+49 Barst RJ, Langleben D, Badesch D, et al. Treatment of pulmonary arterial hypertension with the selective
+endothelin-A receptor antagonist sitaxsentan. J Am Coll Cardiol 2006; 47: 2049 – 2056.
+50 Simonneau G, Rubin L, Galiè N, et al. Addition of sildenafil to long-term intravenous epoprostenol therapy in
+patients with pulmonary arterial hypertension. Ann Intern Med 2008; 149: 521 – 530.
+51 Galiè N, Olschewski H, Oudiz RJ, et al. Ambrisentan for the treatment of pulmonary arterial hypertension.
+Results of the ambrisentan in pulmonary arterial hypertension, randomized, double-blind, placebo-controlled,
+multicenter, efficacy (ARIES) study 1 and 2. Circulation 2008; 117: 3010 – 3019.
+52 Galiè N, Rubin LJ, Hoeper M, et al. Treatment of patients with mildly symptomatic pulmonary arterial
+hypertension with bosentan (EARLY study): a double-blind, randomised controlled trial. Lancet 2008; 371:
+2093– 2100.
+53 Galiè N, Brundage BH, Ghofrani HA, et al. Tadalafil therapy for pulmonary arterial hypertension. Circulation
+2009; 119: 2894 – 2903.
+54 Iversen K, Jensen AS, Jensen TV, et al. Combination therapy with bosentan and sildenafil in Eisenmenger
+syndrome: a randomized, placebo-controlled, double-blinded trial. Eur Heart J 2010; 31: 1124 – 1131.
+55 McLaughlin V, Rubin L, Benza RL, et al. Addition of inhaled treprostinil to oral therapy for pulmonary arterial
+hypertension: a randomized controlled clinical trial. J Am Coll Cardiol 2010; 55: 1915 – 1922.
+56 Ghofrani HA, Morrell NW, Hoeper MM, et al. Imatinib in pulmonary arterial hypertension patients with
+inadequate response to established therapy. Am J Respir Crit Care Med 2010; 182: 1171 – 1177.
+57 Tapson VF, Torres F, Kermeen F, et al. Oral treprostinil for the treatment of pulmonary arterial hypertension in
+patients on background endothelin receptor antagonist and/or phosphodiesterase type 5 inhibitor therapy (the
+FREEDOM-C study): a randomized controlled trial. Chest 2012; 142: 1383 – 1390.
+https://doi.org/10.1183/13993003.01889-2018 10
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.
+[[p11]]
+58 Simonneau G, Torbicki A, Hoeper MM, et al. Selexipag, an oral, selective prostacyclin receptor agonist for the
+treatment of pulmonary arterial hypertension. Eur Respir J 2012; 40: 874 – 880.
+59 Jing ZC, Yu ZX, Shen JY, et al. Vardenafil in pulmonary arterial hypertension: a randomized, double-blind,
+placebo-controlled study. Am J Respir Crit Care Med 2011; 183: 1723 – 1729.
+60 Pulido T, Adzerikho I, Channick RN, et al. Macitentan and morbidity and mortality in pulmonary arterial
+hypertension. N Engl J Med 2013; 369: 809 – 818.
+61 Ghofrani HA, Galiè N, Grimminger F, et al. Riociguat for the treatment of pulmonary arterial hypertension.
+N Engl J Med 2013; 369: 330 – 340.
+62 Galiè N, Muller K, Scalise A V, et al. PATENT PLUS: a blinded, randomised and extension study of riociguat plus
+sildenafil in PAH. Eur Respir J 2015; 45: 1314 – 1322.
+63 Hoeper MM, Barst RJ, Bourge RC, et al. Imatinib mesylate as add-on therapy for pulmonary arterial hypertension:
+results of the randomized IMPRES study. Circulation 2013; 127: 1128 – 1138.
+64 Zhuang Y, Jiang B, Gao H, et al. Randomized study of adding tadalafil to existing ambrisentan in pulmonary
+arterial hypertension. Hypertens Res 2014; 37: 507 – 512.
+65 Tapson VF, Jing ZC, Xu KF, et al. Oral treprostinil for the treatment of pulmonary arterial hypertension in
+patients on background endothelin receptor antagonist and/or phosphodiesterase type 5 inhibitor therapy (the
+FREEDOM-C2 study): a randomized controlled trial. Chest 2013; 144: 952 – 958.
+66 Jing ZC, Parikh K, Pulido T, et al. Efficacy and safety of oral treprostinil monotherapy for the treatment of
+pulmonary arterial hypertension: a randomized, controlled trial. Circulation 2013; 127: 624 – 633.
+67 Galiè N, Barbera JA, Frost AE, et al. Initial use of ambrisentan plus tadalafil in pulmonary arterial hypertension.
+N Engl J Med 2015; 373: 834 – 844.
+68 McLaughlin V, Channick RN, Ghofrani HA, et al. Bosentan added to sildenafil therapy in patients with
+pulmonary arterial hypertension. Eur Respir J 2015; 46: 405 – 413.
+69 Sitbon O, Channick R, Kelly C, et al. Selexipag for the treatment of pulmonary arterial hypertension.
+N Engl J
+Med 2015; 373: 2522 – 2533.
+70 Galiè N, Palazzini M, Manes A. Pulmonary arterial hypertension: from the kingdom of the near-dead to multiple
+clinical trial meta-analyses. Eur Heart J 2010; 31: 2080 – 2086.
+71 McLaughlin VV, Badesch DB, Delcroix M, et al. End points and clinical trial design in pulmonary arterial
+hypertension. J Am Coll Cardiol 2009; 54: 1 Suppl., S97 – S107.
+72 Fleming TR. Surrogate endpoints and FDA accelerated approval process. Health Aff 2005; 24: 67 – 78.
+73 Fleming TR, Powers JH. Biomarkers and surrogate endpoints in clinical trials. Statist Med 2012; 31: 2973 – 2984.
+74 Galiè N, Manes A, Negro L, et al. A meta-analysis of randomized controlled trials in pulmonary arterial
+hypertension. Eur Heart J 2009; 30: 394 – 403.
+VT?k?`bK?k?fK?k?ibK??M?b??????
+hypertension: a meta-analysis. Lancet Respir Med 2015; 4: 291 – 305.
+76 Hassoun PM, Zamanian RT, Damico R, et al. Ambrisentan and tadalafil up-front combination therapy in
+scleroderma-associated pulmonary arterial hypertension. Am J Respir Crit Care Med 2015; 192: 1102 – 1110.
+77 Ehlken N, Lichtblau M, Klose H, et al. Exercise training improves peak oxygen consumption and hemodynamics
+in patients with severe pulmonary arterial hypertension and inoperable chronic thromboembolic pulmonary
+hypertension – a prospective, randomized, controlled trial. Eur Heart J 2015; 37: 35 – 44.
+78 Keusch S, Turk A, Saxer S, et al. Rehabilitation in patients with pulmonary arterial hypertension. Swiss Med Wkly
+2017; 147: w14462.
+79 Simonneau G, Montani D, Celermajer DS, et al. Haemodynamic definitions and updated clinical classification of
+pulmonary hypertension. Eur Respir J 2019; 53: 1801913.
+80 Galiè N, Barbera JA, Frost A, et al. AMBITION: a randomised, multicenter study of first-line ambrisentan and
+tadalafil combination therapy in subjects with pulmonary arterial hypertension (PAH). Eur Respir J 2014; 44:
+2916.
+81 Sitbon O, Sattler C, Bertoletti L, et al. Initial dual oral combination therapy in pulmonary arterial hypertension.
+Eur Respir J 2016; 47: 1727 – 1736.
+82
+Galiè N, Corris P, Frost A, et al. Updated treatment algorithm of pulmonary hypertension. J Am Coll Cardiol
+2013; 62: D60 – D72.
+83 Hoeper MM, Benza RL, Corris P, et al. Intensive care, right ventricular support and lung transplantation in
+patients with pulmonary hypertension. Eur Respir J 2019; 53: 1801906.
+84 Sofer A, Ryan MJ, Tedford RJ, et al. A systematic review of transition studies of pulmonary arterial hypertension
+specific medications. Pulm Circ 2017; 7: 326 – 338.
+85 McGoon M, Frost A, Oudiz R, et al. Ambrisentan therapy in patients with pulmonary arterial hypertension who
+discontinued bosentan or sitaxsentan due to liver function test abnormalities. Chest 2009; 135: 122 – 129.
+86 Hoeper MM, Simonneau G, Corris PA, et al. RESPITE: switching to riociguat in pulmonary arterial hypertension
+patients with inadequate response to phosphodiesterase-5 inhibitors. Eur Respir J 2017; 50: 1602425.
+87 McLaughlin VV, Hoeper MM, Channick RN, et al. Pulmonary arterial hypertension-related morbidity is
+prognostic for mortality. J Am Coll Cardiol 2018; 71: 752 – 763.
+88 Galiè N, Saia F, Palazzini M, et al. Left main coronary artery compression in patients with pulmonary arterial
+hypertension and angina. J Am Coll Cardiol 2017; 69: 2808 – 2817.
+https://doi.org/10.1183/13993003.01889-2018 11
+WORLD SYMPOSIUM ON PULMONARY HYPERTENSION | N. GALIÈ ET AL.

@@ -1,0 +1,830 @@
+
+[[p1]]
+Rev. Cardiovasc. Med. 2024; 25(10): 350
+https://doi.org/10.31083/j.rcm2510350
+Copyright: © 2024 The Author(s). Published by IMR Press.
+This is an open access article under the CC BY 4.0 license .
+Publisher’s Note: IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Review
+Surgical Treatment of Atrial Septal Defects
+Philippe Grieshaber1,*, Christoph Jaschinski 1, Mina Farag 1, Elizabeth Fonseca-Escalante 1,
+Matthias Gorenflo2, Matthias Karck 3, Tsvetomir Loukanov1
+1Division of Congenital Cardiac Surgery, Department of Cardiac Surgery, University Hospital Heidelberg, 69120 Heidelberg, Germany
+2Department of Pediatric Cardiology and Congenital Heart Disease, University Hospital Heidelberg, 69120 Heidelberg, Germany
+3Department of Cardiac Surgery, University Hospital Heidelberg, 69120 Heidelberg, Germany
+*Correspondence: philgrie@gmail.com (Philippe Grieshaber)
+Academic Editors: Donald J. Hagler and Zhonghua Sun
+Submitted: 26 November 2023 Revised: 2 June 2024 Accepted: 7 June 2024 Published: 29 September 2024
+Abstract
+Atrial septal defects (ASDs) are among the most prevalent congenital cardiac malformations. Closure of the defect and repair of associated
+cardiac malformations are typically indicated if an ASD is hemodynamically significant or symptomatic. This narrative review aims to
+summarize key aspects of surgical ASD closures. A non-systematic literature review was conducted to cover surgically relevant aspects of
+(developmental) anatomy, morphology, and treatment. ASDs result from diverse developmental alterations, leading to subtype-specific
+associated cardiac malformations, meaning surgical therapy varies accordingly. Presently, surgical repair yields excellent outcomes for all
+ASD subtypes, with minimally invasive approaches, especially in adults, increasingly employed for ASD closure. Surgical ASD repair
+is safe with excellent results. However, familiarity with ASD subtypes and typically associated lesions is crucial for optimal patient
+management.
+Keywords: atrial septal defect; surgery; congenital heart disease; operative technique
+PM?h
+Atrial septal defects (ASDs), defined as communica-
+tions between the two atria of the heart, can occur alone or
+in conjunction with other congenital malformations. ASDs
+rank as the second-most common congenital cardiac mal-
+formation, occurring in 1.65/1000 live births and consti-
+tuting 10 to 15% of all congenital cardiac malformations
+[1]. ASDs encompass various lesions with different em-
+bryological origins [ 2]. Meanwhile, these differences im-
+pact the decision-making regarding treatment indications
+and modalities and are reviewed in the following section.
+Pathophysiologically, ASDs in an otherwise normal four-
+chambered heart can lead to a shunt on the atrial level be-
+tween the left atrium that receives the pulmonary venous re-
+turn and the right atrium that receives the systemic venous
+return. The shunt volume is determined by the morphology
+and size of the ASD, by the pressure difference between the
+left and right atria resulting from right ventricular compli-
+ance and pulmonary vascular resistance (PVR). The shunt is
+usually directed from the left to the right atrium, resulting in
+a volume load of the right heart (left-to-right shunt). Con-
+trarily to ventricular septal defects, ASDs do not impose
+pressure load on the right ventricle [3]. The shunt volume is
+usually described as the ratio of pulmonary blood flow (Qp)
+and systemic blood flow (Q s), with a Q p/Qsof more than
+1.5 considered hemodynamically relevant in children and
+adults with ASD [4–6]. Symptoms are variable and usually
+less pronounced compared with other shunt lesions. Con-
+secutively, ASDs are detected at a wide variety of ages, with
+symptoms typically resulting from pulmonary overcircula-
+tion and right heart failure (intolerance to exercise, failure
+to thrive) or (particularly in adults) from thromboembolic
+events caused by paradoxical embolism [ 7]. The natural
+history of untreated ASD, known from historical data, is as-
+sociated with right heart failure and an increased annualized
+mortality risk beginning from young adulthood, resulting
+in a markedly reduced median life expectancy. However,
+given the variable clinical courses, some patients remain
+symptom-free until advanced adulthood [ 8,9]. A landmark
+paper by Murphy et al. [ 10] showed that the life expectancy
+of ASD patients remains normal if surgical treatment is un-
+dertaken before the age of 25. Contrarily, if treated at an
+older age, patients exhibit increased mortality rates com-
+pared to the average population [ 10]. Therefore, surgical
+closure of ASDs has become universally accepted as the
+treatment of choice for patients with hemodynamically rele-
+vant ASD or symptoms related to ASD. Additionally, inter-
+ventional closure techniques using closure devices have ex-
+ceptionally evolved, offering now valid therapeutical strate-
+gies for certain ASD subtypes [ 11–13]. This review aims
+to focus on the surgical treatment of ASD, summarizing the
+current state of surgical techniques for different ASD sub-
+types and the choice of the surgical approach. Furthermore,
+the results, complications, and impact on the prognosis of
+surgical ASD treatment are discussed.
+2. Materials and Methods
+A narrative, non-systematic review was conducted,
+defining subjects to be covered in advance. Literature
+searches were performed in PubMed using appropriate
+[[p2]]
+search and MeSH (Medical Subject Headings) terms. Addi-
+tionally, potentially relevant literature not listed in PubMed
+was extracted from Google Scholar. The search was con-
+ducted without time limits, and the following search terms
+were used in various combinations: ‘atrial septal defect’,
+‘ASD’, ‘surgical treatment’, ‘embryology’, ‘anatomy’, and
+‘morphology’. Original works, case reports, case series,
+and reviews were considered eligible literature sources for
+this review.
+3. Results
+3.1 Developmental Anatomy of the Interatrial Septum and
+ASD Subtypes
+A comprehensive understanding of the term ‘ASD’
+goes beyond the notion of a simple hole in the interatrial
+septum. A deeper understanding of the anatomy of the in-
+teratrial septum, the resulting subtypes of ASD, and partic-
+ularly the typically associated subtype-specific malforma-
+tions, is crucial for developing tailored surgical treatment
+strategies and ensuring patient safety.
+The relevant processes of the formation of the atria and
+the interatrial septum occur between the fourth and sixth
+weeks of gestation. After simplifying these complex pro-
+cesses for this review, three significant aspects emerged:
+Firstly, a common atrium forms from the inlet portion
+of the heart tube around the fourth week of gestation. This
+atrium receives blood from two venous channels, which de-
+velop into the two horns of the sinus venosus. Eventually,
+this sinus venosus then septates into the coronary sinus and
+the two venae cavae. An additional venous channel will
+connect posteriorly to the sinus venosus, forming the pul-
+monary veins. These veins then migrate left alongside the
+posterior wall of the sinus venosus. Disruptions in the sep-
+tation of the evolving coronary sinus from the atrium will
+result in a communication between the coronary sinus and
+the left atrium, namely a coronary sinus ASD. These rare
+defects account for less than 1% of all ASDs [ 14].
+Anomalies in the leftward migration of the pulmonary
+veins will result in an abnormally right-sided and anterior
+position of the right pulmonary veins. This anterior posi-
+tion can lead to a loss of septation between the coronary si-
+nus and, in most cases, the upper cavoatrial junctions. This
+leads to superior sinus venosus ASD, which represents 4 to
+11% of all ASDs, whereas inferior sinus venosus ASD is
+much rarer, accounting for less than 1% of all ASDs [ 15].
+Secondly, the common atrium undergoes septation
+into the left and right atria. A septum primum grows from
+the atrial roof towards the endocardial cushions, forming
+the atrioventricular (A V) junction. The space between the
+growing septum primum and the A V junction is the ostium
+primum, which is gradually obliterated as the septum pri-
+mum grows. To facilitate blood flow into the left heart,
+the septum primum perforates subsequently in its cranial
+aspect, forming the ostium secundum. Concurrently, an in-
+ward fold in the atrial roof to the right of the septum primum
+develops. This fold (septum secundum) overlaps with the
+ostium secundum, creating a flap valve and enabling right-
+to-left-shunting. The caudal end of the septum secundum
+forms the limbus of the fossa ovalis. The region caudal
+to the limbus is called the fossa ovalis. Postnatally, as the
+pressure in the left atrium exceeds the right atrial pressure,
+the septum primum is pressed against the septum secun-
+dum, and the flap valve closes. Subsequently, the tissue
+of the septum primum and the septum secundum merge. If
+the septum secundum insufficiently overlaps the ostium se-
+cundum, a tissue defect in the septum primum at the fossa
+ovalis, the secundum ASD, will remain. Secundum ASDs
+are the most common ASD subtype and constitute about
+75% of all ASDs [ 16]. If there is no tissue deficiency but
+a lack of flap valve–tissue merging, a patent foramen ovale
+GoenH??;?oen????QT??ROD
+of the general population [ 17].
+Thirdly, the A V canal undergoes septation into left-
+and right-sided A V valves through ingrowth and fusion of a
+superior and an inferior endocardial cushion. Additionally,
+two lateral endocardial cushions grow towards the center of
+the A V canal, contributing to the A V valve formation [18].
+The septum primum joins the crest formed by the fused in-
+ferior and superior endocardial cushions, leading to the clo-
+sure of the atrial septum at this site. If this fusion is incom-
+plete, i.e., the foramen primum remains patent, a primum
+ASD is formed [ 19], which accounts for about 10% of all
+ASDs [20].
+3.2 Indications for Surgical ASD Therapy
+Closure of an ASD may be warranted for several rea-
+sons: hemodynamic relevance of the shunt (Q p/Qs >1.5,
+echocardiographic signs of right heart volume overload),
+presence of heart failure symptoms related to the ASD (or
+its associated lesions), or the occurrence of paradoxical
+embolism. In cases where PVR is elevated, the risk of
+right heart failure after ASD closure needs consideration.
+A PVR exceeding 8 Wood units × m2 without vasoreagi-
+bility is a contra-indication for ASD closure. In less pro-
+nounced cases, a fenestrated ASD closure combined with
+medical pulmonary hypertension treatment may be an op-
+tion [21,22].
+In recent years, interventional treatment options have
+grown safer and more effective, meaning that for a subset of
+ASDs (namely PFOs and secumdum ASDs), interventional
+closure has become an accepted alternative to surgical treat-
+ment for eligible patients [ 23]. Transcatheter closure of si-
+nus venosus ASDs using covered stents has been reported to
+be feasible; however, it is still associated with high rates of
+major complications, such as stent embolization and caval
+vein occlusion [24].
+3.3 Timing of Surgery
+In children, ASD closure is typically scheduled elec-
+tively. Spontaneous closure of the ASD, mostly seen in
+2
+
+[[p3]]
+small secundum defects or PFOs, is unlikely beyond three
+years [ 25]. Therefore, surgical ASD closure in asymp-
+tomatic children is often performed conveniently between
+the ages of three and school age. However, intolerance to
+exercise or large shunt volumes with severe right heart en-
+largement might warrant earlier closure. Infants present-
+ing with severe heart failure symptoms alongside an iso-
+lated ASD should prompt suspicion of additional underly-
+ing conditions. In adults, unnecessarily delaying ASD clo-
+sure should be avoided, as this might decrease the likeli-
+hood of normalizing right heart function, increase the risk
+of arrhythmias, and also potentially reduce life expectancy
+[10,26,27].
+3.4 Specific Considerations and Surgical Results for ASD
+Subtypes
+3.4.1 General Considerations
+For all ASD subtypes, a thorough echocardiographic
+evaluation should be conducted both preoperatively and in-
+traoperatively to rule out the presence of more than one le-
+sion in the atrial septum (such as an additional sinus venosus
+ASD in a patient scheduled for PFO closure) [ 28]. Surgical
+ASD closure necessitates the use of cardiopulmonary by-
+pass with bicaval canulation to obtain a bloodless operative
+field. During intracardiac correction, primarily performed
+via a right atriotomy, it is crucial to avoid air embolism
+into the ascending aorta. While some surgeons consider
+induced ventricular fibrillation adequate for the relatively
+brief period of intracardiac surgery, we advocate for the
+safer approach of aortic clamping and cardioplegia applica-
+tion. Upon opening the right atrium, meticulous anatomical
+inspection is imperative to exclude concomitant ASDs and
+anomalously returning pulmonary veins. Furthermore, it is
+essential to accurately locate the coronary sinus, the triangle
+of Koch, and the openings of the superior and inferior ve-
+nae cavae. Following correction, residual shunts should be
+excluded using echocardiography with or without the V al-
+salva maneuver and bubble testing [ 29].
+3.4.2 Secundum ASD, PFO
+Surgical closure of a PFO as an isolated lesion has be-
+come exceedingly rare due to the advancements in interven-
+tional PFO closure [ 30]. Larger secundum ASDs are fre-
+quently not suitable for percutaneous closure and are thus
+referred for surgical correction. Intraoperatively, the ini-
+tial inspection should determine the size of the defect. The
+border zone between the limbus of the fossa ovalis and the
+septum primum should be carefully inspected for additional
+fenestrations. If multiple fenestrations are identified, re-
+sectioning the septum primum tissue may be reasonable.
+Moreover, the inferior border of the ASD should be well-
+defined. A decision must be made regarding whether to
+close the ASD with or without patch material. Notably, a
+PFO can frequently be closed with direct continuous or in-
+terrupted sutures, obviating the need for patch material [31].
+However, for larger secundum ASDs, utilizing patch mate-
+rial (e.g., autologous pericardium fixed in formaldehyde or
+xenogeneic patch material) offers a safe means of prevent-
+ing tears and residual defects [32]. The patch is typically se-
+cured to the ASD borders using continuous non-resorbable
+sutures. Our group previously described the operative tech-
+nique in a video tutorial [ 33].
+Contemporary studies on surgical closure of secun-
+dum ASD report low perioperative mortality rates of 0 to
+0.3% [ 34,35]. However, preoperative severe tricuspid re-
+gurgitation and severe right heart dysfunction appear to di-
+minish long-term survival. Postoperatively, pericardial ef-
+fusions develop in about 10 to 15% of patients within up to
+two months after surgery, underscoring the need for regular
+echocardiographic monitoring [36].
+3.4.3 Primum ASD
+Primum ASD represents an endocardial cushion de-
+fect and, therefore, is often accompanied by additional le-
+sions. A cleft in the left A V valve between the inferior and
+superior bridging leaflet is present in 100% of cases. Ad-
+ditional left-sided malformations, such as single papillary
+muscle or left-ventricular outflow tract (LVOT) obstruc-
+tion, are present in approximately 10% of cases [ 37]. The
+A V valves can be separated (with two distinct valve annuli)
+or configured as a common valve. In the latter scenario,
+the A V node is displaced posteriorly and lies between the
+coronary sinus and the inferior border of the A V valve—
+surgical correction aims to close the defect and repair the
+left A V valve. Closure of the ASD with a patch follows
+a similar approach to that described for secundum ASD.
+However, one has to consider that the sutures of the cau-
+dal border of the ASD are placed directly at the A V valve
+plane. Depending on the presence of a small rim in this re-
+gion and the tissue quality, the patch can be affixed using
+continuous sutures with superficial stitches or interrupted
+sutures placed from the right ventricular side through the
+A V valve plane and the patch [ 20,37,38]. Different tech-
+niques exist in the A V node region to prevent A V block [39].
+While some surgeons avoid this region entirely by suturing
+the patch around the coronary sinus and allowing the coro-
+nary sinus to drain to the left-atrial side, we believe the risk
+of A V block can be sufficiently mitigated by placing stitches
+superficially in this region and staying close to the A V valve
+annulus.
+While perioperative mortality rates after primum ASD
+repair are low, a notable risk for re-operations primar-
+ily arises from left A V valve dysfunction. Indeed, re-
+operations between 5 and 15% have previously been re-
+ported [ 40–42]. Another cause to re-do surgery in these
+patients is the development of LVOT obstruction due to the
+anatomically frequently narrow and long LVOT, with addi-
+tional fibrous obstruction developing over time [ 43–45].
+3
+[[p4]]
+3.4.4 Upper and Lower Sinus V enosus ASD
+The upper sinus venosus defect is usually located near
+the upper cavo-atrial junction. The right upper pulmonary
+veins may either drain into the region of the ASD in the
+left atrium (functional partial anomalous pulmonary vein
+return (PAPVR)) or drain directly into the right atrium or
+the superior vena cava (anatomical PAPVR). Preoperative
+diagnostics should identify the presence of PAPVR and the
+anatomical locations of anomalously returning pulmonary
+veins. Surgical correction aims to close the ASD and redi-
+rect pulmonary venous return to the left atrium. Therefore,
+the patch used for ASD closure is implanted to retain the
+pulmonary veins on the left atrial side of the patch. The
+higher the pulmonary veins return to the superior vena cava
+(SVC), the longer this tunnel must be. A common problem
+with tunneling PAPVR to the SVC is obstruction of either
+the pulmonary venous tunnel or the SVC. To prevent SVC
+stenosis, a second patch can be used to augment the cavoa-
+trial junction and the SVC (two-patch technique) [ 46,47].
+However, this technique, which involves an incision in the
+cavoatrial junction, has been associated with higher rates of
+postoperative sinus node dysfunction than the single-patch
+technique [48–50]. The Warden procedure is a technique to
+correct particularly remote PAPVR into the SVC [51]. This
+technique divides the SVC cranially into the uppermost pul-
+monary vein and closes the stump. The ASD patch is su-
+tured so the anomalous pulmonary vein completely drains
+to the left atrium, and the cranial stump of the SVC is anas-
+tomosed to the right atrial appendage. While this technique
+avoids incisions in the cavoatrial junction, it might be as-
+sociated with higher rates of SVC obstructions, particu-
+larly in the region of the cavoatrial anastomosis. A wide
+and tension-free anastomosis should be fashioned to pre-
+vent this after carefully removing all trabeculations inside
+the right atrial appendage [ 52–55]. In adults, modifications
+of the Warden technique using interposition grafts between
+the SVC and the right atrium have been described [ 56–58].
+Lower sinus venosus defects are rare, often near the in-
+ferior cavoatrial junction. The right lower pulmonary veins
+can frequently connect to the right atrium or even the in-
+ferior vena cava (IVC) in this area. Surgical correction
+follows the same principles described for the upper sinus
+venosus defects, aiming to close the ASD while re-routing
+the pulmonary venous return to the left atrium. To facilitate
+the exposure of the ASD and the pulmonary veins, the IVC
+should be cannulated as far caudally as possible. In larger
+patients, a femoral venous cannula may enhance exposure.
+The perioperative mortality is similarly low to that de-
+scribed for other ASD subtypes. The main long-term issues
+result from sinus node dysfunction and stenoses of the SVC
+and pulmonary venous baffles. The Warden procedure has
+been described as reducing sinus node dysfunction com-
+pared with the two-patch technique [ 48,59]. Meanwhile,
+SVC obstruction after the Warden procedure has been de-
+scribed to occur in 2 to 5% of patients [ 60,61].
+3.4.5 Coronary Sinus ASD
+In this exceedingly rare ASD subtype, there is a tissue
+deficiency between the coronary sinus and the left atrium. It
+is also referred to as ‘unroofed coronary sinus’. The extent
+of this deficiency can vary from one or more small defects
+to a complete absence of a roof over the coronary sinus.
+The lesion is frequently associated with a persisting left-
+sided superior vena cava (LSVC), which typically drains
+into the unroofed coronary sinus or, if the deficiency ex-
+tends over the entire coronary sinus, into the left atrial roof.
+V arious surgical approaches exist to correct this lesion, aim-
+ing to eliminate the interatrial communication and re-route
+the LSVC to the right atrium [ 62]. In this regard, a roof
+of the coronary sinus, which also tunnels the LSVC via the
+coronary sinus to the right atrium, is constructed [63]. If this
+approach is used, care must be taken to avoid compromis-
+ing the pulmonary venous return or the mitral valve inflow.
+If a neo-roof of the coronary sinus cannot be constructed
+with reasonable risk, the opening of the coronary sinus to
+the right atrium can be closed with a patch, while the LSVC
+is transected and anastomosed to the right atrial appendage,
+either directly or with an interposition graft. This leaves the
+coronary sinus draining into the left atrium, which usually
+does not cause detectable desaturation.
+Long-term data on outcomes for this rare ASD sub-
+type are limited. However, current case reports and small
+series suggest favorable long-term results following surgi-
+cal repair [64,65].
+3.4.6 Surgical Correction after Previous Percutaneous
+ASD Closure
+In certain cases, surgical ASD closure may be neces-
+sary following previous percutaneous device closure. In-
+dications for this approach include device endocarditis, de-
+vice malposition, incomplete device closure, and the pres-
+ence of an additional, frequent superior sinus venosus de-
+fect, which has not been detected before the device clo-
+sure of the concomitant PFO [ 66]. If device endocarditis is
+present, the device should be completely explanted during
+surgery, and the resulting defect should preferably be closed
+with an autologous patch [ 67,68]. In the other previously
+mentioned scenarios, the grade of device ingrowth and the
+associated risks of device explanation determine whether
+the device is left in place while closing the additional shunt.
+A more far-reaching indication for surgery arises from
+the perforation of a closure device, which can affect the
+aortic root or the atrial roof [ 69]. The resulting hemoperi-
+cardium frequently leads to rapid circulatory deterioration.
+If the patients reach the hospital, emergent sternotomy and
+connection to the heart–lung machine are undertaken to sta-
+bilize the patient. Following induction of cardioplegic ar-
+rest, the situation can be assessed. The surgical correc-
+tion should include explantation of the device and perfo-
+ration repair. This can be achieved by reconstructing the
+4
+
+[[p5]]
+atrial roof and the interatrial septum with patches or, in the
+case of aortic root perforation, by an aortic root replacement
+[70,71].
+3.5 Surgical Access
+While conventional access for surgical ASD closure
+has been a standard median sternotomy, different alternative
+access routes have recently been suggested that aim at being
+minimally invasive and reducing surgical trauma.
+These alternative approaches include lower hemi-
+sternotomy, right lateral thoracotomy, and, particularly for
+larger patients, totally endoscopic approaches via right lat-
+eral mini-thoracotomy. For right lateral thoracotomy, both
+horizontal (parallel to the ribs) and vertical (craniocaudal)
+skin incisions have been described. The vertical skin inci-
+sions appear to provide a better exposure of the situs than
+the horizontal approach [ 72–76]. Generally, in minimally
+invasive approaches, the surgeon must decide whether cen-
+tral cannulation or peripheral cannulation is preferred. Pe-
+ripheral cannulation offers greater access to the surgical
+field. However, the risk of ischemic complications after
+femoral cannulation needs to be considered, especially for
+smaller patients and longer cardiopulmonary bypass dura-
+tions.
+For adults, the totally endoscopic approach presents
+an elegant solution. Cardiopulmonary bypass is established
+via the groin vessels. An additional venous cannula in the
+SVC inserted via the internal jugular vein offers, from our
+experience, a comfortable way to conduct total bypass with-
+out interfering with the operative situs. Results of totally
+endoscopic ASD closure, primarily in secundum ASDs,
+show that the cardiopulmonary bypass and cardioplegic ar-
+rest times are longer than with the median sternotomy ap-
+proach. However, the total duration of surgery does not ap-
+pear substantially longer, and recovery times may even be
+shorter than after conventional ASD closure [ 77–80].
+From our perspective, each program should define its
+preferred pathway to achieve the best possible surgical re-
+sults, prioritizing maximal patient safety. If minimally in-
+vasive approaches do not compromise these aspects, they
+should be considered equivalent or even superior (owing
+to cosmetic advantages, the avoidance of sternotomy, and
+possibly accelerated recovery) to the standard approach via
+a median sternotomy. To enhance process safety, minimiz-
+ing inter-surgeon variability within a program is crucial.
+4. Discussion
+This non-systematic review narrative aims to provide
+an overview of the relevant points surgeons should be fa-
+miliar with when treating patients with different ASD sub-
+types. As demonstrated, ASDs encompass a wide spectrum
+of defect morphologies and subtypes. While the majority
+of ASDs consist of secundum ASDs and PFOs, other sub-
+types pose specific morphological particularities and asso-
+ciated malformations. Thus, surgeons must know these nu-
+ances to address these challenges effectively. Additionally,
+this underscores the importance of precise preoperative di-
+agnostics and multidisciplinary planning of the appropriate
+approach within a dedicated heart team with expertise in
+treating congenital heart defects.
+5. Conclusions
+Surgical treatment of ASD is safe and effective, with
+low rates of severe complications and good predictability
+and reproducibility of results. It is key for the treating sur-
+geon to be familiar with the different anatomical atrial sep-
+tal defect subtypes and the typically associated lesions to
+treat the patient with maximized safety. The surgical treat-
+ment of ASD generally allows for normalization of cardiac
+function and life expectancy.
+Author Contributions
+PG, CJ, MF, EFE, MG, MK and TL designed the con-
+cept of the manuscript, PG wrote the manuscript, CJ and
+TL helped to write the manuscript. All authors reviewed
+and contributed to editorial changes in the manuscript. All
+authors read and approved the final manuscript. All authors
+have participated sufficiently in the work and agreed to be
+accountable for all aspects of the work.
+Ethics Approval and Consent to Participate
+Not applicable.
+Acknowledgment
+Thanks to Barbara Fritz-Rodszies for her support in
+editorial work.
+Funding
+This research received no external funding.
+Conflict of Interest
+The authors declare no conflict of interest.
+References
+[1] van der Linde D, Konings EEM, Slager MA, Witsenburg M, Hel-
+bing W A, Takkenberg JJM,et al. Birth prevalence of congenital
+heart disease worldwide: a systematic review and meta-analysis.
+Journal of the American College of Cardiology. 2011; 58: 2241–
+2247.
+[2] Briggs LE, Kakarla J, Wessels A. The pathogenesis of atrial and
+atrioventricular septal defects with special emphasis on the role
+of the dorsal mesenchymal protrusion. Differentiation; Research
+in Biological Diversity. 2012; 84: 117–130.
+[3] Le Gloan L, Legendre A, Iserin L, Ladouceur M. Pathophysiol-
+ogy and natural history of atrial septal defect. Journal of Tho-
+racic Disease. 2018; 10: S2854–S2863.
+[4] Baumgartner H, De Backer J, Babu-Narayan SV , Budts W,
+Chessa M, Diller GP , et al . 2020 ESC Guidelines for the man-
+agement of adult congenital heart disease: The Task Force for
+the management of adult congenital heart disease of the Euro-
+pean Society of Cardiology (ESC). Endorsed by: Association for
+European Paediatric and Congenital Cardiology (AEPC), Inter-
+5
+[[p6]]
+national Society for Adult Congenital Heart Disease (ISACHD).
+European Heart Journal. 2021; 42: 563–645.
+[5] Egidy Assenza G, Krieger EV , Baumgartner H, Cupido B, Di-
+mopoulos K, Louis C, et al. AHA/ACC vs ESC Guidelines for
+Management of Adults With Congenital Heart Disease: JACC
+Guideline Comparison. Journal of the American College of Car-
+diology. 2021; 78: 1904–1918.
+[6] Driscoll D, Allen HD, Atkins DL, Brenner J, Dunnigan A,
+Franklin W, et al. Guidelines for evaluation and management of
+common congenital cardiac problems in infants, children, and
+adolescents. A statement for healthcare professionals from the
+Committee on Congenital Cardiac Defects of the Council on
+Cardiovascular Disease in the Y oung, American Heart Associa-
+tion. Circulation. 1994; 90: 2180–2188.
+[7] Farjat-Pasos JI, Chamorro A, Lanthier S, Robichaud M, Mengi
+S, Houde C, et al. Cerebrovascular Events in Older Patients With
+Patent Foramen Ovale: Current Status and Future Perspectives.
+Journal of Stroke. 2023; 25: 338–349.
+[8] Campbell M. Natural history of atrial septal defect. British Heart
+Journal. 1970; 32: 820–826.
+[9] Doty DB, Wright CB, Hiratzka LF, Eastham CL, Marcus ML.
+Coronary reserve in volume-induced right ventricular hypertro-
+phy from atrial septal defect. The American Journal of Cardiol-
+ogy. 1984; 54: 1059–1063.
+[10] Murphy JG, Gersh BJ, McGoon MD, Mair DD, Porter CJ, Ilstrup
+DM, et al . Long-term outcome after surgical repair of isolated
+atrial septal defect. Follow-up at 27 to 32 years. The New Eng-
+land Journal of Medicine. 1990; 323: 1645–1650.
+[11] Goh E, Mohammed H, Salmasi MY , Ho S, Benedetto U, Ca-
+puto M, et al . Minimally invasive versus transcatheter closure
+of secundum atrial septal defects: a systematic review and meta-
+analysis. Perfusion. 2022; 37: 700–710.
+[12] Baroutidou A, Arvanitaki A, Farmakis IT, Patsiou V , Gi-
+annopoulos A, Efthimiadis G, et al . Transcatheter closure of
+atrial septal defect in the elderly: a systematic review and meta-
+analysis. Heart (British Cardiac Society). 2023; 109: 1741–
+1750.
+[13] Chambault AL, Olsen K, Brown LJ, Mellor SL, Sorathia N,
+Thomas AE, et al. Transcatheter versus surgical closure of atrial
+septal defects: a systematic review and meta-analysis of clinical
+outcomes. Cardiology in the Y oung. 2022; 32: 1–9.
+[14] Babapoor-Farrokhran S, Kalla A, Bozorgnia B, Amanullah A.
+Wide unroofed coronary sinus and cryptogenic stroke: a case
+report. European Heart Journal. Case Reports. 2020; 4: 1–6.
+[15] Attenhofer Jost CH, Connolly HM, Danielson GK, Bailey KR,
+Schaff HV , Shen WK, et al . Sinus venosus atrial septal defect:
+long-term postoperative outcome for 115 patients. Circulation.
+2005; 112: 1953–1958.
+[16] Kuijpers JM, Mulder BJM, Bouma BJ. Secundum atrial septal
+defect in adults: a practical review and recent developments.
+Netherlands Heart Journal: Monthly Journal of the Netherlands
+Society of Cardiology and the Netherlands Heart Foundation.
+2015; 23: 205–211.
+[17] Koutroulou I, Tsivgoulis G, Tsalikakis D, Karacostas D, Grigo-
+riadis N, Karapanayiotides T. Epidemiology of Patent Foramen
+Ovale in General Population and in Stroke Patients: A Narrative
+Review. Frontiers in Neurology. 2020; 11: 281.
+[18] Person AD, Klewer SE, Runyan RB. Cell biology of cardiac
+cushion development. International Review of Cytology. 2005;
+243: 287–335.
+[19] Naqvi N, McCarthy KP , Ho SY . Anatomy of the atrial septum
+and interatrial communications. Journal of Thoracic Disease.
+2018; 10: S2837–S2847.
+[20] Losay J, Rosenthal A, Castaneda AR, Bernhard WH, Nadas
+AS. Repair of atrial septal defect primum. Results, course, and
+prognosis. The Journal of Thoracic and Cardiovascular Surgery.
+1978; 75: 248–254.
+[21] Fraisse A, Latchman M, Sharma SR, Bayburt S, Amedro P ,
+di Salvo G, et al . Atrial septal defect closure: indications
+and contra-indications. Journal of Thoracic Disease. 2018; 10:
+S2874–S2881.
+[22] Gorenflo M, Ziesenitz VC. Treatment of pulmonary arterial hy-
+pertension in children. Cardiovascular Diagnosis and Therapy.
+2021; 11: 1144–1159.
+[23] Guidelines for the Management of Congenital Heart Diseases in
+Childhood and Adolescence. Cardiology in the Y oung. 2017; 27:
+S1–S105.
+[24] Rosenthal E, Qureshi SA, Jones M, Butera G, Sivakumar K,
+Boudjemline Y , et al . Correction of sinus venosus atrial septal
+defects with the 10 zig covered Cheatham-platinum stent - An
+international registry. Catheterization and Cardiovascular Inter-
+ventions: Official Journal of the Society for Cardiac Angiogra-
+phy & Interventions. 2021; 98: 128–136.
+[25] Wang SY , Welch TD, Elfenbein A, Kaplan A V . Spontaneous
+Closure of a Secundum Atrial Septal Defect. Methodist De-
+Bakey Cardiovascular Journal. 2018; 14: 60–62.
+[26] Hörer J, Müller S, Schreiber C, Kostolny M, Cleuziou J, Pro-
+dan Z, et al . Surgical closure of atrial septal defect in patients
+older than 30 years: risk factors for late death from arrhythmia or
+heart failure. The Thoracic and Cardiovascular Surgeon. 2007;
+55: 79–83.
+[27] Min SY , Lee JS, Park DW, Song JM. Clinical outcomes of early
+closure versus conservative strategy after diagnosis with atrial
+septal defect: a nationwide population-based cohort study. Eu-
+ropean Journal of Cardio-thoracic Surgery: Official Journal of
+the European Association for Cardio-thoracic Surgery. 2022; 62:
+ezac076.
+[28] Rao PS. Role of Echocardiography in the Diagnosis and In-
+terventional Management of Atrial Septal Defects. Diagnostics
+(Basel, Switzerland). 2022; 12: 1494.
+[29] Greim CA, Trautner H, Krämer K, Zimmermann P , Apfel CC,
+Roewer N. The detection of interatrial flow patency in awake
+and anesthetized patients: a comparative study using transnasal
+transesophageal echocardiography. Anesthesia and Analgesia.
+2001; 92: 1111–1116.
+[30] Sperlongano S, Giordano M, Ciccarelli G, Bassi G, Malvezzi
+Caracciolo D’Aquino M, Del Giudice C, et al . Advances in
+Percutaneous Patent Foramen Ovale Closure: From the Pro-
+cedure to the Echocardiographic Guidance. Journal of Clinical
+Medicine. 2022; 11: 4001.
+[31] Liava’a M, Kalfa D. Surgical closure of atrial septal defects.
+Journal of Thoracic Disease. 2018; 10: S2931–S2939.
+[32] Satsangi A, Singh B, Puri S. Operative Steps for OS-ASD Clo-
+sure for Beginners. IJCTS. 2020; 6: 23.
+[33] Jaschinski C, Loukanov T. Atriumseptumdefekt. Z Herz-
+Thorax- Gefäßchir. 2017; 31: 3–6.
+[34] Kim MH, Shim YH, Kim MS, Shin YS, Lee HJ, Lee JS. The
+efficacy of elastomeric patient-control module when connected
+to a balloon pump for postoperative epidural analgesia: A ran-
+domized, noninferiority trial. Medicine. 2017; 96: e5828.
+[35] Dhaliwal R, Bhat D, Puri D, Sidhu K, Rana S, Thingam S, et
+al. Results of surgical closure of isolated secundum atrial septal
+defect. Indian Journal of Thoracic and Cardiovascular Surgery.
+2000; 16: 83–84.
+[36] Jones DA, Radford DJ, Pohlner PG. Outcome following surgical
+closure of secundum atrial septal defect. Journal of Paediatrics
+and Child Health. 2001; 37: 274–277.
+[37] Manning PB. Repair of primum ASD with cleft mitral valve.
+Operative Techniques in Thoracic and Cardiovascular Surgery.
+2004; 9: 240–246.
+[38] Waqar T, Riaz MU, Shuaib M. Surgical repair of partial atri-
+oventricular septal defect. Pakistan Journal of Medical Sciences.
+2017; 33: 285–289.
+6
+
+[[p7]]
+[39] Koshiyama H, Ishidou M, Ito H, Hirose K, Sakamoto K, Ikai A.
+Simplified primum ASD closure technique in complete VSD re-
+pair: shallow suture crossing on the A V node. General Thoracic
+and Cardiovascular Surgery. 2023; 71: 321–322.
+[40] Chowdhury UK, Airan B, Malhotra A, Bisoi AK, Kalaivani M,
+Govindappa RM, et al . Specific issues after surgical repair of
+partial atrioventricular septal defect: actuarial survival, free-
+dom from reoperation, fate of the left atrioventricular valve,
+prevalence of left ventricular outflow tract obstruction, and other
+events. The Journal of Thoracic and Cardiovascular Surgery.
+2009; 137: 548–555.e2.
+[41] Pontailler M, Demondion P , Lebreton G, Golmard JL, Lep-
+rince P . Experience with Extracorporeal Life Support for Car-
+diogenic Shock in the Older Population more than 70 Y ears of
+Age. ASAIO Journal (American Society for Artificial Internal
+Organs: 1992). 2017; 63: 279–284.
+[42] Meijboom EJ, Ebels T, Anderson RH, Schasfoort-van Leeuwen
+MJ, Deanfield JE, Eijgelaar A, et al. Left atrioventricular valve
+after surgical repair in atrioventricular septal defect with sep-
+arate valve orifices (“ostium primum atrial septal defect”): an
+echo-Doppler study. The American Journal of Cardiology. 1986;
+57: 433–436.
+[43] Perez Y , Dearani JA, Miranda WR, Stephens EH. Subaortic
+Stenosis in Adult Patients With Atrioventricular Septal Defect.
+The Annals of Thoracic Surgery. 2023; 115: 479–484.
+[44] Ivanov Y , Buratto E, Naimo P , Lui A, Hu T, d’Udekem Y ,et al.
+Incidence and management of the left ventricular outflow ob-
+struction in patients with atrioventricular septal defects. Interac-
+tive Cardiovascular and Thoracic Surgery. 2022; 34: 604–610.
+[45] Gurbuz A T, Novick WM, Pierce CA, Watson DC. Left ventric-
+ular outflow tract obstruction after partial atrioventricular septal
+defect repair. The Annals of Thoracic Surgery. 1999; 68: 1723–
+1726.
+[46] Duncan BW. Sinus V enosus Atrial Septal Defect: Repair with an
+Intra-Superior V ena Cava Baffle. Operative Techniques in Tho-
+racic and Cardiovascular Surgery. 2006; 11: 33–44.
+[47] Iyer AP , Somanrema K, Pathak S, Manjunath PY , Pradhan S,
+Krishnan S. Comparative study of single- and double-patch tech-
+niques for sinus venosus atrial septal defect with partial anoma-
+lous pulmonary venous connection. The Journal of Thoracic and
+Cardiovascular Surgery. 2007; 133: 656–659.
+[48] Jaschinski C, Cussigh C, Fonseca E, Bruckner T, Karck M,
+Loukanov T. A Wide Comparison of Techniques for Repair of
+PAPVCs: One Institution’s 20-Y ear Experience. The Thoracic
+and Cardiovascular Surgeon. 2020; 68: 15–23.
+[49] Said SM, Burkhart HM, Schaff HV , Cetta F, Jr, Phillips SD,
+Barnes RD, et al. Single-patch, 2-patch, and caval division tech-
+niques for repair of partial anomalous pulmonary venous con-
+nections: does it matter? The Journal of Thoracic and Cardio-
+vascular Surgery. 2012; 143: 896–903.
+[50] Pace Napoleone C, Mariucci E, Angeli E, Oppido G, Gargiulo
+GD. Sinus node dysfunction after partial anomalous pulmonary
+venous connection repair. The Journal of Thoracic and Cardio-
+vascular Surgery. 2014; 147: 1594–1598.
+[51] Gustafson RA. Cavo-Atrial Anastomosis Technique for Partial
+Anomalous Pulmonary V enous Connection to the Superior V ena
+Cava—The Warden Procedure. Operative Techniques in Tho-
+racic and Cardiovascular Surgery. 2006; 11: 22–32.
+[52] Binsalamah ZM, Ibarra C, Edmunds EE, Qureshi AM, Adachi
+I, Caldarone CA, et al. Y ounger Age at Operation Is Associated
+With Reinterventions After the Warden Procedure. The Annals
+of Thoracic Surgery. 2021; 111: 2059–2065.
+[53] Griffeth EM, Dearani JA, Mathew J, Graham GC, Connolly HM,
+King KS, Schaff HV , Stephens EH. Early and Late Outcomes
+of the Warden and Modified Warden Procedure. The Annals of
+Thoracic Surgery. 2022; 114: 1723–1729.
+[54] Okonta KE, Agarwal V . Does Warden’s procedure reduce sinus
+node dysfunction after surgery for partial anomalous pulmonary
+venous connection? Interactive Cardiovascular and Thoracic
+Surgery. 2012; 14: 839–842.
+[55] Kadowaki S, Saprungruang A, Dragulescu A, Y oo SJ, Haller C.
+Modified Warden Procedure for Partial Anomalous Pulmonary
+V enous Drainage to Promote Growth. The Annals of Thoracic
+Surgery. 2023; 115: e131–e134.
+[56] Kumar TKS, Chen D, Halpern D, Bhatla P , Saharan S, Argilla
+M, et al . Modified Warden operation using aortic homograft.
+JTCVS Techniques. 2020; 4: 271–273.
+[57] Danton MHD, Kesieme EB. Modification of the Warden Pro-
+cedure for Surgical Repair of Partial Anomalous Pulmonary
+V enous Connection. World Journal for Pediatric & Congenital
+Heart Surgery. 2023; 14: 497–499.
+[58] Lenoir M, Rahmani B, Dubois G, Aldebert P , Amrous A, Casalta
+A, et al. Repair of sinus venosus defects with partial anomalous
+pulmonary venous connection in adult: Four surgical procedures
+for a large armamentarium. Archives of Cardiovascular Diseases
+Supplements. 2021; 13: 141–142.
+[59] Zubritskiy A, Naberukhin Y , Arkhipov A, Gorbatykh Y , Kha-
+paev T, Nichay N, et al . Outcomes of Double-patch and War-
+den Techniques in Patients With Supracardiac Partial Anoma-
+lous Pulmonary V enous Connection. Heart, Lung & Circulation.
+2020; 29: 156–161.
+[60] Y ong MS, Griffiths S, Robertson T, Brink J, d’Udekem Y ,
+Brizard C, et al. Outcomes of the Warden procedure for partial
+anomalous pulmonary venous drainage in children. Interactive
+Cardiovascular and Thoracic Surgery. 2018; 27: 422–426.
+[61] Lin H, Y an J, Wang Q, Li S, Sun H, Zhang Y ,et al. Outcomes of
+the Warden Procedure for Partial Anomalous Pulmonary V enous
+Drainage. Pediatric Cardiology. 2020; 41: 134–140.
+[62] Lee ME, Sade RM. Coronary sinus septal defect. Surgical
+considerations. The Journal of Thoracic and Cardiovascular
+Surgery. 1979; 78: 563–569.
+[63] Quaegebeur J, Kirklin JW, Pacifico AD, Bargeron LM, Jr. Sur-
+gical experience with unroofed coronary sinus. The Annals of
+Thoracic Surgery. 1979; 27: 418–425.
+[64] Sugimori H, Nakao T, Ikegaya Y , Iwahashi D, Tsuda S, Kume
+N, et al . Coronary sinus atrial septal defects in adults over the
+past 20 years at new Tokyo hospital: case series. Journal of Car-
+diothoracic Surgery. 2021; 16: 150.
+[65] Ozaki N, Wakita N, Inoue K, Y amada A. Surgical repair of coro-
+nary sinus atrial septal defect and supraventricular tachycardia.
+Interactive Cardiovascular and Thoracic Surgery. 2009; 8: 290–
+291.
+[66] Jalal Z, Hascoet S, Baruteau AE, Iriart X, Kreitmann B, Boud-
+jemline Y ,et al . Long-term Complications After Transcatheter
+Atrial Septal Defect Closure: A Review of the Medical Litera-
+ture. The Canadian Journal of Cardiology. 2016; 32: 1315.e11–
+1315.e18.
+[67] Aruni B, Sharifian A, Eryazici P , Herrera CJ. Late bacterial
+endocarditis of an Amplatzer atrial septal device. Indian Heart
+Journal. 2013; 65: 450–451.
+[68] Amedro P , Soulatges C, Fraisse A. Infective endocarditis after
+device closure of atrial septal defects: Case report and review of
+the literature. Catheterization and Cardiovascular Interventions:
+Official Journal of the Society for Cardiac Angiography & In-
+terventions. 2017; 89: 324–334.
+[69] Divekar A, Gaamangwe T, Shaikh N, Raabe M, Ducas J. Cardiac
+perforation after device closure of atrial septal defects with the
+Amplatzer septal occluder. Journal of the American College of
+Cardiology. 2005; 45: 1213–1218.
+[70] Kamla CE, Buech J, Doldi PM, Hagl C, Juchem G, Dashkevich
+A. Atrio-aortic erosion caused by Amplatzer Atrial Septal Oc-
+cluder - a case report. Journal of Cardiothoracic Surgery. 2021;
+16: 36.
+7
+[[p8]]
+[71] Sauer HH, Ntalakoura K, Haun C, Le TP , Hraska V . Early car-
+diac perforation after atrial septal defect closure with the Am-
+platzer septal occluder. The Annals of Thoracic Surgery. 2006;
+81: 2312–2313.
+[72] Konstantinov IE, Kotani Y , Buratto E, Schulz A, Ivanov Y .
+Minimally invasive approaches to atrial septal defect closure.
+JTCVS Techniques. 2022; 14: 184–190.
+[73] Hardman G, Zacharias J. Minimal-Access Atrial Septal Defect
+(ASD) Closure. Journal of Cardiovascular Development and
+Disease. 2023; 10: 206.
+[74] Lenoir M, Degirmenci S, Rauzier J, Aldebert P , Casalta A, Gran
+C, et al . Closure of atrial septal defect by minimally invasive
+surgery: An alternative approach. Archives of Cardiovascular
+Diseases Supplements. 2021; 13: 140–141.
+[75] Y ang X, Hu Y , Dong J, Huang P , Luo J, Y ang G,et al. Rightver-
+tical axillary incision for atrial septal defect: a propensity score
+matched study. Journal of Cardiothoracic Surgery. 2022; 17:
+256.
+[76] Poyrazoglu HH, Avsar MK, Demir S, Karakaya Z, Güler T, Tor
+F. Atrial septal defect closure: comparison of vertical axillary
+minithoracotomy and median sternotomy. The Korean Journal
+of Thoracic and Cardiovascular Surgery. 2013; 46: 340–345.
+[77] Y anagisawa J, Maekawa A, Sawaki S, Tokoro M, Ozeki T, Orii
+M, et al . Three-port totally endoscopic repair vs conventional
+median sternotomy for atrial septal defect. Surgery Today. 2019;
+49: 118–123.
+[78] Nishida H, Nakatsuka D, Kawano Y , Hiraiwa N, Takanashi S,
+Tabata M. Outcomes of Totally Endoscopic Atrial Septal Defect
+Closure Using a Glutaraldehyde-Treated Autologous Pericardial
+Patch. Circulation Journal: Official Journal of the Japanese Cir-
+culation Society. 2017; 81: 689–693.
+[79] Cheng Y , Chen H, Mohl W, Liu X, Si Z. Totally endoscopic
+congenital heart surgery compared with the traditional heart op-
+eration in children. Wiener Klinische Wochenschrift. 2013; 125:
+704–708.
+[80] Ma ZS, Yin QY , Dong MF, Feng ZY , Wang LX. Quality of life in
+patients undergoing totally thoracoscopic closure for atrial septal
+defect. The Annals of Thoracic Surgery. 2011; 92: 2230–2234.
+8

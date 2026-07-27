@@ -1,0 +1,810 @@
+
+[[p1]]
+Castro et al. Ann. Intensive Care          (2020) 10:150  
+https://doi.org/10.1186/s13613-020-00767-4
+RESEARCH
+Effects of capillary refill time-vs. 
+lactate-targeted fluid resuscitation on regional, 
+microcirculatory and hypoxia-related perfusion 
+parameters in septic shock: a randomized 
+controlled trial
+Ricardo Castro1, Eduardo Kattan1, Giorgio Ferri2, Ronald Pairumani2, Emilio Daniel Valenzuela1, Leyla Alegría1, 
+Vanessa Oviedo1, Nicolás Pavez3, Dagoberto Soto1, Magdalena Vera1, César Santis2, Brusela Astudillo2, 
+María Alicia Cid2, Sebastian Bravo1, Gustavo Ospina‑Tascón4, Jan Bakker1,5,6,7 and Glenn Hernández1* 
+Abstract 
+Background: Persistent hyperlactatemia has been considered as a signal of tissue hypoperfusion in septic shock 
+patients, but multiple non‑hypoperfusion‑related pathogenic mechanisms could be involved. Therefore, pursuing 
+lactate normalization may lead to the risk of fluid overload. Peripheral perfusion, assessed by the capillary refill time 
+(CRT), could be an effective alternative resuscitation target as recently demonstrated by the ANDROMEDA‑SHOCK 
+trial. We designed the present randomized controlled trial to address the impact of a CRT‑targeted (CRT‑T) vs. a 
+lactate‑targeted (LAC‑T) fluid resuscitation strategy on fluid balances within 24 h of septic shock diagnosis. In addi‑
+tion, we compared the effects of both strategies on organ dysfunction, regional and microcirculatory flow, and tissue 
+hypoxia surrogates.
+Results: Forty‑two fluid‑responsive septic shock patients were randomized into CRT‑T or LAC‑T groups. Fluids were 
+administered until target achievement during the 6 h intervention period, or until safety criteria were met. CRT‑T 
+was aimed at CRT normalization (≤ 3 s), whereas in LAC‑T the goal was lactate normalization (≤ 2 mmol/L) or a 20% 
+decrease every 2 h. Multimodal perfusion monitoring included sublingual microcirculatory assessment; plasma‑disap‑
+pearance rate of indocyanine green; muscle oxygen saturation; central venous‑arterial  pCO
+2 gradient/ arterial‑venous 
+ O2 content difference ratio; and lactate/pyruvate ratio. There was no difference between CRT‑T vs. LAC‑T in 6 h‑fluid 
+boluses (875 [375–2625] vs. 1500 [1000–2000], p = 0.3), or balances (982[249–2833] vs. 15,800 [740–6587, p = 0.2]). 
+CRT‑T was associated with a higher achievement of the predefined perfusion target (62 vs. 24, p = 0.03). No significant 
+differences in perfusion‑related variables or hypoxia surrogates were observed.
+Conclusions: CRT‑targeted fluid resuscitation was not superior to a lactate‑targeted one on fluid administration or 
+balances. However, it was associated with comparable effects on regional and microcirculatory flow parameters and 
+hypoxia surrogates, and a faster achievement of the predefined resuscitation target. Our data suggest that stopping 
+fluids in patients with CRT ≤ 3 s appears as safe in terms of tissue perfusion.
+© The Author(s) 2020. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material 
+in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material 
+is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds 
+the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://crea‑
+tivecommons.org/licenses/by/4.0/.
+Open Access
+*Correspondence:  glennguru@gmail.com
+1 Departamento de Medicina Intensiva, Facultad de Medicina, Pontificia 
+Universidad Católica de Chile, Diagonal Paraguay 362, Santiago, Chile
+Full list of author information is available at the end of the article
+[[p2]]
+Page 2 of 9Castro et al. Ann. Intensive Care          (2020) 10:150 
+Background
+Persistent hyperlactatemia has been traditionally con -
+sidered as a signal of tissue hypoperfusion or hypoxia in 
+septic shock patients [1]. Therefore, lactate normaliza -
+tion is recommended as a resuscitation target by recent 
+guidelines [2]. However, hyperlactatemia is a non-specific 
+marker of hypoperfusion, since other pathogenic mecha
+-
+nisms such as sustained hyperadrenergia and impaired 
+hepatic clearance may contribute to increased serum 
+lactate levels [1, 3, 4]. This may have relevant clinical 
+implications, since if non-hypoperfusion-related sources 
+predominate, increased serum lactate levels This may 
+have relevant clinical implications, since if non-hypoper
+-
+fusion-related sources predominate, pursuing lactate as 
+a target may lead to fluid overload, potentially increasing 
+mortality or morbidity [5–7]. In addition, kinetics of lac
+-
+tate recovery is relatively slow, which makes it a subopti -
+mal target for fluid resuscitation [4, 8].
+Peripheral perfusion appears as a promising alterna -
+tive target [9, 10]. The excellent prognosis associated with 
+capillary refill time (CRT) normalization [11], the rapid-
+response time to fluid loading [8], plus its simplicity and 
+availability in resource-limited settings, constitute a solid 
+background to promote studies evaluating its usefulness 
+to guide fluid resuscitation. The ANDROMEDA-SHOCK 
+trial was implemented within 4  h of septic shock diag
+-
+nosis and compared a CRT-vs. a lactate-targeted resus -
+citation strategy [12–14]. The CRT group exhibited a 
+non-significant lower mortality (34.9 vs. 43.4%, p = 0.06), 
+required less fluid resuscitation during the intervention 
+period, and presented less organ dysfunction at 72  h. A 
+posterior Bayesian analysis showed a very high probabil
+-
+ity that CRT-targeted resuscitation may result in lower 
+mortality and faster resolution of organ dysfunction 
+compared to a lactate-targeted one [15]. ANDROMEDA-
+SHOCK results should be confirmed by future major tri
+-
+als, but in the meantime, many non-resolved issues could 
+be addressed by smaller randomized controlled trials 
+including the effect of both strategies on organ perfusion.
+We designed the present trial to address the impact 
+of a CRT-targeted vs. lactate-targeted fluid resuscita
+-
+tion strategy started within 24 h after septic shock diag -
+nosis on fluid administration and balances. In addition, 
+we aimed at comparing the effects of both strategies on 
+organ dysfunction, regional and microcirculatory flow, 
+and tissue hypoxia surrogates.
+Materials and methods
+Study design
+This was a prospective randomized controlled trial con -
+ducted at the intensive care units (ICU) of two teaching 
+hospitals, Hospital Clínico UC CHRISTUS and Hospital 
+Barros Luco-Trudeau of Santiago, Chile. The study was 
+approved by the Institutional Review Board of both cent
+-
+ers. A signed informed consent was asked to the next of 
+kin of all eligible patients and confirmed by the patients 
+when feasible.
+Patient selection and randomization
+Consecutive adult patients (≥ 18 years) with septic shock 
+as defined by a serum lactate > 2 mmol/liter and require -
+ments of norepinephrine (NE) to maintain a mean arte -
+rial pressure (MAP) ≥ 65  mmHg after an intravenous 
+fluid load of at least 20 ml/kg over 60 min [16], and with 
+a demonstrated fluid-responsiveness state [17] were con
+-
+sidered as eligible. Patients had to be recruited within a 
+period of 24 h after septic shock diagnosis. Exclusion cri
+-
+teria were      pregnancy, anticipated surgery or dialytic 
+procedure during the first 6  h after potential inclusion, 
+active bleeding, Child B or C liver cirrhosis, severe acute 
+respiratory distress syndrome, and do-not-resuscitate 
+status.
+Eligible patients were randomly allocated to CRT-tar
+-
+geted (CRT-T) or lactate-targeted (LAC-T) fluid resus -
+citation arms. A randomization sequence by permuted 
+blocks of eight with an allocation of 1:1 was generated by 
+a computer program. Allocation concealment was main
+-
+tained by means of central randomization.
+Study interventions
+The intervention period was of 6  h. Before starting the 
+study, all centers were trained to assess CRT with a stand
+-
+ardized technique. Briefly, CRT was measured by apply -
+ing firm pressure to the ventral surface of the right index 
+finger distal phalanx with a glass microscope slide. The 
+pressure was increased until the skin was blank and then 
+maintained for 10  s. The time for return of pre-existent 
+skin color was registered with a chronometer, and a CRT 
+higher than 3 s was defined as abnormal [13].
+The perfusion target for CRT-T was a normal CRT 
+(≤ 3  s). The perfusion target for LAC-T was an arterial 
+lactate ≤ 2  mmol/l or a decrease > 20% every 2  h. CRT 
+Clinical Trials: ClinicalTrials.gov Identifier: NCT03762005 (Retrospectively registered on December 3rd 2018)
+Keywords: Sepsis, Septic shock, Lactate, Hypoxia, Capillary refill time
+[[p3]]
+Page 3 of 9
+Castro et al. Ann. Intensive Care          (2020) 10:150 
+ 
+was assessed every 30 min and lactate every 2 h during 
+the intervention period, after which the treatment was 
+liberalized for attending physicians.
+Fluid responsiveness was assessed with different tech
+-
+niques according to usual practice and clinical context. 
+Cut-offs to consider a patient as fluid responsive for each 
+technique are shown in Additional file 1 [18].
+The single intervention of the study was the adminis
+-
+tration of repeated fluid boluses. The single interven -
+tion of the study was the administration of repeated fluid 
+boluses. Fluids (500 ml of Ringer’s lactate administered in 
+30-min intervals) were repeated until the perfusion target 
+was achieved, or fluid responsiveness became negative, 
+or a safety limit of an increase in central venous pressure 
+(CVP) ≥ 5 mmHg after a fluid bolus was reached [19].
+When the perfusion target could not be achieved with 
+fluids, other resuscitation steps such as addition or mod
+-
+ulation of vasoactive agents, or potential rescue thera -
+pies were decided by attending physicians. Besides sepsis 
+source aggressive management, all patients were treated 
+as recommended by current guidelines [2].
+Measurements and data collection
+Clinical and demographic variables were registered at 
+baseline (T0). All patients were followed until hospital 
+discharge. All data including demographic aspects, sep
+-
+sis sources and management, inflammatory biomarkers, 
+severity scores and major outcomes were registered.
+For this research protocol, several specific research-
+related variables were measured or calculated at baseline, 
+2 (T2), 6 (T6) and at 24 h (T24).
+Hemodynamic and clinical perfusion variables included 
+fHemodynamic and clinical perfusion variables included 
+fluid boluses together with total fluid inputs/outputs and 
+fluid balances; macrocirculatory variables such as MAP , 
+heart rate, CVP , NE dose, macrocirculatory, cardiac out
+-
+put (CO) assessed with non-invasive pulse-contour tech -
+nique (PiCCO device, Pulsion Medical Systems, Munich, 
+Germany) or a pulmonary artery catheter; c, Pulsion 
+Medical Systems, Munich, Germany; perfusion variables 
+such as arterial lactate, central venous oxygen satura
+-
+tion  (ScvO2), and central venous-arterial  pCO2 gradient 
+(P(cv-a)  CO2); and; and CRT. CRT.
+In addition, regional and microcirculatory perfusion-
+related variables were assessed. In addition, regional 
+and microcirculatory perfusion-related variables were 
+assessed. Sublingual microcirculation was evaluated 
+with the side dark field (SDF) device. At each assess
+-
+ment, at least five 10-20 s  video images were recorded. 
+The analysis was performed by eye by an expert 
+researcher following recent recommendations [20]. 
+From image analyses, the microcirculatory flow index 
+(MFI) was calculated. A MFI ≤ 2.5 was considered as 
+abnormal following some previous reports [3 , 21]. 
+Plasma-disappearance rate of indocyanine green (PDR-
+ICG) was determined with a non-invasive transcu
+-
+taneous assessment of ICG clearance  to indirectly 
+assess liver blood flow [22]. An ICG finger clip was 
+fixed in every patient and then connected to a liver 
+function monitor (LiMON; Pulsion Medical Systems, 
+Munich, Germany). A dose of 0.25  mg/kg of ICG was 
+then injected through a central venous catheter. Nor
+-
+mal range for PDR-ICG is 18% to 25% per min with a 
+value < 15%/min considered as abnormal in some previ
+-
+ous studies [22, 23].  
+Near infrared spectroscopy (NIRS): Muscle oxygen 
+saturation  (StO2) was assessed by a tissue spectrom -
+eter (InSpectra Model 325; Hutchinson Tc, Mn, USA). 
+A NIRS probe was placed on the skin of the thenar 
+eminence.  StO
+2 < 70% is abnormal [24]. SDF and PDR-
+ICG were only performed at the Hospital Clínico UC 
+CHRISTUS SDF and PDR-ICG were only performed at 
+the Hospital Clínico UC CHRISTUS.
+Two hypoxia-related indexes were also assessed: (1) 
+Central venous-arterial  pCO
+2 gradient/arterial-venous 
+ O2 content difference ratio (P(cv-a)CO 2/Da-vO2): This 
+ratio was calculated after taking arterial and central 
+venous blood gases. A ratio ≥ 1.4 may be associated to 
+anaerobic  CO
+2 generation [25– 27]. (2) Lactate/pyru -
+vate (L/P) ratio: Arterial blood samples for pyruvate 
+were taken with immediate deproteinization of the 
+sample, and processed in our laboratory before 3 h by 
+enzymatic fluorometric-assay (Sigma-Aldrich, USA). 
+A L/P ratio > 15 suggests tissue hypoxia  in some pre
+-
+vious work [28]. in some previous work Both ratios 
+may represent an expression of anaerobic metabolism 
+at the cellular level and thus, may be used as hypoxia 
+surrogates.
+Outcome measures  
+The primary outcome was fluid volume administered 
+during the 6  h intervention period. Secondary pre
+-
+specified outcomes included fluid balance at 24 h; 24 h 
+SOFA score; and previously mentioned regional, micro
+-
+circulatory flow, and tissue hypoxia surrogates.
+Sample size calculation
+After a thorough literature review, we found only one 
+pilot study comparing peripheral perfusion vs. stand
+-
+ard care based resuscitation in septic shock patients 
+[10], showing that the former resulted in signifi
+-
+cantly less resuscitation fluids at 6  h (4227 ± 1081  ml 
+vs. 6069 ± 1715  ml). In consequence, we considered a 
+1600  ml difference in primary outcome between study 
+groups to be the critical threshold for hypothesis testing. 
+[[p4]]
+Page 4 of 9Castro et al. Ann. Intensive Care          (2020) 10:150 
+If there was no difference between standard and experi -
+mental treatments, then 46 patients would be required 
+(23 patients per arm) to be 90% sure that the lower limit 
+of a two-sided confidence interval was above the limit of 
+− 1600 mL at an alpha level of 0.05.
+Statistical analysis
+As variables presented non-normal distribution, non-
+parametric tests were used. Descriptive statistics are 
+presented as median [interquartile range] or percentage. 
+Mann–Whitney U Test, chi-square or Fisher’s exact test 
+were used when appropriate. Two-tailed p value < 0.05 
+was considered significant. Data were analyzed with 
+Minitab v17 (Minitab Inc, State College, PA) and Graph
+-
+pad Prism (Graphpad Softwares, La Joya, CA) softwares.
+Results
+Patients characteristics
+This study was conducted between June 2018 and 
+October 2019, where it was stopped before completing 
+the programmed sample size of 46 patients. The deci
+-
+sion was made because of nil further recruitment after 
+the start of a severe Chilean social outburst in October. 
+During the study period, 149 patients were screened for 
+potential protocol inclusion. Patient flow and causes for 
+exclusion are represented in Fig.  1. Finally, forty-two 
+patients were randomized to both study arms.
+Baseline demographic, severity scoring, hemody
+-
+namic and perfusion characteristics are shown in 
+Table 1. Time from septic shock diagnosis to protocol 
+start was similar in both arms (CRT-T, 4 [2–9] h vs. 
+LAC-T, 5 [2–6] h; p  = 0.9). The most common tests for 
+fluid responsiveness assessment were pulse pressure 
+variation (CRT-T, 43% vs. LAC-T, 52%; p  = 0.8), infe
+-
+rior vena cava variation (CRT-T, 29% vs. LAC-T, 19%; 
+p = 0.4), and passive leg raising with velocity–time inte
+-
+gral (CRT-T, 10% vs. LAC-T, 19%; p  = 0.6).
+Study outcomes
+Table 2 shows a comparison between both study groups 
+according to 6 h fluid boluses and balances, 24 h SOFA, 
+and perfusion targets. No significant difference was 
+observed between groups in the primary outcome of 
+resuscitation fluid administration at 6  h. In addition, 
+there was no difference between CRT-T and LAC-T 
+groups in 24  h SOFA score (10 [5–13] vs. 11 [7–13], 
+p = 0.8), 28- day mortality (24% vs. 19%, p  = 0.8), ICU (6 
+[5–14] vs. 10 [4–20] days, p = 0.8) and hospital length 
+of stay (17[6–58] vs. 26 [9–53] days, p  = 0.9). Con
+-
+cerning specific resuscitation targets at 6  h, a higher 
+21 patients for final analysis
+0w ere lost to 28-day follow-up 
+21 patients for final analysis
+149 Patients assessed for eligibility during the 
+15-months study period
+21 Allocated to Capillary Refill Time 
+targeted resuscitation
+42 underwent randomization
+21 Allocated to Lactate targeted 
+resuscitation
+90 were ineligible
+63     Negative fluid responsiveness assessment
+13     Undetermined fluid responsiveness status
+12      Do-not-resuscitate status
+9         More than 24h after meeting septic shock criteria
+3         Anticipated surgery or dialysis procedure next 8 hours
+3         Child B or C liver cirrhosis
+4  were eligible but were not enrolled
+2 Lack of consent
+2 Logistic problems 
+0w ere lost to 28-day follow-up 
+Fig. 1 Study flow diagram
+[[p5]]
+Page 5 of 9
+Castro et al. Ann. Intensive Care          (2020) 10:150 
+ 
+proportion of patients in the CRT-T group achieved 
+their objective (62 vs. 24, p  = 0.03), as shown in Fig. 2 .
+Multimodal perfusion assessment
+When assessing regional, microcirculatory and hypoxia-
+related parameters, no difference between groups was 
+observed at the end of the intervention period, as shown 
+in Table  3. Additional file  2 shows the number of tests 
+performed at each time point in both study groups.
+Discussion
+CRT-targeted fluid resuscitation was not superior to 
+a lactate-targeted one in the primary outcome of fluid 
+administration during the 6  h intervention period, 
+neither in fluid balances nor organ dysfunction at 24  h. 
+However, CRT-targeted resuscitation was associated 
+with higher achievement of resuscitation targets during 
+the intervention period and exhibited comparable effects 
+to LAC-T on regional/microcirculatory flow parameters 
+and hypoxia-surrogates.
+Our results could be viewed as in contradiction with 
+the findings of the ANDROMEDA-SHOCK trial [14], 
+particularly in the fluid boluses administered during the 
+intervention period. However, the design of the studies 
+was markedly different. First, the time-period for recruit
+-
+ment was maximum 4 h, since septic shock diagnosis in 
+ANDROMEDA-SHOCK and up to 24  h in the present 
+study. Fluid boluses administered in CRT-T were almost 
+Table 1 Baseline characteristics of the study population
+Data are presented as percentage (absolute number) or median [interquartile range]
+CRT  Capillary refill time, APACHE II Acute Physiology And Chronic Health Evaluation II, SOFA Sequential organ failure Assessment score, MV Mechanical ventilation, 
+MAP Mean arterial pressure, CVP Central venous pressure, ScvO2 central venous oxygen saturation, Delta pCO2(v-a) Difference between central venous carbon dioxide 
+pressure and arterial carbon dioxide pressure, P(cv-a)CO2/Da-vO2 ratio central venous-arterial  pCO2 gradient/ arterial-venous, O2 content difference ratio, L/P ratio 
+lactate-piruvate ratio, StO2 Thenar muscle oxygen saturation, PDR-ICG Indocianine greeen plasma disappearance rate,MFI Microcirculatory flow index
+a Assessed only at Hospital Clínico UC CHRISTUS
+CRT targeted group Lactate targeted group
+N° 21 21
+Age (years) 51 [45–75] 66 [55–75]
+Female 48 (10) 66 (14)
+APACHE score 23 [15–30] 23 [14–34]
+SOFA score 11 [8–14] 12 [9–14]
+Septic Source Abdominal: 62 (13) Abdominal 52: (11)
+Other: 14 (3) Other: 10 (2)
+Respiratory: 14 (3) Respiratory: 14 (3)
+Urinary: 10 (2) Urinary: 24 (5)
+Surgical Source 57 (12) 62 (13)
+Time to antibiotics (min) 60 [45–120] 60 [30–60]
+Fluids Pre‑randomization (ml) 1550[1000–3000] 2500 [1250–3175]
+MV at inclusion 95 (21) 81 (17)
+MAP (mmHg) 71 [66–77] 69 [61–78]
+CVP (mmHg) 8 [5–12] 8 [6–10]
+Cardiac Index (l/m/m2) 3.1 [2.2–3.5] 2.8 [1.9–3.9]
+Norepinephrine dose (mcg/kg/min) 0.23 [0.14–0.54] 0.29 [0.16–0.4]
+Lactate (mmol/L) 3 [2.8–5.5] 4 [3–7.6]
+CRT (s) 5 [3–6.5] 5 [3–6.5]
+ScvO2 (%) 69 [65–78] 70 [59–79]
+Delta  pCO2(v‑a) 8 [4–13] 7 [5–11]
+P(cv‑a)CO2/Da‑vO2 ratio 2 [1–2.5] 1.3 [1.1–2.8]
+L/P ratio 8.1 [4–13.9] 9 [4.7–14]
+StO2 (%) 78 [66–82] 78 [70–83]
+PDR‑ICGa (%) 18 [10–21.8] 12 [10–15.4]
+MFIa 1.75 [1–2.5] 2.6 [2.5–3]
+[[p6]]
+Page 6 of 9Castro et al. Ann. Intensive Care          (2020) 10:150 
+a half of those in LAC-T, and although this difference is 
+not significant, it may suggest that the benefits of CRT-
+guided resuscitation may extend for longer periods than 
+the limits imposed by ANDROMEDA-SHOCK. Second, 
+in the present study only fluid-responsive patients were 
+included, and in addition it included fluid administra
+-
+tion as the single intervention. Despite these differences 
+in design, LAC-T, the challenged gold-standard, was not 
+superior in any of the studied variables, and patients in 
+CRT-T achieved their goal in a higher proportion of cases 
+during the intervention period.
+Table 2 Fluid administration, balance, perfusion targets and  vasopressor dosage in  both  randomization arms 
+during the study period
+Data are presented as median [interquartile range]
+CRT  Capillary refill time, NE norepinephrine
+CRT targeted group Lactate targeted group p-value
+Fluid Bolus 6 h (ml) 875 [375–2625] 1500 [1000–2000] 0.3
+Fluid Balance 6 h (ml) 982 [249–2833] 1580 [740–6587] 0.2
+Fluid Balance 24 h (ml) 1710 [614–4172] 2015 [166–5060] 0.85
+CRT 6 h (s) 3 [2–5] 3 [2–5] 0.8
+CRT 24 h (s) 3 [2–4] 3 [2, 3] 0.9
+Lactate 6 h (mmol/L) 2.3 [1.8–4] 3.5 [1.8–7.3] 0.4
+Lactate 24 h (mmol/L) 2 [1.3–3.2] 1.9 [1.4—4.3] 0.9
+NE dose 6 h (mcg/kg/min 0.33 [0.11–0.46] 0.21 [0.12–0‑35] 0.26
+NE dose 24 h (mcg/kg/min) 0.14 [0.04–0.32 0.13 [0.01–0.25] 0.6
+Fig. 2 Achievement of perfusion target according to study arm at 2, 
+6 and 24 h. CRT: Capillary refill time
+Table 3 Multimodal perfusion comparison between both study groups at 6 h
+Data are presented as percentage (absolute number) or median [interquartile range]
+CRT  Capillary refill time, MAP mean arterial pressure, CVP Central venous pressure, ScvO
+2 central venous oxygen saturation, Delta pCO2(v-a) Difference between central 
+venous carbon dioxide pressure and arterial carbon dioxide pressure, P(cv-a)CO2/Da-vO2 ratio central venous-arterial  pCO2 gradient/ arterial-venous  O2 content 
+difference ratio, L/P ratio lactate-piruvate ratio, StO2 Thenar muscle saturation, PDR-ICG Indocianine greeen plasma disappearance rate, MFI microcirculatory flow index
+a Assessed only at Hospital Clínico UC CHRISTUS
+CRT-targeted group Lactate targeted group P
+MAP (mmHg) 70 [65–65] 73 [64–81] 0.6
+CVP (mmHg) 9 [7–12] 10 [8–13] 0.54
+Cardiac Index (l/m/m2) 2.7 [2.2–4] 3.1 [2.5–3.9] 0.4
+Norepinephrine dose (mcg/kg/min) 0.33 [0.11–0.46] 0.21 [0.12–0.35] 0.26
+Lactate (mmol/L) 2.3 [1.8–4] 3.5 [1.8–7.3] 0.37
+CRT (s) 3 [2–5] 3 [2–5] 0.82
+ScvO2 (%) 68 [66–76] 73 [61–82] 0.38
+Delta  pCO2(v‑a) 5 [4–8] 5 [4–8] 0.89
+P(cv‑a)CO2/Da‑vO2 ratio 1.58 [1.1–2] 1.8 [1–2.7] 0.6
+L/P ratio 12 [6.1–22.2] 8.7 [4.5–12.4] 0.22
+rnQ?GDH?VT?zVO–WT|?WO?zUW–WT|?OMU
+PDR‑ICGa (%) 15.6 [12–24] 13 [6–14] 0.1
+MFIa 2.5 [1.5–3] 3 [2.7–3] 0.09
+[[p7]]
+Page 7 of 9
+Castro et al. Ann. Intensive Care          (2020) 10:150 
+ 
+A possible explanation of our findings is that since CRT 
+exhibits a rapid response to flow increasing maneuvers 
+it could be assessed in periods of 30  min thus allowing 
+clinicians to stop resuscitation in a timely fashion. In 
+contrast, lactate exhibits a relatively slow and biphasic 
+recovery kinetics even after successful resuscitation [3], 
+thus being associated with the potential risk of fluid over
+-
+load. This fact was behind the working hypothesis of the 
+previous ANDROMEDA-SHOCK study [14].
+Concerning the impact of both strategies on regional 
+and microcirculatory flow, to the best of our knowledge 
+this is the first study assessing this issue with a multi
+-
+modal approach. In a previous study, Brunauer et  al. 
+found a significant correlation between changes in CRT 
+with the pulsatility index of various hepatosplanch
+-
+nic arteries during septic shock resuscitation [29]. This 
+is physiologically coherent since both territories are 
+affected by the adrenergic response to shock that could 
+be reverted at least partially by increments in systemic 
+flow. Additionally, another study compared dobutamine 
+vs. placebo on regional and microcirculatory flow in 
+hyperdynamic septic shock, demonstrating that patients 
+who normalized CRT exhibited also normal muscle  O
+2 
+saturation and plasma disappearance rate for indocya -
+nine green [21]. Although not powered for secondary 
+outcomes, our study suggests that CRT-targeted resus
+-
+citation at least does not deteriorate liver blood flow, 
+muscle oxygen saturation, and sublingual microvascular 
+flow in comparison to a lactate-targeted one. In fact, it 
+appears that both strategies lead to a similar improve
+-
+ment in these variables which adds new information 
+concerning the safety of targeting peripheral perfusion 
+during septic shock resuscitation.
+Another peripheral perfusion assessment method is 
+the mottling score [30]. Its prognostic value, pathophysi
+-
+ologic correlates [31, 32], as well as its relationship with 
+tissue perfusion has been clearly demonstrated [29]. 
+Mottling score may be complementary to CRT for a thor
+-
+ough assessment of peripheral perfusion, but less data 
+are available on its kinetics of recovery after fluid resusci
+-
+tation. This is the main reason why CRT was selected as a 
+target in ANDROMEDA-SHOCK and the present study.
+None of the classic perfusion-related parameters reli
+-
+ably reflect the presence or absence of tissue hypoxia. 
+Tissue hypoxia should englobe the idea of an impaired 
+critical oxygen delivery, and/or the inability of the mito
+-
+chondria to utilize  O2, leading to an exclusive anaerobic 
+metabolism in affected territories [33]. Consequently, 
+both  O
+2 consumption and aerobic  CO2 production are 
+decreased and a critical amount of anaerobic  CO2 is 
+generated due to massive ATP degradation, with the 
+resulting buffering of free  H
++ with plasma  HCO3
+−. Once 
+tissue hypoxia is established, the reduction of cell redox 
+potential shifts the production of ATP to the anaerobic 
+pathways, elevating the L/P ratio [33] and furthermore 
+increasing anaerobic  CO
+2 production. This shift could 
+rise the respiratory quotient and consequently the P(cv-
+a)CO
+2/ Da-vO 2 ratio [26]. Both indexes could theoreti -
+cally be used as surrogates of tissue hypoxia and some 
+previous studies showed their relationship with hyperlac
+-
+tatemia and progressive shock [34], although the subject 
+is controversial [26]. In our study, we observed no differ
+-
+ences between groups on these hypoxia surrogates, again 
+suggesting that targeting normal CRT appears as safe at 
+the tissue level as compared with the gold standard lac
+-
+tate-targeted resuscitation.
+Our study has several limitations. First, there are inher-
+ent technical drawbacks and interpretation issues for 
+each of the flow-related variables assessed in the study. 
+PDR-ICG depends basically on liver blood flow but also 
+on liver metabolic function [22]. Thus, pre-existing or 
+acute liver dysfunction precludes a correct interpreta
+-
+tion of results. We excluded patients with advanced 
+liver dysfunction but cannot rule-out some degree of 
+subclinical dysfunction. In addition, the ICG finger clip 
+may loose the signal in the presence of profound periph
+-
+eral vasoconstriction. Muscle  StO2 is flow-sensitive and 
+was described in hemorrhagic shock, where it improves 
+after successful resuscitation [35].  StO2 decreases rap -
+idly after a vascular occlusion test and recovers very fast 
+after releasing compression [21, 24]. However, its role 
+in hyperdynamic states is uncertain. On the other hand, 
+after almost two decades of initial description, sublingual 
+microcirculatory assessment has not been moved to rou
+-
+tine clinical practice and is still positioned in the research 
+arena [38]. Technical aspects, logistics, costs, and lack of 
+agreement between experts on the best way to take and 
+analyze images have precluded further development [20]. 
+In this study, we simplified analyses considering only 
+MFI which is a flow-related parameter and the easiest to 
+standardize.
+Second, in the case of hypoxia surrogates, the back
+-
+ground literature is scarce and both ratios are not uni -
+versally accepted. Additional problems are the technical 
+difficulties for assessing pyruvate, and the lack of clear 
+cut-offs for abnormality. In the case of P(cv-a)CO
+2/ 
+Da-vO2, the use of central venous instead of mixed 
+venous  pCO2, and the use of differences in pressures and 
+not  CO2 contents could be criticized [26]. However, the 
+decision to use the simplified ratio was for practical rea -
+sons and has supportive literature [25, 26].
+Third, the small sample size may be a problem in 
+physiologically focused studies. Therefore, we consider 
+these results only as hypothesis-generating, but the data 
+[[p8]]
+Page 8 of 9Castro et al. Ann. Intensive Care          (2020) 10:150 
+obtained may aid in bringing insights into the mecha -
+nisms behind the positive prognostic value of a normal 
+CRT after initial fluid resuscitation. Fourth, CRT assess -
+ment might be subjected to inter-observer variability, 
+but we used a standardized technique that decreases the 
+likelihood of bias. Fifth, the premature stop of the study 
+may have introduced bias but an independent statistician 
+analyzed the results and concluded that recruitment of 4 
+more patients would not have changed the p values of the 
+main findings. Finally, we could perform SDF and PDR-
+ICG techniques in only one of the two involved centers 
+for logistic reasons, but we think that this does not invali
+-
+date our conclusions.
+Conclusions
+CRT-targeted fluid resuscitation in septic shock was not 
+superior to a lactate-targeted one on early fluid admin
+-
+istration or fluid balances. However, it was associated 
+with comparable effects on regional and microcircula
+-
+tory flow parameters and hypoxia surrogates. In addition, 
+achievement of allocated targets was higher for CRT-
+guided resuscitation during the 6 h intervention period. 
+These data, although only hypothesis generating, expand 
+the results of ANDROMEDA-SHOCK suggesting that 
+potential benefits of CRT-targeted resuscitation should 
+be tested in future studies beyond the limits of very early 
+septic shock.
+Supplementary information
+Supplementary information accompanies this paper at https ://doi.
+org/10.1186/s1361 3‑020‑00767 ‑4.
+Additional file 1:  Methods used in the and cut‑offs for fluid responsive‑
+ness assessment techniques in the present study
+Additional file 2:  Proportion of target achievers at 6h with normal values 
+of perfusion‑related variables in both study arms 
+Abbreviations
+CRT : Capillary refill time; CRT‑T: Capillary refill time targeted fluid resuscitation; 
+LAC‑T: Lactate‑targeted fluid resuscitation; ICU: Intensive care unit; MAP: Mean 
+arterial pressure; NE: Norepinephrine; LOS: Length of stay;; APACHE: Acute 
+Physiology and Chronic Health Evaluation; SOFA: Sequential Organ Failure 
+Assessment; ScvO
+2: Central venous oxygen saturation; Delta pCO2(v‑a): Dif‑
+ference between central venous carbon dioxide pressure and arterial carbon 
+dioxide pressure; P(cv‑a)CO2/Da‑vO2 ratio: Central venous‑arterial  pCO
+2 gradi‑
+ent/ arterial‑venous  O2 content difference ratio; L/P ratio: Lactate/piruvate 
+ratio; StO2: Thenar muscle saturation; PDR‑ICG: Plasma disappearance rate of 
+indocyanine green; MFI: Microcirculatory flow index.
+Authors’ contributions
+RC, EK and GH are guarantors of the entire manuscript; RC, GOT, GH, and JB 
+designed the study; All authors helped in recruiting patients or in logistic 
+technical support; All authors aided in data interpretation and development of 
+the final manuscript draft. All authors read and approved this final manuscript.
+Funding
+The present study was supported by a FONDECYT Chile Grant project number 
+1170043.
+Availability of data and materials
+The datasets generated and/or analyzed during the current study are not pub‑
+licly available until August 2020, but are available before from the correspond‑
+ing author on reasonable request.
+Ethics approval and consent to participate
+The study was approved by institutional review boards at both hospitals. 
+Informed consent was obtained from patients or legally authorized sur‑
+rogates. The study was approved by the Institutional Review Board of both 
+centers (Comité Etico‑Científico, Facultad de Medicina PUC: 2/5/2017 number 
+170323007; Comité Etico‑Científico, Servicio de Salud Metropolitano Sur: 
+5/22/2018 number 2267).
+Consent for publication
+Not applicable.
+Competing interests
+All authors declare no conflict of interest.
+Author details
+1 Departamento de Medicina Intensiva, Facultad de Medicina, Pontificia Uni‑
+versidad Católica de Chile, Diagonal Paraguay 362, Santiago, Chile. 2 Unidad de 
+Cuidados Intensivos, Hospital Barros Luco‑Trudeau, Santiago, Chile. 3 Departa‑
+mento de Medicina Interna, Facultad de Medicina, Universidad de Concep‑
+ción, Concepción, Chile. 4 Department of Intensive Care Medicine, Fundación 
+Valle del Lili, Universidad ICES, Cali, Colombia. 5 Division of Pulmonary, Allergy, 
+and Critical Care Medicine, Columbia University Medical Center, New York, 
+USA. 6  Department Intensive Care Adults, Erasmus MC University Medical 
+Center, Rotterdam, CA, The Netherlands. 7 Division of Pulmonary, and Critical 
+Care Medicine, New York University‑Langone, New York, USA. 
+Received: 18 January 2020   Accepted: 17 October 2020
+References
+ 1. Hernandez G, Bruhn A, Castro R, Regueira T. The holistic view on perfu‑
+sion monitoring in septic shock. Curr Opin Crit Care. 2012;18:280–6. 
+ 2. Rhodes A, Evans L, Alhazzani W, Levy M, Antonelli M, Ferrer R, et al. Surviv‑
+ing Sepsis Campaign: International Guidelines for Management of Sepsis 
+and Septic Shock: 2016. Crit Care Med. 2017;45:486–552. 
+ 3. Hernandez G, Luengo C, Bruhn A, Kattan E, Friedman G, Ospina‑Tascon 
+G, et al. When to stop septic shock resuscitation: clues from a dynamic 
+perfusion monitoring. Ann Intensive Care. 2014;4:30. 
+ 4. Hernandez G, Bellomo R, Bakker J. The ten pitfalls of lactate clearance in 
+sepsis. Intensive Care Med. 2019;45:82–5. 
+ 5. Payen D, de Pont AC, Sakr Y, Spies C, Reinhart K, Vincent JL. A positive fluid 
+balance is associated with a worse outcome in patients with acute renal 
+failure. Crit Care. 2008;12:1–7. 
+ 6. Boyd JH, Forbes J, Nakada TA, Walley KR, Russell JA, Frcp C, et al. Fluid 
+resuscitation in septic shock: A positive fluid balance and elevated central 
+venous pressure are associated with increased mortality. Crit Care Med. 
+2011;39:259–65. 
+ 7. Bagshaw SM, Brophy PD, Cruz D, Ronco C. Fluid balance as a biomarker : 
+impact of fluid overload on outcome in critically ill patients with acute 
+kidney injury. Crit Care. 2008;12:1–3. 
+ 8. Hernandez G, Pedreros C, Veas E, Bruhn A, Romero C, Rovegno M, et al. 
+Evolution of peripheral vs metabolic perfusion parameters during septic 
+shock resuscitation A clinical‑physiologic study. J Crit Care. 2012;27:283–8. 
+ 9. Lima A, Jansen TC, Van Bommel J, Ince C, Bakker J. The prognostic value of 
+the subjective assessment of peripheral perfusion in critically ill patients. 
+Crit Care Med. 2009;37:934–8. 
+ 10. Van Genderen ME, Engels N, Van Der Valk RJP , Lima A, Klijn E, Bakker J, 
+et al. Early peripheral perfusion‑guided fluid therapy in patients with 
+septic shock. Am J Respir Crit Care Med. 2015;191:477–80. 
+ 11. Lara B, Enberg L, Ortega M, Leon P , Kripper C, Aguilera P , et al. Capillary 
+refill time during fluid resuscitation in patients with sepsis‑related hyper‑
+lactatemia at the emergency department is related to mortality. PLoS 
+ONE. 2017;12:e0188548. 
+[[p9]]
+Page 9 of 9
+Castro et al. Ann. Intensive Care          (2020) 10:150 
+ 
+ 12. Hernández G, Cavalcanti AB, Ospina‑Tascón G, Dubin A, Hurtado FJ, 
+Damiani LP , et al. Statistical analysis plan for early goal‑directed therapy 
+using a physiological holistic view ‑ The andromeda‑shock: A randomized 
+controlled trial. Rev Bras Ter Intensiva. 2018;30:253–63. 
+ 13. Hernández G, Cavalcanti AB, Ospina‑Tascón G, Zampieri FG, Dubin A, 
+Hurtado FJ, et al. Early goal‑directed therapy using a physiological holistic 
+view: the ANDROMEDA‑SHOCK—a randomized controlled trial. Ann 
+Intensive Care. 2018;8:52. 
+ 14. Hernandez G, Ospina‑Tascon G, Petri Damiani L, Estenssoro E, Dubin A, 
+Hurtado J, et al. Effect of a resuscitation strategy targeting peripheral per‑
+fusion status vs serum lactate levels on 28‑day mortality among patients 
+with septic shock The andromeda‑shock randomized Clinical Trial. JAMA. 
+2019;321:654–64. 
+ 15. Zampieri FG, Damiani LP , Bakker J, Ospina‑Tascón GA, Castro R, Cavalcanti 
+AB, et al. Effect of a resuscitation strategy targeting peripheral perfusion 
+status vs serum lactate levels on 28‑day mortality among patients with 
+septic shock: a bayesian reanalysis of the andromeda‑shock trial. Am J 
+Respir Crit Care Med. 2019. https ://doi.org/10.1164/rccm.20190 5‑0968O C. 
+ 16. Singer M, Deustchman C, Warren Seymour C, Shankar‑Hari M, Annane D, 
+Bauer M, et al. The third international consensus definitions for sepsis and 
+septic shock (Sepsis‑3). JAMA. 2016;315:801–10. 
+ 17. Monnet X, Teboul JL. Assessment of fluid responsiveness: recent 
+advances. Curr Opin Crit Care. 2018;24:190–5. 
+ 18. Kattan E, Ospina‑Tascón GA, Teboul JL, Castro R, Cecconi M, Ferri G, et al. 
+Systematic assessment of fluid responsiveness during early septic shock 
+resuscitation: Secondary analysis of the ANDROMEDA‑SHOCK trial. Crit 
+Care. 2020;24:23. 
+ 19. De Backer D, Vincent JL. Should we measure the central venous pressure 
+to guide fluid management? Ten answers to 10 questions. Crit Care. 
+2018;22:43. 
+ 20. Vellinga NAR, Boerma EC, Koopmans M, Donati A, Dubin A, Shapiro NI, 
+et al. International study on microcirculatory shock occurrence in acutely 
+Ill patients*. Crit Care Med. 2015;43:48–56. 
+ 21. Hernandez G, Bruhn A, Luengo C, Regueira T, Kattan E, Fuentealba A, 
+et al. Effects of dobutamine on systemic, regional and microcirculatory 
+perfusion parameters in septic shock: A randomized, placebo‑controlled, 
+double‑blind, crossover study. Intensive Care Med. 2013;39:1435–43. 
+ 22. Halle BM, Poulsen TD, Pedersen HP . Indocyanine green plasma disap‑
+pearance rate as dynamic liver function test in critically ill patients. Acta 
+Anaesthesiol Scand. 2014;58:1214–9. 
+ 23. Inal MT, Memiş D, Kargi M, Sut N. Prognostic value of indocyanine 
+green elimination assessed with LiMON in septic patients. J Crit Care. 
+2009;24:329–34. 
+ 24. Lima A, Van Bommel J, Sikorska K, Van Genderen M, Klijn E, Lesaffre E, et al. 
+The relation of near‑infrared spectroscopy with changes in peripheral 
+circulation in critically ill patients. Crit Care Med. 2011;39:1649–54. 
+ 25. Ospina‑Tascón GA, Hernández G, Cecconi M. Understanding the venous–
+arterial CO2 to arterial–venous O2 content difference ratio. Intensive Care 
+Med. 2016;42:1801–4. 
+ 26. Ospina‑Tascón GA, Calderón Tapia LE. Venous‑arterial CO2 to arterial‑
+venous O2 differences: A physiological meaning debate. J Crit Care. 
+2018;48:443–4. 
+ 27. Gavelli F, Teboul JL, Monnet X. How can CO2‑derived indices guide resus‑
+citation in critically ill patients? J Thorac Dis. 2019;11:1528–37. 
+ 28. Rimachi R, Bruzzi De Carvahlo F, OrellanoJimenez C, Cotton F, Vincent 
+JL, De Backer D. Lactate/pyruvate ratio as a marker of tissue hypoxia in 
+circulatory and septic shock. Anaesth Intensive Care. 2012. 40:427–32.
+ 29. Brunauer A, Koköfer A, Bataar O, Gradwohl‑Matis I, Dankl D, Bakker J, et al. 
+Changes in peripheral perfusion relate to visceral organ perfusion in early 
+septic shock: A pilot study. J Crit Care. 2016;35:105–9. 
+ 30. Ait‑Oufella H, Lemoinne S, Boelle PY, Galbois A, Baudel JL, Lemant J, et al. 
+Mottling score predicts survival in septic shock. Intensive Care Med. 
+2011;37:801–7. 
+ 31. Ait‑Oufella H, Joffre J, Boelle PY, Galbois A, Bourcier S, Baudel JL, et al. 
+Knee area tissue oxygen saturation is predictive of 14‑day mortality in 
+septic shock. Intensive Care Med. 2012;38:976–83. 
+ 32. Bourcier S, Pichereau C, Boelle PY, Nemlaghi S, Dubée V, Lejour G, et al. 
+Toe‑to‑room temperature gradient correlates with tissue perfusion and 
+predicts outcome in selected critically ill patients with severe infections. 
+Ann Intensive Care. 2016;6:63. 
+ 33. Macintyre NR. Tissue hypoxia: Implications for the respiratory clinician. 
+Respir Care. 2014;59:1590–6. 
+ 34. Ospina‑Tascón GA, Umaña M, Bermúdez W, Bautista‑Rincón DF, 
+Hernandez G, Bruhn A, et al. Combination of arterial lactate levels and 
+venous‑arterial CO2 to arterial‑venous O2 content difference ratio as 
+markers of resuscitation in patients with septic shock. Intensive Care Med. 
+2015;41:796–805. 
+ 35. McKinley B, Marvin R, Cocanour C, Moore F. Tissue Hemoglobin O2 Satu‑
+ration during Resuscitation of Traumatic Shock Monitored Using Near 
+Infrared Spectrometry. J Trauma Inj Infect Crit Care. 2000;48:637–42. 
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations.

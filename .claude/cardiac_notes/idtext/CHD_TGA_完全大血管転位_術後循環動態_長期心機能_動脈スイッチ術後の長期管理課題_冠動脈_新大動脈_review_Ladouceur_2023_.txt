@@ -1,0 +1,254 @@
+
+[[p1]]
+International Journal of Cardiology Congenital Heart Disease 15 (2024) 100487
+Available online 8 December 2023
+2666-6685/© 2023 Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Arterial switch operation: A surgical triumph with long-term management challenges  
+ARTICLE INFO  
+Keywords 
+D-transposition of the great arteries 
+Arterial switch operation 
+Coronary artery disease 
+Aortopathy 
+ABSTRACT  
+Since the late 1980s, the standard approach for treating D-transposition of the great arteries has been the arterial 
+switch operation (ASO), replacing the Mustard/Senning procedure. Although ASO has shown impressive long- 
+term survival rates, recent case series have revealed late complications such as neoaortic dilation and coro -
+nary artery stenosis. New findings emphasize the need for comprehensive evaluation of coronary risk and a 
+deeper understanding of the mechanisms leading to coronary artery stenosis and myocardial ischemia over the 
+long term. Computed tomography angiography (CTA) has unveiled a notable prevalence of abnormal coronary 
+arteries with potential risk of stenosis and myocardial ischemia. Moreover, the progressive dilation of the neo -
+aortic root and the potential for valve regurgitation necessitating intervention warrant serial imaging follow-up. 
+Considering the radiation risks associated with CTA, magnetic resonance imaging emerges as a preferred mo -
+dality for post-ASO patient assessment. Ongoing research in this field holds the promise of developing improved 
+diagnostic and therapeutic strategies for these patients, thereby enhancing their long-term care   
+In 1975, Dr. Adib Dominos Jatene and colleagues pioneered a 
+groundbreaking surgical procedure known as the arterial switch oper -
+ation (ASO) to treat patients born with D-transposition of the great ar -
+teries (TGA) [ 1 ]. In the initial years following its introduction, the ASO 
+was associated with a significant mortality rate. Nevertheless, during the 
+1980s, advancements in surgical techniques, perioperative medical care, 
+coronary translocation, and the LeCompte manoeuvre ushered in a 
+period of marked improvement in both short-term and long-term sur -
+vival. These developments have underscored the ASO as a highly 
+effective procedure. 
+The LeCompte manoeuvre, which involves the repositioning of the 
+distal main pulmonary artery along with its branch pulmonary arteries 
+to the forefront, while simultaneously shifting the distal aorta to a more 
+posterior position, has emerged as the most employed technique for 
+performing ASO [ 2 ]. In this procedure, the distal main pulmonary artery 
+is anastomosed to the proximal aorta, connecting it with the right 
+ventricle. Simultaneously, the distal ascending aorta is anastomosed to 
+the proximal main pulmonary artery, creating a connection with the left 
+ventricle outflow tract. Furthermore, the coronary artery ostia, origi -
+nating from both the left and right sides, are meticulously excised from 
+the native aortic root, along with the surrounding aortic walls. These 
+carefully preserved components, often referred to as “ buttons, ” are then 
+translocated to the newly formed aortic root (neoaortic root). 
+Although the long-term outcomes of this surgical intervention are yet 
+to be fully elucidated, numerous case series have reported remarkable 
+long-term survival extending up to four decades post-ASO [ 3 ]. Within 
+these case series, late complications have been noted, encompassing 
+residual lesions such as neopulmonary and neoaortic valve regurgita -
+tion, supravalvar aortic and right ventricular outflow tract stenosis, 
+progressive dilation of the neoaorta, and coronary artery stenosis. 
+Advancements in surgical techniques, notably the implementation of 
+expansive trapdoor incisions to mitigate the extent of axial rotation of 
+coronary buttons during translocation, have yielded tangible enhance -
+ments in surgical outcomes. This has, in turn, facilitated the effective 
+transfer of all conceivable coronary patterns. Nevertheless, it is para -
+mount to acknowledge that despite the feasibility of transitioning be -
+tween different patterns, there undeniably exist certain native coronary 
+dispositions that present more intricate technical challenges when it 
+comes to the translocation process. 
+Consequently, the concern regarding an increased risk of coronary 
+artery disease remains paramount, due to the associated risk of sudden 
+cardiac death. In most TGA- ASO patients, one or both coronary arteries 
+initiate their course between the great vessels. Their course may have a 
+highly tangential orientation to the neo-aorta, with a plication of the 
+proximal coronary ’ s origin angle. However, there is no evidence for a 
+correlation between the post-ASO coronary geometry and the likelihood 
+of ischemia-related events. 
+In this issue of the Journal, Verheijen and colleagues have provided 
+some elements for a screening strategy for coronary artery lesions in 
+adults after ASO [ 4 ]. The authors are to be commended for their efforts. 
+In the study, they included 81 adult TGA-ASO patients who underwent 
+computed tomography angiography (CTA) and reported that 27% had 
+an acute coronary take-off angle ( < 30
+◦
+), and 6% an inter-arterial course. 
+Interestingly, patients who required coronary revascularization were 
+??????L??G?[?QT
+◦
+). This result un -
+derscores one of the possible mechanisms leading to coronary artery 
+stenosis and myocardial ischemia among patients after ASO. Patients 
+with acute coronary artery take-off angles may be more prone to late 
+Contents lists available at ScienceDirect 
+International Journal of Cardiology  
+Congenital Heart Disease 
+journal homep age: www. journals.el sevier.com/int ernational- 
+journal -of-cardiolo gy-congenita l-heart-disea se 
+https://doi.org/10.1016/j.ijcchd.2023.100487 
+Received 19 October 2023; Received in revised form 1 December 2023; Accepted 4 December 2023   
+[[p2]]
+International Journal of Cardiology Congenital Heart Disease 15 (2024) 100487
+2
+coronary compression due to overstretching of the coronary course as a 
+result of progressive dilatation of the neoaortic root [ 5 ]. Another 
+mechanism of coronary artery stenosis after ASO may be related to the 
+positional changes of these arteries during growth. These changes may 
+shift the transplanted coronary arteries (specially the main left and the 
+left anterior descending coronary arteries) to a more anterior position, 
+resulting in an interarterial course of these vessels and compression due 
+to haemodynamic changes during exercise [ 6 ]. Furthermore, a pre -
+pulmonary course of coronary arteries in patients with a single coronary 
+ostium may stretch the coronary arteries and lead to stenosis. An 
+intramural course has been also described to be associated with a high 
+risk of sudden cardiac death after ASO [ 7 ]. Finally, proximal eccentric 
+intimal thickening has been observed and suggested as a potential 
+mechanism of coronary stenosis after ASO [ 8 ]. 
+The arrangement of great vessels and the positioning and the path of 
+the transplanted coronary arteries post-ASO result in a condition akin to 
+a surgically created anomalous aortic origin of the coronary arteries 
+(AAOCA). Such as in AAOCA, several coronary lesions after ASO have 
+led to ischemia-related ventricular arrhythmia [ 9 ]. Moreover, the sur -
+gical denervation of the coronary arteries may lead to both, a less 
+laminar coronary blood flow, which may cause endothelial dysfunction 
+and atherosclerosis over time, and a lesser vasodilatation response 
+during exercise due to the lack of sympathetic activity [ 10 ]. 
+Thus, we are left with a long-term management dilemma. What 
+should we do with these patients? How should we follow them and how 
+long? The 2018 AHA/ACC Guideline suggests periodic evaluation of 
+coronary arteries using CTA, magnetic resonance imaging (MRI), or 
+catheter angiography for asymptomatic patients to check coronary 
+patency [ 11 ]. Further assessment is advised if symptoms of coronary 
+ischemia arise. In asymptomatic individuals, the ESC guidelines ques -
+tion the indication for routine screening for coronary artery disease, 
+whatever the modality [ 12 ]. The study of Verheijen et al. supports a 
+systematic CTA screening of coronary arteries lesion at least once during 
+the follow-up in adults after ASO, aiding in the early detection of 
+high-risk coronary lesions, which will require additional evaluations, 
+such as non-invasive myocardial ischemia testing. Because an increased 
+incidence of cancer has been observed after diagnostic ionizing radiation 
+exposure, including low-dose ionizing radiation exposure, magnetic 
+resonance imaging for the study of the coronary arteries after ASO 
+should be preferred over coronary computed tomography angiography 
+[ 13 ]. However, detection of ischemia in such coronary artery anomalies 
+is challenging as the mechanisms leading to ischemia differ from pa -
+tients with coronary atherosclerosis. Stress testing modalities like MRI 
+or positron emission tomography using physical exercise or dobutamine 
+should probably be considered [ 14 ]. The study ’ s findings also highlight 
+a notably higher prevalence of cardiovascular risk factors in patients 
+requiring reintervention after ASO, compared to those without such is -
+sues (40% vs. 7%). This result emphasizes the importance of imple -
+menting preventive measures for atherosclerotic cardiovascular disease 
+to alleviate the acquired cardiovascular burden in these patients [ 15 ]. 
+Another important finding from the Verheijen et al. study is the high 
+prevalence of neoaortic dilatation (43%), including 10% who required 
+neoaortic reintervention in a relatively young population (median age 
+21 years). They reported a progression of neoaortic root dilatation with 
+age in adult TGA-ASO, with an average annual growth rate in neoaortic 
+root dimensions of 0.16 mm over an 8-year follow-up period. Even 
+though neoaortic root dilatation rarely progresses to neoaortic root 
+dissection, baseline and serial imaging with echocardiography and MRI 
+seems reasonable to confirm the absence of neoaortic dilatation. Five 
+percent of patients from the study experienced neoaortic valve 
+replacement [ 4 ]. The potential for neoaortic valve regurgitation seemed 
+to increase as time passed post-surgery. As consequence, the initial 
+severity of neoaortic insufficiency should determine the frequency of 
+follow-up surveillance. 
+Even with the potential disease burden, most TGA-ASO patients have 
+achieved remarkable long-term outcomes. The ongoing journey of post- 
+ASO care can be viewed from different angles, much like the age-old 
+question of whether the glass is half-empty or half-full. Therefore, by 
+conducting high-quality research in the field (such as the current study) 
+we may be able to design better diagnostic and therapeutic strategies, 
+which may finally lead to improved patient outcomes and to tilt the 
+scales in favour of a rather full glass. 
+Disclosure 
+One or more of the co-authors serve as members of the Editorial 
+Board for IJC Congenital Heart Disease. They had no role in the editorial 
+review of or decision to publish this article. 
+CRediT authorship contribution statement 
+Magalie Ladouceur: Conceptualization, Formal analysis, Writing – 
+original draft. Francisco Javier Ruperti-Repilado: Conceptualization, 
+Formal analysis, Writing – review & editing. Tobias Rutz: Formal 
+analysis, Writing – review & editing. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+References 
+[1] Jatene AD, Fontes VF, Paulista PP, de Souza LC, Neger F, Galantier M, et al. Suc -
+cessful anatomic correction of transposition of the great vessels. A preliminary 
+report. Arq Bras Cardiol 1975;28(4):461 – 4 . 
+[2] Lecompte Y, Neveux JY, Leca F, Zannini L, Tu TV, Duboys Y, et al. Reconstruction 
+of the pulmonary outflow tract without prosthetic conduit. J Thorac Cardiovasc 
+Surg 1982;84(5):727 – 33 . 
+[3] van Wijk SWH, Wulfse M, Driessen MMP, Slieker MG, Doevendans PA, Schoof PH, 
+et al. Fifth decennium after the arterial switch operation for transposition of the 
+great arteries. Int J Cardiol Congenit Heart Dis 2023;12:100451 . 
+[4] Verheijen DBH, Engele LJ, Egorova AD, St ¨oger JL, Mertens BJA, Roel L, van der 
+Palen F, et al. Late follow-up of neo-aortic dimensions and coronary arteries in 
+adult patients after the arterial switch operation. Int J Cardiol Congenit Heart Dis 
+2023:100481 . 
+[5] Virmani R, Chun PKC, Goldstein RE, Robinowitz M, Mcallister HA. Acute takeoffs 
+of the coronary arteries along the aortic wall and congenital coronary ostial valve- 
+like ridges: association with sudden death. J Am Coll Cardiol 1984;3(3):766 – 71 . 
+[6] Baruteau AE, Vergnat M, Kalfa D, Delpey JG, Ly M, Capderou A, et al. Long-term 
+outcomes of the arterial switch operation for transposition of the great arteries and 
+ventricular septal defect and/or aortic arch obstruction. Interact Cardiovasc Thorac 
+Surg 2016;23(2):240 – 6 . 
+[7] Koubský K, Gebauer R, Tl ´askal T, Mat ˇejka T, Poruban R, Ji ˇcínsk ´a D, et al. Long- 
+term survival and freedom from coronary artery reintervention after arterial switch 
+operation for transposition of the great arteries: a population-based nationwide 
+study. J Am Heart Assoc 2021;10(13):e020479 . 
+[8] Pedra SRFF, Pedra CAC, Abizaid AA, Braga SLN, Staico R, Arrieta R, et al. Intra -
+coronary ultrasound assessment late after the arterial switch operation for trans -
+position of the great arteries. J Am Coll Cardiol 2005;45(12):2061 – 8 . 
+[9] Engele LJ, van der Palen RLF, Egorova AD, Bartelings MM, Wisse LJ, Glashan CA, 
+et al. Cardiac fibrosis and innervation state in uncorrected and corrected trans -
+position of the great arteries: a postmortem histological analysis and systematic 
+review. J Cardiovasc Dev Dis 2023;10(4):180 . 
+[10] Possner M, Buechel RR, Vontobel J, Mikulicic F, Gr ¨ani C, Benz DC, et al. 
+Myocardial blood flow and cardiac sympathetic innervation in young adults late 
+after arterial switch operation for transposition of the great arteries. Int J Cardiol 
+2020;299:110 – 5 . 
+[11] Stout KK, Daniels CJ, Aboulhosn JA, Bozkurt B, Broberg CS, Colman JM, et al. 
+AHA/ACC guideline for the management of adults with congenital heart disease: a 
+report of the American College of Cardiology/American Heart Association Task 
+Force on Clinical Practice Guidelines. Circulation 2018;139(14):e698 – 800. 2019 
+Apr 2 . 
+[12] Baumgartner H, De Backer J, Babu-Narayan SV, Budts W, Chessa M, Diller GP, 
+et al. ESC guidelines for the management of adult congenital heart disease: the task 
+force for the management of adult congenital heart disease of the European Society 
+of Cardiology (ESC). Endorsed by: Association for European Paediatric and 
+Congenital Cardiology (AEPC), International Society for Adult Congenital Heart 
+Disease (ISACHD). Eur Heart J 2020;42(6):563 – 645. 2021 Feb 7 . 
+[13] Hong JY, Han K, Jung JH, Kim JS. Association of exposure to diagnostic low-dose 
+ionizing radiation with risk of cancer among youths in South Korea. JAMA Netw 
+Open 2019;2(9):e1910584 . 
+M. Ladouceur et al.                                                                                                                                                                                                                             
+[[p3]]
+International Journal of Cardiology Congenital Heart Disease 15 (2024) 100487
+3
+[14] Gr ¨ani C, Buechel RR, Kaufmann PA, Kwong RY. Multimodality imaging in in -
+dividuals with anomalous coronary arteries. JACC Cardiovasc Imaging 2017;10(4): 
+471 – 81 . 
+[15] Brida M, De Rosa S, Legendre A, Ladouceur M, Dos Subira L, Scognamiglio G, et al. 
+Acquired cardiovascular disease in adults with congenital heart disease. Eur Heart 
+J 2023:ehad570 . 
+Magalie Ladouceur
+* 
+Department of Cardiology, University Hospitals of Geneva, Rue Gabrielle- 
+Perret-Gentil 4, 1211, Geneva, Switzerland 
+Francisco Javier Ruperti-Repilado 
+Department of Cardiology, University Hospital of Basel, Basel, Switzerland 
+Tobias Rutz 
+Service of Cardiology, Lausanne University Hospital and University of 
+Lausanne, Lausanne, Switzerland 
+*
+Corresponding author. 
+E-mail address: magalie.ladouceur@gmail.com (M. Ladouceur). 
+M. Ladouceur et al.                                                                                                                                                                                                                             

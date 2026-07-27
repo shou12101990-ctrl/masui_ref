@@ -1,0 +1,1341 @@
+
+[[p1]]
+Review
+Anesth Pain Med 2026;21:13-26
+https://doi.org/10.17085/apm.25459
+pISSN 1975-5171 • eISSN 2383-7977
+Modern neuraxial labor analgesia: techniques, 
+pharmacologic strategies, and maternal–fetal 
+outcomes
+Ae-ryoung Lee
+Department of Anesthesiology and Pain Medicine, Jeju National University Hospital, Jeju, 
+Korea
+Received November 20, 2025
+Revised January 5, 2026
+Accepted January 22, 2026
+Corresponding author
+Ae-ryoung Lee, M.D., Ph.D. 
+Department of Anesthesiology and 
+Pain Medicine, Jeju National University 
+Hospital, 15 Aran 13-gil, Jeju 63241, 
+Korea
+Tel: 82-64-717-1810 
+Fax: 82-64-717-2042 
+E-mail: nanrong95@naver.com
+Neuraxial labor analgesia (NLA) remains the gold standard for intrapartum pain manage-
+ment, providing superior analgesia, higher maternal satisfaction, and improved fetal safety 
+compared with systemic or inhalational techniques. Recent advances in initiation methods—
+including epidural analgesia, combined spinal–epidural, and dural puncture epidural tech-
+niques—as well as optimized pharmacological regimens using low-concentration local anes-
+thetics combined with lipophilic opioids, have improved analgesic onset, sacral coverage, 
+and block uniformity while minimizing motor blockade. Modern maintenance strategies, 
+particularly programmed intermittent epidural bolus administration with patient-controlled 
+supplementation, further enhance analgesic quality and reduce local anesthetic consump-
+tion. NLA does not adversely affect obstetric outcomes, including labor duration, instrumen-
+tal delivery, or cesarean section rates, and has no detrimental effect on Apgar scores, cord 
+blood gas levels, or admission to the neonatal intensive care unit. Ultrasound guidance re-
+duces technical complications such as unintended dural puncture and failure. Long-term 
+maternal and offspring outcomes, including postpartum depression and childhood neurode-
+velopmental disorders, have shown no causal association with NLA after rigorous adjust-
+ment for confounding factors. Collectively, modern neuraxial techniques provide effective, 
+individualized, and physiologically favorable analgesia throughout labor with improvements 
+in short- and long-term outcomes. Ongoing improvements in pharmacological approaches, 
+adjuvant selection, and delivery algorithms will improve the safety, efficiency, and personal-
+ization of obstetric anesthesia practice.
+Keywords: Analgesia, epidural; Labor pain; Mothers, Newborns, Obstetrics; Prognosis.
+INTRODUCTION
+Labor pain is one of the most severe types of pain experi-
+enced by women during their lifetime. Pain perception var-
+ies widely depending on psychological, cultural, and physio-
+logical factors. Fear of labor pain contributes to the prefer -
+ence for cesarean section even in the absence of medical in-
+dications in some populations [ 1]. Therefore, effective pre-
+natal counseling and appropriate analgesia play crucial roles 
+in improving preference for vaginal delivery and maternal 
+satisfaction.
+Understanding the characteristics and mechanisms of la-
+bor pain is essential for developing a rational and effective 
+analgesic strategy. Labor is divided into three phases. The 
+first phase, from the onset of regular uterine contractions to 
+full cervical dilatation, is characterized by visceral pain 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (https://creativecommons.org/licenses/by-nc/4.0) which permits 
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+© The Korean Society of Anesthesiologists, 2026
+13
+KSOA
+
+[[p2]]
+caused by uterine contractions and cervical dilatation. This 
+pain is transmitted via the T10–L1 afferent nerves and is typ-
+ically felt as a widespread discomfort in the lower abdomen 
+and back. The second phase, ranging from full cervical dila-
+tation to fetal delivery, is characterized by somatic pain due 
+to tension and distension in the vagina, perineum, and pel-
+vic floor. This pain is primarily transmitted through the pu-
+dendal nerves (S2–S4). The third phase, from fetal to placen-
+tal delivery, involves mild visceral sensations associated 
+with uterine contractions and placental separation [2,3].
+These dynamic changes in pain characteristics and neu -
+rotransmitter pathways during labor have provided evidence 
+supporting neuraxial labor analgesia (NLA) as the most ef -
+fective pain management strategy, endorsed by the World 
+Health Organization (WHO) and major professional societ-
+ies as the gold standard for labor analgesia [4].
+The efficacy and safety of NLA have significantly improved 
+over the past two decades through extensive clinical experi-
+ence and research, including technological advancements 
+and pharmacological approaches. Collectively, these inno-
+vations have improved analgesic onset, block uniformity, 
+sacral coverage, and maternal satisfaction, while minimizing 
+motor blockade and drug exposure. Despite these advances, 
+the clinical application of NLA remains influenced by per -
+sistent controversial and inconsistent interpretation of the 
+literature. Long-standing concerns regarding delayed labor, 
+increased operative delivery, higher oxytocin doses, mater-
+nal fever, and potential long-term effects on maternal men-
+tal health or child neurodevelopment continue to shape 
+clinical practice and patient counseling.
+Anesthesiologists are expected to not only provide techni-
+cally proficient analgesia but also guide interdisciplinary 
+teams and counsel patients based on clinical data that accu-
+rately reflect contemporary practice. By synthesizing the lat-
+est data on procedural approaches, pharmacological thera-
+pies, maternal and neonatal outcomes, and long-term safe-
+ty, this review aims to support individualized and informed 
+clinical decision-making. Furthermore, we aimed to provide 
+mothers and their families with clear and balanced informa-
+tion on the benefits, potential risks, and expected clinical 
+outcomes of NLA. Strengthening the shared understanding 
+between healthcare providers and women undergoing labor 
+will ultimately promote safer care, reduce anxiety related to 
+labor pain management, and support a positive birth experi-
+ence.
+INITIATION TIME
+The optimal timing of NLA initiation remains controver -
+sial. Traditionally, concerns have been raised about whether 
+early NLA during the latent phase of labor (cervical dilation 
+<  4 cm) may delay the progression of labor or increase the 
+likelihood of a cesarean section [ 5]. A Cochrane review 
+found no significant difference in cesarean section rates or 
+maternal or fetal outcomes comparing early and delayed 
+NLA (cervical dilation ≥  4 cm), although early NLA in -
+creased the rate of oxytocin use [6]. Furthermore, very early 
+NLA administration may slightly delay the onset of labor, 
+and some investigators have suggested that the optimal tim-
+ing for epidural analgesia (EA) is cervical dilation of ≥  6 cm 
+[7]. To date, conflicting results have been reported regarding 
+the potential impact of NLA on obstetric outcomes, espe -
+cially delayed labor [ 5-11]. Nevertheless, randomized con -
+trolled trials and meta-analyses have consistently shown 
+that early NLA administration does not adversely affect ma-
+ternal or neonatal outcomes.
+Considering all these findings, the American College of 
+Obstetricians and Gynecologists (ACOG) recommended in 
+2019 that maternal request alone is a valid reason to initiate 
+analgesia unless there is a medical contraindication [ 12]. 
+This interpretation supports the contemporary guidelines 
+that prioritize patient-centered analgesia while avoiding un-
+necessary delays that may exacerbate pain, stress, and cate-
+cholamine-mediated physiological responses during labor.
+INITIATION TECHNIQUES
+The three major methods of analgesia currently used in 
+obstetric practice are EA, combined spinal epidural (CSE), 
+and dural puncture epidural (DPE) techniques [ 13]. Each 
+technique differs in approach, analgesic onset, block char -
+acteristics, and maternal–fetal effects.
+EA is the conventional and most widely performed anal -
+gesia technique. After identifying the epidural space, typical-
+ly at the L3–L4 or L4–L5 interspace, using the loss-of-resis -
+tance method, a catheter is advanced 3–5 cm into the epi -
+dural space for intermittent or continuous infusion of dilute 
+local anesthetic–opioid mixtures. EA provides reliable and 
+adjustable analgesia throughout all stages of labor and can 
+be easily extended to cesarean sections. The onset is rela -
+tively slow (15–20 min), and sacral coverage may be incom-
+plete, sometimes requiring supplemental manual boluses 
+[13]. Hemodynamic stability is generally well-preserved, and 
+14 www.anesth-pain-med.org
+Anesth Pain Med Vol. 21 No. 1
+[[p3]]
+both maternal satisfaction and neonatal outcomes are favor-
+able. Although a slight prolongation of the second stage and 
+an increased rate of instrumental vaginal delivery have been 
+reported, especially in conventional high-concentration 
+drug use, high-quality meta-analyses have suggested that 
+low-concentration EA does not increase cesarean section 
+rates or adverse neonatal outcomes [14,15].
+CSE analgesia combines the advantages of two techniques 
+(epidural and spinal analgesia). After identifying the epidur-
+al space, a thin spinal needle (25–29 gauge [G]) is inserted 
+through the epidural needle, and a small dose of local anes-
+thetic and/or opioid is administered intrathecally before in-
+sertion of the epidural catheter. This method has a rapid on-
+set within 2–5 min, effectively covers the sacral area, and 
+achieves a high maternal satisfaction [16]. Despite concerns 
+about delayed confirmation of epidural catheter function, 
+the incidence of replaced catheters (CSE 1.49% vs. EA 3.18%) 
+and the overall failure rate of CSE is lower than that of EA 
+[17,18]. This is likely due to the need for a more centrally 
+placed epidural needle for a successful spinal tap and the 
+ability to confirm the epidural space indirectly by regurgita-
+tion of the spinal fluid. However, intrathecal medication ad-
+ministration can cause transient maternal hypotension, 
+itching, or decrease the fetal heart rate (FHR) [19,20]. Large 
+cohort and meta-analysis data have shown that CSE has no 
+negative effects on cesarean section rates, length of labor, 
+neonatal Apgar scores, or umbilical blood acidosis [19,21].
+DPE is a modified form of CSE analgesia that involves 
+puncturing the dura mater with a fine spinal needle, without 
+intrathecal injection. This intentional micropuncture pro -
+motes communication between the intrathecal and epidural 
+spaces, thereby improving the diffusion and homogeneity of 
+epidural drugs. DPE avoids the itching and hemodynamic 
+changes associated with intrathecal administration while of-
+fering a faster onset of action and superior sacral analgesia 
+than EA alone [22-24]. DPE offers superior block quality and 
+comparable obstetric and neonatal outcomes to conven -
+tional EA, establishing it as a viable alternative in modern la-
+bor analgesia practice [24,25]. DPE also reduces the need for 
+catheter repositioning, likely for reasons similar to those for 
+CSE. Intentional epidural puncture has been shown not to 
+increase the incidence of post-dural puncture headache 
+(PDPH) [26].
+Comparative evidence suggests that differences in clinical 
+outcomes for the EA, CSE, and DPE techniques are modest 
+and largely mediated by onset kinetics, block density, and 
+sacral coverage rather than by the intrinsic superiority of any 
+single technique. CSE consistently provides the most rapid 
+and reliable analgesia but is associated with a higher inci -
+dence of transient maternal and fetal side effects related to 
+intrathecal drug administration. DPE offers an intermediate 
+profile, improving block quality and symmetry while mini -
+mizing adverse intrathecal effects, whereas conventional EA 
+remains a flexible and widely applicable option. Therefore, 
+technique selection should be individualized to balance the 
+need for rapid analgesia against maternal comorbidities, la-
+bor progression, and tolerance of potential side effects. Ta-
+bles 1, 2 provide a brief comparison of these characteristics 
+that will help clinicians select the most appropriate initiation 
+technique.
+DRUG CHOICES: LOCAL ANESTHETICS 
+AND ADJUVANTS
+With appropriate drug selection, concentration, and vol -
+ume, all NLA methods can provide excellent pain relief with 
+minimal impact on obstetric, maternal, and neonatal out -
+comes.
+Three local anesthetics are clinically significant for labor 
+analgesia: bupivacaine, levobupivacaine, and ropivacaine. 
+The key physicochemical properties that determine the on-
+set and duration of action include the ionization constant, 
+lipophilicity, and the degree of protein binding [27]. As lipo-
+philic drugs readily cross nerve cell membranes, their anal-
+gesic efficacy is closely related to their lipid solubility [13,27].
+The primary goal of neuraxial drug selection is to achieve 
+effective analgesia while minimizing motor blocks and ad -
+verse effects. The standard local anesthetic concentrations 
+for EA have evolved from 0.25% bupivacaine to lower con -
+centrations (0.1%) [15]. Low-concentration local anesthetics, 
+when combined with adjuvant medications, have been 
+shown to shorten the second stage of labor and reduce the 
+rate of instrumental vaginal delivery by preserving motor 
+function without compromising the quality of labor [15,28]. 
+In recent years, ropivacaine and levobupivacaine have re -
+placed racemic bupivacaine because of their reduced car -
+diotoxicity and tendency to induce motor blockade. These 
+drugs are typically used at concentrations of 0.0625–0.1%, 
+providing selective sensory blockade while minimizing mo-
+tor disturbances [29].
+Adding adjuvants to the epidural mixture further enhanc-
+es analgesia and reduces the required local anesthetic dose, 
+www.anesth-pain-med.org 15
+Neuraxial labor analgesia and outcomes
+KSOA
+[[p4]]
+Table 1. Summary of Drug Regimens for Neuraxial Labor Analgesia
+Drug Concentration/dose Advantage Limitation
+Local anesthetics
+ Bupivacaine  0.0625–0.125% Widely used reference standard; 
+excellent sensory analgesia
+Dose-dependent motor block at 
+higher concentrations
+ Levobupivacaine 0.0625–0.125% Comparable efficacy with reduced 
+cardiotoxicity
+Similar motor block profile at 
+higher doses
+ Ropivacaine 0.08–0.125% Less motor block at equipotent doses; 
+suitable for “walking epidural”
+Slightly less potent sensory block
+Opioids
+ Fentanyl 1–3 μg/ml (epidural) Faster onset, improved sacral 
+analgesia, ↓ MLAC
+Pruritus, mild nausea or sedation
+ Sufentanil 0.5–1 μg/ml (epidural) Highly potent lipophilic opioid; marked 
+↓ MLAC
+Pruritus, sedation; careful dose 
+titration
+Other adjuvants*
+?c?OMT–P?μN??QT–TO?μ?
+additive
+Opioid-sparing, ↓ nausea and pruritus Bradycardia, sedation; limited 
+obstetric RCTs
+?b?RO–VT?μ???`??gK?
+ Epinephrine 1–2 μg/ml Prolongs intrathecal block Uncertain benefit in epidural labor 
+analgesia
+Contemporary low-concentration epidural regimen: 0.0625-0.1% bupivacaine/levobupivacaine/ropivacaine combined with fentanyl 1-3 μg/
+ml or sufentanil 0.5-1 μg/ml, balancing effective analgesia with minimal motor blockade. MLAC: minimal local anesthetic concentration, RCTs: 
+randomized controlled trials. *Except for fentanyl and sufentanil, epidural adjuvants are used off-label for obstetric anesthesia.
+Table 2. Summary of Initiation and Maintenance Techniques for Neuraxial Labor Analgesia
+Phase Technique Typical regimen Advantage Limitation
+Initiation Epidural analgesia Low-concentration epidural 
+loading; reassess at 10–15 min
+Hemodynamic stability; 
+flexible extension to 
+surgical anesthesia
+Slower onset; incomplete 
+sacral block possible
+Combined spinal–
+epidural
+h??PO–QT?μ??
+sufentanil 2–5 μg ± LA, followed 
+by the epidural regimen
+Rapid onset; excellent sacral 
+coverage
+Transient hypotension, 
+pruritus, FHR changes
+Dural puncture 
+epidural
+Epidural regimen without 
+intrathecal drugs
+Improved block quality vs 
+epidural analgesia; stable 
+hemodynamics
+Slightly slower onset than 
+Combined spinal–epidural
+Maintenance PIEB with PCEA 8–12 ml bolus every 40–60 min Superior spread, ↓ LA use, 
+higher satisfaction
+Requires a PIEB-capable 
+pump
+CEI with PCEA 8–12 ml/h infusion Simple, widely available Higher LA consumption, more 
+motor block
+PCEA 4–8 ml bolus; lockout 10–20 min Improve autonomy; fewer 
+clinician top-ups
+Requires patient engagement
+Clinical considerations for technique selection. CSE (multiparous women, rapid labor progression, or advanced stage of labor) and DPE or EA (severe 
+pruritus gravidarum, shunt heart disease, or aortic stenosis) were initiated. For maintenance, technique selection is influenced by pump availability 
+and patient tolerance. In patients who report significant back pain, tingling, or paresthesia during the initial manual bolus or test dosing, CEI may 
+be a more appropriate maintenance strategy to minimize discomfort and avoid exacerbation of neurological complications. CSE: combined spinal 
+epidural, DPE: dural puncture epidural, EA: epidural analgesia, LA: local anesthetic, FHR: fetal heart rate, PIEB: programmed intermittent epidural 
+bolus, CEI: continuous epidural infusion, PCEA: patient-controlled epidural analgesia.
+thereby reducing the risk of motor blockade and systemic 
+local anesthetic toxicity. Commonly used adjuvants include 
+lipophilic opioids (fentanyl and sufentanil), adrenergic ago-
+nists (clonidine and dexmedetomidine), neostigmine, and 
+epinephrine.
+Neuraxial opioids play a crucial role in labor analgesia by 
+synergizing with local anesthetics to enhance analgesia, 
+while reducing the minimum local analgesic concentration. 
+16 www.anesth-pain-med.org
+Anesth Pain Med Vol. 21 No. 1
+[[p5]]
+Fentanyl is short-acting and reduces the minimum local an-
+algesic concentration of bupivacaine by 31–72% depending 
+on the dose used [30]. Sufentanil has a more rapid onset and 
+shorter duration of action and is 4.5 times more potent than 
+fentanyl, reducing the minimum local analgesic concentra-
+tion of bupivacaine by up to 91% [ 31]. According to Ameri-
+can Society of Anesthesiologists guidelines, adding fentanyl 
+(1–3 µg/ml) or sufentanil (0.5–1 µg/ml) to epidural mixtures 
+provides excellent analgesia while minimizing motor block. 
+e??K????PO–QT?µ???
+or 2–5 µg of sufentanil is recommended [ 32]. Furthermore, 
+low- or ultra-low-concentration local anesthetic-opioid 
+combinations (typically ropivacaine or levobupivacaine plus 
+a lipophilic opioid) have been associated with increased 
+rates of vaginal delivery, reduced need for instrumentation, 
+and a shorter second stage of labor than conventional high-
+dose regimens [33,34].
+α2-Adrenergic agonists exert their effects via spinal α 2 re-
+ceptors, producing dose-dependent analgesia and sedation. 
+Intrathecal clonidine doses of 15–45 µg provide sustained 
+analgesia but can cause hypotension [35]. Epidural doses of 
+RO–PTO?µ??K????VT?µ???L
+dation, hypotension, bradycardia, and FHR changes [13].
+Epinephrine acts partially through α2 receptors and vaso-
+constriction. A systematic review showed that epinephrine 
+prolongs intrathecal analgesia and motor blockade by ap -
+proximately 60 min; however, its efficacy in EA during labor 
+remains uncertain [36].
+Overall, the current evidence supports a pharmacological 
+strategy centered on low- and ultralow-concentration local 
+anesthetic regimens combined with lipophilic opioids. This 
+approach consistently optimizes the analgesic efficacy, ma-
+ternal satisfaction, and obstetric outcomes by minimizing 
+motor blockade through dose reduction and opioid synergy. 
+Among commonly used medications, lipophilic opioids 
+(fentanyl and sufentanil) are the only adjunctive agents ap-
+proved by the U.S. Food and Drug Administration for epi -
+dural and intrathecal administration during obstetric anes-
+thesia. However, other medications—including α2-adrener-
+gic agonists, neostigmine, epinephrine, dexamethasone, 
+midazolam, ketamine, and magnesium sulfate—are consid-
+ered off-label for epidural or intrathecal administration, and 
+their routine clinical use is not recommended until addi -
+tional safety data become available [27]. The key pharmaco-
+logical options, dosing ranges, and relative advantages and 
+limitations are summarized in Table 1.
+MAINTENANCE TECHNIQUES
+Labor is a prolonged and dynamic process, and the choice 
+of maintenance technique significantly influences the effec-
+tiveness and quality of NLA. Currently, two principal tech -
+niques are used: continuous epidural infusion (CEI) and 
+programmed intermittent epidural bolus (PIEB), both of 
+which are commonly supplemented with patient-controlled 
+epidural analgesia (PCEA).
+CEI—Initially, labor epidural doses were maintained with 
+provider-administered boluses. With the introduction of au-
+tomated epidural pumps, CEI has become the standard 
+maintenance technique, providing stable analgesia through 
+a basal infusion of 8–12 ml/h into the epidural space. Al -
+though this technique can provide stable analgesia, it results 
+in a higher total anesthetic consumption and a higher inci -
+dence of motor blockade than intermittent bolus techniques 
+[13].
+PCEA, first described in 1988, allows patients to self-ad -
+minister additional doses in response to breakthrough pain 
+[37]. Better pain relief and reduced provider callbacks for 
+additional top-ups can be achieved when background CEI is 
+added to PCEA compared with PCEA alone, although at the 
+expense of increased overall local anesthetic consumption 
+[38]. When CEI is combined with PCEA, additional boluses 
+(4–8 ml) are administered at a lockout time of 15–20 min.
+PIEB was proposed as a more optimal maintenance tech-
+nique compared with CEI in 2004 [ 39]. With PIEB, an epi -
+dural pump provides automated boluses administered at 
+predetermined intervals (e.g., every 45 or 60 min). Rapid bo-
+lus administration promotes wider epidural spread and 
+more effective dermatomal coverage than a slow infusion of 
+the same hourly volume [40,41]. Consistent evidence shows 
+that PIEB provides superior analgesia, a more uniform sen-
+sory block, reduced local anesthetic requirements, fewer 
+rescue boluses, and higher maternal satisfaction compared 
+with CEI [42,43]. Several studies have investigated the opti-
+mal PIEB settings for NLA; the optimal interval was found to 
+be 40 min (90% effective interval), and the ED90 bolus dose 
+was approximately 11 ml when administered at 40-min in -
+tervals [44,45].
+The maintenance strategy plays a pivotal role in determin-
+ing the quality and consistency of NLA. Accumulating evi -
+dence supports PIEB with or without PCEA as the most 
+physiologically favorable approach, providing superior der-
+matomal spread, reduced local anesthetic consumption, 
+and higher maternal satisfaction than CEI [38]. However, the 
+www.anesth-pain-med.org 17
+Neuraxial labor analgesia and outcomes
+KSOA
+[[p6]]
+benefits of PIEB are influenced by pump availability and pa-
+tient tolerance to bolus dosing. CEI, while less optimal in 
+terms of drug efficiency, remains an appropriate and prag -
+matic alternative for selected patients. These findings under-
+score that the maintenance technique, rather than the initia-
+tion method alone, is a key determinant of clinical success.
+CLINICAL OUTCOMES
+When assessing the quality of labor analgesia, clinicians 
+should consider the method selected for initiating neuraxial 
+technique, maintenance strategy, and analgesic medications 
+discussed thus far, and assess outcomes at three levels: ob -
+stetrics, maternal, and offspring outcomes.
+1. Obstetric outcomes are generally assessed in three do-
+mains: duration of labor (first and second stages), mode of 
+delivery (spontaneous, instrumental vaginal, or cesarean), 
+and the need for labor augmentation with oxytocin.
+(1) Duration of labor: With modern low- or ultralow-con-
+centration neuraxial regimens, none of the commonly used 
+techniques consistently prolong the first stage of labor. The 
+second stage may be modestly prolonged when a denser 
+motor block develops; however, this effect can be mitigated 
+by lowering local anesthetic concentrations and avoiding 
+excessive background infusion rates [ 28,29]. Because CSE 
+and DPE often provide more reliable sacral coverage, some 
+studies have reported fewer supplemental boluses and a 
+neutral or slightly shorter second stage than older high-con-
+centration epidural regimens [19].
+(2) Modes of delivery: Modern diluted neuraxial tech -
+niques do not increase cesarean delivery rates [28]. The like-
+lihood of instrumental vaginal delivery correlates more 
+strongly with the extent of motor blockade than with the 
+neuraxial technique. Strategies that minimize motor block, 
+such as using low-concentration local anesthetics and re -
+ducing unnecessary continuous basal infusions, are associ-
+ated with lower instrumental delivery rates [ 3,28]. Overall, 
+CSE and DPE perform similarly to EA with comparable or 
+slightly improved maternal satisfaction and obstetric out -
+comes.
+(3) Labor augmentation: An association between NLA and 
+increased oxytocin doses has been reported [ 46]. Previous 
+observational studies have suggested that the increased oxy-
+tocin use among women receiving EA, likely reflected con -
+founding by prolonged labor or differing obstetric practices 
+[9]. More recent analyses have demonstrated no indepen -
+dent association between EA and the need for augmenta -
+tion; however, a large retrospective study found that al -
+though total oxytocin doses were higher overall, the propor-
+tion of women requiring augmentation during vaginal deliv-
+ery was lower in those receiving EA [46].
+Recent evidence has consistently demonstrated that mod-
+ern NLA using dilute local anesthetic regimens does not ad-
+versely affect labor duration, mode of delivery, or the need 
+for operative intervention. In particular, the 2018 WHO In -
+trapartum Care Guidelines advise against prophylactic oxy-
+tocin administration to prevent labor delay in women re -
+ceiving NLA, emphasizing that transient changes in cervical 
+dilation following epidural placement do not justify routine 
+augmentation and that oxytocin should be reserved for 
+clearly defined clinical indications [4].
+Taken together, the obstetric outcomes of NLA are primar-
+ily driven by the density of the motor block [3]. Concerns re-
+garding prolonged labor or increased instrumental delivery 
+largely originate from historical practices associated with 
+dense motor blockade using high-dose epidural regimens. 
+Although analgesic techniques and dosing strategies have 
+evolved substantially, such concerns persist in some obstet-
+ric settings and may continue to influence clinical deci -
+sion-making. These perceptions can result in delayed or re-
+stricted access to effective analgesia, exposing laboring 
+women to unnecessary pain, and in some cases, contribut -
+ing to the avoidance of vaginal delivery. In this context, an -
+esthesiologists should play a critical role in reducing obstet-
+ric concerns by applying evidence-based analgesic strategies 
+and facilitating interdisciplinary communication.
+2. Maternal outcomes include neuraxial procedure–related 
+complications, analgesic efficacy and side effects, epidural-re-
+lated maternal fever, and other long-term consequences.
+(1) Procedure-related complications
+- Unintended dural puncture (UDP) occurs in 0.5–1.5% of 
+labor epidurals. In a 10-year observational study of 7,718 
+procedures, the incidence of UDP was 1.25% (95% confi -
+dence interval [CI] 1.01–1.53) [47]. Patients who underwent 
+UDP experienced complications including total spinal anal-
+gesia (1.0%), dilation block (3%), hypotension (4.1%), abnor-
+mal FHR (2%), inadequate analgesia (14.4%), and general 
+anesthesia after failed NLA (33.3% of emergency cesarean 
+sections) [ 47]. Overall, 82.5% of women experienced pro -
+longed hospital stays. If UDP occurs, healthcare providers 
+should immediately inform patients and advise them of the 
+available options for labor analgesia: using a non-neuraxial 
+analgesic (systemic opioids, inhalation analgesia, etc.), re -
+positioning the epidural catheter (usually in the upper inter-
+18 www.anesth-pain-med.org
+Anesth Pain Med Vol. 21 No. 1
+[[p7]]
+vertebral space), or inserting a spinal catheter for patients 
+who are particularly difficult to re-insert. If an epidural cath-
+eter is reinserted after UDP , the initial analgesia should be 
+administered slowly in divided doses to manage the expect-
+ed analgesia. For spinal catheters, 0.1% levobupivacaine (2.5 
+mg) and sufentanil (3 µg) are administered at a 6 cm cervical 
+dilatation, followed by 0.1% levobupivacaine (2.5 mg). How-
+ever, there is no established agreed-upon protocol for man-
+aging spinal catheters during labor or cesarean section an -
+esthesia. Patients experiencing UDP should be evaluated 
+daily for headache and neurological symptoms.
+- PDPH: Although PDPH is rare after uncomplicated NLA 
+(0.44%), more than half of women develop PDPH after UDP 
+with a 16- to 18G epidural needle [ 13]. The use of pen -
+cil-point 27–29G needles during CSE or DPE does not in -
+crease the risk of PDPH [ 13]. Conservative treatment in -
+cludes analgesics, hydration, supine rest, and prophylactic 
+anticoagulation therapy. According to the 2019 guidelines of 
+the Association of Obstetricians and Gynecologic Anesthesi-
+ologists (AOGA), an epidural blood patch (EBP) is consid -
+ered the gold standard for patients with persistent or severe 
+headaches that do not respond to conservative treatment, 
+with 50–80% complete or partial relief [ 48-50]. If symptoms 
+are not completely relieved, a second EBP may be needed in 
+addition to evaluating other potential causes of headache. 
+Numerous adjunctive treatments have been investigated, in-
+cluding medications, such as caffeine, theophylline, adreno-
+corticotropic hormones, steroids, and triptans, as well as in-
+vasive procedures, such as acupuncture, occipital or sphe -
+nopalatine nerve blocks, epidural morphine, and epidural 
+or spinal fluid injections. However, more evidence is needed 
+to make definitive recommendations and further research is 
+needed to understand their effectiveness.
+- Neurological complications: Most postpartum neurolog-
+ical symptoms are due to obstetric or positional causes rath-
+er than labor analgesia, and severe neurological impairment 
+due to NLA is rare [51]. In patients with neurological impair-
+ment, it is crucial to differentiate between symptoms requir-
+ing immediate neurological or neurosurgical evaluation; 
+however, NLA can interfere with this differentiation [52]. The 
+American Society of Anesthesiologists and Association of 
+Women’s Health, Obstetrics, and Neonatal Nurses (AW -
+HONN) guidelines support the assessment of motor and 
+sensory deprivation after NLA [ 53,54]. Postpartum neuro -
+logical monitoring should include hourly assessments until 
+the motor block resolves and consultation with an anesthe-
+siologist for evaluation if the motor block persists 4 h after 
+the last medication [53,54]. Tools for assessing motor func-
+tion include the Bromage scale and the straight leg-raising 
+test. Early detection and intervention are essential to prevent 
+long-term damage. Table 3 summarizes the incidence, risk 
+factors, and warning signs of neurological complications.
+- Ultrasound-guided lumbar EA: Surface landmarks are 
+inaccurate in 30–60% of pregnant women [ 55]. Ultrasound 
+guidance also improves the accuracy of intervertebral space 
+identification, which in turn allows optimal puncture site se-
+lection and prediction of epidural depth. The correlation be-
+tween the ultrasound-estimated depth and the actual Tuohy 
+needle depth at the loss of resistance has been reported to 
+be excellent [ 56]. Compared with landmark-based tech -
+Table 3. Neurological Complications of Neuraxial Labor Analgesia
+Complication Incidence Risk factor Sign and symptom
+Anesthesia-related neurologic 
+deficit
+~1.2 per 100,000 Multiple attempts, paresthesia on 
+insertion, delayed diagnosis
+Sensory or motor deficit persists 
+beyond the expected block 
+duration
+Direct spinal cord or nerve injury Very rare High-level insertion, intraneural 
+injection
+Severe pain with radiation; pain on 
+injection
+Spinal/epidural hematoma 1:200,000/1:250,000 Coagulopathy, anticoagulants, 
+thrombocytopenia, traumatic 
+insertion
+Acute back pain, progressive motor 
+weakness, bladder dysfunction
+Neuraxial infection (epidural 
+abscess/meningitis)
+1:63,000/1:145,000 Diabetes, immunosuppression, 
+prolonged catheterization
+Back pain ± fever; sensory or motor 
+deficit
+Local anesthetic neurotoxicity 
+(cauda equina syndrome, 
+arachnoiditis)
+Very rare Local anesthetics (high 
+concentration, type), 
+preservatives, and microspinal 
+catheter
+Progressive neurologic deficit; 
+failure of block resolution
+Vascular injury (anterior spinal 
+artery syndrome)
+Extremely rare Vascular anatomical variants Sudden paralysis without pain or 
+fever
+www.anesth-pain-med.org 19
+Neuraxial labor analgesia and outcomes
+KSOA
+[[p8]]
+niques, ultrasound-guided lumbar neuraxial procedures are 
+associated with lower technical failure rates (relative risk 
+[RR], 0.5), fewer traumatic insertions (RR, 0.3), and fewer 
+needle passes and redirections [ 56,57]. Improved midline 
+identification and lower lumbar positioning are associated 
+with improved sacral coverage and maternal satisfaction 
+[58].
+Ultrasound is particularly useful in patients with obesity, 
+scoliosis, prior spinal surgery, or difficulty in determining 
+the epidural position [59,60]. Specifically, ultrasound map-
+ping performed before resident procedures has been associ-
+ated with higher initial success rates and fewer needle redi-
+rections and catheter repositions, suggesting that this proce-
+dure has particular educational value [ 61]. However, the 
+benefits appear to be limited in patients with readily palpa-
+ble landmarks or when the procedure is performed by ex -
+pert anesthesiologists [62].
+(2) Analgesic efficacy and adverse effects: Recent studies 
+have examined whether the insertion level of epidural cath-
+eters influences the quality of NLA. Traditionally, the L3–4 
+or L4–5 interspace has been the most practical and widely 
+used site [13]. A randomized controlled trial demonstrated 
+that neuraxial procedures at L2–3 resulted in a faster onset 
+of analgesia and higher rates of pain-free uterine contrac -
+tions, although sensory and motor block characteristics and 
+adverse events did not differ significantly from neuraxial 
+procedures at L3–4 [ 63]. However, landmark-guided tech -
+niques frequently result in catheter placement at one level 
+higher than intended [55], and targeting the L2–3 interspace 
+without ultrasound guidance may increase the risk of nerve 
+root contact. Additionally, when UDP occurs, subsequent 
+attempts often require placement at a higher level, further 
+complicating the use of L2–3 in routine practice.
+Although L5–S1 insertion has been proposed to improve 
+sacral coverage, the available evidence does not demon -
+strate a clinically meaningful advantage over traditional epi-
+dural placement. In one study, S2 blockade after 10 ml of 
+0.125% bupivacaine was similar between L5–S1 and stan -
+dard techniques (91% vs. 81%, P =  0.24) [64].
+Overall, improvements in sacral coverage and block uni -
+formity were driven by the initiation technique and mainte-
+nance regimens rather than by the catheter insertion level. 
+Starting with CSE or DPE, PIEB, with or without PCEA is 
+performed using low- and high-dose local anesthetics and 
+opioids. Across all techniques, the order of analgesic initia-
+tion and block uniformity generally is as follows: CSE >  DPE 
+>  EA [ 32]. Local anesthetic and opioid consumption are 
+lowest when block distribution is optimized, and mainte -
+nance therapy using PIEB with or without PCEA is used 
+rather than continuous infusion [13].
+Maternal physiological adverse events vary depending on 
+the neuraxial technique and intrathecal administration. CSE 
+is consistently associated with the highest incidence of tran-
+sient hypotension and pruritus, which are primarily attribut-
+able to intrathecal administration. A meta-analysis by 
+Grangier et al. [ 65] found that CSE opioid administration 
+significantly increased the incidence of nausea and vomiting 
+(RR 1.31), pruritus (RR 4.26), and fetal bradycardia (RR 2.38) 
+compared with EA alone, as well as a higher incidence of 
+maternal hypotension (RR 1.54). These hemodynamic ef -
+fects reflect rapid sympathectomy and a rapid decrease in 
+circulating catecholamines following intrathecal adminis -
+tration. Standard precautions, such as left lateral tilt, concur-
+rent fluid administration, and vasopressor support, are ef -
+fective in minimizing this risk. Pruritus is primarily observed 
+in CSE and is directly associated with intrathecal opioids. 
+Nausea and vomiting are typically multifactorial and are 
+more related to systemic opioid exposure or transient hypo-
+tension than to neuraxial drugs alone. In contrast, DPE is as-
+sociated with stable maternal hemodynamics and minimal 
+pruritus, a side-effect profile similar to that of EA [ 32,65]. 
+Consequently, CSE provides the fastest and most potent an-
+algesia, but it should be noted that it may carry a greater 
+burden of transient maternal side effects.
+(3) Epidural-related maternal fever: Epidural-related ma-
+ternal fever is a non-infectious intrapartum hyperthermia 
+(typically ≥  38.0°C) occurring in women receiving epidural 
+labor analgesia [66]. Observational studies have reported an 
+incidence of approximately 15–25% [66,67]. The factor most 
+consistently associated with epidural-related maternal fever 
+is the duration of epidural catheterization, independent of 
+the neuraxial technique, drug regimen, or technical charac-
+teristics [13].
+The mechanisms underlying epidural-related maternal 
+fever remain unclear. Proposed hypotheses include altered 
+hypothalamic thermoregulation, cytokine-mediated inflam-
+matory activation, and decreased heat production due to 
+epidural-induced sympathetic blockade [ 66,67]. Manage -
+ment of epidural-related maternal fever focuses on minimiz-
+ing prolonged catheter stay and ongoing surveillance for in-
+fectious causes such as chorioamnionitis. Glucocorticoids 
+appear to be effective in reducing fever; however, empirical 
+antibiotics do not prevent epidural-related maternal fever 
+[67].
+20 www.anesth-pain-med.org
+Anesth Pain Med Vol. 21 No. 1
+[[p9]]
+Maternal fever of any cause can negatively impact fetal 
+outcomes (decreased Apgar scores, increased neonatal sep-
+sis evaluations, and increased neonatal intensive care unit 
+[NICU] admission rates). Early communication with neona-
+tal providers is essential to prevent unnecessary antibiotic 
+exposure or NICU admissions due to suspected sepsis. How-
+ever, unlike infectious fever, it remains unclear whether epi-
+dural-related maternal fever causes independent short- or 
+long-term harm. Current evidence suggests that neonatal 
+sequelae are secondary to conservative treatment (e.g., em-
+piric antibiotics) rather than direct thermal injury or the 
+spread of inflammation [68,69].
+(4) Long-term outcomes—Postpartum depression (PPD): 
+According to the Diagnostic and Statistical Manual of Mental 
+Disorders, Fifth Edition (DSM-5), PPD is a major depressive 
+disorder that occurs during pregnancy or within 4 weeks of 
+delivery [70]. Its prevalence is reported to be as high as 20%, 
+and if left untreated, PPD can persist for months or years. Al-
+though the most well-known risk factor for PPD is a history 
+of mood disorders, pain and depression are universally and 
+bidirectionally associated.
+NLA has been proposed as a potential protective factor 
+against PPD because it effectively reduces pain during labor. 
+However, the evidence for this remains inconsistent. A me-
+ta-analysis of 11 studies (n =  85,928) found no association 
+between NLA and PPD (adjusted odds ratio [OR] 1.03, 95% 
+CI 0.77–1.37) [ 71]. Li et al. [ 70] reported a trend toward a 
+lower incidence of PPD in women receiving NLA within 1 
+and 4 weeks postpartum. However, this finding was not con-
+firmed in a subsequent meta-analysis of nine studies (n =  
+4,442), which found no significant difference (OR 1.02, 95% 
+CI 0.62–1.66) [72]. To date, the observational nature of most 
+studies, the heterogeneity of PPD assessment tools, and re-
+sidual confounding factors make it impossible to establish a 
+causal relationship between NLA and the risk of PPD.
+Given the strong association between pain and depressive 
+symptoms, optimizing labor analgesia is clinically justified, 
+but there is insufficient evidence to recommend administer-
+ing or discontinuing NLA solely for the purpose of prevent-
+ing PPD. Future well-designed prospective studies incorpo-
+rating predefined covariates and standardized PPD fol -
+low-up periods are required to confirm these relationships.
+3. Offspring (fetal and neonatal) outcomes
+Evaluation of offspring outcomes commonly includes 
+FHR abnormalities, Apgar scores, umbilical cord acid–base 
+status, NICU admission, early feeding/breastfeeding, and 
+long-term neurodevelopment.
+(1) Immediate neonatal outcome: Transient FHR changes 
+(typically brief bradycardias or decelerations) occur more 
+frequently after CSE and are associated with the rapid onset 
+of analgesia. These symptoms typically resolve with conser-
+vative treatment and are rarely clinically significant. In con-
+trast, EA and DPE have low and similar incidences of clini -
+cally significant FHR abnormalities, respectively. Modern 
+low-concentration NLA therapy does not increase the risk of 
+neonatal acidosis, and multiple studies have reported no 
+consistent differences in Apgar scores or cord blood gas val-
+ues between the EA, CSE, and DPE techniques. The NICU 
+admission rates were not associated with maternal or neo -
+natal etiologies.
+(2) Neurodevelopmental outcomes: A 2020 retrospective 
+cohort analysis (147,895 children) reported a 37% increased 
+risk of autism spectrum disorder (ASD) after maternal NLA 
+exposure [73]. However, the study has significant method -
+ological limitations, including incomplete adjustment for 
+socioeconomic, obstetric, and familial factors and reliance 
+on data from a single healthcare system. Nonetheless, the 
+findings generated public concern and prompted several 
+professional societies in obstetrics, gynecology, and anes -
+thesiology to issue official reassurance statements.
+Since then, several large registry-based studies across di-
+verse populations have reexamined the association between 
+NLA and neurodevelopment [ 74-76]. Although small posi -
+tive associations (hazard ratio 1.08–1.14) were significantly 
+attenuated or eliminated in sibling-matched analyses, this 
+suggests that residual familial confounding likely explains 
+the underlying signal [74].
+Using Scottish National Data (n =  435,000), Kearns et al. 
+[77] analyzed data from the Scottish National Health Service 
+(n =  435,000) and reported a small reduction in the overall 
+neurodevelopmental delay in children exposed to maternal 
+NLA after adjusting for perinatal and family variables. (RR 
+0.96, 95% CI 0.93–0.98). Similarly, Ren et al. [76] using a Dan-
+ish national cohort reported an 11% increased hazard of 
+ASD and a 12% increased hazard of specific developmental 
+disorders in unadjusted models, but these associations dis-
+appeared in within-sibling analyses, again implicating 
+shared familial factors rather than exposure itself.
+Although animal experimental studies have shown local 
+anesthetic-induced neuronal apoptosis in immature spinal 
+cord tissue [ 78-80], the clinical relevance of these findings 
+remains uncertain given the limited placental transmission 
+of epidural medications and the significant neurodevelop -
+mental differences between animal models and human fe -
+www.anesth-pain-med.org 21
+Neuraxial labor analgesia and outcomes
+KSOA
+[[p10]]
+Fig. 1. Clinical algorithm for neuraxial labor analgesia. This flowchart illustrates neuraxial labor analgesia, integrating pre-procedure 
+assessment, ultrasound-guided technique selection, initiation and maintenance strategies, and management of technical complications. 
+The decision-making pathways for inadequate analgesia, procedure-related problems, and maternal intrapartum fever were also included. 
+EA: epidural analgesia, CSE: combined spinal epidural, DPE: dural puncture epidural, IT: intra-thecal, LA: local anesthetic, PDPH: post-dural 
+puncture headache, EBP: epidural blood patch, PIEB: programmed intermittent epidural bolus, PCEA: patient-controlled epidural analgesia, 
+CEI: continuous epidural infusion, BP: blood pressure.
+Pre-Procedure Assessment 
+Patients’ factors (laboratory findings, comorbidities) 
+Labor progression 
+Select Neuraxial Technique 
+- Initiation: EA (routine labor analgesia), CSE 
+(rapid, dense analgesia required), DPE 
+(improved block quality, avoid IT opioids) 
+- Maintenance: PIEB ± PCEA (preferred), CEI 
+± PCEA (alternative) 
+Preprocedural Lumbar Ultrasound  
+- Indications: Patient factors (Obesity/ poor landmark / 
+Scoliosis / prior spine surgery/ Previous difficult 
+neuraxial placement), Trainee involvement  
+- Assess: confirm midline, identify L3 -4 or L4 -5 
+interspace, estimate epidural depth, mark insertion point 
+& trajectory 
+Adequate 
+analgesia  
+Temperature monitoring: > 37.9 °C 
+- Evaluate for Infection 
+ Uterine tenderness 
+ Foul-smelling amniotic fluid 
+ Maternal/fetal tachycardia 
+ Marked leukocytosis. 
+UDP 
+- Immediate actions: Inform patient, document event, 
+reassure, and explain options. 
+- Choose analgesia strategy:  
+ Re-site epidural at new level (slow, fractionate 
+dosing)  
+ intrathecal catheter ( difficult patient, experienced 
+facility) 
+ non-neuraxial analgesia 
+- postpartum monitoring: daily assessment for headache 
+or neurologic symptoms  
+- PDPH develops → conservative treatment, EBP if 
+persistent or severe.  
+Pain/paresthesia on injection  
+- STOP injection immediately → Withdraw 
+needle/catheter slightly → Reassess.  
+→Persistent symptoms →Abandon site, reattempt at 
+new level. 
+Inadequate/unilateral block  
+- Inadequate/unilateral block → check catheter depth → 
+withdraw 1-2cm → test bolus.  
+ persistent failure → replace catheter. 
+ effective → continue/increase rate or mode 
+change (PIEB) if repeat pain occurs 
+High/total spinal  
+- Airway & oxygen support → left uterine displacement, 
+vasopressor support for BP maintenance, advanced 
+airway if required 
+-  
+YES NO  
+Management of ERMF 
+- Continue epidural 
+analgesia. 
+- Avoid prophylactic 
+antibiotics. 
+- Antipyretics as needed 
+- Minimize unnecessary 
+prolongation of epidural 
+duration. 
+Interdisciplinary 
+Communication 
+- Inform obstetric & 
+neonatal teams. 
+- Document noninfectious 
+etiology. 
+- Avoid reflex neonatal 
+sepsis workup unless 
+clinically indicated. 
+Treat as 
+chorioamnionitis 
+- Start antibiotics. 
+- Communicate with 
+the neonatal team. 
+Procedure relates problems. 
+Pre-Procedure Assessment
+Patients’ factors (laboratory findings, comorbidities)
+Labor progression Preprocedural Lumbar Ultrasound 
+-   Indications: patient factors (obesity/poor landmark/scoliosis 
+/prior spine surgery/previous difficult neuraxial placement), 
+trainee involvement 
+-  Assess: confirm midline, identify L3-4 or L4-5 interspace, 
+estimate epidural depth, mark insertion point & trajectory
+UDP 
+-   Immediate actions: Inform patient, document event, 
+reassure, and explain options
+-   Choose analgesia strategy: 
+ • Re-site epidural at new level (slow, fractionate dosing) 
+ • Intrathecal catheter (difficult patient, experienced facility)
+ • Non-neuraxial analgesia
+-  Postpartum monitoring: daily assessment for headache or 
+neurologic symptoms 
+-  PDPH develops → conservative treatment, EBP if 
+persistent or severe 
+Pain/paresthesia on injection  
+-  STOP injection immediately → Withdraw needle/catheter 
+slightly → Reassess → Persistent symptoms → Abandon 
+site, reattempt at new level
+Inadequate/unilateral block  
+-  Inadequate/unilateral block → check catheter depth → 
+withdraw 1–2 cm → test bolus 
+ • Persistent failure → replace catheter
+ •  Effective → continue/increase rate or mode change 
+(PIEB) if repeat pain occurs
+Management of ERMF
+-  Continue epidural analgesia.
+-  Avoid prophylactic antibiotics
+-  Antipyretics as needed
+-  Minimize unnecessary 
+prolongation of epidural 
+duration
+Interdisciplinary 
+Communication
+-  Inform obstetric & neonatal 
+teams
+-  Document noninfectious 
+etiology
+-  Avoid reflex neonatal sepsis 
+workup unless clinically 
+indicated
+Treat as 
+chorioamnionitis
+-  Start antibiotics
+-  Communicate with the 
+neonatal team
+Adequate 
+analgesia 
+Procedure relates problems.
+YES NO
+Temperature monitoring: > 37.9 °C
+- Evaluate for Infection
+ • Uterine tenderness
+ • Foul-smelling amniotic fluid
+ • Maternal/fetal tachycardia
+ • Marked leukocytosis
+High/total spinal  
+-  Airway & oxygen support → left uterine displacement, 
+vasopressor support for BP maintenance, advanced 
+airway if required
+Select Neuraxial Technique 
+-  Initiation: EA (routine labor analgesia), CSE (rapid, 
+dense analgesia required), DPE (improved block 
+quality, avoid IT opioids)
+-  Maintenance: PIEB ± PCEA (preferred), CEI ± 
+PCEA (alternative)
+22 www.anesth-pain-med.org
+Anesth Pain Med Vol. 21 No. 1
+[[p11]]
+tuses.
+Collectively, recent epidemiological evidence suggests lit-
+tle or no causal association between NLA and adverse neu-
+rodevelopmental outcomes. The relationship between ASD 
+and NLA likely reflects unmeasured confounders rather 
+than the true effects of neuraxial techniques.
+CONCLUSION
+Modern NLA has evolved into a flexible evidence-based 
+approach that can be tailored to individual maternal and 
+obstetric circumstances. The selection of initiation and 
+maintenance techniques should be guided by labor progres-
+sion, maternal comorbidities, and tolerance of potential side 
+effects rather than by outdated concerns regarding labor 
+prolongation or increased cesarean delivery. Technological 
+advances, particularly the incorporation of ultrasound guid-
+ance, have further improved the safety and success of 
+neuraxial procedures and reduced the incidence of techni -
+cal complications. Establishing structured management 
+strategies to address complications is equally important.
+In addition, maternal fever associated with EA must be 
+carefully differentiated from infectious etiologies through 
+appropriate treatment pathways and multidisciplinary col-
+laboration among anesthesiologists, obstetricians, and neo-
+natologists. Accordingly, a consolidated clinical algorithm 
+integrating ultrasound-guided neuraxial placement, man -
+agement of technical complications, and differentiation of 
+epidural-related maternal fever from infectious causes has 
+been proposed and is illustrated in Fig. 1.
+Ultimately, the safe and effective application of NLA de -
+pends not only on technique selection, but also on anesthe-
+siologist-led stewardship, continuous clinical assessment, 
+and clear communication with patients and the multidisci-
+plinary care team. In this context, the present review aimed 
+to bridge persistent clinical controversies and daily practice, 
+thereby supporting confident, individualized analgesic care 
+throughout labor.
+There is increasing interest in the long-term maternal and 
+neonatal outcomes associated with NLA. Future research 
+should prioritize the use of standardized outcome measures 
+and well-designed prospective studies with extended fol -
+low-up periods. In parallel, continued refinement of individ-
+ualized analgesic management algorithms that account for 
+maternal characteristics, labor dynamics, and institutional 
+resources is essential to further optimize clinical practice.
+FUNDING
+None.
+CONFLICTS OF INTEREST
+No potential conflict of interest relevant to this article was 
+reported.
+DATA AVAILABILITY STATEMENT
+Data sharing is not applicable to this article as no datasets 
+were generated or analyzed during the current study.
+ORCID
+Ae-ryoung Lee, https://orcid.org/0000-0003-3532-8025
+REFERENCES
+1. Qamar J, Mansoor M, Jabbar S, Khan MW. Analgesia in labour: a 
+necessity or a privilege. Arch Gynecol Obstet 2024; 309: 2943-4. 
+2. Labor S, Maguire S. The pain of labour. Rev Pain 2008; 2: 15-9. 
+3. Halliday L, Nelson SM, Kearns RJ. Epidural analgesia in labor: 
+a narrative review. Int J Gynaecol Obstet 2022; 159: 356-64. 
+4. World Health Organization (WHO). WHO recommendations: 
+intrapartum care for a positive childbirth experience. Geneva, 
+WHO. 2018.
+5. Simanauskaite A, Kavaliauskaite G, Kacerauskiene J, Vilimiene 
+V . The impact of early epidural analgesia on the course of labor 
+and delivery. Medicina (Kaunas) 2025; 61: 750.
+6. Sng BL, Leong WL, Zeng Y, Siddiqui FJ, Assam PN, Lim Y, et al. 
+Early versus late initiation of epidural analgesia for labour. Co-
+chrane Database Syst Rev 2014; 2014: CD007238.
+7. Roberts CL, Torvaldsen S, Cameron CA, Olive E. Delayed ver -
+sus early pushing in women with epidural analgesia: a system-
+atic review and meta-analysis. BJOG 2004; 111: 1333-40. 
+8. Lipschuetz M, Nir EA, Cohen SM, Guedalia J, Hochler H, Am -
+salem H, et al. Cervical dilation at the time of epidural catheter 
+insertion is not associated with the degree of prolongation of 
+the first or second stages of labor, or the rate of instrumental 
+vaginal delivery. Acta Obstet Gynecol Scand 2020; 99: 1039-49. 
+9. Wong CA, Scavone BM, Peaceman AM, McCarthy RJ, Sullivan 
+JT , Diaz NT , et al. The risk of cesarean delivery with neuraxial 
+analgesia given early versus late in labor. N Engl J Med 2005; 
+352: 655-65. 
+10. Wang F , Shen X, Guo X, Peng Y, Gu X. Epidural analgesia in the 
+www.anesth-pain-med.org 23
+Neuraxial labor analgesia and outcomes
+KSOA
+[[p12]]
+latent phase of labor and the risk of cesarean delivery: a five-
+year randomized controlled trial. Anesthesiology 2009; 111: 
+871-80. 
+11. Zha Y, Gong X, Yang C, Deng D, Feng L, Luo A, et al. Epidural 
+analgesia during labor and its optimal initiation time-points: a 
+real-world study on 400 Chinese nulliparas. Medicine (Balti -
+more) 2021; 100: e24923. 
+12. American College of Obstetricians and Gynecologists' Com -
+mittee on Practice Bulletins—Obstetrics. ACOG practice bulle-
+tin No. 209: obstetric analgesia and anesthesia. Obstet Gynecol 
+2019; 133: e208-25. 
+13. Vanderheeren MC, Van de Velde M, Roofthooft E. Initiation 
+and maintenance of neuraxial labour analgesia: a narrative re-
+view. Best Pract Res Clin Anaesthesiol 2024; 38: 168-75. 
+14. Halliday L, Kinsella M, Shaw M, Cheyne J, Nelson SM, Kearns 
+RJ. Comparison of ultra-low, low and high concentration local 
+anaesthetic for labour epidural analgesia: a systematic review 
+and network meta-analysis. Anaesthesia 2022; 77: 910-8. 
+15. Comparative Obstetric Mobile Epidural Trial (COMET) Study 
+Group UK. Effect of low-dose mobile versus traditional epidur-
+al techniques on mode of delivery: a randomised controlled 
+trial. Lancet 2001; 358: 19-23. 
+16. Heesen M, Van de Velde M, Klöhr S, Lehberger J, Rossaint R, 
+Straube S. Meta-analysis of the success of block following com-
+bined spinal-epidural vs epidural analgesia during labour. An-
+aesthesia 2014; 69: 64-71. 
+17. van de Velde M, Teunkens A, Hanssens M, van Assche FA, Van-
+dermeersch E. Post dural puncture headache following com -
+bined spinal epidural or epidural anaesthesia in obstetric pa -
+tients. Anaesth Intensive Care 2001; 29: 595-9. 
+18. Booth JM, Pan JC, Ross VH, Russell GB, Harris LC, Pan PH. 
+Combined spinal epidural technique for labor analgesia does 
+not delay recognition of epidural catheter failures: a sin -
+gle-center retrospective cohort survival analysis. Anesthesiolo-
+gy 2016; 125: 516-24. 
+19. Simmons SW, Taghizadeh N, Dennis AT , Hughes D, Cyna AM. 
+Combined spinal-epidural versus epidural analgesia in labour. 
+Cochrane Database Syst Rev 2012; 10: CD003401.
+20. Mardirosoff C, Dumont L, Boulvain M, Tramèr MR. Fetal bra -
+dycardia due to intrathecal opioids for labour analgesia: a sys-
+tematic review. BJOG 2002; 109: 274-81. 
+21. Norris MC, Fogel ST , Conway-Long C. Combined spinal-epi -
+dural versus epidural labor analgesia. Anesthesiology 2001; 95: 
+913-20. 
+22. Suzuki N, Koganemaru M, Onizuka S, Takasaki M. Dural punc-
+ture with a 26-gauge spinal needle affects spread of epidural 
+anesthesia. Anesth Analg 1996; 82: 1040-2. 
+23. Cappiello E, O'Rourke N, Segal S, Tsen LC. A randomized trial 
+of dural puncture epidural technique compared with the stan-
+dard epidural technique for labor analgesia. Anesth Analg 
+2008; 107: 1646-51. 
+24. Chau A, Bibbo C, Huang CC, Elterman KG, Cappiello EC, Rob-
+inson JN, et al. Dural puncture epidural technique improves 
+labor analgesia quality with fewer side effects compared with 
+epidural and combined spinal epidural techniques: a random-
+ized clinical trial. Anesth Analg 2017; 124: 560-9. 
+25. Yin H, Tong X, Huang H. Dural puncture epidural versus con -
+ventional epidural analgesia for labor: a systematic review and 
+meta-analysis of randomized controlled studies. J Anesth 2022; 
+36: 413-27. 
+26. Pan PH, Bogard TD, Owen MD. Incidence and characteristics 
+of failures in obstetric neuraxial analgesia and anesthesia: a 
+retrospective analysis of 19,259 deliveries. Int J Obstet Anesth 
+2004; 13: 227-33. 
+27. Hermanns H, Bos EME, van Zuylen ML, Hollmann MW, Ste -
+vens MF . The options for neuraxial drug administration. CNS 
+Drugs 2022; 36: 877-96. 
+28. Sultan P , Murphy C, Halpern S, Carvalho B. The effect of low 
+concentrations versus high concentrations of local anesthetics 
+for labour analgesia on obstetric and anesthetic outcomes: a 
+meta-analysis. Can J Anaesth 2013; 60: 840-54. 
+29. Wang TT , Sun S, Huang SQ. Effects of epidural labor analgesia 
+with low concentrations of local anesthetics on obstetric out -
+comes: a systematic review and meta-analysis of randomized 
+controlled trials. Anesth Analg 2017; 124: 1571-80. 
+30. Lyons G, Columb M, Hawthorne L, Dresner M. Extradural pain 
+relief in labour: bupivacaine sparing by extradural fentanyl is 
+dose dependent. Br J Anaesth 1997; 78: 493-7. 
+31. Polley LS, Columb MO, Wagner DS, Naughton NN. Dose-de -
+pendent reduction of the minimum local analgesic concentra-
+tion of bupivacaine by sufentanil for epidural analgesia in la -
+bor. Anesthesiology 1998; 89: 626-32. 
+32. Coviello A, Iacovazzo C, Frigo MG, Ianniello M, Cirillo D, Tier-
+no G, et al. Technical aspects of neuraxial analgesia during la -
+bor and maternity care: an updated overview. J Anesth Analg 
+Crit Care 2025; 5: 6.
+33. Gogarten W, Van de Velde M, Soetens F , Van Aken H, Brodner 
+G, Gramke HF , et al. A multicentre trial comparing different 
+concentrations of ropivacaine plus sufentanil with bupivacaine 
+plus sufentanil for patient-controlled epidural analgesia in la -
+bour. Eur J Anaesthesiol 2004; 21: 38-45. 
+34. Buyse I, Stockman W, Columb M, Vandermeersch E, Van de 
+Velde M. Effect of sufentanil on minimum local analgesic con-
+centrations of epidural bupivacaine, ropivacaine and levobu -
+24 www.anesth-pain-med.org
+Anesth Pain Med Vol. 21 No. 1
+[[p13]]
+pivacaine in nullipara in early labour. Int J Obstet Anesth 2007; 
+16: 22-8. 
+35. Missant C, Teunkens A, Vandermeersch E, Van de Velde M. In-
+trathecal clonidine prolongs labour analgesia but worsens fetal 
+outcome: a pilot study. Can J Anaesth 2004; 51: 696-701. 
+36. Tschopp C, Tramèr MR, Schneider A, Zaarour M, Elia N. Bene-
+fit and harm of adding epinephrine to a local anesthetic for 
+neuraxial and locoregional anesthesia: a meta-analysis of ran-
+domized controlled trials with trial sequential analyses. Anesth 
+Analg 2018; 127: 228-39. 
+37. Gambling DR, Yu P , Cole C, McMorland GH, Palmer L. A com-
+parative study of patient controlled epidural analgesia (PCEA) 
+and continuous infusion epidural analgesia (CIEA) during la -
+bour. Can J Anaesth 1988; 35: 249-54. 
+38. Halpern SH, Carvalho B. Patient-controlled epidural analgesia 
+for labor. Anesth Analg 2009; 108: 921-8. 
+39. Chua SM, Sia AT . Automated intermittent epidural boluses im-
+prove analgesia induced by intrathecal fentanyl during labour. 
+Can J Anaesth 2004; 51: 581-5. 
+40. Hogan Q. Distribution of solution in the epidural space: exam-
+ination by cryomicrotome section. Reg Anesth Pain Med 2002; 
+27: 150-6. 
+41. Mowat I, Tang R, Vaghadia H, Krebs C, Henderson WR, Sawka 
+A. Epidural distribution of dye administered via an epidural 
+catheter in a porcine model. Br J Anaesth 2016; 116: 277-81. 
+42. George RB, Allen TK, Habib AS. Intermittent epidural bolus 
+compared with continuous epidural infusions for labor anal -
+gesia: a systematic review and meta-analysis. Anesth Analg 
+2013; 116: 133-44. 
+43. Sng BL, Zeng Y, de Souza NNA, Leong WL, Oh TT , Siddiqui FJ, 
+et al. Automated mandatory bolus versus basal infusion for 
+maintenance of epidural analgesia in labour. Cochrane Data -
+base Syst Rev 2018; 5: CD011344.
+44. Epsztein Kanczuk M, Barrett NM, Arzola C, Downey K, Ye XY, 
+Carvalho JC. Programmed intermittent epidural bolus for la -
+bor analgesia during first stage of labor: a biased-coin up-and-
+down sequential allocation trial to determine the optimum in-
+terval time between boluses of a fixed volume of 10 mL of bu -
+pivacaine 0.0625% with fentanyl 2 μg/mL. Anesth Analg 2017; 
+124: 537-41. 
+45. Zakus P , Arzola C, Bittencourt R, Downey K, Ye XY, Carvalho 
+JC. Determination of the optimal programmed intermittent 
+epidural bolus volume of bupivacaine 0.0625% with fentanyl 2 
+μg.ml-1 at a fixed interval of forty minutes: a biased coin up-
+and-down sequential allocation trial. Anaesthesia 2018; 73: 
+459-65. 
+46. Wang Q, Zheng SX, Ni YF , Lu YY, Zhang B, Lian QQ, et al. The 
+effect of labor epidural analgesia on maternal-fetal outcomes: 
+a retrospective cohort study. Arch Gynecol Obstet 2018; 298: 
+89-96. 
+47. Poma S, Bonomo MC, Gazzaniga G, Pizzulli M, De Silvestri A, 
+Baldi C, et al. Complications of unintentional dural puncture 
+during labour epidural analgesia: a 10-year retrospective ob -
+servational study. J Anesth Analg Crit Care 2023; 3: 42.
+48. Russell R, Laxton C, Lucas DN, Niewiarowski J, Scrutton M, 
+Stocks G. Treatment of obstetric post-dural puncture head -
+ache. Part 1: conservative and pharmacological management. 
+Int J Obstet Anesth 2019; 38: 93-103. 
+49. Russell R, Laxton C, Lucas DN, Niewiarowski J, Scrutton M, 
+Stocks G. Treatment of obstetric post-dural puncture head -
+ache. Part 2: epidural blood patch. Int J Obstet Anesth 2019; 38: 
+104-18. 
+50. Gupta A, Van de Velde M, Magnuson A, von Heymann C, 
+Guasch E, Alahuhta S, et al. Factors associated with failed epi -
+dural blood patch after accidental dural puncture in obstetrics: 
+a prospective, multicentre, international cohort study. Br J An-
+aesth 2022; 129: 758-66. 
+51. Neal JM, Barrington MJ, Brull R, Hadzic A, Hebl JR, Horlocker 
+TT , et al. The second ASRA practice advisory on neurologic 
+complications associated with regional anesthesia and pain 
+medicine: executive summary 2015. Reg Anesth Pain Med 
+2015; 40: 401-30. 
+52. Zakowski MI. Obstetric-related neurological complications. Int 
+Anesthesiol Clin 2014; 52: 40-60. 
+53. Hale S, Hill CM, Hermann M, Kinzig A, Lawrence C, McCaugh-
+in N, et al. Analgesia and anesthesia in the intrapartum period. 
+J Obstet Gynecol Neonatal Nurs 2020; 49: e1-60. 
+54. Vallejo MC, Kumaraswami S, Zakowski MI. American Society 
+of Anesthesiologists 2023 guidance on neurologic complica -
+tions of neuraxial analgesia/anesthesia in obstetrics. Anesthe-
+siology 2024; 140: 1235-6. 
+55. Broadbent CR, Maxwell WB, Ferrie R, Wilson DJ, Gawne-Cain 
+M, Russell R. Ability of anaesthetists to identify a marked lum-
+bar interspace. Anaesthesia 2000; 55: 1122-6. 
+56. Perlas A, Chaparro LE, Chin KJ. Lumbar neuraxial ultrasound 
+for spinal and epidural anesthesia: a systematic review and 
+meta-analysis. Reg Anesth Pain Med 2016; 41: 251-60. 
+57. Shaikh F , Brzezinski J, Alexander S, Arzola C, Carvalho JC, Bey-
+ene J, et al. Ultrasound imaging for lumbar punctures and epi-
+dural catheterisations: systematic review and meta-analysis. 
+BMJ 2013; 346: f1720.
+58. Grau T , Leipold RW, Conradi R, Martin E, Motsch J. Efficacy of 
+ultrasound imaging in obstetric epidural anesthesia. J Clin 
+Anesth 2002; 14: 169-75. 
+MLLM?QT
+Neuraxial labor analgesia and outcomes
+KSOA
+[[p14]]
+59. Chin KJ, Perlas A, Chan V , Brown-Shreves D, Koshkin A, Vaish-
+nav V . Ultrasound imaging facilitates spinal anesthesia in 
+adults with difficult surface anatomic landmarks. Anesthesiol-
+ogy 2011; 115: 94-101. 
+60. Balki M, Lee Y, Halpern S, Carvalho JC. Ultrasound imaging of 
+the lumbar spine in the transverse plane: the correlation be -
+tween estimated and actual depth to the epidural space in 
+obese parturients. Anesth Analg 2009; 108: 1876-81. 
+61. Vallejo MC, Phelps AL, Singh S, Orebaugh SL, Sah N. Ultra -
+sound decreases the failed labor epidural rate in resident train-
+ees. Int J Obstet Anesth 2010; 19: 373-8. 
+62. Ansari T , Yousef A, El Gamassy A, Fayez M. Ultrasound-guided 
+spinal anaesthesia in obstetrics: is there an advantage over the 
+landmark technique in patients with easily palpable spines? 
+Int J Obstet Anesth 2014; 23: 213-6. 
+63. Zhou R, Cao Y, Chen X, Peng Y, Xiong C, Zhai W, et al. Role of 
+lumbar puncture level on the onset of epidural labor analgesia: 
+a randomized controlled trial. Postgrad Med J 2025; 101: 116-
+22. 
+64. Malik T , Malas O, Thompson A. Ultrasound guided L5-S1 
+placement of labor epidural does not improve dermatomal 
+block in parturients. Int J Obstet Anesth 2019; 38: 52-8. 
+65. Grangier L, Martinez de Tejada B, Savoldelli GL, Irion O, Haller 
+G. Adverse side effects and route of administration of opioids 
+in combined spinal-epidural analgesia for labour: a meta-anal-
+ysis of randomised trials. Int J Obstet Anesth 2020; 41: 83-103. 
+66. Goetzl L. Epidural analgesia and maternal fever: a clinical and 
+research update. Curr Opin Anaesthesiol 2012; 25: 292-9.
+67. Sharma SK. Epidural analgesia during labor and maternal fe -
+ver. Curr Opin Anaesthesiol 2000; 13: 257-60. 
+68. Lieberman E, Lang J, Richardson DK, Frigoletto FD, Heffner LJ, 
+Cohen A. Intrapartum maternal fever and neonatal outcome. 
+Pediatrics 2000; 105: 8-13. 
+69. Kearns RJ, Broom MA, Lucas DN. Long-term effects of neurax-
+ial analgesia. Curr Opin Anaesthesiol 2024; 37: 227-33. 
+70. Li B, Tang X, Wang T . Neuraxial analgesia during labor and 
+postpartum depression: systematic review and meta-analysis. 
+Medicine (Baltimore) 2023; 102: e33039. 
+71. Kountanis JA, Vahabzadeh C, Bauer S, Muzik M, Cassidy R, 
+Aman C, et al. Labor epidural analgesia and the risk of post -
+partum depression: a meta-analysis of observational studies. J 
+Clin Anesth 2020; 61: 109658.
+72. Almeida M, Kosman KA, Kendall MC, De Oliveira GS. The as -
+sociation between labor epidural analgesia and postpartum 
+depression: a systematic review and meta-analysis. BMC 
+Womens Health 2020; 20: 99.
+73. Qiu C, Lin JC, Shi JM, Chow T , Desai VN, Nguyen VT , et al. As-
+sociation between epidural analgesia during labor and risk of 
+autism spectrum disorders in offspring. JAMA Pediatr 2020; 
+174: 1168-75. 
+74. Hanley GE, Bickford C, Ip A, Lanphear N, Lanphear B, Weikum 
+W, et al. Association of epidural analgesia during labor and de-
+livery with autism spectrum disorder in offspring. JAMA 2021; 
+326: 1178-85. 
+75. Mikkelsen AP , Greiber IK, Scheller NM, Lidegaard Ø. Associa-
+tion of labor epidural analgesia with autism spectrum disorder 
+in children. JAMA 2021; 326: 1170-7. 
+76. Ren T , Zhang J, Yu Y, Pedersen LH, Wang H, Li F , et al. Associa-
+tion of labour epidural analgesia with neurodevelopmental 
+disorders in offspring: a Danish population-based cohort 
+study. Br J Anaesth 2022; 128: 513-21. 
+77. Kearns RJ, Shaw M, Gromski PS, Iliodromiti S, Lawlor DA, Nel-
+son SM. Association of epidural analgesia in women in labor 
+with neonatal and childhood outcomes in a population cohort. 
+JAMA Netw Open 2021; 4: e2131683. 
+78. Smith RF , Kurkjian MF , Mattran KM, Kurtz SL. Behavioral ef-
+fects of prenatal exposure to lidocaine in the rat: effects of dos-
+age and of gestational age at administration. Neurotoxicol Ter-
+atol 1989; 11: 395-403. 
+79. Verlinde M, Hollmann MW, Stevens MF , Hermanns H, Werde-
+hausen R, Lirk P . Local anesthetic-induced neurotoxicity. Int J 
+Mol Sci 2016; 17: 339.
+80. Johnson ME, Uhl CB, Spittler KH, Wang H, Gores GJ. Mito -
+chondrial injury and caspase activation by the local anesthetic 
+lidocaine. Anesthesiology 2004; 101: 1184-94. 
+26 www.anesth-pain-med.org
+Anesth Pain Med Vol. 21 No. 1
