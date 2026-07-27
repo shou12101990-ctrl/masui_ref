@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Book3/循環器ノート作成用のPDF抽出テキスト (中間データ, 巨大かつファイル名が長くCIのcheckoutが失敗する)
+.claude/cardiac_notes/idtext/
+.claude/book3_research/idtext/
+.claude/book3_research/idtext2/
+.claude/book3_research/prompts/
+.claude/book3_research/prompts2/
