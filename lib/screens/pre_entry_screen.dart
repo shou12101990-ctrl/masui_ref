@@ -16,8 +16,12 @@ class _CheckItem {
   final bool hasPendingBtn; // 「指示未」ボタン付き (薬剤準備用)
   final String? note; // ラベル直下に小さく出す注釈
   final String? naBtnLabel; // 「〜なし」ボタン付き (機器がなければ N/A 化)
+  final bool important; // 行の右端に赤太字で「重要」を出す
   const _CheckItem(this.label,
-      {this.hasPendingBtn = false, this.note, this.naBtnLabel});
+      {this.hasPendingBtn = false,
+      this.note,
+      this.naBtnLabel,
+      this.important = false});
 }
 
 const _items = <_CheckItem>[
@@ -63,10 +67,25 @@ const _caseGroups = <_CaseGroup>[
   ]),
   _CaseGroup('経鼻挿管', [
     _CheckItem('経鼻挿管セットの準備をNSに依頼した'),
-    _CheckItem('経鼻用チューブ, マギール鉗子を準備した'),
+    _CheckItem('経鼻用チューブ, マギール鉗子を準備した',
+        note: 'チューブの種類は上級医に確認を'),
   ]),
   _CaseGroup('腹臥位 / 歯科口腔外科', [
     _CheckItem('延長チューブを準備した'),
+  ]),
+  _CaseGroup('小児科手術', [
+    _CheckItem(
+        '小児用呼吸回路+人工鼻, 換気バッグ, 喉頭鏡+ブレード, 小さいフェイスマスク, 小さいエアウェイなどを準備した'),
+  ]),
+  _CaseGroup('輸血する可能性が高い症例', [
+    _CheckItem('ホットライン準備, 血型+オーダー確認', important: true),
+  ]),
+  _CaseGroup('脳外科, 頭頸部, 腹臥位の症例', [
+    _CheckItem('スパイラルチューブを使うか確認'),
+  ]),
+  _CaseGroup('挿管困難が予想される症例', [
+    _CheckItem('AWS, McGRATH, 気管支ファイバーなどデバイス類準備',
+        note: '上級医に方法を必ず確認してください'),
   ]),
 ];
 
@@ -301,29 +320,13 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
     return w;
   }
 
-  /// 見出しを中央に置き, 横棒をカードの端-10ptまで伸ばす区切り.
+  /// 個別事例ゾーンの見出し (「入室前チェックリスト」と同じ大きさ・太さ, 色は青).
   Widget _caseDivider() {
-    // カード内padding 14 のうち 4 をはみ出させると カードの端-10pt に届く.
-    const bleed = 4.0;
-    return LayoutBuilder(
-      builder: (context, c) => SizedBox(
-        height: 34,
-        child: OverflowBox(
-          maxWidth: c.maxWidth + bleed * 2,
-          child: Row(
-            children: [
-              const Expanded(child: Divider(color: _caseBlue, thickness: 1)),
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 10),
-                child: Text('個別事例',
-                    style: const TextStyle(
-                        fontSize: 13.5, height: 1.3, color: _caseBlue)),
-              ),
-              const Expanded(child: Divider(color: _caseBlue, thickness: 1)),
-            ],
-          ),
-        ),
-      ),
+    return const Padding(
+      padding: EdgeInsets.only(top: 16, bottom: 2),
+      child: Text('個別事例について',
+          style: TextStyle(
+              fontSize: 15, fontWeight: FontWeight.bold, color: _caseBlue)),
     );
   }
 
@@ -363,6 +366,14 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                     ),
                   ),
                 ),
+                if (item.important) ...[
+                  const SizedBox(width: 8),
+                  Text('重要',
+                      style: TextStyle(
+                          fontSize: 12.5,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.red.shade700)),
+                ],
                 // 指示未ボタンは薬剤の項目のみ, 同じ行の右端に配置
                 if (item.hasPendingBtn) ...[
                   const SizedBox(width: 8),

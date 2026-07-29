@@ -50,8 +50,8 @@ class _HomeShellState extends State<HomeShell> {
   int _index = 0;
 
   static const _pages = [
-    MedicationMasterScreen(),
     CalculatorHubScreen(),
+    MedicationMasterScreen(),
     ColumnScreen(),
     EmergencyScreen(),
   ];
@@ -95,8 +95,8 @@ class _BottomNav extends StatelessWidget {
   });
 
   static const _items = [
-    _NavItem(Icons.medication_outlined, Icons.medication, '薬剤'),
     _NavItem(Icons.calculate_outlined, Icons.calculate, '機能'),
+    _NavItem(Icons.medication_outlined, Icons.medication, '薬剤'),
     _NavItem(Icons.menu_book_outlined, Icons.menu_book, '解説'),
     _NavItem(Icons.emergency_outlined, Icons.emergency, '緊急対応', emphasis: true),
   ];
