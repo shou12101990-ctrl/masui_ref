@@ -15,7 +15,9 @@ class _CheckItem {
   final String label;
   final bool hasPendingBtn; // 「指示未」ボタン付き (薬剤準備用)
   final String? note; // ラベル直下に小さく出す注釈
-  const _CheckItem(this.label, {this.hasPendingBtn = false, this.note});
+  final String? naBtnLabel; // 「〜なし」ボタン付き (機器がなければ N/A 化)
+  const _CheckItem(this.label,
+      {this.hasPendingBtn = false, this.note, this.naBtnLabel});
 }
 
 const _items = <_CheckItem>[
@@ -25,11 +27,11 @@ const _items = <_CheckItem>[
   _CheckItem('持続注射薬のプライミングを行った (TIVAの場合はシリンジポンプの設定)'),
   _CheckItem('McGRATHのバッテリーを確認した'),
   _CheckItem('チューブの準備をした'),
-  _CheckItem('カフテスト (8ml程度入れて弾力を確認)をした'),
+  _CheckItem('カフテストをした', note: '8ml程度入れて弾力を確認する'),
   _CheckItem('呼吸器のセッティングをした'),
   _CheckItem('余剰排気が開いているか (30cmH2O)'),
   _CheckItem('吸入麻酔薬を補充した'),
-  _CheckItem('TOFモニタの準備をした'),
+  _CheckItem('TOFモニタの準備をした', naBtnLabel: 'TOFモニタなし'),
   _CheckItem('モニタ側でTOFを「自動」に設定した'),
   _CheckItem('(腹臥位 / 歯科口腔外科の場合) 延長チューブを準備した'),
   _CheckItem('チューブ固定テープ・目パッチを準備した'),
@@ -37,6 +39,9 @@ const _items = <_CheckItem>[
       note: '耳鼻科のESSでナビゲーションを使用する場合はBIS'),
   _CheckItem('胃管の準備をした (必要症例のみ)'),
   _CheckItem('ルート準備 (22G・20G・消毒綿・駆血帯)'),
+  _CheckItem('(神経ブロック / ルート確保の際) エコー準備した\n電源ON, depthとgain調整',
+      note: 'ルート 2cm, 神経ブロック 3cm前後'),
+  _CheckItem('聴診器を準備した'),
 ];
 
 class _PreEntryScreenState extends State<PreEntryScreen> {
@@ -49,6 +54,7 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
   bool _finished = false;
 
   late final List<bool> _checked = List<bool>.filled(_items.length, false);
+  late final List<bool> _naActive = List<bool>.filled(_items.length, false);
   bool _ordersPending = false;
 
   @override
@@ -102,7 +108,10 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
     final running = _sw.isRunning;
     final over = _shown.inSeconds > _targetSec;
     final timeColor = over ? Colors.red.shade700 : _accent;
-    final doneCount = _checked.where((c) => c).length;
+    var doneCount = 0;
+    for (var i = 0; i < _items.length; i++) {
+      if (_checked[i] || _naActive[i]) doneCount++;
+    }
 
     return Scaffold(
       appBar: AppBar(
@@ -235,6 +244,7 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
     setState(() {
       for (var i = 0; i < _checked.length; i++) {
         _checked[i] = false;
+        _naActive[i] = false;
       }
       _ordersPending = false;
     });
@@ -243,6 +253,8 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
   Widget _checkRow(int i) {
     final item = _items[i];
     final checked = _checked[i];
+    final na = _naActive[i];
+    final resolved = checked || na; // チェック済み or「〜なし」で解決扱い
     final pending = item.hasPendingBtn && _ordersPending;
     return InkWell(
       borderRadius: BorderRadius.circular(8),
@@ -255,9 +267,9 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
             Row(
               children: [
                 Icon(
-                  checked ? Icons.check_box : Icons.check_box_outline_blank,
+                  resolved ? Icons.check_box : Icons.check_box_outline_blank,
                   size: 22,
-                  color: checked ? Colors.grey.shade500 : Colors.black45,
+                  color: resolved ? Colors.grey.shade500 : Colors.black45,
                 ),
                 const SizedBox(width: 10),
                 Expanded(
@@ -270,10 +282,60 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                           pending ? FontWeight.bold : FontWeight.normal,
                       color: pending
                           ? Colors.red.shade700
-                          : (checked ? Colors.grey.shade500 : Colors.black87),
+                          : (resolved ? Colors.grey.shade500 : Colors.black87),
                     ),
                   ),
                 ),
+                // 指示未ボタンは薬剤の項目のみ, 同じ行の右端に配置
+                if (item.hasPendingBtn) ...[
+                  const SizedBox(width: 8),
+                  GestureDetector(
+                    onTap: () =>
+                        setState(() => _ordersPending = !_ordersPending),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 12, vertical: 5),
+                      decoration: BoxDecoration(
+                        color:
+                            _ordersPending ? Colors.red.shade600 : Colors.white,
+                        borderRadius: BorderRadius.circular(8),
+                        border:
+                            Border.all(color: Colors.red.shade400, width: 1.4),
+                      ),
+                      child: Text('指示未',
+                          style: TextStyle(
+                              fontSize: 12,
+                              fontWeight: FontWeight.bold,
+                              color: _ordersPending
+                                  ? Colors.white
+                                  : Colors.red.shade600)),
+                    ),
+                  ),
+                ],
+                // 「〜なし」ボタンも同じ行の右端に配置
+                if (item.naBtnLabel != null) ...[
+                  const SizedBox(width: 8),
+                  GestureDetector(
+                    onTap: () => setState(() => _naActive[i] = !_naActive[i]),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 12, vertical: 5),
+                      decoration: BoxDecoration(
+                        color: na ? Colors.blueGrey.shade400 : Colors.white,
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(
+                            color: Colors.blueGrey.shade300, width: 1.4),
+                      ),
+                      child: Text(item.naBtnLabel!,
+                          style: TextStyle(
+                              fontSize: 12,
+                              fontWeight: FontWeight.bold,
+                              color: na
+                                  ? Colors.white
+                                  : Colors.blueGrey.shade600)),
+                    ),
+                  ),
+                ],
               ],
             ),
             // 注釈は項目名の直下に小さく配置
@@ -284,51 +346,19 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                     style: TextStyle(
                         fontSize: 11,
                         height: 1.3,
-                        color: checked
+                        color: resolved
                             ? Colors.grey.shade400
                             : Colors.grey.shade600)),
               ),
-            // 指示未ボタンは薬剤の項目のみ, 名前の直下に改行して配置
-            if (item.hasPendingBtn)
+            // 指示未のときの注意文言はラベル下に表示
+            if (pending)
               Padding(
-                padding: const EdgeInsets.only(left: 32, top: 6),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    GestureDetector(
-                      onTap: () =>
-                          setState(() => _ordersPending = !_ordersPending),
-                      child: Container(
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 12, vertical: 5),
-                        decoration: BoxDecoration(
-                          color: _ordersPending
-                              ? Colors.red.shade600
-                              : Colors.white,
-                          borderRadius: BorderRadius.circular(8),
-                          border: Border.all(
-                              color: Colors.red.shade400, width: 1.4),
-                        ),
-                        child: Text('指示未',
-                            style: TextStyle(
-                                fontSize: 12,
-                                fontWeight: FontWeight.bold,
-                                color: _ordersPending
-                                    ? Colors.white
-                                    : Colors.red.shade600)),
-                      ),
-                    ),
-                    if (_ordersPending)
-                      Padding(
-                        padding: const EdgeInsets.only(top: 5),
-                        child: Text('→ 近くの上級医に確認',
-                            style: TextStyle(
-                                fontSize: 12.5,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.red.shade700)),
-                      ),
-                  ],
-                ),
+                padding: const EdgeInsets.only(left: 32, top: 5),
+                child: Text('→ 近くの上級医に確認',
+                    style: TextStyle(
+                        fontSize: 12.5,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red.shade700)),
               ),
           ],
         ),
