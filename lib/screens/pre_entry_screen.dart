@@ -337,7 +337,7 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
       borderRadius: BorderRadius.circular(8),
       onTap: () => setState(() => _checked[i] = !_checked[i]),
       child: Padding(
-        padding: const EdgeInsets.symmetric(vertical: 7, horizontal: 2),
+        padding: const EdgeInsets.symmetric(vertical: 3.5, horizontal: 2),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
