@@ -24,28 +24,59 @@ const _items = <_CheckItem>[
   _CheckItem('吸引をONにした'),
   _CheckItem('サクションをすぐ使えるように準備した'),
   _CheckItem('薬剤を術前指示に過不足なく準備した', hasPendingBtn: true),
-  _CheckItem('持続注射薬のプライミングを行った (TIVAの場合はシリンジポンプの設定)'),
-  _CheckItem('McGRATHのバッテリーを確認した'),
-  _CheckItem('チューブの準備をした'),
+  _CheckItem('持続注射薬のプライミングを行った',
+      note: 'TIVAの場合はシリンジポンプの設定'),
+  _CheckItem('喉頭鏡 / McGRATHの電池を確認した'),
+  _CheckItem('チューブの準備をした', note: 'チューブの種類 / 太さは確認'),
   _CheckItem('カフテストをした', note: '8ml程度入れて弾力を確認する'),
   _CheckItem('呼吸器のセッティングをした'),
   _CheckItem('余剰排気が開いているか (30cmH2O)'),
-  _CheckItem('吸入麻酔薬を補充した'),
+  _CheckItem('Sev・Desを補充した'),
+  _CheckItem('ソーダライムをチェックした'),
   _CheckItem('TOFモニタの準備をした', naBtnLabel: 'TOFモニタなし'),
   _CheckItem('モニタ側でTOFを「自動」に設定した'),
-  _CheckItem('(腹臥位 / 歯科口腔外科の場合) 延長チューブを準備した'),
   _CheckItem('チューブ固定テープ・目パッチを準備した'),
   _CheckItem('体温計・脳波センサーを準備した',
       note: '耳鼻科のESSでナビゲーションを使用する場合はBIS'),
   _CheckItem('胃管の準備をした (必要症例のみ)'),
   _CheckItem('ルート準備 (22G・20G・消毒綿・駆血帯)'),
-  _CheckItem('(神経ブロック / ルート確保の際) エコー準備した\n電源ON, depthとgain調整',
-      note: 'ルート 2cm, 神経ブロック 3cm前後'),
   _CheckItem('聴診器を準備した'),
 ];
 
+/// 個別事例 — 該当する症例のときだけ使うチェック群.
+class _CaseGroup {
+  final String title;
+  final List<_CheckItem> items;
+  const _CaseGroup(this.title, this.items);
+}
+
+const _caseGroups = <_CaseGroup>[
+  _CaseGroup('神経ブロック / ルート確保', [
+    _CheckItem('エコー準備, 電源ON, 調整済',
+        note: 'ルート 2cm, 神経ブロック 3cm前後'),
+  ]),
+  _CaseGroup('喘息患者', [
+    _CheckItem('DAMカートの喘息患者セットを準備した'),
+  ]),
+  _CaseGroup('冠動脈疾患患者', [
+    _CheckItem('硝酸薬やベラパミルを準備した', note: '上級医に確認してください'),
+  ]),
+  _CaseGroup('経鼻挿管', [
+    _CheckItem('経鼻挿管セットの準備をNSに依頼した'),
+    _CheckItem('経鼻用チューブ, マギール鉗子を準備した'),
+  ]),
+  _CaseGroup('腹臥位 / 歯科口腔外科', [
+    _CheckItem('延長チューブを準備した'),
+  ]),
+];
+
+/// 個別事例の項目をフラット化 (チェック状態は _items の後ろに続く連番で持つ).
+final _caseItems = <_CheckItem>[for (final g in _caseGroups) ...g.items];
+final _allItems = <_CheckItem>[..._items, ..._caseItems];
+
 class _PreEntryScreenState extends State<PreEntryScreen> {
   static const _accent = Color(0xFF00695C);
+  static const _caseBlue = Color(0xFF1565C0); // 個別事例の見出し色
   static const _targetSec = 15 * 60; // 目標15分
 
   final _sw = Stopwatch();
@@ -53,8 +84,8 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
   Duration _shown = Duration.zero;
   bool _finished = false;
 
-  late final List<bool> _checked = List<bool>.filled(_items.length, false);
-  late final List<bool> _naActive = List<bool>.filled(_items.length, false);
+  late final List<bool> _checked = List<bool>.filled(_allItems.length, false);
+  late final List<bool> _naActive = List<bool>.filled(_allItems.length, false);
   bool _ordersPending = false;
 
   @override
@@ -108,10 +139,11 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
     final running = _sw.isRunning;
     final over = _shown.inSeconds > _targetSec;
     final timeColor = over ? Colors.red.shade700 : _accent;
-    var doneCount = 0;
+    var doneCount = 0; // 進捗表示は基本項目のみ (個別事例は該当症例だけなので除外)
     for (var i = 0; i < _items.length; i++) {
       if (_checked[i] || _naActive[i]) doneCount++;
     }
+    final anyOn = _checked.contains(true) || _naActive.contains(true);
 
     return Scaffold(
       appBar: AppBar(
@@ -218,11 +250,12 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                             fontSize: 11, color: Colors.grey.shade600)),
                     const SizedBox(height: 8),
                     for (int i = 0; i < _items.length; i++) _checkRow(i),
+                    ..._caseSection(),
                     Align(
                       alignment: Alignment.centerRight,
                       child: TextButton.icon(
                         onPressed:
-                            (doneCount > 0 || _ordersPending) ? _clearAll : null,
+                            (anyOn || _ordersPending) ? _clearAll : null,
                         icon: const Icon(Icons.refresh, size: 16),
                         label: const Text('全てクリア',
                             style: TextStyle(fontSize: 12)),
@@ -250,8 +283,52 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
     });
   }
 
+  /// 個別事例ゾーン — 「— 個別事例 —」の区切り + 事例ごとの見出しとチェック項目.
+  List<Widget> _caseSection() {
+    final w = <Widget>[_caseDivider()];
+    var idx = _items.length; // チェック状態は _items の後ろに続く連番
+    for (final g in _caseGroups) {
+      w.add(Padding(
+        padding: const EdgeInsets.only(left: 2, top: 10, bottom: 1),
+        child: Text(g.title,
+            style: const TextStyle(
+                fontSize: 13.5, height: 1.3, color: _caseBlue)),
+      ));
+      for (var k = 0; k < g.items.length; k++) {
+        w.add(_checkRow(idx++));
+      }
+    }
+    return w;
+  }
+
+  /// 見出しを中央に置き, 横棒をカードの端-10ptまで伸ばす区切り.
+  Widget _caseDivider() {
+    // カード内padding 14 のうち 4 をはみ出させると カードの端-10pt に届く.
+    const bleed = 4.0;
+    return LayoutBuilder(
+      builder: (context, c) => SizedBox(
+        height: 34,
+        child: OverflowBox(
+          maxWidth: c.maxWidth + bleed * 2,
+          child: Row(
+            children: [
+              const Expanded(child: Divider(color: _caseBlue, thickness: 1)),
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 10),
+                child: Text('個別事例',
+                    style: const TextStyle(
+                        fontSize: 13.5, height: 1.3, color: _caseBlue)),
+              ),
+              const Expanded(child: Divider(color: _caseBlue, thickness: 1)),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
   Widget _checkRow(int i) {
-    final item = _items[i];
+    final item = _allItems[i];
     final checked = _checked[i];
     final na = _naActive[i];
     final resolved = checked || na; // チェック済み or「〜なし」で解決扱い
@@ -321,18 +398,17 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                       padding: const EdgeInsets.symmetric(
                           horizontal: 12, vertical: 5),
                       decoration: BoxDecoration(
-                        color: na ? Colors.blueGrey.shade400 : Colors.white,
+                        color: na ? Colors.red.shade600 : Colors.white,
                         borderRadius: BorderRadius.circular(8),
-                        border: Border.all(
-                            color: Colors.blueGrey.shade300, width: 1.4),
+                        border:
+                            Border.all(color: Colors.red.shade400, width: 1.4),
                       ),
                       child: Text(item.naBtnLabel!,
                           style: TextStyle(
                               fontSize: 12,
                               fontWeight: FontWeight.bold,
-                              color: na
-                                  ? Colors.white
-                                  : Colors.blueGrey.shade600)),
+                              color:
+                                  na ? Colors.white : Colors.red.shade600)),
                     ),
                   ),
                 ],
