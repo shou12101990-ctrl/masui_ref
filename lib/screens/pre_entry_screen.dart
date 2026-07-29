@@ -16,7 +16,7 @@ class _CheckItem {
   final bool hasPendingBtn; // 「指示未」ボタン付き (薬剤準備用)
   final String? note; // ラベル直下に小さく出す注釈
   final String? naBtnLabel; // 「〜なし」ボタン付き (機器がなければ N/A 化)
-  final bool important; // 行の右端に赤太字で「重要」を出す
+  final bool important; // 項目名のすぐ後ろに赤太字で「重要」を出す
   const _CheckItem(this.label,
       {this.hasPendingBtn = false,
       this.note,
@@ -353,8 +353,20 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                 ),
                 const SizedBox(width: 10),
                 Expanded(
-                  child: Text(
-                    item.label,
+                  child: Text.rich(
+                    TextSpan(
+                      text: item.label,
+                      children: [
+                        // 「重要」は項目名のすぐ後ろに赤太字で続ける
+                        if (item.important)
+                          TextSpan(
+                            text: ' 重要',
+                            style: TextStyle(
+                                fontWeight: FontWeight.bold,
+                                color: Colors.red.shade700),
+                          ),
+                      ],
+                    ),
                     style: TextStyle(
                       fontSize: 13.5,
                       height: 1.3,
@@ -366,14 +378,6 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                     ),
                   ),
                 ),
-                if (item.important) ...[
-                  const SizedBox(width: 8),
-                  Text('重要',
-                      style: TextStyle(
-                          fontSize: 12.5,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.red.shade700)),
-                ],
                 // 指示未ボタンは薬剤の項目のみ, 同じ行の右端に配置
                 if (item.hasPendingBtn) ...[
                   const SizedBox(width: 8),
