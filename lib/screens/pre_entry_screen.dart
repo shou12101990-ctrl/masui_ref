@@ -17,11 +17,13 @@ class _CheckItem {
   final String? note; // ラベル直下に小さく出す注釈
   final String? naBtnLabel; // 「〜なし」ボタン付き (機器がなければ N/A 化)
   final bool important; // 項目名のすぐ後ろに赤太字で「重要」を出す
+  final List<String> boldParts; // 項目名のうち太字にする語
   const _CheckItem(this.label,
       {this.hasPendingBtn = false,
       this.note,
       this.naBtnLabel,
-      this.important = false});
+      this.important = false,
+      this.boldParts = const []});
 }
 
 const _items = <_CheckItem>[
@@ -31,7 +33,7 @@ const _items = <_CheckItem>[
   _CheckItem('チューブ固定テープ / 目パッチを準備した'),
   _CheckItem('吸引をON, サクションチューブを準備した'),
   _CheckItem('余剰排気を開けておいた', note: '30cmH2O'),
-  _CheckItem('Sev / Desを補充し, ソーダライムをチェックした',
+  _CheckItem('Sev / Desの補充とソーダライムチェック',
       note: '半分〜2/3程度青い時はMEに交換要請'),
   _CheckItem('薬剤を術前指示に沿って準備した', hasPendingBtn: true),
   _CheckItem('持続投与薬のプライミング', note: 'TIVAの場合はシリンジポンプの設定'),
@@ -42,7 +44,8 @@ const _items = <_CheckItem>[
   _CheckItem('体温計 / 脳波センサーを準備した',
       note: '耳鼻科のESSでナビゲーションを使用する場合はBIS'),
   _CheckItem('胃管の準備をした (必要症例のみ)'),
-  _CheckItem('ルート準備 (22G・20G・消毒綿・駆血帯)'),
+  _CheckItem('ルート準備 (22G・20G・消毒綿・駆血帯)',
+      boldParts: ['消毒綿', '駆血帯']),
   _CheckItem('聴診器準備'),
 ];
 
@@ -329,6 +332,27 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
     );
   }
 
+  /// 項目名を組み立てる. boldParts に挙げた語だけ太字にする.
+  List<InlineSpan> _labelSpans(_CheckItem item) {
+    if (item.boldParts.isEmpty) return [TextSpan(text: item.label)];
+    final pattern =
+        RegExp(item.boldParts.map(RegExp.escape).join('|'));
+    final spans = <InlineSpan>[];
+    var last = 0;
+    for (final m in pattern.allMatches(item.label)) {
+      if (m.start > last) {
+        spans.add(TextSpan(text: item.label.substring(last, m.start)));
+      }
+      spans.add(TextSpan(
+          text: m[0], style: const TextStyle(fontWeight: FontWeight.bold)));
+      last = m.end;
+    }
+    if (last < item.label.length) {
+      spans.add(TextSpan(text: item.label.substring(last)));
+    }
+    return spans;
+  }
+
   Widget _checkRow(int i) {
     final item = _allItems[i];
     final checked = _checked[i];
@@ -354,8 +378,8 @@ class _PreEntryScreenState extends State<PreEntryScreen> {
                 Expanded(
                   child: Text.rich(
                     TextSpan(
-                      text: item.label,
                       children: [
+                        ..._labelSpans(item),
                         // 「重要」は項目名のすぐ後ろに赤太字で続ける
                         if (item.important)
                           TextSpan(
