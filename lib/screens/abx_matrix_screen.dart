@@ -436,8 +436,10 @@ class _MatrixTableState extends State<_MatrixTable> {
 
   static const _rowH = 26.0;
   static const _headH = 26.0;
-  static const _nameW = 134.0; // 上位分類の帯を含む固定列の幅
-  static const _groupW = 16.0; // 左端の上位分類 (90度回転)の帯
+  static const _nameW = 138.0; // 上位分類の帯を含む固定列の幅
+  static const _groupW = 22.0; // 左端の上位分類 (90度回転, 最大2行)の帯
+  static const _fsBand = 7.5; // 帯の基準サイズ (入らなければ自動で縮める)
+  static const _fsBandMin = 4.5;
 
   // 表内フォント (従来より2pt小さい)
   static const _fsName = 9.5;
@@ -470,6 +472,37 @@ class _MatrixTableState extends State<_MatrixTable> {
     }
     // セル内寸で padding 左右2px + 右罫線1px を使うので, その分と丸め誤差の余裕を足す
     return w + 7;
+  }
+
+  /// 帯に収まるフォントサイズ. 区間の高さ (回転後の走査長)に対して
+  /// 2行まで使って収まる最大サイズを探し, 省略記号を出さずに収める.
+  static final _bandFontCache = <String, double>{};
+
+  static TextStyle _bandStyle(double fs) => TextStyle(
+    fontSize: fs,
+    height: 1.05,
+    letterSpacing: 0,
+    fontWeight: FontWeight.bold,
+  );
+
+  static double _bandFontSize(String label, double avail, double bandInner) {
+    final key = '$label|${avail.toStringAsFixed(1)}';
+    final cached = _bandFontCache[key];
+    if (cached != null) return cached;
+    var result = _fsBandMin;
+    for (var fs = _fsBand; fs >= _fsBandMin; fs -= 0.25) {
+      final tp = TextPainter(
+        text: TextSpan(text: label, style: _bandStyle(fs)),
+        maxLines: 3,
+        textDirection: TextDirection.ltr,
+      )..layout(maxWidth: avail);
+      if (!tp.didExceedMaxLines && tp.height <= bandInner) {
+        result = fs;
+        break;
+      }
+    }
+    _bandFontCache[key] = result;
+    return result;
   }
 
   /// 縦帯に出す分類名. 帯は区間の高さぶんしか長さが無いので,
@@ -714,36 +747,38 @@ class _MatrixTableState extends State<_MatrixTable> {
   }
 
   /// 左端の上位分類. 横書きを90度回転 (左が文字の上側)して縦帯にする.
-  Widget _groupBand(_GroupSpan s, int si) => Container(
-    width: _groupW,
-    decoration: BoxDecoration(
-      color: widget.accent.withValues(alpha: si.isEven ? 0.13 : 0.06),
-      border: Border(
-        bottom: BorderSide(color: Colors.grey.shade300),
-        right: BorderSide(color: Colors.grey.shade300),
+  /// 区間の高さに収まるまで字を small にして, 省略記号を出さずに納める.
+  Widget _groupBand(_GroupSpan s, int si) {
+    final label = _bandLabel(s.label);
+    // 回転後の走査長 = 区間の高さ − 下罫線1px − 左右padding 4px
+    final avail = _rowH * s.count - 5;
+    final fs = _bandFontSize(label, avail, _groupW - 1);
+    return Container(
+      width: _groupW,
+      decoration: BoxDecoration(
+        color: widget.accent.withValues(alpha: si.isEven ? 0.13 : 0.06),
+        border: Border(
+          bottom: BorderSide(color: Colors.grey.shade300),
+          right: BorderSide(color: Colors.grey.shade300),
+        ),
       ),
-    ),
-    child: RotatedBox(
-      quarterTurns: 3,
-      child: Center(
-        child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 2),
-          child: Text(
-            _bandLabel(s.label),
-            maxLines: 1,
-            overflow: TextOverflow.ellipsis,
-            textAlign: TextAlign.center,
-            style: TextStyle(
-              fontSize: _fsAbbr,
-              letterSpacing: 0,
-              fontWeight: FontWeight.bold,
-              color: widget.accent,
+      child: RotatedBox(
+        quarterTurns: 3,
+        child: Center(
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 2),
+            child: Text(
+              label,
+              maxLines: 3,
+              overflow: TextOverflow.ellipsis,
+              textAlign: TextAlign.center,
+              style: _bandStyle(fs).copyWith(color: widget.accent),
             ),
           ),
         ),
       ),
-    ),
-  );
+    );
+  }
 
   /// 薬剤名の1行. 一般名と略語を同じ行に収める.
   Widget _nameRow(int i) {
