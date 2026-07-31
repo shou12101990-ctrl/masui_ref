@@ -362,6 +362,14 @@ class _ClassList extends StatelessWidget {
   );
 }
 
+/// 上位分類が連続する区間 (帯を1回だけ描くために使う).
+class _PsyGroupSpan {
+  final String label;
+  final int start;
+  int count;
+  _PsyGroupSpan(this.label, this.start) : count = 1;
+}
+
 /// 疾患・症状との対応表タブ.
 class _IndicationTable extends StatefulWidget {
   final List<PsyIndicationRow> rows;
@@ -377,10 +385,67 @@ class _IndicationTableState extends State<_IndicationTable> {
   final _vRight = ScrollController();
   bool _syncing = false;
 
-  static const _rowH = 44.0;
-  static const _headH = 46.0;
-  static const _nameW = 118.0;
-  static const _cellW = 58.0;
+  static const _rowH = 26.0;
+  static const _headH = 28.0;
+  static const _nameW = 130.0; // 上位分類の帯を含む固定列の幅
+  static const _groupW = 16.0; // 左端の上位分類 (90度回転)の帯
+
+  // 表内フォント (従来より2pt小さい)
+  static const _fsName = 9.5;
+  static const _fsBand = 7.5;
+  static const _fsHead = 7.5;
+  static const _fsMark = 13.0;
+
+  /// 列見出しのスタイル. 実測 (_cellWidth)と描画で必ず同じものを使う.
+  /// letterSpacing を明示しないと Material の bodyMedium (0.25)が乗り, 実測が過小になる.
+  static const _headStyle = TextStyle(
+    fontSize: _fsHead,
+    height: 1.1,
+    fontWeight: FontWeight.bold,
+    letterSpacing: 0,
+  );
+
+  /// 判定列の幅. 列見出しを1行で描いたときの最大幅に合わせて全列で統一する.
+  double _cellWidth(List<String> cols) {
+    var w = 24.0;
+    for (final c in cols) {
+      final tp = TextPainter(
+        text: TextSpan(text: c, style: _headStyle),
+        maxLines: 1,
+        textDirection: TextDirection.ltr,
+      )..layout();
+      if (tp.width > w) w = tp.width;
+    }
+    // セル内寸で padding 左右2px + 右罫線1px を使う分と丸め誤差の余裕
+    return w + 7;
+  }
+
+  /// 縦帯に出す分類名. 帯は区間の高さぶんしか長さが無いので,
+  /// 括弧付きのラベルは短い方 (英字略号か括弧前)に畳む.
+  static String _bandLabel(String s) {
+    final m = RegExp(r'^(.*?)\s*\(([^)]*)\)').firstMatch(s);
+    if (m == null) return s;
+    final head = m.group(1)!.trim();
+    final inner = m.group(2)!.trim();
+    if (head.isEmpty) return inner;
+    final isAbbr = RegExp(r'^[A-Za-z0-9\-/. ]+$').hasMatch(inner);
+    if (isAbbr && inner.length < head.length) return inner;
+    return head;
+  }
+
+  /// 上位分類 (classLabel)が連続する区間.
+  List<_PsyGroupSpan> _spans() {
+    final res = <_PsyGroupSpan>[];
+    for (var i = 0; i < widget.rows.length; i++) {
+      final g = widget.rows[i].classLabel;
+      if (res.isNotEmpty && res.last.label == g) {
+        res.last.count++;
+      } else {
+        res.add(_PsyGroupSpan(g, i));
+      }
+    }
+    return res;
+  }
 
   @override
   void initState() {
@@ -405,7 +470,7 @@ class _IndicationTableState extends State<_IndicationTable> {
   }
 
   Color _cellColor(String v) {
-    if (v.startsWith('●')) return const Color(0xFFC8E6C9);
+    if (v.startsWith('◎')) return const Color(0xFFC8E6C9);
     if (v.startsWith('○')) return const Color(0xFFE8F5E9);
     if (v.startsWith('△')) return const Color(0xFFFFF8E1);
     if (v.startsWith('✕') || v.startsWith('×')) return const Color(0xFFFFEBEE);
@@ -419,6 +484,8 @@ class _IndicationTableState extends State<_IndicationTable> {
       return const Center(child: Text('対応表のデータがありません'));
     }
     final cols = kPsyIndicationCols;
+    final spans = _spans();
+    final cellW = _cellWidth(cols);
     return Column(
       children: [
         Expanded(
@@ -431,7 +498,7 @@ class _IndicationTableState extends State<_IndicationTable> {
                     Container(
                       height: _headH,
                       alignment: Alignment.centerLeft,
-                      padding: const EdgeInsets.only(left: 10),
+                      padding: const EdgeInsets.only(left: 6),
                       decoration: BoxDecoration(
                         color: widget.accent.withValues(alpha: 0.12),
                         border: Border(
@@ -440,59 +507,38 @@ class _IndicationTableState extends State<_IndicationTable> {
                         ),
                       ),
                       child: Text(
-                        '薬剤',
+                        '分類 / 薬剤',
                         style: TextStyle(
-                          fontSize: 12,
+                          fontSize: 10,
                           fontWeight: FontWeight.bold,
                           color: widget.accent,
                         ),
                       ),
                     ),
                     Expanded(
+                      // 分類が続く区間ごとに帯を1回だけ描く
                       child: ListView.builder(
                         controller: _vLeft,
-                        itemCount: rows.length,
-                        itemExtent: _rowH,
-                        itemBuilder: (_, i) => InkWell(
-                          onTap: () => _detail(rows[i]),
-                          child: Container(
-                            padding: const EdgeInsets.symmetric(horizontal: 8),
-                            decoration: BoxDecoration(
-                              color: i.isEven
-                                  ? Colors.white
-                                  : const Color(0xFFFAFAFA),
-                              border: Border(
-                                bottom: BorderSide(color: Colors.grey.shade200),
-                                right: BorderSide(color: Colors.grey.shade300),
-                              ),
-                            ),
-                            child: Column(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              crossAxisAlignment: CrossAxisAlignment.start,
+                        itemCount: spans.length,
+                        itemBuilder: (_, si) {
+                          final s = spans[si];
+                          return SizedBox(
+                            height: _rowH * s.count,
+                            child: Row(
                               children: [
-                                Text(
-                                  rows[i].generic,
-                                  maxLines: 1,
-                                  overflow: TextOverflow.ellipsis,
-                                  style: const TextStyle(
-                                    fontSize: 11.5,
-                                    fontWeight: FontWeight.w600,
+                                _groupBand(s, si),
+                                Expanded(
+                                  child: Column(
+                                    children: [
+                                      for (var k = 0; k < s.count; k++)
+                                        _nameRow(s.start + k),
+                                    ],
                                   ),
                                 ),
-                                if (rows[i].classLabel.isNotEmpty)
-                                  Text(
-                                    rows[i].classLabel,
-                                    maxLines: 1,
-                                    overflow: TextOverflow.ellipsis,
-                                    style: TextStyle(
-                                      fontSize: 9.5,
-                                      color: Colors.grey.shade600,
-                                    ),
-                                  ),
                               ],
                             ),
-                          ),
-                        ),
+                          );
+                        },
                       ),
                     ),
                   ],
@@ -502,7 +548,7 @@ class _IndicationTableState extends State<_IndicationTable> {
                 child: SingleChildScrollView(
                   scrollDirection: Axis.horizontal,
                   child: SizedBox(
-                    width: _cellW * cols.length,
+                    width: cellW * cols.length,
                     child: Column(
                       children: [
                         Container(
@@ -517,19 +563,18 @@ class _IndicationTableState extends State<_IndicationTable> {
                             children: [
                               for (final c in cols)
                                 SizedBox(
-                                  width: _cellW,
+                                  width: cellW,
                                   child: Center(
                                     child: Padding(
                                       padding: const EdgeInsets.symmetric(
-                                        horizontal: 2,
+                                        horizontal: 1,
                                       ),
                                       child: Text(
                                         c,
                                         textAlign: TextAlign.center,
-                                        style: TextStyle(
-                                          fontSize: 9.5,
-                                          height: 1.2,
-                                          fontWeight: FontWeight.bold,
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: _headStyle.copyWith(
                                           color: widget.accent,
                                         ),
                                       ),
@@ -558,7 +603,7 @@ class _IndicationTableState extends State<_IndicationTable> {
                                   children: [
                                     for (final c in cols)
                                       Container(
-                                        width: _cellW,
+                                        width: cellW,
                                         alignment: Alignment.center,
                                         decoration: BoxDecoration(
                                           color: _cellColor(
@@ -573,7 +618,8 @@ class _IndicationTableState extends State<_IndicationTable> {
                                         child: Text(
                                           rows[i].indications[c] ?? '',
                                           style: const TextStyle(
-                                            fontSize: 15,
+                                            fontSize: _fsMark,
+                                            height: 1.0,
                                             fontWeight: FontWeight.bold,
                                           ),
                                         ),
@@ -621,6 +667,91 @@ class _IndicationTableState extends State<_IndicationTable> {
           ),
         ),
       ],
+    );
+  }
+
+  /// 左端の上位分類. 横書きを90度回転 (左が文字の上側)して縦帯にする.
+  Widget _groupBand(_PsyGroupSpan s, int si) => Container(
+    width: _groupW,
+    decoration: BoxDecoration(
+      color: widget.accent.withValues(alpha: si.isEven ? 0.13 : 0.06),
+      border: Border(
+        bottom: BorderSide(color: Colors.grey.shade300),
+        right: BorderSide(color: Colors.grey.shade300),
+      ),
+    ),
+    child: RotatedBox(
+      quarterTurns: 3,
+      child: Center(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 2),
+          child: Text(
+            _bandLabel(s.label),
+            maxLines: 1,
+            overflow: TextOverflow.ellipsis,
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: _fsBand,
+              letterSpacing: 0,
+              fontWeight: FontWeight.bold,
+              color: widget.accent,
+            ),
+          ),
+        ),
+      ),
+    ),
+  );
+
+  /// 薬剤名の1行. 1剤しかない分類では帯に数文字しか入らないため,
+  /// 分類 (短縮形)を行内にも併記して表から読み取れるようにする.
+  Widget _nameRow(int i) {
+    final r = widget.rows[i];
+    final band = _bandLabel(r.classLabel);
+    return InkWell(
+      onTap: () => _detail(r),
+      child: Container(
+        height: _rowH,
+        padding: const EdgeInsets.symmetric(horizontal: 4),
+        decoration: BoxDecoration(
+          color: i.isEven ? Colors.white : const Color(0xFFFAFAFA),
+          border: Border(
+            bottom: BorderSide(color: Colors.grey.shade200),
+            right: BorderSide(color: Colors.grey.shade300),
+          ),
+        ),
+        child: Row(
+          children: [
+            Flexible(
+              flex: 5,
+              child: Text(
+                r.generic,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+                style: const TextStyle(
+                  fontSize: _fsName,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+            if (band.isNotEmpty)
+              Flexible(
+                flex: 3,
+                child: Padding(
+                  padding: const EdgeInsets.only(left: 3),
+                  child: Text(
+                    band,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: TextStyle(
+                      fontSize: _fsBand,
+                      color: Colors.grey.shade600,
+                    ),
+                  ),
+                ),
+              ),
+          ],
+        ),
+      ),
     );
   }
 

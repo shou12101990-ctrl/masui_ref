@@ -65,7 +65,7 @@ class PsyIndicationRow {
   /// 上位分類 (MARTA, SDA, ブチロフェノン系 など)
   final String classLabel;
 
-  /// 疾患・症状ごとの適合度. ● 主たる適応 / ○ 使える / △ 限定的 / ✕ 避ける
+  /// 疾患・症状ごとの適合度. ◎ 主たる適応 / ○ 使える / △ 限定的 / ✕ 避ける
   final Map<String, String> indications;
 
   /// 周術期・ICUで押さえる注意
@@ -98,7 +98,7 @@ const List<String> kPsyIndicationCols = [
 
 /// 対応表の記号の意味
 const Map<String, String> kPsyMarkLegend = {
-  '●': '主たる適応・第一選択',
+  '◎': '主たる適応・第一選択',
   '○': '使える',
   '△': '限定的・条件付き',
   '✕': '避ける',

@@ -76,7 +76,6 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final theme = Theme.of(context);
     final rows = _rows;
     return Scaffold(
       appBar: AppBar(
@@ -209,7 +208,7 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
                 Text(
                   switch (_kind) {
                     _Kind.bacteria =>
-                      '色は病原体の種類, 濃さは判定の強さ (● 濃い / ▲△ 淡い). ✕は灰色. '
+                      '色は病原体の種類, 濃さは判定の強さ (○ 濃い / ▲△ 淡い). ✕は灰色. '
                           '空欄は原典に記載なし. 行をタップで用量・補足. ',
                     _Kind.fungus =>
                       '列は真菌の種類で抗菌薬の列とは意味が異なる. '
@@ -337,6 +336,23 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
                 '臓器移行性',
                 r.organ.entries.map((e) => '${e.key} ${e.value}').join(' / '),
               ),
+            // 表のセルに入りきらない注記付きセルは, ここで全文を出す
+            if (_cellNotes(r).isNotEmpty) ...[
+              const SizedBox(height: 10),
+              const Text(
+                'セルの注記',
+                style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold),
+              ),
+              const SizedBox(height: 4),
+              for (final n in _cellNotes(r))
+                Padding(
+                  padding: const EdgeInsets.only(bottom: 3),
+                  child: Text(
+                    n,
+                    style: const TextStyle(fontSize: 12.5, height: 1.5),
+                  ),
+                ),
+            ],
             if (r.note.isNotEmpty) ...[
               const SizedBox(height: 10),
               const Text(
@@ -351,6 +367,14 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
       ),
     );
   }
+
+  /// 記号1文字に収まらないセル (菌名・条件などの注記)を全文で拾い出す.
+  List<String> _cellNotes(AbxMatrixRow r) => [
+    for (final e in r.coverage.entries)
+      if (e.value.trim().length > 1) '${e.key}: ${e.value}',
+    for (final e in r.organ.entries)
+      if (e.value.trim().length > 1) '${e.key}: ${e.value}',
+  ];
 
   Widget _kv(String k, String v) => Padding(
     padding: const EdgeInsets.only(bottom: 8),
@@ -374,6 +398,14 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
       ],
     ),
   );
+}
+
+/// 上位分類が連続する区間 (帯を1回だけ描くために使う).
+class _GroupSpan {
+  final String label;
+  final int start;
+  int count;
+  _GroupSpan(this.label, this.start) : count = 1;
 }
 
 /// 薬剤名列を固定し, 判定列を横スクロールさせる2ペイン構成の表.
@@ -402,10 +434,71 @@ class _MatrixTableState extends State<_MatrixTable> {
   final _vRight = ScrollController();
   bool _syncing = false;
 
-  static const _rowH = 42.0;
-  static const _headH = 34.0;
-  static const _nameW = 128.0;
-  static const _cellW = 62.0;
+  static const _rowH = 26.0;
+  static const _headH = 26.0;
+  static const _nameW = 134.0; // 上位分類の帯を含む固定列の幅
+  static const _groupW = 16.0; // 左端の上位分類 (90度回転)の帯
+
+  // 表内フォント (従来より2pt小さい)
+  static const _fsName = 9.5;
+  static const _fsAbbr = 7.5;
+  static const _fsHead = 7.5;
+  static const _fsMark = 13.0;
+  static const _fsNote = 7.0;
+
+  /// 列見出しのスタイル. 実測 (_cellWidth)と描画で必ず同じものを使う.
+  /// letterSpacing を明示しないと Material の bodyMedium (0.25)が乗り,
+  /// 実測が文字数×0.25px だけ過小になって最長列が必ず省略される.
+  static const _headStyle = TextStyle(
+    fontSize: _fsHead,
+    height: 1.1,
+    fontWeight: FontWeight.bold,
+    letterSpacing: 0,
+  );
+
+  /// 判定列の幅. カバー範囲・臓器移行性で幅を揃えるため,
+  /// 列見出しを1行で描いたときの最大幅に合わせる (タイトニングした統一幅).
+  double _cellWidth() {
+    var w = 24.0; // 記号1文字が入る最小幅
+    for (final c in widget.cols) {
+      final tp = TextPainter(
+        text: TextSpan(text: c, style: _headStyle),
+        maxLines: 1,
+        textDirection: TextDirection.ltr,
+      )..layout();
+      if (tp.width > w) w = tp.width;
+    }
+    // セル内寸で padding 左右2px + 右罫線1px を使うので, その分と丸め誤差の余裕を足す
+    return w + 7;
+  }
+
+  /// 縦帯に出す分類名. 帯は区間の高さぶんしか長さが無いので,
+  /// 括弧付きのラベルは短い方 (英字略号か括弧前)に畳む.
+  static String _bandLabel(String s) {
+    final m = RegExp(r'^(.*?)\s*\(([^)]*)\)').firstMatch(s);
+    if (m == null) return s;
+    final head = m.group(1)!.trim();
+    final inner = m.group(2)!.trim();
+    if (head.isEmpty) return inner;
+    // 括弧内が英数字だけの略号 (DORA 等)で, 括弧前より短いならそちらを使う
+    final isAbbr = RegExp(r'^[A-Za-z0-9\-/. ]+$').hasMatch(inner);
+    if (isAbbr && inner.length < head.length) return inner;
+    return head;
+  }
+
+  /// 上位分類 (group)が連続する区間. 帯をまとめて1回だけ描くために使う.
+  List<_GroupSpan> _spans() {
+    final res = <_GroupSpan>[];
+    for (var i = 0; i < widget.rows.length; i++) {
+      final g = widget.rows[i].group;
+      if (res.isNotEmpty && res.last.label == g) {
+        res.last.count++;
+      } else {
+        res.add(_GroupSpan(g, i));
+      }
+    }
+    return res;
+  }
 
   @override
   void initState() {
@@ -431,7 +524,7 @@ class _MatrixTableState extends State<_MatrixTable> {
   }
 
   /// 病原体の種類ごとの基準色. 列 (菌種/真菌種/ウイルス)によって塗り分ける.
-  /// 同じ「●」でも, どの病原体をカバーしているのかが色で分かるようにする.
+  /// 同じ「○」でも, どの病原体をカバーしているのかが色で分かるようにする.
   static const _colColor = <String, Color>{
     // グラム陽性球菌 (GPC) : 紫系
     'MRSA': Color(0xFF7E57C2),
@@ -473,7 +566,7 @@ class _MatrixTableState extends State<_MatrixTable> {
       // カバーしない: 灰色で沈める (色相を持たせない)
       return const Color(0xFFF2F2F2);
     }
-    if (v.startsWith('●')) return base.withValues(alpha: 0.30);
+    if (v.startsWith('○')) return base.withValues(alpha: 0.30);
     if (v.startsWith('▲') || v.startsWith('△')) {
       return base.withValues(alpha: 0.13);
     }
@@ -484,9 +577,11 @@ class _MatrixTableState extends State<_MatrixTable> {
   @override
   Widget build(BuildContext context) {
     final rows = widget.rows;
+    final spans = _spans();
+    final cellW = _cellWidth();
     return Row(
       children: [
-        // 固定列 (薬剤名)
+        // 固定列 (上位分類の帯 + 薬剤名)
         SizedBox(
           width: _nameW,
           child: Column(
@@ -494,7 +589,7 @@ class _MatrixTableState extends State<_MatrixTable> {
               Container(
                 height: _headH,
                 alignment: Alignment.centerLeft,
-                padding: const EdgeInsets.only(left: 10),
+                padding: const EdgeInsets.only(left: 6),
                 decoration: BoxDecoration(
                   color: widget.accent.withValues(alpha: 0.12),
                   border: Border(
@@ -503,57 +598,35 @@ class _MatrixTableState extends State<_MatrixTable> {
                   ),
                 ),
                 child: Text(
-                  '薬剤',
+                  '分類 / 薬剤',
                   style: TextStyle(
-                    fontSize: 12,
+                    fontSize: 10,
                     fontWeight: FontWeight.bold,
                     color: widget.accent,
                   ),
                 ),
               ),
               Expanded(
+                // 分類が続く区間ごとに帯を1回だけ描く
                 child: ListView.builder(
                   controller: _vLeft,
-                  itemCount: rows.length,
-                  itemExtent: _rowH,
-                  itemBuilder: (_, i) {
-                    final r = rows[i];
-                    return InkWell(
-                      onTap: () => widget.onTap(r),
-                      child: Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 8),
-                        decoration: BoxDecoration(
-                          color: i.isEven ? Colors.white : const Color(0xFFFAFAFA),
-                          border: Border(
-                            bottom: BorderSide(color: Colors.grey.shade200),
-                            right: BorderSide(color: Colors.grey.shade300),
-                          ),
-                        ),
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              r.generic,
-                              maxLines: 1,
-                              overflow: TextOverflow.ellipsis,
-                              style: const TextStyle(
-                                fontSize: 11.5,
-                                fontWeight: FontWeight.w600,
-                              ),
+                  itemCount: spans.length,
+                  itemBuilder: (_, si) {
+                    final s = spans[si];
+                    return SizedBox(
+                      height: _rowH * s.count,
+                      child: Row(
+                        children: [
+                          _groupBand(s, si),
+                          Expanded(
+                            child: Column(
+                              children: [
+                                for (var k = 0; k < s.count; k++)
+                                  _nameRow(s.start + k),
+                              ],
                             ),
-                            if (r.abbr.isNotEmpty)
-                              Text(
-                                r.abbr,
-                                maxLines: 1,
-                                overflow: TextOverflow.ellipsis,
-                                style: TextStyle(
-                                  fontSize: 9.5,
-                                  color: Colors.grey.shade600,
-                                ),
-                              ),
-                          ],
-                        ),
+                          ),
+                        ],
                       ),
                     );
                   },
@@ -567,7 +640,7 @@ class _MatrixTableState extends State<_MatrixTable> {
           child: SingleChildScrollView(
             scrollDirection: Axis.horizontal,
             child: SizedBox(
-              width: _cellW * widget.cols.length,
+              width: cellW * widget.cols.length,
               child: Column(
                 children: [
                   // ヘッダ
@@ -583,9 +656,9 @@ class _MatrixTableState extends State<_MatrixTable> {
                       children: [
                         for (final c in widget.cols)
                           Container(
-                            width: _cellW,
+                            width: cellW,
                             alignment: Alignment.center,
-                            padding: const EdgeInsets.symmetric(horizontal: 2),
+                            padding: const EdgeInsets.symmetric(horizontal: 1),
                             decoration: BoxDecoration(
                               color: _baseColorFor(c).withValues(alpha: 0.16),
                               border: Border(
@@ -595,12 +668,9 @@ class _MatrixTableState extends State<_MatrixTable> {
                             child: Text(
                               c,
                               textAlign: TextAlign.center,
-                              maxLines: 2,
+                              maxLines: 1,
                               overflow: TextOverflow.ellipsis,
-                              style: TextStyle(
-                                fontSize: 9.5,
-                                height: 1.15,
-                                fontWeight: FontWeight.bold,
+                              style: _headStyle.copyWith(
                                 color: _baseColorFor(c),
                               ),
                             ),
@@ -626,7 +696,7 @@ class _MatrixTableState extends State<_MatrixTable> {
                             child: Row(
                               children: [
                                 for (final c in widget.cols)
-                                  _cell(r, c),
+                                  _cell(r, c, cellW),
                               ],
                             ),
                           ),
@@ -643,14 +713,99 @@ class _MatrixTableState extends State<_MatrixTable> {
     );
   }
 
-  Widget _cell(AbxMatrixRow r, String col) {
+  /// 左端の上位分類. 横書きを90度回転 (左が文字の上側)して縦帯にする.
+  Widget _groupBand(_GroupSpan s, int si) => Container(
+    width: _groupW,
+    decoration: BoxDecoration(
+      color: widget.accent.withValues(alpha: si.isEven ? 0.13 : 0.06),
+      border: Border(
+        bottom: BorderSide(color: Colors.grey.shade300),
+        right: BorderSide(color: Colors.grey.shade300),
+      ),
+    ),
+    child: RotatedBox(
+      quarterTurns: 3,
+      child: Center(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 2),
+          child: Text(
+            _bandLabel(s.label),
+            maxLines: 1,
+            overflow: TextOverflow.ellipsis,
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: _fsAbbr,
+              letterSpacing: 0,
+              fontWeight: FontWeight.bold,
+              color: widget.accent,
+            ),
+          ),
+        ),
+      ),
+    ),
+  );
+
+  /// 薬剤名の1行. 一般名と略語を同じ行に収める.
+  Widget _nameRow(int i) {
+    final r = widget.rows[i];
+    return InkWell(
+      onTap: () => widget.onTap(r),
+      child: Container(
+        height: _rowH,
+        padding: const EdgeInsets.symmetric(horizontal: 4),
+        decoration: BoxDecoration(
+          color: i.isEven ? Colors.white : const Color(0xFFFAFAFA),
+          border: Border(
+            bottom: BorderSide(color: Colors.grey.shade200),
+            right: BorderSide(color: Colors.grey.shade300),
+          ),
+        ),
+        // 略号側も Flexible にしないと, 長い略号が先に幅を取って
+        // 主たる識別情報である一般名が数文字まで潰れる
+        child: Row(
+          children: [
+            Flexible(
+              flex: 5,
+              child: Text(
+                r.generic,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+                style: const TextStyle(
+                  fontSize: _fsName,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+            if (r.abbr.isNotEmpty)
+              Flexible(
+                flex: 3,
+                child: Padding(
+                  padding: const EdgeInsets.only(left: 3),
+                  child: Text(
+                    r.abbr,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: TextStyle(
+                      fontSize: _fsAbbr,
+                      color: Colors.grey.shade600,
+                    ),
+                  ),
+                ),
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _cell(AbxMatrixRow r, String col, double cellW) {
     final v = r.coverage[col] ?? r.organ[col] ?? '';
-    // 記号1文字なら大きく, 菌名などの注記なら小さく折り返して出す
+    // 記号1文字なら大きく, 菌名などの注記なら小さく出す (全文は行タップの詳細に表示)
     final isMark = v.length <= 1;
     return Container(
-      width: _cellW,
+      width: cellW,
       alignment: Alignment.center,
-      padding: const EdgeInsets.symmetric(horizontal: 2),
+      padding: const EdgeInsets.symmetric(horizontal: 1),
       decoration: BoxDecoration(
         color: _cellColor(v, col),
         border: Border(right: BorderSide(color: Colors.grey.shade200)),
@@ -658,11 +813,11 @@ class _MatrixTableState extends State<_MatrixTable> {
       child: Text(
         v,
         textAlign: TextAlign.center,
-        maxLines: 2,
+        maxLines: 1,
         overflow: TextOverflow.ellipsis,
         style: TextStyle(
-          fontSize: isMark ? 15 : 9,
-          height: isMark ? 1.0 : 1.15,
+          fontSize: isMark ? _fsMark : _fsNote,
+          height: 1.0,
           fontWeight: isMark ? FontWeight.bold : FontWeight.w600,
           color: v.startsWith('✕') || v.startsWith('×')
               ? Colors.grey.shade500

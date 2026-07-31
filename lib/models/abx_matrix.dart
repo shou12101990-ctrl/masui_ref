@@ -85,7 +85,7 @@ const List<String> kAntiviralCoverageCols = ['対象ウイルス'];
 
 /// セルの記号の意味. 凡例に使う.
 const Map<String, String> kAbxMarkLegend = {
-  '●': 'カバーする',
+  '○': 'カバーする',
   '▲': '一部・条件付き',
   '△': '限定的',
   '✕': 'カバーしない',
