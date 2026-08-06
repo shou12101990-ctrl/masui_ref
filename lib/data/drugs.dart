@@ -17,6 +17,8 @@ import 'drugs/psychotropic_ext.dart';
 import 'drugs/antimicrobial.dart';
 import 'drugs/antihistamine.dart';
 import 'drugs/transfusion.dart';
+import 'drugs/diuretic.dart';
+import 'drugs/gastrointestinal.dart';
 import 'drugs/other.dart';
 
 /// 麻酔薬リファレンス データ (Excel「ますい.xlsx」より抜粋・整形).
@@ -40,5 +42,7 @@ final List<Drug> kDrugs = [
   ...kAntimicrobialDrugs,
   ...kAntihistamineDrugs,
   ...kTransfusionDrugs,
+  ...kDiureticDrugs,
+  ...kGastrointestinalDrugs,
   ...kOtherDrugs,
 ];

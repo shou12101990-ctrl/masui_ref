@@ -47,7 +47,9 @@ class _SimpleMatrixTableState extends State<SimpleMatrixTable> {
   static const _nameW = 150.0; // 上位分類の帯を含む固定列の幅
   static const _groupW = 22.0; // 左端の上位分類 (90度回転)の帯
   static const _fsBand = 7.5;
-  static const _fsBandMin = 4.5;
+  // 1行だけの区間は帯の長さが21pxしかない. "5-HT4" のような分割できない
+  // ラテン文字のトークンを収めるため, 抗菌薬表 (4.5)より下限を下げてある.
+  static const _fsBandMin = 4.0;
 
   static const _fsName = 9.5;
   static const _fsBrand = 7.5;
