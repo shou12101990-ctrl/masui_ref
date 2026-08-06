@@ -9,6 +9,7 @@ const List<Drug> kInhalationalDrugs = [
     dose:
         '導入: 通常0.5-5.0%.\n'
         '維持: 臨床徴候を観察しながら最小有効濃度に調節. 通常4.0%以下.',
+        doseLimit: '・維持濃度は通常4.0%以下\n・導入濃度は5.0%以下 (0.5-5.0%の範囲)',
     mechanism:
         '中枢神経系を可逆的に抑制し, 意識消失, 鎮痛, 筋弛緩を生じる. GABA-A受容体促進やグルタミン酸受容体抑制などが関与する.',
     packageInsertReviewed: true,
@@ -67,6 +68,7 @@ const List<Drug> kInhalationalDrugs = [
     brand: 'スープレン',
     category: DrugCategory.inhalational,
     dose: '全身麻酔の維持のみ: 成人は3.0%で開始し, 臨床徴候に応じて調節. 亜酸化窒素併用の有無にかかわらず7.6%以下.',
+    doseLimit: '・維持濃度は亜酸化窒素併用の有無にかかわらず7.6%以下',
     mechanism: '低い血液/ガス分配係数により, 麻酔深度の調節と角醒が比較的速い揮発性吸入麻酔薬.',
     packageInsertReviewed: true,
     packageInsertRevision: '2024年1月改訂 第3版',
@@ -124,6 +126,7 @@ const List<Drug> kInhalationalDrugs = [
     brand: '液化亜酸化窒素',
     category: DrugCategory.inhalational,
     dose: '酸素と併用し, 酸素の吸気中濃度は必ず20%以上に保つ. 目的・患者状態に応じて酸素濃度を増加する.',
+    doseLimit: '・吸気酸素濃度を20%以上に保つ (亜酸化窒素は残り80%以下が上限の目安)',
     mechanism: 'NMDA受容体抑制等を介して鎮痛・麻酔作用を示す吸入ガス.',
     packageInsertReviewed: true,
     packageInsertRevision: '2024年1月改訂 第2版',
@@ -169,6 +172,7 @@ const List<Drug> kInhalationalDrugs = [
     dose:
         '悪性高熱症: 初回1mg/kgを静注. 改善がなければ1mg/kgずつ追加し, 総量7mg/kgまで.\n'
         '悪性症候群: 成人初回40mg, 改善がなければ20mgずつ追加. 1日200mgまで, 通常7日以内.',
+        doseLimit: '・悪性高熱症: 総量7mg/kgまで\n・悪性症候群: 1日200mgまで, 通常7日以内',
     mechanism: '骨格筋の筋小胞体RyR1からのCa放出を抑制し, 過剰な筋収縮と代謝亢進を抑える.',
     packageInsertReviewed: true,
     packageInsertRevision: '2023年11月改訂 第1版',

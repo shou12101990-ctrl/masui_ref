@@ -13,6 +13,7 @@ const List<Drug> kMuscleRelaxantDrugs = [
         '気管挿管: 成人0.6mg/kg. 年齢・症状に応じて増減するが上限0.9mg/kg.\n'
         '追加: 術中必要に応じて0.1-0.2mg/kg.\n'
         '持続注入: 7mcg/kg/minで開始し, 筋弛緩モニターで調節.',
+        doseLimit: '・気管挿管: 0.9mg/kgを超えない',
     mechanism: '神経筋接合部のニコチン性ACh受容体を競合的に遮断する非脱分極性筋弛緩薬.',
     packageInsertReviewed: true,
     packageInsertRevision: '2024年3月改訂 第2版',
@@ -85,6 +86,7 @@ const List<Drug> kMuscleRelaxantDrugs = [
         '浅い筋弛緩 (T2再出現後): 2mg/kg.\n'
         '深い筋弛緩 (1-2 PTC出現後): 4mg/kg.\n'
         'ロクロニウム挿管用量投与直後の緊急回復: 投与3分後を目安に16mg/kg.',
+        doseLimit: '・単回投与量の上限 16mg/kg (ロクロニウム挿管用量投与直後の緊急回復)',
     mechanism: 'ロクロニウムまたはベクロニウムを選択的に包接し, 神経筋接合部の自由型筋弛緩薬濃度を低下させる変形ガンマシクロデキストリン.',
     packageInsertReviewed: true,
     packageInsertRevision: '2023年11月改訂 第2版',

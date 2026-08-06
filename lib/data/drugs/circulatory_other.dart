@@ -10,6 +10,7 @@ const List<Drug> kCirculatoryOtherDrugs = [
     dilution: '5A + NS 25ml',
     concentration: '3mg/ml (シリンジ)',
     dose: '2-5γ (最大20γ)',
+    doseLimit: '・持続静注は20μg/kg/min (20γ)を超えないことを目安とする',
     mechanism: 'β1主体(弱いβ2・α1). 心筋収縮力↑HR↑末梢血管拡張',
     notes: [
       DrugNote('薬物動態',
@@ -30,6 +31,7 @@ const List<Drug> kCirculatoryOtherDrugs = [
     dilution: '2A + NS 20ml',
     concentration: '1mg/2ml',
     dose: '0.25-0.75γ 持続 (通常0.5γ, 1日最大1.13mg/kg)',
+    doseLimit: '・維持速度は0.25-0.75γの範囲で調節し, 1日総投与量は1.13mg/kgを超えない\n・負荷投与 (50μg/kg)は10分かけて投与',
     mechanism: 'PDE3阻害でcAMP増加→心収縮力↑＋血管拡張 (inodilator). 心筋酸素需要を増やさない',
     notes: [
       DrugNote('用量',
@@ -48,6 +50,7 @@ const List<Drug> kCirculatoryOtherDrugs = [
     dilution: '1A + NS 45ml',
     concentration: '5mg/50ml',
     dose: '・導入 10μg/kgを5分 (or 0.75-1.0γで20分)\n・維持 0.1-0.3γ (最大0.4γ)\n・腎機能低下/高齢者は0.1γから',
+    doseLimit: '・維持速度は0.4μg/kg/min (0.4γ)を超えない\n・導入投与 (10μg/kg)は5分かけて投与',
     mechanism: 'PDE3阻害でcAMP増加→心収縮力↑＋血管拡張 (inodilator). MRNより血管拡張作用が強い',
     notes: [
       DrugNote('用量',
@@ -86,6 +89,7 @@ const List<Drug> kCirculatoryOtherDrugs = [
     dilution: '3V + NS 50ml',
     concentration: '3mg/ml',
     dose: '手術時 125γ/1minローディング後 10-40γ',
+    doseLimit: '・低心機能例の心房細動/粗動: 10μg/kg/min (10γ)を超えない\n・敗血症に伴う頻脈性不整脈: 20μg/kg/min (20γ)を超えない',
     mechanism: '超短時間型β1遮断. 頻脈性不整脈の緊急措置, 低心機能でも使用可',
     notes: [
       DrugNote('用量',
@@ -102,6 +106,7 @@ const List<Drug> kCirculatoryOtherDrugs = [
     category: DrugCategory.circulatoryOther,
     spec: '吸入 (ppmで投与)',
     dose: '・新生児PPHN: 20ppm開始 (吸入4日まで)\n・心臓手術周術期の肺高血圧: 小児10ppm(最大20)・成人20ppm(最大40)',
+    doseLimit: '・新生児PPHN: 吸入は4日間まで\n・心臓手術周術期の肺高血圧: 小児は最大20ppm, 成人は最大40ppm, 投与期間は9日間まで',
     mechanism: '選択的肺血管拡張でPAP低下, V/Qミスマッチ・肺内シャント改善 (HPV拮抗)',
     notes: [
       DrugNote('用量',
@@ -120,6 +125,7 @@ const List<Drug> kCirculatoryOtherDrugs = [
     category: DrugCategory.circulatoryOther,
     spec: '0.5mg/1ml/A (0.05%)',
     dose: '0.5mgずつ iv, 20-30分毎に反復可',
+    doseLimit: '・迷走神経性徐脈: 1回0.5mgずつ静注, 20-30分毎に反復可',
     mechanism: 'アセチルコリン (ムスカリン)受容体を拮抗 (抗コリン)し心拍数を増加',
     notes: [
       DrugNote('用量',

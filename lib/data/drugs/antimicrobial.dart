@@ -14,6 +14,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・重症感染症 (化膿性髄膜炎・感染性心内膜炎): 1回400万単位を1日6回点滴静注 (1日2400万単位)\n'
         '・梅毒: 1回300-400万単位を1日6回点滴静注\n'
         '・年齢, 症状により適宜増減',
+        doseLimit: '・重症感染症 (化膿性髄膜炎, 感染性心内膜炎): 1回400万単位, 1日6回まで (1日2400万単位)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -92,6 +93,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・点滴静注: 1日1-4g (力価) を1-2回に分割し輸液100-500mLに溶解, 1-2時間かけて投与\n'
         '・小児: 1日100-200mg/kgを3-4回に分割 (上限400mg/kg/日)\n'
         '・敗血症・感染性心内膜炎・化膿性髄膜炎では通常量より大量を使用',
+        doseLimit: '・小児: 1日400mg/kg (力価) まで, 3-4回に分割',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -175,6 +177,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・一般感染症: 1回250mg (力価) を1日3-4回経口投与, 年齢・症状により適宜増減\n'
         '・小児: 1日20-40mg (力価) /kgを3-4回に分割経口投与 (上限90mg/kg/日)\n'
         '・H.ピロリ除菌: 1回750mg (力価) を1日2回, クラリスロマイシン・PPIと3剤併用で7日間投与',
+        doseLimit: '・小児: 1日90mg/kg (力価) まで, 3-4回に分割',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -258,6 +261,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・重症感染症: 1回3g (力価) を1日4回 (1日量12g) まで増量可\n'
         '・膀胱炎: 1日3g (力価) を2回に分割\n'
         '・小児: 1日60-150mg (力価) /kgを3-4回に分割',
+        doseLimit: '・重症感染症: 1回3g (力価) を1日4回まで (1日量12gまで)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -380,6 +384,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・肺炎で症状・病態に応じ1日4回 (4.5g q6h) まで増量可\n'
         '・小児: 1回112.5mg (力価) /kgを1日3回点滴静注 (1回量は成人の4.5gを超えない)\n'
         '・必要に応じ緩徐な静脈内注射も可',
+        doseLimit: '・肺炎等重症例: 1回4.5g (力価) を6時間ごと, 1日4回まで (1日18gまで)\n・小児: 1回量は4.5g (力価) を超えない',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -491,6 +496,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・淋菌感染症・子宮頸管炎: 1日1回1-2g (力価) を筋肉内注射または静脈内注射\n'
         '・小児: 1日40-80mg (力価) /kgを2-4回に分けて静脈内注射または点滴静注\n'
         '・難治性・重症感染症: 1日4g (力価) まで増量し2-4回に分割',
+        doseLimit: '・難治性・重症感染症: 1日4g (力価) まで, 2-4回に分割',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -576,6 +582,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・一般感染症 (化膿性髄膜炎を除く): 1日0.5-1g (力価) を2-3回に分割し30分以上かけ点滴静注. 重症・難治性感染症では1回1gを上限に1日3gまで増量可\n'
         '・化膿性髄膜炎: 1日6g (力価) を3回に分割 (1回2g) し30分以上かけ点滴静注\n'
         '・小児 (化膿性髄膜炎): 1日120mg (力価) /kg (成人量6gを超えない)',
+        doseLimit: '・一般感染症 (化膿性髄膜炎を除く): 1回1gを上限に1日3gまで, 30分以上かけて点滴静注\n・化膿性髄膜炎: 1日6g (1回2g) を3回に分割, 30分以上かけて点滴静注\n・小児 (化膿性髄膜炎): 1日120mg/kgまで (成人量6gを超えない)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -669,6 +676,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dilution: '生理食塩液100mLでよく振盪して溶解 (乳酸塩含有輸液は配合不可). 溶解後は速やかに使用する',
     concentration: '用時溶解のため濃度は希釈量により可変',
     dose: '・一般感染症: 1日0.5-1.0g (力価) を2-3回に分割し30分以上かけ点滴静脈内注射\n・重症感染症: 1日2gまで増量可',
+    doseLimit: '・重症感染症: 1日2g (力価) まで, 2-3回に分割し30分以上かけて点滴静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -754,6 +762,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・一般感染症: 1回0.25g (力価) を1日2-3回, 30分以上かけて点滴静注\n'
         '・重症・難治性感染症: 1回0.5gを1日3回とし, さらに増量を要する場合は1回1.0g, 1日量3.0gまで\n'
         '・小児: 1回20mg (力価) /kgを1日3回, 重症例は1回40mg/kgまで (1回上限1.0g)',
+        doseLimit: '・重症・難治性感染症: 1回1.0gまで, 1日量3.0gまで, 30分以上かけて点滴静注\n・小児: 1回40mg/kgまで (1回上限1.0g)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -835,6 +844,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dilution: '日局生理食塩液100mLに溶解し30-60分かけて点滴静注',
     concentration: '用時溶解のため濃度は希釈量により可変',
     dose: '・成人: 1日0.6g (力価) を2回に分割し30-60分かけて点滴静脈内注射\n・年齢, 症状により適宜増減するが投与量の上限は1日1.2g (力価)',
+    doseLimit: '・成人: 投与量の上限は1日1.2g (力価), 2回に分割し30-60分かけて点滴静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -919,6 +929,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・効果不十分時: 成人1日1.5-3g(力価)を3回に分割投与\n'
         '・重症時: 成人1日5g(力価)まで分割投与可\n'
         '・小児: 1日20-40mg/kg(力価)を2-4回に分割',
+        doseLimit: '・重症感染症: 1日5g (力価) まで, 分割投与',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1069,6 +1080,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人・体重20kg以上の小児: 1回250mg(力価)を6時間ごと(1日4回)経口投与\n'
         '・重症, 感受性がやや低い場合: 1回500mg(力価)を6時間ごと\n'
         '・年齢, 症状により適宜増減',
+        doseLimit: '・1回500mg (力価) まで, 6時間ごとに1日4回まで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1152,6 +1164,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 通常1日0.5-2g(力価)を2-4回に分けて静脈内注射\n'
         '・敗血症等重症例: 成人1日4g(力価)まで増量\n'
         '・小児: 1日40-80mg/kg(力価)を3-4回に分割, 重症例は160mg/kg(力価)まで',
+        doseLimit: '・重症感染症: 1日4g (力価) まで\n・小児重症例: 1日160mg/kg (力価) まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1258,6 +1271,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 通常1日1-2g(力価)を2回に分けて静脈内注射または点滴静注\n'
         '・重症・難治性感染症: 成人1日4g(力価)まで増量\n'
         '・小児: 1日25-100mg/kg(力価)を2-4回に分割',
+        doseLimit: '・重症・難治性感染症: 1日4g (力価) まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1360,6 +1374,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・重症・難治性感染症: 成人1日4g(力価)まで増量, 2-4回に分割\n'
         '・小児: 1日60-80mg/kg(力価)を3-4回に分割\n'
         '・未熟児・新生児: 1回20mg/kgを日齢により1日2-4回',
+        doseLimit: '・重症・難治性感染症: 1日4g (力価) まで, 2-4回に分割',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1450,6 +1465,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 通常1日1-2g(力価)を1回または2回に分けて静脈内注射または点滴静注\n'
         '・重症・難治性感染症: 適宜増量(髄膜炎等では1日4gまで)\n'
         '・小児: 1日20-60mg/kg(力価), 重症時120mg/kg(力価)まで',
+        doseLimit: '・髄膜炎等重症感染症: 1日4g (力価) まで\n・高度腎機能障害 (血中濃度モニタリング不能時): 1日1gを超えない\n・小児重症時: 1日120mg/kg (力価) まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1577,6 +1593,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・重症・難治性感染症: 成人1日4g(力価)まで増量, 2-4回に分割\n'
         '・小児: 1日50-100mg/kg(力価)を3-4回に分割\n'
         '・小児化膿性髄膜炎: 1日300mg/kg(力価)まで',
+        doseLimit: '・重症・難治性感染症: 1日4g (力価) まで, 2-4回に分割\n・小児化膿性髄膜炎: 1日300mg/kg (力価) まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1744,6 +1761,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・重症・難治性感染症: 成人1日4g(力価)まで増量, 2-4回に分割\n'
         '・小児: 1日40-100mg/kg(力価)を2-4回に分割, 重症時150mg/kg(力価)まで\n'
         '・未熟児・新生児: 1回20mg/kgを日齢により1日2-4回',
+        doseLimit: '・重症・難治性感染症: 1日4g (力価) まで, 2-4回に分割\n・小児重症例: 1日150mg/kg (力価) まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1833,6 +1851,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 通常1日1-2g(力価)を2回に分けて静脈内注射または点滴静注\n'
         '・重症・難治性感染症: 成人1日4g(力価)まで増量, 2回に分割\n'
         '・発熱性好中球減少症: 1日4g(力価)を2回に分割し静脈内注射または点滴静注',
+        doseLimit: '・重症感染症・発熱性好中球減少症: 1日4g (力価) まで, 2回に分割',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -1914,6 +1933,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 通常1日1-2g(力価)を2回に分けて静脈内注射または点滴静脈内注射\n'
         '・重症・難治性感染症: 成人1日4g(力価)まで増量, 2-4回に分割\n'
         '・小児: 1日40-80mg/kg(力価)を3-4回に分割',
+        doseLimit: '・重症・難治性感染症: 1日4g (力価) まで, 2-4回に分割\n・投与期間: 原則14日以内',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2000,6 +2020,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・新生児 (注射): 1回10~15mg (力価) /kg, 生後1週までは12時間毎, 生後1ヵ月までは8時間毎\n'
         '・感染性腸炎/CDI (経口散): 成人1回0.125~0.5g (力価) を1日4回経口投与 (通常0.5g/日で開始し重症度に応じ増減)\n'
         '・実臨床では上記を初期投与量とし, TDMに基づき個別に調整することが強く推奨される',
+        doseLimit: '・投与速度: 60分以上かけて点滴静注 (10mg/分を超えない目安, 急速投与でred man症候群)\n・経口 (CDI): 1回0.125~0.5g (力価) を1日4回まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -2173,6 +2194,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 初日400mg (力価) または800mg (力価, 重症・敗血症例) を2回に分けて投与し, 以後1日1回200mg (力価) または400mg (力価) を30分以上かけて点滴静注\n'
         '・小児: 10mg (力価) /kgを12時間毎に3回 (初日負荷投与), 以後6~10mg (力価) /kg (重症例では10mg (力価) /kg) を24時間毎に30分以上かけて点滴静注\n'
         '・初期の負荷投与を省略すると有効血中濃度到達が遅れるため, 重症感染症では必ず負荷投与を行う',
+        doseLimit: '・初日 (負荷投与): 800mg (力価) まで, 2回に分けて投与 (敗血症等重症例)\n・維持量: 1日1回400mg (力価) まで\n・投与速度: 30分以上かけて点滴静注 (急速投与不可)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2290,6 +2312,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・12歳未満小児: 1回10mg/kgを8時間毎 (1回600mgを超えない)\n'
         '・投与期間は原則28日を超えない (28日超の安全性・有効性は確立していない)\n'
         '・腎機能・肝機能による用量調整は基本的に不要 (代謝物の蓄積は透析患者等で考慮)',
+        doseLimit: '・1回600mgを12時間以上あけて1日2回まで, 1日1200mgまで\n・投与期間は原則28日を超えない (28日超で視神経障害のリスク)\n・小児 (12歳未満): 1回600mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -2402,6 +2425,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・小児 (敗血症): 年齢により7mg/kg (12~18歳) ~12mg/kg (1~7歳), 30~60分かけて点滴静注\n'
         '・小児 (皮膚軟部組織感染症等): 年齢により5mg/kg (12~18歳) ~10mg/kg (1~2歳未満)\n'
         '・肺炎には使用しないこと (肺サーファクタントにより不活化され無効)',
+        doseLimit: '・敗血症/感染性心内膜炎: 1日1回6mg/kgまで, 24時間以上あけて投与\n・深在性皮膚感染症等: 1日1回4mg/kgまで\n・30分かけて点滴静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2509,6 +2533,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 1日1回150~200mg (力価) を30分~2時間かけて点滴静注\n'
         '・小児: 1日1回4~6mg (力価) /kgを30分かけて点滴静注\n'
         '・腎機能障害患者は投与量・間隔を減量/延長して調整する',
+        doseLimit: '・成人: 1日150~200mg (力価) まで (通常1日1回), 30分~2時間かけて点滴静注\n・小児: 1日4~6mg/kgまで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2595,6 +2620,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・筋肉内投与: 成人1回100~200mg (力価) を1日1~2回, 小児1日4~8mg (力価) /kgを1日1~2回\n'
         '・点滴静脈内投与: 成人1回100~200mg (力価) を1日2回, 小児1日4~8mg (力価) /kgを1日2回, 100~500mLの輸液に溶解し30分~1時間かけて投与\n'
         '・添付文書上の承認用法は分割投与だが, 近年は有効性・安全性の観点から1日1回の高用量投与 (拡大間隔投与, 15~20mg/kg/日程度) がガイドラインで推奨されており, TDMに基づく個別化が広く行われている',
+        doseLimit: '・1回100~200mg (力価) まで, 1日2回まで (点滴静注/筋注)\n・点滴時は30分~1時間かけて投与',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2675,6 +2701,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 1日3mg (力価) /kgを3回に分割し筋肉内注射または点滴静注. 重症例では1日5mg (力価) /kgを限度に3~4回に分割\n'
         '・小児: 1回2.0~2.5mg (力価) /kgを1日2~3回, 点滴時は30分~2時間かけて投与\n'
         '・添付文書上は分割投与が基本だが, 実臨床 (特に敗血症等の重症感染症) ではPK/PDの観点から1日1回投与 (拡大間隔投与) がガイドラインで広く推奨されており, TDMを併用して調整する',
+        doseLimit: '・通常1日3mg/kgを3回に分割投与, 重症例では1日5mg/kgを限度に3~4回に分割\n・小児: 1回2.0~2.5mg/kgを1日2~3回',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2778,6 +2805,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・成人: 1日120~180mg (力価) を2~3回に分割し筋肉内注射または点滴静注 (点滴時間30分~2時間)\n'
         '・小児: 1日3mg (力価) /kgを2~3回に分割投与\n'
         '・実臨床では他のアミノグリコシドと同様, 重症感染症では1日1回投与 (拡大間隔投与) がガイドラインで推奨されPK/PDに基づき調整される',
+        doseLimit: '・1日120~180mg (力価) まで, 2~3回に分割 (筋注/点滴静注)\n・点滴時は30分~2時間かけて投与',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2852,6 +2880,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・非結核性抗酸菌症 (MAC症含む): 成人1日0.75~1g (力価) を週2~3回筋肉内注射\n'
         '・感染性心内膜炎 (腸球菌等, ペニシリン/アンピシリン併用): 添付文書の用法に準じ主治医の判断で用量調整\n'
         '・その他感染症 (ペスト, 野兎病, ワイル病等): 成人1日1~2g (力価) を1~2回に分割筋肉内注射',
+        doseLimit: '・結核症: 1日1g (力価) まで, 筋肉内注射 (高齢者60歳以上は1回0.5~0.75g)\n・その他感染症 (ペスト, 野兎病等): 1日1~2gまで, 1~2回に分割筋肉内注射',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -2921,6 +2950,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・非結核性抗酸菌症: 1日400~800mg (力価) を分1~2\n'
         '・H. ピロリ除菌: クラリスロマイシン1回200mg + アモキシシリン1回750mg + PPIを1日2回7日間, 除菌不成功例は1回400mgへ増量可\n'
         '・小児用量はドライシロップで別途規定',
+        doseLimit: '・非結核性抗酸菌症: 1日800mg (力価) まで, 分1~2\n・H. ピロリ除菌: 1回400mgまで (除菌不成功例で増量時), 1日2回',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3005,6 +3035,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・肺炎: 注射剤2~5日間の後, 経口剤500mg (力価) 1日1回に切替, 総投与期間は合計7~10日間\n'
         '・骨盤内炎症性疾患: 注射剤1~2日間の後, 経口剤250mg (力価) 1日1回に切替, 総投与期間は合計7日間\n'
         '・経口単独: 適応症により250~500mg (力価) 1日1回, SR製剤 (単回用ドライシロップ2g) は多くの適応症で1回のみ投与',
+        doseLimit: '・注射: 1日1回500mg (力価) が上限, 2時間かけて点滴静注 (急速静注不可)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3079,6 +3110,7 @@ const List<Drug> kAntimicrobialDrugs = [
     concentration: '200mg/100mLバッグ, 400mg/200mLバッグ, pH3.9~4.5',
     dose: '・注射: 通常成人1回400mgを1日2回, 1時間以上かけて点滴静注 (患者の状態により1日3回まで増量可)\n'
         '・経口: 通常成人1回100~200mgを1日2~3回経口投与, 感染症の種類・症状により適宜増減',
+        doseLimit: '・注射: 1回400mgを1日3回まで (通常1日2回, 状態により増量), 1時間以上かけて点滴静注\n・経口: 1回200mgを1日3回まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3187,6 +3219,7 @@ const List<Drug> kAntimicrobialDrugs = [
     concentration: 'バッグ製剤500mg/100mL, バイアル製剤500mg/20mL',
     dose: '・通常成人: レボフロキサシンとして1回500mgを1日1回, 経口または点滴静注 (点滴静注は約60分かけて投与)\n'
         '・生物学的利用率がほぼ100%のため, 経口・注射で同一用量として切り替え可能',
+        doseLimit: '・1日500mg (力価) が上限, 1日1回, 60分かけて点滴静注 (急速投与は避ける)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3288,6 +3321,7 @@ const List<Drug> kAntimicrobialDrugs = [
     concentration: '300mg/100mL, 500mg/100mL (いずれもNa 15.4mEq/100mL含有)',
     dose: '・通常: 1日1000mgを2回に分けて点滴静注 (30分~1時間かけて), 症状により1日600mgも選択可\n'
         '・重症 (敗血症, 肺炎球菌性肺炎, 重症呼吸器感染症等): 1日2000mgを2回に分けて点滴静注 (1時間かけて)',
+        doseLimit: '・1日2000mg (力価) まで, 2回に分けて1時間かけて点滴静注 (敗血症等重症例)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -3378,6 +3412,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・ニューモシスチス肺炎治療 (経口): 1日9~12錠を3~4回に分割経口投与\n'
         '・ニューモシスチス肺炎予防 (経口): 1~2錠を1回, 連日または週3日投与\n'
         '・注射 (PCP治療, 経口不能時): トリメトプリムとして1日15~20mg/kgを3回に分け, 1~2時間かけて点滴静注',
+        doseLimit: '・ニューモシスチス肺炎治療 (経口): 1日9~12錠を3~4回に分割 (最大12錠/日)\n・ニューモシスチス肺炎治療 (静注, 経口不能時): トリメトプリムとして1日15~20mg/kgを3回に分割',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3469,6 +3504,7 @@ const List<Drug> kAntimicrobialDrugs = [
     concentration: '1バイアル100mg (力価)',
     dose: '・注射: 初回100~200mg (力価), 以後12時間ないし24時間ごとに100mg (力価) を補液に溶解し, 30分~2時間かけて点滴静注する. 経口投与不能な患者及び救急の場合に行い, 経口投与が可能になれば経口用剤に切り替える\n'
         '・経口: 通常成人1回100mgを12時間ごと (1日200mg)',
+        doseLimit: '・注射: 初回100~200mgの後, 12時間または24時間ごとに100mg (力価)\n・経口: 1回100mgを12時間ごと (1日200mg)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3576,6 +3612,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・注射 (点滴静注): 通常成人1日600~1200mg (力価) を2~4回に分割. 難治性・重症感染症では1日最大2400mg (力価) まで増量可\n'
         '・注射 (筋注): 1日600~1200mg (力価) を2~4回に分割\n'
         '・経口: 通常成人1回150mgを1日3~4回',
+        doseLimit: '・注射: 通常1日600~1200mg (力価) を2~4回に分割, 難治性・重症例では1日2400mg (力価) まで\n・経口: 1回150mgを1日3~4回',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3692,6 +3729,7 @@ const List<Drug> kAntimicrobialDrugs = [
     concentration: '該当なし (内服剤のみ, 注射剤は国内未承認)',
     dose: '・結核症: 通常成人1日450mgを1日1回, 食前 (空腹時) に経口投与 (体重により300~600mgの範囲で調整)\n'
         '・非結核性抗酸菌症等では他剤併用療法の一部として使用されることもある',
+        doseLimit: '・結核症: 1日1回600mg (力価) まで (体重により300~600mgの範囲で調整), 食前空腹時に経口投与',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3776,6 +3814,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・経口 (嫌気性菌感染症, 感染性腸炎等): 適応症に応じた用法用量が規定されている\n'
         '・トリコモナス症: 経口剤で規定期間投与\n'
         '・ヘリコバクター・ピロリ二次除菌: クラリスロマイシンの代わりにメトロニダゾールを用いる3剤併用療法',
+        doseLimit: '・注射: 1回500mgを1日3回, 20分以上かけて点滴静注\n・難治性・重症感染症: 1回500mgを1日4回まで\n・投与期間が10日を超える場合は末梢神経障害等の副作用に特に注意 (添付文書上の注意)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3875,6 +3914,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dilution: '1バイアルに注射用水または生理食塩液2mLを加え, 泡立てないように穏やかに溶解し, 生理食塩液で希釈して総量50mLとし, 30分以上かけて点滴静注する.',
     concentration: '1バイアル150mg (力価) (コリスチンメタンスルホン酸ナトリウムとしてコリスチン172.5mg含有, 調製時の損失を考慮した過量充填)',
     dose: '・成人: コリスチンとして1回1.25~2.5mg (力価) /kgを1日2回, 30分以上かけて点滴静注 (腎機能に応じて調整)',
+    doseLimit: '・1回2.5mg (力価) /kgまで, 1日2回まで\n・30分以上かけて点滴静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -3933,6 +3973,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・クリプトコッカス髄膜炎の重症例: 1日6mg/kgまで増量可\n'
         '・造血幹細胞移植等における発熱性好中球減少症のエンピリック治療: 1日1回2.5mg/kgを点滴静注\n'
         '・投与時間: 1回1-2時間以上かけて点滴静注 (急速静注は不可)',
+        doseLimit: '・1日総投与量5mg/kgまで (クリプトコッカス髄膜炎の重症例は6mg/kgまで)\n・1回1-2時間以上かけて点滴静注 (急速静注は不可)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -4018,6 +4059,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・造血幹細胞移植時の真菌感染予防: 400mgを1日1回\n'
         '・腟炎: 150mgを1回経口投与\n'
         '・静注時の投与速度: 1分間に10mLを超えない速度で緩徐に投与 (急速静注は行わない)',
+        doseLimit: '・1日400mgまで (重症例)\n・静注時は1分間に10mLを超えない速度で緩徐に投与',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -4135,6 +4177,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・カンジダ症: 初日・2日目にホスフルコナゾール126.1-252.3mg (フルコナゾール換算100-200mg相当) を1日1回, 3日目以降は維持量として63.1-126.1mg (フルコナゾール換算50-100mg相当) を1日1回静注. 重症例は維持量を倍量まで増量可\n'
         '・クリプトコッカス症: 初日・2日目に126.1-504.5mgを1日1回, 3日目以降は63.1-252.3mgを1日1回静注. 重症例は倍量まで増量可\n'
         '・投与速度: 10mL/分を超えない速度で緩徐に静注する. 他剤・輸液との混合は避ける',
+        doseLimit: '・フルコナゾール換算で1日400mgまで (重症例)\n・10mL/分を超えない速度で緩徐に静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -4218,6 +4261,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・爪白癬パルス療法 (経口): 1回200mgを1日2回食直後, 1週間投与後3週間休薬を1サイクルとし3サイクル反復\n'
         '・注射剤: 投与開始2日間は1日400mgを2回に分割し必ず専用フィルターセットを用いて1時間かけて点滴静注, 3日目以降は1日1回200mgを1時間かけて点滴静注\n'
         '・注射剤の投与期間: 添加物シクロデキストリンの蓄積を避けるため長期連用は避け, 経口投与が可能になれば速やかに切替える',
+        doseLimit: '・注射剤の投与期間は14日以内が目安, 添加物シクロデキストリンの蓄積を避けるため (添文外)\n・爪白癬パルス療法: 1週間投与+3週間休薬を1サイクルとして3サイクルまで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -4320,6 +4364,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・静注の投与速度: 1時間あたり3mg/kgを超えない速度で点滴 (急速静注は不可)\n'
         '・経口 (成人, 体重40kg以上): 初日400mgを1日2回, 2日目以降は150-200mgを1日2回食間投与 (効果不十分時は300mg/回まで増量可)\n'
         '・腎機能障害 (CCr50未満) では注射剤中の添加物蓄積により経口剤への切替を優先する',
+        doseLimit: '・静注: 1時間あたり3mg/kgを超えない速度で点滴 (急速静注は不可)\n・経口: 初日400mgまで, 2日目以降は300mgまで (いずれも1日2回)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -4442,6 +4487,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・カンジダ症: 50mg (重症例は300mgまで) を1日1回点滴静注\n'
         '・造血幹細胞移植時の真菌感染予防: 50mgを1日1回点滴静注\n'
         '・投与速度: 75mg以下は30分以上, 75mgを超える場合は1時間以上かけて点滴静注',
+        doseLimit: '・1日300mgまで (重症例)\n・75mg以下は30分以上, 75mgを超える場合は1時間以上かけて点滴静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -4536,6 +4582,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・発熱性好中球減少症のエンピリック治療, 侵襲性カンジダ症, 侵襲性アスペルギルス症のサルベージ療法: 投与初日に70mgを, 2日目以降は50mgを1日1回点滴静注 (体重80kg超では2日目以降も70mgを考慮)\n'
         '・食道カンジダ症等: 50mgを1日1回点滴静注\n'
         '・投与速度: 約1時間かけて緩徐に点滴静注 (急速投与は不可)',
+        doseLimit: '・1日70mgまで (体重80kg超では2日目以降も70mgまで考慮)\n・約1時間かけて緩徐に点滴静注 (急速投与は不可)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -4636,6 +4683,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・単純ヘルペス脳炎, 免疫低下患者の帯状疱疹 (静注): 10mg/kgを1日3回, 1時間以上かけて点滴静注\n'
         '・単純疱疹 (経口): 200mgを1日5回経口投与\n'
         '・帯状疱疹, 造血幹細胞移植時の発症抑制 (経口): 800mg (発症抑制は200mg) を1日5回経口投与',
+        doseLimit: '・静注: 1回10mg/kgまで, 8時間ごと (1日3回) を超えない\n・静注は1回1時間以上かけて点滴静注 (急速投与は不可)\n・経口: 1回800mgまで, 1日5回まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -4700,6 +4748,7 @@ const List<Drug> kAntimicrobialDrugs = [
         '・帯状疱疹: 1000mgを1日3回経口投与\n'
         '・水痘: 1000mgを1日3回経口投与\n'
         '・性器ヘルペスの再発抑制: 500mgを1日1回経口投与',
+        doseLimit: '・1回1000mgまで, 1日3回まで (帯状疱疹, 水痘)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4764,6 +4813,7 @@ const List<Drug> kAntimicrobialDrugs = [
     dose: '・初期治療: ガンシクロビルとして1回体重1kg当たり5mgを1日2回 (12時間毎), 1時間以上かけて点滴静注, 14-21日間\n'
         '・維持治療: 体重1kg当たり1日6mgを週5日, または1日5mgを週7日, いずれも1時間以上かけて点滴静注\n'
         '・投与経路: 組織刺激性が強く急速静注・筋注・皮下注は禁忌. 必ず末梢または中心静脈から緩徐に点滴する',
+        doseLimit: '・初期治療: 1回5mg/kgを12時間ごと (1日2回), 14-21日間\n・1回1時間以上かけて点滴静注 (急速静注・筋注・皮下注は禁忌)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -4833,6 +4883,7 @@ const List<Drug> kAntimicrobialDrugs = [
     category: DrugCategory.antimicrobial,
     spec: 'タミフルカプセル75, タミフルドライシロップ3%',
     dose: '・治療: 1回75mgを1日2回, 5日間経口投与\n・予防: 1回75mgを1日1回, 7-10日間経口投与',
+    doseLimit: '・治療: 1回75mgを1日2回, 5日間\n・予防: 1回75mgを1日1回, 7-10日間',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4905,6 +4956,7 @@ const List<Drug> kAntimicrobialDrugs = [
     category: DrugCategory.antimicrobial,
     spec: 'ラピアクタ点滴静注液バッグ300mg (300mg/60mL, 生食希釈済み), ラピアクタ点滴静注液バイアル150mg (150mg/15mL)',
     dose: '・通常: 300mgを15分以上かけて単回点滴静注\n・重症化リスクの高い患者・重症患者: 1日1回600mgを点滴静注し, 症状に応じ連日反復投与可能',
+    doseLimit: '・重症患者: 1日600mgまで, 連日反復投与可\n・15分以上かけて点滴静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,

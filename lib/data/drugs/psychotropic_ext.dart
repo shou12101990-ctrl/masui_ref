@@ -13,6 +13,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・躁病, 躁うつ病の躁状態, 統合失調症の興奮状態: 1日200-400mg で開始, 通常1日600mg, 最高1日1200mg\n'
         '・三叉神経痛: 1日200-400mg で開始, 通常1日600mg, 最高1日800mg\n'
         '・注射剤なし. 内服できない期間は静注可能な抗てんかん薬への切替が必要',
+        doseLimit: '・てんかん: 1日1200mgまで\n・躁病, 躁うつ病の躁状態, 統合失調症の興奮状態: 1日1200mgまで\n・三叉神経痛: 1日800mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -93,6 +94,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・3-12歳の小児: 初日10mg/kg, 2日目20mg/kg, 3日目以降は年齢別に維持量を設定 (3-4歳は40mg/kg, 5-12歳は25-35mg/kg). 最高1日50mg/kg\n'
         '・腎機能低下時は減量が必要 (CLcr 30-59mL/min では初日200mg 1日2回など)\n'
         '・注射剤なし',
+        doseLimit: '・成人および13歳以上の小児: 1日2400mgまで (3回に分割)\n・3-12歳の小児: 1日50mg/kgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -146,6 +148,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・成人: 1回50mg を1日1回または1日2回で開始し, 1週間以上の間隔をあけて漸増. 維持量は1日200-400mg を 2 回に分割. 1日最高投与量は600mg\n'
         '・2歳以上の小児: 1日1mg/kg で開始し, 2週間以上の間隔をあけて段階的に増量. 維持量は1日6mg/kg. 1日最高投与量は 9mg/kg または600mg のいずれか少ない方\n'
         '・注射剤なし',
+        doseLimit: '・成人: 1日600mgまで\n・2歳以上の小児: 1日9mg/kgまたは600mgのいずれか少ない方まで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -211,6 +214,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・双極性障害 (成人): 最初の2週間は1日25mg, 次の2週間は1日50mg, 5週目は1日100mg, 6週目以降の維持量は1日200mg\n'
         '・注射剤なし\n'
         '・5週目以降の増量: 酵素誘導薬併用の成人は1-2週間ごとに最大100mg/日ずつ増量する. 規定を超える開始量・増量速度はSJS/TENのリスクを高めるため厳守する',
+        doseLimit: '・増量幅・間隔: バルプロ酸併用時は1-2週間ごとに1回25-50mgまで, 単剤療法/酵素誘導薬併用時は1-2週間ごとに1回100mgまで. 規定を超える急速な増量はSJS/TENのリスクを高める\n・小児の定型欠神発作: 維持量は1日10mg/kgまたは200mgのいずれか少ない方まで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -271,6 +275,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・成人: 最初1日100-200mg を 1-3 回に分割経口投与し, 以後1-2週ごとに増量して通常1日200-400mg まで漸増, 1-3 回に分割. 最高1日600mg\n'
         '・小児: 最初1日2-4mg/kg を 1-3 回に分割経口投与し, 以後1-2週ごとに増量して通常1日4-8mg/kg まで漸増. 最高1日12mg/kg\n'
         '・注射剤なし',
+        doseLimit: '・成人: 1日600mgまで\n・小児: 1日12mg/kgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -400,6 +405,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・成人: 1日10mg で開始し, 症状に応じて徐々に増量. 維持量は1日10-30mg を 1-3 回に分割経口投与. 最高1日40mg\n'
         '・小児: 1日0.2mg/kg で開始し徐々に増量. 維持量は1日0.2-0.8mg/kg を 1-3 回に分割. 最高1日1.0mg/kg\n'
         '・注射剤なし',
+        doseLimit: '・成人: 1日40mgまで\n・小児: 1日1.0mg/kgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -531,6 +537,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・成人: 治療初期3日間は1日0.25g を就寝前に経口投与. 以後3日ごとに0.25g ずつ増量し, 1日1.5g まで漸増して 2-3 回に分割. 必要により1日2.0g まで増量可能\n'
         '・小児: 治療初期3日間は1日0.125g を就寝前. 以後3-4日ごとに0.125g ずつ増量し標準投与量まで漸増して 2-3 回に分割. 2歳まで0.25-0.50g, 3-5歳0.50-0.75g, 6-15歳0.75-1.00g\n'
         '・注射剤なし. 内服不能時はフェノバルビタール注射剤への切替が現実的な選択肢となる',
+        doseLimit: '・成人: 維持量は1日1.5gまで, 必要により1日2.0gまで増量可能',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -719,6 +726,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・強直間代発作 併用療法 (成人および12歳以上の小児): 1日1回2mg で開始し1週間以上の間隔で2mg ずつ漸増. 維持量は非併用時1日1回8mg, 代謝促進薬併用時1日1回8-12mg\n'
         '・点滴静注 (一時的に経口投与ができない場合): 経口投与時と同一の1日用量・投与回数で, 成人および12歳以上は30分以上, 4歳以上12歳未満は90分かけて点滴静注する\n'
         '・強直間代発作に対しては必ず他の抗てんかん薬と併用する (単独投与の使用経験はない)',
+        doseLimit: '・部分発作/強直間代発作: 1日1回8mgまで (本剤の代謝を促進する抗てんかん薬併用時は1日1回12mgまで)\n・点滴静注: 成人・12歳以上は30分以上, 4歳以上12歳未満は90分かけて投与する',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -785,6 +793,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・1日最高投与量は 50mg/kg または2500mg のいずれか少ない方を超えない\n'
         '・必ずクロバザムおよびバルプロ酸ナトリウムと併用し, 単独では投与しない\n'
         '・注射剤なし',
+        doseLimit: '・増量は1週間以上の間隔をあけて10mg/kg (体重50kg以上は500mg) ずつ\n・1日最高投与量: 50mg/kgまたは2500mgのいずれか少ない方まで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -846,6 +855,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・バルプロ酸併用時は本剤の血中濃度が上昇するため, 症状を観察しながら慎重に増量する (特に体重30kg 未満)\n'
         '・必ず食後に投与する (食事により吸収が増加する)\n'
         '・注射剤なし',
+        doseLimit: '・増量: 体重15.0-30.0kgの小児は2日ごとに1日用量として200mg以下ずつ, 体重30.1kg以上は2日ごとに400mg以下ずつ',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -906,6 +916,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・1日最大投与量は 150mg/kg または3g のいずれか低い方を超えない\n'
         '・いずれも1日2回に分け, 用時溶解して経口投与する\n'
         '・注射剤なし',
+        doseLimit: '・増量: 3日以上の間隔をあけ, 増量幅は1日50mg/kgを超えない\n・1日最大投与量: 150mg/kgまたは3gのいずれか低い方まで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1126,6 +1137,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・夜尿症: 1日10-30mgを就寝前に経口投与\n'
         '・末梢性神経障害性疼痛: 1日10mgを初期用量とし, 1日150mgを超えない範囲で漸増する\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日150mgまで (まれに1日300mgまで増量することがある)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1198,6 +1210,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・うつ病・うつ状態: 初回量として1回10-25mgを1日3回経口投与, またはその1日量を2回に分割して経口投与する\n'
         '・症状と副作用をみながら漸増し, 通常最大量は1日150mg以内として2-3回に分割経口投与する\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日150mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1269,6 +1282,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・うつ病・うつ状態: 1日30-70mgを初期用量とし, 1日200mgまで漸増して分割経口投与する. まれに1日300mgまで増量することがある\n'
         '・遺尿症 (昼・夜): 幼児は1日25mgを1回, 学童は1日25-50mg (トフラニールは1日30-50mg) を1-2回に分割して経口投与する\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日200mgまで (まれに1日300mgまで増量することがある)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1346,6 +1360,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・内服 (遺尿症): 6歳未満は1日10-25mg, 6歳以上は1日20-50mgを1-2回に分割経口投与\n'
         '・内服 (ナルコレプシーに伴う情動脱力発作): 1日10-75mgを1-3回に分割経口投与\n'
         '・点滴静注 (精神科領域におけるうつ病・うつ状態): 生理食塩液または5%ブドウ糖注射液250-500mLに1アンプル (25mg) を加え, 2-3時間かけて1日1回点滴静注する. その後漸増し1回3アンプル (75mg) まで投与できる. 一般に1週間以内に効果が発現し, 改善後は経口投与へ切り替える',
+        doseLimit: '・内服: 1日225mgまで\n・点滴静注: 1回75mgまで (3アンプル), 1日1回\n・点滴静注は2-3時間かけて, 急速静注は禁止',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -1422,6 +1437,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・効果不十分と判断される場合は1日150mgまで増量できる\n'
         '・症状が特に重篤な場合は1日300mgまで増量することがある\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日150mgまで (症状が特に重篤な場合は1日300mgまで増量することがある)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1488,6 +1504,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・うつ病・うつ状態: 1日50-100mgを初期用量とし, 1日200mgまで漸増して分割経口投与する. まれに1日300mgまで増量することがある\n'
         '・年齢, 症状により適宜減量する\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日200mgまで (まれに1日300mgまで増量することがある)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1620,6 +1637,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     category: DrugCategory.psychotropic,
     spec: 'アンプリット錠10mg, 錠25mg (第一三共). 販売終了',
     dose: '・うつ病・うつ状態: 初期用量として1回10-25mgを1日2-3回経口投与し, 1日150mgまで漸増する. 年齢, 症状により適宜減量する\n・注射剤はないため静注は不可',
+    doseLimit: '・1日150mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1762,6 +1780,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・年齢, 症状により適宜増減する\n'
         '・実臨床では高齢者の不眠・せん妄に10mgを就寝前で使うことが多い (適応外)\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日60mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1818,6 +1837,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     category: DrugCategory.psychotropic,
     spec: 'テシプール錠1mg (持田製薬)',
     dose: '・うつ病・うつ状態: 1日3mgを初期用量とし, 1日6mgまで漸増して分割経口投与する\n・年齢, 症状により適宜増減する\n・注射剤はないため静注は不可',
+    doseLimit: '・1日6mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1872,6 +1892,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・うつ病・うつ状態: 1日75-100mgを初期用量とし, 1日200mgまで増量して1-数回に分割経口投与する. 年齢, 症状により適宜増減する\n'
         '・実臨床では不眠・せん妄に対し25-50mgを就寝前で使うことが多い (適応外使用)\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日200mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -1928,6 +1949,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・成人 (うつ病・うつ状態, 強迫性障害, 社会不安障害): 1日50mgを初期用量とし, 1日150mgまで増量して1日2回に分割経口投与する\n'
         '・小児の強迫性障害: 8歳以上の小児には1日1回25mgの就寝前経口投与から開始し, 1週間以上の間隔をあけて1日50mgを1日2回 (朝および就寝前) に経口投与する\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日150mgまで (1日2回に分割投与)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2008,6 +2030,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・外傷後ストレス障害: 1回10-20mgより開始し1週ごとに10mg/日ずつ増量. 通常1日1回夕食後20mg, 1日40mgを超えない\n'
         '・パキシルCR錠 (うつ病・うつ状態のみ): 1日1回夕食後12.5mgより開始し, 1週間以上かけて25mgへ増量. 増量は12.5mg/日ずつ1週間以上の間隔をあけ, 1日50mgを超えない\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・うつ病・うつ状態: 1日40mgまで\n・パニック障害: 1日30mgまで, 社会不安障害・外傷後ストレス障害: 1日40mgまで\n・強迫性障害: 1日50mgまで\n・パキシルCR錠 (うつ病・うつ状態のみ): 1日50mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2072,6 +2095,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・年齢, 症状により1日100mgを超えない範囲で適宜増減する\n'
         '・OD錠は水なしで服用可能で, 嚥下困難例に使いやすい\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日100mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2136,6 +2160,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・肝機能障害患者, 高齢者では10mgを上限とすることが望ましい\n'
         '・遺伝的にCYP2C19活性が欠損していることが判明している患者 (poor metabolizer) でも血中濃度が上昇するため10mgを上限とすることが望ましい\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日20mgまで\n・増量は1週間以上の間隔をあけて行う\n・高齢者, 肝機能障害患者, CYP2C19 poor metabolizerでは1日10mgを上限とすることが望ましい',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2203,6 +2228,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・高齢者: 1日25mgを初期用量とし, 1日60mgまで漸増して1日2-3回に分けて食後に経口投与する\n'
         '・年齢, 症状により適宜増減する\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・成人: 1日100mgまで\n・高齢者: 1日60mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2266,6 +2292,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・うつ病・うつ状態, 糖尿病性神経障害に伴う疼痛: 1日1回朝食後40mgを経口投与する. 1日20mgより開始し, 1週間以上の間隔をあけて1日用量として20mgずつ増量する. 効果不十分な場合は1日60mgまで増量できる\n'
         '・線維筋痛症に伴う疼痛, 慢性腰痛症に伴う疼痛, 変形性関節症に伴う疼痛: 1日1回朝食後60mgを経口投与する. 1日20mgより開始し, 1週間以上の間隔をあけて1日用量として20mgずつ増量する\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日60mgまで\n・増量は1週間以上の間隔をあけて1日20mgずつ',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2339,6 +2366,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・年齢, 症状に応じ1日45mgを超えない範囲で適宜増減するが, 増量は1週間以上の間隔をあけて1日用量として15mgずつ行う\n'
         '・実臨床では鎮静・食欲亢進を目的に7.5-15mgを就寝前で使うことがある\n'
         '・注射剤はないため静注は不可',
+        doseLimit: '・1日45mgまで\n・増量は1週間以上の間隔をあけて1日15mgずつ',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2401,6 +2429,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・小児期の自閉スペクトラム症に伴う易刺激性 (5歳以上18歳未満): 体重帯別に開始量・増量スケジュール・上限量が異なる\n'
         '・0.25mg単位の細かい調節が必要な場合は内用液または細粒を使用する\n'
         '・注射剤なし. 活性代謝物がパリペリドンであり, パリペリドン含有製剤との併用は作用増強のおそれがあり避けること',
+        doseLimit: '・1日量は12mg (12mL) まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -2474,6 +2503,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・双極性障害うつ症状: 5mg/日 1日1回 (就寝前) 経口投与で開始し10mg/日に増量. 1日量は20mgを超えないこと\n'
         '・抗悪性腫瘍剤 (シスプラチン等) 投与に伴う消化器症状 (悪心, 嘔吐): 他の制吐剤と併用し5mg/日 1日1回経口投与. 1日量は10mgを超えないこと\n'
         '・統合失調症における精神運動興奮 (急激で緊急を要する場合): 筋注用10mgを1回筋肉内注射. 前回投与から2時間以上あけて追加投与可, 1日2回まで',
+        doseLimit: '・経口: 1日20mgまで (抗悪性腫瘍剤による悪心嘔吐に対する使用では1日10mgまで)\n・筋注: 1回10mg, 前回投与から2時間以上あけて1日2回まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -2546,6 +2576,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・成人: 1回25mg 1日2-3回経口投与から開始し, 患者の状態に応じ徐々に増量. 維持量は1日150-600mgを2-3回に分割経口投与. 1日量は750mgを超えないこと\n'
         '・高齢者, 肝機能障害患者: 1回25mg 1日1回から開始し, 増量幅を1日25-50mgとして慎重に投与する\n'
         '・注射剤なし',
+        doseLimit: '・1日750mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2620,6 +2651,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・うつ病・うつ状態 (既存治療で効果不十分な場合): 3mg/日 1日1回経口投与で開始し, 増量幅は1日3mg. 1日量は15mgを超えないこと\n'
         '・小児期の自閉スペクトラム症に伴う易刺激性: 1mg/日で開始し, 維持量1-15mg/日\n'
         '・持続性水懸筋注: 1回400mgを4週に1回, 臀部筋または三角筋内投与 (忍容性に応じ300mgに減量可). 初回投与後2週間程度は経口アリピプラゾールを併用する',
+        doseLimit: '・経口 (統合失調症, 双極性障害の躁症状): 1日30mgまで\n・経口 (うつ病・うつ状態): 1日15mgまで\n・持続性水懸筋注: 1回400mgまで, 4週に1回',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -2687,6 +2719,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     category: DrugCategory.psychotropic,
     spec: 'ルーラン錠4mg, 8mg, 16mg',
     dose: '・成人: 1回4mg 1日3回食後経口投与から開始し, 徐々に増量. 維持量は1日12-48mgを3回に分割食後経口投与. 1日量は48mgを超えないこと\n・注射剤なし',
+    doseLimit: '・1日48mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2757,6 +2790,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・小児 (12歳以上, 錠): 1回2mg 1日2回食後経口投与から開始し, 維持量として1日8-16mgを2回に分割食後経口投与. 1日量は16mgを超えないこと\n'
         '・成人 (テープ): 40mgを1日1回, 胸部・腹部・背部のいずれかに貼付し24時間ごとに貼り替える. 患者の状態に応じ最大80mgまで増量可. 1日量は80mgを超えないこと\n'
         '・注射剤なし',
+        doseLimit: '・錠 (成人): 1日24mgまで\n・テープ: 1日80mgまで, 24時間ごとに貼り替え',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2829,6 +2863,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・インヴェガ錠: 1日1回朝食後6mgより経口投与を開始し, 5日以上の間隔をあけて1日量として3mgずつ増量. 1日量は12mgを超えないこと\n'
         '・軽度腎機能障害 (Ccr 50-80mL/分): 3mgより開始し, 1日量は6mgを超えないこと\n'
         '・ゼプリオン: 初回150mg, 1週後に2回目100mgを三角筋内に投与. その後は4週に1回, 75mg (25-150mgの範囲で調節可, 1回の増量は50mgまで) を三角筋または臀部筋内に投与',
+        doseLimit: '・インヴェガ錠: 1日12mgまで (Ccr 50-80mL/分では1日6mgまで)\n・ゼプリオン: 1回25-150mgの範囲, 4週に1回',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -2903,6 +2938,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・成人: 1回5mgを1日2回舌下投与より開始する. 維持用量は1回5mgを1日2回とし, 年齢, 症状に応じ適宜増減するが, 最高用量は1回10mgを1日2回までとする\n'
         '・水なしで投与し, 舌下投与後10分間は飲食を避けること\n'
         '・注射剤なし. 経口 (嚥下) では初回通過効果でほぼ失活するため必ず舌下投与とする',
+        doseLimit: '・1回10mg, 1日2回まで (1日量として20mgまで)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -2976,6 +3012,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・統合失調症: 40mgを1日1回食後経口投与. 年齢, 症状により適宜増減するが, 1日量は80mgを超えないこと\n'
         '・双極性障害におけるうつ症状: 20-60mgを1日1回食後経口投与. 開始用量は20mg, 増量幅は1日量として20mg, 1日量は60mgを超えないこと\n'
         '・注射剤なし. 必ず食後に服用すること (食事により吸収が大きく増加するため)',
+        doseLimit: '・統合失調症: 1日80mgまで\n・双極性障害のうつ症状: 1日60mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3055,6 +3092,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・うつ病・うつ状態 (既存治療で十分な効果が認められない場合に限る): 1日1回1mg. 忍容性に問題がなく効果不十分な場合は2mgまで増量可\n'
         '・アルツハイマー型認知症に伴う焦燥性興奮: 1日1回0.5mgより開始し, 1週間以上の間隔をあけて増量, 1日1回1mg. 効果不十分な場合は2mgまで増量可\n'
         '・注射剤なし',
+        doseLimit: '・1日2mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3126,6 +3164,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・CPMS (クロザリル患者モニタリングサービス) に登録された医師・薬剤師のいる登録医療機関・薬局で, 登録患者に対してのみ投与可能\n'
         '・投与開始後18週間は原則入院管理下, 26週間は毎週の血球数検査が義務付けられている\n'
         '・注射剤なし',
+        doseLimit: '・1日600mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3345,6 +3384,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・統合失調症 (注射): 通常成人1回100-200mgを筋肉内注射する. 年齢, 症状により増量できるが1日600mgまでとする\n'
         '・統合失調症 (経口): 通常成人1日300-600mgを分割経口投与し, 最大1日1200mgまで\n'
         '・うつ病・うつ状態 (経口): 通常成人1日150-300mgを分割経口投与する',
+        doseLimit: '・注射: 1日600mgまで\n・経口 (統合失調症): 1日1200mgまで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3404,6 +3444,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     category: DrugCategory.psychotropic,
     spec: 'ロドピン錠25mg/50mg/100mg, 細粒10%/50%',
     dose: '・成人: ゾテピンとして通常1日75-150mgを分割経口投与する. 年齢, 症状により適宜増減するが1日450mgまで増量できる',
+    doseLimit: '・1日450mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3582,6 +3623,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     category: DrugCategory.psychotropic,
     spec: 'ブロムペリドール錠1mg/3mg/6mg (後発品各社). 先発のインプロメン錠は販売中止',
     dose: '・成人: ブロムペリドールとして通常1日3-18mgを経口投与する. 年齢, 症状により適宜増減するが1日36mgまで増量できる',
+    doseLimit: '・1日36mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3716,6 +3758,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     spec: 'リーマス錠100mg, 錠200mg',
     dose: '・双極性障害の躁状態: 炭酸リチウムとして成人通常1日400-600mgより開始し, 1日2-3回に分割経口投与する. その後3日ないし1週間毎に, 通常1日1200mgまでの治療量に漸増する\n'
         '・維持量: 改善がみられたら症状を観察しながら, 通常1日200-800mgの1-3回分割経口投与に漸減する',
+        doseLimit: '・急性期の漸増時: 1日1200mgまで (維持量は通常1日200-800mg)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3792,6 +3835,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・統合失調症の睡眠障害, 単独の睡眠障害: 1日1-3mgを就寝前に1回経口投与\n'
         '・高齢者は1日1.5mgまでとする\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・神経症, うつ病等: 1日3mgまで (3回に分割)\n・心身症, 頸椎症, 腰痛症, 筋収縮性頭痛: 1日1.5mgまで (3回に分割)\n・高齢者: 1日1.5mgまで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3852,6 +3896,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・麻酔前投薬: 就寝前または手術前にクロチアゼパムとして10-15mgを経口投与\n'
         '・年齢, 症状により適宜増減する\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・心身症等の不安・緊張・抑うつ・睡眠障害: 1日30mgまで (3回に分割)\n・麻酔前投薬: 15mgまで (単回, 就寝前または手術前)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -3915,6 +3960,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・てんかん重積状態 (ロラピタ静注2mg): 成人はロラゼパムとして4mgを静脈内投与, 投与速度は2mg/分を目安に緩徐に投与する. 効果不十分な場合はさらに4mgを追加投与できるが, 総量は8mgを超えない\n'
         '・小児 (ロラピタ, 生後3か月以上): ロラゼパムとして0.05mg/kg (最大4mg) を静脈内投与, 追加投与も可能だが総量は0.1mg/kgを超えない\n'
         '・2回を超える投与の有効性, 安全性は確立していない',
+        doseLimit: '・内服 (ワイパックス): 1日3mgまで (2-3回に分割)\n・てんかん重積状態 (ロラピタ, 成人): 初回4mgを2mg/分を目安に緩徐に静注し, 効果不十分なら追加4mg, 総量8mgを超えない\n・小児 (生後3か月以上, ロラピタ): 総量0.1mg/kgを超えない\n・投与は2回を超えないこと (2回超の有効性, 安全性は未確立)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -3985,6 +4031,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・増量する場合は最高用量1日2.4mgとして3-4回に分割経口投与\n'
         '・高齢者は1回0.4mgを1日1-2回投与から開始し, 増量する場合でも1日1.2mgを超えない\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・成人: 最高用量1日2.4mgまで (3-4回に分割)\n・高齢者: 1日1.2mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4047,6 +4094,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・麻酔前投薬 (錠): 5mgを就寝前又は手術前に経口投与\n'
         '・麻酔前投薬 (坐剤): 通常成人1回3mgを術前夜又は麻酔前に直腸内投与\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・神経症, うつ病における不安・緊張等: 1日15mgまで (2-3回に分割)\n・心身症における身体症候等: 1日6mgまで (2-3回に分割)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4112,6 +4160,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・神経症, 麻酔前後・術後の不安興奮, てんかん様重積状態の痙攣抑制, 分娩時の不安除去, アルコール離脱症状 (注射): 成人は初回2mL (ジアゼパムとして10mg) を筋肉内又は静脈内にできるだけ緩徐に注射し, 以後必要に応じて3-4時間ごとに注射\n'
         '・静脈内注射時はなるべく太い静脈を選び, 2分間以上かけて緩徐に注射する\n'
         '・小児への筋肉内注射は行わない',
+        doseLimit: '・外来患者 (内服): 1日15mg以内\n・静脈内注射: 2分間以上かけて緩徐に投与する\n・注射の反復投与: 必要に応じて3-4時間ごと',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -4184,6 +4233,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・局所麻酔時の鎮静 (静注): 通常成人フルニトラゼパムとして体重1kgあたり0.01-0.03mg\n'
         '・注射用蒸留水にて2倍以上に希釈し, できるだけ緩徐に (1mgを1分以上かけて) 静脈内注射する\n'
         '・必要に応じて初回量の半量ないし同量を追加投与できる. 年齢, 感受性, 全身状態, 術式, 麻酔方法に応じて適宜増減する',
+        doseLimit: '・内服, 高齢者: 1回1mgまで\n・静脈内注射: 1mgを1分以上かけて緩徐に投与する (希釈後使用)\n・追加投与: 初回量の半量から同量までとする',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -4305,6 +4355,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・高齢者は1回5mgから投与を開始\n'
         '・いずれも1回10mgを超えない\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・1回10mgを超えない (成人・高齢者共通)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4369,6 +4420,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・肝障害のある患者も1回3.75mgから開始し, 増量する場合は慎重に観察する\n'
         '・1回10mgを超えない\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・1回10mgを超えない (成人・高齢者共通)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4433,6 +4485,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・症状により適宜増減するが, 成人1回3mg, 高齢者1回2mgを超えない\n'
         '・食後投与は薬効発現を遅らせるため, 空腹時の就寝直前に服用する\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・成人: 1回3mgを超えない\n・高齢者: 1回2mgを超えない\n・高度肝機能障害または高度腎機能障害: 1回2mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4553,6 +4606,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・食事と同時又は食直後の服用は避ける (空腹時投与に比べ血中濃度が低下することがある)\n'
         '・CYP3Aを中等度に阻害する薬剤 (ジルチアゼム, ベラパミル, フルコナゾール等) との併用時は1日1回10mgへの減量を考慮する\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・成人: 1日1回20mgまで\n・高齢者: 1日1回15mgまで\n・CYP3Aを中等度に阻害する薬剤併用時: 1日1回10mgへの減量を考慮する',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4608,6 +4662,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・中等度肝機能障害のある患者は1日1回5mgを超えない\n'
         '・CYP3Aを強く阻害する薬剤を併用する場合は1日1回2.5mgとする\n'
         '・国内に注射剤はなく, 緊急時の静注はできない',
+        doseLimit: '・成人: 1日1回10mgを超えない\n・中等度肝機能障害: 1日1回5mgを超えない\n・CYP3Aを強く阻害する薬剤併用時: 1日1回2.5mgとする',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4719,6 +4774,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・脳外科手術または意識障害時のてんかん発作発現抑制: 初回15-18mg/kg (10-12mg PE/kg)を, 1mg/kg/分または75mg/分を超えない速度で静脈内投与. 維持: 5-7.5mg/kg/日\n'
         '・フェニトイン経口投与からの代替: 経口フェニトインの1日投与量の1.5倍量を1日1回または分割で静脈内投与\n'
         '・**用量はホスフェニトイン実量で記載. PE (フェニトイン等価量)で指示する場合は1/1.5倍の数値になる**',
+        doseLimit: '・てんかん重積状態の初回投与: 22.5mg/kg (ホスフェニトイン実量) を3mg/kg/分または150mg/分のいずれか低い方を超えない速度で静注\n・脳外科手術・意識障害時の発作抑制: 初回15-18mg/kg (10-12mg PE/kg) を1mg/kg/分または75mg/分を超えない速度で静注',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -4786,6 +4842,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・臨床的には15-20mg/kgを50mg/分を超えない速度で静注する用法が国内外のガイドラインで広く用いられている\n'
         '・経口投与不能かつけいれん発作出現が濃厚に疑われる場合 (意識障害, 術中, 術後) にも使用\n'
         '・小児: 成人量を基準に体重により決定',
+        doseLimit: '・てんかん発作重積症: 1回125-250mg (2.5-5mL) を1分間50mgを超えない速度で徐々に静注\n・効果不十分な場合は30分以上あけて100-150mg (2-3mL) を追加投与',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -4851,6 +4908,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・レボドパ既服用患者: レボドパ単味製剤中止後少なくとも8時間あけてから, レボドパ1日維持量の約1/5量を初回量とし1日3回に分割経口投与, 以後漸増して維持量を定める\n'
         '・いずれもレボドパ量として1日1500mgを超えない\n'
         '・高蛋白食でレボドパ吸収が低下するため注意する',
+        doseLimit: '・レボドパ量として1日1500mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -4979,6 +5037,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・添付文書上の用量: 通常成人1日量レボドパとして25-50mgを1-2回に分けて, そのままゆっくり静注するか希釈して点滴静注する. 年齢・症状により適宜増減\n'
         '・経口不能時の切替 (施設プロトコル例, 公知申請で1日1500mgまで保険算定可): 元のレボドパ内服1日量 300mg未満→ドパストン1回50mg 1日1回, 300-600mg→1日2回, 600mg超→1日3回, いずれも生理食塩液または5%ブドウ糖液100mLに混注し約2時間かけて点滴静注する\n'
         '・内服再開可能となれば速やかに内服へ戻す (点滴静注は精神症状が出現しやすい)',
+        doseLimit: '・添付文書上の用量は1日25-50mgまで (1-2回に分割静注)\n・公知申請に基づく実臨床上限は1日1500mgまで (添文外)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -5042,6 +5101,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・レボドパ含有製剤併用時/非併用時とも共通: 1日1回2.5mgを朝食後投与から開始し, 2週毎に1日量として2.5mgずつ増量, 最適投与量を定めて維持量とする (レボドパ併用時の標準維持量は1日7.5mg)\n'
         '・1日量5.0mg以上は朝食後・昼食後に分服する. 7.5mgの場合は朝食後5.0mg, 昼食後2.5mg\n'
         '・1日10mgを超えない (増量による更なる効果は認められず, 非選択的MAO阻害の危険性が増す)',
+        doseLimit: '・1日10mgを超えない (増量による更なる効果は認められず, 非選択的MAO阻害の危険性が増す)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5116,6 +5176,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     spec: 'アジレクト錠1mg, アジレクト錠0.5mg',
     dose: '・通常, 成人にはラサギリンとして1mgを1日1回経口投与する\n'
         '・低体重, 高齢者, 軽度肝機能障害 (Child-Pugh分類A) では低用量 (0.5mg) での投与を考慮する',
+        doseLimit: '・通常成人は1日1mg (1日1回) を超えて増量しない (国内で承認された用法はこの固定用量のみ)\n・低体重, 高齢者, 軽度肝機能障害 (Child-Pugh分類A) では1日0.5mgへの減量を考慮する',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5184,6 +5245,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     spec: 'エクフィナ錠50mg',
     dose: '・本剤はレボドパ含有製剤と併用する. 通常, 成人にはサフィナミドとして50mgを1日1回経口投与する. 症状に応じて100mgを1日1回経口投与できる\n'
         '・中等度の肝機能障害 (Child-Pugh分類B) のある患者には1日50mgを超えて投与しない',
+        doseLimit: '・通常1日50mg, 症状により1日100mgまで (1日1回)\n・中等度肝機能障害 (Child-Pugh分類B) の患者は1日50mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5257,6 +5319,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・本剤は単独では使用せず, 必ずレボドパ・カルビドパまたはレボドパ・ベンセラジド塩酸塩と併用する\n'
         '・通常, 成人にはエンタカポンとして1回100mgを, レボドパ製剤の服用に合わせて経口投与する. 症状により1回200mgを投与できるが, 1日8回を超えない (増量は1回200mg, 1日1600mgを超えない)\n'
         '・体重40kg未満の低体重患者, 肝障害のある患者では1回200mgへの増量は慎重に検討する',
+        doseLimit: '・1回100mg (症状により200mg) をレボドパ服用に合わせて投与し, 1日8回を超えない\n・1日1600mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5311,6 +5374,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・1日量0.25mgから開始し, 2週目に0.5mgとし, 以後1週毎に1日量0.5mgずつ増量, 維持量 (標準1日量1.5-4.5mg) を定める. 1.5mg未満は2回, 1.5mg以上は3回に分割し食後投与. 1日量4.5mgを超えない\n'
         '〈レストレスレッグス症候群〉\n'
         '・0.125mgより開始し, 1日0.25mgを就寝2-3時間前に1回投与, 1日0.75mgを超えない範囲で適宜増減 (増量間隔は1週間以上)',
+        doseLimit: '・パーキンソン病: 1日量4.5mgを超えない\n・レストレスレッグス症候群: 1日量0.75mgを超えない (増量間隔は1週間以上)\n・腎機能障害 (クレアチニンクリアランス50mL/分未満) では1日2.25mg (20-49) または1.5mg (20未満) を超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5369,6 +5433,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     spec: 'レキップ錠0.25mg, レキップ錠1mg, レキップ錠2mg (通常錠). レキップCR錠2mg, 4mg, 8mg (徐放錠) もある',
     dose: '・通常錠: 1回0.25mg, 1日3回 (1日量0.75mg) から開始し, 1週毎に1日量0.75mgずつ増量, 4週目に1日量3mgとする. 以後1.5mgずつ1週間以上の間隔で増量し維持量 (標準1日量3-9mg) を定める. いずれも1日3回に分けて食後経口投与. 1日量15mgを超えない\n'
         '・空腹時投与で悪心・嘔吐が多いため食後投与が望ましい',
+        doseLimit: '・通常錠: 1日量15mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5426,6 +5491,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '〈レストレスレッグス症候群〉\n'
         '・1日1回2.25mgから開始し, 1週間以上の間隔で2.25mgずつ増量, 維持量 (標準1日量4.5-6.75mg) を定める. 1日量6.75mgを超えない\n'
         '・肩, 上腕部, 腹部, 側腹部, 臀部, 大腿部のいずれかの正常な皮膚に貼付し, 24時間毎に貼り替える',
+        doseLimit: '・パーキンソン病: 1日量36mgを超えない\n・レストレスレッグス症候群: 1日量6.75mgを超えない\n・24時間毎に貼り替える',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: false,
@@ -5487,6 +5553,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・各投与の間には少なくとも2時間の間隔をおく\n'
         '・1日の投与回数の上限は5回とする\n'
         '・最高投与量は1回6mgとする',
+        doseLimit: '・1回最高6mgまで\n・投与間隔は少なくとも2時間あける\n・1日の投与回数は5回まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: false,
@@ -5553,6 +5620,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・静注: 特殊な場合にのみ行い, 乳酸ビペリデンとして5-10mgを, 5mgにつき約3分かけて徐々に静脈内注射する\n'
         '・年齢, 症状により適宜増減する\n'
         '・少量から開始し, 観察を十分に行い慎重に維持量まで増量する',
+        doseLimit: '・静注は1回5-10mgを, 5mgにつき約3分かけて緩徐に投与する (急速静注は避ける)',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -5691,6 +5759,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・1日100-150mgを2-3回に分割経口投与する\n'
         '〈A型インフルエンザウイルス感染症〉\n'
         '・1日100mgを1-2回に分割経口投与. 高齢者・腎障害患者では上限1日100mg',
+        doseLimit: '・パーキンソン症候群: 症状・年齢に応じ1日300mgまで (3回分割)\n・A型インフルエンザウイルス感染症: 高齢者・腎障害患者は1日100mgを上限とする\n・腎機能低下時は投与間隔を延長 (クレアチニンクリアランス35-75で1日1回, 25-35で2日毎, 15-25で3日毎)',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5760,6 +5829,7 @@ const List<Drug> kPsychotropicExtDrugs = [
         '・1日量200-300mgを2-3回に分けて開始し, 数日-1週間毎に100mgずつ増量, 維持量 (標準1日300-600mg, 1日3回) とする. 1日900mgを超えない\n'
         '〈血液透析患者の起立性低血圧〉\n'
         '・1回200-400mg (最大400mg) をHD開始30分-1時間前に投与',
+        doseLimit: '・パーキンソン病, シャイ・ドレーガー症候群等いずれも1日900mgを超えない\n・血液透析患者の起立性低血圧: 1回最大400mgを血液透析開始30分-1時間前に投与',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5825,6 +5895,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     spec: 'ノウリアスト錠20mg',
     dose: '・本剤はレボドパ含有製剤と併用する. 通常, 成人にはイストラデフィリンとして20mgを1日1回経口投与する. オン時の運動機能改善を期待する場合, 症状により40mgを1日1回経口投与できる (40mgでは20mgを上回るオフ時間短縮効果は認められていない)\n'
         '・中等度の肝障害のある患者, CYP3Aを強く阻害する薬剤を投与中の患者では1日1回20mgを上限とする',
+        doseLimit: '・通常1日20mg, 症状により40mgまで (1日1回)\n・中等度肝障害またはCYP3Aを強く阻害する薬剤の併用時は1日20mgを上限とする',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -5889,6 +5960,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・部分発作, 強直間代発作 (経口投与不可時の代替療法, 成人): 1日1000mgを1日2回に分け, 1回を15分かけて点滴静注. 2週間以上の間隔で1日1000mgずつ増量可, 最高1日3000mg\n'
         '・てんかん重積状態 (成人, 2022年12月適応追加): 1回1000~3000mgを2~5mg/kg/分の速度で静脈内投与, 1日最高3000mg\n'
         '・小児 (生後6ヵ月以上, 代替療法): 1日20mg/kgを1日2回に分け15分かけて点滴静注, 最高1日60mg/kg',
+        doseLimit: '・部分発作・強直間代発作の代替療法: 1日最高3000mgまで (1回15分かけて点滴, 1日2回)\n・てんかん重積状態: 1回1000-3000mgを2-5mg/kg/分の速度で静注し, 1日最高3000mgまで\n・小児 (生後6カ月以上): 最高1日60mg/kgまで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -5948,6 +6020,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・部分発作, 強直間代発作 (成人): 通常1日100mgより投与を開始し, 1週間以上の間隔をあけて増量, 維持用量は1日200mg (1日2回に分割投与). 最高1日400mg\n'
         '・経口投与への先行/代替 (成人): 経口投与時と同一の1日用量・投与回数で, 1回量を30~60分かけて点滴静注する\n'
         '・小児 (4歳以上, 体重50kg未満): 体重換算で1日2mg/kgより投与を開始し漸増. 体重50kg以上は成人と同一の用法・用量',
+        doseLimit: '・部分発作・強直間代発作: 1日最高400mgまで (1日2回分割)\n・点滴静注時は1回量を30-60分かけて投与する\n・重度腎機能障害 (クレアチニンクリアランス30mL/分以下) では1日最高300mgに減量',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -6012,6 +6085,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dose: '・てんかん重積状態 (ノーベルバール, 小児及び成人): フェノバルビタールとして15-20mg/kgを1日1回静脈内投与. 10分以上かけて緩徐に投与し, 100mg/分の投与速度を超えないこと\n'
         '・新生児けいれん (ノーベルバール): 初回20mg/kgを静脈内投与 (5-10分かけて緩徐に). けいれんがコントロールできない場合は初回量を超えない範囲で追加投与. 維持は2.5-5mg/kgを1日1回静脈内投与\n'
         '・不安緊張状態の鎮静・てんかんのけいれん発作 (フェノバール注射液): 通常成人1回50-200mgを1日1-2回, 皮下又は筋肉内注射する. 静脈内注射はできない. 年齢, 症状により適宜増減',
+        doseLimit: '・てんかん重積状態 (ノーベルバール): 1日1回, 15-20mg/kgを100mg/分を超えない速度 (10分以上かけて) で静注\n・新生児けいれん: 初回20mg/kgを5-10分かけて静注し, 追加投与は初回量を超えない範囲とする\n・フェノバール注射液 (筋注・皮下注): 1回50-200mgを1日1-2回まで',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,
@@ -6076,6 +6150,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dilution: '該当なし (内服専用製剤であり希釈・静注の対象ではない)',
     concentration: '該当なし (経口剤. シロップ5%は1mL中バルプロ酸ナトリウム50mg)',
     dose: '各種てんかん (小発作・焦点発作・精神運動発作ならびに混合発作) 及びてんかんに伴う性格行動障害, 躁病及び躁うつ病の躁状態の治療: 通常成人1日400-1200mg (シロップ5%換算8-24mL) を1日2-3回に分割経口投与, 年齢・症状により適宜増減. 片頭痛発作の発症抑制: 通常1日400-800mgを1日2-3回に分割経口投与, 症状に応じ適宜増量するが1日1000mgを超えないこと',
+    doseLimit: '・片頭痛発作の発症抑制: 1日1000mgを超えない',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -6141,6 +6216,7 @@ const List<Drug> kPsychotropicExtDrugs = [
     dilution: 'ミダフレッサは希釈せずそのまま使用できる. pH3.5-4.5, 浸透圧比約1.0 (生理食塩液に対する比) のほぼ等張の製剤である',
     concentration: 'ミダフレッサ: 1mg/mL (0.1%). ドルミカム: 5mg/mL (0.5%)',
     dose: 'てんかん重積状態 (修正在胎45週以上の小児及び成人) への静脈内投与: ミダゾラムとして0.15mg/kgを静脈内投与し, 必要に応じて1回0.1-0.3mg/kgを追加投与する (初回投与と追加投与の総投与量として0.6mg/kgを超えないこと). 投与速度は1mg/分を目安とする. 持続静脈内投与: 0.1mg/kg/時で開始し, 必要に応じ0.05-0.1mg/kg/時ずつ増量する (最大投与量は0.4mg/kg/時までとすること). 持続投与を終了する場合は0.05-0.1mg/kg/時を目安に緩徐に減量する',
+    doseLimit: '・初回0.15mg/kgと追加0.1-0.3mg/kgの総投与量は0.6mg/kgを超えない (投与速度は1mg/分を目安)\n・持続静脈内投与は最大0.4mg/kg/時までとする',
     forms: DrugFormAvailability(
       hasInjection: true,
       hasOral: true,

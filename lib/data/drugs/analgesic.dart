@@ -10,6 +10,7 @@ const List<Drug> kAnalgesicDrugs = [
     dilution: '電子添文: ブドウ糖液等で希釈可. 施設運用例は下記参照.',
     concentration: '50mcg/mL',
     dose: '成人バランス麻酔: 導入1.5-8mcg/kg. 維持25-50mcg間欠又は0.5-5mcg/kg/h.',
+    doseLimit: '・バランス麻酔維持: 間欠投与25-50mcgずつ, 持続0.5-5mcg/kg/hまで\n・術後疼痛の持続静注: 1-2mcg/kg/hまで\n・硬膜外: 単回100mcgまで又は持続100mcg/hまで\n・くも膜下: 単回25mcgまで',
     mechanism: 'μオピオイド受容体作動薬. 強力な鎮痛作用と用量依存性の呼吸抑制を示す.',
     packageInsertReviewed: true,
     packageInsertRevision: '2025年4月改訂 第4版',
@@ -88,6 +89,7 @@ const List<Drug> kAnalgesicDrugs = [
     dilution: '生理食塩液又は5%ブドウ糖液で希釈. 施設例: 2mg/20mL, 5mg/50mL.',
     concentration: '施設例 100mcg/mL',
     dose: '成人: 導入0.5mcg/kg/min. 維持0.25mcg/kg/minで開始し, 最大2.0mcg/kg/min.',
+    doseLimit: '・成人維持: 最大2.0mcg/kg/minまで\n・小児 (1歳以上)維持: 最大1.3mcg/kg/minまで\n・単回投与: 1.0mcg/kgを30-60秒かけて投与',
     mechanism: 'μオピオイド受容体作動薬. 血中・組織の非特異的エステラーゼで速やかに代謝される.',
     packageInsertReviewed: true,
     packageInsertRevision: '2024年6月改訂 第1版',
@@ -155,6 +157,7 @@ const List<Drug> kAnalgesicDrugs = [
     spec: '10mg/1mL/A, 50mg/5mL/A',
     concentration: '10mg/mL',
     dose: '成人: 皮下5-10mg. 硬膜外2-6mg又は2-10mg/day. くも膜下0.1-0.5mg単回.',
+    doseLimit: '・硬膜外: 単回2-6mgまで, 持続で1日10mgまで\n・くも膜下: 単回0.5mgまで, 原則として追加・持続投与は行わない',
     mechanism: '主にμオピオイド受容体を介して鎮痛・鎮静・呼吸抑制を示す強オピオイド.',
     packageInsertReviewed: true,
     packageInsertRevision: '2025年4月改訂 第4版',
@@ -230,6 +233,7 @@ const List<Drug> kAnalgesicDrugs = [
     spec: '15mg/1mL/A',
     concentration: '15mg/mL',
     dose: '鎮痛: 成人15mg IM/SC, 必要時3-4時間毎. 麻酔前投薬・補助: 30-60mg IM/SC/IV.',
+    doseLimit: '・鎮痛: 1回15mg, 3-4時間毎に反復\n・麻酔前投薬・麻酔補助: 1回60mgまで',
     mechanism: '主にκオピオイド受容体作動作用を示し, μ受容体には部分作動・拮抗的に働く.',
     packageInsertReviewed: true,
     packageInsertRevision: '2024年3月改訂 第1版',
@@ -287,6 +291,7 @@ const List<Drug> kAnalgesicDrugs = [
         '注 100mg/2ml/A. 内服: トラマール(OD)25/50mg・ワントラム100mg(徐放)・トラムセット配合錠(トラマドール37.5mg+アセトアミノフェン325mg)',
     dose:
         '注 100-150mgを筋注 or 緩徐に静注 (1日400mgまで). 内服 1回25-100mgを1日4回 (高齢者300mg・最大400mg)',
+        doseLimit: '・注射: 1回100-150mg, 4-5時間毎に反復\n・内服 (トラマール): 1回100mgまで, 4-6時間ごとに1日4回まで (1日400mgまで, 高齢者は1日300mgを目安)\n・ワントラム (徐放): 1日1回, 1日400mgまで\n・トラムセット: 1回2錠まで, 4時間以上あけて, 1日8錠まで',
     mechanism:
         'μオピオイド受容体への弱い作動＋セロトニン/ノルアドレナリン再取り込み阻害 (下行性疼痛抑制系の賦活)の二重機序. 活性代謝物M1 (CYP2D6で生成)がμ作用の主体. 非麻薬性 (麻薬指定なし)',
     notes: [
@@ -330,6 +335,7 @@ const List<Drug> kAnalgesicDrugs = [
     dilution: '原液',
     concentration: '2.5mg/ml',
     dose: '制吐 0.625-2.5mg iv (2.5mgを超えない)',
+    doseLimit: '・制吐: 1回0.625-2.5mg, 2.5mgを超えない (添文外)',
     mechanism: '最後野のCTZでドパミンD2受容体を拮抗して制吐 (ブチロフェノン系)',
     notes: [
       DrugNote(
@@ -349,6 +355,7 @@ const List<Drug> kAnalgesicDrugs = [
     category: DrugCategory.analgesic,
     spec: '1000mg/100ml (バッグ製剤)',
     dose: '成人 300-1000mgを15minでiv, 4hおき, 最大4000mg/day',
+    doseLimit: '・成人 (50kg以上): 1回1000mgまで, 4-6時間以上あけて, 1日4000mgまで\n・成人 (50kg未満)・小児 (2歳以上): 15mg/kg/回まで, 4-6時間以上あけて, 1日60mg/kgまで\n・小児 (2歳未満): 7.5mg/kg/回, 4-6時間以上あけて, 1日30mg/kgまで\n・投与時間: 15分かけて点滴',
     mechanism: '視床・大脳皮質の痛覚閾値を高めることによる鎮痛と推定',
     notes: [
       DrugNote(
@@ -393,6 +400,7 @@ const List<Drug> kAnalgesicDrugs = [
     category: DrugCategory.analgesic,
     spec: '錠25mg / 坐剤 (サポ) 12.5・25・50mg',
     dose: '内服 1日75-100mgを3回分割, 頓用は1回25-50mg. 坐剤は成人1回25-50mgを1日1-2回直腸内挿入 (小児 0.5-1.0mg/kgを1日1-2回)',
+    doseLimit: '・内服: 1日75-100mgを3回に分割 (頓用: 1回25-50mg, 1日2回, 100mgまで)\n・坐剤: 1回25-50mgを1日1-2回まで\n・坐剤 (小児): 0.5-1.0mg/kgを1日1-2回まで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -450,6 +458,7 @@ const List<Drug> kAnalgesicDrugs = [
     category: DrugCategory.analgesic,
     spec: '錠100mg / 200mg',
     dose: '手術後・外傷後・抜歯後: 初回400mg, 以降1回200mgを1日2回 (6時間以上あける). 頓用は初回400mg, 以降200mgを6時間以上あけて1日2回まで',
+    doseLimit: '・術後・外傷後・抜歯後: 初回400mg, 以降1回200mgを6時間以上あけて1日2回まで',
     forms: DrugFormAvailability(
       hasInjection: false,
       hasOral: true,
@@ -497,6 +506,7 @@ const List<Drug> kAnalgesicDrugs = [
     spec: '0.2mg/1mL/A',
     concentration: '0.2mg/mL',
     dose: '成人0.2mg IV. 不十分なら2-3分間隔で0.2mgを1-2回追加.',
+    doseLimit: '・追加投与: 2-3分間隔で0.2mgずつ, 1-2回まで追加',
     mechanism: 'オピオイド受容体拮抗薬. 麻薬による呼吸抑制及び覚醒遅延を改善する.',
     packageInsertReviewed: true,
     packageInsertRevision: '2021年12月改訂 第1版',

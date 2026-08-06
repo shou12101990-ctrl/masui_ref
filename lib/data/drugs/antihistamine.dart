@@ -9,6 +9,7 @@ const List<Drug> kAntihistamineDrugs = [
     spec: '注 5mg/1mL/A. 錠2mg, 散/DS/シロップ',
     dilution: '原液 or NS希釈',
     dose: 'アレルギー: 5mg iv/im. 内服 2mg 1日1-4回',
+    doseLimit: '・内服は1回2mg, 1日4回まで',
     mechanism: '第1世代H1受容体拮抗 (中枢移行あり→鎮静・抗コリン作用)',
     notes: [
       DrugNote('用量・使い方',
@@ -26,6 +27,7 @@ const List<Drug> kAntihistamineDrugs = [
     spec: '注 10mg/V, 20mg/V. 錠10/20mg, OD錠',
     dilution: '生食/ブドウ糖で希釈し緩徐に静注 or 点滴',
     dose: '20mg iv (1日2回まで). 術前の誤嚥予防にも',
+    doseLimit: '・注射は1回20mg, 1日2回まで',
     mechanism: '胃壁細胞のヒスタミンH2受容体を拮抗し胃酸分泌を抑制',
     notes: [
       DrugNote('用量・使い方',

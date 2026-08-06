@@ -68,6 +68,7 @@ const List<Drug> kAnticoagulantDrugs = [
     dilution: '原液',
     concentration: '10mg/ml',
     dose: 'ヘパリン100uあたり1.0-1.5mgを緩徐にiv',
+    doseLimit: '・1回50mgを超えない\n・100-200mLに希釈し10分以上かけて投与 (急速投与で低血圧・肺高血圧)',
     mechanism: 'AT-ヘパリン複合体に代わりプロタミン-ヘパリン複合体を形成して拮抗',
     notes: [
       DrugNote('補足',
@@ -80,6 +81,7 @@ const List<Drug> kAnticoagulantDrugs = [
     category: DrugCategory.anticoagulant,
     spec: '5% / 10% (1g/10ml)',
     dose: '・外傷(受傷3h以内)・出血: 1gを10分→1g/8h\n・帝王切開: 皮切前1g\n・最大~3g (60mg/kg超で痙攣リスク)',
+    doseLimit: '・60mg/kgを超えない, 目安として3g前後が上限 (痙攣リスク, 添文外)\n・急速静注は100mg/min以下 (添文外)',
     mechanism: '抗プラスミン作用でフィブリン分解(線溶)を阻害する止血作用',
     notes: [
       DrugNote('用量',
@@ -114,6 +116,7 @@ const List<Drug> kAnticoagulantDrugs = [
     dilution: '1V + 注射用水 20ml',
     concentration: '10mg/ml',
     dose: '・A法: 400mgを30mg/min→480mgを4mg/minで2h\n・B法: 800mgを30mg/min→960mgを8mg/minで2h',
+    doseLimit: '・A法 (計880mg): 400mgのボーラスに続き480mgを2時間で\n・B法 (計1760mg): 800mgのボーラスに続き960mgを2時間で\n・再出血時の追加投与は推奨されない',
     mechanism: 'Xa因子のデコイとして直接Xa阻害薬の抗凝固作用を中和 (Xa阻害薬の拮抗薬)',
     notes: [
       DrugNote('用量',
@@ -132,6 +135,7 @@ const List<Drug> kAnticoagulantDrugs = [
     category: DrugCategory.anticoagulant,
     spec: '2.5g/50ml/V',
     dose: '5g (2.5g×2V)を点滴 or 急速静注 (点滴は1Vあたり5-10分)',
+    doseLimit: '・5g (2.5g×2バイアル) が上限の固定用量\n・点滴の場合は1バイアルあたり5-10分で投与',
     mechanism: 'ダビガトランに対するモノクローナル抗体による中和 (直接トロンビン阻害薬の解毒剤)',
     notes: [
       DrugNote('用量',
@@ -148,6 +152,7 @@ const List<Drug> kAnticoagulantDrugs = [
     category: DrugCategory.anticoagulant,
     spec: '静注用 500単位 / 1000単位',
     dose: '・ワルファリン拮抗(INR別): <2→15, 2-4→25, 4-6→35, 6<→50 IU/kg\n・DOAC拮抗の第二選択 50 IU/kg',
+    doseLimit: '・ワルファリン拮抗: INR 2-4で25 IU/kg (最大2500単位), 4-6で35 IU/kg (最大3500単位), 6超で50 IU/kg (最大5000単位)\n・DOAC拮抗 (第二選択): 50 IU/kg',
     mechanism: 'ビタミンK依存性凝固因子(II・VII・IX・X＋protein C/S)の濃縮製剤 (4-factor PCC)',
     notes: [
       DrugNote('用量',

@@ -186,6 +186,7 @@ const List<Drug> kSedativeDrugs = [
         '麻酔前投薬: 成人0.08-0.10mg/kgを手術30-60分前に筋注.\n'
         '全身麻酔導入・維持: 成人0.15-0.30mg/kgを1分以上かけて静注. 必要時は初回量の半量ないし同量を追加.\n'
         '成人ICU鎮静: 導入0.03mg/kgを1分以上, 必要時追加 (総量0.30mg/kgまで). 維持0.03-0.06mg/kg/hで開始.',
+        doseLimit: '・成人ICU鎮静の導入: 追加投与を含め総量0.30mg/kgまで.',
     mechanism: 'ベンゾジアゼピン結合部位を介してGABA-A受容体機能を増強する.',
     packageInsertReviewed: true,
     packageInsertRevision: '2025年11月改訂 第2版',
@@ -250,6 +251,7 @@ const List<Drug> kSedativeDrugs = [
         '全身麻酔導入: 成人12mg/kg/hで意識消失まで持続注入し, 年齢・状態により減速.\n'
         '維持: 1mg/kg/hで開始し適宜調節 (上限2mg/kg/h). 覚醒徴候時は最大0.2mg/kg追加可.\n'
         '消化器内視鏡鎮静: 3mgを15秒以上かけて投与. 不十分なら2分以上空け1mgずつ追加.',
+        doseLimit: '・全身麻酔維持の投与速度は2mg/kg/hまで.\n・覚醒徴候時の追加投与は1回0.2mg/kgまで.\n・消化器内視鏡鎮静の追加投与は2分以上空けて1mgずつ.',
     mechanism: 'ベンゾジアゼピン結合部位を介してGABA-A受容体機能を増強する超短時間作用型鎮静薬.',
     packageInsertReviewed: true,
     packageInsertRevision: '2025年11月改訂 第5版',
@@ -312,6 +314,7 @@ const List<Drug> kSedativeDrugs = [
         '成人ICU・成人非挿管鎮静: 6mcg/kg/hで10分負荷 (総量1mcg/kg)後, 0.2-0.7mcg/kg/h. 維持から開始も可.\n'
         '小児ICU: 0.2mcg/kg/hで開始し, 6歳以上0.2-1.0, 6歳未満0.2-1.4mcg/kg/h.\n'
         '小児非侵襲的処置: 2歳以上12mcg/kg/h, 1か月-2歳未満9mcg/kg/hを10分負荷後, 1.5mcg/kg/h.',
+        doseLimit: '・成人ICU・非挿管鎮静の維持投与は0.7mcg/kg/hまで.\n・小児ICU鎮静: 6歳以上は1.0mcg/kg/h, 6歳未満は1.4mcg/kg/hまで.\n・急速静注は行わず, 負荷投与は10分かけて行う.',
     mechanism: '中枢性α2アドレナリン受容体を介して鎮静・鎮痛補助作用を示す.',
     packageInsertReviewed: true,
     packageInsertRevision: '2023年2月改訂',
@@ -369,6 +372,7 @@ const List<Drug> kSedativeDrugs = [
     dose:
         '初回1-2mg/kgを1分以上かけて静注. 必要時は初回量と同量または半量を追加.\n'
         '点滴維持例: 最初30分0.1mg/kg/min, 以後0.05mg/kg/minを基準とし, 手術終了30分前に中止.',
+        doseLimit: '・静脈内投与は1分以上かけて行い, 急速投与は避ける.',
     mechanism: '主にNMDA受容体を非競合的に阻害し, 解離性麻酔と鎮痛を生じる.',
     packageInsertReviewed: true,
     packageInsertRevision: '2025年4月改訂 第2版',
@@ -414,6 +418,7 @@ const List<Drug> kSedativeDrugs = [
     concentration: '0.1mg/mL',
     dose:
         '初回0.2mgを緩徐静注. 4分以内に不十分なら0.1mg追加し, 以後1分間隔で0.1mgずつ追加. 総量は通常1mgまで, ICU領域では2mgまで.',
+        doseLimit: '・総投与量は通常1mgまで, ICU領域では2mgまで.\n・追加投与は1分間隔で0.1mgずつ.',
     mechanism: 'ベンゾジアゼピン受容体に競合的に結合し, ベンゾジアゼピン系薬剤の作用を拮抗する.',
     packageInsertReviewed: true,
     packageInsertRevision: '2024年1月改訂 第1版',

@@ -9,6 +9,7 @@ const List<Drug> kAntiemeticDrugs = [
     spec: '10mg/2ml/A',
     dilution: '原液 or NS希釈',
     dose: '10mg iv / div (1日1-2回)',
+    doseLimit: '・1回10mg, 1日2回まで',
     mechanism: '中枢性D2受容体拮抗＋消化管運動亢進による制吐作用',
     notes: [
       DrugNote('用量・使い方',
@@ -28,6 +29,7 @@ const List<Drug> kAntiemeticDrugs = [
     spec: '1mg/1ml/A, 3mg/3ml/A',
     dilution: '原液 or NS希釈',
     dose: 'PONV・制吐 1mg iv',
+    doseLimit: '・注射は1日3mgまで (術後悪心・嘔吐)',
     mechanism: '選択的5-HT3受容体拮抗による制吐作用',
     notes: [
       DrugNote('用量・使い方',

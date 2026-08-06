@@ -36,6 +36,7 @@ const List<Drug> kSteroidDrugs = [
     spec: '40mg/V, 125mg/V, 500mg/V, 1000mg/V',
     dilution: '付属溶解液 or NS で溶解',
     dose: '・アナフィラキシー 125mg iv\n・パルス療法 500-1000mg/day × 3日',
+    doseLimit: '・パルス療法は1日500-1000mgを3日間まで (1クールとし数週ごとに反復)',
     mechanism: '強力な糖質コルチコイド作用 (鉱質コルチコイド作用なし)',
     notes: [
       DrugNote('使用場面',

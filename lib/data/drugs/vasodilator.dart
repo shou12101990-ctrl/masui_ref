@@ -48,6 +48,7 @@ const List<Drug> kVasodilatorDrugs = [
     dilution: '4V+NS48ml(1mg/ml) / 10V+NS60ml(2mg/ml)',
     concentration: '1mg/ml / 2mg/ml',
     dose: '・不安定狭心症 2-6mg/h\n・急性心不全 0.2mg/kg負荷→0.05-0.2mg/kg/h',
+    doseLimit: '・不安定狭心症: 6mg/hまで\n・急性心不全の負荷投与 (0.2mg/kg)は5分かけて投与',
     mechanism: 'NO産生＋ATP感受性Kチャネル開口による動静脈拡張・冠(細)動脈拡張・冠攣縮抑制 (強心作用はない)',
     notes: [
       DrugNote('用量',

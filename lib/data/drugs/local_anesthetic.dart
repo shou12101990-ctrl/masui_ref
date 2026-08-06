@@ -8,6 +8,7 @@ const List<Drug> kLocalAnestheticDrugs = [
     category: DrugCategory.localAnesthetic,
     spec: '0.5-2.0%製剤',
     dose: '・極量 4mg/kg (E入 7mg/kg)\n・iv法 50-100mg\n・全身麻酔下 持続 0.8-1.3mg/kg/h',
+    doseLimit: '・極量 4mg/kg (アドレナリン添加時 7mg/kg)\n・静注は4mg/min未満の速度で, 総量300mg/h以下',
     mechanism: 'NaCチャネル遮断による鎮痛・抗不整脈作用 (短-中時間作用型, 蛋白結合率64%, pKa 7.8)',
     notes: [
       DrugNote('薬物動態',
@@ -25,6 +26,7 @@ const List<Drug> kLocalAnestheticDrugs = [
     category: DrugCategory.localAnesthetic,
     spec: '0.25-0.5%製剤',
     dose: '極量 2mg/kg (0.25%なら体重×0.8 ml)',
+    doseLimit: '・極量 2mg/kg',
     mechanism: '非選択的NaCチャネル遮断 (長時間作用型, 蛋白結合率93%, pKa 8.2, 心毒性強)',
     notes: [
       DrugNote('薬物動態',
@@ -39,6 +41,7 @@ const List<Drug> kLocalAnestheticDrugs = [
     category: DrugCategory.localAnesthetic,
     spec: '2.5mg/ml (0.25%)',
     dose: '・極量 2.5mg/kg (1回最大150mg)\n・硬膜外維持 6ml/h (50kgに対し15mg/h)',
+    doseLimit: '・極量 2.5mg/kg (1回最大150mg)',
     mechanism: 'ブピバカインのS(-)-体のみ (光学異性体). 非選択的NaCチャネル遮断 (心毒性軽減)',
     notes: [
       DrugNote('薬物動態',
@@ -53,6 +56,7 @@ const List<Drug> kLocalAnestheticDrugs = [
     category: DrugCategory.localAnesthetic,
     spec: '0.75%・1.0%製剤',
     dose: '・極量 3mg/kg\n・硬膜外 7.5mg/ml 1回20ml (150mg)\n・伝達麻酔 7.5mg/ml 1回40ml (300mg)',
+    doseLimit: '・極量 3mg/kg\n・硬膜外: 1回150mgまで (7.5mg/mL 20mL)\n・伝達麻酔: 1回300mgまで (7.5mg/mL 40mL)',
     mechanism: '神経NaCを選択的に遮断 (低毒性・長時間・運動神経遮断マイルド)',
     notes: [
       DrugNote('薬物動態',
@@ -67,6 +71,7 @@ const List<Drug> kLocalAnestheticDrugs = [
     category: DrugCategory.localAnesthetic,
     spec: '0.5-2.0%製剤',
     dose: '極量 7mg/kg (3歳以下: 5-6mg/kg, 1.5%以下)',
+    doseLimit: '・極量 7mg/kg\n・小児 (3歳以下): 5-6mg/kg (1.5%以下の濃度)',
     mechanism: 'NaCチャネル遮断 (中時間作用型, 蛋白結合率77%, pKa 7.7)',
     notes: [
       DrugNote('薬物動態',
@@ -81,6 +86,7 @@ const List<Drug> kLocalAnestheticDrugs = [
     category: DrugCategory.localAnesthetic,
     spec: '20%/500ml',
     dose: '・ボーラス 1.5mL/kg を約1分でiv (50kgで75mL)\n・持続 0.25mL/kg/min, 循環回復まで\n・無効なら5分後に再ボーラス(1-2回), 累積最大~10mL/kg',
+    doseLimit: '・LAST治療における累積投与量の上限目安 10mL/kg (添文外)\n・無効時の追加ボーラスは1-2回まで (添文外)',
     mechanism: '分布容積を増やし局所麻酔薬血中濃度を低下させる (Lipid rescue)',
     notes: [
       DrugNote('局所麻酔中毒 (LAST)の対処',

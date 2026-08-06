@@ -42,6 +42,7 @@ const List<Drug> kVasopressorDrugs = [
     dilution: '4A+NS36ml(1mg/10ml) / 3A+NS47ml(0.06mg/ml)',
     concentration: '1mg/10ml / 0.06mg/ml',
     dose: '①0.01-0.02γ\n②0.02-0.1γ\n③0.1-0.2γ',
+    doseLimit: '・アナフィラキシー: 0.01mg/kgを筋注, 成人1回0.5mg/小児1回0.3mgを超えない',
     mechanism: 'α1β1β2作動. ①β優位 ②α＋β ③α優位',
     notes: [
       DrugNote('用量',
@@ -80,6 +81,7 @@ const List<Drug> kVasopressorDrugs = [
     dilution: '1A + NS 19ml',
     concentration: '1u/1ml',
     dose: '敗血症性ショック(適応外) 0.03u/min固定で併用 (1u/mL換算で1.8mL/h, 0.04u/minを超えない)',
+    doseLimit: '・尿崩症: 1回2-10単位を皮下/筋注, 1日3回まで\n・敗血症性ショック (適応外): NAd併用時0.03u/min固定, 0.04u/minを超えない (添文外)',
     mechanism: '血管平滑筋(V1), 腎集合管(V2)受容体への作用を介した昇圧',
     notes: [
       DrugNote('用量',

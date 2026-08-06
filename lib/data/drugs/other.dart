@@ -46,6 +46,7 @@ const List<Drug> kOtherDrugs = [
     dilution: '0.5-1A + 500ml',
     concentration: '10-20mEq/約500ml',
     dose: '低K補正: 必ず希釈し ≤40mEq/L・≤20mEq/h・≤100mEq/day (KCl 5Aまで)',
+    doseLimit: '・投与濃度は40mEq/L以下\n・投与速度は20mEq/h以下\n・1日100mEq以下 (KCl 5Aまで)',
     mechanism: 'カリウムの補充 (術中の低カリウム血症の是正)',
     notes: [
       DrugNote('用量・必須の希釈ルール',
@@ -64,6 +65,7 @@ const List<Drug> kOtherDrugs = [
     category: DrugCategory.other,
     spec: '静注用 1300単位/V',
     dose: 'vWD出血: 40-80単位/kg (4mL/min以下で緩徐に)',
+    doseLimit: '・1回量は40-80単位/kgまで (出血の重症度に応じて)\n・投与速度は4mL/min以下',
     mechanism: 'von Willebrand因子(VWF)の補充 (遺伝子組換えVWF製剤)',
     notes: [
       DrugNote('適応・用量',
@@ -78,6 +80,7 @@ const List<Drug> kOtherDrugs = [
     category: DrugCategory.other,
     spec: '静注用 250 / 500 / 1000単位',
     dose: '血友病A: FVIII:C 250-2000IU/回 / vWD: RCof 750-6000IU/回',
+    doseLimit: '・血友病A: 1回250-2000IUまで (第VIII因子活性による)\n・von Willebrand病: 1回750-6000IUまで (リストセチンコファクター活性による)\n・投与速度は5mL/min以下',
     mechanism: '第VIII因子とVWFを含む血漿由来製剤. 血友病A・von Willebrand病の出血を抑制',
     notes: [
       DrugNote('適応・用量',
