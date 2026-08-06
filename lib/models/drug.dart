@@ -173,6 +173,8 @@ enum DrugCategory {
   antimicrobial('抗菌薬'),
   antihistamine('抗ヒスタミン薬'),
   transfusion('輸血製剤'),
+  diuretic('利尿薬'),
+  gastrointestinal('消化管薬'),
   other('その他');
 
   final String label;

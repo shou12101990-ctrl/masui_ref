@@ -6,7 +6,10 @@ import '../models/psy_matrix.dart';
 /// 向精神薬を上位分類 (定型/非定型, 受容体プロファイル)で俯瞰する画面.
 /// 「分類」タブと,「疾患・症状との対応表」タブの2構成.
 class PsyMatrixScreen extends StatefulWidget {
-  const PsyMatrixScreen({super.key});
+  /// 薬剤マトリクスのタブとして埋め込むとき true.
+  /// AppBarはハブ側が出すので, 分類/疾患・症状の切替を本文の先頭に出す.
+  final bool embedded;
+  const PsyMatrixScreen({super.key, this.embedded = false});
 
   @override
   State<PsyMatrixScreen> createState() => _PsyMatrixScreenState();
@@ -48,26 +51,30 @@ class _PsyMatrixScreenState extends State<PsyMatrixScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('向精神薬 分類・対応表'),
-        backgroundColor: _accent,
-        foregroundColor: Colors.white,
-        bottom: PreferredSize(
-          preferredSize: const Size.fromHeight(42),
-          child: Container(
-            color: _accent,
-            padding: const EdgeInsets.only(bottom: 6),
-            child: Row(
-              children: [
-                _tabBtn('分類 (${kPsyClassMatrix.length})', _Tab.classes),
-                _tabBtn('疾患・症状 (${kPsyIndications.length})', _Tab.indications),
-              ],
+      appBar: widget.embedded
+          ? null
+          : AppBar(
+              title: const Text('向精神薬 分類・対応表'),
+              backgroundColor: _accent,
+              foregroundColor: Colors.white,
+              bottom: PreferredSize(
+                preferredSize: const Size.fromHeight(42),
+                child: Container(
+                  color: _accent,
+                  padding: const EdgeInsets.only(bottom: 6),
+                  child: _tabRow(),
+                ),
+              ),
             ),
-          ),
-        ),
-      ),
       body: Column(
         children: [
+          // 埋め込み時はハブのAppBar直下に切替を出す
+          if (widget.embedded)
+            Container(
+              color: _accent,
+              padding: const EdgeInsets.fromLTRB(0, 2, 0, 8),
+              child: _tabRow(),
+            ),
           Padding(
             padding: const EdgeInsets.fromLTRB(12, 12, 12, 8),
             child: TextField(
@@ -110,6 +117,14 @@ class _PsyMatrixScreenState extends State<PsyMatrixScreen> {
       ),
     );
   }
+
+  /// 分類 / 疾患・症状 の切替. AppBar下・本文先頭のどちらにも置ける.
+  Widget _tabRow() => Row(
+    children: [
+      _tabBtn('分類 (${kPsyClassMatrix.length})', _Tab.classes),
+      _tabBtn('疾患・症状 (${kPsyIndications.length})', _Tab.indications),
+    ],
+  );
 
   Widget _tabBtn(String label, _Tab t) => Expanded(
     child: InkWell(

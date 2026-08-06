@@ -44,6 +44,10 @@ extension DrugCategoryVisual on DrugCategory {
       0xFF7CB342,
     ), // 抗ヒスタミン薬 : light green
     DrugCategory.transfusion => const Color(0xFFAD1457), // 輸血製剤 : crimson
+    DrugCategory.diuretic => const Color(0xFF1565C0), // 利尿薬 : 水を連想させる青
+    DrugCategory.gastrointestinal => const Color(
+      0xFF6A1B9A,
+    ), // 消化管薬 : purple
     DrugCategory.other => const Color(0xFF6B1414), // その他 : 赤黒い (dark red)
   };
 }

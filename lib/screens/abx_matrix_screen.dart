@@ -6,7 +6,10 @@ import '../models/abx_matrix.dart';
 /// 抗菌薬をボタン (カード)ではなく一覧表で参照するモード.
 /// カバー範囲と臓器移行性を横断的に見比べるための画面.
 class AbxMatrixScreen extends StatefulWidget {
-  const AbxMatrixScreen({super.key});
+  /// 薬剤マトリクスのタブとして埋め込むとき true.
+  /// AppBarはハブ側が出すので, 群の切替 (抗菌薬/抗真菌薬/抗ウイルス薬)を本文の先頭に出す.
+  final bool embedded;
+  const AbxMatrixScreen({super.key, this.embedded = false});
 
   @override
   State<AbxMatrixScreen> createState() => _AbxMatrixScreenState();
@@ -78,52 +81,30 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
   Widget build(BuildContext context) {
     final rows = _rows;
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('抗微生物薬 一覧表'),
-        backgroundColor: _accent,
-        foregroundColor: Colors.white,
-        bottom: PreferredSize(
-          preferredSize: const Size.fromHeight(42),
-          child: Container(
-            color: _accent,
-            padding: const EdgeInsets.only(bottom: 6),
-            child: Row(
-              children: [
-                for (final k in _Kind.values)
-                  Expanded(
-                    child: InkWell(
-                      onTap: () => setState(() {
-                        _kind = k;
-                        _group = null;
-                      }),
-                      child: Container(
-                        margin: const EdgeInsets.symmetric(horizontal: 4),
-                        padding: const EdgeInsets.symmetric(vertical: 7),
-                        decoration: BoxDecoration(
-                          color: _kind == k
-                              ? Colors.white
-                              : Colors.white.withValues(alpha: 0.16),
-                          borderRadius: BorderRadius.circular(8),
-                        ),
-                        child: Text(
-                          '${k.label} (${k.rows.length})',
-                          textAlign: TextAlign.center,
-                          style: TextStyle(
-                            fontSize: 12,
-                            fontWeight: FontWeight.bold,
-                            color: _kind == k ? _accent : Colors.white,
-                          ),
-                        ),
-                      ),
-                    ),
-                  ),
-              ],
+      appBar: widget.embedded
+          ? null
+          : AppBar(
+              title: const Text('抗微生物薬 一覧表'),
+              backgroundColor: _accent,
+              foregroundColor: Colors.white,
+              bottom: PreferredSize(
+                preferredSize: const Size.fromHeight(42),
+                child: Container(
+                  color: _accent,
+                  padding: const EdgeInsets.only(bottom: 6),
+                  child: _kindRow(),
+                ),
+              ),
             ),
-          ),
-        ),
-      ),
       body: Column(
         children: [
+          // 埋め込み時はハブのAppBar直下に群の切替を出す
+          if (widget.embedded)
+            Container(
+              color: _accent,
+              padding: const EdgeInsets.fromLTRB(0, 2, 0, 8),
+              child: _kindRow(),
+            ),
           // 検索 + 表示切替
           Padding(
             padding: const EdgeInsets.fromLTRB(12, 12, 12, 6),
@@ -226,6 +207,40 @@ class _AbxMatrixScreenState extends State<AbxMatrixScreen> {
       ),
     );
   }
+
+  /// 群 (抗菌薬/抗真菌薬/抗ウイルス薬)の切替. AppBar下・本文先頭のどちらにも置ける.
+  Widget _kindRow() => Row(
+    children: [
+      for (final k in _Kind.values)
+        Expanded(
+          child: InkWell(
+            onTap: () => setState(() {
+              _kind = k;
+              _group = null;
+            }),
+            child: Container(
+              margin: const EdgeInsets.symmetric(horizontal: 4),
+              padding: const EdgeInsets.symmetric(vertical: 7),
+              decoration: BoxDecoration(
+                color: _kind == k
+                    ? Colors.white
+                    : Colors.white.withValues(alpha: 0.16),
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: Text(
+                '${k.label} (${k.rows.length})',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 12,
+                  fontWeight: FontWeight.bold,
+                  color: _kind == k ? _accent : Colors.white,
+                ),
+              ),
+            ),
+          ),
+        ),
+    ],
+  );
 
   /// 凡例に出す「色 → 何を表すか」の対応
   List<(String, Color)> get _legendGroups => switch (_kind) {
