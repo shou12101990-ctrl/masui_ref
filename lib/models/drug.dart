@@ -22,6 +22,11 @@ class Drug {
   /// 用法・用量の要約（1行で出せるもの）
   final String? dose;
 
+  /// 上限量・投与間隔の規定. 1回量/1日量の上限, 1日の使用回数の上限,
+  /// 再投与までの最短間隔, 総投与期間の上限など「超えてはいけない値」を集約する.
+  /// 電子添文に上限の規定がない薬では null.
+  final String? doseLimit;
+
   /// 剤形. 「静注できるのか, 内服しかないのか」を一目で分かるようにする.
   /// 麻酔薬のように注射が前提の薬では省略してよい (null).
   final DrugFormAvailability? forms;
@@ -67,6 +72,7 @@ class Drug {
     this.dilution,
     this.concentration,
     this.dose,
+    this.doseLimit,
     this.forms,
     this.emergencyDose,
     this.spectrum,
@@ -88,6 +94,7 @@ class Drug {
     category.label,
     mechanism,
     dose ?? '',
+    doseLimit ?? '',
     forms?.summary ?? '',
     emergencyDose ?? '',
     spectrum ?? '',

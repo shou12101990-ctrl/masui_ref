@@ -3,6 +3,8 @@
 麻酔科ローテ研修医向け Flutter web アプリ（薬剤リファレンス＋計算機＋解説＋緊急対応）。
 GitHub Pages 公開: https://shou12101990-ctrl.github.io/masui_ref/
 
+> 途中の作業・未回答の保留事項・マシン間の引き継ぎは `HANDOFF.md` を参照。
+
 ## テキスト記載の固定ルール（最重要・薬剤マスタ／解説ノート共通）
 
 ノート・薬剤マスタへ記載・転記する文章は、**全角句読点を必ず半角に統一**する。
@@ -34,14 +36,31 @@ flutter build web --no-tree-shake-icons --base-href /masui_ref/
 
 ## デプロイ（重要）
 
-- GitHub Actions の `Deploy to GitHub Pages` ワークフローは**無効化済み（自動デプロイ OFF）**。
-- ユーザーが「デプロイ」と言うまでデプロイしない。再開は `gh workflow enable "Deploy to GitHub Pages"`。
-- コミット／push は各バッチで可（push してもデプロイは走らない）。
-- コミットメッセージ末尾に必ず: `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`
+- `deploy.yml` は `workflow_dispatch` のみ＝**自動デプロイ OFF**。push してもデプロイは走らない。
+- ユーザーが「デプロイ」「dep」「cctd」と言うまでデプロイしない。
+- 手動デプロイ手順（`gh auth` 済み前提）:
+
+  ```
+  gh workflow run deploy.yml
+  gh run list --workflow=deploy.yml --limit 1 --json databaseId,status,headSha
+  gh run watch <id> --exit-status
+  ```
+
+- **push / deploy の前に必ず `git fetch` して `origin/main` との差分を確認する**（別セッション・codex が同じリポジトリを編集していることがある）。必要なら `git pull --rebase`。
+- `cctd` = codex レビュー → `NO_FIX_NEEDED` ならデプロイ、というユーザー定義のショートカット。
+- コミット／push は各バッチで可。
+- コミットメッセージ末尾に必ず: `Co-Authored-By: Claude <使用モデル名> <noreply@anthropic.com>`（例: `Claude Opus 5`）
 
 ## 主要ファイル
 
-- `lib/data/drugs.dart` — 薬剤マスタ（Drug + DrugNote、カテゴリ enum は `lib/models/drug.dart`）
+- `lib/models/drug.dart` — `Drug` / `DrugNote` / `DrugContraindication` / カテゴリ enum
+- `lib/data/drugs/` — 薬剤マスタ。カテゴリ別に 18 ファイルへ分割済み（計 248 剤）。
+  `analgesic` `sedative` `antiarrhythmic` `antimicrobial`(53) `psychotropic_ext`(94) `vasopressor` `vasodilator`
+  `circulatory_other` `local_anesthetic` `anticoagulant` `muscle_relaxant` `inhalational` `steroid` `antiemetic`
+  `antihistamine` `transfusion` `other` `psychotropic`
 - `lib/data/columns.dart` — 解説ノート（カテゴリ色 + ColumnArticle）
 - `lib/screens/` — 各画面（機能ハブ calculator_hub、緊急対応 emergency、γ計算・iv PCA・点滴メトロノーム・局麻極量・DLT・酸素較差・許容出血量・メイロンBE補正・オピオイド換算 など）
-- `lib/main.dart` — タブ（薬剤／機能／解説／緊急対応）。下部ナビは自作（`_BottomNav`）で緊急対応のみ赤・太字。
+  - `pre_entry_screen.dart` — 入室前準備チェックリスト（共通 16 項目 + 個別事例 9 群）
+  - `abx_matrix_screen.dart` / `psy_matrix_screen.dart` — 抗微生物薬・向精神薬の一覧表（左端に上位分類の縦帯、自動縮小あり）
+  - `drug_detail_screen.dart` — 薬剤詳細。カード順は 用法・用量 → 上限量・投与間隔 → 緊急時 → スペクトラム → 腎調節 → 機序
+- `lib/main.dart` — タブ（機能／薬剤／解説／緊急対応）。下部ナビは自作（`_BottomNav`）で緊急対応のみ赤・太字。起動時は「機能」タブ。

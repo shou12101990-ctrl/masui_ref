@@ -193,6 +193,17 @@ class DrugDetailScreen extends StatelessWidget {
             ),
           if (drug.dose != null) const SizedBox(height: 12),
 
+          // 上限量・1日の回数・投与間隔の規定
+          if (drug.doseLimit != null && drug.doseLimit!.isNotEmpty) ...[
+            _HighlightCard(
+              icon: Icons.speed_outlined,
+              title: '上限量・投与間隔',
+              color: const Color(0xFFE65100),
+              body: drug.doseLimit!,
+            ),
+            const SizedBox(height: 12),
+          ],
+
           // 緊急時の投与 (致死的不整脈, 急性興奮, てんかん重積, 周術期予防投与 など)
           if (drug.emergencyDose != null &&
               drug.emergencyDose!.isNotEmpty) ...[
